@@ -43,13 +43,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 27(3) of that Act, a draft of these Regulations has been laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and interpretation[^key-3f7ddb105ddfd24bc7d9aa04f09fbb4d]
+## 1. Title, commencement and interpretation[^c-3f7ddb105ddfd24bc7d9aa04f09fbb4d]
 
 (1) The title of these Regulations is the Renting Homes (Fees etc.) (Prescribed Limits of Default Payments) (Wales) Regulations 2020 and they come into force on 28 April 2020.
 
 (2) In these Regulations, a “contract-holder” has the same meaning as in the Renting Homes (Wales) Act 2016[^f00002].
 
-## 2. Prescribed limits for failure to pay rent[^key-86ceacb5981f812906d15617ef5363ac]
+## 2. Prescribed limits for failure to pay rent[^c-86ceacb5981f812906d15617ef5363ac]
 
 (1) The prescribed limit in the case of a failure by a contract-holder[^f00003] to make a payment of rent to a landlord by the due date is to be determined as follows.
 
@@ -61,14 +61,14 @@ In accordance with section 27(3) of that Act, a draft of these Regulations has b
 
 (5) But where an order under section 19 of the Bank of England Act 1998[^f00004] is in force, any equivalent percentage rate determined by the Treasury under that section applies.
 
-## 3. Additional descriptions of default payment[^key-ef2eb5fcd564c5ed838aba033c719654]
+## 3. Additional descriptions of default payment[^c-ef2eb5fcd564c5ed838aba033c719654]
 
 The additional descriptions of default in respect of which a prescribed limit is specified are—
 
 - (a) a breach by a contract-holder of a term of the contract which leads to the requirement for a lock giving access to the dwelling to which the contract-holder’s contract relates to be changed, added to or removed, and
 - (b) a breach by a contract-holder of a term of the contract which leads to the requirement for a key or other security device which gives access to the dwelling to which the contract relates to be replaced.
 
-## 4. Prescribed limit for additional descriptions of default payment[^key-119c0427bd022fe19a1a45c31628c243]
+## 4. Prescribed limit for additional descriptions of default payment[^c-119c0427bd022fe19a1a45c31628c243]
 
 (1) The prescribed limit in respect of the descriptions of default payments specified in regulation 3 is the amount equal to the actual cost of the replacement, change, addition or removal.
 
@@ -104,16 +104,16 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2019 anaw 2](https://www.legislation.gov.uk/anaw/2019/2). Schedule 1 is introduced by section 4 of the Act. *See* section 28 for the definition of “regulations”.
 
-[^key-3f7ddb105ddfd24bc7d9aa04f09fbb4d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/202/regulation/1) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)
+[^c-3f7ddb105ddfd24bc7d9aa04f09fbb4d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/202/regulation/1) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)
 
 [^f00002]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1); *see* section 7(5) for the definition of “contract-holder”.
 
-[^key-86ceacb5981f812906d15617ef5363ac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/202/regulation/2) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)
+[^c-86ceacb5981f812906d15617ef5363ac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/202/regulation/2) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)
 
 [^f00003]: Footnote: By virtue of regulation 3 of the Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 ([S.I. 2019/1151 (W. 201)](https://www.legislation.gov.uk/wsi/2019/1151)), the references in the Renting Homes (Fees etc.) (Wales) Act 2019 to a standard occupation contract are to be read as references to an assured shorthold tenancy and the references in the Act to a contract-holder are to be read as references to a tenant under an assured shorthold tenancy. When commenced on the appointed day, section 240 of, and Schedule 12 to, the Renting Homes (Wales) [Act 2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1) means existing assured shorthold tenancies will convert in accordance with these provisions.
 
 [^f00004]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-ef2eb5fcd564c5ed838aba033c719654]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/202/regulation/3) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)
+[^c-ef2eb5fcd564c5ed838aba033c719654]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/202/regulation/3) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)
 
-[^key-119c0427bd022fe19a1a45c31628c243]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/202/regulation/4) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)
+[^c-119c0427bd022fe19a1a45c31628c243]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/202/regulation/4) in force at 28.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2020/202/regulation/1/1)

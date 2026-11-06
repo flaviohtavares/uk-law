@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Studies[^key-8b93f07808667a14c3dab8cec3c417fc]
+## 101. Studies[^c-8b93f07808667a14c3dab8cec3c417fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b93f07808667a14c3dab8cec3c417fc]: Commencement: S. 101 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-8b93f07808667a14c3dab8cec3c417fc]: Commencement: S. 101 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

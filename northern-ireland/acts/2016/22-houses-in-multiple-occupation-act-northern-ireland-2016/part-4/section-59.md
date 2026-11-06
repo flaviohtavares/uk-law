@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Approvals as to use of premises[^key-efcbf2d5ee81ad958b0adfe618221d82]
+## 59. Approvals as to use of premises[^c-efcbf2d5ee81ad958b0adfe618221d82]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efcbf2d5ee81ad958b0adfe618221d82]: Commencement: [S. 59](https://www.legislation.gov.uk/nia/2016/22/section/59) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-efcbf2d5ee81ad958b0adfe618221d82]: Commencement: [S. 59](https://www.legislation.gov.uk/nia/2016/22/section/59) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

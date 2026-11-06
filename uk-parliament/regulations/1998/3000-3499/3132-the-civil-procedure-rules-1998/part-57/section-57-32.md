@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57.32. Requirement to send copy of all orders made to the Public Guardian[^key-a1440193a250a97940c9c0260892fbbe][^key-cde46d73152a6807962bb3825076a841]
+## 57.32. Requirement to send copy of all orders made to the Public Guardian[^c-a1440193a250a97940c9c0260892fbbe][^c-cde46d73152a6807962bb3825076a841]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Where the court makes a guardianship order, a revocation/variation order, an ord
 
 ## Annotations
 
-[^key-a1440193a250a97940c9c0260892fbbe]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) Section 6 inserted (31.7.2019) by [The Civil Procedure (Amendment No. 2) Rules 2019 (S.I. 2019/1034)](https://www.legislation.gov.uk/uksi/2019/1034), [rule 1(1)](https://www.legislation.gov.uk/uksi/2019/1034/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/1034/schedule)
+[^c-a1440193a250a97940c9c0260892fbbe]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) Section 6 inserted (31.7.2019) by [The Civil Procedure (Amendment No. 2) Rules 2019 (S.I. 2019/1034)](https://www.legislation.gov.uk/uksi/2019/1034), [rule 1(1)](https://www.legislation.gov.uk/uksi/2019/1034/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/1034/schedule)
 
-[^key-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))
+[^c-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))

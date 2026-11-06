@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Review and amendment of certain thresholds[^key-3f547728f7e9501f3d6cd565e019c7cd]
+## 5A. Review and amendment of certain thresholds[^c-3f547728f7e9501f3d6cd565e019c7cd]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f547728f7e9501f3d6cd565e019c7cd]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2015/446/regulation/5A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(6)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/6) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-3f547728f7e9501f3d6cd565e019c7cd]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2015/446/regulation/5A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(6)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/6) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

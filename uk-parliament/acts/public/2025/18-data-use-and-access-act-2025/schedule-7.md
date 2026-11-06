@@ -22,11 +22,11 @@ summary: ''
 
 Section 85
 
-### 1. Introduction[^key-d7fd200770e326863d136566b5625227][^key-ca4cfe6e298b68efaafe0ecd062e3ad3]
+### 1. Introduction[^c-d7fd200770e326863d136566b5625227][^c-ca4cfe6e298b68efaafe0ecd062e3ad3]
 
 Chapter 5 of the UK GDPR (transfers of personal data to third countries or international organisations) is amended as follows.
 
-### 2. General principles for transfers[^key-fca16685b247fdd723d7f49b44dc636d][^key-e6f801ae9dc1426b77051bb8aaecd7cf]
+### 2. General principles for transfers[^c-fca16685b247fdd723d7f49b44dc636d][^c-e6f801ae9dc1426b77051bb8aaecd7cf]
 
 (1) Omit Article 44 (transfers of personal data to third countries etc: general principle for transfers).
 
@@ -47,11 +47,11 @@ Chapter 5 of the UK GDPR (transfers of personal data to third countries or inter
 >
 > 3. A transfer may not be made in reliance on paragraph 2(b) or (c) if, or to the extent that, it would breach a restriction in regulations under Article 49A.
 
-### 3. Transfers approved by regulations[^key-1b99d275e57f36f2cd5b93814ebace01][^key-959b7dbea9d9683a0a4d02c2a8c87168]
+### 3. Transfers approved by regulations[^c-1b99d275e57f36f2cd5b93814ebace01][^c-959b7dbea9d9683a0a4d02c2a8c87168]
 
 Omit Article 45 (transfers on the basis of an adequacy decision).
 
-**4.**[^key-9faa29c0a8aee3f4a6260d73a42b69b8][^key-6da327ec93e1f655006335071fcdd19d] After that Article insert—
+**4.**[^c-9faa29c0a8aee3f4a6260d73a42b69b8][^c-6da327ec93e1f655006335071fcdd19d] After that Article insert—
 
 > **Article 45A. Transfers approved by regulations**
 >
@@ -107,7 +107,7 @@ Omit Article 45 (transfers on the basis of an adequacy decision).
 > - (a) the references in paragraphs 1 to 3 to personal data are to be read as references only to personal data likely to be the subject of such transfers, and
 > - (b) the reference in paragraph 2(d) to transfer to other countries or international organisations is to be read as including transfer within the third country or international organisation.
 
-### 5. Transfers approved by regulations: monitoring[^key-b3d90bf339f5e1729368f6034891aba2][^key-0f34d955d1a34c9ead78a8e714df9b04]
+### 5. Transfers approved by regulations: monitoring[^c-b3d90bf339f5e1729368f6034891aba2][^c-0f34d955d1a34c9ead78a8e714df9b04]
 
 After Article 45B (inserted by paragraph 4) insert—
 
@@ -126,7 +126,7 @@ After Article 45B (inserted by paragraph 4) insert—
 >
 > 5. In the case of regulations under Article 45A which approve only certain transfers to a third country or international organisation specified or described in the regulations (in accordance with Article 45A(4)(b)), the lists published under paragraph 4 must specify or describe the relevant transfers.
 
-### 6. Transfers subject to appropriate safeguards[^key-e4643a180ecb8e45294ceb9bd2007309][^key-99e25d27e0b5c381da3c47f2ef2e5476]
+### 6. Transfers subject to appropriate safeguards[^c-e4643a180ecb8e45294ceb9bd2007309][^c-99e25d27e0b5c381da3c47f2ef2e5476]
 
 (1) Article 46 (transfers subject to appropriate safeguards) is amended as follows.
 
@@ -176,9 +176,9 @@ After Article 45B (inserted by paragraph 4) insert—
 > - (a) references to the protection provided for the data subject are to that protection taken as a whole;
 > - (b) “**relevant person**” means a public body or another person exercising functions of a public nature.
 
-**7.**[^key-d2887f39acef71229374ec7439133c19][^key-76a7c0100e6699692cb923243236fdb4] In the heading of Article 47 (binding corporate rules) at the beginning insert “Transfers subject to appropriate safeguards:”.
+**7.**[^c-d2887f39acef71229374ec7439133c19][^c-76a7c0100e6699692cb923243236fdb4] In the heading of Article 47 (binding corporate rules) at the beginning insert “Transfers subject to appropriate safeguards:”.
 
-**8.**[^key-701ce0c189a7277517ce31a30fb430f6][^key-0688cb7be67c00ede4be8d76444af285] After Article 47 insert—
+**8.**[^c-701ce0c189a7277517ce31a30fb430f6][^c-0688cb7be67c00ede4be8d76444af285] After Article 47 insert—
 
 > **Article 47A. Transfers subject to appropriate safeguards: further provision**
 >
@@ -204,7 +204,7 @@ After Article 45B (inserted by paragraph 4) insert—
 >
 > 8. Regulations under paragraph 4 are subject to the affirmative resolution procedure.
 
-### 9. Derogations for specific situations[^key-1607233150e027bb3ef90809584d23a5][^key-5e96dc00d6b0ab59272eb5d2981f8e6f]
+### 9. Derogations for specific situations[^c-1607233150e027bb3ef90809584d23a5][^c-5e96dc00d6b0ab59272eb5d2981f8e6f]
 
 (1) Article 49 (derogations for specific situations) is amended as follows.
 
@@ -235,7 +235,7 @@ After Article 45B (inserted by paragraph 4) insert—
 >
 > 8. For the purposes of this Article, an urgency statement is a reasoned statement that the Secretary of State considers it desirable for the regulations to come into force without delay.
 
-### 10. Public interest restrictions[^key-11d6c1ddc793147d5402bc311cd29392][^key-9ddda12bd2a3f4028ebaca6273ad6876]
+### 10. Public interest restrictions[^c-11d6c1ddc793147d5402bc311cd29392][^c-9ddda12bd2a3f4028ebaca6273ad6876]
 
 After Article 49 insert—
 
@@ -255,42 +255,42 @@ After Article 49 insert—
 
 ## Annotations
 
-[^key-d7fd200770e326863d136566b5625227]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-d7fd200770e326863d136566b5625227]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-ca4cfe6e298b68efaafe0ecd062e3ad3]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/1) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-ca4cfe6e298b68efaafe0ecd062e3ad3]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/1) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-fca16685b247fdd723d7f49b44dc636d]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-fca16685b247fdd723d7f49b44dc636d]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-e6f801ae9dc1426b77051bb8aaecd7cf]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/2) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-e6f801ae9dc1426b77051bb8aaecd7cf]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/2) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-1b99d275e57f36f2cd5b93814ebace01]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-1b99d275e57f36f2cd5b93814ebace01]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-959b7dbea9d9683a0a4d02c2a8c87168]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/3) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-959b7dbea9d9683a0a4d02c2a8c87168]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/3) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-9faa29c0a8aee3f4a6260d73a42b69b8]: Commencement: Sch. 7 para. 4 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-9faa29c0a8aee3f4a6260d73a42b69b8]: Commencement: Sch. 7 para. 4 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-6da327ec93e1f655006335071fcdd19d]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/4) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-6da327ec93e1f655006335071fcdd19d]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/4) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-b3d90bf339f5e1729368f6034891aba2]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-b3d90bf339f5e1729368f6034891aba2]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-0f34d955d1a34c9ead78a8e714df9b04]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/5) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-0f34d955d1a34c9ead78a8e714df9b04]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/5) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-e4643a180ecb8e45294ceb9bd2007309]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-e4643a180ecb8e45294ceb9bd2007309]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-99e25d27e0b5c381da3c47f2ef2e5476]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/6) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-99e25d27e0b5c381da3c47f2ef2e5476]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/6) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-d2887f39acef71229374ec7439133c19]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-d2887f39acef71229374ec7439133c19]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-76a7c0100e6699692cb923243236fdb4]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/7) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-76a7c0100e6699692cb923243236fdb4]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/7) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-701ce0c189a7277517ce31a30fb430f6]: Commencement: Sch. 7 para. 8 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-701ce0c189a7277517ce31a30fb430f6]: Commencement: Sch. 7 para. 8 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-0688cb7be67c00ede4be8d76444af285]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/8) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-0688cb7be67c00ede4be8d76444af285]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/8) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-1607233150e027bb3ef90809584d23a5]: Commencement: Sch. 7 para. 9 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-1607233150e027bb3ef90809584d23a5]: Commencement: Sch. 7 para. 9 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-5e96dc00d6b0ab59272eb5d2981f8e6f]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/9) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-5e96dc00d6b0ab59272eb5d2981f8e6f]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/9) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-11d6c1ddc793147d5402bc311cd29392]: Commencement: Sch. 7 para. 10 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-11d6c1ddc793147d5402bc311cd29392]: Commencement: Sch. 7 para. 10 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-9ddda12bd2a3f4028ebaca6273ad6876]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/10) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-9ddda12bd2a3f4028ebaca6273ad6876]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/10) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)

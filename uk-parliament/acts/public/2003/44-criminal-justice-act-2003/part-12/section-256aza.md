@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256AZA. Release after recall where further sentence being served[^key-66b9ed221304044ffab99f3d73a37979]
+## 256AZA. Release after recall where further sentence being served[^c-66b9ed221304044ffab99f3d73a37979]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 in respect of each of the others.
 
-(4) If the offender is released on licence under section 255B, 255BA,[^key-26642f3e6061aa6821f55341a5fd54c6] 255C or 256A, the offender is to be on licence—
+(4) If the offender is released on licence under section 255B, 255BA,[^c-26642f3e6061aa6821f55341a5fd54c6] 255C or 256A, the offender is to be on licence—
 
 - (a) until the last date on which the offender is required to be on licence in respect of any of the terms, and
 - (b) subject to such conditions as are required by this Chapter in respect of any of the sentences.
@@ -44,6 +44,6 @@ in respect of each of the others.
 
 ## Annotations
 
-[^key-66b9ed221304044ffab99f3d73a37979]: Textual amendment: [S. 256AZA](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZA) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 136(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/136/6), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-66b9ed221304044ffab99f3d73a37979]: Textual amendment: [S. 256AZA](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZA) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 136(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/136/6), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
 
-[^key-26642f3e6061aa6821f55341a5fd54c6]: Textual amendment: Word in s. 256AZA(4) inserted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/9), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-26642f3e6061aa6821f55341a5fd54c6]: Textual amendment: Word in s. 256AZA(4) inserted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/9), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

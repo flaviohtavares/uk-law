@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Meaning of “care home” and “care home provider”[^key-4b191ba3bf2ea84cc6349ef6e7d6cc97]
+## 62. Meaning of “care home” and “care home provider”[^c-4b191ba3bf2ea84cc6349ef6e7d6cc97]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b191ba3bf2ea84cc6349ef6e7d6cc97]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2019/3/section/62) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-4b191ba3bf2ea84cc6349ef6e7d6cc97]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2019/3/section/62) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

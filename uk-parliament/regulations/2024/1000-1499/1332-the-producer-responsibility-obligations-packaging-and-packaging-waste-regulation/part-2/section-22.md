@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Sellers[^key-476936e80de6cae49a16ec5b951773d1]
+## 22. Sellers[^c-476936e80de6cae49a16ec5b951773d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-476936e80de6cae49a16ec5b951773d1]: Commencement: Reg. 22 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-476936e80de6cae49a16ec5b951773d1]: Commencement: Reg. 22 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

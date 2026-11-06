@@ -52,13 +52,13 @@ In accordance with paragraph 1(8) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-52b7300b7dc7eb0fe8f6a7255f94435d]
+### 1. Title, commencement and application[^c-52b7300b7dc7eb0fe8f6a7255f94435d]
 
 (1) The title of these Regulations is the Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022.
 
 (2) These Regulations come into force on 16 December 2022 and apply in relation to Wales.
 
-### 2. Interpretation[^key-d8a4c5f8302284a517a069d15dac410f]
+### 2. Interpretation[^c-d8a4c5f8302284a517a069d15dac410f]
 
 (1) The words and expressions listed in paragraph (2), as used in these Regulations and in the EU Directives modified by Part 5, have the meanings given in paragraph (2).
 
@@ -85,7 +85,7 @@ In accordance with paragraph 1(8) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 2 — Amendment of the Trade in Animals and Related Products (Wales) Regulations 2011
 
-### 3. Amendment of the Trade in Animals and Related Products (Wales) Regulations 2011[^key-2307db153eb622c6f290b226ed36fb84]
+### 3. Amendment of the Trade in Animals and Related Products (Wales) Regulations 2011[^c-2307db153eb622c6f290b226ed36fb84]
 
 (1) The Trade in Animals and Related Products (Wales) Regulations 2011[^f00020] are amended as follows.
 
@@ -145,7 +145,7 @@ In accordance with paragraph 1(8) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 3 — Animal and public health requirements
 
-### 4. List of animal and public health requirements[^key-e7fc179732b7bee6842fe713acc60472]
+### 4. List of animal and public health requirements[^c-e7fc179732b7bee6842fe713acc60472]
 
 (1) Paragraph (2) lists legislation for the purposes of regulations 15(3)(a) and 18(3) of the Trade in Animals.
 
@@ -177,7 +177,7 @@ In accordance with paragraph 1(8) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 4 — Legislative and other functions
 
-### 5. Provisions containing legislative and other functions[^key-9a48898310652843ff896ff90daa143e]
+### 5. Provisions containing legislative and other functions[^c-9a48898310652843ff896ff90daa143e]
 
 (1) The Schedule contains a list of provisions of EU Directives that confer functions on the appropriate authority, together with any provisions that are to be retained because they are either to be read with a listed provision and are relevant to the exercise of that function, or are connected to the purpose of that function, for the purposes of paragraphs (2) and (3) of this regulation.
 
@@ -189,7 +189,7 @@ In accordance with paragraph 1(8) of Schedule 7 to the European Union (Withdrawa
 
 (3) A function is within devolved competence for the purposes of paragraph (2)(a) if it would be within the legislative competence of Senedd Cymru to confer such a function in an Act of Senedd Cymru (assuming, in the case of provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975[^f00027], that such consent was given).
 
-### 6. Regulation-making procedure[^key-421ce0892240a022953496b1d937c660]
+### 6. Regulation-making procedure[^c-421ce0892240a022953496b1d937c660]
 
 (1) Regulations made by the Welsh Ministers under any of the functions listed in the Schedule are to be made by statutory instrument.
 
@@ -207,14 +207,14 @@ In accordance with paragraph 1(8) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 5 — Modifications to EU Directives
 
-### 7. Modifications to EU Directives[^key-b419e7541a3779875a55043db03a8958]
+### 7. Modifications to EU Directives[^c-b419e7541a3779875a55043db03a8958]
 
 Regulations 9 to 19 set out modifications to the EU Directives listed in regulation 4(2)(a) and the Schedule, including modifications to the headings and titles of divisions of those EU Directives where appropriate, for the purposes of—
 
 - (a) regulations 15(3)(a) and 18(3) of the Trade in Animals and Related Products (Wales) Regulations 2011, and
 - (b) regulation 5 of these Regulations.
 
-### 8. Further interpretation[^key-510ab0b64bb33224b6568566d62215d2]
+### 8. Further interpretation[^c-510ab0b64bb33224b6568566d62215d2]
 
 (1) For the purposes of these Regulations, the words and expressions listed in paragraph (2), as used in this Part and in the EU Directives modified by this Part, have the meanings given in paragraph (2).
 
@@ -241,7 +241,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 
 (3) For the purposes of these Regulations, in the EU Directives modified by this Part and in the modifications made to the EU Directives in this Part, any reference to one of those EU Directives, unless specified otherwise, is a reference to that Directive as it had effect immediately before implementation period completion day and as modified by this Part.
 
-### 9. Modifications to Directive 64/432[^key-aa1d199451168d400bc55e7675149981]
+### 9. Modifications to Directive 64/432[^c-aa1d199451168d400bc55e7675149981]
 
 (1) Directive 64/432 is modified as follows.
 
@@ -450,7 +450,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
     - (bb) for “Article 6a” there were substituted “Article 100 of the Official Controls Regulation”;
   - (iv) in Section C, in point 3(b), “in accordance with Article 6(2)(c)” were omitted.
 
-### 10. Modifications to Directive 88/407[^key-5dc3182336359f359c9bf45770567833]
+### 10. Modifications to Directive 88/407[^c-5dc3182336359f359c9bf45770567833]
 
 (1) Directive 88/407 is modified as follows.
 
@@ -575,7 +575,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
   - (i) in the words before point (a), for “for intra-Community trade” there were substituted “intended for importation into Wales”;
   - (ii) in point (b), for “the Member State of destination” there were substituted “Wales”.
 
-### 11. Modifications to Directive 89/556[^key-899d1c102ebf2adcbca0d312dd953c81]
+### 11. Modifications to Directive 89/556[^c-899d1c102ebf2adcbca0d312dd953c81]
 
 (1) Directive 89/556 is modified as follows.
 
@@ -651,7 +651,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 
 (10) Annex B is to be read as if, in point 1(a), “within Community territory or” were omitted.
 
-### 12. Modifications to Directive 90/429[^key-47c27335c9212618c7796b3cc6aee0e8]
+### 12. Modifications to Directive 90/429[^c-47c27335c9212618c7796b3cc6aee0e8]
 
 (1) Directive 90/429 is modified as follows.
 
@@ -754,7 +754,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
   - (i) for “Member States” there were substituted “The appropriate authority”;
   - (ii) the second paragraph were omitted.
 
-### 13. Modifications to Directive 91/68[^key-a170bddae4dc68a498bc24f184f6bb3c]
+### 13. Modifications to Directive 91/68[^c-a170bddae4dc68a498bc24f184f6bb3c]
 
 (1) Directive 91/68 is modified as follows.
 
@@ -851,7 +851,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 - (a) after “national” there were inserted “reference”;
 - (b) for “Central Veterinary Laboratory, Weybridge, Surrey, United Kingdom” there were substituted “WOAH reference laboratory for brucellosis”.
 
-### 14. Modifications to Directive 92/65[^key-c3240cc2f2221a444a455d91f8e14981]
+### 14. Modifications to Directive 92/65[^c-c3240cc2f2221a444a455d91f8e14981]
 
 (1) Directive 92/65 is modified as follows.
 
@@ -1272,7 +1272,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 > - Directive 2009/156 (concerning the import into Wales of equidae).
 > - Directive 2009/158 (concerning the import into Wales of poultry and hatching eggs).
 
-### 15. Modifications to Directive 92/118[^key-67db1f608708df0402a96d0a287416ac]
+### 15. Modifications to Directive 92/118[^c-67db1f608708df0402a96d0a287416ac]
 
 (1) Directive 92/118 is modified as follows.
 
@@ -1545,7 +1545,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
   >
   > (13) Yellowhead disease.
 
-### 16. Modifications to Directive 2002/99[^key-f85bff9aad9ec4c00e062d3e863b5a01]
+### 16. Modifications to Directive 2002/99[^c-f85bff9aad9ec4c00e062d3e863b5a01]
 
 (1) Directive 2002/99 is modified as follows.
 
@@ -1698,7 +1698,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 
 (12) Annex 3 is to be read as if, in the first table concerning meat, in the column entitled “Meat Treatment”, in the eighth row of that table concerning point “(g)”, for “Article 12(2) procedure following an opinion by the relevant Scientific Committee” there were substituted “appropriate authority, in regulations made under Article 4(1)(iv)(a)”.
 
-### 17. Modifications to Directive 2004/68[^key-2cc2117a50c281c46c3ff6f04ef98b7c]
+### 17. Modifications to Directive 2004/68[^c-2cc2117a50c281c46c3ff6f04ef98b7c]
 
 (1) Directive 2004/68 is modified as follows.
 
@@ -1841,7 +1841,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 - (f) in paragraph 5, for “veterinary”, in both places where it occurs, there were substituted “health”;
 - (g) in paragraph 6, for “veterinary” there were substituted “health”.
 
-### 18. Modifications to Directive 2009/156[^key-c1ffa1832bb6a525de4f853cd2993267]
+### 18. Modifications to Directive 2009/156[^c-c1ffa1832bb6a525de4f853cd2993267]
 
 (1) Directive 2009/156 is modified as follows.
 
@@ -1895,7 +1895,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 - (d) in paragraph 4, for “Article 6(1)(d) of Directive [92/35/EEC](https://www.legislation.gov.uk/european/directive/1992/0035)” there were substituted “the relevant provisions of the legislation referred to in paragraph 3”;
 - (e) in paragraph 5—
   - (i) in the words before point (a), for “Member State” there were substituted “third country”;
-  - (ii)[^key-29d6f3aacc5b197ac56b2f63aab61178] in point (a), for “in accordance with the procedure referred to in Article 21(3)” there were substituted “by an Order made by the Welsh Ministers under section 10 of the Animal Health Act 1981
+  - (ii)[^c-29d6f3aacc5b197ac56b2f63aab61178] in point (a), for “in accordance with the procedure referred to in Article 21(3)” there were substituted “by an Order made by the Welsh Ministers under section 10 of the Animal Health Act 1981
   - (iii) in point (c), for the second subparagraph there were substituted “The appropriate authority may, in accordance with a procedure set out by the appropriate authority by regulations, set out other monitoring methods;”.
 
 (7) Article 11 is to be read as if for “the Community” there were substituted “Wales”.
@@ -1984,7 +1984,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 - (a) in the words before point 1, in the fourth subparagraph, “the European Union Reference Laboratory or” were omitted;
 - (b) in point 2.1, in the first paragraph, the second and third sentences were omitted.
 
-### 19. Modifications to Directive 2009/158[^key-a08f0404f69e36aa96740638bafd3ed2]
+### 19. Modifications to Directive 2009/158[^c-a08f0404f69e36aa96740638bafd3ed2]
 
 (1) Directive 2009/158 is modified as follows.
 
@@ -2182,7 +2182,7 @@ Regulations 9 to 19 set out modifications to the EU Directives listed in regulat
 
 ## PART 6 — Amendment of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018
 
-### 20. Amendment of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018[^key-844d2546c5831cbad004ee73d8db1ac1]
+### 20. Amendment of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018[^c-844d2546c5831cbad004ee73d8db1ac1]
 
 In regulation 2 of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018[^f00062] (interpretation), for the definition of “third country” substitute—
 
@@ -2200,7 +2200,7 @@ Minister for Rural Affairs and North Wales, and Trefnydd, one of the Welsh Minis
 
 Regulation 5(1)
 
-**1.**[^key-773523c363fb1d59f658e0689eec3e0c] In Directive 64/432—
+**1.**[^c-773523c363fb1d59f658e0689eec3e0c] In Directive 64/432—
 
 - (a) Article 9(1), together with Annex E(2);
 - (b) Article 9(2);
@@ -2228,7 +2228,7 @@ Regulation 5(1)
     - (aa) the first paragraph;
     - (bb) the second paragraph.
 
-**2.**[^key-98b09279c6532396d40109a17e7c4445] In Directive 88/407—
+**2.**[^c-98b09279c6532396d40109a17e7c4445] In Directive 88/407—
 
 - (a) in Article 8(1), the second subparagraph, together with Article 8(2);
 - (b) in Article 9(2), the third subparagraph;
@@ -2237,7 +2237,7 @@ Regulation 5(1)
 - (e) Article 10(3);
 - (f) Article 17.
 
-**3.**[^key-7b98c36549d88aec52e7bde1637ae3d7] In Directive 89/556—
+**3.**[^c-7b98c36549d88aec52e7bde1637ae3d7] In Directive 89/556—
 
 - (a) in Article 7(1), the second subparagraph, together with Article 7(2);
 - (b) in Article 8(2), the third subparagraph;
@@ -2250,7 +2250,7 @@ Regulation 5(1)
   - (ii) point 1(m);
   - (iii) point 1(n).
 
-**4.**[^key-d4c0837206fea0e84d4ce5925ae2ed1b] In Directive 90/429—
+**4.**[^c-d4c0837206fea0e84d4ce5925ae2ed1b] In Directive 90/429—
 
 - (a) in Article 7(1), the second subparagraph, together with Article 7(2);
 - (b) Article 8(2), the third subparagraph;
@@ -2260,7 +2260,7 @@ Regulation 5(1)
 - (f) Article 17;
 - (g) point 6(g) of Chapter 2 of Annex A.
 
-**5.**[^key-22aa4e6f38311572f40b6ce47d5d184f] In Directive 91/68—
+**5.**[^c-22aa4e6f38311572f40b6ce47d5d184f] In Directive 91/68—
 
 - (a) the third indent of Article 6(a)(i);
 - (b) the third indent of Article 6(c);
@@ -2275,7 +2275,7 @@ Regulation 5(1)
   - (ii) the third indent of point 2(i);
 - (j) the first paragraph of Annex C.
 
-**6.**[^key-4cd016bb5aab70646c28287741e7afca] In Directive 92/65—
+**6.**[^c-4cd016bb5aab70646c28287741e7afca] In Directive 92/65—
 
 - (a) Article 6(A)(2)(c);
 - (b) Article 6(A)(4);
@@ -2301,7 +2301,7 @@ Regulation 5(1)
 - (v) Article 22;
 - (w) Article 23.
 
-**7.**[^key-3c4521679b14e70ba2143217032a10f7] In Directive 92/118—
+**7.**[^c-3c4521679b14e70ba2143217032a10f7] In Directive 92/118—
 
 - (a) in Article 5, the second paragraph;
 - (b) Article 6;
@@ -2313,7 +2313,7 @@ Regulation 5(1)
 - (h) in Article 15, the second paragraph;
 - (i) Section 3 of Chapter 7 of Annex 1.
 
-**8.**[^key-a9855ae3575591d4476021635461f2b3] In Directive 2002/99—
+**8.**[^c-a9855ae3575591d4476021635461f2b3] In Directive 2002/99—
 
 - (a) in Article 4(1), paragraph (a) of the second subparagraph;
 - (b) Article 4(2)(a);
@@ -2329,7 +2329,7 @@ Regulation 5(1)
 - (l) Article 9(4)(c);
 - (m) Article 11.
 
-**9.**[^key-6fbada8f27bb7c73ca5bffcd10167fbb] In Directive 2004/68—
+**9.**[^c-6fbada8f27bb7c73ca5bffcd10167fbb] In Directive 2004/68—
 
 - (a) in Article 3(1), the second subparagraph, together with Article 4;
 - (b) in Article 3(1), the third subparagraph, together with the fourth subparagraph;
@@ -2346,7 +2346,7 @@ Regulation 5(1)
 - (m) Article 13(1)(c);
 - (n) Article 13(2).
 
-**10.**[^key-d97ab087e2e3ed0ec7d7103fc4842f87] In Directive 2009/156—
+**10.**[^c-d97ab087e2e3ed0ec7d7103fc4842f87] In Directive 2009/156—
 
 - (a) in Article 4(4)(a), the second subparagraph;
 - (b) Article 4(4)(b);
@@ -2370,7 +2370,7 @@ Regulation 5(1)
 - (t) Article 19(d);
 - (u) Article 20.
 
-**11.**[^key-a18ad5cb1c7259322e94bb3c2e15153c] In Directive 2009/158—
+**11.**[^c-a18ad5cb1c7259322e94bb3c2e15153c] In Directive 2009/158—
 
 - (a) in Article 15(2), the first subparagraph;
 - (b) in Article 15(2), the second subparagraph;
@@ -2424,9 +2424,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: The references in the European Union (Withdrawal) Act 2018 to the National Assembly for Wales now have effect as references to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-52b7300b7dc7eb0fe8f6a7255f94435d]: Commencement: Reg. 1 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-52b7300b7dc7eb0fe8f6a7255f94435d]: Commencement: Reg. 1 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-d8a4c5f8302284a517a069d15dac410f]: Commencement: Reg. 2 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-d8a4c5f8302284a517a069d15dac410f]: Commencement: Reg. 2 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00004]: Footnote: OJ P 121, 29.7.1964, p. 1977.
 
@@ -2460,7 +2460,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00019]: Footnote: EUR 2009/1069, amended by [S.I. 2019/170](https://www.legislation.gov.uk/uksi/2019/170) and [588](https://www.legislation.gov.uk/uksi/2019/588), [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388) and [1463](https://www.legislation.gov.uk/uksi/2020/1463).
 
-[^key-2307db153eb622c6f290b226ed36fb84]: Commencement: Reg. 3 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-2307db153eb622c6f290b226ed36fb84]: Commencement: Reg. 3 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2011/2379 (W.252)](https://www.legislation.gov.uk/wsi/2011/2379), amended by [S.I. 2018/1216 (W. 249)](https://www.legislation.gov.uk/wsi/2018/1216) , [2019/463 (W. 111)](https://www.legislation.gov.uk/wsi/2019/463), [2020/44 (W. 5)](https://www.legislation.gov.uk/wsi/2020/44), [177 (W. 38)](https://www.legislation.gov.uk/wsi/2020/177) and [1612 (W. 337)](https://www.legislation.gov.uk/wsi/2020/1612) and [2021/847 (W.197)](https://www.legislation.gov.uk/wsi/2021/847), [1094 (W. 260)](https://www.legislation.gov.uk/wsi/2021/1094) and [1480 (W. 382)](https://www.legislation.gov.uk/wsi/2021/1480).
 
@@ -2468,7 +2468,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00022]: Footnote: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
 
-[^key-e7fc179732b7bee6842fe713acc60472]: Commencement: Reg. 4 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-e7fc179732b7bee6842fe713acc60472]: Commencement: Reg. 4 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463), amended by [S.I. 2011/981](https://www.legislation.gov.uk/uksi/2011/981) and [1043](https://www.legislation.gov.uk/uksi/2011/1043), [2019/1488](https://www.legislation.gov.uk/uksi/2019/1488), [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388) and [2022/835](https://www.legislation.gov.uk/uksi/2022/835).
 
@@ -2478,15 +2478,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00026]: Footnote: EUR 2016/1012, amended by [S.I. 2019/117](https://www.legislation.gov.uk/uksi/2019/117) and [588](https://www.legislation.gov.uk/uksi/2019/588), and [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
-[^key-9a48898310652843ff896ff90daa143e]: Commencement: Reg. 5 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-9a48898310652843ff896ff90daa143e]: Commencement: Reg. 5 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00027]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-421ce0892240a022953496b1d937c660]: Commencement: Reg. 6 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-421ce0892240a022953496b1d937c660]: Commencement: Reg. 6 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-b419e7541a3779875a55043db03a8958]: Commencement: Reg. 7 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-b419e7541a3779875a55043db03a8958]: Commencement: Reg. 7 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-510ab0b64bb33224b6568566d62215d2]: Commencement: Reg. 8 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-510ab0b64bb33224b6568566d62215d2]: Commencement: Reg. 8 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00028]: Footnote: OJ No. L 316, 1.12.2001, p. 5.
 
@@ -2510,7 +2510,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00038]: Footnote: The World Assembly is the authority for WOAH and comprises of 182 delegates from each Member country of WOAH. For more information on the World Assembly see here: https://www.woah.org/en/who-we-are/structure/world-assembly/. Further details on the procedure for designation of the reference laboratories can be found here: https://www.woah.org/en/what-we-offer/expertise-network/reference-laboratories/#ui-id-2.
 
-[^key-aa1d199451168d400bc55e7675149981]: Commencement: Reg. 9 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-aa1d199451168d400bc55e7675149981]: Commencement: Reg. 9 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00039]: Footnote: EUR 2014/652, amended by [S.I. 2018/1410](https://www.legislation.gov.uk/uksi/2018/1410) and [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
@@ -2524,19 +2524,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00044]: Footnote: The European Pharmacopoeia is set of legally binding reference standards for the quality control of medicines adopted in accordance with the Convention on the Elaboration of a European Pharmacopoeia. It is available online or in print version for a subscription fee (see https://www.edqm.eu/en/european-pharmacopoeia for links to the subscription services).
 
-[^key-5dc3182336359f359c9bf45770567833]: Commencement: Reg. 10 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-5dc3182336359f359c9bf45770567833]: Commencement: Reg. 10 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00045]: Footnote: The Terrestrial Animal Health Code 2021 is freely accessible online (https://www.woah.org/en/what-we-do/standards/codes-and-manuals/#ui-id-1) or available to order in hard copy from the WOAH online bookshop (at https://www.woah.org/en/ebookshop/). The WOAH’s address is 12, rue de Prony, 75017 Paris, France. A hard copy version is also available to view on request from the Virology department at the offices of the Animal and Plant Health Agency, Weybridge, Woodham Lane, New Haw, Addlestone, Surrey, KT15 3NB.
 
-[^key-899d1c102ebf2adcbca0d312dd953c81]: Commencement: Reg. 11 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-899d1c102ebf2adcbca0d312dd953c81]: Commencement: Reg. 11 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-47c27335c9212618c7796b3cc6aee0e8]: Commencement: Reg. 12 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-47c27335c9212618c7796b3cc6aee0e8]: Commencement: Reg. 12 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00046]: Footnote: The Manual of Standards for Diagnostic Tests and Vaccines for Terrestrial Animals 2021 is freely accessible online (https://www.woah.org/en/what-we-do/standards/codes-and-manuals/#ui-id-2) or available to order in hard copy from the WOAH online bookshop (at https://www.woah.org/en/ebookshop/). The WOAH’s address is 12, rue de Prony, 75017 Paris, France. A hard copy version is also available to view on request from the Virology department at the offices of the Animal and Plant Health Agency, Weybridge, Woodham Lane, New Haw, Addlestone, Surrey, KT15 3NB.
 
-[^key-a170bddae4dc68a498bc24f184f6bb3c]: Commencement: Reg. 13 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-a170bddae4dc68a498bc24f184f6bb3c]: Commencement: Reg. 13 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-c3240cc2f2221a444a455d91f8e14981]: Commencement: Reg. 14 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-c3240cc2f2221a444a455d91f8e14981]: Commencement: Reg. 14 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00047]: Footnote: EUR 1997/338, amended by [S.I. 2020/1395](https://www.legislation.gov.uk/uksi/2020/1395), [2021/54](https://www.legislation.gov.uk/uksi/2021/54) and [645](https://www.legislation.gov.uk/uksi/2021/645).
 
@@ -2554,11 +2554,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00054]: Footnote: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
 
-[^key-67db1f608708df0402a96d0a287416ac]: Commencement: Reg. 15 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-67db1f608708df0402a96d0a287416ac]: Commencement: Reg. 15 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00055]: Footnote: EUR 2008/798, amended by [S.I. 2020/1462](https://www.legislation.gov.uk/uksi/2020/1462) and [1631](https://www.legislation.gov.uk/uksi/2020/1631), [2021/211](https://www.legislation.gov.uk/uksi/2021/211) and [1454](https://www.legislation.gov.uk/uksi/2021/1454) and [2022/735](https://www.legislation.gov.uk/uksi/2022/735).
 
-[^key-f85bff9aad9ec4c00e062d3e863b5a01]: Commencement: Reg. 16 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-f85bff9aad9ec4c00e062d3e863b5a01]: Commencement: Reg. 16 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00056]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
@@ -2566,9 +2566,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00058]: Footnote: EUR 2019/628, amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631).
 
-[^key-2cc2117a50c281c46c3ff6f04ef98b7c]: Commencement: Reg. 17 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-2cc2117a50c281c46c3ff6f04ef98b7c]: Commencement: Reg. 17 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-c1ffa1832bb6a525de4f853cd2993267]: Commencement: Reg. 18 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-c1ffa1832bb6a525de4f853cd2993267]: Commencement: Reg. 18 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00059]: Footnote: EUR 2015/262, amended by [S.I. 2019/591](https://www.legislation.gov.uk/uksi/2019/591) and [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
@@ -2576,32 +2576,32 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00061]: Footnote: [S.I. 2013/1662 (W. 158)](https://www.legislation.gov.uk/wsi/2013/1662), amended by [S.I. 2019/371 (W. 92)](https://www.legislation.gov.uk/wsi/2019/371) and [463 (W. 111)](https://www.legislation.gov.uk/wsi/2019/463).
 
-[^key-29d6f3aacc5b197ac56b2f63aab61178]: Textual amendment: [Reg. 18(6)(e)(ii)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/18/6/e/ii) substituted (31.3.2025) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) (Amendment) Order 2025 (S.I. 2025/403)](https://www.legislation.gov.uk/wsi/2025/403), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/403/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/403/article/2/2)
+[^c-29d6f3aacc5b197ac56b2f63aab61178]: Textual amendment: [Reg. 18(6)(e)(ii)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/18/6/e/ii) substituted (31.3.2025) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) (Amendment) Order 2025 (S.I. 2025/403)](https://www.legislation.gov.uk/wsi/2025/403), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/403/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/403/article/2/2)
 
-[^key-a08f0404f69e36aa96740638bafd3ed2]: Commencement: Reg. 19 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-a08f0404f69e36aa96740638bafd3ed2]: Commencement: Reg. 19 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-844d2546c5831cbad004ee73d8db1ac1]: Commencement: Reg. 20 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-844d2546c5831cbad004ee73d8db1ac1]: Commencement: Reg. 20 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
 [^f00062]: Footnote: [S.I. 2018/650 (W. 122)](https://www.legislation.gov.uk/wsi/2018/650), amended by [S.I. 2019/737 (W. 140)](https://www.legislation.gov.uk/wsi/2019/737).
 
-[^key-773523c363fb1d59f658e0689eec3e0c]: Commencement: Sch. para. 1 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-773523c363fb1d59f658e0689eec3e0c]: Commencement: Sch. para. 1 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-98b09279c6532396d40109a17e7c4445]: Commencement: Sch. para. 2 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-98b09279c6532396d40109a17e7c4445]: Commencement: Sch. para. 2 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-7b98c36549d88aec52e7bde1637ae3d7]: Commencement: Sch. para. 3 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-7b98c36549d88aec52e7bde1637ae3d7]: Commencement: Sch. para. 3 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-d4c0837206fea0e84d4ce5925ae2ed1b]: Commencement: Sch. para. 4 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-d4c0837206fea0e84d4ce5925ae2ed1b]: Commencement: Sch. para. 4 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-22aa4e6f38311572f40b6ce47d5d184f]: Commencement: Sch. para. 5 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-22aa4e6f38311572f40b6ce47d5d184f]: Commencement: Sch. para. 5 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-4cd016bb5aab70646c28287741e7afca]: Commencement: Sch. para. 6 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-4cd016bb5aab70646c28287741e7afca]: Commencement: Sch. para. 6 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-3c4521679b14e70ba2143217032a10f7]: Commencement: Sch. para. 7 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-3c4521679b14e70ba2143217032a10f7]: Commencement: Sch. para. 7 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-a9855ae3575591d4476021635461f2b3]: Commencement: Sch. para. 8 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-a9855ae3575591d4476021635461f2b3]: Commencement: Sch. para. 8 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-6fbada8f27bb7c73ca5bffcd10167fbb]: Commencement: Sch. para. 9 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-6fbada8f27bb7c73ca5bffcd10167fbb]: Commencement: Sch. para. 9 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-d97ab087e2e3ed0ec7d7103fc4842f87]: Commencement: Sch. para. 10 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-d97ab087e2e3ed0ec7d7103fc4842f87]: Commencement: Sch. para. 10 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
 
-[^key-a18ad5cb1c7259322e94bb3c2e15153c]: Commencement: Sch. para. 11 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)
+[^c-a18ad5cb1c7259322e94bb3c2e15153c]: Commencement: Sch. para. 11 in force at 16.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2)

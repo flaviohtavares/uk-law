@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Interpretation[^key-4f1b04defd80f8d05c3444016ea25f9a]
+## 102. Interpretation[^c-4f1b04defd80f8d05c3444016ea25f9a]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f1b04defd80f8d05c3444016ea25f9a]: Commencement: S. 102 in force at 28.6.2025, see [s. 103(2)](https://www.legislation.gov.uk/asp/2025/8/section/103/2)
+[^c-4f1b04defd80f8d05c3444016ea25f9a]: Commencement: S. 102 in force at 28.6.2025, see [s. 103(2)](https://www.legislation.gov.uk/asp/2025/8/section/103/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.17. Court’s power to vary requirements[^key-89e96312cfc86de5bd4b8f0792504952]
+## 48.17. Court’s power to vary requirements[^c-89e96312cfc86de5bd4b8f0792504952]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89e96312cfc86de5bd4b8f0792504952]: Commencement: [Rule 48.17](https://www.legislation.gov.uk/uksi/2025/909/rule/48.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-89e96312cfc86de5bd4b8f0792504952]: Commencement: [Rule 48.17](https://www.legislation.gov.uk/uksi/2025/909/rule/48.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendment of the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012[^key-12c29023119d5a7bea04cd0b79664976]
+## 56. Amendment of the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012[^c-12c29023119d5a7bea04cd0b79664976]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12c29023119d5a7bea04cd0b79664976]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2023/1071/regulation/56) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-12c29023119d5a7bea04cd0b79664976]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2023/1071/regulation/56) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00045]: Footnote: [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996), to which there are amendments not relevant to these Regulations.

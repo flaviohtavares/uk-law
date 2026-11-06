@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Department may make grants to any body having among its objects—
 
-- (a) the furtherance of the objectives of the waste management plan[^key-73dcc8cb99f3ba647b73c9a6a008078b] in relation to the recovery and disposal of waste prepared by the Department under Article 19 of the Waste and Contaminated Land (Northern Ireland) Order 1997 (NI 19); or
+- (a) the furtherance of the objectives of the waste management plan[^c-73dcc8cb99f3ba647b73c9a6a008078b] in relation to the recovery and disposal of waste prepared by the Department under Article 19 of the Waste and Contaminated Land (Northern Ireland) Order 1997 (NI 19); or
 - (b) the prevention or control of environmental pollution.
 
 (2) Grants under this Article shall be made—
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73dcc8cb99f3ba647b73c9a6a008078b]: Textual amendment: Words in art. 7(1)(a) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [12](https://www.legislation.gov.uk/nisr/2019/240/regulation/12)
+[^c-73dcc8cb99f3ba647b73c9a6a008078b]: Textual amendment: Words in art. 7(1)(a) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [12](https://www.legislation.gov.uk/nisr/2019/240/regulation/12)

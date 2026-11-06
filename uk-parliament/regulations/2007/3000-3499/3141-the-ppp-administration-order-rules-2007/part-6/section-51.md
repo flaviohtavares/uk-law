@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Warrants under section 236 of the 1986 Act[^key-46a2870a28157454665fd136bcadb294]
+## 51. Warrants under section 236 of the 1986 Act[^c-46a2870a28157454665fd136bcadb294]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ as may be directed by the court.
 
 ## Annotations
 
-[^key-46a2870a28157454665fd136bcadb294]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2007/3141/rule/51) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-46a2870a28157454665fd136bcadb294]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2007/3141/rule/51) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

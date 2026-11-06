@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. “The appropriate fee”[^key-52b0304fb3567b9d4da893f9563e4ab9]
+## 123. “The appropriate fee”[^c-52b0304fb3567b9d4da893f9563e4ab9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52b0304fb3567b9d4da893f9563e4ab9]: Commencement: [Rule 123](https://www.legislation.gov.uk/uksi/2007/3141/rule/123) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-52b0304fb3567b9d4da893f9563e4ab9]: Commencement: [Rule 123](https://www.legislation.gov.uk/uksi/2007/3141/rule/123) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

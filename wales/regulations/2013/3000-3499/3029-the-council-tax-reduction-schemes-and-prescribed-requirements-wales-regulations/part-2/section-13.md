@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. First financial year of schemes[^key-986f7217f667f8820f3dc6520a10d014]
+## 13. First financial year of schemes[^c-986f7217f667f8820f3dc6520a10d014]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Each authority in Wales must make a scheme no later than the 31 January 2014, an
 
 ## Annotations
 
-[^key-986f7217f667f8820f3dc6520a10d014]: Commencement: Reg. 13 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-986f7217f667f8820f3dc6520a10d014]: Commencement: Reg. 13 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

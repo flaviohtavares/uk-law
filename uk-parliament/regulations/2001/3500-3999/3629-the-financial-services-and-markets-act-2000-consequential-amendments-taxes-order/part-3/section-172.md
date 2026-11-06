@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Qualifying investments for a stocks and shares component[^key-fabcb5bc845321d88551b4b1527cc918]
+## 172. Qualifying investments for a stocks and shares component[^c-fabcb5bc845321d88551b4b1527cc918]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fabcb5bc845321d88551b4b1527cc918]: Commencement: Art. 172 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-fabcb5bc845321d88551b4b1527cc918]: Commencement: Art. 172 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

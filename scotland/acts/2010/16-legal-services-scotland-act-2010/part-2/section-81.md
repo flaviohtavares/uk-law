@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Complaints about providers[^key-e31f6eeb4fbc81e41bb6c91c5a50a7e5][^key-3ce5067430fb9700509b7543e15370ea]
+## 81. Complaints about providers[^c-e31f6eeb4fbc81e41bb6c91c5a50a7e5][^c-3ce5067430fb9700509b7543e15370ea]
 
 *Extent: S*
 
@@ -143,6 +143,6 @@ In the 2007 Act, after Part 2 insert—
 
 ## Annotations
 
-[^key-e31f6eeb4fbc81e41bb6c91c5a50a7e5]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2010/16/section/81) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-e31f6eeb4fbc81e41bb6c91c5a50a7e5]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2010/16/section/81) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-3ce5067430fb9700509b7543e15370ea]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2010/16/section/81) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/152/article/3))
+[^c-3ce5067430fb9700509b7543e15370ea]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2010/16/section/81) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/152/article/3))

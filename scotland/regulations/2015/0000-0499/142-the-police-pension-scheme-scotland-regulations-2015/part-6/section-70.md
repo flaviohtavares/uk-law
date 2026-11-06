@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Former member of the police force[^key-6876693c196e3148f3c6aeaf33bac1a7]
+## 70. Former member of the police force[^c-6876693c196e3148f3c6aeaf33bac1a7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purpose of this Chapter, a former member of the police force is taken to
 
 ## Annotations
 
-[^key-6876693c196e3148f3c6aeaf33bac1a7]: Commencement: Reg. 70 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-6876693c196e3148f3c6aeaf33bac1a7]: Commencement: Reg. 70 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

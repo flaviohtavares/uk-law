@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Variation and revocation of maintenance plans[^key-795d452596084198e3ab657ba1ed3276]
+## 47. Variation and revocation of maintenance plans[^c-795d452596084198e3ab657ba1ed3276]
 
 *Extent: S*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) The local authority may vary a maintenance plan on the application of an owner of any of the houses concerned or of its own accord.
 
-(3) The local authority may revoke a maintenance plan if subsection (3A) applies or if[^key-cf0cfa7c0e07c203bf9290b289467557] it is satisfied at any time—
+(3) The local authority may revoke a maintenance plan if subsection (3A) applies or if[^c-cf0cfa7c0e07c203bf9290b289467557] it is satisfied at any time—
 
 - (a) that implementation of the plan is no longer practicable, and
 - (b) that the plan cannot be varied so as to make implementation practicable.
 
-(3A)[^key-db4fb04f5936943e7ecdeab943e6650d] This subsection applies where the local authority is satisfied that a property factor (within the meaning of section 2(1) of the Property Factors (Scotland) Act 2011 (asp 8)) has been appointed to manage or maintain the premises to which the plan relates.
+(3A)[^c-db4fb04f5936943e7ecdeab943e6650d] This subsection applies where the local authority is satisfied that a property factor (within the meaning of section 2(1) of the Property Factors (Scotland) Act 2011 (asp 8)) has been appointed to manage or maintain the premises to which the plan relates.
 
 (4) The local authority must serve notice of any variation or revocation in accordance with section 62.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-795d452596084198e3ab657ba1ed3276]: Commencement: S. 47 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-795d452596084198e3ab657ba1ed3276]: Commencement: S. 47 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-cf0cfa7c0e07c203bf9290b289467557]: Textual amendment: Words in s. 47(3) inserted (13.7.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 89(2)(a)](https://www.legislation.gov.uk/asp/2014/14/section/89/2/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
+[^c-cf0cfa7c0e07c203bf9290b289467557]: Textual amendment: Words in s. 47(3) inserted (13.7.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 89(2)(a)](https://www.legislation.gov.uk/asp/2014/14/section/89/2/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
 
-[^key-db4fb04f5936943e7ecdeab943e6650d]: Textual amendment: S. 47(3A) inserted (13.7.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 89(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/89/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
+[^c-db4fb04f5936943e7ecdeab943e6650d]: Textual amendment: S. 47(3A) inserted (13.7.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 89(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/89/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)

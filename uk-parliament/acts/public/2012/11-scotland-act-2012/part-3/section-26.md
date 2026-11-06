@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Income tax for Scottish taxpayers[^key-54d285cd28a305913f69651bdcd42d7e]
+## 26. Income tax for Scottish taxpayers[^c-54d285cd28a305913f69651bdcd42d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54d285cd28a305913f69651bdcd42d7e]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/2012/11/section/26) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 38 para. 17(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/38/paragraph/17/a)
+[^c-54d285cd28a305913f69651bdcd42d7e]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/2012/11/section/26) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 38 para. 17(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/38/paragraph/17/a)

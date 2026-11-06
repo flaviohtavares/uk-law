@@ -72,7 +72,7 @@ Regulation 97(2)
 
 (3) In regulation 6(1)(a) [^c22606801] (enforcement of duties) for “Part 9 of the Public Contracts (Scotland) Regulations 2012” substitute “ Chapter 6 of Part 3 of the Public Contracts (Scotland) Regulations 2015 ”.
 
-#### 6. Defence and Security Public Contracts Regulations 2011[^key-a7dc8275f0f5c6db27dc9ed9eb9f2840]
+#### 6. Defence and Security Public Contracts Regulations 2011[^c-a7dc8275f0f5c6db27dc9ed9eb9f2840]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -107,7 +107,7 @@ Regulation 97(2)
 > (1) Any question asked by or on behalf of a contracting authority or contracting entity in relation to a conviction specified in regulation 58 of the Public Contracts (Scotland) Regulations 2015 which is a spent conviction (or any circumstances ancillary to such a conviction) for the purpose of determining whether or not a person is to be excluded—
 >
 > - (a) for the purposes of regulation 58 of the Public Contracts (Scotland) Regulations 2015 or regulation 26 of the Utilities Contracts (Scotland) Regulations 2012; or
-> - (b) from participation in a design contest for the purposes of regulation 79[^key-7a3f9b37ec7b548f7a52a9f5a7d273a6] of the Public Contracts (Scotland) Regulations 2015 or regulation 34 of the Utilities Contracts (Scotland) Regulations 2012,
+> - (b) from participation in a design contest for the purposes of regulation 79[^c-7a3f9b37ec7b548f7a52a9f5a7d273a6] of the Public Contracts (Scotland) Regulations 2015 or regulation 34 of the Utilities Contracts (Scotland) Regulations 2012,
 >
 > where the person questioned is informed at the time the question is asked that, by virtue of this Order, convictions within the meaning of regulation 58 of the Public Contracts (Scotland) Regulations 2015, which are spent convictions, are to be disclosed.
 >
@@ -155,7 +155,7 @@ Regulation 97(2)
 
 [^c22606801]: Marginal citation: [Regulation 6(1)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/6/1/a) amended by [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), [schedule 7(B)](https://www.legislation.gov.uk/ssi/2012/88/schedule/7/B), [paragraph 1](https://www.legislation.gov.uk/ssi/2012/88/paragraph/1).
 
-[^key-a7dc8275f0f5c6db27dc9ed9eb9f2840]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/6) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [19(7)](https://www.legislation.gov.uk/uksi/2025/163/regulation/19/7)
+[^c-a7dc8275f0f5c6db27dc9ed9eb9f2840]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/6) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [19(7)](https://www.legislation.gov.uk/uksi/2025/163/regulation/19/7)
 
 [^c22606891]: Marginal citation: [S.S.I. 2012/162](https://www.legislation.gov.uk/ssi/2012/162).
 
@@ -165,7 +165,7 @@ Regulation 97(2)
 
 [^c22606921]: Marginal citation: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50).
 
-[^key-7a3f9b37ec7b548f7a52a9f5a7d273a6]: Textual amendment: Words in [sch. 6 para. 10(2)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/10/2) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/10)
+[^c-7a3f9b37ec7b548f7a52a9f5a7d273a6]: Textual amendment: Words in [sch. 6 para. 10(2)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/10/2) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/10)
 
 [^c22606931]: Marginal citation: [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), repealed by regulation 98 of these Regulations, subject to the savings and transitional provisions in regulations 99 and 100 of these Regulations.
 

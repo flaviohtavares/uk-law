@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations 2014 (revoked)[^key-060020d696b7b5fae392038d39d738ac]
+The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations 2014 (revoked)[^c-060020d696b7b5fae392038d39d738ac]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 24th November 2014
 
-[^key-060020d696b7b5fae392038d39d738ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-060020d696b7b5fae392038d39d738ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-060020d696b7b5fae392038d39d738ac]
+## 1. Title and commencement[^c-060020d696b7b5fae392038d39d738ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^key-060020d696b7b5fae392038d39d738ac]
+## 2. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^c-060020d696b7b5fae392038d39d738ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-060020d696b7b5fae392038d39d738ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-060020d696b7b5fae392038d39d738ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-060020d696b7b5fae392038d39d738ac]EXPLANATORY NOTE
+[^c-060020d696b7b5fae392038d39d738ac]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -72,4 +72,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-060020d696b7b5fae392038d39d738ac]: Textual amendment: Regulations revoked (20.12.2016) by [The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations 2016 (S.I. 2016/1146)](https://www.legislation.gov.uk/uksi/2016/1146), regs. 1, [3](https://www.legislation.gov.uk/uksi/2016/1146/regulation/3)
+[^c-060020d696b7b5fae392038d39d738ac]: Textual amendment: Regulations revoked (20.12.2016) by [The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations 2016 (S.I. 2016/1146)](https://www.legislation.gov.uk/uksi/2016/1146), regs. 1, [3](https://www.legislation.gov.uk/uksi/2016/1146/regulation/3)

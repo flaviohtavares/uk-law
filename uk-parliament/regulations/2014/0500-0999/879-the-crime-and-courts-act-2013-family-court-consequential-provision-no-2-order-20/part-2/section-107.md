@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**107.**[^key-fb034be54f3ba968bd55a75361c79e95] Omit paragraph 6(2).
+**107.**[^c-fb034be54f3ba968bd55a75361c79e95] Omit paragraph 6(2).
 
 ## Annotations
 
-[^key-fb034be54f3ba968bd55a75361c79e95]: Commencement: Art. 107 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-fb034be54f3ba968bd55a75361c79e95]: Commencement: Art. 107 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

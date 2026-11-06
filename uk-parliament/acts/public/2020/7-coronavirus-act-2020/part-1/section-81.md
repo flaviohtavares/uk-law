@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Residential tenancies in England and Wales: protection from eviction[^key-d32f42f72f6af8e8703380c63bbd3845]
+## 81. Residential tenancies in England and Wales: protection from eviction[^c-d32f42f72f6af8e8703380c63bbd3845]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d32f42f72f6af8e8703380c63bbd3845]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/2020/7/section/81) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-d32f42f72f6af8e8703380c63bbd3845]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/2020/7/section/81) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26A. Hierarchy of developments[^key-4f124f9ca7b3732e618988de898416bf]
+## 26A. Hierarchy of developments[^c-4f124f9ca7b3732e618988de898416bf]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f124f9ca7b3732e618988de898416bf]: Textual amendment: S. 26A inserted (12.12.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 5](https://www.legislation.gov.uk/asp/2006/17/section/5), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
+[^c-4f124f9ca7b3732e618988de898416bf]: Textual amendment: S. 26A inserted (12.12.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 5](https://www.legislation.gov.uk/asp/2006/17/section/5), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)

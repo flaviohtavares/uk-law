@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 77. Collection of information[^key-2052b1103d305fcb4079e15b706cd7cf]
+## 77. Collection of information[^c-2052b1103d305fcb4079e15b706cd7cf]
 
 (1) The Secretary of State, or a person providing services to him, may receive or obtain relevant information from—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2052b1103d305fcb4079e15b706cd7cf]: Textual amendment: Reg. 77 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/10/4)
+[^c-2052b1103d305fcb4079e15b706cd7cf]: Textual amendment: Reg. 77 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/10/4)

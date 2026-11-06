@@ -32,7 +32,7 @@ Children's Hearings (Scotland) Act 2011
 
 An Act of the Scottish Parliament to restate and amend the law relating to children's hearings; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 25th November 2010 and received Royal Assent on 6th January 2011[^key-23049eab548a66ea4debab47a6076f41][^key-eb5c48723e479fe61c0ff5b452d647c8]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 25th November 2010 and received Royal Assent on 6th January 2011[^c-23049eab548a66ea4debab47a6076f41][^c-eb5c48723e479fe61c0ff5b452d647c8]
 
 ## Contents
 
@@ -70,7 +70,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 12 — Independence of National Convener](part-1/section-12.md)
 - [Section 13 — Directions](part-1/section-13.md)
 
-### Part 2 — The Principal Reporter and the Scottish Children's Reporter Administration[^key-d86d252a790a00c5e84bade64fa36a02]
+### Part 2 — The Principal Reporter and the Scottish Children's Reporter Administration[^c-d86d252a790a00c5e84bade64fa36a02]
 
 *Extent: S*
 
@@ -584,8 +584,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-23049eab548a66ea4debab47a6076f41]: Modification: [Act](https://www.legislation.gov.uk/asp/2011/1) modified in part (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(2)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/2)
+[^c-23049eab548a66ea4debab47a6076f41]: Modification: [Act](https://www.legislation.gov.uk/asp/2011/1) modified in part (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(2)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/2)
 
-[^key-eb5c48723e479fe61c0ff5b452d647c8]: Modification: [Act](https://www.legislation.gov.uk/asp/2011/1) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [47](https://www.legislation.gov.uk/ssi/2026/31/regulation/47)
+[^c-eb5c48723e479fe61c0ff5b452d647c8]: Modification: [Act](https://www.legislation.gov.uk/asp/2011/1) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [47](https://www.legislation.gov.uk/ssi/2026/31/regulation/47)
 
-[^key-d86d252a790a00c5e84bade64fa36a02]: Modification: Pt. 2 applied by S.S.I. 2003/179, reg. 3A (as inserted (24.6.2013) by [The Children's Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/3))
+[^c-d86d252a790a00c5e84bade64fa36a02]: Modification: Pt. 2 applied by S.S.I. 2003/179, reg. 3A (as inserted (24.6.2013) by [The Children's Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/3))

@@ -56,18 +56,18 @@ The Secretary of State, in exercise of the power conferred on her by section 18(
 In these Regulations—
 
 - “the Act of 1982” means the Civil Jurisdiction and Judgments Act 1982;
-- [^key-8029faba9988d831bcd0d3c010a38d5f]...
+- [^c-8029faba9988d831bcd0d3c010a38d5f]...
 - “Office of the Tribunals” means the Central Office of the Employment Tribunals (Scotland);
 - “order” means an order for the payment of one or more sums of money contained in a decision of an employment tribunal in Scotland;
 - “Register” means the register of applications, appeals and decisions kept in pursuance of regulation 12 of the Employment Tribunals (Constitution and Rules of Procedure) (Scotland) Regulations 2001 [^c9634571],
-- [^key-1fb6e46f7378a1b8c0803921a74ad320]...
+- [^c-1fb6e46f7378a1b8c0803921a74ad320]...
 - “Secretary” means the person for the time being appointed to act as the Secretary of the Office of the Tribunals.
 
-## 3. Recognition or enforcement of tribunal decisions in another Contracting State[^key-449553bdff3515aa40436f9a309d515e]
+## 3. Recognition or enforcement of tribunal decisions in another Contracting State[^c-449553bdff3515aa40436f9a309d515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Recognition or enforcement of tribunal decisions in another Regulation State[^key-8af27cd21cf78671c84973643da79813]
+## 4. Recognition or enforcement of tribunal decisions in another Regulation State[^c-8af27cd21cf78671c84973643da79813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,61 +101,61 @@ Minister of State for Employment Relations, Industry and the Regions,
 
 Department of Trade and Industry
 
-## SCHEDULE 1 — FORM[^key-83031caf5969e346977479909388e342]
+## SCHEDULE 1 — FORM[^c-83031caf5969e346977479909388e342]
 
 **No longer in force.**
 
 Regulation 3
 
-### Certificate under regulation 3 of the Employment Tribunals (Enforcement of Orders in Other Jurisdictions) (Scotland) Regulations 2002[^key-83031caf5969e346977479909388e342]
+### Certificate under regulation 3 of the Employment Tribunals (Enforcement of Orders in Other Jurisdictions) (Scotland) Regulations 2002[^c-83031caf5969e346977479909388e342]
 
-[^key-83031caf5969e346977479909388e342]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-83031caf5969e346977479909388e342]
+[^c-83031caf5969e346977479909388e342]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83031caf5969e346977479909388e342]
+[^c-83031caf5969e346977479909388e342]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83031caf5969e346977479909388e342]
+[^c-83031caf5969e346977479909388e342]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-83031caf5969e346977479909388e342]
+[^c-83031caf5969e346977479909388e342]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83031caf5969e346977479909388e342]
+**1.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-83031caf5969e346977479909388e342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-83031caf5969e346977479909388e342]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83031caf5969e346977479909388e342]
+[^c-83031caf5969e346977479909388e342]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-83031caf5969e346977479909388e342]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -211,14 +211,14 @@ In particular, regulation 4 provides for the form of application for a copy of t
 
 [^c9634551]: Marginal citation: [S.I. 1995/1717](https://www.legislation.gov.uk/uksi/1995/1717).
 
-[^key-8029faba9988d831bcd0d3c010a38d5f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2972/regulation/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(2)(a)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/2/a) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8029faba9988d831bcd0d3c010a38d5f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2972/regulation/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(2)(a)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/2/a) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c9634571]: Marginal citation: [S.I. 2001/1170](https://www.legislation.gov.uk/uksi/2001/1170), to which there is an amendment not relevant to these Regulations.
 
-[^key-1fb6e46f7378a1b8c0803921a74ad320]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2972/regulation/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(2)(b)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/2/b) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fb6e46f7378a1b8c0803921a74ad320]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2972/regulation/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(2)(b)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/2/b) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-449553bdff3515aa40436f9a309d515e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/2972/regulation/3) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(3)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/3) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-449553bdff3515aa40436f9a309d515e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/2972/regulation/3) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(3)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/3) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8af27cd21cf78671c84973643da79813]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2972/regulation/4) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(4)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/4) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8af27cd21cf78671c84973643da79813]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2972/regulation/4) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [76(4)](https://www.legislation.gov.uk/uksi/2019/479/regulation/76/4) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-83031caf5969e346977479909388e342]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2002/2972/schedule/1) omitted (1.1.2010) by virtue of [The Civil Jurisdiction and Judgments Regulations 2009 (S.I. 2009/3131)](https://www.legislation.gov.uk/uksi/2009/3131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1), [45(b)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/45/b) (with [reg. 48](https://www.legislation.gov.uk/uksi/2009/3131/regulation/48))
+[^c-83031caf5969e346977479909388e342]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2002/2972/schedule/1) omitted (1.1.2010) by virtue of [The Civil Jurisdiction and Judgments Regulations 2009 (S.I. 2009/3131)](https://www.legislation.gov.uk/uksi/2009/3131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1), [45(b)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/45/b) (with [reg. 48](https://www.legislation.gov.uk/uksi/2009/3131/regulation/48))

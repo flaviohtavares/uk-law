@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Amount of fixed penalty[^key-7ea2357e98e014c192e173e35877276d][^key-d206f9023e4895572de6f9c29b5d1c71]
+## 53. Amount of fixed penalty[^c-7ea2357e98e014c192e173e35877276d][^c-d206f9023e4895572de6f9c29b5d1c71]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ea2357e98e014c192e173e35877276d]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2011/23/section/53) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-7ea2357e98e014c192e173e35877276d]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2011/23/section/53) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-d206f9023e4895572de6f9c29b5d1c71]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2011/23/section/53) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-d206f9023e4895572de6f9c29b5d1c71]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2011/23/section/53) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

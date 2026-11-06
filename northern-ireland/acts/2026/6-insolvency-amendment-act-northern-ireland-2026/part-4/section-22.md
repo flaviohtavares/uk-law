@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Offences[^key-d77ade437790c2952ceaf0edb64fdf66]
+## 22. Offences[^c-d77ade437790c2952ceaf0edb64fdf66]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d77ade437790c2952ceaf0edb64fdf66]: Commencement: S. 22 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d77ade437790c2952ceaf0edb64fdf66]: Commencement: S. 22 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

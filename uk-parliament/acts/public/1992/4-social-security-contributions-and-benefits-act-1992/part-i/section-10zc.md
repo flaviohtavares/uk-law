@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10ZC. Class 1A contributions: power to make provision in consequence of retrospective tax legislation[^key-aac117f8a7e2cae5136c939701534870]
+## 10ZC. Class 1A contributions: power to make provision in consequence of retrospective tax legislation[^c-aac117f8a7e2cae5136c939701534870]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aac117f8a7e2cae5136c939701534870]: Textual amendment: S. 10ZC inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2006/10/section/3/1), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)
+[^c-aac117f8a7e2cae5136c939701534870]: Textual amendment: S. 10ZC inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2006/10/section/3/1), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)

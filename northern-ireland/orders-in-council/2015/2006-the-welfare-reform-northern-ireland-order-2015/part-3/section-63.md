@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Claimant responsibilities for employment and support allowance[^key-edf6f3008d081d6c6c0744c14c291445]
+## 63. Claimant responsibilities for employment and support allowance[^c-edf6f3008d081d6c6c0744c14c291445]
 
 *Extent: N.I.*
 
-(1)[^key-43eb73352750d70ee99d7528e5169261][^key-c6610d7eaa6e1f547460c9fedfaea088] The Welfare Reform Act (Northern Ireland) 2007 is amended as follows.
+(1)[^c-43eb73352750d70ee99d7528e5169261][^c-c6610d7eaa6e1f547460c9fedfaea088] The Welfare Reform Act (Northern Ireland) 2007 is amended as follows.
 
-(2)[^key-43eb73352750d70ee99d7528e5169261][^key-c6610d7eaa6e1f547460c9fedfaea088] For sections 11 to 16 (and the italic heading preceding section 11) substitute—
+(2)[^c-43eb73352750d70ee99d7528e5169261][^c-c6610d7eaa6e1f547460c9fedfaea088] For sections 11 to 16 (and the italic heading preceding section 11) substitute—
 
 > **Work-related requirements**
 >
@@ -283,7 +283,7 @@ summary: ''
 > - (a) people remaining in work, or
 > - (b) people obtaining or being able to obtain work (or more work or better-paid work).
 
-(4)[^key-43eb73352750d70ee99d7528e5169261][^key-c6610d7eaa6e1f547460c9fedfaea088] In section 24 (interpretation), in subsection (1)—
+(4)[^c-43eb73352750d70ee99d7528e5169261][^c-c6610d7eaa6e1f547460c9fedfaea088] In section 24 (interpretation), in subsection (1)—
 
 - (a) at the appropriate places insert—
 
@@ -316,7 +316,7 @@ summary: ''
 
   .
 
-(5)[^key-43eb73352750d70ee99d7528e5169261][^key-c6610d7eaa6e1f547460c9fedfaea088] In section 25 (regulations), in subsection (3), for “to 15” substitute “ to 11J ”.
+(5)[^c-43eb73352750d70ee99d7528e5169261][^c-c6610d7eaa6e1f547460c9fedfaea088] In section 25 (regulations), in subsection (3), for “to 15” substitute “ to 11J ”.
 
 (6) In Schedule 2 (supplementary)—
 
@@ -343,12 +343,12 @@ summary: ''
 >
 > Regulations may for any purpose of this Part specify circumstances in which a person is or is not responsible for a child.
 
-(8)[^key-43eb73352750d70ee99d7528e5169261][^key-c6610d7eaa6e1f547460c9fedfaea088] In that Schedule, in paragraph 13 (information), for “13” substitute “ 11K ”.
+(8)[^c-43eb73352750d70ee99d7528e5169261][^c-c6610d7eaa6e1f547460c9fedfaea088] In that Schedule, in paragraph 13 (information), for “13” substitute “ 11K ”.
 
 ## Annotations
 
-[^key-edf6f3008d081d6c6c0744c14c291445]: Commencement: [Art. 63](https://www.legislation.gov.uk/nisi/2015/2006/article/63) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
+[^c-edf6f3008d081d6c6c0744c14c291445]: Commencement: [Art. 63](https://www.legislation.gov.uk/nisi/2015/2006/article/63) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
 
-[^key-43eb73352750d70ee99d7528e5169261]: Commencement: [Art. 63(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/2)[(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/4)[(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/5)[(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/8) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
+[^c-43eb73352750d70ee99d7528e5169261]: Commencement: [Art. 63(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/2)[(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/4)[(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/5)[(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/8) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-c6610d7eaa6e1f547460c9fedfaea088]: Modification: [Art. 63(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/2)[(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/4)[(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/5)[(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/8) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
+[^c-c6610d7eaa6e1f547460c9fedfaea088]: Modification: [Art. 63(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/2)[(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/4)[(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/5)[(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/8) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)

@@ -36,7 +36,7 @@ summary: ''
 - (a) in proceedings for enforcing the charge; or
 - (b) by way of equitable execution of the judgment, order or award or, as the case may be, of so much of it as requires payment of moneys secured by the charge.
 
-(6)[^key-7903172072a6128b0eb602ca537749b1] This section applies in relation to the family court as it applies in relation to the High Court.
+(6)[^c-7903172072a6128b0eb602ca537749b1] This section applies in relation to the family court as it applies in relation to the High Court.
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c12332781]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-7903172072a6128b0eb602ca537749b1]: Textual amendment: [S. 37(6)](https://www.legislation.gov.uk/ukpga/1981/54/section/37/6) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 58](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/58); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7903172072a6128b0eb602ca537749b1]: Textual amendment: [S. 37(6)](https://www.legislation.gov.uk/ukpga/1981/54/section/37/6) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 58](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/58); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

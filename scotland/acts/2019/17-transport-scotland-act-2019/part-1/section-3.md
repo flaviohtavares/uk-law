@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Publication and laying of strategy[^key-25221012225c91d3e1cac7d96ef6c7c0]
+## 3. Publication and laying of strategy[^c-25221012225c91d3e1cac7d96ef6c7c0]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25221012225c91d3e1cac7d96ef6c7c0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/17/section/3) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)
+[^c-25221012225c91d3e1cac7d96ef6c7c0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/17/section/3) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)

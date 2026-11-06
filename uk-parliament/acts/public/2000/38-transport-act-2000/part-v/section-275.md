@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c14883731][^c14883741][^c14883781] The power conferred by subsection (1) is exercisable as respects Wales by the National Assembly for Wales (and not the Secretary of State) in relation to Parts II and III (and the repeals relating to Part II).
 
-(3)[^key-134c159d531b5bb32bff605cba147f70][^c14883731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-134c159d531b5bb32bff605cba147f70][^c14883731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Section 231 (and Schedule 24), section 253 (and Schedule 28) and section 269 come into force on the day on which this Act is passed.
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c14883781]: Subordinate legislation: S. 275(2) power partly exercised: 14.8.2002 appointed for specified purposes by [S.I. 2002/2024](https://www.legislation.gov.uk/uksi/2002/2024), [art. 2](https://www.legislation.gov.uk/uksi/2002/2024/article/2)
 
-[^key-134c159d531b5bb32bff605cba147f70]: Textual amendment: S. 275(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-134c159d531b5bb32bff605cba147f70]: Textual amendment: S. 275(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

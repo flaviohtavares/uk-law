@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-The Animal Feedingstuffs from Belgium (Control) (No.2) (Scotland) Regulations 1999 (revoked)[^key-322de4310537eff73c6f43c138c44eb0]
+The Animal Feedingstuffs from Belgium (Control) (No.2) (Scotland) Regulations 1999 (revoked)[^c-322de4310537eff73c6f43c138c44eb0]
 
 Made
 
@@ -44,40 +44,40 @@ Coming into force
 
 20th August 1999
 
-[^key-322de4310537eff73c6f43c138c44eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-322de4310537eff73c6f43c138c44eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-322de4310537eff73c6f43c138c44eb0]
+## 1. Citation, commencement and interpretation[^c-322de4310537eff73c6f43c138c44eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exemptions[^key-322de4310537eff73c6f43c138c44eb0]
+## 2. Exemptions[^c-322de4310537eff73c6f43c138c44eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibitions and offence[^key-322de4310537eff73c6f43c138c44eb0]
+## 3. Prohibitions and offence[^c-322de4310537eff73c6f43c138c44eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-322de4310537eff73c6f43c138c44eb0]
+## 4. Enforcement[^c-322de4310537eff73c6f43c138c44eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application and modification of various provisions of the Act[^key-322de4310537eff73c6f43c138c44eb0]
+## 5. Application and modification of various provisions of the Act[^c-322de4310537eff73c6f43c138c44eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-322de4310537eff73c6f43c138c44eb0]
+## 6. Revocation[^c-322de4310537eff73c6f43c138c44eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-322de4310537eff73c6f43c138c44eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-322de4310537eff73c6f43c138c44eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-322de4310537eff73c6f43c138c44eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-322de4310537eff73c6f43c138c44eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-322de4310537eff73c6f43c138c44eb0]: Textual amendment: Regulations revoked (17.2.2000) by [The Animal Feedingstuffs from Belgium (Control) (Scotland) Regulations 2000 (S.S.I. 2000/16)](https://www.legislation.gov.uk/ssi/2000/16), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/16/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2000/16/regulation/6)
+[^c-322de4310537eff73c6f43c138c44eb0]: Textual amendment: Regulations revoked (17.2.2000) by [The Animal Feedingstuffs from Belgium (Control) (Scotland) Regulations 2000 (S.S.I. 2000/16)](https://www.legislation.gov.uk/ssi/2000/16), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/16/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2000/16/regulation/6)

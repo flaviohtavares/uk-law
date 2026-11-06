@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Scheduling of business in justice of the peace courts[^key-74a0fecbf3aef0fe12be4f3753709913][^key-f359047306c4795f457134c7c7a47aea]
+## 32. Scheduling of business in justice of the peace courts[^c-74a0fecbf3aef0fe12be4f3753709913][^c-f359047306c4795f457134c7c7a47aea]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74a0fecbf3aef0fe12be4f3753709913]: Commencement: S. 32 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-74a0fecbf3aef0fe12be4f3753709913]: Commencement: S. 32 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-f359047306c4795f457134c7c7a47aea]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2025/12/section/32) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-f359047306c4795f457134c7c7a47aea]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2025/12/section/32) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

@@ -106,7 +106,7 @@ These Regulations may be cited as the Social Security (Third Party Deductions an
 In regulation 21 (special cases) of the Income Support (General) Regulations 1987—
 
 - (a) omit paragraph (1B); and
-- (b)[^key-112cd4bfa74e22bd398524767388a052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-112cd4bfa74e22bd398524767388a052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -154,4 +154,4 @@ These Regulations do not impose a charge on business.
 
 [^c508085]: Marginal citation: [Regulation 13A](https://www.legislation.gov.uk/uksi/2003/2325/regulation/13A) was inserted by regulation 23 of [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
 
-[^key-112cd4bfa74e22bd398524767388a052]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2003/2325/regulation/3/b) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-112cd4bfa74e22bd398524767388a052]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2003/2325/regulation/3/b) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)

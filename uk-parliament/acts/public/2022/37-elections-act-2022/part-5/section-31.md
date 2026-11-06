@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Vacation of office etc[^key-eda31344aed2cf29e3392802ac3ed208][^key-dc828f63aba73f34d23ca55bd7779c52]
+## 31. Vacation of office etc[^c-eda31344aed2cf29e3392802ac3ed208][^c-dc828f63aba73f34d23ca55bd7779c52]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ the determination of the appeal does not entitle the person to resume that offic
 
 ## Annotations
 
-[^key-eda31344aed2cf29e3392802ac3ed208]: Commencement: S. 31 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-eda31344aed2cf29e3392802ac3ed208]: Commencement: S. 31 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-dc828f63aba73f34d23ca55bd7779c52]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/37/section/31) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)
+[^c-dc828f63aba73f34d23ca55bd7779c52]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/37/section/31) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)

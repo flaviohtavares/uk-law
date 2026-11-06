@@ -48,16 +48,16 @@ Coming into force in accordance with rule 2
 
 The Criminal Procedure Rule Committee makes the following Rules under sections 67B(1), 69 and 86A(2) of the Courts Act 2003[^f00001], sections 17ZA(2), 17ZB(2), 17ZC(2) and 24ZA(2) of the Magistrates’ Courts Act 1980[^f00002] and sections 51(2D), (2E), (3A), (3B) and 51A(3D), (3E), (4A), (4B) of the Crime and Disorder Act 1998[^f00003], after consulting in accordance with section 72(1)(a) of the 2003 Act.
 
-## 1. Citation and commencement[^key-b9447cd962a11e821a8a05d7de682517]
+## 1. Citation and commencement[^c-b9447cd962a11e821a8a05d7de682517]
 
 These Rules amend the Criminal Procedure Rules 2020[^f00004] and may be cited as the Criminal Procedure (Amendment No. 2) Rules 2024.
 
-**2.**[^key-5112a6fd043d1e0bce96a910a06cb28a] These Rules come into force on 7th October 2024, save for—
+**2.**[^c-5112a6fd043d1e0bce96a910a06cb28a] These Rules come into force on 7th October 2024, save for—
 
 - (a) the following, which come into force on the date on which there come into force the amendments to and insertions of sections 17ZA(2), 17ZB(2), 17ZC(2) and 24ZA(2) of the Magistrates’ Courts Act 1980 and sections 51(2D), (2E), (3A), (3B) and 51A(3D), (3E), (4A), (4B) of the Crime and Disorder Act 1998 effected by the Judicial Review and Courts Act 2022[^f00005]—
   - (i) rule 6(d)(iii), (iv) and (v),
   - (ii) rule 7,
-  - (iii) rule 16, as far as that gives effect to paragraphs 2, 4, 5[^key-43fbcc9dc3e30a9812fba3c415168409] and 7(a)(i) and (b) of Schedule 2, and
+  - (iii) rule 16, as far as that gives effect to paragraphs 2, 4, 5[^c-43fbcc9dc3e30a9812fba3c415168409] and 7(a)(i) and (b) of Schedule 2, and
   - (iv) rule 17;
 - (b) rule 9, which comes into force on the date on which there comes into force section 46 of the Domestic Abuse Act 2021[^f00006]; and
 - (c) the following, which come into force on the date on which there come into force the amendments to and insertions of sections 6, 6A, 6B and 6C of the European Union (Withdrawal) Act 2018[^f00007] effected by section 6 of the Retained EU Law (Revocation and Reform) Act 2023[^f00008]—
@@ -65,11 +65,11 @@ These Rules amend the Criminal Procedure Rules 2020[^f00004] and may be cited as
   - (ii) rule 12, and
   - (iii) rule 13.
 
-## 3. Interpretation[^key-2870d5c2c1b8f4406e5eea5b24b45bba]
+## 3. Interpretation[^c-2870d5c2c1b8f4406e5eea5b24b45bba]
 
 In rules 4 to 17 beneath a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2020.
 
-## 4. Amendments to the Criminal Procedure Rules[^key-a58a2a2acb82671a662fe591a2b5bf99]
+## 4. Amendments to the Criminal Procedure Rules[^c-a58a2a2acb82671a662fe591a2b5bf99]
 
 In Part 2 (Understanding and applying the rules; powers of authorised court officers), in rule 2.7 (Exercise of functions of the Crown Court)—
 
@@ -81,7 +81,7 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
 
   .
 
-**5.**[^key-d89a3fa7aaf72c2f24d0865f4c3280ff] In Part 4 (Service of documents) in rule 4.11 (Date of service) for paragraph (2)(d) substitute—
+**5.**[^c-d89a3fa7aaf72c2f24d0865f4c3280ff] In Part 4 (Service of documents) in rule 4.11 (Date of service) for paragraph (2)(d) substitute—
 
 > - (d) in the case of a document served by electronic means—
 >   - (i) on the day on which the document is sent under rule 4.6(2)(a) or on which notice of its deposit is given under rule 4.6(2)(b), if that day is a business day and if the document is so sent or that notice is given by no later than 2.30pm that day,
@@ -92,7 +92,7 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
 
 .
 
-**6.**[^key-1f86e22aab07ea39b900bb0c16400064] In Part 5 (Forms and court records)—
+**6.**[^c-1f86e22aab07ea39b900bb0c16400064] In Part 5 (Forms and court records)—
 
 - (a) in rule 5.4 (Duty to make records)—
   - (i) at the end of paragraph (1)(m) omit “and”,
@@ -223,9 +223,9 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
     ; and
 - (e) amend the table of contents correspondingly.
 
-**7.**[^key-8024b444ab9f2b4eb5d7486f99e2e955] For Part 9 (Allocation and sending for trial) substitute the Part set out in Schedule 1 to these Rules.
+**7.**[^c-8024b444ab9f2b4eb5d7486f99e2e955] For Part 9 (Allocation and sending for trial) substitute the Part set out in Schedule 1 to these Rules.
 
-**8.**[^key-31df2ec3459038c1389aeb1feea378ac] In Part 28 (Sentencing procedures in special cases and on committal for sentence, etc.)—
+**8.**[^c-31df2ec3459038c1389aeb1feea378ac] In Part 28 (Sentencing procedures in special cases and on committal for sentence, etc.)—
 
 - (a) in rule 28.1 (Reasons for not following usual sentencing requirements)—
   - (i) at the beginning of paragraph (1)(d) insert “under section 74 or section 388 of the Sentencing Act 2020[^f00011],”, and
@@ -284,7 +284,7 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
   ; and
 - (e) amend the table of contents correspondingly.
 
-**9.**[^key-b8c09a79cb3c8ada83242d1c3c5df9c8] In Part 34 (Appeal to the Crown Court), in rule 34.2 (Service of appeal and respondent’s notices)—
+**9.**[^c-b8c09a79cb3c8ada83242d1c3c5df9c8] In Part 34 (Appeal to the Crown Court), in rule 34.2 (Service of appeal and respondent’s notices)—
 
 - (a) for paragraph (1) substitute—
 
@@ -310,7 +310,7 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
 
   .
 
-**10.**[^key-8b756a0a3baf02b52a2edd1b158d9c7d] In Part 36 (Appeal to the Court of Appeal: general rules)—
+**10.**[^c-8b756a0a3baf02b52a2edd1b158d9c7d] In Part 36 (Appeal to the Court of Appeal: general rules)—
 
 - (a) in rule 36.6 (Hearings) in paragraph (1)(a) after “permission to appeal” insert “or to accept a reference of a point of law”;
 - (b) for rule 36.12 (Declaration of incompatibility with a Convention right) substitute—
@@ -361,9 +361,9 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
   ; and
 - (c) amend the table of contents correspondingly.
 
-**11.**[^key-6ada82bb6d791d44c0eef0509df383ac] In Part 37 (Appeal to the Court of Appeal against ruling at preparatory hearing) for the title to the Part substitute “Appeal to the Court of Appeal against ruling at preparatory hearing or in response to jury tampering”.
+**11.**[^c-6ada82bb6d791d44c0eef0509df383ac] In Part 37 (Appeal to the Court of Appeal against ruling at preparatory hearing) for the title to the Part substitute “Appeal to the Court of Appeal against ruling at preparatory hearing or in response to jury tampering”.
 
-**12.**[^key-2796c708b5e6d5163f05fefb66947c06] In Part 41 (Reference to the Court of Appeal of point of law or unduly lenient sentencing)—
+**12.**[^c-2796c708b5e6d5163f05fefb66947c06] In Part 41 (Reference to the Court of Appeal of point of law or unduly lenient sentencing)—
 
 - (a) in rule 41.1 (When this Part applies)—
   - (i) for the words of the rule substitute—
@@ -425,7 +425,7 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
     > - (f) identify any relevant authorities.
 
     ;
-- (d)[^key-4f9113b1d05b661945bf705bdee90ffc] in rule 41.4 (Respondent’s notice) in paragraph (1) after “defendant on whom” insert “under rule 41.2” and after “notice of reference” insert “of a point of law under section 36 of the Criminal Justice Act 1972”;
+- (d)[^c-4f9113b1d05b661945bf705bdee90ffc] in rule 41.4 (Respondent’s notice) in paragraph (1) after “defendant on whom” insert “under rule 41.2” and after “notice of reference” insert “of a point of law under section 36 of the Criminal Justice Act 1972”;
 - (e) in rule 41.5 (Variation or withdrawal of notice of reference or application for permission) in paragraph (1) after “notice of reference” insert “under rule 41.2”;
 - (f) renumber rules 41.6 (Right to attend hearing) and 41.7 (Anonymity of defendant on reference of point of law) as 41.7 and 41.8 respectively;
 - (g) after rule 41.5 insert—
@@ -463,7 +463,7 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
 - (h) in rule 41.7, as renumbered, for “respondent” substitute “defendant” in each place it occurs; and
 - (i) amend the table of contents correspondingly.
 
-**13.**[^key-9c4aa5e88f96915f0d85f67b88ffcba0] In Part 43 (Appeal or reference to the Supreme Court)—
+**13.**[^c-9c4aa5e88f96915f0d85f67b88ffcba0] In Part 43 (Appeal or reference to the Supreme Court)—
 
 - (a) in rule 43.1 (When this Part applies)—
   - (i) at the end of paragraph (1)(a)(i) omit “or”,
@@ -473,14 +473,14 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
 
     ,
   - (iii) in paragraph (1)(b) for “(Reference to the Court of Appeal of point of law or unduly lenient sentencing)” substitute “made under section 36 of the Criminal Justice Act 1972[^f00026] or section 36 of the Criminal Justice Act 1988[^f00027]”, and
-  - (iv)[^key-8068c07a677c0a404341d210df785646] after the seventh paragraph of the note to the rule insert—
+  - (iv)[^c-8068c07a677c0a404341d210df785646] after the seventh paragraph of the note to the rule insert—
 
     “*Under section 6A(8) or section 6B(7) of the European Union (Withdrawal) Act 2018 a party may appeal to the Supreme Court from a decision of the Court of Appeal on a reference to that court under either of those sections. See also Part 41.”*; and
 - (b) in rule 43.2 (Application for permission or reference)—
   - (i) in the second paragraph of the note to the rule, in the second sentence, for “Under those provisions,” substitute “Under each of those provisions, except for section 6A(8) or section 6B(7) of the European Union (Withdrawal) Act 2018,”, and
   - (ii) in the third paragraph of the note to the rule after “certificate” insert “, where required,”.
 
-**14.**[^key-a4b4cab71e9a9c7b371fa9573c3348fb] In Part 47 (Investigation orders and warrants), in Section 5: Orders for the retention of fingerprints, etc.—
+**14.**[^c-a4b4cab71e9a9c7b371fa9573c3348fb] In Part 47 (Investigation orders and warrants), in Section 5: Orders for the retention of fingerprints, etc.—
 
 - (a) in rule 47.42 (When this Section applies)—
   - (i) in paragraph (a) before “a District Judge (Magistrates’ Courts)” insert “a magistrates’ court consisting of”,
@@ -516,7 +516,7 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
   - (x) in the fifth paragraph of the note to the rule for the third sentence substitute “Under section 63R(9) of the 1984 Act[^f00033], paragraph 20G(9) of Schedule 8 to the 2000 Act[^f00034] and paragraph 25(9)(b) of Schedule 6 to the 2023 Act such an order may be renewed, on one or more occasions, for a further period of not more than 12 months from the end of the period when the order would otherwise cease to have effect.”; and
 - (c) in rule 47.45 (Appeal) in the note to the rule omit “and”, in the second place it occurs, and after “Schedule 8 to the Terrorism Act 2000” insert “and under paragraph 20(9) of Schedule 6 to the National Security Act 2023”.
 
-**15.**[^key-ffee77e2c4437fbbd3913c85de07cc8b] In Part 50 (Extradition), in Section 3: Appeal to the High Court—
+**15.**[^c-ffee77e2c4437fbbd3913c85de07cc8b] In Part 50 (Extradition), in Section 3: Appeal to the High Court—
 
 - (a) in rule 50.19 (Service of appeal notice), in the first paragraph of the note to the rule—
   - (i) at the end of sub-paragraph (a) omit “and”,
@@ -554,11 +554,11 @@ In Part 2 (Understanding and applying the rules; powers of authorised court offi
 
   .
 
-## 16. Consequential amendments and corrections[^key-0dc006e92f730a090ba9ad4e623fbfc3]
+## 16. Consequential amendments and corrections[^c-0dc006e92f730a090ba9ad4e623fbfc3]
 
 Schedule 2 to these Rules, which makes amendments in consequence of those made by rules 6(c), 7, 8(c) and 11 of these Rules and which makes other corrections, has effect.
 
-## 17. Amendments to the preamble to the Criminal Procedure Rules[^key-40192a7384dcf6fbbd176664418ad4bb]
+## 17. Amendments to the preamble to the Criminal Procedure Rules[^c-40192a7384dcf6fbbd176664418ad4bb]
 
 In the preamble to the Criminal Procedure Rules 2020, in sub-paragraph (b)—
 
@@ -618,7 +618,7 @@ Ministry of Justice
 
 At 2.15 p.m. on 30th July 2024
 
-## SCHEDULE 1[^key-a0dfb29a362624e4fcd4a81c346c1c20]
+## SCHEDULE 1[^c-a0dfb29a362624e4fcd4a81c346c1c20]
 
 Rule 7
 
@@ -845,8 +845,8 @@ Rule 7
 > - (b) make available to the Crown Court officer and give to or serve on the parties notice of a sending for Crown Court trial under rule 9.8, 9.9 or 9.23;
 > - (c) in such a notice of sending include—
 >   - (i) the matters specified by the court under rule 9.3 (Matters to be specified on sending for trial),
->   - (ii)[^key-faa8e2ee9f3dc179de15b089975715cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->   - (ii)[^key-b1d7887ab946766044d4407081615844] any indication given by the defendant under rule 9.8 or 9.9 of intended guilty plea,
+>   - (ii)[^c-faa8e2ee9f3dc179de15b089975715cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>   - (ii)[^c-b1d7887ab946766044d4407081615844] any indication given by the defendant under rule 9.8 or 9.9 of intended guilty plea,
 >   - (iii) any decision by the defendant under rule 9.12 or 9.16 to require Crown Court trial (not guilty plea indication by written procedure or at a hearing),
 >   - (iv) any indication of likely sentence to which rule 9.11 or rule 9.13 applies,
 >   - (v) any decision by the defendant under rule 9.13 or 9.17 to decline magistrates’ court trial (allocation for magistrates’ court trial by written procedure or at a hearing),
@@ -1876,34 +1876,34 @@ Rule 7
 
 Rule 16
 
-**1.**[^key-83f6051513cad01251036840ff0d9cd7] In rule 2.8 (Exercise of functions of a magistrates’ court), in paragraph (4)(g) for “Request for information determined by the court” substitute “Request or application determined by the court”.
+**1.**[^c-83f6051513cad01251036840ff0d9cd7] In rule 2.8 (Exercise of functions of a magistrates’ court), in paragraph (4)(g) for “Request for information determined by the court” substitute “Request or application determined by the court”.
 
-**2.**[^key-1d73d59346a722a595c8b752e740ab02] In rule 3.16 (Pre-trial hearings in a magistrates’ court: general rules), in paragraph (1)(a)(i)—
+**2.**[^c-1d73d59346a722a595c8b752e740ab02] In rule 3.16 (Pre-trial hearings in a magistrates’ court: general rules), in paragraph (1)(a)(i)—
 
 - (a) for “rule 9.11” substitute “rule 9.17”; and
 - (b) for “rule 9.13” substitute “rule 9.21”.
 
-**3.**[^key-bba9450fdb05b1417c5c2e199857d5ca] In rule 4.1 (When this Part applies) in paragraph (3)(b) for “Queen’s Bench Listing Office” substitute “King’s Bench Listing Office”.
+**3.**[^c-bba9450fdb05b1417c5c2e199857d5ca] In rule 4.1 (When this Part applies) in paragraph (3)(b) for “Queen’s Bench Listing Office” substitute “King’s Bench Listing Office”.
 
-**4.**[^key-7a109a49a14fd290ef204d2fb0621015] In rule 5.4 (Duty to make records), in the fourth paragraph of the note to the rule—
+**4.**[^c-7a109a49a14fd290ef204d2fb0621015] In rule 5.4 (Duty to make records), in the fourth paragraph of the note to the rule—
 
 - (a) for “rule 9.11(3)” substitute “rule 9.17(3)”; and
 - (b) for “9.13” substitute “9.21”.
 
-**5.**[^M_I_854b7a43-d494-4d23-9bcf-13a46313692e][^key-2b7ccbf999e23dbef16f587abb0504d2] In rule 24.11 (Procedure if the court convicts), in the final paragraph of the note to the rule for “9.15” substitute “9.24”.
+**5.**[^M_I_854b7a43-d494-4d23-9bcf-13a46313692e][^c-2b7ccbf999e23dbef16f587abb0504d2] In rule 24.11 (Procedure if the court convicts), in the final paragraph of the note to the rule for “9.15” substitute “9.24”.
 
-**6.**[^key-29a6e087fec9122ad1ab4fdf7f621a76] In rule 25.10 (Defendant unfit to plead) in paragraph (3)(c)(iii) for “rule 25.9(2)(e)” substitute “rule 25.9(2)(f)”.
+**6.**[^c-29a6e087fec9122ad1ab4fdf7f621a76] In rule 25.10 (Defendant unfit to plead) in paragraph (3)(c)(iii) for “rule 25.9(2)(e)” substitute “rule 25.9(2)(f)”.
 
-**7.**[^key-125661dd2de16da15ad5d0be1a81c6f5] In rule 28.10 (Committal or remission, etc. for sentence), in the note to the rule—
+**7.**[^c-125661dd2de16da15ad5d0be1a81c6f5] In rule 28.10 (Committal or remission, etc. for sentence), in the note to the rule—
 
 - (a) in sub-paragraph (a) of the first paragraph—
   - (i) for “9.15” substitute “9.24”, and
   - (ii) for “28.12”, in each place it occurs, substitute “28.13”; and
 - (b) in the final paragraph for “rule 9.16” substitute “rule 9.25”.
 
-**8.**[^key-4ba288a92b597f7cfa12ec0d486d091d] In rule 45.13 (Appeal to a High Court judge) in paragraph (3)(a) for “Queen’s Bench Division” substitute “King’s Bench Division”.
+**8.**[^c-4ba288a92b597f7cfa12ec0d486d091d] In rule 45.13 (Appeal to a High Court judge) in paragraph (3)(a) for “Queen’s Bench Division” substitute “King’s Bench Division”.
 
-**9.**[^key-fb8e3e04681f20845d42e805b8475658] For the heading to Part 37 substitute “Appeal to the Court of Appeal against ruling at preparatory hearing or in response to jury tampering” in each of the following references to that heading—
+**9.**[^c-fb8e3e04681f20845d42e805b8475658] For the heading to Part 37 substitute “Appeal to the Court of Appeal against ruling at preparatory hearing or in response to jury tampering” in each of the following references to that heading—
 
 - (a) in rule 45.4 (Costs out of central funds), in the second paragraph of the note to the rule in sub-paragraph (a)(v);
 - (b) in rule 43.1 (When this Part applies), in paragraph (1)(a)(ii);
@@ -1989,15 +1989,15 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00003]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); sections 51 and 51A are materially amended by section 10 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35) with effect from a date to be appointed.
 
-[^key-b9447cd962a11e821a8a05d7de682517]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2024/842/rule/1) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-b9447cd962a11e821a8a05d7de682517]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2024/842/rule/1) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
 [^f00004]: Footnote: [S.I. 2020/759](https://www.legislation.gov.uk/uksi/2020/759); amended by [S.I. 2021/40](https://www.legislation.gov.uk/uksi/2021/40), [2021/849](https://www.legislation.gov.uk/uksi/2021/849), [2022/45](https://www.legislation.gov.uk/uksi/2022/45), [2022/815](https://www.legislation.gov.uk/uksi/2022/815), [2023/44](https://www.legislation.gov.uk/uksi/2023/44), [2023/786](https://www.legislation.gov.uk/uksi/2023/786), [2024/62](https://www.legislation.gov.uk/uksi/2024/62).
 
-[^key-5112a6fd043d1e0bce96a910a06cb28a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-5112a6fd043d1e0bce96a910a06cb28a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
 [^f00005]: Footnote: [2022 c. 35](https://www.legislation.gov.uk/ukpga/2022/35).
 
-[^key-43fbcc9dc3e30a9812fba3c415168409]: Textual amendment: Word in [rule 2(a)(iii)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a/iii) substituted (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(a)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/a)
+[^c-43fbcc9dc3e30a9812fba3c415168409]: Textual amendment: Word in [rule 2(a)(iii)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a/iii) substituted (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(a)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/a)
 
 [^f00006]: Footnote: [2021 c. 17](https://www.legislation.gov.uk/ukpga/2021/17); section 46 comes into force on a date to be appointed.
 
@@ -2005,21 +2005,21 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00008]: Footnote: [2023 c. 28](https://www.legislation.gov.uk/ukpga/2023/28).
 
-[^key-2870d5c2c1b8f4406e5eea5b24b45bba]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2024/842/rule/3) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-2870d5c2c1b8f4406e5eea5b24b45bba]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2024/842/rule/3) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-a58a2a2acb82671a662fe591a2b5bf99]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2024/842/rule/4) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-a58a2a2acb82671a662fe591a2b5bf99]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2024/842/rule/4) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
 [^f00009]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); section 80 was amended by section 41 of, and paragraph 54 of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-d89a3fa7aaf72c2f24d0865f4c3280ff]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2024/842/rule/5) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-d89a3fa7aaf72c2f24d0865f4c3280ff]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2024/842/rule/5) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-1f86e22aab07ea39b900bb0c16400064]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2024/842/rule/6) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
+[^c-1f86e22aab07ea39b900bb0c16400064]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2024/842/rule/6) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
 [^f00010]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); section 52A was inserted by paragraphs 15 and 19 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and amended by paragraphs 46 and 47 of Schedule 5 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-8024b444ab9f2b4eb5d7486f99e2e955]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2024/842/rule/7) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
+[^c-8024b444ab9f2b4eb5d7486f99e2e955]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2024/842/rule/7) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
-[^key-31df2ec3459038c1389aeb1feea378ac]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2024/842/rule/8) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-31df2ec3459038c1389aeb1feea378ac]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2024/842/rule/8) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
 [^f00011]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17); section 74 was amended by section 10 of the Counter-Terrorism and Sentencing Act [2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11) and is further amended by section 408 of, and paragraph 38B of Schedule 22 to, the 2020 Act with effect from a date to be appointed.
 
@@ -2027,11 +2027,11 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00013]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-b8c09a79cb3c8ada83242d1c3c5df9c8]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2024/842/rule/9) comes into force in accordance with [rule 2(b)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/b)
+[^c-b8c09a79cb3c8ada83242d1c3c5df9c8]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2024/842/rule/9) comes into force in accordance with [rule 2(b)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/b)
 
 [^f00014]: Footnote: [2021 c. 17](https://www.legislation.gov.uk/ukpga/2021/17); section 47 comes into force on a date to be appointed.
 
-[^key-8b756a0a3baf02b52a2edd1b158d9c7d]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2024/842/rule/10) comes into force in accordance with [rule 2(c)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/c)
+[^c-8b756a0a3baf02b52a2edd1b158d9c7d]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2024/842/rule/10) comes into force in accordance with [rule 2(c)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/c)
 
 [^f00015]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42); section 4 was amended by section 40 of, and paragraph 66 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 67 of, and paragraph 43 of Schedule 6 to, the Mental Capacity Act [2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9) and section 61 of, and paragraph 5 of Schedule 14 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
@@ -2043,9 +2043,9 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00019]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42); section 5 was amended by section 40 of, and paragraph 66 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-6ada82bb6d791d44c0eef0509df383ac]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2024/842/rule/11) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-6ada82bb6d791d44c0eef0509df383ac]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2024/842/rule/11) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-2796c708b5e6d5163f05fefb66947c06]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2024/842/rule/12) comes into force in accordance with [rule 2(c)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/c)
+[^c-2796c708b5e6d5163f05fefb66947c06]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2024/842/rule/12) comes into force in accordance with [rule 2(c)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/c)
 
 [^f00020]: Footnote: [1972 c. 71](https://www.legislation.gov.uk/ukpga/1972/71); section 36 was amended by section 31 of, and paragraph 8 of Schedule 1 to, the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23), section 148 of, and paragraph 23 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and section 151 of, and paragraph 9 of Schedule 7 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
@@ -2057,9 +2057,9 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00024]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
 
-[^key-4f9113b1d05b661945bf705bdee90ffc]: Textual amendment: [Rule 12(d)](https://www.legislation.gov.uk/uksi/2024/842/rule/12/d) substituted (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(b)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/b)
+[^c-4f9113b1d05b661945bf705bdee90ffc]: Textual amendment: [Rule 12(d)](https://www.legislation.gov.uk/uksi/2024/842/rule/12/d) substituted (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(b)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/b)
 
-[^key-9c4aa5e88f96915f0d85f67b88ffcba0]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2024/842/rule/13) comes into force in accordance with [rule 2(c)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/c)
+[^c-9c4aa5e88f96915f0d85f67b88ffcba0]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2024/842/rule/13) comes into force in accordance with [rule 2(c)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/c)
 
 [^f00025]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); sections 6A and 6B are inserted by section 6 of the Retained EU Law (Revocation and Reform) Act [2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28) with effect from a date to be appointed.
 
@@ -2067,9 +2067,9 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00027]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 36 was amended by section 272 of, and paragraphs 45 and 46 of Schedule 32 and paragraph 96 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 40 of, and paragraph 48 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), sections 49 and 65 of, and paragraph 3 of Schedule 1 and Schedule 5 to, the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), sections 46, 148 and 149 of, and paragraphs 22 and 23 of Schedule 26 and Part 3 of Schedule 28 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), paragraph 2 of Schedule 19 and paragraphs 4 and 5 of Schedule 26 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), section 28 of, and paragraph 2 of Schedule 5 to, the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2) and section 416 of, and paragraphs 89 and 267 of Schedule 24 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
 
-[^key-8068c07a677c0a404341d210df785646]: Textual amendment: [Rule 13(a)(iv)](https://www.legislation.gov.uk/uksi/2024/842/rule/13/a/iv) substituted for [rule 13(a)(iv)(v)](https://www.legislation.gov.uk/uksi/2024/842/rule/13/a/iv) (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(c)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/c)
+[^c-8068c07a677c0a404341d210df785646]: Textual amendment: [Rule 13(a)(iv)](https://www.legislation.gov.uk/uksi/2024/842/rule/13/a/iv) substituted for [rule 13(a)(iv)(v)](https://www.legislation.gov.uk/uksi/2024/842/rule/13/a/iv) (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(c)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/c)
 
-[^key-a4b4cab71e9a9c7b371fa9573c3348fb]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2024/842/rule/14) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-a4b4cab71e9a9c7b371fa9573c3348fb]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2024/842/rule/14) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
 [^f00028]: Footnote: [2023 c. 32](https://www.legislation.gov.uk/ukpga/2023/32).
 
@@ -2085,11 +2085,11 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00034]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); paragraph 20G of Schedule 8 was inserted by section 19 of, and paragraph 1 of Schedule 1 to, the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-ffee77e2c4437fbbd3913c85de07cc8b]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2024/842/rule/15) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-ffee77e2c4437fbbd3913c85de07cc8b]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2024/842/rule/15) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-0dc006e92f730a090ba9ad4e623fbfc3]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2024/842/rule/16) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
+[^c-0dc006e92f730a090ba9ad4e623fbfc3]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2024/842/rule/16) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
-[^key-40192a7384dcf6fbbd176664418ad4bb]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2024/842/rule/17) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
+[^c-40192a7384dcf6fbbd176664418ad4bb]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2024/842/rule/17) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
 [^f00035]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); sections 51 and 51A are materially amended by section 10 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35) with effect from a date to be appointed.
 
@@ -2103,7 +2103,7 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00040]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 24ZA is inserted by section 8 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35) with effect from a date to be appointed.
 
-[^key-a0dfb29a362624e4fcd4a81c346c1c20]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/1) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-a0dfb29a362624e4fcd4a81c346c1c20]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/1) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
 [^f00041]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); sections 17ZA, 17ZB and 17ZC are inserted by section 6 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35) with effect from a date to be appointed. Sections 17A to 17C were inserted by section 49 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25). Section 17BA is inserted by section 7 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35) with effect from a date to be appointed. Sections 17D and 17E were inserted by section 336 of, and paragraph 3 of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 20A was inserted by section 336 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 22A was inserted by sections 176 and 185 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). Sections 24ZA and 24ZB are inserted by section 8 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35) with effect from a date to be appointed. Sections 24A, 24B, 24C and 24D were inserted by section 336 of, and paragraph 10 of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 24BA is inserted by section 9 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35) with effect from a date to be appointed. For amendments to these provisions, see subsequent footnotes.
 
@@ -2143,9 +2143,9 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00059]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); sections 28 and 29 were substituted by section 4 of, and paragraph 26 of the Schedule to, the Courts and Tribunals (Judiciary and Functions of Staff) Act [2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33).
 
-[^key-faa8e2ee9f3dc179de15b089975715cc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/1) omitted (24.2.2025) by virtue of [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(d)(i)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/d/i)
+[^c-faa8e2ee9f3dc179de15b089975715cc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/1) omitted (24.2.2025) by virtue of [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(d)(i)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/d/i)
 
-[^key-b1d7887ab946766044d4407081615844]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/1): sub-paragraphs renumbered (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(d)(ii)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/d/ii)
+[^c-b1d7887ab946766044d4407081615844]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/1): sub-paragraphs renumbered (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(d)(ii)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/d/ii)
 
 [^f00060]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 5 was amended by section 65 of, and Schedule 12 to, the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), section 60 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), paragraph 1 of Schedule 3 to the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), paragraph 53 of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), section 129(1) of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), paragraph 182 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), paragraph 48 of Schedule 3, paragraphs 1 and 2 of Schedule 36, and Parts 2, 4 and 12 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 208 of, and paragraphs 33 and 35 of Schedule 21 to, the Legal Services Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
 
@@ -2237,22 +2237,22 @@ These Rules come into force in accordance with rule 2, so that—
 
 [^f00104]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17); section 25 was amended, and section 25A inserted, by section 11 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35). Section 26 was amended by paragraph 14 of Schedule 2 to that latter Act.
 
-[^key-83f6051513cad01251036840ff0d9cd7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/1) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-83f6051513cad01251036840ff0d9cd7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/1) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-1d73d59346a722a595c8b752e740ab02]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/2) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
+[^c-1d73d59346a722a595c8b752e740ab02]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/2) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
-[^key-bba9450fdb05b1417c5c2e199857d5ca]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/3) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-bba9450fdb05b1417c5c2e199857d5ca]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/3) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-7a109a49a14fd290ef204d2fb0621015]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/4) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
+[^c-7a109a49a14fd290ef204d2fb0621015]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/4) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
 [^M_I_854b7a43-d494-4d23-9bcf-13a46313692e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/5) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
-[^key-2b7ccbf999e23dbef16f587abb0504d2]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/5) substituted (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(e)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/e)
+[^c-2b7ccbf999e23dbef16f587abb0504d2]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/5) substituted (24.2.2025) by [The Criminal Procedure (Amendment) Rules 2025 (S.I. 2025/60)](https://www.legislation.gov.uk/uksi/2025/60), [rules 2](https://www.legislation.gov.uk/uksi/2025/60/rule/2), [13(e)](https://www.legislation.gov.uk/uksi/2025/60/rule/13/e)
 
-[^key-29a6e087fec9122ad1ab4fdf7f621a76]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/6) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-29a6e087fec9122ad1ab4fdf7f621a76]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/6) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-125661dd2de16da15ad5d0be1a81c6f5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/7) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
+[^c-125661dd2de16da15ad5d0be1a81c6f5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/7) comes into force in accordance with [rule 2(a)](https://www.legislation.gov.uk/uksi/2024/842/rule/2/a)
 
-[^key-4ba288a92b597f7cfa12ec0d486d091d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/8) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-4ba288a92b597f7cfa12ec0d486d091d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/8) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
 
-[^key-fb8e3e04681f20845d42e805b8475658]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/9) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)
+[^c-fb8e3e04681f20845d42e805b8475658]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/842/schedule/2/paragraph/9) in force at 7.10.2024, see [rule 2](https://www.legislation.gov.uk/uksi/2024/842/rule/2)

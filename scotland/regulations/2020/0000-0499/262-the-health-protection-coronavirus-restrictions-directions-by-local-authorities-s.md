@@ -54,7 +54,7 @@ The Scottish Ministers consider that the restrictions and requirements imposed b
 
 In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by, a resolution of the Scottish Parliament.
 
-## 1. Citation, commencement, application and interpretation[^key-475ddd4ebc49a2fbd3571100b7079b48]
+## 1. Citation, commencement, application and interpretation[^c-475ddd4ebc49a2fbd3571100b7079b48]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020.
 
@@ -77,7 +77,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
   - (b) any person under 70 who has an underlying medical condition, including but not limited to, the conditions listed in the schedule, and
   - (c) any person who is pregnant.
 
-## 2. Guidance: powers and duties[^key-4e4afc1c874a511f11711fb8cd020398]
+## 2. Guidance: powers and duties[^c-4e4afc1c874a511f11711fb8cd020398]
 
 (1) Subject to paragraph (2), the Scottish Ministers may issue and update guidance to local authorities about the exercise of their functions under these Regulations.
 
@@ -94,7 +94,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 - (b) the form a direction should take,
 - (c) the process for notifying the Scottish Ministers that a direction has been made.
 
-## 3. Directions by local authorities: general[^key-308188bc8d9e1dc44d5837b7242b4745]
+## 3. Directions by local authorities: general[^c-308188bc8d9e1dc44d5837b7242b4745]
 
 (1) A local authority may give a direction under regulation 5(1), 6(1) or 7(1) only if the authority considers that the following conditions are met—
 
@@ -113,7 +113,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 
 (4) Section 16 of the Interpretation Act 1978 [^c24276141] applies in relation to the revocation of a direction under regulation 5(1), 6(1) or 7(1) as it applies in relation to the repeal of an enactment.
 
-## 4. Powers of Scottish Ministers[^key-8a64b8f250da6d42e6d011e0800aa221]
+## 4. Powers of Scottish Ministers[^c-8a64b8f250da6d42e6d011e0800aa221]
 
 (1) The Scottish Ministers may give a direction to a local authority requiring the authority to give a direction under regulation 5(1), 6(1) or 7(1), if the Scottish Ministers consider that the conditions in regulation 3(1)(a) and (b) would be met in relation to the local authority direction.
 
@@ -128,7 +128,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 
 (5) Before giving or revoking a direction under this regulation, the Scottish Ministers must consult the Chief Medical Officer of the Scottish Administration or such other person as may be designated for the purposes of this paragraph by the Scottish Ministers.
 
-## 5. Directions relating to individual premises[^key-c80b26b9112ae61cb44e4a70e4f950ee]
+## 5. Directions relating to individual premises[^c-c80b26b9112ae61cb44e4a70e4f950ee]
 
 (1) Subject to regulation 3, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to the entry into, departure from, or location of persons in, specified premises in the local authority's area.
 
@@ -170,7 +170,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 
 (10) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Scottish Ministers under regulation 4, an application is to be issued to both the Scottish Ministers and the local authority.
 
-## 6. Directions relating to events[^key-199413e1a7cad2b0915f6d7b704fb80f]
+## 6. Directions relating to events[^c-199413e1a7cad2b0915f6d7b704fb80f]
 
 (1) Subject to regulation 3, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to the holding of a specified event in its area.
 
@@ -198,7 +198,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 
 (8) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Scottish Ministers under regulation 4, an application is to be issued to both the Scottish Ministers and the local authority.
 
-## 7. Directions relating to public outdoor places[^key-7bd8d8ac68eff56f12ad26afc49cbd83]
+## 7. Directions relating to public outdoor places[^c-7bd8d8ac68eff56f12ad26afc49cbd83]
 
 (1) Subject to regulation 3, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to access to a specified public outdoor place in its area.
 
@@ -221,7 +221,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 
 (7) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Scottish Ministers under regulation 4, an application is to be issued to both the Scottish Ministers and the local authority.
 
-## 8. Directions relating to public outdoor spaces: access[^key-f9dca47811c7a36f2e3b4f83f96b3552]
+## 8. Directions relating to public outdoor spaces: access[^c-f9dca47811c7a36f2e3b4f83f96b3552]
 
 (1) A local authority which has given a direction under regulation 7(1) must take all reasonable steps to prevent or restrict public access to the specified public outdoor place or places to which the direction relates in accordance with the direction.
 
@@ -229,7 +229,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 
 (3) No person may enter or remain in a specified public outdoor place to which a direction under regulation 7(1) relates in contravention of a prohibition, requirement or restriction imposed by the direction.
 
-## 9. Public notice of directions etc.[^key-09ba42de0182515d7b20a76f5a891614]
+## 9. Public notice of directions etc.[^c-09ba42de0182515d7b20a76f5a891614]
 
 (1) Where a local authority gives a direction under regulation 5(1), 6(1) or 7(1) which imposes a prohibition, requirement or restriction on a person specified by name, or revokes such a direction, the direction or revocation of the direction—
 
@@ -243,7 +243,7 @@ In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottis
 
 (3) A direction given by a local authority under regulation 5(1), 6(1) or 7(1) must specify the power in these Regulations under which the direction is given.
 
-## 10. Notification of directions to other local authorities[^key-0c1b5ebdc814b35833c25c05aa541459]
+## 10. Notification of directions to other local authorities[^c-0c1b5ebdc814b35833c25c05aa541459]
 
 Where a local authority (the “initiating authority”) gives a direction under regulation 5(1), 6(1) or 7(1), or revokes such a direction, the initiating authority must notify—
 
@@ -252,7 +252,7 @@ Where a local authority (the “initiating authority”) gives a direction under
   - (i) a county council in England, or
   - (ii) a district council in England for an area for which there is no county council.
 
-## 11. Enforcement of requirements[^key-f5662215ae7c98fc3c732acc81c398ed]
+## 11. Enforcement of requirements[^c-f5662215ae7c98fc3c732acc81c398ed]
 
 (1) A local authority designated officer or a constable may take such action as is necessary to enforce a direction under regulation 5(1), 6(1) or 7(1).
 
@@ -290,7 +290,7 @@ Where a local authority (the “initiating authority”) gives a direction under
   - (ii) is the child's parent.
 - (b) “**local authority designated officer**” means a person designated by a local authority for the purposes of this regulation.
 
-## 11A. Power of entry[^key-0d59b30f5a436270a662eaa4511e7675]
+## 11A. Power of entry[^c-0d59b30f5a436270a662eaa4511e7675]
 
 (1) A local authority designated officer may enter premises—
 
@@ -330,7 +330,7 @@ Where a local authority (the “initiating authority”) gives a direction under
 
 (9) A warrant under this regulation continues in force until the purpose for which it is issued is fulfilled.
 
-## 12. Offences and penalties[^key-aeef872aa805548474af49f26fb2ff6d]
+## 12. Offences and penalties[^c-aeef872aa805548474af49f26fb2ff6d]
 
 (1) A person who contravenes a direction under regulation 5(1), 6(1) or 7(1) commits an offence.
 
@@ -378,9 +378,9 @@ the officer (as well as the body corporate) commits the offence and is liable to
 - (c) in the case of a partnership other than a limited liability partnership, a partner,
 - (d) in the case of another body or association, a person who is concerned in the management or control of its affairs.
 
-## 13. Fixed penalty notices[^key-c9dc303ce9c69aae75726cf1eaced398]
+## 13. Fixed penalty notices[^c-c9dc303ce9c69aae75726cf1eaced398]
 
-(1) A constable or local authority designated officer[^key-55fe0461e0702cd7aec9192f709ec738] may issue a fixed penalty notice to anyone that the constable or local authority designated officer reasonably believes—
+(1) A constable or local authority designated officer[^c-55fe0461e0702cd7aec9192f709ec738] may issue a fixed penalty notice to anyone that the constable or local authority designated officer reasonably believes—
 
 - (a) has committed an offence under these Regulations, and
 - (b) is aged 18 or over.
@@ -402,7 +402,7 @@ the officer (as well as the body corporate) commits the offence and is liable to
 
 - (a) regulation 8 of the Health Protection (Coronavirus, Restrictions) (Aberdeen City) Regulations 2020 [^c24276151],
 - (b) regulation 9 of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020 [^c24276161],
-- (c)[^key-a16a180d59642bec5adda94b71921861] regulation 16 of the Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020,
+- (c)[^c-a16a180d59642bec5adda94b71921861] regulation 16 of the Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020,
 - (d) regulation 27 of the Health Protection (Coronavirus) (Restrictions and Requirements) (Additional Temporary Measures) (Scotland) Regulations 2020.
 
 (7) For the purposes of these Regulations—
@@ -423,13 +423,13 @@ are the same as those that apply to a fixed penalty notice given under section 1
 - (f) in section 131(5)—
   - (i) the reference to “**in accordance with this Part**” is to be construed as a reference to these Regulations, and
   - (ii) the reference to “a sum equal to one and a half times” is to be disregarded.
-- (ff)[^key-62f4bb2674ea137abd6119395905d18e] the references to “constable” in section 133(1) are to be construed as references to a constable or local authority designated officer,
+- (ff)[^c-62f4bb2674ea137abd6119395905d18e] the references to “constable” in section 133(1) are to be construed as references to a constable or local authority designated officer,
 - (g) the definition of “fixed penalty offence” in section 134 is to be construed as though it referred to an offence of the type referred to in paragraph (1)(a), and
 - (h) in section 226B(5)(a)(ii) of the Criminal Procedure (Scotland) Act 1995—
   - (i) the reference to “**by virtue of section 131(5) of the Antisocial Behaviour etc. (Scotland) Act 2004**” is to be construed as a reference to that section as modified by this paragraph, and
   - (ii) the reference to “**a fixed penalty notice given under section 129 (fixed penalty notices) of that Act**” is to be construed as a reference to section 129 of the Antisocial Behaviour etc. (Scotland) Act 2004 as modified by this paragraph.
 
-(9)[^key-b2231eafcf00f497026bc57f89aac7bb] Where the person issuing a notice under paragraph (1) is a local authority designated officer, the officer may require the person believed to have committed an offence (“A”) to give A's name and address.
+(9)[^c-b2231eafcf00f497026bc57f89aac7bb] Where the person issuing a notice under paragraph (1) is a local authority designated officer, the officer may require the person believed to have committed an offence (“A”) to give A's name and address.
 
 (10) When making that requirement, the officer must inform A—
 
@@ -438,13 +438,13 @@ are the same as those that apply to a fixed penalty notice given under section 1
 
 (11) If A has been required under this section to give A's name and address and, without reasonable excuse, fails to do so, A will be guilty of an offence and liable, on summary conviction, to a fine not exceeding the statutory maximum.
 
-## 14. Amendment of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020[^key-64f9ab8375b2a1a2b727b7ee628a840e]
+## 14. Amendment of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020[^c-64f9ab8375b2a1a2b727b7ee628a840e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Expiry and review[^key-522dd76b798f9becb36dddc8120ed50f]
+## 15. Expiry and review[^c-522dd76b798f9becb36dddc8120ed50f]
 
-(1) These Regulations expire on 24 September[^key-f713fb4296559b6207095402a3536209][^M_F_920c80d5-1879-4db3-b6e2-9b1e40acbe61] 2022.
+(1) These Regulations expire on 24 September[^c-f713fb4296559b6207095402a3536209][^M_F_920c80d5-1879-4db3-b6e2-9b1e40acbe61] 2022.
 
 (2) The Scottish Ministers must review the need for these regulations at least once every 42 days, with the first review being carried out by 9 October 2020.
 
@@ -460,25 +460,25 @@ Edinburgh
 
 Regulation 1
 
-### 1. Underlying medical conditions[^key-39df37ee89bc83175cce67d5af04c960]
+### 1. Underlying medical conditions[^c-39df37ee89bc83175cce67d5af04c960]
 
 Chronic (long-term) respiratory diseases, such as asthma, chronic obstructive pulmonary disease, emphysema or bronchitis.
 
-**2.**[^key-677ae49c55b29a1a42f795f000b11ed9] Chronic heart disease, such as heart failure.
+**2.**[^c-677ae49c55b29a1a42f795f000b11ed9] Chronic heart disease, such as heart failure.
 
-**3.**[^key-5ac6f6d6be4e20f3620f2f3ba356e02c] Chronic kidney disease.
+**3.**[^c-5ac6f6d6be4e20f3620f2f3ba356e02c] Chronic kidney disease.
 
-**4.**[^key-d28f54fa0b5314b8c44e8bb055b4e700] Chronic liver disease, such as hepatitis.
+**4.**[^c-d28f54fa0b5314b8c44e8bb055b4e700] Chronic liver disease, such as hepatitis.
 
-**5.**[^key-fd60dbe2f3f3158a6963bf6b14b55abe] Chronic neurological conditions, such as Parkinson's disease, motor neurone disease, multiple sclerosis (MS), a learning disability or cerebral palsy.
+**5.**[^c-fd60dbe2f3f3158a6963bf6b14b55abe] Chronic neurological conditions, such as Parkinson's disease, motor neurone disease, multiple sclerosis (MS), a learning disability or cerebral palsy.
 
-**6.**[^key-a3653637b61a60bfc1f7c49e6c74600a] Diabetes.
+**6.**[^c-a3653637b61a60bfc1f7c49e6c74600a] Diabetes.
 
-**7.**[^key-b29ddca5320dc1be02a9867091fd1f70] Problems with the spleen, such as sickle cell disease or if removal of the spleen has occurred.
+**7.**[^c-b29ddca5320dc1be02a9867091fd1f70] Problems with the spleen, such as sickle cell disease or if removal of the spleen has occurred.
 
-**8.**[^key-254e5037a885d3c5b4f0810fa922e4d8] A weakened immune system as the result of conditions such as HIV and AIDS, or medicines such as steroid tablets or chemotherapy.
+**8.**[^c-254e5037a885d3c5b4f0810fa922e4d8] A weakened immune system as the result of conditions such as HIV and AIDS, or medicines such as steroid tablets or chemotherapy.
 
-**9.**[^key-55f27036c2a244d5f0ec847fdea6246b] Being seriously overweight, with a body mass index of 40 or above.
+**9.**[^c-55f27036c2a244d5f0ec847fdea6246b] Being seriously overweight, with a body mass index of 40 or above.
 
 *(This note is not part of the Regulations)*
 
@@ -504,80 +504,80 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^c24276101]: Marginal citation: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-475ddd4ebc49a2fbd3571100b7079b48]: Commencement: Reg. 1 in force at 28.8.2020, see reg. 1(2)
+[^c-475ddd4ebc49a2fbd3571100b7079b48]: Commencement: Reg. 1 in force at 28.8.2020, see reg. 1(2)
 
 [^c24276111]: Marginal citation: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
 [^c24276121]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-4e4afc1c874a511f11711fb8cd020398]: Commencement: Reg. 2 in force at 28.8.2020, see reg. 1(2)
+[^c-4e4afc1c874a511f11711fb8cd020398]: Commencement: Reg. 2 in force at 28.8.2020, see reg. 1(2)
 
 [^c24276131]: Marginal citation: [S.S.I. 2020/103](https://www.legislation.gov.uk/ssi/2020/103). Regulation 4A was inserted by regulation 2(2) of [S.S.I. 2020/236](https://www.legislation.gov.uk/ssi/2020/236).
 
-[^key-308188bc8d9e1dc44d5837b7242b4745]: Commencement: Reg. 3 in force at 28.8.2020, see reg. 1(2)
+[^c-308188bc8d9e1dc44d5837b7242b4745]: Commencement: Reg. 3 in force at 28.8.2020, see reg. 1(2)
 
 [^c24276141]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-8a64b8f250da6d42e6d011e0800aa221]: Commencement: Reg. 4 in force at 28.8.2020, see reg. 1(2)
+[^c-8a64b8f250da6d42e6d011e0800aa221]: Commencement: Reg. 4 in force at 28.8.2020, see reg. 1(2)
 
-[^key-c80b26b9112ae61cb44e4a70e4f950ee]: Commencement: Reg. 5 in force at 28.8.2020, see reg. 1(2)
+[^c-c80b26b9112ae61cb44e4a70e4f950ee]: Commencement: Reg. 5 in force at 28.8.2020, see reg. 1(2)
 
-[^key-199413e1a7cad2b0915f6d7b704fb80f]: Commencement: Reg. 6 in force at 28.8.2020, see reg. 1(2)
+[^c-199413e1a7cad2b0915f6d7b704fb80f]: Commencement: Reg. 6 in force at 28.8.2020, see reg. 1(2)
 
-[^key-7bd8d8ac68eff56f12ad26afc49cbd83]: Commencement: Reg. 7 in force at 28.8.2020, see reg. 1(2)
+[^c-7bd8d8ac68eff56f12ad26afc49cbd83]: Commencement: Reg. 7 in force at 28.8.2020, see reg. 1(2)
 
-[^key-f9dca47811c7a36f2e3b4f83f96b3552]: Commencement: Reg. 8 in force at 28.8.2020, see reg. 1(2)
+[^c-f9dca47811c7a36f2e3b4f83f96b3552]: Commencement: Reg. 8 in force at 28.8.2020, see reg. 1(2)
 
-[^key-09ba42de0182515d7b20a76f5a891614]: Commencement: Reg. 9 in force at 28.8.2020, see reg. 1(2)
+[^c-09ba42de0182515d7b20a76f5a891614]: Commencement: Reg. 9 in force at 28.8.2020, see reg. 1(2)
 
-[^key-0c1b5ebdc814b35833c25c05aa541459]: Commencement: Reg. 10 in force at 28.8.2020, see reg. 1(2)
+[^c-0c1b5ebdc814b35833c25c05aa541459]: Commencement: Reg. 10 in force at 28.8.2020, see reg. 1(2)
 
-[^key-f5662215ae7c98fc3c732acc81c398ed]: Commencement: Reg. 11 in force at 28.8.2020, see reg. 1(2)
+[^c-f5662215ae7c98fc3c732acc81c398ed]: Commencement: Reg. 11 in force at 28.8.2020, see reg. 1(2)
 
-[^key-0d59b30f5a436270a662eaa4511e7675]: Textual amendment: Reg. 11A inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(a)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+[^c-0d59b30f5a436270a662eaa4511e7675]: Textual amendment: Reg. 11A inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(a)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
 
-[^key-aeef872aa805548474af49f26fb2ff6d]: Commencement: Reg. 12 in force at 28.8.2020, see reg. 1(2)
+[^c-aeef872aa805548474af49f26fb2ff6d]: Commencement: Reg. 12 in force at 28.8.2020, see reg. 1(2)
 
-[^key-c9dc303ce9c69aae75726cf1eaced398]: Commencement: Reg. 13 in force at 28.8.2020, see reg. 1(2)
+[^c-c9dc303ce9c69aae75726cf1eaced398]: Commencement: Reg. 13 in force at 28.8.2020, see reg. 1(2)
 
-[^key-55fe0461e0702cd7aec9192f709ec738]: Textual amendment: Words in reg. 13(1) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(i)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/i) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+[^c-55fe0461e0702cd7aec9192f709ec738]: Textual amendment: Words in reg. 13(1) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(i)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/i) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
 
 [^c24276151]: Marginal citation: [S.S.I. 2020/234](https://www.legislation.gov.uk/ssi/2020/234).
 
 [^c24276161]: Marginal citation: [S.S.I. 2020/103](https://www.legislation.gov.uk/ssi/2020/103) as amended by the [Coronavirus (Scotland) (No. 2) Act 2000 (asp 10)](https://www.legislation.gov.uk/asp/2000/10) and [S.S.I. 2020/182](https://www.legislation.gov.uk/ssi/2020/182).
 
-[^key-a16a180d59642bec5adda94b71921861]: Textual amendment: Reg. 13(6)(c)(d) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/ii) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+[^c-a16a180d59642bec5adda94b71921861]: Textual amendment: Reg. 13(6)(c)(d) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/ii) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
 
 [^c24276171]: Marginal citation: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8). Sections 130, 131, 132 were amended by para 32(b) of schedule 1 of the [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6). Section 132 was amended by para 32(c) of schedule 1 of the [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6).
 
 [^c24276181]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Sections 226B and 226I were inserted by section 55 of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007. Sections 226B and 226I have been amended but none of the amendments are relevant to these Regulations.
 
-[^key-62f4bb2674ea137abd6119395905d18e]: Textual amendment: Reg. 13(8)(ff) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/iii) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+[^c-62f4bb2674ea137abd6119395905d18e]: Textual amendment: Reg. 13(8)(ff) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/iii) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
 
-[^key-b2231eafcf00f497026bc57f89aac7bb]: Textual amendment: Reg. 13(9)-(11) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(iv)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/iv) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+[^c-b2231eafcf00f497026bc57f89aac7bb]: Textual amendment: Reg. 13(9)-(11) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(iv)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/iv) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
 
-[^key-64f9ab8375b2a1a2b727b7ee628a840e]: Textual amendment: Reg. 14 revoked (14.9.2020) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/279)](https://www.legislation.gov.uk/ssi/2020/279), [reg. 1](https://www.legislation.gov.uk/ssi/2020/279/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/279/schedule/2)
+[^c-64f9ab8375b2a1a2b727b7ee628a840e]: Textual amendment: Reg. 14 revoked (14.9.2020) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/279)](https://www.legislation.gov.uk/ssi/2020/279), [reg. 1](https://www.legislation.gov.uk/ssi/2020/279/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/279/schedule/2)
 
-[^key-522dd76b798f9becb36dddc8120ed50f]: Commencement: Reg. 15 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/262/regulation/1/2)
+[^c-522dd76b798f9becb36dddc8120ed50f]: Commencement: Reg. 15 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/262/regulation/1/2)
 
-[^key-f713fb4296559b6207095402a3536209]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2020/262/regulation/15/1) substituted (24.3.2022) by [The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/109)](https://www.legislation.gov.uk/ssi/2022/109), [regs. 1](https://www.legislation.gov.uk/ssi/2022/109/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/109/regulation/2)
+[^c-f713fb4296559b6207095402a3536209]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2020/262/regulation/15/1) substituted (24.3.2022) by [The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/109)](https://www.legislation.gov.uk/ssi/2022/109), [regs. 1](https://www.legislation.gov.uk/ssi/2022/109/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/109/regulation/2)
 
 [^M_F_920c80d5-1879-4db3-b6e2-9b1e40acbe61]: Textual amendment: Words in reg. 15(1) substituted (29.9.2021) by [The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/329)](https://www.legislation.gov.uk/ssi/2021/329), [regs. 1](https://www.legislation.gov.uk/ssi/2021/329/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/329/regulation/2)
 
-[^key-39df37ee89bc83175cce67d5af04c960]: Commencement: Sch. para. 1 in force at 28.8.2020, see reg. 1(2)
+[^c-39df37ee89bc83175cce67d5af04c960]: Commencement: Sch. para. 1 in force at 28.8.2020, see reg. 1(2)
 
-[^key-677ae49c55b29a1a42f795f000b11ed9]: Commencement: Sch. para. 2 in force at 28.8.2020, see reg. 1(2)
+[^c-677ae49c55b29a1a42f795f000b11ed9]: Commencement: Sch. para. 2 in force at 28.8.2020, see reg. 1(2)
 
-[^key-5ac6f6d6be4e20f3620f2f3ba356e02c]: Commencement: Sch. para. 3 in force at 28.8.2020, see reg. 1(2)
+[^c-5ac6f6d6be4e20f3620f2f3ba356e02c]: Commencement: Sch. para. 3 in force at 28.8.2020, see reg. 1(2)
 
-[^key-d28f54fa0b5314b8c44e8bb055b4e700]: Commencement: Sch. para. 4 in force at 28.8.2020, see reg. 1(2)
+[^c-d28f54fa0b5314b8c44e8bb055b4e700]: Commencement: Sch. para. 4 in force at 28.8.2020, see reg. 1(2)
 
-[^key-fd60dbe2f3f3158a6963bf6b14b55abe]: Commencement: Sch. para. 5 in force at 28.8.2020, see reg. 1(2)
+[^c-fd60dbe2f3f3158a6963bf6b14b55abe]: Commencement: Sch. para. 5 in force at 28.8.2020, see reg. 1(2)
 
-[^key-a3653637b61a60bfc1f7c49e6c74600a]: Commencement: Sch. para. 6 in force at 28.8.2020, see reg. 1(2)
+[^c-a3653637b61a60bfc1f7c49e6c74600a]: Commencement: Sch. para. 6 in force at 28.8.2020, see reg. 1(2)
 
-[^key-b29ddca5320dc1be02a9867091fd1f70]: Commencement: Sch. para. 7 in force at 28.8.2020, see reg. 1(2)
+[^c-b29ddca5320dc1be02a9867091fd1f70]: Commencement: Sch. para. 7 in force at 28.8.2020, see reg. 1(2)
 
-[^key-254e5037a885d3c5b4f0810fa922e4d8]: Commencement: Sch. para. 8 in force at 28.8.2020, see reg. 1(2)
+[^c-254e5037a885d3c5b4f0810fa922e4d8]: Commencement: Sch. para. 8 in force at 28.8.2020, see reg. 1(2)
 
-[^key-55f27036c2a244d5f0ec847fdea6246b]: Commencement: Sch. para. 9 in force at 28.8.2020, see reg. 1(2)
+[^c-55f27036c2a244d5f0ec847fdea6246b]: Commencement: Sch. para. 9 in force at 28.8.2020, see reg. 1(2)

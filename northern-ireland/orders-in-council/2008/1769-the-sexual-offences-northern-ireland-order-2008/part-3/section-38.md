@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Causing or inciting abuse: payment for sexual services and involvement in indecent images[^key-a6a689a33edbbd3abd7dffbc0266213f]
+## 38. Causing or inciting abuse: payment for sexual services and involvement in indecent images[^c-a6a689a33edbbd3abd7dffbc0266213f]
 
 *Extent: N.I.*
 
-(1)[^key-b5e0a4732afb8b0746c52ae4132a2c47] A person (A) commits an offence if—
+(1)[^c-b5e0a4732afb8b0746c52ae4132a2c47] A person (A) commits an offence if—
 
 - (a) A intentionally causes or incites another person (B) to offer or provide sexual services to a third person in return for payment, and
 - (b) either—
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6a689a33edbbd3abd7dffbc0266213f]: Textual amendment: [Art. 38](https://www.legislation.gov.uk/nisi/2008/1769/part/3/crossheading/abuse-of-children-under-18-through-prostitution-and-pornography) heading substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/3/3); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-a6a689a33edbbd3abd7dffbc0266213f]: Textual amendment: [Art. 38](https://www.legislation.gov.uk/nisi/2008/1769/part/3/crossheading/abuse-of-children-under-18-through-prostitution-and-pornography) heading substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/3/3); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-b5e0a4732afb8b0746c52ae4132a2c47]: Textual amendment: [Art. 38(1)](https://www.legislation.gov.uk/nisi/2008/1769/article/38/1)[(1A)](https://www.legislation.gov.uk/nisi/2008/1769/article/38/1A) substituted for [art. 38(1)](https://www.legislation.gov.uk/nisi/2008/1769/article/38/1) (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/3/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-b5e0a4732afb8b0746c52ae4132a2c47]: Textual amendment: [Art. 38(1)](https://www.legislation.gov.uk/nisi/2008/1769/article/38/1)[(1A)](https://www.legislation.gov.uk/nisi/2008/1769/article/38/1A) substituted for [art. 38(1)](https://www.legislation.gov.uk/nisi/2008/1769/article/38/1) (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/3/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)

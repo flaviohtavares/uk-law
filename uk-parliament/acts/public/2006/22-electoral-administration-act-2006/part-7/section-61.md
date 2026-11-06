@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6fdb89ca9fbcf65213c2bc37cdb9110f] After Part 4 of the 2000 Act (control of donations to registered parties and their members) insert—
+(1)[^c-6fdb89ca9fbcf65213c2bc37cdb9110f] After Part 4 of the 2000 Act (control of donations to registered parties and their members) insert—
 
 > **Part 4A — Regulation of loans and related transactions**
 >
@@ -554,7 +554,7 @@ summary: ''
 
   .
 
-(5)[^key-6fdb89ca9fbcf65213c2bc37cdb9110f] After Schedule 6 to that Act (details to be given in donation reports) insert—
+(5)[^c-6fdb89ca9fbcf65213c2bc37cdb9110f] After Schedule 6 to that Act (details to be given in donation reports) insert—
 
 > **SCHEDULE 6A — Details to be given in transaction reports**
 >
@@ -714,4 +714,4 @@ summary: ''
 
 [^c18922521]: Commencement: S. 61 partly in force; s. 61 not in force at Royal Assent see s. 77; s. 61 in force for E.W.S. for certain purposes at 11.9.2006 by [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/20) (as substituted by [S.I. 2006/2268](https://www.legislation.gov.uk/uksi/2006/2268), [art. 3](https://www.legislation.gov.uk/uksi/2006/2268/article/3)) (subject to [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2)); s. 61(1)(5) in force for E.W.S. for certain purposes at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 4](https://www.legislation.gov.uk/uksi/2006/3412/article/4); s. 61 in force for N.I. for certain purposes at 1.7.2008 by [S.I. 2008/1656](https://www.legislation.gov.uk/uksi/2008/1656), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2008/1656/article/2/1/2/a) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/1656/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1656/schedule))
 
-[^key-6fdb89ca9fbcf65213c2bc37cdb9110f]: Commencement: S. 61(1)(5) in force at 15.9.2014 for N.I. in so far as not already in force by [S.I. 2014/1809](https://www.legislation.gov.uk/uksi/2014/1809), [art. 2](https://www.legislation.gov.uk/uksi/2014/1809/article/2)
+[^c-6fdb89ca9fbcf65213c2bc37cdb9110f]: Commencement: S. 61(1)(5) in force at 15.9.2014 for N.I. in so far as not already in force by [S.I. 2014/1809](https://www.legislation.gov.uk/uksi/2014/1809), [art. 2](https://www.legislation.gov.uk/uksi/2014/1809/article/2)

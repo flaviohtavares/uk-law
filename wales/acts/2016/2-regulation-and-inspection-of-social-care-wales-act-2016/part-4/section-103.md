@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Decisions on appeal to the registration appeals panel[^key-bd09890b4280b91bf4ef6280e67876c0]
+## 103. Decisions on appeal to the registration appeals panel[^c-bd09890b4280b91bf4ef6280e67876c0]
 
 *Extent: E+W*
 
-(1)[^key-bd72213a83bcdef1e529fc0f55bad094] Subject to subsection (2),[^key-b3293c4618ba22af6d755cc18bbffbb4] on an appeal under section 101 a registration appeals panel may—
+(1)[^c-bd72213a83bcdef1e529fc0f55bad094] Subject to subsection (2),[^c-b3293c4618ba22af6d755cc18bbffbb4] on an appeal under section 101 a registration appeals panel may—
 
 - (a) confirm the registrar's decision,
 - (b) substitute for the decision appealed against another decision of a kind that the registrar could have made, or
 - (c) remit the case to the registrar to dispose of in accordance with the directions of the panel.
 
-(2)[^key-8ad04b6df12066122e93f556b14f3992] Where an appeal is made under section 101(1A), a registration appeals panel must remit the case to the registrar to dispose of in accordance with the directions of the panel.
+(2)[^c-8ad04b6df12066122e93f556b14f3992] Where an appeal is made under section 101(1A), a registration appeals panel must remit the case to the registrar to dispose of in accordance with the directions of the panel.
 
 ## Annotations
 
-[^key-bd09890b4280b91bf4ef6280e67876c0]: Commencement: S. 103 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-bd09890b4280b91bf4ef6280e67876c0]: Commencement: S. 103 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-bd72213a83bcdef1e529fc0f55bad094]: Textual amendment: S. 103 renumbered as s. 103(1) (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [15(a)](https://www.legislation.gov.uk/wsi/2026/24/regulation/15/a)
+[^c-bd72213a83bcdef1e529fc0f55bad094]: Textual amendment: S. 103 renumbered as s. 103(1) (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [15(a)](https://www.legislation.gov.uk/wsi/2026/24/regulation/15/a)
 
-[^key-b3293c4618ba22af6d755cc18bbffbb4]: Textual amendment: Words in s. 103(1) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [15(b)](https://www.legislation.gov.uk/wsi/2026/24/regulation/15/b)
+[^c-b3293c4618ba22af6d755cc18bbffbb4]: Textual amendment: Words in s. 103(1) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [15(b)](https://www.legislation.gov.uk/wsi/2026/24/regulation/15/b)
 
-[^key-8ad04b6df12066122e93f556b14f3992]: Textual amendment: S. 103(2) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [15(c)](https://www.legislation.gov.uk/wsi/2026/24/regulation/15/c)
+[^c-8ad04b6df12066122e93f556b14f3992]: Textual amendment: S. 103(2) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [15(c)](https://www.legislation.gov.uk/wsi/2026/24/regulation/15/c)

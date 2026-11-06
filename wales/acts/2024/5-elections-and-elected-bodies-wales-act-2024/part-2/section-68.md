@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Democracy and Boundary Commission Cymru: power to charge[^key-bfea223f71a5f07935b165a864c745aa][^key-2580e7faca90f0c5860ff651efd92673]
+## 68. Democracy and Boundary Commission Cymru: power to charge[^c-bfea223f71a5f07935b165a864c745aa][^c-2580e7faca90f0c5860ff651efd92673]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bfea223f71a5f07935b165a864c745aa]: Commencement: S. 68 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-bfea223f71a5f07935b165a864c745aa]: Commencement: S. 68 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-2580e7faca90f0c5860ff651efd92673]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2024/5/section/68) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(p)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/p)
+[^c-2580e7faca90f0c5860ff651efd92673]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2024/5/section/68) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(p)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/p)

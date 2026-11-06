@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Levy on applications for building control approval etc[^key-5801122f50d6b29413388cb84d55cb4e][^key-ca8d0d3a6f52316b82309d2bc8990572]
+## 58. Levy on applications for building control approval etc[^c-5801122f50d6b29413388cb84d55cb4e][^c-ca8d0d3a6f52316b82309d2bc8990572]
 
 *Extent: E+W*
 
@@ -81,6 +81,6 @@ In the Building Act 1984 after section 105B (inserted by section 57) insert—
 
 ## Annotations
 
-[^key-5801122f50d6b29413388cb84d55cb4e]: Commencement: S. 58 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)
+[^c-5801122f50d6b29413388cb84d55cb4e]: Commencement: S. 58 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)
 
-[^key-ca8d0d3a6f52316b82309d2bc8990572]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/30/section/58) in force at 6.4.2024 except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/k) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
+[^c-ca8d0d3a6f52316b82309d2bc8990572]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/30/section/58) in force at 6.4.2024 except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/k) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))

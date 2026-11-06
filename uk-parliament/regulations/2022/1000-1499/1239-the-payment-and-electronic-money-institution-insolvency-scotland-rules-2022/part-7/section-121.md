@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Liabilities and rights of obligants[^key-6dcdf991cb938e3d6c26c9ba3b1ba778]
+## 121. Liabilities and rights of obligants[^c-6dcdf991cb938e3d6c26c9ba3b1ba778]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dcdf991cb938e3d6c26c9ba3b1ba778]: Commencement: Rule 121 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-6dcdf991cb938e3d6c26c9ba3b1ba778]: Commencement: Rule 121 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

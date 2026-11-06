@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Sequestration[^key-feacb04c61a7beb961907957df456c5c]
+## 1. Sequestration[^c-feacb04c61a7beb961907957df456c5c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The estate of a debtor may be sequestrated in accordance with the provisions of 
 
 ## Annotations
 
-[^key-feacb04c61a7beb961907957df456c5c]: Commencement: S. 1 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-feacb04c61a7beb961907957df456c5c]: Commencement: S. 1 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

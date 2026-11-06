@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Maintenance of authorised development[^key-ce9726d94eb9d26dba618eb3a14fe93a]
+## 8. Maintenance of authorised development[^c-ce9726d94eb9d26dba618eb3a14fe93a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce9726d94eb9d26dba618eb3a14fe93a]: Commencement: Art. 8 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-ce9726d94eb9d26dba618eb3a14fe93a]: Commencement: Art. 8 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

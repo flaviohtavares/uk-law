@@ -48,15 +48,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 31(3) of that Act the Secretary of State has consulted with the Advisory Council on the Misuse of Drugs.
 
-## 1. Citation, commencement and interpretation[^key-311c8b40d09f8ffd7b36cf4373c52954][^key-832b0006c5a9596f77eddd31af15166f]
+## 1. Citation, commencement and interpretation[^c-311c8b40d09f8ffd7b36cf4373c52954][^c-832b0006c5a9596f77eddd31af15166f]
 
 (1) These Regulations may be cited as the Misuse of Drugs (Licence Fees) Regulations 2010 and shall come into force on 15<sup>th</sup> November 2010.
 
 (2) In these Regulations “the 2001 Regulations” means the Misuse of Drugs Regulations 2001[^f00003].
 
-(3)[^key-ca4ab4aadc37d10fbead3c275b5b4767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ca4ab4aadc37d10fbead3c275b5b4767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed fee[^key-146e62822a68169f8c9fe26d85d9f9cd]
+## 2. Prescribed fee[^c-146e62822a68169f8c9fe26d85d9f9cd]
 
 (1) Where a licence is, under regulation 5 of the 2001 Regulations (licence to produce etc. controlled drugs), issued to a person for the first time, the fee payable shall be—
 
@@ -79,9 +79,9 @@ In accordance with section 31(3) of that Act the Secretary of State has consulte
 
 (5) Where a person has lost a licence issued under any of the provisions in paragraphs (1), (2), (3) and (4) or where such licence has been defaced or damaged, and that licence is re‑issued to him, the fee payable shall be £45.
 
-(6)[^key-5c464ec83f6f2b5aeb2255ae6f5af9a3] No fee is payable in respect of a licence where the Secretary of State determines that the fee should be waived.
+(6)[^c-5c464ec83f6f2b5aeb2255ae6f5af9a3] No fee is payable in respect of a licence where the Secretary of State determines that the fee should be waived.
 
-## 3. Revocation[^key-32b0863865d61523ce3739a69ead694c]
+## 3. Revocation[^c-32b0863865d61523ce3739a69ead694c]
 
 The Misuse of Drugs (Licence Fees) Regulations 1986[^f00004] and the Misuse of Drugs (Licence Fees) (Amendment) Regulations 2003[^f00005] are revoked.
 
@@ -107,19 +107,19 @@ Regulation 2(1) and (2) prescribes the fee where such a licence is issued for th
 
 [^f00002]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38); there are amendments to sections 31 and 37 not relevant to these Regulations.
 
-[^key-311c8b40d09f8ffd7b36cf4373c52954]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1) in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/1)
+[^c-311c8b40d09f8ffd7b36cf4373c52954]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1) in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/1)
 
-[^key-832b0006c5a9596f77eddd31af15166f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/3) heading substituted (3.10.2012) by [The Misuse of Drugs (Licence Fees) (Amendment) Regulations 2011 (S.I. 2011/2199)](https://www.legislation.gov.uk/uksi/2011/2199), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2199/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/2199/regulation/2)
+[^c-832b0006c5a9596f77eddd31af15166f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/3) heading substituted (3.10.2012) by [The Misuse of Drugs (Licence Fees) (Amendment) Regulations 2011 (S.I. 2011/2199)](https://www.legislation.gov.uk/uksi/2011/2199), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2199/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/2199/regulation/2)
 
 [^f00003]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998).
 
-[^key-ca4ab4aadc37d10fbead3c275b5b4767]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/3) revoked (3.10.2012) by [The Misuse of Drugs (Licence Fees) (Amendment) Regulations 2011 (S.I. 2011/2199)](https://www.legislation.gov.uk/uksi/2011/2199), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2199/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/2199/regulation/2)
+[^c-ca4ab4aadc37d10fbead3c275b5b4767]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/3) revoked (3.10.2012) by [The Misuse of Drugs (Licence Fees) (Amendment) Regulations 2011 (S.I. 2011/2199)](https://www.legislation.gov.uk/uksi/2011/2199), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2199/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/2199/regulation/2)
 
-[^key-146e62822a68169f8c9fe26d85d9f9cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/2497/regulation/2) in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/1)
+[^c-146e62822a68169f8c9fe26d85d9f9cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/2497/regulation/2) in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/1)
 
-[^key-5c464ec83f6f2b5aeb2255ae6f5af9a3]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/2/6) inserted (1.11.2018) by [The Misuse of Drugs (Amendments) (Cannabis and Licence Fees) (England, Wales and Scotland) Regulations 2018 (S.I. 2018/1055)](https://www.legislation.gov.uk/uksi/2018/1055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/8/2)
+[^c-5c464ec83f6f2b5aeb2255ae6f5af9a3]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/2/6) inserted (1.11.2018) by [The Misuse of Drugs (Amendments) (Cannabis and Licence Fees) (England, Wales and Scotland) Regulations 2018 (S.I. 2018/1055)](https://www.legislation.gov.uk/uksi/2018/1055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/8/2)
 
-[^key-32b0863865d61523ce3739a69ead694c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/2497/regulation/3) in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/1)
+[^c-32b0863865d61523ce3739a69ead694c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/2497/regulation/3) in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2497/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1986/416](https://www.legislation.gov.uk/uksi/1986/416).
 

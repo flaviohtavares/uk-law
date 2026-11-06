@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. The Commission's objectives[^key-43bd74998badd75744cfc13ba113ea48]
+## 3. The Commission's objectives[^c-43bd74998badd75744cfc13ba113ea48]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43bd74998badd75744cfc13ba113ea48]: Commencement: S. 3 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)
+[^c-43bd74998badd75744cfc13ba113ea48]: Commencement: S. 3 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)

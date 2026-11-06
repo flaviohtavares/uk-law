@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Statutory undertakers and electronic communications code network operators[^key-3a6b50def1f940caf2d48c254e65df81]
+## 37. Statutory undertakers and electronic communications code network operators[^c-3a6b50def1f940caf2d48c254e65df81]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a6b50def1f940caf2d48c254e65df81]: Commencement: Art. 37 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-3a6b50def1f940caf2d48c254e65df81]: Commencement: Art. 37 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

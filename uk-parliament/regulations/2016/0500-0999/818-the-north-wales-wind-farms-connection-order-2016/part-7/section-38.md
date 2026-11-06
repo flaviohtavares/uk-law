@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Service of notices[^key-bed31f01787b16441105b19e41eec721]
+## 38. Service of notices[^c-bed31f01787b16441105b19e41eec721]
 
 *Extent: E+W+S*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bed31f01787b16441105b19e41eec721]: Commencement: Art. 38 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-bed31f01787b16441105b19e41eec721]: Commencement: Art. 38 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00023]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). Section 7 was amended by paragraph 19 of Schedule 10 to the Road Traffic Regulation Act [1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27). There are other amendments not relevant to this Order.

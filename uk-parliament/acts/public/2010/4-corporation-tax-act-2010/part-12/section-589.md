@@ -48,8 +48,8 @@ is to be read in relation to a member of a joint venture group as a reference to
 - (a) references in this Part to a UK REIT (or group UK REIT) include references to the deemed UK REIT, and
 - (b) references in this Part to the principal company of a group are to be read as references to the venturing company.
 
-(7)[^key-3522efefd31c1e81c19f6c2396814f07] Subsections (3) to (6) apply (in particular) for the purpose of interpreting section 549A(6)(a)(i) and (8)(a)(i).
+(7)[^c-3522efefd31c1e81c19f6c2396814f07] Subsections (3) to (6) apply (in particular) for the purpose of interpreting section 549A(6)(a)(i) and (8)(a)(i).
 
 ## Annotations
 
-[^key-3522efefd31c1e81c19f6c2396814f07]: Textual amendment: S. 589(7) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/10)
+[^c-3522efefd31c1e81c19f6c2396814f07]: Textual amendment: S. 589(7) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/10)

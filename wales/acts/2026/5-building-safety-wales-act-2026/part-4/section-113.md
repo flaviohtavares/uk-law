@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Meaning of “relevant defect”[^key-0bc72512e50b8dc87750cd0da1df62c3]
+## 113. Meaning of “relevant defect”[^c-0bc72512e50b8dc87750cd0da1df62c3]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc72512e50b8dc87750cd0da1df62c3]: Commencement: S. 113 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-0bc72512e50b8dc87750cd0da1df62c3]: Commencement: S. 113 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

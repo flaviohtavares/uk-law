@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Restrictions relating to advertisements[^key-abc3c8b7752acf4f84894607d6b70312][^key-18308ba5902a093e6ae393dcce655c33]
+## 40. Restrictions relating to advertisements[^c-abc3c8b7752acf4f84894607d6b70312][^c-18308ba5902a093e6ae393dcce655c33]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abc3c8b7752acf4f84894607d6b70312]: Commencement: S. 40 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-abc3c8b7752acf4f84894607d6b70312]: Commencement: S. 40 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-18308ba5902a093e6ae393dcce655c33]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2021/7/section/40) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-18308ba5902a093e6ae393dcce655c33]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2021/7/section/40) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

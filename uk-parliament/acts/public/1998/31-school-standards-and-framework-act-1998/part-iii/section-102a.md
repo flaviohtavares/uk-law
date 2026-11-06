@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102A. Permitted selection in maintained schools in Wales: aptitude for particular areas of learning and experience etc.[^key-b5c9d0ad73c353bd7599a1e1a80ed64d]
+## 102A. Permitted selection in maintained schools in Wales: aptitude for particular areas of learning and experience etc.[^c-b5c9d0ad73c353bd7599a1e1a80ed64d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5c9d0ad73c353bd7599a1e1a80ed64d]: Textual amendment: [S. 102A](https://www.legislation.gov.uk/ukpga/1998/31/section/102A) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 4(8)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4/8)
+[^c-b5c9d0ad73c353bd7599a1e1a80ed64d]: Textual amendment: [S. 102A](https://www.legislation.gov.uk/ukpga/1998/31/section/102A) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 4(8)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4/8)

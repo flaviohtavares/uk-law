@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Assessment of accommodation needs[^key-7fd28b05812d9c8b76624f23e0c4454e]
+## 101. Assessment of accommodation needs[^c-7fd28b05812d9c8b76624f23e0c4454e]
 
 *Extent: E+W*
 
@@ -27,12 +27,12 @@ summary: ''
 (3) In subsection (1), “**review period**” means—
 
 - (a) the period of 1 year beginning with the coming into force of this section, and
-- (b)[^key-b976fc4851554e90918c6b6b4dbb9492] the period of 6 years beginning with the day after the period in paragraph (a) ended, and each subsequent period of 5 years beginning with the day after the previous review period ended.
+- (b)[^c-b976fc4851554e90918c6b6b4dbb9492] the period of 6 years beginning with the day after the period in paragraph (a) ended, and each subsequent period of 5 years beginning with the day after the previous review period ended.
 
 (4) The Welsh Ministers may amend subsection (3)(b) by order.
 
 ## Annotations
 
-[^key-7fd28b05812d9c8b76624f23e0c4454e]: Commencement: S. 101 in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/380/article/2/a)
+[^c-7fd28b05812d9c8b76624f23e0c4454e]: Commencement: S. 101 in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/380/article/2/a)
 
-[^key-b976fc4851554e90918c6b6b4dbb9492]: Textual amendment: [S. 101(3)(b)](https://www.legislation.gov.uk/anaw/2014/7/section/101/3/b) substituted (18.3.2021) by [The Assessment of Accommodation Needs of Gypsies and Travellers (Extension of Review Period) (Wales) (Coronavirus) Order 2021 (S.I. 2021/340)](https://www.legislation.gov.uk/wsi/2021/340), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/340/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/340/article/2/2)
+[^c-b976fc4851554e90918c6b6b4dbb9492]: Textual amendment: [S. 101(3)(b)](https://www.legislation.gov.uk/anaw/2014/7/section/101/3/b) substituted (18.3.2021) by [The Assessment of Accommodation Needs of Gypsies and Travellers (Extension of Review Period) (Wales) (Coronavirus) Order 2021 (S.I. 2021/340)](https://www.legislation.gov.uk/wsi/2021/340), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/340/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/340/article/2/2)

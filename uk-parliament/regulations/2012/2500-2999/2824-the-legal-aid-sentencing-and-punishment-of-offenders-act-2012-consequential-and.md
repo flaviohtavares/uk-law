@@ -50,11 +50,11 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the power conferred by section 149(1) and (2) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
 
-## 1. Citation and commencement[^key-f2ceabaec04b1f157219e782c706a572]
+## 1. Citation and commencement[^c-f2ceabaec04b1f157219e782c706a572]
 
 These Regulations may be cited as the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential and Saving Provisions) Regulations 2012 and come into force on 3rd December 2012.
 
-## 2. Amendments of the Children (Secure Accommodation) Regulations 1991 and saving provision[^key-565de6cfd716ab9547825bb818e6bd29]
+## 2. Amendments of the Children (Secure Accommodation) Regulations 1991 and saving provision[^c-565de6cfd716ab9547825bb818e6bd29]
 
 (1) The Children (Secure Accommodation) Regulations 1991[^f00002] are amended as follows.
 
@@ -72,7 +72,7 @@ These Regulations may be cited as the Legal Aid, Sentencing and Punishment of Of
   - (ii) to local authority accommodation by virtue of section 23(1) or (1A) of the Children and Young Persons Act 1969[^f00005]; or
   - (iii) to prison by virtue of section 23(1) of the Children and Young Persons Act 1969 as modified by section 98 of the Crime and Disorder Act 1998[^f00006].
 
-## 3. Amendments of the Criminal Justice Act 2003 (Sentencing) (Transitory Provisions) Order 2005[^key-7dd1abf5f7a80822cd79b3dd1e19dd6a]
+## 3. Amendments of the Criminal Justice Act 2003 (Sentencing) (Transitory Provisions) Order 2005[^c-7dd1abf5f7a80822cd79b3dd1e19dd6a]
 
 (1) In article 3 of the Criminal Justice Act 2003 (Sentencing) (Transitory Provisions) Order 2005[^f00007], omit—
 
@@ -81,17 +81,17 @@ These Regulations may be cited as the Legal Aid, Sentencing and Punishment of Of
 
 (2) The coming into force of paragraph (1) is of no effect in relation to a person convicted before 3rd December 2012.
 
-## 4. Amendments of the Criminal Justice and Immigration Act 2008 (Transitory Provisions) Order 2008[^key-6b615cb9f5d56b25399d31cc642c6a1b]
+## 4. Amendments of the Criminal Justice and Immigration Act 2008 (Transitory Provisions) Order 2008[^c-6b615cb9f5d56b25399d31cc642c6a1b]
 
 (1) Omit article 2(2) and (3) of the Criminal Justice and Immigration Act 2008 (Transitory Provisions) Order 2008[^f00008].
 
 (2) The coming into force of paragraph (1) is of no effect in relation to a person convicted before 3rd December 2012.
 
-## 5. Amendments of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009[^key-67c827143c2a3286e6492fbe4de65e12]
+## 5. Amendments of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009[^c-67c827143c2a3286e6492fbe4de65e12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments of the Criminal Justice Act 2003 (Surcharge) Order 2012[^key-25e8d957ba06f7ab0f1665d5be138771]
+## 6. Amendments of the Criminal Justice Act 2003 (Surcharge) Order 2012[^c-25e8d957ba06f7ab0f1665d5be138771]
 
 (1) In table 2 in the Schedule to the Criminal Justice Act 2003 (Surcharge) Order 2012[^f00010]—
 
@@ -128,9 +128,9 @@ Regulation 6(a) makes an amendment which is consequential on section 68 of the A
 
 [^f00001]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-f2ceabaec04b1f157219e782c706a572]: Commencement: Reg. 1 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
+[^c-f2ceabaec04b1f157219e782c706a572]: Commencement: Reg. 1 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
 
-[^key-565de6cfd716ab9547825bb818e6bd29]: Commencement: Reg. 2 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
+[^c-565de6cfd716ab9547825bb818e6bd29]: Commencement: Reg. 2 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1991/1505](https://www.legislation.gov.uk/uksi/1991/1505).
 
@@ -142,16 +142,16 @@ Regulation 6(a) makes an amendment which is consequential on section 68 of the A
 
 [^f00006]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-7dd1abf5f7a80822cd79b3dd1e19dd6a]: Commencement: Reg. 3 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
+[^c-7dd1abf5f7a80822cd79b3dd1e19dd6a]: Commencement: Reg. 3 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643).
 
-[^key-6b615cb9f5d56b25399d31cc642c6a1b]: Commencement: Reg. 4 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
+[^c-6b615cb9f5d56b25399d31cc642c6a1b]: Commencement: Reg. 4 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2008/1587](https://www.legislation.gov.uk/uksi/2008/1587).
 
-[^key-67c827143c2a3286e6492fbe4de65e12]: Textual amendment: Reg. 5 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-67c827143c2a3286e6492fbe4de65e12]: Textual amendment: Reg. 5 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-25e8d957ba06f7ab0f1665d5be138771]: Commencement: Reg. 6 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
+[^c-25e8d957ba06f7ab0f1665d5be138771]: Commencement: Reg. 6 in force at 3.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2824/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2012/1696](https://www.legislation.gov.uk/uksi/2012/1696).

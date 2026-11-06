@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Service of notices etc.[^key-8c5c229ae4786eab913108a4a1af36a2]
+## 114. Service of notices etc.[^c-8c5c229ae4786eab913108a4a1af36a2]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c5c229ae4786eab913108a4a1af36a2]: Commencement: S. 114 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8c5c229ae4786eab913108a4a1af36a2]: Commencement: S. 114 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

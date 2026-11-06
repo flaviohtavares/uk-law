@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Motor insurers[^key-959fa4faddfce3b676483851182dcafc]
+## 9. Motor insurers[^c-959fa4faddfce3b676483851182dcafc]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-959fa4faddfce3b676483851182dcafc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2015/20/section/9) in force at 30.6.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(a)](https://www.legislation.gov.uk/uksi/2015/994/article/9/a) (with [Sch. Pt. 3A](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3A))
+[^c-959fa4faddfce3b676483851182dcafc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2015/20/section/9) in force at 30.6.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(a)](https://www.legislation.gov.uk/uksi/2015/994/article/9/a) (with [Sch. Pt. 3A](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3A))

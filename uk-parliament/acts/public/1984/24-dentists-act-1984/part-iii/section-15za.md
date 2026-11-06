@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15ZA. Section 15: further provision relating to specified state professionals[^key-a833d5a876a0ececf1b779be17fa045b]
+## 15ZA. Section 15: further provision relating to specified state professionals[^c-a833d5a876a0ececf1b779be17fa045b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a833d5a876a0ececf1b779be17fa045b]: Textual amendment: [S. 15ZA](https://www.legislation.gov.uk/ukpga/1984/24/section/15ZA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/20)
+[^c-a833d5a876a0ececf1b779be17fa045b]: Textual amendment: [S. 15ZA](https://www.legislation.gov.uk/ukpga/1984/24/section/15ZA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/20)

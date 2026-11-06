@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Power to repeal Part[^key-d05474c08da35783fccf1949504a6083]
+## 40. Power to repeal Part[^c-d05474c08da35783fccf1949504a6083]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d05474c08da35783fccf1949504a6083]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/20/section/40) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/d)
+[^c-d05474c08da35783fccf1949504a6083]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/20/section/40) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/d)

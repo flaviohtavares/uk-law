@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Procedure in cases of retrospective earnings: code treated as issued by HMRC[^key-6d070402467582fe822f3e74042ac47f]
+## 17. Procedure in cases of retrospective earnings: code treated as issued by HMRC[^c-6d070402467582fe822f3e74042ac47f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 50A(3) (procedure in cases of retrospective earnings: code treated
 
 ## Annotations
 
-[^key-6d070402467582fe822f3e74042ac47f]: Commencement: Reg. 17 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-6d070402467582fe822f3e74042ac47f]: Commencement: Reg. 17 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

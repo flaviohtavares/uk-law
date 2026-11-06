@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Notice to members of proposals to creditors[^key-44b3607471de857b0ed8f250bf6543c9]
+## 21. Notice to members of proposals to creditors[^c-44b3607471de857b0ed8f250bf6543c9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of section 23(2B)(b) of the 1986 Act, the notice shall be publi
 
 ## Annotations
 
-[^key-44b3607471de857b0ed8f250bf6543c9]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2007/3141/rule/21) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-44b3607471de857b0ed8f250bf6543c9]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2007/3141/rule/21) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

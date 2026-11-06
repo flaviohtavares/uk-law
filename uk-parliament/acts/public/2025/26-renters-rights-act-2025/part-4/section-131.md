@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Offences[^key-230f0c591bc908d824b2795a92141c8e]
+## 131. Offences[^c-230f0c591bc908d824b2795a92141c8e]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230f0c591bc908d824b2795a92141c8e]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2025/26/section/131) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-230f0c591bc908d824b2795a92141c8e]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2025/26/section/131) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

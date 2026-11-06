@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Applicable law
 
-### 1. Law applicable to arbitration agreement[^key-cf5968c8a4a8a256e6b6113ad7c07954][^key-8d50f6ba88dc73db46b3b290742268b9]
+### 1. Law applicable to arbitration agreement[^c-cf5968c8a4a8a256e6b6113ad7c07954][^c-8d50f6ba88dc73db46b3b290742268b9]
 
 (1) The [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) is amended as follows.
 
@@ -71,7 +71,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## The arbitral tribunal
 
-### 2. Impartiality: duty of disclosure[^key-9f513859f1b0ae20c683fb2d86985633][^key-02e80886f707c60222c772564c5394c7]
+### 2. Impartiality: duty of disclosure[^c-9f513859f1b0ae20c683fb2d86985633][^c-02e80886f707c60222c772564c5394c7]
 
 (1) The [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) is amended as follows.
 
@@ -94,7 +94,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-### 3. Immunity of arbitrator: application for removal[^key-9d991afc4ca2aa4731261f1d3aafba7a][^key-5c0f3a87ae0f692233ef6b295c15e31b]
+### 3. Immunity of arbitrator: application for removal[^c-9d991afc4ca2aa4731261f1d3aafba7a][^c-5c0f3a87ae0f692233ef6b295c15e31b]
 
 (1) The [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) is amended as follows.
 
@@ -104,7 +104,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) In section 29(1) (general immunity of arbitrator), at the end insert “(and see section 24(5A) (immunity in respect of costs of proceedings for removal))”.
 
-### 4. Immunity of arbitrator: resignation[^key-b1d952c456a23d1f6a23b1043f05e9eb][^key-e0a396039c92ed3a2be2aa5379bf7f3e]
+### 4. Immunity of arbitrator: resignation[^c-b1d952c456a23d1f6a23b1043f05e9eb][^c-e0a396039c92ed3a2be2aa5379bf7f3e]
 
 (1) The [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) is amended as follows.
 
@@ -140,13 +140,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Jurisdiction of tribunal
 
-### 5. Court determination of jurisdiction of tribunal[^key-c26bad78c528c1c5914ef8a0c5c3b396][^key-20d7a815aa07942d346423974261f4bf]
+### 5. Court determination of jurisdiction of tribunal[^c-c26bad78c528c1c5914ef8a0c5c3b396][^c-20d7a815aa07942d346423974261f4bf]
 
 In section 32 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) (determination of preliminary point of jurisdiction), after subsection (1) insert—
 
 > (1A) An application under this section must not be considered to the extent that it is in respect of a question on which the tribunal has already ruled.
 
-### 6. Power to award costs despite no substantive jurisdiction[^key-022aaad6a6739ebd6e62e4cf1f42d642][^key-9ec1a1dc6436b664b65e7f8281598ae1]
+### 6. Power to award costs despite no substantive jurisdiction[^c-022aaad6a6739ebd6e62e4cf1f42d642][^c-9ec1a1dc6436b664b65e7f8281598ae1]
 
 (1) Section 61 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) (award of costs) is amended as follows.
 
@@ -164,7 +164,7 @@ In section 32 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga
 
 ## Arbitral proceedings and powers of the court
 
-### 7. Power to make award on summary basis[^key-0d6ef1b7eea4dd2a1644114f1324c59c][^key-27f40bf888b6b8845af4536d6e5f6633]
+### 7. Power to make award on summary basis[^c-0d6ef1b7eea4dd2a1644114f1324c59c][^c-27f40bf888b6b8845af4536d6e5f6633]
 
 After section 39 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) insert—
 
@@ -179,7 +179,7 @@ After section 39 of the [Arbitration Act 1996](https://www.legislation.gov.uk/uk
 >
 > (3) Before exercising its power under section 34(1) as mentioned in subsection (2), an arbitral tribunal must afford the parties a reasonable opportunity to make representations to the tribunal.
 
-### 8. Emergency arbitrators[^key-70ae695dc34793803afbddfd48a00d0f][^key-667123feb0b2649d17ca1a21e52f2a3b]
+### 8. Emergency arbitrators[^c-70ae695dc34793803afbddfd48a00d0f][^c-667123feb0b2649d17ca1a21e52f2a3b]
 
 (1) The [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) is amended as follows.
 
@@ -239,7 +239,7 @@ After section 39 of the [Arbitration Act 1996](https://www.legislation.gov.uk/uk
 
 .
 
-### 9. Court powers exercisable in support of arbitral proceedings in respect of third parties[^key-72a1ba30929cb22bab988c47e8208984][^key-6b628dbe23119bf2ee3f771e6e331449]
+### 9. Court powers exercisable in support of arbitral proceedings in respect of third parties[^c-72a1ba30929cb22bab988c47e8208984][^c-6b628dbe23119bf2ee3f771e6e331449]
 
 (1) Section 44 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) (court powers exercisable in support of arbitral proceedings) is amended as follows.
 
@@ -253,7 +253,7 @@ After section 39 of the [Arbitration Act 1996](https://www.legislation.gov.uk/uk
 
 ## Powers of the court in relation to award
 
-### 10. Challenging the award: remedies available to the court[^key-5226e3d557d94cbcd397d2564b37076c][^key-17cf3bbde271ac5a7e367e38497e81db]
+### 10. Challenging the award: remedies available to the court[^c-5226e3d557d94cbcd397d2564b37076c][^c-17cf3bbde271ac5a7e367e38497e81db]
 
 (1) Section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) (challenging the award: substantive jurisdiction) is amended as follows.
 
@@ -273,7 +273,7 @@ After section 39 of the [Arbitration Act 1996](https://www.legislation.gov.uk/uk
 >
 > (3A) The court must not exercise its power to set aside or to declare an award to be of no effect, in whole or in part, unless it is satisfied that it would be inappropriate to remit the matters in question to the tribunal for reconsideration.
 
-### 11. Procedure on challenge under section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23)[^key-ac4a9d930ab15f2130e2553b4929a032][^key-0c001aa3df3e8bf2b23c1f33766cd1e9]
+### 11. Procedure on challenge under section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23)[^c-ac4a9d930ab15f2130e2553b4929a032][^c-0c001aa3df3e8bf2b23c1f33766cd1e9]
 
 In section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) (challenging the award: substantive jurisdiction), after subsection (3A) (as inserted by section 10(3)) insert—
 
@@ -290,7 +290,7 @@ In section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga
 >
 > (3D) Subsection (3B) does not limit the generality of the power to make rules of court.
 
-### 12. Challenging the award: time limit[^key-8264c8de81c94adad6fdd4a9a3333afd][^key-bbb5996fcc2ff95d06f2361711e8f7dd]
+### 12. Challenging the award: time limit[^c-8264c8de81c94adad6fdd4a9a3333afd][^c-bbb5996fcc2ff95d06f2361711e8f7dd]
 
 (1) Section 70 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) (challenge or appeal: supplementary provisions) is amended as follows.
 
@@ -319,7 +319,7 @@ In section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga
 
 ## Appeals from High Court decisions
 
-### 13. Appeals to Court of Appeal from High Court decisions[^key-6516322290e5eed9e6623e9c8e496687][^key-a048187a82dd67ef44b175ec1e06df7d]
+### 13. Appeals to Court of Appeal from High Court decisions[^c-6516322290e5eed9e6623e9c8e496687][^c-a048187a82dd67ef44b175ec1e06df7d]
 
 (1) In section 18(1) of the [Senior Courts Act 1981](https://www.legislation.gov.uk/ukpga/1981/54) (restrictions on appeals to Court of Appeal), for paragraph (g) substitute—
 
@@ -337,7 +337,7 @@ In section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga
 
 ## Miscellaneous minor amendments
 
-### 14. Requirements to be met for court to consider applications[^key-bdcc4ee23e9a0866da6803cb0dab9128][^key-e4dbdc5ae7ece60e526b0a725798fbdc]
+### 14. Requirements to be met for court to consider applications[^c-bdcc4ee23e9a0866da6803cb0dab9128][^c-e4dbdc5ae7ece60e526b0a725798fbdc]
 
 (1) The [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) is amended as follows.
 
@@ -353,7 +353,7 @@ In section 67 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga
 - (b) in subsection (3), omit the words from “and, unless” to the end;
 - (c) in subsection (5), for “the conditions specified in subsection (2) are” substitute “either condition specified in subsection (2) is”.
 
-### 15. Repeal of provisions relating to domestic arbitration agreements[^key-d19c333e674f0be77cc62e60d60e9345][^key-4d714c0f07fc547ca368e88e97406741]
+### 15. Repeal of provisions relating to domestic arbitration agreements[^c-d19c333e674f0be77cc62e60d60e9345][^c-4d714c0f07fc547ca368e88e97406741]
 
 Omit the following provisions of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23)—
 
@@ -362,13 +362,13 @@ Omit the following provisions of the [Arbitration Act 1996](https://www.legislat
 
 ## Final provisions
 
-### 16. Extent[^key-cc7a15be92160dae05a18a9381ee01c9]
+### 16. Extent[^c-cc7a15be92160dae05a18a9381ee01c9]
 
 (1) Any amendment or repeal made by this Act has the same extent as the provision amended or repealed.
 
 (2) This section and sections 17 and 18 extend to England and Wales and to Northern Ireland.
 
-### 17. Commencement and transitional provision[^key-566ec1edb09a7aae8a0263fba9e93f09]
+### 17. Commencement and transitional provision[^c-566ec1edb09a7aae8a0263fba9e93f09]
 
 (1) This section and sections 16 and 18 come into force on the day on which this Act is passed.
 
@@ -390,74 +390,74 @@ Omit the following provisions of the [Arbitration Act 1996](https://www.legislat
 
 (7) In this section “**arbitration agreement**” means an arbitration agreement within the meaning of section 6 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) to which Part 1 of [that Act](https://www.legislation.gov.uk/ukpga/1996/23) applies (see section 5 of [that Act](https://www.legislation.gov.uk/ukpga/1996/23)).
 
-### 18. Short title[^key-60b523cddb8c22432ee72e548c2cfae5]
+### 18. Short title[^c-60b523cddb8c22432ee72e548c2cfae5]
 
 This Act may be cited as the Arbitration Act 2025.
 
 ## Annotations
 
-[^key-cf5968c8a4a8a256e6b6113ad7c07954]: Commencement: S. 1 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-cf5968c8a4a8a256e6b6113ad7c07954]: Commencement: S. 1 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-8d50f6ba88dc73db46b3b290742268b9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/4/section/1) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-8d50f6ba88dc73db46b3b290742268b9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/4/section/1) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-9f513859f1b0ae20c683fb2d86985633]: Commencement: S. 2 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-9f513859f1b0ae20c683fb2d86985633]: Commencement: S. 2 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-02e80886f707c60222c772564c5394c7]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/4/section/2) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-02e80886f707c60222c772564c5394c7]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/4/section/2) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-9d991afc4ca2aa4731261f1d3aafba7a]: Commencement: S. 3 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-9d991afc4ca2aa4731261f1d3aafba7a]: Commencement: S. 3 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-5c0f3a87ae0f692233ef6b295c15e31b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/4/section/3) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-5c0f3a87ae0f692233ef6b295c15e31b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/4/section/3) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-b1d952c456a23d1f6a23b1043f05e9eb]: Commencement: S. 4 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-b1d952c456a23d1f6a23b1043f05e9eb]: Commencement: S. 4 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-e0a396039c92ed3a2be2aa5379bf7f3e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/4/section/4) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-e0a396039c92ed3a2be2aa5379bf7f3e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/4/section/4) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-c26bad78c528c1c5914ef8a0c5c3b396]: Commencement: S. 5 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-c26bad78c528c1c5914ef8a0c5c3b396]: Commencement: S. 5 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-20d7a815aa07942d346423974261f4bf]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/4/section/5) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-20d7a815aa07942d346423974261f4bf]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/4/section/5) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-022aaad6a6739ebd6e62e4cf1f42d642]: Commencement: S. 6 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-022aaad6a6739ebd6e62e4cf1f42d642]: Commencement: S. 6 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-9ec1a1dc6436b664b65e7f8281598ae1]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/4/section/6) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-9ec1a1dc6436b664b65e7f8281598ae1]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/4/section/6) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-0d6ef1b7eea4dd2a1644114f1324c59c]: Commencement: S. 7 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-0d6ef1b7eea4dd2a1644114f1324c59c]: Commencement: S. 7 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-27f40bf888b6b8845af4536d6e5f6633]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/4/section/7) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-27f40bf888b6b8845af4536d6e5f6633]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/4/section/7) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-70ae695dc34793803afbddfd48a00d0f]: Commencement: S. 8 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-70ae695dc34793803afbddfd48a00d0f]: Commencement: S. 8 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-667123feb0b2649d17ca1a21e52f2a3b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/4/section/8) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-667123feb0b2649d17ca1a21e52f2a3b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/4/section/8) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-72a1ba30929cb22bab988c47e8208984]: Commencement: S. 9 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-72a1ba30929cb22bab988c47e8208984]: Commencement: S. 9 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-6b628dbe23119bf2ee3f771e6e331449]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/4/section/9) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-6b628dbe23119bf2ee3f771e6e331449]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/4/section/9) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-5226e3d557d94cbcd397d2564b37076c]: Commencement: S. 10 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-5226e3d557d94cbcd397d2564b37076c]: Commencement: S. 10 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-17cf3bbde271ac5a7e367e38497e81db]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/4/section/10) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-17cf3bbde271ac5a7e367e38497e81db]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/4/section/10) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-ac4a9d930ab15f2130e2553b4929a032]: Commencement: S. 11 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-ac4a9d930ab15f2130e2553b4929a032]: Commencement: S. 11 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-0c001aa3df3e8bf2b23c1f33766cd1e9]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/4/section/11) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-0c001aa3df3e8bf2b23c1f33766cd1e9]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/4/section/11) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-8264c8de81c94adad6fdd4a9a3333afd]: Commencement: S. 12 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-8264c8de81c94adad6fdd4a9a3333afd]: Commencement: S. 12 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-bbb5996fcc2ff95d06f2361711e8f7dd]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/4/section/12) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-bbb5996fcc2ff95d06f2361711e8f7dd]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/4/section/12) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-6516322290e5eed9e6623e9c8e496687]: Commencement: S. 13 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-6516322290e5eed9e6623e9c8e496687]: Commencement: S. 13 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-a048187a82dd67ef44b175ec1e06df7d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/4/section/13) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-a048187a82dd67ef44b175ec1e06df7d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/4/section/13) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-bdcc4ee23e9a0866da6803cb0dab9128]: Commencement: S. 14 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-bdcc4ee23e9a0866da6803cb0dab9128]: Commencement: S. 14 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-e4dbdc5ae7ece60e526b0a725798fbdc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/4/section/14) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-e4dbdc5ae7ece60e526b0a725798fbdc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/4/section/14) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-d19c333e674f0be77cc62e60d60e9345]: Commencement: S. 15 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
+[^c-d19c333e674f0be77cc62e60d60e9345]: Commencement: S. 15 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2)
 
-[^key-4d714c0f07fc547ca368e88e97406741]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/4/section/15) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-4d714c0f07fc547ca368e88e97406741]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/4/section/15) in force at 1.8.2025 by [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-cc7a15be92160dae05a18a9381ee01c9]: Commencement: S. 16 in force at 24.2.2025, see [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/1)
+[^c-cc7a15be92160dae05a18a9381ee01c9]: Commencement: S. 16 in force at 24.2.2025, see [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/1)
 
-[^key-566ec1edb09a7aae8a0263fba9e93f09]: Commencement: S. 17 in force at 24.2.2025, see [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/1)
+[^c-566ec1edb09a7aae8a0263fba9e93f09]: Commencement: S. 17 in force at 24.2.2025, see [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/1)
 
-[^key-60b523cddb8c22432ee72e548c2cfae5]: Commencement: S. 18 in force at 24.2.2025, see [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/1)
+[^c-60b523cddb8c22432ee72e548c2cfae5]: Commencement: S. 18 in force at 24.2.2025, see [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/1)

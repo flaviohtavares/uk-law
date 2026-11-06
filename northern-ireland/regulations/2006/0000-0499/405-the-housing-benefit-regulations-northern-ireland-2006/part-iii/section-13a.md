@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13A. Eligible rent[^key-5f56bebf5956e73edb22b70e1374f729]
+## 13A. Eligible rent[^c-5f56bebf5956e73edb22b70e1374f729]
 
 *Extent: N.I.*
 
-(1)[^key-d10280f8d383b0656f8431ced46da868] The amount of a person’s eligible rent shall be determined in accordance with the provisions of this regulation except where any of the following provisions apply—
+(1)[^c-d10280f8d383b0656f8431ced46da868] The amount of a person’s eligible rent shall be determined in accordance with the provisions of this regulation except where any of the following provisions apply—
 
 - (a) regulation 13AA;
 - (b) regulation 13B;
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f56bebf5956e73edb22b70e1374f729]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/6)
+[^c-5f56bebf5956e73edb22b70e1374f729]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/6)
 
-[^key-d10280f8d383b0656f8431ced46da868]: Textual amendment: [Reg. 13A(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A/1) substituted (20.2.2017) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/326)](https://www.legislation.gov.uk/nisr/2016/326), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2016/326/regulation/5/4) (as amended by [S.R. 2016/432](https://www.legislation.gov.uk/nisr/2016/432), [reg. 7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7))
+[^c-d10280f8d383b0656f8431ced46da868]: Textual amendment: [Reg. 13A(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A/1) substituted (20.2.2017) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/326)](https://www.legislation.gov.uk/nisr/2016/326), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2016/326/regulation/5/4) (as amended by [S.R. 2016/432](https://www.legislation.gov.uk/nisr/2016/432), [reg. 7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7))

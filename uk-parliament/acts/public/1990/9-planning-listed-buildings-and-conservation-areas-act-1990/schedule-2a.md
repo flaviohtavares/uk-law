@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2A — Local listed building consent orders: procedure[^key-7d4402a4fc6e8270e8de77827232993f]
+## SCHEDULE 2A — Local listed building consent orders: procedure[^c-7d4402a4fc6e8270e8de77827232993f]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ Section 26D
 
 ## Annotations
 
-[^key-7d4402a4fc6e8270e8de77827232993f]: Textual amendment: Sch. 2A inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/16); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/416/article/3/d)
+[^c-7d4402a4fc6e8270e8de77827232993f]: Textual amendment: Sch. 2A inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/16); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/416/article/3/d)

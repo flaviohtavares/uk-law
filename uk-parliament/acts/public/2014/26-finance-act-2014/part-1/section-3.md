@@ -26,10 +26,10 @@ summary: ''
 
 (3) Accordingly section 21 of that Act (indexation of limits), so far as relating to the starting rate limit for savings, does not apply for that tax year.
 
-(4)[^key-3de49b9b0e61c0b2dee803effa7c453c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3de49b9b0e61c0b2dee803effa7c453c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendments made by subsections (1) and (4) have effect for the tax year 2015-16 and subsequent tax years.
 
 ## Annotations
 
-[^key-3de49b9b0e61c0b2dee803effa7c453c]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/3/4) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(d)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/d)
+[^c-3de49b9b0e61c0b2dee803effa7c453c]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/3/4) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(d)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/d)

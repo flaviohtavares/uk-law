@@ -32,7 +32,7 @@ Revocations
 | The Diving at Work Regulations 1997 | S.I. 1997/2776 | Paragraph 5 of Schedule 2 |
 | The Quarries Regulations 1999 | S.I. 1999/2024 | The entries in Schedule 5 relating to the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995 |
 | The Railway Safety Regulations 1999 | S.I. 1999/2244 | Regulation 7 |
-| [^key-cab243735735daa74504e8c00c12bb5c]. . . | [^key-cab243735735daa74504e8c00c12bb5c]. . . | [^key-cab243735735daa74504e8c00c12bb5c]. . . |
+| [^c-cab243735735daa74504e8c00c12bb5c]. . . | [^c-cab243735735daa74504e8c00c12bb5c]. . . | [^c-cab243735735daa74504e8c00c12bb5c]. . . |
 | The Radiation (Emergency Preparedness and Public Information) Regulations 2001 | S.I. 2001/2975 | Paragraph 10 of Schedule 11 |
 | The Manufacture and Storage of Explosives Regulations 2005 | S.I. 2005/1082 | Paragraph 40 of Part 2 of Schedule 5 |
 | The Offshore Installations (Safety Case) Regulations 2005 | S.I. 2005/3117 | Paragraph 4 of Schedule 9 |
@@ -57,4 +57,4 @@ Amendments
 
 ## Annotations
 
-[^key-cab243735735daa74504e8c00c12bb5c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 13(3)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/13/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-cab243735735daa74504e8c00c12bb5c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 13(3)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/13/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))

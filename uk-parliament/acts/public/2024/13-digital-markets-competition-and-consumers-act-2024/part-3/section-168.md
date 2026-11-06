@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Monetary penalties under sections 166 and 167: amount[^key-a42287cf3355b4a7438c7c4425694d49][^key-6d7ef7e10408123794f07ae567a5ed11]
+## 168. Monetary penalties under sections 166 and 167: amount[^c-a42287cf3355b4a7438c7c4425694d49][^c-6d7ef7e10408123794f07ae567a5ed11]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a42287cf3355b4a7438c7c4425694d49]: Commencement: S. 168 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a42287cf3355b4a7438c7c4425694d49]: Commencement: S. 168 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6d7ef7e10408123794f07ae567a5ed11]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2024/13/section/168) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-6d7ef7e10408123794f07ae567a5ed11]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2024/13/section/168) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

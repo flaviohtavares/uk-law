@@ -41,21 +41,21 @@ but each of the Ministers shall be under a duty to take into account whether the
 (4) The Ministers shall not make an order under this section unless they have first consulted—
 
 - (a) the NRA ;
-- (aa)[^key-b3c1dd9a2817235b148b39e337ad3e61] the Natural Resources Body for Wales;
-- (b) Natural England[^key-f566b5d2e43b674c1339a1ab21c26640] [^key-908b9908dd421c8c49de3f58c5afb8ca]...;
+- (aa)[^c-b3c1dd9a2817235b148b39e337ad3e61] the Natural Resources Body for Wales;
+- (b) Natural England[^c-f566b5d2e43b674c1339a1ab21c26640] [^c-908b9908dd421c8c49de3f58c5afb8ca]...;
 - (c) the Historic Buildings and Monuments Commission for England; and
 - (d) such other persons or bodies as the Ministers consider it appropriate to consult.
 
-(5 (Extent: E))[^key-82a578a5687a605cb473b0f8336d2c1a] Subsection (4) does not apply to an order which applies only in relation to England. *(Extent: E)*
+(5 (Extent: E))[^c-82a578a5687a605cb473b0f8336d2c1a] Subsection (4) does not apply to an order which applies only in relation to England. *(Extent: E)*
 
 ## Annotations
 
 [^c1415561]: Textual amendment: Ss. 61A-61E inserted (21.9.1994) by [1994 c. 25](https://www.legislation.gov.uk/ukpga/1994/25), [ss. 1](https://www.legislation.gov.uk/ukpga/1994/25/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/1994/25/section/3/2)
 
-[^key-b3c1dd9a2817235b148b39e337ad3e61]: Textual amendment: S. 61E(4)(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 331(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/331/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b3c1dd9a2817235b148b39e337ad3e61]: Textual amendment: S. 61E(4)(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 331(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/331/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f566b5d2e43b674c1339a1ab21c26640]: Textual amendment: Words in s. 61E(4)(b) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 135](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/135); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-f566b5d2e43b674c1339a1ab21c26640]: Textual amendment: Words in s. 61E(4)(b) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 135](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/135); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-908b9908dd421c8c49de3f58c5afb8ca]: Textual amendment: Words in s. 61E(4)(b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 331(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/331/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-908b9908dd421c8c49de3f58c5afb8ca]: Textual amendment: Words in s. 61E(4)(b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 331(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/331/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-82a578a5687a605cb473b0f8336d2c1a]: Textual amendment: [S. 61E(5)](https://www.legislation.gov.uk/ukpga/1991/59/section/61E/5) inserted (E.) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/10)
+[^c-82a578a5687a605cb473b0f8336d2c1a]: Textual amendment: [S. 61E(5)](https://www.legislation.gov.uk/ukpga/1991/59/section/61E/5) inserted (E.) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/10)

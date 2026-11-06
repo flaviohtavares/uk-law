@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.9. Human Rights[^key-5c447528f7f9f42ee77f65fa1dcc3fa0]
+## 33.9. Human Rights[^c-5c447528f7f9f42ee77f65fa1dcc3fa0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c447528f7f9f42ee77f65fa1dcc3fa0]: Textual amendment: [Rule 33.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.9) inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [15](https://www.legislation.gov.uk/uksi/2000/2092/rule/15)
+[^c-5c447528f7f9f42ee77f65fa1dcc3fa0]: Textual amendment: [Rule 33.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.9) inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [15](https://www.legislation.gov.uk/uksi/2000/2092/rule/15)

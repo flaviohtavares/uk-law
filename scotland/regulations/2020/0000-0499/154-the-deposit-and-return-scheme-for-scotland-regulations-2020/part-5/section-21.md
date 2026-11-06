@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Takeback services[^key-44a65a7507a211e140042dd4c8fa7d9d][^key-08da7fdcb8f9293f212fc7ea524e7df9]
+## 21. Takeback services[^c-44a65a7507a211e140042dd4c8fa7d9d][^c-08da7fdcb8f9293f212fc7ea524e7df9]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44a65a7507a211e140042dd4c8fa7d9d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2020/154/regulation/21) in force at 1.7.2025 for specified purposes, see [reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A)[(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) (as amended by S.S.I. 2025/188, [art. 3](https://www.legislation.gov.uk/ssi/2025/188/article/3))
+[^c-44a65a7507a211e140042dd4c8fa7d9d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2020/154/regulation/21) in force at 1.7.2025 for specified purposes, see [reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A)[(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) (as amended by S.S.I. 2025/188, [art. 3](https://www.legislation.gov.uk/ssi/2025/188/article/3))
 
-[^key-08da7fdcb8f9293f212fc7ea524e7df9]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2020/154/regulation/21) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [20](https://www.legislation.gov.uk/ssi/2025/188/regulation/20)
+[^c-08da7fdcb8f9293f212fc7ea524e7df9]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2020/154/regulation/21) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [20](https://www.legislation.gov.uk/ssi/2025/188/regulation/20)

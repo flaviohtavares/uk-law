@@ -114,7 +114,7 @@ The Proceeds of Crime (Northern Ireland) Order 1996
 
 he may authorise that person ( “a financial investigator”) to exercise for the purposes of the investigation the powers conferred by Schedule 2.
 
-(1A) If, on an application made by a senior National Crime Agency officer[^key-ef6769949bb364868983d8de7f396b99] or a senior officer of an enforcement authority by complaint on oath, a Crown Court judge is satisfied—
+(1A) If, on an application made by a senior National Crime Agency officer[^c-ef6769949bb364868983d8de7f396b99] or a senior officer of an enforcement authority by complaint on oath, a Crown Court judge is satisfied—
 
 - (a) that a confiscation investigation is taking place; and
 - (b) that the investigation could be more effectively carried out if a member of staff of the Agency[^c21151201] or a person named in the application who is a police officer or customs officer were authorised to exercise for the purposes of the investigation the powers conferred by paragraph 3A of Schedule 2; [^c17075571] . . .
@@ -123,7 +123,7 @@ he may authorise that person ( “a financial investigator”) to exercise for t
 
 he may authorise a member of staff of the Agency or that person to exercise, for the purposes of the investigation the powers conferred by paragraph 3A of Schedule 2.
 
-(1B)[^c17075751] If, on an application made by a National Crime Agency officer[^key-f88d61188f36b7cb35020ddbc0633f38][^c21151231] or a relevant Director, a judge of the High Court is satisfied—
+(1B)[^c17075751] If, on an application made by a National Crime Agency officer[^c-f88d61188f36b7cb35020ddbc0633f38][^c21151231] or a relevant Director, a judge of the High Court is satisfied—
 
 - (a) that a civil recovery investigation is taking place; and
 - (b) that the investigation could be more effectively carried out if a member of staff of the Agency or[^c21151251] the Director were authorised to exercise for the purposes of the investigation the powers conferred by paragraph 3A of Schedule 2,
@@ -148,9 +148,9 @@ the judge may authorise a member of staff of the Agency or the Director to exerc
 - “police officer” has the same meaning as in Article 2(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989;
 - “[^c21151281] **relevant Director** ” means the Director of the Serious Fraud Office or the Director of Public Prosecutions for Northern Ireland;
 - *Definition rep. by 2002 c. 29*
-- “[^c21151321] **senior National Crime Agency officer[^key-535380bc2903a82b2f8d2304c8b335be]** ” means—
-  - (a) the Director General of the National Crime Agency[^key-f615df78238fd8137e90a3073266efe6]; or
-  - (b) any National Crime Agency officer[^key-9e646d10938c0cb1c9642ee5a82fa15e] authorised by the Director General (whether generally or specifically) for the purpose of this Article;
+- “[^c21151321] **senior National Crime Agency officer[^c-535380bc2903a82b2f8d2304c8b335be]** ” means—
+  - (a) the Director General of the National Crime Agency[^c-f615df78238fd8137e90a3073266efe6]; or
+  - (b) any National Crime Agency officer[^c-9e646d10938c0cb1c9642ee5a82fa15e] authorised by the Director General (whether generally or specifically) for the purpose of this Article;
 - “senior officer of an enforcement authority” means—
   - (a) a police officer of at least the rank of superintendent; or
   - (b) a customs officer of at least such grade as is designated by the Commissioners of Customs and Excise as equivalent to that rank.
@@ -470,7 +470,7 @@ and which appear to the investigator to relate to the investigation or any docum
 
 (4)[^c17076551] In its application by virtue of Article 49(1B), this paragraph shall have effect as if—
 
-- (a) for references to a financial investigator there were substituted references to a[^c21151611] National Crime Agency officer[^key-bf324cbc9555156cfeaaa7a47e8bfa0c] or a relevant Director (within the meaning of Article 49(5));
+- (a) for references to a financial investigator there were substituted references to a[^c21151611] National Crime Agency officer[^c-bf324cbc9555156cfeaaa7a47e8bfa0c] or a relevant Director (within the meaning of Article 49(5));
 - (b) in sub-paragraphs (1) and (1A) for “benefited from his criminal conduct” there were substituted “obtained property through unlawful conduct”; and
 - (c) in paragraph (1A) for “Part 4” there were substituted “Part 5”.
 
@@ -640,13 +640,13 @@ and references in this sub-paragraph to proceedings include a reference to any o
 
 [^c17075571]: Textual amendment: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29)
 
-[^key-ef6769949bb364868983d8de7f396b99]: Textual amendment: Words in art. 49(1A) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-ef6769949bb364868983d8de7f396b99]: Textual amendment: Words in art. 49(1A) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c21151201]: Textual amendment: Words in art. 49(1A) substituted (1.4.2008) by [Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 2](https://www.legislation.gov.uk/uksi/2008/574/article/2), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/5/2/b)
 
 [^c17075751]: Textual amendment: [2005 NI 15](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-f88d61188f36b7cb35020ddbc0633f38]: Textual amendment: Words in art. 49(1B) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-f88d61188f36b7cb35020ddbc0633f38]: Textual amendment: Words in art. 49(1B) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c21151231]: Textual amendment: Words in art. 49(1B) substituted (1.4.2008) by [Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 2](https://www.legislation.gov.uk/uksi/2008/574/article/2), [Sch. para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/5/3/a)
 
@@ -656,11 +656,11 @@ and references in this sub-paragraph to proceedings include a reference to any o
 
 [^c21151321]: Textual amendment: Art. 49(5): definition inserted (1.4.2008) by [Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 2](https://www.legislation.gov.uk/uksi/2008/574/article/2), [Sch. para. 5(4)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/5/4)
 
-[^key-535380bc2903a82b2f8d2304c8b335be]: Textual amendment: Words in art. 49(5) substituted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/4/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-535380bc2903a82b2f8d2304c8b335be]: Textual amendment: Words in art. 49(5) substituted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/4/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-f615df78238fd8137e90a3073266efe6]: Textual amendment: Words in art. 49(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(4)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/4/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-f615df78238fd8137e90a3073266efe6]: Textual amendment: Words in art. 49(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(4)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/4/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-9e646d10938c0cb1c9642ee5a82fa15e]: Textual amendment: Words in art. 49(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(4)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/4/c); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-9e646d10938c0cb1c9642ee5a82fa15e]: Textual amendment: Words in art. 49(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 53(4)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/53/4/c); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c17076001]: Textual amendment: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29)
 
@@ -726,7 +726,7 @@ and references in this sub-paragraph to proceedings include a reference to any o
 
 [^c21151611]: Textual amendment: Words in Sch. 2 para. 3A(4) substituted (1.4.2008) by [Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 2](https://www.legislation.gov.uk/uksi/2008/574/article/2), [Sch. para. 5(5)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/5/5)
 
-[^key-bf324cbc9555156cfeaaa7a47e8bfa0c]: Textual amendment: Words in [Sch. 2 para. 3A(4)(a)](https://www.legislation.gov.uk/nisi/1996/1299/schedule/2/paragraph/3A/4/a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/54); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-bf324cbc9555156cfeaaa7a47e8bfa0c]: Textual amendment: Words in [Sch. 2 para. 3A(4)(a)](https://www.legislation.gov.uk/nisi/1996/1299/schedule/2/paragraph/3A/4/a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/54); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c17076571]: Textual amendment: [2001 NI 1](https://www.legislation.gov.uk/2001/ni1)
 

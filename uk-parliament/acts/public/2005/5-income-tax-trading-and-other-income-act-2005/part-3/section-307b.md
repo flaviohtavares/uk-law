@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307B. Cash basis: capital expenditure[^key-69f0f53c554c07a41dea095914b6603b]
+## 307B. Cash basis: capital expenditure[^c-69f0f53c554c07a41dea095914b6603b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,16 +38,16 @@ summary: ''
   - (iv) a sewerage or drainage system, or
   - (v) a shaft or other structure in which a lift, hoist, escalator or moving walkway may be installed.
 
-(6) No deduction is allowed for an item of a capital nature incurred on, or in connection with, the provision, alteration or disposal of an asset for use in [^key-db600ceea39479ea67c3fb302b6b3c74]... residential property (see subsection (8)). But see section 311A (replacement domestic items relief).
+(6) No deduction is allowed for an item of a capital nature incurred on, or in connection with, the provision, alteration or disposal of an asset for use in [^c-db600ceea39479ea67c3fb302b6b3c74]... residential property (see subsection (8)). But see section 311A (replacement domestic items relief).
 
-(7) If an asset is provided partly for use in [^key-bb066cf13d825cfbafced4f95214169c]... residential property and partly for other purposes, such apportionment of the expenditure incurred on, or in connection with, the provision, alteration or disposal of the asset is to be made for the purposes of subsection (6) as is just and reasonable.
+(7) If an asset is provided partly for use in [^c-bb066cf13d825cfbafced4f95214169c]... residential property and partly for other purposes, such apportionment of the expenditure incurred on, or in connection with, the provision, alteration or disposal of the asset is to be made for the purposes of subsection (6) as is just and reasonable.
 
 (8) In relation to the calculation of profits for a tax year—
 
-- (a)[^key-671b4d9b70e5d8adbc8d556b923f436c] “**residential property**” means land consisting of a dwelling-house or part of a dwelling-house in relation to which a UK property business or an overseas property business is carried on in the tax year, and
+- (a)[^c-671b4d9b70e5d8adbc8d556b923f436c] “**residential property**” means land consisting of a dwelling-house or part of a dwelling-house in relation to which a UK property business or an overseas property business is carried on in the tax year, and
 - (b) “**qualifying land**” means land not falling within paragraph (a).
 
-(9)[^key-67fc127d51a960c082e7dcccf07a7794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-67fc127d51a960c082e7dcccf07a7794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) No deduction is allowed for an item of a capital nature incurred on, or in connection with, the provision, alteration or disposal of—
 
@@ -87,7 +87,7 @@ any intangible asset that consists of a licence or other right granted to P in r
 
 (18) A reference to acquisition, provision, alteration or disposal includes potential acquisition, provision, alteration or (as the case may be) disposal.
 
-(19)[^key-65e52848a768ca4cf8e99a77d98fb281] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-65e52848a768ca4cf8e99a77d98fb281] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (20) In this section—
 
@@ -105,14 +105,14 @@ any intangible asset that consists of a licence or other right granted to P in r
 
 ## Annotations
 
-[^key-69f0f53c554c07a41dea095914b6603b]: Textual amendment: Ss. 307A-307F and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/23)
+[^c-69f0f53c554c07a41dea095914b6603b]: Textual amendment: Ss. 307A-307F and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/23)
 
-[^key-db600ceea39479ea67c3fb302b6b3c74]: Textual amendment: Word in [s. 307B(6)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/6) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-db600ceea39479ea67c3fb302b6b3c74]: Textual amendment: Word in [s. 307B(6)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/6) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-bb066cf13d825cfbafced4f95214169c]: Textual amendment: Word in [s. 307B(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/7) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-bb066cf13d825cfbafced4f95214169c]: Textual amendment: Word in [s. 307B(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/7) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-671b4d9b70e5d8adbc8d556b923f436c]: Textual amendment: [S. 307B(8)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/8/a) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/b), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-671b4d9b70e5d8adbc8d556b923f436c]: Textual amendment: [S. 307B(8)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/8/a) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/b), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-67fc127d51a960c082e7dcccf07a7794]: Textual amendment: [S. 307B(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/9) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-67fc127d51a960c082e7dcccf07a7794]: Textual amendment: [S. 307B(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/9) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-65e52848a768ca4cf8e99a77d98fb281]: Textual amendment: [S. 307B(19)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/19) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-65e52848a768ca4cf8e99a77d98fb281]: Textual amendment: [S. 307B(19)](https://www.legislation.gov.uk/ukpga/2005/5/section/307B/19) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/4/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

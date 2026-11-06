@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Cessation of requirement to comply with standard[^key-89a28a6aa5983fae6f8a704edde83e6d]
+## 53. Cessation of requirement to comply with standard[^c-89a28a6aa5983fae6f8a704edde83e6d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89a28a6aa5983fae6f8a704edde83e6d]: Commencement: [S. 53](https://www.legislation.gov.uk/mwa/2011/1/section/53) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-89a28a6aa5983fae6f8a704edde83e6d]: Commencement: [S. 53](https://www.legislation.gov.uk/mwa/2011/1/section/53) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

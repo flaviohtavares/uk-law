@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Expunging of proof by the court[^key-09d4810c759587319828ab810de65d94]
+## 48. Expunging of proof by the court[^c-09d4810c759587319828ab810de65d94]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d4810c759587319828ab810de65d94]: Commencement: Rule 48 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-09d4810c759587319828ab810de65d94]: Commencement: Rule 48 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Education, England And Wales
 
-The General Teaching Council (Registration of Temporary Teachers from Relevant European States) (England and Wales) Regulations 2009 (revoked)[^key-727876de944ead114807306acb971a18]
+The General Teaching Council (Registration of Temporary Teachers from Relevant European States) (England and Wales) Regulations 2009 (revoked)[^c-727876de944ead114807306acb971a18]
 
 Made
 
@@ -46,80 +46,80 @@ Coming into force
 
 5th January *2*010
 
-[^key-727876de944ead114807306acb971a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-727876de944ead114807306acb971a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-727876de944ead114807306acb971a18]
+## 1. Citation and commencement[^c-727876de944ead114807306acb971a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-727876de944ead114807306acb971a18]
+## 2. Interpretation[^c-727876de944ead114807306acb971a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-727876de944ead114807306acb971a18]
+## 3. Application[^c-727876de944ead114807306acb971a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of competent authorities in England and Wales[^key-727876de944ead114807306acb971a18]
+## 4. Functions of competent authorities in England and Wales[^c-727876de944ead114807306acb971a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of disciplinary provisions[^key-727876de944ead114807306acb971a18]
+## 5. Application of disciplinary provisions[^c-727876de944ead114807306acb971a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Specified work[^key-727876de944ead114807306acb971a18]
+## 6. Specified work[^c-727876de944ead114807306acb971a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-727876de944ead114807306acb971a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-727876de944ead114807306acb971a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Matters to be recorded in the Register against a teacher's name[^key-727876de944ead114807306acb971a18]
+## SCHEDULE — Matters to be recorded in the Register against a teacher's name[^c-727876de944ead114807306acb971a18]
 
 Regulation 4
 
-**1.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-727876de944ead114807306acb971a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-727876de944ead114807306acb971a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-727876de944ead114807306acb971a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-727876de944ead114807306acb971a18]: Textual amendment: Regulations revoked (E.) (25.5.2012) by [The Education Act 2011 (Abolition of the GTCE Consequential Amendments and Revocations) Order 2012 (S.I. 2012/1153)](https://www.legislation.gov.uk/uksi/2012/1153), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1153/article/1), [3](https://www.legislation.gov.uk/uksi/2012/1153/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/1153/schedule); and revoked (W.) (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/uksi/2019/444), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2019/444/regulation/1/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-727876de944ead114807306acb971a18]: Textual amendment: Regulations revoked (E.) (25.5.2012) by [The Education Act 2011 (Abolition of the GTCE Consequential Amendments and Revocations) Order 2012 (S.I. 2012/1153)](https://www.legislation.gov.uk/uksi/2012/1153), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1153/article/1), [3](https://www.legislation.gov.uk/uksi/2012/1153/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/1153/schedule); and revoked (W.) (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/uksi/2019/444), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2019/444/regulation/1/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -43,13 +43,13 @@ Coming into force in accordance with article 1(1)
 
 The Welsh Ministers make this Order, in exercise of the powers conferred by section 162 of the Education and Inspections Act 2006[^f00001].
 
-## 1. Title, commencement and interpretation[^key-07d583e28cf7923e829b169e87f82036]
+## 1. Title, commencement and interpretation[^c-07d583e28cf7923e829b169e87f82036]
 
 (1) The title of this Order is the Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 and it comes into force on the thirty-fifth day after the day on which it is made.
 
 (2) In this Order “education subordinate legislation” means subordinate legislation made wholly under powers in any of the Education Acts (within the meaning of the Education Act 1996) and “non-education subordinate legislation” is to be construed accordingly.
 
-## 2. Amendment of Education Subordinate Legislation[^key-3774ea293d0e865fc3c28f8bee478bde]
+## 2. Amendment of Education Subordinate Legislation[^c-3774ea293d0e865fc3c28f8bee478bde]
 
 (1) This article applies in relation to Wales.
 
@@ -57,7 +57,7 @@ The Welsh Ministers make this Order, in exercise of the powers conferred by sect
 
 (3) In any provision of education subordinate legislation not specified in Schedule 1 and in the titles of such subordinate legislation, for “local education authority” and “LEA” in each place where those words occur substitute “local authority” and for “local education authorities” and “LEAs” in each place where those words occur substitute “local authorities”.
 
-## 3. Amendment of Non-education Subordinate Legislation[^key-6ceaa1b394cb8da869ad995d465a347c]
+## 3. Amendment of Non-education Subordinate Legislation[^c-6ceaa1b394cb8da869ad995d465a347c]
 
 The non-education subordinate legislation specified in Schedule 2 (which relate to local education authorities in Wales) is amended in accordance with that Schedule.
 
@@ -73,7 +73,7 @@ Article 2
 
 ### Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994
 
-**1.**[^key-88a6b84c88ff138690c2e4faa399972a] (1) The Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^f00002] are amended as follows.
+**1.**[^c-88a6b84c88ff138690c2e4faa399972a] (1) The Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^f00002] are amended as follows.
 
 (2) In regulation 2—
 
@@ -111,7 +111,7 @@ Article 2
 
 ### Education (School Attendance Order) Regulations 1995
 
-**2.**[^key-4dbc3bacf9dbaae5aabe882dd49bca09] (1) The Education (School Attendance Order) Regulations 1995[^f00003] are amended as follows.
+**2.**[^c-4dbc3bacf9dbaae5aabe882dd49bca09] (1) The Education (School Attendance Order) Regulations 1995[^f00003] are amended as follows.
 
 (2) In regulation 2[^f00004] for “local education authority” substitute “local authority”.
 
@@ -119,11 +119,11 @@ Article 2
 
 ### Education (Assisted Places) (Incidental Expenses) Regulations 1997
 
-**3.**[^key-0943327096cdbebe5a8a8bdbb040b5c9] In regulation 3 of the Education (Assisted Places) (Incidental Expenses) Regulations 1997[^f00005], in paragraph (c) of the definition of “school travel expenditure” for “local education authority” substitute “local authority in the exercise of education functions (within the meaning of the Education Act 1996)”.
+**3.**[^c-0943327096cdbebe5a8a8bdbb040b5c9] In regulation 3 of the Education (Assisted Places) (Incidental Expenses) Regulations 1997[^f00005], in paragraph (c) of the definition of “school travel expenditure” for “local education authority” substitute “local authority in the exercise of education functions (within the meaning of the Education Act 1996)”.
 
 ### Education (Infant Class Sizes) (Wales) Regulations 1998
 
-**4.**[^key-7f0a3c9e58f691ab9cc8f2a6f968bf81] (1) The Education (Infant Class Sizes) (Wales) Regulations 1998[^f00006] are amended as follows.
+**4.**[^c-7f0a3c9e58f691ab9cc8f2a6f968bf81] (1) The Education (Infant Class Sizes) (Wales) Regulations 1998[^f00006] are amended as follows.
 
 (2) In regulation 2—
 
@@ -132,7 +132,7 @@ Article 2
 
 ### Education (Foundation Body) (Wales) Regulations 2001
 
-**5.**[^key-7b3bba717ea60f7a909a746d561157ac] (1) The Education (Foundation Body) (Wales) Regulations 2001[^f00007] are amended as follows.
+**5.**[^c-7b3bba717ea60f7a909a746d561157ac] (1) The Education (Foundation Body) (Wales) Regulations 2001[^f00007] are amended as follows.
 
 (2) In regulation 7 for “local education authority” substitute “local authority”.
 
@@ -146,7 +146,7 @@ Article 2
 
 ### Change of Category of Maintained Schools (Wales) Regulations 2001
 
-**6.**[^key-24f7630f8866b9bccc4dcb895fe62d89] (1) The Change of Category of Maintained Schools (Wales) Regulations 2001[^f00008] are amended as follows.
+**6.**[^c-24f7630f8866b9bccc4dcb895fe62d89] (1) The Change of Category of Maintained Schools (Wales) Regulations 2001[^f00008] are amended as follows.
 
 (2) For “local education authority” in each place where those words occur substitute “local authority” and for “local education authorities” in each place where those words occur substitute “local authorities”.
 
@@ -154,7 +154,7 @@ Article 2
 
 ### Education (Budget Statements) (Wales) Regulations 2002
 
-**7.**[^key-7a64075d47cdd16f92452fe55e5464d5] (1) The Education (Budget Statements) (Wales) Regulations 2002[^f00009] are amended as follows.
+**7.**[^c-7a64075d47cdd16f92452fe55e5464d5] (1) The Education (Budget Statements) (Wales) Regulations 2002[^f00009] are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -177,7 +177,7 @@ Article 2
 
 ### Education (Special Educational Needs) (Wales) Regulations 2002
 
-**8.**[^key-e1b1bda229af0fcfe810d3d4f8168a6d] (1) The Education (Special Educational Needs) (Wales) Regulations 2002[^f00010] are amended as follows.
+**8.**[^c-e1b1bda229af0fcfe810d3d4f8168a6d] (1) The Education (Special Educational Needs) (Wales) Regulations 2002[^f00010] are amended as follows.
 
 (2) In regulation 2—
 
@@ -254,7 +254,7 @@ Article 2
 
 ### Special Educational Needs (Provision of Information by Local Education Authorities) (Wales) Regulations 2002
 
-**9.**[^key-431c09599056202756601fd0ae30a96c] (1) The Special Education Needs (Provision of Information by Local Education Authorities (Wales) Regulations 2002[^f00012] are amended as follows.
+**9.**[^c-431c09599056202756601fd0ae30a96c] (1) The Special Education Needs (Provision of Information by Local Education Authorities (Wales) Regulations 2002[^f00012] are amended as follows.
 
 (2) In the title of the Regulations for “Local Education Authorities” substitute “Local Authorities”.
 
@@ -277,7 +277,7 @@ Article 2
 
 ### Education (Teacher Student Loans) (Repayment etc.) Regulations 2003
 
-**10.**[^key-00f5ef078b0c2d182ebd9cdecdb95979] (1) The Education (Teacher Student Loans) (Repayment etc.) Regulations 2003[^f00013] are amended as follows.
+**10.**[^c-00f5ef078b0c2d182ebd9cdecdb95979] (1) The Education (Teacher Student Loans) (Repayment etc.) Regulations 2003[^f00013] are amended as follows.
 
 (2) In regulation 2(1) for “local education authority” in each place where those words occur substitute “local authority”.
 
@@ -285,7 +285,7 @@ Article 2
 
 ### Schools Forums (Wales) Regulations 2003
 
-**11.**[^key-2f42f879ae7c352aa496b267bff8b609] (1) The Schools Forums (Wales) Regulations 2003[^f00014] are amended as follows.
+**11.**[^c-2f42f879ae7c352aa496b267bff8b609] (1) The Schools Forums (Wales) Regulations 2003[^f00014] are amended as follows.
 
 (2) In regulations 1(3) and 2 for “local education authority” substitute “local authority”.
 
@@ -293,7 +293,7 @@ Article 2
 
 ### LEA Budget, Schools Budget and Individual Schools Budget (Wales) Regulations 2003
 
-**12.**[^key-8947670b367c165bfb50cb628f42c699] (1) The LEA Budget, Schools Budget and Individual Schools Budget (Wales) Regulations 2003[^f00015] are amended as follows.
+**12.**[^c-8947670b367c165bfb50cb628f42c699] (1) The LEA Budget, Schools Budget and Individual Schools Budget (Wales) Regulations 2003[^f00015] are amended as follows.
 
 (2) In the title of the Regulations for “LEA Budget” substitute “Non-schools Education Budget”.
 
@@ -329,7 +329,7 @@ Article 2
 
 ### Education (Pupil Information) (Wales) Regulations 2004
 
-**13.**[^key-dc6971f866bd49e6c8d70c662900ed34] (1) The Education (Pupil Information) (Wales) Regulations 2004[^f00016] are amended as follows.
+**13.**[^c-dc6971f866bd49e6c8d70c662900ed34] (1) The Education (Pupil Information) (Wales) Regulations 2004[^f00016] are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -347,7 +347,7 @@ Article 2
 
 ### Schools Budget Shares (Wales) Regulations 2004
 
-**14.**[^key-8211621573f613588e876f4dc28389a1] (1) The Schools Budget Shares (Wales) Regulations 2004[^f00017] are amended as follows.
+**14.**[^c-8211621573f613588e876f4dc28389a1] (1) The Schools Budget Shares (Wales) Regulations 2004[^f00017] are amended as follows.
 
 (2) In regulation 2(1) in the definition of “the 2003 Regulations” for “the LEA Budget, Schools Budget and Individual Schools Budget (Wales) Regulations 2003” substitute “the Non-Schools Education Budget, Schools Budget and Individual Schools Budget (Wales) Regulations 2003”.
 
@@ -355,7 +355,7 @@ Article 2
 
 ### Education (LEA Financial Schemes) (Wales) Regulations 2004
 
-**15.**[^key-da1b1ab6a4a91dc1fde06e540e8b0251] (1) The Education (LEA Financial Schemes) (Wales) Regulations 2004[^f00018] are amended as follows.
+**15.**[^c-da1b1ab6a4a91dc1fde06e540e8b0251] (1) The Education (LEA Financial Schemes) (Wales) Regulations 2004[^f00018] are amended as follows.
 
 (2) In the title of the Regulations and in regulation 1(1) for “LEA” substitute “Local Authority”.
 
@@ -365,7 +365,7 @@ Article 2
 
 ### New Maintained Schools (Wales) Regulations 2005
 
-**16.**[^key-6e6b75f20f959ebfbbbb57a710a014fb] (1) The New Maintained Schools (Wales) Regulations 2005[^f00019] are amended as follows.
+**16.**[^c-6e6b75f20f959ebfbbbb57a710a014fb] (1) The New Maintained Schools (Wales) Regulations 2005[^f00019] are amended as follows.
 
 (2) In regulations 3, 5, 6, 8 and 9(1), (2), (3) and (7)(a) for “local education authority” in each place where those words occur substitute “local authority”.
 
@@ -399,7 +399,7 @@ Article 2
 
 ### Government of Maintained Schools (Wales) Regulations 2005
 
-**17.**[^key-e0b07b2b623797d212d25fc61be3fdcf] (1) The Government of Maintained Schools (Wales) Regulations 2005[^f00020] are amended as follows.
+**17.**[^c-e0b07b2b623797d212d25fc61be3fdcf] (1) The Government of Maintained Schools (Wales) Regulations 2005[^f00020] are amended as follows.
 
 (2) In regulations 3(2)(c) and 4(2)(a) for “local education authority” substitute “local authority”.
 
@@ -449,7 +449,7 @@ Article 2
 
 ### Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010
 
-**18.**[^key-28dfd243a23375bc1691f5d0de032146] (1) The Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010[^f00021] are amended as follows.
+**18.**[^c-28dfd243a23375bc1691f5d0de032146] (1) The Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010[^f00021] are amended as follows.
 
 (2) In regulation 2(1) in the definition of “local authority” for “local education authority” in each place where those words occur substitute “local authority” and for “local education authorities” substitute “local authorities”.
 
@@ -457,7 +457,7 @@ Article 2
 
 ### School Funding (Wales) Regulations 2010
 
-**19.**[^key-b936ee0df77076190aa5609ac0243572] (1) The School Funding (Wales) Regulations 2010[^f00022] are amended as follows.
+**19.**[^c-b936ee0df77076190aa5609ac0243572] (1) The School Funding (Wales) Regulations 2010[^f00022] are amended as follows.
 
 (2) In regulation 2 for “The LEA Budget, Schools Budget and Individual Schools Budget (Wales) Regulations 2003 substitute “The Non-schools Education Budget, Schools Budget and Individual Schools Budget (Wales) Regulations 2003” and for “the Education (LEA Financial Schemes) (Wales) Regulations 2004” substitute “The Education (Local Authority Financial Schemes) (Wales) Regulations 2004”.
 
@@ -485,11 +485,11 @@ Article 3
 
 ### Local Government (Committees and Political Groups) Regulations 1990
 
-**1.**[^key-b9867ec81ac121f24f2c413982119c4d] In regulation 4(2) of the Local Government (Committees and Political Groups) Regulations 1990[^f00023] for the words “which is a local education authority as defined in section 114 of the Education Act 1944, any functions with respect to education” substitute “any education functions (within the meaning of section 579(1) of the Education Act 1996)”.
+**1.**[^c-b9867ec81ac121f24f2c413982119c4d] In regulation 4(2) of the Local Government (Committees and Political Groups) Regulations 1990[^f00023] for the words “which is a local education authority as defined in section 114 of the Education Act 1944, any functions with respect to education” substitute “any education functions (within the meaning of section 579(1) of the Education Act 1996)”.
 
 ### National Health Service Bodies and Local Authorities Partnership Arrangements (Wales) Regulations 2000
 
-**2.**[^key-388dd536a1112f25057f24bdcfb88ae5] (1) Regulation 6 of the National Health Service Bodies and Local Authorities Partnership Arrangements (Wales) Regulations 2000[^f00024] is amended as follows.
+**2.**[^c-388dd536a1112f25057f24bdcfb88ae5] (1) Regulation 6 of the National Health Service Bodies and Local Authorities Partnership Arrangements (Wales) Regulations 2000[^f00024] is amended as follows.
 
 (2) For paragraph (b) substitute—
 
@@ -501,25 +501,25 @@ Article 3
 
 ### Homeless Persons (Priority Needs) (Wales) Order 2001
 
-**3.**[^key-f361a61ac4bbfc6a8921a48c3e41d48b] (1) The Homeless Persons (Priority Needs) (Wales) Order 2001[^f00025] is amended as follows.
+**3.**[^c-f361a61ac4bbfc6a8921a48c3e41d48b] (1) The Homeless Persons (Priority Needs) (Wales) Order 2001[^f00025] is amended as follows.
 
 (2) In article 3(2)(d)(i) for “local education authority” substitute “local authority”.
 
 ### Children (Leaving Care) (Wales) Regulations 2001
 
-**4.**[^key-1a097198ec3fc7ebd5a4a47cca394236] (1) The Children (Leaving Care) (Wales) Regulations 2001[^f00026] are amended as follows.
+**4.**[^c-1a097198ec3fc7ebd5a4a47cca394236] (1) The Children (Leaving Care) (Wales) Regulations 2001[^f00026] are amended as follows.
 
 (2) In regulation 7(5)(d) for “the local education authority for the area in which the child lives” substitute “the local authority (if different) for the area in which the child lives if that authority has exercised any education functions in relation to the child”.
 
 ### Code of Conduct (Non-Qualifying Local Government Employees) (Wales) Regulations 2001
 
-**5.**[^key-7fddbee38f91d7f61ffe1b1eaedb8fc0] (1) The Code of Conduct (Non-Qualifying Local Government Employees) (Wales) Regulations 2001[^f00027] are amended as follows.
+**5.**[^c-7fddbee38f91d7f61ffe1b1eaedb8fc0] (1) The Code of Conduct (Non-Qualifying Local Government Employees) (Wales) Regulations 2001[^f00027] are amended as follows.
 
 (2) In regulation 2 in the definition of “teacher” for “Local Education Authority” substitute “local authority”.
 
 ### Parent Governor Representatives and Church Representatives (Wales) Regulations 2001
 
-**6.**[^key-597112d5112fd1aaa2c56afb9e84ac75] (1) The Parent Governor Representatives and Church Representatives (Wales) Regulations 2001[^f00028] are amended as follows.
+**6.**[^c-597112d5112fd1aaa2c56afb9e84ac75] (1) The Parent Governor Representatives and Church Representatives (Wales) Regulations 2001[^f00028] are amended as follows.
 
 (2) In regulation 2—
 
@@ -535,7 +535,7 @@ Article 3
 
 ### Children’s Homes (Wales) Regulations 2002
 
-**7.**[^key-49a2012e7795e5ece2b0183841130550] In regulation 2(1) of the Children’s Homes (Wales) Regulations 2002[^f00029], in paragraph (b) of the definition of “placing authority” for sub-paragraph (ii) substitute—
+**7.**[^c-49a2012e7795e5ece2b0183841130550] In regulation 2(1) of the Children’s Homes (Wales) Regulations 2002[^f00029], in paragraph (b) of the definition of “placing authority” for sub-paragraph (ii) substitute—
 
 > - (ii) if the child is accommodated in a qualifying school under arrangements made by a local authority (whether in the exercise of education functions within the meaning of section 579(1) of the Education Act 1996 or otherwise), that local authority,
 
@@ -543,7 +543,7 @@ Article 3
 
 ### Special Educational Needs and Disability Tribunal (General Provisions and Claims Procedure) Regulations 2002
 
-**8.**[^key-799587ce74e82deb0c5d8e287c82d8a5] (1) The Special Educational Needs and Disability Tribunal (General Provisions and Claims Procedure) Regulations 2002[^f00030] are amended as follows.
+**8.**[^c-799587ce74e82deb0c5d8e287c82d8a5] (1) The Special Educational Needs and Disability Tribunal (General Provisions and Claims Procedure) Regulations 2002[^f00030] are amended as follows.
 
 (2) In regulation 7(1)(a)(v) for “local education authority” in each place where those words occur substitute “local authority”.
 
@@ -551,15 +551,15 @@ Article 3
 
 ### Bus Service Operators Grant (Wales) Regulations 2002
 
-**9.**[^key-fe2fa12ca5a6ebc9e9b961e9239e8db3] In regulation 3(1)(a)(i) of the Bus Service Operators Grant (Wales) Regulations 2002[^f00031] for “local education authority” substitute “local authority”.
+**9.**[^c-fe2fa12ca5a6ebc9e9b961e9239e8db3] In regulation 3(1)(a)(i) of the Bus Service Operators Grant (Wales) Regulations 2002[^f00031] for “local education authority” substitute “local authority”.
 
 ### Travel Concessions (Eligible Services) Order 2002
 
-**10.**[^key-26a332a7324656a0affd78f4425eab34] In article 3(1)(a)(i) of the Travel Concessions (Eligible Services) Order 2002[^f00032] for “local education authority” substitute “local authority”.
+**10.**[^c-26a332a7324656a0affd78f4425eab34] In article 3(1)(a)(i) of the Travel Concessions (Eligible Services) Order 2002[^f00032] for “local education authority” substitute “local authority”.
 
 ### Race Relations (Statutory Duties) Order 2003
 
-**11.**[^key-0c32bdd0c6dcad59656f39899ad7023e] (1) The Race Relations Act 1976 (Statutory Duties) Order 2003[^f00033] is amended as follows.
+**11.**[^c-0c32bdd0c6dcad59656f39899ad7023e] (1) The Race Relations Act 1976 (Statutory Duties) Order 2003[^f00033] is amended as follows.
 
 (2) In article 3(2)(b) for “Local Education Authorities” substitute “local authorities”.
 
@@ -567,11 +567,11 @@ Article 3
 
 ### School Organisation Proposals by the National Assembly for Wales Regulations 2004
 
-**12.**[^key-bddf3c54febe486bb61160f44aa2084b] In the School Organisation Proposals by the National Assembly for Wales Regulations 2004[^f00034] for “local education authority” in each place those words occur substitute “local authority”.
+**12.**[^c-bddf3c54febe486bb61160f44aa2084b] In the School Organisation Proposals by the National Assembly for Wales Regulations 2004[^f00034] for “local education authority” in each place those words occur substitute “local authority”.
 
 ### Adoption Agencies (Wales) Regulations 2005
 
-**13.**[^key-083e7c0add1e6790a2c833d9e6e76aa3] (1) Regulation 36(4) of the Adoption Agencies (Wales) Regulations 2005[^f00035] is amended as follows.
+**13.**[^c-083e7c0add1e6790a2c833d9e6e76aa3] (1) Regulation 36(4) of the Adoption Agencies (Wales) Regulations 2005[^f00035] is amended as follows.
 
 (2) At the end of sub-paragraph (b) add “and include in the notification to the local authority information about the child’s educational history and whether the child has been or is likely to be assessed for special educational needs under the Education Act 1996”.
 
@@ -579,7 +579,7 @@ Article 3
 
 ### Adoption Support Services (Local Authorities) (Wales) Regulations 2005
 
-**14.**[^key-b9fb88c06cb530cc7f364abd1c2acfd0] (1) The Adoption Support Services (Local Authorities) (Wales) Regulations 2005[^f00036] are amended as follows.
+**14.**[^c-b9fb88c06cb530cc7f364abd1c2acfd0] (1) The Adoption Support Services (Local Authorities) (Wales) Regulations 2005[^f00036] are amended as follows.
 
 (2) In regulation 2 omit the definition of “local education authority”.
 
@@ -605,7 +605,7 @@ Article 3
 
 ### Special Guardianship (Wales) Regulations 2005
 
-**15.**[^key-78ceb2939552854f09f1527855b62946] (1) The Special Guardianship (Wales) Regulations 2005[^f00037] are amended as follows.
+**15.**[^c-78ceb2939552854f09f1527855b62946] (1) The Special Guardianship (Wales) Regulations 2005[^f00037] are amended as follows.
 
 (2) In regulation 1(3) omit the definition of “local education authority”.
 
@@ -617,27 +617,27 @@ Article 3
 
 ### Functions of Local Health Boards (Dental Public Health) (Wales) Regulations 2006
 
-**16.**[^key-60d218fbb3a89a62210b5d51478cb3f2] In regulation 2(2)(b) of the Functions of Local Health Boards (Dental Public Health) (Wales) Regulations 2006[^f00038] for “local education authorities” substitute “local authorities”.
+**16.**[^c-60d218fbb3a89a62210b5d51478cb3f2] In regulation 2(2)(b) of the Functions of Local Health Boards (Dental Public Health) (Wales) Regulations 2006[^f00038] for “local education authorities” substitute “local authorities”.
 
 ### Single Education Plan (Wales) Regulations 2006
 
-**17.**[^key-996ba96b20eaf35c4d619e14fe916f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-996ba96b20eaf35c4d619e14fe916f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Authorities (Standing Orders) (Wales) Regulations 2006
 
-**18.**[^key-dd467060a4f7a2a5a4d96cab2c56fc93] (1) The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00040] are amended as follows.
+**18.**[^c-dd467060a4f7a2a5a4d96cab2c56fc93] (1) The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00040] are amended as follows.
 
 (2) In Schedule 3, in paragraph 3(g) of Part 1 in paragraph 3(f) of Part 2, in paragraph 3(d) of Part 3 and in paragraph 3(f) of Part 4, for “local education authority” substitute “local authority”.
 
 ### Education (Parenting Orders) (Wales) Regulations 2006
 
-**19.**[^key-f137da01dde047216dde9560bec72add] (1) The Education (Parenting Orders) (Wales) Regulations 2006[^f00041] are amended as follows.
+**19.**[^c-f137da01dde047216dde9560bec72add] (1) The Education (Parenting Orders) (Wales) Regulations 2006[^f00041] are amended as follows.
 
 (2) In regulations 4(1)(a) and 5 for “local education authority” substitute “local authority”.
 
 ### Local Safeguarding Children Boards (Wales) Regulations 2006
 
-**20.**[^key-4bb99a431f92679db5c7531a73dab031] (1) The Local Safeguarding Children Boards (Wales) Regulations 2006[^f00042] are amended as follows.
+**20.**[^c-4bb99a431f92679db5c7531a73dab031] (1) The Local Safeguarding Children Boards (Wales) Regulations 2006[^f00042] are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -657,7 +657,7 @@ Article 3
 
 ### National Assembly for Wales (Representation of the People) Order 2007
 
-**21.**[^key-732c11cf9e3e419a17ae57713c8b9893] (1) The National Assembly for Wales (Representation of the People) Order 2007[^f00043] is amended as follows.
+**21.**[^c-732c11cf9e3e419a17ae57713c8b9893] (1) The National Assembly for Wales (Representation of the People) Order 2007[^f00043] is amended as follows.
 
 (2) In paragraph 31(2) of Schedule 5 for “local education authority” substitute “local authority (within the meaning of section 579(1) of the Education Act 1996)”.
 
@@ -665,7 +665,7 @@ Article 3
 
 ### Placement of Children (Wales) Regulations 2007
 
-**22.**[^key-4e731a5a2e45d6c7128f2b5032a64cc7] (1) The Placement of Children (Wales) Regulations 2007[^f00044] are amended as follows.
+**22.**[^c-4e731a5a2e45d6c7128f2b5032a64cc7] (1) The Placement of Children (Wales) Regulations 2007[^f00044] are amended as follows.
 
 (2) For regulation 6(1)(c) substitute—
 
@@ -678,7 +678,7 @@ Article 3
 
 ### Children and Young People’s Plan (Wales) Regulations 2007
 
-**23.**[^key-5d15b292449e5076a1fa1692d367b7a8] (1) The Children and Young People’s Plan (Wales) Regulations 2007[^f00045] are amended as follows.
+**23.**[^c-5d15b292449e5076a1fa1692d367b7a8] (1) The Children and Young People’s Plan (Wales) Regulations 2007[^f00045] are amended as follows.
 
 (2) In regulation 2—
 
@@ -691,19 +691,19 @@ Article 3
 
 ### Local Authorities (Conduct of Referendums) (Wales) Regulations 2008
 
-**24.**[^key-b90bfdbbc9eb5abdf9c2701012a77489] In paragraph 11 of Schedule 3 to the Local Authorities (Conduct of Referendums) (Wales) Regulations[^f00046] for “local education authority” substitute “local authority (within the meaning of section 579(1) of the Education Act 1996)”.
+**24.**[^c-b90bfdbbc9eb5abdf9c2701012a77489] In paragraph 11 of Schedule 3 to the Local Authorities (Conduct of Referendums) (Wales) Regulations[^f00046] for “local education authority” substitute “local authority (within the meaning of section 579(1) of the Education Act 1996)”.
 
 ### School Milk (Wales) Regulations 2008
 
-**25.**[^key-d5da18abbe67f38789df07f5191ec1b7] In regulation 2(1) of the School Milk (Wales) Regulations 2008[^f00047] in the definition of “claimant” for “local education authority” substitute “local authority”.
+**25.**[^c-d5da18abbe67f38789df07f5191ec1b7] In regulation 2(1) of the School Milk (Wales) Regulations 2008[^f00047] in the definition of “claimant” for “local education authority” substitute “local authority”.
 
 ### Crime and Disorder Strategies (Prescribed Descriptions) (Wales) Order 2009
 
-**26.**[^key-281dac8b27f8a590559c45b7cc162109] In article 2(2)(c) of the Crime and Disorder Strategies (Prescribed Descriptions) (Wales) Order 2009[^f00048] for “local education authority” substitute “local authority”.
+**26.**[^c-281dac8b27f8a590559c45b7cc162109] In article 2(2)(c) of the Crime and Disorder Strategies (Prescribed Descriptions) (Wales) Order 2009[^f00048] for “local education authority” substitute “local authority”.
 
 ### Learning and Skills (Wales) Measure 2009 (Commencement No 1 and Transitional Provision) Order 2009
 
-**27.**[^key-8741161ab8ac550260cc6cc454d2d558] In article 3 of the Learning and Skills (Wales) Measure 2009 (Commencement No 1 and Transitional Provision) Order 2009[^f00049] for “local education authority” substitute “local authority”.
+**27.**[^c-8741161ab8ac550260cc6cc454d2d558] In article 3 of the Learning and Skills (Wales) Measure 2009 (Commencement No 1 and Transitional Provision) Order 2009[^f00049] for “local education authority” substitute “local authority”.
 
 (This note is not part of the Order)
 
@@ -715,194 +715,194 @@ The integration within local authorities of children’s services departments an
 
 [^f00001]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). Functions of the National Assembly for Wales under section 162 were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). Section 162 was amended by section 23 of the [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), by paragraph 11 of the Schedule to the [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5) and by paragraph 20 of Schedule 1 to the [Children and Families (Wales) Measure 2010 (nawm 1)](https://www.legislation.gov.uk/mwa/2010/1).
 
-[^key-07d583e28cf7923e829b169e87f82036]: Commencement: Art. 1 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-07d583e28cf7923e829b169e87f82036]: Commencement: Art. 1 in force at 5.5.2010 in accordance with art. 1(1)
 
-[^key-3774ea293d0e865fc3c28f8bee478bde]: Commencement: Art. 2 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-3774ea293d0e865fc3c28f8bee478bde]: Commencement: Art. 2 in force at 5.5.2010 in accordance with art. 1(1)
 
-[^key-6ceaa1b394cb8da869ad995d465a347c]: Commencement: Art. 3 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-6ceaa1b394cb8da869ad995d465a347c]: Commencement: Art. 3 in force at 5.5.2010 in accordance with art. 1(1)
 
-[^key-88a6b84c88ff138690c2e4faa399972a]: Commencement: Sch. 1 para. 1 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-88a6b84c88ff138690c2e4faa399972a]: Commencement: Sch. 1 para. 1 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00002]: Footnote: S.I. [1994/651](https://www.legislation.gov.uk/uksi/1994/651) as amended by S.I. [1998/417](https://www.legislation.gov.uk/uksi/1998/417), [2001/3710 (W.306)](https://www.legislation.gov.uk/wsi/2001/3710), [2002/808 (W.89)](https://www.legislation.gov.uk/wsi/2002/808), [2005/2929 (W.214)](https://www.legislation.gov.uk/wsi/2005/2929).
 
-[^key-4dbc3bacf9dbaae5aabe882dd49bca09]: Commencement: Sch. 1 para. 2 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-4dbc3bacf9dbaae5aabe882dd49bca09]: Commencement: Sch. 1 para. 2 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00003]: Footnote: S.I. [1995/2090](https://www.legislation.gov.uk/uksi/1995/2090).
 
 [^f00004]: Footnote: As published the Education (School Attendance Order) Regulations 1995 contain two regulations with the number 1, and the regulation bearing the number 2 is the third regulation.
 
-[^key-0943327096cdbebe5a8a8bdbb040b5c9]: Commencement: Sch. 1 para. 3 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-0943327096cdbebe5a8a8bdbb040b5c9]: Commencement: Sch. 1 para. 3 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00005]: Footnote: S.I. [1997/1969](https://www.legislation.gov.uk/uksi/1997/1969) as amended by S.I. [1998/1585](https://www.legislation.gov.uk/uksi/1998/1585), [1999/1505](https://www.legislation.gov.uk/uksi/1999/1505), [2003/1779 (W.193)](https://www.legislation.gov.uk/wsi/2003/1779), [2008/510 (W.46)](https://www.legislation.gov.uk/wsi/2008/510), [2008/1879](https://www.legislation.gov.uk/uksi/2008/1879).
 
-[^key-7f0a3c9e58f691ab9cc8f2a6f968bf81]: Commencement: Sch. 1 para. 4 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-7f0a3c9e58f691ab9cc8f2a6f968bf81]: Commencement: Sch. 1 para. 4 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00006]: Footnote: S.I. [1998/1943](https://www.legislation.gov.uk/uksi/1998/1943) as amended by S.I. [2003/2959 (W.277)](https://www.legislation.gov.uk/wsi/2003/2959), [2009/828 (W. 75)](https://www.legislation.gov.uk/wsi/2009/828).
 
-[^key-7b3bba717ea60f7a909a746d561157ac]: Commencement: Sch. 1 para. 5 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-7b3bba717ea60f7a909a746d561157ac]: Commencement: Sch. 1 para. 5 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00007]: Footnote: S.I. [2001/2709 (W.228)](https://www.legislation.gov.uk/wsi/2001/2709) as amended by S.I. [2009/2544 (W.206)](https://www.legislation.gov.uk/wsi/2009/2544).
 
-[^key-24f7630f8866b9bccc4dcb895fe62d89]: Commencement: Sch. 1 para. 6 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-24f7630f8866b9bccc4dcb895fe62d89]: Commencement: Sch. 1 para. 6 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00008]: Footnote: S.I. [2001/2678 (W.219)](https://www.legislation.gov.uk/wsi/2001/2678) as amended by S.I. [2005/2916 (W.213)](https://www.legislation.gov.uk/wsi/2005/2916), [2006/173 (W.24)](https://www.legislation.gov.uk/wsi/2006/173).
 
-[^key-7a64075d47cdd16f92452fe55e5464d5]: Commencement: Sch. 1 para. 7 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-7a64075d47cdd16f92452fe55e5464d5]: Commencement: Sch. 1 para. 7 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00009]: Footnote: S.I. [2002/122 (W.16)](https://www.legislation.gov.uk/wsi/2002/122) as amended by S.I. [2005/2913 (W.210)](https://www.legislation.gov.uk/wsi/2005/2913).
 
-[^key-e1b1bda229af0fcfe810d3d4f8168a6d]: Commencement: Sch. 1 para. 8 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-e1b1bda229af0fcfe810d3d4f8168a6d]: Commencement: Sch. 1 para. 8 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00010]: Footnote: S.I. [2002/152 (W.20)](https://www.legislation.gov.uk/wsi/2002/152) as amended by S.I. [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [2003/1717 (W.184)](https://www.legislation.gov.uk/wsi/2003/1717).
 
 [^f00011]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
 
-[^key-431c09599056202756601fd0ae30a96c]: Commencement: Sch. 1 para. 9 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-431c09599056202756601fd0ae30a96c]: Commencement: Sch. 1 para. 9 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00012]: Footnote: S.I. [2002/157 (W.23)](https://www.legislation.gov.uk/wsi/2002/157) as amended by S.I. [2005/2913 (W.210)](https://www.legislation.gov.uk/wsi/2005/2913).
 
-[^key-00f5ef078b0c2d182ebd9cdecdb95979]: Commencement: Sch. 1 para. 10 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-00f5ef078b0c2d182ebd9cdecdb95979]: Commencement: Sch. 1 para. 10 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00013]: Footnote: S.I. [2003/1917](https://www.legislation.gov.uk/uksi/2003/1917) as amended by S.I. [2005/3238 (W.243)](https://www.legislation.gov.uk/wsi/2005/3238), [2005/3309](https://www.legislation.gov.uk/uksi/2005/3309).
 
-[^key-2f42f879ae7c352aa496b267bff8b609]: Commencement: Sch. 1 para. 11 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-2f42f879ae7c352aa496b267bff8b609]: Commencement: Sch. 1 para. 11 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00014]: Footnote: S.I. [2003/2909 (W.275)](https://www.legislation.gov.uk/wsi/2003/2909) as amended by S.I. [2005/2913 (W.210)](https://www.legislation.gov.uk/wsi/2005/2913), [2005/3238 (W.243)](https://www.legislation.gov.uk/wsi/2005/3238), [2006/5](https://www.legislation.gov.uk/uksi/2006/5).
 
-[^key-8947670b367c165bfb50cb628f42c699]: Commencement: Sch. 1 para. 12 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-8947670b367c165bfb50cb628f42c699]: Commencement: Sch. 1 para. 12 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00015]: Footnote: S.I. [2003/3118 (W.296)](https://www.legislation.gov.uk/wsi/2003/3118) as amended by S.I. [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2005/2913 (W.210)](https://www.legislation.gov.uk/wsi/2005/2913), [2005/3238 (W.243)](https://www.legislation.gov.uk/wsi/2005/3238).
 
-[^key-dc6971f866bd49e6c8d70c662900ed34]: Commencement: Sch. 1 para. 13 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-dc6971f866bd49e6c8d70c662900ed34]: Commencement: Sch. 1 para. 13 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00016]: Footnote: S.I. [2004/1026 (W.123)](https://www.legislation.gov.uk/wsi/2004/1026) as amended by S.I. [2004/2914 (W.253)](https://www.legislation.gov.uk/wsi/2004/2914), [2005/1396 (W.110)](https://www.legislation.gov.uk/wsi/2005/1396), [2005/3239 (W.244)](https://www.legislation.gov.uk/wsi/2005/3239), [2007/3563 (W.313)](https://www.legislation.gov.uk/wsi/2007/3563).
 
-[^key-8211621573f613588e876f4dc28389a1]: Commencement: Sch. 1 para. 14 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-8211621573f613588e876f4dc28389a1]: Commencement: Sch. 1 para. 14 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00017]: Footnote: S.I. [2004/2506 (W.224)](https://www.legislation.gov.uk/wsi/2004/2506) as amended by S.I. [2005/2913 (W.210)](https://www.legislation.gov.uk/wsi/2005/2913), [2005/3238 (W.243)](https://www.legislation.gov.uk/wsi/2005/3238), [2008/1866 (W. 178)](https://www.legislation.gov.uk/wsi/2008/1866).
 
-[^key-da1b1ab6a4a91dc1fde06e540e8b0251]: Commencement: Sch. 1 para. 15 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-da1b1ab6a4a91dc1fde06e540e8b0251]: Commencement: Sch. 1 para. 15 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00018]: Footnote: S.I. [2004/2507 (W.225)](https://www.legislation.gov.uk/wsi/2004/2507).
 
-[^key-6e6b75f20f959ebfbbbb57a710a014fb]: Commencement: Sch. 1 para. 16 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-6e6b75f20f959ebfbbbb57a710a014fb]: Commencement: Sch. 1 para. 16 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00019]: Footnote: S.I. [2005/2912 (W.209)](https://www.legislation.gov.uk/wsi/2005/2912).
 
-[^key-e0b07b2b623797d212d25fc61be3fdcf]: Commencement: Sch. 1 para. 17 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-e0b07b2b623797d212d25fc61be3fdcf]: Commencement: Sch. 1 para. 17 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00020]: Footnote: S.I. [2005/2914 (W.211)](https://www.legislation.gov.uk/wsi/2005/2914) as amended by S.I. [2005/3200 (W.236)](https://www.legislation.gov.uk/wsi/2005/3200), [2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873), [2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944), [2009/2544 (W.206)](https://www.legislation.gov.uk/wsi/2009/2544).
 
-[^key-28dfd243a23375bc1691f5d0de032146]: Commencement: Sch. 1 para. 18 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-28dfd243a23375bc1691f5d0de032146]: Commencement: Sch. 1 para. 18 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00021]: Footnote: S.I. [2010/638 (W.64)](https://www.legislation.gov.uk/wsi/2010/638).
 
-[^key-b936ee0df77076190aa5609ac0243572]: Commencement: Sch. 1 para. 19 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-b936ee0df77076190aa5609ac0243572]: Commencement: Sch. 1 para. 19 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00022]: Footnote: S.I. [2010/824 (W.87)](https://www.legislation.gov.uk/wsi/2010/824).
 
-[^key-b9867ec81ac121f24f2c413982119c4d]: Commencement: Sch. 2 para. 1 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-b9867ec81ac121f24f2c413982119c4d]: Commencement: Sch. 2 para. 1 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00023]: Footnote: S.I. [1990/1553](https://www.legislation.gov.uk/uksi/1990/1553) as amended by S.I. [1991/1398](https://www.legislation.gov.uk/uksi/1991/1398), [1993/1339](https://www.legislation.gov.uk/uksi/1993/1339), [1998/1918](https://www.legislation.gov.uk/uksi/1998/1918), [1999/500](https://www.legislation.gov.uk/uksi/1999/500).
 
-[^key-388dd536a1112f25057f24bdcfb88ae5]: Commencement: Sch. 2 para. 2 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-388dd536a1112f25057f24bdcfb88ae5]: Commencement: Sch. 2 para. 2 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00024]: Footnote: S.I. [2000/2993 (W.193)](https://www.legislation.gov.uk/wsi/2000/2993) as amended by S.I. [2004/1390 (W.140)](https://www.legislation.gov.uk/wsi/2004/1390), [2005/761 (W.65)](https://www.legislation.gov.uk/wsi/2005/761), [2008/2828](https://www.legislation.gov.uk/uksi/2008/2828).
 
-[^key-f361a61ac4bbfc6a8921a48c3e41d48b]: Commencement: Sch. 2 para. 3 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-f361a61ac4bbfc6a8921a48c3e41d48b]: Commencement: Sch. 2 para. 3 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00025]: Footnote: S.I. [2001/607 (W.30)](https://www.legislation.gov.uk/wsi/2001/607) as amended by S.I. [2004/696](https://www.legislation.gov.uk/uksi/2004/696).
 
-[^key-1a097198ec3fc7ebd5a4a47cca394236]: Commencement: Sch. 2 para. 4 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-1a097198ec3fc7ebd5a4a47cca394236]: Commencement: Sch. 2 para. 4 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00026]: Footnote: S.I. [2001/2189 (W.151)](https://www.legislation.gov.uk/wsi/2001/2189) as amended by S.I. [2002/1855 (W.179)](https://www.legislation.gov.uk/wsi/2002/1855), [2002/2935 (W.277)](https://www.legislation.gov.uk/wsi/2002/2935), [2004/1732 (W.175)](https://www.legislation.gov.uk/wsi/2004/1732).
 
-[^key-7fddbee38f91d7f61ffe1b1eaedb8fc0]: Commencement: Sch. 2 para. 5 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-7fddbee38f91d7f61ffe1b1eaedb8fc0]: Commencement: Sch. 2 para. 5 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00027]: Footnote: S.I. [2001/2278 (W.168)](https://www.legislation.gov.uk/wsi/2001/2278) as amended by S.I. [2005/2929 (W.214)](https://www.legislation.gov.uk/wsi/2005/2929).
 
-[^key-597112d5112fd1aaa2c56afb9e84ac75]: Commencement: Sch. 2 para. 6 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-597112d5112fd1aaa2c56afb9e84ac75]: Commencement: Sch. 2 para. 6 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00028]: Footnote: S.I. [2001/3711 (W.307)](https://www.legislation.gov.uk/wsi/2001/3711) as amended by S.I. [2005/2913 (W.210)](https://www.legislation.gov.uk/wsi/2005/2913).
 
-[^key-49a2012e7795e5ece2b0183841130550]: Commencement: Sch. 2 para. 7 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-49a2012e7795e5ece2b0183841130550]: Commencement: Sch. 2 para. 7 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00029]: Footnote: S.I. [2002/327 (W.40)](https://www.legislation.gov.uk/wsi/2002/327) as amended by S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622), [2004/2414](https://www.legislation.gov.uk/uksi/2004/2414), [2005/774 (W.64)](https://www.legislation.gov.uk/wsi/2005/774), [2005/1541](https://www.legislation.gov.uk/uksi/2005/1541), [2005/2929](https://www.legislation.gov.uk/uksi/2005/2929), [2006/3251 (W.295)](https://www.legislation.gov.uk/wsi/2006/3251), [2007/311 (W.28)](https://www.legislation.gov.uk/wsi/2007/311), [2009/2541 (W.205)](https://www.legislation.gov.uk/wsi/2009/2541).
 
-[^key-799587ce74e82deb0c5d8e287c82d8a5]: Commencement: Sch. 2 para. 8 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-799587ce74e82deb0c5d8e287c82d8a5]: Commencement: Sch. 2 para. 8 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00030]: Footnote: S.I. [2002/1985](https://www.legislation.gov.uk/uksi/2002/1985) as amended by S.I. [2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-fe2fa12ca5a6ebc9e9b961e9239e8db3]: Commencement: Sch. 2 para. 9 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-fe2fa12ca5a6ebc9e9b961e9239e8db3]: Commencement: Sch. 2 para. 9 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00031]: Footnote: S.I. [2002/2022 (W.206)](https://www.legislation.gov.uk/wsi/2002/2022) as amended by S.I. [2003/943 (W.124)](https://www.legislation.gov.uk/wsi/2003/943), [2004/1827 (W.203)](https://www.legislation.gov.uk/wsi/2004/1827), [2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [2010/193 (W.28)](https://www.legislation.gov.uk/wsi/2010/193).
 
-[^key-26a332a7324656a0affd78f4425eab34]: Commencement: Sch. 2 para. 10 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-26a332a7324656a0affd78f4425eab34]: Commencement: Sch. 2 para. 10 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00032]: Footnote: S.I. [2002/2023 (W.207)](https://www.legislation.gov.uk/wsi/2002/2023) as amended by S.I. [2010/194 (W.29)](https://www.legislation.gov.uk/wsi/2010/194).
 
-[^key-0c32bdd0c6dcad59656f39899ad7023e]: Commencement: Sch. 2 para. 11 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-0c32bdd0c6dcad59656f39899ad7023e]: Commencement: Sch. 2 para. 11 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00033]: Footnote: S.I. [2003/3006](https://www.legislation.gov.uk/uksi/2003/3006) as amended by S.I. [2006/2471](https://www.legislation.gov.uk/uksi/2006/2471), [2008/526](https://www.legislation.gov.uk/uksi/2008/526).
 
-[^key-bddf3c54febe486bb61160f44aa2084b]: Commencement: Sch. 2 para. 12 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-bddf3c54febe486bb61160f44aa2084b]: Commencement: Sch. 2 para. 12 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00034]: Footnote: S.I. [2004/1576 (W.162)](https://www.legislation.gov.uk/wsi/2004/1576) as amended by S.I. [2005/3238 (W.243)](https://www.legislation.gov.uk/wsi/2005/3238), [2006/173 (W.24)](https://www.legislation.gov.uk/wsi/2006/173).
 
-[^key-083e7c0add1e6790a2c833d9e6e76aa3]: Commencement: Sch. 2 para. 13 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-083e7c0add1e6790a2c833d9e6e76aa3]: Commencement: Sch. 2 para. 13 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00035]: Footnote: S.I. [2005/1313 (W.95)](https://www.legislation.gov.uk/wsi/2005/1313) as amended by S.I. [2006/362 (W.48)](https://www.legislation.gov.uk/wsi/2006/362), [2009/1892](https://www.legislation.gov.uk/uksi/2009/1892)., [2009/2541 (W.205)](https://www.legislation.gov.uk/wsi/2009/2541).
 
-[^key-b9fb88c06cb530cc7f364abd1c2acfd0]: Commencement: Sch. 2 para. 14 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-b9fb88c06cb530cc7f364abd1c2acfd0]: Commencement: Sch. 2 para. 14 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00036]: Footnote: S.I. [2005/1512 (W.116)](https://www.legislation.gov.uk/wsi/2005/1512) as amended by S.I. [2008/1879](https://www.legislation.gov.uk/uksi/2008/1879).
 
-[^key-78ceb2939552854f09f1527855b62946]: Commencement: Sch. 2 para. 15 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-78ceb2939552854f09f1527855b62946]: Commencement: Sch. 2 para. 15 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00037]: Footnote: S.I. [2005/1513 (W.117)](https://www.legislation.gov.uk/wsi/2005/1513) as amended by S.I. [2008/1879](https://www.legislation.gov.uk/uksi/2008/1879).
 
-[^key-60d218fbb3a89a62210b5d51478cb3f2]: Commencement: Sch. 2 para. 16 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-60d218fbb3a89a62210b5d51478cb3f2]: Commencement: Sch. 2 para. 16 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00038]: Footnote: S.I. [2006/487 (W.56)](https://www.legislation.gov.uk/wsi/2006/487).
 
-[^key-996ba96b20eaf35c4d619e14fe916f84]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/17) revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2022/758/regulation/12)
+[^c-996ba96b20eaf35c4d619e14fe916f84]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/17) revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2022/758/regulation/12)
 
-[^key-dd467060a4f7a2a5a4d96cab2c56fc93]: Commencement: Sch. 2 para. 18 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-dd467060a4f7a2a5a4d96cab2c56fc93]: Commencement: Sch. 2 para. 18 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00040]: Footnote: S.I. [2006/1275 (W.121)](https://www.legislation.gov.uk/wsi/2006/1275).
 
-[^key-f137da01dde047216dde9560bec72add]: Commencement: Sch. 2 para. 19 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-f137da01dde047216dde9560bec72add]: Commencement: Sch. 2 para. 19 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00041]: Footnote: S.I. [2006/1277 (W.122)](https://www.legislation.gov.uk/wsi/2006/1277).
 
-[^key-4bb99a431f92679db5c7531a73dab031]: Commencement: Sch. 2 para. 20 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-4bb99a431f92679db5c7531a73dab031]: Commencement: Sch. 2 para. 20 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00042]: Footnote: S.I. [2006/1705 (W.167)](https://www.legislation.gov.uk/wsi/2006/1705) as amended by S.I. [2008/912](https://www.legislation.gov.uk/uksi/2008/912).
 
-[^key-732c11cf9e3e419a17ae57713c8b9893]: Commencement: Sch. 2 para. 21 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-732c11cf9e3e419a17ae57713c8b9893]: Commencement: Sch. 2 para. 21 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00043]: Footnote: S.I. [2007/236](https://www.legislation.gov.uk/uksi/2007/236) as amended by S.I. [2009/1182](https://www.legislation.gov.uk/uksi/2009/1182), [2009/1357](https://www.legislation.gov.uk/uksi/2009/1357).
 
-[^key-4e731a5a2e45d6c7128f2b5032a64cc7]: Commencement: Sch. 2 para. 22 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-4e731a5a2e45d6c7128f2b5032a64cc7]: Commencement: Sch. 2 para. 22 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00044]: Footnote: S.I. [2007/310 (W.27)](https://www.legislation.gov.uk/wsi/2007/310).
 
-[^key-5d15b292449e5076a1fa1692d367b7a8]: Commencement: Sch. 2 para. 23 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-5d15b292449e5076a1fa1692d367b7a8]: Commencement: Sch. 2 para. 23 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00045]: Footnote: S.I. [2007/2316 (W.187)](https://www.legislation.gov.uk/wsi/2007/2316).
 
-[^key-b90bfdbbc9eb5abdf9c2701012a77489]: Commencement: Sch. 2 para. 24 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-b90bfdbbc9eb5abdf9c2701012a77489]: Commencement: Sch. 2 para. 24 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00046]: Footnote: S.I. [2008/1848 (W.177)](https://www.legislation.gov.uk/wsi/2008/1848).
 
-[^key-d5da18abbe67f38789df07f5191ec1b7]: Commencement: Sch. 2 para. 25 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-d5da18abbe67f38789df07f5191ec1b7]: Commencement: Sch. 2 para. 25 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00047]: Footnote: S.I. [2008/2141 (W.190)](https://www.legislation.gov.uk/wsi/2008/2141) as amended by S.I. [2009/108 (W.21)](https://www.legislation.gov.uk/wsi/2009/108).
 
-[^key-281dac8b27f8a590559c45b7cc162109]: Commencement: Sch. 2 para. 26 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-281dac8b27f8a590559c45b7cc162109]: Commencement: Sch. 2 para. 26 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00048]: Footnote: S.I. [2009/3050 (W. 267)](https://www.legislation.gov.uk/wsi/2009/3050).
 
-[^key-8741161ab8ac550260cc6cc454d2d558]: Commencement: Sch. 2 para. 27 in force at 5.5.2010 in accordance with art. 1(1)
+[^c-8741161ab8ac550260cc6cc454d2d558]: Commencement: Sch. 2 para. 27 in force at 5.5.2010 in accordance with art. 1(1)
 
 [^f00049]: Footnote: S.I. [2009/3174 (W. 276)](https://www.legislation.gov.uk/wsi/2009/3174).

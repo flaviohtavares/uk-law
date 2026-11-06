@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Further and consequential amendments[^key-9b420b3f1d2f46df53fc3a5963e20366]
+## 12. Further and consequential amendments[^c-9b420b3f1d2f46df53fc3a5963e20366]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b420b3f1d2f46df53fc3a5963e20366]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/22/section/12) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/a)
+[^c-9b420b3f1d2f46df53fc3a5963e20366]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/22/section/12) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/a)

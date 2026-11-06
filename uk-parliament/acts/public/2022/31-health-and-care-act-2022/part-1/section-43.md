@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Power of direction: public health functions[^key-94ac3b3cc2148a2fbe66e7eb63c5a0c5][^key-dce40d887f47542fd10f3364605709b6]
+## 43. Power of direction: public health functions[^c-94ac3b3cc2148a2fbe66e7eb63c5a0c5][^c-dce40d887f47542fd10f3364605709b6]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94ac3b3cc2148a2fbe66e7eb63c5a0c5]: Commencement: S. 43 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-94ac3b3cc2148a2fbe66e7eb63c5a0c5]: Commencement: S. 43 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-dce40d887f47542fd10f3364605709b6]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/31/section/43) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-dce40d887f47542fd10f3364605709b6]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/31/section/43) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

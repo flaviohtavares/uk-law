@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Closure of pension accounts on transfer out or repayment of balance of contributions[^key-9ebf2eef4c4216d98580dd8bee182daf]
+## 47. Closure of pension accounts on transfer out or repayment of balance of contributions[^c-9ebf2eef4c4216d98580dd8bee182daf]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ All pension accounts relating to a member (P) (other than a pension credit membe
 
 ## Annotations
 
-[^key-9ebf2eef4c4216d98580dd8bee182daf]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2014/292/regulation/47) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9ebf2eef4c4216d98580dd8bee182daf]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2014/292/regulation/47) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Amendments relating to students who fall within in a paragraph of Schedule 1 after the start of a course[^key-c415a33241249d4479d30c0b643dc928]
+## 61. Amendments relating to students who fall within in a paragraph of Schedule 1 after the start of a course[^c-c415a33241249d4479d30c0b643dc928]
 
 *Extent: E+W*
 
 In regulation 2(3A) (interpretation)[^f00054], after “place”, in the second place it occurs, insert “(but see also regulation 4(2A) and (2B))”.
 
-**62.**[^key-d98a6e2e18c40e6a6c2c3a21cfa67cd0] In regulation 4 (fee charging)[^f00055], for paragraph (2) substitute—
+**62.**[^c-d98a6e2e18c40e6a6c2c3a21cfa67cd0] In regulation 4 (fee charging)[^f00055], for paragraph (2) substitute—
 
 > (2) For the purposes of this regulation, a person falls within a paragraph of Schedule 1 if—
 >
@@ -61,10 +61,10 @@ In regulation 2(3A) (interpretation)[^f00054], after “place”, in the second 
 
 ## Annotations
 
-[^key-c415a33241249d4479d30c0b643dc928]: Commencement: Reg. 61 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c415a33241249d4479d30c0b643dc928]: Commencement: Reg. 61 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00054]: Footnote: Paragraph (3A) was inserted by [S.I. 2012/1653](https://www.legislation.gov.uk/uksi/2012/1653).
 
-[^key-d98a6e2e18c40e6a6c2c3a21cfa67cd0]: Commencement: Reg. 62 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-d98a6e2e18c40e6a6c2c3a21cfa67cd0]: Commencement: Reg. 62 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00055]: Footnote: Regulation 4 was amended by [S.I. 2012/765](https://www.legislation.gov.uk/uksi/2012/765), [2019/1027](https://www.legislation.gov.uk/uksi/2019/1027), [2021/127](https://www.legislation.gov.uk/uksi/2021/127), [2021/929](https://www.legislation.gov.uk/uksi/2021/929) and [2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).

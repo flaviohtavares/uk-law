@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10.[^key-18e9736bbf2b5f6127c65d0ddb505535]
+## 10.[^c-18e9736bbf2b5f6127c65d0ddb505535]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e9736bbf2b5f6127c65d0ddb505535]: Textual amendment: Reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/54)
+[^c-18e9736bbf2b5f6127c65d0ddb505535]: Textual amendment: Reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/54)

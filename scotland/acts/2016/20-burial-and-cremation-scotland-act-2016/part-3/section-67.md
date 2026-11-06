@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Arrangements under sections 65 and 66[^key-c124a839b946bbb054f41394985776be]
+## 67. Arrangements under sections 65 and 66[^c-c124a839b946bbb054f41394985776be]
 
 *Extent: S*
 
-(1) This section applies where a person is entitled by virtue of section 65(2) or 66(2) to make the arrangements for the remains of an adult or child to be buried , cremated or hydrolysed[^key-a3866c4be5bd338f3c8b17347775ff9d].
+(1) This section applies where a person is entitled by virtue of section 65(2) or 66(2) to make the arrangements for the remains of an adult or child to be buried , cremated or hydrolysed[^c-a3866c4be5bd338f3c8b17347775ff9d].
 
-(2) The person may decide whether the remains are to be buried , cremated or hydrolysed[^key-9cdbccf849f88771f9eec15245af7f58].
+(2) The person may decide whether the remains are to be buried , cremated or hydrolysed[^c-9cdbccf849f88771f9eec15245af7f58].
 
 (3) In making a decision for the purposes of subsection (2), the person must, so far as known to the person, have regard to—
 
-- (a) any wishes that the adult or child expressed as to the burial , cremation or hydrolysis[^key-031ab112ca10f6d3ad7403922a059148] of the remains, and
+- (a) any wishes that the adult or child expressed as to the burial , cremation or hydrolysis[^c-031ab112ca10f6d3ad7403922a059148] of the remains, and
 - (b) whether the adult or child is of a particular religion or belief.
 
 (4) In this section—
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c124a839b946bbb054f41394985776be]: Commencement: S. 67 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-c124a839b946bbb054f41394985776be]: Commencement: S. 67 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
-[^key-a3866c4be5bd338f3c8b17347775ff9d]: Textual amendment: Words in [s. 67(1)](https://www.legislation.gov.uk/asp/2016/20/section/67/1) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/5/a)
+[^c-a3866c4be5bd338f3c8b17347775ff9d]: Textual amendment: Words in [s. 67(1)](https://www.legislation.gov.uk/asp/2016/20/section/67/1) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/5/a)
 
-[^key-9cdbccf849f88771f9eec15245af7f58]: Textual amendment: Words in [s. 67(2)](https://www.legislation.gov.uk/asp/2016/20/section/67/2) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/5/b)
+[^c-9cdbccf849f88771f9eec15245af7f58]: Textual amendment: Words in [s. 67(2)](https://www.legislation.gov.uk/asp/2016/20/section/67/2) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/5/b)
 
-[^key-031ab112ca10f6d3ad7403922a059148]: Textual amendment: Words in [s. 67(3)(a)](https://www.legislation.gov.uk/asp/2016/20/section/67/3/a) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(5)(c)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/5/c)
+[^c-031ab112ca10f6d3ad7403922a059148]: Textual amendment: Words in [s. 67(3)(a)](https://www.legislation.gov.uk/asp/2016/20/section/67/3/a) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(5)(c)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/5/c)

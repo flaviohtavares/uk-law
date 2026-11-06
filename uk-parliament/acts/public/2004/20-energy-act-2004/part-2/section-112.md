@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Duty to inform appropriate Minister[^key-a9a7abb0d9d123489816507f394ec9d8][^key-bb7014d7b414fb81ae77fda992bbc71f][^key-f446ceb88a2c8efd41e9e5af847191b4]
+## 112. Duty to inform appropriate Minister[^c-a9a7abb0d9d123489816507f394ec9d8][^c-bb7014d7b414fb81ae77fda992bbc71f][^c-f446ceb88a2c8efd41e9e5af847191b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,9 +43,9 @@ summary: ''
 
 (6) A person who contravenes the requirements of this section is guilty of an offence.
 
-(7) Regulations under this section—[^key-6661ec283307ec97aa4edf3b393f0753]
+(7) Regulations under this section—[^c-6661ec283307ec97aa4edf3b393f0753]
 
-- (a) if made by the Secretary of State, are subject to the negative resolution procedure;[^key-f40786557aed4d4c596684a2966d7b77]
+- (a) if made by the Secretary of State, are subject to the negative resolution procedure;[^c-f40786557aed4d4c596684a2966d7b77]
 - (b) if made by the Scottish Ministers, are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 
 (8) A reference in this section to participation in activities does not include a reference—
@@ -57,12 +57,12 @@ summary: ''
 
 ## Annotations
 
-[^key-a9a7abb0d9d123489816507f394ec9d8]: Commencement: S. 112 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-a9a7abb0d9d123489816507f394ec9d8]: Commencement: S. 112 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
 
-[^key-bb7014d7b414fb81ae77fda992bbc71f]: Modification: S. 112 applied (with modifications) in part (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(g)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/g) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+[^c-bb7014d7b414fb81ae77fda992bbc71f]: Modification: S. 112 applied (with modifications) in part (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(g)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/g) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
 
-[^key-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-6661ec283307ec97aa4edf3b393f0753]: Textual amendment: S. 112(7)(a) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(14)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/14/a), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-6661ec283307ec97aa4edf3b393f0753]: Textual amendment: S. 112(7)(a) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(14)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/14/a), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-f40786557aed4d4c596684a2966d7b77]: Textual amendment: S. 112(7)(b) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(14)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/14/b), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f40786557aed4d4c596684a2966d7b77]: Textual amendment: S. 112(7)(b) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(14)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/14/b), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))

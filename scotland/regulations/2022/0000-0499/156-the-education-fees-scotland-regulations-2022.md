@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 1 of the Education (Fees and Awards) Act 1983[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-2fb60367b279c75acfb65b729e7be2ee]
+## 1. Citation, commencement and extent[^c-2fb60367b279c75acfb65b729e7be2ee]
 
 (1) These Regulations may be cited as the Education (Fees) (Scotland) Regulations 2022 and come into force on 1 August 2022.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-4d427b8adb3ae0eed57e757c9a7e3e05]
+## 2. Interpretation[^c-4d427b8adb3ae0eed57e757c9a7e3e05]
 
 (1) In these Regulations—
 
@@ -61,7 +61,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - (a) is reference to the Directive as it had effect immediately before IP completion day, and
   - (b) is to be read, where appropriate, as if references to a “Member State” include the United Kingdom,
 - “**education**” includes post-graduate research otherwise than in the course of employment,
-- “**EEA agreement**” means the agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00004], together with the protocol signed at Brussels on 17 March 1993[^f00005], as modified or supplemented from time to time, but does not include any assimilated direct[^key-fb4923d3b0161d7cb8fd77279c6120eb] legislation,
+- “**EEA agreement**” means the agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00004], together with the protocol signed at Brussels on 17 March 1993[^f00005], as modified or supplemented from time to time, but does not include any assimilated direct[^c-fb4923d3b0161d7cb8fd77279c6120eb] legislation,
 - “**EEA EFTA separation agreement**” means (as modified from time to time in accordance with any provision of it) the agreement on arrangements between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland following the withdrawal of the United Kingdom from the European Union, the EEA agreement and other agreements applicable between the United Kingdom and the EEA EFTA states by virtue of the United Kingdom’s membership of the European Union[^f00006],
 - “**EEA frontier self-employed person**” means an EEA national who—
   - (a) is a self-employed person in the United Kingdom, and
@@ -78,7 +78,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**employment**” means full time or part time employment which, in a normal week, involves a significant number of hours of work and “**employed**” is to be construed accordingly, and references to employment include references to the holding of any office and to any occupation for monetary gain,
 - “**EU national**” means any person who is a national of any Member State of the European Union,
 - “**European Economic Area**” means the European Union and, subject to the conditions laid down in the EEA agreement, Iceland, Norway and Liechtenstein,
-- “[^key-95eacd4e5a128f0cb758897ce33fc4d2]**evacuated or assisted British national from Afghanistan**” means a British citizen, a British overseas territories citizen, a British National (Overseas), a British Overseas citizen, a British subject under the British Nationality Act 1981 or a British protected person within the meaning of that Act who was either—
+- “[^c-95eacd4e5a128f0cb758897ce33fc4d2]**evacuated or assisted British national from Afghanistan**” means a British citizen, a British overseas territories citizen, a British National (Overseas), a British Overseas citizen, a British subject under the British Nationality Act 1981 or a British protected person within the meaning of that Act who was either—
   - (a) evacuated from Afghanistan by or on behalf of the United Kingdom, a North Atlantic Treaty Organisation member state, Pakistan, Uzbekistan, Tajikistan, Iran or Qatar during the period of the operation known as Operation Pitting, which began on 14 August 2021 and ended on 28 August 2021, or
   - (b) assisted by or on behalf of the United Kingdom, after 28 August 2021 and before 6 January 2022, to leave Afghanistan,
 - “**family member**” means, in relation to any person—
@@ -88,7 +88,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
     - (ii) their dependants or those of their spouse or civil partner, or
   - (c) their dependant direct relatives in the ascending line or those of their spouse or civil partner,
 - “**fees**” includes charges however described,
-- “[^key-d6de846ec10005b74059bbfeae7030df]**higher education**” has the meaning given by section 38 of the Further and Higher Education (Scotland) Act 1992,
+- “[^c-d6de846ec10005b74059bbfeae7030df]**higher education**” has the meaning given by section 38 of the Further and Higher Education (Scotland) Act 1992,
 - “**parent**” includes a step-parent, a guardian, any other person having parental responsibilities for a child and any person having care of a child, and “**child**” is to be construed accordingly,
 - “**person with protected rights**” means—
   - (a) a person within the scope of Article 10 (personal scope) of the EU withdrawal agreement, Article 9 (personal scope) of the EEA EFTA separation agreement, or Article 10 (personal scope) of the Swiss citizens’ rights agreement who—
@@ -153,7 +153,7 @@ are to be treated as separate and distinct courses of education.
 
 A ceases to be an excepted student immediately before the first day of that academic year.
 
-## 3. Relevant connection with Scotland[^key-ece222bd3f98c2f9fa06ef79a7a16652]
+## 3. Relevant connection with Scotland[^c-ece222bd3f98c2f9fa06ef79a7a16652]
 
 For the purposes of regulation 4(1) (charging of higher relevant fees), a student has a relevant connection with Scotland if that student on the relevant date—
 
@@ -161,20 +161,20 @@ For the purposes of regulation 4(1) (charging of higher relevant fees), a studen
 - (b) has been ordinarily resident in the United Kingdom throughout the period of 3 years immediately preceding the relevant date, and
 - (c) is—
   - (i) settled in the United Kingdom within the meaning given by section 33(2A) (Interpretation) of the Immigration Act 1971,
-  - (ii)[^key-82aef4b0070c24f6e41e960dc61c2fab] a person (other than a person who has applied for refugee status) who has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that they have been granted leave to enter or remain in the United Kingdom and whose leave has not expired, or
+  - (ii)[^c-82aef4b0070c24f6e41e960dc61c2fab] a person (other than a person who has applied for refugee status) who has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that they have been granted leave to enter or remain in the United Kingdom and whose leave has not expired, or
   - (iii) the spouse, civil partner or child of a person described in sub-paragraphs (i) or (ii).
 
-## 4. Charging of higher relevant fees[^key-c34ebbadb412fe5b607234442a28c235]
+## 4. Charging of higher relevant fees[^c-c34ebbadb412fe5b607234442a28c235]
 
 (1) Subject to paragraph (2), it is lawful to charge higher relevant fees in the case of students who do not have a relevant connection with Scotland than in the case of students having such a connection.
 
 (2) It is not lawful to charge higher relevant fees in the case of a student who is an excepted student within the meaning of schedule 1.
 
-## 5. Ordinary Residence[^key-0096113ef4821f992916b6b8b47d5d19]
+## 5. Ordinary Residence[^c-0096113ef4821f992916b6b8b47d5d19]
 
 Schedule 2 has effect for determining whether a person is to be treated, for the purposes of regulation 3 (relevant connection with Scotland) or schedule 1 as being, or having been, ordinarily resident in a place at, or for, a particular time.
 
-## 6. Amendment and revocation[^key-df12491fb57561452a2ca6ddbc7e9179]
+## 6. Amendment and revocation[^c-df12491fb57561452a2ca6ddbc7e9179]
 
 (1) For regulation 3A (application of this part) of the Education (Fees and Awards) (Scotland) Regulations 2007[^f00013] substitute—
 
@@ -201,7 +201,7 @@ Edinburgh
 
 Regulation 4(2)
 
-### 1. EU nationals etc. with protected rights who have been living in the UK for three years[^key-e1109a7d4a8ea24f33c6fc70281e259f]
+### 1. EU nationals etc. with protected rights who have been living in the UK for three years[^c-e1109a7d4a8ea24f33c6fc70281e259f]
 
 (1) A student is an excepted student if that student is a person with protected rights who —
 
@@ -211,11 +211,11 @@ Regulation 4(2)
 
 (2) For the purposes of this paragraph—
 
-- (a)[^key-9b0224390e1d23e403cbe39482ea349e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c64be2e8349270d1fd11b01d7ec79648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9b0224390e1d23e403cbe39482ea349e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c64be2e8349270d1fd11b01d7ec79648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a “family member of an EU national” is to be read as if a relevant person of Northern Ireland were included in the definition of “EU national” in regulation 2(1) (interpretation).
 
-### 1A. EU nationals etc. with protected rights who have not been living in the UK for 3 years[^key-5265ae8769d31605f98c58db4ab5e831]
+### 1A. EU nationals etc. with protected rights who have not been living in the UK for 3 years[^c-5265ae8769d31605f98c58db4ab5e831]
 
 A student is an excepted student if that student is a person with protected rights who—
 
@@ -224,7 +224,7 @@ A student is an excepted student if that student is a person with protected righ
 - (c) is undertaking a course of education at an establishment in Scotland, and
 - (d) is ordinarily resident in the United Kingdom on the relevant date.
 
-### 2. Irish nationals who are settled in the United Kingdom[^key-63f4ff1e6c12c7bed22fe4127f26ab16]
+### 2. Irish nationals who are settled in the United Kingdom[^c-63f4ff1e6c12c7bed22fe4127f26ab16]
 
 A student is an excepted student if that student—
 
@@ -233,7 +233,7 @@ A student is an excepted student if that student—
 - (c) is ordinarily resident in Scotland on the relevant date, and
 - (d) has been ordinarily resident in the United Kingdom or Ireland throughout the period of three years immediately preceding the relevant date.
 
-### 3. Family members of a relevant person of Northern Ireland[^key-feae8ce4d1e9aae7cd995ab6da6a09cf]
+### 3. Family members of a relevant person of Northern Ireland[^c-feae8ce4d1e9aae7cd995ab6da6a09cf]
 
 A student is an excepted student if that student—
 
@@ -241,7 +241,7 @@ A student is an excepted student if that student—
 - (b) is ordinarily resident in Scotland on the relevant date, and
 - (c) has been ordinarily resident in the United Kingdom or Ireland throughout the period of three years immediately preceding the relevant date.
 
-### 4. Workers, employed persons, self-employed persons and their family members[^key-9d0a59ecc126ebec83b49f69bc3b7a39]
+### 4. Workers, employed persons, self-employed persons and their family members[^c-9d0a59ecc126ebec83b49f69bc3b7a39]
 
 (1) A student is an excepted student if that student is a person with protected rights or a qualifying frontier worker who —
 
@@ -258,15 +258,15 @@ A student is an excepted student if that student—
 
 (3) In this paragraph, any description of a person in sub-paragraphs (1)(a)(i) and (iv) is to be read as if a relevant person of Northern Ireland were included in the definition of “EEA national” in regulation 2, and sub-paragraphs (1)(a)(iii) and (vi) are to be construed accordingly.
 
-### 5. Workers who benefitted from the Freedom of Movement for Workers Regulation[^key-c5f61f917f8695533da223960f9a172b]
+### 5. Workers who benefitted from the Freedom of Movement for Workers Regulation[^c-c5f61f917f8695533da223960f9a172b]
 
 A student is an excepted student if that student—
 
-- (a) is a person with protected rights who has or had[^key-e1eb255bf0eb2d964061215afe704fa9] a right not to be charged higher relevant fees by virtue of Article 10 of [Regulation (EU) No. 492/2011](https://www.legislation.gov.uk/european/regulation/2011/0492) of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union[^f00017], as extended by the EEA agreement,
+- (a) is a person with protected rights who has or had[^c-e1eb255bf0eb2d964061215afe704fa9] a right not to be charged higher relevant fees by virtue of Article 10 of [Regulation (EU) No. 492/2011](https://www.legislation.gov.uk/european/regulation/2011/0492) of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union[^f00017], as extended by the EEA agreement,
 - (b) has been ordinarily resident in the United Kingdom, Gibraltar or the territory comprising the European Economic Area and Switzerland throughout the period of 3 years immediately preceding the relevant date, and
 - (c) is ordinarily resident in Scotland on the relevant date.
 
-### 6. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-c013b4f7f2834c24452680a6fbf7feee]
+### 6. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-c013b4f7f2834c24452680a6fbf7feee]
 
 (1) A student is an excepted student if that student—
 
@@ -292,7 +292,7 @@ A student is an excepted student if that student—
 
 (3) Sub-paragraph (1)(a) and the requirement in sub-paragraph (1)(b) to be settled in the United Kingdom within the meaning given by section 33(2A) of the Immigration Act 1971 immediately before leaving the United Kingdom do not apply where the student falls within sub-paragraph (2)(a)(ii) and is accompanying or joining that national in the United Kingdom.
 
-### 7. Refugees[^key-a3e77b71a8735f37cd944eca9f587f2c]
+### 7. Refugees[^c-a3e77b71a8735f37cd944eca9f587f2c]
 
 A student is an excepted student if that student—
 
@@ -301,57 +301,57 @@ A student is an excepted student if that student—
   - (ii) is resident in Scotland on the relevant date, or
 - (b) is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 8. Persons granted leave following on from refugee claim[^key-1aace46c20171603086ce7a9fe699f0e]
+### 8. Persons granted leave following on from refugee claim[^c-1aace46c20171603086ce7a9fe699f0e]
 
 A student is an excepted student if—
 
 - (a) that student—
   - (i) has applied for refugee status but has as a result of that application been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that, although that person is considered not to qualify for recognition as a refugee, it is thought right to allow that person to enter or remain in the United Kingdom and that person has been granted leave to enter or remain accordingly,
   - (ii) has been ordinarily resident in the United Kingdom since that person was first granted such leave to enter or remain, and
-  - (iii) is [^key-d11322bf0b8833476b86dea63fbd999e]... resident in Scotland on the relevant date, or
+  - (iii) is [^c-d11322bf0b8833476b86dea63fbd999e]... resident in Scotland on the relevant date, or
 - (b) that student is the spouse, civil partner or child of a person described in sub paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 9. Iraqi nationals[^key-f65eefab7a114a7168dbd8434e337ac7]
+### 9. Iraqi nationals[^c-f65eefab7a114a7168dbd8434e337ac7]
 
 A student is an excepted student if that student—
 
 - (a) is an Iraqi national who—
   - (i) has been granted indefinite leave to enter the United Kingdom under the Locally Engaged Staff Assistance Scheme (Direct Entry) operated by the Home Office,
-  - (ii) has been ordinarily resident in the United Kingdom [^key-f867fb62088d0aa745a300a2932cbbbe]... since that person was first granted such indefinite leave to enter the United Kingdom, and
+  - (ii) has been ordinarily resident in the United Kingdom [^c-f867fb62088d0aa745a300a2932cbbbe]... since that person was first granted such indefinite leave to enter the United Kingdom, and
   - (iii) is ordinarily resident in Scotland on the relevant date, or
 - (b) is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 10. Syrian nationals[^key-e5cffbc1c87e160b8b8653841e4f2330]
+### 10. Syrian nationals[^c-e5cffbc1c87e160b8b8653841e4f2330]
 
 A student is an excepted student if that student—
 
 - (a) is a Syrian national who—
   - (i) has been granted humanitarian protection to enter the United Kingdom under the Syrian Vulnerable Persons Relocation Scheme operated by the Home Office,
-  - (ii) has been ordinarily resident in the United Kingdom [^key-d876120df1165a08db08212d318afd15]... since that person was first granted such humanitarian protection to enter the United Kingdom, and
+  - (ii) has been ordinarily resident in the United Kingdom [^c-d876120df1165a08db08212d318afd15]... since that person was first granted such humanitarian protection to enter the United Kingdom, and
   - (iii) is ordinarily resident in Scotland on the relevant date, or
 - (b) is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 11. Afghan nationals[^key-09da86421d931c9171c01bc6f9f39052]
+### 11. Afghan nationals[^c-09da86421d931c9171c01bc6f9f39052]
 
 A student is an excepted student if that student—
 
 - (a) is an Afghan national who—
   - (i) has been granted limited leave to remain in the United Kingdom under the Locally Employed Staff Ex-Gratia Scheme[^f00019] operated by the Home Office,
-  - (ii) has been ordinarily resident in the United Kingdom [^key-8f06dde5de6bf8c9c5160bff8ab22413]... since that person was first granted such limited leave to remain in the United Kingdom, and
+  - (ii) has been ordinarily resident in the United Kingdom [^c-8f06dde5de6bf8c9c5160bff8ab22413]... since that person was first granted such limited leave to remain in the United Kingdom, and
   - (iii) is ordinarily resident in Scotland on the relevant date, or
 - (b) is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 12. Relocated Afghan citizens[^key-21218d9915d57a57fbf6bc58cd0441af]
+### 12. Relocated Afghan citizens[^c-21218d9915d57a57fbf6bc58cd0441af]
 
 A student is an excepted student—
 
 - (a) if that student—
-  - (i) has been granted leave under the Afghan Citizens Resettlement Scheme[^f00020] , the Afghan Relocations and Assistance Policy Scheme or the Afghanistan Response Route[^key-fc6d773bac7d94aaf0f94656105eb873],
-  - (ii) has been ordinarily resident in the United Kingdom [^key-4fdd2c80a951d03cb89a4d07b8f16ac4]... since that person was first granted such leave, and
+  - (i) has been granted leave under the Afghan Citizens Resettlement Scheme[^f00020] , the Afghan Relocations and Assistance Policy Scheme or the Afghanistan Response Route[^c-fc6d773bac7d94aaf0f94656105eb873],
+  - (ii) has been ordinarily resident in the United Kingdom [^c-4fdd2c80a951d03cb89a4d07b8f16ac4]... since that person was first granted such leave, and
   - (iii) is ordinarily resident in Scotland on the relevant date, or
 - (b) if that student is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 12A. Evacuated or Assisted British nationals from Afghanistan[^key-2ec1cf48efafc6fe296334530a88da2b]
+### 12A. Evacuated or Assisted British nationals from Afghanistan[^c-2ec1cf48efafc6fe296334530a88da2b]
 
 A student is an excepted student if that student—
 
@@ -360,7 +360,7 @@ A student is an excepted student if that student—
   - (ii) is ordinarily resident in Scotland on the relevant date, or
 - (b) is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 12B. Female Afghan students[^key-6e592cfff91cc87c5e9d434240b7cd5b]
+### 12B. Female Afghan students[^c-6e592cfff91cc87c5e9d434240b7cd5b]
 
 A student is an excepted student if that student is a female Afghan national who—
 
@@ -370,7 +370,7 @@ A student is an excepted student if that student is a female Afghan national who
 - (d) is resident in Scotland, and
 - (e) is undertaking a course of higher education in Scotland.
 
-### 13. Ukrainian nationals[^key-346df339539613b3eaf06125d9fc6d4d]
+### 13. Ukrainian nationals[^c-346df339539613b3eaf06125d9fc6d4d]
 
 (1) A student is an excepted student if that student—
 
@@ -392,7 +392,7 @@ A student is an excepted student if that student is a female Afghan national who
 
 by an individual who is eligible to apply to that scheme.
 
-### 13A. United Kingdom nationals from Ukraine[^key-5a7404e5870f049f4cd93a361d759a9d]
+### 13A. United Kingdom nationals from Ukraine[^c-5a7404e5870f049f4cd93a361d759a9d]
 
 A student is an excepted student if that student—
 
@@ -403,37 +403,37 @@ A student is an excepted student if that student—
   - (iv) is ordinarily resident in Scotland on the relevant date, or
 - (b) is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 14. Persons granted stateless leave[^key-de26c41d559066c9b2c6d79987b2e264]
+### 14. Persons granted stateless leave[^c-de26c41d559066c9b2c6d79987b2e264]
 
 A student is an excepted student if that student—
 
 - (a) has—
   - (i) been granted limited leave to remain in the United Kingdom as a stateless person under the immigration rules operated by the Home Office, and
-  - (ii) been ordinarily resident in the United Kingdom [^key-715494f51d67f82557faec3a67695e9d]... since that person was first granted such limited leave to remain in the United Kingdom, and
+  - (ii) been ordinarily resident in the United Kingdom [^c-715494f51d67f82557faec3a67695e9d]... since that person was first granted such limited leave to remain in the United Kingdom, and
   - (iii) is ordinarily resident in Scotland on the relevant date, or
 - (b) is the spouse, civil partner or child of a person described in sub-paragraph (a) and is ordinarily resident in Scotland on the relevant date.
 
-### 15. Persons granted discretionary leave to remain as a victim of modern slavery[^key-929306c02cb6ea6123c665b17f9d7a06]
+### 15. Persons granted discretionary leave to remain as a victim of modern slavery[^c-929306c02cb6ea6123c665b17f9d7a06]
 
 (1) A student is an excepted student if that student—
 
 - (a) has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery,
-- (b) has been ordinarily resident in the United Kingdom [^key-fdd43b58e0efa6915d5bb7cb984d6eae]... since that person was first granted such discretionary leave to remain in the United Kingdom, and
+- (b) has been ordinarily resident in the United Kingdom [^c-fdd43b58e0efa6915d5bb7cb984d6eae]... since that person was first granted such discretionary leave to remain in the United Kingdom, and
 - (c) is ordinarily resident in Scotland on the relevant date.
 
 (2) For the purposes of this paragraph, “**modern slavery**” includes human trafficking, slavery, servitude and forced or compulsory labour.
 
-### 16. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse[^key-06e35856d05d4a15c93d765676f7846f][^key-8787c1168f6b76b03515fbe31142dd2c]
+### 16. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse[^c-06e35856d05d4a15c93d765676f7846f][^c-8787c1168f6b76b03515fbe31142dd2c]
 
 A student is an excepted student if that student—
 
 - (a) has been granted indefinite leave to enter or remain in the United Kingdom under any of the following provisions of the immigration rules[^f00026], as defined in section 33(1) of the Immigration Act 1971—
-  - (i)[^key-a3e4d1325a7fc60e3a3a7a19c0669c94] paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse, or
+  - (i)[^c-a3e4d1325a7fc60e3a3a7a19c0669c94] paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse, or
   - (ii) where such leave was granted before the coming into force of the Appendix Victim of Domestic Abuse, paragraph 289B (victim of domestic violence), paragraph D-DVILR.1.1. of Appendix FM (victims of domestic abuse) or paragraph 40 of Appendix Armed Forces (victims of domestic violence: partners of members of the armed forces),
 - (b) has been ordinarily resident in the United Kingdom since that person was first granted such leave, and
 - (c) is ordinarily resident in Scotland on the relevant date.
 
-### 16A. Children of persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse[^key-8ff5e34f802c1d6d2b6d58192f3eeb18]
+### 16A. Children of persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse[^c-8ff5e34f802c1d6d2b6d58192f3eeb18]
 
 (1) A student is an excepted student if that student—
 
@@ -446,7 +446,7 @@ A student is an excepted student if that student—
 
 (2) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
 
-### 17. Persons granted Calais leave[^key-316ff4c6f5c735d64c1e1a634d12c740]
+### 17. Persons granted Calais leave[^c-316ff4c6f5c735d64c1e1a634d12c740]
 
 A student is an excepted student if that student—
 
@@ -454,21 +454,21 @@ A student is an excepted student if that student—
 - (b) has been ordinarily resident in the United Kingdom since that person was first granted such leave, and
 - (c) is ordinarily resident in Scotland on the relevant date.
 
-### 18. Persons who are children of asylum seekers and young asylum seekers[^key-b162067570a5abc0919acf401705b79c]
+### 18. Persons who are children of asylum seekers and young asylum seekers[^c-b162067570a5abc0919acf401705b79c]
 
 (1) A student is an excepted student if that student—
 
 - (a) is the child of an asylum seeker or is a young asylum seeker,
-- (b) is resident in Scotland on the relevant date, and[^key-224e985db6130cb909a16342c1befe74]
-- (c) was under 18 years old on the date when the application for asylum was made, [^key-2955a8e3c265ad87bb74f74b6e65825a]...
-- (d)[^key-5ab43419b35f9638011bdf982d74c481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) is resident in Scotland on the relevant date, and[^c-224e985db6130cb909a16342c1befe74]
+- (c) was under 18 years old on the date when the application for asylum was made, [^c-2955a8e3c265ad87bb74f74b6e65825a]...
+- (d)[^c-5ab43419b35f9638011bdf982d74c481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this paragraph—
 
 - “**child of an asylum seeker**” means a person who is the child of an asylum seeker as defined in section 18 of the Nationality, Immigration and Asylum Act 2002[^f00027], and
 - “**young asylum seeker**” means an unaccompanied asylum-seeker who is under the age of 18.
 
-### 19. Children of Swiss nationals[^key-19ce84c31ae51c1fc83373e857dcd2aa]
+### 19. Children of Swiss nationals[^c-19ce84c31ae51c1fc83373e857dcd2aa]
 
 A student is an excepted student if that student—
 
@@ -476,7 +476,7 @@ A student is an excepted student if that student—
 - (b) is entitled to support in the United Kingdom by virtue of Article 18(2) (related rights) of the Swiss citizens’ rights agreement, and
 - (c) has been ordinarily resident in the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period of 3 years immediately preceding the relevant date.
 
-### 20. Children of Turkish workers[^key-89fbb12a7d5e6101ddaf09347eaa1ee6]
+### 20. Children of Turkish workers[^c-89fbb12a7d5e6101ddaf09347eaa1ee6]
 
 (1) A student is an excepted student if that student—
 
@@ -494,32 +494,32 @@ A student is an excepted student if that student—
 
 Regulation 5
 
-### 1. Students with a relevant connection with Scotland and excepted students: ordinary residence on relevant date[^key-dd04891624f3367fc186f1230b92a6b4][^key-380e6a13544deeb2068b172cd542a71b]
+### 1. Students with a relevant connection with Scotland and excepted students: ordinary residence on relevant date[^c-dd04891624f3367fc186f1230b92a6b4][^c-380e6a13544deeb2068b172cd542a71b]
 
-(1) For the purposes of regulation 3(a) (relevant connection with Scotland) and schedule 1[^key-62f27e90e9a552e82fefdc134e3694bb], a student is to be treated as being ordinarily resident in Scotland on the relevant date if that student was not actually so resident only because—
+(1) For the purposes of regulation 3(a) (relevant connection with Scotland) and schedule 1[^c-62f27e90e9a552e82fefdc134e3694bb], a student is to be treated as being ordinarily resident in Scotland on the relevant date if that student was not actually so resident only because—
 
 - (a) that student or their spouse or civil partner or either of their parents, or
 - (b) in the case of a dependant direct relative in the ascending line, the child upon whom that student was dependent or that child’s spouse or civil partner,
 
 was temporarily employed outside Scotland, or attending a course of study or undertaking postgraduate research outside Scotland.
 
-(2)[^key-9aa520bf62bbb3b9eaacd76e8d4fa32d] For the purposes of regulation 3(a) and schedule 1, a student who is resident in Scotland on the relevant date as a result of having moved to Scotland for the purpose of undertaking a course of education is to be considered to be ordinarily resident in the area from where they moved.
+(2)[^c-9aa520bf62bbb3b9eaacd76e8d4fa32d] For the purposes of regulation 3(a) and schedule 1, a student who is resident in Scotland on the relevant date as a result of having moved to Scotland for the purpose of undertaking a course of education is to be considered to be ordinarily resident in the area from where they moved.
 
 (3) Sub-paragraph (2) does not apply to a student who has acquired settled status in the United Kingdom under the Immigration Act 1971 as a result of residence for full-time education which has led to a right of permanent residence arising under Directive 2004/38.
 
-### 2. Ordinary residence for specified period: general[^key-d57e9600f42a47371d6e0cfe7b974a8e]
+### 2. Ordinary residence for specified period: general[^c-d57e9600f42a47371d6e0cfe7b974a8e]
 
 Paragraphs 3 to 5 apply in determining, for the purposes of regulation 3(b) (relevant connection with Scotland) and schedule 1 (fees – excepted students), whether a student is to be treated as having been or not having been ordinarily resident for the period specified in that regulation and that schedule (in this schedule, “specified period”) in the United Kingdom, Ireland, Gibraltar, the European Economic Area, Switzerland or Turkey (in this schedule, “relevant area”).
 
-### 3. Ordinary residence for specified period: exclusion for educational purposes[^key-f59d1454ba383920df232839dffbeb7b]
+### 3. Ordinary residence for specified period: exclusion for educational purposes[^c-f59d1454ba383920df232839dffbeb7b]
 
 (1) A student is not to be treated as having been ordinarily resident in the relevant area for the specified period if that student was resident there for any part of that period wholly or mainly for the purpose of receiving full-time education.
 
 (2) Sub-paragraph (1) does not apply to a student who has acquired settled status in the United Kingdom under the Immigration Act 1971 as a result of residence for full-time education which has led to a right of permanent residence arising under Directive 2004/38, in which case the student must have been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the start of that period of residence.
 
-(3)[^key-2737f83492ec9307ae9530f65690bf92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2737f83492ec9307ae9530f65690bf92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Ordinary residence for specified period: residence requirements for students born in the relevant area[^key-3f0f86768d351c71fbff8e228ec6ee59]
+### 4. Ordinary residence for specified period: residence requirements for students born in the relevant area[^c-3f0f86768d351c71fbff8e228ec6ee59]
 
 (1) A student is to be treated as having been ordinarily resident in the relevant area for the specified period if that student was born and has spent the greater part of their life in the relevant area and—
 
@@ -542,7 +542,7 @@ Paragraphs 3 to 5 apply in determining, for the purposes of regulation 3(b) (rel
 - (d) received any pension, allowance or other benefit paid by reason of a disability to which that student is subject, or by reason of confinement, injury or sickness, paid by any state authority or agency, national, regional or local, by an employer or any former employer or by any other person, or
 - (e) held an advance postgraduate or other comparable award.
 
-### 5. Ordinary residence for specified period: temporary absence for employment or study[^key-3453522805d8026ce67c9c93206c7a36]
+### 5. Ordinary residence for specified period: temporary absence for employment or study[^c-3453522805d8026ce67c9c93206c7a36]
 
 A student is to be treated as having been ordinarily resident in the relevant area for the specified period if that student was not actually ordinarily resident in the relevant area for the specified period only because—
 
@@ -565,9 +565,9 @@ Schedule 1 makes provision for categories of excepted students. It is not lawful
 
 [^f00001]: Footnote: [1983 c. 40](https://www.legislation.gov.uk/ukpga/1983/40); section 1 was relevantly amended by the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), schedule 12, paragraph 91, the Further and Higher Education (Scotland) Act [1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), schedule 9, paragraph 8, the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), schedule 8, paragraph 19 and the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), schedule 37, paragraph 57. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-2fb60367b279c75acfb65b729e7be2ee]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/156/regulation/1) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-2fb60367b279c75acfb65b729e7be2ee]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/156/regulation/1) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-4d427b8adb3ae0eed57e757c9a7e3e05]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/156/regulation/2) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-4d427b8adb3ae0eed57e757c9a7e3e05]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/156/regulation/2) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2020/1209](https://www.legislation.gov.uk/uksi/2020/1209).
 
@@ -577,13 +577,13 @@ Schedule 1 makes provision for categories of excepted students. It is not lawful
 
 [^f00005]: Footnote: CP 2183 and OJ L 1, 3.1.1994, p.572.
 
-[^key-fb4923d3b0161d7cb8fd77279c6120eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 39](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/39)
+[^c-fb4923d3b0161d7cb8fd77279c6120eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 39](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/39)
 
 [^f00006]: Footnote: CP 217.
 
-[^key-95eacd4e5a128f0cb758897ce33fc4d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/2/1) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/2)
+[^c-95eacd4e5a128f0cb758897ce33fc4d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/2/1) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/2)
 
-[^key-d6de846ec10005b74059bbfeae7030df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/2/1) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/2)
+[^c-d6de846ec10005b74059bbfeae7030df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/2/1) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/2)
 
 [^f00007]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -597,132 +597,132 @@ Schedule 1 makes provision for categories of excepted students. It is not lawful
 
 [^f00012]: Footnote: Cm 5639.
 
-[^key-ece222bd3f98c2f9fa06ef79a7a16652]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/156/regulation/3) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-ece222bd3f98c2f9fa06ef79a7a16652]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/156/regulation/3) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-82aef4b0070c24f6e41e960dc61c2fab]: Textual amendment: Reg. 3(c)(ii)(iii) substituted for reg. 3(c)(ii)-(v) (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/2)
+[^c-82aef4b0070c24f6e41e960dc61c2fab]: Textual amendment: Reg. 3(c)(ii)(iii) substituted for reg. 3(c)(ii)-(v) (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/2)
 
-[^key-c34ebbadb412fe5b607234442a28c235]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/156/regulation/4) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-c34ebbadb412fe5b607234442a28c235]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/156/regulation/4) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-0096113ef4821f992916b6b8b47d5d19]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/156/regulation/5) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-0096113ef4821f992916b6b8b47d5d19]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/156/regulation/5) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-df12491fb57561452a2ca6ddbc7e9179]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/156/regulation/6) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-df12491fb57561452a2ca6ddbc7e9179]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/156/regulation/6) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
 [^f00013]: Footnote: [S.S.I. 2007/152](https://www.legislation.gov.uk/ssi/2007/152), relevant amending instrument is [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389).
 
 [^f00014]: Footnote: [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389).
 
-[^key-e1109a7d4a8ea24f33c6fc70281e259f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-e1109a7d4a8ea24f33c6fc70281e259f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-9b0224390e1d23e403cbe39482ea349e]: Textual amendment: [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1/2/a) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/3)
+[^c-9b0224390e1d23e403cbe39482ea349e]: Textual amendment: [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1/2/a) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/3)
 
-[^key-c64be2e8349270d1fd11b01d7ec79648]: Textual amendment: [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1/2/b) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/3)
+[^c-c64be2e8349270d1fd11b01d7ec79648]: Textual amendment: [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1/2/b) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/3)
 
-[^key-5265ae8769d31605f98c58db4ab5e831]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1A) inserted (2.2.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/4)
+[^c-5265ae8769d31605f98c58db4ab5e831]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/1A) inserted (2.2.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/4)
 
-[^key-63f4ff1e6c12c7bed22fe4127f26ab16]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/2) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-63f4ff1e6c12c7bed22fe4127f26ab16]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/2) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
 [^f00015]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-feae8ce4d1e9aae7cd995ab6da6a09cf]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/3) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-feae8ce4d1e9aae7cd995ab6da6a09cf]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/3) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-9d0a59ecc126ebec83b49f69bc3b7a39]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/4) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-9d0a59ecc126ebec83b49f69bc3b7a39]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/4) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
 [^f00016]: Footnote: [2020 No. 1213](https://www.legislation.gov.uk/uksi/2020/1213).
 
-[^key-c5f61f917f8695533da223960f9a172b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/5) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-c5f61f917f8695533da223960f9a172b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/5) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-e1eb255bf0eb2d964061215afe704fa9]: Textual amendment: Words in [sch. 1 para. 5(a)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/5/a) inserted (2.2.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/5)
+[^c-e1eb255bf0eb2d964061215afe704fa9]: Textual amendment: Words in [sch. 1 para. 5(a)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/5/a) inserted (2.2.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/5)
 
 [^f00017]: Footnote: OJ L 141, 27.5.2011, p.1.
 
-[^key-c013b4f7f2834c24452680a6fbf7feee]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/6) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-c013b4f7f2834c24452680a6fbf7feee]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/6) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
 [^f00018]: Footnote: OJ No 158, 30.4.2004c, p.77.
 
-[^key-a3e77b71a8735f37cd944eca9f587f2c]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/7) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/3)
+[^c-a3e77b71a8735f37cd944eca9f587f2c]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/7) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/3)
 
-[^key-1aace46c20171603086ce7a9fe699f0e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/8) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-1aace46c20171603086ce7a9fe699f0e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/8) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-d11322bf0b8833476b86dea63fbd999e]: Textual amendment: Word in [sch. 1 para. 8(a)(iii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/8/a/iii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/4)
+[^c-d11322bf0b8833476b86dea63fbd999e]: Textual amendment: Word in [sch. 1 para. 8(a)(iii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/8/a/iii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/4)
 
-[^key-f65eefab7a114a7168dbd8434e337ac7]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/9) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-f65eefab7a114a7168dbd8434e337ac7]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/9) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-f867fb62088d0aa745a300a2932cbbbe]: Textual amendment: Words in [sch. 1 para. 9(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/9/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/5)
+[^c-f867fb62088d0aa745a300a2932cbbbe]: Textual amendment: Words in [sch. 1 para. 9(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/9/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/5)
 
-[^key-e5cffbc1c87e160b8b8653841e4f2330]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/10) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-e5cffbc1c87e160b8b8653841e4f2330]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/10) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-d876120df1165a08db08212d318afd15]: Textual amendment: Words in [sch. 1 para. 10(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/10/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/6)
+[^c-d876120df1165a08db08212d318afd15]: Textual amendment: Words in [sch. 1 para. 10(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/10/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/6)
 
-[^key-09da86421d931c9171c01bc6f9f39052]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/11) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-09da86421d931c9171c01bc6f9f39052]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/11) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
 [^f00019]: Footnote: A copy of the Locally Employed Staff Ex-Gratia Scheme can be viewed at https://www.gov.uk/government/publications/afghanistan-locally-employed-staff-ex-gratia-scheme?msclkid=eb3bcf90c7b011ec9e31d7ef58015018.
 
-[^key-8f06dde5de6bf8c9c5160bff8ab22413]: Textual amendment: Words in [sch. 1 para. 11(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/11/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/7)
+[^c-8f06dde5de6bf8c9c5160bff8ab22413]: Textual amendment: Words in [sch. 1 para. 11(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/11/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/7)
 
-[^key-21218d9915d57a57fbf6bc58cd0441af]: Commencement: Sch. 1 para. 12 in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-21218d9915d57a57fbf6bc58cd0441af]: Commencement: Sch. 1 para. 12 in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
 [^f00020]: Footnote: A copy of the Afghan Citizens Resettlement Scheme can be viewed at https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme?msclkid=e4215a4cc7a311ec8a237e55741dcde6.
 
-[^key-fc6d773bac7d94aaf0f94656105eb873]: Textual amendment: Words in sch. 1 para. 12(a)(i) substituted (1.8.2026) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/63)](https://www.legislation.gov.uk/ssi/2026/63), [regs. 1](https://www.legislation.gov.uk/ssi/2026/63/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/63/regulation/2/2)
+[^c-fc6d773bac7d94aaf0f94656105eb873]: Textual amendment: Words in sch. 1 para. 12(a)(i) substituted (1.8.2026) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/63)](https://www.legislation.gov.uk/ssi/2026/63), [regs. 1](https://www.legislation.gov.uk/ssi/2026/63/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/63/regulation/2/2)
 
-[^key-4fdd2c80a951d03cb89a4d07b8f16ac4]: Textual amendment: Words in sch. 1 para. 12(a)(ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/8)
+[^c-4fdd2c80a951d03cb89a4d07b8f16ac4]: Textual amendment: Words in sch. 1 para. 12(a)(ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/8)
 
-[^key-2ec1cf48efafc6fe296334530a88da2b]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/12A) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/6)
+[^c-2ec1cf48efafc6fe296334530a88da2b]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/12A) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/6)
 
-[^key-6e592cfff91cc87c5e9d434240b7cd5b]: Textual amendment: [Sch. 1 para. 12B](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/12B) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/9)
+[^c-6e592cfff91cc87c5e9d434240b7cd5b]: Textual amendment: [Sch. 1 para. 12B](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/12B) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/9)
 
-[^key-346df339539613b3eaf06125d9fc6d4d]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/13) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/10)
+[^c-346df339539613b3eaf06125d9fc6d4d]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/13) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/10)
 
-[^key-5a7404e5870f049f4cd93a361d759a9d]: Textual amendment: [Sch. 1 para. 13A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/13A) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/8)
+[^c-5a7404e5870f049f4cd93a361d759a9d]: Textual amendment: [Sch. 1 para. 13A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/13A) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/362)](https://www.legislation.gov.uk/ssi/2022/362), [regs. 1](https://www.legislation.gov.uk/ssi/2022/362/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2022/362/regulation/2/8)
 
-[^key-de26c41d559066c9b2c6d79987b2e264]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/14) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-de26c41d559066c9b2c6d79987b2e264]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/14) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-715494f51d67f82557faec3a67695e9d]: Textual amendment: Words in [sch. 1 para. 14(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/14/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(11)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/11)
+[^c-715494f51d67f82557faec3a67695e9d]: Textual amendment: Words in [sch. 1 para. 14(a)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/14/a/ii) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(11)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/11)
 
-[^key-929306c02cb6ea6123c665b17f9d7a06]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/15) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-929306c02cb6ea6123c665b17f9d7a06]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/15) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-fdd43b58e0efa6915d5bb7cb984d6eae]: Textual amendment: Words in [sch. 1 para. 15(1)(b)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/15/1/b) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(12)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/12)
+[^c-fdd43b58e0efa6915d5bb7cb984d6eae]: Textual amendment: Words in [sch. 1 para. 15(1)(b)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/15/1/b) omitted (1.8.2024) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(12)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/12)
 
-[^key-06e35856d05d4a15c93d765676f7846f]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-06e35856d05d4a15c93d765676f7846f]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-8787c1168f6b76b03515fbe31142dd2c]: Textual amendment: Words in [sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(13)(a)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/13/a)
+[^c-8787c1168f6b76b03515fbe31142dd2c]: Textual amendment: Words in [sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(13)(a)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/13/a)
 
 [^f00026]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c.
 
-[^key-a3e4d1325a7fc60e3a3a7a19c0669c94]: Textual amendment: [Sch. 1 para. 16(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16/a/i/ii) substituted for sch. 1 para. 16(a)(i)-(iii) (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(13)(b)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/13/b)
+[^c-a3e4d1325a7fc60e3a3a7a19c0669c94]: Textual amendment: [Sch. 1 para. 16(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16/a/i/ii) substituted for sch. 1 para. 16(a)(i)-(iii) (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(13)(b)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/13/b)
 
-[^key-8ff5e34f802c1d6d2b6d58192f3eeb18]: Textual amendment: [Sch. 1 para. 16A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16A) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(14)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/14)
+[^c-8ff5e34f802c1d6d2b6d58192f3eeb18]: Textual amendment: [Sch. 1 para. 16A](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/16A) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(14)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/14)
 
-[^key-316ff4c6f5c735d64c1e1a634d12c740]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/17) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-316ff4c6f5c735d64c1e1a634d12c740]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/17) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-b162067570a5abc0919acf401705b79c]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-b162067570a5abc0919acf401705b79c]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-224e985db6130cb909a16342c1befe74]: Textual amendment: Word in [sch. 1 para. 18(1)(b)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18/1/b) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/3/b/i)
+[^c-224e985db6130cb909a16342c1befe74]: Textual amendment: Word in [sch. 1 para. 18(1)(b)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18/1/b) inserted (1.8.2023) by [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/3/b/i)
 
-[^key-2955a8e3c265ad87bb74f74b6e65825a]: Textual amendment: Words in [sch. 1 para. 18(1)(c)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18/1/c) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/3/b/ii)
+[^c-2955a8e3c265ad87bb74f74b6e65825a]: Textual amendment: Words in [sch. 1 para. 18(1)(c)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18/1/c) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/3/b/ii)
 
-[^key-5ab43419b35f9638011bdf982d74c481]: Textual amendment: [Sch. 1 para. 18(1)(d)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18/1/d) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/3/b/iii)
+[^c-5ab43419b35f9638011bdf982d74c481]: Textual amendment: [Sch. 1 para. 18(1)(d)](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/18/1/d) omitted (1.8.2023) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/142)](https://www.legislation.gov.uk/ssi/2023/142), [regs. 1](https://www.legislation.gov.uk/ssi/2023/142/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/142/regulation/2/3/b/iii)
 
 [^f00027]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-19ce84c31ae51c1fc83373e857dcd2aa]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/19) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-19ce84c31ae51c1fc83373e857dcd2aa]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/19) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-89fbb12a7d5e6101ddaf09347eaa1ee6]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/20) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-89fbb12a7d5e6101ddaf09347eaa1ee6]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2022/156/schedule/1/paragraph/20) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-dd04891624f3367fc186f1230b92a6b4]: Commencement: Sch. 2 para. 1 in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-dd04891624f3367fc186f1230b92a6b4]: Commencement: Sch. 2 para. 1 in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-380e6a13544deeb2068b172cd542a71b]: Textual amendment: Sch. 2 para. 1 heading substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(15)(c)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/15/c)
+[^c-380e6a13544deeb2068b172cd542a71b]: Textual amendment: Sch. 2 para. 1 heading substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(15)(c)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/15/c)
 
-[^key-62f27e90e9a552e82fefdc134e3694bb]: Textual amendment: Words in sch. 2 para. 1(1) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(15)(a)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/15/a)
+[^c-62f27e90e9a552e82fefdc134e3694bb]: Textual amendment: Words in sch. 2 para. 1(1) inserted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(15)(a)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/15/a)
 
-[^key-9aa520bf62bbb3b9eaacd76e8d4fa32d]: Textual amendment: Sch. 2 para. 1(2) substituted (1.8.2025) by [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [regs. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2025/136/regulation/2/a)
+[^c-9aa520bf62bbb3b9eaacd76e8d4fa32d]: Textual amendment: Sch. 2 para. 1(2) substituted (1.8.2025) by [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [regs. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2025/136/regulation/2/a)
 
-[^key-d57e9600f42a47371d6e0cfe7b974a8e]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/156/schedule/2/paragraph/2) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(16)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/16)
+[^c-d57e9600f42a47371d6e0cfe7b974a8e]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/156/schedule/2/paragraph/2) substituted (1.8.2024) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/140)](https://www.legislation.gov.uk/ssi/2024/140), [regs. 1](https://www.legislation.gov.uk/ssi/2024/140/regulation/1), [2(16)](https://www.legislation.gov.uk/ssi/2024/140/regulation/2/16)
 
-[^key-f59d1454ba383920df232839dffbeb7b]: Commencement: Sch. 2 para. 3 in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-f59d1454ba383920df232839dffbeb7b]: Commencement: Sch. 2 para. 3 in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-2737f83492ec9307ae9530f65690bf92]: Textual amendment: Sch. 2 para. 3(3) omitted (1.8.2025) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [regs. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/136/regulation/2/b)
+[^c-2737f83492ec9307ae9530f65690bf92]: Textual amendment: Sch. 2 para. 3(3) omitted (1.8.2025) by virtue of [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [regs. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/136/regulation/2/b)
 
-[^key-3f0f86768d351c71fbff8e228ec6ee59]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/156/schedule/2/paragraph/4) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-3f0f86768d351c71fbff8e228ec6ee59]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/156/schedule/2/paragraph/4) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
 
-[^key-3453522805d8026ce67c9c93206c7a36]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/156/schedule/2/paragraph/5) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)
+[^c-3453522805d8026ce67c9c93206c7a36]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/156/schedule/2/paragraph/5) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/156/regulation/1/1)

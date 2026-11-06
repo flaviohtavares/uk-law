@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Indication to excluded person[^key-1eae95fe72e2b5c65b5fb2702acc2819]
+## 100. Indication to excluded person[^c-1eae95fe72e2b5c65b5fb2702acc2819]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1eae95fe72e2b5c65b5fb2702acc2819]: Commencement: [Rule 100](https://www.legislation.gov.uk/uksi/2011/1301/rule/100) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-1eae95fe72e2b5c65b5fb2702acc2819]: Commencement: [Rule 100](https://www.legislation.gov.uk/uksi/2011/1301/rule/100) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

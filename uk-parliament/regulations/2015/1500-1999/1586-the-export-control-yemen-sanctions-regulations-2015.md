@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Yemen Sanctions) Regulations 2015 (revoked)[^key-794838108e43c2c173851969df410c34]
+The Export Control (Yemen Sanctions) Regulations 2015 (revoked)[^c-794838108e43c2c173851969df410c34]
 
 Made
 
@@ -46,53 +46,53 @@ Coming into force
 
 27th August 2015
 
-[^key-794838108e43c2c173851969df410c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-794838108e43c2c173851969df410c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory[^key-794838108e43c2c173851969df410c34]
+## PART 1 — Introductory[^c-794838108e43c2c173851969df410c34]
 
-### 1. Citation, commencement and application[^key-794838108e43c2c173851969df410c34]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-794838108e43c2c173851969df410c34]
+### 1. Citation, commencement and application[^c-794838108e43c2c173851969df410c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Offences in relation to prohibitions in the Yemen Regulation[^key-794838108e43c2c173851969df410c34]
-
-### 3. Offences in relation to prohibitions in the Yemen Regulation[^key-794838108e43c2c173851969df410c34]
+### 2. Interpretation[^c-794838108e43c2c173851969df410c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Supplementary provisions as to offences[^key-794838108e43c2c173851969df410c34]
+## PART 2 — Offences in relation to prohibitions in the Yemen Regulation[^c-794838108e43c2c173851969df410c34]
 
-### 4. Circumvention of prohibitions[^key-794838108e43c2c173851969df410c34]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 4 — Enforcement and penalties[^key-794838108e43c2c173851969df410c34]
-
-### 5. Penalties[^key-794838108e43c2c173851969df410c34]
+### 3. Offences in relation to prohibitions in the Yemen Regulation[^c-794838108e43c2c173851969df410c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of the 1979 Act[^key-794838108e43c2c173851969df410c34]
+## PART 3 — Supplementary provisions as to offences[^c-794838108e43c2c173851969df410c34]
+
+### 4. Circumvention of prohibitions[^c-794838108e43c2c173851969df410c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — General[^key-794838108e43c2c173851969df410c34]
+## PART 4 — Enforcement and penalties[^c-794838108e43c2c173851969df410c34]
 
-### 7. Amendment to the Export Control Order 2008 in relation to Yemen[^key-794838108e43c2c173851969df410c34]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 8. Review[^key-794838108e43c2c173851969df410c34]
+### 5. Penalties[^c-794838108e43c2c173851969df410c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-794838108e43c2c173851969df410c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 6. Application of the 1979 Act[^c-794838108e43c2c173851969df410c34]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — General[^c-794838108e43c2c173851969df410c34]
+
+### 7. Amendment to the Export Control Order 2008 in relation to Yemen[^c-794838108e43c2c173851969df410c34]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Review[^c-794838108e43c2c173851969df410c34]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-794838108e43c2c173851969df410c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -100,4 +100,4 @@ Coming into force
 
 ## Annotations
 
-[^key-794838108e43c2c173851969df410c34]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1586) revoked (31.12.2020) by [The Yemen (Sanctions) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1278)](https://www.legislation.gov.uk/uksi/2020/1278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2), [66(3)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/66/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-794838108e43c2c173851969df410c34]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1586) revoked (31.12.2020) by [The Yemen (Sanctions) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1278)](https://www.legislation.gov.uk/uksi/2020/1278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2), [66(3)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/66/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

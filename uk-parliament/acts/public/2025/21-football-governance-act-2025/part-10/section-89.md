@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Information offences[^key-5c6b6d141158b91506b3e51d4c1180ca][^key-3b158052b1d6a0fc903bb669c86e2889]
+## 89. Information offences[^c-5c6b6d141158b91506b3e51d4c1180ca][^c-3b158052b1d6a0fc903bb669c86e2889]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ Supplementary
 
 ## Annotations
 
-[^key-5c6b6d141158b91506b3e51d4c1180ca]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/21/section/89) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-5c6b6d141158b91506b3e51d4c1180ca]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/21/section/89) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-3b158052b1d6a0fc903bb669c86e2889]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/21/section/89) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/iii)
+[^c-3b158052b1d6a0fc903bb669c86e2889]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/21/section/89) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/iii)

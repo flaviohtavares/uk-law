@@ -65,11 +65,11 @@ Section 82.
 
 **7.** (1) In each of sections 3(7), 7(6), 8(6) and 9(9) of the [^c10569591]Criminal Procedure and Investigations Act 1996 (exceptions for interceptions from obligations to make disclosures to the defence), for paragraphs (a) and (b) there shall be substituted “ it is material the disclosure of which is prohibited by section 17 of the Regulation of Investigatory Powers Act 2000. ”
 
-(2)[^key-f8abaf70ac0298093c6ed35b10deef97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f8abaf70ac0298093c6ed35b10deef97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Police Act 1997 (c. 50)
 
-**8.** (1)[^key-24dcfce96342017430036aa3da760930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.** (1)[^c-24dcfce96342017430036aa3da760930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 93(3) of that Act (persons who may make an application to an authorising officer within section 93(5))—
 
@@ -116,9 +116,9 @@ Section 82.
 
 (9) In section 105 of that Act (appeals by authorising officers: supplementary), in subsection (1)(a), the word “and” shall be inserted at the end of sub-paragraph (i), and sub-paragraph (iii) and the word “and” immediately preceding it shall be omitted.
 
-(10)[^key-6844a15c789e3f0e3e0249fc3dd405a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-6844a15c789e3f0e3e0249fc3dd405a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-6844a15c789e3f0e3e0249fc3dd405a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-6844a15c789e3f0e3e0249fc3dd405a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In section 108(1) of that Act after “In this Part—” there shall be inserted—
 
@@ -134,7 +134,7 @@ Section 82.
 
 ### The Northern Ireland Act 1998 (c. 47)
 
-**9.**[^key-87269fc2d66f1fde03462c9a2053fa11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-87269fc2d66f1fde03462c9a2053fa11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Electronic Communications Act 2000 (c. 7)
 
@@ -176,17 +176,17 @@ Section 82.
 
 [^c10569591]: Marginal citation: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 
-[^key-f8abaf70ac0298093c6ed35b10deef97]: Textual amendment: [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/7/2) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-f8abaf70ac0298093c6ed35b10deef97]: Textual amendment: [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/7/2) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-24dcfce96342017430036aa3da760930]: Textual amendment: [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/8/1) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-24dcfce96342017430036aa3da760930]: Textual amendment: [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/8/1) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
 [^c19923061]: Textual amendment: Sch. 4 para. 8(4)(c) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(hh)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/hh) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
 [^c19923071]: Textual amendment: Sch. 4 para. 8(5) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(hh)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/hh) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-6844a15c789e3f0e3e0249fc3dd405a5]: Textual amendment: [Sch. 4 para. 8(10)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/8/10)[(11)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/8/11) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-6844a15c789e3f0e3e0249fc3dd405a5]: Textual amendment: [Sch. 4 para. 8(10)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/8/10)[(11)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/8/11) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-87269fc2d66f1fde03462c9a2053fa11]: Textual amendment: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/9) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-87269fc2d66f1fde03462c9a2053fa11]: Textual amendment: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/9) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
 [^c10569631]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. The non-schools education budget[^key-14db08ccd587a87fe75ad837d4810496]
+## 4. The non-schools education budget[^c-14db08ccd587a87fe75ad837d4810496]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14db08ccd587a87fe75ad837d4810496]: Commencement: Reg. 4 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-14db08ccd587a87fe75ad837d4810496]: Commencement: Reg. 4 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

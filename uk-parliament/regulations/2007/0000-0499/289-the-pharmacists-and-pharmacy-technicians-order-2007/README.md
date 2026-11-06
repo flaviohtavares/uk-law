@@ -35,7 +35,7 @@ HEALTH CARE AND ASSOCIATED PROFESSIONS
 
 PHARMACISTS
 
-The Pharmacists and Pharmacy Technicians Order 2007 (revoked)[^key-44845bc8703bf4e52045263f17d0cd1c]
+The Pharmacists and Pharmacy Technicians Order 2007 (revoked)[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 Made
 
@@ -49,11 +49,11 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-44845bc8703bf4e52045263f17d0cd1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44845bc8703bf4e52045263f17d0cd1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Preliminary[^key-44845bc8703bf4e52045263f17d0cd1c]
+### PART 1 — Preliminary[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 *Extent: E+W+S*
 
@@ -69,7 +69,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 8 — Remuneration and allowances of Council members, committee members and specialist advisers](part-1/section-8.md)
 - [Section 9 — Appointment etc. of the Registrar and any Deputy Registrar](part-1/section-9.md)
 
-### PART 2 — Registration of pharmacists[^key-44845bc8703bf4e52045263f17d0cd1c]
+### PART 2 — Registration of pharmacists[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 *Extent: E+W+S*
 
@@ -87,7 +87,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 19 — Relationship between registration in the Register of Pharmacists and membership of the Society](part-2/section-19.md)
 - [Section 20 — Offences relating to the Register of Pharmacists](part-2/section-20.md)
 
-### PART 3 — Registration of pharmacy technicians[^key-44845bc8703bf4e52045263f17d0cd1c]
+### PART 3 — Registration of pharmacy technicians[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 *Extent: E+W*
 
@@ -103,7 +103,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 28 — Form, manner and content of applications for registration in the Register of Pharmacy Technicians or retention in that register](part-3/section-28.md)
 - [Section 29 — Offences relating to the Register of Pharmacy Technicians](part-3/section-29.md)
 
-### PART 4 — Matters common to both of the Society’s registers[^key-44845bc8703bf4e52045263f17d0cd1c]
+### PART 4 — Matters common to both of the Society’s registers[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 *Extent: E+W+S*
 
@@ -125,7 +125,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 43 — Appeals to the Registration Appeals Committee](part-4/section-43.md)
 - [Section 44 — Appeals from the Registration Appeals Committee](part-4/section-44.md)
 
-### PART 5 — Fitness to practise[^key-44845bc8703bf4e52045263f17d0cd1c]
+### PART 5 — Fitness to practise[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 *Extent: E+W+S*
 
@@ -146,7 +146,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 57 — The taking effect of directions in respect of appealable fitness to practise decisions](part-5/section-57.md)
 - [Section 58 — Interim measures pending a direction taking effect](part-5/section-58.md)
 
-### PART 6 — Proceedings[^key-44845bc8703bf4e52045263f17d0cd1c]
+### PART 6 — Proceedings[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 *Extent: E+W+S*
 
@@ -157,7 +157,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 61 — Legal advisers](part-6/section-61.md)
 - [Section 62 — Clinical and other specialist advisers](part-6/section-62.md)
 
-### PART 7 — Miscellaneous[^key-44845bc8703bf4e52045263f17d0cd1c]
+### PART 7 — Miscellaneous[^c-44845bc8703bf4e52045263f17d0cd1c]
 
 *Extent: E+W+S*
 
@@ -178,16 +178,16 @@ The Queen’s Most Excellent Majesty in Council
 
 **No longer in force.**
 
-[^key-44845bc8703bf4e52045263f17d0cd1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44845bc8703bf4e52045263f17d0cd1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-44845bc8703bf4e52045263f17d0cd1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44845bc8703bf4e52045263f17d0cd1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44845bc8703bf4e52045263f17d0cd1c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/289) revoked (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 58](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/58) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-44845bc8703bf4e52045263f17d0cd1c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/289) revoked (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 58](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/58) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Wrongful disclosure of protected taxpayer information[^key-135bb25335f2c4c90019db61f8262e77]
+## 19. Wrongful disclosure of protected taxpayer information[^c-135bb25335f2c4c90019db61f8262e77]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-135bb25335f2c4c90019db61f8262e77]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/16/section/19) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-135bb25335f2c4c90019db61f8262e77]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/16/section/19) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

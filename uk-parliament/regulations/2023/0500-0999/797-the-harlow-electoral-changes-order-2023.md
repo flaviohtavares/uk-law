@@ -44,7 +44,7 @@ A draft of the instrument has been laid before each House of Parliament and a pe
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-7ca31121debd014fd66a5ddde9754246]
+## 1. Citation, commencement, extent and application[^c-7ca31121debd014fd66a5ddde9754246]
 
 (1) This Order may be cited as the Harlow (Electoral Changes) Order 2023.
 
@@ -57,13 +57,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-b95cc0e7e1714c6e84cc8f18eb566c24]
+## 2. Interpretation[^c-b95cc0e7e1714c6e84cc8f18eb566c24]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Harlow (Electoral Changes) Order 2023”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Wards of the district of Harlow and number of councillors[^key-740c49c21495a7cdc03a5861c0b5dad1]
+## 3. Wards of the district of Harlow and number of councillors[^c-740c49c21495a7cdc03a5861c0b5dad1]
 
 (1) The existing wards of the district of Harlow are abolished.
 
@@ -73,7 +73,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each ward is three.
 
-## 4. Elections of the district of Harlow[^key-ec70df400017d43136e52281c7bb030b]
+## 4. Elections of the district of Harlow[^c-ec70df400017d43136e52281c7bb030b]
 
 (1) Elections of all councillors for each ward of the district of Harlow are to be held simultaneously on the ordinary day of election of councillors in England in 2024.
 
@@ -112,27 +112,27 @@ Local Government Boundary Commission for England
 
 Article 3
 
-**1.**[^key-e7d180100fe4dbaa002f84f4ceac7ced] Bush Fair
+**1.**[^c-e7d180100fe4dbaa002f84f4ceac7ced] Bush Fair
 
-**2.**[^key-21b1e74dae4f36ddcfc0c1b35f627091] Church Langley North & Newhall
+**2.**[^c-21b1e74dae4f36ddcfc0c1b35f627091] Church Langley North & Newhall
 
-**3.**[^key-b12a97a5e2dd71dac62a53692637d699] Church Langley South & Potter Street
+**3.**[^c-b12a97a5e2dd71dac62a53692637d699] Church Langley South & Potter Street
 
-**4.**[^key-c52e01e69c112cd31e1be3d2c6804d4a] Great Parndon
+**4.**[^c-c52e01e69c112cd31e1be3d2c6804d4a] Great Parndon
 
-**5.**[^key-578b628df42f1eeff07d1925feb071f7] Latton Bush & Stewards
+**5.**[^c-578b628df42f1eeff07d1925feb071f7] Latton Bush & Stewards
 
-**6.**[^key-1ba1819abbe1e2f0c28ec435e6a4fd70] Little Parndon & Town Centre
+**6.**[^c-1ba1819abbe1e2f0c28ec435e6a4fd70] Little Parndon & Town Centre
 
-**7.**[^key-3a93909aff3a0de58710c7c1141239e4] Mark Hall
+**7.**[^c-3a93909aff3a0de58710c7c1141239e4] Mark Hall
 
-**8.**[^key-bba2e7d521ea6aa8cd383f1b359c0719] Netteswell
+**8.**[^c-bba2e7d521ea6aa8cd383f1b359c0719] Netteswell
 
-**9.**[^key-d76e5e3dd98ae77f660cff12c7d21a98] Old Harlow
+**9.**[^c-d76e5e3dd98ae77f660cff12c7d21a98] Old Harlow
 
-**10.**[^key-b9942ddc91a4a8e8fefcafaf21dd4c0a] Passmores
+**10.**[^c-b9942ddc91a4a8e8fefcafaf21dd4c0a] Passmores
 
-**11.**[^key-2c2e76cc06e166732c3708a72a170b26] Sumners & Kingsmoor
+**11.**[^c-2c2e76cc06e166732c3708a72a170b26] Sumners & Kingsmoor
 
 EXPLANATORY NOTE
 
@@ -158,36 +158,36 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/harlow.
 
-[^key-7ca31121debd014fd66a5ddde9754246]: Commencement: Art. 1 in force at 13.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/797/article/1/2)
+[^c-7ca31121debd014fd66a5ddde9754246]: Commencement: Art. 1 in force at 13.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/797/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-b95cc0e7e1714c6e84cc8f18eb566c24]: Commencement: Art. 2 in force at 13.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/797/article/1/2)
+[^c-b95cc0e7e1714c6e84cc8f18eb566c24]: Commencement: Art. 2 in force at 13.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/797/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/harlow.
 
-[^key-740c49c21495a7cdc03a5861c0b5dad1]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/797/article/3) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-740c49c21495a7cdc03a5861c0b5dad1]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/797/article/3) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-ec70df400017d43136e52281c7bb030b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/797/article/4) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-ec70df400017d43136e52281c7bb030b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/797/article/4) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-e7d180100fe4dbaa002f84f4ceac7ced]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/1) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-e7d180100fe4dbaa002f84f4ceac7ced]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/1) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-21b1e74dae4f36ddcfc0c1b35f627091]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/2) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-21b1e74dae4f36ddcfc0c1b35f627091]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/2) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-b12a97a5e2dd71dac62a53692637d699]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/3) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-b12a97a5e2dd71dac62a53692637d699]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/3) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-c52e01e69c112cd31e1be3d2c6804d4a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/4) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-c52e01e69c112cd31e1be3d2c6804d4a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/4) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-578b628df42f1eeff07d1925feb071f7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/5) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-578b628df42f1eeff07d1925feb071f7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/5) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-1ba1819abbe1e2f0c28ec435e6a4fd70]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/6) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-1ba1819abbe1e2f0c28ec435e6a4fd70]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/6) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-3a93909aff3a0de58710c7c1141239e4]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/7) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-3a93909aff3a0de58710c7c1141239e4]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/7) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-bba2e7d521ea6aa8cd383f1b359c0719]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/8) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-bba2e7d521ea6aa8cd383f1b359c0719]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/8) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-d76e5e3dd98ae77f660cff12c7d21a98]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/9) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-d76e5e3dd98ae77f660cff12c7d21a98]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/9) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-b9942ddc91a4a8e8fefcafaf21dd4c0a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/10) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-b9942ddc91a4a8e8fefcafaf21dd4c0a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/10) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
 
-[^key-2c2e76cc06e166732c3708a72a170b26]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/11) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)
+[^c-2c2e76cc06e166732c3708a72a170b26]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/797/schedule/paragraph/11) in force at 15.10.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/797/article/1/3)

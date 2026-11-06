@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Security for payments to HMRC[^key-6b51feddbe5ed64b758c90b24bb703e6]
+## 70A. Security for payments to HMRC[^c-6b51feddbe5ed64b758c90b24bb703e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b51feddbe5ed64b758c90b24bb703e6]: Textual amendment: S. 70A inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 82(1)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/82/1/b)
+[^c-6b51feddbe5ed64b758c90b24bb703e6]: Textual amendment: S. 70A inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 82(1)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/82/1/b)

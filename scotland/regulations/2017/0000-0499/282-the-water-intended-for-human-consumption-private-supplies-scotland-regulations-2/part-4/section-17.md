@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Duty of care: substances and materials[^key-7d4ffe97f8195c65b5929f39223210d9]
+## 17. Duty of care: substances and materials[^c-7d4ffe97f8195c65b5929f39223210d9]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A person who, in relation to a supply of water, modifies any part of a private w
 
 ## Annotations
 
-[^key-7d4ffe97f8195c65b5929f39223210d9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/282/regulation/17) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-7d4ffe97f8195c65b5929f39223210d9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/282/regulation/17) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Applications for preliminary consent and effect of preliminary consent[^key-1806d88da3302877f9dcfa73228f6bf8]
+## 18. Applications for preliminary consent and effect of preliminary consent[^c-1806d88da3302877f9dcfa73228f6bf8]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1806d88da3302877f9dcfa73228f6bf8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2020/1073/regulation/18) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-1806d88da3302877f9dcfa73228f6bf8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2020/1073/regulation/18) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.9. Shorthand writer’s charges[^key-9886b142c24f64c05aa25f7a45e27358]
+## 3.11.9. Shorthand writer’s charges[^c-9886b142c24f64c05aa25f7a45e27358]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The shorthand writer’s charges, as approved by the sheriff principal, shall be
 
 ## Annotations
 
-[^key-9886b142c24f64c05aa25f7a45e27358]: Commencement: Rule 3.11.9 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-9886b142c24f64c05aa25f7a45e27358]: Commencement: Rule 3.11.9 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

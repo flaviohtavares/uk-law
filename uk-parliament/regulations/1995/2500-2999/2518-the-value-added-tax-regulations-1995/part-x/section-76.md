@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Interpretation of Part X[^key-34de24ab71c30b276ce40f322cbf0716]
+## 76. Interpretation of Part X[^c-34de24ab71c30b276ce40f322cbf0716]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34de24ab71c30b276ce40f322cbf0716]: Textual amendment: Pt. 10 revoked (1.6.1996) by [The Value Added Tax (Trading Stamps) Regulations 1995 (S.I. 1995/3043)](https://www.legislation.gov.uk/uksi/1995/3043), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3043/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/3043/regulation/2)
+[^c-34de24ab71c30b276ce40f322cbf0716]: Textual amendment: Pt. 10 revoked (1.6.1996) by [The Value Added Tax (Trading Stamps) Regulations 1995 (S.I. 1995/3043)](https://www.legislation.gov.uk/uksi/1995/3043), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3043/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/3043/regulation/2)

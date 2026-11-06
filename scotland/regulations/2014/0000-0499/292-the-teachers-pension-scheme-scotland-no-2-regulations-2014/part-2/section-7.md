@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Scheme manager[^key-4faf355a39ac59c5aff7c84d1d20aaec]
+## 7. Scheme manager[^c-4faf355a39ac59c5aff7c84d1d20aaec]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4faf355a39ac59c5aff7c84d1d20aaec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/292/regulation/7) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-4faf355a39ac59c5aff7c84d1d20aaec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/292/regulation/7) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)

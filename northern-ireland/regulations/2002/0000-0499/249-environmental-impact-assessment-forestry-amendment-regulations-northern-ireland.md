@@ -31,7 +31,7 @@ summary: ''
 
 FORESTRY
 
-Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-1d43cf81cc702845fb3bc746b90acbc5]
+Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-1d43cf81cc702845fb3bc746b90acbc5]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 27th September 2002
 
-[^key-1d43cf81cc702845fb3bc746b90acbc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d43cf81cc702845fb3bc746b90acbc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1d43cf81cc702845fb3bc746b90acbc5]
+## 1. Citation and commencement[^c-1d43cf81cc702845fb3bc746b90acbc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1d43cf81cc702845fb3bc746b90acbc5]
+## 2. Interpretation[^c-1d43cf81cc702845fb3bc746b90acbc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-1d43cf81cc702845fb3bc746b90acbc5]
+## 3. Amendment of the principal Regulations[^c-1d43cf81cc702845fb3bc746b90acbc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d43cf81cc702845fb3bc746b90acbc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d43cf81cc702845fb3bc746b90acbc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d43cf81cc702845fb3bc746b90acbc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d43cf81cc702845fb3bc746b90acbc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d43cf81cc702845fb3bc746b90acbc5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/249) revoked (6.9.2007) by [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/355)](https://www.legislation.gov.uk/nisr/2007/355), [regs. 1](https://www.legislation.gov.uk/nisr/2007/355/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/355/regulation/3)
+[^c-1d43cf81cc702845fb3bc746b90acbc5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/249) revoked (6.9.2007) by [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/355)](https://www.legislation.gov.uk/nisr/2007/355), [regs. 1](https://www.legislation.gov.uk/nisr/2007/355/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/355/regulation/3)

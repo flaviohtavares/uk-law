@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Restrictions on giving further landlord's notices under periodic standard contract[^key-39c2e457a25d76ea4d8ce86cba9945e5]
+## 7. Restrictions on giving further landlord's notices under periodic standard contract[^c-39c2e457a25d76ea4d8ce86cba9945e5]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ For section 177 of the 2016 Act (restrictions on giving notice under section 173
 
 ## Annotations
 
-[^key-39c2e457a25d76ea4d8ce86cba9945e5]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2021/3/section/7) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-39c2e457a25d76ea4d8ce86cba9945e5]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2021/3/section/7) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

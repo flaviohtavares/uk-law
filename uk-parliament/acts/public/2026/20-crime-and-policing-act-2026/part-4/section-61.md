@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Special measures for witnesses[^key-41ff8c4e155a77723d747992f5efe307]
+## 61. Special measures for witnesses[^c-41ff8c4e155a77723d747992f5efe307]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the omission of sections 17(4) to (7), 21(4C)(e), 22A, 27(10) and 32 of that Act (which make provision appropriate only in the context of criminal proceedings), and
 - (b) any other necessary modifications.
 
-(2)[^key-5f75c347cb9f63211bdc804803777d39] Rules of court made under or for the purposes of Chapter 1 of Part 2 of that Act apply to relevant proceedings under this Chapter—
+(2)[^c-5f75c347cb9f63211bdc804803777d39] Rules of court made under or for the purposes of Chapter 1 of Part 2 of that Act apply to relevant proceedings under this Chapter—
 
 - (a) to the extent provided by rules of court, and
 - (b) subject to any modifications provided by rules of court.
@@ -37,10 +37,10 @@ summary: ''
 
 Sections 49 and 51 of that Act (offences) apply accordingly.
 
-(4)[^key-5f75c347cb9f63211bdc804803777d39] In this section “**relevant proceedings under this Chapter**” means any proceedings under this Chapter except proceedings relating to an offence under section 48, 59 or 60.
+(4)[^c-5f75c347cb9f63211bdc804803777d39] In this section “**relevant proceedings under this Chapter**” means any proceedings under this Chapter except proceedings relating to an offence under section 48, 59 or 60.
 
 ## Annotations
 
-[^key-41ff8c4e155a77723d747992f5efe307]: Commencement: S. 61 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-41ff8c4e155a77723d747992f5efe307]: Commencement: S. 61 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5f75c347cb9f63211bdc804803777d39]: Commencement: [S. 61(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/61/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/61/4) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/c)
+[^c-5f75c347cb9f63211bdc804803777d39]: Commencement: [S. 61(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/61/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/61/4) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/c)

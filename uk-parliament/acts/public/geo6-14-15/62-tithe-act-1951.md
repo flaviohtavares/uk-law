@@ -76,7 +76,7 @@ that rentcharge shall be deemed for all the purposes of the principal Act to hav
 
 (4) The preceding provisions of this section shall have effect in substitution for subsection (4) of section thirty-nine, subsection (2) of section forty-two, and section forty-three, of the principal Act.
 
-### 8. Reports of proceedings of the Commission.[^key-63b7f98023b550fb3ba9ff7b3d80b1b5]
+### 8. Reports of proceedings of the Commission.[^c-63b7f98023b550fb3ba9ff7b3d80b1b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,23 +84,23 @@ that rentcharge shall be deemed for all the purposes of the principal Act to hav
 
 ### 10. Minor amendments, and repeals.
 
-(1)[^key-60d778f62da7c42f3a555d4390989ea7][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-60d778f62da7c42f3a555d4390989ea7][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-60d778f62da7c42f3a555d4390989ea7][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-60d778f62da7c42f3a555d4390989ea7][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-60d778f62da7c42f3a555d4390989ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-60d778f62da7c42f3a555d4390989ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In so far as they concern annuities charged on land for the redemption of tithe rentcharge or of corn rents, rentcharges or money payments redeemed under the Tithe Acts, 1836 to 1936, the functions of the Minister under section one of the Tithe [^c601723]Annuities Apportionment Act, 1921, and under sections one hundred and ninety-one and one hundred and ninety-two of the [^c601724]Law of Property Act, 1925, are hereby transferred to the Commission, who may prescribe the procedure to be followed in connection with the exercise of those functions and the manner in which costs are to be borne by the respective parties to proceedings in connection therewith, and such reasonable fees as they may with the approval of the Treasury prescribe shall be payable to the Commission in connection therewith.
 
-(5) Instruments of apportionment (which by subsection (3) of section six of the principal Act were required to be placed at the disposal of the Commission by the Minister) shall be in the custody of the Commission[^key-728c4150af059e4ea2786af9099f2100]....
+(5) Instruments of apportionment (which by subsection (3) of section six of the principal Act were required to be placed at the disposal of the Commission by the Minister) shall be in the custody of the Commission[^c-728c4150af059e4ea2786af9099f2100]....
 
 (6)[^c601725] The following paragraph shall be substituted for paragraph (c) of subsection (1) of section ten of the principal Act (which specifies the annual value of land as ascertained for the purposes of income tax under Schedule B as a matter to which the Commission are to have regard in apportioning an annuity), that is to say,—
 
 > - (c) in the case of an annuity charged in respect of agricultural land, to the annual value of the land or any part thereof, which shall be taken to be the annual rent which a tenant might reasonably be expected to pay therefor.
 
-(7)[^key-1d85d1f7e0eac4106ca317aeb668b3d8][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-1d85d1f7e0eac4106ca317aeb668b3d8][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8b4a04c05eb9b4fc73de85513f758f30][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8b4a04c05eb9b4fc73de85513f758f30][^c601716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c601728]
 
@@ -137,13 +137,13 @@ that rentcharge shall be deemed for all the purposes of the principal Act to hav
 
 (2) This Act shall be construed as one with the principal Act, and may be cited together with that Act as the Tithe [^c601730]Acts, 1936 [^c601731] and 1951.
 
-(3)[^key-f2e546ec0b5f65fe40376199cc20dbad][^c601732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f2e546ec0b5f65fe40376199cc20dbad][^c601732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0326d2728be4f3d21cb9d10c33b3be58][^c601733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0326d2728be4f3d21cb9d10c33b3be58][^c601733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## FIRST SCHEDULE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c601734]
 
-## SECOND SCHEDULE — Enactments Repealed[^key-981282cb1bb58310681bdf000f85cf22]
+## SECOND SCHEDULE — Enactments Repealed[^c-981282cb1bb58310681bdf000f85cf22]
 
 **No longer in force.**
 
@@ -169,11 +169,11 @@ Section 12.
 
 [^c601711]: Modification: [S. 7(3)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/7/3) amended by [S.I. 1981/232](https://www.legislation.gov.uk/uksi/1981/232), [art. 3(2)](https://www.legislation.gov.uk/uksi/1981/232/article/3/2)(*b*)
 
-[^key-63b7f98023b550fb3ba9ff7b3d80b1b5]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-63b7f98023b550fb3ba9ff7b3d80b1b5]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c601715]: Textual amendment: [S.9](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/9) repealed by [Finance Act 1963 (c. 25)](https://www.legislation.gov.uk/ukpga/1963/25), [Sch. 13 Pt. IV](https://www.legislation.gov.uk/ukpga/1963/25/schedule/13/part/IV)
 
-[^key-60d778f62da7c42f3a555d4390989ea7]: Textual amendment: [S. 10(1)-(3)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-60d778f62da7c42f3a555d4390989ea7]: Textual amendment: [S. 10(1)-(3)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c601716]: Modification: S. 10(1)(2)(7)(8) repealed (prosp.) by [Corn Rents Act 1963 (c. 14)](https://www.legislation.gov.uk/ukpga/1963/14), [s. 3(4)](https://www.legislation.gov.uk/ukpga/1963/14/section/3/4), [Sch.](https://www.legislation.gov.uk/ukpga/1963/14/schedule)
 
@@ -181,13 +181,13 @@ Section 12.
 
 [^c601724]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-728c4150af059e4ea2786af9099f2100]: Textual amendment: Words in [s. 10(5)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-728c4150af059e4ea2786af9099f2100]: Textual amendment: Words in [s. 10(5)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c601725]: Modification: The text of ss. 10(6), 12(3), Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-1d85d1f7e0eac4106ca317aeb668b3d8]: Textual amendment: [S. 10(7)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-1d85d1f7e0eac4106ca317aeb668b3d8]: Textual amendment: [S. 10(7)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
-[^key-8b4a04c05eb9b4fc73de85513f758f30]: Textual amendment: [S. 10(8)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-8b4a04c05eb9b4fc73de85513f758f30]: Textual amendment: [S. 10(8)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/10/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c601728]: Textual amendment: Ss. 1(1)–(5)(10), 2–5, 10(9), Sch. 1 repealed by [Finance Act 1977 (c. 36, SIF 98:5)](https://www.legislation.gov.uk/ukpga/1977/36), [s. 59(5)](https://www.legislation.gov.uk/ukpga/1977/36/section/59/5), [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1977/36/schedule/9/part/V)
 
@@ -197,14 +197,14 @@ Section 12.
 
 [^c601731]: Marginal citation: [1951 c. 62](https://www.legislation.gov.uk/ukpga/1951/62).
 
-[^key-f2e546ec0b5f65fe40376199cc20dbad]: Textual amendment: [S. 12(3)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/12/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-f2e546ec0b5f65fe40376199cc20dbad]: Textual amendment: [S. 12(3)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/12/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c601732]: Modification: The text of ss. 10(6), 12(3), Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-0326d2728be4f3d21cb9d10c33b3be58]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/12/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-0326d2728be4f3d21cb9d10c33b3be58]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/12/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c601733]: Modification: S. 12(4) repealed (prosp.) by [Corn Rents Act 1963 (c. 14)](https://www.legislation.gov.uk/ukpga/1963/14), [s. 3(4)](https://www.legislation.gov.uk/ukpga/1963/14/section/3/4), [Sch.](https://www.legislation.gov.uk/ukpga/1963/14/schedule)
 
 [^c601734]: Textual amendment: [Ss. 1(1)–(5)](https://www.legislation.gov.uk/ukpga/Geo6/14-15/62/section/1/1)(10), 2–5, 10(9), Sch. 1 repealed by [Finance Act 1977 (c. 36, SIF 98:5)](https://www.legislation.gov.uk/ukpga/1977/36), [s. 59(5)](https://www.legislation.gov.uk/ukpga/1977/36/section/59/5), [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1977/36/schedule/9/part/V)
 
-[^key-981282cb1bb58310681bdf000f85cf22]: Textual amendment: Sch. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-981282cb1bb58310681bdf000f85cf22]: Textual amendment: Sch. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3

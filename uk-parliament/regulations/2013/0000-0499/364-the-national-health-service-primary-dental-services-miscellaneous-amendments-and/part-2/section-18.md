@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Amendment of Schedule 1[^key-d421da5a161518d802f2f4148e57da16]
+## 18. Amendment of Schedule 1[^c-d421da5a161518d802f2f4148e57da16]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d421da5a161518d802f2f4148e57da16]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/364/regulation/18) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-d421da5a161518d802f2f4148e57da16]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/364/regulation/18) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

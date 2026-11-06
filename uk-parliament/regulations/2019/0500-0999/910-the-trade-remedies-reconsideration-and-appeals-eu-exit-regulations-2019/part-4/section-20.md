@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Modifications to Part 1[^key-5db301a3fc4a81b0d1c6618c14be0078]
+## 20. Modifications to Part 1[^c-5db301a3fc4a81b0d1c6618c14be0078]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ Regulation 2 (interpretation) has effect as if—
 
 ## Annotations
 
-[^key-5db301a3fc4a81b0d1c6618c14be0078]: Commencement: Reg. 20 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-5db301a3fc4a81b0d1c6618c14be0078]: Commencement: Reg. 20 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
 
 [^c23751621]: Marginal citation: [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429).
 

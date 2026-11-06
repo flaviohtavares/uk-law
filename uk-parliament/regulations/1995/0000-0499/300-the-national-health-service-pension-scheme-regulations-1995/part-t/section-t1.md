@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## T1. Claims for benefits[^key-ffb5291181ba548e7de6d6f4f9d5b935]
+## T1. Claims for benefits[^c-ffb5291181ba548e7de6d6f4f9d5b935]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ as the Secretary of State may from time to time require for the purposes of thes
 
 ## Annotations
 
-[^key-ffb5291181ba548e7de6d6f4f9d5b935]: Textual amendment: [Reg. T1](https://www.legislation.gov.uk/uksi/1995/300/regulation/T1) substituted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2008/2263/regulation/18) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-ffb5291181ba548e7de6d6f4f9d5b935]: Textual amendment: [Reg. T1](https://www.legislation.gov.uk/uksi/1995/300/regulation/T1) substituted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2008/2263/regulation/18) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))

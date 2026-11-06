@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Notification of assistance from Secretary of State for freight services[^key-2fdfc983a3caf8ea0df080b3b62a80de]
+## 7. Notification of assistance from Secretary of State for freight services[^c-2fdfc983a3caf8ea0df080b3b62a80de]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 (3) The Secretary of State must send a copy of the scheme or determination, or (as the case may be) of the scheme or determination as modified—
 
 - (a) to the Scottish Ministers; and
-- (b) to the Welsh Ministers[^key-eab6b5f97826d3911e74e859c1912287].
+- (b) to the Welsh Ministers[^c-eab6b5f97826d3911e74e859c1912287].
 
 (4) In this section—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fdfc983a3caf8ea0df080b3b62a80de]: Commencement: S. 7 in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-2fdfc983a3caf8ea0df080b3b62a80de]: Commencement: S. 7 in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-eab6b5f97826d3911e74e859c1912287]: Textual amendment: Words in [s. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2005/14/section/7/3/b) substituted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(x)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/x), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/37)
+[^c-eab6b5f97826d3911e74e859c1912287]: Textual amendment: Words in [s. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2005/14/section/7/3/b) substituted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(x)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/x), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/37)

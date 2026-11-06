@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 400. Interpretation[^key-6c4faba2834b457dca7a3625d1d678a2]
+## 400. Interpretation[^c-6c4faba2834b457dca7a3625d1d678a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-6c4faba2834b457dca7a3625d1d678a2]: Textual amendment: Ss. 399A, 400 substituted for s. 400 (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(11)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/11), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-6c4faba2834b457dca7a3625d1d678a2]: Textual amendment: Ss. 399A, 400 substituted for s. 400 (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(11)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/11), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Claim for payment of full retirement pension (active members)[^key-66a5202e69a5ffc667d7db6e95da258e]
+## 82. Claim for payment of full retirement pension (active members)[^c-66a5202e69a5ffc667d7db6e95da258e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66a5202e69a5ffc667d7db6e95da258e]: Commencement: Reg. 82 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-66a5202e69a5ffc667d7db6e95da258e]: Commencement: Reg. 82 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

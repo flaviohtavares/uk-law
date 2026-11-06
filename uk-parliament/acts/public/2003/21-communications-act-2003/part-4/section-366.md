@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 366. Powers to enforce TV licensing[^key-2fe5ab2a87fc17b71c40113eded60abe]
+## 366. Powers to enforce TV licensing[^c-2fe5ab2a87fc17b71c40113eded60abe]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ to give the person carrying out the examination or test all such assistance as t
 
 (10) In this section—
 
-- “**interference**”, in relation to wireless telegraphy, has the same meaning as in the Wireless Telegraphy Act 2006[^key-5be0d9756d86a446d99caa6fd551a125] ; and
+- “**interference**”, in relation to wireless telegraphy, has the same meaning as in the Wireless Telegraphy Act 2006[^c-5be0d9756d86a446d99caa6fd551a125] ; and
 - “**vehicle**” includes vessel, aircraft or hovercraft.
 
 (11) In the application of this section to Scotland, the reference in subsection (1) to information on oath shall have effect as a reference to evidence on oath.
@@ -71,6 +71,6 @@ to give the person carrying out the examination or test all such assistance as t
 
 ## Annotations
 
-[^key-2fe5ab2a87fc17b71c40113eded60abe]: Commencement: S. 366 in force at 1.4.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (8.3.2004) by [S.I. 2004/697](https://www.legislation.gov.uk/uksi/2004/697), art. 2(3))
+[^c-2fe5ab2a87fc17b71c40113eded60abe]: Commencement: S. 366 in force at 1.4.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (8.3.2004) by [S.I. 2004/697](https://www.legislation.gov.uk/uksi/2004/697), art. 2(3))
 
-[^key-5be0d9756d86a446d99caa6fd551a125]: Textual amendment: Words in s. 366(10) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/30)
+[^c-5be0d9756d86a446d99caa6fd551a125]: Textual amendment: Words in s. 366(10) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/30)

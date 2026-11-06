@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14A. Review of fundable further and higher education[^key-6e8d1a34237609bcedacb462a4865e1b]
+## 14A. Review of fundable further and higher education[^c-6e8d1a34237609bcedacb462a4865e1b]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e8d1a34237609bcedacb462a4865e1b]: Textual amendment: S. 14A inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 17](https://www.legislation.gov.uk/asp/2013/12/section/17), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))
+[^c-6e8d1a34237609bcedacb462a4865e1b]: Textual amendment: S. 14A inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 17](https://www.legislation.gov.uk/asp/2013/12/section/17), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))

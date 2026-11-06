@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.6. Part 36 offers – defendant’s offer[^key-e9908447b00f164a4af1faf75a60688f]
+## 36.6. Part 36 offers – defendant’s offer[^c-e9908447b00f164a4af1faf75a60688f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
+[^c-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))

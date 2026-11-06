@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Powers of court and receiver[^key-69d487b1624a9e850beeed50bdc6b824]
+## 132. Powers of court and receiver[^c-69d487b1624a9e850beeed50bdc6b824]
 
 *Extent: E+W+S+N.I.*
 
 (1) This article applies to—
 
 - (a) the powers conferred on a court by this Part;
-- (b) the powers of a receiver appointed under article 101 or 113[^key-cee46afe30c53fcf380bec26e2f0f8c7];
-- (c)[^key-3dec8c241f1285bbbfd9d2a25596183a] the powers conferred on appropriate officers by articles 103B to 103E, 103G and 103I to 103K;
+- (b) the powers of a receiver appointed under article 101 or 113[^c-cee46afe30c53fcf380bec26e2f0f8c7];
+- (c)[^c-3dec8c241f1285bbbfd9d2a25596183a] the powers conferred on appropriate officers by articles 103B to 103E, 103G and 103I to 103K;
 - (d) the powers conferred on senior officers by article 103F.
 
 (2) The powers—
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-69d487b1624a9e850beeed50bdc6b824]: Commencement: [Art. 132](https://www.legislation.gov.uk/uksi/2005/3181/article/132) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-69d487b1624a9e850beeed50bdc6b824]: Commencement: [Art. 132](https://www.legislation.gov.uk/uksi/2005/3181/article/132) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-cee46afe30c53fcf380bec26e2f0f8c7]: Textual amendment: Words in [art. 132(1)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/132/1/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(36)](https://www.legislation.gov.uk/uksi/2008/302/article/2/36)
+[^c-cee46afe30c53fcf380bec26e2f0f8c7]: Textual amendment: Words in [art. 132(1)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/132/1/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(36)](https://www.legislation.gov.uk/uksi/2008/302/article/2/36)
 
-[^key-3dec8c241f1285bbbfd9d2a25596183a]: Textual amendment: [Art. 132(1)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/132/1/c)[(d)](https://www.legislation.gov.uk/uksi/2005/3181/article/132/1/d) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [31](https://www.legislation.gov.uk/uksi/2016/662/article/31)
+[^c-3dec8c241f1285bbbfd9d2a25596183a]: Textual amendment: [Art. 132(1)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/132/1/c)[(d)](https://www.legislation.gov.uk/uksi/2005/3181/article/132/1/d) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [31](https://www.legislation.gov.uk/uksi/2016/662/article/31)

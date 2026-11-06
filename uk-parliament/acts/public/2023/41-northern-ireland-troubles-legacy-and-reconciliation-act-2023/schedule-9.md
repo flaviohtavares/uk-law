@@ -22,14 +22,14 @@ summary: ''
 
 Section 43
 
-### 1. Actions that contravene a section 43 prohibition[^key-0b604c6343b847819eeaed3bc75897d7]
+### 1. Actions that contravene a section 43 prohibition[^c-0b604c6343b847819eeaed3bc75897d7]
 
 In this Schedule a reference to an action that contravenes a section 43 prohibition is a reference to a relevant Troubles-related civil action that—
 
 - (a) is being continued in contravention of the prohibition in section 43(1), or
 - (b) has been brought in contravention of the prohibition in subsection 43(2).
 
-### 2. Right of the Secretary of State to intervene[^key-b0e3634a40e073e9bafccba4d7663445]
+### 2. Right of the Secretary of State to intervene[^c-b0e3634a40e073e9bafccba4d7663445]
 
 (1) This paragraph applies to an action if—
 
@@ -44,7 +44,7 @@ In this Schedule a reference to an action that contravenes a section 43 prohibit
 
 (5) A person who has been made a party to the action as the result of a notice under sub-paragraph (3) may take part in proceedings so far as they concern the question of whether it is an action that contravenes a section 43 prohibition.
 
-### 3. Determination by the court[^key-c477e8cc18cd4001ffbe99747de70528]
+### 3. Determination by the court[^c-c477e8cc18cd4001ffbe99747de70528]
 
 (1) This paragraph applies to an action if sufficient evidence is adduced to raise an issue as to whether it is an action that contravenes a section 43 prohibition.
 
@@ -82,7 +82,7 @@ In this Schedule a reference to an action that contravenes a section 43 prohibit
 - (f) section 190 of the Merchant Shipping Act 1995, or
 - (g) any other legislation relating to limitation of actions.
 
-### 4. Appeals etc[^key-727ecc70931fa16827be68a0cdb1ef84]
+### 4. Appeals etc[^c-727ecc70931fa16827be68a0cdb1ef84]
 
 (1) This paragraph applies if, in accordance with paragraph 3, the court determines the question of whether an action contravenes a section 43 prohibition.
 
@@ -90,10 +90,10 @@ In this Schedule a reference to an action that contravenes a section 43 prohibit
 
 ## Annotations
 
-[^key-0b604c6343b847819eeaed3bc75897d7]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/1) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-0b604c6343b847819eeaed3bc75897d7]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/1) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
 
-[^key-b0e3634a40e073e9bafccba4d7663445]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/2) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-b0e3634a40e073e9bafccba4d7663445]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/2) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
 
-[^key-c477e8cc18cd4001ffbe99747de70528]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/3) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-c477e8cc18cd4001ffbe99747de70528]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/3) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
 
-[^key-727ecc70931fa16827be68a0cdb1ef84]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/4) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-727ecc70931fa16827be68a0cdb1ef84]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/9/paragraph/4) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)

@@ -27,7 +27,7 @@ summary: ''
 - (c) details of any restriction imposed under Title VIII;
 - (d) any other available and relevant information about the substance that is necessary to enable appropriate risk management measures to be identified and applied including specific conditions resulting from the application of Section 3 of Annex XI.
 
-2. The information referred to in paragraph 1 shall be communicated free of charge on paper or electronically at the latest at the time of the first delivery of a substance on its own or in a mixture [^key-ba33ac321357d49379d13f5dfd9029cc]... .
+2. The information referred to in paragraph 1 shall be communicated free of charge on paper or electronically at the latest at the time of the first delivery of a substance on its own or in a mixture [^c-ba33ac321357d49379d13f5dfd9029cc]... .
 
 3. Suppliers shall update this information without delay on the following occasions:
 
@@ -43,4 +43,4 @@ In addition, the updated information shall be provided free of charge on paper o
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1272).
 
-[^key-ba33ac321357d49379d13f5dfd9029cc]: Textual amendment: Words in [Art. 32(2)](https://www.legislation.gov.uk/eur/2006/1907/article/32/2) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba33ac321357d49379d13f5dfd9029cc]: Textual amendment: Words in [Art. 32(2)](https://www.legislation.gov.uk/eur/2006/1907/article/32/2) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

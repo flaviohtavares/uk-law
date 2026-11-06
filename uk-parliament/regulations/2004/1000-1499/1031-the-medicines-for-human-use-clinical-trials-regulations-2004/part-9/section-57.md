@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Functions in relation to good clinical practice[^key-f163afac5ac0ce7b2d321c72c97d27c1]
+## 57. Functions in relation to good clinical practice[^c-f163afac5ac0ce7b2d321c72c97d27c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f163afac5ac0ce7b2d321c72c97d27c1]: Textual amendment: Regs. 57, 58 inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/744/regulation/23) (as amended by by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f163afac5ac0ce7b2d321c72c97d27c1]: Textual amendment: Regs. 57, 58 inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/744/regulation/23) (as amended by by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

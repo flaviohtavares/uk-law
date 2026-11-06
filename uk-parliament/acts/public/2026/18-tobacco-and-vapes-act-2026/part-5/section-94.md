@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Retail packaging[^key-8cb951961805b8e2fec2086f5de53555]
+## 94. Retail packaging[^c-8cb951961805b8e2fec2086f5de53555]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cb951961805b8e2fec2086f5de53555]: Commencement: S. 94 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-8cb951961805b8e2fec2086f5de53555]: Commencement: S. 94 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

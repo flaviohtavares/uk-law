@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Validity of medical certificate[^key-c846e97530126c7ef48fe555e4c85a88]
+## 76. Validity of medical certificate[^c-c846e97530126c7ef48fe555e4c85a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c846e97530126c7ef48fe555e4c85a88]: Commencement: Reg. 76 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-c846e97530126c7ef48fe555e4c85a88]: Commencement: Reg. 76 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

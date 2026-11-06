@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Hostels and lodging houses[^key-412bb3b18d4feea237c2c0da828e4abd]
+## 72. Hostels and lodging houses[^c-412bb3b18d4feea237c2c0da828e4abd]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In the case of a capital receipt which is received in respect of the disposal of
 
 ## Annotations
 
-[^key-412bb3b18d4feea237c2c0da828e4abd]: Commencement: Reg. 72 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-412bb3b18d4feea237c2c0da828e4abd]: Commencement: Reg. 72 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

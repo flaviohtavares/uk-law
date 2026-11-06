@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81I. General anti-avoidance rule: commencement and transitional provision[^key-96bda5550910e9fad55651c5bf86620d]
+## 81I. General anti-avoidance rule: commencement and transitional provision[^c-96bda5550910e9fad55651c5bf86620d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96bda5550910e9fad55651c5bf86620d]: Textual amendment: Pt. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-96bda5550910e9fad55651c5bf86620d]: Textual amendment: Pt. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

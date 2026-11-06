@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Estimate of quantum[^key-4c8b003d216c0398ad3fda194bf10981]
+## 49. Estimate of quantum[^c-4c8b003d216c0398ad3fda194bf10981]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c8b003d216c0398ad3fda194bf10981]: Commencement: Rule 49 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-4c8b003d216c0398ad3fda194bf10981]: Commencement: Rule 49 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

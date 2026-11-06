@@ -50,13 +50,13 @@ The Secretary of State and the Department for Communities concur in the making o
 
 These Regulations contain only provision consequential on the making of an instrument under section 141 of the Social Security Administration Act 1992[^f00003] and section 129 of the Social Security Administration (Northern Ireland) Act 1992[^f00004].
 
-## 1. Citation and commencement[^key-2d4904b1e4e7e04bf6811f59c5c8f931]
+## 1. Citation and commencement[^c-2d4904b1e4e7e04bf6811f59c5c8f931]
 
 (1) These Regulations may be cited as the Social Security (Contributions) (Re-rating) Consequential Amendment Regulations 2025.
 
 (2) These Regulations come into force on 6th April 2025 immediately after the coming into force of the Social Security (Contributions) (Rates, Limits and Thresholds Amendments, National Insurance Funds Payments and Extension of Veteran's Relief) Regulations 2025[^f00005].
 
-## 2. Amendment to the Social Security (Contributions) Regulations 2001[^key-98c70fc0c722974e4c34223c210641c0]
+## 2. Amendment to the Social Security (Contributions) Regulations 2001[^c-98c70fc0c722974e4c34223c210641c0]
 
 In regulation 125(c) of the Social Security (Contributions) Regulations 2001[^f00006] for “£4.10” substitute “£4.15”.
 
@@ -110,10 +110,10 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00004]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8). Section 129 was amended by paragraph 43 of Schedule 3 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-2d4904b1e4e7e04bf6811f59c5c8f931]: Commencement: Reg. 1 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/318/regulation/1/2)
+[^c-2d4904b1e4e7e04bf6811f59c5c8f931]: Commencement: Reg. 1 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/318/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2025/288](https://www.legislation.gov.uk/uksi/2025/288)
 
-[^key-98c70fc0c722974e4c34223c210641c0]: Commencement: Reg. 2 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/318/regulation/1/2)
+[^c-98c70fc0c722974e4c34223c210641c0]: Commencement: Reg. 2 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/318/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004). Regulation 125(c) was amended by paragraph 33 of Schedule 1 to the NICA 2015, [S.I. 2022/1329](https://www.legislation.gov.uk/uksi/2022/1329) and [S.I. 2024/377](https://www.legislation.gov.uk/uksi/2024/377). The figure in that regulation was last substituted by [S.I. 2023/330](https://www.legislation.gov.uk/uksi/2023/330).

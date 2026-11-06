@@ -36,7 +36,7 @@ Social Care, England
 
 Public Health, England
 
-The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 2) Regulations 2022 (revoked)[^key-0254220f3f4a05be8e6e96caf92ca20b]
+The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 2) Regulations 2022 (revoked)[^c-0254220f3f4a05be8e6e96caf92ca20b]
 
 Made
 
@@ -44,35 +44,35 @@ Made
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-0254220f3f4a05be8e6e96caf92ca20b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0254220f3f4a05be8e6e96caf92ca20b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0254220f3f4a05be8e6e96caf92ca20b]
+## 1. Citation and commencement[^c-0254220f3f4a05be8e6e96caf92ca20b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent and application[^key-0254220f3f4a05be8e6e96caf92ca20b]
+## 2. Extent and application[^c-0254220f3f4a05be8e6e96caf92ca20b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^key-0254220f3f4a05be8e6e96caf92ca20b]
+## 3. Amendment of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^c-0254220f3f4a05be8e6e96caf92ca20b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Further amendment of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^key-0254220f3f4a05be8e6e96caf92ca20b]
+## 4. Further amendment of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^c-0254220f3f4a05be8e6e96caf92ca20b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Review[^key-0254220f3f4a05be8e6e96caf92ca20b]
+## 5. Review[^c-0254220f3f4a05be8e6e96caf92ca20b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0254220f3f4a05be8e6e96caf92ca20b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0254220f3f4a05be8e6e96caf92ca20b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-0254220f3f4a05be8e6e96caf92ca20b]EXPLANATORY NOTE
+[^c-0254220f3f4a05be8e6e96caf92ca20b]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -104,4 +104,4 @@ An Impact Statement setting out the preliminary analysis of the impact of this i
 
 ## Annotations
 
-[^key-0254220f3f4a05be8e6e96caf92ca20b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/15) revoked (15.3.2022) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/206/regulation/3/b)
+[^c-0254220f3f4a05be8e6e96caf92ca20b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/15) revoked (15.3.2022) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/206/regulation/3/b)

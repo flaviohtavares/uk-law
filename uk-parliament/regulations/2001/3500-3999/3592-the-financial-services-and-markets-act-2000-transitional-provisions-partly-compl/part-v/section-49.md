@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Applications for approval[^key-a8380f8b3c6dd73c5b0209a126dffd83]
+## 49. Applications for approval[^c-a8380f8b3c6dd73c5b0209a126dffd83]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8380f8b3c6dd73c5b0209a126dffd83]: Commencement: Art. 49 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-a8380f8b3c6dd73c5b0209a126dffd83]: Commencement: Art. 49 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

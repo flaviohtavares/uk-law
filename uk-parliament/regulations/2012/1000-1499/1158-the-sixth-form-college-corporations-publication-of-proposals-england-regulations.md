@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 33C(3), 33N(2) and (3) and 89(4) of the Further and Higher Education Act 1992[^f00001]:
 
-## 1. Citation, commencement, interpretation and application[^key-2b97a953f9871c7548344146db4319fc]
+## 1. Citation, commencement, interpretation and application[^c-2b97a953f9871c7548344146db4319fc]
 
 (1) These Regulations may be cited as the Sixth Form College Corporations (Publication of Proposals)(England) Regulations 2012 and come into force on 22nd May 2012.
 
@@ -59,13 +59,13 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (3) These Regulations apply in relation to England.
 
-## 2. Revocation and savings[^key-6296fd776f1073c3014ddbf4272c53d3]
+## 2. Revocation and savings[^c-6296fd776f1073c3014ddbf4272c53d3]
 
 (1) The Education (Publication of Proposals)(Sixth Form College Corporations)(England) Regulations 2010[^f00003] are revoked subject to paragraph (2).
 
 (2) The regulations referred to in paragraph (1) shall continue to apply where before 1st April 2012 the responsible local authority has made a proposal to which section 33N of the Act applies.
 
-## 3. Publication of proposals to establish sixth form college corporations and period for considering representations[^key-6d0f2ad6e655a599706b10bf50ec8651]
+## 3. Publication of proposals to establish sixth form college corporations and period for considering representations[^c-6d0f2ad6e655a599706b10bf50ec8651]
 
 (1) For the purposes of sections 33C(3)(a) of the Act, the prescribed time and manner for the publication of the proposal to establish a sixth form college corporation is as set out in paragraphs (3), (4) and (5).
 
@@ -83,7 +83,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (a) the governing body of any institution within the further education sector[^f00004] within the local authority area in which the corporation is proposed to be situated;
 - (b) the governing body or proprietor of any maintained school[^f00005] or Academy[^f00006] which provides full-time education suitable to the requirements of persons over compulsory school age within the local authority area in which the corporation is proposed to be situated;
 - (c) the local authority in whose area the corporation is proposed to be situated;
-- (d)[^key-3461e0480d3935f9a96bda7a41e03c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3461e0480d3935f9a96bda7a41e03c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the Member of Parliament in whose constituency the corporation is situated or is proposed to be situated;
 - (f) any other Member of Parliament whose constituents it appears to the proposer are likely to be affected by the proposal;
 - (g) the Secretary of State; and
@@ -91,7 +91,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (6) For the purposes of section 33C(3)(c) of the Act, the prescribed period during which any person may make representations about the proposal is a period of one month beginning on the day of publication described in paragraph (3).
 
-## 4. Publication of and consultation on proposals for dissolution of sixth form college corporations[^key-e8793f520daa415fe81fc69cd8c86ca0]
+## 4. Publication of and consultation on proposals for dissolution of sixth form college corporations[^c-e8793f520daa415fe81fc69cd8c86ca0]
 
 (1) For the purposes of section 33N(2) of the Act, the corporation must publish the proposal in accordance with paragraphs (2) and (3).
 
@@ -109,7 +109,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (a) the governing body or proprietor of any institution within the further education sector within the local authority area in which the corporation is situated;
 - (b) any maintained school or Academy which provides full-time education suitable to the requirements of persons over compulsory school age within the local authority area in which the corporation is situated;
 - (c) the local authority in whose area the corporation is situated;
-- (d)[^key-e6ccc737e58df979e863172fe556b162] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e6ccc737e58df979e863172fe556b162] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the Member of Parliament in whose constituency the corporation is situated;
 - (f) any other Member of Parliament whose constituents it appears to the corporation are likely to be affected by the proposal;
 - (g) the Secretary of State; and
@@ -133,7 +133,7 @@ Department for Education
 
 Regulations 3 and 4
 
-### 1. Information to be contained in proposals to establish sixth form college corporations[^key-6c5a54edcf360b012ca63edbb0787f23]
+### 1. Information to be contained in proposals to establish sixth form college corporations[^c-6c5a54edcf360b012ca63edbb0787f23]
 
 The information which the proposer must publish is as follows—
 
@@ -145,7 +145,7 @@ The information which the proposer must publish is as follows—
 - (f) a general description of the education to be provided at the institution when it is conducted by a sixth form college corporation, including the age range of the students; and
 - (g) the number of full-time students, the number of part-time students and the total number of students which are forecast for such time as the institution is fully operational.
 
-### 2. Information to be contained in proposals to dissolve sixth form college corporations[^key-18f2f7a657306e3d98b048074a495a44]
+### 2. Information to be contained in proposals to dissolve sixth form college corporations[^c-18f2f7a657306e3d98b048074a495a44]
 
 The information which the corporation must publish is as follows—
 
@@ -184,15 +184,15 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13). Sections 33C and 33N of the Further and Higher Education Act 1992 (“the Act”) were inserted by paragraphs 1 and 3 of Schedule 8 to the Apprenticeships, Skills, Children and Learning Act 2009 (“the 2009 Act”) (c.22) and were amended by paragraphs 1, 11 and 20 of Schedule 12 to the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21). For the definition of “prescribed” see section 579(1) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56). For the definition of “regulations” see section 61 of the Act.
 
-[^key-2b97a953f9871c7548344146db4319fc]: Commencement: Reg. 1 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
+[^c-2b97a953f9871c7548344146db4319fc]: Commencement: Reg. 1 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
 
 [^f00002]: Footnote: For the definition of “pupil” see section 3(1) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-6296fd776f1073c3014ddbf4272c53d3]: Commencement: Reg. 2 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
+[^c-6296fd776f1073c3014ddbf4272c53d3]: Commencement: Reg. 2 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2010/2609](https://www.legislation.gov.uk/uksi/2010/2609).
 
-[^key-6d0f2ad6e655a599706b10bf50ec8651]: Commencement: Reg. 3 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
+[^c-6d0f2ad6e655a599706b10bf50ec8651]: Commencement: Reg. 3 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
 
 [^f00004]: Footnote: For the definition of “institution within the further education sector” see section 91(3) of the Act 2002.
 
@@ -200,12 +200,12 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00006]: Footnote: For the definition of an “Academy” see section 1 of the Academies Act [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32) as amended by sections 52 and 53 of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-3461e0480d3935f9a96bda7a41e03c0c]: Textual amendment: [Reg. 3(5)(d)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/3/5/d) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 22(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/22/2)
+[^c-3461e0480d3935f9a96bda7a41e03c0c]: Textual amendment: [Reg. 3(5)(d)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/3/5/d) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 22(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/22/2)
 
-[^key-e8793f520daa415fe81fc69cd8c86ca0]: Commencement: Reg. 4 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
+[^c-e8793f520daa415fe81fc69cd8c86ca0]: Commencement: Reg. 4 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
 
-[^key-e6ccc737e58df979e863172fe556b162]: Textual amendment: [Reg. 4(5)(d)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/4/5/d) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/22/3)
+[^c-e6ccc737e58df979e863172fe556b162]: Textual amendment: [Reg. 4(5)(d)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/4/5/d) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/22/3)
 
-[^key-6c5a54edcf360b012ca63edbb0787f23]: Commencement: Sch. para. 1 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
+[^c-6c5a54edcf360b012ca63edbb0787f23]: Commencement: Sch. para. 1 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
 
-[^key-18f2f7a657306e3d98b048074a495a44]: Commencement: Sch. para. 2 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)
+[^c-18f2f7a657306e3d98b048074a495a44]: Commencement: Sch. para. 2 in force at 22.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1)

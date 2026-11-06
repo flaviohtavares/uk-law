@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 316B. Confidentiality[^key-11ef7fc9e595ed317b1b5480d723d09d]
+## 316B. Confidentiality[^c-11ef7fc9e595ed317b1b5480d723d09d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No duty of confidentiality or other restriction on disclosure (however imposed) 
 
 ## Annotations
 
-[^key-11ef7fc9e595ed317b1b5480d723d09d]: Textual amendment: S. 316B inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/16)
+[^c-11ef7fc9e595ed317b1b5480d723d09d]: Textual amendment: S. 316B inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/16)

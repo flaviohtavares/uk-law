@@ -77,7 +77,7 @@ notwithstanding that he is a limited owner of the land.
 
 - (a) as tenant for life or statutory owner within the meaning of the [^c250923]Settled Land Act 1925;
 - (b) as trustees for sale within the meaning of the [^c250924]Law of Property Act 1925;
-- (c) as liferenter [^key-e056d0f39feed2d84424f15a8a397754]... in possession (in Scotland); and
+- (c) as liferenter [^c-e056d0f39feed2d84424f15a8a397754]... in possession (in Scotland); and
 - (d) as trustees for charities or as commissioners or trustees for ecclesiastical, collegiate or other public purposes.
 
 (5) The [^c250925]Trusts (Scotland) Act 1921 shall have effect as if among the powers conferred on trustees by section 4 of that Act (general powers of trustees) there were included a power to do any of the following acts in relation to the trust estate or any part of it, that is to say—
@@ -118,6 +118,6 @@ notwithstanding that he is a limited owner of the land.
 
 [^c250924]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-e056d0f39feed2d84424f15a8a397754]: Textual amendment: Words in [s. 18(4)(c)](https://www.legislation.gov.uk/ukpga/1979/46/section/18/4/c) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 40(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/40/3), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-e056d0f39feed2d84424f15a8a397754]: Textual amendment: Words in [s. 18(4)(c)](https://www.legislation.gov.uk/ukpga/1979/46/section/18/4/c) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 40(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/40/3), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c250925]: Marginal citation: [1921 c. 58](https://www.legislation.gov.uk/ukpga/1921/58).

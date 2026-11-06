@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Article 77 amended (transitional provisions)[^key-265143a1a876836000b0610248938dc4]
+## 33. Article 77 amended (transitional provisions)[^c-265143a1a876836000b0610248938dc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-265143a1a876836000b0610248938dc4]: Commencement: Art. 33 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-265143a1a876836000b0610248938dc4]: Commencement: Art. 33 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

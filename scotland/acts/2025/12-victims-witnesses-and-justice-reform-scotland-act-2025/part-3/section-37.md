@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Victim notification and right to make representations where offender is a child[^key-21bdc3852c788587dbf7086ed76d8346]
+## 37. Victim notification and right to make representations where offender is a child[^c-21bdc3852c788587dbf7086ed76d8346]
 
 *Extent: S*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21bdc3852c788587dbf7086ed76d8346]: Commencement: S. 37 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-21bdc3852c788587dbf7086ed76d8346]: Commencement: S. 37 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

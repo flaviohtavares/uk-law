@@ -130,19 +130,19 @@ he shall, where a rate affecting those premises is substituted by virtue of this
 
 (3) Schedule 1 to this Act shall have effect in connection with the coming into force of sections 1 and 2 above.
 
-## Part II — Block Grant[^key-8ec705e6d91e29aee88b252c261f7984]
+## Part II — Block Grant[^c-8ec705e6d91e29aee88b252c261f7984]
 
 **No longer in force.**
 
-### 8. Adjustments of distribution of block grant.[^key-8ec705e6d91e29aee88b252c261f7984][^key-8ec705e6d91e29aee88b252c261f7984]
+### 8. Adjustments of distribution of block grant.[^c-8ec705e6d91e29aee88b252c261f7984][^c-8ec705e6d91e29aee88b252c261f7984]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Information for purposes of block grant.[^key-8ec705e6d91e29aee88b252c261f7984][^key-8ec705e6d91e29aee88b252c261f7984]
+### 9. Information for purposes of block grant.[^c-8ec705e6d91e29aee88b252c261f7984][^c-8ec705e6d91e29aee88b252c261f7984]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Block grant for Receiver for the Metropolitan Police District.[^key-8ec705e6d91e29aee88b252c261f7984][^key-8ec705e6d91e29aee88b252c261f7984]
+### 10. Block grant for Receiver for the Metropolitan Police District.[^c-8ec705e6d91e29aee88b252c261f7984][^c-8ec705e6d91e29aee88b252c261f7984]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -359,47 +359,47 @@ he shall, where a rating authority has made a supplementary rate falling within 
 
 **9.** In this Schedule any expression which is also used in Part I of this Act has the same meaning as in that Part.
 
-## SCHEDULE 2 — Block Grant: Receiver for the Metropolitan Police District[^key-cb6c4c79a448e94aef9fa6405abdd594]
+## SCHEDULE 2 — Block Grant: Receiver for the Metropolitan Police District[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
 **No longer in force.**
 
 Section 10.
 
-### Interpretation[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Interpretation[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**1.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Payment of block grant[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Payment of block grant[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**2.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Calculation of block grant[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Calculation of block grant[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**4.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Adjustment of distribution of block grant[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Adjustment of distribution of block grant[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**5.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rate Support Grant Reports[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Rate Support Grant Reports[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**6.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary Reports[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Supplementary Reports[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**7.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Adjustment of block grant total[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Adjustment of block grant total[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**8.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Estimates and calculations[^key-cb6c4c79a448e94aef9fa6405abdd594]
+### Estimates and calculations[^c-cb6c4c79a448e94aef9fa6405abdd594]
 
-**10.**[^key-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-cb6c4c79a448e94aef9fa6405abdd594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3[^c794470]
 
@@ -740,7 +740,7 @@ Section 38.
 
 [^c794019]: Marginal citation: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
 
-[^key-8ec705e6d91e29aee88b252c261f7984]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/32/part/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-8ec705e6d91e29aee88b252c261f7984]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/32/part/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c794046]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1982/32/part/III) (ss. 11–36): certain functions transferred by [S.I. 1989/814](https://www.legislation.gov.uk/uksi/1989/814), [art. 11(b)](https://www.legislation.gov.uk/uksi/1989/814/article/11/b), by [S.I. 1989/1359](https://www.legislation.gov.uk/uksi/1989/1359), [reg. 11(b)](https://www.legislation.gov.uk/uksi/1989/1359/regulation/11/b) and by [S.I. 1989/2470](https://www.legislation.gov.uk/uksi/1989/2470), [art. 12(b)](https://www.legislation.gov.uk/uksi/1989/2470/article/12/b)
 
@@ -856,7 +856,7 @@ Section 38.
 
 [^c794458]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-cb6c4c79a448e94aef9fa6405abdd594]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1982/32/schedule/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-cb6c4c79a448e94aef9fa6405abdd594]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1982/32/schedule/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c794470]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/32/schedule/3) repealed (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/3), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1998/18/schedule/5)
 

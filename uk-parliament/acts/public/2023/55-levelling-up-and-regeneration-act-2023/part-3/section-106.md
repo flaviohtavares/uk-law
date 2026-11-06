@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Street votes[^key-77ae02e2b6de32f26bf7af5c7cc4b675][^key-7e736f6cb74ae24ebd68e0231fe4b0f7]
+## 106. Street votes[^c-77ae02e2b6de32f26bf7af5c7cc4b675][^c-7e736f6cb74ae24ebd68e0231fe4b0f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -291,6 +291,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77ae02e2b6de32f26bf7af5c7cc4b675]: Commencement: S. 106 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-77ae02e2b6de32f26bf7af5c7cc4b675]: Commencement: S. 106 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-7e736f6cb74ae24ebd68e0231fe4b0f7]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/55/section/106) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/d)
+[^c-7e736f6cb74ae24ebd68e0231fe4b0f7]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/55/section/106) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/d)

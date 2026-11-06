@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Power to search container unloaded from ship or aircraft[^key-292189e5ba90774e8f91cc2e479e6ac1]
+## 44. Power to search container unloaded from ship or aircraft[^c-292189e5ba90774e8f91cc2e479e6ac1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-292189e5ba90774e8f91cc2e479e6ac1]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/36/section/44) in force at 28.6.2022, see [s. 87(5)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/f)
+[^c-292189e5ba90774e8f91cc2e479e6ac1]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/36/section/44) in force at 28.6.2022, see [s. 87(5)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/f)

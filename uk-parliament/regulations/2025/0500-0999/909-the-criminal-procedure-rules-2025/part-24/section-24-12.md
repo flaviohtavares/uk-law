@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.12. Procedure where a party is absent[^key-770d04be615c4dc00de766f7d6f9331e]
+## 24.12. Procedure where a party is absent[^c-770d04be615c4dc00de766f7d6f9331e]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-770d04be615c4dc00de766f7d6f9331e]: Commencement: [Rule 24.12](https://www.legislation.gov.uk/uksi/2025/909/rule/24.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-770d04be615c4dc00de766f7d6f9331e]: Commencement: [Rule 24.12](https://www.legislation.gov.uk/uksi/2025/909/rule/24.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00562]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 14 was amended by section 109 of, and paragraph 205 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

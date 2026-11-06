@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Open-ended investment companies[^key-ca04140533fc551c7325d7aa734fcb6c]
+## 90. Open-ended investment companies[^c-ca04140533fc551c7325d7aa734fcb6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 152(6) (power of the Treasury to make regulations in relation to tax 
 
 ## Annotations
 
-[^key-ca04140533fc551c7325d7aa734fcb6c]: Commencement: Art. 90 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-ca04140533fc551c7325d7aa734fcb6c]: Commencement: Art. 90 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

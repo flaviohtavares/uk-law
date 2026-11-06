@@ -44,7 +44,7 @@ summary: ''
 >
 > (7) Failure to comply with subsection (6) above shall not affect the validity of a determination.
 
-(2)[^key-15af8c0275e0c88adbd0c6b90d17ac15] For section 12 of that Act (discounts: special provision for Wales) there is substituted—
+(2)[^c-15af8c0275e0c88adbd0c6b90d17ac15] For section 12 of that Act (discounts: special provision for Wales) there is substituted—
 
 > **12. Discounts: special provision for Wales**
 >
@@ -68,14 +68,14 @@ summary: ''
 >
 > (7) Failure to comply with subsection (6) above shall not affect the validity of a determination.
 
-(3)[^key-15af8c0275e0c88adbd0c6b90d17ac15] Where immediately before the day on which subsection (2) comes into force regulations under section 12(1) of that Act are in force which apply in relation to a financial year beginning on or after that day, the regulations, so far as relating to such a financial year, shall on and after that day have effect as if—
+(3)[^c-15af8c0275e0c88adbd0c6b90d17ac15] Where immediately before the day on which subsection (2) comes into force regulations under section 12(1) of that Act are in force which apply in relation to a financial year beginning on or after that day, the regulations, so far as relating to such a financial year, shall on and after that day have effect as if—
 
 - (a) they were made under section 12(1) of that Act as substituted by this section, and
 - (b) each class of dwellings which they prescribe were prescribed for the purposes of section 12(4) of that Act as so substituted.
 
-(4)[^key-15af8c0275e0c88adbd0c6b90d17ac15] Where immediately before that day a determination under section 12(1) of that Act is in force which applies in relation to a financial year beginning on or after that day, the determination, so far as relating to such a financial year, shall on and after that day have effect as if made under section 12(4) of that Act, as substituted by this section, in relation to the whole of the area of the authority which made the determination.
+(4)[^c-15af8c0275e0c88adbd0c6b90d17ac15] Where immediately before that day a determination under section 12(1) of that Act is in force which applies in relation to a financial year beginning on or after that day, the determination, so far as relating to such a financial year, shall on and after that day have effect as if made under section 12(4) of that Act, as substituted by this section, in relation to the whole of the area of the authority which made the determination.
 
-(5)[^key-15af8c0275e0c88adbd0c6b90d17ac15] In its application by virtue of subsection (4), a determination under section 12(1) of that Act shall have effect—
+(5)[^c-15af8c0275e0c88adbd0c6b90d17ac15] In its application by virtue of subsection (4), a determination under section 12(1) of that Act shall have effect—
 
 - (a) if it provided for section 12(2) of that Act to have effect in substitution for section 11(2)(a) of that Act, as if it provided for the discount under that provision to be twenty-five per cent.;
 - (b) if it provided for section 12(3) of that Act to have effect in substitution for section 11(2)(a) of that Act, as if it provided for the discount under that provision not to apply.
@@ -84,4 +84,4 @@ summary: ''
 
 [^c522449]: Commencement: S. 75 partly in force; s. 75(1) in force at 18.11.2003 see [s. 128(2)(c)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/c)
 
-[^key-15af8c0275e0c88adbd0c6b90d17ac15]: Commencement: S. 75(2)-(5) in force W. at 27.11.2003 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-15af8c0275e0c88adbd0c6b90d17ac15]: Commencement: S. 75(2)-(5) in force W. at 27.11.2003 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)

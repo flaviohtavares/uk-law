@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21ZA. Circumstances in which no NIROCs are to be issued in respect of electricity generated from solid or gaseous biomass[^key-1d11398581f48869d227657a46134e08]
+## 21ZA. Circumstances in which no NIROCs are to be issued in respect of electricity generated from solid or gaseous biomass[^c-1d11398581f48869d227657a46134e08]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d11398581f48869d227657a46134e08]: Textual amendment: [Art. 21ZA](https://www.legislation.gov.uk/nisr/2009/154/article/21ZA) inserted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [4](https://www.legislation.gov.uk/nisr/2016/84/article/4) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
+[^c-1d11398581f48869d227657a46134e08]: Textual amendment: [Art. 21ZA](https://www.legislation.gov.uk/nisr/2009/154/article/21ZA) inserted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [4](https://www.legislation.gov.uk/nisr/2016/84/article/4) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))

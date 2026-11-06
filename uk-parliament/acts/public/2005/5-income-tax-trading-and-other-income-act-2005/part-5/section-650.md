@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e3736d783d881b7656778c459cc9b88a] A person has an absolute interest in the whole or part of the residue of an estate for the purposes of this Chapter if—
+(1)[^c-e3736d783d881b7656778c459cc9b88a] A person has an absolute interest in the whole or part of the residue of an estate for the purposes of this Chapter if—
 
 - (a) the capital of the residue or that part is properly payable to the person, or
 - (b) it would be so payable, if the residue had been ascertained.
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3736d783d881b7656778c459cc9b88a]: Modification: S. 650(1) applied (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 952(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/952/6), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e3736d783d881b7656778c459cc9b88a]: Modification: S. 650(1) applied (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 952(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/952/6), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

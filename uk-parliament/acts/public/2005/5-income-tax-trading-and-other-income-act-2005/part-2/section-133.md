@@ -23,8 +23,8 @@ summary: ''
 In this Chapter “**relevant period**”, in relation to a trade, means—
 
 - (a) a period of account of the trade, or
-- (b) if no accounts of the trade are drawn up for a period, [^key-1cdd5e60fdc0b63c821da4ac46e1a6db]... a tax year.
+- (b) if no accounts of the trade are drawn up for a period, [^c-1cdd5e60fdc0b63c821da4ac46e1a6db]... a tax year.
 
 ## Annotations
 
-[^key-1cdd5e60fdc0b63c821da4ac46e1a6db]: Textual amendment: Words in [s. 133(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/133/b) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 12](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/12), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-1cdd5e60fdc0b63c821da4ac46e1a6db]: Textual amendment: Words in [s. 133(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/133/b) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 12](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/12), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

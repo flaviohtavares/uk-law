@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Finality of First-tier Tribunal's decision[^key-b90ae86446807fec279e36541f93096b]
+## 30. Finality of First-tier Tribunal's decision[^c-b90ae86446807fec279e36541f93096b]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b90ae86446807fec279e36541f93096b]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/19/section/30) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-b90ae86446807fec279e36541f93096b]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/19/section/30) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

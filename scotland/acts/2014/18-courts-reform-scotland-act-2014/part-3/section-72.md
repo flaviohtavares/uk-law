@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Simple procedure[^key-2658108ea86d58218228e04a47135e84][^key-b79d476b75bd5ab3de4c3a40542780fa]
+## 72. Simple procedure[^c-2658108ea86d58218228e04a47135e84][^c-b79d476b75bd5ab3de4c3a40542780fa]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 - (c) actions of furthcoming where the value of the arrested fund or subject does not exceed £5,000,
 - (d) actions ad factum praestandum, other than actions in which there is claimed, in addition or as an alternative to a decree ad factum praestandum, a decree for payment of a sum of money exceeding £5,000,
 - (e) proceedings for the recovery of possession of heritable property or moveable property, other than proceedings in which there is claimed, in addition or as an alternative to a decree for such recovery, a decree for payment of a sum of money exceeding £5,000.
-- (f)[^key-cb5d3852cd373f8f5de591cd36958913] proceedings under section 14(1)(b) of the Housing (Scotland) Act 2001 for termination of a tenant’s interest in a tenancy, other than proceedings in which there is claimed, in addition or as an alternative to an order for such termination, a decree for payment of a sum of money exceeding £5,000.
+- (f)[^c-cb5d3852cd373f8f5de591cd36958913] proceedings under section 14(1)(b) of the Housing (Scotland) Act 2001 for termination of a tenant’s interest in a tenancy, other than proceedings in which there is claimed, in addition or as an alternative to an order for such termination, a decree for payment of a sum of money exceeding £5,000.
 
 (4) Subsection (3) is subject to sections 78 (transfer of cases to simple procedure), 80 (transfer of cases from simple procedure) and 83 (transitional provision: summary cause).
 
@@ -59,8 +59,8 @@ are referred to in this Part as a “**simple procedure case**”.
 
 ## Annotations
 
-[^key-2658108ea86d58218228e04a47135e84]: Commencement: S. 72 in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2658108ea86d58218228e04a47135e84]: Commencement: S. 72 in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-b79d476b75bd5ab3de4c3a40542780fa]: Commencement: S. 72 in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))
+[^c-b79d476b75bd5ab3de4c3a40542780fa]: Commencement: S. 72 in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))
 
-[^key-cb5d3852cd373f8f5de591cd36958913]: Textual amendment: S. 72(3)(f) inserted (1.8.2026) by [The Domestic Abuse (Protection) (Scotland) Act 2021 (Consequential and Supplementary Amendments) Regulations 2026 (S.S.I. 2026/133)](https://www.legislation.gov.uk/ssi/2026/133), [regs. 1](https://www.legislation.gov.uk/ssi/2026/133/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/133/regulation/3)
+[^c-cb5d3852cd373f8f5de591cd36958913]: Textual amendment: S. 72(3)(f) inserted (1.8.2026) by [The Domestic Abuse (Protection) (Scotland) Act 2021 (Consequential and Supplementary Amendments) Regulations 2026 (S.S.I. 2026/133)](https://www.legislation.gov.uk/ssi/2026/133), [regs. 1](https://www.legislation.gov.uk/ssi/2026/133/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/133/regulation/3)

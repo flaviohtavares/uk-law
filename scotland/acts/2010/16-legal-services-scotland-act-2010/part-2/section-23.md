@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Professional indemnity[^key-86cc8fb6769baee3abc18b630a6bae78]
+## 23. Professional indemnity[^c-86cc8fb6769baee3abc18b630a6bae78]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Practice rules must—
 
 ## Annotations
 
-[^key-86cc8fb6769baee3abc18b630a6bae78]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/16/section/23) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-86cc8fb6769baee3abc18b630a6bae78]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/16/section/23) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

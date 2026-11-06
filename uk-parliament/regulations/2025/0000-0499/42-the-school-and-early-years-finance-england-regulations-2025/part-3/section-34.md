@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Early years pupil premium[^key-a5167fc98738ff523ad655052a9c1145]
+## 34. Early years pupil premium[^c-a5167fc98738ff523ad655052a9c1145]
 
 *Extent: E+W*
 
@@ -112,7 +112,7 @@ the local authority must redetermine the budget share or amount allocated to the
 
 ## Annotations
 
-[^key-a5167fc98738ff523ad655052a9c1145]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/42/regulation/34) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-a5167fc98738ff523ad655052a9c1145]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/42/regulation/34) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00077]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 

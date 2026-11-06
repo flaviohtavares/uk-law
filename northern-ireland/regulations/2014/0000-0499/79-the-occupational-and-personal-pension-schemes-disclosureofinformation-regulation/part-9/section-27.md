@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Provision of information on a website[^key-584743ddd3f33b31dd256df31c1f35a6]
+## 27. Provision of information on a website[^c-584743ddd3f33b31dd256df31c1f35a6]
 
 *Extent: N.I.*
 
-(1) Except where[^key-481eeec19f30a5c45b0154a43d4701e8] regulations 29A and 29B provide[^key-3d1f8006de523f43ac2529eca7aa8239] otherwise, where a website is used for the first time to make available the information or document, a notification must be given to the recipient.
+(1) Except where[^c-481eeec19f30a5c45b0154a43d4701e8] regulations 29A and 29B provide[^c-3d1f8006de523f43ac2529eca7aa8239] otherwise, where a website is used for the first time to make available the information or document, a notification must be given to the recipient.
 
 (2) The notification referred to in paragraph (1) must include—
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-584743ddd3f33b31dd256df31c1f35a6]: Commencement: Reg. 27 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-584743ddd3f33b31dd256df31c1f35a6]: Commencement: Reg. 27 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
-[^key-481eeec19f30a5c45b0154a43d4701e8]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/27/1) substituted (6.4.2018) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/53)](https://www.legislation.gov.uk/nisr/2018/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/53/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2018/53/regulation/3/5)
+[^c-481eeec19f30a5c45b0154a43d4701e8]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/27/1) substituted (6.4.2018) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/53)](https://www.legislation.gov.uk/nisr/2018/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/53/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2018/53/regulation/3/5)
 
-[^key-3d1f8006de523f43ac2529eca7aa8239]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/27/1) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(11)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/11)
+[^c-3d1f8006de523f43ac2529eca7aa8239]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/27/1) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(11)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8A. Duty to raise service concerns with certain bodies[^key-54267794eabf61b37661ab33cab35c68]
+## 8A. Duty to raise service concerns with certain bodies[^c-54267794eabf61b37661ab33cab35c68]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54267794eabf61b37661ab33cab35c68]: Textual amendment: S. 8A inserted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 111(5)](https://www.legislation.gov.uk/asp/2010/8/section/111/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-54267794eabf61b37661ab33cab35c68]: Textual amendment: S. 8A inserted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 111(5)](https://www.legislation.gov.uk/asp/2010/8/section/111/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

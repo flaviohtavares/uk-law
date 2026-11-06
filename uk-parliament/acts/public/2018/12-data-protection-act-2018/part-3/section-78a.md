@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78A. National security exemption[^key-43bee759a5f6cbf8926b877ad7d6d594]
+## 78A. National security exemption[^c-43bee759a5f6cbf8926b877ad7d6d594]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,15 +27,15 @@ summary: ''
 - (a) Chapter 2 of this Part (principles), except for the provisions listed in subsection (3);
 - (b) Chapter 3 of this Part (rights of the data subject);
 - (c) in Chapter 4 of this Part—
-  - (i) section 67 (notification of personal data breach to the Commission[^key-bbf1d2b67e4603d88ecbfbc9a1fde2ef]);
+  - (i) section 67 (notification of personal data breach to the Commission[^c-bbf1d2b67e4603d88ecbfbc9a1fde2ef]);
   - (ii) section 68 (communication of personal data breach to the data subject);
 - (d) Chapter 5 of this Part (transfers of personal data to third countries etc), except for the provisions listed in subsection (4);
 - (e) in Part 5—
   - (i) section 119 (inspection in accordance with international obligations);
-  - (ia)[^key-5f94619ed391555b8bc542f944bc9f07] section 119A (standard clauses for transfers to third countries);
-  - (ii) in Schedule 13 (other general functions of the Commission[^key-213d0f77ef6f05734eaa17e0f98fdc9c]), paragraphs 1(1)(a) and (g) and 2;
+  - (ia)[^c-5f94619ed391555b8bc542f944bc9f07] section 119A (standard clauses for transfers to third countries);
+  - (ii) in Schedule 13 (other general functions of the Commission[^c-213d0f77ef6f05734eaa17e0f98fdc9c]), paragraphs 1(1)(a) and (g) and 2;
 - (f) in Part 6—
-  - (i) sections 142 to 154 and Schedule 15 ( Commission's[^key-f283457a32a60630de51ea562ba20ccf] notices and powers of entry and inspection);
+  - (i) sections 142 to 154 and Schedule 15 ( Commission's[^c-f283457a32a60630de51ea562ba20ccf] notices and powers of entry and inspection);
   - (ii) sections 170 to 173 (offences relating to personal data);
 - (g) in Part 7, section 187 (representation of data subjects).
 
@@ -55,12 +55,12 @@ summary: ''
 
 ## Annotations
 
-[^key-43bee759a5f6cbf8926b877ad7d6d594]: Textual amendment: S. 78A inserted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 88(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/88/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/996/regulation/4))
+[^c-43bee759a5f6cbf8926b877ad7d6d594]: Textual amendment: S. 78A inserted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 88(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/88/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/996/regulation/4))
 
-[^key-bbf1d2b67e4603d88ecbfbc9a1fde2ef]: Textual amendment: Word in s. 78A(2)(c)(i) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-bbf1d2b67e4603d88ecbfbc9a1fde2ef]: Textual amendment: Word in s. 78A(2)(c)(i) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-5f94619ed391555b8bc542f944bc9f07]: Textual amendment: S. 78A(2)(e)(ia) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/paragraph/19) (with [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/part/2)); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z11)
+[^c-5f94619ed391555b8bc542f944bc9f07]: Textual amendment: S. 78A(2)(e)(ia) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/paragraph/19) (with [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/part/2)); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z11)
 
-[^key-213d0f77ef6f05734eaa17e0f98fdc9c]: Textual amendment: Word in s. 78A(2)(e)(ii) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-213d0f77ef6f05734eaa17e0f98fdc9c]: Textual amendment: Word in s. 78A(2)(e)(ii) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-f283457a32a60630de51ea562ba20ccf]: Textual amendment: Word in s. 78A(2)(f)(i) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-f283457a32a60630de51ea562ba20ccf]: Textual amendment: Word in s. 78A(2)(f)(i) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

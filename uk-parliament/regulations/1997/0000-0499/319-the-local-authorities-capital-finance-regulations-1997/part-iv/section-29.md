@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Lease of land for term not exceeding three years[^key-be69c72ebf06ac716bd866d5fa99c40a]
+## 29. Lease of land for term not exceeding three years[^c-be69c72ebf06ac716bd866d5fa99c40a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The initial cost of a lease (“the new lease”) of land shall be nil where—
 
 ## Annotations
 
-[^key-be69c72ebf06ac716bd866d5fa99c40a]: Commencement: Reg. 29 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-be69c72ebf06ac716bd866d5fa99c40a]: Commencement: Reg. 29 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

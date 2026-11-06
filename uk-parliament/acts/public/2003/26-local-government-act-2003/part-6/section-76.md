@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Billing authority’s power to reduce amount of tax payable[^key-e83783265e5cc3ea6b8ed27ba47c9372]
+## 76. Billing authority’s power to reduce amount of tax payable[^c-e83783265e5cc3ea6b8ed27ba47c9372]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e83783265e5cc3ea6b8ed27ba47c9372]: Textual amendment: [S. 76](https://www.legislation.gov.uk/ukpga/2003/26/section/76) omitted (31.10.2012) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/9)
+[^c-e83783265e5cc3ea6b8ed27ba47c9372]: Textual amendment: [S. 76](https://www.legislation.gov.uk/ukpga/2003/26/section/76) omitted (31.10.2012) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/9)

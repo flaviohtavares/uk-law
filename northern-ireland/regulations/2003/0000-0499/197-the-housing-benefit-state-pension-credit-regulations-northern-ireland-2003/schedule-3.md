@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## THE FIRST SCHEDULE[^key-a2084c483d56281857846b755936da36]
+## THE FIRST SCHEDULE[^c-a2084c483d56281857846b755936da36]
 
 *Extent: N.I.*
 
@@ -113,7 +113,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a2084c483d56281857846b755936da36]: Commencement: Sch. 3 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-a2084c483d56281857846b755936da36]: Commencement: Sch. 3 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00097]: Footnote: S.I. [1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)
 

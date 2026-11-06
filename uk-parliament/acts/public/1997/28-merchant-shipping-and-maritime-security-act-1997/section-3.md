@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Powers of intervention in cases of pollution by substances other than oil.[^key-c6aeb94788bb8bc255d710728ae1d9fc]
+## 3. Powers of intervention in cases of pollution by substances other than oil.[^c-c6aeb94788bb8bc255d710728ae1d9fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6aeb94788bb8bc255d710728ae1d9fc]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1997/28/section/3) repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)
+[^c-c6aeb94788bb8bc255d710728ae1d9fc]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1997/28/section/3) repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)

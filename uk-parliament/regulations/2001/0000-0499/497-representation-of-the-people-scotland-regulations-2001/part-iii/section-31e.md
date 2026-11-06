@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31E. List of reviews[^key-bc48e4b6dd71dbae631afdd96b20d07f]
+## 31E. List of reviews[^c-bc48e4b6dd71dbae631afdd96b20d07f]
 
 *Extent: S*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (4) This regulation does not apply to any review where the subject of the review has an anonymous entry.
 
-(5)[^key-ed032163fb11db2f1288433a13eff37f] In relation to the registration of local government electors, this regulation does not apply to any review where the subject of the review is under the age of 16.
+(5)[^c-ed032163fb11db2f1288433a13eff37f] In relation to the registration of local government electors, this regulation does not apply to any review where the subject of the review is under the age of 16.
 
 ## Annotations
 
-[^key-bc48e4b6dd71dbae631afdd96b20d07f]: Textual amendment: Regs. 31B-31F inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2007/925/regulation/11)
+[^c-bc48e4b6dd71dbae631afdd96b20d07f]: Textual amendment: Regs. 31B-31F inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2007/925/regulation/11)
 
-[^key-ed032163fb11db2f1288433a13eff37f]: Textual amendment: Reg. 31E(5) inserted (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 6(3)](https://www.legislation.gov.uk/asp/2015/7/section/6/3), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)
+[^c-ed032163fb11db2f1288433a13eff37f]: Textual amendment: Reg. 31E(5) inserted (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 6(3)](https://www.legislation.gov.uk/asp/2015/7/section/6/3), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)

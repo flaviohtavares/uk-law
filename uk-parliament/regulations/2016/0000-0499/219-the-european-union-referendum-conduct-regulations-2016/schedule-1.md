@@ -24,7 +24,7 @@ Regulation 79
 
 ### PART 1 — INTERPRETATION AND EXTENT
 
-#### 1. Interpretation of applied provisions: general[^key-6c88c6d67fca5122d302d0b88dad4b42]
+#### 1. Interpretation of applied provisions: general[^c-6c88c6d67fca5122d302d0b88dad4b42]
 
 (1) In any provision of the 1983 Act as applied by this Schedule—
 
@@ -56,7 +56,7 @@ Regulation 79
 
 (3) Nothing in this Schedule which provides for a particular reference to a provision to be read as, or as including, a reference to that provision as applied by another provision is to be taken to limit the effect of section 20(2) of the Interpretation Act 1978[^f00061].
 
-#### 2. Meaning of “vote” in applied provisions[^key-1d5295413be7b5ff2c201f2329e8cc14]
+#### 2. Meaning of “vote” in applied provisions[^c-1d5295413be7b5ff2c201f2329e8cc14]
 
 (1) In any provision of the 1983 Act as applied by this Schedule “vote” as a verb means vote in the referendum and includes (where the context allows)—
 
@@ -70,22 +70,22 @@ but does not include voting in Gibraltar; and “vote” as a noun and “voter�
 - (a) that person votes (on his or her own behalf or as proxy) in person in Gibraltar or by post under the law of Gibraltar relating to postal voting, or
 - (b) that person votes by proxy and the proxy votes in person in Gibraltar or by post under the law of Gibraltar relating to postal voting.
 
-#### 3. Extent of section 52 of the 1983 Act[^key-b532ccc4ddb1d4557ae72c11c2beba33]
+#### 3. Extent of section 52 of the 1983 Act[^c-b532ccc4ddb1d4557ae72c11c2beba33]
 
 For the purposes of the referendum, section 52(1), (1ZA), (1ZB) and (1A) of the 1983 Act[^f00062] (which extends to the whole of the United Kingdom) extends also to Gibraltar.
 
 ### PART 2 — APPLICATION OF PROVISIONS
 
-#### 4. Alteration of registers pending the referendum: England, Wales and Scotland[^key-8e2ca363f89894df374af0ee15d79ec7]
+#### 4. Alteration of registers pending the referendum: England, Wales and Scotland[^c-8e2ca363f89894df374af0ee15d79ec7]
 
 (1) In relation to England, Wales and Scotland, section 13AB of the 1983 Act[^f00063] applies for the purposes of the referendum but as if—
 
 - (a) in subsection (1)(b) for “the relevant election area” there were substituted “the area for which the registration officer acts”,
 - (b) in subsection (4) for “an election to which this section applies” there were substituted “the referendum”,
 - (c) in subsection (5) for “the last day on which nomination papers may be delivered to the returning officer for the purposes of the election” there were substituted “the nineteenth working day before the date of the poll for the referendum”,
-- (ca)[^key-e45363ef1b4907a65d72c6e521a641d0] in subsection (6), for “the appropriate publication date” there were substituted “20 June 2016”,
+- (ca)[^c-e45363ef1b4907a65d72c6e521a641d0] in subsection (6), for “the appropriate publication date” there were substituted “20 June 2016”,
 - (d) subsection (8) were omitted,
-- (e)[^key-a93a8b29db640988f7f22988c978ba68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-a93a8b29db640988f7f22988c978ba68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) after subsection (9) there were inserted—
 
   > (10) In this section “working day” means a day that is not—
@@ -95,7 +95,7 @@ For the purposes of the referendum, section 52(1), (1ZA), (1ZB) and (1A) of the 
   > - (c) a bank holiday or public holiday in Gibraltar under the Gibraltar Acts titled the Banking and Financial Dealings Act and the Interpretation and General Clauses Act, or
   > - (d) a day appointed in any part of the United Kingdom or Gibraltar as a day of public thanksgiving or mourning.
 
-(2)[^key-54f45d68c6f1b4af57cc11c5626aee90] In relation to England, Wales and Scotland, section 13B of the 1983 Act applies for the purposes of the referendum but as if—
+(2)[^c-54f45d68c6f1b4af57cc11c5626aee90] In relation to England, Wales and Scotland, section 13B of the 1983 Act applies for the purposes of the referendum but as if—
 
 - (a) in subsection (1)—
   - (i) for “the fifth day before the date of the poll for an election to which this section applies” there were substituted “20 June 2016”, and
@@ -114,7 +114,7 @@ For the purposes of the referendum, section 52(1), (1ZA), (1ZB) and (1A) of the 
 
 (4) Sub-paragraph (3) has effect, in relation to any register, until the first publication after the referendum of a revised version of the register under section 13 of the 1983 Act.
 
-#### 5. Alteration of registers pending the referendum: Northern Ireland[^key-39d2c5c3eea96696bba883ba6fe8ef5b]
+#### 5. Alteration of registers pending the referendum: Northern Ireland[^c-39d2c5c3eea96696bba883ba6fe8ef5b]
 
 (1) In relation to Northern Ireland, section 13BA of the 1983 Act[^f00065] applies for the purposes of the referendum but as if—
 
@@ -130,7 +130,7 @@ For the purposes of the referendum, section 52(1), (1ZA), (1ZB) and (1A) of the 
   - (i) for “an election to which this section applies” there were substituted “the referendum”, and
   - (ii) for “the relevant election area” there were substituted “the area for which the registration officer acts”,
 - (f) subsection (12) were omitted, and
-- (g)[^key-4a3cc19460b996fc2ccf61ebe962a813] for subsection (13) there were substituted—
+- (g)[^c-4a3cc19460b996fc2ccf61ebe962a813] for subsection (13) there were substituted—
 
   > (13) Subsection (6) of section 13B applies for the purposes of this section as it applies for the purposes of that section.
   >
@@ -140,14 +140,14 @@ For the purposes of the referendum, section 52(1), (1ZA), (1ZB) and (1A) of the 
 
 (3) Sub-paragraph (2) has effect, in relation to any register, until the first publication after the referendum of a revised version of the register under section 13 of the 1983 Act.
 
-#### 6. Loan of equipment[^key-c05be5c65a582593f2449ea9e3d1e7b9]
+#### 6. Loan of equipment[^c-c05be5c65a582593f2449ea9e3d1e7b9]
 
 Section 47 of the 1983 Act[^f00066] applies for the purposes of the referendum but as if—
 
 - (a) in subsection (1) the reference to the returning officer at a local government election included a counting officer for the referendum for a voting area anywhere in the United Kingdom, and
 - (b) in subsection (2) the reference to the returning officer at an election mentioned there included a counting officer for the referendum for a voting area in England, Wales or Scotland.
 
-#### 7. Effect of registers[^key-281c01bb245328846901e4c5f068432e]
+#### 7. Effect of registers[^c-281c01bb245328846901e4c5f068432e]
 
 (1) Section 49 of the 1983 Act[^f00067] applies for the purposes of the referendum but with the following modifications.
 
@@ -166,14 +166,14 @@ Section 47 of the 1983 Act[^f00066] applies for the purposes of the referendum b
 - (a) “voting age” has the same meaning as in section 49 as it has effect apart from this Schedule, but
 - (b) “vote” as a verb is to be read in accordance with paragraph 2 of this Schedule.
 
-#### 8. Effect of misdescription[^key-401100c0b5e1ebf1c833959955cc483b]
+#### 8. Effect of misdescription[^c-401100c0b5e1ebf1c833959955cc483b]
 
 Section 50 of the 1983 Act applies for the purposes of the referendum but as if—
 
 - (a) the words “nomination paper,” were omitted, and
 - (b) for the words “and the parliamentary election rules” there were substituted “or by the European Union Referendum Act 2015 or the European Union Referendum (Conduct) Regulations 2016”.
 
-#### 9. Discharge of registration duties[^key-e8ef0cf33cf0dd91d66d94d845c695b8]
+#### 9. Discharge of registration duties[^c-e8ef0cf33cf0dd91d66d94d845c695b8]
 
 (1) Section 52 of the 1983[^f00068] Act applies for the purposes of the referendum but with the following modifications.
 
@@ -196,11 +196,11 @@ Section 50 of the 1983 Act applies for the purposes of the referendum but as if�
 
 (4) Subsections (2) and (4) each have effect for the purposes of the referendum as if after “this Act” there were inserted “, the European Union Referendum Act 2015 and the European Union Referendum (Conduct) Regulations 2016”.
 
-#### 10. Payment of expenses of registration[^key-61f0c9718fc5d24b62104f630199b1a6]
+#### 10. Payment of expenses of registration[^c-61f0c9718fc5d24b62104f630199b1a6]
 
 Section 54 of the 1983 Act[^f00069] applies for the purposes of the referendum but as if in subsection (1) after “2013” there were inserted “or the European Union Referendum Act 2015 or the European Union Referendum (Conduct) Regulations 2016”.
 
-#### 11. Registration appeals: England and Wales and Scotland[^key-ed71fe1e6d23e618aa6aee0d0593244e]
+#### 11. Registration appeals: England and Wales and Scotland[^c-ed71fe1e6d23e618aa6aee0d0593244e]
 
 (1) In subsection (3) of section 56 of the 1983 Act[^f00070], the references to “an election” and “the election” include the referendum.
 
@@ -210,7 +210,7 @@ Section 54 of the 1983 Act[^f00069] applies for the purposes of the referendum b
 
 (3) References in this paragraph to section 56 of the 1983 Act include that section as applied by section 57 of that Act (registration appeals: Scotland).
 
-#### 12. Registration appeals: Northern Ireland[^key-acc1491564cff7043fe4a180b70ae076]
+#### 12. Registration appeals: Northern Ireland[^c-acc1491564cff7043fe4a180b70ae076]
 
 (1) In subsection (3) of section 58 of the 1983 Act[^f00071], the references to “an election” and “the election” include the referendum.
 
@@ -218,14 +218,14 @@ Section 54 of the 1983 Act[^f00069] applies for the purposes of the referendum b
 
 > (5) Where, as a result of the decision on an appeal, an alteration in the register made in pursuance of subsection (4) takes effect under section 13(5), 13A(2), 13BA(6) or (9) or 13BC(3) or (6) on or before the date of the poll for the referendum, subsection (3) does not apply to that appeal as respects the referendum.
 
-#### 13. Offence of personation[^key-25bff5ce33289994ae068d299aa4f056]
+#### 13. Offence of personation[^c-25bff5ce33289994ae068d299aa4f056]
 
 Section 60 of the 1983 Act applies for the purposes of the referendum but as if in subsection (2)—
 
 - (a) for “at a parliamentary or local government election” there were substituted “in the referendum”, and
 - (b) for “whether as an elector or as proxy” there were substituted “whether or not as proxy”.
 
-#### 14. Other voting offences[^key-d0f709177a4099f939291dff68253036]
+#### 14. Other voting offences[^c-d0f709177a4099f939291dff68253036]
 
 (1) Section 61 of the 1983 Act[^f00072] applies for the purposes of the referendum but with the modifications in sub-paragraphs (2) to (4) below.
 
@@ -290,14 +290,14 @@ of section 61 of the 1983 Act as applied by this paragraph, and in those provisi
 
 and in sub-paragraph (8) references to a vote “in the United Kingdom” are to be read accordingly.
 
-#### 15. Offences relating to applications for absent voting[^key-3a120682f14fc48bb568ee2b3b4a5148]
+#### 15. Offences relating to applications for absent voting[^c-3a120682f14fc48bb568ee2b3b4a5148]
 
 Section 62A(1) to (5) of the 1983 Act[^f00073] applies for the purposes of the referendum but as if—
 
 - (a) in subsection (1)(a) the words “at a parliamentary or local government election” were omitted, and
 - (b) in subsection (2)(c) for “returning officer” there were substituted “counting officer”.
 
-#### 16. Breach of official duty[^key-19bbbfc79e8df00e2f2a9be92e535152]
+#### 16. Breach of official duty[^c-19bbbfc79e8df00e2f2a9be92e535152]
 
 Section 63 of the 1983 Act[^f00074] applies for the purposes of the referendum but as if for subsections (3) and (4) there were substituted—
 
@@ -321,7 +321,7 @@ Section 63 of the 1983 Act[^f00074] applies for the purposes of the referendum b
 >
 > he shall not be guilty of an offence under subsection (1) above.
 
-#### 17. Tampering with papers[^key-372ea98ec48425c031364d03e13b4549]
+#### 17. Tampering with papers[^c-372ea98ec48425c031364d03e13b4549]
 
 (1) Section 65 of the 1983 Act[^f00075] applies for the purposes of the referendum but with the following modifications.
 
@@ -342,7 +342,7 @@ Section 63 of the 1983 Act[^f00074] applies for the purposes of the referendum b
 
 (5) Subsection (3) has effect for the purposes of the referendum as if for “a returning officer” there were substituted “the Chief Counting Officer, a Regional Counting Officer, a counting officer”.
 
-#### 18. Requirement of secrecy[^key-de0dcb1cff247579a259d5b7b7b810b5]
+#### 18. Requirement of secrecy[^c-de0dcb1cff247579a259d5b7b7b810b5]
 
 (1) Section 66(1) to (6) of the 1983 Act[^f00076] applies for the purposes of the referendum but with the following modifications.
 
@@ -373,7 +373,7 @@ Section 63 of the 1983 Act[^f00074] applies for the purposes of the referendum b
 
   > - “Voter with disabilities” has the meaning given by regulation 36(11) of the the European Union Referendum (Conduct) Regulations 2016.
 
-#### 19. Prohibition on publication of exit polls[^key-d08151e271c1490dcb3ac94f77f1eada]
+#### 19. Prohibition on publication of exit polls[^c-d08151e271c1490dcb3ac94f77f1eada]
 
 (1) Section 66A of the 1983 Act[^f00077] applies for the purposes of the referendum but with the following modifications.
 
@@ -397,24 +397,24 @@ and, accordingly, paragraph 2(1) of this Schedule (meaning of “vote”) does n
 
 (6) In subsection (4) of that section as so applied, the references to the public are to the public in the United Kingdom.
 
-#### 20. Failure to comply with conditions relating to supply etc of documents[^key-16767473586ec3641068119cbdf6e248]
+#### 20. Failure to comply with conditions relating to supply etc of documents[^c-16767473586ec3641068119cbdf6e248]
 
 Section 66B of the 1983 Act[^f00078] applies for the purposes of the referendum, but as if in subsection (1)(a) for “imposed in pursuance of regulations under rule 57 of the parliamentary election rules” there were substituted “to which the right to inspect or be supplied with a document or part of document under regulation 58 of the European Union Referendum (Conduct) Regulations 2016 is subject under paragraph (5)(a) of that regulation”.
 
-#### 21. Broadcasting from outside UK[^key-520c1cc1631eef0e35ee2eadb6e30e1f]
+#### 21. Broadcasting from outside UK[^c-520c1cc1631eef0e35ee2eadb6e30e1f]
 
 Section 92 of the 1983 Act[^f00079] applies for the purposes of the referendum but as if in subsection (1)—
 
 - (a) for “at a parliamentary or local government election” there were substituted “in the referendum”, and
 - (b) for “the election” there were substituted “the referendum”.
 
-#### 22. Imitation poll cards[^key-3e7830c171f17388733afe1e85e4dbb5]
+#### 22. Imitation poll cards[^c-3e7830c171f17388733afe1e85e4dbb5]
 
 (1) Section 94(1) of the 1983 Act[^f00080] applies for the purposes of the referendum but as if for “the election of any candidate at a parliamentary election or a local government election to which this section applies” there were substituted “a particular result in the referendum”.
 
 (2) The references in section 94(1) to poll cards do not include poll cards for the purposes of the referendum so far as held in Gibraltar.
 
-#### 23. Disturbances at meetings[^key-b7358d9c283ab77fcdfd0c287436e9e3]
+#### 23. Disturbances at meetings[^c-b7358d9c283ab77fcdfd0c287436e9e3]
 
 Section 97 of the 1983 Act[^f00081] applies for the purposes of the referendum but as if for subsection (2) there were substituted—
 
@@ -423,11 +423,11 @@ Section 97 of the 1983 Act[^f00081] applies for the purposes of the referendum b
 > - (a) is held by a permitted participant during the referendum period (within the meaning given by paragraph 1 of Schedule 1 to the European Union Referendum Act 2015), and
 > - (b) is held in the United Kingdom.
 
-#### 24. Premises used for referendum meetings in Scotland or Northern Ireland[^key-11951c5e1fc9a1d04d1379077d05640e]
+#### 24. Premises used for referendum meetings in Scotland or Northern Ireland[^c-11951c5e1fc9a1d04d1379077d05640e]
 
 Section 98 of the 1983 Act[^f00082] applies for the purposes of the referendum but as if the reference to public meetings in furtherance of any person’s candidature at a parliamentary or local government election included public meetings to promote or procure a particular result in the referendum.
 
-#### 25. Officials not to act for candidates[^key-c4dca9693b6a360f35cc19c055f4ca66]
+#### 25. Officials not to act for candidates[^c-c4dca9693b6a360f35cc19c055f4ca66]
 
 Section 99 of the 1983 Act[^f00083] applies for the purposes of the referendum but as if for subsection (1) there were substituted—
 
@@ -441,14 +441,14 @@ Section 99 of the 1983 Act[^f00083] applies for the purposes of the referendum b
 >
 > acts as a referendum agent for a permitted participant, he shall be guilty of an offence.
 
-#### 26. Illegal canvassing by police officers[^key-8f73cf3da4b32d47ae6af12791eb37f1]
+#### 26. Illegal canvassing by police officers[^c-8f73cf3da4b32d47ae6af12791eb37f1]
 
 Section 100 of the 1983 Act[^f00084] applies for the purposes of the referendum but as if in subsection (1)—
 
 - (a) for “as an elector” there were substituted “on that person’s own behalf”, and
 - (b) the words after “proxy” were omitted.
 
-#### 27. Payments for exhibition of election notices[^key-c74a79b7f5d9f0d1c8149f5d1bd184ae]
+#### 27. Payments for exhibition of election notices[^c-c74a79b7f5d9f0d1c8149f5d1bd184ae]
 
 Section 109 of the 1983 Act applies for the purposes of the referendum but as if—
 
@@ -458,7 +458,7 @@ Section 109 of the 1983 Act applies for the purposes of the referendum but as if
 
   > (3) In this section “elector” means a person entitled to vote on his own behalf.
 
-#### 28. Prohibition of paid canvassers[^key-1a33f8c98a01910e0ffbec68161d885e]
+#### 28. Prohibition of paid canvassers[^c-1a33f8c98a01910e0ffbec68161d885e]
 
 (1) Section 111 of the 1983 Act applies for the purposes of the referendum but as if—
 
@@ -467,7 +467,7 @@ Section 109 of the 1983 Act applies for the purposes of the referendum but as if
 
 (2) But nothing in that section applies in relation to canvassing in Gibraltar in connection with the referendum.
 
-#### 29. Providing money etc for illegal purposes[^key-83448ebe90d6312857c43ec1fa5f8595]
+#### 29. Providing money etc for illegal purposes[^c-83448ebe90d6312857c43ec1fa5f8595]
 
 Section 112 of the 1983 Act applies for the purposes of the referendum but as if—
 
@@ -477,7 +477,7 @@ Section 112 of the 1983 Act applies for the purposes of the referendum but as if
   - (ii) in paragraph (c) the words “or expenses”, and
   - (iii) the words “or the incurring of the expenses”.
 
-#### 30. Bribery[^key-76f9bedfa8fe1e661d27f37a83bd8b60]
+#### 30. Bribery[^c-76f9bedfa8fe1e661d27f37a83bd8b60]
 
 (1) Section 113 of the 1983 Act[^f00085] applies for the purposes of the referendum but with the following modifications.
 
@@ -490,24 +490,24 @@ Section 112 of the 1983 Act applies for the purposes of the referendum but as if
 
 (4) Each of subsections (4), (5) and (6) has effect for those purposes as if for “an election” there were substituted “the referendum”.
 
-#### 31. Treating[^key-236282de4c3be78d79590036472af958]
+#### 31. Treating[^c-236282de4c3be78d79590036472af958]
 
 Section 114 of the 1983 Act applies for the purposes of the referendum but as if—
 
 - (a) in subsection (2) for “an election” there were substituted “the referendum”, and
 - (b) in subsection (3) for “Every elector or his proxy” there were substituted “Every person entitled to vote on his own behalf, and every proxy of such a person,”.
 
-#### 32. Undue influence[^key-9db6d500d1a1a37f8a53719122fef349]
+#### 32. Undue influence[^c-9db6d500d1a1a37f8a53719122fef349]
 
 Section 115 of the 1983 Act[^f00086] applies for the purposes of the referendum but as if after subsection (2) there were inserted—
 
 > (3) In this section “elector” means a person entitled to vote on his own behalf.
 
-#### 33. Rights of creditors where applied provision prohibits payments[^key-c5cd0567ababd9d5fe8be9b8b4a50add]
+#### 33. Rights of creditors where applied provision prohibits payments[^c-c5cd0567ababd9d5fe8be9b8b4a50add]
 
 In section 116 of the 1983 Act the reference to the provisions of Part 2 of that Act prohibiting payments and contracts for payments includes any such provision as applied by this Schedule.
 
-#### 34. Saving for employees to be absent for voting[^key-0d31182386dbf886faafa88f54a49728]
+#### 34. Saving for employees to be absent for voting[^c-0d31182386dbf886faafa88f54a49728]
 
 Section 117(2) of the 1983 Act applies for the purposes of the referendum but as if—
 
@@ -515,7 +515,7 @@ Section 117(2) of the 1983 Act applies for the purposes of the referendum but as
 - (b) the words “at a parliamentary election” were omitted, and
 - (c) in paragraphs (b) and (c), for “any particular candidate at the election” there were substituted “a particular answer in the referendum”.
 
-#### 35. Computation of time[^key-0aa2b4f88ccddb4ef3a2d8991826b1cc]
+#### 35. Computation of time[^c-0aa2b4f88ccddb4ef3a2d8991826b1cc]
 
 (1) Section 119 of the 1983 Act[^f00087], in its application for the purposes of any provision of the 1983 Act as applied by this Schedule, has effect as if for subsection (3) there were substituted—
 
@@ -526,7 +526,7 @@ Section 117(2) of the 1983 Act applies for the purposes of the referendum but as
 
 (2) The reference in sub-paragraph (1) to section 119 of the 1983 Act includes that section as applied by any other provision of that Act.
 
-#### 36. Application for relief[^key-c5814d995732100d517b7a3e2098d09b]
+#### 36. Application for relief[^c-c5814d995732100d517b7a3e2098d09b]
 
 (1) Section 167(1) to (2)[^f00088] applies for the purposes of the referendum but with the following modifications.
 
@@ -536,7 +536,7 @@ Section 117(2) of the 1983 Act applies for the purposes of the referendum but as
 
 (3) Subsection (2)(c) has effect for those purposes as if the words from “in the constituency” to “was held,” were omitted.
 
-#### 37. Powers of court on conviction of corrupt practice[^key-f47d0f0b1cfb4c47c34da0163bdc47a6]
+#### 37. Powers of court on conviction of corrupt practice[^c-f47d0f0b1cfb4c47c34da0163bdc47a6]
 
 In section 168 of the 1983 Act[^f00089]—
 
@@ -544,7 +544,7 @@ In section 168 of the 1983 Act[^f00089]—
 - (b) the reference in subsection (1)(a) to section 60 or 62A includes either of those sections as so applied, and
 - (c) the reference in subsection (7) to the offence of bribery or treating includes an offence under section 113 or 114 of the 1983 Act as applied by this Schedule.
 
-#### 38. Prosecution and conviction of illegal practice and illegal payments[^key-bd21f67f3e73d72ff5ba59da1296370e]
+#### 38. Prosecution and conviction of illegal practice and illegal payments[^c-bd21f67f3e73d72ff5ba59da1296370e]
 
 In sections 169[^f00090], 170, 173[^f00091], 173A[^f00092] and 175(1) and (3)[^f00093] of the 1983 Act—
 
@@ -554,7 +554,7 @@ In sections 169[^f00090], 170, 173[^f00091], 173A[^f00092] and 175(1) and (3)[^f
 
 and in section 173(2) any reference to a corrupt practice or illegal practice under a section mentioned there includes a reference to a corrupt practice or illegal practice under that section as applied by this Schedule.
 
-#### 39. Time limit for prosecutions[^key-8dfb01368f294e1583e6597e27909ed9]
+#### 39. Time limit for prosecutions[^c-8dfb01368f294e1583e6597e27909ed9]
 
 (1) In section 176 of the 1983 Act[^f00094], the reference in subsection (1) to any offence under any provision contained in the 1983 Act includes any offence under any such provision as applied by this Schedule.
 
@@ -568,22 +568,22 @@ and in section 173(2) any reference to a corrupt practice or illegal practice un
 
 .
 
-#### 40. Prosecution of offences committed outside the United Kingdom[^key-4ea5707ae45cdb7eaa6bde1904009768]
+#### 40. Prosecution of offences committed outside the United Kingdom[^c-4ea5707ae45cdb7eaa6bde1904009768]
 
 In section 178 of the 1983 Act[^f00095] the reference to an offence under that Act includes an offence under any provision of that Act as applied by this Schedule.
 
-#### 41. Offences by associations[^key-c153df9dddee231dbed82d2b9f76f267]
+#### 41. Offences by associations[^c-c153df9dddee231dbed82d2b9f76f267]
 
 In section 179 of the 1983 Act[^f00096]—
 
 - (a) the reference to any corrupt or illegal practice includes any corrupt or illegal practice under any provision of the 1983 Act as applied by this Schedule, and
 - (b) the reference to any illegal payment, employment or hiring includes any illegal payment or employment under any such provision.
 
-#### 42. Director of Public Prosecutions[^key-7b62ca891f6c1c469ff6f127d1d74f32]
+#### 42. Director of Public Prosecutions[^c-7b62ca891f6c1c469ff6f127d1d74f32]
 
 In section 181(1) of the 1983 Act[^f00097] the reference to any offence under that Act includes any offence under any provision of that Act as applied by this Schedule.
 
-#### 43. Service of notices[^key-d1890f8dfe1ce37dc594850babf6d1a7]
+#### 43. Service of notices[^c-d1890f8dfe1ce37dc594850babf6d1a7]
 
 Section 184 of the 1983 Act[^f00098] applies for the purposes of the referendum but as if in subsection (1)—
 
@@ -591,11 +591,11 @@ Section 184 of the 1983 Act[^f00098] applies for the purposes of the referendum 
 - (b) for the words from “the High Court” to “any election court” there were substituted “the High Court or the county court”, and
 - (c) in paragraph (a), the words from “in the constituency” to “held” were omitted.
 
-#### 44. Computation of time for purposes of Part 3[^key-702978e046ae80c5a1a95f61a82a6245]
+#### 44. Computation of time for purposes of Part 3[^c-702978e046ae80c5a1a95f61a82a6245]
 
 In section 186 of the 1983 Act the reference to Part 3 of that Act includes any provision of that Part as applied by this Schedule.
 
-#### 45. Translations etc of certain documents[^key-81d8c3b4190e6cef8c25d5be0931341a]
+#### 45. Translations etc of certain documents[^c-81d8c3b4190e6cef8c25d5be0931341a]
 
 (1) Section 199B(1) to (9) of the 1983 Act[^f00099] applies for the purposes of the referendum but with the following modifications.
 
@@ -621,7 +621,7 @@ In section 186 of the 1983 Act the reference to Part 3 of that Act includes any 
 
 (5) Subsection (9) has effect for the purposes of the referendum as if for “returning officer” there were substituted “counting officer”.
 
-#### 46. General interpretation[^key-cb7564932bf1977edb317200980256f1]
+#### 46. General interpretation[^c-cb7564932bf1977edb317200980256f1]
 
 In its application for the purposes of any provision of the 1983 Act as applied by this Schedule, section 202 of the 1983 Act[^f00100] has effect as if in subsection (1)—
 
@@ -634,21 +634,21 @@ In its application for the purposes of any provision of the 1983 Act as applied 
 
   > - “vote” and “voter” are to be read in accordance with paragraph 2(1) of Schedule 1 to the European Union Referendum (Conduct) Regulations 2016 (subject to any provision to the contrary in that Schedule).
 
-#### 47. General application to Scotland[^key-a04fea78f6ebad468795084d1936880f]
+#### 47. General application to Scotland[^c-a04fea78f6ebad468795084d1936880f]
 
 Section 204(3), (5) and (8) of the 1983 Act applies for the purposes of any provision of the 1983 Act as applied by this Schedule, so far as that provision applies to Scotland.
 
-#### 48. General application to Northern Ireland[^key-236584f251d712562b5f85e44e85ce82]
+#### 48. General application to Northern Ireland[^c-236584f251d712562b5f85e44e85ce82]
 
 Section 205 of the 1983 Act[^f00101] applies for the purposes of any provision of the 1983 Act as applied by this Schedule, so far as that provision applies to Northern Ireland.
 
-#### 49. Premises used for poll: Scotland and Northern Ireland[^key-6fd464a472a34f542bb610a15bded866]
+#### 49. Premises used for poll: Scotland and Northern Ireland[^c-6fd464a472a34f542bb610a15bded866]
 
 Rule 22(3) in Schedule 1 to the 1983 Act[^f00102] applies for the purposes of the referendum but as if the reference to use for the purpose of taking the poll in an election included use by a counting officer for the purpose of taking the poll in the referendum.
 
 ## Annotations
 
-[^key-6c88c6d67fca5122d302d0b88dad4b42]: Commencement: Sch. 1 para. 1 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-6c88c6d67fca5122d302d0b88dad4b42]: Commencement: Sch. 1 para. 1 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00057]: Footnote: [2003 c.7](https://www.legislation.gov.uk/ukpga/2003/7).
 
@@ -660,141 +660,141 @@ Rule 22(3) in Schedule 1 to the 1983 Act[^f00102] applies for the purposes of th
 
 [^f00061]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-1d5295413be7b5ff2c201f2329e8cc14]: Commencement: Sch. 1 para. 2 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-1d5295413be7b5ff2c201f2329e8cc14]: Commencement: Sch. 1 para. 2 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-b532ccc4ddb1d4557ae72c11c2beba33]: Commencement: Sch. 1 para. 3 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-b532ccc4ddb1d4557ae72c11c2beba33]: Commencement: Sch. 1 para. 3 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00062]: Footnote: Subsection (1) was amended by paragraph 12 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50). Subsection (1A) was inserted by paragraphs 6(1) and (5) of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41). For the purposes of the referendum, subsections (1) and (1A) are modified, and subsections (1ZA) and (1ZB) are inserted, by paragraph 9 of this Schedule.
 
-[^key-8e2ca363f89894df374af0ee15d79ec7]: Commencement: Sch. 1 para. 4 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-8e2ca363f89894df374af0ee15d79ec7]: Commencement: Sch. 1 para. 4 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00063]: Footnote: Section 13AB was inserted by section 16(1) and (3) of the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6) and was amended by paragraphs 1 and 4 of Schedule 2 to the Recall of MPs Act [2015 (c.25)](https://www.legislation.gov.uk/ukpga/2015/25).
 
-[^key-e45363ef1b4907a65d72c6e521a641d0]: Textual amendment: Sch. 1 para. 4(1)(ca) inserted (9.6.2016) by [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/2/a)
+[^c-e45363ef1b4907a65d72c6e521a641d0]: Textual amendment: Sch. 1 para. 4(1)(ca) inserted (9.6.2016) by [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/2/a)
 
-[^key-a93a8b29db640988f7f22988c978ba68]: Textual amendment: Sch. 1 para. 4(1)(e) omitted (9.6.2016) by virtue of [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/2/b)
+[^c-a93a8b29db640988f7f22988c978ba68]: Textual amendment: Sch. 1 para. 4(1)(e) omitted (9.6.2016) by virtue of [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/2/b)
 
-[^key-54f45d68c6f1b4af57cc11c5626aee90]: Textual amendment: Sch. 1 para. 4(2) substituted (9.6.2016) by [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/3)
+[^c-54f45d68c6f1b4af57cc11c5626aee90]: Textual amendment: Sch. 1 para. 4(2) substituted (9.6.2016) by [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/3)
 
-[^key-39d2c5c3eea96696bba883ba6fe8ef5b]: Commencement: Sch. 1 para. 5 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-39d2c5c3eea96696bba883ba6fe8ef5b]: Commencement: Sch. 1 para. 5 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00065]: Footnote: Section 13BA was inserted by section 6(2) of the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33) and was amended by section 16(1) of the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13) and paragraphs 1 and 6 of Schedule 2 to the Recall of MPs Act [2015 (c.25)](https://www.legislation.gov.uk/ukpga/2015/25).
 
-[^key-4a3cc19460b996fc2ccf61ebe962a813]: Textual amendment: Sch. 1 para. 5(1)(g) substituted (9.6.2016) by [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/4)
+[^c-4a3cc19460b996fc2ccf61ebe962a813]: Textual amendment: Sch. 1 para. 5(1)(g) substituted (9.6.2016) by [The European Union Referendum (Voter Registration) Regulations 2016 (S.I. 2016/636)](https://www.legislation.gov.uk/uksi/2016/636), [regs. 1](https://www.legislation.gov.uk/uksi/2016/636/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2016/636/regulation/3/4)
 
-[^key-c05be5c65a582593f2449ea9e3d1e7b9]: Commencement: Sch. 1 para. 6 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c05be5c65a582593f2449ea9e3d1e7b9]: Commencement: Sch. 1 para. 6 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00066]: Footnote: Section 47 was amended by article 4 of [S.I. 1991/1728](https://www.legislation.gov.uk/uksi/1991/1728) and paragraph 6(1) and (4) of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41). There are other amendments to section 47 that are not relevant to these Regulations.
 
-[^key-281c01bb245328846901e4c5f068432e]: Commencement: Sch. 1 para. 7 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-281c01bb245328846901e4c5f068432e]: Commencement: Sch. 1 para. 7 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00067]: Footnote: Section 49 was amended by Schedule 5 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50); paragraphs 2 and 7 of Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); paragraphs 1 and 12 of Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2); and paragraphs 1 and 16 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-401100c0b5e1ebf1c833959955cc483b]: Commencement: Sch. 1 para. 8 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-401100c0b5e1ebf1c833959955cc483b]: Commencement: Sch. 1 para. 8 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-e8ef0cf33cf0dd91d66d94d845c695b8]: Commencement: Sch. 1 para. 9 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-e8ef0cf33cf0dd91d66d94d845c695b8]: Commencement: Sch. 1 para. 9 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00068]: Footnote: Section 52 was amended by paragraph 12 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50). Subsection (1A) was inserted by paragraphs 1 and 5 of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41). Subsection (4) was amended by paragraph 68(12) of Schedule 16 to the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19). The functions of the Secretary of State under section 52 are exercisable concurrently with the Chancellor of the Duchy of Lancaster (see article 3 of and Schedule 1 to [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376)).
 
-[^key-61f0c9718fc5d24b62104f630199b1a6]: Commencement: Sch. 1 para. 10 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-61f0c9718fc5d24b62104f630199b1a6]: Commencement: Sch. 1 para. 10 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00069]: Footnote: Section 54 was amended by paragraph 14 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and paragraphs 1 and 17 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-ed71fe1e6d23e618aa6aee0d0593244e]: Commencement: Sch. 1 para. 11 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-ed71fe1e6d23e618aa6aee0d0593244e]: Commencement: Sch. 1 para. 11 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00070]: Footnote: Section 56 was amended by paragraph 1 of Schedule 2, paragraph 16 of Schedule 4 and Schedule 5 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50); paragraphs 1 and 14 of Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2); section 11(5) of and paragraph 2 and 8 of Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); and section 16(1) and (5) of, and paragraphs 1 and 18 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-acc1491564cff7043fe4a180b70ae076]: Commencement: Sch. 1 para. 12 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-acc1491564cff7043fe4a180b70ae076]: Commencement: Sch. 1 para. 12 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00071]: Footnote: Section 58 was substituted by paragraph 5 of Schedule 4 to the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33) and was amended by paragraphs 1 and 9 of Schedule 2 to the Recall of MPs Act [2015 (c.25)](https://www.legislation.gov.uk/ukpga/2015/25) and article 3(1) and (4) of [S.I. 2014/1116](https://www.legislation.gov.uk/uksi/2014/1116).
 
-[^key-25bff5ce33289994ae068d299aa4f056]: Commencement: Sch. 1 para. 13 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-25bff5ce33289994ae068d299aa4f056]: Commencement: Sch. 1 para. 13 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-d0f709177a4099f939291dff68253036]: Commencement: Sch. 1 para. 14 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-d0f709177a4099f939291dff68253036]: Commencement: Sch. 1 para. 14 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00072]: Footnote: Section 61 was amended by paragraph 2 of Schedule 2 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50); paragraph 83 of Schedule 27 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33); and section 38(3) of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). There are other amendments that are not relevant to these Regulations.
 
-[^key-3a120682f14fc48bb568ee2b3b4a5148]: Commencement: Sch. 1 para. 15 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-3a120682f14fc48bb568ee2b3b4a5148]: Commencement: Sch. 1 para. 15 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00073]: Footnote: Section 62A was inserted by section 40 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-19bbbfc79e8df00e2f2a9be92e535152]: Commencement: Sch. 1 para. 16 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-19bbbfc79e8df00e2f2a9be92e535152]: Commencement: Sch. 1 para. 16 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00074]: Footnote: Section 63 was substituted by paragraph 19 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and was amended by sections 7, 41(8) and 46(6) of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); section 25(a) of the Political Parties and Elections Act [2009 (c.12)](https://www.legislation.gov.uk/ukpga/2009/12); and paragraph 57(1) and (2) of Schedule 1 to [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
 
-[^key-372ea98ec48425c031364d03e13b4549]: Commencement: Sch. 1 para. 17 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-372ea98ec48425c031364d03e13b4549]: Commencement: Sch. 1 para. 17 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00075]: Footnote: Section 65 was amended by paragraph 2 of Schedule 3 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and paragraphs 69 and 72 of Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). There are other amendments that are not relevant to these Regulations.
 
-[^key-de0dcb1cff247579a259d5b7b7b810b5]: Commencement: Sch. 1 para. 18 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-de0dcb1cff247579a259d5b7b7b810b5]: Commencement: Sch. 1 para. 18 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00076]: Footnote: Section 66 was amended by paragraph 2 of Schedule 3 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and paragraphs 69, 82 and 86 of Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). There are other amendments that are not relevant to these Regulations.
 
-[^key-d08151e271c1490dcb3ac94f77f1eada]: Commencement: Sch. 1 para. 19 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-d08151e271c1490dcb3ac94f77f1eada]: Commencement: Sch. 1 para. 19 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00077]: Footnote: Section 66A was inserted by paragraphs 3 and 6 of Schedule 6 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2).
 
-[^key-16767473586ec3641068119cbdf6e248]: Commencement: Sch. 1 para. 20 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-16767473586ec3641068119cbdf6e248]: Commencement: Sch. 1 para. 20 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00078]: Footnote: Section 66B was inserted by section 41(9) of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-520c1cc1631eef0e35ee2eadb6e30e1f]: Commencement: Sch. 1 para. 21 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-520c1cc1631eef0e35ee2eadb6e30e1f]: Commencement: Sch. 1 para. 21 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00079]: Footnote: Section 92 was amended by paragraph 35(3) and (5) of Schedule 20 to the Broadcasting Act [1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42) and paragraph 61 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-3e7830c171f17388733afe1e85e4dbb5]: Commencement: Sch. 1 para. 22 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-3e7830c171f17388733afe1e85e4dbb5]: Commencement: Sch. 1 para. 22 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00080]: Footnote: Section 94(1) was amended by paragraph 36 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-b7358d9c283ab77fcdfd0c287436e9e3]: Commencement: Sch. 1 para. 23 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-b7358d9c283ab77fcdfd0c287436e9e3]: Commencement: Sch. 1 para. 23 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00081]: Footnote: Section 97 was amended by paragraph 39 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and Part 1 of Schedule 7 to the Police and Criminal Evidence Act [1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-11951c5e1fc9a1d04d1379077d05640e]: Commencement: Sch. 1 para. 24 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-11951c5e1fc9a1d04d1379077d05640e]: Commencement: Sch. 1 para. 24 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00082]: Footnote: Section 98 was repealed as regards England and Wales by Part 1 of Schedule 13 to the Local Government Finance Act [1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-c4dca9693b6a360f35cc19c055f4ca66]: Commencement: Sch. 1 para. 25 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c4dca9693b6a360f35cc19c055f4ca66]: Commencement: Sch. 1 para. 25 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00083]: Footnote: Section 99 was amended by paragraph 4 of Schedule 3 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-8f73cf3da4b32d47ae6af12791eb37f1]: Commencement: Sch. 1 para. 26 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-8f73cf3da4b32d47ae6af12791eb37f1]: Commencement: Sch. 1 para. 26 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00084]: Footnote: Section 100 was amended by paragraph 5 of Schedule 3 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and section 78(2)(c) of the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-c74a79b7f5d9f0d1c8149f5d1bd184ae]: Commencement: Sch. 1 para. 27 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c74a79b7f5d9f0d1c8149f5d1bd184ae]: Commencement: Sch. 1 para. 27 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-1a33f8c98a01910e0ffbec68161d885e]: Commencement: Sch. 1 para. 28 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-1a33f8c98a01910e0ffbec68161d885e]: Commencement: Sch. 1 para. 28 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-83448ebe90d6312857c43ec1fa5f8595]: Commencement: Sch. 1 para. 29 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-83448ebe90d6312857c43ec1fa5f8595]: Commencement: Sch. 1 para. 29 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-76f9bedfa8fe1e661d27f37a83bd8b60]: Commencement: Sch. 1 para. 30 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-76f9bedfa8fe1e661d27f37a83bd8b60]: Commencement: Sch. 1 para. 30 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00085]: Footnote: There are amendments to section 113 that are not relevant to these Regulations.
 
-[^key-236282de4c3be78d79590036472af958]: Commencement: Sch. 1 para. 31 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-236282de4c3be78d79590036472af958]: Commencement: Sch. 1 para. 31 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-9db6d500d1a1a37f8a53719122fef349]: Commencement: Sch. 1 para. 32 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-9db6d500d1a1a37f8a53719122fef349]: Commencement: Sch. 1 para. 32 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00086]: Footnote: Section 115 was amended by section 39 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) and section 14 of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
 
-[^key-c5cd0567ababd9d5fe8be9b8b4a50add]: Commencement: Sch. 1 para. 33 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c5cd0567ababd9d5fe8be9b8b4a50add]: Commencement: Sch. 1 para. 33 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-0d31182386dbf886faafa88f54a49728]: Commencement: Sch. 1 para. 34 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-0d31182386dbf886faafa88f54a49728]: Commencement: Sch. 1 para. 34 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-0aa2b4f88ccddb4ef3a2d8991826b1cc]: Commencement: Sch. 1 para. 35 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-0aa2b4f88ccddb4ef3a2d8991826b1cc]: Commencement: Sch. 1 para. 35 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00087]: Footnote: Section 119 was amended by section 19(4) of the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50); paragraphs 49 and 51 of Schedule 2 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); section 30 of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14); and paragraphs 6 and 9 of the Schedule to the Fixed-term Parliaments Act [2011 (c.14)](https://www.legislation.gov.uk/ukpga/2011/14).
 
-[^key-c5814d995732100d517b7a3e2098d09b]: Commencement: Sch. 1 para. 36 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c5814d995732100d517b7a3e2098d09b]: Commencement: Sch. 1 para. 36 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00088]: Footnote: Section 167(1) was amended by paragraph 52 of Schedule 9 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 167(1A) was inserted by paragraph 56 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-f47d0f0b1cfb4c47c34da0163bdc47a6]: Commencement: Sch. 1 para. 37 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-f47d0f0b1cfb4c47c34da0163bdc47a6]: Commencement: Sch. 1 para. 37 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00089]: Footnote: Section 168 was amended by paragraph 8 of Schedule 3 and paragraph 57 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50); paragraphs 104 and 121 of Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); and paragraphs 1 and 11 of Schedule 2 to the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
 
-[^key-bd21f67f3e73d72ff5ba59da1296370e]: Commencement: Sch. 1 para. 38 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-bd21f67f3e73d72ff5ba59da1296370e]: Commencement: Sch. 1 para. 38 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00090]: Footnote: Section 169 was amended by paragraph 9 of Schedule 3 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
@@ -804,42 +804,42 @@ Rule 22(3) in Schedule 1 to the 1983 Act[^f00102] applies for the purposes of th
 
 [^f00093]: Footnote: Section 175(1) and (3) was amended by paragraph 6(1) and (6) of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41). Subsection (1) was also amended by paragraph 10 of Schedule 3 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-8dfb01368f294e1583e6597e27909ed9]: Commencement: Sch. 1 para. 39 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-8dfb01368f294e1583e6597e27909ed9]: Commencement: Sch. 1 para. 39 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00094]: Footnote: Section 176 was amended by paragraph 61 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and section 70 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-4ea5707ae45cdb7eaa6bde1904009768]: Commencement: Sch. 1 para. 40 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-4ea5707ae45cdb7eaa6bde1904009768]: Commencement: Sch. 1 para. 40 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00095]: Footnote: Section 178 was substituted by paragraph 62 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-c153df9dddee231dbed82d2b9f76f267]: Commencement: Sch. 1 para. 41 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c153df9dddee231dbed82d2b9f76f267]: Commencement: Sch. 1 para. 41 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00096]: Footnote: Section 179 was amended by paragraphs 1 and 12 of Schedule 2 to the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
 
-[^key-7b62ca891f6c1c469ff6f127d1d74f32]: Commencement: Sch. 1 para. 42 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-7b62ca891f6c1c469ff6f127d1d74f32]: Commencement: Sch. 1 para. 42 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00097]: Footnote: Section 181(1) was amended by paragraph 63(a) of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-d1890f8dfe1ce37dc594850babf6d1a7]: Commencement: Sch. 1 para. 43 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-d1890f8dfe1ce37dc594850babf6d1a7]: Commencement: Sch. 1 para. 43 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00098]: Footnote: Section 184 was amended by paragraphs 1 and 19(5) of Schedule 18 to the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41); paragraphs 116 and 118 of Schedule 12 to the Postal Services Act [2011 (c.5)](https://www.legislation.gov.uk/ukpga/2011/5); and paragraphs 57(1) and (3) of Schedule 1 to [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
 
-[^key-702978e046ae80c5a1a95f61a82a6245]: Commencement: Sch. 1 para. 44 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-702978e046ae80c5a1a95f61a82a6245]: Commencement: Sch. 1 para. 44 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-81d8c3b4190e6cef8c25d5be0931341a]: Commencement: Sch. 1 para. 45 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-81d8c3b4190e6cef8c25d5be0931341a]: Commencement: Sch. 1 para. 45 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00099]: Footnote: Section 199B was inserted by section 36 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-cb7564932bf1977edb317200980256f1]: Commencement: Sch. 1 para. 46 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-cb7564932bf1977edb317200980256f1]: Commencement: Sch. 1 para. 46 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00100]: Footnote: Section 202 was amended by section 4(5) of, and Schedule 2 and paragraphs 70 of Schedule 4 to, the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50); Part 14 of Schedule 1 to the Statute Law (Repeals) Act [1993 (c.50)](https://www.legislation.gov.uk/ukpga/1993/50); the Schedule to the Law Officers Act [1997 (c.60)](https://www.legislation.gov.uk/ukpga/1997/60); paragraphs 1 and 22 of Schedule 1 and paragraphs 3 and 9 of Schedule 6 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2); paragraphs 1 and 19(6) of Schedule 18 and paragraph 6(1) and (8) of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41); section 28(2) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14); section 73(1) and (2) of, and paragraphs 2, 13, 69, 76, 104 and 128 of Schedule 1 to, the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); paragraphs 116 and 120 of Schedule 12 to the Postal Services Act [2011 (c.5)](https://www.legislation.gov.uk/ukpga/2011/5), regulation 4(2) of [S.I. 1994/1948](https://www.legislation.gov.uk/uksi/1994/1948); and paragraphs 57(1) and (4) of Schedule 1 to [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149). There are other amendments that are not relevant to these Regulations.
 
-[^key-a04fea78f6ebad468795084d1936880f]: Commencement: Sch. 1 para. 47 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-a04fea78f6ebad468795084d1936880f]: Commencement: Sch. 1 para. 47 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-236584f251d712562b5f85e44e85ce82]: Commencement: Sch. 1 para. 48 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-236584f251d712562b5f85e44e85ce82]: Commencement: Sch. 1 para. 48 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00101]: Footnote: Section 205 was amended by paragraph 72 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-6fd464a472a34f542bb610a15bded866]: Commencement: Sch. 1 para. 49 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-6fd464a472a34f542bb610a15bded866]: Commencement: Sch. 1 para. 49 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00102]: Footnote: Rule 22(3) was repealed as regards England and Wales by Part 1 of Schedule 13 to the Local Government Finance Act [1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41).

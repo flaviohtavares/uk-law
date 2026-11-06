@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Treatment of 2016 Regulations[^key-dfe3c350a5fb416832919020fa325f81]
+## 106. Treatment of 2016 Regulations[^c-dfe3c350a5fb416832919020fa325f81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Tobacco and Related Products Regulations 2016 ([S.I. 2016/507](https://www.l
 
 ## Annotations
 
-[^key-dfe3c350a5fb416832919020fa325f81]: Commencement: S. 106 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-dfe3c350a5fb416832919020fa325f81]: Commencement: S. 106 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

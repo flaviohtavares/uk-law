@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**24.**[^key-d8ced18e2793102108da3e6cb08de167] In Part 63 (Appeal to the Crown Court)—
+**24.**[^c-d8ced18e2793102108da3e6cb08de167] In Part 63 (Appeal to the Crown Court)—
 
 - (a) in rule 63.1(1)(a)(iii) (When this Part applies), after “2000”, insert “, or paragraphs 9(8) or 13(5) of Schedule 8 to the Criminal Justice Act 2003[^f00010]”;
 - (b) in the note after rule 63.1 (When this Part applies)—
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8ced18e2793102108da3e6cb08de167]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2009/2087/article/24) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-d8ced18e2793102108da3e6cb08de167]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2009/2087/article/24) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00010]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).

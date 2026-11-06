@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Forfeiture of seized items by court on application[^key-bd22c2bd18457399236e9f742766aafd]
+## 51. Forfeiture of seized items by court on application[^c-bd22c2bd18457399236e9f742766aafd]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ But if it is decided before the end of the period mentioned in paragraph (a) tha
 
 ## Annotations
 
-[^key-bd22c2bd18457399236e9f742766aafd]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/2/section/51) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-bd22c2bd18457399236e9f742766aafd]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/2/section/51) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

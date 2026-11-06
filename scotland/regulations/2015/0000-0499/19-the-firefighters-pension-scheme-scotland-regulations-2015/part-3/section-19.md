@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Active membership[^key-eff5453504ec0c68ef66f350ac05bc48]
+## 19. Active membership[^c-eff5453504ec0c68ef66f350ac05bc48]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ A person (P) is an active member of this scheme if—
 
 ## Annotations
 
-[^key-eff5453504ec0c68ef66f350ac05bc48]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/19/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-eff5453504ec0c68ef66f350ac05bc48]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/19/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

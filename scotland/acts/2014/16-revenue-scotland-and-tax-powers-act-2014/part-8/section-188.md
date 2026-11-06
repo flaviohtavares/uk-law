@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 188. Potential lost revenue: multiple errors[^key-c1b759011f51b4f0c47cbdfdfa759b37]
+## 188. Potential lost revenue: multiple errors[^c-c1b759011f51b4f0c47cbdfdfa759b37]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b759011f51b4f0c47cbdfdfa759b37]: Commencement: [S. 188](https://www.legislation.gov.uk/asp/2014/16/section/188) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-c1b759011f51b4f0c47cbdfdfa759b37]: Commencement: [S. 188](https://www.legislation.gov.uk/asp/2014/16/section/188) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

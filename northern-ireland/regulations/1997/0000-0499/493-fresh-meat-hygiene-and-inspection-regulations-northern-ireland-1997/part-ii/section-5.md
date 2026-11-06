@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Revocation of licences[^key-f01b046565bdd3fec657334a1da5ef98]
+## 5. Revocation of licences[^c-f01b046565bdd3fec657334a1da5ef98]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f01b046565bdd3fec657334a1da5ef98]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-f01b046565bdd3fec657334a1da5ef98]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

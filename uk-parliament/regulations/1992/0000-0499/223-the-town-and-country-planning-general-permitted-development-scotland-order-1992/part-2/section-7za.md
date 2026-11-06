@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7ZA. Notification of an application for a determination under class 67[^key-a2c69b18f702b0be2c666fd7fc80a48a]
+## 7ZA. Notification of an application for a determination under class 67[^c-a2c69b18f702b0be2c666fd7fc80a48a]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2c69b18f702b0be2c666fd7fc80a48a]: Textual amendment: [Arts. 7ZA-7ZE](https://www.legislation.gov.uk/uksi/1992/223/article/7ZA) inserted (31.7.2017) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2017 (S.S.I. 2017/189)](https://www.legislation.gov.uk/ssi/2017/189), [arts. 1](https://www.legislation.gov.uk/ssi/2017/189/article/1), [5](https://www.legislation.gov.uk/ssi/2017/189/article/5) (with [art. 2](https://www.legislation.gov.uk/ssi/2017/189/article/2))
+[^c-a2c69b18f702b0be2c666fd7fc80a48a]: Textual amendment: [Arts. 7ZA-7ZE](https://www.legislation.gov.uk/uksi/1992/223/article/7ZA) inserted (31.7.2017) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2017 (S.S.I. 2017/189)](https://www.legislation.gov.uk/ssi/2017/189), [arts. 1](https://www.legislation.gov.uk/ssi/2017/189/article/1), [5](https://www.legislation.gov.uk/ssi/2017/189/article/5) (with [art. 2](https://www.legislation.gov.uk/ssi/2017/189/article/2))

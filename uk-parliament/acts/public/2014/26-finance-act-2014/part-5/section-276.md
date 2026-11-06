@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Limitation of defence of reasonable care[^key-8b724f45dd9eb5c9a6909d41131ade2e]
+## 276. Limitation of defence of reasonable care[^c-8b724f45dd9eb5c9a6909d41131ade2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b724f45dd9eb5c9a6909d41131ade2e]: Textual amendment: [S. 276](https://www.legislation.gov.uk/ukpga/2014/26/section/276) omitted (with effect in accordance with s. 64(5)(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 64(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/64/4)
+[^c-8b724f45dd9eb5c9a6909d41131ade2e]: Textual amendment: [S. 276](https://www.legislation.gov.uk/ukpga/2014/26/section/276) omitted (with effect in accordance with s. 64(5)(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 64(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/64/4)

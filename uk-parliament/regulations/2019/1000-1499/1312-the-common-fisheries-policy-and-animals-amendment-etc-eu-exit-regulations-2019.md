@@ -52,7 +52,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-b326181d1444971d3e0541a399aa9f70]
+### 1. Citation and commencement[^c-b326181d1444971d3e0541a399aa9f70]
 
 (1) These Regulations may be cited as the Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019.
 
@@ -60,7 +60,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (3) Regulations 2, 5, 6 and 7 and the Schedule to these Regulations come into force on exit day.
 
-### 2. Revocations[^key-20a8557ff03e7fd081c2e8b1de833888]
+### 2. Revocations[^c-20a8557ff03e7fd081c2e8b1de833888]
 
 The legislation listed in the Schedule to these Regulations is revoked.
 
@@ -68,7 +68,7 @@ The legislation listed in the Schedule to these Regulations is revoked.
 
 ### CHAPTER 1 — UPDATING EU EXIT REGULATIONS IN CONSEQUENCE OF THE 2019 TECHNICAL CONSERVATION REGULATION
 
-#### 3. The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019[^key-c5ff6a291180746d3dd24b955dd3db9b]
+#### 3. The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019[^c-c5ff6a291180746d3dd24b955dd3db9b]
 
 (1) The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 [^c23937641] are amended as follows.
 
@@ -85,7 +85,7 @@ The legislation listed in the Schedule to these Regulations is revoked.
 
   .
 
-#### 4. The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^key-2d4bf035ea2e61aa7463476b26b6f73e]
+#### 4. The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^c-2d4bf035ea2e61aa7463476b26b6f73e]
 
 (1) The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 [^c23937651] are amended as follows.
 
@@ -107,7 +107,7 @@ The legislation listed in the Schedule to these Regulations is revoked.
 
 ### CHAPTER 2 — AMENDMENT OF THE 2019 TECHNICAL CONSERVATION REGULATION
 
-#### 5. Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fishery resources and the protection of marine ecosystems through technical measures[^key-57608b3939c4da33ab937f850f5c404a]
+#### 5. Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fishery resources and the protection of marine ecosystems through technical measures[^c-57608b3939c4da33ab937f850f5c404a]
 
 (1) Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fishery resources and the protection of marine ecosystems through technical measures is amended as follows.
 
@@ -598,7 +598,7 @@ The legislation listed in the Schedule to these Regulations is revoked.
 
 - (a) in Part A (minimum conservation reference sizes), in table note 1 for “Union” substitute “ United Kingdom ”;
 - (b) in Part B (mesh sizes)—
-  - (i)[^key-a8c53efb8ebc4592a8d1e4b444e1e0a6] in point 1.1, omit “or at least 90mm in Skagerrak and Kattegat”,
+  - (i)[^c-a8c53efb8ebc4592a8d1e4b444e1e0a6] in point 1.1, omit “or at least 90mm in Skagerrak and Kattegat”,
   - (ii) in point 1.2—
     - (aa) omit “and notwithstanding point 1.1,”,
     - (bb) omit “, Skagerrak and Kattegat”, and
@@ -745,7 +745,7 @@ The legislation listed in the Schedule to these Regulations is revoked.
 
 ### CHAPTER 1 — AMENDMENT OF THE WESTERN WATERS MULTIANNUAL PLAN
 
-#### 6. Regulation (EU) 2019/472 of the European Parliament and of the Council establishing a multiannual plan for stocks fished in the Western Waters and adjacent waters, and for fisheries exploiting those stocks[^key-c8fafe8af05884cf2ef1c27f73cd5506]
+#### 6. Regulation (EU) 2019/472 of the European Parliament and of the Council establishing a multiannual plan for stocks fished in the Western Waters and adjacent waters, and for fisheries exploiting those stocks[^c-c8fafe8af05884cf2ef1c27f73cd5506]
 
 (1) Regulation (EU) 2019/472 of the European Parliament and of the Council establishing a multiannual plan for stocks fished in the Western Waters and adjacent waters, and for fisheries exploiting those stocks is amended as follows.
 
@@ -888,8 +888,8 @@ The legislation listed in the Schedule to these Regulations is revoked.
 (13) In Article 13—
 
 - (a) in the heading for “Union” substitute “ United Kingdom ”;
-- (b) in paragraph 1 for the words from “the Commission” to “Article 18 of Regulation (EU) No 1380/2013” substitute “ a fisheries administration may make regulations ”; [^key-6d90455ea278938f962fbd273e77fc0d]...
-- (ba)[^key-83d3df60e8f58a8b1d3f3cbde21dfb04] after paragraph 1 insert—
+- (b) in paragraph 1 for the words from “the Commission” to “Article 18 of Regulation (EU) No 1380/2013” substitute “ a fisheries administration may make regulations ”; [^c-6d90455ea278938f962fbd273e77fc0d]...
+- (ba)[^c-83d3df60e8f58a8b1d3f3cbde21dfb04] after paragraph 1 insert—
 
   > **1A.** Subject to paragraph 1B, for all stocks of species in the Western Waters to which the landing obligation applies under Article 15(1) of [Regulation (EU) No. 1380/2013](https://www.legislation.gov.uk/eur/2013/1380), the Secretary of State may make regulations in order to supplement this Regulation by specifying details of that obligation as provided for in points (a) to (e) of Article 15(5) of [Regulation (EU) No 1380/2013](https://www.legislation.gov.uk/eur/2013/1380).
   >
@@ -974,7 +974,7 @@ The legislation listed in the Schedule to these Regulations is revoked.
 
 ### CHAPTER 2 — AMENDMENT OF THE NORTH SEA MULTIANNUAL PLAN
 
-#### 7. Regulation (EU) 2018/973 of the European Parliament and of the Council establishing a multiannual plan for demersal stocks in the North Sea and the fisheries exploiting those stocks, specifying details of the implementation of the landing obligation in the North Sea[^key-fd67ab993167184f394acd1bd580b02a]
+#### 7. Regulation (EU) 2018/973 of the European Parliament and of the Council establishing a multiannual plan for demersal stocks in the North Sea and the fisheries exploiting those stocks, specifying details of the implementation of the landing obligation in the North Sea[^c-fd67ab993167184f394acd1bd580b02a]
 
 (1) Regulation (EU) 2018/973 of the European Parliament and of the Council establishing a multiannual plan for demersal stocks in the North Sea and the fisheries exploiting those stocks, specifying details of the implementation of the landing obligation in the North Sea is amended as follows.
 
@@ -1080,8 +1080,8 @@ The legislation listed in the Schedule to these Regulations is revoked.
 (5) In Article 11—
 
 - (a) in the heading omit “Union waters of”;
-- (b) in paragraph 1 for the words from “the Commission” to “Article 18 of Regulation (EU) No 1380/2013” substitute “ a fisheries administration may make regulations ”; [^key-93dfa2e91930fd47d5b2d40950b8af3e]...
-- (ba)[^key-296664c4033895fd8a7d529456575538] after paragraph 1 insert—
+- (b) in paragraph 1 for the words from “the Commission” to “Article 18 of Regulation (EU) No 1380/2013” substitute “ a fisheries administration may make regulations ”; [^c-93dfa2e91930fd47d5b2d40950b8af3e]...
+- (ba)[^c-296664c4033895fd8a7d529456575538] after paragraph 1 insert—
 
   > **1A.** Subject to paragraph 1B, for all stocks of species in the North Sea to which the landing obligation applies under Article 15(1) of [Regulation (EU) No. 1380/2013](https://www.legislation.gov.uk/eur/2013/1380), the Secretary of State may make regulations in order to supplement this Regulation by specifying details of that obligation as provided for in points (a) to (e) of Article 15(5) of [Regulation (EU) No 1380/2013](https://www.legislation.gov.uk/eur/2013/1380).
   >
@@ -1137,7 +1137,7 @@ The legislation listed in the Schedule to these Regulations is revoked.
 
 ## PART 4 — OTHER AMENDMENTS
 
-### 8. The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019[^key-9b745b31be3ee2a5345435fd4b34178c]
+### 8. The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019[^c-9b745b31be3ee2a5345435fd4b34178c]
 
 (1) The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 [^c23937861] are amended as follows.
 
@@ -1169,11 +1169,11 @@ The legislation listed in the Schedule to these Regulations is revoked.
 - (a) in paragraph (5)(b)(i) for “fishing” substitute “ fisheries ”; and
 - (b) in paragraph (10)(a)(i) omit “special”.
 
-(7)[^key-3f43567a39eb3b400a17c0ffcd15e968] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3f43567a39eb3b400a17c0ffcd15e968] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In the Schedule omit point (e).
 
-### 9. The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^key-e7c1e035c8f5df892ffaad5df85621bd]
+### 9. The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^c-e7c1e035c8f5df892ffaad5df85621bd]
 
 (1) The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 [^c23937871] are amended as follows.
 
@@ -1226,13 +1226,13 @@ The legislation listed in the Schedule to these Regulations is revoked.
 - (a) for “designates” substitute “ distributes ”; and
 - (b) after “opportunities” insert “ for use by fishing vessels ”.
 
-### 10. The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2019[^key-eb93d1fcaef66979e00ba089bca527df]
+### 10. The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2019[^c-eb93d1fcaef66979e00ba089bca527df]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. The Animals (Legislative Functions) (EU Exit) Regulations 2019[^key-647ab9b035559214296ee1921e10ee17]
+### 11. The Animals (Legislative Functions) (EU Exit) Regulations 2019[^c-647ab9b035559214296ee1921e10ee17]
 
 (1) The Animals (Legislative Functions) (EU Exit) Regulations 2019 [^c23937891] are amended as follows.
 
@@ -1251,7 +1251,7 @@ Minister of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — REVOCATIONS[^key-41ef510f8d935892336a1a9f6528f0e6]
+## SCHEDULE — REVOCATIONS[^c-41ef510f8d935892336a1a9f6528f0e6]
 
 Regulation 2
 
@@ -1275,19 +1275,19 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23937631]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b326181d1444971d3e0541a399aa9f70]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b326181d1444971d3e0541a399aa9f70]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-20a8557ff03e7fd081c2e8b1de833888]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-20a8557ff03e7fd081c2e8b1de833888]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c5ff6a291180746d3dd24b955dd3db9b]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c5ff6a291180746d3dd24b955dd3db9b]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23937641]: Marginal citation: [S.I. 2019/739](https://www.legislation.gov.uk/uksi/2019/739).
 
-[^key-2d4bf035ea2e61aa7463476b26b6f73e]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2d4bf035ea2e61aa7463476b26b6f73e]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23937651]: Marginal citation: [S.I. 2019/753](https://www.legislation.gov.uk/uksi/2019/753).
 
-[^key-57608b3939c4da33ab937f850f5c404a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-57608b3939c4da33ab937f850f5c404a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23937661]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627); relevant amending instruments are [S.I. 2018/287](https://www.legislation.gov.uk/uksi/2018/287) and 2018/1399.
 
@@ -1309,17 +1309,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23937751]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a8c53efb8ebc4592a8d1e4b444e1e0a6]: Textual amendment: Reg. 5(34)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/2)
+[^c-a8c53efb8ebc4592a8d1e4b444e1e0a6]: Textual amendment: Reg. 5(34)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/2)
 
-[^key-c8fafe8af05884cf2ef1c27f73cd5506]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c8fafe8af05884cf2ef1c27f73cd5506]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23937761]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
 [^c23937771]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627); relevant amending instruments are [S.I. 2018/287](https://www.legislation.gov.uk/uksi/2018/287) and 2018/1399.
 
-[^key-6d90455ea278938f962fbd273e77fc0d]: Textual amendment: Word in reg. 6(13)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/3/a)
+[^c-6d90455ea278938f962fbd273e77fc0d]: Textual amendment: Word in reg. 6(13)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/3/a)
 
-[^key-83d3df60e8f58a8b1d3f3cbde21dfb04]: Textual amendment: Reg. 6(13)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/3/b)
+[^c-83d3df60e8f58a8b1d3f3cbde21dfb04]: Textual amendment: Reg. 6(13)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/3/b)
 
 [^c23937781]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
@@ -1329,11 +1329,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23937811]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-fd67ab993167184f394acd1bd580b02a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-fd67ab993167184f394acd1bd580b02a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-93dfa2e91930fd47d5b2d40950b8af3e]: Textual amendment: Word in reg. 7(5)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(4)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/4/a)
+[^c-93dfa2e91930fd47d5b2d40950b8af3e]: Textual amendment: Word in reg. 7(5)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(4)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/4/a)
 
-[^key-296664c4033895fd8a7d529456575538]: Textual amendment: Reg. 7(5)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(4)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/4/b)
+[^c-296664c4033895fd8a7d529456575538]: Textual amendment: Reg. 7(5)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(4)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/4/b)
 
 [^c23937821]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
@@ -1343,20 +1343,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23937851]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9b745b31be3ee2a5345435fd4b34178c]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9b745b31be3ee2a5345435fd4b34178c]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23937861]: Marginal citation: [S.I. 2019/739](https://www.legislation.gov.uk/uksi/2019/739).
 
-[^key-3f43567a39eb3b400a17c0ffcd15e968]: Textual amendment: Reg. 8(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(5)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/5)
+[^c-3f43567a39eb3b400a17c0ffcd15e968]: Textual amendment: Reg. 8(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [17(5)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/17/5)
 
-[^key-e7c1e035c8f5df892ffaad5df85621bd]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e7c1e035c8f5df892ffaad5df85621bd]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23937871]: Marginal citation: [S.I. 2019/753](https://www.legislation.gov.uk/uksi/2019/753).
 
-[^key-eb93d1fcaef66979e00ba089bca527df]: Textual amendment: Reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1542/regulation/4)
+[^c-eb93d1fcaef66979e00ba089bca527df]: Textual amendment: Reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1542/regulation/4)
 
-[^key-647ab9b035559214296ee1921e10ee17]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-647ab9b035559214296ee1921e10ee17]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23937891]: Marginal citation: [S.I. 2019/588](https://www.legislation.gov.uk/uksi/2019/588).
 
-[^key-41ef510f8d935892336a1a9f6528f0e6]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-41ef510f8d935892336a1a9f6528f0e6]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

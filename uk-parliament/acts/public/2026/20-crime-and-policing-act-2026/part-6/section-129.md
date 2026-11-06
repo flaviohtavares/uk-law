@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Stalking protection orders on conviction[^key-32620304aa3ef2a471a3ad1b28a410a4]
+## 129. Stalking protection orders on conviction[^c-32620304aa3ef2a471a3ad1b28a410a4]
 
 *Extent: E+W*
 
@@ -195,4 +195,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32620304aa3ef2a471a3ad1b28a410a4]: Commencement: S. 129 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-32620304aa3ef2a471a3ad1b28a410a4]: Commencement: S. 129 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

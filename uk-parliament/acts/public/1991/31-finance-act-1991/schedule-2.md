@@ -26,7 +26,7 @@ Section 7.
 
 **1.** Subject to section 7 of this Act and the following provisions of this Schedule—
 
-- (a) for the words “brewer for sale” or “brewers for sale”, wherever occurring in the Customs and Excise Acts 1979 [^key-15d222e4e723eb838376138fcf3c8882]... [^key-f33e523cc8e2160b42bba316ee94a920]... there shall be substituted respectively the words “registered brewer ” or “registered brewers ”; and
+- (a) for the words “brewer for sale” or “brewers for sale”, wherever occurring in the Customs and Excise Acts 1979 [^c-15d222e4e723eb838376138fcf3c8882]... [^c-f33e523cc8e2160b42bba316ee94a920]... there shall be substituted respectively the words “registered brewer ” or “registered brewers ”; and
 - (b) for the word “brew”, “brews”, “brewing” or “brewed”, wherever occurring in those Acts in connection with worts or beer, there shall be substituted respectively the word “produce ”, “produces ”, “producing ” or “produced ”.
 
 ### The Alcoholic Liquor Duties Act 1979 (c.4)
@@ -138,19 +138,19 @@ shall cease to have effect.
 
 ### The Bankruptcy (Scotland) Act 1985 (c.66)
 
-**21.**[^key-36091d673d291320c87239a06cf9b075] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-36091d673d291320c87239a06cf9b075] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Insolvency Act 1986 (c.45)
 
-**21A.**[^key-02494f9f1caf55c1a41f212240c474ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21A.**[^c-02494f9f1caf55c1a41f212240c474ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-1f4020975b5dd4ccca0ba05439c4612e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-1f4020975b5dd4ccca0ba05439c4612e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Insolvency (Northern Ireland) Order 1989
 
-**22A.**[^key-7c8f276ee083a7afb66638b4f23dca01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22A.**[^c-7c8f276ee083a7afb66638b4f23dca01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-092f9540b9c6724d6a0798595810bf2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-092f9540b9c6724d6a0798595810bf2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Licensing (Northern Ireland) Order 1990
 
@@ -158,9 +158,9 @@ shall cease to have effect.
 
 ## Annotations
 
-[^key-15d222e4e723eb838376138fcf3c8882]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-15d222e4e723eb838376138fcf3c8882]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-f33e523cc8e2160b42bba316ee94a920]: Textual amendment: Words in [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/1/a) repealed (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-f33e523cc8e2160b42bba316ee94a920]: Textual amendment: Words in [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/1/a) repealed (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c12038481]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/3) wholly in force; [para. 3](https://www.legislation.gov.uk/ukpga/1991/31/paragraph/3) not in force at Royal Assent see. [s. 7(5)](https://www.legislation.gov.uk/ukpga/1991/31/section/7/5); [para. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1991/31/paragraph/3/1/2) in force at 1.5.1993 and para. 3(3) in force at 1.6.1993 by [S.I. 1993/1152](https://www.legislation.gov.uk/uksi/1993/1152), [art. 3](https://www.legislation.gov.uk/uksi/1993/1152/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1152/schedule/1).
 
@@ -180,14 +180,14 @@ shall cease to have effect.
 
 [^c12038601]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/17) repealed (9.12.1992 for specified purposes and 1.6.1993 otherwise) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 82](https://www.legislation.gov.uk/ukpga/1992/48/section/82), [Sch. 18 Pt. I](https://www.legislation.gov.uk/ukpga/1992/48/schedule/18/part/I) Note 4; [S.I. 1992/3104](https://www.legislation.gov.uk/uksi/1992/3104), [art. 2](https://www.legislation.gov.uk/uksi/1992/3104/article/2); [S.I. 1993/1341](https://www.legislation.gov.uk/uksi/1993/1341), [art. 2](https://www.legislation.gov.uk/uksi/1993/1341/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1993/1341/schedule)
 
-[^key-36091d673d291320c87239a06cf9b075]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/21) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-36091d673d291320c87239a06cf9b075]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/21) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
-[^key-02494f9f1caf55c1a41f212240c474ba]: Textual amendment: [Sch. 2 para. 21A](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/21A) repealed (15.9.2003) by [Enterprise Act 2002 (repealed) 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-02494f9f1caf55c1a41f212240c474ba]: Textual amendment: [Sch. 2 para. 21A](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/21A) repealed (15.9.2003) by [Enterprise Act 2002 (repealed) 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-1f4020975b5dd4ccca0ba05439c4612e]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/22) repealed (15.9.2003) by [Enterprise Act 2002 (repealed) 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-1f4020975b5dd4ccca0ba05439c4612e]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/22) repealed (15.9.2003) by [Enterprise Act 2002 (repealed) 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-7c8f276ee083a7afb66638b4f23dca01]: Textual amendment: [Sch. 2 para. 22A](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/22A) repealed (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
+[^c-7c8f276ee083a7afb66638b4f23dca01]: Textual amendment: [Sch. 2 para. 22A](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/22A) repealed (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
-[^key-092f9540b9c6724d6a0798595810bf2a]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/23) repealed (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
+[^c-092f9540b9c6724d6a0798595810bf2a]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/1991/31/schedule/2/paragraph/23) repealed (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
 [^c12038651]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1991/31/section/24) repealed (20.2.1997) by [S.I. 1996/3158](https://www.legislation.gov.uk/uksi/1996/3158)(N.I. 22), art. 85(4), Sch. 13

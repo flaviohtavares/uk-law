@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE   3C — DATE FROM WHICH CHANGE OF CIRCUMSTANCES TAKES EFFECT WHERE CLAIMANT ENTITLED TO EMPLOYMENT AND SUPPORT ALLOWANCE[^key-720271908b63be7e3380a5692f6ec9ba]
+## SCHEDULE   3C — DATE FROM WHICH CHANGE OF CIRCUMSTANCES TAKES EFFECT WHERE CLAIMANT ENTITLED TO EMPLOYMENT AND SUPPORT ALLOWANCE[^c-720271908b63be7e3380a5692f6ec9ba]
 
 *Extent: E+W+S*
 
@@ -41,9 +41,9 @@ Regulation 7(1)(a)
 - (e) during the currency of the claim a claimant makes a claim for a relevant social security benefit—
   - (i) the result of which is that his benefit week changes; or
   - (ii) in accordance with regulation 13 of the Claims and Payments Regulations and an award of that benefit on the relevant day for the purposes of that regulation means that his benefit week is expected to change.
-- (f)[^M_F_8a3654d7-1ba4-469b-e43b-7b6c9f3f0786] regulation 9 of the Social Security (Disability Living Allowance) Regulations 1991 (persons in care homes) applies, or ceases to apply, to the claimant for a period of less than one week; [^key-3fa29d8a1100c3d90d7b02929587c307]...
-- (fa)[^key-b150a23c63d63ea40ec9247ee4a9aeea] regulation 22 (effect of admission to a care home on ongoing entitlement to care component) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 applies, or ceases to apply, to the claimant for a period of less than one week;
-- (g) regulations under section 85(1) of the Welfare Reform Act 2012 (care home residents) apply, or cease to apply, to the claimant for a period of less than one week; or[^key-67e4ef4d51bb65dcce4fa00756709ceb]
+- (f)[^M_F_8a3654d7-1ba4-469b-e43b-7b6c9f3f0786] regulation 9 of the Social Security (Disability Living Allowance) Regulations 1991 (persons in care homes) applies, or ceases to apply, to the claimant for a period of less than one week; [^c-3fa29d8a1100c3d90d7b02929587c307]...
+- (fa)[^c-b150a23c63d63ea40ec9247ee4a9aeea] regulation 22 (effect of admission to a care home on ongoing entitlement to care component) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 applies, or ceases to apply, to the claimant for a period of less than one week;
+- (g) regulations under section 85(1) of the Welfare Reform Act 2012 (care home residents) apply, or cease to apply, to the claimant for a period of less than one week; or[^c-67e4ef4d51bb65dcce4fa00756709ceb]
 - (h) regulation 27 (effect of admission to a care home on ongoing entitlement to daily living component) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 applies, or ceases to apply, to the claimant for a period of less than one week;
 
 **4.** A superseding decision made in consequence of a payment of income being treated as paid on a particular day under regulation 93 of the Employment and Support Allowance Regulations (date on which income is treated as paid) shall take effect from the day on which that payment is treated as paid.
@@ -96,12 +96,12 @@ the superseding decision shall take effect from the first day of the benefit wee
 
 ## Annotations
 
-[^key-720271908b63be7e3380a5692f6ec9ba]: Textual amendment: Sch. 3C inserted (27.7.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [43](https://www.legislation.gov.uk/uksi/2008/1554/regulation/43)
+[^c-720271908b63be7e3380a5692f6ec9ba]: Textual amendment: Sch. 3C inserted (27.7.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [43](https://www.legislation.gov.uk/uksi/2008/1554/regulation/43)
 
 [^M_F_8a3654d7-1ba4-469b-e43b-7b6c9f3f0786]: Textual amendment: [Sch. 3C para. 3(f)(g)](https://www.legislation.gov.uk/uksi/1999/991/schedule/3C/paragraph/3/f/g) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/2536/regulation/8)
 
-[^key-3fa29d8a1100c3d90d7b02929587c307]: Textual amendment: Word in [Sch. 3C para. 3](https://www.legislation.gov.uk/uksi/1999/991/schedule/3C/paragraph/3) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/8/5/a)
+[^c-3fa29d8a1100c3d90d7b02929587c307]: Textual amendment: Word in [Sch. 3C para. 3](https://www.legislation.gov.uk/uksi/1999/991/schedule/3C/paragraph/3) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/8/5/a)
 
-[^key-b150a23c63d63ea40ec9247ee4a9aeea]: Textual amendment: [Sch. 3C para. 3(fa)](https://www.legislation.gov.uk/uksi/1999/991/schedule/3C/paragraph/3/fa) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [8(5)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/8/5/b)
+[^c-b150a23c63d63ea40ec9247ee4a9aeea]: Textual amendment: [Sch. 3C para. 3(fa)](https://www.legislation.gov.uk/uksi/1999/991/schedule/3C/paragraph/3/fa) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [8(5)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/8/5/b)
 
-[^key-67e4ef4d51bb65dcce4fa00756709ceb]: Textual amendment: [Sch. 3C para. 3(h)](https://www.legislation.gov.uk/uksi/1999/991/schedule/3C/paragraph/3/h) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [8(5)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/8/5/c)
+[^c-67e4ef4d51bb65dcce4fa00756709ceb]: Textual amendment: [Sch. 3C para. 3(h)](https://www.legislation.gov.uk/uksi/1999/991/schedule/3C/paragraph/3/h) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [8(5)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/8/5/c)

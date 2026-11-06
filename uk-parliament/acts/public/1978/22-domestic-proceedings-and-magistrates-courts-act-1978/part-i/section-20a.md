@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where an order made by the family court[^key-6d818ace4816a9c18ab2244e787855a1] under this Part of this Act for the making of periodical payments to or in respect of a child (other than an interim maintenance order) ceases to have effect—
+(1) Where an order made by the family court[^c-6d818ace4816a9c18ab2244e787855a1] under this Part of this Act for the making of periodical payments to or in respect of a child (other than an interim maintenance order) ceases to have effect—
 
 - (a) on the date on which the child attains the age of sixteen, or
 - (b) at any time after that date but before or on the date on which he attains the age of eighteen,
 
-the child may apply to the court [^key-b4221f7985dfdf1b1fd6c3e9cf2cd21e]... for an order for its revival.
+the child may apply to the court [^c-b4221f7985dfdf1b1fd6c3e9cf2cd21e]... for an order for its revival.
 
 (2) If on such an application it appears to the court that—
 
@@ -40,6 +40,6 @@ the court shall have power by order to revive the order from such date as the co
 
 [^c3520591]: Textual amendment: S. 20A containing subsections (1)-(3) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 13 para. 39(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/39/1)(with Sch. 14 para. 1(1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-6d818ace4816a9c18ab2244e787855a1]: Textual amendment: Words in s. 20A(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 74(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/74/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6d818ace4816a9c18ab2244e787855a1]: Textual amendment: Words in s. 20A(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 74(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/74/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-b4221f7985dfdf1b1fd6c3e9cf2cd21e]: Textual amendment: Words in s. 20A(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 74(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/74/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b4221f7985dfdf1b1fd6c3e9cf2cd21e]: Textual amendment: Words in s. 20A(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 74(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/74/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

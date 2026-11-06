@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Independent reviewing officers[^key-ffed9336cd8422592b7476511bd5bea2]
+## 38. Independent reviewing officers[^c-ffed9336cd8422592b7476511bd5bea2]
 
 *Extent: E+W*
 
-(1) An adoption agency which is a local authority or a registered adoption society which is a voluntary organisation which provides accommodation for a child, must appoint a person (“the independent reviewing officer”) in respect of the case of each child authorised to be placed for adoption by the agency to carry out the functions mentioned in section 100 of the Social Services and Well-being (Wales) Act 2014[^key-d6d25eeac11b616f7d2d7588f77aea0b].
+(1) An adoption agency which is a local authority or a registered adoption society which is a voluntary organisation which provides accommodation for a child, must appoint a person (“the independent reviewing officer”) in respect of the case of each child authorised to be placed for adoption by the agency to carry out the functions mentioned in section 100 of the Social Services and Well-being (Wales) Act 2014[^c-d6d25eeac11b616f7d2d7588f77aea0b].
 
-(2) The independent reviewing officer must have significant experience in social work and hold a Diploma in Social Work or a Social Work Degree or an equivalent qualification recognised by Social Care Wales[^key-f57e16887b1cc282298073347c4fe348].
+(2) The independent reviewing officer must have significant experience in social work and hold a Diploma in Social Work or a Social Work Degree or an equivalent qualification recognised by Social Care Wales[^c-f57e16887b1cc282298073347c4fe348].
 
 (3) Where the independent reviewing officer is an employee of the adoption agency the independent reviewing officer’s post within that agency must not be under the direct management of —
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ffed9336cd8422592b7476511bd5bea2]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/1313/regulation/38) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-ffed9336cd8422592b7476511bd5bea2]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/1313/regulation/38) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
 
-[^key-d6d25eeac11b616f7d2d7588f77aea0b]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/38/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(6)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/6)
+[^c-d6d25eeac11b616f7d2d7588f77aea0b]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/38/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(6)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/6)
 
-[^key-f57e16887b1cc282298073347c4fe348]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/38/2) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/11/3)
+[^c-f57e16887b1cc282298073347c4fe348]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/38/2) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/11/3)

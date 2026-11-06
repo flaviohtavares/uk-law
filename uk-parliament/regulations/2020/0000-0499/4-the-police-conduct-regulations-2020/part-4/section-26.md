@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Delegation of functions[^key-745ba5353916d59e9be960c942548c0c]
+## 26. Delegation of functions[^c-745ba5353916d59e9be960c942548c0c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the appropriate authority may, if it considers it appropriate in a particular ca
 
 ## Annotations
 
-[^key-745ba5353916d59e9be960c942548c0c]: Commencement: Reg. 26 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-745ba5353916d59e9be960c942548c0c]: Commencement: Reg. 26 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

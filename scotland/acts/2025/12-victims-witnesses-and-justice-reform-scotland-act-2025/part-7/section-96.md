@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Admission of the record of a prior examination of vulnerable complainer as evidence[^key-a5eb6cd368997fa8d4f713b468a0eb1e]
+## 96. Admission of the record of a prior examination of vulnerable complainer as evidence[^c-a5eb6cd368997fa8d4f713b468a0eb1e]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5eb6cd368997fa8d4f713b468a0eb1e]: Commencement: S. 96 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-a5eb6cd368997fa8d4f713b468a0eb1e]: Commencement: S. 96 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

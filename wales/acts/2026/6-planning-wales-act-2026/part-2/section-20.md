@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Meaning of “plan” and “plan-making authority”[^key-5bddbafbde9ce7571a7c6e60aed4ceb2]
+## 20. Meaning of “plan” and “plan-making authority”[^c-5bddbafbde9ce7571a7c6e60aed4ceb2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-5bddbafbde9ce7571a7c6e60aed4ceb2]: Commencement: S. 20 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5bddbafbde9ce7571a7c6e60aed4ceb2]: Commencement: S. 20 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

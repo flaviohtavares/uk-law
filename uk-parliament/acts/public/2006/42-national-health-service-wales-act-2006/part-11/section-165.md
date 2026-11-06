@@ -44,7 +44,7 @@ the transfer is binding on the third party notwithstanding that, apart from this
 
 (4) “**Third party**” means a person other than the Welsh Ministers or an NHS body.
 
-(5) Nothing in a provision to which this section applies affects any power of Her Majesty, the court (as defined in the Charities Act 2011)[^key-b700448d5b10e1dc187ea19633eb5a62] or any other person, to alter the trusts of any charity.
+(5) Nothing in a provision to which this section applies affects any power of Her Majesty, the court (as defined in the Charities Act 2011)[^c-b700448d5b10e1dc187ea19633eb5a62] or any other person, to alter the trusts of any charity.
 
 (6) Nothing in section 12 of the Finance Act 1895 (c. 16) (which requires certain Acts and certain instruments relating to the vesting of property by virtue of an Act to be stamped as conveyances on sale) applies to—
 
@@ -57,4 +57,4 @@ the transfer is binding on the third party notwithstanding that, apart from this
 
 [^c20915591]: Modification: S. 165 modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 4](https://www.legislation.gov.uk/ukpga/2006/43/section/4), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/10) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-b700448d5b10e1dc187ea19633eb5a62]: Textual amendment: Words in [s. 165(5)](https://www.legislation.gov.uk/ukpga/2006/42/section/165/5) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/112) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-b700448d5b10e1dc187ea19633eb5a62]: Textual amendment: Words in [s. 165(5)](https://www.legislation.gov.uk/ukpga/2006/42/section/165/5) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/112) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

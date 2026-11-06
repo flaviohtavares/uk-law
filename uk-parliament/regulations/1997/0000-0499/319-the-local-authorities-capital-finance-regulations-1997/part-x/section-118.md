@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Credit ceiling increased by use of amount set aside to pay levy on disposals of housing[^key-0edce8cc5a3292d1bfadbfc224faeaee]
+## 118. Credit ceiling increased by use of amount set aside to pay levy on disposals of housing[^c-0edce8cc5a3292d1bfadbfc224faeaee]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Where a local authority apply an amount set aside to meet any liability in respe
 
 ## Annotations
 
-[^key-0edce8cc5a3292d1bfadbfc224faeaee]: Commencement: Reg. 118 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-0edce8cc5a3292d1bfadbfc224faeaee]: Commencement: Reg. 118 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00099]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).

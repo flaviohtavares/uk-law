@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57A. Gains and losses on relevant high value disposals[^key-3713bfc35746253f62dfcc573bdf6b3b]
+## 57A. Gains and losses on relevant high value disposals[^c-3713bfc35746253f62dfcc573bdf6b3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3713bfc35746253f62dfcc573bdf6b3b]: Textual amendment: Pt. 2 Ch. 5 omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/5)
+[^c-3713bfc35746253f62dfcc573bdf6b3b]: Textual amendment: Pt. 2 Ch. 5 omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/5)

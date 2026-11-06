@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318. Protected mobile home sites to include sites for gypsies and travellers[^key-580d861f2d5d4d2328c6bf053a654f42]
+## 318. Protected mobile home sites to include sites for gypsies and travellers[^c-580d861f2d5d4d2328c6bf053a654f42]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 5(1) of the Mobile Homes Act 1983 (c. 34) (interpretation), in the de
 
 ## Annotations
 
-[^key-580d861f2d5d4d2328c6bf053a654f42]: Commencement: [S. 318](https://www.legislation.gov.uk/ukpga/2008/17/section/318) in force at 10.7.2013 for W. by [S.I. 2013/1469](https://www.legislation.gov.uk/wsi/2013/1469), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2013/1469/article/2/1/a) (with [arts. 3-7](https://www.legislation.gov.uk/wsi/2013/1469/article/3))
+[^c-580d861f2d5d4d2328c6bf053a654f42]: Commencement: [S. 318](https://www.legislation.gov.uk/ukpga/2008/17/section/318) in force at 10.7.2013 for W. by [S.I. 2013/1469](https://www.legislation.gov.uk/wsi/2013/1469), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2013/1469/article/2/1/a) (with [arts. 3-7](https://www.legislation.gov.uk/wsi/2013/1469/article/3))

@@ -24,7 +24,7 @@ Article 43(4)
 
 ### PART 1 — PRELIMINARY
 
-#### 1. Interpretation[^key-b704d38b260ce4006bec5195429d5e95]
+#### 1. Interpretation[^c-b704d38b260ce4006bec5195429d5e95]
 
 (1) In this Schedule the following expressions have the following meanings—
 
@@ -55,7 +55,7 @@ Article 43(4)
 
 ### PART 2 — OPERATIONAL PROVISIONS
 
-#### 2. Bridge operations[^key-375180eed7927551d13b4ea6bec0d6f9]
+#### 2. Bridge operations[^c-375180eed7927551d13b4ea6bec0d6f9]
 
 (1) The following provisions apply to the undertaker.
 
@@ -80,7 +80,7 @@ Article 43(4)
 - (b) duration the bridge will be out of operation; and
 - (c) scheduled date and time of the bridge returning to operational state.
 
-#### 3. Opening requests[^key-66583b1355ee35d520354a0ae50c4eff]
+#### 3. Opening requests[^c-66583b1355ee35d520354a0ae50c4eff]
 
 (1) The following provisions of this paragraph apply to the master, owner, agent, pilot or operator of vessels wishing to transit the bridge (and accordingly such persons must comply with any obligation expressed by reference to a vessel).
 
@@ -116,7 +116,7 @@ Article 43(4)
 - (b) all vessels included in the group are listed in the opening request; and
 - (c) the number of vessels is such that the anticipated transit time through the bridge from the passage of the first vessel to the passage of the last vessel is no greater than 15 minutes.
 
-#### 4. Opening request revisions[^key-47e76666748d83cd6c7366d3110452ac]
+#### 4. Opening request revisions[^c-47e76666748d83cd6c7366d3110452ac]
 
 (1) The following provisions of this paragraph apply to the master, owner, agent or operator of vessels wishing to transit the bridge (and accordingly such persons must comply with any obligation expressed by reference to a vessel).
 
@@ -135,7 +135,7 @@ Article 43(4)
   - (i) a reason for refusing the request; and
   - (ii) except in the case of exceptional circumstances, an alternative time for the vessel to transit the bridge.
 
-#### 5. Vessels inbound[^key-a3ea36250e263c9cf61c1b419d6d4edd]
+#### 5. Vessels inbound[^c-a3ea36250e263c9cf61c1b419d6d4edd]
 
 (1) The following provisions of this paragraph apply to the master, owner, agent or operator of inbound vessels wishing to transit the bridge (and accordingly such persons must comply with any obligation expressed by reference to a vessel).
 
@@ -147,7 +147,7 @@ Article 43(4)
 
 (5) Vessels departing a berth within the river Yare to the south of the bridge and intending to conduct a transit through the bridge are to conduct a marine VHF call with the undertaker on the port's operational marine VHF channel immediately prior letting go all lines.
 
-#### 6. Vessels outbound[^key-4502d675166f2a761cca4d937e0f905a]
+#### 6. Vessels outbound[^c-4502d675166f2a761cca4d937e0f905a]
 
 (1) The following provisions of this paragraph apply to the master, owner, agent or operator of outbound vessels wishing to transit the bridge (and accordingly such persons must comply with any obligation expressed by reference to a vessel).
 
@@ -157,7 +157,7 @@ Article 43(4)
 
 (4) Vessels departing a berth within the river Yare to the north of the bridge and intending to conduct a transit through the bridge are to conduct a marine VHF call with the undertaker on the port's operational marine VHF channel immediately prior to letting go all lines.
 
-#### 7. Large vessels[^key-2d60e99133d7bd40ea02f945be8aa65b]
+#### 7. Large vessels[^c-2d60e99133d7bd40ea02f945be8aa65b]
 
 (1) Before any large vessel proposing to transit the bridge enters Great Yarmouth Port—
 
@@ -166,7 +166,7 @@ Article 43(4)
 
 (2) If, prior to any large vessel proposing to transit the bridge enters Great Yarmouth Port, the harbour master considers under sub-paragraph (1)(a) that no safe alternative manoeuvre would be practicable and GYPA is unable to arrange under sub-paragraph (1)(b) a suitable emergency berth, the undertaker will open the bridge before the vessel enters Great Yarmouth Port.
 
-#### 8. Recreational vessels[^key-ea3acc047ce766dc12de41cea5d717ee]
+#### 8. Recreational vessels[^c-ea3acc047ce766dc12de41cea5d717ee]
 
 (1) The following provisions of this paragraph apply to the master, owner, agent or operator of recreational vessels wishing to transit the bridge (and accordingly such persons must comply with any obligation expressed by reference to a recreational vessel).
 
@@ -182,7 +182,7 @@ Article 43(4)
 
 (7) Where the bridge has been opened for a vessel, other than a recreational vessel, a recreational vessel may transit the bridge with the undertaker's permission, provided that the transit time through the bridge from the passage of the first vessel to the passage of the last vessel is no greater than 15 minutes.
 
-#### 9. Emergency vessels[^key-cb02e08cfb58b0d729549f2d50af483b]
+#### 9. Emergency vessels[^c-cb02e08cfb58b0d729549f2d50af483b]
 
 (1) The following provisions of this paragraph apply to the master, owner, agent or operator of emergency vessels responding to an emergency and wishing to transit the bridge (and accordingly such persons must comply with any obligation expressed by reference to an emergency vessel).
 
@@ -196,7 +196,7 @@ Article 43(4)
 
 (6) Should an emergency vessel request an immediate bridge opening whilst the bridge is already open to conduct a scheduled bridge opening, the undertaker is to ensure the bridge remains open until the emergency vessel has completed its transit and is past and clear.
 
-#### 10. Exceptions to obligations of undertaker[^key-c74d33d203f44ab68e8db436bcc74d7e]
+#### 10. Exceptions to obligations of undertaker[^c-c74d33d203f44ab68e8db436bcc74d7e]
 
 (1) In the event of a specified event, such that the bridge is unable to open upon request, the undertaker is to—
 
@@ -227,24 +227,24 @@ the undertaker is not obliged to open the bridge at any scheduled time but inste
 
 ## Annotations
 
-[^key-b704d38b260ce4006bec5195429d5e95]: Commencement: Sch. 10 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-b704d38b260ce4006bec5195429d5e95]: Commencement: Sch. 10 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294931]: Marginal citation: [1987 c.21](https://www.legislation.gov.uk/ukpga/1987/21).
 
-[^key-375180eed7927551d13b4ea6bec0d6f9]: Commencement: Sch. 10 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-375180eed7927551d13b4ea6bec0d6f9]: Commencement: Sch. 10 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-66583b1355ee35d520354a0ae50c4eff]: Commencement: Sch. 10 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-66583b1355ee35d520354a0ae50c4eff]: Commencement: Sch. 10 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-47e76666748d83cd6c7366d3110452ac]: Commencement: Sch. 10 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-47e76666748d83cd6c7366d3110452ac]: Commencement: Sch. 10 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-a3ea36250e263c9cf61c1b419d6d4edd]: Commencement: Sch. 10 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-a3ea36250e263c9cf61c1b419d6d4edd]: Commencement: Sch. 10 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-4502d675166f2a761cca4d937e0f905a]: Commencement: Sch. 10 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-4502d675166f2a761cca4d937e0f905a]: Commencement: Sch. 10 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-2d60e99133d7bd40ea02f945be8aa65b]: Commencement: Sch. 10 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-2d60e99133d7bd40ea02f945be8aa65b]: Commencement: Sch. 10 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-ea3acc047ce766dc12de41cea5d717ee]: Commencement: Sch. 10 para. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-ea3acc047ce766dc12de41cea5d717ee]: Commencement: Sch. 10 para. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-cb02e08cfb58b0d729549f2d50af483b]: Commencement: Sch. 10 para. 9 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-cb02e08cfb58b0d729549f2d50af483b]: Commencement: Sch. 10 para. 9 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-c74d33d203f44ab68e8db436bcc74d7e]: Commencement: Sch. 10 para. 10 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c74d33d203f44ab68e8db436bcc74d7e]: Commencement: Sch. 10 para. 10 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

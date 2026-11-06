@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Approved devices to be prescribed[^key-1c55059e105214ea43eb77ec0cc2a1d1]
+## 8. Approved devices to be prescribed[^c-1c55059e105214ea43eb77ec0cc2a1d1]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ is an electronic device of a type prescribed in regulations made by the Scottish
 
 ## Annotations
 
-[^key-1c55059e105214ea43eb77ec0cc2a1d1]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/14/section/8) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/c)
+[^c-1c55059e105214ea43eb77ec0cc2a1d1]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/14/section/8) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/c)

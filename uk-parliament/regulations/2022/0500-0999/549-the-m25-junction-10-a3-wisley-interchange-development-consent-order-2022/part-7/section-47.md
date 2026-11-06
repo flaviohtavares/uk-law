@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Application of local legislation[^key-2148b7b007bba7332a1d5b59e0b708e9]
+## 47. Application of local legislation[^c-2148b7b007bba7332a1d5b59e0b708e9]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2148b7b007bba7332a1d5b59e0b708e9]: Commencement: Art. 47 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-2148b7b007bba7332a1d5b59e0b708e9]: Commencement: Art. 47 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
 [^f00090]: Footnote: [1782 c. 17](https://www.legislation.gov.uk/ukpga/1782/17).
 

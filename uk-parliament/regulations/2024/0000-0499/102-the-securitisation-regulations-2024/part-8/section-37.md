@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Temporary prohibition relating to management functions[^key-0601270d251c6a5c4da7365ffb1b5b69]
+## 37. Temporary prohibition relating to management functions[^c-0601270d251c6a5c4da7365ffb1b5b69]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ the PRA may impose a temporary prohibition on that individual from holding an of
 
 ## Annotations
 
-[^key-0601270d251c6a5c4da7365ffb1b5b69]: Commencement: Reg. 37 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-0601270d251c6a5c4da7365ffb1b5b69]: Commencement: Reg. 37 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
 
 [^f00042]: Footnote: Section 55M was inserted by section 11(2) of the Financial Services Act 2012. There is an amendment that is not relevant.

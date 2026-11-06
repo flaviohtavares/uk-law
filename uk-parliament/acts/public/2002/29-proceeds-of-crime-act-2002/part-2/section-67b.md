@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67B. Costs of storage and realisation[^key-69486128bcd298081e6f1707dab9157d]
+## 67B. Costs of storage and realisation[^c-69486128bcd298081e6f1707dab9157d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69486128bcd298081e6f1707dab9157d]: Textual amendment: Ss. 67A-67D inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/58/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-69486128bcd298081e6f1707dab9157d]: Textual amendment: Ss. 67A-67D inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/58/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)

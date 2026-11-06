@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Additional responsibilities under designating directions[^key-3b3c33dcea8de8f8daa938ca14a18ceb]
+## 4. Additional responsibilities under designating directions[^c-3b3c33dcea8de8f8daa938ca14a18ceb]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3c33dcea8de8f8daa938ca14a18ceb]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/20/section/4) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-3b3c33dcea8de8f8daa938ca14a18ceb]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/20/section/4) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

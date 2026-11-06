@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Council tax benefit taper[^key-1015e019ca8e3f5324909c6c5a7c9a12]
+## 53. Council tax benefit taper[^c-1015e019ca8e3f5324909c6c5a7c9a12]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The prescribed percentage for the purpose of sub-section (5)(c)(ii) of section 1
 
 ## Annotations
 
-[^key-1015e019ca8e3f5324909c6c5a7c9a12]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1992/1814/regulation/53) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-1015e019ca8e3f5324909c6c5a7c9a12]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1992/1814/regulation/53) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00069]: Footnote: Section 131 of the Contributions and Benefits Act 1992 as it applies to council tax benefit was substituted by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) Schedule 9 paragraph 4.

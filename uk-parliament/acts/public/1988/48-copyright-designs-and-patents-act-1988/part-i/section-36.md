@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Copying and use of extracts of works by educational establishments[^key-2a702d2a896f3896f153b29733558f24]
+## 36. Copying and use of extracts of works by educational establishments[^c-2a702d2a896f3896f153b29733558f24]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a702d2a896f3896f153b29733558f24]: Textual amendment: S. 36 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/3)
+[^c-2a702d2a896f3896f153b29733558f24]: Textual amendment: S. 36 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/3)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**29.**[^key-a58a8e912e43c84b3a693b65a386bd91] In section 132A (appeals), in subsection (3)(b), for “or widower” substitute “, widower or surviving civil partner”.
+**29.**[^c-a58a8e912e43c84b3a693b65a386bd91] In section 132A (appeals), in subsection (3)(b), for “or widower” substitute “, widower or surviving civil partner”.
 
 ## Annotations
 
-[^key-a58a8e912e43c84b3a693b65a386bd91]: Commencement: Art. 29 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-a58a8e912e43c84b3a693b65a386bd91]: Commencement: Art. 29 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

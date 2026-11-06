@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Disclosure required by legislation[^key-946ad5aaa9bb3b2a88627873961de5da]
+## 68. Disclosure required by legislation[^c-946ad5aaa9bb3b2a88627873961de5da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 61 does not prohibit a disclosure of protected material required by virt
 
 ## Annotations
 
-[^key-946ad5aaa9bb3b2a88627873961de5da]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2016/20/section/68) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-946ad5aaa9bb3b2a88627873961de5da]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2016/20/section/68) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

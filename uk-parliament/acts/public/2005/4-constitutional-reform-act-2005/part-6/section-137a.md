@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137A. Encouragement of diversity[^key-b18fccbd769febefc55c24ed9d422af8]
+## 137A. Encouragement of diversity[^c-b18fccbd769febefc55c24ed9d422af8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Each of the Lord Chancellor and the Lord Chief Justice of England and Wales must
 
 ## Annotations
 
-[^key-b18fccbd769febefc55c24ed9d422af8]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/2005/4/section/137A) inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/11); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-b18fccbd769febefc55c24ed9d422af8]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/2005/4/section/137A) inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/11); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)

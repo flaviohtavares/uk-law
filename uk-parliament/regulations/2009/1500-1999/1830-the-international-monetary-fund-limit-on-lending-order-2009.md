@@ -32,7 +32,7 @@ summary: ''
 
 International Monetary Fund
 
-The International Monetary Fund (Limit on Lending) Order 2009 (revoked)[^key-a50f230cc1990c9962519c8f5795b359]
+The International Monetary Fund (Limit on Lending) Order 2009 (revoked)[^c-a50f230cc1990c9962519c8f5795b359]
 
 Made
 
@@ -40,28 +40,28 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-a50f230cc1990c9962519c8f5795b359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a50f230cc1990c9962519c8f5795b359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a50f230cc1990c9962519c8f5795b359]
+## 1. Citation and commencement[^c-a50f230cc1990c9962519c8f5795b359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase in limit on lending[^key-a50f230cc1990c9962519c8f5795b359]
+## 2. Increase in limit on lending[^c-a50f230cc1990c9962519c8f5795b359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a50f230cc1990c9962519c8f5795b359]
+## 3. Revocation[^c-a50f230cc1990c9962519c8f5795b359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a50f230cc1990c9962519c8f5795b359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a50f230cc1990c9962519c8f5795b359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a50f230cc1990c9962519c8f5795b359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a50f230cc1990c9962519c8f5795b359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a50f230cc1990c9962519c8f5795b359]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1830) revoked (22.7.2010) by [The International Monetary Fund (Limit on Lending) Order 2010 (S.I. 2010/1880)](https://www.legislation.gov.uk/uksi/2010/1880), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1880/article/1/2), [3](https://www.legislation.gov.uk/uksi/2010/1880/article/3)
+[^c-a50f230cc1990c9962519c8f5795b359]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1830) revoked (22.7.2010) by [The International Monetary Fund (Limit on Lending) Order 2010 (S.I. 2010/1880)](https://www.legislation.gov.uk/uksi/2010/1880), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1880/article/1/2), [3](https://www.legislation.gov.uk/uksi/2010/1880/article/3)

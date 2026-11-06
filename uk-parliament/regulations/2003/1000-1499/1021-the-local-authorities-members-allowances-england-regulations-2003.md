@@ -43,17 +43,17 @@ Coming into force
 
 1st May 2003
 
-The First Secretary of State in exercise of the powers conferred on him by sections 18 and 190(1) of the Local Government and Housing Act 1989[^f00001] and sections 100 and 105(2), (3) and (4) of the Local Government Act 2000[^f00002], and of all other powers enabling him in that behalf, and having carried out such consultation as is required by section 100(5) of the Local Government Act 2000, hereby makes the following Regulations—[^key-9781f06cc6574fc9859e7ee41a353ff3][^key-15ba9d73d923fc0ee3bc768a47cb95ea][^key-0cc152d9313b1b522030b844ba99624e][^key-6c687efca3bfb4b576b6e149146cf154][^key-1a6a4baa2b731230d1dc6e0d6812ffe4][^key-3bb70045d75120151365dd596fd3510a][^key-cc8909102ff754d93a80cd26455bc077][^key-409505fbbd460bced1ed19970c322c17]
+The First Secretary of State in exercise of the powers conferred on him by sections 18 and 190(1) of the Local Government and Housing Act 1989[^f00001] and sections 100 and 105(2), (3) and (4) of the Local Government Act 2000[^f00002], and of all other powers enabling him in that behalf, and having carried out such consultation as is required by section 100(5) of the Local Government Act 2000, hereby makes the following Regulations—[^c-9781f06cc6574fc9859e7ee41a353ff3][^c-15ba9d73d923fc0ee3bc768a47cb95ea][^c-0cc152d9313b1b522030b844ba99624e][^c-6c687efca3bfb4b576b6e149146cf154][^c-1a6a4baa2b731230d1dc6e0d6812ffe4][^c-3bb70045d75120151365dd596fd3510a][^c-cc8909102ff754d93a80cd26455bc077][^c-409505fbbd460bced1ed19970c322c17]
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and application[^key-2ee9a4236e49dce36b6d6903f8f7a4d8]
+### 1. Citation, commencement and application[^c-2ee9a4236e49dce36b6d6903f8f7a4d8]
 
 (1) These Regulations may be cited as the Local Authorities (Members' Allowances) (England) Regulations 2003 and shall come into force on 1st May 2003.
 
 (2) These Regulations apply in England only[^f00003].
 
-### 2. Interpretation[^key-252a47cadddea0adbff0465b8a5fa927]
+### 2. Interpretation[^c-252a47cadddea0adbff0465b8a5fa927]
 
 In these Regulations—
 
@@ -77,7 +77,7 @@ In these Regulations—
   - (a) the period beginning on the date of the coming into force of these Regulations and ending on 31st March 2004; and
   - (b) any period of 12 months ending on 31st March in any year after 2004.
 
-### 3. Application of these Regulations[^key-b7209d5e822a1c5465a13ebe40c98c2a]
+### 3. Application of these Regulations[^c-b7209d5e822a1c5465a13ebe40c98c2a]
 
 (1) Any reference in this Part and Parts 2 and 3 of these Regulations to an authority shall, unless otherwise specified be construed as a reference to a body of one of the following descriptions—
 
@@ -85,9 +85,9 @@ In these Regulations—
 - (b) a county council;
 - (c) a London borough council;
 - (d) the Council of the Isles of Scilly;
-- (e)[^key-2e8b3332a58130fc973b050933ee49e2] a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
+- (e)[^c-2e8b3332a58130fc973b050933ee49e2] a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
 - (f) a joint authority established by Part IV of the Local Government Act 1985[^f00008];
-- (g)[^key-a877e5562a243391373b9e308ca30874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-a877e5562a243391373b9e308ca30874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the Broads Authority[^f00010];
 - (i) a National Park authority[^f00011]; and
 - (j) a conservation board of an area of outstanding natural beauty[^f00012];
@@ -99,14 +99,14 @@ In these Regulations—
 
 ## PART 2 — ALLOWANCES
 
-### 4. Basic allowance[^key-dbd657bf829866ad627f5d079c43519a]
+### 4. Basic allowance[^c-dbd657bf829866ad627f5d079c43519a]
 
 (1) An authority shall—
 
 - (a) make a scheme in accordance with these Regulations which shall provide for the payment of an allowance in respect of each year to each member of an authority, and the amount of such an allowance shall be the same for each such member (“basic allowance”); and
 - (b) pay basic allowance and any other allowance permitted by these Regulations only in accordance with such a scheme.
 
-(1A)[^key-04068658227d4d9e9b4bc0def4bbfa7b] But a fire and rescue authority may not make any provision in such a scheme for the payment of any allowance to a PCC member of the authority.
+(1A)[^c-04068658227d4d9e9b4bc0def4bbfa7b] But a fire and rescue authority may not make any provision in such a scheme for the payment of any allowance to a PCC member of the authority.
 
 (1B) For the purposes of paragraph (1A)—
 
@@ -120,7 +120,7 @@ In these Regulations—
 
 (3) The scheme may specify that where a member is suspended or partially suspended[^f00015] from his responsibilities or duties as a member of an authority in accordance with Part III of the Local Government Act 2000 or regulations made under that Part, the part of basic allowance payable to him in respect of the period for which he is suspended or partially suspended may be withheld by the authority.
 
-### 5. Special responsibility allowance[^key-2f795f1861f54288a704a33b8e4aea27]
+### 5. Special responsibility allowance[^c-2f795f1861f54288a704a33b8e4aea27]
 
 (1) A scheme made under this Part may provide, in accordance with paragraph (2), for the payment for each year for which that scheme relates of an allowance (“special responsibility allowance”) to such members of the authority as have such special responsibilities in relation to the authority as are specified in the scheme and are within one or more of the following categories—
 
@@ -146,7 +146,7 @@ In these Regulations—
 
 (3) The scheme may specify that where a member is suspended or partially suspended from his responsibilities or duties as a member of an authority in accordance with Part III of the Local Government Act 2000 or regulations made under that Part, the part of special responsibility allowance payable to him in respect of the responsibility or duties from which he is suspended or partially suspended may be withheld by the authority.
 
-### 6. Special responsibility allowance for members of the Association of London Government[^key-b37f668008ec7b4f5debf6d810e4511c]
+### 6. Special responsibility allowance for members of the Association of London Government[^c-b37f668008ec7b4f5debf6d810e4511c]
 
 (1) For the purposes of regulation 5—
 
@@ -159,7 +159,7 @@ In these Regulations—
 - (a) Part 3 of these Regulations shall apply to that body in respect of its payments of special responsibility allowance as it applies to an authority; and
 - (b) Part 4 of these Regulations shall apply to that body as it applies to an authority as regards an independent remuneration panel established by regulation 20(1)(c).
 
-### 7. Dependants' carers' allowance[^key-2541e2c869fafe90d6824977348240cd]
+### 7. Dependants' carers' allowance[^c-2541e2c869fafe90d6824977348240cd]
 
 (1) A scheme may provide for the payment to members of an authority of an allowance (“dependants' carers' allowance”) in respect of such expenses of arranging for the care of their children or dependants as are necessarily incurred in—
 
@@ -176,7 +176,7 @@ In these Regulations—
 
 (2) For the purposes of this regulation, “authority” means an authority of any description specified in sub-paragraphs (a) to (c) of regulation 3(1).
 
-### 8. Travelling and subsistence allowance[^key-5a3efa46e830c156da85cebea18f089b]
+### 8. Travelling and subsistence allowance[^c-5a3efa46e830c156da85cebea18f089b]
 
 (1) A scheme may provide for the payment to members of an authority of an allowance in respect of travelling and subsistence (“travelling and subsistence allowance”), including an allowance in respect of travel by bicycle or by any other non-motorised form of transport, undertaken in connection with or relating to such duties as are specified in the scheme and are within one or more of the following categories—
 
@@ -200,7 +200,7 @@ In these Regulations—
   - (i) an authority established under section 10 of the Local Government Act 1985 (waste disposal authorities)[^f00019]; and
   - (ii) a joint board upon which a body referred to in regulation 3(1)(a) to (h) is represented.
 
-### 9. Co-optees' allowance[^key-c6a74e9eb127b1b729e89e8a48d41192]
+### 9. Co-optees' allowance[^c-c6a74e9eb127b1b729e89e8a48d41192]
 
 (1) The scheme may provide for the payment of an allowance for each year to a member in respect of attendance at conferences and meetings (“co-optees' allowance”).
 
@@ -217,7 +217,7 @@ In these Regulations—
 
 ## PART 3 — SCHEMES
 
-### 10. Requirements for schemes[^key-4ba3445a481737b106bcfca6e24560bc]
+### 10. Requirements for schemes[^c-4ba3445a481737b106bcfca6e24560bc]
 
 (1) Before the beginning of each year, an authority shall make the scheme required by regulation 4(1)(a) for the payment of basic allowance for that year.
 
@@ -248,14 +248,14 @@ the authority may require that such part of the allowance as relates to any such
 
 (9) A scheme must make provision to ensure that where a member of an authority is also a member of another authority, that member may not receive allowances from more than one authority in respect of the same duties.
 
-### 11. Pensions[^key-6973cd2d95b1b1427bc287c21271728a]
+### 11. Pensions[^c-6973cd2d95b1b1427bc287c21271728a]
 
 A scheme made by an authority to which regulation 3(1)(a), (b), (c) or (e) applies which provides that a member is entitled to a basic allowance or a special responsibility allowance must provide that—
 
 - (a) the member is entitled to a pension in accordance with a scheme made under section 1 of the Public Service Pensions Act 2013; and
 - (b) the basic allowance or special responsibility allowance (or both, as the case may be) is to be treated as an amount in respect of which such a pension is payable in accordance with a scheme made under section 1 of the 2013 Act.
 
-### 12. Transitional provisions for revocation of allowance schemes[^key-9115ed8082015f03807022da424f07b6]
+### 12. Transitional provisions for revocation of allowance schemes[^c-9115ed8082015f03807022da424f07b6]
 
 Where an independent remuneration panel has produced a report in accordance with regulation 21, a district, county or London borough council may, notwithstanding regulation 10(3), revoke an allowance scheme at any time once that council has begun to operate—
 
@@ -263,11 +263,11 @@ Where an independent remuneration panel has produced a report in accordance with
 - (b) alternative arrangements, where they are being operated in place of existing executive arrangements; or
 - (c) different executive arrangements which involve an executive which takes a different form.
 
-### 13. Elections to forgo allowances[^key-9c344fd94835aab57e46fd0f43a2edf6]
+### 13. Elections to forgo allowances[^c-9c344fd94835aab57e46fd0f43a2edf6]
 
 The scheme shall provide that a person may, by notice in writing given to the proper officer of the authority, elect to forgo his entitlement or any part of his entitlement to allowances.
 
-### 14. Claims and payments[^key-46440db63c61cb9915d89d194590f384]
+### 14. Claims and payments[^c-46440db63c61cb9915d89d194590f384]
 
 (1) The scheme shall specify a time limit from the date on which an entitlement to each of the following allowances arises during which a claim for such allowances must be made by the person to whom they are payable—
 
@@ -279,7 +279,7 @@ The scheme shall provide that a person may, by notice in writing given to the pr
 
 (3) The scheme may provide for payments of allowances to be made at such times as may be specified in it, and different times may be specified for different allowances.
 
-### 15. Records of allowances[^key-2d471436aa236097f10fdd9c5c332a63]
+### 15. Records of allowances[^c-2d471436aa236097f10fdd9c5c332a63]
 
 (1) An authority shall keep a record of the payments made by it in accordance with a scheme.
 
@@ -296,11 +296,11 @@ The scheme shall provide that a person may, by notice in writing given to the pr
 - (a) basic allowance;
 - (b) special responsibility allowance;
 - (c) dependants' carers' allowance;
-- (d) travelling and subsistence allowance; [^key-e84e6daa18d78efd0d7be4dba5e55169]...
+- (d) travelling and subsistence allowance; [^c-e84e6daa18d78efd0d7be4dba5e55169]...
 - (e) co-optees' allowance;
-- (f)[^key-10a92a284bbe747d3a60c47b97a6d660] the employer contributions paid in respect of each recipient under regulation 11 (pensions).
+- (f)[^c-10a92a284bbe747d3a60c47b97a6d660] the employer contributions paid in respect of each recipient under regulation 11 (pensions).
 
-### 16. Publicity[^key-f1f94152b86b5f28371b1c0bdc358275]
+### 16. Publicity[^c-f1f94152b86b5f28371b1c0bdc358275]
 
 (1) An authority shall, as soon as reasonably practicable after the making or amendment of a scheme, make arrangements for its publication by—
 
@@ -318,21 +318,21 @@ The scheme shall provide that a person may, by notice in writing given to the pr
 
 (3) An authority shall supply a copy of the scheme to any person who requests a copy and who pays to the authority such reasonable fee as the authority may determine.
 
-### 17. Transitional provisions[^key-eb4ee0eb3630547c9123fcc661360d36]
+### 17. Transitional provisions[^c-eb4ee0eb3630547c9123fcc661360d36]
 
-(1) Notwithstanding regulation 33, any scheme made by an authority in accordance with the Local Authorities (Members' Allowances) regulations 1991[^f00021] as amended shall continue in force up to and including 30th December[^key-c716dcc82609b413cf83d6181b777376] 2003 or until a new scheme in accordance with these Regulations is made by the authority, if sooner.
+(1) Notwithstanding regulation 33, any scheme made by an authority in accordance with the Local Authorities (Members' Allowances) regulations 1991[^f00021] as amended shall continue in force up to and including 30th December[^c-c716dcc82609b413cf83d6181b777376] 2003 or until a new scheme in accordance with these Regulations is made by the authority, if sooner.
 
-(2) An authority shall make a scheme in accordance with these Regulations on or prior to 31st December[^key-a297547d7dd161fc03dd88256801e40a] 2003.
+(2) An authority shall make a scheme in accordance with these Regulations on or prior to 31st December[^c-a297547d7dd161fc03dd88256801e40a] 2003.
 
 (3) Where an authority first makes a scheme in accordance with these Regulations it shall revoke any previous scheme for the payment of allowances and ensure that the scheme made in accordance with these Regulations takes effect on the date that the revocation of the previous scheme takes effect.
 
-(4) Subject to paragraph (5), any scheme made by an authority in accordance with these Regulations between the coming into force of these Regulations and 31st December[^key-f83a52af4d42e1a37bad2da151d66819] 2003 may make provision for any allowance payable in accordance with such a scheme to be payable as if the scheme had been in force with effect from 1st May 2003.
+(4) Subject to paragraph (5), any scheme made by an authority in accordance with these Regulations between the coming into force of these Regulations and 31st December[^c-f83a52af4d42e1a37bad2da151d66819] 2003 may make provision for any allowance payable in accordance with such a scheme to be payable as if the scheme had been in force with effect from 1st May 2003.
 
 (5) Any provision made in accordance with paragraph (4) shall not permit a member to receive a greater amount in total under the provisions of that scheme and any previous scheme, in respect of any duty carried out between the coming into force of these Regulations and the making of a scheme in accordance with these Regulations, than he would have received had the scheme been in effect from the 1st May 2003.
 
 ## PART 4 — INDEPENDENT REMUNERATION PANELS
 
-### 18. Application of this Part[^key-2709afb8837ffbbd8237b732b09f1de4]
+### 18. Application of this Part[^c-2709afb8837ffbbd8237b732b09f1de4]
 
 Any reference in this Part to an authority, unless otherwise specified, shall be construed as a reference to a body of one of the following descriptions—
 
@@ -340,13 +340,13 @@ Any reference in this Part to an authority, unless otherwise specified, shall be
 - (b) a county council; and
 - (c) a London borough council.
 
-### 19. Duty to have regard to recommendations[^key-2d0ab6d944d0451384e9789b2ae37513]
+### 19. Duty to have regard to recommendations[^c-2d0ab6d944d0451384e9789b2ae37513]
 
 (1) Before an authority referred to in regulation 3(1)(a), (b), or (c) makes or amends a scheme, the authority shall have regard to the recommendations made in relation to it by an independent remuneration panel.
 
 (2) Before an authority referred to in regulation 3(1)(e), (f), (g), (h), (i) or (j) makes or amends a scheme that authority shall have regard to the recommendations made by any independent remuneration panels in relation to any authority of a description referred to in regulations 3(1)(a), (b) or (c) by which any of its members are nominated.
 
-### 20. Independent remuneration panels[^key-e8a66ceee894cd884cade9176efec11c]
+### 20. Independent remuneration panels[^c-e8a66ceee894cd884cade9176efec11c]
 
 (1) An independent remuneration panel shall be established in respect of each authority by one of the following means—
 
@@ -365,7 +365,7 @@ but there shall not be more than one panel which makes recommendations in respec
 
 (4) The Association of London Government may pay the expenses incurred by an independent remuneration panel established under paragraph (1)(c) in carrying out its functions and may pay the members of the panel such allowances or expenses as it may determine.
 
-### 21. Recommendations of panels[^key-04fea07f01195bc81603ab593ecd3146]
+### 21. Recommendations of panels[^c-04fea07f01195bc81603ab593ecd3146]
 
 (1) An independent remuneration panel shall produce a report in relation to the authority or authorities in respect of which it was established, making recommendations—
 
@@ -377,14 +377,14 @@ but there shall not be more than one panel which makes recommendations in respec
 - (c) as to whether dependants' carers' allowance should be payable to members of an authority, and as to the amount of such an allowance;
 - (d) as to whether, in the event that the scheme is amended at any time so as to affect an allowance payable for the year in which the amendment is made, payment of allowances may be backdated in accordance with regulation 10(6);
 - (e) as to whether adjustments to the level of allowances may be determined according to an index and if so which index and how long that index should apply, subject to a maximum of four years, before its application is reviewed;
-- (f)[^key-c24ccc39cc4beafd6ce120174198afc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-7b886e92b3bf53dbf986938d39a0a46a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-c24ccc39cc4beafd6ce120174198afc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-7b886e92b3bf53dbf986938d39a0a46a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A copy of a report made under paragraph (1) shall be sent to each authority in respect of which recommendations have been made.
 
 (3) An independent remuneration panel may make different recommendations in relation to each of the authorities for which it exercises functions.
 
-### 22. Publicity for recommendations of panels[^key-eb16cfd4cddda49042667a845e29e725]
+### 22. Publicity for recommendations of panels[^c-eb16cfd4cddda49042667a845e29e725]
 
 (1) Once an authority receives a copy of a report made to it by an independent remuneration panel in accordance with regulation 21, it shall, as soon as reasonably practicable—
 
@@ -397,24 +397,24 @@ but there shall not be more than one panel which makes recommendations in respec
 
 (2) An authority shall supply a copy of a report made by an independent remuneration panel in accordance with regulation 21 to any person who requests a copy and who pays to the authority such reasonable fee as the authority may determine.
 
-### 23. Transitional provisions for independent remuneration panels[^key-dc5ff7c450fe73527527383858862e08]
+### 23. Transitional provisions for independent remuneration panels[^c-dc5ff7c450fe73527527383858862e08]
 
-Notwithstanding regulation 33(1)(f), any independent remuneration panel established under the Local Authorities (Members' Allowances) (England) Regulations 2001[^f00023] shall continue in being and shall constitute an independent remuneration panel for the purposes of these Regulations as if it had been established under regulation 20, although where the composition of such a panel does not comply with these Regulations, the authority or authorities or other body by which it is established must ensure that the panel does so comply on or before 30th November 2003[^key-6d9345edc253a3a01f4e7bd80d452b9b].
+Notwithstanding regulation 33(1)(f), any independent remuneration panel established under the Local Authorities (Members' Allowances) (England) Regulations 2001[^f00023] shall continue in being and shall constitute an independent remuneration panel for the purposes of these Regulations as if it had been established under regulation 20, although where the composition of such a panel does not comply with these Regulations, the authority or authorities or other body by which it is established must ensure that the panel does so comply on or before 30th November 2003[^c-6d9345edc253a3a01f4e7bd80d452b9b].
 
 ## PART 5 — PARISH COUNCILS
 
-### 24. Application of this Part[^key-9f705fafeea26e9b3fb24f72f02c09e9]
+### 24. Application of this Part[^c-9f705fafeea26e9b3fb24f72f02c09e9]
 
 Any reference in this Part—
 
 - (a) to an authority is, unless otherwise specified, a reference to a parish council;
-- (b)[^key-e408b1fd9a2d4d32d211b5e67c91e900] to a member is, unless otherwise specified or the context otherwise requires, a reference to a member of a parish council, whether or not elected to such office;
+- (b)[^c-e408b1fd9a2d4d32d211b5e67c91e900] to a member is, unless otherwise specified or the context otherwise requires, a reference to a member of a parish council, whether or not elected to such office;
 - (c) to a responsible authority is, in relation to a parish council, a reference to the district council or unitary county council—
   - (i) where the parish council is the council for one parish, in whose area the parish council is situated; or
   - (ii) where the parish council is the council for a group of parishes[^f00024], in whose area all the parishes in the group are situated or, where that is not the case, in whose area the greatest number of local government electors for the parishes in the group is situated; and
 - (d) to an establishing authority is, in relation to a parish remuneration panel, a reference to the responsible authority that established that parish remuneration panel.
 
-### 25. Parish basic allowance[^key-0d0e0e87ca692f75bb28a32f3bfc78b1]
+### 25. Parish basic allowance[^c-0d0e0e87ca692f75bb28a32f3bfc78b1]
 
 (1) An authority may pay an allowance for each year (“parish basic allowance”)—
 
@@ -452,11 +452,11 @@ and the term of office of the chairman as chairman begins or ends otherwise than
 
 such part of the allowance as relates to any such period shall be repaid to the authority.
 
-(9) An authority may not make any payment, and a member is not entitled to receive any payment, under the provisions of this regulation in respect of any period prior to 31st December[^key-1fc5951e7301a533092aca7393ea98d5] 2003 if payment is made, in respect of any duties carried out by the member during that same period, under any of the provisions referred to in regulation 34(1).
+(9) An authority may not make any payment, and a member is not entitled to receive any payment, under the provisions of this regulation in respect of any period prior to 31st December[^c-1fc5951e7301a533092aca7393ea98d5] 2003 if payment is made, in respect of any duties carried out by the member during that same period, under any of the provisions referred to in regulation 34(1).
 
-(10)[^key-cc9178ba6b88c9e27428a6b5857db815] For the purposes of this Regulation any reference to a member is a reference to an elected member of a parish council.
+(10)[^c-cc9178ba6b88c9e27428a6b5857db815] For the purposes of this Regulation any reference to a member is a reference to an elected member of a parish council.
 
-### 26. Parish travelling and subsistence allowance[^key-65b449e0af3c4d3378a981b6c69754ed]
+### 26. Parish travelling and subsistence allowance[^c-65b449e0af3c4d3378a981b6c69754ed]
 
 (1) An authority may pay to its members allowances in respect of travelling and subsistence (“parish travelling and subsistence allowance”), including an allowance in respect of travel by bicycle or by any other non-motorised form of transport, undertaken or incurred in connection with the performance of any duty within one or more of the following categories—
 
@@ -476,15 +476,15 @@ such part of the allowance as relates to any such period shall be repaid to the 
 
 such part of the allowance as relates to any such period shall be repaid to the authority.
 
-(4) An authority may not make any payment, and a member is not entitled to receive any payment, under the provisions of this regulation in respect of any period prior to 31st December[^key-e62a630e79913c6e0a27fb9b0061d416] 2003 if payment is made, in respect of any travelling and subsistence expenses incurred by the member during that same period, under any of the provisions referred to in regulation 34(1).
+(4) An authority may not make any payment, and a member is not entitled to receive any payment, under the provisions of this regulation in respect of any period prior to 31st December[^c-e62a630e79913c6e0a27fb9b0061d416] 2003 if payment is made, in respect of any travelling and subsistence expenses incurred by the member during that same period, under any of the provisions referred to in regulation 34(1).
 
-### 26A. Reimbursement of expenses[^key-029f27a1024bed1d2c99432601acb0e2]
+### 26A. Reimbursement of expenses[^c-029f27a1024bed1d2c99432601acb0e2]
 
 (1) An authority may reimburse to a member any monies expended by that member in respect of travelling or subsistence expenses, including any expenses in respect of travel by bicycle or by any other non-motorised form of transport, incurred in connection with the performance by that member of any duty falling within one or more of the categories set out in regulation 26(1)(a) to (e) during the period beginning with 31st December 2003 and ending on 2nd November 2004.
 
 (2) Any reference to a member in paragraph (1) of this Regulation is a reference to a member of a parish council other than an elected member.
 
-### 27. Parish remuneration panels[^key-c306d614e8d4b13ce1d00b74d09462b6]
+### 27. Parish remuneration panels[^c-c306d614e8d4b13ce1d00b74d09462b6]
 
 (1) A parish remuneration panel may be established—
 
@@ -497,7 +497,7 @@ such part of the allowance as relates to any such period shall be repaid to the 
 
 (4) The authorities in respect of which a parish remuneration panel established under paragraph (1) makes recommendations shall each pay to the parish remuneration panel an equal share of the amount of the expenses incurred by that panel in carrying out that panel’s functions.
 
-### 28. Recommendations of parish remuneration panels[^key-12ee869b308a516c382b83be61470422]
+### 28. Recommendations of parish remuneration panels[^c-12ee869b308a516c382b83be61470422]
 
 (1) A parish remuneration panel shall produce a report in relation to the members of the authorities in respect of which it was established, making recommendations, in accordance with the provisions of regulation 29, as to—
 
@@ -509,9 +509,9 @@ such part of the allowance as relates to any such period shall be repaid to the 
 
 (2) A copy of a report made under paragraph (1) shall be sent to each authority in respect of which recommendations have been made.
 
-(3)[^key-f5030373b76f1da2a979017e145431bd] For the purposes of this Regulation any reference to a member in relation to payments of parish basic allowance is a reference to an elected member of a parish council.
+(3)[^c-f5030373b76f1da2a979017e145431bd] For the purposes of this Regulation any reference to a member in relation to payments of parish basic allowance is a reference to an elected member of a parish council.
 
-### 29. Levels of allowances[^key-dfa24d0fe6b7a9443c6c8af031843fa1]
+### 29. Levels of allowances[^c-dfa24d0fe6b7a9443c6c8af031843fa1]
 
 (1) A parish remuneration panel may, in making its recommendations in accordance with regulations 27 and 28, either—
 
@@ -524,7 +524,7 @@ such part of the allowance as relates to any such period shall be repaid to the 
 
 (4) A parish remuneration panel shall also express its recommendation as to the level of parish basic allowance as a monetary sum being a monetary sum equivalent to the percentage expressed in accordance with paragraphs (2) and (3).
 
-### 30. Publicity in respect of reports of parish remuneration panels[^key-88874cc9fbc5da6b557064a3672add40]
+### 30. Publicity in respect of reports of parish remuneration panels[^c-88874cc9fbc5da6b557064a3672add40]
 
 (1) Once an authority receives a copy of a report made to it by a parish remuneration panel in accordance with regulation 28, it shall, as soon as reasonably practicable—
 
@@ -536,7 +536,7 @@ such part of the allowance as relates to any such period shall be repaid to the 
 
 (2) An authority shall supply a copy of a report made by a parish remuneration panel in accordance with regulation 28 to any person who requests a copy and who pays to the authority such reasonable fee as the authority may determine.
 
-### 31. Records of parish allowances[^key-a8f71838d2ccf326423faca4ebfd65b7]
+### 31. Records of parish allowances[^c-a8f71838d2ccf326423faca4ebfd65b7]
 
 (1) An authority shall keep a record of the payments made by it in respect of—
 
@@ -554,13 +554,13 @@ such part of the allowance as relates to any such period shall be repaid to the 
 - (a) parish basic allowance; and
 - (b) parish travelling and subsistence allowance.
 
-### 32. Elections to forgo parish allowances[^key-c96322b5b0ab10f41e7006cb801a5bff]
+### 32. Elections to forgo parish allowances[^c-c96322b5b0ab10f41e7006cb801a5bff]
 
 A member may, by notice in writing given to the proper officer of the authority, elect to forgo his entitlement or any part of his entitlement to allowances.
 
 ## PART 6 — TRANSITIONAL PROVISIONS, REVOCATION AND DISAPPLICATIONS
 
-### 33. Revocation[^key-496b5dd73b086a3b8ef779395ca92a05]
+### 33. Revocation[^c-496b5dd73b086a3b8ef779395ca92a05]
 
 (1) The following Regulations shall be revoked to the extent not already revoked—
 
@@ -573,7 +573,7 @@ A member may, by notice in writing given to the proper officer of the authority,
 
 (2) Paragraph 4 of the Schedule to the Greater London Authority Act 1999 (Consequential Amendments of Subordinate Legislation) (Fire etc. Authority) Order 2000[^f00032] shall be revoked.
 
-### 34. Disapplication[^key-cd9cb8f83c6f281e49b302413508906c]
+### 34. Disapplication[^c-cd9cb8f83c6f281e49b302413508906c]
 
 (1) Subject to paragraphs (2) and (3), the following shall be disapplied as respects authorities—
 
@@ -584,9 +584,9 @@ A member may, by notice in writing given to the proper officer of the authority,
 for all purposes other than—
 
 - (i) the payment of any allowance payable to members of an admissions appeal panel constituted in accordance with regulations made by the Secretary of State under the provisions of the School Standards and Framework Act 1998[^f00035]; and
-- (ii) the payment of any allowance payable to members of an exclusions review[^key-d51de06aa9d1e9cfdea2d54b7fb34cf5] panel constituted in accordance with regulations made by the Secretary of State under the provisions of the Education Act 2002[^f00036].
+- (ii) the payment of any allowance payable to members of an exclusions review[^c-d51de06aa9d1e9cfdea2d54b7fb34cf5] panel constituted in accordance with regulations made by the Secretary of State under the provisions of the Education Act 2002[^f00036].
 
-(2) As respects parish councils the provisions referred to in paragraph (1) shall be disapplied with effect from 31st December[^key-a80b11881f47d9f57429b1f8126cac42] 2003.
+(2) As respects parish councils the provisions referred to in paragraph (1) shall be disapplied with effect from 31st December[^c-a80b11881f47d9f57429b1f8126cac42] 2003.
 
 (3) As respects any other authority the provisions referred to in paragraph (1) shall be disapplied with effect from the date upon which such authority makes a scheme in accordance with Parts 2 and 3 of these Regulations.
 
@@ -596,9 +596,9 @@ for all purposes other than—
 - (b) a county council;
 - (c) a London borough council;
 - (d) the Council of the Isles of Scilly;
-- (e)[^key-168c895a598e02d4c48623b295553b43] a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
+- (e)[^c-168c895a598e02d4c48623b295553b43] a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
 - (f) a joint authority established by Part IV of the Local Government Act 1985[^f00038];
-- (g)[^key-e628b0c7c179447d0865a3db8140bf36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-e628b0c7c179447d0865a3db8140bf36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the Broads Authority[^f00040];
 - (i) a National Park authority[^f00041];
 - (j) a conservation board of an area of outstanding natural beauty[^f00042]; and
@@ -636,27 +636,27 @@ Part 6 revokes existing regulations relating to members' allowances and disappli
 
 [^f00002]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-9781f06cc6574fc9859e7ee41a353ff3]: Modification: Regulations applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2005/421/schedule/4/paragraph/13)
+[^c-9781f06cc6574fc9859e7ee41a353ff3]: Modification: Regulations applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2005/421/schedule/4/paragraph/13)
 
-[^key-15ba9d73d923fc0ee3bc768a47cb95ea]: Modification: Regulations applied in part (with modifications) (5.3.2008) by [The Cheshire (Structural Changes) Order 2008 (S.I. 2008/634)](https://www.legislation.gov.uk/uksi/2008/634), [arts. 1](https://www.legislation.gov.uk/uksi/2008/634/article/1), [11](https://www.legislation.gov.uk/uksi/2008/634/article/11)
+[^c-15ba9d73d923fc0ee3bc768a47cb95ea]: Modification: Regulations applied in part (with modifications) (5.3.2008) by [The Cheshire (Structural Changes) Order 2008 (S.I. 2008/634)](https://www.legislation.gov.uk/uksi/2008/634), [arts. 1](https://www.legislation.gov.uk/uksi/2008/634/article/1), [11](https://www.legislation.gov.uk/uksi/2008/634/article/11)
 
-[^key-0cc152d9313b1b522030b844ba99624e]: Modification: Regulations applied (with modifications) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2010/497/schedule/4/paragraph/12)
+[^c-0cc152d9313b1b522030b844ba99624e]: Modification: Regulations applied (with modifications) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2010/497/schedule/4/paragraph/12)
 
-[^key-6c687efca3bfb4b576b6e149146cf154]: Modification: Regulations applied in part (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [12(10)](https://www.legislation.gov.uk/uksi/2018/648/article/12/10), [27(10)](https://www.legislation.gov.uk/uksi/2018/648/article/27/10)
+[^c-6c687efca3bfb4b576b6e149146cf154]: Modification: Regulations applied in part (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [12(10)](https://www.legislation.gov.uk/uksi/2018/648/article/12/10), [27(10)](https://www.legislation.gov.uk/uksi/2018/648/article/27/10)
 
-[^key-1a6a4baa2b731230d1dc6e0d6812ffe4]: Modification: Regulations applied in part (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [6(19)](https://www.legislation.gov.uk/uksi/2019/957/article/6/19)
+[^c-1a6a4baa2b731230d1dc6e0d6812ffe4]: Modification: Regulations applied in part (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [6(19)](https://www.legislation.gov.uk/uksi/2019/957/article/6/19)
 
-[^key-3bb70045d75120151365dd596fd3510a]: Modification: Regulations applied in part (with modifications) (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [10(4)-(10)](https://www.legislation.gov.uk/uksi/2020/156/article/10/4)
+[^c-3bb70045d75120151365dd596fd3510a]: Modification: Regulations applied in part (with modifications) (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [10(4)-(10)](https://www.legislation.gov.uk/uksi/2020/156/article/10/4)
 
-[^key-cc8909102ff754d93a80cd26455bc077]: Modification: Regulations applied in part (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2022/331/article/10/4)
+[^c-cc8909102ff754d93a80cd26455bc077]: Modification: Regulations applied in part (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2022/331/article/10/4)
 
-[^key-409505fbbd460bced1ed19970c322c17]: Modification: Regulations applied in part (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/264/article/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/264/article/22/3), [34(3)](https://www.legislation.gov.uk/uksi/2026/264/article/34/3)
+[^c-409505fbbd460bced1ed19970c322c17]: Modification: Regulations applied in part (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/264/article/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/264/article/22/3), [34(3)](https://www.legislation.gov.uk/uksi/2026/264/article/34/3)
 
-[^key-2ee9a4236e49dce36b6d6903f8f7a4d8]: Commencement: Reg. 1 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-2ee9a4236e49dce36b6d6903f8f7a4d8]: Commencement: Reg. 1 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00003]: Footnote: The Secretary of State’s functions under sections 18 and 190 of the Local Government and Housing Act 1989, so far as exercisable in relation to Wales are transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Local Government and Housing Act 1989 and *see* section 106(3) of the Local Government Act 2000. *See* also section 100(7) of the Local Government Act 2000 for the power of the National Assembly for Wales to make regulations in relation to allowances. The Secretary of State’s functions under the Local Government and Housing Act 1989, so far as exercisable in relation to Scotland, are now functions of the relevant Scottish minister by virtue of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-252a47cadddea0adbff0465b8a5fa927]: Commencement: Reg. 2 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-252a47cadddea0adbff0465b8a5fa927]: Commencement: Reg. 2 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00004]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); section 2 was substituted by section 1(1) of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2).
 
@@ -664,13 +664,13 @@ Part 6 revokes existing regulations relating to members' allowances and disappli
 
 [^f00006]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-b7209d5e822a1c5465a13ebe40c98c2a]: Commencement: Reg. 3 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-b7209d5e822a1c5465a13ebe40c98c2a]: Commencement: Reg. 3 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-2e8b3332a58130fc973b050933ee49e2]: Textual amendment: Reg. 3(1)(e) substituted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [68(2)](https://www.legislation.gov.uk/uksi/2004/3168/article/68/2)
+[^c-2e8b3332a58130fc973b050933ee49e2]: Textual amendment: Reg. 3(1)(e) substituted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [68(2)](https://www.legislation.gov.uk/uksi/2004/3168/article/68/2)
 
 [^f00008]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-a877e5562a243391373b9e308ca30874]: Textual amendment: Reg. 3(1)(g) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/7/2)
+[^c-a877e5562a243391373b9e308ca30874]: Textual amendment: Reg. 3(1)(g) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/7/2)
 
 [^f00010]: Footnote: Established by the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4).
 
@@ -682,115 +682,115 @@ Part 6 revokes existing regulations relating to members' allowances and disappli
 
 [^f00014]: Footnote: Section 18(6) of the Local Government and Housing Act 1989 provides that any reference to a councillor in that section includes a reference to a member of the authority concerned who, in accordance with regulations made under that section, is to be treated as if he were a councillor.
 
-[^key-dbd657bf829866ad627f5d079c43519a]: Commencement: Reg. 4 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-dbd657bf829866ad627f5d079c43519a]: Commencement: Reg. 4 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-04068658227d4d9e9b4bc0def4bbfa7b]: Textual amendment: Reg. 4(1A)(1B) inserted (18.3.2020) by [The Combined Fire and Rescue Authorities (Membership and Allowances) (Amendment) Regulations 2020 (S.I. 2020/168)](https://www.legislation.gov.uk/uksi/2020/168), [regs. 1](https://www.legislation.gov.uk/uksi/2020/168/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/168/regulation/22)
+[^c-04068658227d4d9e9b4bc0def4bbfa7b]: Textual amendment: Reg. 4(1A)(1B) inserted (18.3.2020) by [The Combined Fire and Rescue Authorities (Membership and Allowances) (Amendment) Regulations 2020 (S.I. 2020/168)](https://www.legislation.gov.uk/uksi/2020/168), [regs. 1](https://www.legislation.gov.uk/uksi/2020/168/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/168/regulation/22)
 
 [^f00015]: Footnote: *See* section 83(7) to (10) of the Local Government Act 2000.
 
-[^key-2f795f1861f54288a704a33b8e4aea27]: Commencement: Reg. 5 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-2f795f1861f54288a704a33b8e4aea27]: Commencement: Reg. 5 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00016]: Footnote: S.I. [1983/1964](https://www.legislation.gov.uk/uksi/1983/1964), as amended by S.I. [1997/649](https://www.legislation.gov.uk/uksi/1997/649) and [2001/2237](https://www.legislation.gov.uk/uksi/2001/2237).
 
-[^key-b37f668008ec7b4f5debf6d810e4511c]: Commencement: Reg. 6 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-b37f668008ec7b4f5debf6d810e4511c]: Commencement: Reg. 6 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00017]: Footnote: *See* section 18(5)(b) of the Local Government and Housing Act 1989 which provides that Regulations made under section 18 may apply to a body on which any relevant authority within the meaning of that section is represented and which is designated a relevant authority.
 
-[^key-2541e2c869fafe90d6824977348240cd]: Commencement: Reg. 7 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-2541e2c869fafe90d6824977348240cd]: Commencement: Reg. 7 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00018]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 342 was substituted by paragraph 82 of Schedule 30 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31).
 
-[^key-5a3efa46e830c156da85cebea18f089b]: Commencement: Reg. 8 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-5a3efa46e830c156da85cebea18f089b]: Commencement: Reg. 8 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00019]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51). Section 10 was amended by paragraph 26 of Schedule 15 to the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-c6a74e9eb127b1b729e89e8a48d41192]: Commencement: Reg. 9 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-c6a74e9eb127b1b729e89e8a48d41192]: Commencement: Reg. 9 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-4ba3445a481737b106bcfca6e24560bc]: Commencement: Reg. 10 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-4ba3445a481737b106bcfca6e24560bc]: Commencement: Reg. 10 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-6973cd2d95b1b1427bc287c21271728a]: Textual amendment: Reg. 11 substituted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/2)
+[^c-6973cd2d95b1b1427bc287c21271728a]: Textual amendment: Reg. 11 substituted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/2)
 
-[^key-9115ed8082015f03807022da424f07b6]: Commencement: Reg. 12 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-9115ed8082015f03807022da424f07b6]: Commencement: Reg. 12 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-9c344fd94835aab57e46fd0f43a2edf6]: Commencement: Reg. 13 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-9c344fd94835aab57e46fd0f43a2edf6]: Commencement: Reg. 13 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-46440db63c61cb9915d89d194590f384]: Commencement: Reg. 14 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-46440db63c61cb9915d89d194590f384]: Commencement: Reg. 14 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-2d471436aa236097f10fdd9c5c332a63]: Commencement: Reg. 15 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-2d471436aa236097f10fdd9c5c332a63]: Commencement: Reg. 15 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-e84e6daa18d78efd0d7be4dba5e55169]: Textual amendment: Word in reg. 15(3) omitted (11.5.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/3/a)
+[^c-e84e6daa18d78efd0d7be4dba5e55169]: Textual amendment: Word in reg. 15(3) omitted (11.5.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/3/a)
 
-[^key-10a92a284bbe747d3a60c47b97a6d660]: Textual amendment: Reg. 15(3)(f) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/3/b)
+[^c-10a92a284bbe747d3a60c47b97a6d660]: Textual amendment: Reg. 15(3)(f) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/3/b)
 
-[^key-f1f94152b86b5f28371b1c0bdc358275]: Commencement: Reg. 16 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-f1f94152b86b5f28371b1c0bdc358275]: Commencement: Reg. 16 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-eb4ee0eb3630547c9123fcc661360d36]: Commencement: Reg. 17 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-eb4ee0eb3630547c9123fcc661360d36]: Commencement: Reg. 17 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00021]: Footnote: S.I. [1991/351](https://www.legislation.gov.uk/uksi/1991/351), as amended by S.I. [1995/553](https://www.legislation.gov.uk/uksi/1995/553), S.I. [1996/469](https://www.legislation.gov.uk/uksi/1996/469), S.I. [2000/622](https://www.legislation.gov.uk/uksi/2000/622), S.I. [2000/623](https://www.legislation.gov.uk/uksi/2000/623) and S.I. [2001/1280](https://www.legislation.gov.uk/uksi/2001/1280).
 
-[^key-c716dcc82609b413cf83d6181b777376]: Textual amendment: Words in reg. 17(1) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/3/2)
+[^c-c716dcc82609b413cf83d6181b777376]: Textual amendment: Words in reg. 17(1) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/3/2)
 
-[^key-a297547d7dd161fc03dd88256801e40a]: Textual amendment: Words in reg. 17(2) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/3/3)
+[^c-a297547d7dd161fc03dd88256801e40a]: Textual amendment: Words in reg. 17(2) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/3/3)
 
-[^key-f83a52af4d42e1a37bad2da151d66819]: Textual amendment: Words in reg. 17(4) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/3/4)
+[^c-f83a52af4d42e1a37bad2da151d66819]: Textual amendment: Words in reg. 17(4) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/3/4)
 
-[^key-2709afb8837ffbbd8237b732b09f1de4]: Commencement: Reg. 18 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-2709afb8837ffbbd8237b732b09f1de4]: Commencement: Reg. 18 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-2d0ab6d944d0451384e9789b2ae37513]: Commencement: Reg. 19 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-2d0ab6d944d0451384e9789b2ae37513]: Commencement: Reg. 19 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-e8a66ceee894cd884cade9176efec11c]: Commencement: Reg. 20 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-e8a66ceee894cd884cade9176efec11c]: Commencement: Reg. 20 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00022]: Footnote: *See* section 80 of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) and section 79 and 83(11) of the Local Government Act 2000.
 
-[^key-04fea07f01195bc81603ab593ecd3146]: Commencement: Reg. 21 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-04fea07f01195bc81603ab593ecd3146]: Commencement: Reg. 21 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-c24ccc39cc4beafd6ce120174198afc2]: Textual amendment: Reg. 21(1)(f) omitted (11.5.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/4)
+[^c-c24ccc39cc4beafd6ce120174198afc2]: Textual amendment: Reg. 21(1)(f) omitted (11.5.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/4)
 
-[^key-7b886e92b3bf53dbf986938d39a0a46a]: Textual amendment: Reg. 21(1)(g) omitted (11.5.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/4)
+[^c-7b886e92b3bf53dbf986938d39a0a46a]: Textual amendment: Reg. 21(1)(g) omitted (11.5.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2026/346/regulation/8/4)
 
-[^key-eb16cfd4cddda49042667a845e29e725]: Commencement: Reg. 22 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-eb16cfd4cddda49042667a845e29e725]: Commencement: Reg. 22 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-dc5ff7c450fe73527527383858862e08]: Commencement: Reg. 23 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-dc5ff7c450fe73527527383858862e08]: Commencement: Reg. 23 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00023]: Footnote: S.I. [2001/1280](https://www.legislation.gov.uk/uksi/2001/1280).
 
-[^key-6d9345edc253a3a01f4e7bd80d452b9b]: Textual amendment: Words in reg. 23 substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/4/2)
+[^c-6d9345edc253a3a01f4e7bd80d452b9b]: Textual amendment: Words in reg. 23 substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/4/2)
 
-[^key-9f705fafeea26e9b3fb24f72f02c09e9]: Commencement: Reg. 24 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-9f705fafeea26e9b3fb24f72f02c09e9]: Commencement: Reg. 24 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-e408b1fd9a2d4d32d211b5e67c91e900]: Textual amendment: Reg. 24(b) substituted (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2596/regulation/3)
+[^c-e408b1fd9a2d4d32d211b5e67c91e900]: Textual amendment: Reg. 24(b) substituted (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2596/regulation/3)
 
 [^f00024]: Footnote: *See* section 11 of the Local Government Act 1972 for the procedure by which parish councils may be grouped.
 
-[^key-0d0e0e87ca692f75bb28a32f3bfc78b1]: Commencement: Reg. 25 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-0d0e0e87ca692f75bb28a32f3bfc78b1]: Commencement: Reg. 25 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00025]: Footnote: *See* section 15(1) of the Local Government Act 1972 for the duty to elect a chairman from among the councillors of a parish council.
 
-[^key-1fc5951e7301a533092aca7393ea98d5]: Textual amendment: Words in reg. 25(9) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/5/2)
+[^c-1fc5951e7301a533092aca7393ea98d5]: Textual amendment: Words in reg. 25(9) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/5/2)
 
-[^key-cc9178ba6b88c9e27428a6b5857db815]: Textual amendment: Reg. 25(10) added (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/2596/regulation/4)
+[^c-cc9178ba6b88c9e27428a6b5857db815]: Textual amendment: Reg. 25(10) added (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/2596/regulation/4)
 
-[^key-65b449e0af3c4d3378a981b6c69754ed]: Commencement: Reg. 26 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-65b449e0af3c4d3378a981b6c69754ed]: Commencement: Reg. 26 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-e62a630e79913c6e0a27fb9b0061d416]: Textual amendment: Words in reg. 26(4) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/6/2)
+[^c-e62a630e79913c6e0a27fb9b0061d416]: Textual amendment: Words in reg. 26(4) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/6/2)
 
-[^key-029f27a1024bed1d2c99432601acb0e2]: Textual amendment: Reg. 26A inserted (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2004/2596/regulation/6)
+[^c-029f27a1024bed1d2c99432601acb0e2]: Textual amendment: Reg. 26A inserted (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2004/2596/regulation/6)
 
-[^key-c306d614e8d4b13ce1d00b74d09462b6]: Commencement: Reg. 27 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-c306d614e8d4b13ce1d00b74d09462b6]: Commencement: Reg. 27 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-12ee869b308a516c382b83be61470422]: Commencement: Reg. 28 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-12ee869b308a516c382b83be61470422]: Commencement: Reg. 28 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-f5030373b76f1da2a979017e145431bd]: Textual amendment: Reg. 28(3) added (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/2596/regulation/5)
+[^c-f5030373b76f1da2a979017e145431bd]: Textual amendment: Reg. 28(3) added (3.11.2004) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2004 (S.I. 2004/2596)](https://www.legislation.gov.uk/uksi/2004/2596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2596/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/2596/regulation/5)
 
-[^key-dfa24d0fe6b7a9443c6c8af031843fa1]: Commencement: Reg. 29 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-dfa24d0fe6b7a9443c6c8af031843fa1]: Commencement: Reg. 29 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-88874cc9fbc5da6b557064a3672add40]: Commencement: Reg. 30 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-88874cc9fbc5da6b557064a3672add40]: Commencement: Reg. 30 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-a8f71838d2ccf326423faca4ebfd65b7]: Commencement: Reg. 31 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-a8f71838d2ccf326423faca4ebfd65b7]: Commencement: Reg. 31 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-c96322b5b0ab10f41e7006cb801a5bff]: Commencement: Reg. 32 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-c96322b5b0ab10f41e7006cb801a5bff]: Commencement: Reg. 32 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
-[^key-496b5dd73b086a3b8ef779395ca92a05]: Commencement: Reg. 33 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-496b5dd73b086a3b8ef779395ca92a05]: Commencement: Reg. 33 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00026]: Footnote: S.I. [1991/351](https://www.legislation.gov.uk/uksi/1991/351), as amended by S.I. [1995/553](https://www.legislation.gov.uk/uksi/1995/553), S.I. [1996/469](https://www.legislation.gov.uk/uksi/1996/469), S.I. [2000/622](https://www.legislation.gov.uk/uksi/2000/622), S.I. [2000/623](https://www.legislation.gov.uk/uksi/2000/623) and S.I. [2001/1280](https://www.legislation.gov.uk/uksi/2001/1280).
 
@@ -806,7 +806,7 @@ Part 6 revokes existing regulations relating to members' allowances and disappli
 
 [^f00032]: Footnote: S.I. [2000/1553](https://www.legislation.gov.uk/uksi/2000/1553) which amended regulation 5 of S.I. [1991/351](https://www.legislation.gov.uk/uksi/1991/351).
 
-[^key-cd9cb8f83c6f281e49b302413508906c]: Commencement: Reg. 34 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
+[^c-cd9cb8f83c6f281e49b302413508906c]: Commencement: Reg. 34 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^f00033]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 173 is amended by section 24(1) of the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65) and by section 194 of and Schedule 11 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42); section 173A was inserted by section 24 of the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65) and is amended by section 7 of the Miscellaneous Financial Provisions Act [1983 (c. 29)](https://www.legislation.gov.uk/ukpga/1983/29) and by section 194 of and Schedule 11 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42); section 174 is amended by section 25 of the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65); section 175 is amended by section 25 of the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65), section 11 of and Schedule 5 to the Water Act [1983 (c. 23)](https://www.legislation.gov.uk/ukpga/1983/23), section 194 of and Schedule 11 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42) and section 328 of and Schedule 29 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -814,17 +814,17 @@ Part 6 revokes existing regulations relating to members' allowances and disappli
 
 [^f00035]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). The Education (Admissions Appeals Arrangements) (England) Regulations 2002 (S.I. [2002/2899](https://www.legislation.gov.uk/uksi/2002/2899)) have been made under the provisions of section 94 of the School Standards and Framework Act 1998.
 
-[^key-d51de06aa9d1e9cfdea2d54b7fb34cf5]: Textual amendment: Word in reg. 34(1)(c)(ii) substituted (1.9.2012) by [The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012 (S.I. 2012/1033)](https://www.legislation.gov.uk/uksi/2012/1033), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/1033/schedule/2/paragraph/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/2))
+[^c-d51de06aa9d1e9cfdea2d54b7fb34cf5]: Textual amendment: Word in reg. 34(1)(c)(ii) substituted (1.9.2012) by [The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012 (S.I. 2012/1033)](https://www.legislation.gov.uk/uksi/2012/1033), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/1033/schedule/2/paragraph/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/2))
 
 [^f00036]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). The Education (Pupil Exclusions and Appeals) (Maintained Schools) (England) Regulations 2002 (S.I. [2002/3178](https://www.legislation.gov.uk/uksi/2002/3178)) and the Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (England) Regulations 2002 (S.I. [2002/3179](https://www.legislation.gov.uk/uksi/2002/3179)) have been made under the provisions of section 52 of the Education Act 2002.
 
-[^key-a80b11881f47d9f57429b1f8126cac42]: Textual amendment: Words in reg. 34(2) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/7/2)
+[^c-a80b11881f47d9f57429b1f8126cac42]: Textual amendment: Words in reg. 34(2) substituted (31.7.2003) by [The Local Authorities (Members' Allowances) (England) (Amendment) Regulations 2003 (S.I. 2003/1692)](https://www.legislation.gov.uk/uksi/2003/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1692/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/1692/regulation/7/2)
 
-[^key-168c895a598e02d4c48623b295553b43]: Textual amendment: Reg. 34(4)(e) substituted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [68(3)](https://www.legislation.gov.uk/uksi/2004/3168/article/68/3)
+[^c-168c895a598e02d4c48623b295553b43]: Textual amendment: Reg. 34(4)(e) substituted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [68(3)](https://www.legislation.gov.uk/uksi/2004/3168/article/68/3)
 
 [^f00038]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-e628b0c7c179447d0865a3db8140bf36]: Textual amendment: Reg. 34(4)(g) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/7/3)
+[^c-e628b0c7c179447d0865a3db8140bf36]: Textual amendment: Reg. 34(4)(g) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/7/3)
 
 [^f00040]: Footnote: Established by the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4).
 

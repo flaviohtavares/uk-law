@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Indirect disclosure of information: restrictions on civil liability[^key-b4dd250d9af58c61386fa15e077b5b0b][^key-75e144cb8502cac768ab5443f0cd668f]
+## 189. Indirect disclosure of information: restrictions on civil liability[^c-b4dd250d9af58c61386fa15e077b5b0b][^c-75e144cb8502cac768ab5443f0cd668f]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,9 +88,9 @@ And, for the purposes of subsection (3)(b), the question of whether a person’s
 
 ## Annotations
 
-[^key-b4dd250d9af58c61386fa15e077b5b0b]: Commencement: S. 189 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b4dd250d9af58c61386fa15e077b5b0b]: Commencement: S. 189 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-75e144cb8502cac768ab5443f0cd668f]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2023/56/section/189) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)
+[^c-75e144cb8502cac768ab5443f0cd668f]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2023/56/section/189) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)
 
 [^M_F_f4c0d387-99fb-47db-cf6b-a7962fca8fab]: Textual amendment: Words in s. 189(3)(b)(ii) substituted (for the financial year beginning with April 2026 and subsequent financial years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 113(3)(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/113/3)
 

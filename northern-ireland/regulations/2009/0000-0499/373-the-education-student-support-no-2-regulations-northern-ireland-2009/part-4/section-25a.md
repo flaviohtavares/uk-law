@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25A. Amount of relevant institution charge loan[^key-81c30c882a169df81aa189a323ae66a3]
+## 25A. Amount of relevant institution charge loan[^c-81c30c882a169df81aa189a323ae66a3]
 
 *Extent: N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81c30c882a169df81aa189a323ae66a3]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/nisr/2009/373/regulation/25A) inserted (6.6.2013 with application in accordance with reg. 1(2)) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/128)](https://www.legislation.gov.uk/nisr/2013/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/128/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/128/regulation/9)
+[^c-81c30c882a169df81aa189a323ae66a3]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/nisr/2009/373/regulation/25A) inserted (6.6.2013 with application in accordance with reg. 1(2)) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/128)](https://www.legislation.gov.uk/nisr/2013/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/128/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/128/regulation/9)
 
 [^f00005]: Footnote: [S.I. 2005/1116 (N.I. 5)](https://www.legislation.gov.uk/nisi/2005/1116)

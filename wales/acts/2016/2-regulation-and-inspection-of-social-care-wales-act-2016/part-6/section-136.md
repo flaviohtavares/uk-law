@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Other consensual disposal by fitness to practise panel: undertakings[^key-3de2f625cb1a92189dfe8eb86d3a446b]
+## 136. Other consensual disposal by fitness to practise panel: undertakings[^c-3de2f625cb1a92189dfe8eb86d3a446b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3de2f625cb1a92189dfe8eb86d3a446b]: Commencement: [S. 136](https://www.legislation.gov.uk/anaw/2016/2/section/136) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-3de2f625cb1a92189dfe8eb86d3a446b]: Commencement: [S. 136](https://www.legislation.gov.uk/anaw/2016/2/section/136) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

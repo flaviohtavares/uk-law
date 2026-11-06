@@ -35,18 +35,18 @@ concerning the authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.
 
 (Text with EEA relevance) (revoked)
 
-[^key-686833ccb0bf116e0cb7f7acd7e2c6ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-686833ccb0bf116e0cb7f7acd7e2c6ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-686833ccb0bf116e0cb7f7acd7e2c6ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-686833ccb0bf116e0cb7f7acd7e2c6ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-686833ccb0bf116e0cb7f7acd7e2c6ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-686833ccb0bf116e0cb7f7acd7e2c6ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-686833ccb0bf116e0cb7f7acd7e2c6ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-686833ccb0bf116e0cb7f7acd7e2c6ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-686833ccb0bf116e0cb7f7acd7e2c6ef]
+## ANNEX[^c-686833ccb0bf116e0cb7f7acd7e2c6ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-686833ccb0bf116e0cb7f7acd7e2c6ef]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 363](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/363) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-686833ccb0bf116e0cb7f7acd7e2c6ef]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 363](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/363) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

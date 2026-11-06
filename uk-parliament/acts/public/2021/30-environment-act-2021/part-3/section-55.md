@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Charges for single use items[^key-edce2ca6eba09cf96d0d93a5a0267c4f][^key-e743301c0d993952eca737f4cc551ec4]
+## 55. Charges for single use items[^c-edce2ca6eba09cf96d0d93a5a0267c4f][^c-e743301c0d993952eca737f4cc551ec4]
 
 *Extent: E+W+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edce2ca6eba09cf96d0d93a5a0267c4f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2021/30/section/55) in force at 9.1.2022 for E.W., see [s. 147(2)(e)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/e)
+[^c-edce2ca6eba09cf96d0d93a5a0267c4f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2021/30/section/55) in force at 9.1.2022 for E.W., see [s. 147(2)(e)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/e)
 
-[^key-e743301c0d993952eca737f4cc551ec4]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2021/30/section/55) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(g)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/g)
+[^c-e743301c0d993952eca737f4cc551ec4]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2021/30/section/55) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(g)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/g)

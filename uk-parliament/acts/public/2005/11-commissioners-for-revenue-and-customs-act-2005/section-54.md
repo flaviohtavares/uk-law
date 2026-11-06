@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Transitional: general[^key-b2d68e97b55012071cef5c29fbe8e76d]
+## 54. Transitional: general[^c-b2d68e97b55012071cef5c29fbe8e76d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2d68e97b55012071cef5c29fbe8e76d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2005/11/section/54) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/j)
+[^c-b2d68e97b55012071cef5c29fbe8e76d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2005/11/section/54) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/j)

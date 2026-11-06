@@ -42,13 +42,13 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 In accordance with section 223(5) of that Act a draft of this Order has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-59846f503f11e71c93af8b6fe648b0d2]
+## 1. Citation, commencement and interpretation[^c-59846f503f11e71c93af8b6fe648b0d2]
 
 (1) This Order may be cited as the Extradition Act 2003 (Amendments to Designations) Order 2020 and comes into force at the end of the period of one week beginning with the day on which it is made.
 
 (2) In this Order, “the 2003 Act” means the Extradition Act 2003.
 
-## 2. Amendment to the Extradition Act 2003 (Designation of Part 1 Territories) Order 2003[^key-7a30ad04714b66958a8cb30cd69e3a2d]
+## 2. Amendment to the Extradition Act 2003 (Designation of Part 1 Territories) Order 2003[^c-7a30ad04714b66958a8cb30cd69e3a2d]
 
 (1) The Extradition Act 2003 (Designation of Part 1 Territories) Order 2003[^f00002] is amended as follows.
 
@@ -57,11 +57,11 @@ In accordance with section 223(5) of that Act a draft of this Order has been lai
 - (a) after “Hungary,” insert “Iceland,”;
 - (b) after “The Netherlands,” insert “Norway,”.
 
-## 3. Modification of effect of the 2003 Act[^key-6ca0037b0ef8038eff77e78ef8b186c2]
+## 3. Modification of effect of the 2003 Act[^c-6ca0037b0ef8038eff77e78ef8b186c2]
 
 The 2003 Act has effect in relation to Iceland and Norway with the modifications that section 64 (extradition offences: person not sentenced for offence) and section 65 (extradition offences: person sentenced for offence) have effect as if subsection (5) of those sections, and the reference to that subsection in subsection (2) of those sections, were omitted.
 
-## 4. Amendment to the Extradition Act 2003 (Designation of Part 2 Territories) Order 2003[^key-70c4451dfc7302dc03ad804775bb1ef6]
+## 4. Amendment to the Extradition Act 2003 (Designation of Part 2 Territories) Order 2003[^c-70c4451dfc7302dc03ad804775bb1ef6]
 
 (1) The Extradition Act 2003 (Designation of Part 2 Territories) Order 2003[^f00003] is amended as follows.
 
@@ -77,7 +77,7 @@ The 2003 Act has effect in relation to Iceland and Norway with the modifications
 - (a) after “Iraq (65 days)” insert “Kuwait (65 days)”;
 - (b) after “Mexico (65 days)”[^f00004] insert “Morocco (65 days)”.
 
-## 5. Transitional provision[^key-982439c73e95fd9af2511a7972016251]
+## 5. Transitional provision[^c-982439c73e95fd9af2511a7972016251]
 
 Articles 2 and 4(2)(a) and (d) do not apply to a case where a person is accused of the commission of an offence in Iceland or Norway and, in relation to that person and that offence, before the coming into force of this Order.
 
@@ -110,20 +110,20 @@ An impact assessment has not been produced for this Order as no impact on busine
 
 [^f00001]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41).
 
-[^key-59846f503f11e71c93af8b6fe648b0d2]: Commencement: Art. 1 in force at 17.3.2020 in accordance with art. 1(1)
+[^c-59846f503f11e71c93af8b6fe648b0d2]: Commencement: Art. 1 in force at 17.3.2020 in accordance with art. 1(1)
 
-[^key-7a30ad04714b66958a8cb30cd69e3a2d]: Commencement: Art. 2 in force at 17.3.2020 in accordance with art. 1(1)
+[^c-7a30ad04714b66958a8cb30cd69e3a2d]: Commencement: Art. 2 in force at 17.3.2020 in accordance with art. 1(1)
 
 [^f00002]: Footnote: [S.I. 2003/3333](https://www.legislation.gov.uk/uksi/2003/3333), amended by [S.I. 2004/1898](https://www.legislation.gov.uk/uksi/2004/1898); there are other amendments but none are relevant.
 
-[^key-6ca0037b0ef8038eff77e78ef8b186c2]: Commencement: Art. 3 in force at 17.3.2020 in accordance with art. 1(1)
+[^c-6ca0037b0ef8038eff77e78ef8b186c2]: Commencement: Art. 3 in force at 17.3.2020 in accordance with art. 1(1)
 
-[^key-70c4451dfc7302dc03ad804775bb1ef6]: Commencement: Art. 4 in force at 17.3.2020 in accordance with art. 1(1)
+[^c-70c4451dfc7302dc03ad804775bb1ef6]: Commencement: Art. 4 in force at 17.3.2020 in accordance with art. 1(1)
 
 [^f00003]: Footnote: [S.I. 2003/3334](https://www.legislation.gov.uk/uksi/2003/3334), amended by section 43(1) of the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and [S.I. 2015/992](https://www.legislation.gov.uk/uksi/2015/992); there are other amendments but none are relevant.
 
 [^f00004]: Footnote: “Mexico (65 days)” was inserted by [S.I. 2005/365](https://www.legislation.gov.uk/uksi/2005/365).
 
-[^key-982439c73e95fd9af2511a7972016251]: Commencement: Art. 5 in force at 17.3.2020 in accordance with art. 1(1)
+[^c-982439c73e95fd9af2511a7972016251]: Commencement: Art. 5 in force at 17.3.2020 in accordance with art. 1(1)
 
 [^f00005]: Footnote: Section 70 was amended by paragraphs 17(1), (2)(a) and (b) and (3) of Part 1 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and paragraph 121(4)(b) in Part 4 of Schedule 11 to the Anti-Social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). There are other amendments but none are relevant.

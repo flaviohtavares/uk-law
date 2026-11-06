@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In addition to the items listed in Annex XXVII, a fisheries administration[^key-6bdb986082698fda83cc3e5bcfb67972] may make use of available methodologies and technologies for the identification and validation of fisheries products, their source or origin and the suppliers and catching vessels or production units.
+In addition to the items listed in Annex XXVII, a fisheries administration[^c-6bdb986082698fda83cc3e5bcfb67972] may make use of available methodologies and technologies for the identification and validation of fisheries products, their source or origin and the suppliers and catching vessels or production units.
 
 ## Annotations
 
-[^key-6bdb986082698fda83cc3e5bcfb67972]: Textual amendment: Words in [Art. 111](https://www.legislation.gov.uk/eur/2011/404/article/111) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(82)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bdb986082698fda83cc3e5bcfb67972]: Textual amendment: Words in [Art. 111](https://www.legislation.gov.uk/eur/2011/404/article/111) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(82)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

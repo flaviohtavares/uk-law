@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Review of quality of care[^key-fe82c8fae38ab79497774def061101ff]
+## 30. Review of quality of care[^c-fe82c8fae38ab79497774def061101ff]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe82c8fae38ab79497774def061101ff]: Commencement: Reg. 30 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-fe82c8fae38ab79497774def061101ff]: Commencement: Reg. 30 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Complaints against registered housing associations[^key-8279f1820bb463ea675bab5284828ee8]
+## 146. Complaints against registered housing associations[^c-8279f1820bb463ea675bab5284828ee8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8279f1820bb463ea675bab5284828ee8]: Textual amendment: [Art. 146](https://www.legislation.gov.uk/nisi/2003/412/article/146) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-8279f1820bb463ea675bab5284828ee8]: Textual amendment: [Art. 146](https://www.legislation.gov.uk/nisi/2003/412/article/146) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)

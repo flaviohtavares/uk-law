@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Disapplication of provisions of section 4 of the Rehabilitation of Offenders Act 1974[^key-a778849ac2d7de01084f5b8037f65384]
+## 32. Disapplication of provisions of section 4 of the Rehabilitation of Offenders Act 1974[^c-a778849ac2d7de01084f5b8037f65384]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ is or are included in a Level 2 disclosure as mentioned in subsection (3)(c).
 
 ## Annotations
 
-[^key-a778849ac2d7de01084f5b8037f65384]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/13/section/32) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-a778849ac2d7de01084f5b8037f65384]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/13/section/32) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

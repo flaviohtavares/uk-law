@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Accountancy and control plan[^key-be283bdec14ad67bbd7de6cd47550a45]
+## 7. Accountancy and control plan[^c-be283bdec14ad67bbd7de6cd47550a45]
 
 *Extent: E+W+S+N.I.*
 
 (1) An operator of a qualifying nuclear facility must produce an accountancy and control plan which sets out the accounting and control system for the qualifying nuclear material in that facility.
 
-(2)[^key-140f726faafe8eb2d5787f3be7f35619] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-140f726faafe8eb2d5787f3be7f35619] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the case of a new qualifying nuclear facility, which comes into existence after 1st January 2021, the operator must send to the ONR an accountancy and control plan as soon as possible and in any event not later than 200 days prior to the day on which qualifying nuclear material is first received at the facility.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be283bdec14ad67bbd7de6cd47550a45]: Commencement: Reg. 7 in force at 1.1.2021, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/3)
+[^c-be283bdec14ad67bbd7de6cd47550a45]: Commencement: Reg. 7 in force at 1.1.2021, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/3)
 
-[^key-140f726faafe8eb2d5787f3be7f35619]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/7/2) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/835/regulation/8)
+[^c-140f726faafe8eb2d5787f3be7f35619]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/7/2) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/835/regulation/8)

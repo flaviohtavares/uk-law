@@ -52,7 +52,7 @@ The Marine Management Organisation, being satisfied as mentioned in section 16(5
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and duration[^key-342805e4643ad89761420f7f2afa6fa5]
+### 1. Citation, commencement and duration[^c-342805e4643ad89761420f7f2afa6fa5]
 
 (1) This Order may be cited as the Hinkley Point Harbour Empowerment Order 2012 and shall come into force on 16th August 2012.
 
@@ -62,7 +62,7 @@ The Marine Management Organisation, being satisfied as mentioned in section 16(5
 
 (4) Not less than 28 days before the termination date proposed to be appointed under paragraph (3) the Company must publish in Lloyd’s List newspaper and in at least one local newspaper circulating in the district of West Somerset a notice containing a copy of the resolution proposed to be passed by the Company appointing that date.
 
-### 2. Interpretation[^key-fb6e7d32a718535f571a5270864b4683]
+### 2. Interpretation[^c-fb6e7d32a718535f571a5270864b4683]
 
 (1) In this Order—
 
@@ -97,7 +97,7 @@ The Marine Management Organisation, being satisfied as mentioned in section 16(5
 
 (2) In this Order a reference to a work identified by a number shall be construed as a reference to the work so numbered in article 4 and to a condition identified by a number to the condition so numbered in Part 2 or 3 of Schedule 1.
 
-### 3. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^key-e52a68c587bea0a00ae66b6dc73dcc0d]
+### 3. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^c-e52a68c587bea0a00ae66b6dc73dcc0d]
 
 (1) Sections 1 to 3, 34, 35, 37 to 39, 42, 51, 54, 55, 63 to 65, 77 and 78 of the 1847 Act are incorporated with this Order subject to the modifications in paragraphs (2) to (5).
 
@@ -116,7 +116,7 @@ The Marine Management Organisation, being satisfied as mentioned in section 16(5
 
 ## PART 2 — WORKS PROVISIONS
 
-### 4. Power to construct works[^key-0641c881a801afae0dc698970e1639d2]
+### 4. Power to construct works[^c-0641c881a801afae0dc698970e1639d2]
 
 (1) Subject to article 5 (power to deviate), the Company may in the lines and situations and upon the lands delineated on, and within the limits of deviation shown on, and according to the levels shown on, the deposited plans and sections, construct, maintain and use the following works—
 
@@ -137,7 +137,7 @@ The Marine Management Organisation, being satisfied as mentioned in section 16(5
 
 (4) In paragraph (1) a reference to a point is a reference to an Ordnance Survey National Grid reference point.
 
-### 5. Power to deviate[^key-9fe4e0feb2a91313662b45ec02d99208]
+### 5. Power to deviate[^c-9fe4e0feb2a91313662b45ec02d99208]
 
 (1) In carrying out the works authorised by article 4 (power to construct works), the Company may, except in the case of the works mentioned in paragraphs (2) to (4) and (6), deviate laterally from the lines or situations as shown on the deposited plans and sections to any extent not exceeding the limits of deviation shown on the deposited plans and sections and may, except in the case of the works mentioned in paragraphs (5) and (6), deviate vertically from the levels of the works as shown on the deposited plans and sections to any extent not exceeding 3 metres upwards and to such extent downwards as may be necessary or convenient.
 
@@ -156,11 +156,11 @@ The Marine Management Organisation, being satisfied as mentioned in section 16(5
 
 (7) In this article “sand shed” means the covered area for the storage of sand to be constructed as part of Work No. 4.
 
-### 6. Further powers as to works and extinguishment of rights[^key-4ee8f368c7e9324c0efffd574a7840cd]
+### 6. Further powers as to works and extinguishment of rights[^c-4ee8f368c7e9324c0efffd574a7840cd]
 
 The Company may, in connection with the construction of the works, enclose or reclaim from the foreshore and bed of the sea, and may hold and use as part of Work No. 1, so much of the foreshore and bed of the sea as is situated within the limits of deviation shown on the deposited plans and sections and is required for, or in connection with, the construction of the works, and thereupon any right of navigation or other public rights over that part of the sea and the foreshore shall be extinguished.
 
-### 7. Subsidiary works[^key-552fc1d9b0955762b5ab9397e177a340]
+### 7. Subsidiary works[^c-552fc1d9b0955762b5ab9397e177a340]
 
 (1) Subject to paragraph (3), the Company may from time to time within the limits of deviation shown on the deposited plans and sections construct, maintain and use such other works as may be necessary or convenient for the purposes of, or in connection with, or in consequence of, the construction, maintenance or use of the works or the harbour and for this purpose the Company may construct**,** maintain and use roads, buildings, sheds, offices, portacabins, workshops, depots, walls, foundations, fences, gates, tanks, pumps, conduits, pipes, drains, wires, mains, cables, electrical substations, signals, conveyors, cranes, lifts, hoists, lights, lighting columns, weighbridges, stairs, ladders, stages, platforms, dolphins, mooring posts, buoys, pontoons, catwalks, equipment, signage, machinery and appliances and such other works and conveniences (including levelling, raising and lowering of surfaces) as may be necessary or expedient.
 
@@ -171,13 +171,13 @@ The Company may, in connection with the construction of the works, enclose or re
 
 (3) Electrical works, mechanical works or equipment constructed, maintained or used pursuant to the powers conferred by this article, shall be so constructed, maintained or used, that any electricity generated or conveyed by any such works or equipment used therein or in connection therewith does not cause interference (whether by induction or otherwise) with any telecommunications apparatus or with telecommunication by means of any such apparatus.
 
-### 8. Power to dredge[^key-44f7df47a5e2acf5b6a086b16eb74e30]
+### 8. Power to dredge[^c-44f7df47a5e2acf5b6a086b16eb74e30]
 
 (1) The Company may, for the purposes of constructing, maintaining or using the works and of affording access to the harbour by vessels from time to time deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of Bridgwater Bay as lies within the harbour limits and may use, appropriate or dispose of the materials (other than wreck within the meaning of section 255 (interpretation) of the Merchant Shipping Act 1995 [^f00014]), from time to time dredged by it.
 
 (2) The Company must not lay down or deposit such materials in any place below the level of high water otherwise than in such position and under such conditions and restrictions as may be approved or prescribed by the Marine Management Organisation.
 
-### 9. Obstruction of work[^key-c4aa931339978d9cc345a3f78e2f243a]
+### 9. Obstruction of work[^c-c4aa931339978d9cc345a3f78e2f243a]
 
 Any person who—
 
@@ -186,17 +186,17 @@ Any person who—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 10. Survey of tidal works[^key-adccf5d23318e79de2ecb6b33218a616]
+### 10. Survey of tidal works[^c-adccf5d23318e79de2ecb6b33218a616]
 
 The Secretary of State may at any time if he deems it expedient order a survey and examination of a tidal work or a site upon which it is proposed to construct the work and any expense incurred by him in such a survey and examination shall be recoverable from the Company as a debt.
 
-### 11. Provision against danger to navigation[^key-4578074d3890961104cbc96025f784ec]
+### 11. Provision against danger to navigation[^c-4578074d3890961104cbc96025f784ec]
 
 (1) In the case of injury to, or destruction or decay of, a tidal work or any part of it, the Company must as soon as reasonably practicable notify Trinity House and the Bridgwater Harbour Authority and must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House may from time to time direct.
 
 (2) Subject to article 33 (defence of due diligence), if the Company fails to notify Trinity House or the Bridgwater Harbour Authority as required by paragraph (1) or to comply in any respect with a direction given under that paragraph, it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 12. Abatement of works abandoned or decayed[^key-6e3fd3e69bc089177d7d0122c96a4a4f]
+### 12. Abatement of works abandoned or decayed[^c-6e3fd3e69bc089177d7d0122c96a4a4f]
 
 (1) Where a tidal work is abandoned or has fallen into decay the Secretary of State may by notice in writing require the Company at its own expense to either repair and restore the work or any part of it, or remove the work and restore the site of the tidal work to its former condition, to such an extent and within such limits as the Secretary of State thinks proper.
 
@@ -204,19 +204,19 @@ The Secretary of State may at any time if he deems it expedient order a survey a
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon the Company, it has failed to comply with the requirements of the notice, the Secretary of State may execute the works specified in the notice and any expenditure incurred by him in so doing shall be recoverable from the Company as a debt.
 
-### 13. Lights on tidal works during construction[^key-534702da9d3094c2b3a3e9652d24f86f]
+### 13. Lights on tidal works during construction[^c-534702da9d3094c2b3a3e9652d24f86f]
 
 (1) During the whole time of the demolition, construction, renewal, reconstruction or alteration of a tidal work the Company must at the outer extremity of that work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct.
 
 (2) Subject to article 33, if the Company fails to comply in any respect with a direction given under paragraph (1) it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 14. Permanent lights on tidal works[^key-f293e58db03745b8b242e148a3386ad2]
+### 14. Permanent lights on tidal works[^c-f293e58db03745b8b242e148a3386ad2]
 
 (1) After completion of a tidal work the Company must at the outer extremity of the work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct.
 
 (2) Subject to article 33, if the Company fails to comply in any respect with a direction given under paragraph (1) it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 15. Period for completion of works and termination of works powers[^key-2751e3ecdfdd6c18d5fd273daad2d988]
+### 15. Period for completion of works and termination of works powers[^c-2751e3ecdfdd6c18d5fd273daad2d988]
 
 (1) Subject to paragraph (2), if the works are not completed within ten years from the coming into force of this Order, or such extended period as the Marine Management Organisation may, on the application of the Company, allow, then on the expiration of that period, or such extended period (as the case may be), the powers granted by this Order to the Company for constructing, maintaining and using the works shall cease to have effect except in relation to so much of the works as have by then been commenced by the carrying out of a material operation.
 
@@ -224,11 +224,11 @@ The Secretary of State may at any time if he deems it expedient order a survey a
 
 (3) Notwithstanding paragraphs (1) and (2), on the closure date determined under article 39 (closure of the jetty and reinstatement) any powers conferred on the Company still existing for constructing, maintaining and using the works shall cease to have effect.
 
-### 16. Operational land for purposes of the Town and Country Planning Act 1990[^key-470f1acd158b5e7eed62ff071044c75e]
+### 16. Operational land for purposes of the Town and Country Planning Act 1990[^c-470f1acd158b5e7eed62ff071044c75e]
 
 The planning permission granted by article 3 of the 1995 Order for the development authorised by this Order shall be treated as specific planning permission for the purposes of section 264(3)(a) of the 1990 Act (a case in which land is to be treated as operational land).
 
-### 17. Application and termination of permitted development rights[^key-fcd772cd1a1f279eb431497d33753db6]
+### 17. Application and termination of permitted development rights[^c-fcd772cd1a1f279eb431497d33753db6]
 
 (1) In their application to the development authorised by this Order, or to other development carried out on land which falls to be treated as operational land of the Company in respect of its harbour undertaking by virtue of article 16 of this Order, article 3 of, and Parts 11 and 17 of Schedule 2 to, the 1995 Order (which permit development authorised by a harbour empowerment order designating specifically both the nature of the development thereby authorised and the land on which it may be carried out and development on operational land by statutory undertakers or their lessees in respect of harbour undertakings) shall have effect as if the planning permission granted by that Order were limited to the development commenced by the carrying out of a material operation within ten years of the coming into force of this Order, or such extended period as the Marine Management Organisation may, on the application of the Company, allow.
 
@@ -240,7 +240,7 @@ The planning permission granted by article 3 of the 1995 Order for the developme
 
 (5) Notwithstanding paragraphs (1) and (2), on the closure date determined under article 39 (closure of the jetty and reinstatement) any planning permission granted by the 1995 Order still existing shall cease to have effect in respect of the development authorised by this order and the other development mentioned in paragraph (1), except in so far as required for the implementation of that article and the application of the conditions in Schedule 1 (planning and works conditions) relating to that article.
 
-### 18. Planning and works conditions[^key-76ae4e9aaf10a526386db1bc4041abd2]
+### 18. Planning and works conditions[^c-76ae4e9aaf10a526386db1bc4041abd2]
 
 (1) The powers conferred by articles 4 (power to construct works) and 7 (subsidiary works) are subject to the conditions in Schedule 1 (planning and works conditions).
 
@@ -254,7 +254,7 @@ The planning permission granted by article 3 of the 1995 Order for the developme
 
 (6) Sections 73 (determination of applications to develop land without compliance with conditions previously attached) and 73A (planning permission for development already carried out) of the 1990 Act[^f00016] shall, in accordance with paragraphs (4) and (5), apply in relation to the conditions in Schedule 1 so as to enable those conditions to be removed or changed in their application to the works and development referred to in paragraphs (1) to (3) but shall not enable the local planning authority to grant planning permission in relation to any works or development below the level of low water.
 
-### 19. Stopping up etc. of footpaths and substitution of new public rights of way[^key-e5509d41d9b022215dbe579e514db7e7]
+### 19. Stopping up etc. of footpaths and substitution of new public rights of way[^c-e5509d41d9b022215dbe579e514db7e7]
 
 (1) Subject to paragraph (3), the Company may, in connection with the construction of the works permanently stop up each of the footpaths specified in columns (1) and (2) of Schedule 2 (stopping up of footpaths and new public rights of way to be substituted) to the extent specified in column (3) of that Schedule.
 
@@ -284,7 +284,7 @@ The planning permission granted by article 3 of the 1995 Order for the developme
 
 (12) In this article “the highway authority” means the Somerset County Council and includes any successor body as highway authority and a reference in Schedule 2 and the next following article to a point identified by the letter F and a number shall be construed as a reference to the point so lettered and numbered on the footpaths maps in Schedule 3 (footpaths maps), which maps are reproduced as a composite map at sheet no. 14.
 
-### 20. Permanent stopping up of footpath and extinguishment of rights[^key-66d7a42157524b95418da2310837db30]
+### 20. Permanent stopping up of footpath and extinguishment of rights[^c-66d7a42157524b95418da2310837db30]
 
 (1) The Company may, in connection with the construction of the works, permanently stop up footpath WL23/56 between points F2, F21 and F22.
 
@@ -294,7 +294,7 @@ The planning permission granted by article 3 of the 1995 Order for the developme
 
 ## PART 3 — HARBOUR REGULATION
 
-### 21. Harbour limits[^key-da9fb17ca7ff41f520428c6bee4b51f2]
+### 21. Harbour limits[^c-da9fb17ca7ff41f520428c6bee4b51f2]
 
 (1) The limits of the harbour within which the Company shall exercise jurisdiction as the harbour authority and within which the powers of the harbour master shall be exercisable are—
 
@@ -307,7 +307,7 @@ The planning permission granted by article 3 of the 1995 Order for the developme
 
 (3) In paragraph (1), a reference to a point is a reference to an Ordnance Survey National Grid reference point.
 
-### 22. Byelaws[^key-87ec82df9bc96f46a1adbd98e61c9942]
+### 22. Byelaws[^c-87ec82df9bc96f46a1adbd98e61c9942]
 
 (1) The Company may from time to time make byelaws for the efficient management and regulation of the harbour.
 
@@ -337,7 +337,7 @@ The planning permission granted by article 3 of the 1995 Order for the developme
 
 (4) Before making a byelaw to regulate vessels using the harbour, the Company shall first obtain approval from the Secretary of State for Defence.
 
-### 23. Confirmation of byelaws[^key-42db8b81a2555fa2fc0f3e649688afc1]
+### 23. Confirmation of byelaws[^c-42db8b81a2555fa2fc0f3e649688afc1]
 
 (1) Byelaws made by the Company under this Order shall not come into operation until they have been confirmed by the Secretary of State.
 
@@ -360,7 +360,7 @@ The planning permission granted by article 3 of the 1995 Order for the developme
 
 (9) A copy of the byelaws when confirmed must be printed and deposited by the Company at the office of the harbour master and must at all reasonable hours be open to public inspection without payment, and a copy of the byelaws must on application be furnished to any person on payment of a reasonable charge.
 
-### 24. General directions to vessels[^key-5096e08581e93291ebb589e99a97d9b4]
+### 24. General directions to vessels[^c-5096e08581e93291ebb589e99a97d9b4]
 
 (1) The Company may, after consultation with the Secretary of State for Defence, the Bridgwater Harbour Authority, the Chamber of Shipping and the Royal Yachting Association in each case of an exercise of the powers, give general directions for any of the following purposes—
 
@@ -379,13 +379,13 @@ and a direction given under this article must specify the extent of its applicat
 
 (4) The Company may, after consultation with the Secretary of State for Defence, the Bridgwater Harbour Authority, the Chamber of Shipping and the Royal Yachting Association, revoke or amend a direction given under this article.
 
-### 25. Publication of general directions[^key-739ec8b2637cec7fb4d3125781c21b79]
+### 25. Publication of general directions[^c-739ec8b2637cec7fb4d3125781c21b79]
 
 (1) Notice of the giving of a general direction or of an amendment or revocation of a general direction must, except in case of emergency, be published by the Company as soon as practicable once in Lloyd’s List or some other newspaper specialising in shipping news; and, if the notice relates to the giving or amendment of a direction, the notice must state a place at which copies of the direction or the amended direction (as the case may be) may be inspected and bought, and the price of the direction or amended direction (as the case may be).
 
 (2) In an emergency, notice of the giving of a general direction or of an amendment or revocation of a general direction may be given in any manner the Company considers appropriate.
 
-### 26. Special directions to vessels[^key-6645e6bfe3bc24d039bc7f986281b570]
+### 26. Special directions to vessels[^c-6645e6bfe3bc24d039bc7f986281b570]
 
 (1) The harbour master may give a special direction under this article—
 
@@ -402,15 +402,15 @@ and a direction given under this article must specify the extent of its applicat
 
 (4) The harbour master may revoke or amend a special direction.
 
-### 27. Master’s responsibility to be unaffected[^key-c5ab288d3e7c789263ea8d34d31316cd]
+### 27. Master’s responsibility to be unaffected[^c-c5ab288d3e7c789263ea8d34d31316cd]
 
 The giving of a general direction or a special direction shall not diminish, or in any other way affect, the responsibility of the master of the vessel to which the direction applies in relation to that vessel, persons on board, its cargo or any other person or property.
 
-### 28. Failure to comply with directions[^key-87d775364ddfe5c85e7c34f0843e49a1]
+### 28. Failure to comply with directions[^c-87d775364ddfe5c85e7c34f0843e49a1]
 
 The master of a vessel who fails without reasonable excuse to comply with a general direction or a special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 29. Enforcement of special directions[^key-83c15f41fcb882be06b6ff70b53cdbfa]
+### 29. Enforcement of special directions[^c-83c15f41fcb882be06b6ff70b53cdbfa]
 
 (1) Without prejudice to any other remedy available to the Company, if a special direction is not complied with within a reasonable time the harbour master may, where practicable, put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -418,7 +418,7 @@ The master of a vessel who fails without reasonable excuse to comply with a gene
 
 (3) Expenses incurred in the exercise of the powers conferred by this article shall be recoverable by the Company from the owner of the vessel as if they were a charge of the Company in respect of the vessel.
 
-### 30. Charges[^key-1ac3926b76576aeb9ac9a44c77750497]
+### 30. Charges[^c-1ac3926b76576aeb9ac9a44c77750497]
 
 (1) The Company may levy charges for any services performed by it in the exercise and performance of its statutory powers and duties at the harbour.
 
@@ -428,7 +428,7 @@ The master of a vessel who fails without reasonable excuse to comply with a gene
 
 ## PART 4 — MISCELLANEOUS AND GENERAL
 
-### 31. Power to lease etc.[^key-1d87f4ca1d02cced9a27bb6f81bdd956]
+### 31. Power to lease etc.[^c-1d87f4ca1d02cced9a27bb6f81bdd956]
 
 (1) The Company may at any time for the purposes of the harbour lease or grant the use or occupation of, or any right or interest in, over or relating to, any lands, works, buildings, equipment or other property forming part of the harbour for such period or periods and on such terms and conditions as may be agreed between the Company and the person taking the same.
 
@@ -436,11 +436,11 @@ The master of a vessel who fails without reasonable excuse to comply with a gene
 
 (3) In this article “permitted development rights” means the planning permission granted by article 3 of, and Parts 11 and 17 of Schedule 2 to, the 1995 Order.
 
-### 32. Restriction on use of the works[^key-8ff20be7b5837049f8d4a3fdab6b585f]
+### 32. Restriction on use of the works[^c-8ff20be7b5837049f8d4a3fdab6b585f]
 
 The Company must not use or permit the use of the works other than for the purposes of, or in connection with, the construction of energy related facilities at Hinkley Point, Somerset.
 
-### 33. Defence of due diligence[^key-6bdc7c7a3e6f50f9e22170382c3e073b]
+### 33. Defence of due diligence[^c-6bdc7c7a3e6f50f9e22170382c3e073b]
 
 (1) In proceedings for an offence under any of the provisions mentioned in paragraph (2) it shall be a defence for the Company to prove that it took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -452,22 +452,22 @@ The Company must not use or permit the use of the works other than for the purpo
 
 (3) If in any case the reliance on the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Company shall not, without leave of the court, be entitled to rely on that defence unless, before the period of 7 clear days preceding the hearing, it has served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in its possession.
 
-### 34. Saving for Trinity House[^key-df2bab8c4b430337d8ed9d694cea9336]
+### 34. Saving for Trinity House[^c-df2bab8c4b430337d8ed9d694cea9336]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of Trinity House.
 
-### 35. Saving for other consents etc.[^key-0fda91210960dce712f7c6620f80cd7b]
+### 35. Saving for other consents etc.[^c-0fda91210960dce712f7c6620f80cd7b]
 
 The carrying out of any works or operations pursuant to this Order is subject to the Company obtaining any consent, permission or licence required under any other enactment.
 
-### 36. Disapplication of regulation 75 of the Conservation of Habitats and Species Regulations 2017[^key-f2dc926c1c016482f37c715b139529f0][^key-232359a9cafde8e77c2550264d6d904e]
+### 36. Disapplication of regulation 75 of the Conservation of Habitats and Species Regulations 2017[^c-f2dc926c1c016482f37c715b139529f0][^c-232359a9cafde8e77c2550264d6d904e]
 
-Regulation 75 of the Conservation of Habitats and Species Regulations 2017[^key-82df01ec2abb526312dbed1ca732a4ce] shall not apply to planning permission for the development authorised by this Order granted as permitted development by article 3 of, and Parts 11 and 17 of Schedule 2 to, the 1995 Order, in respect of that part of the development which—
+Regulation 75 of the Conservation of Habitats and Species Regulations 2017[^c-82df01ec2abb526312dbed1ca732a4ce] shall not apply to planning permission for the development authorised by this Order granted as permitted development by article 3 of, and Parts 11 and 17 of Schedule 2 to, the 1995 Order, in respect of that part of the development which—
 
-- (a) forms part of a plan or project which was subject to an appropriate assessment under regulation 63[^key-c88d7e5058bdb61ca80d90f9747c6b60] of those Regulations in connection with the making of this Order; or
+- (a) forms part of a plan or project which was subject to an appropriate assessment under regulation 63[^c-c88d7e5058bdb61ca80d90f9747c6b60] of those Regulations in connection with the making of this Order; or
 - (b) is subject to a further consent, permission or authorisation by a competent authority within the meaning of those Regulations.
 
-### 37. Crown rights[^key-28aa239ada8aba1815f1b80d21f391bb]
+### 37. Crown rights[^c-28aa239ada8aba1815f1b80d21f391bb]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality, nothing in this Order authorises the Company or any licensee to take, use, enter upon or in any manner interfere with, any land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
@@ -477,7 +477,7 @@ Regulation 75 of the Conservation of Habitats and Species Regulations 2017[^key-
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions and shall be deemed to have been given in writing where it is sent electronically.
 
-### 38. For the protection of the Environment Agency[^key-c762ca848cc3c503a81633395e2aedaf]
+### 38. For the protection of the Environment Agency[^c-c762ca848cc3c503a81633395e2aedaf]
 
 (1) Paragraph (2) shall have effect unless otherwise agreed with the Environment Agency.
 
@@ -490,7 +490,7 @@ Regulation 75 of the Conservation of Habitats and Species Regulations 2017[^key-
 - (e) the base level of Work No. 8, 11.0 metres above ordnance datum; and
 - (f) the surface level of Work No. 6 at the point where it crosses the Hinkley Point C drainage ditch, 10.3 metres above ordnance datum.
 
-### 39. Closure of the jetty and reinstatement[^key-1e4483222379336ee669ff3c1b095c46]
+### 39. Closure of the jetty and reinstatement[^c-1e4483222379336ee669ff3c1b095c46]
 
 (1) Subject to paragraph (2), on or before the closure date the Company must cease all operations at the harbour except to comply with this article, and after that date must, as soon as reasonably practicable, dismantle, demolish and remove (so far as constructed) -
 
@@ -512,7 +512,7 @@ the closure date is, in the case of sub-paragraph (a), the date of expiry of tha
 
 (5) In their application to the works required by this article, article 3 of, and Parts 11 and 17 of Schedule 2 to, the 1995 Order shall have effect as if the planning permission granted by that Order were subject to the conditions in Schedule 1 relating to those works.
 
-### 40. Saving for termination of this Order[^key-efb891114aa6d3f33d72dd2699e4d587]
+### 40. Saving for termination of this Order[^c-efb891114aa6d3f33d72dd2699e4d587]
 
 (1) No proceedings or inquiries in respect of any situation, matter, thing, happening, act, refusal, neglect or failure occurring during the period before this Order ceased to have effect on the termination date in accordance with article 1(2), so far as relating to the harbour or any part or parts of the harbour (whether or not relating also to a part or parts of the Port of Bridgwater), including, but without prejudice to the generality of the foregoing, proceedings for an offence committed or penalty incurred, or for recovery of expenses, rates, dues, fees or charges incurred, during that period, shall be affected by this Order ceasing to have effect on the termination date, and any such proceedings or inquiries may be commenced, continued and concluded, and any decision, judgment or ruling thereon may be enforced, as if this Order, and any relevant general or special direction or byelaw, had not ceased to have effect.
 
@@ -534,7 +534,7 @@ Article 18
 
 ### PART 1 — Interpretation, Operation and Application of Conditions
 
-**1.**[^key-b76989aa54e85eec8c9307cc4af47f2e] In this Schedule—
+**1.**[^c-b76989aa54e85eec8c9307cc4af47f2e] In this Schedule—
 
 |  |  |
 | --- | --- |
@@ -554,9 +554,9 @@ Article 18
 | “site preparation works” | means the development and works authorised by the site preparation works permission; and |
 | “site preparation works permission” | means the planning permission granted on 27th January 2012 by the local planning authority (Council reference 3/32/10/037). |
 
-**2.**[^key-bba9f7334dd98d3daf1a5dcc63aee44b] An application or submission for an approval pursuant to a condition in Part 2 or 3 must be made in writing to the local planning authority and no approval shall be deemed to have been given unless given in writing.
+**2.**[^c-bba9f7334dd98d3daf1a5dcc63aee44b] An application or submission for an approval pursuant to a condition in Part 2 or 3 must be made in writing to the local planning authority and no approval shall be deemed to have been given unless given in writing.
 
-**3.**[^key-33d5f18e9db0f14fa7acde4c9fb61b86] Unless the context otherwise requires the conditions in Part 2 apply to the construction, maintenance and use of the development except that the following conditions do not apply to the use of the development—
+**3.**[^c-33d5f18e9db0f14fa7acde4c9fb61b86] Unless the context otherwise requires the conditions in Part 2 apply to the construction, maintenance and use of the development except that the following conditions do not apply to the use of the development—
 
 - condition 2 (Working hours);
 - condition 3 (Delivery hours);
@@ -566,42 +566,42 @@ Article 18
 
 ### PART 2 — Construction, Maintenance and Use Conditions
 
-#### 1. Geology and land contamination: spoil mound remediation[^key-fce0403c24f46092cf96de9b056c75b9]
+#### 1. Geology and land contamination: spoil mound remediation[^c-fce0403c24f46092cf96de9b056c75b9]
 
 No construction of development must commence or be undertaken within any part of the Built Development Area East as shown on drawing number HP/MR/01 Rev A of planning permission reference 3/32/10/025 dated 13 January 2011 (granted by Somerset County Council) until—
 
 - (a) the remediation works in respect of that part of the Built Development Area East have been carried out pursuant to the planning permission reference 3/32/10/025 dated 13 January 2011 or the planning permission reference 3/32/11/038 dated 22 November 2011 (both granted by Somerset County Council); and
 - (b) the validation report has been submitted in writing to Somerset County Council and the written completion certificate in respect of the remediation works has been issued by Somerset County Council.
 
-#### 2. Working hours[^key-23ee8aa86fbeb231b62bd3a69ba4a666]
+#### 2. Working hours[^c-23ee8aa86fbeb231b62bd3a69ba4a666]
 
 Construction and maintenance of the development (in so far as it is carried out on or accessed from the site) must not take place on Sundays or Bank Holidays or outside the hours of 07:00 to 18:00 Mondays to Fridays and 07:00 to 13:00 on Saturdays.
 
-#### 3. Delivery hours[^key-f5d49141fec8f325eade93de4355aeca]
+#### 3. Delivery hours[^c-f5d49141fec8f325eade93de4355aeca]
 
 No deliveries associated with the construction or maintenance of the development must arrive or be received at, or dispatched from, the site on Sundays or Bank Holidays or outside the hours of 07.00 to 18.00 Mondays to Fridays and 07.00 to 13.00 on Saturdays.
 
-#### 4. On-site vehicular movements and maintenance - permitted hours[^key-83ea2c3331c22e4d85ec58c0fcc16c2f]
+#### 4. On-site vehicular movements and maintenance - permitted hours[^c-83ea2c3331c22e4d85ec58c0fcc16c2f]
 
 There must be no use or maintenance of any construction or demolition vehicles (which term shall not include vessels or barges) associated with the construction or maintenance of the development (including no starting of vehicle engines, no vehicle movements and no reversing alarms operated) on the onshore area on Sundays or Bank Holidays or outside the hours of 07:00 to 18:00 Mondays to Fridays and 07:00 to 13:00 on Saturdays.
 
-#### 5. Landscape and visual: external storage of contractors’ materials[^key-716deaa8657002a2d517507ea72e2eb0]
+#### 5. Landscape and visual: external storage of contractors’ materials[^c-716deaa8657002a2d517507ea72e2eb0]
 
 Other than in the designated storage areas approved pursuant to condition 38 (construction method statement), there must be no external storage of any construction materials associated with the construction of the development on the onshore area during the construction of the development in excess of 4 metres in height above the ground level as existing at the time the materials are stored. Any such materials may only be stored in so far as is necessary for the purpose of constructing the development and the construction of the proposed new nuclear power station to be known as Hinkley Point C.
 
-#### 6. Landscape and visual and air quality: no burning of materials[^key-8d370f723ade370f1800537b239b0afc]
+#### 6. Landscape and visual and air quality: no burning of materials[^c-8d370f723ade370f1800537b239b0afc]
 
 There must be no burning of waste, materials or refuse on the onshore area at any time during the construction, maintenance or use of the development.
 
-#### 7. Noise and vibration: no amplified sound[^key-1dd9a82b746f2459f0aeae772dc772c6]
+#### 7. Noise and vibration: no amplified sound[^c-1dd9a82b746f2459f0aeae772dc772c6]
 
 No public address system must be used or amplified sound generated at any time within the onshore area.
 
-#### 8. Directional foghorn[^key-e5e8ae6d12dd3917368f060044d23be1]
+#### 8. Directional foghorn[^c-e5e8ae6d12dd3917368f060044d23be1]
 
 Prior to the installation of any foghorn associated with the construction, maintenance or use of the development, details of the foghorn must be submitted to, and approved in writing by, the local planning authority. The foghorn must not be installed, retained or operated unless in accordance with the details so approved.
 
-#### 9. Noise and vibration: noise level[^key-748f573f128c99588cff586d1af40876]
+#### 9. Noise and vibration: noise level[^c-748f573f128c99588cff586d1af40876]
 
 (1) The level of noise emitted during construction or maintenance of the development must not exceed the limits set out in the following table as determined at the nearest noise sensitive premises and monitoring of the noise levels during the construction or maintenance of the development must be carried out as part of the noise and vibration management plan submitted and approved pursuant to condition 11 (Noise and vibration: control of noise during construction, maintenance and use).
 
@@ -635,38 +635,38 @@ Notes: dB re: 20μPa. \*Offshore construction work only.
 
 (5) Noise levels must be determined in accordance with the provisions of British Standard 7445.
 
-#### 10. Use noise limit[^key-6f89f4d615b888fe91785bc26adb3d5c]
+#### 10. Use noise limit[^c-6f89f4d615b888fe91785bc26adb3d5c]
 
 The rating level of noise emitted from the use of the development must not exceed the background noise level by more than 5 dB at any time. The noise levels must be determined at any noise sensitive premises. The measurement and assessment must be made according to British Standard 4142:1997. In the event that a development consent order for a new nuclear generating station at Hinkley Point, which contains noise restrictions is implemented by the carrying out of a material operation, the noise limit specified in this paragraph shall cease to apply and the noise limit set out in the development consent order shall apply as a limitation applicable to both the development authorised by the development consent order and use of the development.
 
-#### 11. Noise and vibration: control of noise during construction, maintenance and use[^key-1594392a016a39cdd6f6ac0605f5de0c]
+#### 11. Noise and vibration: control of noise during construction, maintenance and use[^c-1594392a016a39cdd6f6ac0605f5de0c]
 
 Before the commencement of the construction of the development, a noise and vibration management plan must be submitted to, and approved in writing by, the local planning authority which specifies the provision to be made for the control of noise and vibration arising from the construction, maintenance and use of the development. The plan must be implemented in accordance with the approved details.
 
-#### 12. Infill material[^key-a6b033cf16bd76bf7fa0b41fb476e612]
+#### 12. Infill material[^c-a6b033cf16bd76bf7fa0b41fb476e612]
 
 Only uncontaminated rock, subsoil, brick rubble, crushed concrete and ceramic materials shall be permitted as infill material used within the development. All site-won fill materials must be used subject to the controls established within the materials management plan approved pursuant to condition 41 (Material management plan) in this Schedule and shall follow the protocols defined within “The Definition of Waste: Development Industry Code of Practice, Version 2, March 2011” published by Contaminated Land: Applications in Real Environments (CL:AIRE).
 
-#### 13. Landscape and visual: lighting[^key-c7bc517c363fd68622e6ac0061057f3c]
+#### 13. Landscape and visual: lighting[^c-c7bc517c363fd68622e6ac0061057f3c]
 
 Prior to the installation of any lighting in respect of the development details of any such lighting and its use must be submitted to, and approved in writing by, the local planning authority. Such details must be in general accordance with the Temporary Jetty Lighting Strategy (June 2011). Such lighting must be installed and operated in accordance with the approved details.
 
-#### 14. Construction programme for silos and sand shed[^key-9a567e236cca33b35e9601a80edfebd8]
+#### 14. Construction programme for silos and sand shed[^c-9a567e236cca33b35e9601a80edfebd8]
 
 Except for the construction of the foundations of the silos, the sand shed and any hopper, no part of the superstructure of the silos, the sand shed and any hopper must be constructed until after—
 
 - (a) 1 March 2013; and
 - (b) a bund has been constructed on the north west boundary of the site in accordance with Condition SP13 of the site preparation works permission or, if a development consent order for a new nuclear generating station at Hinkley Point has been implemented by the carrying out of a material operation and contains requirements about bund construction, in accordance with the requirements of that order.
 
-#### 15. Alignment of the silos[^key-37508d004b83abb5ed426038a896fa11]
+#### 15. Alignment of the silos[^c-37508d004b83abb5ed426038a896fa11]
 
 The silos must be constructed in the same northwest alignment as the sand shed and in general accordance with the alignment drawing.
 
-#### 16. Height and details of the sand shed and silos[^key-d435e78f839206bd405cbd2315f243f3]
+#### 16. Height and details of the sand shed and silos[^c-d435e78f839206bd405cbd2315f243f3]
 
 Prior to the construction of the sand shed, silos and any hopper, details of their height and external appearance must be submitted to, and approved in writing by, the local planning authority and the sand shed, silos and hopper must not be constructed otherwise than in accordance with the approved details. The height of the sand shed must not exceed 36 metres above ordnance datum. The height of the silos must not exceed 40 metres above ordnance datum.
 
-#### 17. Height of subsidiary works[^key-acc9bfb9793765dea70bdc705d24f40a]
+#### 17. Height of subsidiary works[^c-acc9bfb9793765dea70bdc705d24f40a]
 
 (1) Any works authorised by article 7 shall be subject to the following height restrictions-
 
@@ -676,15 +676,15 @@ Prior to the construction of the sand shed, silos and any hopper, details of the
 
 (2) The above height restrictions shall not apply to cranes or other moveable plant, stairways, scaffolding or other temporary access equipment or structures associated with the construction of the works authorised by article 7.
 
-#### 18. Storage of oils, fuels, concrete and chemicals[^key-2bd37f2e70217f4574499e769aa33b48]
+#### 18. Storage of oils, fuels, concrete and chemicals[^c-2bd37f2e70217f4574499e769aa33b48]
 
 Any facilities for the storage of oils, fuels, concrete or chemicals must be sited on an impervious base that must either be graded to drain to a sump or collector or surrounded by impervious walls to form a bunded compound. The volume of the bunded compound must be at least equivalent to the capacity of the tank plus 10%. All filling points, vents, gauges and sight glasses must be located within the bund. The drainage system of the bund must be sealed with no discharge to any watercourse, land or underground strata. Associated pipe work must be located above ground and protected from accidental damage. All filling points and tank overflow pipe outlets must be designed to discharge into the bund. All works and facilities as referred to in this condition must be constructed and completed prior to the first use of the facilities and must thereafter be retained.
 
-#### 19. Restriction of aggregate washing[^key-06f276c0b2610280e6c5230b365bf996]
+#### 19. Restriction of aggregate washing[^c-06f276c0b2610280e6c5230b365bf996]
 
 No aggregate washing must take place on the onshore area in respect of materials used to support the construction of the works unless in accordance with a scheme to be submitted to, and approved in writing by, the local planning authority.
 
-#### 20. Ecological mitigation and monitoring plan[^key-80f1c72dfb47615156a9face5c225794]
+#### 20. Ecological mitigation and monitoring plan[^c-80f1c72dfb47615156a9face5c225794]
 
 (1) No construction of the development must commence until an ecological mitigation and monitoring plan has been submitted to, and approved in writing by, the local planning authority. The submitted details must reflect the survey results and ecological mitigation and enhancement measures included in the environmental statement and must include details of—
 
@@ -698,17 +698,17 @@ No aggregate washing must take place on the onshore area in respect of materials
 
 (2) The ecological mitigation and monitoring plan must be implemented as approved.
 
-#### 21. Habitat management plan[^key-90c8634aa7a775dc5bbb8095c82f8879]
+#### 21. Habitat management plan[^c-90c8634aa7a775dc5bbb8095c82f8879]
 
 (1) No construction of the development must commence until a habitat management plan has been submitted to, and approved in writing by, the local planning authority. The submitted details must include all areas of habitats proposed to be retained or created and include information on proposals for the management and monitoring of retained features.
 
 (2) The habitat management plan must be implemented as approved.
 
-#### 22. Ecological method statement[^key-0ec2a34114d2fb37b13500b56cba4cf4]
+#### 22. Ecological method statement[^c-0ec2a34114d2fb37b13500b56cba4cf4]
 
 All development must be constructed in accordance with the Site Preparation Works Ecological Method Statement (Appendix 2.5 of the Further Environmental Information (Part A) and Other Clarification Material (Part B); April 2011) submitted as part of the application for the site preparation works permission.
 
-#### 23. Ecology: tree and hedgerow protection[^key-447a7831d167fd463fce488b1b8549e1]
+#### 23. Ecology: tree and hedgerow protection[^c-447a7831d167fd463fce488b1b8549e1]
 
 (1) Prior to the commencement of the construction of the development, a plan must be submitted to, and approved in writing by, the local planning authority that identifies the existing trees and hedgerows (or sections of hedgerows) to be retained on the site together with the type of fencing to be used and arrangements to be made in accordance with British Standard 5837:2005 to protect the retained trees and hedgerows (or sections of hedgerows). The plan must be implemented in accordance with the approved details.
 
@@ -716,21 +716,21 @@ All development must be constructed in accordance with the Site Preparation Work
 
 (3) If any retained tree or hedgerow (or section of hedgerow) is removed, uprooted or destroyed or dies, another tree or replacement hedgerow (or section of hedgerow) must be planted at the same place and that tree or hedgerow (or section of hedgerow) must be of such size and species, and must be planted at such time, as may be specified in writing by the local planning authority.
 
-#### 24. Historic environment: recording of important hedgerows[^key-c839704afbfddfdf8b75f8ca1395fdab]
+#### 24. Historic environment: recording of important hedgerows[^c-c839704afbfddfdf8b75f8ca1395fdab]
 
 The recording of archaeological works relating to important hedgerows under the Hedgerow Regulations 1997[^f00022] must be implemented in accordance with the relevant sections of the Written Scheme of Investigation for Archaeological Mitigation, Trenches through Green Lane and Historic Hedgerows (Annex 3 of Appendix 2.3 of the Further Environmental Information \[Part A\] and other Clarification Material \[Part B\]; April 2011), which was submitted as part of the application for the site preparation works permission. The results must be published in monograph form within ten years of commencement of the construction of the development.
 
-#### 25. Historic environment: monitoring of palaeontological remains[^key-811b4e9c6ba387bd3be35ac3c203b0c8]
+#### 25. Historic environment: monitoring of palaeontological remains[^c-811b4e9c6ba387bd3be35ac3c203b0c8]
 
 No construction of the development must commence until details of a scheme to ensure that any significant fossil finds are identified, removed, conserved and deposited with the Museum of Somerset have been submitted to, and approved in writing by, the local planning authority. The scheme must be implemented as approved.
 
-#### 26. Historic: scheduled monument management plan[^key-3057f5623356b0b063ab4cb5a68f29b1]
+#### 26. Historic: scheduled monument management plan[^c-3057f5623356b0b063ab4cb5a68f29b1]
 
 (1) No construction of the development must commence until a monument management plan for Wick Barrow (SM No. 28), also known as Pixies Mound, (as shown at figure 22.1 of the environmental statement submitted with the application for this Order) has been submitted to, and approved in writing by, the local planning authority.
 
 (2) The monument management plan must be implemented as approved.
 
-#### 27. Drainage: surface water and foul drainage works[^key-e2e715e4063905ee25232e1ad39be296]
+#### 27. Drainage: surface water and foul drainage works[^c-e2e715e4063905ee25232e1ad39be296]
 
 (1) No construction of the development must commence until details of the surface and foul water drainage system (including means of pollution control, details of water management zones and a programme of construction and implementation) have been submitted to, and approved in writing by, the local planning authority.
 
@@ -738,11 +738,11 @@ No construction of the development must commence until details of a scheme to en
 
 (3) The surface and foul water drainage system must be constructed, maintained and retained in accordance with the approved details.
 
-#### 28. Drainage: oil interceptor[^key-36d95c1db4ba96a0fee4825d4572ec98]
+#### 28. Drainage: oil interceptor[^c-36d95c1db4ba96a0fee4825d4572ec98]
 
 Surface water drainage from impermeable parking areas and hard standing for vehicles and lorry parks must be passed through oil interceptors prior to being discharged into any watercourse, surface water sewer or soakaway system. The oil interceptors must have a sufficient capacity for the areas being drained and must be constructed prior to the first use of the parking areas or hard standings and must thereafter be retained. Roof water must not pass through the oil interceptors.
 
-#### 29. Air quality[^key-27659e5584baaca3fea3f667addbedb6]
+#### 29. Air quality[^c-27659e5584baaca3fea3f667addbedb6]
 
 (1) No construction of the development must commence until details of an air quality scheme have been submitted to, and approved in writing by, the local planning authority. The submitted details must include—
 
@@ -757,39 +757,39 @@ Surface water drainage from impermeable parking areas and hard standing for vehi
 
 (2) The air quality scheme must be implemented as approved throughout the period of the construction, maintenance and use of the development.
 
-#### 30. Residential amenity: information dissemination and complaints handling[^key-2f6a394f87c4641af57b4cb0fca9eed4]
+#### 30. Residential amenity: information dissemination and complaints handling[^c-2f6a394f87c4641af57b4cb0fca9eed4]
 
 No construction of the development must commence until a system for the provision of information to local residents and occupiers about the development and the investigation of, and response to, complaints has been submitted to, and approved in writing by, the local planning authority. The information to be disseminated must include general provision of information in relation to the construction, maintenance and use of the development and specifically in relation to activities on-site that may lead to nuisance. The approved information dissemination and the investigation and responses to complaints system must be implemented as approved throughout the period of the construction, maintenance and use of the development.
 
-#### 31. Drainage: water & sediment management plan[^key-9871e56c345d1a532464768626658904]
+#### 31. Drainage: water & sediment management plan[^c-9871e56c345d1a532464768626658904]
 
 No construction of the development must commence until a water and sediment management plan has been submitted to, and approved in writing by, the local planning authority. The water and sediment management plan must be implemented as approved throughout the period of the construction of the development.
 
-#### 32. Engineering details of foreshore access road[^key-9eb0334f7d67f08bddbc89aac2cc57ec]
+#### 32. Engineering details of foreshore access road[^c-9eb0334f7d67f08bddbc89aac2cc57ec]
 
 No works to construct the foreshore access road forming part of Work No. 6 must be commenced until engineering construction details for the road including any associated drainage works have been submitted to, and approved in writing by, the local planning authority. The foreshore access road must be constructed and retained in accordance with the approved details. Prior to the removal of the foreshore access road, details of the method and timing of its removal must be submitted to, and approved in writing by, the local planning authority. The foreshore access road must be removed in accordance with the approved details.
 
-#### 33. Access to foreshore[^key-30e70c706400067530220c7fd4ae79f7]
+#### 33. Access to foreshore[^c-30e70c706400067530220c7fd4ae79f7]
 
 Prior to construction and use of the foreshore access road forming part of Work No. 6 , the works area (being the area bounded by the limit of deviation shown on sheet no. 2 of Work No. 1) and the access corridor (being the area bounded by the limit of deviation shown on sheet no. 7 of Work No. 7) must be demarcated to prevent the movement of vehicles and plant outside the works area and access corridor on inter-tidal habitats that form part of the designated features of the Severn Estuary European sites and SSSI. Vehicles and plant must not be permitted to have access to any other areas of the foreshore outside the works area and access corridor.
 
-#### 34. Flooding: foreshore access[^key-9ed1f8e270e281518deeae2acf96b314]
+#### 34. Flooding: foreshore access[^c-9ed1f8e270e281518deeae2acf96b314]
 
 Prior to first use of the foreshore access road for any construction activities, flood warning notices must be erected in suitable and visible positions, such positions and wording of the signs to be first approved in writing by the local planning authority. The flood warning notices must be retained throughout the period during which the foreshore access road is in place.
 
-#### 35. Geology & contaminated land: radiological monitoring[^key-9ee56001638ed58bb2a4a91e5703ac48]
+#### 35. Geology & contaminated land: radiological monitoring[^c-9ee56001638ed58bb2a4a91e5703ac48]
 
 No construction of the development must commence on the site until a scheme for radiological monitoring of the land within a 30 metre radius of sample locations GB2 and TE312 specified on figure 16-8 B (Volume 3 Chapter 16 of the environmental statement submitted with the application for this Order) has been submitted to, and approved in writing by, the local planning authority. The radiological monitoring scheme must be implemented in accordance with the approved details.
 
-#### 36. Geology & land: previous contamination unidentified[^key-bfdd43c5cf1d5620e9d6627b159617e4]
+#### 36. Geology & land: previous contamination unidentified[^c-bfdd43c5cf1d5620e9d6627b159617e4]
 
 If, in undertaking the construction of the development, contamination which has not been previously identified is found to be present on any part of the onshore area, the local planning authority must be notified and no further work must be carried out in respect of the part of the area that the local planning authority shall specify in writing, until details as to how such contamination is to be dealt with have been submitted to, and approved in writing by, the local planning authority. Any such contamination must be dealt with in accordance with the approved details.
 
-#### 37. Groundwater: monitoring[^key-3cf051ed2316cc1599fd57fba8a0fba0]
+#### 37. Groundwater: monitoring[^c-3cf051ed2316cc1599fd57fba8a0fba0]
 
 No construction of the development on the site must commence until a scheme for the management and monitoring of groundwater levels and quality has been submitted to, and approved in writing by, the local planning authority. The scheme must be implemented in accordance with the approved details.
 
-#### 38. Construction method statement[^key-39eba5ca343d1461e434fea6fd0a4d7d]
+#### 38. Construction method statement[^c-39eba5ca343d1461e434fea6fd0a4d7d]
 
 (1) No construction of the development must commence on the onshore area until a construction method statement for the onshore area has been submitted to, and approved in writing by, the local planning authority. The construction method statement must include details of the following -
 
@@ -803,7 +803,7 @@ No construction of the development on the site must commence until a scheme for 
 
 (2) The construction method statement must be implemented as approved.
 
-#### 39. Construction and environmental management plan[^key-525a1d8187cc3b94ab35f8c70839bbaa]
+#### 39. Construction and environmental management plan[^c-525a1d8187cc3b94ab35f8c70839bbaa]
 
 (1) No construction of the development must commence until a construction and environmental management plan (CEMP) has been submitted to, and approved in writing by, the local planning authority. The CEMP must include details of the following—
 
@@ -819,19 +819,19 @@ No construction of the development on the site must commence until a scheme for 
 
 (2) The CEMP must be implemented in accordance with the approved details.
 
-#### 40. Vegetation clearance[^key-8c9c989f6ecda2352e56e769849bf155]
+#### 40. Vegetation clearance[^c-8c9c989f6ecda2352e56e769849bf155]
 
 Before undertaking any vegetation clearance within the period from October to March inclusive, a winter clearance scheme designed to avoid or reduce impacts on over-wintering birds which are interest features of the Severn Estuary SPA must be submitted to, and approved in writing by, the local planning authority. Any vegetation clearance undertaken during the period October to March inclusive must be carried out in accordance with the requirements of the winter clearance scheme.
 
-#### 41. Materials management plan[^key-2666db02d0f190d76710fb0c7eea5b43]
+#### 41. Materials management plan[^c-2666db02d0f190d76710fb0c7eea5b43]
 
 No construction of the development on the site must commence until a materials management plan (MMP) that accords with the principles set out in “The Definition of Waste: Development Industry Code of Practice, Version 2, March 2011” published by Contaminated Land: Applications in Real Environments (CL:AIRE) has been submitted to, and approved in writing by, the local planning authority. The materials management plan must be implemented as approved.
 
-#### 42. Site waste management plan[^key-256b3194ecde6bf57aa968347018b894]
+#### 42. Site waste management plan[^c-256b3194ecde6bf57aa968347018b894]
 
 No construction of the development must commence until a site waste management plan for the HEO land has been submitted to, and approved in writing by, the local planning authority. The site waste management plan must be implemented as approved.
 
-#### 43. Soil management plan[^key-c2c53606430d5c438b6df6f3cd3aeae6]
+#### 43. Soil management plan[^c-c2c53606430d5c438b6df6f3cd3aeae6]
 
 (1) No construction of the development on the site must commence until a soil management plan has been submitted to, and approved in writing by, the local planning authority. The soil management plan must detail the methods and procedures for soil stripping, handling and stockpiling and must include—
 
@@ -843,11 +843,11 @@ No construction of the development must commence until a site waste management p
 
 (2) The soil management plan must be implemented as approved.
 
-#### 44. Limit of closure of coast footpath[^key-4dfe2a9b66e67ebceca8519ab6839a74]
+#### 44. Limit of closure of coast footpath[^c-4dfe2a9b66e67ebceca8519ab6839a74]
 
 No construction of the development must commence until a scheme to provide for the reopening of the section of the coast footpath on the HEO land to public access together with safety arrangements has been submitted to, and approved in writing by, the local planning authority. The scheme must be implemented in accordance with the approved details and thereafter retained.
 
-#### 45. Traffic obligations[^key-056935e756c44fcd51692a058a2e9fdf]
+#### 45. Traffic obligations[^c-056935e756c44fcd51692a058a2e9fdf]
 
 (1) For the purposes of this paragraph—
 
@@ -881,21 +881,21 @@ At all other times and on Bank Holidays no HGVs must be received at or dispatche
 
 (11) No HGVs must be scheduled to travel between the site and any location within the area shown shaded light green within the area edged black on the plan titled “HGV Routes from West” in the deposited plans and sections until a scheme to regulate the routes to be used by such HGVs (in so far as such HGVs are not regulated by the scheme referred to in paragraph (3)) has been submitted to, and approved in writing by, the local planning authority. The scheme must be implemented in accordance with the approved details.
 
-#### 46. Bund planting[^key-0d2d284646e1a2457cdb26d46bbee0c8]
+#### 46. Bund planting[^c-0d2d284646e1a2457cdb26d46bbee0c8]
 
 The bund required by condition 14 must be planted in accordance with Condition SP13 of the site preparation works permission or, if a development consent order for a new nuclear power station at Hinkley Point has been implemented by the carrying out of a material operation and contains requirements about bund planting, in accordance with the requirements of that order.
 
-#### 47. Maintenance of planting[^key-0f3d5512c10a6032832163baf4782ff0]
+#### 47. Maintenance of planting[^c-0f3d5512c10a6032832163baf4782ff0]
 
 Any planting of the bund required by condition 14 must be maintained in accordance with Condition SP23 of the site preparation works permission or, if a development consent order for a new nuclear power station at Hinkley Point has been implemented by the carrying out of a material operation and contains requirements about the maintenance of bund planting, in accordance with the requirements of that order.
 
 ### PART 3 — Reinstatement Conditions
 
-#### 48. Coastal hydrology: cliff management plan[^key-0d70426eb17574fdb941930d9986b6ec]
+#### 48. Coastal hydrology: cliff management plan[^c-0d70426eb17574fdb941930d9986b6ec]
 
 Prior to the removal of any part of the jetty, a cliff management plan which provides details for arrangements and responsibilities for the removal of those parts of the jetty and its associated infrastructure which are located within 15m in any direction of the cliff edge must be submitted to, and approved in writing by, the local planning authority. The cliff management plan must be implemented in accordance with the approved details.
 
-#### 49. Noise and vibration: control of noise during reinstatement[^key-f3bf44e848a2c9e6877526a7ed5aecf6]
+#### 49. Noise and vibration: control of noise during reinstatement[^c-f3bf44e848a2c9e6877526a7ed5aecf6]
 
 (1) Prior to the commencement of any works of reinstatement pursuant to article 39 a noise and vibration management plan must be submitted to, and approved in writing by, the local planning authority which specifies the provision to be made for the control of noise and vibration arising from the reinstatement works.
 
@@ -932,25 +932,25 @@ Prior to the removal of any part of the jetty, a cliff management plan which pro
 
 (7) Noise levels must be determined in accordance with the provisions of British Standard 7445.
 
-#### 50. Working hours during reinstatement[^key-33059f8035b5a8ab9cce10f051bdf841]
+#### 50. Working hours during reinstatement[^c-33059f8035b5a8ab9cce10f051bdf841]
 
 (1) Works of reinstatement pursuant to article 39 (in so far as they are carried on, or accessed from, the site) must not take place on Sundays or Bank Holidays or outside the hours of 07:00 to 18:00 Mondays to Fridays and 07:00 to 13:00 on Saturdays.
 
 (2) In the event that a development consent order for a new nuclear generating station at Hinkley Point is implemented by the carrying out of a material operation the working hours for the reinstatement works shall be restricted to the same extent (if at all) as provided by the development consent order.
 
-#### 51. On-site vehicular movements and maintenance - permitted hours during reinstatement[^key-ba7f3e85d5577018d0c84bb73bc2347a]
+#### 51. On-site vehicular movements and maintenance - permitted hours during reinstatement[^c-ba7f3e85d5577018d0c84bb73bc2347a]
 
 (1) There must be no use or maintenance of any vehicles (which term shall not include vessels or barges) associated with the reinstatement of the onshore area (including no starting of vehicular engines, no vehicle movements and no reversing alarms operated) on the onshore area on Sundays or Bank Holidays or outside the hours of 07:00 to 18:00 Mondays to Fridays and 07:00 to 13:00 on Saturdays. This condition shall only apply to the carrying out of the reinstatement of the onshore area pursuant to article 39.
 
 (2) In the event that a development consent order for a new nuclear generating station at Hinkley Point is implemented by the carrying out of a material operation the use and maintenance of vehicles (including the starting of vehicular engines, vehicle movements and the operation of reversing alarms) associated with the reinstatement of the onshore area shall be restricted to the same extent (if at all) as is provided by the development consent order.
 
-#### 52. Noise and vibration during reinstatement: no amplified sound[^key-12c4c115ab01eb11534917e6d3fe1995]
+#### 52. Noise and vibration during reinstatement: no amplified sound[^c-12c4c115ab01eb11534917e6d3fe1995]
 
 (1) No public address system must be used or amplified sound generated within the onshore area or at any time in the course of reinstatement works. This condition shall only apply to the carrying out of the reinstatement of the onshore area pursuant to article 39
 
 (2) In the event that a development consent order for a new nuclear generating station at Hinkley Point is implemented by the carrying out of a material operation the use of public address systems and the generation of amplified sound within the onshore area or at any time in the course of the reinstatement works shall be restricted to the same extent (if at all) as is provided by the development consent order.
 
-## SCHEDULE 2 — STOPPING UP OF FOOTPATHS AND NEW PUBLIC RIGHTS OF WAY TO BE SUBSTITUTED[^key-ddb56d0fd5ee1f5f40bca09063266657]
+## SCHEDULE 2 — STOPPING UP OF FOOTPATHS AND NEW PUBLIC RIGHTS OF WAY TO BE SUBSTITUTED[^c-ddb56d0fd5ee1f5f40bca09063266657]
 
 Article 19
 
@@ -964,7 +964,7 @@ Article 19
 |  | Footpath WL23/68 | Between points F20 and F21 | Footpath to be provided between points F20 and F22 |
 |  | Footpath WL23/70 | Between points F12 and F16 | Footpath to be provided between points F12, F13, F14 and F15 |
 
-## SCHEDULE 3 — FOOTPATHS MAPS[^key-23edef0fbac2adb6720c1408710a366c]
+## SCHEDULE 3 — FOOTPATHS MAPS[^c-23edef0fbac2adb6720c1408710a366c]
 
 Article 19
 
@@ -1006,9 +1006,9 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00005]: Footnote: The Marine Management Organisation was established by the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), section 1.
 
-[^key-342805e4643ad89761420f7f2afa6fa5]: Commencement: Art. 1 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-342805e4643ad89761420f7f2afa6fa5]: Commencement: Art. 1 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-fb6e7d32a718535f571a5270864b4683]: Commencement: Art. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-fb6e7d32a718535f571a5270864b4683]: Commencement: Art. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
 [^f00006]: Footnote: [1845 c.lxxxix](https://www.legislation.gov.uk/ukla/1845/89).
 
@@ -1024,47 +1024,47 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00012]: Footnote: Section 56(4) was amended by the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34), Schedule 7, paragraph 10(2).
 
-[^key-e52a68c587bea0a00ae66b6dc73dcc0d]: Commencement: Art. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-e52a68c587bea0a00ae66b6dc73dcc0d]: Commencement: Art. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
 [^f00013]: Footnote: There are amendments to section 63 not relevant to this Order.
 
-[^key-0641c881a801afae0dc698970e1639d2]: Commencement: Art. 4 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-0641c881a801afae0dc698970e1639d2]: Commencement: Art. 4 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-9fe4e0feb2a91313662b45ec02d99208]: Commencement: Art. 5 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-9fe4e0feb2a91313662b45ec02d99208]: Commencement: Art. 5 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-4ee8f368c7e9324c0efffd574a7840cd]: Commencement: Art. 6 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-4ee8f368c7e9324c0efffd574a7840cd]: Commencement: Art. 6 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-552fc1d9b0955762b5ab9397e177a340]: Commencement: Art. 7 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-552fc1d9b0955762b5ab9397e177a340]: Commencement: Art. 7 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-44f7df47a5e2acf5b6a086b16eb74e30]: Commencement: Art. 8 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-44f7df47a5e2acf5b6a086b16eb74e30]: Commencement: Art. 8 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
 [^f00014]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-c4aa931339978d9cc345a3f78e2f243a]: Commencement: Art. 9 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-c4aa931339978d9cc345a3f78e2f243a]: Commencement: Art. 9 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-adccf5d23318e79de2ecb6b33218a616]: Commencement: Art. 10 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-adccf5d23318e79de2ecb6b33218a616]: Commencement: Art. 10 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-4578074d3890961104cbc96025f784ec]: Commencement: Art. 11 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-4578074d3890961104cbc96025f784ec]: Commencement: Art. 11 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-6e3fd3e69bc089177d7d0122c96a4a4f]: Commencement: Art. 12 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-6e3fd3e69bc089177d7d0122c96a4a4f]: Commencement: Art. 12 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-534702da9d3094c2b3a3e9652d24f86f]: Commencement: Art. 13 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-534702da9d3094c2b3a3e9652d24f86f]: Commencement: Art. 13 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-f293e58db03745b8b242e148a3386ad2]: Commencement: Art. 14 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-f293e58db03745b8b242e148a3386ad2]: Commencement: Art. 14 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-2751e3ecdfdd6c18d5fd273daad2d988]: Commencement: Art. 15 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-2751e3ecdfdd6c18d5fd273daad2d988]: Commencement: Art. 15 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-470f1acd158b5e7eed62ff071044c75e]: Commencement: Art. 16 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-470f1acd158b5e7eed62ff071044c75e]: Commencement: Art. 16 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-fcd772cd1a1f279eb431497d33753db6]: Commencement: Art. 17 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-fcd772cd1a1f279eb431497d33753db6]: Commencement: Art. 17 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-76ae4e9aaf10a526386db1bc4041abd2]: Commencement: Art. 18 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-76ae4e9aaf10a526386db1bc4041abd2]: Commencement: Art. 18 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
 [^f00015]: Footnote: There are amendments to section 70 not relevant to this Order.
 
 [^f00016]: Footnote: Section 73 was amended by the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), sections 42(2) and 51(3) and section 73A was inserted by the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34), Schedule 7, paragraph 16(1).
 
-[^key-e5509d41d9b022215dbe579e514db7e7]: Commencement: Art. 19 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-e5509d41d9b022215dbe579e514db7e7]: Commencement: Art. 19 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
 [^f00017]: Footnote: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66). Section 28 was amended by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177), Regulation 2 and the Schedule, Part I.
 
@@ -1072,168 +1072,168 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00019]: Footnote: Section 307 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), Schedule 1, paragraph 137.
 
-[^key-66d7a42157524b95418da2310837db30]: Commencement: Art. 20 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-66d7a42157524b95418da2310837db30]: Commencement: Art. 20 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-da9fb17ca7ff41f520428c6bee4b51f2]: Commencement: Art. 21 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-da9fb17ca7ff41f520428c6bee4b51f2]: Commencement: Art. 21 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-87ec82df9bc96f46a1adbd98e61c9942]: Commencement: Art. 22 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-87ec82df9bc96f46a1adbd98e61c9942]: Commencement: Art. 22 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-42db8b81a2555fa2fc0f3e649688afc1]: Commencement: Art. 23 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-42db8b81a2555fa2fc0f3e649688afc1]: Commencement: Art. 23 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-5096e08581e93291ebb589e99a97d9b4]: Commencement: Art. 24 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-5096e08581e93291ebb589e99a97d9b4]: Commencement: Art. 24 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-739ec8b2637cec7fb4d3125781c21b79]: Commencement: Art. 25 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-739ec8b2637cec7fb4d3125781c21b79]: Commencement: Art. 25 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-6645e6bfe3bc24d039bc7f986281b570]: Commencement: Art. 26 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-6645e6bfe3bc24d039bc7f986281b570]: Commencement: Art. 26 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-c5ab288d3e7c789263ea8d34d31316cd]: Commencement: Art. 27 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-c5ab288d3e7c789263ea8d34d31316cd]: Commencement: Art. 27 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-87d775364ddfe5c85e7c34f0843e49a1]: Commencement: Art. 28 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-87d775364ddfe5c85e7c34f0843e49a1]: Commencement: Art. 28 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-83c15f41fcb882be06b6ff70b53cdbfa]: Commencement: Art. 29 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-83c15f41fcb882be06b6ff70b53cdbfa]: Commencement: Art. 29 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-1ac3926b76576aeb9ac9a44c77750497]: Commencement: Art. 30 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-1ac3926b76576aeb9ac9a44c77750497]: Commencement: Art. 30 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-1d87f4ca1d02cced9a27bb6f81bdd956]: Commencement: Art. 31 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-1d87f4ca1d02cced9a27bb6f81bdd956]: Commencement: Art. 31 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-8ff20be7b5837049f8d4a3fdab6b585f]: Commencement: Art. 32 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-8ff20be7b5837049f8d4a3fdab6b585f]: Commencement: Art. 32 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-6bdc7c7a3e6f50f9e22170382c3e073b]: Commencement: Art. 33 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-6bdc7c7a3e6f50f9e22170382c3e073b]: Commencement: Art. 33 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-df2bab8c4b430337d8ed9d694cea9336]: Commencement: Art. 34 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-df2bab8c4b430337d8ed9d694cea9336]: Commencement: Art. 34 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-0fda91210960dce712f7c6620f80cd7b]: Commencement: Art. 35 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-0fda91210960dce712f7c6620f80cd7b]: Commencement: Art. 35 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-f2dc926c1c016482f37c715b139529f0]: Commencement: Art. 36 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-f2dc926c1c016482f37c715b139529f0]: Commencement: Art. 36 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-232359a9cafde8e77c2550264d6d904e]: Textual amendment: Words in [art. 36](https://www.legislation.gov.uk/uksi/2012/1914/article/36) heading substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 28(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/28/a)
+[^c-232359a9cafde8e77c2550264d6d904e]: Textual amendment: Words in [art. 36](https://www.legislation.gov.uk/uksi/2012/1914/article/36) heading substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 28(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/28/a)
 
-[^key-82df01ec2abb526312dbed1ca732a4ce]: Textual amendment: Words in [art. 36](https://www.legislation.gov.uk/uksi/2012/1914/article/36) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 28(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/28/b)
+[^c-82df01ec2abb526312dbed1ca732a4ce]: Textual amendment: Words in [art. 36](https://www.legislation.gov.uk/uksi/2012/1914/article/36) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 28(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/28/b)
 
-[^key-c88d7e5058bdb61ca80d90f9747c6b60]: Textual amendment: Words in [art. 36(a)](https://www.legislation.gov.uk/uksi/2012/1914/article/36/a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 28(c)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/28/c)
+[^c-c88d7e5058bdb61ca80d90f9747c6b60]: Textual amendment: Words in [art. 36(a)](https://www.legislation.gov.uk/uksi/2012/1914/article/36/a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 28(c)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/28/c)
 
-[^key-28aa239ada8aba1815f1b80d21f391bb]: Commencement: Art. 37 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-28aa239ada8aba1815f1b80d21f391bb]: Commencement: Art. 37 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-c762ca848cc3c503a81633395e2aedaf]: Commencement: Art. 38 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-c762ca848cc3c503a81633395e2aedaf]: Commencement: Art. 38 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-1e4483222379336ee669ff3c1b095c46]: Commencement: Art. 39 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-1e4483222379336ee669ff3c1b095c46]: Commencement: Art. 39 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-efb891114aa6d3f33d72dd2699e4d587]: Commencement: Art. 40 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-efb891114aa6d3f33d72dd2699e4d587]: Commencement: Art. 40 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-b76989aa54e85eec8c9307cc4af47f2e]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-b76989aa54e85eec8c9307cc4af47f2e]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
 [^f00021]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-bba9f7334dd98d3daf1a5dcc63aee44b]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-bba9f7334dd98d3daf1a5dcc63aee44b]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-33d5f18e9db0f14fa7acde4c9fb61b86]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-33d5f18e9db0f14fa7acde4c9fb61b86]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-fce0403c24f46092cf96de9b056c75b9]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-fce0403c24f46092cf96de9b056c75b9]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-23ee8aa86fbeb231b62bd3a69ba4a666]: Commencement: Sch. 1 Pt. 2 para. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-23ee8aa86fbeb231b62bd3a69ba4a666]: Commencement: Sch. 1 Pt. 2 para. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-f5d49141fec8f325eade93de4355aeca]: Commencement: Sch. 1 Pt. 2 para. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-f5d49141fec8f325eade93de4355aeca]: Commencement: Sch. 1 Pt. 2 para. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-83ea2c3331c22e4d85ec58c0fcc16c2f]: Commencement: Sch. 1 para. 4 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-83ea2c3331c22e4d85ec58c0fcc16c2f]: Commencement: Sch. 1 para. 4 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-716deaa8657002a2d517507ea72e2eb0]: Commencement: Sch. 1 para. 5 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-716deaa8657002a2d517507ea72e2eb0]: Commencement: Sch. 1 para. 5 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-8d370f723ade370f1800537b239b0afc]: Commencement: Sch. 1 para. 6 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-8d370f723ade370f1800537b239b0afc]: Commencement: Sch. 1 para. 6 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-1dd9a82b746f2459f0aeae772dc772c6]: Commencement: Sch. 1 para. 7 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-1dd9a82b746f2459f0aeae772dc772c6]: Commencement: Sch. 1 para. 7 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-e5e8ae6d12dd3917368f060044d23be1]: Commencement: Sch. 1 para. 8 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-e5e8ae6d12dd3917368f060044d23be1]: Commencement: Sch. 1 para. 8 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-748f573f128c99588cff586d1af40876]: Commencement: Sch. 1 para. 9 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-748f573f128c99588cff586d1af40876]: Commencement: Sch. 1 para. 9 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-6f89f4d615b888fe91785bc26adb3d5c]: Commencement: Sch. 1 para. 10 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-6f89f4d615b888fe91785bc26adb3d5c]: Commencement: Sch. 1 para. 10 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-1594392a016a39cdd6f6ac0605f5de0c]: Commencement: Sch. 1 para. 11 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-1594392a016a39cdd6f6ac0605f5de0c]: Commencement: Sch. 1 para. 11 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-a6b033cf16bd76bf7fa0b41fb476e612]: Commencement: Sch. 1 para. 12 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-a6b033cf16bd76bf7fa0b41fb476e612]: Commencement: Sch. 1 para. 12 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-c7bc517c363fd68622e6ac0061057f3c]: Commencement: Sch. 1 para. 13 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-c7bc517c363fd68622e6ac0061057f3c]: Commencement: Sch. 1 para. 13 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-9a567e236cca33b35e9601a80edfebd8]: Commencement: Sch. 1 para. 14 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-9a567e236cca33b35e9601a80edfebd8]: Commencement: Sch. 1 para. 14 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-37508d004b83abb5ed426038a896fa11]: Commencement: Sch. 1 para. 15 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-37508d004b83abb5ed426038a896fa11]: Commencement: Sch. 1 para. 15 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-d435e78f839206bd405cbd2315f243f3]: Commencement: Sch. 1 para. 16 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-d435e78f839206bd405cbd2315f243f3]: Commencement: Sch. 1 para. 16 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-acc9bfb9793765dea70bdc705d24f40a]: Commencement: Sch. 1 para. 17 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-acc9bfb9793765dea70bdc705d24f40a]: Commencement: Sch. 1 para. 17 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-2bd37f2e70217f4574499e769aa33b48]: Commencement: Sch. 1 para. 18 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-2bd37f2e70217f4574499e769aa33b48]: Commencement: Sch. 1 para. 18 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-06f276c0b2610280e6c5230b365bf996]: Commencement: Sch. 1 para. 19 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-06f276c0b2610280e6c5230b365bf996]: Commencement: Sch. 1 para. 19 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-80f1c72dfb47615156a9face5c225794]: Commencement: Sch. 1 para. 20 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-80f1c72dfb47615156a9face5c225794]: Commencement: Sch. 1 para. 20 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-90c8634aa7a775dc5bbb8095c82f8879]: Commencement: Sch. 1 para. 21 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-90c8634aa7a775dc5bbb8095c82f8879]: Commencement: Sch. 1 para. 21 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-0ec2a34114d2fb37b13500b56cba4cf4]: Commencement: Sch. 1 para. 22 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-0ec2a34114d2fb37b13500b56cba4cf4]: Commencement: Sch. 1 para. 22 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-447a7831d167fd463fce488b1b8549e1]: Commencement: Sch. 1 para. 23 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-447a7831d167fd463fce488b1b8549e1]: Commencement: Sch. 1 para. 23 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-c839704afbfddfdf8b75f8ca1395fdab]: Commencement: Sch. 1 para. 24 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-c839704afbfddfdf8b75f8ca1395fdab]: Commencement: Sch. 1 para. 24 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
 [^f00022]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
 
-[^key-811b4e9c6ba387bd3be35ac3c203b0c8]: Commencement: Sch. 1 para. 25 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-811b4e9c6ba387bd3be35ac3c203b0c8]: Commencement: Sch. 1 para. 25 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-3057f5623356b0b063ab4cb5a68f29b1]: Commencement: Sch. 1 para. 26 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-3057f5623356b0b063ab4cb5a68f29b1]: Commencement: Sch. 1 para. 26 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-e2e715e4063905ee25232e1ad39be296]: Commencement: Sch. 1 para. 27 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-e2e715e4063905ee25232e1ad39be296]: Commencement: Sch. 1 para. 27 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-36d95c1db4ba96a0fee4825d4572ec98]: Commencement: Sch. 1 para. 28 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-36d95c1db4ba96a0fee4825d4572ec98]: Commencement: Sch. 1 para. 28 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-27659e5584baaca3fea3f667addbedb6]: Commencement: Sch. 1 para. 29 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-27659e5584baaca3fea3f667addbedb6]: Commencement: Sch. 1 para. 29 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-2f6a394f87c4641af57b4cb0fca9eed4]: Commencement: Sch. 1 para. 30 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-2f6a394f87c4641af57b4cb0fca9eed4]: Commencement: Sch. 1 para. 30 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-9871e56c345d1a532464768626658904]: Commencement: Sch. 1 para. 31 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-9871e56c345d1a532464768626658904]: Commencement: Sch. 1 para. 31 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-9eb0334f7d67f08bddbc89aac2cc57ec]: Commencement: Sch. 1 para. 32 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-9eb0334f7d67f08bddbc89aac2cc57ec]: Commencement: Sch. 1 para. 32 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-30e70c706400067530220c7fd4ae79f7]: Commencement: Sch. 1 para. 33 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-30e70c706400067530220c7fd4ae79f7]: Commencement: Sch. 1 para. 33 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-9ed1f8e270e281518deeae2acf96b314]: Commencement: Sch. 1 para. 34 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-9ed1f8e270e281518deeae2acf96b314]: Commencement: Sch. 1 para. 34 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-9ee56001638ed58bb2a4a91e5703ac48]: Commencement: Sch. 1 para. 35 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-9ee56001638ed58bb2a4a91e5703ac48]: Commencement: Sch. 1 para. 35 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-bfdd43c5cf1d5620e9d6627b159617e4]: Commencement: Sch. 1 para. 36 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-bfdd43c5cf1d5620e9d6627b159617e4]: Commencement: Sch. 1 para. 36 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-3cf051ed2316cc1599fd57fba8a0fba0]: Commencement: Sch. 1 para. 37 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-3cf051ed2316cc1599fd57fba8a0fba0]: Commencement: Sch. 1 para. 37 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-39eba5ca343d1461e434fea6fd0a4d7d]: Commencement: Sch. 1 para. 38 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-39eba5ca343d1461e434fea6fd0a4d7d]: Commencement: Sch. 1 para. 38 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-525a1d8187cc3b94ab35f8c70839bbaa]: Commencement: Sch. 1 para. 39 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-525a1d8187cc3b94ab35f8c70839bbaa]: Commencement: Sch. 1 para. 39 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-8c9c989f6ecda2352e56e769849bf155]: Commencement: Sch. 1 para. 40 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-8c9c989f6ecda2352e56e769849bf155]: Commencement: Sch. 1 para. 40 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-2666db02d0f190d76710fb0c7eea5b43]: Commencement: Sch. 1 para. 41 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-2666db02d0f190d76710fb0c7eea5b43]: Commencement: Sch. 1 para. 41 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-256b3194ecde6bf57aa968347018b894]: Commencement: Sch. 1 para. 42 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-256b3194ecde6bf57aa968347018b894]: Commencement: Sch. 1 para. 42 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-c2c53606430d5c438b6df6f3cd3aeae6]: Commencement: Sch. 1 para. 43 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-c2c53606430d5c438b6df6f3cd3aeae6]: Commencement: Sch. 1 para. 43 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-4dfe2a9b66e67ebceca8519ab6839a74]: Commencement: Sch. 1 para. 44 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-4dfe2a9b66e67ebceca8519ab6839a74]: Commencement: Sch. 1 para. 44 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-056935e756c44fcd51692a058a2e9fdf]: Commencement: Sch. 1 para. 45 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-056935e756c44fcd51692a058a2e9fdf]: Commencement: Sch. 1 para. 45 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-0d2d284646e1a2457cdb26d46bbee0c8]: Commencement: Sch. 1 para. 46 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-0d2d284646e1a2457cdb26d46bbee0c8]: Commencement: Sch. 1 para. 46 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-0f3d5512c10a6032832163baf4782ff0]: Commencement: Sch. 1 para. 47 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-0f3d5512c10a6032832163baf4782ff0]: Commencement: Sch. 1 para. 47 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-0d70426eb17574fdb941930d9986b6ec]: Commencement: Sch. 1 para. 48 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-0d70426eb17574fdb941930d9986b6ec]: Commencement: Sch. 1 para. 48 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-f3bf44e848a2c9e6877526a7ed5aecf6]: Commencement: Sch. 1 para. 49 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-f3bf44e848a2c9e6877526a7ed5aecf6]: Commencement: Sch. 1 para. 49 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-33059f8035b5a8ab9cce10f051bdf841]: Commencement: Sch. 1 para. 50 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-33059f8035b5a8ab9cce10f051bdf841]: Commencement: Sch. 1 para. 50 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-ba7f3e85d5577018d0c84bb73bc2347a]: Commencement: Sch. 1 para. 51 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-ba7f3e85d5577018d0c84bb73bc2347a]: Commencement: Sch. 1 para. 51 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-12c4c115ab01eb11534917e6d3fe1995]: Commencement: Sch. 1 para. 52 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-12c4c115ab01eb11534917e6d3fe1995]: Commencement: Sch. 1 para. 52 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-ddb56d0fd5ee1f5f40bca09063266657]: Commencement: Sch. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-ddb56d0fd5ee1f5f40bca09063266657]: Commencement: Sch. 2 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
 
-[^key-23edef0fbac2adb6720c1408710a366c]: Commencement: Sch. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)
+[^c-23edef0fbac2adb6720c1408710a366c]: Commencement: Sch. 3 in force at 16.8.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1)

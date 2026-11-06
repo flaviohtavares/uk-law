@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Introduction[^key-66e633de307de22a52754389d12783fa]
+## 83. Introduction[^c-66e633de307de22a52754389d12783fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Finance Act 1994 in accordance with Articles 84 to 87.
 
 ## Annotations
 
-[^key-66e633de307de22a52754389d12783fa]: Commencement: Art. 83 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-66e633de307de22a52754389d12783fa]: Commencement: Art. 83 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

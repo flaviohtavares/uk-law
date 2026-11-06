@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Infant Formula and Follow-on Formula (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^key-9558f33a26542414cdaf686d47bfb1dd]
+The Infant Formula and Follow-on Formula (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^c-9558f33a26542414cdaf686d47bfb1dd]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 28th February 2014
 
-[^key-9558f33a26542414cdaf686d47bfb1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9558f33a26542414cdaf686d47bfb1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9558f33a26542414cdaf686d47bfb1dd]
+## 1. Citation, commencement and interpretation[^c-9558f33a26542414cdaf686d47bfb1dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Infant Formula and Follow-on Formula Regulations (Northern Ireland) 2007[^key-9558f33a26542414cdaf686d47bfb1dd]
+## 2. Amendment of the Infant Formula and Follow-on Formula Regulations (Northern Ireland) 2007[^c-9558f33a26542414cdaf686d47bfb1dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9558f33a26542414cdaf686d47bfb1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9558f33a26542414cdaf686d47bfb1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9558f33a26542414cdaf686d47bfb1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9558f33a26542414cdaf686d47bfb1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9558f33a26542414cdaf686d47bfb1dd]: Textual amendment: Regulations revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [reg. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/16/schedule/2) (with [reg. 7](https://www.legislation.gov.uk/nisr/2020/16/regulation/7))
+[^c-9558f33a26542414cdaf686d47bfb1dd]: Textual amendment: Regulations revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [reg. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/16/schedule/2) (with [reg. 7](https://www.legislation.gov.uk/nisr/2020/16/regulation/7))

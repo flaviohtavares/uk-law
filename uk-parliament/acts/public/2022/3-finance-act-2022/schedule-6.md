@@ -22,7 +22,7 @@ summary: ''
 
 Section 31
 
-### 1. Amendment to TCGA 1992[^M_I_8c984c13-7c3d-4a30-f790-37a74e166d28][^key-d7f2024d1aca6805cd3f6d77f78a0068]
+### 1. Amendment to TCGA 1992[^M_I_8c984c13-7c3d-4a30-f790-37a74e166d28][^c-d7f2024d1aca6805cd3f6d77f78a0068]
 
 For section 26A of TCGA 1992 (transfer of dormant bank or building society account) substitute—
 
@@ -48,7 +48,7 @@ For section 26A of TCGA 1992 (transfer of dormant bank or building society accou
 > - “**authorised reclaim fund**” has the same meaning as in the Dormant Assets Acts 2008 to 2022;
 > - “the original rights” are P’s rights against the institution immediately before the transfer.
 
-### 2. Amendment to FA 2008[^M_I_555b5bd4-ea55-4af1-957d-3be5172c6514][^key-423f031adfee7b11df912d22eff4974d]
+### 2. Amendment to FA 2008[^M_I_555b5bd4-ea55-4af1-957d-3be5172c6514][^c-423f031adfee7b11df912d22eff4974d]
 
 For section 39 of FA 2008 (dormant bank and building society accounts) substitute—
 
@@ -75,7 +75,7 @@ For section 39 of FA 2008 (dormant bank and building society accounts) substitut
 > - “**asset**” means an asset within the scope of the dormant assets scheme (see section 1(6) of the 2022 Act);
 > - “**authorised reclaim fund**” has the same meaning as in the Dormant Assets Acts 2008 to 2022.
 
-### 3. Amendments to the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008 ([S.I. 2008/2682](https://www.legislation.gov.uk/uksi/2008/2682))[^M_I_aad75d12-a664-44a8-f1d7-f6b83fd85d65][^key-b0ed4ae210c624a3d0df1a7d68430de6]
+### 3. Amendments to the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008 ([S.I. 2008/2682](https://www.legislation.gov.uk/uksi/2008/2682))[^M_I_aad75d12-a664-44a8-f1d7-f6b83fd85d65][^c-b0ed4ae210c624a3d0df1a7d68430de6]
 
 (1) The Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008 ([S.I. 2008/2682](https://www.legislation.gov.uk/uksi/2008/2682)) are amended in accordance with sub-paragraphs (2) to (4).
 
@@ -114,7 +114,7 @@ For section 39 of FA 2008 (dormant bank and building society accounts) substitut
 
 (4) In regulation 4B, in both places it occurs for “account” substitute “asset”.
 
-### 4. Exemption for reclaim amounts in respect of individual investment plans[^M_I_7115f109-cd81-4519-ea64-10333b213c9d][^key-d34652ed84d229e7f7550c20fbcd8ff2]
+### 4. Exemption for reclaim amounts in respect of individual investment plans[^M_I_7115f109-cd81-4519-ea64-10333b213c9d][^c-d34652ed84d229e7f7550c20fbcd8ff2]
 
 (1) An amount is exempt from income tax and capital gains tax if and to the extent that—
 
@@ -126,7 +126,7 @@ For section 39 of FA 2008 (dormant bank and building society accounts) substitut
 - “**authorised reclaim fund**” has the same meaning as in the Dormant Assets Acts 2008 to 2022;
 - “**relevant dormant asset**” has the same meaning as in section 39(2) of FA 2008 (as substituted by paragraph 2).
 
-### 5. Power to make provision for the purposes of the Income Tax Acts and TCGA 1992 in relation to dormant assets[^M_I_4ea39924-c536-4d13-f40d-a44e97c98dfe][^key-32e7348893890c1c8d479754b8840fa8]
+### 5. Power to make provision for the purposes of the Income Tax Acts and TCGA 1992 in relation to dormant assets[^M_I_4ea39924-c536-4d13-f40d-a44e97c98dfe][^c-32e7348893890c1c8d479754b8840fa8]
 
 (1) The Treasury may by regulations make provision for the purposes of any provision of the Income Tax Acts or TCGA 1992 in relation to the dormant assets scheme (within the meaning of the Dormant Assets Acts 2008 to 2022).
 
@@ -145,7 +145,7 @@ For section 39 of FA 2008 (dormant bank and building society accounts) substitut
 
 (5) The power conferred by sub-paragraph (1) is not exercisable after 31 December 2023.
 
-### 6. Commencement[^M_I_acf15ff5-3720-4a04-8213-00bb55a7ba11][^key-01686e13c78642c703b22eceb4a98b6a]
+### 6. Commencement[^M_I_acf15ff5-3720-4a04-8213-00bb55a7ba11][^c-01686e13c78642c703b22eceb4a98b6a]
 
 This Schedule comes into force on such day as the Treasury may by regulations appoint.
 
@@ -153,24 +153,24 @@ This Schedule comes into force on such day as the Treasury may by regulations ap
 
 [^M_I_8c984c13-7c3d-4a30-f790-37a74e166d28]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6)
 
-[^key-d7f2024d1aca6805cd3f6d77f78a0068]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-d7f2024d1aca6805cd3f6d77f78a0068]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
 
 [^M_I_555b5bd4-ea55-4af1-957d-3be5172c6514]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6)
 
-[^key-423f031adfee7b11df912d22eff4974d]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-423f031adfee7b11df912d22eff4974d]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
 
 [^M_I_aad75d12-a664-44a8-f1d7-f6b83fd85d65]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6)
 
-[^key-b0ed4ae210c624a3d0df1a7d68430de6]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-b0ed4ae210c624a3d0df1a7d68430de6]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/3) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
 
 [^M_I_7115f109-cd81-4519-ea64-10333b213c9d]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6)
 
-[^key-d34652ed84d229e7f7550c20fbcd8ff2]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/4) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-d34652ed84d229e7f7550c20fbcd8ff2]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/4) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
 
 [^M_I_4ea39924-c536-4d13-f40d-a44e97c98dfe]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6)
 
-[^key-32e7348893890c1c8d479754b8840fa8]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/5) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-32e7348893890c1c8d479754b8840fa8]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/5) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
 
 [^M_I_acf15ff5-3720-4a04-8213-00bb55a7ba11]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6)
 
-[^key-01686e13c78642c703b22eceb4a98b6a]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-01686e13c78642c703b22eceb4a98b6a]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6) in force at 6.6.2022 by [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)

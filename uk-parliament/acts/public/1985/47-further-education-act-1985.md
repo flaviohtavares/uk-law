@@ -33,7 +33,7 @@ An Act to empower local education authorities to supply goods and services throu
 
 \[16th July 1985\]
 
-[^c946524][^c946525][^c946526][^c946527][^c946528]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-529f09956d748c9142a88d9d42f5da97][^key-c189d18dba6cacf0229c0b5268517de4][^key-6e3ed04e070e7b6c09a3fe2c7648aeae]
+[^c946524][^c946525][^c946526][^c946527][^c946528]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-529f09956d748c9142a88d9d42f5da97][^c-c189d18dba6cacf0229c0b5268517de4][^c-6e3ed04e070e7b6c09a3fe2c7648aeae]
 
 ## Further education establishments
 
@@ -64,7 +64,7 @@ An Act to empower local education authorities to supply goods and services throu
 
 (4)[^c946533] In this Act “ **institution** ” does not include a school.
 
-### 2. Powers of local authorities.[^key-b0b1b583d413394436c59b68a8cc94d3]
+### 2. Powers of local authorities.[^c-b0b1b583d413394436c59b68a8cc94d3]
 
 (1) A local authority shall have power—
 
@@ -73,10 +73,10 @@ An Act to empower local education authorities to supply goods and services throu
 
 (2) A local authority shall also have power to lend money—
 
-- (a)[^c946540] to a higher education corporation , further education corporation or sixth form college corporation[^key-94b4095ca5511792b2240ce30cfa3b78] (within the meaning of the Further and Higher Education Act 1992);
+- (a)[^c946540] to a higher education corporation , further education corporation or sixth form college corporation[^c-94b4095ca5511792b2240ce30cfa3b78] (within the meaning of the Further and Higher Education Act 1992);
 - (b) in the case of the following institutions—
   - (i) an institution within the higher education sector which is not conducted by a higher education corporation;
-  - (ii) an institution within the further education sector which is not conducted by a further education corporation or a sixth form college corporation[^key-d64385189caac34855c6fafb16a383d8]; or
+  - (ii) an institution within the further education sector which is not conducted by a further education corporation or a sixth form college corporation[^c-d64385189caac34855c6fafb16a383d8]; or
   - (iii) an institution which provides higher education or further education and is assisted by a local authority,
 
   to the governing body of the institution or, if it is conducted by a company, to the company; or
@@ -88,7 +88,7 @@ if the loan is for the purposes of an agreement for the supply of goods or servi
 
 (4) Subsection (3) above does not apply to the supply of goods or services where the goods are produced, or the goods or services are supplied, in the normal course of any of the educational activities mentioned in section 1(3)(a) above, or where the supply is—
 
-- (a) for a body which is a Research Council for the purposes of the [^c946542]Science and Technology Act 1965 or for[^key-79b9d88155143c405694b027b743399b] United Kingdom Research and Innovation[^key-ac4e2c3a036581386e2827bd0145e749] ; or
+- (a) for a body which is a Research Council for the purposes of the [^c946542]Science and Technology Act 1965 or for[^c-79b9d88155143c405694b027b743399b] United Kingdom Research and Innovation[^c-ac4e2c3a036581386e2827bd0145e749] ; or
 - (b) for a body specified in an order under subsection (5) below.
 
 (5) The Secretary of State may by order made by statutory instrument provide that any person who is specified in the order or is of a description so specified, being a person or description of persons appearing to the Secretary of State to be exercising functions of a public nature, shall be a public body for the purposes of this Act; and any statutory instrument made by virtue of this subsection shall be subject to annulment in pursuance of a resolution of either House of Parliament.
@@ -106,13 +106,13 @@ if the loan is for the purposes of an agreement for the supply of goods or servi
 
 (10) Nothing in this section shall be construed as derogating from any powers exercisable by a local authority apart from this section.
 
-### 3. Financial and accounting provisions.[^key-c49e37cfe303198025ca8875a5eb2012]
+### 3. Financial and accounting provisions.[^c-c49e37cfe303198025ca8875a5eb2012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Teachers of physical training
 
-### 4. Repeal of s.28(b) of Sex Discrimination Act 1975.[^key-a16ac6b4a94c446ba8bcd524810a7b48]
+### 4. Repeal of s.28(b) of Sex Discrimination Act 1975.[^c-a16ac6b4a94c446ba8bcd524810a7b48]
 
 *Extent: E+W+S*
 
@@ -169,11 +169,11 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c946557]North
 
     Act (except ss. 4, 5) applied (1.6.2001) by [S.I. 2001/1507](https://www.legislation.gov.uk/uksi/2001/1507), [reg. 2](https://www.legislation.gov.uk/uksi/2001/1507/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/1507/schedule/2/paragraph/2)
 
-[^key-529f09956d748c9142a88d9d42f5da97]: Modification: Act applied (E.W.) (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-529f09956d748c9142a88d9d42f5da97]: Modification: Act applied (E.W.) (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-c189d18dba6cacf0229c0b5268517de4]: Modification: Act modified in part (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
+[^c-c189d18dba6cacf0229c0b5268517de4]: Modification: Act modified in part (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
 
-[^key-6e3ed04e070e7b6c09a3fe2c7648aeae]: Modification: Act: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-6e3ed04e070e7b6c09a3fe2c7648aeae]: Modification: Act: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
 [^c946531]: Textual amendment: Words substituted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 92(2)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/92/2)
 
@@ -181,31 +181,31 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c946557]North
 
 [^c946533]: Textual amendment: S. 1(4) added (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. I para.20](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/20); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
 
-[^key-b0b1b583d413394436c59b68a8cc94d3]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/2/2)
+[^c-b0b1b583d413394436c59b68a8cc94d3]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/2/2)
 
 [^c946539]: Textual amendment: Words substituted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 93(2)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/93/2)
 
 [^c946540]: Textual amendment: S. 2(2)(a)-(c) substituted (30.9.1992) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. I para. 21](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/21) (1); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/831/schedule/2)
 
-[^key-94b4095ca5511792b2240ce30cfa3b78]: Textual amendment: Words in s. 2(2)(a) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 87(a)](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/87/a) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-94b4095ca5511792b2240ce30cfa3b78]: Textual amendment: Words in s. 2(2)(a) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 87(a)](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/87/a) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
 
-[^key-d64385189caac34855c6fafb16a383d8]: Textual amendment: Words in s. 2(2)(b)(ii) inserted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 87(b)](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/87/b) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-d64385189caac34855c6fafb16a383d8]: Textual amendment: Words in s. 2(2)(b)(ii) inserted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 87(b)](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/87/b) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
 
 [^c946541]: Textual amendment: Words substituted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 93(4)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/93/4)
 
 [^c946542]: Marginal citation: [1965 c. 4](https://www.legislation.gov.uk/ukpga/1965/4).
 
-[^key-79b9d88155143c405694b027b743399b]: Textual amendment: Words in s. 2(4)(a) inserted (16.12.2004) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 52(2)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/2), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2004/8/schedule/6/paragraph/6); [S.I. 2004/3255](https://www.legislation.gov.uk/uksi/2004/3255), [art. 2](https://www.legislation.gov.uk/uksi/2004/3255/article/2)
+[^c-79b9d88155143c405694b027b743399b]: Textual amendment: Words in s. 2(4)(a) inserted (16.12.2004) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 52(2)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/2), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2004/8/schedule/6/paragraph/6); [S.I. 2004/3255](https://www.legislation.gov.uk/uksi/2004/3255), [art. 2](https://www.legislation.gov.uk/uksi/2004/3255/article/2)
 
-[^key-ac4e2c3a036581386e2827bd0145e749]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1985/47/section/2/4/a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/14); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-ac4e2c3a036581386e2827bd0145e749]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1985/47/section/2/4/a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/14); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
 [^c946543]: Textual amendment: Words substituted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 93(5)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/93/5)
 
 [^c946544]: Textual amendment: Words in s. 2(8) substituted (30.9.1992)) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. I para. 21(2)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/21/2); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/831/schedule/2)
 
-[^key-c49e37cfe303198025ca8875a5eb2012]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1985/47/section/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/1)
+[^c-c49e37cfe303198025ca8875a5eb2012]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1985/47/section/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/1)
 
-[^key-a16ac6b4a94c446ba8bcd524810a7b48]: Textual amendment: S. 4 repealed (1.10.2010) by Equality Act 2010 (c. 15), Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
+[^c-a16ac6b4a94c446ba8bcd524810a7b48]: Textual amendment: S. 4 repealed (1.10.2010) by Equality Act 2010 (c. 15), Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
 
 [^c946557]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 

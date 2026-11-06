@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Other VAT amendments connected with withdrawal from EU[^key-308e562b39132c8494669fce82c39f71][^key-7fa811a1d503f8524e4ed298e3761d61]
+## 43. Other VAT amendments connected with withdrawal from EU[^c-308e562b39132c8494669fce82c39f71][^c-7fa811a1d503f8524e4ed298e3761d61]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 8 makes amendments of the Value Added Tax Act 1994, and other enactment
 
 ## Annotations
 
-[^key-308e562b39132c8494669fce82c39f71]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/22/section/43) in force at 16.12.2018 for specified purposes by [S.I. 2018/1362](https://www.legislation.gov.uk/uksi/2018/1362), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1362/regulation/2)
+[^c-308e562b39132c8494669fce82c39f71]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/22/section/43) in force at 16.12.2018 for specified purposes by [S.I. 2018/1362](https://www.legislation.gov.uk/uksi/2018/1362), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1362/regulation/2)
 
-[^key-7fa811a1d503f8524e4ed298e3761d61]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/22/section/43) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-7fa811a1d503f8524e4ed298e3761d61]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/22/section/43) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))

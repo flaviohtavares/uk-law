@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Allowances and other payments[^key-2b17588a47343de33560fd7fb83422a5][^key-1aade04e659988c2791b5db286c02526]
+## 36. Allowances and other payments[^c-2b17588a47343de33560fd7fb83422a5][^c-1aade04e659988c2791b5db286c02526]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b17588a47343de33560fd7fb83422a5]: Commencement: S. 36 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-2b17588a47343de33560fd7fb83422a5]: Commencement: S. 36 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-1aade04e659988c2791b5db286c02526]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2026/16/section/36) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-1aade04e659988c2791b5db286c02526]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2026/16/section/36) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## SCHEDULE 3 — INFORMATION[^key-cffd2a59a6d9484badaf029d5fc2160a]
+## SCHEDULE 3 — INFORMATION[^c-cffd2a59a6d9484badaf029d5fc2160a]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Regulations 10, 94 and 105
 
-**1.**[^key-cffd2a59a6d9484badaf029d5fc2160a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cffd2a59a6d9484badaf029d5fc2160a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cffd2a59a6d9484badaf029d5fc2160a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cffd2a59a6d9484badaf029d5fc2160a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cffd2a59a6d9484badaf029d5fc2160a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cffd2a59a6d9484badaf029d5fc2160a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cffd2a59a6d9484badaf029d5fc2160a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/119) revoked (1.9.2007) by [The Education (Student Support) Regulations 2007 (S.I. 2007/176)](https://www.legislation.gov.uk/uksi/2007/176), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/4/1) (with savings in [reg. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2007/176/regulation/4/2))
+[^c-cffd2a59a6d9484badaf029d5fc2160a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/119) revoked (1.9.2007) by [The Education (Student Support) Regulations 2007 (S.I. 2007/176)](https://www.legislation.gov.uk/uksi/2007/176), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/4/1) (with savings in [reg. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2007/176/regulation/4/2))

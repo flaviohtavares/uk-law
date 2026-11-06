@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Postal administrator to allow inspection of proofs[^key-cc8d24d4862274495766d1e112281fd3]
+## 45. Postal administrator to allow inspection of proofs[^c-cc8d24d4862274495766d1e112281fd3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The postal administrator shall, so long as proofs lodged with the postal adminis
 
 ## Annotations
 
-[^key-cc8d24d4862274495766d1e112281fd3]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2013/3208/rule/45) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-cc8d24d4862274495766d1e112281fd3]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2013/3208/rule/45) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

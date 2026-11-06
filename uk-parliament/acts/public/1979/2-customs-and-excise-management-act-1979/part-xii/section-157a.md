@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157A. General information powers in relation to persons entering or leaving the United Kingdom[^key-43b65e7b5cfa4513a3ccc4aa422e7b42]
+## 157A. General information powers in relation to persons entering or leaving the United Kingdom[^c-43b65e7b5cfa4513a3ccc4aa422e7b42]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ and the passenger's final destination is the destination of the continued or res
 
 ## Annotations
 
-[^key-43b65e7b5cfa4513a3ccc4aa422e7b42]: Textual amendment: S. 157A inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/98/1), [116(3)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/3/a); [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)
+[^c-43b65e7b5cfa4513a3ccc4aa422e7b42]: Textual amendment: S. 157A inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/98/1), [116(3)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/3/a); [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Article 9 of Commission Implementing Regulation (EU) No 1206/2011[^key-89b86be45cbafcda1f02c8552179c3e0]
+## 267. Article 9 of Commission Implementing Regulation (EU) No 1206/2011[^c-89b86be45cbafcda1f02c8552179c3e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 9 (additional requirements for operators), in paragraph 2 for “4(1)
 
 ## Annotations
 
-[^key-89b86be45cbafcda1f02c8552179c3e0]: Commencement: Reg. 267 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-89b86be45cbafcda1f02c8552179c3e0]: Commencement: Reg. 267 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

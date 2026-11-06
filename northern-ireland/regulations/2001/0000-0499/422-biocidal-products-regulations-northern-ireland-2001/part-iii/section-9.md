@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Authorisation of a biocidal product[^key-8996caf4d1c39404378695fcf3c3a342]
+## 9. Authorisation of a biocidal product[^c-8996caf4d1c39404378695fcf3c3a342]
 
 *Extent: N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8996caf4d1c39404378695fcf3c3a342]: Commencement: Reg. 9 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-8996caf4d1c39404378695fcf3c3a342]: Commencement: Reg. 9 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

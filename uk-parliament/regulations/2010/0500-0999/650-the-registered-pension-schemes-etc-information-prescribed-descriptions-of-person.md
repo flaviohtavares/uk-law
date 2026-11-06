@@ -46,13 +46,13 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred by paragraph 34B(8) of Schedule 36 to the Finance Act 2008[^f00001], make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-4a18df4b8b6fce5a62113e5204ada56e]
+## 1. Citation, commencement and interpretation[^c-4a18df4b8b6fce5a62113e5204ada56e]
 
 (1) These Regulations may be cited as the Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010 and shall come into force on 1st April 2010.
 
 (2) In these Regulations, “the description” means the prescribed description of person for the purposes of sub-paragraph (8) of paragraph 34B of Schedule 36 to the Finance Act 2008 (information and inspection powers: registered pension schemes etc).
 
-## 2. Prescribed descriptions of persons: registered pension schemes[^key-cd5dd06083e83d54b665a1e550c78f32]
+## 2. Prescribed descriptions of persons: registered pension schemes[^c-cd5dd06083e83d54b665a1e550c78f32]
 
 (1) In relation to a registered pension scheme, the descriptions are—
 
@@ -68,19 +68,19 @@ The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the po
 
 (3) “Sponsoring employer” has the meaning given by subsection (6) of section 150 of the Finance Act 2004[^f00002].
 
-## 2A. Prescribed descriptions of persons: QROPS and former QROPS[^key-e9fb04ddc7d6055288378b3364ce3da0]
+## 2A. Prescribed descriptions of persons: QROPS and former QROPS[^c-e9fb04ddc7d6055288378b3364ce3da0]
 
 (1) In relation to a QROPS or former QROPS the description is any person who is, or at any time during the relevant period has been, the scheme manager.
 
 (2) For the purposes of paragraph (1) the relevant period has the meaning given in regulation 2(2), subject to the substitution of “tenth” for “sixth” in regulation 2(2)(b).
 
-## 3. Prescribed description of persons: annuities purchased with pension scheme assets[^key-39cf5aac31111f92df5312e4f22fab95]
+## 3. Prescribed description of persons: annuities purchased with pension scheme assets[^c-39cf5aac31111f92df5312e4f22fab95]
 
 (1) In relation to an annuity purchased with sums or assets held for the purposes of a registered pension scheme or a pre-2006 pension scheme, the description is the insurance company or other person from whom the annuity has been purchased.
 
 (2) “Insurance company” has the meaning given by section 275 of the Finance Act 2004.
 
-## 4. Prescribed descriptions of persons: employer-financed retirement benefit schemes[^key-2b9170bc208f7b64b676ee1f8f3d93c7]
+## 4. Prescribed descriptions of persons: employer-financed retirement benefit schemes[^c-2b9170bc208f7b64b676ee1f8f3d93c7]
 
 (1) In relation to the coming into operation of an employer-financed retirement benefits scheme, the description is the responsible person at the time the scheme comes into operation.
 
@@ -117,16 +117,16 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2008 c.9](https://www.legislation.gov.uk/ukpga/2008/9). The definition of “prescribed” for the purposes of paragraph 34B(8) is set out in paragraph 34C. Paragraphs 34B and 34C were inserted by paragraph 11 of Schedule 48 to the [Finance Act 2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-4a18df4b8b6fce5a62113e5204ada56e]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+[^c-4a18df4b8b6fce5a62113e5204ada56e]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
 
-[^key-cd5dd06083e83d54b665a1e550c78f32]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+[^c-cd5dd06083e83d54b665a1e550c78f32]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
 
 [^f00002]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-e9fb04ddc7d6055288378b3364ce3da0]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2010/650/regulation/2A) inserted (E.W.S.) (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [25](https://www.legislation.gov.uk/uksi/2013/2259/regulation/25)
+[^c-e9fb04ddc7d6055288378b3364ce3da0]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2010/650/regulation/2A) inserted (E.W.S.) (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [25](https://www.legislation.gov.uk/uksi/2013/2259/regulation/25)
 
-[^key-39cf5aac31111f92df5312e4f22fab95]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+[^c-39cf5aac31111f92df5312e4f22fab95]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
 
-[^key-2b9170bc208f7b64b676ee1f8f3d93c7]: Commencement: Reg. 4 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+[^c-2b9170bc208f7b64b676ee1f8f3d93c7]: Commencement: Reg. 4 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
 
 [^f00003]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). Section 393B was inserted by subsection (3) of section 249 of the [Finance Act 2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).

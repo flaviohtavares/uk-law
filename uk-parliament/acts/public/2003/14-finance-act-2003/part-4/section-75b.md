@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75B. Anti-avoidance: incidental transactions[^key-17c7a06113a1f4d4bb2656f8933a4a3b]
+## 75B. Anti-avoidance: incidental transactions[^c-17c7a06113a1f4d4bb2656f8933a4a3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17c7a06113a1f4d4bb2656f8933a4a3b]: Textual amendment: Ss. 75A-75C inserted (with effect in accordance with s. 71(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/1) (with [s. 71(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/3))
+[^c-17c7a06113a1f4d4bb2656f8933a4a3b]: Textual amendment: Ss. 75A-75C inserted (with effect in accordance with s. 71(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/1) (with [s. 71(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/3))

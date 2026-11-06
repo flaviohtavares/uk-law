@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Procedure for reviews[^key-0cdbf9ce5b682eadfdebae06ecab6953]
+## 41. Procedure for reviews[^c-0cdbf9ce5b682eadfdebae06ecab6953]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cdbf9ce5b682eadfdebae06ecab6953]: Commencement: Reg. 41 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0cdbf9ce5b682eadfdebae06ecab6953]: Commencement: Reg. 41 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

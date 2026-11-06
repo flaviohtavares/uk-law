@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161C. Further provision about income reduction orders[^key-c035d2e2fca4c1b0c7f595e6ef5f515d]
+## 161C. Further provision about income reduction orders[^c-c035d2e2fca4c1b0c7f595e6ef5f515d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c035d2e2fca4c1b0c7f595e6ef5f515d]: Textual amendment: Pt. 7 Ch. 5 inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/3/1), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-c035d2e2fca4c1b0c7f595e6ef5f515d]: Textual amendment: Pt. 7 Ch. 5 inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/3/1), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)

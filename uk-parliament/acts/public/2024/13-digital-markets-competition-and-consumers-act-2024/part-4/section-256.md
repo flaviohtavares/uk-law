@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Pre-contract information[^key-02f25445e5684d36b45a6f6b5481712f]
+## 256. Pre-contract information[^c-02f25445e5684d36b45a6f6b5481712f]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f25445e5684d36b45a6f6b5481712f]: Commencement: S. 256 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-02f25445e5684d36b45a6f6b5481712f]: Commencement: S. 256 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)

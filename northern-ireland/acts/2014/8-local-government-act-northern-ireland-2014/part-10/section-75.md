@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Duties of departments in relation to community planning[^key-623e5e7cbe96e07eca13b024cc447d07]
+## 75. Duties of departments in relation to community planning[^c-623e5e7cbe96e07eca13b024cc447d07]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ So far as it is reasonably practicable to do so, every Northern Ireland departme
 
 ## Annotations
 
-[^key-623e5e7cbe96e07eca13b024cc447d07]: Commencement: [S. 75](https://www.legislation.gov.uk/nia/2014/8/section/75) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-623e5e7cbe96e07eca13b024cc447d07]: Commencement: [S. 75](https://www.legislation.gov.uk/nia/2014/8/section/75) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

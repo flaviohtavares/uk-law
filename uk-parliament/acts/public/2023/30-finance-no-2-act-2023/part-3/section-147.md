@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Accrued pension expense[^key-ca2295fb2573d430b03b5a0a808230ae]
+## 147. Accrued pension expense[^c-ca2295fb2573d430b03b5a0a808230ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca2295fb2573d430b03b5a0a808230ae]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/2023/30/section/147) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/7)
+[^c-ca2295fb2573d430b03b5a0a808230ae]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/2023/30/section/147) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/7)

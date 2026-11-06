@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Interpretation[^key-79d7fb0fd8193a2f812c7c30985df3da]
+## 35. Interpretation[^c-79d7fb0fd8193a2f812c7c30985df3da]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In this Part of the Regulations—
 
 ## Annotations
 
-[^key-79d7fb0fd8193a2f812c7c30985df3da]: Commencement: Reg. 35 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-79d7fb0fd8193a2f812c7c30985df3da]: Commencement: Reg. 35 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00109]: Footnote: [S.I. 2012/3144 (W.316)](https://www.legislation.gov.uk/wsi/2012/3144) as amended by [S.I. 2013/112 (W.17)](https://www.legislation.gov.uk/wsi/2013/112).

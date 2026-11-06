@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.6. Reference by the Criminal Cases Review Commission[^key-e403053483fe2027b62ca9e68bcbb080]
+## 34.6. Reference by the Criminal Cases Review Commission[^c-e403053483fe2027b62ca9e68bcbb080]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ not more than 15 business days later.
 
 ## Annotations
 
-[^key-e403053483fe2027b62ca9e68bcbb080]: Commencement: [Rule 34.6](https://www.legislation.gov.uk/uksi/2025/909/rule/34.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e403053483fe2027b62ca9e68bcbb080]: Commencement: [Rule 34.6](https://www.legislation.gov.uk/uksi/2025/909/rule/34.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

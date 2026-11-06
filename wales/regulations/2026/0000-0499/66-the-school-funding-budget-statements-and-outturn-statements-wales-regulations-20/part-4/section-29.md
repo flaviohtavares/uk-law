@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Required content of schemes[^key-bc30b86b43f9f48b5b9514df47d74d40]
+## 29. Required content of schemes[^c-bc30b86b43f9f48b5b9514df47d74d40]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A financial scheme must deal with the matters connected with the financing of sc
 
 ## Annotations
 
-[^key-bc30b86b43f9f48b5b9514df47d74d40]: Commencement: Reg. 29 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-bc30b86b43f9f48b5b9514df47d74d40]: Commencement: Reg. 29 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

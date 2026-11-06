@@ -36,7 +36,7 @@ An Act to re-state, with amendments, Part IV of the Social Security Administrati
 
 \[19th March 1997\]
 
-[^c949862]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9d016b75afb899db60bdf7ebc1e722b0][^key-298edbb2416636e2cf84df81a9912a5b]
+[^c949862]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9d016b75afb899db60bdf7ebc1e722b0][^c-298edbb2416636e2cf84df81a9912a5b]
 
 ## Introductory
 
@@ -51,13 +51,13 @@ An Act to re-state, with amendments, Part IV of the Social Security Administrati
 
 (2) The reference above to a payment in consequence of any accident, injury or disease is to a payment made—
 
-- (a) by or on behalf of a person who is, or is alleged to be, liable to any extent in respect of the accident, injury or disease, [^key-e2e6bdda0e2932f3147ccaaaa9985dd3]...
-- (b) in pursuance of a compensation scheme for motor accidents, or[^key-96d49ce63c7fcd7c75ab86f1c4bbcabd]
+- (a) by or on behalf of a person who is, or is alleged to be, liable to any extent in respect of the accident, injury or disease, [^c-e2e6bdda0e2932f3147ccaaaa9985dd3]...
+- (b) in pursuance of a compensation scheme for motor accidents, or[^c-96d49ce63c7fcd7c75ab86f1c4bbcabd]
 - (c) under the Diffuse Mesothelioma Payment Scheme (established under the Mesothelioma Act 2014);
 
 but does not include a payment mentioned in Part I of Schedule 1.
 
-(3)[^key-c451341fd28e892acbd848499389cdc8] Subsection (1)(a) applies to a payment made—
+(3)[^c-c451341fd28e892acbd848499389cdc8] Subsection (1)(a) applies to a payment made—
 
 - (a) voluntarily, or in pursuance of a court order or an agreement, or otherwise, and
 - (b) in the United Kingdom or elsewhere.
@@ -68,7 +68,7 @@ but does not include a payment mentioned in Part I of Schedule 1.
 - (b) the “**compensation payment**” is the payment within subsection (1)(a), and
 - (c) “**recoverable benefit**” is any listed benefit which has been or is likely to be paid as mentioned in subsection (1)(b).
 
-### 1A. Lump sum payments: regulation-making power[^key-34bd9f04b965b88c9e33a8720f4c920d]
+### 1A. Lump sum payments: regulation-making power[^c-34bd9f04b965b88c9e33a8720f4c920d]
 
 (1) The Secretary of State may by regulations make provision about the recovery of the amount of a payment to which subsection (2) applies (a “lump sum payment”) where—
 
@@ -78,8 +78,8 @@ but does not include a payment mentioned in Part I of Schedule 1.
 (2) This subsection applies to—
 
 - (a) a payment made in accordance with the Pneumoconiosis etc. (Workers' Compensation) Act 1979 (“**the 1979 Act**”),
-- (b) a payment made in accordance with Part 4 of the Child Maintenance and Other Payments Act 2008, [^key-74a64890a3bc3d27bae066e2c20d0373]...
-- (c) an extra-statutory payment (within the meaning given by subsection (5)(d) below) , and[^key-4b153a8f6dd089c0700f7956f2b8d366]
+- (b) a payment made in accordance with Part 4 of the Child Maintenance and Other Payments Act 2008, [^c-74a64890a3bc3d27bae066e2c20d0373]...
+- (c) an extra-statutory payment (within the meaning given by subsection (5)(d) below) , and[^c-4b153a8f6dd089c0700f7956f2b8d366]
 - (d) a payment under the Diffuse Mesothelioma Payment Scheme (established under the Mesothelioma Act 2014),
 
 (but this subsection does not apply to a payment within paragraph (d) in a case where the compensation payment is itself such a payment).
@@ -94,7 +94,7 @@ but does not include a payment mentioned in Part I of Schedule 1.
 
 (4) References in subsection (1) to a payment made in consequence of a disease—
 
-- (a) are references to a payment made as specified in section 1(2)(a) or (c)[^key-322295f6e3ad9d6bd2973023b01cd537] in respect of the disease, but
+- (a) are references to a payment made as specified in section 1(2)(a) or (c)[^c-322295f6e3ad9d6bd2973023b01cd537] in respect of the disease, but
 - (b) do not include references to a payment mentioned in Part 1 of Schedule 1.
 
 (5) In this section—
@@ -210,7 +210,7 @@ and (in either case) issue him with a demand that payment of any amount due unde
 
 (3) The Secretary of State may, in accordance with subsections (4) and (5), recover the amount for which a demand for payment is made under subsection (2) from the person who made the compensation payment.
 
-(4) If the person who made the compensation payment resides or carries on business in England and Wales and the county court[^key-24f16b408af9be7b4357f5a603523b26] so orders, any amount recoverable under subsection (3) is recoverable under section 85 of the County Courts Act 1984[^key-1c17912e6f12c65c073c52991a646968] or otherwise as if it were payable under an order of that court.
+(4) If the person who made the compensation payment resides or carries on business in England and Wales and the county court[^c-24f16b408af9be7b4357f5a603523b26] so orders, any amount recoverable under subsection (3) is recoverable under section 85 of the County Courts Act 1984[^c-1c17912e6f12c65c073c52991a646968] or otherwise as if it were payable under an order of that court.
 
 (5) If the person who made the payment resides or carries on business in Scotland, any amount recoverable under subsection (3) may be enforced in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
@@ -253,7 +253,7 @@ less
 
 (and, accordingly, the amount may be nil).
 
-### 8A. Reduction of payment under Diffuse Mesothelioma Payment Scheme[^key-07c240d5eaac5a2ed27667ecc6100910]
+### 8A. Reduction of payment under Diffuse Mesothelioma Payment Scheme[^c-07c240d5eaac5a2ed27667ecc6100910]
 
 (1) This section applies instead of section 8 in a case where the compensation payment is a payment under the Diffuse Mesothelioma Payment Scheme.
 
@@ -269,30 +269,30 @@ less
 
 ### 9. Section 8: supplementary.
 
-(1) A person who makes a compensation payment calculated in accordance with section 8 or 8A[^key-7e402667b499474f5e8fa3feade85dd9] must inform the person to whom the payment is made—
+(1) A person who makes a compensation payment calculated in accordance with section 8 or 8A[^c-7e402667b499474f5e8fa3feade85dd9] must inform the person to whom the payment is made—
 
 - (a) that the payment has been so calculated, and
 - (b) of the date for payment by reference to which the calculation has been made.
 
-(2) If the amount of a compensation payment calculated in accordance with section 8 or 8A[^key-95c5484fb55a9df6917b89045df44b6d] is nil, a person giving a statement saying so is to be treated for the purposes of this Act as making a payment within section 1(1)(a) on the day on which he gives the statement.
+(2) If the amount of a compensation payment calculated in accordance with section 8 or 8A[^c-95c5484fb55a9df6917b89045df44b6d] is nil, a person giving a statement saying so is to be treated for the purposes of this Act as making a payment within section 1(1)(a) on the day on which he gives the statement.
 
 (3) Where a person—
 
-- (a) makes a compensation payment calculated in accordance with section 8 or 8A[^key-057f26c12eae51a8c6f6718e9e107c95], and
+- (a) makes a compensation payment calculated in accordance with section 8 or 8A[^c-057f26c12eae51a8c6f6718e9e107c95], and
 - (b) if the amount of the compensation payment so calculated is nil, gives a statement saying so,
 
 he is to be treated, for the purpose of determining any rights and liabilities in respect of contribution or indemnity, as having paid the gross amount of the compensation payment.
 
 (4) For the purposes of this Act—
 
-- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from section 8 or 8A[^key-cf214afdb5c847bf5543577c4d9505f4], and
+- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from section 8 or 8A[^c-cf214afdb5c847bf5543577c4d9505f4], and
 - (b) the amount of any recoverable benefit is the amount determined in accordance with the certificate of recoverable benefits.
 
 ## Reviews and appeals
 
 *Extent: E+W+S*
 
-### 10. Review of certificates of recoverable benefits.[^c949866][^key-d4360adda26f8811d5ec3f8d4b648c39]
+### 10. Review of certificates of recoverable benefits.[^c949866][^c-d4360adda26f8811d5ec3f8d4b648c39]
 
 (1)[^c949867] Any certificate of recoverable benefits may be reviewed by the Secretary of State—
 
@@ -307,9 +307,9 @@ he is to be treated, for the purpose of determining any rights and liabilities i
 
 (3) The Secretary of State may not vary the certificate so as to increase the total amount of the recoverable benefits unless it appears to him that the variation is required as a result of the person who applied for the certificate supplying him with incorrect or insufficient information.
 
-(4)[^key-4037cfa28ebcb8e16b85b977332ffd04] The scheme administrator of the Diffuse Mesothelioma Payment Scheme may not apply for a review under this section.
+(4)[^c-4037cfa28ebcb8e16b85b977332ffd04] The scheme administrator of the Diffuse Mesothelioma Payment Scheme may not apply for a review under this section.
 
-### 11. Appeals against certificates of recoverable benefits.[^c949873][^key-d4360adda26f8811d5ec3f8d4b648c39]
+### 11. Appeals against certificates of recoverable benefits.[^c949873][^c-d4360adda26f8811d5ec3f8d4b648c39]
 
 (1) An appeal against a certificate of recoverable benefits may be made on the ground—
 
@@ -322,11 +322,11 @@ he is to be treated, for the purpose of determining any rights and liabilities i
 
 - (a) the person who applied for the certificate of recoverable benefits, or
 - (aa)[^c949875] (in a case where that certificate was issued under section 7(2)(a)) the person to whom it was so issued, or
-- (b) (in a case where the amount of the compensation payment has been calculated under section 8 or 8A[^key-03f063872968cf46166c4acf467fe4c2]) the injured person or other person to whom the payment is made.
+- (b) (in a case where the amount of the compensation payment has been calculated under section 8 or 8A[^c-03f063872968cf46166c4acf467fe4c2]) the injured person or other person to whom the payment is made.
 
-but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this section.[^key-498cf06cece2b90df176cdf85b0b3451]
+but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this section.[^c-498cf06cece2b90df176cdf85b0b3451]
 
-(2A)[^key-64b558a878e42a1ec47e9793a23e18b9] Regulations may provide that, in such cases or circumstances as may be prescribed, an appeal may be made under this section only if the Secretary of State has reviewed the certificate under section 10.
+(2A)[^c-64b558a878e42a1ec47e9793a23e18b9] Regulations may provide that, in such cases or circumstances as may be prescribed, an appeal may be made under this section only if the Secretary of State has reviewed the certificate under section 10.
 
 (2B) The regulations may in particular provide that that condition is met only where—
 
@@ -341,7 +341,7 @@ but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not 
 
 (4) For the purposes of subsection (3)(a), if an award of damages in respect of a claim has been made under or by virtue of—
 
-- (a) section 32A(2)(a) of the [^c949876]Senior Courts Act 1981[^key-425cc45d84fcce6606fe4ef2684206f0],
+- (a) section 32A(2)(a) of the [^c949876]Senior Courts Act 1981[^c-425cc45d84fcce6606fe4ef2684206f0],
 - (b) section 12(2)(a) of the [^c949877]Administration of Justice Act 1982, or
 - (c) section 51(2)(a) of the [^c949878]County Courts Act 1984,
 
@@ -350,18 +350,18 @@ but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not 
 (5) Regulations may make provision—
 
 - (a) as to the manner in which, and the time within which, appeals under this section may be made,
-- (b)[^key-6c61c2a84300fab251283f6e4c366bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) for the purpose of enabling any such appeal (or, where in accordance with regulations under subsection (2A) there is no right of appeal, any purported appeal)[^key-1747dcb65dc0c456ae17c70e88ad931e] to be treated as an application for review under section 10.
+- (b)[^c-6c61c2a84300fab251283f6e4c366bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) for the purpose of enabling any such appeal (or, where in accordance with regulations under subsection (2A) there is no right of appeal, any purported appeal)[^c-1747dcb65dc0c456ae17c70e88ad931e] to be treated as an application for review under section 10.
 
 (6)[^c949879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Reference of questions to First-tier Tribunal.[^c949882][^c949883][^key-d4360adda26f8811d5ec3f8d4b648c39][^key-b60b16ad1a780162ce928ad10f414356]
+### 12. Reference of questions to First-tier Tribunal.[^c949882][^c949883][^c-d4360adda26f8811d5ec3f8d4b648c39][^c-b60b16ad1a780162ce928ad10f414356]
 
-(1)[^c949884] The Secretary of State must refer an appeal under section 11 to the First-tier Tribunal[^key-aecc5e08fc81290c6e8aac0aeaf75e11].
+(1)[^c949884] The Secretary of State must refer an appeal under section 11 to the First-tier Tribunal[^c-aecc5e08fc81290c6e8aac0aeaf75e11].
 
 (3) In determining any appeal under section 11[^c949885], the tribunal must take into account any decision of a court relating to the same, or any similar, issue arising in connection with the accident, injury or disease in question.
 
-(4) On an appeal under section 11[^c949886] the First-tier Tribunal[^key-43e174c113abc62dfcbb8415920a92c2] may either—
+(4) On an appeal under section 11[^c949886] the First-tier Tribunal[^c-43e174c113abc62dfcbb8415920a92c2] may either—
 
 - (a) confirm the amounts, rates and periods specified in the certificate of recoverable benefits, or
 - (b) specify any variations which are to be made on the issue of a fresh certificate under subsection (5) or.[^c949887]
@@ -379,24 +379,24 @@ but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not 
 
 (8)[^c949892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Appeal to Upper Tribunal.[^c949894][^key-d4360adda26f8811d5ec3f8d4b648c39][^key-278334d5c823c6c3562e0a5aa7f29127]
+### 13. Appeal to Upper Tribunal.[^c949894][^c-d4360adda26f8811d5ec3f8d4b648c39][^c-278334d5c823c6c3562e0a5aa7f29127]
 
-(1)[^key-1c1d48e9b4c5bd52bb1d34cc13773307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1c1d48e9b4c5bd52bb1d34cc13773307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) An appeal to the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 which arises from any decision of the First-Tier Tribunal made under section 12 of this Act[^key-609d8aa3972b345cd256b674df7fed01] may be made by—
+(2) An appeal to the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 which arises from any decision of the First-Tier Tribunal made under section 12 of this Act[^c-609d8aa3972b345cd256b674df7fed01] may be made by—
 
 - (a) the Secretary of State,
 - (b) the person who applied for the certificate of recoverable benefits, [^c949896]. . .
 - (bb)[^c949897] (in a case where that certificate was issued under section 7(2)(a)) the person to whom it was so issued, or
-- (c) (in a case where the amount of the compensation payment has been calculated in accordance with section 8 or 8A[^key-9e43d25599340c6c5ab63dfcb1ece91d]) the injured person or other person to whom the payment is made.
+- (c) (in a case where the amount of the compensation payment has been calculated in accordance with section 8 or 8A[^c-9e43d25599340c6c5ab63dfcb1ece91d]) the injured person or other person to whom the payment is made.
 
-but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this section.[^key-f4d2d1d8fe5ad5727161e668197c4f15]
+but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this section.[^c-f4d2d1d8fe5ad5727161e668197c4f15]
 
-(3)[^key-2615cffd218ebc9154cf047c929818e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2615cffd218ebc9154cf047c929818e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c949899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Reviews and appeals: supplementary.[^c949900][^key-d4360adda26f8811d5ec3f8d4b648c39]
+### 14. Reviews and appeals: supplementary.[^c949900][^c-d4360adda26f8811d5ec3f8d4b648c39]
 
 (1) This section applies in cases where a fresh certificate of recoverable benefits is issued as a result of a review under section 10 or an appeal under section 11.
 
@@ -416,7 +416,7 @@ regulations may provide for that person to pay the difference to the Secretary o
 
 (4) Regulations under this section may provide—
 
-- (a) for the re-calculation in accordance with section 8 or 8A[^key-f5e67e5b19856092708be665a5af04b0] of the amount of any compensation payment,
+- (a) for the re-calculation in accordance with section 8 or 8A[^c-f5e67e5b19856092708be665a5af04b0] of the amount of any compensation payment,
 - (b) for giving credit for amounts already paid, and
 - (c) for the payment by any person of any balance or the recovery from any person of any excess,
 
@@ -426,7 +426,7 @@ and may provide for any matter by modifying this Act.
 
 *Extent: E+W+S*
 
-### 15. Court orders.[^key-77b61386ea0fc19c4228faaca6f8885e]
+### 15. Court orders.[^c-77b61386ea0fc19c4228faaca6f8885e]
 
 (1) This section applies where a court makes an order for a compensation payment to be made in any case, unless the order is made with the consent of the injured person and the person by whom the payment is to be made.
 
@@ -448,7 +448,7 @@ and may provide for any matter by modifying this Act.
 
 (4) This section does not extend to Scotland.
 
-### 17. Benefits irrelevant to assessment of damages.[^key-1e06d9d2d54a92c7912a946aeb7e15f6]
+### 17. Benefits irrelevant to assessment of damages.[^c-1e06d9d2d54a92c7912a946aeb7e15f6]
 
 In assessing damages in respect of any accident, injury or disease, the amount of any listed benefits paid or likely to be paid is to be disregarded.
 
@@ -456,7 +456,7 @@ In assessing damages in respect of any accident, injury or disease, the amount o
 
 *Extent: E+W+S*
 
-### 18. Lump sum and periodical payments.[^c949902][^key-3b303e0529254ca39b928058f56db713]
+### 18. Lump sum and periodical payments.[^c949902][^c-3b303e0529254ca39b928058f56db713]
 
 (1) Regulations may make provision (including provision modifying this Act) for any case in which two or more compensation payments in the form of lump sums are made by the same person to or in respect of the injured person in consequence of the same accident, injury or disease.
 
@@ -485,7 +485,7 @@ and for the amount of any recoverable benefit shown against any head in column 2
 
 (6) A periodical payment may be a compensation payment for the purposes of this section even though it is a small payment (as defined in Part II of Schedule 1).
 
-### 19. Payments by more than one person.[^c949903][^key-3b303e0529254ca39b928058f56db713]
+### 19. Payments by more than one person.[^c949903][^c-3b303e0529254ca39b928058f56db713]
 
 (1) Regulations may make provision (including provision modifying this Act) for any case in which two or more persons (“**the compensators**”) make compensation payments to or in respect of the same injured person in consequence of the same accident, injury or disease.
 
@@ -494,7 +494,7 @@ and for the amount of any recoverable benefit shown against any head in column 2
 (3) The regulations may (among other things) provide in the case of each compensator—
 
 - (a) for determining or re-determining the part of the recoverable benefits which may be taken into account in his case,
-- (b) for calculating or re-calculating in accordance with section 8 or 8A[^key-44ef28d035f9c8da289ac485c565507e] the amount of any compensation payment,
+- (b) for calculating or re-calculating in accordance with section 8 or 8A[^c-44ef28d035f9c8da289ac485c565507e] the amount of any compensation payment,
 - (c) for giving credit for amounts already paid, and
 - (d) for the payment by any person of any balance or the recovery from any person of any excess.
 
@@ -502,7 +502,7 @@ and for the amount of any recoverable benefit shown against any head in column 2
 
 *Extent: E+W+S*
 
-### 20. Amounts overpaid under section 6.[^key-61271193859009525a8762d2338895e5]
+### 20. Amounts overpaid under section 6.[^c-61271193859009525a8762d2338895e5]
 
 (1) Regulations may make provision (including provision modifying this Act) for cases where a person has paid to the Secretary of State under section 6 any amount (“**the amount of the overpayment**”) which he was not liable to pay.
 
@@ -515,15 +515,15 @@ and for the amount of any recoverable benefit shown against any head in column 2
 
 (4) The regulations may also (among other things) provide—
 
-- (a) for the re-calculation in accordance with section 8 or 8A[^key-0b2753d9f2e5bd22035b75be97f1748f] of the amount of any compensation payment,
+- (a) for the re-calculation in accordance with section 8 or 8A[^c-0b2753d9f2e5bd22035b75be97f1748f] of the amount of any compensation payment,
 - (b) for giving credit for amounts already paid, and
 - (c) for the payment by any person of any balance or the recovery from any person of any excess.
 
 (5) This section does not apply in a case where section 14 applies.
 
-### 21. Compensation payments to be disregarded.[^c949905][^key-61271193859009525a8762d2338895e5]
+### 21. Compensation payments to be disregarded.[^c949905][^c-61271193859009525a8762d2338895e5]
 
-(1) If, when a compensation payment is made, the first and second conditions are met, the payment is to be disregarded for the purposes of sections 6 and 8 or 8A[^key-01f98c92fa56eb08a2988185dea4d2e2].
+(1) If, when a compensation payment is made, the first and second conditions are met, the payment is to be disregarded for the purposes of sections 6 and 8 or 8A[^c-01f98c92fa56eb08a2988185dea4d2e2].
 
 (2) The first condition is that the person making the payment—
 
@@ -539,7 +539,7 @@ and for the amount of any recoverable benefit shown against any head in column 2
 
 (5) In any case where—
 
-- (a) by virtue of subsection (1), a compensation payment is disregarded for the purposes of sections 6 and 8 or 8A[^key-bb16b081f2277ad29ac53daab9662666], but
+- (a) by virtue of subsection (1), a compensation payment is disregarded for the purposes of sections 6 and 8 or 8A[^c-bb16b081f2277ad29ac53daab9662666], but
 - (b) the person who made the compensation payment nevertheless makes a payment to the Secretary of State for which (but for subsection (1)) he would be liable under section 6,
 
 subsection (1) is to cease to apply in relation to the compensation payment.
@@ -549,7 +549,7 @@ subsection (1) is to cease to apply in relation to the compensation payment.
 - (a) he may by order provide that subsection (1) is not to apply during a specified period not exceeding three months, and
 - (b) he may continue any such order in force for further periods not exceeding three months at a time.
 
-### 22. Liability of insurers.[^key-61271193859009525a8762d2338895e5]
+### 22. Liability of insurers.[^c-61271193859009525a8762d2338895e5]
 
 (1) If a compensation payment is made in a case where—
 
@@ -572,7 +572,7 @@ the policy is also to be treated as covering any liability of that person under 
 
 (6) References in this section to policies of insurance and their issue include references to contracts of insurance and their making.
 
-### 23. Provision of information.[^c949906][^key-61271193859009525a8762d2338895e5]
+### 23. Provision of information.[^c949906][^c-61271193859009525a8762d2338895e5]
 
 (1) Where compensation is sought in respect of any accident, injury or disease suffered by any person (“**the injured person**”), the following persons must give the Secretary of State the prescribed information about the injured person—
 
@@ -594,7 +594,7 @@ any accident, injury or disease, or any damage to property, must, if the Secreta
 
 (6) In subsection (5) “**employer**” has the same meaning as it has in Part XI of the [^c949907]Social Security Contributions and Benefits Act 1992.
 
-(6A)[^key-4e342dd61c37e4f748c7ceb46dce8995] The following persons must give the Secretary of State the prescribed information for the purposes of this Act—
+(6A)[^c-4e342dd61c37e4f748c7ceb46dce8995] The following persons must give the Secretary of State the prescribed information for the purposes of this Act—
 
 - (a) the scheme administrator of the Diffuse Mesothelioma Payment Scheme, and
 - (b) any person providing services to the scheme administrator.
@@ -618,7 +618,7 @@ An Order in Council made under paragraph 1(1)(b) of Schedule 1 to the [^c949908]
 - (a) shall not be subject to sub-paragraphs (4) and (5) of paragraph 1 of that Schedule (affirmative resolution of both Houses of Parliament), but
 - (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 26. Residence of the injured person.[^key-21477017186f11fa07e1b2bbe17eb8bd]
+### 26. Residence of the injured person.[^c-21477017186f11fa07e1b2bbe17eb8bd]
 
 (1) In a case where this Act applies, if the injured person’s address is in Northern Ireland—
 
@@ -656,7 +656,7 @@ An Order in Council made under paragraph 1(1)(b) of Schedule 1 to the [^c949908]
   - (ii) a certificate, means a certificate under those provisions corresponding to the certificate of recoverable benefits, and
   - (iii) a compensation payment, means a compensation payment within the meaning of those provisions.
 
-### 27. Jurisdiction of courts.[^key-21477017186f11fa07e1b2bbe17eb8bd]
+### 27. Jurisdiction of courts.[^c-21477017186f11fa07e1b2bbe17eb8bd]
 
 (1) In a case where this Act applies, if immediately before making a compensation payment a person—
 
@@ -681,43 +681,43 @@ any provision of the Northern Ireland provisions corresponding to subsection (4)
 
 ## General
 
-### 28. The Crown.[^key-2b2dfcc73e83dac60cf06e7ff24619c4]
+### 28. The Crown.[^c-2b2dfcc73e83dac60cf06e7ff24619c4]
 
 *Extent: E+W+S*
 
 This Act applies to the Crown.
 
-### 29. General interpretation.[^key-2b2dfcc73e83dac60cf06e7ff24619c4]
+### 29. General interpretation.[^c-2b2dfcc73e83dac60cf06e7ff24619c4]
 
 *Extent: E+W+S*
 
 In this Act—
 
-- [^key-f8c983c5b42a1af9e645b3807dcbabcb]...
-- “**benefit**” means universal credit[^key-d0529dd661506c96b3d4e2c778023f56] any benefit under the [^c949911]Social Security Contributions and Benefits Act 1992, a jobseeker’s allowance, an employment and support allowance[^key-d939b1597da8d859e3b091ce47aec330], personal independence payment[^key-005ba47c98fa35e812e3cccc72ff7a15] or mobility allowance,
-- [^key-f8c983c5b42a1af9e645b3807dcbabcb]...
+- [^c-f8c983c5b42a1af9e645b3807dcbabcb]...
+- “**benefit**” means universal credit[^c-d0529dd661506c96b3d4e2c778023f56] any benefit under the [^c949911]Social Security Contributions and Benefits Act 1992, a jobseeker’s allowance, an employment and support allowance[^c-d939b1597da8d859e3b091ce47aec330], personal independence payment[^c-005ba47c98fa35e812e3cccc72ff7a15] or mobility allowance,
+- [^c-f8c983c5b42a1af9e645b3807dcbabcb]...
 - “**compensation scheme for motor accidents**” means any scheme or arrangement under which funds are available for the payment of compensation in respect of motor accidents caused, or alleged to have been caused, by uninsured or unidentified persons,
 - “**listed benefit**” means a benefit listed in column 2 of Schedule 2,
 - “**payment**” means payment in money or money’s worth, and related expressions are to be interpreted accordingly,
 - “**prescribed**” means prescribed by regulations, and
 - “**regulations**” means regulations made by the Secretary of State.
-- “[^key-fe787d37f9aa80a0bff7c28a38dd0942]**scheme administrator**”, in relation to the Diffuse Mesothelioma Payment Scheme, has the meaning given by section 18 of the Mesothelioma Act 2014.
+- “[^c-fe787d37f9aa80a0bff7c28a38dd0942]**scheme administrator**”, in relation to the Diffuse Mesothelioma Payment Scheme, has the meaning given by section 18 of the Mesothelioma Act 2014.
 
-### 30. Regulations and orders.[^key-2b2dfcc73e83dac60cf06e7ff24619c4]
+### 30. Regulations and orders.[^c-2b2dfcc73e83dac60cf06e7ff24619c4]
 
 *Extent: E+W+S*
 
 (1) Any power under this Act to make regulations or an order is exercisable by statutory instrument.
 
-(2) A statutory instrument containing regulations or an order under this Act (other than regulations under section 11(2A) or[^key-e0e5060313b5730a5c814af1d1ed778c] 24 or an order under section 34) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2) A statutory instrument containing regulations or an order under this Act (other than regulations under section 11(2A) or[^c-e0e5060313b5730a5c814af1d1ed778c] 24 or an order under section 34) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2A)[^key-58b4c14956710764f39868ccb85a4f38] A statutory instrument containing regulations under section 11(2A) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+(2A)[^c-58b4c14956710764f39868ccb85a4f38] A statutory instrument containing regulations under section 11(2A) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
 (3) Regulations under section 20, under section 24 amending the list of benefits in column 2 of Schedule 2 or under paragraph 9 of Schedule 1 may not be made without the consent of the Treasury.
 
 (4) Subsections (4), (5), (6) and (9) of section 189 of the [^c949913]Social Security Administration Act 1992 (regulations and orders—general) apply for the purposes of this Act as they apply for the purposes of that.
 
-### 31. Financial arrangements.[^key-2b2dfcc73e83dac60cf06e7ff24619c4]
+### 31. Financial arrangements.[^c-2b2dfcc73e83dac60cf06e7ff24619c4]
 
 *Extent: E+W+S*
 
@@ -748,7 +748,7 @@ In this Act—
 - (b) for compensation payments in relation to which, by virtue of section 2, this Act applies to be treated as payments in relation to which this Act does not apply, and
 - (c) for the modification of any enactment contained in this Act or referred to in subsection (1)(b) in its application to any compensation payment.
 
-### 33. Consequential amendments and repeals.[^key-a2dee4fc346d7eeba6985e6803b820ae]
+### 33. Consequential amendments and repeals.[^c-a2dee4fc346d7eeba6985e6803b820ae]
 
 (1) Schedule 3 (which makes consequential amendments) is to have effect.
 
@@ -756,25 +756,25 @@ In this Act—
 
 ### 34. Short title, commencement and extent.
 
-(1)[^key-e27342a39e22f2858a7f6309e5afbb82] This Act may be cited as the Social Security (Recovery of Benefits) Act 1997.
+(1)[^c-e27342a39e22f2858a7f6309e5afbb82] This Act may be cited as the Social Security (Recovery of Benefits) Act 1997.
 
 (2)[^c949914] Sections 1 to 24, 26 to 28 and 33 are to come into force on such day as the Secretary of State may by order appoint, and different days may be appointed for different purposes.
 
-(3)[^key-34050ee9907efbb7edddb950433922e6] Apart from sections 25 to 27, section 33 so far as it relates to any enactment which extends to Northern Ireland, and this section this Act does not extend to Northern Ireland.
+(3)[^c-34050ee9907efbb7edddb950433922e6] Apart from sections 25 to 27, section 33 so far as it relates to any enactment which extends to Northern Ireland, and this section this Act does not extend to Northern Ireland.
 
 *Extent: E+W+S*
 
 SCHEDULES
 
-## SCHEDULE 1 — Compensation payments[^key-86a855b2f1c62d6620555af8fcf39a32]
+## SCHEDULE 1 — Compensation payments[^c-86a855b2f1c62d6620555af8fcf39a32]
 
 Section 1.
 
-### Part I — Exempted payments[^key-c1e44a9b4c1546e41446b43894e09a83]
+### Part I — Exempted payments[^c-c1e44a9b4c1546e41446b43894e09a83]
 
 **1.** Any small payment (defined in Part II of this Schedule).
 
-**2.** Any payment made to or for the injured person under section 130 of the Powers of Criminal Courts (Sentencing) Act[^c949917] 2000,[^key-9b7d46339b9165296eb95c985c266393] or Chapter 2 of Part 7 of the Sentencing Code,[^key-e405f88f168e7ed4d4e5427fe2e1fcde] section 8 of the Modern Slavery Act 2015, section 175 of the Armed Forces Act 2006[^key-472a5c5faa04120fc98717d126cc2113] or section 249 of the [^c949918]Criminal Procedure (Scotland) Act 1995 (compensation orders against convicted persons).
+**2.** Any payment made to or for the injured person under section 130 of the Powers of Criminal Courts (Sentencing) Act[^c949917] 2000,[^c-9b7d46339b9165296eb95c985c266393] or Chapter 2 of Part 7 of the Sentencing Code,[^c-e405f88f168e7ed4d4e5427fe2e1fcde] section 8 of the Modern Slavery Act 2015, section 175 of the Armed Forces Act 2006[^c-472a5c5faa04120fc98717d126cc2113] or section 249 of the [^c949918]Criminal Procedure (Scotland) Act 1995 (compensation orders against convicted persons).
 
 **3.** Any payment made in the exercise of a discretion out of property held subject to a trust in a case where no more than 50 per cent. by value of the capital contributed to the trust was directly or indirectly provided by persons who are, or are alleged to be, liable in respect of—
 
@@ -790,8 +790,8 @@ Section 1.
 
 (2)[^c949923] “Insurer” means—
 
-- (a) a person who has permission under Part 4A[^key-c726631272649d49d0e5c5ab3ee49229] of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance; or
-- (b)[^key-75352fe65f1bb64a6ef2b6a70bc615c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person who has permission under Part 4A[^c-c726631272649d49d0e5c5ab3ee49229] of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance; or
+- (b)[^c-75352fe65f1bb64a6ef2b6a70bc615c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Sub-paragraph (2) must be read with—
 
@@ -816,16 +816,16 @@ Section 1.
 - (a) two or more compensation payments are “**connected**” if each is made to or in respect of the same injured person and in respect of the same accident, injury or disease, and
 - (b) any reference to a compensation payment is a reference to a payment which would be such a payment apart from paragraph 1.
 
-## SCHEDULE 2 — Calculation of compensation payment[^key-1b8ee2529fa95621e5038e3e2bb45381][^key-c3b41cd290f6aedb938731fe560be814]
+## SCHEDULE 2 — Calculation of compensation payment[^c-1b8ee2529fa95621e5038e3e2bb45381][^c-c3b41cd290f6aedb938731fe560be814]
 
 Section 8.
 
 | (1) | (2) |
 | --- | --- |
 | *Head of compensation* | *Benefit* |
-| 1\. Compensation for earnings lost during the relevant period | [^c949924]Universal credit[^key-482c60abd074c863615bc2fcf0a0b7ec]. . . |
+| 1\. Compensation for earnings lost during the relevant period | [^c949924]Universal credit[^c-482c60abd074c863615bc2fcf0a0b7ec]. . . |
 |  | Disablement pension payable under section 103 of the 1992 Act |
-|  | Employment and support allowance[^key-113097084749e6f43aa5dd9647349d08] |
+|  | Employment and support allowance[^c-113097084749e6f43aa5dd9647349d08] |
 |  | Incapacity benefit |
 |  | Income support |
 |  | Invalidity pension and allowance |
@@ -844,7 +844,7 @@ Section 8.
 |  | Mobility component of personal independence payment |
 |  | Mobility component of disability living allowance |
 
-### 1. NOTES[^key-1b8ee2529fa95621e5038e3e2bb45381][^key-c3b41cd290f6aedb938731fe560be814]
+### 1. NOTES[^c-1b8ee2529fa95621e5038e3e2bb45381][^c-c3b41cd290f6aedb938731fe560be814]
 
 (1) References to incapacity benefit, invalidity pension and allowance, severe disablement allowance, sickness benefit and unemployment benefit also include any income support paid with each of those benefits on the same instrument of payment or paid concurrently with each of those benefits by means of an instrument for benefit payment.
 
@@ -928,51 +928,51 @@ Section 33(2).
 
     Act: power to amend conferred (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 87](https://www.legislation.gov.uk/ukpga/1998/47/section/87); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 
-[^key-9d016b75afb899db60bdf7ebc1e722b0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/27) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by SI 2010/1906, reg. 2)
+[^c-9d016b75afb899db60bdf7ebc1e722b0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/27) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by SI 2010/1906, reg. 2)
 
-[^key-298edbb2416636e2cf84df81a9912a5b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/27) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-298edbb2416636e2cf84df81a9912a5b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/27) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
 [^c949863]: Commencement: S. 1 wholly in force at 6.10.1997; s. 1 not in force at Royal Assent see s. 34(2); s. 1(2) in force for certain purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 1 force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2](https://www.legislation.gov.uk/uksi/1997/2085/article/2)
 
-[^key-e2e6bdda0e2932f3147ccaaaa9985dd3]: Textual amendment: Word in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/1/2/a) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/2/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-e2e6bdda0e2932f3147ccaaaa9985dd3]: Textual amendment: Word in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/1/2/a) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/2/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-96d49ce63c7fcd7c75ab86f1c4bbcabd]: Textual amendment: [S. 1(2)(c)](https://www.legislation.gov.uk/ukpga/1997/27/section/1/2/c) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/2/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-96d49ce63c7fcd7c75ab86f1c4bbcabd]: Textual amendment: [S. 1(2)(c)](https://www.legislation.gov.uk/ukpga/1997/27/section/1/2/c) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/2/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-c451341fd28e892acbd848499389cdc8]: Modification: S. 1(3) applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-c451341fd28e892acbd848499389cdc8]: Modification: S. 1(3) applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
-[^key-34bd9f04b965b88c9e33a8720f4c920d]: Textual amendment: S. 1A inserted (10.6.2008 for specified purposes, 1.10.2008 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 54](https://www.legislation.gov.uk/ukpga/2008/6/section/54), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1476/article/3/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/1476/article/3/2/a)
+[^c-34bd9f04b965b88c9e33a8720f4c920d]: Textual amendment: S. 1A inserted (10.6.2008 for specified purposes, 1.10.2008 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 54](https://www.legislation.gov.uk/ukpga/2008/6/section/54), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1476/article/3/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/1476/article/3/2/a)
 
-[^key-74a64890a3bc3d27bae066e2c20d0373]: Textual amendment: Word in s. 1A(2)(b) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17/2/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-74a64890a3bc3d27bae066e2c20d0373]: Textual amendment: Word in s. 1A(2)(b) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17/2/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-4b153a8f6dd089c0700f7956f2b8d366]: Textual amendment: S. 1A(2)(d) and words inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17/2/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-4b153a8f6dd089c0700f7956f2b8d366]: Textual amendment: S. 1A(2)(d) and words inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17/2/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-322295f6e3ad9d6bd2973023b01cd537]: Textual amendment: Words in s. 1A(4)(a) substituted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17/3); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-322295f6e3ad9d6bd2973023b01cd537]: Textual amendment: Words in s. 1A(4)(a) substituted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17/3); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c949864]: Commencement: S. 4 wholly in force at 6.10.1997; s. 4 not in force at Royal Assent, see s. 34(2); s. 4(9) in force for specified purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 4 in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
-[^key-24f16b408af9be7b4357f5a603523b26]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1997/27/section/7/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-24f16b408af9be7b4357f5a603523b26]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1997/27/section/7/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-1c17912e6f12c65c073c52991a646968]: Textual amendment: Words in s. 7(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 127](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/127) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-1c17912e6f12c65c073c52991a646968]: Textual amendment: Words in s. 7(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 127](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/127) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-07c240d5eaac5a2ed27667ecc6100910]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1997/27/section/8A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/3); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-07c240d5eaac5a2ed27667ecc6100910]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1997/27/section/8A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/3); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-7e402667b499474f5e8fa3feade85dd9]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/1) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-7e402667b499474f5e8fa3feade85dd9]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/1) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-95c5484fb55a9df6917b89045df44b6d]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-95c5484fb55a9df6917b89045df44b6d]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-057f26c12eae51a8c6f6718e9e107c95]: Textual amendment: Words in [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/3/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-057f26c12eae51a8c6f6718e9e107c95]: Textual amendment: Words in [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/3/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-cf214afdb5c847bf5543577c4d9505f4]: Textual amendment: Words in [s. 9(4)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-cf214afdb5c847bf5543577c4d9505f4]: Textual amendment: Words in [s. 9(4)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/9/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c949866]: Modification: S. 10 extended (29.11.1999) by [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991), [reg. 29(6)](https://www.legislation.gov.uk/uksi/1999/991/regulation/29/6)
 
-[^key-d4360adda26f8811d5ec3f8d4b648c39]: Modification: Ss. 10-14 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-d4360adda26f8811d5ec3f8d4b648c39]: Modification: Ss. 10-14 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
 [^c949867]: Textual amendment: S. 10(1) substituted (4.3.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 149(1)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/149/1); [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/1/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
 
 [^c949868]: Textual amendment: S. 10(2)(c) and preceding word inserted (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 149(2)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/149/2); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-4037cfa28ebcb8e16b85b977332ffd04]: Textual amendment: [S. 10(4)](https://www.legislation.gov.uk/ukpga/1997/27/section/10/4) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/4); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-4037cfa28ebcb8e16b85b977332ffd04]: Textual amendment: [S. 10(4)](https://www.legislation.gov.uk/ukpga/1997/27/section/10/4) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/4); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c949873]: Commencement: S. 11 wholly in force at 6.10.1997; s. 11 not in force at Royal Assent see s. 34(2); s. 11(5)(6) in force at 3.9.1997 for specified purposes by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 11 in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
@@ -980,23 +980,23 @@ Section 33(2).
 
 [^c949875]: Textual amendment: S. 11(2)(aa) inserted (29.11.1999) in s. 11 by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 150(2)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/150/2); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-03f063872968cf46166c4acf467fe4c2]: Textual amendment: Words in [s. 11(2)(b)](https://www.legislation.gov.uk/ukpga/1997/27/section/11/2/b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-03f063872968cf46166c4acf467fe4c2]: Textual amendment: Words in [s. 11(2)(b)](https://www.legislation.gov.uk/ukpga/1997/27/section/11/2/b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-498cf06cece2b90df176cdf85b0b3451]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/11/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/5); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-498cf06cece2b90df176cdf85b0b3451]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/11/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/5); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-64b558a878e42a1ec47e9793a23e18b9]: Textual amendment: S. 11(2A)(2B) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 10(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/10/2) (with [s. 102(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/5/section/102/7)); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
+[^c-64b558a878e42a1ec47e9793a23e18b9]: Textual amendment: S. 11(2A)(2B) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 10(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/10/2) (with [s. 102(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/5/section/102/7)); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
 
 [^c949876]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-425cc45d84fcce6606fe4ef2684206f0]: Textual amendment: Words in Blanket Amendment substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-425cc45d84fcce6606fe4ef2684206f0]: Textual amendment: Words in Blanket Amendment substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c949877]: Marginal citation: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53).
 
 [^c949878]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
 
-[^key-6c61c2a84300fab251283f6e4c366bc9]: Textual amendment: S. 11(5)(b) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 139](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/139)
+[^c-6c61c2a84300fab251283f6e4c366bc9]: Textual amendment: S. 11(5)(b) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 139](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/139)
 
-[^key-1747dcb65dc0c456ae17c70e88ad931e]: Textual amendment: Words in s. 11(5)(c) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 10(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/10/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
+[^c-1747dcb65dc0c456ae17c70e88ad931e]: Textual amendment: Words in s. 11(5)(c) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 10(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/10/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
 
 [^c949879]: Textual amendment: S. 11(6) repealed (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1/2), [Sch. 7 para. 150(3)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/150/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
@@ -1004,17 +1004,17 @@ Section 33(2).
 
 [^c949883]: Modification: S. 12 amended (25.11.1999) by [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Sch. 21 para. 7(1)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21/paragraph/7/1)
 
-[^key-b60b16ad1a780162ce928ad10f414356]: Textual amendment: Words in cross-heading substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 140(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/140/a)
+[^c-b60b16ad1a780162ce928ad10f414356]: Textual amendment: Words in cross-heading substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 140(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/140/a)
 
 [^c949884]: Textual amendment: S. 12(1) substituted for s. 12(1)(2) (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 151(1)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/151/1); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-aecc5e08fc81290c6e8aac0aeaf75e11]: Textual amendment: Words in s. 12(1) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 140(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/140/b)
+[^c-aecc5e08fc81290c6e8aac0aeaf75e11]: Textual amendment: Words in s. 12(1) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 140(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/140/b)
 
 [^c949885]: Textual amendment: Words in s. 12(3) substituted (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 151(2)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/151/2); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
 [^c949886]: Textual amendment: Words in s. 12(4) substituted (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 151(3)(a)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/151/3/a); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-43e174c113abc62dfcbb8415920a92c2]: Textual amendment: Words in s. 12(4) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 140(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/140/b)
+[^c-43e174c113abc62dfcbb8415920a92c2]: Textual amendment: Words in s. 12(4) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 140(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/140/b)
 
 [^c949887]: Textual amendment: S. 12(4)(c) and preceding word inserted (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 151(3)(b)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/151/3/b); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
@@ -1030,103 +1030,103 @@ Section 33(2).
 
 [^c949894]: Commencement: S. 13 wholly in force at 6.10.1997; s. 13 not in force at Royal Assent, see s. 34(2); s. 13(3) in force for specified purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 13 in force 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1)
 
-[^key-278334d5c823c6c3562e0a5aa7f29127]: Textual amendment: Words in cross-heading substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/a)
+[^c-278334d5c823c6c3562e0a5aa7f29127]: Textual amendment: Words in cross-heading substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/a)
 
-[^key-1c1d48e9b4c5bd52bb1d34cc13773307]: Textual amendment: S. 13(1) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/b)
+[^c-1c1d48e9b4c5bd52bb1d34cc13773307]: Textual amendment: S. 13(1) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/b)
 
-[^key-609d8aa3972b345cd256b674df7fed01]: Textual amendment: Words in s. 13(2) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(c)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/c)
+[^c-609d8aa3972b345cd256b674df7fed01]: Textual amendment: Words in s. 13(2) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(c)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/c)
 
 [^c949896]: Textual amendment: Word at the end of s. 13(2)(b) repealed (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1/2), [Sch. 7 para. 152(2)(a)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/152/2/a), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
 [^c949897]: Textual amendment: S. 13(2)(bb) inserted (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1), [Sch. 7 para. 152(2)(b)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/152/2/b); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-9e43d25599340c6c5ab63dfcb1ece91d]: Textual amendment: Words in [s. 13(2)(c)](https://www.legislation.gov.uk/ukpga/1997/27/section/13/2/c) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-9e43d25599340c6c5ab63dfcb1ece91d]: Textual amendment: Words in [s. 13(2)(c)](https://www.legislation.gov.uk/ukpga/1997/27/section/13/2/c) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-f4d2d1d8fe5ad5727161e668197c4f15]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/13/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/6); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-f4d2d1d8fe5ad5727161e668197c4f15]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/13/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/6); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-2615cffd218ebc9154cf047c929818e1]: Textual amendment: S. 13(3) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(d)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/d)
+[^c-2615cffd218ebc9154cf047c929818e1]: Textual amendment: S. 13(3) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 141(d)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/141/d)
 
 [^c949899]: Textual amendment: S. 13(4) repealed (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(1)(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1/2), [Sch. 7 para. 152(4)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/152/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
 [^c949900]: Commencement: S. 14 wholly in force at 6.10.1997; S. 14 not in force at Royal Assent see s. 34(2); s. 14(2)(3) and (4) in force for specified purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 14 in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
-[^key-f5e67e5b19856092708be665a5af04b0]: Textual amendment: Words in [s. 14(4)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/14/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-f5e67e5b19856092708be665a5af04b0]: Textual amendment: Words in [s. 14(4)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/14/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-77b61386ea0fc19c4228faaca6f8885e]: Modification: S. 15 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-77b61386ea0fc19c4228faaca6f8885e]: Modification: S. 15 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
 [^c949901]: Commencement: S. 16 wholly in force at 6.10.1997; s. 16 was not in force at Royal Assent, see s. 34(2); s. 16(1)(2) in force for specified purposes at 3.9.1997 by [S.I. 1997/2087](https://www.legislation.gov.uk/uksi/1997/2087), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2087/article/2/1); s. 16 wholly in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/regulation/2/2)
 
-[^key-1e06d9d2d54a92c7912a946aeb7e15f6]: Modification: S. 17 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-1e06d9d2d54a92c7912a946aeb7e15f6]: Modification: S. 17 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
 [^c949902]: Commencement: S. 18 wholly in force at 6.10.1997; s. 18 not in force at Royal Assent see s. 34(2); s. 18 in force for specified purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 18 wholly in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
-[^key-3b303e0529254ca39b928058f56db713]: Modification: Ss. 18 19 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-3b303e0529254ca39b928058f56db713]: Modification: Ss. 18 19 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
 [^c949903]: Commencement: S. 19 wholly in force at 6.10.1997; s. 19 not in force at Royal Assent see s. 34(2); s. 19 in force for specified purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 19 wholly in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
-[^key-44ef28d035f9c8da289ac485c565507e]: Textual amendment: Words in s. 19(3)(b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-44ef28d035f9c8da289ac485c565507e]: Textual amendment: Words in s. 19(3)(b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-61271193859009525a8762d2338895e5]: Modification: Ss. 20-23 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-61271193859009525a8762d2338895e5]: Modification: Ss. 20-23 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
 [^c949904]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-0b2753d9f2e5bd22035b75be97f1748f]: Textual amendment: Words in [s. 20(4)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/20/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-0b2753d9f2e5bd22035b75be97f1748f]: Textual amendment: Words in [s. 20(4)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/20/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c949905]: Commencement: S. 21 wholly in force at 6.10.1997; s. 21 not in force at Royal Assent see s. 34(2); s. 21(3) in force for specified purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 21 wholly in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
-[^key-01f98c92fa56eb08a2988185dea4d2e2]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/1997/27/section/21/1) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-01f98c92fa56eb08a2988185dea4d2e2]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/1997/27/section/21/1) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-bb16b081f2277ad29ac53daab9662666]: Textual amendment: Words in [s. 21(5)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/21/5/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-bb16b081f2277ad29ac53daab9662666]: Textual amendment: Words in [s. 21(5)(a)](https://www.legislation.gov.uk/ukpga/1997/27/section/21/5/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c949906]: Commencement: S. 23 wholly in force at 6.10.1997; s. 23 not in force at Royal Assent see s. 34(2); s. 23(1)(2)(5)(7) in force for specified purposes at 3.9.1997 by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art 2(1)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/1); s. 23 wholly in force at 6.10.1997 insofar as not already in force by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
 [^c949907]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-4e342dd61c37e4f748c7ceb46dce8995]: Textual amendment: [S. 23(6A)](https://www.legislation.gov.uk/ukpga/1997/27/section/23/6A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/19); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-4e342dd61c37e4f748c7ceb46dce8995]: Textual amendment: [S. 23(6A)](https://www.legislation.gov.uk/ukpga/1997/27/section/23/6A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/19); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c949908]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^key-21477017186f11fa07e1b2bbe17eb8bd]: Modification: Ss. 26 27 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-21477017186f11fa07e1b2bbe17eb8bd]: Modification: Ss. 26 27 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
-[^key-2b2dfcc73e83dac60cf06e7ff24619c4]: Modification: Ss. 28-31 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-2b2dfcc73e83dac60cf06e7ff24619c4]: Modification: Ss. 28-31 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
-[^key-f8c983c5b42a1af9e645b3807dcbabcb]: Textual amendment: Words in s. 29 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 142](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/142)
+[^c-f8c983c5b42a1af9e645b3807dcbabcb]: Textual amendment: Words in s. 29 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 142](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/142)
 
-[^key-d0529dd661506c96b3d4e2c778023f56]: Textual amendment: Words in s. 29 inserted (29.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/41); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
+[^c-d0529dd661506c96b3d4e2c778023f56]: Textual amendment: Words in s. 29 inserted (29.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/41); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
 
 [^c949911]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-d939b1597da8d859e3b091ce47aec330]: Textual amendment: Words in s. 29 inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [50(2)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/50/2)
+[^c-d939b1597da8d859e3b091ce47aec330]: Textual amendment: Words in s. 29 inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [50(2)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/50/2)
 
-[^key-005ba47c98fa35e812e3cccc72ff7a15]: Textual amendment: Words in s. 29 inserted (8.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 35](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/35); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3)
+[^c-005ba47c98fa35e812e3cccc72ff7a15]: Textual amendment: Words in s. 29 inserted (8.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 35](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/35); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3)
 
-[^key-fe787d37f9aa80a0bff7c28a38dd0942]: Textual amendment: Words in [s. 29](https://www.legislation.gov.uk/ukpga/1997/27/section/29) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/7); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-fe787d37f9aa80a0bff7c28a38dd0942]: Textual amendment: Words in [s. 29](https://www.legislation.gov.uk/ukpga/1997/27/section/29) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/7); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-e0e5060313b5730a5c814af1d1ed778c]: Textual amendment: Words in s. 30(2) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/11/2); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
+[^c-e0e5060313b5730a5c814af1d1ed778c]: Textual amendment: Words in s. 30(2) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/11/2); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
 
-[^key-58b4c14956710764f39868ccb85a4f38]: Textual amendment: S. 30(2A) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 11(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/11/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
+[^c-58b4c14956710764f39868ccb85a4f38]: Textual amendment: S. 30(2A) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 11(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/11/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 paras. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 8](https://www.legislation.gov.uk/uksi/2013/983/article/8)
 
 [^c949913]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-a2dee4fc346d7eeba6985e6803b820ae]: Modification: S. 33 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-a2dee4fc346d7eeba6985e6803b820ae]: Modification: S. 33 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
-[^key-e27342a39e22f2858a7f6309e5afbb82]: Modification: S. 34(1) applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-e27342a39e22f2858a7f6309e5afbb82]: Modification: S. 34(1) applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
 [^c949914]: Subordinate legislation: S. 34(2) power fully exercised (1.9.1997): different dates appointed for specified provisions by [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085)
 
-[^key-34050ee9907efbb7edddb950433922e6]: Modification: S. 34(3) applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-34050ee9907efbb7edddb950433922e6]: Modification: S. 34(3) applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
-[^key-86a855b2f1c62d6620555af8fcf39a32]: Modification: Sch. 1 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
+[^c-86a855b2f1c62d6620555af8fcf39a32]: Modification: Sch. 1 applied (with modifications) (1.10.2008) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1596/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))
 
-[^key-c1e44a9b4c1546e41446b43894e09a83]: Textual amendment: Words in Sch. 1 Pt. I inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 140](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/140); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c1e44a9b4c1546e41446b43894e09a83]: Textual amendment: Words in Sch. 1 Pt. I inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 140](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/140); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c949917]: Textual amendment: Words in Sch. 1 para. 2 substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/1), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 181](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/181)
 
-[^key-9b7d46339b9165296eb95c985c266393]: Textual amendment: Words in Sch. 1 para. 2 substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/13); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-9b7d46339b9165296eb95c985c266393]: Textual amendment: Words in Sch. 1 para. 2 substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/13); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-e405f88f168e7ed4d4e5427fe2e1fcde]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/1/paragraph/2) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 143](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/143) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e405f88f168e7ed4d4e5427fe2e1fcde]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/1/paragraph/2) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 143](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/143) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-472a5c5faa04120fc98717d126cc2113]: Textual amendment: Words in Sch. 1 para. 2 inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 140](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/140); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-472a5c5faa04120fc98717d126cc2113]: Textual amendment: Words in Sch. 1 para. 2 inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 140](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/140); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c949918]: Marginal citation: [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43).
 
@@ -1138,19 +1138,19 @@ Section 33(2).
 
 [^c949923]: Textual amendment: Sch. 1 para. 5(2)(3) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [358(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/358/4)
 
-[^key-c726631272649d49d0e5c5ab3ee49229]: Textual amendment: Words in Sch. 1 para. 5(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 84](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/84) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c726631272649d49d0e5c5ab3ee49229]: Textual amendment: Words in Sch. 1 para. 5(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 84](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/84) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-75352fe65f1bb64a6ef2b6a70bc615c6]: Textual amendment: Sch. 1 para. 5(2)(b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75352fe65f1bb64a6ef2b6a70bc615c6]: Textual amendment: Sch. 1 para. 5(2)(b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b8ee2529fa95621e5038e3e2bb45381]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 36(a)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/36/a); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
+[^c-1b8ee2529fa95621e5038e3e2bb45381]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 36(a)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/36/a); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
 
-[^key-c3b41cd290f6aedb938731fe560be814]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 36(b)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/36/b); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
+[^c-c3b41cd290f6aedb938731fe560be814]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 36(b)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/36/b); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
 
 [^c949924]: Textual amendment: Words in Sch. 2 column 2 repealed (5.10.1999) by [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10), [ss. 2](https://www.legislation.gov.uk/ukpga/1999/10/section/2), [19(4)](https://www.legislation.gov.uk/ukpga/1999/10/section/19/4), [Sch. 2 Pt. IV para. 18(1)(a)](https://www.legislation.gov.uk/ukpga/1999/10/schedule/2/part/IV/paragraph/18/1/a) (2), Sch. 6
 
-[^key-482c60abd074c863615bc2fcf0a0b7ec]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) inserted (29.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/42); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
+[^c-482c60abd074c863615bc2fcf0a0b7ec]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) inserted (29.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/42); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
 
-[^key-113097084749e6f43aa5dd9647349d08]: Textual amendment: Sch. 2 entry inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [50(3)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/50/3)
+[^c-113097084749e6f43aa5dd9647349d08]: Textual amendment: Sch. 2 entry inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [50(3)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/50/3)
 
 [^c949925]: Marginal citation: [S.I. 1987/1969](https://www.legislation.gov.uk/uksi/1987/1969).
 

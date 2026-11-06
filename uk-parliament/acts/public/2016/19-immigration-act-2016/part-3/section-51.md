@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Search for nationality documents by detainee custody officers etc[^key-c15f7562f874e49e73bae6cc47c9d33a]
+## 51. Search for nationality documents by detainee custody officers etc[^c-c15f7562f874e49e73bae6cc47c9d33a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 (2) The Secretary of State may direct a prison officer or prisoner custody officer to exercise any of the powers in subsection (6) in relation to a person detained in a prison or young offender institution—
 
 - (a) who has been recommended for deportation by a court under section 3(6) of the Immigration Act 1971,
-- (b)[^key-96a2af782936f4d2a532406fc7a36c75] in respect of whom the Secretary of State—
+- (b)[^c-96a2af782936f4d2a532406fc7a36c75] in respect of whom the Secretary of State—
   - (i) is considering whether to make a deportation order under section 5(1) of that Act,
   - (ii) has decided to make such a deportation order, or
   - (iii) has made such a deportation order, or
-- (c)[^key-a07784faee4ff5846ab6555b3988b24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2a4246b8355d4b7632b597f27cea62d6] in respect of whom the Secretary of State—
+- (c)[^c-a07784faee4ff5846ab6555b3988b24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2a4246b8355d4b7632b597f27cea62d6] in respect of whom the Secretary of State—
   - (i) is considering whether section 32(5) of the UK Borders Act 2007 (automatic deportation of foreign criminals) applies,
   - (ii) has decided that section 32(5) of that Act applies, or
   - (iii) has made such a deportation order in accordance with section 32(5) of that Act.
@@ -42,7 +42,7 @@ summary: ''
 
 (4) The Secretary of State may give a direction in relation to a person detained as mentioned in subsection (1) or (2) only if the Secretary of State has reasonable grounds to believe a relevant nationality document will be found if a power in subsection (6) is exercised in relation to the person.
 
-(4A)[^key-e1293de277962c1f9afc3f33b30b2510] The Secretary of State may give a direction as mentioned in subsection (2)(b)(i) or (ii) in relation to a person detained in a prison or young offender institution only if—
+(4A)[^c-e1293de277962c1f9afc3f33b30b2510] The Secretary of State may give a direction as mentioned in subsection (2)(b)(i) or (ii) in relation to a person detained in a prison or young offender institution only if—
 
 - (a) the Secretary of State has notified the person in writing that the Secretary of State is considering whether to make a deportation order under section 5(1) of the Immigration Act 1971 against the person, or
 - (b) where no notice has been given as mentioned in paragraph (a), the Secretary of State has notified the person in writing that the Secretary of State has decided to make such a deportation order against the person.
@@ -116,12 +116,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c15f7562f874e49e73bae6cc47c9d33a]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/19/section/51) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-c15f7562f874e49e73bae6cc47c9d33a]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/19/section/51) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
 
-[^key-96a2af782936f4d2a532406fc7a36c75]: Textual amendment: [S. 51(2)(b)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/2/b) substituted (5.3.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(15)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/15/a), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)
+[^c-96a2af782936f4d2a532406fc7a36c75]: Textual amendment: [S. 51(2)(b)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/2/b) substituted (5.3.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(15)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/15/a), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)
 
-[^key-a07784faee4ff5846ab6555b3988b24c]: Textual amendment: [S. 51(2)(c)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/2/c) and word omitted (5.3.2026) by virtue of [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(15)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/15/b), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)
+[^c-a07784faee4ff5846ab6555b3988b24c]: Textual amendment: [S. 51(2)(c)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/2/c) and word omitted (5.3.2026) by virtue of [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(15)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/15/b), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)
 
-[^key-2a4246b8355d4b7632b597f27cea62d6]: Textual amendment: [S. 51(2)(d)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/2/d) substituted (5.3.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(15)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/15/c), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)
+[^c-2a4246b8355d4b7632b597f27cea62d6]: Textual amendment: [S. 51(2)(d)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/2/d) substituted (5.3.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(15)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/15/c), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)
 
-[^key-e1293de277962c1f9afc3f33b30b2510]: Textual amendment: [S. 51(4A)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/4B) inserted (5.3.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(16)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/16), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)
+[^c-e1293de277962c1f9afc3f33b30b2510]: Textual amendment: [S. 51(4A)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2016/19/section/51/4B) inserted (5.3.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(16)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/16), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/163](https://www.legislation.gov.uk/uksi/2026/163), [reg. 2](https://www.legislation.gov.uk/uksi/2026/163/regulation/2)

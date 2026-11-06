@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Orders and regulations[^key-56b105bb688b0649fbcb69dffe2b0fd0]
+## 32. Orders and regulations[^c-56b105bb688b0649fbcb69dffe2b0fd0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56b105bb688b0649fbcb69dffe2b0fd0]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2004/11/section/32) in force at 10.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/487/article/2/2)
+[^c-56b105bb688b0649fbcb69dffe2b0fd0]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2004/11/section/32) in force at 10.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/487/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Rights under or over streets[^key-264465755ab9cc09ab2ef361d0877358]
+## 28. Rights under or over streets[^c-264465755ab9cc09ab2ef361d0877358]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ is entitled to compensation to be determined, in case of dispute, under Part 1 o
 
 ## Annotations
 
-[^key-264465755ab9cc09ab2ef361d0877358]: Commencement: Art. 28 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-264465755ab9cc09ab2ef361d0877358]: Commencement: Art. 28 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

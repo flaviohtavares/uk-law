@@ -36,52 +36,52 @@ on the organisation and operation of the European Communities Personnel Selectio
 
 (2002/621/EC) (revoked)
 
-[^key-f9c93112cdd5aaabda507cbe414e9eaf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9c93112cdd5aaabda507cbe414e9eaf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Duties of the Office[^key-f9c93112cdd5aaabda507cbe414e9eaf]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Responsibilities of the institutions[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 1. Duties of the Office[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Other services[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 2. Responsibilities of the institutions[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Complaints and requests[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 3. Other services[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Management Board[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 4. Complaints and requests[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Tasks of the Management Board[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 5. Management Board[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Appointment of staff[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 6. Tasks of the Management Board[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Tasks of the Head of the Office; management of staff[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 7. Appointment of staff[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Financial matters[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 8. Tasks of the Head of the Office; management of staff[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Review[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 9. Financial matters[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Effective date[^key-f9c93112cdd5aaabda507cbe414e9eaf]
+## Article 10. Review[^c-f9c93112cdd5aaabda507cbe414e9eaf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 11. Effective date[^c-f9c93112cdd5aaabda507cbe414e9eaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9c93112cdd5aaabda507cbe414e9eaf]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9c93112cdd5aaabda507cbe414e9eaf]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

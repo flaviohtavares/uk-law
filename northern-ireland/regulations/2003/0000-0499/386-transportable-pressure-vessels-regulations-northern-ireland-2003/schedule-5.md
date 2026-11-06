@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — CONFORMITY REASSESSMENT PROCEDURE[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]
+## SCHEDULE 5 — CONFORMITY REASSESSMENT PROCEDURE[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]
 
 *Extent: N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulation 6
 
-### (This Schedule substantially reproduces the provisions of Part II of Annex IV to the Transportable Pressure Equipment Directive.)[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]
+### (This Schedule substantially reproduces the provisions of Part II of Annex IV to the Transportable Pressure Equipment Directive.)[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]
 
-**1.**[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/386) revoked (1.8.2006) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (S.R. 2006/173)](https://www.legislation.gov.uk/nisr/2006/173), [reg. 1](https://www.legislation.gov.uk/nisr/2006/173/regulation/1), [Sch. 14](https://www.legislation.gov.uk/nisr/2006/173/schedule/14) (with [reg. 56](https://www.legislation.gov.uk/nisr/2006/173/regulation/56))
+[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/386) revoked (1.8.2006) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (S.R. 2006/173)](https://www.legislation.gov.uk/nisr/2006/173), [reg. 1](https://www.legislation.gov.uk/nisr/2006/173/regulation/1), [Sch. 14](https://www.legislation.gov.uk/nisr/2006/173/schedule/14) (with [reg. 56](https://www.legislation.gov.uk/nisr/2006/173/regulation/56))

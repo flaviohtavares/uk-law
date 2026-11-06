@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Duty on local authority to review heat network zoning in area[^key-29d78073f99d6f80374ca09c58151a2a][^key-f4566736252ea1a6f8d32eb4ddb170f0]
+## 47. Duty on local authority to review heat network zoning in area[^c-29d78073f99d6f80374ca09c58151a2a][^c-f4566736252ea1a6f8d32eb4ddb170f0]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29d78073f99d6f80374ca09c58151a2a]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/9/section/47) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-29d78073f99d6f80374ca09c58151a2a]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/9/section/47) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
 
-[^key-f4566736252ea1a6f8d32eb4ddb170f0]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/9/section/47) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/b)
+[^c-f4566736252ea1a6f8d32eb4ddb170f0]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/9/section/47) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/b)

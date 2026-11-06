@@ -24,7 +24,7 @@ Section 15
 
 ### Part 1 — Amendments to the Representation of the People Act 1983
 
-**1.**[^key-4abcf2b5fda648d2859fc7f877762395] (1)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 2 of RPA 1983 (local government electors), in subsection (1)(c), for the words from “Ireland” to the end substitute
+**1.**[^c-4abcf2b5fda648d2859fc7f877762395] (1)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 2 of RPA 1983 (local government electors), in subsection (1)(c), for the words from “Ireland” to the end substitute
 
 > Ireland or—
 >
@@ -33,7 +33,7 @@ Section 15
 
 .
 
-(2)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 4 of that Act (entitlement to be registered as local government elector), in subsection (3)(c), for the words from “Ireland” to the end substitute
+(2)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 4 of that Act (entitlement to be registered as local government elector), in subsection (3)(c), for the words from “Ireland” to the end substitute
 
 > Ireland or—
 >
@@ -42,7 +42,7 @@ Section 15
 
 .
 
-(3)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 7B of that Act (notional residence: declarations of local connection)—
+(3)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 7B of that Act (notional residence: declarations of local connection)—
 
 - (a) in subsection (3)(e), for the words from “Ireland” to the end substitute
 
@@ -61,7 +61,7 @@ Section 15
 
   .
 
-(4)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 15 of that Act (service declaration), in subsection (5)(a), for “, or by a relevant citizen of the Union; and” substitute
+(4)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 15 of that Act (service declaration), in subsection (5)(a), for “, or by a relevant citizen of the Union; and” substitute
 
 > or—
 >
@@ -70,7 +70,7 @@ Section 15
 
 .
 
-(5)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 16 of that Act (contents of service declaration), as it extends to England and Wales, in subsection (1)(e) for the words from “a relevant” to the end substitute
+(5)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 16 of that Act (contents of service declaration), as it extends to England and Wales, in subsection (1)(e) for the words from “a relevant” to the end substitute
 
 > —
 >
@@ -79,9 +79,9 @@ Section 15
 
 .
 
-(6)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 16 of that Act (contents of service declaration), as it extends to Northern Ireland, in paragraph (e) for “or a relevant citizen of the Union” substitute “or a qualifying EU citizen or an EU citizen with retained rights”.
+(6)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 16 of that Act (contents of service declaration), as it extends to Northern Ireland, in paragraph (e) for “or a relevant citizen of the Union” substitute “or a qualifying EU citizen or an EU citizen with retained rights”.
 
-(7)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 17 of that Act (effect of service declaration), in subsection (1)(c), for the words from “a relevant” to the end substitute
+(7)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 17 of that Act (effect of service declaration), in subsection (1)(c), for the words from “a relevant” to the end substitute
 
 > —
 >
@@ -90,7 +90,7 @@ Section 15
 >
 > of the age appearing from the declaration and as not being subject to any legal incapacity except as so appearing.
 
-(8)[^key-6ec9bbbfe276042613b5bdc2b7237e79] In section 49 of that Act (effect of registers), in subsection (5)(b)—
+(8)[^c-6ec9bbbfe276042613b5bdc2b7237e79] In section 49 of that Act (effect of registers), in subsection (5)(b)—
 
 - (a) after sub-paragraph (iii) insert—
 
@@ -99,19 +99,19 @@ Section 15
   ;
 - (b) in sub-paragraph (iv), after “elector” insert “in Wales”.
 
-(9)[^key-b4eaa1a42478edee0eb11436a9c91ac1][^key-87bf15467e9b54da3a348ed0f236f2ba] In section 201 of that Act (regulations)—
+(9)[^c-b4eaa1a42478edee0eb11436a9c91ac1][^c-87bf15467e9b54da3a348ed0f236f2ba] In section 201 of that Act (regulations)—
 
 - (a) in subsection (2), after “203(4)” insert “or 203A(2)”;
 - (b) in subsection (2A), after “above” insert “or section 203A(2)”.
 
-(10)[^key-b4eaa1a42478edee0eb11436a9c91ac1][^key-87bf15467e9b54da3a348ed0f236f2ba] In section 203 of that Act (local government provisions as to England and Wales), at the appropriate place insert the following definitions—
+(10)[^c-b4eaa1a42478edee0eb11436a9c91ac1][^c-87bf15467e9b54da3a348ed0f236f2ba] In section 203 of that Act (local government provisions as to England and Wales), at the appropriate place insert the following definitions—
 
 > - “**EU citizen with retained rights**” has the meaning given by section 203B;”;
 > - “**qualifying EU citizen**” has the meaning given by section 203A;
 
 .
 
-(11)[^key-b4eaa1a42478edee0eb11436a9c91ac1][^key-87bf15467e9b54da3a348ed0f236f2ba] After section 203 of that Act insert—
+(11)[^c-b4eaa1a42478edee0eb11436a9c91ac1][^c-87bf15467e9b54da3a348ed0f236f2ba] After section 203 of that Act insert—
 
 > **203A. Meaning of “qualifying EU citizen”**
 >
@@ -220,7 +220,7 @@ Section 15
 > - (a) paragraph EU11A or EU14A of Appendix EU to the immigration rules or provision replacing either of those paragraphs, or
 > - (b) provision corresponding to provision within paragraph (a) in the Guernsey immigration rules, the Isle of Man immigration rules or the Jersey immigration rules.
 
-(12)[^key-b4eaa1a42478edee0eb11436a9c91ac1][^key-87bf15467e9b54da3a348ed0f236f2ba] After Schedule 6 to that Act insert—
+(12)[^c-b4eaa1a42478edee0eb11436a9c91ac1][^c-87bf15467e9b54da3a348ed0f236f2ba] After Schedule 6 to that Act insert—
 
 > **Schedule 6A — List of countries for purposes of section 203A**
 >
@@ -236,11 +236,11 @@ Section 15
 
 ### Part 2 — Amendments in relation to certain local elections in England and Wales
 
-#### 2. City of London (Various Powers) Act 1957[^key-e85ae9751557d598c8dcc5069a1fbe3c]
+#### 2. City of London (Various Powers) Act 1957[^c-e85ae9751557d598c8dcc5069a1fbe3c]
 
-(1)[^key-7ab9e9df12fc324df3838e146421cccf][^key-d34be057c84fef7c26badb1ffc265fb1] The City of London (Various Powers) Act 1957 is amended as follows.
+(1)[^c-7ab9e9df12fc324df3838e146421cccf][^c-d34be057c84fef7c26badb1ffc265fb1] The City of London (Various Powers) Act 1957 is amended as follows.
 
-(2)[^key-7ab9e9df12fc324df3838e146421cccf][^key-d34be057c84fef7c26badb1ffc265fb1] In section 4(1) (interpretation of Part 2)—
+(2)[^c-7ab9e9df12fc324df3838e146421cccf][^c-d34be057c84fef7c26badb1ffc265fb1] In section 4(1) (interpretation of Part 2)—
 
 - (a) omit the definitions of “citizen of the Union” and “relevant citizen of the Union”;
 - (b) at the appropriate places insert—
@@ -253,11 +253,11 @@ Section 15
 
   .
 
-(3)[^key-7ab9e9df12fc324df3838e146421cccf][^key-d34be057c84fef7c26badb1ffc265fb1] In section 5 (qualification of candidate for election to common council), in subsection (1), for “or a relevant citizen of the Union” substitute “or a qualifying EU citizen or an EU citizen with retained rights”.
+(3)[^c-7ab9e9df12fc324df3838e146421cccf][^c-d34be057c84fef7c26badb1ffc265fb1] In section 5 (qualification of candidate for election to common council), in subsection (1), for “or a relevant citizen of the Union” substitute “or a qualifying EU citizen or an EU citizen with retained rights”.
 
-(4)[^key-271845cefaf4d966f54b86909a87fab9] In section 6 (qualification of voters at ward elections), in subsection (1), for “relevant citizens of the Union” substitute “qualifying EU citizens or EU citizens with retained rights”.
+(4)[^c-271845cefaf4d966f54b86909a87fab9] In section 6 (qualification of voters at ward elections), in subsection (1), for “relevant citizens of the Union” substitute “qualifying EU citizens or EU citizens with retained rights”.
 
-#### 3. Local Government Act 1972[^key-ceba281e91b14f5b854b60b54209e06f][^key-1b64d52d2c9ec96fa0b0ffd9f15f171b][^key-eee0d1d7a4e3772043f5ac8086615a13][^M_C_d16b1a30-a383-49ba-edd9-27c2b8e6494e]
+#### 3. Local Government Act 1972[^c-ceba281e91b14f5b854b60b54209e06f][^c-1b64d52d2c9ec96fa0b0ffd9f15f171b][^c-eee0d1d7a4e3772043f5ac8086615a13][^M_C_d16b1a30-a383-49ba-edd9-27c2b8e6494e]
 
 In section 79 of the Local Government Act 1972 (qualifications for election and holding office as member of local authority), as it extends to England and Wales and applies in relation to England—
 
@@ -266,7 +266,7 @@ In section 79 of the Local Government Act 1972 (qualifications for election and 
 
   > (2A) In this section “**qualifying EU citizen**” and “**EU citizen with retained rights**” have the same meaning as in the Representation of the People Act 1983 (see sections 203A and 203B of that Act).
 
-#### 4. Greater London Authority Act 1999[^key-05d3131e322e960ea851aa19cc41aa9d][^key-12721b68cb3f20af88e324cf5613e79e][^key-5f0402894df13aa9833c849b51958310][^M_C_d16b1a30-a383-49ba-edd9-27c2b8e6494e]
+#### 4. Greater London Authority Act 1999[^c-05d3131e322e960ea851aa19cc41aa9d][^c-12721b68cb3f20af88e324cf5613e79e][^c-5f0402894df13aa9833c849b51958310][^M_C_d16b1a30-a383-49ba-edd9-27c2b8e6494e]
 
 In section 20 of the Greater London Authority Act 1999 (qualification to be the Mayor or an Assembly member)—
 
@@ -279,7 +279,7 @@ In section 20 of the Greater London Authority Act 1999 (qualification to be the 
 
     .
 
-#### 5. Local Democracy, Economic Development and Construction Act 2009[^key-c81a5877df5e1994f016eb4baa46dd08][^key-b35efa59c73446c76b94df43a78f8b86][^key-73f32c1bf3f935838c0c48412a087259][^M_C_d16b1a30-a383-49ba-edd9-27c2b8e6494e]
+#### 5. Local Democracy, Economic Development and Construction Act 2009[^c-c81a5877df5e1994f016eb4baa46dd08][^c-b35efa59c73446c76b94df43a78f8b86][^c-73f32c1bf3f935838c0c48412a087259][^M_C_d16b1a30-a383-49ba-edd9-27c2b8e6494e]
 
 In Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009 (mayors for combined authority areas), in paragraph 8(3), for the definition of “qualifying citizen” substitute—
 
@@ -289,11 +289,11 @@ In Schedule 5B to the Local Democracy, Economic Development and Construction Act
 >   - (c) a qualifying EU citizen (within the meaning given by section 203A of the Representation of the People Act 1983), or
 >   - (d) an EU citizen with retained rights (within the meaning given by section 203B of that Act).
 
-#### 6. Police Reform and Social Responsibility Act 2011[^key-3930b0cac56abe58785b67885b23a74c]
+#### 6. Police Reform and Social Responsibility Act 2011[^c-3930b0cac56abe58785b67885b23a74c]
 
-(1)[^key-91f97773c509ed29f3c81e734541ff0b][^key-05a00a180f5a5677fb26eabdd5d520a2] The Police Reform and Social Responsibility Act 2011 is amended as follows.
+(1)[^c-91f97773c509ed29f3c81e734541ff0b][^c-05a00a180f5a5677fb26eabdd5d520a2] The Police Reform and Social Responsibility Act 2011 is amended as follows.
 
-(2)[^key-91f97773c509ed29f3c81e734541ff0b][^key-05a00a180f5a5677fb26eabdd5d520a2] In section 51(6C)(a) (election to fill vacancy in office of commissioner), for the words from “disqualified” to “Union” substitute
+(2)[^c-91f97773c509ed29f3c81e734541ff0b][^c-05a00a180f5a5677fb26eabdd5d520a2] In section 51(6C)(a) (election to fill vacancy in office of commissioner), for the words from “disqualified” to “Union” substitute
 
 > —
 >
@@ -302,7 +302,7 @@ In Schedule 5B to the Local Democracy, Economic Development and Construction Act
 
 .
 
-(3)[^key-df5e271fbc9df69a669451f92fcecb71] In section 52(1C)(a) (persons entitled to vote), for the words from “disqualified” to the end substitute
+(3)[^c-df5e271fbc9df69a669451f92fcecb71] In section 52(1C)(a) (persons entitled to vote), for the words from “disqualified” to the end substitute
 
 > —
 >
@@ -311,14 +311,14 @@ In Schedule 5B to the Local Democracy, Economic Development and Construction Act
 
 .
 
-(4)[^key-91f97773c509ed29f3c81e734541ff0b][^key-05a00a180f5a5677fb26eabdd5d520a2] In section 64(1C)(a) (disqualification from election as police and crime commissioner), for “relevant citizen of the Union” substitute “qualifying EU citizen or an EU citizen with retained rights”.
+(4)[^c-91f97773c509ed29f3c81e734541ff0b][^c-05a00a180f5a5677fb26eabdd5d520a2] In section 64(1C)(a) (disqualification from election as police and crime commissioner), for “relevant citizen of the Union” substitute “qualifying EU citizen or an EU citizen with retained rights”.
 
-(5)[^key-91f97773c509ed29f3c81e734541ff0b][^key-05a00a180f5a5677fb26eabdd5d520a2] In section 68 (citizenship condition)—
+(5)[^c-91f97773c509ed29f3c81e734541ff0b][^c-05a00a180f5a5677fb26eabdd5d520a2] In section 68 (citizenship condition)—
 
 - (a) in subsection (2)(c), for “citizen of the Union” substitute “qualifying EU citizen or an EU citizen with retained rights”;
 - (b) omit subsection (5).
 
-(6)[^key-91f97773c509ed29f3c81e734541ff0b][^key-05a00a180f5a5677fb26eabdd5d520a2] In section 102(1) (interpretation)—
+(6)[^c-91f97773c509ed29f3c81e734541ff0b][^c-05a00a180f5a5677fb26eabdd5d520a2] In section 102(1) (interpretation)—
 
 - (a) omit the definition of “relevant citizen of the Union”;
 - (b) at the appropriate place insert—
@@ -329,11 +329,11 @@ In Schedule 5B to the Local Democracy, Economic Development and Construction Act
 
 ### Part 3 — Amendments in relation to certain elections in Northern Ireland
 
-#### 7. Electoral Law Act (Northern Ireland) 1962[^key-64902008b1947b89f3a9829deaecd9ef][^key-36ca0aee6adbed9a43309a32b42abb27][^key-815f4787b9bf36399da5d3b409384750]
+#### 7. Electoral Law Act (Northern Ireland) 1962[^c-64902008b1947b89f3a9829deaecd9ef][^c-36ca0aee6adbed9a43309a32b42abb27][^c-815f4787b9bf36399da5d3b409384750]
 
 In Schedule 5 to the Electoral Law Act (Northern Ireland) 1962 (local elections rules), in the Appendix of Forms, in form 2 (consent to nomination), for “or a citizen of another Member State of the European Union” substitute “, qualifying EU citizen (within the meaning of section 203A of the Representation of the People Act 1983) or EU citizen with retained rights (within the meaning of section 203B of that Act)”.
 
-#### 8. Local Government Act (Northern Ireland) 1972[^key-6a2cacedd1aaa592beb916853c999599][^key-f56a14489a3a0bb850017c36cb83cf1e][^key-8e8389d5940c61724a290d5c7a2d2a92]
+#### 8. Local Government Act (Northern Ireland) 1972[^c-6a2cacedd1aaa592beb916853c999599][^c-f56a14489a3a0bb850017c36cb83cf1e][^c-8e8389d5940c61724a290d5c7a2d2a92]
 
 In section 3 of the Local Government Act (Northern Ireland) 1972 (qualifications)—
 
@@ -342,7 +342,7 @@ In section 3 of the Local Government Act (Northern Ireland) 1972 (qualifications
   - (i) omit from ““citizen of the Union” shall” to “Ireland; and”;
   - (ii) after “election” insert “; and “**qualifying EU citizen**” and “**EU citizen with retained rights**” have the same meaning as in the Representation of the People Act 1983 (see sections 203A and 203B of that Act).”
 
-#### 9. Elected Authorities (Northern Ireland) Act 1989[^key-05fbf3712a06df3f399672b68fb0bf13][^key-d64a28da24ff4c3ac776935c920f5102]
+#### 9. Elected Authorities (Northern Ireland) Act 1989[^c-05fbf3712a06df3f399672b68fb0bf13][^c-d64a28da24ff4c3ac776935c920f5102]
 
 (1) The Elected Authorities (Northern Ireland) Act 1989 is amended as follows.
 
@@ -405,7 +405,7 @@ In section 3 of the Local Government Act (Northern Ireland) 1972 (qualifications
   >   - (ii) in paragraph (b)(iiia), omit “in England or entered in the list of proxies”, and
   >   - (iii) omit paragraph (b)(iv).
 
-#### 10. Northern Ireland Act 1998[^key-bb9109aa8b1cac2f8d50b6898c00f36a][^key-a2c2663836bd5610f330d8e20311a7db][^key-dd365a423344d41df0e10c9b6d62c27c]
+#### 10. Northern Ireland Act 1998[^c-bb9109aa8b1cac2f8d50b6898c00f36a][^c-a2c2663836bd5610f330d8e20311a7db][^c-dd365a423344d41df0e10c9b6d62c27c]
 
 (1) Section 36 of the Northern Ireland Act 1998 (disqualification) is amended as follows.
 
@@ -422,7 +422,7 @@ In section 3 of the Local Government Act (Northern Ireland) 1972 (qualifications
 
 > (8) In this section, “**qualifying EU citizen**” and “**EU citizen with retained rights**” have the same meaning as in the Representation of the People Act 1983 (see sections 203A and 203B of that Act).
 
-#### 11. Northern Ireland Assembly (Elections) Order 2001[^key-ca9940f9a783813f28a782cd239ab4d1][^key-ff45dd23abb78e80eee0119c12eb4057]
+#### 11. Northern Ireland Assembly (Elections) Order 2001[^c-ca9940f9a783813f28a782cd239ab4d1][^c-ff45dd23abb78e80eee0119c12eb4057]
 
 (1) In Schedule 1 to the Northern Ireland Assembly (Elections) Order 2001 ([S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599)) (application with modifications of RPA 1983 etc), the table is amended as follows.
 
@@ -447,7 +447,7 @@ In section 3 of the Local Government Act (Northern Ireland) 1972 (qualifications
 
 ### Part 4 — Transitional provision etc
 
-#### 12. Holders of elected offices[^key-6681b0c02f7d8c08b97eac1b6771babf][^key-b1c0f11e4cf0de932ca363e2cfca8037]
+#### 12. Holders of elected offices[^c-6681b0c02f7d8c08b97eac1b6771babf][^c-b1c0f11e4cf0de932ca363e2cfca8037]
 
 (1) This paragraph applies where—
 
@@ -465,14 +465,14 @@ In section 3 of the Local Government Act (Northern Ireland) 1972 (qualifications
 - (b) member of a local authority in England;
 - (c) elected mayor (within the meaning of Part 1A of the Local Government Act 2000);
 - (d) mayor for the area of a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
-- (da)[^key-b06e319c7f781a1881156e45c8d55145] mayor for the area of a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
+- (da)[^c-b06e319c7f781a1881156e45c8d55145] mayor for the area of a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
 - (e) Mayor of London;
 - (f) member of the London Assembly;
 - (g) police and crime commissioner.
 
 (5) In sub-paragraph (4)(b), “**local authority in England**” means a county council in England, a district council, a parish council, a London borough council or the Council of the Isles of Scilly.
 
-#### 13. Power to make transitional and saving provision[^key-e059d0ebdb04fffe70697b582a81734a][^key-06f8bf6417f75d2163052867d604885f]
+#### 13. Power to make transitional and saving provision[^c-e059d0ebdb04fffe70697b582a81734a][^c-06f8bf6417f75d2163052867d604885f]
 
 (1) The Secretary of State may by regulations make transitional or saving provision in connection with provision made by this Schedule.
 
@@ -489,82 +489,82 @@ In section 3 of the Local Government Act (Northern Ireland) 1972 (qualifications
 
 ## Annotations
 
-[^key-4abcf2b5fda648d2859fc7f877762395]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-4abcf2b5fda648d2859fc7f877762395]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-6ec9bbbfe276042613b5bdc2b7237e79]: Commencement: [Sch. 8 para. 1(1)-(8)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/1) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-6ec9bbbfe276042613b5bdc2b7237e79]: Commencement: [Sch. 8 para. 1(1)-(8)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/1) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-b4eaa1a42478edee0eb11436a9c91ac1]: Commencement: [Sch. 8 para. 1(9)-(12)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/9) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)
+[^c-b4eaa1a42478edee0eb11436a9c91ac1]: Commencement: [Sch. 8 para. 1(9)-(12)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/9) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)
 
-[^key-87bf15467e9b54da3a348ed0f236f2ba]: Commencement: [Sch. 8 para. 1(9)-(12)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/9) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-87bf15467e9b54da3a348ed0f236f2ba]: Commencement: [Sch. 8 para. 1(9)-(12)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/9) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-e85ae9751557d598c8dcc5069a1fbe3c]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-e85ae9751557d598c8dcc5069a1fbe3c]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-7ab9e9df12fc324df3838e146421cccf]: Commencement: [Sch. 8 para. 2(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/2/1) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/ii)
+[^c-7ab9e9df12fc324df3838e146421cccf]: Commencement: [Sch. 8 para. 2(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/2/1) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/ii)
 
-[^key-d34be057c84fef7c26badb1ffc265fb1]: Commencement: [Sch. 8 para. 2(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/2/1) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-d34be057c84fef7c26badb1ffc265fb1]: Commencement: [Sch. 8 para. 2(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/2/1) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-271845cefaf4d966f54b86909a87fab9]: Commencement: [Sch. 8 para. 2(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/2/4) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/4))
+[^c-271845cefaf4d966f54b86909a87fab9]: Commencement: [Sch. 8 para. 2(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/2/4) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/4))
 
-[^key-ceba281e91b14f5b854b60b54209e06f]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ceba281e91b14f5b854b60b54209e06f]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-1b64d52d2c9ec96fa0b0ffd9f15f171b]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/3) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iii)
+[^c-1b64d52d2c9ec96fa0b0ffd9f15f171b]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/3) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iii)
 
-[^key-eee0d1d7a4e3772043f5ac8086615a13]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/3) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-eee0d1d7a4e3772043f5ac8086615a13]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/3) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
 [^M_C_d16b1a30-a383-49ba-edd9-27c2b8e6494e]: Modification: Savings for the amendments by Sch. 8 paras. 3-5 (7.5.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/1406/regulation/17), [18](https://www.legislation.gov.uk/uksi/2023/1406/regulation/18)
 
-[^key-05d3131e322e960ea851aa19cc41aa9d]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-05d3131e322e960ea851aa19cc41aa9d]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-12721b68cb3f20af88e324cf5613e79e]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/4) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iii)
+[^c-12721b68cb3f20af88e324cf5613e79e]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/4) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iii)
 
-[^key-5f0402894df13aa9833c849b51958310]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/4) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-5f0402894df13aa9833c849b51958310]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/4) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-c81a5877df5e1994f016eb4baa46dd08]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-c81a5877df5e1994f016eb4baa46dd08]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-b35efa59c73446c76b94df43a78f8b86]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/5) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iii)
+[^c-b35efa59c73446c76b94df43a78f8b86]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/5) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iii)
 
-[^key-73f32c1bf3f935838c0c48412a087259]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/5) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-73f32c1bf3f935838c0c48412a087259]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/5) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-3930b0cac56abe58785b67885b23a74c]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-3930b0cac56abe58785b67885b23a74c]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-91f97773c509ed29f3c81e734541ff0b]: Commencement: [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/2)[(4)-(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/4) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iv)
+[^c-91f97773c509ed29f3c81e734541ff0b]: Commencement: [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/2)[(4)-(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/4) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iv)
 
-[^key-05a00a180f5a5677fb26eabdd5d520a2]: Commencement: [Sch. 8 para. 6(1)(2)(4)-(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/1/2/4) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-05a00a180f5a5677fb26eabdd5d520a2]: Commencement: [Sch. 8 para. 6(1)(2)(4)-(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/1/2/4) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-df5e271fbc9df69a669451f92fcecb71]: Commencement: [Sch. 8 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/3) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-df5e271fbc9df69a669451f92fcecb71]: Commencement: [Sch. 8 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/3) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-64902008b1947b89f3a9829deaecd9ef]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-64902008b1947b89f3a9829deaecd9ef]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-36ca0aee6adbed9a43309a32b42abb27]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/7) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/v)
+[^c-36ca0aee6adbed9a43309a32b42abb27]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/7) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/v)
 
-[^key-815f4787b9bf36399da5d3b409384750]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/7) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-815f4787b9bf36399da5d3b409384750]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/7) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-6a2cacedd1aaa592beb916853c999599]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-6a2cacedd1aaa592beb916853c999599]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-f56a14489a3a0bb850017c36cb83cf1e]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/8) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/v)
+[^c-f56a14489a3a0bb850017c36cb83cf1e]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/8) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/v)
 
-[^key-8e8389d5940c61724a290d5c7a2d2a92]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/8) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-8e8389d5940c61724a290d5c7a2d2a92]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/8) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-05fbf3712a06df3f399672b68fb0bf13]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-05fbf3712a06df3f399672b68fb0bf13]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d64a28da24ff4c3ac776935c920f5102]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-d64a28da24ff4c3ac776935c920f5102]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-bb9109aa8b1cac2f8d50b6898c00f36a]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-bb9109aa8b1cac2f8d50b6898c00f36a]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-a2c2663836bd5610f330d8e20311a7db]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/10) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/v)
+[^c-a2c2663836bd5610f330d8e20311a7db]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/10) in force at 1.11.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/v)
 
-[^key-dd365a423344d41df0e10c9b6d62c27c]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/10) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-dd365a423344d41df0e10c9b6d62c27c]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/10) in force at 7.5.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-ca9940f9a783813f28a782cd239ab4d1]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ca9940f9a783813f28a782cd239ab4d1]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-ff45dd23abb78e80eee0119c12eb4057]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/11) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-ff45dd23abb78e80eee0119c12eb4057]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/11) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-6681b0c02f7d8c08b97eac1b6771babf]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-6681b0c02f7d8c08b97eac1b6771babf]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-b1c0f11e4cf0de932ca363e2cfca8037]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/12) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-b1c0f11e4cf0de932ca363e2cfca8037]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/12) in force at 7.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-b06e319c7f781a1881156e45c8d55145]: Textual amendment: [Sch. 8 para. 12(4)(da)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/12/4/da) inserted (7.5.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/b/ii), [Sch. 4 para. 230](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/230) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1405/regulation/8)
+[^c-b06e319c7f781a1881156e45c8d55145]: Textual amendment: [Sch. 8 para. 12(4)(da)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/12/4/da) inserted (7.5.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/b/ii), [Sch. 4 para. 230](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/230) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1405/regulation/8)
 
-[^key-e059d0ebdb04fffe70697b582a81734a]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-e059d0ebdb04fffe70697b582a81734a]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-06f8bf6417f75d2163052867d604885f]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/13) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/h)
+[^c-06f8bf6417f75d2163052867d604885f]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/13) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/h)

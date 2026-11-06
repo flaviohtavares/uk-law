@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Two or more local authorities acting jointly in relation to heat network zone[^key-de681e3d6f267f81f7d3ba67ed70f966]
+## 52. Two or more local authorities acting jointly in relation to heat network zone[^c-de681e3d6f267f81f7d3ba67ed70f966]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de681e3d6f267f81f7d3ba67ed70f966]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2021/9/section/52) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(g)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/g)
+[^c-de681e3d6f267f81f7d3ba67ed70f966]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2021/9/section/52) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(g)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/g)

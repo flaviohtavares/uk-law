@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Measures open to Ministers[^key-51d7f78e183d1a9d595f2d861193e50a][^key-c2fdf402340b20f8987c0d99d573129f]
+## 38. Measures open to Ministers[^c-51d7f78e183d1a9d595f2d861193e50a][^c-c2fdf402340b20f8987c0d99d573129f]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ in relation to approved regulators.
 
 ## Annotations
 
-[^key-51d7f78e183d1a9d595f2d861193e50a]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/16/section/38) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-51d7f78e183d1a9d595f2d861193e50a]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/16/section/38) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-c2fdf402340b20f8987c0d99d573129f]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/16/section/38) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-c2fdf402340b20f8987c0d99d573129f]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/16/section/38) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

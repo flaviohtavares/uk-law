@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Miscellaneous amendments to the 2016 Act[^key-4488548a0d9434f416c984baf60c300e]
+## 14. Miscellaneous amendments to the 2016 Act[^c-4488548a0d9434f416c984baf60c300e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 provides for miscellaneous amendments to the 2016 Act.
 
 ## Annotations
 
-[^key-4488548a0d9434f416c984baf60c300e]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2021/3/section/14) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-4488548a0d9434f416c984baf60c300e]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2021/3/section/14) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-The Welsh Ministers[^key-74ae6949e47f4b896dc34fec188f774a] may by regulations make provision—
+The Welsh Ministers[^c-74ae6949e47f4b896dc34fec188f774a] may by regulations make provision—
 
 - (a) as to the dates on which and years in which elections for the return of elected mayors or elected executive members may or must take place,
 - (b) as to the intervals between elections for the return of elected mayors or elected executive members,
@@ -31,4 +31,4 @@ The Welsh Ministers[^key-74ae6949e47f4b896dc34fec188f774a] may by regulations ma
 
 [^c1427893]: Commencement: S. 41 wholly in force at 1.11.2000; s. 41 not in force at Royal Assent see s. 108; s. 41 in force at 7.8.2000 in relation to England only by [S.I. 2000/2187](https://www.legislation.gov.uk/uksi/2000/2187), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2187/article/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2000/2187/article/2/a); s. 41 in force at 1.11.2000 in relation to Wales by [S.I. 2000/2948](https://www.legislation.gov.uk/uksi/2000/2948), [art. 2](https://www.legislation.gov.uk/uksi/2000/2948/article/2)
 
-[^key-74ae6949e47f4b896dc34fec188f774a]: Textual amendment: Words in s. 41 substituted (9.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 57](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/57); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/628/article/2/b/i)
+[^c-74ae6949e47f4b896dc34fec188f774a]: Textual amendment: Words in s. 41 substituted (9.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 57](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/57); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/628/article/2/b/i)

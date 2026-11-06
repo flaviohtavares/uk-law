@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Amendment of Requirements of Writing (Scotland) Act 1995[^key-7ad4daac8302ff66887607866818e192]
+## 79. Amendment of Requirements of Writing (Scotland) Act 1995[^c-7ad4daac8302ff66887607866818e192]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ad4daac8302ff66887607866818e192]: Commencement: S. 79 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-7ad4daac8302ff66887607866818e192]: Commencement: S. 79 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

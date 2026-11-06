@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Provision by Principal Reporter of information to victims[^key-f4a4f5f0b1478edf32546c9ac6b7a3c0]
+## 53. Provision by Principal Reporter of information to victims[^c-f4a4f5f0b1478edf32546c9ac6b7a3c0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4a4f5f0b1478edf32546c9ac6b7a3c0]: Textual amendment: S. 53 repealed (29.11.2019) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 27(3)](https://www.legislation.gov.uk/asp/2019/7/section/27/3), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2019/349](https://www.legislation.gov.uk/ssi/2019/349), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/349/regulation/2/b)
+[^c-f4a4f5f0b1478edf32546c9ac6b7a3c0]: Textual amendment: S. 53 repealed (29.11.2019) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 27(3)](https://www.legislation.gov.uk/asp/2019/7/section/27/3), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2019/349](https://www.legislation.gov.uk/ssi/2019/349), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/349/regulation/2/b)

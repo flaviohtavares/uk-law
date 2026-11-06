@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Dissolution of the Regional Health and Social Care Board[^key-3b303eb2434e569e5533c31d76d50688][^key-6874ed160637ec2c650ee122b9cd7102]
+## 1. Dissolution of the Regional Health and Social Care Board[^c-3b303eb2434e569e5533c31d76d50688][^c-6874ed160637ec2c650ee122b9cd7102]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The Regional Health and Social Care Board is dissolved.
 
 ## Annotations
 
-[^key-3b303eb2434e569e5533c31d76d50688]: Commencement: S. 1 not in operation at Royal Assent, see [s. 8(1)(a)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/a)
+[^c-3b303eb2434e569e5533c31d76d50688]: Commencement: S. 1 not in operation at Royal Assent, see [s. 8(1)(a)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/a)
 
-[^key-6874ed160637ec2c650ee122b9cd7102]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/3/section/1) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/102/article/2/a)
+[^c-6874ed160637ec2c650ee122b9cd7102]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/3/section/1) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/102/article/2/a)

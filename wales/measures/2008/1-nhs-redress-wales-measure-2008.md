@@ -40,7 +40,7 @@ A MEASURE of the National Assembly for Wales to make provision about arrangement
 
 **This Measure, passed by the National Assembly for Wales on 6 May 2008 and approved by Her Majesty in Council on 9 July 2008, enacts the following provisions:–**
 
-## 1. Power of Welsh Ministers to make regulations in respect of NHS redress[^key-d3a0376f1ab193c762f4bb541d71e7a1]
+## 1. Power of Welsh Ministers to make regulations in respect of NHS redress[^c-d3a0376f1ab193c762f4bb541d71e7a1]
 
 (1) The Welsh Ministers may make provision by regulations for the purpose of enabling redress to be provided without recourse to civil proceedings in circumstances in which this section applies.
 
@@ -63,7 +63,7 @@ A MEASURE of the National Assembly for Wales to make provision about arrangement
 
 (6) In subsection (3)(e), the reference to a person providing services does not include a person providing services under a contract of employment.
 
-## 2. Redress under the regulations[^key-e13b894ef2e2641952f16ed76b6f9b45]
+## 2. Redress under the regulations[^c-e13b894ef2e2641952f16ed76b6f9b45]
 
 (1) Subject to subsections (2), (3) and (6), the regulations may make such provision as the Welsh Ministers think fit about redress.
 
@@ -94,7 +94,7 @@ but the regulations may specify circumstances in which one or more of those form
 - (b) must, if they do not specify a limit under paragraph (a), specify an upper limit on the amount of financial compensation that may be included in such an offer in respect of pain and suffering;
 - (c) may not specify any other limit on what may be included in such an offer by way of financial compensation.
 
-## 3. Accessing redress[^key-912693baa765201de88fe43f7ab9de93]
+## 3. Accessing redress[^c-912693baa765201de88fe43f7ab9de93]
 
 (1) The regulations may make such provision as the Welsh Ministers think fit about accessing redress.
 
@@ -105,7 +105,7 @@ but the regulations may specify circumstances in which one or more of those form
 - (c) for time limits in relation to accessing redress;
 - (d) about circumstances in which redress may not be accessed.
 
-## 4. Duty to consider the potential application of redress arrangements[^key-deecb076f68b07991e2c1d86bf0b1c63]
+## 4. Duty to consider the potential application of redress arrangements[^c-deecb076f68b07991e2c1d86bf0b1c63]
 
 (1) The regulations may make such provision as the Welsh Ministers think fit requiring any body or person mentioned in subsection (2)—
 
@@ -117,7 +117,7 @@ but the regulations may specify circumstances in which one or more of those form
 - (a) any body or person to whose liability the regulations apply;
 - (b) any other body or person prescribed by the Welsh Ministers in the regulations.
 
-## 5. Method of delivering redress[^key-39510759571bf2534c8f49af83e181fe]
+## 5. Method of delivering redress[^c-39510759571bf2534c8f49af83e181fe]
 
 (1) Subject to subsections (3) to (6), the regulations may make such provision as the Welsh Ministers think fit regarding how redress is delivered.
 
@@ -149,7 +149,7 @@ but the regulations may specify circumstances in which one or more of those form
 
 (6) The regulations must provide that redress may no longer be sought under the regulations if the liability in relation to which redress is being sought becomes the subject of civil proceedings.
 
-## 6. Suspension of limitation period[^key-577d525008408cbe0dd0758251affe12]
+## 6. Suspension of limitation period[^c-577d525008408cbe0dd0758251affe12]
 
 (1) The regulations must make provision for the period during which a liability is the subject of an application for redress under the regulations to be disregarded for the purposes of calculating whether any relevant limitation period has expired or not.
 
@@ -157,7 +157,7 @@ but the regulations may specify circumstances in which one or more of those form
 
 (3) The regulations may define for the purposes of provision in accordance with subsection (1) when liability is the subject of an application for redress under the regulations.
 
-## 7. Legal advice, etc.[^key-32bc22c37879c7b16eb325b2629408c2]
+## 7. Legal advice, etc.[^c-32bc22c37879c7b16eb325b2629408c2]
 
 (1) Subject to subsections (2) and (4), the regulations may make such provision as the Welsh Ministers think fit—
 
@@ -174,7 +174,7 @@ but the regulations may specify circumstances in which one or more of those form
 
 (4) If the regulations make provision for the services of medical experts, they must also provide for such experts to be instructed jointly by the body or person operating the redress arrangements under the regulations and the individual seeking redress.
 
-## 8. Assistance for individuals seeking redress[^key-b4a65c4a722453fac384ac14cd1802a5]
+## 8. Assistance for individuals seeking redress[^c-b4a65c4a722453fac384ac14cd1802a5]
 
 (1) It is the duty of the Welsh Ministers to arrange, to such extent as they consider necessary to meet all reasonable requirements, for the provision of assistance (by way of representation or otherwise) to individuals seeking, or intending to seek, redress under the regulations.
 
@@ -184,7 +184,7 @@ but the regulations may specify circumstances in which one or more of those form
 
 (4) In making arrangements under this section, the Welsh Ministers must have regard to the principle that the provision of services under the arrangements in connection with a particular case should, as far as practicable, be independent of any person to whose conduct the case relates or who is involved in dealing with the application for redress.
 
-## 9. Functions with regard to redress arrangements[^key-caf93fcf9a018d6b0b7efa63c09b9ec6]
+## 9. Functions with regard to redress arrangements[^c-caf93fcf9a018d6b0b7efa63c09b9ec6]
 
 (1) The regulations may make provision for any person or body within the health service in Wales to have such functions with regard to the operation of redress arrangements under this Measure as the Welsh Ministers think fit.
 
@@ -211,13 +211,13 @@ but the regulations may specify circumstances in which one or more of those form
 
 (7) The provision that may be made under this section includes provision which has the effect that a body or person who has arranged for the provision of services shall have functions under the regulations which relate to someone else's liability in connection with the provision of those services.
 
-## 10. Complaints[^key-39fdf50b9750cd0360e2bb0361dc7fb0]
+## 10. Complaints[^c-39fdf50b9750cd0360e2bb0361dc7fb0]
 
 In section 113(2) of the Health and Social Care (Community Health and Standards) Act 2003 (c. 43), after paragraph (c) insert—
 
 > - (d) the provision of redress by or for a Welsh NHS body under the NHS Redress (Wales) Measure 2008.
 
-## 11. Orders and regulations[^key-bc52928e6aca6a18558e56ce24b5e38f]
+## 11. Orders and regulations[^c-bc52928e6aca6a18558e56ce24b5e38f]
 
 (1) Any power to make an order or regulations conferred by this Measure is exercisable by statutory instrument.
 
@@ -245,7 +245,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (7) Nothing in this Measure is to be regarded as limiting the generality of sections 1(1) and 12(1).
 
-## 12. Power to make further supplementary and consequential provision etc.[^key-057ddb764a7cf6a9352c4bc4836b7a03]
+## 12. Power to make further supplementary and consequential provision etc.[^c-057ddb764a7cf6a9352c4bc4836b7a03]
 
 (1) The Welsh Ministers may at any time by regulations make—
 
@@ -259,7 +259,7 @@ as they consider necessary or expedient for the purposes of, in consequence of, 
 - (a) amending or repealing any enactment passed before, or during the same Assembly year as, this Measure, and
 - (b) amending or revoking any subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)) made before the passing of this Measure.
 
-## 13. Interpretation[^key-b631c0a81870ff1cd3cfef4a275d88ae]
+## 13. Interpretation[^c-b631c0a81870ff1cd3cfef4a275d88ae]
 
 In this Measure—
 
@@ -269,7 +269,7 @@ In this Measure—
 - “**patient**” (“**claf**”) has the same meaning as in that Act;
 - “**personal injury**” (“**anaf personol**”) includes any disease and any impairment of a person's physical or mental health.
 
-## 14. Short title and commencement[^key-562fdd70b54baaec29551bcaa29865ed]
+## 14. Short title and commencement[^c-562fdd70b54baaec29551bcaa29865ed]
 
 (1) This Measure may be cited as the NHS Redress (Wales) Measure 2008.
 
@@ -279,30 +279,30 @@ In this Measure—
 
 ## Annotations
 
-[^key-d3a0376f1ab193c762f4bb541d71e7a1]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2008/1/section/1) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-d3a0376f1ab193c762f4bb541d71e7a1]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2008/1/section/1) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-e13b894ef2e2641952f16ed76b6f9b45]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2008/1/section/2) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-e13b894ef2e2641952f16ed76b6f9b45]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2008/1/section/2) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-912693baa765201de88fe43f7ab9de93]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2008/1/section/3) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-912693baa765201de88fe43f7ab9de93]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2008/1/section/3) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-deecb076f68b07991e2c1d86bf0b1c63]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2008/1/section/4) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-deecb076f68b07991e2c1d86bf0b1c63]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2008/1/section/4) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-39510759571bf2534c8f49af83e181fe]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2008/1/section/5) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-39510759571bf2534c8f49af83e181fe]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2008/1/section/5) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-577d525008408cbe0dd0758251affe12]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2008/1/section/6) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-577d525008408cbe0dd0758251affe12]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2008/1/section/6) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-32bc22c37879c7b16eb325b2629408c2]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2008/1/section/7) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-32bc22c37879c7b16eb325b2629408c2]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2008/1/section/7) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-b4a65c4a722453fac384ac14cd1802a5]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2008/1/section/8) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-b4a65c4a722453fac384ac14cd1802a5]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2008/1/section/8) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-caf93fcf9a018d6b0b7efa63c09b9ec6]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2008/1/section/9) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-caf93fcf9a018d6b0b7efa63c09b9ec6]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2008/1/section/9) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-39fdf50b9750cd0360e2bb0361dc7fb0]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2008/1/section/10) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-39fdf50b9750cd0360e2bb0361dc7fb0]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2008/1/section/10) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-bc52928e6aca6a18558e56ce24b5e38f]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2008/1/section/11) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-bc52928e6aca6a18558e56ce24b5e38f]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2008/1/section/11) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-057ddb764a7cf6a9352c4bc4836b7a03]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2008/1/section/12) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
+[^c-057ddb764a7cf6a9352c4bc4836b7a03]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2008/1/section/12) in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/wsi/2011/211), [Sch.](https://www.legislation.gov.uk/wsi/2011/211/schedule)
 
-[^key-b631c0a81870ff1cd3cfef4a275d88ae]: Commencement: S. 13 in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/uksi/2011/211), [Sch.](https://www.legislation.gov.uk/uksi/2011/211/schedule)
+[^c-b631c0a81870ff1cd3cfef4a275d88ae]: Commencement: S. 13 in force at 7.2.2011 by [S.I. 2011/211](https://www.legislation.gov.uk/uksi/2011/211), [Sch.](https://www.legislation.gov.uk/uksi/2011/211/schedule)
 
-[^key-562fdd70b54baaec29551bcaa29865ed]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2008/1/section/14) in force at 9.7.2008, see [s. 14(2)](https://www.legislation.gov.uk/mwa/2008/1/section/14/2)
+[^c-562fdd70b54baaec29551bcaa29865ed]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2008/1/section/14) in force at 9.7.2008, see [s. 14(2)](https://www.legislation.gov.uk/mwa/2008/1/section/14/2)

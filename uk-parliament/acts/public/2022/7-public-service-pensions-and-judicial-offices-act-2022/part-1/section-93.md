@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Operation of employer cost cap in relation to 2016/17 valuation[^key-12320c167acfa9dba0468cc46d4f27be][^key-795c2821ed76b3cb8fb1636d495750e5]
+## 93. Operation of employer cost cap in relation to 2016/17 valuation[^c-12320c167acfa9dba0468cc46d4f27be][^c-795c2821ed76b3cb8fb1636d495750e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12320c167acfa9dba0468cc46d4f27be]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-12320c167acfa9dba0468cc46d4f27be]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-795c2821ed76b3cb8fb1636d495750e5]: Commencement: S. 93 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-795c2821ed76b3cb8fb1636d495750e5]: Commencement: S. 93 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

@@ -32,7 +32,7 @@ summary: ''
 
 Fisheries
 
-Fisheries (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-675b907d87f961603f6101bf6ade9f63]
+Fisheries (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-675b907d87f961603f6101bf6ade9f63]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 1st November 2011
 
-[^key-675b907d87f961603f6101bf6ade9f63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-675b907d87f961603f6101bf6ade9f63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-675b907d87f961603f6101bf6ade9f63]
+## 1. Citation and commencement[^c-675b907d87f961603f6101bf6ade9f63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Regulations (Northern Ireland) 2003[^key-675b907d87f961603f6101bf6ade9f63]
+## 2. Amendment of the Fisheries Regulations (Northern Ireland) 2003[^c-675b907d87f961603f6101bf6ade9f63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. List of waters where there is no close season for rainbow trout[^key-675b907d87f961603f6101bf6ade9f63]
+## 3. List of waters where there is no close season for rainbow trout[^c-675b907d87f961603f6101bf6ade9f63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-675b907d87f961603f6101bf6ade9f63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-675b907d87f961603f6101bf6ade9f63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-675b907d87f961603f6101bf6ade9f63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-675b907d87f961603f6101bf6ade9f63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-675b907d87f961603f6101bf6ade9f63]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/324) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [reg. 3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)
+[^c-675b907d87f961603f6101bf6ade9f63]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/324) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [reg. 3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)

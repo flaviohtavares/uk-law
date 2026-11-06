@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Abolition of maintenance liability of relatives[^key-c7202109fc872172f6f9762365f25ada][^key-8bb1fa83698c5fc4fbf5cfe253da24fe]
+## 147. Abolition of maintenance liability of relatives[^c-c7202109fc872172f6f9762365f25ada][^c-8bb1fa83698c5fc4fbf5cfe253da24fe]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7202109fc872172f6f9762365f25ada]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2008/14/section/147) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/462/article/4/a)
+[^c-c7202109fc872172f6f9762365f25ada]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2008/14/section/147) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/462/article/4/a)
 
-[^key-8bb1fa83698c5fc4fbf5cfe253da24fe]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2008/14/section/147) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(a)](https://www.legislation.gov.uk/wsi/2009/631/article/2/a)
+[^c-8bb1fa83698c5fc4fbf5cfe253da24fe]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2008/14/section/147) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(a)](https://www.legislation.gov.uk/wsi/2009/631/article/2/a)

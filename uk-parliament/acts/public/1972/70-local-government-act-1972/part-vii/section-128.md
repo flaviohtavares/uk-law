@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 128. Consents to land transactions by local authorities and protection of purchasers.[^c15108241][^c15108251][^key-87aa258111d7690e32b42bba8153eed4][^key-06ca4209fba3313552a193434db3f14a][^key-3f5273fe1b8a03f04dc293e6e17b4d0a][^key-0ced813a3b0a4f54f24449825dd2abd8]
+## 128. Consents to land transactions by local authorities and protection of purchasers.[^c15108241][^c15108251][^c-87aa258111d7690e32b42bba8153eed4][^c-06ca4209fba3313552a193434db3f14a][^c-3f5273fe1b8a03f04dc293e6e17b4d0a][^c-0ced813a3b0a4f54f24449825dd2abd8]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) in relation to local authorities generally, or local authorities of a particular class, or any particular local authority or authorities; and
 - (c) either unconditionally or subject to such conditions as the Minister concerned may specify (either generally, or in relation to any particular transaction or transactions or class of transactions).
 
-(2)[^c15108271][^c15108281][^c15108291][^c15108301][^c15108311][^key-54f515d2bdf834de94ebfbe98e2e81d3] Where under the foregoing provisions of this Part of this Act or under any other enactment, whether passed before, at the same time as, or after, this Act, a local authority purport to acquire, appropriate or dispose of land, then—
+(2)[^c15108271][^c15108281][^c15108291][^c15108301][^c15108311][^c-54f515d2bdf834de94ebfbe98e2e81d3] Where under the foregoing provisions of this Part of this Act or under any other enactment, whether passed before, at the same time as, or after, this Act, a local authority purport to acquire, appropriate or dispose of land, then—
 
 - (a) in favour of any person claiming under the authority, the acquisition, appropriation or disposal so purporting to be made shall not be invalid by reason that any consent of a Minister which is required thereto has not been given or that any requirement as to advertisement or consideration of objections has not been complied with, and
 - (b) a person dealing with the authority or a person claiming under the authority shall not be concerned to see or enquire whether any such consent has been given or whether any such requirement has been complied with.
@@ -53,13 +53,13 @@ summary: ''
 
     S. 128 applied (with modifications) (1.4.2001 (E.) and 1.5.2001 (W.)) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [s. 87(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/87/6), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2000/37/schedule/14/paragraph/6) (with [s. 84(4)-(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/84/4)); [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)
 
-[^key-87aa258111d7690e32b42bba8153eed4]: Modification: Ss. 128-131 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-87aa258111d7690e32b42bba8153eed4]: Modification: Ss. 128-131 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-06ca4209fba3313552a193434db3f14a]: Modification: Ss. 128-131 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-06ca4209fba3313552a193434db3f14a]: Modification: Ss. 128-131 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-3f5273fe1b8a03f04dc293e6e17b4d0a]: Modification: Ss. 128-131 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-3f5273fe1b8a03f04dc293e6e17b4d0a]: Modification: Ss. 128-131 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-0ced813a3b0a4f54f24449825dd2abd8]: Modification: Ss. 128-131 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
+[^c-0ced813a3b0a4f54f24449825dd2abd8]: Modification: Ss. 128-131 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
 
 [^c15108261]: Modification: S. 128(1) amended (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
@@ -77,6 +77,6 @@ summary: ''
 
     S. 128(2) modified (1.4.1995) by [S.I. 1995/401](https://www.legislation.gov.uk/uksi/1995/401), [art. 18](https://www.legislation.gov.uk/uksi/1995/401/article/18), [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/1995/401/schedule/paragraph/1/c)
 
-[^key-54f515d2bdf834de94ebfbe98e2e81d3]: Modification: S. 128(2) applied by 1990 c. 8, s. 233(9) (as inserted (25.6.2013 for E.) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/8/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 3](https://www.legislation.gov.uk/uksi/2013/1124/article/3))
+[^c-54f515d2bdf834de94ebfbe98e2e81d3]: Modification: S. 128(2) applied by 1990 c. 8, s. 233(9) (as inserted (25.6.2013 for E.) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/8/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 3](https://www.legislation.gov.uk/uksi/2013/1124/article/3))
 
 [^c15108321]: Marginal citation: [1959 c. 53](https://www.legislation.gov.uk/ukpga/1959/53).

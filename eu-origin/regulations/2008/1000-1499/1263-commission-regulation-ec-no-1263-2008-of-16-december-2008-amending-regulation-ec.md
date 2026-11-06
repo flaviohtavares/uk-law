@@ -35,200 +35,200 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-c0799bfebcdc468035deeac9716fdd42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0799bfebcdc468035deeac9716fdd42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c0799bfebcdc468035deeac9716fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c0799bfebcdc468035deeac9716fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c0799bfebcdc468035deeac9716fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c0799bfebcdc468035deeac9716fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c0799bfebcdc468035deeac9716fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c0799bfebcdc468035deeac9716fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0799bfebcdc468035deeac9716fdd42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c0799bfebcdc468035deeac9716fdd42]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-c0799bfebcdc468035deeac9716fdd42]IFRIC INTERPRETATION 14
+## ANNEX[^c-c0799bfebcdc468035deeac9716fdd42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]IAS 19 — The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction
+[^c-c0799bfebcdc468035deeac9716fdd42]IFRIC INTERPRETATION 14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]REFERENCES
+[^c-c0799bfebcdc468035deeac9716fdd42]IAS 19 — The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]BACKGROUND
+[^c-c0799bfebcdc468035deeac9716fdd42]REFERENCES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]1
+[^c-c0799bfebcdc468035deeac9716fdd42]BACKGROUND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]2
+[^c-c0799bfebcdc468035deeac9716fdd42]1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]3
+[^c-c0799bfebcdc468035deeac9716fdd42]2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]SCOPE
+[^c-c0799bfebcdc468035deeac9716fdd42]3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]4
+[^c-c0799bfebcdc468035deeac9716fdd42]SCOPE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]5
+[^c-c0799bfebcdc468035deeac9716fdd42]4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]ISSUES
+[^c-c0799bfebcdc468035deeac9716fdd42]5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]6
+[^c-c0799bfebcdc468035deeac9716fdd42]ISSUES
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c0799bfebcdc468035deeac9716fdd42]6
 
 The issues addressed in this Interpretation are:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]CONSENSUS
+[^c-c0799bfebcdc468035deeac9716fdd42]CONSENSUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]Availability of a refund or reduction in future contributions
+[^c-c0799bfebcdc468035deeac9716fdd42]Availability of a refund or reduction in future contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]7
+[^c-c0799bfebcdc468035deeac9716fdd42]7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]8
+[^c-c0799bfebcdc468035deeac9716fdd42]8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]9
+[^c-c0799bfebcdc468035deeac9716fdd42]9
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]10
+[^c-c0799bfebcdc468035deeac9716fdd42]10
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]The economic benefit available as a refund
+[^c-c0799bfebcdc468035deeac9716fdd42]The economic benefit available as a refund
 
 The right to a refund
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]11
+[^c-c0799bfebcdc468035deeac9716fdd42]11
 
 A refund is available to an entity only if the entity has an unconditional right to a refund:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]12
+[^c-c0799bfebcdc468035deeac9716fdd42]12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]13
+[^c-c0799bfebcdc468035deeac9716fdd42]13
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]14
+[^c-c0799bfebcdc468035deeac9716fdd42]14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]15
+[^c-c0799bfebcdc468035deeac9716fdd42]15
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]The economic benefit available as a contribution reduction
+[^c-c0799bfebcdc468035deeac9716fdd42]The economic benefit available as a contribution reduction
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]16
+[^c-c0799bfebcdc468035deeac9716fdd42]16
 
 If there is no minimum funding requirement, an entity shall determine the economic benefit available as a reduction in future contributions as the lower of
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]17
+[^c-c0799bfebcdc468035deeac9716fdd42]17
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]The effect of a minimum funding requirement on the economic benefit available as a reduction in future contributions
+[^c-c0799bfebcdc468035deeac9716fdd42]The effect of a minimum funding requirement on the economic benefit available as a reduction in future contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]18
+[^c-c0799bfebcdc468035deeac9716fdd42]18
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]19
+[^c-c0799bfebcdc468035deeac9716fdd42]19
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]20
+[^c-c0799bfebcdc468035deeac9716fdd42]20
 
 If there is a minimum funding requirement for contributions relating to the future accrual of benefits, an entity shall determine the economic benefit available as a reduction in future contributions as the present value of:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]21
+[^c-c0799bfebcdc468035deeac9716fdd42]21
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]22
+[^c-c0799bfebcdc468035deeac9716fdd42]22
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]When a minimum funding requirement may give rise to a liability
+[^c-c0799bfebcdc468035deeac9716fdd42]When a minimum funding requirement may give rise to a liability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]23
+[^c-c0799bfebcdc468035deeac9716fdd42]23
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]24
+[^c-c0799bfebcdc468035deeac9716fdd42]24
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]25
+[^c-c0799bfebcdc468035deeac9716fdd42]25
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]26
+[^c-c0799bfebcdc468035deeac9716fdd42]26
 
 The liability in respect of the minimum funding requirement and any subsequent remeasurement of that liability shall be recognised immediately in accordance with the entity’s adopted policy for recognising the effect of the limit in paragraph 58 in IAS 19 on the measurement of the defined benefit asset. In particular:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]EFFECTIVE DATE
+[^c-c0799bfebcdc468035deeac9716fdd42]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]27
+[^c-c0799bfebcdc468035deeac9716fdd42]27
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]TRANSITION
+[^c-c0799bfebcdc468035deeac9716fdd42]TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0799bfebcdc468035deeac9716fdd42]28
+[^c-c0799bfebcdc468035deeac9716fdd42]28
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0799bfebcdc468035deeac9716fdd42]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/5) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0799bfebcdc468035deeac9716fdd42]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/5) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

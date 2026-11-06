@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Powers to require information[^key-bad00e6e0ba4cb3397415cfcba8a9889]
+## 162. Powers to require information[^c-bad00e6e0ba4cb3397415cfcba8a9889]
 
 *Extent: E+W+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bad00e6e0ba4cb3397415cfcba8a9889]: Commencement: S. 162 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-bad00e6e0ba4cb3397415cfcba8a9889]: Commencement: S. 162 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

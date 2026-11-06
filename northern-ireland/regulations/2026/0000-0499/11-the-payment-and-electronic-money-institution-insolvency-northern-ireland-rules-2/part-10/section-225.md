@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 225. Costs paid otherwise than out of the institution’s estate[^key-6d65f6248118abac81f1fb3852412627]
+## 225. Costs paid otherwise than out of the institution’s estate[^c-6d65f6248118abac81f1fb3852412627]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a bill of costs is taxed under an order of the court directing that those 
 
 ## Annotations
 
-[^key-6d65f6248118abac81f1fb3852412627]: Commencement: [Rule 225](https://www.legislation.gov.uk/nisr/2026/11/rule/225) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6d65f6248118abac81f1fb3852412627]: Commencement: [Rule 225](https://www.legislation.gov.uk/nisr/2026/11/rule/225) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

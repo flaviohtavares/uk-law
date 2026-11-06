@@ -27,13 +27,13 @@ summary: ''
 - (a) when the pension credit member reaches 65, or
 - (b) if it is later, when the pension sharing order under which the member is entitled to the pension credit takes effect.
 
-This is subject to paragraphs (5) and (8).[^key-c5012f2db333146d06e1eb4d3482a6ab]
+This is subject to paragraphs (5) and (8).[^c-c5012f2db333146d06e1eb4d3482a6ab]
 
 (3) The pension must be of such an amount that its value is equal to the member's pension credit, as calculated in accordance with regulations made under paragraph 5(b) of Schedule 5 to the 1999 Order.
 
 (4) A claim under paragraph (1) must be made by notice in writing in such form as the Department requires and takes effect from the date specified in the claim as the date on which the pension is to become payable.
 
-(5)[^key-334583a0d2eb18a044c246cb48a8c44c] A pension credit member who has not reached the age of 65 is entitled to immediate payment of a reduced pension payable for life if the pension credit member has—
+(5)[^c-334583a0d2eb18a044c246cb48a8c44c] A pension credit member who has not reached the age of 65 is entitled to immediate payment of a reduced pension payable for life if the pension credit member has—
 
 - (a) reached the age of 55; and
 - (b) claimed the payment of the pension.
@@ -57,6 +57,6 @@ This is subject to paragraphs (5) and (8).[^key-c5012f2db333146d06e1eb4d3482a6ab
 
 ## Annotations
 
-[^key-c5012f2db333146d06e1eb4d3482a6ab]: Textual amendment: Words in [reg. 177(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/177/2) added (with effect in accordance with reg. 1(3)(g) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [53(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/53/2)
+[^c-c5012f2db333146d06e1eb4d3482a6ab]: Textual amendment: Words in [reg. 177(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/177/2) added (with effect in accordance with reg. 1(3)(g) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [53(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/53/2)
 
-[^key-334583a0d2eb18a044c246cb48a8c44c]: Textual amendment: [Reg. 177(5)-(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/177/5) added (with effect in accordance with reg. 1(3)(g) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [53(3)](https://www.legislation.gov.uk/nisr/2009/188/regulation/53/3)
+[^c-334583a0d2eb18a044c246cb48a8c44c]: Textual amendment: [Reg. 177(5)-(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/177/5) added (with effect in accordance with reg. 1(3)(g) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [53(3)](https://www.legislation.gov.uk/nisr/2009/188/regulation/53/3)

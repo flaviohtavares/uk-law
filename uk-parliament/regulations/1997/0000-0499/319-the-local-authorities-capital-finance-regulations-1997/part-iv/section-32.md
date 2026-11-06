@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Consecutive leases of land for total term not exceeding ten years[^key-dbf772eee258b24950d771fb782b3821]
+## 32. Consecutive leases of land for total term not exceeding ten years[^c-dbf772eee258b24950d771fb782b3821]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ The initial cost of a lease (“the new lease”) of land shall be nil where—
 
 ## Annotations
 
-[^key-dbf772eee258b24950d771fb782b3821]: Commencement: Reg. 32 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-dbf772eee258b24950d771fb782b3821]: Commencement: Reg. 32 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00031]: Footnote: *See* the 1990 Regulations as amended by [S.I. 1995/850](https://www.legislation.gov.uk/uksi/1995/850).

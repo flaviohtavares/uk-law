@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 52(1) and (6) and 187(1) of the Regulation and Inspection of Social Care (Wales) Act 2016 [^c23726611], make the following Regulations [^c23726621]:
 
-## 1. Title and commencement[^key-f87aada03518db42655ba47e97de8131]
+## 1. Title and commencement[^c-f87aada03518db42655ba47e97de8131]
 
 (1) The title of these Regulations is the Regulated Services (Penalty Notices) (Wales) Regulations 2019.
 
 (2) These Regulations come into force on 1 July 2019.
 
-## 2. Interpretation[^key-02a450a02c329b298fdd6f36a84f046a]
+## 2. Interpretation[^c-02a450a02c329b298fdd6f36a84f046a]
 
 In these Regulations—
 
@@ -61,23 +61,23 @@ In these Regulations—
 - “**the Adult Placement Services Regulations**” (“***y Rheoliadau Gwasanaethau Lleoli Oedolion***”) means the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 [^c23726651];
 - “**the Advocacy Services Regulations**” (“***y Rheoliadau Gwasanaethau Eirioli***”) means the Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 [^c23726661];
 - “**the Fostering Services Regulations**” (“***y Rheoliadau Gwasanaethau Maethu***”) means the Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 [^c23726671];
-- “[^key-270d3a10290d2fa0784a48401a7b0802]**the Inspection Ratings Regulations**” (“***y Rheoliadau Graddau Arolygu***”) means the Regulated Services (Inspection Ratings) (Wales) Regulations 2025;
-- the Special School Residential Services Regulations (“[^key-5d64cd381da81b00ebaf7ed26cd1c5a2]***y Rheoliadau Gwasanaethau Preswyl Ysgolion Arbennig***”) means the Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024;
+- “[^c-270d3a10290d2fa0784a48401a7b0802]**the Inspection Ratings Regulations**” (“***y Rheoliadau Graddau Arolygu***”) means the Regulated Services (Inspection Ratings) (Wales) Regulations 2025;
+- the Special School Residential Services Regulations (“[^c-5d64cd381da81b00ebaf7ed26cd1c5a2]***y Rheoliadau Gwasanaethau Preswyl Ysgolion Arbennig***”) means the Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024;
 - “**offence**” (“***trosedd***”) means a prescribed offence;
 - “**payment period**” (“***cyfnod talu***”) has the meaning given in regulation 10;
 - “**penalty notice**” (“***hysbysiad cosb***”) means a penalty notice given pursuant to section 52 of the Act;
 - “**recipient**” (“***derbynnydd***”) means a person to whom a penalty notice is given in accordance with section 52 of the Act;
 - “service provider (“*darparwr gwasanaeth*”) means a person whose application for registration as provider of a regulated service has been granted under section 7(1) of the Act.
 
-## 3. Offences under the Act[^key-00bae06cfeda0d5138aca04afb52efa8]
+## 3. Offences under the Act[^c-00bae06cfeda0d5138aca04afb52efa8]
 
 An offence committed under section 47 (making false statements) of the Act is prescribed as an offence for the purposes of section 52(1) of that Act. The penalty to be paid is an amount corresponding to two and a half times level 4 on the standard scale [^c23726681].
 
-## 4.[^key-57e05fec43644094f6ac605e1034ee81]
+## 4.[^c-57e05fec43644094f6ac605e1034ee81]
 
-An offence committed under section 48 (failure to submit or publish[^key-5aaa27f9d50aaa582f23b809979c3770] an annual return) or 49 (failure to provide information) of the Act is prescribed as an offence for the purposes of section 52(1) of that Act. The penalty to be paid is an amount corresponding to level 4 on the standard scale.
+An offence committed under section 48 (failure to submit or publish[^c-5aaa27f9d50aaa582f23b809979c3770] an annual return) or 49 (failure to provide information) of the Act is prescribed as an offence for the purposes of section 52(1) of that Act. The penalty to be paid is an amount corresponding to level 4 on the standard scale.
 
-## 5. Offences under the 2017 Regulations[^key-b99a6df29399c5c925d482734a65c45f]
+## 5. Offences under the 2017 Regulations[^c-b99a6df29399c5c925d482734a65c45f]
 
 (1) The offences under the provisions of the 2017 Regulations listed in the first column of the table in Schedule 1 are prescribed as offences for the purposes of section 52(1) of the Act.
 
@@ -85,7 +85,7 @@ An offence committed under section 48 (failure to submit or publish[^key-5aaa27f
 
 (3) The amount of the penalty to be paid for each offence is specified in the third column of the table in Schedule 1.
 
-## 6. Offences under the Adoption Services Regulations[^key-a4ef4dc05507caf88817ed457fd99330]
+## 6. Offences under the Adoption Services Regulations[^c-a4ef4dc05507caf88817ed457fd99330]
 
 (1) The offences under the provisions of the Adoption Services Regulations listed in the first column of the table in Schedule 2 are prescribed as offences for the purposes of section 52(1) of the Act.
 
@@ -93,7 +93,7 @@ An offence committed under section 48 (failure to submit or publish[^key-5aaa27f
 
 (3) The amount of the penalty to be paid for each offence is specified in the third column of the table in Schedule 2.
 
-## 7. Offences under the Adult Placement Services Regulations[^key-04938b39b8412616febc527c83651fb8]
+## 7. Offences under the Adult Placement Services Regulations[^c-04938b39b8412616febc527c83651fb8]
 
 (1) The offences under the provisions of the Adult Placement Services Regulations listed in the first column of the table in Schedule 3 are prescribed as offences for the purposes of section 52(1) of the Act.
 
@@ -101,15 +101,15 @@ An offence committed under section 48 (failure to submit or publish[^key-5aaa27f
 
 (3) The amount of the penalty to be paid for each offence is specified in the third column of the table in Schedule 3.
 
-## 8. Offences under the Advocacy Services Regulations[^key-e26fd5a559c6f2c48036b7b813bf4ab4]
+## 8. Offences under the Advocacy Services Regulations[^c-e26fd5a559c6f2c48036b7b813bf4ab4]
 
-(1) The offences under the provisions of the Advocacy Services Regulations listed in the first column of the table in Schedule 4 are prescribed as offences for the purposes of section 52(1) of the Act[^key-65e5bd76237191e25084dedf6a921fb5].
+(1) The offences under the provisions of the Advocacy Services Regulations listed in the first column of the table in Schedule 4 are prescribed as offences for the purposes of section 52(1) of the Act[^c-65e5bd76237191e25084dedf6a921fb5].
 
 (2) The second column of the table in Schedule 4 contains a description of the prescribed offence.
 
 (3) The amount of the penalty to be paid for each offence is specified in the third column of the table in Schedule 4.
 
-## 9. Offences under the Fostering Services Regulations[^key-f1733a00666eef8041513b8a87cb9537]
+## 9. Offences under the Fostering Services Regulations[^c-f1733a00666eef8041513b8a87cb9537]
 
 (1) The offences under the provisions of the Fostering Services Regulations listed in the first column of the table in Schedule 5 are prescribed as offences for the purposes of section 52(1) of the Act.
 
@@ -117,7 +117,7 @@ An offence committed under section 48 (failure to submit or publish[^key-5aaa27f
 
 (3) The amount of the penalty to be paid for each offence is specified in the third column of the table in Schedule 5.
 
-## 9ZA. Offences under the Inspection Ratings Regulations[^key-2423e61d538cb82df80d6bd2115dc461]
+## 9ZA. Offences under the Inspection Ratings Regulations[^c-2423e61d538cb82df80d6bd2115dc461]
 
 (1) The offence under the provision of the Inspection Ratings Regulations listed in the first column of the table in Schedule 5A is prescribed as an offence for the purposes of section 52(1) of the Act.
 
@@ -125,7 +125,7 @@ An offence committed under section 48 (failure to submit or publish[^key-5aaa27f
 
 (3) The amount of the penalty to be paid for the offence is specified in the third column of the table in Schedule 5A.
 
-## 9A. Offences under the Special School Residential Services Regulations[^key-15f80101f7d3189477799c9e7dd573d4]
+## 9A. Offences under the Special School Residential Services Regulations[^c-15f80101f7d3189477799c9e7dd573d4]
 
 (1) The offences under the provisions of the Special School Residential Services Regulations listed in the first column of the table in Schedule 6 are prescribed as offences for the purposes of section 52(1) of the Act.
 
@@ -133,23 +133,23 @@ An offence committed under section 48 (failure to submit or publish[^key-5aaa27f
 
 (3) The amount of the penalty to be paid for each offence is specified in the third column of the table in Schedule 6.
 
-## 10. Period for payment of the penalty[^key-81272f7d2c349c490141cce52ebfbc93]
+## 10. Period for payment of the penalty[^c-81272f7d2c349c490141cce52ebfbc93]
 
 (1) The time by which the penalty specified in a penalty notice is to be paid is the end of the period of 28 days beginning with the date of receipt of the notice (“payment period”).
 
 (2) Section 184 of the Act [^c23726691] applies to a penalty notice as it applies to a notice required to be given under the Act.
 
-## 11. Payment of the penalty[^key-5d14fb432e6b0db90e0b5dcd2417444c]
+## 11. Payment of the penalty[^c-5d14fb432e6b0db90e0b5dcd2417444c]
 
 (1) Payment of the penalty specified in a penalty notice must be made to the Welsh Ministers by the method specified in the notice.
 
 (2) In any proceedings a certificate purporting to be signed by or on behalf of the Welsh Ministers stating that payment of a penalty was or was not received by the date specified in the certificate is evidence of the facts stated.
 
-## 12. Period during which proceedings may not be instituted[^key-609e1e8e456e8d3141f3a31c0790f3af]
+## 12. Period during which proceedings may not be instituted[^c-609e1e8e456e8d3141f3a31c0790f3af]
 
 Where a recipient is given a penalty notice, proceedings for the offence to which the notice relates may not be instituted against the recipient before the expiry of the payment period.
 
-## 13. Withdrawal of penalty notice[^key-e18dcb0b37a6c65653852baa28a1e632]
+## 13. Withdrawal of penalty notice[^c-e18dcb0b37a6c65653852baa28a1e632]
 
 (1) The Welsh Ministers may withdraw a penalty notice by giving written notice of the withdrawal to the recipient if—
 
@@ -166,7 +166,7 @@ Where a recipient is given a penalty notice, proceedings for the offence to whic
 
 (5) Where a penalty notice has been withdrawn under paragraph (1)(b), proceedings may be instituted or continued for the offence in connection with which that penalty notice was given if a further penalty notice in respect of the offence has been given and the penalty has not been paid before the expiry of the payment period.
 
-## 14. Content of penalty notice[^key-b7098cb1e6c9193a9309ba917cc86346]
+## 14. Content of penalty notice[^c-b7098cb1e6c9193a9309ba917cc86346]
 
 (1) A penalty notice must give such details of the circumstances alleged to constitute the offence as seem to the Welsh Ministers to be reasonably required to give the recipient information about it.
 
@@ -182,7 +182,7 @@ Where a recipient is given a penalty notice, proceedings for the offence to whic
 - (h) the means by which payment of the penalty may be made;
 - (i) the grounds on which the penalty notice may be withdrawn.
 
-## 15. Records[^key-a355903dd68c37c09c79d644b12e312c]
+## 15. Records[^c-a355903dd68c37c09c79d644b12e312c]
 
 The Welsh Ministers must keep a record of any penalty notices given, which must include—
 
@@ -191,7 +191,7 @@ The Welsh Ministers must keep a record of any penalty notices given, which must 
 - (c) details of any penalty notice which was withdrawn and the grounds for its withdrawal;
 - (d) details of whether the recipient was prosecuted for the offence for which the penalty notice was given.
 
-## 16. Revocation[^key-bc6baf733909177cef3479764f929db0]
+## 16. Revocation[^c-bc6baf733909177cef3479764f929db0]
 
 The Regulated Services (Penalty Notices) (Wales) Regulations 2017 [^c23726701] are revoked.
 
@@ -199,7 +199,7 @@ Julie Morgan
 
 Deputy Minister for Health and Social Services, under authority of the Minister for Health and Social Services, one of the Welsh Ministers
 
-## SCHEDULE 1 — Prescribed offences – services regulated under the 2017 Regulations[^key-d9bf1fad2bc404a8701fc27f1f42c895]
+## SCHEDULE 1 — Prescribed offences – services regulated under the 2017 Regulations[^c-d9bf1fad2bc404a8701fc27f1f42c895]
 
 Regulation 5
 
@@ -221,7 +221,7 @@ Regulation 5
 | Regulation 81(1) of the 2017 Regulations | Contravention of, or failure to comply with, requirements in relation to the preparation by a responsible individual of a statement of compliance with the requirements as to standards of care and support | An amount corresponding to two times level 4 on the standard scale |
 | Regulation 84(1) and (3) of the 2017 Regulations | Contravention of, or failure to comply with requirements in relation to the responsible individual's duty to make notifications to the service regulator | An amount corresponding to two times level 4 on the standard scale |
 
-## SCHEDULE 2 — Prescribed offences – regulated adoption services[^key-377899445073dba5fe8365407d2dab53]
+## SCHEDULE 2 — Prescribed offences – regulated adoption services[^c-377899445073dba5fe8365407d2dab53]
 
 Regulation 6
 
@@ -243,7 +243,7 @@ Regulation 6
 | Regulation 50(1) of the Adoption Services Regulations | Contravention of, or failure to comply with, requirements in relation to the preparation by a responsible individual of a statement of compliance with the requirements as to standards of support | An amount corresponding to two times level 4 on the standard scale |
 | Regulation 53(1) and (3) of the Adoption Services Regulations | Contravention of, or failure to comply with requirements in relation to the responsible individual's duty to make notifications to the service regulator | An amount corresponding to two times level 4 on the standard scale |
 
-## SCHEDULE 3 — Prescribed offences – adult placement services[^key-7a307bf727aab241a1c08f1a9e9c6ed8]
+## SCHEDULE 3 — Prescribed offences – adult placement services[^c-7a307bf727aab241a1c08f1a9e9c6ed8]
 
 Regulation 7
 
@@ -265,7 +265,7 @@ Regulation 7
 | Regulation 60(1) of the Adult Placement Services Regulations | Contravention of, or failure to comply with, requirements in relation to the preparation by a responsible individual of a statement of compliance with the requirements as to standards of care and support | An amount corresponding to two times level 4 on the standard scale |
 | Regulation 63(1) and (3) of the Adult Placement Services Regulations | Contravention of, or failure to comply with requirements in relation to the responsible individual's duty to make notifications to the service regulator | An amount corresponding to two times level 4 on the standard scale |
 
-## SCHEDULE 4 — Prescribed offences – regulated advocacy services[^key-53216b406e8e90fdc958b0f3f1aa34d3]
+## SCHEDULE 4 — Prescribed offences – regulated advocacy services[^c-53216b406e8e90fdc958b0f3f1aa34d3]
 
 Regulation 8
 
@@ -286,7 +286,7 @@ Regulation 8
 | Regulation 51(1) of the Advocacy Services Regulations | Contravention of, or failure to comply with, requirements in relation to the preparation by a responsible individual of a statement of compliance with the requirements as to standards of advocacy | An amount corresponding to two times level 4 on the standard scale |
 | Regulation 54(1) and (3) of the Advocacy Services Regulations | Contravention of, or failure to comply with requirements in relation to the responsible individual's duty to make notifications to the service regulator | An amount corresponding to two times level 4 on the standard scale |
 
-## SCHEDULE 5 — Prescribed offences – regulated fostering services[^key-22184c0d8de8ae7dcb74feca2c0998f4]
+## SCHEDULE 5 — Prescribed offences – regulated fostering services[^c-22184c0d8de8ae7dcb74feca2c0998f4]
 
 Regulation 9
 
@@ -307,7 +307,7 @@ Regulation 9
 | Regulation 64(1) of the Fostering Services Regulations | Contravention of, or failure to comply with, requirements in relation to the preparation by a responsible individual of a statement of compliance with the requirements as to standards of care and support | An amount corresponding to two times level 4 on the standard scale |
 | Regulation 67(1) and (4) of the Fostering Services Regulations | Contravention of, or failure to comply with requirements in relation to the responsible individual's duty to make notifications to the Welsh Ministers | An amount corresponding to two times level 4 on the standard scale |
 
-## SCHEDULE 5A — Prescribed offences - inspection ratings[^key-11c73632e2d237401408573bb19d11ae]
+## SCHEDULE 5A — Prescribed offences - inspection ratings[^c-11c73632e2d237401408573bb19d11ae]
 
 Regulation 9ZA
 
@@ -315,7 +315,7 @@ Regulation 9ZA
 | --- | --- | --- |
 | Regulation 3(1) and (3) of the Inspection Ratings Regulations | Contravention of, or failure to comply with, requirement as to display of inspection ratings | An amount corresponding to level 4 on the standard scale |
 
-## SCHEDULE 6 — Prescribed offences - special school residential services[^key-e21eed66779f2d1fa311c7574adc0f22]
+## SCHEDULE 6 — Prescribed offences - special school residential services[^c-e21eed66779f2d1fa311c7574adc0f22]
 
 Regulation 9A
 
@@ -397,9 +397,9 @@ The Welsh Ministers' Code of Practice on the carrying on of Regulatory Impact As
 
 [^c23726621]: Marginal citation: *See* [section 189](https://www.legislation.gov.uk/anaw/2016/2/section/189) of the Act for the definition of “prescribed”.
 
-[^key-f87aada03518db42655ba47e97de8131]: Commencement: Reg. 1 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-f87aada03518db42655ba47e97de8131]: Commencement: Reg. 1 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-02a450a02c329b298fdd6f36a84f046a]: Commencement: Reg. 2 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-02a450a02c329b298fdd6f36a84f046a]: Commencement: Reg. 2 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
 [^c23726631]: Marginal citation: [S.I. 2017/1264](https://www.legislation.gov.uk/uksi/2017/1264) (W. 295).
 
@@ -411,62 +411,62 @@ The Welsh Ministers' Code of Practice on the carrying on of Regulatory Impact As
 
 [^c23726671]: Marginal citation: [S.I. 2019/169](https://www.legislation.gov.uk/uksi/2019/169) (W. 42).
 
-[^key-270d3a10290d2fa0784a48401a7b0802]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/887/regulation/2) inserted (31.3.2025) by [The Regulated Services (Inspection Ratings) (Wales) Regulations 2025 (S.I. 2025/389)](https://www.legislation.gov.uk/wsi/2025/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/389/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2025/389/regulation/6/a)
+[^c-270d3a10290d2fa0784a48401a7b0802]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/887/regulation/2) inserted (31.3.2025) by [The Regulated Services (Inspection Ratings) (Wales) Regulations 2025 (S.I. 2025/389)](https://www.legislation.gov.uk/wsi/2025/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/389/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2025/389/regulation/6/a)
 
-[^key-5d64cd381da81b00ebaf7ed26cd1c5a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/887/regulation/2) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [82(a)](https://www.legislation.gov.uk/wsi/2024/388/regulation/82/a)
+[^c-5d64cd381da81b00ebaf7ed26cd1c5a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/887/regulation/2) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [82(a)](https://www.legislation.gov.uk/wsi/2024/388/regulation/82/a)
 
-[^key-00bae06cfeda0d5138aca04afb52efa8]: Commencement: Reg. 3 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-00bae06cfeda0d5138aca04afb52efa8]: Commencement: Reg. 3 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
 [^c23726681]: Marginal citation: *See* [section 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37) of the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) (“**the 1982 Act**”); at the date of the coming into force of these Regulations, level 4 on the standard scale is set at £2,500 (this figure may be increased by virtue of an amendment to the 1982 Act).
 
-[^key-57e05fec43644094f6ac605e1034ee81]: Commencement: Reg. 4 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-57e05fec43644094f6ac605e1034ee81]: Commencement: Reg. 4 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-5aaa27f9d50aaa582f23b809979c3770]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2019/887/regulation/4) inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2026/74/regulation/3/2)
+[^c-5aaa27f9d50aaa582f23b809979c3770]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2019/887/regulation/4) inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2026/74/regulation/3/2)
 
-[^key-b99a6df29399c5c925d482734a65c45f]: Commencement: Reg. 5 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-b99a6df29399c5c925d482734a65c45f]: Commencement: Reg. 5 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-a4ef4dc05507caf88817ed457fd99330]: Commencement: Reg. 6 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-a4ef4dc05507caf88817ed457fd99330]: Commencement: Reg. 6 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-04938b39b8412616febc527c83651fb8]: Commencement: Reg. 7 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-04938b39b8412616febc527c83651fb8]: Commencement: Reg. 7 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-e26fd5a559c6f2c48036b7b813bf4ab4]: Commencement: Reg. 8 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-e26fd5a559c6f2c48036b7b813bf4ab4]: Commencement: Reg. 8 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-65e5bd76237191e25084dedf6a921fb5]: Textual amendment: Words in reg. 8(1) substituted (1.7.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/976)](https://www.legislation.gov.uk/wsi/2019/976), [regs. 1](https://www.legislation.gov.uk/wsi/2019/976/regulation/1), [4](https://www.legislation.gov.uk/wsi/2019/976/regulation/4)
+[^c-65e5bd76237191e25084dedf6a921fb5]: Textual amendment: Words in reg. 8(1) substituted (1.7.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/976)](https://www.legislation.gov.uk/wsi/2019/976), [regs. 1](https://www.legislation.gov.uk/wsi/2019/976/regulation/1), [4](https://www.legislation.gov.uk/wsi/2019/976/regulation/4)
 
-[^key-f1733a00666eef8041513b8a87cb9537]: Commencement: Reg. 9 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-f1733a00666eef8041513b8a87cb9537]: Commencement: Reg. 9 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-2423e61d538cb82df80d6bd2115dc461]: Textual amendment: [Reg. 9ZA](https://www.legislation.gov.uk/wsi/2019/887/regulation/9ZA) inserted (31.3.2025) by [The Regulated Services (Inspection Ratings) (Wales) Regulations 2025 (S.I. 2025/389)](https://www.legislation.gov.uk/wsi/2025/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/389/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2025/389/regulation/6/b)
+[^c-2423e61d538cb82df80d6bd2115dc461]: Textual amendment: [Reg. 9ZA](https://www.legislation.gov.uk/wsi/2019/887/regulation/9ZA) inserted (31.3.2025) by [The Regulated Services (Inspection Ratings) (Wales) Regulations 2025 (S.I. 2025/389)](https://www.legislation.gov.uk/wsi/2025/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/389/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2025/389/regulation/6/b)
 
-[^key-15f80101f7d3189477799c9e7dd573d4]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/wsi/2019/887/regulation/9A) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [82(b)](https://www.legislation.gov.uk/wsi/2024/388/regulation/82/b)
+[^c-15f80101f7d3189477799c9e7dd573d4]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/wsi/2019/887/regulation/9A) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [82(b)](https://www.legislation.gov.uk/wsi/2024/388/regulation/82/b)
 
-[^key-81272f7d2c349c490141cce52ebfbc93]: Commencement: Reg. 10 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-81272f7d2c349c490141cce52ebfbc93]: Commencement: Reg. 10 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
 [^c23726691]: Marginal citation: Section 184 of the Act (service of documents etc.) specifies that notices may be hand delivered, may be left at a recipient's address, sent by recorded delivery or, if the recipient has agreed to receive it electronically, by being sent electronically to an address provided for that purpose; subsection (8) provides that where a notice is sent by recorded delivery or electronically it is to be taken to have been received 48 hours after it is sent (unless the contrary is shown).
 
-[^key-5d14fb432e6b0db90e0b5dcd2417444c]: Commencement: Reg. 11 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-5d14fb432e6b0db90e0b5dcd2417444c]: Commencement: Reg. 11 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-609e1e8e456e8d3141f3a31c0790f3af]: Commencement: Reg. 12 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-609e1e8e456e8d3141f3a31c0790f3af]: Commencement: Reg. 12 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-e18dcb0b37a6c65653852baa28a1e632]: Commencement: Reg. 13 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-e18dcb0b37a6c65653852baa28a1e632]: Commencement: Reg. 13 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-b7098cb1e6c9193a9309ba917cc86346]: Commencement: Reg. 14 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-b7098cb1e6c9193a9309ba917cc86346]: Commencement: Reg. 14 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-a355903dd68c37c09c79d644b12e312c]: Commencement: Reg. 15 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-a355903dd68c37c09c79d644b12e312c]: Commencement: Reg. 15 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-bc6baf733909177cef3479764f929db0]: Commencement: Reg. 16 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-bc6baf733909177cef3479764f929db0]: Commencement: Reg. 16 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
 [^c23726701]: Marginal citation: [S.I. 2017/1292](https://www.legislation.gov.uk/uksi/2017/1292) (W. 298).
 
-[^key-d9bf1fad2bc404a8701fc27f1f42c895]: Commencement: Sch. 1 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-d9bf1fad2bc404a8701fc27f1f42c895]: Commencement: Sch. 1 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-377899445073dba5fe8365407d2dab53]: Commencement: Sch. 2 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-377899445073dba5fe8365407d2dab53]: Commencement: Sch. 2 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-7a307bf727aab241a1c08f1a9e9c6ed8]: Commencement: Sch. 3 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-7a307bf727aab241a1c08f1a9e9c6ed8]: Commencement: Sch. 3 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-53216b406e8e90fdc958b0f3f1aa34d3]: Commencement: Sch. 4 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-53216b406e8e90fdc958b0f3f1aa34d3]: Commencement: Sch. 4 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-22184c0d8de8ae7dcb74feca2c0998f4]: Commencement: Sch. 5 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
+[^c-22184c0d8de8ae7dcb74feca2c0998f4]: Commencement: Sch. 5 in force at 1.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2)
 
-[^key-11c73632e2d237401408573bb19d11ae]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2019/887/schedule/5A) inserted (31.3.2025) by [The Regulated Services (Inspection Ratings) (Wales) Regulations 2025 (S.I. 2025/389)](https://www.legislation.gov.uk/wsi/2025/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/389/regulation/1/2), [6(c)](https://www.legislation.gov.uk/wsi/2025/389/regulation/6/c)
+[^c-11c73632e2d237401408573bb19d11ae]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2019/887/schedule/5A) inserted (31.3.2025) by [The Regulated Services (Inspection Ratings) (Wales) Regulations 2025 (S.I. 2025/389)](https://www.legislation.gov.uk/wsi/2025/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/389/regulation/1/2), [6(c)](https://www.legislation.gov.uk/wsi/2025/389/regulation/6/c)
 
-[^key-e21eed66779f2d1fa311c7574adc0f22]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2019/887/schedule/6) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [82(c)](https://www.legislation.gov.uk/wsi/2024/388/regulation/82/c)
+[^c-e21eed66779f2d1fa311c7574adc0f22]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2019/887/schedule/6) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [82(c)](https://www.legislation.gov.uk/wsi/2024/388/regulation/82/c)

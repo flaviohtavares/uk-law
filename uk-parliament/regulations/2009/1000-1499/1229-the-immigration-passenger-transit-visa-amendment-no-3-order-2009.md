@@ -34,7 +34,7 @@ This Order supersedes [S.I. 2009/1032](https://www.legislation.gov.uk/uksi/2009/
 
 Immigration
 
-The Immigration (Passenger Transit Visa) (Amendment) (No. 3) Order 2009 (revoked)[^key-fa92119a10a71f11f3fd718eedde9b66]
+The Immigration (Passenger Transit Visa) (Amendment) (No. 3) Order 2009 (revoked)[^c-fa92119a10a71f11f3fd718eedde9b66]
 
 Made
 
@@ -46,30 +46,30 @@ Laid before Parliament
 
 Coming into force in accordance with article 2
 
-[^key-fa92119a10a71f11f3fd718eedde9b66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa92119a10a71f11f3fd718eedde9b66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-fa92119a10a71f11f3fd718eedde9b66]
+## 1. Citation and Commencement[^c-fa92119a10a71f11f3fd718eedde9b66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fa92119a10a71f11f3fd718eedde9b66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fa92119a10a71f11f3fd718eedde9b66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-fa92119a10a71f11f3fd718eedde9b66]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^key-fa92119a10a71f11f3fd718eedde9b66]
+## 3. Revocation[^c-fa92119a10a71f11f3fd718eedde9b66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa92119a10a71f11f3fd718eedde9b66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 4. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^c-fa92119a10a71f11f3fd718eedde9b66]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fa92119a10a71f11f3fd718eedde9b66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa92119a10a71f11f3fd718eedde9b66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa92119a10a71f11f3fd718eedde9b66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa92119a10a71f11f3fd718eedde9b66]: Textual amendment: Order revoked (1.12.2014) by [The Immigration (Passenger Transit Visa) Order 2014 (S.I. 2014/2702)](https://www.legislation.gov.uk/uksi/2014/2702), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2702/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2702/schedule/2)
+[^c-fa92119a10a71f11f3fd718eedde9b66]: Textual amendment: Order revoked (1.12.2014) by [The Immigration (Passenger Transit Visa) Order 2014 (S.I. 2014/2702)](https://www.legislation.gov.uk/uksi/2014/2702), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2702/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2702/schedule/2)

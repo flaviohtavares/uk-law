@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Identification of secure storage[^key-27d6a48ceab5692ee1bb3c56eae915c0]
+## 20. Identification of secure storage[^c-27d6a48ceab5692ee1bb3c56eae915c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For each petition signing place, the petition officer must identify a suitable p
 
 ## Annotations
 
-[^key-27d6a48ceab5692ee1bb3c56eae915c0]: Commencement: Reg. 20 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-27d6a48ceab5692ee1bb3c56eae915c0]: Commencement: Reg. 20 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

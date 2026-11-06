@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Exception for authorised conduct in a relevant country[^key-3bf2b8a0c89a601a6e929232d23509fd]
+## 31A. Exception for authorised conduct in a relevant country[^c-3bf2b8a0c89a601a6e929232d23509fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bf2b8a0c89a601a6e929232d23509fd]: Textual amendment: Reg. 31A inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/10/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-3bf2b8a0c89a601a6e929232d23509fd]: Textual amendment: Reg. 31A inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/10/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)

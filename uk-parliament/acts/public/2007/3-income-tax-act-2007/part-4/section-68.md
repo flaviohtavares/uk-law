@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Reasonable expectation of profit[^key-24b6f7b68959e8585011b00cc7ce315e][^key-928080e83e5bdca0846d39a6d302def7]
+## 68. Reasonable expectation of profit[^c-24b6f7b68959e8585011b00cc7ce315e][^c-928080e83e5bdca0846d39a6d302def7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24b6f7b68959e8585011b00cc7ce315e]: Modification: Ss. 66-70 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 6 para. 1(11)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/a)
+[^c-24b6f7b68959e8585011b00cc7ce315e]: Modification: Ss. 66-70 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 6 para. 1(11)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/a)
 
-[^key-928080e83e5bdca0846d39a6d302def7]: Modification: [Ss. 66-70](https://www.legislation.gov.uk/ukpga/2007/3/section/66) applied (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/3/1/a)
+[^c-928080e83e5bdca0846d39a6d302def7]: Modification: [Ss. 66-70](https://www.legislation.gov.uk/ukpga/2007/3/section/66) applied (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/3/1/a)

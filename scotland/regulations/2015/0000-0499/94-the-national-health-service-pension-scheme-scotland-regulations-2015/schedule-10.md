@@ -38,7 +38,7 @@ Regulation 31
 
 (3) The certificate must be provided before the end of the period of one month starting on the date when the return was required to be submitted to HMRC.
 
-(4)[^key-e519631c394ccebf540f93f8f3c77f47] Where the certificate provided in accordance with sub-paragraphs (2) and (3) is based on provisional figures included in the return M made to HMRC, M must provide a revised certificate including final figures before the end of the period of one month starting on the date when the revised return containing final figures was required to be submitted to HMRC.
+(4)[^c-e519631c394ccebf540f93f8f3c77f47] Where the certificate provided in accordance with sub-paragraphs (2) and (3) is based on provisional figures included in the return M made to HMRC, M must provide a revised certificate including final figures before the end of the period of one month starting on the date when the revised return containing final figures was required to be submitted to HMRC.
 
 #### 2. Medical practitioners not members of a practice
 
@@ -46,7 +46,7 @@ Regulation 31
 
 (2) M must provide each relevant Health Board (or someone appointed to act on its behalf) with a monthly certificate of M's pensionable earnings based on the payments M receives from employing authorities for practitioner services less deductions authorised by the Scottish Ministers.
 
-(3)[^key-e2001468951f5fce9a53328c29cda858] The certificate must be provided before the end of the period of one month starting on the date when the return was required to be submitted to HMRC.
+(3)[^c-e2001468951f5fce9a53328c29cda858] The certificate must be provided before the end of the period of one month starting on the date when the return was required to be submitted to HMRC.
 
 (4) Where the certificate provided in accordance with sub-paragraphs (2) and (3) is based on provisional figures included in the return M made to HMRC, M must provide a revised certificate including final figures before the end of the period of one month starting on the date when the revised return containing final figures was required to be submitted to HMRC.
 
@@ -198,6 +198,6 @@ Contributions which are required to be paid to the contracting Health Board (or 
 
 ## Annotations
 
-[^key-e519631c394ccebf540f93f8f3c77f47]: Textual amendment: [Sch. 10 para. 1(4)](https://www.legislation.gov.uk/ssi/2015/94/schedule/10/paragraph/1/4) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [32(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/32/2)
+[^c-e519631c394ccebf540f93f8f3c77f47]: Textual amendment: [Sch. 10 para. 1(4)](https://www.legislation.gov.uk/ssi/2015/94/schedule/10/paragraph/1/4) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [32(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/32/2)
 
-[^key-e2001468951f5fce9a53328c29cda858]: Textual amendment: [Sch. 10 para. 2(3)(4)](https://www.legislation.gov.uk/ssi/2015/94/schedule/10/paragraph/2/3/4) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [32(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/32/3)
+[^c-e2001468951f5fce9a53328c29cda858]: Textual amendment: [Sch. 10 para. 2(3)(4)](https://www.legislation.gov.uk/ssi/2015/94/schedule/10/paragraph/2/3/4) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [32(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/32/3)

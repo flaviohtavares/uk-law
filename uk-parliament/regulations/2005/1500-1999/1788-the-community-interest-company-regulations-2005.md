@@ -46,11 +46,11 @@ Now therefore, in exercise of the powers conferred upon her by sections 30(1) to
 
 ## PART 1 — Citation, commencement and interpretation
 
-### 1. Citation and commencement[^key-4d1dbbdac17275e594bda233464dbe9f]
+### 1. Citation and commencement[^c-4d1dbbdac17275e594bda233464dbe9f]
 
 These Regulations may be cited as the Community Interest Company Regulations 2005 and shall come into force on 1 July 2005.
 
-### 2. Interpretation[^key-90ff85cd39546c0e3735a96dfd107810]
+### 2. Interpretation[^c-90ff85cd39546c0e3735a96dfd107810]
 
 In these Regulations—
 
@@ -102,7 +102,7 @@ In these Regulations—
 
 ## PART 2 — The community interest test and excluded companies
 
-### 3. Political activities not to be treated as being carried on for the benefit of the community[^key-7273f33d8dfc7e8fd2b640b4433db6d0]
+### 3. Political activities not to be treated as being carried on for the benefit of the community[^c-7273f33d8dfc7e8fd2b640b4433db6d0]
 
 (1) For the purposes of the community interest test the following activities are to be treated as not being activities which a reasonable person might consider are activities carried on for the benefit of the community:
 
@@ -119,18 +119,18 @@ In these Regulations—
 - (a) they can reasonably be regarded as incidental to other activities, which a reasonable person might consider are being carried on for the benefit the community; and
 - (b) those other activities cannot reasonably be regarded as incidental to activities of any of the descriptions prescribed in paragraph (1).
 
-### 4. Other activities not to be treated as being carried on for the benefit of the community[^key-d1e0b88587b76a1c00ce033553f88728]
+### 4. Other activities not to be treated as being carried on for the benefit of the community[^c-d1e0b88587b76a1c00ce033553f88728]
 
 For the purposes of the community interest test, an activity is to be treated as not being an activity which a reasonable person might consider is an activity carried on for the benefit of the community if, or to the extent that, a reasonable person might consider that that activity benefits only the members of a particular body or the employees of a particular employer.
 
-### 5. Section of the community[^key-97160d8612090609381b7600ea6475a2]
+### 5. Section of the community[^c-97160d8612090609381b7600ea6475a2]
 
 For the purposes of the community interest test, any group of individuals may constitute a section of the community if—
 
 - (a) they share a readily identifiable characteristic; and
 - (b) other members of the community of which that group forms part do not share that characteristic.
 
-### 6. Excluded companies[^key-60015cd44a93f9851af79ff94334b461]
+### 6. Excluded companies[^c-60015cd44a93f9851af79ff94334b461]
 
 For the purposes of section 35(6) of the 2004 Act, the following are excluded companies:
 
@@ -140,18 +140,18 @@ For the purposes of section 35(6) of the 2004 Act, the following are excluded co
 
 ## PART 3 — Requirements concerning the memorandum and articles
 
-### 7. Company without share capital[^key-b92f71923b3331e58264adcc980a1d3b]
+### 7. Company without share capital[^c-b92f71923b3331e58264adcc980a1d3b]
 
 A community interest company which is a company limited by guarantee without a share capital must include in its memorandum or articles the provisions prescribed by Schedule 1.
 
-### 8. Company with share capital[^key-00c7b054d6f583893415fd0b69e4cb34]
+### 8. Company with share capital[^c-00c7b054d6f583893415fd0b69e4cb34]
 
 A community interest company which is a company limited by shares or a company limited by guarantee with a share capital must include in its memorandum or articles either—
 
 - (a) the provisions prescribed by Schedule 2; or
 - (b) the provisions prescribed by Schedule 3.
 
-### 9. Alternative provisions[^key-12daf9b7ae09fd79c6be2ee498d75b53]
+### 9. Alternative provisions[^c-12daf9b7ae09fd79c6be2ee498d75b53]
 
 (1) For paragraph 1(4)(a) of the provisions prescribed by Schedule 1, 2 or 3 a community interest company may substitute—
 
@@ -159,13 +159,13 @@ A community interest company which is a company limited by shares or a company l
 
 (2) If a community interest company makes the substitution permitted by paragraph (1), it must also for every reference to “asset-locked body” in paragraph 1(2) of the provisions prescribed by Schedule 1, 2 or 3 substitute a reference to “charitable body”.
 
-### 10. Declaration of dividends[^key-43634091fd344ab84646c688ea098fd2]
+### 10. Declaration of dividends[^c-43634091fd344ab84646c688ea098fd2]
 
 A relevant company must not include in its memorandum or articles any provision which purports to permit a dividend to be declared otherwise than by an ordinary or special resolution of its members.
 
 ## PART 4 — Prescribed documents
 
-### 11. Prescribed formation documents[^key-96f303f26151cee4cb29c3d1fd4c7978]
+### 11. Prescribed formation documents[^c-96f303f26151cee4cb29c3d1fd4c7978]
 
 (1) For the purposes of section 36 of the 2004 Act, the prescribed formation documents are—
 
@@ -174,7 +174,7 @@ A relevant company must not include in its memorandum or articles any provision 
 
 (2) The declaration referred to in paragraph (1)(b) must be in a form approved by the Regulator and must be made by each person who is to be a first director of the company.
 
-### 12. Prescribed conversion documents[^key-b2b0faf8d2522524c928cb289c9f855f]
+### 12. Prescribed conversion documents[^c-b2b0faf8d2522524c928cb289c9f855f]
 
 (1) For the purposes of section 37 of the 2004 Act, the prescribed conversion documents are—
 
@@ -188,11 +188,11 @@ A relevant company must not include in its memorandum or articles any provision 
 
 ## PART 5 — Alteration of objects
 
-### 13. Requirement for Regulator’s approval[^key-0386402cd8afcec6deb5921ed7361323]
+### 13. Requirement for Regulator’s approval[^c-0386402cd8afcec6deb5921ed7361323]
 
 An alteration of the memorandum of a community interest company with respect to the statement of the company’s objects does not have effect except in so far as it is approved by the Regulator.
 
-### 14. Documents to be delivered to registrar of companies[^key-95ff178c437c9dd18393777044791e49]
+### 14. Documents to be delivered to registrar of companies[^c-95ff178c437c9dd18393777044791e49]
 
 (1) If a copy of a special resolution under section 4(1) of the 1985 Act is delivered to the registrar of companies pursuant to section 380 of the 1985 Act[^f00004] (registration of resolutions), the company must also deliver—
 
@@ -201,7 +201,7 @@ An alteration of the memorandum of a community interest company with respect to 
 
 (2) The community interest statement and the statement under paragraph (1)(b) must be signed by each person who is a director of the company.
 
-### 15. Decisions etc[^key-5d8dc420397cd54fbf63b4ce1b8a0b50]
+### 15. Decisions etc[^c-5d8dc420397cd54fbf63b4ce1b8a0b50]
 
 (1) On receiving the copies of the special resolution under section 4(1) of the 1985 Act, the community interest statement delivered under regulation 14(1)(a) and the statement delivered under regulation 14(1)(b), the registrar of companies must—
 
@@ -239,13 +239,13 @@ unless and until the Regulator has given notice of a decision to approve the pro
 
 (8) If the Regulator decides not to approve the proposed alteration of the memorandum of the community interest company with respect to the statement of the company’s objects, the company may appeal to the Appeal Officer against the decision.
 
-### 16. Exemptions[^key-d588d87f1bfce354084872a1a4981ccc]
+### 16. Exemptions[^c-d588d87f1bfce354084872a1a4981ccc]
 
 Regulations 13 to 15 do not apply where a community interest company is to cease being a community interest company by becoming a charity or a Scottish charity and the special resolution to alter the memorandum of the company with respect to the statement of its objects is forwarded to the registrar of companies in accordance with section 54 of the 2004 Act.
 
 ## PART 6 — Restrictions on distributions and interest
 
-### 17. Declaration of dividends[^key-4727f76173878d712abfeec6edeb5ccb]
+### 17. Declaration of dividends[^c-4727f76173878d712abfeec6edeb5ccb]
 
 (1) A relevant company may declare a dividend to its members only —
 
@@ -271,7 +271,7 @@ Regulations 13 to 15 do not apply where a community interest company is to cease
 
 (6) If a relevant company has made the substitutions prescribed in regulation 9(2), references to “asset-locked body” in this article shall have effect as if there were substituted for them references to “charitable body”, with the meaning prescribed in regulation 9(1).
 
-### 18. Maximum dividend per share[^key-b5315839a52e2454cc2bb0aced8b0ba0]
+### 18. Maximum dividend per share[^c-b5315839a52e2454cc2bb0aced8b0ba0]
 
 (1) The maximum dividend per share for a financial year is the dividend which a relevant company declares on a share when the total amount of dividend declared on that share for that year (when expressed as a percentage of the paid up value of the share) equals that share’s applicable share dividend cap.
 
@@ -279,11 +279,11 @@ Regulations 13 to 15 do not apply where a community interest company is to cease
 
 (3) Where the expression of the applicable dividend cap includes reference to a rate or figure determined by any person other than the company, the Regulator or the Secretary of State, the maximum dividend per share for any financial year shall be calculated by reference to that rate or figure as it had effect at the beginning of the first day of that financial year.
 
-### 19. Maximum aggregate dividend[^key-ed5f6ba83fc2f7c7b76cb990593ee5e4]
+### 19. Maximum aggregate dividend[^c-ed5f6ba83fc2f7c7b76cb990593ee5e4]
 
 The maximum aggregate dividend for a financial year of a relevant company is declared when the total amount of all dividends declared on its shares for that year, less the amount of any exempt dividends, equals (when expressed as a percentage of the relevant company’s distributable profits) the aggregate dividend cap which had effect in relation to that company on the first day of the financial year in respect of which the dividends are declared.
 
-### 20. Carrying forward of unused dividend capacity from previous financial years[^key-6fa5facb60b553d51bd066dd25f986ae]
+### 20. Carrying forward of unused dividend capacity from previous financial years[^c-6fa5facb60b553d51bd066dd25f986ae]
 
 (1) Notwithstanding regulation 17(1)(c)(i), but subject to regulation 17(1)(c)(ii), the total amount of dividends declared on a share in a relevant company for a financial year may, subject to the company’s articles, include the whole or any part of the share’s unused dividend capacity.
 
@@ -292,7 +292,7 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 - A is the aggregate of any sums by which, for any of the four financial years immediately preceding the financial year for which a dividend is to be declared under this regulation, the total amount of dividend declared and paid on the share for that financial year was less than the maximum dividend per share for that financial year; and
 - B is any part of A which has already been distributed by way of a dividend declared and paid for a previous financial year.
 
-### 21. The interest cap[^key-189c94136ab207667388463f9fd0b921]
+### 21. The interest cap[^c-189c94136ab207667388463f9fd0b921]
 
 (1) This regulation applies to debentures issued by, and debts of, a community interest company in respect of which—
 
@@ -310,7 +310,7 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 - (a) interest which accrued before the company became a community interest company; or
 - (b) arrears of interest which if it had been paid at the time it became due would not have breached paragraph (2).
 
-### 22. Initial level and subsequent variation of dividend caps and interest cap[^key-e757d0226da5e5d8df9c2a3221f4f10c]
+### 22. Initial level and subsequent variation of dividend caps and interest cap[^c-e757d0226da5e5d8df9c2a3221f4f10c]
 
 (1) Subject to paragraph (3)—
 
@@ -335,7 +335,7 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 
 (8) The Secretary of State may from time to time require the Regulator to review any cap set under this regulation.
 
-### 23. Distribution of assets on a winding up[^key-d95e4df85e11197c1b71829074e07a64]
+### 23. Distribution of assets on a winding up[^c-d95e4df85e11197c1b71829074e07a64]
 
 (1) This regulation applies where—
 
@@ -373,11 +373,11 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 
 (11) Any member or director of the company may appeal to the Appeal Officer against a direction of the Regulator made under this regulation.
 
-### 24. Redemption and purchase of shares[^key-2d03357e46d17878b03b4c4aa8b5fd7e]
+### 24. Redemption and purchase of shares[^c-2d03357e46d17878b03b4c4aa8b5fd7e]
 
 A relevant company may not distribute assets to its members by way of the redemption or purchase of the company’s own shares, unless the amount to be paid by the company in respect of any such share does not exceed the paid up value of the share.
 
-### 25. Reduction of share capital[^key-88a955d064f0b0b8833f9295b7c9e57a]
+### 25. Reduction of share capital[^c-88a955d064f0b0b8833f9295b7c9e57a]
 
 A relevant company may not distribute assets to its members by way of a reduction of the company’s share capital unless—
 
@@ -386,7 +386,7 @@ A relevant company may not distribute assets to its members by way of a reductio
 
 ## PART 7 — Community interest company report
 
-### 26. General[^key-f46e048cccb77f31fcd7f9d3af7ad583]
+### 26. General[^c-f46e048cccb77f31fcd7f9d3af7ad583]
 
 (1) Every community interest company report shall contain—
 
@@ -408,7 +408,7 @@ its community interest report for that financial year shall specify the amount, 
 
 the community interest company report need not contain the information required by paragraph (1)(c).
 
-### 27. Information about dividends[^key-7346daacce4a45b457efdeadfa9ea897]
+### 27. Information about dividends[^c-7346daacce4a45b457efdeadfa9ea897]
 
 (1) This regulation applies to the community interest company report of any community interest company—
 
@@ -434,7 +434,7 @@ the community interest company report need not contain the information required 
 
   and how each of these has been determined.
 
-### 28. Information about debts or debentures on which a performance-related rate is payable[^key-cf9f436e44ee298855cd7c0a0e7813a6]
+### 28. Information about debts or debentures on which a performance-related rate is payable[^c-cf9f436e44ee298855cd7c0a0e7813a6]
 
 (1) Where a community interest company has at any time during the financial year a debt outstanding, or a debenture in issue, to which regulation 21 applies, its community interest company report must state—
 
@@ -448,7 +448,7 @@ and how each of these has been determined.
 - (a) the rate of interest payable on that debt or debenture as calculated over a 12 month period ending with the most recent date on which interest became payable in respect of that debt or debenture during the financial year; and
 - (b) why regulation 21 does not apply to that debt or debenture.
 
-### 29. Application of the 1985 Act[^key-598fc1d6a4e7938cb87061db58108dae]
+### 29. Application of the 1985 Act[^c-598fc1d6a4e7938cb87061db58108dae]
 
 (1) The following provisions of the 1985 Act shall apply to the community interest company report as they apply to the directors' report:
 
@@ -462,7 +462,7 @@ and how each of these has been determined.
 
 ## PART 8 — Managers
 
-### 30. Remuneration[^key-458de144957eef1b902af2ccc6bd7694]
+### 30. Remuneration[^c-458de144957eef1b902af2ccc6bd7694]
 
 (1) The Regulator is authorised to determine the amount of a manager’s remuneration.
 
@@ -475,11 +475,11 @@ and how each of these has been determined.
   - (i) has considered such representations, if any, as are duly made in response to such a notice; and
   - (ii) is satisfied that the manager has failed in such manner as is set out in sub-paragraph (a)(i) or (ii) of regulation 32(1) and specified in such a notice.
 
-### 31. Security[^key-e509048fc6c2e10e0ac6ffaf6d5c0066]
+### 31. Security[^c-e509048fc6c2e10e0ac6ffaf6d5c0066]
 
 The Regulator is authorised to require the manager to give security to him for the due discharge of the manager’s functions within such time and in such form as the Regulator may specify.
 
-### 32. Failure and removal[^key-f34fa722c09ae0afa90a7227deb32fad]
+### 32. Failure and removal[^c-f34fa722c09ae0afa90a7227deb32fad]
 
 (1) Where—
 
@@ -504,13 +504,13 @@ the Regulator shall give the manager, whether in person or by post, a written no
   - (i) has considered such representations, if any, as are duly made in response to such a notice; and
   - (ii) is satisfied that the manager has failed in such manner as is set out in paragraph (1)(a)(i) or (ii) and specified in such notice.
 
-### 33. Reports[^key-313bfaac4f73e2a6e951da9140f38fd9]
+### 33. Reports[^c-313bfaac4f73e2a6e951da9140f38fd9]
 
 The manager must make such reports to the Regulator as the Regulator may from time to time require on such matters and in such form as the Regulator specifies.
 
 ## PART 9 — The registrar of companies
 
-### 34. Modifications and amendments[^key-0c622c441c06a15479d66fa7ffa8a219]
+### 34. Modifications and amendments[^c-0c622c441c06a15479d66fa7ffa8a219]
 
 (1) The registrar of companies shall not cause to be published in the Gazette notice pursuant to section 711 of the 1985 Act of the receipt of documents under sections 37 or 54 of the 2004 Act unless the registrar records those documents pursuant to sections 38(6) or 55(6) of the 2004 Act.
 
@@ -522,7 +522,7 @@ The manager must make such reports to the Regulator as the Regulator may from ti
 
 (4) For the purposes of Part 24 of the 1985 Act, these Regulations shall be regarded as provisions of Part 2 of the 2004 Act.
 
-### 35. Documents[^key-41f0633882a47cf8c74a45869b9745c9]
+### 35. Documents[^c-41f0633882a47cf8c74a45869b9745c9]
 
 (1) The registrar of companies shall, on receiving any notice under section 109(1) of the Insolvency Act 1986[^f00020] (notice by liquidator of his appointment) in relation to a community interest company, provide a copy of that notice to the Regulator.
 
@@ -530,7 +530,7 @@ The manager must make such reports to the Regulator as the Regulator may from ti
 
 ## PART 10 — Fees
 
-### 36. Fees payable by a community interest company[^key-a0f8baf7a4406b68a504bf073dfecb97]
+### 36. Fees payable by a community interest company[^c-a0f8baf7a4406b68a504bf073dfecb97]
 
 The fees set out in the second column of Schedule 5—
 
@@ -540,7 +540,7 @@ The fees set out in the second column of Schedule 5—
 
 ## PART 11 — The Appeal Officer
 
-### 37. Time limits[^key-11a519e22f2eed89a446f3cdeee70cc8]
+### 37. Time limits[^c-11a519e22f2eed89a446f3cdeee70cc8]
 
 (1) Unless paragraph (2) applies, an appeal to the Appeal Officer must be made by sending a notice of appeal to the Regulator so that it is received within two months of the date upon which the appellant was given reasons for the disputed order or decision in accordance with section 61(5) of the 2004 Act.
 
@@ -556,7 +556,7 @@ The fees set out in the second column of Schedule 5—
 - (a) of the date upon which notice of the disputed direction or decision was given to the community interest company in accordance with regulation 23(8); or
 - (b) that no such notice was given.
 
-### 38. Notice of appeal[^key-5a58d6c87e9f49cbcfc4bb3b1574ca89]
+### 38. Notice of appeal[^c-5a58d6c87e9f49cbcfc4bb3b1574ca89]
 
 (1) The notice of appeal must state—
 
@@ -582,7 +582,7 @@ The fees set out in the second column of Schedule 5—
 
 (5) The notice of appeal must be signed and dated by the appellant, or on his behalf by his duly authorised officer or his legal representative.
 
-### 39. Appeal procedure etc[^key-1f236d7814e6d57377b1549f976e63b9]
+### 39. Appeal procedure etc[^c-1f236d7814e6d57377b1549f976e63b9]
 
 (1) The Regulator may make a written response to the notice of appeal.
 
@@ -605,11 +605,11 @@ as he thinks fit, having regard to the just, expeditious and economical conduct 
 
 (7) The Appeal Officer may specify the time and place at which any meeting or hearing is to be held.
 
-### 40. Determination of appeal[^key-eb53fc88084e5e9cb9b86de71b7bb9a6]
+### 40. Determination of appeal[^c-eb53fc88084e5e9cb9b86de71b7bb9a6]
 
 In determining an appeal, the Appeal Officer shall have regard to all matters that appear to him to be relevant.
 
-### 41. Dismissal of appeal[^key-3c75e8810ad7ef963bb5e261ca95672a]
+### 41. Dismissal of appeal[^c-3c75e8810ad7ef963bb5e261ca95672a]
 
 (1) The Appeal Officer may dismiss an appeal at any stage if he considers that—
 
@@ -621,7 +621,7 @@ In determining an appeal, the Appeal Officer shall have regard to all matters th
 
 (3) The Appeal Officer may dismiss an appeal at any stage at the request of the appellant.
 
-### 42. Reasons[^key-06516c19ea079d3da83b0cafdfdb0958]
+### 42. Reasons[^c-06516c19ea079d3da83b0cafdfdb0958]
 
 (1) The Appeal Officer must give reasons for a decision to—
 
@@ -645,7 +645,7 @@ Department of Trade and Industry
 
 Regulation 7
 
-**1.**[^key-3272752686add750ff91864614308425] (1) The company shall not transfer any of its assets other than for full consideration.
+**1.**[^c-3272752686add750ff91864614308425] (1) The company shall not transfer any of its assets other than for full consideration.
 
 (2) Provided the conditions in sub-paragraph (3) are satisfied, sub-paragraph (1) shall not apply to—
 
@@ -666,7 +666,7 @@ Regulation 7
 - (f) “specified” means specified in the memorandum or articles of association of the company for the purposes of this paragraph; and
 - (g) “transfer” includes every description of disposition, payment, release or distribution, and the creation or extinction of an estate or interest in, or a right over, any property.
 
-**2.**[^key-39ca1eec717f0ccf7f6104f12433e372] (1) The subscribers to the memorandum are the first members of the company.
+**2.**[^c-39ca1eec717f0ccf7f6104f12433e372] (1) The subscribers to the memorandum are the first members of the company.
 
 (2) Such other persons as are admitted to membership in accordance with the articles shall be members of the company.
 
@@ -681,7 +681,7 @@ Regulation 7
 - (a) the member dies or ceases to exist; or
 - (b) otherwise in accordance with the articles.
 
-**3.**[^key-10e00edef96db680c2f0a8f1f472b10d] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
+**3.**[^c-10e00edef96db680c2f0a8f1f472b10d] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
 
 (2) No powers to appoint directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in the majority of the directors of the company having been appointed by persons who are not members of the company.
 
@@ -694,7 +694,7 @@ Regulation 7
 
 (5) In this paragraph, “financial year” has the meaning given in section 223 of the Companies Act 1985[^f00024].
 
-**4.**[^key-05e19aa96848f325643043904bb483e6] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
+**4.**[^c-05e19aa96848f325643043904bb483e6] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
 
 (2) A director who is also an alternate director shall be entitled in the absence of his appointer to a separate vote on behalf of his appointer in addition to his own vote.
 
@@ -704,7 +704,7 @@ Regulation 7
 
 Regulation 8(a)
 
-**1.**[^key-0eff14ba3418efdf3ec90eab0ab8a951] (1) The company shall not transfer any of its assets other than for full consideration.
+**1.**[^c-0eff14ba3418efdf3ec90eab0ab8a951] (1) The company shall not transfer any of its assets other than for full consideration.
 
 (2) Provided the conditions in sub-paragraph (3) are satisfied, sub-paragraph (1) shall not apply to—
 
@@ -725,7 +725,7 @@ Regulation 8(a)
 - (f) “specified” means specified in the memorandum or articles of association of the company for the purposes of this paragraph; and
 - (g) “transfer” includes every description of disposition, payment, release or distribution, and the creation or extinction of an estate or interest in, or a right over, any property.
 
-**2.**[^key-8d9526edd3ef7cc31b421fd626833de1] (1) The directors may refuse to register the transfer of a share to a person of whom they do not approve.
+**2.**[^c-8d9526edd3ef7cc31b421fd626833de1] (1) The directors may refuse to register the transfer of a share to a person of whom they do not approve.
 
 (2) They may also refuse to register the transfer unless it is lodged at the registered office of the company or at such other place as the directors may appoint and is accompanied by such evidence as the directors may reasonably require to show the right of the transferor to make the transfer, and by such other information as they may reasonably require.
 
@@ -733,7 +733,7 @@ Regulation 8(a)
 
 (4) The provisions of this paragraph apply in addition to any restrictions on the transfer of a share which may be set out elsewhere in the memorandum or articles of the company.
 
-**3.**[^key-3410e1bc68d28c00e5630a6238a9680a] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
+**3.**[^c-3410e1bc68d28c00e5630a6238a9680a] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
 
 (2) No powers to appoint directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in the majority of the directors of the company having been appointed by persons who are not members of the company.
 
@@ -746,7 +746,7 @@ Regulation 8(a)
 
 (5) In this paragraph, “financial year” has the meaning given in section 223 of the Companies Act 1985.
 
-**4.**[^key-b3bfe8c73467cb6d1d51c4625b0cbad2] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
+**4.**[^c-b3bfe8c73467cb6d1d51c4625b0cbad2] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
 
 (2) A director who is also an alternate director shall be entitled in the absence of his appointer to a separate vote on behalf of his appointer in addition to his own vote.
 
@@ -756,7 +756,7 @@ Regulation 8(a)
 
 Regulation 8(b)
 
-**1.**[^key-ca1fd1567c6dbe30fcc663e936629cad] (1) The company shall not transfer any of its assets other than for full consideration.
+**1.**[^c-ca1fd1567c6dbe30fcc663e936629cad] (1) The company shall not transfer any of its assets other than for full consideration.
 
 (2) Provided the conditions in sub-paragraph (3) are satisfied, sub-paragraph (1) shall not apply to—
 
@@ -785,7 +785,7 @@ Regulation 8(b)
 - (f) “specified” means specified in the memorandum or articles of association of the company for the purposes of this paragraph; and
 - (g) “transfer” includes every description of disposition, payment, release or distribution, and the creation or extinction of an estate or interest in, or a right over, any property.
 
-**2.**[^key-162eb28af5aaa564611068c32aa7d208] (1) The directors may refuse to register the transfer of a share to a person of whom they do not approve.
+**2.**[^c-162eb28af5aaa564611068c32aa7d208] (1) The directors may refuse to register the transfer of a share to a person of whom they do not approve.
 
 (2) They may also refuse to register the transfer unless it is lodged at the registered office of the company or at such other place as the directors may appoint and is accompanied by such evidence as the directors may reasonably require to show the right of the transferor to make the transfer, and by such other information as they may reasonably require.
 
@@ -793,7 +793,7 @@ Regulation 8(b)
 
 (4) The provisions of this paragraph apply in addition to any restrictions on the transfer of a share which may be set out elsewhere in the memorandum or articles of the company.
 
-**3.**[^key-bfaf3bb1f9ff071f64977d7c75cbb4f2] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
+**3.**[^c-bfaf3bb1f9ff071f64977d7c75cbb4f2] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
 
 (2) No powers to appoint directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in the majority of the directors of the company having been appointed by persons who are not members of the company.
 
@@ -806,7 +806,7 @@ Regulation 8(b)
 
 (5) In this paragraph “financial year” has the meaning given in section 223 of the Companies Act 1985.
 
-**4.**[^key-0004c0adfcfb9aa2700edffbc338e686] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
+**4.**[^c-0004c0adfcfb9aa2700edffbc338e686] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
 
 (2) A director who is also an alternate director shall be entitled in the absence of his appointer to a separate vote on behalf of his appointer in addition to his own vote.
 
@@ -816,7 +816,7 @@ Regulation 8(b)
 
 Regulation 22(7)
 
-**1.**[^key-e052fe6fcbd85c7a0b630284b30caea0] (1) The average amount of a debt or sum outstanding under a debenture during any 12 month period is the amount which satisfies the calculation set out in sub-paragraph (2).
+**1.**[^c-e052fe6fcbd85c7a0b630284b30caea0] (1) The average amount of a debt or sum outstanding under a debenture during any 12 month period is the amount which satisfies the calculation set out in sub-paragraph (2).
 
 (2) The calculation referred to in sub-paragraph (1) is A divided by B where:
 
@@ -827,9 +827,9 @@ Regulation 22(7)
 
 (4) For the purposes of A in sub-paragraph (2) where the debt or debenture did not exist at the end of any day during the 12 month period, the amount of the debt or the sum outstanding under the debenture as at the end of that day shall be treated as being zero for the purposes of the calculation in A.
 
-**2.**[^key-ee79e1abe84fae41dc8fc8551644381c] Where the amount of the debt or the sum outstanding under the debenture is not known as at the end of any particular date, the directors of the community interest company may, for the purposes of the calculation referred to in paragraph 1, substitute for the debt or the sum outstanding under the debenture such amount or sum as they estimate to be the amount of the debt or the sum outstanding under the debenture as at the end of that particular date.
+**2.**[^c-ee79e1abe84fae41dc8fc8551644381c] Where the amount of the debt or the sum outstanding under the debenture is not known as at the end of any particular date, the directors of the community interest company may, for the purposes of the calculation referred to in paragraph 1, substitute for the debt or the sum outstanding under the debenture such amount or sum as they estimate to be the amount of the debt or the sum outstanding under the debenture as at the end of that particular date.
 
-## SCHEDULE 5 — FEES PAYABLE TO THE REGISTRAR OF COMPANIES[^key-fc6f0fd21e34bd4023cd2f48f7ade6b8]
+## SCHEDULE 5 — FEES PAYABLE TO THE REGISTRAR OF COMPANIES[^c-fc6f0fd21e34bd4023cd2f48f7ade6b8]
 
 Regulation 36
 
@@ -888,59 +888,59 @@ The effects that this instrument will have on the costs of business were taken i
 
 [^f00001]: Footnote: [2004 c. 27](https://www.legislation.gov.uk/ukpga/2004/27).
 
-[^key-4d1dbbdac17275e594bda233464dbe9f]: Commencement: Reg. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-4d1dbbdac17275e594bda233464dbe9f]: Commencement: Reg. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-90ff85cd39546c0e3735a96dfd107810]: Commencement: Reg. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-90ff85cd39546c0e3735a96dfd107810]: Commencement: Reg. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00002]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00003]: Footnote: Section 736 was substituted by section 144(1) of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-7273f33d8dfc7e8fd2b640b4433db6d0]: Commencement: Reg. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-7273f33d8dfc7e8fd2b640b4433db6d0]: Commencement: Reg. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-d1e0b88587b76a1c00ce033553f88728]: Commencement: Reg. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-d1e0b88587b76a1c00ce033553f88728]: Commencement: Reg. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-97160d8612090609381b7600ea6475a2]: Commencement: Reg. 5 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-97160d8612090609381b7600ea6475a2]: Commencement: Reg. 5 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-60015cd44a93f9851af79ff94334b461]: Commencement: Reg. 6 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-60015cd44a93f9851af79ff94334b461]: Commencement: Reg. 6 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-b92f71923b3331e58264adcc980a1d3b]: Commencement: Reg. 7 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-b92f71923b3331e58264adcc980a1d3b]: Commencement: Reg. 7 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-00c7b054d6f583893415fd0b69e4cb34]: Commencement: Reg. 8 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-00c7b054d6f583893415fd0b69e4cb34]: Commencement: Reg. 8 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-12daf9b7ae09fd79c6be2ee498d75b53]: Commencement: Reg. 9 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-12daf9b7ae09fd79c6be2ee498d75b53]: Commencement: Reg. 9 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-43634091fd344ab84646c688ea098fd2]: Commencement: Reg. 10 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-43634091fd344ab84646c688ea098fd2]: Commencement: Reg. 10 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-96f303f26151cee4cb29c3d1fd4c7978]: Commencement: Reg. 11 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-96f303f26151cee4cb29c3d1fd4c7978]: Commencement: Reg. 11 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-b2b0faf8d2522524c928cb289c9f855f]: Commencement: Reg. 12 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-b2b0faf8d2522524c928cb289c9f855f]: Commencement: Reg. 12 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-0386402cd8afcec6deb5921ed7361323]: Commencement: Reg. 13 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-0386402cd8afcec6deb5921ed7361323]: Commencement: Reg. 13 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-95ff178c437c9dd18393777044791e49]: Commencement: Reg. 14 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-95ff178c437c9dd18393777044791e49]: Commencement: Reg. 14 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00004]: Footnote: There are amendments to section 380 of the 1985 Act but none is relevant to these Regulations.
 
-[^key-5d8dc420397cd54fbf63b4ce1b8a0b50]: Commencement: Reg. 15 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-5d8dc420397cd54fbf63b4ce1b8a0b50]: Commencement: Reg. 15 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00005]: Footnote: There are amendments to section 711 of the 1985 Act but none is relevant to these Regulations.
 
-[^key-d588d87f1bfce354084872a1a4981ccc]: Commencement: Reg. 16 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-d588d87f1bfce354084872a1a4981ccc]: Commencement: Reg. 16 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-4727f76173878d712abfeec6edeb5ccb]: Commencement: Reg. 17 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-4727f76173878d712abfeec6edeb5ccb]: Commencement: Reg. 17 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-b5315839a52e2454cc2bb0aced8b0ba0]: Commencement: Reg. 18 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-b5315839a52e2454cc2bb0aced8b0ba0]: Commencement: Reg. 18 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-ed5f6ba83fc2f7c7b76cb990593ee5e4]: Commencement: Reg. 19 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-ed5f6ba83fc2f7c7b76cb990593ee5e4]: Commencement: Reg. 19 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-6fa5facb60b553d51bd066dd25f986ae]: Commencement: Reg. 20 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-6fa5facb60b553d51bd066dd25f986ae]: Commencement: Reg. 20 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-189c94136ab207667388463f9fd0b921]: Commencement: Reg. 21 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-189c94136ab207667388463f9fd0b921]: Commencement: Reg. 21 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-e757d0226da5e5d8df9c2a3221f4f10c]: Commencement: Reg. 22 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-e757d0226da5e5d8df9c2a3221f4f10c]: Commencement: Reg. 22 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-d95e4df85e11197c1b71829074e07a64]: Commencement: Reg. 23 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-d95e4df85e11197c1b71829074e07a64]: Commencement: Reg. 23 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00006]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -948,21 +948,21 @@ The effects that this instrument will have on the costs of business were taken i
 
 [^f00008]: Footnote: [2001 asp10](https://www.legislation.gov.uk/asp/2001/10).
 
-[^key-2d03357e46d17878b03b4c4aa8b5fd7e]: Commencement: Reg. 24 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-2d03357e46d17878b03b4c4aa8b5fd7e]: Commencement: Reg. 24 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-88a955d064f0b0b8833f9295b7c9e57a]: Commencement: Reg. 25 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-88a955d064f0b0b8833f9295b7c9e57a]: Commencement: Reg. 25 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-f46e048cccb77f31fcd7f9d3af7ad583]: Commencement: Reg. 26 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-f46e048cccb77f31fcd7f9d3af7ad583]: Commencement: Reg. 26 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00009]: Footnote: Part 1 of Schedule 6 to the 1985 Act was inserted by schedule 4 to the Companies Act 1989. Relevant amending instruments are S.I. [1997/570](https://www.legislation.gov.uk/uksi/1997/570) (regulations 2 to 6), S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) (article 33) and S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) (regulation 10).
 
 [^f00010]: Footnote: Section 242 was inserted by section 11 of the Companies Act 1985. It has been amended, but the amendments are not relevant to these Regulations.
 
-[^key-7346daacce4a45b457efdeadfa9ea897]: Commencement: Reg. 27 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-7346daacce4a45b457efdeadfa9ea897]: Commencement: Reg. 27 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-cf9f436e44ee298855cd7c0a0e7813a6]: Commencement: Reg. 28 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-cf9f436e44ee298855cd7c0a0e7813a6]: Commencement: Reg. 28 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-598fc1d6a4e7938cb87061db58108dae]: Commencement: Reg. 29 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-598fc1d6a4e7938cb87061db58108dae]: Commencement: Reg. 29 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00011]: Footnote: Section 234A of the 1985 Act was inserted by section 8(1) of the Companies Act 1989.
 
@@ -978,72 +978,72 @@ The effects that this instrument will have on the costs of business were taken i
 
 [^f00017]: Footnote: Section 252(1), (2) and (4) of the 1985 Act was inserted by section 16 of the Companies Act 1989.
 
-[^key-458de144957eef1b902af2ccc6bd7694]: Commencement: Reg. 30 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-458de144957eef1b902af2ccc6bd7694]: Commencement: Reg. 30 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-e509048fc6c2e10e0ac6ffaf6d5c0066]: Commencement: Reg. 31 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-e509048fc6c2e10e0ac6ffaf6d5c0066]: Commencement: Reg. 31 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-f34fa722c09ae0afa90a7227deb32fad]: Commencement: Reg. 32 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-f34fa722c09ae0afa90a7227deb32fad]: Commencement: Reg. 32 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-313bfaac4f73e2a6e951da9140f38fd9]: Commencement: Reg. 33 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-313bfaac4f73e2a6e951da9140f38fd9]: Commencement: Reg. 33 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-0c622c441c06a15479d66fa7ffa8a219]: Commencement: Reg. 34 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-0c622c441c06a15479d66fa7ffa8a219]: Commencement: Reg. 34 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00018]: Footnote: Section 715A of the 1985 Act was inserted by section 127(1) of the Companies Act 1989.
 
 [^f00019]: Footnote: Section 710B of the 1985 Act was inserted by section 30(6) of the Welsh Language Act [1993 (c. 38)](https://www.legislation.gov.uk/ukpga/1993/38).
 
-[^key-41f0633882a47cf8c74a45869b9745c9]: Commencement: Reg. 35 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-41f0633882a47cf8c74a45869b9745c9]: Commencement: Reg. 35 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00020]: Footnote: Section 109 of the Insolvency Act 1986 has been modified in relation to Scotland. By virtue of sub-paragraphs 23(4) and (5) of Schedule 8 to the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (as amended by S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)) anything directed to be done to the registrar of companies in Scotland by virtue of section 109(1) of the Insolvency Act 1986, shall instead be done to the Accountant in Bankruptcy.
 
 [^f00021]: Footnote: Section 130 of the Insolvency Act 1986 has been modified in relation to Scotland. By virtue of sub-paragraphs 23(2) and (3) of Schedule 8 to the Scotland Act 1998 (as amended by article 360 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)) anything directed to be done to the registrar of companies in Scotland by virtue of section 130(1) of the Insolvency Act 1986, shall also be done to the Accountant in Bankruptcy.
 
-[^key-a0f8baf7a4406b68a504bf073dfecb97]: Commencement: Reg. 36 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-a0f8baf7a4406b68a504bf073dfecb97]: Commencement: Reg. 36 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-11a519e22f2eed89a446f3cdeee70cc8]: Commencement: Reg. 37 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-11a519e22f2eed89a446f3cdeee70cc8]: Commencement: Reg. 37 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-5a58d6c87e9f49cbcfc4bb3b1574ca89]: Commencement: Reg. 38 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-5a58d6c87e9f49cbcfc4bb3b1574ca89]: Commencement: Reg. 38 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-1f236d7814e6d57377b1549f976e63b9]: Commencement: Reg. 39 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-1f236d7814e6d57377b1549f976e63b9]: Commencement: Reg. 39 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-eb53fc88084e5e9cb9b86de71b7bb9a6]: Commencement: Reg. 40 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-eb53fc88084e5e9cb9b86de71b7bb9a6]: Commencement: Reg. 40 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-3c75e8810ad7ef963bb5e261ca95672a]: Commencement: Reg. 41 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-3c75e8810ad7ef963bb5e261ca95672a]: Commencement: Reg. 41 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-06516c19ea079d3da83b0cafdfdb0958]: Commencement: Reg. 42 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-06516c19ea079d3da83b0cafdfdb0958]: Commencement: Reg. 42 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-3272752686add750ff91864614308425]: Commencement: Sch. 1 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-3272752686add750ff91864614308425]: Commencement: Sch. 1 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00022]: Footnote: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10).
 
 [^f00023]: Footnote: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40).
 
-[^key-39ca1eec717f0ccf7f6104f12433e372]: Commencement: Sch. 1 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-39ca1eec717f0ccf7f6104f12433e372]: Commencement: Sch. 1 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-10e00edef96db680c2f0a8f1f472b10d]: Commencement: Sch. 1 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-10e00edef96db680c2f0a8f1f472b10d]: Commencement: Sch. 1 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00024]: Footnote: Section 223 of the 1985 Act was inserted by section 3 of the Companies Act 1989.
 
-[^key-05e19aa96848f325643043904bb483e6]: Commencement: Sch. 1 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-05e19aa96848f325643043904bb483e6]: Commencement: Sch. 1 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-0eff14ba3418efdf3ec90eab0ab8a951]: Commencement: Sch. 2 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-0eff14ba3418efdf3ec90eab0ab8a951]: Commencement: Sch. 2 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-8d9526edd3ef7cc31b421fd626833de1]: Commencement: Sch. 2 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-8d9526edd3ef7cc31b421fd626833de1]: Commencement: Sch. 2 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-3410e1bc68d28c00e5630a6238a9680a]: Commencement: Sch. 2 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-3410e1bc68d28c00e5630a6238a9680a]: Commencement: Sch. 2 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-b3bfe8c73467cb6d1d51c4625b0cbad2]: Commencement: Sch. 2 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-b3bfe8c73467cb6d1d51c4625b0cbad2]: Commencement: Sch. 2 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-ca1fd1567c6dbe30fcc663e936629cad]: Commencement: Sch. 3 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-ca1fd1567c6dbe30fcc663e936629cad]: Commencement: Sch. 3 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-162eb28af5aaa564611068c32aa7d208]: Commencement: Sch. 3 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-162eb28af5aaa564611068c32aa7d208]: Commencement: Sch. 3 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-bfaf3bb1f9ff071f64977d7c75cbb4f2]: Commencement: Sch. 3 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-bfaf3bb1f9ff071f64977d7c75cbb4f2]: Commencement: Sch. 3 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-0004c0adfcfb9aa2700edffbc338e686]: Commencement: Sch. 3 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-0004c0adfcfb9aa2700edffbc338e686]: Commencement: Sch. 3 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-e052fe6fcbd85c7a0b630284b30caea0]: Commencement: Sch. 4 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-e052fe6fcbd85c7a0b630284b30caea0]: Commencement: Sch. 4 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-ee79e1abe84fae41dc8fc8551644381c]: Commencement: Sch. 4 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-ee79e1abe84fae41dc8fc8551644381c]: Commencement: Sch. 4 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^key-fc6f0fd21e34bd4023cd2f48f7ade6b8]: Commencement: Sch. 5 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-fc6f0fd21e34bd4023cd2f48f7ade6b8]: Commencement: Sch. 5 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 166A. Content of notice to be sent by the administrator[^key-1f81997caff611e271b2388d3c5471cb]
+## 166A. Content of notice to be sent by the administrator[^c-1f81997caff611e271b2388d3c5471cb]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Any notice required to be sent by the administrator under the Regulations or the
 
 ## Annotations
 
-[^key-1f81997caff611e271b2388d3c5471cb]: Textual amendment: [Rule 166A](https://www.legislation.gov.uk/uksi/2022/1239/rule/166A) inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(13)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/13)
+[^c-1f81997caff611e271b2388d3c5471cb]: Textual amendment: [Rule 166A](https://www.legislation.gov.uk/uksi/2022/1239/rule/166A) inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(13)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/13)

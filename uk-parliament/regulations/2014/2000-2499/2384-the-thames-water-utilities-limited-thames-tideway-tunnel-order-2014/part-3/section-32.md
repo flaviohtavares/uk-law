@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Power to override easements and other rights[^key-bafd015b4983aad15cc0f468ce95fa20]
+## 32. Power to override easements and other rights[^c-bafd015b4983aad15cc0f468ce95fa20]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ the liability shall be enforceable against that undertaker.
 
 ## Annotations
 
-[^key-bafd015b4983aad15cc0f468ce95fa20]: Commencement: Art. 32 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-bafd015b4983aad15cc0f468ce95fa20]: Commencement: Art. 32 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

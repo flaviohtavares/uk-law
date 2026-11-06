@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Discontinuation of arrangements for the provision of pharmaceutical services by doctors[^key-e5ebab7a9b4f682ab3dd80c30bbdface]
+## 29. Discontinuation of arrangements for the provision of pharmaceutical services by doctors[^c-e5ebab7a9b4f682ab3dd80c30bbdface]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5ebab7a9b4f682ab3dd80c30bbdface]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2020/1073/regulation/29) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-e5ebab7a9b4f682ab3dd80c30bbdface]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2020/1073/regulation/29) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

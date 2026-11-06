@@ -39,17 +39,17 @@ Coming into operation
 
 12th November 2003
 
-The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by sections 2[^f00002], 3(1)[^f00003], 3A[^f00004], 3B[^f00005] and 4(1)[^f00006] of the Plant Health Act (Northern Ireland) 1967[^f00007] and of all other powers enabling it in that behalf, hereby makes the following Order:[^key-b5ebfa75179021f6194207f462809a5d]
+The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by sections 2[^f00002], 3(1)[^f00003], 3A[^f00004], 3B[^f00005] and 4(1)[^f00006] of the Plant Health Act (Northern Ireland) 1967[^f00007] and of all other powers enabling it in that behalf, hereby makes the following Order:[^c-b5ebfa75179021f6194207f462809a5d]
 
-## 1. Citation and commencement[^key-3bd62357e947e05396191e4f6596b258]
+## 1. Citation and commencement[^c-3bd62357e947e05396191e4f6596b258]
 
 This Order may be cited as the Plant Health (Amendment No. 2) Order (Northern Ireland) 2003 and shall come into operation on 12th November 2003.
 
-## 2. Amendment of the Plant Health Order (Northern Ireland) 1993[^key-55ada72640d6ecc9cca64cd30e0b8044]
+## 2. Amendment of the Plant Health Order (Northern Ireland) 1993[^c-55ada72640d6ecc9cca64cd30e0b8044]
 
 The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in accordance with Articles 3 to 22.
 
-**3.**[^key-7df54b759f39b46f7ff94a0034fed979] In Article 3(1) –
+**3.**[^c-7df54b759f39b46f7ff94a0034fed979] In Article 3(1) –
 
 - (a) for the definition of “Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029)” there shall be substituted –
 
@@ -62,15 +62,15 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
   .
 
-**4.**[^key-6bd50d1656f7476fe49c974adf866fa9] In Schedule 1, Part A, Section A (Insects, Mites and Nematodes at all stages of their development) Items 15, 16 and 18 shall be deleted.
+**4.**[^c-6bd50d1656f7476fe49c974adf866fa9] In Schedule 1, Part A, Section A (Insects, Mites and Nematodes at all stages of their development) Items 15, 16 and 18 shall be deleted.
 
-**5.**[^key-84929ccbaa7982bc711e6e7393500061] In Schedule 1, Part A, Section A (Insects, Mites and Nematodes at all stages of their development) after Item 22 there shall be inserted –
+**5.**[^c-84929ccbaa7982bc711e6e7393500061] In Schedule 1, Part A, Section A (Insects, Mites and Nematodes at all stages of their development) after Item 22 there shall be inserted –
 
 > **22.1.** *Naupactus leucoloma* Boheman
 
 .
 
-**6.**[^key-e13602da983db9a31a745a4ab1574d9c] In Schedule 1, Part B, Section A (Insects, Mites and Nematodes at all stages of their development) after Item 2 there shall be inserted –
+**6.**[^c-e13602da983db9a31a745a4ab1574d9c] In Schedule 1, Part B, Section A (Insects, Mites and Nematodes at all stages of their development) after Item 2 there shall be inserted –
 
 > |  |  |
 > | --- | --- |
@@ -78,13 +78,13 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
 .
 
-**7.**[^key-904ee49065f023f60743f3fab0c38a7f] In Schedule 1, Part B, Section B (Viruses and Virus-like Organisms) in Item 1, for the words in column (3) there shall be substituted –
+**7.**[^c-904ee49065f023f60743f3fab0c38a7f] In Schedule 1, Part B, Section B (Viruses and Virus-like Organisms) in Item 1, for the words in column (3) there shall be substituted –
 
 > - DK, F (Brittany), IRL, P (Azores), FIN, S (with the exception of the District Council areas of Bromölla, Hässleholm, Kristianstad and Östra Göinge in the county of Skåne), UK (Northern Ireland)
 
 .
 
-**8.**[^key-282b0b564d85a8a973d5a43bfa44d19c] In Schedule 2, Part A, Section A (Insects, Mites and Nematodes at all stages of their development) after Item 23 there shall be inserted –
+**8.**[^c-282b0b564d85a8a973d5a43bfa44d19c] In Schedule 2, Part A, Section A (Insects, Mites and Nematodes at all stages of their development) after Item 23 there shall be inserted –
 
 > |  |  |
 > | --- | --- |
@@ -93,7 +93,7 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
 .
 
-**9.**[^key-75e0b8b8bb7b51b380a9ae8ba2cdb57a] In Schedule 2, Part A, Section C (Fungi), after Item 1 there shall be inserted –
+**9.**[^c-75e0b8b8bb7b51b380a9ae8ba2cdb57a] In Schedule 2, Part A, Section C (Fungi), after Item 1 there shall be inserted –
 
 > |  |  |
 > | --- | --- |
@@ -101,25 +101,25 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
 .
 
-**10.**[^key-9328473f7b96f400b9d682a2dfea4999] In Schedule 2, Part B, Section A (Insects, Mites and Nematodes at all stages of their development) at Item 5 for the words in column (4) there shall be substituted –
+**10.**[^c-9328473f7b96f400b9d682a2dfea4999] In Schedule 2, Part B, Section A (Insects, Mites and Nematodes at all stages of their development) at Item 5 for the words in column (4) there shall be substituted –
 
 > - Greece, Portugal (Azores)
 
 .[^f00016].
 
-**11.**[^key-d64532767f75c0bed24b3f4fb854529a] In Schedule 2, Part B, Section B, (Bacteria) at Item 2 for the words in column (4) there shall be substituted –
+**11.**[^c-d64532767f75c0bed24b3f4fb854529a] In Schedule 2, Part B, Section B, (Bacteria) at Item 2 for the words in column (4) there shall be substituted –
 
 > - E, F (Corsica), IRL, I (Abruzzi; Apulia; Basilicata; Calabria; Campania; Emilia-Romagna: provinces of Forlí-Cesena, Parma, Piacenza and Rimini; Friuli-Venezia Giulia; Lazio; Liguria; Lombardy; Marche; Molise; Piedmont; Sardinia; Sicily; Tuscany; Trentino-Alto Adige: autonomous provinces of Bolzano and Trento; Umbria; Valle d'Aosta; Veneto: except in the province of Rovigo the communes Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara, and in the province of Padova the communes Castelbaldo, Barbona, Piacenza d'Adige, Vescovana, S. Urbano, Boara Pisani, Masi, and in the province of Verona the communes Palù, Roverchiara, Legnago, Castagnaro, Ronco all'Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari), and for A (Burgenland, Carinthia, Lower Austria, Tirol (administrative district Lienz), Styria, Vienna), P, FIN, UK (Northern Ireland, Isle of Man and Channel Islands)
 
 .
 
-**12.**[^key-cb5576e43133d0360770a889d317e27c] In Schedule 3, Part B, (Plants and plant products which may not be introduced into or kept within certain protected zones) for the words opposite Item 1 in column (3) there shall be substituted –
+**12.**[^c-cb5576e43133d0360770a889d317e27c] In Schedule 3, Part B, (Plants and plant products which may not be introduced into or kept within certain protected zones) for the words opposite Item 1 in column (3) there shall be substituted –
 
 > - E, F (Corsica), IRL, I (Abruzzi; Apulia; Basilicata; Calabria; Campania; Emilia-Romagna: provinces of Forlí-Cesena, Parma, Piacenza and Rimini; Friuli-Venezia Giulia; Lazio; Liguria; Lombardy; Marche; Molise; Piedmont; Sardinia; Sicily; Tuscany; Trentino-Alto Adige: autonomous provinces of Bolzano and Trento; Umbria; Valle d'Aosta; Veneto: except in the province of Rovigo the communes Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara, and in the province of Padova the communes Castelbaldo, Barbona, Piacenza d'Adige, Vescovana, S. Urbano, Boara Pisani, Masi, and in the province of Verona the communes Palù, Roverchiara, Legnago, Castagnaro, Ronco all'Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari), and for A (Burgenland, Carinthia, Lower Austria, Tirol (administrative district Lienz), Styria, Vienna), P, FIN, UK (Northern Ireland, Isle of Man and Channel Islands)
 
 .
 
-**13.**[^key-68c73cf6ea0468c5b33f95c9a35bf543] In Schedule 4, Part A, Section I (Plants, plant products and other objects originating outside the European Community) –
+**13.**[^c-68c73cf6ea0468c5b33f95c9a35bf543] In Schedule 4, Part A, Section I (Plants, plant products and other objects originating outside the European Community) –
 
 - (a) after Item 6 there shall be inserted –
 
@@ -166,7 +166,7 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 - (g) in Item 61, in column (3) the words “60 and 60A” shall be replaced with “60A, 60B and 60C”; and
 - (h) in Items 67A and 67B, in column (2) there shall be inserted “, South Africa” after the word “Pakistan”.
 
-**14.**[^key-4fe06329103fa318e2da505d9e2225fc] In Schedule 4, Part A, Section II (Plants, plant products and other objects originating in the European Community) for Item 26 there shall be substituted –
+**14.**[^c-4fe06329103fa318e2da505d9e2225fc] In Schedule 4, Part A, Section II (Plants, plant products and other objects originating in the European Community) for Item 26 there shall be substituted –
 
 > |  |  |
 > | --- | --- |
@@ -174,7 +174,7 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
 .
 
-**15.**[^key-be02322a52765f9d60cf3cdff3c90e8c] In Schedule 4, Part B (Conditions to be met before plants, plant products and other objects may be introduced into or moved within certain protected zones) –
+**15.**[^c-be02322a52765f9d60cf3cdff3c90e8c] In Schedule 4, Part B (Conditions to be met before plants, plant products and other objects may be introduced into or moved within certain protected zones) –
 
 - (a) in Item 12, for the words in column (4) there shall be substituted –
 
@@ -237,13 +237,13 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
   .
 
-**16.**[^key-700328fc278e35a047587b3dcde97263] In Schedule 5, Part A, Section I (Plants, plant products and other objects which are potential carriers of pests of relevance for the entire European Community and which must be accompanied by a plant passport) in Item 2(a), after the words “*Verbena* L.” there shall be inserted –
+**16.**[^c-700328fc278e35a047587b3dcde97263] In Schedule 5, Part A, Section I (Plants, plant products and other objects which are potential carriers of pests of relevance for the entire European Community and which must be accompanied by a plant passport) in Item 2(a), after the words “*Verbena* L.” there shall be inserted –
 
 > - and other plants of herbaceous species, other than plants of the family Gramineae, intended for planting, and other than bulbs, corms, rhizomes, seeds and tubers
 
 .
 
-**17.**[^key-b9a9169bc8634a4792ee78f5983f181e] In Schedule 5, Part A, Section II (Plants, plant products and other objects which are potential carriers of pests of relevance for certain protected zones and which must be accompanied by a plant passport valid for the appropriate zone when introduced into or moved within that zone) –
+**17.**[^c-b9a9169bc8634a4792ee78f5983f181e] In Schedule 5, Part A, Section II (Plants, plant products and other objects which are potential carriers of pests of relevance for certain protected zones and which must be accompanied by a plant passport valid for the appropriate zone when introduced into or moved within that zone) –
 
 - (a) for Item 1.(f) there shall be substituted –
 
@@ -267,7 +267,7 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
   .
 
-**18.**[^key-21385e80cdac7261520c9af8bf586c04] In Schedule 5, Part B, Section I (Plants, plant products and other objects which are potential carriers of pests of relevance for the entire European Community) –
+**18.**[^c-21385e80cdac7261520c9af8bf586c04] In Schedule 5, Part B, Section I (Plants, plant products and other objects which are potential carriers of pests of relevance for the entire European Community) –
 
 - (a) in Items 1 and 6 there shall be inserted “, South Africa)” after the word “Pakistan”;
 - (b) in Item 2, in place of parts (a), (b), (c) and (d), there shall be substituted –
@@ -292,7 +292,7 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
   .
 
-**19.**[^key-6b9615f476b9999bf7fde48159c39784] In Schedule 5, Part B, Section II (Plants, plant products and other objects which are potential carriers of pests of relevance for certain protected zones) –
+**19.**[^c-6b9615f476b9999bf7fde48159c39784] In Schedule 5, Part B, Section II (Plants, plant products and other objects which are potential carriers of pests of relevance for certain protected zones) –
 
 - (a) for paragraph 1 there shall be substituted –
 
@@ -305,7 +305,7 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
   .
 
-**20.**[^key-0296c5a74a0a1a25fd3f17e1fbea93ca] In Schedule 8, Part A (Insects, mites and nematodes at all stages of their development) –
+**20.**[^c-0296c5a74a0a1a25fd3f17e1fbea93ca] In Schedule 8, Part A (Insects, mites and nematodes at all stages of their development) –
 
 - (a) in Item 6, for the words in column (3) there shall be substituted –
 
@@ -320,13 +320,13 @@ The Plant Health Order (Northern Ireland) 1993[^f00008] shall be amended in acco
 
   .
 
-**21.**[^key-54a881db77b35a0c25e1252177935c0f] In Schedule 8, Part B (Bacteria), in Item 2 for the words in column (3) there shall be substituted –
+**21.**[^c-54a881db77b35a0c25e1252177935c0f] In Schedule 8, Part B (Bacteria), in Item 2 for the words in column (3) there shall be substituted –
 
 > - E, F (Corsica), IRL, I (Abruzzi; Apulia; Basilicata; Calabria; Campania; Emilia-Romagna: provinces of Forlí-Cesena, Parma, Piacenza and Rimini; Friuli-Venezia Giulia; Lazio; Liguria; Lombardy; Marche; Molise; Piedmont; Sardinia; Sicily; Tuscany; Trentino-Alto Adige: autonomous provinces of Bolzano and Trento; Umbria; Valle d'Aosta; Veneto: except in the province of Rovigo the communes Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara, and in the province of Padova the communes Castelbaldo, Barbona, Piacenza d'Adige, Vescovana, S. Urbano, Boara Pisani, Masi, and in the province of Verona the communes Palù, Roverchiara, Legnago, Castagnaro, Ronco all'Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari), and for A (Burgenland, Carinthia, Lower Austria, Tirol (administrative district Lienz), Styria, Vienna), P, FIN, UK (Northern Ireland, Isle of Man and Channel Islands)
 
 .
 
-**22.**[^key-9bd8a07a1eb8446ae0134e54e9339c58] In Schedule 8, Part D (Virus and virus-like organisms), in Item 1 for the words in column (3) there shall be substituted –
+**22.**[^c-9bd8a07a1eb8446ae0134e54e9339c58] In Schedule 8, Part D (Virus and virus-like organisms), in Item 1 for the words in column (3) there shall be substituted –
 
 > - DK, F (Brittany), IRL, P (Azores), FIN, S (with the exception of the District Council areas of Bromölla, Hässleholm, Kristianstad and Östra Göinge in the county of Skåne), UK (Northern Ireland)
 
@@ -377,15 +377,15 @@ Department of Agriculture and Rural Development
 
 [^f00007]: Footnote: [1967 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1967/28)
 
-[^key-b5ebfa75179021f6194207f462809a5d]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/458) applied (with modifications) (10.6.2006) by [Planning (Application of Subordinate Legislation to the Crown) Order (Northern Ireland) 2006 (S.R. 2006/218)](https://www.legislation.gov.uk/nisr/2006/218), [arts. 1](https://www.legislation.gov.uk/nisr/2006/218/article/1), [12(1)](https://www.legislation.gov.uk/nisr/2006/218/article/12)
+[^c-b5ebfa75179021f6194207f462809a5d]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/458) applied (with modifications) (10.6.2006) by [Planning (Application of Subordinate Legislation to the Crown) Order (Northern Ireland) 2006 (S.R. 2006/218)](https://www.legislation.gov.uk/nisr/2006/218), [arts. 1](https://www.legislation.gov.uk/nisr/2006/218/article/1), [12(1)](https://www.legislation.gov.uk/nisr/2006/218/article/12)
 
-[^key-3bd62357e947e05396191e4f6596b258]: Commencement: Art. 1 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-3bd62357e947e05396191e4f6596b258]: Commencement: Art. 1 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-55ada72640d6ecc9cca64cd30e0b8044]: Commencement: Art. 2 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-55ada72640d6ecc9cca64cd30e0b8044]: Commencement: Art. 2 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
 [^f00008]: Footnote: [S.R. 1993 No. 256](https://www.legislation.gov.uk/nisr/1993/256) as amended by [S.R. 1994 No. 28](https://www.legislation.gov.uk/nisr/1994/28), [S.R. 1995 No. 164](https://www.legislation.gov.uk/nisr/1995/164), [No. 250](https://www.legislation.gov.uk/nisr/1995/250) and [No. 494](https://www.legislation.gov.uk/nisr/1995/494), [S.R.1996 No. 204](https://www.legislation.gov.uk/nisr/1996/204) and [No. 249](https://www.legislation.gov.uk/nisr/1996/249), [S.R. 1997 No. 110](https://www.legislation.gov.uk/nisr/1997/110) and [397](https://www.legislation.gov.uk/nisr/1997/397), [S.R. 1998 No. 16](https://www.legislation.gov.uk/nisr/1998/16), [No. 146](https://www.legislation.gov.uk/nisr/1998/146) and [No. 315](https://www.legislation.gov.uk/nisr/1998/315), [S.R. 1999 No. 24](https://www.legislation.gov.uk/nisr/1999/24), [S.R. 2000 No. 126](https://www.legislation.gov.uk/nisr/2000/126), [S.R. 2001 No. 188](https://www.legislation.gov.uk/nisr/2001/188) and [No. 437](https://www.legislation.gov.uk/nisr/2001/437), [S.R. 2002 No. 273](https://www.legislation.gov.uk/nisr/2002/273), [S.R. 2003 No. 235](https://www.legislation.gov.uk/nisr/2003/235)
 
-[^key-7df54b759f39b46f7ff94a0034fed979]: Commencement: Art. 3 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-7df54b759f39b46f7ff94a0034fed979]: Commencement: Art. 3 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
 [^f00009]: Footnote: O.J. No. L169, 10.7.00, p. 1
 
@@ -401,44 +401,44 @@ Department of Agriculture and Rural Development
 
 [^f00015]: Footnote: Available from the IPPC Secretariat, AGPP-FAO, Viale Delle Terme di Caracalla, 00100 Rome, Italy and http://www.ippc.int/IPP/En/default.htm
 
-[^key-6bd50d1656f7476fe49c974adf866fa9]: Commencement: Art. 4 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-6bd50d1656f7476fe49c974adf866fa9]: Commencement: Art. 4 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-84929ccbaa7982bc711e6e7393500061]: Commencement: Art. 5 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-84929ccbaa7982bc711e6e7393500061]: Commencement: Art. 5 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-e13602da983db9a31a745a4ab1574d9c]: Commencement: Art. 6 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-e13602da983db9a31a745a4ab1574d9c]: Commencement: Art. 6 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-904ee49065f023f60743f3fab0c38a7f]: Commencement: Art. 7 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-904ee49065f023f60743f3fab0c38a7f]: Commencement: Art. 7 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-282b0b564d85a8a973d5a43bfa44d19c]: Commencement: Art. 8 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-282b0b564d85a8a973d5a43bfa44d19c]: Commencement: Art. 8 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-75e0b8b8bb7b51b380a9ae8ba2cdb57a]: Commencement: Art. 9 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-75e0b8b8bb7b51b380a9ae8ba2cdb57a]: Commencement: Art. 9 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-9328473f7b96f400b9d682a2dfea4999]: Commencement: Art. 10 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-9328473f7b96f400b9d682a2dfea4999]: Commencement: Art. 10 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
 [^f00016]: Footnote: *See* O.J. No. L78, 25.3.03, p. 9 as amended by Commission Directive [2003/46/EC](https://www.legislation.gov.uk/european/directive/2003/0046), (O.J. No. L138, 5.6.03, p. 45)
 
-[^key-d64532767f75c0bed24b3f4fb854529a]: Commencement: Art. 11 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-d64532767f75c0bed24b3f4fb854529a]: Commencement: Art. 11 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-cb5576e43133d0360770a889d317e27c]: Commencement: Art. 12 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-cb5576e43133d0360770a889d317e27c]: Commencement: Art. 12 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-68c73cf6ea0468c5b33f95c9a35bf543]: Commencement: Art. 13 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-68c73cf6ea0468c5b33f95c9a35bf543]: Commencement: Art. 13 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-4fe06329103fa318e2da505d9e2225fc]: Commencement: Art. 14 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-4fe06329103fa318e2da505d9e2225fc]: Commencement: Art. 14 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-be02322a52765f9d60cf3cdff3c90e8c]: Commencement: Art. 15 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-be02322a52765f9d60cf3cdff3c90e8c]: Commencement: Art. 15 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
 [^f00017]: Footnote: *See* O.J. No. L138, 5.5.2003, p. 48
 
-[^key-700328fc278e35a047587b3dcde97263]: Commencement: Art. 16 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-700328fc278e35a047587b3dcde97263]: Commencement: Art. 16 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-b9a9169bc8634a4792ee78f5983f181e]: Commencement: Art. 17 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-b9a9169bc8634a4792ee78f5983f181e]: Commencement: Art. 17 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-21385e80cdac7261520c9af8bf586c04]: Commencement: Art. 18 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-21385e80cdac7261520c9af8bf586c04]: Commencement: Art. 18 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-6b9615f476b9999bf7fde48159c39784]: Commencement: Art. 19 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-6b9615f476b9999bf7fde48159c39784]: Commencement: Art. 19 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-0296c5a74a0a1a25fd3f17e1fbea93ca]: Commencement: Art. 20 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-0296c5a74a0a1a25fd3f17e1fbea93ca]: Commencement: Art. 20 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-54a881db77b35a0c25e1252177935c0f]: Commencement: Art. 21 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-54a881db77b35a0c25e1252177935c0f]: Commencement: Art. 21 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
 
-[^key-9bd8a07a1eb8446ae0134e54e9339c58]: Commencement: Art. 22 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)
+[^c-9bd8a07a1eb8446ae0134e54e9339c58]: Commencement: Art. 22 in operation at 12.11.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/458/article/1)

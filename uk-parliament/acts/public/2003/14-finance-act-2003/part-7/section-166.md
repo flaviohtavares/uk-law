@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Expenditure on software for sub-licensing[^key-3ae1b85bfd801a4ce6dafef08b1f7d0f]
+## 166. Expenditure on software for sub-licensing[^c-3ae1b85bfd801a4ce6dafef08b1f7d0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ae1b85bfd801a4ce6dafef08b1f7d0f]: Textual amendment: [S. 166](https://www.legislation.gov.uk/ukpga/2003/14/section/166) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(6)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/6/b) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
+[^c-3ae1b85bfd801a4ce6dafef08b1f7d0f]: Textual amendment: [S. 166](https://www.legislation.gov.uk/ukpga/2003/14/section/166) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(6)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/6/b) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))

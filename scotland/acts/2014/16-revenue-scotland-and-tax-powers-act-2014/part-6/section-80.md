@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Power to change penalty provisions in sections 76 to 79[^key-8e654d1175c5c5354f13138c8ec8e0e3]
+## 80. Power to change penalty provisions in sections 76 to 79[^c-8e654d1175c5c5354f13138c8ec8e0e3]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e654d1175c5c5354f13138c8ec8e0e3]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/16/section/80) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-8e654d1175c5c5354f13138c8ec8e0e3]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/16/section/80) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

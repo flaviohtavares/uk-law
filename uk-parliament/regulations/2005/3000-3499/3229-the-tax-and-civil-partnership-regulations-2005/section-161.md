@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161.[^key-94dcd40d683d63e6f7b321316d1390b0]
+## 161.[^c-94dcd40d683d63e6f7b321316d1390b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 644A (health and employment insurance payments), in subsection (2)(b)
 
 ## Annotations
 
-[^key-94dcd40d683d63e6f7b321316d1390b0]: Commencement: Reg. 161 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-94dcd40d683d63e6f7b321316d1390b0]: Commencement: Reg. 161 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

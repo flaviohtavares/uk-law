@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. School grounds[^key-60c81b914d9db38826bd51a37adc87a9][^key-51738f9b49fe01b73170e93bafe2e6bf]
+## 10. School grounds[^c-60c81b914d9db38826bd51a37adc87a9][^c-51738f9b49fe01b73170e93bafe2e6bf]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ are being used for the purpose of education or childcare.
 
 ## Annotations
 
-[^key-60c81b914d9db38826bd51a37adc87a9]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/2/section/10) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/b)
+[^c-60c81b914d9db38826bd51a37adc87a9]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/2/section/10) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/b)
 
-[^key-51738f9b49fe01b73170e93bafe2e6bf]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/2/section/10) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-51738f9b49fe01b73170e93bafe2e6bf]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/2/section/10) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1087ZA. Required particulars available for public inspection for limited period[^key-502289c0023636ec8199209d0a554abc]
+## 1087ZA. Required particulars available for public inspection for limited period[^c-502289c0023636ec8199209d0a554abc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-502289c0023636ec8199209d0a554abc]: Textual amendment: [S. 1087ZA](https://www.legislation.gov.uk/ukpga/2006/46/section/1087ZA) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/82/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z24)
+[^c-502289c0023636ec8199209d0a554abc]: Textual amendment: [S. 1087ZA](https://www.legislation.gov.uk/ukpga/2006/46/section/1087ZA) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/82/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z24)

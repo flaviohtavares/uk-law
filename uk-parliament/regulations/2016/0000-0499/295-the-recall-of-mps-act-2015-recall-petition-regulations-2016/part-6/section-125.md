@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Broadcasting from outside United Kingdom[^key-9d3d39ffc73705c8f7be631da4d6f064]
+## 125. Broadcasting from outside United Kingdom[^c-9d3d39ffc73705c8f7be631da4d6f064]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ for the reception and re-transmission of that matter by that body or the holder 
 
 ## Annotations
 
-[^key-9d3d39ffc73705c8f7be631da4d6f064]: Commencement: Reg. 125 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-9d3d39ffc73705c8f7be631da4d6f064]: Commencement: Reg. 125 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

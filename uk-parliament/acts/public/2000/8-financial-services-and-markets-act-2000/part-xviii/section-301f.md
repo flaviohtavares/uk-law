@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)  Where the FCA[^key-291b36e521b64480d47c114f55a818d5] receives a section 301A notice, it must—
+(1)  Where the FCA[^c-291b36e521b64480d47c114f55a818d5] receives a section 301A notice, it must—
 
 - (a) determine whether to approve the acquisition to which it relates; or
 - (b) propose to object to the acquisition.
@@ -38,4 +38,4 @@ summary: ''
 
 [^c2090267]: Textual amendment: Pt. 18 Ch. 1A substituted (21.3.2009) by virtue of [The Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534), [reg. 5](https://www.legislation.gov.uk/uksi/2009/534/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/534/schedule/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2009/534/regulation/8))
 
-[^key-291b36e521b64480d47c114f55a818d5]: Textual amendment: Word in s. 301F(1)-(3) substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2012/21/schedule/8/paragraph/26) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-291b36e521b64480d47c114f55a818d5]: Textual amendment: Word in s. 301F(1)-(3) substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2012/21/schedule/8/paragraph/26) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

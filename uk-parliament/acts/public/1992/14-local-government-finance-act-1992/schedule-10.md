@@ -364,7 +364,7 @@ Section 104.
 > - (a) in relation to a calculation made under section 84B(1) above, the calculation under section 82(1) above or, where a further calculation has been made under section 82(2) above, that further calculation;
 > - (b) in relation to a calculation made under section 84B(2) above, the calculation made under section 84B(1) above.
 
-**16.**[^key-1dcc6f09a1d04c41a62cb766bcceff54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-1dcc6f09a1d04c41a62cb766bcceff54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** In section 86 of the 1988 Act (effect of report’s approval), subsections (4) to (6) shall cease to have effect.
 
@@ -533,6 +533,6 @@ Section 104.
 
 [^c18822931]: Textual amendment: Sch. 10 para. 6(3) repealed (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 127(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/2), [128](https://www.legislation.gov.uk/ukpga/2003/26/section/128), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2](https://www.legislation.gov.uk/uksi/2004/3132/article/2) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
 
-[^key-1dcc6f09a1d04c41a62cb766bcceff54]: Textual amendment: Sch. 10 para. 16 omitted (with effect in accordance with s. 3(13) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 3(12)(a)](https://www.legislation.gov.uk/ukpga/2012/17/section/3/12/a)
+[^c-1dcc6f09a1d04c41a62cb766bcceff54]: Textual amendment: Sch. 10 para. 16 omitted (with effect in accordance with s. 3(13) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 3(12)(a)](https://www.legislation.gov.uk/ukpga/2012/17/section/3/12/a)
 
 [^c12083321]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).

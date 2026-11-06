@@ -63,7 +63,7 @@ in a separate account or on deposit, such account or deposit being in his own na
 
 (3) The power to make regulations under subsection (2) above shall be exercisable by statutory instrument; and no such regulations shall be made unless a draft of them has been approved by resolution of each House of Parliament.
 
-(4)[^c5604391] In lodging money under subsection (1) above the judicial factor shall not require to have regard to any provision of the Trustee Investments Act 1961 which would, apart from the provisions of this subsection, require him to seek advice before depositing money in any of the institutions mentioned in that subsection. *(Extent: S)* *(affected by repeal, see note)*[^key-9768de3d69bd850fd91fdc3f1dc40828]
+(4)[^c5604391] In lodging money under subsection (1) above the judicial factor shall not require to have regard to any provision of the Trustee Investments Act 1961 which would, apart from the provisions of this subsection, require him to seek advice before depositing money in any of the institutions mentioned in that subsection. *(Extent: S)* *(affected by repeal, see note)*[^c-9768de3d69bd850fd91fdc3f1dc40828]
 
 ## 6. Penalties on factor for misconduct.[^c5604401]
 
@@ -241,7 +241,7 @@ It shall be competent to the Court of Session, and they are hereby authorized an
 
 [^c5604391]: Textual amendment: S. 5(4) inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/74/1), [Sch. 8 para. 21(1)(b)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/21/1/b)
 
-[^key-9768de3d69bd850fd91fdc3f1dc40828]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/Vict/12-13/51/section/5/4) repealed (S.) (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 3 para. 1](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/1); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-9768de3d69bd850fd91fdc3f1dc40828]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/Vict/12-13/51/section/5/4) repealed (S.) (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 3 para. 1](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/1); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
 [^c5604401]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Vict/12-13/51/section/6) applied by [Judicial Factors (Scotland) Act 1889 (c. 39)](https://www.legislation.gov.uk/ukpga/1889/39), [s. 7](https://www.legislation.gov.uk/ukpga/1889/39/section/7)
 

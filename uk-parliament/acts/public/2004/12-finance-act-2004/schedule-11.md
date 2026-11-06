@@ -54,15 +54,15 @@ other than so much of the payments as represents the direct cost to the person r
 
 **4.** (1) The applicant must, subject to sub-paragraphs (3) and (4), have complied with—
 
-- (a)[^key-23f5c5510e42106c909dfee02044588d] any obligation imposed on him in the qualifying period (see paragraph 14)—
+- (a)[^c-23f5c5510e42106c909dfee02044588d] any obligation imposed on him in the qualifying period (see paragraph 14)—
   - (i) to pay the amount liable to be deducted under section 61 of this Act from payments made during that period,
   - (ii) to submit returns as required by regulations made under section 70 of this Act,
-  - (iii) to pay the tax liable to be deducted under PAYE regulations[^key-d1dd424a0926f1d9e16f6cc9f20fee80], and
+  - (iii) to pay the tax liable to be deducted under PAYE regulations[^c-d1dd424a0926f1d9e16f6cc9f20fee80], and
   - (iv) to submit a self-assessment return, and
-  - (v)[^key-1ab9e99ea11c4e9b6ca48f48a10f0bd6] to account for or pay VAT as required by or under the Value Added Tax Act 1994, and
+  - (v)[^c-1ab9e99ea11c4e9b6ca48f48a10f0bd6] to account for or pay VAT as required by or under the Value Added Tax Act 1994, and
 - (b) all requests made in the qualifying period to supply to the Inland Revenue accounts of, or other information about, any business of his.
 
-(2) An applicant who at any time in the qualifying period had control of a company is to be taken not to satisfy the condition in sub-paragraph (1) unless the company has satisfied that condition in relation to the period or periods within the qualifying period during which he had control of it; and for this purpose “**control**” is to be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^key-02b2c7db1d930bed43f1ab1bd1d25399].
+(2) An applicant who at any time in the qualifying period had control of a company is to be taken not to satisfy the condition in sub-paragraph (1) unless the company has satisfied that condition in relation to the period or periods within the qualifying period during which he had control of it; and for this purpose “**control**” is to be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^c-02b2c7db1d930bed43f1ab1bd1d25399].
 
 (3) An applicant or company that has failed to comply with such an obligation or request as—
 
@@ -136,12 +136,12 @@ and in this sub-paragraph “**relevant payments**” has the meaning given by p
 
 **8.** (1) Subject to sub-paragraphs (2) and (3), each of the persons who are partners at the time of the application must have complied, so far as any such charge to income tax or corporation tax is concerned as falls to be computed by reference to the profits or gains of the firm’s business, with—
 
-- (a)[^key-8155c21e1d094016681b837b2d4a07cb] any obligation imposed on that partner in the qualifying period (see paragraph 14)—
+- (a)[^c-8155c21e1d094016681b837b2d4a07cb] any obligation imposed on that partner in the qualifying period (see paragraph 14)—
   - (i) to pay the amount liable to be deducted under section 61 of this Act from payments made during that period,
   - (ii) to submit returns as required by regulations made under section 70 of this Act,
-  - (iii) to pay the tax liable to be deducted under PAYE regulations[^key-930f08f5bd0c8e1c6e04ac03a3b484d3], and
+  - (iii) to pay the tax liable to be deducted under PAYE regulations[^c-930f08f5bd0c8e1c6e04ac03a3b484d3], and
   - (iv) to submit a self-assessment return, and
-  - (v)[^key-535a086f31c134701dfa070c81f39ab6] to account for or pay VAT as required by or under the Value Added Tax Act 1994, and
+  - (v)[^c-535a086f31c134701dfa070c81f39ab6] to account for or pay VAT as required by or under the Value Added Tax Act 1994, and
 - (b) all requests made in the qualifying period to him as such a partner to supply to the Inland Revenue accounts of, or other information about, the firm’s business or his share of the profits or gains of that business.
 
 (2) Where a person has failed to comply with such an obligation or request as—
@@ -165,9 +165,9 @@ the firm is, in such circumstances as may be prescribed by the regulations, to b
 
 the obligation or request was to be complied with.
 
-(6)[^key-29c9fcd985b5c5ee9155fac3dc1b773b] This paragraph is subject to paragraph 8A (exception from compliance test: firms).
+(6)[^c-29c9fcd985b5c5ee9155fac3dc1b773b] This paragraph is subject to paragraph 8A (exception from compliance test: firms).
 
-#### Exception from compliance test: firms[^key-d02d58d3efc16719fb16768a044cc878]
+#### Exception from compliance test: firms[^c-d02d58d3efc16719fb16768a044cc878]
 
 **8A.** (1) The conditions in paragraph 8 (the compliance test: firms) do not need to be satisfied by the firm if, at the time of the application—
 
@@ -217,12 +217,12 @@ and in this sub-paragraph “**relevant payments**” has the meaning given by p
 
 **12.** (1) The company must, subject to sub-paragraphs (2) and (3), have complied with—
 
-- (a)[^key-7af0bb09f004e31046014499b8362fb4] any obligation imposed on it in the qualifying period (see paragraph 14)—
+- (a)[^c-7af0bb09f004e31046014499b8362fb4] any obligation imposed on it in the qualifying period (see paragraph 14)—
   - (i) to pay the amount liable to be deducted under section 61 of this Act from payments made during that period,
   - (ii) to submit returns as required by regulations made under section 70 of this Act,
-  - (iii) to pay the tax liable to be deducted under PAYE regulations[^key-fb5051a2355bd3eb4aea463338b67231], and
+  - (iii) to pay the tax liable to be deducted under PAYE regulations[^c-fb5051a2355bd3eb4aea463338b67231], and
   - (iv) to submit a self-assessment return, and
-  - (v)[^key-9962178a07f829c9a08b08a9a519dd4d] to account for or pay VAT as required by or under the Value Added Tax Act 1994, and
+  - (v)[^c-9962178a07f829c9a08b08a9a519dd4d] to account for or pay VAT as required by or under the Value Added Tax Act 1994, and
 - (b) all requests made in the qualifying period to supply to the Inland Revenue accounts of, or other information about, its business.
 
 (2) A company that has failed to comply with such an obligation or request as—
@@ -277,9 +277,9 @@ have paid the contribution when it became due.
 
 the obligation or request was to be complied with.
 
-(9)[^key-cbcaaba9fd1454123cb7973fc13460fd] This paragraph is subject to paragraph 12A (exception from compliance test: companies).
+(9)[^c-cbcaaba9fd1454123cb7973fc13460fd] This paragraph is subject to paragraph 12A (exception from compliance test: companies).
 
-#### Exception from the compliance test: companies[^key-52a9f01f7c9d53e558c2ce588c31c44f]
+#### Exception from the compliance test: companies[^c-52a9f01f7c9d53e558c2ce588c31c44f]
 
 **12A.** (1) The conditions in paragraph 12 (compliance test: companies) do not need to be satisfied by the company if, at the time of the application—
 
@@ -317,7 +317,7 @@ a condition for registration for gross payment.
 
 **14.** In this Schedule “**the qualifying period**” means the period of 12 months ending with the date of the application in question.
 
-**14A.**[^key-f4f7f9f2f76b99026ed0a9725a23afe3] (1) For any part of the qualifying period falling on 1 October 2009 or later, paragraph 12(5) must be understood as referring instead to—
+**14A.**[^c-f4f7f9f2f76b99026ed0a9725a23afe3] (1) For any part of the qualifying period falling on 1 October 2009 or later, paragraph 12(5) must be understood as referring instead to—
 
 - (a) the Companies Act 2006 (c. 46) sections 394, 395, 437 and 441 (accounts);
 - (b) sections 167(1), 167(2), 276(1) and 276(2) of that Act (changes in director or secretary);
@@ -340,32 +340,32 @@ a condition for registration for gross payment.
 
 ## Annotations
 
-[^key-23f5c5510e42106c909dfee02044588d]: Textual amendment: Sch. 11 para. 4(1)(a) substituted (6.4.2016) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2016 (S.I. 2016/404)](https://www.legislation.gov.uk/uksi/2016/404), [arts. 1](https://www.legislation.gov.uk/uksi/2016/404/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/404/article/2/a)
+[^c-23f5c5510e42106c909dfee02044588d]: Textual amendment: Sch. 11 para. 4(1)(a) substituted (6.4.2016) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2016 (S.I. 2016/404)](https://www.legislation.gov.uk/uksi/2016/404), [arts. 1](https://www.legislation.gov.uk/uksi/2016/404/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/404/article/2/a)
 
-[^key-d1dd424a0926f1d9e16f6cc9f20fee80]: Textual amendment: Words in Sch. 11 para. 4(1)(a)(iii) substituted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/a/i) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
+[^c-d1dd424a0926f1d9e16f6cc9f20fee80]: Textual amendment: Words in Sch. 11 para. 4(1)(a)(iii) substituted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/a/i) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
 
-[^key-1ab9e99ea11c4e9b6ca48f48a10f0bd6]: Textual amendment: Sch. 11 para. 4(1)(a)(v) inserted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/a/ii) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
+[^c-1ab9e99ea11c4e9b6ca48f48a10f0bd6]: Textual amendment: Sch. 11 para. 4(1)(a)(v) inserted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/a/ii) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
 
-[^key-02b2c7db1d930bed43f1ab1bd1d25399]: Textual amendment: Words in Sch. 11 para. 4(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 430](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/430) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-02b2c7db1d930bed43f1ab1bd1d25399]: Textual amendment: Words in Sch. 11 para. 4(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 430](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/430) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-8155c21e1d094016681b837b2d4a07cb]: Textual amendment: Sch. 11 para. 8(1)(a) substituted (6.4.2016) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2016 (S.I. 2016/404)](https://www.legislation.gov.uk/uksi/2016/404), [arts. 1](https://www.legislation.gov.uk/uksi/2016/404/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/404/article/2/b)
+[^c-8155c21e1d094016681b837b2d4a07cb]: Textual amendment: Sch. 11 para. 8(1)(a) substituted (6.4.2016) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2016 (S.I. 2016/404)](https://www.legislation.gov.uk/uksi/2016/404), [arts. 1](https://www.legislation.gov.uk/uksi/2016/404/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/404/article/2/b)
 
-[^key-930f08f5bd0c8e1c6e04ac03a3b484d3]: Textual amendment: Words in Sch. 11 para. 8(1)(a)(iii) substituted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/b/i) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
+[^c-930f08f5bd0c8e1c6e04ac03a3b484d3]: Textual amendment: Words in Sch. 11 para. 8(1)(a)(iii) substituted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/b/i) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
 
-[^key-535a086f31c134701dfa070c81f39ab6]: Textual amendment: Sch. 11 para. 8(1)(a)(v) inserted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/b/ii) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
+[^c-535a086f31c134701dfa070c81f39ab6]: Textual amendment: Sch. 11 para. 8(1)(a)(v) inserted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/b/ii) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
 
-[^key-29c9fcd985b5c5ee9155fac3dc1b773b]: Textual amendment: Sch. 11 para. 8(6) inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/789/article/2/a)
+[^c-29c9fcd985b5c5ee9155fac3dc1b773b]: Textual amendment: Sch. 11 para. 8(6) inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/789/article/2/a)
 
-[^key-d02d58d3efc16719fb16768a044cc878]: Textual amendment: Sch. 11 para. 8A inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/789/article/2/b)
+[^c-d02d58d3efc16719fb16768a044cc878]: Textual amendment: Sch. 11 para. 8A inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/789/article/2/b)
 
-[^key-7af0bb09f004e31046014499b8362fb4]: Textual amendment: Sch. 11 para. 12(1)(a) substituted (6.4.2016) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2016 (S.I. 2016/404)](https://www.legislation.gov.uk/uksi/2016/404), [arts. 1](https://www.legislation.gov.uk/uksi/2016/404/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/404/article/2/c)
+[^c-7af0bb09f004e31046014499b8362fb4]: Textual amendment: Sch. 11 para. 12(1)(a) substituted (6.4.2016) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2016 (S.I. 2016/404)](https://www.legislation.gov.uk/uksi/2016/404), [arts. 1](https://www.legislation.gov.uk/uksi/2016/404/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/404/article/2/c)
 
-[^key-fb5051a2355bd3eb4aea463338b67231]: Textual amendment: Words in Sch. 11 para. 12(1)(a)(iii) substituted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/c/i) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
+[^c-fb5051a2355bd3eb4aea463338b67231]: Textual amendment: Words in Sch. 11 para. 12(1)(a)(iii) substituted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/c/i) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
 
-[^key-9962178a07f829c9a08b08a9a519dd4d]: Textual amendment: Sch. 11 para. 12(1)(a)(v) inserted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/c/ii) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
+[^c-9962178a07f829c9a08b08a9a519dd4d]: Textual amendment: Sch. 11 para. 12(1)(a)(v) inserted (with effect in accordance with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/4) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 35(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/3/c/ii) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/35/5))
 
-[^key-cbcaaba9fd1454123cb7973fc13460fd]: Textual amendment: Sch. 11 para. 12(9) inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/789/article/3/a)
+[^c-cbcaaba9fd1454123cb7973fc13460fd]: Textual amendment: Sch. 11 para. 12(9) inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/789/article/3/a)
 
-[^key-52a9f01f7c9d53e558c2ce588c31c44f]: Textual amendment: Sch. 11 para. 12A inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/789/article/3/b)
+[^c-52a9f01f7c9d53e558c2ce588c31c44f]: Textual amendment: Sch. 11 para. 12A inserted (6.4.2015) by [The Income Tax (Construction Industry Scheme) (Amendment of Schedule 11 to the Finance Act 2004) Order 2015 (S.I. 2015/789)](https://www.legislation.gov.uk/uksi/2015/789), [arts. 1](https://www.legislation.gov.uk/uksi/2015/789/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/789/article/3/b)
 
-[^key-f4f7f9f2f76b99026ed0a9725a23afe3]: Textual amendment: Sch. 11 para. 14A inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/1890/article/6)
+[^c-f4f7f9f2f76b99026ed0a9725a23afe3]: Textual amendment: Sch. 11 para. 14A inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/1890/article/6)

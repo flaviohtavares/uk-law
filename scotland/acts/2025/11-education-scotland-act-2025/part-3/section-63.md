@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Interpretation[^key-cd3b5288efc67011f30d67690c0b1081]
+## 63. Interpretation[^c-cd3b5288efc67011f30d67690c0b1081]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd3b5288efc67011f30d67690c0b1081]: Commencement: S. 63 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)
+[^c-cd3b5288efc67011f30d67690c0b1081]: Commencement: S. 63 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)

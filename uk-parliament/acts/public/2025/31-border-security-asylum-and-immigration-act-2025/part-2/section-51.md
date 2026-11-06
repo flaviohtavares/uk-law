@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Refugee Convention: particularly serious crime[^key-be03fb7dd2184a6873ccac321db98a57][^key-56ebcc4757645b53d697c5dec3cd521a]
+## 51. Refugee Convention: particularly serious crime[^c-be03fb7dd2184a6873ccac321db98a57][^c-56ebcc4757645b53d697c5dec3cd521a]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be03fb7dd2184a6873ccac321db98a57]: Commencement: S. 51 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-be03fb7dd2184a6873ccac321db98a57]: Commencement: S. 51 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-56ebcc4757645b53d697c5dec3cd521a]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/31/section/51) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/f)
+[^c-56ebcc4757645b53d697c5dec3cd521a]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/31/section/51) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/f)

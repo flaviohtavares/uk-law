@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100AA. Code of practice on controlled expenditure: Scottish Parliament elections[^key-638611894d22945f4bfb4383aa96910b][^key-d64745044b90175975ecaac1c084bb8d]
+## 100AA. Code of practice on controlled expenditure: Scottish Parliament elections[^c-638611894d22945f4bfb4383aa96910b][^c-d64745044b90175975ecaac1c084bb8d]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-638611894d22945f4bfb4383aa96910b]: Textual amendment: S. 100AA inserted (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 25(2)](https://www.legislation.gov.uk/asp/2025/4/section/25/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-638611894d22945f4bfb4383aa96910b]: Textual amendment: S. 100AA inserted (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 25(2)](https://www.legislation.gov.uk/asp/2025/4/section/25/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
 
-[^key-d64745044b90175975ecaac1c084bb8d]: Textual amendment: Ss. 100A, 100B and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/29/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-d64745044b90175975ecaac1c084bb8d]: Textual amendment: Ss. 100A, 100B and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/29/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

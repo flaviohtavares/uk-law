@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 29 — Planning Functions of Urban Development Corporations— England and Wales[^key-f74673d96f1903020eabbb31e5752bb4]
+## SCHEDULE 29 — Planning Functions of Urban Development Corporations— England and Wales[^c-f74673d96f1903020eabbb31e5752bb4]
 
 *Extent: E+W+S*
 
@@ -24,15 +24,15 @@ Section 149.
 
 ### Part I — Enactments referred to in Section 149(3)(a)
 
-**1.**[^key-d7b24415644b7b0c67f01d1e001036ab] Section 17 of the Land Compensation Act 1961.
+**1.**[^c-d7b24415644b7b0c67f01d1e001036ab] Section 17 of the Land Compensation Act 1961.
 
-**2.**[^key-1e8831b89308961d1f22c558310981fd] Sections[^c13885711] 171C,[^c13885721] 172, 173, 173A, 178, 183, 184, 187A,[^c13885741] 187B, 188, 196A to 196C 197, 198, 199, 201, 206, 207, 209, 211, 213 to 215, 219, 220 and 224 324(1)(b) and (c) and (7) of the 1990 Act.
+**2.**[^c-1e8831b89308961d1f22c558310981fd] Sections[^c13885711] 171C,[^c13885721] 172, 173, 173A, 178, 183, 184, 187A,[^c13885741] 187B, 188, 196A to 196C 197, 198, 199, 201, 206, 207, 209, 211, 213 to 215, 219, 220 and 224 324(1)(b) and (c) and (7) of the 1990 Act.
 
-**3.**[^key-820a3c03211a9c01b3649d858a5abfd9] Sections 171BA, 171E, 172ZA, 172A, 191, 192, 225, 225A, 225C, 225F to 225H, 225J and 225K of the 1990 Act.
+**3.**[^c-820a3c03211a9c01b3649d858a5abfd9] Sections 171BA, 171E, 172ZA, 172A, 191, 192, 225, 225A, 225C, 225F to 225H, 225J and 225K of the 1990 Act.
 
-**4.**[^key-7040324cb7f815a5cde4cb7223a98d98] Sections 3, 4, 8, 10, 11, 13 to 16, 20, 23 to 25, 38, 42, 44A,[^c13885781] 47, 48, 50, 53, 54, 60, 69 to 72, 74, 75 and 82 88 and 88A of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+**4.**[^c-7040324cb7f815a5cde4cb7223a98d98] Sections 3, 4, 8, 10, 11, 13 to 16, 20, 23 to 25, 38, 42, 44A,[^c13885781] 47, 48, 50, 53, 54, 60, 69 to 72, 74, 75 and 82 88 and 88A of the Planning (Listed Buildings and Conservation Areas) Act 1990.
 
-**5.**[^key-1961523a5b99122161c730f769786bdc] Section 44AA of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+**5.**[^c-1961523a5b99122161c730f769786bdc] Section 44AA of the Planning (Listed Buildings and Conservation Areas) Act 1990.
 
 ### Part II — Enactments Referred to in Section 149(3)(b)
 
@@ -97,11 +97,11 @@ An order made by virtue of section 149(3)(b) may make the following modification
 
 ## Annotations
 
-[^key-f74673d96f1903020eabbb31e5752bb4]: Modification: Sch. 29 modified (E.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/5/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2006/12/section/5/3/a), [40(1)(b)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/b)
+[^c-f74673d96f1903020eabbb31e5752bb4]: Modification: Sch. 29 modified (E.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/5/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2006/12/section/5/3/a), [40(1)(b)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/b)
 
-[^key-d7b24415644b7b0c67f01d1e001036ab]: Textual amendment: Sch. 29 Pt. 1 para. 1 inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
+[^c-d7b24415644b7b0c67f01d1e001036ab]: Textual amendment: Sch. 29 Pt. 1 para. 1 inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
 
-[^key-1e8831b89308961d1f22c558310981fd]: Textual amendment: Words in Sch. 29 Pt. 1 renumbered as Sch. 29 Pt. 1 para. 2 (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
+[^c-1e8831b89308961d1f22c558310981fd]: Textual amendment: Words in Sch. 29 Pt. 1 renumbered as Sch. 29 Pt. 1 para. 2 (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
 
 [^c13885711]: Textual amendment: Words substituted as provided by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 44(12)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/44/12)
 
@@ -109,12 +109,12 @@ An order made by virtue of section 149(3)(b) may make the following modification
 
 [^c13885741]: Textual amendment: Words in Sch. 29 Pt. 1 inserted (E.W.) (27.7.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [84(2)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7), [para. 5](https://www.legislation.gov.uk/ukpga/1991/34/paragraph/5) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1992/1630](https://www.legislation.gov.uk/uksi/1992/1630), [art. 2](https://www.legislation.gov.uk/uksi/1992/1630/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/1630/schedule/1).
 
-[^key-820a3c03211a9c01b3649d858a5abfd9]: Textual amendment: Sch. 29 Pt. 1 para. 3 inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/c), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
+[^c-820a3c03211a9c01b3649d858a5abfd9]: Textual amendment: Sch. 29 Pt. 1 para. 3 inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/c), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
 
-[^key-7040324cb7f815a5cde4cb7223a98d98]: Textual amendment: Words in Sch. 29 Pt. 1 renumbered as Sch. 29 Pt. 1 para. 4 (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/d), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
+[^c-7040324cb7f815a5cde4cb7223a98d98]: Textual amendment: Words in Sch. 29 Pt. 1 renumbered as Sch. 29 Pt. 1 para. 4 (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/d), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
 
 [^c13885781]: Textual amendment: Words in Sch. 29 Pt. 1 inserted (E.W.) (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 25](https://www.legislation.gov.uk/ukpga/1991/34/section/25), [Sch. 3](https://www.legislation.gov.uk/ukpga/1991/34/schedule/3), [Pt. II](https://www.legislation.gov.uk/ukpga/1991/34/part/II), [para. 17](https://www.legislation.gov.uk/ukpga/1991/34/paragraph/17) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3).
 
-[^key-1961523a5b99122161c730f769786bdc]: Textual amendment: Sch. 29 Pt. 1 para. 5 inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/e), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
+[^c-1961523a5b99122161c730f769786bdc]: Textual amendment: Sch. 29 Pt. 1 para. 5 inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 174(4)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/174/4/e), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
 
 [^c13885801]: Textual amendment: [Sch. 29 Pt.II paras. 1–14](https://www.legislation.gov.uk/ukpga/1980/65/schedule/29/part/II/paragraph/1) substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 44(13)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/44/13)

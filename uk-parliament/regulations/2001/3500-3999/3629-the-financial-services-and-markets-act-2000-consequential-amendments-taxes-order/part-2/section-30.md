@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Equalisation reserves[^key-bcffd6b143b4636150fbe5cc4fe0e268]
+## 30. Equalisation reserves[^c-bcffd6b143b4636150fbe5cc4fe0e268]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bcffd6b143b4636150fbe5cc4fe0e268]: Commencement: Art. 30 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-bcffd6b143b4636150fbe5cc4fe0e268]: Commencement: Art. 30 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00034]: Footnote: Sections 444BA to 444BD were inserted by paragraph 1 of Schedule 32 to the Finance Act 1996.

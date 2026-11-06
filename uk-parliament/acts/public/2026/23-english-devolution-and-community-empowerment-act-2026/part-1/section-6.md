@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Combined authorities and CCAs: decision-making and validity of proceedings[^key-8bfe2ddac1ba6265ee6a025dfc6ac68d]
+## 6. Combined authorities and CCAs: decision-making and validity of proceedings[^c-8bfe2ddac1ba6265ee6a025dfc6ac68d]
 
 *Extent: E+W*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bfe2ddac1ba6265ee6a025dfc6ac68d]: Commencement: S. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-8bfe2ddac1ba6265ee6a025dfc6ac68d]: Commencement: S. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

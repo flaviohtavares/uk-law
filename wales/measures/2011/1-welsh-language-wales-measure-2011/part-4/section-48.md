@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Giving compliance notices to contractors[^key-17280b2a0c498e5725e4c41d7da119fc]
+## 48. Giving compliance notices to contractors[^c-17280b2a0c498e5725e4c41d7da119fc]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17280b2a0c498e5725e4c41d7da119fc]: Commencement: [S. 48](https://www.legislation.gov.uk/mwa/2011/1/section/48) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-17280b2a0c498e5725e4c41d7da119fc]: Commencement: [S. 48](https://www.legislation.gov.uk/mwa/2011/1/section/48) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

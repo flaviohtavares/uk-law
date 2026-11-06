@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Prescribed material[^key-8b38e3d969f60360392e130429a29214]
+## 3. Prescribed material[^c-8b38e3d969f60360392e130429a29214]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b38e3d969f60360392e130429a29214]: Commencement: Reg. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-8b38e3d969f60360392e130429a29214]: Commencement: Reg. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

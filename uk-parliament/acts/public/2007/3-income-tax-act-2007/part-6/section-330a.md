@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330A. Nominees[^key-4e0c410c39b3d7391add8d2a396b4c72]
+## 330A. Nominees[^c-4e0c410c39b3d7391add8d2a396b4c72]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Shares subscribed for, issued to, held by or disposed of for an individual by a 
 
 ## Annotations
 
-[^key-4e0c410c39b3d7391add8d2a396b4c72]: Textual amendment: S. 330A and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/5)
+[^c-4e0c410c39b3d7391add8d2a396b4c72]: Textual amendment: S. 330A and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/5)

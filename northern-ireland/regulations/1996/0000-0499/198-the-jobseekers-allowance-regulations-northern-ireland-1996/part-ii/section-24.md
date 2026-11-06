@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Provision of information and evidence[^key-649b880235a8ab0ee9c62f0999b842f8]
+## 24. Provision of information and evidence[^c-649b880235a8ab0ee9c62f0999b842f8]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ and shall do so as soon as reasonably practicable after its occurrence or, as th
 
 ## Annotations
 
-[^key-649b880235a8ab0ee9c62f0999b842f8]: Commencement: Reg. 24 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-649b880235a8ab0ee9c62f0999b842f8]: Commencement: Reg. 24 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

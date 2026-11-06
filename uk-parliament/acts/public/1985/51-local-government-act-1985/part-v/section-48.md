@@ -61,10 +61,10 @@ the constituent councils shall be deemed, subject to any order which has been or
 
 (12) The powers conferred by this section shall not be regarded as restricting those conferred by section 137 of the principal Act (power to incur expenditure for purposes not authorised by any other enactment) and accordingly the reference to any other enactment in subsection (1) of that section shall not include a reference to this section.
 
-(13)[^key-39f8c06a2b594447d29786b284444758] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-39f8c06a2b594447d29786b284444758] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c3163941]: Textual amendment: S. 48(4A) inserted (6.3.1992) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s.105](https://www.legislation.gov.uk/ukpga/1992/14/section/105) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-39f8c06a2b594447d29786b284444758]: Textual amendment: [S. 48(13)](https://www.legislation.gov.uk/ukpga/1985/51/section/48/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-39f8c06a2b594447d29786b284444758]: Textual amendment: [S. 48(13)](https://www.legislation.gov.uk/ukpga/1985/51/section/48/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

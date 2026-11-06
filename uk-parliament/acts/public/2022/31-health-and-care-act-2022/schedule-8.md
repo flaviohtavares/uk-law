@@ -24,9 +24,9 @@ Section 70
 
 ### PART 1 — Amendments about trust special administrators
 
-**1.**[^key-1ef6dfb5b754be38d108cdc0965fd1a7][^key-ec3148e827e5b0aeda3aa31972febcb6] The National Health Service Act 2006 is amended as follows.
+**1.**[^c-1ef6dfb5b754be38d108cdc0965fd1a7][^c-ec3148e827e5b0aeda3aa31972febcb6] The National Health Service Act 2006 is amended as follows.
 
-**2.**[^key-ad97aeb748447eb1ea0d121ca6e8125f][^key-99a1f07d802188ff79236d0cfc69da10] For section 65B substitute—
+**2.**[^c-ad97aeb748447eb1ea0d121ca6e8125f][^c-99a1f07d802188ff79236d0cfc69da10] For section 65B substitute—
 
 > **65B. NHS trusts: appointment of trust special administrator**
 >
@@ -75,7 +75,7 @@ Section 70
 >
 > (2) The Care Quality Commission must, as soon as reasonably practicable after the making of the order, provide to NHS England and the Secretary of State a report on the safety and quality of the services that the trust provides under this Act.
 
-**3.**[^key-ed590883e565b0f6c656ca0c93bd8c13][^key-e8e7a434639245b07c66b9c5fb56bf4b] (1) Section 65D (NHS foundation trusts: appointment of trust special administrator) is amended as follows.
+**3.**[^c-ed590883e565b0f6c656ca0c93bd8c13][^c-e8e7a434639245b07c66b9c5fb56bf4b] (1) Section 65D (NHS foundation trusts: appointment of trust special administrator) is amended as follows.
 
 (2) In subsections (1) and (1A)(b) and (c), for “the regulator”, in each place it occurs, substitute “NHS England”.
 
@@ -108,7 +108,7 @@ Section 70
 
 > (12) NHS England may pay remuneration and expenses to a trust special administrator appointed under this section.
 
-**4.**[^key-4cea72c029caf8f2934fdeca30f97b9e][^key-2152cd23e4020e0f11c3a9a5194455de] (1) Section 65DA (objective of trust special administration) is amended as follows.
+**4.**[^c-4cea72c029caf8f2934fdeca30f97b9e][^c-2152cd23e4020e0f11c3a9a5194455de] (1) Section 65DA (objective of trust special administration) is amended as follows.
 
 (2) In subsection (4)(c), for “the regulator” substitute “NHS England”.
 
@@ -125,7 +125,7 @@ Section 70
 
 (7) In subsection (8), for “the Board” substitute “NHS England”.
 
-**5.**[^key-9c361a5ec85d2312414c15db479a36a5][^key-29515c68d8902dd3b7e64251c4605616] (1) Section 65F (draft report) is amended as follows.
+**5.**[^c-9c361a5ec85d2312414c15db479a36a5][^c-29515c68d8902dd3b7e64251c4605616] (1) Section 65F (draft report) is amended as follows.
 
 (2) For subsections (1) to (3) substitute—
 
@@ -173,7 +173,7 @@ Section 70
 > - (b) publish the notice, and
 > - (c) lay a copy of it before Parliament.
 
-**6.**[^key-6911092cc11b88904871fc00366f1a13][^key-929ed811b1910a87e47f6125de2ff70a] (1) Section 65G (consultation plan) is amended as follows.
+**6.**[^c-6911092cc11b88904871fc00366f1a13][^c-929ed811b1910a87e47f6125de2ff70a] (1) Section 65G (consultation plan) is amended as follows.
 
 (2) In subsection (4)(b) for “the Board”, in both places it occurs, substitute “NHS England”.
 
@@ -191,7 +191,7 @@ Section 70
 > - (b) publish the notice, and
 > - (c) lay a copy of it before Parliament.
 
-**7.**[^key-93816f3750ca74cf06889f6c037167b2][^key-93771f9b29b3ffa6a352ce389342aaa5] (1) Section 65H (consultation requirements) is amended as follows.
+**7.**[^c-93816f3750ca74cf06889f6c037167b2][^c-93771f9b29b3ffa6a352ce389342aaa5] (1) Section 65H (consultation requirements) is amended as follows.
 
 (2) In subsection (7)—
 
@@ -223,7 +223,7 @@ Section 70
 
 (9) Omit subsection (13).
 
-**8.**[^key-1cea01998897f1da6bacd24cc932073f][^key-36ee52dc324005277233dd51c0821b47] (1) Section 65I (final report) is amended as follows.
+**8.**[^c-1cea01998897f1da6bacd24cc932073f][^c-36ee52dc324005277233dd51c0821b47] (1) Section 65I (final report) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -237,7 +237,7 @@ Section 70
 
 (5) Omit subsection (4).
 
-**9.**[^key-5530187acdc029ca54207ed4f9c9ca30][^key-2d5095a1a11b6dc3aec858af20fad16d] (1) Section 65J (power to extend time) is amended as follows.
+**9.**[^c-5530187acdc029ca54207ed4f9c9ca30][^c-2d5095a1a11b6dc3aec858af20fad16d] (1) Section 65J (power to extend time) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -248,9 +248,9 @@ Section 70
 
 (4) Omit subsection (5).
 
-**10.**[^key-78314472e22dbb93122068e6fe7cc1cd][^key-2cdeb0aac1ceb383f54f62dc7424a367] In the italic heading before section 65K for “the regulator” substitute “NHS England”.
+**10.**[^c-78314472e22dbb93122068e6fe7cc1cd][^c-2cdeb0aac1ceb383f54f62dc7424a367] In the italic heading before section 65K for “the regulator” substitute “NHS England”.
 
-**11.**[^key-d7bbc11148f281514f45df55e03b5a47][^key-81a784221589abec4e8063cf7a4e1876] For section 65K substitute—
+**11.**[^c-d7bbc11148f281514f45df55e03b5a47][^c-81a784221589abec4e8063cf7a4e1876] For section 65K substitute—
 
 > **65K. Decision of NHS England or Secretary of State in case of NHS trust**
 >
@@ -265,7 +265,7 @@ Section 70
 > - (a) publish a notice of the decision and of the reasons for it;
 > - (b) lay a copy of the notice before Parliament.
 
-**12.**[^key-69aac86882d736361400d0910221353d][^key-224c4ba2b7d9104928fc421f8c1e7f01] (1) Section 65KA (regulator’s decision in case of NHS foundation trust) is amended as follows.
+**12.**[^c-69aac86882d736361400d0910221353d][^c-224c4ba2b7d9104928fc421f8c1e7f01] (1) Section 65KA (regulator’s decision in case of NHS foundation trust) is amended as follows.
 
 (2) In the heading for “Regulator’s” substitute “NHS England’s”.
 
@@ -273,15 +273,15 @@ Section 70
 
 (4) In subsection (6), for “The regulator” substitute “NHS England”.
 
-**13.**[^key-93b7ff56cb1c98f7c2fce4ee0ec716b4][^key-fb87d4a3d0f714fd786e60edcd7fae29] (1) Section 65KB (Secretary of State’s response to regulator’s decision) is amended as follows.
+**13.**[^c-93b7ff56cb1c98f7c2fce4ee0ec716b4][^c-fb87d4a3d0f714fd786e60edcd7fae29] (1) Section 65KB (Secretary of State’s response to regulator’s decision) is amended as follows.
 
 (2) In the heading for “regulator’s” substitute “NHS England’s”.
 
 (3) In subsections (1)(c) and (2)(b), for “the regulator” substitute “NHS England”.
 
-**14.**[^key-627a950c248f2e7fa3fd544d5d6b512c][^key-ebaeacbe67c7d39a5955cf7993670828] In section 65KC (action following Secretary of State’s rejection of final report), in subsections (1) and (2), for “the regulator” substitute “NHS England”.
+**14.**[^c-627a950c248f2e7fa3fd544d5d6b512c][^c-ebaeacbe67c7d39a5955cf7993670828] In section 65KC (action following Secretary of State’s rejection of final report), in subsections (1) and (2), for “the regulator” substitute “NHS England”.
 
-**15.**[^key-acf93accaeef54814302211df3940a9f][^key-0d36dbad65de26ffe72af4f2176a773b] (1) In section 65KD (Secretary of State’s response to resubmitted report) is amended as follows.
+**15.**[^c-acf93accaeef54814302211df3940a9f][^c-0d36dbad65de26ffe72af4f2176a773b] (1) In section 65KD (Secretary of State’s response to resubmitted report) is amended as follows.
 
 (2) In subsection (3), for “(4) to” substitute “(5), (6) and”.
 
@@ -299,7 +299,7 @@ Section 70
 
 (5) Omit subsections (7) and (8).
 
-**16.**[^key-c181795fda71a1e225f32f0c5f79e028][^key-0abec4064e96c05d175ce5d0a07d0796] (1) Section 65L (trusts coming out of administration) is amended as follows.
+**16.**[^c-c181795fda71a1e225f32f0c5f79e028][^c-0abec4064e96c05d175ce5d0a07d0796] (1) Section 65L (trusts coming out of administration) is amended as follows.
 
 (2) For subsections (1) to (2B) substitute—
 
@@ -322,9 +322,9 @@ Section 70
 
 (3) In subsection (7), for “the regulator”, in both places it occurs, substitute “NHS England”.
 
-**17.**[^key-4d381c22bc2a724f4fbde69b701871e7][^key-7eadb98a3ff84b9e392d6fa80e244c7c] In section 65LA (trusts to be dissolved), in subsection (3), for “The regulator” substitute “NHS England”.
+**17.**[^c-4d381c22bc2a724f4fbde69b701871e7][^c-7eadb98a3ff84b9e392d6fa80e244c7c] In section 65LA (trusts to be dissolved), in subsection (3), for “The regulator” substitute “NHS England”.
 
-**18.**[^key-ccd6872d3e0de66200c3e7e28a674d91][^key-8d5d3c1293df52aa8af0b9a843ff4704] (1) Section 65M (replacement of trust special administrator) is amended as follows.
+**18.**[^c-ccd6872d3e0de66200c3e7e28a674d91][^c-8d5d3c1293df52aa8af0b9a843ff4704] (1) Section 65M (replacement of trust special administrator) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -337,7 +337,7 @@ Section 70
 
 (4) Omit subsection (3).
 
-**19.**[^key-4eb98f521c532447fb2f36a906af3297][^key-0bf5c93c1855581d33e4da08f22e8651] (1) Section 65N (guidance) is amended as follows.
+**19.**[^c-4eb98f521c532447fb2f36a906af3297][^c-0bf5c93c1855581d33e4da08f22e8651] (1) Section 65N (guidance) is amended as follows.
 
 (2) In subsection (1), for “the Secretary of State” substitute “NHS England”.
 
@@ -347,31 +347,31 @@ Section 70
 
 (5) Omit subsection (4).
 
-**20.**[^key-2cf090beaffe1b5e720d9c1bd196176b][^key-f04f7fe482c02d96f8c5d8269cf6a7a5] In section 65O (interpretation of Chapter), in subsection (1), in the definition of “trust special administrator”, for “65B(6)(a)” substitute “65B(8)(a)”.
+**20.**[^c-2cf090beaffe1b5e720d9c1bd196176b][^c-f04f7fe482c02d96f8c5d8269cf6a7a5] In section 65O (interpretation of Chapter), in subsection (1), in the definition of “trust special administrator”, for “65B(6)(a)” substitute “65B(8)(a)”.
 
-**21.**[^key-e2bf8ed53b0adb232e631bbf6e145296][^key-3443f330dcf3d474abb5fdfeaae4be73] In section 272 (orders, regulations, rules and directions), in subsection (5)(ab), after “65L(2)” insert “, (2B)”.
+**21.**[^c-e2bf8ed53b0adb232e631bbf6e145296][^c-3443f330dcf3d474abb5fdfeaae4be73] In section 272 (orders, regulations, rules and directions), in subsection (5)(ab), after “65L(2)” insert “, (2B)”.
 
 ### PART 2 — Consequential amendments
 
-#### 22. National Health Service Act 2006[^key-be585cb04671398ccde15c2af68904aa][^key-e767fc4cc56f2516094b92b177ad2fe4]
+#### 22. National Health Service Act 2006[^c-be585cb04671398ccde15c2af68904aa][^c-e767fc4cc56f2516094b92b177ad2fe4]
 
 The National Health Service Act 2006 is amended as follows.
 
-**23.**[^key-920a03a234777e1e258b2fdc8f37b976][^key-0ecc54c285e0a8e2627f4be3d8f01d5b] In section 13Q (public involvement and consultation by NHS England), for subsection (4) substitute—
+**23.**[^c-920a03a234777e1e258b2fdc8f37b976][^c-0ecc54c285e0a8e2627f4be3d8f01d5b] In section 13Q (public involvement and consultation by NHS England), for subsection (4) substitute—
 
 > (4) This section does not require NHS England to make arrangements in relation to matters to which a trust special administrator’s draft or final report under section 65F or 65I relates before—
 >
 > - (a) in a case where the administrator’s report relates to an NHS trust, NHS England and the Secretary of State have made their decisions under section 65K(1) and (2), or
 > - (b) in a case where the administrator’s report relates to an NHS foundation trust, the Secretary of State is satisfied as mentioned in section 65KB(1) or 65KD(1) or makes a decision under section 65KD(9).
 
-**24.**[^key-b88849e10993c5bc6bed51279648a44b][^key-7d7922c17f03c8039d40b9e30184bda8] In section 242 (public involvement and consultation by NHS trusts), for subsection (6) substitute—
+**24.**[^c-b88849e10993c5bc6bed51279648a44b][^c-7d7922c17f03c8039d40b9e30184bda8] In section 242 (public involvement and consultation by NHS trusts), for subsection (6) substitute—
 
 > (6) This section does not require a body to make arrangements in relation to matters to which a trust special administrator’s draft or final report under section 65F or 65I relates before—
 >
 > - (a) in a case where the administrator’s report relates to an NHS trust, NHS England and the Secretary of State have made their decisions under section 65K(1) and (2), or
 > - (b) in a case where the administrator’s report relates to an NHS foundation trust, the Secretary of State is satisfied as mentioned in section 65KB(1) or 65KD(1) or makes a decision under section 65KD(9).
 
-#### 25. Health and Social Care Act 2008[^key-9780135ca3b7c14bf1e7372d6926048c][^key-88d1083d401474c161a97318ef5d057f]
+#### 25. Health and Social Care Act 2008[^c-9780135ca3b7c14bf1e7372d6926048c][^c-88d1083d401474c161a97318ef5d057f]
 
 In section 29A of the Health and Social Care Act 2008 (warning notice: quality of health care), in subsection (5), for paragraph (b) substitute—
 
@@ -379,102 +379,102 @@ In section 29A of the Health and Social Care Act 2008 (warning notice: quality o
 
 ## Annotations
 
-[^key-1ef6dfb5b754be38d108cdc0965fd1a7]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-1ef6dfb5b754be38d108cdc0965fd1a7]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ec3148e827e5b0aeda3aa31972febcb6]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/1) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ec3148e827e5b0aeda3aa31972febcb6]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/1) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-ad97aeb748447eb1ea0d121ca6e8125f]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ad97aeb748447eb1ea0d121ca6e8125f]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-99a1f07d802188ff79236d0cfc69da10]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-99a1f07d802188ff79236d0cfc69da10]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-ed590883e565b0f6c656ca0c93bd8c13]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ed590883e565b0f6c656ca0c93bd8c13]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-e8e7a434639245b07c66b9c5fb56bf4b]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/3) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e8e7a434639245b07c66b9c5fb56bf4b]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/3) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-4cea72c029caf8f2934fdeca30f97b9e]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-4cea72c029caf8f2934fdeca30f97b9e]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2152cd23e4020e0f11c3a9a5194455de]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/4) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2152cd23e4020e0f11c3a9a5194455de]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/4) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9c361a5ec85d2312414c15db479a36a5]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-9c361a5ec85d2312414c15db479a36a5]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-29515c68d8902dd3b7e64251c4605616]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/5) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-29515c68d8902dd3b7e64251c4605616]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/5) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-6911092cc11b88904871fc00366f1a13]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-6911092cc11b88904871fc00366f1a13]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-929ed811b1910a87e47f6125de2ff70a]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/6) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-929ed811b1910a87e47f6125de2ff70a]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/6) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-93816f3750ca74cf06889f6c037167b2]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-93816f3750ca74cf06889f6c037167b2]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-93771f9b29b3ffa6a352ce389342aaa5]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/7) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-93771f9b29b3ffa6a352ce389342aaa5]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/7) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-1cea01998897f1da6bacd24cc932073f]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-1cea01998897f1da6bacd24cc932073f]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-36ee52dc324005277233dd51c0821b47]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/8) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-36ee52dc324005277233dd51c0821b47]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/8) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-5530187acdc029ca54207ed4f9c9ca30]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-5530187acdc029ca54207ed4f9c9ca30]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2d5095a1a11b6dc3aec858af20fad16d]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/9) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2d5095a1a11b6dc3aec858af20fad16d]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/9) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-78314472e22dbb93122068e6fe7cc1cd]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-78314472e22dbb93122068e6fe7cc1cd]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2cdeb0aac1ceb383f54f62dc7424a367]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/10) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2cdeb0aac1ceb383f54f62dc7424a367]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/10) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-d7bbc11148f281514f45df55e03b5a47]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d7bbc11148f281514f45df55e03b5a47]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-81a784221589abec4e8063cf7a4e1876]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/11) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-81a784221589abec4e8063cf7a4e1876]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/11) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-69aac86882d736361400d0910221353d]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-69aac86882d736361400d0910221353d]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-224c4ba2b7d9104928fc421f8c1e7f01]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/12) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-224c4ba2b7d9104928fc421f8c1e7f01]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/12) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-93b7ff56cb1c98f7c2fce4ee0ec716b4]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-93b7ff56cb1c98f7c2fce4ee0ec716b4]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-fb87d4a3d0f714fd786e60edcd7fae29]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/13) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-fb87d4a3d0f714fd786e60edcd7fae29]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/13) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-627a950c248f2e7fa3fd544d5d6b512c]: Commencement: Sch. 8 para. 14 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-627a950c248f2e7fa3fd544d5d6b512c]: Commencement: Sch. 8 para. 14 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ebaeacbe67c7d39a5955cf7993670828]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/14) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ebaeacbe67c7d39a5955cf7993670828]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/14) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-acf93accaeef54814302211df3940a9f]: Commencement: Sch. 8 para. 15 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-acf93accaeef54814302211df3940a9f]: Commencement: Sch. 8 para. 15 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0d36dbad65de26ffe72af4f2176a773b]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/15) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0d36dbad65de26ffe72af4f2176a773b]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/15) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-c181795fda71a1e225f32f0c5f79e028]: Commencement: Sch. 8 para. 16 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-c181795fda71a1e225f32f0c5f79e028]: Commencement: Sch. 8 para. 16 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0abec4064e96c05d175ce5d0a07d0796]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/16) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0abec4064e96c05d175ce5d0a07d0796]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/16) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-4d381c22bc2a724f4fbde69b701871e7]: Commencement: Sch. 8 para. 17 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-4d381c22bc2a724f4fbde69b701871e7]: Commencement: Sch. 8 para. 17 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-7eadb98a3ff84b9e392d6fa80e244c7c]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/17) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7eadb98a3ff84b9e392d6fa80e244c7c]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/17) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-ccd6872d3e0de66200c3e7e28a674d91]: Commencement: Sch. 8 para. 18 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ccd6872d3e0de66200c3e7e28a674d91]: Commencement: Sch. 8 para. 18 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-8d5d3c1293df52aa8af0b9a843ff4704]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/18) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8d5d3c1293df52aa8af0b9a843ff4704]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/18) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-4eb98f521c532447fb2f36a906af3297]: Commencement: Sch. 8 para. 19 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-4eb98f521c532447fb2f36a906af3297]: Commencement: Sch. 8 para. 19 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0bf5c93c1855581d33e4da08f22e8651]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/19) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0bf5c93c1855581d33e4da08f22e8651]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/19) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-2cf090beaffe1b5e720d9c1bd196176b]: Commencement: Sch. 8 para. 20 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-2cf090beaffe1b5e720d9c1bd196176b]: Commencement: Sch. 8 para. 20 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-f04f7fe482c02d96f8c5d8269cf6a7a5]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/20) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f04f7fe482c02d96f8c5d8269cf6a7a5]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/20) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-e2bf8ed53b0adb232e631bbf6e145296]: Commencement: Sch. 8 para. 21 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e2bf8ed53b0adb232e631bbf6e145296]: Commencement: Sch. 8 para. 21 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-3443f330dcf3d474abb5fdfeaae4be73]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/21) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-3443f330dcf3d474abb5fdfeaae4be73]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/21) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-be585cb04671398ccde15c2af68904aa]: Commencement: Sch. 8 para. 22 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-be585cb04671398ccde15c2af68904aa]: Commencement: Sch. 8 para. 22 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-e767fc4cc56f2516094b92b177ad2fe4]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/22) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e767fc4cc56f2516094b92b177ad2fe4]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/22) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-920a03a234777e1e258b2fdc8f37b976]: Commencement: Sch. 8 para. 23 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-920a03a234777e1e258b2fdc8f37b976]: Commencement: Sch. 8 para. 23 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0ecc54c285e0a8e2627f4be3d8f01d5b]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/23) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0ecc54c285e0a8e2627f4be3d8f01d5b]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/23) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-b88849e10993c5bc6bed51279648a44b]: Commencement: Sch. 8 para. 24 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b88849e10993c5bc6bed51279648a44b]: Commencement: Sch. 8 para. 24 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-7d7922c17f03c8039d40b9e30184bda8]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/24) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7d7922c17f03c8039d40b9e30184bda8]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/24) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9780135ca3b7c14bf1e7372d6926048c]: Commencement: Sch. 8 para. 25 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-9780135ca3b7c14bf1e7372d6926048c]: Commencement: Sch. 8 para. 25 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-88d1083d401474c161a97318ef5d057f]: Commencement: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/25) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-88d1083d401474c161a97318ef5d057f]: Commencement: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/25) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

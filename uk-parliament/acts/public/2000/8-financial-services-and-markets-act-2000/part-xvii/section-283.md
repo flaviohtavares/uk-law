@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The FCA[^key-2002a7ce52dd7d974d24d49e805fed98] may make rules requiring operators of recognised schemes to maintain in the United Kingdom, or in such part or parts of it as may be specified, such facilities as the FCA thinks desirable in the interests of participants and as are specified in rules.
+(1) The FCA[^c-2002a7ce52dd7d974d24d49e805fed98] may make rules requiring operators of recognised schemes to maintain in the United Kingdom, or in such part or parts of it as may be specified, such facilities as the FCA thinks desirable in the interests of participants and as are specified in rules.
 
 (2) The FCA may by notice in writing require the operator of any recognised scheme to include such explanatory information as is specified in the notice in any communication of his which—
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c1709576]: Commencement: S. 283 wholly in force at 1.12.2001; s. 283 not in force at Royal Assent see s. 431(2); s. 283(1) in force at 18.6.2001 by [S.I. 2001/1820](https://www.legislation.gov.uk/uksi/2001/1820), [art. 2](https://www.legislation.gov.uk/uksi/2001/1820/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1820/schedule); s. 283 in force in so far as not already in force at 1.12.2001 by [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-2002a7ce52dd7d974d24d49e805fed98]: Textual amendment: Word in ss. 271-283B substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2002a7ce52dd7d974d24d49e805fed98]: Textual amendment: Word in ss. 271-283B substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

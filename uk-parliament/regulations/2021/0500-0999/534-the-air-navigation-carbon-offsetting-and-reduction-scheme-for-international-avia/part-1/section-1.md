@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-f7029468425f768bab3e182b6f66f1e4]
+## 1. Citation and commencement[^c-f7029468425f768bab3e182b6f66f1e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Air Navigation (Carbon Offsetting and Reduction S
 
 ## Annotations
 
-[^key-f7029468425f768bab3e182b6f66f1e4]: Commencement: Art. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-f7029468425f768bab3e182b6f66f1e4]: Commencement: Art. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

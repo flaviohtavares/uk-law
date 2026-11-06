@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Capital jointly held[^key-a584dd5625dd699ade7f629a117356c0]
+## 115. Capital jointly held[^c-a584dd5625dd699ade7f629a117356c0]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ and dividing the same by the number of persons who have a beneficial interest in
 
 ## Annotations
 
-[^key-a584dd5625dd699ade7f629a117356c0]: Commencement: Reg. 115 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-a584dd5625dd699ade7f629a117356c0]: Commencement: Reg. 115 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

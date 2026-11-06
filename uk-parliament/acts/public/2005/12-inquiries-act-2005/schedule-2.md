@@ -102,9 +102,9 @@ Section 48
 
 #### Regulation of Investigatory Powers Act 2000 (c. 23)
 
-**20.**[^key-0148c9870d4abd0243f7f16c4b7ce00b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-0148c9870d4abd0243f7f16c4b7ce00b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-cb07d2b7bcee7eaaf9168ada844a8214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-cb07d2b7bcee7eaaf9168ada844a8214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Police (Northern Ireland) Act 2000 (c. 32)
 
@@ -124,11 +124,11 @@ Section 48
 
 #### Protection of Children (Scotland) Act 2003 (asp 5)
 
-**25.** In section 6 of the Protection of Children (Scotland) Act 2003 (individuals named in the findings of certain inquiries), in subsection (6), after paragraph (a) there is inserted— *(Extent: S)* *(affected by repeal, see note)*[^key-0c20fc753cf56e6ac51b814493a51d1d]
+**25.** In section 6 of the Protection of Children (Scotland) Act 2003 (individuals named in the findings of certain inquiries), in subsection (6), after paragraph (a) there is inserted— *(Extent: S)* *(affected by repeal, see note)*[^c-0c20fc753cf56e6ac51b814493a51d1d]
 
-> - (aa (Extent: S) (affected by repeal, see note))[^key-0c20fc753cf56e6ac51b814493a51d1d] an inquiry held under the Inquiries Act 2005; *(Extent: S)* *(affected by repeal, see note)*[^key-0c20fc753cf56e6ac51b814493a51d1d]
+> - (aa (Extent: S) (affected by repeal, see note))[^c-0c20fc753cf56e6ac51b814493a51d1d] an inquiry held under the Inquiries Act 2005; *(Extent: S)* *(affected by repeal, see note)*[^c-0c20fc753cf56e6ac51b814493a51d1d]
 
-. *(Extent: S)* *(affected by repeal, see note)*[^key-0c20fc753cf56e6ac51b814493a51d1d]
+. *(Extent: S)* *(affected by repeal, see note)*[^c-0c20fc753cf56e6ac51b814493a51d1d]
 
 ### Part 3 — Northern Ireland legislation
 
@@ -188,7 +188,7 @@ Section 48
 
 #### Commissioner for Complaints (Northern Ireland) Order 1996 (S.I. 1996/1297 (N.I. 7))
 
-**37.**[^key-e73d8dc9b4fb90eb08c9a485fa4a0bd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-e73d8dc9b4fb90eb08c9a485fa4a0bd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Road Traffic Regulation (Northern Ireland) Order 1997 (S.I. 1997/276 (N.I. 2))
 
@@ -223,10 +223,10 @@ Section 48
 
 [^c2086528]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/19) repealed (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [ss. 63](https://www.legislation.gov.uk/ukpga/2006/47/section/63), [65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10)(with ss. 57(3), 60(4), 64(5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
 
-[^key-0148c9870d4abd0243f7f16c4b7ce00b]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/20) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-0148c9870d4abd0243f7f16c4b7ce00b]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/20) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-cb07d2b7bcee7eaaf9168ada844a8214]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/21) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-cb07d2b7bcee7eaaf9168ada844a8214]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/21) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-0c20fc753cf56e6ac51b814493a51d1d]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/part/2) repealed (S.) (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [Sch. 4 para. 45](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/45) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2011/157/article/5/2))
+[^c-0c20fc753cf56e6ac51b814493a51d1d]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/part/2) repealed (S.) (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [Sch. 4 para. 45](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/45) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2011/157/article/5/2))
 
-[^key-e73d8dc9b4fb90eb08c9a485fa4a0bd1]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/37) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-e73d8dc9b4fb90eb08c9a485fa4a0bd1]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/37) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)

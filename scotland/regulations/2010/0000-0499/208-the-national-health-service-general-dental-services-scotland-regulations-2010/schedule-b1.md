@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE B1 — Enhanced skills in domiciliary care[^key-9809563c2105d72d175b3e8131ef0d3c]
+## SCHEDULE B1 — Enhanced skills in domiciliary care[^c-9809563c2105d72d175b3e8131ef0d3c]
 
 *Extent: S*
 
@@ -48,7 +48,7 @@ Regulation 5B
   - (vii) does not have conditions placed upon their registration under sections 27B or 28 of the 1984 Act;
   - (viii) is not suspended from the register of dentists under sections 27C, 30, or 32 of the 1984 Act;
 - (e) any practice premises from which the dentist provides general dental services were, at their most recent inspection by the Health Board for the area in which those premises are located, found to comply with the requirements of paragraph 42 of schedule 1 which relate to the standards of premises and equipment required for the provision of general dental services;
-- (f)[^key-d9a1054c21397f9ec9891a30e226de39] the dentist is not listed provisionally.
+- (f)[^c-d9a1054c21397f9ec9891a30e226de39] the dentist is not listed provisionally.
 
 (3) Where the Health Board receives a request from a dentist under sub-paragraph (1), the Health Board may—
 
@@ -79,7 +79,7 @@ Regulation 5B
 
 (2) The Health Board must provide the dentist with confirmation in writing of the decision taken under sub-paragraph (1)(d) within 7 days beginning with the date of the interview and must give its reasons for the decision.
 
-(3) The Health Board must submit a request for a place on the enhanced training and mentoring in domiciliary care to the Agency[^key-823090d108121182f88b7fdd91b302e0] on behalf of each dentist for whom it decides to request a place after an initial interview conducted under sub-paragraph (1).
+(3) The Health Board must submit a request for a place on the enhanced training and mentoring in domiciliary care to the Agency[^c-823090d108121182f88b7fdd91b302e0] on behalf of each dentist for whom it decides to request a place after an initial interview conducted under sub-paragraph (1).
 
 ### 3. Enhanced training and mentoring in domiciliary care
 
@@ -126,8 +126,8 @@ Where the Health Board decides to designate a dentist as a domiciliary care dent
 
 ## Annotations
 
-[^key-9809563c2105d72d175b3e8131ef0d3c]: Textual amendment: [Sch. B1](https://www.legislation.gov.uk/ssi/2010/208/schedule/B1) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [18](https://www.legislation.gov.uk/ssi/2019/174/regulation/18)
+[^c-9809563c2105d72d175b3e8131ef0d3c]: Textual amendment: [Sch. B1](https://www.legislation.gov.uk/ssi/2010/208/schedule/B1) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [18](https://www.legislation.gov.uk/ssi/2019/174/regulation/18)
 
-[^key-d9a1054c21397f9ec9891a30e226de39]: Textual amendment: [Sch. B1 para. 1(2)(f)](https://www.legislation.gov.uk/ssi/2010/208/schedule/B1/paragraph/1/2/f) inserted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2025/380/regulation/15)
+[^c-d9a1054c21397f9ec9891a30e226de39]: Textual amendment: [Sch. B1 para. 1(2)(f)](https://www.legislation.gov.uk/ssi/2010/208/schedule/B1/paragraph/1/2/f) inserted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2025/380/regulation/15)
 
-[^key-823090d108121182f88b7fdd91b302e0]: Textual amendment: Words in [sch. B1 para. 2(3)](https://www.legislation.gov.uk/ssi/2010/208/schedule/B1/paragraph/2/3) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 13(d)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/13/d) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-823090d108121182f88b7fdd91b302e0]: Textual amendment: Words in [sch. B1 para. 2(3)](https://www.legislation.gov.uk/ssi/2010/208/schedule/B1/paragraph/2/3) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 13(d)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/13/d) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 250. Interpretation[^key-65e5efb470b0c42b055905b89b1b7412][^key-9f3910ce2088a8010d4efc4c41e2a37f]
+## 250. Interpretation[^c-65e5efb470b0c42b055905b89b1b7412][^c-9f3910ce2088a8010d4efc4c41e2a37f]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65e5efb470b0c42b055905b89b1b7412]: Commencement: [S. 250](https://www.legislation.gov.uk/asp/2014/16/section/250) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-65e5efb470b0c42b055905b89b1b7412]: Commencement: [S. 250](https://www.legislation.gov.uk/asp/2014/16/section/250) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-9f3910ce2088a8010d4efc4c41e2a37f]: Commencement: [S. 250](https://www.legislation.gov.uk/asp/2014/16/section/250) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-9f3910ce2088a8010d4efc4c41e2a37f]: Commencement: [S. 250](https://www.legislation.gov.uk/asp/2014/16/section/250) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

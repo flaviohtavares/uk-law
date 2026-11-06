@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-699577ddaeeb4c6b1d4b01f105ec582a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-699577ddaeeb4c6b1d4b01f105ec582a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 59 of TCGA 1992 (partnerships), insert at the end—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-699577ddaeeb4c6b1d4b01f105ec582a]: Textual amendment: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/58/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-699577ddaeeb4c6b1d4b01f105ec582a]: Textual amendment: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/58/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

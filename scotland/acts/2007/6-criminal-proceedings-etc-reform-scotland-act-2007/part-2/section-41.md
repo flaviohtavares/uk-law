@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Electronic proceedings[^c21037071][^key-b05bd1d769578c4eccf2f2538a87af1b]
+## 41. Electronic proceedings[^c21037071][^c-b05bd1d769578c4eccf2f2538a87af1b]
 
 *Extent: S*
 
@@ -86,4 +86,4 @@ summary: ''
 
 [^c21037071]: Commencement: S. 41 not in force at Royal Assent, see s. 84; s. 41(1) in force for specified purposes and s. 41(2) in force for specified purposes at 10.12.2007 by [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule)
 
-[^key-b05bd1d769578c4eccf2f2538a87af1b]: Commencement: S. 41 in force at 1.11.2012 in so far as not already in force by [S.S.I. 2012/274](https://www.legislation.gov.uk/ssi/2012/274), [art. 2](https://www.legislation.gov.uk/ssi/2012/274/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/274/schedule)
+[^c-b05bd1d769578c4eccf2f2538a87af1b]: Commencement: S. 41 in force at 1.11.2012 in so far as not already in force by [S.S.I. 2012/274](https://www.legislation.gov.uk/ssi/2012/274), [art. 2](https://www.legislation.gov.uk/ssi/2012/274/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/274/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Regulations for police forces: ranks[^key-d3523388290c3d2cb68a5fac8b27669d]
+## 50A. Regulations for police forces: ranks[^c-d3523388290c3d2cb68a5fac8b27669d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3523388290c3d2cb68a5fac8b27669d]: Textual amendment: [Ss. 50A](https://www.legislation.gov.uk/ukpga/1996/16/section/50A), [50B](https://www.legislation.gov.uk/ukpga/1996/16/section/50B) inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 47](https://www.legislation.gov.uk/ukpga/2017/3/section/47), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
+[^c-d3523388290c3d2cb68a5fac8b27669d]: Textual amendment: [Ss. 50A](https://www.legislation.gov.uk/ukpga/1996/16/section/50A), [50B](https://www.legislation.gov.uk/ukpga/1996/16/section/50B) inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 47](https://www.legislation.gov.uk/ukpga/2017/3/section/47), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)

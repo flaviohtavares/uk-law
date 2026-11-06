@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.1. Interpretation[^key-a861bf3e0ebc64ce8d18df81f27c89fd]
+## 2.1. Interpretation[^c-a861bf3e0ebc64ce8d18df81f27c89fd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In this Chapter, unless the context otherwise requires–
 
 ## Annotations
 
-[^key-a861bf3e0ebc64ce8d18df81f27c89fd]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/uksi/1999/929/rule/2.1) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-a861bf3e0ebc64ce8d18df81f27c89fd]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/uksi/1999/929/rule/2.1) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

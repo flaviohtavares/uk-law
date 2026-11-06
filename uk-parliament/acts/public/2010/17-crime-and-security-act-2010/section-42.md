@@ -43,7 +43,7 @@ summary: ''
 > - (a) the reference in subsection (2)(c) to the Secretary of State must be construed as a reference to the Scottish Ministers; but
 > - (b) before making any order under subsection (2)(c) the Scottish Ministers are to consult the Secretary of State.
 >
-> (3A)[^key-9e4516533b46edc2141ad4e6eae82b63] In the application of this section to Northern Ireland—
+> (3A)[^c-9e4516533b46edc2141ad4e6eae82b63] In the application of this section to Northern Ireland—
 >
 > - (a) the reference in subsection (2)(c) to the Secretary of State must be construed as a reference to the Department of Justice in Northern Ireland; but
 > - (b) before making any order under subsection (2)(c) the Department of Justice in Northern Ireland must consult the Secretary of State.
@@ -79,7 +79,7 @@ summary: ''
 >
 > (9) In the application of this section—
 >
-> - (a) in England and Wales, in relation to an offence committed before 2 May 2022[^key-7cad91c411330613d21df2e450457cfe], or
+> - (a) in England and Wales, in relation to an offence committed before 2 May 2022[^c-7cad91c411330613d21df2e450457cfe], or
 > - (b) in Northern Ireland,
 >
 > the reference in subsection (8)(a) to twelve months is to be read as a reference to six months.
@@ -95,7 +95,7 @@ summary: ''
 >
 > (2) In subsection (1)(a), the reference to suitable alternative arrangements is a reference to arrangements that the Secretary of State is satisfied are equivalent, for all practical purposes so far as the protection of the public is concerned, to those applying to persons applying for and granted licences under section 4A.
 
-(3)[^key-f6baadbd9e108dd96c23eb8722a1f895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f6baadbd9e108dd96c23eb8722a1f895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 9 (licence conditions), after subsection (2) there is inserted—
 
@@ -105,7 +105,7 @@ summary: ''
 >
 > (2C) The Secretary of State must consult the Scottish Ministers before approving a nomination under subsection (2B) affecting persons carrying out activities in Scotland.
 >
-> (2D)[^key-f9fc73a74b7d05fc0b0a8b00df33c4c1] The Secretary of State must consult the Department of Justice in Northern Ireland before approving a nomination under subsection (2B) affecting persons carrying out activities in Northern Ireland.
+> (2D)[^c-f9fc73a74b7d05fc0b0a8b00df33c4c1] The Secretary of State must consult the Department of Justice in Northern Ireland before approving a nomination under subsection (2B) affecting persons carrying out activities in Northern Ireland.
 
 (5) In section 19 (powers of entry and inspection), in subsection (1)—
 
@@ -133,10 +133,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9e4516533b46edc2141ad4e6eae82b63]: Textual amendment: Words in s. 42(2) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-9e4516533b46edc2141ad4e6eae82b63]: Textual amendment: Words in s. 42(2) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-7cad91c411330613d21df2e450457cfe]: Textual amendment: Words in [s. 42](https://www.legislation.gov.uk/ukpga/2010/17/section/42) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-7cad91c411330613d21df2e450457cfe]: Textual amendment: Words in [s. 42](https://www.legislation.gov.uk/ukpga/2010/17/section/42) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-f6baadbd9e108dd96c23eb8722a1f895]: Textual amendment: S. 42(3) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/h)
+[^c-f6baadbd9e108dd96c23eb8722a1f895]: Textual amendment: S. 42(3) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/h)
 
-[^key-f9fc73a74b7d05fc0b0a8b00df33c4c1]: Textual amendment: Words in s. 42(4) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-f9fc73a74b7d05fc0b0a8b00df33c4c1]: Textual amendment: Words in s. 42(4) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))

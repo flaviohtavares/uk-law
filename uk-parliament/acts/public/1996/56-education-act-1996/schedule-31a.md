@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 31A — Failure to provide information under section 436E: monetary penalties[^key-c96e3630225258de5085591312887e96]
+## Schedule 31A — Failure to provide information under section 436E: monetary penalties[^c-c96e3630225258de5085591312887e96]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,4 +102,4 @@ If a person does not pay the whole or any part of a monetary penalty which the p
 
 ## Annotations
 
-[^key-c96e3630225258de5085591312887e96]: Textual amendment: Sch. 31A inserted (29.4.2026 but only in relation to the power to make regulations conferred by s. 436E and Sch. 31A para. 5, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 38(7)](https://www.legislation.gov.uk/ukpga/2026/21/section/38/7), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-c96e3630225258de5085591312887e96]: Textual amendment: Sch. 31A inserted (29.4.2026 but only in relation to the power to make regulations conferred by s. 436E and Sch. 31A para. 5, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 38(7)](https://www.legislation.gov.uk/ukpga/2026/21/section/38/7), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

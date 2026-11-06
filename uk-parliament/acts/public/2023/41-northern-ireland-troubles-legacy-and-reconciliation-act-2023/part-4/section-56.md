@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Designated persons and funding[^key-c8ee05166f00b470b7184c33fe5f89c0][^key-a9744191b0e9401cc961bb65e66cfcff]
+## 56. Designated persons and funding[^c-c8ee05166f00b470b7184c33fe5f89c0][^c-a9744191b0e9401cc961bb65e66cfcff]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8ee05166f00b470b7184c33fe5f89c0]: Commencement: S. 56 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-c8ee05166f00b470b7184c33fe5f89c0]: Commencement: S. 56 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-a9744191b0e9401cc961bb65e66cfcff]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/41/section/56) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/g)
+[^c-a9744191b0e9401cc961bb65e66cfcff]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/41/section/56) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/g)

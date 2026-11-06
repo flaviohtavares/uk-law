@@ -32,7 +32,7 @@ summary: ''
 - “clothing” includes footwear;
 - “college of education” means a college for the training of teachers being a college in respect of which grants are paid under Article 66(2), (2A) or (3);[^c17004661]
 - “compulsory school age” has the meaning assigned to it by Article 46;
-- “contributory school” means, in relation to a controlled secondary school, a controlled primary school from which, in the opinion of the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] [^key-84120e8242ec34e144f15b27119c6c68]..., a substantial number of pupils proceed or are likely to proceed to the controlled secondary school for the purpose of continuing their education;
+- “contributory school” means, in relation to a controlled secondary school, a controlled primary school from which, in the opinion of the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] [^c-84120e8242ec34e144f15b27119c6c68]..., a substantial number of pupils proceed or are likely to proceed to the controlled secondary school for the purpose of continuing their education;
 - “controlled school” means a grant-aided school under the management of the Authority ;
 - “controlled integrated school” means a school which has become, or has been established as, a controlled integrated school in accordance with Articles 90 to 92 of the 1989 Order;
 - *Definition rep. by 1989 NI 20*
@@ -51,7 +51,7 @@ summary: ''
 - “junior pupil” means a child who has not attained the age of eleven years and six months;
 - “maintained school” means a voluntary school other than a grammar school[^c17004891][^c17004651]. . . ;
 - “managers” means—
-  - (a) in relation to a controlled school, the Authority [^key-84120e8242ec34e144f15b27119c6c68]...;
+  - (a) in relation to a controlled school, the Authority [^c-84120e8242ec34e144f15b27119c6c68]...;
   - (b) in relation to a voluntary school or a grant‐maintained integrated school, the Board of Governors of the school;
   - (d) in relation to an independent school, the proprietor of the school;
   - (e) in relation to an institution of further education, the governing body of that institution;
@@ -86,7 +86,7 @@ summary: ''
 - “statutory provision” has the meaning assigned to it by section 1(f) of the [^m00009] Interpretation Act (Northern Ireland) 1954;
 - *Definition rep. by 1993 NI 12*
 - *Definition rep. by 1997 NI 15*
-- “[^key-86078d8e57bdb2246e554b560b4df488]**the Authority**” means the Education Authority;
+- “[^c-86078d8e57bdb2246e554b560b4df488]**the Authority**” means the Education Authority;
 - “the Department” means the Department of Education;
 - “the Education Orders” means—
   - (a) this Order;
@@ -99,7 +99,7 @@ summary: ''
   - (h) the Colleges of Education (Northern Ireland) Order 2005;
   - (h) the Education and Libraries (Northern Ireland) Order 2003;[^c19586721]
   - (i) the Education (Northern Ireland) Order 2006.
-- “the funding departments” has the meaning given by section 6(1) of the Education Act (Northern Ireland) 2014;[^key-4c5daddfe69d4bb603dde0171dd1aaca]
+- “the funding departments” has the meaning given by section 6(1) of the Education Act (Northern Ireland) 2014;[^c-4c5daddfe69d4bb603dde0171dd1aaca]
 - “the 1972 Order” means the [^m00010] Education and Libraries (Northern Ireland) Order 1972;
 - “the 1989 Order” means the Education Reform (Northern Ireland) Order 1989;
 - “transferors” means—
@@ -154,9 +154,9 @@ shall be construed in accordance with Article 25 of the Education (Northern Irel
 
 [^c17004661]: Textual amendment: [2005 NI 13](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-84120e8242ec34e144f15b27119c6c68]: Textual amendment: Words in art. 2(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-84120e8242ec34e144f15b27119c6c68]: Textual amendment: Words in art. 2(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17004761]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 
@@ -170,11 +170,11 @@ shall be construed in accordance with Article 25 of the Education (Northern Irel
 
 [^m00009]: Marginal citation: 1954 c. 33 (N.I.)
 
-[^key-86078d8e57bdb2246e554b560b4df488]: Textual amendment: Words in art. 2(2) inserted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-86078d8e57bdb2246e554b560b4df488]: Textual amendment: Words in art. 2(2) inserted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19586721]: Textual amendment: In art. 2(2) words in definition of "the Education Orders" added (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/1)
 
-[^key-4c5daddfe69d4bb603dde0171dd1aaca]: Textual amendment: Words in art. 2(2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-4c5daddfe69d4bb603dde0171dd1aaca]: Textual amendment: Words in art. 2(2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^m00010]: Marginal citation: 1972 NI 12
 

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 11(6)
 
-**1.**[^key-65e95f595c499588e6ac80cc2b4e03d2][^key-c8f710f05d44de617588a65a6843d766] The maximum quantity of pyrotechnic articles which may be kept for any period of time in a sales area at a site in relation to which a person is registered for the storage of explosives shall be the amount specified in column 2 of the Table below corresponding to the floor area of the sales area shown in column 1 of the Table. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+**1.**[^c-65e95f595c499588e6ac80cc2b4e03d2][^c-c8f710f05d44de617588a65a6843d766] The maximum quantity of pyrotechnic articles which may be kept for any period of time in a sales area at a site in relation to which a person is registered for the storage of explosives shall be the amount specified in column 2 of the Table below corresponding to the floor area of the sales area shown in column 1 of the Table. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -48,10 +48,10 @@ Regulation 11(6)
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 ## Annotations
 
-[^key-65e95f595c499588e6ac80cc2b4e03d2]: Commencement: Sch. 3 para. 1 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-65e95f595c499588e6ac80cc2b4e03d2]: Commencement: Sch. 3 para. 1 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
+[^c-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))

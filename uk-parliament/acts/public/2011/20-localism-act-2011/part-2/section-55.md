@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Matters to be determined before a final notice is given[^key-a6a3360c4b725eca4a41898594afc864]
+## 55. Matters to be determined before a final notice is given[^c-a6a3360c4b725eca4a41898594afc864]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6a3360c4b725eca4a41898594afc864]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2011/20/section/55) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-a6a3360c4b725eca4a41898594afc864]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2011/20/section/55) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

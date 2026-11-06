@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Abatement of works abandoned or decayed[^key-2e73048bc42bdfb16c6e32fd4228aa4f]
+## 8. Abatement of works abandoned or decayed[^c-2e73048bc42bdfb16c6e32fd4228aa4f]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Where the authorised development or any part of it or any part of the ancillary 
 
 ## Annotations
 
-[^key-2e73048bc42bdfb16c6e32fd4228aa4f]: Commencement: Art. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-2e73048bc42bdfb16c6e32fd4228aa4f]: Commencement: Art. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00019]: Footnote: Section 105(2) was substituted by section 69(3) of the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32).

@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Education makes these Regulations in exercise of the powers conferred by sections 157(1) and 210(7) of the Education Act 2002[^f00001].
 
-## 1. Citation, commencement and application[^key-6deaf2e2b7c0f0e1493153582e61ee42]
+## 1. Citation, commencement and application[^c-6deaf2e2b7c0f0e1493153582e61ee42]
 
 (1) These Regulations may be cited as the Education (Independent School Standards) (England) Regulations 2010 and come into force on 1st September 2010.
 
 (2) These Regulations apply only in relation to England.
 
-## 2. Interpretation[^key-3d68f8bcef439747b3bf7765442bcb75]
+## 2. Interpretation[^c-3d68f8bcef439747b3bf7765442bcb75]
 
 (1) In these Regulations—
 
@@ -85,7 +85,7 @@ The Secretary of State for Education makes these Regulations in exercise of the 
   - (i) the proprietor takes reasonable steps to ensure that parents of pupils and parents of prospective pupils are made aware that they may request the information or a copy of the document; and
   - (ii) the information or a copy of the document is sent or given to such parents free of charge, in response to a request.
 
-## 3. Independent school standards[^key-94392e1c2e426f75f5e95512ae1750f5]
+## 3. Independent school standards[^c-94392e1c2e426f75f5e95512ae1750f5]
 
 (1) The provisions contained in Schedule 1 are the independent school standards for the purposes of Part 10 of the 2002 Act.
 
@@ -99,7 +99,7 @@ The Secretary of State for Education makes these Regulations in exercise of the 
 
 (4) The standards referred to in paragraph (3) of this Regulation and the standards contained in paragraphs 17 and 24(1)(f) of Schedule 1 do not apply to a city technology college or a city college for the technology of the arts[^f00010].
 
-## 4. Revocations[^key-0cb8022c191ebb5d27eb21f98a4bcd26]
+## 4. Revocations[^c-0cb8022c191ebb5d27eb21f98a4bcd26]
 
 The instruments listed in column 1 of the table in Schedule 2 (which have the references listed in column 2) are revoked to the extent indicated in column 3.
 
@@ -117,9 +117,9 @@ Regulation 3(1)
 
 ### PART 1 — Quality of education provided
 
-**1.**[^key-95d5777b91087a894972d4a9abf4e3d8] The standards about the quality of education provided at the school are those contained in this Part.
+**1.**[^c-95d5777b91087a894972d4a9abf4e3d8] The standards about the quality of education provided at the school are those contained in this Part.
 
-**2.**[^key-0c80912e6ac87d915256fffc73fc5edd] (1) The standard in this paragraph is met if the proprietor ensures that a written policy on the curriculum, supported by appropriate plans and schemes of work, which provides for the matters specified in sub-paragraph (2) is drawn up and implemented effectively.
+**2.**[^c-0c80912e6ac87d915256fffc73fc5edd] (1) The standard in this paragraph is met if the proprietor ensures that a written policy on the curriculum, supported by appropriate plans and schemes of work, which provides for the matters specified in sub-paragraph (2) is drawn up and implemented effectively.
 
 (2) The matters are—
 
@@ -134,7 +134,7 @@ Regulation 3(1)
 - (i) that all pupils have the opportunity to learn and make progress; and
 - (j) adequate preparation of pupils for the opportunities, responsibilities and experiences of adult life.
 
-**3.**[^key-4fd64137157122b7edb5df1f20afe47b] The standard in this paragraph is met if the proprietor ensures that the teaching at the school—
+**3.**[^c-4fd64137157122b7edb5df1f20afe47b] The standard in this paragraph is met if the proprietor ensures that the teaching at the school—
 
 - (a) enables pupils to acquire new knowledge and make progress according to their ability so that they increase their understanding and develop their skills in the subjects taught;
 - (b) fosters in pupils the application of intellectual, physical or creative effort, interest in their work and the ability to think and learn for themselves;
@@ -145,11 +145,11 @@ Regulation 3(1)
 - (g) demonstrates that a framework is in place to assess pupils’ work regularly and thoroughly and use information from that assessment to plan teaching so that pupils can progress; and
 - (h) utilises effective strategies for managing behaviour and encouraging pupils to act responsibly.
 
-**4.**[^key-256814de6a2837da6d4bba1bfcb51a54] The standard in this paragraph is met where the proprietor ensures that a framework for pupil performance to be evaluated, by reference either to the school’s own aims as provided to parents or national norms, or to both, is in place.
+**4.**[^c-256814de6a2837da6d4bba1bfcb51a54] The standard in this paragraph is met where the proprietor ensures that a framework for pupil performance to be evaluated, by reference either to the school’s own aims as provided to parents or national norms, or to both, is in place.
 
 ### PART 2 — Spiritual, moral, social and cultural development of pupils
 
-**5.**[^key-1f81698ca7fb373873023b91a333fcbf] The standard about the spiritual, moral, social and cultural development of pupils at the school is met if the proprietor ensures that principles are promoted which—
+**5.**[^c-1f81698ca7fb373873023b91a333fcbf] The standard about the spiritual, moral, social and cultural development of pupils at the school is met if the proprietor ensures that principles are promoted which—
 
 - (a) enable pupils to develop their self-knowledge, self-esteem and self-confidence;
 - (b) enable pupils to distinguish right from wrong and to respect the law;
@@ -159,41 +159,41 @@ Regulation 3(1)
 
 ### PART 3 — Welfare, health and safety of pupils
 
-**6.**[^key-7075de24c2a17c2c236cdd2ca8023a6c] The standards about the welfare, health and safety of pupils at the school are those contained in this Part.
+**6.**[^c-7075de24c2a17c2c236cdd2ca8023a6c] The standards about the welfare, health and safety of pupils at the school are those contained in this Part.
 
-**7.**[^key-90c38060965479b1d6e891691e05f861] The standard in this paragraph is met if the proprietor ensures that—
+**7.**[^c-90c38060965479b1d6e891691e05f861] The standard in this paragraph is met if the proprietor ensures that—
 
 - (a) arrangements are made to safeguard and promote the welfare of pupils at the school; and
 - (b) such arrangements have regard to any guidance issued by the Secretary of State.
 
-**8.**[^key-5e9e0f9194cfb006fc4a77a13f40744c] Where section 87(1) of the Children Act 1989 applies in relation to a school the standard in this paragraph is met if the proprietor ensures that—
+**8.**[^c-5e9e0f9194cfb006fc4a77a13f40744c] Where section 87(1) of the Children Act 1989 applies in relation to a school the standard in this paragraph is met if the proprietor ensures that—
 
 - (a) arrangements are made to safeguard and promote the welfare of boarders while they are accommodated at the school; and
 - (b) such arrangements have regard to the National Minimum Standards for Boarding Schools or, where applicable, the National Minimum Standards for Residential Special Schools.
 
-**9.**[^key-252dcd9e28e8a4bd031955da10328a6d] The standard in this paragraph is met if the proprietor ensures that a written policy to promote good behaviour amongst pupils and set out the sanctions to be adopted in the event of pupil misbehaviour is drawn up and effectively implemented.
+**9.**[^c-252dcd9e28e8a4bd031955da10328a6d] The standard in this paragraph is met if the proprietor ensures that a written policy to promote good behaviour amongst pupils and set out the sanctions to be adopted in the event of pupil misbehaviour is drawn up and effectively implemented.
 
-**10.**[^key-0f1fc2d4386412791e4c2f786f5e81c6] The standard in this paragraph is met if the proprietor ensures that regard is had to the DCSF Guidance “Safe to Learn: Embedding anti-bullying work in schools”[^f00012].
+**10.**[^c-0f1fc2d4386412791e4c2f786f5e81c6] The standard in this paragraph is met if the proprietor ensures that regard is had to the DCSF Guidance “Safe to Learn: Embedding anti-bullying work in schools”[^f00012].
 
-**11.**[^key-77dc0c9d72c51b89edecf092cbdd45b2] The standard in this paragraph is met if the proprietor ensures that regard is had to the DfES Guidance “Health and Safety: Responsibilities and Powers”[^f00013].
+**11.**[^c-77dc0c9d72c51b89edecf092cbdd45b2] The standard in this paragraph is met if the proprietor ensures that regard is had to the DfES Guidance “Health and Safety: Responsibilities and Powers”[^f00013].
 
-**12.**[^key-faa5b2d5e49c565ceb49a01aeff39a8c] The standard in this paragraph is met if the proprietor ensures that regard is had to the DfES Guidance “Health and Safety of Pupils on Educational Visits”[^f00014].
+**12.**[^c-faa5b2d5e49c565ceb49a01aeff39a8c] The standard in this paragraph is met if the proprietor ensures that regard is had to the DfES Guidance “Health and Safety of Pupils on Educational Visits”[^f00014].
 
-**13.**[^key-e11481e801ee0b6d835585a833f187ce] The standard in this paragraph is met if the proprietor ensures that the Regulatory Reform (Fire Safety) Order 2005[^f00015] is complied with.
+**13.**[^c-e11481e801ee0b6d835585a833f187ce] The standard in this paragraph is met if the proprietor ensures that the Regulatory Reform (Fire Safety) Order 2005[^f00015] is complied with.
 
-**14.**[^key-f1b88551d0d136361f6f50060dbed2b1] The standard in this paragraph is met if the proprietor ensures that a written policy on first aid is drawn up and implemented.
+**14.**[^c-f1b88551d0d136361f6f50060dbed2b1] The standard in this paragraph is met if the proprietor ensures that a written policy on first aid is drawn up and implemented.
 
-**15.**[^key-1f1bb629d0060ffa9b8c5accc4228478] The standard in this paragraph is met if the proprietor ensures that school staff are deployed to ensure the proper supervision of pupils.
+**15.**[^c-1f1bb629d0060ffa9b8c5accc4228478] The standard in this paragraph is met if the proprietor ensures that school staff are deployed to ensure the proper supervision of pupils.
 
-**16.**[^key-8aa9af37cd0e060c2372a1e666ca8595] The standard in this paragraph is met if the proprietor ensures that a record is kept of the sanctions imposed upon pupils for serious misbehaviour.
+**16.**[^c-8aa9af37cd0e060c2372a1e666ca8595] The standard in this paragraph is met if the proprietor ensures that a record is kept of the sanctions imposed upon pupils for serious misbehaviour.
 
-**17.**[^key-d17ab24b9f4db92c54ec1e3090f0420c] The standard in this paragraph is met if the proprietor ensures that an admission and attendance register is maintained in accordance with the Education (Pupil Registration) (England) Regulations 2006[^f00016].
+**17.**[^c-d17ab24b9f4db92c54ec1e3090f0420c] The standard in this paragraph is met if the proprietor ensures that an admission and attendance register is maintained in accordance with the Education (Pupil Registration) (England) Regulations 2006[^f00016].
 
 ### PART 4 — Suitability of staff, supply staff, and proprietors
 
-**18.**[^key-24383e5ca773bfc98d8951949fbb1b9c] The standards about the suitability of staff, supply staff, and proprietors are those contained in this Part.
+**18.**[^c-24383e5ca773bfc98d8951949fbb1b9c] The standards about the suitability of staff, supply staff, and proprietors are those contained in this Part.
 
-**19.**[^key-442f68e7c7fa7439c77c436c404f49e8] (1) The standard in this paragraph relates to the suitability of persons appointed as members of staff at the school, other than the proprietor and supply staff.
+**19.**[^c-442f68e7c7fa7439c77c436c404f49e8] (1) The standard in this paragraph relates to the suitability of persons appointed as members of staff at the school, other than the proprietor and supply staff.
 
 (2) The standard in this paragraph is met if—
 
@@ -219,7 +219,7 @@ and in the light of the information from the checks referred to in paragraphs (b
 
 during a period which ended not more than three months before M’s appointment.
 
-**20.**[^key-010d86d9ca9dbf0eefa80ddf9bec8f00] (1) This paragraph relates to the suitability of supply staff at an independent school.
+**20.**[^c-010d86d9ca9dbf0eefa80ddf9bec8f00] (1) This paragraph relates to the suitability of supply staff at an independent school.
 
 (2) The standard in this paragraph is met if—
 
@@ -248,7 +248,7 @@ during a period which ended not more than three months before M’s appointment.
 
 during a period which ended not more than three months before P is due to begin work at the school.
 
-**21.**[^key-35f48b5a72d9feefdbb466359b749f4f] (1) The standard in this paragraph relates to the suitability of the proprietor of an independent school.
+**21.**[^c-35f48b5a72d9feefdbb466359b749f4f] (1) The standard in this paragraph relates to the suitability of the proprietor of an independent school.
 
 (2) Sub-paragraph (3) relates to the suitability of the proprietor where the proprietor is an individual.
 
@@ -300,7 +300,7 @@ sub-paragraph (5)(b) or (6)(b) (as the case may be) is treated as complied with 
 
 (9) In this paragraph a reference to the Chair of the school is a reference to an individual who is the Chair of a body of persons corporate or unincorporate named as the proprietor of the school in the register or in an application to enter the school in the register and includes a reference to a similar officer.
 
-**22.**[^key-45984557fd2bbf5de46a81e6bafd0839] (1) The standard in this paragraph is met if the proprietor keeps a register which shows such of the information referred to in sub-paragraphs (3) to (7) as is applicable to the school in question.
+**22.**[^c-45984557fd2bbf5de46a81e6bafd0839] (1) The standard in this paragraph is met if the proprietor keeps a register which shows such of the information referred to in sub-paragraphs (3) to (7) as is applicable to the school in question.
 
 (2) The register referred to in sub-paragraph (1) may be kept in electronic form, provided that the information so recorded is capable of being reproduced in legible form.
 
@@ -339,7 +339,7 @@ including the date on which each such check was completed or the certificate obt
 
 ### PART 5 — Premises of and accommodation at schools
 
-**23.**[^key-01ae64428882c174dc3a169810777679] The standard about the premises of and accommodation at the school is met if the proprietor ensures that—
+**23.**[^c-01ae64428882c174dc3a169810777679] The standard about the premises of and accommodation at the school is met if the proprietor ensures that—
 
 - (a) the water supply complies with the provisions of regulation 22 of the School Premises Regulations;
 - (b) there is an adequate drainage system for hygienic purposes and the disposal of waste water and surface water;
@@ -364,7 +364,7 @@ including the date on which each such check was completed or the certificate obt
 
 ### PART 6 — Provision of information
 
-**24.**[^key-36fc1159e1e414827e6f0a3f3f28960a] (1) The standard about the provision of information by the school is met if the proprietor ensures that—
+**24.**[^c-36fc1159e1e414827e6f0a3f3f28960a] (1) The standard about the provision of information by the school is met if the proprietor ensures that—
 
 - (a) the information specified in sub-paragraph (2) is provided to parents of pupils and parents of prospective pupils and, on request, to the Chief Inspector, the Secretary of State or an independent inspectorate;
 - (b) the information specified in sub-paragraph (3) is made available to parents of pupils and parents of prospective pupils and, on request, to the Chief Inspector, the Secretary of State or an independent inspectorate;
@@ -398,7 +398,7 @@ including the date on which each such check was completed or the certificate obt
 
 ### PART 7 — Manner in which complaints are to be handled
 
-**25.**[^key-cefef67e42dad7b068ad02c1c8c27f2b] The standard about the manner in which complaints are handled is met if the proprietor ensures that a complaints procedure is drawn up and effectively implemented which deals with the handling of complaints from parents of pupils and which—
+**25.**[^c-cefef67e42dad7b068ad02c1c8c27f2b] The standard about the manner in which complaints are handled is met if the proprietor ensures that a complaints procedure is drawn up and effectively implemented which deals with the handling of complaints from parents of pupils and which—
 
 - (a) is in writing;
 - (b) is made available to parents of pupils;
@@ -415,7 +415,7 @@ including the date on which each such check was completed or the certificate obt
 - (k) provides that correspondence, statements and records relating to individual complaints are to be kept confidential except where the Secretary of State or a body conducting an inspection under section 162A of the 2002 Act requests access to them; and
 - (l) where the school provides accommodation, is drawn up having regard to Standard 5 of the National Minimum Standards for Boarding Schools or where applicable Standard 4 of the National Minimum Standards for Residential Special Schools.
 
-## SCHEDULE 2 — Instruments revoked[^key-71d393cc4a8cd943aaf977ded63b0a37]
+## SCHEDULE 2 — Instruments revoked[^c-71d393cc4a8cd943aaf977ded63b0a37]
 
 Regulation 4
 
@@ -464,9 +464,9 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). See section 212(1) for the definition of “regulations”.
 
-[^key-6deaf2e2b7c0f0e1493153582e61ee42]: Commencement: Reg. 1 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-6deaf2e2b7c0f0e1493153582e61ee42]: Commencement: Reg. 1 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-3d68f8bcef439747b3bf7765442bcb75]: Commencement: Reg. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-3d68f8bcef439747b3bf7765442bcb75]: Commencement: Reg. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00002]: Footnote: [1973 c.35](https://www.legislation.gov.uk/ukpga/1973/35).
 
@@ -484,76 +484,76 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00009]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-94392e1c2e426f75f5e95512ae1750f5]: Commencement: Reg. 3 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-94392e1c2e426f75f5e95512ae1750f5]: Commencement: Reg. 3 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00010]: Footnote: City technology colleges and city colleges for the technology of the arts were established under section 482 of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) as originally enacted.
 
-[^key-0cb8022c191ebb5d27eb21f98a4bcd26]: Commencement: Reg. 4 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-0cb8022c191ebb5d27eb21f98a4bcd26]: Commencement: Reg. 4 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-95d5777b91087a894972d4a9abf4e3d8]: Commencement: Sch. 1 para. 1 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-95d5777b91087a894972d4a9abf4e3d8]: Commencement: Sch. 1 para. 1 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-0c80912e6ac87d915256fffc73fc5edd]: Commencement: Sch. 1 para. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-0c80912e6ac87d915256fffc73fc5edd]: Commencement: Sch. 1 para. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00011]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 8 is amended by section 52 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
 
-[^key-4fd64137157122b7edb5df1f20afe47b]: Commencement: Sch. 1 para. 3 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-4fd64137157122b7edb5df1f20afe47b]: Commencement: Sch. 1 para. 3 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-256814de6a2837da6d4bba1bfcb51a54]: Commencement: Sch. 1 para. 4 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-256814de6a2837da6d4bba1bfcb51a54]: Commencement: Sch. 1 para. 4 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-1f81698ca7fb373873023b91a333fcbf]: Commencement: Sch. 1 para. 5 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-1f81698ca7fb373873023b91a333fcbf]: Commencement: Sch. 1 para. 5 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-7075de24c2a17c2c236cdd2ca8023a6c]: Commencement: Sch. 1 para. 6 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-7075de24c2a17c2c236cdd2ca8023a6c]: Commencement: Sch. 1 para. 6 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-90c38060965479b1d6e891691e05f861]: Commencement: Sch. 1 para. 7 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-90c38060965479b1d6e891691e05f861]: Commencement: Sch. 1 para. 7 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-5e9e0f9194cfb006fc4a77a13f40744c]: Commencement: Sch. 1 para. 8 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-5e9e0f9194cfb006fc4a77a13f40744c]: Commencement: Sch. 1 para. 8 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-252dcd9e28e8a4bd031955da10328a6d]: Commencement: Sch. 1 para. 9 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-252dcd9e28e8a4bd031955da10328a6d]: Commencement: Sch. 1 para. 9 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-0f1fc2d4386412791e4c2f786f5e81c6]: Commencement: Sch. 1 para. 10 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-0f1fc2d4386412791e4c2f786f5e81c6]: Commencement: Sch. 1 para. 10 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00012]: Footnote: ISBN 978-1-84775-027-3.
 
-[^key-77dc0c9d72c51b89edecf092cbdd45b2]: Commencement: Sch. 1 para. 11 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-77dc0c9d72c51b89edecf092cbdd45b2]: Commencement: Sch. 1 para. 11 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00013]: Footnote: DfES publication number 0803/2001.
 
-[^key-faa5b2d5e49c565ceb49a01aeff39a8c]: Commencement: Sch. 1 para. 12 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-faa5b2d5e49c565ceb49a01aeff39a8c]: Commencement: Sch. 1 para. 12 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00014]: Footnote: HSPV2.
 
-[^key-e11481e801ee0b6d835585a833f187ce]: Commencement: Sch. 1 para. 13 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-e11481e801ee0b6d835585a833f187ce]: Commencement: Sch. 1 para. 13 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541), to which there are amendments not relevant to these Regulations.
 
-[^key-f1b88551d0d136361f6f50060dbed2b1]: Commencement: Sch. 1 para. 14 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-f1b88551d0d136361f6f50060dbed2b1]: Commencement: Sch. 1 para. 14 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-1f1bb629d0060ffa9b8c5accc4228478]: Commencement: Sch. 1 para. 15 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-1f1bb629d0060ffa9b8c5accc4228478]: Commencement: Sch. 1 para. 15 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-8aa9af37cd0e060c2372a1e666ca8595]: Commencement: Sch. 1 para. 16 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-8aa9af37cd0e060c2372a1e666ca8595]: Commencement: Sch. 1 para. 16 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-d17ab24b9f4db92c54ec1e3090f0420c]: Commencement: Sch. 1 para. 17 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-d17ab24b9f4db92c54ec1e3090f0420c]: Commencement: Sch. 1 para. 17 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2006/1751](https://www.legislation.gov.uk/uksi/2006/1751), to which there are amendments not relevant to these Regulations.
 
-[^key-24383e5ca773bfc98d8951949fbb1b9c]: Commencement: Sch. 1 para. 18 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-24383e5ca773bfc98d8951949fbb1b9c]: Commencement: Sch. 1 para. 18 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-442f68e7c7fa7439c77c436c404f49e8]: Commencement: Sch. 1 para. 19 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-442f68e7c7fa7439c77c436c404f49e8]: Commencement: Sch. 1 para. 19 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
 [^f00017]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00018]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-010d86d9ca9dbf0eefa80ddf9bec8f00]: Commencement: Sch. 1 para. 20 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-010d86d9ca9dbf0eefa80ddf9bec8f00]: Commencement: Sch. 1 para. 20 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-35f48b5a72d9feefdbb466359b749f4f]: Commencement: Sch. 1 para. 21 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-35f48b5a72d9feefdbb466359b749f4f]: Commencement: Sch. 1 para. 21 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-45984557fd2bbf5de46a81e6bafd0839]: Commencement: Sch. 1 para. 22 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-45984557fd2bbf5de46a81e6bafd0839]: Commencement: Sch. 1 para. 22 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-01ae64428882c174dc3a169810777679]: Commencement: Sch. 1 para. 23 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-01ae64428882c174dc3a169810777679]: Commencement: Sch. 1 para. 23 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-36fc1159e1e414827e6f0a3f3f28960a]: Commencement: Sch. 1 para. 24 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-36fc1159e1e414827e6f0a3f3f28960a]: Commencement: Sch. 1 para. 24 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-cefef67e42dad7b068ad02c1c8c27f2b]: Commencement: Sch. 1 para. 25 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-cefef67e42dad7b068ad02c1c8c27f2b]: Commencement: Sch. 1 para. 25 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
 
-[^key-71d393cc4a8cd943aaf977ded63b0a37]: Commencement: Sch. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)
+[^c-71d393cc4a8cd943aaf977ded63b0a37]: Commencement: Sch. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1997/regulation/1/1)

@@ -78,15 +78,15 @@ summary: ''
 > - (a) to any amount due from a company under section 419 of the principal Act (loans to participators etc) as if it were an amount of corporation tax chargeable on the company;
 > - (b) to any sum chargeable on a company under section 747(4)(a) of the principal Act (controlled foreign companies) as if it were an amount of corporation tax.
 
-(2)[^key-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d759080e5817560caadad9ada8532279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -94,4 +94,4 @@ summary: ''
 
 [^c16419961]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-d759080e5817560caadad9ada8532279]: Textual amendment: [S. 30(2)-(6)](https://www.legislation.gov.uk/ukpga/1998/36/section/30/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-d759080e5817560caadad9ada8532279]: Textual amendment: [S. 30(2)-(6)](https://www.legislation.gov.uk/ukpga/1998/36/section/30/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

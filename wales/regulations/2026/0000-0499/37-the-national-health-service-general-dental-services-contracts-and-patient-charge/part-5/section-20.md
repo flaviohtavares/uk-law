@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Mid-year delivery report[^key-4db55d5084a0443fcd998bb9f4b7ad41]
+## 20. Mid-year delivery report[^c-4db55d5084a0443fcd998bb9f4b7ad41]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The contract must require that a Local Health Board produces and provides to eac
 
 ## Annotations
 
-[^key-4db55d5084a0443fcd998bb9f4b7ad41]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2026/37/regulation/20) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-4db55d5084a0443fcd998bb9f4b7ad41]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2026/37/regulation/20) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

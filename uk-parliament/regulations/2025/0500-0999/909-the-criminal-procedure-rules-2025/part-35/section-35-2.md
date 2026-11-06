@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.2. Application to state a case[^key-8d52a5169a2b2417654cb9d86d924fb1]
+## 35.2. Application to state a case[^c-8d52a5169a2b2417654cb9d86d924fb1]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d52a5169a2b2417654cb9d86d924fb1]: Commencement: [Rule 35.2](https://www.legislation.gov.uk/uksi/2025/909/rule/35.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8d52a5169a2b2417654cb9d86d924fb1]: Commencement: [Rule 35.2](https://www.legislation.gov.uk/uksi/2025/909/rule/35.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00900]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 113 was amended by section 168 of, and paragraph 44 of Schedule 10 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and section 165 of, and paragraph 72 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6).
 

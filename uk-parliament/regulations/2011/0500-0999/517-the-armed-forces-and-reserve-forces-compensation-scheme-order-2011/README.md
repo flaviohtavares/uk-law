@@ -113,7 +113,7 @@ The Secretary of State, in exercise of the powers conferred by section 1(2) of t
 - [Section 41 — Negligence or misconduct](part-5/section-41.md)
 - [Section 42 — Cessation of guaranteed income payment and survivor's guaranteed income payment on admission to the Royal Hospital, Chelsea](part-5/section-42.md)
 
-### PART 5A — REMEDIABLE SERVICE[^key-b430676e018ee20ce77da71e6bf3fd59]
+### PART 5A — REMEDIABLE SERVICE[^c-b430676e018ee20ce77da71e6bf3fd59]
 
 - [Section 42A — Application and interpretation](part-5a/section-42a.md)
 - [Section 42B — Adjustment and Reconciliation](part-5a/section-42b.md)
@@ -158,7 +158,7 @@ The Secretary of State, in exercise of the powers conferred by section 1(2) of t
 - [Section 68 — Suspension in other cases](part-8/section-68.md)
 - [Section 69 — Payments on death](part-8/section-69.md)
 
-### Part 8A — Invalidity of Assignments and Bankruptcy[^key-d6e06a55d4f04ca56a98ce9d7061790c]
+### Part 8A — Invalidity of Assignments and Bankruptcy[^c-d6e06a55d4f04ca56a98ce9d7061790c]
 
 - [Section 69A — Invalidity of assignments and bankruptcy](part-8a/section-69a.md)
 
@@ -259,6 +259,6 @@ Part 12 includes various general transitional provisions, revocations and saving
 
 [^c2072324]: Marginal citation: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32).
 
-[^key-b430676e018ee20ce77da71e6bf3fd59]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2011/517/part/5A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [43](https://www.legislation.gov.uk/uksi/2023/998/regulation/43)
+[^c-b430676e018ee20ce77da71e6bf3fd59]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2011/517/part/5A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [43](https://www.legislation.gov.uk/uksi/2023/998/regulation/43)
 
-[^key-d6e06a55d4f04ca56a98ce9d7061790c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/uksi/2011/517/part/8A) inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [8](https://www.legislation.gov.uk/uksi/2018/293/article/8)
+[^c-d6e06a55d4f04ca56a98ce9d7061790c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/uksi/2011/517/part/8A) inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [8](https://www.legislation.gov.uk/uksi/2018/293/article/8)

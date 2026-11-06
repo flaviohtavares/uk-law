@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Disposal of secured property[^key-495cc0b3a0b2b9a8ca1eb8cb68164903]
+## 36. Disposal of secured property[^c-495cc0b3a0b2b9a8ca1eb8cb68164903]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-495cc0b3a0b2b9a8ca1eb8cb68164903]: Commencement: Rule 36 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-495cc0b3a0b2b9a8ca1eb8cb68164903]: Commencement: Rule 36 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

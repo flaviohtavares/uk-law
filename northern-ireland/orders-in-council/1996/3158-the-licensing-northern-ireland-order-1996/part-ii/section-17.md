@@ -37,7 +37,7 @@ may grant the renewal for a period of 12 months notwithstanding that—
 - (a) satisfies the court that there were reasonable grounds for the failure either to resume the principal business in the licensed premises or to make an application for a new licence; and
 - (b) produces evidence to the court that he is taking the necessary steps to resume that business or make that application within the next 12 months.
 
-(3) Where in respect of any period of 12 months a licence is renewed under this Article, Articles 5(3)(a), 44 , 44A[^key-cc927f695b5fb4c7b22684246a1e9277] and 45 and Article 5(6) in so far as it relates to Article 5(3)(a) shall not apply to the conduct of the licensed business in the licensed premises during that period.
+(3) Where in respect of any period of 12 months a licence is renewed under this Article, Articles 5(3)(a), 44 , 44A[^c-cc927f695b5fb4c7b22684246a1e9277] and 45 and Article 5(6) in so far as it relates to Article 5(3)(a) shall not apply to the conduct of the licensed business in the licensed premises during that period.
 
 (4) In this Article—
 
@@ -52,4 +52,4 @@ may grant the renewal for a period of 12 months notwithstanding that—
 
 [^m00037]: Marginal citation: 1992 NI 3.
 
-[^key-cc927f695b5fb4c7b22684246a1e9277]: Textual amendment: Word in [art. 17(3)](https://www.legislation.gov.uk/nisi/1996/3158/article/17/3) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/5); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-cc927f695b5fb4c7b22684246a1e9277]: Textual amendment: Word in [art. 17(3)](https://www.legislation.gov.uk/nisi/1996/3158/article/17/3) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/5); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

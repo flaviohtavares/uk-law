@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Insertion of article 22A[^key-3f3169e7a2ae13665660b7a553c1f806]
+## 23. Insertion of article 22A[^c-3f3169e7a2ae13665660b7a553c1f806]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ In Part 5 (miscellaneous), before article 23 (dispensing, etc., in public instit
 
 ## Annotations
 
-[^key-3f3169e7a2ae13665660b7a553c1f806]: Commencement: Reg. 23 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-3f3169e7a2ae13665660b7a553c1f806]: Commencement: Reg. 23 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00022]: Footnote: Article 22 was originally in Part 4; articles 21 and 22 were revoked by [S.R. (N.I.) 2012 No. 308](https://www.legislation.gov.uk/nisr/2012/308).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — GENERAL CONDITIONS UNDER WHICH FARMED ANIMALS MUST BE KEPT[^key-831fc4a29061b99f15c1e1345d29d4a2]
+## SCHEDULE 1 — GENERAL CONDITIONS UNDER WHICH FARMED ANIMALS MUST BE KEPT[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 *Extent: E+W*
 
@@ -24,86 +24,86 @@ summary: ''
 
 Regulations 3(2), 3(3), 4, 5, 6, 7, 8 and 9
 
-### 1. Staffing[^key-831fc4a29061b99f15c1e1345d29d4a2]
+### 1. Staffing[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Inspection[^key-831fc4a29061b99f15c1e1345d29d4a2]
+### 2. Inspection[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Record keeping[^key-831fc4a29061b99f15c1e1345d29d4a2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Freedom of movement[^key-831fc4a29061b99f15c1e1345d29d4a2]
+### 7. Record keeping[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Buildings and accommodation[^key-831fc4a29061b99f15c1e1345d29d4a2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 17. Animals not kept in buildings[^key-831fc4a29061b99f15c1e1345d29d4a2]
+### 9. Freedom of movement[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Automatic or mechanical equipment[^key-831fc4a29061b99f15c1e1345d29d4a2]
+**10.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Buildings and accommodation[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Feed, water and other substances[^key-831fc4a29061b99f15c1e1345d29d4a2]
+**15.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**24.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**25.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**26.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**27.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 28. Breeding procedures[^key-831fc4a29061b99f15c1e1345d29d4a2]
+### 17. Animals not kept in buildings[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 18. Automatic or mechanical equipment[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
-### 30. Electrical immobilisation[^key-831fc4a29061b99f15c1e1345d29d4a2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Feed, water and other substances[^c-831fc4a29061b99f15c1e1345d29d4a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Breeding procedures[^c-831fc4a29061b99f15c1e1345d29d4a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29.**[^c-831fc4a29061b99f15c1e1345d29d4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Electrical immobilisation[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-831fc4a29061b99f15c1e1345d29d4a2]: Textual amendment: Regulations lapsed by virtue of the repeal of the enabling provision (1.10.2007) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3))
+[^c-831fc4a29061b99f15c1e1345d29d4a2]: Textual amendment: Regulations lapsed by virtue of the repeal of the enabling provision (1.10.2007) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3))

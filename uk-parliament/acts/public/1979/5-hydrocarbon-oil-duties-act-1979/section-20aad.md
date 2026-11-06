@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20AAD. Mixing of aqua methanol in contravention of prohibition: adjustment of duty[^key-05d48cffd7ba8383507eb4a47ae0eea4]
+## 20AAD. Mixing of aqua methanol in contravention of prohibition: adjustment of duty[^c-05d48cffd7ba8383507eb4a47ae0eea4]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ they may assess the amount of duty due from P to the best of their judgment and 
 
 ## Annotations
 
-[^key-05d48cffd7ba8383507eb4a47ae0eea4]: Textual amendment: Ss. 20AAC, 20AAD inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/6/2), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)
+[^c-05d48cffd7ba8383507eb4a47ae0eea4]: Textual amendment: Ss. 20AAC, 20AAD inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/6/2), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Conditions of registration: deeds relating to registered plots[^key-6fbe03aab5de9a5746eccf86c69b1c75]
+## 26. Conditions of registration: deeds relating to registered plots[^c-6fbe03aab5de9a5746eccf86c69b1c75]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fbe03aab5de9a5746eccf86c69b1c75]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2012/5/section/26) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-6fbe03aab5de9a5746eccf86c69b1c75]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2012/5/section/26) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

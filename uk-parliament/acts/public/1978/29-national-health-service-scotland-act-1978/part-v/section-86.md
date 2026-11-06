@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Accounts of Health Boards and the Agency.[^c14171381][^c20971401][^key-55c19e648b68c3574a1c847def86182e][^c14171361][^c14171371]
+## 86. Accounts of Health Boards and the Agency.[^c14171381][^c20971401][^c-55c19e648b68c3574a1c847def86182e][^c14171361][^c14171371]
 
 *Extent: S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 - (a) every Health Board;
 - (b) the Agency; and
-- (ba)[^key-b84cec180eac0b707bdcb2f874d8a9ae] HIS;
+- (ba)[^c-b84cec180eac0b707bdcb2f874d8a9ae] HIS;
 - (c) every NHS trust,
 
-  shall keep, in such form as the Secretary of State may, with the approval of the Treasury, direct, accounts of all moneys received or paid out by them (in the case of HIS, in connection with the exercise of that body's health service functions only)[^key-3100c0c680897afa7ae904df9de952cb], and shall send those accounts to the Scottish Ministers by such time as they may direct[^c14171401].
+  shall keep, in such form as the Secretary of State may, with the approval of the Treasury, direct, accounts of all moneys received or paid out by them (in the case of HIS, in connection with the exercise of that body's health service functions only)[^c-3100c0c680897afa7ae904df9de952cb], and shall send those accounts to the Scottish Ministers by such time as they may direct[^c14171401].
 
 (1AA)[^c14171411] The Scottish Ministers shall send the accounts to the Auditor General for Scotland for auditing.
 
@@ -68,7 +68,7 @@ summary: ''
 
 [^c20971401]: Modification: S. 86 applied (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 4(3)](https://www.legislation.gov.uk/asp/2003/13/section/4/3), [333(2)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/asp/2003/13/schedule/1/paragraph/9/c), [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 
-[^key-55c19e648b68c3574a1c847def86182e]: Modification: [S. 86](https://www.legislation.gov.uk/ukpga/1978/29/section/86) applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-55c19e648b68c3574a1c847def86182e]: Modification: [S. 86](https://www.legislation.gov.uk/ukpga/1978/29/section/86) applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c14171361]: Modification: Ss. 85B, 86 applied (1.4.1991) by [S.I. 1990/2639](https://www.legislation.gov.uk/uksi/1990/2639), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/1990/2639/article/5/1/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1990/2639/schedule/part/I)
 
@@ -76,9 +76,9 @@ summary: ''
 
 [^c14171391]: Textual amendment: S. 86(1)(a)(b)(c) substituted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 36(2)(3)](https://www.legislation.gov.uk/ukpga/1990/19/section/36/2/3)
 
-[^key-b84cec180eac0b707bdcb2f874d8a9ae]: Textual amendment: S. 86(1)(ba) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 19(a)(i)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/19/a/i); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-b84cec180eac0b707bdcb2f874d8a9ae]: Textual amendment: S. 86(1)(ba) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 19(a)(i)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/19/a/i); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-3100c0c680897afa7ae904df9de952cb]: Textual amendment: Words in s. 86(1) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 19(a)(ii)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/19/a/ii); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-3100c0c680897afa7ae904df9de952cb]: Textual amendment: Words in s. 86(1) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 19(a)(ii)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/19/a/ii); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
 [^c14171401]: Textual amendment: Words in s. 86(1) substituted (1.4.2000) by [2000 asp 1](https://www.legislation.gov.uk/asp/2000/1), [s. 26(1)](https://www.legislation.gov.uk/asp/2000/1/section/26/1), [Sch. 4 para. 4(3)(a)](https://www.legislation.gov.uk/asp/2000/1/schedule/4/paragraph/4/3/a); [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 

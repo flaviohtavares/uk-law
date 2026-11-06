@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Leave for the applicant to withdraw[^key-61ab9a213bd22839c4a62f2d402eb699]
+## 14. Leave for the applicant to withdraw[^c-61ab9a213bd22839c4a62f2d402eb699]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.15 of the 1986 Rules. Leave out “at least 5 days” and ignore su
 
 ## Annotations
 
-[^key-61ab9a213bd22839c4a62f2d402eb699]: Commencement: Rule 14 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-61ab9a213bd22839c4a62f2d402eb699]: Commencement: Rule 14 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

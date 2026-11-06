@@ -36,112 +36,112 @@ of 9 March 1999
 
 concerning structural statistics on earnings and on labour costs (revoked)
 
-[^key-7b5b27c9f52999122114b27d36990c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b5b27c9f52999122114b27d36990c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. General provisions[^key-7b5b27c9f52999122114b27d36990c93]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Reference period[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 1. General provisions[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scope[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 2. Reference period[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-7b5b27c9f52999122114b27d36990c93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 5. Statistical units[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 3. Scope[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Characteristics of the required information[^key-7b5b27c9f52999122114b27d36990c93]
+**Article 4.**[^c-7b5b27c9f52999122114b27d36990c93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 5. Statistical units[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Data collection[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 6. Characteristics of the required information[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Processing of results[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 7. Data collection[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Forwarding of results[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 8. Processing of results[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Quality[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 9. Forwarding of results[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Implementation measures[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 10. Quality[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Committee procedure[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 11. Implementation measures[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Derogations[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 12. Committee procedure[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Entry into force[^key-7b5b27c9f52999122114b27d36990c93]
+## Article 13. Derogations[^c-7b5b27c9f52999122114b27d36990c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 14. Entry into force[^c-7b5b27c9f52999122114b27d36990c93]
 
-## ANNEX — DEROGATIONS[^key-7b5b27c9f52999122114b27d36990c93]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]I.
+[^c-7b5b27c9f52999122114b27d36990c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — DEROGATIONS[^c-7b5b27c9f52999122114b27d36990c93]
+
+[^c-7b5b27c9f52999122114b27d36990c93]I.
 
 Derogations from Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]1.
+[^c-7b5b27c9f52999122114b27d36990c93]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]2.
+[^c-7b5b27c9f52999122114b27d36990c93]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]II.
+[^c-7b5b27c9f52999122114b27d36990c93]II.
 
 Derogations from Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]1.
+[^c-7b5b27c9f52999122114b27d36990c93]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]2.
+[^c-7b5b27c9f52999122114b27d36990c93]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]3.
+[^c-7b5b27c9f52999122114b27d36990c93]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]III.
+[^c-7b5b27c9f52999122114b27d36990c93]III.
 
 Derogations from Article 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]1.
+[^c-7b5b27c9f52999122114b27d36990c93]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5b27c9f52999122114b27d36990c93]2.
+[^c-7b5b27c9f52999122114b27d36990c93]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b5b27c9f52999122114b27d36990c93]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b5b27c9f52999122114b27d36990c93]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

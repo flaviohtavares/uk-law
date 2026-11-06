@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Implementation strategy: approval[^key-6be3ad9ab97cb6600a9a3777889bf2ad]
+## 26. Implementation strategy: approval[^c-6be3ad9ab97cb6600a9a3777889bf2ad]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Where the trustees of a collective money purchase scheme are required to submit 
 
 ## Annotations
 
-[^key-6be3ad9ab97cb6600a9a3777889bf2ad]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2022/255/regulation/26) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-6be3ad9ab97cb6600a9a3777889bf2ad]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2022/255/regulation/26) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

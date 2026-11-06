@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation defines “**due date**” for the purposes of section 37 (unpaid contributions notices) of the Act.
 
-(2) Subject to paragraphs (3) to (6), “**due date**” means the 22nd[^key-67f9bca73ebc457e80f03d09b1b19235] day of the month following the month during which either—
+(2) Subject to paragraphs (3) to (6), “**due date**” means the 22nd[^c-67f9bca73ebc457e80f03d09b1b19235] day of the month following the month during which either—
 
 - (a) relevant contributions payable to—
   - (i) the trustees or managers of an occupational pension scheme, or
@@ -35,14 +35,14 @@ summary: ''
 
   were due but not made by an employer.
 
-(3)[^key-a2a07dcaf326c7fda8dba03e495420d4] Where a jobholder becomes an active member of a qualifying scheme or a worker is enrolled pursuant to section 9 of the Act in a scheme which meets the requirements of section 9 of the Act, paragraph (2) does not apply in respect of contributions—
+(3)[^c-a2a07dcaf326c7fda8dba03e495420d4] Where a jobholder becomes an active member of a qualifying scheme or a worker is enrolled pursuant to section 9 of the Act in a scheme which meets the requirements of section 9 of the Act, paragraph (2) does not apply in respect of contributions—
 
 - (a) deducted in the 3 month period commencing with the relevant date; or
 - (b) due but not made in the 3 month period commencing with the relevant date,
 
 in which case paragraph (4) applies.
 
-(4) Where this paragraph applies, “**due date**” means the 22nd day of the fourth month after the month which includes the relevant date.[^key-9772dc68e1c584c20d728d694e47559b]
+(4) Where this paragraph applies, “**due date**” means the 22nd day of the fourth month after the month which includes the relevant date.[^c-9772dc68e1c584c20d728d694e47559b]
 
 (5) Paragraphs (2) and (3) do not apply where an employer uses either—
 
@@ -66,19 +66,19 @@ to comply with sections 2 to 9 of the Act, in which case paragraph (6) applies.
 
 - “**direct payment arrangements**” has the meaning given in section 111A of the 1993 Act [^c2019390];
 - “**payment schedule**” has the meaning given in section 87 (schedules of payments to money purchase schemes) of the 1995 Act [^c2019391];
-- “relevant date” means the date from which active membership is effective.[^key-061070d30a561403b74ac94fbe882d4e]
+- “relevant date” means the date from which active membership is effective.[^c-061070d30a561403b74ac94fbe882d4e]
 - “**schedule of contributions**” has the meaning given in section 227(2) of the Pensions Act 2004.
 
 ## Annotations
 
-[^key-67f9bca73ebc457e80f03d09b1b19235]: Textual amendment: Word in reg. 50(2) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [42](https://www.legislation.gov.uk/uksi/2012/215/regulation/42)
+[^c-67f9bca73ebc457e80f03d09b1b19235]: Textual amendment: Word in reg. 50(2) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [42](https://www.legislation.gov.uk/uksi/2012/215/regulation/42)
 
-[^key-a2a07dcaf326c7fda8dba03e495420d4]: Textual amendment: Reg. 50(3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(11)(a)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/11/a)
+[^c-a2a07dcaf326c7fda8dba03e495420d4]: Textual amendment: Reg. 50(3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(11)(a)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/11/a)
 
-[^key-9772dc68e1c584c20d728d694e47559b]: Textual amendment: Words in reg. 50(4) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(11)(b)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/11/b)
+[^c-9772dc68e1c584c20d728d694e47559b]: Textual amendment: Words in reg. 50(4) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(11)(b)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/11/b)
 
 [^c2019390]: Marginal citation: Section 111A was inserted by the Welfare Reform and Pensions Act 1999, section 9 and amended by section 268 of the Pensions Act 2004.
 
 [^c2019391]: Marginal citation: Section 87 of the 1995 Act has been amended but not in a way material to these Regulations.
 
-[^key-061070d30a561403b74ac94fbe882d4e]: Textual amendment: Words in reg. 50(7) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(11)(c)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/11/c)
+[^c-061070d30a561403b74ac94fbe882d4e]: Textual amendment: Words in reg. 50(7) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(11)(c)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/11/c)

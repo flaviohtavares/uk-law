@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 229. Meaning of “associate”[^key-0369d72cb4974916922604475822ffc5]
+## 229. Meaning of “associate”[^c-0369d72cb4974916922604475822ffc5]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0369d72cb4974916922604475822ffc5]: Modification: [S. 229](https://www.legislation.gov.uk/asp/2016/21/section/229) applied (31.5.2021 for specified purposes) by 2004 c. 35, s. 69A(14)(c) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b))
+[^c-0369d72cb4974916922604475822ffc5]: Modification: [S. 229](https://www.legislation.gov.uk/asp/2016/21/section/229) applied (31.5.2021 for specified purposes) by 2004 c. 35, s. 69A(14)(c) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b))

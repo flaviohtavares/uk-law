@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103B. Further power to inspect premises: taxable disposals made at places other than authorised landfill sites[^key-62a7ae71a5139eaf8af4b0a7d95a5cc6]
+## 103B. Further power to inspect premises: taxable disposals made at places other than authorised landfill sites[^c-62a7ae71a5139eaf8af4b0a7d95a5cc6]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62a7ae71a5139eaf8af4b0a7d95a5cc6]: Textual amendment: Ss. 103A, 103B inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 59(1)](https://www.legislation.gov.uk/anaw/2017/3/section/59/1), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(s)](https://www.legislation.gov.uk/wsi/2018/35/article/2/s)
+[^c-62a7ae71a5139eaf8af4b0a7d95a5cc6]: Textual amendment: Ss. 103A, 103B inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 59(1)](https://www.legislation.gov.uk/anaw/2017/3/section/59/1), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(s)](https://www.legislation.gov.uk/wsi/2018/35/article/2/s)

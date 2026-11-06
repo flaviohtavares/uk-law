@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17E. Personal medical or dental services: regulations.[^c14161421][^key-046ff196cf20fcbfdda9dbc11f657411]
+## 17E. Personal medical or dental services: regulations.[^c14161421][^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -82,7 +82,7 @@ In paragraph (b) “**practitioner**” does not include a practitioner who is u
 
 [^c14161421]: Textual amendment: S. 17E inserted (5.3.2001 for certain purposes, otherwise prosp.) by [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/1997/46/section/22/2), [41(3)](https://www.legislation.gov.uk/ukpga/1997/46/section/41/3) (as amended by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (S.I. 2003/1250)](https://www.legislation.gov.uk/uksi/2003/1250), [art. 31(5)](https://www.legislation.gov.uk/uksi/2003/1250/article/31/5), [Sch. 9 para. 6(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1250/schedule/9/paragraph/6/c/ii) (coming into force in accordance with art. 1(2)(3) of the amending S.I.); [S.S.I. 2001/58](https://www.legislation.gov.uk/ssi/2001/58), [art. 2](https://www.legislation.gov.uk/ssi/2001/58/article/2)
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c20947371]: Textual amendment: Words in s. 17E(2)(b) repealed (13.2.2004 for certain purposes, otherwise 1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [ss. 2(4)(a)](https://www.legislation.gov.uk/asp/2004/1/section/2/4/a), [9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1/3), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule)
 

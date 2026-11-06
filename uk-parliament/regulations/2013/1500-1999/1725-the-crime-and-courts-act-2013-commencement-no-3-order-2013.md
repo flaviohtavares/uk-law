@@ -47,11 +47,11 @@ Made
 
 The Lord Chancellor makes the following Order in exercise of the powers conferred by section 61(3) of the Crime and Courts Act 2013[^f00001].
 
-## 1. Citation[^key-792e900acc02f723bb4f5ed51a9cb6a1]
+## 1. Citation[^c-792e900acc02f723bb4f5ed51a9cb6a1]
 
 This Order may be cited as the Crime and Courts Act 2013 (Commencement No. 3) Order 2013.
 
-## 2. Provisions coming into force on 15<sup>th</sup> July 2013[^key-55d02fcd8ab3e5e063a18062ba1628d4]
+## 2. Provisions coming into force on 15<sup>th</sup> July 2013[^c-55d02fcd8ab3e5e063a18062ba1628d4]
 
 The following provisions of the Crime and Courts Act 2013 come into force on 15<sup>th</sup> July 2013—
 
@@ -63,12 +63,12 @@ The following provisions of the Crime and Courts Act 2013 come into force on 15<
 - (f) section 32; and
 - (g) Parts 2, 6 and 7 of Schedule 13.
 
-## 3. Provisions coming into force on 1<sup>st</sup> October 2013[^key-a05c94517096ddf5bd6ee438ee455f2b]
+## 3. Provisions coming into force on 1<sup>st</sup> October 2013[^c-a05c94517096ddf5bd6ee438ee455f2b]
 
 The following provisions of the Crime and Courts Act 2013 come into force on 1<sup>st</sup> October 2013—
 
 - (a) section 17(5), for the purposes of the commencement of paragraphs 21 (except for sub-paragraph (3)), 27 and 30 of Schedule 9;
-- (b) [^key-fd42daac744bc5c9200553756b300bad]...; and
+- (b) [^c-fd42daac744bc5c9200553756b300bad]...; and
 - (c) paragraphs 21 (except for sub-paragraph (3)), 27 and 30 of Schedule 9.
 
 Signed by the authority of the Lord Chancellor
@@ -186,12 +186,12 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-792e900acc02f723bb4f5ed51a9cb6a1]: Commencement: Art. 1 in force at made date
+[^c-792e900acc02f723bb4f5ed51a9cb6a1]: Commencement: Art. 1 in force at made date
 
-[^key-55d02fcd8ab3e5e063a18062ba1628d4]: Commencement: Art. 2 in force at made date
+[^c-55d02fcd8ab3e5e063a18062ba1628d4]: Commencement: Art. 2 in force at made date
 
-[^key-a05c94517096ddf5bd6ee438ee455f2b]: Commencement: Art. 3 in force at made date
+[^c-a05c94517096ddf5bd6ee438ee455f2b]: Commencement: Art. 3 in force at made date
 
-[^key-fd42daac744bc5c9200553756b300bad]: Textual amendment: [Art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/b) omitted (4.9.2013) by virtue of [The Crime and Courts Act 2013 (Commencement No. 4) Order 2013 (S.I. 2013/2200)](https://www.legislation.gov.uk/uksi/2013/2200), [art. 6](https://www.legislation.gov.uk/uksi/2013/2200/article/6)
+[^c-fd42daac744bc5c9200553756b300bad]: Textual amendment: [Art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/b) omitted (4.9.2013) by virtue of [The Crime and Courts Act 2013 (Commencement No. 4) Order 2013 (S.I. 2013/2200)](https://www.legislation.gov.uk/uksi/2013/2200), [art. 6](https://www.legislation.gov.uk/uksi/2013/2200/article/6)
 
 [^f00002]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15)

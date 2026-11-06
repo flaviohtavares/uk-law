@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Review of crofting legislation[^key-e075915e2f72f325f5c6d8a19048a371]
+## 54. Review of crofting legislation[^c-e075915e2f72f325f5c6d8a19048a371]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e075915e2f72f325f5c6d8a19048a371]: Commencement: S. 54 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-e075915e2f72f325f5c6d8a19048a371]: Commencement: S. 54 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

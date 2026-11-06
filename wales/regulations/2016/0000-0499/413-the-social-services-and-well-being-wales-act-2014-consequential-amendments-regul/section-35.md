@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**35.**[^key-501424ea6ecc7ad0c7b2416f4d04ce4e] The Mental Health Act 1983 is amended as follows.
+**35.**[^c-501424ea6ecc7ad0c7b2416f4d04ce4e] The Mental Health Act 1983 is amended as follows.
 
 ## Annotations
 
-[^key-501424ea6ecc7ad0c7b2416f4d04ce4e]: Commencement: Reg. 35 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-501424ea6ecc7ad0c7b2416f4d04ce4e]: Commencement: Reg. 35 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

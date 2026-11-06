@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23E. Tax treatment of relevant benefits[^key-19540c8d00ce7ccf2a4ae8f7ea7ea366][^key-37c28c4d303299186e5b2e01ac3ee4f3][^key-f01497ad23bc47632e3125d8ea07029d][^key-adaca3bc81df8349cd8f1168a127458b]
+## 23E. Tax treatment of relevant benefits[^c-19540c8d00ce7ccf2a4ae8f7ea7ea366][^c-37c28c4d303299186e5b2e01ac3ee4f3][^c-f01497ad23bc47632e3125d8ea07029d][^c-adaca3bc81df8349cd8f1168a127458b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-19540c8d00ce7ccf2a4ae8f7ea7ea366]: Modification: S. 23E modified by 2017 c. 32, Sch. 12 para. 1(3A)-(3G) (as inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(5)(c)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/5/c))
+[^c-19540c8d00ce7ccf2a4ae8f7ea7ea366]: Modification: S. 23E modified by 2017 c. 32, Sch. 12 para. 1(3A)-(3G) (as inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(5)(c)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/5/c))
 
-[^key-37c28c4d303299186e5b2e01ac3ee4f3]: Modification: S. 23E modified (16.11.2017) (with effect in accordance with s. 35(4) of the amending Act) by Finance (No. 2) Act 2017 (c. 32), Sch. 12 para. 1(3) (as amended (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(5)(b)(i))](https://www.legislation.gov.uk/ukpga/2020/14/section/16/5/b/i)
+[^c-37c28c4d303299186e5b2e01ac3ee4f3]: Modification: S. 23E modified (16.11.2017) (with effect in accordance with s. 35(4) of the amending Act) by Finance (No. 2) Act 2017 (c. 32), Sch. 12 para. 1(3) (as amended (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(5)(b)(i))](https://www.legislation.gov.uk/ukpga/2020/14/section/16/5/b/i)
 
-[^key-f01497ad23bc47632e3125d8ea07029d]: Modification: Ss. 23A-23H modified (16.11.2017) (with application in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 12 para. 1(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/12/paragraph/1/1) (as amended (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(5)(a))](https://www.legislation.gov.uk/ukpga/2020/14/section/16/5/a)
+[^c-f01497ad23bc47632e3125d8ea07029d]: Modification: Ss. 23A-23H modified (16.11.2017) (with application in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 12 para. 1(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/12/paragraph/1/1) (as amended (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(5)(a))](https://www.legislation.gov.uk/ukpga/2020/14/section/16/5/a)
 
-[^key-adaca3bc81df8349cd8f1168a127458b]: Textual amendment: Ss. 23A-23H and cross-heading inserted (16.11.2017) (with effect in accordance with s. 35(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/35/2)
+[^c-adaca3bc81df8349cd8f1168a127458b]: Textual amendment: Ss. 23A-23H and cross-heading inserted (16.11.2017) (with effect in accordance with s. 35(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/35/2)

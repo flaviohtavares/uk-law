@@ -30,7 +30,7 @@ summary: ''
 (3) “**Assured tenancy**” means—
 
 - (a) an assured tenancy within the meaning of section 56 of the Housing Act 1980 (c. 51), or
-- (b) an assured tenancy (but not an assured shorthold tenancy) *(affected by repeal, see note)*[^key-7e15c968c9e0104a2b4d2ecc94e49c8f] for the purposes of the Housing Act 1988 (c. 50).
+- (b) an assured tenancy (but not an assured shorthold tenancy) *(affected by repeal, see note)*[^c-7e15c968c9e0104a2b4d2ecc94e49c8f] for the purposes of the Housing Act 1988 (c. 50).
 
 (4) The conditions referred to in subsection (2)(b) are that—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e15c968c9e0104a2b4d2ecc94e49c8f]: Textual amendment: Words in s. 490(3)(b) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/56) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-7e15c968c9e0104a2b4d2ecc94e49c8f]: Textual amendment: Words in s. 490(3)(b) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/56) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)

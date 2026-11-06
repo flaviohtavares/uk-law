@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Notification by energy administrator of court order[^key-58fc4dec00fa95cdd89c8574a43b5e33]
+## 77. Notification by energy administrator of court order[^c-58fc4dec00fa95cdd89c8574a43b5e33]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58fc4dec00fa95cdd89c8574a43b5e33]: Commencement: Rule 77 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-58fc4dec00fa95cdd89c8574a43b5e33]: Commencement: Rule 77 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

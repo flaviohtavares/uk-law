@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Defence in proceedings for an offence contravening these Regulations[^key-17f1db18aac4aaac1534bee04764bd8c]
+## 11. Defence in proceedings for an offence contravening these Regulations[^c-17f1db18aac4aaac1534bee04764bd8c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ It shall be a defence in proceedings against any person for an offence under the
 
 ## Annotations
 
-[^key-17f1db18aac4aaac1534bee04764bd8c]: Commencement: Reg. 11 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-17f1db18aac4aaac1534bee04764bd8c]: Commencement: Reg. 11 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Codes of conduct[^key-de7ddba401e656cf9239e57285ebe947][^key-f472671bbf0df6a78e59cdec2f232838]
+## 28. Codes of conduct[^c-de7ddba401e656cf9239e57285ebe947][^c-f472671bbf0df6a78e59cdec2f232838]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ summary: ''
 - (a) whether to take action in relation to the member or co-opted member, and
 - (b) what action to take.
 
-(11A)[^key-1d896623a16daa3213b09c5674a69db9] Subsections (11B) to (11D) apply if a police and crime commissioner is a member or co-opted member of a relevant authority in the commissioner's capacity as such.
+(11A)[^c-1d896623a16daa3213b09c5674a69db9] Subsections (11B) to (11D) apply if a police and crime commissioner is a member or co-opted member of a relevant authority in the commissioner's capacity as such.
 
 (11B) Arrangements put in place under subsection (6)(b) by the relevant authority must include provision for an allegation against the commissioner to be referred to the police and crime panel for the commissioner's police area.
 
@@ -115,8 +115,8 @@ summary: ''
 
 ## Annotations
 
-[^key-de7ddba401e656cf9239e57285ebe947]: Commencement: S. 28 in force at 7.6.2012 for specified purposes by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/b)
+[^c-de7ddba401e656cf9239e57285ebe947]: Commencement: S. 28 in force at 7.6.2012 for specified purposes by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/b)
 
-[^key-f472671bbf0df6a78e59cdec2f232838]: Commencement: S. 28 in force at 1.7.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
+[^c-f472671bbf0df6a78e59cdec2f232838]: Commencement: S. 28 in force at 1.7.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
 
-[^key-1d896623a16daa3213b09c5674a69db9]: Textual amendment: S. 28(11A)-(11D) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(15)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/15), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/3)
+[^c-1d896623a16daa3213b09c5674a69db9]: Textual amendment: S. 28(11A)-(11D) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(15)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/15), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/3)

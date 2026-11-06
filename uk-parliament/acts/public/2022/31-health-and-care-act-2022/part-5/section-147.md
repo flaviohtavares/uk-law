@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Virginity testing offences in Northern Ireland: penalties[^key-d99e01473111bfafecc298d57e929014][^key-0cbb998e933982da42e7ed8f3d9d5e18]
+## 147. Virginity testing offences in Northern Ireland: penalties[^c-d99e01473111bfafecc298d57e929014][^c-0cbb998e933982da42e7ed8f3d9d5e18]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ A person who commits an offence under section 144, 145 or 146 is liable—
 
 ## Annotations
 
-[^key-d99e01473111bfafecc298d57e929014]: Commencement: S. 147 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d99e01473111bfafecc298d57e929014]: Commencement: S. 147 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0cbb998e933982da42e7ed8f3d9d5e18]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2022/31/section/147) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0cbb998e933982da42e7ed8f3d9d5e18]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2022/31/section/147) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

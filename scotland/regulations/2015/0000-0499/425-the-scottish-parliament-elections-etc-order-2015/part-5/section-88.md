@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Interference with notices etc.[^key-5b2549c009ee326129bc9ff5cfaf9ba8]
+## 88. Interference with notices etc.[^c-5b2549c009ee326129bc9ff5cfaf9ba8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If any person without lawful authority destroys, mutilates, defaces or removes a
 
 ## Annotations
 
-[^key-5b2549c009ee326129bc9ff5cfaf9ba8]: Commencement: Art. 88 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5b2549c009ee326129bc9ff5cfaf9ba8]: Commencement: Art. 88 in force at 16.12.2015 in accordance with art. 1(1)

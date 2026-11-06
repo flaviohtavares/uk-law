@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Blasting materials and devices.[^key-97f9b7453999b41a71a8594f78fcca09]
+## 69. Blasting materials and devices.[^c-97f9b7453999b41a71a8594f78fcca09]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97f9b7453999b41a71a8594f78fcca09]: Textual amendment: [S. 69](https://www.legislation.gov.uk/apni/1969/6/section/69) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-97f9b7453999b41a71a8594f78fcca09]: Textual amendment: [S. 69](https://www.legislation.gov.uk/apni/1969/6/section/69) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

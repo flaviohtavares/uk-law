@@ -22,8 +22,8 @@ summary: ''
 
 (1) This section applies where—
 
-- (a) a person who is entitled to occupy a dwelling house by virtue of a beneficial estate or interest is made[^key-96ccbb8ac6303ff233feab2c7866c711] bankrupt, and
-- (b) any persons under the age of 18 with whom that person had at some time occupied that dwelling house had their home with that person at the time when the bankruptcy application was made or (as the case may be) the[^key-c08c91d265fcdcf7075257e168f544db] bankruptcy petition was presented and at the commencement of the bankruptcy.
+- (a) a person who is entitled to occupy a dwelling house by virtue of a beneficial estate or interest is made[^c-96ccbb8ac6303ff233feab2c7866c711] bankrupt, and
+- (b) any persons under the age of 18 with whom that person had at some time occupied that dwelling house had their home with that person at the time when the bankruptcy application was made or (as the case may be) the[^c-c08c91d265fcdcf7075257e168f544db] bankruptcy petition was presented and at the commencement of the bankruptcy.
 
 (2) Whether or not the bankrupt’s spouse or civil partner (if any) has home rights[^c18979491] under Part IV of the Family Law Act 1996[^c15580361]—
 
@@ -46,9 +46,9 @@ summary: ''
 
 ## Annotations
 
-[^key-96ccbb8ac6303ff233feab2c7866c711]: Textual amendment: Word in s. 337(1)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 30(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/30/a); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-96ccbb8ac6303ff233feab2c7866c711]: Textual amendment: Word in s. 337(1)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 30(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/30/a); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-c08c91d265fcdcf7075257e168f544db]: Textual amendment: Words in s. 337(1)(b) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 30(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/30/b); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-c08c91d265fcdcf7075257e168f544db]: Textual amendment: Words in s. 337(1)(b) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 30(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/30/b); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c18979491]: Textual amendment: Words in s. 337(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 82](https://www.legislation.gov.uk/ukpga/2004/33/section/82), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 9 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/9/paragraph/22/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 

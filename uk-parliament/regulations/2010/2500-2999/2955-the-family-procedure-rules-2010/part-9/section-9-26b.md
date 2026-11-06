@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9.26B. Adding or removing parties[^key-81dfaf5628794b0e65d2f4b63984218d]
+## 9.26B. Adding or removing parties[^c-81dfaf5628794b0e65d2f4b63984218d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81dfaf5628794b0e65d2f4b63984218d]: Textual amendment: Rule 9.26B inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [18](https://www.legislation.gov.uk/uksi/2012/679/rule/18) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
+[^c-81dfaf5628794b0e65d2f4b63984218d]: Textual amendment: Rule 9.26B inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [18](https://www.legislation.gov.uk/uksi/2012/679/rule/18) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))

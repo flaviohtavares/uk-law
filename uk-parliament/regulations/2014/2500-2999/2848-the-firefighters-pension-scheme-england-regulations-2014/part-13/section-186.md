@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Transitional provisions[^key-d52756fa48e135df64942884310234c6]
+## 186. Transitional provisions[^c-d52756fa48e135df64942884310234c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-d52756fa48e135df64942884310234c6]: Commencement: [Reg. 186](https://www.legislation.gov.uk/uksi/2014/2848/regulation/186) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-d52756fa48e135df64942884310234c6]: Commencement: [Reg. 186](https://www.legislation.gov.uk/uksi/2014/2848/regulation/186) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

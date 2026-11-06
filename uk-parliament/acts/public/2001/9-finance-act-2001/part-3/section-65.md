@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Energy-saving plant and machinery[^key-25f10236e6e7eabc4f51c2f7adcb6ef3]
+## 65. Energy-saving plant and machinery[^c-25f10236e6e7eabc4f51c2f7adcb6ef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25f10236e6e7eabc4f51c2f7adcb6ef3]: Textual amendment: [S. 65](https://www.legislation.gov.uk/ukpga/2001/9/section/65) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/i)
+[^c-25f10236e6e7eabc4f51c2f7adcb6ef3]: Textual amendment: [S. 65](https://www.legislation.gov.uk/ukpga/2001/9/section/65) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/i)

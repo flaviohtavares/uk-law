@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Power to require application-to-acceptance information[^key-4b5db5c089c31fbd40181a5e5431ed37][^key-fbc26b3c3cd8cdf49fb478d807c22ed5]
+## 133. Power to require application-to-acceptance information[^c-4b5db5c089c31fbd40181a5e5431ed37][^c-fbc26b3c3cd8cdf49fb478d807c22ed5]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b5db5c089c31fbd40181a5e5431ed37]: Commencement: S. 133 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-4b5db5c089c31fbd40181a5e5431ed37]: Commencement: S. 133 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-fbc26b3c3cd8cdf49fb478d807c22ed5]: Commencement: [S. 133](https://www.legislation.gov.uk/asc/2022/1/section/133) in force at 1.8.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 22(a)](https://www.legislation.gov.uk/wsi/2026/62/article/22/a)
+[^c-fbc26b3c3cd8cdf49fb478d807c22ed5]: Commencement: [S. 133](https://www.legislation.gov.uk/asc/2022/1/section/133) in force at 1.8.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 22(a)](https://www.legislation.gov.uk/wsi/2026/62/article/22/a)

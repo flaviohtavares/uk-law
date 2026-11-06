@@ -33,7 +33,7 @@ summary: ''
 - (a) that a marriage was at its inception void;
 - (b)[^c13387731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Nothing in this section shall effect the powers of any court to make a nullity of marriage order[^key-d9aad2a197a015b631b0edb2ef7765d3].
+(6) Nothing in this section shall effect the powers of any court to make a nullity of marriage order[^c-d9aad2a197a015b631b0edb2ef7765d3].
 
 ## Annotations
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c13387731]: Textual amendment: [S. 58(5)(b)](https://www.legislation.gov.uk/ukpga/1986/55/section/58/5/b) repealed (1.4.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 83(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/3), [85](https://www.legislation.gov.uk/ukpga/2000/19/section/85), [Sch. 9 Pt. IX](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/IX) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/774](https://www.legislation.gov.uk/uksi/2001/774), [art. 2(b)-(d)](https://www.legislation.gov.uk/uksi/2001/774/article/2/b)
 
-[^key-d9aad2a197a015b631b0edb2ef7765d3]: Textual amendment: Words in [s. 58(6)](https://www.legislation.gov.uk/ukpga/1986/55/section/58/6) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 51(6)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/51/6) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/6)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-d9aad2a197a015b631b0edb2ef7765d3]: Textual amendment: Words in [s. 58(6)](https://www.legislation.gov.uk/ukpga/1986/55/section/58/6) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 51(6)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/51/6) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/6)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

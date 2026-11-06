@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Emergency remedial action[^key-34b8277992c2822cb171c85b1b4fd433][^key-398cd6d3b7f55bffb0bc824ed6e78e1b]
+## 32. Emergency remedial action[^c-34b8277992c2822cb171c85b1b4fd433][^c-398cd6d3b7f55bffb0bc824ed6e78e1b]
 
 *Extent: E+W*
 
@@ -205,6 +205,6 @@ After section 225 of the Housing and Regeneration Act 2008 insert—
 
 ## Annotations
 
-[^key-34b8277992c2822cb171c85b1b4fd433]: Commencement: S. 32 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-34b8277992c2822cb171c85b1b4fd433]: Commencement: S. 32 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-398cd6d3b7f55bffb0bc824ed6e78e1b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/36/section/32) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/s)
+[^c-398cd6d3b7f55bffb0bc824ed6e78e1b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/36/section/32) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/s)

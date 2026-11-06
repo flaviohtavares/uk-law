@@ -45,7 +45,7 @@ The Welsh Ministers are satisfied, in accordance with section 66 of the 2008 Act
 
 A draft of these Regulations has been laid before, and approved by a resolution of, the National Assembly for Wales in accordance with section 62 of the 2008 Act.
 
-## 1. Title, application and commencement[^key-54ab0c58309c044b468db74b4f25eb96][^key-8d757b1d2ff3f85cdeeed2feb9bfc930][^key-4e966bd4a9ac8207b3655e6e12dd7c11]
+## 1. Title, application and commencement[^c-54ab0c58309c044b468db74b4f25eb96][^c-8d757b1d2ff3f85cdeeed2feb9bfc930][^c-4e966bd4a9ac8207b3655e6e12dd7c11]
 
 (1) The title of these Regulations is the Water Resources (Control of Pollution) (Oil Storage) (Wales) Regulations 2016.
 
@@ -62,7 +62,7 @@ A draft of these Regulations has been laid before, and approved by a resolution 
   - (i) less than 10 metres away from any inland freshwaters or coastal waters; or
   - (ii) less than 50 metres away from a well or borehole.
 
-## 2. Interpretation[^key-65c165af291baff5e8e7da581d4a8a45][^key-6f37501c391ebe1e53017a2b76d2581d][^key-e3186f94bbbbb853ffd35b3b71797621]
+## 2. Interpretation[^c-65c165af291baff5e8e7da581d4a8a45][^c-6f37501c391ebe1e53017a2b76d2581d][^c-e3186f94bbbbb853ffd35b3b71797621]
 
 In these Regulations—
 
@@ -74,7 +74,7 @@ In these Regulations—
 - “secondary containment system” (“*system atal eilaidd*”) means a drip tray, an area surrounded by a bund or catchpit, or any other system for preventing oil which is no longer in its container from escaping from the place where it is stored;
 - “small bore suction pipe” (“*sugnbibell ceudod bychan*”) means a suction pipe with a diameter of less than 8 millimetres.
 
-## 3. Scope of Regulations[^key-aaac6489421663c59f406c34286e037e][^key-8a16f9bdec74635b3edf164d382ca325][^key-138c35b90b26a1a5c5971869d653ccdb]
+## 3. Scope of Regulations[^c-aaac6489421663c59f406c34286e037e][^c-8a16f9bdec74635b3edf164d382ca325][^c-138c35b90b26a1a5c5971869d653ccdb]
 
 (1) Subject to paragraphs (2) to (4), these Regulations apply in any case where oil is stored.
 
@@ -83,7 +83,7 @@ In these Regulations—
 - (a) which has a storage capacity of 200 litres or less; or
 - (b) which is situated wholly underground (unless that container is situated within a building).
 
-(3) These Regulations do not apply in a case where the storage of oil is subject to an environmental permit within the meaning of regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016[^key-c50e822428e8836246bcf0f33bbef4b3].
+(3) These Regulations do not apply in a case where the storage of oil is subject to an environmental permit within the meaning of regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016[^c-c50e822428e8836246bcf0f33bbef4b3].
 
 (4) These Regulations do not apply in a case where oil is stored on premises which are—
 
@@ -91,7 +91,7 @@ In these Regulations—
 - (b) used as an oil distribution depot; or
 - (c) used for refining oil.
 
-## 4. Requirements in relation to oil storage containers[^key-4184818344d39b4411672e4cb1d4ba92][^key-46a248537abafb4ef9dc1f5d046b33f9][^key-60674f82750719577bf0ad2b24d1c1f2]
+## 4. Requirements in relation to oil storage containers[^c-4184818344d39b4411672e4cb1d4ba92][^c-46a248537abafb4ef9dc1f5d046b33f9][^c-60674f82750719577bf0ad2b24d1c1f2]
 
 A person who has custody or control of oil must ensure that the oil is stored in a container which—
 
@@ -99,7 +99,7 @@ A person who has custody or control of oil must ensure that the oil is stored in
 - (b) has been installed without adversely affecting that strength and structural integrity; and
 - (c) is situated within a secondary containment system in relation to which the requirements of regulation 5 are satisfied.
 
-## 5. Requirements in relation to secondary containment systems[^key-00aed45ae56ca1e43e5b0482ac5672b7][^key-5644678c9f51329fcd19d29fc01ca20a][^key-1ba9f6f50a81e01de578140087cf9d59]
+## 5. Requirements in relation to secondary containment systems[^c-00aed45ae56ca1e43e5b0482ac5672b7][^c-5644678c9f51329fcd19d29fc01ca20a][^c-1ba9f6f50a81e01de578140087cf9d59]
 
 (1) A person who has custody or control of any oil must ensure that the requirements of this regulation are complied with.
 
@@ -132,7 +132,7 @@ whichever is the greater.
 
 (9) If the connection point to a fill pipe is not within the secondary containment system, a drip tray must be used to catch any oil spilled when the container is being filled with oil.
 
-## 6. Requirements in relation to fixed tanks[^key-dfd9068e4318d98abcbc145dd1fc35f9][^key-368c202228251fafcefe2f5a2c0eec91][^key-785dd6a13990610999202c006bd7256a]
+## 6. Requirements in relation to fixed tanks[^c-dfd9068e4318d98abcbc145dd1fc35f9][^c-368c202228251fafcefe2f5a2c0eec91][^c-785dd6a13990610999202c006bd7256a]
 
 (1) A person who has custody or control of any oil must ensure that the requirements of this regulation are complied with.
 
@@ -176,7 +176,7 @@ whichever is the greater.
 - (b) be arranged so that any oil discharged from the tank other than to its intended destination is contained within the system; and
 - (c) (in the case of a tap or valve), be fitted with a lock and locked shut when not in use.
 
-## 7. Requirements in relation to underground pipes associated with fixed tanks[^key-ebf79cdbeedde33c5468e39c916b531a][^key-4ca27462c1db18a42f698da2cba8596e][^key-01b9edce6db62ae1309959a0de86ee39]
+## 7. Requirements in relation to underground pipes associated with fixed tanks[^c-ebf79cdbeedde33c5468e39c916b531a][^c-4ca27462c1db18a42f698da2cba8596e][^c-01b9edce6db62ae1309959a0de86ee39]
 
 (1) A person who has custody or control of any oil must ensure that the requirements of this regulation are complied with.
 
@@ -206,7 +206,7 @@ must be tested within 1 year of that date and thereafter, if it has mechanical j
 
 must be tested, if it has mechanical joints, at least once every 5 years after the date of the last test or, in any other case, at least once every 10 years after the date of the last test.
 
-## 8. Mobile bowsers[^key-bb2a0c0f16dd35ee53f8fa3d13b93f78][^key-1c1f7226f27d871305dbc933b6b0b548][^key-731f80babd0441fbd1baa7fc2c499866]
+## 8. Mobile bowsers[^c-bb2a0c0f16dd35ee53f8fa3d13b93f78][^c-1c1f7226f27d871305dbc933b6b0b548][^c-731f80babd0441fbd1baa7fc2c499866]
 
 (1) A person who has custody or control of any oil must ensure that the requirements of this regulation are complied with.
 
@@ -224,13 +224,13 @@ must be tested, if it has mechanical joints, at least once every 5 years after t
 
 (5) Any sight gauge must be adequately secured to the mobile bowser and be fitted with a valve or tap which must be locked shut when not in use.
 
-## 9. Offence[^key-229c7dedaf95885c471c6ab359c98d6d][^key-067635c84c69a8a410047a042ef99a02][^key-36e2c7300f231770a99f3ea62ab84c88]
+## 9. Offence[^c-229c7dedaf95885c471c6ab359c98d6d][^c-067635c84c69a8a410047a042ef99a02][^c-36e2c7300f231770a99f3ea62ab84c88]
 
 (1) A person who contravenes regulations 4, 5(1), 6(1), 7(1) or 8(1) is guilty of an offence.
 
 (2) A person guilty of the offence in paragraph (1) is liable, on summary conviction or on conviction on indictment, to a fine.
 
-## 10. Civil Sanctions[^key-4e74afc5bbe0c94bfae28e9a729e7b58][^key-a9cfd7cddb42f91cdc14d042e29b3427][^key-2de2504a875eaf070b0928e75f4035ce]
+## 10. Civil Sanctions[^c-4e74afc5bbe0c94bfae28e9a729e7b58][^c-a9cfd7cddb42f91cdc14d042e29b3427][^c-2de2504a875eaf070b0928e75f4035ce]
 
 (1) The Natural Resources Body for Wales may—
 
@@ -246,11 +246,11 @@ in relation to the offence in regulation 9(1).
 
 (3) The provisions of the Environmental Civil Sanctions (Wales) Order 2010[^f00004] apply in relation to the sanctions mentioned in paragraph (1).
 
-## 11. Enforcement[^key-7297c558d5562452dcb590925e0d0093][^key-04da6017b59e28551873a98a213285d5][^key-7a0b9c3e16cae13647f4e638bd40bcc1]
+## 11. Enforcement[^c-7297c558d5562452dcb590925e0d0093][^c-04da6017b59e28551873a98a213285d5][^c-7a0b9c3e16cae13647f4e638bd40bcc1]
 
 These Regulations may be enforced by the Natural Resources Body for Wales.
 
-## 12. Amendment of the Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (Wales) Regulations 2010[^key-16f4646de628d48b63be324ae1873296][^key-3e430ff6921778a2c0114d53f293bb5d][^key-cc0a8d61ea6470f72f9fbe709b0e0645]
+## 12. Amendment of the Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (Wales) Regulations 2010[^c-16f4646de628d48b63be324ae1873296][^c-3e430ff6921778a2c0114d53f293bb5d][^c-cc0a8d61ea6470f72f9fbe709b0e0645]
 
 (1) The Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (Wales) Regulations 2010[^f00005] are amended in accordance with paragraphs (2) to (11).
 
@@ -318,80 +318,80 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2008 c.13](https://www.legislation.gov.uk/ukpga/2008/13).
 
-[^key-54ab0c58309c044b468db74b4f25eb96]: Commencement: Reg. 1 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-54ab0c58309c044b468db74b4f25eb96]: Commencement: Reg. 1 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-8d757b1d2ff3f85cdeeed2feb9bfc930]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/359/regulation/1) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-8d757b1d2ff3f85cdeeed2feb9bfc930]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/359/regulation/1) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-4e966bd4a9ac8207b3655e6e12dd7c11]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/359/regulation/1) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-4e966bd4a9ac8207b3655e6e12dd7c11]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/359/regulation/1) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-65c165af291baff5e8e7da581d4a8a45]: Commencement: Reg. 2 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-65c165af291baff5e8e7da581d4a8a45]: Commencement: Reg. 2 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-6f37501c391ebe1e53017a2b76d2581d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/359/regulation/2) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-6f37501c391ebe1e53017a2b76d2581d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/359/regulation/2) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-e3186f94bbbbb853ffd35b3b71797621]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/359/regulation/2) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-e3186f94bbbbb853ffd35b3b71797621]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/359/regulation/2) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-aaac6489421663c59f406c34286e037e]: Commencement: Reg. 3 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-aaac6489421663c59f406c34286e037e]: Commencement: Reg. 3 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-8a16f9bdec74635b3edf164d382ca325]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/359/regulation/3) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-8a16f9bdec74635b3edf164d382ca325]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/359/regulation/3) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-138c35b90b26a1a5c5971869d653ccdb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/359/regulation/3) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-138c35b90b26a1a5c5971869d653ccdb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/359/regulation/3) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-c50e822428e8836246bcf0f33bbef4b3]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/3/3) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 110(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/110/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-c50e822428e8836246bcf0f33bbef4b3]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/3/3) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 110(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/110/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-4184818344d39b4411672e4cb1d4ba92]: Commencement: Reg. 4 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-4184818344d39b4411672e4cb1d4ba92]: Commencement: Reg. 4 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-46a248537abafb4ef9dc1f5d046b33f9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/359/regulation/4) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-46a248537abafb4ef9dc1f5d046b33f9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/359/regulation/4) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-60674f82750719577bf0ad2b24d1c1f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/359/regulation/4) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-60674f82750719577bf0ad2b24d1c1f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/359/regulation/4) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-00aed45ae56ca1e43e5b0482ac5672b7]: Commencement: Reg. 5 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-00aed45ae56ca1e43e5b0482ac5672b7]: Commencement: Reg. 5 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-5644678c9f51329fcd19d29fc01ca20a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/359/regulation/5) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-5644678c9f51329fcd19d29fc01ca20a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/359/regulation/5) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-1ba9f6f50a81e01de578140087cf9d59]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/359/regulation/5) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-1ba9f6f50a81e01de578140087cf9d59]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/359/regulation/5) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-dfd9068e4318d98abcbc145dd1fc35f9]: Commencement: Reg. 6 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-dfd9068e4318d98abcbc145dd1fc35f9]: Commencement: Reg. 6 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-368c202228251fafcefe2f5a2c0eec91]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/359/regulation/6) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-368c202228251fafcefe2f5a2c0eec91]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/359/regulation/6) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-785dd6a13990610999202c006bd7256a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/359/regulation/6) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-785dd6a13990610999202c006bd7256a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/359/regulation/6) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-ebf79cdbeedde33c5468e39c916b531a]: Commencement: Reg. 7 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-ebf79cdbeedde33c5468e39c916b531a]: Commencement: Reg. 7 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-4ca27462c1db18a42f698da2cba8596e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/359/regulation/7) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-4ca27462c1db18a42f698da2cba8596e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/359/regulation/7) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-01b9edce6db62ae1309959a0de86ee39]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/359/regulation/7) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-01b9edce6db62ae1309959a0de86ee39]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/359/regulation/7) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-bb2a0c0f16dd35ee53f8fa3d13b93f78]: Commencement: Reg. 8 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-bb2a0c0f16dd35ee53f8fa3d13b93f78]: Commencement: Reg. 8 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-1c1f7226f27d871305dbc933b6b0b548]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/359/regulation/8) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-1c1f7226f27d871305dbc933b6b0b548]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/359/regulation/8) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-731f80babd0441fbd1baa7fc2c499866]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/359/regulation/8) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-731f80babd0441fbd1baa7fc2c499866]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/359/regulation/8) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-229c7dedaf95885c471c6ab359c98d6d]: Commencement: Reg. 9 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-229c7dedaf95885c471c6ab359c98d6d]: Commencement: Reg. 9 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-067635c84c69a8a410047a042ef99a02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/359/regulation/9) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-067635c84c69a8a410047a042ef99a02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/359/regulation/9) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-36e2c7300f231770a99f3ea62ab84c88]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/359/regulation/9) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-36e2c7300f231770a99f3ea62ab84c88]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/359/regulation/9) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-4e74afc5bbe0c94bfae28e9a729e7b58]: Commencement: Reg. 10 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-4e74afc5bbe0c94bfae28e9a729e7b58]: Commencement: Reg. 10 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-a9cfd7cddb42f91cdc14d042e29b3427]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/359/regulation/10) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-a9cfd7cddb42f91cdc14d042e29b3427]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/359/regulation/10) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-2de2504a875eaf070b0928e75f4035ce]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/359/regulation/10) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-2de2504a875eaf070b0928e75f4035ce]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/359/regulation/10) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
 [^f00004]: Footnote: [S.I. 2010/1821 (W. 178)](https://www.legislation.gov.uk/wsi/2010/1821).
 
-[^key-7297c558d5562452dcb590925e0d0093]: Commencement: Reg. 11 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-7297c558d5562452dcb590925e0d0093]: Commencement: Reg. 11 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-04da6017b59e28551873a98a213285d5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/359/regulation/11) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-04da6017b59e28551873a98a213285d5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/359/regulation/11) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-7a0b9c3e16cae13647f4e638bd40bcc1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/359/regulation/11) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-7a0b9c3e16cae13647f4e638bd40bcc1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/359/regulation/11) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
-[^key-16f4646de628d48b63be324ae1873296]: Commencement: Reg. 12 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
+[^c-16f4646de628d48b63be324ae1873296]: Commencement: Reg. 12 in force at 15.3.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/3)
 
-[^key-3e430ff6921778a2c0114d53f293bb5d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/359/regulation/12) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
+[^c-3e430ff6921778a2c0114d53f293bb5d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/359/regulation/12) in force at 15.3.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/5)
 
-[^key-cc0a8d61ea6470f72f9fbe709b0e0645]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/359/regulation/12) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
+[^c-cc0a8d61ea6470f72f9fbe709b0e0645]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/359/regulation/12) in force at 15.3.2020 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/359/regulation/1/4)
 
 [^f00005]: Footnote: [S.I. 2010/1493 (W. 136)](https://www.legislation.gov.uk/wsi/2010/1493).

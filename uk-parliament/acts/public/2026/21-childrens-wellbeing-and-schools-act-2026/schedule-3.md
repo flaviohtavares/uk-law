@@ -22,19 +22,19 @@ summary: ''
 
 Section 59
 
-**1.**[^key-be8958f69d372362abd1b30c29d4b0d6] [Part 8](https://www.legislation.gov.uk/ukpga/2002/32/part/8) of the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32/contents) (teachers’ pay and conditions etc) is amended as follows.
+**1.**[^c-be8958f69d372362abd1b30c29d4b0d6] [Part 8](https://www.legislation.gov.uk/ukpga/2002/32/part/8) of the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32/contents) (teachers’ pay and conditions etc) is amended as follows.
 
-**2.**[^key-c25901134ae6d3d7ac109d091b35818c] In [section 120](https://www.legislation.gov.uk/ukpga/2002/32/section/120)[(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/120) (School Teachers’ Review Body function: meaning of school teacher), for the words from “the Secretary of State’s” to the end substitute “section 122 or an Academy teacher for the purposes of section 122A.”
+**2.**[^c-c25901134ae6d3d7ac109d091b35818c] In [section 120](https://www.legislation.gov.uk/ukpga/2002/32/section/120)[(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/120) (School Teachers’ Review Body function: meaning of school teacher), for the words from “the Secretary of State’s” to the end substitute “section 122 or an Academy teacher for the purposes of section 122A.”
 
-**3.**[^key-da062e8e31a2d0507bbba760561af162] In [section 121](https://www.legislation.gov.uk/ukpga/2002/32/section/121)[(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/121) (bodies to be consulted by School Teachers’ Review Body), after [paragraph (b)](https://www.legislation.gov.uk/ukpga/2002/32/section/121) insert—
+**3.**[^c-da062e8e31a2d0507bbba760561af162] In [section 121](https://www.legislation.gov.uk/ukpga/2002/32/section/121)[(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/121) (bodies to be consulted by School Teachers’ Review Body), after [paragraph (b)](https://www.legislation.gov.uk/ukpga/2002/32/section/121) insert—
 
 > - (ba) bodies representing the interests of proprietors of Academies,
 
 .
 
-**4.**[^key-1cfeb1f9928f4c40f386b02f406fb676] In the heading of [section 122](https://www.legislation.gov.uk/ukpga/2002/32/section/122), after “conditions” insert “of school teachers other than Academy teachers”.
+**4.**[^c-1cfeb1f9928f4c40f386b02f406fb676] In the heading of [section 122](https://www.legislation.gov.uk/ukpga/2002/32/section/122), after “conditions” insert “of school teachers other than Academy teachers”.
 
-**5.**[^key-ffb91977c8d06973838a120d12818999][^key-9f8c6af29984a58d714eddb490026801] After [section 122](https://www.legislation.gov.uk/ukpga/2002/32/section/122) insert—
+**5.**[^c-ffb91977c8d06973838a120d12818999][^c-9f8c6af29984a58d714eddb490026801] After [section 122](https://www.legislation.gov.uk/ukpga/2002/32/section/122) insert—
 
 > **122A. Power to set minimum remuneration of Academy teachers etc**
 >
@@ -81,11 +81,11 @@ Section 59
 
 **Not yet in force.**
 
-**6.**[^key-1c944211d0d86c527d31e333108261a7] In section 122A (inserted by paragraph 5), after subsection (10) insert—
+**6.**[^c-1c944211d0d86c527d31e333108261a7] In section 122A (inserted by paragraph 5), after subsection (10) insert—
 
 > (10A) In determining the conditions of employment or service of an Academy teacher, the relevant proprietor must have regard to any provision of an order under section 122 that relates to conditions of employment or service (and must also have regard to guidance under section 127(1) that relates to such conditions).
 
-**7.**[^key-69089ef8845240ffaaa13e730397bfca][^key-98b6c195da92e05bf42fa93a997199a5] In [section 123](https://www.legislation.gov.uk/ukpga/2002/32/section/123) (scope of section 122 orders)—
+**7.**[^c-69089ef8845240ffaaa13e730397bfca][^c-98b6c195da92e05bf42fa93a997199a5] In [section 123](https://www.legislation.gov.uk/ukpga/2002/32/section/123) (scope of section 122 orders)—
 
 - (a) in the heading, after “122” insert “or 122A”;
 - (b) after [subsection (1)](https://www.legislation.gov.uk/ukpga/2002/32/section/123) insert—
@@ -102,11 +102,11 @@ Section 59
 
   > - (d) that a payment or entitlement of a specified kind is or is not to be treated as remuneration for the purpose of section 122A(1).
 
-**8.**[^key-21a0ff513c00b2377b7d6e28d40c73d4][^key-0a52bdc72a7b5214e42620a22b545eef] In [section 124](https://www.legislation.gov.uk/ukpga/2002/32/section/124) (supplementary provision), after “122”, in each place it occurs (including the heading), insert “or 122A”.
+**8.**[^c-21a0ff513c00b2377b7d6e28d40c73d4][^c-0a52bdc72a7b5214e42620a22b545eef] In [section 124](https://www.legislation.gov.uk/ukpga/2002/32/section/124) (supplementary provision), after “122”, in each place it occurs (including the heading), insert “or 122A”.
 
-**9.**[^key-bdac523223f74bd843225e922dcaa712][^key-80f8797313af401265bd3bb36ca9aae2] In [section 125](https://www.legislation.gov.uk/ukpga/2002/32/section/125)[(1)](https://www.legislation.gov.uk/ukpga/2002/32/section/125) (requirement to refer matter before making order), after “122” insert “or 122A”.
+**9.**[^c-bdac523223f74bd843225e922dcaa712][^c-80f8797313af401265bd3bb36ca9aae2] In [section 125](https://www.legislation.gov.uk/ukpga/2002/32/section/125)[(1)](https://www.legislation.gov.uk/ukpga/2002/32/section/125) (requirement to refer matter before making order), after “122” insert “or 122A”.
 
-**10.**[^key-f434164755b767e61002501744ab094d][^key-8de501e19a1be06a9908ca3bb3b3ceec] In [section 126](https://www.legislation.gov.uk/ukpga/2002/32/section/126) (bodies to be consulted by the Secretary of State)—
+**10.**[^c-f434164755b767e61002501744ab094d][^c-8de501e19a1be06a9908ca3bb3b3ceec] In [section 126](https://www.legislation.gov.uk/ukpga/2002/32/section/126) (bodies to be consulted by the Secretary of State)—
 
 - (a) after “122” insert “, 122A”;
 - (b) after [paragraph (b)](https://www.legislation.gov.uk/ukpga/2002/32/section/126) insert—
@@ -115,7 +115,7 @@ Section 59
 
   .
 
-**11.**[^key-81277217b979f8253bbaae261bcc4643] In [section 127](https://www.legislation.gov.uk/ukpga/2002/32/section/127) (guidance issued by the Secretary of State)—
+**11.**[^c-81277217b979f8253bbaae261bcc4643] In [section 127](https://www.legislation.gov.uk/ukpga/2002/32/section/127) (guidance issued by the Secretary of State)—
 
 - (a) after [subsection (2)](https://www.legislation.gov.uk/ukpga/2002/32/section/127) insert—
 
@@ -133,7 +133,7 @@ Section 59
 
     .
 
-**12.**[^key-6086c4074bb54a01fd9f383ac24e3401] After [section 127](https://www.legislation.gov.uk/ukpga/2002/32/section/127) insert—
+**12.**[^c-6086c4074bb54a01fd9f383ac24e3401] After [section 127](https://www.legislation.gov.uk/ukpga/2002/32/section/127) insert—
 
 > **127A. References to “Academy” and “Academy arrangements”**
 >
@@ -144,44 +144,44 @@ Section 59
 >
 > (2) A reference in any of those sections to Academy arrangements includes a reference to an agreement under [section 482](https://www.legislation.gov.uk/ukpga/1996/56/section/482) of the [Education Act 1996](https://www.legislation.gov.uk/ukpga/1996/56/contents) (city colleges).
 
-**13.**[^key-ec035e9df0aa9e52dcea623624ab43ea][^key-33459d81c39be20128eabc080e6d47f3] In [section 210](https://www.legislation.gov.uk/ukpga/2002/32/section/210)[(6)](https://www.legislation.gov.uk/ukpga/2002/32/section/210) (orders not subject to Parliamentary procedure), after “122” insert “or 122A”.
+**13.**[^c-ec035e9df0aa9e52dcea623624ab43ea][^c-33459d81c39be20128eabc080e6d47f3] In [section 210](https://www.legislation.gov.uk/ukpga/2002/32/section/210)[(6)](https://www.legislation.gov.uk/ukpga/2002/32/section/210) (orders not subject to Parliamentary procedure), after “122” insert “or 122A”.
 
 ## Annotations
 
-[^key-be8958f69d372362abd1b30c29d4b0d6]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/1) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-be8958f69d372362abd1b30c29d4b0d6]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/1) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-c25901134ae6d3d7ac109d091b35818c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/2) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-c25901134ae6d3d7ac109d091b35818c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/2) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-da062e8e31a2d0507bbba760561af162]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/3) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-da062e8e31a2d0507bbba760561af162]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/3) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-1cfeb1f9928f4c40f386b02f406fb676]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/4) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-1cfeb1f9928f4c40f386b02f406fb676]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/4) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-ffb91977c8d06973838a120d12818999]: Commencement: Sch. 3 para. 5 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
+[^c-ffb91977c8d06973838a120d12818999]: Commencement: Sch. 3 para. 5 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
 
-[^key-9f8c6af29984a58d714eddb490026801]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/5) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-9f8c6af29984a58d714eddb490026801]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/5) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-1c944211d0d86c527d31e333108261a7]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 78(2)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/5)
+[^c-1c944211d0d86c527d31e333108261a7]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 78(2)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/5)
 
-[^key-69089ef8845240ffaaa13e730397bfca]: Commencement: Sch. 3 para. 7 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
+[^c-69089ef8845240ffaaa13e730397bfca]: Commencement: Sch. 3 para. 7 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
 
-[^key-98b6c195da92e05bf42fa93a997199a5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/7) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-98b6c195da92e05bf42fa93a997199a5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/7) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-21a0ff513c00b2377b7d6e28d40c73d4]: Commencement: Sch. 3 para. 8 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
+[^c-21a0ff513c00b2377b7d6e28d40c73d4]: Commencement: Sch. 3 para. 8 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
 
-[^key-0a52bdc72a7b5214e42620a22b545eef]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/8) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-0a52bdc72a7b5214e42620a22b545eef]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/8) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-bdac523223f74bd843225e922dcaa712]: Commencement: Sch. 3 para. 9 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
+[^c-bdac523223f74bd843225e922dcaa712]: Commencement: Sch. 3 para. 9 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
 
-[^key-80f8797313af401265bd3bb36ca9aae2]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/9) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-80f8797313af401265bd3bb36ca9aae2]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/9) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-f434164755b767e61002501744ab094d]: Commencement: Sch. 3 para. 10 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
+[^c-f434164755b767e61002501744ab094d]: Commencement: Sch. 3 para. 10 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
 
-[^key-8de501e19a1be06a9908ca3bb3b3ceec]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/10) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-8de501e19a1be06a9908ca3bb3b3ceec]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/10) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-81277217b979f8253bbaae261bcc4643]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/11) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-81277217b979f8253bbaae261bcc4643]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/11) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-6086c4074bb54a01fd9f383ac24e3401]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/12) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-6086c4074bb54a01fd9f383ac24e3401]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/12) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
 
-[^key-ec035e9df0aa9e52dcea623624ab43ea]: Commencement: Sch. 3 para. 13 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
+[^c-ec035e9df0aa9e52dcea623624ab43ea]: Commencement: Sch. 3 para. 13 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
 
-[^key-33459d81c39be20128eabc080e6d47f3]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/13) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-33459d81c39be20128eabc080e6d47f3]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/13) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

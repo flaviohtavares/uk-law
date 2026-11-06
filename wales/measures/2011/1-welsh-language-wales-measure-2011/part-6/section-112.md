@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Welsh communications[^key-ec17d8dd8f4567ed60815683128a8841]
+## 112. Welsh communications[^c-ec17d8dd8f4567ed60815683128a8841]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Measure, “**Welsh communication**” means a communication in Welsh be
 
 ## Annotations
 
-[^key-ec17d8dd8f4567ed60815683128a8841]: Commencement: [S. 112](https://www.legislation.gov.uk/mwa/2011/1/section/112) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)
+[^c-ec17d8dd8f4567ed60815683128a8841]: Commencement: [S. 112](https://www.legislation.gov.uk/mwa/2011/1/section/112) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)

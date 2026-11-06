@@ -67,10 +67,10 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation specifies common formats in relation to:
 
-- ((a)) reports from operators and owners of offshore oil and gas installations to the competent authority in accordance with Annex AI[^key-03e979120f5f5bbe0aa835180fef9709];
-- ((b)) publication of information by the competent authority in accordance with Annex AI.[^key-cb32d3aa4e9cf6971a9436849db4063c]
+- ((a)) reports from operators and owners of offshore oil and gas installations to the competent authority in accordance with Annex AI[^c-03e979120f5f5bbe0aa835180fef9709];
+- ((b)) publication of information by the competent authority in accordance with Annex AI.[^c-cb32d3aa4e9cf6971a9436849db4063c]
 
-## Article 1A. Definitions[^key-b2a48552bc69dbd41eb19c5a198bf174]
+## Article 1A. Definitions[^c-b2a48552bc69dbd41eb19c5a198bf174]
 
 In this Regulation—
 
@@ -90,19 +90,19 @@ In this Regulation—
 
 1. Operators and owners of offshore oil and gas installations shall submit the report referred to in Article 1(a) within 10 working days of the event.
 
-2. The reporting period for information referred to in Article 1(b) shall be each year from 1 January until 31 December, starting as of the calendar year 2016. The common publication format shall be used to publish the information required in Annex AI[^key-5087ce6c226e1ce5b20d0b48674d702b] on the website of the competent authority not later than 1 June of the year following the reporting period
+2. The reporting period for information referred to in Article 1(b) shall be each year from 1 January until 31 December, starting as of the calendar year 2016. The common publication format shall be used to publish the information required in Annex AI[^c-5087ce6c226e1ce5b20d0b48674d702b] on the website of the competent authority not later than 1 June of the year following the reporting period
 
 3. The formats set out in Annexes I and II shall be used for the reports and publication referred to in points (a) and (b) of Article 1 respectively.
 
 ## Article 3. Details of information to be shared
 
-Annex I sets out the details of information to be shared in accordance with point 1 of Annex AI[^key-d15dd2e2c46e61db7a4b16ce1eba216c].
+Annex I sets out the details of information to be shared in accordance with point 1 of Annex AI[^c-d15dd2e2c46e61db7a4b16ce1eba216c].
 
-## Article 4. Entry into force[^key-e86465857a44431e632c10d7e8413f81]
+## Article 4. Entry into force[^c-e86465857a44431e632c10d7e8413f81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9fa7922b39f53810c021860137dedbd]...
+[^c-b9fa7922b39f53810c021860137dedbd]...
 
 Done at Brussels, 13 October 2014.
 
@@ -112,7 +112,7 @@ Done at Brussels, 13 October 2014.
 
 José Manuel Barroso
 
-## ANNEX AI — Sharing of information and transparency[^key-c10e45c1c197fc3b41bce646b1bc62ba]
+## ANNEX AI — Sharing of information and transparency[^c-c10e45c1c197fc3b41bce646b1bc62ba]
 
 (1.) The information to be shared by the competent authority and operators and owners shall include information relating to—
 
@@ -138,13 +138,13 @@ José Manuel Barroso
 
 (4.) The information collected and assembled referred to in point 1 shall enable the competent authority to provide advanced warning of potential deterioration of safety and environmentally critical barriers, and shall enable the competent authority to take preventive action. The information shall also demonstrate the overall effectiveness of measures and controls implemented by individual operators and owners, and industry as a whole, in particular to prevent major accidents and to minimise risks for the environment.
 
-## ANNEX I — Common data reporting format for incidents and major accidents in the offshore oil and gas industry — ...[^key-d9c52a27947783232dbf3c083bc1a170]
+## ANNEX I — Common data reporting format for incidents and major accidents in the offshore oil and gas industry — ...[^c-d9c52a27947783232dbf3c083bc1a170]
 
-**[^key-8e5cd007f5657cdf3457d598ae427df2]...**
+**[^c-8e5cd007f5657cdf3457d598ae427df2]...**
 
-- a.. [^key-542f3513490a01e3406eebc494e707ca]...
-- b.. [^key-542f3513490a01e3406eebc494e707ca]...
-- c.. [^key-542f3513490a01e3406eebc494e707ca]...
+- a.. [^c-542f3513490a01e3406eebc494e707ca]...
+- b.. [^c-542f3513490a01e3406eebc494e707ca]...
+- c.. [^c-542f3513490a01e3406eebc494e707ca]...
 
  [^M_F_5488ff49-1fbb-4b35-f60c-8aa8b756c329]
 
@@ -158,7 +158,7 @@ José Manuel Barroso
 
 [image: see source](https://www.legislation.gov.uk/eur/2014/1112/images/eur_20141112_2014-10-13_en_013)[image: see source](https://www.legislation.gov.uk/eur/2014/1112/images/eur_20141112_2014-10-13_en_014)[image: see source](https://www.legislation.gov.uk/eur/2014/1112/images/eur_20141112_2014-10-13_en_015)
 
-## ANNEX II — Common Publication Format — ...[^key-96e81aec0841cf2210c5878d2c0e056c]
+## ANNEX II — Common Publication Format — ...[^c-96e81aec0841cf2210c5878d2c0e056c]
 
  [^M_F_f27d2cab-1440-4226-844c-d4b0971b3bd3]
 
@@ -178,27 +178,27 @@ José Manuel Barroso
 
 [^f00002]: Footnote: Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action I the field of marine environmental policy (Marine Strategy Framework Directive) ([OJ L 164, 25.6.2008, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.164.01.0019.01.ENG)).
 
-[^key-03e979120f5f5bbe0aa835180fef9709]: Textual amendment: Words in Art. 1(a) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03e979120f5f5bbe0aa835180fef9709]: Textual amendment: Words in Art. 1(a) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb32d3aa4e9cf6971a9436849db4063c]: Textual amendment: Words in Art. 1(b) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb32d3aa4e9cf6971a9436849db4063c]: Textual amendment: Words in Art. 1(b) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2a48552bc69dbd41eb19c5a198bf174]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2a48552bc69dbd41eb19c5a198bf174]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5087ce6c226e1ce5b20d0b48674d702b]: Textual amendment: Words in Art. 2(2) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(4)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5087ce6c226e1ce5b20d0b48674d702b]: Textual amendment: Words in Art. 2(2) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(4)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d15dd2e2c46e61db7a4b16ce1eba216c]: Textual amendment: Words in Art. 3 substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d15dd2e2c46e61db7a4b16ce1eba216c]: Textual amendment: Words in Art. 3 substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e86465857a44431e632c10d7e8413f81]: Textual amendment: Art. 4 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(6)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e86465857a44431e632c10d7e8413f81]: Textual amendment: Art. 4 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(6)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b9fa7922b39f53810c021860137dedbd]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(7)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9fa7922b39f53810c021860137dedbd]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(7)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c10e45c1c197fc3b41bce646b1bc62ba]: Textual amendment: Annex A1 inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(8)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c10e45c1c197fc3b41bce646b1bc62ba]: Textual amendment: Annex A1 inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(8)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9c52a27947783232dbf3c083bc1a170]: Textual amendment: Words in Annex 1 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(9)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9c52a27947783232dbf3c083bc1a170]: Textual amendment: Words in Annex 1 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(9)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e5cd007f5657cdf3457d598ae427df2]: Textual amendment: Words in Annex 1 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e5cd007f5657cdf3457d598ae427df2]: Textual amendment: Words in Annex 1 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-542f3513490a01e3406eebc494e707ca]: Textual amendment: Words in Annex 1 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(9)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/9/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-542f3513490a01e3406eebc494e707ca]: Textual amendment: Words in Annex 1 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(9)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/9/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_5488ff49-1fbb-4b35-f60c-8aa8b756c329]: Textual amendment: Annex 1: in the option headed “Event categorisation” the words "Event categorisation according to Annex AI" substituted for "Event categorisation" (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(9)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/9/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -218,7 +218,7 @@ José Manuel Barroso
 
 [^M_F_e654bbff-dfb2-417b-8da2-63d205ed096d]: Textual amendment: Annex 1: the words "Sections G and H shall be reported under the requirements of RIDDOR" substituted for "Sections G and H shall be reported under the requirements of Directive 92/91/EEC" (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(11)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96e81aec0841cf2210c5878d2c0e056c]: Textual amendment: Words in Annex 2 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(12)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96e81aec0841cf2210c5878d2c0e056c]: Textual amendment: Words in Annex 2 omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(12)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_f27d2cab-1440-4226-844c-d4b0971b3bd3]: Textual amendment: Annex 2: Section 1 Profile substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [13(12)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

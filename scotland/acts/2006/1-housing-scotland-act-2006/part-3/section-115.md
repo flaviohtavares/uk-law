@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Disapplication for houses not available with vacant possession[^key-00e2657e4f1eca6025332d8fdb90da5a]
+## 115. Disapplication for houses not available with vacant possession[^c-00e2657e4f1eca6025332d8fdb90da5a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00e2657e4f1eca6025332d8fdb90da5a]: Commencement: S. 115 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-00e2657e4f1eca6025332d8fdb90da5a]: Commencement: S. 115 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

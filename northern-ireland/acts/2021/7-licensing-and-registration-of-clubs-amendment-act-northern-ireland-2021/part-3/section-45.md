@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Minor and consequential amendments[^key-8f7e839b481dea1378173688a20c824d]
+## 45. Minor and consequential amendments[^c-8f7e839b481dea1378173688a20c824d]
 
 *Extent: N.I.*
 
-(1)[^M_I_3d5fdd7f-3729-4169-e6d5-582c16236a5d][^key-8f7e839b481dea1378173688a20c824d][^key-4f12dae018ae22214c928cfce0e326f8][^key-f19154e08625e417f056b60c4d5570f8][^key-248afa23ecd79c41cd7f3e76ba43814b] Schedule 1, which contains minor amendments and amendments consequential on provision made by this Act, has effect.
+(1)[^M_I_3d5fdd7f-3729-4169-e6d5-582c16236a5d][^c-8f7e839b481dea1378173688a20c824d][^c-4f12dae018ae22214c928cfce0e326f8][^c-f19154e08625e417f056b60c4d5570f8][^c-248afa23ecd79c41cd7f3e76ba43814b] Schedule 1, which contains minor amendments and amendments consequential on provision made by this Act, has effect.
 
 (2) The Department for Communities may by regulations make provision in consequence of this Act.
 
@@ -37,12 +37,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8f7e839b481dea1378173688a20c824d]: Commencement: S. 45(1) in operation at 27.8.2021 for specified purposes, see [s. 47(1)(d)](https://www.legislation.gov.uk/nia/2021/7/section/47/1/d)
+[^c-8f7e839b481dea1378173688a20c824d]: Commencement: S. 45(1) in operation at 27.8.2021 for specified purposes, see [s. 47(1)(d)](https://www.legislation.gov.uk/nia/2021/7/section/47/1/d)
 
 [^M_I_3d5fdd7f-3729-4169-e6d5-582c16236a5d]: Commencement: S. 45(2)-(6) in operation at 27.8.2021, see [s. 47(1)(b)](https://www.legislation.gov.uk/nia/2021/7/section/47/1/b)
 
-[^key-4f12dae018ae22214c928cfce0e326f8]: Commencement: [S. 45(1)](https://www.legislation.gov.uk/nia/2021/7/section/45/1) in operation at 1.10.2021 for specified purposes by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-4f12dae018ae22214c928cfce0e326f8]: Commencement: [S. 45(1)](https://www.legislation.gov.uk/nia/2021/7/section/45/1) in operation at 1.10.2021 for specified purposes by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
-[^key-f19154e08625e417f056b60c4d5570f8]: Commencement: [S. 45(1)](https://www.legislation.gov.uk/nia/2021/7/section/45/1) in operation at 6.4.2022 for specified purposes by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-f19154e08625e417f056b60c4d5570f8]: Commencement: [S. 45(1)](https://www.legislation.gov.uk/nia/2021/7/section/45/1) in operation at 6.4.2022 for specified purposes by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
 
-[^key-248afa23ecd79c41cd7f3e76ba43814b]: Commencement: [S. 45(1)](https://www.legislation.gov.uk/nia/2021/7/section/45/1) in operation at 1.6.2022 for specified purposes by [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)
+[^c-248afa23ecd79c41cd7f3e76ba43814b]: Commencement: [S. 45(1)](https://www.legislation.gov.uk/nia/2021/7/section/45/1) in operation at 1.6.2022 for specified purposes by [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)

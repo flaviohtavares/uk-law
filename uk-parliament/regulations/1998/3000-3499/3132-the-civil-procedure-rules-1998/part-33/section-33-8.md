@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.8. Evidence of consent of trustee to act[^key-f0d25aa6c4059dd9772913a19b5032a0]
+## 33.8. Evidence of consent of trustee to act[^c-f0d25aa6c4059dd9772913a19b5032a0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A document purporting to contain the written consent of a person to act as trust
 
 ## Annotations
 
-[^key-f0d25aa6c4059dd9772913a19b5032a0]: Commencement: [Rule 33.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-f0d25aa6c4059dd9772913a19b5032a0]: Commencement: [Rule 33.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

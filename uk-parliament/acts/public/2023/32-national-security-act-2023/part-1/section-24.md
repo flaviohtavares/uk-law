@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Disclosure orders[^key-780068763c7353d130bd3e5477b4145d][^key-c42e59723fb34638fa6d9e6bfc9af4d8]
+## 24. Disclosure orders[^c-780068763c7353d130bd3e5477b4145d][^c-c42e59723fb34638fa6d9e6bfc9af4d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 3 makes provision for disclosure orders.
 
 ## Annotations
 
-[^key-780068763c7353d130bd3e5477b4145d]: Commencement: S. 24 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-780068763c7353d130bd3e5477b4145d]: Commencement: S. 24 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-c42e59723fb34638fa6d9e6bfc9af4d8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/32/section/24) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-c42e59723fb34638fa6d9e6bfc9af4d8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/32/section/24) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

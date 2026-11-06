@@ -44,17 +44,17 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred on them by sections 6(4), 16(1) and (3), 17(1), 18(1), 19(1)(b), 26, 45 and 48(1) of and paragraphs 1 and 4(b) of Schedule 1 to the Food Safety Act 1990[^f00001], and of all other powers enabling them in that behalf and having had regard in accordance with section 48(4A)[^f00002] of that Act to relevant advice given by the Food Standards Agency and after consultation in accordance with section 48(4) and (4B)[^f00003] of that Act, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-7059a1c187fa9adedfa3806c22b6e576]
+## 1. Citation, commencement and extent[^c-7059a1c187fa9adedfa3806c22b6e576]
 
 (1) These Regulations may be cited as the Food Irradiation Provisions (Scotland) Regulations 2000 and shall come into force on 20th September 2000.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendments to the Food (Control of Irradiation) Regulations 1990[^key-0c75417e2adaf48c5aadf082c5401e59]
+## 2. Amendments to the Food (Control of Irradiation) Regulations 1990[^c-0c75417e2adaf48c5aadf082c5401e59]
 
 The Food (Control of Irradiation) Regulations 1990[^f00004] shall be amended in accordance with regulations 3 to 16 below.
 
-## 3.[^key-71f0fba24f67ffab3e411881d7fafd98]
+## 3.[^c-71f0fba24f67ffab3e411881d7fafd98]
 
 In paragraph (1) of regulation 2 (interpretation)–
 
@@ -67,15 +67,15 @@ In paragraph (1) of regulation 2 (interpretation)–
   ; and
 - (b) in the definition of “ionising radiation”, for the words “0.5 Gy” in sub paragraph (a)(iii) there shall be substituted the words “0.01 Gy in the case of inspection devices which utilise neutrons and 0.5 Gy otherwise” and for the words “and 5 MeV otherwise” there shall be substituted the words “, 14 MeV in the case of neutrons and 5 MeV otherwise”.
 
-## 4.[^key-ff8c565248f95e79e01f344d35f269cb]
+## 4.[^c-ff8c565248f95e79e01f344d35f269cb]
 
 In paragraph (1) of regulation 4 (restriction on importation) for the words “Great Britain” there shall be substituted the word “Scotland”.
 
-## 5.[^key-df81a9b06e1f3a8e2095f9c2d01ba2c1]
+## 5.[^c-df81a9b06e1f3a8e2095f9c2d01ba2c1]
 
 In regulation 6 (restriction on sale), for the words “Great Britain” there shall be substituted the word “Scotland”.
 
-## 6.[^key-662ae2f7025221b4aade624bbe7d9255]
+## 6.[^c-662ae2f7025221b4aade624bbe7d9255]
 
 After regulation 6 there shall be inserted the following regulation–
 
@@ -90,11 +90,11 @@ After regulation 6 there shall be inserted the following regulation–
 
 .
 
-## 7.[^key-8d4f872a8b086f1521631a5bb1236703]
+## 7.[^c-8d4f872a8b086f1521631a5bb1236703]
 
 In regulation 7 (activities taking place in Northern Ireland) after the words “Northern Ireland” there shall in each case be inserted the words “, England or Wales, as the case may be”.
 
-## 8.[^key-57ebe6c8d65cacad7c6739ae206aeb46]
+## 8.[^c-57ebe6c8d65cacad7c6739ae206aeb46]
 
 For regulation 8 (defence in relation to exports) there shall be substituted–
 
@@ -102,7 +102,7 @@ For regulation 8 (defence in relation to exports) there shall be substituted–
 
 .
 
-## 9.[^key-815a0a30ee3e26fb251bee3dbbe268ed]
+## 9.[^c-815a0a30ee3e26fb251bee3dbbe268ed]
 
 In Schedule 1, Part I (grant of irradiation licences), in paragraph 1–
 
@@ -118,7 +118,7 @@ In Schedule 1, Part I (grant of irradiation licences), in paragraph 1–
 
   .
 
-## 10.[^key-033afe994f1348d4ba9b9b68b7ee8b56]
+## 10.[^c-033afe994f1348d4ba9b9b68b7ee8b56]
 
 In Schedule 1, Part I, in paragraph 3(1)–
 
@@ -138,7 +138,7 @@ In Schedule 1, Part I, in paragraph 3(1)–
   ; and
 - (e) for “paragraphs (a) to (i) above” there shall be substituted “paragraphs (a) to (j) above”.
 
-## 11.[^key-9cb0847516b7e98432392d885ffedfcb]
+## 11.[^c-9cb0847516b7e98432392d885ffedfcb]
 
 In Schedule 1, Part II (terms and conditions of irradiation licences)–
 
@@ -161,7 +161,7 @@ In Schedule 1, Part II (terms and conditions of irradiation licences)–
 
   .
 
-## 12.[^key-2be700bfb98eed33e0648ead3beda7b4]
+## 12.[^c-2be700bfb98eed33e0648ead3beda7b4]
 
 In Schedule 1, Part III (variation of irradiation licence), for paragraph 1(1) there shall be substituted the following:–
 
@@ -172,11 +172,11 @@ In Schedule 1, Part III (variation of irradiation licence), for paragraph 1(1) t
 
 .
 
-## 13.[^key-d5a1d3ad9261ea1613bbf66719daa463]
+## 13.[^c-d5a1d3ad9261ea1613bbf66719daa463]
 
 In Schedule 1, in Part IV (withdrawal, suspension and extension of irradiation licence) paragraphs 4 and 5 shall be revoked.
 
-## 14.[^key-563f96ebef810a99243eb9d058a72f09]
+## 14.[^c-563f96ebef810a99243eb9d058a72f09]
 
 In Schedule 1, Part VI (charges)–
 
@@ -197,7 +197,7 @@ In Schedule 1, Part VI (charges)–
   - (i) for the words “other than a pure continuation licence, £1,800” in sub paragraph (i) there shall be substituted “, £1,500”; and
   - (ii) for “£2,700” in sub-paragraph (ii) there shall be substituted “£2,250”.
 
-## 15.[^key-3ed672b959ed77068d9bdc61d9364043]
+## 15.[^c-3ed672b959ed77068d9bdc61d9364043]
 
 For Schedule 2 (importation of food) ther e shall be substituted the following–
 
@@ -238,18 +238,18 @@ For Schedule 2 (importation of food) ther e shall be substituted the following�
 
 .
 
-## 16.[^key-69640f902ce0eb3f23cef352be3139c1]
+## 16.[^c-69640f902ce0eb3f23cef352be3139c1]
 
 In Schedule 3 (requirements for storage and transportation)–
 
 - (a) in paragraphs 2 and 4, for “Great Britain” there shall be substituted in each case “Scotland”; and
 - (b) in paragraph 4, after “Northern Ireland” there shall be inserted “, England and Wales”.
 
-## 17. Amendments to the Food Labelling Regulations 1996[^key-f0af6b04788cf83ed3ef98bfc40b9237]
+## 17. Amendments to the Food Labelling Regulations 1996[^c-f0af6b04788cf83ed3ef98bfc40b9237]
 
 The Food Labelling Regulations 1996[^f00008] shall be amended in accordance with regulations 18 to 24 below.
 
-## 18.[^key-27a2f7d6a8899cd1bbb1055547009f29]
+## 18.[^c-27a2f7d6a8899cd1bbb1055547009f29]
 
 In paragraph (1) of regulation 2 (interpretation)–
 
@@ -260,11 +260,11 @@ In paragraph (1) of regulation 2 (interpretation)–
   ; and
 - (b) in the definition of “ionising radiation”, for the words “0.5 Gy” in sub paragraph (c) there shall be substituted the words “0.1 Gy in the case of inspection devices which utilise neutrons and 0.5 Gy otherwise”, and for the words “and 5 MeV otherwise” there shall be substituted the words “, 14 MeV in the case of neutrons and 5 MeV otherwise”.
 
-## 19.[^key-af52a3eea664c59cc5490000f5004e10]
+## 19.[^c-af52a3eea664c59cc5490000f5004e10]
 
 In paragraph (1)(iv) of regulation 3 (exemptions), for the words “and Directive 94/54” there shall be substituted the words “, Directive 94/54 and Directive 99/2”.
 
-## 20.[^key-4380a191501607e6f61e5a220142e4a9]
+## 20.[^c-4380a191501607e6f61e5a220142e4a9]
 
 For paragraph (4)(b) of regulation 15 (compound ingredients) there shall be substituted–
 
@@ -274,7 +274,7 @@ For paragraph (4)(b) of regulation 15 (compound ingredients) there shall be subs
 
 .
 
-## 21.[^key-b3488b0255ef0fea79875b7a8c58067b]
+## 21.[^c-b3488b0255ef0fea79875b7a8c58067b]
 
 The following paragraph shall be inserted after paragraph (4) of regulation 26 (small packages and certain indelibly marked bottles)–
 
@@ -288,7 +288,7 @@ The following paragraph shall be inserted after paragraph (4) of regulation 26 (
 
 .
 
-## 22.[^key-1bdded162fd52af72f5b3070ae89a624]
+## 22.[^c-1bdded162fd52af72f5b3070ae89a624]
 
 In regulation 35 (general requirement as to the manner of marking or labelling of food other than food to which regulation 23, 27 or 31 applies)–
 
@@ -300,7 +300,7 @@ In regulation 35 (general requirement as to the manner of marking or labelling o
 
   .
 
-## 23.[^key-1a8f0d3cadb1ff3cab7e2cf85a7e5119]
+## 23.[^c-1a8f0d3cadb1ff3cab7e2cf85a7e5119]
 
 In regulation 36 (manner of marking or labelling of food to which regulation 23 or 27 applies)–
 
@@ -321,7 +321,7 @@ In regulation 36 (manner of marking or labelling of food to which regulation 23 
 
   .
 
-## 24.[^key-ee9cfe878e96ec576da7c915c140c833]
+## 24.[^c-ee9cfe878e96ec576da7c915c140c833]
 
 In regulation 47(b) (defence in relation to exports), for the words “and Directive 94/54” there shall be substituted the words “, Directive 94/54 and Directive 99/2”.
 
@@ -389,60 +389,60 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00003]: Footnote: Section 48(4B) was inserted by paragraph 21 of Schedule 5 to the Food Standards Act 1999.
 
-[^key-7059a1c187fa9adedfa3806c22b6e576]: Commencement: Reg. 1 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-7059a1c187fa9adedfa3806c22b6e576]: Commencement: Reg. 1 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-0c75417e2adaf48c5aadf082c5401e59]: Commencement: Reg. 2 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-0c75417e2adaf48c5aadf082c5401e59]: Commencement: Reg. 2 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1990/2490](https://www.legislation.gov.uk/uksi/1990/2490), amended by [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62).
 
-[^key-71f0fba24f67ffab3e411881d7fafd98]: Commencement: Reg. 3 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-71f0fba24f67ffab3e411881d7fafd98]: Commencement: Reg. 3 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
 [^f00005]: Footnote: O.J. No. L 66, 13.3 99, p.16.
 
 [^f00006]: Footnote: O.J. No. L 66, 13.3.99, p.24.
 
-[^key-ff8c565248f95e79e01f344d35f269cb]: Commencement: Reg. 4 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-ff8c565248f95e79e01f344d35f269cb]: Commencement: Reg. 4 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-df81a9b06e1f3a8e2095f9c2d01ba2c1]: Commencement: Reg. 5 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-df81a9b06e1f3a8e2095f9c2d01ba2c1]: Commencement: Reg. 5 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-662ae2f7025221b4aade624bbe7d9255]: Commencement: Reg. 6 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-662ae2f7025221b4aade624bbe7d9255]: Commencement: Reg. 6 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1996/1499](https://www.legislation.gov.uk/uksi/1996/1499), to which there are amendments not relevant to these definitions.
 
-[^key-8d4f872a8b086f1521631a5bb1236703]: Commencement: Reg. 7 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-8d4f872a8b086f1521631a5bb1236703]: Commencement: Reg. 7 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-57ebe6c8d65cacad7c6739ae206aeb46]: Commencement: Reg. 8 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-57ebe6c8d65cacad7c6739ae206aeb46]: Commencement: Reg. 8 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-815a0a30ee3e26fb251bee3dbbe268ed]: Commencement: Reg. 9 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-815a0a30ee3e26fb251bee3dbbe268ed]: Commencement: Reg. 9 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-033afe994f1348d4ba9b9b68b7ee8b56]: Commencement: Reg. 10 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-033afe994f1348d4ba9b9b68b7ee8b56]: Commencement: Reg. 10 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-9cb0847516b7e98432392d885ffedfcb]: Commencement: Reg. 11 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-9cb0847516b7e98432392d885ffedfcb]: Commencement: Reg. 11 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-2be700bfb98eed33e0648ead3beda7b4]: Commencement: Reg. 12 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-2be700bfb98eed33e0648ead3beda7b4]: Commencement: Reg. 12 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-d5a1d3ad9261ea1613bbf66719daa463]: Commencement: Reg. 13 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-d5a1d3ad9261ea1613bbf66719daa463]: Commencement: Reg. 13 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-563f96ebef810a99243eb9d058a72f09]: Commencement: Reg. 14 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-563f96ebef810a99243eb9d058a72f09]: Commencement: Reg. 14 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-3ed672b959ed77068d9bdc61d9364043]: Commencement: Reg. 15 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-3ed672b959ed77068d9bdc61d9364043]: Commencement: Reg. 15 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-69640f902ce0eb3f23cef352be3139c1]: Commencement: Reg. 16 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-69640f902ce0eb3f23cef352be3139c1]: Commencement: Reg. 16 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-f0af6b04788cf83ed3ef98bfc40b9237]: Commencement: Reg. 17 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-f0af6b04788cf83ed3ef98bfc40b9237]: Commencement: Reg. 17 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1996/1499](https://www.legislation.gov.uk/uksi/1996/1499), as amended by S.I. [1998/141](https://www.legislation.gov.uk/uksi/1998/141), [1398](https://www.legislation.gov.uk/uksi/1998/1398) and [2424](https://www.legislation.gov.uk/uksi/1998/2424), [1999/747](https://www.legislation.gov.uk/uksi/1999/747), [982](https://www.legislation.gov.uk/uksi/1999/982), [1136](https://www.legislation.gov.uk/uksi/1999/1136), [1483](https://www.legislation.gov.uk/uksi/1999/1483), [1540](https://www.legislation.gov.uk/uksi/1999/1540) and [1603](https://www.legislation.gov.uk/uksi/1999/1603) and [S.S.I. 2000/83](https://www.legislation.gov.uk/ssi/2000/83).
 
-[^key-27a2f7d6a8899cd1bbb1055547009f29]: Commencement: Reg. 18 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-27a2f7d6a8899cd1bbb1055547009f29]: Commencement: Reg. 18 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-af52a3eea664c59cc5490000f5004e10]: Commencement: Reg. 19 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-af52a3eea664c59cc5490000f5004e10]: Commencement: Reg. 19 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-4380a191501607e6f61e5a220142e4a9]: Commencement: Reg. 20 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-4380a191501607e6f61e5a220142e4a9]: Commencement: Reg. 20 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-b3488b0255ef0fea79875b7a8c58067b]: Commencement: Reg. 21 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-b3488b0255ef0fea79875b7a8c58067b]: Commencement: Reg. 21 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-1bdded162fd52af72f5b3070ae89a624]: Commencement: Reg. 22 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-1bdded162fd52af72f5b3070ae89a624]: Commencement: Reg. 22 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-1a8f0d3cadb1ff3cab7e2cf85a7e5119]: Commencement: Reg. 23 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-1a8f0d3cadb1ff3cab7e2cf85a7e5119]: Commencement: Reg. 23 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
 
-[^key-ee9cfe878e96ec576da7c915c140c833]: Commencement: Reg. 24 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)
+[^c-ee9cfe878e96ec576da7c915c140c833]: Commencement: Reg. 24 in force at 20.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/309/regulation/1/1)

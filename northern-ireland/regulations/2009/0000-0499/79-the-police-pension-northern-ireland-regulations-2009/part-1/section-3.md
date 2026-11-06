@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Disablement[^key-2c8ef0781b267d00edf5b079b6ae8471]
+## 3. Disablement[^c-2c8ef0781b267d00edf5b079b6ae8471]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c8ef0781b267d00edf5b079b6ae8471]: Commencement: Reg. 3 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-2c8ef0781b267d00edf5b079b6ae8471]: Commencement: Reg. 3 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

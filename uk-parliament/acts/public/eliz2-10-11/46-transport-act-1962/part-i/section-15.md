@@ -26,7 +26,7 @@ Provided that this subsection shall not be taken as authorising a Board to purch
 
 (2) The Minister shall not under this section authorise a Board to purchase land for the purpose of constructing a pipe-line if the construction of that pipe-line requires the consent of the Minister under subsection (3) of section twelve of this Act.
 
-(2A)[^key-0efc9f6215ca6c26faaf0eb38c4e56c9] The Minister may authorise Canal & River Trust to purchase compulsorily any land in England or Wales which it requires for the purposes of any of its functions under an enactment and the Acquisition of Land Act 1981 shall apply as if Canal & River Trust were a local authority within the meaning of that Act.
+(2A)[^c-0efc9f6215ca6c26faaf0eb38c4e56c9] The Minister may authorise Canal & River Trust to purchase compulsorily any land in England or Wales which it requires for the purposes of any of its functions under an enactment and the Acquisition of Land Act 1981 shall apply as if Canal & River Trust were a local authority within the meaning of that Act.
 
 (3) The power of purchasing land compulsorily in this section shall include power to acquire an easement or other right over land by the creation of a new right:
 
@@ -48,7 +48,7 @@ Provided that this subsection shall not apply to an easement or other right over
 
 [^c4790431]: Textual amendment: Words repealed (E.W.) by [Acquisition of Land Act 1981 (c. 67, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/67), [s. 34(3)](https://www.legislation.gov.uk/ukpga/1981/67/section/34/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1981/67/schedule/6/part/I)
 
-[^key-0efc9f6215ca6c26faaf0eb38c4e56c9]: Textual amendment: [S. 15(2A)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/15/2A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/7) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-0efc9f6215ca6c26faaf0eb38c4e56c9]: Textual amendment: [S. 15(2A)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/15/2A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/7) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4790441]: Textual amendment: Words substituted by [Acquisition of Land Act 1981 (c. 67, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/67), [s. 34(1)](https://www.legislation.gov.uk/ukpga/1981/67/section/34/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4), [para. 1](https://www.legislation.gov.uk/ukpga/1981/67/paragraph/1)
 

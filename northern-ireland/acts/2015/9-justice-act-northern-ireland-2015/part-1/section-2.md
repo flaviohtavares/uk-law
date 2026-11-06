@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Administrative court divisions[^key-778d758d0b56f9536ad095cf032b1ce0]
+## 2. Administrative court divisions[^c-778d758d0b56f9536ad095cf032b1ce0]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-778d758d0b56f9536ad095cf032b1ce0]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2015/9/section/2) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/387/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-778d758d0b56f9536ad095cf032b1ce0]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2015/9/section/2) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/387/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

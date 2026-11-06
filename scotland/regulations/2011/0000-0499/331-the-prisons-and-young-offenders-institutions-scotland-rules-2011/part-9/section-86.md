@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Earnings[^key-13adb59311400b78309f7a9b3cdf1dfc]
+## 86. Earnings[^c-13adb59311400b78309f7a9b3cdf1dfc]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13adb59311400b78309f7a9b3cdf1dfc]: Textual amendment: Rule 86 substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(11)](https://www.legislation.gov.uk/ssi/2012/26/article/2/11)
+[^c-13adb59311400b78309f7a9b3cdf1dfc]: Textual amendment: Rule 86 substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(11)](https://www.legislation.gov.uk/ssi/2012/26/article/2/11)

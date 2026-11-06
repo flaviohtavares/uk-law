@@ -31,7 +31,7 @@ Regulation of Railways Act 1889
 
 An Act to amend the Regulation of Railways Acts; and for other purposes.
 
-\[30th August 1889\][^c574393][^c574394][^c574395][^c574396][^c574397][^key-22867de4a1b9f33f1b9c15afdf737eff][^key-aa7ffc528b2484294015fb63e0cf7aef][^key-8adba610c36eb224dc358a4ce6159233][^key-5094f473ccd61cd44430944afac704f0][^key-26502a56a2e4228d6df5d038dccae8bf]
+\[30th August 1889\][^c574393][^c574394][^c574395][^c574396][^c574397][^c-22867de4a1b9f33f1b9c15afdf737eff][^c-aa7ffc528b2484294015fb63e0cf7aef][^c-8adba610c36eb224dc358a4ce6159233][^c-5094f473ccd61cd44430944afac704f0][^c-26502a56a2e4228d6df5d038dccae8bf]
 
 ## 1. Power to order certain provisions to be made for public safety.[^c574402][^c574403][^c574404]
 
@@ -66,13 +66,13 @@ Whenever any railway company shall be ordered by the Board of Trade to provide a
 
 (3) The provisions of sections nine and ten of the [^c574413]Regulation of Railways Act 1871, with respect to penalties, shall apply to returns under this section.
 
-## 5. Penalty for avoiding payment of fare.[^c574441][^c574442][^c574443][^c574444][^key-0ad27f2639b91d470ee71dfe6e043108][^key-8b7743104bf0c0079c32a9e53238b18a][^key-3a0c1a9580b7c43d126cce82a56334f9]
+## 5. Penalty for avoiding payment of fare.[^c574441][^c574442][^c574443][^c574444][^c-0ad27f2639b91d470ee71dfe6e043108][^c-8b7743104bf0c0079c32a9e53238b18a][^c-3a0c1a9580b7c43d126cce82a56334f9]
 
-(1)[^c574445][^c574446][^c574447][^key-022224ab4021ecdb2de88592dab7f5ce] Every passenger by a railway shall, on request by an officer or servant of a railway company, either produce, and if so requested deliver up, a ticket showing that his fare is paid, or pay his fare from the place whence he started, or give the officer or servant his name and address; and in case of default shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale[^c574422].
+(1)[^c574445][^c574446][^c574447][^c-022224ab4021ecdb2de88592dab7f5ce] Every passenger by a railway shall, on request by an officer or servant of a railway company, either produce, and if so requested deliver up, a ticket showing that his fare is paid, or pay his fare from the place whence he started, or give the officer or servant his name and address; and in case of default shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale[^c574422].
 
-(2)[^c574451][^c574446][^c574447][^key-41fb9673213d7a08ba9f432f69427703] If a passenger having failed either to produce, or if requested to deliver up, a ticket showing that his fare is paid, or to pay his fare, refuses or fails[^c574454] on request by an officer or servant of a railway company, to give his name and address, any officer of the company [^c574455]... may detain him until he can be conveniently brought before some justice or otherwise discharged by due course of law.
+(2)[^c574451][^c574446][^c574447][^c-41fb9673213d7a08ba9f432f69427703] If a passenger having failed either to produce, or if requested to deliver up, a ticket showing that his fare is paid, or to pay his fare, refuses or fails[^c574454] on request by an officer or servant of a railway company, to give his name and address, any officer of the company [^c574455]... may detain him until he can be conveniently brought before some justice or otherwise discharged by due course of law.
 
-(3)[^c574456][^c574457][^c574458][^c574447][^key-6338f7795e19e8249a18bba8ed068451] If any person—
+(3)[^c574456][^c574457][^c574458][^c574447][^c-6338f7795e19e8249a18bba8ed068451] If any person—
 
 - (a)[^c574460] Travels or attempts to travel on a railway without having previously paid his fare, and with intent to avoid payment thereof; or
 - (b)[^c574460] Having paid his fare for a certain distance, knowingly and wilfully proceeds by train beyond that distance without previously paying the additional fare for the additional distance, and with intent to avoid payment thereof; or
@@ -119,15 +119,15 @@ From and after a date to be fixed by order of the Board of Trade, and subject to
 
 [^c574397]: Editorial: This Act is not necessarily in the form in which it has effect in Northern Ireland
 
-[^key-22867de4a1b9f33f1b9c15afdf737eff]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (6.11.2013) by [The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013 (S.I. 2013/2587)](https://www.legislation.gov.uk/uksi/2013/2587), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2587/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2587/article/3/1) (with [arts. 42](https://www.legislation.gov.uk/uksi/2013/2587/article/42), [43](https://www.legislation.gov.uk/uksi/2013/2587/article/43))
+[^c-22867de4a1b9f33f1b9c15afdf737eff]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (6.11.2013) by [The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013 (S.I. 2013/2587)](https://www.legislation.gov.uk/uksi/2013/2587), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2587/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2587/article/3/1) (with [arts. 42](https://www.legislation.gov.uk/uksi/2013/2587/article/42), [43](https://www.legislation.gov.uk/uksi/2013/2587/article/43))
 
-[^key-aa7ffc528b2484294015fb63e0cf7aef]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (9.1.2014) by [The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order 2013 (S.I. 2013/3244)](https://www.legislation.gov.uk/uksi/2013/3244), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/3244/article/3/1) (with [arts. 57](https://www.legislation.gov.uk/uksi/2013/3244/article/57), [58](https://www.legislation.gov.uk/uksi/2013/3244/article/58), [Sch. 11 paras. 19](https://www.legislation.gov.uk/uksi/2013/3244/schedule/11/paragraph/19))
+[^c-aa7ffc528b2484294015fb63e0cf7aef]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (9.1.2014) by [The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order 2013 (S.I. 2013/3244)](https://www.legislation.gov.uk/uksi/2013/3244), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/3244/article/3/1) (with [arts. 57](https://www.legislation.gov.uk/uksi/2013/3244/article/57), [58](https://www.legislation.gov.uk/uksi/2013/3244/article/58), [Sch. 11 paras. 19](https://www.legislation.gov.uk/uksi/2013/3244/schedule/11/paragraph/19))
 
-[^key-8adba610c36eb224dc358a4ce6159233]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (16.12.2015) by [The Network Rail (Tinsley Chord) Order 2015 (S.I. 2015/1876)](https://www.legislation.gov.uk/uksi/2015/1876), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1876/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/1876/article/3/3)
+[^c-8adba610c36eb224dc358a4ce6159233]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (16.12.2015) by [The Network Rail (Tinsley Chord) Order 2015 (S.I. 2015/1876)](https://www.legislation.gov.uk/uksi/2015/1876), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1876/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/1876/article/3/3)
 
-[^key-5094f473ccd61cd44430944afac704f0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (24.11.2016) by [The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016 (S.I. 2016/1035)](https://www.legislation.gov.uk/uksi/2016/1035), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/1035/article/3/1) (with [arts. 43](https://www.legislation.gov.uk/uksi/2016/1035/article/43), [44](https://www.legislation.gov.uk/uksi/2016/1035/article/44))
+[^c-5094f473ccd61cd44430944afac704f0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (24.11.2016) by [The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016 (S.I. 2016/1035)](https://www.legislation.gov.uk/uksi/2016/1035), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/1035/article/3/1) (with [arts. 43](https://www.legislation.gov.uk/uksi/2016/1035/article/43), [44](https://www.legislation.gov.uk/uksi/2016/1035/article/44))
 
-[^key-26502a56a2e4228d6df5d038dccae8bf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (4.1.2018) by [The Blackpool Tramway (Blackpool North Extension) Order 2017 (S.I. 2017/1214)](https://www.legislation.gov.uk/uksi/2017/1214), [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/1214/article/3/1) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2017/1214/article/3/3), [58](https://www.legislation.gov.uk/uksi/2017/1214/article/58), [59](https://www.legislation.gov.uk/uksi/2017/1214/article/59))
+[^c-26502a56a2e4228d6df5d038dccae8bf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/52-53/57) excluded (E.W.S.) (4.1.2018) by [The Blackpool Tramway (Blackpool North Extension) Order 2017 (S.I. 2017/1214)](https://www.legislation.gov.uk/uksi/2017/1214), [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/1214/article/3/1) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2017/1214/article/3/3), [58](https://www.legislation.gov.uk/uksi/2017/1214/article/58), [59](https://www.legislation.gov.uk/uksi/2017/1214/article/59))
 
 [^c574402]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/Vict/52-53/57/section/1): power to repeal or modify conferred (14.10.2002) by 2002 nia 8, ss. 1(4)(e), 8
 
@@ -203,11 +203,11 @@ From and after a date to be fixed by order of the Board of Trade, and subject to
 
 [^c574444]: Modification: S. 5 restricted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 245](https://www.legislation.gov.uk/ukpga/1999/29/section/245), [425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/1999/29/schedule/17), [para. 8(1)(2)(3)(a)(4)](https://www.legislation.gov.uk/ukpga/1999/29/paragraph/8/1/2/3/a/4) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2](https://www.legislation.gov.uk/uksi/2000/801/article/2), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-0ad27f2639b91d470ee71dfe6e043108]: Modification: S. 5 applied (S.) (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(2)](https://www.legislation.gov.uk/ssi/2012/345/article/5/2)
+[^c-0ad27f2639b91d470ee71dfe6e043108]: Modification: S. 5 applied (S.) (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(2)](https://www.legislation.gov.uk/ssi/2012/345/article/5/2)
 
-[^key-8b7743104bf0c0079c32a9e53238b18a]: Modification: S. 5 modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/6)
+[^c-8b7743104bf0c0079c32a9e53238b18a]: Modification: S. 5 modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/6)
 
-[^key-3a0c1a9580b7c43d126cce82a56334f9]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/52-53/57/section/5) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/5)
+[^c-3a0c1a9580b7c43d126cce82a56334f9]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/52-53/57/section/5) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/5)
 
 [^c574445]: Modification: S. 5(1) modified by [Channel Tunnel Act 1987 (c. 53, SIF 102)](https://www.legislation.gov.uk/ukpga/1987/53), [ss. 43](https://www.legislation.gov.uk/ukpga/1987/53/section/43), [45](https://www.legislation.gov.uk/ukpga/1987/53/section/45), [Sch. 6 para. 4(1)](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/4/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1987/53/schedule/7/paragraph/2)
 
@@ -219,13 +219,13 @@ From and after a date to be fixed by order of the Board of Trade, and subject to
 
     S. 5(2) modified (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 20](https://www.legislation.gov.uk/ukpga/1996/61/section/20), [Sch. 9 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/9/paragraph/8/2/c)
 
-[^key-022224ab4021ecdb2de88592dab7f5ce]: Modification: S. 5(1) modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 7(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/7/1)
+[^c-022224ab4021ecdb2de88592dab7f5ce]: Modification: S. 5(1) modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 7(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/7/1)
 
 [^c574422]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [39(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1982/48/section/39/1/b/ii), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
 [^c574451]: Modification: S. 5(2) modified by [Channel Tunnel Act 1987 (c. 53, SIF 102)](https://www.legislation.gov.uk/ukpga/1987/53), [ss. 43](https://www.legislation.gov.uk/ukpga/1999/29/section/43), [45](https://www.legislation.gov.uk/ukpga/1999/29/section/45), [Sch. 6 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/6/paragraph/4/2/c), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/7/paragraph/2)
 
-[^key-41fb9673213d7a08ba9f432f69427703]: Modification: S. 5(2) modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/7/2)
+[^c-41fb9673213d7a08ba9f432f69427703]: Modification: S. 5(2) modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/7/2)
 
 [^c574454]: Textual amendment: Words inserted in relation to railways of (a) British Railways Board by [British Railways Act 1965 (c.xxi)](https://www.legislation.gov.uk/ukla/1965/21) s. 35(5) and (b) London Transport Executive by [London Transport Act 1965 (c.xli)](https://www.legislation.gov.uk/ukla/1965/41), [s. 34(5)](https://www.legislation.gov.uk/ukla/1965/41/section/34/5)
 
@@ -237,7 +237,7 @@ From and after a date to be fixed by order of the Board of Trade, and subject to
 
 [^c574458]: Modification: S. 5(3) modified by [Channel Tunnel Act 1987 (c. 53, SIF 102)](https://www.legislation.gov.uk/ukpga/1987/53), [ss. 43](https://www.legislation.gov.uk/ukpga/1987/53/section/43), [45](https://www.legislation.gov.uk/ukpga/1987/53/section/45), [Sch. 6 para. 4(1)](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/4/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1987/53/schedule/7/paragraph/2)
 
-[^key-6338f7795e19e8249a18bba8ed068451]: Modification: S. 5(3) modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 7(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/7/1)
+[^c-6338f7795e19e8249a18bba8ed068451]: Modification: S. 5(3) modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 7(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/7/1)
 
 [^c574460]: Modification: S. 5(3)(a)(b) restricted (21.7.1994) by [1994 c. xv](https://www.legislation.gov.uk/ukla/1994/15), [s. 55(1)(2)(c)](https://www.legislation.gov.uk/ukla/1994/15/section/55/1/2/c)
 

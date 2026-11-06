@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79A (Extent: N.I.). Special procedure for applications relating to certain electricity works (Northern Ireland) (Extent: N.I.)[^key-487c8c5fa9f13f8920e6108ba0cc4887]
+## 79A (Extent: N.I.). Special procedure for applications relating to certain electricity works (Northern Ireland) (Extent: N.I.)[^c-487c8c5fa9f13f8920e6108ba0cc4887]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ but this is subject to any provision that may be made by virtue of subsection (6
 
 ## Annotations
 
-[^key-487c8c5fa9f13f8920e6108ba0cc4887]: Textual amendment: S. 79A inserted (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 42](https://www.legislation.gov.uk/nia/2013/10/section/42), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
+[^c-487c8c5fa9f13f8920e6108ba0cc4887]: Textual amendment: S. 79A inserted (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 42](https://www.legislation.gov.uk/nia/2013/10/section/42), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))

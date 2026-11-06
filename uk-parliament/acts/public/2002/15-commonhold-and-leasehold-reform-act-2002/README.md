@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Contents
 
-### Part 1 — Commonhold[^key-3ef3cb28b16523ab59855d3473e02486]
+### Part 1 — Commonhold[^c-3ef3cb28b16523ab59855d3473e02486]
 
 #### Nature of commonhold
 
@@ -310,7 +310,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 158 — Administration charges](part-2/section-158.md)
 - [Section 159 — Charges under estate management schemes](part-2/section-159.md)
 
-##### Managers appointed by ... tribunal[^key-9e6ef334b85d4983dbea4f523b5b48da]
+##### Managers appointed by ... tribunal[^c-9e6ef334b85d4983dbea4f523b5b48da]
 
 - [Section 160 — Third parties with management responsibilities](part-2/section-160.md)
 - [Section 161 — Restriction of resident landlord exception](part-2/section-161.md)
@@ -348,7 +348,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 175 — Appeals](part-2/section-175.md)
 - [Section 176 — Consequential amendments](part-2/section-176.md)
 
-#### Chapter  6A — First-Tier Tribunal and Upper Tribunal[^key-c2f33dcb670dacfc33aabfaed118262b]
+#### Chapter  6A — First-Tier Tribunal and Upper Tribunal[^c-c2f33dcb670dacfc33aabfaed118262b]
 
 *Extent: E+W*
 
@@ -388,10 +388,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3ef3cb28b16523ab59855d3473e02486]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2002/15/part/1): transfer of functions (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [11](https://www.legislation.gov.uk/uksi/2018/378/article/11) (with [arts. 12-14](https://www.legislation.gov.uk/uksi/2018/378/article/12))
+[^c-3ef3cb28b16523ab59855d3473e02486]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2002/15/part/1): transfer of functions (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [11](https://www.legislation.gov.uk/uksi/2018/378/article/11) (with [arts. 12-14](https://www.legislation.gov.uk/uksi/2018/378/article/12))
 
 [^c21534371]: Modification: Pt. 2 Ch. 1: power to amend conferred (20.1.2007 for specified purposes, otherwise 1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1181(1)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/1181/1/b), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Schs. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1), [5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(v)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/v) (with [arts. 5](https://www.legislation.gov.uk/uksi/2008/2860/article/5), [7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2))
 
-[^key-9e6ef334b85d4983dbea4f523b5b48da]: Textual amendment: Words in [s. 160 cross-heading](https://www.legislation.gov.uk/ukpga/2002/15/part/2/chapter/5/crossheading/managers-appointed-by-leasehold-valuation-tribunal) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 140](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/140) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-9e6ef334b85d4983dbea4f523b5b48da]: Textual amendment: Words in [s. 160 cross-heading](https://www.legislation.gov.uk/ukpga/2002/15/part/2/chapter/5/crossheading/managers-appointed-by-leasehold-valuation-tribunal) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 140](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/140) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-c2f33dcb670dacfc33aabfaed118262b]: Textual amendment: Pt. 2 Ch. 6A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 144](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/144) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c2f33dcb670dacfc33aabfaed118262b]: Textual amendment: Pt. 2 Ch. 6A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 144](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/144) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

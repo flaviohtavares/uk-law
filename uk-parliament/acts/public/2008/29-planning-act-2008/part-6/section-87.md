@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Examining authority to control examination of application[^key-17ab374a76cb0d0a1c2a2d3148abf362]
+## 87. Examining authority to control examination of application[^c-17ab374a76cb0d0a1c2a2d3148abf362]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) comply with—
   - (i) the following provisions of this Chapter, and
   - (ii) any rules made under section 97, and
-- (b)[^key-6614331a782ee01c35b702692d5b25e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6614331a782ee01c35b702692d5b25e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Examining authority may in examining the application disregard representations if the Examining authority considers that the representations—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17ab374a76cb0d0a1c2a2d3148abf362]: Commencement: S. 87 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-17ab374a76cb0d0a1c2a2d3148abf362]: Commencement: S. 87 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-6614331a782ee01c35b702692d5b25e1]: Textual amendment: [S. 87(2)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/87/2/b) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/38), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-6614331a782ee01c35b702692d5b25e1]: Textual amendment: [S. 87(2)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/87/2/b) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/38), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

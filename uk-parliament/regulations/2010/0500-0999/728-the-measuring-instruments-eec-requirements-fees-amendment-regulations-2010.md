@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Business, Innovation and Skills, with the consent of the Treasury, in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001] and section 128 of the Finance Act 1990[^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-6904e07ac39d0c0a2afdc535cc0cffee]
+## 1. Citation and commencement[^c-6904e07ac39d0c0a2afdc535cc0cffee]
 
 These Regulations may be cited as the Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2010 and come into force on 6th April 2010.
 
-## 2. Amendment of the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004[^key-44fa57c750ced620fdc60c902879b1e1]
+## 2. Amendment of the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004[^c-44fa57c750ced620fdc60c902879b1e1]
 
 (1) The Measuring Instruments (EEC Requirements) (Fees) Regulations 2004[^f00003] are amended as follows.
 
@@ -133,7 +133,7 @@ These Regulations may be cited as the Measuring Instruments (EEC Requirements) (
 
   ;
 - (b) in paragraph (b)—
-  - (i)[^key-7c3cfbcd5a5a157bc2082309af0912c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-7c3cfbcd5a5a157bc2082309af0912c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for “the Department for Innovation, Universities and Skills”, substitute “the Department for Business, Innovation and Skills”.
 
 Drayson
@@ -174,10 +174,10 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [1990 c.29](https://www.legislation.gov.uk/ukpga/1990/29).
 
-[^key-6904e07ac39d0c0a2afdc535cc0cffee]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/728/regulation/1)
+[^c-6904e07ac39d0c0a2afdc535cc0cffee]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/728/regulation/1)
 
-[^key-44fa57c750ced620fdc60c902879b1e1]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/728/regulation/1)
+[^c-44fa57c750ced620fdc60c902879b1e1]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/728/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2004/1300](https://www.legislation.gov.uk/uksi/2004/1300), amended by [S.I. 2006/2679](https://www.legislation.gov.uk/uksi/2006/2679), [S.I. 2008/732](https://www.legislation.gov.uk/uksi/2008/732).
 
-[^key-7c3cfbcd5a5a157bc2082309af0912c8]: Textual amendment: [Reg. 2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2010/728/regulation/2/6/b/i) revoked (6.4.2012) by [The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2012 (S.I. 2012/751)](https://www.legislation.gov.uk/uksi/2012/751), [regs. 1](https://www.legislation.gov.uk/uksi/2012/751/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/751/regulation/4/b)
+[^c-7c3cfbcd5a5a157bc2082309af0912c8]: Textual amendment: [Reg. 2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2010/728/regulation/2/6/b/i) revoked (6.4.2012) by [The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2012 (S.I. 2012/751)](https://www.legislation.gov.uk/uksi/2012/751), [regs. 1](https://www.legislation.gov.uk/uksi/2012/751/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/751/regulation/4/b)

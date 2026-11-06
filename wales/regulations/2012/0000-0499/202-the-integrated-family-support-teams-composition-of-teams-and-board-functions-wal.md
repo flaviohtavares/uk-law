@@ -35,7 +35,7 @@ NATIONAL HEALTH SERVICE, WALES
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Integrated Family Support Teams (Composition of Teams and Board Functions) (Wales) Regulations 2012 (revoked)[^key-28aa361dca15809cebb7425aebce38e5]
+The Integrated Family Support Teams (Composition of Teams and Board Functions) (Wales) Regulations 2012 (revoked)[^c-28aa361dca15809cebb7425aebce38e5]
 
 Made
 
@@ -49,34 +49,34 @@ Coming into force
 
 28 February 2012
 
-[^key-28aa361dca15809cebb7425aebce38e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28aa361dca15809cebb7425aebce38e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-28aa361dca15809cebb7425aebce38e5]
+## 1. Title, commencement, interpretation and application[^c-28aa361dca15809cebb7425aebce38e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Composition of integrated family support teams[^key-28aa361dca15809cebb7425aebce38e5]
+## 2. Composition of integrated family support teams[^c-28aa361dca15809cebb7425aebce38e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-28aa361dca15809cebb7425aebce38e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-28aa361dca15809cebb7425aebce38e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Integrated Family Support Boards[^key-28aa361dca15809cebb7425aebce38e5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Revocation[^key-28aa361dca15809cebb7425aebce38e5]
+## 4. Integrated Family Support Boards[^c-28aa361dca15809cebb7425aebce38e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28aa361dca15809cebb7425aebce38e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Revocation[^c-28aa361dca15809cebb7425aebce38e5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-28aa361dca15809cebb7425aebce38e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-28aa361dca15809cebb7425aebce38e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28aa361dca15809cebb7425aebce38e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28aa361dca15809cebb7425aebce38e5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/202) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-28aa361dca15809cebb7425aebce38e5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/202) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

@@ -50,7 +50,7 @@ regulations 2 to 8 and 11 to 14
 
 The Secretary of State for Social Security in exercise of the powers conferred bysections 20(1)(a), (3)(a) and (d), (4), (12)(d) and (e), 22(1), (8) and (9) and 84(1) of the Social Security Act 1986[^f00001] and section 166(1) to (3A) of the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee[^f00003] that proposals to make these Regulations should not be referred to it, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b1e3d1e5404ebcefd696d8bd8b615ed5]
+## 1. Citation, commencement and interpretation[^c-b1e3d1e5404ebcefd696d8bd8b615ed5]
 
 (1) These Regulations may be cited as the Income Support (General) Amendment Regulations 1991 and shall, subject to paragraph (2) below, come into force as follows—
 
@@ -61,68 +61,68 @@ The Secretary of State for Social Security in exercise of the powers conferred b
 
 (3) In these Regulations “the General Regulations” means the Income Support (General) Regulations 1987[^f00004].
 
-## 2. Amendment of regulations 2, 9, 10, 11 and 13A of, and Schedules 2 and 7 to, the General Regulations[^key-3fd863e852202ee8eee98bc012ac7e4a]
+## 2. Amendment of regulations 2, 9, 10, 11 and 13A of, and Schedules 2 and 7 to, the General Regulations[^c-3fd863e852202ee8eee98bc012ac7e4a]
 
 (1) In the provisions of the General Regulations specified in this paragraph for the words “Training Commission”, there shall be substituted the words “Secretary of State for Employment”—
 
 - (a) regulation 2 (interpretation) in paragraph (a) of the definition of “training allowance”;
-- (b)[^key-2e473d1014d4f02927a734e346013fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-4d9f8b70d5f42d9237dd0ac4b0af25bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-92d5d783af237959dbd4c0c7d5c69f77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2e473d1014d4f02927a734e346013fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4d9f8b70d5f42d9237dd0ac4b0af25bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-92d5d783af237959dbd4c0c7d5c69f77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) paragraph 7(b) of Schedule 2 (premiums);
 - (f) paragraph 10(e), in column 1 of Schedule 7 (applicable amounts in special cases).
 
 (2) In regulation 2 in paragraph (c) of the definition of “training allowance”, for the words “that Commission” there shall be substituted the words “the Secretary of State for Employment”.
 
-(3)[^key-c377b7ce92b251abf37ffb7015264992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c377b7ce92b251abf37ffb7015264992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ebce35f6e96ee12bb35df8fba0a76795] In the definition of “youth training scheme” in regulation 2 (interpretation) and in regulation 13A(4)(a) (persons under 18 years) of the General Regulations after the words “youth training scheme” there shall be inserted the words “or youth training”; and in regulation 9(2)(a)(ii) and (2)(b)(i) of these Regulations after the words “Youth Training Scheme” there shall be inserted the words “or Youth Training”. *(affected by repeal, see note)*[^key-ebce35f6e96ee12bb35df8fba0a76795]
+(4)[^c-ebce35f6e96ee12bb35df8fba0a76795] In the definition of “youth training scheme” in regulation 2 (interpretation) and in regulation 13A(4)(a) (persons under 18 years) of the General Regulations after the words “youth training scheme” there shall be inserted the words “or youth training”; and in regulation 9(2)(a)(ii) and (2)(b)(i) of these Regulations after the words “Youth Training Scheme” there shall be inserted the words “or Youth Training”. *(affected by repeal, see note)*[^c-ebce35f6e96ee12bb35df8fba0a76795]
 
-## 3. Amendment of regulation 8 of the General Regulations[^key-b7963ea502b7dbc089d58b3c1cc98063]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Amendment of regulation 11 of the General Regulations[^key-dcc9189e34570d50249c6b46ec16404a]
+## 3. Amendment of regulation 8 of the General Regulations[^c-b7963ea502b7dbc089d58b3c1cc98063]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 13 of the General Regulations[^key-228322a54359acdf1fc381152648f296]
+## 4. Amendment of regulation 11 of the General Regulations[^c-dcc9189e34570d50249c6b46ec16404a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of regulation 13 of the General Regulations[^c-228322a54359acdf1fc381152648f296]
 
 In regulation 13(2)(d) of the General Regulations (circumstances in which persons in relevant education may be entitled to income support) for the words “parents or any” there shall be substituted the words “parents and any”; and for the words “parents or that person” there shall be substituted the words “parents and that person”.
 
-## 6. Amendment of regulation 13A of the General Regulations[^key-f0dbf0e3ecf02fb7d6caf9d947627b6e]
+## 6. Amendment of regulation 13A of the General Regulations[^c-f0dbf0e3ecf02fb7d6caf9d947627b6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 21 of the General Regulation[^key-84732f3c32c721111d887c4ed31f8064]
+## 7. Amendment of regulation 21 of the General Regulation[^c-84732f3c32c721111d887c4ed31f8064]
 
 In regulation 21(3)(a) of the General Regulations (special cases) after the words “on 11th December 1953),” there shall be inserted the words “a state which is a signatory to the Council of Europe Social Charter (signed in Turin on 18th October 1961),”.
 
-## 8. Amendment of regulation 22 of the General Regulations[^key-3e8042ce7f693a375aafb60b39c0d06c]
+## 8. Amendment of regulation 22 of the General Regulations[^c-3e8042ce7f693a375aafb60b39c0d06c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulations 40 and 66A of the General Regulations[^key-1165d613ee88aa2f073d5ec55b1c6b3c]
+## 9. Amendment of regulations 40 and 66A of the General Regulations[^c-1165d613ee88aa2f073d5ec55b1c6b3c]
 
 In regulations 40(3A) and 66A(1) of the General Regulations (calculation of income other than earnings and treatment of student loans) after the words “Education (Student Loans) Act 1990” there shall be inserted in each of those regulations the words “or article 3 of the Education (Student Loans) (Northern Ireland) Order 1990[^f00006]”.
 
-## 10. Amendment of Schedule 1 to the General Regulations[^key-eb18dbe5c3317337b5af5949b6077596]
+## 10. Amendment of Schedule 1 to the General Regulations[^c-eb18dbe5c3317337b5af5949b6077596]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Schedule 1A to the General Regulations[^key-75c4da8a6fbb05f9ad7eba7af4547bda]
+## 11. Amendment of Schedule 1A to the General Regulations[^c-75c4da8a6fbb05f9ad7eba7af4547bda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Schedule 3 to the General Regulations[^key-0b09f76103dd30dafe47ab80c0dd359f]
+## 12. Amendment of Schedule 3 to the General Regulations[^c-0b09f76103dd30dafe47ab80c0dd359f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of Schedule 7 to the General Regulations[^key-ce2539948c08c870149fd9318f4b5c8a]
+## 13. Amendment of Schedule 7 to the General Regulations[^c-ce2539948c08c870149fd9318f4b5c8a]
 
 In Schedule 7 to the General Regulations (applicable amounts in special cases), in paragraph 17, head (ii) of sub-paragraph (b) shall be omitted.
 
-## 14. Amendment of Schedule 9 to the General Regulations[^key-c8b5f8a60a53187e5a31a3d942fc9499]
+## 14. Amendment of Schedule 9 to the General Regulations[^c-c8b5f8a60a53187e5a31a3d942fc9499]
 
 In Schedule 9 to the General Regulations (sums to be disregarded in the calculation of income other than earnings) in paragraph 9 after the words “nursing home” there shall be inserted the words “and he is not a person to whom Part II of Schedule 4 applies (persons to whom regulation 19 does not apply)”.
 
@@ -153,44 +153,44 @@ These Regulations further amend the Income Support (General) Regulations 1987 in
 
 [^f00003]: Footnote: (See the Social Security Act 1986, section 61(1)(b) and (10). The Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24), Schedule 8 added a definition of “regulations” to section 61(10) of the Social Security Act 1986.
 
-[^key-b1e3d1e5404ebcefd696d8bd8b615ed5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/236/regulation/1) in force at 13.3.1991, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/a)
+[^c-b1e3d1e5404ebcefd696d8bd8b615ed5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/236/regulation/1) in force at 13.3.1991, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/a)
 
 [^f00004]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1228](https://www.legislation.gov.uk/uksi/1988/1228), [1445](https://www.legislation.gov.uk/uksi/1988/1445) and [1843](https://www.legislation.gov.uk/uksi/1988/1843), and [1989/43](https://www.legislation.gov.uk/uksi/1989/43), [1034](https://www.legislation.gov.uk/uksi/1989/1034), [1323](https://www.legislation.gov.uk/uksi/1989/1323) and [1678](https://www.legislation.gov.uk/uksi/1989/1678) and [1990/547](https://www.legislation.gov.uk/uksi/1990/547), [1549](https://www.legislation.gov.uk/uksi/1990/1549) and [1657](https://www.legislation.gov.uk/uksi/1990/1657).
 
-[^key-3fd863e852202ee8eee98bc012ac7e4a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1991/236/regulation/2) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
+[^c-3fd863e852202ee8eee98bc012ac7e4a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1991/236/regulation/2) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
 
-[^key-2e473d1014d4f02927a734e346013fa1]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/1/b) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-2e473d1014d4f02927a734e346013fa1]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/1/b) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-4d9f8b70d5f42d9237dd0ac4b0af25bf]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/1/c) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-4d9f8b70d5f42d9237dd0ac4b0af25bf]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/1/c) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-92d5d783af237959dbd4c0c7d5c69f77]: Textual amendment: [Reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/1/d) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-92d5d783af237959dbd4c0c7d5c69f77]: Textual amendment: [Reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/1/d) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-c377b7ce92b251abf37ffb7015264992]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/3) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-c377b7ce92b251abf37ffb7015264992]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/3) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-ebce35f6e96ee12bb35df8fba0a76795]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/4) revoked in part (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-ebce35f6e96ee12bb35df8fba0a76795]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1991/236/regulation/2/4) revoked in part (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-b7963ea502b7dbc089d58b3c1cc98063]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/236/regulation/3) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-b7963ea502b7dbc089d58b3c1cc98063]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/236/regulation/3) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-dcc9189e34570d50249c6b46ec16404a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1991/236/regulation/4) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-dcc9189e34570d50249c6b46ec16404a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1991/236/regulation/4) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-228322a54359acdf1fc381152648f296]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1991/236/regulation/5) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
+[^c-228322a54359acdf1fc381152648f296]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1991/236/regulation/5) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
 
-[^key-f0dbf0e3ecf02fb7d6caf9d947627b6e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1991/236/regulation/6) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-f0dbf0e3ecf02fb7d6caf9d947627b6e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1991/236/regulation/6) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-84732f3c32c721111d887c4ed31f8064]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1991/236/regulation/7) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
+[^c-84732f3c32c721111d887c4ed31f8064]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1991/236/regulation/7) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
 
-[^key-3e8042ce7f693a375aafb60b39c0d06c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1991/236/regulation/8) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-3e8042ce7f693a375aafb60b39c0d06c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1991/236/regulation/8) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-1165d613ee88aa2f073d5ec55b1c6b3c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1991/236/regulation/9) in force at 13.3.1991, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/a)
+[^c-1165d613ee88aa2f073d5ec55b1c6b3c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1991/236/regulation/9) in force at 13.3.1991, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/a)
 
 [^f00006]: Footnote: S.I. [1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506).
 
-[^key-eb18dbe5c3317337b5af5949b6077596]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/236/regulation/10) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-eb18dbe5c3317337b5af5949b6077596]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/236/regulation/10) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-75c4da8a6fbb05f9ad7eba7af4547bda]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/236/regulation/11) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-75c4da8a6fbb05f9ad7eba7af4547bda]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/236/regulation/11) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-0b09f76103dd30dafe47ab80c0dd359f]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/236/regulation/12) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
+[^c-0b09f76103dd30dafe47ab80c0dd359f]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/236/regulation/12) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
 
-[^key-ce2539948c08c870149fd9318f4b5c8a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/236/regulation/13) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
+[^c-ce2539948c08c870149fd9318f4b5c8a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/236/regulation/13) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
 
-[^key-c8b5f8a60a53187e5a31a3d942fc9499]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1991/236/regulation/14) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)
+[^c-c8b5f8a60a53187e5a31a3d942fc9499]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1991/236/regulation/14) in force at 8.4.1991, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/236/regulation/1/1/b)

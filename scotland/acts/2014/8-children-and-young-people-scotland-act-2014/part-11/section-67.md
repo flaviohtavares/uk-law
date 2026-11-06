@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-cc8cca701ca3dbed03dce19b036a8b5c][^key-4e6ae7680db18e588f11aee7989cbfea] After section 26 of the 1995 Act insert—
+(1)[^c-cc8cca701ca3dbed03dce19b036a8b5c][^c-4e6ae7680db18e588f11aee7989cbfea] After section 26 of the 1995 Act insert—
 
 > **26A. Provision of continuing care: looked after children**
 >
@@ -84,7 +84,7 @@ summary: ''
 
 .
 
-(2)[^key-a1660cae1016f21dae79e3ae34b1f08f] In section 29 of the 1995 Act, after subsection (2) insert—
+(2)[^c-a1660cae1016f21dae79e3ae34b1f08f] In section 29 of the 1995 Act, after subsection (2) insert—
 
 > (2A) Subsections (1) and (2) above do not apply to a person during any period when the person is being provided with continuing care under section 26A of this Act.
 
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cc8cca701ca3dbed03dce19b036a8b5c]: Commencement: [S. 67(1)](https://www.legislation.gov.uk/asp/2014/8/section/67/1) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-cc8cca701ca3dbed03dce19b036a8b5c]: Commencement: [S. 67(1)](https://www.legislation.gov.uk/asp/2014/8/section/67/1) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-4e6ae7680db18e588f11aee7989cbfea]: Commencement: [S. 67(1)](https://www.legislation.gov.uk/asp/2014/8/section/67/1) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-4e6ae7680db18e588f11aee7989cbfea]: Commencement: [S. 67(1)](https://www.legislation.gov.uk/asp/2014/8/section/67/1) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
 
-[^key-a1660cae1016f21dae79e3ae34b1f08f]: Commencement: [S. 67(2)](https://www.legislation.gov.uk/asp/2014/8/section/67/2) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-a1660cae1016f21dae79e3ae34b1f08f]: Commencement: [S. 67(2)](https://www.legislation.gov.uk/asp/2014/8/section/67/2) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

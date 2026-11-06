@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. The Council's power to provide information, advice etc.[^key-cbc0af731b64dbfeea27d2e133288f12]
+## 11. The Council's power to provide information, advice etc.[^c-cbc0af731b64dbfeea27d2e133288f12]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbc0af731b64dbfeea27d2e133288f12]: Commencement: S. 11 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-cbc0af731b64dbfeea27d2e133288f12]: Commencement: S. 11 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

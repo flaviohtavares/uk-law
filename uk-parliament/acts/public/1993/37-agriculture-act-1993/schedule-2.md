@@ -349,7 +349,7 @@ is acquired under an approved scheme by any person by virtue of his being, or ha
 
 **22.** (1) This paragraph applies where, under an approved scheme, shares in, or securities of, a company are issued or transferred to trustees on terms which provide for the transfer of those shares or securities to persons by virtue of their being, or having been, registered producers.
 
-(2) The trust shall not be treated as a unit trust scheme for the purposes of the Tax Acts[^key-81de5e3d55f5910cb655828cb18f9bac] or section 99 of the Taxation of Chargeable Gains Act 1992 if it would not fall to be so treated were there disregarded—
+(2) The trust shall not be treated as a unit trust scheme for the purposes of the Tax Acts[^c-81de5e3d55f5910cb655828cb18f9bac] or section 99 of the Taxation of Chargeable Gains Act 1992 if it would not fall to be so treated were there disregarded—
 
 - (a) any depreciatory effect of transfers under the approved scheme on a right to participate in a winding up of the board to which that scheme relates, and
 - (b) any management of the trust property as a whole by or on behalf of the trustees.
@@ -955,7 +955,7 @@ shall, on and after that day, have effect as if made, effected or done by, to or
 
 [^c1092809]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-81de5e3d55f5910cb655828cb18f9bac]: Textual amendment: Words in [Sch. 2 para. 22(2)](https://www.legislation.gov.uk/ukpga/1993/37/schedule/2/paragraph/22/2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 362](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/362) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-81de5e3d55f5910cb655828cb18f9bac]: Textual amendment: Words in [Sch. 2 para. 22(2)](https://www.legislation.gov.uk/ukpga/1993/37/schedule/2/paragraph/22/2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 362](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/362) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c1092811]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Notice to Bank of England of intention to vacate office[^key-82d917dd62c0631032c5d99966e71653]
+## 55. Notice to Bank of England of intention to vacate office[^c-82d917dd62c0631032c5d99966e71653]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82d917dd62c0631032c5d99966e71653]: Commencement: Rule 55 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-82d917dd62c0631032c5d99966e71653]: Commencement: Rule 55 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Social Security (Benefit) (Married Women and Widows Special Provisions) (Northern Ireland) Regulations 1975[^key-52c0cb0ac62403e1eb416f7492302707]
+## 75. Social Security (Benefit) (Married Women and Widows Special Provisions) (Northern Ireland) Regulations 1975[^c-52c0cb0ac62403e1eb416f7492302707]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In regulation 3 of the Social Security (Benefit) (Married Women and Widows Speci
 
 ## Annotations
 
-[^key-52c0cb0ac62403e1eb416f7492302707]: Commencement: Reg. 75 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-52c0cb0ac62403e1eb416f7492302707]: Commencement: Reg. 75 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00134]: Footnote: [S.R. (N.I.) 1975/19](https://www.legislation.gov.uk/nisr/1975/19). In regulation 3(1), the words before sub-paragraph (a) were amended by paragraph 1 of Schedule 3 to [S.R. (N.I.) 2005/356](https://www.legislation.gov.uk/nisr/2005/356).

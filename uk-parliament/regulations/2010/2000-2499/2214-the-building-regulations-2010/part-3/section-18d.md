@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18D. Application to the First-tier Tribunal in relation to certain decisions[^key-91ff469bf3293e605c1d851af8eb826e]
+## 18D. Application to the First-tier Tribunal in relation to certain decisions[^c-91ff469bf3293e605c1d851af8eb826e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91ff469bf3293e605c1d851af8eb826e]: Textual amendment: Regs. 18A-18E inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-91ff469bf3293e605c1d851af8eb826e]: Textual amendment: Regs. 18A-18E inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

@@ -37,7 +37,7 @@ fishes for profit the vessel shall be liable to forfeiture and the skipper, the 
 
 (5) Any person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-3263af4f41a3bfd29e49440769b070cd] a fine *(Extent: E+W)*;
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-3263af4f41a3bfd29e49440769b070cd] a fine *(Extent: E+W)*;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
 
 (6) Proceedings for an offence under this section shall not be instituted—
@@ -56,7 +56,7 @@ fishes for profit the vessel shall be liable to forfeiture and the skipper, the 
 
 ## Annotations
 
-[^key-3263af4f41a3bfd29e49440769b070cd]: Textual amendment: Words in [s. 15(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/15/5/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-3263af4f41a3bfd29e49440769b070cd]: Textual amendment: Words in [s. 15(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/15/5/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c14525481]: Textual amendment: Words in s. 15(6)(a) substituted (27.3.2002) by 2002/794, art. 5(1), Sch. 1 para. 36 (with arts. 5(3), 6)
 

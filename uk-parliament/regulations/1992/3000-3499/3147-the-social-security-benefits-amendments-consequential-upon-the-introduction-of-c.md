@@ -50,7 +50,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “the Income Support Regulations” means the Income Support (General) Regula tions 1987 [^c1840290];
 
-[^key-f111ff8d876003c3963f5228b223a94f]...
+[^c-f111ff8d876003c3963f5228b223a94f]...
 
 (3) In these Regulations, unless the context otherwise requires, a reference—
 
@@ -360,7 +360,7 @@ Regulation 2(2)
 - (a) in paragraph 15, in sub-paragraph (2), after the words “(persons in residential care or nursing homes)” there shall be inserted the words “ or by a local authority under Part III of the National Assistance Act 1948 ”; and
 - (b)[^M_F_2de74241-1218-4108-a071-d15489ab3120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3247b538bee88e8d8e74e05891edadeb] (1) In paragraph 4(1) of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987 [^c1840312], for the words preceding “the adjudicating authority may determine”, there shall be substituted the words—
+**8.**[^c-3247b538bee88e8d8e74e05891edadeb] (1) In paragraph 4(1) of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987 [^c1840312], for the words preceding “the adjudicating authority may determine”, there shall be substituted the words—
 
 > **4.** (1) Where an award of income support—
 >
@@ -446,7 +446,7 @@ The report of the Social Security Advisory Committee dated 11th November 1992 on
 
 [^c1840290]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-f111ff8d876003c3963f5228b223a94f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3147/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-f111ff8d876003c3963f5228b223a94f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3147/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1840292]: Marginal citation: The relevant amending instrument is [S.I. 1988/1228](https://www.legislation.gov.uk/uksi/1988/1228).
 
@@ -484,7 +484,7 @@ The report of the Social Security Advisory Committee dated 11th November 1992 on
 
 [^M_F_2de74241-1218-4108-a071-d15489ab3120]: Textual amendment: Sch. 1 para. 7(b) revoked (2.10.1995) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613/contents), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
 
-[^key-3247b538bee88e8d8e74e05891edadeb]: Modification: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1992/3147/schedule/1/paragraph/8) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-3247b538bee88e8d8e74e05891edadeb]: Modification: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1992/3147/schedule/1/paragraph/8) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1840312]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); the relevant amending instruments are [S.I. 1989/136](https://www.legislation.gov.uk/uksi/1989/136), 1686, and 1991/2284.
 

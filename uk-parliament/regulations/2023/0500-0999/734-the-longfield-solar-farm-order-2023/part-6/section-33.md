@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Consent to transfer the benefit of the Order[^key-91d50aa875d5e47c4172de78393deae6]
+## 33. Consent to transfer the benefit of the Order[^c-91d50aa875d5e47c4172de78393deae6]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91d50aa875d5e47c4172de78393deae6]: Commencement: Art. 33 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-91d50aa875d5e47c4172de78393deae6]: Commencement: Art. 33 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Seizure and forfeiture of apparatus[^key-cbedf54c262919ed386830562510a9ef]
+## SCHEDULE 7 — Seizure and forfeiture of apparatus[^c-cbedf54c262919ed386830562510a9ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,56 +26,56 @@ Section 182
 
 ### Application of Schedule
 
-**1.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Notice of seizure
 
-**2.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Notice of claim
 
-**3.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Condemnation
 
-**5.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Proceedings for condemnation by court
 
-**8.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disposal of unclaimed property
 
-**13.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Provisions as to proof
 
-**14.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Special provisions as to certain claimants
 
-**16.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Saving for owner’s rights
 
-**17.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cbedf54c262919ed386830562510a9ef]: Textual amendment: Schs. 5-7 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-cbedf54c262919ed386830562510a9ef]: Textual amendment: Schs. 5-7 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))

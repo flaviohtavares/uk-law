@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In relation to the offshore marine area, the Secretary of State must make arrangements in accordance with paragraphs (9) to (11) for the surveillance of the conservation status of natural habitat types listed in Annex I of the Habitats Directive and species of wild fauna and flora listed in Annex[^key-7a59afb83ce5509cf086493e86d2c733] II, IV or V of that Directive, and in particular priority natural habitat types and priority species.
+(1) In relation to the offshore marine area, the Secretary of State must make arrangements in accordance with paragraphs (9) to (11) for the surveillance of the conservation status of natural habitat types listed in Annex I of the Habitats Directive and species of wild fauna and flora listed in Annex[^c-7a59afb83ce5509cf086493e86d2c733] II, IV or V of that Directive, and in particular priority natural habitat types and priority species.
 
 (2) In relation to the Scottish offshore region, the Scottish Ministers must make arrangements in accordance with paragraphs (9) to (11) for the surveillance of the conservation status of natural habitat types listed in Annex I of the Habitats Directive and species of wild fauna and flora listed in Annex II, IV or V of that Directive, and in particular priority natural habitat types and priority species.
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a59afb83ce5509cf086493e86d2c733]: Textual amendment: Words in [reg. 50(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/50/1) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [63](https://www.legislation.gov.uk/uksi/2019/579/regulation/63); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a59afb83ce5509cf086493e86d2c733]: Textual amendment: Words in [reg. 50(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/50/1) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [63](https://www.legislation.gov.uk/uksi/2019/579/regulation/63); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

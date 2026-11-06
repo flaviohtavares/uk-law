@@ -22,27 +22,27 @@ summary: ''
 
 Section 41.
 
-**1.**[^key-6287fcf1d2127ba45590ab808d353a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6287fcf1d2127ba45590ab808d353a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-02b1cc4d0c467ae2636947cbb199c705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-02b1cc4d0c467ae2636947cbb199c705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c12832551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c1016ca35cd42b2e46259e75032fd785] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c1016ca35cd42b2e46259e75032fd785] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.**[^c12832561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.**[^c12832571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e00f7b6092ff0fc69a7d55c247429370] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e00f7b6092ff0fc69a7d55c247429370] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5febd48f3bc5b62f3bfd71af1fa5944c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5febd48f3bc5b62f3bfd71af1fa5944c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e70699e4764debd144dedda1a70a78ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e70699e4764debd144dedda1a70a78ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.**[^c12832591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** (1) [^key-98634ac0ce713f90d32dd4b47bf8259e]...
+**11.** (1) [^c-98634ac0ce713f90d32dd4b47bf8259e]...
 
 - (a) in so far as it relates to determinations of profits in accordance with section 83 of the [^c12832601]Finance Act 1989, this Schedule shall apply in relation to any period for which such a determination falls to be made, other than a period for which it falls to be made only by virtue of an election under section 83(5) of the Finance Act 1989, and
 - (b) in so far as it relates to section 432A of the Taxes Act 1988, this Schedule shall apply to income arising, and disposals occurring, on or after 1st January 1990.
@@ -100,27 +100,27 @@ and for the purposes of this sub-paragraph a holding is a “**relevant**” hol
 
 ## Annotations
 
-[^key-6287fcf1d2127ba45590ab808d353a04]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iv)
+[^c-6287fcf1d2127ba45590ab808d353a04]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iv)
 
-[^key-02b1cc4d0c467ae2636947cbb199c705]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/2) repealed (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/10)
+[^c-02b1cc4d0c467ae2636947cbb199c705]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/2) repealed (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/10)
 
 [^c12832551]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/3) repealed (29.4.1996 with effect in relation to accounting periods beginning on or after 1st January 1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(26)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/26) Note
 
-[^key-c1016ca35cd42b2e46259e75032fd785]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/4) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iv)
+[^c-c1016ca35cd42b2e46259e75032fd785]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/4) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iv)
 
 [^c12832561]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/5) repealed (31.7.1997 with effect in accordance with the provisions of [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3) of the amending Act) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(6)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/6) Note (with s. 3(3))
 
 [^c12832571]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/6) repealed*(for accounting periods beginning on or after 01.01.1992)* by [Finance Act 1991 (c. 31, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1991/31), [s. 123](https://www.legislation.gov.uk/ukpga/1991/31/section/123), [Sch. 19 Pt.V](https://www.legislation.gov.uk/ukpga/1991/31/schedule/19/part/V) Note 3.
 
-[^key-e00f7b6092ff0fc69a7d55c247429370]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/7) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-e00f7b6092ff0fc69a7d55c247429370]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/7) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-5febd48f3bc5b62f3bfd71af1fa5944c]: Textual amendment: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iv)
+[^c-5febd48f3bc5b62f3bfd71af1fa5944c]: Textual amendment: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iv)
 
-[^key-e70699e4764debd144dedda1a70a78ea]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/9) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-e70699e4764debd144dedda1a70a78ea]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/9) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c12832591]: Textual amendment: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/10) repealed (6.3.1992 with effect as mentioned in s. 289 (1)(2) of the repealing Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [s. 290](https://www.legislation.gov.uk/ukpga/1992/12/section/290), [Sch.12](https://www.legislation.gov.uk/ukpga/1992/12/schedule/12) (with [ss.60](https://www.legislation.gov.uk/ukpga/1992/12/section/60), [101(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/101/1), [201(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/201/3), [Sch. 11 paras. 22](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/22), [26(2)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/26/2), [27](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/27)).
 
-[^key-98634ac0ce713f90d32dd4b47bf8259e]: Textual amendment: Words in [Sch. 6 para. 11(1)](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/11/1) repealed (6.4.2007 with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2)) (as amended (retrospectively) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), s. 41, Sch. 10 para. 7)
+[^c-98634ac0ce713f90d32dd4b47bf8259e]: Textual amendment: Words in [Sch. 6 para. 11(1)](https://www.legislation.gov.uk/ukpga/1990/29/schedule/6/paragraph/11/1) repealed (6.4.2007 with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2)) (as amended (retrospectively) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), s. 41, Sch. 10 para. 7)
 
 [^c12832601]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 

@@ -31,7 +31,7 @@ summary: ''
 
 environmental protection
 
-The Waste Electrical and Electronic Equipment (Charges) Regulations (Northern Ireland) 2006 (revoked)[^key-97caaac45b41d38c7c3fe1f6d29e9c32]
+The Waste Electrical and Electronic Equipment (Charges) Regulations (Northern Ireland) 2006 (revoked)[^c-97caaac45b41d38c7c3fe1f6d29e9c32]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 2nd January 2007
 
-[^key-97caaac45b41d38c7c3fe1f6d29e9c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97caaac45b41d38c7c3fe1f6d29e9c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-97caaac45b41d38c7c3fe1f6d29e9c32]
+## 1. Citation and commencement[^c-97caaac45b41d38c7c3fe1f6d29e9c32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-97caaac45b41d38c7c3fe1f6d29e9c32]
+## 2. Interpretation[^c-97caaac45b41d38c7c3fe1f6d29e9c32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Charges (approval of schemes)[^key-97caaac45b41d38c7c3fe1f6d29e9c32]
+## 3. Charges (approval of schemes)[^c-97caaac45b41d38c7c3fe1f6d29e9c32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Charges (approval of authorised treatment facilities and exporters)[^key-97caaac45b41d38c7c3fe1f6d29e9c32]
+## 4. Charges (approval of authorised treatment facilities and exporters)[^c-97caaac45b41d38c7c3fe1f6d29e9c32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97caaac45b41d38c7c3fe1f6d29e9c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97caaac45b41d38c7c3fe1f6d29e9c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97caaac45b41d38c7c3fe1f6d29e9c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97caaac45b41d38c7c3fe1f6d29e9c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97caaac45b41d38c7c3fe1f6d29e9c32]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/509) revoked (25.7.2014) by [The Waste Electrical and Electronic Equipment (Charges) Regulations (Northern Ireland) 2014 (S.R. 2014/202)](https://www.legislation.gov.uk/nisr/2014/202), [reg. 6](https://www.legislation.gov.uk/nisr/2014/202/regulation/6)
+[^c-97caaac45b41d38c7c3fe1f6d29e9c32]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/509) revoked (25.7.2014) by [The Waste Electrical and Electronic Equipment (Charges) Regulations (Northern Ireland) 2014 (S.R. 2014/202)](https://www.legislation.gov.uk/nisr/2014/202), [reg. 6](https://www.legislation.gov.uk/nisr/2014/202/regulation/6)

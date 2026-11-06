@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Notice of vacation of office when energy administrator ceases to be qualified to act[^key-f101c70fcbed95963376e0bf27a7e829]
+## 85. Notice of vacation of office when energy administrator ceases to be qualified to act[^c-f101c70fcbed95963376e0bf27a7e829]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the energy administrator who has ceased to be qualified to act as an insol
 
 ## Annotations
 
-[^key-f101c70fcbed95963376e0bf27a7e829]: Commencement: Rule 85 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-f101c70fcbed95963376e0bf27a7e829]: Commencement: Rule 85 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

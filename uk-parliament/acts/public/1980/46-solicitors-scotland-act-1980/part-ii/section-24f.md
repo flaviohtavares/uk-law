@@ -30,14 +30,14 @@ summary: ''
 
 any registration certificate for the time being in force of that registered European lawyer shall cease to have effect, and he shall be suspended from practice as a registered European lawyer.
 
-(1A)[^key-591f22526039e2c6bc3f8077793a6697] The Council may suspend from practice a registered European lawyer who—
+(1A)[^c-591f22526039e2c6bc3f8077793a6697] The Council may suspend from practice a registered European lawyer who—
 
 - (a) has been convicted of an offence involving dishonesty, or
 - (b) in respect of an offence, has been—
   - (i) fined an amount equivalent to level 4 on the standard scale or more (whether on summary or solemn conviction), or
   - (ii) sentenced to imprisonment for a term of 12 months or more.
 
-(2) On the occurrence of any of the circumstances mentioned in subsection (1) or (1A)[^key-a1c6f60ba9af55bc4832716eb88e3eef] , the registered European lawyer in question shall intimate those circumstances to the Council in writing immediately.
+(2) On the occurrence of any of the circumstances mentioned in subsection (1) or (1A)[^c-a1c6f60ba9af55bc4832716eb88e3eef] , the registered European lawyer in question shall intimate those circumstances to the Council in writing immediately.
 
 (3) On the occurrence of the circumstances mentioned in paragraph (d) or (e) of subsection (1) the trustee or as the case may be the judicial factor shall intimate his appointment to the Council in writing immediately.
 
@@ -53,6 +53,6 @@ any registration certificate for the time being in force of that registered Euro
 
 [^c20666391]: Textual amendment: S. 24F(1)(b) repealed (5.10.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 77(2)](https://www.legislation.gov.uk/asp/2007/10/section/77/2), [79](https://www.legislation.gov.uk/asp/2007/10/section/79), [Sch. 2](https://www.legislation.gov.uk/asp/2007/10/schedule/2); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2](https://www.legislation.gov.uk/ssi/2007/334/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
 
-[^key-591f22526039e2c6bc3f8077793a6697]: Textual amendment: [S. 24F(1A)](https://www.legislation.gov.uk/ukpga/1980/46/section/24F/1A) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(3)(a)](https://www.legislation.gov.uk/asp/2010/16/section/137/3/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-591f22526039e2c6bc3f8077793a6697]: Textual amendment: [S. 24F(1A)](https://www.legislation.gov.uk/ukpga/1980/46/section/24F/1A) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(3)(a)](https://www.legislation.gov.uk/asp/2010/16/section/137/3/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
 
-[^key-a1c6f60ba9af55bc4832716eb88e3eef]: Textual amendment: Words in [s. 24F(2)](https://www.legislation.gov.uk/ukpga/1980/46/section/24F/2) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(3)(b)](https://www.legislation.gov.uk/asp/2010/16/section/137/3/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-a1c6f60ba9af55bc4832716eb88e3eef]: Textual amendment: Words in [s. 24F(2)](https://www.legislation.gov.uk/ukpga/1980/46/section/24F/2) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(3)(b)](https://www.legislation.gov.uk/asp/2010/16/section/137/3/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)

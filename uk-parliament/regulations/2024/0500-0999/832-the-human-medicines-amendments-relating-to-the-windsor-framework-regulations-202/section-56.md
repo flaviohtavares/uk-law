@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendment to regulation 68[^key-d4ee92fef3611dcc00932300b0609026]
+## 56. Amendment to regulation 68[^c-d4ee92fef3611dcc00932300b0609026]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ In regulation 68 (revocation, variation and suspension of UK marketing authorisa
 
 ## Annotations
 
-[^key-d4ee92fef3611dcc00932300b0609026]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2024/832/regulation/56) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-d4ee92fef3611dcc00932300b0609026]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2024/832/regulation/56) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00067]: Footnote: Regulation 68 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855), [2014/1878](https://www.legislation.gov.uk/uksi/2014/1878) and [2019/775](https://www.legislation.gov.uk/uksi/2019/775) (including that instrument as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488)).

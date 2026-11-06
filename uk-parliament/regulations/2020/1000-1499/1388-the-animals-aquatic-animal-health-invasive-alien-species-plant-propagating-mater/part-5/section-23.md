@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. The Seal Products (Amendments) (EU Exit) Regulations 2018[^key-0193f322d074b0a6df0cb15ace9e9a8a]
+## 23. The Seal Products (Amendments) (EU Exit) Regulations 2018[^c-0193f322d074b0a6df0cb15ace9e9a8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0193f322d074b0a6df0cb15ace9e9a8a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-0193f322d074b0a6df0cb15ace9e9a8a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00056]: Footnote: [S.I. 2018/1034](https://www.legislation.gov.uk/uksi/2018/1034).

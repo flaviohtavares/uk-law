@@ -22,20 +22,20 @@ summary: ''
 
 For the purposes of this Section:
 
-- ((a)) ‘securitisation’ means a securitisation as defined in regulation 3(1) of the Securitisation Regulations 2024[^key-049eb46bed09b9bf6c32288e8edfab4c];
-- ((b)) ‘securitisation position’ means a securitisation position as so defined[^key-9a9012ac936435a3c638204ee290a010];
-- ((c)) ‘sponsor’ means a sponsor as so defined[^key-0ebe21ec0ca91d666925eb228eea9fa4];
-- ((d)) ‘tranche’ means a tranche as so defined[^key-26eb4f24bf588fa48db2287ec333c9ad];
-- ((e)) [^key-e3f0b719f9942a42047b2eb003e49490]...
+- ((a)) ‘securitisation’ means a securitisation as defined in regulation 3(1) of the Securitisation Regulations 2024[^c-049eb46bed09b9bf6c32288e8edfab4c];
+- ((b)) ‘securitisation position’ means a securitisation position as so defined[^c-9a9012ac936435a3c638204ee290a010];
+- ((c)) ‘sponsor’ means a sponsor as so defined[^c-0ebe21ec0ca91d666925eb228eea9fa4];
+- ((d)) ‘tranche’ means a tranche as so defined[^c-26eb4f24bf588fa48db2287ec333c9ad];
+- ((e)) [^c-e3f0b719f9942a42047b2eb003e49490]...
 
 ## Annotations
 
-[^key-049eb46bed09b9bf6c32288e8edfab4c]: Textual amendment: Words in Art. 50(a) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/a)
+[^c-049eb46bed09b9bf6c32288e8edfab4c]: Textual amendment: Words in Art. 50(a) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/a)
 
-[^key-9a9012ac936435a3c638204ee290a010]: Textual amendment: Words in Art. 50(b) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/b)
+[^c-9a9012ac936435a3c638204ee290a010]: Textual amendment: Words in Art. 50(b) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/b)
 
-[^key-0ebe21ec0ca91d666925eb228eea9fa4]: Textual amendment: Words in Art. 50(c) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(c)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/c)
+[^c-0ebe21ec0ca91d666925eb228eea9fa4]: Textual amendment: Words in Art. 50(c) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(c)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/c)
 
-[^key-26eb4f24bf588fa48db2287ec333c9ad]: Textual amendment: Words in Art. 50(d) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(d)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/d)
+[^c-26eb4f24bf588fa48db2287ec333c9ad]: Textual amendment: Words in Art. 50(d) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(d)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/d)
 
-[^key-e3f0b719f9942a42047b2eb003e49490]: Textual amendment: Art. 50(e) omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(e)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/e)
+[^c-e3f0b719f9942a42047b2eb003e49490]: Textual amendment: Art. 50(e) omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 15(e)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/15/e)

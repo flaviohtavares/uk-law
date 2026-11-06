@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Youth injunctions, housing injunctions and consequential amendments[^key-3460ca71986ceb52f5527c977e3870b8][^key-80c362ff203e1690f96a2a94b4e5d13b]
+## 2. Youth injunctions, housing injunctions and consequential amendments[^c-3460ca71986ceb52f5527c977e3870b8][^c-80c362ff203e1690f96a2a94b4e5d13b]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3460ca71986ceb52f5527c977e3870b8]: Commencement: S. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-3460ca71986ceb52f5527c977e3870b8]: Commencement: S. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-80c362ff203e1690f96a2a94b4e5d13b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/20/section/2) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/b)
+[^c-80c362ff203e1690f96a2a94b4e5d13b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/20/section/2) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/b)

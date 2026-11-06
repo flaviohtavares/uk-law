@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Directors' long-term service contracts: requirement of members' approval[^c19879511][^c19879491][^c19879471][^c19642621][^c20597271][^key-13f597724d30308245bb85a216f9ad0f][^key-a919787701d7e7f5b16d93da61c8a9be]
+## 188. Directors' long-term service contracts: requirement of members' approval[^c19879511][^c19879491][^c19879471][^c19642621][^c20597271][^c-13f597724d30308245bb85a216f9ad0f][^c-a919787701d7e7f5b16d93da61c8a9be]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ or, in the case of employment having a period within paragraph (a) and a period 
 
 [^c20597271]: Modification: Ss. 188, 189 modified (retrospective to 30.3.2009 at 8.00 a.m.) by The Amendments to [Law (Resolution of Dunfermline Building Society) Order 2009 (S.I. 2009/814)](https://www.legislation.gov.uk/uksi/2009/814), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2), [7](https://www.legislation.gov.uk/uksi/2009/814/article/7), [Sch. para. 2(g)](https://www.legislation.gov.uk/uksi/2009/814/schedule/paragraph/2/g)
 
-[^key-13f597724d30308245bb85a216f9ad0f]: Modification: Ss. 188 189 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(g)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/g)
+[^c-13f597724d30308245bb85a216f9ad0f]: Modification: Ss. 188 189 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(g)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/g)
 
-[^key-a919787701d7e7f5b16d93da61c8a9be]: Modification: [S. 188](https://www.legislation.gov.uk/ukpga/2006/46/section/188) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/1)
+[^c-a919787701d7e7f5b16d93da61c8a9be]: Modification: [S. 188](https://www.legislation.gov.uk/ukpga/2006/46/section/188) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/1)

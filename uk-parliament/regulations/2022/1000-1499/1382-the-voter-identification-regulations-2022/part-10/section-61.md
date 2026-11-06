@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amendment of Part 3 of Schedule 4 (modifications to PCC elections rules for combination of polls)[^key-29d8055991d6baca644d97dd8a99a8c1]
+## 61. Amendment of Part 3 of Schedule 4 (modifications to PCC elections rules for combination of polls)[^c-29d8055991d6baca644d97dd8a99a8c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29d8055991d6baca644d97dd8a99a8c1]: Commencement: Reg. 61 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-29d8055991d6baca644d97dd8a99a8c1]: Commencement: Reg. 61 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

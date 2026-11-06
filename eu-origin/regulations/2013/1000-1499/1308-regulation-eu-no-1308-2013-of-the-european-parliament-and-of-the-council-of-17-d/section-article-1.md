@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. This Regulation establishes a common organisation of the markets for agricultural products, which means all the products listed in Annex I to the Treaties with the exception of the fishery and aquaculture products as defined in assimilated[^key-7c62943cddb685de6c0d2442711f52a5][^key-2fe029bdf79b2c7e8dcef31c78fe7af7] law on the common organisation of the markets in fishery and aquaculture products.
+1. This Regulation establishes a common organisation of the markets for agricultural products, which means all the products listed in Annex I to the Treaties with the exception of the fishery and aquaculture products as defined in assimilated[^c-7c62943cddb685de6c0d2442711f52a5][^c-2fe029bdf79b2c7e8dcef31c78fe7af7] law on the common organisation of the markets in fishery and aquaculture products.
 
 2. Agricultural products as defined in paragraph 1 shall be divided into the following sectors as listed in the respective parts of Annex I:
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c62943cddb685de6c0d2442711f52a5]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/1308/article/1/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 106(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/106/2/a)
+[^c-7c62943cddb685de6c0d2442711f52a5]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/1308/article/1/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 106(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/106/2/a)
 
-[^key-2fe029bdf79b2c7e8dcef31c78fe7af7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/1308/article/1/1) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/821/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fe029bdf79b2c7e8dcef31c78fe7af7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/1308/article/1/1) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/821/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

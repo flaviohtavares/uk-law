@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215A. Continuity etc. of funeral plan contracts[^key-f11d8be0330c32595ae1ba1e4480ab92]
+## 215A. Continuity etc. of funeral plan contracts[^c-f11d8be0330c32595ae1ba1e4480ab92]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ to, or on behalf of, the relevant funeral plan provider or to the administrator 
 
 ## Annotations
 
-[^key-f11d8be0330c32595ae1ba1e4480ab92]: Textual amendment: Ss. 215A, 215B inserted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2022/466/article/6/6)
+[^c-f11d8be0330c32595ae1ba1e4480ab92]: Textual amendment: Ss. 215A, 215B inserted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2022/466/article/6/6)

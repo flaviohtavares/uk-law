@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 216. Power to change penalty provisions in Chapter 5[^key-be7361454aed7895004c3387863c771e]
+## 216. Power to change penalty provisions in Chapter 5[^c-be7361454aed7895004c3387863c771e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7361454aed7895004c3387863c771e]: Commencement: [S. 216](https://www.legislation.gov.uk/asp/2014/16/section/216) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-be7361454aed7895004c3387863c771e]: Commencement: [S. 216](https://www.legislation.gov.uk/asp/2014/16/section/216) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

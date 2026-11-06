@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Environmental targets: particulate matter[^key-126fb238f38056372b38e63534588e1b][^key-f212be6ea5653eb80eadda7fcab4506b]
+## 2. Environmental targets: particulate matter[^c-126fb238f38056372b38e63534588e1b][^c-f212be6ea5653eb80eadda7fcab4506b]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-126fb238f38056372b38e63534588e1b]: Commencement: S. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-126fb238f38056372b38e63534588e1b]: Commencement: S. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f212be6ea5653eb80eadda7fcab4506b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/30/section/2) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)
+[^c-f212be6ea5653eb80eadda7fcab4506b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/30/section/2) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)

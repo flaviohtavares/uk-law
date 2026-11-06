@@ -47,8 +47,8 @@ summary: ''
 
 (10) If the firm is carrying on, or has carried on, other trades apart from the relevant trade, subsections (7) and (8) have effect as if references to the relevant trade were references to the relevant trade or any of the other trades.
 
-(11) This section needs to be read with section 113A and any regulations made under section 114 (exclusion of amounts[^key-1cca1eb3be800ba66a431e3288a0e010] in calculating the individual's contribution to the firm for the purposes of section 104).
+(11) This section needs to be read with section 113A and any regulations made under section 114 (exclusion of amounts[^c-1cca1eb3be800ba66a431e3288a0e010] in calculating the individual's contribution to the firm for the purposes of section 104).
 
 ## Annotations
 
-[^key-1cca1eb3be800ba66a431e3288a0e010]: Textual amendment: Words in s. 105(11) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 11(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/11/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-1cca1eb3be800ba66a431e3288a0e010]: Textual amendment: Words in s. 105(11) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 11(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/11/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

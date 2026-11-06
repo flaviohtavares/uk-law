@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Restriction on bringing children in[^key-36e99fa6ceaf13da37f817cebbe87c93]
+## 82. Restriction on bringing children in[^c-36e99fa6ceaf13da37f817cebbe87c93]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ before that time, or before any later time which may be prescribed.
 
 ## Annotations
 
-[^key-36e99fa6ceaf13da37f817cebbe87c93]: Commencement: S. 82 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-36e99fa6ceaf13da37f817cebbe87c93]: Commencement: S. 82 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -26,7 +26,7 @@ summary: ''
 
 #### References to “standard amenities”
 
-**1.**[^key-79fdd0c131ca5facaf2108cfbf1e64e3] A reference in any previous enactment to “standard amenities” within the meaning of—
+**1.**[^c-79fdd0c131ca5facaf2108cfbf1e64e3] A reference in any previous enactment to “standard amenities” within the meaning of—
 
 - (a) section 39 of the Housing (Financial Provision) (Scotland) Act 1968 (c. 31),
 - (b) section 7 of the Housing (Scotland) Act 1974 (c. 45), or
@@ -36,7 +36,7 @@ is a reference to standard amenities within the meaning of section 73(6).
 
 #### Crofters Holdings (Scotland) Act 1886 (c. 29)
 
-**2.**[^key-91ed4e30a83bb951c616c08d4bd15cc3] For paragraph 1A of the Schedule to the Crofters Holdings (Scotland) Act 1886, substitute—
+**2.**[^c-91ed4e30a83bb951c616c08d4bd15cc3] For paragraph 1A of the Schedule to the Crofters Holdings (Scotland) Act 1886, substitute—
 
 > **1A.** Work carried out in implementation of an HRA action plan included in an HRA designation order made under section 1 of the Housing (Scotland) Act 2006 (asp 1).
 
@@ -44,7 +44,7 @@ is a reference to standard amenities within the meaning of section 73(6).
 
 #### Land Compensation (Scotland) Act 1973 (c. 56)
 
-**3.**[^key-f1b874f181d4ec4a8328d9cde2b2bfdf] In section 27(7) of the Land Compensation (Scotland) Act 1973—
+**3.**[^c-f1b874f181d4ec4a8328d9cde2b2bfdf] In section 27(7) of the Land Compensation (Scotland) Act 1973—
 
 - (a) in paragraph (a), for the words “an order under section 88 of that Act” substitute “ an HRA designation order under section 1 of the Housing (Scotland) Act 2006 (asp 1) ”,
 - (b) in each of paragraphs (b) and (c), at the end insert “ of 1987 ”,
@@ -69,7 +69,7 @@ is a reference to standard amenities within the meaning of section 73(6).
 
 substitute “ private rented housing ”.
 
-**6.**[^key-77387e2d6d1a5c8457a1f826ad0d6f17] In section 106—
+**6.**[^c-77387e2d6d1a5c8457a1f826ad0d6f17] In section 106—
 
 - (a) in subsection (1), for the words “Part XIII of the Housing (Scotland) Act 1987” substitute “ a grant or loan under Part 2 of the Housing (Scotland) Act 2006 (asp 1) ”,
 - (b) in subsection (2), for the words “section 241(2) of the Act of 1987” substitute “ section 75(7) of the said Act of 2006 ”,
@@ -92,13 +92,13 @@ substitute “ private rented housing ”.
 
 #### Housing (Scotland) Act 1987 (c. 26)
 
-**9.**[^key-49b9bebe240480083d97668931093ec8] The 1987 Act is amended as follows.
+**9.**[^c-49b9bebe240480083d97668931093ec8] The 1987 Act is amended as follows.
 
-**10.**[^key-0ef0519136472402ab60d38500613788] In section 107, after “amenities”, where it first occurs, insert “ (within the meaning given by section 73(6) of the Housing (Scotland) Act 2006 (asp 1)) ”.
+**10.**[^c-0ef0519136472402ab60d38500613788] In section 107, after “amenities”, where it first occurs, insert “ (within the meaning given by section 73(6) of the Housing (Scotland) Act 2006 (asp 1)) ”.
 
-**11.**[^key-afaf23a3a919775744f3875f2d3d4440] In section 308(1), for the words from “sections” to “8” substitute “ section 121 ”.
+**11.**[^c-afaf23a3a919775744f3875f2d3d4440] In section 308(1), for the words from “sections” to “8” substitute “ section 121 ”.
 
-**12.**[^key-b3a5d31f3849f02e0c61cf2f79456433] In section 311(1), for paragraph (b) substitute—
+**12.**[^c-b3a5d31f3849f02e0c61cf2f79456433] In section 311(1), for paragraph (b) substitute—
 
 > - (b) if the house is in a housing renewal area (within the meaning of the Housing (Scotland) Act 2006 (asp 1)), the date on which the order designating it was made under section 1 of that Act of 2006 and the authority which made it;
 
@@ -108,7 +108,7 @@ substitute “ private rented housing ”.
 
 **13.** In section 313(3), for the words from “may,” to the end substitute “ may treat the failure as a failure to carry out work required by a work notice (within the meaning of the Housing (Scotland) Act 2006 (asp 1)) and the provisions of that Act which relate to the enforcement of such notices by local authorities shall apply with such modifications as may be necessary. ”.
 
-**14.**[^key-992dd1950a06306f9f52a00a8f0956f6] In section 338(1), for the definition of “disabled person” substitute—
+**14.**[^c-992dd1950a06306f9f52a00a8f0956f6] In section 338(1), for the definition of “disabled person” substitute—
 
 > “**disabled person**” has the same meaning as in the Disability Discrimination Act 1995 (c. 50),
 
@@ -133,7 +133,7 @@ substitute “ private rented housing ”.
 
 #### Home Energy Conservation Act 1995 (c. 10)
 
-**18.**[^key-a8fbaffe36112ea28b94e18d37ee37e0] In section 1 of the Home Energy Conservation Act 1995, in paragraph (aa)(ii) of the definition of “residential accommodation”, for the words from “a” to “1987” substitute “ an HMO (within the meaning of the Housing (Scotland) Act 2006 (asp 1)) which requires to be licensed under Part 5 of that Act ”.
+**18.**[^c-a8fbaffe36112ea28b94e18d37ee37e0] In section 1 of the Home Energy Conservation Act 1995, in paragraph (aa)(ii) of the definition of “residential accommodation”, for the words from “a” to “1987” substitute “ an HMO (within the meaning of the Housing (Scotland) Act 2006 (asp 1)) which requires to be licensed under Part 5 of that Act ”.
 
 #### Scottish Public Services Ombudsman Act 2002 (asp 11)
 
@@ -141,9 +141,9 @@ substitute “ private rented housing ”.
 
 #### Building (Scotland) Act 2003 (asp 8)
 
-**20.**[^key-240ba5176909258cefa46c53420e1136] Section 24 (duty to keep building standards register) of the Building (Scotland) Act 2003 is amended as follows.
+**20.**[^c-240ba5176909258cefa46c53420e1136] Section 24 (duty to keep building standards register) of the Building (Scotland) Act 2003 is amended as follows.
 
-**21.**[^key-51740f46c41fa3cb761f09d71392640d] In subsection (1)—
+**21.**[^c-51740f46c41fa3cb761f09d71392640d] In subsection (1)—
 
 - (a) the word “and” which follows paragraph (b) is repealed,
 - (b) after paragraph (c) insert
@@ -154,17 +154,17 @@ substitute “ private rented housing ”.
 
   .
 
-**22.**[^key-775d7b1923b2cebcb4766e0b12a0ad42] In subsection 2(a), for “(c)” substitute “ (d) ”.
+**22.**[^c-775d7b1923b2cebcb4766e0b12a0ad42] In subsection 2(a), for “(c)” substitute “ (d) ”.
 
 #### Fire (Scotland) Act 2005 (asp 5)
 
-**23.**[^key-8f0fb1cb23dd4518a1bc73cdc3e89efd] In section 78(5)(a) of the Fire (Scotland) Act 2005, for the words from “as” to “required” substitute “ which requires to be licensed under Part 5 of the Housing (Scotland) Act 2006 (asp 1) ”.
+**23.**[^c-8f0fb1cb23dd4518a1bc73cdc3e89efd] In section 78(5)(a) of the Fire (Scotland) Act 2005, for the words from “as” to “required” substitute “ which requires to be licensed under Part 5 of the Housing (Scotland) Act 2006 (asp 1) ”.
 
 ### Part 2 — Revocation of subordinate legislation
 
 #### The Civic Government (Scotland) Act 1982 (Licensing of Houses in Multiple Occupation) Orders
 
-**24.**[^key-c0e0646d49de6151a57e97a549d21af9] The following orders are revoked—
+**24.**[^c-c0e0646d49de6151a57e97a549d21af9] The following orders are revoked—
 
 - (a) the Civic Government (Scotland) Act 1982 (Licensing of Houses in Multiple Occupation) Order 2000 (S.S.I. 2000/177),
 - (b) the Civic Government (Scotland) Act 1982 (Licensing of Houses in Multiple Occupation) Amendment Order 2002 (S.S.I. 2002/161), and
@@ -172,32 +172,32 @@ substitute “ private rented housing ”.
 
 ## Annotations
 
-[^key-79fdd0c131ca5facaf2108cfbf1e64e3]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/1) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-79fdd0c131ca5facaf2108cfbf1e64e3]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/1) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-91ed4e30a83bb951c616c08d4bd15cc3]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/2) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
+[^c-91ed4e30a83bb951c616c08d4bd15cc3]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/2) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
 
-[^key-f1b874f181d4ec4a8328d9cde2b2bfdf]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/3) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
+[^c-f1b874f181d4ec4a8328d9cde2b2bfdf]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/3) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
 
-[^key-77387e2d6d1a5c8457a1f826ad0d6f17]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/6) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
+[^c-77387e2d6d1a5c8457a1f826ad0d6f17]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/6) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
 
-[^key-49b9bebe240480083d97668931093ec8]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/9) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-49b9bebe240480083d97668931093ec8]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/9) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-0ef0519136472402ab60d38500613788]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/10) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-0ef0519136472402ab60d38500613788]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/10) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-afaf23a3a919775744f3875f2d3d4440]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/11) in force at 1.4.2010 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-afaf23a3a919775744f3875f2d3d4440]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/11) in force at 1.4.2010 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-b3a5d31f3849f02e0c61cf2f79456433]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/12) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
+[^c-b3a5d31f3849f02e0c61cf2f79456433]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/12) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
 
-[^key-992dd1950a06306f9f52a00a8f0956f6]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/14) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-992dd1950a06306f9f52a00a8f0956f6]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/14) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-a8fbaffe36112ea28b94e18d37ee37e0]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/18) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-a8fbaffe36112ea28b94e18d37ee37e0]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/18) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-240ba5176909258cefa46c53420e1136]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/20) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-240ba5176909258cefa46c53420e1136]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/20) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-51740f46c41fa3cb761f09d71392640d]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/21) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-51740f46c41fa3cb761f09d71392640d]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/21) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-775d7b1923b2cebcb4766e0b12a0ad42]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/22) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-775d7b1923b2cebcb4766e0b12a0ad42]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/22) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-8f0fb1cb23dd4518a1bc73cdc3e89efd]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/23) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2010/159/article/6))
+[^c-8f0fb1cb23dd4518a1bc73cdc3e89efd]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/23) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2010/159/article/6))
 
-[^key-c0e0646d49de6151a57e97a549d21af9]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/24) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2010/159/article/6))
+[^c-c0e0646d49de6151a57e97a549d21af9]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/24) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2010/159/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Guidance[^key-a6a5d3679ade7d7c5fe9ece290a31b45]
+## 10. Guidance[^c-a6a5d3679ade7d7c5fe9ece290a31b45]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In the Pollution Control and Local Government (Northern Ireland) Order 1978 (NI 
 
 ## Annotations
 
-[^key-a6a5d3679ade7d7c5fe9ece290a31b45]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/23/section/10) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-a6a5d3679ade7d7c5fe9ece290a31b45]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/23/section/10) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

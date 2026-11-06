@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Urgent electro-convulsive therapy etc[^key-991cbde9f99f79e649c90f7700146acb]
+## 18. Urgent electro-convulsive therapy etc[^c-991cbde9f99f79e649c90f7700146acb]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-991cbde9f99f79e649c90f7700146acb]: Commencement: S. 18 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-991cbde9f99f79e649c90f7700146acb]: Commencement: S. 18 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

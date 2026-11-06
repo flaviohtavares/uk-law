@@ -16,7 +16,7 @@ summary: ''
 
 ## 16. Further circumstances in which a person is to be treated as available: permitted period
 
-[^key-d411177d356b94a37a8c62a0a89dcf90]
+[^c-d411177d356b94a37a8c62a0a89dcf90]
 
 (1) A person who is available for employment–
 
@@ -37,4 +37,4 @@ may be treated for a permitted period as available for employment in that period
 
 ## Annotations
 
-[^key-d411177d356b94a37a8c62a0a89dcf90]: Modification: Reg. 5 heading modified (22.11.2010) by [The Jobseeker’s Allowance (Work for Your Benefit Pilot Scheme) Regulations 2010 (S.I. 2010/1222)](https://www.legislation.gov.uk/uksi/2010/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/12/2/a)
+[^c-d411177d356b94a37a8c62a0a89dcf90]: Modification: Reg. 5 heading modified (22.11.2010) by [The Jobseeker’s Allowance (Work for Your Benefit Pilot Scheme) Regulations 2010 (S.I. 2010/1222)](https://www.legislation.gov.uk/uksi/2010/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/12/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. General trade licences: inspection of records[^key-a3b11fc473affc10b30b6e6cae309910]
+## 63. General trade licences: inspection of records[^c-a3b11fc473affc10b30b6e6cae309910]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3b11fc473affc10b30b6e6cae309910]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-a3b11fc473affc10b30b6e6cae309910]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

@@ -42,13 +42,13 @@ Coming into operation
 
 The Foyle, Carlingford and Irish Lights Commission, with the approval of the North/South Ministerial Council, makes the following Regulations in exercise of the powers conferred by section 13(1) of the Foyle Fisheries Act 1952[^f00001] and section 13(1) of the Foyle Fisheries Act (Northern Ireland) 1952[^f00002] and now vested in it[^f00003].
 
-## 1. Citation, commencement and application[^key-13ef42e7a8670ccf0094f79ec6af63b2]
+## 1. Citation, commencement and application[^c-13ef42e7a8670ccf0094f79ec6af63b2]
 
 (1) These Regulations may be cited as the Foyle Area (Control of Fishing) Regulations 2010 and shall come into operation on 11th June 2010.
 
 (2) These Regulations apply in the Foyle Area only.
 
-## 2. Interpretation[^key-0cff54f9586a34c8fd3c097484929327]
+## 2. Interpretation[^c-0cff54f9586a34c8fd3c097484929327]
 
 (1) In these Regulations—
 
@@ -56,7 +56,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 - “annual close season for angling”, in relation to any waters, means the annual close season for angling in those waters prescribed by the Foyle Area and Carlingford Area (Close Seasons for Angling) Regulations 2001[^f00004];
 - “annual season for netting”, in relation to any waters, means the period outside the annual close season for fishing in those waters using a net prescribed by the Foyle Area (Close Season) Regulations 1999[^f00005];
 - “brown trout” means a fish of the species *Salmotrutta,* but does not include sea trout;
-- “catch and release” means angling without using or attempting to use any hook, other than a single barbless hook where the gape of the hook does not exceed 12 mm[^key-be1bf88abb1bf1fa26e91c8d4039f70f] , or earthworm as bait and returning any salmon, sea trout or brown trout taken immediately to the waters from which it was taken without avoidable injury;
+- “catch and release” means angling without using or attempting to use any hook, other than a single barbless hook where the gape of the hook does not exceed 12 mm[^c-be1bf88abb1bf1fa26e91c8d4039f70f] , or earthworm as bait and returning any salmon, sea trout or brown trout taken immediately to the waters from which it was taken without avoidable injury;
 - “datum” means Mean Sea Level Belfast vertical datum;
 - “the defined mouth”, in relation to the River Foyle, means the mouth of that river as defined by instrument dated 8<sup>th</sup> February 1864 made under section 17 of the Salmon Fishery (Ireland) Act 1863[^f00006];
 - “the defined mouth”, in relation to the River Roe, means the mouth of that river as defined by the Foyle Area (Definition of the Mouth of the River Roe) Regulations 1983[^f00007];
@@ -81,7 +81,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (2) Any reference in these Regulations to the River Mourne, the River Faughan, the River Roe or the River Finn includes a reference to the tributaries of that river.
 
-## 3. Restriction on angling to catch and release in the River Mourne, River Faughan, River Roe and River Finn and suspension of netting in the River Foyle, Lough Foyle and seaward of Lough Foyle where numbers of migrating salmon do not exceed the specified target[^key-802e8c757080e656047d8a56b8bad608]
+## 3. Restriction on angling to catch and release in the River Mourne, River Faughan, River Roe and River Finn and suspension of netting in the River Foyle, Lough Foyle and seaward of Lough Foyle where numbers of migrating salmon do not exceed the specified target[^c-802e8c757080e656047d8a56b8bad608]
 
 (1) The Commission shall make a declaration in accordance with paragraph (2) if it is satisfied that—
 
@@ -99,7 +99,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (3) The Commission shall make a declaration ending the suspension of netting and restriction on angling imposed by a declaration made under paragraph (1) if it is satisfied that, in relation to the River Mourne, the River Faughan, the River Roe or, as the case may be, the River Finn, the number of salmon which have migrated upstream of the fish counter on that river referred to in paragraph (1) during each of any four of the previous five calendar years has exceeded the number of salmon for that river specified in paragraph (1).
 
-## 4. Restriction on angling to catch and release in the River Mourne, River Faughan, River Roe and River Finn where numbers of migrating salmon do not exceed the specified target[^key-984e084d3e8ec3aab812a20be0fe7af1]
+## 4. Restriction on angling to catch and release in the River Mourne, River Faughan, River Roe and River Finn where numbers of migrating salmon do not exceed the specified target[^c-984e084d3e8ec3aab812a20be0fe7af1]
 
 (1) This regulation does not apply in relation to any waters where a declaration made under regulation 3(1) restricting angling in those waters is in force.
 
@@ -112,7 +112,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (3) A declaration under paragraph (2) shall restrict angling in the River Mourne, the River Faughan, the River Roe or, as the case may be, the River Finn to angling on a catch and release basis only from the date and time specified in the declaration until the beginning of the next following annual close season for angling.
 
-## 5. Suspension of angling in the River Mourne, River Faughan and River Roe where numbers of migrating salmon do not exceed the specified target[^key-d087f2b1d98dd44e9fcd31da7eef50dd]
+## 5. Suspension of angling in the River Mourne, River Faughan and River Roe where numbers of migrating salmon do not exceed the specified target[^c-d087f2b1d98dd44e9fcd31da7eef50dd]
 
 (1) The Commission shall make a declaration in accordance with paragraph (2) if it is satisfied that—
 
@@ -126,7 +126,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 - (b) in the case of sub-paragraph (b), suspend angling in the River Faughan from the 11th October in that year until the beginning of the next following annual close season for angling;
 - (c) in the case of sub-paragraph (c), suspend angling in the River Roe from the 11th October in that year until the beginning of the next following annual close season for angling.
 
-## 6. Suspension of angling in the River Mourne and suspension of angling and netting in the River Foyle, Lough Foyle and seaward of Lough Foyle when River Mourne in flood[^key-3b7590fd0a2e69d7ddadc5dbb81775e6]
+## 6. Suspension of angling in the River Mourne and suspension of angling and netting in the River Foyle, Lough Foyle and seaward of Lough Foyle when River Mourne in flood[^c-3b7590fd0a2e69d7ddadc5dbb81775e6]
 
 (1) This regulation does not apply in relation to any waters—
 
@@ -143,7 +143,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 - (a) angling and netting in the River Foyle, Lough Foyle and seaward of Lough Foyle for a period of 48 hours from the date and time specified in the declaration; and
 - (b) angling in the River Mourne for a period of 48 hours from the date and time specified in the declaration.
 
-**7.**[^key-52d933024c69a66b1ae1f661ec7668a7] (1) This regulation does not apply in relation to any waters—
+**7.**[^c-52d933024c69a66b1ae1f661ec7668a7] (1) This regulation does not apply in relation to any waters—
 
 - (a) where a declaration made under regulation 3(1) suspending netting or restricting angling in those waters is in force; or
 - (b) where regulation 10(3) applies.
@@ -160,7 +160,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 - (a) angling and netting in the River Foyle, Lough Foyle and seaward of Lough Foyle for a period of 24 hours from the date and time specified in the declaration; and
 - (b) angling in the River Mourne for a period of 24 hours from the date and time specified in the declaration.
 
-## 8. Suspension of netting and angling in the River Roe when River Roe in flood[^key-56789a31fa2672dbb90e40231d861743]
+## 8. Suspension of netting and angling in the River Roe when River Roe in flood[^c-56789a31fa2672dbb90e40231d861743]
 
 (1) This regulation does not apply where a declaration made under regulation 3(1) suspending netting or restricting angling in the River Roe is in force.
 
@@ -168,7 +168,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (3) Subject to regulation 10, a declaration under paragraph (2) shall suspend netting and angling in the River Roe for a period of 48 hours from the date and time specified in the declaration.
 
-## 9. Suspension of angling in the River Mourne and suspension of angling and netting in the River Foyle, Lough Foyle and seaward of Lough Foyle in drought conditions[^key-81ff8b0996149d36b80efef83b36ca58]
+## 9. Suspension of angling in the River Mourne and suspension of angling and netting in the River Foyle, Lough Foyle and seaward of Lough Foyle in drought conditions[^c-81ff8b0996149d36b80efef83b36ca58]
 
 (1) This regulation does not apply in relation to any waters where a declaration made under regulation 3(1) suspending netting or restricting angling in those waters is in force.
 
@@ -181,7 +181,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (4) The Commission shall make a declaration ending the suspension of angling and netting imposed by the declaration made under paragraph (1) if it is satisfied that the water level in the River Mourne, as recorded by the Sion Mills River Gauging Station, has at any time during the period 1<sup>st</sup> April to 20<sup>th</sup> October (both dates inclusive) in any calendar year risen above 0.7 metres over datum for a continuous period of not less than 6 hours.
 
-## 10. Supplementary provision in relation to declarations made under regulations 6, 7 and 8[^key-eafa5fdae25e39970c69b54f2877319b]
+## 10. Supplementary provision in relation to declarations made under regulations 6, 7 and 8[^c-eafa5fdae25e39970c69b54f2877319b]
 
 (1) Any period of suspension of netting imposed by a declaration made under regulation 6, 7 or 8 in relation to any waters—
 
@@ -192,7 +192,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (3) Where the Commission has during any annual season for netting made a declaration under regulation 6(2) suspending netting in any waters for a period of 48 hours, no further declaration under regulation 6(2) or 7(2) shall be made in relation to those waters during the same annual season.
 
-## 11. Prohibition of netting and angling during period of suspension[^key-2391542012fafc170e2f10369ef10668]
+## 11. Prohibition of netting and angling during period of suspension[^c-2391542012fafc170e2f10369ef10668]
 
 (1) A person shall not, for the purpose of taking salmon or sea trout, use a net in the River Foyle, Lough Foyle and seaward of Lough Foyle or in the River Roe during any period of suspension of netting imposed in relation to those waters by a declaration made under regulation 3, 6, 7, 8 or 9.
 
@@ -200,7 +200,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (3) A person shall not kill any salmon, sea trout or brown trout taken by rod and line from the River Mourne, the River Faughan, the River Roe or the River Finn during any period of restriction on angling to catch and release imposed in relation to those waters by a declaration made under regulation 3 or 4.
 
-## 12. Declarations[^key-bc0c19705b20fdd9c9e8e6f864e7f8c9]
+## 12. Declarations[^c-bc0c19705b20fdd9c9e8e6f864e7f8c9]
 
 (1) A declaration made under these Regulations shall be made by certificate in writing signed by the Chief Executive of the Loughs Agency and shall be published in such manner as the Commission considers appropriate to bring it to the attention of the persons likely to be affected by it.
 
@@ -213,7 +213,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 - (e) specify the nature of the suspensions or restrictions applicable in those waters;
 - (f) specify, as appropriate, the date and time when the suspension or restriction takes effect or the date and time when the suspension or restriction will end or both.
 
-## 13. Malfunction of fish counters[^key-774ca8033e9b94ead37ae5a05ae0acd5]
+## 13. Malfunction of fish counters[^c-774ca8033e9b94ead37ae5a05ae0acd5]
 
 (1) Where any fish counter referred to in regulation 5, 6, 7 or 8 ceases to operate for a total of 5 days or more during any of the periods referred to in those regulations, the Commission shall not make a declaration suspending netting or angling or restricting angling under the regulation in question based on a recording taken from that fish counter during the period referred to in that regulation.
 
@@ -221,7 +221,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (3) In this regulation “day” means a complete day.
 
-## 14. Amendment of the Foyle Area (Control of Drift and Draft Net Fishing) Regulations 2004[^key-49892fa078351faf2494b31cccafa87b]
+## 14. Amendment of the Foyle Area (Control of Drift and Draft Net Fishing) Regulations 2004[^c-49892fa078351faf2494b31cccafa87b]
 
 (1) The Foyle Area (Control of Drift and Draft Net Fishing) Regulations 2004[^f00009] are amended in accordance with paragraph (2).
 
@@ -242,7 +242,7 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
   .
 
-## 15. Revocation[^key-66a2311ba81d3d86867df64e6002c4a6]
+## 15. Revocation[^c-66a2311ba81d3d86867df64e6002c4a6]
 
 The Foyle Area (Control of Fishing) Regulations 1999[^f00010] are revoked.
 
@@ -290,15 +290,15 @@ These regulations revoke and remake the Foyle Area (Control of Fishing) Regulati
 
 [^f00003]: Footnote: [S.I. 1999/859](https://www.legislation.gov.uk/uksi/1999/859) Article 21(1)
 
-[^key-13ef42e7a8670ccf0094f79ec6af63b2]: Commencement: Reg. 1 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-13ef42e7a8670ccf0094f79ec6af63b2]: Commencement: Reg. 1 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-0cff54f9586a34c8fd3c097484929327]: Commencement: Reg. 2 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-0cff54f9586a34c8fd3c097484929327]: Commencement: Reg. 2 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2001 No. 160](https://www.legislation.gov.uk/nisr/2001/160) as amended by [S.R. 2005 No. 400](https://www.legislation.gov.uk/nisr/2005/400)
 
 [^f00005]: Footnote: [S.R. 1999 No. 482](https://www.legislation.gov.uk/nisr/1999/482)
 
-[^key-be1bf88abb1bf1fa26e91c8d4039f70f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/2/1) substituted (31.1.2013) by [The Foyle Area (Control of Fishing) (Amendment) Regulations 2012 (S.R. 2012/459)](https://www.legislation.gov.uk/nisr/2012/459), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/459/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/459/regulation/2/2)
+[^c-be1bf88abb1bf1fa26e91c8d4039f70f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/2/1) substituted (31.1.2013) by [The Foyle Area (Control of Fishing) (Amendment) Regulations 2012 (S.R. 2012/459)](https://www.legislation.gov.uk/nisr/2012/459), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/459/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/459/regulation/2/2)
 
 [^f00006]: Footnote: 26 & 27 Vict., c114
 
@@ -306,32 +306,32 @@ These regulations revoke and remake the Foyle Area (Control of Fishing) Regulati
 
 [^f00008]: Footnote: [S.R. 1981 No. 139](https://www.legislation.gov.uk/nisr/1981/139) as amended by [S.R. 1986 No. 145](https://www.legislation.gov.uk/nisr/1986/145)
 
-[^key-802e8c757080e656047d8a56b8bad608]: Commencement: Reg. 3 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-802e8c757080e656047d8a56b8bad608]: Commencement: Reg. 3 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-984e084d3e8ec3aab812a20be0fe7af1]: Commencement: Reg. 4 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-984e084d3e8ec3aab812a20be0fe7af1]: Commencement: Reg. 4 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-d087f2b1d98dd44e9fcd31da7eef50dd]: Commencement: Reg. 5 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-d087f2b1d98dd44e9fcd31da7eef50dd]: Commencement: Reg. 5 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-3b7590fd0a2e69d7ddadc5dbb81775e6]: Commencement: Reg. 6 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-3b7590fd0a2e69d7ddadc5dbb81775e6]: Commencement: Reg. 6 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-52d933024c69a66b1ae1f661ec7668a7]: Commencement: Reg. 7 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-52d933024c69a66b1ae1f661ec7668a7]: Commencement: Reg. 7 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-56789a31fa2672dbb90e40231d861743]: Commencement: Reg. 8 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-56789a31fa2672dbb90e40231d861743]: Commencement: Reg. 8 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-81ff8b0996149d36b80efef83b36ca58]: Commencement: Reg. 9 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-81ff8b0996149d36b80efef83b36ca58]: Commencement: Reg. 9 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-eafa5fdae25e39970c69b54f2877319b]: Commencement: Reg. 10 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-eafa5fdae25e39970c69b54f2877319b]: Commencement: Reg. 10 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-2391542012fafc170e2f10369ef10668]: Commencement: Reg. 11 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-2391542012fafc170e2f10369ef10668]: Commencement: Reg. 11 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-bc0c19705b20fdd9c9e8e6f864e7f8c9]: Commencement: Reg. 12 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-bc0c19705b20fdd9c9e8e6f864e7f8c9]: Commencement: Reg. 12 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-774ca8033e9b94ead37ae5a05ae0acd5]: Commencement: Reg. 13 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-774ca8033e9b94ead37ae5a05ae0acd5]: Commencement: Reg. 13 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
-[^key-49892fa078351faf2494b31cccafa87b]: Commencement: Reg. 14 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-49892fa078351faf2494b31cccafa87b]: Commencement: Reg. 14 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2004 No. 255](https://www.legislation.gov.uk/nisr/2004/255)
 
-[^key-66a2311ba81d3d86867df64e6002c4a6]: Commencement: Reg. 15 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
+[^c-66a2311ba81d3d86867df64e6002c4a6]: Commencement: Reg. 15 in operation at 11.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1999 No. 483](https://www.legislation.gov.uk/nisr/1999/483)

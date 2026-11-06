@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. “Primary MTF”[^key-db9a9b1d3c33d37a8bb3a57ae31cb5e5]
+## 8. “Primary MTF”[^c-db9a9b1d3c33d37a8bb3a57ae31cb5e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db9a9b1d3c33d37a8bb3a57ae31cb5e5]: Commencement: Reg. 8 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
+[^c-db9a9b1d3c33d37a8bb3a57ae31cb5e5]: Commencement: Reg. 8 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
 
 [^f00025]: Footnote: The definition of “multilateral trading facility” was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and substituted by [S.I. 2019/662](https://www.legislation.gov.uk/uksi/2019/662).

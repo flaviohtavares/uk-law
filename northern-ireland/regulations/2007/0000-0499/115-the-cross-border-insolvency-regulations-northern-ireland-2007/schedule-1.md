@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — UNCITRAL MODEL LAW ON CROSS-BORDER INSOLVENCY[^key-2499b204a3939b63c5c3d600c5bac99c]
+## SCHEDULE 1 — UNCITRAL MODEL LAW ON CROSS-BORDER INSOLVENCY[^c-2499b204a3939b63c5c3d600c5bac99c]
 
 *Extent: N.I.*
 
@@ -50,7 +50,7 @@ Regulation 3(1)
   - (i) section 22 of the Financial Services and Markets Act 2000 (classes of regulated activity and categories of investment);
   - (ii) any relevant order under that section; and
   - (iii) Schedule 2 to that Act (regulated activities);
-- (b) in sub-paragraph (g) “EEA State” means a State[^key-a41dbaa8ac37fa899e950f3866b8f363]... which is a contracting party to the agreement on the European Economic Area signed at Oporto on 2 May 1992.
+- (b) in sub-paragraph (g) “EEA State” means a State[^c-a41dbaa8ac37fa899e950f3866b8f363]... which is a contracting party to the agreement on the European Economic Area signed at Oporto on 2 May 1992.
 
 **4.** The court shall not grant any relief, or modify any relief already granted, or provide any co-operation or coordination, under or by virtue of any of the provisions of this Law if and to the extent that such relief or modified relief or cooperation or coordination would—
 
@@ -83,7 +83,7 @@ Regulation 3(1)
 For the purpose of this Law—
 
 - (a) “the court” means the High Court of Justice in Northern Ireland (Chancery Division) exercising its jurisdiction in accordance with the provisions of Article 4 and in respect of administrative functions includes the Bankruptcy and Companies office;
-- (b)[^key-ba89e203d62ea3a9e935997faf9c3148] “the EU Insolvency Regulation” means Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 as that Regulation forms part of domestic law on and after exit day[^key-bfc367c0f92093e69762c9f0485796bb]
+- (b)[^c-ba89e203d62ea3a9e935997faf9c3148] “the EU Insolvency Regulation” means Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 as that Regulation forms part of domestic law on and after exit day[^c-bfc367c0f92093e69762c9f0485796bb]
 - (c) “establishment” means any place of operations where the debtor carries out a non-transitory economic activity with human means and assets or services;
 - (d) “execution” means enforcement of a judgement or order under the Judgments Enforcement (Northern Ireland) Order 1981[^f00020];
 - (e) “foreign court” means a judicial or other authority competent to control or supervise a foreign proceeding;
@@ -92,7 +92,7 @@ For the purpose of this Law—
 - (h) “foreign proceeding” means a collective judicial or administrative proceeding in a foreign State, including an interim proceeding, pursuant to a law relating to insolvency in which proceedings the assets and affairs of the debtor are subject to control or supervision by a foreign court, for the purpose of reorganisation or liquidation;
 - (i) “foreign representative” means a person or body, including one appointed on an interim basis, authorised in a foreign proceeding to administer the reorganisation or the liquidation of the debtor’s assets or affairs or to act as a representative of the foreign proceeding;
 - (j) “hire-purchase agreement” includes a conditional sale agreement, a chattel leasing agreement and a retention of title agreement;
-- (k) “Northern Ireland insolvency law” means provision made by or under the EU Insolvency Regulation and[^key-fdec224fcef8e5127e518b701a513e75] the Insolvency (Northern Ireland) Order 1989[^f00021] (with the exception of Part 4 of that Order) or by or under that Regulation or[^key-f933c0c0503b9078b046c3c8dae18903] Order as extended or applied by or under any other statutory provision (excluding these Regulations);
+- (k) “Northern Ireland insolvency law” means provision made by or under the EU Insolvency Regulation and[^c-fdec224fcef8e5127e518b701a513e75] the Insolvency (Northern Ireland) Order 1989[^f00021] (with the exception of Part 4 of that Order) or by or under that Regulation or[^c-f933c0c0503b9078b046c3c8dae18903] Order as extended or applied by or under any other statutory provision (excluding these Regulations);
 - (l) “Northern Ireland insolvency officeholder” means—
   - (i) the official receiver within the meaning of Article 355 of the Insolvency (Northern Ireland) Order 1989 when acting as liquidator, provisional liquidator, trustee, interim receiver or nominee or supervisor of a voluntary arrangement; and
   - (ii) a person acting as an insolvency practitioner within the meaning of Article 3[^f00022] of that Order but shall not include a person acting as an administrative receiver
@@ -102,7 +102,7 @@ For the purpose of this Law—
 
 ##### Article 3. International obligations of Northern Ireland under the EC Insolvency Regulation
 
-[^key-96d315f6d834c0b3a62cb44569ba1598]...
+[^c-96d315f6d834c0b3a62cb44569ba1598]...
 
 ##### Article 4. Competent court
 
@@ -190,9 +190,9 @@ Upon recognition of a foreign proceeding, the foreign representative is entitled
 
 **2.** The court is entitled to presume that documents submitted in support of the application for recognition are authentic, whether or not they have been legalised.
 
-**2A.**[^key-fc92c0a33cc972f08aebbc1dd7c925c7] Where the EU Insolvency Regulation applies the centre of the debtor's main interests is to be determined in accordance with that Regulation.
+**2A.**[^c-fc92c0a33cc972f08aebbc1dd7c925c7] Where the EU Insolvency Regulation applies the centre of the debtor's main interests is to be determined in accordance with that Regulation.
 
-**3.**[^key-a6039ed19ac7907e419ef3f64513ed88] Subject to paragraph 2A, in the absence of proof to the contrary, the debtor's registered office, or habitual residence in the case of an individual, is presumed to be the centre of the debtor's main interests.
+**3.**[^c-a6039ed19ac7907e419ef3f64513ed88] Subject to paragraph 2A, in the absence of proof to the contrary, the debtor's registered office, or habitual residence in the case of an individual, is presumed to be the centre of the debtor's main interests.
 
 ##### Article 17. Decision to recognise a foreign proceeding
 
@@ -381,7 +381,7 @@ Without prejudice to secured claims or rights in rem, a creditor who has receive
 
 ## Annotations
 
-[^key-2499b204a3939b63c5c3d600c5bac99c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/115/schedule/1) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2499b204a3939b63c5c3d600c5bac99c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/115/schedule/1) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
 [^f00006]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38)
 
@@ -395,7 +395,7 @@ Without prejudice to secured claims or rights in rem, a creditor who has receive
 
 [^f00011]: Footnote: [1987 c.53](https://www.legislation.gov.uk/ukpga/1987/53)
 
-[^key-a41dbaa8ac37fa899e950f3866b8f363]: Textual amendment: Words in [Sch. 1 art. 1(3)(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/1/3/b) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 238](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/238) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a41dbaa8ac37fa899e950f3866b8f363]: Textual amendment: Words in [Sch. 1 art. 1(3)(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/1/3/b) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 238](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/238) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: Part V of S.I.[1990 No.1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504) was amended by [S.R. 1991 No. 443](https://www.legislation.gov.uk/nisr/1991/443) paragraph 49 of Schedule 5 to the Bank of England Act [1998 (c.11)](https://www.legislation.gov.uk/ukpga/1998/11), [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), Schedule 4 to [S.I. 2005/1454 (N.I.9)](https://www.legislation.gov.uk/nisi/2005/1454), and paragraphs 49, 50, 51 and 52 of Schedule 2 to [S.I. 2005/1455 (N.I.10)](https://www.legislation.gov.uk/nisi/2005/1455)
 
@@ -411,27 +411,27 @@ Without prejudice to secured claims or rights in rem, a creditor who has receive
 
 [^f00018]: Footnote: [1881 c.41](https://www.legislation.gov.uk/ukpga/1881/41)
 
-[^key-ba89e203d62ea3a9e935997faf9c3148]: Textual amendment: [Sch. 1 art. 2(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/b) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 144(2)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/144/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+[^c-ba89e203d62ea3a9e935997faf9c3148]: Textual amendment: [Sch. 1 art. 2(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/b) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 144(2)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/144/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
 
-[^key-bfc367c0f92093e69762c9f0485796bb]: Textual amendment: Words in [Sch. 1 art. 2(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/b) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 239(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/239/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bfc367c0f92093e69762c9f0485796bb]: Textual amendment: Words in [Sch. 1 art. 2(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/b) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 239(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/239/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00020]: Footnote: [S.I.1981/226 (N.I.6)](https://www.legislation.gov.uk/nisi/1981/226)
 
-[^key-fdec224fcef8e5127e518b701a513e75]: Textual amendment: Words in [Sch. 1 art. 2(k)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/k) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 239(b)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/239/b/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdec224fcef8e5127e518b701a513e75]: Textual amendment: Words in [Sch. 1 art. 2(k)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/k) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 239(b)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/239/b/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-f933c0c0503b9078b046c3c8dae18903]: Textual amendment: Words in [Sch. 1 art. 2(k)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/k) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 239(b)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/239/b/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f933c0c0503b9078b046c3c8dae18903]: Textual amendment: Words in [Sch. 1 art. 2(k)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/2/k) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 239(b)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/239/b/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: Article 3 was amended by Article 6 of [S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152), and by [S.R. 2002 No. 334](https://www.legislation.gov.uk/nisr/2002/334) and modified by [S.R. 1995 No. 225](https://www.legislation.gov.uk/nisr/1995/225), [S.R. 2003 No. 550](https://www.legislation.gov.uk/nisr/2003/550) and [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307)
 
 [^f00023]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); section 426 was amended by paragraph 16 of Schedule 4 to the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39)
 
-[^key-96d315f6d834c0b3a62cb44569ba1598]: Textual amendment: [Sch. 1 art. 3](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 240](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/240) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96d315f6d834c0b3a62cb44569ba1598]: Textual amendment: [Sch. 1 art. 3](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 240](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/240) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc92c0a33cc972f08aebbc1dd7c925c7]: Textual amendment: [Sch. 1 art. 16(2A)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/16/2A) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 241(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/241/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc92c0a33cc972f08aebbc1dd7c925c7]: Textual amendment: [Sch. 1 art. 16(2A)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/16/2A) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 241(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/241/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6039ed19ac7907e419ef3f64513ed88]: Textual amendment: [Sch. 1 art. 16(3)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/16/3) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 241(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/241/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6039ed19ac7907e419ef3f64513ed88]: Textual amendment: [Sch. 1 art. 16(3)](https://www.legislation.gov.uk/nisr/2007/115/schedule/1/article/16/3) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 241(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/241/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00024]: Footnote: Schedule B1 was inserted by Article 3(2) of, and Schedule 1 to, the Insolvency (Northern Ireland) Order 2005, ([S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455))
 

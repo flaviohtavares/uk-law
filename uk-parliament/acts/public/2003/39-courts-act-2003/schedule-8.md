@@ -411,7 +411,7 @@ shall be treated as if they had never had effect.
 
 ### Behring Sea Award Act 1894 (c. 2)
 
-**65.**[^key-7251234fae08732a362632ea1f985126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-7251234fae08732a362632ea1f985126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Health Acts Amendment Act 1907 (c. 53)
 
@@ -425,7 +425,7 @@ shall be treated as if they had never had effect.
 
 **68.** In section 3(4) (return of order to original court for further evidence to be taken), omit “appointed for the same commission area”.
 
-**69.**[^key-b6150ed2be63ba5cfe5d3954f643195e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-b6150ed2be63ba5cfe5d3954f643195e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **70.** (1) In section 7(2) (power to make rules about proceedings under the Act), for the words from “Without prejudice” to “such rules” substitute “ For the purpose of giving effect to this Act rules of court ”.
 
@@ -508,7 +508,7 @@ shall be treated as if they had never had effect.
 
 ### Marriage Act 1949 (c. 76)
 
-**85.**[^key-5421c5273d5f5a1491c28aaed25bb5e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-5421c5273d5f5a1491c28aaed25bb5e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Parks and Access to the Countryside Act 1949 (c. 97)
 
@@ -518,15 +518,15 @@ shall be treated as if they had never had effect.
 
 **87.** In section 17(1)(a) (registration of maintenance orders in England), for “for the same place” substitute “ acting in the same local justice area ”.
 
-**88.**[^key-96ba9d100b41e2015dcec120561836ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**88.**[^c-96ba9d100b41e2015dcec120561836ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**89.**[^key-96ba9d100b41e2015dcec120561836ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**89.**[^c-96ba9d100b41e2015dcec120561836ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**90.**[^key-96ba9d100b41e2015dcec120561836ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-96ba9d100b41e2015dcec120561836ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **91.**[^c19299591] (1) Amend section 25 (rules as to procedure of magistrates' courts) as follows.
 
-(2)[^key-d589df4d6fb3c898de82a9b28af7a2a4] Omit subsection (1).
+(2)[^c-d589df4d6fb3c898de82a9b28af7a2a4] Omit subsection (1).
 
 (3) In subsection (3)—
 
@@ -537,7 +537,7 @@ shall be treated as if they had never had effect.
 
 **92.** (1) Amend section 28(1) (interpretation) as follows.
 
-(2)[^key-42ec5a062638e3f87610c02f1d00ee0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-42ec5a062638e3f87610c02f1d00ee0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the definition of “prescribed”, omit—
 
@@ -588,17 +588,17 @@ for “justices' chief executive” substitute “ designated officer ”.
 
 ### Maintenance Orders Act 1958 (c. 39)
 
-**98.**[^key-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**99.**[^key-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**99.**[^c-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**100.**[^key-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**100.**[^c-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**101.**[^key-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**101.**[^c-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**102.**[^key-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**102.**[^c-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**103.**[^key-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**103.**[^c-7fdd264d003966623554fc1336e65a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **104.** In section 21(1) (interpretation), omit the definition of “rules of court”.
 
@@ -795,7 +795,7 @@ for “chief executive to” substitute “ designated officer for ”.
 
 ### Children and Young Persons Act 1969 (c. 54)
 
-**135.**[^key-b0b5f83bb0d5260fbb0da2062b7a0d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**135.**[^c-b0b5f83bb0d5260fbb0da2062b7a0d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **136.** In section 23A(2)(a) (court appearance of person arrested for breaking remand conditions), omit “for the petty sessions area in which he was arrested”.
 
@@ -826,7 +826,7 @@ for “chief executive to” substitute “ designated officer for ”.
 
 **142.** In section 6(7)(c) (collecting officer in case of order made by magistrates' court), for “justices' chief executive for that court or for” substitute “ designated officer for that court or for ”.
 
-**143.**[^key-cac3df49f8ad2464eceee72c3db6ac53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**143.**[^c-cac3df49f8ad2464eceee72c3db6ac53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **144.** In section 21(2)(a)(ii) (costs to be sum due), for “justices' chief executive for the” substitute “ designated officer for the magistrates' ”.
 
@@ -877,22 +877,22 @@ for “chief executive to” substitute “ designated officer for ”.
 
 ### Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
 
-**151.**[^key-bbdb8e4a0a4231eb81ea4c3d7f76044e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**151.**[^c-bbdb8e4a0a4231eb81ea4c3d7f76044e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**152.**[^key-bbdb8e4a0a4231eb81ea4c3d7f76044e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**152.**[^c-bbdb8e4a0a4231eb81ea4c3d7f76044e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**153.**[^key-bbdb8e4a0a4231eb81ea4c3d7f76044e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**153.**[^c-bbdb8e4a0a4231eb81ea4c3d7f76044e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **154.** In section 17(4) (proceedings in magistrates' courts)—
 
-- (a)[^key-7b49d59cb7444f0107603de36b4e4627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7b49d59cb7444f0107603de36b4e4627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after “Northern Ireland,” insert “ acting for the same ”.
 
 **155.** (1) Amend section 18 (provision that may be made by magistrates' courts rules) as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-baad17377ddb210b4f151cd2d1c5b40b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-baad17377ddb210b4f151cd2d1c5b40b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (a), for “for a particular petty sessions area” substitute “ in a particular local justice area ”, and for “for such other petty sessions area” substitute “ in such other local justice area ”.
 
 (3) In subsection (1A), for “rules made under section 144 of the Magistrates' Courts Act 1980” substitute “ rules of court ”.
@@ -903,22 +903,22 @@ for “chief executive to” substitute “ designated officer for ”.
 - (b) “by rules made under section 144 of the Magistrates' Courts Act 1980 or”, and
 - (c) “as the case may be,”.
 
-**157.**[^key-c7b30562e35d93157d1fb99324da94c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**157.**[^c-c7b30562e35d93157d1fb99324da94c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **158.** In section 26(6) (application for recovery of maintenance in convention country)—
 
-- (a)[^key-8488f25e4b39addb0a906707df1f02e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8488f25e4b39addb0a906707df1f02e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), after “district” insert “ in which the applicant is residing ”.
 
-**159.**[^key-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**159.**[^c-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**160.**[^key-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**160.**[^c-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**161.**[^key-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**161.**[^c-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**162.**[^key-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**162.**[^c-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**163.**[^key-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**163.**[^c-5a0b0e07dee9874cfae392facef0714d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **164.** In section 47(3) (construction of references to the jurisdiction of a court), for the words from “construed in relation” onwards substitute
 
@@ -943,13 +943,13 @@ for “chief executive to” substitute “ designated officer for ”.
 
 ### Matrimonial Causes Act 1973 (c. 18)
 
-**169.**[^key-361fb41be55b9d74729554bd7e08df3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**169.**[^c-361fb41be55b9d74729554bd7e08df3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**170.**[^key-c5bd4747416fe7cb4418056fc95be78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**170.**[^c-c5bd4747416fe7cb4418056fc95be78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Breeding of Dogs Act 1973 (c. 60)
 
-**171.**[^key-d8e837858bd38d31d9ca1fa154daa85d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**171.**[^c-d8e837858bd38d31d9ca1fa154daa85d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Juries Act 1974 (c. 23)
 
@@ -1033,7 +1033,7 @@ for “Crown Court rules” substitute “ Criminal Procedure Rules ”.
 
 ### Race Relations Act 1976 (c. 74)
 
-**187.**[^key-8e11cca7f85082a20c9d5937e7d03eff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**187.**[^c-8e11cca7f85082a20c9d5937e7d03eff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Administration of Justice Act 1977 (c. 38)
 
@@ -1084,19 +1084,19 @@ for “Crown Court rules” substitute “ Criminal Procedure Rules ”.
 
 (4) In subsection (10), for “the clerk to the justices” substitute “ a justices' clerk ”.
 
-**193.**[^key-b3f7cd4069cc2f4cc3f9fa136437616e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**193.**[^c-b3f7cd4069cc2f4cc3f9fa136437616e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**194.**[^key-91784d1d20fe37b8071b6c7de9d877a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**194.**[^c-91784d1d20fe37b8071b6c7de9d877a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **195.** (1) Amend section 32 (enforcement of orders for payment of money) as follows.
 
-(2)[^key-8a899515e46d67cd1454e1756e066d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8a899515e46d67cd1454e1756e066d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (6), for “rules” substitute “ rules of court ”.
 
 **196.** (1) Amend section 35 (orders for repayment of sums paid after cessation of order by reason of marriage) as follows.
 
-(2)[^key-3b224a94f7cfbcbbd13d02263dbbe4dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3b224a94f7cfbcbbd13d02263dbbe4dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (8), for “, the officer designated by the Lord Chancellor or the justices' chief executive” substitute “ or the officer designated by the Lord Chancellor ”.
 
@@ -1165,7 +1165,7 @@ for “justices' chief executive for” substitute “ designated officer for �
 
 (2) In subsection (3)(b), for “a justices' chief executive” substitute “ the designated officer for the court or for any other magistrates' court ”.
 
-(3)[^key-2a77c7557ee9deec8cdb790b7f9d4ba4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2a77c7557ee9deec8cdb790b7f9d4ba4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **209.** (1) Amend section 59A (orders for periodical payment: proceedings by justices' chief executive) as follows.
 
@@ -1200,15 +1200,15 @@ for “justices' chief executive for” substitute “ designated officer for �
 
 (7) In the section heading, for “justices' chief executive” substitute “ designated officer ”.
 
-**210.**[^key-44e464d895b15c89d92733e3faf477ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**210.**[^c-44e464d895b15c89d92733e3faf477ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **211.** (1) Amend section 60 (revocation, variation, etc. of orders for periodical payment) as follows.
 
 (2) In subsection (4), omit “the clerk of”.
 
-(3)[^key-14431c1471b24547653fe6f1eabfce40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-14431c1471b24547653fe6f1eabfce40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-14431c1471b24547653fe6f1eabfce40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-14431c1471b24547653fe6f1eabfce40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **212.** (1) In section 61(1) (periodical payments payable by one person under more than one order), for “The power to make rules conferred by section 144 below shall, without prejudice to the generality of subsection (1) of that section, include power to” substitute “ Rules of court may ”.
 
@@ -1219,13 +1219,13 @@ for “justices' chief executive for” substitute “ designated officer for �
 
 **213.** In section 62(1)(ii) (proceedings for sums payable to child), for “justices' chief executive for” substitute “ designated officer for ”.
 
-**214.**[^key-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**214.**[^c-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**215.**[^key-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**215.**[^c-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**216.**[^key-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**216.**[^c-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**217.**[^key-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**217.**[^c-4abeb6ce38365f21d8f245a35c3a07e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **218.** (1) Amend section 77 (postponement of issue of warrant) as follows.
 
@@ -1311,9 +1311,9 @@ for “the rules” substitute “ rules of court ”.
 - (a) for “in a petty sessions area” substitute “ by a magistrates' court ”, and
 - (b) for “acting for that area” substitute “ acting in the area in which the person subject to the order resides ”.
 
-**228.**[^key-d09b2c61ad867587bdf8e475ca3da29b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**228.**[^c-d09b2c61ad867587bdf8e475ca3da29b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**229.**[^key-db9fdbb570fcdf20341da3d4787ecca8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**229.**[^c-db9fdbb570fcdf20341da3d4787ecca8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **230.** In section 97(1), omit—
 
@@ -1411,9 +1411,9 @@ for “the rules” substitute “ rules of court ”.
 
 **244.** Omit section 141 (clerks to justices).
 
-**245.**[^c19100201] (1)[^key-5e1b8c919762af4e2e539dbeb35e01b7] Amend section 144 (rule committee) as follows.
+**245.**[^c19100201] (1)[^c-5e1b8c919762af4e2e539dbeb35e01b7] Amend section 144 (rule committee) as follows.
 
-(2)[^key-5e1b8c919762af4e2e539dbeb35e01b7] In subsection (1), after “prescribing” insert
+(2)[^c-5e1b8c919762af4e2e539dbeb35e01b7] In subsection (1), after “prescribing” insert
 
 > except in relation to—
 >
@@ -1424,9 +1424,9 @@ for “the rules” substitute “ rules of court ”.
 
 and for “and justices' chief executives” substitute “ and designated officers for magistrates' courts ”.
 
-(3)[^key-5e1b8c919762af4e2e539dbeb35e01b7] In subsection (2), omit “the President of the Family Division of the High Court, the Senior District Judge (Chief Magistrate)”.
+(3)[^c-5e1b8c919762af4e2e539dbeb35e01b7] In subsection (2), omit “the President of the Family Division of the High Court, the Senior District Judge (Chief Magistrate)”.
 
-(4)[^key-b9057a96df562ca865e7a1fa9db3205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b9057a96df562ca865e7a1fa9db3205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Omit subsection (5).
 
@@ -1489,11 +1489,11 @@ and for “and justices' chief executives” substitute “ and designated offic
 
 > (2) A justice of the peace is not disqualified from acting as a judge of the Crown Court merely because the proceedings are not at a place within the local justice area to which he is assigned or because the proceedings are not related to that area in any other way.
 
-(3)[^key-15428a4799b4b08c0d4f4c8c3b18c328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-15428a4799b4b08c0d4f4c8c3b18c328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **260.** In section 9(6A) (Circuit judge and Recorder not to exercise powers of single judge), after “31” insert “ , 31B, 31C ”.
 
-**261.**[^key-020dc4b23e139d0051a82c597511c161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**261.**[^c-020dc4b23e139d0051a82c597511c161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **262.** In—
 
@@ -1521,9 +1521,9 @@ In paragraph 15(4A) of Schedule 1 (betting duties: notification of forfeiture an
 
 ### Civil Jurisdiction and Judgments Act 1982 (c. 27)
 
-**268.**[^key-ec610394bfd70edd4cc1c6ee2a79e313] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**268.**[^c-ec610394bfd70edd4cc1c6ee2a79e313] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**269.**[^key-936a1e66c7f4f54d1900c80cdeae94ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**269.**[^c-936a1e66c7f4f54d1900c80cdeae94ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Administration of Justice Act 1982 (c. 53)
 
@@ -1539,7 +1539,7 @@ In paragraph 15(4A) of Schedule 1 (betting duties: notification of forfeiture an
 
 for “the fees orders” substitute “ an order under section 92 of the Courts Act 2003 (fees) ”.
 
-**272.**[^key-7c2312098a994059c816917c7486e717] Omit—
+**272.**[^c-7c2312098a994059c816917c7486e717] Omit—
 
 - (a) section 73 (register of judgments and orders), and
 - (b) section 73A (provision for register to be kept by body under contract to Lord Chancellor).
@@ -1593,7 +1593,7 @@ for “the fees orders” substitute “ an order under section 92 of the Courts
 
 **278.**[^c19100801] Omit—
 
-- (a)[^key-053be60634facb88d2236ce5d6ebf4ea] section 40 (family proceedings rules), and
+- (a)[^c-053be60634facb88d2236ce5d6ebf4ea] section 40 (family proceedings rules), and
 - (b) section 41 (fees in family proceedings).
 
 ### Building Act 1984 (c. 55)
@@ -1793,7 +1793,7 @@ for “, combined fire authority, or magistrates' courts committee” substitute
 
 ### Road Traffic Offenders Act 1988 (c. 53)
 
-**310.**[^key-f425b550dbf35d13290661822e5c2d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**310.**[^c-f425b550dbf35d13290661822e5c2d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **311.** In sections 8(a) and 25(2)(a) (notification of date of birth and sex), for “a justices' chief executive” substitute “ the designated officer for a magistrates' court ”.
 
@@ -1802,7 +1802,7 @@ for “, combined fire authority, or magistrates' courts committee” substitute
 - (a) renumber the subsection inserted by paragraph 143(3) of Schedule 13 to the Access to Justice Act 1999 as subsection (7A), and
 - (b) in that subsection, for “justices' chief executive” substitute “ designated officer ”.
 
-**313.**[^key-3bb2d9c9940fdf230bde922766573238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**313.**[^c-3bb2d9c9940fdf230bde922766573238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **314.** [^c19184341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1920,15 +1920,15 @@ for “for the same petty sessions” substitute “ in the same local justice �
 
 ### Children Act 1989 (c. 41)
 
-**336.**[^key-feafe4c183a3f6e71646a111f3f1d786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**336.**[^c-feafe4c183a3f6e71646a111f3f1d786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**337.**[^key-6f4718169dc875392a5c541d7721952e] (1) Amend section 97 (privacy for children involved in certain proceedings) as follows.
+**337.**[^c-6f4718169dc875392a5c541d7721952e] (1) Amend section 97 (privacy for children involved in certain proceedings) as follows.
 
 (2) In subsection (1), for “Rules made under section 144 of the Magistrates' Courts Act 1980” substitute “ Family Procedure Rules ”.
 
 (3) Omit subsection (7)(a).
 
-**338.**[^key-4661447b20d22bd0bad6faa10ebffc9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**338.**[^c-4661447b20d22bd0bad6faa10ebffc9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **339.** In paragraph 10(6) of Schedule 1 (jurisdiction to hear application for alteration of maintenance agreement), for “at least one of the parties is resident in the commission area for which the court is appointed” substitute “ the court acts in, or is authorised by the Lord Chancellor to act for, a local justice area in which at least one of the parties is resident ”.
 
@@ -1960,7 +1960,7 @@ for “for the same petty sessions” substitute “ in the same local justice �
 
 **348.** Omit section 1(12) (duty of Lord Chancellor to prepare annual reports as to the business of the Senior Courts[^c20901291] and county courts).
 
-**349.**[^key-7fea37d5a5cf16cf3628724e9250ffec][^key-793a484a24a9f756b87b66d3ff5b7985] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**349.**[^c-7fea37d5a5cf16cf3628724e9250ffec][^c-793a484a24a9f756b87b66d3ff5b7985] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Justice Act 1991 (c. 53)
 
@@ -2054,7 +2054,7 @@ for “rules under section 144 of the Magistrates' Courts Act 1980” substitute
 
 ### Road Traffic (New Drivers) Act 1995 (c. 13)
 
-**365.**[^key-dee83e8f87aba6598c01181391ac423b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**365.**[^c-dee83e8f87aba6598c01181391ac423b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Merchant Shipping Act 1995 (c. 21)
 
@@ -2130,7 +2130,7 @@ for “rules under section 144 of the Magistrates' Courts Act 1980” substitute
 
 ### Breeding and Sale of Dogs (Welfare) Act 1999 (c. 11)
 
-**383.** In section 9(9) (application for termination of disqualification), for “for the same petty sessions” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-10804aa895be3db79ddb3f78f23cc929] “ in the same local justice ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-10804aa895be3db79ddb3f78f23cc929]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-10804aa895be3db79ddb3f78f23cc929]
+**383.** In section 9(9) (application for termination of disqualification), for “for the same petty sessions” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-10804aa895be3db79ddb3f78f23cc929] “ in the same local justice ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-10804aa895be3db79ddb3f78f23cc929]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-10804aa895be3db79ddb3f78f23cc929]
 
 ### Youth Justice and Criminal Evidence Act 1999 (c. 23)
 
@@ -2255,7 +2255,7 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 ### Proceeds of Crime Act 2002 (c. 29)
 
-**406.**[^key-7b78068396f770547bb834aeaff4cde1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**406.**[^c-7b78068396f770547bb834aeaff4cde1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **407.** In section 54(6) and (7) (payments by enforcement receivers), for “justices' chief executive” substitute “ designated officer ”.
 
@@ -2267,7 +2267,7 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 (4) In subsection (6), for “section 60 of the Justices of the Peace Act 1997 (c. 25)” substitute “ section 38 of the Courts Act 2003 ”.
 
-**409.**[^key-80d2cf94879699a194adbb46da633c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**409.**[^c-80d2cf94879699a194adbb46da633c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **410.**[^c19094371] In section 91 (Crown Court Rules) for “Crown Court Rules or (as the case may be) Criminal Appeal Rules” substitute “ Criminal Procedure Rules ”.
 
@@ -2275,7 +2275,7 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 **411.** In section 13(2) (requirement to provide information relating to adoption), for “justices' chief executive” substitute “ designated officer ”.
 
-**412.**[^key-985adc8df5bd5da5205d2252d803cee0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**412.**[^c-985adc8df5bd5da5205d2252d803cee0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **413.** (1) Amend section 141 (rules of procedure) as follows.
 
@@ -2299,11 +2299,11 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19091631]: Commencement: [Sch. 8 para. 63](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/63) partly in force; [Sch. 8 para. 63](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/63) not in force at Royal Assent see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2); [Sch. 8 para. 63](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/63) in force for certain purposes at 15.3.2004 by [S.I. 2004/401](https://www.legislation.gov.uk/uksi/2004/401), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2004/401/article/2/b/iii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/401/article/3)); [Sch. 8 para. 63](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/63) in force 1.4.2005 insofar as not already in force by [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-7251234fae08732a362632ea1f985126]: Textual amendment: [Sch. 8 para. 65](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/65) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
+[^c-7251234fae08732a362632ea1f985126]: Textual amendment: [Sch. 8 para. 65](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/65) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
 
 [^c19091691]: Commencement: [Sch. 8 para. 67](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/67) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/i) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-b6150ed2be63ba5cfe5d3954f643195e]: Textual amendment: [Sch. 8 para. 69](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/69) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b6150ed2be63ba5cfe5d3954f643195e]: Textual amendment: [Sch. 8 para. 69](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/69) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19091731]: Commencement: [Sch. 8 para. 71](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/71) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/ii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
@@ -2311,17 +2311,17 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19091771]: Commencement: [Sch. 8 para. 83](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/83) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/iii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-5421c5273d5f5a1491c28aaed25bb5e1]: Textual amendment: [Sch. 8 para. 85](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/85) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-5421c5273d5f5a1491c28aaed25bb5e1]: Textual amendment: [Sch. 8 para. 85](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/85) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-96ba9d100b41e2015dcec120561836ed]: Textual amendment: [Sch. 8 paras. 88-90](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/88) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-96ba9d100b41e2015dcec120561836ed]: Textual amendment: [Sch. 8 paras. 88-90](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/88) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19299591]: Commencement: [Sch. 8 para. 91](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/91) partly in force; [Sch. 8 para. 91](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/91) not in force at Royal Assent see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2); [Sch. 8 para 91(1)(3)(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/91/1/3/4) in force at 1.4.2005 by [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-d589df4d6fb3c898de82a9b28af7a2a4]: Commencement: [Sch. 8 para. 91(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/91/2) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
+[^c-d589df4d6fb3c898de82a9b28af7a2a4]: Commencement: [Sch. 8 para. 91(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/91/2) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
 
-[^key-42ec5a062638e3f87610c02f1d00ee0f]: Textual amendment: [Sch. 8 para. 92(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/92/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-42ec5a062638e3f87610c02f1d00ee0f]: Textual amendment: [Sch. 8 para. 92(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/92/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-7fdd264d003966623554fc1336e65a7e]: Textual amendment: [Sch. 8 paras. 98-103](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/98) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7fdd264d003966623554fc1336e65a7e]: Textual amendment: [Sch. 8 paras. 98-103](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/98) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19091851]: Commencement: [Sch. 8 para. 107](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/107) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/iv) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
@@ -2331,29 +2331,29 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19204011]: Textual amendment: [Sch. 8 para. 132](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/132) repealed (1.9.2007) by the [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(4)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/4), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-b0b5f83bb0d5260fbb0da2062b7a0d9c]: Textual amendment: [Sch. 8 para. 135](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/135) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 48](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/48); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-b0b5f83bb0d5260fbb0da2062b7a0d9c]: Textual amendment: [Sch. 8 para. 135](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/135) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 48](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/48); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
-[^key-cac3df49f8ad2464eceee72c3db6ac53]: Textual amendment: [Sch. 8 para. 143](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/143) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-cac3df49f8ad2464eceee72c3db6ac53]: Textual amendment: [Sch. 8 para. 143](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/143) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19091971]: Commencement: [Sch. 8 para. 145](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/145) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(vii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/vii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-bbdb8e4a0a4231eb81ea4c3d7f76044e]: Textual amendment: Sch. 8 paras. 151-153 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-bbdb8e4a0a4231eb81ea4c3d7f76044e]: Textual amendment: Sch. 8 paras. 151-153 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-7b49d59cb7444f0107603de36b4e4627]: Textual amendment: [Sch. 8 para. 154(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/154/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7b49d59cb7444f0107603de36b4e4627]: Textual amendment: [Sch. 8 para. 154(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/154/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-baad17377ddb210b4f151cd2d1c5b40b]: Textual amendment: [Sch. 8 para. 155(2)(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/155/2/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-baad17377ddb210b4f151cd2d1c5b40b]: Textual amendment: [Sch. 8 para. 155(2)(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/155/2/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-c7b30562e35d93157d1fb99324da94c1]: Textual amendment: [Sch. 8 para. 157](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/157) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c7b30562e35d93157d1fb99324da94c1]: Textual amendment: [Sch. 8 para. 157](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/157) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-8488f25e4b39addb0a906707df1f02e9]: Textual amendment: [Sch. 8 para. 158(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/158/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-8488f25e4b39addb0a906707df1f02e9]: Textual amendment: [Sch. 8 para. 158(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/158/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-5a0b0e07dee9874cfae392facef0714d]: Textual amendment: [Sch. 8 paras. 159-163](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/159) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-5a0b0e07dee9874cfae392facef0714d]: Textual amendment: [Sch. 8 paras. 159-163](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/159) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-361fb41be55b9d74729554bd7e08df3d]: Textual amendment: [Sch. 8 para. 169](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/169) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-361fb41be55b9d74729554bd7e08df3d]: Textual amendment: [Sch. 8 para. 169](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/169) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-c5bd4747416fe7cb4418056fc95be78b]: Textual amendment: [Sch. 8 para. 170](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/170) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c5bd4747416fe7cb4418056fc95be78b]: Textual amendment: [Sch. 8 para. 170](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/170) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-d8e837858bd38d31d9ca1fa154daa85d]: Textual amendment: [Sch. 8 para. 171](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/171) omitted (E.W.) (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 13](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/13) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27)); and repealed (S.) (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
+[^c-d8e837858bd38d31d9ca1fa154daa85d]: Textual amendment: [Sch. 8 para. 171](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/171) omitted (E.W.) (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 13](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/13) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27)); and repealed (S.) (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
 
 [^c19092011]: Commencement: [Sch. 8 para. 172](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/172) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/viii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
@@ -2365,17 +2365,17 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19092161]: Commencement: [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/186) wholly in force; [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/186) not in force at Royal Assent see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2); [Sch 8 para. 186(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/186/1/2) in force at 1.9.2004 by [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(ix)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/ix) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3)); [Sch. 8 para. 186(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/186/3) in force at 1.4.2005 by [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-8e11cca7f85082a20c9d5937e7d03eff]: Textual amendment: [Sch. 8 para. 187](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/187) repealed (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)
+[^c-8e11cca7f85082a20c9d5937e7d03eff]: Textual amendment: [Sch. 8 para. 187](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/187) repealed (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)
 
 [^c19092171]: Commencement: [Sch. 8 para. 190](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/190) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(x)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/x) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-b3f7cd4069cc2f4cc3f9fa136437616e]: Textual amendment: [Sch. 8 para. 193](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/193) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b3f7cd4069cc2f4cc3f9fa136437616e]: Textual amendment: [Sch. 8 para. 193](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/193) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-91784d1d20fe37b8071b6c7de9d877a3]: Textual amendment: [Sch. 8 para. 194](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/194) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-91784d1d20fe37b8071b6c7de9d877a3]: Textual amendment: [Sch. 8 para. 194](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/194) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-8a899515e46d67cd1454e1756e066d38]: Textual amendment: [Sch. 8 para. 195(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/195/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-8a899515e46d67cd1454e1756e066d38]: Textual amendment: [Sch. 8 para. 195(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/195/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-3b224a94f7cfbcbbd13d02263dbbe4dd]: Textual amendment: [Sch. 8 para. 196(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/196/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3b224a94f7cfbcbbd13d02263dbbe4dd]: Textual amendment: [Sch. 8 para. 196(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/196/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19177681]: Textual amendment: [Sch. 8 para. 199(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/199/3) repealed (1.4.2008 for E.W.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53(1)(b)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1/b), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/790/article/2/e)
 
@@ -2385,19 +2385,19 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19092241]: Commencement: Sch. 8 para. 207 partly in force at 1.9.2004; Sch. 8 para. 207 not in force at Royal Assent see s. 110(1)(2); Sch. 8 para. 207 in force for certain purposes at 1.9.2004 by [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xi)
 
-[^key-2a77c7557ee9deec8cdb790b7f9d4ba4]: Textual amendment: [Sch. 8 para. 208(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/208/3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-2a77c7557ee9deec8cdb790b7f9d4ba4]: Textual amendment: [Sch. 8 para. 208(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/208/3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-44e464d895b15c89d92733e3faf477ee]: Textual amendment: [Sch. 8 para. 210](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/210) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-44e464d895b15c89d92733e3faf477ee]: Textual amendment: [Sch. 8 para. 210](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/210) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-14431c1471b24547653fe6f1eabfce40]: Textual amendment: Sch. 8 para. 211(3)(4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-14431c1471b24547653fe6f1eabfce40]: Textual amendment: Sch. 8 para. 211(3)(4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-4abeb6ce38365f21d8f245a35c3a07e1]: Textual amendment: [Sch. 8 paras. 214-217](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/214) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4abeb6ce38365f21d8f245a35c3a07e1]: Textual amendment: [Sch. 8 paras. 214-217](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/214) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19092251]: Commencement: Sch. 8 para. 219 partly in force at 1.9.2004; Sch. 8 para. 219 not in force at Royal Assent see s. 110(1)(2); Sch. 8 para. 219 in force for certain purposes at 1.9.2004 by [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xi)
 
-[^key-d09b2c61ad867587bdf8e475ca3da29b]: Textual amendment: [Sch. 8 para. 228](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/228) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d09b2c61ad867587bdf8e475ca3da29b]: Textual amendment: [Sch. 8 para. 228](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/228) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-db9fdbb570fcdf20341da3d4787ecca8]: Textual amendment: [Sch. 8 para. 229](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/229) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-db9fdbb570fcdf20341da3d4787ecca8]: Textual amendment: [Sch. 8 para. 229](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/229) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19092291]: Commencement: Sch. 8 para. 233 partly in force at 1.9.2004; Sch. 8 para. 233 not in force at Royal Assent see s. 110(1)(2); Sch. 8 para. 233 in force for certain purposes at 1.9.2004 by [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xi)
 
@@ -2409,9 +2409,9 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19100201]: Commencement: Sch. 8 para. 245 partly in force at 7.10.2005; Sch. 8 para. 245 not in force at Royal Assent see s. 110(1)(2); Sch. 8 para. 245(1)(2) in force for certain purposes at 1.9.2004 by [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xi) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3)); Sch. 8 para. 245(3)(4)(5) in force for certain purposes at 1.4.2005 by [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)(iii)(iv)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y/iii/iv); Sch. 8 para. 245(2) in force for certain further purposes at 7.10.2005 by [S.I. 2005/2744](https://www.legislation.gov.uk/uksi/2005/2744), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/2744/article/2/3)
 
-[^key-5e1b8c919762af4e2e539dbeb35e01b7]: Commencement: Sch. 8 para. 245(1)-(3) in force at 6.4.2011 in so far as not already in force by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
+[^c-5e1b8c919762af4e2e539dbeb35e01b7]: Commencement: Sch. 8 para. 245(1)-(3) in force at 6.4.2011 in so far as not already in force by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
 
-[^key-b9057a96df562ca865e7a1fa9db3205a]: Textual amendment: Sch. 8 para. 245(4) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/8)
+[^c-b9057a96df562ca865e7a1fa9db3205a]: Textual amendment: Sch. 8 para. 245(4) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/8)
 
 [^c19100581]: Commencement: Sch. 8 para. 246 wholly in force at 1.9.2004, see s. 110(1)(2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xi) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
@@ -2423,21 +2423,21 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c20901271]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8): cross-heading substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1); {[S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)}
 
-[^key-15428a4799b4b08c0d4f4c8c3b18c328]: Textual amendment: [Sch. 8 para. 259(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/259/3) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-15428a4799b4b08c0d4f4c8c3b18c328]: Textual amendment: [Sch. 8 para. 259(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/259/3) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
 
-[^key-020dc4b23e139d0051a82c597511c161]: Textual amendment: [Sch. 8 para. 261](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/261) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-020dc4b23e139d0051a82c597511c161]: Textual amendment: [Sch. 8 para. 261](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/261) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
 
 [^c20901281]: Textual amendment: Words in [Sch. 8 para. 263](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/263) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); {[S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)}
 
-[^key-ec610394bfd70edd4cc1c6ee2a79e313]: Textual amendment: [Sch. 8 para. 268](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/268) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ec610394bfd70edd4cc1c6ee2a79e313]: Textual amendment: [Sch. 8 para. 268](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/268) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-936a1e66c7f4f54d1900c80cdeae94ac]: Textual amendment: [Sch. 8 para. 269](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/269) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-936a1e66c7f4f54d1900c80cdeae94ac]: Textual amendment: [Sch. 8 para. 269](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/269) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-7c2312098a994059c816917c7486e717]: Commencement: [Sch. 8 para. 272](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/272) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
+[^c-7c2312098a994059c816917c7486e717]: Commencement: [Sch. 8 para. 272](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/272) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
 
 [^c19100801]: Commencement: [Sch. 8 para. 278](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/278) partly in force at 4.1.2005; [Sch. 8 para. 278](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/278) not in force at Royal Assent see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2); [Sch. 8 para. 278(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/278/b) in force at 4.1.2005 by [S.I. 2004/3123](https://www.legislation.gov.uk/uksi/2004/3123), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2004/3123/article/2/b/iv)
 
-[^key-053be60634facb88d2236ce5d6ebf4ea]: Commencement: [Sch. 8 para. 278(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/278/a) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
+[^c-053be60634facb88d2236ce5d6ebf4ea]: Commencement: [Sch. 8 para. 278(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/278/a) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
 
 [^c19293631]: Textual amendment: [Sch. 8 para. 281(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/281/2) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lv)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/t/u/lv) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/2))
 
@@ -2447,9 +2447,9 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19093211]: Commencement: [Sch. 8 para. 290](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/290) partly in force; [Sch. 8 para. 290](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/290) not in force at Royal Assent see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2); [Sch. 8 para. 290(1)(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/290/1/3) in force at 1.9.2004 by [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xiii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xiii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3)); [Sch. 8 para. 290(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/290/2) in force at 1.4.2005 by [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-f425b550dbf35d13290661822e5c2d38]: Textual amendment: [Sch. 8 para. 310](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/310) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 29(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/29/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-f425b550dbf35d13290661822e5c2d38]: Textual amendment: [Sch. 8 para. 310](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/310) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 29(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/29/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-3bb2d9c9940fdf230bde922766573238]: Textual amendment: [Sch. 8 para. 313](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/313) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 29(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/29/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-3bb2d9c9940fdf230bde922766573238]: Textual amendment: [Sch. 8 para. 313](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/313) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 29(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/29/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
 [^c19184341]: Textual amendment: [Sch. 8 para. 314](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/314) repealed (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 59](https://www.legislation.gov.uk/ukpga/2006/49/section/59), [61](https://www.legislation.gov.uk/ukpga/2006/49/section/61), [Sch. 7(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
 
@@ -2467,19 +2467,19 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19184281]: Textual amendment: [Sch. 8 para. 331](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/331) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 65](https://www.legislation.gov.uk/ukpga/2006/38/section/65), [66](https://www.legislation.gov.uk/ukpga/2006/38/section/66), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(m)(n)(xvi)](https://www.legislation.gov.uk/uksi/2007/858/article/2/m/n/xvi)
 
-[^key-feafe4c183a3f6e71646a111f3f1d786]: Textual amendment: [Sch. 8 para. 336](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/336) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-feafe4c183a3f6e71646a111f3f1d786]: Textual amendment: [Sch. 8 para. 336](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/336) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-6f4718169dc875392a5c541d7721952e]: Commencement: [Sch. 8 para. 337](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/337) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
+[^c-6f4718169dc875392a5c541d7721952e]: Commencement: [Sch. 8 para. 337](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/337) in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
 
-[^key-4661447b20d22bd0bad6faa10ebffc9e]: Textual amendment: [Sch. 8 para. 338](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/338) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4661447b20d22bd0bad6faa10ebffc9e]: Textual amendment: [Sch. 8 para. 338](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/338) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19177621]: Textual amendment: [Sch. 8 para. 347](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/347) repealed (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53(1)(b)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1/b), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/d/ii)
 
 [^c20901291]: Textual amendment: Words in [Sch. 8 para. 348](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/348) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); {[S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)}
 
-[^key-7fea37d5a5cf16cf3628724e9250ffec]: Textual amendment: [Sch. 8 para. 349](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/349) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7fea37d5a5cf16cf3628724e9250ffec]: Textual amendment: [Sch. 8 para. 349](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/349) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-793a484a24a9f756b87b66d3ff5b7985]: Commencement: Sch. 8 para. 349 in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
+[^c-793a484a24a9f756b87b66d3ff5b7985]: Commencement: Sch. 8 para. 349 in force at 6.4.2011 by [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/b)
 
 [^c19094031]: Commencement: [Sch. 8 para. 355](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/355) partly in force; [Sch. 8 para. 355](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/355) not in force at Royal Assent see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2); [Sch. 8 para. 355(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/355/a) in force at 1.9.2004 by [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xv)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xv) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3)); [Sch. 8 para. 355(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/355/b) in force at 1.4.2005 by [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
@@ -2487,7 +2487,7 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19094071]: Commencement: [Sch. 8 para. 364](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/364) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xvii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xvii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-dee83e8f87aba6598c01181391ac423b]: Textual amendment: [Sch. 8 para. 365](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/365) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 29(c)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/29/c); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-dee83e8f87aba6598c01181391ac423b]: Textual amendment: [Sch. 8 para. 365](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/365) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 29(c)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/29/c); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
 [^c19177811]: Textual amendment: [Sch. 8 para. 373](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/373) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53(1)(b)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1/b), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(o)(s)(v)](https://www.legislation.gov.uk/uksi/2007/709/article/3/o/s/v) (subject to [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
@@ -2507,7 +2507,7 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19094191]: Commencement: [Sch. 8 para. 381](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/381) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xviii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xviii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-10804aa895be3db79ddb3f78f23cc929]: Textual amendment: [Sch. 8 para. 383](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/383) omitted (E.W.) (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 13](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/13) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-10804aa895be3db79ddb3f78f23cc929]: Textual amendment: [Sch. 8 para. 383](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/383) omitted (E.W.) (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 13](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/13) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
 [^c19094201]: Commencement: [Sch. 8 para. 384](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/384) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xix) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
@@ -2523,10 +2523,10 @@ for “rules under section 144 of the Magistrates' Courts Act 1980 (c. 43)” su
 
 [^c19094331]: Commencement: [Sch. 8 para. 405](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/405) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xx)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xx) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-7b78068396f770547bb834aeaff4cde1]: Textual amendment: Sch. 8 para. 406 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 32](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/32); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-7b78068396f770547bb834aeaff4cde1]: Textual amendment: Sch. 8 para. 406 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 32](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/32); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-80d2cf94879699a194adbb46da633c22]: Textual amendment: [Sch. 8 para. 409](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/409) omitted (1.6.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 61](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/61); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(vii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/vii)
+[^c-80d2cf94879699a194adbb46da633c22]: Textual amendment: [Sch. 8 para. 409](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/409) omitted (1.6.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 61](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/61); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(vii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/vii)
 
 [^c19094371]: Commencement: [Sch. 8 para. 410](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/410) wholly in force at 1.9.2004, see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2) and [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xix) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-985adc8df5bd5da5205d2252d803cee0]: Textual amendment: [Sch. 8 para. 412](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/412) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-985adc8df5bd5da5205d2252d803cee0]: Textual amendment: [Sch. 8 para. 412](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/412) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — Schedule to be inserted before Schedule 5 to the 1983 Act[^key-403c2bd38f32c081b24c4950dfd8f585]
+## SCHEDULE 1 — Schedule to be inserted before Schedule 5 to the 1983 Act[^c-403c2bd38f32c081b24c4950dfd8f585]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-403c2bd38f32c081b24c4950dfd8f585]: Commencement: [Sch. 1](https://www.legislation.gov.uk/asp/2006/14/schedule/1) in force at 28.9.2021 by [S.S.I. 2021/314](https://www.legislation.gov.uk/ssi/2021/314), [art. 2](https://www.legislation.gov.uk/ssi/2021/314/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2021/314/article/3))
+[^c-403c2bd38f32c081b24c4950dfd8f585]: Commencement: [Sch. 1](https://www.legislation.gov.uk/asp/2006/14/schedule/1) in force at 28.9.2021 by [S.S.I. 2021/314](https://www.legislation.gov.uk/ssi/2021/314), [art. 2](https://www.legislation.gov.uk/ssi/2021/314/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2021/314/article/3))

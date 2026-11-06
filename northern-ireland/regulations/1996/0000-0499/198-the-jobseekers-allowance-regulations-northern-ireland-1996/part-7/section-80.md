@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Deductions in respect of earnings[^key-dc5891d5aeb12220880ea63ce4af24bb]
+## 80. Deductions in respect of earnings[^c-dc5891d5aeb12220880ea63ce4af24bb]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc5891d5aeb12220880ea63ce4af24bb]: Commencement: Reg. 80 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-dc5891d5aeb12220880ea63ce4af24bb]: Commencement: Reg. 80 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

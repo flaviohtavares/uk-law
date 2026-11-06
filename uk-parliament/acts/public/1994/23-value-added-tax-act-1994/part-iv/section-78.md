@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Interest in certain cases of official error.[^key-a47303a122f92ea09abd4d0998009edf]
+## 78. Interest in certain cases of official error.[^c-a47303a122f92ea09abd4d0998009edf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a47303a122f92ea09abd4d0998009edf]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/1994/23/section/78) omitted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [3(7)](https://www.legislation.gov.uk/uksi/2022/1298/article/3/7)
+[^c-a47303a122f92ea09abd4d0998009edf]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/1994/23/section/78) omitted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [3(7)](https://www.legislation.gov.uk/uksi/2022/1298/article/3/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Body ceasing to be a responsible body[^key-26cbca13abb5a6902ca0052acb67f979][^key-4da9d83c46b66f2124930a04d9d070e5]
+## 132. Body ceasing to be a responsible body[^c-26cbca13abb5a6902ca0052acb67f979][^c-4da9d83c46b66f2124930a04d9d070e5]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26cbca13abb5a6902ca0052acb67f979]: Commencement: S. 132 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-26cbca13abb5a6902ca0052acb67f979]: Commencement: S. 132 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-4da9d83c46b66f2124930a04d9d070e5]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2021/30/section/132) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-4da9d83c46b66f2124930a04d9d070e5]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2021/30/section/132) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

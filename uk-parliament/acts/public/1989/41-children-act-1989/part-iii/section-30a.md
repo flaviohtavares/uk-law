@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Meaning of appropriate national authority[^key-746ff16e381feb65024f06249845c8a2]
+## 30A. Meaning of appropriate national authority[^c-746ff16e381feb65024f06249845c8a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-746ff16e381feb65024f06249845c8a2]: Textual amendment: S. 30A omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [96](https://www.legislation.gov.uk/wsi/2016/413/regulation/96)
+[^c-746ff16e381feb65024f06249845c8a2]: Textual amendment: S. 30A omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [96](https://www.legislation.gov.uk/wsi/2016/413/regulation/96)

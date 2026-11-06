@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Use of proxy at meeting[^key-1de5064a696a148ab946852fde3721bf]
+## 107. Use of proxy at meeting[^c-1de5064a696a148ab946852fde3721bf]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.16 of the 1986 Rules[^f00049].
 
 ## Annotations
 
-[^key-1de5064a696a148ab946852fde3721bf]: Commencement: Rule 107 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-1de5064a696a148ab946852fde3721bf]: Commencement: Rule 107 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00049]: Footnote: Rule 7.16 was amended by paragraph 43 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Common Agricultural Policy Single Payment and Support Schemes (Appeals) (England) Regulations 2004 (revoked)[^key-128a60e53354028a033d99a891b8b3d2]
+The Common Agricultural Policy Single Payment and Support Schemes (Appeals) (England) Regulations 2004 (revoked)[^c-128a60e53354028a033d99a891b8b3d2]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 10th November 2004
 
-[^key-128a60e53354028a033d99a891b8b3d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128a60e53354028a033d99a891b8b3d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-128a60e53354028a033d99a891b8b3d2]
+## 1. Title and commencement[^c-128a60e53354028a033d99a891b8b3d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-128a60e53354028a033d99a891b8b3d2]
+## 2. Interpretation[^c-128a60e53354028a033d99a891b8b3d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-128a60e53354028a033d99a891b8b3d2]
+## 3. Application[^c-128a60e53354028a033d99a891b8b3d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Establishment of appeals procedure[^key-128a60e53354028a033d99a891b8b3d2]
+## 4. Establishment of appeals procedure[^c-128a60e53354028a033d99a891b8b3d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-128a60e53354028a033d99a891b8b3d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128a60e53354028a033d99a891b8b3d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-128a60e53354028a033d99a891b8b3d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128a60e53354028a033d99a891b8b3d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-128a60e53354028a033d99a891b8b3d2]: Textual amendment: Regulations revoked (5.2.2010) by [The Common Agricultural Policy Single Payment and Support Schemes (Appeals) Regulations 2010 (S.I. 2010/39)](https://www.legislation.gov.uk/uksi/2010/39), [regs. 1](https://www.legislation.gov.uk/uksi/2010/39/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/39/regulation/3)
+[^c-128a60e53354028a033d99a891b8b3d2]: Textual amendment: Regulations revoked (5.2.2010) by [The Common Agricultural Policy Single Payment and Support Schemes (Appeals) Regulations 2010 (S.I. 2010/39)](https://www.legislation.gov.uk/uksi/2010/39), [regs. 1](https://www.legislation.gov.uk/uksi/2010/39/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/39/regulation/3)

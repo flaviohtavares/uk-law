@@ -27,7 +27,7 @@ summary: ''
 - (a) send to that person such notice, of a kind specified in paragraph (3), as he considers appropriate; and
 - (b) enter the review in the list kept in pursuance of regulation 37.
 
-(2A)[^key-2436385d55641537c29400ee613828e8] Paragraph (2)(b) does not apply where the subject of the review has an anonymous entry.
+(2A)[^c-2436385d55641537c29400ee613828e8] Paragraph (2)(b) does not apply where the subject of the review has an anonymous entry.
 
 (3) A notice is specified for the purposes of paragraph (2)(a) if it—
 
@@ -65,4 +65,4 @@ the registration officer may determine without a hearing that the subject of the
 
 ## Annotations
 
-[^key-2436385d55641537c29400ee613828e8]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/36/2A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2014/1808/regulation/8)
+[^c-2436385d55641537c29400ee613828e8]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/36/2A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2014/1808/regulation/8)

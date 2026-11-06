@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Use of directors’ address information by registrar[^key-f58be2648f6798a3ce05448d2196c4c8][^key-16fb3c03d34059b0d484e310c908ad16]
+## 97. Use of directors’ address information by registrar[^c-f58be2648f6798a3ce05448d2196c4c8][^c-16fb3c03d34059b0d484e310c908ad16]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f58be2648f6798a3ce05448d2196c4c8]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-f58be2648f6798a3ce05448d2196c4c8]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-16fb3c03d34059b0d484e310c908ad16]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/56/section/97) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z39)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z39)
+[^c-16fb3c03d34059b0d484e310c908ad16]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/56/section/97) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z39)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z39)

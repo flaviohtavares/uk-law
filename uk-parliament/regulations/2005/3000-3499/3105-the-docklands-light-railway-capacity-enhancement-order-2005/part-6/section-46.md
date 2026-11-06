@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Powers of disposal, agreements for operation, etc.[^key-28cc5ea5e0f58a1296f10f927b60853b]
+## 46. Powers of disposal, agreements for operation, etc.[^c-28cc5ea5e0f58a1296f10f927b60853b]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-28cc5ea5e0f58a1296f10f927b60853b]: Commencement: Art. 46 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-28cc5ea5e0f58a1296f10f927b60853b]: Commencement: Art. 46 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
 [^f00030]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 

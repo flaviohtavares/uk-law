@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Decisions of a tribunal in determining applications[^key-4ac7396ac9d6b0c72ba5e0e9bffa7b9e]
+## 33. Decisions of a tribunal in determining applications[^c-4ac7396ac9d6b0c72ba5e0e9bffa7b9e]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac7396ac9d6b0c72ba5e0e9bffa7b9e]: Commencement: Reg. 33 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-4ac7396ac9d6b0c72ba5e0e9bffa7b9e]: Commencement: Reg. 33 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

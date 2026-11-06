@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — TRANSITIONAL PROVISIONS[^key-5f470cfd6defbecd510cf59e073303e8]
+## SCHEDULE 5 — TRANSITIONAL PROVISIONS[^c-5f470cfd6defbecd510cf59e073303e8]
 
 *Extent: N.I.*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Section 103(1).
 
-**1.**[^key-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5f470cfd6defbecd510cf59e073303e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f470cfd6defbecd510cf59e073303e8]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/apni/1969/24/schedule/5) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 58](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/58)
+[^c-5f470cfd6defbecd510cf59e073303e8]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/apni/1969/24/schedule/5) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 58](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/58)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.79. First meeting of creditors[^key-abef3cd4ce3353b5605e302f2f9ffa71]
+## 6.79. First meeting of creditors[^c-abef3cd4ce3353b5605e302f2f9ffa71]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abef3cd4ce3353b5605e302f2f9ffa71]: Commencement: [Rule 6.79](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.79) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-abef3cd4ce3353b5605e302f2f9ffa71]: Commencement: [Rule 6.79](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.79) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00153]: Marginal citation: \[FORM 6.34\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Restriction on employer-related investments[^key-303cf826baddcdd981621bd52b1fcf80]
+## 141. Restriction on employer-related investments[^c-303cf826baddcdd981621bd52b1fcf80]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-303cf826baddcdd981621bd52b1fcf80]: Commencement: Art. 141 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-303cf826baddcdd981621bd52b1fcf80]: Commencement: Art. 141 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

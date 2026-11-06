@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Banning orders: “violence” and “disorder”[^key-70093b9ccc3a9c43899b6f74f3009b73]
+## 44. Banning orders: “violence” and “disorder”[^c-70093b9ccc3a9c43899b6f74f3009b73]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70093b9ccc3a9c43899b6f74f3009b73]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2011/24/section/44) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
+[^c-70093b9ccc3a9c43899b6f74f3009b73]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2011/24/section/44) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)

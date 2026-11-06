@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Notice to be given where substances seized[^key-bbfa16d8b898b841111dfac86d1b2e26]
+## 57. Notice to be given where substances seized[^c-bbfa16d8b898b841111dfac86d1b2e26]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbfa16d8b898b841111dfac86d1b2e26]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2015/9/section/57) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-bbfa16d8b898b841111dfac86d1b2e26]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2015/9/section/57) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

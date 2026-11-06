@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. British connection and representative persons for fishing vessels[^key-9573dc3cfaee632d5e9a643795827e2f]
+## 14. British connection and representative persons for fishing vessels[^c-9573dc3cfaee632d5e9a643795827e2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ the vessel shall only be eligible to be registered as a fishing vessel if a repr
 
 ## Annotations
 
-[^key-9573dc3cfaee632d5e9a643795827e2f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/3138/regulation/14) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-9573dc3cfaee632d5e9a643795827e2f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/3138/regulation/14) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

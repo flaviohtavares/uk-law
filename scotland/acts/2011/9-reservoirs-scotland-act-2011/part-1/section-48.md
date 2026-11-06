@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Inspection reports: compliance[^key-135f1ac96c7d22d3e53712045bcf7b71]
+## 48. Inspection reports: compliance[^c-135f1ac96c7d22d3e53712045bcf7b71]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ must give to the reservoir manager an interim inspection compliance certificate.
 
 ## Annotations
 
-[^key-135f1ac96c7d22d3e53712045bcf7b71]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2011/9/section/48) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-135f1ac96c7d22d3e53712045bcf7b71]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2011/9/section/48) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

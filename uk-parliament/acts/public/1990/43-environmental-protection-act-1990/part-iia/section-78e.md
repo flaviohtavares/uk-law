@@ -34,7 +34,7 @@ the enforcing authority shall, in accordance with such procedure as may be presc
 (4) The only things by way of remediation which the enforcing authority may do, or require to be done, under or by virtue of this Part are things which it considers reasonable, having regard to—
 
 - (a) the cost which is likely to be involved; and
-- (b) the seriousness of the harm, or of the[^key-60d111522323118eb3b20acb135fa290] pollution of controlled waters, in question.
+- (b) the seriousness of the harm, or of the[^c-60d111522323118eb3b20acb135fa290] pollution of controlled waters, in question.
 
 (5) In determining for any purpose of this Part—
 
@@ -90,7 +90,7 @@ the enforcing authority shall have regard to any guidance issued for the purpose
 
 [^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
-[^key-60d111522323118eb3b20acb135fa290]: Textual amendment: Words in s. 78E(4)(b) inserted (E.W.) (6.4.2012) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 86(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/86/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2012/264](https://www.legislation.gov.uk/uksi/2012/264), [art. 2](https://www.legislation.gov.uk/uksi/2012/264/article/2); [S.I. 2012/284](https://www.legislation.gov.uk/wsi/2012/284), [art. 2](https://www.legislation.gov.uk/wsi/2012/284/article/2)
+[^c-60d111522323118eb3b20acb135fa290]: Textual amendment: Words in s. 78E(4)(b) inserted (E.W.) (6.4.2012) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 86(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/86/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2012/264](https://www.legislation.gov.uk/uksi/2012/264), [art. 2](https://www.legislation.gov.uk/uksi/2012/264/article/2); [S.I. 2012/284](https://www.legislation.gov.uk/wsi/2012/284), [art. 2](https://www.legislation.gov.uk/wsi/2012/284/article/2)
 
 [^c18905201]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

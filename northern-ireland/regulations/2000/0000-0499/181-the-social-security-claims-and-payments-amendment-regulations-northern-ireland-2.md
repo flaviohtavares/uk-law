@@ -39,19 +39,19 @@ Coming into operation
 
 14th June 2000
 
-The Department for Social Development, in exercise of the powers conferred by sections 13A(2)(*b*) and 165(1) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, after consultation with such organisations representing qualifying lenders likely to be affected by the Regulations as it considers appropriate[^f00003], hereby makes the following Regulations:[^key-3ad8731f1116422e45c2e9e2af180c8a]
+The Department for Social Development, in exercise of the powers conferred by sections 13A(2)(*b*) and 165(1) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, after consultation with such organisations representing qualifying lenders likely to be affected by the Regulations as it considers appropriate[^f00003], hereby makes the following Regulations:[^c-3ad8731f1116422e45c2e9e2af180c8a]
 
-## 1. Citation, commencement and interpretation[^key-dba998acd60dad7784dbc3135b955e15]
+## 1. Citation, commencement and interpretation[^c-dba998acd60dad7784dbc3135b955e15]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 14th June 2000.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-c718c69a1fdda2ec664aa79ae3e174b6]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-c718c69a1fdda2ec664aa79ae3e174b6]
 
 In paragraph 6 of Schedule 8B to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00005] (deductions of mortgage interest from benefit and payment to qualifying lenders) for “£0·60” there shall be substituted “£0·54”.
 
-## 3. Revocation[^key-3588d563368426ffef224890bfe8c974]
+## 3. Revocation[^c-3588d563368426ffef224890bfe8c974]
 
 The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1998[^f00006] are hereby revoked.
 
@@ -79,16 +79,16 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00003]: Footnote: *See* section 13A(2) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-3ad8731f1116422e45c2e9e2af180c8a]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2000/181) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-3ad8731f1116422e45c2e9e2af180c8a]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2000/181) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
-[^key-dba998acd60dad7784dbc3135b955e15]: Commencement: Reg. 1 in operation at 14.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1)
+[^c-dba998acd60dad7784dbc3135b955e15]: Commencement: Reg. 1 in operation at 14.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c718c69a1fdda2ec664aa79ae3e174b6]: Commencement: Reg. 2 in operation at 14.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1)
+[^c-c718c69a1fdda2ec664aa79ae3e174b6]: Commencement: Reg. 2 in operation at 14.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271) and [S.R. 1998 No. 428](https://www.legislation.gov.uk/nisr/1998/428)
 
-[^key-3588d563368426ffef224890bfe8c974]: Commencement: Reg. 3 in operation at 14.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1)
+[^c-3588d563368426ffef224890bfe8c974]: Commencement: Reg. 3 in operation at 14.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1998 No. 428](https://www.legislation.gov.uk/nisr/1998/428)

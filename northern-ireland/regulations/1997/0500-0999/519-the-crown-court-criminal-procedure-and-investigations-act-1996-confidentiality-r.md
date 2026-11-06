@@ -44,7 +44,7 @@ Coming into operation
 
 We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and section 19 of the Criminal Procedure and Investigations Act 1996[^f00002] and of all other powers enabling us in that behalf hereby with the concurrence of the Lord Chancellor make the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-17c27d502ba3e4511788130d45d1733c]
+## 1. Citation, commencement and interpretation[^c-17c27d502ba3e4511788130d45d1733c]
 
 (1) These Rules may be cited as the Crown Court (Criminal Procedure and Investigations Act 1996) (Confidentiality) Rules (Northern Ireland) 1997 and shall come into operation on 1st January 1998.
 
@@ -52,11 +52,11 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 
 - “the applicant” in any rule means the applicant in relation to an application to which that rule applies; and
 - “the prosecutor” means the prosecutor in the proceedings which are referred to in rule 2(3)(*a*);
-- “chief clerk” includes such other civil servant in the Department of Justice[^key-4df315bbe2ffffbcaaab169de294e76f] as may be authorised to act on his behalf for the purpose in question;
+- “chief clerk” includes such other civil servant in the Department of Justice[^c-4df315bbe2ffffbcaaab169de294e76f] as may be authorised to act on his behalf for the purpose in question;
 
 and any reference to a section by number is a reference to the section so numbered in the Criminal Procedure and Investigations Act 1996[^f00003].
 
-## 2. Applications under section 17(4)[^key-dd6953a811e1cd0b5bb47b99cc59dff5]
+## 2. Applications under section 17(4)[^c-dd6953a811e1cd0b5bb47b99cc59dff5]
 
 (1) This rule applies to an application under section 17(4).
 
@@ -76,7 +76,7 @@ and any reference to a section by number is a reference to the section so number
 
 (6) Where the prosecutor has reason to believe that a person may claim to have an interest in the object specified in a notice of application in pursuance of paragraph (3)(*a*) above, or in any information so specified in pursuance of paragraph (3)(*b*) above, he shall, as soon as reasonably practicable after receipt of a copy of that notice under paragraph (5) above, send a copy of the notice to that person and inform him of the date fixed in pursuance of paragraph (4) above.
 
-## 3. Applications under section 17(6)(b)[^key-65d7704ca5b041d0683f6f3f7aa3b463]
+## 3. Applications under section 17(6)(b)[^c-65d7704ca5b041d0683f6f3f7aa3b463]
 
 (1) This rule applies to an application under section 17(6)(*b*).
 
@@ -84,7 +84,7 @@ and any reference to a section by number is a reference to the section so number
 
 (3) The applicant shall at the same time send to the person whose application under section 17(4) is concerned a copy of the notice given in pursuance of paragraph (2) above.
 
-## 4. Determination of applications under section 17(4)[^key-33562785abe9171d65c8697327378d8f]
+## 4. Determination of applications under section 17(4)[^c-33562785abe9171d65c8697327378d8f]
 
 (1) Where no application to which rule 3 applies is made in accordance with paragraph (2) of that rule, the Court shall consider whether the application under section 17(4) may be determined without a hearing and may so determine it if the Court thinks fit.
 
@@ -95,7 +95,7 @@ and any reference to a section by number is a reference to the section so number
 
 of any order made under section 17(4) or, as the case may be, that no such order has been made.
 
-## 5. Proceedings for contempt of court under section 18[^key-e252f459572b94e2174dffe75981ae7c]
+## 5. Proceedings for contempt of court under section 18[^c-e252f459572b94e2174dffe75981ae7c]
 
 (1) This rule applies to proceedings in the Crown Court to deal with a contempt of court under section 18.
 
@@ -140,7 +140,7 @@ Provided that where the Court hears the proceedings in private it shall neverthe
 
 (13) The Court may, on the application of any person committed to custody for a contempt order section 18, discharge him.
 
-## 6. Applications under section 18(6)[^key-44ccdeb6920e59711e63ae0a0c8cc6ea]
+## 6. Applications under section 18(6)[^c-44ccdeb6920e59711e63ae0a0c8cc6ea]
 
 (1) Where the Crown Court finds a person guilty of contempt under section 18 and proposes to make an order under sub-section (4) or (7) of that section, the Court may adjourn the proceedings.
 
@@ -201,18 +201,18 @@ These Rules provide for the practice and procedure to be followed in the Crown C
 
 [^f00002]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 19 is modified in its application to Northern Ireland by paragraph 12 of Schedule 4 to the Act
 
-[^key-17c27d502ba3e4511788130d45d1733c]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1997/519/article/1) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
+[^c-17c27d502ba3e4511788130d45d1733c]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1997/519/article/1) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
 
-[^key-4df315bbe2ffffbcaaab169de294e76f]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/519/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 29](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/29) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-4df315bbe2ffffbcaaab169de294e76f]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/519/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 29](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/29) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
 [^f00003]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); as modified in its application to Northern Ireland by Schedule 4 to the Act
 
-[^key-dd6953a811e1cd0b5bb47b99cc59dff5]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1997/519/article/2) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
+[^c-dd6953a811e1cd0b5bb47b99cc59dff5]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1997/519/article/2) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
 
-[^key-65d7704ca5b041d0683f6f3f7aa3b463]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1997/519/article/3) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
+[^c-65d7704ca5b041d0683f6f3f7aa3b463]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1997/519/article/3) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
 
-[^key-33562785abe9171d65c8697327378d8f]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1997/519/article/4) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
+[^c-33562785abe9171d65c8697327378d8f]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1997/519/article/4) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
 
-[^key-e252f459572b94e2174dffe75981ae7c]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1997/519/article/5) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
+[^c-e252f459572b94e2174dffe75981ae7c]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1997/519/article/5) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
 
-[^key-44ccdeb6920e59711e63ae0a0c8cc6ea]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/1997/519/article/6) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)
+[^c-44ccdeb6920e59711e63ae0a0c8cc6ea]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/1997/519/article/6) in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/519/article/1/1)

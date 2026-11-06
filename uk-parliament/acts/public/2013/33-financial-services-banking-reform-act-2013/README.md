@@ -202,7 +202,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 97 — Reports](part-5/section-97.md)
 
-#### Technical Standards[^key-dc6b3a1cfe6a5619652300e707df9abb]
+#### Technical Standards[^c-dc6b3a1cfe6a5619652300e707df9abb]
 
 - [Section 97A — Technical standards](part-5/section-97a.md)
 - [Section 97B — Standards instruments](part-5/section-97b.md)
@@ -217,7 +217,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 101 — Power of FCA to require Regulator to refrain from specified action](part-5/section-101.md)
 - [Section 102 — Power of PRA to require Regulator to refrain from specified action](part-5/section-102.md)
 
-#### Recommendations[^key-e0bd16cf20812c070727a00ad247ccf3]
+#### Recommendations[^c-e0bd16cf20812c070727a00ad247ccf3]
 
 - [Section 102A — Recommendations by Treasury in connection with general duties](part-5/section-102a.md)
 
@@ -275,7 +275,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 123 — Restriction on making of ordinary administration orders](part-6/section-123.md)
 - [Section 124 — Restriction on enforcement of security](part-6/section-124.md)
 
-#### Powers to participate in Part 26A proceedings[^key-a311dff8472996bb8fb6c858b4ff632f]
+#### Powers to participate in Part 26A proceedings[^c-a311dff8472996bb8fb6c858b4ff632f]
 
 - [Section 124A — Powers of Bank to participate in Part 26A proceedings](part-6/section-124a.md)
 
@@ -364,8 +364,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-dc6b3a1cfe6a5619652300e707df9abb]: Textual amendment: [Ss. 97A-97D](https://www.legislation.gov.uk/ukpga/2013/33/section/97A) and cross-heading inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/4)
+[^c-dc6b3a1cfe6a5619652300e707df9abb]: Textual amendment: [Ss. 97A-97D](https://www.legislation.gov.uk/ukpga/2013/33/section/97A) and cross-heading inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/4)
 
-[^key-e0bd16cf20812c070727a00ad247ccf3]: Textual amendment: [S. 102A](https://www.legislation.gov.uk/ukpga/2013/33/section/102A) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/4); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
+[^c-e0bd16cf20812c070727a00ad247ccf3]: Textual amendment: [S. 102A](https://www.legislation.gov.uk/ukpga/2013/33/section/102A) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/4); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
 
-[^key-a311dff8472996bb8fb6c858b4ff632f]: Textual amendment: S. 124A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 49(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/49/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-a311dff8472996bb8fb6c858b4ff632f]: Textual amendment: S. 124A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 49(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/49/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

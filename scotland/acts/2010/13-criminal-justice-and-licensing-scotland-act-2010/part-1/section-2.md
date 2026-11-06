@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. The Council's objectives[^key-e4121fef24229b99768ad993847007f8]
+## 2. The Council's objectives[^c-e4121fef24229b99768ad993847007f8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The Council must, in carrying out its functions, seek to—
 
 ## Annotations
 
-[^key-e4121fef24229b99768ad993847007f8]: Commencement: S. 2 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-e4121fef24229b99768ad993847007f8]: Commencement: S. 2 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

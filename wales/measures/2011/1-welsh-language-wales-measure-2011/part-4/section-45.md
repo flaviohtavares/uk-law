@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Giving compliance notices to any person[^key-da34149e59d883d8a11fea430e20192a]
+## 45. Giving compliance notices to any person[^c-da34149e59d883d8a11fea430e20192a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da34149e59d883d8a11fea430e20192a]: Commencement: [S. 45](https://www.legislation.gov.uk/mwa/2011/1/section/45) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-da34149e59d883d8a11fea430e20192a]: Commencement: [S. 45](https://www.legislation.gov.uk/mwa/2011/1/section/45) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

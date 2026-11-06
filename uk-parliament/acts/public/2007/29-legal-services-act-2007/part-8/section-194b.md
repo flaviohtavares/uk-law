@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 194B. Payments in respect of pro bono representation: Supreme Court[^key-d5e5b3ecc1155f560e81178674912b7c]
+## 194B. Payments in respect of pro bono representation: Supreme Court[^c-d5e5b3ecc1155f560e81178674912b7c]
 
 *Extent: E+W+N.I.*
 
@@ -78,4 +78,4 @@ if (or to the extent that) the representation was provided before section 48 of 
 
 ## Annotations
 
-[^key-d5e5b3ecc1155f560e81178674912b7c]: Textual amendment: [S. 194B](https://www.legislation.gov.uk/ukpga/2007/29/section/194B) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/3), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-d5e5b3ecc1155f560e81178674912b7c]: Textual amendment: [S. 194B](https://www.legislation.gov.uk/ukpga/2007/29/section/194B) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/3), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)

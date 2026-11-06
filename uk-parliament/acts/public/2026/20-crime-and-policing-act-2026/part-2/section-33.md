@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Remote sale or letting of knives etc: Scotland[^key-e2e989d02d1f191625f8656e73dfbc83]
+## 33. Remote sale or letting of knives etc: Scotland[^c-e2e989d02d1f191625f8656e73dfbc83]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2e989d02d1f191625f8656e73dfbc83]: Commencement: S. 33 not in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/a)
+[^c-e2e989d02d1f191625f8656e73dfbc83]: Commencement: S. 33 not in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/a)

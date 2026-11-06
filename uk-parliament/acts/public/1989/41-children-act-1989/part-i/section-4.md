@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a child’s father and mother were not married to , or civil partners of,[^key-eba0a7ff822da130c4a8bd4612ba74a6] each other at the time of his birth , the father shall acquire parental responsibility for the child if—[^c15159141]
+(1) Where a child’s father and mother were not married to , or civil partners of,[^c-eba0a7ff822da130c4a8bd4612ba74a6] each other at the time of his birth , the father shall acquire parental responsibility for the child if—[^c15159141]
 
 - (a) he becomes registered as the child’s father under any of the enactments specified in subsection (1A);
 - (b) he and the child’s mother make an agreement (a “**parental responsibility agreement**”) providing for him to have parental responsibility for the child; or
@@ -54,7 +54,7 @@ subject, in the case of parental responsibility acquired under subsection (1)(c)
 
 [^c15159131]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1989/41/section/4) wholly in force at 14.10.1991, see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-eba0a7ff822da130c4a8bd4612ba74a6]: Textual amendment: Words in s. 4(1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/3)
+[^c-eba0a7ff822da130c4a8bd4612ba74a6]: Textual amendment: Words in s. 4(1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/3)
 
 [^c15159141]: Textual amendment: Words in s. 4(1) substituted (1.12.2003) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 111(2)](https://www.legislation.gov.uk/ukpga/2002/38/section/111/2), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2003/3079](https://www.legislation.gov.uk/uksi/2003/3079), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/3079/article/2/2/a)
 

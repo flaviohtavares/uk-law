@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Food-producing animals: records of acquisition and administration[^key-bc84c4abd282ae0dbd9ee9c500f09f04]
+## 19. Food-producing animals: records of acquisition and administration[^c-bc84c4abd282ae0dbd9ee9c500f09f04]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc84c4abd282ae0dbd9ee9c500f09f04]: Commencement: Reg. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bc84c4abd282ae0dbd9ee9c500f09f04]: Commencement: Reg. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

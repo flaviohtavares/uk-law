@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Commencement[^key-99a9f42a38c918248a65657d8a8481ad]
+## 65. Commencement[^c-99a9f42a38c918248a65657d8a8481ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99a9f42a38c918248a65657d8a8481ad]: Commencement: S. 65 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+[^c-99a9f42a38c918248a65657d8a8481ad]: Commencement: S. 65 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)

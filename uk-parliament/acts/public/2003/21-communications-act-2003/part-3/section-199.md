@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Other Functions of C4C[^key-4f09917046d364178c49994cff2b9955][^key-2af113dc3f2d2eb0a8566d7f0dd33fdd]
+## 199. Other Functions of C4C[^c-4f09917046d364178c49994cff2b9955][^c-2af113dc3f2d2eb0a8566d7f0dd33fdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,11 +25,11 @@ summary: ''
 - (a) to be activities that it is appropriate for them to carry on in association with the carrying out of their primary functions; and
 - (b) to be connected, otherwise than merely in financial terms, with activities undertaken by them for the carrying out of those functions.
 
-(2) In subsection (1) “[^key-fb7b49812b10adf2d801c21ab2176497]**primary functions**” means—
+(2) In subsection (1) “[^c-fb7b49812b10adf2d801c21ab2176497]**primary functions**” means—
 
 - (za) the performance of C4C's duties under section 198A;
 - (a) securing the continued provision of Channel 4; and
-- (b)[^key-ca92c67d9e28d6051b4462c22fdae8bd] the fulfilment of the public service remit for that Channel under section 265.
+- (b)[^c-ca92c67d9e28d6051b4462c22fdae8bd] the fulfilment of the public service remit for that Channel under section 265.
 
 (3) Section 24(5)(b) and (6) of the 1990 Act (power of C4C to establish, acquire an interest in or assist a qualifying company) shall cease to have effect.
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4f09917046d364178c49994cff2b9955]: Commencement: S. 199 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4f09917046d364178c49994cff2b9955]: Commencement: S. 199 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2af113dc3f2d2eb0a8566d7f0dd33fdd]: Textual amendment: Word in s. 199 heading inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-2af113dc3f2d2eb0a8566d7f0dd33fdd]: Textual amendment: Word in s. 199 heading inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-fb7b49812b10adf2d801c21ab2176497]: Textual amendment: Words in s. 199(2) substituted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-fb7b49812b10adf2d801c21ab2176497]: Textual amendment: Words in s. 199(2) substituted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-ca92c67d9e28d6051b4462c22fdae8bd]: Modification: S. 199(2)(b) modified (temp.) (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 7](https://www.legislation.gov.uk/uksi/2003/3142/article/7) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ca92c67d9e28d6051b4462c22fdae8bd]: Modification: S. 199(2)(b) modified (temp.) (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 7](https://www.legislation.gov.uk/uksi/2003/3142/article/7) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

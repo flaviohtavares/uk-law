@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Youth rehabilitation order with intensive supervision and surveillance or fostering: availability[^key-7c4e65527072207763a4831b9477aff2]
+## 178. Youth rehabilitation order with intensive supervision and surveillance or fostering: availability[^c-7c4e65527072207763a4831b9477aff2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ is available only in respect of an imprisonable offence.
 
 ## Annotations
 
-[^key-7c4e65527072207763a4831b9477aff2]: Commencement: S. 178 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7c4e65527072207763a4831b9477aff2]: Commencement: S. 178 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

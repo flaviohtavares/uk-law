@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Provision of social security information for purposes of functions under Education and Skills Act 2008[^key-1b5c6f0dd8236de8b8c48be96e77a7eb]
+## 254. Provision of social security information for purposes of functions under Education and Skills Act 2008[^c-1b5c6f0dd8236de8b8c48be96e77a7eb]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 > - (a) the Secretary of State, or
 > - (b) a person providing services to the Secretary of State under subsection (3A).
 >
-> (3C) A person to whom social security information is supplied under subsection (3B) may supply the information to a local authority[^key-539a148a152b679b0b2f5402f58a05e0] or other person involved in the provision of services for young persons or relevant young adults in pursuance of section 68 or 70(1)(b) for the purpose of the provision of those services.
+> (3C) A person to whom social security information is supplied under subsection (3B) may supply the information to a local authority[^c-539a148a152b679b0b2f5402f58a05e0] or other person involved in the provision of services for young persons or relevant young adults in pursuance of section 68 or 70(1)(b) for the purpose of the provision of those services.
 >
 > (3D) Information supplied to a person in reliance on subsection (3C) or this subsection may be supplied in accordance with, or with arrangements made under, section 17(1).
 >
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b5c6f0dd8236de8b8c48be96e77a7eb]: Commencement: S. 254 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-1b5c6f0dd8236de8b8c48be96e77a7eb]: Commencement: S. 254 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

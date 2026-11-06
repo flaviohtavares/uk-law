@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217A. Overview of Part[^key-430657b7d7e90131044eca9771949694]
+## 1217A. Overview of Part[^c-430657b7d7e90131044eca9771949694]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Chapter 2 is about the taxation of the activities of a video games development company and includes—
 
-- (a) provision for the company's activities in relation to each qualifying[^key-58fc42a284f611faba07f6658fde2f2e] video game to be treated as a separate trade, and
+- (a) provision for the company's activities in relation to each qualifying[^c-58fc42a284f611faba07f6658fde2f2e] video game to be treated as a separate trade, and
 - (b) provision about the calculation of the profits and losses of that trade.
 
 (4) Chapter 3 is about relief (called “video games tax relief”) which can be given to a video games development company—
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
+[^c-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
 
-[^key-58fc42a284f611faba07f6658fde2f2e]: Textual amendment: Words in s. 1217A(3)(a) substituted (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/34/2)
+[^c-58fc42a284f611faba07f6658fde2f2e]: Textual amendment: Words in s. 1217A(3)(a) substituted (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/34/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Guidance to doctors[^key-e4e82aa6a46816683401e3ed7e05cf65]
+## 43. Guidance to doctors[^c-e4e82aa6a46816683401e3ed7e05cf65]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4e82aa6a46816683401e3ed7e05cf65]: Commencement: Reg. 43 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e4e82aa6a46816683401e3ed7e05cf65]: Commencement: Reg. 43 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93B. Extension of provisions of rule 93A to certain witnesses over 18[^key-0580617b4db15d0dd4d3f95009a472c3]
+## 93B. Extension of provisions of rule 93A to certain witnesses over 18[^c-0580617b4db15d0dd4d3f95009a472c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0580617b4db15d0dd4d3f95009a472c3]: Textual amendment: [Rules 93A-93C](https://www.legislation.gov.uk/uksi/2009/2041/rule/93A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/605/rule/11)
+[^c-0580617b4db15d0dd4d3f95009a472c3]: Textual amendment: [Rules 93A-93C](https://www.legislation.gov.uk/uksi/2009/2041/rule/93A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/605/rule/11)

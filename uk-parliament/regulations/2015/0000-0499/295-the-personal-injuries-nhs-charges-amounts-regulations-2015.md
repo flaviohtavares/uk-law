@@ -46,7 +46,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 195(3) of that Act, the Secretary of State has consulted the Welsh Ministers[^f00002].
 
-## 1. Citation, commencement, application and interpretation[^key-8038815e6101e4f4e27924541aa4bef2]
+## 1. Citation, commencement, application and interpretation[^c-8038815e6101e4f4e27924541aa4bef2]
 
 (1) These Regulations may be cited as the Personal Injuries (NHS Charges) (Amounts) Regulations 2015 and come into force on 1st April 2015, with the exception of regulation 4(c) which comes into force on 6th April 2015, immediately after the coming into force of the National Health Service (Charges to Overseas Visitors) Regulations 2015[^f00003].
 
@@ -63,7 +63,7 @@ In accordance with section 195(3) of that Act, the Secretary of State has consul
 
 (4) A reference in these Regulations to a numbered section is a reference to that section of the Act.
 
-## 2. Amount of NHS charges[^key-65a2c172eb93d35b5d65f1893beb5ef0]
+## 2. Amount of NHS charges[^c-65a2c172eb93d35b5d65f1893beb5ef0]
 
 (1) A certificate must specify—
 
@@ -95,7 +95,7 @@ the amount to be specified under paragraph (1)(b) is to be reduced by the differ
 - “column” means a column of the table in Schedule 1; and
 - “row” means a row of the table in Schedule 1.
 
-## 3. Amount of NHS charges: reduction in respect of earlier payment[^key-8c47da5871e23a3ace746387811de71c]
+## 3. Amount of NHS charges: reduction in respect of earlier payment[^c-8c47da5871e23a3ace746387811de71c]
 
 (1) Where a person liable to pay relevant NHS charges—
 
@@ -109,23 +109,23 @@ the amount to be specified in the certificate in respect of the later payment sh
 - (a) any amounts to be specified under paragraph (1); and
 - (b) the amount of relevant NHS charges that person is liable to pay in accordance with that determination or redetermination.
 
-## 4. Amount of NHS charges: reduction in respect of overseas visitors’ charges[^key-6abccb34357e578b23d2844f115d8f14]
+## 4. Amount of NHS charges: reduction in respect of overseas visitors’ charges[^c-6abccb34357e578b23d2844f115d8f14]
 
 Where a charge has been made in respect of an injured person in accordance with—
 
-- (a)[^key-6abccb34357e578b23d2844f115d8f14] regulation 2(1) of the National Health Service (Charges to Overseas Visitors) Regulations 1989[^f00006] (making and recovery of charges);
-- (b)[^key-6abccb34357e578b23d2844f115d8f14] regulation 3 of the National Health Service (Charges to Overseas Visitors) Regulations 2011[^f00007] (obligation to make and recover charges); or
-- (c)[^key-dbf85d483675a9ffe0964a12a0f3847d] regulation 3 of the National Health Service (Charges to Overseas Visitors) Regulations 2015 (obligation to make and recover charges);
+- (a)[^c-6abccb34357e578b23d2844f115d8f14] regulation 2(1) of the National Health Service (Charges to Overseas Visitors) Regulations 1989[^f00006] (making and recovery of charges);
+- (b)[^c-6abccb34357e578b23d2844f115d8f14] regulation 3 of the National Health Service (Charges to Overseas Visitors) Regulations 2011[^f00007] (obligation to make and recover charges); or
+- (c)[^c-dbf85d483675a9ffe0964a12a0f3847d] regulation 3 of the National Health Service (Charges to Overseas Visitors) Regulations 2015 (obligation to make and recover charges);
 
 the amount to be specified in a certificate in respect of NHS treatment at a hospital for which that charge has been made must be £0.
 
-## 5. Treatment to be taken into account[^key-b3989d518e1f95981373b8244de58078]
+## 5. Treatment to be taken into account[^c-b3989d518e1f95981373b8244de58078]
 
 (1) A certificate issued under section 151(2) (applications for certificates of NHS charges) shall only take into account treatment received, or ambulance services provided, before the date the certificate is issued.
 
 (2) A certificate issued under sections 151(10) or 155(2)(a) (recovery of NHS charges) shall only take into account treatment received, or ambulance services provided, before the settlement date.
 
-## 6. Apportionment of liability to pay NHS charges[^key-e13a8af4a06dc0a5aa58545a911385a2]
+## 6. Apportionment of liability to pay NHS charges[^c-e13a8af4a06dc0a5aa58545a911385a2]
 
 (1) This regulation applies where each of two or more persons (“the compensators”)—
 
@@ -148,7 +148,7 @@ the amount to be specified in a certificate in respect of NHS treatment at a hos
 
 (6) Where paragraph (3) applies, when the Secretary of State redetermines the liability to pay the relevant NHS charges, subsections (5) and (7) of section 156 (review of certificates) apply as if the redetermination were a review under that section.
 
-## 7. Adjustment of amounts where certificates issued by the Secretary of State and Scottish Ministers[^key-deb7a65411a7cd7d2df5f7511040fc05]
+## 7. Adjustment of amounts where certificates issued by the Secretary of State and Scottish Ministers[^c-deb7a65411a7cd7d2df5f7511040fc05]
 
 (1) This paragraph applies where—
 
@@ -166,7 +166,7 @@ the amount to be specified in a certificate in respect of NHS treatment at a hos
 
 (3) Where the Secretary of State proposes to make an adjustment in accordance with paragraph (2) the Scottish Ministers must be notified.
 
-## 8. Overpayments by compensators[^key-b6b5f1d030ec95633a1c2791a2896acf]
+## 8. Overpayments by compensators[^c-b6b5f1d030ec95633a1c2791a2896acf]
 
 (1) This paragraph applies where—
 
@@ -184,7 +184,7 @@ the amount to be specified in a certificate in respect of NHS treatment at a hos
   - (ii) require the relevant NHS body to pay the difference to the Secretary of State, or
   - (iii) require the relevant NHS body to pay the difference to the person who paid the relevant NHS charges.
 
-## 9. Underpayments by compensators[^key-8a8644f38d3cb6a45e524f30e749f050]
+## 9. Underpayments by compensators[^c-8a8644f38d3cb6a45e524f30e749f050]
 
 (1) This paragraph applies where—
 
@@ -205,7 +205,7 @@ the amount to be specified in a certificate in respect of NHS treatment at a hos
 
 the Secretary of State must divide the difference among the relevant NHS bodies in an appropriate manner.
 
-## 10. Provision of statements to person paying NHS charges[^key-884cd8de06681d4ae8e688a94a537131]
+## 10. Provision of statements to person paying NHS charges[^c-884cd8de06681d4ae8e688a94a537131]
 
 Where the Secretary of State makes a payment under regulation 8(2)(a), or requires a payment under regulation 8(2)(b)(iii), or a payment falls to be made under regulation 9(2)(a), the Secretary of State must send a statement to the person who paid the relevant NHS charges showing—
 
@@ -220,7 +220,7 @@ Where the Secretary of State makes a payment under regulation 8(2)(a), or requir
 
   is required.
 
-## 11. Provision of statements to relevant NHS body[^key-c43cdf933b43bf6340af0db306a6403e]
+## 11. Provision of statements to relevant NHS body[^c-c43cdf933b43bf6340af0db306a6403e]
 
 (1) Where the Secretary of State requires a payment under regulation 8(2)(b)(ii) or (iii), or makes a payment under regulation 9(2)(b), the Secretary of State must send the relevant NHS body a statement showing—
 
@@ -242,7 +242,7 @@ Where the Secretary of State makes a payment under regulation 8(2)(a), or requir
 - (c) the amount that ought to have been paid by the Secretary of State; and
 - (d) the amount of the deduction.
 
-## 12. Revocations and savings[^key-87e8ca73a0af0808a889959cc31d2c1e]
+## 12. Revocations and savings[^c-87e8ca73a0af0808a889959cc31d2c1e]
 
 (1) These Regulations do not apply in relation to an injury in respect of which—
 
@@ -263,11 +263,11 @@ Department of Health
 
 12th February 2015
 
-## SCHEDULE 1 — Amount of NHS Charges[^key-3ee5d8c64c39a38eaf3f654c35a0ca2b]
+## SCHEDULE 1 — Amount of NHS Charges[^c-3ee5d8c64c39a38eaf3f654c35a0ca2b]
 
 Regulation 2
 
-**Amount of NHS Charges[^key-3abfc974e9ebe64fe88708d1db8a5210]**
+**Amount of NHS Charges[^c-3abfc974e9ebe64fe88708d1db8a5210]**
 
 | (1) | (2) Ambulance Services £ | (3) Out-patient £ | (4) In-patient £ | (5) Maximum £ |
 | --- | --- | --- | --- | --- |
@@ -294,7 +294,7 @@ Regulation 2
 | 1st October 2025 | 267 | 883 | 1,085 | 64,856 |
 | 1st October 2026 | 272 | 901 | 1,107 | 66,173 |
 
-## SCHEDULE 2 — Regulations Revoked[^key-a3a32baabb17a9df33fb26a4095e2e42]
+## SCHEDULE 2 — Regulations Revoked[^c-a3a32baabb17a9df33fb26a4095e2e42]
 
 Regulation 12
 
@@ -352,7 +352,7 @@ A full impact assessment has not been prepared for these Regulations as a neglig
 
 [^f00002]: Footnote: Functions conferred or imposed on the National Assembly for Wales immediately before the first appointment of a First Minister under section 46 of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) (“GOWA”) by an enactment contained in an Act were transferred to the Welsh Ministers by section 162(1) of, and paragraph 30(2) of Schedule 11 to, GOWA.
 
-[^key-8038815e6101e4f4e27924541aa4bef2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/295/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-8038815e6101e4f4e27924541aa4bef2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/295/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2015/238](https://www.legislation.gov.uk/uksi/2015/238), which comes into force on 6th April 2015.
 
@@ -360,36 +360,36 @@ A full impact assessment has not been prepared for these Regulations as a neglig
 
 [^f00005]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42). Section 206(1) defines “health service hospital”.
 
-[^key-65a2c172eb93d35b5d65f1893beb5ef0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/295/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-65a2c172eb93d35b5d65f1893beb5ef0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/295/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-8c47da5871e23a3ace746387811de71c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/295/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-8c47da5871e23a3ace746387811de71c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/295/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-6abccb34357e578b23d2844f115d8f14]: Commencement: [Reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/295/regulation/4/a)[(b)](https://www.legislation.gov.uk/uksi/2015/295/regulation/4/b) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-6abccb34357e578b23d2844f115d8f14]: Commencement: [Reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/295/regulation/4/a)[(b)](https://www.legislation.gov.uk/uksi/2015/295/regulation/4/b) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1989/306](https://www.legislation.gov.uk/uksi/1989/306); amended by [S.I. 1991/438](https://www.legislation.gov.uk/uksi/1991/438), [S.I. 2000/602](https://www.legislation.gov.uk/uksi/2000/602), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2009/1824](https://www.legislation.gov.uk/uksi/2009/1824) and revoked in relation to England by [S.I. 2011/1556](https://www.legislation.gov.uk/uksi/2011/1556). There are other amending instruments but none are relevant to these Regulations.
 
 [^f00007]: Footnote: [S.I. 2011/1556](https://www.legislation.gov.uk/uksi/2011/1556). There are amending instruments but none are relevant to these Regulations.
 
-[^key-dbf85d483675a9ffe0964a12a0f3847d]: Commencement: [Reg. 4(c)](https://www.legislation.gov.uk/uksi/2015/295/regulation/4/c) in force at 6.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-dbf85d483675a9ffe0964a12a0f3847d]: Commencement: [Reg. 4(c)](https://www.legislation.gov.uk/uksi/2015/295/regulation/4/c) in force at 6.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-b3989d518e1f95981373b8244de58078]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/295/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-b3989d518e1f95981373b8244de58078]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/295/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-e13a8af4a06dc0a5aa58545a911385a2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/295/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-e13a8af4a06dc0a5aa58545a911385a2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/295/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-deb7a65411a7cd7d2df5f7511040fc05]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/295/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-deb7a65411a7cd7d2df5f7511040fc05]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/295/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-b6b5f1d030ec95633a1c2791a2896acf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/295/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-b6b5f1d030ec95633a1c2791a2896acf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/295/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-8a8644f38d3cb6a45e524f30e749f050]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/295/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-8a8644f38d3cb6a45e524f30e749f050]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/295/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-884cd8de06681d4ae8e688a94a537131]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/295/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-884cd8de06681d4ae8e688a94a537131]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/295/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-c43cdf933b43bf6340af0db306a6403e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/295/regulation/11) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-c43cdf933b43bf6340af0db306a6403e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/295/regulation/11) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-87e8ca73a0af0808a889959cc31d2c1e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/295/regulation/12) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-87e8ca73a0af0808a889959cc31d2c1e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/295/regulation/12) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-3ee5d8c64c39a38eaf3f654c35a0ca2b]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-3ee5d8c64c39a38eaf3f654c35a0ca2b]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
 
-[^key-3abfc974e9ebe64fe88708d1db8a5210]: Textual amendment: Sch. 1 table substituted (1.10.2026) by [The Personal Injuries (NHS Charges) (Information Provision and Amounts) (Amendment) Regulations 2026 (S.I. 2026/962)](https://www.legislation.gov.uk/uksi/2026/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/962/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/962/regulation/3)
+[^c-3abfc974e9ebe64fe88708d1db8a5210]: Textual amendment: Sch. 1 table substituted (1.10.2026) by [The Personal Injuries (NHS Charges) (Information Provision and Amounts) (Amendment) Regulations 2026 (S.I. 2026/962)](https://www.legislation.gov.uk/uksi/2026/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/962/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/962/regulation/3)
 
-[^key-a3a32baabb17a9df33fb26a4095e2e42]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/295/schedule/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)
+[^c-a3a32baabb17a9df33fb26a4095e2e42]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/295/schedule/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/295/regulation/1/1)

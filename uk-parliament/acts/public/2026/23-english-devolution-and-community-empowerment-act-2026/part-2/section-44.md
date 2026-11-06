@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Miscellaneous local authority functions[^key-a1fcd6e512cb03d983159c99df743327]
+## 44. Miscellaneous local authority functions[^c-a1fcd6e512cb03d983159c99df743327]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 23 confers on combined authorities and CCAs and the GLA miscellaneous f
 
 ## Annotations
 
-[^key-a1fcd6e512cb03d983159c99df743327]: Commencement: S. 44 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-a1fcd6e512cb03d983159c99df743327]: Commencement: S. 44 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227C. Exemption for profits or losses of foreign permanent establishments[^key-2e9571d2481e120b45308ccfeeb17e82]
+## 227C. Exemption for profits or losses of foreign permanent establishments[^c-2e9571d2481e120b45308ccfeeb17e82]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e9571d2481e120b45308ccfeeb17e82]: Textual amendment: [S. 227C](https://www.legislation.gov.uk/ukpga/1994/9/section/227C) inserted (17.7.2012) (with effect in accordance with Sch. 20 para. 55(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/8)
+[^c-2e9571d2481e120b45308ccfeeb17e82]: Textual amendment: [S. 227C](https://www.legislation.gov.uk/ukpga/1994/9/section/227C) inserted (17.7.2012) (with effect in accordance with Sch. 20 para. 55(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/8)

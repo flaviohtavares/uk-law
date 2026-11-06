@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Report by building society liquidator[^key-7249a487be14e6b556565e41e217cba7]
+## 34. Report by building society liquidator[^c-7249a487be14e6b556565e41e217cba7]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7249a487be14e6b556565e41e217cba7]: Commencement: Rule 34 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-7249a487be14e6b556565e41e217cba7]: Commencement: Rule 34 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

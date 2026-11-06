@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Requiring information and documents in relation to a partnership[^key-543e6fc6f259c3712168dc9108c51d9d][^key-e3632b0424c11fe4f76b252ae40e0105]
+## 91. Requiring information and documents in relation to a partnership[^c-543e6fc6f259c3712168dc9108c51d9d][^c-e3632b0424c11fe4f76b252ae40e0105]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-543e6fc6f259c3712168dc9108c51d9d]: Commencement: S. 91 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-543e6fc6f259c3712168dc9108c51d9d]: Commencement: S. 91 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-e3632b0424c11fe4f76b252ae40e0105]: Modification: S. 91 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(6)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/6); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e3632b0424c11fe4f76b252ae40e0105]: Modification: S. 91 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(6)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/6); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

@@ -46,23 +46,23 @@ summary: ''
 - (b) the communication includes an indication that persons of any other description should not act upon it;
 - (c) there are in place proper systems and procedures to prevent recipients other than persons to whom paragraph (2) applies engaging in the investment activity to which the communication relates with the person directing the communication, a close relative of his or a member of the same group.
 
-(5) “**Called-up share capital**” has the meaning given in the 2006 Act (see section 547)[^key-a4c62fde7712223d034b52170b46a997].
+(5) “**Called-up share capital**” has the meaning given in the 2006 Act (see section 547)[^c-a4c62fde7712223d034b52170b46a997].
 
 (6) “**High value trust**” means a trust where the aggregate value of the cash and investments which form part of the trust's assets (before deducting the amount of its liabilities)—
 
 - (a) is £10 million or more; or
 - (b) has been £10 million or more at anytime during the year immediately preceding the date on which the communication in question was first made or directed.
 
-(7) “**Net assets**” has the meaning given by section 831 of the 2006 Act[^key-aa8ec768fd90e72d17104605fe0775ec].
+(7) “**Net assets**” has the meaning given by section 831 of the 2006 Act[^c-aa8ec768fd90e72d17104605fe0775ec].
 
 *Extent: E+W+S*
 
-(8)[^key-e87d482f946ef344c687138a0ef3925a] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
+(8)[^c-e87d482f946ef344c687138a0ef3925a] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
 
 ## Annotations
 
-[^key-a4c62fde7712223d034b52170b46a997]: Textual amendment: Words in art. 49(5) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [26(6)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/26/6/a)
+[^c-a4c62fde7712223d034b52170b46a997]: Textual amendment: Words in art. 49(5) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [26(6)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/26/6/a)
 
-[^key-aa8ec768fd90e72d17104605fe0775ec]: Textual amendment: Words in art. 49(7) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [26(6)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/26/6/b)
+[^c-aa8ec768fd90e72d17104605fe0775ec]: Textual amendment: Words in art. 49(7) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [26(6)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/26/6/b)
 
-[^key-e87d482f946ef344c687138a0ef3925a]: Textual amendment: Art. 49(8) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [31](https://www.legislation.gov.uk/uksi/2018/1253/article/31)
+[^c-e87d482f946ef344c687138a0ef3925a]: Textual amendment: Art. 49(8) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [31](https://www.legislation.gov.uk/uksi/2018/1253/article/31)

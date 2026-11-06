@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Failure to comply with a direction under section 10[^key-5c5f0ffb1d5ffe422263b1ffbf7234f2]
+## 11. Failure to comply with a direction under section 10[^c-5c5f0ffb1d5ffe422263b1ffbf7234f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c5f0ffb1d5ffe422263b1ffbf7234f2]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2008/32/section/11) in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-5c5f0ffb1d5ffe422263b1ffbf7234f2]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2008/32/section/11) in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))

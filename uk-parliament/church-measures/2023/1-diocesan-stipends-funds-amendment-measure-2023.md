@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to enable money f
 
 \[29th June 2023\]
 
-## 1. Distribution of income to other dioceses[^key-6434dd2e95ed5675ebc09b2bfd396a02]
+## 1. Distribution of income to other dioceses[^c-6434dd2e95ed5675ebc09b2bfd396a02]
 
 After section 5A of the Diocesan Stipends Funds Measure 1953 insert—
 
@@ -51,7 +51,7 @@ After section 5A of the Diocesan Stipends Funds Measure 1953 insert—
 > - (a) if it decides to give the money to one diocese only, transfer it to the income account of the diocesan stipends fund of that diocese;
 > - (b) if it decides to give separate portions of the money to different dioceses, transfer each portion to the income account of the diocesan stipends fund of the diocese concerned.
 
-## 2. Short title, commencement and extent[^key-eac4f32830882f0353b9d7fddf072be6]
+## 2. Short title, commencement and extent[^c-eac4f32830882f0353b9d7fddf072be6]
 
 (1) This Measure may be cited as the Diocesan Stipends Funds (Amendment) Measure 2023.
 
@@ -61,6 +61,6 @@ After section 5A of the Diocesan Stipends Funds Measure 1953 insert—
 
 ## Annotations
 
-[^key-6434dd2e95ed5675ebc09b2bfd396a02]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2023/1/section/2/2)
+[^c-6434dd2e95ed5675ebc09b2bfd396a02]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2023/1/section/2/2)
 
-[^key-eac4f32830882f0353b9d7fddf072be6]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2023/1/section/2/2)
+[^c-eac4f32830882f0353b9d7fddf072be6]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2023/1/section/2/2)

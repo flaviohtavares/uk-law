@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Wales: cross-border collaboration[^key-eee25d638c0e42c45ace6f438e5d00d7]
+## 15B. Wales: cross-border collaboration[^c-eee25d638c0e42c45ace6f438e5d00d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eee25d638c0e42c45ace6f438e5d00d7]: Textual amendment: S. 15B inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(15)](https://www.legislation.gov.uk/uksi/2018/644/article/41/15)
+[^c-eee25d638c0e42c45ace6f438e5d00d7]: Textual amendment: S. 15B inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(15)](https://www.legislation.gov.uk/uksi/2018/644/article/41/15)

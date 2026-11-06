@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. For protection of electricity, gas, water and sewerage undertakers[^key-d2411d33aea2a179233a45c9053ebcc5]
+## 72. For protection of electricity, gas, water and sewerage undertakers[^c-d2411d33aea2a179233a45c9053ebcc5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 12 (for protection of electricity, gas, water and sew
 
 ## Annotations
 
-[^key-d2411d33aea2a179233a45c9053ebcc5]: Commencement: Art. 72 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-d2411d33aea2a179233a45c9053ebcc5]: Commencement: Art. 72 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

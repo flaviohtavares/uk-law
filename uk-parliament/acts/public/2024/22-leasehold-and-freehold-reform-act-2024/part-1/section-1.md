@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Ban on grant or assignment of certain long residential leases of houses[^key-d3b32bad09af9e0ba73007d5643b1305]
+## 1. Ban on grant or assignment of certain long residential leases of houses[^c-d3b32bad09af9e0ba73007d5643b1305]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b32bad09af9e0ba73007d5643b1305]: Commencement: S. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d3b32bad09af9e0ba73007d5643b1305]: Commencement: S. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

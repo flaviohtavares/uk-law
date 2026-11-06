@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Temporary use of land for carrying out the authorised project[^key-975d8215dccf59e0e0d12477be09ad91]
+## 26. Temporary use of land for carrying out the authorised project[^c-975d8215dccf59e0e0d12477be09ad91]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (2) Not less than 14 days before entering on and taking temporary possession of land under this article the undertaker must serve notice of the intended entry on the owners and occupiers of the land.
 
-(3) The undertaker must not remain in possession of any land under this article for longer than reasonably necessary and in any event must not, without the agreement of the owners of the land, remain in possession of any land under this article —[^key-22a74cf4e60280dc93e0651fd515b8a0]
+(3) The undertaker must not remain in possession of any land under this article for longer than reasonably necessary and in any event must not, without the agreement of the owners of the land, remain in possession of any land under this article —[^c-22a74cf4e60280dc93e0651fd515b8a0]
 
 - (a) in the case of land specified in paragraph (1)(a)(i) after the end of the period of one year beginning with the date of completion of the part of the authorised project specified in relation to that land in column (4) of Schedule 8; or
 - (b) in the case of land specified in paragraph (1)(a)(ii) after the end of the period of one year beginning with the date of completion of the part of the authorised project for which temporary possession of the land was taken unless the undertaker has, before the end of that period, served a notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act in relation to that land.
@@ -59,12 +59,12 @@ summary: ''
 
 (9) Where the undertaker takes possession of land under this article, the undertaker is not required to acquire the land or any interest in it.
 
-(10) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land pursuant to this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.[^key-81503708f57755c51fc081f5bf45b5e6]
+(10) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land pursuant to this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.[^c-81503708f57755c51fc081f5bf45b5e6]
 
 ## Annotations
 
-[^key-975d8215dccf59e0e0d12477be09ad91]: Commencement: Art. 26 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-975d8215dccf59e0e0d12477be09ad91]: Commencement: Art. 26 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-22a74cf4e60280dc93e0651fd515b8a0]: Textual amendment: [Art. 26(3)](https://www.legislation.gov.uk/uksi/2020/1656/article/26/3) dash inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-22a74cf4e60280dc93e0651fd515b8a0]: Textual amendment: [Art. 26(3)](https://www.legislation.gov.uk/uksi/2020/1656/article/26/3) dash inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-81503708f57755c51fc081f5bf45b5e6]: Textual amendment: Words in [art. 26(10)](https://www.legislation.gov.uk/uksi/2020/1656/article/26/10) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-81503708f57755c51fc081f5bf45b5e6]: Textual amendment: Words in [art. 26(10)](https://www.legislation.gov.uk/uksi/2020/1656/article/26/10) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10A. Authorisation by other persons: children[^key-4cb4f9fd412f556222f72f9b9b133c2b]
+## 10A. Authorisation by other persons: children[^c-4cb4f9fd412f556222f72f9b9b133c2b]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cb4f9fd412f556222f72f9b9b133c2b]: Textual amendment: S. 10A inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 17](https://www.legislation.gov.uk/asp/2019/11/section/17), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-4cb4f9fd412f556222f72f9b9b133c2b]: Textual amendment: S. 10A inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 17](https://www.legislation.gov.uk/asp/2019/11/section/17), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

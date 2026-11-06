@@ -230,7 +230,7 @@ Section 35(2)
 - (b) in subsection (5), for the words “ Schedule 2 to the Ministry of Social Security Act 1966” there shall be substituted the words “ Schedule 1 to the Supplementary Benefits Act 1976”; and
 - (c) in subsection (9), for the words “ the Ministry of Social Security Act 1966” there shall be substituted the words “ the Supplementary Benefits Act 1976”.
 
-**4.**[^key-029405be166837c20177505fb21d8356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-029405be166837c20177505fb21d8356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** In section 53 of that Act, for the words “ Schedule 3 to the Ministry of Social Security Act 1966” there shall be substituted the words “ Schedule 4 to the Supplementary Benefits Act 1976”.
 
@@ -598,7 +598,7 @@ Section 35(3).
 
 [^c891858]: Marginal citation: 11 & 12 Geo. 6 c. 29.
 
-[^key-029405be166837c20177505fb21d8356]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1976/71/schedule/7/paragraph/4) repealed (E.W.) (6.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) (with [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13)); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c); [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/wsi/2009/631/article/2/c)
+[^c-029405be166837c20177505fb21d8356]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1976/71/schedule/7/paragraph/4) repealed (E.W.) (6.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) (with [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13)); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c); [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/wsi/2009/631/article/2/c)
 
 [^c891859]: Textual amendment: [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/ukpga/1976/71/schedule/7/paragraph/6/b) repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 

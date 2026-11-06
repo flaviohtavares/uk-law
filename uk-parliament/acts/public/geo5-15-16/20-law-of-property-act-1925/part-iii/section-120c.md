@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120C. Service of notice under section 120B: additional requirement[^key-38876bb0834b74dd0e55a675f4e6757c]
+## 120C. Service of notice under section 120B: additional requirement[^c-38876bb0834b74dd0e55a675f4e6757c]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38876bb0834b74dd0e55a675f4e6757c]: Textual amendment: [Ss. 120A-120D](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/120A) inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/2), [124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a) (with [s. 113(5)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/5))
+[^c-38876bb0834b74dd0e55a675f4e6757c]: Textual amendment: [Ss. 120A-120D](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/120A) inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/2), [124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a) (with [s. 113(5)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Mobile homes: jurisdiction of the First-tier Tribunal for Scotland[^key-78120cb53017a0e1d90febaf629a5972]
+## 60. Mobile homes: jurisdiction of the First-tier Tribunal for Scotland[^c-78120cb53017a0e1d90febaf629a5972]
 
 *Extent: S*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78120cb53017a0e1d90febaf629a5972]: Commencement: S. 60 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-78120cb53017a0e1d90febaf629a5972]: Commencement: S. 60 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

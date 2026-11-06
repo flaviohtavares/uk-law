@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Alcohol licensing[^key-b9d44d1682951c677331f6f30feea34a]
+## 6. Alcohol licensing[^c-b9d44d1682951c677331f6f30feea34a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9d44d1682951c677331f6f30feea34a]: Textual amendment: [S. 6](https://www.legislation.gov.uk/asp/2020/7/section/6) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1) (with saving in [S.S.I. 2022/261](https://www.legislation.gov.uk/ssi/2022/261), [regs. 1](https://www.legislation.gov.uk/ssi/2022/261/regulation/1), [6](https://www.legislation.gov.uk/ssi/2022/261/regulation/6))
+[^c-b9d44d1682951c677331f6f30feea34a]: Textual amendment: [S. 6](https://www.legislation.gov.uk/asp/2020/7/section/6) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1) (with saving in [S.S.I. 2022/261](https://www.legislation.gov.uk/ssi/2022/261), [regs. 1](https://www.legislation.gov.uk/ssi/2022/261/regulation/1), [6](https://www.legislation.gov.uk/ssi/2022/261/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Statement as to lawful purposes[^key-7ffe0d7d161f63cb9cba13715f3bff2b][^key-b2aa53249a9b70f214b0078362819cd2]
+## 2. Statement as to lawful purposes[^c-7ffe0d7d161f63cb9cba13715f3bff2b][^c-b2aa53249a9b70f214b0078362819cd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In section 9 of the Companies Act 2006 (registration documents), in subsection (
 
 ## Annotations
 
-[^key-7ffe0d7d161f63cb9cba13715f3bff2b]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7ffe0d7d161f63cb9cba13715f3bff2b]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b2aa53249a9b70f214b0078362819cd2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/56/section/2) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/b)
+[^c-b2aa53249a9b70f214b0078362819cd2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/56/section/2) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/b)

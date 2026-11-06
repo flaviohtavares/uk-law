@@ -40,10 +40,10 @@ summary: ''
 - (a) require the purchaser only to grant a new tenancy relating to the premises to which this Part then applied, and
 - (b) require him to do so on the terms referred to in subsection (2) subject to any necessary modifications.
 
-(6) The purchase notice may specify the subject-matter of the disposal, and the terms on which the disposal is to be made (whether doing so expressly or by reference to the original disposal), or may provide for those matters to be determined by the appropriate tribunal[^key-867b65f2da3c57978b122e1545ecbeeb].
+(6) The purchase notice may specify the subject-matter of the disposal, and the terms on which the disposal is to be made (whether doing so expressly or by reference to the original disposal), or may provide for those matters to be determined by the appropriate tribunal[^c-867b65f2da3c57978b122e1545ecbeeb].
 
 ## Annotations
 
 [^c10161421]: Textual amendment: Ss. 11, 11A, 12A-12D, 13, 14 and crossheading substituted for ss. 11-15 (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 92(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/92/1), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1996/52/schedule/6/part/II); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-867b65f2da3c57978b122e1545ecbeeb]: Textual amendment: Words in [s. 12C(6)](https://www.legislation.gov.uk/ukpga/1987/31/section/12C/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/62) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-867b65f2da3c57978b122e1545ecbeeb]: Textual amendment: Words in [s. 12C(6)](https://www.legislation.gov.uk/ukpga/1987/31/section/12C/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/62) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Removal of Secretary of State consent for fee-charging powers etc.[^key-67f419200c4b5804d23ca66cc7ab6798]
+## 107. Removal of Secretary of State consent for fee-charging powers etc.[^c-67f419200c4b5804d23ca66cc7ab6798]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67f419200c4b5804d23ca66cc7ab6798]: Commencement: S. 107 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/d)
+[^c-67f419200c4b5804d23ca66cc7ab6798]: Commencement: S. 107 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/d)

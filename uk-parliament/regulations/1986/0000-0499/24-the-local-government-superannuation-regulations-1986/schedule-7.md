@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — LIMITATION OF PAYMENTS UNDER PART C[^key-152022fc083cea05bb9d0f73e4d41f6a]
+## SCHEDULE 7 — LIMITATION OF PAYMENTS UNDER PART C[^c-152022fc083cea05bb9d0f73e4d41f6a]
 
 *Extent: E+W+S*
 
 Regulation C16
 
-[^key-152022fc083cea05bb9d0f73e4d41f6a]
+[^c-152022fc083cea05bb9d0f73e4d41f6a]
 
 If the amount payable by a pensionable employee by way of additional contributions in pursuance of a notice given under regulation D10 or D10A of the 1974 regulations or an election made under regulation C6 or C8 or the amount of an instalment payable in pursuance of an election under regulation C8, as the case may be, when aggregated with—
 
@@ -33,4 +33,4 @@ exceeds 15% of his remuneration, he shall satisfy his liability in respect of th
 
 ## Annotations
 
-[^key-152022fc083cea05bb9d0f73e4d41f6a]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-152022fc083cea05bb9d0f73e4d41f6a]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

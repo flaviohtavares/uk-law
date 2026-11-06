@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.3. Experts—overriding duty to the court[^key-64b26cbf0b5424e31ec114cb6adfcbec]
+## 35.3. Experts—overriding duty to the court[^c-64b26cbf0b5424e31ec114cb6adfcbec]
 
 *Extent: E+W*
 
-(1) It is the duty of experts to help the court on matters within their expertise[^key-2fb8a807d6f87cfe4935f593335aac6e].
+(1) It is the duty of experts to help the court on matters within their expertise[^c-2fb8a807d6f87cfe4935f593335aac6e].
 
-(2) This duty overrides any obligation to the person from whom experts have received instructions or by whom they are paid.[^key-0b5b611f0e4a7aa88297ce6bbc3a8fbe]
+(2) This duty overrides any obligation to the person from whom experts have received instructions or by whom they are paid.[^c-0b5b611f0e4a7aa88297ce6bbc3a8fbe]
 
 ## Annotations
 
-[^key-64b26cbf0b5424e31ec114cb6adfcbec]: Commencement: [Rule 35.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-64b26cbf0b5424e31ec114cb6adfcbec]: Commencement: [Rule 35.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-2fb8a807d6f87cfe4935f593335aac6e]: Textual amendment: Words in [rule 35.3(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.3/1) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/c)
+[^c-2fb8a807d6f87cfe4935f593335aac6e]: Textual amendment: Words in [rule 35.3(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.3/1) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/c)
 
-[^key-0b5b611f0e4a7aa88297ce6bbc3a8fbe]: Textual amendment: Words in [rule 35.3(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.3/2) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/d)
+[^c-0b5b611f0e4a7aa88297ce6bbc3a8fbe]: Textual amendment: Words in [rule 35.3(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.3/2) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/d)

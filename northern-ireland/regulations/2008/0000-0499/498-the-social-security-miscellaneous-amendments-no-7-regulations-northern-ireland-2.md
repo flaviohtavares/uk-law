@@ -45,7 +45,7 @@ Regulations 5, 6 and 7 are made with the consent of the Department of Finance an
 
 The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00007].
 
-## 1. Citation, commencement and interpretation[^key-fd92d63b443ec929363c859d0315d6a4]
+## 1. Citation, commencement and interpretation[^c-fd92d63b443ec929363c859d0315d6a4]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 and, subject to paragraph (2), shall come into operation on 5th January 2009.
 
@@ -60,7 +60,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00014] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-f8f6a7d4f8fc2d91ecc6da3e0280ecc3][^key-527968944a2ec32a14222f9ec58ee24f]
+## 2. Amendment of the Income Support (General) Regulations[^c-f8f6a7d4f8fc2d91ecc6da3e0280ecc3][^c-527968944a2ec32a14222f9ec58ee24f]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987 are amended in accordance with paragraphs (2) to (7).
 
@@ -82,7 +82,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
   .
 
-(3)[^key-775ecc2607b878170f85a23225e61fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-775ecc2607b878170f85a23225e61fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulations 42(4)(a)(i)[^f00019] (notional income) and 51(3)(a)(i)[^f00020] (notional capital) omit “the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 insofar as that Order is made under the Naval and Marine Pay and Pensions Act 1865 or the Pensions and Yeomanry Pay Act 1884, or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 and”.
 
@@ -92,7 +92,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 - (a) in paragraph 5[^f00022] omit “including any amount” to the end;
 - (b) in paragraph 6[^f00023] for “Any mobility allowance or the” substitute “The”;
-- (c)[^key-527968944a2ec32a14222f9ec58ee24f] for paragraph 7(b)[^f00024] substitute—
+- (c)[^c-527968944a2ec32a14222f9ec58ee24f] for paragraph 7(b)[^f00024] substitute—
 
   > - (b) income support;
   > - (c) an income-based jobseeker’s allowance; or
@@ -101,7 +101,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
   ;
 - (d) in paragraph 16—
   - (i) in sub-paragraph (c)[^f00025] omit “the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 insofar as that Order is made under the Naval and Marine Pay and Pensions Act 1865 or the Pensions and Yeomanry Pay Act 1884, or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 and”, and
-  - (ii)[^key-527968944a2ec32a14222f9ec58ee24f] in sub-paragraph (cc)[^f00026] at the end add “and, if the amount of that payment has been abated to less than £10 by a payment under the Armed Forces Pension Scheme 1975 or the Armed Forces Pension Scheme 2005, so much of the pension payable under either of those schemes as would not, in aggregate with the amount of the guaranteed income payment disregarded, exceed £10”;
+  - (ii)[^c-527968944a2ec32a14222f9ec58ee24f] in sub-paragraph (cc)[^f00026] at the end add “and, if the amount of that payment has been abated to less than £10 by a payment under the Armed Forces Pension Scheme 1975 or the Armed Forces Pension Scheme 2005, so much of the pension payable under either of those schemes as would not, in aggregate with the amount of the guaranteed income payment disregarded, exceed £10”;
 - (e) in paragraph 25(1)[^f00027]—
   - (i) in head (b)[^f00028] for “Secretary of State under section 51” substitute “Scottish Ministers under section 51A”, and
   - (ii) omit head (d)[^f00029];
@@ -153,11 +153,11 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 - (f) omit paragraphs 45, 46 and 47[^f00043]; and
 - (g) in paragraph 61[^f00044] omit “within the meaning in section 25 of the Social Security Act 1989”.
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-ba25e76ec6f86a9081a35b88cc55f35e][^key-52f96f8b98ce86c743c253315cf29007]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-ba25e76ec6f86a9081a35b88cc55f35e][^c-52f96f8b98ce86c743c253315cf29007]
 
-(1)[^key-ba25e76ec6f86a9081a35b88cc55f35e] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 are amended in accordance with paragraphs (2) to (7).
+(1)[^c-ba25e76ec6f86a9081a35b88cc55f35e] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 are amended in accordance with paragraphs (2) to (7).
 
-(2)[^key-ba25e76ec6f86a9081a35b88cc55f35e] In regulation 1(2) (citation, commencement and interpretation)—
+(2)[^c-ba25e76ec6f86a9081a35b88cc55f35e] In regulation 1(2) (citation, commencement and interpretation)—
 
 - (a) after the definition of “attendance allowance” insert—
 
@@ -183,23 +183,23 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
   .
 
-(3)[^key-ba25e76ec6f86a9081a35b88cc55f35e] In regulations 11(3) (part-time students), 57(1) (interpretation of Part IV) in the definition of “training” and 75(1)(b)[^f00047] (interpretation), in each place it occurs, for “Department of Economic Development” substitute “Department for Employment and Learning”.
+(3)[^c-ba25e76ec6f86a9081a35b88cc55f35e] In regulations 11(3) (part-time students), 57(1) (interpretation of Part IV) in the definition of “training” and 75(1)(b)[^f00047] (interpretation), in each place it occurs, for “Department of Economic Development” substitute “Department for Employment and Learning”.
 
-(4)[^key-ba25e76ec6f86a9081a35b88cc55f35e] In regulations 105(10)(a)(i)[^f00048] (notional income) and 113(3)(a)(i)[^f00049] (notional capital) for “Order or under the Benefits Act a payment from the Armed Forces and Reserved Forces Compensation Scheme, a war disablement pension or war widow’s pension or war widower’s pension” substitute “benefit Acts, a payment from the Armed Forces and Reserved Forces Compensation Scheme, a war disablement pension, war widow’s pension or war widower’s pension or a pension payable to a person as a widow, widower or surviving civil partner under any power of Her Majesty otherwise than under an enactment to make provision about pensions for or in respect of persons who have been disabled or have died in consequence of service as members of the armed forces of the Crown”.
+(4)[^c-ba25e76ec6f86a9081a35b88cc55f35e] In regulations 105(10)(a)(i)[^f00048] (notional income) and 113(3)(a)(i)[^f00049] (notional capital) for “Order or under the Benefits Act a payment from the Armed Forces and Reserved Forces Compensation Scheme, a war disablement pension or war widow’s pension or war widower’s pension” substitute “benefit Acts, a payment from the Armed Forces and Reserved Forces Compensation Scheme, a war disablement pension, war widow’s pension or war widower’s pension or a pension payable to a person as a widow, widower or surviving civil partner under any power of Her Majesty otherwise than under an enactment to make provision about pensions for or in respect of persons who have been disabled or have died in consequence of service as members of the armed forces of the Crown”.
 
-(5)[^key-ba25e76ec6f86a9081a35b88cc55f35e] In regulation 130 (interpretation) in the definition of “access funds”[^f00050] in sub-paragraph (e) for “National Assembly of Wales” substitute “Welsh Ministers”.
+(5)[^c-ba25e76ec6f86a9081a35b88cc55f35e] In regulation 130 (interpretation) in the definition of “access funds”[^f00050] in sub-paragraph (e) for “National Assembly of Wales” substitute “Welsh Ministers”.
 
 (6) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 7 omit “, or any mobility allowance accrued under the repealed section 37A of the Social Security (Northern Ireland) Act 1975”;
-- (b)[^key-52f96f8b98ce86c743c253315cf29007] for paragraph 8(b)[^f00051] substitute—
+- (a)[^c-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 7 omit “, or any mobility allowance accrued under the repealed section 37A of the Social Security (Northern Ireland) Act 1975”;
+- (b)[^c-52f96f8b98ce86c743c253315cf29007] for paragraph 8(b)[^f00051] substitute—
 
   > - (b) income support;
   > - (c) an income-based jobseeker’s allowance; or
   > - (d) an income-related employment and support allowance.
 
   ;
-- (c)[^key-52f96f8b98ce86c743c253315cf29007] for paragraph 17[^f00052] substitute—
+- (c)[^c-52f96f8b98ce86c743c253315cf29007] for paragraph 17[^f00052] substitute—
 
   > **17.** Subject to paragraphs 38 and 39, £10 of any of the following namely—
   >
@@ -215,7 +215,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
   ;
 - (d) in paragraph 26(1)—
-  - (i)[^key-ba25e76ec6f86a9081a35b88cc55f35e] in head (b)[^f00053] for “Secretary of State under section 51” substitute “Scottish Ministers under section 51A”, and
+  - (i)[^c-ba25e76ec6f86a9081a35b88cc55f35e] in head (b)[^f00053] for “Secretary of State under section 51” substitute “Scottish Ministers under section 51A”, and
   - (ii) omit head (d)[^f00054];
 - (e) omit paragraph 40;
 - (f) in paragraph 43 for “Order or the Benefits Act” substitute “benefit Acts”;
@@ -226,7 +226,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
   > **48.** Any payment made to such persons entitled to receive benefits as may be determined by or under a scheme made pursuant to Article 13 of the Social Security (Northern Ireland) Order 1988 in lieu of vouchers or similar arrangements in connection with the provision of those benefits (including payments made in place of healthy start vouchers, milk tokens or the supply of vitamins).
 
   ;
-- (j)[^key-52f96f8b98ce86c743c253315cf29007] for paragraphs 52 and 53[^f00055] substitute—
+- (j)[^c-52f96f8b98ce86c743c253315cf29007] for paragraphs 52 and 53[^f00055] substitute—
 
   > **52.** (1) If the claimant is in receipt of any benefit under Part II, III or V of the Benefits Act, any increase in the rate of that benefit arising under Part IV (increases for dependants) or section 106(a) (unemployability supplement) of that Act, where the dependant in respect of whom the increase is paid is not a member of the claimant’s family.
   >
@@ -235,7 +235,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
   > **53.** Any supplementary pension under Article 23(2) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006 (pensions to surviving spouses and surviving civil partners) and any analogous payment made by the Secretary of State for Defence to any person who is not a person entitled under that Order.
 
   ; and
-- (k)[^key-ba25e76ec6f86a9081a35b88cc55f35e] for paragraph 55(1)(b)[^f00057] substitute—
+- (k)[^c-ba25e76ec6f86a9081a35b88cc55f35e] for paragraph 55(1)(b)[^f00057] substitute—
 
   > - (b) equal to the amount specified in Article 23(2) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006.
 
@@ -243,26 +243,26 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 (7) In Schedule 7 (capital to be disregarded)—
 
-- (a)[^key-52f96f8b98ce86c743c253315cf29007] in paragraph 12(1)(b)[^f00058] for “a jobseeker’s allowance” substitute “an income-based jobseeker’s allowance”;
-- (b)[^key-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 34 for “Order or under the Benefits Act” substitute “benefit Acts”;
-- (c)[^key-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 36(1) for “3, 5 or 8 of the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 1989” substitute “5, 6 or 11 of the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004”;
-- (d)[^key-ba25e76ec6f86a9081a35b88cc55f35e] for paragraph 37 substitute—
+- (a)[^c-52f96f8b98ce86c743c253315cf29007] in paragraph 12(1)(b)[^f00058] for “a jobseeker’s allowance” substitute “an income-based jobseeker’s allowance”;
+- (b)[^c-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 34 for “Order or under the Benefits Act” substitute “benefit Acts”;
+- (c)[^c-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 36(1) for “3, 5 or 8 of the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 1989” substitute “5, 6 or 11 of the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004”;
+- (d)[^c-ba25e76ec6f86a9081a35b88cc55f35e] for paragraph 37 substitute—
 
   > **37.** Any payment made to such persons entitled to receive benefits as may be determined by or under a scheme made pursuant to Article 13 of the Social Security (Northern Ireland) Order 1988 in lieu of vouchers or similar arrangements in connection with the provision of those benefits (including payments made in place of healthy start vouchers, milk tokens or the supply of vitamins), but only for a period of 52 weeks from the date of receipt of the payment.
 
   ;
-- (e)[^key-ba25e76ec6f86a9081a35b88cc55f35e] for paragraph 39 substitute—
+- (e)[^c-ba25e76ec6f86a9081a35b88cc55f35e] for paragraph 39 substitute—
 
   > **39.** Any arrears of supplementary pension which is disregarded under paragraph 53 of Schedule 6 (sums to be disregarded in the calculation of income other than earnings) or of any amount which is disregarded under paragraph 54 or 55 of that Schedule, but only for a period of 52 weeks from the date of receipt of the arrears.
 
   ; and
-- (f)[^key-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 54[^f00059] omit “within the meaning in section 25 of the Social Security Act 1989”.
+- (f)[^c-ba25e76ec6f86a9081a35b88cc55f35e] in paragraph 54[^f00059] omit “within the meaning in section 25 of the Social Security Act 1989”.
 
-## 4. Amendment of the State Pension Credit Regulations[^key-8464d27b255783d5dfc6372ab7fc4c6b][^key-450c7965ced5ffc63f7a8cb259737e64]
+## 4. Amendment of the State Pension Credit Regulations[^c-8464d27b255783d5dfc6372ab7fc4c6b][^c-450c7965ced5ffc63f7a8cb259737e64]
 
-(1)[^key-8464d27b255783d5dfc6372ab7fc4c6b] The State Pension Credit Regulations (Northern Ireland) 2003 are amended in accordance with paragraphs (2) to (6).
+(1)[^c-8464d27b255783d5dfc6372ab7fc4c6b] The State Pension Credit Regulations (Northern Ireland) 2003 are amended in accordance with paragraphs (2) to (6).
 
-(2)[^key-8464d27b255783d5dfc6372ab7fc4c6b] In regulation 1(2) (interpretation) in the definition of “attendance allowance” for paragraph (f) substitute—
+(2)[^c-8464d27b255783d5dfc6372ab7fc4c6b] In regulation 1(2) (interpretation) in the definition of “attendance allowance” for paragraph (f) substitute—
 
 > - (f) any payment based on a need for attendance which is paid as part of a war disablement pension, or any other such payment granted in respect of disablement which falls within regulation 15(5)(ac);
 
@@ -270,15 +270,15 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 (3) In regulation 15(5) (income for the purposes of the Act)—
 
-- (a)[^key-450c7965ced5ffc63f7a8cb259737e64] for sub-paragraph (a) substitute—
+- (a)[^c-450c7965ced5ffc63f7a8cb259737e64] for sub-paragraph (a) substitute—
 
   > - (a) a payment made under—
   >   - (i) Article 30 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006, in any case where Article 30(1)(b) applies, or
   >   - (ii) Article 12(8) of that Order, in any case where sub-paragraph (b) of that Article applies;
 
   ;
-- (b)[^key-8464d27b255783d5dfc6372ab7fc4c6b] in sub-paragraph (ab)[^f00060] for “but only where the condition referred to in Article 23(2)(c) is met” substitute “in any case where Article 23(2)(c) applies”; and
-- (c)[^key-8464d27b255783d5dfc6372ab7fc4c6b] after sub-paragraph (ab) insert—
+- (b)[^c-8464d27b255783d5dfc6372ab7fc4c6b] in sub-paragraph (ab)[^f00060] for “but only where the condition referred to in Article 23(2)(c) is met” substitute “in any case where Article 23(2)(c) applies”; and
+- (c)[^c-8464d27b255783d5dfc6372ab7fc4c6b] after sub-paragraph (ab) insert—
 
   > - (ac) any retired pay, pension or allowance granted in respect of disablement or any pension or allowance granted to a widow, widower or surviving civil partner in respect of a death due to service or war injury under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003[^f00061] where such payment does not fall within paragraph (a) of the definition of “war disablement pension” in section 17(1) of the State Pension Credit Act (Northern Ireland) 2002 or, in respect of any retired pay or pension granted in respect of disablement, where such payment does not fall within paragraph (b) of that definition;
 
@@ -287,48 +287,48 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 (4) In Schedule 4 (amounts to be disregarded in the calculation of income other than earnings)—
 
 - (a) in paragraph 1—
-  - (i)[^key-8464d27b255783d5dfc6372ab7fc4c6b] after sub-paragraph (b) insert—
+  - (i)[^c-8464d27b255783d5dfc6372ab7fc4c6b] after sub-paragraph (b) insert—
 
     > - (ba) unless sub-paragraph (a) or (b) applies, any payment described in regulation 15(5)(ac) (except insofar as such a payment falls to be disregarded under paragraph 2 or 3);
 
     ;
-  - (ii)[^key-8464d27b255783d5dfc6372ab7fc4c6b] in sub-paragraph (c)[^f00062] omit “the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 insofar as that Order is made under the Naval and Marine Pay and Pensions Act 1865 or the Pensions and Yeomanry Pay Act 1884, or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 and”;
-  - (iii)[^key-450c7965ced5ffc63f7a8cb259737e64] in sub-paragraph (cc)[^f00063] at the end add “and, if the amount of that payment has been abated to less than £10 by a payment under the Armed Forces Pension Scheme 1975 or the Armed Forces Pension Scheme 2005, so much of the pension payable under either of those schemes as would not, in aggregate with the amount of the guaranteed income payment disregarded, exceed £10”, and
-  - (iv)[^key-450c7965ced5ffc63f7a8cb259737e64] in sub-paragraph (d)[^f00064] for “sub-paragraphs (a) to (c)” substitute “the preceding sub-paragraphs”;
-- (b)[^key-8464d27b255783d5dfc6372ab7fc4c6b] in paragraph 3 for “Article 26A of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983” substitute “Article 20 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006”;
-- (c)[^key-8464d27b255783d5dfc6372ab7fc4c6b] for paragraph 4[^f00065] substitute—
+  - (ii)[^c-8464d27b255783d5dfc6372ab7fc4c6b] in sub-paragraph (c)[^f00062] omit “the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 insofar as that Order is made under the Naval and Marine Pay and Pensions Act 1865 or the Pensions and Yeomanry Pay Act 1884, or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 and”;
+  - (iii)[^c-450c7965ced5ffc63f7a8cb259737e64] in sub-paragraph (cc)[^f00063] at the end add “and, if the amount of that payment has been abated to less than £10 by a payment under the Armed Forces Pension Scheme 1975 or the Armed Forces Pension Scheme 2005, so much of the pension payable under either of those schemes as would not, in aggregate with the amount of the guaranteed income payment disregarded, exceed £10”, and
+  - (iv)[^c-450c7965ced5ffc63f7a8cb259737e64] in sub-paragraph (d)[^f00064] for “sub-paragraphs (a) to (c)” substitute “the preceding sub-paragraphs”;
+- (b)[^c-8464d27b255783d5dfc6372ab7fc4c6b] in paragraph 3 for “Article 26A of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983” substitute “Article 20 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006”;
+- (c)[^c-8464d27b255783d5dfc6372ab7fc4c6b] for paragraph 4[^f00065] substitute—
 
   > **4.** Any supplementary pension under Article 23(2) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006 (pensions to surviving spouses and surviving civil partners) and any analogous payment made by the Secretary of State for Defence to any person who is not a person entitled under that Order.
 
   ;
-- (d)[^key-8464d27b255783d5dfc6372ab7fc4c6b] for paragraph 6(1)(b)[^f00066] substitute—
+- (d)[^c-8464d27b255783d5dfc6372ab7fc4c6b] for paragraph 6(1)(b)[^f00066] substitute—
 
   > - (b) equal to the amount specified in Article 23(2) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006.
 
   ;
-- (e)[^key-450c7965ced5ffc63f7a8cb259737e64] in paragraph 12[^f00067]—
+- (e)[^c-450c7965ced5ffc63f7a8cb259737e64] in paragraph 12[^f00067]—
   - (i) for “pension under Part IV of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983” substitute “pension or allowance under Part 2 or 3 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006”, and
   - (ii) omit “spouse or civil”; and
-- (f)[^key-8464d27b255783d5dfc6372ab7fc4c6b] omit paragraph 17[^f00068].
+- (f)[^c-8464d27b255783d5dfc6372ab7fc4c6b] omit paragraph 17[^f00068].
 
 (5) In Schedule 5 (income from capital)—
 
-- (a)[^key-8464d27b255783d5dfc6372ab7fc4c6b] paragraph 14 shall be renumbered as paragraph 14(1) and at the end add—
+- (a)[^c-8464d27b255783d5dfc6372ab7fc4c6b] paragraph 14 shall be renumbered as paragraph 14(1) and at the end add—
 
   > (2) In sub-paragraph (1), “war disablement pension” and “war widow’s or widower’s pension” include any payment described in regulation 15(5)(ac).
 
   ;
-- (b)[^key-450c7965ced5ffc63f7a8cb259737e64] in paragraph 17 after “18 to 20” insert “or 20B”;
-- (c)[^key-8464d27b255783d5dfc6372ab7fc4c6b] in paragraph 20(2)(i)[^f00069] for “a war widow’s or widower’s pension” substitute “any other such amount described in regulation 15(5)(ac)”; and
-- (d)[^key-450c7965ced5ffc63f7a8cb259737e64] after paragraph 20A[^f00070] insert—
+- (b)[^c-450c7965ced5ffc63f7a8cb259737e64] in paragraph 17 after “18 to 20” insert “or 20B”;
+- (c)[^c-8464d27b255783d5dfc6372ab7fc4c6b] in paragraph 20(2)(i)[^f00069] for “a war widow’s or widower’s pension” substitute “any other such amount described in regulation 15(5)(ac)”; and
+- (d)[^c-450c7965ced5ffc63f7a8cb259737e64] after paragraph 20A[^f00070] insert—
 
   > **20B.** Any arrears of supplementary pension which is disregarded under paragraph 4 of Schedule 4 (amounts to be disregarded in the calculation of income other than earnings) or of any amount which is disregarded under paragraph 5 or 6 of that Schedule.
 
   .
 
-(6)[^key-8464d27b255783d5dfc6372ab7fc4c6b] In Schedule 6 (sums disregarded from claimant’s earnings) in paragraph 4(1)(a)(v) for “Article 26A of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983” substitute “Article 20 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006”.
+(6)[^c-8464d27b255783d5dfc6372ab7fc4c6b] In Schedule 6 (sums disregarded from claimant’s earnings) in paragraph 4(1)(a)(v) for “Article 26A of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983” substitute “Article 20 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006”.
 
-## 5. Amendment of the Housing Benefit Regulations[^key-bb991d5ef72321c9a6c914e5d4a41a4d]
+## 5. Amendment of the Housing Benefit Regulations[^c-bb991d5ef72321c9a6c914e5d4a41a4d]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00071] are amended in accordance with paragraphs (2) to (6).
 
@@ -388,7 +388,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
   ;
 - (d) in paragraph 53 omit “within the meaning of section 25 of the Social Security Act 1989”.
 
-## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-8fc1988be2a19c7d0824fe5b863419d6]
+## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-8fc1988be2a19c7d0824fe5b863419d6]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00075] are amended in accordance with paragraphs (2) to (7).
 
@@ -443,15 +443,15 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
   .
 
-## 7. Amendment of the Housing Benefit (Consequential Provisions) Regulations[^key-eb2a10161f26761a57f0ded3c9389251]
+## 7. Amendment of the Housing Benefit (Consequential Provisions) Regulations[^c-eb2a10161f26761a57f0ded3c9389251]
 
 In Schedule 4 to the Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006[^f00078] (transitory modifications) omit paragraphs 2(4) to (6) and 3(2)(b) and (c).
 
-## 8. Amendment of the Employment and Support Allowance Regulations[^key-49dc5b7f048e3afa3f3f37e3bbda2f37][^key-da0679dc3a5a6102eb33adaa74242c35]
+## 8. Amendment of the Employment and Support Allowance Regulations[^c-49dc5b7f048e3afa3f3f37e3bbda2f37][^c-da0679dc3a5a6102eb33adaa74242c35]
 
-(1)[^key-49dc5b7f048e3afa3f3f37e3bbda2f37] The Employment and Support Allowance Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs (2) to (4).
+(1)[^c-49dc5b7f048e3afa3f3f37e3bbda2f37] The Employment and Support Allowance Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs (2) to (4).
 
-(2)[^key-49dc5b7f048e3afa3f3f37e3bbda2f37] In regulation 2(1) (interpretation)—
+(2)[^c-49dc5b7f048e3afa3f3f37e3bbda2f37] In regulation 2(1) (interpretation)—
 
 - (a) in the definition of “concessionary payment” omit “either to the Northern Ireland National Insurance Fund or”;
 - (b) in the definition of “war disablement pension” for “retirement pay,” substitute “retired pay or”; and
@@ -459,8 +459,8 @@ In Schedule 4 to the Housing Benefit (Consequential Provisions) Regulations (Nor
 
 (3) In Schedule 8 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-da0679dc3a5a6102eb33adaa74242c35] in paragraph 16(d) at the end add “and, if the amount of that payment has been abated to less than £10 by a payment under the Armed Forces Pension Scheme 1975 or the Armed Forces Pension Scheme 2005, so much of the pension payable under either of those schemes as would not, in aggregate with the amount of the guaranteed income payment disregarded, exceed £10”; and
-- (b)[^key-49dc5b7f048e3afa3f3f37e3bbda2f37] for paragraph 49 substitute—
+- (a)[^c-da0679dc3a5a6102eb33adaa74242c35] in paragraph 16(d) at the end add “and, if the amount of that payment has been abated to less than £10 by a payment under the Armed Forces Pension Scheme 1975 or the Armed Forces Pension Scheme 2005, so much of the pension payable under either of those schemes as would not, in aggregate with the amount of the guaranteed income payment disregarded, exceed £10”; and
+- (b)[^c-49dc5b7f048e3afa3f3f37e3bbda2f37] for paragraph 49 substitute—
 
   > **49.** (1) If the claimant is in receipt of any benefit under Part 2, 3 or 5 of the Contributions and Benefits Act, any increase in the rate of that benefit arising under Part 4 (increases for dependants) or section 106(a) (unemployability supplement) of that Act, where the dependant in respect of whom the increase is paid is not a member of the claimant’s family.
   >
@@ -468,9 +468,9 @@ In Schedule 4 to the Housing Benefit (Consequential Provisions) Regulations (Nor
 
   .
 
-(4)[^key-49dc5b7f048e3afa3f3f37e3bbda2f37] In Schedule 9 (capital to be disregarded) in paragraph 50 for “war pension within the meaning of section 25 of the Social Security Act 1989” substitute “war disablement pension, war widow’s pension or war widower’s pension”.
+(4)[^c-49dc5b7f048e3afa3f3f37e3bbda2f37] In Schedule 9 (capital to be disregarded) in paragraph 50 for “war pension within the meaning of section 25 of the Social Security Act 1989” substitute “war disablement pension, war widow’s pension or war widower’s pension”.
 
-## 9. Revocations[^key-00c5c25ece88ffc8742d1469c4c43688]
+## 9. Revocations[^c-00c5c25ece88ffc8742d1469c4c43688]
 
 The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -492,7 +492,7 @@ Adrian Arbuthnot
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE — Revocations[^key-cac5d31b98f80e6cb223f96167c81d16]
+## SCHEDULE — Revocations[^c-cac5d31b98f80e6cb223f96167c81d16]
 
 Regulation 9
 
@@ -552,7 +552,7 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-fd92d63b443ec929363c859d0315d6a4]: Commencement: Reg. 1 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-fd92d63b443ec929363c859d0315d6a4]: Commencement: Reg. 1 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
 [^f00008]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -568,9 +568,9 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00014]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f8f6a7d4f8fc2d91ecc6da3e0280ecc3]: Commencement: Reg. 2(1)-(5)(6)(a)(b)(d)(i)(e)-(l) (7) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-f8f6a7d4f8fc2d91ecc6da3e0280ecc3]: Commencement: Reg. 2(1)-(5)(6)(a)(b)(d)(i)(e)-(l) (7) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
-[^key-527968944a2ec32a14222f9ec58ee24f]: Commencement: [Reg. 2(6)(c)](https://www.legislation.gov.uk/nisr/2008/498/regulation/2/6/c) (6)(d)(ii) comes into operation in accordance with reg. 1(2)
+[^c-527968944a2ec32a14222f9ec58ee24f]: Commencement: [Reg. 2(6)(c)](https://www.legislation.gov.uk/nisr/2008/498/regulation/2/6/c) (6)(d)(ii) comes into operation in accordance with reg. 1(2)
 
 [^f00015]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606)
 
@@ -580,7 +580,7 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00018]: Footnote: The definition of “war widower’s pension” was inserted by regulation 2(2) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128) and amended by paragraph 12(2)(c) of [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and regulation 3(2)(d) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306)
 
-[^key-775ecc2607b878170f85a23225e61fef]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2008/498/regulation/2/3) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(d)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/d)
+[^c-775ecc2607b878170f85a23225e61fef]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2008/498/regulation/2/3) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(d)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/d)
 
 [^f00019]: Footnote: Paragraph (4) was substituted by regulation 9(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by regulation 2(2)(a) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326); sub-paragraph (a)(i) was amended by regulation 5(2) of [S.R. 1995 No. 410](https://www.legislation.gov.uk/nisr/1995/410), regulation 2(2) of [S.R. 1995 No. 481](https://www.legislation.gov.uk/nisr/1995/481), regulation 2(3) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128), paragraph 10(e)(i) and (ii) of Schedule 1 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), regulation 2(6) of [S.R. 2005 No. 98](https://www.legislation.gov.uk/nisr/2005/98) and regulation 4(2) of [S.R. 2005 No. 539](https://www.legislation.gov.uk/nisr/2005/539)
 
@@ -634,9 +634,9 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00044]: Footnote: Paragraph 61 was added by regulation 2(a) of [S.R. 2001 No. 392](https://www.legislation.gov.uk/nisr/2001/392) and amended by Article 2(3) and paragraph 12(9)(e) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
 
-[^key-ba25e76ec6f86a9081a35b88cc55f35e]: Commencement: Reg. 3(1)-(5) (6)(a)(d)-(i) (k) (7)(b)-(f) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-ba25e76ec6f86a9081a35b88cc55f35e]: Commencement: Reg. 3(1)-(5) (6)(a)(d)-(i) (k) (7)(b)-(f) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
-[^key-52f96f8b98ce86c743c253315cf29007]: Commencement: [Reg. 3(6)(b)(c)(j)](https://www.legislation.gov.uk/nisr/2008/498/regulation/3/6/b/c/j) (7)(a) comes into operation in accordance with reg. 1(2)
+[^c-52f96f8b98ce86c743c253315cf29007]: Commencement: [Reg. 3(6)(b)(c)(j)](https://www.legislation.gov.uk/nisr/2008/498/regulation/3/6/b/c/j) (7)(a) comes into operation in accordance with reg. 1(2)
 
 [^f00045]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
 
@@ -668,9 +668,9 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00059]: Footnote: Paragraph 54 was added by regulation 2(c) of [S.R. 2001 No. 392](https://www.legislation.gov.uk/nisr/2001/392) and amended by Article 2(3) and paragraph 23(13)(e) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
 
-[^key-8464d27b255783d5dfc6372ab7fc4c6b]: Commencement: Reg. 4(1)(2) (3)(b)(c) (4)(a)(i)(ii) (4)(b)-(d)(f) (5)(a)(c) (6) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-8464d27b255783d5dfc6372ab7fc4c6b]: Commencement: Reg. 4(1)(2) (3)(b)(c) (4)(a)(i)(ii) (4)(b)-(d)(f) (5)(a)(c) (6) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
-[^key-450c7965ced5ffc63f7a8cb259737e64]: Commencement: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2008/498/regulation/4/3/a) (4)(a)(iii)(iv) (e) (5)(b) (d) comes into operation in accordance with reg. 1(2)
+[^c-450c7965ced5ffc63f7a8cb259737e64]: Commencement: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2008/498/regulation/4/3/a) (4)(a)(iii)(iv) (e) (5)(b) (d) comes into operation in accordance with reg. 1(2)
 
 [^f00060]: Footnote: Sub-paragraph (ab) was inserted by regulation 2(3) of [S.R. 2005 No. 98](https://www.legislation.gov.uk/nisr/2005/98)
 
@@ -694,7 +694,7 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00070]: Footnote: Paragraph 20A was substituted by regulation 2(11)(f) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 
-[^key-bb991d5ef72321c9a6c914e5d4a41a4d]: Commencement: Reg. 5 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-bb991d5ef72321c9a6c914e5d4a41a4d]: Commencement: Reg. 5 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
 [^f00071]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulation is [S.R. 2008 No. 179](https://www.legislation.gov.uk/nisr/2008/179)
 
@@ -704,7 +704,7 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00074]: Footnote: Sub-paragraph (1) was amended by regulation 3(11) of [S.R. 2008 No. 179](https://www.legislation.gov.uk/nisr/2008/179)
 
-[^key-8fc1988be2a19c7d0824fe5b863419d6]: Commencement: Reg. 6 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-8fc1988be2a19c7d0824fe5b863419d6]: Commencement: Reg. 6 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
 [^f00075]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulation is [S.R. 2007 No. 153](https://www.legislation.gov.uk/nisr/2007/153)
 
@@ -712,16 +712,16 @@ In so far as these Regulations are required, for the purposes of regulations 5, 
 
 [^f00077]: Footnote: Paragraph 22 was amended by Article 20(9) of [S.R. 2007 No. 153](https://www.legislation.gov.uk/nisr/2007/153)
 
-[^key-eb2a10161f26761a57f0ded3c9389251]: Commencement: Reg. 7 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-eb2a10161f26761a57f0ded3c9389251]: Commencement: Reg. 7 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
 [^f00078]: Footnote: [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)
 
-[^key-49dc5b7f048e3afa3f3f37e3bbda2f37]: Commencement: Reg. 8(1)(2) (3)(b) (4) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-49dc5b7f048e3afa3f3f37e3bbda2f37]: Commencement: Reg. 8(1)(2) (3)(b) (4) in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
-[^key-da0679dc3a5a6102eb33adaa74242c35]: Commencement: [Reg. 8(3)(a)](https://www.legislation.gov.uk/nisr/2008/498/regulation/8/3/a) comes into operation in accordance with reg. 1(2)
+[^c-da0679dc3a5a6102eb33adaa74242c35]: Commencement: [Reg. 8(3)(a)](https://www.legislation.gov.uk/nisr/2008/498/regulation/8/3/a) comes into operation in accordance with reg. 1(2)
 
 [^f00079]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606)
 
-[^key-00c5c25ece88ffc8742d1469c4c43688]: Commencement: Reg. 9 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-00c5c25ece88ffc8742d1469c4c43688]: Commencement: Reg. 9 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
 
-[^key-cac5d31b98f80e6cb223f96167c81d16]: Commencement: Sch. in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)
+[^c-cac5d31b98f80e6cb223f96167c81d16]: Commencement: Sch. in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1)

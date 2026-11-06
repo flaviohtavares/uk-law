@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Prohibitions relating to the associated provision of brokering services: non-UK activity[^key-dd94a6170e25a786cc6aebb762d0895e]
+## 35. Prohibitions relating to the associated provision of brokering services: non-UK activity[^c-dd94a6170e25a786cc6aebb762d0895e]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,10 +52,10 @@ summary: ''
   - (a) for the purposes of paragraph (1)(a) and (b), a country that is not the United Kingdom, the Isle of Man or Syria, and
   - (b) for the purposes of any other provision of paragraph (1), a country that is not the United Kingdom or Syria.
 
-(5)[^key-49589aa4eec366185d544167f48aeb6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-49589aa4eec366185d544167f48aeb6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd94a6170e25a786cc6aebb762d0895e]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-dd94a6170e25a786cc6aebb762d0895e]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-49589aa4eec366185d544167f48aeb6c]: Textual amendment: [Reg. 35(5)](https://www.legislation.gov.uk/uksi/2019/792/regulation/35/5) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(j)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/j)
+[^c-49589aa4eec366185d544167f48aeb6c]: Textual amendment: [Reg. 35(5)](https://www.legislation.gov.uk/uksi/2019/792/regulation/35/5) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(j)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/j)

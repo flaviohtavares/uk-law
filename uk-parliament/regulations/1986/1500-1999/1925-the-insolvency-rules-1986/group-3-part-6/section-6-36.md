@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.36. Old bankruptcy notices[^key-286fc36e10c378e291946b3b317a7d51]
+## 6.36. Old bankruptcy notices[^c-286fc36e10c378e291946b3b317a7d51]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-286fc36e10c378e291946b3b317a7d51]: Commencement: [Rule 6.36](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.36) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-286fc36e10c378e291946b3b317a7d51]: Commencement: [Rule 6.36](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.36) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

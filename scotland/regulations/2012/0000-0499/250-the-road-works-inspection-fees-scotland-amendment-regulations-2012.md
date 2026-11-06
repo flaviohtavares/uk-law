@@ -32,7 +32,7 @@ summary: ''
 
 Roads And Bridges
 
-The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2012 (revoked)[^key-ceac4960a743fcece98374ebf7beef51]
+The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2012 (revoked)[^c-ceac4960a743fcece98374ebf7beef51]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st November 2012
 
-[^key-ceac4960a743fcece98374ebf7beef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ceac4960a743fcece98374ebf7beef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ceac4960a743fcece98374ebf7beef51]
+## 1. Citation and commencement[^c-ceac4960a743fcece98374ebf7beef51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Road Works (Inspection Fees) (Scotland) Regulations 2003[^key-ceac4960a743fcece98374ebf7beef51]
+## 2. Amendment of the Road Works (Inspection Fees) (Scotland) Regulations 2003[^c-ceac4960a743fcece98374ebf7beef51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ceac4960a743fcece98374ebf7beef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ceac4960a743fcece98374ebf7beef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ceac4960a743fcece98374ebf7beef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ceac4960a743fcece98374ebf7beef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ceac4960a743fcece98374ebf7beef51]: Textual amendment: Regulations revoked (1.4.2014) by [The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/56)](https://www.legislation.gov.uk/ssi/2014/56), [regs. 1](https://www.legislation.gov.uk/ssi/2014/56/regulation/1), [3](https://www.legislation.gov.uk/ssi/2014/56/regulation/3)
+[^c-ceac4960a743fcece98374ebf7beef51]: Textual amendment: Regulations revoked (1.4.2014) by [The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/56)](https://www.legislation.gov.uk/ssi/2014/56), [regs. 1](https://www.legislation.gov.uk/ssi/2014/56/regulation/1), [3](https://www.legislation.gov.uk/ssi/2014/56/regulation/3)

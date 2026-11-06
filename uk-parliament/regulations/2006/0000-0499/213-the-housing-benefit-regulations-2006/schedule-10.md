@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE  10 — Former pathfinder authorities[^key-303cd6c3da826eb6cfe5db9b85be3fda]
+## SCHEDULE  10 — Former pathfinder authorities[^c-303cd6c3da826eb6cfe5db9b85be3fda]
 
 *Extent: E+W+S*
 
@@ -75,7 +75,7 @@ In regulation 11(1) (eligible housing costs)—
 
 #### 4. Amendment of regulation 12B
 
-In regulation 12B(1) (eligible rent) after sub-paragraph (c) insert—[^key-d74ff19c36b3e5aa1e1bf4163780c506]
+In regulation 12B(1) (eligible rent) after sub-paragraph (c) insert—[^c-d74ff19c36b3e5aa1e1bf4163780c506]
 
 - "(ca) any of regulations 12E to 12K (transitional protection for pathfinder cases);"
 
@@ -195,7 +195,7 @@ After regulation 12D (eligible rent and maximum rent (LHA)) insert—
 > - (a) the maximum rent (LHA) where it is higher than the eligible rent applying immediately before 7th April 2008; or
 > - (b) in any other case, the lower of—
 >   - (i) the amount of the eligible rent applying immediately before 7th April 2008; or
->   - (ii) the amount of the cap rent by reference to which the maximum rent (LHA) was determined[^key-d71bc6f076d17592300340fb6cfb5ce4]....
+>   - (ii) the amount of the cap rent by reference to which the maximum rent (LHA) was determined[^c-d71bc6f076d17592300340fb6cfb5ce4]....
 >
 > (3) Where the claimant’s eligible rent is determined in accordance with paragraph (2)(b), it continues to apply until, on or after 7th April 2009, the first of the following events occurs—
 >
@@ -284,8 +284,8 @@ In regulation 13D(12) (determination of a maximum rent (LHA)) in the definition 
 
 ## Annotations
 
-[^key-303cd6c3da826eb6cfe5db9b85be3fda]: Textual amendment: Sch. 10 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/4), [20(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/20/2)
+[^c-303cd6c3da826eb6cfe5db9b85be3fda]: Textual amendment: Sch. 10 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/4), [20(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/20/2)
 
-[^key-d74ff19c36b3e5aa1e1bf4163780c506]: Textual amendment: Sch. 10 para. 4 substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(9)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/9)
+[^c-d74ff19c36b3e5aa1e1bf4163780c506]: Textual amendment: Sch. 10 para. 4 substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(9)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/9)
 
-[^key-d71bc6f076d17592300340fb6cfb5ce4]: Textual amendment: Words in Sch. 10 para. 6 omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/11)
+[^c-d71bc6f076d17592300340fb6cfb5ce4]: Textual amendment: Words in Sch. 10 para. 6 omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/11)

@@ -39,7 +39,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 The Secretary of State has consulted the Welsh Ministers in accordance with paragraphs 8(6), 9(3) and 10(4) of Schedule 11 to the Water Act 2014.
 
-## 1. Citation and interpretation[^key-ef67909cb91325138914a1e9b3eeb1a2]
+## 1. Citation and interpretation[^c-ef67909cb91325138914a1e9b3eeb1a2]
 
 (1) This Order may be cited as the Water Act 2014 (Commencement No. 9 and Transitional Provisions) Order 2017.
 
@@ -63,7 +63,7 @@ The Secretary of State has consulted the Welsh Ministers in accordance with para
   - (i) a provision of the 1991 Act after an amendment of that provision made by the 2014 Act has come into force, or
   - (ii) a provision of the 1991 Act that was inserted by the 2014 Act.
 
-## 2. Provisions of the 2014 Act coming into force on 30th March 2017[^key-c53575972e9ff5c45c1b281740f8f85a]
+## 2. Provisions of the 2014 Act coming into force on 30th March 2017[^c-c53575972e9ff5c45c1b281740f8f85a]
 
 The following provisions of the 2014 Act come into force on 30th March 2017—
 
@@ -75,7 +75,7 @@ The following provisions of the 2014 Act come into force on 30th March 2017—
   - (ii) section 117G so far as not already in force;
   - (iii) section 117H.
 
-## 3. Provisions of the 2014 Act coming into force on 1st April 2017[^key-6256f76fe6f6342c453824d98cfa86ca]
+## 3. Provisions of the 2014 Act coming into force on 1st April 2017[^c-6256f76fe6f6342c453824d98cfa86ca]
 
 The following provisions of the 2014 Act come into force on 1st April 2017—
 
@@ -141,7 +141,7 @@ The following provisions of the 2014 Act come into force on 1st April 2017—
   - (xxiv) paragraphs 128 to 130;
   - (xxv) paragraphs 136 to 142.
 
-## 4. Provisions of the 2014 Act coming into force on 1st October 2017[^key-de7404a96a6d48730f1ff4907c63b3d0]
+## 4. Provisions of the 2014 Act coming into force on 1st October 2017[^c-de7404a96a6d48730f1ff4907c63b3d0]
 
 The following provisions of the 2014 Act come into force on 1st October 2017—
 
@@ -150,13 +150,13 @@ The following provisions of the 2014 Act come into force on 1st October 2017—
 - (c) section 56 (further amendments) so far as it relates to paragraph (d);
 - (d) Schedule 7 (further amendments) as follows—
   - (i) paragraph 2 so far as it relates to sub-paragraphs (ii) to (iv);
-  - (ii)[^key-684c56a87a8818662fbffc35fe40b389] paragraph 92 so far as it relates to a sewerage undertaker whose area is wholly or mainly in England;
+  - (ii)[^c-684c56a87a8818662fbffc35fe40b389] paragraph 92 so far as it relates to a sewerage undertaker whose area is wholly or mainly in England;
   - (iii) paragraph 95 so far as it relates to a sewerage undertaker whose area is wholly or mainly in England;
   - (iv) paragraph 98 as follows—
     - (aa) sub-paragraph (1) so far as it relates to paragraph (bb);
     - (bb) sub-paragraph (2) so far as it relates to a sewerage undertaker whose area is wholly or mainly in England.
 
-## 5. Provisions of the 2014 Act coming into force on 1st April 2018[^key-a27de643b4ded39b8773be512c9d9f81]
+## 5. Provisions of the 2014 Act coming into force on 1st April 2018[^c-a27de643b4ded39b8773be512c9d9f81]
 
 The following provisions of the 2014 Act come into force on 1st April 2018—
 
@@ -165,21 +165,21 @@ The following provisions of the 2014 Act come into force on 1st April 2018—
 - (c) section 20 (charges for moving pipes);
 - (d) section 56 (further amendments) so far as it relates to paragraph (e);
 - (e) Schedule 7 (further amendments) as follows—
-  - (i) paragraph 2 so far as it relates to sub-paragraphs (ii) to (iv)[^key-61a1035acb7fbeec293ad878b863892c];
-  - (ii) paragraphs 54 to 57 so far as they relate to a water undertaker whose area is wholly or mainly in England[^key-4ca95a1f88733f0684770a156c002b3f];
-  - (iii)[^key-f1d0b99979316ce79ff4b82088243b6c] paragraphs 87 and 88 so far as they relate to a sewerage undertaker whose area is wholly or mainly in England;
+  - (i) paragraph 2 so far as it relates to sub-paragraphs (ii) to (iv)[^c-61a1035acb7fbeec293ad878b863892c];
+  - (ii) paragraphs 54 to 57 so far as they relate to a water undertaker whose area is wholly or mainly in England[^c-4ca95a1f88733f0684770a156c002b3f];
+  - (iii)[^c-f1d0b99979316ce79ff4b82088243b6c] paragraphs 87 and 88 so far as they relate to a sewerage undertaker whose area is wholly or mainly in England;
   - (iv) paragraph 89 as follows—
     - (aa) sub-paragraph (a);
     - (bb) sub-paragraph (b) so far as it relates to a sewerage undertaker whose area is wholly or mainly in England.
 
-## 6. Transitional provisions in relation to new section 66A of the 1991 Act[^key-9eddadf2bbe63d6be4a5bca4cce8967b]
+## 6. Transitional provisions in relation to new section 66A of the 1991 Act[^c-9eddadf2bbe63d6be4a5bca4cce8967b]
 
 Until new section 66B(1) of the 1991 Act[^f00006] comes into force—
 
 - (a) in new section 66A(5)(a)(ii) of the 1991 Act[^f00007], the reference to a request under section 66B(1) of the 1991 Act is to be treated as a reference to a request under old section 66B(1) or (2) of the 1991 Act[^f00008];
 - (b) in new section 66A(5)(b)(i) of the 1991 Act, the reference to a request under section 66B(2) or (3) of the 1991 Act is to be treated as a reference to a request under old section 66B(1) or (2) of the 1991 Act.
 
-## 7. Transitional provisions in relation to old section 66B of the 1991 Act[^key-546b9bc12434a6a92f15f9c376b2f198]
+## 7. Transitional provisions in relation to old section 66B of the 1991 Act[^c-546b9bc12434a6a92f15f9c376b2f198]
 
 (1) Until new section 66B(1) of the 1991 Act comes into force, old section 66B of the 1991 Act applies as if the modifications in paragraphs (2) to (8) have effect.
 
@@ -209,7 +209,7 @@ a water undertaker’s duties under old section 66B of the 1991 Act are to be pe
 
 (9) In this article, “qualifying water supply licensee” means a new water supply licensee with a new supplementary authorisation or a new wholesale authorisation.
 
-## 8. Transitional provisions in relation to old section 66D agreements[^key-80e544c431778ca04f95d93ec601e3b6]
+## 8. Transitional provisions in relation to old section 66D agreements[^c-80e544c431778ca04f95d93ec601e3b6]
 
 (1) Subject to paragraphs (2) to (5), an old section 66D agreement ceases to have effect after 31st March 2017.
 
@@ -232,18 +232,18 @@ a water undertaker’s duties under old section 66B of the 1991 Act are to be pe
 - “old section 66D agreement” means such agreement or determination as is mentioned in old section 66D(3) of the 1991 Act[^f00013];
 - “old supplementary authorisation” means an authorisation as defined in old section 17A(5) of the 1991 Act given by an old water supply licence.
 
-## 9. Transitional provision in relation to new section 66D of the 1991 Act[^key-033122d6114c4d415569ca4ce0ecb69f]
+## 9. Transitional provision in relation to new section 66D of the 1991 Act[^c-033122d6114c4d415569ca4ce0ecb69f]
 
 A reference to section 66B of the 1991 Act in new section 66D of the 1991 Act[^f00014] is to be read as if new section 66B of the 1991 Act was in force.
 
-## 10. Transitional provisions in relation to new sections 66DA to 66DC of the 1991 Act[^key-208dad519d4486847908e34db034f507]
+## 10. Transitional provisions in relation to new sections 66DA to 66DC of the 1991 Act[^c-208dad519d4486847908e34db034f507]
 
 In new sections 66DA to 66DC of the 1991 Act[^f00015]—
 
 - (a) a reference to sections 66A to 66C of the 1991 Act is to be read as if new sections 66A to 66C of the 1991 Act[^f00016] were in force;
 - (b) a reference to a section 66D agreement is a reference to a section 66D agreement as defined in new section 66D(9) of the 1991 Act.
 
-## 11. Transitional provisions in respect of new wholesale authorisations[^key-4131990aace33182f94ebe7a6cd94f3e]
+## 11. Transitional provisions in respect of new wholesale authorisations[^c-4131990aace33182f94ebe7a6cd94f3e]
 
 (1) Until new section 66B(1) of the 1991 Act comes into force, paragraphs (2) to (5) have effect in relation to a new wholesale authorisation.
 
@@ -262,7 +262,7 @@ In new sections 66DA to 66DC of the 1991 Act[^f00015]—
 - (b) the description of the new wholesale authorisation in paragraph 5 of Schedule 2A to the 1991 Act[^f00019];
 - (c) regulation 4 of the Water Supply (Exceptions from Supply System Prohibitions) Regulations 2005[^f00020].
 
-## 12. Transitional provisions in respect of secondary supplies and new wholesale authorisations[^key-d9b9d714930bfbd9b88f50ab2e502ec3]
+## 12. Transitional provisions in respect of secondary supplies and new wholesale authorisations[^c-d9b9d714930bfbd9b88f50ab2e502ec3]
 
 (1) Until new section 66B(1) of the 1991 Act comes into force, paragraphs (2) to (4) have effect in relation to a request under new section 66C(1), (2) or (3) of the 1991 Act to a secondary water undertaker.
 
@@ -278,13 +278,13 @@ In new sections 66DA to 66DC of the 1991 Act[^f00015]—
 - “secondary supply” means the provision by a secondary water undertaker of a supply of water so that water may be supplied to particular premises, using the primary water undertaker’s supply system;
 - “secondary water undertaker” has the meaning given in new section 66C(1) of the 1991 Act.
 
-## 13. Transitional provision in respect of undertakings by old water supply licensees[^key-50612eb875c5eca2e95c3ecc659bb782]
+## 13. Transitional provision in respect of undertakings by old water supply licensees[^c-50612eb875c5eca2e95c3ecc659bb782]
 
 (1) Paragraph (2) applies where an old water supply licensee has entered into an undertaking with a customer before 1st April 2017 to give a supply of water to any premises.
 
 (2) If the old water supply licensee holds a new water supply licence on 1st April 2017, the undertaking referred to in paragraph (1) is to be treated as if it was entered into under that new water supply licence.
 
-## 14. Transitional provisions in respect of new charging rules for connections[^key-6d346940cef2e80ccd964e3c458d6557]
+## 14. Transitional provisions in respect of new charging rules for connections[^c-6d346940cef2e80ccd964e3c458d6557]
 
 (1) The new charging rules and the relevant provisions of the 2014 Act do not apply where before 1st April 2018—
 
@@ -307,7 +307,7 @@ In new sections 66DA to 66DC of the 1991 Act[^f00015]—
   - (a) sections 18 to 20 of the 2014 Act; and
   - (b) paragraphs 7, 54 to 57 and 87 to 89 of Schedule 7 to the 2014 Act.
 
-## 15. Transitional provisions in relation to new charging rules for adoption agreements[^key-c44c209c48c4b795996ae004ec7fc794]
+## 15. Transitional provisions in relation to new charging rules for adoption agreements[^c-c44c209c48c4b795996ae004ec7fc794]
 
 (1) Before 1st April 2018, old section 51C of the 1991 Act[^f00033] continues to have effect in relation to a section 51A agreement.
 
@@ -333,7 +333,7 @@ In new sections 66DA to 66DC of the 1991 Act[^f00015]—
 - “section 51A agreement” means an agreement between a water undertaker and a person constructing or proposing to construct a water main or a service pipe made under either old section 51A of the 1991 Act[^f00039] or new section 51A of the 1991 Act[^f00040];
 - “section 104 agreement” means an agreement between a sewerage undertaker and a person constructing or proposing to construct a sewer, a drain or a sewage disposal works made under old section 104 of the 1991 Act[^f00041] or new section 104 of the 1991 Act[^f00042].
 
-## 16. Amendment to the Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016[^key-5195580daefa0348a51c8d3c4c5879f5]
+## 16. Amendment to the Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016[^c-5195580daefa0348a51c8d3c4c5879f5]
 
 In paragraphs 1, 2 and 3 of Schedule 2 to the Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016[^f00043], for “3rd April 2017” substitute “1st April 2017”.
 
@@ -468,7 +468,7 @@ The following provisions of the 2014 Act have been brought into force by a comme
 
 [^f00001]: Footnote: [2014 c.21](https://www.legislation.gov.uk/ukpga/2014/21). The power in section 94(3) to appoint a day on which the remaining provisions of the 2014 Act come into force is vested in the “appropriate authority”. Section 94(6) provides that the appropriate authority is the Secretary of State except as stated in the table in Schedule 12.
 
-[^key-ef67909cb91325138914a1e9b3eeb1a2]: Commencement: Art. 1 in force at made date
+[^c-ef67909cb91325138914a1e9b3eeb1a2]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
@@ -478,23 +478,23 @@ The following provisions of the 2014 Act have been brought into force by a comme
 
 [^f00005]: Footnote: Section 17D was inserted by paragraph 2 of Schedule 4 to the Water Act 2003 and amended by [S.I. 2011/3014](https://www.legislation.gov.uk/uksi/2011/3014) and paragraph 12 of Schedule 7 to the 2014 Act.
 
-[^key-c53575972e9ff5c45c1b281740f8f85a]: Commencement: Art. 2 in force at made date
+[^c-c53575972e9ff5c45c1b281740f8f85a]: Commencement: Art. 2 in force at made date
 
-[^key-6256f76fe6f6342c453824d98cfa86ca]: Commencement: Art. 3 in force at made date
+[^c-6256f76fe6f6342c453824d98cfa86ca]: Commencement: Art. 3 in force at made date
 
-[^key-de7404a96a6d48730f1ff4907c63b3d0]: Commencement: Art. 4 in force at made date
+[^c-de7404a96a6d48730f1ff4907c63b3d0]: Commencement: Art. 4 in force at made date
 
-[^key-684c56a87a8818662fbffc35fe40b389]: Textual amendment: [Art. 4(d)(ii)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/ii/iv) substituted (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(2)](https://www.legislation.gov.uk/uksi/2017/926/article/2/2)
+[^c-684c56a87a8818662fbffc35fe40b389]: Textual amendment: [Art. 4(d)(ii)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/ii/iv) substituted (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(2)](https://www.legislation.gov.uk/uksi/2017/926/article/2/2)
 
-[^key-a27de643b4ded39b8773be512c9d9f81]: Commencement: Art. 5 in force at made date
+[^c-a27de643b4ded39b8773be512c9d9f81]: Commencement: Art. 5 in force at made date
 
-[^key-61a1035acb7fbeec293ad878b863892c]: Textual amendment: Words in [art. 5(e)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/i) substituted (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2017/926/article/2/3/a)
+[^c-61a1035acb7fbeec293ad878b863892c]: Textual amendment: Words in [art. 5(e)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/i) substituted (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2017/926/article/2/3/a)
 
-[^key-4ca95a1f88733f0684770a156c002b3f]: Textual amendment: Words in [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) inserted (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2017/926/article/2/3/b)
+[^c-4ca95a1f88733f0684770a156c002b3f]: Textual amendment: Words in [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) inserted (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2017/926/article/2/3/b)
 
-[^key-f1d0b99979316ce79ff4b82088243b6c]: Textual amendment: [Art. 5(e)(iii)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii/iv) substituted for [art. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii) (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2017/926/article/2/3/c)
+[^c-f1d0b99979316ce79ff4b82088243b6c]: Textual amendment: [Art. 5(e)(iii)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii/iv) substituted for [art. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii) (18.9.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) (Amendment) Order 2017 (S.I. 2017/926)](https://www.legislation.gov.uk/uksi/2017/926), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2017/926/article/2/3/c)
 
-[^key-9eddadf2bbe63d6be4a5bca4cce8967b]: Commencement: Art. 6 in force at made date
+[^c-9eddadf2bbe63d6be4a5bca4cce8967b]: Commencement: Art. 6 in force at made date
 
 [^f00006]: Footnote: Section 66B was substituted by paragraph 1 of Schedule 2 to the 2014 Act from a date to be appointed.
 
@@ -502,13 +502,13 @@ The following provisions of the 2014 Act have been brought into force by a comme
 
 [^f00008]: Footnote: Old section 66B was inserted by paragraph 3 of Schedule 4 to the Water Act 2003.
 
-[^key-546b9bc12434a6a92f15f9c376b2f198]: Commencement: Art. 7 in force at made date
+[^c-546b9bc12434a6a92f15f9c376b2f198]: Commencement: Art. 7 in force at made date
 
 [^f00009]: Footnote: Old section 17B was inserted by paragraph 2 of Schedule 4 to the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
 [^f00010]: Footnote: Section 37 was amended by section 26(2) of the Water Act 2003 and paragraph 46 of Schedule 7 to the 2014 Act.
 
-[^key-80e544c431778ca04f95d93ec601e3b6]: Commencement: Art. 8 in force at made date
+[^c-80e544c431778ca04f95d93ec601e3b6]: Commencement: Art. 8 in force at made date
 
 [^f00011]: Footnote: Old section 66E was inserted by paragraph 3 of Schedule 4 to the Water Act 2003.
 
@@ -516,17 +516,17 @@ The following provisions of the 2014 Act have been brought into force by a comme
 
 [^f00013]: Footnote: Old section 66D was inserted by paragraph 3 of Schedule 4 to the Water Act 2003.
 
-[^key-033122d6114c4d415569ca4ce0ecb69f]: Commencement: Art. 9 in force at made date
+[^c-033122d6114c4d415569ca4ce0ecb69f]: Commencement: Art. 9 in force at made date
 
 [^f00014]: Footnote: New section 66D was substituted by paragraph 3 of Schedule 2 to the 2014 Act.
 
-[^key-208dad519d4486847908e34db034f507]: Commencement: Art. 10 in force at made date
+[^c-208dad519d4486847908e34db034f507]: Commencement: Art. 10 in force at made date
 
 [^f00015]: Footnote: Sections 66DA to 66DC were inserted by paragraph 4 of Schedule 2 to the 2014 Act.
 
 [^f00016]: Footnote: New sections 66A and 66C were substituted by paragraph 1 of Schedule 2 to the 2014 Act.
 
-[^key-4131990aace33182f94ebe7a6cd94f3e]: Commencement: Art. 11 in force at made date
+[^c-4131990aace33182f94ebe7a6cd94f3e]: Commencement: Art. 11 in force at made date
 
 [^f00017]: Footnote: Section 17D was inserted by paragraph 2 of Schedule 4 to the Water Act 2003 and amended by paragraph 12 of Schedule 7 to the 2014 Act.
 
@@ -536,11 +536,11 @@ The following provisions of the 2014 Act have been brought into force by a comme
 
 [^f00020]: Footnote: [S.I. 2005/3075](https://www.legislation.gov.uk/uksi/2005/3075).
 
-[^key-d9b9d714930bfbd9b88f50ab2e502ec3]: Commencement: Art. 12 in force at made date
+[^c-d9b9d714930bfbd9b88f50ab2e502ec3]: Commencement: Art. 12 in force at made date
 
-[^key-50612eb875c5eca2e95c3ecc659bb782]: Commencement: Art. 13 in force at made date
+[^c-50612eb875c5eca2e95c3ecc659bb782]: Commencement: Art. 13 in force at made date
 
-[^key-6d346940cef2e80ccd964e3c458d6557]: Commencement: Art. 14 in force at made date
+[^c-6d346940cef2e80ccd964e3c458d6557]: Commencement: Art. 14 in force at made date
 
 [^f00021]: Footnote: Section 144ZA was inserted by section 17 of the 2014 Act.
 
@@ -566,7 +566,7 @@ The following provisions of the 2014 Act have been brought into force by a comme
 
 [^f00032]: Footnote: Section 185 was amended by section 36(2) of the Water Act 2003 and section 20 of the 2014 Act.
 
-[^key-c44c209c48c4b795996ae004ec7fc794]: Commencement: Art. 15 in force at made date
+[^c-c44c209c48c4b795996ae004ec7fc794]: Commencement: Art. 15 in force at made date
 
 [^f00033]: Footnote: Old section 51C was inserted by section 92(1) of the Water Act 2003.
 
@@ -588,6 +588,6 @@ The following provisions of the 2014 Act have been brought into force by a comme
 
 [^f00042]: Footnote: Section 104 was amended by section 11(2) of, and paragraph 91 of Schedule 7, to the 2014 Act.
 
-[^key-5195580daefa0348a51c8d3c4c5879f5]: Commencement: Art. 16 in force at made date
+[^c-5195580daefa0348a51c8d3c4c5879f5]: Commencement: Art. 16 in force at made date
 
 [^f00043]: Footnote: [S.I. 2016/465 (C. 26)](https://www.legislation.gov.uk/uksi/2016/465).

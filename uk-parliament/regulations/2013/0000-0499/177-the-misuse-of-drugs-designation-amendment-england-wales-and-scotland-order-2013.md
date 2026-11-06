@@ -34,7 +34,7 @@ Dangerous Drugs, England And Wales
 
 Dangerous Drugs, Scotland
 
-The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2013 (revoked)[^key-3e3512dab9bcf2063bd259d56643f448]
+The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2013 (revoked)[^c-3e3512dab9bcf2063bd259d56643f448]
 
 Made
 
@@ -48,44 +48,44 @@ Coming into force
 
 26th February 2013
 
-[^key-3e3512dab9bcf2063bd259d56643f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e3512dab9bcf2063bd259d56643f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-3e3512dab9bcf2063bd259d56643f448]
+## 1. Citation, commencement and extent[^c-3e3512dab9bcf2063bd259d56643f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Misuse of Drugs (Designation) Order 2001[^key-3e3512dab9bcf2063bd259d56643f448]
+## 2. Amendments to the Misuse of Drugs (Designation) Order 2001[^c-3e3512dab9bcf2063bd259d56643f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-3e3512dab9bcf2063bd259d56643f448]
+## 3.[^c-3e3512dab9bcf2063bd259d56643f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-3e3512dab9bcf2063bd259d56643f448]
+## 4.[^c-3e3512dab9bcf2063bd259d56643f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-3e3512dab9bcf2063bd259d56643f448]
+## 5.[^c-3e3512dab9bcf2063bd259d56643f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-3e3512dab9bcf2063bd259d56643f448]
+## 6.[^c-3e3512dab9bcf2063bd259d56643f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-3e3512dab9bcf2063bd259d56643f448]
+## 7.[^c-3e3512dab9bcf2063bd259d56643f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e3512dab9bcf2063bd259d56643f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e3512dab9bcf2063bd259d56643f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e3512dab9bcf2063bd259d56643f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e3512dab9bcf2063bd259d56643f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e3512dab9bcf2063bd259d56643f448]: Textual amendment: Order revoked (31.5.2015) by [The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015 (S.I. 2015/704)](https://www.legislation.gov.uk/uksi/2015/704), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/2)
+[^c-3e3512dab9bcf2063bd259d56643f448]: Textual amendment: Order revoked (31.5.2015) by [The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015 (S.I. 2015/704)](https://www.legislation.gov.uk/uksi/2015/704), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/2)

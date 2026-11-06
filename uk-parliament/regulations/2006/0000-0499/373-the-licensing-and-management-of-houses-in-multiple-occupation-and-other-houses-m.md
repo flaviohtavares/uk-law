@@ -44,17 +44,17 @@ Coming into force
 
 6th April 2006
 
-The Secretary of State, in exercise of the powers conferred by sections 59(2), (3) and (4), 60(6), 63(5) and (6), 65(3) and (4), 83(2) and (4), 84(6), 87(5) and (6), 232(3) and (7), 250(2), 258(2)(b), (5) and (6) 259(2)(c) of, and paragraphs 3 and 6(1)(c) of Schedule 14 to the Housing Act 2004 [^c15424671], makes the following Regulations:[^key-7f42c309781a638ef48e8058ba188d0d]
+The Secretary of State, in exercise of the powers conferred by sections 59(2), (3) and (4), 60(6), 63(5) and (6), 65(3) and (4), 83(2) and (4), 84(6), 87(5) and (6), 232(3) and (7), 250(2), 258(2)(b), (5) and (6) 259(2)(c) of, and paragraphs 3 and 6(1)(c) of Schedule 14 to the Housing Act 2004 [^c15424671], makes the following Regulations:[^c-7f42c309781a638ef48e8058ba188d0d]
 
 ## 1. Citation, commencement and application
 
 (1) These Regulations may be cited as The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006 and shall come into force on 6th April 2006.
 
-(2) These Regulations apply in relation to any HMO [^c15424681] in England, [^key-a79599cd94913bb068a006c571bc126c]... and to any house [^c15424691] in England to which Part 3 of the Act applies [^c15424701].
+(2) These Regulations apply in relation to any HMO [^c15424681] in England, [^c-a79599cd94913bb068a006c571bc126c]... and to any house [^c15424691] in England to which Part 3 of the Act applies [^c15424701].
 
 ## 2. Interpretation
 
-In these Regulations “**the Act**” means the Housing Act 2004; and “[^key-8c683189a3d6ed0520e9dc9e0030ac65]
+In these Regulations “**the Act**” means the Housing Act 2004; and “[^c-8c683189a3d6ed0520e9dc9e0030ac65]
 
 section 257 HMO” means an HMO which is a converted block of flats to which section 257 of the Act applies.
 
@@ -110,13 +110,13 @@ those persons are only to be regarded as forming a single household for the purp
 
 (2) In this regulation—
 
-- (a)[^key-d38c9d88bf2fc6e8ac25f8037203296b] “a migrant worker” is—
+- (a)[^c-d38c9d88bf2fc6e8ac25f8037203296b] “a migrant worker” is—
   - (i) a person who has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules and who has taken up activity in the United Kingdom as an employed person;
   - (ii) a person who has a permit indicating, in accordance with the immigration rules, that a person named in it is eligible, though not a British citizen, for entry into the United Kingdom for the purpose of taking employment;
   - (iii) a person who is a frontier worker within the meaning of regulation 3 of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020;
-- (ab)[^key-a87bf858e5fffd9aabd71cb55b59fc0c] "residence scheme immigration rules” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020;
-- (b)[^key-6e124db072d7010cc36fbfdf9296b431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-6e124db072d7010cc36fbfdf9296b431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ab)[^c-a87bf858e5fffd9aabd71cb55b59fc0c] "residence scheme immigration rules” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020;
+- (b)[^c-6e124db072d7010cc36fbfdf9296b431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6e124db072d7010cc36fbfdf9296b431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) “**seasonal worker**” means a person who carries out for an employer or undertaking employment of a seasonal character—
   - (i) the nature of which depends on the cycle of the seasons and recurs automatically each year; and
   - (ii) the duration of which cannot exceed eight months;
@@ -133,13 +133,13 @@ those persons are only to be regarded as forming a single household for the purp
 
 (1) An application for a licence under section 63 (application for HMO licence) or 87 (application for licence of Part 3 house) of the Act (“an application”) must include a statement in the form specified in paragraph 1of Schedule 2
 
-(2 (Extent: E.W.))[^key-d64c17ad47584afb24d5ef8392046677] An applicant must supply as part of his application— *(Extent: E.W.)*
+(2 (Extent: E.W.))[^c-d64c17ad47584afb24d5ef8392046677] An applicant must supply as part of his application— *(Extent: E.W.)*
 
 - (a (Extent: E.W.)) if the application is a renewal application, the information referred to in paragraph 2(a) and (b) of Schedule 2; *(Extent: E.W.)*
 - (b (Extent: E.W.)) if the application is not a renewal application, the information referred to in paragraph 2(a) to (g) of that Schedule; and *(Extent: E.W.)*
 - (c (Extent: E.W.)) in either case, the information relating to the proposed licence holder or proposed manager of the *(Extent: E.W.)* HMO *(Extent: E.W.)* or house specified in paragraph 3 of that Schedule. *(Extent: E.W.)*
 
-(3 (Extent: E.W.))[^key-c015cbed1a792a0fbf074e9ff776f904] An applicant must— *(Extent: E.W.)*
+(3 (Extent: E.W.))[^c-c015cbed1a792a0fbf074e9ff776f904] An applicant must— *(Extent: E.W.)*
 
 - (a (Extent: E.W.)) supply with the application completed and signed declarations in the form specified in paragraph 4 of Schedule 2; *(Extent: E.W.)*
 - (b (Extent: E.W.)) if the application is a renewal application, supply in addition a completed and signed declaration in the form specified in paragraph 5 of that Schedule; and *(Extent: E.W.)*
@@ -176,9 +176,9 @@ those persons are only to be regarded as forming a single household for the purp
 
 *Extent: E.W.*
 
-(11)[^key-ef4f12e76189145cff4f8753b680160b] In this regulation “renewal application” means an application for a licence under section 63 or 87 of the Act where, at the time the application is made a licence of the kind applied for is already held by the applicant and has effect in respect of the HMO or house.
+(11)[^c-ef4f12e76189145cff4f8753b680160b] In this regulation “renewal application” means an application for a licence under section 63 or 87 of the Act where, at the time the application is made a licence of the kind applied for is already held by the applicant and has effect in respect of the HMO or house.
 
-## 8. Prescribed standards for deciding the suitability of a house for multiple occupation by a particular maximum number of households or persons[^key-70f1e1d771931941692c1ebb9b183d9e]
+## 8. Prescribed standards for deciding the suitability of a house for multiple occupation by a particular maximum number of households or persons[^c-70f1e1d771931941692c1ebb9b183d9e]
 
 (1) The standards prescribed for HMOs other than section 257 HMOs for the purpose of section 65 of the Act (tests as to suitability of HMO for multiple occupation) are those set out in Schedule 3.
 
@@ -251,10 +251,10 @@ those persons are only to be regarded as forming a single household for the purp
 - (d) a short description of the licensed HMO or house;
 - (e) a summary of the conditions of the licence;
 - (f) the commencement date and duration of the licence;
-- (g) summary information of any matter concerning the licensing of the HMO or house that has been referred to the First-tier Tribunal[^key-7ff46c5c025ca127cda28503731a5e43] or to the Upper Tribunal[^key-c9e8d2b5eff4589ca4d89cc13ec4a595]; and
+- (g) summary information of any matter concerning the licensing of the HMO or house that has been referred to the First-tier Tribunal[^c-7ff46c5c025ca127cda28503731a5e43] or to the Upper Tribunal[^c-c9e8d2b5eff4589ca4d89cc13ec4a595]; and
 - (h) summary information of any decision of the tribunals referred to in sub-paragraph (g) that relate to the licensed HMO or house, together with the reference number allocated to the case by the tribunal.
 
-(2) Subject to paragraph (3), the[^key-7cc25d5e2ecbdd64bf1b6a6824acaba9] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(a) of the Act in respect of a licence granted under Part 2 of the Act which is in force—
+(2) Subject to paragraph (3), the[^c-7cc25d5e2ecbdd64bf1b6a6824acaba9] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(a) of the Act in respect of a licence granted under Part 2 of the Act which is in force—
 
 - (a) the number of storeys comprising the licensed HMO;
 - (b) the number of rooms in the licensed HMO providing—
@@ -266,7 +266,7 @@ those persons are only to be regarded as forming a single household for the purp
 - (d) a description of shared amenities including the numbers of each amenity; and
 - (e) the maximum number of persons or households permitted to occupy the licensed HMO under the conditions of the licence.
 
-(3)[^key-e8c3c7ce6d148124d3ca246706db407e] The particulars mentioned in sub-paragraphs (b), (c)(ii), (d) and (e) of paragraph (2) are not prescribed for any entry in a register referred to in that paragraph in respect of a licence granted in relation to a section 257 HMO.
+(3)[^c-e8c3c7ce6d148124d3ca246706db407e] The particulars mentioned in sub-paragraphs (b), (c)(ii), (d) and (e) of paragraph (2) are not prescribed for any entry in a register referred to in that paragraph in respect of a licence granted in relation to a section 257 HMO.
 
 ## 12. Registers of temporary exemption notices
 
@@ -278,7 +278,7 @@ those persons are only to be regarded as forming a single household for the purp
 - (d) details of any previous temporary exemption notices that have been served in relation to the same HMO or house for a period immediately preceding the current temporary exemption notice;
 - (e) a statement of the particular steps that the person referred to in sub-paragraph (a) intends to take with a view to securing that the HMO or house is no longer required to be licensed;
 - (f) the date on which the local housing authority served the temporary exemption notice and the date on which it ceases to be in force;
-- (g) summary information of any matter concerning the HMO or house that has been referred to the First-tier Tribunal[^key-c1b72b1a658ecdc27529d8ded24ff969] or to the Upper Tribunal[^key-8c24a78f3c8827950870dd8923039c71]; and
+- (g) summary information of any matter concerning the HMO or house that has been referred to the First-tier Tribunal[^c-c1b72b1a658ecdc27529d8ded24ff969] or to the Upper Tribunal[^c-8c24a78f3c8827950870dd8923039c71]; and
 - (h) summary information of any decision of the tribunals referred to in sub-paragraph (g) that relate to the HMO or house together with the reference number allocated to the case by the tribunal.
 
 ## 13. Registers of management orders
@@ -290,10 +290,10 @@ those persons are only to be regarded as forming a single household for the purp
 - (c) the date on which the order comes into force;
 - (d) a summary of the reasons for making the order;
 - (e) a summary of the terms of the order and the type of order made ;
-- (f) summary information of any application concerning the HMO or house that has been made to the First-tier Tribunal[^key-d3db21ef8c800d5c23cd65d99e745a1c] or to the Upper Tribunal[^key-e47b660cd1b7fe4951e622538f7f59c2]; and
+- (f) summary information of any application concerning the HMO or house that has been made to the First-tier Tribunal[^c-d3db21ef8c800d5c23cd65d99e745a1c] or to the Upper Tribunal[^c-e47b660cd1b7fe4951e622538f7f59c2]; and
 - (g) summary information of any decision of the tribunals referred to in sub-paragraph (f) that relate to the HMO or house, together with the reference number allocated to the case by the tribunal.
 
-(2) Subject to paragraph (4), the[^key-650010ae366dc07bf5450ba8ee48afd3] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of a management order made under section 102(2), (3), (4) or (7) or 113(1) or (6) of the Act which is in force—
+(2) Subject to paragraph (4), the[^c-650010ae366dc07bf5450ba8ee48afd3] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of a management order made under section 102(2), (3), (4) or (7) or 113(1) or (6) of the Act which is in force—
 
 - (a) the number of storeys comprising the HMO;
 - (b) the number of rooms in the HMO providing—
@@ -313,10 +313,10 @@ those persons are only to be regarded as forming a single household for the purp
 - (c) the date on which the order comes into force;
 - (d) a summary of the reasons for making the order;
 - (e) a summary of the terms of the order;
-- (f) summary information of any application concerning the dwelling that has been made to the First-tier Tribunal or to the Upper Tribunal[^key-35c4dfe13a4ffaa098599316d18f3542]; and
+- (f) summary information of any application concerning the dwelling that has been made to the First-tier Tribunal or to the Upper Tribunal[^c-35c4dfe13a4ffaa098599316d18f3542]; and
 - (g) summary information of any decision of the tribunals referred to in sub-paragraph (f) that relate to the dwelling, together with the reference number allocated to the case by the tribunal.
 
-(4)[^key-7555052c71fa4e9d731ce9b3718b7843] The particulars mentioned in sub-paragraphs (b) and (c)(ii) to (v) of paragraph (2) are not prescribed for any entry referred to in that paragraph in respect of a management order made in relation to a section 257 HMO.
+(4)[^c-7555052c71fa4e9d731ce9b3718b7843] The particulars mentioned in sub-paragraphs (b) and (c)(ii) to (v) of paragraph (2) are not prescribed for any entry referred to in that paragraph in respect of a management order made in relation to a section 257 HMO.
 
 Signed by authority of the First Secretary of State
 
@@ -341,7 +341,7 @@ The enactments referred to in regulation 13(1) are—
 - (n) The Detention Centre Rules 2001 [^c15424871];
 - (o) The Criminal Justice and Court Services Act 2000 (Approved Premises) Regulations 2001 [^c15424881];
 - (p) The Care Homes Regulations 2001 [^c15424891];
-- (q) The Children’s Homes (England) Regulations 2015[^key-573354a3c7639594e9440983a2f78119]; and
+- (q) The Children’s Homes (England) Regulations 2015[^c-573354a3c7639594e9440983a2f78119]; and
 - (r) The Residential Family Centres Regulations 2002 [^c15424911];
 
 ## SCHEDULE 2 — Content of applications under sections 63 and 87 of the Act
@@ -387,7 +387,7 @@ Regulation 7(1), (2) and (3)
   - (vi) a purpose built block of flats; or
   - (vii) other;
 - (e) details of other HMOs or houses that are licensed under Part 2 or 3 of the Act in respect of which the proposed licence holder is the licence holder, whether in the area of the local housing authority to which the application is made or in the area of any other local housing authority;
-- (f) the following information about the HMO or house for which the application is being made , except in respect of an application in respect of a section 257[^key-5eb7baa4257bb5948e2323ecc7df4aa6] HMO—
+- (f) the following information about the HMO or house for which the application is being made , except in respect of an application in respect of a section 257[^c-5eb7baa4257bb5948e2323ecc7df4aa6] HMO—
   - (i) the number of storeys comprising the HMO or house and the levels on which those storeys are situated;
   - (ii) the number of separate letting units;
   - (iii) the number of habitable rooms (excluding kitchens);
@@ -398,10 +398,10 @@ Regulation 7(1), (2) and (3)
   - (viii) the number of households occupying the HMO or house;
   - (ix) the number of people occupying the HMO or house;
   - (x) details of fire precautions equipment, including the number and location of smoke alarms;
-  - (xi) details of fire escape routes and other fire safety information[^key-9e7632ecd2dff3d90cfe8c0aeef2594a] provided to occupiers;
+  - (xi) details of fire escape routes and other fire safety information[^c-9e7632ecd2dff3d90cfe8c0aeef2594a] provided to occupiers;
   - (xii) a declaration that the furniture in the HMO or house that is provided under the terms of any tenancy or licence meets any safety requirements contained in any enactment; and
   - (xiii) a declaration that any gas appliances in the HMO or house meet any safety requirements contained in any enactment.
-- (g)[^key-c0dc117171f7eace0b4e60fa88d6c8d0] where the application is being made in respect of a section 257 HMO, the following information—
+- (g)[^c-c0dc117171f7eace0b4e60fa88d6c8d0] where the application is being made in respect of a section 257 HMO, the following information—
   - (i) the number of storeys comprising the HMO and the levels on which those storeys are situated;
   - (ii) the number of self-contained-flats and, of those, the number —
     - (aa) that the applicant believes to be subject to a lease of over 21 years; and
@@ -436,7 +436,7 @@ Regulation 7(1), (2) and (3)
 
 *Extent: E+W+S+N.I.*
 
-**5.**[^key-703ad22539c9851c50be01e48e6d7266] The form of declaration mentioned in regulation 7(3)(b) is as follows—
+**5.**[^c-703ad22539c9851c50be01e48e6d7266] The form of declaration mentioned in regulation 7(3)(b) is as follows—
 
 I/We declare that the house in respect of which a licence is sought under Part2/Part 3 of the Housing Act 2004 is subject to a licence under that Part at the time this application is made. I/We further declare that to the best of my/our knowledge either: (a) none of the information described in paragraph 2(c) to (g) of that Act and previously submitted to the authority has materially changed since that licence was granted; or (b) the only material changes to that information are described as follows: \[include description of all material changes\].
 
@@ -450,7 +450,7 @@ Regulation 8
 
 ### Washing facilities
 
-**2.** (1)[^key-27d4c1a78358cccd3b16595e562c84c9] Where all or some of the units of living accommodation in an HMO do not contain bathing and toilet facilities for the exclusive use of each individual household—
+**2.** (1)[^c-27d4c1a78358cccd3b16595e562c84c9] Where all or some of the units of living accommodation in an HMO do not contain bathing and toilet facilities for the exclusive use of each individual household—
 
 - (a) there must be an adequate number of bathrooms, toilets and wash-hand basins suitable for personal washing) for the number of persons sharing those facilities; and
 - (b) where reasonably practicable there must be a wash hand basin with appropriate splash back in each unit other than a unit in which a sink has been provided as mentioned in paragraph 4(1),
@@ -494,7 +494,7 @@ having regard to the age and character of the HMO, the size and layout of each f
 - (e) a cupboard for the storage of kitchen utensils and crockery; and
 - (f) a refrigerator.
 
-(1A)[^key-6092a2c80e5ee8f1f57d74bc02b08202] The standards referred to in paragraphs (a) and (f) of sub-paragraph (1) shall not apply in relation to a unit of accommodation where—
+(1A)[^c-6092a2c80e5ee8f1f57d74bc02b08202] The standards referred to in paragraphs (a) and (f) of sub-paragraph (1) shall not apply in relation to a unit of accommodation where—
 
 - (a) the landlord is not contractually bound to provide such appliances or equipment;
 - (b) the occupier of the unit of accommodation is entitled to remove such appliances or equipment from the HMO; or
@@ -533,17 +533,17 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^c15424671]: Marginal citation: 2004 c 34. The powers conferred by section 55(3) of the Act are exercisable, as respects England, by the Secretary of State and, as respects Wales, by the National Assembly for Wales. See the definition of the appropriate national authority in section 261(1).
 
-[^key-7f42c309781a638ef48e8058ba188d0d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/373) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(t)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/t)
+[^c-7f42c309781a638ef48e8058ba188d0d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/373) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(t)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/t)
 
 [^c15424681]: Marginal citation: For the meaning of “HMO” see sections 77 and 254 to 259 of the Act.
 
-[^key-a79599cd94913bb068a006c571bc126c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/373/regulation/1/2) omitted (1.10.2007) by virtue of [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-a79599cd94913bb068a006c571bc126c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/373/regulation/1/2) omitted (1.10.2007) by virtue of [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
 [^c15424691]: Marginal citation: For the meaning of “house” see sections 79(2) and 99 of the Act.
 
 [^c15424701]: Marginal citation: See section 79(2) of the Act.
 
-[^key-8c683189a3d6ed0520e9dc9e0030ac65]: Textual amendment: Words in reg. 2 inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-8c683189a3d6ed0520e9dc9e0030ac65]: Textual amendment: Words in reg. 2 inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
 [^c15424711]: Marginal citation: SI 2004/2071.
 
@@ -557,47 +557,47 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^c15424761]: Marginal citation: The National Asylum Support Service is a department within the Home Office.
 
-[^key-d38c9d88bf2fc6e8ac25f8037203296b]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/a)
+[^c-d38c9d88bf2fc6e8ac25f8037203296b]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/a)
 
-[^key-a87bf858e5fffd9aabd71cb55b59fc0c]: Textual amendment: [Reg. 5(2)(ab)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/ab) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/b)
+[^c-a87bf858e5fffd9aabd71cb55b59fc0c]: Textual amendment: [Reg. 5(2)(ab)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/ab) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/b)
 
-[^key-6e124db072d7010cc36fbfdf9296b431]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/c) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/c)
+[^c-6e124db072d7010cc36fbfdf9296b431]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/c) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/c)
 
 [^c15424781]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-d64c17ad47584afb24d5ef8392046677]: Textual amendment: Reg. 7(2) substituted (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+[^c-d64c17ad47584afb24d5ef8392046677]: Textual amendment: Reg. 7(2) substituted (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
 
-[^key-c015cbed1a792a0fbf074e9ff776f904]: Textual amendment: Reg. 7(3) substituted (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+[^c-c015cbed1a792a0fbf074e9ff776f904]: Textual amendment: Reg. 7(3) substituted (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
 
 [^c15424791]: Marginal citation: For licence conditions see sections 67 and 90 of the Act. and, in particular, sections 67(5) and 90(6).
 
-[^key-ef4f12e76189145cff4f8753b680160b]: Textual amendment: Reg. 7(11) added (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+[^c-ef4f12e76189145cff4f8753b680160b]: Textual amendment: Reg. 7(11) added (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
 
-[^key-70f1e1d771931941692c1ebb9b183d9e]: Textual amendment: Reg. 8 substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-70f1e1d771931941692c1ebb9b183d9e]: Textual amendment: Reg. 8 substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
-[^key-7ff46c5c025ca127cda28503731a5e43]: Textual amendment: Words in [reg. 11(1)(g)](https://www.legislation.gov.uk/uksi/2006/373/regulation/11/1/g) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7ff46c5c025ca127cda28503731a5e43]: Textual amendment: Words in [reg. 11(1)(g)](https://www.legislation.gov.uk/uksi/2006/373/regulation/11/1/g) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-c9e8d2b5eff4589ca4d89cc13ec4a595]: Textual amendment: Words in reg. 11(1)(g) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 109](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/109) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-c9e8d2b5eff4589ca4d89cc13ec4a595]: Textual amendment: Words in reg. 11(1)(g) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 109](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/109) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-7cc25d5e2ecbdd64bf1b6a6824acaba9]: Textual amendment: Words in reg. 11(2) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-7cc25d5e2ecbdd64bf1b6a6824acaba9]: Textual amendment: Words in reg. 11(2) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
-[^key-e8c3c7ce6d148124d3ca246706db407e]: Textual amendment: Reg. 11(3) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-e8c3c7ce6d148124d3ca246706db407e]: Textual amendment: Reg. 11(3) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
-[^key-c1b72b1a658ecdc27529d8ded24ff969]: Textual amendment: Words in [reg. 12(1)(g)](https://www.legislation.gov.uk/uksi/2006/373/regulation/12/1/g) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c1b72b1a658ecdc27529d8ded24ff969]: Textual amendment: Words in [reg. 12(1)(g)](https://www.legislation.gov.uk/uksi/2006/373/regulation/12/1/g) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-8c24a78f3c8827950870dd8923039c71]: Textual amendment: Words in reg. 12(1)(g) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/110) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-8c24a78f3c8827950870dd8923039c71]: Textual amendment: Words in reg. 12(1)(g) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/110) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-d3db21ef8c800d5c23cd65d99e745a1c]: Textual amendment: Words in reg. 13(1)(f) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-d3db21ef8c800d5c23cd65d99e745a1c]: Textual amendment: Words in reg. 13(1)(f) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e47b660cd1b7fe4951e622538f7f59c2]: Textual amendment: Words in reg. 13(1)(f) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 111](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/111) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-e47b660cd1b7fe4951e622538f7f59c2]: Textual amendment: Words in reg. 13(1)(f) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 111](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/111) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-650010ae366dc07bf5450ba8ee48afd3]: Textual amendment: Words in reg. 13(2) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(6)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-650010ae366dc07bf5450ba8ee48afd3]: Textual amendment: Words in reg. 13(2) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(6)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
 [^c15424801]: Marginal citation: For the definition of dwelling see section 132(4)(a) and (b) of the Act.
 
-[^key-35c4dfe13a4ffaa098599316d18f3542]: Textual amendment: Words in reg. 13(3)(f) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/33) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-35c4dfe13a4ffaa098599316d18f3542]: Textual amendment: Words in reg. 13(3)(f) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/33) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-7555052c71fa4e9d731ce9b3718b7843]: Textual amendment: Reg. 13(4) added (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(6)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-7555052c71fa4e9d731ce9b3718b7843]: Textual amendment: Reg. 13(4) added (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(6)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
 [^c15424811]: Marginal citation: 1989 c 41.
 
@@ -617,22 +617,22 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^c15424891]: Marginal citation: SI 2001/3965, as amended by SI 2002/865, SI 2003/534, SI 2003/1590, SI 2003/1703, SI 2003/1845, SI 2004/664, SI 2004/696, 2004/1770, 2004/2071 and 2004/3168.
 
-[^key-573354a3c7639594e9440983a2f78119]: Textual amendment: Words in Sch. 1 substituted (1.4.2015) by [The Children s Homes (England) Regulations 2015 (S.I. 2015/541)](https://www.legislation.gov.uk/uksi/2015/541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/541/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2015/541/regulation/54) (with [reg. 52](https://www.legislation.gov.uk/uksi/2015/541/regulation/52))
+[^c-573354a3c7639594e9440983a2f78119]: Textual amendment: Words in Sch. 1 substituted (1.4.2015) by [The Children s Homes (England) Regulations 2015 (S.I. 2015/541)](https://www.legislation.gov.uk/uksi/2015/541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/541/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2015/541/regulation/54) (with [reg. 52](https://www.legislation.gov.uk/uksi/2015/541/regulation/52))
 
 [^c15424911]: Marginal citation: SI 2002/3213, as amended by SI2004/664, SI 2004/865 and SI 2004/3168.
 
-[^key-5eb7baa4257bb5948e2323ecc7df4aa6]: Textual amendment: Words in Sch. 2 para. 2(1)(f) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-5eb7baa4257bb5948e2323ecc7df4aa6]: Textual amendment: Words in Sch. 2 para. 2(1)(f) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
-[^key-9e7632ecd2dff3d90cfe8c0aeef2594a]: Textual amendment: Word in Sch. 2 para. 2(1)(f)(xi) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-9e7632ecd2dff3d90cfe8c0aeef2594a]: Textual amendment: Word in Sch. 2 para. 2(1)(f)(xi) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
-[^key-c0dc117171f7eace0b4e60fa88d6c8d0]: Textual amendment: Sch. 2 para. 2(1)(g) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-c0dc117171f7eace0b4e60fa88d6c8d0]: Textual amendment: Sch. 2 para. 2(1)(g) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
 [^c15424921]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
 [^c15424931]: Marginal citation: 1985 (c. 68).
 
-[^key-703ad22539c9851c50be01e48e6d7266]: Textual amendment: Sch. 2 para. 5 added (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+[^c-703ad22539c9851c50be01e48e6d7266]: Textual amendment: Sch. 2 para. 5 added (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
 
-[^key-27d4c1a78358cccd3b16595e562c84c9]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2006/373/schedule/3/paragraph/2/1) substituted for Sch. 3 para. 2(1)(2) (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(8)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/8/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-27d4c1a78358cccd3b16595e562c84c9]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2006/373/schedule/3/paragraph/2/1) substituted for Sch. 3 para. 2(1)(2) (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(8)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/8/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
 
-[^key-6092a2c80e5ee8f1f57d74bc02b08202]: Textual amendment: [Sch. 3 para. 4(1A)](https://www.legislation.gov.uk/uksi/2006/373/schedule/3/paragraph/4/1A) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(8)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/8/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+[^c-6092a2c80e5ee8f1f57d74bc02b08202]: Textual amendment: [Sch. 3 para. 4(1A)](https://www.legislation.gov.uk/uksi/2006/373/schedule/3/paragraph/4/1A) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(8)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/8/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))

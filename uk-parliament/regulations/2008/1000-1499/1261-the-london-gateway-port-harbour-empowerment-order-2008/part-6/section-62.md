@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. For the protection of the Trinity House Lighthouse Service[^key-77d4626773cec434063b5637cfffcfe1]
+## 62. For the protection of the Trinity House Lighthouse Service[^c-77d4626773cec434063b5637cfffcfe1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 shall have effect.
 
 ## Annotations
 
-[^key-77d4626773cec434063b5637cfffcfe1]: Commencement: Art. 62 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-77d4626773cec434063b5637cfffcfe1]: Commencement: Art. 62 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Minor and consequential amendments[^c1230029][^key-3809d2860bbf5c1652ac9c4d5509dad7]
+## 79. Minor and consequential amendments[^c1230029][^c-3809d2860bbf5c1652ac9c4d5509dad7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Schedule 3 to this Act, which contains minor amendments and amendments consequen
 
 [^c1230029]: Commencement: S. 79 in force for specified purposes at 1.10.2001 by [S.S.I. 2001/304](https://www.legislation.gov.uk/ssi/2001/304), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2001/304/article/2/1/b); s. 79 in force for specified purposes at 1.4.2002 by [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(f)](https://www.legislation.gov.uk/ssi/2002/162/article/2/f) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-3809d2860bbf5c1652ac9c4d5509dad7]: Commencement: S. 79 in force at 1.4.2004 for specified purposes by [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(d)](https://www.legislation.gov.uk/ssi/2004/100/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
+[^c-3809d2860bbf5c1652ac9c4d5509dad7]: Commencement: S. 79 in force at 1.4.2004 for specified purposes by [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(d)](https://www.legislation.gov.uk/ssi/2004/100/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)

@@ -44,18 +44,18 @@ In accordance with sections 211(11), 212(10) and 331(3) of the Energy Act 2023, 
 
 ## PART 1 INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-bf524766aac10651a82af1a2b7acae68]
+### 1. Citation, commencement and extent[^c-bf524766aac10651a82af1a2b7acae68]
 
 These Regulations may be cited as the Energy-Intensive Industry Electricity Support Payments and Levy Regulations 2024.
 
-**2.**[^key-f462779b40e6460383f5ef8753d162ce] These Regulations come into force on whichever is the later of—
+**2.**[^c-f462779b40e6460383f5ef8753d162ce] These Regulations come into force on whichever is the later of—
 
 - (a) the day after these Regulations are made;
 - (b) 1st April 2024.
 
-**3.**[^key-088c3356410343e87984020f59141318] These Regulations extend to England and Wales and Scotland.
+**3.**[^c-088c3356410343e87984020f59141318] These Regulations extend to England and Wales and Scotland.
 
-### 4. Interpretation[^key-c98bfdd6b9a3097d3df94b9c93a3f0e2]
+### 4. Interpretation[^c-c98bfdd6b9a3097d3df94b9c93a3f0e2]
 
 In these Regulations—
 
@@ -83,11 +83,11 @@ In these Regulations—
   - (b) Christmas Day or Good Friday;
   - (c) a day which is a bank holiday in England and Wales or Scotland under the Banking and Financial Dealings Act 1971[^f00005].
 
-### 5. Designation of energy-intensive activity[^key-b62a1da795377257490eb79bc286f928]
+### 5. Designation of energy-intensive activity[^c-b62a1da795377257490eb79bc286f928]
 
 The activities described as “specified activities” in the Schedule to the Excluded Electricity Regulations are designated as energy-intensive activities for the purposes of these Regulations.
 
-### 6. Appointment of administrators[^key-b9275e55b5add1745ef8b9b72eac4b2b]
+### 6. Appointment of administrators[^c-b9275e55b5add1745ef8b9b72eac4b2b]
 
 Subject to regulation 31—
 
@@ -96,9 +96,9 @@ Subject to regulation 31—
 
 ## PART 2 SUPPORT FOR ENERGY-INTENSIVE ACTIVITIES
 
-### 7. Applications for an electricity support payment[^key-de88a01d4b6d317df47d1dbb09200027]
+### 7. Applications for an electricity support payment[^c-de88a01d4b6d317df47d1dbb09200027]
 
-(1) Before the end of a period of two months[^key-00934133f048e8d6a628c36e1a9bf1eb] starting with the last day of each quarter, any person who held an EII certificate for the whole of any month in that quarter may apply to the EII support payments administrator for an electricity support payment in respect of that month.
+(1) Before the end of a period of two months[^c-00934133f048e8d6a628c36e1a9bf1eb] starting with the last day of each quarter, any person who held an EII certificate for the whole of any month in that quarter may apply to the EII support payments administrator for an electricity support payment in respect of that month.
 
 (2) An application under paragraph (1) must include—
 
@@ -135,13 +135,13 @@ Subject to regulation 31—
 - (b) the inaccuracy is capable of affecting any sum determined under regulation 9, 10 or 12;
 - (c) the inaccuracy has not already been communicated to the EII support payments administrator as required by paragraph (3)(d).
 
-### 8. Publication of estimated levy fund size[^key-e7e71b1c16047da6fc17986cc3265e6d]
+### 8. Publication of estimated levy fund size[^c-e7e71b1c16047da6fc17986cc3265e6d]
 
 (1) On the first working day of the sixth month after any claim month, the EII support payments administrator must publish an estimate of the total amount applied for in relation to that month, in accordance with paragraph (2).
 
-(2) The estimate to be made by the EII support payments administrator under paragraph (1) shall be 90%[^key-c191bc39016effb55749c9c812e880ae] of the total of all of the sums submitted in accordance with regulation 7(3)(a) (including as it applies by reference to regulation 7(5)) in applications made in respect of that claim month.
+(2) The estimate to be made by the EII support payments administrator under paragraph (1) shall be 90%[^c-c191bc39016effb55749c9c812e880ae] of the total of all of the sums submitted in accordance with regulation 7(3)(a) (including as it applies by reference to regulation 7(5)) in applications made in respect of that claim month.
 
-### 9. Determination of applications[^key-06e381c7eeefea453c64507a7d6af4f9]
+### 9. Determination of applications[^c-06e381c7eeefea453c64507a7d6af4f9]
 
 (1) This regulation applies in relation to information provided in accordance with regulation 7(3)(a) to (c) in respect of any particular claim month.
 
@@ -167,7 +167,7 @@ Subject to regulation 31—
 
 (7) If the EII support payments administrator does not consider that it has sufficient information to properly assess the information at the point it makes a determination under paragraph (5), it must make a determination of zero.
 
-### 10. Corrections to applications[^key-fc3e9bc9de45a40395b2a4389c543286]
+### 10. Corrections to applications[^c-fc3e9bc9de45a40395b2a4389c543286]
 
 (1) This regulation applies in relation to information provided in accordance with regulation 7(3)(d).
 
@@ -193,7 +193,7 @@ Subject to regulation 31—
 
 (7) If, having made reasonable efforts to secure sufficient information, the EII support payments administrator still does not consider that it has sufficient information to properly make the determination under paragraph (5), it must make a determination that seems reasonable to it given the information it has available at that time.
 
-### 11. Dispute Notices[^key-3b9282a8b067faa68c368596d8e61e32]
+### 11. Dispute Notices[^c-3b9282a8b067faa68c368596d8e61e32]
 
 (1) An applicant may dispute any determination made by the EII support payments administrator under regulation 9 or 10 by giving a notice in writing to the EII support payments administrator setting out—
 
@@ -209,7 +209,7 @@ Subject to regulation 31—
 
 (4) Where an applicant has given a notice under paragraph (1) in respect of a determination, that determination still has effect notwithstanding the giving of that notice.
 
-### 12. Dispute determinations[^key-9dac2df8c7e5edaba158d44190ab0741]
+### 12. Dispute determinations[^c-9dac2df8c7e5edaba158d44190ab0741]
 
 (1) Where the EII support payments administrator receives a notice under regulation 11 it must, before the 28th day after the day on which it receives that notice, either—
 
@@ -236,11 +236,11 @@ Subject to regulation 31—
 
 (6) Whether the EII support payments administrator rejects or accepts such notice (in full or in part), it must, as soon as reasonably practicable, issue a notice to the person who gave that notice, setting out its decision and the reasons for it.
 
-### 13. Calculating individual support payment entitlements[^key-e2b1583787d62425d95385917680010a]
+### 13. Calculating individual support payment entitlements[^c-e2b1583787d62425d95385917680010a]
 
 (1) On the calculation date for each levy month the EII support payments administrator must calculate the entitlement of each applicant, in respect of the associated claim month, in accordance with paragraph (2).
 
-(2) An applicant’s EII support payment entitlement for the claim month referred to in paragraph (1) is 90%[^key-a248615d4c511038e13e5af76db10e75] of the sum of the following—
+(2) An applicant’s EII support payment entitlement for the claim month referred to in paragraph (1) is 90%[^c-a248615d4c511038e13e5af76db10e75] of the sum of the following—
 
 - (a) the EII support payments administrator’s determination, in accordance with regulation 9(5) or (7) (determination of application), of the applicant’s entitlement in respect of that claim month;
 - (b) any addition or subtraction, as the case may be, resulting from a correction, determined in accordance with regulation 10(5) or (7) (corrections to applications), which has not already been accounted for;
@@ -252,7 +252,7 @@ Subject to regulation 31—
 - (b) the month in respect of which the calculation under paragraph (2)(a) was made;
 - (c) details of any addition or subtraction made under paragraphs (2)(b) or (c).
 
-### 14. EII support payments administrator costs[^key-7111117f95b11f83d5a6571e349d8f1e]
+### 14. EII support payments administrator costs[^c-7111117f95b11f83d5a6571e349d8f1e]
 
 (1) On each calculation date the EII support payments administrator must calculate its costs in carrying out its functions under these Regulations for the previous month.
 
@@ -265,7 +265,7 @@ Subject to regulation 31—
 - (c) costs, expenses and any other amounts for which the EII support payments administrator may be legally liable (including to third parties);
 - (d) costs reasonably incurred in connection with action taken under regulation 31.
 
-### 15. Reserve funds[^key-6ec08d2d511ef971962af4a89a2ff674]
+### 15. Reserve funds[^c-6ec08d2d511ef971962af4a89a2ff674]
 
 (1) The EII support payments administrator must, on the first calculation date and from time to time thereafter, determine an amount that it is to hold as a reserve fund, to be calculated in accordance with paragraph (2).
 
@@ -277,7 +277,7 @@ Subject to regulation 31—
 
 (5) Any funds collected under these Regulations that remain undisbursed at the end of any month shall be added to the reserve fund.
 
-### 16. EII support payment requirement[^key-91b377ab63d42a51dd93aa67531570d0]
+### 16. EII support payment requirement[^c-91b377ab63d42a51dd93aa67531570d0]
 
 On each calculation date, the EII support payments administrator must inform the EII levy administrator of the following—
 
@@ -288,7 +288,7 @@ On each calculation date, the EII support payments administrator must inform the
 
 ## PART 3 EII LEVY
 
-### 17. EII levy administrator costs[^key-33415d9251582d15226f3ab5ba646b44]
+### 17. EII levy administrator costs[^c-33415d9251582d15226f3ab5ba646b44]
 
 (1) Not less than 10 working days before the start of each levy month, the EII levy administrator must calculate its costs in carrying out its functions under these Regulations for the previous month.
 
@@ -301,7 +301,7 @@ On each calculation date, the EII support payments administrator must inform the
 - (c) costs, expenses or any other amounts for which the EII levy administrator may be legally liable (including to third parties);
 - (d) costs reasonably incurred in connection with action taken under regulation 31.
 
-### 18. EII levy notices[^key-e1429f9a067a9dc0c2a88216566e686f]
+### 18. EII levy notices[^c-e1429f9a067a9dc0c2a88216566e686f]
 
 (1) Not more than 10 working days after the start of each levy month, the EII levy administrator must—
 
@@ -338,11 +338,11 @@ On each calculation date, the EII support payments administrator must inform the
 - (a) the liability of the electricity supplier in respect of which the calculation took place shall be zero for that levy month;
 - (b) that number shall be considered as part of a future calculation of levy credit.
 
-### 19. Levy payment obligation[^key-e4791c0f125fb0050588946b512b9567]
+### 19. Levy payment obligation[^c-e4791c0f125fb0050588946b512b9567]
 
 Each electricity supplier must pay to the EII levy administrator the amount set out in a notice under regulation 18(1)(b), before the end of 5 working days beginning with the day after the date on which the notice was issued.
 
-### 20. Corrections to levy information[^key-b8a99958b40db70c9a69a79715b8b637]
+### 20. Corrections to levy information[^c-b8a99958b40db70c9a69a79715b8b637]
 
 (1) This regulation applies if at any time—
 
@@ -351,7 +351,7 @@ Each electricity supplier must pay to the EII levy administrator the amount set 
 
 (2) Where this regulation applies, the EII levy administrator must, as soon as reasonably practicable, calculate the change (whether positive or negative) in the EII levy liability of each electricity supplier affected by the inaccuracy.
 
-### 21. Dispute notices[^key-8483a80f9ff4e29b53088d6d6fd7946c]
+### 21. Dispute notices[^c-8483a80f9ff4e29b53088d6d6fd7946c]
 
 (1) An electricity supplier may dispute any determination made by the EII levy administrator under regulation 18 (EII levy notices), 20 (corrections to levy information) or 23 (mutualisation charge) by giving a notice to the EII levy administrator setting out—
 
@@ -367,7 +367,7 @@ Each electricity supplier must pay to the EII levy administrator the amount set 
 
 (4) Where an electricity supplier has given a notice under paragraph (1) in respect of a determination, that determination has effect notwithstanding the giving of that notice.
 
-### 22. Dispute determinations[^key-6f6abdefbcaf50efb4ee2383b8c2eae6]
+### 22. Dispute determinations[^c-6f6abdefbcaf50efb4ee2383b8c2eae6]
 
 (1) Where the EII levy administrator receives a notice under regulation 21 it must, before the 28th day after the day on which it receives that notice either—
 
@@ -378,7 +378,7 @@ Each electricity supplier must pay to the EII levy administrator the amount set 
 
 (3) Whether the EII levy administrator rejects or accepts a notice (in full or in part), it must, as soon as reasonably practicable, issue a notice to the person who gave that notice, setting out its decision and the reasons for it.
 
-### 23. Mutualisation charge[^key-56f29988228c509b2fb1756bad400e85]
+### 23. Mutualisation charge[^c-56f29988228c509b2fb1756bad400e85]
 
 (1) Paragraph (2) applies where—
 
@@ -403,7 +403,7 @@ where—
 
 ## PART 4 ELECTRICITY SUPPORT PAYMENTS
 
-### 24. Transfer of the levy funds[^key-825850750baf5316b006577db4936302]
+### 24. Transfer of the levy funds[^c-825850750baf5316b006577db4936302]
 
 (1) Before the end of 5 working days after the end of a levy month, the EII levy administrator must—
 
@@ -414,7 +414,7 @@ where—
 
 (3) The EII levy administrator must transfer to the EII support payment administrator all funds received under regulation 23 (mutualisation charge) as soon as reasonably practicable after receipt.
 
-### 25. Making electricity support payments[^key-258eb9f56d9bdd8623a3809ae4b3c756]
+### 25. Making electricity support payments[^c-258eb9f56d9bdd8623a3809ae4b3c756]
 
 (1) Before the end of 10 working days after the end of a levy month, the EII support payments administrator must, out of the funds provided in accordance with regulation 24 or, if necessary, those held in accordance with regulation 15 (reserve fund)—
 
@@ -425,7 +425,7 @@ where—
 
 ## PART 5 MISCELLANEOUS
 
-### 26. Provision of information on network charges[^key-f3a120c85e23aa369c88917050c716b1]
+### 26. Provision of information on network charges[^c-f3a120c85e23aa369c88917050c716b1]
 
 (1) The holder of an EII certificate may, by notice in writing, request its electricity supplier to provide it with any information it reasonably requires in order to—
 
@@ -443,7 +443,7 @@ where—
 - (a) is not required to provide such information;
 - (b) is required to provide an explanation as to why it is not able to provide the information not provided.
 
-### 27. Provision of information to the Secretary of State[^key-3da47f3eb88cfa22242da085e2bca477]
+### 27. Provision of information to the Secretary of State[^c-3da47f3eb88cfa22242da085e2bca477]
 
 (1) The Secretary of State may, for any purpose relating to these Regulations, including verifying compliance with entitlements and obligations, issue a notice in writing to—
 
@@ -462,7 +462,7 @@ requiring them to provide the Secretary of State with such information as is spe
 
 (3) Any person on whom a requirement is made under this regulation must comply with the requirement.
 
-### 28. Provision of advice to the Secretary of State[^key-6ca47d464d6f8fc7367271e3ce0af833]
+### 28. Provision of advice to the Secretary of State[^c-6ca47d464d6f8fc7367271e3ce0af833]
 
 (1) The Secretary of State may request advice relating to any matter contained in these Regulations (including the functioning of the Regulations as a whole), from any of the following persons—
 
@@ -471,7 +471,7 @@ requiring them to provide the Secretary of State with such information as is spe
 
 (2) A person who receives a request under paragraph (1) must comply with the request within such period as the Secretary of State may reasonably require.
 
-### 29. Protection of information[^key-64edd6881bc094dc365d6f0b78ef8326]
+### 29. Protection of information[^c-64edd6881bc094dc365d6f0b78ef8326]
 
 (1) A person who, by virtue of these Regulations, has obtained information which relates to the affairs of any individual or to any particular business must not use or disclose that information except as provided in paragraph (2).
 
@@ -482,7 +482,7 @@ requiring them to provide the Secretary of State with such information as is spe
 - (c) which is already publicly available (other than by reason of a breach of this regulation);
 - (d) in accordance with an order of a court.
 
-### 30. Enforcement[^key-8ad985be035c0958ca3624d1d7c58189]
+### 30. Enforcement[^c-8ad985be035c0958ca3624d1d7c58189]
 
 (1) Where an electricity supplier does not make all or some of a payment as required by regulation 19 (levy payment obligation) or 23 (mutualisation), that supplier must pay the EII levy administrator simple interest on any unpaid amount at the rate of 5 per cent per annum over the relevant Bank of England base rate, from the day after the day on which that payment should have been made.
 
@@ -502,7 +502,7 @@ requiring them to provide the Secretary of State with such information as is spe
 
 (6) Where an electricity supplier does not make (all or some of) a payment as required by regulation 19 or 23, the EII levy administrator may recover any outstanding sum as a civil debt due to it, including any interest due under paragraph (1).
 
-### 31. Change of administrator[^key-95d530b5b25e18ea8d2d37d7fdf564ff]
+### 31. Change of administrator[^c-95d530b5b25e18ea8d2d37d7fdf564ff]
 
 (1) Elexon Ltd may signal its intention to withdraw its consent to be the EII support payments administrator and/or the EII levy administrator, by issuing a written notice to that effect to the Secretary of State.
 
@@ -587,13 +587,13 @@ An impact assessment setting out the key impacts of this policy has been complet
 
 [^f00001]: Footnote: [2023 c. 52](https://www.legislation.gov.uk/ukpga/2023/52).
 
-[^key-bf524766aac10651a82af1a2b7acae68]: Commencement: Reg. 1 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-bf524766aac10651a82af1a2b7acae68]: Commencement: Reg. 1 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-f462779b40e6460383f5ef8753d162ce]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-f462779b40e6460383f5ef8753d162ce]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-088c3356410343e87984020f59141318]: Commencement: Reg. 3 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-088c3356410343e87984020f59141318]: Commencement: Reg. 3 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-c98bfdd6b9a3097d3df94b9c93a3f0e2]: Commencement: Reg. 4 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-c98bfdd6b9a3097d3df94b9c93a3f0e2]: Commencement: Reg. 4 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
 [^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by section 89(3) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). There are other amendments which are not relevant. The Code is accessible on the website of Elexon Limited at https://www.elexon.co.uk/bsc-and-codes/ (their postal address is 4th Floor, 350 Euston Road London NW1 3AW; their email address is bscservicedesk@cgi.com).
 
@@ -603,64 +603,64 @@ An impact assessment setting out the key impacts of this policy has been complet
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b62a1da795377257490eb79bc286f928]: Commencement: Reg. 5 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-b62a1da795377257490eb79bc286f928]: Commencement: Reg. 5 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-b9275e55b5add1745ef8b9b72eac4b2b]: Commencement: Reg. 6 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-b9275e55b5add1745ef8b9b72eac4b2b]: Commencement: Reg. 6 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-de88a01d4b6d317df47d1dbb09200027]: Commencement: Reg. 7 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-de88a01d4b6d317df47d1dbb09200027]: Commencement: Reg. 7 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-00934133f048e8d6a628c36e1a9bf1eb]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2024/409/regulation/7/1) substituted (1.4.2026) by [The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026 (S.I. 2026/243)](https://www.legislation.gov.uk/uksi/2026/243), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/243/regulation/2/2)
+[^c-00934133f048e8d6a628c36e1a9bf1eb]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2024/409/regulation/7/1) substituted (1.4.2026) by [The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026 (S.I. 2026/243)](https://www.legislation.gov.uk/uksi/2026/243), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/243/regulation/2/2)
 
-[^key-e7e71b1c16047da6fc17986cc3265e6d]: Commencement: Reg. 8 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-e7e71b1c16047da6fc17986cc3265e6d]: Commencement: Reg. 8 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-c191bc39016effb55749c9c812e880ae]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2024/409/regulation/8/2) substituted (1.4.2026) by [The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026 (S.I. 2026/243)](https://www.legislation.gov.uk/uksi/2026/243), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/2/3)
+[^c-c191bc39016effb55749c9c812e880ae]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2024/409/regulation/8/2) substituted (1.4.2026) by [The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026 (S.I. 2026/243)](https://www.legislation.gov.uk/uksi/2026/243), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/2/3)
 
-[^key-06e381c7eeefea453c64507a7d6af4f9]: Commencement: Reg. 9 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-06e381c7eeefea453c64507a7d6af4f9]: Commencement: Reg. 9 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-fc3e9bc9de45a40395b2a4389c543286]: Commencement: Reg. 10 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-fc3e9bc9de45a40395b2a4389c543286]: Commencement: Reg. 10 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-3b9282a8b067faa68c368596d8e61e32]: Commencement: Reg. 11 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-3b9282a8b067faa68c368596d8e61e32]: Commencement: Reg. 11 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-9dac2df8c7e5edaba158d44190ab0741]: Commencement: Reg. 12 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-9dac2df8c7e5edaba158d44190ab0741]: Commencement: Reg. 12 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-e2b1583787d62425d95385917680010a]: Commencement: Reg. 13 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-e2b1583787d62425d95385917680010a]: Commencement: Reg. 13 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-a248615d4c511038e13e5af76db10e75]: Textual amendment: Word in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2024/409/regulation/13/2) substituted (1.4.2026) by [The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026 (S.I. 2026/243)](https://www.legislation.gov.uk/uksi/2026/243), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2026/243/regulation/2/4)
+[^c-a248615d4c511038e13e5af76db10e75]: Textual amendment: Word in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2024/409/regulation/13/2) substituted (1.4.2026) by [The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026 (S.I. 2026/243)](https://www.legislation.gov.uk/uksi/2026/243), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/243/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2026/243/regulation/2/4)
 
-[^key-7111117f95b11f83d5a6571e349d8f1e]: Commencement: Reg. 14 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-7111117f95b11f83d5a6571e349d8f1e]: Commencement: Reg. 14 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-6ec08d2d511ef971962af4a89a2ff674]: Commencement: Reg. 15 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-6ec08d2d511ef971962af4a89a2ff674]: Commencement: Reg. 15 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-91b377ab63d42a51dd93aa67531570d0]: Commencement: Reg. 16 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-91b377ab63d42a51dd93aa67531570d0]: Commencement: Reg. 16 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-33415d9251582d15226f3ab5ba646b44]: Commencement: Reg. 17 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-33415d9251582d15226f3ab5ba646b44]: Commencement: Reg. 17 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-e1429f9a067a9dc0c2a88216566e686f]: Commencement: Reg. 18 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-e1429f9a067a9dc0c2a88216566e686f]: Commencement: Reg. 18 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-e4791c0f125fb0050588946b512b9567]: Commencement: Reg. 19 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-e4791c0f125fb0050588946b512b9567]: Commencement: Reg. 19 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-b8a99958b40db70c9a69a79715b8b637]: Commencement: Reg. 20 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-b8a99958b40db70c9a69a79715b8b637]: Commencement: Reg. 20 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-8483a80f9ff4e29b53088d6d6fd7946c]: Commencement: Reg. 21 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-8483a80f9ff4e29b53088d6d6fd7946c]: Commencement: Reg. 21 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-6f6abdefbcaf50efb4ee2383b8c2eae6]: Commencement: Reg. 22 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-6f6abdefbcaf50efb4ee2383b8c2eae6]: Commencement: Reg. 22 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-56f29988228c509b2fb1756bad400e85]: Commencement: Reg. 23 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-56f29988228c509b2fb1756bad400e85]: Commencement: Reg. 23 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-825850750baf5316b006577db4936302]: Commencement: Reg. 24 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-825850750baf5316b006577db4936302]: Commencement: Reg. 24 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-258eb9f56d9bdd8623a3809ae4b3c756]: Commencement: Reg. 25 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-258eb9f56d9bdd8623a3809ae4b3c756]: Commencement: Reg. 25 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-f3a120c85e23aa369c88917050c716b1]: Commencement: Reg. 26 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-f3a120c85e23aa369c88917050c716b1]: Commencement: Reg. 26 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-3da47f3eb88cfa22242da085e2bca477]: Commencement: Reg. 27 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-3da47f3eb88cfa22242da085e2bca477]: Commencement: Reg. 27 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-6ca47d464d6f8fc7367271e3ce0af833]: Commencement: Reg. 28 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-6ca47d464d6f8fc7367271e3ce0af833]: Commencement: Reg. 28 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-64edd6881bc094dc365d6f0b78ef8326]: Commencement: Reg. 29 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-64edd6881bc094dc365d6f0b78ef8326]: Commencement: Reg. 29 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
-[^key-8ad985be035c0958ca3624d1d7c58189]: Commencement: Reg. 30 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-8ad985be035c0958ca3624d1d7c58189]: Commencement: Reg. 30 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
 
 [^f00006]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-95d530b5b25e18ea8d2d37d7fdf564ff]: Commencement: Reg. 31 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)
+[^c-95d530b5b25e18ea8d2d37d7fdf564ff]: Commencement: Reg. 31 in force at 1.4.2024, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/409/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Duty about content reporting[^key-4198c5ce8f3428eaeb94cccc09b2e571][^key-fa2ee983a3351f29522ea97a35ac3d4c]
+## 31. Duty about content reporting[^c-4198c5ce8f3428eaeb94cccc09b2e571][^c-fa2ee983a3351f29522ea97a35ac3d4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ Interpretation
 
 ## Annotations
 
-[^key-4198c5ce8f3428eaeb94cccc09b2e571]: Commencement: S. 31 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4198c5ce8f3428eaeb94cccc09b2e571]: Commencement: S. 31 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-fa2ee983a3351f29522ea97a35ac3d4c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/50/section/31) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-fa2ee983a3351f29522ea97a35ac3d4c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/50/section/31) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)

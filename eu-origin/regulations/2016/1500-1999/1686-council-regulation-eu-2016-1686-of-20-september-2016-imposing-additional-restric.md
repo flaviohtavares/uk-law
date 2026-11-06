@@ -41,191 +41,191 @@ of 20 September 2016
 
 imposing additional restrictive measures directed against ISIL (Da'esh) and Al-Qaeda and natural and legal persons, entities or bodies associated with them (revoked)
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d67d428f585ee2bd76a4d0933ffee77b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 19.**[^key-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 19.**[^c-d67d428f585ee2bd76a4d0933ffee77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d67d428f585ee2bd76a4d0933ffee77b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — List of natural and legal persons, entities and bodies referred to in Article 3[^key-d67d428f585ee2bd76a4d0933ffee77b]
+## ANNEX I — List of natural and legal persons, entities and bodies referred to in Article 3[^c-d67d428f585ee2bd76a4d0933ffee77b]
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] A.
+[^c-d67d428f585ee2bd76a4d0933ffee77b] A.
 
 **Persons**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] 1.
+[^c-d67d428f585ee2bd76a4d0933ffee77b] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] 2.
+[^c-d67d428f585ee2bd76a4d0933ffee77b] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] 3.
+[^c-d67d428f585ee2bd76a4d0933ffee77b] 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] 4.
+[^c-d67d428f585ee2bd76a4d0933ffee77b] 4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] 5.
+[^c-d67d428f585ee2bd76a4d0933ffee77b] 5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] 6.
+[^c-d67d428f585ee2bd76a4d0933ffee77b] 6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Websites for information on the competent authorities and address for notification to the European Commission[^key-d67d428f585ee2bd76a4d0933ffee77b]
+## ANNEX II — Websites for information on the competent authorities and address for notification to the European Commission[^c-d67d428f585ee2bd76a4d0933ffee77b]
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] BELGIUM
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-d67d428f585ee2bd76a4d0933ffee77b] BULGARIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] CZECH REPUBLIC
+[^c-d67d428f585ee2bd76a4d0933ffee77b] BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] DENMARK
+[^c-d67d428f585ee2bd76a4d0933ffee77b] CZECH REPUBLIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] GERMANY
+[^c-d67d428f585ee2bd76a4d0933ffee77b] DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] ESTONIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] IRELAND
+[^c-d67d428f585ee2bd76a4d0933ffee77b] ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] GREECE
+[^c-d67d428f585ee2bd76a4d0933ffee77b] IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] SPAIN
+[^c-d67d428f585ee2bd76a4d0933ffee77b] GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] FRANCE
+[^c-d67d428f585ee2bd76a4d0933ffee77b] SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] CROATIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] ITALY
+[^c-d67d428f585ee2bd76a4d0933ffee77b] CROATIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] CYPRUS
+[^c-d67d428f585ee2bd76a4d0933ffee77b] ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] LATVIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] LITHUANIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] LATVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] LUXEMBOURG
+[^c-d67d428f585ee2bd76a4d0933ffee77b] LITHUANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] HUNGARY
+[^c-d67d428f585ee2bd76a4d0933ffee77b] LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] MALTA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] NETHERLANDS
+[^c-d67d428f585ee2bd76a4d0933ffee77b] MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] AUSTRIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] NETHERLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] POLAND
+[^c-d67d428f585ee2bd76a4d0933ffee77b] AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] PORTUGAL
+[^c-d67d428f585ee2bd76a4d0933ffee77b] POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] ROMANIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] SLOVENIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] SLOVAKIA
+[^c-d67d428f585ee2bd76a4d0933ffee77b] SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] FINLAND
+[^c-d67d428f585ee2bd76a4d0933ffee77b] SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] SWEDEN
+[^c-d67d428f585ee2bd76a4d0933ffee77b] FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b] UNITED KINGDOM
+[^c-d67d428f585ee2bd76a4d0933ffee77b] SWEDEN
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d67d428f585ee2bd76a4d0933ffee77b] UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -235,4 +235,4 @@ imposing additional restrictive measures directed against ISIL (Da'esh) and Al-Q
 
 ## Annotations
 
-[^key-d67d428f585ee2bd76a4d0933ffee77b]: Textual amendment: Regulation revoked (31.12.2020) by The Counter-[Terrorism (International Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/573)](https://www.legislation.gov.uk/uksi/2019/573), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/573/regulation/1/2), [60(3)](https://www.legislation.gov.uk/uksi/2019/573/regulation/60/3)
+[^c-d67d428f585ee2bd76a4d0933ffee77b]: Textual amendment: Regulation revoked (31.12.2020) by The Counter-[Terrorism (International Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/573)](https://www.legislation.gov.uk/uksi/2019/573), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/573/regulation/1/2), [60(3)](https://www.legislation.gov.uk/uksi/2019/573/regulation/60/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Assessments where incorrectly low rate of alcohol duty applied[^M_I_797a0f3a-f7db-4b9c-8c13-5757daa2898c][^key-e402dbe988655eb5be8a1ca628031854]
+## 60. Assessments where incorrectly low rate of alcohol duty applied[^M_I_797a0f3a-f7db-4b9c-8c13-5757daa2898c][^c-e402dbe988655eb5be8a1ca628031854]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^M_I_797a0f3a-f7db-4b9c-8c13-5757daa2898c]: Commencement: S. 60 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-e402dbe988655eb5be8a1ca628031854]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/30/section/60) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-e402dbe988655eb5be8a1ca628031854]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/30/section/60) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

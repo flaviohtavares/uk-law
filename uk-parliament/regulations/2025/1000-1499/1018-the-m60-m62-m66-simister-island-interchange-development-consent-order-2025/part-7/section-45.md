@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Disapplication and modification of legislative provisions[^key-d9d51899e6b245348dd8c3fe34d81a8b]
+## 45. Disapplication and modification of legislative provisions[^c-d9d51899e6b245348dd8c3fe34d81a8b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The provisions of the Neighbourhood Planning Act 2017[^f00080], insofar as they 
 
 ## Annotations
 
-[^key-d9d51899e6b245348dd8c3fe34d81a8b]: Commencement: Art. 45 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-d9d51899e6b245348dd8c3fe34d81a8b]: Commencement: Art. 45 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
 
 [^f00080]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Directions.[^key-e0980e90e96ccb7b1a8fc081532c1780][^key-f061a93477ce8b51eacdd1311a8e5e40]
+## 15. Directions.[^c-e0980e90e96ccb7b1a8fc081532c1780][^c-f061a93477ce8b51eacdd1311a8e5e40]
 
 *Extent: E+W+S*
 
@@ -29,12 +29,12 @@ summary: ''
 
 (3) A direction under this section must be given in writing.
 
-(4) Where a direction under this section is not complied with, section 10 applies[^key-4854af40b48280f632978c70be9c49ad] to any trustee who has failed to take all such steps as are reasonable to secure compliance.
+(4) Where a direction under this section is not complied with, section 10 applies[^c-4854af40b48280f632978c70be9c49ad] to any trustee who has failed to take all such steps as are reasonable to secure compliance.
 
 ## Annotations
 
-[^key-e0980e90e96ccb7b1a8fc081532c1780]: Commencement: S. 15 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-e0980e90e96ccb7b1a8fc081532c1780]: Commencement: S. 15 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-f061a93477ce8b51eacdd1311a8e5e40]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1995/26/section/15) modified in part (11.11.1999 for specified purposes, 1.10.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/1/paragraph/1/1)[(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/1/paragraph/1/2/b/i); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/3) (as amended (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 76(2)(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/76/2/a))
+[^c-f061a93477ce8b51eacdd1311a8e5e40]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1995/26/section/15) modified in part (11.11.1999 for specified purposes, 1.10.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/1/paragraph/1/1)[(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/1/paragraph/1/2/b/i); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/3) (as amended (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 76(2)(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/76/2/a))
 
-[^key-4854af40b48280f632978c70be9c49ad]: Textual amendment: Words in s. 15(4) substituted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 39](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/39); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)
+[^c-4854af40b48280f632978c70be9c49ad]: Textual amendment: Words in s. 15(4) substituted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 39](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/39); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)

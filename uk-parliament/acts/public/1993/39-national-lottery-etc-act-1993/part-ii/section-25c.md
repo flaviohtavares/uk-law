@@ -30,7 +30,7 @@ summary: ''
 
 (3) A strategic plan must also contain—
 
-- (a)[^c1528623] a statement of any directions given to the body by the Secretary of State [^key-f0a93406b0b645d1ded6b4e609d5157f]... under section 26(1) or 36E,[^key-e1ca4f7b8fc7e2705e14e9b7b3ce75aa]
+- (a)[^c1528623] a statement of any directions given to the body by the Secretary of State [^c-f0a93406b0b645d1ded6b4e609d5157f]... under section 26(1) or 36E,[^c-e1ca4f7b8fc7e2705e14e9b7b3ce75aa]
 - (b) a statement of the estimate given to the body by the Secretary of State of the money likely to be available for distribution by the body under section 25(1),
 - (c) a statement of the body’s assessment of the needs which the body has power to deal with, in whole or in part, by distributing money under section 25(1), and
 - (d) a statement of the body’s priorities in dealing with those needs by the distribution of money under section 25(1).
@@ -61,9 +61,9 @@ summary: ''
 
 [^c1528623]: Modification: S. 25C(3)(a) modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-f0a93406b0b645d1ded6b4e609d5157f]: Textual amendment: Words in [s. 25C(3)(a)](https://www.legislation.gov.uk/ukpga/1993/39/section/25C/3/a) omitted (9.11.2016) by virtue of [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/9/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-f0a93406b0b645d1ded6b4e609d5157f]: Textual amendment: Words in [s. 25C(3)(a)](https://www.legislation.gov.uk/ukpga/1993/39/section/25C/3/a) omitted (9.11.2016) by virtue of [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/9/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-e1ca4f7b8fc7e2705e14e9b7b3ce75aa]: Textual amendment: Words in s. 25C(3)(a) substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/2), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-e1ca4f7b8fc7e2705e14e9b7b3ce75aa]: Textual amendment: Words in s. 25C(3)(a) substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/2), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
 [^c1528624]: Modification: S. 25C(5)(c)(d)(6): certain functions made exercisable by the Scottish Ministers concurrently with the Minister concerned (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [3](https://www.legislation.gov.uk/uksi/1999/1750/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1750/schedule/2) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

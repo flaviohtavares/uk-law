@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — STREETS AND RIGHTS OF WAY ETC. TO BE TEMPORARILY STOPPED UP[^key-53a073314f43beb4efa24a6ee913203b]
+## SCHEDULE 8 — STREETS AND RIGHTS OF WAY ETC. TO BE TEMPORARILY STOPPED UP[^c-53a073314f43beb4efa24a6ee913203b]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ Article 15
 
 ## Annotations
 
-[^key-53a073314f43beb4efa24a6ee913203b]: Commencement: Sch. 8 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-53a073314f43beb4efa24a6ee913203b]: Commencement: Sch. 8 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Investigation procedure[^key-d8b59cd0a518c7a39ec5f8c373bb1af7]
+## 18. Investigation procedure[^c-d8b59cd0a518c7a39ec5f8c373bb1af7]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ subject to such conditions as the Ombudsman may determine.
 
 ## Annotations
 
-[^key-d8b59cd0a518c7a39ec5f8c373bb1af7]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2019/3/section/18) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-d8b59cd0a518c7a39ec5f8c373bb1af7]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2019/3/section/18) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 21 — Repeals and revocations[^key-d8a75c345aefbeae534973529a88e0b4]
+## SCHEDULE 21 — Repeals and revocations[^c-d8a75c345aefbeae534973529a88e0b4]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ Regulation 25(1)
 
 ## Annotations
 
-[^key-d8a75c345aefbeae534973529a88e0b4]: Commencement: Sch. 21 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-d8a75c345aefbeae534973529a88e0b4]: Commencement: Sch. 21 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Regulations relating to the quality and safety of blood and blood components[^key-26e157358a5548961646637a765aea29]
+## 23A. Regulations relating to the quality and safety of blood and blood components[^c-26e157358a5548961646637a765aea29]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26e157358a5548961646637a765aea29]: Textual amendment: Regs. 23A-23E inserted (31.12.2020) by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [regs. 1](https://www.legislation.gov.uk/uksi/2019/4/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/4/regulation/13) (as amended by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/1304/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26e157358a5548961646637a765aea29]: Textual amendment: Regs. 23A-23E inserted (31.12.2020) by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [regs. 1](https://www.legislation.gov.uk/uksi/2019/4/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/4/regulation/13) (as amended by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/1304/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

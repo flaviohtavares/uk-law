@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Approval by the schools forum or the Secretary of State of proposals to revise schemes[^key-e52c78e32ff52cf7b8cf72072beecba8]
+## 27. Approval by the schools forum or the Secretary of State of proposals to revise schemes[^c-e52c78e32ff52cf7b8cf72072beecba8]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the authority may apply to the Secretary of State for approval of such proposals
 
 ## Annotations
 
-[^key-e52c78e32ff52cf7b8cf72072beecba8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/371/regulation/27) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-e52c78e32ff52cf7b8cf72072beecba8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/371/regulation/27) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

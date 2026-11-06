@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Determination of additional prices for winning assignment stage bids[^key-4bd1fb8ad4b0f53bb5e3f1de3eb91a29]
+## 106. Determination of additional prices for winning assignment stage bids[^c-4bd1fb8ad4b0f53bb5e3f1de3eb91a29]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bd1fb8ad4b0f53bb5e3f1de3eb91a29]: Commencement: Reg. 106 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-4bd1fb8ad4b0f53bb5e3f1de3eb91a29]: Commencement: Reg. 106 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

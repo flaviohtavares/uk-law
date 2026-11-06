@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Qualifying fines: special provisions[^key-bd3231eec8aad36d0ed89d3a18705d35]
+## 63A. Qualifying fines: special provisions[^c-bd3231eec8aad36d0ed89d3a18705d35]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd3231eec8aad36d0ed89d3a18705d35]: Textual amendment: [S. 63A](https://www.legislation.gov.uk/ukpga/1996/8/section/63A) inserted (with effect in accordance with Sch. 15 para. 8 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/15/paragraph/4)
+[^c-bd3231eec8aad36d0ed89d3a18705d35]: Textual amendment: [S. 63A](https://www.legislation.gov.uk/ukpga/1996/8/section/63A) inserted (with effect in accordance with Sch. 15 para. 8 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/15/paragraph/4)

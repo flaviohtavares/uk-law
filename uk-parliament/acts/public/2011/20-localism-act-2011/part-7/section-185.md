@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Exemption from HMO licensing for buildings run by co-operatives[^key-1aa2ce19ec29b51ef3603feb1297f315]
+## 185. Exemption from HMO licensing for buildings run by co-operatives[^c-1aa2ce19ec29b51ef3603feb1297f315]
 
 *Extent: E+W*
 
@@ -52,14 +52,14 @@ summary: ''
 > - “**protected tenancy**” has the same meaning as in the Rent Act 1977;
 > - “**secure tenancy**” has the same meaning as in Part 4 of the Housing Act 1985.
 
-(2)[^key-ef710fbd7c974871db592df8cfabd83f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ef710fbd7c974871db592df8cfabd83f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ef710fbd7c974871db592df8cfabd83f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ef710fbd7c974871db592df8cfabd83f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ef710fbd7c974871db592df8cfabd83f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ef710fbd7c974871db592df8cfabd83f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1aa2ce19ec29b51ef3603feb1297f315]: Commencement: S. 185 in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-1aa2ce19ec29b51ef3603feb1297f315]: Commencement: S. 185 in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-ef710fbd7c974871db592df8cfabd83f]: Textual amendment: S. 185(2)-(4) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-ef710fbd7c974871db592df8cfabd83f]: Textual amendment: S. 185(2)-(4) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. OFCOM’s report about reporting and complaints procedures[^key-c993fcb9a2155521093fca4874466d8b]
+## 160. OFCOM’s report about reporting and complaints procedures[^c-c993fcb9a2155521093fca4874466d8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c993fcb9a2155521093fca4874466d8b]: Commencement: S. 160 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-c993fcb9a2155521093fca4874466d8b]: Commencement: S. 160 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)

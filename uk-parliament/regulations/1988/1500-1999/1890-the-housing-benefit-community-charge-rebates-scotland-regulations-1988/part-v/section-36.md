@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Interpretation[^key-0b058cf998e7cab269af325e7835cf94]
+## 36. Interpretation[^c-0b058cf998e7cab269af325e7835cf94]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ In this Part, unless the context otherwise requires–
 
 ## Annotations
 
-[^key-0b058cf998e7cab269af325e7835cf94]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1988/1890/regulation/36) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-0b058cf998e7cab269af325e7835cf94]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1988/1890/regulation/36) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00053]: Footnote: S.I. [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 

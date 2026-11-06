@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Duties of justices’ legal advisers[^key-962d121f00e83a8fdd40d4bd013424d1]
+## 3. Duties of justices’ legal advisers[^c-962d121f00e83a8fdd40d4bd013424d1]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-962d121f00e83a8fdd40d4bd013424d1]: Textual amendment: [Rule 3](https://www.legislation.gov.uk/uksi/1981/552/rule/3) (previously omitted by virtue of [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [art. 17](https://www.legislation.gov.uk/uksi/2014/879/article/17)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/3)
+[^c-962d121f00e83a8fdd40d4bd013424d1]: Textual amendment: [Rule 3](https://www.legislation.gov.uk/uksi/1981/552/rule/3) (previously omitted by virtue of [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [art. 17](https://www.legislation.gov.uk/uksi/2014/879/article/17)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/3)

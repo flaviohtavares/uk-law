@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Effect of admission of video recording[^key-f9ac515eefad88ded1415cf11d1c169b]
+## 111. Effect of admission of video recording[^c-f9ac515eefad88ded1415cf11d1c169b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 138 of the Criminal Justice Act 2003 (c. 44) (video evidence: further
 
 ## Annotations
 
-[^key-f9ac515eefad88ded1415cf11d1c169b]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2009/25/section/111) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/c)
+[^c-f9ac515eefad88ded1415cf11d1c169b]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2009/25/section/111) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/c)

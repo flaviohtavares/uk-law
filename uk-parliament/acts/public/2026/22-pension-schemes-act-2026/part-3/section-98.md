@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Consequential amendments[^key-2ac367a6cc62319703a281c33e018c20]
+## 98. Consequential amendments[^c-2ac367a6cc62319703a281c33e018c20]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ac367a6cc62319703a281c33e018c20]: Commencement: S. 98 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-2ac367a6cc62319703a281c33e018c20]: Commencement: S. 98 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

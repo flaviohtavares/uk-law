@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Offences: record keeping, display of emergency response information[^key-587273b3bd5ea006c8dc269e6ff95d8e]
+## 58. Offences: record keeping, display of emergency response information[^c-587273b3bd5ea006c8dc269e6ff95d8e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-587273b3bd5ea006c8dc269e6ff95d8e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2011/9/section/58) in force at 1.4.2016 for specified purposes by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-587273b3bd5ea006c8dc269e6ff95d8e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2011/9/section/58) in force at 1.4.2016 for specified purposes by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

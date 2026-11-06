@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Calculating a generating station’s renewable output[^key-5d47aa485cda256ca6977d39e1fd1284]
+## 23. Calculating a generating station’s renewable output[^c-5d47aa485cda256ca6977d39e1fd1284]
 
 *Extent: N.I.*
 
@@ -30,15 +30,15 @@ summary: ''
 - (a) A is equal to [formula: C times D over E](https://www.legislation.gov.uk/nisr/2009/154)where—
   - (i) C is the gross output of the generating station during the month in question;
   - (ii) D is the energy content of all of the renewable sources used in generating that station’s gross output during that month, less the energy content of—
-    - (aa) any fossil fuel from which those renewable sources are in part composed (other than fossil fuel from which a fuel the energy content of which is deducted by virtue of sub-paragraph (bb) or (dd)[^key-473ab79f046c081c399fa4099164ddf6] is in part composed);
+    - (aa) any fossil fuel from which those renewable sources are in part composed (other than fossil fuel from which a fuel the energy content of which is deducted by virtue of sub-paragraph (bb) or (dd)[^c-473ab79f046c081c399fa4099164ddf6] is in part composed);
     - (bb) any of those renewable sources which is Solid Recovered Fuel (other than Solid Recovered Fuel which constitutes biomass);
-    - (cc)[^key-7026913d495ed05d1a2953ddf41cc5b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (cc)[^c-7026913d495ed05d1a2953ddf41cc5b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (dd) except in the case of an excepted generating station, any of those renewable sources which is a gaseous fuel produced by means of gasification or pyrolysis and which has a gross calorific value when measured at 25 degrees Celsius and 0.1 megapascals at the inlet to the station of less than 2 megajoules per metre cubed;
   - (iii) E is the energy content of all of the fuels used in generating that station’s gross output that month.
 - (b) B is the gross output of that station during that month less the input electricity it uses during that month;
 - (c) C has the same meaning as in sub-paragraph (a)(i).
 
-(3)[^key-447068b173201c529f351120aee61cb4] Paragraphs (4) to (4E) apply for the purposes of Article 22 and Part 6.
+(3)[^c-447068b173201c529f351120aee61cb4] Paragraphs (4) to (4E) apply for the purposes of Article 22 and Part 6.
 
 (4) In any month where the renewable output of the station is generated in a single way the proportion of the station’s renewable output in that month which is generated using—
 
@@ -123,7 +123,7 @@ summary: ''
   - (a) Waste which constitutes a renewable source (other than sewage), or
   - (b) Biomass (other than sewage).
 
-(7)[^key-a62587f18a4f393ac17fdc9fe3a06c0f] Any reference in this Article to a way of generating renewable output is a reference to—
+(7)[^c-a62587f18a4f393ac17fdc9fe3a06c0f] Any reference in this Article to a way of generating renewable output is a reference to—
 
 - (a) one of the ways of generating electricity described in Schedule 2,
 - (b) generating electricity in the way described in Article 26D(1)(c),
@@ -132,12 +132,12 @@ summary: ''
 
 ## Annotations
 
-[^key-5d47aa485cda256ca6977d39e1fd1284]: Commencement: Art. 23 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-5d47aa485cda256ca6977d39e1fd1284]: Commencement: Art. 23 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-473ab79f046c081c399fa4099164ddf6]: Textual amendment: Words in [art. 23(2)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2009/154/article/23/2/a/ii/aa) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2013/116/article/11/2) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-473ab79f046c081c399fa4099164ddf6]: Textual amendment: Words in [art. 23(2)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2009/154/article/23/2/a/ii/aa) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2013/116/article/11/2) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-7026913d495ed05d1a2953ddf41cc5b2]: Textual amendment: [Art. 23(2)(a)(ii)(cc)](https://www.legislation.gov.uk/nisr/2009/154/article/23/2/a/ii/cc) omitted (1.5.2013) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(3)](https://www.legislation.gov.uk/nisr/2013/116/article/11/3) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-7026913d495ed05d1a2953ddf41cc5b2]: Textual amendment: [Art. 23(2)(a)(ii)(cc)](https://www.legislation.gov.uk/nisr/2009/154/article/23/2/a/ii/cc) omitted (1.5.2013) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(3)](https://www.legislation.gov.uk/nisr/2013/116/article/11/3) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-447068b173201c529f351120aee61cb4]: Textual amendment: [Art. 23(3)-(5)](https://www.legislation.gov.uk/nisr/2009/154/article/23/3) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(4)](https://www.legislation.gov.uk/nisr/2013/116/article/11/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-447068b173201c529f351120aee61cb4]: Textual amendment: [Art. 23(3)-(5)](https://www.legislation.gov.uk/nisr/2009/154/article/23/3) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(4)](https://www.legislation.gov.uk/nisr/2013/116/article/11/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-a62587f18a4f393ac17fdc9fe3a06c0f]: Textual amendment: [Art. 23(7)](https://www.legislation.gov.uk/nisr/2009/154/article/23/7) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(5)](https://www.legislation.gov.uk/nisr/2013/116/article/11/5) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-a62587f18a4f393ac17fdc9fe3a06c0f]: Textual amendment: [Art. 23(7)](https://www.legislation.gov.uk/nisr/2009/154/article/23/7) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [11(5)](https://www.legislation.gov.uk/nisr/2013/116/article/11/5) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Application of the Criminal Justice (Scotland) Act 2016 to persons arrested and detained under section 28[^key-b478cf5be0c6ef614d0f8d5df859034b]
+## 28A. Application of the Criminal Justice (Scotland) Act 2016 to persons arrested and detained under section 28[^c-b478cf5be0c6ef614d0f8d5df859034b]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b478cf5be0c6ef614d0f8d5df859034b]: Textual amendment: S. 28A inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 30](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/30); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-b478cf5be0c6ef614d0f8d5df859034b]: Textual amendment: S. 28A inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 30](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/30); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

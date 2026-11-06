@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63.[^key-b76e80348c8632d815996b206d2a2ef3]
+## 63.[^c-b76e80348c8632d815996b206d2a2ef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ In regulation 118 (enactments excepted) [^c24395311] —
 
 ## Annotations
 
-[^key-b76e80348c8632d815996b206d2a2ef3]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b76e80348c8632d815996b206d2a2ef3]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395311]: Marginal citation: Regulation 118 excepts the application of various enactments which apply by virtue of section 16 of VATA. Section 16(1) was substituted by paragraph 13 of Schedule 8 to TCTA. Section 16(1) applies to the entry of goods into Great Britain following their removal from Northern Ireland by virtue of paragraph 3(3) of Schedule 9ZB to VATA which was inserted by Schedule 2 to TPTPA.
 

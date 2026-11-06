@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Shared plot title sheets in relation to registered leases[^key-5057b88edf6d4e558441ebb0e2b5093f]
+## 20. Shared plot title sheets in relation to registered leases[^c-5057b88edf6d4e558441ebb0e2b5093f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 makes provision for registered leases tenanted in common similar to t
 
 ## Annotations
 
-[^key-5057b88edf6d4e558441ebb0e2b5093f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2012/5/section/20) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5057b88edf6d4e558441ebb0e2b5093f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2012/5/section/20) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

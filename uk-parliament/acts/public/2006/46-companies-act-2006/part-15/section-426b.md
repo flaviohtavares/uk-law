@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 426B. Section 172(1) statement to be made available on website[^key-979f199e2ce68b9304667512bc634c82]
+## 426B. Section 172(1) statement to be made available on website[^c-979f199e2ce68b9304667512bc634c82]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-979f199e2ce68b9304667512bc634c82]: Textual amendment: S. 426B and cross-heading inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2018/860/regulation/5)
+[^c-979f199e2ce68b9304667512bc634c82]: Textual amendment: S. 426B and cross-heading inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2018/860/regulation/5)

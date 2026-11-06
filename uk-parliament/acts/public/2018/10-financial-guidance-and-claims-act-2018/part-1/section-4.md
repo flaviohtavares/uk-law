@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Specific requirements as to the pensions guidance function[^key-3d627dceede0e00091656d1c17ff962c]
+## 4. Specific requirements as to the pensions guidance function[^c-3d627dceede0e00091656d1c17ff962c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d627dceede0e00091656d1c17ff962c]: Commencement: S. 4 in force at 1.1.2019 by [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/b)
+[^c-3d627dceede0e00091656d1c17ff962c]: Commencement: S. 4 in force at 1.1.2019 by [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/b)

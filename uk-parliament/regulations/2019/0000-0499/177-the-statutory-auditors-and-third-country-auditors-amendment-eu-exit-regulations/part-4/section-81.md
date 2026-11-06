@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81.[^key-ad9ebc424c6f906fb26c815445974726]
+## 81.[^c-ad9ebc424c6f906fb26c815445974726]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,7 +70,7 @@ In Article 6 (preparation for the statutory audit and assessment of threats to i
 
 ## Annotations
 
-[^key-ad9ebc424c6f906fb26c815445974726]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-ad9ebc424c6f906fb26c815445974726]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587231]: Marginal citation: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692); amended by [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), 2017/1064 and paragraphs 411 to 419 of Schedule 9 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12).
 

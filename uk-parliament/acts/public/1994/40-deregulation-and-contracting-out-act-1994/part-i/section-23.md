@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Repeal of Part I of the Shops Act 1950.[^key-b6bcd9cecfb11f70688a978611f360e7]
+## 23. Repeal of Part I of the Shops Act 1950.[^c-b6bcd9cecfb11f70688a978611f360e7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6bcd9cecfb11f70688a978611f360e7]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/1994/40/section/23) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-b6bcd9cecfb11f70688a978611f360e7]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/1994/40/section/23) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

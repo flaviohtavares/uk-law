@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Period of effect of advance notice[^key-aaf39f3721a811cec501fd9b85655f63][^key-5cbb0f26650b67617e67c8a5b9d3efe3][^key-5cbb0f26650b67617e67c8a5b9d3efe3]
+## 58. Period of effect of advance notice[^c-aaf39f3721a811cec501fd9b85655f63][^c-5cbb0f26650b67617e67c8a5b9d3efe3][^c-5cbb0f26650b67617e67c8a5b9d3efe3]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aaf39f3721a811cec501fd9b85655f63]: Commencement: S. 58 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-aaf39f3721a811cec501fd9b85655f63]: Commencement: S. 58 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-5cbb0f26650b67617e67c8a5b9d3efe3]: Modification: Pt. 4 applied (with modifications) (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [4](https://www.legislation.gov.uk/ssi/2014/190/article/4)
+[^c-5cbb0f26650b67617e67c8a5b9d3efe3]: Modification: Pt. 4 applied (with modifications) (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [4](https://www.legislation.gov.uk/ssi/2014/190/article/4)

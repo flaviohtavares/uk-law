@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Removal of human remains[^key-a3bf882e774277e7f0ef1d487eafcab2]
+## 23. Removal of human remains[^c-a3bf882e774277e7f0ef1d487eafcab2]
 
 *Extent: E+W*
 
@@ -88,6 +88,6 @@ subject to paragraph (10) the undertaker is to remove the remains and cause them
 
 ## Annotations
 
-[^key-a3bf882e774277e7f0ef1d487eafcab2]: Commencement: Art. 23 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-a3bf882e774277e7f0ef1d487eafcab2]: Commencement: Art. 23 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00067]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1).

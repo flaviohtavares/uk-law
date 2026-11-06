@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Individual members presenting joint petition: no winding-up of partnership[^key-8bf755020aa00c8bd8b7345618c83d34]
+## 114. Individual members presenting joint petition: no winding-up of partnership[^c-8bf755020aa00c8bd8b7345618c83d34]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In Article 11 of the 1995 Order, in paragraph (2)—
 
 ## Annotations
 
-[^key-8bf755020aa00c8bd8b7345618c83d34]: Commencement: S. 114 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8bf755020aa00c8bd8b7345618c83d34]: Commencement: S. 114 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

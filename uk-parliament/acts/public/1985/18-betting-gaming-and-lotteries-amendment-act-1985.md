@@ -29,23 +29,23 @@ Betting, Gaming and Lotteries (Amendment) Act 1985 (repealed)
 
 1985 c. 18
 
-[^key-ce9c784df033de05b8c8f626678ed698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce9c784df033de05b8c8f626678ed698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1. Removal of restrictions as to betting on racecourses et ceteralaetc.[^key-ce9c784df033de05b8c8f626678ed698][^key-ce9c784df033de05b8c8f626678ed698]
+## 1. Removal of restrictions as to betting on racecourses et ceteralaetc.[^c-ce9c784df033de05b8c8f626678ed698][^c-ce9c784df033de05b8c8f626678ed698]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Operation of totalisators on dog racecourses.[^key-ce9c784df033de05b8c8f626678ed698][^key-ce9c784df033de05b8c8f626678ed698]
+## 2. Operation of totalisators on dog racecourses.[^c-ce9c784df033de05b8c8f626678ed698][^c-ce9c784df033de05b8c8f626678ed698]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Citation, commencement and extent.[^key-ce9c784df033de05b8c8f626678ed698][^key-ce9c784df033de05b8c8f626678ed698]
+## 3. Citation, commencement and extent.[^c-ce9c784df033de05b8c8f626678ed698][^c-ce9c784df033de05b8c8f626678ed698]
 
 **No longer in force.**
 
@@ -53,7 +53,7 @@ Betting, Gaming and Lotteries (Amendment) Act 1985 (repealed)
 
 **May not be in force at this date. Check the source.**
 
-## SCHEDULE — Repeals[^key-ce9c784df033de05b8c8f626678ed698]
+## SCHEDULE — Repeals[^c-ce9c784df033de05b8c8f626678ed698]
 
 **No longer in force.**
 
@@ -63,4 +63,4 @@ Section 1.
 
 ## Annotations
 
-[^key-ce9c784df033de05b8c8f626678ed698]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.) (with [Sch. 4 (as amended by S.I. 2007/1157, arts. 7-12; S.I. 2007/2169,](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) [arts. 7-11))](https://www.legislation.gov.uk/uksi/2006/3272/article/7)
+[^c-ce9c784df033de05b8c8f626678ed698]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.) (with [Sch. 4 (as amended by S.I. 2007/1157, arts. 7-12; S.I. 2007/2169,](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) [arts. 7-11))](https://www.legislation.gov.uk/uksi/2006/3272/article/7)

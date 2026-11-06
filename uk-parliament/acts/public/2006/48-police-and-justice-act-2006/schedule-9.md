@@ -22,9 +22,9 @@ summary: ''
 
 Section 22
 
-**1.**[^key-3ea9ac96804ec7175cc8600d186d69db][^key-05cc03c0733f77d9232ad387b4fb12ae] The Crime and Disorder Act 1998 (c. 37) is amended as follows.
+**1.**[^c-3ea9ac96804ec7175cc8600d186d69db][^c-05cc03c0733f77d9232ad387b4fb12ae] The Crime and Disorder Act 1998 (c. 37) is amended as follows.
 
-**2.**[^key-9f78f45ec6747de6a674e2997cf572f9][^key-8724de8dbb67119b7f529ca866b1cdd6] (1) Section 5 (authorities responsible for strategies) is amended as follows.
+**2.**[^c-9f78f45ec6747de6a674e2997cf572f9][^c-8724de8dbb67119b7f529ca866b1cdd6] (1) Section 5 (authorities responsible for strategies) is amended as follows.
 
 (2) In subsection (1), after “functions conferred by” there is inserted “ or under ”.
 
@@ -48,7 +48,7 @@ Section 22
 >
 > (8) In subsection (7), “**devolved Welsh functions**” means functions which are dischargeable only in relation to Wales and relate to matters in relation to which the Assembly has functions.
 
-**3.**[^key-b27c23985f91d0f8d13ea747d64fb2ba][^key-69191ef0845ce82e510df481a1e425cd] For sections 6 and 6A there is substituted—
+**3.**[^c-b27c23985f91d0f8d13ea747d64fb2ba][^c-69191ef0845ce82e510df481a1e425cd] For sections 6 and 6A there is substituted—
 
 > **6. Formulation and implementation of strategies**
 >
@@ -95,7 +95,7 @@ Section 22
 > - (b) the National Assembly for Wales, in relation to strategies for combatting the misuse of drugs, alcohol or other substances in areas in Wales;
 > - (c) the Secretary of State and the Assembly acting jointly, in relation to strategies for combatting crime and disorder in areas in Wales.
 
-**4.**[^key-1323ba0f377fb1b855d93d398be046da][^key-ce853ab1dbb848d499d9305c518398cd] (1) Section 17 (duty to consider crime and disorder implications) is amended as follows.
+**4.**[^c-1323ba0f377fb1b855d93d398be046da][^c-ce853ab1dbb848d499d9305c518398cd] (1) Section 17 (duty to consider crime and disorder implications) is amended as follows.
 
 (2) In subsection (1), for “crime and disorder in its area” there is substituted—
 
@@ -125,7 +125,7 @@ Section 22
 >
 > (5) In subsection (4) “**the appropriate national authority**” has the same meaning as in section 5.
 
-**5.**[^key-b9d643a34f35a6f17022e428c988ee6e][^key-74e8e41e092471ccb44554d2fc12f808] After section 17 there is inserted—
+**5.**[^c-b9d643a34f35a6f17022e428c988ee6e][^c-74e8e41e092471ccb44554d2fc12f808] After section 17 there is inserted—
 
 > **17A. Sharing of information**
 >
@@ -139,7 +139,7 @@ Section 22
 >
 > (5) In this section “**relevant authority**” means an authority in England and Wales which is for the time being a relevant authority for the purposes of section 115.
 
-**6.**[^key-147f171fc5fa1b3978661dc0c833469c][^key-96dda34abc700aff672e9645d2de8712] (1) Section 114 (orders and regulations) is amended as follows.
+**6.**[^c-147f171fc5fa1b3978661dc0c833469c][^c-96dda34abc700aff672e9645d2de8712] (1) Section 114 (orders and regulations) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -155,15 +155,15 @@ Section 22
 
 > (4) The Secretary of State must consult the National Assembly for Wales before making an order under section 5(6), 17(4) or 115(3) that relates to a person or body any of whose functions are dischargeable in relation to Wales (not being functions of the kind referred to in section 5(8)).
 
-**7.**[^key-8f45193c2df4aa2e25491272c64fffe2] (1)[^key-8e828a9974475c63f6ad31e5cc2efcf8] Section 115 (disclosure of information) is amended as follows.
+**7.**[^c-8f45193c2df4aa2e25491272c64fffe2] (1)[^c-8e828a9974475c63f6ad31e5cc2efcf8] Section 115 (disclosure of information) is amended as follows.
 
-(2)[^key-35cf9b4cb5df0e5331ea2a3dff719708] In subsection (2), for “subsection (1) above” there is substituted “ this section ”, and at the end there is inserted—
+(2)[^c-35cf9b4cb5df0e5331ea2a3dff719708] In subsection (2), for “subsection (1) above” there is substituted “ this section ”, and at the end there is inserted—
 
 > - (h) the London Fire and Emergency Planning Authority;
 > - (i) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
 > - (j) a metropolitan county fire and rescue authority.
 
-(3)[^key-8e828a9974475c63f6ad31e5cc2efcf8] After that subsection there is inserted—
+(3)[^c-8e828a9974475c63f6ad31e5cc2efcf8] After that subsection there is inserted—
 
 > (3) The appropriate national authority may by order amend this section so far as it extends to England and Wales by—
 >
@@ -175,32 +175,32 @@ Section 22
 
 ## Annotations
 
-[^key-3ea9ac96804ec7175cc8600d186d69db]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/1) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
+[^c-3ea9ac96804ec7175cc8600d186d69db]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/1) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
 
-[^key-05cc03c0733f77d9232ad387b4fb12ae]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/1) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
+[^c-05cc03c0733f77d9232ad387b4fb12ae]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/1) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-9f78f45ec6747de6a674e2997cf572f9]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/2) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
+[^c-9f78f45ec6747de6a674e2997cf572f9]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/2) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
 
-[^key-8724de8dbb67119b7f529ca866b1cdd6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/2) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
+[^c-8724de8dbb67119b7f529ca866b1cdd6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/2) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-b27c23985f91d0f8d13ea747d64fb2ba]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/3) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
+[^c-b27c23985f91d0f8d13ea747d64fb2ba]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/3) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
 
-[^key-69191ef0845ce82e510df481a1e425cd]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/3) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
+[^c-69191ef0845ce82e510df481a1e425cd]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/3) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-1323ba0f377fb1b855d93d398be046da]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/4) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
+[^c-1323ba0f377fb1b855d93d398be046da]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/4) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
 
-[^key-ce853ab1dbb848d499d9305c518398cd]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/4) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
+[^c-ce853ab1dbb848d499d9305c518398cd]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/4) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-b9d643a34f35a6f17022e428c988ee6e]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/5) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
+[^c-b9d643a34f35a6f17022e428c988ee6e]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/5) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
 
-[^key-74e8e41e092471ccb44554d2fc12f808]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/5) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
+[^c-74e8e41e092471ccb44554d2fc12f808]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/5) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-147f171fc5fa1b3978661dc0c833469c]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/6) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
+[^c-147f171fc5fa1b3978661dc0c833469c]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/6) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
 
-[^key-96dda34abc700aff672e9645d2de8712]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/6) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
+[^c-96dda34abc700aff672e9645d2de8712]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/6) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-8f45193c2df4aa2e25491272c64fffe2]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
+[^c-8f45193c2df4aa2e25491272c64fffe2]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b)
 
-[^key-8e828a9974475c63f6ad31e5cc2efcf8]: Commencement: [Sch. 9 para. 7(1)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7/1) [(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7/3) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
+[^c-8e828a9974475c63f6ad31e5cc2efcf8]: Commencement: [Sch. 9 para. 7(1)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7/1) [(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7/3) in force at 19.11.2007 for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-35cf9b4cb5df0e5331ea2a3dff719708]: Commencement: [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7/2) in force at 19.11.2007 for W. by [S.I. 2007/3251](https://www.legislation.gov.uk/wsi/2007/3251), [art. 2](https://www.legislation.gov.uk/wsi/2007/3251/article/2)
+[^c-35cf9b4cb5df0e5331ea2a3dff719708]: Commencement: [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/7/2) in force at 19.11.2007 for W. by [S.I. 2007/3251](https://www.legislation.gov.uk/wsi/2007/3251), [art. 2](https://www.legislation.gov.uk/wsi/2007/3251/article/2)

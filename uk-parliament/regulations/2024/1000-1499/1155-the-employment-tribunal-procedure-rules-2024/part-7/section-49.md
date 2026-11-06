@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Privacy and restrictions on disclosure[^key-17c291b7d91d54db3fdc8afa48f8ddcf]
+## 49. Privacy and restrictions on disclosure[^c-17c291b7d91d54db3fdc8afa48f8ddcf]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17c291b7d91d54db3fdc8afa48f8ddcf]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2024/1155/rule/49) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-17c291b7d91d54db3fdc8afa48f8ddcf]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2024/1155/rule/49) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00032]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42), amended by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887) and [2004/1574](https://www.legislation.gov.uk/uksi/2004/1574).

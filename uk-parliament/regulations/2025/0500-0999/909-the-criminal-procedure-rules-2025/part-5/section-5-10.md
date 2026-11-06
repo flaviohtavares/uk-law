@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.10. Request or application determined by the court[^key-f79081d0986ef2f427bdecaeb69564f8]
+## 5.10. Request or application determined by the court[^c-f79081d0986ef2f427bdecaeb69564f8]
 
 *Extent: E+W*
 
@@ -89,7 +89,7 @@ summary: ''
 - (c) by a copy of a document; or
 - (d) by allowing access to a document, including a recording (other than a recording to which rule 5.5 applies (Recording and transcription of proceedings in the Crown Court)).
 
-*\[Note. See also rule 5.7 (The open justice principle) and rules 5.8(3)(b) and 5.9(3)(b) (which latter two rules require reasons for a request for information the supply of which is not required by rule 5.8(4) or rule 5.9(4)). The two main purposes of the open justice principle as it applies to the supply of information from court records are (i) to enable public scrutiny of the way in which the courts decide cases so as to provide public accountability and secure public confidence; and (ii) to enable public understanding of the justice system. The core aim is to ensure appropriate transparency for the work of the courts and the judges who sit in them. A request for information to be determined under this rule must explain (i) why that information is sought, and (ii) how its supply would advance the open justice principle.[^key-be0686e8d1d2d793f9686bce55e96a30]*
+*\[Note. See also rule 5.7 (The open justice principle) and rules 5.8(3)(b) and 5.9(3)(b) (which latter two rules require reasons for a request for information the supply of which is not required by rule 5.8(4) or rule 5.9(4)). The two main purposes of the open justice principle as it applies to the supply of information from court records are (i) to enable public scrutiny of the way in which the courts decide cases so as to provide public accountability and secure public confidence; and (ii) to enable public understanding of the justice system. The core aim is to ensure appropriate transparency for the work of the courts and the judges who sit in them. A request for information to be determined under this rule must explain (i) why that information is sought, and (ii) how its supply would advance the open justice principle.[^c-be0686e8d1d2d793f9686bce55e96a30]*
 
 *The court’s decision under this rule may be affected by—*
 
@@ -102,9 +102,9 @@ summary: ''
 
 ## Annotations
 
-[^key-f79081d0986ef2f427bdecaeb69564f8]: Commencement: [Rule 5.10](https://www.legislation.gov.uk/uksi/2025/909/rule/5.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f79081d0986ef2f427bdecaeb69564f8]: Commencement: [Rule 5.10](https://www.legislation.gov.uk/uksi/2025/909/rule/5.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-be0686e8d1d2d793f9686bce55e96a30]: Textual amendment: Words in [rule 5](https://www.legislation.gov.uk/uksi/2025/909/rule/5).10 Note substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [5](https://www.legislation.gov.uk/uksi/2026/47/rule/5)
+[^c-be0686e8d1d2d793f9686bce55e96a30]: Textual amendment: Words in [rule 5](https://www.legislation.gov.uk/uksi/2025/909/rule/5).10 Note substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [5](https://www.legislation.gov.uk/uksi/2026/47/rule/5)
 
 [^f00192]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 

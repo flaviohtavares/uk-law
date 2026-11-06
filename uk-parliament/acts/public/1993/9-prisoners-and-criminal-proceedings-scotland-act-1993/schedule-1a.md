@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Offences carrying restricted eligibility of terrorist prisoners for release on licence[^key-1bd9683c6797ce7a2394077ed6229944]
+## SCHEDULE 1A — Offences carrying restricted eligibility of terrorist prisoners for release on licence[^c-1bd9683c6797ce7a2394077ed6229944]
 
 *Extent: E+W+S*
 
@@ -85,7 +85,7 @@ Section 1AB
 - (b) section 2 (dissemination of terrorist publications);
 - (c) section 8 (attendance at a place used for terrorist training).
 
-**8.** An offence under any of the following provisions of the[^key-c76d64270547438ec3aa98c4981c50e7] [Counter-Terrorism Act 2008](https://www.legislation.gov.uk/ukpga/2008/28/contents)—
+**8.** An offence under any of the following provisions of the[^c-c76d64270547438ec3aa98c4981c50e7] [Counter-Terrorism Act 2008](https://www.legislation.gov.uk/ukpga/2008/28/contents)—
 
 - (a) [section 54](https://www.legislation.gov.uk/ukpga/2008/28/section/54) (breach of police notification requirements etc);
 - (b) [paragraph 15](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5/paragraph/15) of [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5) (breach of foreign travel restriction order).
@@ -296,6 +296,6 @@ Section 1AB
 
 ## Annotations
 
-[^key-1bd9683c6797ce7a2394077ed6229944]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1993/9/schedule/1A) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(o)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/o), [Sch. 10](https://www.legislation.gov.uk/ukpga/2021/11/schedule/10)
+[^c-1bd9683c6797ce7a2394077ed6229944]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1993/9/schedule/1A) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(o)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/o), [Sch. 10](https://www.legislation.gov.uk/ukpga/2021/11/schedule/10)
 
-[^key-c76d64270547438ec3aa98c4981c50e7]: Textual amendment: Words in [Sch. 1A para. 8](https://www.legislation.gov.uk/ukpga/1993/9/schedule/1A/paragraph/8) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/1)
+[^c-c76d64270547438ec3aa98c4981c50e7]: Textual amendment: Words in [Sch. 1A para. 8](https://www.legislation.gov.uk/ukpga/1993/9/schedule/1A/paragraph/8) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/1)

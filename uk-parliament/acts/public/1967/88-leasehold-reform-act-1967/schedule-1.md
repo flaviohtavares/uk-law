@@ -67,7 +67,7 @@ the court may, on such terms and conditions as it thinks fit, appoint such perso
 
 (2) For the purpose of deducing, evidencing or verifying his title to any property, any of the other landlords, on given written notice to the reversioner and to the claimant, may deal directly with the claimant, if he objects to disclosing his title to the reversioner, and he shall deal directly with the claimant if the claimant by written notice given to him and to the reversioner so requires.
 
-(3) For the purpose of agreeing the price payable for his interest under section 9 of this Act, any of the other landlords, on giving written notice to the reversioner and to the claimant, may deal directly with the claimant; and whether he does that or not, he may require the reversioner to apply to the appropriate tribunal[^key-7b56fc2e73e07e532376eca271709f53] for the price to be determined by the appropriate tribunal.
+(3) For the purpose of agreeing the price payable for his interest under section 9 of this Act, any of the other landlords, on giving written notice to the reversioner and to the claimant, may deal directly with the claimant; and whether he does that or not, he may require the reversioner to apply to the appropriate tribunal[^c-7b56fc2e73e07e532376eca271709f53] for the price to be determined by the appropriate tribunal.
 
 (4) Any of the other landlords shall be entitled to require that the price payable for his interest (or so much of it as is payable to him) shall be paid by the claimant to him or to a person authorised by him to receive it, instead of to the reversioner; but if, after being given proper notice of the time and place fixed for completion with the claimant, neither he nor a person so authorised attends to receive payment, and he has not made, and notified the reversioner of, other arrangements with the claimant to receive payment, the reversioner shall be authorised to receive it for him and the reversioner’s written receipt for the amount payable shall be a complete discharge to the claimant.
 
@@ -97,7 +97,7 @@ and, if any of the other landlords fails to do so, he shall indemnify the revers
 
 (2) Where by reason of section 11(2) of this Act it is necessary to make (otherwise than out of the price payable for the house and premises) any payment for the redemption of a rentcharge . . . [^c8302041], the reversioner, if he is not the landlord liable or primarily liable in respect of the rentcharge . . . [^c8302041], shall not be required to make that payment otherwise than out of money made available for the purpose by that landlord, and it shall be the duty of that landlord to provide for the redemption; and similarly where by reason of section 12(8) proviso of this Act it is necessary to discharge the house and premises from a charge affecting the interest of any landlord.
 
-**7A.**[^c8302071] (1)[^key-f5a442b4791b77474d1c05322bef39aa] The price payable for a minor superior tenancy is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with section 9.
+**7A.**[^c8302071] (1)[^c-f5a442b4791b77474d1c05322bef39aa] The price payable for a minor superior tenancy is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with section 9.
 
 (2) “**A minor superior tenancy**” means a superior tenancy having an expectation of possession of not more than one month and in respect of which the profit rent is not more than £5 per year.
 
@@ -105,11 +105,11 @@ and, if any of the other landlords fails to do so, he shall indemnify the revers
 
 (4) Where the minor superior tenancy or that on which it is in immediate reversion comprises property other than the house and premises, the reference in sub-paragraph (3) to the rent payable under it means so much of that rent as is apportioned to the house and premises.
 
-(5)[^key-f79a1de74e63fa9a5d0604b5cac4befe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f79a1de74e63fa9a5d0604b5cac4befe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f79a1de74e63fa9a5d0604b5cac4befe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f79a1de74e63fa9a5d0604b5cac4befe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-eb33b72e91fec451ad56ad04468ee686] In sub-paragraph (1) “**appropriate national authority**” means—
+(7)[^c-eb33b72e91fec451ad56ad04468ee686] In sub-paragraph (1) “**appropriate national authority**” means—
 
 - (a) in relation to a tenancy of land in England, the Secretary of State;
 - (b) in relation to a tenancy of land in Wales, the Welsh Ministers.
@@ -173,7 +173,7 @@ Provided that paragraph 4(1)(a) above shall not apply to the execution of a conv
 
 ## Annotations
 
-[^key-7b56fc2e73e07e532376eca271709f53]: Textual amendment: Words in Sch. 1 para. 5(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/10) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7b56fc2e73e07e532376eca271709f53]: Textual amendment: Words in Sch. 1 para. 5(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/10) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c8302011]: Textual amendment: Words in [Sch. 1 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/1/paragraph/7/1/a) inserted (1.7.1995) by [1994 c. 36](https://www.legislation.gov.uk/ukpga/1994/36), [s. 21(1)](https://www.legislation.gov.uk/ukpga/1994/36/section/21/1), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/1994/36/schedule/1/paragraph/5/3) (with [s. 20](https://www.legislation.gov.uk/ukpga/1994/36/section/20)); [S.I. 1995/1317](https://www.legislation.gov.uk/uksi/1995/1317), [art. 2](https://www.legislation.gov.uk/uksi/1995/1317/article/2)
 
@@ -185,10 +185,10 @@ Provided that paragraph 4(1)(a) above shall not apply to the execution of a conv
 
 [^c8302071]: Textual amendment: Para. 7A inserted by [Housing Act 1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/1980/51/schedule/21/paragraph/6)
 
-[^key-f5a442b4791b77474d1c05322bef39aa]: Textual amendment: Sch. 1 para. 7A(1) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/2) (with [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/5))
+[^c-f5a442b4791b77474d1c05322bef39aa]: Textual amendment: Sch. 1 para. 7A(1) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/2) (with [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/5))
 
-[^key-f79a1de74e63fa9a5d0604b5cac4befe]: Textual amendment: Sch. 1 para. 7A(5)(6) omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 1(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/3) (with [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/5))
+[^c-f79a1de74e63fa9a5d0604b5cac4befe]: Textual amendment: Sch. 1 para. 7A(5)(6) omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 1(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/3) (with [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/5))
 
-[^key-eb33b72e91fec451ad56ad04468ee686]: Textual amendment: Sch. 1 paras. 7A(7)-(10) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 1(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/4) (with [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/5))
+[^c-eb33b72e91fec451ad56ad04468ee686]: Textual amendment: Sch. 1 paras. 7A(7)-(10) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 1(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/4) (with [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/1/5))
 
 [^c8302081]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1967/88/schedule/1/paragraph/8) repealed by [Rentcharges Act 1977 (c. 30)](https://www.legislation.gov.uk/ukpga/1977/30), [s. 17(6)](https://www.legislation.gov.uk/ukpga/1977/30/section/17/6), [Sch. 2](https://www.legislation.gov.uk/ukpga/1977/30/schedule/2)

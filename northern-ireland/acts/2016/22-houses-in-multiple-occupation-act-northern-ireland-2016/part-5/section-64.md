@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Fixed penalty: service of notice[^key-2c18f6a18a7f55bb410cf13836b19b24]
+## 64. Fixed penalty: service of notice[^c-2c18f6a18a7f55bb410cf13836b19b24]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c18f6a18a7f55bb410cf13836b19b24]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2016/22/section/64) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-2c18f6a18a7f55bb410cf13836b19b24]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2016/22/section/64) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

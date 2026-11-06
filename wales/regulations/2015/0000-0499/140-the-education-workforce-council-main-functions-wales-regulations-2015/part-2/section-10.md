@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Division of the Register into separate parts[^key-3c73908ac66b93234fd160b425874bdd]
+## 10. Division of the Register into separate parts[^c-3c73908ac66b93234fd160b425874bdd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Council may make provision as to the division of the Register into separate 
 
 ## Annotations
 
-[^key-3c73908ac66b93234fd160b425874bdd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/140/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-3c73908ac66b93234fd160b425874bdd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/140/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

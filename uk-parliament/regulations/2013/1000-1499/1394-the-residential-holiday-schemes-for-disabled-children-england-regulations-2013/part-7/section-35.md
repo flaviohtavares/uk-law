@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Application of Part 2 of the Act to persons carrying on or managing a scheme[^key-b7389e343061a054c464ddabcb6079bf]
+## 35. Application of Part 2 of the Act to persons carrying on or managing a scheme[^c-b7389e343061a054c464ddabcb6079bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to regulation 39, the provisions of Part 2 of the Act, insofar as they a
 
 ## Annotations
 
-[^key-b7389e343061a054c464ddabcb6079bf]: Commencement: Reg. 35 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-b7389e343061a054c464ddabcb6079bf]: Commencement: Reg. 35 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

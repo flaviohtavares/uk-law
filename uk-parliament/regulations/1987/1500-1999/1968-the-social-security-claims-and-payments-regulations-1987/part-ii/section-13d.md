@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13D. Advance claims for and awards of state pension credit[^key-8060085440253552d047cb30b79d8d5b]
+## 13D. Advance claims for and awards of state pension credit[^c-8060085440253552d047cb30b79d8d5b]
 
 *Extent: E+W+S*
 
@@ -36,10 +36,10 @@ summary: ''
 
 (3) An award under paragraph (2) may be revised under section 9 of the Social Security Act 1998 if the claimant fails to satisfy the conditions for entitlement to state pension credit on the relevant day.
 
-(4)[^key-4451fa68893a49cabaebf70bae92114e] This regulation does not apply to a claim made by a person not in Great Britain as defined in regulation 2 of the State Pension Credit Regulations (persons not in Great Britain).
+(4)[^c-4451fa68893a49cabaebf70bae92114e] This regulation does not apply to a claim made by a person not in Great Britain as defined in regulation 2 of the State Pension Credit Regulations (persons not in Great Britain).
 
 ## Annotations
 
-[^key-8060085440253552d047cb30b79d8d5b]: Textual amendment: Reg. 13D inserted (7.4.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/6/2)
+[^c-8060085440253552d047cb30b79d8d5b]: Textual amendment: Reg. 13D inserted (7.4.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/6/2)
 
-[^key-4451fa68893a49cabaebf70bae92114e]: Textual amendment: Reg. 13D(4) added (23.5.2007) by [The Social Security, Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1331)](https://www.legislation.gov.uk/uksi/2007/1331), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1331/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/1331/regulation/2/3)
+[^c-4451fa68893a49cabaebf70bae92114e]: Textual amendment: Reg. 13D(4) added (23.5.2007) by [The Social Security, Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1331)](https://www.legislation.gov.uk/uksi/2007/1331), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1331/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/1331/regulation/2/3)

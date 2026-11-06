@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Mandatory administration of a critical benchmark[^key-303fba965ed6c40ff578573a8fe27fbf]
+## 9. Mandatory administration of a critical benchmark[^c-303fba965ed6c40ff578573a8fe27fbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-303fba965ed6c40ff578573a8fe27fbf]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/22/section/9) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/b)
+[^c-303fba965ed6c40ff578573a8fe27fbf]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/22/section/9) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/b)

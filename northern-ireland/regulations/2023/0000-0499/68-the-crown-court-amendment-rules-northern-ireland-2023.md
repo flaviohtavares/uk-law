@@ -48,11 +48,11 @@ Coming into operation in accordance with Rule 1
 
 The Crown Court Rules Committee makes the following Rules in exercise of the powers conferred by sections 52(1) and 53A of the Judicature (Northern Ireland) Act 1978[^f00001], and section 11(1) of the Crime (Overseas Production Orders) Act 2019[^f00002].
 
-## 1. Citation and commencement[^key-7aa3a61dc6ead6640216fab288d9d542]
+## 1. Citation and commencement[^c-7aa3a61dc6ead6640216fab288d9d542]
 
 These Rules shall be cited as the Crown Court (Amendment) Rules (Northern Ireland) 2023 and shall come into operation on the twenty-first day after the date upon which this instrument is laid before Parliament.
 
-## 2. Amendment to the Crown Court Rules (Northern Ireland) 1979[^key-4c2e132108eb45969e1e9036af17cdba]
+## 2. Amendment to the Crown Court Rules (Northern Ireland) 1979[^c-4c2e132108eb45969e1e9036af17cdba]
 
 The Crown Court Rules (Northern Ireland) 1979[^f00003] are amended as follows:
 
@@ -126,8 +126,8 @@ These Rules amend the Crown Court Rules (Northern Ireland) 1979 ([S.R. 1979 No. 
 
 [^f00002]: Footnote: [2019 c.5](https://www.legislation.gov.uk/ukpga/2019/5), to which relevant amendments were made by section 51 of, and Schedule 5 to, the Police, Crime, Sentencing and Courts Act [2022 (c.32)](https://www.legislation.gov.uk/ukpga/2022/32).
 
-[^key-7aa3a61dc6ead6640216fab288d9d542]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1) in operation at 17.5.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1)
+[^c-7aa3a61dc6ead6640216fab288d9d542]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1) in operation at 17.5.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1)
 
-[^key-4c2e132108eb45969e1e9036af17cdba]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2023/68/rule/2) in operation at 17.5.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1)
+[^c-4c2e132108eb45969e1e9036af17cdba]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2023/68/rule/2) in operation at 17.5.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1)
 
 [^f00003]: Footnote: [S.R. 1979 No. 90](https://www.legislation.gov.uk/nisr/1979/90), to which the most recent relevant amendments were made by [S.R. 2010 No. 133](https://www.legislation.gov.uk/nisr/2010/133), [S.R. 2011 No. 230](https://www.legislation.gov.uk/nisr/2011/230), [S.R. 2016 No. 297](https://www.legislation.gov.uk/nisr/2016/297), [S.R. 2018 No. 24](https://www.legislation.gov.uk/nisr/2018/24), [S.I. 2019/908](https://www.legislation.gov.uk/uksi/2019/908) and [S.R. 2021 No. 16](https://www.legislation.gov.uk/nisr/2021/16).

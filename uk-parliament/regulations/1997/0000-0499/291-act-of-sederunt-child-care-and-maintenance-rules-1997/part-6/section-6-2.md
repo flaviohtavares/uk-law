@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.2. Applications under section 106 of the Act[^key-666beb9849de3ee6f89f8f12e7e9fbc7]
+## 6.2. Applications under section 106 of the Act[^c-666beb9849de3ee6f89f8f12e7e9fbc7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-666beb9849de3ee6f89f8f12e7e9fbc7]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/uksi/1997/291/rule/6.2) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-666beb9849de3ee6f89f8f12e7e9fbc7]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/uksi/1997/291/rule/6.2) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

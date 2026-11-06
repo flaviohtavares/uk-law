@@ -30,11 +30,11 @@ summary: ''
   - (a) in accordance with regulation 36; or
   - (b) by the Great Britain Executive under regulation 36 of the Great Britain Regulations;
 - “**calendar year**” means a period of 12 months beginning with the 1st January;
-- “[^key-9968394c1f9af5c938d39f983ebff395]**carers and comforters**” means means individuals knowingly and willingly incurring an exposure to ionising radiation by helping, other than as part of their occupation, in the support and comfort of individuals undergoing or having undergone a medical exposure (other than as a carer and comforter);
+- “[^c-9968394c1f9af5c938d39f983ebff395]**carers and comforters**” means means individuals knowingly and willingly incurring an exposure to ionising radiation by helping, other than as part of their occupation, in the support and comfort of individuals undergoing or having undergone a medical exposure (other than as a carer and comforter);
 - “**classified outside worker**” means a classified person who carries out services in the controlled area of any employer (other than the controlled area of their own employer);
 - “**classified person**” means—
   - (a) a person designated as such pursuant to regulation 21(1); and
-  - (b) in the case of a classified outside worker employed by an undertaking in Great Britain or in a member State[^key-e364d1946c543e71dcc818d384b76ca7], a person who has been designated as a category A exposed worker within the meaning of Article 40 of the Directive;
+  - (b) in the case of a classified outside worker employed by an undertaking in Great Britain or in a member State[^c-e364d1946c543e71dcc818d384b76ca7], a person who has been designated as a category A exposed worker within the meaning of Article 40 of the Directive;
 - “**contamination**” means the unintended or undesirable presence of radioactive substances on surfaces or within solids, liquids or gases or on the human body, and “**contaminated**” is to be construed accordingly;
 - “**controlled area**” means—
   - (a) in the case of an area situated in Northern Ireland, an area which has been so designated in accordance with regulation 17(1); and
@@ -66,7 +66,7 @@ summary: ''
   - (b) individuals as part of health screening programmes;
   - (c) patients or other persons voluntarily participating in medical or biomedical, diagnostic or therapeutic, research programmes;
   - (d) individuals undergoing non-medical imaging using medical radiological equipment;
-  - (e) carers and comforters;[^key-a09d8fc6a5e379a7dc0205431ffcb62d]
+  - (e) carers and comforters;[^c-a09d8fc6a5e379a7dc0205431ffcb62d]
 - “**member State**” means a member State of the European Union;
 - “**non-classified outside worker**” means a person who is not a classified person who carries out services in the supervised or, pursuant to regulation 19(3)(c), controlled area of any employer (other than the supervised or controlled area of their own employer);
 - “**outside worker**” means a classified outside worker and a non-classified outside worker;
@@ -133,9 +133,9 @@ summary: ''
 
 ## Annotations
 
-[^key-9968394c1f9af5c938d39f983ebff395]: Textual amendment: Words in reg. 2(1) substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/2/a)
+[^c-9968394c1f9af5c938d39f983ebff395]: Textual amendment: Words in reg. 2(1) substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/2/a)
 
-[^key-e364d1946c543e71dcc818d384b76ca7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/229/regulation/2/1) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [12(2)(3)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/12/3/a)
+[^c-e364d1946c543e71dcc818d384b76ca7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/229/regulation/2/1) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [12(2)(3)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/12/3/a)
 
 [^c22878851]: Marginal citation: OJ No L 13, 17.1.14, p1-73
 
@@ -153,6 +153,6 @@ summary: ''
 
 [^c22878921]: Marginal citation: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075)
 
-[^key-a09d8fc6a5e379a7dc0205431ffcb62d]: Textual amendment: Words in reg. 2(1) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/2/b)
+[^c-a09d8fc6a5e379a7dc0205431ffcb62d]: Textual amendment: Words in reg. 2(1) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/2/b)
 
 [^c22878931]: Marginal citation: [S.I. 1995/2994 (N.I.18)](https://www.legislation.gov.uk/nisi/1995/2994)

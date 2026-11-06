@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Acting in a disruptive manner[^key-d5135fad053a6d39897d2e49294c37d7]
+## 78. Acting in a disruptive manner[^c-d5135fad053a6d39897d2e49294c37d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person must not while in an aircraft—
 
 ## Annotations
 
-[^key-d5135fad053a6d39897d2e49294c37d7]: Commencement: [Art. 78](https://www.legislation.gov.uk/uksi/2015/870/article/78) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-d5135fad053a6d39897d2e49294c37d7]: Commencement: [Art. 78](https://www.legislation.gov.uk/uksi/2015/870/article/78) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

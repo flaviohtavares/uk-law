@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Consent[^key-af7c4c92af853a9e7705b7ad3b0c3e80]
+## 33. Consent[^c-af7c4c92af853a9e7705b7ad3b0c3e80]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af7c4c92af853a9e7705b7ad3b0c3e80]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/26/section/33) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-af7c4c92af853a9e7705b7ad3b0c3e80]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/26/section/33) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

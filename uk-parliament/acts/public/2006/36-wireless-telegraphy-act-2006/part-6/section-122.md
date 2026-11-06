@@ -39,7 +39,7 @@ summary: ''
 - (c) specify an address from which a copy of the proposed regulations or order may be obtained; and
 - (d) specify a time before which any representations with respect to the proposal must be made to OFCOM.
 
-(6) The time specified for the purposes of subsection (5)(d) must be no earlier than the end of the period of 30 days[^key-a96f1a6c4bdd2c63a946d24857d2cc4c] beginning with the day after the latest day on which the notice is given or published for the purposes of subsection (4).
+(6) The time specified for the purposes of subsection (5)(d) must be no earlier than the end of the period of 30 days[^c-a96f1a6c4bdd2c63a946d24857d2cc4c] beginning with the day after the latest day on which the notice is given or published for the purposes of subsection (4).
 
 (7) Every power of OFCOM to make regulations or an order under this Act includes power—
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a96f1a6c4bdd2c63a946d24857d2cc4c]: Textual amendment: Words in [s. 122(6)](https://www.legislation.gov.uk/ukpga/2006/36/section/122/6) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 89](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/89)
+[^c-a96f1a6c4bdd2c63a946d24857d2cc4c]: Textual amendment: Words in [s. 122(6)](https://www.legislation.gov.uk/ukpga/2006/36/section/122/6) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 89](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/89)

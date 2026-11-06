@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Revocation, transitional and saving provisions[^key-4e811e15e7d9f2922704108c304434b7]
+## 55. Revocation, transitional and saving provisions[^c-4e811e15e7d9f2922704108c304434b7]
 
 *Extent: N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4e811e15e7d9f2922704108c304434b7]: Commencement: Reg. 55 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-4e811e15e7d9f2922704108c304434b7]: Commencement: Reg. 55 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00042]: Footnote: [S.R. 2004 No. 183](https://www.legislation.gov.uk/nisr/2004/183).
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Assistance with voting for persons with disabilities[^key-7eea9815a0ad232699683e679d02f773]
+## 9. Assistance with voting for persons with disabilities[^c-7eea9815a0ad232699683e679d02f773]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4e82dccbaa43b423aad3098cb211f18c][^key-45eb2439b1950436f594825bae312df7] Schedule 1 to RPA 1983 (Parliamentary elections rules) is amended as follows.
+(1)[^c-4e82dccbaa43b423aad3098cb211f18c][^c-45eb2439b1950436f594825bae312df7] Schedule 1 to RPA 1983 (Parliamentary elections rules) is amended as follows.
 
-(2)[^key-4e82dccbaa43b423aad3098cb211f18c][^key-45eb2439b1950436f594825bae312df7] In rule 29 (equipment of polling stations)—
+(2)[^c-4e82dccbaa43b423aad3098cb211f18c][^c-45eb2439b1950436f594825bae312df7] In rule 29 (equipment of polling stations)—
 
 - (a) in paragraph (3A), for sub-paragraph (b) substitute—
 
@@ -45,17 +45,17 @@ summary: ''
   >
   > (10) In performing the duty imposed by paragraph (3A)(b), a returning officer must have regard to guidance given under paragraph (8).
 
-(3)[^key-c21ac7cf3c24cc57934912cd7c9b0ac1] In rule 39 (voting by persons with disabilities)—
+(3)[^c-c21ac7cf3c24cc57934912cd7c9b0ac1] In rule 39 (voting by persons with disabilities)—
 
 - (a) in paragraph (2)(b)(i), for “is a qualified person within the meaning of this rule” substitute “is aged 18 or over”;
 - (b) in paragraph (3), omit the words from “and a person” to the end.
 
-(4)[^key-c21ac7cf3c24cc57934912cd7c9b0ac1] In the Appendix of Forms, in the form of declaration to be made by the companion of a voter with disabilities—
+(4)[^c-c21ac7cf3c24cc57934912cd7c9b0ac1] In the Appendix of Forms, in the form of declaration to be made by the companion of a voter with disabilities—
 
 - (a) for the words from “\[I am entitled” to “18 years\],” substitute “I am aged 18 or over”;
 - (b) omit “\* State the relationship of the companion to the voter.”
 
-(5)[^key-c21ac7cf3c24cc57934912cd7c9b0ac1] In section 5 of PPERA (reports on elections etc), after subsection (2A) insert—
+(5)[^c-c21ac7cf3c24cc57934912cd7c9b0ac1] In section 5 of PPERA (reports on elections etc), after subsection (2A) insert—
 
 > (2AA) Subsection (2AB) applies where a report under this section relates to—
 >
@@ -69,10 +69,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7eea9815a0ad232699683e679d02f773]: Commencement: S. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-7eea9815a0ad232699683e679d02f773]: Commencement: S. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-4e82dccbaa43b423aad3098cb211f18c]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/2) in force at 24.11.2022 for specified purposes by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/a)
+[^c-4e82dccbaa43b423aad3098cb211f18c]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/2) in force at 24.11.2022 for specified purposes by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/a)
 
-[^key-45eb2439b1950436f594825bae312df7]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/2) in force at 29.12.2022 in so far as not already in force by [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1270/regulation/3))
+[^c-45eb2439b1950436f594825bae312df7]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/2) in force at 29.12.2022 in so far as not already in force by [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1270/regulation/3))
 
-[^key-c21ac7cf3c24cc57934912cd7c9b0ac1]: Commencement: [S. 9(3)-(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/3) in force at 29.12.2022 by [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1270/regulation/3))
+[^c-c21ac7cf3c24cc57934912cd7c9b0ac1]: Commencement: [S. 9(3)-(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/9/3) in force at 29.12.2022 by [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1270/regulation/3))

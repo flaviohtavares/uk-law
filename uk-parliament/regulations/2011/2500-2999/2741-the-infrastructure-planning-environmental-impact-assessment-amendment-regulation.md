@@ -32,7 +32,7 @@ summary: ''
 
 Infrastructure Planning
 
-The Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2011 (revoked)[^key-8a2f2d43f6fbdc5af981873c30fe36a8]
+The Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2011 (revoked)[^c-8a2f2d43f6fbdc5af981873c30fe36a8]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 21st December 2011
 
-[^key-8a2f2d43f6fbdc5af981873c30fe36a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a2f2d43f6fbdc5af981873c30fe36a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8a2f2d43f6fbdc5af981873c30fe36a8]
+## 1. Citation and commencement[^c-8a2f2d43f6fbdc5af981873c30fe36a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8a2f2d43f6fbdc5af981873c30fe36a8]
+## 2. Interpretation[^c-8a2f2d43f6fbdc5af981873c30fe36a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the 2009 Regulations[^key-8a2f2d43f6fbdc5af981873c30fe36a8]
+## 3. Amendment to the 2009 Regulations[^c-8a2f2d43f6fbdc5af981873c30fe36a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to Schedule 1 to the 2009 Regulations[^key-8a2f2d43f6fbdc5af981873c30fe36a8]
+## 4. Amendments to Schedule 1 to the 2009 Regulations[^c-8a2f2d43f6fbdc5af981873c30fe36a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to Schedule 2 to the 2009 Regulations[^key-8a2f2d43f6fbdc5af981873c30fe36a8]
+## 5. Amendments to Schedule 2 to the 2009 Regulations[^c-8a2f2d43f6fbdc5af981873c30fe36a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a2f2d43f6fbdc5af981873c30fe36a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a2f2d43f6fbdc5af981873c30fe36a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8a2f2d43f6fbdc5af981873c30fe36a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a2f2d43f6fbdc5af981873c30fe36a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a2f2d43f6fbdc5af981873c30fe36a8]: Textual amendment: Regulations revoked (16.5.2017) by [The Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/572)](https://www.legislation.gov.uk/uksi/2017/572), regs.1, [37(1)(b)](https://www.legislation.gov.uk/uksi/2017/572/regulation/37/1/b)
+[^c-8a2f2d43f6fbdc5af981873c30fe36a8]: Textual amendment: Regulations revoked (16.5.2017) by [The Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/572)](https://www.legislation.gov.uk/uksi/2017/572), regs.1, [37(1)(b)](https://www.legislation.gov.uk/uksi/2017/572/regulation/37/1/b)

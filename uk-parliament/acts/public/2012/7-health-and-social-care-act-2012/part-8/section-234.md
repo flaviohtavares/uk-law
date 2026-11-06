@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Quality standards[^key-6451feda835989a6830b13545e2924e8][^c2191347]
+## 234. Quality standards[^c-6451feda835989a6830b13545e2924e8][^c2191347]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) establish a procedure for the preparation of quality standards, and
 - (b) consult such persons as it considers appropriate in establishing that procedure.
 
-(8) Subsection (9) applies in a case where the Secretary of State and NHS England[^key-4b1d107ac82fc91c0d6c1380f50a257b] each has power under this section to give NICE a direction to prepare a quality standard in relation to the same matter or connected matters.
+(8) Subsection (9) applies in a case where the Secretary of State and NHS England[^c-4b1d107ac82fc91c0d6c1380f50a257b] each has power under this section to give NICE a direction to prepare a quality standard in relation to the same matter or connected matters.
 
 (9) In such a case—
 
@@ -63,17 +63,17 @@ and a reference to the relevant commissioner in relation to a joint quality stan
 
 (11) In this Part—
 
-- “[^key-f4d7d5dea5492c9f8c673e8364a069e4]**NHS services**” means services the provision of which is arranged by NHS England or an integrated care board (including services the provision of which is arranged by it in the exercise of functions of another person by virtue of any provision of the National Health Service Act 2006);
+- “[^c-f4d7d5dea5492c9f8c673e8364a069e4]**NHS services**” means services the provision of which is arranged by NHS England or an integrated care board (including services the provision of which is arranged by it in the exercise of functions of another person by virtue of any provision of the National Health Service Act 2006);
 - “**public health services**” means services provided pursuant to the functions of—
   - (a) the Secretary of State under section 2A or 2B of, or paragraph 7C, 8 or 12 of Schedule 1 to, that Act, or
   - (b) a local authority under section 2B or 111 of, or paragraphs 1 to 7B or 13 of Schedule 1 to, that Act.
 
 ## Annotations
 
-[^key-6451feda835989a6830b13545e2924e8]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2012/7/section/234) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6451feda835989a6830b13545e2924e8]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2012/7/section/234) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191347]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2012/7/section/234) partly in force; [s. 234](https://www.legislation.gov.uk/ukpga/2012/7/section/234) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-4b1d107ac82fc91c0d6c1380f50a257b]: Textual amendment: Words in [s. 234](https://www.legislation.gov.uk/ukpga/2012/7/section/234) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-4b1d107ac82fc91c0d6c1380f50a257b]: Textual amendment: Words in [s. 234](https://www.legislation.gov.uk/ukpga/2012/7/section/234) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-f4d7d5dea5492c9f8c673e8364a069e4]: Textual amendment: Words in [s. 234(11)](https://www.legislation.gov.uk/ukpga/2012/7/section/234/11) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/20); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f4d7d5dea5492c9f8c673e8364a069e4]: Textual amendment: Words in [s. 234(11)](https://www.legislation.gov.uk/ukpga/2012/7/section/234/11) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/20); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

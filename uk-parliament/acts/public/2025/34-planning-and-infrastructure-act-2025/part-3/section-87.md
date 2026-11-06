@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Powers of entry: offences[^key-bcd83f0d94da80bf7e37b45f1ac48514][^key-6df2db418229e90caf03a8a3eed623a9]
+## 87. Powers of entry: offences[^c-bcd83f0d94da80bf7e37b45f1ac48514][^c-6df2db418229e90caf03a8a3eed623a9]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd83f0d94da80bf7e37b45f1ac48514]: Commencement: S. 87 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-bcd83f0d94da80bf7e37b45f1ac48514]: Commencement: S. 87 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-6df2db418229e90caf03a8a3eed623a9]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/34/section/87) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-6df2db418229e90caf03a8a3eed623a9]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/34/section/87) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

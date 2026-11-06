@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Commission Implementing Regulation (EU) 2020/198[^key-c3ec5ea0dcaf6a902e2540639de47398]
+## 32. Commission Implementing Regulation (EU) 2020/198[^c-c3ec5ea0dcaf6a902e2540639de47398]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3ec5ea0dcaf6a902e2540639de47398]: Commencement: Reg. 32 in force at 31.12.2020, see reg. 1(7)
+[^c-c3ec5ea0dcaf6a902e2540639de47398]: Commencement: Reg. 32 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414651]: Marginal citation: EUR 2020/198.

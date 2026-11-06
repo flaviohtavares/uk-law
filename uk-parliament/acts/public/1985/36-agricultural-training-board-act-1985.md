@@ -29,27 +29,27 @@ Agricultural Training Board Act 1985 (repealed)
 
 1985 c. 36
 
-[^key-cb76d397402dfe4b7966913d1299bc97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb76d397402dfe4b7966913d1299bc97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Training of persons overseas.[^key-cb76d397402dfe4b7966913d1299bc97][^key-cb76d397402dfe4b7966913d1299bc97]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Furnishing of information by the Board.[^key-cb76d397402dfe4b7966913d1299bc97][^key-cb76d397402dfe4b7966913d1299bc97]
+## 1. Training of persons overseas.[^c-cb76d397402dfe4b7966913d1299bc97][^c-cb76d397402dfe4b7966913d1299bc97]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Financial provision.[^key-cb76d397402dfe4b7966913d1299bc97][^key-cb76d397402dfe4b7966913d1299bc97]
+## 2. Furnishing of information by the Board.[^c-cb76d397402dfe4b7966913d1299bc97][^c-cb76d397402dfe4b7966913d1299bc97]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title, commencement and extent.[^key-cb76d397402dfe4b7966913d1299bc97][^key-cb76d397402dfe4b7966913d1299bc97]
+## 3. Financial provision.[^c-cb76d397402dfe4b7966913d1299bc97][^c-cb76d397402dfe4b7966913d1299bc97]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Short title, commencement and extent.[^c-cb76d397402dfe4b7966913d1299bc97][^c-cb76d397402dfe4b7966913d1299bc97]
 
 **No longer in force.**
 
@@ -57,4 +57,4 @@ Agricultural Training Board Act 1985 (repealed)
 
 ## Annotations
 
-[^key-cb76d397402dfe4b7966913d1299bc97]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/36) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-cb76d397402dfe4b7966913d1299bc97]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/36) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2

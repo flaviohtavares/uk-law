@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Revision of the energy administrator’s proposals[^key-111fafb3bab6e61e6c126c3fc78fc11f]
+## 31. Revision of the energy administrator’s proposals[^c-111fafb3bab6e61e6c126c3fc78fc11f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-111fafb3bab6e61e6c126c3fc78fc11f]: Commencement: Rule 31 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-111fafb3bab6e61e6c126c3fc78fc11f]: Commencement: Rule 31 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

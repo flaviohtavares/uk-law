@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Participation in joint inspections[^key-297d092437e426c70b6ab48628cad951][^key-e33d5d03057d33c5f7c9bd231abc4cf1]
+## 116. Participation in joint inspections[^c-297d092437e426c70b6ab48628cad951][^c-e33d5d03057d33c5f7c9bd231abc4cf1]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ to participate in the conduct of a joint inspection to the extent and for the pu
 
 ## Annotations
 
-[^key-297d092437e426c70b6ab48628cad951]: Commencement: S. 116 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-297d092437e426c70b6ab48628cad951]: Commencement: S. 116 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-e33d5d03057d33c5f7c9bd231abc4cf1]: Commencement: S. 116 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-e33d5d03057d33c5f7c9bd231abc4cf1]: Commencement: S. 116 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Publication of schemes[^key-312ff8e157d79d7495a590faa003988e]
+## 45. Publication of schemes[^c-312ff8e157d79d7495a590faa003988e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-312ff8e157d79d7495a590faa003988e]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/42/regulation/45) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-312ff8e157d79d7495a590faa003988e]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/42/regulation/45) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

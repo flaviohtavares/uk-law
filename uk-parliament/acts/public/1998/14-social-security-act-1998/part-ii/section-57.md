@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 57. Collection of contributions by Secretary of State[^key-e5351441f7c4652eaeb116ec81ee8064]
+## 57. Collection of contributions by Secretary of State[^c-e5351441f7c4652eaeb116ec81ee8064]
 
 After paragraph 7A of Schedule 1 to the Contributions and Benefits Act there shall be inserted the following paragraph—
 
@@ -72,6 +72,6 @@ After paragraph 7A of Schedule 1 to the Contributions and Benefits Act there sha
 
 ## Annotations
 
-[^key-e5351441f7c4652eaeb116ec81ee8064]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/1998/14/section/57) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/c)
+[^c-e5351441f7c4652eaeb116ec81ee8064]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/1998/14/section/57) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/c)
 
 [^m00031]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).

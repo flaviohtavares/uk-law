@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Commissioning hospital and other health services[^key-30259060e558980db5e7ab3ecfba83ec][^key-9695aeb2bba73caf563ebb09768a1a83]
+## 21. Commissioning hospital and other health services[^c-30259060e558980db5e7ab3ecfba83ec][^c-9695aeb2bba73caf563ebb09768a1a83]
 
 *Extent: E+W*
 
@@ -73,6 +73,6 @@ For sections 3 and 3A of the National Health Service Act 2006 substitute—
 
 ## Annotations
 
-[^key-30259060e558980db5e7ab3ecfba83ec]: Commencement: S. 21 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-30259060e558980db5e7ab3ecfba83ec]: Commencement: S. 21 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-9695aeb2bba73caf563ebb09768a1a83]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/31/section/21) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-9695aeb2bba73caf563ebb09768a1a83]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/31/section/21) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

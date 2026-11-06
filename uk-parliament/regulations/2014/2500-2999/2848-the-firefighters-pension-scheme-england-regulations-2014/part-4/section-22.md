@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Description of pension[^key-985a250d9ae8d3847d270093ed31d079]
+## 22. Description of pension[^c-985a250d9ae8d3847d270093ed31d079]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For the purpose of this Part, description of pension means any of the followingâ
 
 ## Annotations
 
-[^key-985a250d9ae8d3847d270093ed31d079]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2848/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-985a250d9ae8d3847d270093ed31d079]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2848/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

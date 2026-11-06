@@ -34,7 +34,7 @@ summary: ''
 
 (3) In section 9A(6) of TMA 1970 (notice of enquiry: “the filing date”), for the words from “means” to the end substitute “ means, in relation to a return, the last day for delivering it in accordance with section 8 or 8A. ”
 
-(4)[^key-3c7b8af29b071f550bb652283faa2e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3c7b8af29b071f550bb652283faa2e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 28C of TMA 1970 (determination of tax where no return delivered), for subsection (6) substitute—
 
@@ -46,7 +46,7 @@ summary: ''
 (6) In section 33A of TMA 1970 (error in partnership return)—
 
 - (a) in subsection (1), insert at the end “ for a year of assessment (Year 1), or for a relevant period which ends in Year 1 ”,
-- (b)[^key-f422f1b771e4ba68ed2bf7260d9616a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f422f1b771e4ba68ed2bf7260d9616a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (9), omit the definition of “filing date”, and
 - (d) in that subsection, after the definition of “relevant partner” insert—
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c7b8af29b071f550bb652283faa2e9b]: Textual amendment: S. 91(4) omitted (with effect in accordance with Sch. 22 para. 2(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 22 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/22/paragraph/2/2/b)
+[^c-3c7b8af29b071f550bb652283faa2e9b]: Textual amendment: S. 91(4) omitted (with effect in accordance with Sch. 22 para. 2(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 22 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/22/paragraph/2/2/b)
 
-[^key-f422f1b771e4ba68ed2bf7260d9616a1]: Textual amendment: S. 91(6)(b) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/e); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-f422f1b771e4ba68ed2bf7260d9616a1]: Textual amendment: S. 91(6)(b) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/e); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))

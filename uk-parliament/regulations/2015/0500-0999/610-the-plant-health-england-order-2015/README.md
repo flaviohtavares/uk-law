@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (England) Order 2015 (revoked)[^key-afee4f3eb0706a29a963a10e5fb00045]
+The Plant Health (England) Order 2015 (revoked)[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 1st July 2015
 
-[^key-afee4f3eb0706a29a963a10e5fb00045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afee4f3eb0706a29a963a10e5fb00045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 1 — General[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 1 — Title, commencement, extent and application](part-1/section-1.md)
 - [Section 2 — General interpretation](part-1/section-2.md)
 
-### PART 2 — Imports from third countries[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 2 — Imports from third countries[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -82,7 +82,7 @@ Coming into force
 - [Section 17 — Approved places of inspection](part-2/section-17.md)
 - [Section 18 — Requirements for plant health movement documents](part-2/section-18.md)
 
-### PART 3 — Internal EU controls on movement[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 3 — Internal EU controls on movement[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ Coming into force
 - [Section 23 — Validity of plant passports for England](part-3/section-23.md)
 - [Section 24 — General provisions relating to plant passports](part-3/section-24.md)
 
-### PART 4 — Registration of plant traders and authority to issue plant passports[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 4 — Registration of plant traders and authority to issue plant passports[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -108,7 +108,7 @@ Coming into force
 - [Section 28 — Conditions for maintaining registration as a plant trader and other trade-related conditions](part-4/section-28.md)
 - [Section 29 — Authority to issue plant passports](part-4/section-29.md)
 
-### PART 5 — Swiss trade and Swiss plant passports[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 5 — Swiss trade and Swiss plant passports[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -116,7 +116,7 @@ Coming into force
 
 - [Section 30 — Exceptions to the requirements in articles 6, 7 and 10](part-5/section-30.md)
 
-### PART 6 — Measures to control the landing of relevant material and prevent the spread of plant pests[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 6 — Measures to control the landing of relevant material and prevent the spread of plant pests[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -131,7 +131,7 @@ Coming into force
 - [Section 37 — Failure to comply with a notice](part-6/section-37.md)
 - [Section 38 — Right of entry conferred by a warrant issued by a justice of the peace](part-6/section-38.md)
 
-### PART 7 — Certain solanaceous species: planting and control of relevant plant pests[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 7 — Certain solanaceous species: planting and control of relevant plant pests[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -139,7 +139,7 @@ Coming into force
 
 - [Section 39 — Miscellaneous provisions for certain solanaceous species](part-7/section-39.md)
 
-### PART 8 — Licences[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 8 — Licences[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -148,7 +148,7 @@ Coming into force
 - [Section 40 — Licences to carry out activities prohibited by this Order](part-8/section-40.md)
 - [Section 41 — Licences for trial or scientific purposes or for work on varietal selections permitted by Directive 2008/61/EC](part-8/section-41.md)
 
-### PART 9 — Notifications, provision and exchange of information[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 9 — Notifications, provision and exchange of information[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -159,7 +159,7 @@ Coming into force
 - [Section 44 — Information to be given](part-9/section-44.md)
 - [Section 45 — Power to share information for the purposes of the Order](part-9/section-45.md)
 
-### PART 10 — Offences[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 10 — Offences[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -168,7 +168,7 @@ Coming into force
 - [Section 46 — Offences](part-10/section-46.md)
 - [Section 47 — Penalties](part-10/section-47.md)
 
-### PART 11 — Miscellaneous[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART 11 — Miscellaneous[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -201,12 +201,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-afee4f3eb0706a29a963a10e5fb00045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afee4f3eb0706a29a963a10e5fb00045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-afee4f3eb0706a29a963a10e5fb00045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afee4f3eb0706a29a963a10e5fb00045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afee4f3eb0706a29a963a10e5fb00045]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/610) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51))
+[^c-afee4f3eb0706a29a963a10e5fb00045]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/610) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51))

@@ -153,11 +153,11 @@ summary: ''
 
 (4) In section 308 of ITTOIA 2005 (furnished lettings), in subsection (1)(b), after “expenses” insert “ of a revenue nature ”.
 
-(5)[^key-33717e2376699f9e68916bd1c9a6564a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-33717e2376699f9e68916bd1c9a6564a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 248 of CTA 2009 (furnished lettings), in subsection (1)(b), after “expenses” insert “ of a revenue nature ”.
 
-(7)[^key-389909e8c83d4dc199c1c3ef1278e795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-389909e8c83d4dc199c1c3ef1278e795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The amendments made by this section have effect in relation to expenditure incurred on or after the date in subsection (9).
 
@@ -168,6 +168,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33717e2376699f9e68916bd1c9a6564a]: Textual amendment: S. 73(5) repealed (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 4(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/4/d), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-33717e2376699f9e68916bd1c9a6564a]: Textual amendment: S. 73(5) repealed (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 4(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/4/d), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-389909e8c83d4dc199c1c3ef1278e795]: Textual amendment: S. 73(7) repealed (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 7(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/7/d), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-389909e8c83d4dc199c1c3ef1278e795]: Textual amendment: S. 73(7) repealed (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 7(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/7/d), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

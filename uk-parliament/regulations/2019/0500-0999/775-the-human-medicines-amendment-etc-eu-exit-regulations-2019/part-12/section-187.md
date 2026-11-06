@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Amendment of regulation 229 (exemption for supply by national health services bodies and local authorities)[^M_I_e863559c-f5ec-4daf-f9bf-02c5ee28a2d7][^key-7022a8d0b0b03e507a09b33ca42335ba]
+## 187. Amendment of regulation 229 (exemption for supply by national health services bodies and local authorities)[^M_I_e863559c-f5ec-4daf-f9bf-02c5ee28a2d7][^c-7022a8d0b0b03e507a09b33ca42335ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In regulation 229(3), for sub-paragraph (f) substitute—
 
 [^M_I_e863559c-f5ec-4daf-f9bf-02c5ee28a2d7]: Commencement: Reg. 187 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7022a8d0b0b03e507a09b33ca42335ba]: Textual amendment: Reg. 187 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 141](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/141)
+[^c-7022a8d0b0b03e507a09b33ca42335ba]: Textual amendment: Reg. 187 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 141](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/141)

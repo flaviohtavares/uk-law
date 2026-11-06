@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Interpretation of Chapter 2[^key-3f526952c5442a0644215ce8eab42ff1]
+## 56. Interpretation of Chapter 2[^c-3f526952c5442a0644215ce8eab42ff1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f526952c5442a0644215ce8eab42ff1]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2013/1/section/56) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-3f526952c5442a0644215ce8eab42ff1]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2013/1/section/56) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

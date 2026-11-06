@@ -47,9 +47,9 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (2) In these Regulations—
 
-“the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-0ae1f9a0e7000e2984408b7afe424fe9] [^c1609693];
+“the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-0ae1f9a0e7000e2984408b7afe424fe9] [^c1609693];
 
-“the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-0ae1f9a0e7000e2984408b7afe424fe9] [^c1609694];
+“the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-0ae1f9a0e7000e2984408b7afe424fe9] [^c1609694];
 
 “the Income Support Regulations" means the Income Support (General) Regulations 1987 [^c1609695];
 
@@ -68,8 +68,8 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (2) The paragraphs specified for the purposes of paragraph (1) of this regulation are—
 
-- (a)[^key-430fb1c55072a7c90b560ecf092b96f0] paragraph 10 of Schedule 4 to the Council Tax Benefit Regulations; *(affected by repeal, see note)*[^key-430fb1c55072a7c90b560ecf092b96f0]
-- (b) paragraph 10 of Schedule 4 to the Housing Benefit Regulations; *(affected by repeal, see note)*[^key-430fb1c55072a7c90b560ecf092b96f0]
+- (a)[^c-430fb1c55072a7c90b560ecf092b96f0] paragraph 10 of Schedule 4 to the Council Tax Benefit Regulations; *(affected by repeal, see note)*[^c-430fb1c55072a7c90b560ecf092b96f0]
+- (b) paragraph 10 of Schedule 4 to the Housing Benefit Regulations; *(affected by repeal, see note)*[^c-430fb1c55072a7c90b560ecf092b96f0]
 - (c) paragraph 11 of Schedule 9 to the Income Support Regulations;
 - (d) paragraph 12 of Schedule 7 to the Jobseeker’s Allowance Regulations.
 
@@ -77,10 +77,10 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “Any education maintenance allowance payable by virtue of regulations made under section 518 of the Education Act 1996 (payment of school expenses; grant of scholarships etc.) which is payable as a termly bonus or as an achievement bonus at the end of an academic term but only for a period of 52 weeks from the date of receipt of that allowance.".
 
-(4)[^key-4d94cea193f386f5a72f24521dacd328] The paragraphs specified for the purposes of paragraph (3) of this regulation are–
+(4)[^c-4d94cea193f386f5a72f24521dacd328] The paragraphs specified for the purposes of paragraph (3) of this regulation are–
 
-- (a)[^key-87326d7359243a58548c33e8069e374d] paragraph 60 of Schedule 5 to the Council Tax Benefit Regulations; *(affected by repeal, see note)*[^key-87326d7359243a58548c33e8069e374d]
-- (b) paragraph 60 of Schedule 5 to the Housing Benefit Regulations; *(affected by repeal, see note)*[^key-87326d7359243a58548c33e8069e374d]
+- (a)[^c-87326d7359243a58548c33e8069e374d] paragraph 60 of Schedule 5 to the Council Tax Benefit Regulations; *(affected by repeal, see note)*[^c-87326d7359243a58548c33e8069e374d]
+- (b) paragraph 60 of Schedule 5 to the Housing Benefit Regulations; *(affected by repeal, see note)*[^c-87326d7359243a58548c33e8069e374d]
 - (c) paragraph 57 of Schedule 10 to the Income Support Regulations;
 - (d) paragraph 52 of Schedule 8 to the Jobseeker’s Allowance Regulations.
 
@@ -116,7 +116,7 @@ These Regulations do not impose a charge on business.
 
 [^c1609692]: Marginal citation: *See* sections 170 and 173(1)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); paragraph 67 of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments" in respect of which regulations must normally be referred to the Committee.
 
-[^key-0ae1f9a0e7000e2984408b7afe424fe9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/55/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-0ae1f9a0e7000e2984408b7afe424fe9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/55/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1609693]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814).
 
@@ -132,12 +132,12 @@ These Regulations do not impose a charge on business.
 
 [^c1609699]: Marginal citation: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
 
-[^key-430fb1c55072a7c90b560ecf092b96f0]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/2/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-430fb1c55072a7c90b560ecf092b96f0]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/2/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1609700]: Marginal citation: The Schedules specified in paragraph (4) were modified to include the paragraphs preceding those specified in that paragraph by [S.I. 1998/2825](https://www.legislation.gov.uk/uksi/1998/2825).
 
-[^key-4d94cea193f386f5a72f24521dacd328]: Textual amendment: Reg. 2(4) substituted (3.4.2000) by [The Social Security (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/681)](https://www.legislation.gov.uk/uksi/2000/681), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2000/681/regulation/1/1/c), [9](https://www.legislation.gov.uk/uksi/2000/681/regulation/9)
+[^c-4d94cea193f386f5a72f24521dacd328]: Textual amendment: Reg. 2(4) substituted (3.4.2000) by [The Social Security (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/681)](https://www.legislation.gov.uk/uksi/2000/681), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2000/681/regulation/1/1/c), [9](https://www.legislation.gov.uk/uksi/2000/681/regulation/9)
 
-[^key-87326d7359243a58548c33e8069e374d]: Textual amendment: [Reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/4/a)[(b)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/4/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-87326d7359243a58548c33e8069e374d]: Textual amendment: [Reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/4/a)[(b)](https://www.legislation.gov.uk/uksi/2000/55/regulation/2/4/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1609701]: Marginal citation: [S.I. 1999/1677](https://www.legislation.gov.uk/uksi/1999/1677).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Deputy Clerks of the Sexual Offences Court[^key-c73e47eb4ded8c46db21205fc9379221]
+## 87. Deputy Clerks of the Sexual Offences Court[^c-c73e47eb4ded8c46db21205fc9379221]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ as the Scottish Courts and Tribunals Service may determine.
 
 ## Annotations
 
-[^key-c73e47eb4ded8c46db21205fc9379221]: Commencement: S. 87 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-c73e47eb4ded8c46db21205fc9379221]: Commencement: S. 87 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

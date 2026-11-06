@@ -41,17 +41,17 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 3(2), (3) and (7) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3889d0f18cd5c23b8695a545a2f17ac0]
+## 1. Citation, commencement and interpretation[^c-3889d0f18cd5c23b8695a545a2f17ac0]
 
 (1) These Regulations may be cited as the Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 14th February 2001.
 
 (2) In these Regulations any reference to a numbered regulation is a reference to the regulation in the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00003] bearing that number.
 
-## 2. Amendment of regulation 2[^key-4ce16cc75c6764687427506faf48e486]
+## 2. Amendment of regulation 2[^c-4ce16cc75c6764687427506faf48e486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 3[^key-bd7f13150c083ef0b4d2f5503dd14b96]
+## 3. Amendment of regulation 3[^c-bd7f13150c083ef0b4d2f5503dd14b96]
 
 (1) Regulation 3 (requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes) shall be amended in accordance with paragraphs (2) to (4).
 
@@ -78,7 +78,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-## 4. Amendment of regulation 4[^key-5775e6557fc51a2ad5ccff8ff5ee09bf]
+## 4. Amendment of regulation 4[^c-5775e6557fc51a2ad5ccff8ff5ee09bf]
 
 (1) Regulation 4 (additional requirements as regards instruments establishing a stakeholder pension scheme established under a trust) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -86,7 +86,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) In paragraph (3) for “The trust instruments” there shall be substituted “The instruments establishing a stakeholder pension scheme established under a trust (“the trust instruments”)”.
 
-## 5. Revocation of regulation 5[^key-b52bb00b70e5aa26fce73bf65b30deb0]
+## 5. Revocation of regulation 5[^c-b52bb00b70e5aa26fce73bf65b30deb0]
 
 Regulation 5 (additional requirements as regards instruments establishing a stakeholder pension scheme not established under a trust) shall be omitted.
 
@@ -117,14 +117,14 @@ The Regulations also make consequential amendments (regulation 3(3), 4 and 5).
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-3889d0f18cd5c23b8695a545a2f17ac0]: Commencement: Reg. 1 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
+[^c-3889d0f18cd5c23b8695a545a2f17ac0]: Commencement: Reg. 1 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262)
 
-[^key-4ce16cc75c6764687427506faf48e486]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/13/regulation/2) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/72)](https://www.legislation.gov.uk/nisr/2013/72), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/72/regulation/1/1), [10(b)](https://www.legislation.gov.uk/nisr/2013/72/regulation/10/b)
+[^c-4ce16cc75c6764687427506faf48e486]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/13/regulation/2) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/72)](https://www.legislation.gov.uk/nisr/2013/72), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/72/regulation/1/1), [10(b)](https://www.legislation.gov.uk/nisr/2013/72/regulation/10/b)
 
-[^key-bd7f13150c083ef0b4d2f5503dd14b96]: Commencement: Reg. 3 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
+[^c-bd7f13150c083ef0b4d2f5503dd14b96]: Commencement: Reg. 3 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
 
-[^key-5775e6557fc51a2ad5ccff8ff5ee09bf]: Commencement: Reg. 4 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
+[^c-5775e6557fc51a2ad5ccff8ff5ee09bf]: Commencement: Reg. 4 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
 
-[^key-b52bb00b70e5aa26fce73bf65b30deb0]: Commencement: Reg. 5 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
+[^c-b52bb00b70e5aa26fce73bf65b30deb0]: Commencement: Reg. 5 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)

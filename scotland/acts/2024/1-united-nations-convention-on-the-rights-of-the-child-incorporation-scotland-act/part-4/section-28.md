@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Ministerial action following strike down declarator or incompatibility declarator[^key-ca21e1fa0b89989e8db06fb3bbce4d27]
+## 28. Ministerial action following strike down declarator or incompatibility declarator[^c-ca21e1fa0b89989e8db06fb3bbce4d27]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca21e1fa0b89989e8db06fb3bbce4d27]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/1/section/28) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-ca21e1fa0b89989e8db06fb3bbce4d27]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/1/section/28) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

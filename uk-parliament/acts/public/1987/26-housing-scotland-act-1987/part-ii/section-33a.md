@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33A. Power to modify section 33[^key-ea57b7d98ae9f578d4844c0f9099d37c]
+## 33A. Power to modify section 33[^c-ea57b7d98ae9f578d4844c0f9099d37c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ as the Scottish Ministers think necessary or expedient in consequence of the ord
 
 ## Annotations
 
-[^key-ea57b7d98ae9f578d4844c0f9099d37c]: Textual amendment: Ss. 33A, 33B inserted (7.11.2019) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 8](https://www.legislation.gov.uk/asp/2003/10/section/8), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2019/316](https://www.legislation.gov.uk/ssi/2019/316), [art. 2](https://www.legislation.gov.uk/ssi/2019/316/article/2)
+[^c-ea57b7d98ae9f578d4844c0f9099d37c]: Textual amendment: Ss. 33A, 33B inserted (7.11.2019) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 8](https://www.legislation.gov.uk/asp/2003/10/section/8), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2019/316](https://www.legislation.gov.uk/ssi/2019/316), [art. 2](https://www.legislation.gov.uk/ssi/2019/316/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8C. Power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement[^key-dce46d68051a70a4476fbc59d36e5e33]
+## 8C. Power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement[^c-dce46d68051a70a4476fbc59d36e5e33]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ in respect of qualifying Northern Ireland goods.
 
 (5) Regulations under subsection (1) may (among other things) restate, for the purposes of making the law clearer or more accessible, anything that forms part of domestic law by virtue of section 7A and the Protocol.
 
-(5A)[^key-421f3ed8bcf49df68fce96d8567193fc] Regulations under subsection (1) may not amend, repeal or otherwise modify the operation of section 47 of the United Kingdom Internal Market Act 2020 (“**the 2020 Act**”), except by making—
+(5A)[^c-421f3ed8bcf49df68fce96d8567193fc] Regulations under subsection (1) may not amend, repeal or otherwise modify the operation of section 47 of the United Kingdom Internal Market Act 2020 (“**the 2020 Act**”), except by making—
 
 - (a) provision of the sort that is contemplated by section 47(2) of the 2020 Act (permitted checks);
 - (b) provision under subsection (6);
@@ -58,6 +58,6 @@ but does not include the second sentence of Article 11(1) of the Protocol (which
 
 ## Annotations
 
-[^key-dce46d68051a70a4476fbc59d36e5e33]: Textual amendment: S. 8C inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2020/1/section/21), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/i)
+[^c-dce46d68051a70a4476fbc59d36e5e33]: Textual amendment: S. 8C inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2020/1/section/21), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/i)
 
-[^key-421f3ed8bcf49df68fce96d8567193fc]: Textual amendment: [S. 8C(5A)](https://www.legislation.gov.uk/ukpga/2018/16/section/8C/5A) inserted (31.12.2020) by [United Kingdom Internal Market Act 2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/3), [59(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/59/3) (with [s. 55(1)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/1)); [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/l)
+[^c-421f3ed8bcf49df68fce96d8567193fc]: Textual amendment: [S. 8C(5A)](https://www.legislation.gov.uk/ukpga/2018/16/section/8C/5A) inserted (31.12.2020) by [United Kingdom Internal Market Act 2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/3), [59(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/59/3) (with [s. 55(1)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/1)); [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/l)

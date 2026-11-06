@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Power to apply or disapply provision made by or under FSMA 2000[^key-9c4c8cce3524c11ad7cc168e71c0f4cf]
+## 52. Power to apply or disapply provision made by or under FSMA 2000[^c-9c4c8cce3524c11ad7cc168e71c0f4cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c4c8cce3524c11ad7cc168e71c0f4cf]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2012/21/section/52) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-9c4c8cce3524c11ad7cc168e71c0f4cf]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2012/21/section/52) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

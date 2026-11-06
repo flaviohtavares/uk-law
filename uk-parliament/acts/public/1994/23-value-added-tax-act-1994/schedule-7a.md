@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-### Part 1 — INDEX TO REDUCED-RATE SUPPLIES OF GOODS AND SERVICES[^key-fc0b7b940333edbf310d6c70ffe325fe][^key-15c6ba27ba2417370ffc427749e345f9]
+### Part 1 — INDEX TO REDUCED-RATE SUPPLIES OF GOODS AND SERVICES[^c-fc0b7b940333edbf310d6c70ffe325fe][^c-15c6ba27ba2417370ffc427749e345f9]
 
 |  |  |
 | --- | --- |
-| Cable-suspended passenger transport systems[^key-82e9c2e114bb71a4e574127769e36e1a] | Group 13 |
-| Caravans[^key-a56aa40059ef2cb11717112dd18aa7b0] | Group 12 |
+| Cable-suspended passenger transport systems[^c-82e9c2e114bb71a4e574127769e36e1a] | Group 13 |
+| Caravans[^c-a56aa40059ef2cb11717112dd18aa7b0] | Group 12 |
 | Children’s car seats.................... | Group 5 |
-| Contraceptive products[^key-6bc68da678289fba84831fe82e8c5173] | Group 8 |
-| Course of catering[^key-52c494582bd1cc04c8fa553a57e135c7] | Group 14 |
+| Contraceptive products[^c-6bc68da678289fba84831fe82e8c5173] | Group 8 |
+| Course of catering[^c-52c494582bd1cc04c8fa553a57e135c7] | Group 14 |
 | Domestic fuel or power.................... | Group 1 |
-| Installation of energy-saving materials from 1st April 2027[^key-cc562521abd893c4210b9f88960c386c] .................... | Group 2 |
+| Installation of energy-saving materials from 1st April 2027[^c-cc562521abd893c4210b9f88960c386c] .................... | Group 2 |
 | Heating equipment, security goods and gas supplies: grant-funded installation or connection.................... | Group 3 |
 | Holiday accommodation etc | Group 15 |
 | Installation of mobility aids for the elderly[^M_F_a6e0f320-69a3-4120-bf80-aa206564b41b] | Group 10 |
@@ -38,10 +38,10 @@ summary: ''
 | Residential conversions.................... | Group 6 |
 | Shows and certain other attractions | Group 16 |
 | Smoking cessation products[^M_F_8e078f22-586c-44f7-bce6-4d5ecff8d7fc] | Group 11 |
-| Welfare advice or information[^key-41aca3626265558dbb73ea3d71454667] | Group 9 |
-| [^key-524ed97ac724e9ab07289ca20fb15d55]. . . | [^key-524ed97ac724e9ab07289ca20fb15d55]. . . |
+| Welfare advice or information[^c-41aca3626265558dbb73ea3d71454667] | Group 9 |
+| [^c-524ed97ac724e9ab07289ca20fb15d55]. . . | [^c-524ed97ac724e9ab07289ca20fb15d55]. . . |
 
-### Part 2 — THE GROUPS[^key-7f95b4c3f93704df3bdff4f1e3adf5cb][^key-c05c57643d200a26e9f430cd4d730231][^key-13a69172fed9cb3e124f8309c62f2b5e][^key-3e6fdd40ee1d1601f25ca7913a368c59]
+### Part 2 — THE GROUPS[^c-7f95b4c3f93704df3bdff4f1e3adf5cb][^c-c05c57643d200a26e9f430cd4d730231][^c-13a69172fed9cb3e124f8309c62f2b5e][^c-3e6fdd40ee1d1601f25ca7913a368c59]
 
 #### Group 1 — Supplies of domestic fuel or power
 
@@ -63,10 +63,10 @@ NOTES:
 
 (2) Item 1(b) and (c) shall not include any road fuel gas (within the meaning of the Hydrocarbon Oil Duties Act 1979 (c. 5)) on which a duty of excise has been charged or is chargeable.
 
-(3) Item 1(d) shall not include hydrocarbon oil on which a duty of excise has been or is to be charged without relief from, or rebate of, such duty by virtue of the provisions of the Hydrocarbon Oil Duties Act 1979 , unless the oil is—[^key-55eedc2027694aa5ea4c528b2b0c945e]
+(3) Item 1(d) shall not include hydrocarbon oil on which a duty of excise has been or is to be charged without relief from, or rebate of, such duty by virtue of the provisions of the Hydrocarbon Oil Duties Act 1979 , unless the oil is—[^c-55eedc2027694aa5ea4c528b2b0c945e]
 
-- (a) kerosene in respect of which a relevant declaration has been made under section 13AC(3) of that Act (use of rebated kerosene for private pleasure-flying); or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-0242f68487c1eead4fa16f1cb96c710d]
-- (b) oil in respect of which a relevant declaration has been made under section 14E(3) of that Act (use of rebated heavy oil for private pleasure craft) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-0242f68487c1eead4fa16f1cb96c710d]
+- (a) kerosene in respect of which a relevant declaration has been made under section 13AC(3) of that Act (use of rebated kerosene for private pleasure-flying); or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-0242f68487c1eead4fa16f1cb96c710d]
+- (b) oil in respect of which a relevant declaration has been made under section 14E(3) of that Act (use of rebated heavy oil for private pleasure craft) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-0242f68487c1eead4fa16f1cb96c710d]
 
 ##### 2. Meaning of “fuel oil”, “gas oil” and “kerosene”
 
@@ -132,48 +132,48 @@ except use as a hospital, a prison or similar institution or an hotel or inn or 
 
 (3) In paragraph 6 “**houseboat**” means a boat or other floating decked structure designed or adapted for use solely as a place of permanent habitation and not having means of, or capable of being readily adapted for, self-propulsion.
 
-#### Group 2 — Installation of energy-saving materials from 1st April 2027[^key-3bf7bf8bdc0c6d3da564a368dffc68d4]
+#### Group 2 — Installation of energy-saving materials from 1st April 2027[^c-3bf7bf8bdc0c6d3da564a368dffc68d4]
 
-**1.**[^key-bbd96363d09b0effc96e0781cb637dbf] Relevant supplies of services of installing energy-saving materials in —[^key-421460179470da1ff1561371795a67cb]
-
-- (a) residential accommodation, or
-- (b) a building intended for use solely for a relevant charitable purpose.
-
-**2.** Relevant supplies of energy-saving materials by a person who installs those materials in —[^key-2fd272c63a788449fcf952dd8a376a5b]
+**1.**[^c-bbd96363d09b0effc96e0781cb637dbf] Relevant supplies of services of installing energy-saving materials in —[^c-421460179470da1ff1561371795a67cb]
 
 - (a) residential accommodation, or
 - (b) a building intended for use solely for a relevant charitable purpose.
 
-**3.**[^key-b53f3ef1e082948ace81d4f69a44cd86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.** Relevant supplies of energy-saving materials by a person who installs those materials in —[^c-2fd272c63a788449fcf952dd8a376a5b]
+
+- (a) residential accommodation, or
+- (b) a building intended for use solely for a relevant charitable purpose.
+
+**3.**[^c-b53f3ef1e082948ace81d4f69a44cd86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 NOTES:
 
-##### A1. ...[^key-12624e01eee7e4cd4e9582dd6f3c3faa][^key-12624e01eee7e4cd4e9582dd6f3c3faa]
+##### A1. ...[^c-12624e01eee7e4cd4e9582dd6f3c3faa][^c-12624e01eee7e4cd4e9582dd6f3c3faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 1. Meaning of “energy-saving materials”
 
-(1)[^key-6dce4028bd0c613c79c8d4ed4daca01b] For the purposes of this Group “**energy-saving materials**” means any of the following—
+(1)[^c-6dce4028bd0c613c79c8d4ed4daca01b] For the purposes of this Group “**energy-saving materials**” means any of the following—
 
 - (a) insulation for walls, floors, ceilings, roofs or lofts or for water tanks, pipes or other plumbing fittings;
 - (b) draught stripping for windows and doors;
 - (c) central heating system controls (including thermostatic radiator valves);
 - (d) hot water system controls;
 - (e) solar panels;
-- (f)[^key-fb05f48dbe0e792fd701f6b478a75a42] wind turbines;
+- (f)[^c-fb05f48dbe0e792fd701f6b478a75a42] wind turbines;
 - (g) water turbines;
-- (f)[^key-91010cc760e7f763d518458fc1caf7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-91010cc760e7f763d518458fc1caf7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-986026b91ff14c10b9a56981fb2c2f92] ground source heat pumps;
+- (f)[^c-91010cc760e7f763d518458fc1caf7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-91010cc760e7f763d518458fc1caf7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-986026b91ff14c10b9a56981fb2c2f92] ground source heat pumps;
 - (i)[^M_F_76e79ae3-49a7-48fb-853a-4b11b6440c33] micro combined heat and power units. air source heat pumps;
-- (ia)[^key-15a0d0c7c83e8f68e4d8c9ca2a6369bc] water source heat pumps;
+- (ia)[^c-15a0d0c7c83e8f68e4d8c9ca2a6369bc] water source heat pumps;
 - (j) micro combined heat and power units;
-- (k)[^key-b102f3d7147c241ba86afc08dc5f3c7f] boilers designed to be fuelled solely by wood, straw or similar vegetal matter.
-- (l)[^key-d6d20db707165bc8f1a552a80904db5c] electrical storage batteries within sub-paragraph (2);
+- (k)[^c-b102f3d7147c241ba86afc08dc5f3c7f] boilers designed to be fuelled solely by wood, straw or similar vegetal matter.
+- (l)[^c-d6d20db707165bc8f1a552a80904db5c] electrical storage batteries within sub-paragraph (2);
 - (m) smart diverters.
 
-(2)[^key-844470897a10ca31ff0f8850b87ee0cc] An electrical storage battery is within this sub-paragraph if it is intended for use solely for storing energy converted from electricity that was—
+(2)[^c-844470897a10ca31ff0f8850b87ee0cc] An electrical storage battery is within this sub-paragraph if it is intended for use solely for storing energy converted from electricity that was—
 
 - (a) supplied to the residential accommodation or building in question, or
 - (b) generated by a microgeneration system.
@@ -187,7 +187,7 @@ NOTES:
 - (a) that generates electricity, and
 - (b) that is itself an energy-saving material for the purposes of this Group.
 
-##### 1A. Installation of heat pumps[^key-81966b98a3a85fb35ec57bae20925274]
+##### 1A. Installation of heat pumps[^c-81966b98a3a85fb35ec57bae20925274]
 
 For the purposes of item 1, “**installing energy-saving materials**” includes carrying out groundworks, or dredging a body of water, in order to install pipework or other equipment necessary for the operation of a ground source heat pump or a water source heat pump.
 
@@ -204,26 +204,26 @@ For the purposes of item 1, “**installing energy-saving materials**” include
 
 (3) In sub-paragraph (1)(d) “**houseboat**” has the meaning given by paragraph 7(3) of the Notes to Group 1.
 
-##### 3. Meaning of “use for a relevant charitable purpose”[^key-f5d6107667b3390dee91db052c3310a9]
+##### 3. Meaning of “use for a relevant charitable purpose”[^c-f5d6107667b3390dee91db052c3310a9]
 
 For the purposes of this Group a building is used “for a relevant charitable purpose” if it is used by a charity—
 
 - (a) otherwise than in the course or furtherance of a business, or
 - (b) as a village hall or similarly in providing social or recreational facilities for a local community.
 
-##### 3. Meaning of “use for a relevant charitable purpose”[^key-fe1dea2201437ea6652e11d9c9c78778]
+##### 3. Meaning of “use for a relevant charitable purpose”[^c-fe1dea2201437ea6652e11d9c9c78778]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. ...[^key-db49bbcd2bd9cffac2316586f46a5d93][^key-db49bbcd2bd9cffac2316586f46a5d93]
+##### 4. ...[^c-db49bbcd2bd9cffac2316586f46a5d93][^c-db49bbcd2bd9cffac2316586f46a5d93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 5. ...[^key-da43ca415f591b49d6c88cb95649e54b][^key-da43ca415f591b49d6c88cb95649e54b]
+##### 5. ...[^c-da43ca415f591b49d6c88cb95649e54b][^c-da43ca415f591b49d6c88cb95649e54b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6. Meaning of “relevant supplies”[^key-a460a67d48d62257bc9a7ec5e7664dc2]
+##### 6. Meaning of “relevant supplies”[^c-a460a67d48d62257bc9a7ec5e7664dc2]
 
 For the purposes of this Group “**relevant supplies**” means supplies made on or after 1st April 2027.
 
@@ -247,9 +247,9 @@ ITEM NO.
 
 **8.** Supplies of goods that form the whole or part of a central heating system installed in a qualifying person’s sole or main residence and that, immediately before being supplied, were goods leased under arrangements such that the consideration for the supplies consisting in the leasing of the goods was, in whole or in part, funded by a grant made under a relevant scheme.
 
-**8A.**[^c17121641] Supplies , so far as not falling within Group 23 in Schedule 8,[^key-6112546ca9fb10ea512616a521c8090f] to a qualifying person of services of installing, maintaining or repairing a renewable source heating system in the qualifying person’s sole or main residence.
+**8A.**[^c17121641] Supplies , so far as not falling within Group 23 in Schedule 8,[^c-6112546ca9fb10ea512616a521c8090f] to a qualifying person of services of installing, maintaining or repairing a renewable source heating system in the qualifying person’s sole or main residence.
 
-**8B.** Supplies , so far as not falling within Group 23 in Schedule 8,[^key-2b8fcee29b820bec86918cf19fd9b84c] of goods made to a qualifying person by a person installing, maintaining or repairing a renewable source heating system in the qualifying person’s sole or main residence, being goods whose installation is necessary for the installation, maintenance or repair of the system.
+**8B.** Supplies , so far as not falling within Group 23 in Schedule 8,[^c-2b8fcee29b820bec86918cf19fd9b84c] of goods made to a qualifying person by a person installing, maintaining or repairing a renewable source heating system in the qualifying person’s sole or main residence, being goods whose installation is necessary for the installation, maintenance or repair of the system.
 
 **9.** Supplies to a qualifying person of services of installing qualifying security goods in the qualifying person’s sole or main residence.
 
@@ -278,7 +278,7 @@ NOTES:
 - (b) by the Scottish Ministers,
 - (c) by the National Assembly for Wales,
 - (d) by a Minister (within the meaning given by section 7(3) of the Northern Ireland Act 1998 (c. 47)) or a Northern Ireland department,
-- (e)[^key-34259ed81649c0a7cf9fc10ba1e01d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-34259ed81649c0a7cf9fc10ba1e01d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) under an arrangement approved by the Gas and Electricity Markets Authority,
 - (g) under an arrangement approved by the Director General of Electricity Supply for Northern Ireland, or
 - (h) by a local authority.
@@ -337,13 +337,13 @@ For the purposes of items 9 and 10 “**qualifying security goods**” means any
 
 - (a) council tax benefit under Part 7 of the Contributions and Benefits Act;
 - (b) disability living allowance under Part 3 of the Contributions and Benefits Act or Part 3 of the Northern Ireland Act;
-- (c) any element of child tax credit other than the family element, working tax credit,[^key-fa8dbdd8869a2159dec5a626a30585b0] housing benefit or income support under Part 7 of the Contributions and Benefits Act or Part 7 of the Northern Ireland Act;
+- (c) any element of child tax credit other than the family element, working tax credit,[^c-fa8dbdd8869a2159dec5a626a30585b0] housing benefit or income support under Part 7 of the Contributions and Benefits Act or Part 7 of the Northern Ireland Act;
 - (d) an income-based jobseeker’s allowance within the meaning of section 1(4) of the Jobseekers Act 1995 (c. 18) or Article 3(4) of the Jobseekers (Northern Ireland) Order 1995 (S.I. 1995/275 (N.I. 15));
 - (e) disablement pension under Part 5 of the Contributions and Benefits Act, or Part 5 of the Northern Ireland Act, that is payable at the increased rate provided for under section 104 (constant attendance allowance) of the Act concerned;
 - (f) war disablement pension under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983 (S.I. 1983/883) that is payable at the increased rate provided for under article 14 (constant attendance allowance) or article 26A (mobility supplement) of that Order.
-- (g)[^key-ca17965ba6c4641106b85deeb0e8d67c] personal independence payment under Part 4 of the Welfare Reform Act 2012 or the corresponding provision having effect in Northern Ireland;
+- (g)[^c-ca17965ba6c4641106b85deeb0e8d67c] personal independence payment under Part 4 of the Welfare Reform Act 2012 or the corresponding provision having effect in Northern Ireland;
 - (h) armed forces independence payment under a scheme established under section 1 of the Armed Forces (Pensions and Compensation) Act 2004.
-- (i)[^key-a6d6710e528104e56561d3a94f6cf003] universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015 *(Extent: N.I.)*[^M_F_b0cc6a47-ab71-4037-9e42-caf3768838e3].
+- (i)[^c-a6d6710e528104e56561d3a94f6cf003] universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015 *(Extent: N.I.)*[^M_F_b0cc6a47-ab71-4037-9e42-caf3768838e3].
 
 (3) In sub-paragraph (2)—
 
@@ -352,9 +352,9 @@ For the purposes of items 9 and 10 “**qualifying security goods**” means any
 
 #### Group 4 — Women’s sanitary products
 
-[^key-7c5151de124e0e7710a76cbd1dd75ee1]
+[^c-7c5151de124e0e7710a76cbd1dd75ee1]
 
-[^key-7c5151de124e0e7710a76cbd1dd75ee1]
+[^c-7c5151de124e0e7710a76cbd1dd75ee1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -371,7 +371,7 @@ NOTES:
 (1) For the purposes of this Group, the following are “**children’s car seats**”—
 
 - (a) a safety seat;
-- (aa)[^key-2c690b87fec11cb05df70dc1b73a23c5] a related base unit for a safety seat;
+- (aa)[^c-2c690b87fec11cb05df70dc1b73a23c5] a related base unit for a safety seat;
 - (b) the combination of a safety seat and a related wheeled framework;
 - (c) a booster seat;
 - (d) a booster cushion.
@@ -383,13 +383,13 @@ NOTES:
 In this Group “**safety seat**” means a seat—
 
 - (a) designed to be sat in by a child in a road vehicle,
-- (b)[^key-822ccb5399450f4a2ceaf923d50788d0] designed so that, when in use in a road vehicle, it can be restrained in one or more of the following ways—
+- (b)[^c-822ccb5399450f4a2ceaf923d50788d0] designed so that, when in use in a road vehicle, it can be restrained in one or more of the following ways—
   - (i) by a seat belt fitted in the vehicle, or
   - (ii) by belts, or anchorages, that form part of the seat being attached to the vehicle, or
   - (iii) by a related base unit, and
 - (c) incorporating an integral harness, or integral impact shield, for restraining a child seated in it.
 
-##### 2A. Meaning of “related base unit”[^key-47cb3322cdc491a687d1433143622297]
+##### 2A. Meaning of “related base unit”[^c-47cb3322cdc491a687d1433143622297]
 
 In this Group “related base unit” means a base unit which is designed solely for the purpose of attaching a safety seat securely in a road vehicle by means of anchorages that form part of the base unit and which, when in use in a road vehicle, can be restrained in one or more of the following ways—
 
@@ -665,7 +665,7 @@ ITEM NO.
 - “single household dwelling”(paragraph 4(1) of the Notes);
 - “use for a relevant residential purpose”(paragraph 6 of the Notes).
 
-##### 3. Items 1 and 2 only apply where premises have been empty for at least 2 years[^c17512221][^key-abf4d6c6f618708689eff5801d9f0d77]
+##### 3. Items 1 and 2 only apply where premises have been empty for at least 2 years[^c17512221][^c-abf4d6c6f618708689eff5801d9f0d77]
 
 (1)[^c17512281] Item 1 or 2 does not apply to a supply unless—
 
@@ -753,7 +753,7 @@ then each of those buildings, to the extent that it would not be so regarded oth
 
 In this Group “**building materials**” has the meaning given by Notes (22) and (23) of Group 5 to Schedule 8 (zero-rating of construction and conversion of buildings).
 
-#### Group 8— CONTRACEPTIVE PRODUCTS[^key-84f531e14bf616c77a8127a25bf7c586]
+#### Group 8— CONTRACEPTIVE PRODUCTS[^c-84f531e14bf616c77a8127a25bf7c586]
 
 ITEM NO.
 
@@ -827,7 +827,7 @@ ITEM NO.
 
 **1.** Supplies of pharmaceutical products designed to help people to stop smoking tobacco.
 
-#### GROUP 12 — CARAVANS[^key-717c32e1d683ec5d57192b0c2c849cfc]
+#### GROUP 12 — CARAVANS[^c-717c32e1d683ec5d57192b0c2c849cfc]
 
 ##### 1. Item No
 
@@ -840,7 +840,7 @@ NOTE: This Group does not include—
 - (a) removable contents other than goods of a kind mentioned in item 4 of Group 5 of Schedule 8, or
 - (b) the supply of accommodation in a caravan.
 
-#### GROUP 13 — CABLE-SUSPENDED PASSENGER TRANSPORT SYSTEMS[^key-f610c1b2cfb63a46f4628f8207ab188f]
+#### GROUP 13 — CABLE-SUSPENDED PASSENGER TRANSPORT SYSTEMS[^c-f610c1b2cfb63a46f4628f8207ab188f]
 
 Item No.
 
@@ -857,7 +857,7 @@ NOTES:
   by the person, or a person connected with that person, who supplies a right of admission to, or a right to use facilities at, such a place.
 - For the purposes of Note 1 any question as to whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010.
 
-#### Group 14 — Course of Catering[^key-fdc1e1c6761abcb73e2f76becaaccd17]
+#### Group 14 — Course of Catering[^c-fdc1e1c6761abcb73e2f76becaaccd17]
 
 Item No
 
@@ -888,111 +888,111 @@ Item No
 
 [^c15298941]: Textual amendment: Sch. 7A inserted (11.5.2001 with effect as mentioned in [s. 99(7)(a)](https://www.legislation.gov.uk/ukpga/2001/9/section/99/7/a) of the amending Act) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 99(5)(7)(a)](https://www.legislation.gov.uk/ukpga/2001/9/section/99/5/7/a), [Sch. 31 Pt. 1 para. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/31/part/1/paragraph/1)
 
-[^key-fc0b7b940333edbf310d6c70ffe325fe]: Modification: [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) modified (temp. until 30.9.2021) (15.7.2020) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1-3](https://www.legislation.gov.uk/uksi/2020/728/article/1) (as amended (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92), [93](https://www.legislation.gov.uk/ukpga/2021/26/section/93))
+[^c-fc0b7b940333edbf310d6c70ffe325fe]: Modification: [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) modified (temp. until 30.9.2021) (15.7.2020) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1-3](https://www.legislation.gov.uk/uksi/2020/728/article/1) (as amended (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92), [93](https://www.legislation.gov.uk/ukpga/2021/26/section/93))
 
-[^key-15c6ba27ba2417370ffc427749e345f9]: Modification: [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) modified (25.6.2026) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) Order 2026 (S.I. 2026/576)](https://www.legislation.gov.uk/uksi/2026/576), [arts. 1](https://www.legislation.gov.uk/uksi/2026/576/article/1), [3](https://www.legislation.gov.uk/uksi/2026/576/article/3)
+[^c-15c6ba27ba2417370ffc427749e345f9]: Modification: [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) modified (25.6.2026) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) Order 2026 (S.I. 2026/576)](https://www.legislation.gov.uk/uksi/2026/576), [arts. 1](https://www.legislation.gov.uk/uksi/2026/576/article/1), [3](https://www.legislation.gov.uk/uksi/2026/576/article/3)
 
-[^key-82e9c2e114bb71a4e574127769e36e1a]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (1.4.2013) by [The Value Added Tax (Reduced Rate) (Cable-Suspended Passenger Transport Systems) Order 2013 (S.I. 2013/430)](https://www.legislation.gov.uk/uksi/2013/430), [arts. 1](https://www.legislation.gov.uk/uksi/2013/430/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/430/article/2/2)
+[^c-82e9c2e114bb71a4e574127769e36e1a]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (1.4.2013) by [The Value Added Tax (Reduced Rate) (Cable-Suspended Passenger Transport Systems) Order 2013 (S.I. 2013/430)](https://www.legislation.gov.uk/uksi/2013/430), [arts. 1](https://www.legislation.gov.uk/uksi/2013/430/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/430/article/2/2)
 
-[^key-a56aa40059ef2cb11717112dd18aa7b0]: Textual amendment: Words in [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) inserted (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/2)
+[^c-a56aa40059ef2cb11717112dd18aa7b0]: Textual amendment: Words in [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) inserted (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/2)
 
-[^key-6bc68da678289fba84831fe82e8c5173]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (1.7.2006) by [The Value Added Tax (Reduced Rate) Order 2006 (S.I. 2006/1472)](https://www.legislation.gov.uk/uksi/2006/1472), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1472/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/1472/article/3/a)
+[^c-6bc68da678289fba84831fe82e8c5173]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (1.7.2006) by [The Value Added Tax (Reduced Rate) Order 2006 (S.I. 2006/1472)](https://www.legislation.gov.uk/uksi/2006/1472), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1472/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/1472/article/3/a)
 
-[^key-52c494582bd1cc04c8fa553a57e135c7]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [3](https://www.legislation.gov.uk/uksi/2020/728/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2020/728/article/2))
+[^c-52c494582bd1cc04c8fa553a57e135c7]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [3](https://www.legislation.gov.uk/uksi/2020/728/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2020/728/article/2))
 
-[^key-cc562521abd893c4210b9f88960c386c]: Textual amendment: Words in [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) table substituted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/376/article/4/2)
+[^c-cc562521abd893c4210b9f88960c386c]: Textual amendment: Words in [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) table substituted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/376/article/4/2)
 
 [^M_F_a6e0f320-69a3-4120-bf80-aa206564b41b]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (1.7.2007 with effect in relation to supplies made on or after that date) by [The Value Added Tax (Reduced Rate) Order 2007 (S.I. 2007/1601)](https://www.legislation.gov.uk/uksi/2007/1601), [arts. 1(1)(2)](https://www.legislation.gov.uk/uksi/2007/1601/article/1/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2007/1601/article/3/a))
 
 [^M_F_8e078f22-586c-44f7-bce6-4d5ecff8d7fc]: Textual amendment: Words in [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) inserted (1.7.2007 with effect in relation to supplies made on or after that date but before 1.7.2008) by [The Value Added Tax (Reduced Rate) Order 2007 (S.I. 2007/1601)](https://www.legislation.gov.uk/uksi/2007/1601), [arts. 1(1)(3)](https://www.legislation.gov.uk/uksi/2007/1601/article/1/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2007/1601/article/3/b))
 
-[^key-41aca3626265558dbb73ea3d71454667]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (1.7.2006) by [The Value Added Tax (Reduced Rate) Order 2006 (S.I. 2006/1472)](https://www.legislation.gov.uk/uksi/2006/1472), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1472/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1472/article/3/b)
+[^c-41aca3626265558dbb73ea3d71454667]: Textual amendment: Words in Sch. 7A Pt. 1 inserted (1.7.2006) by [The Value Added Tax (Reduced Rate) Order 2006 (S.I. 2006/1472)](https://www.legislation.gov.uk/uksi/2006/1472), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1472/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1472/article/3/b)
 
-[^key-524ed97ac724e9ab07289ca20fb15d55]: Textual amendment: Words in [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) omitted (with effect in accordance with s. 126(5)(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 126(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/126/2/a)
+[^c-524ed97ac724e9ab07289ca20fb15d55]: Textual amendment: Words in [Sch. 7A Pt. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) omitted (with effect in accordance with s. 126(5)(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 126(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/126/2/a)
 
-[^key-7f95b4c3f93704df3bdff4f1e3adf5cb]: Modification: Sch. 7A Pt. 2 modified (30.6.2008) by [The Value Added Tax (Reduced Rate) (Smoking Cessation Products) Order 2008 (S.I. 2008/1410)](https://www.legislation.gov.uk/uksi/2008/1410), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1410/article/1)-[3](https://www.legislation.gov.uk/uksi/2008/1410/article/3)
+[^c-7f95b4c3f93704df3bdff4f1e3adf5cb]: Modification: Sch. 7A Pt. 2 modified (30.6.2008) by [The Value Added Tax (Reduced Rate) (Smoking Cessation Products) Order 2008 (S.I. 2008/1410)](https://www.legislation.gov.uk/uksi/2008/1410), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1410/article/1)-[3](https://www.legislation.gov.uk/uksi/2008/1410/article/3)
 
-[^key-c05c57643d200a26e9f430cd4d730231]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) modified (temp. until 30.9.2021) (15.7.2020) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [2](https://www.legislation.gov.uk/uksi/2020/728/article/2), [4](https://www.legislation.gov.uk/uksi/2020/728/article/4) (as amended (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92), [93](https://www.legislation.gov.uk/ukpga/2021/26/section/93))
+[^c-c05c57643d200a26e9f430cd4d730231]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) modified (temp. until 30.9.2021) (15.7.2020) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [2](https://www.legislation.gov.uk/uksi/2020/728/article/2), [4](https://www.legislation.gov.uk/uksi/2020/728/article/4) (as amended (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92), [93](https://www.legislation.gov.uk/ukpga/2021/26/section/93))
 
-[^key-13a69172fed9cb3e124f8309c62f2b5e]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) modified (25.6.2026) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) Order 2026 (S.I. 2026/576)](https://www.legislation.gov.uk/uksi/2026/576), [arts. 1](https://www.legislation.gov.uk/uksi/2026/576/article/1), [4](https://www.legislation.gov.uk/uksi/2026/576/article/4)
+[^c-13a69172fed9cb3e124f8309c62f2b5e]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) modified (25.6.2026) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) Order 2026 (S.I. 2026/576)](https://www.legislation.gov.uk/uksi/2026/576), [arts. 1](https://www.legislation.gov.uk/uksi/2026/576/article/1), [4](https://www.legislation.gov.uk/uksi/2026/576/article/4)
 
-[^key-3e6fdd40ee1d1601f25ca7913a368c59]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) modified (temp. until 31.3.2027) (1.10.2026) by [The Value Added Tax (Supplies of Domestic Electricity) Order 2026 (S.I. 2026/987)](https://www.legislation.gov.uk/uksi/2026/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/987/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/987/article/4/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/987/article/1/2))
+[^c-3e6fdd40ee1d1601f25ca7913a368c59]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) modified (temp. until 31.3.2027) (1.10.2026) by [The Value Added Tax (Supplies of Domestic Electricity) Order 2026 (S.I. 2026/987)](https://www.legislation.gov.uk/uksi/2026/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/987/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/987/article/4/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/987/article/1/2))
 
-[^key-55eedc2027694aa5ea4c528b2b0c945e]: Textual amendment: Words in Sch. 7A Pt. 2 Group 1 Note 1(3) inserted (1.11.2008) by [The Value Added Tax (Reduced Rate) (Supplies of Domestic Fuel or Power) Order 2008 (S.I. 2008/2676)](https://www.legislation.gov.uk/uksi/2008/2676), [arts. 1](https://www.legislation.gov.uk/uksi/2008/2676/article/1), [2](https://www.legislation.gov.uk/uksi/2008/2676/article/2)
+[^c-55eedc2027694aa5ea4c528b2b0c945e]: Textual amendment: Words in Sch. 7A Pt. 2 Group 1 Note 1(3) inserted (1.11.2008) by [The Value Added Tax (Reduced Rate) (Supplies of Domestic Fuel or Power) Order 2008 (S.I. 2008/2676)](https://www.legislation.gov.uk/uksi/2008/2676), [arts. 1](https://www.legislation.gov.uk/uksi/2008/2676/article/1), [2](https://www.legislation.gov.uk/uksi/2008/2676/article/2)
 
-[^key-0242f68487c1eead4fa16f1cb96c710d]: Textual amendment: [Sch. 7A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A) Group 1 Note 1(3)(b) and word omitted (1.10.2021 for N.I.) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 11 paras. 15](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/15), [18](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/18); [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-0242f68487c1eead4fa16f1cb96c710d]: Textual amendment: [Sch. 7A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A) Group 1 Note 1(3)(b) and word omitted (1.10.2021 for N.I.) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 11 paras. 15](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/15), [18](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/18); [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-3bf7bf8bdc0c6d3da564a368dffc68d4]: Textual amendment: Words in [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 heading substituted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/a)
+[^c-3bf7bf8bdc0c6d3da564a368dffc68d4]: Textual amendment: Words in [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 heading substituted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/a)
 
-[^key-bbd96363d09b0effc96e0781cb637dbf]: Textual amendment: [Sch. 7A Pt. 2 Group 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Items 1, 2 substituted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/b)
+[^c-bbd96363d09b0effc96e0781cb637dbf]: Textual amendment: [Sch. 7A Pt. 2 Group 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Items 1, 2 substituted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/b)
 
-[^key-421460179470da1ff1561371795a67cb]: Textual amendment: Words in [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Item 1 substituted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/24/article/2/2)
+[^c-421460179470da1ff1561371795a67cb]: Textual amendment: Words in [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Item 1 substituted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/24/article/2/2)
 
-[^key-2fd272c63a788449fcf952dd8a376a5b]: Textual amendment: Words in [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Item 2 substituted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/24/article/2/2)
+[^c-2fd272c63a788449fcf952dd8a376a5b]: Textual amendment: Words in [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Item 2 substituted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/24/article/2/2)
 
-[^key-b53f3ef1e082948ace81d4f69a44cd86]: Textual amendment: [Sch. 7A Pt. 2 Group 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Item 3 omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/c)
+[^c-b53f3ef1e082948ace81d4f69a44cd86]: Textual amendment: [Sch. 7A Pt. 2 Group 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Item 3 omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/c)
 
-[^key-12624e01eee7e4cd4e9582dd6f3c3faa]: Textual amendment: [Sch. 7A Pt. 2 Group 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Note A1 and heading omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(i)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/i)
+[^c-12624e01eee7e4cd4e9582dd6f3c3faa]: Textual amendment: [Sch. 7A Pt. 2 Group 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Note A1 and heading omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(i)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/i)
 
-[^key-6dce4028bd0c613c79c8d4ed4daca01b]: Textual amendment: Sch. 7A Pt. 2 Group 2 Notes para. 1 renumbered as Sch. 7A Pt. 2 Group 2 Notes para. 1(1) (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/a)
+[^c-6dce4028bd0c613c79c8d4ed4daca01b]: Textual amendment: Sch. 7A Pt. 2 Group 2 Notes para. 1 renumbered as Sch. 7A Pt. 2 Group 2 Notes para. 1(1) (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/a)
 
-[^key-fb05f48dbe0e792fd701f6b478a75a42]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 1(f)(g) inserted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/ii)
+[^c-fb05f48dbe0e792fd701f6b478a75a42]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 1(f)(g) inserted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/ii)
 
-[^key-91010cc760e7f763d518458fc1caf7d9]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 1(f)(g) omitted (1.10.2019) by virtue of [The Value Added Tax (Reduced Rate) (Energy-Saving Materials) Order 2019 (S.I. 2019/958)](https://www.legislation.gov.uk/uksi/2019/958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/958/article/1/1), [5](https://www.legislation.gov.uk/uksi/2019/958/article/5) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/958/article/1/2))
+[^c-91010cc760e7f763d518458fc1caf7d9]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 1(f)(g) omitted (1.10.2019) by virtue of [The Value Added Tax (Reduced Rate) (Energy-Saving Materials) Order 2019 (S.I. 2019/958)](https://www.legislation.gov.uk/uksi/2019/958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/958/article/1/1), [5](https://www.legislation.gov.uk/uksi/2019/958/article/5) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/958/article/1/2))
 
-[^key-986026b91ff14c10b9a56981fb2c2f92]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 1(h) inserted (1.6.2004) by [The Value Added Tax (Reduced Rate) Order 2004 (S.I. 2004/777)](https://www.legislation.gov.uk/uksi/2004/777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/777/article/1), [3](https://www.legislation.gov.uk/uksi/2004/777/article/3)
+[^c-986026b91ff14c10b9a56981fb2c2f92]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 1(h) inserted (1.6.2004) by [The Value Added Tax (Reduced Rate) Order 2004 (S.I. 2004/777)](https://www.legislation.gov.uk/uksi/2004/777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/777/article/1), [3](https://www.legislation.gov.uk/uksi/2004/777/article/3)
 
 [^M_F_76e79ae3-49a7-48fb-853a-4b11b6440c33]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 1(i)(j) inserted (7.4.2005) by [The Value Added Tax (Reduced Rate) Order 2005 (S.I. 2005/726](https://www.legislation.gov.uk/uksi/2005/726), [arts. 1](https://www.legislation.gov.uk/uksi/2005/726/article/1), [3](https://www.legislation.gov.uk/uksi/2005/726/article/3)
 
-[^key-15a0d0c7c83e8f68e4d8c9ca2a6369bc]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1(1)(ia) inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/b)
+[^c-15a0d0c7c83e8f68e4d8c9ca2a6369bc]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1(1)(ia) inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/b)
 
-[^key-b102f3d7147c241ba86afc08dc5f3c7f]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 1(k) inserted (1.1.2006) by [The Value Added Tax (Reduced Rate) (No. 2) Order 2005 (S.I. 2005/3329)](https://www.legislation.gov.uk/uksi/2005/3329), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3329/article/1), [3](https://www.legislation.gov.uk/uksi/2005/3329/article/3)
+[^c-b102f3d7147c241ba86afc08dc5f3c7f]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 1(k) inserted (1.1.2006) by [The Value Added Tax (Reduced Rate) (No. 2) Order 2005 (S.I. 2005/3329)](https://www.legislation.gov.uk/uksi/2005/3329), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3329/article/1), [3](https://www.legislation.gov.uk/uksi/2005/3329/article/3)
 
-[^key-d6d20db707165bc8f1a552a80904db5c]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1(1)(l)(m) inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/c)
+[^c-d6d20db707165bc8f1a552a80904db5c]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1(1)(l)(m) inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/c)
 
-[^key-844470897a10ca31ff0f8850b87ee0cc]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1(2)-(5) inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/d)
+[^c-844470897a10ca31ff0f8850b87ee0cc]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1(2)-(5) inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2024/24/article/2/3/d)
 
-[^key-81966b98a3a85fb35ec57bae20925274]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1A and cross-heading inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/24/article/2/4)
+[^c-81966b98a3a85fb35ec57bae20925274]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 1A and cross-heading inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/24/article/2/4)
 
-[^key-f5d6107667b3390dee91db052c3310a9]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 3 and cross-heading inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/24/article/2/5)
+[^c-f5d6107667b3390dee91db052c3310a9]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 2 Notes para. 3 and cross-heading inserted (1.2.2024) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2024 (S.I. 2024/24)](https://www.legislation.gov.uk/uksi/2024/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/24/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/24/article/2/5)
 
-[^key-fe1dea2201437ea6652e11d9c9c78778]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 3 omitted (with effect in accordance with s. 193(4) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 193(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/193/3)
+[^c-fe1dea2201437ea6652e11d9c9c78778]: Textual amendment: Sch. 7A Pt. 2 Group 2 Note 3 omitted (with effect in accordance with s. 193(4) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 193(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/193/3)
 
-[^key-db49bbcd2bd9cffac2316586f46a5d93]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 4 and heading omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/iii)
+[^c-db49bbcd2bd9cffac2316586f46a5d93]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 4 and heading omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/iii)
 
-[^key-da43ca415f591b49d6c88cb95649e54b]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 5 and heading omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(vi)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/vi)
+[^c-da43ca415f591b49d6c88cb95649e54b]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 5 and heading omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(vi)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/vi)
 
-[^key-a460a67d48d62257bc9a7ec5e7664dc2]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 6 and heading inserted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(v)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/v)
+[^c-a460a67d48d62257bc9a7ec5e7664dc2]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/1) Group 2 Note 6 and heading inserted (1.5.2023) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [4(3)(d)(v)](https://www.legislation.gov.uk/uksi/2023/376/article/4/3/d/v)
 
 [^c17121641]: Textual amendment: Sch. 7A Pt. II Group 3 Item 8A, 8B inserted (1.6.2002) by [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 3(a)](https://www.legislation.gov.uk/uksi/2002/1100/article/3/a)
 
-[^key-6112546ca9fb10ea512616a521c8090f]: Textual amendment: Words in Sch. 7A Pt. 2 Group 3 Item 8A inserted (1.4.2022) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2022 (S.I. 2022/361)](https://www.legislation.gov.uk/uksi/2022/361), [arts. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2), [6](https://www.legislation.gov.uk/uksi/2022/361/article/6)
+[^c-6112546ca9fb10ea512616a521c8090f]: Textual amendment: Words in Sch. 7A Pt. 2 Group 3 Item 8A inserted (1.4.2022) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2022 (S.I. 2022/361)](https://www.legislation.gov.uk/uksi/2022/361), [arts. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2), [6](https://www.legislation.gov.uk/uksi/2022/361/article/6)
 
-[^key-2b8fcee29b820bec86918cf19fd9b84c]: Textual amendment: Words in Sch. 7A Pt. 2 Group 3 Item 8B inserted (1.4.2022) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2022 (S.I. 2022/361)](https://www.legislation.gov.uk/uksi/2022/361), [arts. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2), [6](https://www.legislation.gov.uk/uksi/2022/361/article/6)
+[^c-2b8fcee29b820bec86918cf19fd9b84c]: Textual amendment: Words in Sch. 7A Pt. 2 Group 3 Item 8B inserted (1.4.2022) by [The Value Added Tax (Installation of Energy-Saving Materials) Order 2022 (S.I. 2022/361)](https://www.legislation.gov.uk/uksi/2022/361), [arts. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2), [6](https://www.legislation.gov.uk/uksi/2022/361/article/6)
 
 [^c17148131]: Textual amendment: Words in Sch. 7A Pt. II Group 3 Note 1(1) substituted (1.6.2002) by [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 3(b)](https://www.legislation.gov.uk/uksi/2002/1100/article/3/b)
 
-[^key-34259ed81649c0a7cf9fc10ba1e01d1f]: Textual amendment: Words in [Sch. 7A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 93](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/93) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-34259ed81649c0a7cf9fc10ba1e01d1f]: Textual amendment: Words in [Sch. 7A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 93](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/93) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
 [^c17148181]: Textual amendment: Words in Sch. 7A Pt. II Group 3 Note 4(d) substituted (1.6.2002) by [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 3(c)](https://www.legislation.gov.uk/uksi/2002/1100/article/3/c)
 
 [^c17148361]: Textual amendment: Sch. 7A Pt. II Group 3 Note 4A, 4B substituted (1.6.2002) by [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 3(d)](https://www.legislation.gov.uk/uksi/2002/1100/article/3/d)
 
-[^key-fa8dbdd8869a2159dec5a626a30585b0]: Textual amendment: Words in Sch. 7A Pt. II Group 3 para. 6(2)(c) substituted (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 3 para. 48](https://www.legislation.gov.uk/ukpga/2002/21/schedule/3/paragraph/48); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/d/iii)
+[^c-fa8dbdd8869a2159dec5a626a30585b0]: Textual amendment: Words in Sch. 7A Pt. II Group 3 para. 6(2)(c) substituted (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 3 para. 48](https://www.legislation.gov.uk/ukpga/2002/21/schedule/3/paragraph/48); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/d/iii)
 
-[^key-ca17965ba6c4641106b85deeb0e8d67c]: Textual amendment: Sch. 7A Pt. II Group 3 Note 6(2)(g)(h) inserted (8.4.2013) by [The Value Added Tax (Independence Payment) Order 2013 (S.I. 2013/601)](https://www.legislation.gov.uk/uksi/2013/601), [arts. 1](https://www.legislation.gov.uk/uksi/2013/601/article/1), [2](https://www.legislation.gov.uk/uksi/2013/601/article/2)
+[^c-ca17965ba6c4641106b85deeb0e8d67c]: Textual amendment: Sch. 7A Pt. II Group 3 Note 6(2)(g)(h) inserted (8.4.2013) by [The Value Added Tax (Independence Payment) Order 2013 (S.I. 2013/601)](https://www.legislation.gov.uk/uksi/2013/601), [arts. 1](https://www.legislation.gov.uk/uksi/2013/601/article/1), [2](https://www.legislation.gov.uk/uksi/2013/601/article/2)
 
-[^key-a6d6710e528104e56561d3a94f6cf003]: Textual amendment: Sch. 7A Pt. II Group 3 Note 6(2)(i) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/9/2)
+[^c-a6d6710e528104e56561d3a94f6cf003]: Textual amendment: Sch. 7A Pt. II Group 3 Note 6(2)(i) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/9/2)
 
 [^M_F_b0cc6a47-ab71-4037-9e42-caf3768838e3]: Textual amendment: Words in Sch. 7A Pt. II Group 3 Note (6)(2)(i) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2016/236/regulation/5/2)
 
-[^key-7c5151de124e0e7710a76cbd1dd75ee1]: Textual amendment: Sch. 7A Pt. 2 Group 4 omitted (with effect in accordance with s. 126(5)(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 126(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/126/2/b); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1642/regulation/3)
+[^c-7c5151de124e0e7710a76cbd1dd75ee1]: Textual amendment: Sch. 7A Pt. 2 Group 4 omitted (with effect in accordance with s. 126(5)(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 126(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/126/2/b); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1642/regulation/3)
 
-[^key-2c690b87fec11cb05df70dc1b73a23c5]: Textual amendment: Sch. 7A Pt. 2 Group 5 Note 1(1)(aa) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Reduced Rate) (Childrens Car Seats) Order 2009 (S.I. 2009/1359)](https://www.legislation.gov.uk/uksi/2009/1359), arts 1(1), [3](https://www.legislation.gov.uk/uksi/2009/1359/article/3)
+[^c-2c690b87fec11cb05df70dc1b73a23c5]: Textual amendment: Sch. 7A Pt. 2 Group 5 Note 1(1)(aa) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Reduced Rate) (Childrens Car Seats) Order 2009 (S.I. 2009/1359)](https://www.legislation.gov.uk/uksi/2009/1359), arts 1(1), [3](https://www.legislation.gov.uk/uksi/2009/1359/article/3)
 
-[^key-822ccb5399450f4a2ceaf923d50788d0]: Textual amendment: Sch. 7A Pt. 2 Group 5 Note 2(b) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Reduced Rate) (Childrens Car Seats) Order 2009 (S.I. 2009/1359)](https://www.legislation.gov.uk/uksi/2009/1359), arts. 1(1), [4](https://www.legislation.gov.uk/uksi/2009/1359/article/4)
+[^c-822ccb5399450f4a2ceaf923d50788d0]: Textual amendment: Sch. 7A Pt. 2 Group 5 Note 2(b) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Reduced Rate) (Childrens Car Seats) Order 2009 (S.I. 2009/1359)](https://www.legislation.gov.uk/uksi/2009/1359), arts. 1(1), [4](https://www.legislation.gov.uk/uksi/2009/1359/article/4)
 
-[^key-47cb3322cdc491a687d1433143622297]: Textual amendment: Sch. 7A Pt. 2 Group 5 Note 2A inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Reduced Rate) (Childrens Car Seats) Order 2009 (S.I. 2009/1359)](https://www.legislation.gov.uk/uksi/2009/1359), arts. 1(1), [5](https://www.legislation.gov.uk/uksi/2009/1359/article/5)
+[^c-47cb3322cdc491a687d1433143622297]: Textual amendment: Sch. 7A Pt. 2 Group 5 Note 2A inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Reduced Rate) (Childrens Car Seats) Order 2009 (S.I. 2009/1359)](https://www.legislation.gov.uk/uksi/2009/1359), arts. 1(1), [5](https://www.legislation.gov.uk/uksi/2009/1359/article/5)
 
 [^c17148611]: Textual amendment: Word in Sch. 7A Pt. 2 Group 6 Note 4(2)(a) omitted (1.6.2002) by virtue of [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 4(a)(i)](https://www.legislation.gov.uk/uksi/2002/1100/article/4/a/i)
 
@@ -1024,7 +1024,7 @@ Item No
 
 [^c17512221]: Textual amendment: Words in Sch. 7A Pt. 2 Group 7 Note 3 heading substituted (1.6.2002) by [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 5(e)(i)](https://www.legislation.gov.uk/uksi/2002/1100/article/5/e/i)
 
-[^key-abf4d6c6f618708689eff5801d9f0d77]: Textual amendment: Words in Sch. 7A Pt. 2 Group 7 Note 3 substituted (1.1.2008) by [The Value Added Tax (Reduced Rate) (No. 2) Order 2007 (S.I. 2007/3448)](https://www.legislation.gov.uk/uksi/2007/3448), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3448/article/1), [3](https://www.legislation.gov.uk/uksi/2007/3448/article/3), [4](https://www.legislation.gov.uk/uksi/2007/3448/article/4)
+[^c-abf4d6c6f618708689eff5801d9f0d77]: Textual amendment: Words in Sch. 7A Pt. 2 Group 7 Note 3 substituted (1.1.2008) by [The Value Added Tax (Reduced Rate) (No. 2) Order 2007 (S.I. 2007/3448)](https://www.legislation.gov.uk/uksi/2007/3448), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3448/article/1), [3](https://www.legislation.gov.uk/uksi/2007/3448/article/3), [4](https://www.legislation.gov.uk/uksi/2007/3448/article/4)
 
 [^c17512281]: Textual amendment: Sch. 7A Pt. 2 Group 7 Note 3(1) substituted (1.6.2002) by [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2002/1100/article/5/e/ii)
 
@@ -1038,14 +1038,14 @@ Item No
 
 [^c17512971]: Textual amendment: Word in Sch. 7A Pt. 2 Group 7 Note 5 substituted (1.6.2002) by [The Value Added Tax (Reduced Rate) Order 2002 (S.I. 2002/1100)](https://www.legislation.gov.uk/uksi/2002/1100), [art. 5(h)](https://www.legislation.gov.uk/uksi/2002/1100/article/5/h)
 
-[^key-84f531e14bf616c77a8127a25bf7c586]: Textual amendment: Sch. 7A Pt. 2 Groups 8, 9 inserted (1.7.2006) by [The Value Added Tax (Reduced Rate) Order 2006 (S.I. 2006/1472)](https://www.legislation.gov.uk/uksi/2006/1472), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1472/article/1), [4](https://www.legislation.gov.uk/uksi/2006/1472/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/1472/schedule)
+[^c-84f531e14bf616c77a8127a25bf7c586]: Textual amendment: Sch. 7A Pt. 2 Groups 8, 9 inserted (1.7.2006) by [The Value Added Tax (Reduced Rate) Order 2006 (S.I. 2006/1472)](https://www.legislation.gov.uk/uksi/2006/1472), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1472/article/1), [4](https://www.legislation.gov.uk/uksi/2006/1472/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/1472/schedule)
 
 [^M_F_1c9bfbe5-62d4-40f2-ddbf-90128e936a7a]: Textual amendment: Sch. 7A Pt. 2 Group 10 inserted (1.7.2007 with effect in relation to supplies made on or after that date) by [The Value Added Tax (Reduced Rate) Order 2007 (S.I. 2007/1601)](https://www.legislation.gov.uk/uksi/2007/1601), [arts. 1(1)(2)](https://www.legislation.gov.uk/uksi/2007/1601/article/1/1/2), [4](https://www.legislation.gov.uk/uksi/2007/1601/article/4)
 
 [^M_F_bf6c6008-8080-4086-a447-c910a9002e0d]: Textual amendment: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/7A/part/2) Group 11 inserted (1.7.2007 with effect in relation to supplies made on or after that date but before 1.7.2008) by [The Value Added Tax (Reduced Rate) Order 2007 (S.I. 2007/1601)](https://www.legislation.gov.uk/uksi/2007/1601), [arts. 1(1)(3)](https://www.legislation.gov.uk/uksi/2007/1601/article/1/1/3), [5](https://www.legislation.gov.uk/uksi/2007/1601/article/5)
 
-[^key-717c32e1d683ec5d57192b0c2c849cfc]: Textual amendment: Sch. 7A Pt. 2 Group 12 inserted (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/6/3), [7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/2)
+[^c-717c32e1d683ec5d57192b0c2c849cfc]: Textual amendment: Sch. 7A Pt. 2 Group 12 inserted (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/6/3), [7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/2)
 
-[^key-f610c1b2cfb63a46f4628f8207ab188f]: Textual amendment: Sch. 7A Pt. 2 Group 13 inserted (1.4.2013) by [The Value Added Tax (Reduced Rate) (Cable-Suspended Passenger Transport Systems) Order 2013 (S.I. 2013/430)](https://www.legislation.gov.uk/uksi/2013/430), [arts. 1](https://www.legislation.gov.uk/uksi/2013/430/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/430/article/2/3)
+[^c-f610c1b2cfb63a46f4628f8207ab188f]: Textual amendment: Sch. 7A Pt. 2 Group 13 inserted (1.4.2013) by [The Value Added Tax (Reduced Rate) (Cable-Suspended Passenger Transport Systems) Order 2013 (S.I. 2013/430)](https://www.legislation.gov.uk/uksi/2013/430), [arts. 1](https://www.legislation.gov.uk/uksi/2013/430/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/430/article/2/3)
 
-[^key-fdc1e1c6761abcb73e2f76becaaccd17]: Textual amendment: Sch. 7A Pt. 2 Groups 14-16 inserted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [4](https://www.legislation.gov.uk/uksi/2020/728/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2020/728/article/2))
+[^c-fdc1e1c6761abcb73e2f76becaaccd17]: Textual amendment: Sch. 7A Pt. 2 Groups 14-16 inserted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [4](https://www.legislation.gov.uk/uksi/2020/728/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2020/728/article/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Directions as to loading or unloading of goods[^key-3fbce840d3518f7f0471633c90443477]
+## 18. Directions as to loading or unloading of goods[^c-3fbce840d3518f7f0471633c90443477]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fbce840d3518f7f0471633c90443477]: Commencement: Art. 18 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-3fbce840d3518f7f0471633c90443477]: Commencement: Art. 18 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

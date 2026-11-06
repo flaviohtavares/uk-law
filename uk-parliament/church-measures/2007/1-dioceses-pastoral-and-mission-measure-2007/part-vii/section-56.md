@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 56. Functions of Council in relation to churches proposed for closure for regular public worship[^key-ccf04dba49342491f21921e0108a514e]
+## 56. Functions of Council in relation to churches proposed for closure for regular public worship[^c-ccf04dba49342491f21921e0108a514e]
 
 *Extent: E*
 
@@ -44,4 +44,4 @@ Provided that—
 
 ## Annotations
 
-[^key-ccf04dba49342491f21921e0108a514e]: Commencement: [S. 56](https://www.legislation.gov.uk/ukcm/2007/1/section/56) in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-ccf04dba49342491f21921e0108a514e]: Commencement: [S. 56](https://www.legislation.gov.uk/ukcm/2007/1/section/56) in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops

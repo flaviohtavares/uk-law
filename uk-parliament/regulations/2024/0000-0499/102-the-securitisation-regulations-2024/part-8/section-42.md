@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Financial penalties[^key-aaa55962b25af30d4199e3366703ee8c]
+## 42. Financial penalties[^c-aaa55962b25af30d4199e3366703ee8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the FCA may impose a penalty of such amount as it considers appropriate.
 
 ## Annotations
 
-[^key-aaa55962b25af30d4199e3366703ee8c]: Commencement: Reg. 42 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-aaa55962b25af30d4199e3366703ee8c]: Commencement: Reg. 42 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

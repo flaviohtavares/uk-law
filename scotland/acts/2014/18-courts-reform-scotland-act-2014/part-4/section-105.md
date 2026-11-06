@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Power to regulate fees in the Court of Session[^key-ed5ed8bdf43f5055a2fab9c552b5c28e]
+## 105. Power to regulate fees in the Court of Session[^c-ed5ed8bdf43f5055a2fab9c552b5c28e]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed5ed8bdf43f5055a2fab9c552b5c28e]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2014/18/section/105) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-ed5ed8bdf43f5055a2fab9c552b5c28e]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2014/18/section/105) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

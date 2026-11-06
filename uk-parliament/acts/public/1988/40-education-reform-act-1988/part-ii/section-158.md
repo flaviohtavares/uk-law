@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Reports and returns to Secretary of State.[^key-4d5a8419bea96d191a9ad93113fad801]
+## 158. Reports and returns to Secretary of State.[^c-4d5a8419bea96d191a9ad93113fad801]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d5a8419bea96d191a9ad93113fad801]: Textual amendment: [S. 158](https://www.legislation.gov.uk/ukpga/1988/40/section/158) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/3/2)
+[^c-4d5a8419bea96d191a9ad93113fad801]: Textual amendment: [S. 158](https://www.legislation.gov.uk/ukpga/1988/40/section/158) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/3/2)

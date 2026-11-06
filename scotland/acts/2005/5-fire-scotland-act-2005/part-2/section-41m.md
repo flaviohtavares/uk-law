@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41M. Provision of information[^key-a20f793e09e5b2b49bf346d7af0427b7]
+## 41M. Provision of information[^c-a20f793e09e5b2b49bf346d7af0427b7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a20f793e09e5b2b49bf346d7af0427b7]: Textual amendment: S. 41M inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 117](https://www.legislation.gov.uk/asp/2012/8/section/117), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)
+[^c-a20f793e09e5b2b49bf346d7af0427b7]: Textual amendment: S. 41M inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 117](https://www.legislation.gov.uk/asp/2012/8/section/117), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)

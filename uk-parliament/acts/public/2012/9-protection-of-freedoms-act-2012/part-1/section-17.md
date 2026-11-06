@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Exclusions for certain regimes[^key-fc3ed346d01d0308eff1eba32c81f88c]
+## 17. Exclusions for certain regimes[^c-fc3ed346d01d0308eff1eba32c81f88c]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ After section 63T of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-fc3ed346d01d0308eff1eba32c81f88c]: Commencement: S. 17 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-fc3ed346d01d0308eff1eba32c81f88c]: Commencement: S. 17 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

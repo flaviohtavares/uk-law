@@ -23,12 +23,12 @@ summary: ''
 (1) In this Act—
 
 - [^c1039997]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-f589339b68ecdb67641eca6d8b5c3303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f589339b68ecdb67641eca6d8b5c3303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**principal Act**” means the Representation of the [^c1040001]People Act 1983.
 
 (2) The principal Act and sections 1 to 12, 15 to 18 and 21 of and Schedule 1 to this Act shall have effect as if those sections and that Schedule were contained in Part I of that Act, and sections 5 to 7A[^c1040002] of the principal Act (residence) apply for the purposes of sections 1 to 3 of this Act as they apply for the purposes of section 4[^c1040003] of that Act.
 
-(2ZA)[^key-4c0693e10edb70fb88d06820f27b6d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2ZA)[^c-4c0693e10edb70fb88d06820f27b6d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2A)[^c2005959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -50,7 +50,7 @@ summary: ''
 
 [^c1039997]: Textual amendment: Definition of “the assembly” repealed by [European Communities (Amendment) Act 1986 (c. 58, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1986/58), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1986/58/section/3/1), [4(3)](https://www.legislation.gov.uk/ukpga/1986/58/section/4/3), [Sch.](https://www.legislation.gov.uk/ukpga/1986/58/schedule)
 
-[^key-f589339b68ecdb67641eca6d8b5c3303]: Textual amendment: Words in s. 27 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-f589339b68ecdb67641eca6d8b5c3303]: Textual amendment: Words in s. 27 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c1040001]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -58,6 +58,6 @@ summary: ''
 
 [^c1040003]: Textual amendment: Words in s. 27(2) substituted (16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2000/2/section/15/1), [Sch. 6 para. 18(b)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/6/paragraph/18/b); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to transitional provisions in [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
 
-[^key-4c0693e10edb70fb88d06820f27b6d28]: Textual amendment: [S. 27(2ZA)](https://www.legislation.gov.uk/ukpga/1985/50/section/27/2ZA) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-4c0693e10edb70fb88d06820f27b6d28]: Textual amendment: [S. 27(2ZA)](https://www.legislation.gov.uk/ukpga/1985/50/section/27/2ZA) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c2005959]: Textual amendment: S. 27(2A) repealed (19.8.2003) by [The Secretary of State for Constitutional Affairs Order 2003 (S.I. 2003/1887)](https://www.legislation.gov.uk/uksi/2003/1887), [art. 9](https://www.legislation.gov.uk/uksi/2003/1887/article/9), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/1887/schedule/2/paragraph/5)

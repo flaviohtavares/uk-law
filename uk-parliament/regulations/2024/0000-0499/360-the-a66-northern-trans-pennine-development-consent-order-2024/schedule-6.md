@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^key-aa293037d145e197243764789d61c535]
+## SCHEDULE 6 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^c-aa293037d145e197243764789d61c535]
 
 *Extent: E+W*
 
@@ -130,4 +130,4 @@ Article 29
 
 ## Annotations
 
-[^key-aa293037d145e197243764789d61c535]: Commencement: Sch. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-aa293037d145e197243764789d61c535]: Commencement: Sch. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

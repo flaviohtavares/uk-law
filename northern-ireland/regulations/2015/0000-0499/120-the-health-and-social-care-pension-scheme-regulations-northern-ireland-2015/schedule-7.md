@@ -28,12 +28,12 @@ Regulations 24(1), 115(5) and (6)and 118(5)
 
 In this Schedule—
 
-- “[^key-26bde5c8980372b169bd4b62d1fe62a2]**index adjustment**” means—
+- “[^c-26bde5c8980372b169bd4b62d1fe62a2]**index adjustment**” means—
   - (a) in relation to the opening balance of earned pension for a scheme year (other than the opening balance of club transfer earned pension), the percentage increase or decrease in prices specified in an order (in respect of the HSC Pension Scheme 2015) made by the Department of Finance under section 9(2) of the 2014 Act in relation to the previous scheme year, plus 1.5%; and
   - (b) in relation to the opening balance of club transfer earned pension for a scheme year, the adjustment that is—
     - (i) equal to the adjustment that would apply to the opening balance of that amount of earned pension under the sending scheme for the previous scheme year, and;
     - (ii) applied to the opening balance of club transfer earned pension on the same day as the percentage increase or decrease referred to in paragraph (a).
-- “**AP index adjustment**” means, in relation to the opening balance of additional pension for a scheme year, the percentage increase or decrease in prices specified in an order (in respect of the HSC Pension Scheme 2015)[^key-8a7de7c905e1177eb99b81df8b37e58f] made by the Department of Finance [^key-2cb86243be3fe80380091991c1771655]... under section 9(2) of the 2014 Act in relation to the previous scheme year;
+- “**AP index adjustment**” means, in relation to the opening balance of additional pension for a scheme year, the percentage increase or decrease in prices specified in an order (in respect of the HSC Pension Scheme 2015)[^c-8a7de7c905e1177eb99b81df8b37e58f] made by the Department of Finance [^c-2cb86243be3fe80380091991c1771655]... under section 9(2) of the 2014 Act in relation to the previous scheme year;
 - “**the leaving year**” means the scheme year in which the relevant last day falls;
 - “**the relevant last day**” means—
   - (a) for a member who has made a partial retirement application, the day before the entitlement day for a partial retirement pension; and
@@ -45,7 +45,7 @@ For the purpose of this Schedule, a person who re-enters pensionable service aft
 
 #### 3. Meaning of “leaver index adjustment”
 
-(1) The leaver index adjustment for an amount of accrued earned pension other than an amount of club transfer accrued earned pension is an amount calculated as follows— *Step 1* Add 1.5 to the percentage increase or decrease in prices specified in an order (in respect of the HSC Pension Scheme 2015)[^key-d186fc38946b995d3a4ee26f8a188494] made by the Department of Finance [^key-d06d6e27182161003a374ef053efbc87]... under section 9(2) of the 2014 Act in relation to the leaving year. *Step 2* Multiply the result at Step 1 by
+(1) The leaver index adjustment for an amount of accrued earned pension other than an amount of club transfer accrued earned pension is an amount calculated as follows— *Step 1* Add 1.5 to the percentage increase or decrease in prices specified in an order (in respect of the HSC Pension Scheme 2015)[^c-d186fc38946b995d3a4ee26f8a188494] made by the Department of Finance [^c-d06d6e27182161003a374ef053efbc87]... under section 9(2) of the 2014 Act in relation to the leaving year. *Step 2* Multiply the result at Step 1 by
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2015/120)
 
@@ -57,12 +57,12 @@ B is 12.
 
 The resulting percentage is the leaver index percentage. *Step 3* Multiply the amount of accrued earned pension by the leaver index percentage. The resulting amount is the leaver index adjustment.
 
-(2)[^key-1bfad429ae00524f1079fcbcbfe9208b] Subject to sub-paragraph (2A), the leaver index adjustment for an amount of club transfer accrued earned pension is—
+(2)[^c-1bfad429ae00524f1079fcbcbfe9208b] Subject to sub-paragraph (2A), the leaver index adjustment for an amount of club transfer accrued earned pension is—
 
 - (a) equal to the adjustment that would apply under the sending scheme to an amount of accrued earned pension equal to the amount of club transfer accrued earned pension specified in the active member’s account at the end of the relevant last day; and
 - (b) applied to the amount of club transfer earned pension at the end of the relevant last day on the same day as the percentage increase or decrease referred to in the definition of index adjustment in paragraph 1(a).
 
-(2A)[^key-dfd9481a5c0bee85a30a3756b3be5ff7] If the amount of the leaver index adjustment under sub-paragraph (1) or (2) is an amount that is less than zero, the amount of the leaver index adjustment for the purposes of that sub-paragraph paragraphs is zero.
+(2A)[^c-dfd9481a5c0bee85a30a3756b3be5ff7] If the amount of the leaver index adjustment under sub-paragraph (1) or (2) is an amount that is less than zero, the amount of the leaver index adjustment for the purposes of that sub-paragraph paragraphs is zero.
 
 (3) In this paragraph, “**complete month**” includes an incomplete month that consists of at least 16 days.
 
@@ -73,7 +73,7 @@ The resulting percentage is the leaver index percentage. *Step 3* Multiply the a
 (2) The leaver AP index adjustment is an amount equal to the amount of leaver index adjustment found if—
 
 - (a) The accrued additional pension were an accrued earned pension; and
-- (b) 1.5 is not added to the percentage increase or decrease in prices specified in an order made (in respect of the HSC Pension Scheme 2015)[^key-895635a2d95a6a05176f38afb2e6d22d] by the Department of Finance [^key-61d6f383b7e9e79830f6b50b24850e9a]... in Step 1 of paragraph 3(1).
+- (b) 1.5 is not added to the percentage increase or decrease in prices specified in an order made (in respect of the HSC Pension Scheme 2015)[^c-895635a2d95a6a05176f38afb2e6d22d] by the Department of Finance [^c-61d6f383b7e9e79830f6b50b24850e9a]... in Step 1 of paragraph 3(1).
 
 #### 5. Meaning of “full retirement earned pension”
 
@@ -388,20 +388,20 @@ The deferred member's account must specify—
 
 ## Annotations
 
-[^key-26bde5c8980372b169bd4b62d1fe62a2]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/1) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(2)(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/2/a)
+[^c-26bde5c8980372b169bd4b62d1fe62a2]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/1) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(2)(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/2/a)
 
-[^key-8a7de7c905e1177eb99b81df8b37e58f]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/1) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/2/b)
+[^c-8a7de7c905e1177eb99b81df8b37e58f]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/1) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/2/b)
 
-[^key-2cb86243be3fe80380091991c1771655]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/1) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/2/b)
+[^c-2cb86243be3fe80380091991c1771655]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/1) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/2/b)
 
-[^key-d186fc38946b995d3a4ee26f8a188494]: Textual amendment: Words in [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/1) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/a)
+[^c-d186fc38946b995d3a4ee26f8a188494]: Textual amendment: Words in [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/1) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/a)
 
-[^key-d06d6e27182161003a374ef053efbc87]: Textual amendment: Words in [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/1) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/a)
+[^c-d06d6e27182161003a374ef053efbc87]: Textual amendment: Words in [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/1) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/a)
 
-[^key-1bfad429ae00524f1079fcbcbfe9208b]: Textual amendment: [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/2) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/b)
+[^c-1bfad429ae00524f1079fcbcbfe9208b]: Textual amendment: [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/2) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/b)
 
-[^key-dfd9481a5c0bee85a30a3756b3be5ff7]: Textual amendment: [Sch. 7 para. 3(2A)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/2A) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/c)
+[^c-dfd9481a5c0bee85a30a3756b3be5ff7]: Textual amendment: [Sch. 7 para. 3(2A)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/3/2A) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(3)(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/3/c)
 
-[^key-895635a2d95a6a05176f38afb2e6d22d]: Textual amendment: Words in [Sch. 7 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/4/2/b) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(4)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/4)
+[^c-895635a2d95a6a05176f38afb2e6d22d]: Textual amendment: Words in [Sch. 7 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/4/2/b) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(4)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/4)
 
-[^key-61d6f383b7e9e79830f6b50b24850e9a]: Textual amendment: Words in [Sch. 7 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/4/2/b) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(4)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/4)
+[^c-61d6f383b7e9e79830f6b50b24850e9a]: Textual amendment: Words in [Sch. 7 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/7/paragraph/4/2/b) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [24(4)](https://www.legislation.gov.uk/nisr/2023/33/regulation/24/4)

@@ -29,7 +29,7 @@ summary: ''
 
 - (a) provide information or documents to the Secretary of State or to any other person;
 - (b) obtain information or documents;
-- (c)[^key-0cebd6d4aa16a504e7697d208620aec8] provide biometric information (within the meaning of section 15 of the UK Borders Act 2007), or submit to a process by means of which such information is obtained or recorded;
+- (c)[^c-0cebd6d4aa16a504e7697d208620aec8] provide biometric information (within the meaning of section 15 of the UK Borders Act 2007), or submit to a process by means of which such information is obtained or recorded;
 - (d) make, or consent to or cooperate with the making of, an application to a person acting for the government of a State other than the United Kingdom;
 - (e) cooperate with a process designed to enable determination of an application;
 - (f) complete a form accurately and completely;
@@ -41,7 +41,7 @@ summary: ''
 (4) A person guilty of an offence under subsection (3) shall be liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
-- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-3a1e0c4a261e6b29fa0baf99964817f5], to a fine not exceeding the statutory maximum or to both.
+- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-3a1e0c4a261e6b29fa0baf99964817f5], to a fine not exceeding the statutory maximum or to both.
 
 (5) If a constable or *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_d40cf1c2-8413-443d-8eb9-6d60ed02a2af] an *(Extent: N.I.)* immigration officer reasonably suspects that a person has committed an offence under subsection (3) he may arrest the person without warrant.
 
@@ -60,7 +60,7 @@ summary: ''
 
 (8) While sections 11 and 12 of the Immigration and Asylum Act 1999 continue to have effect, the reference in subsection (7)(c) above to Schedule 3 to this Act shall be treated as including a reference to those sections.
 
-(9) In so far as subsection (3) extends to England and Wales, subsection (4)(b) shall, until 2 May 2022[^key-36074113a05a2ea16429e85686d8c915], have effect as if the reference to the general limit in a magistrates’ court[^key-33d704caf9c3b761cf84cb4490ba4df0] were a reference to six months.
+(9) In so far as subsection (3) extends to England and Wales, subsection (4)(b) shall, until 2 May 2022[^c-36074113a05a2ea16429e85686d8c915], have effect as if the reference to the general limit in a magistrates’ court[^c-33d704caf9c3b761cf84cb4490ba4df0] were a reference to six months.
 
 (10) In so far as subsection (3) extends to Scotland, subsection (4)(b) shall have effect as if the reference to twelve months were a reference to six months.
 
@@ -68,12 +68,12 @@ summary: ''
 
 ## Annotations
 
-[^key-0cebd6d4aa16a504e7697d208620aec8]: Textual amendment: S. 35(2)(c) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/2/paragraph/5); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(z)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/z)
+[^c-0cebd6d4aa16a504e7697d208620aec8]: Textual amendment: S. 35(2)(c) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/2/paragraph/5); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(z)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/z)
 
-[^key-3a1e0c4a261e6b29fa0baf99964817f5]: Textual amendment: Words in [s. 35(4)(b)](https://www.legislation.gov.uk/ukpga/2004/19/section/35/4/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-3a1e0c4a261e6b29fa0baf99964817f5]: Textual amendment: Words in [s. 35(4)(b)](https://www.legislation.gov.uk/ukpga/2004/19/section/35/4/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
 [^M_F_d40cf1c2-8413-443d-8eb9-6d60ed02a2af]: Textual amendment: Word in s. 35(5) substituted (E.W.) (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 63(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/63/b); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m); and (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/uksi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/288/article/1/2), [Sch. 1 para. 39(2)](https://www.legislation.gov.uk/uksi/2007/288/schedule/1/paragraph/39/2)
 
-[^key-36074113a05a2ea16429e85686d8c915]: Textual amendment: Words in [s. 35(9)](https://www.legislation.gov.uk/ukpga/2004/19/section/35/9) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-36074113a05a2ea16429e85686d8c915]: Textual amendment: Words in [s. 35(9)](https://www.legislation.gov.uk/ukpga/2004/19/section/35/9) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-33d704caf9c3b761cf84cb4490ba4df0]: Textual amendment: Words in [s. 35(9)](https://www.legislation.gov.uk/ukpga/2004/19/section/35/9) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-33d704caf9c3b761cf84cb4490ba4df0]: Textual amendment: Words in [s. 35(9)](https://www.legislation.gov.uk/ukpga/2004/19/section/35/9) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

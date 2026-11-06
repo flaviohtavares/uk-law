@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Grant of planning permission etc. on determination of appeal[^key-c3a891662260a47a4c1c76bd49d067a2]
+## 133. Grant of planning permission etc. on determination of appeal[^c-c3a891662260a47a4c1c76bd49d067a2]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3a891662260a47a4c1c76bd49d067a2]: Commencement: S. 133 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c3a891662260a47a4c1c76bd49d067a2]: Commencement: S. 133 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

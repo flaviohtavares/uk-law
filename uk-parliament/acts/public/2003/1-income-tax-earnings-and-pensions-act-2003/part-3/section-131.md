@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies for the purposes of sections 121(1) and 121B(1)[^key-1892515b370a2fb0ff5862558d688f86] where—
+(1) This section applies for the purposes of sections 121(1) and 121B(1)[^c-1892515b370a2fb0ff5862558d688f86] where—
 
 - (a) a later accessory is available with the car in the tax year in question,
 - (b) that accessory (“the new accessory”) replaced another qualifying accessory (“the old accessory”) in that year or an earlier tax year, and
 - (c) the new accessory is of the same kind as the old accessory.
 
-(1A)[^key-730dacdceeb2a421fab9cbf64df7bc07] In the application of this section for the purposes of section 121B(1)—
+(1A)[^c-730dacdceeb2a421fab9cbf64df7bc07] In the application of this section for the purposes of section 121B(1)—
 
 - (a) references to the cash equivalent of the benefit of the car for the tax year are to be read as references to the modified cash equivalent of the benefit of the car for the tax year, and
 - (b) references to step 2 of section 121(1) are to be read as references to step 2 of section 121B(1).
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1892515b370a2fb0ff5862558d688f86]: Textual amendment: Words in [s. 131(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/131/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/25/2)
+[^c-1892515b370a2fb0ff5862558d688f86]: Textual amendment: Words in [s. 131(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/131/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/25/2)
 
-[^key-730dacdceeb2a421fab9cbf64df7bc07]: Textual amendment: [S. 131(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/131/1A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/25/3)
+[^c-730dacdceeb2a421fab9cbf64df7bc07]: Textual amendment: [S. 131(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/131/1A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/25/3)

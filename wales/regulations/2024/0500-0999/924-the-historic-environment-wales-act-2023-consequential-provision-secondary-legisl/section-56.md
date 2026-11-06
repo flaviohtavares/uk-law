@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**56.**[^key-8c5910ddd8fb187dc81a3be11b041a2f] In regulation 16(2)—
+**56.**[^c-8c5910ddd8fb187dc81a3be11b041a2f] In regulation 16(2)—
 
 - (a) omit the “and” after sub-paragraph (e);
 - (b) after sub-paragraph (f) insert—
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c5910ddd8fb187dc81a3be11b041a2f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2024/924/regulation/56) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-8c5910ddd8fb187dc81a3be11b041a2f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2024/924/regulation/56) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

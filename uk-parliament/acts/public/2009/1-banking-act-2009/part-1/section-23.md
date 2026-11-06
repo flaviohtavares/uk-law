@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Incidental provision[^M_I_69ae4b53-ed91-4a86-905f-6bdef4177303][^key-f0de211fc1d476b4f89feb156d4c7072]
+## 23. Incidental provision[^M_I_69ae4b53-ed91-4a86-905f-6bdef4177303][^c-f0de211fc1d476b4f89feb156d4c7072]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_69ae4b53-ed91-4a86-905f-6bdef4177303]: Commencement: S. 23 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-f0de211fc1d476b4f89feb156d4c7072]: Commencement: S. 23 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-f0de211fc1d476b4f89feb156d4c7072]: Commencement: S. 23 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

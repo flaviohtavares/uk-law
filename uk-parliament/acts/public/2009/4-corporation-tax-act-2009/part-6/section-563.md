@@ -45,9 +45,9 @@ AR is the appropriate rate for the accounting period.
 
 (6) The appropriate rate for an accounting period is—
 
-- (a) if a single rate of tax under section 102(3) of FA 2012[^key-bd16be5f2a5c85063ccffa152a73fcb7] (lower corporation tax rate on certain insurance company profits) is applicable in relation to the accounting period, that rate, and
+- (a) if a single rate of tax under section 102(3) of FA 2012[^c-bd16be5f2a5c85063ccffa152a73fcb7] (lower corporation tax rate on certain insurance company profits) is applicable in relation to the accounting period, that rate, and
 - (b) if more than one such rate of tax is applicable in relation to the accounting period, the average of those rates over the accounting period.
 
 ## Annotations
 
-[^key-bd16be5f2a5c85063ccffa152a73fcb7]: Textual amendment: Words in s. 563(6)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 166](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/166)
+[^c-bd16be5f2a5c85063ccffa152a73fcb7]: Textual amendment: Words in s. 563(6)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 166](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/166)

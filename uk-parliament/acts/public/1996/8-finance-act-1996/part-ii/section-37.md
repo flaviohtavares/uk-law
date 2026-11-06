@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Penalties for failure to notify.[^key-2918deaab3adcc3cf163f05d5237e56d]
+## 37. Penalties for failure to notify.[^c-2918deaab3adcc3cf163f05d5237e56d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2918deaab3adcc3cf163f05d5237e56d]: Textual amendment: [S. 37](https://www.legislation.gov.uk/ukpga/1996/8/section/37) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(h)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/h/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-2918deaab3adcc3cf163f05d5237e56d]: Textual amendment: [S. 37](https://www.legislation.gov.uk/ukpga/1996/8/section/37) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(h)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/h/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))

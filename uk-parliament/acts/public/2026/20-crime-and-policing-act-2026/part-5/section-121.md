@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Police stations at which notifications may be given: Scotland and Northern Ireland[^key-4751dcd3babb77b2015cfa9d488bfbff]
+## 121. Police stations at which notifications may be given: Scotland and Northern Ireland[^c-4751dcd3babb77b2015cfa9d488bfbff]
 
 *Extent: S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4751dcd3babb77b2015cfa9d488bfbff]: Commencement: S. 121 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-4751dcd3babb77b2015cfa9d488bfbff]: Commencement: S. 121 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 233. Preliminary[^key-7c64a3af0c9cc41d15635cceec322d5c]
+## 233. Preliminary[^c-7c64a3af0c9cc41d15635cceec322d5c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c64a3af0c9cc41d15635cceec322d5c]: Commencement: Rule 233 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-7c64a3af0c9cc41d15635cceec322d5c]: Commencement: Rule 233 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

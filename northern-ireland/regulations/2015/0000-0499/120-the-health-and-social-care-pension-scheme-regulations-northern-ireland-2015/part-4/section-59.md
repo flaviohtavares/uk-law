@@ -34,8 +34,8 @@ summary: ''
 - (a) may specify different amounts for different descriptions of members; and
 - (b) may be amended during a scheme year.
 
-(5)[^key-c294402499c48a1b4ee09fbfdd3d67d8] An amendment under paragraph (4)(b) must not affect the contributions payable during that year under any option, except an option under which contributions begin to be paid after the date on which the amendment takes effect.
+(5)[^c-c294402499c48a1b4ee09fbfdd3d67d8] An amendment under paragraph (4)(b) must not affect the contributions payable during that year under any option, except an option under which contributions begin to be paid after the date on which the amendment takes effect.
 
 ## Annotations
 
-[^key-c294402499c48a1b4ee09fbfdd3d67d8]: Textual amendment: [Reg. 59(5)](https://www.legislation.gov.uk/nisr/2015/120/regulation/59/5) substituted (18.6.2025 with effect from 1/4/2025) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)[(9)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/9), [26](https://www.legislation.gov.uk/nisr/2025/100/regulation/26)
+[^c-c294402499c48a1b4ee09fbfdd3d67d8]: Textual amendment: [Reg. 59(5)](https://www.legislation.gov.uk/nisr/2015/120/regulation/59/5) substituted (18.6.2025 with effect from 1/4/2025) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)[(9)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/9), [26](https://www.legislation.gov.uk/nisr/2025/100/regulation/26)

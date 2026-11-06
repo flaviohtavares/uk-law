@@ -25,10 +25,10 @@ summary: ''
 (2) If an ill health pension becomes payable to M in consequence of a claim made before the end of the refund period—
 
 - (a) any periodic payments that have been made under the election must be repaid to M;
-- (b)[^key-f83e9bf1930ef232f0eab397598dadf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f83e9bf1930ef232f0eab397598dadf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the amount of accrued additional pension attributable to the election as at the last day of pensionable service must be disregarded.
 
-(4)[^key-60ae8df4c55d3281a42989a4f137f0be] If an ill-health pension becomes payable to M in consequence of a claim made after the end of the refund period—
+(4)[^c-60ae8df4c55d3281a42989a4f137f0be] If an ill-health pension becomes payable to M in consequence of a claim made after the end of the refund period—
 
 - (a) the periodic payments under the additional pension election are treated as being paid until the end of the contributions payment period for the election; and
 - (b) paragraph (4) applies.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f83e9bf1930ef232f0eab397598dadf0]: Textual amendment: Reg. 69(2)(b) omitted (31.1.2018) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/9/2)
+[^c-f83e9bf1930ef232f0eab397598dadf0]: Textual amendment: Reg. 69(2)(b) omitted (31.1.2018) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/9/2)
 
-[^key-60ae8df4c55d3281a42989a4f137f0be]: Textual amendment: Reg. 69(4)(5) substituted for reg. 69(3) (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/9/3)
+[^c-60ae8df4c55d3281a42989a4f137f0be]: Textual amendment: Reg. 69(4)(5) substituted for reg. 69(3) (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/9/3)

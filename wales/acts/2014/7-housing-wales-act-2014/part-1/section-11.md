@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Requirement for agents to be licensed to carry out property management work[^key-fe7318a07840d1f827e4639a7ce30817]
+## 11. Requirement for agents to be licensed to carry out property management work[^c-fe7318a07840d1f827e4639a7ce30817]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe7318a07840d1f827e4639a7ce30817]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2014/7/section/11) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-fe7318a07840d1f827e4639a7ce30817]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2014/7/section/11) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

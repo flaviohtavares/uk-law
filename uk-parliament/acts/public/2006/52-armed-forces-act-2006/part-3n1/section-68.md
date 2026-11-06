@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Section 67: supplementary[^key-6ffc33db07123a7bb4852abd40d3c421][^key-51a074d2d04c637d68408d1b9b7e3a43]
+## 68. Section 67: supplementary[^c-6ffc33db07123a7bb4852abd40d3c421][^c-51a074d2d04c637d68408d1b9b7e3a43]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ is to be treated in relation to the offence as if he were a civilian subject to 
 
 ## Annotations
 
-[^key-6ffc33db07123a7bb4852abd40d3c421]: Commencement: S. 68 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-6ffc33db07123a7bb4852abd40d3c421]: Commencement: S. 68 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-51a074d2d04c637d68408d1b9b7e3a43]: Commencement: S. 68 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-51a074d2d04c637d68408d1b9b7e3a43]: Commencement: S. 68 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

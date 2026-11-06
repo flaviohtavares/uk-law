@@ -24,7 +24,7 @@ summary: ''
 
 (2) The allowable expenses are to be set against the trustees' trust rate income for the current tax year in accordance with section 486.
 
-(3)[^key-4666bd6997a1cb4033529b186cf54626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4666bd6997a1cb4033529b186cf54626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) So far as any of the trustees' trust rate income has an amount set against it in accordance with section 486, income tax is charged on it at the rate or rates which would apply apart from Chapter 3 (see Chapter 2 of Part 2).
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4666bd6997a1cb4033529b186cf54626]: Textual amendment: [S. 484(3)](https://www.legislation.gov.uk/ukpga/2007/3/section/484/3) omitted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 13(3)(h)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/13/3/h), [14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/4)
+[^c-4666bd6997a1cb4033529b186cf54626]: Textual amendment: [S. 484(3)](https://www.legislation.gov.uk/ukpga/2007/3/section/484/3) omitted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 13(3)(h)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/13/3/h), [14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/4)

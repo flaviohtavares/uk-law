@@ -41,13 +41,13 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of thepowers conferred by section 14 of the Harbours Act 1964[^f00001], and now vested in him[^f00002], and of all other powers enabling him in that behalf, and on the application of the Cumbria County Council in accordance with section 7(5) of the Pilotage Act 1987[^f00003], hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-fe60c6984546c75f9d82175bcabe3db6]
+## 1. Citation and commencement[^c-fe60c6984546c75f9d82175bcabe3db6]
 
 (1) This Order may be cited as the Workington (Pilotage) Harbour Revision Order 1988, and shall come into force on 1st October 1988.
 
 (2) The Workington Harbour Acts 1957[^f00004] and 1974[^f00005] and this Order may be cited together as the Workington Harbour Acts and Order 1957 to 1988.
 
-## 2. Interpretation[^key-8fc45749f78eaf7a75c55e4e32c76d4a]
+## 2. Interpretation[^c-8fc45749f78eaf7a75c55e4e32c76d4a]
 
 In this Order—
 
@@ -55,7 +55,7 @@ In this Order—
 - “the harbour” means the port and harbour of Workington within the limits of the harbour prescribed by section 12 (Harbour limits) of the Workington Harbour and Dock (Transfer) Act 1957; and
 - “the signed plan” means the plan signed in triplicate by an Under Secretary in the Department of Transport, two copies of which have been deposited at that Department and one copy of which has been deposited at the offices of the Council situated at The Courts, Carlisle.
 
-## 3. Extension of limits of jurisdiction for purposes of pilotage[^key-b9975289260d6859dd524d808d3ee414]
+## 3. Extension of limits of jurisdiction for purposes of pilotage[^c-b9975289260d6859dd524d808d3ee414]
 
 The limits within which the Council shall have jurisdiction for the purposes of pilotage under Part I of the Pilotage Act 1987 shall include (in addition to the harbour) the area coloured pink on the signed plan, being so much of the area outside the harbour as lies within the following imaginary straight lines—
 
@@ -90,12 +90,12 @@ The applicants for this Order are the Cumbria County Council.
 
 [^f00003]: Footnote: [1987 c. 21](https://www.legislation.gov.uk/ukpga/1987/21).
 
-[^key-fe60c6984546c75f9d82175bcabe3db6]: Commencement: Art. 1 in force at 1.10.1988, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/1629/article/1/1)
+[^c-fe60c6984546c75f9d82175bcabe3db6]: Commencement: Art. 1 in force at 1.10.1988, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/1629/article/1/1)
 
 [^f00004]: Footnote: [1957 c.xxxii](https://www.legislation.gov.uk/ukla/1957/32).
 
 [^f00005]: Footnote: [1974 c.xxviii](https://www.legislation.gov.uk/ukla/1974/28).
 
-[^key-8fc45749f78eaf7a75c55e4e32c76d4a]: Commencement: Art. 2 in force at 1.10.1988, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/1629/article/1/1)
+[^c-8fc45749f78eaf7a75c55e4e32c76d4a]: Commencement: Art. 2 in force at 1.10.1988, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/1629/article/1/1)
 
-[^key-b9975289260d6859dd524d808d3ee414]: Commencement: Art. 3 in force at 1.10.1988, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/1629/article/1/1)
+[^c-b9975289260d6859dd524d808d3ee414]: Commencement: Art. 3 in force at 1.10.1988, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/1629/article/1/1)

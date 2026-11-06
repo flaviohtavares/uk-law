@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2015 (revoked)[^key-957d23d13ff5d0da6a635ac05e042d22]
+The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2015 (revoked)[^c-957d23d13ff5d0da6a635ac05e042d22]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 April 2015
 
-[^key-957d23d13ff5d0da6a635ac05e042d22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-957d23d13ff5d0da6a635ac05e042d22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-957d23d13ff5d0da6a635ac05e042d22]
+## 1. Title, commencement and application[^c-957d23d13ff5d0da6a635ac05e042d22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^key-957d23d13ff5d0da6a635ac05e042d22]
+## 2. Amendment to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^c-957d23d13ff5d0da6a635ac05e042d22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-957d23d13ff5d0da6a635ac05e042d22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-957d23d13ff5d0da6a635ac05e042d22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-957d23d13ff5d0da6a635ac05e042d22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-957d23d13ff5d0da6a635ac05e042d22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-957d23d13ff5d0da6a635ac05e042d22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/655) revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/4) (with [reg. 7](https://www.legislation.gov.uk/wsi/2017/113/regulation/7))
+[^c-957d23d13ff5d0da6a635ac05e042d22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/655) revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/4) (with [reg. 7](https://www.legislation.gov.uk/wsi/2017/113/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Environmental targets: process[^key-51406dcf67deefad27c815c528b116c4][^key-47a3ebc3f6beac7b8d6a17dd3cdf4e4f]
+## 4. Environmental targets: process[^c-51406dcf67deefad27c815c528b116c4][^c-47a3ebc3f6beac7b8d6a17dd3cdf4e4f]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ must be laid before Parliament on or before 31 October 2022.
 
 ## Annotations
 
-[^key-51406dcf67deefad27c815c528b116c4]: Commencement: S. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-51406dcf67deefad27c815c528b116c4]: Commencement: S. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-47a3ebc3f6beac7b8d6a17dd3cdf4e4f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/30/section/4) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)
+[^c-47a3ebc3f6beac7b8d6a17dd3cdf4e4f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/30/section/4) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)

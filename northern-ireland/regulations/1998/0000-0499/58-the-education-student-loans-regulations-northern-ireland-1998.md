@@ -42,15 +42,15 @@ The Department of Education, in exercise of the powers conferred on it by Articl
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-b2f9a3b1eeef34b6964272270c857104]
+### 1. Citation and commencement[^c-b2f9a3b1eeef34b6964272270c857104]
 
 These Regulations may be cited as the Education (Student Loans) Regulations (Northern Ireland) 1998 and shall come into operation on 1st March 1998.
 
-### 2. Revocations[^key-56315f30c566f63e8be6eec5fd933857]
+### 2. Revocations[^c-56315f30c566f63e8be6eec5fd933857]
 
 The Education (Student Loans) Regulations (Northern Ireland) 1997[^f00002] and the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1998[^f00003] are hereby revoked.
 
-### 3. Interpretation[^key-230648b801c578f27887189aee1d69c4]
+### 3. Interpretation[^c-230648b801c578f27887189aee1d69c4]
 
 (1) In these Regulations—
 
@@ -97,7 +97,7 @@ shall be considered to have always been part of the European Economic Area.
 
 ## Part II — Eligibility for Loans
 
-### 4. Conditions of eligibility[^key-96d6990a556601101cb5be119588160f]
+### 4. Conditions of eligibility[^c-96d6990a556601101cb5be119588160f]
 
 (1) Subject to paragraph (2), a student shall be eligible for a loan in relation to an academic year if he—
 
@@ -120,13 +120,13 @@ shall be considered to have always been part of the European Economic Area.
 
 ## Part III — Designation of Courses
 
-### 5. Designation of courses by the Department[^key-3713446699891fd7a7d52ef184c8fc35]
+### 5. Designation of courses by the Department[^c-3713446699891fd7a7d52ef184c8fc35]
 
 For the purposes of Article 3 of the Order the Department may designate courses of higher education at institutions other than institutions receiving support from public funds.
 
 ## Part IV — Loans: Amounts and Terms
 
-### 6. Amounts of loans[^key-5b6ebe91a4fdd22e9a1a5e6f89fc239d]
+### 6. Amounts of loans[^c-5b6ebe91a4fdd22e9a1a5e6f89fc239d]
 
 (1) Subject to paragraphs (3) to (5), in the case of a student attending a course at the University of London or at any institution within the area comprising the City of London and the metropolitan police district, the maximum amount of the loan in relation to any academic year shall be—
 
@@ -144,7 +144,7 @@ For the purposes of Article 3 of the Order the Department may designate courses 
 
 (5) For the purposes of paragraphs (1) to (3), where a postgraduate course of initial training for teachers is of only one academic year’s duration that year shall not be treated as a final year, and for the purposes of paragraphs (1) and (2) a student’s place of residence is his place of residence on the date a certificate is given in respect of him pursuant to regulation 8.
 
-### 7. Terms of loans[^key-017090f8e95436e1e0997ab8f5b3323f]
+### 7. Terms of loans[^c-017090f8e95436e1e0997ab8f5b3323f]
 
 (1) Every agreement for a loan made before or after these Regulations come into operation shall include the terms set out in Part I of Schedule 2.
 
@@ -152,7 +152,7 @@ For the purposes of Article 3 of the Order the Department may designate courses 
 
 ## Part V — Higher Education Institutions: Duties
 
-### 8. Duties of governing bodies in relation to loans[^key-0f9de511c1176b0e21af09c1d66d82fe]
+### 8. Duties of governing bodies in relation to loans[^c-0f9de511c1176b0e21af09c1d66d82fe]
 
 (1) This regulation prescribes the steps to be taken by the governing body of each institution at which eligible students are attending courses for the purposes of, or in connection with, applications for loans.
 
@@ -220,7 +220,7 @@ Assistant Secretary
 
 Regulation 4(1)(*b*)
 
-**1.**[^key-dd40155ba506a8818b98e99529efd74b] (1) A person who on the first day of the course—
+**1.**[^c-dd40155ba506a8818b98e99529efd74b] (1) A person who on the first day of the course—
 
 - (a) is settled in the United Kingdom within the meaning of the Immigration Act 1971[^f00018]; and
 - (b) meets the residence conditions referred to in paragraph 7.
@@ -232,9 +232,9 @@ Regulation 4(1)(*b*)
   - (i) disregarding any intervening vacation immediately after ceasing to attend that course commenced attending his present course, or
   - (ii) in like fashion commenced attending another course or courses one after the other in respect of each of which he was eligible for a loan, until in like fashion he commenced attending his present course.
 
-**2.**[^key-1de32ae0e8e2086a5457712f0a2b9723] A person who is a refugee, ordinarily resident in the United Kingdom and Islands, who has not ceased to be so ordinarily resident since he was recognised as a refugee, or who is the spouse, child or stepchild of such a refugee.
+**2.**[^c-1de32ae0e8e2086a5457712f0a2b9723] A person who is a refugee, ordinarily resident in the United Kingdom and Islands, who has not ceased to be so ordinarily resident since he was recognised as a refugee, or who is the spouse, child or stepchild of such a refugee.
 
-**3.**[^key-fc83ae647c1e439c7c73b0f58020a5d9] A person who—
+**3.**[^c-fc83ae647c1e439c7c73b0f58020a5d9] A person who—
 
 - (a) has been informed by a person acting under the authority of the Secretary of State for the Home Department that, although he is considered not to qualify for recognition as a refugee, it is thought right to allow him to enter or remain in the United Kingdom;
 - (b) has been granted leave to enter or remain accordingly; and
@@ -242,24 +242,24 @@ Regulation 4(1)(*b*)
 
 or who is the spouse, child or stepchild of such a person, where the person, or as the case may be the spouse or child, meets the residence conditions referred to in paragraph 7.
 
-**4.**[^key-272b9029526260bd7480b105e02e498d] A person who is an EEA migrant worker who—
+**4.**[^c-272b9029526260bd7480b105e02e498d] A person who is an EEA migrant worker who—
 
 - (a) is entitled to a loan by virtue of Article 7(2) or (3) of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on freedom of movement of workers within the Community, as extended by the EEA Agreement[^f00019], or, where he is a national of the United KIngdom, by virtue of an enforceable Community right to be treated no less favourably than a national of another member State in relation to matters which are the subject of Article 7(2) and (3); and
 - (b) meets the residence conditions referred to in paragraph 7.
 
-**5.**[^key-b4115553f727fbbd180c049d57eea8eb] A person who is the spouse of an EEA migrant worker who—
+**5.**[^c-b4115553f727fbbd180c049d57eea8eb] A person who is the spouse of an EEA migrant worker who—
 
 - (a) is installed in the United Kingdom with the migrant worker; and
 - (b) meets the residence conditions referred to in paragraph 7.
 
-**6.**[^key-b1a2508bbb3259222e4dd22acf387403] (1) A person who is the child of an EEA migrant worker who—
+**6.**[^c-b1a2508bbb3259222e4dd22acf387403] (1) A person who is the child of an EEA migrant worker who—
 
 - (a) is entitled to a loan by virtue of Article 12 of the above-mentioned Council Regulation, or, where his migrant worker parent is a national of the United Kingdom, by virtue of an enforceable Community right to be treated no less favourably than the child of a national of another member State in relation to matters which are the subject of Article 12; and
 - (b) meets the residence conditions referred to in paragraph 7.
 
 (2) For the purposes of this paragraph “parent” includes a guardian, any other person having parental responsibility for a child and any person having care of a child, and “child” shall be construed accordingly.
 
-**7.**[^key-03c6c5a291504e695480d73d5ba402c1] The residence conditions referred to above are that—
+**7.**[^c-03c6c5a291504e695480d73d5ba402c1] The residence conditions referred to above are that—
 
 - (a) the person has been ordinarily resident throughout the three years period preceding the first day of the course, in the case of a person mentioned in paragraph 1 or 3, in the United Kingdom and Islands, or, in the case of a person mentioned in paragraph 4, 5 or 6, in the European Economic Area; and
 - (b) his residence in the United Kingdom and Islands, or in the European Economic Area, as the case may be, has not during any part of the period referred to in sub-paragraph (*a*) been wholly or mainly for the purpose of receiving full-time education.
@@ -270,7 +270,7 @@ Regulation 7
 
 ### Part I — Terms of Loans
 
-**1.**[^key-e1019145ac9b8e27bb9ca55f647942b0] In the loan agreement:
+**1.**[^c-e1019145ac9b8e27bb9ca55f647942b0] In the loan agreement:
 
 - “APR” means the annual percentage rate of charge calculated under the Consumer Credit (Total Charge for Credit) Regulations 1980[^f00020];
 - “course” means the course of study on which the borrower was registered when his eligibility for the loan was confirmed by the HEI and includes a different course at the same HEI if the borrower would have been eligible for a loan on that course and he transfers to it without a break in study;
@@ -284,36 +284,36 @@ Regulation 7
 - “RPI rate” means the percentage increase between the retail prices all items indices published by the Office for National Statistics for the two months of March immediately preceding the 1st September on which the interest rate is changed or, if that retail prices index is not published, another index which reflects price increases which the lender gives the borrower details of;
 - “student loan” means a loan made by the Student Loans Company Limited under the Education (Student Loans) (Northern Ireland) Order 1990 (as amended) or the Education (Student Loans) Act 1990 (as amended).
 
-**2.**[^key-427ed18e4bee3601261a5415be4476c4] Interest will be calculated daily on the amount of the loan outstanding and will be added to the loan monthly and form part of it until the loan is repaid in full. The lender will continue to charge interest on any overdue payments both before and after judgment and during any period when the borrower does not have to make repayments, including any period of deferment.
+**2.**[^c-427ed18e4bee3601261a5415be4476c4] Interest will be calculated daily on the amount of the loan outstanding and will be added to the loan monthly and form part of it until the loan is repaid in full. The lender will continue to charge interest on any overdue payments both before and after judgment and during any period when the borrower does not have to make repayments, including any period of deferment.
 
-**3.**[^key-9fdf0108d35414bc02ecf59498c74017] The interest rate for the period between 1st September and the following 31st August will be the daily rate which results in an APR equal to the RPI rate. The lender will tell the borrower what the new rate is each year.
+**3.**[^c-9fdf0108d35414bc02ecf59498c74017] The interest rate for the period between 1st September and the following 31st August will be the daily rate which results in an APR equal to the RPI rate. The lender will tell the borrower what the new rate is each year.
 
-**4.**[^key-9c1a1ae36b936c7447687fa365c6d6f7] The borrower must make the first repayment in the April after he completes or leaves his course unless—
+**4.**[^c-9c1a1ae36b936c7447687fa365c6d6f7] The borrower must make the first repayment in the April after he completes or leaves his course unless—
 
 - (a) the borrower defers repayments under paragraph 9;
 - (b) the lender cancels the borrower’s loan under paragraph 12; or
 - (c) paragraph 13 applies.
 
-**5.**[^key-0411b7088f07acc6fdd87d0be4edaa36] The number of monthly repayments will be 60, or 84 if the borrower has 5 or more student loans when his first repayment is due. The lender will tell the borrower the date in each month on which repayments are due.
+**5.**[^c-0411b7088f07acc6fdd87d0be4edaa36] The number of monthly repayments will be 60, or 84 if the borrower has 5 or more student loans when his first repayment is due. The lender will tell the borrower the date in each month on which repayments are due.
 
-**6.**[^key-9ca74e07dd8d2af858731dbdf025f331] If the borrower shows the lender that he receives a disability related benefit and that because of his disability he is unfit for full-time work and is not likely to be fit for at least the next 3 years the number of monthly repayments will be 120, including any repayments already made.
+**6.**[^c-9ca74e07dd8d2af858731dbdf025f331] If the borrower shows the lender that he receives a disability related benefit and that because of his disability he is unfit for full-time work and is not likely to be fit for at least the next 3 years the number of monthly repayments will be 120, including any repayments already made.
 
-**7.**[^key-22d3717bed3e8ae4994d50e110bba22d] The lender will work out the monthly repayment amount for each year by adding to the principal balance as at 1st September (or 1st April in the case of the first repayment amount) the amount of interest which will after taking account of repayments accrue over the remaining period of the loan at the current rate and dividing the total by the number of repayments then unpaid. The first monthly repayment amount will be fixed for 5 months beginning in April and from then on each monthly repayment amount will be fixed for 12 months beginning in September.
+**7.**[^c-22d3717bed3e8ae4994d50e110bba22d] The lender will work out the monthly repayment amount for each year by adding to the principal balance as at 1st September (or 1st April in the case of the first repayment amount) the amount of interest which will after taking account of repayments accrue over the remaining period of the loan at the current rate and dividing the total by the number of repayments then unpaid. The first monthly repayment amount will be fixed for 5 months beginning in April and from then on each monthly repayment amount will be fixed for 12 months beginning in September.
 
-**8.**[^key-d41908682661eb55986393ee659964e3] The borrower can at any time prepay any or all of the loan without penalty. If he wants to repay the loan in full he can ask the lender for a written statement telling him the exact amount he needs to repay. If he makes a prepayment of part of the loan the lender will not change the borrower’s monthly repayment amount until the September which follows the prepayment.
+**8.**[^c-d41908682661eb55986393ee659964e3] The borrower can at any time prepay any or all of the loan without penalty. If he wants to repay the loan in full he can ask the lender for a written statement telling him the exact amount he needs to repay. If he makes a prepayment of part of the loan the lender will not change the borrower’s monthly repayment amount until the September which follows the prepayment.
 
-**9.**[^key-f6d71f6a206dd2708d43b7f453314520] Each year the lender will tell the borrower the new deferment level for the period between 1st September and the following 31st August. The borrower can defer making repayments of the loan if—
+**9.**[^c-f6d71f6a206dd2708d43b7f453314520] Each year the lender will tell the borrower the new deferment level for the period between 1st September and the following 31st August. The borrower can defer making repayments of the loan if—
 
 - (a) the lender has not already asked him to repay the loan in full; and
 - (b) he can show—
   - (i) that his gross income for the relevant month is not more than the deferment level; and
   - (ii) if the lender asks, that his gross average monthly income during the 3 months immediately following the relevant month will not or is unlikely to be more than the deferment level.
 
-**10.**[^key-c22ea353dff3206d1da068e8915ef956] Each deferment period will last for 12 months beginning on a date the lender tells the borrower. This date will be not more than three months before or two months after the date the lender accepts the borrower’s deferment application. The borrower can end the deferment period at any time. To do this he must tell the lender in writing when to start collecting payments from his bank account.
+**10.**[^c-c22ea353dff3206d1da068e8915ef956] Each deferment period will last for 12 months beginning on a date the lender tells the borrower. This date will be not more than three months before or two months after the date the lender accepts the borrower’s deferment application. The borrower can end the deferment period at any time. To do this he must tell the lender in writing when to start collecting payments from his bank account.
 
-**11.**[^key-3fc30fc80636414a37993700275c1c93] If the borrower can defer making repayments under paragraph 9 and he can show the lender that he gets a disability related benefit and that his gross monthly income during the 36 months immediately following the relevant month will not or is unlikely to be more than the deferment level, the deferment period will last for 36 months.
+**11.**[^c-3fc30fc80636414a37993700275c1c93] If the borrower can defer making repayments under paragraph 9 and he can show the lender that he gets a disability related benefit and that his gross monthly income during the 36 months immediately following the relevant month will not or is unlikely to be more than the deferment level, the deferment period will last for 36 months.
 
-**12.**[^key-3dccf07e5b9111913389be5218d344c1] The lender will cancel the borrower’s liability to repay the loan if the borrower—
+**12.**[^c-3dccf07e5b9111913389be5218d344c1] The lender will cancel the borrower’s liability to repay the loan if the borrower—
 
 - (a) dies;
 - (b) is not behind on any repayments under any agreement for a student loan and—
@@ -321,19 +321,19 @@ Regulation 7
   - (ii) was aged 40 or older when his last agreement for a student loan was made and he reaches the age of 60; or
 - (c) can show the lender that he gets a disability related benefit and because of his disability is permanently unfit for work.
 
-**13.**[^key-d5cf9197e3d5f33d0ce5b963f391b7f2] If after the borrower has completed or left his course, he takes another student loan in relation to a further course of study, the lender will not ask him to make any more repayments under the loan agreement until he begins to repay that student loan. The number of repayments will then be the same as for the new loan.
+**13.**[^c-d5cf9197e3d5f33d0ce5b963f391b7f2] If after the borrower has completed or left his course, he takes another student loan in relation to a further course of study, the lender will not ask him to make any more repayments under the loan agreement until he begins to repay that student loan. The number of repayments will then be the same as for the new loan.
 
-**14.**[^key-e7a435ec2eca5cf8c7340b3a6ab51bb2] Unless the lender agrees otherwise the lender will collect the borrower’s monthly repayments by direct debit. If the borrower’s account changes he must give the lender a new direct debiting instruction.
+**14.**[^c-e7a435ec2eca5cf8c7340b3a6ab51bb2] Unless the lender agrees otherwise the lender will collect the borrower’s monthly repayments by direct debit. If the borrower’s account changes he must give the lender a new direct debiting instruction.
 
-**15.**[^key-b06ddf74e82fb41cdbec943665280716] If the borrower does not make a repayment under the agreement when it is due, the lender may ask him to repay the loan in full immediately. The lender may do this even if the borrower’s obligation to make other repayments is currently deferred.
+**15.**[^c-b06ddf74e82fb41cdbec943665280716] If the borrower does not make a repayment under the agreement when it is due, the lender may ask him to repay the loan in full immediately. The lender may do this even if the borrower’s obligation to make other repayments is currently deferred.
 
-**16.**[^key-928be0d6ce7d314b129043a188c00e74] The lender may allow the borrower to make a repayment late or to miss all or part of a repayment without waiving or altering the rights against him.
+**16.**[^c-928be0d6ce7d314b129043a188c00e74] The lender may allow the borrower to make a repayment late or to miss all or part of a repayment without waiving or altering the rights against him.
 
 ### Part II — Transitional Provisions
 
-**17.**[^key-794873a35e0b53e51fc3745cffe97889] If the lender has accepted an application for deferment before 1st March 1998 the borrower may defer making repayments until the end of the 12 month period the lender has told the borrower.
+**17.**[^c-794873a35e0b53e51fc3745cffe97889] If the lender has accepted an application for deferment before 1st March 1998 the borrower may defer making repayments until the end of the 12 month period the lender has told the borrower.
 
-**18.**[^key-b3c6371e6f4c73953b312cc565d7f219] If the lender determines an application for deferment before 1st September 1998 “deferment level” shall be £1,374.
+**18.**[^c-b3c6371e6f4c73953b312cc565d7f219] If the lender determines an application for deferment before 1st September 1998 “deferment level” shall be £1,374.
 
 (This note is not part of the Regulations.)
 
@@ -357,15 +357,15 @@ There have been other minor drafting changes, but no other changes of substance 
 
 [^f00001]: Footnote: S.I. [1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506); as amended by S.I. [1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), Article 43 and Schedule 5 Part II, S.I. [1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), Article 3 and the Schedule and S.I. [1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), Articles 3 to 6
 
-[^key-b2f9a3b1eeef34b6964272270c857104]: Commencement: Reg. 1 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-b2f9a3b1eeef34b6964272270c857104]: Commencement: Reg. 1 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-56315f30c566f63e8be6eec5fd933857]: Commencement: Reg. 2 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-56315f30c566f63e8be6eec5fd933857]: Commencement: Reg. 2 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1997 No. 350](https://www.legislation.gov.uk/nisr/1997/350)
 
 [^f00003]: Footnote: [S.R. 1998 No. 22](https://www.legislation.gov.uk/nisr/1998/22)
 
-[^key-230648b801c578f27887189aee1d69c4]: Commencement: Reg. 3 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-230648b801c578f27887189aee1d69c4]: Commencement: Reg. 3 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
 [^f00004]: Footnote: Cmnd. 2073
 
@@ -377,19 +377,19 @@ There have been other minor drafting changes, but no other changes of substance 
 
 [^f00008]: Footnote: O.J. No. L257, 19.10.68, p. 2 (O.J./S.E. 1968 (II) p. 457)
 
-[^key-96d6990a556601101cb5be119588160f]: Commencement: Reg. 4 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-96d6990a556601101cb5be119588160f]: Commencement: Reg. 4 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
 [^f00009]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
 [^f00010]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6), amended by the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8, paragraph 67; by the Further and Higher Education (Scotland) Act [1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), Schedule 9, paragraphs 12(2) and (3); by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 9; by the Education (Student Loans) Act [1996 (c. 9)](https://www.legislation.gov.uk/ukpga/1996/9), Section 1(1) and the Schedule; by the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 98 and Schedule 38, and by the Education (Student Loans) Act [1998 (c. 1)](https://www.legislation.gov.uk/ukpga/1998/1), sections 1 to 3
 
-[^key-3713446699891fd7a7d52ef184c8fc35]: Commencement: Reg. 5 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-3713446699891fd7a7d52ef184c8fc35]: Commencement: Reg. 5 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-5b6ebe91a4fdd22e9a1a5e6f89fc239d]: Commencement: Reg. 6 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-5b6ebe91a4fdd22e9a1a5e6f89fc239d]: Commencement: Reg. 6 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-017090f8e95436e1e0997ab8f5b3323f]: Commencement: Reg. 7 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-017090f8e95436e1e0997ab8f5b3323f]: Commencement: Reg. 7 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-0f9de511c1176b0e21af09c1d66d82fe]: Commencement: Reg. 8 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-0f9de511c1176b0e21af09c1d66d82fe]: Commencement: Reg. 8 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
 [^f00011]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20)
 
@@ -405,25 +405,25 @@ There have been other minor drafting changes, but no other changes of substance 
 
 [^f00017]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
-[^key-dd40155ba506a8818b98e99529efd74b]: Commencement: Sch. 1 para. 1 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-dd40155ba506a8818b98e99529efd74b]: Commencement: Sch. 1 para. 1 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
 [^f00018]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); amended by the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), section 39 and Schedule 4, by the Immigration Act [1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14), sections 1, 3, 4, 6 and 10 and the Schedule, and by the Asylum and Immigration Appeals Act [1993 (c. 23)](https://www.legislation.gov.uk/ukpga/1993/23), sections 10 to 12
 
-[^key-1de32ae0e8e2086a5457712f0a2b9723]: Commencement: Sch. 1 para. 2 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-1de32ae0e8e2086a5457712f0a2b9723]: Commencement: Sch. 1 para. 2 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-fc83ae647c1e439c7c73b0f58020a5d9]: Commencement: Sch. 1 para. 3 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-fc83ae647c1e439c7c73b0f58020a5d9]: Commencement: Sch. 1 para. 3 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-272b9029526260bd7480b105e02e498d]: Commencement: Sch. 1 para. 4 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-272b9029526260bd7480b105e02e498d]: Commencement: Sch. 1 para. 4 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
 [^f00019]: Footnote: O.J. No. L257, 19.10.68, p. 2 (O.J./S.E. 1968 (II) p. 475)
 
-[^key-b4115553f727fbbd180c049d57eea8eb]: Commencement: Sch. 1 para. 5 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-b4115553f727fbbd180c049d57eea8eb]: Commencement: Sch. 1 para. 5 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-b1a2508bbb3259222e4dd22acf387403]: Commencement: Sch. 1 para. 6 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-b1a2508bbb3259222e4dd22acf387403]: Commencement: Sch. 1 para. 6 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-03c6c5a291504e695480d73d5ba402c1]: Commencement: Sch. 1 para. 7 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-03c6c5a291504e695480d73d5ba402c1]: Commencement: Sch. 1 para. 7 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-e1019145ac9b8e27bb9ca55f647942b0]: Commencement: Sch. 2 para. 1 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-e1019145ac9b8e27bb9ca55f647942b0]: Commencement: Sch. 2 para. 1 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
 [^f00020]: Footnote: S.I. [1980/51](https://www.legislation.gov.uk/uksi/1980/51) as amended by S.I. [1985/1192](https://www.legislation.gov.uk/uksi/1985/1192) and S.I. [1989/596](https://www.legislation.gov.uk/uksi/1989/596)
 
@@ -435,36 +435,36 @@ There have been other minor drafting changes, but no other changes of substance 
 
 [^f00024]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459) (*see* Parts III and IV of Schedule 2), the relevant amending regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1993 Nos. 218](https://www.legislation.gov.uk/nisr/1993/218) and [373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 327](https://www.legislation.gov.uk/nisr/1994/327) and [474](https://www.legislation.gov.uk/nisr/1994/474), [S.R. 1995 Nos. 67](https://www.legislation.gov.uk/nisr/1995/67), [86](https://www.legislation.gov.uk/nisr/1995/86) and [367](https://www.legislation.gov.uk/nisr/1995/367) and [S.R. 1997 No. 113](https://www.legislation.gov.uk/nisr/1997/113)
 
-[^key-427ed18e4bee3601261a5415be4476c4]: Commencement: Sch. 2 para. 2 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-427ed18e4bee3601261a5415be4476c4]: Commencement: Sch. 2 para. 2 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-9fdf0108d35414bc02ecf59498c74017]: Commencement: Sch. 2 para. 3 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-9fdf0108d35414bc02ecf59498c74017]: Commencement: Sch. 2 para. 3 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-9c1a1ae36b936c7447687fa365c6d6f7]: Commencement: Sch. 2 para. 4 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-9c1a1ae36b936c7447687fa365c6d6f7]: Commencement: Sch. 2 para. 4 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-0411b7088f07acc6fdd87d0be4edaa36]: Commencement: Sch. 2 para. 5 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-0411b7088f07acc6fdd87d0be4edaa36]: Commencement: Sch. 2 para. 5 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-9ca74e07dd8d2af858731dbdf025f331]: Commencement: Sch. 2 para. 6 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-9ca74e07dd8d2af858731dbdf025f331]: Commencement: Sch. 2 para. 6 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-22d3717bed3e8ae4994d50e110bba22d]: Commencement: Sch. 2 para. 7 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-22d3717bed3e8ae4994d50e110bba22d]: Commencement: Sch. 2 para. 7 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-d41908682661eb55986393ee659964e3]: Commencement: Sch. 2 para. 8 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-d41908682661eb55986393ee659964e3]: Commencement: Sch. 2 para. 8 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-f6d71f6a206dd2708d43b7f453314520]: Commencement: Sch. 2 para. 9 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-f6d71f6a206dd2708d43b7f453314520]: Commencement: Sch. 2 para. 9 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-c22ea353dff3206d1da068e8915ef956]: Commencement: Sch. 2 para. 10 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-c22ea353dff3206d1da068e8915ef956]: Commencement: Sch. 2 para. 10 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-3fc30fc80636414a37993700275c1c93]: Commencement: Sch. 2 para. 11 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-3fc30fc80636414a37993700275c1c93]: Commencement: Sch. 2 para. 11 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-3dccf07e5b9111913389be5218d344c1]: Commencement: Sch. 2 para. 12 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-3dccf07e5b9111913389be5218d344c1]: Commencement: Sch. 2 para. 12 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-d5cf9197e3d5f33d0ce5b963f391b7f2]: Commencement: Sch. 2 para. 13 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-d5cf9197e3d5f33d0ce5b963f391b7f2]: Commencement: Sch. 2 para. 13 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-e7a435ec2eca5cf8c7340b3a6ab51bb2]: Commencement: Sch. 2 para. 14 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-e7a435ec2eca5cf8c7340b3a6ab51bb2]: Commencement: Sch. 2 para. 14 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-b06ddf74e82fb41cdbec943665280716]: Commencement: Sch. 2 para. 15 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-b06ddf74e82fb41cdbec943665280716]: Commencement: Sch. 2 para. 15 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-928be0d6ce7d314b129043a188c00e74]: Commencement: Sch. 2 para. 16 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-928be0d6ce7d314b129043a188c00e74]: Commencement: Sch. 2 para. 16 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-794873a35e0b53e51fc3745cffe97889]: Commencement: Sch. 2 para. 17 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-794873a35e0b53e51fc3745cffe97889]: Commencement: Sch. 2 para. 17 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
 
-[^key-b3c6371e6f4c73953b312cc565d7f219]: Commencement: Sch. 2 para. 18 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)
+[^c-b3c6371e6f4c73953b312cc565d7f219]: Commencement: Sch. 2 para. 18 in operation at 1.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1)

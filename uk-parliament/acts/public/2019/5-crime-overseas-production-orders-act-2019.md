@@ -40,30 +40,30 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 1. Making of overseas production order on application
 
-(1)[^key-2d9718a323288c12c0da3efaa882c4e0][^M_I_cea0fef1-f4ac-4c73-f602-87e15954baa1][^key-9a3b0bb66baf951f4488ce8e2bd804f2] A judge may, on an application by an appropriate officer, make an overseas production order against a person in respect of electronic data if each of the requirements for the making of the order is fulfilled (see section 4).
+(1)[^c-2d9718a323288c12c0da3efaa882c4e0][^M_I_cea0fef1-f4ac-4c73-f602-87e15954baa1][^c-9a3b0bb66baf951f4488ce8e2bd804f2] A judge may, on an application by an appropriate officer, make an overseas production order against a person in respect of electronic data if each of the requirements for the making of the order is fulfilled (see section 4).
 
-(2)[^key-2d9718a323288c12c0da3efaa882c4e0][^key-9a3b0bb66baf951f4488ce8e2bd804f2] An application for an overseas production order must—
+(2)[^c-2d9718a323288c12c0da3efaa882c4e0][^c-9a3b0bb66baf951f4488ce8e2bd804f2] An application for an overseas production order must—
 
 - (a) specify the designated international co-operation arrangement by reference to which the application is made, and
 - (b) specify or describe the electronic data in respect of which the order is sought.
 
-(3)[^key-2d9718a323288c12c0da3efaa882c4e0][^key-9a3b0bb66baf951f4488ce8e2bd804f2] An appropriate officer applying for an overseas production order must not specify or describe in the application for the order electronic data that the appropriate officer has reasonable grounds for believing consists of or includes excepted electronic data.
+(3)[^c-2d9718a323288c12c0da3efaa882c4e0][^c-9a3b0bb66baf951f4488ce8e2bd804f2] An appropriate officer applying for an overseas production order must not specify or describe in the application for the order electronic data that the appropriate officer has reasonable grounds for believing consists of or includes excepted electronic data.
 
-(4)[^key-2d9718a323288c12c0da3efaa882c4e0][^key-9a3b0bb66baf951f4488ce8e2bd804f2] An overseas production order is an order made under this Act that either—
+(4)[^c-2d9718a323288c12c0da3efaa882c4e0][^c-9a3b0bb66baf951f4488ce8e2bd804f2] An overseas production order is an order made under this Act that either—
 
 - (a) requires the person against whom the order is made to produce the electronic data specified or described in the order, or
 - (b) requires the person against whom the order is made to give access to the electronic data specified or described in the order.
 
-(5)[^key-888d16f3c8cbf3b3a42ab11b32c3acef] In this Act “**designated international co-operation arrangement**” means a relevant treaty which—
+(5)[^c-888d16f3c8cbf3b3a42ab11b32c3acef] In this Act “**designated international co-operation arrangement**” means a relevant treaty which—
 
 - (a) relates (in whole or in part) to the provision of mutual assistance in connection with the investigation or prosecution of offences, and
 - (b) is designated by the Secretary of State by regulations.
 
-(6)[^key-888d16f3c8cbf3b3a42ab11b32c3acef] For the purposes of subsection (5) a treaty is a relevant treaty if a Minister of the Crown has laid before Parliament a copy of the treaty under section 20(1)(a) of the Constitutional Reform and Governance Act 2010.
+(6)[^c-888d16f3c8cbf3b3a42ab11b32c3acef] For the purposes of subsection (5) a treaty is a relevant treaty if a Minister of the Crown has laid before Parliament a copy of the treaty under section 20(1)(a) of the Constitutional Reform and Governance Act 2010.
 
 (“**Treaty**” and “**Minister of the Crown**” have the same meaning for the purposes of this section as they have for the purposes of Part 2 of that Act.)
 
-(7)[^key-2d9718a323288c12c0da3efaa882c4e0][^key-9a3b0bb66baf951f4488ce8e2bd804f2] In this Act—
+(7)[^c-2d9718a323288c12c0da3efaa882c4e0][^c-9a3b0bb66baf951f4488ce8e2bd804f2] In this Act—
 
 - “**appropriate officer**” has the meaning given by section 2;
 - “electronic data” and “excepted electronic data” have the meanings given by section 3;
@@ -72,7 +72,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (b) in relation to Scotland, a judge of the High Court of Justiciary or the sheriff;
   - (c) in relation to Northern Ireland, a Crown Court judge.
 
-### 2. Appropriate officers[^key-4ae881cd9966954039c0ea7b7f5d5a12][^key-6b9f4d61d54cd0a92b9714ba96764ed2][^key-ff503dff29509eada02a380662c04c17]
+### 2. Appropriate officers[^c-4ae881cd9966954039c0ea7b7f5d5a12][^c-6b9f4d61d54cd0a92b9714ba96764ed2][^c-ff503dff29509eada02a380662c04c17]
 
 (1) In this Act “**appropriate officer**” means—
 
@@ -114,7 +114,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - “**terrorist investigation**” has the same meaning as in the Terrorism Act 2000 (see section 32 of that Act);
 - “**terrorist property**” has the same meaning as in the Terrorism Act 2000 (see section 14 of that Act).
 
-### 3. Meaning of “electronic data” and “excepted electronic data”[^key-67a6f47a771da3d5e3be2cad1f4f7025][^key-f845594d166667c0dc9e22873226154f][^key-6b37e67d9d9ca92ea1500c0bfeb01369]
+### 3. Meaning of “electronic data” and “excepted electronic data”[^c-67a6f47a771da3d5e3be2cad1f4f7025][^c-f845594d166667c0dc9e22873226154f][^c-6b37e67d9d9ca92ea1500c0bfeb01369]
 
 (1) This section applies for the purposes of this Act.
 
@@ -125,9 +125,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) an item subject to legal privilege, or
 - (b) a personal record which is a confidential personal record.
 
-(4) Where the person against whom an overseas production order is sought is a telecommunications operator, this Act applies as if references to excepted electronic data included electronic data that is communications data , other than communications data to which subsection (4A) applies[^key-b8082f70858dc11aca152158c4e8dbfa].
+(4) Where the person against whom an overseas production order is sought is a telecommunications operator, this Act applies as if references to excepted electronic data included electronic data that is communications data , other than communications data to which subsection (4A) applies[^c-b8082f70858dc11aca152158c4e8dbfa].
 
-(4A)[^key-82c789538ea6075bf5adb301ca3b374c] This subsection applies to communications data which is comprised in, included as part of, attached to or logically associated with electronic data which, apart from this subsection, may be specified or described in the application for the overseas production order.
+(4A)[^c-82c789538ea6075bf5adb301ca3b374c] This subsection applies to communications data which is comprised in, included as part of, attached to or logically associated with electronic data which, apart from this subsection, may be specified or described in the application for the overseas production order.
 
 (5) Where an application for an overseas production order is made for the purposes of a terrorist investigation other than a terrorist financing investigation, this Act applies as if references to excepted electronic data did not include electronic data that is a personal record which is a confidential personal record.
 
@@ -157,7 +157,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - “**terrorist financing investigation**” has the same meaning as in Part 1 of Schedule 5A to the Terrorism Act 2000 (see paragraph 4 of that Schedule);
 - “**terrorist investigation**” has the same meaning as in the Terrorism Act 2000 (see section 32 of that Act).
 
-### 4. Requirements for making of order[^key-0648130fe017eef26ce5e2dfddbe3b83][^key-79828e81c022d9482c4bc1747f09881b][^key-d3ed4cf45c2a18323dbe58a416d21265]
+### 4. Requirements for making of order[^c-0648130fe017eef26ce5e2dfddbe3b83][^c-79828e81c022d9482c4bc1747f09881b][^c-d3ed4cf45c2a18323dbe58a416d21265]
 
 (1) The requirements for the making of an overseas production order are—
 
@@ -208,13 +208,13 @@ This requirement does not apply where the order is sought for the purposes of a 
 
 (12) In this section, “**terrorist investigation**” has the same meaning as in the Terrorism Act 2000 (see section 32 of that Act).
 
-### 5. Contents of order[^key-8da17703fed7bd187a14848f4db0730c][^key-b0dab55670944f8ad94680ed46c5334c][^key-79718702845499ae31a8961124d63156]
+### 5. Contents of order[^c-8da17703fed7bd187a14848f4db0730c][^c-b0dab55670944f8ad94680ed46c5334c][^c-79718702845499ae31a8961124d63156]
 
 (1) The electronic data specified or described in an overseas production order may be all or part of the electronic data specified or described in the application for the order (subject to subsections (2) and (3)).
 
 (2) The judge must not specify or describe in the order electronic data that the judge has reasonable grounds for believing consists of or includes excepted electronic data.
 
-(3) If the requirement in section 4(5), (6) or (7)[^key-88fdbf0dd9471a1ebdb55026de87d421] is fulfilled by reference to part only of the electronic data specified or described in the application for the order, the judge must not specify or describe in the order electronic data by reference to which the requirement is not fulfilled.
+(3) If the requirement in section 4(5), (6) or (7)[^c-88fdbf0dd9471a1ebdb55026de87d421] is fulfilled by reference to part only of the electronic data specified or described in the application for the order, the judge must not specify or describe in the order electronic data by reference to which the requirement is not fulfilled.
 
 (4) An overseas production order must specify—
 
@@ -223,7 +223,7 @@ This requirement does not apply where the order is sought for the purposes of a 
 
 (5) The period specified by virtue of subsection (4)(b) must be a period of seven days beginning with the day on which the order is served, unless it appears to the judge that a longer or shorter period would be appropriate in the particular circumstances.
 
-### 6. Effect of order[^key-3b9c450bafc688cdc72711907a409077][^key-4ca1256bc6208a1f614807c238d9ae6a][^key-173df8fb3301e3f347a55c2781cae85b]
+### 6. Effect of order[^c-3b9c450bafc688cdc72711907a409077][^c-4ca1256bc6208a1f614807c238d9ae6a][^c-173df8fb3301e3f347a55c2781cae85b]
 
 (1) A requirement in an overseas production order to produce the electronic data specified or described in the order is a requirement to produce the electronic data in a form—
 
@@ -246,7 +246,7 @@ This requirement does not apply where the order is sought for the purposes of a 
 - (c) does not require the person to do anything that (taking into account the existence of the overseas production order) would result in the person contravening the data protection legislation, and
 - (d) has effect, subject to paragraph (c), in spite of any restriction on the disclosure of information (however imposed).
 
-### 7. Variation or revocation of order[^key-a237f6384e7a7fbffa1ce184c30f520c][^key-34dc633e4e586f8c371ea08865dfd076][^key-ad015d724749af44514bb3701f55c81c]
+### 7. Variation or revocation of order[^c-a237f6384e7a7fbffa1ce184c30f520c][^c-34dc633e4e586f8c371ea08865dfd076][^c-ad015d724749af44514bb3701f55c81c]
 
 (1) A judge may, on an application by a person mentioned in subsection (2)—
 
@@ -286,7 +286,7 @@ This requirement does not apply where the order is sought for the purposes of a 
 - (a) the appropriate officer falls within the same sub-paragraph of section 2(1)(a) or (b) as the appropriate officer who applied for the order, and
 - (b) where that sub-paragraph is sub-paragraph (vii) of section 2(1)(a) or sub-paragraph (v) of section 2(1)(b), the appropriate officer is of the same description as the appropriate officer who applied for the order.
 
-### 8. Inclusion of non-disclosure requirement in order[^key-a52cd7515f5e01b06b8883ada55835fb][^key-a975a555c5dca18d112ee6282346b49f][^key-94c4becc29f13d1855a6343e188a8803]
+### 8. Inclusion of non-disclosure requirement in order[^c-a52cd7515f5e01b06b8883ada55835fb][^c-a975a555c5dca18d112ee6282346b49f][^c-94c4becc29f13d1855a6343e188a8803]
 
 (1) A judge making an overseas production order may include a non-disclosure requirement in the order.
 
@@ -308,22 +308,22 @@ This requirement does not apply where the order is sought for the purposes of a 
 
 ## Supplementary
 
-### 9. Restrictions on service of order[^key-392cda1f32054444d330143eac180569][^key-0312291c1e70cbf68a82469ab7ad2019][^key-0f2a463f6b20512a72ac017e782a0474]
+### 9. Restrictions on service of order[^c-392cda1f32054444d330143eac180569][^c-0312291c1e70cbf68a82469ab7ad2019][^c-0f2a463f6b20512a72ac017e782a0474]
 
 (1) An overseas production order that is not served within the period of 3 months beginning with the day on which the order is made is to be treated as if it had been quashed immediately after the end of that period.
 
-(2) An overseas production order made in England and Wales or Northern Ireland may be served only by the Secretary of State or a prescribed person[^key-9cd5761cdb590f8c67e627be1e8e659c].
+(2) An overseas production order made in England and Wales or Northern Ireland may be served only by the Secretary of State or a prescribed person[^c-9cd5761cdb590f8c67e627be1e8e659c].
 
-(3) An overseas production order made in Scotland may be served only by the Lord Advocate or a prescribed person[^key-d08c4239a37df49361fe10d7620ad3f6].
+(3) An overseas production order made in Scotland may be served only by the Lord Advocate or a prescribed person[^c-d08c4239a37df49361fe10d7620ad3f6].
 
-(4) A person[^key-130fc17dea343926bcd2d2099730d06b] may serve an overseas production order only if that person[^key-4d912fb5cf2ac87b89561d6b031ea9bc] considers that to do so would be in accordance with a designated international co-operation arrangement.
+(4) A person[^c-130fc17dea343926bcd2d2099730d06b] may serve an overseas production order only if that person[^c-4d912fb5cf2ac87b89561d6b031ea9bc] considers that to do so would be in accordance with a designated international co-operation arrangement.
 
-(5)[^key-14713bf2cff8607b01d4a5d938e65494] In this section “prescribed person”—
+(5)[^c-14713bf2cff8607b01d4a5d938e65494] In this section “prescribed person”—
 
 - (a) in relation to an overseas production order made in England and Wales or Northern Ireland, means a person prescribed by regulations made by the Secretary of State;
 - (b) in relation to an overseas production order made in Scotland, means a person prescribed by regulations made by the Lord Advocate.
 
-### 10. Retention of electronic data and use as evidence[^key-3d4af5d5768cdc9ff8fc111e6973c089][^key-0657b0403268c4fcd606afced555d6e9][^key-ece94a353c0fb8712c827623dce0c019]
+### 10. Retention of electronic data and use as evidence[^c-3d4af5d5768cdc9ff8fc111e6973c089][^c-0657b0403268c4fcd606afced555d6e9][^c-ece94a353c0fb8712c827623dce0c019]
 
 (1) Electronic data produced in compliance with an overseas production order may be retained for so long as is necessary in all the circumstances.
 
@@ -355,7 +355,7 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 (5) In Scotland, electronic data produced in compliance with an overseas production order may be received in evidence without being sworn to by witnesses, so far as that may be done without unfairness to either party.
 
-### 11. Procedural matters[^key-e3dc2669fb54dd28828b2d812d524433][^key-171b5cba779bc49561a8e77635389643][^key-e90662b5b9b69cb619ce9e91a8b63527]
+### 11. Procedural matters[^c-e3dc2669fb54dd28828b2d812d524433][^c-171b5cba779bc49561a8e77635389643][^c-e90662b5b9b69cb619ce9e91a8b63527]
 
 (1) Rules of court may make provision as to the practice and procedure to be followed in connection with proceedings relating to an overseas production order.
 
@@ -365,7 +365,7 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 (4) An order made under this Act by a judge in England and Wales entitled to exercise the jurisdiction of the Crown Court, or by a Crown Court judge in Northern Ireland, has effect as if it were an order of the Crown Court.
 
-### 12. Notice of application for order: journalistic data[^key-80482b92fe78b607735df9b369b54877][^key-ceebd5b80408b96218bcff159c390eef][^key-62fc862ada10dc001c75955e56bd03df]
+### 12. Notice of application for order: journalistic data[^c-80482b92fe78b607735df9b369b54877][^c-ceebd5b80408b96218bcff159c390eef][^c-62fc862ada10dc001c75955e56bd03df]
 
 (1) This section applies to an application for an overseas production order if there are reasonable grounds for believing that the electronic data specified or described in the application consists of or includes journalistic data.
 
@@ -400,7 +400,7 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 (9) In this section, “**terrorist investigation**” has the same meaning as in the Terrorism Act 2000 (see section 32 of that Act).
 
-### 13. Effect of notice of application[^key-f086e5002eb005b0af500bace270a361][^key-6de17b9c5b5f9e8d9fad6a58ffab32c9][^key-25fcf4d6b726bf6e74bf348552c2d214]
+### 13. Effect of notice of application[^c-f086e5002eb005b0af500bace270a361][^c-6de17b9c5b5f9e8d9fad6a58ffab32c9][^c-25fcf4d6b726bf6e74bf348552c2d214]
 
 (1) Where notice of an application for an overseas production order is served on a person (whether under section 12 or otherwise), the person must not—
 
@@ -434,7 +434,7 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 (8) In subsection (5), “**non-disclosure requirement**” has the meaning given by section 8(2).
 
-### 14. Means of service[^key-234a2dfcfaac3cb5e0c07ab302ca4d79][^key-d8f4f92b283c3a0d3261f51ba2a2c750][^key-6abdba5a9d2563a245793ffd36a5b52c]
+### 14. Means of service[^c-234a2dfcfaac3cb5e0c07ab302ca4d79][^c-d8f4f92b283c3a0d3261f51ba2a2c750][^c-6abdba5a9d2563a245793ffd36a5b52c]
 
 (1) This section applies in relation to—
 
@@ -450,8 +450,8 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 - (b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person's behalf, will accept service of documents of the same description as the order, notice or other document, by delivering it to that address;
 - (c) by making it available for inspection (whether to the person or to someone acting on the person's behalf) at a place in the United Kingdom (but this is subject to subsection (4));
 - (d) in accordance with arrangements made—
-  - (i) where the order, notice or other document is made or issued in England and Wales or Northern Ireland, by the Secretary of State or a prescribed person[^key-87ece537659d43c86a049f3bd0003bb9];
-  - (ii) where the order, notice or other document is made or issued in Scotland, by the Lord Advocate or a prescribed person[^key-faf25270054ed242e02aa3c1f34dfbdc].
+  - (i) where the order, notice or other document is made or issued in England and Wales or Northern Ireland, by the Secretary of State or a prescribed person[^c-87ece537659d43c86a049f3bd0003bb9];
+  - (ii) where the order, notice or other document is made or issued in Scotland, by the Lord Advocate or a prescribed person[^c-faf25270054ed242e02aa3c1f34dfbdc].
 
 (4) The order, notice or other document may be served on a person outside the United Kingdom in the way mentioned in subsection (3)(c) only if—
 
@@ -460,12 +460,12 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 (5) The steps mentioned in subsection (4)(b) must be taken as soon as reasonably practicable after the order, notice or other document is made available for inspection.
 
-(6)[^key-0dd65bec88d703eb3769327e7002cfa7] In this section “prescribed person”—
+(6)[^c-0dd65bec88d703eb3769327e7002cfa7] In this section “prescribed person”—
 
 - (a) in relation to an order, notice or other document made or issued in England and Wales or Northern Ireland, means a person prescribed by regulations made by the Secretary of State;
 - (b) in relation to an order, notice or other document made or issued in Scotland, means a person prescribed by regulations made by the Lord Advocate.
 
-### 15. Application of Act to service police[^key-8d59eef90e97ac678dbcaa6ed22ce05e]
+### 15. Application of Act to service police[^c-8d59eef90e97ac678dbcaa6ed22ce05e]
 
 (1) A judge advocate may, on an application by a member of a service police force, make an overseas production order against a person in respect of electronic data if each of the requirements for the making of the order is fulfilled (see section 4).
 
@@ -475,17 +475,17 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 - (a) references to a judge are to be read as references to a judge advocate;
 - (b) references to an appropriate officer are to be read as references to a member of a service police force;
-- (c)[^key-2dd804d172c7dc9f2f21815665c8b708] references to an equivalent appropriate officer are to be read as follows—
+- (c)[^c-2dd804d172c7dc9f2f21815665c8b708] references to an equivalent appropriate officer are to be read as follows—
   - (i) where the person who applied for the order or, as the case may be, made the application (“the applicant”) was a member of the tri-service serious crime unit, as references to a member of that unit;
   - (ii) in any other case, as references to a member of the same service police force as the applicant who is not a member of that unit.
 - (d) in section 3, “item subject to legal privilege” is to have the same meaning as in the Police and Criminal Evidence Act 1984 (see section 10 of that Act);
 - (e) the reference in sections 4(3)(a) and 12(4)(a) to an indictable offence is to be read as a reference to an offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales is an indictable offence;
 - (f) section 7(2) is to be read as if paragraphs (c) and (d) were replaced with a new paragraph (c) referring to the Secretary of State;
 - (g) section 9 is to be read as if—
-  - (i) the reference in subsection (2) to an overseas production order made in England and Wales or Northern Ireland were a reference to an overseas production order made by a judge advocate, [^key-bc955328e81abf5acc2374a3bf7a432c]...
-  - (ii) subsection (3) were omitted , and[^key-55799fcc8b0f6347340571eef9c0033a]
+  - (i) the reference in subsection (2) to an overseas production order made in England and Wales or Northern Ireland were a reference to an overseas production order made by a judge advocate, [^c-bc955328e81abf5acc2374a3bf7a432c]...
+  - (ii) subsection (3) were omitted , and[^c-55799fcc8b0f6347340571eef9c0033a]
   - (iii) subsection (5) defined “prescribed person” as a person prescribed by regulations made by the Secretary of State;
-- (h)[^key-f0e94dee12050ddbd2b0ef3931333b91] section 14 is to be read as if—
+- (h)[^c-f0e94dee12050ddbd2b0ef3931333b91] section 14 is to be read as if—
   - (i) the reference in subsection (1)(c) to a court in England and Wales, Scotland or Northern Ireland included the Court Martial,
   - (ii) subsection (3)(d) referred only to arrangements made by the Secretary of State or a prescribed person, and
   - (iii) subsection (6) defined “prescribed person” as a person prescribed by regulations made by the Secretary of State.
@@ -508,11 +508,11 @@ This includes retaining it so that it may be used as evidence in proceedings in 
   - (a) the Royal Navy Police,
   - (b) the Royal Military Police, or
   - (c) the Royal Air Force Police.
-- “[^key-f7c48929daee8b614d30e9adbc556ee2]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+- “[^c-f7c48929daee8b614d30e9adbc556ee2]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 
 ## Miscellaneous and general
 
-### 16. Designation of international agreements for purposes of section 52 of Investigatory Powers Act 2016[^key-546c8dfc94a9731761b05abb778de115]
+### 16. Designation of international agreements for purposes of section 52 of Investigatory Powers Act 2016[^c-546c8dfc94a9731761b05abb778de115]
 
 (1) Section 52 of the Investigatory Powers Act 2016 (interception of communications in accordance with overseas requests) is amended as follows.
 
@@ -530,7 +530,7 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 (1) Any power of the Secretary of State to make regulations under this Act is exercisable by statutory instrument.
 
-(2) Regulations under section 1(5)(b), 2(1) , 4(1)(b), 9(5) or 14(6)[^key-f126dec67b58a74542a29ee69b7a98cf] may make—
+(2) Regulations under section 1(5)(b), 2(1) , 4(1)(b), 9(5) or 14(6)[^c-f126dec67b58a74542a29ee69b7a98cf] may make—
 
 - (a) different provision for different purposes,
 - (b) different provision for different areas, and
@@ -542,7 +542,7 @@ This includes retaining it so that it may be used as evidence in proceedings in 
 
 (5) Any other statutory instrument containing regulations under this Act, other than a statutory instrument containing regulations under section 20, is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(6)[^key-208d20c9d0ff9b961320591665a2a029] Regulations made by the Lord Advocate under section 9(5) or 14(6) are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+(6)[^c-208d20c9d0ff9b961320591665a2a029] Regulations made by the Lord Advocate under section 9(5) or 14(6) are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
 
 ### 18. Interpretation
 
@@ -586,128 +586,128 @@ This Act may be cited as the Crime (Overseas Production Orders) Act 2019.
 
 ## Annotations
 
-[^key-2d9718a323288c12c0da3efaa882c4e0]: Commencement: S. 1(1)-(4)(7) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/a)
+[^c-2d9718a323288c12c0da3efaa882c4e0]: Commencement: S. 1(1)-(4)(7) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/a)
 
 [^M_I_cea0fef1-f4ac-4c73-f602-87e15954baa1]: Commencement: S. 1(1)-(4)(7) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/a)
 
-[^key-9a3b0bb66baf951f4488ce8e2bd804f2]: Commencement: [S. 1(1)-(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/1/1), [(7)](https://www.legislation.gov.uk/ukpga/2019/5/section/1/7) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/a)
+[^c-9a3b0bb66baf951f4488ce8e2bd804f2]: Commencement: [S. 1(1)-(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/1/1), [(7)](https://www.legislation.gov.uk/ukpga/2019/5/section/1/7) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/a)
 
-[^key-888d16f3c8cbf3b3a42ab11b32c3acef]: Commencement: S. 1(5)(6) in force at 9.10.2019 by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/a)
+[^c-888d16f3c8cbf3b3a42ab11b32c3acef]: Commencement: S. 1(5)(6) in force at 9.10.2019 by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/a)
 
-[^key-4ae881cd9966954039c0ea7b7f5d5a12]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/5/section/2) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-4ae881cd9966954039c0ea7b7f5d5a12]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/5/section/2) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-6b9f4d61d54cd0a92b9714ba96764ed2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/5/section/2) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/b)
+[^c-6b9f4d61d54cd0a92b9714ba96764ed2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/5/section/2) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/b)
 
-[^key-ff503dff29509eada02a380662c04c17]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/5/section/2) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/b)
+[^c-ff503dff29509eada02a380662c04c17]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/5/section/2) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/b)
 
-[^key-67a6f47a771da3d5e3be2cad1f4f7025]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/5/section/3) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/c)
+[^c-67a6f47a771da3d5e3be2cad1f4f7025]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/5/section/3) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/c)
 
-[^key-f845594d166667c0dc9e22873226154f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/5/section/3) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-f845594d166667c0dc9e22873226154f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/5/section/3) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-6b37e67d9d9ca92ea1500c0bfeb01369]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/5/section/3) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/c)
+[^c-6b37e67d9d9ca92ea1500c0bfeb01369]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/5/section/3) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/c)
 
-[^key-b8082f70858dc11aca152158c4e8dbfa]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/3/4) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/2/2)
+[^c-b8082f70858dc11aca152158c4e8dbfa]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/3/4) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/2/2)
 
-[^key-82c789538ea6075bf5adb301ca3b374c]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/2019/5/section/3/4A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/2/3)
+[^c-82c789538ea6075bf5adb301ca3b374c]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/2019/5/section/3/4A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/2/3)
 
-[^key-0648130fe017eef26ce5e2dfddbe3b83]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/5/section/4) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/d)
+[^c-0648130fe017eef26ce5e2dfddbe3b83]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/5/section/4) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/d)
 
-[^key-79828e81c022d9482c4bc1747f09881b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/5/section/4) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-79828e81c022d9482c4bc1747f09881b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/5/section/4) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-d3ed4cf45c2a18323dbe58a416d21265]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/5/section/4) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/d)
+[^c-d3ed4cf45c2a18323dbe58a416d21265]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/5/section/4) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/d)
 
-[^key-8da17703fed7bd187a14848f4db0730c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/5/section/5) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-8da17703fed7bd187a14848f4db0730c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/5/section/5) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-b0dab55670944f8ad94680ed46c5334c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/5/section/5) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/e)
+[^c-b0dab55670944f8ad94680ed46c5334c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/5/section/5) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/e)
 
-[^key-79718702845499ae31a8961124d63156]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/5/section/5) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/e)
+[^c-79718702845499ae31a8961124d63156]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/5/section/5) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/e)
 
-[^key-88fdbf0dd9471a1ebdb55026de87d421]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/2019/5/section/5/3) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/3)
+[^c-88fdbf0dd9471a1ebdb55026de87d421]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/2019/5/section/5/3) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/3)
 
-[^key-3b9c450bafc688cdc72711907a409077]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/5/section/6) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-3b9c450bafc688cdc72711907a409077]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/5/section/6) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-4ca1256bc6208a1f614807c238d9ae6a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/5/section/6) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/f)
+[^c-4ca1256bc6208a1f614807c238d9ae6a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/5/section/6) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/f)
 
-[^key-173df8fb3301e3f347a55c2781cae85b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/5/section/6) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/f)
+[^c-173df8fb3301e3f347a55c2781cae85b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/5/section/6) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/f)
 
-[^key-a237f6384e7a7fbffa1ce184c30f520c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/5/section/7) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-a237f6384e7a7fbffa1ce184c30f520c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/5/section/7) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-34dc633e4e586f8c371ea08865dfd076]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/5/section/7) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(g)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/g)
+[^c-34dc633e4e586f8c371ea08865dfd076]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/5/section/7) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(g)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/g)
 
-[^key-ad015d724749af44514bb3701f55c81c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/5/section/7) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/g)
+[^c-ad015d724749af44514bb3701f55c81c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/5/section/7) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/g)
 
-[^key-a52cd7515f5e01b06b8883ada55835fb]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/5/section/8) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-a52cd7515f5e01b06b8883ada55835fb]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/5/section/8) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-a975a555c5dca18d112ee6282346b49f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/5/section/8) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(h)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/h)
+[^c-a975a555c5dca18d112ee6282346b49f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/5/section/8) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(h)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/h)
 
-[^key-94c4becc29f13d1855a6343e188a8803]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/5/section/8) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/h)
+[^c-94c4becc29f13d1855a6343e188a8803]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/5/section/8) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/h)
 
-[^key-392cda1f32054444d330143eac180569]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/5/section/9) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-392cda1f32054444d330143eac180569]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/5/section/9) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-0312291c1e70cbf68a82469ab7ad2019]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/5/section/9) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(i)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/i)
+[^c-0312291c1e70cbf68a82469ab7ad2019]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/5/section/9) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(i)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/i)
 
-[^key-0f2a463f6b20512a72ac017e782a0474]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/5/section/9) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/i)
+[^c-0f2a463f6b20512a72ac017e782a0474]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/5/section/9) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/i)
 
-[^key-9cd5761cdb590f8c67e627be1e8e659c]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/2) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/2)
+[^c-9cd5761cdb590f8c67e627be1e8e659c]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/2) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/2)
 
-[^key-d08c4239a37df49361fe10d7620ad3f6]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/3) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/3)
+[^c-d08c4239a37df49361fe10d7620ad3f6]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/3) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/3)
 
-[^key-130fc17dea343926bcd2d2099730d06b]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/4/a)
+[^c-130fc17dea343926bcd2d2099730d06b]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/4/a)
 
-[^key-4d912fb5cf2ac87b89561d6b031ea9bc]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/4/b)
+[^c-4d912fb5cf2ac87b89561d6b031ea9bc]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/4/b)
 
-[^key-14713bf2cff8607b01d4a5d938e65494]: Textual amendment: [S. 9(5)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/5) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(5)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/5)
+[^c-14713bf2cff8607b01d4a5d938e65494]: Textual amendment: [S. 9(5)](https://www.legislation.gov.uk/ukpga/2019/5/section/9/5) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 4(5)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/4/5)
 
-[^key-3d4af5d5768cdc9ff8fc111e6973c089]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/5/section/10) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-3d4af5d5768cdc9ff8fc111e6973c089]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/5/section/10) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-0657b0403268c4fcd606afced555d6e9]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/5/section/10) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/j)
+[^c-0657b0403268c4fcd606afced555d6e9]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/5/section/10) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/j)
 
-[^key-ece94a353c0fb8712c827623dce0c019]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/5/section/10) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/j)
+[^c-ece94a353c0fb8712c827623dce0c019]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/5/section/10) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/j)
 
-[^key-e3dc2669fb54dd28828b2d812d524433]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/5/section/11) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(k)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/k)
+[^c-e3dc2669fb54dd28828b2d812d524433]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/5/section/11) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(k)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/k)
 
-[^key-171b5cba779bc49561a8e77635389643]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/5/section/11) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-171b5cba779bc49561a8e77635389643]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/5/section/11) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-e90662b5b9b69cb619ce9e91a8b63527]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/5/section/11) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/k)
+[^c-e90662b5b9b69cb619ce9e91a8b63527]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/5/section/11) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/k)
 
-[^key-80482b92fe78b607735df9b369b54877]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/5/section/12) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-80482b92fe78b607735df9b369b54877]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/5/section/12) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-ceebd5b80408b96218bcff159c390eef]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/5/section/12) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(l)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/l)
+[^c-ceebd5b80408b96218bcff159c390eef]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/5/section/12) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(l)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/l)
 
-[^key-62fc862ada10dc001c75955e56bd03df]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/5/section/12) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/l)
+[^c-62fc862ada10dc001c75955e56bd03df]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/5/section/12) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/l)
 
-[^key-f086e5002eb005b0af500bace270a361]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/5/section/13) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(m)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/m)
+[^c-f086e5002eb005b0af500bace270a361]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/5/section/13) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(m)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/m)
 
-[^key-6de17b9c5b5f9e8d9fad6a58ffab32c9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/5/section/13) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-6de17b9c5b5f9e8d9fad6a58ffab32c9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/5/section/13) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-25fcf4d6b726bf6e74bf348552c2d214]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/5/section/13) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/m)
+[^c-25fcf4d6b726bf6e74bf348552c2d214]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/5/section/13) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/m)
 
-[^key-234a2dfcfaac3cb5e0c07ab302ca4d79]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/5/section/14) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
+[^c-234a2dfcfaac3cb5e0c07ab302ca4d79]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/5/section/14) in force at 9.10.2019 for specified purposes for N.I. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/3)
 
-[^key-d8f4f92b283c3a0d3261f51ba2a2c750]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/5/section/14) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(n)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/n)
+[^c-d8f4f92b283c3a0d3261f51ba2a2c750]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/5/section/14) in force at 9.10.2019 for E.W.S. by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(2)(n)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/2/n)
 
-[^key-6abdba5a9d2563a245793ffd36a5b52c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/5/section/14) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/n)
+[^c-6abdba5a9d2563a245793ffd36a5b52c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/5/section/14) in force at 22.2.2021 by [S.I. 2021/146](https://www.legislation.gov.uk/uksi/2021/146), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2021/146/regulation/4/n)
 
-[^key-87ece537659d43c86a049f3bd0003bb9]: Textual amendment: Words in [s. 14(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/5/section/14/3/d/i) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/5/2/a)
+[^c-87ece537659d43c86a049f3bd0003bb9]: Textual amendment: Words in [s. 14(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/5/section/14/3/d/i) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/5/2/a)
 
-[^key-faf25270054ed242e02aa3c1f34dfbdc]: Textual amendment: Words in [s. 14(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/5/section/14/3/d/ii) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/5/2/b)
+[^c-faf25270054ed242e02aa3c1f34dfbdc]: Textual amendment: Words in [s. 14(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/5/section/14/3/d/ii) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/5/2/b)
 
-[^key-0dd65bec88d703eb3769327e7002cfa7]: Textual amendment: [S. 14(6)](https://www.legislation.gov.uk/ukpga/2019/5/section/14/6) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/5/3)
+[^c-0dd65bec88d703eb3769327e7002cfa7]: Textual amendment: [S. 14(6)](https://www.legislation.gov.uk/ukpga/2019/5/section/14/6) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/5/3)
 
-[^key-8d59eef90e97ac678dbcaa6ed22ce05e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2019/5/section/15) in force at 9.10.2019 by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/b)
+[^c-8d59eef90e97ac678dbcaa6ed22ce05e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2019/5/section/15) in force at 9.10.2019 by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/b)
 
-[^key-2dd804d172c7dc9f2f21815665c8b708]: Textual amendment: [S. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/c) substituted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 51(2)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/51/2); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-2dd804d172c7dc9f2f21815665c8b708]: Textual amendment: [S. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/c) substituted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 51(2)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/51/2); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-bc955328e81abf5acc2374a3bf7a432c]: Textual amendment: Word in [s. 15(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/g/i) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 6(a)(i)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/6/a/i)
+[^c-bc955328e81abf5acc2374a3bf7a432c]: Textual amendment: Word in [s. 15(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/g/i) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 6(a)(i)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/6/a/i)
 
-[^key-55799fcc8b0f6347340571eef9c0033a]: Textual amendment: [S. 15(3)(g)(iii)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/g/iii) and word inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 6(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/6/a/ii)
+[^c-55799fcc8b0f6347340571eef9c0033a]: Textual amendment: [S. 15(3)(g)(iii)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/g/iii) and word inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 6(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/6/a/ii)
 
-[^key-f0e94dee12050ddbd2b0ef3931333b91]: Textual amendment: [S. 15(3)(h)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/h) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 6(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/6/b)
+[^c-f0e94dee12050ddbd2b0ef3931333b91]: Textual amendment: [S. 15(3)(h)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/3/h) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 6(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/6/b)
 
-[^key-f7c48929daee8b614d30e9adbc556ee2]: Textual amendment: Words in [s. 15(7)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/7) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 51(3)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/51/3); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-f7c48929daee8b614d30e9adbc556ee2]: Textual amendment: Words in [s. 15(7)](https://www.legislation.gov.uk/ukpga/2019/5/section/15/7) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 51(3)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/51/3); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-546c8dfc94a9731761b05abb778de115]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/5/section/16) in force at 9.10.2019 by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/c)
+[^c-546c8dfc94a9731761b05abb778de115]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/5/section/16) in force at 9.10.2019 by [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/c)
 
-[^key-f126dec67b58a74542a29ee69b7a98cf]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/2019/5/section/17/2) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/7/2)
+[^c-f126dec67b58a74542a29ee69b7a98cf]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/2019/5/section/17/2) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/7/2)
 
-[^key-208d20c9d0ff9b961320591665a2a029]: Textual amendment: [S. 17(6)](https://www.legislation.gov.uk/ukpga/2019/5/section/17/6) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/7/3)
+[^c-208d20c9d0ff9b961320591665a2a029]: Textual amendment: [S. 17(6)](https://www.legislation.gov.uk/ukpga/2019/5/section/17/6) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/d), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/5/paragraph/7/3)

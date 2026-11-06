@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 30(l) and 61(2) of, and paragraphs l(1)(*b*) and (2), 2(5), 4(5) and (6) and 7(2) of Schedule 1 to the Water (Northern Ireland) Order 1999[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations—
 
-## 1. Citation and commencement[^key-c412e72fa6371b54340bd09c398dfc18]
+## 1. Citation and commencement[^c-c412e72fa6371b54340bd09c398dfc18]
 
 These Regulations may be cited as the Control of Pollution (Applications and Registers) Regulations (Northern Ireland) 2001 and shall come into operation on 24th August 2001.
 
-## 2. Interpretation[^key-c6178d98286d8a993444c535fc7e38a9]
+## 2. Interpretation[^c-c6178d98286d8a993444c535fc7e38a9]
 
 In these Regulations—
 
@@ -54,7 +54,7 @@ In these Regulations—
 - “the 1999 Order” means the Water (Northern Ireland) Order 1999; and
 - “register” means a register maintained by the Department under Article 30 of the 1999 Order (pollution control registers).
 
-## 3. Advertisements[^key-3f1dfabdaaede6a8ef8b4c0b8025a862]
+## 3. Advertisements[^c-3f1dfabdaaede6a8ef8b4c0b8025a862]
 
 (1) Subject to regulation 5, an application for a discharge consent or the variation of a discharge consent shall be advertised in accordance with the following provisions of this regulation and regulation 4.
 
@@ -73,7 +73,7 @@ In these Regulations—
 
 (4) Nothing in paragraph (3) shall require the disclosure of any information, which is not to be included in a register by virtue of Articles 31 and 32 of the 1999 Order (exclusion from registers of information affecting national security and of certain confidential information).
 
-## 4. Timing of advertisements[^key-a0ce8c529542f43ae8ba5c021b4916c2]
+## 4. Timing of advertisements[^c-a0ce8c529542f43ae8ba5c021b4916c2]
 
 (1) An application to which regulation 3 applies shall be advertised in accordance with paragraph (2) of that regulation within the period of 28 days beginning 14 days after the relevant date.
 
@@ -94,7 +94,7 @@ In these Regulations—
 
 (6) Where the relevant date for the purposes of this regulation in relation to an application is later than the date on which the application is received, a period of 4 months beginning with the relevant date shall be substituted for the period of 4 months specified in paragraph 2(2) of Schedule 1 to the 1999 Order (failure to determine application within 4 months or longer period agreed with applicant).
 
-## 5. Exemption from advertising requirements[^key-de37df9e65693ea71dece0e34e683f62]
+## 5. Exemption from advertising requirements[^c-de37df9e65693ea71dece0e34e683f62]
 
 (1) The Department may determine that an application is not required to be advertised if it appears to the Department that it is appropriate to dispense with advertising the application because—
 
@@ -108,11 +108,11 @@ In these Regulations—
 - (a) the content of lavatories; and
 - (b) water which has been used for cooking or washing, not being water used for the business of a laundry or for a business of preparing food or drink, necessary for human health or hygiene.
 
-## 6. Discharge consents without applications[^key-59a719724f69675e1a4b6cc27cb5d98d]
+## 6. Discharge consents without applications[^c-59a719724f69675e1a4b6cc27cb5d98d]
 
 The provisions of the Schedule shall apply where the Department gives a discharge consent under paragraph 4 of Schedule 1 to the 1999 Order (consents without applications).
 
-## 7. Pollution control registers[^key-320206b542dbc5f072e68209b14c9113]
+## 7. Pollution control registers[^c-320206b542dbc5f072e68209b14c9113]
 
 Subject to Articles 31 and 32 of the 1999 Order and regulations 8 and 9, registers maintained by the Department under Article 30 of the 1999 Order (pollution control registers) shall contain full particulars of—
 
@@ -128,18 +128,18 @@ Subject to Articles 31 and 32 of the 1999 Order and regulations 8 and 9, registe
 - (j) convictions, for offences under Article 9 of the 1999 Order, of persons who have the benefit of discharge consents, including the name of the offender, the date of conviction, the penalty imposed, the costs, if any, awarded against the offender and the name of the Court;
 - (k) returns and other information about the nature, origin, composition, temperature, volume and rate of discharges provided to the Department in pursuance of conditions of discharge consents;
 - (l) information contained in registers mentioned in regulation 21 of the Groundwater Regulations (Northern Ireland) 1998[^f00003]; and
-- (m) monitoring information received by the Department under regulation 11 of the Urban Waste Water Treatment Regulations (Northern Ireland) Regulations 1995[^f00004]; and[^key-84742c178bb43a0c8936255087114b33]
+- (m) monitoring information received by the Department under regulation 11 of the Urban Waste Water Treatment Regulations (Northern Ireland) Regulations 1995[^f00004]; and[^c-84742c178bb43a0c8936255087114b33]
 - (n) works notices under Article 17 of the 1999 Order;
 - (o) appeals under Article 17(7) of the 1999 Order; and
 - (p) any conviction of any person for any offence under Article 19 of the 1999 Order, including the name of the offender, the date of conviction, the penalty imposed, the costs, if any, awarded against the offender and the name of the Court.
 
-## 8. Entry of particulars on register, removal of certain particulars and indexing of registers[^key-24aba65bbbcdf3563ca9df5da70bcc82]
+## 8. Entry of particulars on register, removal of certain particulars and indexing of registers[^c-24aba65bbbcdf3563ca9df5da70bcc82]
 
 (1) Subject to Articles 31 and 32 of the 1999 Order and paragraph (2), where registers are by virtue of regulation 7 to contain any particulars, those particulars shall be entered on the registers—
 
 - (a) if they relate to an application or notice which is to be advertised under regulation 3(2) or paragraph 1(1) of the Schedule, before the beginning of the period of 28 days during which the application or notice is required to be advertised;
 - (b) if they relate to an enforcement notice served under Article 12 of the 1999 Order, not later than 7 days after it is served; and
-- (ba)[^key-216383747a005526814f99d77a03fa19] if they relate to a works notice under Article 17 of the 1999 Order, not later than 7 days after it is served;
+- (ba)[^c-216383747a005526814f99d77a03fa19] if they relate to a works notice under Article 17 of the 1999 Order, not later than 7 days after it is served;
 - (bb) if they relate to an appeal under Article 17(7) of the 1999 Order, not later than 14 days after those particulars become available to the Department;
 - (c) in all other cases, not later than 28 days after those particulars become available to the Department.
 
@@ -152,7 +152,7 @@ Subject to Articles 31 and 32 of the 1999 Order and regulations 8 and 9, registe
 
 (4) Each register shall be indexed in a way which facilitates access to particulars entered on it.
 
-## 9. Period after which information may be removed from pollution control registers[^key-a60e7578dfd11ea1787753d3ee9423f6]
+## 9. Period after which information may be removed from pollution control registers[^c-a60e7578dfd11ea1787753d3ee9423f6]
 
 (1) Nothing in regulation 7 shall require the Department to keep on a register—
 
@@ -171,7 +171,7 @@ Minister of the Environment
 
 Regulation 6
 
-### 1. Advertisements[^key-fc6ec4887a6f1dc7019689a01457242f]
+### 1. Advertisements[^c-fc6ec4887a6f1dc7019689a01457242f]
 
 (1) Notice of any discharge consent given by the Department under paragraph 4 of Schedule 1 to the 1999 Order (discharge consents without applications) shall be published:
 
@@ -189,7 +189,7 @@ Regulation 6
 
 (3) Nothing in sub-paragraphs (1) or (2) shall require the disclosure of any information which is not to be included in a register by virtue of Article 31 or 32 of the 1999 Order (exclusion from registers of information affecting national security and of certain confidential information).
 
-### 2. Timing of advertisements[^key-44630db86de34de5fbb623f0cec7ca71]
+### 2. Timing of advertisements[^c-44630db86de34de5fbb623f0cec7ca71]
 
 (1) In the case of any discharge consent to which paragraph 1 applies, advertisements required by sub-paragraph (1) of that paragraph shall be published within the period of 28 days beginning with the relevant date.
 
@@ -219,19 +219,19 @@ Regulation 7 sets out the particulars which are to be entered in the water pollu
 
 [^f00001]: Footnote: [S.I. 1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662); *see* Article 2(2) for definition of “prescribed”
 
-[^key-c412e72fa6371b54340bd09c398dfc18]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-c412e72fa6371b54340bd09c398dfc18]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-c6178d98286d8a993444c535fc7e38a9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/284/regulation/2) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-c6178d98286d8a993444c535fc7e38a9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/284/regulation/2) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-3f1dfabdaaede6a8ef8b4c0b8025a862]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/284/regulation/3) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-3f1dfabdaaede6a8ef8b4c0b8025a862]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/284/regulation/3) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-a0ce8c529542f43ae8ba5c021b4916c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/284/regulation/4) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-a0ce8c529542f43ae8ba5c021b4916c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/284/regulation/4) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-de37df9e65693ea71dece0e34e683f62]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/284/regulation/5) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-de37df9e65693ea71dece0e34e683f62]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/284/regulation/5) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-59a719724f69675e1a4b6cc27cb5d98d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/284/regulation/6) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-59a719724f69675e1a4b6cc27cb5d98d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/284/regulation/6) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-320206b542dbc5f072e68209b14c9113]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/284/regulation/7) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-320206b542dbc5f072e68209b14c9113]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/284/regulation/7) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1973/70 (N.I. 2)](https://www.legislation.gov.uk/nisi/1973/70) as amended by [S.I. 1993/3165 (N.I. 16)](https://www.legislation.gov.uk/nisi/1993/3165) Art. 6(1)(*b*)
 
@@ -239,14 +239,14 @@ Regulation 7 sets out the particulars which are to be entered in the water pollu
 
 [^f00004]: Footnote: [S.R. 1995 No. 12](https://www.legislation.gov.uk/nisr/1995/12)
 
-[^key-84742c178bb43a0c8936255087114b33]: Textual amendment: [Regs. 7(n)-(p)](https://www.legislation.gov.uk/nisr/2001/284/regulation/7/n) and word inserted (29.1.2003) by [The Anti-Pollution Works Regulations (Northern Ireland) 2003 (S.R. 2003/7)](https://www.legislation.gov.uk/nisr/2003/7), [regs. 1](https://www.legislation.gov.uk/nisr/2003/7/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2003/7/regulation/5/2)
+[^c-84742c178bb43a0c8936255087114b33]: Textual amendment: [Regs. 7(n)-(p)](https://www.legislation.gov.uk/nisr/2001/284/regulation/7/n) and word inserted (29.1.2003) by [The Anti-Pollution Works Regulations (Northern Ireland) 2003 (S.R. 2003/7)](https://www.legislation.gov.uk/nisr/2003/7), [regs. 1](https://www.legislation.gov.uk/nisr/2003/7/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2003/7/regulation/5/2)
 
-[^key-24aba65bbbcdf3563ca9df5da70bcc82]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/284/regulation/8) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-24aba65bbbcdf3563ca9df5da70bcc82]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/284/regulation/8) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-216383747a005526814f99d77a03fa19]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/nisr/2001/284/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/nisr/2001/284/regulation/8/1/bb) inserted (29.1.2003) by [The Anti-Pollution Works Regulations (Northern Ireland) 2003 (S.R. 2003/7)](https://www.legislation.gov.uk/nisr/2003/7), [regs. 1](https://www.legislation.gov.uk/nisr/2003/7/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2003/7/regulation/5/3)
+[^c-216383747a005526814f99d77a03fa19]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/nisr/2001/284/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/nisr/2001/284/regulation/8/1/bb) inserted (29.1.2003) by [The Anti-Pollution Works Regulations (Northern Ireland) 2003 (S.R. 2003/7)](https://www.legislation.gov.uk/nisr/2003/7), [regs. 1](https://www.legislation.gov.uk/nisr/2003/7/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2003/7/regulation/5/3)
 
-[^key-a60e7578dfd11ea1787753d3ee9423f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/284/regulation/9) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-a60e7578dfd11ea1787753d3ee9423f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/284/regulation/9) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-fc6ec4887a6f1dc7019689a01457242f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2001/284/schedule/paragraph/1) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-fc6ec4887a6f1dc7019689a01457242f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2001/284/schedule/paragraph/1) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
 
-[^key-44630db86de34de5fbb623f0cec7ca71]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2001/284/schedule/paragraph/2) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+[^c-44630db86de34de5fbb623f0cec7ca71]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2001/284/schedule/paragraph/2) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)

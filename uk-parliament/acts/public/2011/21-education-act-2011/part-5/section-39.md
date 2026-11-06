@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Discontinuance of federated school: governing body not to be dissolved[^key-5a630841c78a8c1c639cffc8da59c281]
+## 39. Discontinuance of federated school: governing body not to be dissolved[^c-5a630841c78a8c1c639cffc8da59c281]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In paragraph 5 of Schedule 1 to EA 2002 (dissolution of school governing body on
 
 ## Annotations
 
-[^key-5a630841c78a8c1c639cffc8da59c281]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/21/section/39) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-5a630841c78a8c1c639cffc8da59c281]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/21/section/39) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

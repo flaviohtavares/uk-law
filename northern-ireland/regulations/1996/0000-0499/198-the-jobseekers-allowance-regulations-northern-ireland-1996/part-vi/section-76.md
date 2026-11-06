@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Persons of a prescribed description[^key-dd3566fe10ca9c23f6ab10cf6162e243]
+## 76. Persons of a prescribed description[^c-dd3566fe10ca9c23f6ab10cf6162e243]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd3566fe10ca9c23f6ab10cf6162e243]: Commencement: Reg. 76 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-dd3566fe10ca9c23f6ab10cf6162e243]: Commencement: Reg. 76 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

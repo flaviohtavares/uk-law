@@ -32,7 +32,7 @@ summary: ''
 
 Copyright
 
-The Copyright and Performances (Application to Other Countries) (Amendment) Order 2012 (revoked)[^key-4641812e012b8e473fe510f9f8755ee4]
+The Copyright and Performances (Application to Other Countries) (Amendment) Order 2012 (revoked)[^c-4641812e012b8e473fe510f9f8755ee4]
 
 Made
 
@@ -50,24 +50,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-4641812e012b8e473fe510f9f8755ee4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4641812e012b8e473fe510f9f8755ee4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation.[^key-4641812e012b8e473fe510f9f8755ee4]
+## 1. Citation, commencement and interpretation.[^c-4641812e012b8e473fe510f9f8755ee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Copyright and Performances (Application to Other Countries) Order 2012[^key-4641812e012b8e473fe510f9f8755ee4]
+## 2. Amendment to the Copyright and Performances (Application to Other Countries) Order 2012[^c-4641812e012b8e473fe510f9f8755ee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4641812e012b8e473fe510f9f8755ee4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4641812e012b8e473fe510f9f8755ee4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4641812e012b8e473fe510f9f8755ee4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4641812e012b8e473fe510f9f8755ee4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4641812e012b8e473fe510f9f8755ee4]: Textual amendment: Order revoked (6.4.2013) by [The Copyright and Performances (Application to Other Countries) Order 2013 (S.I. 2013/536)](https://www.legislation.gov.uk/uksi/2013/536), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2013/536/article/1/1/3) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/536/article/8))
+[^c-4641812e012b8e473fe510f9f8755ee4]: Textual amendment: Order revoked (6.4.2013) by [The Copyright and Performances (Application to Other Countries) Order 2013 (S.I. 2013/536)](https://www.legislation.gov.uk/uksi/2013/536), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2013/536/article/1/1/3) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/536/article/8))

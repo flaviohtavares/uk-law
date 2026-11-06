@@ -22,9 +22,9 @@ summary: ''
 
 Article 3(10)
 
-**1.**[^key-f6a3b91138086623755c7cd4e8fec4e8] The amendments made by section 29 of the Act, to sections 109 to 111 of the Enterprise Act 2002 (“the 2002 Act”), do not have effect in relation to those sections as applied by the enactments listed in column 2 of the Table below in relation to any notice given under section 109 of the 2002 Act before 1st April 2014.
+**1.**[^c-f6a3b91138086623755c7cd4e8fec4e8] The amendments made by section 29 of the Act, to sections 109 to 111 of the Enterprise Act 2002 (“the 2002 Act”), do not have effect in relation to those sections as applied by the enactments listed in column 2 of the Table below in relation to any notice given under section 109 of the 2002 Act before 1st April 2014.
 
-**2.**[^key-fc268b713c24a4549e60dee2555168bb] The amendments made by the paragraphs of Schedule 1 listed in column 1 of the Table below to the enactments listed in column 2 of that Table do not apply in relation to any notice given before 1st April 2014 under section 109 of the 2002 Act as applied by those enactments.
+**2.**[^c-fc268b713c24a4549e60dee2555168bb] The amendments made by the paragraphs of Schedule 1 listed in column 1 of the Table below to the enactments listed in column 2 of that Table do not apply in relation to any notice given before 1st April 2014 under section 109 of the 2002 Act as applied by those enactments.
 
 | *(1)*<br>*Paragraph of Schedule 1* | *(2)*<br>*Provision of sectoral legislation amended* |
 | --- | --- |
@@ -53,14 +53,14 @@ Article 3(10)
 | Paragraph 250 | Article 23 of the Water and Sewerage Services (Northern Ireland) Order 2006[^f00245] (references under Article 21: powers of investigation) |
 | Paragraph 251 | Article 27 of the Water and Sewerage Services (Northern Ireland) Order 2006 (competition authority’s power to veto modifications following report)[^f00246] |
 
-**3.**[^key-c674b88373cfed9067a427b48750fe65] The amendments made by section 36 of, and Schedule 11 to, the Act, to sections 174 and 175 of the 2002 Act, do not have effect in relation to those sections as applied by or by virtue of—
+**3.**[^c-c674b88373cfed9067a427b48750fe65] The amendments made by section 36 of, and Schedule 11 to, the Act, to sections 174 and 175 of the 2002 Act, do not have effect in relation to those sections as applied by or by virtue of—
 
 - (a) section 140D of the Financial Services and Markets Act 2000 (investigation powers of OFT)[^f00247], and
 - (b) section 57 of the Legal Services Act 2007 (reports by competition authority)[^f00248],
 
 in relation to any notice given under section 174 of the 2002 Act before 1st April 2014.
 
-**4.**[^key-9562606fe95a36f0590bcb006129e153] The amendments made—
+**4.**[^c-9562606fe95a36f0590bcb006129e153] The amendments made—
 
 - (a) by paragraph 124 of Schedule 1 to section 140D of the Financial Services and Markets Act 2000, and
 - (b) by paragraph 176 of that Schedule to section 57 of the Legal Services Act 2007,
@@ -69,9 +69,9 @@ do not apply in relation to any notice given before 1st April 2014 under section
 
 ## Annotations
 
-[^key-f6a3b91138086623755c7cd4e8fec4e8]: Commencement: Sch. 2 para. 1 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
+[^c-f6a3b91138086623755c7cd4e8fec4e8]: Commencement: Sch. 2 para. 1 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
 
-[^key-fc268b713c24a4549e60dee2555168bb]: Commencement: Sch. 2 para. 2 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
+[^c-fc268b713c24a4549e60dee2555168bb]: Commencement: Sch. 2 para. 2 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
 
 [^f00224]: Footnote: [1980 c. 21](https://www.legislation.gov.uk/ukpga/1980/21). Section 11B was inserted by Schedule 25 to the Enterprise Act 2002.
 
@@ -119,10 +119,10 @@ do not apply in relation to any notice given before 1st April 2014 under section
 
 [^f00246]: Footnote: Amended by Schedule 6 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-c674b88373cfed9067a427b48750fe65]: Commencement: Sch. 2 para. 3 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
+[^c-c674b88373cfed9067a427b48750fe65]: Commencement: Sch. 2 para. 3 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
 
 [^f00247]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 140D was substituted by section 24 of the Financial Services Act 2012.
 
 [^f00248]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29). Section 57 is amended by Schedule 6 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-9562606fe95a36f0590bcb006129e153]: Commencement: Sch. 2 para. 4 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
+[^c-9562606fe95a36f0590bcb006129e153]: Commencement: Sch. 2 para. 4 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)

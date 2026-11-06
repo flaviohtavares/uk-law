@@ -49,19 +49,19 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Welsh Ministers that it is expedient for the reference in article 11 of this Order to Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) for the conservation of fishery resources through technical measures for the protection of juvenile marine organisms[^f00004] to be construed as a reference to that Regulation as amended from time to time.
 
-## 1. Title, commencement and application[^key-bb000192aa228ce56e1c5af4d12c1d63]
+## 1. Title, commencement and application[^c-bb000192aa228ce56e1c5af4d12c1d63]
 
 (1) The title of this Order is the Scallop Fishing (Wales) (No. 2) Order 2010.
 
 (2) This Order applies in relation to Wales and comes into force on 1 March 2010.
 
-## 2. Interpretation[^key-4396e9cc3f6c16b42ac729821082d8b1]
+## 2. Interpretation[^c-4396e9cc3f6c16b42ac729821082d8b1]
 
 In this Order, unless the context requires otherwise—
 
 - “the Act” (“*y Ddeddf*”) means the Sea Fish (Conservation) Act 1967;
 - “baselines” (“*gwaelodlinau*”) means the baselines from which the breadth of the territorial sea is measured for the purposes of the Territorial Sea Act 1987[^f00005];
-- [^key-b089479cabdccef576e3fec3d0e44b16]...
+- [^c-b089479cabdccef576e3fec3d0e44b16]...
 - “equivalent provision” (“*darpariaeth gyfatebol*”) means a provision in any other order extending or applying to any part of the United Kingdom which has equivalent effect to a provision in this Order;
 - “scallop” (“*cregyn bylchog*”) means shellfish of the species Pecten maximus;
 - “scallop dredge” (“*llusgrwyd cregyn bylchog*”) includes any appliance with a rigid framed mouth which is towed through the water and is manufactured, adapted, used or intended for use for the purpose of fishing for scallops;
@@ -69,48 +69,48 @@ In this Order, unless the context requires otherwise—
 - “Wales” (“*Cymru*”) has the meaning given in section 158 of the Government of Wales Act 2006[^f00007]; and
 - “Welsh waters” (“*dyfroedd Cymru*”) means sea areas within Wales.
 
-## 3. Fishing restrictions[^key-e7aa6086883f495b842e29e43d6eb110]
+## 3. Fishing restrictions[^c-e7aa6086883f495b842e29e43d6eb110]
 
-No fishing boat[^key-26a82d7d720f78b5674653907250f89f] is permitted, at any time, to fish for, take or kill scallops using a scallop dredge in Welsh waters, unless that boat’s engine has a power output not exceeding 221 kilowatts.
+No fishing boat[^c-26a82d7d720f78b5674653907250f89f] is permitted, at any time, to fish for, take or kill scallops using a scallop dredge in Welsh waters, unless that boat’s engine has a power output not exceeding 221 kilowatts.
 
-**4.**[^key-1746ce3962cec04804f5cf983ad52437] (1) Subject to paragraph (2), no person is to fish for, take or kill scallops in Welsh waters during the period 1 May to 31 October inclusive in each year by any means, including diving.
+**4.**[^c-1746ce3962cec04804f5cf983ad52437] (1) Subject to paragraph (2), no person is to fish for, take or kill scallops in Welsh waters during the period 1 May to 31 October inclusive in each year by any means, including diving.
 
 (2) In respect of the calendar year 2010 the period referred to in paragraph (1) is to commence on 1 June 2010.
 
-## 5. Restrictions on number and use of scallop dredges[^key-8e4ad93cac61909230a2c5bc28ac0bf4]
+## 5. Restrictions on number and use of scallop dredges[^c-8e4ad93cac61909230a2c5bc28ac0bf4]
 
-No fishing boat[^key-24ec262103cc2cfdcb0f5bf7939a48c9] is permitted, at any time, to fish for, take or kill scallops using a scallop dredge in any part of Welsh waters which lie within 1 nautical mile of baselines.
+No fishing boat[^c-24ec262103cc2cfdcb0f5bf7939a48c9] is permitted, at any time, to fish for, take or kill scallops using a scallop dredge in any part of Welsh waters which lie within 1 nautical mile of baselines.
 
-**6.**[^key-d6853b78b2577b7b4214be662d7d0956] No fishing boat[^key-c3ba623a087dab5acf35b6b1e5f93b7c] is permitted, at any time, to fish for, take or kill scallops using a scallop dredge—
+**6.**[^c-d6853b78b2577b7b4214be662d7d0956] No fishing boat[^c-c3ba623a087dab5acf35b6b1e5f93b7c] is permitted, at any time, to fish for, take or kill scallops using a scallop dredge—
 
 - (a) in any part of Welsh waters which lies beyond 1 nautical mile and within 3 nautical miles of baselines, unless that boat’s overall length does not exceed 10 meters and it is towing no more than 6 scallop dredges in total;
 - (b) in any part of Welsh waters which lies beyond 3 nautical miles and within 6 nautical miles of baselines, unless that boat is towing no more than 8 scallop dredges in total; and
 - (c) in any part of Welsh waters which lies beyond 6 nautical miles and within 12 nautical miles of baselines, unless that boat is towing no more than 14 scallop dredges in total.
 
-**7.**[^key-09154ee2815c44f5fafcd7773ec1f6e3] When not in use in accordance with the provisions of this Order all scallop dredges must be inboard, stowed and secured.
+**7.**[^c-09154ee2815c44f5fafcd7773ec1f6e3] When not in use in accordance with the provisions of this Order all scallop dredges must be inboard, stowed and secured.
 
-## 8. Restriction on size of tow bars[^key-84353c449a94b50a6351d620374033d6]
+## 8. Restriction on size of tow bars[^c-84353c449a94b50a6351d620374033d6]
 
-(1) No fishing boat[^key-c50b489d5e87ac270ea319a965f6bf21] is permitted, at any time, in any part of Welsh waters which lies beyond 1 nautical mile and within 3 nautical miles of baselines, to use a tow bar in connection with fishing for, taking or killing scallops, unless that tow bar–
+(1) No fishing boat[^c-c50b489d5e87ac270ea319a965f6bf21] is permitted, at any time, in any part of Welsh waters which lies beyond 1 nautical mile and within 3 nautical miles of baselines, to use a tow bar in connection with fishing for, taking or killing scallops, unless that tow bar–
 
 - (a) does not exceed 3 metres in length; and
 - (b) is not constructed in a way which enables more than 3 scallop dredges to be attached to it at the same time.
 
-(2) No fishing boat[^key-f3d5508743aa05275481824a0773661c] is permitted, at any time, in any part of Welsh waters which lies beyond 3 nautical miles and within 6 nautical miles of baselines, to use a tow bar in connection with fishing for, taking or killing scallops, unless that tow bar–
+(2) No fishing boat[^c-f3d5508743aa05275481824a0773661c] is permitted, at any time, in any part of Welsh waters which lies beyond 3 nautical miles and within 6 nautical miles of baselines, to use a tow bar in connection with fishing for, taking or killing scallops, unless that tow bar–
 
 - (a) does not exceed 4 metres in length; and
 - (b) is not constructed in a way which enables more than 4 scallop dredges to be attached to it at the same time.
 
-(3) No fishing boat[^key-55157a718adaa78e9f03ce01e4059575] is permitted, at any time, in any part of Welsh waters which lies beyond 6 nautical miles and within 12 nautical miles of baselines, to use a tow bar in connection with fishing for, taking or killing scallops, unless that tow bar–
+(3) No fishing boat[^c-55157a718adaa78e9f03ce01e4059575] is permitted, at any time, in any part of Welsh waters which lies beyond 6 nautical miles and within 12 nautical miles of baselines, to use a tow bar in connection with fishing for, taking or killing scallops, unless that tow bar–
 
 - (a) does not exceed 6.8 metres in length; and
 - (b) is not constructed in a way which enables more than 7 scallop dredges to be attached to it at the same time.
 
-**9.**[^key-a47b95abbfca6f84355911e843097a1e] No fishing boat[^key-d409d0af61bb320bb131b975f9cbb8de] is permitted at any time, in any part of Welsh waters to use any tow bar in connection with fishing for, taking or killing scallops, which exceeds 185 millimetres in external diameter.
+**9.**[^c-a47b95abbfca6f84355911e843097a1e] No fishing boat[^c-d409d0af61bb320bb131b975f9cbb8de] is permitted at any time, in any part of Welsh waters to use any tow bar in connection with fishing for, taking or killing scallops, which exceeds 185 millimetres in external diameter.
 
-## 10. Specification of scallop dredges[^key-6825e14e295d7f3ee4ac7faa133e87e9]
+## 10. Specification of scallop dredges[^c-6825e14e295d7f3ee4ac7faa133e87e9]
 
-(1) Subject to the provisions of this article, no fishing boat[^key-b6f6e1c893660acbbcd37b21d3d4bc97] is permitted to tow any scallop dredge within Welsh waters unless in relation to such a dredge—
+(1) Subject to the provisions of this article, no fishing boat[^c-b6f6e1c893660acbbcd37b21d3d4bc97] is permitted to tow any scallop dredge within Welsh waters unless in relation to such a dredge—
 
 - (a) no part of its frame is greater than 85 centimetres wide;
 - (b) it includes a functioning, operational and moveable spring loaded tooth bar;
@@ -131,17 +131,17 @@ No fishing boat[^key-24ec262103cc2cfdcb0f5bf7939a48c9] is permitted, at any time
 
 (3) Belly rings and the fastenings which attach them to each other and to the frame are not to be regarded as attachments for the purpose of paragraph (1)(c).
 
-## 11. Minimum size of scallop[^key-b057c7ea41fa0cac6ffe0e410b5a8088]
+## 11. Minimum size of scallop[^c-b057c7ea41fa0cac6ffe0e410b5a8088]
 
-(1) For the purposes of section 1(3) of the Act, the minimum size of scallop that may be carried by a fishing boat[^key-2b9a5f7fdd8cbb959fabca78997478b9] in Welsh waters is 110 millimetres.
+(1) For the purposes of section 1(3) of the Act, the minimum size of scallop that may be carried by a fishing boat[^c-2b9a5f7fdd8cbb959fabca78997478b9] in Welsh waters is 110 millimetres.
 
-(2)[^key-9aa3676200458b98acadbe4049b0d5f0] For the purposes of paragraph (1), the size of a scallop is to be measured in accordance with paragraph 6 of Annex 4 to Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures as amended from time to time.
+(2)[^c-9aa3676200458b98acadbe4049b0d5f0] For the purposes of paragraph (1), the size of a scallop is to be measured in accordance with paragraph 6 of Annex 4 to Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures as amended from time to time.
 
-## 12. Prohibition on dredging[^key-7b6bb1eb111a4c9dbe92d3a79bf8d739]
+## 12. Prohibition on dredging[^c-7b6bb1eb111a4c9dbe92d3a79bf8d739]
 
-Notwithstanding articles 3 to 11 of this Order fishing for, taking or killing of scallops by the use of a scallop dredge by fishing boats[^key-6d2fb99633885e2a4d3b76f1adc49948] is prohibited in the areas designated in the Schedule to this Order.
+Notwithstanding articles 3 to 11 of this Order fishing for, taking or killing of scallops by the use of a scallop dredge by fishing boats[^c-6d2fb99633885e2a4d3b76f1adc49948] is prohibited in the areas designated in the Schedule to this Order.
 
-## 13. Powers of British sea-fishery officers[^key-086073c9473c22d55c5eaa55546b08d6]
+## 13. Powers of British sea-fishery officers[^c-086073c9473c22d55c5eaa55546b08d6]
 
 (1) For the purposes of enforcing this Order or any equivalent provision, a British sea fishery officer may exercise the powers conferred by this article in relation to any fishing boat to which this Order applies in Welsh waters.
 
@@ -166,7 +166,7 @@ Notwithstanding articles 3 to 11 of this Order fishing for, taking or killing of
 
 (7) In this article, “officer” (“*swyddog*”) means British sea-fishery officer.
 
-## 14. Revocation[^key-b0e4d2312850242b8c4f58a86c11eba7]
+## 14. Revocation[^c-b0e4d2312850242b8c4f58a86c11eba7]
 
 The following Orders are revoked, namely–
 
@@ -177,7 +177,7 @@ Elin Jones
 
 Minister for Rural Affairs, one of the Welsh Ministers.
 
-## SCHEDULE — Prohibition on dredging[^key-50bad28f824b9087764d46e29fb7f8f3]
+## SCHEDULE — Prohibition on dredging[^c-50bad28f824b9087764d46e29fb7f8f3]
 
 Article 12
 
@@ -273,64 +273,64 @@ A regulatory impact assessment has been undertaken in respect of this Order and 
 
 [^f00004]: Footnote: OJ No. L125, 27.4.1998, p. 1.
 
-[^key-bb000192aa228ce56e1c5af4d12c1d63]: Commencement: Art. 1 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-bb000192aa228ce56e1c5af4d12c1d63]: Commencement: Art. 1 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-4396e9cc3f6c16b42ac729821082d8b1]: Commencement: Art. 2 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-4396e9cc3f6c16b42ac729821082d8b1]: Commencement: Art. 2 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
 [^f00005]: Footnote: [1987 c. 49](https://www.legislation.gov.uk/ukpga/1987/49).
 
-[^key-b089479cabdccef576e3fec3d0e44b16]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2010/269/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b089479cabdccef576e3fec3d0e44b16]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2010/269/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00007]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e7aa6086883f495b842e29e43d6eb110]: Commencement: Art. 3 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-e7aa6086883f495b842e29e43d6eb110]: Commencement: Art. 3 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-26a82d7d720f78b5674653907250f89f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2010/269/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-26a82d7d720f78b5674653907250f89f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2010/269/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-1746ce3962cec04804f5cf983ad52437]: Commencement: Art. 4 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-1746ce3962cec04804f5cf983ad52437]: Commencement: Art. 4 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-8e4ad93cac61909230a2c5bc28ac0bf4]: Commencement: Art. 5 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-8e4ad93cac61909230a2c5bc28ac0bf4]: Commencement: Art. 5 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-24ec262103cc2cfdcb0f5bf7939a48c9]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/wsi/2010/269/article/5) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-24ec262103cc2cfdcb0f5bf7939a48c9]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/wsi/2010/269/article/5) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-d6853b78b2577b7b4214be662d7d0956]: Commencement: Art. 6 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-d6853b78b2577b7b4214be662d7d0956]: Commencement: Art. 6 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-c3ba623a087dab5acf35b6b1e5f93b7c]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/wsi/2010/269/article/6) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c3ba623a087dab5acf35b6b1e5f93b7c]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/wsi/2010/269/article/6) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-09154ee2815c44f5fafcd7773ec1f6e3]: Commencement: Art. 7 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-09154ee2815c44f5fafcd7773ec1f6e3]: Commencement: Art. 7 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-84353c449a94b50a6351d620374033d6]: Commencement: Art. 8 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-84353c449a94b50a6351d620374033d6]: Commencement: Art. 8 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-c50b489d5e87ac270ea319a965f6bf21]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/wsi/2010/269/article/8/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c50b489d5e87ac270ea319a965f6bf21]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/wsi/2010/269/article/8/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f3d5508743aa05275481824a0773661c]: Textual amendment: Words in [art. 8(2)](https://www.legislation.gov.uk/wsi/2010/269/article/8/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f3d5508743aa05275481824a0773661c]: Textual amendment: Words in [art. 8(2)](https://www.legislation.gov.uk/wsi/2010/269/article/8/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-55157a718adaa78e9f03ce01e4059575]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/wsi/2010/269/article/8/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-55157a718adaa78e9f03ce01e4059575]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/wsi/2010/269/article/8/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-a47b95abbfca6f84355911e843097a1e]: Commencement: Art. 9 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-a47b95abbfca6f84355911e843097a1e]: Commencement: Art. 9 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-d409d0af61bb320bb131b975f9cbb8de]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/wsi/2010/269/article/9) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-d409d0af61bb320bb131b975f9cbb8de]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/wsi/2010/269/article/9) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-6825e14e295d7f3ee4ac7faa133e87e9]: Commencement: Art. 10 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-6825e14e295d7f3ee4ac7faa133e87e9]: Commencement: Art. 10 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-b6f6e1c893660acbbcd37b21d3d4bc97]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/wsi/2010/269/article/10/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/d) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b6f6e1c893660acbbcd37b21d3d4bc97]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/wsi/2010/269/article/10/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/d) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-b057c7ea41fa0cac6ffe0e410b5a8088]: Commencement: Art. 11 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-b057c7ea41fa0cac6ffe0e410b5a8088]: Commencement: Art. 11 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-2b9a5f7fdd8cbb959fabca78997478b9]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/wsi/2010/269/article/11/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-2b9a5f7fdd8cbb959fabca78997478b9]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/wsi/2010/269/article/11/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/3/a), [(4)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/4/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-9aa3676200458b98acadbe4049b0d5f0]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/wsi/2010/269/article/11/2) substituted (1.11.2019) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1332)](https://www.legislation.gov.uk/wsi/2019/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1332/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1332/regulation/3)
+[^c-9aa3676200458b98acadbe4049b0d5f0]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/wsi/2010/269/article/11/2) substituted (1.11.2019) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1332)](https://www.legislation.gov.uk/wsi/2019/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1332/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1332/regulation/3)
 
-[^key-7b6bb1eb111a4c9dbe92d3a79bf8d739]: Commencement: Art. 12 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-7b6bb1eb111a4c9dbe92d3a79bf8d739]: Commencement: Art. 12 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-6d2fb99633885e2a4d3b76f1adc49948]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/wsi/2010/269/article/12) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/5/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-6d2fb99633885e2a4d3b76f1adc49948]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/wsi/2010/269/article/12) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 16(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/16/5/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-086073c9473c22d55c5eaa55546b08d6]: Commencement: Art. 13 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-086073c9473c22d55c5eaa55546b08d6]: Commencement: Art. 13 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
-[^key-b0e4d2312850242b8c4f58a86c11eba7]: Commencement: Art. 14 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-b0e4d2312850242b8c4f58a86c11eba7]: Commencement: Art. 14 in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
 
 [^f00009]: Footnote: [S.I. 2009/2721 (W.232)](https://www.legislation.gov.uk/wsi/2009/2721).
 
 [^f00010]: Footnote: [S.I. 2010/203 (W. 30)](https://www.legislation.gov.uk/wsi/2010/203).
 
-[^key-50bad28f824b9087764d46e29fb7f8f3]: Commencement: Sch. in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)
+[^c-50bad28f824b9087764d46e29fb7f8f3]: Commencement: Sch. in force at 1.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2010/269/article/1/2)

@@ -26,7 +26,7 @@ IDENTIFICATION
 
 1\.
 
-United Kingdom[^key-92748d40708518352fccc1d48e869020] fleet register number[^f00042]
+United Kingdom[^c-92748d40708518352fccc1d48e869020] fleet register number[^f00042]
 
 2\.
 
@@ -69,7 +69,7 @@ Any other requirement arising from an application for a fishing authorisation.
 
 ## Annotations
 
-[^key-92748d40708518352fccc1d48e869020]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2011/404/annex/III) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(105)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/105); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92748d40708518352fccc1d48e869020]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2011/404/annex/III) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(105)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/105); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00042]: Footnote: In accordance with Regulation (EC) No 26/2004.
 

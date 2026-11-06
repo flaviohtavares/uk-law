@@ -22,14 +22,14 @@ summary: ''
 
 (1) A deferred member who has not reached the age of 65 is entitled to immediate payment of a pension that is payable for life if—
 
-- (a) in the opinion of the Department the member suffers from physical or mental infirmity as a result of which the member is permanently[^key-f170619a9255a29ed1278aed2c0386fa] incapable of engaging in regular employment of like duration, and
+- (a) in the opinion of the Department the member suffers from physical or mental infirmity as a result of which the member is permanently[^c-f170619a9255a29ed1278aed2c0386fa] incapable of engaging in regular employment of like duration, and
 - (b) the member has claimed the pension.
 
 (2) A deferred member who is in HSC employment and has not reached the age of 65 is entitled to immediate payment of a pension that is payable for life if—
 
 - (a) in the opinion of the Department the member—
   - (i) does not fall within paragraph (1)(a), but
-  - (ii) suffers from physical or mental infirmity[^key-46fdab94f2adb8cea3fb3efb4fa592bf] as a result of which the member is permanently incapable of discharging the duties of the member's employment efficiently, and
+  - (ii) suffers from physical or mental infirmity[^c-46fdab94f2adb8cea3fb3efb4fa592bf] as a result of which the member is permanently incapable of discharging the duties of the member's employment efficiently, and
 - (b) the member has claimed the pension.
 
 (3) The amount of the annual pension payable under this regulation (disregarding any additional pension) is calculated as specified in regulation 176(4).
@@ -85,12 +85,12 @@ summary: ''
 - “**permanently**” means the period until age 65; and
 - “**regular employment of like duration**” means such employment as the Department considers would involve a similar level of engagement to the member's pensionable service as a practitioner immediately before that service ceased.
 
-(10)[^key-54f303a6c9852c2602d1bda420317560] In the case of a 2008 Section Optant, this regulation is subject to regulation 260K.
+(10)[^c-54f303a6c9852c2602d1bda420317560] In the case of a 2008 Section Optant, this regulation is subject to regulation 260K.
 
 ## Annotations
 
-[^key-f170619a9255a29ed1278aed2c0386fa]: Textual amendment: Word in [reg. 184(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/184/1/a) inserted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [65(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/65/2) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-f170619a9255a29ed1278aed2c0386fa]: Textual amendment: Word in [reg. 184(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/184/1/a) inserted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [65(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/65/2) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-46fdab94f2adb8cea3fb3efb4fa592bf]: Textual amendment: Word in [reg. 184(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2008/256/regulation/184/2/a/ii) substituted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [65(3)](https://www.legislation.gov.uk/nisr/2009/65/regulation/65/3) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-46fdab94f2adb8cea3fb3efb4fa592bf]: Textual amendment: Word in [reg. 184(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2008/256/regulation/184/2/a/ii) substituted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [65(3)](https://www.legislation.gov.uk/nisr/2009/65/regulation/65/3) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-54f303a6c9852c2602d1bda420317560]: Textual amendment: [Reg. 184(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/184/10) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [75](https://www.legislation.gov.uk/nisr/2010/22/regulation/75)
+[^c-54f303a6c9852c2602d1bda420317560]: Textual amendment: [Reg. 184(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/184/10) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [75](https://www.legislation.gov.uk/nisr/2010/22/regulation/75)

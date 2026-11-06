@@ -58,7 +58,7 @@ as they think fit.
 (8) For the purposes of this section none of the following shall be taken to be a constituent or affiliated organisation in relation to a party—
 
 - (a) a trade union within the meaning of the [^c10573491]Trade Union and Labour Relations (Consolidation) Act 1992 or the [^c10573501]Industrial Relations (Northern Ireland) Order 1992;
-- (b) a friendly society registered under the [^c10573511]Friendly Societies Act 1974 , a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered (or deemed to be registered) under[^key-b2a9473157c5666935f80e011fadb3d5] the [^c10573531]Industrial and Provident Societies Act (Northern Ireland) 1969;
+- (b) a friendly society registered under the [^c10573511]Friendly Societies Act 1974 , a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered (or deemed to be registered) under[^c-b2a9473157c5666935f80e011fadb3d5] the [^c10573531]Industrial and Provident Societies Act (Northern Ireland) 1969;
 - (c) any other organisation specified, or of a description specified, in an order made by the Secretary of State on the recommendation of the Commission.
 
 (9) In this section “**constitution**”, in relation to a party, means the document or documents (of whatever name) by which the structure and organisation of the party is determined.
@@ -86,6 +86,6 @@ and the party’s scheme must show that the financial affairs of the party in Gr
 
 [^c10573511]: Marginal citation: [1974 c. 46](https://www.legislation.gov.uk/ukpga/1974/46).
 
-[^key-b2a9473157c5666935f80e011fadb3d5]: Textual amendment: Words in s. 26(8)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 75](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/75) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-b2a9473157c5666935f80e011fadb3d5]: Textual amendment: Words in s. 26(8)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 75](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/75) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c10573531]: Marginal citation: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24).

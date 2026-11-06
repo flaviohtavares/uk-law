@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Duty to provide information and advice to the Commission[^key-2ea1aa6ac8ae7abc939de0bb4e5aee56][^key-2e7994503a6325bd2a7c73040e03a3f2]
+## 59. Duty to provide information and advice to the Commission[^c-2ea1aa6ac8ae7abc939de0bb4e5aee56][^c-2e7994503a6325bd2a7c73040e03a3f2]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ea1aa6ac8ae7abc939de0bb4e5aee56]: Commencement: S. 59 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-2ea1aa6ac8ae7abc939de0bb4e5aee56]: Commencement: S. 59 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-2e7994503a6325bd2a7c73040e03a3f2]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2022/1/section/59) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/62/article/2/c) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-2e7994503a6325bd2a7c73040e03a3f2]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2022/1/section/59) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/62/article/2/c) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))

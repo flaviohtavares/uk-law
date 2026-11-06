@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84.[^key-2717edf80f62eb95ff31ec684be897f5]
+## 84.[^c-2717edf80f62eb95ff31ec684be897f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 152(b) (documents to accompany claim) omit “from a place outside
 
 ## Annotations
 
-[^key-2717edf80f62eb95ff31ec684be897f5]: Commencement: Reg. 84 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2717edf80f62eb95ff31ec684be897f5]: Commencement: Reg. 84 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

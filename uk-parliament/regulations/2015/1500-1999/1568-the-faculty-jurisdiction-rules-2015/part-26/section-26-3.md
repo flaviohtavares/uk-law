@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 26.3. Service of petition[^key-c0dd8b94b005fdc0698af754a666914b]
+## 26.3. Service of petition[^c-c0dd8b94b005fdc0698af754a666914b]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0dd8b94b005fdc0698af754a666914b]: Commencement: [Rule 26.3](https://www.legislation.gov.uk/uksi/2015/1568/article/26.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-c0dd8b94b005fdc0698af754a666914b]: Commencement: [Rule 26.3](https://www.legislation.gov.uk/uksi/2015/1568/article/26.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

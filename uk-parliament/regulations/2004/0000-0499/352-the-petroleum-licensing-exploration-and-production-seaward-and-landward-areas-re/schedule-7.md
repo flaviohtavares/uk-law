@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 3(8)
 
-**1.**[^key-9718956ed4195932942babe26c1f1ba9] After paragraph (1) of model clause 3 in Schedule 6 the following paragraph shall be inserted—
+**1.**[^c-9718956ed4195932942babe26c1f1ba9] After paragraph (1) of model clause 3 in Schedule 6 the following paragraph shall be inserted—
 
 > (2) This licence shall, unless the Minister in any particular case decides otherwise, automatically cease and determine on the third anniversary of the date of commencement of the Initial Term in the event of failure by the Licensee on or before such anniversary to—
 >
@@ -31,10 +31,10 @@ Regulation 3(8)
 
 - and the next following paragraph of the said model clause shall be re-numbered (3) and expressed to apply subject to paragraph (2) above.
 
-**2.**[^key-e1f21977a27b1dee24b6b6fc4c54116c] For references to “the Work Programme” in model clauses 4(1)(b) and 12(1) in Schedule 6 there shall, in cases where the Minister does not exercise his discretion under the provision set out in paragraph 1 of this Schedule, be substituted references to “the work described in Part II of the Work Programme”.
+**2.**[^c-e1f21977a27b1dee24b6b6fc4c54116c] For references to “the Work Programme” in model clauses 4(1)(b) and 12(1) in Schedule 6 there shall, in cases where the Minister does not exercise his discretion under the provision set out in paragraph 1 of this Schedule, be substituted references to “the work described in Part II of the Work Programme”.
 
 ## Annotations
 
-[^key-9718956ed4195932942babe26c1f1ba9]: Commencement: Sch. 7 para. 1 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
+[^c-9718956ed4195932942babe26c1f1ba9]: Commencement: Sch. 7 para. 1 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
 
-[^key-e1f21977a27b1dee24b6b6fc4c54116c]: Commencement: Sch. 7 para. 2 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
+[^c-e1f21977a27b1dee24b6b6fc4c54116c]: Commencement: Sch. 7 para. 2 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)

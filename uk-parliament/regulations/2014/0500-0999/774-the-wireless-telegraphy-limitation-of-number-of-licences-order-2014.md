@@ -74,7 +74,7 @@ in determining the limit on the number of wireless telegraphy licences to be gra
 
 ## 6. Determination of limitations on the number of wireless telegraphy licences
 
-OFCOM shall[^key-1db58a05a86062e71232149bc447360f] consider applications for each category of licence (and apply any criteria specified in Parts 2 and 3 of Schedules 1 to 9) in the order of receipt of each correctly completed application form.
+OFCOM shall[^c-1db58a05a86062e71232149bc447360f] consider applications for each category of licence (and apply any criteria specified in Parts 2 and 3 of Schedules 1 to 9) in the order of receipt of each correctly completed application form.
 
 Philip Marnick
 
@@ -102,7 +102,7 @@ Regulations 4 to 6
 
 87.5-108.0 MHz (FM)
 
-210.792-230.0[^key-d848dfc5a2628cbc435a5dfa7bddd1f7] MHz (T-DAB)
+210.792-230.0[^c-d848dfc5a2628cbc435a5dfa7bddd1f7] MHz (T-DAB)
 
 **Community Radio**
 
@@ -395,7 +395,7 @@ Regulations 4 to 6
 
 457.50-464.00 MHz
 
-#### Fixed Wireless Access[^key-72b99aa779f846ae06274567242c98fa]
+#### Fixed Wireless Access[^c-72b99aa779f846ae06274567242c98fa]
 
 5725-5850 MHz
 
@@ -875,13 +875,13 @@ Regulations 4 to 6
 
 **6.** An applicant must be a person responsible for air traffic control.
 
-**7.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^key-004c7d2bfbdb1a9a7a9ae8674c09b41c] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable in the location where the station is situated.
+**7.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^c-004c7d2bfbdb1a9a7a9ae8674c09b41c] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable in the location where the station is situated.
 
 **Aeronautical Ground Station (High Frequency)**
 
 **8.** An applicant must be seeking authority to use the assigned frequencies solely for the purposes of communication with aircraft.
 
-**9.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^key-22339a9711783b04254e8d7f66a03a1b] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable in the location where the station is situated.
+**9.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^c-22339a9711783b04254e8d7f66a03a1b] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable in the location where the station is situated.
 
 **Aeronautical Ground Station (Offshore Platform)**
 
@@ -895,7 +895,7 @@ Regulations 4 to 6
 
 **13.** An applicant must be the owner or operator of an offshore platform and must be seeking authority to use the assigned frequencies solely for the purposes of communication with aircraft, emergency mobile ground stations or airport vehicles.
 
-**14.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^key-347490acd4265cdf404a3efd1c6c88c6] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable in the location where the station is situated.
+**14.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^c-347490acd4265cdf404a3efd1c6c88c6] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable in the location where the station is situated.
 
 **Aeronautical Navigational Aid Stations**
 
@@ -909,7 +909,7 @@ Regulations 4 to 6
 
 **17.** An applicant must be seeking to use the assigned frequencies solely for the purposes of operation control, where “**operation control**” means the exercise of authority over the initiation, continuation or diversion of a flight, in the interest of the safety of the aircraft and the regularity and efficiency of the flight.
 
-**18.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^key-366d9158987f2f6f4fa33208fb93f06e] or the safety requirements that are applicable to the location where the station is situated.
+**18.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^c-366d9158987f2f6f4fa33208fb93f06e] or the safety requirements that are applicable to the location where the station is situated.
 
 **Aeronautical Ground Station (Fire)**
 
@@ -929,7 +929,7 @@ Regulations 4 to 6
 
 **22.** An applicant must be seeking to use the assigned frequencies solely for the purposes of operation control, where “**operation control**” means the exercise of authority over the initiation, continuation or diversion of a flight, in the interest of the safety of the aircraft and the regularity and efficiency of the flight.
 
-**23.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^key-5c62fad6dc2e0db1e59139388e1f061d] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable to the location where the station is situated.
+**23.** An applicant must demonstrate that the station is authorized in accordance with the Air Navigation Order 2016[^c-5c62fad6dc2e0db1e59139388e1f061d] or where the station is situated in the Isle of Man or the Channel Islands, the safety requirements that are applicable to the location where the station is situated.
 
 **24.** An applicant must intend to operate a station solely for the transmission or reception of signals as part of an “aeronautical mobile service”, “aeronautical mobile-satellite service” or an “**aeronautical radionavigation service**” as defined in Article 1 of the Radio Regulations.
 
@@ -1400,9 +1400,9 @@ A full regulatory impact assessment of the effect of this Order is available fro
 
 [^c22062331]: Marginal citation: The Constitution and Convention of the International Telecommunication Union were adopted in Geneva in 1992 and ratified by the UK in 1994 (Cm 3145). They were modified by the Plenipotentiary Conference in Kyoto in 1994 as ratified by the UK in 1997 (Cm 3779).
 
-[^key-1db58a05a86062e71232149bc447360f]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/uksi/2014/774/article/6) substituted (17.4.2015) by [The Wireless Telegraphy (Limitation of Number of Licences) (Amendment) Order 2015 (S.I. 2015/999)](https://www.legislation.gov.uk/uksi/2015/999), [arts. 1](https://www.legislation.gov.uk/uksi/2015/999/article/1), [3](https://www.legislation.gov.uk/uksi/2015/999/article/3)
+[^c-1db58a05a86062e71232149bc447360f]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/uksi/2014/774/article/6) substituted (17.4.2015) by [The Wireless Telegraphy (Limitation of Number of Licences) (Amendment) Order 2015 (S.I. 2015/999)](https://www.legislation.gov.uk/uksi/2015/999), [arts. 1](https://www.legislation.gov.uk/uksi/2015/999/article/1), [3](https://www.legislation.gov.uk/uksi/2015/999/article/3)
 
-[^key-d848dfc5a2628cbc435a5dfa7bddd1f7]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/774/schedule/1/part/1) substituted (17.4.2015) by [The Wireless Telegraphy (Limitation of Number of Licences) (Amendment) Order 2015 (S.I. 2015/999)](https://www.legislation.gov.uk/uksi/2015/999), [arts. 1](https://www.legislation.gov.uk/uksi/2015/999/article/1), [4](https://www.legislation.gov.uk/uksi/2015/999/article/4)
+[^c-d848dfc5a2628cbc435a5dfa7bddd1f7]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/774/schedule/1/part/1) substituted (17.4.2015) by [The Wireless Telegraphy (Limitation of Number of Licences) (Amendment) Order 2015 (S.I. 2015/999)](https://www.legislation.gov.uk/uksi/2015/999), [arts. 1](https://www.legislation.gov.uk/uksi/2015/999/article/1), [4](https://www.legislation.gov.uk/uksi/2015/999/article/4)
 
 [^c22062341]: Marginal citation: [1996 c.55](https://www.legislation.gov.uk/ukpga/1996/55); the relevant sections of the Broadcasting Act 1996 were extended to the Bailiwick of Guernsey by article 2 of the [Broadcasting (Guernsey) Order 2003 (S.I. 2003/3192)](https://www.legislation.gov.uk/uksi/2003/3192); to the Bailiwick of Jersey by article 2 of the [Broadcasting (Jersey) Order 2003 (S.I. 2003/3203)](https://www.legislation.gov.uk/uksi/2003/3203); and to the Isle of Man by article 2 of the [Broadcasting (Isle of Man) Order 2003 (S.I. 2003/3193)](https://www.legislation.gov.uk/uksi/2003/3193).
 
@@ -1414,7 +1414,7 @@ A full regulatory impact assessment of the effect of this Order is available fro
 
 [^c22062381]: Marginal citation: OfW 275 Technical Frequency Assignment Criteria for Programme Making and Special Events (PMSE) (March 2014).
 
-[^key-72b99aa779f846ae06274567242c98fa]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/774/schedule/3/part/1) inserted (17.4.2015) by [The Wireless Telegraphy (Limitation of Number of Licences) (Amendment) Order 2015 (S.I. 2015/999)](https://www.legislation.gov.uk/uksi/2015/999), [arts. 1](https://www.legislation.gov.uk/uksi/2015/999/article/1), [5](https://www.legislation.gov.uk/uksi/2015/999/article/5)
+[^c-72b99aa779f846ae06274567242c98fa]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/774/schedule/3/part/1) inserted (17.4.2015) by [The Wireless Telegraphy (Limitation of Number of Licences) (Amendment) Order 2015 (S.I. 2015/999)](https://www.legislation.gov.uk/uksi/2015/999), [arts. 1](https://www.legislation.gov.uk/uksi/2015/999/article/1), [5](https://www.legislation.gov.uk/uksi/2015/999/article/5)
 
 [^c22062391]: Marginal citation: The publications are: OfW 31 - Fixed Point-to-Point Radio Services with Analogue Modulation Operating in the Frequency Ranges 31.0 to 31.3 GHz paired with 31.5 to 31.8 GHz (September 2004); OfW 446 Technical Frequency Assignment Criteria for Fixed Point-to-Point Radio Services with Digital Modulation December 2013); and OfW 49 Fixed Point-to-Point and Point-to-Multipoint Scanning Telemetry Radio Services with Analogue Modulation Operating in the Frequency Ranges 457.5 to 458.5 MHz paired with 463.0 to 464.0 MHz (September 2004).
 
@@ -1430,15 +1430,15 @@ A full regulatory impact assessment of the effect of this Order is available fro
 
 [^c22062451]: Marginal citation: Currently, the relevant requirements are set out in the Airport and Civil Aviation Act 1987 (Isle of Man) (A.T. 10 of 1987), Air Aviation (Bailiwick of Guernsey) Law, 2012 (Order in Council No. XI of 2013) and the Aviation (Jersey) Law 2008 (L 35/2008).
 
-[^key-004c7d2bfbdb1a9a7a9ae8674c09b41c]: Textual amendment: Words in Sch. 6 para. 7 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-004c7d2bfbdb1a9a7a9ae8674c09b41c]: Textual amendment: Words in Sch. 6 para. 7 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-22339a9711783b04254e8d7f66a03a1b]: Textual amendment: Words in [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/9) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-22339a9711783b04254e8d7f66a03a1b]: Textual amendment: Words in [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/9) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-347490acd4265cdf404a3efd1c6c88c6]: Textual amendment: Words in [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/14) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-347490acd4265cdf404a3efd1c6c88c6]: Textual amendment: Words in [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/14) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-366d9158987f2f6f4fa33208fb93f06e]: Textual amendment: Words in [Sch. 6 para. 18](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/18) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-366d9158987f2f6f4fa33208fb93f06e]: Textual amendment: Words in [Sch. 6 para. 18](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/18) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-5c62fad6dc2e0db1e59139388e1f061d]: Textual amendment: Words in [Sch. 6 para. 23](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/23) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-5c62fad6dc2e0db1e59139388e1f061d]: Textual amendment: Words in [Sch. 6 para. 23](https://www.legislation.gov.uk/uksi/2014/774/schedule/6/paragraph/23) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/6) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^c22062471]: Marginal citation: Directorate of Airspace Policy CAP 724 Airspace Charter published by the Civil Aviation Authority (30 August 2012).
 

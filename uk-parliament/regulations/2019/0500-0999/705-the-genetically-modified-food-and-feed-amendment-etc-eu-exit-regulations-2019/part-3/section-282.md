@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282.[^key-de4e1ace19d0bc11f1f7b52bb0983424]
+## 282.[^c-de4e1ace19d0bc11f1f7b52bb0983424]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Annex, in the Note, in the final sentence, omit “Community”.
 
 ## Annotations
 
-[^key-de4e1ace19d0bc11f1f7b52bb0983424]: Commencement: Reg. 282 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-de4e1ace19d0bc11f1f7b52bb0983424]: Commencement: Reg. 282 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

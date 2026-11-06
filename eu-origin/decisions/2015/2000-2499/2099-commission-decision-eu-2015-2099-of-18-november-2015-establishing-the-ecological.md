@@ -38,182 +38,182 @@ establishing the ecological criteria for the award of the EU Ecolabel for growin
 
 (Text with EEA relevance) (revoked)
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8ad7a08d2697ee7a5b24a6323f148da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-d8ad7a08d2697ee7a5b24a6323f148da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — FRAMEWORK[^key-d8ad7a08d2697ee7a5b24a6323f148da]
+## ANNEX — FRAMEWORK[^c-d8ad7a08d2697ee7a5b24a6323f148da]
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da]EU ECOLABEL CRITERIA
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-d8ad7a08d2697ee7a5b24a6323f148da]ASSESSMENT AND VERIFICATION REQUIREMENTS
+[^c-d8ad7a08d2697ee7a5b24a6323f148da]EU ECOLABEL CRITERIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 1 — Constituents
+[^c-d8ad7a08d2697ee7a5b24a6323f148da]ASSESSMENT AND VERIFICATION REQUIREMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2 — Organic constituents
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 1 — Constituents
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2.1.
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2 — Organic constituents
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2.2.
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2.3.
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3 — Mineral growing media and mineral constituents
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3.1. Energy consumption and CO2 emissions
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3 — Mineral growing media and mineral constituents
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3.2. Sources of mineral extraction
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3.1. Energy consumption and CO2 emissions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3.3. Mineral growing media use and after use
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3.2. Sources of mineral extraction
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 4 — Recycled/recovered and organic materials in growing media
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 3.3. Mineral growing media use and after use
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5 — Limitation of hazardous substances
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 4 — Recycled/recovered and organic materials in growing media
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.1. — Limits for heavy metals
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5 — Limitation of hazardous substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da](a)
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.1. — Limits for heavy metals
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d8ad7a08d2697ee7a5b24a6323f148da](a)
 
 Soil improvers, mulch and organic constituents of growing media
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da](b)
+[^c-d8ad7a08d2697ee7a5b24a6323f148da](b)
 
 Growing media
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.2. — Limits for Polycyclic Aromatic Hydrocarbons (PAH)
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.2. — Limits for Polycyclic Aromatic Hydrocarbons (PAH)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.3. — Hazardous substances and mixtures
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.3. — Hazardous substances and mixtures
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.4. — Substances listed in accordance with Article 59(1) of Regulation (EC) No 1907/2006
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.4. — Substances listed in accordance with Article 59(1) of Regulation (EC) No 1907/2006
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.5. — Limits for E. coli and Salmonella spp.
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 5.5. — Limits for E. coli and Salmonella spp.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 6 — Stability
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 6 — Stability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 7 — Physical Contaminants
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 7 — Physical Contaminants
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 8 — Organic matter and dry matter
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 8 — Organic matter and dry matter
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 9 — Viable weed seeds and plant propagules
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 9 — Viable weed seeds and plant propagules
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 10 — Plant response
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 10 — Plant response
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11 — Growing media features
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11 — Growing media features
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.1. — Electrical conductivity
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.1. — Electrical conductivity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.2. — pH
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.2. — pH
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.3. — Sodium content
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.3. — Sodium content
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.4. — Chloride content
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 11.4. — Chloride content
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12 — Provision of information
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12 — Provision of information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12.1. — Soil improvers
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12.1. — Soil improvers
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12.2. — Growing media
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12.2. — Growing media
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12.3. — Mulch
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 12.3. — Mulch
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 13 — Information appearing on the EU Ecolabel
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Criterion 13 — Information appearing on the EU Ecolabel
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da]Appendix 1
+[^c-d8ad7a08d2697ee7a5b24a6323f148da]Appendix 1
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Sampling and test frequency for the application year
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Sampling and test frequency for the application year
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da]Appendix 2
+[^c-d8ad7a08d2697ee7a5b24a6323f148da]Appendix 2
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da] Sampling and test frequency for the following years
+[^c-d8ad7a08d2697ee7a5b24a6323f148da] Sampling and test frequency for the following years
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8ad7a08d2697ee7a5b24a6323f148da]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8ad7a08d2697ee7a5b24a6323f148da]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

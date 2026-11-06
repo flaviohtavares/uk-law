@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.2. Restriction on the use of further information[^key-82849cb94d31661a5ab4b741249ab4a8]
+## 18.2. Restriction on the use of further information[^c-82849cb94d31661a5ab4b741249ab4a8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may direct that information provided by a party to another party (whet
 
 ## Annotations
 
-[^key-82849cb94d31661a5ab4b741249ab4a8]: Commencement: [Rule 18.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/18.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-82849cb94d31661a5ab4b741249ab4a8]: Commencement: [Rule 18.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/18.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

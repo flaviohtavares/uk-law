@@ -244,7 +244,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 84 — Duties in relation to nominated person: supplementary](part-3/section-84.md)
 - [Section 85 — Determining who is nominated person](part-3/section-85.md)
 
-### PART 4 — INDEPENDENT MENTAL CAPACITY ADVOCATES[^key-f9b6387daef4267af6d3535e7b1aa4fb]
+### PART 4 — INDEPENDENT MENTAL CAPACITY ADVOCATES[^c-f9b6387daef4267af6d3535e7b1aa4fb]
 
 **Not yet in force.**
 
@@ -887,4 +887,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f9b6387daef4267af6d3535e7b1aa4fb]: Modification: [Pt. 4](https://www.legislation.gov.uk/nia/2016/18/part/4): power to apply conferred by S.I. 1986/595 (N.I.), art. 3C(6)(7)(a) (as inserted (2.12.2019 for specified purposes) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/4) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3), [4](https://www.legislation.gov.uk/nisr/2019/163/article/4)) (as amended by S.R. 2019/190, art. 2))
+[^c-f9b6387daef4267af6d3535e7b1aa4fb]: Modification: [Pt. 4](https://www.legislation.gov.uk/nia/2016/18/part/4): power to apply conferred by S.I. 1986/595 (N.I.), art. 3C(6)(7)(a) (as inserted (2.12.2019 for specified purposes) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/4) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3), [4](https://www.legislation.gov.uk/nisr/2019/163/article/4)) (as amended by S.R. 2019/190, art. 2))

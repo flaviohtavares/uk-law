@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Power of managers to modify by resolution[^c2114370][^key-3802fa54db624d80c48e96ab712b44f6]
+## 16. Power of managers to modify by resolution[^c2114370][^c-3802fa54db624d80c48e96ab712b44f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 32 of the 2008 Act (power of trustees to modify by resolution) in sub
 
 [^c2114370]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-3802fa54db624d80c48e96ab712b44f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/19/section/16) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/b)
+[^c-3802fa54db624d80c48e96ab712b44f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/19/section/16) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/b)

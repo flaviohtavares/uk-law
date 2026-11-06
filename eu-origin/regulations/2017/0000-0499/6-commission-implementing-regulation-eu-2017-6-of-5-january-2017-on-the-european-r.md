@@ -33,42 +33,42 @@ of 5 January 2017
 
 on the European Rail Traffic Management System European deployment plan (revoked)
 
-[^key-fc32568e24bc53e6fec73acdedc1d000]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc32568e24bc53e6fec73acdedc1d000]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-fc32568e24bc53e6fec73acdedc1d000]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. ETCS specific implementation rules regarding trackside installations[^key-fc32568e24bc53e6fec73acdedc1d000]
+## Article 1. Subject matter and scope[^c-fc32568e24bc53e6fec73acdedc1d000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Notifications[^key-fc32568e24bc53e6fec73acdedc1d000]
+## Article 2. ETCS specific implementation rules regarding trackside installations[^c-fc32568e24bc53e6fec73acdedc1d000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Review[^key-fc32568e24bc53e6fec73acdedc1d000]
+## Article 3. Notifications[^c-fc32568e24bc53e6fec73acdedc1d000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. References[^key-fc32568e24bc53e6fec73acdedc1d000]
+## Article 4. Review[^c-fc32568e24bc53e6fec73acdedc1d000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-fc32568e24bc53e6fec73acdedc1d000]
+## Article 5. References[^c-fc32568e24bc53e6fec73acdedc1d000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc32568e24bc53e6fec73acdedc1d000]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-fc32568e24bc53e6fec73acdedc1d000]
+## Article 6. Entry into force[^c-fc32568e24bc53e6fec73acdedc1d000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Correlation table[^key-fc32568e24bc53e6fec73acdedc1d000]
+[^c-fc32568e24bc53e6fec73acdedc1d000]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-fc32568e24bc53e6fec73acdedc1d000]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — Correlation table[^c-fc32568e24bc53e6fec73acdedc1d000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc32568e24bc53e6fec73acdedc1d000]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-fc32568e24bc53e6fec73acdedc1d000]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

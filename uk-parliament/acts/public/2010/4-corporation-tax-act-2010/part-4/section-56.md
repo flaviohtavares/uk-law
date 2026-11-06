@@ -27,8 +27,8 @@ summary: ''
 
 (2) There is a restriction on the amount of relief that may be given for the loss—
 
-- (a) under section 37 or 45A[^key-22dc28efd42d7aa16074466a37aad94b] (relief for trade losses against total profits) other than against profits of the limited partnership trade, [^key-942418521456dcee691b30b6e90b36cd]...
-- (b) under Part 5 (group relief), or[^key-30f6f03db0c211be1c403aaec5fd7c25]
+- (a) under section 37 or 45A[^c-22dc28efd42d7aa16074466a37aad94b] (relief for trade losses against total profits) other than against profits of the limited partnership trade, [^c-942418521456dcee691b30b6e90b36cd]...
+- (b) under Part 5 (group relief), or[^c-30f6f03db0c211be1c403aaec5fd7c25]
 - (c) under Part 5A (group relief for carried-forward losses)
 
 (3) The restriction is that the sum of—
@@ -38,7 +38,7 @@ summary: ''
 
 must not exceed the company's contribution to the firm as at the time mentioned in subsection (5).
 
-(4) Relief is within this subsection if it is given under section 37 or 45A[^key-497a05a8e5877e24fce6c38d13a88bac] or Part 5 or 5A[^key-7e8b5f1d480021919a93bea50d7c1662] for a loss made in the limited partnership trade by the company in an accounting period at any time during which it carries on that trade as a limited partner.
+(4) Relief is within this subsection if it is given under section 37 or 45A[^c-497a05a8e5877e24fce6c38d13a88bac] or Part 5 or 5A[^c-7e8b5f1d480021919a93bea50d7c1662] for a loss made in the limited partnership trade by the company in an accounting period at any time during which it carries on that trade as a limited partner.
 
 (5) The time referred to in subsection (3) is—
 
@@ -49,12 +49,12 @@ must not exceed the company's contribution to the firm as at the time mentioned 
 
 ## Annotations
 
-[^key-22dc28efd42d7aa16074466a37aad94b]: Textual amendment: Words in [s. 56(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/2/a) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/2/a)
+[^c-22dc28efd42d7aa16074466a37aad94b]: Textual amendment: Words in [s. 56(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/2/a) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/2/a)
 
-[^key-942418521456dcee691b30b6e90b36cd]: Textual amendment: Word in [s. 56(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/2/a) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/2/b)
+[^c-942418521456dcee691b30b6e90b36cd]: Textual amendment: Word in [s. 56(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/2/a) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/2/b)
 
-[^key-30f6f03db0c211be1c403aaec5fd7c25]: Textual amendment: [S. 56(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/2/c) and word inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/2/c)
+[^c-30f6f03db0c211be1c403aaec5fd7c25]: Textual amendment: [S. 56(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/2/c) and word inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/2/c)
 
-[^key-497a05a8e5877e24fce6c38d13a88bac]: Textual amendment: Words in [s. 56(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/3/a)
+[^c-497a05a8e5877e24fce6c38d13a88bac]: Textual amendment: Words in [s. 56(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/3/a)
 
-[^key-7e8b5f1d480021919a93bea50d7c1662]: Textual amendment: Words in [s. 56(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/3/b)
+[^c-7e8b5f1d480021919a93bea50d7c1662]: Textual amendment: Words in [s. 56(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/56/4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 152(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/152/3/b)

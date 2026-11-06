@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Judicial Pensions (Requisite Benefits) Order (Northern Ireland) 1988[^key-533fc63f70a6fd5362d452c74bbf8939]
+## 82. Judicial Pensions (Requisite Benefits) Order (Northern Ireland) 1988[^c-533fc63f70a6fd5362d452c74bbf8939]
 
 *Extent: N.I.*
 
@@ -63,7 +63,7 @@ summary: ''
 
 ## Annotations
 
-[^key-533fc63f70a6fd5362d452c74bbf8939]: Commencement: Reg. 82 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-533fc63f70a6fd5362d452c74bbf8939]: Commencement: Reg. 82 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00142]: Footnote: [S.R. (N.I.) 1988/294](https://www.legislation.gov.uk/nisr/1988/294). Article 10 was amended by Schedule 6 to [S.I. 2005/3325](https://www.legislation.gov.uk/uksi/2005/3325).
 

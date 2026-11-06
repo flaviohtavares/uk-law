@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Provision of information for use by police staff[^key-42604855dfa5fbf1856c67da1a868d86]
+## 123. Provision of information for use by police staff[^c-42604855dfa5fbf1856c67da1a868d86]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,10 +43,10 @@ summary: ''
 
 .
 
-(3)[^key-1c7f543581919be99b1cf54b5a844a4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1c7f543581919be99b1cf54b5a844a4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42604855dfa5fbf1856c67da1a868d86]: Commencement: S. 123 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/k)
+[^c-42604855dfa5fbf1856c67da1a868d86]: Commencement: S. 123 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/k)
 
-[^key-1c7f543581919be99b1cf54b5a844a4f]: Textual amendment: [S. 123(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/123/3) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-1c7f543581919be99b1cf54b5a844a4f]: Textual amendment: [S. 123(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/123/3) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)

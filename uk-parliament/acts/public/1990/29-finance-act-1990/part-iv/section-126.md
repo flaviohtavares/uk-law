@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Pools payments for football ground improvements.[^key-f422e9b3ab487263dc11ca8dd751968a]
+## 126. Pools payments for football ground improvements.[^c-f422e9b3ab487263dc11ca8dd751968a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f422e9b3ab487263dc11ca8dd751968a]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/1990/29/section/126) repealed (with effect in accordance with Sch. 39 para. 19(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 19(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/19/1)
+[^c-f422e9b3ab487263dc11ca8dd751968a]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/1990/29/section/126) repealed (with effect in accordance with Sch. 39 para. 19(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 19(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/19/1)

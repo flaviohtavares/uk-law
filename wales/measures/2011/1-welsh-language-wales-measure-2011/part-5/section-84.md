@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Imposition of civil penalty[^key-85dbdb66bad98d10c3dfe0a071f360e2]
+## 84. Imposition of civil penalty[^c-85dbdb66bad98d10c3dfe0a071f360e2]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85dbdb66bad98d10c3dfe0a071f360e2]: Commencement: [S. 84](https://www.legislation.gov.uk/mwa/2011/1/section/84) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-85dbdb66bad98d10c3dfe0a071f360e2]: Commencement: [S. 84](https://www.legislation.gov.uk/mwa/2011/1/section/84) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

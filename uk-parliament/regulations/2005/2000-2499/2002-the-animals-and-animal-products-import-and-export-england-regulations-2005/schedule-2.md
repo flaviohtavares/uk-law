@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — BORDER INSPECTION POSTS[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+## SCHEDULE 2 — BORDER INSPECTION POSTS[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulations 1(2) and 17(1)
 
 ## Annotations
 
-[^key-f7c4c69da4435d8edf96bfa8d8631b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/2002) revoked (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked) 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2006/1471/regulation/36)
+[^c-f7c4c69da4435d8edf96bfa8d8631b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/2002) revoked (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked) 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2006/1471/regulation/36)

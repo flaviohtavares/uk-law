@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Contents of overseas elector’s declaration[^key-62e0141e70963e179c991d0e3611213f]
+## 18. Contents of overseas elector’s declaration[^c-62e0141e70963e179c991d0e3611213f]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62e0141e70963e179c991d0e3611213f]: Textual amendment: Reg. 18 substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/4/2) (with [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/a))
+[^c-62e0141e70963e179c991d0e3611213f]: Textual amendment: Reg. 18 substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/4/2) (with [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/a))

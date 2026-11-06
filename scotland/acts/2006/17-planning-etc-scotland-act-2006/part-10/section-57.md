@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Interpretation[^key-0cf490d2eb71d710aacd549c44182f11]
+## 57. Interpretation[^c-0cf490d2eb71d710aacd549c44182f11]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cf490d2eb71d710aacd549c44182f11]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2006/17/section/57) in force at 6.2.2007 by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-0cf490d2eb71d710aacd549c44182f11]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2006/17/section/57) in force at 6.2.2007 by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)

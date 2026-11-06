@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 213. Introductory[^key-db12e60f6e312a3e4d9d7f5df91eefc4]
+## 213. Introductory[^c-db12e60f6e312a3e4d9d7f5df91eefc4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 7.43 of the 1986 Rules[^f00076]. In paragraph (1), for (a), substitut
 
 ## Annotations
 
-[^key-db12e60f6e312a3e4d9d7f5df91eefc4]: Commencement: Rule 213 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-db12e60f6e312a3e4d9d7f5df91eefc4]: Commencement: Rule 213 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00076]: Footnote: Paragraph (1) was amended by [S.I. 2007/1898](https://www.legislation.gov.uk/uksi/2007/1898).

@@ -35,22 +35,22 @@ concerning the renewal of the authorisation of L-arginine produced by *Corynebac
 
 (Text with EEA relevance) (revoked)
 
-[^key-dc2f457275ed72b7adc448005a539aa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc2f457275ed72b7adc448005a539aa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-dc2f457275ed72b7adc448005a539aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc2f457275ed72b7adc448005a539aa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc2f457275ed72b7adc448005a539aa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-dc2f457275ed72b7adc448005a539aa5]
+## ANNEX[^c-dc2f457275ed72b7adc448005a539aa5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc2f457275ed72b7adc448005a539aa5]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 371](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/371) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-dc2f457275ed72b7adc448005a539aa5]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 371](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/371) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

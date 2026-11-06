@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Duty to publish model lease for hutting[^key-4f6f52233acb2b9a47719dc461ee63cc][^key-69b8797ca54609f8b7eb783c57a73257]
+## 12. Duty to publish model lease for hutting[^c-4f6f52233acb2b9a47719dc461ee63cc][^c-69b8797ca54609f8b7eb783c57a73257]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f6f52233acb2b9a47719dc461ee63cc]: Commencement: S. 12 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4f6f52233acb2b9a47719dc461ee63cc]: Commencement: S. 12 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-69b8797ca54609f8b7eb783c57a73257]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/15/section/12) in force at 16.3.2026 by [S.S.I. 2026/119](https://www.legislation.gov.uk/ssi/2026/119), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/2/c)
+[^c-69b8797ca54609f8b7eb783c57a73257]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/15/section/12) in force at 16.3.2026 by [S.S.I. 2026/119](https://www.legislation.gov.uk/ssi/2026/119), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/2/c)

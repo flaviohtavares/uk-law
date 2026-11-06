@@ -64,7 +64,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.**[^key-e2d453f8dbdce2b003fb30ada1766eba] (1.) The appropriate authority must authorise the importation of animal casings from any third country accompanied by a health certificate, in the form published by the appropriate authority from time to time, which must consist of one sheet.
+**Article 1.**[^c-e2d453f8dbdce2b003fb30ada1766eba] (1.) The appropriate authority must authorise the importation of animal casings from any third country accompanied by a health certificate, in the form published by the appropriate authority from time to time, which must consist of one sheet.
 
 (2.) In this Decision:
 
@@ -73,19 +73,19 @@ HAS ADOPTED THIS DECISION:
   - ((b)) in relation to Scotland, the Scottish Ministers;
 - “**third country**” means any country or territory other than the British Islands.
 
-**Article 1a.**[^key-95bd01b65a3835dc42205a1b5d48e8fc] The appropriate authority must ensure that consignments of animal casings for human consumption which are introduced into their territory and are destined for a third country by transit, either immediately or after storage in accordance with Commission Delegated Regulation (EU) 2019/2124, and which are not intended for importation into Great Britain, comply with the following requirements:
+**Article 1a.**[^c-95bd01b65a3835dc42205a1b5d48e8fc] The appropriate authority must ensure that consignments of animal casings for human consumption which are introduced into their territory and are destined for a third country by transit, either immediately or after storage in accordance with Commission Delegated Regulation (EU) 2019/2124, and which are not intended for importation into Great Britain, comply with the following requirements:
 
 - (a) they meet the specific animal health conditions set out in the health certificate;
 - (b) they are accompanied by the health certificate, in the form published by the appropriate authority from time to time, signed by an official veterinarian of the competent veterinary services of the third country concerned;
 - (c) they are certified as acceptable for transit or storage (as appropriate) on the Common Health Entry Document by the official veterinarian of the Border Control Post of introduction.
 
-**Article 1b.**[^key-bbb2906f602608d98b49eb442afaf590] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1b.**[^c-bbb2906f602608d98b49eb442afaf590] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 2.** Decision 94/187/EC is repealed.
 
 References to the repealed Decision shall be construed as references to this Decision and read in accordance with the correlation table in Annex III.
 
-**Article 3.**[^key-10766e4b67cc4016578bdc41b26f97c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-10766e4b67cc4016578bdc41b26f97c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX I A[^M_F_e50f3d76-26e7-4159-efaa-adaf9d89ab7f]
 
@@ -132,13 +132,13 @@ CORRELATION TABLE
 
 [^f00004]: Footnote: See Annex II to this Decision.
 
-[^key-e2d453f8dbdce2b003fb30ada1766eba]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2003/779/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-e2d453f8dbdce2b003fb30ada1766eba]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2003/779/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-95bd01b65a3835dc42205a1b5d48e8fc]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2003/779/article/1a) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-95bd01b65a3835dc42205a1b5d48e8fc]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2003/779/article/1a) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-bbb2906f602608d98b49eb442afaf590]: Textual amendment: [Art. 1b](https://www.legislation.gov.uk/eudn/2003/779/article/1b) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-bbb2906f602608d98b49eb442afaf590]: Textual amendment: [Art. 1b](https://www.legislation.gov.uk/eudn/2003/779/article/1b) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-10766e4b67cc4016578bdc41b26f97c9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2003/779/article/3) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-10766e4b67cc4016578bdc41b26f97c9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2003/779/article/3) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^M_F_e50f3d76-26e7-4159-efaa-adaf9d89ab7f]: Textual amendment: [Annex 1A](https://www.legislation.gov.uk/eudn/2003/779/annex/1A) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [43(5)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/43/5) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 

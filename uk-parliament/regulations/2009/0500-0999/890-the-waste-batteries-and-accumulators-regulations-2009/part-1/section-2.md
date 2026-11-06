@@ -22,7 +22,7 @@ summary: ''
 
 (1) In these Regulations—
 
-- “[^key-e4908272eea35a47fedaf6578f670f82]**appliance**” means any electrical or electronic equipment, as defined by Article 3(1)(a) of[^key-ccf713346cd98cdeb2073e1c17116341] Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) as last amended by Directive (EU) 2018/849[^key-579e03277241de85c047b7f206983625], which is fully or partly powered by batteries or is capable of being so;
+- “[^c-e4908272eea35a47fedaf6578f670f82]**appliance**” means any electrical or electronic equipment, as defined by Article 3(1)(a) of[^c-ccf713346cd98cdeb2073e1c17116341] Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) as last amended by Directive (EU) 2018/849[^c-579e03277241de85c047b7f206983625], which is fully or partly powered by batteries or is capable of being so;
 - “**appropriate authority**” has the meaning given in regulation 3;
 - “**appropriate person**” has the meaning given in regulation 5;
 - “**approved battery exporter**” means an exporter who has been approved under regulation 59;
@@ -36,7 +36,7 @@ summary: ''
 - “**battery pack**” means a set of batteries that are connected together or encapsulated within an outer casing so as to form a complete unit that the end-user is not intended to split up or open;
 - “**battery producer registration number**” means the registration number allocated to a producer by the appropriate authority under regulation 28 or by the Secretary of State under regulation 45;
 - “**battery treatment operator**” means a person who, in the ordinary course of a trade, occupation or profession, carries out the treatment or recycling of waste batteries;
-- best available techniques” has the meaning given in Article 2(2), as read with Article 2(3), of[^key-ac8cc067f48d913e82ced0fba15f2112] [Decision 2012/134/EU](https://www.legislation.gov.uk/eud/2012/0134) establishing the best available techniques (BAT) conclusions under [Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council on industrial emissions for the manufacture of glass;
+- best available techniques” has the meaning given in Article 2(2), as read with Article 2(3), of[^c-ac8cc067f48d913e82ced0fba15f2112] [Decision 2012/134/EU](https://www.legislation.gov.uk/eud/2012/0134) establishing the best available techniques (BAT) conclusions under [Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council on industrial emissions for the manufacture of glass;
 - “**category of battery**” means any of the following types of batteries—
   - (a) automotive batteries;
   - (b) industrial batteries;
@@ -55,8 +55,8 @@ summary: ''
   - (d) but a company incorporated outside the United Kingdom which has registered particulars under those Acts is not registered in the United Kingdom for the purposes of these Regulations;
 - “**declaration of compliance**” means the declaration of compliance referred to in regulation 18 or 25;
 - “**Department of the Environment**” means the Department of the Environment in Northern Ireland;
-- “ *(Extent: S)* *(affected by repeal, see note)*[^key-a11abfe8b7c8ac08d3a9bf0448d2ed01]**disposal *(Extent: S)* *(affected by repeal, see note)*[^key-a11abfe8b7c8ac08d3a9bf0448d2ed01]**” means any of the applicable operations provided for in *(Extent: S)* *(affected by repeal, see note)*[^key-a11abfe8b7c8ac08d3a9bf0448d2ed01] Annex 1 to[^key-97048453e0e75c4f8b28273cd54ef70e] *(Extent: S)* *(affected by repeal, see note)*[^key-a11abfe8b7c8ac08d3a9bf0448d2ed01] the Waste Framework Directive[^key-283e9f781031f1619ec6eae04b704369] *(Extent: S)* *(affected by repeal, see note)*[^key-a11abfe8b7c8ac08d3a9bf0448d2ed01]; *(Extent: S)* *(affected by repeal, see note)*[^key-a11abfe8b7c8ac08d3a9bf0448d2ed01]
-- “ *(Extent: S)***disposal *(Extent: S)***” has the meaning given by *(Extent: S)* Article 3(19)[^key-1b199f2247e7f03c887b4a19705e1c78] *(Extent: S)* of, and Annex I to, *(Extent: S)* the Waste Framework Directive *(Extent: S)*; *(Extent: S)*
+- “ *(Extent: S)* *(affected by repeal, see note)*[^c-a11abfe8b7c8ac08d3a9bf0448d2ed01]**disposal *(Extent: S)* *(affected by repeal, see note)*[^c-a11abfe8b7c8ac08d3a9bf0448d2ed01]**” means any of the applicable operations provided for in *(Extent: S)* *(affected by repeal, see note)*[^c-a11abfe8b7c8ac08d3a9bf0448d2ed01] Annex 1 to[^c-97048453e0e75c4f8b28273cd54ef70e] *(Extent: S)* *(affected by repeal, see note)*[^c-a11abfe8b7c8ac08d3a9bf0448d2ed01] the Waste Framework Directive[^c-283e9f781031f1619ec6eae04b704369] *(Extent: S)* *(affected by repeal, see note)*[^c-a11abfe8b7c8ac08d3a9bf0448d2ed01]; *(Extent: S)* *(affected by repeal, see note)*[^c-a11abfe8b7c8ac08d3a9bf0448d2ed01]
+- “ *(Extent: S)***disposal *(Extent: S)***” has the meaning given by *(Extent: S)* Article 3(19)[^c-1b199f2247e7f03c887b4a19705e1c78] *(Extent: S)* of, and Annex I to, *(Extent: S)* the Waste Framework Directive *(Extent: S)*; *(Extent: S)*
 
   “**distributor**” means a person that provides batteries on a professional basis to an end-user;
 - “**economic operator**” means a producer, distributor, collector, recycler or other treatment operator;
@@ -70,7 +70,7 @@ summary: ''
 - “**enforcement officer**” has the meaning given in regulation 88(11);
 - “**exporter**” means a person who in the ordinary course of a trade, occupation or profession exports waste batteries for treatment or recycling outside the United Kingdom;
 - “**extension of approval charge**” means—
-  - (a) subject to regulation 65(1), where the appropriate authority is the Environment Agency , the[^key-b92eb528275f4878244d87cc018e56e4] NRBW or SEPA, the extension of approval charge specified in regulation 65(2)(b) or, if superseded by an extension of approval charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995 [^c19658391], that charge;
+  - (a) subject to regulation 65(1), where the appropriate authority is the Environment Agency , the[^c-b92eb528275f4878244d87cc018e56e4] NRBW or SEPA, the extension of approval charge specified in regulation 65(2)(b) or, if superseded by an extension of approval charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995 [^c19658391], that charge;
   - (b) where the appropriate authority is the Department of the Environment, the extension of approval charge specified for the purpose in the Waste Batteries and Accumulators (Charges) Regulations (Northern Ireland) 2009 [^c19658401];
 - “**final holder of automotive batteries**” means—
   - (a) a person who, in the ordinary course of a trade, occupation or profession removes automotive batteries from vehicles;
@@ -82,7 +82,7 @@ summary: ''
   - (b) used as a source of power for propulsion in an electric vehicle;
   - (c) unsealed but is not an automotive battery; or
   - (d) sealed but is not a portable battery;
-- “[^key-cc1089ac646d2948da83478ecc744ace]NRBW” means the Natural Resources Body for Wales;
+- “[^c-cc1089ac646d2948da83478ecc744ace]NRBW” means the Natural Resources Body for Wales;
 - “**partnership**” includes an unincorporated partnership and a Scottish partnership;
 - “**Planning Appeals Commission**” means the Planning Appeals Commission within the meaning of Article 110 of the Planning (Northern Ireland) Order 1991 [^c19658431];
 - “**portable battery**” means any battery or battery pack which—
@@ -90,7 +90,7 @@ summary: ''
   - (b) can be hand-carried by an average natural person without difficulty, and
   - (c) is neither an automotive battery nor an industrial battery;
 - “**premises**” includes any land or means of transport;
-- “**producer**” means any person in the United Kingdom that, irrespective of the selling technique used, including by means of distance communication[^key-c37a5f7f26939ce8f43372d32102e669]..., places batteries, including those incorporated into appliances or vehicles, on the market for the first time in the United Kingdom on a professional basis [^key-82f24b6c1bd80d87636626e764ade498]...;
+- “**producer**” means any person in the United Kingdom that, irrespective of the selling technique used, including by means of distance communication[^c-c37a5f7f26939ce8f43372d32102e669]..., places batteries, including those incorporated into appliances or vehicles, on the market for the first time in the United Kingdom on a professional basis [^c-82f24b6c1bd80d87636626e764ade498]...;
 - “**proposed scheme**” means a proposed battery compliance scheme that is the subject of an application for approval made under regulation 47;
 - “**quarter period**” means a period—
   - (a) commencing on 1st January and ending on 31st March;
@@ -101,35 +101,35 @@ summary: ''
 - “**relevant approval period**” has the meaning given in regulation 61(2);
 - “**relevant compliance period**” means a compliance period in respect of which a person has any obligation under regulation 7(2), 19(1), 35(2) or 36(2);
 - “**scheme application charge**” means—
-  - (a) subject to regulation 55(1), where the appropriate authority is the Environment Agency , the[^key-1a464bd12743df063b04989781fc49de] NRBW or SEPA, the application charge specified in regulation 55(2)(a) or, if superseded by an application charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995, that charge;
+  - (a) subject to regulation 55(1), where the appropriate authority is the Environment Agency , the[^c-1a464bd12743df063b04989781fc49de] NRBW or SEPA, the application charge specified in regulation 55(2)(a) or, if superseded by an application charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995, that charge;
   - (b) where the appropriate authority is the Department of the Environment, the application charge specified for the purpose in the Waste Batteries and Accumulators (Charges) Regulations (Northern Ireland) 2009;
 - “**scheme member**” means, in relation to a battery compliance scheme, a producer who is a member of that scheme;
 - “**scheme operator**” means the operator of a battery compliance scheme;
 - “**scheme subsistence charge**” means—
-  - (a) subject to regulation 55(1), where the appropriate authority is the Environment Agency , the[^key-634de52c52327242bceb510c6720f1c9] NRBW or SEPA, the subsistence charge specified in regulation 55(2)(b) or if superseded by a subsistence charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995, that charge;
+  - (a) subject to regulation 55(1), where the appropriate authority is the Environment Agency , the[^c-634de52c52327242bceb510c6720f1c9] NRBW or SEPA, the subsistence charge specified in regulation 55(2)(b) or if superseded by a subsistence charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995, that charge;
   - (b) where the appropriate authority is the Department of the Environment, the subsistence charge specified for the purpose in the Waste Batteries and Accumulators (Charges) Regulations (Northern Ireland) 2009;
 - “**SEPA**” means the Scottish Environment Protection Agency;
 - “**small producer**” means a producer of portable batteries who places 1 tonne or less of portable batteries on the market in the United Kingdom during a year;
 - “**specified site**” means a site specified in a notification of a grant of approval of a battery treatment operator under regulation 60(2)(a);
 - “**treatment**” means any activity carried out on waste batteries after they have been handed over to a person for sorting, preparation for recycling or preparation for disposal;
 - “**treatment, recycling and export application charge**” means—
-  - (a) subject to regulation 65(1), where the appropriate authority is the Environment Agency , the[^key-bda5bdfbbc3406fa3baa04a196f76732] NRBW or SEPA, the application charge specified in regulation 65(2)(a) and (3) or, if superseded by an application charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995, that charge;
+  - (a) subject to regulation 65(1), where the appropriate authority is the Environment Agency , the[^c-bda5bdfbbc3406fa3baa04a196f76732] NRBW or SEPA, the application charge specified in regulation 65(2)(a) and (3) or, if superseded by an application charge specified for the purpose in a charging scheme made under section 41 of the Environment Act 1995, that charge;
   - (b) where the appropriate authority is the Department of the Environment, the application charge specified for the purpose in the Waste Batteries and Accumulators (Charges) Regulations (Northern Ireland) 2009;
-- “waste battery” means any battery which is waste within the meaning of Article 3(1) of[^key-f516954d6fe97491aab15e73c24a2118] the Waste Framework Directive;
+- “waste battery” means any battery which is waste within the meaning of Article 3(1) of[^c-f516954d6fe97491aab15e73c24a2118] the Waste Framework Directive;
 - “**waste collection authority**” means—
   - (a) in England, Wales and Scotland, an authority mentioned in section 30(3) of the Environmental Protection Act 1990 [^c19658451]; and
   - (b) in Northern Ireland, a district council within the meaning of section 1 of the Local Government Act (Northern Ireland) 1972 [^c19658461];
 - “**waste disposal authority**” means—
   - (a) in England, Wales and Scotland, an authority mentioned in section 30(2) of the Environmental Protection Act 1990 [^c19658471]; and
   - (b) in Northern Ireland, a district council within the meaning of section 1 of the Local Government Act (Northern Ireland) 1972;
-- “the Waste Framework Directive” means[^key-ebcb1c96883c7ee01b93d294b574dbd4] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, and as read in accordance with regulation 2A;
+- “the Waste Framework Directive” means[^c-ebcb1c96883c7ee01b93d294b574dbd4] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, and as read in accordance with regulation 2A;
 - “**writing**” includes text that is—
   - (a) transmitted by electronic means,
   - (b) received in legible form, and
   - (c) capable of being used for subsequent reference; and
 - “**year**” means a calendar year commencing on 1st January.
 
-(1A)[^key-dbc7a266a876256710cb156c38e444ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-dbc7a266a876256710cb156c38e444ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In these Regulations—
 
@@ -139,13 +139,13 @@ summary: ''
 
 ## Annotations
 
-[^key-e4908272eea35a47fedaf6578f670f82]: Textual amendment: Words in reg. 2(1) substituted (1.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1360)](https://www.legislation.gov.uk/uksi/2015/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1360/regulation/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2))
+[^c-e4908272eea35a47fedaf6578f670f82]: Textual amendment: Words in reg. 2(1) substituted (1.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1360)](https://www.legislation.gov.uk/uksi/2015/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1360/regulation/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2))
 
-[^key-ccf713346cd98cdeb2073e1c17116341]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/a/i) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ccf713346cd98cdeb2073e1c17116341]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/a/i) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-579e03277241de85c047b7f206983625]: Textual amendment: Words in reg. 2(1) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/13/2/a)
+[^c-579e03277241de85c047b7f206983625]: Textual amendment: Words in reg. 2(1) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/13/2/a)
 
-[^key-ac8cc067f48d913e82ced0fba15f2112]: Textual amendment: Words in reg. 2(1) substituted (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/i)
+[^c-ac8cc067f48d913e82ced0fba15f2112]: Textual amendment: Words in reg. 2(1) substituted (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/i)
 
 [^c19658341]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -153,17 +153,17 @@ summary: ''
 
 [^c19658361]: Marginal citation: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-a11abfe8b7c8ac08d3a9bf0448d2ed01]: Textual amendment: Words in reg. 2(1) substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [Sch. para. 24](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/24)
+[^c-a11abfe8b7c8ac08d3a9bf0448d2ed01]: Textual amendment: Words in reg. 2(1) substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [Sch. para. 24](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/24)
 
-[^key-97048453e0e75c4f8b28273cd54ef70e]: Textual amendment: Words in reg. 2(1) substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/iii)
+[^c-97048453e0e75c4f8b28273cd54ef70e]: Textual amendment: Words in reg. 2(1) substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/iii)
 
-[^key-283e9f781031f1619ec6eae04b704369]: Textual amendment: Words in reg. 2(1) substituted (E.W.S.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/ii)
+[^c-283e9f781031f1619ec6eae04b704369]: Textual amendment: Words in reg. 2(1) substituted (E.W.S.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/ii)
 
-[^key-1b199f2247e7f03c887b4a19705e1c78]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/a/ii) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b199f2247e7f03c887b4a19705e1c78]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/a/ii) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19658381]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 51 has been amended by section 31 of the [Waste and Emissions Trading Act 2003 (c. 33)](https://www.legislation.gov.uk/ukpga/2003/33) and Part 4 of Schedule 5 to the [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16).
 
-[^key-b92eb528275f4878244d87cc018e56e4]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b92eb528275f4878244d87cc018e56e4]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19658391]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). Section 41 is amended by regulation 94 of and Schedule 8 to these Regulations. There are other amendments which are not relevant to these Regulations.
 
@@ -173,21 +173,21 @@ summary: ''
 
 [^c19658421]: Marginal citation: [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263).
 
-[^key-cc1089ac646d2948da83478ecc744ace]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-cc1089ac646d2948da83478ecc744ace]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19658431]: Marginal citation: [S.I. 1991/1220 (N.I. 19)](https://www.legislation.gov.uk/nisi/1991/1220) as amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663), and [S.R. 2003/430](https://www.legislation.gov.uk/nisr/2003/430) (N.I. 8).
 
-[^key-c37a5f7f26939ce8f43372d32102e669]: Textual amendment: Words in reg. 2 omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/12/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+[^c-c37a5f7f26939ce8f43372d32102e669]: Textual amendment: Words in reg. 2 omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/12/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
 
-[^key-82f24b6c1bd80d87636626e764ade498]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/a/iii) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82f24b6c1bd80d87636626e764ade498]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/a/iii) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a464bd12743df063b04989781fc49de]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1a464bd12743df063b04989781fc49de]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-634de52c52327242bceb510c6720f1c9]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(5)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-634de52c52327242bceb510c6720f1c9]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(5)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-bda5bdfbbc3406fa3baa04a196f76732]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(6)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/6) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-bda5bdfbbc3406fa3baa04a196f76732]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 319(6)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/319/6) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f516954d6fe97491aab15e73c24a2118]: Textual amendment: Words in reg. 2(1) substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/iv)
+[^c-f516954d6fe97491aab15e73c24a2118]: Textual amendment: Words in reg. 2(1) substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [6(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/188/regulation/6/2/a/iv)
 
 [^c19658451]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 30(3) has been amended by the Local Government (Wales) Act 1994, Schedule 9, paragraph 17 and Schedule 18 and the Local Government etc (Scotland) Act 1994, Schedule 13, paragraph 167.
 
@@ -195,6 +195,6 @@ summary: ''
 
 [^c19658471]: Marginal citation: Section 30(2) has been amended by the Local Government (Wales) Act 1994, Schedule 9, paragraph 17 and the Local Government etc (Scotland) Act 1994, Schedule 13, paragraph 167.
 
-[^key-ebcb1c96883c7ee01b93d294b574dbd4]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by S.I. 2019/188, reg. 14(2)(a)(iv) (as inserted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/a/i))
+[^c-ebcb1c96883c7ee01b93d294b574dbd4]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by S.I. 2019/188, reg. 14(2)(a)(iv) (as inserted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/a/i))
 
-[^key-dbc7a266a876256710cb156c38e444ff]: Textual amendment: Reg. 2(1A) omitted (31.12.2020) by virtue of S.I. 2019/188, reg. 14(2)(c) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/a/ii))
+[^c-dbc7a266a876256710cb156c38e444ff]: Textual amendment: Reg. 2(1A) omitted (31.12.2020) by virtue of S.I. 2019/188, reg. 14(2)(c) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/a/ii))

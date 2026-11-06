@@ -32,7 +32,7 @@ summary: ''
 (4)[^c20957401] Where facilities are made available under subsection (3) the Welsh Ministers may make available the services of any person employed in connection with the facilities by—
 
 - (a) the Welsh Ministers,
-- (b)[^key-7a90402c8a547573ee5aaaf130cfa6d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7a90402c8a547573ee5aaaf130cfa6d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a Special Health Authority, or
 - (d) a Local Health Board.
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c20957401]: Modification: S. 10(1)(2)(3)(4)(5): Functions made exercisable by Local Health Boards (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [reg. 4](https://www.legislation.gov.uk/uksi/2009/1511/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/1511/schedule)
 
-[^key-7a90402c8a547573ee5aaaf130cfa6d2]: Textual amendment: S. 10(4)(b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/15); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7a90402c8a547573ee5aaaf130cfa6d2]: Textual amendment: S. 10(4)(b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/15); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

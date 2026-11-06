@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Additional functions of UKAEA[^key-9c968e805bfd84ab9130235c09be1ada]
+## 80. Additional functions of UKAEA[^c-9c968e805bfd84ab9130235c09be1ada]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c968e805bfd84ab9130235c09be1ada]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2004/20/section/80) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-9c968e805bfd84ab9130235c09be1ada]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2004/20/section/80) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

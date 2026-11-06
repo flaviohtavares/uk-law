@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Entitlement to surviving adult’s pension[^key-5b30f068ce635605e64cda84f7978310]
+## 107. Entitlement to surviving adult’s pension[^c-5b30f068ce635605e64cda84f7978310]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) a deferred member of this scheme; or
 - (c) a pensioner member of this scheme.
 
-(2) If the member was a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (a) includes the member’s period of pensionable service under the PCSPS(NI) before the transition date for that member[^key-337d29c5253ef99f25c4f785ddf8fcde] (but not service that has been transferred into the[^key-c784c04e5ea647bb9a27869c11bd0c56] PCSPS(NI)) .
+(2) If the member was a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (a) includes the member’s period of pensionable service under the PCSPS(NI) before the transition date for that member[^c-337d29c5253ef99f25c4f785ddf8fcde] (but not service that has been transferred into the[^c-c784c04e5ea647bb9a27869c11bd0c56] PCSPS(NI)) .
 
 (3) The surviving adult of the member is entitled to payment for life of a surviving adult’s pension as follows—
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5b30f068ce635605e64cda84f7978310]: Commencement: [Reg. 107](https://www.legislation.gov.uk/nisr/2014/290/regulation/107) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-5b30f068ce635605e64cda84f7978310]: Commencement: [Reg. 107](https://www.legislation.gov.uk/nisr/2014/290/regulation/107) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-337d29c5253ef99f25c4f785ddf8fcde]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/107/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/11)
+[^c-337d29c5253ef99f25c4f785ddf8fcde]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/107/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/11)
 
-[^key-c784c04e5ea647bb9a27869c11bd0c56]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/107/2) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/10)
+[^c-c784c04e5ea647bb9a27869c11bd0c56]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/107/2) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/10)

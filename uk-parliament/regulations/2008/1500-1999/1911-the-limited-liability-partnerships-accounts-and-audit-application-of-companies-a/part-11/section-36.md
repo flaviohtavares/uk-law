@@ -28,7 +28,7 @@ Sections 485 to 488 apply to LLPs, modified so that they read as follows—
 >
 > (2) For each financial year for which an auditor or auditors is or are to be appointed (other than the LLP's first financial year), the appointment must be made before the end of the period of 28 days beginning with—
 >
-> - (a) the end of the time allowed for sending out copies of the LLP's annual accounts and reports[^key-c7de07379b1bca4a61b0a41b3169e49a] for the previous financial year (see section 423), or
+> - (a) the end of the time allowed for sending out copies of the LLP's annual accounts and reports[^c-c7de07379b1bca4a61b0a41b3169e49a] for the previous financial year (see section 423), or
 > - (b) if earlier, the day on which copies of the LLP's annual accounts and reports for the previous financial year are sent out under section 423.
 >
 > This is the “period for appointing auditors”.
@@ -48,7 +48,7 @@ Sections 485 to 488 apply to LLPs, modified so that they read as follows—
 > (5) An auditor or auditors of an LLP may only be appointed—
 >
 > - (a) in accordance with this section, or
-> - (b) in accordance with section 486 or section 486A[^key-7a9e91e61c385cdee64402cc0a2513d1] (default power of Secretary of State).
+> - (b) in accordance with section 486 or section 486A[^c-7a9e91e61c385cdee64402cc0a2513d1] (default power of Secretary of State).
 >
 > This is without prejudice to any deemed re-appointment under section 487.
 >
@@ -179,9 +179,9 @@ Sections 485 to 488 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-c7de07379b1bca4a61b0a41b3169e49a]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2008/1911/regulation/36) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [18](https://www.legislation.gov.uk/uksi/2021/153/regulation/18)
+[^c-c7de07379b1bca4a61b0a41b3169e49a]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2008/1911/regulation/36) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [18](https://www.legislation.gov.uk/uksi/2021/153/regulation/18)
 
-[^key-7a9e91e61c385cdee64402cc0a2513d1]: Textual amendment: Words in reg. 36 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/11) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-7a9e91e61c385cdee64402cc0a2513d1]: Textual amendment: Words in reg. 36 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/11) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
 [^M_F_c80d8dc5-7944-47ac-910f-558c82f840f0]: Textual amendment: Words in reg. 36 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 11(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/11) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 

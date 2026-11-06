@@ -33,7 +33,7 @@ An Act to make provision about land registration; and for connected purposes.
 
 \[26th February 2002\] [^c4271251]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-84b331c0b06cad8c0bbaae9976c1ad17][^key-bef6378ab3fa82ef1fcf410c2542056f][^key-82269702c47aef01235ec31fffaae81e][^key-f9d13e45a55a9377237d14d98bdc1d3e]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-84b331c0b06cad8c0bbaae9976c1ad17][^c-bef6378ab3fa82ef1fcf410c2542056f][^c-82269702c47aef01235ec31fffaae81e][^c-f9d13e45a55a9377237d14d98bdc1d3e]
 
 ## Contents
 
@@ -218,7 +218,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 84 — Disapplication of requirements relating to Duchy land](part-7/section-84.md)
 - [Section 85 — Bona vacantia](part-7/section-85.md)
 
-#### Overseas entities[^key-d4b83ed5c1bf4aa23322deec3cc2e058]
+#### Overseas entities[^c-d4b83ed5c1bf4aa23322deec3cc2e058]
 
 - [Section 85A — Overseas entities](part-7/section-85a.md)
 
@@ -343,12 +343,12 @@ SCHEDULES
 
     Act applied (1.1.2006) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (S.I. 2005/3181)](https://www.legislation.gov.uk/uksi/2005/3181), arts. {14(2)(b)}, {153(2)(b)}
 
-[^key-84b331c0b06cad8c0bbaae9976c1ad17]: Modification: Act: certain functions transferred (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2436/schedule/1/paragraph/3)
+[^c-84b331c0b06cad8c0bbaae9976c1ad17]: Modification: Act: certain functions transferred (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2436/schedule/1/paragraph/3)
 
-[^key-bef6378ab3fa82ef1fcf410c2542056f]: Modification: Act applied by SI 2005/3181 art. 141L (as inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3))
+[^c-bef6378ab3fa82ef1fcf410c2542056f]: Modification: Act applied by SI 2005/3181 art. 141L (as inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3))
 
-[^key-82269702c47aef01235ec31fffaae81e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/9) modified (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 17(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/17/2/a)
+[^c-82269702c47aef01235ec31fffaae81e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/9) modified (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 17(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/17/2/a)
 
-[^key-f9d13e45a55a9377237d14d98bdc1d3e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/9): power to amend conferred (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 226(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/226/3/a), [255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-f9d13e45a55a9377237d14d98bdc1d3e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/9): power to amend conferred (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 226(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/226/3/a), [255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-d4b83ed5c1bf4aa23322deec3cc2e058]: Textual amendment: [S. 85A](https://www.legislation.gov.uk/ukpga/2002/9/section/85A) and cross-heading inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/2); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-d4b83ed5c1bf4aa23322deec3cc2e058]: Textual amendment: [S. 85A](https://www.legislation.gov.uk/ukpga/2002/9/section/85A) and cross-heading inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/2); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

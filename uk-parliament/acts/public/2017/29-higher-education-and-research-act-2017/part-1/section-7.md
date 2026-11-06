@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Proportionate conditions[^key-3bb488408387209e1da8a2a2806d7aa3]
+## 7. Proportionate conditions[^c-3bb488408387209e1da8a2a2806d7aa3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bb488408387209e1da8a2a2806d7aa3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/29/section/7) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
+[^c-3bb488408387209e1da8a2a2806d7aa3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/29/section/7) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)

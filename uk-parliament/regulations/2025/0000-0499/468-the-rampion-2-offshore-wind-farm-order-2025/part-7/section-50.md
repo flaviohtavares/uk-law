@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Protective provisions[^key-0beca65a693794a501eead2034bba265]
+## 50. Protective provisions[^c-0beca65a693794a501eead2034bba265]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 10 (Protection Provisions) has effect.
 
 ## Annotations
 
-[^key-0beca65a693794a501eead2034bba265]: Commencement: Art. 50 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-0beca65a693794a501eead2034bba265]: Commencement: Art. 50 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

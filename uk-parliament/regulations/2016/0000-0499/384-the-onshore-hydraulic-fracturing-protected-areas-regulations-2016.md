@@ -44,13 +44,13 @@ In accordance with section 4B(5) of that Act, a draft of these Regulations was l
 
 Accordingly, the Secretary of State, in exercise of the powers conferred by section 4B(4) of that Act, and section 28(2)(a) of the Small Business, Enterprise and Employment Act 2015[^f00002], makes the following Regulations.
 
-## 1. Citation, commencement and interpretation[^key-e9de40196cd84f15c4312f79141771f2]
+## 1. Citation, commencement and interpretation[^c-e9de40196cd84f15c4312f79141771f2]
 
 (1) These Regulations may be cited as the Onshore Hydraulic Fracturing (Protected Areas) Regulations 2016 and will come into force on the same day as section 4A(3) of the Act comes into force.
 
 (2) In these Regulations, “the Act” means the Petroleum Act 1998.
 
-## 2. Definition of “protected groundwater source areas”[^key-8e1dd1e1943690105ad7d4a555e8f471]
+## 2. Definition of “protected groundwater source areas”[^c-8e1dd1e1943690105ad7d4a555e8f471]
 
 (1) This regulation defines “protected groundwater source areas” for the purposes of section 4A of the Act.
 
@@ -61,9 +61,9 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - (a) within 50 metres of a point at the surface at which water is abstracted from underground strata and is used to supply water for domestic or food production purposes, or
 - (b) within or above a zone defined by a 50-day travel time for groundwater to reach a groundwater abstraction point that is used to supply water for domestic or food production purposes.
 
-(4) In this regulation, “groundwater” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2016[^key-5c4ec6adde8af43f87c1228238001a4d] (see regulation 2(1) of those Regulations).
+(4) In this regulation, “groundwater” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2016[^c-5c4ec6adde8af43f87c1228238001a4d] (see regulation 2(1) of those Regulations).
 
-## 3. Definition of “other protected areas”[^key-0feb7c4e92fe58ce734e71618337431e]
+## 3. Definition of “other protected areas”[^c-0feb7c4e92fe58ce734e71618337431e]
 
 (1) This regulation defines “other protected areas” for the purposes of section 4A of the Act.
 
@@ -81,7 +81,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “area of outstanding natural beauty” has the same meaning as in Part 4 of the Countryside and Rights of Way Act 2000[^f00006]; and
 - “World Heritage site” means a property appearing on the World Heritage List kept under article 11(2) of the UNESCO Convention for the Protection of the World Cultural and Natural Heritage adopted at Paris on 16th November 1972[^f00007].
 
-## 4. Review[^key-9b60791ff13ebe535ee7c215b230d5e7]
+## 4. Review[^c-9b60791ff13ebe535ee7c215b230d5e7]
 
 (1) The Secretary of State must from time to time—
 
@@ -131,13 +131,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-e9de40196cd84f15c4312f79141771f2]: Commencement: Reg. 1 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)
+[^c-e9de40196cd84f15c4312f79141771f2]: Commencement: Reg. 1 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)
 
-[^key-8e1dd1e1943690105ad7d4a555e8f471]: Commencement: Reg. 2 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)
+[^c-8e1dd1e1943690105ad7d4a555e8f471]: Commencement: Reg. 2 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)
 
-[^key-5c4ec6adde8af43f87c1228238001a4d]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2016/384/regulation/2/4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 111](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/111) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-5c4ec6adde8af43f87c1228238001a4d]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2016/384/regulation/2/4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 111](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/111) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-0feb7c4e92fe58ce734e71618337431e]: Commencement: Reg. 3 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)
+[^c-0feb7c4e92fe58ce734e71618337431e]: Commencement: Reg. 3 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)
 
 [^f00004]: Footnote: [1949 c.97](https://www.legislation.gov.uk/ukpga/1949/97); relevant amendments are made by Part 3 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -147,4 +147,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: See http://whc.unesco.org/en/list.
 
-[^key-9b60791ff13ebe535ee7c215b230d5e7]: Commencement: Reg. 4 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)
+[^c-9b60791ff13ebe535ee7c215b230d5e7]: Commencement: Reg. 4 coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/384/regulation/1)

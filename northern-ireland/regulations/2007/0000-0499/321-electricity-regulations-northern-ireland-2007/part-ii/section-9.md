@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Duty to connect[^key-95cb58fbae29620f4a8ba5e507cd58b4]
+## 9. Duty to connect[^c-95cb58fbae29620f4a8ba5e507cd58b4]
 
 *Extent: N.I.*
 
@@ -161,4 +161,4 @@ For Articles 19 to 26 there shall be substituted the following Articles—
 
 ## Annotations
 
-[^key-95cb58fbae29620f4a8ba5e507cd58b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/321/regulation/9) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-95cb58fbae29620f4a8ba5e507cd58b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/321/regulation/9) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)

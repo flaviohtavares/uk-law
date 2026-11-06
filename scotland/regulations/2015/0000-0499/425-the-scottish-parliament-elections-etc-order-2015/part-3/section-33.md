@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Appointment of sub-agent[^key-f345b3d4f61da20f8d476737500c8a7b]
+## 33. Appointment of sub-agent[^c-f345b3d4f61da20f8d476737500c8a7b]
 
 *Extent: S*
 
@@ -32,9 +32,9 @@ summary: ''
 - (b) any act or default of a sub-agent which, if the sub-agent were the election agent, would be an illegal practice or other offence against this Order shall be an illegal practice and offence against this Order committed by the sub-agent, and the sub-agent shall be liable to punishment accordingly; and
 - (c) the candidate or, as the case may be, each candidate on the registered party’s regional list shall suffer the like incapacity as if that act or default had been the election agent’s act or default.
 
-(5) Not later than the second day before the day of the poll the election agent shall declare in writing the name and address of every sub-agent to the appropriate returning officer, and the appropriate returning officer shall forthwith give public notice of the name and address of every sub-agent so declared , unless a request is made by the sub-agent under paragraph (5A)[^key-15425ce7e60c992577b5375f57d12a24].
+(5) Not later than the second day before the day of the poll the election agent shall declare in writing the name and address of every sub-agent to the appropriate returning officer, and the appropriate returning officer shall forthwith give public notice of the name and address of every sub-agent so declared , unless a request is made by the sub-agent under paragraph (5A)[^c-15425ce7e60c992577b5375f57d12a24].
 
-(5A)[^key-ebfdf9f0ebbacad08982c887ca4354ed] A declaration under article 33(5) may include a request by the sub-agent that any public notice of their address is to a correspondence address rather than their home address.
+(5A)[^c-ebfdf9f0ebbacad08982c887ca4354ed] A declaration under article 33(5) may include a request by the sub-agent that any public notice of their address is to a correspondence address rather than their home address.
 
 (5B) A request under paragraph (5A) must be granted by the returning officer where an alternative correspondence address has been provided.
 
@@ -49,8 +49,8 @@ and in the event of the revocation of the appointment or of the death of a sub-a
 
 ## Annotations
 
-[^key-f345b3d4f61da20f8d476737500c8a7b]: Commencement: Art. 33 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f345b3d4f61da20f8d476737500c8a7b]: Commencement: Art. 33 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-15425ce7e60c992577b5375f57d12a24]: Textual amendment: Words in art. 33(5) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(3)(a)](https://www.legislation.gov.uk/asp/2025/4/section/37/3/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-15425ce7e60c992577b5375f57d12a24]: Textual amendment: Words in art. 33(5) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(3)(a)](https://www.legislation.gov.uk/asp/2025/4/section/37/3/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
-[^key-ebfdf9f0ebbacad08982c887ca4354ed]: Textual amendment: Art. 33(5A)(5B) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(3)(b)](https://www.legislation.gov.uk/asp/2025/4/section/37/3/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-ebfdf9f0ebbacad08982c887ca4354ed]: Textual amendment: Art. 33(5A)(5B) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(3)(b)](https://www.legislation.gov.uk/asp/2025/4/section/37/3/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

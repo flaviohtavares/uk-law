@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Removal of trustee where trustee is unable to act or should no longer continue to act: general[^key-618997a89507f484104c6d342cfc6ccf]
+## 72. Removal of trustee where trustee is unable to act or should no longer continue to act: general[^c-618997a89507f484104c6d342cfc6ccf]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-618997a89507f484104c6d342cfc6ccf]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/21/section/72) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-618997a89507f484104c6d342cfc6ccf]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/21/section/72) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

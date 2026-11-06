@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Standards that are specifically applicable[^key-a154be498cceb3a90059aaea34569702]
+## 39. Standards that are specifically applicable[^c-a154be498cceb3a90059aaea34569702]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a154be498cceb3a90059aaea34569702]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2011/1/section/39) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-a154be498cceb3a90059aaea34569702]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2011/1/section/39) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

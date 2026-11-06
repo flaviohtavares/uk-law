@@ -46,11 +46,11 @@ summary: ''
 - (k) section 83 (corporate joint committees: supplementary etc.);
 - (l) section 84(2)(amendment of enactments for purposes etc. of Part 5);
 - (m) section 94 (panel performance assessments: supplementary regulations);
-- (ma)[^key-9800e9537d39e56e91a3bf7607892b5b] section 94 as applied to corporate joint committees by section 115A and Schedule 10A;
+- (ma)[^c-9800e9537d39e56e91a3bf7607892b5b] section 94 as applied to corporate joint committees by section 115A and Schedule 10A;
 - (n) section 107(3) (disapplication etc. of enactments in relation to principal council functions exercisable by the Welsh Ministers etc.);
-- (na)[^key-59c8ace71a7801c510412cea577fb6bf] section 107(3) as applied to corporate joint committees by section 115A and Schedule 10A;
+- (na)[^c-59c8ace71a7801c510412cea577fb6bf] section 107(3) as applied to corporate joint committees by section 115A and Schedule 10A;
 - (o) section 110(1) or (2) (amendment etc. of enactments and conferral of new powers in relation to performance and governance of principal councils);
-- (oa)[^key-f70df69627bd7f12a1e82dffa5b48d45] section 110(1) or (2) as applied to corporate joint committees by section 115A and Schedule 10A;
+- (oa)[^c-f70df69627bd7f12a1e82dffa5b48d45] section 110(1) or (2) as applied to corporate joint committees by section 115A and Schedule 10A;
 - (p) section 124 (merger regulations);
 - (q) section 131 (restructuring regulations; but see section 148 for further provision about the procedure relating to a statutory instrument containing restructuring regulations);
 - (r) section 147 (further provision relating to merger regulations and restructuring regulations);
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9800e9537d39e56e91a3bf7607892b5b]: Textual amendment: [S. 174(5)(ma)](https://www.legislation.gov.uk/asc/2021/1/section/174/5/ma) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [24(a)](https://www.legislation.gov.uk/wsi/2022/797/regulation/24/a)
+[^c-9800e9537d39e56e91a3bf7607892b5b]: Textual amendment: [S. 174(5)(ma)](https://www.legislation.gov.uk/asc/2021/1/section/174/5/ma) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [24(a)](https://www.legislation.gov.uk/wsi/2022/797/regulation/24/a)
 
-[^key-59c8ace71a7801c510412cea577fb6bf]: Textual amendment: [S. 174(5)(na)](https://www.legislation.gov.uk/asc/2021/1/section/174/5/na) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [24(b)](https://www.legislation.gov.uk/wsi/2022/797/regulation/24/b)
+[^c-59c8ace71a7801c510412cea577fb6bf]: Textual amendment: [S. 174(5)(na)](https://www.legislation.gov.uk/asc/2021/1/section/174/5/na) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [24(b)](https://www.legislation.gov.uk/wsi/2022/797/regulation/24/b)
 
-[^key-f70df69627bd7f12a1e82dffa5b48d45]: Textual amendment: [S. 174(5)(oa)](https://www.legislation.gov.uk/asc/2021/1/section/174/5/oa) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [24(c)](https://www.legislation.gov.uk/wsi/2022/797/regulation/24/c)
+[^c-f70df69627bd7f12a1e82dffa5b48d45]: Textual amendment: [S. 174(5)(oa)](https://www.legislation.gov.uk/asc/2021/1/section/174/5/oa) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [24(c)](https://www.legislation.gov.uk/wsi/2022/797/regulation/24/c)

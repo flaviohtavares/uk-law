@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217QA. Election for concert series[^key-ae72997d7de0e438453f66dfd6fd5589]
+## 1217QA. Election for concert series[^c-ae72997d7de0e438453f66dfd6fd5589]
 
 *Extent: E+W+S+N.I.*
 
-(1) An election under section 1217Q(4) must be made by the company by notice in writing to an officer of Her Majesty's Revenue and Customs—[^key-dfccb0d07789c33c4c2ac8852c44a6a8]
+(1) An election under section 1217Q(4) must be made by the company by notice in writing to an officer of Her Majesty's Revenue and Customs—[^c-dfccb0d07789c33c4c2ac8852c44a6a8]
 
 - (a) before the date on which the company first delivers a company tax return for a period in relation to which a concert in the series falls to be treated in accordance with section 1217Q, or
 - (b) if later, before the date of the first concert in the series.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
+[^c-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
 
-[^key-dfccb0d07789c33c4c2ac8852c44a6a8]: Textual amendment: [S. 1217QA(1)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217QA/1/a)[(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217QA/1/b) inserted (with effect in accordance with Sch. 4 para. 2(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/2/1)
+[^c-dfccb0d07789c33c4c2ac8852c44a6a8]: Textual amendment: [S. 1217QA(1)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217QA/1/a)[(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217QA/1/b) inserted (with effect in accordance with Sch. 4 para. 2(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/2/1)

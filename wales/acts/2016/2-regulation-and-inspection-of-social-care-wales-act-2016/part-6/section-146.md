@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Reviews of interim orders: timing[^key-6a535c945d738253120eee6dae0e270e]
+## 146. Reviews of interim orders: timing[^c-6a535c945d738253120eee6dae0e270e]
 
 *Extent: E+W*
 
@@ -47,12 +47,12 @@ summary: ''
 
 (9) In subsections (7) and (8) a reference to an interim order includes a reference to—
 
-- (a) an interim order as extended or further extended [^key-6f9d5f5ce05dd434f0d09db15debe80c]...,
+- (a) an interim order as extended or further extended [^c-6f9d5f5ce05dd434f0d09db15debe80c]...,
 - (b) an interim order as varied on a review (see section 147(1)(b)), and
 - (c) a replacement interim conditional registration order or interim suspension order made on a review.
 
 ## Annotations
 
-[^key-6a535c945d738253120eee6dae0e270e]: Commencement: [S. 146](https://www.legislation.gov.uk/anaw/2016/2/section/146) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-6a535c945d738253120eee6dae0e270e]: Commencement: [S. 146](https://www.legislation.gov.uk/anaw/2016/2/section/146) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-6f9d5f5ce05dd434f0d09db15debe80c]: Textual amendment: Words in s. 146(9)(a) omitted (1.4.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(10)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/10); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)
+[^c-6f9d5f5ce05dd434f0d09db15debe80c]: Textual amendment: Words in s. 146(9)(a) omitted (1.4.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(10)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/10); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)

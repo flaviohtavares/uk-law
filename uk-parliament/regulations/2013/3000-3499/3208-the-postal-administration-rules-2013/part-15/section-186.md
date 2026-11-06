@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Application of this Chapter[^key-c7e294a9ad5a63e5e780dc4bb8a116f2]
+## 186. Application of this Chapter[^c-c7e294a9ad5a63e5e780dc4bb8a116f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies where under the 1986 Act or the Rules information is to be 
 
 ## Annotations
 
-[^key-c7e294a9ad5a63e5e780dc4bb8a116f2]: Commencement: [Rule 186](https://www.legislation.gov.uk/uksi/2013/3208/rule/186) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-c7e294a9ad5a63e5e780dc4bb8a116f2]: Commencement: [Rule 186](https://www.legislation.gov.uk/uksi/2013/3208/rule/186) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

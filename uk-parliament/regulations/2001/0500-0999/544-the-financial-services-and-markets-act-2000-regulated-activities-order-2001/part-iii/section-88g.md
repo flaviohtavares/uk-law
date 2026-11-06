@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88G. Qualifying stablecoin[^key-cf26d2291f0bc8bb44b52bab96c5524a]
+## 88G. Qualifying stablecoin[^c-cf26d2291f0bc8bb44b52bab96c5524a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf26d2291f0bc8bb44b52bab96c5524a]: Textual amendment: [Arts. 88F](https://www.legislation.gov.uk/uksi/2001/544/article/88F), [88G](https://www.legislation.gov.uk/uksi/2001/544/article/88G) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(11)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/11) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-cf26d2291f0bc8bb44b52bab96c5524a]: Textual amendment: [Arts. 88F](https://www.legislation.gov.uk/uksi/2001/544/article/88F), [88G](https://www.legislation.gov.uk/uksi/2001/544/article/88G) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(11)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/11) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

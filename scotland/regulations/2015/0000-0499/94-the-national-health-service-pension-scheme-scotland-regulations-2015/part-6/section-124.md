@@ -23,7 +23,7 @@ summary: ''
 (1) This regulation determines the annual amount of pension payable under regulation 120 if, at the date of death, the deceased—
 
 - (a) was a deferred member of this scheme; and
-- (b) was not also [^key-558cdd8bb1cd968f2b0ce3055239676a]...a pensioner member.
+- (b) was not also [^c-558cdd8bb1cd968f2b0ce3055239676a]...a pensioner member.
 
 (2) The amount is the appropriate fraction of—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-558cdd8bb1cd968f2b0ce3055239676a]: Textual amendment: Words in [reg. 124(1)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/124/1/b) omitted (13.3.2017) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2017/28/regulation/18)
+[^c-558cdd8bb1cd968f2b0ce3055239676a]: Textual amendment: Words in [reg. 124(1)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/124/1/b) omitted (13.3.2017) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2017/28/regulation/18)

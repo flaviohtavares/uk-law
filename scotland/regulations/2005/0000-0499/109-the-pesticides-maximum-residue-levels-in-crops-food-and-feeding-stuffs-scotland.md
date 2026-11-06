@@ -57,7 +57,7 @@ These Regulations may be cited as the Pesticides (Maximum Residue Levels in Crop
 
 (3) For Schedule 5[^f00004], substitute the Schedule set out in Schedule 2 to these Regulations.
 
-## 2. Revocations[^key-ccc1894f88a4ddd58bc1eacd35afbad8]
+## 2. Revocations[^c-ccc1894f88a4ddd58bc1eacd35afbad8]
 
 Regulation 2(5) of, and Schedule 2 to, the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Amendment (No. 3) Regulations 2004[^f00005] are hereby revoked.
 
@@ -69,7 +69,7 @@ St Andrew’s House, Edinburgh
 
 1st March 2005
 
-## SCHEDULE 1[^key-0164fb80b5c871bbfdebc2cfaf9984c6]
+## SCHEDULE 1[^c-0164fb80b5c871bbfdebc2cfaf9984c6]
 
 Regulation 2(2)
 
@@ -292,7 +292,7 @@ Regulation 2(2)
 
 [^f01007][^f01007][^f01000][^f01001][^f01002][^f01008][^f01006][^f01003][^f01004][^f01005]
 
-## SCHEDULE 2[^key-809782f89d5e05fdb20fa088872754e2]
+## SCHEDULE 2[^c-809782f89d5e05fdb20fa088872754e2]
 
 Regulation 2(3)
 
@@ -430,11 +430,11 @@ No Regulatory Impact Assessment has been produced in relation to these Regulatio
 
 [^f00004]: Footnote: Schedule 5 was inserted by [S.S.I. 2002/271](https://www.legislation.gov.uk/ssi/2002/271) and last substituted by [S.S.I. 2004/399](https://www.legislation.gov.uk/ssi/2004/399).
 
-[^key-ccc1894f88a4ddd58bc1eacd35afbad8]: Commencement: Reg. 2 in force at 25.3.2005
+[^c-ccc1894f88a4ddd58bc1eacd35afbad8]: Commencement: Reg. 2 in force at 25.3.2005
 
 [^f00005]: Footnote: [S.S.I. 2004/399](https://www.legislation.gov.uk/ssi/2004/399).
 
-[^key-0164fb80b5c871bbfdebc2cfaf9984c6]: Commencement: Sch. 1 in force at 25.3.2005
+[^c-0164fb80b5c871bbfdebc2cfaf9984c6]: Commencement: Sch. 1 in force at 25.3.2005
 
 [^f01007]: Footnote: (35)
 
@@ -478,7 +478,7 @@ No Regulatory Impact Assessment has been produced in relation to these Regulatio
 
     Birds' eggs in shell (other than eggs for hatching) and whole egg products and egg yolk products (whether fresh, dried or otherwise prepared).
 
-[^key-809782f89d5e05fdb20fa088872754e2]: Commencement: Sch. 2 in force at 25.3.2005
+[^c-809782f89d5e05fdb20fa088872754e2]: Commencement: Sch. 2 in force at 25.3.2005
 
 [^f00006]: Footnote: O.J. No. L 221, 7.8.86, p.37.
 

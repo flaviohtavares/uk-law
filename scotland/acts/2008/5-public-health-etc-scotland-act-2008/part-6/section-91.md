@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Duty of health board where infected etc. person dies[^key-5a9f6449fa01d7427c75b94afe37fdee]
+## 91. Duty of health board where infected etc. person dies[^c-5a9f6449fa01d7427c75b94afe37fdee]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a9f6449fa01d7427c75b94afe37fdee]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2008/5/section/91) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-5a9f6449fa01d7427c75b94afe37fdee]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2008/5/section/91) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

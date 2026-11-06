@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C3. Leave of absence from duty[^key-bb49ed10d1c2bb845be3c876785064a0]
+## C3. Leave of absence from duty[^c-bb49ed10d1c2bb845be3c876785064a0]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ and such attendance continues after the expiration of the period of 30 days ment
 
 ## Annotations
 
-[^key-bb49ed10d1c2bb845be3c876785064a0]: Commencement: [Reg. C3](https://www.legislation.gov.uk/uksi/1986/24/regulation/C3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-bb49ed10d1c2bb845be3c876785064a0]: Commencement: [Reg. C3](https://www.legislation.gov.uk/uksi/1986/24/regulation/C3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00029]: Footnote: [1974 c.23](https://www.legislation.gov.uk/ukpga/1974/23).
 

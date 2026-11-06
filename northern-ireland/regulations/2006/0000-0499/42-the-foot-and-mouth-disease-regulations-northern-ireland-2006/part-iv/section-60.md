@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Enforcement, offences and proceedings[^key-1a46363f4f8cd9d1f193abd852e98f5f]
+## 60. Enforcement, offences and proceedings[^c-1a46363f4f8cd9d1f193abd852e98f5f]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ The following provisions of the Order shall apply as if these Regulations were a
 
 ## Annotations
 
-[^key-1a46363f4f8cd9d1f193abd852e98f5f]: Commencement: Reg. 60 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-1a46363f4f8cd9d1f193abd852e98f5f]: Commencement: Reg. 60 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00020]: Footnote: [S.R. 1989 No. 5](https://www.legislation.gov.uk/nisr/1989/5)

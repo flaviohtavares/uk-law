@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Credit ceiling not increased by use of amount set aside to meet certain expenditure[^key-02c412920356048674de0dc2c9f3773c]
+## 119. Credit ceiling not increased by use of amount set aside to meet certain expenditure[^c-02c412920356048674de0dc2c9f3773c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02c412920356048674de0dc2c9f3773c]: Commencement: Reg. 119 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-02c412920356048674de0dc2c9f3773c]: Commencement: Reg. 119 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

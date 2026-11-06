@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Keeping of register by the Office of Rail and Road.[^key-3cb232d016a158577d2419c1fc121954][^key-667f6cb8a61dd436caff747780b3fc9e]
+## 72. Keeping of register by the Office of Rail and Road.[^c-3cb232d016a158577d2419c1fc121954][^c-667f6cb8a61dd436caff747780b3fc9e]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Subject to subsection (3) and to any direction given under subsection (4) below, the Office of Rail and Road shall cause to be entered in the register—
 
-- (a)[^c18941231] in relation to licences and[^c18940391] railway undertaking[^key-0bc99c514be93c45c792dd60ca6d31c0] licences, the provisions of—
+- (a)[^c18941231] in relation to licences and[^c18940391] railway undertaking[^c-0bc99c514be93c45c792dd60ca6d31c0] licences, the provisions of—
   - (i)[^c18941481] every licence, every licence exemption and every[^c18940461] railway undertaking licence;
   - (ii) every assignment of a licence of which notice is received by the Office of Rail and Road;
   - (iii) every modification or revocation of a licence , every[^c18940521] requirement to modify conditions of a licence imposed on[^c14107691] the Office of Rail and Road by the Authority, and every modification or revocation of a[^c18940711] railway undertaking licence;
@@ -44,7 +44,7 @@ summary: ''
   - (iv) every amendment (however described) of an access agreement;
   - (v) every general approval given under section 18(1)(c), 19(3)(c) or[^c14107741] 22(3) above which is for the time being in force;
   - (va)[^c14107751] every direction under section 22A above;
-  - (vb) every notice given by or to the Office of Rail and Road or the CMA[^key-4ec47dbca23a96cab43eebcb94c44b0c] under Schedule 4A to this Act;
+  - (vb) every notice given by or to the Office of Rail and Road or the CMA[^c-4ec47dbca23a96cab43eebcb94c44b0c] under Schedule 4A to this Act;
   - (vi) every document issued or made by the Office of Rail and Road under an access agreement;
 - (c)[^c14107761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in relation to experimental passenger services, within the meaning of Part 4 of the Railways Act 2005[^c18942881], the provisions of—
@@ -75,9 +75,9 @@ summary: ''
 
 ## Annotations
 
-[^key-3cb232d016a158577d2419c1fc121954]: Modification: S. 72 modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/700/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cb232d016a158577d2419c1fc121954]: Modification: S. 72 modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/700/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-667f6cb8a61dd436caff747780b3fc9e]: Textual amendment: Words in s. 72 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ss)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ss)
+[^c-667f6cb8a61dd436caff747780b3fc9e]: Textual amendment: Words in s. 72 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ss)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ss)
 
 [^c18941191]: Modification: S. 72(1) applied (with modifications) (28.11.2005) by The Railway (Licensing of Railway Undertakings) Regulations 2005 (2005/3050), reg. 14, {Sch. 3 para. 1(e)}
 
@@ -89,7 +89,7 @@ summary: ''
 
 [^c18940391]: Textual amendment: Words in s. 72(2)(a) inserted (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 3](https://www.legislation.gov.uk/uksi/2005/3050/regulation/3), [Sch. 1 para. 3(6)(a)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/1/paragraph/3/6/a)
 
-[^key-0bc99c514be93c45c792dd60ca6d31c0]: Textual amendment: Words in [s. 72(2)(a)](https://www.legislation.gov.uk/ukpga/1993/43/section/72/2/a) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2019/700/regulation/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bc99c514be93c45c792dd60ca6d31c0]: Textual amendment: Words in [s. 72(2)(a)](https://www.legislation.gov.uk/ukpga/1993/43/section/72/2/a) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2019/700/regulation/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18941481]: Modification: S. 72(2)(a)(i) modified (28.11.2005) by The Railway (Licensing of Railway Undertakings) Regulations 2005 (2005/3050), reg. 14, {Sch. 3 para. 7}
 
@@ -117,7 +117,7 @@ summary: ''
 
 [^c14107751]: Textual amendment: S. 72(2)(b)(va)(vb) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 36(3)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/36/3); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-4ec47dbca23a96cab43eebcb94c44b0c]: Textual amendment: Word in s. 72(2)(b)(vb) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 108](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/108) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-4ec47dbca23a96cab43eebcb94c44b0c]: Textual amendment: Word in s. 72(2)(b)(vb) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 108](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/108) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
 [^c14107761]: Textual amendment: S. 72(2)(c) repealed (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 216](https://www.legislation.gov.uk/ukpga/2000/38/section/216), [274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 17 para. 27(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/17/paragraph/27/2), [Sch. 31 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/IV) (with [Sch. 28 para. 14](https://www.legislation.gov.uk/ukpga/2000/38/schedule/28/paragraph/14)); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

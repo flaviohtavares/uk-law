@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Test date discs[^key-0f4264eb49c5411388fbff9286ac386b]
+## 73. Test date discs[^c-0f4264eb49c5411388fbff9286ac386b]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f4264eb49c5411388fbff9286ac386b]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1986/1078/regulation/73) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-0f4264eb49c5411388fbff9286ac386b]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1986/1078/regulation/73) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

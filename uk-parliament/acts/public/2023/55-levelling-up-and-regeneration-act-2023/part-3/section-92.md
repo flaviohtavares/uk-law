@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Development plans: content[^key-e852555d826a0c11d2a1ae82d5c301bc][^key-bef611a5aba13f87461041f545c5b786]
+## 92. Development plans: content[^c-e852555d826a0c11d2a1ae82d5c301bc][^c-bef611a5aba13f87461041f545c5b786]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e852555d826a0c11d2a1ae82d5c301bc]: Commencement: S. 92 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-e852555d826a0c11d2a1ae82d5c301bc]: Commencement: S. 92 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-bef611a5aba13f87461041f545c5b786]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/55/section/92) in force at 25.3.2026 by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/a) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-bef611a5aba13f87461041f545c5b786]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/55/section/92) in force at 25.3.2026 by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/a) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Determining applications together[^key-efc9d743d26fcdd693dd380ff0312dcb]
+## 13. Determining applications together[^c-efc9d743d26fcdd693dd380ff0312dcb]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ are determined together.
 
 ## Annotations
 
-[^key-efc9d743d26fcdd693dd380ff0312dcb]: Commencement: Reg. 13 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-efc9d743d26fcdd693dd380ff0312dcb]: Commencement: Reg. 13 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35A. Advice and assistance[^key-091cd39070703aceea7078237b580fc4]
+## 35A. Advice and assistance[^c-091cd39070703aceea7078237b580fc4]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-091cd39070703aceea7078237b580fc4]: Modification: [Art. 35A](https://www.legislation.gov.uk/nisi/1995/755/article/35A) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
+[^c-091cd39070703aceea7078237b580fc4]: Modification: [Art. 35A](https://www.legislation.gov.uk/nisi/1995/755/article/35A) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)

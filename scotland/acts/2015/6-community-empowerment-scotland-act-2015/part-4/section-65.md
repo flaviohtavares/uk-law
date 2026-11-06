@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Criteria for consent by Ministers[^key-f7b270ff35fb33d2c872db7104d9423a]
+## 65. Criteria for consent by Ministers[^c-f7b270ff35fb33d2c872db7104d9423a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 74 of the 2003 Act (criteria for consent by Ministers), in subsection
 
 ## Annotations
 
-[^key-f7b270ff35fb33d2c872db7104d9423a]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2015/6/section/65) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-f7b270ff35fb33d2c872db7104d9423a]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2015/6/section/65) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

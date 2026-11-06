@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health[^f00001] makes the following Regulations in exercise of the powers conferred by sections 2(2), 8(5), 12(7) and 24(3) of the Tobacco Retailers Act (Northern Ireland) 2014[^f00002].
 
-## 1. Citation and Commencement[^key-51dc66e5ed21ebbd43f5dcabfd5cb8b7]
+## 1. Citation and Commencement[^c-51dc66e5ed21ebbd43f5dcabfd5cb8b7]
 
 (1) These Regulations may be cited as The Tobacco Retailer (Miscellaneous Amendments) Regulations (Northern Ireland) 2026.
 
@@ -50,7 +50,7 @@ The Department of Health[^f00001] makes the following Regulations in exercise of
 
 (3) Regulation 3(2)(b) comes into operation on 1<sup>st</sup> January 2027.
 
-## 2. Amendment of the Tobacco Retailer (Registration and Display of Notices) Regulations (Northern Ireland) 2016[^key-d6a379ba299828d588e4ff544d67734f]
+## 2. Amendment of the Tobacco Retailer (Registration and Display of Notices) Regulations (Northern Ireland) 2016[^c-d6a379ba299828d588e4ff544d67734f]
 
 (1) The Tobacco Retailer (Registration and Display of Notices) Regulations (Northern Ireland) 2016[^f00003] are amended as follows.
 
@@ -68,17 +68,17 @@ The Department of Health[^f00001] makes the following Regulations in exercise of
 - (a) in the heading of the notice, omit “Tobacco”;
 - (b) in paragraph 2 of the notice, for “Tobacco” substitute “tobacco products, herbal smoking products, vaping products, nicotine products”.
 
-## 3. Amendment of the Tobacco Retailer (Fixed Penalty) (General) Regulations (Northern Ireland) 2016[^key-4f4ab52b8babbc7a348cee7b42f7a73a][^key-05d19edf85e7991f28b964d3af7a7d87]
+## 3. Amendment of the Tobacco Retailer (Fixed Penalty) (General) Regulations (Northern Ireland) 2016[^c-4f4ab52b8babbc7a348cee7b42f7a73a][^c-05d19edf85e7991f28b964d3af7a7d87]
 
-(1)[^key-4f4ab52b8babbc7a348cee7b42f7a73a] The Tobacco Retailer (Fixed Penalty) (General) Regulations (Northern Ireland) 2016[^f00004] are amended as follows.
+(1)[^c-4f4ab52b8babbc7a348cee7b42f7a73a] The Tobacco Retailer (Fixed Penalty) (General) Regulations (Northern Ireland) 2016[^f00004] are amended as follows.
 
 (2) In the Schedule (fixed penalty notice)—
 
-- (a)[^key-4f4ab52b8babbc7a348cee7b42f7a73a] in Parts 1 and 2, omit “/the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016”;
+- (a)[^c-4f4ab52b8babbc7a348cee7b42f7a73a] in Parts 1 and 2, omit “/the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016”;
 - (b) in Parts 1 and 2, omit “/Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991”.
-- (c)[^key-4f4ab52b8babbc7a348cee7b42f7a73a] in Part 3, in paragraph 5, after “cheque,”, insert “online or electronic payment,”.
+- (c)[^c-4f4ab52b8babbc7a348cee7b42f7a73a] in Part 3, in paragraph 5, after “cheque,”, insert “online or electronic payment,”.
 
-## 4. Revocation[^key-3d9fdb118dc2f51138907fb551839acc]
+## 4. Revocation[^c-3d9fdb118dc2f51138907fb551839acc]
 
 The Tobacco Retailer (Fixed Penalty) (General) (Amendment) Regulations (Northern Ireland) 2021[^f00005] are revoked.
 
@@ -106,18 +106,18 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [2014 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2014/4)
 
-[^key-51dc66e5ed21ebbd43f5dcabfd5cb8b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/156/regulation/1) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
+[^c-51dc66e5ed21ebbd43f5dcabfd5cb8b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/156/regulation/1) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
 
-[^key-d6a379ba299828d588e4ff544d67734f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/156/regulation/2) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
+[^c-d6a379ba299828d588e4ff544d67734f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/156/regulation/2) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2016 No. 97](https://www.legislation.gov.uk/nisr/2016/97)
 
-[^key-4f4ab52b8babbc7a348cee7b42f7a73a]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2026/156/regulation/3/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2026/156/regulation/3/2/a)[(c)](https://www.legislation.gov.uk/nisr/2026/156/regulation/3/2/c) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
+[^c-4f4ab52b8babbc7a348cee7b42f7a73a]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2026/156/regulation/3/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2026/156/regulation/3/2/a)[(c)](https://www.legislation.gov.uk/nisr/2026/156/regulation/3/2/c) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
 
-[^key-05d19edf85e7991f28b964d3af7a7d87]: Commencement: Reg. 3(2)(b) in operation at 1.1.2027, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/3)
+[^c-05d19edf85e7991f28b964d3af7a7d87]: Commencement: Reg. 3(2)(b) in operation at 1.1.2027, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/3)
 
 [^f00004]: Footnote: [S.R. 2016 No. 98](https://www.legislation.gov.uk/nisr/2016/98), amended by [S.R. 2021 No. 326](https://www.legislation.gov.uk/nisr/2021/326)
 
-[^key-3d9fdb118dc2f51138907fb551839acc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/156/regulation/4) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
+[^c-3d9fdb118dc2f51138907fb551839acc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/156/regulation/4) in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2021 No. 326](https://www.legislation.gov.uk/nisr/2021/326)

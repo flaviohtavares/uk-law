@@ -26,10 +26,10 @@ summary: ''
 
 (3) A local authority shall be entitled to deduct from the compensation payable on the compulsory purchase of the site of a building under this section the amount of the expenses referred to in subsection (1) so far as not otherwise recovered.
 
-(4)[^key-abed79f6fec80197d87d317d78b35609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-abed79f6fec80197d87d317d78b35609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c12776391]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-abed79f6fec80197d87d317d78b35609]: Textual amendment: [S. 124(4)](https://www.legislation.gov.uk/ukpga/1987/26/section/124/4) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-abed79f6fec80197d87d317d78b35609]: Textual amendment: [S. 124(4)](https://www.legislation.gov.uk/ukpga/1987/26/section/124/4) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -22,17 +22,17 @@ summary: ''
 
 (1) Schedule 13 contains amendments to abolish contracting-out for salary related schemes.
 
-(2)[^key-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-14e409f283532d65ee3f0212396ab1b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Subsections (2) to (7) and Schedule 14 are repealed at the end of the period of 5 years beginning with 6 April 2016.
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c22902261]: Commencement: S. 24 in operation at 6.4.2016 so far as not brought into operation earlier by an order, see [s. 53(1)(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/1/3)
 
-[^key-14e409f283532d65ee3f0212396ab1b2]: Textual amendment: [S. 24(2)-(7)](https://www.legislation.gov.uk/nia/2015/5/section/24/2) repealed (6.4.2021) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 24(8)](https://www.legislation.gov.uk/nia/2015/5/section/24/8), [53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/a)
+[^c-14e409f283532d65ee3f0212396ab1b2]: Textual amendment: [S. 24(2)-(7)](https://www.legislation.gov.uk/nia/2015/5/section/24/2) repealed (6.4.2021) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 24(8)](https://www.legislation.gov.uk/nia/2015/5/section/24/8), [53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/a)

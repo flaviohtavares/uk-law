@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Determining levy rate for flavour concentrates[^key-677fe28ee230b1d7f5d60d352e35859a]
+## 36A. Determining levy rate for flavour concentrates[^c-677fe28ee230b1d7f5d60d352e35859a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ where N is the number of flavour concentrates that are designed to be combined.
 
 ## Annotations
 
-[^key-677fe28ee230b1d7f5d60d352e35859a]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/2017/10/section/36A) inserted (in relation to soft drinks that are packaged in, or imported into, the United Kingdom on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 21 paras. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/21/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/21/paragraph/8)
+[^c-677fe28ee230b1d7f5d60d352e35859a]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/2017/10/section/36A) inserted (in relation to soft drinks that are packaged in, or imported into, the United Kingdom on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 21 paras. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/21/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/21/paragraph/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of the Immigration (Procedure for Marriage) Regulations 2011[^key-f440d980b768928d22a0f6efbd50154b]
+## 36. Amendment of the Immigration (Procedure for Marriage) Regulations 2011[^c-f440d980b768928d22a0f6efbd50154b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f440d980b768928d22a0f6efbd50154b]: Commencement: Reg. 36 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-f440d980b768928d22a0f6efbd50154b]: Commencement: Reg. 36 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398941]: Marginal citation: [S.I. 2011/2678](https://www.legislation.gov.uk/uksi/2011/2678), there are amending instruments, but none are relevant.

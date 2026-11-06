@@ -32,7 +32,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy Act 2006 (Directions to OFCOM) Order 2010 (revoked)[^key-ef163070693fe7bb9b46d31565abef08]
+The Wireless Telegraphy Act 2006 (Directions to OFCOM) Order 2010 (revoked)[^c-ef163070693fe7bb9b46d31565abef08]
 
 Made
 
@@ -40,57 +40,57 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-ef163070693fe7bb9b46d31565abef08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef163070693fe7bb9b46d31565abef08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ef163070693fe7bb9b46d31565abef08]
+## 1. Citation and commencement[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Purpose of Directions[^key-ef163070693fe7bb9b46d31565abef08]
+## 2. Purpose of Directions[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-ef163070693fe7bb9b46d31565abef08]
+## 3. Interpretation[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Variation of 900MHz and 1800MHz licences to allow use for GSM and UMTS systems[^key-ef163070693fe7bb9b46d31565abef08]
+## 4. Variation of 900MHz and 1800MHz licences to allow use for GSM and UMTS systems[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Other variations to existing wireless telegraphy licences[^key-ef163070693fe7bb9b46d31565abef08]
+## 5. Other variations to existing wireless telegraphy licences[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Licence fees[^key-ef163070693fe7bb9b46d31565abef08]
+## 6. Licence fees[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Spectrum trading[^key-ef163070693fe7bb9b46d31565abef08]
+## 7. Spectrum trading[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Competition assessment[^key-ef163070693fe7bb9b46d31565abef08]
+## 8. Competition assessment[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Auction of licences[^key-ef163070693fe7bb9b46d31565abef08]
+## 9. Auction of licences[^c-ef163070693fe7bb9b46d31565abef08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef163070693fe7bb9b46d31565abef08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef163070693fe7bb9b46d31565abef08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-ef163070693fe7bb9b46d31565abef08]
+## SCHEDULE 1[^c-ef163070693fe7bb9b46d31565abef08]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-ef163070693fe7bb9b46d31565abef08]
+## SCHEDULE 2[^c-ef163070693fe7bb9b46d31565abef08]
 
 Article 3
 
@@ -98,8 +98,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef163070693fe7bb9b46d31565abef08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef163070693fe7bb9b46d31565abef08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef163070693fe7bb9b46d31565abef08]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/3024) revoked (16.7.2026) by [The Wireless Telegraphy Act 2006 (Directions to OFCOM) (Revocation) Order 2026 (S.I. 2026/838)](https://www.legislation.gov.uk/uksi/2026/838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/838/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/838/article/2)
+[^c-ef163070693fe7bb9b46d31565abef08]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/3024) revoked (16.7.2026) by [The Wireless Telegraphy Act 2006 (Directions to OFCOM) (Revocation) Order 2026 (S.I. 2026/838)](https://www.legislation.gov.uk/uksi/2026/838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/838/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/838/article/2)

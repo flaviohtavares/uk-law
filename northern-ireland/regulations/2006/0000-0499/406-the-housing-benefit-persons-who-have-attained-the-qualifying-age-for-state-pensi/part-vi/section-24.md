@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Claimant in receipt of guarantee credit[^key-de71f80b54ddacdc28af25211677b374]
+## 24. Claimant in receipt of guarantee credit[^c-de71f80b54ddacdc28af25211677b374]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In the case of a claimant who is in receipt, or whose partner is in receipt, of 
 
 ## Annotations
 
-[^key-de71f80b54ddacdc28af25211677b374]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/406/regulation/24) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-de71f80b54ddacdc28af25211677b374]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/406/regulation/24) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

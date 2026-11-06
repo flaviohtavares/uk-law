@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. General duties[^key-7b9c8c523fbac31a9964b54999a08d72]
+## 233. General duties[^c-7b9c8c523fbac31a9964b54999a08d72]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b9c8c523fbac31a9964b54999a08d72]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2012/7/section/233) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7b9c8c523fbac31a9964b54999a08d72]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2012/7/section/233) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

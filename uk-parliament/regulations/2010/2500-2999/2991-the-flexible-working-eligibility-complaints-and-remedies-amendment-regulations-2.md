@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) Regulations 2010 (revoked)[^key-403161e8be547493bb414284fb382d38]
+The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) Regulations 2010 (revoked)[^c-403161e8be547493bb414284fb382d38]
 
 Made
 
@@ -46,15 +46,15 @@ Coming into force
 
 6th April 2011
 
-[^key-403161e8be547493bb414284fb382d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-403161e8be547493bb414284fb382d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and Commencement[^key-403161e8be547493bb414284fb382d38]
+## 1. Citation and Commencement[^c-403161e8be547493bb414284fb382d38]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Flexible Working (Eligibility, Complaints and Remedies) Regulations 2002[^key-403161e8be547493bb414284fb382d38]
+## 2. Amendment to the Flexible Working (Eligibility, Complaints and Remedies) Regulations 2002[^c-403161e8be547493bb414284fb382d38]
 
 **Not yet in force.**
 
@@ -62,12 +62,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-403161e8be547493bb414284fb382d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-403161e8be547493bb414284fb382d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-403161e8be547493bb414284fb382d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-403161e8be547493bb414284fb382d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-403161e8be547493bb414284fb382d38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2991) revoked (1.4.2011) by [The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) (Revocation) Regulations 2011 (S.I. 2011/989)](https://www.legislation.gov.uk/uksi/2011/989), [regs. 1](https://www.legislation.gov.uk/uksi/2011/989/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/989/regulation/2)
+[^c-403161e8be547493bb414284fb382d38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2991) revoked (1.4.2011) by [The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) (Revocation) Regulations 2011 (S.I. 2011/989)](https://www.legislation.gov.uk/uksi/2011/989), [regs. 1](https://www.legislation.gov.uk/uksi/2011/989/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/989/regulation/2)

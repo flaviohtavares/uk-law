@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142C. Human Rights Act 1998: extension to certain private care providers[^key-030acd26d8c774b7f2cfa0bf9ad870ce]
+## 142C. Human Rights Act 1998: extension to certain private care providers[^c-030acd26d8c774b7f2cfa0bf9ad870ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-030acd26d8c774b7f2cfa0bf9ad870ce]: Textual amendment: [S. 142C](https://www.legislation.gov.uk/ukpga/1983/20/section/142C) inserted (6.4.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 51](https://www.legislation.gov.uk/ukpga/2025/33/section/51), [56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3); [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/a)
+[^c-030acd26d8c774b7f2cfa0bf9ad870ce]: Textual amendment: [S. 142C](https://www.legislation.gov.uk/ukpga/1983/20/section/142C) inserted (6.4.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 51](https://www.legislation.gov.uk/ukpga/2025/33/section/51), [56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3); [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/a)

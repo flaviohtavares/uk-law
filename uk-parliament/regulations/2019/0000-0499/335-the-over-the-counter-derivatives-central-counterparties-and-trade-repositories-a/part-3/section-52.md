@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Reporting of information[^key-4bcff63e8a413e61d854129f8808bf8e]
+## 52. Reporting of information[^c-4bcff63e8a413e61d854129f8808bf8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 50c, in paragraph 3—
 
 ## Annotations
 
-[^key-4bcff63e8a413e61d854129f8808bf8e]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4bcff63e8a413e61d854129f8808bf8e]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361. Procedure for varying or discharging restraining order[^key-409e7720a6086ed8ab36fe1a6b9421a7]
+## 361. Procedure for varying or discharging restraining order[^c-409e7720a6086ed8ab36fe1a6b9421a7]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ may apply to the court which made the order for it to be varied or discharged by
 
 ## Annotations
 
-[^key-409e7720a6086ed8ab36fe1a6b9421a7]: Commencement: S. 361 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-409e7720a6086ed8ab36fe1a6b9421a7]: Commencement: S. 361 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

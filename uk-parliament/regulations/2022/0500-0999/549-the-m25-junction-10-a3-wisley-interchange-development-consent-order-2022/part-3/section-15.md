@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Permanent stopping up and restriction of use of streets and private means of access[^key-95c01751a8891aa6494cb9ce25a0f35c]
+## 15. Permanent stopping up and restriction of use of streets and private means of access[^c-95c01751a8891aa6494cb9ce25a0f35c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95c01751a8891aa6494cb9ce25a0f35c]: Commencement: Art. 15 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-95c01751a8891aa6494cb9ce25a0f35c]: Commencement: Art. 15 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

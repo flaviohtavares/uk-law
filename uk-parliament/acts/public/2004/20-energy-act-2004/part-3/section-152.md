@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Grant of gas interconnector licences to existing operators[^key-a4dc6b60e5503f7c0b36cf39dcfad4cb]
+## 152. Grant of gas interconnector licences to existing operators[^c-a4dc6b60e5503f7c0b36cf39dcfad4cb]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4dc6b60e5503f7c0b36cf39dcfad4cb]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2004/20/section/152) in force at 1.12.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)
+[^c-a4dc6b60e5503f7c0b36cf39dcfad4cb]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2004/20/section/152) in force at 1.12.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)

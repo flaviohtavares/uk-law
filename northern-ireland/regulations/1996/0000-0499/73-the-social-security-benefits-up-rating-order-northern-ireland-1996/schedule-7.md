@@ -24,7 +24,7 @@ summary: ''
 
 Article 18(10) and (11)
 
-### Part I — Provisions in Schedule 7 to the Income Support Regulations as Amended by this Order[^key-f39bc4a382cb94bcf287356984b7803e]
+### Part I — Provisions in Schedule 7 to the Income Support Regulations as Amended by this Order[^c-f39bc4a382cb94bcf287356984b7803e]
 
 | *Column (1)* | *Column (2)* |
 | --- | --- |
@@ -74,7 +74,7 @@ Article 18(10) and (11)
 | - (iv) one of a couple or polygamous marriage where all the members of that couple or marriage are patients and have been so for more than 6 weeks; | - (iv) where there is no child or young person in the family, £15·30 in respect of each member of the couple or polygamous marriage, plus any amount applicable under regulation 17(1)(f) or 18(1)(g), plus either the amount prescribed in paragraph 14 in respect of any retaining fee for the accommodation he is liable to pay or the amount applicable under regulation 17(1)(e) or 18(1)(f), but not both, — where there is a child or young person remaining in the accommodation, the amount which would be applicable in respect of the family as if regulation 19, having taken into account any reduction in charge, continued to apply to all the members of the family except that in respect of each member of the couple or polygamous marriage no amount shall be applicable in respect of him under paragraph 2(2) of Schedule 4 and for the amount in respect of the allowance for personal expenses prescribed by paragraph 12 of Schedule 4 in respect of each member there shall be substituted £15·30, — where there is a child or young person in the family but no child or young person remains in the accommodation, the amount applicable under column (2) of paragraph 1(c) or (d), as the case may be, plus either the amount applicable under column (2) of paragraph 14(a) or the amount applicable under regulation 17(1)(e) or 18(1)(f), but not both, — where one or more children or young persons are also patients and have been so for more than 12 weeks, in respect of those children and young persons remaining in the accommodation and the members of the couple or polygamous marriage, the amount specified in case 2 of column (2) of sub- paragraph (b)(iv) save that the child or young person who has been a patient for more than 12 weeks shall be disregarded as a member of the family in assessing the the amount applicable under regulation 19, and in respect of each such child or young person there shall be added £12·25; |
 | - (c) a child or young person who has been a patient for a period of more than 12 weeks. | - (c) the amount applicable under regulation 19 as if that child or young person was not a member of the family plus an amount of £12·25 in respect of that child or young person. |
 
-### Part II — Other Sums Specified in Schedule 7 to the Income Support Regulations[^key-dac2628831426450711f18ce12088968]
+### Part II — Other Sums Specified in Schedule 7 to the Income Support Regulations[^c-dac2628831426450711f18ce12088968]
 
 | Paragraph in Column (2) of Schedule 7 | Specified Sum |
 | --- | --- |
@@ -85,7 +85,7 @@ Article 18(10) and (11)
 
 ## Annotations
 
-[^key-f39bc4a382cb94bcf287356984b7803e]: Commencement: Sch. 7 Pt. I comes into force in accordance with art. 1(1)(h)
+[^c-f39bc4a382cb94bcf287356984b7803e]: Commencement: Sch. 7 Pt. I comes into force in accordance with art. 1(1)(h)
 
 [^f00052]: Footnote: Paragraph 1 was amended by regulation 22 of, and paragraph 17(a) of Schedule 1 to, [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), regulation 19(a) of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431) and regulation 19(a) of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
 
@@ -93,4 +93,4 @@ Article 18(10) and (11)
 
 [^f00055]: Footnote: S.I. [1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
-[^key-dac2628831426450711f18ce12088968]: Commencement: Sch. 7 Pt. II comes into force in accordance with art. 1(1)(h)
+[^c-dac2628831426450711f18ce12088968]: Commencement: Sch. 7 Pt. II comes into force in accordance with art. 1(1)(h)

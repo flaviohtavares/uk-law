@@ -89,7 +89,7 @@ The purpose of this Act is to promote access to innovative medical treatments (i
 (2) For the purposes of section 2(2), the kinds of medical treatment that may be innovative medical treatments include (amongst other things)—
 
 - (a) the off-label use of an authorised medicinal product, and
-- (b) the use of a medicinal product in respect of which no UK[^key-6af75727e88c452c5f7c2efc7163d7cd] marketing authorisation is in force.
+- (b) the use of a medicinal product in respect of which no UK[^c-6af75727e88c452c5f7c2efc7163d7cd] marketing authorisation is in force.
 
 (3) In subsection (2)(a), the reference to the off-label use of an authorised medicinal product is a reference to the use of the product—
 
@@ -99,9 +99,9 @@ The purpose of this Act is to promote access to innovative medical treatments (i
 
 (4) In this section—
 
-- (a) “**authorised medicinal product**” means a medicinal product in respect of which a UK[^key-51b6e976b27526bf1047f86f2d5b55e5] marketing authorisation is in force;
-- (b) “ **UK[^key-587a0b10fe3909cb4206b432763a5083] marketing authorisation**” and “**medicinal product**” have the same meanings as in the Human Medicines Regulations 2012 (S.I. 2012/1916);
-- (c) “**specified**”, in relation to a medicinal product, means specified in its UK[^key-31f6716e9a3e6d8390e431227dfd7230] marketing authorisation.
+- (a) “**authorised medicinal product**” means a medicinal product in respect of which a UK[^c-51b6e976b27526bf1047f86f2d5b55e5] marketing authorisation is in force;
+- (b) “ **UK[^c-587a0b10fe3909cb4206b432763a5083] marketing authorisation**” and “**medicinal product**” have the same meanings as in the Human Medicines Regulations 2012 (S.I. 2012/1916);
+- (c) “**specified**”, in relation to a medicinal product, means specified in its UK[^c-31f6716e9a3e6d8390e431227dfd7230] marketing authorisation.
 
 (5) References in section 2 to medical treatment include references to treatment carried out for the purposes of medical research (but nothing in section 2 is to be read as affecting the regulation of medical research).
 
@@ -126,10 +126,10 @@ The purpose of this Act is to promote access to innovative medical treatments (i
 
 ## Annotations
 
-[^key-6af75727e88c452c5f7c2efc7163d7cd]: Textual amendment: Word in [s. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/2/b) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6af75727e88c452c5f7c2efc7163d7cd]: Textual amendment: Word in [s. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/2/b) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-51b6e976b27526bf1047f86f2d5b55e5]: Textual amendment: Word in [s. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/4/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51b6e976b27526bf1047f86f2d5b55e5]: Textual amendment: Word in [s. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/4/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-587a0b10fe3909cb4206b432763a5083]: Textual amendment: Word in [s. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/4/b) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-587a0b10fe3909cb4206b432763a5083]: Textual amendment: Word in [s. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/4/b) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-31f6716e9a3e6d8390e431227dfd7230]: Textual amendment: Word in [s. 3(4)(c)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/4/c) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31f6716e9a3e6d8390e431227dfd7230]: Textual amendment: Word in [s. 3(4)(c)](https://www.legislation.gov.uk/ukpga/2016/9/section/3/4/c) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

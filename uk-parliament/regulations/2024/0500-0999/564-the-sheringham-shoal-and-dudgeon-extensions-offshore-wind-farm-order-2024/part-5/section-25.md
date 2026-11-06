@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Temporary use of land for carrying out the authorised project[^key-0c141ed74822e299082eef82096f88a7]
+## 25. Temporary use of land for carrying out the authorised project[^c-0c141ed74822e299082eef82096f88a7]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) in the case of land specified in paragraph ‎(1)(a)(i) after the end of the period of one year beginning with the date of completion of the part of the authorised project specified in relation to that land in column (4) of Schedule 9; or
 - (b) in the case of land specified in paragraph ‎(1)(a)(ii) after the end of the period of one year beginning with the date of completion of the part of the authorised project for which temporary possession of the land was taken unless the undertaker has, before the end of that period, served a notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act in relation to that land.
 
-(4) Unless the undertaker has served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or otherwise acquired the land or rights over land subject to temporary possession, the undertaker must before giving up possession of land of which temporary possession has been taken under this article, remove all temporary[^key-adbeebe54b3de3a51a5f589bcf1d8035] works and restore the land to the reasonable satisfaction of the owners of the land; but the undertaker is not required to—
+(4) Unless the undertaker has served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or otherwise acquired the land or rights over land subject to temporary possession, the undertaker must before giving up possession of land of which temporary possession has been taken under this article, remove all temporary[^c-adbeebe54b3de3a51a5f589bcf1d8035] works and restore the land to the reasonable satisfaction of the owners of the land; but the undertaker is not required to—
 
 - (a) replace any building, structure, drain or electric line removed under this article;
 - (b) remove any drainage works installed by the undertaker under this article;
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c141ed74822e299082eef82096f88a7]: Commencement: Art. 25 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-0c141ed74822e299082eef82096f88a7]: Commencement: Art. 25 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-adbeebe54b3de3a51a5f589bcf1d8035]: Textual amendment: Word in [art. 25(4)](https://www.legislation.gov.uk/uksi/2024/564/article/25/4) inserted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-adbeebe54b3de3a51a5f589bcf1d8035]: Textual amendment: Word in [art. 25(4)](https://www.legislation.gov.uk/uksi/2024/564/article/25/4) inserted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table

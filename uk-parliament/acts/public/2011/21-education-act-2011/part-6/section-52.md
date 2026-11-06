@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Academies: removal of requirement to have specialism[^key-31d6a98b305d593358bff2bc18d403ca]
+## 52. Academies: removal of requirement to have specialism[^c-31d6a98b305d593358bff2bc18d403ca]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 1(6) of AA 2010 (Academy arrangements: characteristics of Academy) om
 
 ## Annotations
 
-[^key-31d6a98b305d593358bff2bc18d403ca]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/21/section/52) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-31d6a98b305d593358bff2bc18d403ca]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/21/section/52) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

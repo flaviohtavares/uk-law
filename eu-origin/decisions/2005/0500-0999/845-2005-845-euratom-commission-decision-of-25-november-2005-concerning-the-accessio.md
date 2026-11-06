@@ -31,10 +31,10 @@ summary: ''
 
 of 25 November 2005 concerning the accession of the European Atomic Energy Community to the Convention on Assistance in the case of a Nuclear Accident or Radiological Emergency (revoked)
 
-[^key-e3e2035f7b8cf53df02f206226219adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3e2035f7b8cf53df02f206226219adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e3e2035f7b8cf53df02f206226219adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e3e2035f7b8cf53df02f206226219adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3e2035f7b8cf53df02f206226219adb]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-e3e2035f7b8cf53df02f206226219adb]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

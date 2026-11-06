@@ -26,11 +26,11 @@ summary: ''
 
 (3) This Article does not apply to proceedings for an offence under this Order being proceedings which, under any other provision of this Order, can be instituted only by or with the consent of the Director of Public Prosecutions.
 
-(4) This Article does not apply to proceedings against the Department[^key-c056192de2871e937d7a86eb9369c082]...[^c17126521] or an HSC[^c21355731] trust.
+(4) This Article does not apply to proceedings against the Department[^c-c056192de2871e937d7a86eb9369c082]...[^c17126521] or an HSC[^c21355731] trust.
 
 ## Annotations
 
-[^key-c056192de2871e937d7a86eb9369c082]: Textual amendment: Words in [art. 133(4)](https://www.legislation.gov.uk/nisi/1986/595/article/133/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 99](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/99); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c056192de2871e937d7a86eb9369c082]: Textual amendment: Words in [art. 133(4)](https://www.legislation.gov.uk/nisi/1986/595/article/133/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 99](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/99); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c17126521]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 

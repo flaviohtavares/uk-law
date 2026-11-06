@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Immunity from damages[^key-d6f97517c77ff4b767bce6533efc6f15]
+## 86. Immunity from damages[^c-d6f97517c77ff4b767bce6533efc6f15]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6f97517c77ff4b767bce6533efc6f15]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/16/section/86) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-d6f97517c77ff4b767bce6533efc6f15]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/16/section/86) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -44,20 +44,20 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 A draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament in accordance with section 62(4) of that Act[^f00002].
 
-## 1. Citation and commencement[^key-6d2c7924c4831503c5f7034dad643cbb]
+## 1. Citation and commencement[^c-6d2c7924c4831503c5f7034dad643cbb]
 
 (1) These Regulations may be cited as the Debt Arrangement Scheme (Scotland) Amendment Regulations 2013.
 
 (2) They come into force on the day after the day on which the Regulations are made.
 
-## 2. Interpretation[^key-cc1db8d8fd81a20170cdec21f0878b44]
+## 2. Interpretation[^c-cc1db8d8fd81a20170cdec21f0878b44]
 
 In these Regulations—
 
 - “DAS” means the Debt Arrangement Scheme; and
 - “the DAS Regulations” means the Debt Arrangement Scheme (Scotland) Regulations 2011[^f00003].
 
-## 3. Amendment to the Debt Arrangement Scheme (Interest, Fees, Penalties and Other Charges) Regulations 2011[^key-7152ca54b972b71fe2e9737645bd3b29]
+## 3. Amendment to the Debt Arrangement Scheme (Interest, Fees, Penalties and Other Charges) Regulations 2011[^c-7152ca54b972b71fe2e9737645bd3b29]
 
 (1) The Debt Arrangement Scheme (Interest, Fees, Penalties and Other Charges) (Scotland) Regulations 2011[^f00004] are amended in accordance with paragraphs (2) to (5).
 
@@ -85,11 +85,11 @@ In these Regulations—
 
 and for the heading to regulation 5 substitute “Reviews and appeals”.
 
-## 4. Amendment to the DAS Regulations[^key-fc7d172b51ddf3b8b35f9089d7800042]
+## 4. Amendment to the DAS Regulations[^c-fc7d172b51ddf3b8b35f9089d7800042]
 
 The DAS Regulations are amended in accordance with regulations 5 to 18 and 19(1) and (2).
 
-## 5. Correction of accidental errors[^key-39c9c2f7d037ed37a831d8c423b08f89]
+## 5. Correction of accidental errors[^c-39c9c2f7d037ed37a831d8c423b08f89]
 
 After regulation 4, insert—
 
@@ -111,7 +111,7 @@ After regulation 4, insert—
 
 .
 
-## 6. Money adviser fees[^key-7a58c7e5613a7baaebe46c50bcc92054]
+## 6. Money adviser fees[^c-7a58c7e5613a7baaebe46c50bcc92054]
 
 (1) In the definition of “continuing liability” in regulation 2(1) (interpretation: general)—
 
@@ -143,11 +143,11 @@ After regulation 4, insert—
 
   .
 
-## 7. Approval of a money adviser[^key-5ffd07af07f1520b89516c5f2ad4cfea]
+## 7. Approval of a money adviser[^c-5ffd07af07f1520b89516c5f2ad4cfea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Payments distributors[^key-b6c757bd8c91cebd9c2aabf1fa230d5b]
+## 8. Payments distributors[^c-b6c757bd8c91cebd9c2aabf1fa230d5b]
 
 (1) In regulation 16(1) (functions and duty of a payments distributor)—
 
@@ -157,7 +157,7 @@ After regulation 4, insert—
 
 (2) In regulation 17(2) (charges by a payment distributor), after “fee” insert “, including any VAT incurred,”.
 
-## 9. Information on the DAS Register[^key-2950b09889800c822fdea54a759cff9e]
+## 9. Information on the DAS Register[^c-2950b09889800c822fdea54a759cff9e]
 
 In regulation 19(2) (information on the DAS Register)—
 
@@ -170,7 +170,7 @@ In regulation 19(2) (information on the DAS Register)—
   ; and
 - (b) in sub-paragraph (i), for “ 47” substitute “47C”.
 
-## 10. Joint debt payment programme[^key-91e7ce04299ba06d93bf7dc0dc6f7ed1]
+## 10. Joint debt payment programme[^c-91e7ce04299ba06d93bf7dc0dc6f7ed1]
 
 In regulation 22(1) (joint debt payment programme)—
 
@@ -181,7 +181,7 @@ In regulation 22(1) (joint debt payment programme)—
   ; and
 - (b) in sub-paragraph (b), omit “and” where it appears before “they”.
 
-## 11. Creditors[^key-dcfa943e95fc0540ee46505b35c408bf]
+## 11. Creditors[^c-dcfa943e95fc0540ee46505b35c408bf]
 
 (1) In regulation 23 (consent of creditors)—
 
@@ -211,11 +211,11 @@ In regulation 22(1) (joint debt payment programme)—
 
 .
 
-## 12. Standard conditions[^key-d8390733a180a8686d20ff844e25bf97]
+## 12. Standard conditions[^c-d8390733a180a8686d20ff844e25bf97]
 
 In regulation 27 (standard conditions), in paragraph (2)(a), for “one month” substitute “42 days”.
 
-## 13. Variation[^key-b01a9debf19a6d058ac9190313c03fd2]
+## 13. Variation[^c-b01a9debf19a6d058ac9190313c03fd2]
 
 (1) After regulation 36, insert—
 
@@ -242,7 +242,7 @@ In regulation 27 (standard conditions), in paragraph (2)(a), for “one month”
 
 (3) In regulation 39 (notification of approval or rejection of a variation) after paragraph (1)(c), insert “(ca) where there is a payment instruction under regulation 32, to the employer;”.
 
-## 14. Revocation of debt payment programmes[^key-10954c524d09b78c74d8439bf49352a9]
+## 14. Revocation of debt payment programmes[^c-10954c524d09b78c74d8439bf49352a9]
 
 (1) After regulation 40(a) (revocation on sequestration in debtor application), insert—
 
@@ -283,7 +283,7 @@ In regulation 27 (standard conditions), in paragraph (2)(a), for “one month”
 
 .
 
-## 15. Composition[^key-ff752d375235aeff4688537f1df0a1c3]
+## 15. Composition[^c-ff752d375235aeff4688537f1df0a1c3]
 
 After Part 9 insert—
 
@@ -331,7 +331,7 @@ After Part 9 insert—
 
 .
 
-## 16. Reviews and appeals[^key-1302ac14556dcfa4c9b87dc9ba07057f]
+## 16. Reviews and appeals[^c-1302ac14556dcfa4c9b87dc9ba07057f]
 
 (1) In regulation 2(1) (interpretation: general) after the definition of “the 1986 Act”, insert—
 
@@ -354,7 +354,7 @@ After Part 9 insert—
 
 .
 
-## 17.[^key-cce771db3630765e7b850971cb8ccbf1]
+## 17.[^c-cce771db3630765e7b850971cb8ccbf1]
 
 For Part 10, substitute—
 
@@ -431,7 +431,7 @@ For Part 10, substitute—
 
 .
 
-## 18. Forms[^key-a86d2abd863cd148140229aa06ba206d]
+## 18. Forms[^c-a86d2abd863cd148140229aa06ba206d]
 
 (1) In regulation 37(4) (grounds for variation), for “form 3” substitute “form 4”.
 
@@ -444,7 +444,7 @@ For Part 10, substitute—
   - (iv) form 5 (application for revocation of a debt payment programme); and
 - (b) insert form 6 after form 5.
 
-## 19. Minor amendments and revocations[^key-831073d55754c02b35f10f2d6fa0e99a]
+## 19. Minor amendments and revocations[^c-831073d55754c02b35f10f2d6fa0e99a]
 
 (1) In regulation 18(1) (debt arrangement scheme register), insert “public” before “register”.
 
@@ -455,7 +455,7 @@ For Part 10, substitute—
 - (a) in section 7 (meaning of apparent insolvency) omit the subsection (1)(c)(vii) inserted by regulation 46 of the Debt Arrangement Scheme (Scotland) Regulations 2004[^f00012]; and
 - (b) in section 14 (registration of warrant or determination of debtor application)[^f00013], omit the subsection (1)(c) inserted by paragraph 1 of Schedule 3 to those Regulations[^f00014].
 
-## 20. Savings[^key-8c834919de6fc2983fae386a4305417d]
+## 20. Savings[^c-8c834919de6fc2983fae386a4305417d]
 
 (1) Nothing in regulation 3(3), 6, 12, 13(1) or (2), 14(3) or 18(2) affects a debt payment programme in respect of which an application for approval was made (under regulation 20 of the DAS Regulations) before the date on which these Regulations comes into force.
 
@@ -476,7 +476,7 @@ Edinburgh
 
 1st July 2013
 
-## SCHEDULE — FORMS[^key-4cafad250377c8a112de5b752a1b972e]
+## SCHEDULE — FORMS[^c-4cafad250377c8a112de5b752a1b972e]
 
 Regulations 15 and 18(1) and (2)
 
@@ -520,13 +520,13 @@ A Business and Regulatory Impact Assessment of the effect which these Regulation
 
 [^f00002]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-6d2c7924c4831503c5f7034dad643cbb]: Commencement: Reg. 1 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-6d2c7924c4831503c5f7034dad643cbb]: Commencement: Reg. 1 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-cc1db8d8fd81a20170cdec21f0878b44]: Commencement: Reg. 2 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-cc1db8d8fd81a20170cdec21f0878b44]: Commencement: Reg. 2 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
 [^f00003]: Footnote: [S.S.I. 2011/141](https://www.legislation.gov.uk/ssi/2011/141).
 
-[^key-7152ca54b972b71fe2e9737645bd3b29]: Commencement: Reg. 3 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-7152ca54b972b71fe2e9737645bd3b29]: Commencement: Reg. 3 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
 [^f00004]: Footnote: [S.S.I. 2011/238](https://www.legislation.gov.uk/ssi/2011/238).
 
@@ -536,43 +536,43 @@ A Business and Regulatory Impact Assessment of the effect which these Regulation
 
 [^f00007]: Footnote: Regulations 47(4) and (5), 47A and 47B are inserted by regulation 17 of these Regulations.
 
-[^key-fc7d172b51ddf3b8b35f9089d7800042]: Commencement: Reg. 4 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-fc7d172b51ddf3b8b35f9089d7800042]: Commencement: Reg. 4 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-39c9c2f7d037ed37a831d8c423b08f89]: Commencement: Reg. 5 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-39c9c2f7d037ed37a831d8c423b08f89]: Commencement: Reg. 5 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-7a58c7e5613a7baaebe46c50bcc92054]: Commencement: Reg. 6 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-7a58c7e5613a7baaebe46c50bcc92054]: Commencement: Reg. 6 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-5ffd07af07f1520b89516c5f2ad4cfea]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/225/regulation/7) revoked (11.12.2014) by [The Debt Arrangement Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/294)](https://www.legislation.gov.uk/ssi/2014/294), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/294/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2014/294/regulation/6/2) (with [reg. 23(4)](https://www.legislation.gov.uk/ssi/2014/294/regulation/23/4))
+[^c-5ffd07af07f1520b89516c5f2ad4cfea]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/225/regulation/7) revoked (11.12.2014) by [The Debt Arrangement Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/294)](https://www.legislation.gov.uk/ssi/2014/294), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/294/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2014/294/regulation/6/2) (with [reg. 23(4)](https://www.legislation.gov.uk/ssi/2014/294/regulation/23/4))
 
-[^key-b6c757bd8c91cebd9c2aabf1fa230d5b]: Commencement: Reg. 8 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-b6c757bd8c91cebd9c2aabf1fa230d5b]: Commencement: Reg. 8 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-2950b09889800c822fdea54a759cff9e]: Commencement: Reg. 9 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-2950b09889800c822fdea54a759cff9e]: Commencement: Reg. 9 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-91e7ce04299ba06d93bf7dc0dc6f7ed1]: Commencement: Reg. 10 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-91e7ce04299ba06d93bf7dc0dc6f7ed1]: Commencement: Reg. 10 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-dcfa943e95fc0540ee46505b35c408bf]: Commencement: Reg. 11 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-dcfa943e95fc0540ee46505b35c408bf]: Commencement: Reg. 11 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-d8390733a180a8686d20ff844e25bf97]: Commencement: Reg. 12 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-d8390733a180a8686d20ff844e25bf97]: Commencement: Reg. 12 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-b01a9debf19a6d058ac9190313c03fd2]: Commencement: Reg. 13 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-b01a9debf19a6d058ac9190313c03fd2]: Commencement: Reg. 13 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-10954c524d09b78c74d8439bf49352a9]: Commencement: Reg. 14 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-10954c524d09b78c74d8439bf49352a9]: Commencement: Reg. 14 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
 [^f00008]: Footnote: A debt payment programme is approved from midnight on the day immediately before that on which the notice under regulation 26 of the DAS Regulations is entered in the DAS register (see regulation 26(2)).
 
 [^f00009]: Footnote: Regulation 47(3) is substituted by regulation 17 of these Regulations.
 
-[^key-ff752d375235aeff4688537f1df0a1c3]: Commencement: Reg. 15 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-ff752d375235aeff4688537f1df0a1c3]: Commencement: Reg. 15 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
 [^f00010]: Footnote: Inserted by regulation 18 of these Regulations.
 
-[^key-1302ac14556dcfa4c9b87dc9ba07057f]: Commencement: Reg. 16 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-1302ac14556dcfa4c9b87dc9ba07057f]: Commencement: Reg. 16 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-cce771db3630765e7b850971cb8ccbf1]: Commencement: Reg. 17 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-cce771db3630765e7b850971cb8ccbf1]: Commencement: Reg. 17 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-a86d2abd863cd148140229aa06ba206d]: Commencement: Reg. 18 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-a86d2abd863cd148140229aa06ba206d]: Commencement: Reg. 18 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-831073d55754c02b35f10f2d6fa0e99a]: Commencement: Reg. 19 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-831073d55754c02b35f10f2d6fa0e99a]: Commencement: Reg. 19 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
 [^f00011]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66). Section 7 was repealed in part by the Drug Trafficking Act [1994 (c.37)](https://www.legislation.gov.uk/ukpga/1994/37) (“the 1994 Act”), Schedule 3, and the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40) (“the 1995 Act”), Schedule 5, and amended by the 1994 Act, Schedule 1, paragraph 10(2), the Criminal Justice (Scotland) Act [1995 (c.20)](https://www.legislation.gov.uk/ukpga/1995/20), Schedule 6, paragraph 185(3), the 1995 Act, Schedule 4, paragraph 58(3), the Debt Arrangement and Attachment (Scotland) Act [2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), schedule 3, paragraph 15(2), and the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraph 15(3). Subsection (1)(c) was also repealed in part, and sub-paragraph (iv) prospectively repealed, by the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the 2007 Act”), schedule 6, Part 1 (see [SSI 2008/115](https://www.legislation.gov.uk/ssi/2008/115)) and [S.S.I. 2004/468](https://www.legislation.gov.uk/ssi/2004/468) and [2011/141](https://www.legislation.gov.uk/ssi/2011/141) (“the DAS Regulations”).
 
@@ -582,6 +582,6 @@ A Business and Regulatory Impact Assessment of the effect which these Regulation
 
 [^f00014]: Footnote: [S.S.I. 2004/468](https://www.legislation.gov.uk/ssi/2004/468) (revoked). A section 14(1)(c) in similar terms was inserted by Schedule 2 to the DAS Regulations.
 
-[^key-8c834919de6fc2983fae386a4305417d]: Commencement: Reg. 20 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-8c834919de6fc2983fae386a4305417d]: Commencement: Reg. 20 in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
 
-[^key-4cafad250377c8a112de5b752a1b972e]: Commencement: Sch. in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)
+[^c-4cafad250377c8a112de5b752a1b972e]: Commencement: Sch. in force at 2.7.2013, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/225/regulation/1/2)

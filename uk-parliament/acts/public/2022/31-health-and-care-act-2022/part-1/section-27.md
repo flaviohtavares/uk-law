@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. NHS England’s financial responsibilities[^key-43d5cfe3d929c9b7de88bb6008e2e0af][^key-155c863b6296b7f5f8a311fc5d1bb6ae]
+## 27. NHS England’s financial responsibilities[^c-43d5cfe3d929c9b7de88bb6008e2e0af][^c-155c863b6296b7f5f8a311fc5d1bb6ae]
 
 *Extent: E+W*
 
@@ -81,6 +81,6 @@ For sections 223C to 223E of the National Health Service Act 2006 substitute—
 
 ## Annotations
 
-[^key-43d5cfe3d929c9b7de88bb6008e2e0af]: Commencement: S. 27 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-43d5cfe3d929c9b7de88bb6008e2e0af]: Commencement: S. 27 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-155c863b6296b7f5f8a311fc5d1bb6ae]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/31/section/27) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))
+[^c-155c863b6296b7f5f8a311fc5d1bb6ae]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/31/section/27) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))

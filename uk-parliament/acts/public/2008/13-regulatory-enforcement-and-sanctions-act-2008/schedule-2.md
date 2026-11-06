@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Replacement of the LBRO company by LBRO[^key-9f9e090097b3bc58aaa43ce90878012b]
+## SCHEDULE 2 — Replacement of the LBRO company by LBRO[^c-9f9e090097b3bc58aaa43ce90878012b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Section 2
 
-### Transfer of staff[^key-9f9e090097b3bc58aaa43ce90878012b]
+### Transfer of staff[^c-9f9e090097b3bc58aaa43ce90878012b]
 
-**1.**[^key-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transfer of property, rights and liabilities[^key-9f9e090097b3bc58aaa43ce90878012b]
+### Transfer of property, rights and liabilities[^c-9f9e090097b3bc58aaa43ce90878012b]
 
-**2.**[^key-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tax[^key-9f9e090097b3bc58aaa43ce90878012b]
+### Tax[^c-9f9e090097b3bc58aaa43ce90878012b]
 
-**3.**[^key-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Continuity between the LBRO company and LBRO[^key-9f9e090097b3bc58aaa43ce90878012b]
+### Continuity between the LBRO company and LBRO[^c-9f9e090097b3bc58aaa43ce90878012b]
 
-**4.**[^key-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9f9e090097b3bc58aaa43ce90878012b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f9e090097b3bc58aaa43ce90878012b]: Textual amendment: Sch. 2 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-9f9e090097b3bc58aaa43ce90878012b]: Textual amendment: Sch. 2 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The holder of a licence for premises of a kind mentioned in Article 5(1)(a) or an hotel shall not, himself or by his servant or agent, sell intoxicating liquor to, or make it available for purchase by, any person for consumption off the premises on Christmas Day [^key-b8e771669ba92b7f755947d42b1e038b]....
+(1) The holder of a licence for premises of a kind mentioned in Article 5(1)(a) or an hotel shall not, himself or by his servant or agent, sell intoxicating liquor to, or make it available for purchase by, any person for consumption off the premises on Christmas Day [^c-b8e771669ba92b7f755947d42b1e038b]....
 
 (2) Any person acting in contravention of paragraph (1) shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8e771669ba92b7f755947d42b1e038b]: Textual amendment: Words in [art. 50(1)](https://www.legislation.gov.uk/nisi/1996/3158/article/50/1) repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 1(8)](https://www.legislation.gov.uk/nia/2021/7/section/1/8), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-b8e771669ba92b7f755947d42b1e038b]: Textual amendment: Words in [art. 50(1)](https://www.legislation.gov.uk/nisi/1996/3158/article/50/1) repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 1(8)](https://www.legislation.gov.uk/nia/2021/7/section/1/8), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

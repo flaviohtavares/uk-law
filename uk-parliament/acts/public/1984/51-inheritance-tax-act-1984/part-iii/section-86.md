@@ -33,12 +33,12 @@ then, subject to subsection (3) below, this section applies to that settled prop
 
 - (a) the class comprises all or most of the persons employed by or holding office with the body concerned, or
 - (b) the trusts on which the settled property is held are those of a profit sharing scheme approved in accordance with Schedule 9 to the [^c13609661]Taxes Act 1988[^c13609671]; or[^c13609681]
-- (c) the trusts on which the settled property is held are those of a share incentive plan approved under Schedule 2 to the Income Tax (Earnings and Pensions) Act 2003[^c19462341], or[^key-49a40cd7e6bc1261c838b8f6ce43d694]
+- (c) the trusts on which the settled property is held are those of a share incentive plan approved under Schedule 2 to the Income Tax (Earnings and Pensions) Act 2003[^c19462341], or[^c-49a40cd7e6bc1261c838b8f6ce43d694]
 - (d) the settled property consists of or includes ordinary share capital of a company which meets the trading requirement and the trusts on which the settled property is held are those of a settlement which—
   - (i) meets the controlling interest requirement with respect to the company, and
   - (ii) meets the all-employee benefit requirement with respect to the company.
 
-(3A)[^key-3c17877e8359ead7a8c01a0d7e07e2f9] For the purpose of determining whether subsection (3)(d) is satisfied in relation to settled property which consists of or includes ordinary share capital of a company—
+(3A)[^c-3c17877e8359ead7a8c01a0d7e07e2f9] For the purpose of determining whether subsection (3)(d) is satisfied in relation to settled property which consists of or includes ordinary share capital of a company—
 
 - (a) section 236I of the 1992 Act applies to determine whether the company meets the trading requirement (with references to “C” being read as references to that company),
 - (b) sections 236J, 236K, 236M and 236T (but not 236L) of the 1992 Act apply to determine whether the settlement meets the all-employee benefit requirement and the controlling interest requirement (with references in those sections to “C” being read as references to that company), and
@@ -63,6 +63,6 @@ then, subject to subsection (3) below, this section applies to that settled prop
 
 [^c19462341]: Textual amendment: Words in s. 86(3)(c) substituted (with effect as mentioned in s. 723(1)(a)(b) (subject to Sch. 7) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [ss. 722](https://www.legislation.gov.uk/ukpga/2003/1/section/722), [723(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/723/1), [Sch. 6 para. 151(1)(c)(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/151/1/c/2)
 
-[^key-49a40cd7e6bc1261c838b8f6ce43d694]: Textual amendment: S. 86(3)(d) and preceding word inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4)
+[^c-49a40cd7e6bc1261c838b8f6ce43d694]: Textual amendment: S. 86(3)(d) and preceding word inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4)
 
-[^key-3c17877e8359ead7a8c01a0d7e07e2f9]: Textual amendment: S. 86(3A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4)
+[^c-3c17877e8359ead7a8c01a0d7e07e2f9]: Textual amendment: S. 86(3A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4)

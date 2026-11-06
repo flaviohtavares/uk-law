@@ -36,7 +36,7 @@ summary: ''
 - (g) specialised electrical equipment for use on ships, aircraft or railways, which complies with the safety provisions drawn up by international bodies in which the member States participate;
 - (h) custom-built evaluation kits destined for professionals to be used at research and development facilities solely for research and development.
 
-(3) Save for regulations 4, 15, 25 (to the extent that it relates to conformity of the electrical equipment with the principal elements of the safety objectives) and 37, these Regulations do not apply to equipment covered by the Radio Equipment Regulations 2017[^key-3f8cdcebb48539c0cabcf3a3b21c9c71].
+(3) Save for regulations 4, 15, 25 (to the extent that it relates to conformity of the electrical equipment with the principal elements of the safety objectives) and 37, these Regulations do not apply to equipment covered by the Radio Equipment Regulations 2017[^c-3f8cdcebb48539c0cabcf3a3b21c9c71].
 
 ## 3. Electrical equipment to which these Regulations apply[^M_E_0bc3f7be-7bf2-480c-8104-8670332a42ca]
 
@@ -64,7 +64,7 @@ summary: ''
 
 [^M_E_46d640aa-355f-4022-922f-73ff2243966b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-3f8cdcebb48539c0cabcf3a3b21c9c71]: Textual amendment: Words in reg. 3(3) substituted (26.12.2017) by [The Radio Equipment Regulations 2017 (S.I. 2017/1206)](https://www.legislation.gov.uk/uksi/2017/1206), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1206/regulation/1), [84(3)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/84/3) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/3), [77](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77))
+[^c-3f8cdcebb48539c0cabcf3a3b21c9c71]: Textual amendment: Words in reg. 3(3) substituted (26.12.2017) by [The Radio Equipment Regulations 2017 (S.I. 2017/1206)](https://www.legislation.gov.uk/uksi/2017/1206), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1206/regulation/1), [84(3)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/84/3) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/3), [77](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77))
 
 [^M_E_0bc3f7be-7bf2-480c-8104-8670332a42ca]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

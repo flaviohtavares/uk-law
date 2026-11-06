@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Enforcement policy document[^key-b667f5932ded9e4af9028caeaa45debc]
+## 108. Enforcement policy document[^c-b667f5932ded9e4af9028caeaa45debc]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b667f5932ded9e4af9028caeaa45debc]: Commencement: [S. 108](https://www.legislation.gov.uk/mwa/2011/1/section/108) in force at 25.3.2015 at 16:00 hours by [S.I. 2015/985](https://www.legislation.gov.uk/wsi/2015/985), [art. 2](https://www.legislation.gov.uk/wsi/2015/985/article/2)
+[^c-b667f5932ded9e4af9028caeaa45debc]: Commencement: [S. 108](https://www.legislation.gov.uk/mwa/2011/1/section/108) in force at 25.3.2015 at 16:00 hours by [S.I. 2015/985](https://www.legislation.gov.uk/wsi/2015/985), [art. 2](https://www.legislation.gov.uk/wsi/2015/985/article/2)

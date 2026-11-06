@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation criteria: meaning of “involved person”[^key-9afcc0d2521724999009520c9e9a3fb7][^key-5f0aa3c4ae5a0a1e171fefa68de0708e]
+## 6. Designation criteria: meaning of “involved person”[^c-9afcc0d2521724999009520c9e9a3fb7][^c-5f0aa3c4ae5a0a1e171fefa68de0708e]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-059676bb438bdf0e4cbba052c1f2a156] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-059676bb438bdf0e4cbba052c1f2a156] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^key-b17e3a4169f2cb2fa32500c7d0cb670c], an “**involved person**” means a person who—
+(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^c-b17e3a4169f2cb2fa32500c7d0cb670c], an “**involved person**” means a person who—
 
 - (a) is or has been involved in a relevant activity,
 - (b) is owned or controlled directly or indirectly (within the meaning of regulation 7) by a person who is or has been so involved,
@@ -39,11 +39,11 @@ summary: ''
   - (v) the forced displacement of civilians;
   - (vi) any of the rights referred to in regulation 4(2)(f);
 - (b) obstruction of the delivery or distribution of, or access to, humanitarian assistance in Somalia;
-- (c) an attack against, or obstruction of, diplomatic personnel in Somalia, or the regional or international monitoring, peace-support or protection and training missions and mechanisms mentioned in [^key-17cacb01609b9ab3400000b2f77c3221]... regulation 4(2)(c);
+- (c) an attack against, or obstruction of, diplomatic personnel in Somalia, or the regional or international monitoring, peace-support or protection and training missions and mechanisms mentioned in [^c-17cacb01609b9ab3400000b2f77c3221]... regulation 4(2)(c);
 - (d) the misappropriation of Somali state funds, or taking action that may lead to such misappropriation;
 - (e) the resale, supply or delivery, transfer or making available of Somali military goods or technology to, or for use by, any person who is not a relevant entity;
 - (f) the illicit export of charcoal from Somalia or the direct or indirect import of charcoal from Somalia;
-- (fa)[^key-e4eee9f7865e85e81017a21be228944f] association or affiliation with, or activity in support of, terrorist or armed groups, including—
+- (fa)[^c-e4eee9f7865e85e81017a21be228944f] association or affiliation with, or activity in support of, terrorist or armed groups, including—
   - (i) the provision or supply of arms, weapons or ammunition where such flow or supply is not in compliance with paragraph 4 of resolution 2713 (arms embargo on Al-Shabaab);
   - (ii) the provision of IED components goods or IED components technology to a terrorist or armed group;
   - (iii) recruitment of persons to terrorist or armed groups;
@@ -70,8 +70,8 @@ summary: ''
   - (iii) any person employed by, or otherwise acting under the direction or control of any of the entities mentioned in (i) or (ii);
 - (c) “**Somali military goods or technology**” means military goods or military technology exported, supplied or delivered, transferred or made available, to or for the benefit of—
   - (i) the Somali National Security Forces, or
-  - (ii) a Federal or other state security institution in Somalia providing security for the people of Somalia ;[^key-6948dc6acd94aff896e5053635784da0]
-- (d)[^key-1c77bd4c4de9fa3989d70ef07931f073] “**extremist material**” means that which—
+  - (ii) a Federal or other state security institution in Somalia providing security for the people of Somalia ;[^c-6948dc6acd94aff896e5053635784da0]
+- (d)[^c-1c77bd4c4de9fa3989d70ef07931f073] “**extremist material**” means that which—
   - (i) promotes an extremist ideology, or
   - (ii) foments, justifies or glorifies terrorist violence;
 - (e) “**extremist ideology**” means the promotion or advancement of an ideology based on violence, hatred or intolerance that aims to—
@@ -85,18 +85,18 @@ summary: ''
 
 ## Annotations
 
-[^key-9afcc0d2521724999009520c9e9a3fb7]: Commencement: Reg. 6 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/1)
+[^c-9afcc0d2521724999009520c9e9a3fb7]: Commencement: Reg. 6 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/1)
 
-[^key-5f0aa3c4ae5a0a1e171fefa68de0708e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/642/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/20/4/a)
+[^c-5f0aa3c4ae5a0a1e171fefa68de0708e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/642/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/20/4/a)
 
-[^key-059676bb438bdf0e4cbba052c1f2a156]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/642/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [20(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/20/4/b)
+[^c-059676bb438bdf0e4cbba052c1f2a156]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/642/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [20(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/20/4/b)
 
-[^key-b17e3a4169f2cb2fa32500c7d0cb670c]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/642/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [20(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/20/4/c)
+[^c-b17e3a4169f2cb2fa32500c7d0cb670c]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/642/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [20(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/20/4/c)
 
-[^key-17cacb01609b9ab3400000b2f77c3221]: Textual amendment: Words in reg. 6(3)(c) omitted (9.8.2022) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/11/2)
+[^c-17cacb01609b9ab3400000b2f77c3221]: Textual amendment: Words in reg. 6(3)(c) omitted (9.8.2022) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/11/2)
 
-[^key-e4eee9f7865e85e81017a21be228944f]: Textual amendment: Reg. 6(3)(fa) inserted (29.5.2024) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/609)](https://www.legislation.gov.uk/uksi/2024/609), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/609/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/609/regulation/2/4/a)
+[^c-e4eee9f7865e85e81017a21be228944f]: Textual amendment: Reg. 6(3)(fa) inserted (29.5.2024) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/609)](https://www.legislation.gov.uk/uksi/2024/609), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/609/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/609/regulation/2/4/a)
 
-[^key-6948dc6acd94aff896e5053635784da0]: Textual amendment: Semicolon in reg. 6(5)(c)(ii) substituted for full stop (29.5.2024) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/609)](https://www.legislation.gov.uk/uksi/2024/609), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/609/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/609/regulation/2/4/b)
+[^c-6948dc6acd94aff896e5053635784da0]: Textual amendment: Semicolon in reg. 6(5)(c)(ii) substituted for full stop (29.5.2024) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/609)](https://www.legislation.gov.uk/uksi/2024/609), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/609/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/609/regulation/2/4/b)
 
-[^key-1c77bd4c4de9fa3989d70ef07931f073]: Textual amendment: Reg. 6(5)(d)(e) inserted (29.5.2024) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/609)](https://www.legislation.gov.uk/uksi/2024/609), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/609/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/609/regulation/2/4/c)
+[^c-1c77bd4c4de9fa3989d70ef07931f073]: Textual amendment: Reg. 6(5)(d)(e) inserted (29.5.2024) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/609)](https://www.legislation.gov.uk/uksi/2024/609), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/609/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/609/regulation/2/4/c)

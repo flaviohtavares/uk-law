@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Power to stop, board, search etc[^key-12617fb1f9232578494ef68f71b393c1][^key-51bd0df96113440666400a36dc60223e]
+## 67. Power to stop, board, search etc[^c-12617fb1f9232578494ef68f71b393c1][^c-51bd0df96113440666400a36dc60223e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12617fb1f9232578494ef68f71b393c1]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-12617fb1f9232578494ef68f71b393c1]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-51bd0df96113440666400a36dc60223e]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2019/461/regulation/67) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51bd0df96113440666400a36dc60223e]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2019/461/regulation/67) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Housing accommodation[^key-fb4b9f4000322df6f3a1369dab4b828e]
+## 37. Housing accommodation[^c-fb4b9f4000322df6f3a1369dab4b828e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 19 confers on combined authorities and CCAs functions relating to housi
 
 ## Annotations
 
-[^key-fb4b9f4000322df6f3a1369dab4b828e]: Commencement: S. 37 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-fb4b9f4000322df6f3a1369dab4b828e]: Commencement: S. 37 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

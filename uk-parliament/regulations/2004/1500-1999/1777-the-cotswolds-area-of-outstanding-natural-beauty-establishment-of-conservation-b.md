@@ -68,9 +68,9 @@ On the establishment day there shall be established a conservation board for the
 
 ### 4. Specified number of Board members
 
-(1) The specified number of local authority members of the Board shall be 15[^key-a1a5f19eec03fee3c4677970a249541b].
+(1) The specified number of local authority members of the Board shall be 15[^c-a1a5f19eec03fee3c4677970a249541b].
 
-(2) The specified number of members of the Board to be appointed by the Secretary of State shall be 14[^key-302f49e4bb213028a8a05be4ba27a4f9].
+(2) The specified number of members of the Board to be appointed by the Secretary of State shall be 14[^c-302f49e4bb213028a8a05be4ba27a4f9].
 
 (3) The specified number of parish members of the Board shall be 8.
 
@@ -295,7 +295,7 @@ a copy of any report, return or information which the Board is required to send 
 
 (4) Nothing in paragraph (2)(a) shall be construed as requiring or authorising the Board to apply or dispose of the surplus revenue arising from any undertaking carried on by them otherwise than in accordance with any enactment or instrument applicable to the undertaking.
 
-### 23A. Retirement Benefits[^key-c13d11bca6434093a6fe3fc81943b2aa]
+### 23A. Retirement Benefits[^c-c13d11bca6434093a6fe3fc81943b2aa]
 
  Regulation 30 (retirement benefits) of the Local Authorities (Capital Finance and Accounting) (England) Regulations 2003 shall apply in relation to the Board as if the Board were a local authority for the purposes of that regulation.
 
@@ -467,7 +467,7 @@ Cotswold District Council
 
 Gloucestershire County Council
 
-[^key-a7279d261520d2703c120e999e67c019]...
+[^c-a7279d261520d2703c120e999e67c019]...
 
 Oxfordshire County Council
 
@@ -483,7 +483,7 @@ Warwickshire County Council
 
 West Oxfordshire District Council
 
-[^key-a7279d261520d2703c120e999e67c019]...
+[^c-a7279d261520d2703c120e999e67c019]...
 
 Wiltshire County Council
 
@@ -1328,11 +1328,11 @@ Article 16
 
 **2.** (1) The first meeting of the Board, as provided for by paragraph 1(1), shall be the annual general meeting of the Board for 2004.
 
-(2)[^key-53d8cf3035f8d788f979b438ed8136c4] In 2005 and each subsequent year the Board shall hold an annual general meeting.
+(2)[^c-53d8cf3035f8d788f979b438ed8136c4] In 2005 and each subsequent year the Board shall hold an annual general meeting.
 
 (3) An annual general meeting shall be held at such hour as the Board may fix or, if no hour is so fixed, at twelve noon.
 
-**3.**[^key-7947c029870cb3304f8950aa0cd7e620] (1) In 2005 and in each succeeding year the Board shall hold, in addition to the annual general meeting for that year, at least two other meetings for the transaction of business.
+**3.**[^c-7947c029870cb3304f8950aa0cd7e620] (1) In 2005 and in each succeeding year the Board shall hold, in addition to the annual general meeting for that year, at least two other meetings for the transaction of business.
 
 (2) Every such additional meeting shall be held at such hour and on such day as the Board may determine but shall be held as near as may be at regular intervals.
 
@@ -1360,7 +1360,7 @@ Article 16
 
 ### Calling of meetings
 
-**6.**[^key-d0fca7ee129b803d6495b2b3d14b17db] (1) Meetings of the Board shall be held at such place, either within or outside the Cotswolds Area of Outstanding Natural Beauty, as the Board may direct.
+**6.**[^c-d0fca7ee129b803d6495b2b3d14b17db] (1) Meetings of the Board shall be held at such place, either within or outside the Cotswolds Area of Outstanding Natural Beauty, as the Board may direct.
 
 (2) At least three clear days (excluding any day which is a Saturday, Sunday, bank holiday, Christmas Day or Good Friday) before a meeting of the Board—
 
@@ -1453,9 +1453,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5394981]: Marginal citation: The designation order was confirmed on 19th August 1966 and the variation order was confirmed on 21st December 1990. These orders, which were made under section 87 of the National Parks and Access to the [Countryside Act 1949 (c. 97)](https://www.legislation.gov.uk/ukpga/1949/97), are, as a result of paragraph 16 of Schedule 15 to the 2000 Act, to be taken to have been made under section 82 of the 2000 Act.
 
-[^key-a1a5f19eec03fee3c4677970a249541b]: Textual amendment: Word in art. 4(1) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2009/837/article/21/2/a)
+[^c-a1a5f19eec03fee3c4677970a249541b]: Textual amendment: Word in art. 4(1) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2009/837/article/21/2/a)
 
-[^key-302f49e4bb213028a8a05be4ba27a4f9]: Textual amendment: Word in art. 4(2) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2009/837/article/21/2/b)
+[^c-302f49e4bb213028a8a05be4ba27a4f9]: Textual amendment: Word in art. 4(2) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2009/837/article/21/2/b)
 
 [^c5394991]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
@@ -1473,7 +1473,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5395061]: Marginal citation: Part VA of the 1972 Act was inserted by the [Local Government (Access to Information) Act 1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43), [section 1](https://www.legislation.gov.uk/ukpga/1985/43/section/1).
 
-[^key-c13d11bca6434093a6fe3fc81943b2aa]: Textual amendment: [Art. 23A](https://www.legislation.gov.uk/uksi/2004/1777/article/23A) inserted (25.6.2009) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) (Amendment) Order 2009 (S.I. 2009/1579)](https://www.legislation.gov.uk/uksi/2009/1579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2009/1579/article/1/b), [2](https://www.legislation.gov.uk/uksi/2009/1579/article/2)
+[^c-c13d11bca6434093a6fe3fc81943b2aa]: Textual amendment: [Art. 23A](https://www.legislation.gov.uk/uksi/2004/1777/article/23A) inserted (25.6.2009) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) (Amendment) Order 2009 (S.I. 2009/1579)](https://www.legislation.gov.uk/uksi/2009/1579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2009/1579/article/1/b), [2](https://www.legislation.gov.uk/uksi/2009/1579/article/2)
 
 [^c5395071]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
@@ -1519,12 +1519,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5395281]: Marginal citation: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
 
-[^key-a7279d261520d2703c120e999e67c019]: Textual amendment: Words in Sch. 1 omitted (1.4.2009) by virtue of [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [21(3)](https://www.legislation.gov.uk/uksi/2009/837/article/21/3)
+[^c-a7279d261520d2703c120e999e67c019]: Textual amendment: Words in Sch. 1 omitted (1.4.2009) by virtue of [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [21(3)](https://www.legislation.gov.uk/uksi/2009/837/article/21/3)
 
-[^key-53d8cf3035f8d788f979b438ed8136c4]: Modification: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2004/1777/schedule/3/paragraph/2/2) disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/9/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-53d8cf3035f8d788f979b438ed8136c4]: Modification: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2004/1777/schedule/3/paragraph/2/2) disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/9/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-7947c029870cb3304f8950aa0cd7e620]: Modification: Sch. 3 para. 3 disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/9/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-7947c029870cb3304f8950aa0cd7e620]: Modification: Sch. 3 para. 3 disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/9/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-d0fca7ee129b803d6495b2b3d14b17db]: Modification: Sch. 3 para. 6 modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/9/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-d0fca7ee129b803d6495b2b3d14b17db]: Modification: Sch. 3 para. 6 modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/9/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c5395291]: Marginal citation: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794), amended by the [Trade Union Reform and Employment Rights Act 1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19) and [S.I.1995/2587](https://www.legislation.gov.uk/uksi/1995/2587); there are other amending instruments but none is directly relevant to this Order.

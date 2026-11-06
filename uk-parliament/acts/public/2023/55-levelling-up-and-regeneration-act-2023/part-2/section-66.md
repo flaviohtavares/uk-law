@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Proposal for changes to existing combined arrangements[^key-037c5171eb63485b27a07ab6d5c2d106]
+## 66. Proposal for changes to existing combined arrangements[^c-037c5171eb63485b27a07ab6d5c2d106]
 
 *Extent: E+W*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-037c5171eb63485b27a07ab6d5c2d106]: Commencement: S. 66 in force at Royal Assent, see [s. 255(2)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/i)
+[^c-037c5171eb63485b27a07ab6d5c2d106]: Commencement: S. 66 in force at Royal Assent, see [s. 255(2)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/i)

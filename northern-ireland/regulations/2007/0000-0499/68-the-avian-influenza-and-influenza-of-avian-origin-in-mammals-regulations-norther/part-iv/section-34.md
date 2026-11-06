@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Measures in a restricted zone[^key-c62aa334ebdf1413da37c2ff7bcd5c4d]
+## 34. Measures in a restricted zone[^c-c62aa334ebdf1413da37c2ff7bcd5c4d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c62aa334ebdf1413da37c2ff7bcd5c4d]: Commencement: Reg. 34 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-c62aa334ebdf1413da37c2ff7bcd5c4d]: Commencement: Reg. 34 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

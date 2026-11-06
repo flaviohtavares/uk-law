@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Dissolution of Building Standards Advisory Committee[^key-bfdff8be9edfe3f89e3d1bd59569d529]
+## 6. Dissolution of Building Standards Advisory Committee[^c-bfdff8be9edfe3f89e3d1bd59569d529]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfdff8be9edfe3f89e3d1bd59569d529]: Commencement: S. 6 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-bfdff8be9edfe3f89e3d1bd59569d529]: Commencement: S. 6 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

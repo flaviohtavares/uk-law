@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule A1 — Procedure Rules[^key-bf96dc262cc384f6e4a896385ca2c642]
+## Schedule A1 — Procedure Rules[^c-bf96dc262cc384f6e4a896385ca2c642]
 
 *Extent: E+W+S*
 
@@ -197,4 +197,4 @@ In this Schedule, “**the tribunal**” means—
 
 ## Annotations
 
-[^key-bf96dc262cc384f6e4a896385ca2c642]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/1996/17/schedule/A1) inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/1); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/i)
+[^c-bf96dc262cc384f6e4a896385ca2c642]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/1996/17/schedule/A1) inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/1); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/i)

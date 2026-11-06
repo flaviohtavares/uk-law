@@ -27,10 +27,10 @@ summary: ''
 (3) Where by reason of the contravention of any provision contained in regulations made by virtue of this Part—
 
 - (a) a person is convicted of an offence under this Part, or
-- (b) a person pays a penalty under Article 10 or under provision contained in regulations made by virtue of Article 41C[^key-3c961b95cc750be74410c567e6317a5a],
+- (b) a person pays a penalty under Article 10 or under provision contained in regulations made by virtue of Article 41C[^c-3c961b95cc750be74410c567e6317a5a],
 
 then, in respect of that contravention, he shall not, in a case within sub-paragraph (a), be liable to pay such a penalty or, in a case within sub-paragraph (b), be convicted of such an offence.
 
 ## Annotations
 
-[^key-3c961b95cc750be74410c567e6317a5a]: Textual amendment: Words in [art. 113(3)(b)](https://www.legislation.gov.uk/nisi/1995/3213/article/113/3/b) inserted (1.9.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 12(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/12/3); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/e)
+[^c-3c961b95cc750be74410c567e6317a5a]: Textual amendment: Words in [art. 113(3)(b)](https://www.legislation.gov.uk/nisi/1995/3213/article/113/3/b) inserted (1.9.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 12(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/12/3); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/e)

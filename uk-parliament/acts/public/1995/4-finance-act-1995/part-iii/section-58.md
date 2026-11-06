@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Personal pensions: income withdrawals.[^key-eb33e662bacbd713f2fda1bbe89faf8f]
+## 58. Personal pensions: income withdrawals.[^c-eb33e662bacbd713f2fda1bbe89faf8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb33e662bacbd713f2fda1bbe89faf8f]: Textual amendment: [Ss. 58-61](https://www.legislation.gov.uk/ukpga/1995/4/section/58) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-eb33e662bacbd713f2fda1bbe89faf8f]: Textual amendment: [Ss. 58-61](https://www.legislation.gov.uk/ukpga/1995/4/section/58) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

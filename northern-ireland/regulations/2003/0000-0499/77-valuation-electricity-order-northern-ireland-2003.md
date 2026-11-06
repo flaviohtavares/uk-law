@@ -45,15 +45,15 @@ The Department of Finance and Personnel[^f00001], in exercise of the powers conf
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-43d60e6feb73da2857c5b9e3748bc309]
+### 1. Citation and commencement[^c-43d60e6feb73da2857c5b9e3748bc309]
 
 This Order may be cited as the Valuation (Electricity) Order (Northern Ireland) 2003 and shall come into operation on 1st April 2003.
 
-### 2. Interpretation[^key-9f543e0f58982e9368e82502229403d8]
+### 2. Interpretation[^c-9f543e0f58982e9368e82502229403d8]
 
 In this Order –
 
-- “capital value” means capital value for the purposes of the Rates (Northern Ireland) Order 1977 and shall be construed in accordance with Article 39 of that Order;[^key-1b9c1387899dcf0b4b841148aa608e77]
+- “capital value” means capital value for the purposes of the Rates (Northern Ireland) Order 1977 and shall be construed in accordance with Article 39 of that Order;[^c-1b9c1387899dcf0b4b841148aa608e77]
 - “capital value list” has the meaning given by Article 40(1)(b) of the Rates (Northern Ireland) Order 1977;
 - “the Company” means Northern Ireland Electricity plc;
 - “declared net capacity”, in relation to generating plant, means the highest generation of electricity (at the main alternator terminals) which can be maintained indefinitely without causing damage to the plant, less so much of that capacity as is consumed by the plant, expressed in megawatts to the nearest one hundredth part of a megawatt;
@@ -70,7 +70,7 @@ In this Order –
 
 ## PART II — ELECTRICITY GENERATION
 
-### 3. Application[^key-05aa4b2caf4fd171581869d3a5535465]
+### 3. Application[^c-05aa4b2caf4fd171581869d3a5535465]
 
 (1) This Article applies to the class of hereditaments in relation to which the conditions in paragraph (2) are fulfilled.
 
@@ -89,7 +89,7 @@ where –
 
 (3) In determining whether the primary function of a hereditament is for the purpose of generating electricity, no account shall be taken of so much of any heat produced in or on the hereditament as is produced other than for the purpose of the generation of electricity.
 
-### 4. Net annual values[^key-5804ff8fb9fbfb6558289f722bbc6901]
+### 4. Net annual values[^c-5804ff8fb9fbfb6558289f722bbc6901]
 
 In the case of a hereditament falling within the class to which Article 3 applies, its net annual value for the year ending on 31st March 2004 and for each subsequent year shall be an amount produced by applying the formula –
 
@@ -118,17 +118,17 @@ TABLE
 </tbody>
 </table>
 
-### 5. Apportionment[^key-3a89c0765fcb06918ecc7dfabcbd1267]
+### 5. Apportionment[^c-3a89c0765fcb06918ecc7dfabcbd1267]
 
 In the case of a hereditament falling within the class to which Article 3 applies, the net annual value shall be ascribed to the district council district in which the hereditament is situated.
 
 ## PART III — ELECTRICITY TRANSMISSION AND DISTRIBUTION
 
-### 6. Net Annual Value[^key-484235dbd41e1b1b2023449de12b69ad]
+### 6. Net Annual Value[^c-484235dbd41e1b1b2023449de12b69ad]
 
 For the year ending on 31st March 2004 the net annual value of the hereditaments occupied by the Company and specified in column 1 of the Schedule shall be the amounts specified opposite thereto in column 2 of the Schedule.
 
-### 7. Redetermination of net annual value[^key-6e35027a0761f495a26c643ecfc5196c]
+### 7. Redetermination of net annual value[^c-6e35027a0761f495a26c643ecfc5196c]
 
 For the year ending on 31st March 2005 and for each subsequent year the net annual value of the hereditaments occupied by the Company and specified in Part A of the Schedule shall be the amount determined in accordance with the formula –
 
@@ -141,7 +141,7 @@ where –
 - C is the estimated installed transformer capacity (measured in kilovoltamperes) of all the electricity transformation plant in Northern Ireland occupied by the Company on 31st March in the relevant preceding year but excluding plant in or on the hereditament specified in Part B of the Schedule; and
 - D is the estimated installed transformer capacity (measured in kilovoltamperes) of all the electricity transformation plant in Northern Ireland occupied by the Company on 31st March 2003 but excluding plant in or on the hereditament specified in Part B of the Schedule.
 
-**8.**[^key-b9a2b501a1fd2fc0f34967c00506ed27][^key-6e35027a0761f495a26c643ecfc5196c] For the year ending on 31st March 2005 and for each subsequent year the net annual value of the hereditament occupied by the Company and specified in Part B of the Schedule shall be the amount determined in accordance with the formula –
+**8.**[^c-b9a2b501a1fd2fc0f34967c00506ed27][^c-6e35027a0761f495a26c643ecfc5196c] For the year ending on 31st March 2005 and for each subsequent year the net annual value of the hereditament occupied by the Company and specified in Part B of the Schedule shall be the amount determined in accordance with the formula –
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2003/77)
 
@@ -150,9 +150,9 @@ where –
 - E is the estimated installed transformer capacity (measured in kilovoltamperes) of all the electricity transformation plant in or on the hereditament specified in Part B of the Schedule on 31st March in the relevant preceding year; and
 - F is the estimated installed transformer capacity (measured in kilovoltamperes) of all the electricity transformation plant in or on the hereditament specified in Part B of the Schedule on 31st March 2003.
 
-### 9. Apportionment of net annual value[^key-e8bfca5bea203a56e63918bde6b081df]
+### 9. Apportionment of net annual value[^c-e8bfca5bea203a56e63918bde6b081df]
 
-(1)[^key-591bf30e8bcf98b53ebb2269ede701cf] The net annual value of the hereditaments occupied by the Company and specified in Part A of the Schedule shall, for the year ending on 31st March 2008 and for each subsequent year, be apportioned among the districts of district councils in accordance with the formula—
+(1)[^c-591bf30e8bcf98b53ebb2269ede701cf] The net annual value of the hereditaments occupied by the Company and specified in Part A of the Schedule shall, for the year ending on 31st March 2008 and for each subsequent year, be apportioned among the districts of district councils in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2003/77)
 
@@ -168,7 +168,7 @@ where—
 
 (3) The net annual value of the hereditament occupied by the Company and specified in Part B of the Schedule shall, for the year ending on 31st March 2004 and for each subsequent year, be ascribed to the district of Larne district council.
 
-### 10. Revocation[^key-17a739889bd9c63f5e620ce79fd3d1f8]
+### 10. Revocation[^c-17a739889bd9c63f5e620ce79fd3d1f8]
 
 The Valuation (Electricity) Order (Northern Ireland) 1997[^f00005] is hereby revoked.
 
@@ -180,7 +180,7 @@ A senior officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — NET ANNUAL VALUE OF TRANSMISSION AND DISTRIBUTION HEREDITAMENTS OCCUPIED BY THE COMPANY[^key-ab3a24a2966beda21f9878c4748eb32e]
+## SCHEDULE — NET ANNUAL VALUE OF TRANSMISSION AND DISTRIBUTION HEREDITAMENTS OCCUPIED BY THE COMPANY[^c-ab3a24a2966beda21f9878c4748eb32e]
 
 Articles 6 to 9
 
@@ -217,30 +217,30 @@ Article 10 revokes the Valuation (Electricity) Order (Northern Ireland) 1997.
 
 [^f00004]: Footnote: S.I. [1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
 
-[^key-43d60e6feb73da2857c5b9e3748bc309]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-43d60e6feb73da2857c5b9e3748bc309]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-9f543e0f58982e9368e82502229403d8]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2003/77/article/2) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-9f543e0f58982e9368e82502229403d8]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2003/77/article/2) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-1b9c1387899dcf0b4b841148aa608e77]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2003/77/article/2) inserted (1.4.2007) by [The Rates (Consequential Provisions) Order (Northern Ireland) 2007 (S.R. 2007/192)](https://www.legislation.gov.uk/nisr/2007/192), [art. 1](https://www.legislation.gov.uk/nisr/2007/192/article/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nisr/2007/192/schedule/2/paragraph/6/a)
+[^c-1b9c1387899dcf0b4b841148aa608e77]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2003/77/article/2) inserted (1.4.2007) by [The Rates (Consequential Provisions) Order (Northern Ireland) 2007 (S.R. 2007/192)](https://www.legislation.gov.uk/nisr/2007/192), [art. 1](https://www.legislation.gov.uk/nisr/2007/192/article/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nisr/2007/192/schedule/2/paragraph/6/a)
 
-[^key-05aa4b2caf4fd171581869d3a5535465]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2003/77/article/3) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-05aa4b2caf4fd171581869d3a5535465]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2003/77/article/3) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-5804ff8fb9fbfb6558289f722bbc6901]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2003/77/article/4) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-5804ff8fb9fbfb6558289f722bbc6901]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2003/77/article/4) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-3a89c0765fcb06918ecc7dfabcbd1267]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2003/77/article/5) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-3a89c0765fcb06918ecc7dfabcbd1267]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2003/77/article/5) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-484235dbd41e1b1b2023449de12b69ad]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2003/77/article/6) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-484235dbd41e1b1b2023449de12b69ad]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2003/77/article/6) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-6e35027a0761f495a26c643ecfc5196c]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2003/77/article/7) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-6e35027a0761f495a26c643ecfc5196c]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2003/77/article/7) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-b9a2b501a1fd2fc0f34967c00506ed27]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2003/77/article/8) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-b9a2b501a1fd2fc0f34967c00506ed27]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2003/77/article/8) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-e8bfca5bea203a56e63918bde6b081df]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2003/77/article/9) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-e8bfca5bea203a56e63918bde6b081df]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2003/77/article/9) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
-[^key-591bf30e8bcf98b53ebb2269ede701cf]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/nisr/2003/77/article/9/1)[(2)](https://www.legislation.gov.uk/nisr/2003/77/article/9/2) substituted (1.4.2007) by [The Rates (Consequential Provisions) Order (Northern Ireland) 2007 (S.R. 2007/192)](https://www.legislation.gov.uk/nisr/2007/192), [art. 1](https://www.legislation.gov.uk/nisr/2007/192/article/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2007/192/schedule/2/paragraph/6/b)
+[^c-591bf30e8bcf98b53ebb2269ede701cf]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/nisr/2003/77/article/9/1)[(2)](https://www.legislation.gov.uk/nisr/2003/77/article/9/2) substituted (1.4.2007) by [The Rates (Consequential Provisions) Order (Northern Ireland) 2007 (S.R. 2007/192)](https://www.legislation.gov.uk/nisr/2007/192), [art. 1](https://www.legislation.gov.uk/nisr/2007/192/article/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2007/192/schedule/2/paragraph/6/b)
 
-[^key-17a739889bd9c63f5e620ce79fd3d1f8]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2003/77/article/10) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-17a739889bd9c63f5e620ce79fd3d1f8]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2003/77/article/10) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
 
 [^f00005]: Footnote: [S.R. 1997 No. 118](https://www.legislation.gov.uk/nisr/1997/118)
 
-[^key-ab3a24a2966beda21f9878c4748eb32e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2003/77/schedule) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)
+[^c-ab3a24a2966beda21f9878c4748eb32e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2003/77/schedule) in operation at 1.4.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/77/article/1)

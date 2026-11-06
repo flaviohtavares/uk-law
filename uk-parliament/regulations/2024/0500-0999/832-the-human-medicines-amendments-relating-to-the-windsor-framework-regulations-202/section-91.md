@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Amendment to regulation 200[^key-8ec0853383ac7857b8548c96320b5afe]
+## 91. Amendment to regulation 200[^c-8ec0853383ac7857b8548c96320b5afe]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 200 (amendment to study protocols for required studies)[^f00101]â€
 
 ## Annotations
 
-[^key-8ec0853383ac7857b8548c96320b5afe]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2024/832/regulation/91) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-8ec0853383ac7857b8548c96320b5afe]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2024/832/regulation/91) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00101]: Footnote: Paragraph (2) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

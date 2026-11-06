@@ -47,27 +47,27 @@ The Secretary of State for Social Security in exercise of the powers conferred b
 
 (2) In these Rules—
 
-- “complaint” means a complaint falling within section 146(1)(a) and (b)[^key-9312337b1ee3dc9cecdd4245fb99ae39] of the Pension Schemes Act (complaint of maladministration);
-- “complainant” means a person by or in respect of whom the complaint is made or dispute is referred under section 146(1) of the Pension Schemes Act;[^key-6fb834c0af96903621a2b4d5b1a656e0]
-- “dispute” means a dispute falling within section 146(1)(c) and (d)[^key-7cd90e3ddde8df36664e9851b1dc2c30] of the Pension Schemes Act (dispute of fact or law);
+- “complaint” means a complaint falling within section 146(1)(a) and (b)[^c-9312337b1ee3dc9cecdd4245fb99ae39] of the Pension Schemes Act (complaint of maladministration);
+- “complainant” means a person by or in respect of whom the complaint is made or dispute is referred under section 146(1) of the Pension Schemes Act;[^c-6fb834c0af96903621a2b4d5b1a656e0]
+- “dispute” means a dispute falling within section 146(1)(c) and (d)[^c-7cd90e3ddde8df36664e9851b1dc2c30] of the Pension Schemes Act (dispute of fact or law);
 - “party to the investigation” means, as the case may be, the complainant[^M_F_57f4b085-df73-4365-c3fe-c80fe4bbc8e0] or the respondent (as defined in these Rules) and “party” and “parties” shall be construed accordingly;
 - “the Pension Schemes Act” means the Pension Schemes Act 1993;
 - “respondent” means—
-- (a)[^key-18cdf6f9d5c97d0ab38ea49d0dcfe9f1] a person responsible for the management of a personal or an occupational pension scheme, or
-- (b)[^key-8634e7127b85e35b0f19dafa53aa3ff2] any other person to whom Part X of the Pension Schemes Act applies as it applies to a person responsible for the management of a personal or an occupational pension scheme
+- (a)[^c-18cdf6f9d5c97d0ab38ea49d0dcfe9f1] a person responsible for the management of a personal or an occupational pension scheme, or
+- (b)[^c-8634e7127b85e35b0f19dafa53aa3ff2] any other person to whom Part X of the Pension Schemes Act applies as it applies to a person responsible for the management of a personal or an occupational pension scheme
 
 to whom the complaint or dispute relates.
 
 ## 2. Provision of details of complaint or dispute referred
 
-(1) A complainant[^key-6dc88827a3b13b30550ce22813a39695] shall give details of the complaint made or dispute referred in writing.
+(1) A complainant[^c-6dc88827a3b13b30550ce22813a39695] shall give details of the complaint made or dispute referred in writing.
 
 (2) The details shall include—
 
 - (a) the name and address of the complainant;
 - (b) the name and address of the respondent;
 - (c) the facts relating to the complaint or dispute;
-- (d)[^key-916b0e3adecb6018e10723def0e741ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-916b0e3adecb6018e10723def0e741ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the name, address and profession of the representative (if any) of the complainant and whether such address is the address for correspondence to the complainant for the purposes of the investigation.
 
 ## 3. Amendment of details and delivery of supplementary statement
@@ -162,7 +162,7 @@ If no reply is received by the Pensions Ombudsman within the period referred to 
 
 (1) All hearings by the Pensions Ombudsman shall be in public except where by reason of the disclosure of any matter that relates to intimate personal or financial circumstances, is commercially sensitive, consists of information communicated or obtained in confidence or concerns national security, it is just and reasonable for the hearing or any part thereof to be in private.
 
-(2)[^key-f8b2bcb3fb072430a66e1f16b20d67ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f8b2bcb3fb072430a66e1f16b20d67ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Pensions Ombudsman, with the consent of the parties to the investigation, may permit any other person to attend any hearing which is held in private.
 
@@ -195,7 +195,7 @@ At any hearing, any party to the investigation, if an individual, may conduct hi
 
 (5) The Pensions Ombudsman may receive evidence of any fact which appears to him to be relevant notwithstanding that such evidence would be inadmissible in proceedings before a court of law, but shall not refuse to admit any evidence which is admissible at law and is relevant.
 
-## 15A. Payment of travel and subsistence expenses and compensation for lost earnings[^key-a830d74752e1b48a838a749fcbba9835]
+## 15A. Payment of travel and subsistence expenses and compensation for lost earnings[^c-a830d74752e1b48a838a749fcbba9835]
 
 (1) Where the Pensions Ombudsman considers it appropriate for an oral hearing to be held in connection with an investigation conducted by him, he may, having regard to the particular circumstances of the case, make payments in respect of allowances, fees and expenses in accordance with the following provisions of this rule.
 
@@ -277,21 +277,21 @@ An assessment of the cost to business of complying with these Rules has been pre
 
 [^c1778890]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-9312337b1ee3dc9cecdd4245fb99ae39]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/a)
+[^c-9312337b1ee3dc9cecdd4245fb99ae39]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/a)
 
-[^key-6fb834c0af96903621a2b4d5b1a656e0]: Textual amendment: Words in rule 1(2) inserted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/b)
+[^c-6fb834c0af96903621a2b4d5b1a656e0]: Textual amendment: Words in rule 1(2) inserted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/b)
 
-[^key-7cd90e3ddde8df36664e9851b1dc2c30]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/c)
+[^c-7cd90e3ddde8df36664e9851b1dc2c30]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/c)
 
 [^M_F_57f4b085-df73-4365-c3fe-c80fe4bbc8e0]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/2)
 
-[^key-18cdf6f9d5c97d0ab38ea49d0dcfe9f1]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/d)
+[^c-18cdf6f9d5c97d0ab38ea49d0dcfe9f1]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/d)
 
-[^key-8634e7127b85e35b0f19dafa53aa3ff2]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(e)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/e)
+[^c-8634e7127b85e35b0f19dafa53aa3ff2]: Textual amendment: Words in rule 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(1)(e)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/1/e)
 
-[^key-6dc88827a3b13b30550ce22813a39695]: Textual amendment: Words in rule 2(1) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/2)
+[^c-6dc88827a3b13b30550ce22813a39695]: Textual amendment: Words in rule 2(1) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/2)
 
-[^key-916b0e3adecb6018e10723def0e741ee]: Textual amendment: [Rule 2(2)(d)](https://www.legislation.gov.uk/uksi/1995/1053/rule/2/2/d) omitted (6.4.2019) by virtue of [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/13)
+[^c-916b0e3adecb6018e10723def0e741ee]: Textual amendment: [Rule 2(2)(d)](https://www.legislation.gov.uk/uksi/1995/1053/rule/2/2/d) omitted (6.4.2019) by virtue of [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/13)
 
 [^M_F_449b0a72-c788-4dc9-ce86-b368bbd00111]: Textual amendment: Words in rule 3 substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/2)
 
@@ -309,6 +309,6 @@ An assessment of the cost to business of complying with these Rules has been pre
 
 [^M_F_5f5ff93b-3823-44cd-c063-9365551dbd8d]: Textual amendment: Words in rule 9(1) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/2)
 
-[^key-f8b2bcb3fb072430a66e1f16b20d67ed]: Textual amendment: Art. 12(2) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/67)
+[^c-f8b2bcb3fb072430a66e1f16b20d67ed]: Textual amendment: Art. 12(2) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/67)
 
-[^key-a830d74752e1b48a838a749fcbba9835]: Textual amendment: Rule 15A inserted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/3)
+[^c-a830d74752e1b48a838a749fcbba9835]: Textual amendment: Rule 15A inserted (6.4.1997) by [The Personal and Occupational Pension Schemes (Pensions Ombudsman) (Procedure) Amendment Rules 1996 (S.I. 1996/2638)](https://www.legislation.gov.uk/uksi/1996/2638), [rules 1(1)](https://www.legislation.gov.uk/uksi/1996/2638/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/2638/article/2/3)

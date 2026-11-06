@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 71. Bishop may respond to application for review[^key-c45f904392a61fe6bd5cb4b224839105]
+## 71. Bishop may respond to application for review[^c-c45f904392a61fe6bd5cb4b224839105]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Within 21 days of receiving from the archbishop a copy of the application for a 
 
 ## Annotations
 
-[^key-c45f904392a61fe6bd5cb4b224839105]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2005/2022/rule/71) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-c45f904392a61fe6bd5cb4b224839105]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2005/2022/rule/71) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

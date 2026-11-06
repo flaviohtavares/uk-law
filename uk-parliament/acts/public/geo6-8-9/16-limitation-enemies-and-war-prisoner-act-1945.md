@@ -64,7 +64,7 @@ Provided that, where any person was only an enemy as respects a business carried
   - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c591804]
   - section one of the [^c591805]Law Reform (Miscellaneous Provisions) Act 1934,
   - section 13(2) of the[^c591806] [^c591807]Matrimonial Causes Act 1973 and paragraph 11(3) of Schedule 1 to that Act.
-  - section 51(2) of the Civil Partnership Act 2004,[^key-4b2476d0edd8600de9c9129cd663f9b0]
+  - section 51(2) of the Civil Partnership Act 2004,[^c-4b2476d0edd8600de9c9129cd663f9b0]
   - subsection (1) of section four of the[^c591808] [^c591809] Limitation Act 1963
 
   and, in a case to which section 1(1) of the[^c591810] [^c591811] Foreign Limitation Periods Act 1984 applies, so much of the law of any country outside England and Wales as applies by virtue of that Act.
@@ -152,7 +152,7 @@ b in a case to which Article 3(1) of the Foreign Limitation Periods (Northern Ir
 
 [^c591807]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18) .
 
-[^key-4b2476d0edd8600de9c9129cd663f9b0]: Textual amendment: Words in s. 2 inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) , [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b) , [Sch. 27 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/11) ; [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175) , [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-4b2476d0edd8600de9c9129cd663f9b0]: Textual amendment: Words in s. 2 inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) , [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b) , [Sch. 27 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/11) ; [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175) , [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
 [^c591808]: Textual amendment: Words added by [Limitation Act 1963 (c. 47)](https://www.legislation.gov.uk/ukpga/1963/47) , [s. 4(3)](https://www.legislation.gov.uk/ukpga/1963/47/section/4/3)
 

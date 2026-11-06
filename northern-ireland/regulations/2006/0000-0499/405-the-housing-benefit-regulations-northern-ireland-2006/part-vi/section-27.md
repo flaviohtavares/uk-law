@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Average weekly earnings of self-employed earners[^key-ee7b33499aca60c994196b8f7e07d239]
+## 27. Average weekly earnings of self-employed earners[^c-ee7b33499aca60c994196b8f7e07d239]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee7b33499aca60c994196b8f7e07d239]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/405/regulation/27) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-ee7b33499aca60c994196b8f7e07d239]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/405/regulation/27) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

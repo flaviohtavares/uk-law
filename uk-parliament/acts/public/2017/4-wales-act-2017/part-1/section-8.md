@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Elections of police and crime commissioners[^key-184904f3c75533735dff1c4d96ecaaf1]
+## 8. Elections of police and crime commissioners[^c-184904f3c75533735dff1c4d96ecaaf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-184904f3c75533735dff1c4d96ecaaf1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/4/section/8) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/b)
+[^c-184904f3c75533735dff1c4d96ecaaf1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/4/section/8) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/b)

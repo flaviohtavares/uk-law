@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Proposals for modification at instance of Agency or Secretary of State[^key-3777de46f6f329567aa7a9918f02e2c0]
+## 22. Proposals for modification at instance of Agency or Secretary of State[^c-3777de46f6f329567aa7a9918f02e2c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3777de46f6f329567aa7a9918f02e2c0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2003/37/section/22) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(l)](https://www.legislation.gov.uk/uksi/2006/984/article/2/l)
+[^c-3777de46f6f329567aa7a9918f02e2c0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2003/37/section/22) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(l)](https://www.legislation.gov.uk/uksi/2006/984/article/2/l)

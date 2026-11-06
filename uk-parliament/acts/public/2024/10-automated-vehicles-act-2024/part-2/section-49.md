@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. User-in-charge otherwise liable as driver[^key-3e370d443c7eccd050c59a9ff75cd2b4]
+## 49. User-in-charge otherwise liable as driver[^c-3e370d443c7eccd050c59a9ff75cd2b4]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e370d443c7eccd050c59a9ff75cd2b4]: Commencement: S. 49 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-3e370d443c7eccd050c59a9ff75cd2b4]: Commencement: S. 49 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

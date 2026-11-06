@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23E. Procedure in relation to the refusal of an application for registration of a qualifying social entrepreneurship fund or qualifying venture capital fund[^key-bc03cb62968a36126aa3b5042282eb10]
+## 23E. Procedure in relation to the refusal of an application for registration of a qualifying social entrepreneurship fund or qualifying venture capital fund[^c-bc03cb62968a36126aa3b5042282eb10]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc03cb62968a36126aa3b5042282eb10]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/uksi/2013/1773/part/3B) inserted (1.3.2018) by [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2018/134/regulation/2/9)
+[^c-bc03cb62968a36126aa3b5042282eb10]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/uksi/2013/1773/part/3B) inserted (1.3.2018) by [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2018/134/regulation/2/9)

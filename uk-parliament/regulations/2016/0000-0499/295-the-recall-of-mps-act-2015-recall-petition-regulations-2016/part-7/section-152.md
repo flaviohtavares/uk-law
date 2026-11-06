@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Notices in connection with alteration of registers: amendments[^key-ebf8d8414a95b9b13dcb16f1888735d3]
+## 152. Notices in connection with alteration of registers: amendments[^c-ebf8d8414a95b9b13dcb16f1888735d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebf8d8414a95b9b13dcb16f1888735d3]: Commencement: Reg. 152 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-ebf8d8414a95b9b13dcb16f1888735d3]: Commencement: Reg. 152 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

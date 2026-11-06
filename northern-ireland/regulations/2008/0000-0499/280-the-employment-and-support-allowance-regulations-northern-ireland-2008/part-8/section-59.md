@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Deferral of requirement to take part in a work-focused interview[^key-96afb31a13fdb9d6e22deb827fc52c68]
+## 59. Deferral of requirement to take part in a work-focused interview[^c-96afb31a13fdb9d6e22deb827fc52c68]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96afb31a13fdb9d6e22deb827fc52c68]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2008/280/regulation/59) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-96afb31a13fdb9d6e22deb827fc52c68]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2008/280/regulation/59) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

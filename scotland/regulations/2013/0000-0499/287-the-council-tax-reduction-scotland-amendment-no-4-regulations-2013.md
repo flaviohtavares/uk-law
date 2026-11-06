@@ -46,37 +46,37 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers in sections 80 and 113(1) and (2) of, and paragraph 1 of Schedule 2 to, the Local Government Finance Act 1992[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-38f1ad7e066a52979e388b0e9d5d1c09]
+## 1. Citation and commencement[^c-38f1ad7e066a52979e388b0e9d5d1c09]
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2013 and come into force on 25th November 2013.
 
-## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-d9966cbfb0743e3fb21356eaedb7a35e]
+## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-d9966cbfb0743e3fb21356eaedb7a35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d9966cbfb0743e3fb21356eaedb7a35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-e9a0a7d31aae7edc22ebd7c7641dd248]
+## 12. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-e9a0a7d31aae7edc22ebd7c7641dd248]
 
 The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00010] are amended in accordance with regulations 13 to 18.
 
-**13.**[^key-9e750d3c581504aaa0ea60cc2236c624] In regulation 2(1) (interpretation)—
+**13.**[^c-9e750d3c581504aaa0ea60cc2236c624] In regulation 2(1) (interpretation)—
 
 - (a) in the definition of “child”, at the end insert—
 
@@ -91,7 +91,7 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
 
   .
 
-**14.**[^key-6a0281373d4921661062283677a44ad0] In regulation 4 (young persons)[^f00013], after paragraph (2) insert—
+**14.**[^c-6a0281373d4921661062283677a44ad0] In regulation 4 (young persons)[^f00013], after paragraph (2) insert—
 
 > (3) Where section 145A of the 1992 Act[^f00014] (entitlement after death of a child or qualifying young person) applies, then during the period prescribed under subsection (1) of that section (and only during that period)—
 >
@@ -100,17 +100,17 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
 
 .
 
-**15.**[^key-73a1d9d33f56015624058e7fba1c096f] In regulation 12(2) (application of the Regulations), after “income support,” insert “universal credit,”.
+**15.**[^c-73a1d9d33f56015624058e7fba1c096f] In regulation 12(2) (application of the Regulations), after “income support,” insert “universal credit,”.
 
-**16.**[^key-4856912e320ca3216e9dbdab92d7edb3] In the heading to regulation 30, omit “**working**”.
+**16.**[^c-4856912e320ca3216e9dbdab92d7edb3] In the heading to regulation 30, omit “**working**”.
 
-**17.**[^key-d3d01bcf36a12ee1d95d915abdfa7303] In regulation 30 (calculation of average weekly income from tax credits)—
+**17.**[^c-d3d01bcf36a12ee1d95d915abdfa7303] In regulation 30 (calculation of average weekly income from tax credits)—
 
 - (a) in paragraph (1) after “working tax credit” insert “or child tax credit”;
 - (b) in paragraph (2) omit “Where this regulation applies,”; and
 - (c) in paragraphs (2) and (3) for “a working” substitute “that”.
 
-**18.**[^key-438f774fe4fe98ddffbca33a8d171292] In paragraph 1 (amount of alternative maximum council tax reduction)[^f00015] of Schedule 5, in item (a) in column (1) in the table omit “or in receipt of universal credit”.
+**18.**[^c-438f774fe4fe98ddffbca33a8d171292] In paragraph 1 (amount of alternative maximum council tax reduction)[^f00015] of Schedule 5, in item (a) in column (1) in the table omit “or in receipt of universal credit”.
 
 JOHN SWINNEY
 
@@ -150,32 +150,32 @@ Regulation 18 makes provision for universal credit in the SPC CTR Regulation equ
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39) and [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-38f1ad7e066a52979e388b0e9d5d1c09]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-38f1ad7e066a52979e388b0e9d5d1c09]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
-[^key-d9966cbfb0743e3fb21356eaedb7a35e]: Textual amendment: [Regs. 2-11](https://www.legislation.gov.uk/ssi/2013/287/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-d9966cbfb0743e3fb21356eaedb7a35e]: Textual amendment: [Regs. 2-11](https://www.legislation.gov.uk/ssi/2013/287/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-e9a0a7d31aae7edc22ebd7c7641dd248]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/287/regulation/12) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-e9a0a7d31aae7edc22ebd7c7641dd248]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/287/regulation/12) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142) and [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218).
 
-[^key-9e750d3c581504aaa0ea60cc2236c624]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/287/regulation/13) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-9e750d3c581504aaa0ea60cc2236c624]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/287/regulation/13) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
 [^f00011]: Footnote: Section 145A was inserted by section 55 of the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21) and amended by paragraph 48 of Schedule 24 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and paragraph 12 of Schedule 1 to the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6).
 
 [^f00012]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-6a0281373d4921661062283677a44ad0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/287/regulation/14) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-6a0281373d4921661062283677a44ad0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/287/regulation/14) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
 [^f00013]: Footnote: Regulation 4 was amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49).
 
 [^f00014]: Footnote: Section 145A was inserted by section 55 of the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21) and amended by paragraph 48 of Schedule 24 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and paragraph 12 of Schedule 1 to the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6).
 
-[^key-73a1d9d33f56015624058e7fba1c096f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/287/regulation/15) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-73a1d9d33f56015624058e7fba1c096f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/287/regulation/15) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
-[^key-4856912e320ca3216e9dbdab92d7edb3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/287/regulation/16) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-4856912e320ca3216e9dbdab92d7edb3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/287/regulation/16) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
-[^key-d3d01bcf36a12ee1d95d915abdfa7303]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/287/regulation/17) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-d3d01bcf36a12ee1d95d915abdfa7303]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/287/regulation/17) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
-[^key-438f774fe4fe98ddffbca33a8d171292]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/287/regulation/18) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
+[^c-438f774fe4fe98ddffbca33a8d171292]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/287/regulation/18) in force at 25.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1)
 
 [^f00015]: Footnote: There are amendments to paragraph 1 that are not relevant to these Regulations.

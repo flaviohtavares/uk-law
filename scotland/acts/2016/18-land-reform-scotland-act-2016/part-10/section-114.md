@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Amnesty notice[^key-4bf3409d2b3f71421a3465fc9af178a5]
+## 114. Amnesty notice[^c-4bf3409d2b3f71421a3465fc9af178a5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bf3409d2b3f71421a3465fc9af178a5]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2016/18/section/114) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/20/regulation/5))
+[^c-4bf3409d2b3f71421a3465fc9af178a5]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2016/18/section/114) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/20/regulation/5))

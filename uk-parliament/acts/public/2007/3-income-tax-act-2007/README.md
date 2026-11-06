@@ -158,7 +158,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 41 — Allowances in year of death](part-3/section-41.md)
 
-#### Chapter 3 — Tax reductions for married couples and civil partners: persons born before 6 April 1935[^key-76fca3067f738ee7095bbed1b34de794]
+#### Chapter 3 — Tax reductions for married couples and civil partners: persons born before 6 April 1935[^c-76fca3067f738ee7095bbed1b34de794]
 
 *Extent: E+W+S+N.I.*
 
@@ -192,22 +192,22 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 54 — Tax reductions in the year of marriage or entry into civil partnership](part-3/section-54.md)
 - [Section 55 — Sections 45 to 53: supplementary](part-3/section-55.md)
 
-#### CHAPTER 3A — Transferable tax allowance for married couples and civil partners[^key-43c97adaec095385e898551abeefba9d]
+#### CHAPTER 3A — Transferable tax allowance for married couples and civil partners[^c-43c97adaec095385e898551abeefba9d]
 
-##### Introduction[^key-43c97adaec095385e898551abeefba9d]
+##### Introduction[^c-43c97adaec095385e898551abeefba9d]
 
 - [Section 55A — Tax reduction under Chapter](part-3/section-55a.md)
 
-##### Tax reduction[^key-43c97adaec095385e898551abeefba9d]
+##### Tax reduction[^c-43c97adaec095385e898551abeefba9d]
 
 - [Section 55B — Tax reduction: entitlement](part-3/section-55b.md)
 
-##### Election to reduce personal allowance[^key-43c97adaec095385e898551abeefba9d]
+##### Election to reduce personal allowance[^c-43c97adaec095385e898551abeefba9d]
 
 - [Section 55C — Election to reduce personal allowance](part-3/section-55c.md)
 - [Section 55D — Procedure for elections under section 55C](part-3/section-55d.md)
 
-##### Supplementary[^key-43c97adaec095385e898551abeefba9d]
+##### Supplementary[^c-43c97adaec095385e898551abeefba9d]
 
 - [Section 55E — Limitation on number of tax reductions and elections](part-3/section-55e.md)
 
@@ -271,7 +271,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 73 — How relief works](part-4/section-73.md)
 - [Section 74 — Restrictions on relief unless trade is commercial etc](part-4/section-74.md)
 
-##### General restrictions on sideways relief and capital gains relief[^key-31d4b34e2390218cef3e9f526b325ce8]
+##### General restrictions on sideways relief and capital gains relief[^c-31d4b34e2390218cef3e9f526b325ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -281,7 +281,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 74C — Meaning of “non-active capacity” for purposes of section 74A etc](part-4/section-74c.md)
 - [Section 74D — Meaning of “qualifying film expenditure” for purposes of sections 74ZA and 74A](part-4/section-74d.md)
 
-##### ...[^key-8b3bfd355678cdea736f7dc8097b6433]
+##### ...[^c-8b3bfd355678cdea736f7dc8097b6433]
 
 *Extent: E+W+S+N.I.*
 
@@ -352,7 +352,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 103A — Meaning of “limited partner”](part-4/section-103a.md)
 - [Section 103B — Meaning of “non-active partner” etc](part-4/section-103b.md)
 
-##### Limit on amount of sideways relief and capital gains relief[^key-f3ed9f77eafffaf95719f0a7c015cbdd]
+##### Limit on amount of sideways relief and capital gains relief[^c-f3ed9f77eafffaf95719f0a7c015cbdd]
 
 - [Section 103C — Limit on reliefs in any tax year not to exceed cap for tax year](part-4/section-103c.md)
 - [Section 103D — Meaning of “qualifying film expenditure”](part-4/section-103d.md)
@@ -378,11 +378,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 112 — Meaning of “early tax year”](part-4/section-112.md)
 - [Section 113 — Unrelieved losses brought forward](part-4/section-113.md)
 
-##### Exclusion of amounts in calculating contribution to the firm or LLP[^key-38e54178fffa3735668e77a4b6c5c965]
+##### Exclusion of amounts in calculating contribution to the firm or LLP[^c-38e54178fffa3735668e77a4b6c5c965]
 
 - [Section 113A — Exclusion of amounts contributed to access relief](part-4/section-113a.md)
 
-##### ...[^key-72ffb8e606492030788525c0f5a87e20]
+##### ...[^c-72ffb8e606492030788525c0f5a87e20]
 
 *Extent: E+W+S+N.I.*
 
@@ -393,7 +393,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 115 — Restrictions on reliefs for firms exploiting films](part-4/section-115.md)
 - [Section 116 — Exclusion from restrictions under section 115: certain film expenditure](part-4/section-116.md)
 
-##### Partnerships with mixed membership etc[^key-7e15ea451344f62c1d260f5969125645]
+##### Partnerships with mixed membership etc[^c-7e15ea451344f62c1d260f5969125645]
 
 - [Section 116A — Excess loss allocation to partners who are individuals](part-4/section-116a.md)
 
@@ -423,14 +423,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 125 — Post-cessation property relief](part-4/section-125.md)
 - [Section 126 — Treating excess post-cessation property relief as CGT loss](part-4/section-126.md)
 
-##### ...[^key-13595f5aa44e175cae159ace4b284cfd]
+##### ...[^c-13595f5aa44e175cae159ace4b284cfd]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 127 — UK furnished holiday lettings business treated as trade](part-4/section-127.md)
 - [Section 127ZA — EEA furnished holiday lettings business treated as trade](part-4/section-127za.md)
 
-##### Restrictions on relief[^key-4ddd6f509fa3761917a19b19efa89f7a]
+##### Restrictions on relief[^c-4ddd6f509fa3761917a19b19efa89f7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -738,7 +738,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 250 — Nominees and bare trustees](part-5/section-250.md)
 - [Section 251 — Approved knowledge-intensive fund as nominee](part-5/section-251.md)
 
-##### Powers to amend[^key-f64585eec40d540827b3a3f73ef09d60]
+##### Powers to amend[^c-f64585eec40d540827b3a3f73ef09d60]
 
 - [Section 251A — Powers to amend Chapters 2 to 4 by Treasury regulations](part-5/section-251a.md)
 
@@ -757,13 +757,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 256B — Meaning of “specified Northern Ireland company”](part-5/section-256b.md)
 - [Section 257 — Minor definitions etc](part-5/section-257.md)
 
-### PART 5A — Seed enterprise investment scheme[^key-592ad21e8d26a68382b8374fb149ec04][^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+### PART 5A — Seed enterprise investment scheme[^c-592ad21e8d26a68382b8374fb149ec04][^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Introduction[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 1 — Introduction[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### SEIS relief[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### SEIS relief[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -772,19 +772,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257AAA — Risk-to-capital condition](part-5a/section-257aaa.md)
 - [Section 257AB — Form and amount of SEIS relief](part-5a/section-257ab.md)
 
-##### Miscellaneous[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Miscellaneous[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257AC — Meaning of “period A” and “period B”](part-5a/section-257ac.md)
 - [Section 257AD — Overview of other Chapters of Part](part-5a/section-257ad.md)
 - [Section 257AE — CGT reliefs relating to SEIS](part-5a/section-257ae.md)
 
-#### CHAPTER 2 — The investor[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 2 — The investor[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### Introduction[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Introduction[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257B — Overview of Chapter](part-5a/section-257b.md)
 
-##### The requirements[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### The requirements[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257BA — The no employee investors requirement](part-5a/section-257ba.md)
 - [Section 257BB — The no substantial interest in the issuing company requirement](part-5a/section-257bb.md)
@@ -792,17 +792,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257BD — The no linked loan requirement](part-5a/section-257bd.md)
 - [Section 257BE — The no tax avoidance requirement](part-5a/section-257be.md)
 
-##### Meaning of substantial interest in a company[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Meaning of substantial interest in a company[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257BF — Persons with a substantial interest in a company](part-5a/section-257bf.md)
 
-#### CHAPTER 3 — General requirements[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 3 — General requirements[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### Introduction[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Introduction[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257C — Overview of Chapter](part-5a/section-257c.md)
 
-##### The requirements[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### The requirements[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257CA — The shares requirement](part-5a/section-257ca.md)
 - [Section 257CB — The purpose of the issue requirement](part-5a/section-257cb.md)
@@ -811,13 +811,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257CE — The no tax avoidance requirement](part-5a/section-257ce.md)
 - [Section 257CF — The no disqualifying arrangements requirement](part-5a/section-257cf.md)
 
-#### CHAPTER 4 — The issuing company[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 4 — The issuing company[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### Introduction[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Introduction[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257D — Overview of Chapter](part-5a/section-257d.md)
 
-##### The requirements[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### The requirements[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257DA — The trading requirement](part-5a/section-257da.md)
 - [Section 257DB — Ceasing to meet trading requirement: administration etc](part-5a/section-257db.md)
@@ -834,18 +834,18 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257DM — The qualifying subsidiaries requirement](part-5a/section-257dm.md)
 - [Section 257DN — The property managing subsidiaries requirement](part-5a/section-257dn.md)
 
-#### CHAPTER 5 — Attribution and claims for SEIS relief[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 5 — Attribution and claims for SEIS relief[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### Attribution[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Attribution[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257E — Attribution of SEIS relief to shares](part-5a/section-257e.md)
 
-##### Claims: general[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Claims: general[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257EA — Time for making claims for SEIS relief](part-5a/section-257ea.md)
 - [Section 257EB — Entitlement to claim](part-5a/section-257eb.md)
 
-##### Claims: supporting documents[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Claims: supporting documents[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257EC — Compliance certificates](part-5a/section-257ec.md)
 - [Section 257ED — Compliance statements](part-5a/section-257ed.md)
@@ -853,9 +853,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257EF — Penalties for fraudulent certificate or statement etc](part-5a/section-257ef.md)
 - [Section 257EG — Power to amend sections 257EC and 257ED](part-5a/section-257eg.md)
 
-#### CHAPTER 6 — Withdrawal or reduction of SEIS relief[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 6 — Withdrawal or reduction of SEIS relief[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### Introduction[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Introduction[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257F — Overview of Chapter](part-5a/section-257f.md)
 - [Section 257FA — Disposal of shares](part-5a/section-257fa.md)
@@ -863,7 +863,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257FC — Call options](part-5a/section-257fc.md)
 - [Section 257FD — Put options](part-5a/section-257fd.md)
 
-##### Value received by investor[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Value received by investor[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257FE — Value received by the investor](part-5a/section-257fe.md)
 - [Section 257FF — Value received: receipts of insignificant value](part-5a/section-257ff.md)
@@ -877,26 +877,26 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257FN — Receipt of replacement value](part-5a/section-257fn.md)
 - [Section 257FO — Section 257FN: supplementary](part-5a/section-257fo.md)
 
-##### Miscellaneous[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Miscellaneous[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257FP — Acquisition of trade or trading assets](part-5a/section-257fp.md)
 - [Section 257FQ — Acquisition of share capital](part-5a/section-257fq.md)
 - [Section 257FR — Relief subsequently found not to have been due](part-5a/section-257fr.md)
 
-#### CHAPTER 7 — Withdrawal or reduction of SEIS relief: procedure[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 7 — Withdrawal or reduction of SEIS relief: procedure[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### Assessments and appeals[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Assessments and appeals[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257G — Assessments for the withdrawal or reduction of SEIS relief](part-5a/section-257g.md)
 - [Section 257GA — Appeals against section 257FR(3)(b) notices](part-5a/section-257ga.md)
 - [Section 257GB — Time limits for assessments](part-5a/section-257gb.md)
 - [Section 257GC — Cases where assessments not to be made](part-5a/section-257gc.md)
 
-##### Interest[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Interest[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257GD — Date from which interest is chargeable](part-5a/section-257gd.md)
 
-##### Information[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Information[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257GE — Information to be provided by the investor](part-5a/section-257ge.md)
 - [Section 257GF — Information to be provided by the issuing company etc](part-5a/section-257gf.md)
@@ -904,24 +904,24 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257GH — Power to require information in other cases](part-5a/section-257gh.md)
 - [Section 257GI — Obligations of secrecy](part-5a/section-257gi.md)
 
-#### CHAPTER 8 — Supplementary and general[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+#### CHAPTER 8 — Supplementary and general[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
-##### Disposals of shares[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Disposals of shares[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257H — Transfers between spouses or civil partners](part-5a/section-257h.md)
 - [Section 257HA — Identification of shares on a disposal](part-5a/section-257ha.md)
 
-##### Acquisition of issuing company[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Acquisition of issuing company[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257HB — Continuity of SEIS relief where issuing company is acquired by new company](part-5a/section-257hb.md)
 - [Section 257HC — Carry over of obligations etc where SEIS relief attributed to new shares](part-5a/section-257hc.md)
 - [Section 257HD — Substitution of new shares for old shares](part-5a/section-257hd.md)
 
-##### Nominees etc[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Nominees etc[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257HE — Nominees and bare trustees](part-5a/section-257he.md)
 
-##### Interpretation[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+##### Interpretation[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 - [Section 257HF — Meaning of “new qualifying trade”](part-5a/section-257hf.md)
 - [Section 257HG — Meaning of “qualifying business activity”](part-5a/section-257hg.md)
@@ -929,11 +929,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257HI — Meaning of “issue of shares”](part-5a/section-257hi.md)
 - [Section 257HJ — Minor definitions](part-5a/section-257hj.md)
 
-### PART 5B — Tax relief for social investments[^key-aaf10c7dc329529b2ca19087f01e69e7]
+### PART 5B — Tax relief for social investments[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Introduction[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 1 — Introduction[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257J — Meaning of “SI relief” and “social enterprise”](part-5b/section-257j.md)
 - [Section 257JA — Form and amount of relief](part-5b/section-257ja.md)
@@ -945,23 +945,23 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257JG — Period of accreditation as a social impact contractor](part-5b/section-257jg.md)
 - [Section 257JH — Functions of Ministers of the Crown under sections 257JD to 257JG](part-5b/section-257jh.md)
 
-#### CHAPTER 2 — Eligibility for relief: basic rule and key definitions[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 2 — Eligibility for relief: basic rule and key definitions[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
-##### Eligibility[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Eligibility[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 257K — Eligibility for SI relief](part-5b/section-257k.md)
 
-##### Key definitions[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Key definitions[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257KA — Key to reading the rest of the Part](part-5b/section-257ka.md)
 - [Section 257KB — When investment is made, and “investment date”](part-5b/section-257kb.md)
 - [Section 257KC — “Shorter applicable period” and “longer applicable period”](part-5b/section-257kc.md)
 
-#### CHAPTER 3 — Eligibility: conditions relating to the investor and the investment[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 3 — Eligibility: conditions relating to the investor and the investment[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -977,11 +977,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257LG — The requirement not to be interested in capital etc of social enterprise](part-5b/section-257lg.md)
 - [Section 257LH — Requirement for no collusion with a non-qualifying investor](part-5b/section-257lh.md)
 
-#### CHAPTER 4 — Eligibility: conditions relating to the social enterprise[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 4 — Eligibility: conditions relating to the social enterprise[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
-##### Conditions relating to the social enterprise: general[^key-aaf10c7dc329529b2ca19087f01e69e7][^key-5fd42c0c82451e936ee51c287a0007a4]
+##### Conditions relating to the social enterprise: general[^c-aaf10c7dc329529b2ca19087f01e69e7][^c-5fd42c0c82451e936ee51c287a0007a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1002,7 +1002,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257MM — Requirement to use money raised and to trade for minimum period](part-5b/section-257mm.md)
 - [Section 257MN — The social enterprise must carry on the chosen trade](part-5b/section-257mn.md)
 
-##### Limits on amounts that may be invested[^key-4669edb8015b924c0b55fe9679af79e9][^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Limits on amounts that may be invested[^c-4669edb8015b924c0b55fe9679af79e9][^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257MNA — Maximum amount where investment made in first 7 years](part-5b/section-257mna.md)
 - [Section 257MNB — Section 257MNA: supplementary](part-5b/section-257mnb.md)
@@ -1010,7 +1010,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257MND — Limit on investment in shorter applicable period](part-5b/section-257mnd.md)
 - [Section 257MNE — Power to amend limits on amounts that may be invested](part-5b/section-257mne.md)
 
-##### Interpretation of conditions relating to the social enterprise[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Interpretation of conditions relating to the social enterprise[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -1024,11 +1024,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257MV — Meaning of “90% social subsidiary” of a social enterprise](part-5b/section-257mv.md)
 - [Section 257MW — Excluded activities: power to amend](part-5b/section-257mw.md)
 
-#### CHAPTER 5 — Attribution of relief[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 5 — Attribution of relief[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257N — Attribution of SI relief to investments](part-5b/section-257n.md)
 
-#### CHAPTER 6 — Claims for relief[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 6 — Claims for relief[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -1039,9 +1039,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257PD — Penalties for fraudulent certificate or statement etc](part-5b/section-257pd.md)
 - [Section 257PE — Power to amend Chapter](part-5b/section-257pe.md)
 
-#### CHAPTER 7 — Withdrawal or reduction of SI relief[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 7 — Withdrawal or reduction of SI relief[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
-##### Value received by the investor[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Value received by the investor[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257Q — Effect of the investor receiving value from the social enterprise](part-5b/section-257q.md)
 - [Section 257QA — Value received: insignificant receipts](part-5b/section-257qa.md)
@@ -1054,7 +1054,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257QH — Receipt of replacement value](part-5b/section-257qh.md)
 - [Section 257QI — Section 257QH: supplementary](part-5b/section-257qi.md)
 
-##### Repayments etc of investments to other persons[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Repayments etc of investments to other persons[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257QJ — Repayments etc of share capital to other persons](part-5b/section-257qj.md)
 - [Section 257QK — Insignificant payments ignored for the purposes of section 257QJ](part-5b/section-257qk.md)
@@ -1064,33 +1064,33 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257QO — Maximum relief not obtained for share issue](part-5b/section-257qo.md)
 - [Section 257QP — Repayment of authorised minimum within 12 months](part-5b/section-257qp.md)
 
-##### Miscellaneous[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Miscellaneous[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257QQ — Acquisition of a trade or trading assets](part-5b/section-257qq.md)
 - [Section 257QR — Acquisition of share capital](part-5b/section-257qr.md)
 - [Section 257QS — Relief subsequently found not to have been due](part-5b/section-257qs.md)
 
-##### Disposals[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Disposals[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257R — Disposal of whole or part of the investment](part-5b/section-257r.md)
 - [Section 257RA — Cases where maximum relief not obtained](part-5b/section-257ra.md)
 - [Section 257RB — Call options](part-5b/section-257rb.md)
 - [Section 257RC — Put options](part-5b/section-257rc.md)
 
-#### CHAPTER 8 — Withdrawal or reduction of SI relief: procedure[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 8 — Withdrawal or reduction of SI relief: procedure[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
-##### Assessments and appeals[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Assessments and appeals[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257S — Assessments for the withdrawal or reduction of SI relief](part-5b/section-257s.md)
 - [Section 257SA — Appeals against section 257QS(3)(b) notices](part-5b/section-257sa.md)
 - [Section 257SB — Time limits for assessments](part-5b/section-257sb.md)
 - [Section 257SC — Cases where assessment not to be made](part-5b/section-257sc.md)
 
-##### Interest[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Interest[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257SD — Date from which interest is chargeable](part-5b/section-257sd.md)
 
-##### Information[^key-aaf10c7dc329529b2ca19087f01e69e7]
+##### Information[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257SE — Information to be provided by the investor](part-5b/section-257se.md)
 - [Section 257SF — Information to be provided by the social enterprise etc](part-5b/section-257sf.md)
@@ -1098,7 +1098,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257SH — Power to require information in other cases](part-5b/section-257sh.md)
 - [Section 257SI — Confidentiality](part-5b/section-257si.md)
 
-#### CHAPTER 9 — Miscellaneous and supplementary provisions[^key-aaf10c7dc329529b2ca19087f01e69e7]
+#### CHAPTER 9 — Miscellaneous and supplementary provisions[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 - [Section 257T — Transfers between spouses or civil partners](part-5b/section-257t.md)
 - [Section 257TA — Identification of investments on a disposal](part-5b/section-257ta.md)
@@ -1289,11 +1289,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 329 — Conversion of convertible shares and securities](part-6/section-329.md)
 - [Section 330 — Power to facilitate company reorganisations etc involving exchange of shares](part-6/section-330.md)
 
-##### Nominees[^key-4e0c410c39b3d7391add8d2a396b4c72]
+##### Nominees[^c-4e0c410c39b3d7391add8d2a396b4c72]
 
 - [Section 330A — Nominees](part-6/section-330a.md)
 
-##### Power to amend Part[^key-ef7936db0b5f2ccef4cca352edc6a005]
+##### Power to amend Part[^c-ef7936db0b5f2ccef4cca352edc6a005]
 
 - [Section 330B — Powers to amend Chapters 3 and 4 by Treasury regulations](part-6/section-330b.md)
 
@@ -1307,7 +1307,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 331C — Meaning of “specified Northern Ireland company”](part-6/section-331c.md)
 - [Section 332 — Minor definitions etc](part-6/section-332.md)
 
-### Part 7 — Community investment tax relief[^key-539d405677ddb48b78e59b5295f4fbeb]
+### Part 7 — Community investment tax relief[^c-539d405677ddb48b78e59b5295f4fbeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -1401,7 +1401,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Chapter 7 — Supplementary and general
 
-##### Alternative finance arrangements[^key-4efa7821fcab0dfe284a5d190f05a92e]
+##### Alternative finance arrangements[^c-4efa7821fcab0dfe284a5d190f05a92e]
 
 - [Section 372A — Meaning of “loan” and “interest”](part-7/section-372a.md)
 - [Section 372B — Purchase and resale arrangements](part-7/section-372b.md)
@@ -1451,7 +1451,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 390 — Loan to buy plant or machinery for employment use](part-8/section-390.md)
 - [Section 391 — Eligibility requirements for interest on loans within section 390](part-8/section-391.md)
 
-##### Loans for interests in close companies etc[^key-8c4d96b040394b0a287266adc18bff90]
+##### Loans for interests in close companies etc[^c-8c4d96b040394b0a287266adc18bff90]
 
 *Extent: E+W+S+N.I.*
 
@@ -1497,23 +1497,23 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 411 — Ineligibility of interest where business is occupation of commercial woodlands](part-8/section-411.md)
 - [Section 412 — Information](part-8/section-412.md)
 
-#### CHAPTER 1A — Irrecoverable peer-to-peer loans[^key-60a4c6052bc4044e0953b17c65a529c3]
+#### CHAPTER 1A — Irrecoverable peer-to-peer loans[^c-60a4c6052bc4044e0953b17c65a529c3]
 
-##### The relief[^key-60a4c6052bc4044e0953b17c65a529c3]
+##### The relief[^c-60a4c6052bc4044e0953b17c65a529c3]
 
 - [Section 412A — Relief for irrecoverable peer-to-peer loans](part-8/section-412a.md)
 - [Section 412B — Claims for additional relief: sideways relief](part-8/section-412b.md)
 - [Section 412C — Claims for additional relief: carry-forward relief](part-8/section-412c.md)
 - [Section 412D — How carry-forward relief works](part-8/section-412d.md)
 
-##### Supplementary provisions[^key-60a4c6052bc4044e0953b17c65a529c3]
+##### Supplementary provisions[^c-60a4c6052bc4044e0953b17c65a529c3]
 
 - [Section 412E — Subsequent recovery of peer-to-peer loans](part-8/section-412e.md)
 - [Section 412F — Assigned loans treated as made by the assignee etc](part-8/section-412f.md)
 - [Section 412G — Nominees etc](part-8/section-412g.md)
 - [Section 412H — Interaction with other reliefs](part-8/section-412h.md)
 
-##### Interpretation[^key-60a4c6052bc4044e0953b17c65a529c3]
+##### Interpretation[^c-60a4c6052bc4044e0953b17c65a529c3]
 
 - [Section 412I — Meaning of “loan”, “peer-to-peer loan” and related terms](part-8/section-412i.md)
 - [Section 412J — Meaning of “operator” and related terms](part-8/section-412j.md)
@@ -1598,7 +1598,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 445 — Prohibition against double relief](part-8/section-445.md)
 - [Section 446 — “Charity” to include exempt bodies](part-8/section-446.md)
 
-#### Chapter 4 — Annual payments ...[^key-e4772cb70d5386cad0996fc998b08b5c]
+#### Chapter 4 — Annual payments ...[^c-e4772cb70d5386cad0996fc998b08b5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -1639,7 +1639,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 463 — Interpretation of Part](part-9/section-463.md)
 - [Section 464 — Scottish trusts](part-9/section-464.md)
 
-#### Chapter 2 — General provision about settlements and trustees[^key-157a12bbfebd405c80b8c1527b74787b]
+#### Chapter 2 — General provision about settlements and trustees[^c-157a12bbfebd405c80b8c1527b74787b]
 
 ##### Overview
 
@@ -1694,7 +1694,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 489 — “The applicable period” in relation to shares](part-9/section-489.md)
 - [Section 490 — Interpretation of Chapter](part-9/section-490.md)
 
-#### Chapter 6 — Trustees' first slice of trust rate income[^key-6b2730921317c00498d67f7387fe1506]
+#### Chapter 6 — Trustees' first slice of trust rate income[^c-6b2730921317c00498d67f7387fe1506]
 
 **No longer in force.**
 
@@ -1703,19 +1703,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Chapter 7 — Discretionary payments
 
-##### Payments constituting income of beneficiary (other than employment income)[^key-80b444bad54b5b19a08f2a839f4c59e0]
+##### Payments constituting income of beneficiary (other than employment income)[^c-80b444bad54b5b19a08f2a839f4c59e0]
 
 - [Section 493 — Discretionary payments by trustees](part-9/section-493.md)
 - [Section 494 — Grossing up of discretionary payment and payment of income tax](part-9/section-494.md)
 - [Section 495 — Statement about deduction of income tax](part-9/section-495.md)
 - [Section 496 — Income tax charged on trustees](part-9/section-496.md)
 
-##### Payments constituting employment income of beneficiary[^key-06408a7b54140f70a84876e83344a41b]
+##### Payments constituting employment income of beneficiary[^c-06408a7b54140f70a84876e83344a41b]
 
 - [Section 496A — Discretionary payments by trustees: employment income](part-9/section-496a.md)
 - [Section 496B — Relief for trustees](part-9/section-496b.md)
 
-##### Tax pool[^key-0736528889d79568e087a97361392ae9]
+##### Tax pool[^c-0736528889d79568e087a97361392ae9]
 
 *Extent: E+W+S+N.I.*
 
@@ -1764,15 +1764,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 516 — Transfer of property between settlements](part-9/section-516.md)
 - [Section 517 — Exemption for income treated as income of settlor](part-9/section-517.md)
 
-### PART 9A — Transactions in UK land[^key-26019d6ec0f9ebe3db8d4c860545b128]
+### PART 9A — Transactions in UK land[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 *Extent: E+W+S+N.I.*
 
-#### Introduction[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Introduction[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517A — Overview of Part](part-9a/section-517a.md)
 
-#### Amounts treated as profits of a trade[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Amounts treated as profits of a trade[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517B — Disposals of land in the United Kingdom](part-9a/section-517b.md)
 - [Section 517C — Disposals of land: profits treated as trading profits](part-9a/section-517c.md)
@@ -1780,34 +1780,34 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 517E — Disposals within section 517D: profits treated as trading profits](part-9a/section-517e.md)
 - [Section 517F — Profits and losses](part-9a/section-517f.md)
 
-#### Person to whom profits attributed[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Person to whom profits attributed[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517G — The chargeable person](part-9a/section-517g.md)
 
-#### Anti-fragmentation[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Anti-fragmentation[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517H — Fragmented activities](part-9a/section-517h.md)
 
-#### Calculation of profit or gain on disposal[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Calculation of profit or gain on disposal[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517I — Calculation of surplus on a disposal of land](part-9a/section-517i.md)
 - [Section 517J — Apportionments](part-9a/section-517j.md)
 
-#### Arrangements for avoiding tax[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Arrangements for avoiding tax[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517K — Arrangements for avoiding tax](part-9a/section-517k.md)
 
-#### Exemptions[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Exemptions[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517L — Gain attributable to period before intention to develop formed](part-9a/section-517l.md)
 - [Section 517M — Private residences](part-9a/section-517m.md)
 
-#### Other supplementary provisions[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Other supplementary provisions[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517N — Tracing value](part-9a/section-517n.md)
 - [Section 517O — Relevance of transactions, arrangements, etc](part-9a/section-517o.md)
 
-#### Interpretation[^key-26019d6ec0f9ebe3db8d4c860545b128]
+#### Interpretation[^c-26019d6ec0f9ebe3db8d4c860545b128]
 
 - [Section 517P — “Another person”](part-9a/section-517p.md)
 - [Section 517Q — “Arrangement”](part-9a/section-517q.md)
@@ -1901,11 +1901,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 563 — Rules for attributing excess expenditure to earlier years](part-10/section-563.md)
 - [Section 564 — Adjustments in consequence of section 562](part-10/section-564.md)
 
-### Part 10A — Alternative finance arrangements[^key-a009a94415d6a32c1d58b7187077e62b]
+### Part 10A — Alternative finance arrangements[^c-a009a94415d6a32c1d58b7187077e62b]
 
 *Extent: E+W+S+N.I.*
 
-#### Introduction[^key-a009a94415d6a32c1d58b7187077e62b]
+#### Introduction[^c-a009a94415d6a32c1d58b7187077e62b]
 
 - [Section 564A — Introduction](part-10a/section-564a.md)
 - [Section 564B — Meaning of “financial institution”](part-10a/section-564b.md)
@@ -2087,48 +2087,48 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 613 — Redemption arrangements](part-11/section-613.md)
 - [Section 614 — Sections 612 and 613: supplementary](part-11/section-614.md)
 
-### PART 11ZA — Manufactured payments[^key-77b9c2c76a4f7378dd72ae6df887aea4]
+### PART 11ZA — Manufactured payments[^c-77b9c2c76a4f7378dd72ae6df887aea4]
 
 - [Section 614ZA — Overview of Part](part-11za/section-614za.md)
 - [Section 614ZB — Key definitions](part-11za/section-614zb.md)
 - [Section 614ZC — Treatment of payer of manufactured payment](part-11za/section-614zc.md)
 - [Section 614ZD — Treatment of recipient of manufactured payment](part-11za/section-614zd.md)
 
-### Part 11A — Leasing arrangements: finance leases and loans[^key-21d4fc6dfab2687d39f12012ac5e5615]
+### Part 11A — Leasing arrangements: finance leases and loans[^c-21d4fc6dfab2687d39f12012ac5e5615]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introduction[^key-21d4fc6dfab2687d39f12012ac5e5615]
+#### Chapter 1 — Introduction[^c-21d4fc6dfab2687d39f12012ac5e5615]
 
-##### Introduction[^key-21d4fc6dfab2687d39f12012ac5e5615]
+##### Introduction[^c-21d4fc6dfab2687d39f12012ac5e5615]
 
 - [Section 614A — Overview of Part](part-11a/section-614a.md)
 
-##### Meaning of expressions about rent[^key-21d4fc6dfab2687d39f12012ac5e5615]
+##### Meaning of expressions about rent[^c-21d4fc6dfab2687d39f12012ac5e5615]
 
 - [Section 614AA — Normal rent](part-11a/section-614aa.md)
 - [Section 614AB — Accountancy rental earnings](part-11a/section-614ab.md)
 - [Section 614AC — Rental earnings](part-11a/section-614ac.md)
 
-#### Chapter 2 — Finance leases with return in capital form[^key-d1635e3a520cf621571820b51ab4f216]
+#### Chapter 2 — Finance leases with return in capital form[^c-d1635e3a520cf621571820b51ab4f216]
 
-##### Introduction[^key-d1635e3a520cf621571820b51ab4f216]
+##### Introduction[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614B — Arrangements to which this Chapter applies](part-11a/section-614b.md)
 - [Section 614BA — Purposes of this Chapter](part-11a/section-614ba.md)
 
-##### Leases to which this Chapter applies[^key-d1635e3a520cf621571820b51ab4f216]
+##### Leases to which this Chapter applies[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614BB — Application of this Chapter](part-11a/section-614bb.md)
 - [Section 614BC — The conditions referred to in section 614BB(1)](part-11a/section-614bc.md)
 - [Section 614BD — Provisions supplementing section 614BC](part-11a/section-614bd.md)
 - [Section 614BE — The arrangements and circumstances referred to in section 614BC(8)](part-11a/section-614be.md)
 
-##### Current lessor taxed by reference to accountancy rental earnings[^key-d1635e3a520cf621571820b51ab4f216]
+##### Current lessor taxed by reference to accountancy rental earnings[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614BF — Current lessor taxed by reference to accountancy rental earnings](part-11a/section-614bf.md)
 
-##### Reduction of taxable rent by cumulative rental excesses[^key-d1635e3a520cf621571820b51ab4f216]
+##### Reduction of taxable rent by cumulative rental excesses[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614BG — Reduction of taxable rent by cumulative rental excesses: introduction](part-11a/section-614bg.md)
 - [Section 614BH — Meaning of “accountancy rental excess” and “cumulative accountancy rental excess”](part-11a/section-614bh.md)
@@ -2136,19 +2136,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 614BJ — Meaning of “normal rental excess” and “cumulative normal rental excess”](part-11a/section-614bj.md)
 - [Section 614BK — Reduction of taxable rent by the cumulative normal rental excess](part-11a/section-614bk.md)
 
-##### Relief for bad debts by reduction of cumulative rental excesses[^key-d1635e3a520cf621571820b51ab4f216]
+##### Relief for bad debts by reduction of cumulative rental excesses[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614BL — Relief for bad debts: reduction of cumulative accountancy rental excess](part-11a/section-614bl.md)
 - [Section 614BM — Recovery of bad debts following reduction under section 614BL](part-11a/section-614bm.md)
 - [Section 614BN — Relief for bad debts: reduction of cumulative normal rental excess](part-11a/section-614bn.md)
 - [Section 614BO — Recovery of bad debts following reduction under section 614BN](part-11a/section-614bo.md)
 
-##### Effect of disposals[^key-d1635e3a520cf621571820b51ab4f216]
+##### Effect of disposals[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614BP — Effect of disposals of leases: general](part-11a/section-614bp.md)
 - [Section 614BQ — Assignments on which neither a gain nor a loss accrues](part-11a/section-614bq.md)
 
-##### Capital allowances: claw-back of major lump sum[^key-d1635e3a520cf621571820b51ab4f216]
+##### Capital allowances: claw-back of major lump sum[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614BR — Effect of capital allowances: introduction](part-11a/section-614br.md)
 - [Section 614BS — Cases where expenditure taken into account under Part 2, 5 or 8 of CAA 2001](part-11a/section-614bs.md)
@@ -2157,31 +2157,31 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 614BV — Capital allowances deductions: films and sound recordings](part-11a/section-614bv.md)
 - [Section 614BW — Contributors to capital expenditure](part-11a/section-614bw.md)
 
-##### Schemes to which this Chapter does not at first apply[^key-d1635e3a520cf621571820b51ab4f216]
+##### Schemes to which this Chapter does not at first apply[^c-d1635e3a520cf621571820b51ab4f216]
 
 - [Section 614BX — Pre-26 November 1996 schemes where this Chapter does not at first apply](part-11a/section-614bx.md)
 - [Section 614BY — Post-25 November 1996 schemes to which Chapter 3 applied first](part-11a/section-614by.md)
 
-#### Chapter 3 — Other finance leases[^key-d193ae9bd44a503c86cdc0fbafb21cef]
+#### Chapter 3 — Other finance leases[^c-d193ae9bd44a503c86cdc0fbafb21cef]
 
-##### Introduction[^key-d193ae9bd44a503c86cdc0fbafb21cef]
+##### Introduction[^c-d193ae9bd44a503c86cdc0fbafb21cef]
 
 - [Section 614C — Introduction to Chapter](part-11a/section-614c.md)
 - [Section 614CA — Purpose of this Chapter](part-11a/section-614ca.md)
 
-##### Leases to which this Chapter applies[^key-d193ae9bd44a503c86cdc0fbafb21cef]
+##### Leases to which this Chapter applies[^c-d193ae9bd44a503c86cdc0fbafb21cef]
 
 - [Section 614CB — Leases to which this Chapter applies](part-11a/section-614cb.md)
 
-##### Current lessor taxed by reference to accountancy rental earnings[^key-d193ae9bd44a503c86cdc0fbafb21cef]
+##### Current lessor taxed by reference to accountancy rental earnings[^c-d193ae9bd44a503c86cdc0fbafb21cef]
 
 - [Section 614CC — Current lessor taxed by reference to accountancy rental earnings](part-11a/section-614cc.md)
 
-##### Application of provisions of Chapter 2 for purposes of this Chapter[^key-d193ae9bd44a503c86cdc0fbafb21cef]
+##### Application of provisions of Chapter 2 for purposes of this Chapter[^c-d193ae9bd44a503c86cdc0fbafb21cef]
 
 - [Section 614CD — Application of provisions of Chapter 2 for purposes of this Chapter](part-11a/section-614cd.md)
 
-#### Chapter 4 — Supplementary provisions[^key-584e0674b5790fd4b4301297f7148901]
+#### Chapter 4 — Supplementary provisions[^c-584e0674b5790fd4b4301297f7148901]
 
 - [Section 614D — Pre-26 November 1996 schemes and post-25 November 1996 schemes](part-11a/section-614d.md)
 - [Section 614DA — Time apportionment where periods of account do not coincide](part-11a/section-614da.md)
@@ -2298,7 +2298,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 669 — Relief for unremittable transfer proceeds: section 630 profits](part-12/section-669.md)
 - [Section 670 — Withdrawal of relief](part-12/section-670.md)
 
-##### Individuals to whom remittance basis applies[^key-8f68bc4ea01c0efb6e938a397d810722]
+##### Individuals to whom remittance basis applies[^c-8f68bc4ea01c0efb6e938a397d810722]
 
 - [Section 670A — Individuals to whom remittance basis applies](part-12/section-670a.md)
 
@@ -2319,36 +2319,36 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 680 — Interest on securities involving accrued income losses: foreign trustees](part-12/section-680.md)
 - [Section 681 — Unrealised interest received by transferee after transfer](part-12/section-681.md)
 
-### Part 12A — Sale and lease-back etc[^key-412d97823d2654b1210bbcdd69fa49ca]
+### Part 12A — Sale and lease-back etc[^c-412d97823d2654b1210bbcdd69fa49ca]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Payments connected with transferred land[^key-412d97823d2654b1210bbcdd69fa49ca]
+#### Chapter 1 — Payments connected with transferred land[^c-412d97823d2654b1210bbcdd69fa49ca]
 
 *Extent: E+W+S+N.I.*
 
-##### Overview[^key-412d97823d2654b1210bbcdd69fa49ca]
+##### Overview[^c-412d97823d2654b1210bbcdd69fa49ca]
 
 - [Section 681A — Overview](part-12a/section-681a.md)
 
-##### Application of the Chapter[^key-412d97823d2654b1210bbcdd69fa49ca]
+##### Application of the Chapter[^c-412d97823d2654b1210bbcdd69fa49ca]
 
 - [Section 681AA — Transferor or associate becomes liable for payment of rent](part-12a/section-681aa.md)
 - [Section 681AB — Transferor or associate becomes liable for payment other than rent](part-12a/section-681ab.md)
 - [Section 681AC — Relevant income tax relief and relevant deduction from earnings](part-12a/section-681ac.md)
 
-##### Relief: restriction and carrying forward[^key-412d97823d2654b1210bbcdd69fa49ca]
+##### Relief: restriction and carrying forward[^c-412d97823d2654b1210bbcdd69fa49ca]
 
 - [Section 681AD — Relevant income tax relief: deduction not to exceed commercial rent](part-12a/section-681ad.md)
 
-##### Certain deductions from earnings: restriction and carrying forward of relief[^key-412d97823d2654b1210bbcdd69fa49ca]
+##### Certain deductions from earnings: restriction and carrying forward of relief[^c-412d97823d2654b1210bbcdd69fa49ca]
 
 - [Section 681AE — Deduction from earnings not to exceed commercial rent](part-12a/section-681ae.md)
 - [Section 681AF — Carrying forward parts of payments](part-12a/section-681af.md)
 - [Section 681AG — Aggregation and apportionment of payments](part-12a/section-681ag.md)
 - [Section 681AH — Payments made for later periods](part-12a/section-681ah.md)
 
-##### Interpretation etc[^key-412d97823d2654b1210bbcdd69fa49ca]
+##### Interpretation etc[^c-412d97823d2654b1210bbcdd69fa49ca]
 
 - [Section 681AI — Exclusion of service charges etc](part-12a/section-681ai.md)
 - [Section 681AJ — Commercial rent: comparison with rent under a lease](part-12a/section-681aj.md)
@@ -2357,26 +2357,26 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 681AM — Associated persons](part-12a/section-681am.md)
 - [Section 681AN — Land outside the UK](part-12a/section-681an.md)
 
-#### Chapter 2 — New lease of land after assignment or surrender[^key-ecc56ded6cc3f640075283dd4d00a938]
+#### Chapter 2 — New lease of land after assignment or surrender[^c-ecc56ded6cc3f640075283dd4d00a938]
 
-##### Overview[^key-ecc56ded6cc3f640075283dd4d00a938]
+##### Overview[^c-ecc56ded6cc3f640075283dd4d00a938]
 
 - [Section 681B — Overview](part-12a/section-681b.md)
 
-##### Application of the Chapter[^key-ecc56ded6cc3f640075283dd4d00a938]
+##### Application of the Chapter[^c-ecc56ded6cc3f640075283dd4d00a938]
 
 - [Section 681BA — New lease after assignment or surrender](part-12a/section-681ba.md)
 
-##### Taxation of consideration[^key-ecc56ded6cc3f640075283dd4d00a938]
+##### Taxation of consideration[^c-ecc56ded6cc3f640075283dd4d00a938]
 
 - [Section 681BB — Taxation of consideration](part-12a/section-681bb.md)
 - [Section 681BC — Position where new lease does not include all original property](part-12a/section-681bc.md)
 
-##### Relief for rent under new lease[^key-ecc56ded6cc3f640075283dd4d00a938]
+##### Relief for rent under new lease[^c-ecc56ded6cc3f640075283dd4d00a938]
 
 - [Section 681BD — Relief for rent under new lease](part-12a/section-681bd.md)
 
-##### New lease treated as ending[^key-ecc56ded6cc3f640075283dd4d00a938]
+##### New lease treated as ending[^c-ecc56ded6cc3f640075283dd4d00a938]
 
 - [Section 681BE — New lease treated as ending](part-12a/section-681be.md)
 - [Section 681BF — Position where rent reduces](part-12a/section-681bf.md)
@@ -2384,68 +2384,68 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 681BH — Position where lease may be varied](part-12a/section-681bh.md)
 - [Section 681BI — Lease treated as ending: rentcharge](part-12a/section-681bi.md)
 
-##### Lease varied to provide for increased rent[^key-ecc56ded6cc3f640075283dd4d00a938]
+##### Lease varied to provide for increased rent[^c-ecc56ded6cc3f640075283dd4d00a938]
 
 - [Section 681BJ — Lease varied to provide for increased rent](part-12a/section-681bj.md)
 
-##### Interpretation[^key-ecc56ded6cc3f640075283dd4d00a938]
+##### Interpretation[^c-ecc56ded6cc3f640075283dd4d00a938]
 
 - [Section 681BK — Relevant income tax relief](part-12a/section-681bk.md)
 - [Section 681BL — Linked persons](part-12a/section-681bl.md)
 - [Section 681BM — Lease, lessee, lessor and rent](part-12a/section-681bm.md)
 
-#### Chapter 3 — Leased trading assets[^key-ff94660a4e61e42e2143a9600cb5178d]
+#### Chapter 3 — Leased trading assets[^c-ff94660a4e61e42e2143a9600cb5178d]
 
-##### Overview[^key-ff94660a4e61e42e2143a9600cb5178d]
+##### Overview[^c-ff94660a4e61e42e2143a9600cb5178d]
 
 - [Section 681C — Overview](part-12a/section-681c.md)
 
-##### Application of the Chapter[^key-ff94660a4e61e42e2143a9600cb5178d]
+##### Application of the Chapter[^c-ff94660a4e61e42e2143a9600cb5178d]
 
 - [Section 681CA — Professions and vocations](part-12a/section-681ca.md)
 - [Section 681CB — Leased trading assets](part-12a/section-681cb.md)
 
-##### Relief: restriction and carrying forward[^key-ff94660a4e61e42e2143a9600cb5178d]
+##### Relief: restriction and carrying forward[^c-ff94660a4e61e42e2143a9600cb5178d]
 
 - [Section 681CC — Tax deduction not to exceed commercial rent](part-12a/section-681cc.md)
 - [Section 681CD — Long funding finance leases](part-12a/section-681cd.md)
 - [Section 681CE — Commercial rent](part-12a/section-681ce.md)
 
-##### Interpretation[^key-ff94660a4e61e42e2143a9600cb5178d]
+##### Interpretation[^c-ff94660a4e61e42e2143a9600cb5178d]
 
 - [Section 681CF — Lease](part-12a/section-681cf.md)
 - [Section 681CG — Relevant asset](part-12a/section-681cg.md)
 
-#### Chapter 4 — Leased assets: capital sums[^key-2d2699c86c35075e7d602f5a9e2ac5a4]
+#### Chapter 4 — Leased assets: capital sums[^c-2d2699c86c35075e7d602f5a9e2ac5a4]
 
-##### Overview[^key-2d2699c86c35075e7d602f5a9e2ac5a4]
+##### Overview[^c-2d2699c86c35075e7d602f5a9e2ac5a4]
 
 - [Section 681D — Overview](part-12a/section-681d.md)
 
-##### Application of the Chapter[^key-2d2699c86c35075e7d602f5a9e2ac5a4]
+##### Application of the Chapter[^c-2d2699c86c35075e7d602f5a9e2ac5a4]
 
 - [Section 681DA — Application of the Chapter](part-12a/section-681da.md)
 - [Section 681DB — Payment under lease](part-12a/section-681db.md)
 - [Section 681DC — Sum obtained](part-12a/section-681dc.md)
 
-##### Charge to income tax[^key-2d2699c86c35075e7d602f5a9e2ac5a4]
+##### Charge to income tax[^c-2d2699c86c35075e7d602f5a9e2ac5a4]
 
 - [Section 681DD — Charge to income tax](part-12a/section-681dd.md)
 - [Section 681DE — Hire-purchase agreements](part-12a/section-681de.md)
 - [Section 681DF — Adjustments where sum obtained before payment made](part-12a/section-681df.md)
 
-##### Obtaining of sum[^key-2d2699c86c35075e7d602f5a9e2ac5a4]
+##### Obtaining of sum[^c-2d2699c86c35075e7d602f5a9e2ac5a4]
 
 - [Section 681DG — Sum obtained in respect of interest](part-12a/section-681dg.md)
 - [Section 681DH — Sum obtained in respect of lessee's interest](part-12a/section-681dh.md)
 - [Section 681DI — Disposal of interest to associate](part-12a/section-681di.md)
 
-##### Apportionment[^key-2d2699c86c35075e7d602f5a9e2ac5a4]
+##### Apportionment[^c-2d2699c86c35075e7d602f5a9e2ac5a4]
 
 - [Section 681DJ — Apportionment of payments made and of sums obtained](part-12a/section-681dj.md)
 - [Section 681DK — Manner of apportionment](part-12a/section-681dk.md)
 
-##### Interpretation[^key-2d2699c86c35075e7d602f5a9e2ac5a4]
+##### Interpretation[^c-2d2699c86c35075e7d602f5a9e2ac5a4]
 
 - [Section 681DL — Associates](part-12a/section-681dl.md)
 - [Section 681DM — Capital sum](part-12a/section-681dm.md)
@@ -2461,14 +2461,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S+N.I.*
 
-##### Introduction[^key-4d82f86ca38c259c580623b528000db9]
+##### Introduction[^c-4d82f86ca38c259c580623b528000db9]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 682 — Overview of Chapter](part-13/section-682.md)
 - [Section 683 — Provisions of Chapter](part-13/section-683.md)
 
-##### Person liable to counteraction of income tax advantages[^key-4d82f86ca38c259c580623b528000db9]
+##### Person liable to counteraction of income tax advantages[^c-4d82f86ca38c259c580623b528000db9]
 
 *Extent: E+W+S+N.I.*
 
@@ -2496,7 +2496,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 699 — Limit on amount assessed in section 689 and 690 cases](part-13/section-699.md)
 - [Section 700 — Timing of assessments ...](part-13/section-700.md)
 
-##### Clearance procedure ...[^key-ac756dc00a1ec1fe1f9a35405931e5da]
+##### Clearance procedure ...[^c-ac756dc00a1ec1fe1f9a35405931e5da]
 
 *Extent: E+W+S+N.I.*
 
@@ -2504,7 +2504,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 702 — Effect of clearance notification under section 701](part-13/section-702.md)
 - [Section 703 — Power to obtain information](part-13/section-703.md)
 
-##### ...[^key-a84486491540357e473fae23529c742c]
+##### ...[^c-a84486491540357e473fae23529c742c]
 
 *Extent: E+W+S+N.I.*
 
@@ -2525,7 +2525,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 712 — Application of Chapter where individual within section 684 dies](part-13/section-712.md)
 - [Section 713 — Interpretation of Chapter](part-13/section-713.md)
 
-#### Chapter 2 — Transfer of assets abroad[^key-a4809d22ee9fa39f0242c23075a2a575][^key-a33daf21ee9cef9b8c1ec94888adb356][^key-266071b8af7abd52a8e0a329a892ab4a][^M_C_926defa3-08f6-4bcd-898c-980d18182d4f]
+#### Chapter 2 — Transfer of assets abroad[^c-a4809d22ee9fa39f0242c23075a2a575][^c-a33daf21ee9cef9b8c1ec94888adb356][^c-266071b8af7abd52a8e0a329a892ab4a][^M_C_926defa3-08f6-4bcd-898c-980d18182d4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -2584,7 +2584,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 735 — Qualifying new residents and remittance-basis users: “foreign” deemed income](part-13/section-735.md)
 - [Section 735A — Section 735: relevant income and benefits relating to foreign deemed income](part-13/section-735a.md)
 
-##### Transitional provision about protected foreign-source income and transitionally protected income[^key-da9c2a80c85ab78bc887650ee1ef18fe]
+##### Transitional provision about protected foreign-source income and transitionally protected income[^c-da9c2a80c85ab78bc887650ee1ef18fe]
 
 - [Section 735AA — Settlements to which following sections apply](part-13/section-735aa.md)
 - [Section 735AB — “Protected foreign-source income” and “transitionally protected income”](part-13/section-735ab.md)
@@ -2609,7 +2609,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 742 — Partial exemption where later associated operations fail conditions](part-13/section-742.md)
 - [Section 742A — Post-5 April 2012 transactions: exemption for genuine transactions](part-13/section-742a.md)
 
-##### Value of certain benefits[^key-03a6790467dd0e74deda10f4a84069f5]
+##### Value of certain benefits[^c-03a6790467dd0e74deda10f4a84069f5]
 
 - [Section 742B — Value of certain benefits](part-13/section-742b.md)
 - [Section 742C — Value of benefit provided by a payment by way of loan](part-13/section-742c.md)
@@ -2631,13 +2631,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 750 — Restrictions on particulars to be provided by banks](part-13/section-750.md)
 - [Section 751 — The tribunal’s jurisdiction on appeals](part-13/section-751.md)
 
-#### Chapter 3 — Transactions in land[^key-864e0407f05501eb62dba7a34bf30007]
+#### Chapter 3 — Transactions in land[^c-864e0407f05501eb62dba7a34bf30007]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Introduction[^key-864e0407f05501eb62dba7a34bf30007]
+##### Introduction[^c-864e0407f05501eb62dba7a34bf30007]
 
 **No longer in force.**
 
@@ -2645,7 +2645,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 753 — Meaning of disposing of land](part-13/section-753.md)
 - [Section 754 — Priority of other income tax provisions](part-13/section-754.md)
 
-##### Charge on gains from transactions in land[^key-864e0407f05501eb62dba7a34bf30007]
+##### Charge on gains from transactions in land[^c-864e0407f05501eb62dba7a34bf30007]
 
 **No longer in force.**
 
@@ -2656,7 +2656,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 759 — Person liable](part-13/section-759.md)
 - [Section 760 — Method of calculating gain](part-13/section-760.md)
 
-##### Further provisions relevant to the charge[^key-864e0407f05501eb62dba7a34bf30007]
+##### Further provisions relevant to the charge[^c-864e0407f05501eb62dba7a34bf30007]
 
 **No longer in force.**
 
@@ -2665,7 +2665,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 763 — Meaning of “another person”](part-13/section-763.md)
 - [Section 764 — Valuations and apportionments](part-13/section-764.md)
 
-##### Exemptions[^key-864e0407f05501eb62dba7a34bf30007]
+##### Exemptions[^c-864e0407f05501eb62dba7a34bf30007]
 
 **No longer in force.**
 
@@ -2673,21 +2673,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 766 — Exemption: disposals of shares in companies holding land as trading stock](part-13/section-766.md)
 - [Section 767 — Exemption: private residences](part-13/section-767.md)
 
-##### Recovery of tax[^key-864e0407f05501eb62dba7a34bf30007]
+##### Recovery of tax[^c-864e0407f05501eb62dba7a34bf30007]
 
 **No longer in force.**
 
 - [Section 768 — Recovery of tax where consideration receivable by person not assessed](part-13/section-768.md)
 - [Section 769 — Recovery of tax: certificates of tax paid etc](part-13/section-769.md)
 
-##### Clearances and power to obtain information[^key-864e0407f05501eb62dba7a34bf30007]
+##### Clearances and power to obtain information[^c-864e0407f05501eb62dba7a34bf30007]
 
 **No longer in force.**
 
 - [Section 770 — Clearance procedure](part-13/section-770.md)
 - [Section 771 — Power to obtain information](part-13/section-771.md)
 
-##### Interpretation[^key-864e0407f05501eb62dba7a34bf30007]
+##### Interpretation[^c-864e0407f05501eb62dba7a34bf30007]
 
 **No longer in force.**
 
@@ -2769,7 +2769,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 808 — Meaning of “disposal of the licence” etc](part-13/section-808.md)
 - [Section 809 — Other definitions](part-13/section-809.md)
 
-#### Chapter 5A — Transfers of income streams[^key-e4ae3b38f4418a7e7eade5988cff1cd3]
+#### Chapter 5A — Transfers of income streams[^c-e4ae3b38f4418a7e7eade5988cff1cd3]
 
 - [Section 809AZA — Application of Chapter](part-13/section-809aza.md)
 - [Section 809AZB — Value of transferred income stream treated as income](part-13/section-809azb.md)
@@ -2779,16 +2779,16 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809AZF — Partnership shares](part-13/section-809azf.md)
 - [Section 809AZG — Interpretation](part-13/section-809azg.md)
 
-#### Chapter 5AA — Disposals of income streams through partnerships[^key-59c43eb6e9e125e3627c2cfc454f3c4e]
+#### Chapter 5AA — Disposals of income streams through partnerships[^c-59c43eb6e9e125e3627c2cfc454f3c4e]
 
 - [Section 809AAZA — Application of Chapter](part-13/section-809aaza.md)
 - [Section 809AAZB — Relevant amount to be treated as income](part-13/section-809aazb.md)
 
-#### Chapter 5B — Finance arrangements[^key-5c465246cfd7dafef6e09904d9dfafea][^key-405143a88da676c4c6d78a1ae468fb11][^key-f0ee5d7d7e27bb9809ed025aa6107afb]
+#### Chapter 5B — Finance arrangements[^c-5c465246cfd7dafef6e09904d9dfafea][^c-405143a88da676c4c6d78a1ae468fb11][^c-f0ee5d7d7e27bb9809ed025aa6107afb]
 
 *Extent: E+W+S+N.I.*
 
-##### Type 1 arrangements[^key-f0ee5d7d7e27bb9809ed025aa6107afb]
+##### Type 1 arrangements[^c-f0ee5d7d7e27bb9809ed025aa6107afb]
 
 - [Section 809BZA — Type 1 finance arrangement defined](part-13/section-809bza.md)
 - [Section 809BZB — Certain tax consequences not to have effect](part-13/section-809bzb.md)
@@ -2796,14 +2796,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809BZD — Deemed interest if borrower is not a partnership](part-13/section-809bzd.md)
 - [Section 809BZE — Deemed interest if borrower is a partnership](part-13/section-809bze.md)
 
-##### Type 2 arrangements[^key-9d542ddea38a4d7d6244b4b4360933ee]
+##### Type 2 arrangements[^c-9d542ddea38a4d7d6244b4b4360933ee]
 
 - [Section 809BZF — Type 2 finance arrangement defined](part-13/section-809bzf.md)
 - [Section 809BZG — Relevant change in relation to partnership](part-13/section-809bzg.md)
 - [Section 809BZH — Certain tax consequences not to have effect](part-13/section-809bzh.md)
 - [Section 809BZI — Deemed interest](part-13/section-809bzi.md)
 
-##### Type 3 arrangements[^key-938e27ad2ec36b50afe307c184f2fb64]
+##### Type 3 arrangements[^c-938e27ad2ec36b50afe307c184f2fb64]
 
 *Extent: E+W+S+N.I.*
 
@@ -2811,31 +2811,31 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809BZK — Certain tax consequences not to have effect](part-13/section-809bzk.md)
 - [Section 809BZL — Deemed interest](part-13/section-809bzl.md)
 
-##### Exceptions[^key-3505134a949ee81b9b3c39ca1fb9244b]
+##### Exceptions[^c-3505134a949ee81b9b3c39ca1fb9244b]
 
 - [Section 809BZM — Exceptions: preliminary](part-13/section-809bzm.md)
 - [Section 809BZN — Exceptions](part-13/section-809bzn.md)
 - [Section 809BZO — Exceptions: relevant person](part-13/section-809bzo.md)
 - [Section 809BZP — Power to make further exceptions](part-13/section-809bzp.md)
 
-##### Supplementary[^key-0c83ca665ee56878a07c9c410167e2ff]
+##### Supplementary[^c-0c83ca665ee56878a07c9c410167e2ff]
 
 - [Section 809BZQ — Accounts](part-13/section-809bzq.md)
 - [Section 809BZR — Arrangements](part-13/section-809bzr.md)
 - [Section 809BZS — Assets](part-13/section-809bzs.md)
 
-#### Chapter 5C — Loan or credit transactions[^key-0dc537fcc683c7aa67f68cbdbb72de6d]
+#### Chapter 5C — Loan or credit transactions[^c-0dc537fcc683c7aa67f68cbdbb72de6d]
 
 - [Section 809CZA — Loan or credit transaction defined](part-13/section-809cza.md)
 - [Section 809CZB — Certain payments treated as yearly interest](part-13/section-809czb.md)
 - [Section 809CZC — Tax charged on income transferred](part-13/section-809czc.md)
 
-#### Chapter 5D — Disposals of assets through partnerships[^key-4d9aa593f278b7f0f691519fa5a604e6]
+#### Chapter 5D — Disposals of assets through partnerships[^c-4d9aa593f278b7f0f691519fa5a604e6]
 
 - [Section 809DZA — Application of Chapter](part-13/section-809dza.md)
 - [Section 809DZB — Relevant amount to be treated as income](part-13/section-809dzb.md)
 
-#### CHAPTER 5E — Disguised investment management fees[^key-be3329172140d2b2dd1606d8d16f11da]
+#### CHAPTER 5E — Disguised investment management fees[^c-be3329172140d2b2dd1606d8d16f11da]
 
 *Extent: E+W+S+N.I.*
 
@@ -2850,7 +2850,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809EZG — Disguised investment management fees: avoidance of double taxation](part-13/section-809ezg.md)
 - [Section 809EZH — Powers to amend Chapter](part-13/section-809ezh.md)
 
-#### CHAPTER 5F — Income-based carried interest[^key-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]
+#### CHAPTER 5F — Income-based carried interest[^c-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]
 
 **No longer in force.**
 
@@ -2925,7 +2925,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 809FZZ — Interpretation of Chapter 5F](part-13/section-809fzz.md)
 
-#### Chapter 6 — Avoidance involving leases of plant and machinery[^key-17838e00376afcb80c763bcd20c8ddd3]
+#### Chapter 6 — Avoidance involving leases of plant and machinery[^c-17838e00376afcb80c763bcd20c8ddd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -2937,24 +2937,24 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809ZF — Further interpretation of section 809ZA etc](part-13/section-809zf.md)
 - [Section 809ZFA — Consideration for taking over payment obligations as lessee treated as income](part-13/section-809zfa.md)
 
-#### Chapter 7 — Avoidance involving obtaining tax relief for interest[^key-c4e27639f3542de5c630259689d2ee3e]
+#### Chapter 7 — Avoidance involving obtaining tax relief for interest[^c-c4e27639f3542de5c630259689d2ee3e]
 
 - [Section 809ZG — Tax relief schemes and arrangements](part-13/section-809zg.md)
 
-#### CHAPTER 8 — Tainted charity donations[^key-a137542f054243a0afcb3e80db0cece6]
+#### CHAPTER 8 — Tainted charity donations[^c-a137542f054243a0afcb3e80db0cece6]
 
-##### Introduction[^key-a137542f054243a0afcb3e80db0cece6]
+##### Introduction[^c-a137542f054243a0afcb3e80db0cece6]
 
 - [Section 809ZH — Overview of Chapter](part-13/section-809zh.md)
 - [Section 809ZI — Relievable charity donations](part-13/section-809zi.md)
 
-##### Tainted donations[^key-a137542f054243a0afcb3e80db0cece6]
+##### Tainted donations[^c-a137542f054243a0afcb3e80db0cece6]
 
 - [Section 809ZJ — Tainted donations](part-13/section-809zj.md)
 - [Section 809ZK — Circumstances in which financial advantage deemed to be obtained](part-13/section-809zk.md)
 - [Section 809ZL — Certain financial assistance to be ignored](part-13/section-809zl.md)
 
-##### Removal of reliefs and imposition of charge to tax[^key-a137542f054243a0afcb3e80db0cece6]
+##### Removal of reliefs and imposition of charge to tax[^c-a137542f054243a0afcb3e80db0cece6]
 
 - [Section 809ZM — Removal of income tax relief where donation becomes tainted in same tax year](part-13/section-809zm.md)
 - [Section 809ZMA — Clawback of income tax relief where donation becomes tainted in later tax year](part-13/section-809zma.md)
@@ -2962,7 +2962,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809ZN — Income tax charge where gift aid is withdrawn](part-13/section-809zn.md)
 - [Section 809ZO — Income tax charge where payment of trust income to charity](part-13/section-809zo.md)
 
-##### Supplementary[^key-a137542f054243a0afcb3e80db0cece6]
+##### Supplementary[^c-a137542f054243a0afcb3e80db0cece6]
 
 - [Section 809ZP — Connected charities](part-13/section-809zp.md)
 - [Section 809ZQ — Connected persons](part-13/section-809zq.md)
@@ -2972,22 +2972,22 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter A1 — Remittance basis[^M_C_0b82bba9-219d-4e95-9093-140822f9139c][^M_C_4fd859ef-5f90-4848-a9fa-a37bcb008e80][^M_C_f9ec9a61-0ee0-4b8f-cad7-fb742926191b][^key-375ca1a98de0338b737e03e42e3107fb][^key-03535ba6557f24c6953d26cf08320b20][^key-336b37b5d14f768073ecc136574339d3][^key-47bb5e1407c636ac49a553390244c026][^key-9e443fb457e153f4141745203e5efa21][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+#### Chapter A1 — Remittance basis[^M_C_0b82bba9-219d-4e95-9093-140822f9139c][^M_C_4fd859ef-5f90-4848-a9fa-a37bcb008e80][^M_C_f9ec9a61-0ee0-4b8f-cad7-fb742926191b][^c-375ca1a98de0338b737e03e42e3107fb][^c-03535ba6557f24c6953d26cf08320b20][^c-336b37b5d14f768073ecc136574339d3][^c-47bb5e1407c636ac49a553390244c026][^c-9e443fb457e153f4141745203e5efa21][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
-##### Introduction[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Introduction[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809A — Overview of Chapter](part-14/section-809a.md)
 
-##### Application of remittance basis[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Application of remittance basis[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809B — Claim for remittance basis to apply](part-14/section-809b.md)
 - [Section 809C — Claim for remittance basis by long-term UK resident: nomination of foreign income and gains to which section 809H(2) is to apply](part-14/section-809c.md)
 - [Section 809D — Application of remittance basis without claim where unremitted foreign income and gains under £2,000](part-14/section-809d.md)
 - [Section 809E — Application of remittance basis without claim: other cases](part-14/section-809e.md)
 
-##### Effect of section 809B, 809D or 809E applying[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Effect of section 809B, 809D or 809E applying[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809F — Effect on what is chargeable](part-14/section-809f.md)
 - [Section 809G — Claim for remittance basis: effect on allowances etc](part-14/section-809g.md)
@@ -2995,22 +2995,22 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809I — Remittance basis charge: income and gains treated as remitted](part-14/section-809i.md)
 - [Section 809J — Section 809I: order of remittances](part-14/section-809j.md)
 
-##### Remittance of income and gains: introduction[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Remittance of income and gains: introduction[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809K — Sections 809L to 809Z6: introduction](part-14/section-809k.md)
 
-##### Remittance of income and gains: meaning of “remitted to the United Kingdom”[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Remittance of income and gains: meaning of “remitted to the United Kingdom”[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809L — Meaning of “remitted to the United Kingdom”](part-14/section-809l.md)
 - [Section 809M — Meaning of “relevant person”](part-14/section-809m.md)
 - [Section 809N — Section 809L: gift recipients, qualifying property and enjoyment](part-14/section-809n.md)
 - [Section 809O — Section 809L: dealings where there is a connected operation](part-14/section-809o.md)
 
-##### Remittance of income and gains: amount remitted[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Remittance of income and gains: amount remitted[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809P — Section 809L: amount remitted](part-14/section-809p.md)
 
-##### Remittance of income and gains: transfers from mixed funds[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Remittance of income and gains: transfers from mixed funds[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -3026,19 +3026,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809RD — Effect where 30-day deadline is met](part-14/section-809rd.md)
 - [Section 809S — Section 809Q: anti-avoidance](part-14/section-809s.md)
 
-##### Remittance of income and gains: supplementary[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Remittance of income and gains: supplementary[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809T — Foreign chargeable gains accruing on disposal made otherwise than for full consideration](part-14/section-809t.md)
 - [Section 809U — Deemed income or gains not to be regarded as remitted before time when they are treated as arising or accruing](part-14/section-809u.md)
 
-##### Relief for money used to pay tax etc[^key-26452972a571a87bffa4647565545635][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Relief for money used to pay tax etc[^c-26452972a571a87bffa4647565545635][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 809UA — Money used for payments on account](part-14/section-809ua.md)
 - [Section 809V — Money paid to the Commissioners](part-14/section-809v.md)
 
-##### Business investment relief[^key-c5c5cb7574f58c28b1a8bfc62b2a2e3c][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Business investment relief[^c-c5c5cb7574f58c28b1a8bfc62b2a2e3c][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -3059,11 +3059,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809VN — Order of disposals etc](part-14/section-809vn.md)
 - [Section 809VO — Investments made from mixed funds](part-14/section-809vo.md)
 
-##### Relief for certain UK services[^key-964d5d0afcb0cb549cc126f8afc4454f][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Relief for certain UK services[^c-964d5d0afcb0cb549cc126f8afc4454f][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 - [Section 809W — Consideration for certain services](part-14/section-809w.md)
 
-##### Exempt property relief[^key-53fac2eae740ed4c95b3d32b87f124e4][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Exempt property relief[^c-53fac2eae740ed4c95b3d32b87f124e4][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -3083,7 +3083,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809Z5 — Notional remitted amount](part-14/section-809z5.md)
 - [Section 809Z6 — Exempt property: other interpretation](part-14/section-809z6.md)
 
-##### Interpretation of Chapter[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+##### Interpretation of Chapter[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -3092,7 +3092,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 809Z9 — Taking proceeds etc offshore or investing them](part-14/section-809z9.md)
 - [Section 809Z10 — General interpretation](part-14/section-809z10.md)
 
-#### Chapter 1 — Limits on liability to income tax of non-UK residents[^key-7419fbe51c268115ddd190d33ff0219f]
+#### Chapter 1 — Limits on liability to income tax of non-UK residents[^c-7419fbe51c268115ddd190d33ff0219f]
 
 *Extent: E+W+S+N.I.*
 
@@ -3136,7 +3136,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 827 — Meaning of “investment manager” and “investment transaction”](part-14/section-827.md)
 - [Section 828 — Transactions through brokers and investment managers](part-14/section-828.md)
 
-#### Chapter 1A — Exemption for persons not domiciled in United Kingdom[^key-421918e5e9c459dda5791139c6475a51]
+#### Chapter 1A — Exemption for persons not domiciled in United Kingdom[^c-421918e5e9c459dda5791139c6475a51]
 
 **No longer in force.**
 
@@ -3158,26 +3158,26 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 835 — Residence rules for trustees ...](part-14/section-835.md)
 - [Section 835A — Residence of companies](part-14/section-835a.md)
 
-#### Chapter 2A — Domicile[^key-4cd9b24d51e9db73408c6906e54be819]
+#### Chapter 2A — Domicile[^c-4cd9b24d51e9db73408c6906e54be819]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 835B — Domicile for income tax purposes of overseas electors](part-14/section-835b.md)
 - [Section 835BA — Deemed domicile](part-14/section-835ba.md)
 
-#### Chapter 2B — UK representative of non-UK resident[^key-27be6e20c4f0888363ba32997043fa54]
+#### Chapter 2B — UK representative of non-UK resident[^c-27be6e20c4f0888363ba32997043fa54]
 
-##### Introduction[^key-27be6e20c4f0888363ba32997043fa54]
+##### Introduction[^c-27be6e20c4f0888363ba32997043fa54]
 
 - [Section 835C — Overview of Chapter](part-14/section-835c.md)
 - [Section 835D — Income tax chargeable on company's income: application](part-14/section-835d.md)
 
-##### Branches and agencies[^key-4680ae1db14aacb297a4ecf4a68cd173]
+##### Branches and agencies[^c-4680ae1db14aacb297a4ecf4a68cd173]
 
 - [Section 835E — Branch or agency treated as UK representative](part-14/section-835e.md)
 - [Section 835F — Trade or profession carried on in partnership](part-14/section-835f.md)
 
-##### Persons who are not UK representatives[^key-3b1259099c466a3e385317f15c806f0f]
+##### Persons who are not UK representatives[^c-3b1259099c466a3e385317f15c806f0f]
 
 - [Section 835G — Agents](part-14/section-835g.md)
 - [Section 835H — Brokers](part-14/section-835h.md)
@@ -3185,11 +3185,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 835J — Persons acting under alternative finance arrangements](part-14/section-835j.md)
 - [Section 835K — Lloyd's agents](part-14/section-835k.md)
 
-##### The independent broker conditions[^key-e57c8063f014b47419c0756a88e29f7a]
+##### The independent broker conditions[^c-e57c8063f014b47419c0756a88e29f7a]
 
 - [Section 835L — The independent broker conditions](part-14/section-835l.md)
 
-##### The independent investment manager conditions[^key-2065194cffe8aa780194a94e54bd37ce]
+##### The independent investment manager conditions[^c-2065194cffe8aa780194a94e54bd37ce]
 
 - [Section 835M — The independent investment manager conditions](part-14/section-835m.md)
 - [Section 835N — Investment managers: the 20% rule](part-14/section-835n.md)
@@ -3197,12 +3197,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 835P — Treatment of transactions where 20% rule not met](part-14/section-835p.md)
 - [Section 835Q — Application of 20% rule to collective investment schemes](part-14/section-835q.md)
 
-##### Supplementary[^key-3027c5fba72c6e916989e2e8a205103b]
+##### Supplementary[^c-3027c5fba72c6e916989e2e8a205103b]
 
 - [Section 835R — Supplementary provision](part-14/section-835r.md)
 - [Section 835S — Interpretation of Chapter](part-14/section-835s.md)
 
-#### Chapter 2C — Income tax obligations and liabilities imposed on UK representatives[^key-f8c9774d8ddc97191842c11734d2ff60]
+#### Chapter 2C — Income tax obligations and liabilities imposed on UK representatives[^c-f8c9774d8ddc97191842c11734d2ff60]
 
 - [Section 835T — Introduction to Chapter](part-14/section-835t.md)
 - [Section 835U — Obligations and liabilities of UK representative](part-14/section-835u.md)
@@ -3216,7 +3216,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 836 — Jointly held property](part-14/section-836.md)
 - [Section 837 — Jointly held property: declarations of unequal beneficial interests](part-14/section-837.md)
 
-#### Chapter 3A — Banks etc in compulsory liquidation[^key-0f2a57111ab50b504b4923bf92945a31]
+#### Chapter 3A — Banks etc in compulsory liquidation[^c-0f2a57111ab50b504b4923bf92945a31]
 
 - [Section 837A — Overview of Chapter](part-14/section-837a.md)
 - [Section 837B — Application of Chapter](part-14/section-837b.md)
@@ -3242,7 +3242,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 845 — Extra return to be treated as interest etc](part-14/section-845.md)
 - [Section 846 — Interpretation of section 845](part-14/section-846.md)
 
-### Part 15 — Deduction of income tax at source[^key-cd30a7bca5d4c6619cdad489eac9d258]
+### Part 15 — Deduction of income tax at source[^c-cd30a7bca5d4c6619cdad489eac9d258]
 
 *Extent: E+W+S+N.I.*
 
@@ -3252,7 +3252,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 848 — Income tax deducted at source treated as income tax paid by recipient](part-15/section-848.md)
 - [Section 849 — Interaction with other Income Tax Acts provisions](part-15/section-849.md)
 
-#### Chapter 2 — Meaning of “relevant investment” for purposes of section 876[^key-02892f42eb26347bd62f5192118abcdf]
+#### Chapter 2 — Meaning of “relevant investment” for purposes of section 876[^c-02892f42eb26347bd62f5192118abcdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -3260,7 +3260,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 850 — Overview of Chapter](part-15/section-850.md)
 
-##### ...[^key-e12a9e874376bef3aff4de194e2ad114]
+##### ...[^c-e12a9e874376bef3aff4de194e2ad114]
 
 *Extent: E+W+S+N.I.*
 
@@ -3275,7 +3275,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 856 — Investments which are relevant investments](part-15/section-856.md)
 - [Section 857 — Investments to be treated as being or as not being relevant investments](part-15/section-857.md)
 
-##### ...[^key-a45860e9538c295f240c047a4f895237]
+##### ...[^c-a45860e9538c295f240c047a4f895237]
 
 *Extent: E+W+S+N.I.*
 
@@ -3285,7 +3285,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 861 — Declarations of non-UK residence: settlements](part-15/section-861.md)
 - [Section 862 — Inspection of declarations](part-15/section-862.md)
 
-##### Investments which are not relevant investments[^key-10a1622155aa642bd71650a37d7cbfb9]
+##### Investments which are not relevant investments[^c-10a1622155aa642bd71650a37d7cbfb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -3370,7 +3370,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 897 — Power to make regulations](part-15/section-897.md)
 
-#### Chapter 6 — Deduction from annual payments and patent royalties[^key-cd30a7bca5d4c6619cdad489eac9d258]
+#### Chapter 6 — Deduction from annual payments and patent royalties[^c-cd30a7bca5d4c6619cdad489eac9d258]
 
 ##### Introduction
 
@@ -3417,7 +3417,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 912 — Power to make directions disapplying section 911](part-15/section-912.md)
 - [Section 913 — Interpretation of sections 911 and 912](part-15/section-913.md)
 
-##### ...[^key-99a3dd1d98b7a125addf90d52eae3a49]
+##### ...[^c-99a3dd1d98b7a125addf90d52eae3a49]
 
 *Extent: E+W+S+N.I.*
 
@@ -3426,11 +3426,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 916 — Duty of payee to notify if payment not exempt](part-15/section-916.md)
 - [Section 917 — Supplementary](part-15/section-917.md)
 
-##### Tax avoidance[^key-10a8917674ffd7c9d15abc69f43ff446]
+##### Tax avoidance[^c-10a8917674ffd7c9d15abc69f43ff446]
 
 - [Section 917A — Tax avoidance arrangements](part-15/section-917a.md)
 
-#### Chapter 9 — Manufactured payments[^key-66bd5ee46a516c1f3f9261acf7e22992]
+#### Chapter 9 — Manufactured payments[^c-66bd5ee46a516c1f3f9261acf7e22992]
 
 *Extent: E+W+S+N.I.*
 
@@ -3453,7 +3453,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 924 — Power to reduce section 923 liability](part-15/section-924.md)
 - [Section 925 — Power to provide set-off entitlement](part-15/section-925.md)
 
-##### Repos[^key-7920ff4a5607779c7ac914e0c1fae59a]
+##### Repos[^c-7920ff4a5607779c7ac914e0c1fae59a]
 
 - [Section 925A — Creditor repos](part-15/section-925a.md)
 - [Section 925B — Debtor repos](part-15/section-925b.md)
@@ -3589,7 +3589,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 973 — Income tax due in respect of distributions](part-15/section-973.md)
 - [Section 974 — Regulations under section 973](part-15/section-974.md)
 
-#### Chapter 19 — General[^key-cd30a7bca5d4c6619cdad489eac9d258]
+#### Chapter 19 — General[^c-cd30a7bca5d4c6619cdad489eac9d258]
 
 ##### Supplementary
 
@@ -3698,65 +3698,65 @@ SCHEDULES
 
 [^c2061144]: Modification: Act modified (21.2.2009) by The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order ([S.I. 2009/317](https://www.legislation.gov.uk/uksi/2009/317)), art. 3, Sch.
 
-[^key-76fca3067f738ee7095bbed1b34de794]: Textual amendment: Words in Pt. 3 Ch. 3 heading inserted (with effect in accordance with s. 11(12) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 11(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/11/6)
+[^c-76fca3067f738ee7095bbed1b34de794]: Textual amendment: Words in Pt. 3 Ch. 3 heading inserted (with effect in accordance with s. 11(12) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 11(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/11/6)
 
-[^key-43c97adaec095385e898551abeefba9d]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with s. 11(12) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/11/2)
+[^c-43c97adaec095385e898551abeefba9d]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with s. 11(12) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/11/2)
 
-[^key-31d4b34e2390218cef3e9f526b325ce8]: Textual amendment: Ss. 74A-74D and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 21 paras. 6, 7 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/21/paragraph/2)
+[^c-31d4b34e2390218cef3e9f526b325ce8]: Textual amendment: Ss. 74A-74D and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 21 paras. 6, 7 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/21/paragraph/2)
 
-[^key-8b3bfd355678cdea736f7dc8097b6433]: Textual amendment: [S. 74E and cross-heading](https://www.legislation.gov.uk/ukpga/2007/3/chapter/2/crossheading/restriction-on-sideways-relief-and-capital-gains-relief-where-cash-basis-applies) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/8/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-8b3bfd355678cdea736f7dc8097b6433]: Textual amendment: [S. 74E and cross-heading](https://www.legislation.gov.uk/ukpga/2007/3/chapter/2/crossheading/restriction-on-sideways-relief-and-capital-gains-relief-where-cash-basis-applies) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/8/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-f3ed9f77eafffaf95719f0a7c015cbdd]: Textual amendment: S. 103C and cross-heading inserted (with effect in accordance with Sch. 4 para. 1(2)-(13) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/1/1)
+[^c-f3ed9f77eafffaf95719f0a7c015cbdd]: Textual amendment: S. 103C and cross-heading inserted (with effect in accordance with Sch. 4 para. 1(2)-(13) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/1/1)
 
-[^key-38e54178fffa3735668e77a4b6c5c965]: Textual amendment: S. 113A and cross-heading inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/2)
+[^c-38e54178fffa3735668e77a4b6c5c965]: Textual amendment: S. 113A and cross-heading inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/2)
 
-[^key-72ffb8e606492030788525c0f5a87e20]: Textual amendment: S. 114 cross-heading omitted and s. 114 heading substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/14), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-72ffb8e606492030788525c0f5a87e20]: Textual amendment: S. 114 cross-heading omitted and s. 114 heading substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/14), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
 
-[^key-7e15ea451344f62c1d260f5969125645]: Textual amendment: S. 116A and cross-heading inserted (with effect in accordance with Sch. 17 para. 14 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/8/2)
+[^c-7e15ea451344f62c1d260f5969125645]: Textual amendment: S. 116A and cross-heading inserted (with effect in accordance with Sch. 17 para. 14 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/8/2)
 
-[^key-13595f5aa44e175cae159ace4b284cfd]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/2007/3/section/127) cross-heading omitted (in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/3/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-13595f5aa44e175cae159ace4b284cfd]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/2007/3/section/127) cross-heading omitted (in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/3/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-4ddd6f509fa3761917a19b19efa89f7a]: Textual amendment: S. 127A and cross-heading inserted (8.4.2010 with effect in accordance with s. 25(5)-(7) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/25/4)
+[^c-4ddd6f509fa3761917a19b19efa89f7a]: Textual amendment: S. 127A and cross-heading inserted (8.4.2010 with effect in accordance with s. 25(5)-(7) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/25/4)
 
-[^key-f64585eec40d540827b3a3f73ef09d60]: Textual amendment: S. 251A and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/18)
+[^c-f64585eec40d540827b3a3f73ef09d60]: Textual amendment: S. 251A and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/18)
 
-[^key-592ad21e8d26a68382b8374fb149ec04]: Modification: Pt. 5A applied by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5BB para. 8(4)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/5BB/paragraph/8/4) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), Sch. 6 para. 5)
+[^c-592ad21e8d26a68382b8374fb149ec04]: Modification: Pt. 5A applied by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5BB para. 8(4)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/5BB/paragraph/8/4) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), Sch. 6 para. 5)
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
 
-[^key-5fd42c0c82451e936ee51c287a0007a4]: Textual amendment: Word in s. 257M cross-heading inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/1)
+[^c-5fd42c0c82451e936ee51c287a0007a4]: Textual amendment: Word in s. 257M cross-heading inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/1)
 
-[^key-4669edb8015b924c0b55fe9679af79e9]: Textual amendment: Ss. 257MNA-257MNE and cross-heading inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/3)
+[^c-4669edb8015b924c0b55fe9679af79e9]: Textual amendment: Ss. 257MNA-257MNE and cross-heading inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/3)
 
-[^key-4e0c410c39b3d7391add8d2a396b4c72]: Textual amendment: S. 330A and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/5)
+[^c-4e0c410c39b3d7391add8d2a396b4c72]: Textual amendment: S. 330A and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/5)
 
-[^key-ef7936db0b5f2ccef4cca352edc6a005]: Textual amendment: S. 330B and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/19)
+[^c-ef7936db0b5f2ccef4cca352edc6a005]: Textual amendment: S. 330B and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/19)
 
-[^key-539d405677ddb48b78e59b5295f4fbeb]: Modification: Pt. 7 modified by 2005 c. 7, s. 54A (as inserted (10.7.2008) by [The Alternative Finance Arrangements (Community Investment Tax Relief) Order 2008 (S.I. 2008/1821)](https://www.legislation.gov.uk/uksi/2008/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1821/article/1), [2](https://www.legislation.gov.uk/uksi/2008/1821/article/2))
+[^c-539d405677ddb48b78e59b5295f4fbeb]: Modification: Pt. 7 modified by 2005 c. 7, s. 54A (as inserted (10.7.2008) by [The Alternative Finance Arrangements (Community Investment Tax Relief) Order 2008 (S.I. 2008/1821)](https://www.legislation.gov.uk/uksi/2008/1821), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1821/article/1), [2](https://www.legislation.gov.uk/uksi/2008/1821/article/2))
 
-[^key-4efa7821fcab0dfe284a5d190f05a92e]: Textual amendment: S. 372A and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/51) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4efa7821fcab0dfe284a5d190f05a92e]: Textual amendment: S. 372A and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/51) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-8c4d96b040394b0a287266adc18bff90]: Textual amendment: Word in s. 392 cross-heading inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/13/4/b)
+[^c-8c4d96b040394b0a287266adc18bff90]: Textual amendment: Word in s. 392 cross-heading inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/13/4/b)
 
-[^key-60a4c6052bc4044e0953b17c65a529c3]: Textual amendment: [Pt. 8 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/8/chapter/1A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/32/2)
+[^c-60a4c6052bc4044e0953b17c65a529c3]: Textual amendment: [Pt. 8 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/8/chapter/1A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/32/2)
 
-[^key-e4772cb70d5386cad0996fc998b08b5c]: Textual amendment: Words in Pt. 8 Ch. 4 heading omitted (with effect in accordance with s. 15(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 15(4)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/15/4/c)
+[^c-e4772cb70d5386cad0996fc998b08b5c]: Textual amendment: Words in Pt. 8 Ch. 4 heading omitted (with effect in accordance with s. 15(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 15(4)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/15/4/c)
 
-[^key-157a12bbfebd405c80b8c1527b74787b]: Modification: Pt. 9 Ch. 2 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1169(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1169/1), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-157a12bbfebd405c80b8c1527b74787b]: Modification: Pt. 9 Ch. 2 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1169(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1169/1), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-6b2730921317c00498d67f7387fe1506]: Textual amendment: Pt. 9 Ch. 6 omitted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/13/2), [14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/4)
+[^c-6b2730921317c00498d67f7387fe1506]: Textual amendment: Pt. 9 Ch. 6 omitted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/13/2), [14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/4)
 
-[^key-80b444bad54b5b19a08f2a839f4c59e0]: Textual amendment: S. 493 cross-heading inserted (with effect in accordance with art. 3(9) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/157/article/3/2) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
+[^c-80b444bad54b5b19a08f2a839f4c59e0]: Textual amendment: S. 493 cross-heading inserted (with effect in accordance with art. 3(9) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/157/article/3/2) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
 
-[^key-06408a7b54140f70a84876e83344a41b]: Textual amendment: Ss. 496A , 496B and cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/157/article/3/3) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
+[^c-06408a7b54140f70a84876e83344a41b]: Textual amendment: Ss. 496A , 496B and cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/157/article/3/3) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
 
-[^key-0736528889d79568e087a97361392ae9]: Textual amendment: S. 497 cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/157/article/3/4) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
+[^c-0736528889d79568e087a97361392ae9]: Textual amendment: S. 497 cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/157/article/3/4) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
 
-[^key-26019d6ec0f9ebe3db8d4c860545b128]: Textual amendment: Pt. 9A inserted (with effect in relation to disposals on or after 5.7.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/1), [82(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/1) (with [s. 82(2)-(15)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/2)); which insertion also has effect so far as it would not otherwise have effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)
+[^c-26019d6ec0f9ebe3db8d4c860545b128]: Textual amendment: Pt. 9A inserted (with effect in relation to disposals on or after 5.7.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/1), [82(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/1) (with [s. 82(2)-(15)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/2)); which insertion also has effect so far as it would not otherwise have effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)
 
-[^key-a009a94415d6a32c1d58b7187077e62b]: Textual amendment: Pt. 10A inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-a009a94415d6a32c1d58b7187077e62b]: Textual amendment: Pt. 10A inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^M_F_5e104112-3355-4fe6-97c2-204b001384ab]: Textual amendment: S. 564C and cross-heading inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
@@ -3768,77 +3768,77 @@ SCHEDULES
 
 [^M_F_03101d0b-b3d9-413a-989a-b06f7fde7e93]: Textual amendment: S. 564V and cross-heading inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/23) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-77b9c2c76a4f7378dd72ae6df887aea4]: Textual amendment: Pt. 11ZA inserted (with effect in accordance with Sch. 29 para. 51 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/1)
+[^c-77b9c2c76a4f7378dd72ae6df887aea4]: Textual amendment: Pt. 11ZA inserted (with effect in accordance with Sch. 29 para. 51 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/1)
 
-[^key-21d4fc6dfab2687d39f12012ac5e5615]: Textual amendment: Pt. 11A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-21d4fc6dfab2687d39f12012ac5e5615]: Textual amendment: Pt. 11A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-d1635e3a520cf621571820b51ab4f216]: Textual amendment: Pt. 11A Ch. 2 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-d1635e3a520cf621571820b51ab4f216]: Textual amendment: Pt. 11A Ch. 2 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-d193ae9bd44a503c86cdc0fbafb21cef]: Textual amendment: Pt. 11A Ch. 3 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-d193ae9bd44a503c86cdc0fbafb21cef]: Textual amendment: Pt. 11A Ch. 3 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-584e0674b5790fd4b4301297f7148901]: Textual amendment: Pt. 11A Ch. 4 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-584e0674b5790fd4b4301297f7148901]: Textual amendment: Pt. 11A Ch. 4 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-8f68bc4ea01c0efb6e938a397d810722]: Textual amendment: S. 670A and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 159](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/159)
+[^c-8f68bc4ea01c0efb6e938a397d810722]: Textual amendment: S. 670A and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 159](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/159)
 
-[^key-412d97823d2654b1210bbcdd69fa49ca]: Textual amendment: Pt. 12A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-412d97823d2654b1210bbcdd69fa49ca]: Textual amendment: Pt. 12A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-ecc56ded6cc3f640075283dd4d00a938]: Textual amendment: Pt. 12A Ch. 2 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-ecc56ded6cc3f640075283dd4d00a938]: Textual amendment: Pt. 12A Ch. 2 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-ff94660a4e61e42e2143a9600cb5178d]: Textual amendment: Pt. 12A Ch. 3 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-ff94660a4e61e42e2143a9600cb5178d]: Textual amendment: Pt. 12A Ch. 3 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-2d2699c86c35075e7d602f5a9e2ac5a4]: Textual amendment: Pt. 12A Ch. 4 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-2d2699c86c35075e7d602f5a9e2ac5a4]: Textual amendment: Pt. 12A Ch. 4 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-4d82f86ca38c259c580623b528000db9]: Textual amendment: Ss. 682-687 and cross-headings substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) for s. 682-694 and cross-headings by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/2)
+[^c-4d82f86ca38c259c580623b528000db9]: Textual amendment: Ss. 682-687 and cross-headings substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) for s. 682-694 and cross-headings by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/2)
 
-[^key-ac756dc00a1ec1fe1f9a35405931e5da]: Textual amendment: Words in s. 701 heading omitted (retrospective to 1.4.2009) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 paras. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/6), [15(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/15/2)
+[^c-ac756dc00a1ec1fe1f9a35405931e5da]: Textual amendment: Words in s. 701 heading omitted (retrospective to 1.4.2009) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 paras. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/6), [15(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/15/2)
 
-[^key-a84486491540357e473fae23529c742c]: Textual amendment: S. 704 and cross-heading omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 458](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/458)
+[^c-a84486491540357e473fae23529c742c]: Textual amendment: S. 704 and cross-heading omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 458](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/458)
 
-[^key-a4809d22ee9fa39f0242c23075a2a575]: Modification: [Pt. 13 Ch. 2](https://www.legislation.gov.uk/ukpga/2007/3/part/13/chapter/2) applied by [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1), [s. 762ZA](https://www.legislation.gov.uk/ukpga/1988/1/section/762ZA) (as inserted (21.7.2008 with effect in accordance with [Sch. 7 para. 98](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/98) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 94](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/94))
+[^c-a4809d22ee9fa39f0242c23075a2a575]: Modification: [Pt. 13 Ch. 2](https://www.legislation.gov.uk/ukpga/2007/3/part/13/chapter/2) applied by [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1), [s. 762ZA](https://www.legislation.gov.uk/ukpga/1988/1/section/762ZA) (as inserted (21.7.2008 with effect in accordance with [Sch. 7 para. 98](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/98) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 94](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/94))
 
-[^key-a33daf21ee9cef9b8c1ec94888adb356]: Modification: Pt. 13 Ch. 2 applied (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2009/3001/regulation/21/1)
+[^c-a33daf21ee9cef9b8c1ec94888adb356]: Modification: Pt. 13 Ch. 2 applied (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2009/3001/regulation/21/1)
 
-[^key-266071b8af7abd52a8e0a329a892ab4a]: Modification: [Pt. 13 Ch. 2](https://www.legislation.gov.uk/ukpga/2007/3/part/13/chapter/2) modified (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 10(9)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/9), [11](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/11)
+[^c-266071b8af7abd52a8e0a329a892ab4a]: Modification: [Pt. 13 Ch. 2](https://www.legislation.gov.uk/ukpga/2007/3/part/13/chapter/2) modified (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 10(9)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/9), [11](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/11)
 
 [^M_C_926defa3-08f6-4bcd-898c-980d18182d4f]: Modification: Pt. 13 Ch. 2 modified (retrospective to 6.4.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 53(1)-(7)(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/53/1)
 
-[^key-da9c2a80c85ab78bc887650ee1ef18fe]: Textual amendment: [Ss. 735AA-735AG](https://www.legislation.gov.uk/ukpga/2007/3/section/735AA) and cross-heading inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 44](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/44), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1) (with [Sch. 12 para. 73](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/73))
+[^c-da9c2a80c85ab78bc887650ee1ef18fe]: Textual amendment: [Ss. 735AA-735AG](https://www.legislation.gov.uk/ukpga/2007/3/section/735AA) and cross-heading inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 44](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/44), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1) (with [Sch. 12 para. 73](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/73))
 
-[^key-03a6790467dd0e74deda10f4a84069f5]: Textual amendment: Ss. 742B-742E and cross-heading inserted (with effect in accordance with Sch. 9 para. 3 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/9/paragraph/2)
+[^c-03a6790467dd0e74deda10f4a84069f5]: Textual amendment: Ss. 742B-742E and cross-heading inserted (with effect in accordance with Sch. 9 para. 3 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/9/paragraph/2)
 
-[^key-864e0407f05501eb62dba7a34bf30007]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in relation to disposals on or after 5.7.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [ss. 79(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/5), [82(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/1) (with [s. 82(2)-(15)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/2)); which omission also has effect so far as it would not otherwise have effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)
+[^c-864e0407f05501eb62dba7a34bf30007]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in relation to disposals on or after 5.7.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [ss. 79(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/5), [82(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/1) (with [s. 82(2)-(15)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/2)); which omission also has effect so far as it would not otherwise have effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)
 
-[^key-e4ae3b38f4418a7e7eade5988cff1cd3]: Textual amendment: Pt. 13 Ch. 5A inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/7)
+[^c-e4ae3b38f4418a7e7eade5988cff1cd3]: Textual amendment: Pt. 13 Ch. 5A inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/7)
 
-[^key-59c43eb6e9e125e3627c2cfc454f3c4e]: Textual amendment: Pt. 13 Ch. 5AA inserted (with effect in accordance with Sch. 17 para. 24(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/24/1)
+[^c-59c43eb6e9e125e3627c2cfc454f3c4e]: Textual amendment: Pt. 13 Ch. 5AA inserted (with effect in accordance with Sch. 17 para. 24(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/24/1)
 
-[^key-5c465246cfd7dafef6e09904d9dfafea]: Modification: Pt. 13 Ch. 5B restricted by 2004 s. 12 s. 196I(5)(6) (as inserted 17.7.2012 (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)))
+[^c-5c465246cfd7dafef6e09904d9dfafea]: Modification: Pt. 13 Ch. 5B restricted by 2004 s. 12 s. 196I(5)(6) (as inserted 17.7.2012 (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)))
 
-[^key-405143a88da676c4c6d78a1ae468fb11]: Modification: Pt. 13 Ch. 5B restricted by 2004 c. 12, s. 196G(2)(3) (as inserted 17.7.2012 (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/1) (with [Sch. 13 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/2)))
+[^c-405143a88da676c4c6d78a1ae468fb11]: Modification: Pt. 13 Ch. 5B restricted by 2004 c. 12, s. 196G(2)(3) (as inserted 17.7.2012 (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/1) (with [Sch. 13 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/2)))
 
-[^key-f0ee5d7d7e27bb9809ed025aa6107afb]: Textual amendment: Pt. 13 Ch. 5B inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f0ee5d7d7e27bb9809ed025aa6107afb]: Textual amendment: Pt. 13 Ch. 5B inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-9d542ddea38a4d7d6244b4b4360933ee]: Textual amendment: Ss. 809BZF-809BZI and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9d542ddea38a4d7d6244b4b4360933ee]: Textual amendment: Ss. 809BZF-809BZI and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-938e27ad2ec36b50afe307c184f2fb64]: Textual amendment: Ss. 809BZJ-809BZL and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-938e27ad2ec36b50afe307c184f2fb64]: Textual amendment: Ss. 809BZJ-809BZL and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-3505134a949ee81b9b3c39ca1fb9244b]: Textual amendment: Ss. 809BZM-809BZP and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-3505134a949ee81b9b3c39ca1fb9244b]: Textual amendment: Ss. 809BZM-809BZP and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-0c83ca665ee56878a07c9c410167e2ff]: Textual amendment: Ss. 809BZQ-809BZS and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-0c83ca665ee56878a07c9c410167e2ff]: Textual amendment: Ss. 809BZQ-809BZS and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-0dc537fcc683c7aa67f68cbdbb72de6d]: Textual amendment: Pt. 13 Ch. 5C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-0dc537fcc683c7aa67f68cbdbb72de6d]: Textual amendment: Pt. 13 Ch. 5C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-4d9aa593f278b7f0f691519fa5a604e6]: Textual amendment: Pt. 13 Ch. 5D inserted (with effect in accordance with Sch. 17 para. 25(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 25(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/25/1)
+[^c-4d9aa593f278b7f0f691519fa5a604e6]: Textual amendment: Pt. 13 Ch. 5D inserted (with effect in accordance with Sch. 17 para. 25(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 25(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/25/1)
 
-[^key-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
+[^c-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
 
-[^key-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]: Textual amendment: Pt. 13 Ch. 5F omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(9)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/9)
+[^c-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]: Textual amendment: Pt. 13 Ch. 5F omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(9)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/9)
 
-[^key-17838e00376afcb80c763bcd20c8ddd3]: Textual amendment: Pt. 13 Ch. 6 inserted (21.7.2008 with effect in accordance with Sch. 20 para. 2(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 2(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/1) (with [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3))
+[^c-17838e00376afcb80c763bcd20c8ddd3]: Textual amendment: Pt. 13 Ch. 6 inserted (21.7.2008 with effect in accordance with Sch. 20 para. 2(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 2(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/1) (with [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3))
 
-[^key-c4e27639f3542de5c630259689d2ee3e]: Textual amendment: Pt. 13 Ch. 7 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/52) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-c4e27639f3542de5c630259689d2ee3e]: Textual amendment: Pt. 13 Ch. 7 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/52) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)
+[^c-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)
 
 [^M_C_0b82bba9-219d-4e95-9093-140822f9139c]: Modification: Pt. 14 Ch. A1 modified by [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1), [s. 41A(8)](https://www.legislation.gov.uk/ukpga/2003/1/section/41A/8) (as inserted (21.7.2008 with effect in accordance with Sch. 7 para. 80 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/22))
 
@@ -3846,62 +3846,62 @@ SCHEDULES
 
 [^M_C_f9ec9a61-0ee0-4b8f-cad7-fb742926191b]: Modification: Pt. 14 Ch. A1 modified by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 87B(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/87B/3) (as inserted (21.7.2008 with effect in accordance with Sch. 7 para. 115 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 108](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/108) (with [Sch. 7 paras. 116-119](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/116)))
 
-[^key-375ca1a98de0338b737e03e42e3107fb]: Modification: Pt. 14 Ch. A1 modified (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/19/3)
+[^c-375ca1a98de0338b737e03e42e3107fb]: Modification: Pt. 14 Ch. A1 modified (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/19/3)
 
-[^key-03535ba6557f24c6953d26cf08320b20]: Modification: Pt. 14 Ch. A1 modified by 2003 c. 1, s. 41F(8) (as substituted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47) (with [Sch. 9 para. 48](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/48)))
+[^c-03535ba6557f24c6953d26cf08320b20]: Modification: Pt. 14 Ch. A1 modified by 2003 c. 1, s. 41F(8) (as substituted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47) (with [Sch. 9 para. 48](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/48)))
 
-[^key-336b37b5d14f768073ecc136574339d3]: Modification: Pt. 14 Ch. A1 modified by 2005 c. 5, s. 643F(4) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-336b37b5d14f768073ecc136574339d3]: Modification: Pt. 14 Ch. A1 modified by 2005 c. 5, s. 643F(4) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-47bb5e1407c636ac49a553390244c026]: Modification: Pt. 14 Ch. A1 modified by 2005 c. 5, s. 643N(3)(4) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-47bb5e1407c636ac49a553390244c026]: Modification: Pt. 14 Ch. A1 modified by 2005 c. 5, s. 643N(3)(4) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-9e443fb457e153f4141745203e5efa21]: Modification: [Pt. 14 Ch. A1](https://www.legislation.gov.uk/ukpga/2007/3/part/14/chapter/A1) modified (temp.) (for the tax years 2025-26, 2026-27 and 2027-28) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 para. 18(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/18/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/18/2)
+[^c-9e443fb457e153f4141745203e5efa21]: Modification: [Pt. 14 Ch. A1](https://www.legislation.gov.uk/ukpga/2007/3/part/14/chapter/A1) modified (temp.) (for the tax years 2025-26, 2026-27 and 2027-28) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 para. 18(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/18/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/18/2)
 
-[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
+[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
 
-[^key-26452972a571a87bffa4647565545635]: Textual amendment: S. 809V cross heading substituted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/6)
+[^c-26452972a571a87bffa4647565545635]: Textual amendment: S. 809V cross heading substituted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/6)
 
-[^key-c5c5cb7574f58c28b1a8bfc62b2a2e3c]: Textual amendment: Ss. 809VA-809VO and cross-heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/7)
+[^c-c5c5cb7574f58c28b1a8bfc62b2a2e3c]: Textual amendment: Ss. 809VA-809VO and cross-heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/7)
 
-[^key-964d5d0afcb0cb549cc126f8afc4454f]: Textual amendment: S. 809W cross heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/8)
+[^c-964d5d0afcb0cb549cc126f8afc4454f]: Textual amendment: S. 809W cross heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/8)
 
-[^key-53fac2eae740ed4c95b3d32b87f124e4]: Textual amendment: S. 809X crossheading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/9)
+[^c-53fac2eae740ed4c95b3d32b87f124e4]: Textual amendment: S. 809X crossheading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/9)
 
-[^key-7419fbe51c268115ddd190d33ff0219f]: Modification: Pt. 14 Ch. 1 excluded by 2005 c. 5, s. 608X(3)(a) (as inserted (with effect in accordance with Sch. 3 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3/paragraph/4))
+[^c-7419fbe51c268115ddd190d33ff0219f]: Modification: Pt. 14 Ch. 1 excluded by 2005 c. 5, s. 608X(3)(a) (as inserted (with effect in accordance with Sch. 3 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3/paragraph/4))
 
-[^key-421918e5e9c459dda5791139c6475a51]: Textual amendment: [Pt. 14 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/14/chapter/1A) repealed (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 7(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/7/1)
+[^c-421918e5e9c459dda5791139c6475a51]: Textual amendment: [Pt. 14 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/14/chapter/1A) repealed (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 7(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/7/1)
 
-[^key-4cd9b24d51e9db73408c6906e54be819]: Textual amendment: Pt. 14 Ch. 2A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 77](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/77) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4cd9b24d51e9db73408c6906e54be819]: Textual amendment: Pt. 14 Ch. 2A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 77](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/77) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-27be6e20c4f0888363ba32997043fa54]: Textual amendment: Pt. 14 Ch. 2B inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-27be6e20c4f0888363ba32997043fa54]: Textual amendment: Pt. 14 Ch. 2B inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-4680ae1db14aacb297a4ecf4a68cd173]: Textual amendment: S. 835E and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4680ae1db14aacb297a4ecf4a68cd173]: Textual amendment: S. 835E and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-3b1259099c466a3e385317f15c806f0f]: Textual amendment: S. 835G and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-3b1259099c466a3e385317f15c806f0f]: Textual amendment: S. 835G and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-e57c8063f014b47419c0756a88e29f7a]: Textual amendment: S. 835L and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-e57c8063f014b47419c0756a88e29f7a]: Textual amendment: S. 835L and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-2065194cffe8aa780194a94e54bd37ce]: Textual amendment: S. 835M and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-2065194cffe8aa780194a94e54bd37ce]: Textual amendment: S. 835M and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-3027c5fba72c6e916989e2e8a205103b]: Textual amendment: S. 835R and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/16) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-3027c5fba72c6e916989e2e8a205103b]: Textual amendment: S. 835R and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/16) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-f8c9774d8ddc97191842c11734d2ff60]: Textual amendment: Pt. 14 Ch. 2C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/18) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f8c9774d8ddc97191842c11734d2ff60]: Textual amendment: Pt. 14 Ch. 2C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/18) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-0f2a57111ab50b504b4923bf92945a31]: Textual amendment: Pt. 14 Ch. 3A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/71) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-0f2a57111ab50b504b4923bf92945a31]: Textual amendment: Pt. 14 Ch. 3A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/71) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-cd30a7bca5d4c6619cdad489eac9d258]: Modification: Pt. 15 modified (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 551(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/551/4), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/78))
+[^c-cd30a7bca5d4c6619cdad489eac9d258]: Modification: Pt. 15 modified (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 551(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/551/4), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/78))
 
-[^key-02892f42eb26347bd62f5192118abcdf]: Textual amendment: Pt. 15 Ch. 2 heading substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/4)
+[^c-02892f42eb26347bd62f5192118abcdf]: Textual amendment: Pt. 15 Ch. 2 heading substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/4)
 
-[^key-e12a9e874376bef3aff4de194e2ad114]: Textual amendment: S. 851 cross-heading omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 1(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/1/b)
+[^c-e12a9e874376bef3aff4de194e2ad114]: Textual amendment: S. 851 cross-heading omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 1(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/1/b)
 
-[^key-a45860e9538c295f240c047a4f895237]: Textual amendment: S. 858 cross-heading omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/12/b)
+[^c-a45860e9538c295f240c047a4f895237]: Textual amendment: S. 858 cross-heading omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/12/b)
 
-[^key-10a1622155aa642bd71650a37d7cbfb9]: Textual amendment: Word in s. 863 cross-heading substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/13)
+[^c-10a1622155aa642bd71650a37d7cbfb9]: Textual amendment: Word in s. 863 cross-heading substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/13)
 
-[^key-99a3dd1d98b7a125addf90d52eae3a49]: Textual amendment: Ss. 914-917 and cross-heading repealed (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/1/b)
+[^c-99a3dd1d98b7a125addf90d52eae3a49]: Textual amendment: Ss. 914-917 and cross-heading repealed (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/1/b)
 
-[^key-10a8917674ffd7c9d15abc69f43ff446]: Textual amendment: S. 917A and cross-heading inserted (with effect in accordance with s. 41(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/1) (with [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/4))
+[^c-10a8917674ffd7c9d15abc69f43ff446]: Textual amendment: S. 917A and cross-heading inserted (with effect in accordance with s. 41(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/1) (with [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/4))
 
-[^key-66bd5ee46a516c1f3f9261acf7e22992]: Modification: Pt. 15 Ch. 9 modified (with effect in accordance with art. 2 of the commencing S.I.) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 47(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/47/4), [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/13/paragraph/13); [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
+[^c-66bd5ee46a516c1f3f9261acf7e22992]: Modification: Pt. 15 Ch. 9 modified (with effect in accordance with art. 2 of the commencing S.I.) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 47(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/47/4), [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/13/paragraph/13); [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
 
-[^key-7920ff4a5607779c7ac914e0c1fae59a]: Textual amendment: Ss. 925A-925F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/112) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-7920ff4a5607779c7ac914e0c1fae59a]: Textual amendment: Ss. 925A-925F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/112) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

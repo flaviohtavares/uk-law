@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Meaning of “SLAPP” claim[^key-9cecba317f798b28a1efc37a2456bd0a][^key-f469ac8eec15bfae8f2efa479f8a5979]
+## 195. Meaning of “SLAPP” claim[^c-9cecba317f798b28a1efc37a2456bd0a][^c-f469ac8eec15bfae8f2efa479f8a5979]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9cecba317f798b28a1efc37a2456bd0a]: Commencement: S. 195 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9cecba317f798b28a1efc37a2456bd0a]: Commencement: S. 195 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-f469ac8eec15bfae8f2efa479f8a5979]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/56/section/195) in force at 18.6.2025 in so far as not already in force by [S.I. 2025/718](https://www.legislation.gov.uk/uksi/2025/718), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/718/regulation/2/b)
+[^c-f469ac8eec15bfae8f2efa479f8a5979]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/56/section/195) in force at 18.6.2025 in so far as not already in force by [S.I. 2025/718](https://www.legislation.gov.uk/uksi/2025/718), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/718/regulation/2/b)

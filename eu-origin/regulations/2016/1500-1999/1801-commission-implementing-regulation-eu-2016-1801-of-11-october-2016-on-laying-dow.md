@@ -35,34 +35,34 @@ on laying down implementing technical standards with regard to the mapping of cr
 
 (Text with EEA relevance) (revoked)
 
-[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Mapping tables under the standardised approach[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]
+## Article 1. Mapping tables under the standardised approach[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Mapping tables under the ratings-based method[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]
+## Article 2. Mapping tables under the ratings-based method[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into Force[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]
+## Article 3. Entry into Force[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Mapping table under the standardised approach as referred to in Article 1[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]
+## ANNEX I — Mapping table under the standardised approach as referred to in Article 1[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Mapping table under the ratings-based method as referred to in Article 2[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]
+## ANNEX II — Mapping table under the ratings-based method as referred to in Article 2[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5be6b7520d7bf5bd6f77cbea4094f1c2]: Textual amendment: Regulation revoked (1.1.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2025/873](https://www.legislation.gov.uk/uksi/2025/873), [reg. 4(c)(iii)](https://www.legislation.gov.uk/uksi/2025/873/regulation/4/c/iii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/873/regulation/6))
+[^c-5be6b7520d7bf5bd6f77cbea4094f1c2]: Textual amendment: Regulation revoked (1.1.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2025/873](https://www.legislation.gov.uk/uksi/2025/873), [reg. 4(c)(iii)](https://www.legislation.gov.uk/uksi/2025/873/regulation/4/c/iii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/873/regulation/6))

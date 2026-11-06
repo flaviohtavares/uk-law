@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Qualifying conditions for the grant for travel[^key-791240b843f488a7395afc28cd28a2e8]
+## 32. Qualifying conditions for the grant for travel[^c-791240b843f488a7395afc28cd28a2e8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-791240b843f488a7395afc28cd28a2e8]: Commencement: Reg. 32 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-791240b843f488a7395afc28cd28a2e8]: Commencement: Reg. 32 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

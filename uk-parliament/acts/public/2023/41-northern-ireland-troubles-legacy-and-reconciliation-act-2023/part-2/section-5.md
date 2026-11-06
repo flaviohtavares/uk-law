@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Full disclosure to the ICRIR[^key-42dc01167dca369fc31da966258d1d12][^key-761180d8c1e2b9756bf848c4e1a915e3]
+## 5. Full disclosure to the ICRIR[^c-42dc01167dca369fc31da966258d1d12][^c-761180d8c1e2b9756bf848c4e1a915e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ for a relevant authority to make information, documents and other material avail
 
 ## Annotations
 
-[^key-42dc01167dca369fc31da966258d1d12]: Commencement: S. 5 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-42dc01167dca369fc31da966258d1d12]: Commencement: S. 5 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-761180d8c1e2b9756bf848c4e1a915e3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/41/section/5) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-761180d8c1e2b9756bf848c4e1a915e3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/41/section/5) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

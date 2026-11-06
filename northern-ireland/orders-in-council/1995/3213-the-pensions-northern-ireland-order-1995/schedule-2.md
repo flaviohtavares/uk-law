@@ -26,17 +26,17 @@ Article 123.
 
 #### Rules for determining pensionable age
 
-**1.** The following rules apply for the purposes of the enactments relating to social security, that is, the following Acts and the instruments (as defined in section 1 of the Interpretation Act (Northern Ireland) 1954[^c17253361]) made, or having effect as if made, under them: the Contributions and Benefits Act, the Administration Act, the Pension Schemes Act[^c17253371] , the State Pension Credit Act (Northern Ireland) 2002[^c21172171] , Part 1 of the Welfare Reform Act (Northern Ireland) 2007 and the Pensions Act (Northern Ireland) 2015[^key-1bc3b63edae8cb8eb0943da726de5b95] .
+**1.** The following rules apply for the purposes of the enactments relating to social security, that is, the following Acts and the instruments (as defined in section 1 of the Interpretation Act (Northern Ireland) 1954[^c17253361]) made, or having effect as if made, under them: the Contributions and Benefits Act, the Administration Act, the Pension Schemes Act[^c17253371] , the State Pension Credit Act (Northern Ireland) 2002[^c21172171] , Part 1 of the Welfare Reform Act (Northern Ireland) 2007 and the Pensions Act (Northern Ireland) 2015[^c-1bc3b63edae8cb8eb0943da726de5b95] .
 
 Rules
 
-(1) A man born before[^c21169161] 6th December 1953[^key-e0db3c6dea9579fc41477ce4e73f3daf] attains pensionable age when he attains the age of 65 years.
+(1) A man born before[^c21169161] 6th December 1953[^c-e0db3c6dea9579fc41477ce4e73f3daf] attains pensionable age when he attains the age of 65 years.
 
 (2) A woman born before 6th April 1950 attains pensionable age when she attains the age of 60.
 
 (3) A woman born on any day in a period mentioned in column 1 of table 1[^c21169171] attains pensionable age at the commencement of the day shown against that period in column 2.
 
-(4)[^key-581d9a265c5ec05e35850d5259606f5b][^c21169211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-581d9a265c5ec05e35850d5259606f5b][^c21169211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c21169231] In tables 1 to 4, any reference to a period in column 1 of that table includes a reference to the first day of that period.
 
@@ -81,7 +81,7 @@ Rules
 | 6th January 1953 to 5th February 1953 | 6th November 2015 |
 | 6th February 1953 to 5th March 1953 | 6th January 2016 |
 | 6th March 1953 to 5th April 1953 | 6th March 2016 |
-| 6th April 1953 to 5th May 1953[^key-4a9a8c637bee5c807cd7a695c408cc8b] | 6th July 2016 |
+| 6th April 1953 to 5th May 1953[^c-4a9a8c637bee5c807cd7a695c408cc8b] | 6th July 2016 |
 | 6th May 1953 to 5th June 1953 | 6th November 2016 |
 | 6th June 1953 to 5th July 1953 | 6th March 2017 |
 | 6th July 1953 to 5th August 1953 | 6th July 2017 |
@@ -96,7 +96,7 @@ TABLE 2
 
 | (1) | (2) |
 | --- | --- |
-| *Period within which birthday falls[^key-dd3b1ec891d252a898a6cea39067ee70]* | *Day pensionable age attained* |
+| *Period within which birthday falls[^c-dd3b1ec891d252a898a6cea39067ee70]* | *Day pensionable age attained* |
 | 6th December 1953 to 5th January 1954 | 6th March 2019 |
 | 6th January 1954 to 5th February 1954 | 6th May 2019 |
 | 6th February 1954 to 5th March 1954 | 6th July 2019 |
@@ -108,9 +108,9 @@ TABLE 2
 | 6th August 1954 to 5th September 1954 | 6th July 2020 |
 | 6th September 1954 to 5th October 1954 | 6th September 2020 |
 
-(7) A person born after 5th October 1954[^key-a5af52f1170287601e3517ae21649eb7] but before 6th April 1960[^key-249aeb399eb2274c85fe6c437760d26b] attains pensionable age when the person attains the age of 66.
+(7) A person born after 5th October 1954[^c-a5af52f1170287601e3517ae21649eb7] but before 6th April 1960[^c-249aeb399eb2274c85fe6c437760d26b] attains pensionable age when the person attains the age of 66.
 
-(8)[^key-5f3f34336cbeeca5015a5f37324ec6fc] A person born on any day in a period mentioned in column 1 of table 3 attains pensionable age when the person attains the age shown against that period in column 2.
+(8)[^c-5f3f34336cbeeca5015a5f37324ec6fc] A person born on any day in a period mentioned in column 1 of table 3 attains pensionable age when the person attains the age shown against that period in column 2.
 
 TABLE 3
 
@@ -135,7 +135,7 @@ TABLE 3
 - (b) a person born on 31st December 1960 is to be taken to attain the age of 66 years and 9 months at the commencement of 30th September 2027;
 - (c) a person born on 31st January 1961 is to be taken to attain the age of 66 years and 10 months at the commencement of 30th November 2027
 
-(9) A person born after 5th March 1961[^key-a9b130c4fae8eadd4cd817db86107f8b] but before 6th April 1977 attains pensionable age when the person attains the age of 67.
+(9) A person born after 5th March 1961[^c-a9b130c4fae8eadd4cd817db86107f8b] but before 6th April 1977 attains pensionable age when the person attains the age of 67.
 
 (10) A person born on any day in a period mentioned in column 1 of table 4 attains pensionable age at the commencement of the day shown against that period in column 2.
 
@@ -246,9 +246,9 @@ TABLE 4
 
 .
 
-(2)[^key-3b1bb6b0adfd392d9f40ec0103d5bab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3b1bb6b0adfd392d9f40ec0103d5bab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3b1bb6b0adfd392d9f40ec0103d5bab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3b1bb6b0adfd392d9f40ec0103d5bab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Home responsibilities protection
 
@@ -309,15 +309,15 @@ TABLE 4
 
 [^c21172171]: Textual amendment: Words in Sch. 2 para. 1 substituted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 28(1)](https://www.legislation.gov.uk/nia/2007/2/section/28/1), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/8); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
-[^key-1bc3b63edae8cb8eb0943da726de5b95]: Textual amendment: Words in Sch. 2 para. 1 substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 26](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/26)
+[^c-1bc3b63edae8cb8eb0943da726de5b95]: Textual amendment: Words in Sch. 2 para. 1 substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 26](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/26)
 
 [^c21169161]: Textual amendment: Words in Sch. 2 para. 1(1) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 11(1)](https://www.legislation.gov.uk/nia/2008/1/section/11/1), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/nia/2008/1/schedule/3/paragraph/4/2)
 
-[^key-e0db3c6dea9579fc41477ce4e73f3daf]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(2)](https://www.legislation.gov.uk/nia/2012/3/section/1/2), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
+[^c-e0db3c6dea9579fc41477ce4e73f3daf]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(2)](https://www.legislation.gov.uk/nia/2012/3/section/1/2), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
 
 [^c21169171]: Textual amendment: Words in Sch. 2 para. 1(3) substituted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 11(1)](https://www.legislation.gov.uk/nia/2008/1/section/11/1), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/nia/2008/1/schedule/3/paragraph/4/3)
 
-[^key-581d9a265c5ec05e35850d5259606f5b]: Textual amendment: Sch. 2 para. 1(4) omitted (2.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(3)](https://www.legislation.gov.uk/nia/2012/3/section/1/3), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
+[^c-581d9a265c5ec05e35850d5259606f5b]: Textual amendment: Sch. 2 para. 1(4) omitted (2.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(3)](https://www.legislation.gov.uk/nia/2012/3/section/1/3), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
 
 [^c21169211]: Textual amendment: Sch. 2 para. 1(4) substituted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 11(1)](https://www.legislation.gov.uk/nia/2008/1/section/11/1), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/nia/2008/1/schedule/3/paragraph/4/4)
 
@@ -325,22 +325,22 @@ TABLE 4
 
 [^c21172111]: Textual amendment: Table heading in Sch. 2 para. 1(5) substituted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 11(1)](https://www.legislation.gov.uk/nia/2008/1/section/11/1), [Sch. 3 para. 4(6)](https://www.legislation.gov.uk/nia/2008/1/schedule/3/paragraph/4/6)
 
-[^key-4a9a8c637bee5c807cd7a695c408cc8b]: Textual amendment: Entries in Sch. 2 Table 1 substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(4)](https://www.legislation.gov.uk/nia/2012/3/section/1/4), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
+[^c-4a9a8c637bee5c807cd7a695c408cc8b]: Textual amendment: Entries in Sch. 2 Table 1 substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(4)](https://www.legislation.gov.uk/nia/2012/3/section/1/4), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
 
 [^c21169291]: Textual amendment: Sch. 2 para. 1(6)-(11) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 11(1)](https://www.legislation.gov.uk/nia/2008/1/section/11/1), [Sch. 3 para. 4(7)](https://www.legislation.gov.uk/nia/2008/1/schedule/3/paragraph/4/7)
 
-[^key-dd3b1ec891d252a898a6cea39067ee70]: Textual amendment: Sch. 2 Table 2 substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(5)](https://www.legislation.gov.uk/nia/2012/3/section/1/5), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
+[^c-dd3b1ec891d252a898a6cea39067ee70]: Textual amendment: Sch. 2 Table 2 substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(5)](https://www.legislation.gov.uk/nia/2012/3/section/1/5), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
 
-[^key-a5af52f1170287601e3517ae21649eb7]: Textual amendment: Words in Sch. 2 para. 1(7) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(6)](https://www.legislation.gov.uk/nia/2012/3/section/1/6), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
+[^c-a5af52f1170287601e3517ae21649eb7]: Textual amendment: Words in Sch. 2 para. 1(7) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 1(6)](https://www.legislation.gov.uk/nia/2012/3/section/1/6), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
 
-[^key-249aeb399eb2274c85fe6c437760d26b]: Textual amendment: Words in Sch. 2 para. 1(7) substituted (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 26(2)](https://www.legislation.gov.uk/nia/2015/5/section/26/2), [53(2)(a)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/a)
+[^c-249aeb399eb2274c85fe6c437760d26b]: Textual amendment: Words in Sch. 2 para. 1(7) substituted (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 26(2)](https://www.legislation.gov.uk/nia/2015/5/section/26/2), [53(2)(a)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/a)
 
-[^key-5f3f34336cbeeca5015a5f37324ec6fc]: Textual amendment: Sch. 2 para. 1(8)(8A) substituted for Sch. 2 para. 1(8) (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 26(3)](https://www.legislation.gov.uk/nia/2015/5/section/26/3), [53(2)(a)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/a)
+[^c-5f3f34336cbeeca5015a5f37324ec6fc]: Textual amendment: Sch. 2 para. 1(8)(8A) substituted for Sch. 2 para. 1(8) (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 26(3)](https://www.legislation.gov.uk/nia/2015/5/section/26/3), [53(2)(a)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/a)
 
-[^key-a9b130c4fae8eadd4cd817db86107f8b]: Textual amendment: Words in Sch. 2 para. 1(9) substituted (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 26(4)](https://www.legislation.gov.uk/nia/2015/5/section/26/4), [53(2)(a)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/a)
+[^c-a9b130c4fae8eadd4cd817db86107f8b]: Textual amendment: Words in Sch. 2 para. 1(9) substituted (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 26(4)](https://www.legislation.gov.uk/nia/2015/5/section/26/4), [53(2)(a)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/a)
 
 [^c21164831]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisi/1995/3213/schedule/2/paragraph/2) repealed (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 4(2)](https://www.legislation.gov.uk/nia/2008/1/section/4/2), [19(2)(3)(a)](https://www.legislation.gov.uk/nia/2008/1/section/19/2/3/a), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))
 
-[^key-3b1bb6b0adfd392d9f40ec0103d5bab9]: Textual amendment: [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nisi/1995/3213/schedule/2/paragraph/3/2)[(3)](https://www.legislation.gov.uk/nisi/1995/3213/schedule/2/paragraph/3/3) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 63](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/63)
+[^c-3b1bb6b0adfd392d9f40ec0103d5bab9]: Textual amendment: [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nisi/1995/3213/schedule/2/paragraph/3/2)[(3)](https://www.legislation.gov.uk/nisi/1995/3213/schedule/2/paragraph/3/3) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 63](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/63)
 
 [^c17253391]: Textual amendment: prosp. subst. by [2005 NI 1](https://www.legislation.gov.uk/2005/ni1)

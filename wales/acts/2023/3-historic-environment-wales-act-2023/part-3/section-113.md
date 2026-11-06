@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Listed building partnership agreements[^key-6e06a5199d5f79a9a442ddac1169dc6a][^key-5ecdcf786fa42251e02095b5e1a31467]
+## 113. Listed building partnership agreements[^c-6e06a5199d5f79a9a442ddac1169dc6a][^c-5ecdcf786fa42251e02095b5e1a31467]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e06a5199d5f79a9a442ddac1169dc6a]: Commencement: S. 113 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-6e06a5199d5f79a9a442ddac1169dc6a]: Commencement: S. 113 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-5ecdcf786fa42251e02095b5e1a31467]: Commencement: [S. 113](https://www.legislation.gov.uk/asc/2023/3/section/113) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-5ecdcf786fa42251e02095b5e1a31467]: Commencement: [S. 113](https://www.legislation.gov.uk/asc/2023/3/section/113) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

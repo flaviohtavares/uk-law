@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Opting out[^key-30c7160f3f0e0343f5cd309dee3b352a]
+## 9. Opting out[^c-30c7160f3f0e0343f5cd309dee3b352a]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) An opt out notice is valid if—
 
-- (a)[^key-620b864ba3ff71f940954648ff412c82] it includes the wording set out in Schedule 1;
+- (a)[^c-620b864ba3ff71f940954648ff412c82] it includes the wording set out in Schedule 1;
 - (aa) it includes statements from the jobholder to the effect that the jobholder wishes to opt out of pension saving and understands that, in so doing, the jobholder will lose the right to pension contributions from the employer and may have a lower income upon retirement;
 - (b) it includes the jobholder’s name;
 - (c) it includes the jobholder’s national insurance number or date of birth;
@@ -47,12 +47,12 @@ summary: ''
 - (a) the employer must inform the jobholder of the reason for the invalidity, and
 - (b) paragraphs (2) and (3) are modified so that for the reference to “one month” there is substituted “6 weeks”.
 
-(8)[^key-7e50084b3ab5b9b83051bff83dba5b7f] Where an employer has accepted as valid an opt out notice prior to the coming into operation of regulation 4(6) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013, the notice is deemed to be valid on the coming into operation of that provision.
+(8)[^c-7e50084b3ab5b9b83051bff83dba5b7f] Where an employer has accepted as valid an opt out notice prior to the coming into operation of regulation 4(6) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013, the notice is deemed to be valid on the coming into operation of that provision.
 
 ## Annotations
 
-[^key-30c7160f3f0e0343f5cd309dee3b352a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/122/regulation/9) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-30c7160f3f0e0343f5cd309dee3b352a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/122/regulation/9) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-620b864ba3ff71f940954648ff412c82]: Textual amendment: [Reg. 9(6)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/6/a)[(aa)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/6/aa) substituted for [reg. 9(6)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/6/a) (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(6)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/6/a)
+[^c-620b864ba3ff71f940954648ff412c82]: Textual amendment: [Reg. 9(6)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/6/a)[(aa)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/6/aa) substituted for [reg. 9(6)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/6/a) (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(6)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/6/a)
 
-[^key-7e50084b3ab5b9b83051bff83dba5b7f]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/8) added (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(6)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/6/b)
+[^c-7e50084b3ab5b9b83051bff83dba5b7f]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/nisr/2010/122/regulation/9/8) added (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(6)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/6/b)

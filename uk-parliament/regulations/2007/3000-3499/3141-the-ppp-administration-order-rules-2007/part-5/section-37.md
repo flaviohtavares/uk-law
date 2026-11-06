@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Special PPP Administrator deceased[^key-c871fff975142f5788a4bb5a923ed4c1]
+## 37. Special PPP Administrator deceased[^c-c871fff975142f5788a4bb5a923ed4c1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c871fff975142f5788a4bb5a923ed4c1]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2007/3141/rule/37) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-c871fff975142f5788a4bb5a923ed4c1]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2007/3141/rule/37) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

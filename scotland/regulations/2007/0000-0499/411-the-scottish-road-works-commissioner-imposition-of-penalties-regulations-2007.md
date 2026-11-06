@@ -48,15 +48,15 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 163A of that Act[^f00002] they have consulted with such persons and road works authorities as they think appropriate.
 
-## 1. Citation and commencement[^key-e4763367a41e066bf90d73462a2af528]
+## 1. Citation and commencement[^c-e4763367a41e066bf90d73462a2af528]
 
 These Regulations may be cited as the Scottish Road Works Commissioner (Imposition of Penalties) Regulations 2007 and come into force on 1st October 2007.
 
-## 2. Interpretation[^key-ff52a152ffa15a875fb91dcbbeea7b63]
+## 2. Interpretation[^c-ff52a152ffa15a875fb91dcbbeea7b63]
 
 In these Regulations “the 1991 Act” means the New Roads and Street Works Act 1991.
 
-## 3. Imposition of penalties[^key-a3c541823b948dc3c7ec931dd513ccae]
+## 3. Imposition of penalties[^c-a3c541823b948dc3c7ec931dd513ccae]
 
 Where the Commissioner[^f00003] is satisfied that–
 
@@ -65,19 +65,19 @@ Where the Commissioner[^f00003] is satisfied that–
 
 the Commissioner may impose a penalty on the road works authority or the undertaker, as the case may be.
 
-## 4. Level of penalties[^key-6615a8faf056d569f0c272f6ec10e2a6]
+## 4. Level of penalties[^c-6615a8faf056d569f0c272f6ec10e2a6]
 
 (1) Subject to paragraph (2), a penalty imposed under regulation 3 shall be of such amount as the Commissioner thinks appropriate in all the circumstances of the case.
 
 (2) The amount of a penalty mentioned in paragraph (1) above shall not exceed £50,000.
 
-## 5. Payment of penalties[^key-b1e9b85ed008fb74fd9d9aeca76bc197]
+## 5. Payment of penalties[^c-b1e9b85ed008fb74fd9d9aeca76bc197]
 
 (1) Subject to paragraph (2), any penalty imposed under regulation 3 shall be payable to the Scottish Ministers, within 36 days of its imposition.
 
 (2) Where a road works authority or, as the case may be, an undertaker, appeals under regulation 8, against the imposition of a penalty, the 36 day period for payment shall be suspended from the day on which the appeal is lodged until the day on which the appeal is determined.
 
-## 6. Notification of penalties[^key-ed67506abbc87052c0448fb4b26e54b2]
+## 6. Notification of penalties[^c-ed67506abbc87052c0448fb4b26e54b2]
 
 (1) Where a penalty has been imposed under regulation 3, the Commissioner shall give notice in writing to the chief executive officer of that road works authority or undertaker, as the case may be.
 
@@ -89,11 +89,11 @@ the Commissioner may impose a penalty on the road works authority or the underta
 - (d) the methods by which the penalty may be paid; and
 - (e) the date, being 36 days from the imposition of the penalty, by which it must be paid.
 
-## 7. Enforcement of penalties[^key-4fd885e00062f8e6c7997a61b7e57736]
+## 7. Enforcement of penalties[^c-4fd885e00062f8e6c7997a61b7e57736]
 
 Where a penalty imposed under regulation 3 remains unpaid after 36 days from its imposition it shall be enforceable in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom.
 
-## 8. Appeals[^key-0551a401794a8fc133b3ed006b5eb164]
+## 8. Appeals[^c-0551a401794a8fc133b3ed006b5eb164]
 
 (1) A road works authority or an undertaker on whom a penalty has been imposed under regulation 3 may appeal to the sheriff against the imposition of the penalty by the Commissioner.
 
@@ -142,11 +142,11 @@ Regulation 8 provides that a road works authority or an undertaker upon whom a p
 
 [^f00002]: Footnote: Section 163A was inserted by section 39 of the 2005 Act.
 
-[^key-e4763367a41e066bf90d73462a2af528]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-e4763367a41e066bf90d73462a2af528]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
 
-[^key-ff52a152ffa15a875fb91dcbbeea7b63]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-ff52a152ffa15a875fb91dcbbeea7b63]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
 
-[^key-a3c541823b948dc3c7ec931dd513ccae]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-a3c541823b948dc3c7ec931dd513ccae]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
 
 [^f00003]: Footnote: See reference to the Scottish Road Works Commissioner in section 112A(1) of the 1991 Act. Section 112A was inserted by section 19 of the 2005 Act.
 
@@ -154,12 +154,12 @@ Regulation 8 provides that a road works authority or an undertaker upon whom a p
 
 [^f00005]: Footnote: Section 119 was amended by section 24 of the 2005 Act.
 
-[^key-6615a8faf056d569f0c272f6ec10e2a6]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-6615a8faf056d569f0c272f6ec10e2a6]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
 
-[^key-b1e9b85ed008fb74fd9d9aeca76bc197]: Commencement: Reg. 5 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-b1e9b85ed008fb74fd9d9aeca76bc197]: Commencement: Reg. 5 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
 
-[^key-ed67506abbc87052c0448fb4b26e54b2]: Commencement: Reg. 6 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-ed67506abbc87052c0448fb4b26e54b2]: Commencement: Reg. 6 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
 
-[^key-4fd885e00062f8e6c7997a61b7e57736]: Commencement: Reg. 7 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-4fd885e00062f8e6c7997a61b7e57736]: Commencement: Reg. 7 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
 
-[^key-0551a401794a8fc133b3ed006b5eb164]: Commencement: Reg. 8 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)
+[^c-0551a401794a8fc133b3ed006b5eb164]: Commencement: Reg. 8 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/411/regulation/1)

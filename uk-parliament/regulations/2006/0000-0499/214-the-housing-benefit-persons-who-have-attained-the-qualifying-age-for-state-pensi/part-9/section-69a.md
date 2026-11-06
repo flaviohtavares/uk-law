@@ -14,11 +14,11 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 69A. Notice of changes of circumstances given electronically[^key-d66e0271191d58c460c9320a36ce880b]
+## 69A. Notice of changes of circumstances given electronically[^c-d66e0271191d58c460c9320a36ce880b]
 
-(1)[^key-923a5f8be15c72b5c2f4a78b0f9a5e2c] A person may give notice of a change of circumstances required to be notified under regulation 69 by means of an electronic communication in accordance with Schedule 10.
+(1)[^c-923a5f8be15c72b5c2f4a78b0f9a5e2c] A person may give notice of a change of circumstances required to be notified under regulation 69 by means of an electronic communication in accordance with Schedule 10.
 
-(2)[^key-fdb366a772908399356cd8d90eb27783] Where—
+(2)[^c-fdb366a772908399356cd8d90eb27783] Where—
 
 - (a) the change of circumstances required to be notified is a death; and
 - (b) the authority administering the claimant's housing benefit agrees with the Secretary of State that notifications may be made in accordance with regulation 69ZA(1) (alternative means of notifying changes of circumstances),
@@ -31,8 +31,8 @@ a person may give notice of the change to the Secretary of State by means of an 
 
 ## Annotations
 
-[^key-d66e0271191d58c460c9320a36ce880b]: Textual amendment: Reg. 69A and heading inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [art. 3(4)](https://www.legislation.gov.uk/uksi/2006/2968/article/3/4)
+[^c-d66e0271191d58c460c9320a36ce880b]: Textual amendment: Reg. 69A and heading inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [art. 3(4)](https://www.legislation.gov.uk/uksi/2006/2968/article/3/4)
 
-[^key-923a5f8be15c72b5c2f4a78b0f9a5e2c]: Textual amendment: Reg. 69A(1): reg. 69A renumbered as reg. 69A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/7/2)
+[^c-923a5f8be15c72b5c2f4a78b0f9a5e2c]: Textual amendment: Reg. 69A(1): reg. 69A renumbered as reg. 69A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/7/2)
 
-[^key-fdb366a772908399356cd8d90eb27783]: Textual amendment: Regs. 69A(2)-(4) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/7/3)
+[^c-fdb366a772908399356cd8d90eb27783]: Textual amendment: Regs. 69A(2)-(4) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/7/3)

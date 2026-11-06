@@ -29,7 +29,7 @@ summary: ''
 - (e) disregarded transaction income (see section 814), or
 - (f) income of such other description as the Treasury may by regulations designate for the purposes of this section.
 
-(2) But income in relation to which the non-UK resident has a UK representative for the purposes of Chapter 2B[^key-1a98fac3f48aee3b276cc6240c85b77e] is not disregarded income.
+(2) But income in relation to which the non-UK resident has a UK representative for the purposes of Chapter 2B[^c-1a98fac3f48aee3b276cc6240c85b77e] is not disregarded income.
 
 (3) Income is “disregarded pension income” if it is chargeable under Part 9 of ITEPA 2003 (pension income) because any of the following provisions of that Act applies to it—
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a98fac3f48aee3b276cc6240c85b77e]: Textual amendment: Words in s. 813(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 282](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/282) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-1a98fac3f48aee3b276cc6240c85b77e]: Textual amendment: Words in s. 813(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 282](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/282) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

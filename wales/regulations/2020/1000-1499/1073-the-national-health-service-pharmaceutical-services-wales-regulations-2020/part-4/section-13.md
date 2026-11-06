@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Areas that are controlled localities[^key-2e3cfe7d40aa413db4c5f390562f3537]
+## 13. Areas that are controlled localities[^c-2e3cfe7d40aa413db4c5f390562f3537]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ continues to be, or to be part of, a controlled locality for the purposes of the
 
 ## Annotations
 
-[^key-2e3cfe7d40aa413db4c5f390562f3537]: Commencement: Reg. 13 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-2e3cfe7d40aa413db4c5f390562f3537]: Commencement: Reg. 13 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

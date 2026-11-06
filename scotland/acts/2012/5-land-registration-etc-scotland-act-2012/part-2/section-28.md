@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Conditions of registration: voluntary registration[^key-58037c5696bcf1752eca9ad812821d2a]
+## 28. Conditions of registration: voluntary registration[^c-58037c5696bcf1752eca9ad812821d2a]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58037c5696bcf1752eca9ad812821d2a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2012/5/section/28) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-58037c5696bcf1752eca9ad812821d2a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2012/5/section/28) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

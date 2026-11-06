@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Categories of alcoholic products: regulations[^M_I_0ebe6ff8-6e43-4699-fd2e-63bc7bbca98e][^key-5c5d605c3ca4b56bc43ba5cdb1838a02]
+## 46. Categories of alcoholic products: regulations[^M_I_0ebe6ff8-6e43-4699-fd2e-63bc7bbca98e][^c-5c5d605c3ca4b56bc43ba5cdb1838a02]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The Treasury may by regulations—
 
 [^M_I_0ebe6ff8-6e43-4699-fd2e-63bc7bbca98e]: Commencement: S. 46 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-5c5d605c3ca4b56bc43ba5cdb1838a02]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/30/section/46) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-5c5d605c3ca4b56bc43ba5cdb1838a02]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/30/section/46) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

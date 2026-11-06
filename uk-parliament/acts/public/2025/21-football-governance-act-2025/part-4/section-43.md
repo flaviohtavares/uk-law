@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Ownership removal orders[^key-e6fe190a0f689ea038136cc54cb44d97][^key-9286cf8b72f6b0d80f0d60f0626afb3b][^key-eb75273388fce5bf035b7cc41a99636e]
+## 43. Ownership removal orders[^c-e6fe190a0f689ea038136cc54cb44d97][^c-9286cf8b72f6b0d80f0d60f0626afb3b][^c-eb75273388fce5bf035b7cc41a99636e]
 
 *Extent: E+W*
 
@@ -65,8 +65,8 @@ in connection with the exercise of the trustee’s functions under the order.
 
 ## Annotations
 
-[^key-e6fe190a0f689ea038136cc54cb44d97]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-e6fe190a0f689ea038136cc54cb44d97]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-9286cf8b72f6b0d80f0d60f0626afb3b]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/21/section/43) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/xii)
+[^c-9286cf8b72f6b0d80f0d60f0626afb3b]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/21/section/43) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/xii)
 
-[^key-eb75273388fce5bf035b7cc41a99636e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/21/section/43) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/xi)
+[^c-eb75273388fce5bf035b7cc41a99636e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/21/section/43) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/xi)

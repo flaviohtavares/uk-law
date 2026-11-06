@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.51. Application for conferral of powers on a management receiver or an enforcement receiver[^key-65d7e2a4890f49b644206ac6c0c6feee]
+## 33.51. Application for conferral of powers on a management receiver or an enforcement receiver[^c-65d7e2a4890f49b644206ac6c0c6feee]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ at least 5 business days before the date fixed by the court for hearing the appl
 
 ## Annotations
 
-[^key-65d7e2a4890f49b644206ac6c0c6feee]: Commencement: [Rule 33.51](https://www.legislation.gov.uk/uksi/2025/909/rule/33.51) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-65d7e2a4890f49b644206ac6c0c6feee]: Commencement: [Rule 33.51](https://www.legislation.gov.uk/uksi/2025/909/rule/33.51) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

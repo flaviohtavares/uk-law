@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73A. Notification postal signing entitlement is to end[^key-1a34a603979c2e7a74d881e27243b4e1]
+## 73A. Notification postal signing entitlement is to end[^c-1a34a603979c2e7a74d881e27243b4e1]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a34a603979c2e7a74d881e27243b4e1]: Textual amendment: Reg. 73A inserted (E.W.S.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(15)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/15) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-1a34a603979c2e7a74d881e27243b4e1]: Textual amendment: Reg. 73A inserted (E.W.S.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(15)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/15) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))

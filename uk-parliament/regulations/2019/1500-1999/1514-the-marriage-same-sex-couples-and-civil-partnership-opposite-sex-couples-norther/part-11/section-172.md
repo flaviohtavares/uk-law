@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Pre-13th January 2020 will is not revoked by recognition of existing overseas relationship[^key-8f8443f067254174506510dc4bc465a4]
+## 172. Pre-13th January 2020 will is not revoked by recognition of existing overseas relationship[^c-8f8443f067254174506510dc4bc465a4]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ Article 13A of the Wills and Administration Proceedings (Northern Ireland) Order
 
 ## Annotations
 
-[^key-8f8443f067254174506510dc4bc465a4]: Commencement: Reg. 172 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8f8443f067254174506510dc4bc465a4]: Commencement: Reg. 172 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00288]: Footnote: [S.I. 1985/1899 (N.I. 13)](https://www.legislation.gov.uk/nisi/1985/1899). Article 13A was inserted by paragraph 5 of Schedule 14 to the Civil Partnership Act 2004.

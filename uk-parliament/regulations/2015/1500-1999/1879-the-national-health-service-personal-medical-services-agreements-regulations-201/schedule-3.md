@@ -56,7 +56,7 @@ In regulation 2 of the National Health Service (Pharmaceutical and Local Pharmac
 
 ### 5. Amendment of the National Health Service ( Clinical Commissioning Groups – Disapplication of Responsibility) Regulations 2013
 
-In regulation 2 of the National Health Service (Clinical Commissioning Groups – Disapplication of Responsibility Regulations 2013 [^c22691011] (persons for whom an integrated care board[^key-ab9f2e83fb483ad88b07a3644061f022] does not have responsibility in relation to its duty to commission services), in paragraph (4)(a), for “paragraph 15 of Schedule 5 to the National Health Service (Personal Medical Services Agreements) Regulations 2004” substitute “ paragraph 19 of Schedule 2 to the National Health Service (Personal Medical Services Agreements) Regulations 2015 ”.
+In regulation 2 of the National Health Service (Clinical Commissioning Groups – Disapplication of Responsibility Regulations 2013 [^c22691011] (persons for whom an integrated care board[^c-ab9f2e83fb483ad88b07a3644061f022] does not have responsibility in relation to its duty to commission services), in paragraph (4)(a), for “paragraph 15 of Schedule 5 to the National Health Service (Personal Medical Services Agreements) Regulations 2004” substitute “ paragraph 19 of Schedule 2 to the National Health Service (Personal Medical Services Agreements) Regulations 2015 ”.
 
 ### 6. Amendment to the National Health Service (Procurement, Patient Choice and Competition) (No 2) Regulations 2013
 
@@ -82,7 +82,7 @@ In regulation 2 of the National Health Service (Charges for Drugs and Appliances
 
 [^c22691011]: Marginal citation: [S.I. 2013/350](https://www.legislation.gov.uk/uksi/2013/350). There are no relevant amending instruments.
 
-[^key-ab9f2e83fb483ad88b07a3644061f022]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/1879) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-ab9f2e83fb483ad88b07a3644061f022]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/1879) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^c22691021]: Marginal citation: [S.I. 2013/500](https://www.legislation.gov.uk/uksi/2013/500).There are no relevant amending instruments.
 

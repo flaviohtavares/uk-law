@@ -35,7 +35,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ## General Synod
 
-### 1. Remote meetings: indefinite application of special standing orders[^key-6cd6eedc6c64719cdeab2f098754887b]
+### 1. Remote meetings: indefinite application of special standing orders[^c-6cd6eedc6c64719cdeab2f098754887b]
 
 (1) In section 1 of the General Synod (Remote Meetings) (Temporary Standing Orders) Measure 2020 (special standing orders)—
 
@@ -54,7 +54,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 (3) The General Synod (Remote Meetings) (Temporary Standing Orders) Measure 2020 may be cited as the General Synod (Remote Meetings) Measure 2020; and, accordingly, in section 5(1) of that Measure (short title), omit “(Temporary Standing Orders)”.
 
-### 2. Legislative Reform Measure 2018: removal of sunset[^key-5a427af32e411035e8cc88d6c7af5f67]
+### 2. Legislative Reform Measure 2018: removal of sunset[^c-5a427af32e411035e8cc88d6c7af5f67]
 
 (1) Section 10 of the Legislative Reform Measure 2018 (which provides for the expiry of the power to make legislative reform orders five years after the first such order was laid before the General Synod) is repealed.
 
@@ -64,7 +64,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 - (b) sections 1 to 7 of the Legislative Reform Measure 2018 are revived and are to remain in force for an indefinite period, and
 - (c) in consequence of paragraph (b), in section 9 of that Measure (orders), before “8”, in each place it appears, insert “1 or”.
 
-### 3. Safeguarding Code revisions: exceptions to requirement for Synod approval[^key-5852ec7e3bb66b529e0733559178c60f]
+### 3. Safeguarding Code revisions: exceptions to requirement for Synod approval[^c-5852ec7e3bb66b529e0733559178c60f]
 
 In section 5C of the Safeguarding and Clergy Discipline Measure 2016 (Code of Practice: scrutiny and commencement), in subsection (5), at the end insert
 
@@ -73,7 +73,7 @@ In section 5C of the Safeguarding and Clergy Discipline Measure 2016 (Code of Pr
 > - (a) proposed revisions to requirements imposed by the Code on relevant persons, if the House of Bishops considers that those proposed revisions are insubstantial, or
 > - (b) proposed revisions to guidance given by the Code to relevant persons on compliance with requirements imposed by the Code on them.
 
-### 4. Change of name of suffragan see: removal of requirement for Synod approval[^key-d8ec77726a615d0489da3be2a9f49355][^key-884cf00996ac1363c11e8af1422539f9]
+### 4. Change of name of suffragan see: removal of requirement for Synod approval[^c-d8ec77726a615d0489da3be2a9f49355][^c-884cf00996ac1363c11e8af1422539f9]
 
 (1) In section 11 of the Dioceses, Pastoral and Mission Measure 2007 (change of name of see), in subsection (2), after “a petition under subsection (1) above” insert “to change the name of a diocesan see”.
 
@@ -85,7 +85,7 @@ In section 5C of the Safeguarding and Clergy Discipline Measure 2016 (Code of Pr
 
 ## Ecclesiastical offices
 
-### 5. Terms of service[^key-ea736ff8c3dc4dc082904e7674608f46]
+### 5. Terms of service[^c-ea736ff8c3dc4dc082904e7674608f46]
 
 (1) In regulation 2 of the Ecclesiastical Offices (Terms of Service) Regulations 2009 (interpretation), after paragraph (3) insert—
 
@@ -105,7 +105,7 @@ In section 5C of the Safeguarding and Clergy Discipline Measure 2016 (Code of Pr
 
 (6) The amendments made by this section do not affect the power to make further regulations amending or revoking the provision made by those amendments.
 
-### 6. Delegation of episcopal functions[^key-cf581cf4d425a4599fa9f087716c4523]
+### 6. Delegation of episcopal functions[^c-cf581cf4d425a4599fa9f087716c4523]
 
 (1) After section 14 of the Dioceses, Pastoral and Mission Measure 2007 insert—
 
@@ -134,7 +134,7 @@ In section 5C of the Safeguarding and Clergy Discipline Measure 2016 (Code of Pr
 
 (5) In consequence of subsection (4), in the title to section 16 of that Measure, after “a diocesan bishop” insert “or an archbishop”.
 
-### 7. Lay residentiary canons[^key-958cf29e64dde2c34ae850965b25604c]
+### 7. Lay residentiary canons[^c-958cf29e64dde2c34ae850965b25604c]
 
 (1) After section 14 of the Cathedrals Measure 2021 insert—
 
@@ -160,7 +160,7 @@ In section 5C of the Safeguarding and Clergy Discipline Measure 2016 (Code of Pr
 
 (5) The amendment made by paragraph 8 of Schedule 1 does not affect the power to make further regulations amending or revoking the provision made by that amendment.
 
-### 8. Registered patron disqualified from election: exercise of patronage[^key-751f009a2ac8ff340f630ccbfc4a18ae]
+### 8. Registered patron disqualified from election: exercise of patronage[^c-751f009a2ac8ff340f630ccbfc4a18ae]
 
 In the Patronage (Benefices) Measure 1986, after section 25 (but before the following cross-heading) insert—
 
@@ -172,7 +172,7 @@ In the Patronage (Benefices) Measure 1986, after section 25 (but before the foll
 
 ## Ecclesiastical jurisdiction
 
-### 9. Judges: appointment etc.[^key-b9bdf52d0a51994ea1ad197c58d0da7a][^key-9fff5bae20b8cba04876a440372b39f4]
+### 9. Judges: appointment etc.[^c-b9bdf52d0a51994ea1ad197c58d0da7a][^c-9fff5bae20b8cba04876a440372b39f4]
 
 (1) In section 2 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (appointment of chancellor), in subsection (1), after “letters patent” insert “on the recommendation of the Dean of the Arches and Auditor”.
 
@@ -191,7 +191,7 @@ In the Patronage (Benefices) Measure 1986, after section 25 (but before the foll
 
 (4) In section 42(3) of the Ecclesiastical Jurisdiction Measure 1963 (composition of committee of inquiry), in sub-paragraph (ii) of paragraph (b), for the words from “has a 10 year High Court qualification” to the end substitute “holds or has held high judicial office or has the qualifications required for appointment as a High Court judge;”.
 
-### 10. Judges: training[^key-c7efef48ea6451e9f90cec85218b63a7][^key-07271482e6d9aef344e2c46be7d70afe]
+### 10. Judges: training[^c-c7efef48ea6451e9f90cec85218b63a7][^c-07271482e6d9aef344e2c46be7d70afe]
 
 (1) Before section 22 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (but after the preceding cross-heading) insert—
 
@@ -224,21 +224,21 @@ In the Patronage (Benefices) Measure 1986, after section 25 (but before the foll
 
 .
 
-### 11. Disciplinary proceedings etc.[^key-10674a896baf6d6155a1f2c80af2cb18]
+### 11. Disciplinary proceedings etc.[^c-10674a896baf6d6155a1f2c80af2cb18]
 
-(1)[^key-c7f5d07c6e201fc8795b77fdaeccf70d] In Schedule 1 to the Church of England (Legal Aid) Measure 1994 (proceedings for which legal aid may be given), after item 7 insert—
+(1)[^c-c7f5d07c6e201fc8795b77fdaeccf70d] In Schedule 1 to the Church of England (Legal Aid) Measure 1994 (proceedings for which legal aid may be given), after item 7 insert—
 
 > |  |  |
 > | --- | --- |
 > | 8\. Proceedings on a claim for judicial review of a decision by the president of tribunals on disciplinary proceedings under the Clergy Discipline Measure 2003. | Any person who, as a respondent to the disciplinary proceedings, is an interested party in the proceedings on the claim for judicial review. |
 
-(2)[^key-c7f5d07c6e201fc8795b77fdaeccf70d] At the end of that Schedule insert—
+(2)[^c-c7f5d07c6e201fc8795b77fdaeccf70d] At the end of that Schedule insert—
 
 > **1. NOTES**
 >
 > In item 8, “**interested party**” has the meaning given in Civil Procedure Rules relating to judicial review.
 
-(3)[^key-c7f5d07c6e201fc8795b77fdaeccf70d] In section 20(1B) of the Clergy Discipline Measure 2003 (application for leave to appeal)—
+(3)[^c-c7f5d07c6e201fc8795b77fdaeccf70d] In section 20(1B) of the Clergy Discipline Measure 2003 (application for leave to appeal)—
 
 - (a) for paragraph (a) substitute—
 
@@ -249,7 +249,7 @@ In the Patronage (Benefices) Measure 1986, after section 25 (but before the foll
   , and
 - (b) in paragraph (c), for “at least one of the judges” substitute “the person hearing the application”.
 
-(4)[^key-c7f5d07c6e201fc8795b77fdaeccf70d] In rule 4D of the Clergy Discipline (Appeal) Rules 2005 (application for leave to appeal)—
+(4)[^c-c7f5d07c6e201fc8795b77fdaeccf70d] In rule 4D of the Clergy Discipline (Appeal) Rules 2005 (application for leave to appeal)—
 
 - (a) in paragraph (1), for “jointly by the Dean and one judge” substitute “by the Dean or by the person”, and
 - (b) in paragraph (3), omit “at least one of the judges is”.
@@ -262,9 +262,9 @@ In the Patronage (Benefices) Measure 1986, after section 25 (but before the foll
 - (d) in the Clergy Discipline Rules 2005, rule 61C(2), and
 - (e) in the Cathedrals Measure 2021, each of sections 36(7)(a), 37(6)(a) and (11)(c), 39(1) and 53(5)(b)(ii).
 
-(6)[^key-c7f5d07c6e201fc8795b77fdaeccf70d] The amendments made by subsections (4) and (5)(d) do not affect the power to make further rules amending or revoking the provision made by those amendments.
+(6)[^c-c7f5d07c6e201fc8795b77fdaeccf70d] The amendments made by subsections (4) and (5)(d) do not affect the power to make further rules amending or revoking the provision made by those amendments.
 
-### 12. Live broadcast of proceedings[^key-eecfbdb01442b84f5358a1e86377878f][^key-39d88776bb90993e177cd3d5a17ed1fa]
+### 12. Live broadcast of proceedings[^c-eecfbdb01442b84f5358a1e86377878f][^c-39d88776bb90993e177cd3d5a17ed1fa]
 
 After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 insert—
 
@@ -293,7 +293,7 @@ After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure
 
 ## Church property
 
-### 13. Care of churches[^key-80441fb2ef14e2262e783a6ab9976baa][^key-b783f6f5831057bf2680cf92a0452c2b]
+### 13. Care of churches[^c-80441fb2ef14e2262e783a6ab9976baa][^c-b783f6f5831057bf2680cf92a0452c2b]
 
 (1) In section 35 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (duty to have regard to church’s purpose)—
 
@@ -338,7 +338,7 @@ After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure
 
 (6) In subsection (2)(a) of that section, after “section 77(1)” insert “(but see subsection (2A)”.
 
-### 14. Disposals etc. of land[^key-db33df26c0599ae86194f0fa0cc5d2d5][^key-000178932586a7190daafc12754b4a7e]
+### 14. Disposals etc. of land[^c-db33df26c0599ae86194f0fa0cc5d2d5][^c-000178932586a7190daafc12754b4a7e]
 
 (1) In section 43 of the Church Property Measure 2018 (power of incumbent to dedicate land for highway), after subsection (3) insert—
 
@@ -385,7 +385,7 @@ After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure
 
 (7) In section 12 of the Church Property Measure 2018, omit subsection (5) and in section 36 of that Measure, omit subsection (2).
 
-### 15. Care of cathedrals[^key-b4672dee11e1cce302bebcbc013f7e2b][^key-7f06041f205b75d27122ab3ed0259121]
+### 15. Care of cathedrals[^c-b4672dee11e1cce302bebcbc013f7e2b][^c-7f06041f205b75d27122ab3ed0259121]
 
 (1) In section 2 of the Care of Cathedrals Measure 2011 (approval required for alterations to cathedrals), in subsection (1), after paragraph (b) but before the following “or” insert
 
@@ -399,7 +399,7 @@ After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure
 
 (3) In Schedule 1 to that Measure (Cathedrals Fabric Commission for England), in paragraph 3(a) (membership to include one bishop), for “the members of that House” substitute “those who hold office as a diocesan or suffragan bishop”.
 
-### 16. Dealings in church property: role of designated adviser[^key-28af36e1f5f63f485c8eedaa7005e0da][^key-3256607003b6629b627a0b75ce783d86]
+### 16. Dealings in church property: role of designated adviser[^c-28af36e1f5f63f485c8eedaa7005e0da][^c-3256607003b6629b627a0b75ce783d86]
 
 (1) In section 20 of the Church Property Measure 2018 (glebe land: dealings), after subsection (4) insert—
 
@@ -420,7 +420,7 @@ After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure
 
 ## Church representation
 
-### 17. Elections under Church Representation Rules[^key-1c33a1124685fc22c4ecf1396d2fa24c]
+### 17. Elections under Church Representation Rules[^c-1c33a1124685fc22c4ecf1396d2fa24c]
 
 (1) In Rule 45 of the Church Representation Rules (diocesan synod: casual vacancy), in paragraph (5), for “, Rules 38 to 42” substitute “that the election is to be conducted in accordance with Rules 38 to 42, those Rules”.
 
@@ -430,7 +430,7 @@ After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure
 
 ## Bodies
 
-### 18. Church Commissioners’ functions etc.[^key-007b9e7e935ba3e9b8c0acb24bc8c721]
+### 18. Church Commissioners’ functions etc.[^c-007b9e7e935ba3e9b8c0acb24bc8c721]
 
 (1) In section 5 of the Church Commissioners Measure 1947 (constitution and functions of Board of Governors), after subsection (4A) insert—
 
@@ -475,13 +475,13 @@ After section 93 of the Ecclesiastical Jurisdiction and Care of Churches Measure
 
 (7) In section 94(1) of the Mission and Pastoral Measure 2011 (use of diocesan pastoral account for expenses subject to certain exceptions including Commissioners’ staff salaries), omit “, or the Commissioners,”.
 
-### 19. Pensions Board: appointments during vacancy in archbishopric[^key-8162196b38991f245c73993b676c372a]
+### 19. Pensions Board: appointments during vacancy in archbishopric[^c-8162196b38991f245c73993b676c372a]
 
 In Part 1 of Schedule 1 to the Church of England Pensions Measure 2018 (Church of England Pensions Board: membership), in paragraph 1, after sub-paragraph (12) insert—
 
 > (13) But where there is a vacancy in the see of one of the Archbishops, the functions of the Archbishops under this paragraph are exercisable by the other Archbishop.
 
-### 20. Meetings[^key-d761139f19fea6a79a15e487e4d93886]
+### 20. Meetings[^c-d761139f19fea6a79a15e487e4d93886]
 
 (1) Schedule 2 (which makes provision about remote meetings) has effect.
 
@@ -500,7 +500,7 @@ In Part 1 of Schedule 1 to the Church of England Pensions Measure 2018 (Church o
 
 ## Final
 
-### 21. Orders: procedure[^key-3792c449e473773ec56af91f976da5f2]
+### 21. Orders: procedure[^c-3792c449e473773ec56af91f976da5f2]
 
 (1) An order under section 7 (lay residentiary canons: consequential provision) or paragraph 10 of Schedule 2 (remote meetings) may not be made unless—
 
@@ -526,7 +526,7 @@ In Part 1 of Schedule 1 to the Church of England Pensions Measure 2018 (Church o
 - (a) as if the order had been made by a Minister of the Crown, and
 - (b) as if this Measure were an Act of Parliament providing for the instrument containing the order to be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 22. Short title, commencement and extent[^key-3060c21a62b3206c790ab8ffb45b96d9]
+### 22. Short title, commencement and extent[^c-3060c21a62b3206c790ab8ffb45b96d9]
 
 (1) This Measure may be cited as the Church of England (Miscellaneous Provisions) Measure 2024.
 
@@ -577,29 +577,29 @@ SCHEDULES
 
 Section 7(2)
 
-### 1. Ecclesiastical Commissioners Act 1840[^key-27379d7c7218c4b922fbcfc82cb450c3]
+### 1. Ecclesiastical Commissioners Act 1840[^c-27379d7c7218c4b922fbcfc82cb450c3]
 
 (1) Section 14A of the Cathedrals Measure 2021 (inserted by section 7 of this Measure) provides that that section applies in spite of section 27 of the Ecclesiastical Commissioners Act 1840.
 
 (2) None of the other provisions of that Act apply in relation to a lay residentiary canon.
 
-### 2. Synodical Government Measure 1969[^key-b5c4c39e679ca05e6bbf18d7129b8e5c]
+### 2. Synodical Government Measure 1969[^c-b5c4c39e679ca05e6bbf18d7129b8e5c]
 
 In the Church Representation Rules, in Rule 23(1) (deanery synod: scheme of representation for cathedrals), in sub-paragraph (a), after “other ministers” insert “and any lay residentiary canon”.
 
-### 3. Ecclesiastical Offices (Age Limit) Measure 1975[^key-d06cca2a4f8a729262d8e4bc3674d730]
+### 3. Ecclesiastical Offices (Age Limit) Measure 1975[^c-d06cca2a4f8a729262d8e4bc3674d730]
 
 In the Schedule to the Ecclesiastical Offices (Age Limit) Measure 1975 (ecclesiastical offices to which age limit of 70 applies), after “Residentiary canon in a cathedral church” insert “, including a lay residentiary canon”.
 
-### 4. Ecclesiastical Offices (Terms of Service) Measure 2009[^key-6f0510f534890af561a2f53dee2ffacf]
+### 4. Ecclesiastical Offices (Terms of Service) Measure 2009[^c-6f0510f534890af561a2f53dee2ffacf]
 
 The Ecclesiastical Offices (Terms of Service) Measure 2009 is amended as follows.
 
-**5.**[^key-ba8aaff847d20904ab584ffc4637eb48] In section 1 (common tenure), in subsection (1)(d), after “(interim dean)” insert “, and any lay residentiary canon of a cathedral”.
+**5.**[^c-ba8aaff847d20904ab584ffc4637eb48] In section 1 (common tenure), in subsection (1)(d), after “(interim dean)” insert “, and any lay residentiary canon of a cathedral”.
 
-**6.**[^key-dd31fe75ebd25dfd76f669b49b1c6ed8] In section 3B (suspension of dean or residentiary canons), after “residentiary canon” insert “, including a lay residentiary canon”.
+**6.**[^c-dd31fe75ebd25dfd76f669b49b1c6ed8] In section 3B (suspension of dean or residentiary canons), after “residentiary canon” insert “, including a lay residentiary canon”.
 
-**7.**[^key-87ba1ea333db03f958ce9aa244b7d9d4] (1) Section 4 (provision of housing for office holders) is amended as follows.
+**7.**[^c-87ba1ea333db03f958ce9aa244b7d9d4] (1) Section 4 (provision of housing for office holders) is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -607,7 +607,7 @@ The Ecclesiastical Offices (Terms of Service) Measure 2009 is amended as follows
 
 (3) In subsection (7) (meaning of “**relevant housing provider**”), in paragraph (b), after “in a cathedral” insert “or in the case of a lay residentiary canon of a cathedral”.
 
-### 8. Ecclesiastical Offices (Terms of Service) Regulations 2009[^key-b6f2acc13c201baca2e40893b537469f]
+### 8. Ecclesiastical Offices (Terms of Service) Regulations 2009[^c-b6f2acc13c201baca2e40893b537469f]
 
 In regulation 2 of the Ecclesiastical Offices (Terms of Service) Regulations 2009 (interpretation), in paragraph (1), after the definition of “grievance procedures” insert—
 
@@ -615,17 +615,17 @@ In regulation 2 of the Ecclesiastical Offices (Terms of Service) Regulations 200
 
 .
 
-### 9. Care of Cathedrals Measure 2011[^key-18d57144c9c7784b0abd344005031296]
+### 9. Care of Cathedrals Measure 2011[^c-18d57144c9c7784b0abd344005031296]
 
 In section 11 of the Care of Cathedrals Measure 2011 (Commission of Review), after subsection (3) insert—
 
 > (3A) The reference in subsection (3)(b) to a person who is or has been a residentiary canon of a cathedral church includes a reference to a person who is or has been a lay residentiary canon of the cathedral.
 
-### 10. Church of England Pensions Measure 2018[^key-024e3d425c73485d561b6c9a4b2e3664]
+### 10. Church of England Pensions Measure 2018[^c-024e3d425c73485d561b6c9a4b2e3664]
 
 The Church of England Pensions Measure 2018 is amended as follows.
 
-**11.**[^key-18f504a0c143aae70a2041d842f7a3b1] In each of the following provisions, for “or licensed lay worker”, in each place it appears, substitute “, licensed lay worker or lay residentiary canon”—
+**11.**[^c-18f504a0c143aae70a2041d842f7a3b1] In each of the following provisions, for “or licensed lay worker”, in each place it appears, substitute “, licensed lay worker or lay residentiary canon”—
 
 - (a) in section 5 (service to be treated as pensionable service), subsections (1), (2) and (4) to (6);
 - (b) section 7 (the funded scheme);
@@ -633,23 +633,23 @@ The Church of England Pensions Measure 2018 is amended as follows.
 - (d) in section 39 (schemes for church workers), subsection (3);
 - (e) in section 43 (loans for residences), subsections (2)(a) and (b) and (5).
 
-**12.**[^key-0a22e1a99eef43be41c2c9d0864c5c94] In section 41 (provision of residences), in subsection (1)(a) and (b), for “and licensed lay workers” substitute “, licensed lay workers and lay residentiary canons”.
+**12.**[^c-0a22e1a99eef43be41c2c9d0864c5c94] In section 41 (provision of residences), in subsection (1)(a) and (b), for “and licensed lay workers” substitute “, licensed lay workers and lay residentiary canons”.
 
-**13.**[^key-1598cd59f5364312de00267bdde86583] In section 53 (power to make further provision by regulations), in subsection (1)(a), (b), (c) and (d), for “or church worker” substitute “, church worker or lay residentiary canon”.
+**13.**[^c-1598cd59f5364312de00267bdde86583] In section 53 (power to make further provision by regulations), in subsection (1)(a), (b), (c) and (d), for “or church worker” substitute “, church worker or lay residentiary canon”.
 
-### 14. Cathedrals Measure 2021[^key-a95a03c9731ae5e33b7cc7c59fc1ac36]
+### 14. Cathedrals Measure 2021[^c-a95a03c9731ae5e33b7cc7c59fc1ac36]
 
 The Cathedrals Measure 2021 is amended as follows.
 
-**15.**[^key-f1aaf579c3486af2650c6bc3e614cc7e] In section 3 (the College of Canons), in subsection (5), after “a lay canon” insert “, a lay residentiary canon”.
+**15.**[^c-f1aaf579c3486af2650c6bc3e614cc7e] In section 3 (the College of Canons), in subsection (5), after “a lay canon” insert “, a lay residentiary canon”.
 
-**16.**[^key-56b63d04bd07fc20afe064496fc3ccf3] In section 5 (constitution: general provision), after subsection (10) insert—
+**16.**[^c-56b63d04bd07fc20afe064496fc3ccf3] In section 5 (constitution: general provision), after subsection (10) insert—
 
 > (11) The constitution may include provision in accordance with section 14A for the appointment of a lay person as a residentiary canon of the cathedral.
 
-**17.**[^key-9eb650b59b2bbc2a926738c8e7e6e32d] In section 9 (the bishop), in subsection (4), after “the Crown” insert “; and that, accordingly, includes a lay residentiary canon.”
+**17.**[^c-9eb650b59b2bbc2a926738c8e7e6e32d] In section 9 (the bishop), in subsection (4), after “the Crown” insert “; and that, accordingly, includes a lay residentiary canon.”
 
-**18.**[^key-40a0980033fe242a325b7533f7725e51] (1) Section 12 (the dean) is amended as follows.
+**18.**[^c-40a0980033fe242a325b7533f7725e51] (1) Section 12 (the dean) is amended as follows.
 
 (2) In each of subsections (7), (8) and (12), for “clergy of the cathedral” substitute “ministers of the cathedral”.
 
@@ -657,46 +657,46 @@ The Cathedrals Measure 2021 is amended as follows.
 
 (4) In subsection (12), after “clerk in Holy Orders” insert “, or any lay residentiary canon,”.
 
-**19.**[^key-4b42f3119c353f75342ae1fda00420a6] In section 13 (interim dean), in subsection (1), after “the period concerned” insert “(and the reference to a residentiary canon does not, accordingly, include a reference to a lay residentiary canon)”.
+**19.**[^c-4b42f3119c353f75342ae1fda00420a6] In section 13 (interim dean), in subsection (1), after “the period concerned” insert “(and the reference to a residentiary canon does not, accordingly, include a reference to a lay residentiary canon)”.
 
-**20.**[^key-7df3340ebd1e8e3b66a803f59e5f003f] In section 14 (residentiary canons), after subsection (6) insert—
+**20.**[^c-7df3340ebd1e8e3b66a803f59e5f003f] In section 14 (residentiary canons), after subsection (6) insert—
 
 > (7) This section (including as it is applied by subsection (6)) does not apply to a lay residentiary canon.
 
-**21.**[^key-8092d2687c151b272fe2a8f5b936b525] In section 19 (senior management group), after subsection (1) insert—
+**21.**[^c-8092d2687c151b272fe2a8f5b936b525] In section 19 (senior management group), after subsection (1) insert—
 
 > (1A) A lay residentiary canon is entitled to have responsibility of a kind referred to in subsection (1)(b), except in so far as the constitution provides otherwise.
 
-**22.**[^key-1763dad62743dd56660049f69cb2691c] In section 22 (disposal of land), after subsection (10) insert—
+**22.**[^c-1763dad62743dd56660049f69cb2691c] In section 22 (disposal of land), after subsection (10) insert—
 
 > (11) In the case of a lay residentiary canon who is provided with a house of residence under section 4 of the Ecclesiastical Offices (Terms of Service) Measure 2009, the reference in subsection (2)(a) to a residentiary canon includes a reference to that lay residentiary canon.
 
-**23.**[^key-b62a451e7d12f247e6aa24260487a2eb] In section 28 (payments from Church Commissioners’ general fund), after subsection (9) insert—
+**23.**[^c-b62a451e7d12f247e6aa24260487a2eb] In section 28 (payments from Church Commissioners’ general fund), after subsection (9) insert—
 
 > (10) This section (including as it is applied by subsection (9)) does not apply to a lay residentiary canon.
 
-**24.**[^key-3cbf72b395620d5d9e5a0351d94cc9c4] In section 40 (modification of the Church Representation Rules), in subsection (3)(e)—
+**24.**[^c-3cbf72b395620d5d9e5a0351d94cc9c4] In section 40 (modification of the Church Representation Rules), in subsection (3)(e)—
 
 - (a) after “clerk in Holy Orders” insert “, and any lay residentiary canon of the cathedral,”, and
 - (b) after “other clerk” insert “, or lay residentiary canon,”.
 
-**25.**[^key-5e2ca8a102b8a2295f6072d913270143] In section 45(1) (interpretation), at the appropriate place insert—
+**25.**[^c-5e2ca8a102b8a2295f6072d913270143] In section 45(1) (interpretation), at the appropriate place insert—
 
 > - “**lay residentiary canon**” has the meaning given in section 14A(2);
 
 .
 
-**26.**[^key-03bd8e639984b57f312644bf097bdbce] In Schedule 1 (the Chapter), in paragraph 1 (membership), after sub-paragraph (8) insert—
+**26.**[^c-03bd8e639984b57f312644bf097bdbce] In Schedule 1 (the Chapter), in paragraph 1 (membership), after sub-paragraph (8) insert—
 
 > (9) The reference in sub-paragraph (1) to the residentiary canons of the cathedral includes a reference to any lay residentiary canon of the cathedral; and a lay residentiary canon who carries out cathedral duties is accordingly an executive member, except in so far as the constitution provides otherwise.
 
-**27.**[^key-b83a58dfea3a57c7463fbe9196b37ad8] In Schedule 2 (diocese of Leeds: the College of Canons), in the modified version of section 3 set out by paragraph 1, in subsection (7), after “a lay canon” insert “, a lay residentiary canon”.
+**27.**[^c-b83a58dfea3a57c7463fbe9196b37ad8] In Schedule 2 (diocese of Leeds: the College of Canons), in the modified version of section 3 set out by paragraph 1, in subsection (7), after “a lay canon” insert “, a lay residentiary canon”.
 
 ## SCHEDULE 2 — Remote meetings
 
 Section 20(1)
 
-### 1. Diocesan synods, deanery synods, PCCs, parochial church meetings etc.[^key-8c89fa2524b90c53cb1d288258f6880d]
+### 1. Diocesan synods, deanery synods, PCCs, parochial church meetings etc.[^c-8c89fa2524b90c53cb1d288258f6880d]
 
 After Rule 83 of the Church Representation Rules insert—
 
@@ -718,13 +718,13 @@ After Rule 83 of the Church Representation Rules insert—
 > - (b) in the case of a diocesan synod, standing orders under Rule 44;
 > - (c) in the case of a parochial church meeting, rules of procedure under Rule M7.
 
-**2.**[^key-3334a63c8957b8f367a675f4e1dda2fe] In Form M1 of the Church Representation Rules (notice of annual meeting), in the sentence beginning “The Annual Parochial Church Meeting will be held”, for the words from “in” to “on” substitute “\[in................................\] \[and\] \[*if applicable, insert details of how to access remote meeting*\] on”.
+**2.**[^c-3334a63c8957b8f367a675f4e1dda2fe] In Form M1 of the Church Representation Rules (notice of annual meeting), in the sentence beginning “The Annual Parochial Church Meeting will be held”, for the words from “in” to “on” substitute “\[in................................\] \[and\] \[*if applicable, insert details of how to access remote meeting*\] on”.
 
-**3.**[^key-58c3707554d8963124a136a4f2cc5679] In section 12 of the Patronage (Benefices) Measure 1986 (joint meeting of PCC with bishop and patron), after subsection (9) insert—
+**3.**[^c-58c3707554d8963124a136a4f2cc5679] In section 12 of the Patronage (Benefices) Measure 1986 (joint meeting of PCC with bishop and patron), after subsection (9) insert—
 
 > (10) Rule 83A of the Church Representation Rules (remote meetings) applies to a meeting under this section as it applies to a meeting of a parochial church council.
 
-### 4. Churchwardens: parishioners’ meetings[^key-0cc4ade6d92d259d62f31f81f4d5bb00]
+### 4. Churchwardens: parishioners’ meetings[^c-0cc4ade6d92d259d62f31f81f4d5bb00]
 
 In section 13 of the Churchwardens Measure 2001 (interpretation), after subsection (1A) insert—
 
@@ -736,7 +736,7 @@ In section 13 of the Churchwardens Measure 2001 (interpretation), after subsecti
 >
 > (1E) A reference in this Measure to being present at a meeting of parishioners includes a reference to being present by electronic means, including by telephone conference, video conference, live webcast or live interactive streaming.
 
-### 5. Cathedral bodies[^key-89265d33e9576cb0449447238db92876]
+### 5. Cathedral bodies[^c-89265d33e9576cb0449447238db92876]
 
 In section 32 of the Care of Cathedrals Measure 2011 (interpretation), after subsection (3) insert—
 
@@ -745,14 +745,14 @@ In section 32 of the Care of Cathedrals Measure 2011 (interpretation), after sub
 > - (a) a reference to being present at the meeting includes a reference to being present by electronic means (including by telephone conference, video conference, live webcast or live interactive streaming), and
 > - (b) a person is to be regarded as present at the meeting if the person is at that time able to hear and be heard by, and where practicable to see and be seen by, the other persons present.
 
-**6.**[^key-74fa9a7b7bd1beebbc4e3416ebf15635] In section 45 of the Cathedrals Measure 2021 (interpretation), after subsection (6) insert—
+**6.**[^c-74fa9a7b7bd1beebbc4e3416ebf15635] In section 45 of the Cathedrals Measure 2021 (interpretation), after subsection (6) insert—
 
 > (7) For the purposes of this Measure or any other Measure (whenever passed) which makes procedural provision about a body constituted by or under this Measure, where a meeting is held in more than one place (including electronic, digital or virtual locations, web addresses or conference call telephone numbers) and accordingly without any, or without all, of the persons being together in the same place—
 >
 > - (a) a reference to being present at the meeting includes a reference to being present by electronic means (including by telephone conference, video conference, live webcast or live interactive streaming), and
 > - (b) a person is to be regarded as present at the meeting at any given time if the person is at that time able to hear and be heard by, and where practicable to see and be seen by, the other persons present.
 
-### 7. Diocesan Boards of Education[^key-15a4438eafdbcd4fc1f999fa04d8303d]
+### 7. Diocesan Boards of Education[^c-15a4438eafdbcd4fc1f999fa04d8303d]
 
 In section 20 of the Diocesan Boards of Education Measure 2021 (interpretation), after subsection (8) insert—
 
@@ -761,7 +761,7 @@ In section 20 of the Diocesan Boards of Education Measure 2021 (interpretation),
 > - (a) a reference to attending the meeting includes a reference to attending it by electronic means (including by telephone conference, video conference, live webcast or live interactive streaming), and
 > - (b) a person is to be regarded as attending the meeting at any given time if the person is at that time able to hear and be heard by, and where practicable to see and be seen by, the other persons attending.
 
-### 8. Dioceses Commission and Church Buildings Council[^key-a624f76f8a1c9b60d1a58f049df0af46]
+### 8. Dioceses Commission and Church Buildings Council[^c-a624f76f8a1c9b60d1a58f049df0af46]
 
 In section 62 of the Dioceses, Pastoral and Mission Measure 2007 (interpretation), after subsection (6) insert—
 
@@ -770,7 +770,7 @@ In section 62 of the Dioceses, Pastoral and Mission Measure 2007 (interpretation
 > - (a) a reference to being present at the meeting includes a reference to being present by electronic means (including by telephone conference, video conference, live webcast or live interactive streaming), and
 > - (b) a person is to be regarded as present at the meeting if the person is at that time able to hear and be heard by, and where practicable to see and be seen by, the other persons present.
 
-### 9. Boards of patronage under pastoral schemes[^key-b6f6d8dc2a4f6b9db0087764c3fb04df]
+### 9. Boards of patronage under pastoral schemes[^c-b6f6d8dc2a4f6b9db0087764c3fb04df]
 
 In Schedule 3 to the Mission and Pastoral Measure 2011 (pastoral schemes), in paragraph 1, after sub-paragraph (15) insert—
 
@@ -779,7 +779,7 @@ In Schedule 3 to the Mission and Pastoral Measure 2011 (pastoral schemes), in pa
 > - (a) a reference in this Schedule to being present at the meeting includes a reference to being present by electronic means (including by telephone conference, video conference, live webcast or live interactive streaming), and
 > - (b) a person is to be regarded as present at the meeting at any given time if the person is at that time able to hear and be heard by, and where practicable to see and be seen by, the other persons present.
 
-### 10. Power to make provision for remote meetings[^key-72d7452fc0261008b337bddcce40931e]
+### 10. Power to make provision for remote meetings[^c-72d7452fc0261008b337bddcce40931e]
 
 (1) The Archbishops’ Council may by order make provision for persons to attend, speak at, vote in, or otherwise participate in meetings of a body which has functions relating to matters concerning the Church of England without any, or without all, of the persons being together in the same place.
 
@@ -789,138 +789,138 @@ In Schedule 3 to the Mission and Pastoral Measure 2011 (pastoral schemes), in pa
 
 ## Annotations
 
-[^key-6cd6eedc6c64719cdeab2f098754887b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2024/1/section/1) in force at 25.1.2024, see [s. 22(2)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/a)
+[^c-6cd6eedc6c64719cdeab2f098754887b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2024/1/section/1) in force at 25.1.2024, see [s. 22(2)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/a)
 
-[^key-5a427af32e411035e8cc88d6c7af5f67]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2024/1/section/2) in force at 25.1.2024, see [s. 22(2)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/b)
+[^c-5a427af32e411035e8cc88d6c7af5f67]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2024/1/section/2) in force at 25.1.2024, see [s. 22(2)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/b)
 
-[^key-5852ec7e3bb66b529e0733559178c60f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2024/1/section/3) in force at 25.1.2024, see [s. 22(2)(c)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/c)
+[^c-5852ec7e3bb66b529e0733559178c60f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2024/1/section/3) in force at 25.1.2024, see [s. 22(2)(c)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/c)
 
-[^key-d8ec77726a615d0489da3be2a9f49355]: Commencement: S. 4 not in force at Royal Assent, see [s. 22](https://www.legislation.gov.uk/ukcm/2024/1/section/22)
+[^c-d8ec77726a615d0489da3be2a9f49355]: Commencement: S. 4 not in force at Royal Assent, see [s. 22](https://www.legislation.gov.uk/ukcm/2024/1/section/22)
 
-[^key-884cf00996ac1363c11e8af1422539f9]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2024/1/section/4) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-884cf00996ac1363c11e8af1422539f9]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2024/1/section/4) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-ea736ff8c3dc4dc082904e7674608f46]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2024/1/section/5) in force at 25.1.2024, see [s. 22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d)
+[^c-ea736ff8c3dc4dc082904e7674608f46]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2024/1/section/5) in force at 25.1.2024, see [s. 22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d)
 
-[^key-cf581cf4d425a4599fa9f087716c4523]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2024/1/section/6) in force at 25.1.2024, see [s. 22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)
+[^c-cf581cf4d425a4599fa9f087716c4523]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2024/1/section/6) in force at 25.1.2024, see [s. 22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)
 
-[^key-958cf29e64dde2c34ae850965b25604c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2024/1/section/7) comes into force in accordance with s. 22(3)
+[^c-958cf29e64dde2c34ae850965b25604c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2024/1/section/7) comes into force in accordance with s. 22(3)
 
-[^key-751f009a2ac8ff340f630ccbfc4a18ae]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2024/1/section/8) in force at 25.1.2024, see [s. 22(2)(f)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/f)
+[^c-751f009a2ac8ff340f630ccbfc4a18ae]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2024/1/section/8) in force at 25.1.2024, see [s. 22(2)(f)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/f)
 
-[^key-b9bdf52d0a51994ea1ad197c58d0da7a]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-b9bdf52d0a51994ea1ad197c58d0da7a]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-9fff5bae20b8cba04876a440372b39f4]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2024/1/section/9) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2024/631/article/3/1))
+[^c-9fff5bae20b8cba04876a440372b39f4]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2024/1/section/9) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2024/631/article/3/1))
 
-[^key-c7efef48ea6451e9f90cec85218b63a7]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-c7efef48ea6451e9f90cec85218b63a7]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-07271482e6d9aef344e2c46be7d70afe]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2024/1/section/10) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-07271482e6d9aef344e2c46be7d70afe]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2024/1/section/10) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-10674a896baf6d6155a1f2c80af2cb18]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-10674a896baf6d6155a1f2c80af2cb18]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-c7f5d07c6e201fc8795b77fdaeccf70d]: Commencement: [S. 11(1)-(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/11/1)(6) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2024/631/article/3/2))
+[^c-c7f5d07c6e201fc8795b77fdaeccf70d]: Commencement: [S. 11(1)-(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/11/1)(6) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2024/631/article/3/2))
 
-[^key-eecfbdb01442b84f5358a1e86377878f]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-eecfbdb01442b84f5358a1e86377878f]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-39d88776bb90993e177cd3d5a17ed1fa]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2024/1/section/12) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-39d88776bb90993e177cd3d5a17ed1fa]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2024/1/section/12) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-80441fb2ef14e2262e783a6ab9976baa]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-80441fb2ef14e2262e783a6ab9976baa]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-b783f6f5831057bf2680cf92a0452c2b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukcm/2024/1/section/13) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2024/631/article/3/3))
+[^c-b783f6f5831057bf2680cf92a0452c2b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukcm/2024/1/section/13) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2024/631/article/3/3))
 
-[^key-db33df26c0599ae86194f0fa0cc5d2d5]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-db33df26c0599ae86194f0fa0cc5d2d5]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-000178932586a7190daafc12754b4a7e]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2024/1/section/14) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-000178932586a7190daafc12754b4a7e]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2024/1/section/14) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-b4672dee11e1cce302bebcbc013f7e2b]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-b4672dee11e1cce302bebcbc013f7e2b]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-7f06041f205b75d27122ab3ed0259121]: Commencement: [S. 15](https://www.legislation.gov.uk/ukcm/2024/1/section/15) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-7f06041f205b75d27122ab3ed0259121]: Commencement: [S. 15](https://www.legislation.gov.uk/ukcm/2024/1/section/15) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-28af36e1f5f63f485c8eedaa7005e0da]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
+[^c-28af36e1f5f63f485c8eedaa7005e0da]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4)
 
-[^key-3256607003b6629b627a0b75ce783d86]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2024/1/section/16) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-3256607003b6629b627a0b75ce783d86]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2024/1/section/16) in force at 17.5.2024 by [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-1c33a1124685fc22c4ecf1396d2fa24c]: Commencement: S. 17 in force at 25.1.2024, see [s. 22(2)(g)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/g)
+[^c-1c33a1124685fc22c4ecf1396d2fa24c]: Commencement: S. 17 in force at 25.1.2024, see [s. 22(2)(g)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/g)
 
-[^key-007b9e7e935ba3e9b8c0acb24bc8c721]: Commencement: S. 18 in force at 25.1.2024, see [s. 22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-007b9e7e935ba3e9b8c0acb24bc8c721]: Commencement: S. 18 in force at 25.1.2024, see [s. 22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-8162196b38991f245c73993b676c372a]: Commencement: S. 19 in force at 25.1.2024, see [s. 22(2)(i)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/i)
+[^c-8162196b38991f245c73993b676c372a]: Commencement: S. 19 in force at 25.1.2024, see [s. 22(2)(i)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/i)
 
-[^key-d761139f19fea6a79a15e487e4d93886]: Commencement: S. 20 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-d761139f19fea6a79a15e487e4d93886]: Commencement: S. 20 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-3792c449e473773ec56af91f976da5f2]: Commencement: S. 21 in force at 25.1.2024, see [s. 22(2)(k)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/k)
+[^c-3792c449e473773ec56af91f976da5f2]: Commencement: S. 21 in force at 25.1.2024, see [s. 22(2)(k)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/k)
 
-[^key-3060c21a62b3206c790ab8ffb45b96d9]: Commencement: S. 22 in force at 25.1.2024, see [s. 22(2)(l)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/l)
+[^c-3060c21a62b3206c790ab8ffb45b96d9]: Commencement: S. 22 in force at 25.1.2024, see [s. 22(2)(l)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/l)
 
-[^key-27379d7c7218c4b922fbcfc82cb450c3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1) comes into force in accordance with s. 22(3)
+[^c-27379d7c7218c4b922fbcfc82cb450c3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1) comes into force in accordance with s. 22(3)
 
-[^key-b5c4c39e679ca05e6bbf18d7129b8e5c]: Commencement: Sch. 1 para. 2 comes into force in accordance with s. 22(3)
+[^c-b5c4c39e679ca05e6bbf18d7129b8e5c]: Commencement: Sch. 1 para. 2 comes into force in accordance with s. 22(3)
 
-[^key-d06cca2a4f8a729262d8e4bc3674d730]: Commencement: Sch. 1 para. 3 comes into force in accordance with s. 22(3)
+[^c-d06cca2a4f8a729262d8e4bc3674d730]: Commencement: Sch. 1 para. 3 comes into force in accordance with s. 22(3)
 
-[^key-6f0510f534890af561a2f53dee2ffacf]: Commencement: Sch. 1 para. 4 comes into force in accordance with s. 22(3)
+[^c-6f0510f534890af561a2f53dee2ffacf]: Commencement: Sch. 1 para. 4 comes into force in accordance with s. 22(3)
 
-[^key-ba8aaff847d20904ab584ffc4637eb48]: Commencement: Sch. 1 para. 5 comes into force in accordance with s. 22(3)
+[^c-ba8aaff847d20904ab584ffc4637eb48]: Commencement: Sch. 1 para. 5 comes into force in accordance with s. 22(3)
 
-[^key-dd31fe75ebd25dfd76f669b49b1c6ed8]: Commencement: Sch. 1 para. 6 comes into force in accordance with s. 22(3)
+[^c-dd31fe75ebd25dfd76f669b49b1c6ed8]: Commencement: Sch. 1 para. 6 comes into force in accordance with s. 22(3)
 
-[^key-87ba1ea333db03f958ce9aa244b7d9d4]: Commencement: Sch. 1 para. 7 comes into force in accordance with s. 22(3)
+[^c-87ba1ea333db03f958ce9aa244b7d9d4]: Commencement: Sch. 1 para. 7 comes into force in accordance with s. 22(3)
 
-[^key-b6f2acc13c201baca2e40893b537469f]: Commencement: Sch. 1 para. 8 comes into force in accordance with s. 22(3)
+[^c-b6f2acc13c201baca2e40893b537469f]: Commencement: Sch. 1 para. 8 comes into force in accordance with s. 22(3)
 
-[^key-18d57144c9c7784b0abd344005031296]: Commencement: Sch. 1 para. 9 comes into force in accordance with s. 22(3)
+[^c-18d57144c9c7784b0abd344005031296]: Commencement: Sch. 1 para. 9 comes into force in accordance with s. 22(3)
 
-[^key-024e3d425c73485d561b6c9a4b2e3664]: Commencement: Sch. 1 para. 10 comes into force in accordance with s. 22(3)
+[^c-024e3d425c73485d561b6c9a4b2e3664]: Commencement: Sch. 1 para. 10 comes into force in accordance with s. 22(3)
 
-[^key-18f504a0c143aae70a2041d842f7a3b1]: Commencement: Sch. 1 para. 11 comes into force in accordance with s. 22(3)
+[^c-18f504a0c143aae70a2041d842f7a3b1]: Commencement: Sch. 1 para. 11 comes into force in accordance with s. 22(3)
 
-[^key-0a22e1a99eef43be41c2c9d0864c5c94]: Commencement: Sch. 1 para. 12 comes into force in accordance with s. 22(3)
+[^c-0a22e1a99eef43be41c2c9d0864c5c94]: Commencement: Sch. 1 para. 12 comes into force in accordance with s. 22(3)
 
-[^key-1598cd59f5364312de00267bdde86583]: Commencement: Sch. 1 para. 13 comes into force in accordance with s. 22(3)
+[^c-1598cd59f5364312de00267bdde86583]: Commencement: Sch. 1 para. 13 comes into force in accordance with s. 22(3)
 
-[^key-a95a03c9731ae5e33b7cc7c59fc1ac36]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/14) comes into force in accordance with s. 22(3)
+[^c-a95a03c9731ae5e33b7cc7c59fc1ac36]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/14) comes into force in accordance with s. 22(3)
 
-[^key-f1aaf579c3486af2650c6bc3e614cc7e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/15) comes into force in accordance with s. 22(3)
+[^c-f1aaf579c3486af2650c6bc3e614cc7e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/15) comes into force in accordance with s. 22(3)
 
-[^key-56b63d04bd07fc20afe064496fc3ccf3]: Commencement: Sch. 1 para. 16 comes into force in accordance with s. 22(3)
+[^c-56b63d04bd07fc20afe064496fc3ccf3]: Commencement: Sch. 1 para. 16 comes into force in accordance with s. 22(3)
 
-[^key-9eb650b59b2bbc2a926738c8e7e6e32d]: Commencement: Sch. 1 para. 17 comes into force in accordance with s. 22(3)
+[^c-9eb650b59b2bbc2a926738c8e7e6e32d]: Commencement: Sch. 1 para. 17 comes into force in accordance with s. 22(3)
 
-[^key-40a0980033fe242a325b7533f7725e51]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/18) comes into force in accordance with s. 22(3)
+[^c-40a0980033fe242a325b7533f7725e51]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/18) comes into force in accordance with s. 22(3)
 
-[^key-4b42f3119c353f75342ae1fda00420a6]: Commencement: Sch. 1 para. 19 comes into force in accordance with s. 22(3)
+[^c-4b42f3119c353f75342ae1fda00420a6]: Commencement: Sch. 1 para. 19 comes into force in accordance with s. 22(3)
 
-[^key-7df3340ebd1e8e3b66a803f59e5f003f]: Commencement: Sch. 1 para. 20 comes into force in accordance with s. 22(3)
+[^c-7df3340ebd1e8e3b66a803f59e5f003f]: Commencement: Sch. 1 para. 20 comes into force in accordance with s. 22(3)
 
-[^key-8092d2687c151b272fe2a8f5b936b525]: Commencement: Sch. 1 para. 21 comes into force in accordance with s. 22(3)
+[^c-8092d2687c151b272fe2a8f5b936b525]: Commencement: Sch. 1 para. 21 comes into force in accordance with s. 22(3)
 
-[^key-1763dad62743dd56660049f69cb2691c]: Commencement: Sch. 1 para. 22 comes into force in accordance with s. 22(3)
+[^c-1763dad62743dd56660049f69cb2691c]: Commencement: Sch. 1 para. 22 comes into force in accordance with s. 22(3)
 
-[^key-b62a451e7d12f247e6aa24260487a2eb]: Commencement: Sch. 1 para. 23 comes into force in accordance with s. 22(3)
+[^c-b62a451e7d12f247e6aa24260487a2eb]: Commencement: Sch. 1 para. 23 comes into force in accordance with s. 22(3)
 
-[^key-3cbf72b395620d5d9e5a0351d94cc9c4]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24) comes into force in accordance with s. 22(3)
+[^c-3cbf72b395620d5d9e5a0351d94cc9c4]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24) comes into force in accordance with s. 22(3)
 
-[^key-5e2ca8a102b8a2295f6072d913270143]: Commencement: Sch. 1 para. 25 comes into force in accordance with s. 22(3)
+[^c-5e2ca8a102b8a2295f6072d913270143]: Commencement: Sch. 1 para. 25 comes into force in accordance with s. 22(3)
 
-[^key-03bd8e639984b57f312644bf097bdbce]: Commencement: Sch. 1 para. 26 comes into force in accordance with s. 22(3)
+[^c-03bd8e639984b57f312644bf097bdbce]: Commencement: Sch. 1 para. 26 comes into force in accordance with s. 22(3)
 
-[^key-b83a58dfea3a57c7463fbe9196b37ad8]: Commencement: Sch. 1 para. 27 comes into force in accordance with s. 22(3)
+[^c-b83a58dfea3a57c7463fbe9196b37ad8]: Commencement: Sch. 1 para. 27 comes into force in accordance with s. 22(3)
 
-[^key-8c89fa2524b90c53cb1d288258f6880d]: Commencement: Sch. 2 para. 1 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-8c89fa2524b90c53cb1d288258f6880d]: Commencement: Sch. 2 para. 1 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-3334a63c8957b8f367a675f4e1dda2fe]: Commencement: Sch. 2 para. 2 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-3334a63c8957b8f367a675f4e1dda2fe]: Commencement: Sch. 2 para. 2 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-58c3707554d8963124a136a4f2cc5679]: Commencement: Sch. 2 para. 3 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-58c3707554d8963124a136a4f2cc5679]: Commencement: Sch. 2 para. 3 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-0cc4ade6d92d259d62f31f81f4d5bb00]: Commencement: Sch. 2 para. 4 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-0cc4ade6d92d259d62f31f81f4d5bb00]: Commencement: Sch. 2 para. 4 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-89265d33e9576cb0449447238db92876]: Commencement: Sch. 2 para. 5 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-89265d33e9576cb0449447238db92876]: Commencement: Sch. 2 para. 5 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-74fa9a7b7bd1beebbc4e3416ebf15635]: Commencement: Sch. 2 para. 6 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-74fa9a7b7bd1beebbc4e3416ebf15635]: Commencement: Sch. 2 para. 6 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-15a4438eafdbcd4fc1f999fa04d8303d]: Commencement: Sch. 2 para. 7 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-15a4438eafdbcd4fc1f999fa04d8303d]: Commencement: Sch. 2 para. 7 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-a624f76f8a1c9b60d1a58f049df0af46]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/8) in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-a624f76f8a1c9b60d1a58f049df0af46]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/8) in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-b6f6d8dc2a4f6b9db0087764c3fb04df]: Commencement: Sch. 2 para. 9 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-b6f6d8dc2a4f6b9db0087764c3fb04df]: Commencement: Sch. 2 para. 9 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
 
-[^key-72d7452fc0261008b337bddcce40931e]: Commencement: Sch. 2 para. 10 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)
+[^c-72d7452fc0261008b337bddcce40931e]: Commencement: Sch. 2 para. 10 in force at 25.1.2024, see [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j)

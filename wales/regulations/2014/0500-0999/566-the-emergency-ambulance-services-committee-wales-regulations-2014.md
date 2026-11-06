@@ -31,7 +31,7 @@ summary: ''
 
 The National Health Service, Wales
 
-The Emergency Ambulance Services Committee (Wales) Regulations 2014 (revoked)[^key-51c974d9341e069d41aaffce247bb8c2]
+The Emergency Ambulance Services Committee (Wales) Regulations 2014 (revoked)[^c-51c974d9341e069d41aaffce247bb8c2]
 
 Made
 
@@ -45,84 +45,84 @@ Coming into force
 
 1 April 2014
 
-[^key-51c974d9341e069d41aaffce247bb8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51c974d9341e069d41aaffce247bb8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-51c974d9341e069d41aaffce247bb8c2]
+## PART 1 — Introduction[^c-51c974d9341e069d41aaffce247bb8c2]
 
-### 1. Title and commencement[^key-51c974d9341e069d41aaffce247bb8c2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-51c974d9341e069d41aaffce247bb8c2]
+### 1. Title and commencement[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Membership of the joint committee[^key-51c974d9341e069d41aaffce247bb8c2]
-
-### 3. Membership of the joint committee[^key-51c974d9341e069d41aaffce247bb8c2]
+### 2. Interpretation[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Appointment of the chair and vice-chair[^key-51c974d9341e069d41aaffce247bb8c2]
+## PART 2 — Membership of the joint committee[^c-51c974d9341e069d41aaffce247bb8c2]
+
+### 3. Membership of the joint committee[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Eligibility requirements for members of the joint committee[^key-51c974d9341e069d41aaffce247bb8c2]
+### 4. Appointment of the chair and vice-chair[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Tenure of office of chair[^key-51c974d9341e069d41aaffce247bb8c2]
+### 5. Eligibility requirements for members of the joint committee[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Tenure of office of vice-chair[^key-51c974d9341e069d41aaffce247bb8c2]
+### 6. Tenure of office of chair[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Termination of appointment of chair[^key-51c974d9341e069d41aaffce247bb8c2]
+### 7. Tenure of office of vice-chair[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Suspension of chair[^key-51c974d9341e069d41aaffce247bb8c2]
+### 8. Termination of appointment of chair[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Meetings and proceedings of the joint committee[^key-51c974d9341e069d41aaffce247bb8c2]
-
-### 10. Meetings and proceedings[^key-51c974d9341e069d41aaffce247bb8c2]
+### 9. Suspension of chair[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Powers of vice-chair[^key-51c974d9341e069d41aaffce247bb8c2]
+## PART 3 — Meetings and proceedings of the joint committee[^c-51c974d9341e069d41aaffce247bb8c2]
+
+### 10. Meetings and proceedings[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51c974d9341e069d41aaffce247bb8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 11. Powers of vice-chair[^c-51c974d9341e069d41aaffce247bb8c2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-51c974d9341e069d41aaffce247bb8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PROCEDURES FOR APPOINTMENT OF CHAIR[^key-51c974d9341e069d41aaffce247bb8c2]
+## SCHEDULE 1 — PROCEDURES FOR APPOINTMENT OF CHAIR[^c-51c974d9341e069d41aaffce247bb8c2]
 
 Regulation 4(1) and 4(3)
 
-**1.**[^key-51c974d9341e069d41aaffce247bb8c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-51c974d9341e069d41aaffce247bb8c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-51c974d9341e069d41aaffce247bb8c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-51c974d9341e069d41aaffce247bb8c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ELIGIBILITY REQUIREMENTS[^key-51c974d9341e069d41aaffce247bb8c2]
+## SCHEDULE 2 — ELIGIBILITY REQUIREMENTS[^c-51c974d9341e069d41aaffce247bb8c2]
 
 Regulation 5(1)
 
-### Eligibility requirements for chair[^key-51c974d9341e069d41aaffce247bb8c2]
+### Eligibility requirements for chair[^c-51c974d9341e069d41aaffce247bb8c2]
 
-#### 1. General requirements[^key-51c974d9341e069d41aaffce247bb8c2]
+#### 1. General requirements[^c-51c974d9341e069d41aaffce247bb8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51c974d9341e069d41aaffce247bb8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51c974d9341e069d41aaffce247bb8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51c974d9341e069d41aaffce247bb8c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/566) revoked (1.4.2024) by [The National Health Service Joint Commissioning Committee (Wales) Regulations 2024 (S.I. 2024/135)](https://www.legislation.gov.uk/wsi/2024/135), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/135/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2024/135/regulation/14/2)
+[^c-51c974d9341e069d41aaffce247bb8c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/566) revoked (1.4.2024) by [The National Health Service Joint Commissioning Committee (Wales) Regulations 2024 (S.I. 2024/135)](https://www.legislation.gov.uk/wsi/2024/135), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/135/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2024/135/regulation/14/2)

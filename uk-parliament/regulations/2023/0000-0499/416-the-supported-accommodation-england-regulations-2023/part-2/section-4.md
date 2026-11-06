@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. The leadership and management standard[^key-78b311c04ceabbeee24154ba863f002a]
+## 4. The leadership and management standard[^c-78b311c04ceabbeee24154ba863f002a]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78b311c04ceabbeee24154ba863f002a]: Commencement: Reg. 4 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-78b311c04ceabbeee24154ba863f002a]: Commencement: Reg. 4 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00013]: Footnote: Section 121 of the Care Standards Act 2000 defines “harm” as ill-treatment or the impairment of health or development.

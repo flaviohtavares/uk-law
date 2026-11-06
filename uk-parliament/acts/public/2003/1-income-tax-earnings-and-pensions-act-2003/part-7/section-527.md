@@ -22,14 +22,14 @@ summary: ''
 
 (1) This Chapter provides—
 
-- (a) for share options notified to an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] to be qualifying options for the purposes of the EMI code, and
+- (a) for share options notified to an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] to be qualifying options for the purposes of the EMI code, and
 - (b) for exemptions and reliefs from income tax in connection with qualifying options.
 
 (2) Schedule 5 contains the requirements that have to be met for a share option to be a qualifying option, together with the notification procedure.
 
 (3) The provisions of—
 
-- (a) this and the following sections of this Chapter, and[^key-ac575e6c961538ab8648a68cbb49ead9]
+- (a) this and the following sections of this Chapter, and[^c-ac575e6c961538ab8648a68cbb49ead9]
 - (b) Schedule 5, ...
 - (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -48,6 +48,6 @@ together constitute “the EMI code”.
 
 ## Annotations
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-ac575e6c961538ab8648a68cbb49ead9]: Textual amendment: Word in s. 527(3) inserted (with effect in accordance with Sch. 3 para. 9(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/9/3/a)
+[^c-ac575e6c961538ab8648a68cbb49ead9]: Textual amendment: Word in s. 527(3) inserted (with effect in accordance with Sch. 3 para. 9(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/9/3/a)

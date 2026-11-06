@@ -35,22 +35,22 @@ amending the methodology for the classification of products by activity given in
 
 (Text with EEA relevance) (revoked)
 
-[^key-080bd13dc8a58c2f515aa860b12d8f96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-080bd13dc8a58c2f515aa860b12d8f96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-080bd13dc8a58c2f515aa860b12d8f96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-080bd13dc8a58c2f515aa860b12d8f96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-080bd13dc8a58c2f515aa860b12d8f96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-080bd13dc8a58c2f515aa860b12d8f96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-080bd13dc8a58c2f515aa860b12d8f96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-080bd13dc8a58c2f515aa860b12d8f96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-080bd13dc8a58c2f515aa860b12d8f96]
+## ANNEX[^c-080bd13dc8a58c2f515aa860b12d8f96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-080bd13dc8a58c2f515aa860b12d8f96]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/82)
+[^c-080bd13dc8a58c2f515aa860b12d8f96]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/82)

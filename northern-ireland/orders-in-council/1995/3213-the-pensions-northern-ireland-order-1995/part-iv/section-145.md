@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Earner employed in more than one employment[^key-08a9d1da2d97a41ce68e92a86816bf8e]
+## 145. Earner employed in more than one employment[^c-08a9d1da2d97a41ce68e92a86816bf8e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08a9d1da2d97a41ce68e92a86816bf8e]: Textual amendment: [Art. 145](https://www.legislation.gov.uk/nisi/1995/3213/article/145) repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 64](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/64)
+[^c-08a9d1da2d97a41ce68e92a86816bf8e]: Textual amendment: [Art. 145](https://www.legislation.gov.uk/nisi/1995/3213/article/145) repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 64](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/64)

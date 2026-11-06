@@ -22,9 +22,9 @@ summary: ''
 
 Section 17(1).
 
-**1.**[^key-39aefad33e521404c9104629f75e9ef4] The Pensions (Northern Ireland) Order 2005 is amended as follows.
+**1.**[^c-39aefad33e521404c9104629f75e9ef4] The Pensions (Northern Ireland) Order 2005 is amended as follows.
 
-**2.**[^key-1faafc4b4e8b0a0a5efc8b1a719ce96c] (1) Article 2 (general interpretation) is amended as follows.
+**2.**[^c-1faafc4b4e8b0a0a5efc8b1a719ce96c] (1) Article 2 (general interpretation) is amended as follows.
 
 (2) In paragraph (2), after the definition of “occupational pension scheme” insert—
 
@@ -57,7 +57,7 @@ Section 17(1).
 
 .
 
-**3.**[^key-4d6cc38f1ce07d47ca70a30bbe2f4f73] (1) Article 9 (improvement notices) is amended as follows.
+**3.**[^c-4d6cc38f1ce07d47ca70a30bbe2f4f73] (1) Article 9 (improvement notices) is amended as follows.
 
 (2) In paragraph (3)(a), after “85” insert “ or 85A ”.
 
@@ -72,7 +72,7 @@ Section 17(1).
 
   .
 
-**4.**[^key-b50484b893f7f59d436cd32dff1780eb] After Article 10 insert—
+**4.**[^c-b50484b893f7f59d436cd32dff1780eb] After Article 10 insert—
 
 > **Appointment of skilled person to assist public service pension scheme**
 >
@@ -88,7 +88,7 @@ Section 17(1).
 
 .
 
-**5.**[^key-e987ee63c2f537975bea3af1dd1e97d6] (1) In Article 13 (power of the Regulator to recover unpaid contributions), paragraph (3) is amended as follows.
+**5.**[^c-e987ee63c2f537975bea3af1dd1e97d6] (1) In Article 13 (power of the Regulator to recover unpaid contributions), paragraph (3) is amended as follows.
 
 (2) In the definition of “due date”—
 
@@ -114,7 +114,7 @@ Section 17(1).
 
   .
 
-**6.**[^key-59ee17883d6df8cc827b4315ff922762] In Article 65 (duty to report breaches of the law), in paragraph (1)—
+**6.**[^c-59ee17883d6df8cc827b4315ff922762] In Article 65 (duty to report breaches of the law), in paragraph (1)—
 
 - (a) after sub-paragraph (a) insert—
 
@@ -123,7 +123,7 @@ Section 17(1).
   ;
 - (b) in sub-paragraph (b), for “such a scheme” substitute “ an occupational or personal pension scheme ”.
 
-**7.**[^key-745a994894b00a4b17f4685654125b38] After Article 65 insert—
+**7.**[^c-745a994894b00a4b17f4685654125b38] After Article 65 insert—
 
 > **Reporting late payment of employer contributions**
 >
@@ -142,7 +142,7 @@ Section 17(1).
 
 .
 
-**8.**[^key-23c6bcd0abc1b566a24f67466b96fd15] (1) Article 66 (reports by skilled persons) is amended as follows.
+**8.**[^c-23c6bcd0abc1b566a24f67466b96fd15] (1) Article 66 (reports by skilled persons) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -154,13 +154,13 @@ Section 17(1).
   ;
 - (c) in sub-paragraph (c), for “such a scheme” substitute “ a work-based pension scheme ”.
 
-**9.**[^key-423b46680f85ddf880bac56dccc3801d] In Article 67 (provision of information), in paragraph (2), after sub-paragraph (a) insert—
+**9.**[^c-423b46680f85ddf880bac56dccc3801d] In Article 67 (provision of information), in paragraph (2), after sub-paragraph (a) insert—
 
 > - (aa) a member of the pension board of a public service pension scheme,
 
 .
 
-**10.**[^key-74b081d7cdd993dc9c533f18a19deaae] In Article 68 (inspection of premises), in paragraph (2)—
+**10.**[^c-74b081d7cdd993dc9c533f18a19deaae] In Article 68 (inspection of premises), in paragraph (2)—
 
 - (a) after sub-paragraph (d) insert—
 
@@ -169,13 +169,13 @@ Section 17(1).
   ,
 - (b) in sub-paragraph (e), for “(d)” substitute “ (da) ”.
 
-**11.**[^key-b831bfc2e424ac3826e7c59e88fed588] In Article 84 (reports), at the end insert—
+**11.**[^c-b831bfc2e424ac3826e7c59e88fed588] In Article 84 (reports), at the end insert—
 
 > (4) Before making a report under this Article which relates to a public service pension scheme, the Regulator must notify the scheme manager.
 
 .
 
-**12.**[^key-7cb497a517fa44439afc77a628988f9d] After Article 84 insert—
+**12.**[^c-7cb497a517fa44439afc77a628988f9d] After Article 84 insert—
 
 > **Reports about misappropriation, etc. in public service pension schemes**
 >
@@ -192,7 +192,7 @@ Section 17(1).
 
 .
 
-**13.**[^key-6fd0816438a4432580703fd49cde9702] (1) Article 85 (codes of practice) is amended as follows.
+**13.**[^c-6fd0816438a4432580703fd49cde9702] (1) Article 85 (codes of practice) is amended as follows.
 
 (2) In paragraph (4), after “provision of a code of practice” insert “ issued under this Article ”.
 
@@ -204,7 +204,7 @@ Section 17(1).
 
 .
 
-**14.**[^key-5b7b629e9ead5254f96d3506adb256cf] After Article 85 insert—
+**14.**[^c-5b7b629e9ead5254f96d3506adb256cf] After Article 85 insert—
 
 > **Codes of practice: public service pension schemes**
 >
@@ -249,23 +249,23 @@ Section 17(1).
 
 .
 
-**15.**[^key-d3f1e50505d06fca777830dbe8315894] (1) Article 86 (procedure for codes) is amended as follows.
+**15.**[^c-d3f1e50505d06fca777830dbe8315894] (1) Article 86 (procedure for codes) is amended as follows.
 
 (2) In paragraph (1), after “code of practice” insert “ under Article 85 or 85A ”.
 
 (3) In paragraphs (4)(a) and (9), after “85” insert “ or 85A ”.
 
-**16.**[^key-e8dcb3853ca1b4ab989dbe40bb9c9bbb] In Article 87 (revocation of codes), in paragraph (1), after “code of practice” insert “ under Article 85 or 85A ”.
+**16.**[^c-e8dcb3853ca1b4ab989dbe40bb9c9bbb] In Article 87 (revocation of codes), in paragraph (1), after “code of practice” insert “ under Article 85 or 85A ”.
 
-**17.**[^key-d95594b2ce40edc0f9d8b1c6f1919428] In Article 88 (procedure for regulatory functions), in paragraph (2), after sub-paragraph (b) insert—
+**17.**[^c-d95594b2ce40edc0f9d8b1c6f1919428] In Article 88 (procedure for regulatory functions), in paragraph (2), after sub-paragraph (b) insert—
 
 > - (ba) the power to appoint a skilled person in relation to a public service pension scheme under Article 10A,
 
 .
 
-**18.**[^key-651b4016e97396d531ba49b6514f2314] In Article 138 (requirement to wind up schemes with sufficient assets), in paragraph (14), after “public service pension scheme” insert “ (within the meaning of the Pension Schemes Act) ”.
+**18.**[^c-651b4016e97396d531ba49b6514f2314] In Article 138 (requirement to wind up schemes with sufficient assets), in paragraph (14), after “public service pension scheme” insert “ (within the meaning of the Pension Schemes Act) ”.
 
-**19.**[^key-cecdf3a18bfdcfaff1c1bb35bbb83a9a] After Article 225 insert—
+**19.**[^c-cecdf3a18bfdcfaff1c1bb35bbb83a9a] After Article 225 insert—
 
 > **Requirement for knowledge and understanding: pension boards of public service pension schemes**
 >
@@ -285,7 +285,7 @@ Section 17(1).
 
 .
 
-**20.**[^key-1a0cec7c3b99dff89f1889bab5f776a5] In Article 226A (requirement for internal controls), in paragraph (3)—
+**20.**[^c-1a0cec7c3b99dff89f1889bab5f776a5] In Article 226A (requirement for internal controls), in paragraph (3)—
 
 - (a) before sub-paragraph (a) insert—
 
@@ -294,7 +294,7 @@ Section 17(1).
   ;
 - (b) in sub-paragraph (a) for “a scheme” substitute “ any other scheme ”.
 
-**21.**[^key-a58747e2c4fa09a3208f5391e5cbb885] After Article 226A insert—
+**21.**[^c-a58747e2c4fa09a3208f5391e5cbb885] After Article 226A insert—
 
 > **Requirement for internal controls: public service pension schemes**
 >
@@ -311,44 +311,44 @@ Section 17(1).
 
 ## Annotations
 
-[^key-39aefad33e521404c9104629f75e9ef4]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/1) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-39aefad33e521404c9104629f75e9ef4]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/1) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
 
-[^key-1faafc4b4e8b0a0a5efc8b1a719ce96c]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/2) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-1faafc4b4e8b0a0a5efc8b1a719ce96c]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/2) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
 
-[^key-4d6cc38f1ce07d47ca70a30bbe2f4f73]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/3) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-4d6cc38f1ce07d47ca70a30bbe2f4f73]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/3) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-b50484b893f7f59d436cd32dff1780eb]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/4) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-b50484b893f7f59d436cd32dff1780eb]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/4) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-e987ee63c2f537975bea3af1dd1e97d6]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/5) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-e987ee63c2f537975bea3af1dd1e97d6]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/5) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-59ee17883d6df8cc827b4315ff922762]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/6) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-59ee17883d6df8cc827b4315ff922762]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/6) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-745a994894b00a4b17f4685654125b38]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/7) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-745a994894b00a4b17f4685654125b38]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/7) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-23c6bcd0abc1b566a24f67466b96fd15]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/8) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-23c6bcd0abc1b566a24f67466b96fd15]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/8) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-423b46680f85ddf880bac56dccc3801d]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/9) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-423b46680f85ddf880bac56dccc3801d]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/9) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-74b081d7cdd993dc9c533f18a19deaae]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/10) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-74b081d7cdd993dc9c533f18a19deaae]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/10) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-b831bfc2e424ac3826e7c59e88fed588]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/11) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-b831bfc2e424ac3826e7c59e88fed588]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/11) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-7cb497a517fa44439afc77a628988f9d]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/12) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-7cb497a517fa44439afc77a628988f9d]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/12) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-6fd0816438a4432580703fd49cde9702]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/13) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-6fd0816438a4432580703fd49cde9702]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/13) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-5b7b629e9ead5254f96d3506adb256cf]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/14) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-5b7b629e9ead5254f96d3506adb256cf]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/14) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
 
-[^key-d3f1e50505d06fca777830dbe8315894]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/15) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-d3f1e50505d06fca777830dbe8315894]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/15) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
 
-[^key-e8dcb3853ca1b4ab989dbe40bb9c9bbb]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/16) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-e8dcb3853ca1b4ab989dbe40bb9c9bbb]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/16) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
 
-[^key-d95594b2ce40edc0f9d8b1c6f1919428]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/17) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-d95594b2ce40edc0f9d8b1c6f1919428]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/17) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-651b4016e97396d531ba49b6514f2314]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/18) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-651b4016e97396d531ba49b6514f2314]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/18) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
 
-[^key-cecdf3a18bfdcfaff1c1bb35bbb83a9a]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/19) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-cecdf3a18bfdcfaff1c1bb35bbb83a9a]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/19) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-1a0cec7c3b99dff89f1889bab5f776a5]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/20) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-1a0cec7c3b99dff89f1889bab5f776a5]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/20) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-a58747e2c4fa09a3208f5391e5cbb885]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/21) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-a58747e2c4fa09a3208f5391e5cbb885]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/21) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Targets for reduction of packaging etc.[^key-b625c196e99825380ed41ddbeba48acb]
+## 83. Targets for reduction of packaging etc.[^c-b625c196e99825380ed41ddbeba48acb]
 
 *Extent: S*
 
@@ -42,10 +42,10 @@ summary: ''
 
 (3) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
 
-(4) For the purpose of this section and any regulations made under it,[^key-bbe322fa0f785b8e7deca095fe09121f] “**packaging**” has the meaning given by Article 3 of Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) of the European Parliament and of the Council on packaging and packaging waste.
+(4) For the purpose of this section and any regulations made under it,[^c-bbe322fa0f785b8e7deca095fe09121f] “**packaging**” has the meaning given by Article 3 of Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) of the European Parliament and of the Council on packaging and packaging waste.
 
 ## Annotations
 
-[^key-b625c196e99825380ed41ddbeba48acb]: Commencement: S. 83 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-b625c196e99825380ed41ddbeba48acb]: Commencement: S. 83 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
 
-[^key-bbe322fa0f785b8e7deca095fe09121f]: Textual amendment: Words in s. 83(4) substituted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(2)](https://www.legislation.gov.uk/asp/2024/13/section/10/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
+[^c-bbe322fa0f785b8e7deca095fe09121f]: Textual amendment: Words in s. 83(4) substituted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(2)](https://www.legislation.gov.uk/asp/2024/13/section/10/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)

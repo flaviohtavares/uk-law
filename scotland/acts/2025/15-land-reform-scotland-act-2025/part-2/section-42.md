@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Legatee or acquirer on intestacy: supplementary provision[^key-00ff473fc11762993b92ead914939cb7]
+## 42. Legatee or acquirer on intestacy: supplementary provision[^c-00ff473fc11762993b92ead914939cb7]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00ff473fc11762993b92ead914939cb7]: Commencement: S. 42 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-00ff473fc11762993b92ead914939cb7]: Commencement: S. 42 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

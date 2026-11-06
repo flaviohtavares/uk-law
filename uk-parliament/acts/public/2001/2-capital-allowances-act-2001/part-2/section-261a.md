@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261A. Special leasing: leasing partnerships[^key-cad777dd491ea4496ee005257f5cf486]
+## 261A. Special leasing: leasing partnerships[^c-cad777dd491ea4496ee005257f5cf486]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,13 +31,13 @@ summary: ''
 
 (3) For the purposes of this section—
 
-- (a) “**business of leasing plant or machinery**” has the same meaning as in Chapter 4 of Part 9 of CTA 2010 (sales of lessors: leasing business carried on by a company in partnership)[^key-969e21e4712ff3907f16bbfee4e8a87a], and
-- (b) section 887 of CTA 2010[^key-bb75f131a11705d6ac171af21175be8b] applies for determining whether the interest of the company in the leasing business during the chargeable period of the partnership is determined on an allowable basis.
+- (a) “**business of leasing plant or machinery**” has the same meaning as in Chapter 4 of Part 9 of CTA 2010 (sales of lessors: leasing business carried on by a company in partnership)[^c-969e21e4712ff3907f16bbfee4e8a87a], and
+- (b) section 887 of CTA 2010[^c-bb75f131a11705d6ac171af21175be8b] applies for determining whether the interest of the company in the leasing business during the chargeable period of the partnership is determined on an allowable basis.
 
 ## Annotations
 
-[^key-cad777dd491ea4496ee005257f5cf486]: Textual amendment: S. 261A inserted (with effect in accordance with s. 83(4)-(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 83(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/83/3)
+[^c-cad777dd491ea4496ee005257f5cf486]: Textual amendment: S. 261A inserted (with effect in accordance with s. 83(4)-(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 83(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/83/3)
 
-[^key-969e21e4712ff3907f16bbfee4e8a87a]: Textual amendment: Words in s. 261A(3)(a) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 351(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/351/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-969e21e4712ff3907f16bbfee4e8a87a]: Textual amendment: Words in s. 261A(3)(a) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 351(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/351/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-bb75f131a11705d6ac171af21175be8b]: Textual amendment: Words in s. 261A(3)(b) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 351(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/351/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-bb75f131a11705d6ac171af21175be8b]: Textual amendment: Words in s. 261A(3)(b) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 351(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/351/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

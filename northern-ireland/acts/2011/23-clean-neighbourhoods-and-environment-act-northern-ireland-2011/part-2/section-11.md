@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Notice of removal of vehicle[^key-cce914a91aff22145104c709907befae]
+## 11. Notice of removal of vehicle[^c-cce914a91aff22145104c709907befae]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cce914a91aff22145104c709907befae]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/23/section/11) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))
+[^c-cce914a91aff22145104c709907befae]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/23/section/11) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))

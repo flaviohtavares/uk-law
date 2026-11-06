@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Acts of Adjournal[^key-560a66b3e8f7941cf4d4ad8f5bde28b3]
+## 165. Acts of Adjournal[^c-560a66b3e8f7941cf4d4ad8f5bde28b3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The High Court may by Act of Adjournal make such rules as it considers necessary
 
 ## Annotations
 
-[^key-560a66b3e8f7941cf4d4ad8f5bde28b3]: Commencement: S. 165 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-560a66b3e8f7941cf4d4ad8f5bde28b3]: Commencement: S. 165 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

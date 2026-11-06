@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Offence of intentionally damaging listed building[^key-6e443a9a8f83c3d93cb068177132faa2][^key-41eda666baca48ba4c3ba8602ed9aef9]
+## 118. Offence of intentionally damaging listed building[^c-6e443a9a8f83c3d93cb068177132faa2][^c-41eda666baca48ba4c3ba8602ed9aef9]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (c) works in relation to an exempt religious building;
 - (d) anything authorised by planning permission granted or treated as having been granted on an application under the [Town and Country Planning Act 1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8);
 - (e) anything for which development consent has been granted under the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29);
-- (f)[^key-5ffff79890415a23e33f63f9130f6a13] anything for which infrastructure consent has been given under the Infrastructure (Wales) Act 2024.
+- (f)[^c-5ffff79890415a23e33f63f9130f6a13] anything for which infrastructure consent has been given under the Infrastructure (Wales) Act 2024.
 
 (3) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6e443a9a8f83c3d93cb068177132faa2]: Commencement: S. 118 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-6e443a9a8f83c3d93cb068177132faa2]: Commencement: S. 118 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-41eda666baca48ba4c3ba8602ed9aef9]: Commencement: [S. 118](https://www.legislation.gov.uk/asc/2023/3/section/118) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-41eda666baca48ba4c3ba8602ed9aef9]: Commencement: [S. 118](https://www.legislation.gov.uk/asc/2023/3/section/118) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
 
-[^key-5ffff79890415a23e33f63f9130f6a13]: Textual amendment: [S. 118(2)(f)](https://www.legislation.gov.uk/asc/2023/3/section/118/2/f) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 15(5)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/15/5) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-5ffff79890415a23e33f63f9130f6a13]: Textual amendment: [S. 118(2)(f)](https://www.legislation.gov.uk/asc/2023/3/section/118/2/f) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 15(5)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/15/5) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)

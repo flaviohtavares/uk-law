@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Regulated activity provider: failure to check[^key-f9423e35871f09ba910a0cef8e172f90][^c21193861]
+## 15. Regulated activity provider: failure to check[^c-f9423e35871f09ba910a0cef8e172f90][^c21193861]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9423e35871f09ba910a0cef8e172f90]: Textual amendment: Art. 15 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/84), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)
+[^c-f9423e35871f09ba910a0cef8e172f90]: Textual amendment: Art. 15 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/84), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)
 
 [^c21193861]: Commencement: Art. 15 partly in operation; art. 15 not in operation at date of making see art. 1(3); art. 15(2) in operation for certain purposes at 29.5.2008 by [S.R. 2008/233](https://www.legislation.gov.uk/nisr/2008/233), [art. 4(a)](https://www.legislation.gov.uk/nisr/2008/233/article/4/a)

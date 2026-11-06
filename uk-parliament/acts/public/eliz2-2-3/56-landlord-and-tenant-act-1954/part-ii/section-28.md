@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Renewal of tenancies by agreement.[^key-edc171ab672f68372fb9e4dda3a2dc4f]
+## 28. Renewal of tenancies by agreement.[^c-edc171ab672f68372fb9e4dda3a2dc4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the landlord and tenant agree for the grant to the tenant of a future tena
 
 ## Annotations
 
-[^key-edc171ab672f68372fb9e4dda3a2dc4f]: Modification: [Ss. 24-28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/24) excluded (2.12.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-edc171ab672f68372fb9e4dda3a2dc4f]: Modification: [Ss. 24-28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/24) excluded (2.12.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

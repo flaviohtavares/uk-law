@@ -48,20 +48,20 @@ In accordance with section 21 of and paragraph 2(2) of Schedule 2 to that Act, t
 
 A draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with sections 24(1)(c) and 32(2)(a) of that Act.
 
-## 1. Citation and commencement[^key-851cd91844af6402fdc83cfe8d27a045]
+## 1. Citation and commencement[^c-851cd91844af6402fdc83cfe8d27a045]
 
 These Regulations may be cited as the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017 and come into force on 1st April 2017 or, if later, the day after the day on which they are made.
 
-## 2. Interpretation[^key-a81babf26304030935439173580f41a5]
+## 2. Interpretation[^c-a81babf26304030935439173580f41a5]
 
-(1)[^key-d8fcd55f0f6680eea4750c06ba192dc6] In these Regulations –
+(1)[^c-d8fcd55f0f6680eea4750c06ba192dc6] In these Regulations –
 
 - “the 2004 Act” means the Finance Act 2004[^f00002];
 - “the 2015 regulations” means the Judicial Pensions Regulations 2015[^f00003];
-- “the 2022 Regulations” means the Judicial Pensions Regulations 2022;[^key-2003d86afd721d55ad58ff4f3f056d32]
+- “the 2022 Regulations” means the Judicial Pensions Regulations 2022;[^c-2003d86afd721d55ad58ff4f3f056d32]
 - “the 2015 scheme” means the judicial pension scheme created by the 2015 regulations;
 - “the 2022 Scheme” means the Judicial pension scheme created by the 2022 Regulations;
-- “[^key-fae690be36cc54bdea5dd813a45b7b95]**active member**” has the meaning given in paragraph (2);
+- “[^c-fae690be36cc54bdea5dd813a45b7b95]**active member**” has the meaning given in paragraph (2);
 - “AVC member” means an active member who has given a notice under regulation 6(2);
 - “AVC scheme” means the scheme established under regulation 3;
 - “authorised provider” has the same meaning as in section 1(9) of the Superannuation Act 1972[^f00004];
@@ -81,7 +81,7 @@ These Regulations may be cited as the Judicial Pensions (Additional Voluntary Co
 - “scheme manager” has the meaning given in regulation 4;
 - “tax year” has the meaning given in section 4(2) of the Income Tax Act 2007[^f00007] (as applied by section 989 of that Act).
 
-(2)[^key-48dbb4c1d4949b630cc9c58e97c78c99] In these Regulations, “**active member**” means a person who—
+(2)[^c-48dbb4c1d4949b630cc9c58e97c78c99] In these Regulations, “**active member**” means a person who—
 
 - (a) is in pensionable service under the 2015 Scheme or the 2022 Scheme;
 - (b) would have been in pensionable service under the 2015 Scheme in the period beginning with 1st April 2015 and ending with 31st March 2022 if—
@@ -103,11 +103,11 @@ These Regulations may be cited as the Judicial Pensions (Additional Voluntary Co
 - “**relevant service**” has the meaning given in regulation 29(2) of the Judicial Pensions (Remediable Service etc.) Regulations 2023;
 - “**remediable service**” has the meaning given in section 39 of PSPJOA 2022.
 
-## 3. Establishment and scope[^key-b0a67920fc7c1575d0af3e999b1fa2ee]
+## 3. Establishment and scope[^c-b0a67920fc7c1575d0af3e999b1fa2ee]
 
 An additional voluntary contributions scheme is established as a defined contributions scheme for the judiciary.
 
-## 4. Administration[^key-ac3a0bc5ec3d83f6d09f080c415d18d2]
+## 4. Administration[^c-ac3a0bc5ec3d83f6d09f080c415d18d2]
 
 (1) The Lord Chancellor is the scheme manager for the AVC scheme and any statutory pension scheme that is connected with it.
 
@@ -123,7 +123,7 @@ An additional voluntary contributions scheme is established as a defined contrib
 
 (7) The scheme manager may delegate any functions under these Regulations.
 
-## 5. Pension board[^key-eb89e36384f48018a4f4395021b4cfaf]
+## 5. Pension board[^c-eb89e36384f48018a4f4395021b4cfaf]
 
 (1) The Judicial Pension Board is responsible for assisting the scheme manager—
 
@@ -135,7 +135,7 @@ An additional voluntary contributions scheme is established as a defined contrib
 
 (2) The Judicial Pension Board may determine its own procedures.
 
-## 6. Membership[^key-028492904d74df249ab0a7225551bef2]
+## 6. Membership[^c-028492904d74df249ab0a7225551bef2]
 
 (1) Membership of the AVC scheme is only open to active members.
 
@@ -147,21 +147,21 @@ An additional voluntary contributions scheme is established as a defined contrib
 
 (5) If a person ceases to be an active member they also cease to be an AVC member.
 
-## 7. Further information[^key-18db79aaa22130f1c0cecbc85ca87d32]
+## 7. Further information[^c-18db79aaa22130f1c0cecbc85ca87d32]
 
 An AVC member must, if requested by the scheme manager, provide or authorise to be provided such information as is requested by the scheme manager—
 
 - (a) relating to the AVC member’s medical history and state of health; or
 - (b) about any benefits which the AVC member may have which are derived from a registered scheme (including information about any such benefits which have been transferred to another scheme, whether or not in the United Kingdom) and which relates to benefits accrued other than through contributions to a judicial pension scheme.
 
-## 8. Disclosure of information[^key-c5e29fb529732992e6a9de0798f5dd92]
+## 8. Disclosure of information[^c-c5e29fb529732992e6a9de0798f5dd92]
 
 In order to establish or ensure compliance with the 2004 Act the scheme manager may disclose any financial information obtained under regulation 6 or 7(b) to —
 
 - (a) the Commissioners for Her Majesty’s Revenue and Customs (or to the officers of the Commissioners for Her Majesty’s Revenue and Customs); or
 - (b) any authorised provider, or the servants or agents of that provider, who is, or may be, concerned in the investment of the funds or the provision of benefits under the AVC scheme.
 
-## 9. Contributions[^key-225efff3d27ee2d00378286b3eab45b5]
+## 9. Contributions[^c-225efff3d27ee2d00378286b3eab45b5]
 
 (1) An AVC member must from time to time, as required by the scheme manager, instruct the scheme manager by notice in writing as to the level and form of contributions that the AVC member wishes to make.
 
@@ -180,13 +180,13 @@ and in any case payment must be made by way of a deduction from the AVC member�
 
 (4) An AVC member’s scheme contributions in any tax year must not exceed that amount which, when aggregated with all contributions to any other registered scheme in the same tax year, bring the AVC member’s total contributions for that tax year up to the maximum amount of relief as calculated under section 190 of the 2004 Act[^f00008].
 
-## 10. Transfers in[^key-b0cc725df8aaec63577179ebe6b0a78f]
+## 10. Transfers in[^c-b0cc725df8aaec63577179ebe6b0a78f]
 
 (1) At any time before the AVC member’s normal minimum pension age, an AVC member may make, or arrange to be made, a payment representing the cash equivalent of the AVC member’s accrued rights in any other registered scheme or a qualifying recognised overseas pension scheme to be invested in the scheme.
 
 (2) A payment under paragraph (1) from a registered scheme may be accepted by the scheme manager only if the administrator of the registered scheme certifies that the payment is a recognised transfer as defined in section 169 of the 2004 Act[^f00009].
 
-## 11. Investment of funds[^key-694cad447a5f8e1d15588730b28bb14d]
+## 11. Investment of funds[^c-694cad447a5f8e1d15588730b28bb14d]
 
 (1) The scheme manager must, as soon as reasonably practicable, invest an AVC member’s scheme contributions made under regulation 9 and any transfer payment accepted under regulation 10 with an authorised provider for the purpose of providing benefits under regulation 12.
 
@@ -200,7 +200,7 @@ and in any case payment must be made by way of a deduction from the AVC member�
 
 (6) The scheme manager must re-invest a sum surrendered under paragraph (5) in accordance with paragraph (1).
 
-## 12. Benefits which may be provided[^key-8b04572b69ecc1d5802688054101b460]
+## 12. Benefits which may be provided[^c-8b04572b69ecc1d5802688054101b460]
 
 (1) The AVC member is entitled to the benefits attributable to the AVC scheme assets.
 
@@ -214,13 +214,13 @@ and in any case payment must be made by way of a deduction from the AVC member�
 - (b) the AVC member’s preference as to the benefits to be provided under paragraph (2) in relation to that proportion; and
 - (c) if the AVC member wishes a combination of benefits to be provided, what proportion of the AVC scheme assets the AVC member wishes to be allocated to each type of benefit.
 
-## 13. Death in service[^key-cb5d41e169cc80bc3e00a9456042056c]
+## 13. Death in service[^c-cb5d41e169cc80bc3e00a9456042056c]
 
 (1) Where an AVC member is an active member at the date of their death, any lump sum payable under the AVC scheme must be paid to the person (if any) nominated by that AVC member for the purposes of this paragraph by notice in writing to the scheme manager.
 
 (2) If no such nomination is made, the scheme manager must pay the lump sum to the personal representatives of the AVC member.
 
-## 14. Transfers out[^key-c3394306fa157d9361b4491e29cf05cd]
+## 14. Transfers out[^c-c3394306fa157d9361b4491e29cf05cd]
 
 (1) An AVC member may cease to be a member of the AVC scheme in relation to all or part of the AVC scheme assets at any time before those assets are used under regulation 12 by requesting the scheme manager (in such manner as may, subject to Chapters 1 and 2 of Part 4ZA of the Pension Schemes Act 1993[^f00010] or to Chapters 1 and 2 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993[^f00011], be specified by the scheme manager) to take one of the actions in paragraphs (2)(a) to (d).
 
@@ -231,21 +231,21 @@ and in any case payment must be made by way of a deduction from the AVC member�
 - (c) to pay the AVC member the value of the AVC scheme assets if the AVC member’s pensionable service, together with any service whilst an AVC member of another registered scheme from which a transfer value has been paid to the AVC scheme or the 2015 scheme, is less than 2 years;
 - (d) to use all or part of the AVC scheme assets in any other way which is not an unauthorised payment within the meaning of section 160(5) of the 2004 Act[^f00012].
 
-## 15. Tax[^key-43caa5cb4a5ce84dddd16e97e325e9d4]
+## 15. Tax[^c-43caa5cb4a5ce84dddd16e97e325e9d4]
 
 Whenever the scheme manager is liable to pay any tax in respect of any payment made to the AVC member under these Regulations, the scheme manager shall deduct sums equal in total to such tax from the realisable value of any investments made by the authorised provider with the AVC member’s scheme contributions and any transfer payment accepted in relation to the AVC member’s accrued rights under regulation 10.
 
-## 16. Administrative expenses[^key-07f5a78dcc44b69e8f96a299338c1c43]
+## 16. Administrative expenses[^c-07f5a78dcc44b69e8f96a299338c1c43]
 
 Any administrative expenses incurred by the authorised provider by virtue of acting as such under these Regulations may be defrayed, to the extent agreed by the scheme manager, out of the realisable value of any investments made by the authorised provider in respect of the AVC member under regulation 11.
 
-## 17. Consequential amendment[^key-c9cbb5764c7dff143de4ee9577f5c355]
+## 17. Consequential amendment[^c-c9cbb5764c7dff143de4ee9577f5c355]
 
 For the definition of “Judicial Additional Voluntary Contributions Scheme” in regulation 140 of the 2015 regulations substitute—
 
 > - “Judicial Additional Voluntary Contributions Scheme*”* means the additional voluntary contribution scheme constituted under Part 2 of the Judicial Pensions (Additional Voluntary Contributions) Regulations 1995 or the additional voluntary contribution scheme constituted by the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017;”.
 
-## 18. Determination of questions[^key-337da50e1281d7613f43e9f3ab5d60c3]
+## 18. Determination of questions[^c-337da50e1281d7613f43e9f3ab5d60c3]
 
 (1) Any question arising under the AVC scheme is to be determined by the scheme manager.
 
@@ -299,19 +299,19 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-851cd91844af6402fdc83cfe8d27a045]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-851cd91844af6402fdc83cfe8d27a045]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-a81babf26304030935439173580f41a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-a81babf26304030935439173580f41a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-d8fcd55f0f6680eea4750c06ba192dc6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) renumbered as reg. 2(1) (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/a)
+[^c-d8fcd55f0f6680eea4750c06ba192dc6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) renumbered as reg. 2(1) (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/a)
 
 [^f00002]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^f00003]: Footnote: [S.I. 2015/182](https://www.legislation.gov.uk/uksi/2015/182).
 
-[^key-2003d86afd721d55ad58ff4f3f056d32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) inserted (1.4.2022) by [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4), [Sch. 3 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/5/2/a) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))
+[^c-2003d86afd721d55ad58ff4f3f056d32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) inserted (1.4.2022) by [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4), [Sch. 3 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/5/2/a) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))
 
-[^key-fae690be36cc54bdea5dd813a45b7b95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/512/regulation/2/1) substituted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/b)
+[^c-fae690be36cc54bdea5dd813a45b7b95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/512/regulation/2/1) substituted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/b)
 
 [^f00004]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 1(9) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) Part. 3, article 106(3) and the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 18(2), paragraph 35.
 
@@ -321,35 +321,35 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00007]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-48dbb4c1d4949b630cc9c58e97c78c99]: Textual amendment: [Reg. 2(2)-(5)](https://www.legislation.gov.uk/uksi/2017/512/regulation/2/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/c)
+[^c-48dbb4c1d4949b630cc9c58e97c78c99]: Textual amendment: [Reg. 2(2)-(5)](https://www.legislation.gov.uk/uksi/2017/512/regulation/2/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/c)
 
-[^key-b0a67920fc7c1575d0af3e999b1fa2ee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/512/regulation/3) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-b0a67920fc7c1575d0af3e999b1fa2ee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/512/regulation/3) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-ac3a0bc5ec3d83f6d09f080c415d18d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/512/regulation/4) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-ac3a0bc5ec3d83f6d09f080c415d18d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/512/regulation/4) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-eb89e36384f48018a4f4395021b4cfaf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/512/regulation/5) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-eb89e36384f48018a4f4395021b4cfaf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/512/regulation/5) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-028492904d74df249ab0a7225551bef2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/512/regulation/6) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-028492904d74df249ab0a7225551bef2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/512/regulation/6) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-18db79aaa22130f1c0cecbc85ca87d32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/512/regulation/7) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-18db79aaa22130f1c0cecbc85ca87d32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/512/regulation/7) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-c5e29fb529732992e6a9de0798f5dd92]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/512/regulation/8) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-c5e29fb529732992e6a9de0798f5dd92]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/512/regulation/8) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-225efff3d27ee2d00378286b3eab45b5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/512/regulation/9) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-225efff3d27ee2d00378286b3eab45b5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/512/regulation/9) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
 [^f00008]: Footnote: Part of section 190 was repealed by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-b0cc725df8aaec63577179ebe6b0a78f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/512/regulation/10) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-b0cc725df8aaec63577179ebe6b0a78f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/512/regulation/10) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
 [^f00009]: Footnote: Amended by the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), Schedule 10, paragraph 36, Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16(2), paragraph 66(a) and (b), Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), Part 1, Chapter 4, section 53(3), (4), (5), (6) and (7), Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), Schedule 1(7), paragraph 92, Schedule 7, paragraph 23(a), and the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), Schedule 1(1), paragraph 8, Schedule 1(7), paragraph 92 and Schedule 2(1), paragraph 4.
 
-[^key-694cad447a5f8e1d15588730b28bb14d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/512/regulation/11) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-694cad447a5f8e1d15588730b28bb14d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/512/regulation/11) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-8b04572b69ecc1d5802688054101b460]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/512/regulation/12) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-8b04572b69ecc1d5802688054101b460]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/512/regulation/12) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-cb5d41e169cc80bc3e00a9456042056c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/512/regulation/13) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-cb5d41e169cc80bc3e00a9456042056c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/512/regulation/13) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-c3394306fa157d9361b4491e29cf05cd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/512/regulation/14) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-c3394306fa157d9361b4491e29cf05cd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/512/regulation/14) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
 [^f00010]: Footnote: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8); Part 4, Chapters 4 and 5 were renumbered as Part 4ZA Chapters 1 and 2 by Part 1 of Schedule 4 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8).
 
@@ -357,12 +357,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00012]: Footnote: Sections 160(2) and (4) relevant to this definition were amended by the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
-[^key-43caa5cb4a5ce84dddd16e97e325e9d4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2017/512/regulation/15) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-43caa5cb4a5ce84dddd16e97e325e9d4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2017/512/regulation/15) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-07f5a78dcc44b69e8f96a299338c1c43]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2017/512/regulation/16) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-07f5a78dcc44b69e8f96a299338c1c43]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2017/512/regulation/16) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-c9cbb5764c7dff143de4ee9577f5c355]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/512/regulation/17) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-c9cbb5764c7dff143de4ee9577f5c355]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/512/regulation/17) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
-[^key-337da50e1281d7613f43e9f3ab5d60c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/512/regulation/18) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+[^c-337da50e1281d7613f43e9f3ab5d60c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/512/regulation/18) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
 
 [^f00013]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26) Section 50 was substituted by section 273 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) and section 16 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22)

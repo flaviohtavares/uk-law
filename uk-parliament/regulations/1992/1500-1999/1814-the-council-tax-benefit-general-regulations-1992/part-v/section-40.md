@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Students who are excluded from entitlement to council tax benefit[^key-1990ed57357dcab4c53baff5ba392b18]
+## 40. Students who are excluded from entitlement to council tax benefit[^c-1990ed57357dcab4c53baff5ba392b18]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1990ed57357dcab4c53baff5ba392b18]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1992/1814/regulation/40) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-1990ed57357dcab4c53baff5ba392b18]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1992/1814/regulation/40) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00046]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

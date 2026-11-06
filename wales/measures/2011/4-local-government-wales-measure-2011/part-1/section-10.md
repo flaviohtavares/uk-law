@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Duty to adopt standing orders about management of staff[^key-b599ef0ebb2c2c0d825b620ddac6f811]
+## 10. Duty to adopt standing orders about management of staff[^c-b599ef0ebb2c2c0d825b620ddac6f811]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b599ef0ebb2c2c0d825b620ddac6f811]: Commencement: S. 10 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-b599ef0ebb2c2c0d825b620ddac6f811]: Commencement: S. 10 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

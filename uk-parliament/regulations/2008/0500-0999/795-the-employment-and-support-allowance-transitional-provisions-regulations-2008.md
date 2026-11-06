@@ -53,7 +53,7 @@ The Secretary of State for Work and Pensions in exercise of the powers conferred
 
 (3) Regulation 5 shall come into force on 27th October 2008.
 
-(4) In these Regulations “**income support on the grounds of disability**” means income support awarded to a person to whom regulation [^key-3290fe53f57e0726780ea64f711bf3ac]...13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, the Income Support (General) Regulations 1987 [^c1919137] (prescribed categories of person) applies.
+(4) In these Regulations “**income support on the grounds of disability**” means income support awarded to a person to whom regulation [^c-3290fe53f57e0726780ea64f711bf3ac]...13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, the Income Support (General) Regulations 1987 [^c1919137] (prescribed categories of person) applies.
 
 ## 2. Claim for existing award
 
@@ -61,13 +61,13 @@ The Secretary of State for Work and Pensions in exercise of the powers conferred
 
 (2) Paragraph (1) does not apply to—
 
-- (a)[^key-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-8dce2542ec0739649897ed81672fb2d4] a claim for income support on the grounds of disability made by a claimant who is entitled to incapacity benefit or severe disablement allowance; or
+- (a)[^c-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8dce2542ec0739649897ed81672fb2d4] a claim for income support on the grounds of disability made by a claimant who is entitled to incapacity benefit or severe disablement allowance; or
 - (e) a claim for incapacity benefit made by a claimant who is entitled to income support on the grounds of disability.
 
-(3) Paragraph (1) does not apply insofar as a claim is treated as a claim for [^key-e9bdc2dc63d7e7fa0a6f88c6fd8c3e5c]..., maternity allowance or carer's allowance under regulation 9(1) of and Part 1 of Schedule 1 to, the Social Security (Claims and Payments) Regulations 1987 [^c1919140] (claims treated as claimed in addition or in the alternative).
+(3) Paragraph (1) does not apply insofar as a claim is treated as a claim for [^c-e9bdc2dc63d7e7fa0a6f88c6fd8c3e5c]..., maternity allowance or carer's allowance under regulation 9(1) of and Part 1 of Schedule 1 to, the Social Security (Claims and Payments) Regulations 1987 [^c1919140] (claims treated as claimed in addition or in the alternative).
 
 ## 3. Claim by person entitled or potentially entitled to existing award
 
@@ -125,15 +125,15 @@ An impact assessment has not been completed for these Regulations as they have n
 
 [^c1919136]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-3290fe53f57e0726780ea64f711bf3ac]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2008/795/regulation/1/4) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2008/2428/regulation/42)
+[^c-3290fe53f57e0726780ea64f711bf3ac]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2008/795/regulation/1/4) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2008/2428/regulation/42)
 
 [^c1919137]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), 2000/1981, 2000/1922 and 2006/718.
 
-[^key-a0afb8e1987f4a36de05895b98d6d802]: Textual amendment: [Reg. 2(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2008/795/regulation/2/2/a) revoked (31.1.2011) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2010/1907/regulation/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-a0afb8e1987f4a36de05895b98d6d802]: Textual amendment: [Reg. 2(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2008/795/regulation/2/2/a) revoked (31.1.2011) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2010/1907/regulation/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
-[^key-8dce2542ec0739649897ed81672fb2d4]: Textual amendment: Reg. 2(2)(d) - Reg. 2(2)(e) added (26.10.2008) by [Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2008 (S.I. 2008/2783)](https://www.legislation.gov.uk/uksi/2008/2783), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2783/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/2783/regulation/2/b)
+[^c-8dce2542ec0739649897ed81672fb2d4]: Textual amendment: Reg. 2(2)(d) - Reg. 2(2)(e) added (26.10.2008) by [Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2008 (S.I. 2008/2783)](https://www.legislation.gov.uk/uksi/2008/2783), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2783/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/2783/regulation/2/b)
 
-[^key-e9bdc2dc63d7e7fa0a6f88c6fd8c3e5c]: Textual amendment: Words in reg. 2(3) omitted (1.10.2010) by virtue of [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [Sch. 4 para. 68](https://www.legislation.gov.uk/uksi/2010/1907/schedule/4/paragraph/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-e9bdc2dc63d7e7fa0a6f88c6fd8c3e5c]: Textual amendment: Words in reg. 2(3) omitted (1.10.2010) by virtue of [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [Sch. 4 para. 68](https://www.legislation.gov.uk/uksi/2010/1907/schedule/4/paragraph/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
 [^c1919140]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968) relevant amending instruments are [S.I. 1988/522](https://www.legislation.gov.uk/uksi/1988/522), 1990/2208, 1991/2741, 1992/2593, 1994/2943, 1996/1460, 1999/2572, 2000/1483, 2002/2497, 2005/1551.
 

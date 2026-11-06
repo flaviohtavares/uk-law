@@ -22,14 +22,14 @@ summary: ''
 
 Section 321
 
-### Part 1 — EEZ, UK marine area and Welsh zone[^key-ada8bd0bbf70464a509356ad91f8c349]
+### Part 1 — EEZ, UK marine area and Welsh zone[^c-ada8bd0bbf70464a509356ad91f8c349]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
 | Fishery Limits Act 1976 (c. 86) | Section 1(3) and (4). |
 | Government of Wales Act 2006 (c. 32) | In section 158(1), the word “and” preceding the definition of “Wales”. |
 
-### Part 2 — Marine licensing[^key-3fd31537c4d50b7c55fcf42952f19691]
+### Part 2 — Marine licensing[^c-3fd31537c4d50b7c55fcf42952f19691]
 
 <table>
 <tfoot>
@@ -58,7 +58,7 @@ Section 321
 </tbody>
 </table>
 
-### Part 3 — Nature conservation[^key-d2f1ee39fa1c3f0eaea0bffe829f953c][^c2008637]
+### Part 3 — Nature conservation[^c-d2f1ee39fa1c3f0eaea0bffe829f953c][^c2008637]
 
 <table>
 <tbody>
@@ -73,7 +73,7 @@ Section 321
 </tbody>
 </table>
 
-### Part 4 — Management of inshore fisheries[^key-13f78fe889a40f2e17e3acb6ba16c12c][^key-c396e5cee3f7be16c8a77402c1022a43]
+### Part 4 — Management of inshore fisheries[^c-13f78fe889a40f2e17e3acb6ba16c12c][^c-c396e5cee3f7be16c8a77402c1022a43]
 
 <table>
 <tfoot>
@@ -119,7 +119,7 @@ Section 321
 </tbody>
 </table>
 
-### Part 5 — Fisheries[^key-8b19d2b52b82c8881ed775fd665f20a8][^key-4a6183d2c155ef24a879a851fca5abd2][^key-6ef3c52fa9565e0560806eb04bede4a3]
+### Part 5 — Fisheries[^c-8b19d2b52b82c8881ed775fd665f20a8][^c-4a6183d2c155ef24a879a851fca5abd2][^c-6ef3c52fa9565e0560806eb04bede4a3]
 
 (A) Repeals relating to Chapters 1 and 2 of Part 7
 
@@ -201,7 +201,7 @@ Section 321
 </tbody>
 </table>
 
-### Part 6 — Enforcement[^key-ad47188dad94f91d8c4b9ad868f8328d]
+### Part 6 — Enforcement[^c-ad47188dad94f91d8c4b9ad868f8328d]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -218,7 +218,7 @@ Section 321
 </tbody>
 </table>
 
-### Part 8 — Miscellaneous[^key-72e5bbbf04f3522a67c1c1016950628c]
+### Part 8 — Miscellaneous[^c-72e5bbbf04f3522a67c1c1016950628c]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -228,24 +228,24 @@ Section 321
 
 ## Annotations
 
-[^key-ada8bd0bbf70464a509356ad91f8c349]: Commencement: [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/1) in force at 12.1.2010 for specified purposes by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/a)
+[^c-ada8bd0bbf70464a509356ad91f8c349]: Commencement: [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/1) in force at 12.1.2010 for specified purposes by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/a)
 
-[^key-3fd31537c4d50b7c55fcf42952f19691]: Commencement: [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
+[^c-3fd31537c4d50b7c55fcf42952f19691]: Commencement: [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
 
-[^key-d2f1ee39fa1c3f0eaea0bffe829f953c]: Commencement: [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c)
+[^c-d2f1ee39fa1c3f0eaea0bffe829f953c]: Commencement: [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c)
 
 [^c2008637]: Commencement: [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3) partly in force; [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(i)(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i/4)
 
-[^key-13f78fe889a40f2e17e3acb6ba16c12c]: Commencement: [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4) in force at 1.4.2010 for W. by [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12))
+[^c-13f78fe889a40f2e17e3acb6ba16c12c]: Commencement: [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4) in force at 1.4.2010 for W. by [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12))
 
-[^key-c396e5cee3f7be16c8a77402c1022a43]: Commencement: [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4) in force at 1.4.2011 for E. by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-c396e5cee3f7be16c8a77402c1022a43]: Commencement: [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4) in force at 1.4.2011 for E. by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
-[^key-8b19d2b52b82c8881ed775fd665f20a8]: Commencement: [Sch. 22 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5) in force at 12.1.2010 for specified purposes by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
+[^c-8b19d2b52b82c8881ed775fd665f20a8]: Commencement: [Sch. 22 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5) in force at 12.1.2010 for specified purposes by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
 
-[^key-4a6183d2c155ef24a879a851fca5abd2]: Commencement: [Sch. 22 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5) in force at 1.4.2010 for specified purposes by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
+[^c-4a6183d2c155ef24a879a851fca5abd2]: Commencement: [Sch. 22 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5) in force at 1.4.2010 for specified purposes by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
 
-[^key-6ef3c52fa9565e0560806eb04bede4a3]: Commencement: [Sch. 22 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5) in force at 1.1.2011 in so far as not already in force by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/14)
+[^c-6ef3c52fa9565e0560806eb04bede4a3]: Commencement: [Sch. 22 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5) in force at 1.1.2011 in so far as not already in force by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/14)
 
-[^key-ad47188dad94f91d8c4b9ad868f8328d]: Commencement: [Sch. 22 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/6) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(c)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/c)
+[^c-ad47188dad94f91d8c4b9ad868f8328d]: Commencement: [Sch. 22 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/6) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(c)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/c)
 
-[^key-72e5bbbf04f3522a67c1c1016950628c]: Commencement: [Sch. 22 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/8) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(d)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/d)
+[^c-72e5bbbf04f3522a67c1c1016950628c]: Commencement: [Sch. 22 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/8) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(d)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/d)

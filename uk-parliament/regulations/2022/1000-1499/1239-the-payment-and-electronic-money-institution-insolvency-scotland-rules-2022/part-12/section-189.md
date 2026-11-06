@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 189. Notifications made to other persons at the same time[^key-8d18bbfe207f324b1329899817f15c73]
+## 189. Notifications made to other persons at the same time[^c-8d18bbfe207f324b1329899817f15c73]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d18bbfe207f324b1329899817f15c73]: Commencement: Rule 189 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-8d18bbfe207f324b1329899817f15c73]: Commencement: Rule 189 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

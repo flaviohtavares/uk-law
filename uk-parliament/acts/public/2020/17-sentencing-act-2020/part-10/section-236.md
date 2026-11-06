@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Term of detention and training order[^key-0eb39f60c5bc9b3f918d73f2748a0e19]
+## 236. Term of detention and training order[^c-0eb39f60c5bc9b3f918d73f2748a0e19]
 
 *Extent: E+W*
 
-(1) The term of a detention and training order made in respect of an offence (whether by a magistrates' court or otherwise) must be at least 4 months but must not exceed 24 months[^key-6bcdbbcc499b6c87da08aaa0dbf40bea].
+(1) The term of a detention and training order made in respect of an offence (whether by a magistrates' court or otherwise) must be at least 4 months but must not exceed 24 months[^c-6bcdbbcc499b6c87da08aaa0dbf40bea].
 
 This is subject to subsection (2).
 
@@ -35,6 +35,6 @@ This is subject to subsection (2).
 
 ## Annotations
 
-[^key-0eb39f60c5bc9b3f918d73f2748a0e19]: Commencement: S. 236 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0eb39f60c5bc9b3f918d73f2748a0e19]: Commencement: S. 236 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6bcdbbcc499b6c87da08aaa0dbf40bea]: Textual amendment: Words in [s. 236(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/236/1) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 158](https://www.legislation.gov.uk/ukpga/2022/32/section/158), [208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
+[^c-6bcdbbcc499b6c87da08aaa0dbf40bea]: Textual amendment: Words in [s. 236(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/236/1) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 158](https://www.legislation.gov.uk/ukpga/2022/32/section/158), [208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)

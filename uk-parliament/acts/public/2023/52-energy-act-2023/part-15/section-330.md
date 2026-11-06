@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330. Power to make consequential provision[^key-6a4a4028b1e8ee5982e5f0224a56d7db]
+## 330. Power to make consequential provision[^c-6a4a4028b1e8ee5982e5f0224a56d7db]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a4a4028b1e8ee5982e5f0224a56d7db]: Commencement: S. 330 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)
+[^c-6a4a4028b1e8ee5982e5f0224a56d7db]: Commencement: S. 330 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)

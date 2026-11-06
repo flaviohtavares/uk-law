@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Application of FSMA 2000 to FMI functions[^key-f8b844a27b15417641934de3e9f1816c][^key-b536ff401315dd5897320719f853109b][^key-c07edf19af64872c141f44f4b56f1e53]
+## 50. Application of FSMA 2000 to FMI functions[^c-f8b844a27b15417641934de3e9f1816c][^c-b536ff401315dd5897320719f853109b][^c-c07edf19af64872c141f44f4b56f1e53]
 
 *Extent: E+W+S+N.I.*
 
@@ -137,7 +137,7 @@ summary: ''
 > - (c) in subsection (8), for paragraphs (a) to (c) there were substituted “in order to comply with a recommendation of the Financial Policy Committee of the Bank of England under section 9O of the Bank of England Act 1998 (making of recommendations within the Bank).”;
 > - (d) subsections (6) and (9) were omitted.
 
-(12) In paragraph 33(a), for “(f)” substitute “(fb)[^key-11d3c2ee03a4857a4c1e0232da111013]” and in the substituted paragraph (b)—
+(12) In paragraph 33(a), for “(f)” substitute “(fb)[^c-11d3c2ee03a4857a4c1e0232da111013]” and in the substituted paragraph (b)—
 
 - (a) for “financial stability objective has been met” substitute “Financial Stability Objective and its objective under section 30D(2) of the Bank of England Act 1998 have been advanced”;
 - (b) after “been met,” insert—
@@ -175,10 +175,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f8b844a27b15417641934de3e9f1816c]: Commencement: S. 50 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f8b844a27b15417641934de3e9f1816c]: Commencement: S. 50 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b536ff401315dd5897320719f853109b]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/29/section/50) in force at 1.1.2024 at 1.00 a.m. for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(f)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/f)
+[^c-b536ff401315dd5897320719f853109b]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/29/section/50) in force at 1.1.2024 at 1.00 a.m. for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(f)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/f)
 
-[^key-c07edf19af64872c141f44f4b56f1e53]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/29/section/50) in force at 1.8.2024 in so far as not already in force by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/b)
+[^c-c07edf19af64872c141f44f4b56f1e53]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/29/section/50) in force at 1.8.2024 in so far as not already in force by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/b)
 
-[^key-11d3c2ee03a4857a4c1e0232da111013]: Textual amendment: Word in [s. 50(12)](https://www.legislation.gov.uk/ukpga/2023/29/section/50/12) substituted (1.1.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1410/regulation/5)
+[^c-11d3c2ee03a4857a4c1e0232da111013]: Textual amendment: Word in [s. 50(12)](https://www.legislation.gov.uk/ukpga/2023/29/section/50/12) substituted (1.1.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1410/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Review of safety case[^key-53cc8625be5b98ef92f84b06c57cec94]
+## 13. Review of safety case[^c-53cc8625be5b98ef92f84b06c57cec94]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53cc8625be5b98ef92f84b06c57cec94]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/247/regulation/13) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-53cc8625be5b98ef92f84b06c57cec94]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/247/regulation/13) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

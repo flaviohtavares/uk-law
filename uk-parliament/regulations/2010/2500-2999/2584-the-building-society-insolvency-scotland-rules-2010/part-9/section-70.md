@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Vacancy (creditor members)[^key-f00b962b59fecd15f4e3c3749bc362fe]
+## 70. Vacancy (creditor members)[^c-f00b962b59fecd15f4e3c3749bc362fe]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f00b962b59fecd15f4e3c3749bc362fe]: Commencement: Rule 70 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-f00b962b59fecd15f4e3c3749bc362fe]: Commencement: Rule 70 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

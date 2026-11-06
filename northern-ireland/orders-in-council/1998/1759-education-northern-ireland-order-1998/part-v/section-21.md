@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] shall, for each school year, publish at such time and in such manner as the Department may direct, particulars of the arrangements for the admission of children to funded pre-school education.
+(1) The Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] shall, for each school year, publish at such time and in such manner as the Department may direct, particulars of the arrangements for the admission of children to funded pre-school education.
 
 (2) In this Article “funded pre-school education”, in relation to the Authority, means pre-school education—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

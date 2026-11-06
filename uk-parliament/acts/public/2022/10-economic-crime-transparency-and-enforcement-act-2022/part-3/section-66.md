@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Consequential provision[^key-b092ae0655e62564c3c31ea343809f02]
+## 66. Consequential provision[^c-b092ae0655e62564c3c31ea343809f02]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b092ae0655e62564c3c31ea343809f02]: Commencement: S. 66 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-b092ae0655e62564c3c31ea343809f02]: Commencement: S. 66 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

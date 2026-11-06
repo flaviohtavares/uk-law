@@ -44,13 +44,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 130, 143(3) and 143(4) of the Railways Act 1993[^f00001], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-80eebf957a0f36661a25c284f00f6248]
+## 1. Citation and commencement[^c-80eebf957a0f36661a25c284f00f6248]
 
 (1) These Regulations may be cited as the Railways (Penalty Fares) Regulations 1994.
 
 (2) These Regulations shall come into force on 1st April 1994.
 
-## 2. Interpretation[^key-3f0ea1e82083f96554609713baa3c547]
+## 2. Interpretation[^c-3f0ea1e82083f96554609713baa3c547]
 
 (1) In these Regulations—
 
@@ -71,7 +71,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 (5) In these Regulations, any reference to a numbered regulation shall mean the regulation bearing that number in these Regulations and any reference in a regulation to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
 
-## 3. Requirement to produce a ticket[^key-ac6e96c9c2ad87b3dd8e95619f04f9cc]
+## 3. Requirement to produce a ticket[^c-ac6e96c9c2ad87b3dd8e95619f04f9cc]
 
 (1) Subject to the provisions of these Regulations and to rules, any person present travelling by, present on or leaving a train shall, if required to do so by or on behalf of the operator of that train in accordance with these Regulations and with rules, produce a ticket or other authority authorising his travelling by or his being present on that train, as the case may be.
 
@@ -79,7 +79,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 (3) Any requirement imposed pursuant to this regulation shall be imposed by an authorised collector in the manner specified in rules.
 
-## 4. Charge to a penalty fare[^key-e09d23ace8abad5b993a1747998fb8c1]
+## 4. Charge to a penalty fare[^c-e09d23ace8abad5b993a1747998fb8c1]
 
 (1) Subject to the provisions of these Regulations and to rules, where a person fails to produce a ticket or other authority when required to do so by or on behalf of an operator pursuant to regulation 3, that operator, or any person acting on behalf of that operator, may charge that person a penalty fare.
 
@@ -92,7 +92,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 (4) The amount of any penalty fare charged in accordance with these Regulations shall be paid in the manner and within the period specified in rules.
 
-## 5. Amount of a penalty fare[^key-a73661b95fc0f6b962890b60cb317dbf]
+## 5. Amount of a penalty fare[^c-a73661b95fc0f6b962890b60cb317dbf]
 
 (1) Subject to paragraph (5), the amount of any penalty fare which may be charged under regulation 4 is £10.00 or twice the amount of the full single fare applicable in the case, whichever is the greater.
 
@@ -104,7 +104,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 (5) The amount of any penalty fare which may be charged under regulation 4 to a person present in or leaving a compulsory ticket area, other than a person leaving a train, is £10.00.
 
-## 6. Circumstances in which a penalty fare is not to be charged where a person is travelling on a train[^key-ce33ac4bf42ce737b882a33f173581e1]
+## 6. Circumstances in which a penalty fare is not to be charged where a person is travelling on a train[^c-ce33ac4bf42ce737b882a33f173581e1]
 
 (1) Subject to the provisions of paragraph (3), in the case of a person travelling by, being present on or leaving a train (in this regulation referred to as “the relevant train”), no person shall be charged a penalty fare in the circumstances to which this regulation applies.
 
@@ -121,7 +121,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 (3) Paragraphs (1) and (2) of this regulation shall not prevent a person from being charged a penalty fare where he had been invited by anybody acting on behalf of the operator of the relevant train or any preceding train to obtain a ticket or other authority while travelling on or present on the relevant train or that preceding train.
 
-## 7. Circumstances in which a penalty fare is not to be charged where a person is in a compulsory ticket area[^key-48485020548ef6a88768474f3d366cb1]
+## 7. Circumstances in which a penalty fare is not to be charged where a person is in a compulsory ticket area[^c-48485020548ef6a88768474f3d366cb1]
 
 (1) No person present in or leaving a compulsory ticket area, but who is not leaving a train, shall be charged a penalty fare in the circumstances to which this regulation applies.
 
@@ -136,11 +136,11 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
   indicated that the person in question was, or persons in general were, permitted to be present in that compulsory ticket area without having a ticket or other authority.
 
-## 8. Recovery of a penalty fare as a civil debt[^key-ac1e3b38b337f9271798aff9a5bed0d2]
+## 8. Recovery of a penalty fare as a civil debt[^c-ac1e3b38b337f9271798aff9a5bed0d2]
 
 The amount of any penalty fare charged in accordance with these Regulations and rules and not paid within the period specified in rules in accordance with regulation 4(4) may be recovered from the person charged as a civil debt. Relevant statement.
 
-**9.**[^key-439b031f87135b1904caa216d965c58a] (1) Where a person charged a penalty fare has in due time provided the operator by or on whose behalf the penalty fare was charged with a relevant statement, in any proceedings for the recovery of that penalty fare, it shall be for that operator to show that any of the facts described in the relevant statement is not true.
+**9.**[^c-439b031f87135b1904caa216d965c58a] (1) Where a person charged a penalty fare has in due time provided the operator by or on whose behalf the penalty fare was charged with a relevant statement, in any proceedings for the recovery of that penalty fare, it shall be for that operator to show that any of the facts described in the relevant statement is not true.
 
 (2) A relevant statement is a statement in writing informing the operator in question —
 
@@ -154,7 +154,7 @@ The amount of any penalty fare charged in accordance with these Regulations and 
 
 (3) For the purpose of paragraph (1) a relevant statement is provided in due time if it is provided at any time within the period of 21 days commencing with the day on which the person was charged a penalty fare.
 
-## 10. Exclusion of double liability.[^key-d6df6e9203c6b1ee71e01d2e4fecef41]
+## 10. Exclusion of double liability.[^c-d6df6e9203c6b1ee71e01d2e4fecef41]
 
 (1) Where a person has been charged a penalty fare in respect of his failure to produce a ticket or other authority when required to do so pursuant to regulation 3, and, arising from that failure, proceedings are brought against that person in respect of any of the offences specified in paragraph (2), that person shall cease to be liable to pay the penalty fare which he has been charged, and, if he has paid it, the operator by or on whose behalf the penalty fare was charged shall be liable to repay to him an amount equal to the amount of that penalty fare.
 
@@ -164,7 +164,7 @@ The amount of any penalty fare charged in accordance with these Regulations and 
 - (b) his travelling by, or his presence on, a train without a ticket or other authority entitling him to travel by or be present on a train;
 - (c) his presence in part of a station without a ticket or other authority authorising him to be present there.
 
-## 11. Power for the Regulator to make rules[^key-2a32192caa75fc522ebd00f2d3ebc00b]
+## 11. Power for the Regulator to make rules[^c-2a32192caa75fc522ebd00f2d3ebc00b]
 
 (1) Subject to the provisions of these Regulations, the Regulator may make rules to make provision for and in connection with—
 
@@ -177,7 +177,7 @@ and, subject to paragraph (2), with respect to any of the matters referred to in
 
 (3) Rules made pursuant to this regulation shall have effect as if they were regulations.
 
-## 12. Requirement for a person to give his name and address[^key-037547c78a4ef6f04b0ad22b32b9ce14]
+## 12. Requirement for a person to give his name and address[^c-037547c78a4ef6f04b0ad22b32b9ce14]
 
 (1) A person charged a penalty fare pursuant to regulation 4 shall give his name and address to the authorised collector when so required.
 
@@ -209,30 +209,30 @@ Regulation 10 contains provision preventing a person from being liable to a pena
 
 [^f00001]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-80eebf957a0f36661a25c284f00f6248]: Commencement: Reg. 1 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-80eebf957a0f36661a25c284f00f6248]: Commencement: Reg. 1 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-3f0ea1e82083f96554609713baa3c547]: Commencement: Reg. 2 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-3f0ea1e82083f96554609713baa3c547]: Commencement: Reg. 2 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-ac6e96c9c2ad87b3dd8e95619f04f9cc]: Commencement: Reg. 3 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-ac6e96c9c2ad87b3dd8e95619f04f9cc]: Commencement: Reg. 3 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-e09d23ace8abad5b993a1747998fb8c1]: Commencement: Reg. 4 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-e09d23ace8abad5b993a1747998fb8c1]: Commencement: Reg. 4 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-a73661b95fc0f6b962890b60cb317dbf]: Commencement: Reg. 5 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-a73661b95fc0f6b962890b60cb317dbf]: Commencement: Reg. 5 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-ce33ac4bf42ce737b882a33f173581e1]: Commencement: Reg. 6 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-ce33ac4bf42ce737b882a33f173581e1]: Commencement: Reg. 6 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-48485020548ef6a88768474f3d366cb1]: Commencement: Reg. 7 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-48485020548ef6a88768474f3d366cb1]: Commencement: Reg. 7 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-ac1e3b38b337f9271798aff9a5bed0d2]: Commencement: Reg. 8 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-ac1e3b38b337f9271798aff9a5bed0d2]: Commencement: Reg. 8 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-439b031f87135b1904caa216d965c58a]: Commencement: Reg. 9 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-439b031f87135b1904caa216d965c58a]: Commencement: Reg. 9 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-d6df6e9203c6b1ee71e01d2e4fecef41]: Commencement: Reg. 10 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-d6df6e9203c6b1ee71e01d2e4fecef41]: Commencement: Reg. 10 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
 [^f00002]: Footnote: [1889 c. 57](https://www.legislation.gov.uk/ukpga/1889/57).
 
 [^f00003]: Footnote: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 
-[^key-2a32192caa75fc522ebd00f2d3ebc00b]: Commencement: Reg. 11 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-2a32192caa75fc522ebd00f2d3ebc00b]: Commencement: Reg. 11 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
 
-[^key-037547c78a4ef6f04b0ad22b32b9ce14]: Commencement: Reg. 12 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)
+[^c-037547c78a4ef6f04b0ad22b32b9ce14]: Commencement: Reg. 12 in force at 1.4.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/576/regulation/1/2)

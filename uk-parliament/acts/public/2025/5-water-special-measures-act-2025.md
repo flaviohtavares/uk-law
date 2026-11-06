@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Remuneration, governance and financial transparency
 
-### 1. Rules about remuneration and governance[^key-14a586c27078277bf68fe1db80ed154c]
+### 1. Rules about remuneration and governance[^c-14a586c27078277bf68fe1db80ed154c]
 
 (1) The [Water Industry Act 1991](https://www.legislation.gov.uk/ukpga/1991/56) is amended as follows.
 
@@ -157,7 +157,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) the rules have been provided in draft to the Secretary of State, and
 - (b) the period of 7 days beginning with the day on which the draft was provided has elapsed.
 
-### 2. Financial transparency requirements[^key-f9de8203dd8463a28d8c03ef13857923]
+### 2. Financial transparency requirements[^c-f9de8203dd8463a28d8c03ef13857923]
 
 In the Water Industry Act 1991, after section 35D (inserted by section 1) insert—
 
@@ -199,7 +199,7 @@ In the Water Industry Act 1991, after section 35D (inserted by section 1) insert
 
 ## Duties in respect of sewerage and water supply systems
 
-### 3. Pollution incident reduction plans[^key-b2d9181ec916c12db5f559fce859dd4a][^key-ba2f069b5c9d240b5d162cdfb28a9868][^key-427192adf546dfc903eb0e3f0001cedf]
+### 3. Pollution incident reduction plans[^c-b2d9181ec916c12db5f559fce859dd4a][^c-ba2f069b5c9d240b5d162cdfb28a9868][^c-427192adf546dfc903eb0e3f0001cedf]
 
 After section 205 of the [Water Industry Act 1991](https://www.legislation.gov.uk/ukpga/1991/56) insert—
 
@@ -286,7 +286,7 @@ After section 205 of the [Water Industry Act 1991](https://www.legislation.gov.u
 >
 > (7) In this section, “appropriate agency” and “chief executive” have the meanings given by section 205A(10).
 
-### 4. Emergency overflows[^key-03d0674ea4710f15f5409b801409e8e1]
+### 4. Emergency overflows[^c-03d0674ea4710f15f5409b801409e8e1]
 
 **Not yet in force.**
 
@@ -361,7 +361,7 @@ After section 205 of the [Water Industry Act 1991](https://www.legislation.gov.u
 
 (3) In section 213 (power to make regulations), in subsection (1) for “or 141DB” substitute “, 141DB or 141F”.
 
-### 5. Nature-based solutions[^key-42747876db55036a899168db68d4fef3][^key-48081b3269f8cd022b92821d343d7c94][^key-180dedcf254e33821f5de9805f33294f]
+### 5. Nature-based solutions[^c-42747876db55036a899168db68d4fef3][^c-48081b3269f8cd022b92821d343d7c94][^c-180dedcf254e33821f5de9805f33294f]
 
 In section 94A(3) of the [Water Industry Act 1991](https://www.legislation.gov.uk/ukpga/1991/56) (matters to be addressed in drainage and sewerage management plans), after paragraph (e) insert—
 
@@ -371,7 +371,7 @@ In section 94A(3) of the [Water Industry Act 1991](https://www.legislation.gov.u
 
 ## Sanctions
 
-### 6. Impeding investigations: sentencing and liability[^key-17e0ef105fee1292697b8fb7b9b6b619]
+### 6. Impeding investigations: sentencing and liability[^c-17e0ef105fee1292697b8fb7b9b6b619]
 
 (1) In section 110 of the [Environment Act 1995](https://www.legislation.gov.uk/ukpga/1995/25) (offences of impeding investigation by environmental regulator)—
 
@@ -419,7 +419,7 @@ In section 94A(3) of the [Water Industry Act 1991](https://www.legislation.gov.u
 
 (3) The amendments made by this section have effect only in relation to offences committed on or after the day on which this section comes into force.
 
-### 7. Civil penalties: modification of standard of proof[^key-44b48fec2259a4eef6a3c9ffa11b1785]
+### 7. Civil penalties: modification of standard of proof[^c-44b48fec2259a4eef6a3c9ffa11b1785]
 
 (1) This section is about the powers to provide for fixed monetary penalties or variable monetary penalties conferred by sections 36 and 62 of the [Regulatory Enforcement and Sanctions Act 2008](https://www.legislation.gov.uk/ukpga/2008/13) (“**the 2008 Act**”).
 
@@ -445,7 +445,7 @@ In section 94A(3) of the [Water Industry Act 1991](https://www.legislation.gov.u
 
 (6) But an offence is to be regarded for the purposes of this section as committed by a water supply licensee or sewerage licensee only if it is committed by such a licensee in the course of the activities to which its licence relates.
 
-### 8. Automatic penalties for certain offences[^key-3f4e3448e6dc71cddb3816cd516d2884]
+### 8. Automatic penalties for certain offences[^c-3f4e3448e6dc71cddb3816cd516d2884]
 
 (1) Subsection (2) applies if the Environment Agency or the Natural Resources Body for Wales (“the relevant agency”) is satisfied that it has the power to impose a fixed monetary penalty on a water company in respect of a specified offence committed by the company.
 
@@ -488,7 +488,7 @@ In section 94A(3) of the [Water Industry Act 1991](https://www.legislation.gov.u
 
 ## Regulation of abstraction and impounding
 
-### 9. Abstraction and impounding: power to impose general conditions[^key-bddbcbd3add391eb776eb556aef7bf6b]
+### 9. Abstraction and impounding: power to impose general conditions[^c-bddbcbd3add391eb776eb556aef7bf6b]
 
 In the [Water Resources Act 1991](https://www.legislation.gov.uk/ukpga/1991/57), after section 46A insert—
 
@@ -517,7 +517,7 @@ In the [Water Resources Act 1991](https://www.legislation.gov.uk/ukpga/1991/57),
 
 ## Regulatory functions and charges
 
-### 10. Requirement for Ofwat to have regard to climate change etc[^key-283bcf299028b5ebec29965c1e1f43ac]
+### 10. Requirement for Ofwat to have regard to climate change etc[^c-283bcf299028b5ebec29965c1e1f43ac]
 
 **Not yet in force.**
 
@@ -537,7 +537,7 @@ In section 2 of the [Water Industry Act 1991](https://www.legislation.gov.uk/ukp
   ;
 - (b) in each of subsections (6A), (6B) and (7), for “(4)” substitute “(4A)”.
 
-### 11. Charges in respect of Environment Agency and NRBW functions[^key-a3df904ce3107d78ef5118875242dbcc]
+### 11. Charges in respect of Environment Agency and NRBW functions[^c-a3df904ce3107d78ef5118875242dbcc]
 
 In section 41 of the [Environment Act 1995](https://www.legislation.gov.uk/ukpga/1995/25) (powers of environmental regulators to make charging schemes)—
 
@@ -561,7 +561,7 @@ In section 41 of the [Environment Act 1995](https://www.legislation.gov.uk/ukpga
   >
   >   but, in relation to water supply licensees and sewerage licensees, includes those functions only so far as performed in respect of the activities to which their licences relate.
 
-### 12. Drinking Water Inspectorate: functions and fees[^key-fcb9bfe75cf67fdb0070a99016ff4f8b]
+### 12. Drinking Water Inspectorate: functions and fees[^c-fcb9bfe75cf67fdb0070a99016ff4f8b]
 
 (1) The [Water Industry Act 1991](https://www.legislation.gov.uk/ukpga/1991/56) is amended as follows.
 
@@ -587,7 +587,7 @@ In section 41 of the [Environment Act 1995](https://www.legislation.gov.uk/ukpga
 
 ## Consumer charges
 
-### 13. Special provision in charges schemes[^key-6add64cdb1852182d0a31fa0e5d34530]
+### 13. Special provision in charges schemes[^c-6add64cdb1852182d0a31fa0e5d34530]
 
 (1) The Water Industry Act 1991 is amended as set out in subsections (2) and (3).
 
@@ -668,7 +668,7 @@ In section 41 of the [Environment Act 1995](https://www.legislation.gov.uk/ukpga
 
 ## Special administration orders
 
-### 14. Modification by Secretary of State of water company’s appointment conditions etc to recover losses[^key-9515d4a48dfbac63cfb1005cc8aaad32]
+### 14. Modification by Secretary of State of water company’s appointment conditions etc to recover losses[^c-9515d4a48dfbac63cfb1005cc8aaad32]
 
 After section 12I of the [Water Industry Act 1991](https://www.legislation.gov.uk/ukpga/1991/56) insert—
 
@@ -742,7 +742,7 @@ After section 12I of the [Water Industry Act 1991](https://www.legislation.gov.u
 > - (b) the Secretary of State’s reasons for proposing that the modification should have effect from a date less than 56 days from the decision to modify, and
 > - (c) why, in the Secretary of State’s view, that would not have a material adverse effect on any person holding an appointment under this Chapter.
 
-### 15. Modification by Welsh Ministers of water company’s appointment conditions etc to recover losses[^key-709a5992579c0347ce84b1bf6b652252]
+### 15. Modification by Welsh Ministers of water company’s appointment conditions etc to recover losses[^c-709a5992579c0347ce84b1bf6b652252]
 
 After section 16B of the [Water Industry Act 1991](https://www.legislation.gov.uk/ukpga/1991/56) insert—
 
@@ -814,7 +814,7 @@ After section 16B of the [Water Industry Act 1991](https://www.legislation.gov.u
 > - (b) the Welsh Ministers’ reasons for proposing that the modification should have effect from a date less than 56 days from the decision to modify, and
 > - (c) why, in the Welsh Ministers’ view, that would not have a material adverse effect on any person holding an appointment under this Chapter.
 
-### 16. Winding-up petitions[^key-55d8074d5c5bc622836d66e0196be418]
+### 16. Winding-up petitions[^c-55d8074d5c5bc622836d66e0196be418]
 
 In section 25 of the [Water Industry Act 1991](https://www.legislation.gov.uk/ukpga/1991/56) (power to make special administration order on winding-up petition)—
 
@@ -839,7 +839,7 @@ In section 25 of the [Water Industry Act 1991](https://www.legislation.gov.uk/uk
 
 ## Final
 
-### 17. Extent, commencement, transitional provision and short title[^key-4382c4434f0c15064793aa030fd4304d]
+### 17. Extent, commencement, transitional provision and short title[^c-4382c4434f0c15064793aa030fd4304d]
 
 (1) This Act extends to England and Wales.
 
@@ -894,44 +894,44 @@ In section 25 of the [Water Industry Act 1991](https://www.legislation.gov.uk/uk
 
 ## Annotations
 
-[^key-14a586c27078277bf68fe1db80ed154c]: Commencement: S. 1 in force at Royal Assent, see [s. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/b)
+[^c-14a586c27078277bf68fe1db80ed154c]: Commencement: S. 1 in force at Royal Assent, see [s. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/b)
 
-[^key-f9de8203dd8463a28d8c03ef13857923]: Commencement: S. 2 in force at Royal Assent, see [s. 17(2)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/c)
+[^c-f9de8203dd8463a28d8c03ef13857923]: Commencement: S. 2 in force at Royal Assent, see [s. 17(2)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/c)
 
-[^key-b2d9181ec916c12db5f559fce859dd4a]: Commencement: S. 3 not in force at Royal Assent, see [s. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/a)(4)(a)
+[^c-b2d9181ec916c12db5f559fce859dd4a]: Commencement: S. 3 not in force at Royal Assent, see [s. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/a)(4)(a)
 
-[^key-ba2f069b5c9d240b5d162cdfb28a9868]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3) in force at 23.6.2025 for E. by [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/a)
+[^c-ba2f069b5c9d240b5d162cdfb28a9868]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3) in force at 23.6.2025 for E. by [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/a)
 
-[^key-427192adf546dfc903eb0e3f0001cedf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3) in force at 1.9.2025 for W. by [S.I. 2025/936](https://www.legislation.gov.uk/wsi/2025/936), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2025/936/regulation/2/a)
+[^c-427192adf546dfc903eb0e3f0001cedf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3) in force at 1.9.2025 for W. by [S.I. 2025/936](https://www.legislation.gov.uk/wsi/2025/936), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2025/936/regulation/2/a)
 
-[^key-03d0674ea4710f15f5409b801409e8e1]: Commencement: S. 4 not in force at Royal Assent, see [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/b)(4)(b)
+[^c-03d0674ea4710f15f5409b801409e8e1]: Commencement: S. 4 not in force at Royal Assent, see [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/b)(4)(b)
 
-[^key-42747876db55036a899168db68d4fef3]: Commencement: S. 5 not in force at Royal Assent, see [s. 17(3)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/c)(4)(c)
+[^c-42747876db55036a899168db68d4fef3]: Commencement: S. 5 not in force at Royal Assent, see [s. 17(3)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/c)(4)(c)
 
-[^key-48081b3269f8cd022b92821d343d7c94]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/5/section/5) in force at 23.6.2025 for E. by [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/b)
+[^c-48081b3269f8cd022b92821d343d7c94]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/5/section/5) in force at 23.6.2025 for E. by [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/b)
 
-[^key-180dedcf254e33821f5de9805f33294f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/5/section/5) in force at 1.9.2025 for W. by [S.I. 2025/936](https://www.legislation.gov.uk/wsi/2025/936), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2025/936/regulation/2/b)
+[^c-180dedcf254e33821f5de9805f33294f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/5/section/5) in force at 1.9.2025 for W. by [S.I. 2025/936](https://www.legislation.gov.uk/wsi/2025/936), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2025/936/regulation/2/b)
 
-[^key-17e0ef105fee1292697b8fb7b9b6b619]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/5/section/6) in force at 24.4.2025, see [s. 17(5)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/a)
+[^c-17e0ef105fee1292697b8fb7b9b6b619]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/5/section/6) in force at 24.4.2025, see [s. 17(5)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/a)
 
-[^key-44b48fec2259a4eef6a3c9ffa11b1785]: Commencement: S. 7 in force at Royal Assent, see [s. 17(2)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/d)
+[^c-44b48fec2259a4eef6a3c9ffa11b1785]: Commencement: S. 7 in force at Royal Assent, see [s. 17(2)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/d)
 
-[^key-3f4e3448e6dc71cddb3816cd516d2884]: Commencement: S. 8 in force at Royal Assent, see [s. 17(2)(e)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/e)
+[^c-3f4e3448e6dc71cddb3816cd516d2884]: Commencement: S. 8 in force at Royal Assent, see [s. 17(2)(e)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/e)
 
-[^key-bddbcbd3add391eb776eb556aef7bf6b]: Commencement: S. 9 in force at Royal Assent, see [s. 17(2)(f)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/f)
+[^c-bddbcbd3add391eb776eb556aef7bf6b]: Commencement: S. 9 in force at Royal Assent, see [s. 17(2)(f)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/f)
 
-[^key-283bcf299028b5ebec29965c1e1f43ac]: Commencement: S. 10 not in force at Royal Assent, see [s. 17(3)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/d)(4)(d)
+[^c-283bcf299028b5ebec29965c1e1f43ac]: Commencement: S. 10 not in force at Royal Assent, see [s. 17(3)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/d)(4)(d)
 
-[^key-a3df904ce3107d78ef5118875242dbcc]: Commencement: S. 11 in force at Royal Assent, see [s. 17(2)(g)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/g)
+[^c-a3df904ce3107d78ef5118875242dbcc]: Commencement: S. 11 in force at Royal Assent, see [s. 17(2)(g)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/g)
 
-[^key-fcb9bfe75cf67fdb0070a99016ff4f8b]: Commencement: S. 12 in force at Royal Assent, see [s. 17(2)(h)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/h)
+[^c-fcb9bfe75cf67fdb0070a99016ff4f8b]: Commencement: S. 12 in force at Royal Assent, see [s. 17(2)(h)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/h)
 
-[^key-6add64cdb1852182d0a31fa0e5d34530]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/5/section/13) in force at 24.4.2025, see [s. 17(5)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/b)
+[^c-6add64cdb1852182d0a31fa0e5d34530]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/5/section/13) in force at 24.4.2025, see [s. 17(5)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/b)
 
-[^key-9515d4a48dfbac63cfb1005cc8aaad32]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/5/section/14) in force at 24.4.2025, see [s. 17(5)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/c)
+[^c-9515d4a48dfbac63cfb1005cc8aaad32]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/5/section/14) in force at 24.4.2025, see [s. 17(5)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/c)
 
-[^key-709a5992579c0347ce84b1bf6b652252]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/5/section/15) in force at 24.4.2025, see [s. 17(5)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/d)
+[^c-709a5992579c0347ce84b1bf6b652252]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/5/section/15) in force at 24.4.2025, see [s. 17(5)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/d)
 
-[^key-55d8074d5c5bc622836d66e0196be418]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/5/section/16) in force at 24.4.2025, see [s. 17(5)(e)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/e)
+[^c-55d8074d5c5bc622836d66e0196be418]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/5/section/16) in force at 24.4.2025, see [s. 17(5)(e)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/e)
 
-[^key-4382c4434f0c15064793aa030fd4304d]: Commencement: S. 17 in force at Royal Assent, see [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/a)
+[^c-4382c4434f0c15064793aa030fd4304d]: Commencement: S. 17 in force at Royal Assent, see [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/a)

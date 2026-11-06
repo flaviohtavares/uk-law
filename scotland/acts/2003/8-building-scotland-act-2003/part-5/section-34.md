@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Reports and information[^key-618f63e7c89373d7501e0e96c23a9747]
+## 34. Reports and information[^c-618f63e7c89373d7501e0e96c23a9747]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-618f63e7c89373d7501e0e96c23a9747]: Commencement: S. 34 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-618f63e7c89373d7501e0e96c23a9747]: Commencement: S. 34 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Return points[^key-fc0c83279197bc0f58093678dd9eebcf]
+## 20. Return points[^c-fc0c83279197bc0f58093678dd9eebcf]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (ii) a voluntary return point operator registered by the scheme administrator in accordance with article 31 (registration of voluntary return point operators) of the Designation Order 2025, or
 - (iii) the scheme administrator.
 
-(2) Subject to paragraphs (4) and (5)[^key-58af551ed08fd82ddd6b141d3fdc5bab], a return point operator must—
+(2) Subject to paragraphs (4) and (5)[^c-58af551ed08fd82ddd6b141d3fdc5bab], a return point operator must—
 
 - (a) accept an item of scheme packaging or returnable packaging[^M_F_f4d484da-3d3f-427b-a53b-e5bc0fa83d58] returned to the return point,
 - (b) pay to the consumer a sum equal to the deposit for each item of scheme packaging or returnable packaging[^M_F_e556cd71-a55e-4027-e6b0-a7c50cc714ec] accepted,
@@ -52,11 +52,11 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0c83279197bc0f58093678dd9eebcf]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2020/154/regulation/20) in force at 1.7.2025 for specified purposes, see [reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A)[(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) (as amended by S.S.I. 2025/188, [art. 3](https://www.legislation.gov.uk/ssi/2025/188/article/3))
+[^c-fc0c83279197bc0f58093678dd9eebcf]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2020/154/regulation/20) in force at 1.7.2025 for specified purposes, see [reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A)[(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) (as amended by S.S.I. 2025/188, [art. 3](https://www.legislation.gov.uk/ssi/2025/188/article/3))
 
 [^M_F_7abd2d29-ea1f-4b8a-8070-c162428e6a96]: Textual amendment: Words in reg. 20(1) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [17(1)(a)](https://www.legislation.gov.uk/ssi/2025/188/regulation/17/1/a)
 
-[^key-58af551ed08fd82ddd6b141d3fdc5bab]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/ssi/2020/154/regulation/20/2) substituted (30.6.2023) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2023 (S.S.I. 2023/201)](https://www.legislation.gov.uk/ssi/2023/201), [regs. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2023/201/regulation/13/a) (with [reg. 22](https://www.legislation.gov.uk/ssi/2023/201/regulation/22))
+[^c-58af551ed08fd82ddd6b141d3fdc5bab]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/ssi/2020/154/regulation/20/2) substituted (30.6.2023) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2023 (S.S.I. 2023/201)](https://www.legislation.gov.uk/ssi/2023/201), [regs. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2023/201/regulation/13/a) (with [reg. 22](https://www.legislation.gov.uk/ssi/2023/201/regulation/22))
 
 [^M_F_f4d484da-3d3f-427b-a53b-e5bc0fa83d58]: Textual amendment: Words in reg. 20(2)(a) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [17(1)(b)](https://www.legislation.gov.uk/ssi/2025/188/regulation/17/1/b)
 

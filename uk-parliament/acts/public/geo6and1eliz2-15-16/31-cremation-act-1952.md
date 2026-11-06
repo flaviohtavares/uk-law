@@ -29,7 +29,7 @@ Cremation Act 1952
 
 1952 c.31
 
-[^key-27751ebd7a20fac57abf689a595bbf83]An Act to amend the law relating to cremation; and for purposes connected therewith.
+[^c-27751ebd7a20fac57abf689a595bbf83]An Act to amend the law relating to cremation; and for purposes connected therewith.
 
 \[26th June 1952\][^c602098]
 
@@ -45,7 +45,7 @@ Cremation Act 1952
 
 (1) Section seven of the Cremation Act, 1902 (which requires the Secretary of State to make regulations prescribing among other things, the forms of notices, certificates and statutory declarations to be given or made before the burning of any human remains in the crematorium) shall be amended by substituting for the word “declarations”, where first occuring the word “ applications ”, by deleting the words “such declarations to be made under and by virtue of the [^c602103] Statutory Declarations Act, 1835,” and by inserting after the words “have taken place” the words “ Each such application shall be verified in such manner as the Secretary of State may by such regulations prescribe ”.
 
-(2)[^c602104][^c602105] Any statutory instrument containing regulations made under the said section seven shall be subject to annulment in pursuance of a resolution of either House of Parliament;and *(Extent: S)* *(affected by repeal, see note)*[^key-f63158076365512961afb61824f1413d] the words from “A copy of” to “enacted in this Act” in that section shall cease to have effect.
+(2)[^c602104][^c602105] Any statutory instrument containing regulations made under the said section seven shall be subject to annulment in pursuance of a resolution of either House of Parliament;and *(Extent: S)* *(affected by repeal, see note)*[^c-f63158076365512961afb61824f1413d] the words from “A copy of” to “enacted in this Act” in that section shall cease to have effect.
 
 (3)[^c602107][^c602106] In subsection (3) of section eight of the said Act (which relates to penalties) for the word “declaration” there shall be substituted the word “ application ” .
 
@@ -65,7 +65,7 @@ Cremation Act 1952
 
 ## Annotations
 
-[^key-27751ebd7a20fac57abf689a595bbf83]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/31) repealed (S.) (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-27751ebd7a20fac57abf689a595bbf83]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/31) repealed (S.) (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
 [^c602098]: Modification: Functions of councils in Scotland under this Act transferred to and vested in islands or district councils by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 169(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/169/1)
 
@@ -83,7 +83,7 @@ Cremation Act 1952
 
 [^c602105]: Modification: The text of s. 2(2) (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes In Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-f63158076365512961afb61824f1413d]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/31/section/2/2) repealed (S.) (13.5.2015) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2011/11/schedule/2/paragraph/2); [S.S.I. 2015/115](https://www.legislation.gov.uk/ssi/2015/115), [art. 3](https://www.legislation.gov.uk/ssi/2015/115/article/3)
+[^c-f63158076365512961afb61824f1413d]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/31/section/2/2) repealed (S.) (13.5.2015) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2011/11/schedule/2/paragraph/2); [S.S.I. 2015/115](https://www.legislation.gov.uk/ssi/2015/115), [art. 3](https://www.legislation.gov.uk/ssi/2015/115/article/3)
 
 [^c602107]: Modification: The text of s. 2(3) is in the form in which it was originally enacted: it was not reproduced in Statutes In Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

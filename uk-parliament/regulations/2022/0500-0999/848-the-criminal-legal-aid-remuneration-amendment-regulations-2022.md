@@ -46,7 +46,7 @@ Coming into force
 
 The Lord Chancellor makes these Regulations in exercise of the powers conferred by sections 2(3) and 41(1)(a) and (b), (2)(a) and (b) and (3)(c) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
 
-## 1. Citation, commencement, interpretation and extent[^key-506f0e57d3458c3ae7a17d0eadf3f239]
+## 1. Citation, commencement, interpretation and extent[^c-506f0e57d3458c3ae7a17d0eadf3f239]
 
 (1) These Regulations may be cited as the Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 and come into force on 30th September 2022.
 
@@ -54,7 +54,7 @@ The Lord Chancellor makes these Regulations in exercise of the powers conferred 
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendments to the Remuneration Regulations[^key-cced0cda33973fb0768009842038e86c]
+## 2. Amendments to the Remuneration Regulations[^c-cced0cda33973fb0768009842038e86c]
 
 (1) The Remuneration Regulations are amended as follows.
 
@@ -70,7 +70,7 @@ The Lord Chancellor makes these Regulations in exercise of the powers conferred 
 
 (7) Schedule 6 is amended as set out in Schedule 6 to these Regulations.
 
-## 3. Transitional provisions[^key-93aa2e125a590a8e1a09fcdb48eab7b5]
+## 3. Transitional provisions[^c-93aa2e125a590a8e1a09fcdb48eab7b5]
 
 (1) These Regulations apply to matters where a relevant determination is made on or after 30th September 2022.
 
@@ -91,11 +91,11 @@ Parliamentary Undersecretary of State
 
 Ministry of Justice
 
-## SCHEDULE 1 — Amendments to Schedule 1 to the Remuneration Regulations[^key-9c0a9c0f00ee4b5ccce6eb52686997c0]
+## SCHEDULE 1 — Amendments to Schedule 1 to the Remuneration Regulations[^c-9c0a9c0f00ee4b5ccce6eb52686997c0]
 
 Regulation 2(2)
 
-**1.**[^key-b8dff1eae53a66d9992262f021b2dfc5] (1) Paragraph 2 (application) is amended as follows.
+**1.**[^c-b8dff1eae53a66d9992262f021b2dfc5] (1) Paragraph 2 (application) is amended as follows.
 
 (2) In sub-paragraph (2), for “Sub-paragraphs (3) and (4) apply” substitute “Sub-paragraph (3) applies”.
 
@@ -109,7 +109,7 @@ Regulation 2(2)
 
 (7) Omit sub-paragraph (7).
 
-**2.**[^key-f29a077612557ef44bb3634de19d530c] For the table following paragraph 5 (basic fees), substitute—
+**2.**[^c-f29a077612557ef44bb3634de19d530c] For the table following paragraph 5 (basic fees), substitute—
 
 > <table>
 > <thead>
@@ -168,7 +168,7 @@ Regulation 2(2)
 > </tbody>
 > </table>
 
-**3.**[^key-f802dabcf062e1b625d666fa739cb18a] For the table following paragraph 5A (daily attendance fees) substitute—
+**3.**[^c-f802dabcf062e1b625d666fa739cb18a] For the table following paragraph 5A (daily attendance fees) substitute—
 
 > <table>
 > <thead>
@@ -227,9 +227,9 @@ Regulation 2(2)
 > </tbody>
 > </table>
 
-**4.**[^key-d7fcdb42673c22ff6a8857136d21be8e] Paragraph 6 (scope of Part 3) is omitted.
+**4.**[^c-d7fcdb42673c22ff6a8857136d21be8e] Paragraph 6 (scope of Part 3) is omitted.
 
-**5.**[^key-16509524a8cb4d7c65a53d42503075a2] For Tables A and A1 following paragraph 7 (calculation of fees in guilty pleas and cracked trials), substitute—
+**5.**[^c-16509524a8cb4d7c65a53d42503075a2] For Tables A and A1 following paragraph 7 (calculation of fees in guilty pleas and cracked trials), substitute—
 
 > Table A
 >
@@ -353,11 +353,11 @@ Regulation 2(2)
 > </tbody>
 > </table>
 
-**6.**[^key-96721b0958771619df01731604979c6d] Part 4 (fixed fee for guilty pleas and cracked trials) is omitted.
+**6.**[^c-96721b0958771619df01731604979c6d] Part 4 (fixed fee for guilty pleas and cracked trials) is omitted.
 
-**7.**[^key-7da063e9a7749fca0bca3613ef88ec1f] Paragraph 11(1) (general provisions) is omitted.
+**7.**[^c-7da063e9a7749fca0bca3613ef88ec1f] Paragraph 11(1) (general provisions) is omitted.
 
-**8.**[^key-368ae54fb779e81f392fefd0f2293269] For the table following paragraph 14(2) (fees for confiscation hearings), substitute—
+**8.**[^c-368ae54fb779e81f392fefd0f2293269] For the table following paragraph 14(2) (fees for confiscation hearings), substitute—
 
 > Fees for confiscation hearings
 >
@@ -373,7 +373,7 @@ Regulation 2(2)
 > | 751-1000 | £2,260 | £1,884 | £1,508 | £1,130 |
 > | 3\. Preparation hourly rates | £85.95 | £65.04 | £45.30 | £45.30 |
 
-**9.**[^key-e0c76a6667fe2e4f18782d64655b898d] For the table following paragraph 17A(2) (fees for consideration of unused material), substitute—
+**9.**[^c-e0c76a6667fe2e4f18782d64655b898d] For the table following paragraph 17A(2) (fees for consideration of unused material), substitute—
 
 > | Category of advocate | Fee |
 > | --- | --- |
@@ -381,7 +381,7 @@ Regulation 2(2)
 > | Leading Junior | £97.57 |
 > | Junior alone or Led Junior | £67.95 |
 
-**10.**[^key-2c1fb4c8128f57f2bc9d018c569c136f] For the table following paragraph 21(1) (fees for contempt proceedings), substitute—
+**10.**[^c-2c1fb4c8128f57f2bc9d018c569c136f] For the table following paragraph 21(1) (fees for contempt proceedings), substitute—
 
 > | Category of advocate | Payment rates (£ per day) |
 > | --- | --- |
@@ -389,7 +389,7 @@ Regulation 2(2)
 > | Leading Junior | £261 |
 > | Junior alone or Led Junior | £175 |
 
-**11.**[^key-0a539561968d2d98902e210499139afc] For the table following paragraph 21(2) (fees for contempt proceedings), substitute—
+**11.**[^c-0a539561968d2d98902e210499139afc] For the table following paragraph 21(2) (fees for contempt proceedings), substitute—
 
 > | Category of advocate | Payment rates (£ per day) |
 > | --- | --- |
@@ -397,7 +397,7 @@ Regulation 2(2)
 > | Leading Junior | £145 |
 > | Junior alone or Led Junior | £116 |
 
-**12.**[^key-00d6f4b64d7394fe4fe4c7cd82007ffc] For the table following paragraph 24 (fixed fees), substitute—
+**12.**[^c-00d6f4b64d7394fe4fe4c7cd82007ffc] For the table following paragraph 24 (fixed fees), substitute—
 
 > Fixed fees
 >
@@ -439,15 +439,15 @@ Regulation 2(2)
 > </tbody>
 > </table>
 
-**13.**[^key-ee4c643eaaea55d148738219b6048f0b] In paragraph 27 (additional charges and additional cases), omit sub-paragraph 27(3).
+**13.**[^c-ee4c643eaaea55d148738219b6048f0b] In paragraph 27 (additional charges and additional cases), omit sub-paragraph 27(3).
 
-## SCHEDULE 2 — Amendments to Schedule 2 to the Remuneration Regulations[^key-dbee42558f00bd6ab9fdfe9be0400714]
+## SCHEDULE 2 — Amendments to Schedule 2 to the Remuneration Regulations[^c-dbee42558f00bd6ab9fdfe9be0400714]
 
 Ref 2(3)
 
-**1.**[^key-c709cca6e245b4d22eb80404893257ce] Paragraph 4(1) (scope) is omitted.
+**1.**[^c-c709cca6e245b4d22eb80404893257ce] Paragraph 4(1) (scope) is omitted.
 
-**2.**[^key-8e2b8f53c338b0187df712828ab80991] For the table following paragraph 6(2) (cracked trial or guilty plea where the number of pages of prosecution evidence is less than or equal to the PPE cut-off), substitute—
+**2.**[^c-8e2b8f53c338b0187df712828ab80991] For the table following paragraph 6(2) (cracked trial or guilty plea where the number of pages of prosecution evidence is less than or equal to the PPE cut-off), substitute—
 
 > Basic fees for cracked trials and guilty pleas (£)
 >
@@ -462,7 +462,7 @@ Ref 2(3)
 > </tbody>
 > </table>
 
-**3.**[^key-3593a4f95a214826a8755cfbcf80062f] For the table following paragraph 7(2) (trial where the number of pages of prosecution evidence is less than or equal to the PPE cut-off) substitute—
+**3.**[^c-3593a4f95a214826a8755cfbcf80062f] For the table following paragraph 7(2) (trial where the number of pages of prosecution evidence is less than or equal to the PPE cut-off) substitute—
 
 > Basic fees for trials (£)
 >
@@ -476,7 +476,7 @@ Ref 2(3)
 > </tbody>
 > </table>
 
-**4.**[^key-0eac02399b2acf6650c49eef8ab4c236] For the first table following paragraph 8(2) (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE cut-off) substitute –
+**4.**[^c-0eac02399b2acf6650c49eef8ab4c236] For the first table following paragraph 8(2) (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE cut-off) substitute –
 
 > Table of final fees in cracked trials
 >
@@ -582,7 +582,7 @@ Ref 2(3)
 > | K | 8200-9999 | £34,815.54 | 3.75 |
 > | K | 10000 | £41,556.97 | 0 |
 
-**5.**[^key-d53f85242851d9b5a913173fbe242a09] For the second table following paragraph 8(2) (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE cut-off) substitute—
+**5.**[^c-d53f85242851d9b5a913173fbe242a09] For the second table following paragraph 8(2) (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE cut-off) substitute—
 
 > Table of final fees in guilty pleas
 >
@@ -688,7 +688,7 @@ Ref 2(3)
 > | K | 8200-9999 | £21,260.84 | 2.08 |
 > | K | 10000 | £25,000.17 | 0 |
 
-**6.**[^key-5ddee02ae38f3b6c5be97e3679a3bed5] For the table following paragraph 9(2) (trials where the number of pages of prosecution evidence exceeds the PPE cut-off) substitute—
+**6.**[^c-5ddee02ae38f3b6c5be97e3679a3bed5] For the table following paragraph 9(2) (trials where the number of pages of prosecution evidence exceeds the PPE cut-off) substitute—
 
 > Table of final fees in trials
 >
@@ -822,21 +822,21 @@ Ref 2(3)
 > | K | 9600-9999 | £84,842.55 | 8.84 |
 > | K | 10000 | £88,369.56 | 0 |
 
-**7.**[^key-123197d2f2e7e952bd329dfb3ece6cfc] Part 3 (fixed fee for guilty pleas and cracked trials in elected cases) is omitted.
+**7.**[^c-123197d2f2e7e952bd329dfb3ece6cfc] Part 3 (fixed fee for guilty pleas and cracked trials in elected cases) is omitted.
 
-**8.**[^key-ac9c30e31ba408aff7d9e8e8d49ebe1e] Paragraph 12(3)(e) is omitted.
+**8.**[^c-ac9c30e31ba408aff7d9e8e8d49ebe1e] Paragraph 12(3)(e) is omitted.
 
-**9.**[^key-f066da62347f6abf8e254d1bef364075] Paragraph 12(4) is omitted.
+**9.**[^c-f066da62347f6abf8e254d1bef364075] Paragraph 12(4) is omitted.
 
-**10.**[^key-9d8474b52efec0aadd294c32660821af] Paragraph 13(7)(e) is omitted.
+**10.**[^c-9d8474b52efec0aadd294c32660821af] Paragraph 13(7)(e) is omitted.
 
-**11.**[^key-f45e15a3df557942c704a39e9c0e928d] Paragraph 13(10) is omitted
+**11.**[^c-f45e15a3df557942c704a39e9c0e928d] Paragraph 13(10) is omitted
 
-**12.**[^key-67b9d6fbb95ee0f2bb5e6b11a0847ca2] Paragraph 13(11) is omitted.
+**12.**[^c-67b9d6fbb95ee0f2bb5e6b11a0847ca2] Paragraph 13(11) is omitted.
 
-**13.**[^key-6f6f51203899efaba36643653cc9d095] Paragraph 14(1) is omitted.
+**13.**[^c-6f6f51203899efaba36643653cc9d095] Paragraph 14(1) is omitted.
 
-**14.**[^key-a350a638234f7d7e20fc535094e37839] For the table following paragraph 19 (fixed fees) substitute—
+**14.**[^c-a350a638234f7d7e20fc535094e37839] For the table following paragraph 19 (fixed fees) substitute—
 
 > Fixed Fees
 >
@@ -849,15 +849,15 @@ Ref 2(3)
 > | Contempt proceedings (where contempt is alleged to have been committed by a person other than the defendant) | 17(2) | 133.96 |
 > | Alleged breach of a Crown Court Order | 18(2) | 89.31 |
 
-**15.**[^key-8143f9460bc7d9974302797f99bc8a60] In paragraph 20A(2A) (fees for consideration of unused material), for “£64.68”, substitute “£74.38”.
+**15.**[^c-8143f9460bc7d9974302797f99bc8a60] In paragraph 20A(2A) (fees for consideration of unused material), for “£64.68”, substitute “£74.38”.
 
-**16.**[^key-6d8733804df712c760b28783aa8d6830] Paragraphs 22(1) is omitted.
+**16.**[^c-6d8733804df712c760b28783aa8d6830] Paragraphs 22(1) is omitted.
 
-**17.**[^key-5e7dce9110e2e377b2e0266efe2807dc] Paragraph 22(3)(c) is omitted.
+**17.**[^c-5e7dce9110e2e377b2e0266efe2807dc] Paragraph 22(3)(c) is omitted.
 
-**18.**[^key-b101800d83b11b985c8eceef6d1e4a48] Paragraph 22(4) is omitted.
+**18.**[^c-b101800d83b11b985c8eceef6d1e4a48] Paragraph 22(4) is omitted.
 
-**19.**[^key-ca2460ddd64346dc796b1d8743541151] For the table following paragraph 27 (prescribed fee rates) substitute—
+**19.**[^c-ca2460ddd64346dc796b1d8743541151] For the table following paragraph 27 (prescribed fee rates) substitute—
 
 > | Class of work | Grade of fee earner | Rate | Variations |
 > | --- | --- | --- | --- |
@@ -875,13 +875,13 @@ Ref 2(3)
 > |  | Trainee or fee earner of equivalent experience | £13.12 per hour |  |
 > | Writing routine letters and dealing with routine telephone calls |  | £3.62 per item | £3.78 per item for a fee earner whose office is situated within the City of London or a London borough |
 
-**20.**[^key-d0caf63a59ba347783729031bea6c24b] In Part 7, in the first table (LGFS Table of Offences), under Class H: Miscellaneous other offences, for the offence of “Having an article with a blade or point in a public place”, in the “Contrary to” column, for “Criminal Justice Act 1988, s. 39” substitute “Criminal Justice Act 1988, s. 139”.
+**20.**[^c-d0caf63a59ba347783729031bea6c24b] In Part 7, in the first table (LGFS Table of Offences), under Class H: Miscellaneous other offences, for the offence of “Having an article with a blade or point in a public place”, in the “Contrary to” column, for “Criminal Justice Act 1988, s. 39” substitute “Criminal Justice Act 1988, s. 139”.
 
 ## SCHEDULE 3 — Amendments to Schedule 3 to the Remuneration Regulations
 
 Regulation 2(4)
 
-**1.**[^key-2cc64c8ed03d96aa7f446f7f621e6921] For the table following paragraph 7(1) (litigators’ fees for proceedings in the Court of Appeal) substitute—
+**1.**[^c-2cc64c8ed03d96aa7f446f7f621e6921] For the table following paragraph 7(1) (litigators’ fees for proceedings in the Court of Appeal) substitute—
 
 > | Class of work | Grade of fee earner | Rate | Variations |
 > | --- | --- | --- | --- |
@@ -890,15 +890,15 @@ Regulation 2(4)
 > |  | Trainee or fee earner of equivalent experience | £31.22 per hour | £35.68 per hour for a litigator whose office is situated within the City of London or a London borough |
 > | Advocacy | Senior Solicitor | £67.16 per hour |  |
 > |  | Solicitor | £58.77 per hour |  |
-> | Attendance at court where more than one representative assigned | Senior Solicitor | £44.33[^key-077b161e3b6902804ab364b946bcdf80] per hour |  |
-> |  | Solicitor, legal executive or fee earner of equivalent experience | £35.68[^key-8b3998f96c1d2a34723a02507ecac489] per hour |  |
+> | Attendance at court where more than one representative assigned | Senior Solicitor | £44.33[^c-077b161e3b6902804ab364b946bcdf80] per hour |  |
+> |  | Solicitor, legal executive or fee earner of equivalent experience | £35.68[^c-8b3998f96c1d2a34723a02507ecac489] per hour |  |
 > |  | Trainee or fee earner of equivalent experience | £21.52 per hour |  |
 > | Travelling and waiting | Senior Solicitor | £25.97 per hour |  |
 > |  | Solicitor, legal executive or fee earner of equivalent experience | £25.97 per hour |  |
 > |  | Trainee or fee earner of equivalent experience | £13.12 per hour |  |
 > | Routine letters written and routine telephone calls |  | £3.62 per item | £3.78 per item for a litigator whose office is situated within the City of London or a London borough |
 
-**2.**[^key-2e5ad825b99afe5ab15580fc5b84f200] For the first table following paragraph 9(1) (advocates’ fees for proceedings in the Court of Appeal) substitute—
+**2.**[^c-2e5ad825b99afe5ab15580fc5b84f200] For the first table following paragraph 9(1) (advocates’ fees for proceedings in the Court of Appeal) substitute—
 
 > Junior Counsel
 >
@@ -912,9 +912,9 @@ Regulation 2(4)
 > </tbody>
 > </table>
 >
-> [^key-434ab72078afddd1af1ff243cf12bab7][^key-8701f81633b4e970859cdc241cb42b97]
+> [^c-434ab72078afddd1af1ff243cf12bab7][^c-8701f81633b4e970859cdc241cb42b97]
 
-**3.**[^key-7e7c82a8345dab7a3d53d9a00c0db0de] For the second table following paragraph 9(1) (advocates’ fees for proceedings in the Court of Appeal) substitute—
+**3.**[^c-7e7c82a8345dab7a3d53d9a00c0db0de] For the second table following paragraph 9(1) (advocates’ fees for proceedings in the Court of Appeal) substitute—
 
 > QC
 >
@@ -927,7 +927,7 @@ Regulation 2(4)
 
 Regulation 2(5)
 
-**1.**[^key-7d3e06327a2103f2c137379782cfcd23] (1) Paragraph 2 (work conducted at the police station: police station advice and assistance) is amended as follows.
+**1.**[^c-7d3e06327a2103f2c137379782cfcd23] (1) Paragraph 2 (work conducted at the police station: police station advice and assistance) is amended as follows.
 
 (2) In sub-paragraph (1)(a) for “£28.70”, substitute “£33.00”.
 
@@ -935,7 +935,7 @@ Regulation 2(5)
 
 (4) In sub-paragraph (2) for “£7.30”, substitute “£8.40”.
 
-**2.**[^key-66a162b69cc3d572c54f33d59a564ecb] For the table following paragraph 2(3) (work conducted at the police station: police station advice and assistance), substitute—
+**2.**[^c-66a162b69cc3d572c54f33d59a564ecb] For the table following paragraph 2(3) (work conducted at the police station: police station advice and assistance), substitute—
 
 > <table>
 > <thead>
@@ -954,7 +954,7 @@ Regulation 2(5)
 > </tbody>
 > </table>
 
-**3.**[^key-fd013526271703ac977d096b09e20dde] For the table following paragraph 2(8) (police station attendance – fixed fees and escape fee thresholds) substitute—
+**3.**[^c-fd013526271703ac977d096b09e20dde] For the table following paragraph 2(8) (police station attendance – fixed fees and escape fee thresholds) substitute—
 
 > Police Station Attendance – Fixed Fees and Escape Fee Thresholds
 >
@@ -1206,7 +1206,7 @@ Regulation 2(5)
 > |  | West London | 270.74 | 918.97 |
 > |  | Wimbledon | 257.09 | 870.77 |
 
-**4.**[^key-57672a06fc3388995e9e831050fddccc] (1) Paragraph 3 (work conducted outside the police station) is amended as follows.
+**4.**[^c-57672a06fc3388995e9e831050fddccc] (1) Paragraph 3 (work conducted outside the police station) is amended as follows.
 
 (2) In sub-paragraph (1), for “£273.75”, substitute “£314.81”.
 
@@ -1300,7 +1300,7 @@ Regulation 2(5)
 > | Advocacy hourly rate | 65.42 | 65.42 |
 > | Travelling and waiting hourly rate | 27.60 | 27.60 |
 
-**5.**[^key-5a726f66fc4a687584d01abe7b0c76cf] (1) Paragraph 3A (advice and assistance for pre-charge engagement) is amended as follows.
+**5.**[^c-5a726f66fc4a687584d01abe7b0c76cf] (1) Paragraph 3A (advice and assistance for pre-charge engagement) is amended as follows.
 
 (2) In sub-paragraph (1)(a), for “£51.28”, substitute “£58.97”.
 
@@ -1308,7 +1308,7 @@ Regulation 2(5)
 
 (4) In sub-paragraph (2), for “£273.75”, substitute “£314.81”.
 
-**6.**[^key-37663981c9e43a6e8ce5e87967c85334] (1) Paragraph 4 (advice and assistance and advocacy assistance by a court duty solicitor and advocacy assistance at the virtual court) is amended as follows.
+**6.**[^c-37663981c9e43a6e8ce5e87967c85334] (1) Paragraph 4 (advice and assistance and advocacy assistance by a court duty solicitor and advocacy assistance at the virtual court) is amended as follows.
 
 (2) For the table following sub-paragraph (1), substitute—
 
@@ -1329,7 +1329,7 @@ Regulation 2(5)
 > | Virtual Court Fixed Fee where the hearing is held during Business Hours | 209.88 | 157.41 |
 > | Virtual Court Fixed Fee where the hearing is held during Unsocial hours | 251.85 | 188.89 |
 
-**7.**[^key-746ec7a927cd9e794b465bdb16876930] (1) Paragraph 5 (Representation in the Magistrates’ Court) is amended as follows.
+**7.**[^c-746ec7a927cd9e794b465bdb16876930] (1) Paragraph 5 (Representation in the Magistrates’ Court) is amended as follows.
 
 (2) For the table following sub-paragraph (1), substitute—
 
@@ -1365,7 +1365,7 @@ Regulation 2(5)
 
 (4) In sub-paragraph (6), for “£181.40”, substitute “£208.61”.
 
-**8.**[^key-121f7d3ec5a5ee27c1ee54050d71e0e6] (1) Paragraph 5A is amended as follows.
+**8.**[^c-121f7d3ec5a5ee27c1ee54050d71e0e6] (1) Paragraph 5A is amended as follows.
 
 (2) For the table following sub-paragraph (2) (Representation in proceedings relating to an injunction under Part 1 of the 2014 Act or related parenting order in any court), substitute –
 
@@ -1389,7 +1389,7 @@ Regulation 2(5)
 
 (4) In sub-paragraph (4), for “£24.00” substitute “£27.60”.
 
-**9.**[^key-4599c1632e5607d991f81e323d07b25c] (1) Paragraph 6 (own client work) is amended as follows.
+**9.**[^c-4599c1632e5607d991f81e323d07b25c] (1) Paragraph 6 (own client work) is amended as follows.
 
 (2) In sub-paragraph (2), for “£47.95” substitute “£55.14” and for “£45.35” substitute “£52.15”.
 
@@ -1408,7 +1408,7 @@ Regulation 2(5)
 > | Advocacy (including applications for bail and other applications to the court) hourly rate | 65.42 | 65.42 |
 > | Travelling and waiting hourly rate (only applicable where the Undesignated Area fees apply) | N/A | 27.60 |
 
-**10.**[^key-0bd2d71d29249f468e4feef22fd5bff7] (1) Paragraph 7 is amended as follows.
+**10.**[^c-0bd2d71d29249f468e4feef22fd5bff7] (1) Paragraph 7 is amended as follows.
 
 (2) In sub-paragraph (1), for “£1,368.75” substitute “£1,574.06”.
 
@@ -1438,7 +1438,7 @@ Regulation 2(5)
 > | Attending without counsel at the trial or hearing of any cause or the hearing of any summons or other application at court or other appointment – hourly rate | 78.71 | 69.26 |
 > | Travelling and waiting hourly rate | 34.89 | 30.65 |
 
-**11.**[^key-9d6f2b4ce64a2e5761ec44e60e7f9d1c] (1) Paragraph 8 is amended as follows.
+**11.**[^c-9d6f2b4ce64a2e5761ec44e60e7f9d1c] (1) Paragraph 8 is amended as follows.
 
 (2) In paragraph 8(a), for “£273.75” substitute “£314.81”.
 
@@ -1454,7 +1454,7 @@ Regulation 2(5)
 > | Preparation hourly rate | 52.15 | 49.22 |
 > | Travel and waiting hourly rate | 27.60 | 27.60 |
 
-**12.**[^key-c0f91ce16904dc1be4ebd4479c7c6a7f] For the table following paragraph 9(1) (Representation on an appeal by way of case stated in the High Court) substitute—
+**12.**[^c-c0f91ce16904dc1be4ebd4479c7c6a7f] For the table following paragraph 9(1) (Representation on an appeal by way of case stated in the High Court) substitute—
 
 > Representation on an appeal by way of case stated in the High Court
 >
@@ -1467,7 +1467,7 @@ Regulation 2(5)
 > | Attending without counsel at the trial or hearing of any cause or the hearing of any summons or other application at court or other appointment – hourly rate | 78.71 |
 > | Travel and waiting hourly rate | 34.89 |
 
-**13.**[^key-579d5c576357b488caa868b8ae00e557] (1) Paragraph 10 (representation in the Crown Court on an appeal from a magistrates’ court in proceedings prescribed as criminal proceedings under section 14(h) of the Act) is amended as follows.
+**13.**[^c-579d5c576357b488caa868b8ae00e557] (1) Paragraph 10 (representation in the Crown Court on an appeal from a magistrates’ court in proceedings prescribed as criminal proceedings under section 14(h) of the Act) is amended as follows.
 
 (2) For “£1,368.75” substitute “£1,574.06”.
 
@@ -1480,7 +1480,7 @@ Regulation 2(5)
 > | Advocacy hourly rate | 65.42 | 65.42 |
 > | Travelling and waiting hourly rate | 27.60 | 27.60 |
 
-**14.**[^key-5c156b0a96ad2e2a8ad5be9267eb4ddd] For the table following paragraph 12 (Payment for Assigned Counsel) substitute—
+**14.**[^c-5c156b0a96ad2e2a8ad5be9267eb4ddd] For the table following paragraph 12 (Payment for Assigned Counsel) substitute—
 
 > Payment for Assigned Counsel
 >
@@ -1498,7 +1498,7 @@ Regulation 2(5)
 > </tbody>
 > </table>
 
-## SCHEDULE 5[^key-471581345c1839ee040d5d1182a01483]
+## SCHEDULE 5[^c-471581345c1839ee040d5d1182a01483]
 
 Regulation 2(6)
 
@@ -1588,14 +1588,14 @@ Regulation 2(6)
 
 Regulation 2(7)
 
-**1.**[^key-ef8c413639463bd152a28303809bb252] After paragraph 3, insert—
+**1.**[^c-ef8c413639463bd152a28303809bb252] After paragraph 3, insert—
 
 > **4.** Part 4 of this Schedule applies to work done in a case which is the subject of a Very High Cost Case Contract—
 >
 > - (a) signed by the parties on or after 30th September 2022; or
 > - (b) pursuant to any Task List agreed between the parties on or after 30th September 2022.
 
-**2.**[^key-fe0e5684cbb5a9c81b1d969ac18c758b] After Part 3, insert the following—
+**2.**[^c-fe0e5684cbb5a9c81b1d969ac18c758b] After Part 3, insert the following—
 
 > **PART 4**
 >
@@ -1687,128 +1687,128 @@ A full impact assessment of the effect of the policy implemented by this instrum
 
 [^f00001]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-506f0e57d3458c3ae7a17d0eadf3f239]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/848/regulation/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-506f0e57d3458c3ae7a17d0eadf3f239]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/848/regulation/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2013/435](https://www.legislation.gov.uk/uksi/2013/435) as amended by [S.I. 2013/2803](https://www.legislation.gov.uk/uksi/2013/2803), [S.I. 2014/2422](https://www.legislation.gov.uk/uksi/2014/2422), [S.I. 2015/325](https://www.legislation.gov.uk/uksi/2015/325), [S.I. 2015/1369](https://www.legislation.gov.uk/uksi/2015/1369), [S.I. 2015/1678](https://www.legislation.gov.uk/uksi/2015/1678), [S.I. 2016/313](https://www.legislation.gov.uk/uksi/2016/313), [S.I. 2017/311](https://www.legislation.gov.uk/uksi/2017/311), [S.I. 2017/1019](https://www.legislation.gov.uk/uksi/2017/1019), [S.I. 2018/220](https://www.legislation.gov.uk/uksi/2018/220), [S.I. 2018/1323](https://www.legislation.gov.uk/uksi/2018/1323) and [S.I. 2020/903](https://www.legislation.gov.uk/uksi/2020/903). There are other amending instruments, but none is relevant.
 
-[^key-cced0cda33973fb0768009842038e86c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/848/regulation/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-cced0cda33973fb0768009842038e86c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/848/regulation/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-93aa2e125a590a8e1a09fcdb48eab7b5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3) substituted (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1)
+[^c-93aa2e125a590a8e1a09fcdb48eab7b5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3) substituted (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1)
 
-[^key-9c0a9c0f00ee4b5ccce6eb52686997c0]: Modification: Sch. 1 (except paras. 5, 9) amended so that the increases to certain fees effected by its amendments apply to a wider range of cases (23.12.2022) by S.I. 2022/1267, [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1267/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1267/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2022/1267/schedule)
+[^c-9c0a9c0f00ee4b5ccce6eb52686997c0]: Modification: Sch. 1 (except paras. 5, 9) amended so that the increases to certain fees effected by its amendments apply to a wider range of cases (23.12.2022) by S.I. 2022/1267, [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1267/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1267/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2022/1267/schedule)
 
-[^key-b8dff1eae53a66d9992262f021b2dfc5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-b8dff1eae53a66d9992262f021b2dfc5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-f29a077612557ef44bb3634de19d530c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-f29a077612557ef44bb3634de19d530c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-f802dabcf062e1b625d666fa739cb18a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-f802dabcf062e1b625d666fa739cb18a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-d7fcdb42673c22ff6a8857136d21be8e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/4) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-d7fcdb42673c22ff6a8857136d21be8e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/4) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-16509524a8cb4d7c65a53d42503075a2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-16509524a8cb4d7c65a53d42503075a2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-96721b0958771619df01731604979c6d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/6) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-96721b0958771619df01731604979c6d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/6) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-7da063e9a7749fca0bca3613ef88ec1f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/7) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-7da063e9a7749fca0bca3613ef88ec1f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/7) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-368ae54fb779e81f392fefd0f2293269]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/8) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-368ae54fb779e81f392fefd0f2293269]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/8) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-e0c76a6667fe2e4f18782d64655b898d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/9) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-e0c76a6667fe2e4f18782d64655b898d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/9) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-2c1fb4c8128f57f2bc9d018c569c136f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/10) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-2c1fb4c8128f57f2bc9d018c569c136f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/10) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-0a539561968d2d98902e210499139afc]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/11) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-0a539561968d2d98902e210499139afc]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/11) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-00d6f4b64d7394fe4fe4c7cd82007ffc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/12) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-00d6f4b64d7394fe4fe4c7cd82007ffc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/12) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-ee4c643eaaea55d148738219b6048f0b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/13) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-ee4c643eaaea55d148738219b6048f0b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2022/848/schedule/1/paragraph/13) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-dbee42558f00bd6ab9fdfe9be0400714]: Modification: Sch. 2 (except para. 15) amended so that the increases to certain fees effected by its amendments apply to a wider range of cases (23.12.2022) by S.I. 2022/1267, [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1267/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1267/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/1267/regulation/5)
+[^c-dbee42558f00bd6ab9fdfe9be0400714]: Modification: Sch. 2 (except para. 15) amended so that the increases to certain fees effected by its amendments apply to a wider range of cases (23.12.2022) by S.I. 2022/1267, [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1267/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1267/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/1267/regulation/5)
 
-[^key-c709cca6e245b4d22eb80404893257ce]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-c709cca6e245b4d22eb80404893257ce]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-8e2b8f53c338b0187df712828ab80991]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-8e2b8f53c338b0187df712828ab80991]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-3593a4f95a214826a8755cfbcf80062f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-3593a4f95a214826a8755cfbcf80062f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-0eac02399b2acf6650c49eef8ab4c236]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/4) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-0eac02399b2acf6650c49eef8ab4c236]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/4) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-d53f85242851d9b5a913173fbe242a09]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-d53f85242851d9b5a913173fbe242a09]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-5ddee02ae38f3b6c5be97e3679a3bed5]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/6) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-5ddee02ae38f3b6c5be97e3679a3bed5]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/6) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-123197d2f2e7e952bd329dfb3ece6cfc]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/7) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-123197d2f2e7e952bd329dfb3ece6cfc]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/7) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-ac9c30e31ba408aff7d9e8e8d49ebe1e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/8) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-ac9c30e31ba408aff7d9e8e8d49ebe1e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/8) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-f066da62347f6abf8e254d1bef364075]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/9) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-f066da62347f6abf8e254d1bef364075]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/9) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-9d8474b52efec0aadd294c32660821af]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/10) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-9d8474b52efec0aadd294c32660821af]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/10) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-f45e15a3df557942c704a39e9c0e928d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/11) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-f45e15a3df557942c704a39e9c0e928d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/11) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-67b9d6fbb95ee0f2bb5e6b11a0847ca2]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/12) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-67b9d6fbb95ee0f2bb5e6b11a0847ca2]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/12) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-6f6f51203899efaba36643653cc9d095]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/13) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-6f6f51203899efaba36643653cc9d095]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/13) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-a350a638234f7d7e20fc535094e37839]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/14) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-a350a638234f7d7e20fc535094e37839]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/14) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-8143f9460bc7d9974302797f99bc8a60]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/15) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-8143f9460bc7d9974302797f99bc8a60]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/15) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-6d8733804df712c760b28783aa8d6830]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/16) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-6d8733804df712c760b28783aa8d6830]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/16) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-5e7dce9110e2e377b2e0266efe2807dc]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/17) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-5e7dce9110e2e377b2e0266efe2807dc]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/17) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-b101800d83b11b985c8eceef6d1e4a48]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/18) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-b101800d83b11b985c8eceef6d1e4a48]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/18) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-ca2460ddd64346dc796b1d8743541151]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/19) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-ca2460ddd64346dc796b1d8743541151]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/19) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-d0caf63a59ba347783729031bea6c24b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/20) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-d0caf63a59ba347783729031bea6c24b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2022/848/schedule/2/paragraph/20) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-2cc64c8ed03d96aa7f446f7f621e6921]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-2cc64c8ed03d96aa7f446f7f621e6921]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-077b161e3b6902804ab364b946bcdf80]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/1) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/2/a)
+[^c-077b161e3b6902804ab364b946bcdf80]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/1) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/2/a)
 
-[^key-8b3998f96c1d2a34723a02507ecac489]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/1) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/2/b)
+[^c-8b3998f96c1d2a34723a02507ecac489]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/1) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/2/b)
 
-[^key-2e5ad825b99afe5ab15580fc5b84f200]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-2e5ad825b99afe5ab15580fc5b84f200]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-434ab72078afddd1af1ff243cf12bab7]: Textual amendment: Sum in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/3/a)
+[^c-434ab72078afddd1af1ff243cf12bab7]: Textual amendment: Sum in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/3/a)
 
-[^key-8701f81633b4e970859cdc241cb42b97]: Textual amendment: Sum in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/3/b)
+[^c-8701f81633b4e970859cdc241cb42b97]: Textual amendment: Sum in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) table substituted (29.9.2022 at 11.00 p.m.) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/3/b)
 
-[^key-7e7c82a8345dab7a3d53d9a00c0db0de]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-7e7c82a8345dab7a3d53d9a00c0db0de]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-7d3e06327a2103f2c137379782cfcd23]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-7d3e06327a2103f2c137379782cfcd23]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-66a162b69cc3d572c54f33d59a564ecb]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-66a162b69cc3d572c54f33d59a564ecb]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-fd013526271703ac977d096b09e20dde]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-fd013526271703ac977d096b09e20dde]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/3) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-57672a06fc3388995e9e831050fddccc]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/4) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-57672a06fc3388995e9e831050fddccc]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/4) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-5a726f66fc4a687584d01abe7b0c76cf]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-5a726f66fc4a687584d01abe7b0c76cf]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-37663981c9e43a6e8ce5e87967c85334]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/6) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-37663981c9e43a6e8ce5e87967c85334]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/6) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-746ec7a927cd9e794b465bdb16876930]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/7) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-746ec7a927cd9e794b465bdb16876930]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/7) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-121f7d3ec5a5ee27c1ee54050d71e0e6]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/8) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-121f7d3ec5a5ee27c1ee54050d71e0e6]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/8) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-4599c1632e5607d991f81e323d07b25c]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/9) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-4599c1632e5607d991f81e323d07b25c]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/9) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-0bd2d71d29249f468e4feef22fd5bff7]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/10) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-0bd2d71d29249f468e4feef22fd5bff7]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/10) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-9d6f2b4ce64a2e5761ec44e60e7f9d1c]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/11) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-9d6f2b4ce64a2e5761ec44e60e7f9d1c]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/11) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-c0f91ce16904dc1be4ebd4479c7c6a7f]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/12) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-c0f91ce16904dc1be4ebd4479c7c6a7f]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/12) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-579d5c576357b488caa868b8ae00e557]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/13) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-579d5c576357b488caa868b8ae00e557]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/13) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-5c156b0a96ad2e2a8ad5be9267eb4ddd]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/14) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-5c156b0a96ad2e2a8ad5be9267eb4ddd]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2022/848/schedule/4/paragraph/14) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-471581345c1839ee040d5d1182a01483]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-471581345c1839ee040d5d1182a01483]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/5) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-ef8c413639463bd152a28303809bb252]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-ef8c413639463bd152a28303809bb252]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/1) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
 
-[^key-fe0e5684cbb5a9c81b1d969ac18c758b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)
+[^c-fe0e5684cbb5a9c81b1d969ac18c758b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/2) in force at 30.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1)

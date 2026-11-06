@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — ENACTMENTS WHERE FOR “FAMILY HEALTH SERVICES AUTHORITY”, “FHSA”, “FAMILY PRACTITIONER COMMITTEE” OR “FHSA'S” THERE IS SUBSTITUTED “HEALTH AUTHORITY OR PRIMARY CARE TRUST” OR “HEALTH AUTHORITY'S OR PRIMARY CARE TRUST'S”[^key-36746947109245ce8358d49be09d581b]
+## SCHEDULE 10 — ENACTMENTS WHERE FOR “FAMILY HEALTH SERVICES AUTHORITY”, “FHSA”, “FAMILY PRACTITIONER COMMITTEE” OR “FHSA'S” THERE IS SUBSTITUTED “HEALTH AUTHORITY OR PRIMARY CARE TRUST” OR “HEALTH AUTHORITY'S OR PRIMARY CARE TRUST'S”[^c-36746947109245ce8358d49be09d581b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ Regulation 13
 
 ## Annotations
 
-[^key-36746947109245ce8358d49be09d581b]: Commencement: Sch. 10 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-36746947109245ce8358d49be09d581b]: Commencement: Sch. 10 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00260]: Footnote: [S.I. 1974/191](https://www.legislation.gov.uk/uksi/1974/191).
 

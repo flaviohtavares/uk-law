@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. 6 month period for deciding application to install facilities[^key-c69213aa501ae86909c0fa0648b7df49]
+## 3. 6 month period for deciding application to install facilities[^c-c69213aa501ae86909c0fa0648b7df49]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c69213aa501ae86909c0fa0648b7df49]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1210/regulation/3) applied by 2003 c. 21, Sch. 3A para. 97 (as inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/2)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b))
+[^c-c69213aa501ae86909c0fa0648b7df49]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1210/regulation/3) applied by 2003 c. 21, Sch. 3A para. 97 (as inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/2)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b))
 
 [^c20853211]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21)

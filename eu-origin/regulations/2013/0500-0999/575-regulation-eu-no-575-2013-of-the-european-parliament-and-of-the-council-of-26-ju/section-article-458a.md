@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 458A. Enhanced prudential measures[^key-398522475883824e1b41a7a063a19011][^c000001]
+## Article 458A. Enhanced prudential measures[^c-398522475883824e1b41a7a063a19011][^c000001]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-398522475883824e1b41a7a063a19011]: Textual amendment: [Arts. 458-458C](https://www.legislation.gov.uk/eur/2013/575/article/458) substituted for [Art. 458](https://www.legislation.gov.uk/eur/2013/575/article/458) (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [201](https://www.legislation.gov.uk/uksi/2018/1401/regulation/201) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-398522475883824e1b41a7a063a19011]: Textual amendment: [Arts. 458-458C](https://www.legislation.gov.uk/eur/2013/575/article/458) substituted for [Art. 458](https://www.legislation.gov.uk/eur/2013/575/article/458) (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [201](https://www.legislation.gov.uk/uksi/2018/1401/regulation/201) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).

@@ -27,14 +27,14 @@ summary: ''
 > - (a) for those operations, or
 > - (b) with respect to any matters that relate to those operations, or to the use of the land in question following those operations, and are specified in the order.
 
-(2)[^key-157c561eb7d1019404fa5ad5d4fa2a00] In subsection (2) of that section, after “any buildings” insert “ in Wales ”.
+(2)[^c-157c561eb7d1019404fa5ad5d4fa2a00] In subsection (2) of that section, after “any buildings” insert “ in Wales ”.
 
-(3)[^key-157c561eb7d1019404fa5ad5d4fa2a00] In subsection (2B) of that section, for “subsection (1)” substitute “ subsections (1) and (1A) ”.
+(3)[^c-157c561eb7d1019404fa5ad5d4fa2a00] In subsection (2B) of that section, for “subsection (1)” substitute “ subsections (1) and (1A) ”.
 
-(4)[^key-157c561eb7d1019404fa5ad5d4fa2a00] In section 70A of that Act (power to decline to determine subsequent application), in subsection (5)(b), for “section 60(2)” substitute “ section 60(1A), (2) ”.
+(4)[^c-157c561eb7d1019404fa5ad5d4fa2a00] In section 70A of that Act (power to decline to determine subsequent application), in subsection (5)(b), for “section 60(2)” substitute “ section 60(1A), (2) ”.
 
 ## Annotations
 
 [^c22569361]: Commencement: [S. 152(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/152/1) in force at Royal Assent see [s. 152(1)(d)](https://www.legislation.gov.uk/ukpga/2016/22/section/152/1/d)
 
-[^key-157c561eb7d1019404fa5ad5d4fa2a00]: Commencement: [S. 152(2)-(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/152/2) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/e)
+[^c-157c561eb7d1019404fa5ad5d4fa2a00]: Commencement: [S. 152(2)-(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/152/2) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/e)

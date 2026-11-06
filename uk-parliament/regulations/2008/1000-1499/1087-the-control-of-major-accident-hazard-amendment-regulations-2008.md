@@ -51,11 +51,11 @@ The Secretary of State makes these Regulations —
 - (a) in exercise of the powers conferred on him by sections 43(2), (4), (5) and (6) and 82(3)(a) of the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”); and
 - (b) for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Executive under section 11(3)[^f00002] of the 1974 Act.
 
-## 1. Citation and commencement[^key-b0560e4cb11935ef436d2a843696b06d]
+## 1. Citation and commencement[^c-b0560e4cb11935ef436d2a843696b06d]
 
 These Regulations may be cited as The Control of Major Accident Hazard (Amendment) Regulations 2008 and shall come into force on 18th April 2008.
 
-## 2. Amendment to the Control of Major Accident Hazard Regulations 1999[^key-71487d6a6fb523e69084efd8cbed2b2c]
+## 2. Amendment to the Control of Major Accident Hazard Regulations 1999[^c-71487d6a6fb523e69084efd8cbed2b2c]
 
 For sub-paragraphs (a) and (b) of paragraph (2A) of regulation 22 of the Control of Major Accident Hazard Regulations 1999[^f00003], substitute —
 
@@ -90,8 +90,8 @@ EXPLANATORY NOTE
 
 [^f00002]: Footnote: Section 11(3) is amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960);
 
-[^key-b0560e4cb11935ef436d2a843696b06d]: Commencement: Reg. 1 in force at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1087/regulation/1)
+[^c-b0560e4cb11935ef436d2a843696b06d]: Commencement: Reg. 1 in force at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1087/regulation/1)
 
-[^key-71487d6a6fb523e69084efd8cbed2b2c]: Commencement: Reg. 2 in force at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1087/regulation/1)
+[^c-71487d6a6fb523e69084efd8cbed2b2c]: Commencement: Reg. 2 in force at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1087/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1999/743](https://www.legislation.gov.uk/uksi/1999/743); amended by [S.I. 2008/736](https://www.legislation.gov.uk/uksi/2008/736), which inserted paragraph (2A).

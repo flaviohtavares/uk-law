@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 3. Meaning of “pensionable service”[^key-bcc97fefa75e01f6bc30df2bf29ae9e7]
+## 3. Meaning of “pensionable service”[^c-bcc97fefa75e01f6bc30df2bf29ae9e7]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc97fefa75e01f6bc30df2bf29ae9e7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/9/section/3) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-bcc97fefa75e01f6bc30df2bf29ae9e7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/9/section/3) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

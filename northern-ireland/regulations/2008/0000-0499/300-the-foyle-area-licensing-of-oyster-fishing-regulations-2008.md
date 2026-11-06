@@ -41,15 +41,15 @@ Coming into operation
 
 The Foyle, Carlingford and Irish Lights Commission, with the approval of the North/South Ministerial Council, makes the following Regulations in exercise of the powers conferred by section 13(1) and (2) of the Foyle Fisheries Act 1952[^f00001] and section 13(1) and (2) of the Foyle Fisheries Act (Northern Ireland) 1952[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-63ed505e1d49d59cbe2dfc8671828704]
+## 1. Citation and commencement[^c-63ed505e1d49d59cbe2dfc8671828704]
 
 These Regulations may be cited as the Foyle Area (Licensing of Oyster Fishing) Regulations 2008 and shall come into operation on 31st July 2008.
 
-## 2. Exception[^key-7e31ee88d58040faa264ad4ef5b2599e]
+## 2. Exception[^c-7e31ee88d58040faa264ad4ef5b2599e]
 
 These Regulations do not apply to any person who is operating under the authority of, and in accordance with, an aquaculture licence granted under section 52A of the Foyle Fisheries Act (Northern Ireland) 1952 or section 53A of the Foyle Fisheries Act 1952.
 
-## 3. Interpretation[^key-300241f492486939a63af6cb7d974478]
+## 3. Interpretation[^c-300241f492486939a63af6cb7d974478]
 
 In these Regulations—
 
@@ -58,13 +58,13 @@ In these Regulations—
 - “oyster” means a bivalve mollusc of the species Ostrea Edulis*;*
 - “oyster fishing licence” means a licence issued pursuant to regulation 7.
 
-## 4. Licensing of oyster fishing[^key-7dcb1394dba66d72b15bb6549e3af214]
+## 4. Licensing of oyster fishing[^c-7dcb1394dba66d72b15bb6549e3af214]
 
 (1) A person shall not use a dredge in any part of the Foyle Area for the purpose of taking oysters or with intent to take oysters except under and in accordance with an oyster fishing licence issued by the Commission.
 
 (2) The Commission may issue an oyster fishing licence subject to such conditions or limitations as it considers appropriate.
 
-## 5. Applications for oyster fishing licences[^key-51a94523e381be5aea3ada71446c5899]
+## 5. Applications for oyster fishing licences[^c-51a94523e381be5aea3ada71446c5899]
 
 (1) An application for an oyster fishing licence shall be made in writing in such form as the Commission may from time to time require and shall be accompanied by a valid —
 
@@ -77,13 +77,13 @@ In these Regulations—
 
 (4) Where an application has been approved under paragraph (3) an officer authorised by the Commission in that behalf shall endorse the approval on the application and shall return it to the applicant.
 
-## 6. Payment of oyster fishing licence fee[^key-4ec4b774ce93bb1dbedb31708277b1d0]
+## 6. Payment of oyster fishing licence fee[^c-4ec4b774ce93bb1dbedb31708277b1d0]
 
 (1) The fishing licence fee specified in the Schedule shall be paid in the manner set out in paragraph (2).
 
 (2) Where an application has been endorsed under Regulation 5(4), it may be presented by the applicant to the Commission and the whole amount of the oyster fishing licence fee shall be paid at the time of presentation.
 
-## 7. Issue of oyster fishing licences[^key-1ee996481691452ab0ef9e14778c9794]
+## 7. Issue of oyster fishing licences[^c-1ee996481691452ab0ef9e14778c9794]
 
 On presentation of an application endorsed under Regulation 5(4) and payment of the fee specified in the Schedule, the Commission shall issue the licence to the applicant and retain the endorsed application.
 
@@ -109,7 +109,7 @@ Joint Secretary of the
 
 North/South Ministerial Council
 
-## SCHEDULE — Oyster fishing licence fee[^key-92882d2711817b26fd5d6f04b3e6ebe8]
+## SCHEDULE — Oyster fishing licence fee[^c-92882d2711817b26fd5d6f04b3e6ebe8]
 
 Regulations 6 and 7
 
@@ -131,22 +131,22 @@ These Regulations prohibit the dredging for oysters in the Foyle Area without a 
 
 [^f00003]: Footnote: [S.I. 1999/859](https://www.legislation.gov.uk/uksi/1999/859) Article 21(1)
 
-[^key-63ed505e1d49d59cbe2dfc8671828704]: Commencement: Reg. 1 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
+[^c-63ed505e1d49d59cbe2dfc8671828704]: Commencement: Reg. 1 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
 
-[^key-7e31ee88d58040faa264ad4ef5b2599e]: Commencement: Reg. 2 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
+[^c-7e31ee88d58040faa264ad4ef5b2599e]: Commencement: Reg. 2 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
 
-[^key-300241f492486939a63af6cb7d974478]: Commencement: Reg. 3 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
+[^c-300241f492486939a63af6cb7d974478]: Commencement: Reg. 3 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
 
-[^key-7dcb1394dba66d72b15bb6549e3af214]: Commencement: Reg. 4 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
+[^c-7dcb1394dba66d72b15bb6549e3af214]: Commencement: Reg. 4 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
 
-[^key-51a94523e381be5aea3ada71446c5899]: Commencement: Reg. 5 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
+[^c-51a94523e381be5aea3ada71446c5899]: Commencement: Reg. 5 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
 
 [^f00004]: Footnote: [1967 c.84](https://www.legislation.gov.uk/ukpga/1967/84), as amended.
 
 [^f00005]: Footnote: Legislation of the Republic of Ireland.
 
-[^key-4ec4b774ce93bb1dbedb31708277b1d0]: Commencement: Reg. 6 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
+[^c-4ec4b774ce93bb1dbedb31708277b1d0]: Commencement: Reg. 6 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
 
-[^key-1ee996481691452ab0ef9e14778c9794]: Commencement: Reg. 7 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
+[^c-1ee996481691452ab0ef9e14778c9794]: Commencement: Reg. 7 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/300/regulation/1)
 
-[^key-92882d2711817b26fd5d6f04b3e6ebe8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/300/schedule) substituted (13.9.2010) by [The Foyle Area (Licensing of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/310)](https://www.legislation.gov.uk/nisr/2010/310), [regs. 1](https://www.legislation.gov.uk/nisr/2010/310/regulation/1), [2](https://www.legislation.gov.uk/nisr/2010/310/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2010/310/schedule)
+[^c-92882d2711817b26fd5d6f04b3e6ebe8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/300/schedule) substituted (13.9.2010) by [The Foyle Area (Licensing of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/310)](https://www.legislation.gov.uk/nisr/2010/310), [regs. 1](https://www.legislation.gov.uk/nisr/2010/310/regulation/1), [2](https://www.legislation.gov.uk/nisr/2010/310/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2010/310/schedule)

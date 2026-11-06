@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14.[^key-1cea777099602ceba6b713d53b2a87f4]
+## 14.[^c-1cea777099602ceba6b713d53b2a87f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 19—
 
 ## Annotations
 
-[^key-1cea777099602ceba6b713d53b2a87f4]: Commencement: Reg. 14 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-1cea777099602ceba6b713d53b2a87f4]: Commencement: Reg. 14 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

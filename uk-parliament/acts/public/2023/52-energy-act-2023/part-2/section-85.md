@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Consultation[^key-4cb06c36e592dc4a31772efe92249580][^key-a97708287024e73b6846302eafbeeeb9]
+## 85. Consultation[^c-4cb06c36e592dc4a31772efe92249580][^c-a97708287024e73b6846302eafbeeeb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ and the Secretary of State must consider any representations duly made by person
 
 ## Annotations
 
-[^key-4cb06c36e592dc4a31772efe92249580]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/52/section/85) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(vi)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/vi)
+[^c-4cb06c36e592dc4a31772efe92249580]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/52/section/85) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(vi)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/vi)
 
-[^key-a97708287024e73b6846302eafbeeeb9]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/52/section/85) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-a97708287024e73b6846302eafbeeeb9]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/52/section/85) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

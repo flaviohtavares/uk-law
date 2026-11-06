@@ -22,23 +22,23 @@ summary: ''
 
 Section 73
 
-### Part 1 — Data matching: England[^key-94697700e6669ac2bcfe31cc747458a4]
+### Part 1 — Data matching: England[^c-94697700e6669ac2bcfe31cc747458a4]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-**1.**[^key-94697700e6669ac2bcfe31cc747458a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-94697700e6669ac2bcfe31cc747458a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-94697700e6669ac2bcfe31cc747458a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-94697700e6669ac2bcfe31cc747458a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-94697700e6669ac2bcfe31cc747458a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-94697700e6669ac2bcfe31cc747458a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Data matching: Wales
 
 *Extent: E+W*
 
-**4.**[^key-175a437a2c31d35cb19207415de44d04][^key-8dd722ab0ad25aeda14c50e14e46c1d7] After Part 3 of the Public Audit (Wales) Act 2004 (c. 23) insert—
+**4.**[^c-175a437a2c31d35cb19207415de44d04][^c-8dd722ab0ad25aeda14c50e14e46c1d7] After Part 3 of the Public Audit (Wales) Act 2004 (c. 23) insert—
 
 > **Part 3A — Data matching**
 >
@@ -237,7 +237,7 @@ Section 73
 >
 > (7) In this section “**Welsh public body**” means a public body (as defined in section 12(3)) whose functions relate exclusively to Wales or an area of Wales.
 
-**5.**[^key-22bbaddd32405d7d2cb3bfebc3ba46e4] (1) Paragraph 9 of Schedule 8 to the Government of Wales Act 2006 (c. 32) (special finance provisions) is amended as follows.
+**5.**[^c-22bbaddd32405d7d2cb3bfebc3ba46e4] (1) Paragraph 9 of Schedule 8 to the Government of Wales Act 2006 (c. 32) (special finance provisions) is amended as follows.
 
 (2) In sub-paragraph (3)(b) after “government audit)” insert “ or, so far as the functions relate to local government bodies in Wales, Part 3A of that Act (data matching) ”.
 
@@ -256,7 +256,7 @@ Section 73
 
 *Extent: N.I.*
 
-**6.**[^key-db702762a4d931ff83ca13e6ba8351b2][^key-4cb506783ccb136d0ed8dc99c7434035] After Article 4 of the Audit and Accountability (Northern Ireland) Order 2003 (S.I. 2003/418 (N.I.5)) insert—
+**6.**[^c-db702762a4d931ff83ca13e6ba8351b2][^c-4cb506783ccb136d0ed8dc99c7434035] After Article 4 of the Audit and Accountability (Northern Ireland) Order 2003 (S.I. 2003/418 (N.I.5)) insert—
 
 > **Data matching**
 >
@@ -443,20 +443,20 @@ Section 73
 >
 > but, in the latter case, the body or person is a public body to the extent only of those functions.
 
-**7.**[^key-a847bf174082fd76080a8f4a9cc124e6] In Article 6 of the Audit (Northern Ireland) Order 1987 (S.I. 1987/460 (N.I.5)) (expenses and accounts of Northern Ireland Audit Office), in paragraph (5) after “examination” insert “ or in respect of data matching ”.
+**7.**[^c-a847bf174082fd76080a8f4a9cc124e6] In Article 6 of the Audit (Northern Ireland) Order 1987 (S.I. 1987/460 (N.I.5)) (expenses and accounts of Northern Ireland Audit Office), in paragraph (5) after “examination” insert “ or in respect of data matching ”.
 
 ## Annotations
 
-[^key-94697700e6669ac2bcfe31cc747458a4]: Textual amendment: Sch. 7 Pt. 1 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5) [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-94697700e6669ac2bcfe31cc747458a4]: Textual amendment: Sch. 7 Pt. 1 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5) [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-175a437a2c31d35cb19207415de44d04]: Commencement: Sch. 7 para. 4 in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(i)](https://www.legislation.gov.uk/uksi/2008/219/article/3/i)
+[^c-175a437a2c31d35cb19207415de44d04]: Commencement: Sch. 7 para. 4 in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(i)](https://www.legislation.gov.uk/uksi/2008/219/article/3/i)
 
-[^key-8dd722ab0ad25aeda14c50e14e46c1d7]: Commencement: Sch. 7 para. 4 in force at 6.4.2008 in so far as not already in force by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
+[^c-8dd722ab0ad25aeda14c50e14e46c1d7]: Commencement: Sch. 7 para. 4 in force at 6.4.2008 in so far as not already in force by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
 
-[^key-22bbaddd32405d7d2cb3bfebc3ba46e4]: Commencement: Sch. 7 para. 5 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
+[^c-22bbaddd32405d7d2cb3bfebc3ba46e4]: Commencement: Sch. 7 para. 5 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
 
-[^key-db702762a4d931ff83ca13e6ba8351b2]: Commencement: Sch. 7 para. 6 in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(j)](https://www.legislation.gov.uk/uksi/2008/219/article/3/j)
+[^c-db702762a4d931ff83ca13e6ba8351b2]: Commencement: Sch. 7 para. 6 in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(j)](https://www.legislation.gov.uk/uksi/2008/219/article/3/j)
 
-[^key-4cb506783ccb136d0ed8dc99c7434035]: Commencement: Sch. 7 para. 6 in force at 6.4.2008 in so far as not already in force by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
+[^c-4cb506783ccb136d0ed8dc99c7434035]: Commencement: Sch. 7 para. 6 in force at 6.4.2008 in so far as not already in force by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
 
-[^key-a847bf174082fd76080a8f4a9cc124e6]: Commencement: Sch. 7 para. 7 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
+[^c-a847bf174082fd76080a8f4a9cc124e6]: Commencement: Sch. 7 para. 7 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)

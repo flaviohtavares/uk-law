@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Time limits[^key-1e184666658df96f5bc8a044415a7066]
+## 4. Time limits[^c-1e184666658df96f5bc8a044415a7066]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e184666658df96f5bc8a044415a7066]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1844/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-1e184666658df96f5bc8a044415a7066]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1844/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

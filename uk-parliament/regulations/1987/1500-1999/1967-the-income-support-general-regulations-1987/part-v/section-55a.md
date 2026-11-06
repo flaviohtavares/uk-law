@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55A. Disregard of payments treated as not relevant income[^key-5ac0cd3f3b3b9998846c04ba19712756]
+## 55A. Disregard of payments treated as not relevant income[^c-5ac0cd3f3b3b9998846c04ba19712756]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the Secretary of State treats any payment as not being relevant income for
 
 ## Annotations
 
-[^key-5ac0cd3f3b3b9998846c04ba19712756]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/55A) inserted (19.4.1996) by [The Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations 1996 (S.I. 1996/940)](https://www.legislation.gov.uk/uksi/1996/940), [regs. 1(1), 6(3)](https://www.legislation.gov.uk/uksi/1996/940/regulation/6/3)
+[^c-5ac0cd3f3b3b9998846c04ba19712756]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/55A) inserted (19.4.1996) by [The Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations 1996 (S.I. 1996/940)](https://www.legislation.gov.uk/uksi/1996/940), [regs. 1(1), 6(3)](https://www.legislation.gov.uk/uksi/1996/940/regulation/6/3)

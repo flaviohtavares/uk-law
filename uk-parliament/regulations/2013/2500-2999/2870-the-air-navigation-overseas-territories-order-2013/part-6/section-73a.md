@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73A. Regulation of large unmanned aircraft[^key-7d3ce386f472721bc040a2d33cf519a1]
+## 73A. Regulation of large unmanned aircraft[^c-7d3ce386f472721bc040a2d33cf519a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d3ce386f472721bc040a2d33cf519a1]: Textual amendment: [Art. 73A](https://www.legislation.gov.uk/uksi/2013/2870/article/73A) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/384/article/7/2)
+[^c-7d3ce386f472721bc040a2d33cf519a1]: Textual amendment: [Art. 73A](https://www.legislation.gov.uk/uksi/2013/2870/article/73A) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/384/article/7/2)

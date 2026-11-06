@@ -22,7 +22,7 @@ summary: ''
 
 Article 38(1)
 
-### 1. Movement of susceptible animals in a restricted zone[^key-097bb5e6300fb3aad4c31d51b91dea89]
+### 1. Movement of susceptible animals in a restricted zone[^c-097bb5e6300fb3aad4c31d51b91dea89]
 
 (1) No person shall move a susceptible animal–
 
@@ -124,4 +124,4 @@ The occupier of any collecting centre or slaughterhouse in a restricted zone sha
 
 ## Annotations
 
-[^key-097bb5e6300fb3aad4c31d51b91dea89]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2006/44/schedule/6/paragraph/1) substituted (9.10.2007) by [The Foot-and-Mouth Disease (Scotland) Amendment (No. 2) Order 2007 (S.S.I. 2007/455)](https://www.legislation.gov.uk/ssi/2007/455), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/455/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2007/455/article/2/3)
+[^c-097bb5e6300fb3aad4c31d51b91dea89]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2006/44/schedule/6/paragraph/1) substituted (9.10.2007) by [The Foot-and-Mouth Disease (Scotland) Amendment (No. 2) Order 2007 (S.S.I. 2007/455)](https://www.legislation.gov.uk/ssi/2007/455), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/455/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2007/455/article/2/3)

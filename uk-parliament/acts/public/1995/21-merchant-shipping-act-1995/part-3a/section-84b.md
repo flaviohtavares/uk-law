@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84B. Regulations under section 84A: supplementary[^key-d5382707d9da31be12b155d0d639fe3e]
+## 84B. Regulations under section 84A: supplementary[^c-d5382707d9da31be12b155d0d639fe3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5382707d9da31be12b155d0d639fe3e]: Textual amendment: Pt. 3A inserted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/57/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/6)
+[^c-d5382707d9da31be12b155d0d639fe3e]: Textual amendment: Pt. 3A inserted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/57/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/6)

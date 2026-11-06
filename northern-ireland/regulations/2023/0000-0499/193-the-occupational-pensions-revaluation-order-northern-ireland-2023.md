@@ -46,13 +46,13 @@ The Secretary of State for Work and Pensions has made an Order[^f00003] under pa
 
 Accordingly the Department for Communities makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-ded708a148a9d4f6b11e2abb1985210b]
+## 1. Citation, commencement and interpretation[^c-ded708a148a9d4f6b11e2abb1985210b]
 
 (1) This Order may be cited as the Occupational Pensions (Revaluation) Order (Northern Ireland) 2023 and shall come into operation on 1st January 2024.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to this Order as it applies to an Act of the Assembly.
 
-## 2. The higher and lower revaluation percentages for each revaluation period[^key-727dfd8923e6764f4e2458defd9a2f2a]
+## 2. The higher and lower revaluation percentages for each revaluation period[^c-727dfd8923e6764f4e2458defd9a2f2a]
 
 For the purposes of paragraph 2(1) of Schedule 2 to the Pension Schemes (Northern Ireland) Act 1993 (methods of revaluing accrued pension benefits), for each revaluation period specified in column 1 of the Schedule—
 
@@ -69,7 +69,7 @@ David Tarr
 
 A senior officer of the Department for Communities
 
-## SCHEDULE[^key-f57b24e1e251c53b32dd42c10c5be085]
+## SCHEDULE[^c-f57b24e1e251c53b32dd42c10c5be085]
 
 Article 2
 
@@ -131,10 +131,10 @@ This Order, which corresponds to an Order ([S.I. 2023/1265](https://www.legislat
 
 [^f00004]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48)
 
-[^key-ded708a148a9d4f6b11e2abb1985210b]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/193/article/1) in operation at 1.1.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/193/article/1/1)
+[^c-ded708a148a9d4f6b11e2abb1985210b]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/193/article/1) in operation at 1.1.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/193/article/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-727dfd8923e6764f4e2458defd9a2f2a]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/193/article/2) in operation at 1.1.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/193/article/1/1)
+[^c-727dfd8923e6764f4e2458defd9a2f2a]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/193/article/2) in operation at 1.1.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/193/article/1/1)
 
-[^key-f57b24e1e251c53b32dd42c10c5be085]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2023/193/schedule) in operation at 1.1.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/193/article/1/1)
+[^c-f57b24e1e251c53b32dd42c10c5be085]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2023/193/schedule) in operation at 1.1.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/193/article/1/1)

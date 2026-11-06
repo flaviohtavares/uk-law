@@ -35,50 +35,50 @@ on the technical standards and formats required for a uniform system to enable m
 
 (Text with EEA relevance) (revoked)
 
-[^key-bc343cbfb4528a1f225fa5e3498bc53c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc343cbfb4528a1f225fa5e3498bc53c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter, scope and definitions[^key-bc343cbfb4528a1f225fa5e3498bc53c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. General principles for the transmission and exchange of data[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 1. Subject matter, scope and definitions[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. General principles for the contents and quality of data[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 2. General principles for the transmission and exchange of data[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Roles and responsibilities of the National Coordination Offices[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 3. General principles for the contents and quality of data[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Roles and responsibilities of the European Coordination Office[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 4. Roles and responsibilities of the National Coordination Offices[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Roles and responsibilities of the EURES Members and Partners[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 5. Roles and responsibilities of the European Coordination Office[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Roles and responsibilities of the Coordination Group[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 6. Roles and responsibilities of the EURES Members and Partners[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Technical and functional definitions and specifications for the exchange of data[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 7. Roles and responsibilities of the Coordination Group[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Governance[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 8. Technical and functional definitions and specifications for the exchange of data[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-bc343cbfb4528a1f225fa5e3498bc53c]
+## Article 9. Governance[^c-bc343cbfb4528a1f225fa5e3498bc53c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc343cbfb4528a1f225fa5e3498bc53c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 10. Entry into force[^c-bc343cbfb4528a1f225fa5e3498bc53c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bc343cbfb4528a1f225fa5e3498bc53c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc343cbfb4528a1f225fa5e3498bc53c]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc343cbfb4528a1f225fa5e3498bc53c]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

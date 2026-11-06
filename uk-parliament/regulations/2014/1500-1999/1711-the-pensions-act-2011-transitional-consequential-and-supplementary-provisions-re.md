@@ -52,7 +52,7 @@ In accordance with section 185(1) of the Pension Schemes Act 1993[^f00022], sect
 
 *Extent: E+W+S*
 
-### 1. Citation, commencement, extent and interpretation[^key-59a1416e0d7530a5868c7cd9b947e227]
+### 1. Citation, commencement, extent and interpretation[^c-59a1416e0d7530a5868c7cd9b947e227]
 
 (1) These Regulations may be cited as the Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 and come into force immediately after section 29 of the Pensions Act 2011 (definition of money purchase benefits) comes into force.
 
@@ -84,7 +84,7 @@ In accordance with section 185(1) of the Pension Schemes Act 1993[^f00022], sect
   - (b) to which, under an occupational pension scheme, a member only has rights where the amount of the member’s rights to money purchase benefits falls short of a defined benefit minimum promised to the member; and
 - “value or amount” includes in particular a rate of pension, whether specified under the scheme or determined by reference to external criteria, such as a statutory minimum requirement.
 
-### 2. Meaning of “cash balance benefit”[^key-4b044b890aaa32785c000e7663b0c6c5]
+### 2. Meaning of “cash balance benefit”[^c-4b044b890aaa32785c000e7663b0c6c5]
 
 (1) For the purposes of these Regulations, a benefit is a “cash balance benefit” if conditions 1 and 2 are met.
 
@@ -111,7 +111,7 @@ In accordance with section 185(1) of the Pension Schemes Act 1993[^f00022], sect
 
 *Extent: E+W+S*
 
-### 3. Interpretation and application of this Part[^key-3b649882499607f4e8080527d5844cd8]
+### 3. Interpretation and application of this Part[^c-3b649882499607f4e8080527d5844cd8]
 
 (1) This Part—
 
@@ -127,13 +127,13 @@ In accordance with section 185(1) of the Pension Schemes Act 1993[^f00022], sect
   - (i) the value or amount of which is greater than nil; and
   - (ii) to which, under an occupational pension scheme, a member only has rights where the amount of the member’s rights to money purchase benefits falls short of a defined benefit minimum promised to the member.
 
-### 4. Money purchase underpin benefits[^key-f4db46eec2f7f230194956aff7b870b3]
+### 4. Money purchase underpin benefits[^c-f4db46eec2f7f230194956aff7b870b3]
 
 (1) If, at the relevant date, a member of an occupational pension scheme has rights under the scheme to money purchase underpin benefits, the existence of a contingent promise under the scheme to provide a defined benefit minimum to the member does not prevent the money purchase underpin benefits from being money purchase benefits for as long as the defined benefit minimum is of equal or lower value than the amount of the member’s rights to money purchase underpin benefits.
 
 (2) In this regulation “the relevant date” means the date as at which the amount of the money purchase underpin benefits and the value of a defined benefit minimum promised under the scheme is being compared (for any purpose) in order to determine which is greater.
 
-### 5. Top-up benefits[^key-8256b4088dae08883749a99ecc4abee2]
+### 5. Top-up benefits[^c-8256b4088dae08883749a99ecc4abee2]
 
 (1) If, at the relevant date, a member of an occupational pension scheme has rights to—
 
@@ -148,13 +148,13 @@ the amount of the member’s rights to money purchase benefits by reference to w
 
 *Extent: E+W+S*
 
-**6.**[^key-d441dbe9231fd05af419f2e29d0662dc] No provision of Part 4 of the Act (money purchase benefits) or of these Regulations applies to or in relation to the Imperial Home Decor Scheme.
+**6.**[^c-d441dbe9231fd05af419f2e29d0662dc] No provision of Part 4 of the Act (money purchase benefits) or of these Regulations applies to or in relation to the Imperial Home Decor Scheme.
 
 ## PART 4 — Protected rights
 
 *Extent: E+W+S*
 
-### 7. Schemes which provided protected rights as cash balance benefits etc[^key-15ac00ca9609f2bb3376232e8c348c12]
+### 7. Schemes which provided protected rights as cash balance benefits etc[^c-15ac00ca9609f2bb3376232e8c348c12]
 
 (1) This regulation applies to an occupational pension scheme—
 
@@ -180,7 +180,7 @@ in relation to the earner’s pensionable service under the scheme.
 
 *Extent: E+W+S*
 
-### 8. The subsisting rights provisions[^key-b6ab66f3d4ef602c5797d1fc8fd8209a]
+### 8. The subsisting rights provisions[^c-b6ab66f3d4ef602c5797d1fc8fd8209a]
 
 (1) This regulation applies where—
 
@@ -201,7 +201,7 @@ in relation to the earner’s pensionable service under the scheme.
 
 are satisfied, section 67A(3)(a) of that Act (the subsisting rights provisions: interpretation)[^f00033] applies as if the right or entitlement to a benefit specified in paragraph (2) which was replaced by or converted to a right or entitlement to money purchase benefits were a right or entitlement to money purchase benefits.
 
-### 9. Money purchase underpin benefits and top-up benefits[^key-be82bf7c2f2213a506fcc2d301bcd9a0]
+### 9. Money purchase underpin benefits and top-up benefits[^c-be82bf7c2f2213a506fcc2d301bcd9a0]
 
 (1) This regulation applies in relation to any time on or after the appointed day when a member of an occupational pension scheme or a survivor of a member has under the scheme a right or entitlement to—
 
@@ -238,11 +238,11 @@ are satisfied, section 67A(3)(a) of that Act (the subsisting rights provisions: 
 
 *Extent: E+W+S*
 
-### 10. Application of this Part in relation to multi-employer schemes[^key-3db86864f7652a7901cafb4bfd4d9cd4]
+### 10. Application of this Part in relation to multi-employer schemes[^c-3db86864f7652a7901cafb4bfd4d9cd4]
 
 Where, by virtue of regulation 12 of the Occupational Pension Schemes (Winding Up) Regulations 1996 (winding up of sectionalised schemes etc)[^f00034], section 73 of the 1995 Act (preferential liabilities on winding up)[^f00035] applied or applies to a scheme as if a section or part of the scheme were separate schemes (or would do or have done so, but for these Regulations), this Part also so applies.
 
-### 11. Schemes treated as money purchase schemes: winding up commencing before 6th April 2005[^key-9fcbe1f6bb93e9aaf3d0052e1e268e91]
+### 11. Schemes treated as money purchase schemes: winding up commencing before 6th April 2005[^c-9fcbe1f6bb93e9aaf3d0052e1e268e91]
 
 (1) This regulation applies where—
 
@@ -269,7 +269,7 @@ Where, by virtue of regulation 12 of the Occupational Pension Schemes (Winding U
 - (b) the scheme included no benefits other than those specified in sub-paragraph (a), money purchase benefits or death benefits; and
 - (c) the trustees or managers of the scheme treated the scheme as a money purchase scheme.
 
-### 12. Non-money purchase schemes providing benefits treated as money purchase benefits: winding up commencing before 6th April 2005[^key-08c3949bc28e5a07d475368b816193a4]
+### 12. Non-money purchase schemes providing benefits treated as money purchase benefits: winding up commencing before 6th April 2005[^c-08c3949bc28e5a07d475368b816193a4]
 
 (1) This regulation applies where an occupational pension scheme not treated by the trustees or managers of the scheme as a money purchase scheme began to wind up before 6th April 2005 (whether or not winding up has been completed by the appointed day).
 
@@ -291,7 +291,7 @@ Where, by virtue of regulation 12 of the Occupational Pension Schemes (Winding U
 - (a) the scheme included cash balance benefits; and
 - (b) the trustees or managers of the scheme treated those benefits as if they were money purchase benefits.
 
-### 13. Schemes treated as money purchase schemes: winding up commencing on or after 6th April 2005 but before the appointed day[^key-e1333ea118436586e7c3b72ff35c4dca]
+### 13. Schemes treated as money purchase schemes: winding up commencing on or after 6th April 2005 but before the appointed day[^c-e1333ea118436586e7c3b72ff35c4dca]
 
 (1) This regulation applies where an occupational pension scheme which was treated as a money purchase scheme began to wind up on or after 6th April 2005 but before the appointed day (whether or not winding up has been completed by the appointed day).
 
@@ -319,7 +319,7 @@ Where, by virtue of regulation 12 of the Occupational Pension Schemes (Winding U
 
 .
 
-### 14. Non-money purchase schemes including benefits treated as money purchase benefits: winding up commencing on or after 6th April 2005 but before the appointed day[^key-43fdc314b919948989d4fb049c1b2ba0]
+### 14. Non-money purchase schemes including benefits treated as money purchase benefits: winding up commencing on or after 6th April 2005 but before the appointed day[^c-43fdc314b919948989d4fb049c1b2ba0]
 
 (1) This regulation applies where an occupational pension scheme not treated by the trustees or managers of the scheme as a money purchase scheme began to wind up on or after 6th April 2005, but before the appointed day (whether or not winding up has been completed by the appointed day).
 
@@ -335,7 +335,7 @@ Where, by virtue of regulation 12 of the Occupational Pension Schemes (Winding U
 - (d) pensions derived from money purchase benefits; and
 - (e) pensions derived from any of the benefits specified in sub-paragraphs (a) to (c).
 
-### 15. Schemes winding up after an assessment period[^key-d0a36354b2fa8183924a6863b0c86e40]
+### 15. Schemes winding up after an assessment period[^c-d0a36354b2fa8183924a6863b0c86e40]
 
 (1) This regulation applies where an assessment period in relation to an occupational pension scheme began before the appointed day and either—
 
@@ -355,7 +355,7 @@ Where, by virtue of regulation 12 of the Occupational Pension Schemes (Winding U
 
 section 73 of the 1995 Act applies in relation to the benefits treated as money purchase benefits as if those benefits were money purchase benefits.
 
-### 16. Closed schemes: further assessment periods[^key-4180019a36d84f2ced4a5d015595e081]
+### 16. Closed schemes: further assessment periods[^c-4180019a36d84f2ced4a5d015595e081]
 
 (1) This regulation applies where—
 
@@ -375,7 +375,7 @@ section 73 of the 1995 Act applies in relation to the benefits treated as money 
 
 (4) Where the trustees or managers of the scheme are required to wind up or continue to wind up the scheme in accordance with paragraph (2), section 73 of the 1995 Act applies in relation to the benefits treated as money purchase benefits as if those benefits were money purchase benefits.
 
-### 17. Discharge of pensions in payment derived from additional voluntary contributions treated as money purchase benefits: scheme commencing winding up on or after the appointed day[^key-f030849800fd0f149a9a3ad402a26a88]
+### 17. Discharge of pensions in payment derived from additional voluntary contributions treated as money purchase benefits: scheme commencing winding up on or after the appointed day[^c-f030849800fd0f149a9a3ad402a26a88]
 
 (1) Subject to paragraph (3), where the conditions specified in paragraph (2) are met in relation to a member’s pension or part of a pension in payment, the trustees or managers of an occupational pension scheme may determine that the pension or part of a pension should be discharged as if it were money purchase benefits.
 
@@ -394,7 +394,7 @@ section 73 of the 1995 Act applies in relation to the benefits treated as money 
 
 *Extent: E+W+S*
 
-### 18. Interpretation[^key-68f8c9e88771715f66da7fe25a190337]
+### 18. Interpretation[^c-68f8c9e88771715f66da7fe25a190337]
 
 In this Part—
 
@@ -409,14 +409,14 @@ In this Part—
   - (d) an approved withdrawal arrangement; and
   - (e) a regulated apportionment arrangement.
 
-### 19. Application to multi-employer schemes[^key-3a8b495ed69e1208584cdbe81ad2ed1b]
+### 19. Application to multi-employer schemes[^c-3a8b495ed69e1208584cdbe81ad2ed1b]
 
 Where, by virtue of regulation 8 (single employer sections, multi-employer sections etc)[^f00045], 14 (schemes covering United Kingdom and foreign employment)[^f00046] or 15 (schemes with partial government guarantee)[^f00047] of the Employer Debt Regulations, section 75 of the 1995 Act applied before the appointed day to a scheme in relation to which there is more than one employer as if a section or part of the scheme were a separate scheme (or would have so applied but for these Regulations)—
 
 - (a) this Part also so applies; and
 - (b) “employer” and “member” must be read accordingly.
 
-### 20. Application of section 75 of the 1995 Act to schemes treated as money purchase schemes: periods before the appointed day[^key-e3a64c074600d6a55b1cbfa5425441c4]
+### 20. Application of section 75 of the 1995 Act to schemes treated as money purchase schemes: periods before the appointed day[^c-e3a64c074600d6a55b1cbfa5425441c4]
 
 (1) Where, on the appointed day, the conditions specified in paragraph (2) are met in relation to an occupational pension scheme, section 75 of the 1995 Act does not apply to the scheme in relation to any time before the appointed day.
 
@@ -429,7 +429,7 @@ Where, by virtue of regulation 8 (single employer sections, multi-employer secti
   - (iii) the trustees or managers of the scheme treated the scheme as a money purchase scheme; and
   - (iv) for that reason, the trustees or managers treated the scheme as if section 75 of that Act did not apply to it.
 
-### 21. Application of section 75 of the 1995 Act to non-money purchase schemes including benefits treated as money purchase benefits: periods before the appointed day[^key-ba28ce27359d2a76523fac3c0ed66d82]
+### 21. Application of section 75 of the 1995 Act to non-money purchase schemes including benefits treated as money purchase benefits: periods before the appointed day[^c-ba28ce27359d2a76523fac3c0ed66d82]
 
 (1) This regulation applies where before the appointed day—
 
@@ -449,7 +449,7 @@ Where, by virtue of regulation 8 (single employer sections, multi-employer secti
 
 (4) Where this regulation applies, section 75 of the 1995 Act applies in relation to the time that the debt referred to in paragraph (1)(b) became due (or would have become due if this regulation did not apply) as if the assets and liabilities relating to the benefits specified in paragraph (2) which were treated as money purchase benefits for the purposes of calculating the debt referred to in paragraph (1)(b) related to money purchase benefits.
 
-### 22. Non-money purchase schemes which are multi-employer schemes: arrangements before the appointed day[^key-353648fdd26dde6f5fac10c080fd827e]
+### 22. Non-money purchase schemes which are multi-employer schemes: arrangements before the appointed day[^c-353648fdd26dde6f5fac10c080fd827e]
 
 (1) This regulation applies where at any time before the appointed day an occupational pension scheme which was a multi-employer scheme—
 
@@ -460,7 +460,7 @@ Where, by virtue of regulation 8 (single employer sections, multi-employer secti
 
 (3) Where this regulation applies, section 75 of that Act applies at the time that that debt became due (or would have become due if this regulation did not apply), as if the assets and liabilities relating to the benefits specified in regulation 21(2) which were treated as money purchase benefits for the purposes of calculating an employer’s share of the difference, related to money purchase benefits.
 
-### 23. Schemes or benefits treated as money purchase falling outside regulations 20 to 22[^key-4f2fd49f62dd019a96d59c11ad96beba]
+### 23. Schemes or benefits treated as money purchase falling outside regulations 20 to 22[^c-4f2fd49f62dd019a96d59c11ad96beba]
 
 (1) Subject to paragraph (11), this regulation applies where—
 
@@ -517,7 +517,7 @@ Where, by virtue of regulation 8 (single employer sections, multi-employer secti
 - “recovery plan” is a recovery plan prepared in accordance with section 226 of the 2004 Act; and
 - “statutory funding objective” is the requirement mentioned in section 222 of that Act.
 
-### 24. Schemes or benefits treated as money purchase falling outside regulations 20 to 22: insolvent employer[^key-875fe581c98d09c47b0706a329301260]
+### 24. Schemes or benefits treated as money purchase falling outside regulations 20 to 22: insolvent employer[^c-875fe581c98d09c47b0706a329301260]
 
 (1) This regulation applies where—
 
@@ -534,7 +534,7 @@ Where, by virtue of regulation 8 (single employer sections, multi-employer secti
 
 *Extent: E+W+S*
 
-### 25. Revaluation of cash balance benefits etc: pensionable service before the appointed day[^key-9d379ce81a3e2b293f223f120e275657]
+### 25. Revaluation of cash balance benefits etc: pensionable service before the appointed day[^c-9d379ce81a3e2b293f223f120e275657]
 
 (1) Where—
 
@@ -562,7 +562,7 @@ if the trustees or managers of the scheme think it appropriate, so much of those
 
 (4) Where the trustees or managers of the scheme determine that benefits should be revalued in accordance with this regulation, section 84 of the 1993 Act applies in relation to those benefits revalued in accordance with this regulation as if they were money purchase benefits.
 
-### 26. Indexation of cash balance benefits etc: pensions in payment before the appointed day[^key-0146eb9bd10b11e514b865bf772079bb]
+### 26. Indexation of cash balance benefits etc: pensions in payment before the appointed day[^c-0146eb9bd10b11e514b865bf772079bb]
 
 (1) Section 51 of the 1995 Act (annual increase in rate of pension)[^f00049] does not apply to a pension or part of a pension payable under an occupational pension scheme which meets the conditions specified in paragraph (2).
 
@@ -580,7 +580,7 @@ if the trustees or managers of the scheme think it appropriate, so much of those
 - (b) a defined benefit minimum (in relation to money purchase underpin benefits or cash balance underpin benefits); and
 - (c) top-up benefits.
 
-### 27. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991[^key-8e3f0718fcef478c3d0e5bed47cd482a]
+### 27. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991[^c-8e3f0718fcef478c3d0e5bed47cd482a]
 
 (1) The Occupational Pension Schemes (Preservation of Benefit) Regulations 1991[^f00050] are amended as follows.
 
@@ -601,7 +601,7 @@ if the trustees or managers of the scheme think it appropriate, so much of those
 
 .
 
-### 28. Amendment of the Occupational Pension Schemes (Revaluation) Regulations 1991[^key-221fe42188e81c5875b21618f7e5dc49]
+### 28. Amendment of the Occupational Pension Schemes (Revaluation) Regulations 1991[^c-221fe42188e81c5875b21618f7e5dc49]
 
 (1) Regulation 4 of the Occupational Pension Schemes (Revaluation) Regulations 1991 (hybrid benefits)[^f00053] is amended as follows.
 
@@ -615,11 +615,11 @@ if the trustees or managers of the scheme think it appropriate, so much of those
 
 *Extent: E+W+S*
 
-### 29. Interpretation[^key-78f8d7b8aa2e4702849abd235ab5d9bd]
+### 29. Interpretation[^c-78f8d7b8aa2e4702849abd235ab5d9bd]
 
 In this Part “the Transfer Values Regulations” means the Occupational Pension Schemes (Transfer Values) Regulations 1996[^f00054].
 
-### 30. Cash equivalent of cash balance benefits etc treated as money purchase benefits: transitional arrangements[^key-0ac67c4755e27d267b15612a4d282fe1]
+### 30. Cash equivalent of cash balance benefits etc treated as money purchase benefits: transitional arrangements[^c-0ac67c4755e27d267b15612a4d282fe1]
 
 (1) This regulation applies where—
 
@@ -647,7 +647,7 @@ In this Part “the Transfer Values Regulations” means the Occupational Pensio
 
 they are discharged from the obligation to provide the benefits to which that cash equivalent value relates, as if section 99(1) of that Act (trustees’ duties after exercise of option)[^f00060] applied.
 
-### 31. Statement of entitlement in relation to cash balance benefits etc treated as money purchase benefits: periods before the appointed day[^key-f3b64051de5f94d02ab55f55f85d44da]
+### 31. Statement of entitlement in relation to cash balance benefits etc treated as money purchase benefits: periods before the appointed day[^c-f3b64051de5f94d02ab55f55f85d44da]
 
 (1) Where the conditions specified in paragraph (2) are met—
 
@@ -660,7 +660,7 @@ they are discharged from the obligation to provide the benefits to which that ca
 - (a) the trustees or managers of an occupational pension scheme have not, on the application of a member of the scheme made in accordance with section 93A(1) of the 1993 Act, provided the member with a statement of entitlement of the amount of the cash equivalent of cash balance benefits, a defined benefit minimum (in relation to money purchase underpin benefits or cash balance underpin benefits) or top-up benefits which have accrued to or in respect of the member under the applicable rules; and
 - (b) the trustees or managers of the scheme did not provide a statement of entitlement because, at the time that they received the application, those benefits were treated by the trustees or managers as money purchase benefits.
 
-### 32. Amendment of the Transfer Values Regulations[^key-fd32d41e7d2f7b1f3d0e1448adebd09a]
+### 32. Amendment of the Transfer Values Regulations[^c-fd32d41e7d2f7b1f3d0e1448adebd09a]
 
 (1) The Transfer Values Regulations are amended as follows.
 
@@ -740,9 +740,9 @@ they are discharged from the obligation to provide the benefits to which that ca
 
 *Extent: E+W+S*
 
-**33.**[^key-0489c66a12262be8ce31345f03c5edc0] In this Part “the Early Leavers Regulations” mean the Occupational Pension Schemes (Early Leavers: Cash Transfer Sums and Contribution Refunds) Regulations 2006[^f00066].
+**33.**[^c-0489c66a12262be8ce31345f03c5edc0] In this Part “the Early Leavers Regulations” mean the Occupational Pension Schemes (Early Leavers: Cash Transfer Sums and Contribution Refunds) Regulations 2006[^f00066].
 
-### 34. Cash transfer sum: cash balance benefits etc treated as money purchase benefits[^key-9b408b170891d2d189f913e4abd696b5]
+### 34. Cash transfer sum: cash balance benefits etc treated as money purchase benefits[^c-9b408b170891d2d189f913e4abd696b5]
 
 (1) Where the conditions specified in paragraph (2) are met, a cash transfer sum to which the member has acquired a right under section 101AB of the 1993 Act (right to cash transfer sum and contribution refund)[^f00067] is to be calculated as if it related to money purchase benefits.
 
@@ -762,7 +762,7 @@ they are discharged from the obligation to provide the benefits to which that ca
 
 the trustees or managers of the scheme are discharged from any obligation in respect of any rights (including contingent rights) of, or in respect of, the member to the benefits to which the cash transfer sum relates, or to make any other payment by way of refund of contributions made by or in respect of the member (other than any pension credit or amount attributable (directly or indirectly) to a pension credit).
 
-### 35. Amendment of the Early Leavers Regulations[^key-b6b762f93fa8a68a884357adf8c05cf8]
+### 35. Amendment of the Early Leavers Regulations[^c-b6b762f93fa8a68a884357adf8c05cf8]
 
 (1) The Early Leavers Regulations are amended as follows.
 
@@ -841,7 +841,7 @@ the trustees or managers of the scheme are discharged from any obligation in res
 
 *Extent: E+W+S*
 
-### 36. Interpretation[^key-4d367357253366fdc00c7e93667f4749]
+### 36. Interpretation[^c-4d367357253366fdc00c7e93667f4749]
 
 (1) In this Part—
 
@@ -855,7 +855,7 @@ the trustees or managers of the scheme are discharged from any obligation in res
 
 this Part applies as if each section of the scheme were a separate scheme.
 
-### 37. Failure to comply with the requirements of section 37 or 76 of the 1995 Act: periods before the appointed day[^key-2082f0be6525894c6e5ba5181559dd43]
+### 37. Failure to comply with the requirements of section 37 or 76 of the 1995 Act: periods before the appointed day[^c-2082f0be6525894c6e5ba5181559dd43]
 
 (1) Where the conditions specified in paragraph (2) are met neither—
 
@@ -877,7 +877,7 @@ this Part applies as if each section of the scheme were a separate scheme.
 
   before exercising the power to make a payment to the employer.
 
-### 38. Non money-purchase schemes providing cash balance benefits etc[^key-f76f1b7eaa798038dddd4edcbd98570d]
+### 38. Non money-purchase schemes providing cash balance benefits etc[^c-f76f1b7eaa798038dddd4edcbd98570d]
 
 (1) Where the circumstances specified in paragraph (2) apply—
 
@@ -898,7 +898,7 @@ this Part applies as if each section of the scheme were a separate scheme.
 - (d) pensions derived from money purchase benefits; and
 - (e) pensions derived from any of the benefits specified in sub-paragraphs (a) to (c).
 
-### 39. Amendment of the Payments to Employer Regulations[^key-bed9079f9fc14949eb199854013d4c98]
+### 39. Amendment of the Payments to Employer Regulations[^c-bed9079f9fc14949eb199854013d4c98]
 
 For the definition of “money purchase benefits” in regulation 2 of the Payments to Employer Regulations (interpretation) substitute—
 
@@ -910,7 +910,7 @@ For the definition of “money purchase benefits” in regulation 2 of the Payme
 
 *Extent: E+W+S*
 
-### 40. Modification of the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^key-20c8c54733fcf50a6d91d05e93109cd5]
+### 40. Modification of the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^c-20c8c54733fcf50a6d91d05e93109cd5]
 
 (1) This regulation applies where during any period before the appointed day—
 
@@ -925,7 +925,7 @@ For the definition of “money purchase benefits” in regulation 2 of the Payme
 
 (3) The requirement in paragraph (2)(b) to appoint an actuary in accordance with section 47(1)(b) of that Act does not apply where, in relation to any period, the scheme is exempted from that requirement by regulation 3 of the Scheme Administration Regulations.
 
-### 41. Scheme accounts[^key-3aa5508d5218bf258e6ef697b82cdaa7]
+### 41. Scheme accounts[^c-3aa5508d5218bf258e6ef697b82cdaa7]
 
 (1) This regulation applies where, before the appointed day—
 
@@ -938,7 +938,7 @@ For the definition of “money purchase benefits” in regulation 2 of the Payme
 
 *Extent: E+W+S*
 
-### 42. Interpretation[^key-063bc7280ca04f4bb1d6e9b9bd624dd1]
+### 42. Interpretation[^c-063bc7280ca04f4bb1d6e9b9bd624dd1]
 
 (1) In this Part—
 
@@ -968,7 +968,7 @@ For the definition of “money purchase benefits” in regulation 2 of the Payme
 - (a) this Part also so applies; and
 - (b) “admissible rules”, “employer”, “member” and “trustees or managers of the scheme” must be read accordingly.
 
-### 43. Eligibility: schemes treated as money purchase schemes[^key-e93b778725728f2de54f656f59b70101]
+### 43. Eligibility: schemes treated as money purchase schemes[^c-e93b778725728f2de54f656f59b70101]
 
 (1) Subject to paragraph (3), where the Board considers that the conditions specified in paragraph (2) are met in relation to an occupational pension scheme—
 
@@ -993,7 +993,7 @@ For the definition of “money purchase benefits” in regulation 2 of the Payme
 
 (6) In this regulation, “insolvency event” has the meaning given by section 121 of the 2004 Act (insolvency event, insolvency date and insolvency practitioner)[^f00085].
 
-### 44. Validity of valuations etc, determinations, transfer notices and discharge of benefits before the appointed day[^key-086df1e0d2547ccb1834f28a8bf69163]
+### 44. Validity of valuations etc, determinations, transfer notices and discharge of benefits before the appointed day[^c-086df1e0d2547ccb1834f28a8bf69163]
 
 (1) Where the conditions specified in paragraph (2) are met, no provision of Part 4 of the Act or of these Regulations affects the validity, in relation to any period before the appointed day, of—
 
@@ -1021,7 +1021,7 @@ For the definition of “money purchase benefits” in regulation 2 of the Payme
 - (c) top-up benefits; and
 - (d) pensions derived from any of the benefits specified in sub-paragraphs (a) to (c) or from money purchase benefits.
 
-### 45. Schemes which become eligible schemes: provision of valuations to determine scheme underfunding[^key-36460f45c863b8c18f65cd434fc612a6]
+### 45. Schemes which become eligible schemes: provision of valuations to determine scheme underfunding[^c-36460f45c863b8c18f65cd434fc612a6]
 
 (1) Where the conditions specified in regulation 43(2) (eligibility: schemes treated as money purchase schemes) are met in relation to an occupational pension scheme, the trustees or managers of the scheme must obtain and provide an actuarial valuation of the scheme (“the first valuation”) for the purposes of section 179 of the 2004 Act (valuations to determine scheme underfunding) to the Board, or to the Regulator on the Board’s behalf, on or before 31st March 2015.
 
@@ -1035,7 +1035,7 @@ For the definition of “money purchase benefits” in regulation 2 of the Payme
 
 (6) In this regulation “protected liabilities” means the cost of securing benefits for and in respect of members of the scheme which correspond to the compensation which would be payable, in relation to the scheme, in accordance with the pension compensation provisions (see section 162 of the 2004 Act (the pension compensation provisions)) if the scheme were an eligible scheme for which the Board were to assume responsibility.
 
-### 46. Provision of information: schemes and benefits treated as money purchase[^key-cc98fd2e012dbc80a3cb4b29ee3c869e]
+### 46. Provision of information: schemes and benefits treated as money purchase[^c-cc98fd2e012dbc80a3cb4b29ee3c869e]
 
 (1) This regulation applies—
 
@@ -1061,7 +1061,7 @@ the Board, or the Regulator on the Board’s behalf, may direct the trustees or 
 
 (6) Where a direction under paragraph (3) given to the trustees or managers of a scheme is not complied with, section 10 of the 1995 Act (civil penalties)[^f00094] applies to any trustee or manager who has failed to take all reasonable steps to secure compliance with the direction.
 
-### 47. Eligible schemes including benefits treated as money purchase benefits: initial levy and pension protection levies[^key-6c1829975380982ef2224a3a99da81d3]
+### 47. Eligible schemes including benefits treated as money purchase benefits: initial levy and pension protection levies[^c-6c1829975380982ef2224a3a99da81d3]
 
 (1) For the purposes of the initial levy and the pension protection levies, where the conditions specified in paragraph (2) are met, and subject to paragraph (4), no provision of Part 4 of the Act or of these Regulations—
 
@@ -1088,7 +1088,7 @@ the Board, or the Regulator on the Board’s behalf, may direct the trustees or 
 
 (4) Paragraph (1) is subject to the power of the Board, or the Regulator on the Board’s behalf, to direct the trustees or managers of an eligible scheme to obtain and provide an out-of-cycle valuation under regulation 49(1) (eligible schemes including benefits which become non-money purchase: power to direct out-of-cycle valuations).
 
-### 48. Schemes which become eligible schemes: administration levy and pension protection levies: periods after the appointed day[^key-137df4ebd98842dce8df27be20689d23]
+### 48. Schemes which become eligible schemes: administration levy and pension protection levies: periods after the appointed day[^c-137df4ebd98842dce8df27be20689d23]
 
 (1) The trustees or managers of an occupational pension scheme which becomes an eligible scheme on 1st April 2015 in accordance with regulation 43(1)(b) are liable to pay the administration levy and the pension protection levy in respect of the scheme with effect from that date.
 
@@ -1096,7 +1096,7 @@ the Board, or the Regulator on the Board’s behalf, may direct the trustees or 
 
 (3) In the case of the late payment of the pension protection levy under this regulation, interest is to be charged in accordance with regulation 19A of the PPF Miscellaneous Regulations (interest for late payment of the pension protection levy)[^f00096], unless the Board has granted a waiver under those Regulations.
 
-### 49. Eligible schemes including benefits which become non-money purchase: power to direct out-of-cycle valuations[^key-31601f21db0429ce81bcd2dca00b8183]
+### 49. Eligible schemes including benefits which become non-money purchase: power to direct out-of-cycle valuations[^c-31601f21db0429ce81bcd2dca00b8183]
 
 (1) Where the conditions specified in regulation 47(2) apply to an occupational pension scheme, the Board, or the Regulator on the Board’s behalf, may direct the trustees or managers of the scheme to obtain and provide to the Board an out-of-cycle valuation in relation to the scheme for any financial year beginning on 1st April 2015, 2016 or 2017.
 
@@ -1119,7 +1119,7 @@ the Board, or the Regulator on the Board’s behalf, may direct the trustees or 
 - (a) after the appointed day; and
 - (b) within the period of three years beginning immediately after the relevant time of the last actuarial valuation for the purposes of section 179 of the 2004 Act (whether the relevant time of that valuation was before, on or after the appointed day).
 
-### 50. Waiver of Fraud Compensation Levy: periods before the appointed day[^key-731ac674fa7278ee174b702456a2b0e0]
+### 50. Waiver of Fraud Compensation Levy: periods before the appointed day[^c-731ac674fa7278ee174b702456a2b0e0]
 
 (1) Where the conditions specified in paragraph (2) are met, a waiver by the Board of payment of an amount due in relation to any fraud compensation levy imposed under section 189 of the 2004 Act (fraud compensation levy), in accordance with regulation 7 of the Fraud Compensation Levy Regulations (waiver)[^f00097], applies as if the scheme had been a money purchase scheme at the time of the waiver.
 
@@ -1132,7 +1132,7 @@ the Board, or the Regulator on the Board’s behalf, may direct the trustees or 
   - (ii) the scheme included no benefits other than benefits falling within paragraph (i), money purchase benefits or death benefits; and
 - (d) the trustees or managers of the scheme treated the scheme as if it were a money purchase scheme.
 
-### 51. Discharge of cash equivalent of benefits treated as money purchase[^key-c314ee2653349794d8c53739b1dc2593]
+### 51. Discharge of cash equivalent of benefits treated as money purchase[^c-c314ee2653349794d8c53739b1dc2593]
 
 Where—
 
@@ -1141,7 +1141,7 @@ Where—
 
 the Board may secure the discharge of the cash equivalent of the member’s accrued rights to benefits specified in regulation 30(1)(a) which were treated by the trustees or managers of the scheme as money purchase benefits as if those benefits were money purchase benefits.
 
-### 52. Schemes continuing as closed schemes after an assessment period[^key-98cd0f95ce9d557c6727a989909434c0]
+### 52. Schemes continuing as closed schemes after an assessment period[^c-98cd0f95ce9d557c6727a989909434c0]
 
 (1) This regulation applies where—
 
@@ -1167,7 +1167,7 @@ the Board may secure the discharge of the cash equivalent of the member’s accr
 - (a) paragraph (2) does not apply; and
 - (b) the trustees or managers of the scheme must treat those benefits in accordance with the direction or determination of the Board.
 
-### 53. Discharge as money purchase liabilities: periods before the appointed day[^key-bcac96188a7eca62f2e61d9903b7bc13]
+### 53. Discharge as money purchase liabilities: periods before the appointed day[^c-bcac96188a7eca62f2e61d9903b7bc13]
 
 (1) Where the Board or the trustees or managers of an occupational pension scheme have, before the appointed day, secured the discharge of liabilities in respect of any of the benefits specified in regulation 44(3) (validity of valuations etc, determinations, transfer notices and discharge of benefits before the appointed day) that discharge is to be regarded as having been made—
 
@@ -1176,7 +1176,7 @@ the Board may secure the discharge of the cash equivalent of the member’s accr
 
 (2) Where paragraph (1)(a) or (b) applies, the relevant Pension Protection Fund provisions apply in relation to the liabilities discharged and the assets applied towards their discharge as if they were liabilities for, and assets applied towards, money purchase benefits.
 
-### 54. Discharge as money purchase liabilities: periods after the appointed day[^key-1ad7c474967470b8cf50f12b38cbb6e6]
+### 54. Discharge as money purchase liabilities: periods after the appointed day[^c-1ad7c474967470b8cf50f12b38cbb6e6]
 
 (1) Where—
 
@@ -1190,7 +1190,7 @@ the Board may determine, in the circumstances specified in paragraph (2), that b
 - (a) that, immediately before that assessment period or further assessment period began, the trustees or managers of the scheme treated those benefits as money purchase benefits; and
 - (b) that it is reasonable in the circumstances to treat those benefits as money purchase benefits for the purposes of the relevant Pension Protection Fund provisions.
 
-### 55. Closed schemes: Board’s assumption of responsibility after the appointed day[^key-03ab4f7476bfdf9673e32c8a22b21a85]
+### 55. Closed schemes: Board’s assumption of responsibility after the appointed day[^c-03ab4f7476bfdf9673e32c8a22b21a85]
 
 (1) This regulation applies where—
 
@@ -1208,7 +1208,7 @@ the Board may determine, in the circumstances specified in paragraph (2), that b
   - (i) the trustees or managers of the scheme have determined in accordance with regulation 52(2) (schemes continuing as closed schemes after an assessment period) that benefits specified in regulation 52(4) should continue to be treated as money purchase benefits; or
   - (ii) the trustees or managers of the scheme have, in accordance with regulation 52(5)(b), treated those benefits as money purchase benefits in accordance with a determination or a direction made by the Board.
 
-### 56. Discharge as money purchase benefits: scheme right to transfer payment or contribution refund[^key-582669580f87f55b882a8ac005ca5b13]
+### 56. Discharge as money purchase benefits: scheme right to transfer payment or contribution refund[^c-582669580f87f55b882a8ac005ca5b13]
 
 (1) Where the Board is satisfied that—
 
@@ -1225,7 +1225,7 @@ the Board may determine that those benefits are to be treated, for the purposes 
 
 (2) In this regulation “transfer payment” means a payment to another occupational pension scheme or a personal pension scheme in respect of the member’s rights under the scheme.
 
-### 57. Discharge of pensions in payment derived from additional voluntary contributions treated as money purchase benefits: periods after the appointed day[^key-3dfde7316f0b721ba90970d1a30055e5]
+### 57. Discharge of pensions in payment derived from additional voluntary contributions treated as money purchase benefits: periods after the appointed day[^c-3dfde7316f0b721ba90970d1a30055e5]
 
 (1) Where the conditions specified in paragraph (2) are met in relation to a member’s pension in payment under an occupational pension scheme, the Board may give the trustees or managers of an eligible scheme a direction regarding the exercise of the trustees or managers’ power to determine that the member’s pension or part of a pension should be discharged as if it were money purchase benefits (see regulation 17 (discharge of pensions in payment derived from additional voluntary contributions treated as money purchase benefits: scheme commencing winding up on or after the appointed day)).
 
@@ -1240,7 +1240,7 @@ the Board may determine that those benefits are to be treated, for the purposes 
 
 (3) Where the Board directs the trustees or managers of an eligible scheme, in accordance with paragraph (1), that a pension or part of a pension should be discharged as if it were money purchase benefits, the relevant Pension Protection Fund provisions apply as if the pension or part of a pension discharged were a money purchase benefit.
 
-### 58. Modification of the Pension Protection Fund (Entry Rules) Regulations 2005[^key-7f302019dfd12deadfd595c9dd50ef72]
+### 58. Modification of the Pension Protection Fund (Entry Rules) Regulations 2005[^c-7f302019dfd12deadfd595c9dd50ef72]
 
 (1) The Entry Rules Regulations[^f00101] are amended as follows.
 
@@ -1281,7 +1281,7 @@ the Board may determine that those benefits are to be treated, for the purposes 
 
   .
 
-### 59. Modification of the Pension Protection Fund (Compensation) Regulations 2005 where there is no provision for a survivor’s pension[^key-d264f9b9d18280c4daf98dce58d5e1b3]
+### 59. Modification of the Pension Protection Fund (Compensation) Regulations 2005 where there is no provision for a survivor’s pension[^c-d264f9b9d18280c4daf98dce58d5e1b3]
 
 In a case where—
 
@@ -1299,7 +1299,7 @@ regulation 3 of the Pension Protection Fund (Compensation) Regulations 2005 (cir
 
 .
 
-### 60. Amendment of the Pension Protection Fund (Compensation) Regulations 2005[^key-913c19f051a8dfc8d159a658edbc5e18]
+### 60. Amendment of the Pension Protection Fund (Compensation) Regulations 2005[^c-913c19f051a8dfc8d159a658edbc5e18]
 
 (1) The Pension Protection Fund (Compensation) Regulations 2005 are amended as follows.
 
@@ -1475,7 +1475,7 @@ regulation 3 of the Pension Protection Fund (Compensation) Regulations 2005 (cir
 
   .
 
-### 61. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations 2005[^key-20b87c61a3503473a42cb006de8a838e]
+### 61. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations 2005[^c-20b87c61a3503473a42cb006de8a838e]
 
 In the Schedule to the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations 2005[^f00109] in the first column of paragraph 16C (paragraphs 16C, 16D, 16E and 16F)[^f00110] of the table—
 
@@ -1486,7 +1486,7 @@ In the Schedule to the Pension Protection Fund (Review and Reconsideration of Re
 
 *Extent: E+W+S*
 
-### 62. Interpretation of this Part[^key-9c7ffa3e6bc3d7541496ef5530811417]
+### 62. Interpretation of this Part[^c-9c7ffa3e6bc3d7541496ef5530811417]
 
 (1) In this Part—
 
@@ -1507,7 +1507,7 @@ references to “the employer” in Part 3 of the 2004 Act and in this Part have
 
 (4) A person ceases to be treated as an employer under paragraph (3) if, after the freezing event, that person ceases to be treated as a former employer by virtue of regulation 9 (frozen schemes and former employers) of the Occupational Pension Schemes (Employer Debt) Regulations 2005[^f00113].
 
-### 63. Application of Part 3 of the 2004 Act to schemes treated as money purchase: periods before the appointed day[^key-ba1ce21e3b79463d58992de68208a17b]
+### 63. Application of Part 3 of the 2004 Act to schemes treated as money purchase: periods before the appointed day[^c-ba1ce21e3b79463d58992de68208a17b]
 
 (1) Part 3 of the 2004 Act does not apply to an occupational pension scheme in relation to any period before the appointed day during which it met both of the conditions specified in paragraph (2).
 
@@ -1516,7 +1516,7 @@ references to “the employer” in Part 3 of the 2004 Act and in this Part have
 - (a) the scheme included benefits which are not money purchase benefits; and
 - (b) the trustees or managers of the scheme treated the scheme as if it were a money purchase scheme.
 
-### 64. Application of Part 3 of the 2004 Act to schemes including benefits treated as money purchase benefits: periods before the appointed day[^key-d34bc4c710f7f9836bc3cff4c9e53424]
+### 64. Application of Part 3 of the 2004 Act to schemes including benefits treated as money purchase benefits: periods before the appointed day[^c-d34bc4c710f7f9836bc3cff4c9e53424]
 
 (1) Part 3 of the 2004 Act applies in relation to any period before the appointed day during which an occupational pension scheme met both of the conditions specified in paragraph (2), as if the benefits specified in paragraph (2)(b) treated by the trustees or managers of the scheme as money purchase benefits were money purchase benefits.
 
@@ -1525,11 +1525,11 @@ references to “the employer” in Part 3 of the 2004 Act and in this Part have
 - (a) Part 3 of the 2004 Act applied to the scheme; and
 - (b) benefits under the scheme included benefits which are not money purchase benefits, but which the trustees or managers of the scheme treated as if they were money purchase benefits.
 
-### 65. Actuarial valuations and reports for schemes treated as money purchase schemes: periods on and after the appointed day[^key-1b54a9a883c9dc3e6ae416df02dea809]
+### 65. Actuarial valuations and reports for schemes treated as money purchase schemes: periods on and after the appointed day[^c-1b54a9a883c9dc3e6ae416df02dea809]
 
 Where, immediately before the appointed day, the conditions specified in regulation 63(2) (application of Part 3 of the 2004 Act to schemes treated as money purchase: periods before the appointed day) are met in relation to an occupational pension scheme, the scheme is to be treated for the purposes of section 224(3)(a) of the 2004 Act (actuarial valuations and reports) as having been established on the appointed day.
 
-### 66. Modification of the Scheme Funding Regulations for schemes treated as money purchase schemes: periods on and after the appointed day[^key-fec3b52fa777a069cbab7295aaffb434]
+### 66. Modification of the Scheme Funding Regulations for schemes treated as money purchase schemes: periods on and after the appointed day[^c-fec3b52fa777a069cbab7295aaffb434]
 
 (1) Where, immediately before the appointed day, the conditions specified in regulation 63(2) are met in relation to an occupational pension scheme, the Scheme Funding Regulations are modified as follows.
 
@@ -1539,7 +1539,7 @@ Where, immediately before the appointed day, the conditions specified in regulat
 
 (4) Regulation 9(1) (schedule of contributions) applies in relation to the first schedule of contributions under section 227 of the 2004 Act (schedule of contributions) to be prepared after the appointed day as if for “following the establishment of the scheme” there were substituted “after the section 29 commencement day”.
 
-### 67. Provision of summary funding statement in relation to schemes treated as money purchase: periods on and after the appointed day[^key-3c2e31887dbcc8386b9df2837969cf6a]
+### 67. Provision of summary funding statement in relation to schemes treated as money purchase: periods on and after the appointed day[^c-3c2e31887dbcc8386b9df2837969cf6a]
 
 Where—
 
@@ -1548,14 +1548,14 @@ Where—
 
 the trustees or managers of the scheme must provide the first summary funding statement to all members and beneficiaries of the scheme on, before or within a reasonable period after, the date by which they are required under section 224(3)(a) of the 2004 Act (as modified by regulation 65 of these Regulations (actuarial valuations and reports for schemes treated as money purchase schemes: periods on and after the appointed day)) to ensure that they receive the first actuarial valuation in relation to the scheme.
 
-### 68. Schedule of payments in relation to schemes treated as money purchase: periods on and after the appointed day[^key-fab90a546438f4fc6a845859ecd7e42e]
+### 68. Schedule of payments in relation to schemes treated as money purchase: periods on and after the appointed day[^c-fab90a546438f4fc6a845859ecd7e42e]
 
 Where, immediately before the appointed day, the conditions specified in regulation 63(2) are met in relation to an occupational pension scheme, until the first schedule of contributions has been certified by the actuary in relation to the scheme in accordance with section 227(5) of the 2004 Act—
 
 - (a) the most recent schedule of payments prepared before the appointed day under section 87 of the 1995 Act (schedules of payments to money purchase schemes)[^f00116] continues to have full effect with respect to the contributions payable towards the scheme by or on behalf of employers and active members of the scheme; and
 - (b) sections 87, 88 (schedules of payments to money purchase schemes: supplementary)[^f00117] and 89 (application of further provisions to money purchase schemes)[^f00118] of the 1995 Act and Part 4 of the Occupational Pension Schemes (Scheme Administration) Regulations 1996 (money purchase schemes)[^f00119] continue to apply to the scheme.
 
-### 69. Application of Part 3 of the 2004 Act to schemes including benefits treated as money purchase: periods on or after the appointed day[^key-00737a0b5b8c8176ab71d88318309250]
+### 69. Application of Part 3 of the 2004 Act to schemes including benefits treated as money purchase: periods on or after the appointed day[^c-00737a0b5b8c8176ab71d88318309250]
 
 (1) Where the conditions specified in regulation 64(2) (application of Part 3 of the 2004 Act to schemes including benefits treated as money purchase benefits: periods before the appointed day) are met in relation to an occupational pension scheme—
 
@@ -1573,7 +1573,7 @@ Where, immediately before the appointed day, the conditions specified in regulat
 
 ## PART 15 — Financial Assistance Scheme
 
-### 70. Application and interpretation[^key-1873cdcf51d5af58f3ed9d665ae96871]
+### 70. Application and interpretation[^c-1873cdcf51d5af58f3ed9d665ae96871]
 
 (1) This Part applies for the purposes of the Financial Assistance Scheme established by regulations made under section 286 of the 2004 Act (financial assistance scheme for members of certain pension schemes)[^f00120].
 
@@ -1586,13 +1586,13 @@ Where, immediately before the appointed day, the conditions specified in regulat
 
 (3) Where, by virtue of regulation 9(2) of the Financial Assistance Scheme Regulations, a section of a scheme is required to be treated as a separate scheme for the purposes of those Regulations (or would have been so required to be treated, but for this Part) this Part applies in relation to the section of the scheme as if that section were a separate scheme.
 
-### 71. Schemes treated as money purchase schemes: non-qualifying schemes[^key-e3289774c84f80e00161f11642e3be0d]
+### 71. Schemes treated as money purchase schemes: non-qualifying schemes[^c-e3289774c84f80e00161f11642e3be0d]
 
 (1) Where the scheme manager is satisfied that the condition specified in paragraph (2) is met, an occupational pension scheme which would otherwise be a qualifying pension scheme is not a qualifying pension scheme.
 
 (2) The condition specified in this paragraph is that, immediately before the scheme began winding up, the trustees or managers of the scheme treated the scheme as if it were a money purchase scheme.
 
-### 72. Qualifying schemes including benefits treated as money purchase benefits[^key-04801d701a674867b76cc5e4b07f38ad]
+### 72. Qualifying schemes including benefits treated as money purchase benefits[^c-04801d701a674867b76cc5e4b07f38ad]
 
 (1) Where the conditions specified in paragraph (2) are met, no provision of Part 4 of the Act or of these Regulations—
 
@@ -1622,7 +1622,7 @@ Where, immediately before the appointed day, the conditions specified in regulat
 
 *Extent: E+W+S*
 
-### 73. Modification of the Occupational Pension Schemes (Equal Treatment) Regulations 1995[^key-5ad22848759ce919377e3667fd361ff9]
+### 73. Modification of the Occupational Pension Schemes (Equal Treatment) Regulations 1995[^c-5ad22848759ce919377e3667fd361ff9]
 
 (1) Regulation 15 of the Occupational Pension Schemes (Equal Treatment) Regulations 1995 (exceptions to the equal treatment rule: use of actuarial factors which differ for men and women)[^f00131] has effect in relation to periods before 1st October 2010 as if for paragraph (2)(c) there were substituted—
 
@@ -1641,7 +1641,7 @@ Where, immediately before the appointed day, the conditions specified in regulat
 - (a) treated cash balance benefits as if they were money purchase benefits; and
 - (b) applied different actuarial factors for men and for women in determining the rate of a pension derived from those benefits.
 
-### 74. Retrospective modification of the Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010[^key-01d70650d2795a23a5e778c8d5b3186b]
+### 74. Retrospective modification of the Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010[^c-01d70650d2795a23a5e778c8d5b3186b]
 
 (1) Regulation 4(2)(c) (exceptions to the sex equality rule: use of actuarial factors which differ for men and women) of the Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010[^f00132] (“the Sex Equality Exceptions Regulations”) has effect as if the amendments made by regulation 75(a) of these Regulations came into force on 1st October 2010.
 
@@ -1652,7 +1652,7 @@ Where, immediately before the appointed day, the conditions specified in regulat
 - (a) treated benefits specified in regulation 73(3)(a) as if they were money purchase benefits; and
 - (b) applied different actuarial factors for men and for women in determining the rate of a pension derived from those benefits.
 
-### 75. Amendment of the Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010[^key-45064ddcdbde8c983c3a3a4e82528080]
+### 75. Amendment of the Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010[^c-45064ddcdbde8c983c3a3a4e82528080]
 
 Regulation 4 of the Sex Equality Exceptions Regulations is amended as follows—
 
@@ -1667,7 +1667,7 @@ Regulation 4 of the Sex Equality Exceptions Regulations is amended as follows—
 
 *Extent: E+W+S*
 
-### 76. Valuations for the purposes of pension sharing etc: transitional arrangements[^key-29ec0d91b2d081058b36c61e3c5f611d]
+### 76. Valuations for the purposes of pension sharing etc: transitional arrangements[^c-29ec0d91b2d081058b36c61e3c5f611d]
 
 (1) Where, before the appointed day, for the purposes of pension sharing or attachment on divorce or dissolution of a civil partnership, a person responsible for a pension arrangement has provided a valuation of the benefits accrued under a pension arrangement, no provision of Part 4 of the Act or of these Regulations—
 
@@ -1691,13 +1691,13 @@ Regulation 4 of the Sex Equality Exceptions Regulations is amended as follows—
 
 (5) In this regulation “connected proceedings” means proceedings in relation to pension sharing or attachment on divorce or dissolution of a civil partnership involving the same parties and the same benefits as earlier proceedings.
 
-## PART 18 — Cross-border Schemes[^key-9050dc16a6a10abbacec8ba8e23e8357]
+## PART 18 — Cross-border Schemes[^c-9050dc16a6a10abbacec8ba8e23e8357]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-### 77. Cross-border schemes treated as money purchase schemes[^key-9050dc16a6a10abbacec8ba8e23e8357]
+### 77. Cross-border schemes treated as money purchase schemes[^c-9050dc16a6a10abbacec8ba8e23e8357]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1705,7 +1705,7 @@ Regulation 4 of the Sex Equality Exceptions Regulations is amended as follows—
 
 *Extent: E+W+S*
 
-### 78. Benefits and schemes treated as money purchase before the appointed day[^key-99f1cd4b31793c7fd55791c32b91acdd]
+### 78. Benefits and schemes treated as money purchase before the appointed day[^c-99f1cd4b31793c7fd55791c32b91acdd]
 
 (1) Where the conditions specified in paragraph (2) are met—
 
@@ -1735,7 +1735,7 @@ Regulation 4 of the Sex Equality Exceptions Regulations is amended as follows—
     - (cc) Schedule 5, in accordance with regulation 16 (statements of benefits: non money purchase benefits);
     - (dd) paragraph 16 of Schedule 8 (information on expected benefits), in accordance with regulation 25(2)(b)(ii) (occupational pension schemes after winding up for individual members).
 
-### 79. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^key-d9ae24ca4287abe62ed695bc3f9bd566]
+### 79. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^c-d9ae24ca4287abe62ed695bc3f9bd566]
 
 (1) The Disclosure Regulations are amended as follows.
 
@@ -1908,7 +1908,7 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00022]: Footnote: Section 185(1) was amended by sections 122, 151 and 177 of, and Schedules 3, 5 and 7 to the 1995 Act.
 
-[^key-59a1416e0d7530a5868c7cd9b947e227]: Commencement: Reg. 1 comes into force in accordance with reg. 1(1)
+[^c-59a1416e0d7530a5868c7cd9b947e227]: Commencement: Reg. 1 comes into force in accordance with reg. 1(1)
 
 [^f00023]: Footnote: Section 94(2) was substituted by section 319(1) of and paragraph 13 of Schedule 12 to the 2004 Act.
 
@@ -1918,17 +1918,17 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00026]: Footnote: Section 307 was amended by section 31(2) of the [Pensions Act 2011(c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) (“the Act”).
 
-[^key-4b044b890aaa32785c000e7663b0c6c5]: Commencement: Reg. 2 comes into force in accordance with reg. 1(1)
+[^c-4b044b890aaa32785c000e7663b0c6c5]: Commencement: Reg. 2 comes into force in accordance with reg. 1(1)
 
-[^key-3b649882499607f4e8080527d5844cd8]: Commencement: Reg. 3 comes into force in accordance with reg. 1(1)
+[^c-3b649882499607f4e8080527d5844cd8]: Commencement: Reg. 3 comes into force in accordance with reg. 1(1)
 
-[^key-f4db46eec2f7f230194956aff7b870b3]: Commencement: Reg. 4 comes into force in accordance with reg. 1(1)
+[^c-f4db46eec2f7f230194956aff7b870b3]: Commencement: Reg. 4 comes into force in accordance with reg. 1(1)
 
-[^key-8256b4088dae08883749a99ecc4abee2]: Commencement: Reg. 5 comes into force in accordance with reg. 1(1)
+[^c-8256b4088dae08883749a99ecc4abee2]: Commencement: Reg. 5 comes into force in accordance with reg. 1(1)
 
-[^key-d441dbe9231fd05af419f2e29d0662dc]: Commencement: Reg. 6 comes into force in accordance with reg. 1(1)
+[^c-d441dbe9231fd05af419f2e29d0662dc]: Commencement: Reg. 6 comes into force in accordance with reg. 1(1)
 
-[^key-15ac00ca9609f2bb3376232e8c348c12]: Commencement: Reg. 7 comes into force in accordance with reg. 1(1)
+[^c-15ac00ca9609f2bb3376232e8c348c12]: Commencement: Reg. 7 comes into force in accordance with reg. 1(1)
 
 [^f00027]: Footnote: Subsection (3) of section 9 was repealed by section 15(3)(a) of and paragraph 4 of Schedule 4 to the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) (“the 2007 Act”) with effect from 6th April 2012.
 
@@ -1936,7 +1936,7 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00029]: Footnote: Section 10 was repealed by section 106 of and Schedule 11 to the 2008 Act with effect from 6th April 2012.
 
-[^key-b6ab66f3d4ef602c5797d1fc8fd8209a]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)
+[^c-b6ab66f3d4ef602c5797d1fc8fd8209a]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)
 
 [^f00030]: Footnote: Section 67 was substituted for that section as originally enacted by section 262 of the 2004 Act.
 
@@ -1946,35 +1946,35 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00033]: Footnote: Section 67A was inserted by section 262 of the 2004 Act.
 
-[^key-be82bf7c2f2213a506fcc2d301bcd9a0]: Commencement: Reg. 9 comes into force in accordance with reg. 1(1)
+[^c-be82bf7c2f2213a506fcc2d301bcd9a0]: Commencement: Reg. 9 comes into force in accordance with reg. 1(1)
 
-[^key-3db86864f7652a7901cafb4bfd4d9cd4]: Commencement: Reg. 10 comes into force in accordance with reg. 1(1)
+[^c-3db86864f7652a7901cafb4bfd4d9cd4]: Commencement: Reg. 10 comes into force in accordance with reg. 1(1)
 
 [^f00034]: Footnote: [S.I. 1996/3126](https://www.legislation.gov.uk/uksi/1996/3126).
 
 [^f00035]: Footnote: Section 73 was substituted with prospective effect by section 270(1) of the 2004 Act for section 73 as originally enacted, but the original form of that section continues to have effect in relation to schemes which commence winding up before 6th April 2005. There are no relevant amendments to Section 73 as originally enacted.
 
-[^key-9fcbe1f6bb93e9aaf3d0052e1e268e91]: Commencement: Reg. 11 comes into force in accordance with reg. 1(1)
+[^c-9fcbe1f6bb93e9aaf3d0052e1e268e91]: Commencement: Reg. 11 comes into force in accordance with reg. 1(1)
 
-[^key-08c3949bc28e5a07d475368b816193a4]: Commencement: Reg. 12 comes into force in accordance with reg. 1(1)
+[^c-08c3949bc28e5a07d475368b816193a4]: Commencement: Reg. 12 comes into force in accordance with reg. 1(1)
 
 [^f00036]: Footnote: [S.I.1996/3126](https://www.legislation.gov.uk/uksi/1996/3126). Regulation 13 applies in relation to schemes commencing winding up before 6th April 2005. Regulation 13 was amended by S.I.s [2002/380](https://www.legislation.gov.uk/uksi/2002/380) and [2005/3377](https://www.legislation.gov.uk/uksi/2005/3377).
 
-[^key-e1333ea118436586e7c3b72ff35c4dca]: Commencement: Reg. 13 comes into force in accordance with reg. 1(1)
+[^c-e1333ea118436586e7c3b72ff35c4dca]: Commencement: Reg. 13 comes into force in accordance with reg. 1(1)
 
 [^f00037]: Footnote: Section 73 was substituted with prospective effect for that section as originally enacted by section 270(1) of the 2004 Act: the current version of the section has effect in relation to schemes which commence winding up on or after 6th April 2005.
 
-[^key-43fdc314b919948989d4fb049c1b2ba0]: Commencement: Reg. 14 comes into force in accordance with reg. 1(1)
+[^c-43fdc314b919948989d4fb049c1b2ba0]: Commencement: Reg. 14 comes into force in accordance with reg. 1(1)
 
-[^key-d0a36354b2fa8183924a6863b0c86e40]: Commencement: Reg. 15 comes into force in accordance with reg. 1(1)
+[^c-d0a36354b2fa8183924a6863b0c86e40]: Commencement: Reg. 15 comes into force in accordance with reg. 1(1)
 
 [^f00038]: Footnote: Section 154(5) was amended by section 22 of and paragraph 10 of Schedule 4 to the Act.
 
-[^key-4180019a36d84f2ced4a5d015595e081]: Commencement: Reg. 16 comes into force in accordance with reg. 1(1)
+[^c-4180019a36d84f2ced4a5d015595e081]: Commencement: Reg. 16 comes into force in accordance with reg. 1(1)
 
-[^key-f030849800fd0f149a9a3ad402a26a88]: Commencement: Reg. 17 comes into force in accordance with reg. 1(1)
+[^c-f030849800fd0f149a9a3ad402a26a88]: Commencement: Reg. 17 comes into force in accordance with reg. 1(1)
 
-[^key-68f8c9e88771715f66da7fe25a190337]: Commencement: Reg. 18 comes into force in accordance with reg. 1(1)
+[^c-68f8c9e88771715f66da7fe25a190337]: Commencement: Reg. 18 comes into force in accordance with reg. 1(1)
 
 [^f00039]: Footnote: The definitions of “multi-employer scheme” and “withdrawal arrangement” were substituted, and the definitions of “approved withdrawal arrangement”, “regulated apportionment arrangement” and “scheme apportionment arrangement” inserted, by [S.I. 2008/731](https://www.legislation.gov.uk/uksi/2008/731). The definition of “flexible apportionment arrangement” was inserted by [S.I. 2011/2973](https://www.legislation.gov.uk/uksi/2011/2973).
 
@@ -1988,7 +1988,7 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00044]: Footnote: The definition “share of the difference” was inserted by [S.I. 2008/731](https://www.legislation.gov.uk/uksi/2008/731).
 
-[^key-3a8b495ed69e1208584cdbe81ad2ed1b]: Commencement: Reg. 19 comes into force in accordance with reg. 1(1)
+[^c-3a8b495ed69e1208584cdbe81ad2ed1b]: Commencement: Reg. 19 comes into force in accordance with reg. 1(1)
 
 [^f00045]: Footnote: Regulation 8 was substituted by [S.I. 2008/731](https://www.legislation.gov.uk/uksi/2008/731).
 
@@ -1996,25 +1996,25 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00047]: Footnote: Regulation 15 was amended by [S.I. 2010/725](https://www.legislation.gov.uk/uksi/2010/725).
 
-[^key-e3a64c074600d6a55b1cbfa5425441c4]: Commencement: Reg. 20 comes into force in accordance with reg. 1(1)
+[^c-e3a64c074600d6a55b1cbfa5425441c4]: Commencement: Reg. 20 comes into force in accordance with reg. 1(1)
 
-[^key-ba28ce27359d2a76523fac3c0ed66d82]: Commencement: Reg. 21 comes into force in accordance with reg. 1(1)
+[^c-ba28ce27359d2a76523fac3c0ed66d82]: Commencement: Reg. 21 comes into force in accordance with reg. 1(1)
 
-[^key-353648fdd26dde6f5fac10c080fd827e]: Commencement: Reg. 22 comes into force in accordance with reg. 1(1)
+[^c-353648fdd26dde6f5fac10c080fd827e]: Commencement: Reg. 22 comes into force in accordance with reg. 1(1)
 
-[^key-4f2fd49f62dd019a96d59c11ad96beba]: Commencement: Reg. 23 comes into force in accordance with reg. 1(1)
+[^c-4f2fd49f62dd019a96d59c11ad96beba]: Commencement: Reg. 23 comes into force in accordance with reg. 1(1)
 
 [^f00048]: Footnote: Regulation 5 was substituted by [S.I. 2008/731](https://www.legislation.gov.uk/uksi/2008/731) and amended by S.I.s [2011/2973](https://www.legislation.gov.uk/uksi/2011/2973), [2010/725](https://www.legislation.gov.uk/uksi/2010/725) and [2012/1817](https://www.legislation.gov.uk/uksi/2012/1817).
 
-[^key-875fe581c98d09c47b0706a329301260]: Commencement: Reg. 24 comes into force in accordance with reg. 1(1)
+[^c-875fe581c98d09c47b0706a329301260]: Commencement: Reg. 24 comes into force in accordance with reg. 1(1)
 
-[^key-9d379ce81a3e2b293f223f120e275657]: Commencement: Reg. 25 comes into force in accordance with reg. 1(1)
+[^c-9d379ce81a3e2b293f223f120e275657]: Commencement: Reg. 25 comes into force in accordance with reg. 1(1)
 
-[^key-0146eb9bd10b11e514b865bf772079bb]: Commencement: Reg. 26 comes into force in accordance with reg. 1(1)
+[^c-0146eb9bd10b11e514b865bf772079bb]: Commencement: Reg. 26 comes into force in accordance with reg. 1(1)
 
 [^f00049]: Footnote: Section 51 was amended by section 84(1) of and Schedule 12 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) (“the 1999 Act”), section 51(1) of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“the 2000 Act”), section 278(1), (2)(b) and (c), (3), (5) and (6)(a) and (b) of the 2004 Act, sections 19(7) and (8) and 21(1), (2) and (3) of the Act and [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745).
 
-[^key-8e3f0718fcef478c3d0e5bed47cd482a]: Commencement: Reg. 27 comes into force in accordance with reg. 1(1)
+[^c-8e3f0718fcef478c3d0e5bed47cd482a]: Commencement: Reg. 27 comes into force in accordance with reg. 1(1)
 
 [^f00050]: Footnote: [S.I.1991/167](https://www.legislation.gov.uk/uksi/1991/167).
 
@@ -2022,15 +2022,15 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00052]: Footnote: Regulation 14A was inserted by [S.I. 1996/2131](https://www.legislation.gov.uk/uksi/1996/2131).
 
-[^key-221fe42188e81c5875b21618f7e5dc49]: Commencement: Reg. 28 comes into force in accordance with reg. 1(1)
+[^c-221fe42188e81c5875b21618f7e5dc49]: Commencement: Reg. 28 comes into force in accordance with reg. 1(1)
 
 [^f00053]: Footnote: [S.I. 1991/168](https://www.legislation.gov.uk/uksi/1991/168). Regulation 4 was amended by [S.I. 1994/1062](https://www.legislation.gov.uk/uksi/1994/1062).
 
-[^key-78f8d7b8aa2e4702849abd235ab5d9bd]: Commencement: Reg. 29 comes into force in accordance with reg. 1(1)
+[^c-78f8d7b8aa2e4702849abd235ab5d9bd]: Commencement: Reg. 29 comes into force in accordance with reg. 1(1)
 
 [^f00054]: Footnote: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847).
 
-[^key-0ac67c4755e27d267b15612a4d282fe1]: Commencement: Reg. 30 comes into force in accordance with reg. 1(1)
+[^c-0ac67c4755e27d267b15612a4d282fe1]: Commencement: Reg. 30 comes into force in accordance with reg. 1(1)
 
 [^f00055]: Footnote: Section 94(1) was amended by section 154(1) and (2) of the 1995 Act.
 
@@ -2044,9 +2044,9 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00060]: Footnote: Section 99(1) was amended by [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
 
-[^key-f3b64051de5f94d02ab55f55f85d44da]: Commencement: Reg. 31 comes into force in accordance with reg. 1(1)
+[^c-f3b64051de5f94d02ab55f55f85d44da]: Commencement: Reg. 31 comes into force in accordance with reg. 1(1)
 
-[^key-fd32d41e7d2f7b1f3d0e1448adebd09a]: Commencement: Reg. 32 comes into force in accordance with reg. 1(1)
+[^c-fd32d41e7d2f7b1f3d0e1448adebd09a]: Commencement: Reg. 32 comes into force in accordance with reg. 1(1)
 
 [^f00061]: Footnote: Regulation 1(2) was amended by S.I.s [1997/786](https://www.legislation.gov.uk/uksi/1997/786), [1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), [2003/1727](https://www.legislation.gov.uk/uksi/2003/1727), [2005/3377](https://www.legislation.gov.uk/uksi/2005/3377), [2007/60](https://www.legislation.gov.uk/uksi/2007/60), [2008/1050](https://www.legislation.gov.uk/uksi/2008/1050), [2011/1246](https://www.legislation.gov.uk/uksi/2011/1246) and [2012/692](https://www.legislation.gov.uk/uksi/2012/692).
 
@@ -2058,15 +2058,15 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00065]: Footnote: Schedule 1A was inserted by [S.I. 2008/1050](https://www.legislation.gov.uk/uksi/2008/1050). Paragraph 9 was revoked by [S.I. 2011/1246](https://www.legislation.gov.uk/uksi/2011/1246).
 
-[^key-0489c66a12262be8ce31345f03c5edc0]: Commencement: Reg. 33 comes into force in accordance with reg. 1(1)
+[^c-0489c66a12262be8ce31345f03c5edc0]: Commencement: Reg. 33 comes into force in accordance with reg. 1(1)
 
 [^f00066]: Footnote: [S.I. 2006/33](https://www.legislation.gov.uk/uksi/2006/33).
 
-[^key-9b408b170891d2d189f913e4abd696b5]: Commencement: Reg. 34 comes into force in accordance with reg. 1(1)
+[^c-9b408b170891d2d189f913e4abd696b5]: Commencement: Reg. 34 comes into force in accordance with reg. 1(1)
 
 [^f00067]: Footnote: Sections 101AB, 101AC and 101AD were inserted by section 264 of the 2004 Act.
 
-[^key-b6b762f93fa8a68a884357adf8c05cf8]: Commencement: Reg. 35 comes into force in accordance with reg. 1(1)
+[^c-b6b762f93fa8a68a884357adf8c05cf8]: Commencement: Reg. 35 comes into force in accordance with reg. 1(1)
 
 [^f00068]: Footnote: Relevant amendments were made to regulation 1(2) by S.I.s [1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), [2003/1727](https://www.legislation.gov.uk/uksi/2003/1727), [2007/60](https://www.legislation.gov.uk/uksi/2007/60) and [2008/1050](https://www.legislation.gov.uk/uksi/2008/1050).
 
@@ -2074,29 +2074,29 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00070]: Footnote: Regulation 4 was substituted by [S.I. 2008/1050](https://www.legislation.gov.uk/uksi/2008/1050).
 
-[^key-4d367357253366fdc00c7e93667f4749]: Commencement: Reg. 36 comes into force in accordance with reg. 1(1)
+[^c-4d367357253366fdc00c7e93667f4749]: Commencement: Reg. 36 comes into force in accordance with reg. 1(1)
 
 [^f00071]: Footnote: [S.I. 2006/802](https://www.legislation.gov.uk/uksi/2006/802).
 
-[^key-2082f0be6525894c6e5ba5181559dd43]: Commencement: Reg. 37 comes into force in accordance with reg. 1(1)
+[^c-2082f0be6525894c6e5ba5181559dd43]: Commencement: Reg. 37 comes into force in accordance with reg. 1(1)
 
 [^f00072]: Footnote: Section 37 was substituted by section 250 of the 2004 Act and was amended by section 130 of the 2008 Act.
 
 [^f00073]: Footnote: Section 76 was amended by sections 319(1) and Schedule 12 to the 2004 Act and by [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745).
 
-[^key-f76f1b7eaa798038dddd4edcbd98570d]: Commencement: Reg. 38 comes into force in accordance with reg. 1(1)
+[^c-f76f1b7eaa798038dddd4edcbd98570d]: Commencement: Reg. 38 comes into force in accordance with reg. 1(1)
 
-[^key-bed9079f9fc14949eb199854013d4c98]: Commencement: Reg. 39 comes into force in accordance with reg. 1(1)
+[^c-bed9079f9fc14949eb199854013d4c98]: Commencement: Reg. 39 comes into force in accordance with reg. 1(1)
 
 [^f00074]: Footnote: Relevant amendments were made to section 181(1) by section 29 of the Pensions Act [2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) (“the Act”).
 
-[^key-20c8c54733fcf50a6d91d05e93109cd5]: Commencement: Reg. 40 comes into force in accordance with reg. 1(1)
+[^c-20c8c54733fcf50a6d91d05e93109cd5]: Commencement: Reg. 40 comes into force in accordance with reg. 1(1)
 
 [^f00075]: Footnote: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715). Regulation 3(2) was amended by S.I.s [2005/2426](https://www.legislation.gov.uk/uksi/2005/2426), [2006/778](https://www.legislation.gov.uk/uksi/2006/778) and [2010/499](https://www.legislation.gov.uk/uksi/2010/499).
 
-[^key-3aa5508d5218bf258e6ef697b82cdaa7]: Commencement: Reg. 41 comes into force in accordance with reg. 1(1)
+[^c-3aa5508d5218bf258e6ef697b82cdaa7]: Commencement: Reg. 41 comes into force in accordance with reg. 1(1)
 
-[^key-063bc7280ca04f4bb1d6e9b9bd624dd1]: Commencement: Reg. 42 comes into force in accordance with reg. 1(1)
+[^c-063bc7280ca04f4bb1d6e9b9bd624dd1]: Commencement: Reg. 42 comes into force in accordance with reg. 1(1)
 
 [^f00076]: Footnote: Paragraph 35(2) was amended by section 122 of and Schedule 8 to the 2008 Act.
 
@@ -2112,7 +2112,7 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00082]: Footnote: [S.I. 2005/441](https://www.legislation.gov.uk/uksi/2005/441).
 
-[^key-e93b778725728f2de54f656f59b70101]: Commencement: Reg. 43 comes into force in accordance with reg. 1(1)
+[^c-e93b778725728f2de54f656f59b70101]: Commencement: Reg. 43 comes into force in accordance with reg. 1(1)
 
 [^f00083]: Footnote: Regulation 2 was amended by S.I.s [2005/993](https://www.legislation.gov.uk/uksi/2005/993), [2005/2153](https://www.legislation.gov.uk/uksi/2005/2153), [2006/580](https://www.legislation.gov.uk/uksi/2006/580), [2007/782](https://www.legislation.gov.uk/uksi/2007/782), [2008/731](https://www.legislation.gov.uk/uksi/2008/731), [2009/1906](https://www.legislation.gov.uk/uksi/2009/1906), [2010/196](https://www.legislation.gov.uk/uksi/2010/196), [2010/725](https://www.legislation.gov.uk/uksi/2010/725) and [2011/2973](https://www.legislation.gov.uk/uksi/2011/2973) .
 
@@ -2120,7 +2120,7 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00085]: Footnote: Section 121 was amended by S.I.s [2005/2893](https://www.legislation.gov.uk/uksi/2005/2893) and [2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-086df1e0d2547ccb1834f28a8bf69163]: Commencement: Reg. 44 comes into force in accordance with reg. 1(1)
+[^c-086df1e0d2547ccb1834f28a8bf69163]: Commencement: Reg. 44 comes into force in accordance with reg. 1(1)
 
 [^f00086]: Footnote: Section 143(2) was substituted by section 22 of and Schedule 4 to the Act.
 
@@ -2130,7 +2130,7 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00089]: Footnote: Section 144(2) was amended by section 22 of and Schedule 4 to the Act.
 
-[^key-36460f45c863b8c18f65cd434fc612a6]: Commencement: Reg. 45 comes into force in accordance with reg. 1(1)
+[^c-36460f45c863b8c18f65cd434fc612a6]: Commencement: Reg. 45 comes into force in accordance with reg. 1(1)
 
 [^f00090]: Footnote: Regulation 5 was amended by [S.I. 2006/580](https://www.legislation.gov.uk/uksi/2006/580).
 
@@ -2140,45 +2140,45 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00093]: Footnote: [S.I. 2005/672](https://www.legislation.gov.uk/uksi/2005/672).
 
-[^key-cc98fd2e012dbc80a3cb4b29ee3c869e]: Commencement: Reg. 46 comes into force in accordance with reg. 1(1)
+[^c-cc98fd2e012dbc80a3cb4b29ee3c869e]: Commencement: Reg. 46 comes into force in accordance with reg. 1(1)
 
 [^f00094]: Footnote: Section 10 was amended by sections 319(1)and 320 of and Schedule 12 to the 2004 Act and by section 18 of and paragraph 11 of Schedule 2 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) (“the 1999 Act”).
 
-[^key-6c1829975380982ef2224a3a99da81d3]: Commencement: Reg. 47 comes into force in accordance with reg. 1(1)
+[^c-6c1829975380982ef2224a3a99da81d3]: Commencement: Reg. 47 comes into force in accordance with reg. 1(1)
 
 [^f00095]: Footnote: Section 181A was inserted by section 129 of and Schedule 10 to the Pensions Act [2008 (c.30)](https://www.legislation.gov.uk/ukpga/2008/30) (“the 2008 Act”).
 
-[^key-137df4ebd98842dce8df27be20689d23]: Commencement: Reg. 48 comes into force in accordance with reg. 1(1)
+[^c-137df4ebd98842dce8df27be20689d23]: Commencement: Reg. 48 comes into force in accordance with reg. 1(1)
 
 [^f00096]: Footnote: Regulation 19A was inserted by [S.I. 2010/560](https://www.legislation.gov.uk/uksi/2010/560).
 
-[^key-31601f21db0429ce81bcd2dca00b8183]: Commencement: Reg. 49 comes into force in accordance with reg. 1(1)
+[^c-31601f21db0429ce81bcd2dca00b8183]: Commencement: Reg. 49 comes into force in accordance with reg. 1(1)
 
-[^key-731ac674fa7278ee174b702456a2b0e0]: Commencement: Reg. 50 comes into force in accordance with reg. 1(1)
+[^c-731ac674fa7278ee174b702456a2b0e0]: Commencement: Reg. 50 comes into force in accordance with reg. 1(1)
 
 [^f00097]: Footnote: [S.I. 2006/558](https://www.legislation.gov.uk/uksi/2006/558).
 
-[^key-c314ee2653349794d8c53739b1dc2593]: Commencement: Reg. 51 comes into force in accordance with reg. 1(1)
+[^c-c314ee2653349794d8c53739b1dc2593]: Commencement: Reg. 51 comes into force in accordance with reg. 1(1)
 
-[^key-98cd0f95ce9d557c6727a989909434c0]: Commencement: Reg. 52 comes into force in accordance with reg. 1(1)
+[^c-98cd0f95ce9d557c6727a989909434c0]: Commencement: Reg. 52 comes into force in accordance with reg. 1(1)
 
-[^key-bcac96188a7eca62f2e61d9903b7bc13]: Commencement: Reg. 53 comes into force in accordance with reg. 1(1)
+[^c-bcac96188a7eca62f2e61d9903b7bc13]: Commencement: Reg. 53 comes into force in accordance with reg. 1(1)
 
 [^f00098]: Footnote: Section 170(3) was omitted by, and section 170(4) amended by, [SI 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
 
 [^f00099]: Footnote: [S.I. 2005/449](https://www.legislation.gov.uk/uksi/2005/449).
 
-[^key-1ad7c474967470b8cf50f12b38cbb6e6]: Commencement: Reg. 54 comes into force in accordance with reg. 1(1)
+[^c-1ad7c474967470b8cf50f12b38cbb6e6]: Commencement: Reg. 54 comes into force in accordance with reg. 1(1)
 
-[^key-03ab4f7476bfdf9673e32c8a22b21a85]: Commencement: Reg. 55 comes into force in accordance with reg. 1(1)
+[^c-03ab4f7476bfdf9673e32c8a22b21a85]: Commencement: Reg. 55 comes into force in accordance with reg. 1(1)
 
-[^key-582669580f87f55b882a8ac005ca5b13]: Commencement: Reg. 56 comes into force in accordance with reg. 1(1)
+[^c-582669580f87f55b882a8ac005ca5b13]: Commencement: Reg. 56 comes into force in accordance with reg. 1(1)
 
 [^f00100]: Footnote: Section 101AA was inserted by section 264 of the 2004 Act.
 
-[^key-3dfde7316f0b721ba90970d1a30055e5]: Commencement: Reg. 57 comes into force in accordance with reg. 1(1)
+[^c-3dfde7316f0b721ba90970d1a30055e5]: Commencement: Reg. 57 comes into force in accordance with reg. 1(1)
 
-[^key-7f302019dfd12deadfd595c9dd50ef72]: Commencement: Reg. 58 comes into force in accordance with reg. 1(1)
+[^c-7f302019dfd12deadfd595c9dd50ef72]: Commencement: Reg. 58 comes into force in accordance with reg. 1(1)
 
 [^f00101]: Footnote: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590).
 
@@ -2186,11 +2186,11 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00103]: Footnote: Regulation 21 was amended by S.I.s [2005/993](https://www.legislation.gov.uk/uksi/2005/993) and [2010/196](https://www.legislation.gov.uk/uksi/2010/196).
 
-[^key-d264f9b9d18280c4daf98dce58d5e1b3]: Commencement: Reg. 59 comes into force in accordance with reg. 1(1)
+[^c-d264f9b9d18280c4daf98dce58d5e1b3]: Commencement: Reg. 59 comes into force in accordance with reg. 1(1)
 
 [^f00104]: Footnote: [S.I. 2005/670](https://www.legislation.gov.uk/uksi/2005/670).
 
-[^key-913c19f051a8dfc8d159a658edbc5e18]: Commencement: Reg. 60 comes into force in accordance with reg. 1(1)
+[^c-913c19f051a8dfc8d159a658edbc5e18]: Commencement: Reg. 60 comes into force in accordance with reg. 1(1)
 
 [^f00105]: Footnote: Regulation 13 was amended by [S.I. 2011/554](https://www.legislation.gov.uk/uksi/2011/554).
 
@@ -2200,13 +2200,13 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00108]: Footnote: Regulation 25 was amended by [S.I. 2010/560](https://www.legislation.gov.uk/uksi/2010/560).
 
-[^key-20b87c61a3503473a42cb006de8a838e]: Commencement: Reg. 61 comes into force in accordance with reg. 1(1)
+[^c-20b87c61a3503473a42cb006de8a838e]: Commencement: Reg. 61 comes into force in accordance with reg. 1(1)
 
 [^f00109]: Footnote: [S.I. 2005/669](https://www.legislation.gov.uk/uksi/2005/669).
 
 [^f00110]: Footnote: Paragraph 16C was inserted by [S.I. 2011/731](https://www.legislation.gov.uk/uksi/2011/731).
 
-[^key-9c7ffa3e6bc3d7541496ef5530811417]: Commencement: Reg. 62 comes into force in accordance with reg. 1(1)
+[^c-9c7ffa3e6bc3d7541496ef5530811417]: Commencement: Reg. 62 comes into force in accordance with reg. 1(1)
 
 [^f00111]: Footnote: [S.I. 2005/3377](https://www.legislation.gov.uk/uksi/2005/3377).
 
@@ -2214,21 +2214,21 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00113]: Footnote: [S.I. 2005/678](https://www.legislation.gov.uk/uksi/2005/678).
 
-[^key-ba1ce21e3b79463d58992de68208a17b]: Commencement: Reg. 63 comes into force in accordance with reg. 1(1)
+[^c-ba1ce21e3b79463d58992de68208a17b]: Commencement: Reg. 63 comes into force in accordance with reg. 1(1)
 
-[^key-d34bc4c710f7f9836bc3cff4c9e53424]: Commencement: Reg. 64 comes into force in accordance with reg. 1(1)
+[^c-d34bc4c710f7f9836bc3cff4c9e53424]: Commencement: Reg. 64 comes into force in accordance with reg. 1(1)
 
-[^key-1b54a9a883c9dc3e6ae416df02dea809]: Commencement: Reg. 65 comes into force in accordance with reg. 1(1)
+[^c-1b54a9a883c9dc3e6ae416df02dea809]: Commencement: Reg. 65 comes into force in accordance with reg. 1(1)
 
-[^key-fec3b52fa777a069cbab7295aaffb434]: Commencement: Reg. 66 comes into force in accordance with reg. 1(1)
+[^c-fec3b52fa777a069cbab7295aaffb434]: Commencement: Reg. 66 comes into force in accordance with reg. 1(1)
 
 [^f00114]: Footnote: Regulation 8 was amended by [S.I. 2006/1733](https://www.legislation.gov.uk/uksi/2006/1733).
 
-[^key-3c2e31887dbcc8386b9df2837969cf6a]: Commencement: Reg. 67 comes into force in accordance with reg. 1(1)
+[^c-3c2e31887dbcc8386b9df2837969cf6a]: Commencement: Reg. 67 comes into force in accordance with reg. 1(1)
 
 [^f00115]: Footnote: [S.I. 2013/2734](https://www.legislation.gov.uk/uksi/2013/2734).
 
-[^key-fab90a546438f4fc6a845859ecd7e42e]: Commencement: Reg. 68 comes into force in accordance with reg. 1(1)
+[^c-fab90a546438f4fc6a845859ecd7e42e]: Commencement: Reg. 68 comes into force in accordance with reg. 1(1)
 
 [^f00116]: Footnote: Section 87 was amended by sections 319(1) and 320 of and Schedules 12 and 13 to the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) (“the 2004 Act”).
 
@@ -2238,9 +2238,9 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00119]: Footnote: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715).
 
-[^key-00737a0b5b8c8176ab71d88318309250]: Commencement: Reg. 69 comes into force in accordance with reg. 1(1)
+[^c-00737a0b5b8c8176ab71d88318309250]: Commencement: Reg. 69 comes into force in accordance with reg. 1(1)
 
-[^key-1873cdcf51d5af58f3ed9d665ae96871]: Commencement: Reg. 70 comes into force in accordance with reg. 1(1)
+[^c-1873cdcf51d5af58f3ed9d665ae96871]: Commencement: Reg. 70 comes into force in accordance with reg. 1(1)
 
 [^f00120]: Footnote: Section 286 was amended by section 18(1) to (3) of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), section 124(1) to (6) of the Pensions Act [2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30) and sections 23(1) and 24 of the Pensions Act [2011 (c.19)](https://www.legislation.gov.uk/ukpga/2011/19).
 
@@ -2252,9 +2252,9 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00124]: Footnote: Regulation 5 was amended by [S.I. 2009/1851](https://www.legislation.gov.uk/uksi/2009/1851).
 
-[^key-e3289774c84f80e00161f11642e3be0d]: Commencement: Reg. 71 comes into force in accordance with reg. 1(1)
+[^c-e3289774c84f80e00161f11642e3be0d]: Commencement: Reg. 71 comes into force in accordance with reg. 1(1)
 
-[^key-04801d701a674867b76cc5e4b07f38ad]: Commencement: Reg. 72 comes into force in accordance with reg. 1(1)
+[^c-04801d701a674867b76cc5e4b07f38ad]: Commencement: Reg. 72 comes into force in accordance with reg. 1(1)
 
 [^f00125]: Footnote: Paragraph 3B was inserted by [S.I. 2010/1149](https://www.legislation.gov.uk/uksi/2010/1149).
 
@@ -2268,25 +2268,25 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00130]: Footnote: Regulation 31 was inserted by [S.I. 1010/1149](https://www.legislation.gov.uk/uksi/1010/1149).
 
-[^key-5ad22848759ce919377e3667fd361ff9]: Commencement: Reg. 73 comes into force in accordance with reg. 1(1)
+[^c-5ad22848759ce919377e3667fd361ff9]: Commencement: Reg. 73 comes into force in accordance with reg. 1(1)
 
 [^f00131]: Footnote: [S.I. 1995/3183](https://www.legislation.gov.uk/uksi/1995/3183). These regulations were revoked by section 211(2) and Part 2 of Schedule 7 to the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15) with effect from 1st October 2010.
 
-[^key-01d70650d2795a23a5e778c8d5b3186b]: Commencement: Reg. 74 comes into force in accordance with reg. 1(1)
+[^c-01d70650d2795a23a5e778c8d5b3186b]: Commencement: Reg. 74 comes into force in accordance with reg. 1(1)
 
 [^f00132]: Footnote: [S.I. 2010/2132](https://www.legislation.gov.uk/uksi/2010/2132).
 
-[^key-45064ddcdbde8c983c3a3a4e82528080]: Commencement: Reg. 75 comes into force in accordance with reg. 1(1)
+[^c-45064ddcdbde8c983c3a3a4e82528080]: Commencement: Reg. 75 comes into force in accordance with reg. 1(1)
 
-[^key-29ec0d91b2d081058b36c61e3c5f611d]: Commencement: Reg. 76 comes into force in accordance with reg. 1(1)
+[^c-29ec0d91b2d081058b36c61e3c5f611d]: Commencement: Reg. 76 comes into force in accordance with reg. 1(1)
 
 [^f00133]: Footnote: Section 23(1) was amended by section 261(1) of and paragraph 157(2) and (3) of Schedule 27 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
 [^f00134]: Footnote: Part 4A was inserted by section 37 of the 1999 Act.
 
-[^key-9050dc16a6a10abbacec8ba8e23e8357]: Textual amendment: [Pt. 18](https://www.legislation.gov.uk/uksi/2014/1711/part/18) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/35/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9050dc16a6a10abbacec8ba8e23e8357]: Textual amendment: [Pt. 18](https://www.legislation.gov.uk/uksi/2014/1711/part/18) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/35/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99f1cd4b31793c7fd55791c32b91acdd]: Commencement: Reg. 78 comes into force in accordance with reg. 1(1)
+[^c-99f1cd4b31793c7fd55791c32b91acdd]: Commencement: Reg. 78 comes into force in accordance with reg. 1(1)
 
 [^f00143]: Footnote: Regulation 11 was substituted by [S.I. 2005/704](https://www.legislation.gov.uk/uksi/2005/704) and amended by [S.I. 2009/615](https://www.legislation.gov.uk/uksi/2009/615) before revocation by [S.I. 2013/2734](https://www.legislation.gov.uk/uksi/2013/2734).
 
@@ -2306,4 +2306,4 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00151]: Footnote: Paragraph (1) of regulation 7 was amended by S.I.s [2005/3377](https://www.legislation.gov.uk/uksi/2005/3377) and [2006/1733](https://www.legislation.gov.uk/uksi/2006/1733).
 
-[^key-d9ae24ca4287abe62ed695bc3f9bd566]: Commencement: Reg. 79 comes into force in accordance with reg. 1(1)
+[^c-d9ae24ca4287abe62ed695bc3f9bd566]: Commencement: Reg. 79 comes into force in accordance with reg. 1(1)

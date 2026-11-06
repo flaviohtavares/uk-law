@@ -31,7 +31,7 @@ summary: ''
 
 Offshore Installations
 
-The Offshore Installations (Safety Zones) (No.3) Order 2008 (revoked)[^key-7dd24aa2be158c58a7f57d8731cd2d79]
+The Offshore Installations (Safety Zones) (No.3) Order 2008 (revoked)[^c-7dd24aa2be158c58a7f57d8731cd2d79]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into force
 
 17th October 2008
 
-[^key-7dd24aa2be158c58a7f57d8731cd2d79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd24aa2be158c58a7f57d8731cd2d79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7dd24aa2be158c58a7f57d8731cd2d79]
+## 1. Citation and commencement[^c-7dd24aa2be158c58a7f57d8731cd2d79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of safety zone[^key-7dd24aa2be158c58a7f57d8731cd2d79]
+## 2. Establishment of safety zone[^c-7dd24aa2be158c58a7f57d8731cd2d79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dd24aa2be158c58a7f57d8731cd2d79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd24aa2be158c58a7f57d8731cd2d79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SAFETY ZONES[^key-7dd24aa2be158c58a7f57d8731cd2d79]
+## SCHEDULE — SAFETY ZONES[^c-7dd24aa2be158c58a7f57d8731cd2d79]
 
 Article 2
 
@@ -65,8 +65,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7dd24aa2be158c58a7f57d8731cd2d79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd24aa2be158c58a7f57d8731cd2d79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dd24aa2be158c58a7f57d8731cd2d79]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/2454) revoked (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1281/article/4)
+[^c-7dd24aa2be158c58a7f57d8731cd2d79]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/2454) revoked (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1281/article/4)

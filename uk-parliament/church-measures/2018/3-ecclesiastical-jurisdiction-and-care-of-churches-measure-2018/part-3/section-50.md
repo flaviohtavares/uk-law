@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 50. Role of churchwardens in inspecting fabric etc. of church[^key-0a7bf6387d6889e49886b9b44c44c7e5]
+## 50. Role of churchwardens in inspecting fabric etc. of church[^c-0a7bf6387d6889e49886b9b44c44c7e5]
 
 *Extent: E*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a7bf6387d6889e49886b9b44c44c7e5]: Commencement: [S. 50](https://www.legislation.gov.uk/ukcm/2018/3/section/50) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-0a7bf6387d6889e49886b9b44c44c7e5]: Commencement: [S. 50](https://www.legislation.gov.uk/ukcm/2018/3/section/50) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Meaning of “young child”[^key-a9a3d189d92c6df93d634d61579acdb2]
+## 19. Meaning of “young child”[^c-a9a3d189d92c6df93d634d61579acdb2]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ For the purposes of this Part and Part 3, a child is a “young child” during 
 
 ## Annotations
 
-[^key-a9a3d189d92c6df93d634d61579acdb2]: Commencement: S. 19 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/b)
+[^c-a9a3d189d92c6df93d634d61579acdb2]: Commencement: S. 19 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/b)

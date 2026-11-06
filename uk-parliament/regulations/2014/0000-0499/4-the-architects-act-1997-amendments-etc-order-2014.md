@@ -48,28 +48,28 @@ The Secretary of State, is designated[^f00001] for the purposes of section 2(2) 
 
 In exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by paragraph 24 of Schedule 1 to the Architects Act 1997[^f00003] and after consultation with the Architects Registration Board and such other persons or bodies as the Secretary of State thinks fit, the Secretary of State makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-20e98c0c5dafa8ce29c3cd97cfa24593]
+## 1. Citation, commencement and interpretation[^c-20e98c0c5dafa8ce29c3cd97cfa24593]
 
 (1) This Order may be cited as the Architects Act 1997 (Amendments etc) Order 2014 and comes into force on 10th February 2014.
 
 (2) In this Order “the Board” means the Architects Registration Board which was continued in existence by section 1(1) of the Architects Act 1997.
 
-## 2. Amendment of the Architects Act 1997[^key-dc9869752c76a7c4e2f661e0f198aab7]
+## 2. Amendment of the Architects Act 1997[^c-dc9869752c76a7c4e2f661e0f198aab7]
 
 The Architects Act 1997 is amended as follows—
 
-- (a)[^key-0883ca0b4418d54bfbb9d07d40359ed9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0883ca0b4418d54bfbb9d07d40359ed9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Schedule 1 (The Board and its committees)—
   - (i) in paragraph 4(1) for “three” substitute “four”; and
   - (ii) in paragraph 5—
     - (aa) for “six” substitute “eight”; and
     - (bb) for “three” substitute “four”.
 
-## 3. Revocation[^key-8d55fea5ba79483a6ea8f2f630c314b0]
+## 3. Revocation[^c-8d55fea5ba79483a6ea8f2f630c314b0]
 
 Regulation 26 of the Architects (Recognition of European Qualifications etc and Saving and Transitional Provision) Regulations 2008[^f00005] is revoked.
 
-## 4. Transitional Provisions[^key-7da632d940da19b187e21e7ac30249d9]
+## 4. Transitional Provisions[^c-7da632d940da19b187e21e7ac30249d9]
 
 (1) This article applies to a person (“P”) who is a member of the Board when this Order comes into force.
 
@@ -119,14 +119,14 @@ Article 4 sets out transitional provisions extending the terms of office of memb
 
 [^f00003]: Footnote: [1997 c. 22](https://www.legislation.gov.uk/ukpga/1997/22).
 
-[^key-20e98c0c5dafa8ce29c3cd97cfa24593]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/4/article/1) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)
+[^c-20e98c0c5dafa8ce29c3cd97cfa24593]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/4/article/1) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)
 
-[^key-dc9869752c76a7c4e2f661e0f198aab7]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/4/article/2) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)
+[^c-dc9869752c76a7c4e2f661e0f198aab7]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/4/article/2) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)
 
-[^key-0883ca0b4418d54bfbb9d07d40359ed9]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/uksi/2014/4/article/2/a) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-0883ca0b4418d54bfbb9d07d40359ed9]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/uksi/2014/4/article/2/a) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-8d55fea5ba79483a6ea8f2f630c314b0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/4/article/3) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)
+[^c-8d55fea5ba79483a6ea8f2f630c314b0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/4/article/3) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)
 
 [^f00005]: Footnote: [S.I. 2008/1331](https://www.legislation.gov.uk/uksi/2008/1331).
 
-[^key-7da632d940da19b187e21e7ac30249d9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/4/article/4) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)
+[^c-7da632d940da19b187e21e7ac30249d9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/4/article/4) in force at 10.2.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Consequence of additional required bids[^key-092e6036f0d7c7686bcc083edb7bb17a]
+## 89. Consequence of additional required bids[^c-092e6036f0d7c7686bcc083edb7bb17a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ If there is a valid partial adjacency agreement, when OFCOM is determining the w
 
 ## Annotations
 
-[^key-092e6036f0d7c7686bcc083edb7bb17a]: Commencement: Reg. 89 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-092e6036f0d7c7686bcc083edb7bb17a]: Commencement: Reg. 89 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

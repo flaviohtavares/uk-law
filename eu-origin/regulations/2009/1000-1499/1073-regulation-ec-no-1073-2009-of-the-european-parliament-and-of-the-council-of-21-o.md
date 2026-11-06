@@ -39,168 +39,168 @@ on common rules for access to the international market for coach and bus service
 
 (Text with EEA relevance) (revoked)
 
-[^key-99cb583f4c919c654be97fff0d3781b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99cb583f4c919c654be97fff0d3781b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL PROVISIONS[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER I — GENERAL PROVISIONS[^c-99cb583f4c919c654be97fff0d3781b6]
 
-### Article 1. Scope[^key-99cb583f4c919c654be97fff0d3781b6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 1. Scope[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Freedom to provide services[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 2. Definitions[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — COMMUNITY LICENCE AND MARKET ACCESS[^key-99cb583f4c919c654be97fff0d3781b6]
-
-### Article 4. Community licence[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 3. Freedom to provide services[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Access to the market[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER II — COMMUNITY LICENCE AND MARKET ACCESS[^c-99cb583f4c919c654be97fff0d3781b6]
+
+### Article 4. Community licence[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — REGULAR SERVICES SUBJECT TO AUTHORISATION[^key-99cb583f4c919c654be97fff0d3781b6]
-
-### Article 6. Nature of authorisation[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 5. Access to the market[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Submission of application for authorisation[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER III — REGULAR SERVICES SUBJECT TO AUTHORISATION[^c-99cb583f4c919c654be97fff0d3781b6]
+
+### Article 6. Nature of authorisation[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Authorising procedure[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 7. Submission of application for authorisation[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Renewal and alteration of authorisation[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 8. Authorising procedure[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Lapse of an authorisation[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 9. Renewal and alteration of authorisation[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Obligations of carriers[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 10. Lapse of an authorisation[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — OCCASIONAL SERVICES AND OTHER SERVICES EXEMPT FROM AUTHORISATION[^key-99cb583f4c919c654be97fff0d3781b6]
-
-### Article 12. Control documents[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 11. Obligations of carriers[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Local excursions[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER IV — OCCASIONAL SERVICES AND OTHER SERVICES EXEMPT FROM AUTHORISATION[^c-99cb583f4c919c654be97fff0d3781b6]
+
+### Article 12. Control documents[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — CABOTAGE[^key-99cb583f4c919c654be97fff0d3781b6]
-
-### Article 14. General principle[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 13. Local excursions[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Authorised cabotage operations[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER V — CABOTAGE[^c-99cb583f4c919c654be97fff0d3781b6]
+
+### Article 14. General principle[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Rules applicable to cabotage operations[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 15. Authorised cabotage operations[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Control documents for cabotage operations[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 16. Rules applicable to cabotage operations[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — CONTROLS AND PENALTIES[^key-99cb583f4c919c654be97fff0d3781b6]
-
-### Article 18. Transport tickets[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 17. Control documents for cabotage operations[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Inspections on the road and in undertakings[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER VI — CONTROLS AND PENALTIES[^c-99cb583f4c919c654be97fff0d3781b6]
+
+### Article 18. Transport tickets[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Mutual assistance[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 19. Inspections on the road and in undertakings[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Withdrawal of ... authorisations[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 20. Mutual assistance[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Sanctioning of infringements by the Member State of establishment[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 21. Withdrawal of ... authorisations[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Sanctioning of infringements by the host Member State[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 22. Sanctioning of infringements by the Member State of establishment[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. Entry in the national electronic registers[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 23. Sanctioning of infringements by the host Member State[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VII — IMPLEMENTATION[^key-99cb583f4c919c654be97fff0d3781b6]
-
-### Article 25. Agreements between Member States[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 24. Entry in the national electronic registers[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 26. Committee procedure[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER VII — IMPLEMENTATION[^c-99cb583f4c919c654be97fff0d3781b6]
+
+### Article 25. Agreements between Member States[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 27. Penalties[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 26. Committee procedure[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 28. Reporting[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 27. Penalties[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 29. Amendment to Regulation (EC) No 561/2006[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 28. Reporting[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VIII — FINAL PROVISIONS[^key-99cb583f4c919c654be97fff0d3781b6]
-
-### Article 30. Repeals[^key-99cb583f4c919c654be97fff0d3781b6]
+### Article 29. Amendment to Regulation (EC) No 561/2006[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 31. Entry into force[^key-99cb583f4c919c654be97fff0d3781b6]
+## CHAPTER VIII — FINAL PROVISIONS[^c-99cb583f4c919c654be97fff0d3781b6]
+
+### Article 30. Repeals[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99cb583f4c919c654be97fff0d3781b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 31. Entry into force[^c-99cb583f4c919c654be97fff0d3781b6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-99cb583f4c919c654be97fff0d3781b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Security features of the Community licence[^key-99cb583f4c919c654be97fff0d3781b6]
+## ANNEX I — Security features of the Community licence[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Community licence model[^key-99cb583f4c919c654be97fff0d3781b6]
+## ANNEX II — Community licence model[^c-99cb583f4c919c654be97fff0d3781b6]
 
-[^key-99cb583f4c919c654be97fff0d3781b6]
+[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — CORRELATION TABLE[^key-99cb583f4c919c654be97fff0d3781b6]
+## ANNEX III — CORRELATION TABLE[^c-99cb583f4c919c654be97fff0d3781b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99cb583f4c919c654be97fff0d3781b6]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/11/1)
+[^c-99cb583f4c919c654be97fff0d3781b6]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/11/1)

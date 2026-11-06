@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Non-discrimination, equal treatment and rights of workers etc.[^key-f43cfaf380e5e487a38bcf051f46fbba]
+## 14. Non-discrimination, equal treatment and rights of workers etc.[^c-f43cfaf380e5e487a38bcf051f46fbba]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f43cfaf380e5e487a38bcf051f46fbba]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2020/1/section/14) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/f)
+[^c-f43cfaf380e5e487a38bcf051f46fbba]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2020/1/section/14) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/f)

@@ -39,169 +39,169 @@ relating to the conduct of proceedings by the Commission pursuant to Articles 81
 
 (Text with EEA relevance) (revoked)
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7c18f15e7d23d098c1ae16a1da90117]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — SCOPE[^key-a7c18f15e7d23d098c1ae16a1da90117]
+## CHAPTER I — SCOPE[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
-### Article 1. Subject-matter and scope[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER II — INITIATION OF PROCEEDINGS[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-### Article 2. Initiation of proceedings[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 1. Subject-matter and scope[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — INVESTIGATIONS BY THE COMMISSION[^key-a7c18f15e7d23d098c1ae16a1da90117]
+## CHAPTER II — INITIATION OF PROCEEDINGS[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
-### Article 3. Power to take statements[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 4. Oral questions during inspections[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 2. Initiation of proceedings[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4a. The Commission's Leniency Programme[^key-a7c18f15e7d23d098c1ae16a1da90117]
+## CHAPTER III — INVESTIGATIONS BY THE COMMISSION[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+### Article 3. Power to take statements[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — HANDLING OF COMPLAINTS[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-### Article 5. Admissibility of complaints[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 4. Oral questions during inspections[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Participation of complainants in proceedings[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 4a. The Commission's Leniency Programme[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Rejection of complaints[^key-a7c18f15e7d23d098c1ae16a1da90117]
+## CHAPTER IV — HANDLING OF COMPLAINTS[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+### Article 5. Admissibility of complaints[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Access to information[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 6. Participation of complainants in proceedings[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Rejections of complaints pursuant to Article 13 of Regulation (EC) No 1/2003[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 7. Rejection of complaints[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — EXERCISE OF THE RIGHT TO BE HEARD[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-### Article 10. Statement of objections and reply[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 8. Access to information[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10a. Settlement procedure in cartel cases[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 9. Rejections of complaints pursuant to Article 13 of Regulation (EC) No 1/2003[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Right to be heard[^key-a7c18f15e7d23d098c1ae16a1da90117]
+## CHAPTER V — EXERCISE OF THE RIGHT TO BE HEARD[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+### Article 10. Statement of objections and reply[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-a7c18f15e7d23d098c1ae16a1da90117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 13. Hearing of other persons[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 10a. Settlement procedure in cartel cases[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Conduct of oral hearings[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 11. Right to be heard[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — ACCESS TO THE FILE AND TREATMENT OF CONFIDENTIAL INFORMATION[^key-a7c18f15e7d23d098c1ae16a1da90117]
+**Article 12.**[^c-a7c18f15e7d23d098c1ae16a1da90117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Access to the file[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 16. Identification and protection of confidential information[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 13. Hearing of other persons[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VIa — LIMITATIONS TO THE USE OF INFORMATION OBTAINED IN THE COURSE OF COMMISSION PROCEEDINGS[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-**Article 16a.**[^key-a7c18f15e7d23d098c1ae16a1da90117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER VII — GENERAL AND FINAL PROVISIONS[^key-a7c18f15e7d23d098c1ae16a1da90117]
-
-### Article 17. Time-limits[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 14. Conduct of oral hearings[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Repeals[^key-a7c18f15e7d23d098c1ae16a1da90117]
+## CHAPTER VI — ACCESS TO THE FILE AND TREATMENT OF CONFIDENTIAL INFORMATION[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+### Article 15. Access to the file[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Transitional provisions[^key-a7c18f15e7d23d098c1ae16a1da90117]
+### Article 16. Identification and protection of confidential information[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Entry into force[^key-a7c18f15e7d23d098c1ae16a1da90117]
+## CHAPTER VIa — LIMITATIONS TO THE USE OF INFORMATION OBTAINED IN THE COURSE OF COMMISSION PROCEEDINGS[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+**Article 16a.**[^c-a7c18f15e7d23d098c1ae16a1da90117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER VII — GENERAL AND FINAL PROVISIONS[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+### Article 17. Time-limits[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 18. Repeals[^c-a7c18f15e7d23d098c1ae16a1da90117]
 
-## ANNEX — FORM C — COMPLAINT PURSUANT TO ARTICLE 7 OF REGULATION (EC) No 1/2003[^key-a7c18f15e7d23d098c1ae16a1da90117]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]I.
+### Article 19. Transitional provisions[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 20. Entry into force[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a7c18f15e7d23d098c1ae16a1da90117]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — FORM C — COMPLAINT PURSUANT TO ARTICLE 7 OF REGULATION (EC) No 1/2003[^c-a7c18f15e7d23d098c1ae16a1da90117]
+
+[^c-a7c18f15e7d23d098c1ae16a1da90117]I.
 
 Information regarding the complainant and the undertaking(s) or association of undertakings giving rise to the complaint
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]1.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]2.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]II.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]II.
 
 Details of the alleged infringement and evidence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]3.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]4.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]5.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]III.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]III.
 
 Finding sought from the Commission and legitimate interest
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]6.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]7.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]IV.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]IV.
 
 Proceedings before national competition authorities or national courts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]8.
+[^c-a7c18f15e7d23d098c1ae16a1da90117]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -211,4 +211,4 @@ Proceedings before national competition authorities or national courts
 
 ## Annotations
 
-[^key-a7c18f15e7d23d098c1ae16a1da90117]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a7c18f15e7d23d098c1ae16a1da90117]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

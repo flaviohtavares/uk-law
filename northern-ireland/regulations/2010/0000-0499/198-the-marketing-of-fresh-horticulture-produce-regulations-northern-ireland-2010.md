@@ -44,50 +44,50 @@ The Department of Agriculture and Rural Development is designated[^f00001] for t
 
 The Department of Agriculture and Rural Development makes the following Regulations under the powers conferred by section 2(2) of the European Communities Act 1972.
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for references to provisions of Community instruments to be construed as a reference to those provisions as amended from time to time.[^key-cf399214d1477b63e64ef57c0569329f]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for references to provisions of Community instruments to be construed as a reference to those provisions as amended from time to time.[^c-cf399214d1477b63e64ef57c0569329f]
 
-There has been open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)[^f00003] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^key-cf399214d1477b63e64ef57c0569329f]
+There has been open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)[^f00003] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^c-cf399214d1477b63e64ef57c0569329f]
 
-## 1. Title and commencement[^key-cb17950093863dff03f1b57f84b16273]
+## 1. Title and commencement[^c-cb17950093863dff03f1b57f84b16273]
 
 (1) These Regulations may be cited as the Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010 and shall come into operation on 25th June 2010.
 
-## 2. Interpretation[^key-6f3a4aca28f195e617009f3c78ac15fa]
+## 2. Interpretation[^c-6f3a4aca28f195e617009f3c78ac15fa]
 
 (1) In these Regulations—
 
 - “authorised officer” means an officer appointed by the Department in accordance with Regulation 3(3);
-- “Commission Implementing Regulation 543/2011” means Commission Implementing Regulation ([^key-65d6792c81a79a576191bac6490d6087]EU) No 543/2011 laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) in respect of the fruit and vegetables and processed fruit and vegetables sectors[^f00006], as amended from time to time;
-- “[^key-1997ec105715f3e1a3194f1c6a445b2b] marketing rules[^key-90acf5dd75ed114983f8ec2c1396f976] ” means the general marketing standard and the specific marketing standards covering fresh fruit and vegetables listed in Part IX of Annex I to C Regulation (EU) 2013, and includes the rules relating to those standards contained in Articles 74, 75 and 76[^key-46aeb34c4482857f48e614dffccffab0] and in Title II of Commission Implementing Regulation 543/2011;
+- “Commission Implementing Regulation 543/2011” means Commission Implementing Regulation ([^c-65d6792c81a79a576191bac6490d6087]EU) No 543/2011 laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) in respect of the fruit and vegetables and processed fruit and vegetables sectors[^f00006], as amended from time to time;
+- “[^c-1997ec105715f3e1a3194f1c6a445b2b] marketing rules[^c-90acf5dd75ed114983f8ec2c1396f976] ” means the general marketing standard and the specific marketing standards covering fresh fruit and vegetables listed in Part IX of Annex I to C Regulation (EU) 2013, and includes the rules relating to those standards contained in Articles 74, 75 and 76[^c-46aeb34c4482857f48e614dffccffab0] and in Title II of Commission Implementing Regulation 543/2011;
 - “container” includes any basket, pail, tray, package or receptacle of any kind, whether open or closed;
 - “controlled” in relation to horticultural produce, means that the power conferred by regulation 10 (1) has been exercised in relation to it and that no consent to its movement has been given under regulation 13(1) when the circumstances in paragraph 13(2) and (3) apply;
-- [^key-1c0ea8c39fbb0ec0379944a18a09873b]...[^f00005]
+- [^c-1c0ea8c39fbb0ec0379944a18a09873b]...[^f00005]
 - “the Department” means the Department of Agriculture and Rural Development[^f00006]
-- “general marketing standard” means the requirements of[^key-3b773efce9791ddc474c438d9759b5c8] Article 76(1) of Regulation (EU) 2013[^key-cc98c6948dbc53067b064716d98161e1] as detailed in Article 3(1) of, and Part A of Annex I to, Commission Implementing Regulation 543/2011
-- “horticultural produce” means fruit and vegetables listed in Part IX of Annex I to Regulation (EU) 2013[^key-3331232e0690c02c70d2636fc0bbdc4f] to which marketing rules apply;
+- “general marketing standard” means the requirements of[^c-3b773efce9791ddc474c438d9759b5c8] Article 76(1) of Regulation (EU) 2013[^c-cc98c6948dbc53067b064716d98161e1] as detailed in Article 3(1) of, and Part A of Annex I to, Commission Implementing Regulation 543/2011
+- “horticultural produce” means fruit and vegetables listed in Part IX of Annex I to Regulation (EU) 2013[^c-3331232e0690c02c70d2636fc0bbdc4f] to which marketing rules apply;
 - “label” includes any device for conveying information by written characters or other symbols, and any characters or symbols stamped or otherwise placed directly on to any horticultural produce or container, and references to the affixing of a label are construed accordingly;
 - “Lay magistrate” means a lay magistrate appointed under section 9 of the Justice (Northern Ireland) Act 2002[^f00007];
 - “non compliance label” means a label indicating that a produce is not compliant with marketing rules;
 - “premises” includes any place, vehicle or trailer, stall, vessel, container, moveable structure, aircraft, or hovercraft;
-- “specific marketing standards” means the marketing standards provided for under[^key-8f70a6dbee8011e4cab1c896f94b36fd] Article 76(1) of Regulation (EU) 2013[^key-9e7ee6a215839d71cfca314fbfb4d633] as detailed in Article 3(2) of, and Part B of Annex I to, Commission Implementing Regulation 543/2011;
+- “specific marketing standards” means the marketing standards provided for under[^c-8f70a6dbee8011e4cab1c896f94b36fd] Article 76(1) of Regulation (EU) 2013[^c-9e7ee6a215839d71cfca314fbfb4d633] as detailed in Article 3(2) of, and Part B of Annex I to, Commission Implementing Regulation 543/2011;
 - “stop notice label” has the meaning given in regulation 12.
-- “[^key-c4088e9521aeb35ade4af04606651f1a]**Regulation (EU) 2013**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+- “[^c-c4088e9521aeb35ade4af04606651f1a]**Regulation (EU) 2013**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
 
-(2) Unless otherwise provided in this regulation, terms used in these Regulations have the same meaning as they have in Regulation (EU) 2013[^key-673590beb86a8ea03dda8f6d2777d507] and Commission Implementing Regulation 543/2011[^key-ea852f57ac0b9accb24ca205a8c68ba5] .
+(2) Unless otherwise provided in this regulation, terms used in these Regulations have the same meaning as they have in Regulation (EU) 2013[^c-673590beb86a8ea03dda8f6d2777d507] and Commission Implementing Regulation 543/2011[^c-ea852f57ac0b9accb24ca205a8c68ba5] .
 
 (3) A reference in these Regulations to anything done “in writing” or produced “in written form” includes a reference to an electronic communication as defined in the Electronic Communications Act (Northern Ireland) 2001[^f00009].
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00010], except section 20(2) and (3), shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Designations, provisions of information and appointment of authorised officers[^key-995150fe2767e967d2c64f158106443c]
+## 3. Designations, provisions of information and appointment of authorised officers[^c-995150fe2767e967d2c64f158106443c]
 
-(1) The Department is designated as the inspection body responsible for the purposes of Article 9(1)(b) of Commission Implementing Regulation 543/2011[^key-f668b11a4fe6c871b021092291290fd9] .
+(1) The Department is designated as the inspection body responsible for the purposes of Article 9(1)(b) of Commission Implementing Regulation 543/2011[^c-f668b11a4fe6c871b021092291290fd9] .
 
-(2) For the purposes of fulfilling the obligations on inspection bodies contained in the[^key-5e30ae4302e13f38d59d14b0d78f9e51]... marketing rules and for the enforcement of these Regulations, the Department may as appropriate or where required to do so provide information to the Secretary of State, the Scottish and Welsh inspection bodies[^key-9951dbe58be97df88c12a3d8cd435039]....
+(2) For the purposes of fulfilling the obligations on inspection bodies contained in the[^c-5e30ae4302e13f38d59d14b0d78f9e51]... marketing rules and for the enforcement of these Regulations, the Department may as appropriate or where required to do so provide information to the Secretary of State, the Scottish and Welsh inspection bodies[^c-9951dbe58be97df88c12a3d8cd435039]....
 
 (3) The Department may appoint officers for the purposes of the enforcement of these Regulations, in these Regulations referred to as authorised officers.
 
-## 4. Authorised officer: powers of entry[^key-28fa2f307a5f56fd9644f0a9854e3594]
+## 4. Authorised officer: powers of entry[^c-28fa2f307a5f56fd9644f0a9854e3594]
 
 (1) An authorised officer may enter any premises at any reasonable hour for the purposes of the enforcement of these Regulations.
 
@@ -110,7 +110,7 @@ the lay magistrate may by signed warrant authorise the authorised officer to ent
 
 (7) It is an offence for a person who has obtained confidential information in the course of acting for the purposes of the enforcement of these Regulations to disclose that information, whether it was obtained on premises entered under or by virtue of these Regulations or otherwise, unless the disclosure is made in the performance of that person’s duty or in accordance with section 17(2) of the Anti‑terrorism, Crime and Security Act 2001[^f00011].
 
-## 5. Authorised officer: other powers[^key-cf6297584d98363047e62b946e4a96ad]
+## 5. Authorised officer: other powers[^c-cf6297584d98363047e62b946e4a96ad]
 
 (1) An authorised officer who has lawfully entered premises for the purpose of the enforcement of these Regulations, may for that purpose—
 
@@ -119,10 +119,10 @@ the lay magistrate may by signed warrant authorise the authorised officer to ent
 - (c) inspect and search the premises;
 - (d) inspect any machinery or equipment and any other article on the premises;
 - (e) inspect and take samples of any horticultural produce found on the premises;
-- (f) identify, with demarcation tape or other material, horticultural produce or a specified lot of horticultural produce which is found not to be compliant with[^key-5887d447b7beec0d6224a1bb773bc3ac]... marketing rules;
+- (f) identify, with demarcation tape or other material, horticultural produce or a specified lot of horticultural produce which is found not to be compliant with[^c-5887d447b7beec0d6224a1bb773bc3ac]... marketing rules;
 - (g) inspect, seize and detain any container used in connection with horticultural produce;
 - (h) have access to, inspect and copy any label, notice, document or record (in whatever form they are held) and remove them to enable them to be copied or require copies to be made;
-- (i) detach, or give permission to be detached, any produce not compliant with [^key-5887d447b7beec0d6224a1bb773bc3ac]...marketing rules label, or stop notice label when the reasons for their being affixed no longer apply;
+- (i) detach, or give permission to be detached, any produce not compliant with [^c-5887d447b7beec0d6224a1bb773bc3ac]...marketing rules label, or stop notice label when the reasons for their being affixed no longer apply;
 - (j) have access to, inspect and check the data on, and operation of, any computer and any associated apparatus or material that is or has been in use in connection with a label, notice, document or record mentioned in this Regulation, including data relating to deleted files and activity logs; and for this purpose may require any person having charge of, or otherwise concerned with the operation of the computer, apparatus or material to afford such assistance (including the provision of passwords) as may reasonably be required and, where these items are kept by means of a computer, may require them to be produced in a visible and legible form in which they may be taken away;
 - (k) seize any computers and associated equipment for the purpose of copying any data, but only if that authorised officer has a reasonable suspicion that an offence under these Regulations has been committed, and provided they are returned as soon as practicable; and
 - (l) seize and detain any items in sub‑paragraph (h) if the authorised officer has reason to believe they may be required as evidence in proceedings under these Regulations.
@@ -132,9 +132,9 @@ the lay magistrate may by signed warrant authorise the authorised officer to ent
 - (a) as soon as is reasonably practicable, provide to the person appearing to be responsible for any items that that authorised officer seizes and detains under paragraph (1) a written receipt identifying those items; and
 - (b) as soon as is reasonably practicable after deciding that those items are no longer required, return them, apart from those to be used as evidence in proceedings under these Regulations.
 
-## 6. Authorised officer: power to affix a non compliance label[^key-a5cfc2a9d476253b839b67a5df60211d]
+## 6. Authorised officer: power to affix a non compliance label[^c-a5cfc2a9d476253b839b67a5df60211d]
 
-(1) Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds horticultural produce subject to a specific marketing standard which has affixed to it a label or is accompanied by a notice or a document required by [^key-089babda4b8101ac98b9ddbbb7977d51]...marketing rules, or is in a container to which such a label is affixed or which is accompanied by such a notice or document—
+(1) Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds horticultural produce subject to a specific marketing standard which has affixed to it a label or is accompanied by a notice or a document required by [^c-089babda4b8101ac98b9ddbbb7977d51]...marketing rules, or is in a container to which such a label is affixed or which is accompanied by such a notice or document—
 
 - (a) indicating in either case that that horticultural produce is of a particular class under the relevant specific marketing standard; but
 - (b) which the authorised officer has reasonable cause to believe to be of an inferior class under that specific marketing standard,
@@ -146,7 +146,7 @@ the authorised officer may amend or cancel the label, notice or document and may
 - (a) in the form set out in Part 1 of Schedule 1; and
 - (b) completed in accordance with Part 2 of that Schedule.
 
-**7.**[^key-c155da3dc74a2d29dc6b793d5a845a5b] (1) Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds any horticultural produce which either has affixed to it a label or is accompanied by a notice or a document required by [^M_F_7681e014-7e4b-4069-a45f-7a1643dd462a]... marketing rules, or is in a container to which such a label is affixed or which is accompanied by such a notice or document, indicating in either case that one of the situations in paragraphs (2) to (4) applies, an authorised officer may amend or cancel the label, notice or document and may affix to the horticultural produce, or, as the case may be, to the notice or container, a non compliance label.
+**7.**[^c-c155da3dc74a2d29dc6b793d5a845a5b] (1) Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds any horticultural produce which either has affixed to it a label or is accompanied by a notice or a document required by [^M_F_7681e014-7e4b-4069-a45f-7a1643dd462a]... marketing rules, or is in a container to which such a label is affixed or which is accompanied by such a notice or document, indicating in either case that one of the situations in paragraphs (2) to (4) applies, an authorised officer may amend or cancel the label, notice or document and may affix to the horticultural produce, or, as the case may be, to the notice or container, a non compliance label.
 
 (2) Situation 1 is where the label, notice or document indicates—
 
@@ -163,7 +163,7 @@ the authorised officer may amend or cancel the label, notice or document and may
 - (a) that horticultural produce complies with the general marketing standard; but
 - (b) which the authorised officer has reasonable cause to believe is not of a standard marketable under [^M_F_7681e014-7e4b-4069-a45f-7a1643dd462a]... marketing rules.
 
-**8.**[^key-879e16e80ce2efaad8bfff0b70e22265] (1) Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds any horticultural produce, or container holding horticultural produce, which—
+**8.**[^c-879e16e80ce2efaad8bfff0b70e22265] (1) Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds any horticultural produce, or container holding horticultural produce, which—
 
 - (a) does not have a label required by the [^M_F_f4017e33-7ec2-498b-9769-fb318a4b921a]... marketing rules affixed to it;
 - (b) is not accompanied by a notice or document required by the [^M_F_f4017e33-7ec2-498b-9769-fb318a4b921a]... marketing rules;
@@ -172,7 +172,7 @@ the authorised officer may amend or cancel the label, notice or document and may
 
 the authorised officer may, as appropriate, amend or cancel the label, notice or document and may affix to the horticultural produce, or, as the case may be, to the container, a non compliance label.
 
-## 9. Authorised officer: Requirement to serve a notice in terms of regulations 6, 7 and 8[^key-a91caea80e658b86d004babf59751ebc]
+## 9. Authorised officer: Requirement to serve a notice in terms of regulations 6, 7 and 8[^c-a91caea80e658b86d004babf59751ebc]
 
 (1) If an authorised officer deems it appropriate to affix a non compliance label to horticultural produce or to its container in terms of regulation 6, 7 or 8, the officer must, at the same time serve a written notice on the owner of the horticultural produce or an agent or employee of the owner, advising of the reasons for non compliance and clearly indicating:–
 
@@ -182,12 +182,12 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 (2) Any notice issued by an authorised officer in terms of this regulation shall, in addition to the information required in terms of regulation 9(1)(a), (b) or (c) (as applicable), also contain the following information:–
 
-- (a) the Notice shall be named “Notice of Non compliance with [^key-251ce6f4b7dace23fb1578177a137406]...marketing rules”;
+- (a) the Notice shall be named “Notice of Non compliance with [^c-251ce6f4b7dace23fb1578177a137406]...marketing rules”;
 - (b) reference to the Marketing of Fresh Horticultural Produce Regulations (Northern Ireland) 2010;
 - (c) a reference number to correspond with the compliance check, this reference number to be entered on the non compliance label affixed to the produce;
 - (d) the name and address of the trader or importer or exporter responsible for the horticultural produce;
-- (e) reasons for the non compliance with the [^key-251ce6f4b7dace23fb1578177a137406]...marketing rules;
-- (f) a warning that it is an offence in terms of these Regulations to display or offer for sale, deliver or market in any other manner horticultural produce in contravention of or in non compliance with the [^key-251ce6f4b7dace23fb1578177a137406]...marketing rules;
+- (e) reasons for the non compliance with the [^c-251ce6f4b7dace23fb1578177a137406]...marketing rules;
+- (f) a warning that it is an offence in terms of these Regulations to display or offer for sale, deliver or market in any other manner horticultural produce in contravention of or in non compliance with the [^c-251ce6f4b7dace23fb1578177a137406]...marketing rules;
 - (g) the product (with the variety or type claimed, if applicable);
 - (h) origin of produce claimed;
 - (i) class of produce claimed or attained, if applicable;
@@ -196,7 +196,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 - (l) date, time and place of the compliance check; and
 - (m) an official stamp bearing the number identifying the authorised officer.
 
-## 10. Authorised officer: powers to control the movement of horticultural produce[^key-8e320e2807212619be46d7372d7b9ea1]
+## 10. Authorised officer: powers to control the movement of horticultural produce[^c-8e320e2807212619be46d7372d7b9ea1]
 
 (1) An authorised officer may, by written notice pursuant to paragraph (2), prohibit the movement of any horticultural produce if the authorised officer reasonably suspects that an offence under these Regulations is being committed in respect of that horticultural produce.
 
@@ -206,17 +206,17 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 - (b) identify the recipient of the notice;
 - (c) specify the horticultural produce in relation to which the power has been exercised;
 - (d) state the reason for its detention;
-- (e) confirm that options for bringing the horticultural produce into conformity with the [^key-8fc7a59b066a066bf9d4389990417900]... marketing rules within a specified time or for the appropriate disposal of that horticultural produce within a specified time in such a manner that no offence under these Regulations will be committed in respect of it have been discussed between the authorised officer and the person appearing to be in charge of the horticultural produce;
+- (e) confirm that options for bringing the horticultural produce into conformity with the [^c-8fc7a59b066a066bf9d4389990417900]... marketing rules within a specified time or for the appropriate disposal of that horticultural produce within a specified time in such a manner that no offence under these Regulations will be committed in respect of it have been discussed between the authorised officer and the person appearing to be in charge of the horticultural produce;
 - (f) state the location of that horticultural produce;
 - (g) state that the horticultural produce may not be moved from that location without the written consent of an authorised officer; and
 - (h) contain the authorised officer’s official stamp and number.
 
-(3)[^key-36d7f6107cd88fc5fd07b17ba7cef677] Any notice served under paragraph (1) shall state—
+(3)[^c-36d7f6107cd88fc5fd07b17ba7cef677] Any notice served under paragraph (1) shall state—
 
 - (a) the right of review under regulation 11; and
 - (b) how it may be exercised.
 
-## 11. Review[^key-e93316ce2f64ad66a4d64116bdd17c42]
+## 11. Review[^c-e93316ce2f64ad66a4d64116bdd17c42]
 
 (1) The request for review may be brought by the person on whom the stop notice is served, or the owner of the horticultural produce or an agent or employee acting on behalf of the owner.
 
@@ -236,7 +236,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 (9) The authorised officer must complete the review as soon as reasonably practicable and in any event within 48 hours of the request, and notify the person who requested it, and, if different, the person on whom the notice was served and any other person in possession of the horticultural produce, of the outcome, as soon as reasonably practicable.
 
-## 12. Authorised officer: power to affix a stop notice label[^key-c94cb97a27b2506d54f268ace0b4a082]
+## 12. Authorised officer: power to affix a stop notice label[^c-c94cb97a27b2506d54f268ace0b4a082]
 
 (1) An authorised officer may affix to any controlled horticultural produce, or to any container in which the controlled horticultural produce is packed, a label warning of the exercise of the power in regulation 10(1) (a “stop notice label”).
 
@@ -245,7 +245,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 - (a) in the form set out in Part 3 of Schedule 1 to these Regulations; and
 - (b) completed in accordance with Part 4 of that Schedule.
 
-## 13. Authorised officer: consents to the movement of controlled horticultural produce[^key-d304e4db52240a84694e9df37cc5d1b6]
+## 13. Authorised officer: consents to the movement of controlled horticultural produce[^c-d304e4db52240a84694e9df37cc5d1b6]
 
 (1) An authorised officer may, at any time, give written consent to the movement of controlled horticultural produce and to the lifting of the stop notice.
 
@@ -253,7 +253,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 (3) The circumstances in which this paragraph applies are where—
 
-- (a) the authorised officer is satisfied that no offence under these Regulations would be committed in respect of the horticultural produce if it were sold in circumstances in which [^key-63a1e7d979195c2068ff332d57027405]...marketing rules apply; or
+- (a) the authorised officer is satisfied that no offence under these Regulations would be committed in respect of the horticultural produce if it were sold in circumstances in which [^c-63a1e7d979195c2068ff332d57027405]...marketing rules apply; or
 - (b) the authorised officer, or another authorised officer, has been given a written undertaking that the horticultural produce will be sold or disposed of in a specified manner and the authorised officer is satisfied that if the horticultural produce is sold or disposed of in that manner no offence under these Regulations will be committed in respect of it and the authorised officer has no reason to doubt that the terms of the undertaking will be met.
 
 (4) An authorised officer must, upon request, give written consent to the movement of controlled horticultural produce if the circumstances in paragraph (5) apply.
@@ -262,21 +262,21 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 - (a) the authorised officer, or any other authorised officer, has been given a written undertaking to the effect that—
   - (i) the horticultural produce will be moved to a place approved by an authorised officer;
-  - (ii) at the approved place the steps required to ensure that the horticultural produce may be sold in circumstances in which [^key-63a1e7d979195c2068ff332d57027405]...marketing rules apply without an offence under these Regulations being committed in respect of it will be taken;
+  - (ii) at the approved place the steps required to ensure that the horticultural produce may be sold in circumstances in which [^c-63a1e7d979195c2068ff332d57027405]...marketing rules apply without an offence under these Regulations being committed in respect of it will be taken;
   - (iii) the horticultural produce will not be moved from that place without the written consent of an authorised officer; and
 - (b) the authorised officer has no reason to doubt that the terms of the undertaking will be met.
 
-(6)[^key-24da911e7ef566cccdb7c6d9ca6fb11a] A consent given by an authorised officer under this regulation must—
+(6)[^c-24da911e7ef566cccdb7c6d9ca6fb11a] A consent given by an authorised officer under this regulation must—
 
 - (a) specify the horticultural produce to which it relates;
 - (b) include the terms of any undertaking given under paragraph (3) or (5); and
 - (c) where the consent is given under paragraph (4), state that the horticultural produce continues to be controlled.
 
-## 14. Exercise of powers on premises[^key-2f9a6135e1467b0c20c0cdc4364675a4]
+## 14. Exercise of powers on premises[^c-2f9a6135e1467b0c20c0cdc4364675a4]
 
 The powers under regulations 4 to 10 and 12 to 13 of these Regulations may not be exercised on premises used wholly as a private dwelling house.
 
-## 15. Marketing rules offences[^key-c20ef8f7125267d7533b078c8d9f6312][^key-622d3d6eed64ee92312ec725dcfbbf4f]
+## 15. Marketing rules offences[^c-c20ef8f7125267d7533b078c8d9f6312][^c-622d3d6eed64ee92312ec725dcfbbf4f]
 
 (1) A person is guilty of an offence if they display, offer for sale, deliver or market in any other manner, horticultural produce in contravention of or which is not compliant with—
 
@@ -285,28 +285,28 @@ The powers under regulations 4 to 10 and 12 to 13 of these Regulations may not b
 
 (2) Paragraph (1) does not apply in the circumstances mentioned in regulation 16.
 
-(3) A person is guilty of an offence if they fail to comply with any provision of Commission Implementing Regulation 543/2011[^key-15848e49ef3a2477706743b37b184571] mentioned in column 1 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Schedule.
+(3) A person is guilty of an offence if they fail to comply with any provision of Commission Implementing Regulation 543/2011[^c-15848e49ef3a2477706743b37b184571] mentioned in column 1 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Schedule.
 
 (4) Where—
 
-- (a) an authorised officer has inspected horticultural produce and found it not to be compliant with [^key-157ed49ce713779e41167c617c24f4f2]...marketing rules; and
+- (a) an authorised officer has inspected horticultural produce and found it not to be compliant with [^c-157ed49ce713779e41167c617c24f4f2]...marketing rules; and
 - (b) the person in charge of that horticultural produce has given an undertaking, or has been responsible for the giving of an undertaking in relation to that horticultural produce,
 
 it is an offence for that person to act in breach of the undertaking or to cause or permit their agent or employee to act in breach of the undertaking.
 
-(5) A person is guilty of an offence if, in purporting to provide the information particulars required by [^key-157ed49ce713779e41167c617c24f4f2]...marketing rules for horticultural produce, they give an inaccurate or false description of that horticultural produce on a label affixed to, or in a notice or document accompanying, that horticultural produce.
+(5) A person is guilty of an offence if, in purporting to provide the information particulars required by [^c-157ed49ce713779e41167c617c24f4f2]...marketing rules for horticultural produce, they give an inaccurate or false description of that horticultural produce on a label affixed to, or in a notice or document accompanying, that horticultural produce.
 
-(6) A person, other than an authorised officer, is guilty of an offence if they affix, or cause or permit to be affixed, a non compliance label to any container of horticultural produce, or to the horticultural produce itself, or to any notice or document which is required by [^key-157ed49ce713779e41167c617c24f4f2]...marketing rules to accompany that horticultural produce.
+(6) A person, other than an authorised officer, is guilty of an offence if they affix, or cause or permit to be affixed, a non compliance label to any container of horticultural produce, or to the horticultural produce itself, or to any notice or document which is required by [^c-157ed49ce713779e41167c617c24f4f2]...marketing rules to accompany that horticultural produce.
 
 (7) A person, other than an authorised officer, is guilty of an offence if they remove, conceal, deface or alter, or cause or permit to be removed, concealed, defaced or altered—
 
-- (a) any notice or document which is required by [^key-157ed49ce713779e41167c617c24f4f2]...marketing rules to accompany horticultural produce or any label which is required by [^key-157ed49ce713779e41167c617c24f4f2]...marketing rules to be affixed to that horticultural produce or to its container;
+- (a) any notice or document which is required by [^c-157ed49ce713779e41167c617c24f4f2]...marketing rules to accompany horticultural produce or any label which is required by [^c-157ed49ce713779e41167c617c24f4f2]...marketing rules to be affixed to that horticultural produce or to its container;
 - (b) a non compliance label which has been applied by an authorised officer in the execution of these Regulations to the horticultural produce or to its container;
-- (c) any demarcation tape or other material used by an authorised officer in accordance with regulation 5(1)(f) to identify horticultural produce or a specific lot of horticultural produce which is found not to be compliant with [^key-157ed49ce713779e41167c617c24f4f2]... marketing rules.
+- (c) any demarcation tape or other material used by an authorised officer in accordance with regulation 5(1)(f) to identify horticultural produce or a specific lot of horticultural produce which is found not to be compliant with [^c-157ed49ce713779e41167c617c24f4f2]... marketing rules.
 
-(8) A person is guilty of an offence if they export or import any consignment of horticultural produce to or from any place outside the European [^key-157ed49ce713779e41167c617c24f4f2]...without a document, label or notice required by [^key-157ed49ce713779e41167c617c24f4f2]...marketing rules to accompany that horticultural produce.
+(8) A person is guilty of an offence if they export or import any consignment of horticultural produce to or from any place outside the European [^c-157ed49ce713779e41167c617c24f4f2]...without a document, label or notice required by [^c-157ed49ce713779e41167c617c24f4f2]...marketing rules to accompany that horticultural produce.
 
-## 15A. Provision of information – trader database[^key-de0bb2b796519fb66712bd566fcfb682]
+## 15A. Provision of information – trader database[^c-de0bb2b796519fb66712bd566fcfb682]
 
 (1) A trader must provide to the Department such information as the Department considers necessary to set up and update the database established for the purpose of Article 10 of Commission Implementing Regulation 543/2011.
 
@@ -321,7 +321,7 @@ it is an offence for that person to act in breach of the undertaking or to cause
 
 (2) A person is guilty of an offence if they fail to provide any information required by an authorised officer in accordance with paragraph (1).
 
-## 16. Derogation from specific marketing standards[^key-ff9387190d44b0002d6fac9b73fb8e0c]
+## 16. Derogation from specific marketing standards[^c-ff9387190d44b0002d6fac9b73fb8e0c]
 
 Horticultural produce to which a specific marketing standard applies is not required to comply[^f00012] with that specific marketing standard if that horticultural produce complies with the general marketing standard and if it is—
 
@@ -329,9 +329,9 @@ Horticultural produce to which a specific marketing standard applies is not requ
 - (b) labelled “product intended for processing” or with any other equivalent wording; and
 - (c) not intended for industrial use.
 
-## 17. Offences relating to movement of controlled horticultural produce[^key-531997d0fd0275a5b373e6752a6ba588]
+## 17. Offences relating to movement of controlled horticultural produce[^c-531997d0fd0275a5b373e6752a6ba588]
 
-(1)[^key-2f52029d40664356fd459bc40c9bc2db] A person is guilty of an offence if they move controlled horticultural produce, or a container with controlled horticultural produce in it, or causes or permits it to be moved—
+(1)[^c-2f52029d40664356fd459bc40c9bc2db] A person is guilty of an offence if they move controlled horticultural produce, or a container with controlled horticultural produce in it, or causes or permits it to be moved—
 
 - (a) without the written consent; or
 - (b) other than in accordance with the written consent,
@@ -340,26 +340,26 @@ of an authorised officer given under regulation 13(1).
 
 (2) A person, other than an authorised officer, is guilty of an offence if they remove or cause or permit to be removed from that controlled horticultural produce or its container a stop notice label affixed by an authorised officer under regulation 12(1).
 
-(3)[^key-df6a500e8ed70d09102b02199d863e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-df6a500e8ed70d09102b02199d863e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) It is a defence for a person charged with an offence under this Regulation, to prove that, when the power conferred by regulation 10(1) was exercised, there was no failure to comply with these Regulations in respect of the horticultural produce concerned.
 
-## 18. Obstruction[^key-9d5dd211257795117d6e024c8bdec8a7]
+## 18. Obstruction[^c-9d5dd211257795117d6e024c8bdec8a7]
 
 (1) A person is guilty of an offence if they—
 
-- (a) [^key-b3a7abe356d868fecd78e9aaf57b04bd]...obstruct an authorised officer acting for the purpose of the enforcement of these Regulations, or a person accompanying such an authorised officer under regulation 4(3);
-- (b)[^key-080f4ac598780b2cfaaa7513d7f21545] fail without reasonable excuse to give an authorised officer acting for the purpose of the enforcement of these Regulations any assistance or information or to provide any record or facilities that the authorised officer may reasonably require;
+- (a) [^c-b3a7abe356d868fecd78e9aaf57b04bd]...obstruct an authorised officer acting for the purpose of the enforcement of these Regulations, or a person accompanying such an authorised officer under regulation 4(3);
+- (b)[^c-080f4ac598780b2cfaaa7513d7f21545] fail without reasonable excuse to give an authorised officer acting for the purpose of the enforcement of these Regulations any assistance or information or to provide any record or facilities that the authorised officer may reasonably require;
 - (c) fail to make any request for inspection when required by Community marketing rules or to give any notice or information required by Community marketing rules; or
-- (d) supply[^key-1b801f1d4c2ea8d83b5b4f646057b9d2] to an authorised officer acting for the purpose of the enforcement of these Regulations any information knowing it to be false or misleading.
+- (d) supply[^c-1b801f1d4c2ea8d83b5b4f646057b9d2] to an authorised officer acting for the purpose of the enforcement of these Regulations any information knowing it to be false or misleading.
 
-## 19. Offence due to fault of another person[^key-4290a3e4f214c187009a74e801ef8fcc]
+## 19. Offence due to fault of another person[^c-4290a3e4f214c187009a74e801ef8fcc]
 
 (1) Where the commission by a person (“A”) of an offence under these Regulations was due to an act or default of another person (“B”), B is guilty of an offence.
 
-(2)[^key-76a385fb13af48e88e09bc117bc47233] Proceedings may be taken against B whether or not proceedings are taken against A . 
+(2)[^c-76a385fb13af48e88e09bc117bc47233] Proceedings may be taken against B whether or not proceedings are taken against A . 
 
-## 20. Defences[^key-bf949bf92da10d0e81fd995e9b80097c]
+## 20. Defences[^c-bf949bf92da10d0e81fd995e9b80097c]
 
 (1) It is a defence for a person charged (“A”) with an offence under these Regulations, except for the offences in regulation 18 (obstruction), to prove that their actions were carried out with lawful authority or that they took all reasonable precautions and exercised all due diligence to avoid committing the offence.
 
@@ -372,7 +372,7 @@ of an authorised officer given under regulation 13(1).
 - (a) at least seven clear days before the hearing, and
 - (b) where A has previously appeared before a court in connection with the alleged offence, within one month of A’s first such appearance.
 
-## 21. Offences by bodies corporate[^key-04b41efeea44af646f940bf27cc38d38][^key-7d3ce1664b84954222f6817e2e272177]
+## 21. Offences by bodies corporate[^c-04b41efeea44af646f940bf27cc38d38][^c-7d3ce1664b84954222f6817e2e272177]
 
 (1) Where—
 
@@ -391,15 +391,15 @@ of an authorised officer given under regulation 13(1).
 - (b) in relation to a partnership, a partner;
 - (c) in relation to an unincorporated association other than a partnership, a person who is concerned in the management or control of the association.
 
-## 22. Penalties[^key-aa45c772ae26da9d6f0f9a3df5f97be5]
+## 22. Penalties[^c-aa45c772ae26da9d6f0f9a3df5f97be5]
 
 A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 23. Revocation[^key-a8db51a1c6661a1900344b1a9b5fadd8]
+## 23. Revocation[^c-a8db51a1c6661a1900344b1a9b5fadd8]
 
 The Grading of Horticultural Produce (Amendment) Regulations (Northern Ireland) 1973[^f00015] are revoked.
 
-## 24. Disapplications[^key-85d01722bbf094f316db04b340dfcf18]
+## 24. Disapplications[^c-85d01722bbf094f316db04b340dfcf18]
 
 (1) The Horticulture Act (Northern Ireland) 1966[^f00016] does not apply to horticultural produce.
 
@@ -418,7 +418,7 @@ A senior officer of the Department of Agriculture and Rural Development
 
 Regulations 6, 7, 8 and 12
 
-### PART 1 — Regulations 6, 7 and 8[^key-6da8ceb336664bea28211f077e78ad28]
+### PART 1 — Regulations 6, 7 and 8[^c-6da8ceb336664bea28211f077e78ad28]
 
 #### Form of non compliance Label
 
@@ -434,15 +434,15 @@ Regulations 6, 7, 8 and 12
 </tbody>
 </table>
 
-[^key-046288e1b55c27061535bb21039fbfb3]
+[^c-046288e1b55c27061535bb21039fbfb3]
 
 ### PART 2 — Completion of non compliance Label
 
-**1.**[^key-034c2a4fd40bcf14f0636dfb8311d7f5] The reference number assigned to the label shall be inserted at (a).
+**1.**[^c-034c2a4fd40bcf14f0636dfb8311d7f5] The reference number assigned to the label shall be inserted at (a).
 
-**2.**[^key-f78c93f2751549b6bdbe29ecb050af4e] The personal number assigned to the authorised officer shall be inserted at (b).
+**2.**[^c-f78c93f2751549b6bdbe29ecb050af4e] The personal number assigned to the authorised officer shall be inserted at (b).
 
-### PART 3 — Regulation 12[^key-6e3b17eeba76fa0d48888da0aed53829]
+### PART 3 — Regulation 12[^c-6e3b17eeba76fa0d48888da0aed53829]
 
 #### Form of Stop Notice Label
 
@@ -460,11 +460,11 @@ Regulations 6, 7, 8 and 12
 
 ### PART 4 — Completion of Stop Notice Label
 
-**1.**[^key-76558f62abf90d275e0b1a1e199934ed] The reference number assigned to the label shall be inserted at (a).
+**1.**[^c-76558f62abf90d275e0b1a1e199934ed] The reference number assigned to the label shall be inserted at (a).
 
-**2.**[^key-684081b66a96c4612d237a09b347a6fa] The personal number assigned to the authorised officer shall be inserted at (b).
+**2.**[^c-684081b66a96c4612d237a09b347a6fa] The personal number assigned to the authorised officer shall be inserted at (b).
 
-## SCHEDULE 2 — Provisions of Commission Implementing Regulation 543/2011[^key-13e584ec62901645c11295f88f396087]
+## SCHEDULE 2 — Provisions of Commission Implementing Regulation 543/2011[^c-13e584ec62901645c11295f88f396087]
 
 Regulation 15(3)
 
@@ -503,145 +503,145 @@ These Regulations make obstruction an offence (regulation 18). They also contai
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-cf399214d1477b63e64ef57c0569329f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2010/198) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-cf399214d1477b63e64ef57c0569329f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2010/198) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00003]: Footnote: O.J. No L 31, 1.2.2002, p.1, last amended by [Commission Regulation (EC) No 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No L 60, 5.3.2008, p.17)
 
-[^key-cb17950093863dff03f1b57f84b16273]: Commencement: Reg. 1 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-cb17950093863dff03f1b57f84b16273]: Commencement: Reg. 1 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-6f3a4aca28f195e617009f3c78ac15fa]: Commencement: Reg. 2 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-6f3a4aca28f195e617009f3c78ac15fa]: Commencement: Reg. 2 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-65d6792c81a79a576191bac6490d6087]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/i)
+[^c-65d6792c81a79a576191bac6490d6087]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/i)
 
 [^f00006]: Footnote: Formerly the Department of Agriculture for Northern Ireland; see [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(4)
 
-[^key-1997ec105715f3e1a3194f1c6a445b2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/ii)
+[^c-1997ec105715f3e1a3194f1c6a445b2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/ii)
 
-[^key-90acf5dd75ed114983f8ec2c1396f976]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(2)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90acf5dd75ed114983f8ec2c1396f976]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(2)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-46aeb34c4482857f48e614dffccffab0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/i)
+[^c-46aeb34c4482857f48e614dffccffab0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/i)
 
-[^key-1c0ea8c39fbb0ec0379944a18a09873b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) omitted (21.3.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/ii)
+[^c-1c0ea8c39fbb0ec0379944a18a09873b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) omitted (21.3.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/ii)
 
 [^f00005]: Footnote: OJ No L 299, 16.11.2007, p 1, last amended by [Commission Regulation (EC) No 183/2009](https://www.legislation.gov.uk/european/regulation/2009/0183) (OJ No L63, 7.3.2009, p 9)
 
-[^key-3b773efce9791ddc474c438d9759b5c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/iii)
+[^c-3b773efce9791ddc474c438d9759b5c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/iii)
 
-[^key-cc98c6948dbc53067b064716d98161e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/iii)
+[^c-cc98c6948dbc53067b064716d98161e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/iii)
 
-[^key-3331232e0690c02c70d2636fc0bbdc4f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/iv)
+[^c-3331232e0690c02c70d2636fc0bbdc4f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/iv)
 
 [^f00007]: Footnote: [2002 c.26 (N.I.)](https://www.legislation.gov.uk/nia/2002/26)
 
-[^key-8f70a6dbee8011e4cab1c896f94b36fd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/iv)
+[^c-8f70a6dbee8011e4cab1c896f94b36fd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/a/iv)
 
-[^key-9e7ee6a215839d71cfca314fbfb4d633]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(v)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/v)
+[^c-9e7ee6a215839d71cfca314fbfb4d633]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(v)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/v)
 
-[^key-c4088e9521aeb35ade4af04606651f1a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/vi)
+[^c-c4088e9521aeb35ade4af04606651f1a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/a/vi)
 
-[^key-673590beb86a8ea03dda8f6d2777d507]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/b)
+[^c-673590beb86a8ea03dda8f6d2777d507]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/7/2/b)
 
-[^key-ea852f57ac0b9accb24ca205a8c68ba5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/2) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/b)
+[^c-ea852f57ac0b9accb24ca205a8c68ba5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/2/2) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2012/299/regulation/3/b)
 
 [^f00009]: Footnote: [2001 c.26](https://www.legislation.gov.uk/nia/2001/26) c.9; amended by paragraph 170 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21)
 
 [^f00010]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-995150fe2767e967d2c64f158106443c]: Commencement: Reg. 3 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-995150fe2767e967d2c64f158106443c]: Commencement: Reg. 3 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-f668b11a4fe6c871b021092291290fd9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/3/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/299/regulation/4)
+[^c-f668b11a4fe6c871b021092291290fd9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/3/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/299/regulation/4)
 
-[^key-5e30ae4302e13f38d59d14b0d78f9e51]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/3/2) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e30ae4302e13f38d59d14b0d78f9e51]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/3/2) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9951dbe58be97df88c12a3d8cd435039]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/3/2) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9951dbe58be97df88c12a3d8cd435039]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/3/2) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28fa2f307a5f56fd9644f0a9854e3594]: Commencement: Reg. 4 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-28fa2f307a5f56fd9644f0a9854e3594]: Commencement: Reg. 4 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
 [^f00011]: Footnote: [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24).
 
-[^key-cf6297584d98363047e62b946e4a96ad]: Commencement: Reg. 5 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-cf6297584d98363047e62b946e4a96ad]: Commencement: Reg. 5 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-5887d447b7beec0d6224a1bb773bc3ac]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/nisr/2010/198/regulation/5) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(4)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5887d447b7beec0d6224a1bb773bc3ac]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/nisr/2010/198/regulation/5) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(4)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5cfc2a9d476253b839b67a5df60211d]: Commencement: Reg. 6 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-a5cfc2a9d476253b839b67a5df60211d]: Commencement: Reg. 6 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-089babda4b8101ac98b9ddbbb7977d51]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/6/1) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(5)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-089babda4b8101ac98b9ddbbb7977d51]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/6/1) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(5)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c155da3dc74a2d29dc6b793d5a845a5b]: Commencement: Reg. 7 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-c155da3dc74a2d29dc6b793d5a845a5b]: Commencement: Reg. 7 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
 [^M_F_7681e014-7e4b-4069-a45f-7a1643dd462a]: Textual amendment: Words in reg. 7 omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(6)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-879e16e80ce2efaad8bfff0b70e22265]: Commencement: Reg. 8 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-879e16e80ce2efaad8bfff0b70e22265]: Commencement: Reg. 8 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
 [^M_F_f4017e33-7ec2-498b-9769-fb318a4b921a]: Textual amendment: Words in reg. 8 omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(7)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a91caea80e658b86d004babf59751ebc]: Commencement: Reg. 9 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-a91caea80e658b86d004babf59751ebc]: Commencement: Reg. 9 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-251ce6f4b7dace23fb1578177a137406]: Textual amendment: Word in [reg. 9](https://www.legislation.gov.uk/nisr/2010/198/regulation/9) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(8)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-251ce6f4b7dace23fb1578177a137406]: Textual amendment: Word in [reg. 9](https://www.legislation.gov.uk/nisr/2010/198/regulation/9) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(8)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e320e2807212619be46d7372d7b9ea1]: Commencement: Reg. 10 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-8e320e2807212619be46d7372d7b9ea1]: Commencement: Reg. 10 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-8fc7a59b066a066bf9d4389990417900]: Textual amendment: Word in [reg. 10(2)(e)](https://www.legislation.gov.uk/nisr/2010/198/regulation/10/2/e) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(9)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8fc7a59b066a066bf9d4389990417900]: Textual amendment: Word in [reg. 10(2)(e)](https://www.legislation.gov.uk/nisr/2010/198/regulation/10/2/e) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(9)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36d7f6107cd88fc5fd07b17ba7cef677]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2010/198/regulation/10/3) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/299/regulation/5)
+[^c-36d7f6107cd88fc5fd07b17ba7cef677]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2010/198/regulation/10/3) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/299/regulation/5)
 
-[^key-e93316ce2f64ad66a4d64116bdd17c42]: Commencement: Reg. 11 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-e93316ce2f64ad66a4d64116bdd17c42]: Commencement: Reg. 11 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-c94cb97a27b2506d54f268ace0b4a082]: Commencement: Reg. 12 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-c94cb97a27b2506d54f268ace0b4a082]: Commencement: Reg. 12 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-d304e4db52240a84694e9df37cc5d1b6]: Commencement: Reg. 13 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-d304e4db52240a84694e9df37cc5d1b6]: Commencement: Reg. 13 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-63a1e7d979195c2068ff332d57027405]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/nisr/2010/198/regulation/13) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(10)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63a1e7d979195c2068ff332d57027405]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/nisr/2010/198/regulation/13) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(10)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24da911e7ef566cccdb7c6d9ca6fb11a]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/nisr/2010/198/regulation/13/6) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/299/regulation/6)
+[^c-24da911e7ef566cccdb7c6d9ca6fb11a]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/nisr/2010/198/regulation/13/6) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/299/regulation/6)
 
-[^key-2f9a6135e1467b0c20c0cdc4364675a4]: Commencement: Reg. 14 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-2f9a6135e1467b0c20c0cdc4364675a4]: Commencement: Reg. 14 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-c20ef8f7125267d7533b078c8d9f6312]: Commencement: Reg. 15 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-c20ef8f7125267d7533b078c8d9f6312]: Commencement: Reg. 15 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-622d3d6eed64ee92312ec725dcfbbf4f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2010/198/regulation/15) heading substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(11)(a)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-622d3d6eed64ee92312ec725dcfbbf4f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2010/198/regulation/15) heading substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(11)(a)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-15848e49ef3a2477706743b37b184571]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2010/198/regulation/15/3) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [7](https://www.legislation.gov.uk/nisr/2012/299/regulation/7)
+[^c-15848e49ef3a2477706743b37b184571]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2010/198/regulation/15/3) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [7](https://www.legislation.gov.uk/nisr/2012/299/regulation/7)
 
-[^key-157ed49ce713779e41167c617c24f4f2]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/nisr/2010/198/regulation/15) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(11)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-157ed49ce713779e41167c617c24f4f2]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/nisr/2010/198/regulation/15) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(11)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de0bb2b796519fb66712bd566fcfb682]: Textual amendment: [Regs. 15A](https://www.legislation.gov.uk/nisr/2010/198/regulation/15A), [15B](https://www.legislation.gov.uk/nisr/2010/198/regulation/15B) inserted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/299/regulation/8)
+[^c-de0bb2b796519fb66712bd566fcfb682]: Textual amendment: [Regs. 15A](https://www.legislation.gov.uk/nisr/2010/198/regulation/15A), [15B](https://www.legislation.gov.uk/nisr/2010/198/regulation/15B) inserted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/299/regulation/8)
 
-[^key-ff9387190d44b0002d6fac9b73fb8e0c]: Commencement: Reg. 16 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-ff9387190d44b0002d6fac9b73fb8e0c]: Commencement: Reg. 16 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
 [^f00012]: Footnote: Regulation 16 exercises the derogation from Article 113(a)(3) of [Commission Regulation (EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) in Article 3 (3) of [Commission Regulation (EC) No. 1580/2007](https://www.legislation.gov.uk/european/regulation/2007/1580), as amended by Article 1(2)(a) and (c) of [Commission Regulation (EC) No. 1221/2008](https://www.legislation.gov.uk/european/regulation/2008/1221) amending Regulation [(EC) No. 1580/2007](https://www.legislation.gov.uk/european/regulation/2007/1580) laying down implementing rules of Council Regulations [(EC) No. 2200/96](https://www.legislation.gov.uk/european/regulation/1996/2200), [(EC) No. 2201/96](https://www.legislation.gov.uk/european/regulation/1996/2201) and [(EC) No. 1182/2007](https://www.legislation.gov.uk/european/regulation/2007/1182) in the fruit and vegetable sector as regards marketing standards (O.J. No. L 336, 13.12.2008, p.1 as corrected by Corrigendum (OJ No L 36, 5.3.2009, p.84).
 
-[^key-531997d0fd0275a5b373e6752a6ba588]: Commencement: Reg. 17 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-531997d0fd0275a5b373e6752a6ba588]: Commencement: Reg. 17 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-2f52029d40664356fd459bc40c9bc2db]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/17/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2012/299/regulation/9/a)
+[^c-2f52029d40664356fd459bc40c9bc2db]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/17/1) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2012/299/regulation/9/a)
 
-[^key-df6a500e8ed70d09102b02199d863e61]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/nisr/2010/198/regulation/17/3) omitted (27.8.2012) by virtue of [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2012/299/regulation/9/b)
+[^c-df6a500e8ed70d09102b02199d863e61]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/nisr/2010/198/regulation/17/3) omitted (27.8.2012) by virtue of [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2012/299/regulation/9/b)
 
-[^key-9d5dd211257795117d6e024c8bdec8a7]: Commencement: Reg. 18 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-9d5dd211257795117d6e024c8bdec8a7]: Commencement: Reg. 18 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-b3a7abe356d868fecd78e9aaf57b04bd]: Textual amendment: Word in [reg. 18(1)(a)](https://www.legislation.gov.uk/nisr/2010/198/regulation/18/1/a) omitted (27.8.2012) by virtue of [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [10(a)](https://www.legislation.gov.uk/nisr/2012/299/regulation/10/a)
+[^c-b3a7abe356d868fecd78e9aaf57b04bd]: Textual amendment: Word in [reg. 18(1)(a)](https://www.legislation.gov.uk/nisr/2010/198/regulation/18/1/a) omitted (27.8.2012) by virtue of [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [10(a)](https://www.legislation.gov.uk/nisr/2012/299/regulation/10/a)
 
-[^key-080f4ac598780b2cfaaa7513d7f21545]: Textual amendment: [Reg. 18(1)(b)](https://www.legislation.gov.uk/nisr/2010/198/regulation/18/1/b) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [10(b)](https://www.legislation.gov.uk/nisr/2012/299/regulation/10/b)
+[^c-080f4ac598780b2cfaaa7513d7f21545]: Textual amendment: [Reg. 18(1)(b)](https://www.legislation.gov.uk/nisr/2010/198/regulation/18/1/b) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [10(b)](https://www.legislation.gov.uk/nisr/2012/299/regulation/10/b)
 
-[^key-1b801f1d4c2ea8d83b5b4f646057b9d2]: Textual amendment: Word in [reg. 18(1)(d)](https://www.legislation.gov.uk/nisr/2010/198/regulation/18/1/d) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [10(c)](https://www.legislation.gov.uk/nisr/2012/299/regulation/10/c)
+[^c-1b801f1d4c2ea8d83b5b4f646057b9d2]: Textual amendment: Word in [reg. 18(1)(d)](https://www.legislation.gov.uk/nisr/2010/198/regulation/18/1/d) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [10(c)](https://www.legislation.gov.uk/nisr/2012/299/regulation/10/c)
 
-[^key-4290a3e4f214c187009a74e801ef8fcc]: Commencement: Reg. 19 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-4290a3e4f214c187009a74e801ef8fcc]: Commencement: Reg. 19 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-76a385fb13af48e88e09bc117bc47233]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/19/2) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [11](https://www.legislation.gov.uk/nisr/2012/299/regulation/11)
+[^c-76a385fb13af48e88e09bc117bc47233]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/nisr/2010/198/regulation/19/2) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [11](https://www.legislation.gov.uk/nisr/2012/299/regulation/11)
 
-[^key-bf949bf92da10d0e81fd995e9b80097c]: Commencement: Reg. 20 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-bf949bf92da10d0e81fd995e9b80097c]: Commencement: Reg. 20 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-04b41efeea44af646f940bf27cc38d38]: Commencement: Reg. 21 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-04b41efeea44af646f940bf27cc38d38]: Commencement: Reg. 21 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-7d3ce1664b84954222f6817e2e272177]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/198/regulation/21) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [12](https://www.legislation.gov.uk/nisr/2012/299/regulation/12)
+[^c-7d3ce1664b84954222f6817e2e272177]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/198/regulation/21) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [12](https://www.legislation.gov.uk/nisr/2012/299/regulation/12)
 
-[^key-aa45c772ae26da9d6f0f9a3df5f97be5]: Commencement: Reg. 22 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-aa45c772ae26da9d6f0f9a3df5f97be5]: Commencement: Reg. 22 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-a8db51a1c6661a1900344b1a9b5fadd8]: Commencement: Reg. 23 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-a8db51a1c6661a1900344b1a9b5fadd8]: Commencement: Reg. 23 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1973 No. 19](https://www.legislation.gov.uk/nisr/1973/19)
 
-[^key-85d01722bbf094f316db04b340dfcf18]: Commencement: Reg. 24 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-85d01722bbf094f316db04b340dfcf18]: Commencement: Reg. 24 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
 [^f00016]: Footnote: [1966 c.15 (N.I.)](https://www.legislation.gov.uk/apni/1966/15)
 
@@ -651,18 +651,18 @@ These Regulations make obstruction an offence (regulation 18). They also contai
 
 [^f00019]: Footnote: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
-[^key-6da8ceb336664bea28211f077e78ad28]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/198/schedule/1/part/1) in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-6da8ceb336664bea28211f077e78ad28]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/198/schedule/1/part/1) in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-046288e1b55c27061535bb21039fbfb3]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/198/schedule/1/part/1) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(14)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-046288e1b55c27061535bb21039fbfb3]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/198/schedule/1/part/1) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [10(14)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/10/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-034c2a4fd40bcf14f0636dfb8311d7f5]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-034c2a4fd40bcf14f0636dfb8311d7f5]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-f78c93f2751549b6bdbe29ecb050af4e]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-f78c93f2751549b6bdbe29ecb050af4e]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-6e3b17eeba76fa0d48888da0aed53829]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2010/198/schedule/1/part/3) in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-6e3b17eeba76fa0d48888da0aed53829]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2010/198/schedule/1/part/3) in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-76558f62abf90d275e0b1a1e199934ed]: Commencement: Sch. 1 Pt. 4 para. 1 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-76558f62abf90d275e0b1a1e199934ed]: Commencement: Sch. 1 Pt. 4 para. 1 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-684081b66a96c4612d237a09b347a6fa]: Commencement: Sch. 1 Pt. 4 para. 2 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
+[^c-684081b66a96c4612d237a09b347a6fa]: Commencement: Sch. 1 Pt. 4 para. 2 in operation at 25.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/1/1)
 
-[^key-13e584ec62901645c11295f88f396087]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2010/198/schedule/2) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [13](https://www.legislation.gov.uk/nisr/2012/299/regulation/13)
+[^c-13e584ec62901645c11295f88f396087]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2010/198/schedule/2) substituted (27.8.2012) by [The Marketing of Fresh Horticulture Produce (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/299)](https://www.legislation.gov.uk/nisr/2012/299), [regs. 1](https://www.legislation.gov.uk/nisr/2012/299/regulation/1), [13](https://www.legislation.gov.uk/nisr/2012/299/regulation/13)

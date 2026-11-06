@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Application for the surrender of an environmental permit[^key-5fa51e97d5e010cd4e969a784e03db5f]
+## 25. Application for the surrender of an environmental permit[^c-5fa51e97d5e010cd4e969a784e03db5f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa51e97d5e010cd4e969a784e03db5f]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2016/1154/regulation/25) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2022/1067/article/6/1/a)
+[^c-5fa51e97d5e010cd4e969a784e03db5f]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2016/1154/regulation/25) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2022/1067/article/6/1/a)

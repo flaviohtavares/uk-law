@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Cancellation of registration: additional procedure in cases involving condition D[^key-e15223b00f1569f76ea0b0a309324c5c]
+## 7. Cancellation of registration: additional procedure in cases involving condition D[^c-e15223b00f1569f76ea0b0a309324c5c]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ the FCA may give such directions as it considers appropriate for securing that t
 
 ## Annotations
 
-[^key-e15223b00f1569f76ea0b0a309324c5c]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2014/14/section/7) applied (with modifications) by 1979 c. 34, s. 20(1C) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/10/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-e15223b00f1569f76ea0b0a309324c5c]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2014/14/section/7) applied (with modifications) by 1979 c. 34, s. 20(1C) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/10/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

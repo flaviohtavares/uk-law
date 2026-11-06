@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## A1. Citation and commencement[^key-59d3c5be21f4c996409b60c4bdd42b51]
+## A1. Citation and commencement[^c-59d3c5be21f4c996409b60c4bdd42b51]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Teachers' Superannuation Regulations (Nort
 
 ## Annotations
 
-[^key-59d3c5be21f4c996409b60c4bdd42b51]: Commencement: Reg. A1 in operation at 2.11.1998, see reg. A1
+[^c-59d3c5be21f4c996409b60c4bdd42b51]: Commencement: Reg. A1 in operation at 2.11.1998, see reg. A1

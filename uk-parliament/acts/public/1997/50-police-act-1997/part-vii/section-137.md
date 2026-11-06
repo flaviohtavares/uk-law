@@ -25,8 +25,8 @@ summary: ''
 (2) The following provisions of this Act extend to England and Wales only—
 
 - (a) Part II;
-- (b)[^key-293e445d0e131fb9ee251a627ec8e4cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-6a0ca318dd10c1b429c35fcff790f10b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-293e445d0e131fb9ee251a627ec8e4cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6a0ca318dd10c1b429c35fcff790f10b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c12097201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) sections 128 and 129.
 
@@ -36,9 +36,9 @@ summary: ''
 
 ## Annotations
 
-[^key-293e445d0e131fb9ee251a627ec8e4cb]: Textual amendment: S. 137(2)(b) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/105), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-293e445d0e131fb9ee251a627ec8e4cb]: Textual amendment: S. 137(2)(b) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/105), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-6a0ca318dd10c1b429c35fcff790f10b]: Textual amendment: S. 137(2)(c) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/105), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-6a0ca318dd10c1b429c35fcff790f10b]: Textual amendment: S. 137(2)(c) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/105), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c12097201]: Textual amendment: S. 137(2)(d) repealed (1.8.2001) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2001/2223](https://www.legislation.gov.uk/uksi/2001/2223), [art. 3(j)(l)(ii)](https://www.legislation.gov.uk/uksi/2001/2223/article/3/j/l/ii)
 

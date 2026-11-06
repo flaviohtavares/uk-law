@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 300. Appeals and applications to courts of summary jurisdiction.[^c611818][^c611819][^c611820][^c611821][^key-db31e892d3705858832fb82da69a32d9][^key-d76e69450b1ed8f667ce20714f3724fb][^key-cbf256d5ac1d7055fef3f56dec0eb8bf][^key-291a9ece78020aafdd2cfac0e29fa3fd][^c611817]
+## 300. Appeals and applications to courts of summary jurisdiction.[^c611818][^c611819][^c611820][^c611821][^c-db31e892d3705858832fb82da69a32d9][^c-d76e69450b1ed8f667ce20714f3724fb][^c-cbf256d5ac1d7055fef3f56dec0eb8bf][^c-291a9ece78020aafdd2cfac0e29fa3fd][^c611817]
 
 *Extent: E+W*
 
@@ -45,13 +45,13 @@ the procedure shall be by way of complaint for an order, and the Summary Jurisdi
 
 [^c611821]: Modification: S. 300 applied (with modifications) (20.9.2000) by [2000 c. vii](https://www.legislation.gov.uk/ukla/2000/7), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2000/7/section/1/1), [19(9)-(11)](https://www.legislation.gov.uk/ukla/2000/7/section/19/9)
 
-[^key-db31e892d3705858832fb82da69a32d9]: Modification: S. 300 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
+[^c-db31e892d3705858832fb82da69a32d9]: Modification: S. 300 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
 
-[^key-d76e69450b1ed8f667ce20714f3724fb]: Modification: Ss. 300-302 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
+[^c-d76e69450b1ed8f667ce20714f3724fb]: Modification: Ss. 300-302 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
 
-[^key-cbf256d5ac1d7055fef3f56dec0eb8bf]: Modification: Ss. 300-302 applied (with modifications) (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [38(4)](https://www.legislation.gov.uk/ukla/2008/1/section/38/4) (with [ss. 38(9)](https://www.legislation.gov.uk/ukla/2008/1/section/38/9), [48](https://www.legislation.gov.uk/ukla/2008/1/section/48))
+[^c-cbf256d5ac1d7055fef3f56dec0eb8bf]: Modification: Ss. 300-302 applied (with modifications) (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [38(4)](https://www.legislation.gov.uk/ukla/2008/1/section/38/4) (with [ss. 38(9)](https://www.legislation.gov.uk/ukla/2008/1/section/38/9), [48](https://www.legislation.gov.uk/ukla/2008/1/section/48))
 
-[^key-291a9ece78020aafdd2cfac0e29fa3fd]: Modification: S. 300 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
+[^c-291a9ece78020aafdd2cfac0e29fa3fd]: Modification: S. 300 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
 
 [^c611817]: Modification: S. 300 extended by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [s. 77(1)](https://www.legislation.gov.uk/ukpga/1976/57/section/77/1) and [Thermal Insulation (Industrial Buildings) Act 1957 (c. 40)](https://www.legislation.gov.uk/ukpga/1957/40), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1957/40/section/8/1) which 1957 Act has been repealed (E.W.) by [S.I. 1985/4936](https://www.legislation.gov.uk/uksi/1985/4936), [reg 3(2)](https://www.legislation.gov.uk/uksi/1985/4936/regulation/3/2), [Sch. 4](https://www.legislation.gov.uk/uksi/1985/4936/schedule/4)
 

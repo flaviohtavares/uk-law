@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48A. Further disregard of student’s income[^key-19b1ac590f101659b1ea0aeff9a68633]
+## 48A. Further disregard of student’s income[^c-19b1ac590f101659b1ea0aeff9a68633]
 
 *Extent: E+W+S*
 
-Where any part of a student’s income has already been taken into account for the purposes of assessing his entitlement to a grant or student loan[^key-5b20d15716dd89952ad1249a2e68af8f], the amount taken into account shall be disregarded in assessing that student’s income.
+Where any part of a student’s income has already been taken into account for the purposes of assessing his entitlement to a grant or student loan[^c-5b20d15716dd89952ad1249a2e68af8f], the amount taken into account shall be disregarded in assessing that student’s income.
 
 ## Annotations
 
-[^key-19b1ac590f101659b1ea0aeff9a68633]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/48A) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1(5)](https://www.legislation.gov.uk/uksi/1998/563/regulation/1/5), [4(3)](https://www.legislation.gov.uk/uksi/1998/563/regulation/4/3)[(4)(b)](https://www.legislation.gov.uk/uksi/1998/563/regulation/4/4/b)
+[^c-19b1ac590f101659b1ea0aeff9a68633]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/48A) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1(5)](https://www.legislation.gov.uk/uksi/1998/563/regulation/1/5), [4(3)](https://www.legislation.gov.uk/uksi/1998/563/regulation/4/3)[(4)(b)](https://www.legislation.gov.uk/uksi/1998/563/regulation/4/4/b)
 
-[^key-5b20d15716dd89952ad1249a2e68af8f]: Textual amendment: Words in [reg. 48A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/48A) inserted (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(7)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/7)
+[^c-5b20d15716dd89952ad1249a2e68af8f]: Textual amendment: Words in [reg. 48A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/48A) inserted (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(7)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/7)

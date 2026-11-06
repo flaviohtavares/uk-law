@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Amendment of Commission Decision [2009/184/EC](https://www.legislation.gov.uk/eud/2009/184)[^key-35b2b24905e61ff8a44e9621807b7f92]
+## 110. Amendment of Commission Decision [2009/184/EC](https://www.legislation.gov.uk/eud/2009/184)[^c-35b2b24905e61ff8a44e9621807b7f92]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision [2009/184/EC](https://www.legislation.gov.uk/eud/2009/184) a
 
 ## Annotations
 
-[^key-35b2b24905e61ff8a44e9621807b7f92]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-35b2b24905e61ff8a44e9621807b7f92]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

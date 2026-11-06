@@ -38,14 +38,14 @@ Section 37.
 - (e) the [^c14884331]Landlord and Tenant Act 1954;
 - (f) section 39(6)(b) of the [^c14884341]Opencast Coal Act 1958;
 - (g) section 11 of the [^c14884351]Land Compensation Act 1961;
-- (h)[^key-eb6e07e84071506cafb023bd8721cf83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-eb6e07e84071506cafb023bd8721cf83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) section 18 of the [^c14884371]Land Compensation (Scotland) Act 1963;
 - (j) Schedule 3 to the [^c14884381]Harbours Act 1964;
 - (k) Schedule 6 to the [^c14884391]Gas Act 1965;
 - (l) the [^c14884401]New Towns (Scotland) Act 1968;
 - (m) paragraph 6 of Schedule 2 to the [^c14884411]Countryside Act 1968;
 - (n) section 22 of the [^c14884421]Sewerage (Scotland) Act 1968;
-- (o) sections [^key-31ab8ded7ee2af6b0938f2a4c7dd5ded]... 296 and 611 of the [^c14884431]Housing Act 1985.
+- (o) sections [^c-31ab8ded7ee2af6b0938f2a4c7dd5ded]... 296 and 611 of the [^c14884431]Housing Act 1985.
 
 ### Public health
 
@@ -64,7 +64,7 @@ as they apply in relation to a railway company and its railway.
 
 ### Civil defence
 
-**3.**[^key-5b0fa1aade395b53bd9d85898d36252b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5b0fa1aade395b53bd9d85898d36252b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pipe-lines
 
@@ -181,9 +181,9 @@ as they apply in relation to a railway company and its railway.
 
 ### Development
 
-**17.**[^key-47f741110925bee28386d76a2a8f6ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-47f741110925bee28386d76a2a8f6ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.** [^key-14ebd713a8520590ec6fe4b7430c2bd7]...
+**18.** [^c-14ebd713a8520590ec6fe4b7430c2bd7]...
 
 .
 
@@ -207,7 +207,7 @@ as they apply in relation to a railway company and its railway.
 
 [^c14884351]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
-[^key-eb6e07e84071506cafb023bd8721cf83]: Textual amendment: Sch. 5 para. 1(2)(h) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [sch. 3 para. 12](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/12) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-eb6e07e84071506cafb023bd8721cf83]: Textual amendment: Sch. 5 para. 1(2)(h) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [sch. 3 para. 12](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/12) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
 
 [^c14884371]: Marginal citation: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).
 
@@ -221,7 +221,7 @@ as they apply in relation to a railway company and its railway.
 
 [^c14884421]: Marginal citation: [1968 c. 47](https://www.legislation.gov.uk/ukpga/1968/47).
 
-[^key-31ab8ded7ee2af6b0938f2a4c7dd5ded]: Textual amendment: Word in Sch. 5 para. 1(2)(o) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-31ab8ded7ee2af6b0938f2a4c7dd5ded]: Textual amendment: Word in Sch. 5 para. 1(2)(o) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
 [^c14884431]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -229,7 +229,7 @@ as they apply in relation to a railway company and its railway.
 
 [^c14884451]: Marginal citation: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38).
 
-[^key-5b0fa1aade395b53bd9d85898d36252b]: Textual amendment: Sch. 5 para. 3 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-5b0fa1aade395b53bd9d85898d36252b]: Textual amendment: Sch. 5 para. 3 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
 [^c14884471]: Marginal citation: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).
 
@@ -257,8 +257,8 @@ as they apply in relation to a railway company and its railway.
 
 [^c14884591]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-47f741110925bee28386d76a2a8f6ec0]: Textual amendment: Sch. 5 para. 17 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-47f741110925bee28386d76a2a8f6ec0]: Textual amendment: Sch. 5 para. 17 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-14ebd713a8520590ec6fe4b7430c2bd7]: Textual amendment: Sch. 5 para. 18 repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-14ebd713a8520590ec6fe4b7430c2bd7]: Textual amendment: Sch. 5 para. 18 repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
 
 [^c14884621]: Marginal citation: [1991 c. 45](https://www.legislation.gov.uk/ukpga/1991/45).

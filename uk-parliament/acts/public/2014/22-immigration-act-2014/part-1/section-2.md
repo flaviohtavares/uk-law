@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Restriction on removal of children and their parents etc[^key-ff35e4ec0a06c67d579ccfb196f380c9]
+## 2. Restriction on removal of children and their parents etc[^c-ff35e4ec0a06c67d579ccfb196f380c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ After section 78 of the Nationality, Immigration and Asylum Act 2002, insert—
 
 ## Annotations
 
-[^key-ff35e4ec0a06c67d579ccfb196f380c9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/22/section/2) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/a)
+[^c-ff35e4ec0a06c67d579ccfb196f380c9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/22/section/2) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/a)

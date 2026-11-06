@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Fire safety authorities[^key-ef7c06a9d615537375511341bfd9ab83]
+## 126. Fire safety authorities[^c-ef7c06a9d615537375511341bfd9ab83]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef7c06a9d615537375511341bfd9ab83]: Commencement: S. 126 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-ef7c06a9d615537375511341bfd9ab83]: Commencement: S. 126 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

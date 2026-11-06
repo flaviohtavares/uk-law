@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Encouragement of equal opportunities[^key-f5fe4ca09eb3e5a4ec75cd42013577a3]
+## 39. Encouragement of equal opportunities[^c-f5fe4ca09eb3e5a4ec75cd42013577a3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Social landlords when performing housing services must act in a manner which enc
 
 ## Annotations
 
-[^key-f5fe4ca09eb3e5a4ec75cd42013577a3]: Commencement: S. 39 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-f5fe4ca09eb3e5a4ec75cd42013577a3]: Commencement: S. 39 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

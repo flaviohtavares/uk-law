@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Further restrictions on eligibility[^key-9a1bdb0e178b8329f1ca7c4c76267d09]
+## 5. Further restrictions on eligibility[^c-9a1bdb0e178b8329f1ca7c4c76267d09]
 
 *Extent: E+W+S*
 
@@ -59,6 +59,6 @@ has become payable or who is entitled to or has received relevant compensation.
 
 ## Annotations
 
-[^key-9a1bdb0e178b8329f1ca7c4c76267d09]: Commencement: Reg. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-9a1bdb0e178b8329f1ca7c4c76267d09]: Commencement: Reg. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00007]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41).

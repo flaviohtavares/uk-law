@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Regulation of health care and associated professions[^key-990b7c27b22a671e6f08eee162dfe6cb][^key-6773c4c0d9282019bde754c72799a171]
+## 168. Regulation of health care and associated professions[^c-990b7c27b22a671e6f08eee162dfe6cb][^c-6773c4c0d9282019bde754c72799a171]
 
 *Extent: E+W*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-990b7c27b22a671e6f08eee162dfe6cb]: Commencement: S. 168 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-990b7c27b22a671e6f08eee162dfe6cb]: Commencement: S. 168 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6773c4c0d9282019bde754c72799a171]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2022/31/section/168) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6773c4c0d9282019bde754c72799a171]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2022/31/section/168) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

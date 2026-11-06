@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Compensation[^key-9ef23532d88d497e747606c5d4aaca75][^key-5564d5cef6e594b41746c0debb0ae182]
+## 70. Compensation[^c-9ef23532d88d497e747606c5d4aaca75][^c-5564d5cef6e594b41746c0debb0ae182]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ In section 89 of the 2003 Act (compensation), for subsection (4), substitute—
 
 ## Annotations
 
-[^key-9ef23532d88d497e747606c5d4aaca75]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2015/6/section/70) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
+[^c-9ef23532d88d497e747606c5d4aaca75]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2015/6/section/70) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
 
-[^key-5564d5cef6e594b41746c0debb0ae182]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2015/6/section/70) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-5564d5cef6e594b41746c0debb0ae182]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2015/6/section/70) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

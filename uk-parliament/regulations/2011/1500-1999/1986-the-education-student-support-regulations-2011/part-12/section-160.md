@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Students becoming eligible in the course of an academic year[^key-7a02a30e334d5e27ded9931904275aaf]
+## 160. Students becoming eligible in the course of an academic year[^c-7a02a30e334d5e27ded9931904275aaf]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the student may qualify for the grant under this Part in respect of that academi
 
 ## Annotations
 
-[^key-7a02a30e334d5e27ded9931904275aaf]: Textual amendment: [Reg. 160](https://www.legislation.gov.uk/uksi/2011/1986/regulation/160) substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [30](https://www.legislation.gov.uk/uksi/2023/74/regulation/30)
+[^c-7a02a30e334d5e27ded9931904275aaf]: Textual amendment: [Reg. 160](https://www.legislation.gov.uk/uksi/2011/1986/regulation/160) substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [30](https://www.legislation.gov.uk/uksi/2023/74/regulation/30)

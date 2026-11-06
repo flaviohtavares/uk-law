@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Annual rate of pension credit member’s pension[^key-16bed882533328a1a5aa12a32373bc3e]
+## 106. Annual rate of pension credit member’s pension[^c-16bed882533328a1a5aa12a32373bc3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The annual rate of a pension credit member’s pension is calculated by—
 
 ## Annotations
 
-[^key-16bed882533328a1a5aa12a32373bc3e]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2014/2848/regulation/106) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-16bed882533328a1a5aa12a32373bc3e]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2014/2848/regulation/106) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

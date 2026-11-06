@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. ... Rules of procedure.[^c18262491][^c18262501][^c18262511][^c18262521][^c18262531][^c18262541][^c18262551][^c18262561][^c18262481][^key-54435a8a297b4c881c3dfff68221707d]
+## 144. ... Rules of procedure.[^c18262491][^c18262501][^c18262511][^c18262521][^c18262531][^c18262541][^c18262551][^c18262561][^c18262481][^c-54435a8a297b4c881c3dfff68221707d]
 
 *Extent: E+W*
 
-(A1)[^key-136b75352b920714154b39d50129c6e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(A1)[^c-136b75352b920714154b39d50129c6e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1)[^key-daa756555d50991104a0a59e9753aab9] The Lord Chief Justice may, with the concurrence of the Lord Chancellor, make rules for regulating and prescribing, except in relation to any criminal cause or matter, the procedure and practice to be followed—
+(1)[^c-daa756555d50991104a0a59e9753aab9] The Lord Chief Justice may, with the concurrence of the Lord Chancellor, make rules for regulating and prescribing, except in relation to any criminal cause or matter, the procedure and practice to be followed—
 
 - (a) in magistrates' courts, and
 - (b) by designated officers for magistrates' courts.
 
-(1A)[^c19432701] If the Lord Chancellor does not agree rules made by the Lord Chief Justice, the Lord Chancellor must give the Lord Chief Justice [^key-43eb379870ee0fafcdb77986fdf5f6d6]... written reasons for doing so.
+(1A)[^c19432701] If the Lord Chancellor does not agree rules made by the Lord Chief Justice, the Lord Chancellor must give the Lord Chief Justice [^c-43eb379870ee0fafcdb77986fdf5f6d6]... written reasons for doing so.
 
-(2)[^key-1633055881b5d11651b78c38e0c04b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1633055881b5d11651b78c38e0c04b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1633055881b5d11651b78c38e0c04b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1633055881b5d11651b78c38e0c04b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-1633055881b5d11651b78c38e0c04b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-1633055881b5d11651b78c38e0c04b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The power to make rules conferred by this section shall be exercisable by statutory instrument which shall be subject to annulment by resolution of either House of Parliament.
 
@@ -81,17 +81,17 @@ summary: ''
 
 [^c18262481]: Modification: S. 144 extended by [Criminal Law Act 1977 (c. 45, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1977/45), [s. 48](https://www.legislation.gov.uk/ukpga/1977/45/section/48) (as amended by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154(1)](https://www.legislation.gov.uk/ukpga/1980/43/section/154/1), [Sch. 7 para. 151](https://www.legislation.gov.uk/ukpga/1980/43/schedule/7/paragraph/151))
 
-[^key-54435a8a297b4c881c3dfff68221707d]: Textual amendment: Words in s. 144 heading repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/2)
+[^c-54435a8a297b4c881c3dfff68221707d]: Textual amendment: Words in s. 144 heading repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/2)
 
-[^key-136b75352b920714154b39d50129c6e5]: Textual amendment: S. 144(A1) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/3)
+[^c-136b75352b920714154b39d50129c6e5]: Textual amendment: S. 144(A1) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/3)
 
-[^key-daa756555d50991104a0a59e9753aab9]: Textual amendment: S. 144(1) substituted for s. 144(1)(1ZA) (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/10); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-daa756555d50991104a0a59e9753aab9]: Textual amendment: S. 144(1) substituted for s. 144(1)(1ZA) (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/10); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
 [^c19432701]: Textual amendment: S. 144(1A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 102(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/102/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-43eb379870ee0fafcdb77986fdf5f6d6]: Textual amendment: Words in s. 144(1A) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/5)
+[^c-43eb379870ee0fafcdb77986fdf5f6d6]: Textual amendment: Words in s. 144(1A) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/5)
 
-[^key-1633055881b5d11651b78c38e0c04b14]: Textual amendment: S. 144(2)(3)(3A) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/5)
+[^c-1633055881b5d11651b78c38e0c04b14]: Textual amendment: S. 144(2)(3)(3A) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/1/5)
 
 [^c19432741]: Textual amendment: S. 144(1A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 102(6)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/102/6); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 

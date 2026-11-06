@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A) of that Act [^c23064911].
 
-There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23064921], during the preparation and evaluation of the following Regulations.[^key-9db217942a83dc803daa1310acf87f76]
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23064921], during the preparation and evaluation of the following Regulations.[^c-9db217942a83dc803daa1310acf87f76]
 
 ## 1. Citation, commencement and application
 
@@ -98,8 +98,8 @@ unless it satisfies conditions 1 and 2.
     - (aa) an indication of any cation used; and
     - (bb) the protein content of the mixture;
 - (c) the net quantity of the product, expressed in kilograms or grams;
-- (d) the name, or business name, and address of the food business operator under whose name, or business name, the product is marketed or, if that food business operator is not established in the United Kingdom[^key-c0b5399318182bca9f9ef37c7b298f4d], the importer into the United Kingdom market;
-- (e) in the case of a product imported from a third country[^key-f38fb3e2208c5afa29716689a9bbbc85], the name of the country of origin; and
+- (d) the name, or business name, and address of the food business operator under whose name, or business name, the product is marketed or, if that food business operator is not established in the United Kingdom[^c-c0b5399318182bca9f9ef37c7b298f4d], the importer into the United Kingdom market;
+- (e) in the case of a product imported from a third country[^c-f38fb3e2208c5afa29716689a9bbbc85], the name of the country of origin; and
 - (f) the lot identification of the product or the date of production.
 
 (3) But the package, container or label need not be marked with the particulars referred to in paragraph (2)(b)(ii)(bb), (c), (d) or (e) if those particulars are marked in a document accompanying the product.
@@ -115,7 +115,7 @@ unless it satisfies conditions 1 and 2.
 
 - (a) “**cation**” refers to a neutralizing or buffering agent mentioned in table 4 of Schedule 2;
 - (b) “**minimum milk protein content standards**” means the standards set out at item 2 in table 1 of Schedule 1, 2 or 3 (as applicable).
-- (c)[^key-bc2c935e325e097dbcdd42469bdf2b29] “third country” means any country, other than the United Kingdom, and includes—
+- (c)[^c-bc2c935e325e097dbcdd42469bdf2b29] “third country” means any country, other than the United Kingdom, and includes—
   - (i) the Bailiwick of Guernsey;
   - (ii) the Bailiwick of Jersey;
   - (iii) the Isle of Man.
@@ -169,11 +169,11 @@ The following Regulations are revoked—
 
 (6) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-## 10. Transitional provision: withdrawal from the EU[^key-4cd1ca8ce2df13116f301584def1fc01]
+## 10. Transitional provision: withdrawal from the EU[^c-4cd1ca8ce2df13116f301584def1fc01]
 
 (1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with regulation 4(2)(d) or (e) if—
 
-- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^key-c0f2bacb00419c3bc447918d813fdeb9]; and
+- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^c-c0f2bacb00419c3bc447918d813fdeb9]; and
 - (b) the matter would not have constituted a failure to comply with regulation 4(2)(d) or (e) (as the case may be) as those provisions had effect immediately before IP completion day.
 
 (2) In this regulation, “improvement notice” means an improvement notice pursuant to regulation 7.
@@ -390,13 +390,13 @@ The Explanatory Memorandum for the Regulations is published alongside the Regula
 
 [^c23064921]: Marginal citation: OJ No L 31, 1.2.2002, p 1, as last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-9db217942a83dc803daa1310acf87f76]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/848) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-9db217942a83dc803daa1310acf87f76]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/848) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-c0b5399318182bca9f9ef37c7b298f4d]: Textual amendment: Words in reg. 4(2)(d) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/2/a/i)
+[^c-c0b5399318182bca9f9ef37c7b298f4d]: Textual amendment: Words in reg. 4(2)(d) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/2/a/i)
 
-[^key-f38fb3e2208c5afa29716689a9bbbc85]: Textual amendment: Words in reg. 4(2)(e) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/2/a/ii)
+[^c-f38fb3e2208c5afa29716689a9bbbc85]: Textual amendment: Words in reg. 4(2)(e) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/2/a/ii)
 
-[^key-bc2c935e325e097dbcdd42469bdf2b29]: Textual amendment: Reg. 4(6)(c) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/2/b)
+[^c-bc2c935e325e097dbcdd42469bdf2b29]: Textual amendment: Reg. 4(6)(c) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/2/b)
 
 [^c23064931]: Marginal citation: [S.I. 1985/2026](https://www.legislation.gov.uk/uksi/1985/2026).
 
@@ -406,9 +406,9 @@ The Explanatory Memorandum for the Regulations is published alongside the Regula
 
 [^c23064961]: Marginal citation: OJ L 314, 1.12.2015, p.1.
 
-[^key-4cd1ca8ce2df13116f301584def1fc01]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/848/regulation/10) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/3)
+[^c-4cd1ca8ce2df13116f301584def1fc01]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/848/regulation/10) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/632/regulation/5/3)
 
-[^key-c0f2bacb00419c3bc447918d813fdeb9]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2017/848/regulation/10/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2022/938/regulation/10)
+[^c-c0f2bacb00419c3bc447918d813fdeb9]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2017/848/regulation/10/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2022/938/regulation/10)
 
 [^c23064971]: Marginal citation: OJ No L 354, 31.12.2008, p.7, last amended by Commission Regulation (EU) No 1056/2012 (OJ L 313, 13.11.2012, p.9).
 

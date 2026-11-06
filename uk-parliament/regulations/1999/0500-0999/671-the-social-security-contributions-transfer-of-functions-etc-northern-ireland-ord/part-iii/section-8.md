@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Regulations with respect to decisions[^key-0607c7319b041df5086fe1f23c785b8c][^key-e93cc43238d890c5f2d8f811bcf74886][^key-1d6cb4bcb2cd002328b6de598683ff5c]
+## 8. Regulations with respect to decisions[^c-0607c7319b041df5086fe1f23c785b8c][^c-e93cc43238d890c5f2d8f811bcf74886][^c-1d6cb4bcb2cd002328b6de598683ff5c]
 
 *Extent: N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0607c7319b041df5086fe1f23c785b8c]: Commencement: Art. 8 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-0607c7319b041df5086fe1f23c785b8c]: Commencement: Art. 8 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-e93cc43238d890c5f2d8f811bcf74886]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/671/article/8) in force at 26.3.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(b)](https://www.legislation.gov.uk/nisr/1999/149/article/2/b), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/149/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-e93cc43238d890c5f2d8f811bcf74886]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/671/article/8) in force at 26.3.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(b)](https://www.legislation.gov.uk/nisr/1999/149/article/2/b), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/149/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-1d6cb4bcb2cd002328b6de598683ff5c]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/671/article/8) in force at 1.4.1999 in so far as not already in force by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-1d6cb4bcb2cd002328b6de598683ff5c]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/671/article/8) in force at 1.4.1999 in so far as not already in force by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))

@@ -31,34 +31,34 @@ Greenwich Hospital Act 1947 (repealed)
 
 1947 c.5
 
-[^key-9ea18c249b864ed1129f96dd79268310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ea18c249b864ed1129f96dd79268310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[18th February 1947\]
 
 **No longer in force.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-9ea18c249b864ed1129f96dd79268310][^key-9ea18c249b864ed1129f96dd79268310]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-9ea18c249b864ed1129f96dd79268310][^c-9ea18c249b864ed1129f96dd79268310]
 
-## 2. Extension of power to grant pensions, et ceteralaetc., under 46 & 47 VictoriaVict. c. 32, s. 2.[^key-9ea18c249b864ed1129f96dd79268310][^key-9ea18c249b864ed1129f96dd79268310]
+## 2. Extension of power to grant pensions, et ceteralaetc., under 46 & 47 VictoriaVict. c. 32, s. 2.[^c-9ea18c249b864ed1129f96dd79268310][^c-9ea18c249b864ed1129f96dd79268310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. †Short title, citation and repeals.[^key-9ea18c249b864ed1129f96dd79268310][^key-9ea18c249b864ed1129f96dd79268310]
+## 3. †Short title, citation and repeals.[^c-9ea18c249b864ed1129f96dd79268310][^c-9ea18c249b864ed1129f96dd79268310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## FIRST SCHEDULE — Section 2 of 46 & 47 Vict. c. 32 as amended by section 2 of this Act.[^key-9ea18c249b864ed1129f96dd79268310]
+## FIRST SCHEDULE — Section 2 of 46 & 47 Vict. c. 32 as amended by section 2 of this Act.[^c-9ea18c249b864ed1129f96dd79268310]
 
 Section 2.
 
-**2)**[^key-9ea18c249b864ed1129f96dd79268310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2)**[^c-9ea18c249b864ed1129f96dd79268310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECOND SCHEDULE[^key-9ea18c249b864ed1129f96dd79268310]
+## SECOND SCHEDULE[^c-9ea18c249b864ed1129f96dd79268310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ea18c249b864ed1129f96dd79268310]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/10-11/5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 2 (with [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/2))
+[^c-9ea18c249b864ed1129f96dd79268310]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/10-11/5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 2 (with [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/2))

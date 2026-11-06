@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Constitution: supplementary[^key-868116843520eeb5f2d9f721ed980520]
+## 30. Constitution: supplementary[^c-868116843520eeb5f2d9f721ed980520]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-868116843520eeb5f2d9f721ed980520]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/26/section/30) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-868116843520eeb5f2d9f721ed980520]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/26/section/30) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

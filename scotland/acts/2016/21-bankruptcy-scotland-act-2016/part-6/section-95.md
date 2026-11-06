@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Variation and removal of debtor contribution order by trustee[^key-42cbe9348a7d4f07ec2f21ad3f49cb52]
+## 95. Variation and removal of debtor contribution order by trustee[^c-42cbe9348a7d4f07ec2f21ad3f49cb52]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42cbe9348a7d4f07ec2f21ad3f49cb52]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2016/21/section/95) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-42cbe9348a7d4f07ec2f21ad3f49cb52]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2016/21/section/95) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

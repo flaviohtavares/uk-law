@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Treatment of student loans[^key-5587e2c5bc6c8644d1492afbcbc3f493]
+## 47. Treatment of student loans[^c-5587e2c5bc6c8644d1492afbcbc3f493]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ and from the weekly amount so apportioned there shall be disregarded £10.
 
 ## Annotations
 
-[^key-5587e2c5bc6c8644d1492afbcbc3f493]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1992/1814/regulation/47) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-5587e2c5bc6c8644d1492afbcbc3f493]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1992/1814/regulation/47) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00065]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6).
 

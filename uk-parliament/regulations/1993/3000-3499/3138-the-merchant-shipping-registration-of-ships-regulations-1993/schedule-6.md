@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Approved Countries[^key-814bac8d26b9d0470efb8608b59df2a0]
+## SCHEDULE 6 — Approved Countries[^c-814bac8d26b9d0470efb8608b59df2a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ The approved countries are—
 
 ## Annotations
 
-[^key-814bac8d26b9d0470efb8608b59df2a0]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/1993/3138/schedule/6) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/509/regulation/32)
+[^c-814bac8d26b9d0470efb8608b59df2a0]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/1993/3138/schedule/6) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/509/regulation/32)

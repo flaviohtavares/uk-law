@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Disclosure of information for enforcing fines[^key-72f496dee88bc81fe3a5f7d46e635faa]
+## 41. Disclosure of information for enforcing fines[^c-72f496dee88bc81fe3a5f7d46e635faa]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72f496dee88bc81fe3a5f7d46e635faa]: Commencement: S. 41 in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/6)
+[^c-72f496dee88bc81fe3a5f7d46e635faa]: Commencement: S. 41 in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/6)

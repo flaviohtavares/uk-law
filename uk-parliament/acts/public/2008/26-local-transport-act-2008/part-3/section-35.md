@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Appeals where proposed continuation considered exempt[^c2199627][^key-8c2ed808a3275ffcf7a0ca8ca177f237]
+## 35. Appeals where proposed continuation considered exempt[^c2199627][^c-8c2ed808a3275ffcf7a0ca8ca177f237]
 
 *Extent: E+W*
 
@@ -95,4 +95,4 @@ After section 131D of the TA 2000 insert—
 
 [^c2199627]: Commencement: S. 35 partly in force; s. 35 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-8c2ed808a3275ffcf7a0ca8ca177f237]: Commencement: S. 35 in force at 11.1.2010 for E. in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-8c2ed808a3275ffcf7a0ca8ca177f237]: Commencement: S. 35 in force at 11.1.2010 for E. in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

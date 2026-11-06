@@ -35,22 +35,22 @@ authorising the placing on the market of betaine as a novel food under Regulatio
 
 (Text with EEA relevance) (revoked)
 
-[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b]
+## ANNEX[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ffc4361c6dd82b5ebd2fd15872fdfc1b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/33) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ffc4361c6dd82b5ebd2fd15872fdfc1b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/33) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Bingo duty[^key-3f82ee577eccf104a1d95c4877c1a367]
+## 9. Bingo duty[^c-3f82ee577eccf104a1d95c4877c1a367]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f82ee577eccf104a1d95c4877c1a367]: Textual amendment: S. 9 omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/9) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-3f82ee577eccf104a1d95c4877c1a367]: Textual amendment: S. 9 omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/9) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

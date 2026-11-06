@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Pools payments to support games etc.[^key-d1d2c14166502ccb2e4daa747bbf22e2]
+## 121. Pools payments to support games etc.[^c-d1d2c14166502ccb2e4daa747bbf22e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1d2c14166502ccb2e4daa747bbf22e2]: Textual amendment: [S. 121](https://www.legislation.gov.uk/ukpga/1991/31/section/121) repealed (6.4.2013 with effect in relation to payments whenever made) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/20)
+[^c-d1d2c14166502ccb2e4daa747bbf22e2]: Textual amendment: [S. 121](https://www.legislation.gov.uk/ukpga/1991/31/section/121) repealed (6.4.2013 with effect in relation to payments whenever made) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/20)

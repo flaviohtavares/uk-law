@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368G. Sponsorship[^key-8b5116708328654f497f918c49a3b13d]
+## 368G. Sponsorship[^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) for the purpose of promoting cigarettes or other tobacco products, or
 - (b) by an undertaking whose principal activity is the manufacture or sale of cigarettes or other tobacco products.
 
-(1A)[^key-0d499b1ed79243b237ced5b6216f1236] An on-demand programme service or a programme included in an on-demand programme service must not be sponsored—
+(1A)[^c-0d499b1ed79243b237ced5b6216f1236] An on-demand programme service or a programme included in an on-demand programme service must not be sponsored—
 
 - (a) for the purpose of promoting electronic cigarettes or electronic cigarette refill containers, or
 - (b) by an undertaking whose principal activity is the manufacture or sale of electronic cigarettes or electronic cigarette refill containers.
@@ -57,8 +57,8 @@ summary: ''
 - (b) include or promote discrimination based on sex, racial or ethnic origin, nationality, religion or belief, disability, age or sexual orientation;
 - (c) encourage behaviour prejudicial to health or safety;
 - (d) encourage behaviour grossly prejudicial to the protection of the environment;
-- (e) cause physical , mental[^key-0727f7015793cb1c4acda2249a15c851] or moral detriment to persons under the age of eighteen;
-- (ea)[^key-bd09bb0d29f2ff8e801ad3f14920ec46] directly exhort such persons to purchase or rent goods or services in a manner which exploits their inexperience or credulity;
+- (e) cause physical , mental[^c-0727f7015793cb1c4acda2249a15c851] or moral detriment to persons under the age of eighteen;
+- (ea)[^c-bd09bb0d29f2ff8e801ad3f14920ec46] directly exhort such persons to purchase or rent goods or services in a manner which exploits their inexperience or credulity;
 - (f) directly encourage such persons to persuade their parents or others to purchase or rent goods or services;
 - (g) exploit the trust of such persons in parents, teachers or others; or
 - (h) unreasonably show such persons in dangerous situations.
@@ -89,10 +89,10 @@ has met some or all of the costs of the programme for the purpose of promoting t
 
 ## Annotations
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-0d499b1ed79243b237ced5b6216f1236]: Textual amendment: [S. 368G(1A)](https://www.legislation.gov.uk/ukpga/2003/21/section/368G/1A) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-0d499b1ed79243b237ced5b6216f1236]: Textual amendment: [S. 368G(1A)](https://www.legislation.gov.uk/ukpga/2003/21/section/368G/1A) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-0727f7015793cb1c4acda2249a15c851]: Textual amendment: Word in [s. 368G(11)(e)](https://www.legislation.gov.uk/ukpga/2003/21/section/368G/11/e) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [34(b)(i)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34/b/i) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-0727f7015793cb1c4acda2249a15c851]: Textual amendment: Word in [s. 368G(11)(e)](https://www.legislation.gov.uk/ukpga/2003/21/section/368G/11/e) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [34(b)(i)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34/b/i) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-bd09bb0d29f2ff8e801ad3f14920ec46]: Textual amendment: [S. 368G(11)(ea)](https://www.legislation.gov.uk/ukpga/2003/21/section/368G/11/ea) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [34(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34/b/ii) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-bd09bb0d29f2ff8e801ad3f14920ec46]: Textual amendment: [S. 368G(11)(ea)](https://www.legislation.gov.uk/ukpga/2003/21/section/368G/11/ea) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [34(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34/b/ii) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))

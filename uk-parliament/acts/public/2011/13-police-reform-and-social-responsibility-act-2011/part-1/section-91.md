@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Power to give directions[^key-1994dad2bb8ff53d7e4fc96353d8d035]
+## 91. Power to give directions[^c-1994dad2bb8ff53d7e4fc96353d8d035]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1994dad2bb8ff53d7e4fc96353d8d035]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2011/13/section/91) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/3))
+[^c-1994dad2bb8ff53d7e4fc96353d8d035]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2011/13/section/91) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/3))

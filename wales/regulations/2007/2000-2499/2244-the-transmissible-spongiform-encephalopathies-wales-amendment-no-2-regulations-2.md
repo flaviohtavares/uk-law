@@ -51,17 +51,17 @@ The Welsh Ministers are designated for the purposes of that section in relation 
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation of the following Regulations.
 
-## 1. Title and Commencement[^key-46fb569f17e05df80018695a758dff2e]
+## 1. Title and Commencement[^c-46fb569f17e05df80018695a758dff2e]
 
 The title of these Regulations is the Transmissible Spongiform Encephalopathies (Wales) (Amendment) (No.2) Regulations 2007 and they come into force on 31 July 2007.
 
-## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2006[^key-9ca414befbfadd3f3b8bc66b51a38f31]
+## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2006[^c-9ca414befbfadd3f3b8bc66b51a38f31]
 
 (1) The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006[^f00004] are amended in accordance with paragraph (2).
 
 (2) For Schedule 6 (specified risk material, mechanically recovered meat and slaughtering techniques) there is substituted the Schedule set out in the Schedule to these Regulations.
 
-## 3. Revocation[^key-26db8fce93f79f3a55ff160b5f7765c2]
+## 3. Revocation[^c-26db8fce93f79f3a55ff160b5f7765c2]
 
 The Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulations 2007[^f00005] are revoked.
 
@@ -71,7 +71,7 @@ Under authority of the Minister for Health and Social Services, one of the Welsh
 
 27 July 2007
 
-## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (WALES) REGULATIONS 2006[^key-54f74b5ceca6fb37f88831eb6110e805]
+## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (WALES) REGULATIONS 2006[^c-54f74b5ceca6fb37f88831eb6110e805]
 
 Regulation 2(2)
 
@@ -305,17 +305,17 @@ Regulation 2(2)
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
 
-[^key-46fb569f17e05df80018695a758dff2e]: Commencement: Reg. 1 in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
+[^c-46fb569f17e05df80018695a758dff2e]: Commencement: Reg. 1 in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
 
-[^key-9ca414befbfadd3f3b8bc66b51a38f31]: Commencement: Reg. 2 in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
+[^c-9ca414befbfadd3f3b8bc66b51a38f31]: Commencement: Reg. 2 in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
 
 [^f00004]: Footnote: S.I. [2006/1226 (W. 117)](https://www.legislation.gov.uk/wsi/2006/1226)
 
-[^key-26db8fce93f79f3a55ff160b5f7765c2]: Commencement: Reg. 3 in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
+[^c-26db8fce93f79f3a55ff160b5f7765c2]: Commencement: Reg. 3 in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
 
 [^f00005]: Footnote: ([S.I 2007/2043) (W. 168)](https://www.legislation.gov.uk/wsi/2007/2043)
 
-[^key-54f74b5ceca6fb37f88831eb6110e805]: Commencement: Sch. in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
+[^c-54f74b5ceca6fb37f88831eb6110e805]: Commencement: Sch. in force at 31.7.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1)
 
 [^f00006]: Footnote: OJ No. L164, 26.6.2007, p.7.
 

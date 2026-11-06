@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, Wearing of Face Coverings) Regulations (Northern Ireland) 2020 (revoked)[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+The Health Protection (Coronavirus, Wearing of Face Coverings) Regulations (Northern Ireland) 2020 (revoked)[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 Made
 
@@ -46,104 +46,104 @@ Coming into operation
 
 at 11.00 p.m. on 23rd July 2020
 
-[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 1. Citation and commencement[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 2. Interpretation[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 3. Savings[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirement to wear a face covering[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 4. Requirement to wear a face covering[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Requirement to wear a face covering whilst entering or remaining within a relevant place[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 4A. Requirement to wear a face covering whilst entering or remaining within a relevant place[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4B. Requirement to wear a face covering in a motor vehicle in use for instruction or examination for a test of competence to drive.[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 4B. Requirement to wear a face covering in a motor vehicle in use for instruction or examination for a test of competence to drive.[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4C. Requirement to wear a face covering in other circumstances[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 4C. Requirement to wear a face covering in other circumstances[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4D. Requirement to ensure compliance[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 4D. Requirement to ensure compliance[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Reasonable excuse[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 5. Reasonable excuse[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Enforcement of requirement[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 6. Enforcement of requirement[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences and penalties[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 7. Offences and penalties[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Fixed Penalty Notices[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 8. Fixed Penalty Notices[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Effect of fixed penalty notice[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 9. Effect of fixed penalty notice[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Registration certificates[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 10. Registration certificates[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Registration of penalty[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 11. Registration of penalty[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Challenge to notice[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 12. Challenge to notice[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Setting aside of sum enforceable under regulation 11[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 13. Setting aside of sum enforceable under regulation 11[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Review[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 14. Review[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Expiry[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## 15. Expiry[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Relevant places where face coverings must be worn[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]
+## SCHEDULE — Relevant places where face coverings must be worn[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]
 
 Regulation 2
 
-**1.**[^key-9af3fc1241fe5476e0f9ee7c0ad754d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9af3fc1241fe5476e0f9ee7c0ad754d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9af3fc1241fe5476e0f9ee7c0ad754d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9af3fc1241fe5476e0f9ee7c0ad754d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9af3fc1241fe5476e0f9ee7c0ad754d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9af3fc1241fe5476e0f9ee7c0ad754d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9af3fc1241fe5476e0f9ee7c0ad754d1]: Textual amendment: Regulations revoked (15.2.2022 at 5.00 p.m.) by [The Health Protection (Coronavirus, Restrictions, Wearing of Face Coverings) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/47)](https://www.legislation.gov.uk/nisr/2022/47), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/47/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2022/47/regulation/2/b)
+[^c-9af3fc1241fe5476e0f9ee7c0ad754d1]: Textual amendment: Regulations revoked (15.2.2022 at 5.00 p.m.) by [The Health Protection (Coronavirus, Restrictions, Wearing of Face Coverings) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/47)](https://www.legislation.gov.uk/nisr/2022/47), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/47/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2022/47/regulation/2/b)

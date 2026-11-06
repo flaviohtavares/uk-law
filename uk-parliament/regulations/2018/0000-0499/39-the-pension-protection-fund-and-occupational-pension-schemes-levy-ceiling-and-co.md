@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2018 (revoked)[^key-d9901a0d133aa5cc1ff96a268634ca71]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2018 (revoked)[^c-d9901a0d133aa5cc1ff96a268634ca71]
 
 Made
 
@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2)
 
-[^key-d9901a0d133aa5cc1ff96a268634ca71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9901a0d133aa5cc1ff96a268634ca71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -68,12 +68,12 @@ Coming into force in accordance with article 1(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9901a0d133aa5cc1ff96a268634ca71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9901a0d133aa5cc1ff96a268634ca71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d9901a0d133aa5cc1ff96a268634ca71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9901a0d133aa5cc1ff96a268634ca71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9901a0d133aa5cc1ff96a268634ca71]: Textual amendment: Instrument revoked (1.4.2019) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2019 (S.I. 2019/159)](https://www.legislation.gov.uk/uksi/2019/159), [art. 5](https://www.legislation.gov.uk/uksi/2019/159/article/5)
+[^c-d9901a0d133aa5cc1ff96a268634ca71]: Textual amendment: Instrument revoked (1.4.2019) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2019 (S.I. 2019/159)](https://www.legislation.gov.uk/uksi/2019/159), [art. 5](https://www.legislation.gov.uk/uksi/2019/159/article/5)

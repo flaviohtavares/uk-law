@@ -52,15 +52,15 @@ The Secretary of State, after consultation with the representatives of authors a
 
 Now the Secretary of State, in exercise of the powers conferred by section 3(7) of the Public Lending Right Act 1979[^f00003], makes the following Order:
 
-## 1. Citation and interpretation[^key-ca0184a56f64c1d281b2fa61ff1e8416]
+## 1. Citation and interpretation[^c-ca0184a56f64c1d281b2fa61ff1e8416]
 
 (1) This Order may be cited as the Public Lending Right Scheme 1982 (Commencement of Variations) Order 2014 and shall come into force on 1st July 2014.
 
 (2) In this Order “the Scheme” means the Public Lending Right Scheme 1982.
 
-(3)[^key-a815dee02a0878b2c379ed038e03e320] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a815dee02a0878b2c379ed038e03e320] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement of variations[^key-3c9f2787bdf3c02d6499666e453f5f66]
+## 2. Commencement of variations[^c-3c9f2787bdf3c02d6499666e453f5f66]
 
 The variations to the Scheme which are set out in the Appendix to this Order shall come into force on 1st July 2014.
 
@@ -76,7 +76,7 @@ Department for Culture, Media and Sport
 
 Article 2
 
-### 1. Variations in the Public Lending Right Scheme 1982[^key-d35ccc6e1651d5bb137b1f87a80f0a1c]
+### 1. Variations in the Public Lending Right Scheme 1982[^c-d35ccc6e1651d5bb137b1f87a80f0a1c]
 
 In article 4—
 
@@ -88,15 +88,15 @@ In article 4—
   > - (iii) by his being named on the case with which the audio-book is sold; or;
   > - (iv) is evidenced by reference to a written contract with the publisher of the audio-book which refers expressly to his being an author within the meaning of paragraph (1).
 
-**2.**[^key-603127327c524a5312d052a671a5e0dd] In article 6(2), after “(including a paper-back edition)” insert “or an audio-book or an e-book”.
+**2.**[^c-603127327c524a5312d052a671a5e0dd] In article 6(2), after “(including a paper-back edition)” insert “or an audio-book or an e-book”.
 
-**3.**[^key-874f2e9d597e719d32fe7429a2ef89ae] In article 9A—
+**3.**[^c-874f2e9d597e719d32fe7429a2ef89ae] In article 9A—
 
 - (a) in paragraphs (1), (2), (3), (4), (5) and (6), insert after the first occurrence of “book” in each of those paragraphs—
 
 - “other than an audio-book,”
 
-**4.**[^key-3e35660c1d772b71654d88b1304ad4f8] After article 9A insert the new article—
+**4.**[^c-3e35660c1d772b71654d88b1304ad4f8] After article 9A insert the new article—
 
 > **9B. Shares in Public Lending Right in respect of audio-books**
 >
@@ -130,14 +130,14 @@ In article 4—
 >
 > (5) In the case of an audio-book for which the number of writers, narrators, producers, editors or translators id greater than one (including any who are not eligible persons) the respective shares of the Public Lending Right referred to in paragraph (1) to (4) shall be divided equally.
 
-**5.**[^key-fdc854e5a5f8570c8985055dd1f8859a] In article 14A —
+**5.**[^c-fdc854e5a5f8570c8985055dd1f8859a] In article 14A —
 
 - (a) in paragraph (c) after “illustrator”, insert “or narrator or producer”;
 - (b) in paragraph (c), for “or (5)(b)(ii)”, insert “, (5)(b)(ii) or article 9B”.
 
-**6.**[^key-8e1a5ef241bb7103262d5f7832eaf586] In articles 17(1)(c) and 17(2)(c) after “compiler”, wherever it occurs, insert “or narrator or producer”.
+**6.**[^c-8e1a5ef241bb7103262d5f7832eaf586] In articles 17(1)(c) and 17(2)(c) after “compiler”, wherever it occurs, insert “or narrator or producer”.
 
-**7.**[^key-44441c0acb42a329b4f5ad880908cdeb] In article 39, for “to be marked” substitute “to be separately identified” and for “so marked” substitute “so identified”.
+**7.**[^c-44441c0acb42a329b4f5ad880908cdeb] In article 39, for “to be marked” substitute “to be separately identified” and for “so marked” substitute “so identified”.
 
 EXPLANATORY NOTE
 
@@ -169,22 +169,22 @@ The Impact of this Order on business, charities and the voluntary sector is negl
 
 [^f00003]: Footnote: [1979 c.10](https://www.legislation.gov.uk/ukpga/1979/10); the functions under the Act were transferred to the Secretary of State by virtue of article 3(1) of, and Schedule 1 to, the Transfer of Functions (National Heritage) Order 1992 ([S.I. 1992/1311](https://www.legislation.gov.uk/uksi/1992/1311)). The Act is amended by the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24), s.43.
 
-[^key-ca0184a56f64c1d281b2fa61ff1e8416]: Commencement: Art. 1 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-ca0184a56f64c1d281b2fa61ff1e8416]: Commencement: Art. 1 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-a815dee02a0878b2c379ed038e03e320]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/3) omitted (13.8.2014) by virtue of [The Public Lending Right Scheme 1982 (Commencement of Variation and Amendment) Order 2014 (S.I. 2014/1945)](https://www.legislation.gov.uk/uksi/2014/1945), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1945/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1945/article/2)
+[^c-a815dee02a0878b2c379ed038e03e320]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/3) omitted (13.8.2014) by virtue of [The Public Lending Right Scheme 1982 (Commencement of Variation and Amendment) Order 2014 (S.I. 2014/1945)](https://www.legislation.gov.uk/uksi/2014/1945), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1945/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1945/article/2)
 
-[^key-3c9f2787bdf3c02d6499666e453f5f66]: Commencement: Art. 2 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-3c9f2787bdf3c02d6499666e453f5f66]: Commencement: Art. 2 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-d35ccc6e1651d5bb137b1f87a80f0a1c]: Commencement: Appendix para. 1 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-d35ccc6e1651d5bb137b1f87a80f0a1c]: Commencement: Appendix para. 1 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-603127327c524a5312d052a671a5e0dd]: Commencement: Appendix para. 2 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-603127327c524a5312d052a671a5e0dd]: Commencement: Appendix para. 2 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-874f2e9d597e719d32fe7429a2ef89ae]: Commencement: Appendix para. 3 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-874f2e9d597e719d32fe7429a2ef89ae]: Commencement: Appendix para. 3 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-3e35660c1d772b71654d88b1304ad4f8]: Commencement: Appendix para. 4 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-3e35660c1d772b71654d88b1304ad4f8]: Commencement: Appendix para. 4 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-fdc854e5a5f8570c8985055dd1f8859a]: Commencement: Appendix para. 5 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-fdc854e5a5f8570c8985055dd1f8859a]: Commencement: Appendix para. 5 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-8e1a5ef241bb7103262d5f7832eaf586]: Commencement: Appendix para. 6 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-8e1a5ef241bb7103262d5f7832eaf586]: Commencement: Appendix para. 6 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
 
-[^key-44441c0acb42a329b4f5ad880908cdeb]: Commencement: Appendix para. 7 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)
+[^c-44441c0acb42a329b4f5ad880908cdeb]: Commencement: Appendix para. 7 in force at 1.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1457/article/1/1)

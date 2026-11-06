@@ -29,7 +29,7 @@ summary: ''
 >
 > (4B) Subsections (3) and (5) to (8) of section 95 of the Immigration and Asylum Act 1999, and paragraph 2 of Schedule 8 to that Act, apply for the purposes of subsection (4A) as they apply for the purposes of that section, but for the references in subsections (5) and (7) of that section and in that paragraph to the Secretary of State substitute references to a local authority.
 
-(2)[^key-5c3c7d16aa880a32c37cee51d77d7ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5c3c7d16aa880a32c37cee51d77d7ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 161 of the *(affected by repeal, see note)*[^c17729581] [^c11434101]Housing Act 1996 (allocation of housing accommodation only to qualifying persons), after subsection (2), insert— *(affected by repeal, see note)*[^c17729581]
 
@@ -49,7 +49,7 @@ summary: ''
 
 [^c11434081]: Marginal citation: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46).
 
-[^key-5c3c7d16aa880a32c37cee51d77d7ae4]: Textual amendment: [S. 117(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/117/2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-5c3c7d16aa880a32c37cee51d77d7ae4]: Textual amendment: [S. 117(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/117/2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c17729581]: Textual amendment: S. 117(3) repealed (E.W.) (31.7.2002 for E., 27.1.2003 for W.) by [Homelessness Act 2002 (c. 7)](https://www.legislation.gov.uk/ukpga/2002/7), [s. 18](https://www.legislation.gov.uk/ukpga/2002/7/section/18), [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/7/schedule/2) (with [s. 20(4)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/4)); [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/2)
 

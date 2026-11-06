@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Directors: removal of restriction on application for disqualification order[^key-b5b6f843a83984244c2c6569816cbea3][^key-ce124fde7b27b1dbb9f567734c1ded7d]
+## 109. Directors: removal of restriction on application for disqualification order[^c-b5b6f843a83984244c2c6569816cbea3][^c-ce124fde7b27b1dbb9f567734c1ded7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b6f843a83984244c2c6569816cbea3]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2015/26/section/109) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
+[^c-b5b6f843a83984244c2c6569816cbea3]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2015/26/section/109) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
 
-[^key-ce124fde7b27b1dbb9f567734c1ded7d]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2015/26/section/109) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/e)
+[^c-ce124fde7b27b1dbb9f567734c1ded7d]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2015/26/section/109) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/e)

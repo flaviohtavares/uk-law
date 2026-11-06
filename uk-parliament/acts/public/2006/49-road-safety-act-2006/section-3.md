@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Graduated fixed penalties[^key-e8d38286f29e4d96066dab13462ee8ec]
+## 3. Graduated fixed penalties[^c-e8d38286f29e4d96066dab13462ee8ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d38286f29e4d96066dab13462ee8ec]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/49/section/3) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/a)
+[^c-e8d38286f29e4d96066dab13462ee8ec]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/49/section/3) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/a)

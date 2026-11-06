@@ -80,15 +80,15 @@ This is subject to sub-paragraph (3).
 
 #### Relief for delayed remittances
 
-**9.**[^key-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Disputes as to domicile or ordinary residence
 
-**12.**[^key-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5d5157833c1470fc0060bd2932725e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Application of provisions to agency workers
 
@@ -107,31 +107,31 @@ if in providing the services the worker is or would be a sub-contractor within t
 
 ### Part 3 — Employment income: earnings and benefits etc. treated as earning
 
-#### ...[^key-ae605db9d0346f44768190bac820592a]
+#### ...[^c-ae605db9d0346f44768190bac820592a]
 
-**15.**[^key-ae605db9d0346f44768190bac820592a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ae605db9d0346f44768190bac820592a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4d406d0661cc8ecd50e9b1445eeb20d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4d406d0661cc8ecd50e9b1445eeb20d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Taxable benefits: the benefits code
 
 **17.** (1) In relation to times before 6th April 2003, references in the benefits code to “employment”, “employed”, “employee” and “employer” are to be read in accordance with this paragraph.
 
-(2) In relation to Chapters 3, 6, 7 and 10 of the benefits code (provisions not applicable before the tax year 2016-17 to lower-paid employments)[^key-eaa99421e3a851800336707a88117f0f], the references mentioned in sub-paragraph (1) are to be read in accordance with section 66 (meaning of employment and related expressions) but as if in subsection (1)(a) there were substituted “an employment to which Chapter 2 of Part 5 of ICTA applies” for “a taxable employment under Part 2”.
+(2) In relation to Chapters 3, 6, 7 and 10 of the benefits code (provisions not applicable before the tax year 2016-17 to lower-paid employments)[^c-eaa99421e3a851800336707a88117f0f], the references mentioned in sub-paragraph (1) are to be read in accordance with section 66 (meaning of employment and related expressions) but as if in subsection (1)(a) there were substituted “an employment to which Chapter 2 of Part 5 of ICTA applies” for “a taxable employment under Part 2”.
 
 (3) In relation to any other Chapters of the benefits code, the references mentioned in sub-paragraph (1) are to be read in accordance with section 66 but as if in subsection (1)(a) there were substituted “an employment the emoluments of which fall to be assessed under Schedule E” for “a taxable employment under Part 2”.
 
-(4)[^key-ace5bc5ccfff6eb9162ad2991b829300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ace5bc5ccfff6eb9162ad2991b829300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This paragraph is subject to paragraphs 18(2), 24, 27(3), 29(4) and 31(2) of this Schedule.
 
-#### ...[^key-8fe38c3d0c8bcaea7061137c0601cb3b]
+#### ...[^c-8fe38c3d0c8bcaea7061137c0601cb3b]
 
-**18.**[^key-bdeca1d39ef9ff7b6f14269dc2c0ea96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-bdeca1d39ef9ff7b6f14269dc2c0ea96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-8fe38c3d0c8bcaea7061137c0601cb3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-8fe38c3d0c8bcaea7061137c0601cb3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-998a9be3b3bc0961799b7125d327d95c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-998a9be3b3bc0961799b7125d327d95c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Taxable benefits: living accommodation
 
@@ -159,7 +159,7 @@ if in providing the services the worker is or would be a sub-contractor within t
 - (a) omit paragraph (a), and
 - (b) in paragraph (b) substitute “ the tax years after the tax year in which the contribution was made which are ” for “subsequent”.
 
-**24.**[^key-215c681154dc4ae2b8d7eea0093901dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-215c681154dc4ae2b8d7eea0093901dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Taxable benefits: loans
 
@@ -177,8 +177,8 @@ if in providing the services the worker is or would be a sub-contractor within t
 
 (3) In relation to times before 6th April 2003—
 
-- (a) in subsection (2)(c), substitute “an employment to which Chapter 2 of Part 5 of ICTA applies” for “not lower-paid employment as a minister of religion”[^key-14f3cfb7f82957a38e9ddfe13cd18511], and
-- (b) in subsection (3)(a), substitute “ an employment to which Chapter 2 of Part 5 of ICTA does not apply ” for “lower-paid employment as a minister of religion”[^key-f7b843498bb6229d83a0e485b4c5d1a4].
+- (a) in subsection (2)(c), substitute “an employment to which Chapter 2 of Part 5 of ICTA applies” for “not lower-paid employment as a minister of religion”[^c-14f3cfb7f82957a38e9ddfe13cd18511], and
+- (b) in subsection (3)(a), substitute “ an employment to which Chapter 2 of Part 5 of ICTA does not apply ” for “lower-paid employment as a minister of religion”[^c-f7b843498bb6229d83a0e485b4c5d1a4].
 
 #### Taxable benefits: notional loans in respect of acquisitions of shares
 
@@ -199,9 +199,9 @@ the condition in section 193(1) (notional loan where acquisition for less than m
 
 #### Taxable benefits: disposals of shares for more than market value
 
-**30.**[^key-9d68adb9400d1eac058d275847efae61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-9d68adb9400d1eac058d275847efae61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-5f7fd8dfeab391324cff80dd0087423e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-5f7fd8dfeab391324cff80dd0087423e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Taxable benefits: residual liability to charge
 
@@ -263,9 +263,9 @@ and any such benefits have been provided or expenses incurred before that date i
 
 - (a) the operation of section 588(5) of ICTA by virtue of paragraph (a) of that provision where liability for a tax year before 2003-04 is determined,
 - (b) the operation of section 588(5) of ICTA by virtue of paragraph (b) of that provision where liability is determined on the assumption that the person undertaking the course fell within section 588(1) of ICTA in such a tax year, or
-- (c) the operation of section 588(6) [^key-13156809b32c0b84568ad11abe0acd5b]... of ICTA as they apply by virtue of sub-paragraph (2).
+- (c) the operation of section 588(6) [^c-13156809b32c0b84568ad11abe0acd5b]... of ICTA as they apply by virtue of sub-paragraph (2).
 
-(2) In any case where there has been such a determination as is mentioned in sub-paragraph (1)(a) or (b), section 588(6) applies as if it[^key-aa84e0f6b78900bad97e46c9fae45046] referred to a failure to comply with any provision of section 589(3) or (4) of ICTA instead of a failure to meet such a condition as is mentioned in section 312(1)(b)(i) or (ii) of this Act.
+(2) In any case where there has been such a determination as is mentioned in sub-paragraph (1)(a) or (b), section 588(6) applies as if it[^c-aa84e0f6b78900bad97e46c9fae45046] referred to a failure to comply with any provision of section 589(3) or (4) of ICTA instead of a failure to meet such a condition as is mentioned in section 312(1)(b)(i) or (ii) of this Act.
 
 #### Suggestion awards
 
@@ -286,11 +286,11 @@ and any such benefits have been provided or expenses incurred before that date i
 
 **40.** In relation to any time before 6th April 2003, section 375 (meaning of “qualifying arrival date”) has effect as if the references in subsections (1)(a) and (4) to the person receiving earnings for duties performed in the United Kingdom included a reference to the person receiving emoluments for such duties.
 
-### Part 6 — Employment income: income which is not earnings or related to securities[^key-9be3f0764fb59179a616ad9e83fe30f3]
+### Part 6 — Employment income: income which is not earnings or related to securities[^c-9be3f0764fb59179a616ad9e83fe30f3]
 
 #### Benefits from non-approved pension schemes
 
-**41.**[^key-c585d979b19f02e3ed116eaa6c7f3477] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-c585d979b19f02e3ed116eaa6c7f3477] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Payments and benefits on termination of employment etc.
 
@@ -309,9 +309,9 @@ and any such benefits have been provided or expenses incurred before that date i
 
 (4) Section 404(2) (when employers are associated) applies for the purposes of this paragraph.
 
-### Part 7 — Employment income: income related to securities[^key-ac6ac78bfd654a61de48b20464d5ec41]
+### Part 7 — Employment income: income related to securities[^c-ac6ac78bfd654a61de48b20464d5ec41]
 
-#### Pre-6th April 2003 acquisitions[^key-60c179bad68187a92f34eb7f4853bc9e]
+#### Pre-6th April 2003 acquisitions[^c-60c179bad68187a92f34eb7f4853bc9e]
 
 **43A.** (1) This paragraph relates to the operation of section 421E (exclusions from Chapters 2 to 4 of Part 7: residence) in relation to an acquisition made before 6th April 2003.
 
@@ -321,91 +321,91 @@ and any such benefits have been provided or expenses incurred before that date i
 
 #### Conditional interests in shares
 
-**44.** Chapter 2 of Part 7 , as originally enacted,[^key-dd76cb1edf3220f75220dea44555ce16] does not apply in relation to interests acquired before 17th March 1998.
+**44.** Chapter 2 of Part 7 , as originally enacted,[^c-dd76cb1edf3220f75220dea44555ce16] does not apply in relation to interests acquired before 17th March 1998.
 
-**45.** (1) This paragraph relates to the operation of section 425 (cases where Chapter 2 of Part 7 does not apply) , as originally enacted.[^key-21de4a9dfb7d22ada7f193815040df61]
+**45.** (1) This paragraph relates to the operation of section 425 (cases where Chapter 2 of Part 7 does not apply) , as originally enacted.[^c-21de4a9dfb7d22ada7f193815040df61]
 
 (2) Section 425(1) applies in relation to any acquisition made before 6th April 2003 with the substitution of “if the person was not chargeable under Case I of Schedule E in respect of the office or employment in question” for the words from “if the earnings” onwards.
 
-**46.** (1) This paragraph relates to the operation of section 428 (amount of charge where interest in shares ceases to be only conditional or on disposal) , as originally enacted,[^key-406efba9e3c7d6cab6d792f72e49b62a] in relation to an acquisition made before 6th April 2003.
+**46.** (1) This paragraph relates to the operation of section 428 (amount of charge where interest in shares ceases to be only conditional or on disposal) , as originally enacted,[^c-406efba9e3c7d6cab6d792f72e49b62a] in relation to an acquisition made before 6th April 2003.
 
 (2) For the purposes of section 428(1) each of the following is a “deductible amount”—
 
 - (a) any amounts on which the employee has become chargeable to tax under Schedule E in respect of the acquisition of the employee’s interest; and
 - (b) any amount on which the employee has become chargeable to tax in respect of the shares under section 78 or 79 of FA 1988 (unapproved employee share schemes) by reference to an event that occurred before 6th April 2003.
 
-**47.**[^key-038b6d6f9c2a58250c333e7ffab9ab5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-038b6d6f9c2a58250c333e7ffab9ab5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-a1bcdb4529fae39719ff005103847f6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-a1bcdb4529fae39719ff005103847f6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Convertible shares
 
-**49.** Chapter 3 of Part 7 does not apply in relation to securities[^key-4cdb05683231d6710d5a2ccd986a24e9] acquired before 17th March 1998.
+**49.** Chapter 3 of Part 7 does not apply in relation to securities[^c-4cdb05683231d6710d5a2ccd986a24e9] acquired before 17th March 1998.
 
-**50.**[^key-fe044f5b034aaf38537fc9bba66f11a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-fe044f5b034aaf38537fc9bba66f11a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-fe044f5b034aaf38537fc9bba66f11a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-fe044f5b034aaf38537fc9bba66f11a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-fe044f5b034aaf38537fc9bba66f11a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-fe044f5b034aaf38537fc9bba66f11a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-1d22cebe626b0b071a7c6f737523c4a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-1d22cebe626b0b071a7c6f737523c4a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Post-acquisition benefits from shares
 
-**54.** Chapter 4 of Part 7, both as originally enacted and as substituted by[^key-761f412ddba6cbfe516518e2005f5ade] FA[^key-521291003b815d4c67a8e365e90b17cf] 2003, does not apply in relation to shares or an interest in shares acquired before 26th October 1987, except to the extent provided by paragraph 55 (read with paragraph 56).
+**54.** Chapter 4 of Part 7, both as originally enacted and as substituted by[^c-761f412ddba6cbfe516518e2005f5ade] FA[^c-521291003b815d4c67a8e365e90b17cf] 2003, does not apply in relation to shares or an interest in shares acquired before 26th October 1987, except to the extent provided by paragraph 55 (read with paragraph 56).
 
-**55.** (1) Chapter 4 of Part 7 , as originally enacted,[^key-8f6063a923ccf8d89388687195ef91b3] applies in relation to shares or an interest in shares acquired before 26th October 1987 if the company was not a dependent subsidiary on that date.
+**55.** (1) Chapter 4 of Part 7 , as originally enacted,[^c-8f6063a923ccf8d89388687195ef91b3] applies in relation to shares or an interest in shares acquired before 26th October 1987 if the company was not a dependent subsidiary on that date.
 
 (2) But it so applies—
 
-- (a)[^key-2a42caa6ae841c7a3253d42a4e07d60a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2a42caa6ae841c7a3253d42a4e07d60a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) subject to paragraph 56.
 
-**56.** The removal or variation of a restriction applying to shares or an interest in shares acquired before 26th October 1987 is not a chargeable event for the purposes of section 449 , as originally enacted,[^key-d7897978671ab5944d0225fff261f34b] if paragraph 7 of Schedule 8 to FA 1973 (requirement for disposal to nominees at price not exceeding market value on termination of employment) would have applied to it.
+**56.** The removal or variation of a restriction applying to shares or an interest in shares acquired before 26th October 1987 is not a chargeable event for the purposes of section 449 , as originally enacted,[^c-d7897978671ab5944d0225fff261f34b] if paragraph 7 of Schedule 8 to FA 1973 (requirement for disposal to nominees at price not exceeding market value on termination of employment) would have applied to it.
 
-**57.**[^key-1f4cf36b83a6a1b780d9e9b6f9112b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-1f4cf36b83a6a1b780d9e9b6f9112b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.** (1) This paragraph relates to the operation of section 448 (cases where Chapter 4 of Part 7 does not apply) , as originally enacted[^key-47a0fd51bf9b4717ec6d8f16a50e28e5].
+**58.** (1) This paragraph relates to the operation of section 448 (cases where Chapter 4 of Part 7 does not apply) , as originally enacted[^c-47a0fd51bf9b4717ec6d8f16a50e28e5].
 
 (2) Section 448(1) applies in relation to any acquisition made before 6th April 2003 with the substitution of “if the person was not chargeable under Case I of Schedule E in respect of the office or employment in question” for the words “if the earnings” onwards.
 
 (3) Section 448(3) and (4) do not apply in relation to any acquisition made before 16th January 1991.
 
-**59.**[^key-76b32d073442e2dafda6de1b8b10fc38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-76b32d073442e2dafda6de1b8b10fc38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-9c0cca71136d087232e1bc2bce183506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-9c0cca71136d087232e1bc2bce183506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-53d11b7bf02dfc12e7a1a1210dbe0f23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-53d11b7bf02dfc12e7a1a1210dbe0f23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Securities disposed of for more than market value[^key-86449d2ea1e33ae928f258b059831c1d]
+#### Securities disposed of for more than market value[^c-86449d2ea1e33ae928f258b059831c1d]
 
 **61A.** Chapter 3D of Part 7 does not apply in relation to securities, or an interest in securities, acquired on or before 6th April 1976.
 
 #### Share options
 
-**62.**[^key-eafffba91dfa5507dd43690b072830db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-eafffba91dfa5507dd43690b072830db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**63.**[^key-00a1e41416b2aa3c10b66817d8ec74f3] (1) This paragraph relates to the operation of section 474 (exclusions from Chapter 5 of Part 7: residence) in relation to an acquisition made before 6th April 2003.
+**63.**[^c-00a1e41416b2aa3c10b66817d8ec74f3] (1) This paragraph relates to the operation of section 474 (exclusions from Chapter 5 of Part 7: residence) in relation to an acquisition made before 6th April 2003.
 
 (2) Section 474(1) has effect with the substitution of “ the employee was not chargeable under Case I of Schedule E in respect of the employment ” for the words from “the earnings”.
 
-**64.** (1) This paragraph relates to the operation of section 478 (amount of charges) in relation to a securities[^key-3ce390ac78a681595bf0203a31f8f991] option acquired[^key-7a290077707c8eee8473e8c250f2cf48] before 6th April 2003.
+**64.** (1) This paragraph relates to the operation of section 478 (amount of charges) in relation to a securities[^c-3ce390ac78a681595bf0203a31f8f991] option acquired[^c-7a290077707c8eee8473e8c250f2cf48] before 6th April 2003.
 
-(2) For the purposes of section 478(1), any amount charged to tax under Schedule E in respect of the acquisition[^key-070bcad3bf0d20eaa94f84dfc4d540db] of the securities option is a deductible amount.
+(2) For the purposes of section 478(1), any amount charged to tax under Schedule E in respect of the acquisition[^c-070bcad3bf0d20eaa94f84dfc4d540db] of the securities option is a deductible amount.
 
-**65.** (1) This paragraph relates to the operation of section 478 in relation to an event that is a chargeable event by virtue of section 477(3)(a) or (b) (acquisition of securities pursuant to an option and assignment and release of option) in the case of a share option acquired[^key-886e3b66f72aef4cb9d0c229a203c522] before 6th April 2003.
+**65.** (1) This paragraph relates to the operation of section 478 in relation to an event that is a chargeable event by virtue of section 477(3)(a) or (b) (acquisition of securities pursuant to an option and assignment and release of option) in the case of a share option acquired[^c-886e3b66f72aef4cb9d0c229a203c522] before 6th April 2003.
 
-(2) For the purposes of section 478(1)[^key-8d40efab958a1ee40b4ae5811a7f0911], if an amount was chargeable to tax under section 185(6) of ICTA (charge where option under approved share option scheme granted at a discount) in respect of the share option, so much of that amount as is attributable to the shares in question is a deductible amount.
+(2) For the purposes of section 478(1)[^c-8d40efab958a1ee40b4ae5811a7f0911], if an amount was chargeable to tax under section 185(6) of ICTA (charge where option under approved share option scheme granted at a discount) in respect of the share option, so much of that amount as is attributable to the shares in question is a deductible amount.
 
-**66.**[^key-d6de78993e7d370e6dab20049e8d1dd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-d6de78993e7d370e6dab20049e8d1dd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**67.**[^key-70672fb8768a45e98023196f715060c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-70672fb8768a45e98023196f715060c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Approved share incentive plans
 
 **68.** (1) This paragraph applies where, immediately before 6th April 2003, an employee share ownership plan was approved under Schedule 8 to FA 2000 (employee share ownership plans).
 
-(2) On and after that date the plan is to be treated as a share incentive plan (or “SIP”) approved by an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] under Schedule 2 to this Act.
+(2) On and after that date the plan is to be treated as a share incentive plan (or “SIP”) approved by an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] under Schedule 2 to this Act.
 
 (3) Sub-paragraph (2) has effect even if the provisions of the plan do not wholly conform with the provisions of Schedule 2 to this Act, but it has effect without prejudice to—
 
@@ -532,7 +532,7 @@ The “**former approval requirements**” means the requirements of Schedule 9 
   - (ii) any other approved CSOP scheme established by the scheme organiser or an associated company of the scheme organiser,
 
   to exceed or further exceed £30,000 (leaving out of account share options that have already been exercised), and
-- (b) that the price at which shares may be acquired by the exercise of a share option granted under the scheme must not be manifestly less than the market value of shares of the same class at that time (or, if the Commissioners for Her Majesty’s Revenue and Customs[^key-59f00b3f07e4580bd56377d1e1c262f6] and the scheme organiser agree in writing, at an earlier time or times stated in the agreement).
+- (b) that the price at which shares may be acquired by the exercise of a share option granted under the scheme must not be manifestly less than the market value of shares of the same class at that time (or, if the Commissioners for Her Majesty’s Revenue and Customs[^c-59f00b3f07e4580bd56377d1e1c262f6] and the scheme organiser agree in writing, at an earlier time or times stated in the agreement).
 
 (3) For the purposes of sub-paragraph (2)(a), the market value of shares is to be calculated as at—
 
@@ -619,7 +619,7 @@ if, by virtue of section 115 of FA 1996 (transitional provisions which gave retr
 
 (2) In such a case the relevant period for the purposes of paragraph 2 of Schedule 7D to TCGA 1992 is determined as if the shares had been acquired by the trustees of the share incentive plan at the time they were acquired by the trustees of the other trust.
 
-[^key-d8673f747285b4986c0aad72cb40d1a4]...
+[^c-d8673f747285b4986c0aad72cb40d1a4]...
 
 (3) In this paragraph—
 
@@ -696,102 +696,102 @@ if, by virtue of section 115 of FA 1996 (transitional provisions which gave retr
 
 ## Annotations
 
-[^key-5d5157833c1470fc0060bd2932725e40]: Textual amendment: [Sch. 7 paras. 9-12](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/9) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/44)
+[^c-5d5157833c1470fc0060bd2932725e40]: Textual amendment: [Sch. 7 paras. 9-12](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/9) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/44)
 
-[^key-ae605db9d0346f44768190bac820592a]: Textual amendment: Sch. 7 para. 15 and cross-heading omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
+[^c-ae605db9d0346f44768190bac820592a]: Textual amendment: Sch. 7 para. 15 and cross-heading omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
 
-[^key-4d406d0661cc8ecd50e9b1445eeb20d4]: Textual amendment: Sch. 7 para. 16 omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
+[^c-4d406d0661cc8ecd50e9b1445eeb20d4]: Textual amendment: Sch. 7 para. 16 omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
 
-[^key-eaa99421e3a851800336707a88117f0f]: Textual amendment: Words in Sch. 7 para. 17(2) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/2/a)
+[^c-eaa99421e3a851800336707a88117f0f]: Textual amendment: Words in Sch. 7 para. 17(2) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/2/a)
 
-[^key-ace5bc5ccfff6eb9162ad2991b829300]: Textual amendment: Sch. 7 para. 17(4) omitted (with effect in accordance with s. 13(4) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/2/b)
+[^c-ace5bc5ccfff6eb9162ad2991b829300]: Textual amendment: Sch. 7 para. 17(4) omitted (with effect in accordance with s. 13(4) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/2/b)
 
-[^key-8fe38c3d0c8bcaea7061137c0601cb3b]: Textual amendment: Sch. 7 para. 19 and cross-heading omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
+[^c-8fe38c3d0c8bcaea7061137c0601cb3b]: Textual amendment: Sch. 7 para. 19 and cross-heading omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
 
-[^key-bdeca1d39ef9ff7b6f14269dc2c0ea96]: Textual amendment: Sch. 7 para. 18 omitted (with effect in accordance with Sch. 39 para. 50(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/50/3)
+[^c-bdeca1d39ef9ff7b6f14269dc2c0ea96]: Textual amendment: Sch. 7 para. 18 omitted (with effect in accordance with Sch. 39 para. 50(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/50/3)
 
-[^key-998a9be3b3bc0961799b7125d327d95c]: Textual amendment: Sch. 7 para. 20 omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
+[^c-998a9be3b3bc0961799b7125d327d95c]: Textual amendment: Sch. 7 para. 20 omitted (with effect in accordance with s. 12(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/12/4/b)
 
-[^key-215c681154dc4ae2b8d7eea0093901dc]: Textual amendment: Sch. 7 para. 24 repealed (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/9)
+[^c-215c681154dc4ae2b8d7eea0093901dc]: Textual amendment: Sch. 7 para. 24 repealed (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/9)
 
-[^key-14f3cfb7f82957a38e9ddfe13cd18511]: Textual amendment: Words in Sch. 7 para. 27(3)(a) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/3/a)
+[^c-14f3cfb7f82957a38e9ddfe13cd18511]: Textual amendment: Words in Sch. 7 para. 27(3)(a) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/3/a)
 
-[^key-f7b843498bb6229d83a0e485b4c5d1a4]: Textual amendment: Words in Sch. 7 para. 27(3)(b) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/3/b)
+[^c-f7b843498bb6229d83a0e485b4c5d1a4]: Textual amendment: Words in Sch. 7 para. 27(3)(b) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/22/3/b)
 
-[^key-9d68adb9400d1eac058d275847efae61]: Textual amendment: Sch. 7 para. 30 repealed (with effect in accordance with Sch. 22 para. 46(26)(a) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/2), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-9d68adb9400d1eac058d275847efae61]: Textual amendment: Sch. 7 para. 30 repealed (with effect in accordance with Sch. 22 para. 46(26)(a) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/2), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-5f7fd8dfeab391324cff80dd0087423e]: Textual amendment: Sch. 7 para. 31 repealed (with effect in accordance with Sch. 22 para. 46(26)(a) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/2), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-5f7fd8dfeab391324cff80dd0087423e]: Textual amendment: Sch. 7 para. 31 repealed (with effect in accordance with Sch. 22 para. 46(26)(a) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/2), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-13156809b32c0b84568ad11abe0acd5b]: Textual amendment: Words in [Sch. 7 para. 37(1)(c)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/37/1/c) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 40(a)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/40/a)
+[^c-13156809b32c0b84568ad11abe0acd5b]: Textual amendment: Words in [Sch. 7 para. 37(1)(c)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/37/1/c) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 40(a)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/40/a)
 
-[^key-aa84e0f6b78900bad97e46c9fae45046]: Textual amendment: Words in [Sch. 7 para. 37(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/37/2) substituted (13.8.2009) by [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/40/b)
+[^c-aa84e0f6b78900bad97e46c9fae45046]: Textual amendment: Words in [Sch. 7 para. 37(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/37/2) substituted (13.8.2009) by [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/40/b)
 
-[^key-9be3f0764fb59179a616ad9e83fe30f3]: Textual amendment: Words in Sch. 7 Pt. 6 heading substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/3)
+[^c-9be3f0764fb59179a616ad9e83fe30f3]: Textual amendment: Words in Sch. 7 Pt. 6 heading substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/3)
 
-[^key-c585d979b19f02e3ed116eaa6c7f3477]: Textual amendment: [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/41) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-c585d979b19f02e3ed116eaa6c7f3477]: Textual amendment: [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/41) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
-[^key-ac6ac78bfd654a61de48b20464d5ec41]: Textual amendment: Words in Sch. 7 Pt. 7 heading substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/4)
+[^c-ac6ac78bfd654a61de48b20464d5ec41]: Textual amendment: Words in Sch. 7 Pt. 7 heading substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/4)
 
-[^key-60c179bad68187a92f34eb7f4853bc9e]: Textual amendment: Sch. 7 para. 43A and cross-heading inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(5)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/5)
+[^c-60c179bad68187a92f34eb7f4853bc9e]: Textual amendment: Sch. 7 para. 43A and cross-heading inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(5)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/5)
 
-[^key-dd76cb1edf3220f75220dea44555ce16]: Textual amendment: Words in Sch. 7 para. 44 inserted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(6)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/6); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-dd76cb1edf3220f75220dea44555ce16]: Textual amendment: Words in Sch. 7 para. 44 inserted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(6)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/6); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-21de4a9dfb7d22ada7f193815040df61]: Textual amendment: Words in Sch. 7 para. 45(1) inserted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(7)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/7); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-21de4a9dfb7d22ada7f193815040df61]: Textual amendment: Words in Sch. 7 para. 45(1) inserted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(7)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/7); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-406efba9e3c7d6cab6d792f72e49b62a]: Textual amendment: Words in Sch. 7 para. 46(1) inserted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(8)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/8); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-406efba9e3c7d6cab6d792f72e49b62a]: Textual amendment: Words in Sch. 7 para. 46(1) inserted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(8)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/8); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-038b6d6f9c2a58250c333e7ffab9ab5a]: Textual amendment: Sch. 7 para. 47 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(9)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/9), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-038b6d6f9c2a58250c333e7ffab9ab5a]: Textual amendment: Sch. 7 para. 47 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(9)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/9), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-a1bcdb4529fae39719ff005103847f6b]: Textual amendment: Sch. 7 para. 48 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(9)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/9), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-a1bcdb4529fae39719ff005103847f6b]: Textual amendment: Sch. 7 para. 48 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(9)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/9), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-4cdb05683231d6710d5a2ccd986a24e9]: Textual amendment: Word in Sch. 7 para. 49 substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(10)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/10); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-4cdb05683231d6710d5a2ccd986a24e9]: Textual amendment: Word in Sch. 7 para. 49 substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(10)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/10); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-fe044f5b034aaf38537fc9bba66f11a2]: Textual amendment: Sch. 7 paras. 50-52 repealed (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(11)(26)(c](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/11), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-fe044f5b034aaf38537fc9bba66f11a2]: Textual amendment: Sch. 7 paras. 50-52 repealed (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(11)(26)(c](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/11), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-1d22cebe626b0b071a7c6f737523c4a7]: Textual amendment: Sch. 7 para. 53 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/12), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-1d22cebe626b0b071a7c6f737523c4a7]: Textual amendment: Sch. 7 para. 53 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/12), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-761f412ddba6cbfe516518e2005f5ade]: Textual amendment: Words in Sch. 7 para. 54 inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(13)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/13)
+[^c-761f412ddba6cbfe516518e2005f5ade]: Textual amendment: Words in Sch. 7 para. 54 inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(13)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/13)
 
-[^key-521291003b815d4c67a8e365e90b17cf]: Textual amendment: Word in Sch. 7 para. 54 substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(5)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/5/b)
+[^c-521291003b815d4c67a8e365e90b17cf]: Textual amendment: Word in Sch. 7 para. 54 substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(5)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/5/b)
 
-[^key-8f6063a923ccf8d89388687195ef91b3]: Textual amendment: Words in Sch. 7 para. 55 inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(14)(a)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/14/a)
+[^c-8f6063a923ccf8d89388687195ef91b3]: Textual amendment: Words in Sch. 7 para. 55 inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(14)(a)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/14/a)
 
-[^key-2a42caa6ae841c7a3253d42a4e07d60a]: Textual amendment: Sch. 7 para. 55(2)(a) repealed (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(14)(b)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/14/b), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-2a42caa6ae841c7a3253d42a4e07d60a]: Textual amendment: Sch. 7 para. 55(2)(a) repealed (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(14)(b)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/14/b), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-d7897978671ab5944d0225fff261f34b]: Textual amendment: Words in Sch. 7 para. 56 inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(15)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/15)
+[^c-d7897978671ab5944d0225fff261f34b]: Textual amendment: Words in Sch. 7 para. 56 inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(15)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/15)
 
-[^key-1f4cf36b83a6a1b780d9e9b6f9112b4b]: Textual amendment: [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/57) omitted (with effect in accordance with s. 50(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/50/2/b)
+[^c-1f4cf36b83a6a1b780d9e9b6f9112b4b]: Textual amendment: [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/57) omitted (with effect in accordance with s. 50(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/50/2/b)
 
-[^key-47a0fd51bf9b4717ec6d8f16a50e28e5]: Textual amendment: Words in Sch. 7 para. 58(1) inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(16)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/16)
+[^c-47a0fd51bf9b4717ec6d8f16a50e28e5]: Textual amendment: Words in Sch. 7 para. 58(1) inserted (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(16)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/16)
 
-[^key-76b32d073442e2dafda6de1b8b10fc38]: Textual amendment: Sch. 7 para. 59 repealed (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(17)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/17), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-76b32d073442e2dafda6de1b8b10fc38]: Textual amendment: Sch. 7 para. 59 repealed (16.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(17)(26)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/17), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-9c0cca71136d087232e1bc2bce183506]: Textual amendment: Sch. 7 para. 60 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(18)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/18), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-9c0cca71136d087232e1bc2bce183506]: Textual amendment: Sch. 7 para. 60 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(18)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/18), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-53d11b7bf02dfc12e7a1a1210dbe0f23]: Textual amendment: Sch. 7 para. 61 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(18)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/18), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-53d11b7bf02dfc12e7a1a1210dbe0f23]: Textual amendment: Sch. 7 para. 61 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(18)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/18), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-86449d2ea1e33ae928f258b059831c1d]: Textual amendment: Sch. 7 para. 61A and cross-heading inserted (with effect in accordance with Sch. 22 para. 46(26)(a) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(19)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/19)
+[^c-86449d2ea1e33ae928f258b059831c1d]: Textual amendment: Sch. 7 para. 61A and cross-heading inserted (with effect in accordance with Sch. 22 para. 46(26)(a) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(19)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/19)
 
-[^key-eafffba91dfa5507dd43690b072830db]: Textual amendment: Sch. 7 para. 62 repealed (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(20)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/20), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-eafffba91dfa5507dd43690b072830db]: Textual amendment: Sch. 7 para. 62 repealed (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(20)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/20), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-00a1e41416b2aa3c10b66817d8ec74f3]: Textual amendment: Sch. 7 para. 63 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(21)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/21)(26)(d); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-00a1e41416b2aa3c10b66817d8ec74f3]: Textual amendment: Sch. 7 para. 63 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(21)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/21)(26)(d); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-3ce390ac78a681595bf0203a31f8f991]: Textual amendment: Word in Sch. 7 para. 64 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(22)(a)(26)(d)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/22/a); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-3ce390ac78a681595bf0203a31f8f991]: Textual amendment: Word in Sch. 7 para. 64 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(22)(a)(26)(d)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/22/a); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-7a290077707c8eee8473e8c250f2cf48]: Textual amendment: Word in Sch. 7 para. 64 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(22)(b)(26)(d)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/22/b); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-7a290077707c8eee8473e8c250f2cf48]: Textual amendment: Word in Sch. 7 para. 64 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(22)(b)(26)(d)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/22/b); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-070bcad3bf0d20eaa94f84dfc4d540db]: Textual amendment: Word in Sch. 7 para. 64 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(22)(c)(26)(d)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/22/c); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-070bcad3bf0d20eaa94f84dfc4d540db]: Textual amendment: Word in Sch. 7 para. 64 substituted (16.4.2003 for specified purposes, otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(22)(c)(26)(d)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/22/c); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-886e3b66f72aef4cb9d0c229a203c522]: Textual amendment: Words in Sch. 7 para. 65(1) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(23)(a)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/23/a); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-886e3b66f72aef4cb9d0c229a203c522]: Textual amendment: Words in Sch. 7 para. 65(1) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(23)(a)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/23/a); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-8d40efab958a1ee40b4ae5811a7f0911]: Textual amendment: Word in Sch. 7 para. 65(2) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(23)(b)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/23/b); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-8d40efab958a1ee40b4ae5811a7f0911]: Textual amendment: Word in Sch. 7 para. 65(2) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(23)(b)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/23/b); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-d6de78993e7d370e6dab20049e8d1dd0]: Textual amendment: Sch. 7 para. 66 repealed (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(24)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/24), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-d6de78993e7d370e6dab20049e8d1dd0]: Textual amendment: Sch. 7 para. 66 repealed (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(24)(26)(c)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/24), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-70672fb8768a45e98023196f715060c6]: Textual amendment: Sch. 7 para. 67 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(25)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/25), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
+[^c-70672fb8768a45e98023196f715060c6]: Textual amendment: Sch. 7 para. 67 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 46(25)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/46/25), [Sch. 43 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/4)
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-d8673f747285b4986c0aad72cb40d1a4]: Textual amendment: Words in [Sch. 7 para. 86(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/86/2) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/52)
+[^c-d8673f747285b4986c0aad72cb40d1a4]: Textual amendment: Words in [Sch. 7 para. 86(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/86/2) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/52)

@@ -16,32 +16,32 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Repeals[^key-e563185cc70e8fb86596a5073711eebc]
+## SCHEDULE 4 — Repeals[^c-e563185cc70e8fb86596a5073711eebc]
 
 *Extent: E+W*
 
-| [^key-e563185cc70e8fb86596a5073711eebc] |  |  |
+| [^c-e563185cc70e8fb86596a5073711eebc] |  |  |
 | --- | --- | --- |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-|  |  | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-|  |  | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-|  |  | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-|  |  | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-|  |  | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-|  |  | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
-| [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . | [^key-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+|  |  | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+|  |  | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+|  |  | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+|  |  | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+|  |  | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+|  |  | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
+| [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . | [^c-e563185cc70e8fb86596a5073711eebc]. . . |
 
 ## Annotations
 
-[^key-e563185cc70e8fb86596a5073711eebc]: Textual amendment: Schs. 1, 3, 4 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-e563185cc70e8fb86596a5073711eebc]: Textual amendment: Schs. 1, 3, 4 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)

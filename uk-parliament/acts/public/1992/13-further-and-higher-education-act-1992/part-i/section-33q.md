@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33Q. Restrictions on dissolution in insolvency situations[^key-a310562f3a8df092bc0c672d6a5725c0]
+## 33Q. Restrictions on dissolution in insolvency situations[^c-a310562f3a8df092bc0c672d6a5725c0]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a310562f3a8df092bc0c672d6a5725c0]: Textual amendment: [S. 33Q](https://www.legislation.gov.uk/ukpga/1992/13/section/33Q) inserted (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/38/3), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-a310562f3a8df092bc0c672d6a5725c0]: Textual amendment: [S. 33Q](https://www.legislation.gov.uk/ukpga/1992/13/section/33Q) inserted (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/38/3), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Deduction of previous payments: further provision[^key-27d4dde2b0a9410e4a5acf98dcf32506]
+## 43. Deduction of previous payments: further provision[^c-27d4dde2b0a9410e4a5acf98dcf32506]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ a relevant payment is not to be deducted under section 42(4) to the extent that 
 
 ## Annotations
 
-[^key-27d4dde2b0a9410e4a5acf98dcf32506]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2021/15/section/43) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-27d4dde2b0a9410e4a5acf98dcf32506]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2021/15/section/43) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

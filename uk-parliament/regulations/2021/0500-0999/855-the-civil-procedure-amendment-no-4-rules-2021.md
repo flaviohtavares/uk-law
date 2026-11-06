@@ -46,7 +46,7 @@ Coming into force in accordance with rule 1
 
 The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997[^f00001] to make rules under section 1 of and Schedule 1 to that Act and after fulfilling the requirements of section 2(6) of that Act, makes the following Rules.
 
-## 1. Citation, commencement and interpretation[^key-c155e2b35a395d331506b3bc29dcda33]
+## 1. Citation, commencement and interpretation[^c-c155e2b35a395d331506b3bc29dcda33]
 
 (1) These Rules may be cited as the Civil Procedure (Amendment No. 4) Rules 2021 and come into force on 1st October 2021, except as provided by paragraph (2).
 
@@ -54,11 +54,11 @@ The Civil Procedure Rule Committee, having power under section 2 of the Civil Pr
 
 (3) In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002].
 
-## 2. Amendments to the Civil Procedure Rules 1998[^key-b065e3dd79b88c7e60122803aa2f96c4]
+## 2. Amendments to the Civil Procedure Rules 1998[^c-b065e3dd79b88c7e60122803aa2f96c4]
 
 The Civil Procedure Rules 1998 are amended in accordance with rules 3 to 13 of these Rules.
 
-## 3. Amendment of Part 2[^key-f95147f428d6751f0e60a3fa7d3c65a2]
+## 3. Amendment of Part 2[^c-f95147f428d6751f0e60a3fa7d3c65a2]
 
 In rule 2.3(1)—
 
@@ -69,7 +69,7 @@ In rule 2.3(1)—
 
   .
 
-## 4. Amendment of Part 21[^key-ee7dde34b615bd568b25d0dd67d393f9]
+## 4. Amendment of Part 21[^c-ee7dde34b615bd568b25d0dd67d393f9]
 
 (1) In rule 21.10(2)—
 
@@ -88,7 +88,7 @@ In rule 2.3(1)—
 
   .
 
-## 5. Amendment of Part 24[^key-c05ca16dd2416dae33d3c3007598bb60]
+## 5. Amendment of Part 24[^c-c05ca16dd2416dae33d3c3007598bb60]
 
 In rule 24.3, for paragraph (2) substitute—
 
@@ -99,7 +99,7 @@ In rule 24.3, for paragraph (2) substitute—
 
 .
 
-## 6. Amendment of Part 25[^key-dd042f7d3e1d7cbecd464032f07e6366]
+## 6. Amendment of Part 25[^c-dd042f7d3e1d7cbecd464032f07e6366]
 
 In rule 25.11—
 
@@ -119,15 +119,15 @@ In rule 25.11—
   ; and
 - (d) in paragraph (2), after “paragraph (1),” insert “or the defendant applies to reinstate the counterclaim before the interim injunction ceases to have effect under paragraph (1A),”.
 
-## 7. Amendment of Part 27[^key-76d3272f0bfd4c80da47ca4cb996aa42]
+## 7. Amendment of Part 27[^c-76d3272f0bfd4c80da47ca4cb996aa42]
 
 In rule 27.2(1)(h), for “and rule 39.8 (communications with the court)” substitute “, rule 39.8 (communications with the court) and rule 39.9 (recording and transcription of proceedings)”.
 
-## 8. Amendment of Part 40[^key-ad556ec77b07dc481f543996182ecde8]
+## 8. Amendment of Part 40[^c-ad556ec77b07dc481f543996182ecde8]
 
 In rule 40.2(3), at the end insert “or any adjournment of that hearing”.
 
-## 9. Amendment of Part 52[^key-550a27194ad6b573f5001bb2a5960b2e]
+## 9. Amendment of Part 52[^c-550a27194ad6b573f5001bb2a5960b2e]
 
 (1) In rule 52.3(2)(a), after “made” insert “or any adjournment of that hearing”.
 
@@ -135,7 +135,7 @@ In rule 40.2(3), at the end insert “or any adjournment of that hearing”.
 
 (3) In rule 52.13(4)(a), after “lower court” insert “at the hearing at which the decision to be appealed was made or any adjournment of that hearing”.
 
-## 10. Amendment of Part 61[^key-bf55602687a56974974d160817259d38]
+## 10. Amendment of Part 61[^c-bf55602687a56974974d160817259d38]
 
 In rule 61.10(2)—
 
@@ -144,7 +144,7 @@ In rule 61.10(2)—
 - (c) in sub-paragraph (a), omit “set”; and
 - (d) in sub-paragraph (b), for “such notice” substitute “that time limit”.
 
-## 11. Amendment of Part 70[^key-b3fcc79f03d44deebbe2b4b827b0c4f1]
+## 11. Amendment of Part 70[^c-b3fcc79f03d44deebbe2b4b827b0c4f1]
 
 For “Practice Direction 70” where it occurs in the following places—
 
@@ -156,7 +156,7 @@ For “Practice Direction 70” where it occurs in the following places—
 
 substitute “Practice Direction 70A”.
 
-## 12. Amendment of Part 83[^key-44efbb0fcfba02cc8086ed7ddca67d7f]
+## 12. Amendment of Part 83[^c-44efbb0fcfba02cc8086ed7ddca67d7f]
 
 In rule 83.8A, for paragraph (2) substitute—
 
@@ -167,7 +167,7 @@ In rule 83.8A, for paragraph (2) substitute—
 
 .
 
-## 13. Amendment of the Glossary[^key-c74938213db239c67a6597a21b81caa9]
+## 13. Amendment of the Glossary[^c-c74938213db239c67a6597a21b81caa9]
 
 In the Glossary at the end of the Rules, for the meaning of “Defence of tender before claim” substitute “A defence that, before the claimant started proceedings, the defendant unconditionally offered to the claimant the amount due.”.
 
@@ -224,34 +224,34 @@ These Rules amend the Civil Procedure Rules 1998 ([S.I. 1998/3132](https://www.l
 
 [^f00001]: Footnote: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2(1) was substituted by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15 and Schedule 4, Part 1. Section 1(3) was substituted by section 82(1) of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and further amended by the Constitutional Reform Act 2005, sections 15 and 146 and Schedule 4, Part 1, paragraphs 261 and 262 and Schedule 18. Section 1(1) was amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5) and Schedule 9, Part 3, paragraph 67(a).
 
-[^key-c155e2b35a395d331506b3bc29dcda33]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2021/855/rule/1) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-c155e2b35a395d331506b3bc29dcda33]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2021/855/rule/1) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
 [^f00002]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). There are relevant amendments in [S.I. 1999/1008](https://www.legislation.gov.uk/uksi/1999/1008), [S.I. 2000/2092](https://www.legislation.gov.uk/uksi/2000/2092), [S.I. 2001/2792](https://www.legislation.gov.uk/uksi/2001/2792), [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [S.I. 2005/3515](https://www.legislation.gov.uk/uksi/2005/3515), [S.I. 2007/2204](https://www.legislation.gov.uk/uksi/2007/2204), [S.I. 2008/3327](https://www.legislation.gov.uk/uksi/2008/3327), [S.I. 2009/3390](https://www.legislation.gov.uk/uksi/2009/3390), [S.I. 2014/407](https://www.legislation.gov.uk/uksi/2014/407), [S.I. 2014/3299](https://www.legislation.gov.uk/uksi/2014/3299), [S.I. 2015/670](https://www.legislation.gov.uk/uksi/2015/670), [S.I. 2016/234](https://www.legislation.gov.uk/uksi/2016/234), [S.I. 2016/788](https://www.legislation.gov.uk/uksi/2016/788), [S.I. 2017/95](https://www.legislation.gov.uk/uksi/2017/95) and [S.I. 2019/342](https://www.legislation.gov.uk/uksi/2019/342).
 
-[^key-b065e3dd79b88c7e60122803aa2f96c4]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2021/855/rule/2) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-b065e3dd79b88c7e60122803aa2f96c4]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2021/855/rule/2) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-f95147f428d6751f0e60a3fa7d3c65a2]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2021/855/rule/3) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-f95147f428d6751f0e60a3fa7d3c65a2]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2021/855/rule/3) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-ee7dde34b615bd568b25d0dd67d393f9]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2021/855/rule/4) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-ee7dde34b615bd568b25d0dd67d393f9]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2021/855/rule/4) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-c05ca16dd2416dae33d3c3007598bb60]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2021/855/rule/5) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-c05ca16dd2416dae33d3c3007598bb60]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2021/855/rule/5) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
 [^f00003]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
 
 [^f00004]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-dd042f7d3e1d7cbecd464032f07e6366]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2021/855/rule/6) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-dd042f7d3e1d7cbecd464032f07e6366]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2021/855/rule/6) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-76d3272f0bfd4c80da47ca4cb996aa42]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2021/855/rule/7) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-76d3272f0bfd4c80da47ca4cb996aa42]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2021/855/rule/7) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-ad556ec77b07dc481f543996182ecde8]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2021/855/rule/8) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-ad556ec77b07dc481f543996182ecde8]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2021/855/rule/8) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-550a27194ad6b573f5001bb2a5960b2e]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2021/855/rule/9) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-550a27194ad6b573f5001bb2a5960b2e]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2021/855/rule/9) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-bf55602687a56974974d160817259d38]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2021/855/rule/10) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-bf55602687a56974974d160817259d38]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2021/855/rule/10) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-b3fcc79f03d44deebbe2b4b827b0c4f1]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2021/855/rule/11) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-b3fcc79f03d44deebbe2b4b827b0c4f1]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2021/855/rule/11) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
 
-[^key-44efbb0fcfba02cc8086ed7ddca67d7f]: Commencement: Rule 12 in force at 7.8.2021, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/2)
+[^c-44efbb0fcfba02cc8086ed7ddca67d7f]: Commencement: Rule 12 in force at 7.8.2021, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/2)
 
-[^key-c74938213db239c67a6597a21b81caa9]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2021/855/rule/13) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)
+[^c-c74938213db239c67a6597a21b81caa9]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2021/855/rule/13) in force at 1.10.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1)

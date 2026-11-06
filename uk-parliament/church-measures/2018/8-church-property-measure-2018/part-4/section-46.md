@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 46. Signification of consent[^key-1029e03efccd8d700f17e677c660c9a5]
+## 46. Signification of consent[^c-1029e03efccd8d700f17e677c660c9a5]
 
 *Extent: E*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1029e03efccd8d700f17e677c660c9a5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukcm/2018/8/section/46) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-1029e03efccd8d700f17e677c660c9a5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukcm/2018/8/section/46) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

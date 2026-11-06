@@ -72,7 +72,7 @@ the nominee purchaser may pay into court on account of the consideration payable
 - (a) that the landlord, or a person entitled to the benefit of a mortgage on the relevant interest, requires him to do so for the purpose of protecting the rights of persons so entitled, or for reasons related to the bankruptcy or winding up of the landlord, or
 - (b) that steps have been taken to enforce any mortgage on the relevant interest by the bringing of proceedings in any court, or by the appointment of a receiver, or otherwise;
 
-and where payment into court is to be made by reason only of a notice under this sub-paragraph, and the notice is given with reference to proceedings in a court specified in the notice other than the county court[^key-a8fa9c5e19a1a8249ca390479ebbb6eb], payment shall be made into the court so specified.
+and where payment into court is to be made by reason only of a notice under this sub-paragraph, and the notice is given with reference to proceedings in a court specified in the notice other than the county court[^c-a8fa9c5e19a1a8249ca390479ebbb6eb], payment shall be made into the court so specified.
 
 ### Savings
 
@@ -84,4 +84,4 @@ and where payment into court is to be made by reason only of a notice under this
 
 [^c17028101]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/1993/28/schedule/8) wholly in force at 1.11.1993 see [s. 188(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/188/2) and [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5](https://www.legislation.gov.uk/uksi/1993/2134/article/5)
 
-[^key-a8fa9c5e19a1a8249ca390479ebbb6eb]: Textual amendment: Words in Sch. 8 para. 4(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a8fa9c5e19a1a8249ca390479ebbb6eb]: Textual amendment: Words in Sch. 8 para. 4(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

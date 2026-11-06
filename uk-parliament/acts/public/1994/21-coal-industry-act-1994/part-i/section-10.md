@@ -48,8 +48,8 @@ summary: ''
 
 (7) The reference in subsection (1) above to the ownership of any coal or coal mine is a reference—
 
-- (a) in relation to England and Wales, to the interest of the freehold owner of that coal or coal mine; [^key-5c2410c35745ee0776e78fd5d2b2482f]...
-- (b)[^key-5c2410c35745ee0776e78fd5d2b2482f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in relation to England and Wales, to the interest of the freehold owner of that coal or coal mine; [^c-5c2410c35745ee0776e78fd5d2b2482f]...
+- (b)[^c-5c2410c35745ee0776e78fd5d2b2482f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c10937321]: Marginal citation: [1965 c. 36](https://www.legislation.gov.uk/ukpga/1965/36).
 
-[^key-5c2410c35745ee0776e78fd5d2b2482f]: Textual amendment: [S. 10(7)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/10/7/b) and word repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 56(4)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/56/4), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-5c2410c35745ee0776e78fd5d2b2482f]: Textual amendment: [S. 10(7)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/10/7/b) and word repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 56(4)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/56/4), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

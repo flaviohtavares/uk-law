@@ -28,7 +28,7 @@ REGISTRATION OF BIRTHS, DEATHS, MARRIAGES, ETC.
 
 ENGLAND AND WALES
 
-The Registration of Births, Deaths and Marriages (Fees) Order 1992 (revoked)[^key-382ea0baceb6d71a6c627d49d51b359f]
+The Registration of Births, Deaths and Marriages (Fees) Order 1992 (revoked)[^c-382ea0baceb6d71a6c627d49d51b359f]
 
 Made
 
@@ -42,38 +42,38 @@ Coming into force
 
 1st April 1992
 
-[^key-382ea0baceb6d71a6c627d49d51b359f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-382ea0baceb6d71a6c627d49d51b359f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-382ea0baceb6d71a6c627d49d51b359f]
+## 1. Citation and commencement[^c-382ea0baceb6d71a6c627d49d51b359f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-382ea0baceb6d71a6c627d49d51b359f]
+## 2. Fees payable[^c-382ea0baceb6d71a6c627d49d51b359f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of Order[^key-382ea0baceb6d71a6c627d49d51b359f]
+## 3. Revocation of Order[^c-382ea0baceb6d71a6c627d49d51b359f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-382ea0baceb6d71a6c627d49d51b359f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-382ea0baceb6d71a6c627d49d51b359f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FEES PAYABLE[^key-382ea0baceb6d71a6c627d49d51b359f]
+## SCHEDULE — FEES PAYABLE[^c-382ea0baceb6d71a6c627d49d51b359f]
 
 Article 2
 
-[^key-382ea0baceb6d71a6c627d49d51b359f]
+[^c-382ea0baceb6d71a6c627d49d51b359f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-382ea0baceb6d71a6c627d49d51b359f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-382ea0baceb6d71a6c627d49d51b359f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-382ea0baceb6d71a6c627d49d51b359f]: Textual amendment: Order revoked (1.4.1993) by [The Registration of Births, Deaths and Marriages (Fees) (No. 2) Order 1992 (S.I. 1992/2982)](https://www.legislation.gov.uk/uksi/1992/2982), [art. 3](https://www.legislation.gov.uk/uksi/1992/2982/article/3) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-382ea0baceb6d71a6c627d49d51b359f]: Textual amendment: Order revoked (1.4.1993) by [The Registration of Births, Deaths and Marriages (Fees) (No. 2) Order 1992 (S.I. 1992/2982)](https://www.legislation.gov.uk/uksi/1992/2982), [art. 3](https://www.legislation.gov.uk/uksi/1992/2982/article/3) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

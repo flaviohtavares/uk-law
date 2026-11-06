@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3A. Presumption as to the authentication of electronic documents[^key-d90b1cf265ae56b0be3209eee75b6d00]
+## 3A. Presumption as to the authentication of electronic documents[^c-d90b1cf265ae56b0be3209eee75b6d00]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d90b1cf265ae56b0be3209eee75b6d00]: Textual amendment: S. 3A repealed (8.12.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/7) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/c)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-d90b1cf265ae56b0be3209eee75b6d00]: Textual amendment: S. 3A repealed (8.12.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/7) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/c)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)

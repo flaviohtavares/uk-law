@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Section 16 of the Succession (Scotland) Act 1964[^key-bc69b2c70ebbb490a51dbdefc6b60921]
+## 20. Section 16 of the Succession (Scotland) Act 1964[^c-bc69b2c70ebbb490a51dbdefc6b60921]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ In section 16 (provisions relating to leases) of the Succession (Scotland) Act 1
 
 ## Annotations
 
-[^key-bc69b2c70ebbb490a51dbdefc6b60921]: Commencement: S. 20 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-bc69b2c70ebbb490a51dbdefc6b60921]: Commencement: S. 20 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

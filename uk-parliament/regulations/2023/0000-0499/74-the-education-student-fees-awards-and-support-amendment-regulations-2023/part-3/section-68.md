@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^key-41e4dcf665bdfe091183b4d3e77d1e1e]
+## 68. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^c-41e4dcf665bdfe091183b4d3e77d1e1e]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In Part 1 of Schedule 1 (eligible students: interpretation)[^f00060], in paragra
 
 ## Annotations
 
-[^key-41e4dcf665bdfe091183b4d3e77d1e1e]: Commencement: Reg. 68 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-41e4dcf665bdfe091183b4d3e77d1e1e]: Commencement: Reg. 68 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00060]: Footnote: Definitions inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).

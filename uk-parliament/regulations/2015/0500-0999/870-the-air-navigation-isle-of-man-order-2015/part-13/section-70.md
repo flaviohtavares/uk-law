@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Prohibition on carrying on board sporting weapons or munitions of war[^key-8ce979f3e56a5ff0197c514c8046b961]
+## 70. Prohibition on carrying on board sporting weapons or munitions of war[^c-8ce979f3e56a5ff0197c514c8046b961]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ce979f3e56a5ff0197c514c8046b961]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2015/870/article/70) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-8ce979f3e56a5ff0197c514c8046b961]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2015/870/article/70) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

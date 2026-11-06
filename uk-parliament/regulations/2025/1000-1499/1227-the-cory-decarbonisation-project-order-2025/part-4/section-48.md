@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Procedures in relation to certain approvals etc.[^key-3879654f94c0d4973fd4bb666adc316f]
+## 48. Procedures in relation to certain approvals etc.[^c-3879654f94c0d4973fd4bb666adc316f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3879654f94c0d4973fd4bb666adc316f]: Commencement: Art. 48 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-3879654f94c0d4973fd4bb666adc316f]: Commencement: Art. 48 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Dissolution of office of Commissioner[^key-3f536770a34eadcb118f14b6412a4637]
+## 2. Dissolution of office of Commissioner[^c-3f536770a34eadcb118f14b6412a4637]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The office of Water Industry Commissioner for Scotland is dissolved on such date
 
 ## Annotations
 
-[^key-3f536770a34eadcb118f14b6412a4637]: Commencement: S. 2 in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-3f536770a34eadcb118f14b6412a4637]: Commencement: S. 2 in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

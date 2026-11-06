@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX III[^key-48dfd7f3d0966ff932cea3cf03cdd733]
+## ANNEX III[^c-48dfd7f3d0966ff932cea3cf03cdd733]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48dfd7f3d0966ff932cea3cf03cdd733]: Textual amendment: Annex 3 omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/763/regulation/11/3) (as inserted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [3(11)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/3/11/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48dfd7f3d0966ff932cea3cf03cdd733]: Textual amendment: Annex 3 omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/763/regulation/11/3) (as inserted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [3(11)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/3/11/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

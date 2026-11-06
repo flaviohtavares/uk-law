@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — Land of which temporary possession may be taken[^key-1d98e4426cf716bbe5ab71d13137ba78]
+## SCHEDULE 9 — Land of which temporary possession may be taken[^c-1d98e4426cf716bbe5ab71d13137ba78]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ Article 26
 
 ## Annotations
 
-[^key-1d98e4426cf716bbe5ab71d13137ba78]: Commencement: Sch. 9 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-1d98e4426cf716bbe5ab71d13137ba78]: Commencement: Sch. 9 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

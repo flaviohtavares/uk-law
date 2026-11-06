@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11B. Provision of additional capacity or energy efficiency measures[^key-f3374664b4134f2a182a39af7f2aee0d]
+## 11B. Provision of additional capacity or energy efficiency measures[^c-f3374664b4134f2a182a39af7f2aee0d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3374664b4134f2a182a39af7f2aee0d]: Textual amendment: [Art. 11B](https://www.legislation.gov.uk/nisi/1992/231/article/11B) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [11](https://www.legislation.gov.uk/nisr/2020/307/regulation/11)
+[^c-f3374664b4134f2a182a39af7f2aee0d]: Textual amendment: [Art. 11B](https://www.legislation.gov.uk/nisi/1992/231/article/11B) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [11](https://www.legislation.gov.uk/nisr/2020/307/regulation/11)

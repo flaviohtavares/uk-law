@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 17 and Schedule 4 Part I Paragraphs 18 and 19
 
-### Part I — Categories of feed materials for use in relation to compound feeding stuffs for pet animals[^key-b84a3fd81deb68468e43d39f620e1070]
+### Part I — Categories of feed materials for use in relation to compound feeding stuffs for pet animals[^c-b84a3fd81deb68468e43d39f620e1070]
 
 | Description of the Category | Definition |
 | --- | --- |
@@ -48,7 +48,7 @@ Regulation 17 and Schedule 4 Part I Paragraphs 18 and 19
 | 18\. Insects | All types of insects in any stage of development |
 | 19\. Bakery products | All bread, cakes, biscuits and pasta products |
 
-### Part II — Categories of feed materials for use in relation to compound feeding stuffs for animals other than pets[^key-3d9cbc0a17205ef1f04d39816524a862]
+### Part II — Categories of feed materials for use in relation to compound feeding stuffs for animals other than pets[^c-3d9cbc0a17205ef1f04d39816524a862]
 
 | Description of the Category | Definition |
 | --- | --- |
@@ -70,6 +70,6 @@ Regulation 17 and Schedule 4 Part I Paragraphs 18 and 19
 
 ## Annotations
 
-[^key-b84a3fd81deb68468e43d39f620e1070]: Commencement: Sch. 10 Pt. I in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-b84a3fd81deb68468e43d39f620e1070]: Commencement: Sch. 10 Pt. I in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-3d9cbc0a17205ef1f04d39816524a862]: Commencement: Sch. 10 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-3d9cbc0a17205ef1f04d39816524a862]: Commencement: Sch. 10 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies where a distributor considers, or has reason to believe, that a regulated non-automatic weighing instrument made available[^key-760ea8f14c388dd7d98bfb3ef91a0349] on the market by that distributor is not in conformity with the requirements of these Regulations.
+(1) This regulation applies where a distributor considers, or has reason to believe, that a regulated non-automatic weighing instrument made available[^c-760ea8f14c388dd7d98bfb3ef91a0349] on the market by that distributor is not in conformity with the requirements of these Regulations.
 
 (2) Where this regulation applies, the distributor must immediately take the corrective measures necessary to bring the regulated non-automatic weighing instrument into conformity, or withdraw or recall it, if appropriate.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-760ea8f14c388dd7d98bfb3ef91a0349]: Textual amendment: Words in reg. 30(1) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/5/regulation/7/2)
+[^c-760ea8f14c388dd7d98bfb3ef91a0349]: Textual amendment: Words in reg. 30(1) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/5/regulation/7/2)

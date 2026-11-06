@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Cooperation and coordination[^key-ed212103319ade88b8de92ba81917ca5][^key-7854dd7e6def7b0acc25d55562dd8fb4]
+## 109. Cooperation and coordination[^c-ed212103319ade88b8de92ba81917ca5][^c-7854dd7e6def7b0acc25d55562dd8fb4]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed212103319ade88b8de92ba81917ca5]: Commencement: S. 109 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-ed212103319ade88b8de92ba81917ca5]: Commencement: S. 109 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-7854dd7e6def7b0acc25d55562dd8fb4]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2022/30/section/109) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z8)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z8)
+[^c-7854dd7e6def7b0acc25d55562dd8fb4]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2022/30/section/109) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z8)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z8)

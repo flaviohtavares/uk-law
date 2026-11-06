@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Termination or suspension of authorisation under section 33 of the Financial Services Act: time for reference expired[^key-88a9a36ef2f9a38b31b36acdcf326739]
+## 13. Termination or suspension of authorisation under section 33 of the Financial Services Act: time for reference expired[^c-88a9a36ef2f9a38b31b36acdcf326739]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the Authority must, as soon as practicable after commencement, notify any recipi
 
 ## Annotations
 
-[^key-88a9a36ef2f9a38b31b36acdcf326739]: Commencement: Art. 13 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-88a9a36ef2f9a38b31b36acdcf326739]: Commencement: Art. 13 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-683a961c2837244e20f0a2049f966f24]
+## 1. Citation and commencement[^c-683a961c2837244e20f0a2049f966f24]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Building Society Insolvency (England and Wales) 
 
 ## Annotations
 
-[^key-683a961c2837244e20f0a2049f966f24]: Commencement: Rule 1 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-683a961c2837244e20f0a2049f966f24]: Commencement: Rule 1 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

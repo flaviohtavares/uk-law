@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-The Marketing Authorisations for Veterinary Medicinal Products (Amendment) Regulations 2002 (revoked)[^key-db18f1c3146f474b90f1104a34be4b2a]
+The Marketing Authorisations for Veterinary Medicinal Products (Amendment) Regulations 2002 (revoked)[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 Made
 
@@ -45,112 +45,112 @@ Coming into force
 
 10th March 2002
 
-[^key-db18f1c3146f474b90f1104a34be4b2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db18f1c3146f474b90f1104a34be4b2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 1. Title and commencement[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Marketing Authorisations for Veterinary Medicinal Products Regulations 1994[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 2. Amendment to the Marketing Authorisations for Veterinary Medicinal Products Regulations 1994[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 3.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 4.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 5.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 6.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 7.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 8.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 9.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 10.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 11.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 12.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 13.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 14.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 15.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 16.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-db18f1c3146f474b90f1104a34be4b2a]
+## 17.[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db18f1c3146f474b90f1104a34be4b2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db18f1c3146f474b90f1104a34be4b2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Replacement Schedules[^key-db18f1c3146f474b90f1104a34be4b2a]
+## SCHEDULE — Replacement Schedules[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 Regulation 17
 
-[^key-db18f1c3146f474b90f1104a34be4b2a]
+[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1 — Requirements in respect of products other than immunological products[^key-db18f1c3146f474b90f1104a34be4b2a]
+## SCHEDULE 1 — Requirements in respect of products other than immunological products[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 Regulation 4(5)
 
-**1.**[^key-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Requirements in respect of immunological products[^key-db18f1c3146f474b90f1104a34be4b2a]
+## SCHEDULE 2 — Requirements in respect of immunological products[^c-db18f1c3146f474b90f1104a34be4b2a]
 
 Regulation 4(6)
 
-**1.**[^key-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-db18f1c3146f474b90f1104a34be4b2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db18f1c3146f474b90f1104a34be4b2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db18f1c3146f474b90f1104a34be4b2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db18f1c3146f474b90f1104a34be4b2a]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), reg. 1(a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-db18f1c3146f474b90f1104a34be4b2a]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), reg. 1(a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

@@ -40,15 +40,15 @@ Coming into force
 
 18th December 2006
 
-[^key-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-262007780e3591516d029b493edb9a68][^key-262007780e3591516d029b493edb9a68]
+## 1. Citation and commencement[^c-262007780e3591516d029b493edb9a68][^c-262007780e3591516d029b493edb9a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The earnings percentage[^key-262007780e3591516d029b493edb9a68][^key-262007780e3591516d029b493edb9a68]
+## 2. The earnings percentage[^c-262007780e3591516d029b493edb9a68][^c-262007780e3591516d029b493edb9a68]
 
 **No longer in force.**
 
@@ -56,10 +56,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-262007780e3591516d029b493edb9a68]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2006/3105) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (S.I. 2012/528)](https://www.legislation.gov.uk/uksi/2012/528), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/528/article/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/528/schedule)
+[^c-262007780e3591516d029b493edb9a68]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2006/3105) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (S.I. 2012/528)](https://www.legislation.gov.uk/uksi/2012/528), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/528/article/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/528/schedule)

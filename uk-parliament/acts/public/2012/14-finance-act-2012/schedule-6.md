@@ -1935,13 +1935,13 @@ Section 38
 > - (a) the termination date relating to the latest issue of shares which met that condition, or
 > - (b) if that issue is an issue in respect of which the investor is eligible for SEIS relief (within the meaning of Part 5A), before the date specified in section 257AC(4) in relation to the shares.
 
-**11.**[^key-30d25422f2d178ccf4df20ee15f24f75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-30d25422f2d178ccf4df20ee15f24f75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** In section 173A (enterprise investment scheme: maximum amount raised annually through risk capital schemes requirement), in subsection (3)(b), after sub-paragraph (i) (and the “or” at the end of it) insert—
 
 > - (ia) a compliance statement under section 257ED (seed enterprise investment scheme).
 
-**13.**[^key-ce65e7d17fe179536169bb36cfb2ab63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ce65e7d17fe179536169bb36cfb2ab63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** (1) Section 246 (identification of shares on a disposal) is amended as follows.
 
@@ -1958,13 +1958,13 @@ Section 38
 
 > “**SEIS relief**” means relief under Part 5A (seed enterprise investment scheme).
 
-**15.**[^key-3290298f8a0add247e9ba7bd44400f8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-3290298f8a0add247e9ba7bd44400f8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In section 292A (venture capital trusts: maximum amount raised annually through risk capital schemes requirement), in subsection (3)(b), after sub-paragraph (i) (and the “or” at the end of it) insert—
 
 > - (ia) a compliance statement under section 257ED (seed enterprise investment scheme).
 
-**17.**[^key-7cc0f07dfc4ab5e61fed03de9d4cf6bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7cc0f07dfc4ab5e61fed03de9d4cf6bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** (1) Schedule 4 (index of defined expressions) is amended as follows.
 
@@ -2134,10 +2134,10 @@ Section 38
 
 ## Annotations
 
-[^key-30d25422f2d178ccf4df20ee15f24f75]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/11) omitted (with effect in accordance with Sch. 5 para. 21 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/1)
+[^c-30d25422f2d178ccf4df20ee15f24f75]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/11) omitted (with effect in accordance with Sch. 5 para. 21 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/1)
 
-[^key-ce65e7d17fe179536169bb36cfb2ab63]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/13) omitted (with effect in accordance with Sch. 5 para. 21 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/1)
+[^c-ce65e7d17fe179536169bb36cfb2ab63]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/13) omitted (with effect in accordance with Sch. 5 para. 21 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/1)
 
-[^key-3290298f8a0add247e9ba7bd44400f8f]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/15) omitted (with effect in accordance with Sch. 6 para. 23(2) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/1)
+[^c-3290298f8a0add247e9ba7bd44400f8f]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/15) omitted (with effect in accordance with Sch. 6 para. 23(2) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/1)
 
-[^key-7cc0f07dfc4ab5e61fed03de9d4cf6bc]: Textual amendment: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/17) omitted (with effect in accordance with Sch. 6 para. 23(2) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/1)
+[^c-7cc0f07dfc4ab5e61fed03de9d4cf6bc]: Textual amendment: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/17) omitted (with effect in accordance with Sch. 6 para. 23(2) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/1)

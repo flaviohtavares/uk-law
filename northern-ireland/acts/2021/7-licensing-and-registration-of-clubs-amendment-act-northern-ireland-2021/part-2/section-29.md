@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Consent required for alterations to premises[^key-210331ff8836520708f9a5c92d96e43b][^key-16f024a1b6820b9443c70f0e0ac555e5]
+## 29. Consent required for alterations to premises[^c-210331ff8836520708f9a5c92d96e43b][^c-16f024a1b6820b9443c70f0e0ac555e5]
 
 *Extent: N.I.*
 
@@ -103,6 +103,6 @@ summary: ''
 
 ## Annotations
 
-[^key-210331ff8836520708f9a5c92d96e43b]: Commencement: S. 29 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-210331ff8836520708f9a5c92d96e43b]: Commencement: S. 29 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-16f024a1b6820b9443c70f0e0ac555e5]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2021/7/section/29) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-16f024a1b6820b9443c70f0e0ac555e5]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2021/7/section/29) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

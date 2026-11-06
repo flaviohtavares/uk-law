@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Provision consequential on sections 63 and 64[^key-ae84de78150212b3cf328a084d77ea15]
+## 65. Provision consequential on sections 63 and 64[^c-ae84de78150212b3cf328a084d77ea15]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae84de78150212b3cf328a084d77ea15]: Commencement: [S. 65](https://www.legislation.gov.uk/mwa/2011/4/section/65) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/g)
+[^c-ae84de78150212b3cf328a084d77ea15]: Commencement: [S. 65](https://www.legislation.gov.uk/mwa/2011/4/section/65) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/g)

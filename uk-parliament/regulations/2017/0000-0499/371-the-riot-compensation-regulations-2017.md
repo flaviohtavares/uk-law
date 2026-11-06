@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 2(4), 3, 4(2) and (3), 8(4) to (7), 9 and 11(4)(d) of the Riot Compensation Act 2016[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-1a9ba1760470a881f92aa127d4d14f7c]
+## 1. Citation, commencement and interpretation[^c-1a9ba1760470a881f92aa127d4d14f7c]
 
 (1) —These Regulations may be cited as the Riot Compensation Regulations 2017 and come into force on 6th April 2017.
 
@@ -67,7 +67,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## Scope of Claims
 
-### 2. Amendment of section 2 of the Act[^key-39ad5b8109da44c6ff255f14435af544]
+### 2. Amendment of section 2 of the Act[^c-39ad5b8109da44c6ff255f14435af544]
 
 In section 2(3) of the Act (property in respect of which claims may be made), for the words from “at the time” to the end, substitute—
 
@@ -85,30 +85,30 @@ In section 2(3) of the Act (property in respect of which claims may be made), fo
 
 ## Claim Procedures
 
-### 3. Multiple interest claims[^key-65ad09f72c2eaa0906d201c6d8ac0724]
+### 3. Multiple interest claims[^c-65ad09f72c2eaa0906d201c6d8ac0724]
 
-(1) Where more than one person has, or claims to have, an[^key-59720145bb1114a563979edf7b5a222a] interest in property in respect of which a section 1 claim may be made, a section 1 claim may be made by each person.
+(1) Where more than one person has, or claims to have, an[^c-59720145bb1114a563979edf7b5a222a] interest in property in respect of which a section 1 claim may be made, a section 1 claim may be made by each person.
 
 (2) For the purposes of paragraph (1)—
 
-- (a) in the case of residential premises including the common parts (if any) of those premises, a person who has an interest in the property includes a person who is an insurer, mortgagee, freeholder, leaseholder or tenant of it;[^key-b377b33de4d4311889b1da7a6e11c816]
-- (b) in the case of business premises including the common parts (if any) of those premises, a person who has an interest in the property includes a person who—[^key-4332c84778ce8adc403b5f5581e5706c]
+- (a) in the case of residential premises including the common parts (if any) of those premises, a person who has an interest in the property includes a person who is an insurer, mortgagee, freeholder, leaseholder or tenant of it;[^c-b377b33de4d4311889b1da7a6e11c816]
+- (b) in the case of business premises including the common parts (if any) of those premises, a person who has an interest in the property includes a person who—[^c-4332c84778ce8adc403b5f5581e5706c]
   - (i) is an insurer, mortgagee, freeholder, leaseholder or tenant of it; or
   - (ii) is using it for the purposes of a business;
-- (c)[^key-d2f87bbf52e6aca012e6a9617e955215] in the case of any property which does not fall within sub-paragraph (a) or (b), a person who has an interest in it includes a person who is an insurer, owner or joint owner of it.
+- (c)[^c-d2f87bbf52e6aca012e6a9617e955215] in the case of any property which does not fall within sub-paragraph (a) or (b), a person who has an interest in it includes a person who is an insurer, owner or joint owner of it.
 
 (3) In paragraph (2), “tenant” means a person entitled in possession to the property under a contract of tenancy.
 
-### 4. Claim consolidation[^key-4687d25ed8ba888ea2bd47e4f4f8a49d]
+### 4. Claim consolidation[^c-4687d25ed8ba888ea2bd47e4f4f8a49d]
 
-(1) No person may make more than one section 1 claim in relation to each of the following[^key-1dd3f9460373b838a60e92cac62a396a]—
+(1) No person may make more than one section 1 claim in relation to each of the following[^c-1dd3f9460373b838a60e92cac62a396a]—
 
-- (a) property at a single[^key-3917f770d63b96c03931de6ce7e5b52e] postal address, [^key-cb7242a73e8bc5849769fc9fe1606130]...
-- (b)[^key-8c0343eb0d701028e87ce5538b11fad6] property which does not fall within sub-paragraph (a).
+- (a) property at a single[^c-3917f770d63b96c03931de6ce7e5b52e] postal address, [^c-cb7242a73e8bc5849769fc9fe1606130]...
+- (b)[^c-8c0343eb0d701028e87ce5538b11fad6] property which does not fall within sub-paragraph (a).
 
-(2)[^key-abb381f6fc5d8fd9d2a914c6da4baa52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-abb381f6fc5d8fd9d2a914c6da4baa52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Claim handling[^key-767d5b4af1ca5cf0579775c72cb162f4]
+### 5. Claim handling[^c-767d5b4af1ca5cf0579775c72cb162f4]
 
 (1) A section 1 claim must be made to the Authority.
 
@@ -122,7 +122,7 @@ In section 2(3) of the Act (property in respect of which claims may be made), fo
 
 (4) A claim made under paragraph (2)(b) must be submitted to the Authority by an electronic means approved by the Authority.
 
-### 6. Claim time limits[^key-e845c0b78a65b34cad02040dd8cbfb93]
+### 6. Claim time limits[^c-e845c0b78a65b34cad02040dd8cbfb93]
 
 (1) Subject to paragraph (3)—
 
@@ -148,14 +148,14 @@ In section 2(3) of the Act (property in respect of which claims may be made), fo
 
 (5) In this regulation, “riot reference date” means, in relation to a riot, the date on which the riot ends and, for the purposes of this definition, a riot which occurs in any police area within 24 hours of the last riot (whether or not in the same area) is to be treated as part of the same riot.
 
-### 7. Details and evidence in support of a claim[^key-03ec09385e3064b90e32609c39abcf0f]
+### 7. Details and evidence in support of a claim[^c-03ec09385e3064b90e32609c39abcf0f]
 
 (1) A section 1 claim must be supported by adequate details and adequate evidence of losses incurred.
 
 (2) If an ordinary claimant is entitled to claim or has claimed compensation against an insurance company, under a policy of insurance, for the damage, destruction or theft in the course of the riot of all or any of the property which is the subject of the ordinary claim, the ordinary claim must include—
 
 - (a) adequate details of that policy, and
-- (b) if the ordinary claimant has claimed compensation under that policy[^key-4062455b5e82be6ca7ec5de52d41903f], adequate details of the claim and adequate evidence in support of it.
+- (b) if the ordinary claimant has claimed compensation under that policy[^c-4062455b5e82be6ca7ec5de52d41903f], adequate details of the claim and adequate evidence in support of it.
 
 (3) It is the duty of the Authority to determine whether adequate details and adequate evidence under paragraph (1) and (if applicable) paragraph (2) have been submitted.
 
@@ -163,7 +163,7 @@ In section 2(3) of the Act (property in respect of which claims may be made), fo
 
 (5) The Authority may require any estimate of repair costs submitted as evidence of losses incurred to be prepared by contractors approved by it.
 
-### 8. Local policing body’s powers to delegate functions[^key-aa6f3ee0e3fe98ae90970cf1c24c46bb]
+### 8. Local policing body’s powers to delegate functions[^c-aa6f3ee0e3fe98ae90970cf1c24c46bb]
 
 (1) A local policing body may delegate to another person either or both of the following functions in relation to a section 1 claim—
 
@@ -177,19 +177,19 @@ In section 2(3) of the Act (property in respect of which claims may be made), fo
 
 ## Compensation
 
-### 9. Compensation in relation to ordinary claims: general provisions[^key-af5fd4de238286906c9abcc611161cfc]
+### 9. Compensation in relation to ordinary claims: general provisions[^c-af5fd4de238286906c9abcc611161cfc]
 
 In deciding the amount that reflects an ordinary claimant’s loss, the Authority must—
 
 - (a) treat stolen property as lost if it is not recovered by or on behalf of the Authority or ordinary claimant before the first payment date,
-- (b) disregard any loss relating to property insured by the ordinary claimant for its damage, destruction or theft in the course of the riot to the extent that—[^key-818ac593ac9f46f2a96cdb70ddd4999e]
+- (b) disregard any loss relating to property insured by the ordinary claimant for its damage, destruction or theft in the course of the riot to the extent that—[^c-818ac593ac9f46f2a96cdb70ddd4999e]
   - (i) it is so insured (whether or not the insurance policy makes specific provision in relation to riots), and
   - (ii) the ordinary claimant has been compensated under the insurance policy,
 - (c) have regard to—
   - (i) in the case of immoveable property, the reasonable cost of its repair or reinstatement, and
   - (ii) in the case of moveable property and except in the circumstances specified in regulation 10, the cost of replacing it at current market value or, if it is cash, the cost of, or the Authority’s estimate of the cost of, reimbursement.
 
-### 10. Compensation in relation to ordinary claims: motor vehicle and stock in trade exceptions[^key-a30957b39032178dcc304e8fb7a7a56f]
+### 10. Compensation in relation to ordinary claims: motor vehicle and stock in trade exceptions[^c-a30957b39032178dcc304e8fb7a7a56f]
 
 (1) Where an ordinary claim relates to a motor vehicle which is not stock in trade, the Authority must decide the amount that reflects the ordinary claimant’s loss by reference to whichever of the following costs is relevant—
 
@@ -201,7 +201,7 @@ In deciding the amount that reflects an ordinary claimant’s loss, the Authorit
 
 (3) Where an ordinary claim relates to the theft and loss, damage or destruction of second-hand stock in trade, the Authority must decide the amount that reflects the ordinary claimant’s loss by reference to the Authority’s reasonable estimate of the cost of the stock at its replacement value.
 
-### 11. Compensation in relation to insurer claims: general provisions[^key-c99959dddb6b6ee1e1521ee5bbfa4b08]
+### 11. Compensation in relation to insurer claims: general provisions[^c-c99959dddb6b6ee1e1521ee5bbfa4b08]
 
 In deciding the amount that reflects an insurer claimant’s loss, the Authority must—
 
@@ -210,13 +210,13 @@ In deciding the amount that reflects an insurer claimant’s loss, the Authority
   - (i) in the case of immoveable property, the reasonable cost of its repair or reinstatement, and
   - (ii) in the case of moveable property and except in the circumstances specified in regulation 12, the cost of replacing it at current market value or, if it is cash, the cost of, or the Authority’s estimate of the cost of, reimbursement.
 
-### 12. Compensation in relation to insurer claims: ... stock in trade exceptions[^key-c0424b917560e3da9314158914821607][^key-60274239abfcb277705dbb82b31d78af]
+### 12. Compensation in relation to insurer claims: ... stock in trade exceptions[^c-c0424b917560e3da9314158914821607][^c-60274239abfcb277705dbb82b31d78af]
 
 (1) Where an insurer claim relates to the theft and loss, damage or destruction of stock in trade other than second–hand stock, the Authority must decide the amount that reflects the insurer claimant’s loss by reference to the stock’s replacement value or current market value, whichever is lower.
 
 (2) Where an insurer claim relates to the theft and loss, damage or destruction of second-hand stock in trade, the Authority must decide the amount that reflects the insurer claimant’s loss by reference to the Authority’s reasonable estimate of the stock’s replacement value.
 
-### 13. Further decision on the payment of compensation[^key-11f04c075fd01a73dc90e89fdcce2de7]
+### 13. Further decision on the payment of compensation[^c-11f04c075fd01a73dc90e89fdcce2de7]
 
 (1) Where an Authority has refused a section 1 claim, it may make a further decision on the payment of compensation in relation to the claim after the refusal date if the claimant or representative (if any) submits new details or evidence (or both) relevant to the claim on or after that date.
 
@@ -224,7 +224,7 @@ In deciding the amount that reflects an insurer claimant’s loss, the Authority
 
 (3) The refusal by an Authority to make a further decision under paragraph (1) or (2) is to be treated as a refusal of the claim for the purposes of these Regulations.
 
-### 14. Deduction of compensation from ordinary claim where compensation already provided out of public funds[^key-02519478fc298eb98704277a22214ad1]
+### 14. Deduction of compensation from ordinary claim where compensation already provided out of public funds[^c-02519478fc298eb98704277a22214ad1]
 
 (1) If an ordinary claimant has received compensation provided out of public funds for the damage, destruction or theft in the course of the riot of all or any of the property which is the subject of the ordinary claim, the Authority must deduct an equivalent amount from the amount of compensation in respect of the ordinary claim.
 
@@ -237,14 +237,14 @@ In deciding the amount that reflects an insurer claimant’s loss, the Authority
   - (b) by a local authority;
 - “local authority” means—
   - (a) a county council,
-  - (b) a [^key-50a7e0270e10678bc1ea9ee6f0aacf2c]... district council,
-  - (c) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009,[^key-18ccca595881435b065158e495e1bca6]
-  - (d) a county borough council [^key-a434f02e63266767dfead7f2e48f55ff]...,
+  - (b) a [^c-50a7e0270e10678bc1ea9ee6f0aacf2c]... district council,
+  - (c) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009,[^c-18ccca595881435b065158e495e1bca6]
+  - (d) a county borough council [^c-a434f02e63266767dfead7f2e48f55ff]...,
   - (e) a London borough council,
   - (f) the Common Council of the City of London, or
   - (g) the Council of the Isles of Scilly.
 
-### 15. Claims by ordinary claimants whose homes have been rendered uninhabitable by a riot[^key-a2ea702639d311ebad09514a73a9df85]
+### 15. Claims by ordinary claimants whose homes have been rendered uninhabitable by a riot[^c-a2ea702639d311ebad09514a73a9df85]
 
 (1) This regulation applies where an ordinary claimant’s home has been rendered uninhabitable by a riot and, as a result, the ordinary claimant needs alternative accommodation and makes an ordinary claim for this purpose.
 
@@ -290,7 +290,7 @@ In deciding the amount that reflects an insurer claimant’s loss, the Authority
 - “relevant benefit” means housing benefit or assistance with housing costs payable as part of an ordinary claimant’s award of income support, employment and support allowance, jobseeker’s allowance, state pension credit or universal credit, as the case may be, in respect of a home rendered uninhabitable by a riot or alternative accommodation (or both) mentioned in paragraph (1);
 - “alternative accommodation claim” means an ordinary claim in the circumstances described in paragraph (1).
 
-### 16. Effect of acts or omissions of claimants[^key-ed3cfcfc4c44f54590c8bd8b301b6987]
+### 16. Effect of acts or omissions of claimants[^c-ed3cfcfc4c44f54590c8bd8b301b6987]
 
 (1) An Authority may refuse an ordinary claim or decrease compensation to an ordinary claimant where it considers this appropriate because—
 
@@ -308,17 +308,17 @@ In deciding the amount that reflects an insurer claimant’s loss, the Authority
 
 (3) In paragraph (2)(a) and (b), “the insured person” means the person who has made a related insurance claim against the insurer claimant.
 
-### 17. Fraud[^key-d358da8e4dee18dfa3baa4c453036a26]
+### 17. Fraud[^c-d358da8e4dee18dfa3baa4c453036a26]
 
 An Authority may refuse a section 1 claim if the Authority believes that the claim, any other section 1 claim made by the claimant or, in the case of an insurer claim, the related claim against the insurer claimant is fraudulent (to any extent).
 
-### 18. Further provisions relating to compensation[^key-dd49d6ad5cd5666df1a0a407cfd423f9]
+### 18. Further provisions relating to compensation[^c-dd49d6ad5cd5666df1a0a407cfd423f9]
 
 (1) In deciding the amount of compensation to be paid in relation to a section 1 claim, an Authority may include reasonable costs and expenses incurred by the claimant where the claimant or representative (if any) has submitted to the Authority adequate evidence in support of the claim at the Authority’s request.
 
 (2) An Authority may deduct from any compensation a reasonable amount to reflect the costs it incurs in administering compensation to claimants.
 
-### 19. Interim payments and compensation in instalments[^key-647d4f269088a9213f1d63c783a99150]
+### 19. Interim payments and compensation in instalments[^c-647d4f269088a9213f1d63c783a99150]
 
 (1) An Authority may provide for interim payments in relation to a section 1 claim before making its decision on the claim where it considers that it is reasonable to do so.
 
@@ -327,11 +327,11 @@ An Authority may refuse a section 1 claim if the Authority believes that the cla
 - (a) the repair or replacement of stolen, damaged or destroyed moveable property;
 - (b) the reinstatement of immoveable property.
 
-### 20. Payments for repairs instead of monetary compensation[^key-50731a4f6002527b7811dfbe0b232270]
+### 20. Payments for repairs instead of monetary compensation[^c-50731a4f6002527b7811dfbe0b232270]
 
 An Authority may, instead of monetary compensation, arrange for repairs to be carried out on property that has been damaged and which is the subject of an ordinary claim, at the expense of the appropriate local policing body.
 
-### 21. Notification of Authority’s decision[^key-464f9135febee6bbfd434e06b1b35ed5]
+### 21. Notification of Authority’s decision[^c-464f9135febee6bbfd434e06b1b35ed5]
 
 (1) An Authority must notify a claimant or representative (if any) in writing of any decision—
 
@@ -350,7 +350,7 @@ An Authority may, instead of monetary compensation, arrange for repairs to be ca
 
 ## Reviews and Appeals
 
-### 22. Application for a review of a decision[^key-30bdca42cc399bb1d3cf49af710ffa37]
+### 22. Application for a review of a decision[^c-30bdca42cc399bb1d3cf49af710ffa37]
 
 (1) Where an Authority notifies a claimant of its decision under regulation 21(1)(a), (b) or (d), the claimant may apply for a review of that decision within 29 days starting with the day on which the Authority issues the notification.
 
@@ -366,17 +366,17 @@ An Authority may, instead of monetary compensation, arrange for repairs to be ca
 
 (4) An application made under paragraph (2)(a)(ii) must be submitted to the Authority by an electronic means approved by the Authority.
 
-### 23. Decision on review[^key-954753ac7b2cfaecb4829b8f097f76df]
+### 23. Decision on review[^c-954753ac7b2cfaecb4829b8f097f76df]
 
 (1) If an Authority receives an application made in accordance with regulation 22 for a review of its original decision, it must review that decision and make a new decision (“decision on review”) which may maintain or be different from the original decision.
 
 (2) The Authority’s decision on review under paragraph (1), and the reasons for that decision, must—
 
 - (a) be in hard copy form,
-- (b) be sent by post or delivered by hand to the claimant or representative (if any)[^key-5ae43a075184cf40fdfd86948fe70730], and
-- (c) inform the claimant or representative (if any)[^key-f88e49b819d5e5859b1e9b78baca0d0d] of the right the claimant has to appeal against the decision on review to the Upper Tribunal.
+- (b) be sent by post or delivered by hand to the claimant or representative (if any)[^c-5ae43a075184cf40fdfd86948fe70730], and
+- (c) inform the claimant or representative (if any)[^c-f88e49b819d5e5859b1e9b78baca0d0d] of the right the claimant has to appeal against the decision on review to the Upper Tribunal.
 
-### 24. Right of appeal[^key-ca7c6ee1cb707afdb582696030c50b1c]
+### 24. Right of appeal[^c-ca7c6ee1cb707afdb582696030c50b1c]
 
 A claimant may appeal to the Upper Tribunal against a decision on review made under regulation 23(1) setting out the grounds on which the appeal is made.
 
@@ -410,84 +410,84 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2016 c.8](https://www.legislation.gov.uk/ukpga/2016/8).
 
-[^key-1a9ba1760470a881f92aa127d4d14f7c]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-1a9ba1760470a881f92aa127d4d14f7c]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-39ad5b8109da44c6ff255f14435af544]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-39ad5b8109da44c6ff255f14435af544]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-65ad09f72c2eaa0906d201c6d8ac0724]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-65ad09f72c2eaa0906d201c6d8ac0724]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-59720145bb1114a563979edf7b5a222a]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/1) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/a)
+[^c-59720145bb1114a563979edf7b5a222a]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/1) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/a)
 
-[^key-b377b33de4d4311889b1da7a6e11c816]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/2/a) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/b/i)
+[^c-b377b33de4d4311889b1da7a6e11c816]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/2/a) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/b/i)
 
-[^key-4332c84778ce8adc403b5f5581e5706c]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/2/b) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/b/ii)
+[^c-4332c84778ce8adc403b5f5581e5706c]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/2/b) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/b/ii)
 
-[^key-d2f87bbf52e6aca012e6a9617e955215]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/2/c) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/b/iii)
+[^c-d2f87bbf52e6aca012e6a9617e955215]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2017/371/regulation/3/2/c) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/2/b/iii)
 
-[^key-4687d25ed8ba888ea2bd47e4f4f8a49d]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-4687d25ed8ba888ea2bd47e4f4f8a49d]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-1dd3f9460373b838a60e92cac62a396a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/i)
+[^c-1dd3f9460373b838a60e92cac62a396a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/i)
 
-[^key-3917f770d63b96c03931de6ce7e5b52e]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1/a) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/ii)
+[^c-3917f770d63b96c03931de6ce7e5b52e]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1/a) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/ii)
 
-[^key-cb7242a73e8bc5849769fc9fe1606130]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/iii)
+[^c-cb7242a73e8bc5849769fc9fe1606130]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/iii)
 
-[^key-8c0343eb0d701028e87ce5538b11fad6]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1/b) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/iv)
+[^c-8c0343eb0d701028e87ce5538b11fad6]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/1/b) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/a/iv)
 
-[^key-abb381f6fc5d8fd9d2a914c6da4baa52]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/2) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/b)
+[^c-abb381f6fc5d8fd9d2a914c6da4baa52]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2017/371/regulation/4/2) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/3/b)
 
-[^key-767d5b4af1ca5cf0579775c72cb162f4]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-767d5b4af1ca5cf0579775c72cb162f4]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-e845c0b78a65b34cad02040dd8cbfb93]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-e845c0b78a65b34cad02040dd8cbfb93]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-03ec09385e3064b90e32609c39abcf0f]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-03ec09385e3064b90e32609c39abcf0f]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-4062455b5e82be6ca7ec5de52d41903f]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/7/2/b) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/4)
+[^c-4062455b5e82be6ca7ec5de52d41903f]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/7/2/b) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/4)
 
-[^key-aa6f3ee0e3fe98ae90970cf1c24c46bb]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-aa6f3ee0e3fe98ae90970cf1c24c46bb]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-af5fd4de238286906c9abcc611161cfc]: Commencement: Reg. 9 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-af5fd4de238286906c9abcc611161cfc]: Commencement: Reg. 9 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-818ac593ac9f46f2a96cdb70ddd4999e]: Textual amendment: Words in [reg. 9(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/9/b) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/5)
+[^c-818ac593ac9f46f2a96cdb70ddd4999e]: Textual amendment: Words in [reg. 9(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/9/b) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/5)
 
-[^key-a30957b39032178dcc304e8fb7a7a56f]: Commencement: Reg. 10 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-a30957b39032178dcc304e8fb7a7a56f]: Commencement: Reg. 10 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-c99959dddb6b6ee1e1521ee5bbfa4b08]: Commencement: Reg. 11 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-c99959dddb6b6ee1e1521ee5bbfa4b08]: Commencement: Reg. 11 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-c0424b917560e3da9314158914821607]: Commencement: Reg. 12 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-c0424b917560e3da9314158914821607]: Commencement: Reg. 12 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-60274239abfcb277705dbb82b31d78af]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2017/371/regulation/12) heading omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/6)
+[^c-60274239abfcb277705dbb82b31d78af]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2017/371/regulation/12) heading omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/6)
 
-[^key-11f04c075fd01a73dc90e89fdcce2de7]: Commencement: Reg. 13 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-11f04c075fd01a73dc90e89fdcce2de7]: Commencement: Reg. 13 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-02519478fc298eb98704277a22214ad1]: Commencement: Reg. 14 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-02519478fc298eb98704277a22214ad1]: Commencement: Reg. 14 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-50a7e0270e10678bc1ea9ee6f0aacf2c]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2017/371/regulation/14/3) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/7/a)
+[^c-50a7e0270e10678bc1ea9ee6f0aacf2c]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2017/371/regulation/14/3) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/7/a)
 
-[^key-18ccca595881435b065158e495e1bca6]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2017/371/regulation/14/3) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/7/b)
+[^c-18ccca595881435b065158e495e1bca6]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2017/371/regulation/14/3) substituted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/7/b)
 
-[^key-a434f02e63266767dfead7f2e48f55ff]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2017/371/regulation/14/3) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/7/c)
+[^c-a434f02e63266767dfead7f2e48f55ff]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2017/371/regulation/14/3) omitted (1.10.2018) by virtue of [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/7/c)
 
-[^key-a2ea702639d311ebad09514a73a9df85]: Commencement: Reg. 15 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-a2ea702639d311ebad09514a73a9df85]: Commencement: Reg. 15 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-ed3cfcfc4c44f54590c8bd8b301b6987]: Commencement: Reg. 16 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-ed3cfcfc4c44f54590c8bd8b301b6987]: Commencement: Reg. 16 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-d358da8e4dee18dfa3baa4c453036a26]: Commencement: Reg. 17 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-d358da8e4dee18dfa3baa4c453036a26]: Commencement: Reg. 17 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-dd49d6ad5cd5666df1a0a407cfd423f9]: Commencement: Reg. 18 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-dd49d6ad5cd5666df1a0a407cfd423f9]: Commencement: Reg. 18 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-647d4f269088a9213f1d63c783a99150]: Commencement: Reg. 19 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-647d4f269088a9213f1d63c783a99150]: Commencement: Reg. 19 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-50731a4f6002527b7811dfbe0b232270]: Commencement: Reg. 20 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-50731a4f6002527b7811dfbe0b232270]: Commencement: Reg. 20 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-464f9135febee6bbfd434e06b1b35ed5]: Commencement: Reg. 21 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-464f9135febee6bbfd434e06b1b35ed5]: Commencement: Reg. 21 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-30bdca42cc399bb1d3cf49af710ffa37]: Commencement: Reg. 22 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-30bdca42cc399bb1d3cf49af710ffa37]: Commencement: Reg. 22 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-954753ac7b2cfaecb4829b8f097f76df]: Commencement: Reg. 23 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-954753ac7b2cfaecb4829b8f097f76df]: Commencement: Reg. 23 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
 
-[^key-5ae43a075184cf40fdfd86948fe70730]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/23/2/b) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/8/a)
+[^c-5ae43a075184cf40fdfd86948fe70730]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/2017/371/regulation/23/2/b) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/8/a)
 
-[^key-f88e49b819d5e5859b1e9b78baca0d0d]: Textual amendment: Words in [reg. 23(2)(c)](https://www.legislation.gov.uk/uksi/2017/371/regulation/23/2/c) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/8/b)
+[^c-f88e49b819d5e5859b1e9b78baca0d0d]: Textual amendment: Words in [reg. 23(2)(c)](https://www.legislation.gov.uk/uksi/2017/371/regulation/23/2/c) inserted (1.10.2018) by [The Riot Compensation (Amendment) Regulations 2018 (S.I. 2018/982)](https://www.legislation.gov.uk/uksi/2018/982), [regs. 1](https://www.legislation.gov.uk/uksi/2018/982/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2018/982/regulation/2/8/b)
 
-[^key-ca7c6ee1cb707afdb582696030c50b1c]: Commencement: Reg. 24 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)
+[^c-ca7c6ee1cb707afdb582696030c50b1c]: Commencement: Reg. 24 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1)

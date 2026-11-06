@@ -41,308 +41,308 @@ relating to a proceeding under Article 81 of the Treaty establishing the Europea
 
 (2007/686/EC) (revoked)
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03c647d443c75b993c3b5a55dfb7ff67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 On 30 November 2005 the Commission adopted a decision relating to a proceeding under Article 81 of the EC Treaty. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.
 
 SUMMARY OF THE CASE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.1.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.1.
 
 Addressees
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](1)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](1)
 
 The decision is addressed to the following undertakings for having infringed Article 81(1) of the EC Treaty:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](2)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.2.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.2.
 
 The industrial bags sector
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](3)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](4)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](4)
 
 Plastic industrial bags can be divided into four categories:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.3.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.3.
 
 The supply
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](5)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.4.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.4.
 
 The demand
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](6)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](7)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](7)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.5.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.5.
 
 Scope of the infringement
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](8)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](8)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.6.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.6.
 
 Origin and procedure
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](9)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](9)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]1.7.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]1.7.
 
 Functioning of the cartel
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](10)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](10)
 
 The cartel operated basically at two levels:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](11)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](11)
 
 The anticompetitive practices identified covered in particular:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.
 
 FINES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.1.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.1.
 
 Basic Amount
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](12)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](12)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.1.1.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.1.1.
 
 Gravity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](13)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.1.2.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.1.2.
 
 Differential treatment
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](14)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](14)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](15)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](15)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](16)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](16)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](17)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](17)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.1.3.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.1.3.
 
 Sufficient deterrence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](18)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](18)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.1.4.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.1.4.
 
 Duration
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](19)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](19)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.2.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.2.
 
 Aggravating circumstances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.2.1.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.2.1.
 
 Repeated infringements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](20)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](20)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.2.2.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.2.2.
 
 Obstruction to the investigation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](21)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](21)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.3.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.3.
 
 Attenuating circumstances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](22)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](22)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.4.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.4.
 
 Application of the 10 % turnover limit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](23)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](23)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](24)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](24)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.5.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.5.
 
 Application of the 1996 Leniency Notice
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](25)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](25)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.5.1.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.5.1.
 
 Section B (reduction from 75 % to 100 %)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](26)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](26)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](27)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](27)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]2.5.2.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]2.5.2.
 
 Section D (reduction from 10 % to 50 %)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](28)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](28)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](29)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](29)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](30)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](30)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](31)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](31)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](32)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](32)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]3.
+[^c-03c647d443c75b993c3b5a55dfb7ff67]3.
 
 DECISION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](33)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](33)
 
 The following undertakings have infringed Article 81 of the Treaty by participating, during the periods indicated, in a complex of agreements and concerted practices in the plastic industrial bags sector in Belgium, Germany, Spain, France, Luxembourg and the Netherlands, consisting in the fixing of prices and the establishment of common price calculation models, the sharing of markets and the allocation of sales quotas, the assignment of customers, deals and orders, the submission of concerted bids in response to certain invitations to tender and the exchange of individualised information:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](34)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](34)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](35)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](35)
 
 For these infringements the following fines are imposed:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](36)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](36)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67](37)
+[^c-03c647d443c75b993c3b5a55dfb7ff67](37)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03c647d443c75b993c3b5a55dfb7ff67]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03c647d443c75b993c3b5a55dfb7ff67]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

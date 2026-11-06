@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Power to acquire subsoil only[^key-8d2591f221ef3ee3df596ff0ba2c081a]
+## 23. Power to acquire subsoil only[^c-8d2591f221ef3ee3df596ff0ba2c081a]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d2591f221ef3ee3df596ff0ba2c081a]: Commencement: Art. 23 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-8d2591f221ef3ee3df596ff0ba2c081a]: Commencement: Art. 23 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

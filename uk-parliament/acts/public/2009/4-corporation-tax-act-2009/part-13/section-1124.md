@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1124. Staffing costs: attributable expenditure[^key-6676a1a3751c1e4d2cd88e9c4faf726c]
+## 1124. Staffing costs: attributable expenditure[^c-6676a1a3751c1e4d2cd88e9c4faf726c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (4) The appropriate proportion of the staffing costs relating to the director or employee is treated as attributable to relevant research and development.
 
-(5)[^key-f4e69e41fac744d8232d74178716079f] Subsection (6) applies if persons provide services, such as secretarial or administrative services, in support of activities carried on by others.
+(5)[^c-f4e69e41fac744d8232d74178716079f] Subsection (6) applies if persons provide services, such as secretarial or administrative services, in support of activities carried on by others.
 
-(6)[^key-f4e69e41fac744d8232d74178716079f] Those persons are not, as a result of providing those services, to be treated as themselves directly and actively engaged in those activities.
+(6)[^c-f4e69e41fac744d8232d74178716079f] Those persons are not, as a result of providing those services, to be treated as themselves directly and actively engaged in those activities.
 
 ## Annotations
 
-[^key-6676a1a3751c1e4d2cd88e9c4faf726c]: Modification: S. 1124 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/b) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-6676a1a3751c1e4d2cd88e9c4faf726c]: Modification: S. 1124 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/b) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
 
-[^key-f4e69e41fac744d8232d74178716079f]: Modification: S. 1124(5)(6) applied by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BJB(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BJB/7) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-f4e69e41fac744d8232d74178716079f]: Modification: S. 1124(5)(6) applied by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BJB(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BJB/7) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))

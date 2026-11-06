@@ -316,7 +316,7 @@ Section 105(4).
 
 .
 
-(12)[^key-f8654557e6d0da54e43b6dda7ce7b605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-f8654557e6d0da54e43b6dda7ce7b605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In section 29 (power of local authority to defray expenses of parents etc. visiting persons accommodated by a local authority or attending certain funerals)—
 
@@ -333,8 +333,8 @@ Section 105(4).
     ;
   - (ii) after the words “visiting the person” insert “ or child ”; and
   - (iii) for the words “the person”, where they occur for the second time, substitute “ him ”;
-- (b)[^key-46fd053a9718fa44a20798a3ebbf65d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-46fd053a9718fa44a20798a3ebbf65d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-46fd053a9718fa44a20798a3ebbf65d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-46fd053a9718fa44a20798a3ebbf65d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) Part III (children in need of compulsory measures of care) shall cease to have effect, with the exception of subsections (1) and (3) of section 31 and the amendments provided for by the said subsection (3) and contained in Schedule 2 to that Act.
 
@@ -543,9 +543,9 @@ Section 105(4).
 
 **23.**[^c13128411] (1) The Rehabilitation of Offenders Act 1974 shall be amended in accordance with this paragraph.
 
-(2)[^key-84e67141f330cf250d80897450360714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-84e67141f330cf250d80897450360714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-84e67141f330cf250d80897450360714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-84e67141f330cf250d80897450360714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 7(2) (limitations on rehabilitation)—
 
@@ -1254,9 +1254,9 @@ Section 105(4).
 
 [^c13128371]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-f8654557e6d0da54e43b6dda7ce7b605]: Textual amendment: [Sch. 4 para. 15(12)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/15/12) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-f8654557e6d0da54e43b6dda7ce7b605]: Textual amendment: [Sch. 4 para. 15(12)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/15/12) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
-[^key-46fd053a9718fa44a20798a3ebbf65d6]: Textual amendment: [Sch. 4 para. 15(13)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/15/13/b)[(c)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/15/13/c) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-46fd053a9718fa44a20798a3ebbf65d6]: Textual amendment: [Sch. 4 para. 15(13)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/15/13/b)[(c)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/15/13/c) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
 [^c13128381]: Textual amendment: Sch. 4 para. 15(16) repealed (1.4.2002) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [s. 80(1)](https://www.legislation.gov.uk/asp/2001/8/section/80/1), [Sch. 4](https://www.legislation.gov.uk/asp/2001/8/schedule/4); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2](https://www.legislation.gov.uk/ssi/2002/162/article/2) (g)(i) (subject to arts. 3-13)
 
@@ -1268,7 +1268,7 @@ Section 105(4).
 
 [^c13128411]: Commencement: Sch. 4 para. 23 wholly in force at 1.4.1997; Sch. 4 para. 23 not in force at Royal Assent see s. 105(1); Sch. 4 para. 23(1)(4)(c) in force and Sch. 4 para. 23(4)(a) in force for certain purposes at 1.11.1996 by [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) (with [arts. 4-7](https://www.legislation.gov.uk/uksi/1996/2203/article/4)) (as amended (19.1.1997) by [S.I. 1997/137](https://www.legislation.gov.uk/uksi/1997/137), [art. 2](https://www.legislation.gov.uk/uksi/1997/137/article/2)); Sch. 4 para. 23 in force at 1.4.1997 insofar as not already in force by [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/1996/3201/article/4)) (as amended (7.3.1997) by [S.I. 1997/744](https://www.legislation.gov.uk/uksi/1997/744), [arts. 2](https://www.legislation.gov.uk/uksi/1997/744/article/2), [3](https://www.legislation.gov.uk/uksi/1997/744/article/3))
 
-[^key-84e67141f330cf250d80897450360714]: Textual amendment: [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/23/2) [(3)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/23/3) repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-84e67141f330cf250d80897450360714]: Textual amendment: [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/23/2) [(3)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/23/3) repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
 [^c13128481]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/24) repealed (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 6](https://www.legislation.gov.uk/ukpga/1995/40/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/40/schedule/5) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/3), [16](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/17))
 

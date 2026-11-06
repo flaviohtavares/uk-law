@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116B. Extended collective licensing[^key-c2d26f0bd580c54199e0b317d11eab4b]
+## 116B. Extended collective licensing[^c-c2d26f0bd580c54199e0b317d11eab4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2d26f0bd580c54199e0b317d11eab4b]: Textual amendment: Ss. 116A-116D and cross-heading inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 77(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/77/3), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
+[^c-c2d26f0bd580c54199e0b317d11eab4b]: Textual amendment: Ss. 116A-116D and cross-heading inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 77(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/77/3), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)

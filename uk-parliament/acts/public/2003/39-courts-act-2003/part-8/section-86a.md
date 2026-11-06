@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Requirement to give information in criminal proceedings[^key-07628f111b2fd6627146e3bcf7ed4bc4]
+## 86A. Requirement to give information in criminal proceedings[^c-07628f111b2fd6627146e3bcf7ed4bc4]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07628f111b2fd6627146e3bcf7ed4bc4]: Textual amendment: S. 86A inserted (31.1.2017 for specified purposes, 13.11.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 162](https://www.legislation.gov.uk/ukpga/2017/3/section/162), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1017/regulation/2)
+[^c-07628f111b2fd6627146e3bcf7ed4bc4]: Textual amendment: S. 86A inserted (31.1.2017 for specified purposes, 13.11.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 162](https://www.legislation.gov.uk/ukpga/2017/3/section/162), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1017/regulation/2)

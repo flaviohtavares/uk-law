@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Meaning of “effective date” of a transaction[^key-b1d7bd297e6edf7023de3df63c1d727e]
+## 63. Meaning of “effective date” of a transaction[^c-b1d7bd297e6edf7023de3df63c1d727e]
 
 *Extent: S*
 
@@ -27,13 +27,13 @@ summary: ''
 
 (2) Other provision as to the effective date of certain land transactions is made by—
 
-- (a) section 10(2) (substantial performance of contract without completion[^key-06311aeef666375ed576ec64fce28b3f]),
+- (a) section 10(2) (substantial performance of contract without completion[^c-06311aeef666375ed576ec64fce28b3f]),
 - (b) section 11(4) (substantial performance of contract requiring conveyance to third party),
 - (c) section 12(4) (options and rights of pre-emption), and
 - (d) paragraph 25(2) of schedule 19 (agreement for lease substantially performed etc.).
 
 ## Annotations
 
-[^key-b1d7bd297e6edf7023de3df63c1d727e]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2013/11/section/63) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-b1d7bd297e6edf7023de3df63c1d727e]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2013/11/section/63) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-06311aeef666375ed576ec64fce28b3f]: Textual amendment: Word in [s. 63(2)(a)](https://www.legislation.gov.uk/asp/2013/11/section/63/2/a) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(15)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/15) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-06311aeef666375ed576ec64fce28b3f]: Textual amendment: Word in [s. 63(2)(a)](https://www.legislation.gov.uk/asp/2013/11/section/63/2/a) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(15)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/15) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 392. Interpretation of Chapter[^key-6da59cadbd0027a3f2bd20dcd6513d07]
+## 392. Interpretation of Chapter[^c-6da59cadbd0027a3f2bd20dcd6513d07]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6da59cadbd0027a3f2bd20dcd6513d07]: Commencement: S. 392 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6da59cadbd0027a3f2bd20dcd6513d07]: Commencement: S. 392 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

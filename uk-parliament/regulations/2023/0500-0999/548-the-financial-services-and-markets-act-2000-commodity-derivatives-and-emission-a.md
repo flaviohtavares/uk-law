@@ -44,7 +44,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 A draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament in accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdrawal) Act 2018[^f00002].
 
-## 1. Citation, commencement and extent[^key-d8fdbbbe764f7a5dd7d8c18f5c660024]
+## 1. Citation, commencement and extent[^c-d8fdbbbe764f7a5dd7d8c18f5c660024]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023.
 
@@ -52,19 +52,19 @@ A draft of this Order was laid before Parliament and approved by a resolution of
 
 (3) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-d5b57c6f25c7878af5f77a1b4e1375ad]
+## 2. Amendment of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-d5b57c6f25c7878af5f77a1b4e1375ad]
 
 (1) The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00003] is amended as follows.
 
-(2)[^key-5a5548f374916e414e3d865e824ab8f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5a5548f374916e414e3d865e824ab8f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5a5548f374916e414e3d865e824ab8f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5a5548f374916e414e3d865e824ab8f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5a5548f374916e414e3d865e824ab8f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5a5548f374916e414e3d865e824ab8f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph 2(c) of Part 1 of Schedule 3 (exemptions from the definition of “investment firm”), for the words from the beginning to “the FCA” in the second place it occurs, substitute “P reports to the FCA under regulation 47 of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017”.
 
-## 3. Amendment of the Financial Service and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^key-ee4a37abf647a3c9370cc2d6220377d9]
+## 3. Amendment of the Financial Service and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^c-ee4a37abf647a3c9370cc2d6220377d9]
 
 (1) The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^f00004] are amended as follows.
 
@@ -107,14 +107,14 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 13(1) was amended by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), Schedule 5, paragraph 54.
 
-[^key-d8fdbbbe764f7a5dd7d8c18f5c660024]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/548/article/1) in force at 1.1.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2)
+[^c-d8fdbbbe764f7a5dd7d8c18f5c660024]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/548/article/1) in force at 1.1.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2)
 
-[^key-d5b57c6f25c7878af5f77a1b4e1375ad]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/548/article/2) in force at 1.1.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2)
+[^c-d5b57c6f25c7878af5f77a1b4e1375ad]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/548/article/2) in force at 1.1.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Amended by [S.I. 2017/1255](https://www.legislation.gov.uk/uksi/2017/1255), [2018/1403](https://www.legislation.gov.uk/uksi/2018/1403), [2019/632](https://www.legislation.gov.uk/uksi/2019/632). There are other amendments which are not relevant.
 
-[^key-5a5548f374916e414e3d865e824ab8f9]: Textual amendment: [Art. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2023/548/article/2/2) omitted (31.12.2024) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) (Amendment) Order 2024 (S.I. 2024/719)](https://www.legislation.gov.uk/uksi/2024/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/719/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/719/article/2)
+[^c-5a5548f374916e414e3d865e824ab8f9]: Textual amendment: [Art. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2023/548/article/2/2) omitted (31.12.2024) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) (Amendment) Order 2024 (S.I. 2024/719)](https://www.legislation.gov.uk/uksi/2024/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/719/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/719/article/2)
 
-[^key-ee4a37abf647a3c9370cc2d6220377d9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/548/article/3) in force at 1.1.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2)
+[^c-ee4a37abf647a3c9370cc2d6220377d9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/548/article/3) in force at 1.1.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701). Amended by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403). There are other amendments which are not relevant.

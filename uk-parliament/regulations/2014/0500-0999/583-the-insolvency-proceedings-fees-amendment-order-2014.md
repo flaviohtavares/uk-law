@@ -34,7 +34,7 @@ Insolvency, England And Wales
 
 Fees
 
-The Insolvency Proceedings (Fees) (Amendment) Order 2014 (revoked)[^key-87992f520b44173167dc1e34b1224d47]
+The Insolvency Proceedings (Fees) (Amendment) Order 2014 (revoked)[^c-87992f520b44173167dc1e34b1224d47]
 
 Made
 
@@ -48,30 +48,30 @@ Coming into force
 
 6th April 2014
 
-[^key-87992f520b44173167dc1e34b1224d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87992f520b44173167dc1e34b1224d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-87992f520b44173167dc1e34b1224d47]
+## 1. Citation and commencement[^c-87992f520b44173167dc1e34b1224d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Insolvency Proceedings (Fees) Order 2004[^key-87992f520b44173167dc1e34b1224d47]
+## 2. Amendments to the Insolvency Proceedings (Fees) Order 2004[^c-87992f520b44173167dc1e34b1224d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-87992f520b44173167dc1e34b1224d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-87992f520b44173167dc1e34b1224d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional Provision[^key-87992f520b44173167dc1e34b1224d47]
+## 4. Transitional Provision[^c-87992f520b44173167dc1e34b1224d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-87992f520b44173167dc1e34b1224d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87992f520b44173167dc1e34b1224d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-87992f520b44173167dc1e34b1224d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87992f520b44173167dc1e34b1224d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-87992f520b44173167dc1e34b1224d47]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/583) revoked (21.7.2016) by [The Insolvency Proceedings (Fees) Order 2016 (S.I. 2016/692)](https://www.legislation.gov.uk/uksi/2016/692), [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/692/schedule/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/692/article/7))
+[^c-87992f520b44173167dc1e34b1224d47]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/583) revoked (21.7.2016) by [The Insolvency Proceedings (Fees) Order 2016 (S.I. 2016/692)](https://www.legislation.gov.uk/uksi/2016/692), [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/692/schedule/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/692/article/7))

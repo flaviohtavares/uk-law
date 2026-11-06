@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Offences[^key-3f1da41258e2b7dd167b7d9eac550f1e]
+## 59. Offences[^c-3f1da41258e2b7dd167b7d9eac550f1e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f1da41258e2b7dd167b7d9eac550f1e]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2013/2605/article/59) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-3f1da41258e2b7dd167b7d9eac550f1e]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2013/2605/article/59) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

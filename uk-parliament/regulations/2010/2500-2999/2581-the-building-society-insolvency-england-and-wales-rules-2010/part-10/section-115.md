@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Application of rules in this Part[^key-bf695ccd3999c31e5e5a7e5f853efd71]
+## 115. Application of rules in this Part[^c-bf695ccd3999c31e5e5a7e5f853efd71]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The rules in this Part apply only in relation to the liquidation committee estab
 
 ## Annotations
 
-[^key-bf695ccd3999c31e5e5a7e5f853efd71]: Commencement: Rule 115 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bf695ccd3999c31e5e5a7e5f853efd71]: Commencement: Rule 115 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

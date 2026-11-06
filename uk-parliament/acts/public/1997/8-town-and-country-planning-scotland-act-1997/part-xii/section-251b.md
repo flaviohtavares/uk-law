@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 251B. National planning improvement co-ordinator[^key-b9da95e230dbe0fa3aa2d48fc1cb5c14]
+## 251B. National planning improvement co-ordinator[^c-b9da95e230dbe0fa3aa2d48fc1cb5c14]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9da95e230dbe0fa3aa2d48fc1cb5c14]: Textual amendment: S. 251B and cross-heading inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 47(2)](https://www.legislation.gov.uk/asp/2019/13/section/47/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)
+[^c-b9da95e230dbe0fa3aa2d48fc1cb5c14]: Textual amendment: S. 251B and cross-heading inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 47(2)](https://www.legislation.gov.uk/asp/2019/13/section/47/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)

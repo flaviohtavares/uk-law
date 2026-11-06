@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Stopping up of streets[^key-dc3177167f853c663a7fc8f6887aab0b]
+## 9. Stopping up of streets[^c-dc3177167f853c663a7fc8f6887aab0b]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc3177167f853c663a7fc8f6887aab0b]: Commencement: Art. 9 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-dc3177167f853c663a7fc8f6887aab0b]: Commencement: Art. 9 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

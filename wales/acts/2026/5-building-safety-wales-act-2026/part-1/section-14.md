@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Other definitions[^key-05154bfb14be745f583fece706116ece]
+## 14. Other definitions[^c-05154bfb14be745f583fece706116ece]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05154bfb14be745f583fece706116ece]: Commencement: S. 14 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)
+[^c-05154bfb14be745f583fece706116ece]: Commencement: S. 14 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)

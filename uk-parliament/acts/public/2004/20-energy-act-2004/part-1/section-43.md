@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Undertakings given by the Secretary of State[^key-db41bee34fbfcd9589b3962b0fc9d037]
+## 43. Undertakings given by the Secretary of State[^c-db41bee34fbfcd9589b3962b0fc9d037]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db41bee34fbfcd9589b3962b0fc9d037]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2004/20/section/43) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-db41bee34fbfcd9589b3962b0fc9d037]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2004/20/section/43) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

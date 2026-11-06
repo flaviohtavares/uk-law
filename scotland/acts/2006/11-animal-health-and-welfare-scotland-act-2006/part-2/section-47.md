@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Exclusions[^key-2e21cdc461250f23f391d47fb6502a46]
+## 47. Exclusions[^c-2e21cdc461250f23f391d47fb6502a46]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ This Part does not apply—
 
 ## Annotations
 
-[^key-2e21cdc461250f23f391d47fb6502a46]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2006/11/section/47) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-2e21cdc461250f23f391d47fb6502a46]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2006/11/section/47) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

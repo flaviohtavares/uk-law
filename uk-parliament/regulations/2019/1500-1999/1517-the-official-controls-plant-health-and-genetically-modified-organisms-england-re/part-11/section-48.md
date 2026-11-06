@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Penalties[^key-d9936cd07944c72c36170b54b9a697ab]
+## 48. Penalties[^c-d9936cd07944c72c36170b54b9a697ab]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9936cd07944c72c36170b54b9a697ab]: Commencement: Reg. 48 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-d9936cd07944c72c36170b54b9a697ab]: Commencement: Reg. 48 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)

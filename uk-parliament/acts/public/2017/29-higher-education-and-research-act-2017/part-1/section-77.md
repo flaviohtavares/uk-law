@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Secretary of State's power to give directions[^key-f15756216e5b7798d86be6bbbec44288]
+## 77. Secretary of State's power to give directions[^c-f15756216e5b7798d86be6bbbec44288]
 
 *Extent: E+W*
 
 (1) The Secretary of State may by regulations give the OfS general directions about the performance of any of its functions.
 
-(2) In giving such directions, the Secretary of State must have regard to the need to protect the institutional autonomy of English higher education providers and the academic freedom of academic staff at such providers[^key-9817135468801e835dfc9a2bc5f101da].
+(2) In giving such directions, the Secretary of State must have regard to the need to protect the institutional autonomy of English higher education providers and the academic freedom of academic staff at such providers[^c-9817135468801e835dfc9a2bc5f101da].
 
 (3) The directions may, in particular, be framed by reference to particular courses of study but, whether or not the directions are framed in that way, they must not relate to—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f15756216e5b7798d86be6bbbec44288]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2017/29/section/77) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/k)
+[^c-f15756216e5b7798d86be6bbbec44288]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2017/29/section/77) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/k)
 
-[^key-9817135468801e835dfc9a2bc5f101da]: Textual amendment: Words in [s. 77(2)](https://www.legislation.gov.uk/ukpga/2017/29/section/77/2) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/10); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(viii)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/viii)
+[^c-9817135468801e835dfc9a2bc5f101da]: Textual amendment: Words in [s. 77(2)](https://www.legislation.gov.uk/ukpga/2017/29/section/77/2) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/10); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(viii)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/viii)

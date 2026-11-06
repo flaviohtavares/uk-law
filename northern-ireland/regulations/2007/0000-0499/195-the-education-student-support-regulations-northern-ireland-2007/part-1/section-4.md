@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Revocation, savings and transitional provisions[^key-2175170d7339e560238a449c2251aac5]
+## 4. Revocation, savings and transitional provisions[^c-2175170d7339e560238a449c2251aac5]
 
 *Extent: N.I.*
 
@@ -45,7 +45,7 @@ he is an old system student for the purposes of Parts 4 and 5 in connection with
 
 ## Annotations
 
-[^key-2175170d7339e560238a449c2251aac5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/195/regulation/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-2175170d7339e560238a449c2251aac5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/195/regulation/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00033]: Footnote: [S.R. 2006 No. 312](https://www.legislation.gov.uk/nisr/2006/312)
 

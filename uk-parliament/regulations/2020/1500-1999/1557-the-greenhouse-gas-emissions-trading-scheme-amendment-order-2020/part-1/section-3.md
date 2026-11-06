@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Extent[^key-c0b00e60c4ace6b29d6d7fda3d278929]
+## 3. Extent[^c-c0b00e60c4ace6b29d6d7fda3d278929]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order extends to the whole of the United Kingdom.
 
 ## Annotations
 
-[^key-c0b00e60c4ace6b29d6d7fda3d278929]: Commencement: Art. 3 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-c0b00e60c4ace6b29d6d7fda3d278929]: Commencement: Art. 3 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.12. Reporting by the housing administrator[^key-3814a9a0ff523ce778af04c0537f7599]
+## 3.12. Reporting by the housing administrator[^c-3814a9a0ff523ce778af04c0537f7599]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The housing administrator must prepare and deliver reports in accordance with th
 
 ## Annotations
 
-[^key-3814a9a0ff523ce778af04c0537f7599]: Commencement: Rule 3.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-3814a9a0ff523ce778af04c0537f7599]: Commencement: Rule 3.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

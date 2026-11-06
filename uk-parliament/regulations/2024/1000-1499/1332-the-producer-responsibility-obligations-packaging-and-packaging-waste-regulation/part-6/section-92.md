@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Prohibition on issuing PRNs and PERNs unless accredited[^key-5cfe4c8cff1fdfceff62f3f86687a097]
+## 92. Prohibition on issuing PRNs and PERNs unless accredited[^c-5cfe4c8cff1fdfceff62f3f86687a097]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cfe4c8cff1fdfceff62f3f86687a097]: Commencement: Reg. 92 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-5cfe4c8cff1fdfceff62f3f86687a097]: Commencement: Reg. 92 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

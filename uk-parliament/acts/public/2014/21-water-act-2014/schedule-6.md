@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Procedure on appeals under section 207A of the Water Industry Act 1991[^key-ab7d75914654b278f2923fcafd7d8726]
+## SCHEDULE 6 — Procedure on appeals under section 207A of the Water Industry Act 1991[^c-ab7d75914654b278f2923fcafd7d8726]
 
 *Extent: E+W*
 
@@ -124,4 +124,4 @@ Section 37
 
 ## Annotations
 
-[^key-ab7d75914654b278f2923fcafd7d8726]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/6) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(l)](https://www.legislation.gov.uk/uksi/2016/465/article/2/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-ab7d75914654b278f2923fcafd7d8726]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/6) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(l)](https://www.legislation.gov.uk/uksi/2016/465/article/2/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))

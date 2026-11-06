@@ -26,7 +26,7 @@ Regulations 23, 50, 52 and 54
 
 ### Preliminary
 
-**1.**[^key-46768078323bc2b6e0595f48d4db681f] (1) In these Regulations–
+**1.**[^c-46768078323bc2b6e0595f48d4db681f] (1) In these Regulations–
 
 - “Class A member” is a member who–
   - (a) became a member on or after 1st June 1989 and is not to be treated as a Class B member or Class C member by virtue of a Revenue agreement; or
@@ -93,7 +93,7 @@ Regulations 23, 50, 52 and 54
 
 ### Class A members
 
-**2.**[^key-5aa7a32310b42ba7728eb468aa86100e] (1) This paragraph sets out limits on benefits in respect of local government employment payable to or in respect of a Class A member under these Regulations.
+**2.**[^c-5aa7a32310b42ba7728eb468aa86100e] (1) This paragraph sets out limits on benefits in respect of local government employment payable to or in respect of a Class A member under these Regulations.
 
 (2) Subject to sub-paragraph (3), the aggregate pension payable on retirement must not exceed the lesser of–
 
@@ -144,9 +144,9 @@ Regulations 23, 50, 52 and 54
 
 ### Class B members and Class C members
 
-**3.**[^key-07b8a51142096e8b657caa1aa5d3c554] Paragraphs 4 to 6 set out limits on benefits in respect of local government employment payable to or in respect of a Class B member or Class C member under these Regulations and paragraph 7 limits additional contributions in some circumstances.
+**3.**[^c-07b8a51142096e8b657caa1aa5d3c554] Paragraphs 4 to 6 set out limits on benefits in respect of local government employment payable to or in respect of a Class B member or Class C member under these Regulations and paragraph 7 limits additional contributions in some circumstances.
 
-**4.**[^key-eed81f99a2cb76fe02a834bc8768db2c] (1) Subject to sub-paragraph (2), the aggregate pensions payable on retirement at NRD must not exceed the lesser of–
+**4.**[^c-eed81f99a2cb76fe02a834bc8768db2c] (1) Subject to sub-paragraph (2), the aggregate pensions payable on retirement at NRD must not exceed the lesser of–
 
 - (a) for Class B members, one thirtieth of the member’s final remuneration multiplied by his years of service, or 20 years if less;
 - (b) for Class C members with less than 10 years service, the member’s final remuneration multiplied by the fraction specified below–
@@ -208,7 +208,7 @@ but must not exceed 45 years.
 - (a) on the death of an active member or deferred member the amount payable under sub-paragraph (3); and
 - (b) on the death of a pensioner member, the amount payable under sub-paragraph (1), (2), (3), (4) or (5).
 
-**5.**[^key-3fd33778ab6d45f6d07fbc7fef59e41b] (1) Subject to sub-paragraph (3), the aggregate benefit payable by way of a retirement grant for a Class B member on retirement at or before NRD must not exceed the lesser of–
+**5.**[^c-3fd33778ab6d45f6d07fbc7fef59e41b] (1) Subject to sub-paragraph (3), the aggregate benefit payable by way of a retirement grant for a Class B member on retirement at or before NRD must not exceed the lesser of–
 
 - (a) three times the initial pension paid to the member under Part II and Part III, excluding Chapter IV of Part III; and
 - (b) one and a half times the member’s final remuneration less the value of any retained benefits in lump sum form.
@@ -261,17 +261,17 @@ but must not exceed 45 years.
 
 (8) The benefits payable by way of lump sum on the death of an active or deferred member must not exceed four times his final remuneration (ascertained disregarding paragraphs 1(7)(d) and (e) and (6)) less any lump sum death in service retained benefits (other than a refund of the member’s contributions and any interest on such contributions or, if greater, £5,000.
 
-**6.**[^key-b52b59ba80599bd5d2178ee4b1fd5d76] (1) The years of service taken into account under paragraphs 4(1), (3), 4(7)(a) and 5(7)(a) must not exceed 40 years.
+**6.**[^c-b52b59ba80599bd5d2178ee4b1fd5d76] (1) The years of service taken into account under paragraphs 4(1), (3), 4(7)(a) and 5(7)(a) must not exceed 40 years.
 
 (2) Without prejudice to Schedule 3, a credited period which is counted as a period of membership under regulation 122(1) does not count in calculating years of service for sub-paragraph (1) or paragraph 4 or 5.
 
-**7.**[^key-bcf58cefd40b860609f2c48b20f0b52f] (1) If adding the additional contributions payable by a Class B member or a Class C member under an agreement made by him before the commencement date (other than AVCs payable under Schedule 7A to the 1987 Regulations) to those payable by him under these Regulations and any FSAVC scheme would cause the total of those contributions to exceed 15 per cent. of his remuneration, he may not pay that excess, but he may pay a lump sum representing it to the Scheme at a time permitted by the Retirement Benefits Schemes (Continuation of Rights of Members of Approved Schemes) Regulations 1990.
+**7.**[^c-bcf58cefd40b860609f2c48b20f0b52f] (1) If adding the additional contributions payable by a Class B member or a Class C member under an agreement made by him before the commencement date (other than AVCs payable under Schedule 7A to the 1987 Regulations) to those payable by him under these Regulations and any FSAVC scheme would cause the total of those contributions to exceed 15 per cent. of his remuneration, he may not pay that excess, but he may pay a lump sum representing it to the Scheme at a time permitted by the Retirement Benefits Schemes (Continuation of Rights of Members of Approved Schemes) Regulations 1990.
 
 (2) That lump sum must be calculated in a way approved by the Government Actuary, who may issue guidance indicating how it is to be done.
 
 ### Maximum additions under regulations 52 and 54
 
-**8.**[^key-e238cb7037ddff2a98d7990663240124] (1) The maximum addition under regulation 52 or 54 is–
+**8.**[^c-e238cb7037ddff2a98d7990663240124] (1) The maximum addition under regulation 52 or 54 is–
 
 - (a) the period (if any) by which the person’s potential period of membership falls short of 40 years; or
 - (b) his potential period of membership,
@@ -317,7 +317,7 @@ the period of 40 years mentioned in sub-paragraph (1) must be reduced by the app
 
 ### Controlling directors
 
-**9.**[^key-5d51a0bdfbaf9f28df4031b2a8b32cfe] (1) This paragraph applies to any member who is a controlling director, as defined in paragraph 5(5) of Schedule 23 to the Taxes Act.
+**9.**[^c-5d51a0bdfbaf9f28df4031b2a8b32cfe] (1) This paragraph applies to any member who is a controlling director, as defined in paragraph 5(5) of Schedule 23 to the Taxes Act.
 
 (2) Regulation 21(1)(a) does not apply to a controlling director.
 
@@ -336,30 +336,30 @@ so far as it provides benefits secured by contributions in respect of his servic
 
 ### Overriding provisions
 
-**10.**[^key-61a4cee5dc27af8a66407a9f00b93066] Where, by virtue of the Taxes Act or any later enactment, schemes which were approved schemes before a certain date have effect as if their rules restricted the total benefits payable under them, the rules of the Scheme have effect subject to those restrictions, notwithstanding any amendments of them by virtue of these or any earlier regulations after the date of that Act or enactment, and in so far as those restrictions would permit those total benefits to be greater than is otherwise permitted under the Scheme, those restrictions shall prevail.
+**10.**[^c-61a4cee5dc27af8a66407a9f00b93066] Where, by virtue of the Taxes Act or any later enactment, schemes which were approved schemes before a certain date have effect as if their rules restricted the total benefits payable under them, the rules of the Scheme have effect subject to those restrictions, notwithstanding any amendments of them by virtue of these or any earlier regulations after the date of that Act or enactment, and in so far as those restrictions would permit those total benefits to be greater than is otherwise permitted under the Scheme, those restrictions shall prevail.
 
 ## Annotations
 
-[^key-46768078323bc2b6e0595f48d4db681f]: Commencement: Sch. 4 para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-46768078323bc2b6e0595f48d4db681f]: Commencement: Sch. 4 para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00095]: Footnote: S.I. [1990/2101](https://www.legislation.gov.uk/uksi/1990/2101), amended by S.I. [1993/3220](https://www.legislation.gov.uk/uksi/1993/3220) and [1996/3114](https://www.legislation.gov.uk/uksi/1996/3114).
 
-[^key-5aa7a32310b42ba7728eb468aa86100e]: Commencement: Sch. 4 para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-5aa7a32310b42ba7728eb468aa86100e]: Commencement: Sch. 4 para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-07b8a51142096e8b657caa1aa5d3c554]: Commencement: Sch. 4 para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-07b8a51142096e8b657caa1aa5d3c554]: Commencement: Sch. 4 para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-eed81f99a2cb76fe02a834bc8768db2c]: Commencement: Sch. 4 para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-eed81f99a2cb76fe02a834bc8768db2c]: Commencement: Sch. 4 para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-3fd33778ab6d45f6d07fbc7fef59e41b]: Commencement: Sch. 4 para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3fd33778ab6d45f6d07fbc7fef59e41b]: Commencement: Sch. 4 para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-b52b59ba80599bd5d2178ee4b1fd5d76]: Commencement: Sch. 4 para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-b52b59ba80599bd5d2178ee4b1fd5d76]: Commencement: Sch. 4 para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-bcf58cefd40b860609f2c48b20f0b52f]: Commencement: Sch. 4 para. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-bcf58cefd40b860609f2c48b20f0b52f]: Commencement: Sch. 4 para. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-e238cb7037ddff2a98d7990663240124]: Commencement: Sch. 4 para. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-e238cb7037ddff2a98d7990663240124]: Commencement: Sch. 4 para. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00096]: Footnote: S.I. [1993/3016](https://www.legislation.gov.uk/uksi/1993/3016).
 
-[^key-5d51a0bdfbaf9f28df4031b2a8b32cfe]: Commencement: Sch. 4 para. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-5d51a0bdfbaf9f28df4031b2a8b32cfe]: Commencement: Sch. 4 para. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-61a4cee5dc27af8a66407a9f00b93066]: Commencement: Sch. 4 para. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-61a4cee5dc27af8a66407a9f00b93066]: Commencement: Sch. 4 para. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Review of decisions[^key-2d0e39c6ce20a7c2e2347fff59b2c0db]
+## 8. Review of decisions[^c-2d0e39c6ce20a7c2e2347fff59b2c0db]
 
 *Extent: E+W+S+N.I.*
 
-(1) All decisions taken pursuant to the Type Approval Regulation or the EU Type Approval Regulation[^key-f44a9c4e443c6c67d21f962a0a38179c] and all decisions refusing or withdrawing type approval, refusing registration, prohibiting or restricting the placing on the market, registration or entry into service of a vehicle or requiring withdrawal of a vehicle from the market must be given by notice in writing (“a relevant notice”) and state—
+(1) All decisions taken pursuant to the Type Approval Regulation or the EU Type Approval Regulation[^c-f44a9c4e443c6c67d21f962a0a38179c] and all decisions refusing or withdrawing type approval, refusing registration, prohibiting or restricting the placing on the market, registration or entry into service of a vehicle or requiring withdrawal of a vehicle from the market must be given by notice in writing (“a relevant notice”) and state—
 
 - (a) in detail the reasons on which they are based,
-- (b)[^key-2de6b590c8800cd5cfb88d448ad98601] the remedies available to the party concerned—
+- (b)[^c-2de6b590c8800cd5cfb88d448ad98601] the remedies available to the party concerned—
   - (i) where the application is made in respect of Great Britain, under the laws in force in Great Britain;
   - (ii) where the application is made in respect of Northern Ireland, under the laws in force in Northern Ireland, and
 - (c) the time limits allowed for the exercise of such remedies.
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2d0e39c6ce20a7c2e2347fff59b2c0db]: Commencement: Reg. 8 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-2d0e39c6ce20a7c2e2347fff59b2c0db]: Commencement: Reg. 8 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-f44a9c4e443c6c67d21f962a0a38179c]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2020/818/regulation/8/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [13(8)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/13/8/a)
+[^c-f44a9c4e443c6c67d21f962a0a38179c]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2020/818/regulation/8/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [13(8)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/13/8/a)
 
-[^key-2de6b590c8800cd5cfb88d448ad98601]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/8/1/b) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [13(8)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/13/8/b)
+[^c-2de6b590c8800cd5cfb88d448ad98601]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/8/1/b) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [13(8)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/13/8/b)

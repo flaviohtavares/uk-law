@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Further provision about search warrants[^key-04289a32269a21df952b134d2c2706c4]
+## 40. Further provision about search warrants[^c-04289a32269a21df952b134d2c2706c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ But the person may exercise such a power only in the company of, and under the s
 
 ## Annotations
 
-[^key-04289a32269a21df952b134d2c2706c4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/2/section/40) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-04289a32269a21df952b134d2c2706c4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/2/section/40) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

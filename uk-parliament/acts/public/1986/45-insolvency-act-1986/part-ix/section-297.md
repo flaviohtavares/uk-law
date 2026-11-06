@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297. Special cases.[^key-fa983d1191921d72c82d1aa670fc8bc6]
+## 297. Special cases.[^c-fa983d1191921d72c82d1aa670fc8bc6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa983d1191921d72c82d1aa670fc8bc6]: Textual amendment: S. 297 omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/8); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
+[^c-fa983d1191921d72c82d1aa670fc8bc6]: Textual amendment: S. 297 omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/8); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)

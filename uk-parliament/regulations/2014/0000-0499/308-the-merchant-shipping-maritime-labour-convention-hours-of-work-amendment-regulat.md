@@ -48,13 +48,13 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 85(1)(a) and (b), (3), (5) and (7) and 86(1) of the Merchant Shipping Act 1995 [^c22013891] and section 2(2) of the European Communities Act 1972.
 
-In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.[^key-338f407639e371a77710f911385d2f30]
+In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.[^c-338f407639e371a77710f911385d2f30]
 
-## 1. Citation and commencement[^key-338f407639e371a77710f911385d2f30]
+## 1. Citation and commencement[^c-338f407639e371a77710f911385d2f30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Hours of Work) Regulations 2002[^key-338f407639e371a77710f911385d2f30]
+## 2. Amendment of the Merchant Shipping (Hours of Work) Regulations 2002[^c-338f407639e371a77710f911385d2f30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -210,7 +210,7 @@ Two full impact assessments of the effect that this instrument will have on the 
 
 [^c22013891]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by section 8 of the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28) and are applied to hovercraft by article 4 of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350) (sections 85 and 86 re-enact sections 21 and 22 of the [Merchant Shipping Act 1979 (c.39)](https://www.legislation.gov.uk/ukpga/1979/39) which are referred to in that article). Section 85 was amended by Part 1 of Schedule 7 to the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28) and section 2 of the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8). There are other amendments to sections 85 and 86 which are not relevant.
 
-[^key-338f407639e371a77710f911385d2f30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/308) revoked in part, except for regulation 3 and the Schedule (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 30(c)](https://www.legislation.gov.uk/uksi/2018/58/regulation/30/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+[^c-338f407639e371a77710f911385d2f30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/308) revoked in part, except for regulation 3 and the Schedule (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 30(c)](https://www.legislation.gov.uk/uksi/2018/58/regulation/30/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
 
 [^c22014111]: Marginal citation: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17). Sections 18 and 21 were amended by section 1 of the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8). Section 18 was also amended by section 5 of the [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24) and section 21 by [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833). Extensive amendments to section 18 were made by Schedule 1 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) but these are not yet in force or not yet in force for relevant purposes. There are other amendments to sections 18 and 21 which are not relevant to these Regulations.
 

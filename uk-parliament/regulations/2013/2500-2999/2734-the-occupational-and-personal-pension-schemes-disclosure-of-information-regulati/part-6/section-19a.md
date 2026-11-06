@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19A. Retirement risk warnings[^key-e23b1b7e89d8e1a0a1c521486e80e233]
+## 19A. Retirement risk warnings[^c-e23b1b7e89d8e1a0a1c521486e80e233]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e23b1b7e89d8e1a0a1c521486e80e233]: Textual amendment: Reg. 19A inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/294)](https://www.legislation.gov.uk/uksi/2016/294), [regs. 1](https://www.legislation.gov.uk/uksi/2016/294/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/294/regulation/9)
+[^c-e23b1b7e89d8e1a0a1c521486e80e233]: Textual amendment: Reg. 19A inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/294)](https://www.legislation.gov.uk/uksi/2016/294), [regs. 1](https://www.legislation.gov.uk/uksi/2016/294/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/294/regulation/9)

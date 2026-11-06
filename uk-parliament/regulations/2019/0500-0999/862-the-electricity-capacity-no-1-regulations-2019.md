@@ -49,13 +49,13 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-33ef8c622460198b2b872e3d94153d79]
+### 1. Citation and commencement[^c-33ef8c622460198b2b872e3d94153d79]
 
 (1) These Regulations may be cited as the Electricity Capacity (No. 1) Regulations 2019.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-### 2. Interpretation[^key-8b0fba510b85765b0123d992f4d2ae97]
+### 2. Interpretation[^c-8b0fba510b85765b0123d992f4d2ae97]
 
 (1) Subject to paragraph (2), in these Regulations—
 
@@ -83,15 +83,15 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
   - (b) any month included (wholly or partly) in the standstill period; and
   - (c) the month after the last month included (wholly or partly) in the standstill period;
 - “**standstill period**” has the meaning given in regulation 3;
-- “subsequent capacity auctions” means—[^key-6c1d832416722b673fd1bf62a55c3479]
+- “subsequent capacity auctions” means—[^c-6c1d832416722b673fd1bf62a55c3479]
   - (a) the T-1 auction for the delivery year commencing on 1st October 2020;
   - (b) the T-3 auction; and
   - (c) the T-4 auction for the delivery year commencing on 1st October 2023;
 - “**Supplier Payment Regulations**” means the Electricity Capacity (Supplier Payment etc.) Regulations 2014 [^c23716391];
 - “**T-1 termination trigger event**” means a notification by the Secretary of State under regulation 6(1)(b) or 6(2)(b) in respect of conditional capacity agreements, and occurs on the date on which the notification is given;
-- “**T-1 auction**” has the meaning given in regulation 2(1) of the Principal Regulations; [^key-e9cf9859dfde6b60144208acb2629e86]...
-- “**T-1 capacity agreement trigger event**” means a notification by the Secretary of State under regulation 5(1), and occurs on the date on which the notification is given ; and[^key-28b259e921d9e7260c91a849d3b1f5ce]
-- “T-3 auction” has the meaning given in regulation 2(1) of the Principal Regulations; and[^key-8efd8010ae7a4498cc673c147e853a03]
+- “**T-1 auction**” has the meaning given in regulation 2(1) of the Principal Regulations; [^c-e9cf9859dfde6b60144208acb2629e86]...
+- “**T-1 capacity agreement trigger event**” means a notification by the Secretary of State under regulation 5(1), and occurs on the date on which the notification is given ; and[^c-28b259e921d9e7260c91a849d3b1f5ce]
+- “T-3 auction” has the meaning given in regulation 2(1) of the Principal Regulations; and[^c-8efd8010ae7a4498cc673c147e853a03]
 - “T-4 auction” has the meaning given in regulation 2(1) of the Principal Regulations.
 
 (2) Words read into—
@@ -106,11 +106,11 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 2 — Trigger events
 
-### 3. Standstill period[^key-b7b6076e5cca88b8a07220de78016536]
+### 3. Standstill period[^c-b7b6076e5cca88b8a07220de78016536]
 
 For the purposes of these Regulations, “**standstill period**” means the period beginning on 15th November 2018 and ending on the date on which the deferred capacity payment trigger event or the agreement termination trigger event occurs.
 
-### 4. Deferred capacity payment trigger event: agreements existing on 15th November 2018[^key-af8dd373983c30db553edb0bce5616be]
+### 4. Deferred capacity payment trigger event: agreements existing on 15th November 2018[^c-af8dd373983c30db553edb0bce5616be]
 
 (1) If the Secretary of State is aware of a decision by a relevant authority that has the consequence that the making of capacity payments would be in accordance with the law relating to state aid, the Secretary of State must notify the Settlement Body and the Delivery Body of that decision as soon as reasonably practicable.
 
@@ -122,7 +122,7 @@ For the purposes of these Regulations, “**standstill period**” means the per
 - (b) specify that the notification is given for the purposes of this regulation; and
 - (c) be published as soon as reasonably practicable after it is given.
 
-### 5. Conditional capacity agreement trigger event[^key-7e2473b15e8c20aa3036cc578cdc1c8e]
+### 5. Conditional capacity agreement trigger event[^c-7e2473b15e8c20aa3036cc578cdc1c8e]
 
 (1) If the Secretary of State is aware of a decision by a relevant authority that has the consequence that—
 
@@ -141,7 +141,7 @@ the Secretary of State must notify the Settlement Body and the Delivery Body of 
 
 (4) In this regulation, “**capacity agreement**” has the meaning given in regulation 2(1) of the Principal Regulations (as modified by Part 5).
 
-### 6. Termination trigger events[^key-696c244609df318ba3f5f09b09c5e33f]
+### 6. Termination trigger events[^c-696c244609df318ba3f5f09b09c5e33f]
 
 (1) If the Secretary of State is aware of a decision by a relevant authority after 15th November 2018 that has the consequence that it would not be in accordance with the law relating to state aid for capacity payments to be made to capacity providers in respect of—
 
@@ -173,79 +173,79 @@ the Secretary of State must notify the Settlement Body and the Delivery Body by 
 
 ## PART 3 — Payments administered by the Settlement Body
 
-### CHAPTER 1 — Supplier charge payments during standstill period[^key-639d1b67dcf6c61a8f55fdfb0e64099b]
+### CHAPTER 1 — Supplier charge payments during standstill period[^c-639d1b67dcf6c61a8f55fdfb0e64099b]
 
 **No longer in force.**
 
-#### 7. Settlement Body to hold supplier charge payments[^key-639d1b67dcf6c61a8f55fdfb0e64099b]
+#### 7. Settlement Body to hold supplier charge payments[^c-639d1b67dcf6c61a8f55fdfb0e64099b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Supplier charge payments used to make capacity payments: deferred capacity payment trigger event[^key-639d1b67dcf6c61a8f55fdfb0e64099b]
+#### 8. Supplier charge payments used to make capacity payments: deferred capacity payment trigger event[^c-639d1b67dcf6c61a8f55fdfb0e64099b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Supplier charge payments used to make capacity payments: T-1 capacity agreement trigger event[^key-639d1b67dcf6c61a8f55fdfb0e64099b]
+#### 9. Supplier charge payments used to make capacity payments: T-1 capacity agreement trigger event[^c-639d1b67dcf6c61a8f55fdfb0e64099b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Return of supplier charge payments: agreement termination trigger event[^key-639d1b67dcf6c61a8f55fdfb0e64099b]
+#### 10. Return of supplier charge payments: agreement termination trigger event[^c-639d1b67dcf6c61a8f55fdfb0e64099b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — Modifications to application of Principal Regulations: agreements existing on 15th November 2018[^key-35f71ed93ba304f65c35d8b94f560460]
+### CHAPTER 2 — Modifications to application of Principal Regulations: agreements existing on 15th November 2018[^c-35f71ed93ba304f65c35d8b94f560460]
 
 **No longer in force.**
 
-#### 11. Application[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 11. Application[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Interpretation: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 12. Interpretation: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Capacity payments: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 13. Capacity payments: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Capacity provider penalty charges: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 14. Capacity provider penalty charges: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Over-delivery payments: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 15. Over-delivery payments: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Termination fees: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 16. Termination fees: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Non-completion fees: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 17. Non-completion fees: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Repayment of capacity payments: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 18. Repayment of capacity payments: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Non-payment register: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 19. Non-payment register: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Applicant credit cover: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 20. Applicant credit cover: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Credit obligation period: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 21. Credit obligation period: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Draw down of credit cover: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 22. Draw down of credit cover: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Effect of non-compliance: modifications[^key-35f71ed93ba304f65c35d8b94f560460]
+#### 23. Effect of non-compliance: modifications[^c-35f71ed93ba304f65c35d8b94f560460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -253,7 +253,7 @@ the Secretary of State must notify the Settlement Body and the Delivery Body by 
 
 ### CHAPTER 1 — Amendment of Principal Regulations
 
-#### 24. Secretary of State's discretion concerning non-completion fees: amendments[^key-30a3a43efb85df0389e5c1f5a8fa513e]
+#### 24. Secretary of State's discretion concerning non-completion fees: amendments[^c-30a3a43efb85df0389e5c1f5a8fa513e]
 
 In regulation 43A (non-completion fee) of the Principal Regulations, after paragraph (5), insert—
 
@@ -264,175 +264,175 @@ In regulation 43A (non-completion fee) of the Principal Regulations, after parag
 
 .
 
-#### 25. Delivery Body reviewable decision: amendments[^key-113014232c3de8868a18d5186d52e387]
+#### 25. Delivery Body reviewable decision: amendments[^c-113014232c3de8868a18d5186d52e387]
 
 In regulation 68 of the Principal Regulations, in paragraph (2), in the table, after “issue of” insert “ a non-completion notice, ”.
 
-### CHAPTER 2 — Modifications of Principal Regulations[^key-7d60ff07dc5297d519798f16ac2bc915]
+### CHAPTER 2 — Modifications of Principal Regulations[^c-7d60ff07dc5297d519798f16ac2bc915]
 
 **No longer in force.**
 
-#### 26. Secretary of State's discretion: modifications[^key-7d60ff07dc5297d519798f16ac2bc915]
+#### 26. Secretary of State's discretion: modifications[^c-7d60ff07dc5297d519798f16ac2bc915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Non-completion fees: modifications[^key-7d60ff07dc5297d519798f16ac2bc915]
+#### 27. Non-completion fees: modifications[^c-7d60ff07dc5297d519798f16ac2bc915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Conditional agreement auction[^key-52af4c1840ddc39201caae78ebb60709]
+## PART 5 — Conditional agreement auction[^c-52af4c1840ddc39201caae78ebb60709]
 
 **No longer in force.**
 
-### 28. Application[^key-52af4c1840ddc39201caae78ebb60709]
+### 28. Application[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Interpretation: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 29. Interpretation: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Rearrangement of conditional agreement auction: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 30. Rearrangement of conditional agreement auction: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Capacity agreements: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 31. Capacity agreements: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Transfer of a capacity agreement: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 32. Transfer of a capacity agreement: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Capacity market register: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 33. Capacity market register: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Termination fee rates: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 34. Termination fee rates: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Secretary of State's discretion: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 35. Secretary of State's discretion: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Null and void capacity agreements: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 36. Null and void capacity agreements: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Settlement calculations: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 37. Settlement calculations: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Capacity payments: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 38. Capacity payments: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Capacity provider penalty charges: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 39. Capacity provider penalty charges: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Over delivery payments: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 40. Over delivery payments: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Termination fees: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 41. Termination fees: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. DSR unproven capacity fee[^key-52af4c1840ddc39201caae78ebb60709]
+### 42. DSR unproven capacity fee[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Non-completion fee: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 43. Non-completion fee: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Repayment of capacity payments: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 44. Repayment of capacity payments: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Payments and penalties: adjustments for DSR providers[^key-52af4c1840ddc39201caae78ebb60709]
+### 45. Payments and penalties: adjustments for DSR providers[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Payment and non-payment (interpretation): modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 46. Payment and non-payment (interpretation): modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. The non-payment register: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 47. The non-payment register: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Payment of credit notes: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 48. Payment of credit notes: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 49. Credit cover: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 49. Credit cover: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 50. Draw down of applicant credit cover: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 50. Draw down of applicant credit cover: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 51. Dispute resolution and appeals: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 51. Dispute resolution and appeals: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 52. Schedule 1 settlement calculations: modifications[^key-52af4c1840ddc39201caae78ebb60709]
+### 52. Schedule 1 settlement calculations: modifications[^c-52af4c1840ddc39201caae78ebb60709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Modifications to Supplier Payment Regulations[^key-761b9eb1e92f7cbea33468f68351c0fe]
+## PART 6 — Modifications to Supplier Payment Regulations[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 **No longer in force.**
 
-### 53. Modifications to the application of the Supplier Payment Regulations[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 53. Modifications to the application of the Supplier Payment Regulations[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 54. Interpretation: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 54. Interpretation: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 55. Supplier settlement calculations: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 55. Supplier settlement calculations: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 56. Capacity market supplier charge: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 56. Capacity market supplier charge: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 57. Mutualisation: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 57. Mutualisation: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 58. Penalty residual supplier amount: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 58. Penalty residual supplier amount: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 59. Non-payment and withheld credit: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 59. Non-payment and withheld credit: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 60. Consequences of termination of supplier licences: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 60. Consequences of termination of supplier licences: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 61. Standstill collection period reconciliation: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 61. Standstill collection period reconciliation: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 62. Supplier credit cover: modification[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 62. Supplier credit cover: modification[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 63. Calculation of amounts: modifications[^key-761b9eb1e92f7cbea33468f68351c0fe]
+### 63. Calculation of amounts: modifications[^c-761b9eb1e92f7cbea33468f68351c0fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — Modifications to application of Principal Regulations: credit cover for subsequent capacity auctions[^key-6d2a0eb398b0ee9b8e5db1686dd69657]
+## PART 7 — Modifications to application of Principal Regulations: credit cover for subsequent capacity auctions[^c-6d2a0eb398b0ee9b8e5db1686dd69657]
 
 ### 64. Subsequent capacity auctions: suspension of credit cover during standstill period
 
@@ -555,9 +555,9 @@ Regulation 63 modifies the application of Schedule 1 to the Supplier Payment Reg
 
 [^c23716331]: Marginal citation: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-33ef8c622460198b2b872e3d94153d79]: Commencement: Reg. 1 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-33ef8c622460198b2b872e3d94153d79]: Commencement: Reg. 1 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
-[^key-8b0fba510b85765b0123d992f4d2ae97]: Commencement: Reg. 2 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-8b0fba510b85765b0123d992f4d2ae97]: Commencement: Reg. 2 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
 [^c23716341]: Marginal citation: A consolidated version of the Capacity Market Rules 2014 are at https://www.ofgem.gov.uk/publications-and-updates/publication-consolidated-capacity-market-rules-2018. Copies are available from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET.
 
@@ -569,36 +569,36 @@ Regulation 63 modifies the application of Schedule 1 to the Supplier Payment Reg
 
 [^c23716381]: Marginal citation: The Competition and Markets Authority is established by section 25 of the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-6c1d832416722b673fd1bf62a55c3479]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/a)
+[^c-6c1d832416722b673fd1bf62a55c3479]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/a)
 
 [^c23716391]: Marginal citation: [S.I. 2014/3354](https://www.legislation.gov.uk/uksi/2014/3354); relevant amending instruments are [S.I. 2016/363](https://www.legislation.gov.uk/uksi/2016/363), 2016/742, 2017/502 and 2017/1053.
 
-[^key-e9cf9859dfde6b60144208acb2629e86]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) omitted (18.7.2019) by virtue of [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/b)
+[^c-e9cf9859dfde6b60144208acb2629e86]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) omitted (18.7.2019) by virtue of [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/b)
 
-[^key-28b259e921d9e7260c91a849d3b1f5ce]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) substituted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/c)
+[^c-28b259e921d9e7260c91a849d3b1f5ce]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) substituted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/c)
 
-[^key-8efd8010ae7a4498cc673c147e853a03]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/d)
+[^c-8efd8010ae7a4498cc673c147e853a03]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/862/regulation/2/1) inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/2/d)
 
-[^key-b7b6076e5cca88b8a07220de78016536]: Commencement: Reg. 3 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-b7b6076e5cca88b8a07220de78016536]: Commencement: Reg. 3 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
-[^key-af8dd373983c30db553edb0bce5616be]: Commencement: Reg. 4 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-af8dd373983c30db553edb0bce5616be]: Commencement: Reg. 4 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
-[^key-7e2473b15e8c20aa3036cc578cdc1c8e]: Commencement: Reg. 5 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-7e2473b15e8c20aa3036cc578cdc1c8e]: Commencement: Reg. 5 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
-[^key-696c244609df318ba3f5f09b09c5e33f]: Commencement: Reg. 6 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-696c244609df318ba3f5f09b09c5e33f]: Commencement: Reg. 6 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
-[^key-639d1b67dcf6c61a8f55fdfb0e64099b]: Textual amendment: Pt. 3 Ch. 1 omitted (17.7.2026) by virtue of [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2026/850/schedule/3/paragraph/1)
+[^c-639d1b67dcf6c61a8f55fdfb0e64099b]: Textual amendment: Pt. 3 Ch. 1 omitted (17.7.2026) by virtue of [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2026/850/schedule/3/paragraph/1)
 
-[^key-35f71ed93ba304f65c35d8b94f560460]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/862/part/3/chapter/2) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/20)
+[^c-35f71ed93ba304f65c35d8b94f560460]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/862/part/3/chapter/2) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/20)
 
-[^key-30a3a43efb85df0389e5c1f5a8fa513e]: Commencement: Reg. 24 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-30a3a43efb85df0389e5c1f5a8fa513e]: Commencement: Reg. 24 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
-[^key-113014232c3de8868a18d5186d52e387]: Commencement: Reg. 25 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
+[^c-113014232c3de8868a18d5186d52e387]: Commencement: Reg. 25 in force at 10.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2)
 
-[^key-7d60ff07dc5297d519798f16ac2bc915]: Textual amendment: [Pt. 4 Ch. 2](https://www.legislation.gov.uk/uksi/2019/862/part/4/chapter/2) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/21)
+[^c-7d60ff07dc5297d519798f16ac2bc915]: Textual amendment: [Pt. 4 Ch. 2](https://www.legislation.gov.uk/uksi/2019/862/part/4/chapter/2) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/21)
 
-[^key-52af4c1840ddc39201caae78ebb60709]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2019/862/part/5) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/22)
+[^c-52af4c1840ddc39201caae78ebb60709]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2019/862/part/5) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/22)
 
-[^key-761b9eb1e92f7cbea33468f68351c0fe]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2019/862/part/6) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/22)
+[^c-761b9eb1e92f7cbea33468f68351c0fe]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2019/862/part/6) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/22)
 
-[^key-6d2a0eb398b0ee9b8e5db1686dd69657]: Textual amendment: Pt. 7 inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/6)
+[^c-6d2a0eb398b0ee9b8e5db1686dd69657]: Textual amendment: Pt. 7 inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/6)

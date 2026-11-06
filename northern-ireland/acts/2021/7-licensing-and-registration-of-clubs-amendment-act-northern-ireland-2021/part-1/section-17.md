@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Restaurants and guest houses: notice displaying licence conditions[^key-ad63a924bd15fb28b79fb7c4836099ef][^key-22704b6ada6a68530391ce86af84ab53]
+## 17. Restaurants and guest houses: notice displaying licence conditions[^c-ad63a924bd15fb28b79fb7c4836099ef][^c-22704b6ada6a68530391ce86af84ab53]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad63a924bd15fb28b79fb7c4836099ef]: Commencement: S. 17 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-ad63a924bd15fb28b79fb7c4836099ef]: Commencement: S. 17 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-22704b6ada6a68530391ce86af84ab53]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/7/section/17) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-22704b6ada6a68530391ce86af84ab53]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/7/section/17) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

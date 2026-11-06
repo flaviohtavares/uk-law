@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. External provider social loans and community care grants[^key-005857b596e04fb600aebc0f537d5494]
+## 73. External provider social loans and community care grants[^c-005857b596e04fb600aebc0f537d5494]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Sections 16 to 21 of the Welfare Reform Act 2009 (provisions relating to externa
 
 ## Annotations
 
-[^key-005857b596e04fb600aebc0f537d5494]: Commencement: S. 73 in force at 1.4.2013 by [S.I. 2012/3090](https://www.legislation.gov.uk/uksi/2012/3090), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/3090/article/2/1/b)
+[^c-005857b596e04fb600aebc0f537d5494]: Commencement: S. 73 in force at 1.4.2013 by [S.I. 2012/3090](https://www.legislation.gov.uk/uksi/2012/3090), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/3090/article/2/1/b)

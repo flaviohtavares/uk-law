@@ -36,8 +36,8 @@ summary: ''
 
 - (a) section 330 (debits in respect of pre-trading expenditure),
 - (b) section 482(1) (under which credits or debits to be brought into account under Chapter 2 of Part 6 (relevant non-lending relationships) are treated as non-trading credits or debits), and
-- (c) sections 286(5) and 287(5) of CTA 2010[^key-a000f9813bde61ebe597c8b3270e0e9c] (under which some credits and debits affecting ring-fence profits from petroleum extraction activities are treated as non-trading credits and debits).
+- (c) sections 286(5) and 287(5) of CTA 2010[^c-a000f9813bde61ebe597c8b3270e0e9c] (under which some credits and debits affecting ring-fence profits from petroleum extraction activities are treated as non-trading credits and debits).
 
 ## Annotations
 
-[^key-a000f9813bde61ebe597c8b3270e0e9c]: Textual amendment: Words in s. 297(5)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 604](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/604) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a000f9813bde61ebe597c8b3270e0e9c]: Textual amendment: Words in s. 297(5)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 604](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/604) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

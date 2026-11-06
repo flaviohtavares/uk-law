@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Crown application[^key-7974f50109395cc1c52063bb7a812b6d]
+## 128. Crown application[^c-7974f50109395cc1c52063bb7a812b6d]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7974f50109395cc1c52063bb7a812b6d]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2016/18/section/128) in force at 16.12.2020 by [S.S.I. 2020/383](https://www.legislation.gov.uk/ssi/2020/383), [reg. 2](https://www.legislation.gov.uk/ssi/2020/383/regulation/2)
+[^c-7974f50109395cc1c52063bb7a812b6d]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2016/18/section/128) in force at 16.12.2020 by [S.S.I. 2020/383](https://www.legislation.gov.uk/ssi/2020/383), [reg. 2](https://www.legislation.gov.uk/ssi/2020/383/regulation/2)

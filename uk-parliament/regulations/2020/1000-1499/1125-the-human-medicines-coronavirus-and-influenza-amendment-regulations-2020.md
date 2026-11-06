@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 The Secretary of State and the Minister of Health in Northern Ireland make the following Regulations in exercise of the powers conferred by section 2(2) and (5) of the European Communities Act 1972 [^c24304091]. They have been designated for the purposes of section 2(2) of that Act in relation to medicinal products [^c24304101].
 
-## 1. Citation and commencement[^key-dc5f1f4c376c6d78397e5e14575622b3][^key-dc5f1f4c376c6d78397e5e14575622b3]
+## 1. Citation and commencement[^c-dc5f1f4c376c6d78397e5e14575622b3][^c-dc5f1f4c376c6d78397e5e14575622b3]
 
 (1) These Regulations may be cited as the Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020.
 
@@ -52,11 +52,11 @@ The Secretary of State and the Minister of Health in Northern Ireland make the f
 
 (3) This regulation and regulations 2 (in so far as it relates to regulations 3, 4, 6, 12 and 32), 3, 4, 6, 12 and 32 come into force on the day after the day on which they are laid before Parliament.
 
-## 2. Amendment of the Human Medicines Regulations 2012[^key-75b8cbbd980dc71d33cf722f30bdbd8a][^M_I_71e0ce66-5ad1-4c06-a38e-138fc2bbc8cb]
+## 2. Amendment of the Human Medicines Regulations 2012[^c-75b8cbbd980dc71d33cf722f30bdbd8a][^M_I_71e0ce66-5ad1-4c06-a38e-138fc2bbc8cb]
 
 The Human Medicines Regulations 2012 [^c24304111] are amended as follows.
 
-## 3. Amendment of regulation 8[^key-4924e9492b49491ee17c372bc0e149ec][^key-4924e9492b49491ee17c372bc0e149ec]
+## 3. Amendment of regulation 8[^c-4924e9492b49491ee17c372bc0e149ec][^c-4924e9492b49491ee17c372bc0e149ec]
 
 In regulation 8 [^c24304121] (general interpretation), in paragraph (1), at the appropriate place insert—
 
@@ -72,7 +72,7 @@ In regulation 8 [^c24304121] (general interpretation), in paragraph (1), at the 
 
 .
 
-## 4. Amendment of regulation 19[^key-e9b232502013488b976555276af0ea8a][^key-e9b232502013488b976555276af0ea8a]
+## 4. Amendment of regulation 19[^c-e9b232502013488b976555276af0ea8a][^c-e9b232502013488b976555276af0ea8a]
 
 In regulation 19 [^c24304141] (exemptions from requirement for wholesale dealer's licence), after paragraph (4) insert—
 
@@ -101,11 +101,11 @@ In regulation 19 [^c24304141] (exemptions from requirement for wholesale dealer'
 
 .
 
-## 5. Amendment of regulation 41[^key-7bc1fe2abc30d3bf8e9176fb2e393f70]
+## 5. Amendment of regulation 41[^c-7bc1fe2abc30d3bf8e9176fb2e393f70]
 
 In regulation 41 (requirements as to qualified persons), in paragraph (11), after “medicinal products or” insert “ , unless conditions attached in accordance with regulation 174A(1) provide otherwise, ”.
 
-## 6. New regulation 174A[^key-b336bad8a49f8c4a05484783620dab8e][^key-b336bad8a49f8c4a05484783620dab8e]
+## 6. New regulation 174A[^c-b336bad8a49f8c4a05484783620dab8e][^c-b336bad8a49f8c4a05484783620dab8e]
 
 After regulation 174 (supply in response to spread of pathogenic agents etc) insert—
 
@@ -136,27 +136,27 @@ After regulation 174 (supply in response to spread of pathogenic agents etc) ins
 
 .
 
-## 7. Amendment of regulation 229[^key-5d999c931c1b0b3d74b05a9f705b32e1]
+## 7. Amendment of regulation 229[^c-5d999c931c1b0b3d74b05a9f705b32e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 230[^key-db0bd512ded1f78926a364f6c2f46d0d]
+## 8. Amendment of regulation 230[^c-db0bd512ded1f78926a364f6c2f46d0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 231[^key-fe3f31ff7bad5ee0ac14d1d563cd27b9]
+## 9. Amendment of regulation 231[^c-fe3f31ff7bad5ee0ac14d1d563cd27b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 233[^key-2944e0aba20d37e6810a4ebad2efb493]
+## 10. Amendment of regulation 233[^c-2944e0aba20d37e6810a4ebad2efb493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 234[^key-8ba190183c16400456290ba86fdb888b]
+## 11. Amendment of regulation 234[^c-8ba190183c16400456290ba86fdb888b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of regulation 235[^key-c943cdd811189de8d8808a3b55edfa1a][^key-c943cdd811189de8d8808a3b55edfa1a]
+## 12. Amendment of regulation 235[^c-c943cdd811189de8d8808a3b55edfa1a][^c-c943cdd811189de8d8808a3b55edfa1a]
 
 In regulation 235 (exemption for sale, supply or administration by certain persons), after paragraph (7) insert—
 
@@ -168,11 +168,11 @@ In regulation 235 (exemption for sale, supply or administration by certain perso
 
 .
 
-## 13. Amendment of regulation 247[^key-512ced82bafb154935b00b009547d4a8]
+## 13. Amendment of regulation 247[^c-512ced82bafb154935b00b009547d4a8]
 
 In regulation 247 [^c24304241] (exemption for supply in the event or anticipation of pandemic disease), in paragraph (3)(b), for “the symptoms of and” substitute “ how the medicinal product is to be used for the prevention of or as a ”.
 
-## 14. New regulation 247A[^key-135cf3a8deec96d18b1ea77a5d1d1804]
+## 14. New regulation 247A[^c-135cf3a8deec96d18b1ea77a5d1d1804]
 
 After regulation 247 (exemption for supply in the event or anticipation of pandemic disease) insert—
 
@@ -208,7 +208,7 @@ After regulation 247 (exemption for supply in the event or anticipation of pande
 
 .
 
-## 15. Amendment of regulation 250[^key-eb676e67df1b21eab33ca3d317e03321]
+## 15. Amendment of regulation 250[^c-eb676e67df1b21eab33ca3d317e03321]
 
 In regulation 250 (exceptions to regulation 249), after paragraph (4), insert—
 
@@ -216,7 +216,7 @@ In regulation 250 (exceptions to regulation 249), after paragraph (4), insert—
 
 .
 
-## 16. Amendment of regulation 277[^key-6fd225bf0ad35f5d5dbadf0d870507fb]
+## 16. Amendment of regulation 277[^c-6fd225bf0ad35f5d5dbadf0d870507fb]
 
 In regulation 277 (interpretation), in paragraph (1), at the appropriate place insert—
 
@@ -224,11 +224,11 @@ In regulation 277 (interpretation), in paragraph (1), at the appropriate place i
 
 .
 
-## 17. Amendment of regulation 279[^key-a6c56318d75fc3a96a3fad5d2a90d214]
+## 17. Amendment of regulation 279[^c-a6c56318d75fc3a96a3fad5d2a90d214]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of regulation 280[^key-87e14b1a14d0316b0bcfb33490e556d0]
+## 18. Amendment of regulation 280[^c-87e14b1a14d0316b0bcfb33490e556d0]
 
 In regulation 280 [^c24304261] (general principles), after paragraph (3) insert—
 
@@ -236,7 +236,7 @@ In regulation 280 [^c24304261] (general principles), after paragraph (3) insert�
 
 .
 
-## 19. Amendment of regulation 281[^key-dd058006709ac1edd561ee84d7dc3ff0]
+## 19. Amendment of regulation 281[^c-dd058006709ac1edd561ee84d7dc3ff0]
 
 In regulation 281 [^c24304271] (duties of authorisation holders and registration holders), after paragraph (1) insert—
 
@@ -244,19 +244,19 @@ In regulation 281 [^c24304271] (duties of authorisation holders and registration
 
 .
 
-## 20. Amendment of regulation 284[^key-4148dc57d4b6ddfba5fc7ded3ce90006]
+## 20. Amendment of regulation 284[^c-4148dc57d4b6ddfba5fc7ded3ce90006]
 
 In regulation 284 (prescription only medicines), in paragraph (2), after “subject to” insert “ regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and ”.
 
-## 21. Amendment of regulation 285[^key-ef900aa7c55a0d5d70a6dfefd67d4cf6]
+## 21. Amendment of regulation 285[^c-ef900aa7c55a0d5d70a6dfefd67d4cf6]
 
 In regulation 285 (narcotic and psychotropic substances), in paragraph (2), after “subject to” insert “ regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and ”.
 
-## 22. Amendment of regulation 287[^key-4769c3ac5ae8fc33d35588b3de3fd20d]
+## 22. Amendment of regulation 287[^c-4769c3ac5ae8fc33d35588b3de3fd20d]
 
 In regulation 287 (material about effects of a medicinal product), in paragraph (5), after “subject to” insert “ regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and ”.
 
-## 23. Amendment of regulation 291[^key-c1a12e8cb98e81482c09419b52c03a26]
+## 23. Amendment of regulation 291[^c-c1a12e8cb98e81482c09419b52c03a26]
 
 In regulation 291(form and content of advertisement), after paragraph (4) insert—
 
@@ -264,7 +264,7 @@ In regulation 291(form and content of advertisement), after paragraph (4) insert
 
 .
 
-## 24. New regulation 291A[^key-877fb5acc889b8ed54680a526e3c948d]
+## 24. New regulation 291A[^c-877fb5acc889b8ed54680a526e3c948d]
 
 After regulation 291 (form and content of advertisement) insert—
 
@@ -286,11 +286,11 @@ After regulation 291 (form and content of advertisement) insert—
 
 .
 
-## 25. Amendment of regulation 293[^key-33f8177221c7f40a936d4a771f351814]
+## 25. Amendment of regulation 293[^c-33f8177221c7f40a936d4a771f351814]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Amendment of regulation 294[^key-918f5ac6da35bfe5baebdc72bdae89fd]
+## 26. Amendment of regulation 294[^c-918f5ac6da35bfe5baebdc72bdae89fd]
 
 (1) Regulation 294 [^c24304291] (general requirements) is amended as follows.
 
@@ -302,11 +302,11 @@ After regulation 291 (form and content of advertisement) insert—
 
 .
 
-## 27. Amendment of regulation 295[^key-d01969f61dacc70f542f7a281a1eeea1]
+## 27. Amendment of regulation 295[^c-d01969f61dacc70f542f7a281a1eeea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Amendment of regulation 297[^key-2401ae4f2bbed15ad9eb75d665c522e9]
+## 28. Amendment of regulation 297[^c-2401ae4f2bbed15ad9eb75d665c522e9]
 
 (1) Regulation 297 (written material accompanying promotions) is amended as follows.
 
@@ -318,7 +318,7 @@ After regulation 291 (form and content of advertisement) insert—
 
 .
 
-## 29. Amendment of regulation 345[^key-02c511368b8497700d0ff87db8871c7e]
+## 29. Amendment of regulation 345[^c-02c511368b8497700d0ff87db8871c7e]
 
 In regulation 345 [^c24304301] (immunity from civil liability), in paragraph (3)—
 
@@ -335,7 +335,7 @@ In regulation 345 [^c24304301] (immunity from civil liability), in paragraph (3)
 
   .
 
-## 30. Amendment of regulation 346[^key-2628df8cae0644aba643e5e84b72052f]
+## 30. Amendment of regulation 346[^c-2628df8cae0644aba643e5e84b72052f]
 
 In regulation 346 [^c24304311] (review), in paragraph (2)(c)—
 
@@ -350,7 +350,7 @@ In regulation 346 [^c24304311] (review), in paragraph (2)(c)—
 
   .
 
-## 31. Amendment of Schedule 1[^key-784ef43ff0f3b8f8e0bfb99179cdb3d0]
+## 31. Amendment of Schedule 1[^c-784ef43ff0f3b8f8e0bfb99179cdb3d0]
 
 (1) Schedule 1 (further provisions for classification of medicinal products) is amended as follows.
 
@@ -373,7 +373,7 @@ In regulation 346 [^c24304311] (review), in paragraph (2)(c)—
 
   .
 
-## 32. Amendment of Schedule 17[^key-31191ec3a19c1dbd99c66cf5685cb8b8][^key-31191ec3a19c1dbd99c66cf5685cb8b8]
+## 32. Amendment of Schedule 17[^c-31191ec3a19c1dbd99c66cf5685cb8b8][^c-31191ec3a19c1dbd99c66cf5685cb8b8]
 
 (1) Schedule 17 (exemption for sale, supply or administration by certain persons) is amended as follows.
 
@@ -395,7 +395,7 @@ In regulation 346 [^c24304311] (review), in paragraph (2)(c)—
 | --- | --- | --- |
 | 10a. An NHS body or a local authority operating an occupational health scheme and occupational health vaccinators employed or engaged by them. | 10b. A prescription only medicine used for vaccination or immunisation against coronavirus or influenza virus (of any type) sold or supplied to a person operating an occupational health scheme mentioned in entry 10a in response to an order in writing signed by a doctor or an occupational health vaccinator. | 10c. The supply of the medicine is in the course of an occupational health scheme mentioned in entry 10a, and the individual supplying the medicine is, if not a doctor, an occupational health vaccinator acting in accordance with the written directions of a doctor as to the circumstances in which such medicines are to be used. |
 
-## 33. Amendment of Schedule 30[^key-d8a03d0c5c419bc059d8c8c3e6613abb]
+## 33. Amendment of Schedule 30[^c-d8a03d0c5c419bc059d8c8c3e6613abb]
 
 (1) Schedule 30 [^c24304371] (particulars for advertisements to persons qualified to prescribe or supply) is amended as follows.
 
@@ -443,21 +443,21 @@ The review provision in the 2012 Regulations has also been modified to take acco
 
 [^c24304101]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
 
-[^key-dc5f1f4c376c6d78397e5e14575622b3]: Commencement: Reg. 1 in force at 17.10.2020, see reg. 1(3)
+[^c-dc5f1f4c376c6d78397e5e14575622b3]: Commencement: Reg. 1 in force at 17.10.2020, see reg. 1(3)
 
-[^key-75b8cbbd980dc71d33cf722f30bdbd8a]: Commencement: Reg. 2 in force at 17.10.2020 for specified purposes, see reg. 1(3)
+[^c-75b8cbbd980dc71d33cf722f30bdbd8a]: Commencement: Reg. 2 in force at 17.10.2020 for specified purposes, see reg. 1(3)
 
 [^M_I_71e0ce66-5ad1-4c06-a38e-138fc2bbc8cb]: Commencement: Reg. 2 in force in so far as not already in force at 6.11.2020, see reg. 1(2)
 
 [^c24304111]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 
-[^key-4924e9492b49491ee17c372bc0e149ec]: Commencement: Reg. 3 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+[^c-4924e9492b49491ee17c372bc0e149ec]: Commencement: Reg. 3 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
 
 [^c24304121]: Marginal citation: [Regulation 8](https://www.legislation.gov.uk/uksi/2020/1125/regulation/8) has been amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855), 2015/1503, 2016/186, 190 and 696, 2017/715, 2018/199 and 2019/62, 593, 703, 775 and 1094.
 
 [^c24304131]: Marginal citation: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-e9b232502013488b976555276af0ea8a]: Commencement: Reg. 4 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+[^c-e9b232502013488b976555276af0ea8a]: Commencement: Reg. 4 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
 
 [^c24304141]: Marginal citation: [Regulation 19](https://www.legislation.gov.uk/uksi/2020/1125/regulation/19) has been amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and 2019/775.
 
@@ -469,77 +469,77 @@ The review provision in the 2012 Regulations has also been modified to take acco
 
 [^c24304181]: Marginal citation: [2009 c. 1 (N. I.)](https://www.legislation.gov.uk/nia/2009/1).
 
-[^key-7bc1fe2abc30d3bf8e9176fb2e393f70]: Commencement: Reg. 5 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-7bc1fe2abc30d3bf8e9176fb2e393f70]: Commencement: Reg. 5 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-b336bad8a49f8c4a05484783620dab8e]: Commencement: Reg. 6 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+[^c-b336bad8a49f8c4a05484783620dab8e]: Commencement: Reg. 6 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
 
-[^key-5d999c931c1b0b3d74b05a9f705b32e1]: Textual amendment: Reg. 7 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/a)
+[^c-5d999c931c1b0b3d74b05a9f705b32e1]: Textual amendment: Reg. 7 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/a)
 
-[^key-db0bd512ded1f78926a364f6c2f46d0d]: Textual amendment: Reg. 8 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/b)
+[^c-db0bd512ded1f78926a364f6c2f46d0d]: Textual amendment: Reg. 8 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/b)
 
-[^key-fe3f31ff7bad5ee0ac14d1d563cd27b9]: Textual amendment: Reg. 9 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(c)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/c)
+[^c-fe3f31ff7bad5ee0ac14d1d563cd27b9]: Textual amendment: Reg. 9 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(c)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/c)
 
-[^key-2944e0aba20d37e6810a4ebad2efb493]: Textual amendment: Reg. 10 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(d)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/d)
+[^c-2944e0aba20d37e6810a4ebad2efb493]: Textual amendment: Reg. 10 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(d)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/d)
 
-[^key-8ba190183c16400456290ba86fdb888b]: Textual amendment: Reg. 11 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(e)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/e)
+[^c-8ba190183c16400456290ba86fdb888b]: Textual amendment: Reg. 11 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(e)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/e)
 
-[^key-c943cdd811189de8d8808a3b55edfa1a]: Commencement: Reg. 12 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+[^c-c943cdd811189de8d8808a3b55edfa1a]: Commencement: Reg. 12 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
 
-[^key-512ced82bafb154935b00b009547d4a8]: Commencement: Reg. 13 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-512ced82bafb154935b00b009547d4a8]: Commencement: Reg. 13 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304241]: Marginal citation: [Regulation 247](https://www.legislation.gov.uk/uksi/2020/1125/regulation/247) has been amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-135cf3a8deec96d18b1ea77a5d1d1804]: Commencement: Reg. 14 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-135cf3a8deec96d18b1ea77a5d1d1804]: Commencement: Reg. 14 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-eb676e67df1b21eab33ca3d317e03321]: Commencement: Reg. 15 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-eb676e67df1b21eab33ca3d317e03321]: Commencement: Reg. 15 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-6fd225bf0ad35f5d5dbadf0d870507fb]: Commencement: Reg. 16 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-6fd225bf0ad35f5d5dbadf0d870507fb]: Commencement: Reg. 16 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-a6c56318d75fc3a96a3fad5d2a90d214]: Textual amendment: Reg. 17 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/f)
+[^c-a6c56318d75fc3a96a3fad5d2a90d214]: Textual amendment: Reg. 17 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/f)
 
-[^key-87e14b1a14d0316b0bcfb33490e556d0]: Commencement: Reg. 18 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-87e14b1a14d0316b0bcfb33490e556d0]: Commencement: Reg. 18 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304261]: Marginal citation: [Regulation 280](https://www.legislation.gov.uk/uksi/2020/1125/regulation/280) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
 
-[^key-dd058006709ac1edd561ee84d7dc3ff0]: Commencement: Reg. 19 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-dd058006709ac1edd561ee84d7dc3ff0]: Commencement: Reg. 19 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304271]: Marginal citation: [Regulation 281](https://www.legislation.gov.uk/uksi/2020/1125/regulation/281) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
 
-[^key-4148dc57d4b6ddfba5fc7ded3ce90006]: Commencement: Reg. 20 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-4148dc57d4b6ddfba5fc7ded3ce90006]: Commencement: Reg. 20 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-ef900aa7c55a0d5d70a6dfefd67d4cf6]: Commencement: Reg. 21 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-ef900aa7c55a0d5d70a6dfefd67d4cf6]: Commencement: Reg. 21 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-4769c3ac5ae8fc33d35588b3de3fd20d]: Commencement: Reg. 22 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-4769c3ac5ae8fc33d35588b3de3fd20d]: Commencement: Reg. 22 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-c1a12e8cb98e81482c09419b52c03a26]: Commencement: Reg. 23 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-c1a12e8cb98e81482c09419b52c03a26]: Commencement: Reg. 23 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-877fb5acc889b8ed54680a526e3c948d]: Commencement: Reg. 24 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-877fb5acc889b8ed54680a526e3c948d]: Commencement: Reg. 24 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-33f8177221c7f40a936d4a771f351814]: Textual amendment: Reg. 25 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(g)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/g)
+[^c-33f8177221c7f40a936d4a771f351814]: Textual amendment: Reg. 25 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(g)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/g)
 
-[^key-918f5ac6da35bfe5baebdc72bdae89fd]: Commencement: Reg. 26 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-918f5ac6da35bfe5baebdc72bdae89fd]: Commencement: Reg. 26 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304291]: Marginal citation: [Regulation 294](https://www.legislation.gov.uk/uksi/2020/1125/regulation/294) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-d01969f61dacc70f542f7a281a1eeea1]: Textual amendment: Reg. 27 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(h)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/h)
+[^c-d01969f61dacc70f542f7a281a1eeea1]: Textual amendment: Reg. 27 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(h)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/h)
 
-[^key-2401ae4f2bbed15ad9eb75d665c522e9]: Commencement: Reg. 28 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-2401ae4f2bbed15ad9eb75d665c522e9]: Commencement: Reg. 28 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
-[^key-02c511368b8497700d0ff87db8871c7e]: Commencement: Reg. 29 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-02c511368b8497700d0ff87db8871c7e]: Commencement: Reg. 29 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304301]: Marginal citation: [Regulation 345](https://www.legislation.gov.uk/uksi/2020/1125/regulation/345) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
 
-[^key-2628df8cae0644aba643e5e84b72052f]: Commencement: Reg. 30 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-2628df8cae0644aba643e5e84b72052f]: Commencement: Reg. 30 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304311]: Marginal citation: [Regulation 346(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/346/2) has been amended by [S.I. 2013/2593](https://www.legislation.gov.uk/uksi/2013/2593), 2014/490, 2015/323, 903 and 1503, 2016/186, 2017/715, 2018/199 and 2019/62 and 775.
 
-[^key-784ef43ff0f3b8f8e0bfb99179cdb3d0]: Commencement: Reg. 31 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-784ef43ff0f3b8f8e0bfb99179cdb3d0]: Commencement: Reg. 31 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304321]: Marginal citation: [Part 1](https://www.legislation.gov.uk/uksi/2020/1125/part/1) has been amended by [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490) and 2019/775.
 
 [^c24304331]: Marginal citation: [Part 2](https://www.legislation.gov.uk/uksi/2020/1125/part/2) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
 
-[^key-31191ec3a19c1dbd99c66cf5685cb8b8]: Commencement: Reg. 32 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+[^c-31191ec3a19c1dbd99c66cf5685cb8b8]: Commencement: Reg. 32 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
 
 [^c24304341]: Marginal citation: [Part 2](https://www.legislation.gov.uk/uksi/2020/1125/part/2) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878), 2015/1503, 2016/186 and 2019/62.
 
@@ -547,6 +547,6 @@ The review provision in the 2012 Regulations has also been modified to take acco
 
 [^c24304361]: Marginal citation: [Part 5](https://www.legislation.gov.uk/uksi/2020/1125/part/5) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878), 2015/1503, 2018/199 and 2019/62, 598 and 703.
 
-[^key-d8a03d0c5c419bc059d8c8c3e6613abb]: Commencement: Reg. 33 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+[^c-d8a03d0c5c419bc059d8c8c3e6613abb]: Commencement: Reg. 33 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
 
 [^c24304371]: Marginal citation: [Schedule 30](https://www.legislation.gov.uk/uksi/2020/1125/schedule/30) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878) and 2019/775.

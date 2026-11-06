@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 73. Citation, commencement and extent[^key-3627bfd142155a2b568f5f015246069d]
+## 73. Citation, commencement and extent[^c-3627bfd142155a2b568f5f015246069d]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3627bfd142155a2b568f5f015246069d]: Commencement: S. 73 in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/2)
+[^c-3627bfd142155a2b568f5f015246069d]: Commencement: S. 73 in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/2)

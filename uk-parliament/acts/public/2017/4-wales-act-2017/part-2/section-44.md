@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Equal opportunities: public sector equality duty[^key-15ddb90d82a75e4b2aaa6fa79b530956]
+## 44. Equal opportunities: public sector equality duty[^c-15ddb90d82a75e4b2aaa6fa79b530956]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15ddb90d82a75e4b2aaa6fa79b530956]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2017/4/section/44) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)
+[^c-15ddb90d82a75e4b2aaa6fa79b530956]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2017/4/section/44) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)

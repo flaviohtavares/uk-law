@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Bridleway rights over ways shown as bridleways : England.[^key-709a7821e776a03e49fc68d5dd07e638][^key-90ebcbc2206e3530bcb177674bc91211]
+## 55. Bridleway rights over ways shown as bridleways : England.[^c-709a7821e776a03e49fc68d5dd07e638][^c-90ebcbc2206e3530bcb177674bc91211]
 
 *Extent: E+W*
 
-(1) Subject to subsections (2) and (3), the public shall, as from the day after the cut-off date, have a right of way on horseback or leading a horse over any way in England[^key-979e6f8d243263064b874f54b22b4358] which—
+(1) Subject to subsections (2) and (3), the public shall, as from the day after the cut-off date, have a right of way on horseback or leading a horse over any way in England[^c-979e6f8d243263064b874f54b22b4358] which—
 
 - (a) was immediately before 1st January 1949 either a footpath or a bridleway, and
 - (b) is, throughout the period beginning with the commencement of this section and ending with the cut-off date,
@@ -45,8 +45,8 @@ all rights over that way which exist only by virtue of subsection (1) shall be e
 
 ## Annotations
 
-[^key-709a7821e776a03e49fc68d5dd07e638]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2000/37/section/55) in force at 25.10.2023 for E. by [S.I. 2023/1121](https://www.legislation.gov.uk/uksi/2023/1121), [art. 2](https://www.legislation.gov.uk/uksi/2023/1121/article/2)
+[^c-709a7821e776a03e49fc68d5dd07e638]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2000/37/section/55) in force at 25.10.2023 for E. by [S.I. 2023/1121](https://www.legislation.gov.uk/uksi/2023/1121), [art. 2](https://www.legislation.gov.uk/uksi/2023/1121/article/2)
 
-[^key-90ebcbc2206e3530bcb177674bc91211]: Textual amendment: Word in s. 55 heading inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/4/b)
+[^c-90ebcbc2206e3530bcb177674bc91211]: Textual amendment: Word in s. 55 heading inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/4/b)
 
-[^key-979e6f8d243263064b874f54b22b4358]: Textual amendment: Words in s. 55(1) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/4/a)
+[^c-979e6f8d243263064b874f54b22b4358]: Textual amendment: Words in s. 55(1) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/4/a)

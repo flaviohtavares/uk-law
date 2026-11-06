@@ -31,7 +31,7 @@ summary: ''
 
 HIGHER AND FURTHER EDUCATION, TRAINING AND EMPLOYMENT
 
-Education (Listed Bodies) Order (Northern Ireland) 2003 (revoked)[^key-291aadf508622e578be86796868ada57]
+Education (Listed Bodies) Order (Northern Ireland) 2003 (revoked)[^c-291aadf508622e578be86796868ada57]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into operation
 
 30th December 2003
 
-[^key-291aadf508622e578be86796868ada57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-291aadf508622e578be86796868ada57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-291aadf508622e578be86796868ada57]
+## 1. Citation, commencement and interpretation[^c-291aadf508622e578be86796868ada57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Listed bodies[^key-291aadf508622e578be86796868ada57]
+## 2. Listed bodies[^c-291aadf508622e578be86796868ada57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-291aadf508622e578be86796868ada57]
+## 3. Revocation[^c-291aadf508622e578be86796868ada57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-291aadf508622e578be86796868ada57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-291aadf508622e578be86796868ada57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-291aadf508622e578be86796868ada57]
+## SCHEDULE[^c-291aadf508622e578be86796868ada57]
 
-### PART 1 — PROVIDERS OF COURSES LEADING TO A DEGREE[^key-291aadf508622e578be86796868ada57]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — INSTITUTIONS OF A UNIVERSITY[^key-291aadf508622e578be86796868ada57]
+### PART 1 — PROVIDERS OF COURSES LEADING TO A DEGREE[^c-291aadf508622e578be86796868ada57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — PROVIDERS OF COURSES LEADING TO A FOUNDATION DEGREE[^key-291aadf508622e578be86796868ada57]
+### PART 2 — INSTITUTIONS OF A UNIVERSITY[^c-291aadf508622e578be86796868ada57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-291aadf508622e578be86796868ada57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 3 — PROVIDERS OF COURSES LEADING TO A FOUNDATION DEGREE[^c-291aadf508622e578be86796868ada57]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-291aadf508622e578be86796868ada57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-291aadf508622e578be86796868ada57]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/481) revoked (22.12.2004) by [Education (Listed Bodies) Order (Northern Ireland) 2004 (S.R. 2004/480)](https://www.legislation.gov.uk/nisr/2004/480), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/480/article/1/1), [3](https://www.legislation.gov.uk/nisr/2004/480/article/3)
+[^c-291aadf508622e578be86796868ada57]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/481) revoked (22.12.2004) by [Education (Listed Bodies) Order (Northern Ireland) 2004 (S.R. 2004/480)](https://www.legislation.gov.uk/nisr/2004/480), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/480/article/1/1), [3](https://www.legislation.gov.uk/nisr/2004/480/article/3)

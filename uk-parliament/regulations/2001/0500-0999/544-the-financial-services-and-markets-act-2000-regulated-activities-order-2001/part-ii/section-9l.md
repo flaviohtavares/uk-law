@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9L. Funds received for payment services[^key-e5ca3e85616a2b67442fc481e6ff6fa4]
+## 9L. Funds received for payment services[^c-e5ca3e85616a2b67442fc481e6ff6fa4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5ca3e85616a2b67442fc481e6ff6fa4]: Textual amendment: Art. 9L omitted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by virtue of [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 12(e)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/12/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
+[^c-e5ca3e85616a2b67442fc481e6ff6fa4]: Textual amendment: Art. 9L omitted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by virtue of [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 12(e)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/12/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))

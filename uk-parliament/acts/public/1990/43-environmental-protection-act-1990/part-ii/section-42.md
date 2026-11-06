@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Supervision of licensed activities.[^c19493931][^key-a474e28bdd10ac8326cd0d1f9b5c8098]
+## 42. Supervision of licensed activities.[^c19493931][^c-a474e28bdd10ac8326cd0d1f9b5c8098]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 [^c19493931]: Textual amendment: S. 42 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [regs. 73](https://www.legislation.gov.uk/uksi/2007/3538/regulation/73), [74(2)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/74/2), [Sch. 21 para. 10](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/10), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
 
-[^key-a474e28bdd10ac8326cd0d1f9b5c8098]: Textual amendment: Ss. 35-42 repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-a474e28bdd10ac8326cd0d1f9b5c8098]: Textual amendment: Ss. 35-42 repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

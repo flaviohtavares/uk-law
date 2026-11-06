@@ -31,7 +31,7 @@ summary: ''
 
 (3) Where a fishing licence is directed to be forfeited under this section, it shall thereupon cease to be in force.
 
-[(4)[^c11537221] Where a person is convicted by a court of an offence against this Act or against the Fisheries Acts, the clerk of the court shall as soon as may be in either case forward to each of the Commission and the Department[^key-370ba58a7b9a0de5f83558724adeb3d9] a duly authenticated certificate of the conviction,[^c11537231]. . . .\]
+[(4)[^c11537221] Where a person is convicted by a court of an offence against this Act or against the Fisheries Acts, the clerk of the court shall as soon as may be in either case forward to each of the Commission and the Department[^c-370ba58a7b9a0de5f83558724adeb3d9] a duly authenticated certificate of the conviction,[^c11537231]. . . .\]
 
 (5) A document purporting to be a copy of a conviction or order made by a court of justice in the Republic of Ireland and to be certified in accordance with the law of the Republic of Ireland shall, for the purposes of this section, be evidence of such conviction or order without further proof, unless the contrary is shown.
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c11537221]: Textual amendment: [1966 c. 17 (NI)](https://www.legislation.gov.uk/apni/1966/17)
 
-[^key-370ba58a7b9a0de5f83558724adeb3d9]: Textual amendment: Word in [s. 74(4)](https://www.legislation.gov.uk/apni/1952/5/section/74/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 18](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/18) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-370ba58a7b9a0de5f83558724adeb3d9]: Textual amendment: Word in [s. 74(4)](https://www.legislation.gov.uk/apni/1952/5/section/74/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 18](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/18) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c11537231]: Textual amendment: [1991 NI 13](https://www.legislation.gov.uk/nisi/1991)

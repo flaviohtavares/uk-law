@@ -29,7 +29,7 @@ summary: ''
   - (i) for an instruction under subsection (4)(a), (c) or (d) below; or
   - (ii) regarding any matter in the cause.
 
-(2A)[^key-ff169e2f54f2a8790f69f5589f4cb9f2] Subsections (1) and (2) are subject to subsection (2B).
+(2A)[^c-ff169e2f54f2a8790f69f5589f4cb9f2] Subsections (1) and (2) are subject to subsection (2B).
 
 (2B) A juror’s communication supporter may—
 
@@ -55,7 +55,7 @@ summary: ''
 
 (7)[^c18945181] The court may, if it thinks fit, permit the jury to separate even after they have retired to consider their verdict.
 
-(8)[^key-a7ab178cc76146e373c0061550c89c07] In subsection (2B), a “**juror’s communication supporter**” has the meaning given by section 88A(2).
+(8)[^c-a7ab178cc76146e373c0061550c89c07] In subsection (2B), a “**juror’s communication supporter**” has the meaning given by section 88A(2).
 
 ## Annotations
 
@@ -63,10 +63,10 @@ summary: ''
 
 [^c18945141]: Textual amendment: Words in s. 99(2) substituted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 79(b)](https://www.legislation.gov.uk/asp/2003/7/section/79/b), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-ff169e2f54f2a8790f69f5589f4cb9f2]: Textual amendment: S. 99(2A)(2B) inserted (2.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 64(3)(a)](https://www.legislation.gov.uk/asp/2025/12/section/64/3/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-ff169e2f54f2a8790f69f5589f4cb9f2]: Textual amendment: S. 99(2A)(2B) inserted (2.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 64(3)(a)](https://www.legislation.gov.uk/asp/2025/12/section/64/3/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
 [^c18945171]: Textual amendment: Words in s. 99(4)(b) inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 79(c)](https://www.legislation.gov.uk/asp/2003/7/section/79/c), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
 [^c18945181]: Textual amendment: S. 99(7) added (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 79(d)](https://www.legislation.gov.uk/asp/2003/7/section/79/d), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-a7ab178cc76146e373c0061550c89c07]: Textual amendment: S. 99(8) inserted (2.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 64(3)(b)](https://www.legislation.gov.uk/asp/2025/12/section/64/3/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-a7ab178cc76146e373c0061550c89c07]: Textual amendment: S. 99(8) inserted (2.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 64(3)(b)](https://www.legislation.gov.uk/asp/2025/12/section/64/3/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

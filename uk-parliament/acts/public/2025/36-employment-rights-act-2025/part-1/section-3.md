@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Right to payment for cancelled, moved and curtailed shifts[^key-69e38153abe11760057de323e8b79f82][^key-26d2e6348df55b13c29a0ce80ff5b566]
+## 3. Right to payment for cancelled, moved and curtailed shifts[^c-69e38153abe11760057de323e8b79f82][^c-26d2e6348df55b13c29a0ce80ff5b566]
 
 *Extent: E+W+S*
 
@@ -208,6 +208,6 @@ After section 27BO of the Employment Rights Act 1996 (inserted by section 2) ins
 
 ## Annotations
 
-[^key-69e38153abe11760057de323e8b79f82]: Commencement: S. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-69e38153abe11760057de323e8b79f82]: Commencement: S. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-26d2e6348df55b13c29a0ce80ff5b566]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/36/section/3) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/c)
+[^c-26d2e6348df55b13c29a0ce80ff5b566]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/36/section/3) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/c)

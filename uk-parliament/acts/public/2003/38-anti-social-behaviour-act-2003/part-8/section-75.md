@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Offences[^key-709f1adf4098ac69a59013cde50241d5][^key-6aac267bc0afd20a5abd8bed23af1e21]
+## 75. Offences[^c-709f1adf4098ac69a59013cde50241d5][^c-6aac267bc0afd20a5abd8bed23af1e21]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ the court may, in addition to or instead of imposing a punishment, order him to 
 
 ## Annotations
 
-[^key-709f1adf4098ac69a59013cde50241d5]: Commencement: S. 75 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-709f1adf4098ac69a59013cde50241d5]: Commencement: S. 75 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-6aac267bc0afd20a5abd8bed23af1e21]: Commencement: S. 75 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-6aac267bc0afd20a5abd8bed23af1e21]: Commencement: S. 75 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

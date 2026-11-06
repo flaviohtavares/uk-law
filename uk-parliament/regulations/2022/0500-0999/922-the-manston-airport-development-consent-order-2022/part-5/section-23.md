@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Subsoil or new rights only to be acquired in certain land[^key-1db9a2c964329ebce673358b176865c2]
+## 23. Subsoil or new rights only to be acquired in certain land[^c-1db9a2c964329ebce673358b176865c2]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1db9a2c964329ebce673358b176865c2]: Commencement: Art. 23 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-1db9a2c964329ebce673358b176865c2]: Commencement: Art. 23 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)

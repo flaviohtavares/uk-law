@@ -30,7 +30,7 @@ summary: ''
 
 (3) See, in particular, the exemptions under sections 777 (VAT repayment supplements) and 778 (incentives to use electronic communications).
 
-(4) The charges under this Part apply to non-UK residents as well as UK residents but this is subject to sections 6(1A), (2)[^key-e7efd95d82adfdd11e929c8b95269db2] and (3) and 243(3) and (4) (charges on non-UK residents only on UK income).
+(4) The charges under this Part apply to non-UK residents as well as UK residents but this is subject to sections 6(1A), (2)[^c-e7efd95d82adfdd11e929c8b95269db2] and (3) and 243(3) and (4) (charges on non-UK residents only on UK income).
 
 (5) The rest of this Part contains rules relevant to the charges to tax under this Part.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7efd95d82adfdd11e929c8b95269db2]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/3/4) substituted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 78(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/78/3) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))
+[^c-e7efd95d82adfdd11e929c8b95269db2]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/3/4) substituted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 78(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/78/3) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))

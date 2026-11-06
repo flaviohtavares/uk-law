@@ -46,7 +46,7 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1
 
-[^key-7b53be39b405afd234e8c3274e214e19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b53be39b405afd234e8c3274e214e19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -130,12 +130,12 @@ Coming into force in accordance with regulation 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b53be39b405afd234e8c3274e214e19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b53be39b405afd234e8c3274e214e19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b53be39b405afd234e8c3274e214e19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b53be39b405afd234e8c3274e214e19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b53be39b405afd234e8c3274e214e19]: Textual amendment: Regulations revoked (9.3.2018) by [The Fulfilment Businesses Regulations 2018 (S.I. 2018/326)](https://www.legislation.gov.uk/uksi/2018/326), [reg. 19](https://www.legislation.gov.uk/uksi/2018/326/regulation/19)
+[^c-7b53be39b405afd234e8c3274e214e19]: Textual amendment: Regulations revoked (9.3.2018) by [The Fulfilment Businesses Regulations 2018 (S.I. 2018/326)](https://www.legislation.gov.uk/uksi/2018/326), [reg. 19](https://www.legislation.gov.uk/uksi/2018/326/regulation/19)

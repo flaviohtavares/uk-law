@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Choice of reporter for National Park proposals[^key-ee81b38cf2775dc2569d2767edff4148][^key-87f3a379239dcdef82112940999a2c94]
+## 6. Choice of reporter for National Park proposals[^c-ee81b38cf2775dc2569d2767edff4148][^c-87f3a379239dcdef82112940999a2c94]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee81b38cf2775dc2569d2767edff4148]: Commencement: S. 6 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-ee81b38cf2775dc2569d2767edff4148]: Commencement: S. 6 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-87f3a379239dcdef82112940999a2c94]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/6/section/6) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/d)
+[^c-87f3a379239dcdef82112940999a2c94]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/6/section/6) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/d)

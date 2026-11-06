@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — ACCESS TO WORKS[^key-5de99d5d12a264413614c05513f1fda9]
+## SCHEDULE 3 — ACCESS TO WORKS[^c-5de99d5d12a264413614c05513f1fda9]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ Article 12
 
 ## Annotations
 
-[^key-5de99d5d12a264413614c05513f1fda9]: Commencement: Sch. 3 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-5de99d5d12a264413614c05513f1fda9]: Commencement: Sch. 3 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f01000]: Footnote: (\*)
 

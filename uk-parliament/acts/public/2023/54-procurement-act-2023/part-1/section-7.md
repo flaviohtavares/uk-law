@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Defence and security contracts[^key-ed26c320e2b3b00c5e32a99c96a6332e][^key-e857286a3ebc1bf3dd707a1f24975a1d]
+## 7. Defence and security contracts[^c-ed26c320e2b3b00c5e32a99c96a6332e][^c-e857286a3ebc1bf3dd707a1f24975a1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed26c320e2b3b00c5e32a99c96a6332e]: Commencement: S. 7 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-ed26c320e2b3b00c5e32a99c96a6332e]: Commencement: S. 7 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-e857286a3ebc1bf3dd707a1f24975a1d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/54/section/7) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-e857286a3ebc1bf3dd707a1f24975a1d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/54/section/7) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

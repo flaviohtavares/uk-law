@@ -24,7 +24,7 @@ summary: ''
 
 - (a) provides for trade loss relief against general income (see sections 64 to 70),
 - (b) provides for early trade losses relief (see sections 72 to 74),
-- (c) contains provision restricting both those reliefs and capital gains relief (see sections 74ZA[^key-9ab5e17951d6376260ff2d7f1844e8c8] to 82),
+- (c) contains provision restricting both those reliefs and capital gains relief (see sections 74ZA[^c-9ab5e17951d6376260ff2d7f1844e8c8] to 82),
 - (d) provides for carry-forward trade loss relief (see sections 83 to 88),
 - (e) provides for terminal trade loss relief (see sections 89 to 94),
 - (f) contains restrictions on the above reliefs for trades, professions and vocations carried on wholly outside the United Kingdom (see section 95), and
@@ -34,8 +34,8 @@ summary: ''
 
 (3) For a rule treating an individual as starting or permanently ceasing to carry on a trade, profession or vocation for income tax purposes (including those of this Part), see—
 
-- (a) section 17 of ITTOIA 2005 (effect of becoming or ceasing to be a UK resident),[^key-47c1191abff2de6995ba3a71e07307de]...
-- (b)[^key-47c1191abff2de6995ba3a71e07307de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 17 of ITTOIA 2005 (effect of becoming or ceasing to be a UK resident),[^c-47c1191abff2de6995ba3a71e07307de]...
+- (b)[^c-47c1191abff2de6995ba3a71e07307de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of this Chapter sideways relief is—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ab5e17951d6376260ff2d7f1844e8c8]: Textual amendment: Words in s. 60(1)(c) substituted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/2)
+[^c-9ab5e17951d6376260ff2d7f1844e8c8]: Textual amendment: Words in s. 60(1)(c) substituted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/2)
 
-[^key-47c1191abff2de6995ba3a71e07307de]: Textual amendment: [S. 60(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/60/3/b) and word omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 40](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/40), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-47c1191abff2de6995ba3a71e07307de]: Textual amendment: [S. 60(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/60/3/b) and word omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 40](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/40), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

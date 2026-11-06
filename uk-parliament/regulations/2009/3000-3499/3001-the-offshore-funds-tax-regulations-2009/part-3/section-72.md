@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Treatment of reporting funds operating equalisation arrangements[^key-38f73548b9a90f26196bbed758f469f9]
+## 72. Treatment of reporting funds operating equalisation arrangements[^c-38f73548b9a90f26196bbed758f469f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38f73548b9a90f26196bbed758f469f9]: Textual amendment: Reg. 72 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2011/1211/regulation/9)
+[^c-38f73548b9a90f26196bbed758f469f9]: Textual amendment: Reg. 72 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2011/1211/regulation/9)

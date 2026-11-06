@@ -24,19 +24,19 @@ summary: ''
 
 #### Duty of Council to facilitate the carrying into effect of section 15 and this Schedule
 
-**1.**[^key-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Final accounts of the Council
 
-**2.**[^key-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Disposal of confidential documents belonging to the Council
 
-**3.**[^key-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Continuance of Council until residual functions completed to Secretary of State’s satisfaction
 
-**4.**[^key-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2aed97e6bc76f535eab6a4173e54042e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Modification of agreements and documents
 
@@ -51,13 +51,13 @@ summary: ''
 
 **6.** (1) Where any right, liability or obligation is transferred to the Secretary of State by virtue of section 15(1)(b) or paragraph 4(2)(b), he and all other persons have the same rights, powers and remedies (and, in particular, the same rights as to the taking or resisting of legal proceedings) for ascertaining, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of the Secretary of State.
 
-(2)[^key-87713a006cc6275578bdaeccd7c195f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-87713a006cc6275578bdaeccd7c195f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-35c84cf6393b28ee6ce4cab0930c33cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-35c84cf6393b28ee6ce4cab0930c33cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Compensation for loss of office
 
-**7.**[^key-a0c3489743a8482df29a031f9750e8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a0c3489743a8482df29a031f9750e8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Compensation for loss of employment
 
@@ -125,7 +125,7 @@ and any notice served by the Council under the said section 41 and not complied 
 
 #### Pending proceedings for harbour reorganisation scheme
 
-**12.**[^key-34610bdf3f1fc790479a46e9c79d38f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-34610bdf3f1fc790479a46e9c79d38f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c858948]
 
@@ -219,13 +219,13 @@ and such an order may contain such supplementary and incidental provisions as ap
 
 ## Annotations
 
-[^key-2aed97e6bc76f535eab6a4173e54042e]: Textual amendment: [Sch. 5 paras. 1-4](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
+[^c-2aed97e6bc76f535eab6a4173e54042e]: Textual amendment: [Sch. 5 paras. 1-4](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
 
-[^key-87713a006cc6275578bdaeccd7c195f7]: Textual amendment: [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/6/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
+[^c-87713a006cc6275578bdaeccd7c195f7]: Textual amendment: [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/6/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
 
-[^key-35c84cf6393b28ee6ce4cab0930c33cb]: Textual amendment: [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/6/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
+[^c-35c84cf6393b28ee6ce4cab0930c33cb]: Textual amendment: [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/6/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
 
-[^key-a0c3489743a8482df29a031f9750e8b1]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
+[^c-a0c3489743a8482df29a031f9750e8b1]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
 
 [^c858941]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
@@ -239,7 +239,7 @@ and such an order may contain such supplementary and incidental provisions as ap
 
 [^c858947]: Marginal citation: [1972 c. 16](https://www.legislation.gov.uk/ukpga/1972/16).
 
-[^key-34610bdf3f1fc790479a46e9c79d38f9]: Textual amendment: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
+[^c-34610bdf3f1fc790479a46e9c79d38f9]: Textual amendment: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
 
 [^c858948]: Textual amendment: Sch. 5 Pt. I paras. 13, 14(6) repealed by [Dock Work Act 1989 (c. 13, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/13), [s. 7(1)](https://www.legislation.gov.uk/ukpga/1989/13/section/7/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/13/schedule/1/part/I)
 

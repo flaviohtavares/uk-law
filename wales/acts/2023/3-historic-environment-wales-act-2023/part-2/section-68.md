@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Power of entry for survey and valuation in connection with claim for compensation[^key-a8018a29ace5a3453a5a20ded7b903ea][^key-fa365113723d6632d9f0f0ba1f46557e]
+## 68. Power of entry for survey and valuation in connection with claim for compensation[^c-a8018a29ace5a3453a5a20ded7b903ea][^c-fa365113723d6632d9f0f0ba1f46557e]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8018a29ace5a3453a5a20ded7b903ea]: Commencement: S. 68 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a8018a29ace5a3453a5a20ded7b903ea]: Commencement: S. 68 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-fa365113723d6632d9f0f0ba1f46557e]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2023/3/section/68) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-fa365113723d6632d9f0f0ba1f46557e]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2023/3/section/68) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

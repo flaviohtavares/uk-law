@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. The making of a claim to the Commissioners[^key-502fdc42dc05b46979d4cb5e159a6332]
+## 157. The making of a claim to the Commissioners[^c-502fdc42dc05b46979d4cb5e159a6332]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-502fdc42dc05b46979d4cb5e159a6332]: Textual amendment: [Pt. 18](https://www.legislation.gov.uk/uksi/1995/2518/part/XVIII) revoked (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [9](https://www.legislation.gov.uk/uksi/1997/1086/regulation/9)
+[^c-502fdc42dc05b46979d4cb5e159a6332]: Textual amendment: [Pt. 18](https://www.legislation.gov.uk/uksi/1995/2518/part/XVIII) revoked (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [9](https://www.legislation.gov.uk/uksi/1997/1086/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Grants to the body[^key-bb8f3cc103bf7a616564d5d97244a9c5]
+## 22. Grants to the body[^c-bb8f3cc103bf7a616564d5d97244a9c5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb8f3cc103bf7a616564d5d97244a9c5]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/1999/859/article/22) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-bb8f3cc103bf7a616564d5d97244a9c5]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/1999/859/article/22) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

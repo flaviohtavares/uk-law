@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Effect of prohibitions etc in relation to subsidy schemes[^key-30de86d702a3f0b4b95f537813015c59][^key-13b549126ee6b059da17e10e22befd72]
+## 30. Effect of prohibitions etc in relation to subsidy schemes[^c-30de86d702a3f0b4b95f537813015c59][^c-13b549126ee6b059da17e10e22befd72]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30de86d702a3f0b4b95f537813015c59]: Commencement: S. 30 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-30de86d702a3f0b4b95f537813015c59]: Commencement: S. 30 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-13b549126ee6b059da17e10e22befd72]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/23/section/30) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-13b549126ee6b059da17e10e22befd72]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/23/section/30) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

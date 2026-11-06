@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Exceptions to requirements in relation to publication of notice, inspection of copies and availability of copies for the period from 24th December 2020 to 30th June 2021[^key-36bb8cc05b0081d6a9ff0980f7a58c5f]
+## 25A. Exceptions to requirements in relation to publication of notice, inspection of copies and availability of copies for the period from 24th December 2020 to 30th June 2021[^c-36bb8cc05b0081d6a9ff0980f7a58c5f]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ whichever is the later.
 
 ## Annotations
 
-[^key-36bb8cc05b0081d6a9ff0980f7a58c5f]: Textual amendment: [Regs. 25A](https://www.legislation.gov.uk/uksi/2017/571/regulation/25A), [25B](https://www.legislation.gov.uk/uksi/2017/571/regulation/25B) inserted (temp.until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/12/2) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))
+[^c-36bb8cc05b0081d6a9ff0980f7a58c5f]: Textual amendment: [Regs. 25A](https://www.legislation.gov.uk/uksi/2017/571/regulation/25A), [25B](https://www.legislation.gov.uk/uksi/2017/571/regulation/25B) inserted (temp.until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/12/2) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))

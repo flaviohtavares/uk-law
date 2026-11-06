@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 63
 
-### 1. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-0a70f13a265c6a832878583d2b9bcb6e]
+### 1. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-0a70f13a265c6a832878583d2b9bcb6e]
 
 (1) The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00124] are amended in accordance with sub-paragraph (2).
 
@@ -49,7 +49,7 @@ Regulation 63
 
     .
 
-### 2. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^key-e3682b5812f7674d98651b42663f0d15]
+### 2. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^c-e3682b5812f7674d98651b42663f0d15]
 
 In regulation 2A of the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00127] (collective money purchase scheme during winding-up) for paragraph (2) substitute—
 
@@ -62,7 +62,7 @@ In regulation 2A of the Occupational Pension Schemes (Transfer Values) Regulatio
 
 .
 
-### 3. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^key-a881b1c234ebc1d686c00df0b0f9ffda]
+### 3. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^c-a881b1c234ebc1d686c00df0b0f9ffda]
 
 In regulation 8 of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00128] (exemptions from the inalienability and forfeiture provisions)—
 
@@ -88,7 +88,7 @@ In regulation 8 of the Occupational Pension Schemes (Assignment, Forfeiture, Ban
 
   .
 
-### 4. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^key-15708c6d3332c6e845c93b80f3f84655]
+### 4. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^c-15708c6d3332c6e845c93b80f3f84655]
 
 In regulation 10 of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00129] (listed changes: exclusions)—
 
@@ -115,7 +115,7 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
     .
 
-### 5. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^key-dff3d5743d5026af7b27f0b3676c406a]
+### 5. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^c-dff3d5743d5026af7b27f0b3676c406a]
 
 (1) The Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006[^f00131] are amended in accordance with sub-paragraphs (2) and (3).
 
@@ -153,7 +153,7 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
   .
 
-### 6. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-427c225555b35ec7ff2a4aeab8ddfcf8]
+### 6. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-427c225555b35ec7ff2a4aeab8ddfcf8]
 
 (1) The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00134] are amended in accordance with sub-paragraphs (2) to (5).
 
@@ -206,7 +206,7 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
 ## Annotations
 
-[^key-0a70f13a265c6a832878583d2b9bcb6e]: Commencement: Sch. 7 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-0a70f13a265c6a832878583d2b9bcb6e]: Commencement: Sch. 7 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00124]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); regulation 12A was inserted by regulation 2 of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
@@ -214,21 +214,21 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
 [^f00126]: Footnote: Section 52(3) is inserted by regulation 3(1) of these Regulations
 
-[^key-e3682b5812f7674d98651b42663f0d15]: Commencement: Sch. 7 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-e3682b5812f7674d98651b42663f0d15]: Commencement: Sch. 7 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00127]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619); regulation 2A was inserted by regulation 3 of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
-[^key-a881b1c234ebc1d686c00df0b0f9ffda]: Commencement: Sch. 7 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-a881b1c234ebc1d686c00df0b0f9ffda]: Commencement: Sch. 7 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00128]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); regulation 8(7A) and (9) were inserted by regulation 5 of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
-[^key-15708c6d3332c6e845c93b80f3f84655]: Commencement: Sch. 7 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-15708c6d3332c6e845c93b80f3f84655]: Commencement: Sch. 7 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00129]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48); relevant amending Regulations are [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
 [^f00130]: Footnote: Sub-paragraph (ad) was inserted by regulation 11 of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
-[^key-dff3d5743d5026af7b27f0b3676c406a]: Commencement: Sch. 7 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-dff3d5743d5026af7b27f0b3676c406a]: Commencement: Sch. 7 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00131]: Footnote: [S.R. 2006 No. 149](https://www.legislation.gov.uk/nisr/2006/149); relevant amending Regulations are [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
@@ -236,7 +236,7 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
 [^f00133]: Footnote: Sub-paragraphs (k) and (l) were added by regulation 12 of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
-[^key-427c225555b35ec7ff2a4aeab8ddfcf8]: Commencement: Sch. 7 para. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-427c225555b35ec7ff2a4aeab8ddfcf8]: Commencement: Sch. 7 para. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00134]: Footnote: [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79); relevant amending Regulations are [S.R. 2015 No. 154](https://www.legislation.gov.uk/nisr/2015/154) and [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 

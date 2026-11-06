@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.19. Notice to a party’s agent sufficient[^key-76078893980c50a53c025da4f7a8374c]
+## 3.11.19. Notice to a party’s agent sufficient[^c-76078893980c50a53c025da4f7a8374c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a party to proceedings under this Part is represented by a solicitor any r
 
 ## Annotations
 
-[^key-76078893980c50a53c025da4f7a8374c]: Commencement: Rule 3.11.19 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-76078893980c50a53c025da4f7a8374c]: Commencement: Rule 3.11.19 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

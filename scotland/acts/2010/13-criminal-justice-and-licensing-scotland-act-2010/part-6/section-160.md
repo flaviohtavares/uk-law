@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. Means of disclosure[^key-2498183eae319a5dc60408b1f97f0281]
+## 160. Means of disclosure[^c-2498183eae319a5dc60408b1f97f0281]
 
 *Extent: S*
 
@@ -46,16 +46,16 @@ summary: ''
 
 (9) In this section—
 
-- “[^key-77bc740efe27a24c79fd308bfca2fa08] **accused** ” includes—
+- “[^c-77bc740efe27a24c79fd308bfca2fa08] **accused** ” includes—
   - ((a)) appellant or, in any case relating to section 136(2), 137(2) or 138(2), other person to whom the section concerned applies, and
   - ((b)) respondent,
 - “**appellant**” has the meaning given by section 132.
-- “[^key-758930778992dcc3045ce23d7607e355] **respondent** ” has the meaning given by section 140A.
+- “[^c-758930778992dcc3045ce23d7607e355] **respondent** ” has the meaning given by section 140A.
 
 ## Annotations
 
-[^key-2498183eae319a5dc60408b1f97f0281]: Commencement: S. 160 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-2498183eae319a5dc60408b1f97f0281]: Commencement: S. 160 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-77bc740efe27a24c79fd308bfca2fa08]: Textual amendment: Words in s. 160(9) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 31(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/31/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-77bc740efe27a24c79fd308bfca2fa08]: Textual amendment: Words in s. 160(9) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 31(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/31/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-758930778992dcc3045ce23d7607e355]: Textual amendment: Words in s. 160(9) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 31(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/31/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-758930778992dcc3045ce23d7607e355]: Textual amendment: Words in s. 160(9) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 31(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/31/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

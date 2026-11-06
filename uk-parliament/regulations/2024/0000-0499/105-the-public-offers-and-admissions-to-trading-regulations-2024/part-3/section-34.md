@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Powers exercisable to protect investors or advance FCA’s operational objectives[^key-70bd3c6706ff73a95ab246354d5c6c4d]
+## 34. Powers exercisable to protect investors or advance FCA’s operational objectives[^c-70bd3c6706ff73a95ab246354d5c6c4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70bd3c6706ff73a95ab246354d5c6c4d]: Commencement: Reg. 34 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-70bd3c6706ff73a95ab246354d5c6c4d]: Commencement: Reg. 34 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00035]: Footnote: Section 71O is inserted by section 8(2) of the Financial Services and Markets Act 2023.

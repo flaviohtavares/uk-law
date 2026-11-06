@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Removal of interim remand patients to and from Channel Islands or Isle of Man[^key-7bc3bffb601fb61d5c1199062d393673]
+## 50. Removal of interim remand patients to and from Channel Islands or Isle of Man[^c-7bc3bffb601fb61d5c1199062d393673]
 
 *Extent: E+W+S+N.I.*
 
@@ -164,4 +164,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bc3bffb601fb61d5c1199062d393673]: Commencement: S. 50 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-7bc3bffb601fb61d5c1199062d393673]: Commencement: S. 50 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

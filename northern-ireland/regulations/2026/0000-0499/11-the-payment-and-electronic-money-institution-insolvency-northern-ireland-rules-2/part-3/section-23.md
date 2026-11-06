@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Expenses of statement of affairs[^key-4d79b3503cccb5bad22667d9a528c620]
+## 23. Expenses of statement of affairs[^c-4d79b3503cccb5bad22667d9a528c620]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d79b3503cccb5bad22667d9a528c620]: Commencement: [Rule 23](https://www.legislation.gov.uk/nisr/2026/11/rule/23) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4d79b3503cccb5bad22667d9a528c620]: Commencement: [Rule 23](https://www.legislation.gov.uk/nisr/2026/11/rule/23) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

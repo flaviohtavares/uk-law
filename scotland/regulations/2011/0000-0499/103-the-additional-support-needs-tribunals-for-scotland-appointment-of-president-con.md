@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Additional Support Needs Tribunals for Scotland (Appointment of President, Conveners and Members and Disqualification) Amendment Regulations 2011 (revoked)[^key-af4eb7de83fea0eb970125c262d9ff1e]
+The Additional Support Needs Tribunals for Scotland (Appointment of President, Conveners and Members and Disqualification) Amendment Regulations 2011 (revoked)[^c-af4eb7de83fea0eb970125c262d9ff1e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 18th March 2011
 
-[^key-af4eb7de83fea0eb970125c262d9ff1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af4eb7de83fea0eb970125c262d9ff1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-af4eb7de83fea0eb970125c262d9ff1e]
+## 1. Citation and commencement[^c-af4eb7de83fea0eb970125c262d9ff1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Additional Support Needs Tribunal for Scotland (Appointment of President, Conveners and Members and Disqualification) Regulations 2005[^key-af4eb7de83fea0eb970125c262d9ff1e]
+## 2. Amendment of the Additional Support Needs Tribunal for Scotland (Appointment of President, Conveners and Members and Disqualification) Regulations 2005[^c-af4eb7de83fea0eb970125c262d9ff1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af4eb7de83fea0eb970125c262d9ff1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af4eb7de83fea0eb970125c262d9ff1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-af4eb7de83fea0eb970125c262d9ff1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af4eb7de83fea0eb970125c262d9ff1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af4eb7de83fea0eb970125c262d9ff1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/103) lapsed by virtue of the repeal of enabling provision 2004 asp 4, sch. 1 para. 3(1)(b) (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 3(14)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/3/14)
+[^c-af4eb7de83fea0eb970125c262d9ff1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/103) lapsed by virtue of the repeal of enabling provision 2004 asp 4, sch. 1 para. 3(1)(b) (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 3(14)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/3/14)

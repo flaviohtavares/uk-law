@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Fees[^key-c984201fc3937f63377450695ba87c32]
+## 16. Fees[^c-c984201fc3937f63377450695ba87c32]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 (fees) has effect.
 
 ## Annotations
 
-[^key-c984201fc3937f63377450695ba87c32]: Commencement: Reg. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-c984201fc3937f63377450695ba87c32]: Commencement: Reg. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

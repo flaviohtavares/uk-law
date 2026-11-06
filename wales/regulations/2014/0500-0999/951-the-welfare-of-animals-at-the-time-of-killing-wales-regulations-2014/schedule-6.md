@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 43
 
-### 1. The Meat (Official Controls Charges) (Wales) Regulations 2009[^key-76a37fc309e2f5758b9ad9ec6a5d33cb]
+### 1. The Meat (Official Controls Charges) (Wales) Regulations 2009[^c-76a37fc309e2f5758b9ad9ec6a5d33cb]
 
 (1) The Meat (Official Controls Charges) (Wales) Regulations 2009[^f00019] are amended as follows.
 
@@ -33,6 +33,6 @@ Regulation 43
 
 ## Annotations
 
-[^key-76a37fc309e2f5758b9ad9ec6a5d33cb]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/6/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-76a37fc309e2f5758b9ad9ec6a5d33cb]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/6/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
 [^f00019]: Footnote: [S.I. 2009/1557 (W.152)](https://www.legislation.gov.uk/wsi/2009/1557).

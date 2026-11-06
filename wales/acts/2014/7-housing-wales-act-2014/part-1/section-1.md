@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Overview of this Part[^key-3bc3100106f9b15b405dde0fdb611ce1]
+## 1. Overview of this Part[^c-3bc3100106f9b15b405dde0fdb611ce1]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ by means of a system of registration and licensing.
 
 ## Annotations
 
-[^key-3bc3100106f9b15b405dde0fdb611ce1]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2014/7/section/1) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/a)
+[^c-3bc3100106f9b15b405dde0fdb611ce1]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2014/7/section/1) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/a)

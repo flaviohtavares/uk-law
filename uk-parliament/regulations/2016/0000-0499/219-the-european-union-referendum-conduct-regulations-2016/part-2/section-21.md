@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Notification that certain electors entitled to absent vote[^key-be812a0d3a43a55fda817c91d6b37b38]
+## 21. Notification that certain electors entitled to absent vote[^c-be812a0d3a43a55fda817c91d6b37b38]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-be812a0d3a43a55fda817c91d6b37b38]: Commencement: Reg. 21 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-be812a0d3a43a55fda817c91d6b37b38]: Commencement: Reg. 21 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00020]: Footnote: [2000 c.2](https://www.legislation.gov.uk/ukpga/2000/2). Paragraph 3 of Schedule 4 was amended by paragraph 164(1) and (2) of Schedule 27 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33); section 14 of, and paragraphs 19, 20 137(1) and (4) of Schedule 1 to, the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); and sections 20(c)(i) and 34(5) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
 

@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred on it by Articles 17(1) to (6)[^f00003] and 55(2) of, and paragraphs 1(1) and (2), 2(2), 5(1), 6, 7, 8, 9, 10, 12(1) and (3), 13, 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00004] and of every other power enabling it in that behalf and for the purpose of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A) of that Order[^f00005] after the carrying out by the said Executive of consultations in accordance with Article 46(3) of that Order[^f00006], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-9b155f672147416241d85f63009ead32]
+## 1. Citation and commencement[^c-9b155f672147416241d85f63009ead32]
 
 These Regulations may be cited as the Control of Lead at Work Regulations (Northern Ireland) 2003 and shall come into operation on 28th February 2003.
 
-## 2. Interpretation[^key-78137fbb88f745cf15cbf24760b6df4c]
+## 2. Interpretation[^c-78137fbb88f745cf15cbf24760b6df4c]
 
 (1) In these Regulations:
 
@@ -114,7 +114,7 @@ These Regulations may be cited as the Control of Lead at Work Regulations (North
 
 is a reference to exposure to or, as the case may be, contamination by lead arising out of or in connection with work at the workplace.
 
-## 3. Duties under these Regulations[^key-a0d7f7e4037dc34b9aff118b26bcb671]
+## 3. Duties under these Regulations[^c-a0d7f7e4037dc34b9aff118b26bcb671]
 
 (1) Where a duty is placed by these Regulations on an employer in respect of his employees, he shall, so far as is reasonably practicable, be under a like duty in respect of any other person, whether at work or not, who may be affected by the work carried out by the employer except that the duties of the employer–
 
@@ -125,13 +125,13 @@ is a reference to exposure to or, as the case may be, contamination by lead aris
 
 (3) The duties imposed by these Regulations shall not extend to the master or crew of a sea-going ship or to the employer of such persons in relation to the normal shipboard activities of a ship’s crew under the direction of the master.
 
-## 4. Prohibitions[^key-5ad57a4dfd3ba4c30efcacb13f25bfbb]
+## 4. Prohibitions[^c-5ad57a4dfd3ba4c30efcacb13f25bfbb]
 
 (1) An employer shall not use a glaze other than a leadless glaze or a low solubility glaze in the manufacture of pottery.
 
 (2) An employer shall not employ a young person or a woman of reproductive capacity in any activity specified in Schedule 1.
 
-## 5. Assessment of the risk to health created by work involving lead[^key-6efd9c761f3600ea5d3a507bf3926c97]
+## 5. Assessment of the risk to health created by work involving lead[^c-6efd9c761f3600ea5d3a507bf3926c97]
 
 (1) An employer shall not carry out work which is liable to expose any employees to lead unless he has–
 
@@ -167,7 +167,7 @@ and where, as a result of the review, changes to the risk assessment are require
 - (a) the significant findings of the risk assessment as soon as is practicable after the risk assessment is made; and
 - (b) the steps which he has taken to meet the requirements of regulation 6.
 
-## 6. Prevention or control of exposure to lead[^key-3d69253679acf14015908e9cd82c603d]
+## 6. Prevention or control of exposure to lead[^c-3d69253679acf14015908e9cd82c603d]
 
 (1) Every employer shall ensure that the exposure of his employees to lead is either prevented or, where this is not reasonably practicable, adequately controlled.
 
@@ -211,7 +211,7 @@ and where, as a result of the review, changes to the risk assessment are require
 
 (10) In this regulation, “adequate” means adequate having regard only to the nature and degree of exposure to lead and “adequately” shall be construed accordingly.
 
-## 7. Eating, drinking and smoking[^key-cbbb9848ab94d92e8f2b126bcaa8d098]
+## 7. Eating, drinking and smoking[^c-cbbb9848ab94d92e8f2b126bcaa8d098]
 
 (1) Every employer shall ensure, so far as is reasonably practicable, that his employees do not eat, drink or smoke in any place which is, or is liable to be, contaminated by lead.
 
@@ -219,7 +219,7 @@ and where, as a result of the review, changes to the risk assessment are require
 
 (3) Nothing in this regulation shall prevent the provision and use of drinking facilities in a place which is liable to be contaminated by lead provided such facilities are not liable to be contaminated by lead and where they are required for the welfare of employees who are exposed to lead.
 
-## 8. Maintenance, examination and testing of control measures[^key-9a44b81617806030b8f31007e6f354f7]
+## 8. Maintenance, examination and testing of control measures[^c-9a44b81617806030b8f31007e6f354f7]
 
 (1) Every employer who provides any control measure to meet the requirements of regulation 6 shall ensure that, where relevant, it is maintained in an efficient state, in efficient working order, in good repair and in a clean condition.
 
@@ -242,7 +242,7 @@ and where, as a result of the review, changes to the risk assessment are require
 
 (7) The employer shall ensure that the equipment referred to in paragraph (6) is subsequently decontaminated and cleaned or, if necessary, destroyed.
 
-## 9. Air monitoring[^key-9e692b46de77b9a80ba4d38660f8bbf3]
+## 9. Air monitoring[^c-9e692b46de77b9a80ba4d38660f8bbf3]
 
 (1) Where the risk assessment indicates that any of his employees are liable to receive significant exposure to lead, the employer shall ensure that the concentration of lead in air to which his employees are exposed is measured in accordance with a suitable procedure.
 
@@ -263,7 +263,7 @@ and where, as a result of the review, changes to the risk assessment are require
 - (b) provide the Executive with copies of such monitoring records as the Executive may require; and
 - (c) if he ceases to trade, notify the Executive forthwith in writing and make available to the Executive all monitoring records kept by him.
 
-## 10. Medical surveillance[^key-e78fadf10a837c535bf37a0aaf9416df]
+## 10. Medical surveillance[^c-e78fadf10a837c535bf37a0aaf9416df]
 
 (1) Every employer shall ensure that each of his employees who is or is liable to be exposed to lead is under suitable medical surveillance by a relevant doctor where–
 
@@ -332,7 +332,7 @@ and the technique of investigation is of low risk to the employee.
 
 the employee or employer may, by an application in writing to the Executive within 28 days of the date upon which the decision was notified to the employee or employer as the case may be, apply for that decision to be reviewed in accordance with a procedure approved for the purposes of this paragraph, and the result of that review shall be notified to the employee and employer and entered in the health record in accordance with the approved procedure.
 
-## 11. Information, instruction and training[^key-4a93eb10a60fcf9a6994e31c18d1da18]
+## 11. Information, instruction and training[^c-4a93eb10a60fcf9a6994e31c18d1da18]
 
 (1) Every employer who undertakes work which is liable to expose an employee to lead shall provide that employee with suitable and sufficient information, instruction and training.
 
@@ -357,7 +357,7 @@ the employee or employer may, by an application in writing to the Executive with
 
 (5) Where containers and pipes for lead used at work are not marked in accordance with any relevant legislation listed in Schedule 2, the employer shall, without prejudice to any derogations provided for in that legislation, ensure that the contents of those containers and pipes, together with the nature of those contents and any associated hazards, are clearly identifiable.
 
-## 12. Arrangements to deal with accidents, incidents and emergencies[^key-f0d15bce3411b2c0ce7ddb4bcefae6db]
+## 12. Arrangements to deal with accidents, incidents and emergencies[^c-f0d15bce3411b2c0ce7ddb4bcefae6db]
 
 (1) Subject to paragraph (4) and without prejudice to the relevant provisions of the Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^f00012], in order to protect the health of his employees from an accident, incident or emergency related to the presence of lead at the workplace, the employer shall ensure that–
 
@@ -391,7 +391,7 @@ the employee or employer may, by an application in writing to the Executive with
 - (a) the results of the risk assessment show that, because of the quantity of lead present at the workplace, there is only a slight risk to the health of employees; and
 - (b) the measures taken by the employer to comply with the duty under regulation 6(1) are sufficient to control that risk.
 
-## 13. Exemption certificates[^key-8b10109bc37b8268a77a8f6cb427f1b1]
+## 13. Exemption certificates[^c-8b10109bc37b8268a77a8f6cb427f1b1]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from all or any of the requirements or prohibitions imposed by regulations 4, 7, 8, 9(2) and (3) and 10(7) and (11) to (15) of these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
 
@@ -402,11 +402,11 @@ the employee or employer may, by an application in writing to the Executive with
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-## 14. Application within the territorial sea[^key-d651139bb07650f4c61d79d0bf20c6da]
+## 14. Application within the territorial sea[^c-d651139bb07650f4c61d79d0bf20c6da]
 
 Within the territorial sea these Regulations shall apply only to and in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 3 applies.
 
-## 15. Revocation and savings[^key-1d9d8d16303431e4975daf3f4275d420]
+## 15. Revocation and savings[^c-1d9d8d16303431e4975daf3f4275d420]
 
 (1) The Control of Lead at Work Regulations (Northern Ireland) 1998[^f00013] are hereby revoked.
 
@@ -424,12 +424,12 @@ Department of Enterprise, Trade and Investment
 
 Regulation 4(2)
 
-**1.**[^key-a627ec1b67924156c52e2aaa55ed1a0a] In lead smelting and refining processes–
+**1.**[^c-a627ec1b67924156c52e2aaa55ed1a0a] In lead smelting and refining processes–
 
 - (a) work involving the handling, treatment, sintering, smelting or refining of ores or materials containing not less than 5 per cent lead; and
 - (b) the cleaning of any place where any of the above processes are carried out.
 
-**2.**[^key-4ee67a74dc2a2904736eb4bc51c6b04c] In lead-acid battery manufacturing processes–
+**2.**[^c-4ee67a74dc2a2904736eb4bc51c6b04c] In lead-acid battery manufacturing processes–
 
 - (a) the manipulation of lead oxides;
 - (b) mixing or pasting in connection with the manufacture or repair of lead-acid batteries;
@@ -437,9 +437,9 @@ Regulation 4(2)
 - (d) the trimming, abrading or cutting of pasted plates in connection with the manufacture or repair of lead-acid batteries; and
 - (e) the cleaning of any place where any of the above processes are carried out.
 
-**3.**[^key-b32b366b31626a90e6b08e7da16ad99c] In this Schedule, “lead oxides” means powdered lead oxides in the form of lead, lead monoxide, lead dioxide, red lead or any combination of lead used in oxide manufacture or lead-acid battery pasting processes.
+**3.**[^c-b32b366b31626a90e6b08e7da16ad99c] In this Schedule, “lead oxides” means powdered lead oxides in the form of lead, lead monoxide, lead dioxide, red lead or any combination of lead used in oxide manufacture or lead-acid battery pasting processes.
 
-## SCHEDULE 2 — LEGISLATION CONCERNED WITH THE LABELLING OF CONTAINERS AND PIPES[^key-7992835adb872a0885587e724a308f72]
+## SCHEDULE 2 — LEGISLATION CONCERNED WITH THE LABELLING OF CONTAINERS AND PIPES[^c-7992835adb872a0885587e724a308f72]
 
 Regulation 11(5)
 
@@ -457,7 +457,7 @@ Regulation 11(5)
 
 Regulation 14
 
-### 1. Interpretation[^key-58df561f1400201f942ef1e6c3710833]
+### 1. Interpretation[^c-58df561f1400201f942ef1e6c3710833]
 
 (1) In this Schedule–
 
@@ -474,7 +474,7 @@ Regulation 14
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-8ec2b83979a5b63574941b10d50c39ae]
+### 2. Offshore installations[^c-8ec2b83979a5b63574941b10d50c39ae]
 
 (1) This paragraph shall apply to and in relation to–
 
@@ -503,7 +503,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-135a2011dba0db8e1f95e5a58ffad843]
+### 3. Wells[^c-135a2011dba0db8e1f95e5a58ffad843]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to–
 
@@ -512,7 +512,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-400ac17b5f3651bd94264e6922d026fc]
+### 4. Pipelines[^c-400ac17b5f3651bd94264e6922d026fc]
 
 (1) This paragraph applies to and in relation to–
 
@@ -544,13 +544,13 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving operation in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-a58c493e5f98efa1c8dcfe64b9340c84]
+### 5. Mines[^c-a58c493e5f98efa1c8dcfe64b9340c84]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00016].
 
-### 6. Other activities[^key-b8dba76c9774ff16caa626e974315bc0]
+### 6. Other activities[^c-b8dba76c9774ff16caa626e974315bc0]
 
 (1) Subject to paragraph (2), this paragraph applies to and in relation to–
 
@@ -603,9 +603,9 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 [^f00006]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18(c)
 
-[^key-9b155f672147416241d85f63009ead32]: Commencement: Reg. 1 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-9b155f672147416241d85f63009ead32]: Commencement: Reg. 1 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-78137fbb88f745cf15cbf24760b6df4c]: Commencement: Reg. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-78137fbb88f745cf15cbf24760b6df4c]: Commencement: Reg. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
@@ -615,60 +615,60 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 [^f00010]: Footnote: [S.R. 2003 No. 34](https://www.legislation.gov.uk/nisr/2003/34)
 
-[^key-a0d7f7e4037dc34b9aff118b26bcb671]: Commencement: Reg. 3 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-a0d7f7e4037dc34b9aff118b26bcb671]: Commencement: Reg. 3 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-5ad57a4dfd3ba4c30efcacb13f25bfbb]: Commencement: Reg. 4 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-5ad57a4dfd3ba4c30efcacb13f25bfbb]: Commencement: Reg. 4 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-6efd9c761f3600ea5d3a507bf3926c97]: Commencement: Reg. 5 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-6efd9c761f3600ea5d3a507bf3926c97]: Commencement: Reg. 5 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-3d69253679acf14015908e9cd82c603d]: Commencement: Reg. 6 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-3d69253679acf14015908e9cd82c603d]: Commencement: Reg. 6 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2002/1144](https://www.legislation.gov.uk/uksi/2002/1144)
 
-[^key-cbbb9848ab94d92e8f2b126bcaa8d098]: Commencement: Reg. 7 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-cbbb9848ab94d92e8f2b126bcaa8d098]: Commencement: Reg. 7 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-9a44b81617806030b8f31007e6f354f7]: Commencement: Reg. 8 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-9a44b81617806030b8f31007e6f354f7]: Commencement: Reg. 8 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-9e692b46de77b9a80ba4d38660f8bbf3]: Commencement: Reg. 9 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-9e692b46de77b9a80ba4d38660f8bbf3]: Commencement: Reg. 9 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-e78fadf10a837c535bf37a0aaf9416df]: Commencement: Reg. 10 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-e78fadf10a837c535bf37a0aaf9416df]: Commencement: Reg. 10 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-4a93eb10a60fcf9a6994e31c18d1da18]: Commencement: Reg. 11 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-4a93eb10a60fcf9a6994e31c18d1da18]: Commencement: Reg. 11 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-f0d15bce3411b2c0ce7ddb4bcefae6db]: Commencement: Reg. 12 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-f0d15bce3411b2c0ce7ddb4bcefae6db]: Commencement: Reg. 12 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
-[^key-8b10109bc37b8268a77a8f6cb427f1b1]: Commencement: Reg. 13 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-8b10109bc37b8268a77a8f6cb427f1b1]: Commencement: Reg. 13 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-d651139bb07650f4c61d79d0bf20c6da]: Commencement: Reg. 14 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-d651139bb07650f4c61d79d0bf20c6da]: Commencement: Reg. 14 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-1d9d8d16303431e4975daf3f4275d420]: Commencement: Reg. 15 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-1d9d8d16303431e4975daf3f4275d420]: Commencement: Reg. 15 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
 [^f00013]: Footnote: [S.R. 1998 No. 281](https://www.legislation.gov.uk/nisr/1998/281)
 
-[^key-a627ec1b67924156c52e2aaa55ed1a0a]: Commencement: Sch. 1 para. 1 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-a627ec1b67924156c52e2aaa55ed1a0a]: Commencement: Sch. 1 para. 1 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-4ee67a74dc2a2904736eb4bc51c6b04c]: Commencement: Sch. 1 para. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-4ee67a74dc2a2904736eb4bc51c6b04c]: Commencement: Sch. 1 para. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-b32b366b31626a90e6b08e7da16ad99c]: Commencement: Sch. 1 para. 3 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-b32b366b31626a90e6b08e7da16ad99c]: Commencement: Sch. 1 para. 3 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-7992835adb872a0885587e724a308f72]: Commencement: Sch. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-7992835adb872a0885587e724a308f72]: Commencement: Sch. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-58df561f1400201f942ef1e6c3710833]: Commencement: Sch. 3 para. 1 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-58df561f1400201f942ef1e6c3710833]: Commencement: Sch. 3 para. 1 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
 [^f00014]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas Enterprise Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
 [^f00015]: Footnote: [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146)
 
-[^key-8ec2b83979a5b63574941b10d50c39ae]: Commencement: Sch. 3 para. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-8ec2b83979a5b63574941b10d50c39ae]: Commencement: Sch. 3 para. 2 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-135a2011dba0db8e1f95e5a58ffad843]: Commencement: Sch. 3 para. 3 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-135a2011dba0db8e1f95e5a58ffad843]: Commencement: Sch. 3 para. 3 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-400ac17b5f3651bd94264e6922d026fc]: Commencement: Sch. 3 para. 4 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-400ac17b5f3651bd94264e6922d026fc]: Commencement: Sch. 3 para. 4 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
-[^key-a58c493e5f98efa1c8dcfe64b9340c84]: Commencement: Sch. 3 para. 5 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-a58c493e5f98efa1c8dcfe64b9340c84]: Commencement: Sch. 3 para. 5 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
 
 [^f00016]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-b8dba76c9774ff16caa626e974315bc0]: Commencement: Sch. 3 para. 6 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)
+[^c-b8dba76c9774ff16caa626e974315bc0]: Commencement: Sch. 3 para. 6 in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/35/regulation/1)

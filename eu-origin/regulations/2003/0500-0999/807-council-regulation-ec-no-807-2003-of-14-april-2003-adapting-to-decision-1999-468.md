@@ -914,7 +914,7 @@ Articles 72 and 73 shall be replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1eecb2798ed63b1f2d555b18ce28a0a6]49.
+[^c-1eecb2798ed63b1f2d555b18ce28a0a6]49.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1236,7 +1236,7 @@ Article 14 shall be replaced by the following:
 
 [^M_F_0a70ea0f-dc7c-4b4f-a9b9-97f3d4b8739e]: Textual amendment: Repealed by [Council Regulation (EC) No 207/2009 of 26 February 2009 on the European Union trade mark (codified version) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2009/207)
 
-[^key-1eecb2798ed63b1f2d555b18ce28a0a6]: Textual amendment: [Annex 3 para. 49](https://www.legislation.gov.uk/eur/2003/807/annex/3/paragraph/49) revoked (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1eecb2798ed63b1f2d555b18ce28a0a6]: Textual amendment: [Annex 3 para. 49](https://www.legislation.gov.uk/eur/2003/807/annex/3/paragraph/49) revoked (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00138]: Footnote: OJ L 309, 29.11.1996, p. 1.
 

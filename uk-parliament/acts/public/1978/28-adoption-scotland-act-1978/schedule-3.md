@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Consequential Amendments[^key-55bce8e377438f3483e51967ee86099e]
+## SCHEDULE 3 — Consequential Amendments[^c-55bce8e377438f3483e51967ee86099e]
 
 *Extent: S*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Section 66.
 
-### Children Act 1958 (c. 65)[^key-55bce8e377438f3483e51967ee86099e]
+### Children Act 1958 (c. 65)[^c-55bce8e377438f3483e51967ee86099e]
 
-**1—3.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1—3.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Legitimation (Scotland Act 1968 (c. 22)[^key-55bce8e377438f3483e51967ee86099e]
+### Legitimation (Scotland Act 1968 (c. 22)[^c-55bce8e377438f3483e51967ee86099e]
 
-**6.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Social Work (Scotland) Act 1968 (c. 49)[^key-55bce8e377438f3483e51967ee86099e]
+### Social Work (Scotland) Act 1968 (c. 49)[^c-55bce8e377438f3483e51967ee86099e]
 
-**8.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Children Act 1975 (c. 72)[^key-55bce8e377438f3483e51967ee86099e]
+### Children Act 1975 (c. 72)[^c-55bce8e377438f3483e51967ee86099e]
 
-**16.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-55bce8e377438f3483e51967ee86099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55bce8e377438f3483e51967ee86099e]: Textual amendment: Act repealed (except Pt. IV) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3) (with savings by [The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (No. 1) Order 2009 (S.I. 2009/2233)](https://www.legislation.gov.uk/uksi/2009/2233), [art. 2](https://www.legislation.gov.uk/uksi/2009/2233/article/2)); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))
+[^c-55bce8e377438f3483e51967ee86099e]: Textual amendment: Act repealed (except Pt. IV) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3) (with savings by [The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (No. 1) Order 2009 (S.I. 2009/2233)](https://www.legislation.gov.uk/uksi/2009/2233), [art. 2](https://www.legislation.gov.uk/uksi/2009/2233/article/2)); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210D. Application of Chapter 4 to real time returns of information about relevant payments of tax and associated matters[^key-ef185efac9e3c828bcb1277448c2767d]
+## 210D. Application of Chapter 4 to real time returns of information about relevant payments of tax and associated matters[^c-ef185efac9e3c828bcb1277448c2767d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 205(3) applies to the delivery of the following as if they were speci
 
 ## Annotations
 
-[^key-ef185efac9e3c828bcb1277448c2767d]: Textual amendment: [Pt. 10 Ch. 4A](https://www.legislation.gov.uk/uksi/2003/2682/part/10/chapter/4A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [49](https://www.legislation.gov.uk/uksi/2012/822/regulation/49)
+[^c-ef185efac9e3c828bcb1277448c2767d]: Textual amendment: [Pt. 10 Ch. 4A](https://www.legislation.gov.uk/uksi/2003/2682/part/10/chapter/4A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [49](https://www.legislation.gov.uk/uksi/2012/822/regulation/49)

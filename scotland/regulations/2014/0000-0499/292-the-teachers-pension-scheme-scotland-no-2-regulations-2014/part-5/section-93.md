@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Annual rate of phased retirement pension[^key-6c4c882c90ca9b4dbbff65d516b14c58]
+## 93. Annual rate of phased retirement pension[^c-6c4c882c90ca9b4dbbff65d516b14c58]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ The annual rate of phased retirement pension payable to a member (P) is found by
 
 ## Annotations
 
-[^key-6c4c882c90ca9b4dbbff65d516b14c58]: Commencement: [Reg. 93](https://www.legislation.gov.uk/ssi/2014/292/regulation/93) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-6c4c882c90ca9b4dbbff65d516b14c58]: Commencement: [Reg. 93](https://www.legislation.gov.uk/ssi/2014/292/regulation/93) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

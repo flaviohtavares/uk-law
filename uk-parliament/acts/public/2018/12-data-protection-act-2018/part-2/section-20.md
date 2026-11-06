@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Meaning of “court”[^key-809083dbfb858646f59b715b5eb1406c]
+## 20. Meaning of “court”[^c-809083dbfb858646f59b715b5eb1406c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-809083dbfb858646f59b715b5eb1406c]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2018/12/section/20) omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/15); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/y)
+[^c-809083dbfb858646f59b715b5eb1406c]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2018/12/section/20) omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/15); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/y)

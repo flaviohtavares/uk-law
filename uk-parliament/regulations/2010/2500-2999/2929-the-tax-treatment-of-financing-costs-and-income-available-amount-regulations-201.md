@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Tax Treatment of Financing Costs and Income (Available Amount) Regulations 2010 (revoked)[^key-b3d4e4e665da197367bc70cdb3a8d8c4]
+The Tax Treatment of Financing Costs and Income (Available Amount) Regulations 2010 (revoked)[^c-b3d4e4e665da197367bc70cdb3a8d8c4]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st January 2011
 
-[^key-b3d4e4e665da197367bc70cdb3a8d8c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3d4e4e665da197367bc70cdb3a8d8c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b3d4e4e665da197367bc70cdb3a8d8c4]
+## 1. Citation and commencement[^c-b3d4e4e665da197367bc70cdb3a8d8c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b3d4e4e665da197367bc70cdb3a8d8c4]
+## 2. Interpretation[^c-b3d4e4e665da197367bc70cdb3a8d8c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Specified matters[^key-b3d4e4e665da197367bc70cdb3a8d8c4]
+## 3. Specified matters[^c-b3d4e4e665da197367bc70cdb3a8d8c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3d4e4e665da197367bc70cdb3a8d8c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3d4e4e665da197367bc70cdb3a8d8c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b3d4e4e665da197367bc70cdb3a8d8c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3d4e4e665da197367bc70cdb3a8d8c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3d4e4e665da197367bc70cdb3a8d8c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2929) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/d)
+[^c-b3d4e4e665da197367bc70cdb3a8d8c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2929) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/d)

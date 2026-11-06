@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Identified potential victims etc: disqualification from protection[^key-030d05e33df674d4ca9544d80f29bca9][^key-6a93c655333f895b5996e5470610fd74]
+## 63. Identified potential victims etc: disqualification from protection[^c-030d05e33df674d4ca9544d80f29bca9][^c-6a93c655333f895b5996e5470610fd74]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (b) the person has been convicted of any other offence listed in Schedule 4 to the Modern Slavery Act 2015 anywhere in the United Kingdom, or of a corresponding offence;
 - (c) the person is subject to a TPIM notice (within the meaning given by section 2 of the Terrorism Prevention and Investigation Measures Act 2011);
 - (d) there are reasonable grounds to suspect that the person is or has been involved in terrorism-related activity within the meaning given by section 4 of that Act (whether or not the terrorism-related activity is attributable to the person being, or having been, a victim of slavery or human trafficking);
-- (da)[^key-106312e93a451cbc758e3347b90a3c5c] the person is subject to a notice under Part 2 of the National Security Act 2023;
+- (da)[^c-106312e93a451cbc758e3347b90a3c5c] the person is subject to a notice under Part 2 of the National Security Act 2023;
 - (db) there are reasonable grounds to suspect that the person is or has been involved in foreign power threat activity within the meaning given by section 33 of that Act (whether or not the foreign power threat activity is attributable to the person being, or having been, a victim of slavery or human trafficking);
 - (e) the person is subject to a temporary exclusion order imposed under section 2 of the Counter-Terrorism and Security Act 2015;
 - (f) the person is a foreign criminal within the meaning given by section 32(1) of the UK Borders Act 2007 (automatic deportation for foreign criminals);
@@ -72,8 +72,8 @@ summary: ''
 
 ## Annotations
 
-[^key-030d05e33df674d4ca9544d80f29bca9]: Commencement: S. 63 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-030d05e33df674d4ca9544d80f29bca9]: Commencement: S. 63 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-6a93c655333f895b5996e5470610fd74]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2022/36/section/63) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/d)
+[^c-6a93c655333f895b5996e5470610fd74]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2022/36/section/63) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/d)
 
-[^key-106312e93a451cbc758e3347b90a3c5c]: Textual amendment: [S. 63(3)(da)](https://www.legislation.gov.uk/ukpga/2022/36/section/63/3/da)[(db)](https://www.legislation.gov.uk/ukpga/2022/36/section/63/3/db) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/34)
+[^c-106312e93a451cbc758e3347b90a3c5c]: Textual amendment: [S. 63(3)(da)](https://www.legislation.gov.uk/ukpga/2022/36/section/63/3/da)[(db)](https://www.legislation.gov.uk/ukpga/2022/36/section/63/3/db) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/34)

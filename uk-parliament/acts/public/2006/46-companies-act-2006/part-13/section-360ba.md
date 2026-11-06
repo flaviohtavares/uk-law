@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360BA. Traded companies: right to confirmation of vote after a general meeting[^key-4bca84ccd3a975e615c4a470c6b803cf]
+## 360BA. Traded companies: right to confirmation of vote after a general meeting[^c-4bca84ccd3a975e615c4a470c6b803cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bca84ccd3a975e615c4a470c6b803cf]: Textual amendment: [S. 360BA](https://www.legislation.gov.uk/ukpga/2006/46/section/360BA) inserted (3.9.2020) by [The Companies (Shareholders Rights to Voting Confirmations) Regulations 2020 (S.I. 2020/717)](https://www.legislation.gov.uk/uksi/2020/717), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/717/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2020/717/regulation/5/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/717/regulation/3))
+[^c-4bca84ccd3a975e615c4a470c6b803cf]: Textual amendment: [S. 360BA](https://www.legislation.gov.uk/ukpga/2006/46/section/360BA) inserted (3.9.2020) by [The Companies (Shareholders Rights to Voting Confirmations) Regulations 2020 (S.I. 2020/717)](https://www.legislation.gov.uk/uksi/2020/717), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/717/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2020/717/regulation/5/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/717/regulation/3))

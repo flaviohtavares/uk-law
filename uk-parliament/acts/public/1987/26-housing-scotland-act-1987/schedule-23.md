@@ -24,7 +24,7 @@ Section 339.
 
 ### General
 
-**1.**[^key-9c214313ec8497d4f2b14572ce622238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9c214313ec8497d4f2b14572ce622238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** —Any reference in any previous enactment to “tolerable standard” as defined in section 2 of the Housing (Scotland) Act 1969 or in section 14 of the Housing (Scotland) Act 1969 or in section 14 of the Housing (Scotland) Act 1974 is a reference to the tolerable standard as defined in section 86.
 
@@ -56,7 +56,7 @@ Section 339.
 
 ### The Building (Scotland) Act 1959 (c. 24)
 
-**8.**[^key-842821fb08087f908235d15d03b2412f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-842821fb08087f908235d15d03b2412f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Pipe-lines Act 1962 (c. 58)
 
@@ -357,13 +357,13 @@ Section 339.
 
 ## Annotations
 
-[^key-9c214313ec8497d4f2b14572ce622238]: Textual amendment: [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/1) repealed (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-9c214313ec8497d4f2b14572ce622238]: Textual amendment: [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/1) repealed (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c12784281]: Textual amendment: [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/6) repealed (27.8.1993) by [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/1993/11/section/67/3), [68(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/68/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1993/11/schedule/6).
 
 [^c12784301]: Textual amendment: [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/7) repealed (30.11.1991) by [Coal Mining Subsidence Act 1991 (c. 45, SIF 86)](https://www.legislation.gov.uk/ukpga/1991/45), [s. 53(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/53/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1991/45/schedule/8)(with Sch. 7); [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art.2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-842821fb08087f908235d15d03b2412f]: Textual amendment: [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/8) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [sch. 6 para. 17](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/17) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-842821fb08087f908235d15d03b2412f]: Textual amendment: [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/8) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [sch. 6 para. 17](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/17) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
 [^c12784311]: Textual amendment: [Sch. 23 para. 14](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/14) repealed (27.8.1993) by [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/1993/11/section/67/3), [68(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/68/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1993/11/schedule/6).
 

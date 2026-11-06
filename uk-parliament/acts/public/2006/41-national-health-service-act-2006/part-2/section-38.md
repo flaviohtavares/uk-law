@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Variation of authorisation[^key-ce18975eef17f53b85032254d6ca5e37]
+## 38. Variation of authorisation[^c-ce18975eef17f53b85032254d6ca5e37]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce18975eef17f53b85032254d6ca5e37]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/2006/41/section/38) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 159(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/159/6), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-ce18975eef17f53b85032254d6ca5e37]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/2006/41/section/38) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 159(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/159/6), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

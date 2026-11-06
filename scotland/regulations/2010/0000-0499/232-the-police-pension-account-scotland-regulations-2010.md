@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Police Pension Account (Scotland) Regulations 2010 (revoked)[^key-c759fd161e85528b56ddadb719275bba]
+The Police Pension Account (Scotland) Regulations 2010 (revoked)[^c-c759fd161e85528b56ddadb719275bba]
 
 Made
 
@@ -46,76 +46,76 @@ Coming into force
 
 5th July 2010
 
-[^key-c759fd161e85528b56ddadb719275bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c759fd161e85528b56ddadb719275bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, effect and extent[^key-c759fd161e85528b56ddadb719275bba]
+## 1. Citation, commencement, effect and extent[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c759fd161e85528b56ddadb719275bba]
+## 2. Interpretation[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Establishment, maintenance and operation of a Police Pension Account[^key-c759fd161e85528b56ddadb719275bba]
+## 3. Establishment, maintenance and operation of a Police Pension Account[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Particular payments into and out of the Police Pension Account[^key-c759fd161e85528b56ddadb719275bba]
+## 4. Particular payments into and out of the Police Pension Account[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Police authority contributions[^key-c759fd161e85528b56ddadb719275bba]
+## 5. Police authority contributions[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Awards under the Injury Benefits Regulations[^key-c759fd161e85528b56ddadb719275bba]
+## 6. Awards under the Injury Benefits Regulations[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c759fd161e85528b56ddadb719275bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c759fd161e85528b56ddadb719275bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transfers between the Police Pension Account and the Police Operating Account[^key-c759fd161e85528b56ddadb719275bba]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Effect of transfers between the Police Pension Account and the Police Operating Account[^key-c759fd161e85528b56ddadb719275bba]
+## 8. Transfers between the Police Pension Account and the Police Operating Account[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Provision of information[^key-c759fd161e85528b56ddadb719275bba]
+## 9. Effect of transfers between the Police Pension Account and the Police Operating Account[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Further sums payable out of the Police Operating Account[^key-c759fd161e85528b56ddadb719275bba]
+## 10. Provision of information[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Particular cases[^key-c759fd161e85528b56ddadb719275bba]
+## 11. Further sums payable out of the Police Operating Account[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-c759fd161e85528b56ddadb719275bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 14. Amendment of the 1987 Regulations[^key-c759fd161e85528b56ddadb719275bba]
+## 12. Particular cases[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of the 2007 Regulations[^key-c759fd161e85528b56ddadb719275bba]
+**13.**[^c-c759fd161e85528b56ddadb719275bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Amendment of the 1987 Regulations[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of the Injury Benefit Regulations[^key-c759fd161e85528b56ddadb719275bba]
+## 15. Amendment of the 2007 Regulations[^c-c759fd161e85528b56ddadb719275bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c759fd161e85528b56ddadb719275bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 16. Amendment of the Injury Benefit Regulations[^c-c759fd161e85528b56ddadb719275bba]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c759fd161e85528b56ddadb719275bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c759fd161e85528b56ddadb719275bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c759fd161e85528b56ddadb719275bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c759fd161e85528b56ddadb719275bba]: Textual amendment: Regulations revoked (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Police Reform (Pensions Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/184)](https://www.legislation.gov.uk/ssi/2013/184), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/184/regulation/1/2), [24](https://www.legislation.gov.uk/ssi/2013/184/regulation/24)
+[^c-c759fd161e85528b56ddadb719275bba]: Textual amendment: Regulations revoked (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Police Reform (Pensions Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/184)](https://www.legislation.gov.uk/ssi/2013/184), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/184/regulation/1/2), [24](https://www.legislation.gov.uk/ssi/2013/184/regulation/24)

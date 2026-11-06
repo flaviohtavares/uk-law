@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 511. Application of Part VI of the Financial Services and Markets Act 2000 to a recognised European document[^key-e481a411894a0d5e97bdd4253ede4cbc]
+## 511. Application of Part VI of the Financial Services and Markets Act 2000 to a recognised European document[^c-e481a411894a0d5e97bdd4253ede4cbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In Schedule 4 to the Public Offers of Securities Regulations 1995 (Recognition f
 
 ## Annotations
 
-[^key-e481a411894a0d5e97bdd4253ede4cbc]: Commencement: Art. 511 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e481a411894a0d5e97bdd4253ede4cbc]: Commencement: Art. 511 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

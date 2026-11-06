@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4I. Other person unable to become citizen at commencement[^key-916470acf2beb9d58eb41842c93b59b8]
+## 4I. Other person unable to become citizen at commencement[^c-916470acf2beb9d58eb41842c93b59b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
   - (i) would have been a citizen of the United Kingdom and Colonies immediately before commencement, and
   - (ii) would have automatically become a British citizen at commencement by the operation of any provision of this Act.
 
-(1A)[^key-870f80089a593de526e1c397aacf9230] In determining for the purposes of subsection (1)(c)(i) whether a person would have been a citizen of the United Kingdom and Colonies, the requirement that a person’s birth was registered at a United Kingdom consulate, as set out in section 5(1)(b) of the British Nationality Act 1948, is to be ignored.
+(1A)[^c-870f80089a593de526e1c397aacf9230] In determining for the purposes of subsection (1)(c)(i) whether a person would have been a citizen of the United Kingdom and Colonies, the requirement that a person’s birth was registered at a United Kingdom consulate, as set out in section 5(1)(b) of the British Nationality Act 1948, is to be ignored.
 
 (2) P is an “eligible former British national” if P was not a citizen of the United Kingdom and Colonies immediately before commencement and either—
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-916470acf2beb9d58eb41842c93b59b8]: Textual amendment: Ss. 4E-4J inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)
+[^c-916470acf2beb9d58eb41842c93b59b8]: Textual amendment: Ss. 4E-4J inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)
 
-[^key-870f80089a593de526e1c397aacf9230]: Textual amendment: S. 4I(1A) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/6/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/5) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/2))
+[^c-870f80089a593de526e1c397aacf9230]: Textual amendment: S. 4I(1A) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/6/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/5) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/2))

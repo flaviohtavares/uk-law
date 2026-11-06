@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 239. Appeal against decision of the Secretary of State[^key-0ae609e976d25289dd2c2815b37faaba]
+## 239. Appeal against decision of the Secretary of State[^c-0ae609e976d25289dd2c2815b37faaba]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An appeal under the Regulations against a decision of the Secretary of State mus
 
 ## Annotations
 
-[^key-0ae609e976d25289dd2c2815b37faaba]: Commencement: Rule 239 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0ae609e976d25289dd2c2815b37faaba]: Commencement: Rule 239 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

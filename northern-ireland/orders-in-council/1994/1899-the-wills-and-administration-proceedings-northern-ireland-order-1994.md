@@ -134,7 +134,7 @@ No obliteration, interlineation or other alteration made in a will, after its ex
 
 #### 12. Effect of marriage
 
-(1) Subject to paragraphs (2) to (5)[^key-22c64ffce680af9406fc7268cf17bdb1], a will is revoked by the testator's marriage.
+(1) Subject to paragraphs (2) to (5)[^c-22c64ffce680af9406fc7268cf17bdb1], a will is revoked by the testator's marriage.
 
 (2) A disposition in a will in exercise of a power of appointment takes effect notwithstanding the testator's subsequent marriage unless the property so appointed would in default of appointment pass to his personal representatives.
 
@@ -145,7 +145,7 @@ No obliteration, interlineation or other alteration made in a will, after its ex
 - (a) that gift takes effect notwithstanding the marriage; and
 - (b) any other gift in the will takes effect also, unless it appears from the will that the testator intended the gift to be revoked by the marriage.
 
-(5)[^key-d5e25d0ae2a093f979686b87c2798c11] Nothing in this Article applies in the case of a marriage which results from—
+(5)[^c-d5e25d0ae2a093f979686b87c2798c11] Nothing in this Article applies in the case of a marriage which results from—
 
 - (a) the conversion of a civil partnership into a marriage under Part 3 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020;
 - (b) the conversion of a civil partnership into a marriage under Part 2, 3 or 4 of the Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014; or
@@ -169,14 +169,14 @@ No obliteration, interlineation or other alteration made in a will, after its ex
 
 (5) In this Article, “dissolved or annulled” means—
 
-- (a) dissolved by a decree of divorce or divorce order,[^key-670e3dc22ceaeffab9d93c91e636c484] or annulled by a decree of nullity of marriage or nullity of marriage order, granted or made[^key-63bf9ae745bde4a984a422c435cec6b7] under the law of any part of the United Kingdom or the Channel Islands or under the law of the Isle of Man, or
+- (a) dissolved by a decree of divorce or divorce order,[^c-670e3dc22ceaeffab9d93c91e636c484] or annulled by a decree of nullity of marriage or nullity of marriage order, granted or made[^c-63bf9ae745bde4a984a422c435cec6b7] under the law of any part of the United Kingdom or the Channel Islands or under the law of the Isle of Man, or
 - (b) dissolved or annulled in any country or territory outside the United Kingdom, the Channel Islands and the Isle of Man by a divorce or annulment which is entitled to be recognised as valid by the law of Northern Ireland;
 
 and “the former spouse” means the person whose marriage with the testator was so dissolved or annulled.
 
-#### 13A. Effect of civil partnership[^key-cc9947374e43ed41dae3e83bf323c214][^c17049541]
+#### 13A. Effect of civil partnership[^c-cc9947374e43ed41dae3e83bf323c214][^c17049541]
 
-(1) Subject to paragraphs (2) to (7)[^key-f890a12b59f4437d33f8c1c9525c64d7], a will is revoked by the formation of a civil partnership between the testator and another person.
+(1) Subject to paragraphs (2) to (7)[^c-f890a12b59f4437d33f8c1c9525c64d7], a will is revoked by the formation of a civil partnership between the testator and another person.
 
 (2) A disposition in a will in exercise of a power of appointment takes effect despite the formation of a subsequent civil partnership between the testator and another person unless the property so appointed would in default of appointment pass to the testator's personal representatives.
 
@@ -196,7 +196,7 @@ the will is not revoked by its formation.
 
 (6) Any other gift in the will also takes effect, unless it appears from the will that the testator intended the gift to be revoked by the formation of the civil partnership.
 
-(7)[^key-f1188fd2beaf4ee8233dd91f949ec195] Nothing in this Article applies in the case of a civil partnership which results from—
+(7)[^c-f1188fd2beaf4ee8233dd91f949ec195] Nothing in this Article applies in the case of a civil partnership which results from—
 
 - (a) the conversion of a marriage into a civil partnership under Part 3 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020; or
 - (b) the conversion of a marriage into a civil partnership under Part 4 or 5 of those Regulations.
@@ -217,7 +217,7 @@ the will is not revoked by its formation.
 
 (4) Paragraph (2)(b) does not affect any right of the former civil partner to apply for financial provision under the Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979 (S.I. 1979/ 924 (N.I. 8)).
 
-#### 13C. Effect on subsisting will of conversion of civil partnership into marriage[^key-54201e9dd48a1340792abf60deb7f41f]
+#### 13C. Effect on subsisting will of conversion of civil partnership into marriage[^c-54201e9dd48a1340792abf60deb7f41f]
 
 (1) The conversion of a civil partnership into a marriage does not—
 
@@ -586,25 +586,25 @@ Article 36.
 
 [^c17049521]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-22c64ffce680af9406fc7268cf17bdb1]: Textual amendment: Word in art. 12(1) substituted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/2/a)
+[^c-22c64ffce680af9406fc7268cf17bdb1]: Textual amendment: Word in art. 12(1) substituted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/2/a)
 
-[^key-d5e25d0ae2a093f979686b87c2798c11]: Textual amendment: Art. 12(5) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/2/b)
+[^c-d5e25d0ae2a093f979686b87c2798c11]: Textual amendment: Art. 12(5) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/2/b)
 
 [^c17049561]: Textual amendment: [1979 NI 8](https://www.legislation.gov.uk/nisi/1979)
 
-[^key-670e3dc22ceaeffab9d93c91e636c484]: Textual amendment: Words in [art. 13(5)(a)](https://www.legislation.gov.uk/nisi/1994/1899/article/13/5/a) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 60(a)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/60/a); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-670e3dc22ceaeffab9d93c91e636c484]: Textual amendment: Words in [art. 13(5)(a)](https://www.legislation.gov.uk/nisi/1994/1899/article/13/5/a) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 60(a)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/60/a); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-63bf9ae745bde4a984a422c435cec6b7]: Textual amendment: Words in [art. 13(5)(a)](https://www.legislation.gov.uk/nisi/1994/1899/article/13/5/a) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 60(b)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/60/b); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-63bf9ae745bde4a984a422c435cec6b7]: Textual amendment: Words in [art. 13(5)(a)](https://www.legislation.gov.uk/nisi/1994/1899/article/13/5/a) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 60(b)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/60/b); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-cc9947374e43ed41dae3e83bf323c214]: Modification: Art. 13A excluded (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [172](https://www.legislation.gov.uk/uksi/2019/1514/regulation/172) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-cc9947374e43ed41dae3e83bf323c214]: Modification: Art. 13A excluded (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [172](https://www.legislation.gov.uk/uksi/2019/1514/regulation/172) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17049541]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-f890a12b59f4437d33f8c1c9525c64d7]: Textual amendment: Word in art. 13A(1) substituted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(3)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/3/a)
+[^c-f890a12b59f4437d33f8c1c9525c64d7]: Textual amendment: Word in art. 13A(1) substituted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(3)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/3/a)
 
-[^key-f1188fd2beaf4ee8233dd91f949ec195]: Textual amendment: Art. 13A(7) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(3)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/3/b)
+[^c-f1188fd2beaf4ee8233dd91f949ec195]: Textual amendment: Art. 13A(7) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(3)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/3/b)
 
-[^key-54201e9dd48a1340792abf60deb7f41f]: Textual amendment: [Arts. 13C](https://www.legislation.gov.uk/nisi/1994/1899/article/13C), [13D](https://www.legislation.gov.uk/nisi/1994/1899/article/13D) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(4)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/4)
+[^c-54201e9dd48a1340792abf60deb7f41f]: Textual amendment: [Arts. 13C](https://www.legislation.gov.uk/nisi/1994/1899/article/13C), [13D](https://www.legislation.gov.uk/nisi/1994/1899/article/13D) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [41(4)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/41/4)
 
 [^c17049571]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 

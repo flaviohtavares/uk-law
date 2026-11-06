@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Treatment of child care charges[^key-cd740052bb2423d6dcf9e898a2209958]
+## 18. Treatment of child care charges[^c-cd740052bb2423d6dcf9e898a2209958]
 
 *Extent: N.I.*
 
@@ -61,7 +61,7 @@ and shall be determined on a weekly basis in accordance with paragraph (2).
 
 ## Annotations
 
-[^key-cd740052bb2423d6dcf9e898a2209958]: Commencement: Reg. 18 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-cd740052bb2423d6dcf9e898a2209958]: Commencement: Reg. 18 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00028]: Footnote: *See* the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 ([S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41)) and the Social Security (Incapacity for Work) (Miscellaneous Amendment) Regulations (Northern Ireland) 1995 ([S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149))
 

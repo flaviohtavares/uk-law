@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Delegation of police authority functions[^key-633dff4c5c94135477f2df39f263ba28]
+## 3. Delegation of police authority functions[^c-633dff4c5c94135477f2df39f263ba28]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-633dff4c5c94135477f2df39f263ba28]: Commencement: S. 3 in force at 29.6.2007 by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/c)
+[^c-633dff4c5c94135477f2df39f263ba28]: Commencement: S. 3 in force at 29.6.2007 by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/c)

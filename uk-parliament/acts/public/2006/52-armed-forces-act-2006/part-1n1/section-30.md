@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Allowing escape, or unlawful release, of prisoners etc[^key-6a2a292c77886c46e16b723b6f46ca71][^key-39ab262a5ab9ca08a83ac0010ed3eb74]
+## 30. Allowing escape, or unlawful release, of prisoners etc[^c-6a2a292c77886c46e16b723b6f46ca71][^c-39ab262a5ab9ca08a83ac0010ed3eb74]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a2a292c77886c46e16b723b6f46ca71]: Commencement: S. 30 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-6a2a292c77886c46e16b723b6f46ca71]: Commencement: S. 30 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-39ab262a5ab9ca08a83ac0010ed3eb74]: Commencement: S. 30 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-39ab262a5ab9ca08a83ac0010ed3eb74]: Commencement: S. 30 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

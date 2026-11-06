@@ -35,38 +35,38 @@ concerning the authorisation of the preparation of *Bacillus subtilis* (DSM 5750
 
 (Text with EEA relevance) (revoked)
 
-[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Regulation (EC) No 1453/2004[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]
+## Article 1. Authorisation[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EC) No 2148/2004[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]
+## Article 2. Amendment to Regulation (EC) No 1453/2004[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Regulation (EC) No 600/2005[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]
+## Article 3. Amendment to Regulation (EC) No 2148/2004[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Transitional measures[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]
+## Article 4. Amendment to Regulation (EC) No 600/2005[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]
+## Article 5. Transitional measures[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 6. Entry into force[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]
 
-## ANNEX[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-24efbb79a9de99efdb6e9ab4a1a1ae1e]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 237](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/237) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-24efbb79a9de99efdb6e9ab4a1a1ae1e]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 237](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/237) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

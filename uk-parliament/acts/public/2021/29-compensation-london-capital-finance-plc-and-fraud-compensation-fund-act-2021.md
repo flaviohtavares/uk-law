@@ -35,7 +35,7 @@ An Act to provide for the payment out of money provided by Parliament of expendi
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Compensation payments to customers of London Capital & Finance plc[^key-8ed7afd8e6e5b722c5f8c1cf83fd6ea2]
+## 1. Compensation payments to customers of London Capital & Finance plc[^c-8ed7afd8e6e5b722c5f8c1cf83fd6ea2]
 
 (1) There may be paid out of money provided by Parliament expenditure incurred by the Treasury for, or in connection with, the payment of compensation to customers of London Capital & Finance plc adversely affected by matters identified in the Gloster Report.
 
@@ -45,7 +45,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) In this section the “Gloster Report” means the Report of the Independent Investigation into the Financial Conduct Authority’s Regulation of London Capital & Finance plc, as revised on 10 December 2020.
 
-## 2. Loans to the Board of the Pension Protection Fund[^key-9fb0aa1645604fa5632128be3aaf5737]
+## 2. Loans to the Board of the Pension Protection Fund[^c-9fb0aa1645604fa5632128be3aaf5737]
 
 (1) The Pensions Act 2004 is amended as follows.
 
@@ -71,14 +71,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   ;
 - (b) in subsection (3) (permitted payments from the Fund), in paragraph (e) (repayment of money borrowed under section 115), after “(1)(c)” insert “or (ca)”.
 
-## 3. Short title[^key-a96592fe1d2b9859faeb4c22cb7086e6]
+## 3. Short title[^c-a96592fe1d2b9859faeb4c22cb7086e6]
 
 This Act may be cited as the Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021.
 
 ## Annotations
 
-[^key-8ed7afd8e6e5b722c5f8c1cf83fd6ea2]: Commencement: S. 1 in force at 20.10.2021
+[^c-8ed7afd8e6e5b722c5f8c1cf83fd6ea2]: Commencement: S. 1 in force at 20.10.2021
 
-[^key-9fb0aa1645604fa5632128be3aaf5737]: Commencement: S. 2 in force at 20.10.2021
+[^c-9fb0aa1645604fa5632128be3aaf5737]: Commencement: S. 2 in force at 20.10.2021
 
-[^key-a96592fe1d2b9859faeb4c22cb7086e6]: Commencement: S. 3 in force at 20.10.2021
+[^c-a96592fe1d2b9859faeb4c22cb7086e6]: Commencement: S. 3 in force at 20.10.2021

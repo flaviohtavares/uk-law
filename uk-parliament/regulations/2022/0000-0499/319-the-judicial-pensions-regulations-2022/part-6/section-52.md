@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Annual rate of partial retirement pension[^key-3be9cb905c31e227aec2a8a425046543]
+## 52. Annual rate of partial retirement pension[^c-3be9cb905c31e227aec2a8a425046543]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3be9cb905c31e227aec2a8a425046543]: Commencement: Reg. 52 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-3be9cb905c31e227aec2a8a425046543]: Commencement: Reg. 52 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

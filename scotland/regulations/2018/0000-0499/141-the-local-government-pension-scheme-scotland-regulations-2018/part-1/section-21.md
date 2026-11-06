@@ -37,13 +37,13 @@ summary: ''
   - (ii) less any lump sum received during that period;
   - (iii) with the resulting sum being grossed up to an annual figure;
   - (iv) to which any regular lump sum payment received in the 12 months preceding the date specified in paragraph (i) should be added;
-  - (v) if the member received no pensionable pay relating to that employment in the 3 months[^key-c4f0224204abda87314a4aefc99ad4ba] preceding the commencement of the pay period in which the absence commenced, assumed pensionable pay should be calculated on the pensionable pay the member received relating to that employment in the 3 months preceding the pay period in which they last received pensionable pay in that employment;
+  - (v) if the member received no pensionable pay relating to that employment in the 3 months[^c-c4f0224204abda87314a4aefc99ad4ba] preceding the commencement of the pay period in which the absence commenced, assumed pensionable pay should be calculated on the pensionable pay the member received relating to that employment in the 3 months preceding the pay period in which they last received pensionable pay in that employment;
 - (b) where the member is paid otherwise than monthly—
   - (i) the pensionable pay the member received relating to that employment in the 12 weeks preceding the commencement of the pay period in which the circumstance specified in paragraph (2) began or, for the purposes of regulations 37(1)(a) (calculation of ill-health pension amounts), 38(3) (death grants; active members), 40(4)(b), (5)(b), (9)(b) and (10)(b) (Survivor benefits: children of active members) the pay period in which, respectively, the ill-health retirement or death occurred;
   - (ii) less any lump sum received;
   - (iii) with the resulting sum being grossed up to an annual figure;
   - (iv) to which any regular lump sum payment received in the 12 months preceding the date specified in paragraph (i) should be added;
-  - (v) if the member received no pensionable pay relating to that employment in the 12 weeks preceding the commencement of the pay period in which the absence commenced, assumed pensionable pay should be calculated on the pensionable pay the member received relating to that employment in the 12 weeks[^key-02947d22c5f7a241076db573c98aac2f] preceding the pay period in which they last received pensionable pay in that employment.
+  - (v) if the member received no pensionable pay relating to that employment in the 12 weeks preceding the commencement of the pay period in which the absence commenced, assumed pensionable pay should be calculated on the pensionable pay the member received relating to that employment in the 12 weeks[^c-02947d22c5f7a241076db573c98aac2f] preceding the pay period in which they last received pensionable pay in that employment.
 
 (5) For the purposes of paragraph (4) a “regular lump sum” is a payment for which the member's employer determines there is a reasonable expectation that such a payment would be paid on a regular basis.
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f0224204abda87314a4aefc99ad4ba]: Textual amendment: Words in reg. 21(4)(a)(v) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/11/a)
+[^c-c4f0224204abda87314a4aefc99ad4ba]: Textual amendment: Words in reg. 21(4)(a)(v) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/11/a)
 
-[^key-02947d22c5f7a241076db573c98aac2f]: Textual amendment: Words in reg. 21(4)(b)(v) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/11/b)
+[^c-02947d22c5f7a241076db573c98aac2f]: Textual amendment: Words in reg. 21(4)(b)(v) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/11/b)

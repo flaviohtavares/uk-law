@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40D. Power to give directions to critical police undertakings[^key-855043f48c62c0f2cefab8092847df6a]
+## 40D. Power to give directions to critical police undertakings[^c-855043f48c62c0f2cefab8092847df6a]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-855043f48c62c0f2cefab8092847df6a]: Textual amendment: [S. 40D](https://www.legislation.gov.uk/ukpga/1996/16/section/40D) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 214](https://www.legislation.gov.uk/ukpga/2026/20/section/214), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z)
+[^c-855043f48c62c0f2cefab8092847df6a]: Textual amendment: [S. 40D](https://www.legislation.gov.uk/ukpga/1996/16/section/40D) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 214](https://www.legislation.gov.uk/ukpga/2026/20/section/214), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z)

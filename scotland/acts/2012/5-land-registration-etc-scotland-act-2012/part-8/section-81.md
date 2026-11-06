@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Rectification where registration provisional etc.[^key-1f93f43fd5d42c6746a6e2c8d26a74f8]
+## 81. Rectification where registration provisional etc.[^c-1f93f43fd5d42c6746a6e2c8d26a74f8]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f93f43fd5d42c6746a6e2c8d26a74f8]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2012/5/section/81) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1f93f43fd5d42c6746a6e2c8d26a74f8]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2012/5/section/81) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

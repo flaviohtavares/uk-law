@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Finance[^f00001] makes the following Regulations in exercise of the powers conferred by Article 31C of the Rates (Northern Ireland) Order 1977[^f00002]
 
-## 1. Citation and commencement[^key-b85ae2a852a50ce878290bf7a9080046]
+## 1. Citation and commencement[^c-b85ae2a852a50ce878290bf7a9080046]
 
 These Regulations may be cited as the Rates (Localised Flooding No. 2) (Emergency Relief) Regulations (Northern Ireland) 2023 and shall come into operation on 11th December 2023.
 
-## 2. Interpretation[^key-e297b3497738f56130727b8c2e8c684b]
+## 2. Interpretation[^c-e297b3497738f56130727b8c2e8c684b]
 
 In these Regulations—
 
@@ -61,7 +61,7 @@ In these Regulations—
   - (d) the NAV of which does not exceed £600,000;
 - “**specified year**” means the year ending before the 1st April 2024; and
 
-## 3. Reduction of rates in respect of specified hereditaments[^key-e96947d805ddf2115ea0eb86974024d9]
+## 3. Reduction of rates in respect of specified hereditaments[^c-e96947d805ddf2115ea0eb86974024d9]
 
 Subject to the condition in regulation 5, where liability for rates for a specified hereditament occurs on or after the 29th October 2023, the amount which, apart from these Regulations, would be payable during a specified year shall be reduced by 100% in respect of the period between that liability commencing and–
 
@@ -70,19 +70,19 @@ Subject to the condition in regulation 5, where liability for rates for a specif
 
 whichever is earlier.
 
-## 4. Treatment of mixed hereditaments[^key-bb19deab41be6ef0c46c5938ef9a6b27]
+## 4. Treatment of mixed hereditaments[^c-bb19deab41be6ef0c46c5938ef9a6b27]
 
 In any case where a hereditament has both a net annual value and a capital value, regulation 3 shall apply as if a reference to any amount payable on account of a rate on a specified hereditament is a reference to the net annual value of the hereditament.
 
-## 5. Condition for reduction of rates in certain circumstances[^key-9fba7e0a8c5c2c2fea358365598a7eb8]
+## 5. Condition for reduction of rates in certain circumstances[^c-9fba7e0a8c5c2c2fea358365598a7eb8]
 
 The condition referred to in regulation 3 is that where rates in respect of a specified hereditament are payable by the owner rather than the occupier, it must appear to the Department that a sum equal to the amount of any reduction under these Regulations will be applied for the benefit of that occupier.
 
-## 6. Reduction under the Rates (Small Business Hereditament Relief) Regulations (Northern Ireland) 2010[^key-77345c5204715d054bca5ade6482e42a]
+## 6. Reduction under the Rates (Small Business Hereditament Relief) Regulations (Northern Ireland) 2010[^c-77345c5204715d054bca5ade6482e42a]
 
 A reduction applicable to a specified hereditament by virtue of these Regulations is to be applied after any reduction applied to the hereditament by virtue of the 2010 Regulations.
 
-## 7. Recoverable amounts[^key-86a88434a6084b2e0c90f064ba9c5ed1]
+## 7. Recoverable amounts[^c-86a88434a6084b2e0c90f064ba9c5ed1]
 
 Any amount of rate relief determined in accordance with these Regulations which is subsequently found to have been paid–
 
@@ -121,9 +121,9 @@ Regulation 7 makes provision that an amount of rate relief, determined in accord
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 31C was substituted by section 1 of the Rates (Amendment) Act (Northern Ireland) 2009 and amended by section 7 of the Financial Provisions Act (Northern Ireland) [2014 (c.6 (N.I.))](https://www.legislation.gov.uk/nia/2014/6)
 
-[^key-b85ae2a852a50ce878290bf7a9080046]: Commencement: Reg. 1 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
+[^c-b85ae2a852a50ce878290bf7a9080046]: Commencement: Reg. 1 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
 
-[^key-e297b3497738f56130727b8c2e8c684b]: Commencement: Reg. 2 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
+[^c-e297b3497738f56130727b8c2e8c684b]: Commencement: Reg. 2 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2010 No.4](https://www.legislation.gov.uk/nisr/2010/4) as amended by [S.R.2012 No.106](https://www.legislation.gov.uk/nisr/2012/106), [S.R.2013 No.46](https://www.legislation.gov.uk/nisr/2013/46), [S.R.2014 No.68](https://www.legislation.gov.uk/nisr/2014/68), [S.R.2015 No 123](https://www.legislation.gov.uk/nisr/2015/123), [S.R.2016 No. 26](https://www.legislation.gov.uk/nisr/2016/26), [S.R.2017 No. 72](https://www.legislation.gov.uk/nisr/2017/72), [S.R.2018 No.61](https://www.legislation.gov.uk/nisr/2018/61), [S.R.2019 No. 44](https://www.legislation.gov.uk/nisr/2019/44), [S.R. 2020 No. 91](https://www.legislation.gov.uk/nisr/2020/91), [S.R. 2021 No. 111](https://www.legislation.gov.uk/nisr/2021/111), S.R. No 51 and [S.R. 2022 No. 295](https://www.legislation.gov.uk/nisr/2022/295)
 
@@ -131,12 +131,12 @@ Regulation 7 makes provision that an amount of rate relief, determined in accord
 
 [^f00005]: Footnote: [1975 c.26](https://www.legislation.gov.uk/ukpga/1975/26)
 
-[^key-e96947d805ddf2115ea0eb86974024d9]: Commencement: Reg. 3 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
+[^c-e96947d805ddf2115ea0eb86974024d9]: Commencement: Reg. 3 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
 
-[^key-bb19deab41be6ef0c46c5938ef9a6b27]: Commencement: Reg. 4 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
+[^c-bb19deab41be6ef0c46c5938ef9a6b27]: Commencement: Reg. 4 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
 
-[^key-9fba7e0a8c5c2c2fea358365598a7eb8]: Commencement: Reg. 5 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
+[^c-9fba7e0a8c5c2c2fea358365598a7eb8]: Commencement: Reg. 5 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
 
-[^key-77345c5204715d054bca5ade6482e42a]: Commencement: Reg. 6 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
+[^c-77345c5204715d054bca5ade6482e42a]: Commencement: Reg. 6 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
 
-[^key-86a88434a6084b2e0c90f064ba9c5ed1]: Commencement: Reg. 7 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)
+[^c-86a88434a6084b2e0c90f064ba9c5ed1]: Commencement: Reg. 7 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/199/regulation/1)

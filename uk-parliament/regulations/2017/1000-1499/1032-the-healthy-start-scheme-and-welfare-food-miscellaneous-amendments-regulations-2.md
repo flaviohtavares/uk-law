@@ -48,41 +48,41 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 In accordance with section 13(2) of the 1988 Act, the Secretary of State has consulted with the Scottish Ministers and the Welsh Ministers[^f00003].
 
-## 1. Citation and commencement[^key-888aaa8b459ebb5c547dd56d0f110e8c]
+## 1. Citation and commencement[^c-888aaa8b459ebb5c547dd56d0f110e8c]
 
 These Regulations may be cited as the Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) Regulations 2017 and come into force on 27th November 2017.
 
-## 2 (Extent: S) (affected by repeal, see note). Amendment of the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005 (Extent: S) (affected by repeal, see note)[^key-995dd3002273e31d5afaa684d935794e][^key-3cacc4f582df128602baf649e46c2992][^key-3cacc4f582df128602baf649e46c2992]
+## 2 (Extent: S) (affected by repeal, see note). Amendment of the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005 (Extent: S) (affected by repeal, see note)[^c-995dd3002273e31d5afaa684d935794e][^c-3cacc4f582df128602baf649e46c2992][^c-3cacc4f582df128602baf649e46c2992]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005 *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992][^f00004] are amended as follows. *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+(1 (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005 *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992][^f00004] are amended as follows. *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] In regulation 3 (entitlement to benefit), in paragraph (2), for sub-paragraph (b) substitute— *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+(2 (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] In regulation 3 (entitlement to benefit), in paragraph (2), for sub-paragraph (b) substitute— *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 
-> - (b (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] Healthy Start vitamins for every four weeks of entitlement. *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+> - (b (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] Healthy Start vitamins for every four weeks of entitlement. *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] In regulation 5A (Healthy Start vitamins and payments in lieu)— *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+(3 (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] In regulation 5A (Healthy Start vitamins and payments in lieu)— *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] in paragraph (1), for “tablets or vitamin drops containing vitamins” substitute “products containing vitamins, of a form and quantity, which the Secretary of State has determined are”; *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
-- (b (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] in paragraph (2), omit “prescribed number or amount of”. *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+- (a (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] in paragraph (1), for “tablets or vitamin drops containing vitamins” substitute “products containing vitamins, of a form and quantity, which the Secretary of State has determined are”; *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
+- (b (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] in paragraph (2), omit “prescribed number or amount of”. *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] After regulation 7 insert— *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+(4 (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] After regulation 7 insert— *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 
-> **7A (Extent: S) (affected by repeal, see note). Functions of the NHS Business Services Authority (Extent: S) (affected by repeal, see note)[^key-3cacc4f582df128602baf649e46c2992][^key-3cacc4f582df128602baf649e46c2992]**
+> **7A (Extent: S) (affected by repeal, see note). Functions of the NHS Business Services Authority (Extent: S) (affected by repeal, see note)[^c-3cacc4f582df128602baf649e46c2992][^c-3cacc4f582df128602baf649e46c2992]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] The NHS Business Services Authority shall have the function of entering into and managing, on behalf of the Secretary of State, framework agreements, contracts and arrangements with persons who— *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+> (1 (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] The NHS Business Services Authority shall have the function of entering into and managing, on behalf of the Secretary of State, framework agreements, contracts and arrangements with persons who— *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] manufacture Healthy Start vitamins; *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
-> - (b (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] store Healthy Start vitamins; and *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
-> - (c (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] make arrangements for, or in connection with, the distribution and supply of Healthy Start vitamins. *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+> - (a (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] manufacture Healthy Start vitamins; *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
+> - (b (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] store Healthy Start vitamins; and *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
+> - (c (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] make arrangements for, or in connection with, the distribution and supply of Healthy Start vitamins. *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] When requested by the Secretary of State, the NHS Business Services Authority shall have the function, on behalf of the Secretary of State, of— *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+> (2 (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] When requested by the Secretary of State, the NHS Business Services Authority shall have the function, on behalf of the Secretary of State, of— *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] carrying out administrative functions relating to the supply of Healthy Start food and Healthy Start vitamins; *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
-> - (b (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] requesting and receiving information referred to in regulation 15. *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+> - (a (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] carrying out administrative functions relating to the supply of Healthy Start food and Healthy Start vitamins; *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
+> - (b (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] requesting and receiving information referred to in regulation 15. *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-3cacc4f582df128602baf649e46c2992] In this regulation, “NHS Business Services Authority” means the authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992][^f00005]. *(Extent: S)* *(affected by repeal, see note)*[^key-3cacc4f582df128602baf649e46c2992]
+> (3 (Extent: S) (affected by repeal, see note))[^c-3cacc4f582df128602baf649e46c2992] In this regulation, “NHS Business Services Authority” means the authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992][^f00005]. *(Extent: S)* *(affected by repeal, see note)*[^c-3cacc4f582df128602baf649e46c2992]
 
-## 3. Amendment of the Welfare Food Regulations 1996[^key-e7248c74f69a2ab5d81df81ef9119477]
+## 3. Amendment of the Welfare Food Regulations 1996[^c-e7248c74f69a2ab5d81df81ef9119477]
 
 (1) The Welfare Food Regulations 1996[^f00006] are amended as follows.
 
@@ -133,16 +133,16 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00003]: Footnote: Functions conferred or imposed on the National Assembly for Wales immediately before the appointment of a First Minister under section 46 of the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) (“GOWA”) by an enactment contained in an Act were transferred to the Welsh Ministers by paragraph 30(2) of Schedule 11 to GOWA.
 
-[^key-888aaa8b459ebb5c547dd56d0f110e8c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1) in force at 27.11.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1)
+[^c-888aaa8b459ebb5c547dd56d0f110e8c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1) in force at 27.11.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1)
 
-[^key-995dd3002273e31d5afaa684d935794e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1032/regulation/2) in force at 27.11.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1)
+[^c-995dd3002273e31d5afaa684d935794e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1032/regulation/2) in force at 27.11.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1)
 
-[^key-3cacc4f582df128602baf649e46c2992]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1032/regulation/2) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-3cacc4f582df128602baf649e46c2992]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1032/regulation/2) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
 [^f00004]: Footnote: [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262). Relevant amending instruments are [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818) and [2016/985](https://www.legislation.gov.uk/uksi/2016/985).
 
 [^f00005]: Footnote: [S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414).
 
-[^key-e7248c74f69a2ab5d81df81ef9119477]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1032/regulation/3) in force at 27.11.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1)
+[^c-e7248c74f69a2ab5d81df81ef9119477]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1032/regulation/3) in force at 27.11.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1032/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1996/1434](https://www.legislation.gov.uk/uksi/1996/1434) to which there are amendments which are not relevant to these Regulations.

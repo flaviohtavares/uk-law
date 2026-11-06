@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Change of approved regulator[^key-008a6fc3dd6d0184663ba17dc09ae06b][^key-40dc1dc5bf66c3ecc895c339f816d6c8]
+## 43. Change of approved regulator[^c-008a6fc3dd6d0184663ba17dc09ae06b][^c-40dc1dc5bf66c3ecc895c339f816d6c8]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-008a6fc3dd6d0184663ba17dc09ae06b]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/16/section/43) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-008a6fc3dd6d0184663ba17dc09ae06b]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/16/section/43) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-40dc1dc5bf66c3ecc895c339f816d6c8]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/16/section/43) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-40dc1dc5bf66c3ecc895c339f816d6c8]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/16/section/43) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

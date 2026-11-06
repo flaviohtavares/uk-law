@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Minimum housing benefit[^key-763fe005cc1549e49ba55868c75504cf]
+## 73. Minimum housing benefit[^c-763fe005cc1549e49ba55868c75504cf]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where housing benefit is payable in the form of a rent rebate or allowance, it s
 
 ## Annotations
 
-[^key-763fe005cc1549e49ba55868c75504cf]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2006/405/regulation/73) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-763fe005cc1549e49ba55868c75504cf]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2006/405/regulation/73) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

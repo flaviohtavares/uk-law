@@ -35,7 +35,7 @@ the roads authority may, by notice served either on the owner of the hedge, tree
 
 (3) Subject to subsection (4) below, if in the opinion of the roads authority the danger referred to in subsection (2) above is imminent they may dispense with the service of the notice required by that subsection, may themselves carry out the work forthwith, and may recover the expenses reasonably incurred in so doing from the owner or occupier.
 
-(4) Subsection (3) above does not apply, and subsection (2) above does not except in any case with the consent of Historic Environment Scotland[^key-820f267783f9a7bffc54624cb2c57049] apply, as regards a wall (or retaining wall) forming part of an ancient monument or other object of archaeological interest; and any such consent may direct that the said subsection (2) shall apply in that case with such modifications as may be specified in the consent:
+(4) Subsection (3) above does not apply, and subsection (2) above does not except in any case with the consent of Historic Environment Scotland[^c-820f267783f9a7bffc54624cb2c57049] apply, as regards a wall (or retaining wall) forming part of an ancient monument or other object of archaeological interest; and any such consent may direct that the said subsection (2) shall apply in that case with such modifications as may be specified in the consent:
 
 Provided that where in the opinion of the roads authority the danger referred to in the said subsection (2) is imminent, they may before obtaining such consent (and without service of the notice required by that subsection) carry out such work, or take such other steps, as will for the time being safeguard road users.
 
@@ -60,7 +60,7 @@ Provided that, if in the opinion of the roads authority there is imminent danger
 
 [^c1610776]: Modification: S. 91: power to contract out functions of Secretary of State (16.3.1996) by [S.I. 1996/878](https://www.legislation.gov.uk/uksi/1996/878), [art. 2](https://www.legislation.gov.uk/uksi/1996/878/article/2), [Sch. para. 5(ab)](https://www.legislation.gov.uk/uksi/1996/878/schedule/paragraph/5/ab)
 
-[^key-820f267783f9a7bffc54624cb2c57049]: Textual amendment: Words in [s. 91(4)](https://www.legislation.gov.uk/ukpga/1984/54/section/91/4) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/271/article/2/2) (with [art. 2(4)](https://www.legislation.gov.uk/ssi/2015/271/article/2/4))
+[^c-820f267783f9a7bffc54624cb2c57049]: Textual amendment: Words in [s. 91(4)](https://www.legislation.gov.uk/ukpga/1984/54/section/91/4) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/271/article/2/2) (with [art. 2(4)](https://www.legislation.gov.uk/ssi/2015/271/article/2/4))
 
 [^c1610777]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 

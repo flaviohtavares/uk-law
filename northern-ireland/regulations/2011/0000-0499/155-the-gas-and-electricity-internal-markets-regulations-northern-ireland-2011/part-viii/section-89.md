@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Amendments to the Energy Act (Northern Ireland) 2011[^key-ab178020f56b5b90a71e569024be0311]
+## 89. Amendments to the Energy Act (Northern Ireland) 2011[^c-ab178020f56b5b90a71e569024be0311]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Section 17(5) of the Energy Act (Northern Ireland) 2011, in paragraph (a) of 
 
 ## Annotations
 
-[^key-ab178020f56b5b90a71e569024be0311]: Commencement: Reg. 89 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-ab178020f56b5b90a71e569024be0311]: Commencement: Reg. 89 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Phasing out of allowances before abolition[^key-ee04c7b93a75a38cab333744ec5b30b9]
+## 85. Phasing out of allowances before abolition[^c-ee04c7b93a75a38cab333744ec5b30b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee04c7b93a75a38cab333744ec5b30b9]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/2008/9/section/85) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 29(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/29/a)
+[^c-ee04c7b93a75a38cab333744ec5b30b9]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/2008/9/section/85) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 29(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/29/a)

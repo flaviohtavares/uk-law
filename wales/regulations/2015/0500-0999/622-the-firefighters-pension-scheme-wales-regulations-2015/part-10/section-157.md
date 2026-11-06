@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Appeal concerning entries on the certificate[^key-214b8d9e7462697ed593a6cf4efc067b]
+## 157. Appeal concerning entries on the certificate[^c-214b8d9e7462697ed593a6cf4efc067b]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-214b8d9e7462697ed593a6cf4efc067b]: Commencement: Reg. 157 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-214b8d9e7462697ed593a6cf4efc067b]: Commencement: Reg. 157 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00067]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Section 50 was substituted by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), section 273. Section 273 of the 2004 Act was amended, before coming into effect, by the Pension Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), section 16.
 

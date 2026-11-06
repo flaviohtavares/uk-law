@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75A. Effect of statutory shared parental pay on an employment and support allowance[^key-a09aad84b4c2798093f185e5e3a6f4de]
+## 75A. Effect of statutory shared parental pay on an employment and support allowance[^c-a09aad84b4c2798093f185e5e3a6f4de]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a09aad84b4c2798093f185e5e3a6f4de]: Textual amendment: [Reg. 75A](https://www.legislation.gov.uk/uksi/2013/379/regulation/75A) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/30/3)
+[^c-a09aad84b4c2798093f185e5e3a6f4de]: Textual amendment: [Reg. 75A](https://www.legislation.gov.uk/uksi/2013/379/regulation/75A) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/30/3)

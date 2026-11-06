@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Endorsement of notice[^key-19fe3f18a5e56ec3cfab4c915c7a6b1b]
+## 227. Endorsement of notice[^c-19fe3f18a5e56ec3cfab4c915c7a6b1b]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19fe3f18a5e56ec3cfab4c915c7a6b1b]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2005/19/section/227) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-19fe3f18a5e56ec3cfab4c915c7a6b1b]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2005/19/section/227) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

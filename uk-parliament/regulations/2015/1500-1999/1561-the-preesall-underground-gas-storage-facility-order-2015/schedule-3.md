@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^key-8d45609623c28d71877092527277e1eb]
+## SCHEDULE 3 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^c-8d45609623c28d71877092527277e1eb]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ Article 10
 
 ## Annotations
 
-[^key-8d45609623c28d71877092527277e1eb]: Commencement: Sch. 3 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-8d45609623c28d71877092527277e1eb]: Commencement: Sch. 3 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

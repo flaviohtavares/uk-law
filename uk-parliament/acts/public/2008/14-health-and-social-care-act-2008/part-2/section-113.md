@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. The Council for Healthcare Regulatory Excellence[^key-addfc877b9d41fee97dbe091368ffa9b]
+## 113. The Council for Healthcare Regulatory Excellence[^c-addfc877b9d41fee97dbe091368ffa9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-addfc877b9d41fee97dbe091368ffa9b]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2008/14/section/113) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/a)
+[^c-addfc877b9d41fee97dbe091368ffa9b]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2008/14/section/113) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/a)

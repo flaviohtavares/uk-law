@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Commission Implementing Decision C(2015) 8628 on approving the operational programme “European Maritime and Fisheries Fund – Operational Programme for the United Kingdom” for support from the European Maritime and Fisheries Fund in the United Kingdom[^key-fabf0f0cc1714efdfaea59974d037f5b][^key-664ebef8a8b4dfed5ef9264a08534801]
+## 31. Commission Implementing Decision C(2015) 8628 on approving the operational programme “European Maritime and Fisheries Fund – Operational Programme for the United Kingdom” for support from the European Maritime and Fisheries Fund in the United Kingdom[^c-fabf0f0cc1714efdfaea59974d037f5b][^c-664ebef8a8b4dfed5ef9264a08534801]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fabf0f0cc1714efdfaea59974d037f5b]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-fabf0f0cc1714efdfaea59974d037f5b]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
 
-[^key-664ebef8a8b4dfed5ef9264a08534801]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2019/739/part/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/5)
+[^c-664ebef8a8b4dfed5ef9264a08534801]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2019/739/part/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/5)

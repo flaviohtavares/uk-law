@@ -41,11 +41,11 @@ Coming into force
 
 The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on the Secretary of State by section 143(2) of, and paragraph 2(8) of Schedule 6 to, the Local Government Finance Act 1988[^f00001], and of all other powers enabling the Secretary of State in that behalf, and now vested in the National Assembly for Wales:
 
-## 1. Application, citation and commencement[^key-11f6772193f85111b2ce5cfaa442a2e2]
+## 1. Application, citation and commencement[^c-11f6772193f85111b2ce5cfaa442a2e2]
 
 These Regulations, which apply to Wales only, may be cited as the Valuation for Rating (Plant and Machinery) (Wales) Regulations 2000 and shall come into force on 1st April 2000.
 
-## 2. Prescribed assumptions as to plant and machinery[^key-8ea2f9593d16db96ab894e604100e753]
+## 2. Prescribed assumptions as to plant and machinery[^c-8ea2f9593d16db96ab894e604100e753]
 
 For the purpose of determining the rateable value of a hereditament for any day on or after 1st April 2000, in applying the provisions of sub-paragraphs (1) to (7) of paragraph 2 of Schedule 6 to the Local Government Finance Act 1988 —
 
@@ -54,7 +54,7 @@ For the purpose of determining the rateable value of a hereditament for any day 
   - (ii) the value of any other plant and machinery has no effect on the rent to be estimated as required by paragraph 2(1); and
 - (b) in relation to any other hereditament, the prescribed assumption is that the value of any plant or machinery has no effect on the rent to be so estimated.
 
-## 2A. Prescribed assumptions as to plant and machinery: valuation for 1st April 2010 and subsequent days[^key-6952e534d836d8cb218d91dc2342ed18]
+## 2A. Prescribed assumptions as to plant and machinery: valuation for 1st April 2010 and subsequent days[^c-6952e534d836d8cb218d91dc2342ed18]
 
 (1) For the purpose of determining the rateable value of a hereditament for any day on or after 1st April 2010, in applying the provisions of sub-paragraphs (1) to (7) of paragraph 2 of Schedule 6 to the Local Government Finance Act 1988—
 
@@ -71,7 +71,7 @@ For the purpose of determining the rateable value of a hereditament for any day 
 - (b) in the period—
   - (i) starting on the day that the item of plant or machinery is installed, and
   - (ii) ending on the earlier of—
-    - (aa) the first day after the day that the item of plant or machinery is installed on which rating lists fall to be compiled for the purposes of sections 41ZA(2) and 52ZA(2)[^key-3d37ef1755db542153d41e15dd88e5a1] of the Local Government Finance Act 1988, and
+    - (aa) the first day after the day that the item of plant or machinery is installed on which rating lists fall to be compiled for the purposes of sections 41ZA(2) and 52ZA(2)[^c-3d37ef1755db542153d41e15dd88e5a1] of the Local Government Finance Act 1988, and
     - (bb) the day the item of plant or machinery ceases to have microgeneration capacity.
 
 (3) In this regulation “microgeneration capacity” means the capacity of plant or machinery to be used for the generation of electricity or the production of heat—
@@ -79,11 +79,11 @@ For the purpose of determining the rateable value of a hereditament for any day 
 - (a) which, in generating electricity or (as the case may be) producing heat, relies wholly or mainly on a source of energy or a technology mentioned in section 26(2) (interpretation) of the Climate Change and Sustainable Energy Act 2006; and
 - (b) the capacity of which to generate electricity or (as the case may be) to produce heat does not exceed the capacity mentioned in section 26(3) of that Act.
 
-## 3. Supply of written particulars[^key-58a15341b43dd59b4e982ec66714e4c4]
+## 3. Supply of written particulars[^c-58a15341b43dd59b4e982ec66714e4c4]
 
 The valuation officer shall, on being so required in writing by the occupier of any hereditament, supply to that person particulars in writing showing what plant and machinery, or whether any particular plant and machinery, has been assumed in pursuance of regulation 2(a) to form part of the hereditament.
 
-## 4. Revocation and savings[^key-37f815d5b1b1b3f7ee952f33717fe426]
+## 4. Revocation and savings[^c-37f815d5b1b1b3f7ee952f33717fe426]
 
 (1) Subject to paragraph (2), the Valuation for Rating (Plant and Machinery) Regulations 1994 (‘the 1994 Regulations’)[^f00002] are revoked.
 
@@ -97,13 +97,13 @@ The Presiding Officer of the National Assembly
 
 31st March 2000
 
-## SCHEDULE — CLASSES OF PLANT AND MACHINERY TO BE ASSUMED TO BE PART OF THE HEREDITAMENT[^key-455e29b5f0b84467a1dd287065dfa941]
+## SCHEDULE — CLASSES OF PLANT AND MACHINERY TO BE ASSUMED TO BE PART OF THE HEREDITAMENT[^c-455e29b5f0b84467a1dd287065dfa941]
 
 Regulation 2
 
 **CLASS 1**
 
-Plant and machinery (other than excepted plant and machinery or, in relation to any day on or after 1 April 2024 and before 1 April 2035, excepted renewables plant and machinery or excepted electric vehicle charging point plant and machinery[^key-f7ba05ff4a6780321d584cced10a479f]) specified in Table 1 below (together with any of the appliances and structures accessory to such plant or machinery and specified in the List of Accessories set out below) which is used or intended to be used mainly or exclusively in connection with the generation, storage, primary transformation or main transmission of power in or on the hereditament.
+Plant and machinery (other than excepted plant and machinery or, in relation to any day on or after 1 April 2024 and before 1 April 2035, excepted renewables plant and machinery or excepted electric vehicle charging point plant and machinery[^c-f7ba05ff4a6780321d584cced10a479f]) specified in Table 1 below (together with any of the appliances and structures accessory to such plant or machinery and specified in the List of Accessories set out below) which is used or intended to be used mainly or exclusively in connection with the generation, storage, primary transformation or main transmission of power in or on the hereditament.
 
 In this Class —
 
@@ -115,7 +115,7 @@ In this Class —
   - (iii) in the case of hydraulic or pneumatic power, the point where the main supply ceases, excluding any branch service piping connected with such main supply;
   - (iv) in a case where, without otherwise passing beyond the limits of the main transmission of power, power is transmitted to another hereditament, the point at which the power passes from the hereditament; and
 - (d) “excepted plant and machinery” means plant and machinery on a hereditament used or intended to be used for the generation, storage, transformation or transmission of power, where the power is mainly or exclusively for distribution for sale to consumers.
-- (e) “[^key-1e1f833d4191f5cdc4ec5485ac36866b] **excepted renewables plant and machinery**” means plant and machinery used or intended to be used for the generation, storage, transformation or transmission of power where the sources of energy or technologies relied upon are mainly or exclusively—
+- (e) “[^c-1e1f833d4191f5cdc4ec5485ac36866b] **excepted renewables plant and machinery**” means plant and machinery used or intended to be used for the generation, storage, transformation or transmission of power where the sources of energy or technologies relied upon are mainly or exclusively—
   - (i) biomass;
   - (ii) biofuels;
   - (iii) biogas;
@@ -332,27 +332,27 @@ These Regulations revoke, with effect from 1st April 2000, the Valuation for Rat
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraph 2(8) of Schedule 6 was amended by paragraph 38(8) of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42). See section 146(6) for the definition of "prescribed". These powers are devolved, in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); see the reference to the Local Government Finance Act 1988 in Schedule 1.
 
-[^key-11f6772193f85111b2ce5cfaa442a2e2]: Commencement: Reg. 1 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
+[^c-11f6772193f85111b2ce5cfaa442a2e2]: Commencement: Reg. 1 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
 
-[^key-8ea2f9593d16db96ab894e604100e753]: Commencement: Reg. 2 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
+[^c-8ea2f9593d16db96ab894e604100e753]: Commencement: Reg. 2 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
 
-[^key-6952e534d836d8cb218d91dc2342ed18]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2000/1097/regulation/2A) inserted (1.4.2010) by [The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Regulations 2010 (S.I. 2010/146)](https://www.legislation.gov.uk/wsi/2010/146), [regs. 1](https://www.legislation.gov.uk/wsi/2010/146/regulation/1), [2](https://www.legislation.gov.uk/wsi/2010/146/regulation/2)
+[^c-6952e534d836d8cb218d91dc2342ed18]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2000/1097/regulation/2A) inserted (1.4.2010) by [The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Regulations 2010 (S.I. 2010/146)](https://www.legislation.gov.uk/wsi/2010/146), [regs. 1](https://www.legislation.gov.uk/wsi/2010/146/regulation/1), [2](https://www.legislation.gov.uk/wsi/2010/146/regulation/2)
 
-[^key-3d37ef1755db542153d41e15dd88e5a1]: Textual amendment: Words in [reg. 2A(2)(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2000/1097/regulation/2A/2/b/ii/aa) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2024/998/regulation/13)
+[^c-3d37ef1755db542153d41e15dd88e5a1]: Textual amendment: Words in [reg. 2A(2)(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2000/1097/regulation/2A/2/b/ii/aa) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2024/998/regulation/13)
 
-[^key-58a15341b43dd59b4e982ec66714e4c4]: Commencement: Reg. 3 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
+[^c-58a15341b43dd59b4e982ec66714e4c4]: Commencement: Reg. 3 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
 
-[^key-37f815d5b1b1b3f7ee952f33717fe426]: Commencement: Reg. 4 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
+[^c-37f815d5b1b1b3f7ee952f33717fe426]: Commencement: Reg. 4 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
 
 [^f00002]: Footnote: S.I. [1994/2680](https://www.legislation.gov.uk/uksi/1994/2680), which continues in effect the Valuation for Rating (Plant and Machinery) Regulations 1989 (S.I. [1989/441](https://www.legislation.gov.uk/uksi/1989/441)) in relation to any day before 1st April 1995.
 
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-455e29b5f0b84467a1dd287065dfa941]: Commencement: Sch. in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
+[^c-455e29b5f0b84467a1dd287065dfa941]: Commencement: Sch. in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/1097/regulation/1)
 
-[^key-f7ba05ff4a6780321d584cced10a479f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2000/1097/schedule) Class 1 inserted (1.4.2024) by [The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1229)](https://www.legislation.gov.uk/wsi/2023/1229), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1229/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2023/1229/regulation/2/2/a)
+[^c-f7ba05ff4a6780321d584cced10a479f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2000/1097/schedule) Class 1 inserted (1.4.2024) by [The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1229)](https://www.legislation.gov.uk/wsi/2023/1229), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1229/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2023/1229/regulation/2/2/a)
 
-[^key-1e1f833d4191f5cdc4ec5485ac36866b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2000/1097/schedule) Class 1 inserted (1.4.2024) by [The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1229)](https://www.legislation.gov.uk/uksi/2023/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1229/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1229/regulation/2/2/b)
+[^c-1e1f833d4191f5cdc4ec5485ac36866b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2000/1097/schedule) Class 1 inserted (1.4.2024) by [The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1229)](https://www.legislation.gov.uk/uksi/2023/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1229/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1229/regulation/2/2/b)
 
 [^f00004]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
 

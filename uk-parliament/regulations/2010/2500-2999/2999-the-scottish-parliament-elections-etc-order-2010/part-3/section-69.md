@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Officials not to act for candidates[^key-bf4c3f48afa1f3a825e38e095d2b45eb]
+## 69. Officials not to act for candidates[^c-bf4c3f48afa1f3a825e38e095d2b45eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ unless that person is a candidate.
 
 ## Annotations
 
-[^key-bf4c3f48afa1f3a825e38e095d2b45eb]: Commencement: Art. 69 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-bf4c3f48afa1f3a825e38e095d2b45eb]: Commencement: Art. 69 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -22,14 +22,14 @@ summary: ''
 
 (1) Section 102 of the Road Traffic Regulation Act 1984 shall be amended as follows.
 
-(2) In subsection (2)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2a7e5d315b1432581246b914901e3486]
+(2) In subsection (2)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a7e5d315b1432581246b914901e3486]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-2a7e5d315b1432581246b914901e3486] in paragraphs (b) and (c) after the words “local authority” there shall be inserted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-2a7e5d315b1432581246b914901e3486] “ other than a London authority ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-2a7e5d315b1432581246b914901e3486]; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-2a7e5d315b1432581246b914901e3486]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-2a7e5d315b1432581246b914901e3486] after paragraph (c) there shall be added— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2a7e5d315b1432581246b914901e3486]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-2a7e5d315b1432581246b914901e3486] in paragraphs (b) and (c) after the words “local authority” there shall be inserted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a7e5d315b1432581246b914901e3486] “ other than a London authority ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a7e5d315b1432581246b914901e3486]; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a7e5d315b1432581246b914901e3486]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-2a7e5d315b1432581246b914901e3486] after paragraph (c) there shall be added— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a7e5d315b1432581246b914901e3486]
 
-  > and *(Extent: E+W)* *(affected by repeal, see note)*[^key-2a7e5d315b1432581246b914901e3486]
+  > and *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a7e5d315b1432581246b914901e3486]
   >
-  > - (d (Extent: E+W) (affected by repeal, see note))[^key-2a7e5d315b1432581246b914901e3486] a London authority shall be entitled to recover from any person responsible, such charges in respect of the removal, storage and disposal of a vehicle removed from a parking place designated under section 6, 9 or 45 of this Act or otherwise provided or controlled by that authority as they may require. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2a7e5d315b1432581246b914901e3486]
+  > - (d (Extent: E+W) (affected by repeal, see note))[^c-2a7e5d315b1432581246b914901e3486] a London authority shall be entitled to recover from any person responsible, such charges in respect of the removal, storage and disposal of a vehicle removed from a parking place designated under section 6, 9 or 45 of this Act or otherwise provided or controlled by that authority as they may require. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a7e5d315b1432581246b914901e3486]
 
 (3) In subsection (8)—
 
@@ -39,11 +39,11 @@ summary: ''
 
   ;
 - (b) in that definition, the words following paragraph (b) shall be omitted; and
-- (c) at the end of that subsection there shall be added— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2eb5addc84046d5451f4b542342c218f]
+- (c) at the end of that subsection there shall be added— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2eb5addc84046d5451f4b542342c218f]
 
-  > and *(Extent: E+W)* *(affected by repeal, see note)*[^key-2eb5addc84046d5451f4b542342c218f]
+  > and *(Extent: E+W)* *(affected by repeal, see note)*[^c-2eb5addc84046d5451f4b542342c218f]
   >
-  > “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-2eb5addc84046d5451f4b542342c218f]**London authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-2eb5addc84046d5451f4b542342c218f]**” means any council of a London borough or the Common Council of the City of London. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2eb5addc84046d5451f4b542342c218f]
+  > “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-2eb5addc84046d5451f4b542342c218f]**London authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-2eb5addc84046d5451f4b542342c218f]**” means any council of a London borough or the Common Council of the City of London. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2eb5addc84046d5451f4b542342c218f]
 
 (4) The following subsection shall be added at the end—
 
@@ -70,6 +70,6 @@ summary: ''
 
     S. 68 excluded (3.6.1994) by [S.I. 1994/1482](https://www.legislation.gov.uk/uksi/1994/1482), [art. 5(2)](https://www.legislation.gov.uk/uksi/1994/1482/article/5/2)
 
-[^key-2a7e5d315b1432581246b914901e3486]: Textual amendment: S. 68(2) repealed (E.W.) (31.3.2008 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), s. 99(1), Sch. 12 Pt. 1; [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), art. 2, Sch.
+[^c-2a7e5d315b1432581246b914901e3486]: Textual amendment: S. 68(2) repealed (E.W.) (31.3.2008 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), s. 99(1), Sch. 12 Pt. 1; [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), art. 2, Sch.
 
-[^key-2eb5addc84046d5451f4b542342c218f]: Textual amendment: S. 68(3)(c) repealed (E.W.) (31.3.2008 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), s. 99(1), Sch. 12 Pt. 1; [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), art. 2, Sch.
+[^c-2eb5addc84046d5451f4b542342c218f]: Textual amendment: S. 68(3)(c) repealed (E.W.) (31.3.2008 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), s. 99(1), Sch. 12 Pt. 1; [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), art. 2, Sch.

@@ -32,7 +32,7 @@ summary: ''
 (2) In addition—
 
 - (a) each of sections 35, 36, 38 and 39 makes provision to supplement the principle to which it relates,
-- (aa)[^key-99ab7faa88ca562f58efadf0dd63b7d5] section 40A makes provision about processing carried out in reliance on the consent of the data subject, and
+- (aa)[^c-99ab7faa88ca562f58efadf0dd63b7d5] section 40A makes provision about processing carried out in reliance on the consent of the data subject, and
 - (b) sections 41 and 42 make provision about the safeguards that apply in relation to certain types of processing.
 
 (3) The controller in relation to personal data is responsible for, and must be able to demonstrate, compliance with this Chapter.
@@ -41,4 +41,4 @@ summary: ''
 
 [^M_I_ada71e33-07ba-4f0f-b434-a6f29f070716]: Commencement: S. 34 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-99ab7faa88ca562f58efadf0dd63b7d5]: Textual amendment: S. 34(2)(aa) inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 69(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/69/3), [142(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/a)
+[^c-99ab7faa88ca562f58efadf0dd63b7d5]: Textual amendment: S. 34(2)(aa) inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 69(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/69/3), [142(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/a)

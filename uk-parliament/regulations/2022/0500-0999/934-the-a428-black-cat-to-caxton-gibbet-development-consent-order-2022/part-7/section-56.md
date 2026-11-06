@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Use of private roads for construction[^key-cd9c0086ed6b65da122a38e5ad556fe4]
+## 56. Use of private roads for construction[^c-cd9c0086ed6b65da122a38e5ad556fe4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd9c0086ed6b65da122a38e5ad556fe4]: Commencement: Art. 56 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-cd9c0086ed6b65da122a38e5ad556fe4]: Commencement: Art. 56 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

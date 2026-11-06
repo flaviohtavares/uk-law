@@ -39,10 +39,10 @@ summary: ''
 
 (5) Any power conferred by this Act to make subordinate legislation also includes power to make such incidental, supplementary, consequential or transitional provision as appears to the authority making the subordinate legislation to be expedient.
 
-(6)[^key-b21946594ba0e0becbe8b155a85e09a0] Regulations may, for the purposes of or in connection with the coming into force of any provisions of this Act, make any such provision as could be made by virtue of section 322(5) by an order bringing those provisions into force.
+(6)[^c-b21946594ba0e0becbe8b155a85e09a0] Regulations may, for the purposes of or in connection with the coming into force of any provisions of this Act, make any such provision as could be made by virtue of section 322(5) by an order bringing those provisions into force.
 
 ## Annotations
 
 [^c6445301]: Commencement: S. 315 partly in force; s. 315(1)-(5) in force at Royal Assent see s. 322
 
-[^key-b21946594ba0e0becbe8b155a85e09a0]: Commencement: [S. 315(6)](https://www.legislation.gov.uk/ukpga/2004/35/section/315/6) in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)
+[^c-b21946594ba0e0becbe8b155a85e09a0]: Commencement: [S. 315(6)](https://www.legislation.gov.uk/ukpga/2004/35/section/315/6) in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)

@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — INTRODUCTORY
 
-#### 1. Circumstances in which land is usable or unusable[^key-aa11c49774792af8c9e99a8a1894f5aa]
+#### 1. Circumstances in which land is usable or unusable[^c-aa11c49774792af8c9e99a8a1894f5aa]
 
 (1) This paragraph applies for the purposes of sections 110 and 213 and this Schedule.
 
@@ -40,7 +40,7 @@ summary: ''
 - (b) an enforcement notice has been issued, or could be issued, requiring steps to be taken to remedy the breach or any injury to amenity caused by it, and
 - (c) the land would be usable if those steps were taken.
 
-#### 2. Interpretation[^key-228330ab7b9daa62ae30e32257bd37f4]
+#### 2. Interpretation[^c-228330ab7b9daa62ae30e32257bd37f4]
 
 In this Schedule—
 
@@ -52,7 +52,7 @@ In this Schedule—
 
 ### PART 2 — SERVICE OF PURCHASE NOTICE
 
-#### 3. Service of purchase notice in respect of Crown land[^key-07a34fb64f0b8e806a6afe0923409c98]
+#### 3. Service of purchase notice in respect of Crown land[^c-07a34fb64f0b8e806a6afe0923409c98]
 
 (1) The owner of a private interest in Crown land may not serve a purchase notice in respect of that interest unless—
 
@@ -68,7 +68,7 @@ In this Schedule—
 
 (3) A purchase notice may not be served in respect of a Crown interest or Duchy interest in any other land.
 
-#### 4. Further provision about service of purchase notice[^key-f3976f9f072f7ee48140f724dadb4d43]
+#### 4. Further provision about service of purchase notice[^c-f3976f9f072f7ee48140f724dadb4d43]
 
 (1) A purchase notice must relate to all of the land to which the planning decision or order in consequence of which it is served relates, and not to any other land.
 
@@ -90,7 +90,7 @@ In this Schedule—
 
 ### PART 3 — ACTION FOLLOWING SERVICE OF PURCHASE NOTICE AND EFFECT OF NOTICE
 
-#### 5. Response to purchase notice by planning authority[^key-017cc4b921cbaa732aabe7fd25431964]
+#### 5. Response to purchase notice by planning authority[^c-017cc4b921cbaa732aabe7fd25431964]
 
 (1) Where a person has served a purchase notice on a planning authority, the authority must serve an acceptance notice or rejection notice on the person.
 
@@ -116,7 +116,7 @@ In this Schedule—
 - (a) a copy of the purchase notice, and
 - (b) a copy of the rejection notice.
 
-#### 6. Action to be taken by the Welsh Ministers on rejection of purchase notice by planning authority[^key-759b5afb0a6702a2e521cc592ac05294]
+#### 6. Action to be taken by the Welsh Ministers on rejection of purchase notice by planning authority[^c-759b5afb0a6702a2e521cc592ac05294]
 
 (1) This paragraph applies where a copy of a purchase notice is sent to the Welsh Ministers under paragraph 5(6).
 
@@ -149,7 +149,7 @@ In this Schedule—
 
 (11) If the Welsh Ministers are not satisfied that the conditions in section 110(3) or section 213(3) (as appropriate) are met in relation to the land to which a purchase notice relates, they must refuse to confirm the notice.
 
-#### 7. No duty to confirm purchase notice relating to planning decision if land has restricted use[^key-9e6c11c3d61031b9f14aec35faca07bb]
+#### 7. No duty to confirm purchase notice relating to planning decision if land has restricted use[^c-9e6c11c3d61031b9f14aec35faca07bb]
 
 (1) This paragraph applies where—
 
@@ -163,7 +163,7 @@ In this Schedule—
 
 (3) The Welsh Ministers may refuse to confirm the purchase notice if they consider that the land that has a restricted use should, in accordance with the previous planning permission, remain undeveloped or be preserved or laid out as amenity land in relation to the remainder of the larger area to which the permission relates.
 
-#### 8. Procedure before the Welsh Ministers take action in relation to purchase notice[^key-d697feba0c1904333f9d6eb2b0ef81a1]
+#### 8. Procedure before the Welsh Ministers take action in relation to purchase notice[^c-d697feba0c1904333f9d6eb2b0ef81a1]
 
 (1) Before taking any action in relation to a purchase notice under paragraph 6 or 7, the Welsh Ministers must serve notice of their proposed action—
 
@@ -179,7 +179,7 @@ In this Schedule—
 
 (5) If, after any persons have appeared before and been heard by an inspector, the Welsh Ministers consider it appropriate to take action under paragraph 6 or 7 otherwise than in accordance with the notice served under sub-paragraph (1), they may do so.
 
-#### 9. Effect of confirmation of purchase notice or failure to take action[^key-4d086a7e99e67ac72b1a04c176876485]
+#### 9. Effect of confirmation of purchase notice or failure to take action[^c-4d086a7e99e67ac72b1a04c176876485]
 
 (1) Where the Welsh Ministers confirm a purchase notice, the authority mentioned in sub-paragraph (2) is to be treated—
 
@@ -211,25 +211,25 @@ In this Schedule—
   - (ii) section 100 (appeal against refusal etc. of application relating to listed building consent or conservation area consent) or 127 (appeal against enforcement notice) of the Historic Environment Act, or
   - (iii) section 21 of the Hazardous Substances Act (appeal against refusal etc. of application relating to hazardous substances consent) or regulations that make provision under section 25(1B)(b) of that Act (appeal against hazardous substances contravention notice).
 
-#### 10. Legal challenge to action taken by the Welsh Ministers in relation to purchase notice[^key-b6113362d3ff42ff5bbe67fd4884ecfe]
+#### 10. Legal challenge to action taken by the Welsh Ministers in relation to purchase notice[^c-b6113362d3ff42ff5bbe67fd4884ecfe]
 
 (1) If a decision of the Welsh Ministers to take any action under paragraph 6 or 7 in relation to a purchase notice is quashed in proceedings under section 376, the purchase notice is to be treated as cancelled, but the person who served it may serve a further purchase notice.
 
 (2) For the purpose of determining whether the further purchase notice has been served within the period specified in paragraph 4(2), the planning decision to which the notice relates is to be treated as having been made, or the order to which it relates is to be treated as having taken effect, on the day the Welsh Ministers’ decision was quashed.
 
-#### 11. No withdrawal of notice to treat deemed to have been served under this Part[^key-9bc173532ae26997fed4532f6e47096b]
+#### 11. No withdrawal of notice to treat deemed to have been served under this Part[^c-9bc173532ae26997fed4532f6e47096b]
 
 (1) A notice to treat that is treated as having been served by virtue of paragraph 5(5) or paragraph 9(1) or (3)(b) may not be withdrawn under section 31 of the Land Compensation Act [1961 (c. 33)](https://www.legislation.gov.uk/ukpga/1961/33).
 
 (2) But if the purchase notice is withdrawn or is treated as cancelled, any notice to treat that is treated as having been served in consequence of it is to be treated as having been withdrawn.
 
-#### 12. Deduction of compensation for changes to planning permission[^key-8fad367d43155c479c078bd5e30cfde4]
+#### 12. Deduction of compensation for changes to planning permission[^c-8fad367d43155c479c078bd5e30cfde4]
 
 Where compensation is payable under section 105 or 106 for expenditure incurred in carrying out works on land, any compensation that becomes payable for the acquisition of an interest in the land in pursuance of a purchase notice must be reduced by the amount of the compensation relating to the works.
 
 ### PART 4 — SEVERANCE OF AGRICULTURAL LAND: RIGHT TO REQUIRE PURCHASE OF REMAINDER
 
-#### 13. Service of counter-notice requiring purchase of remainder of agricultural unit[^key-d7c0ee0939e8ee84d97e22ba29f93868]
+#### 13. Service of counter-notice requiring purchase of remainder of agricultural unit[^c-d7c0ee0939e8ee84d97e22ba29f93868]
 
 (1) This paragraph applies where—
 
@@ -258,7 +258,7 @@ Where compensation is payable under section 105 or 106 for expenditure incurred 
 
 (7) This paragraph does not limit the rights conferred by section 8(2) and (3) of the Compulsory Purchase Act [1965 (c. 56)](https://www.legislation.gov.uk/ukpga/1965/56) (provisions as to divided land).
 
-#### 14. Effect of counter-notice[^key-be7b38988815a564316fc6be44e824e3]
+#### 14. Effect of counter-notice[^c-be7b38988815a564316fc6be44e824e3]
 
 (1) Sub-paragraph (2) applies if—
 
@@ -288,7 +288,7 @@ Where compensation is payable under section 105 or 106 for expenditure incurred 
 - (a) on the assumption that planning permission would not be granted for any development of the land, and
 - (b) ignoring any planning permission that has been granted for development of the land, so far as the development to which it relates has not been carried out.
 
-#### 15. Acquisition and surrender of tenant’s interest under lease[^key-c21fbc85630b6b718799c60b039d9a04]
+#### 15. Acquisition and surrender of tenant’s interest under lease[^c-c21fbc85630b6b718799c60b039d9a04]
 
 (1) This paragraph applies where, by virtue of paragraph 14, an acquiring authority acquires or will acquire a lease of land but not the interest of the lessor.
 
@@ -323,32 +323,32 @@ the authority may pay the amount into court.
 
 ## Annotations
 
-[^key-aa11c49774792af8c9e99a8a1894f5aa]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-aa11c49774792af8c9e99a8a1894f5aa]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-228330ab7b9daa62ae30e32257bd37f4]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-228330ab7b9daa62ae30e32257bd37f4]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-07a34fb64f0b8e806a6afe0923409c98]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-07a34fb64f0b8e806a6afe0923409c98]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-f3976f9f072f7ee48140f724dadb4d43]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f3976f9f072f7ee48140f724dadb4d43]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-017cc4b921cbaa732aabe7fd25431964]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-017cc4b921cbaa732aabe7fd25431964]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-759b5afb0a6702a2e521cc592ac05294]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-759b5afb0a6702a2e521cc592ac05294]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-9e6c11c3d61031b9f14aec35faca07bb]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9e6c11c3d61031b9f14aec35faca07bb]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-d697feba0c1904333f9d6eb2b0ef81a1]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d697feba0c1904333f9d6eb2b0ef81a1]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-4d086a7e99e67ac72b1a04c176876485]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4d086a7e99e67ac72b1a04c176876485]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-b6113362d3ff42ff5bbe67fd4884ecfe]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b6113362d3ff42ff5bbe67fd4884ecfe]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-9bc173532ae26997fed4532f6e47096b]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9bc173532ae26997fed4532f6e47096b]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-8fad367d43155c479c078bd5e30cfde4]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8fad367d43155c479c078bd5e30cfde4]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-d7c0ee0939e8ee84d97e22ba29f93868]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d7c0ee0939e8ee84d97e22ba29f93868]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-be7b38988815a564316fc6be44e824e3]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-be7b38988815a564316fc6be44e824e3]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-c21fbc85630b6b718799c60b039d9a04]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c21fbc85630b6b718799c60b039d9a04]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

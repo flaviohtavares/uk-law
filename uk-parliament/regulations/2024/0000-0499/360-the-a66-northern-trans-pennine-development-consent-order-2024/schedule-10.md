@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-336eb83ba823da4fc6313b9cae29c0da]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-336eb83ba823da4fc6313b9cae29c0da]
 
 *Extent: E+W*
 
@@ -154,4 +154,4 @@ Article 16
 
 ## Annotations
 
-[^key-336eb83ba823da4fc6313b9cae29c0da]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2024/360/schedule/10) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [art. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/422/schedule)
+[^c-336eb83ba823da4fc6313b9cae29c0da]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2024/360/schedule/10) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [art. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/422/schedule)

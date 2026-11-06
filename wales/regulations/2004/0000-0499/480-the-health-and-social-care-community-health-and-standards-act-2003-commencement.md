@@ -37,11 +37,11 @@ Made
 
 The National Assembly for Wales, in exercise of the powers conferred on it by section 195(1)(b) and 199(1) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001], hereby makes the following Order:
 
-## 1. Citation, commencement, interpretation and application[^key-61412adbace810b96f2a33816e8139b0]
+## 1. Citation, commencement, interpretation and application[^c-61412adbace810b96f2a33816e8139b0]
 
 (1) This Order may be cited as the Health and Social Care (Community Health and Standards) Act 2003 (Commencement No 1) (Wales) Order 2004.
 
-(2) Articles 6 and 7 which make transitional provision shall come into force immediately after the commencement of the provisions referred to in[^key-2568b0a7307ca52ffbff94460b11be26] articles 4 and 5.
+(2) Articles 6 and 7 which make transitional provision shall come into force immediately after the commencement of the provisions referred to in[^c-2568b0a7307ca52ffbff94460b11be26] articles 4 and 5.
 
 (3) In this Order—
 
@@ -52,7 +52,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 
 (4) This Order applies to Wales only.
 
-## 2. Appointed days for provisions relating to primary medical services[^key-bd596bce3a83d7cacc901fa192cd611d]
+## 2. Appointed days for provisions relating to primary medical services[^c-bd596bce3a83d7cacc901fa192cd611d]
 
 (1) 28th February 2004 is the appointed day for the coming into force of the following provisions of the Act—
 
@@ -63,9 +63,9 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 - (e) section 180 in so far as it relates to the new section 28Y of the 1977 Act and primary medical services; and
 - (f) paragraph 8 of Schedule 11 and section 184 and paragraph 7 of that Schedule in so far as they relate to that paragraph.
 
-(2) 1st April 2004 is the appointed day for the coming into force of section 174 [^key-82777401363693eabc5900f8f17bf7a9]... in so far as it is not in force [^key-82777401363693eabc5900f8f17bf7a9]... and of section 175(2).
+(2) 1st April 2004 is the appointed day for the coming into force of section 174 [^c-82777401363693eabc5900f8f17bf7a9]... in so far as it is not in force [^c-82777401363693eabc5900f8f17bf7a9]... and of section 175(2).
 
-## 3. Appointed days for provisions relating to the general medical services contract[^key-def68b46707597b5b15ffa79619c852e]
+## 3. Appointed days for provisions relating to the general medical services contract[^c-def68b46707597b5b15ffa79619c852e]
 
 (1) 28th February 2004 is the day appointed for the coming into force of the following provisions of the Act—
 
@@ -73,14 +73,14 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 - (b) section 176; and
 - (c) paragraph 39 of Schedule 11 in so far as it inserts the definition of “general medical services contract” into section 128(1) the 1977 Act and section 184 and paragraph 7 of that Schedule in so far as they relate to that paragraph.
 
-## 4. Consequential amendments relating to primary medical services and general medical services coming into force on 1st April 2004[^key-299a33d8d97035390bdf4a5c2944d31b]
+## 4. Consequential amendments relating to primary medical services and general medical services coming into force on 1st April 2004[^c-299a33d8d97035390bdf4a5c2944d31b]
 
 (1) 1st April 2004 is the day appointed for the coming into force of the provisions of Schedule 11 to the Act referred to in paragraph (2) and Section 184 in so far as it relates to those provisions and in so far as are not in force.
 
 (2) In schedule 11—
 
 - (a) paragraph 1;
-- (b) paragraph 2 in so far as it relates to the provisions commenced by paragraphs (c) and (d) below[^key-d0b3d8111acd35cb5235f654d1e779d9];
+- (b) paragraph 2 in so far as it relates to the provisions commenced by paragraphs (c) and (d) below[^c-d0b3d8111acd35cb5235f654d1e779d9];
 - (c) paragraph 3(2)(a) and (3) to (5) and 3(1) in so far as it relates to those provisions,
 - (d) paragraphs 4 to 6;
 - (e) paragraph 7 in so far as it relates to the provisions commenced by sub-paragraphs (f) to (q) below and in so far they are not in force;
@@ -90,7 +90,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 - (i) paragraph 20 in so far as it omits section 43D(10)(a) of the 1977 Act;
 - (j) paragraph 21(2), 21(3) in so far as it omits section 44 (A1) and (B1) of the 1977 Act, 21(4) and 21(5) in so far as it omits section 44(3)(a) and (b) and paragraph 21(1) in so far as it relates to those provisions;
 - (k) paragraph 22(2), 22(3)(a), (5)(b) and (7) to (9) and paragraph 22(1) in so far as it relates to those provisions;
-- (l)[^key-112f2fb237255220a83cf715d5c07753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-112f2fb237255220a83cf715d5c07753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (m) paragraph 23 in so far as it inserts new sections 45A and 45B into the 1977 Act;
 - (n) paragraph 24(a);
 - (o) paragraphs 25 to 27;
@@ -110,35 +110,35 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
   - (cc) paragraphs 70, 71 and 73 and paragraph 69 in so far as it relates to those provisions; and
   - (dd) paragraph 74.
 
-## 5. Repeals relating to primary medical services and general medical services[^key-27593f36589a717831599d0d57fe8067]
+## 5. Repeals relating to primary medical services and general medical services[^c-27593f36589a717831599d0d57fe8067]
 
-(1) 1st April 2004 is the day appointed for the coming into force of the repeals of the enactments mentioned in[^key-81d8557bc13e74d614d7bdb03ab7c685] Schedule 14 to the Act referred to in paragraph (2) and section 196 in so far as it relates to those enactments.
+(1) 1st April 2004 is the day appointed for the coming into force of the repeals of the enactments mentioned in[^c-81d8557bc13e74d614d7bdb03ab7c685] Schedule 14 to the Act referred to in paragraph (2) and section 196 in so far as it relates to those enactments.
 
 (2) In Schedule 14 to the Act the enactments or enactments specified below—
 
 - (a) the National Health Service (Amendment) Act 1949[^f00005];
 - (b) the Health Services and Public Health Act 1968[^f00006];
 - (c) the Patents Act 1977[^f00007];
-- (d) the 1977 Act in relation[^key-01a3296cb712a632a205b4c29c791833] to sections 3(3), 26(2)(a) and (4)(a), 28H, 28F, 29 to 34A, 43ZA(3)(a), 43C(3), 43D(1) and (10)(a), 44 (A1), (B1)) and (3)(a) to (b), 45(3), 49F(1)(a), 52, 53, 56(a), 102(1)(a)(iii) and (2)(b), 126(4) and 128(1) in relation to the definitions of “medical list”, “personal medical services” and “terms of service”, Schedule 7A, [^key-86aed0b74d655cea7bcbe73bf3628020]... and Schedule 12A in relation to paragraphs 1(2)(d), 2(2)(c), 6A and 6B[^key-dbde231dafb8be52badf0bd3c1054752];
+- (d) the 1977 Act in relation[^c-01a3296cb712a632a205b4c29c791833] to sections 3(3), 26(2)(a) and (4)(a), 28H, 28F, 29 to 34A, 43ZA(3)(a), 43C(3), 43D(1) and (10)(a), 44 (A1), (B1)) and (3)(a) to (b), 45(3), 49F(1)(a), 52, 53, 56(a), 102(1)(a)(iii) and (2)(b), 126(4) and 128(1) in relation to the definitions of “medical list”, “personal medical services” and “terms of service”, Schedule 7A, [^c-86aed0b74d655cea7bcbe73bf3628020]... and Schedule 12A in relation to paragraphs 1(2)(d), 2(2)(c), 6A and 6B[^c-dbde231dafb8be52badf0bd3c1054752];
 - (e) the Health and Social Services and Social Security Adjudications Act 1983[^f00008] in relation to section 14(1) and Schedule 6, paragraph 2;
 - (f) the Medical Act 1983[^f00009];
 - (g) the Copyright, Designs and Patents Act 1988[^f00010];
 - (h) the Health and Medicines Act 1988[^f00011] in relation to section 2(1)(a) and 8(1)(a) and section 17(1) in so far as it relates to section 29 of the 1977 Act;
-- (i) the[^key-ac7a3b8b452889a7c60011545a35226d] National Health Service and Community Care Act 1990[^f00012] in so far as it relates to sections 18(7) and 23;
+- (i) the[^c-ac7a3b8b452889a7c60011545a35226d] National Health Service and Community Care Act 1990[^f00012] in so far as it relates to sections 18(7) and 23;
 - (j) the Access to Health Records Act 1990[^f00013];
 - (k) the Trade Union and Labour Relations (Consolidation) Act 1992[^f00014];
 - (l) the Health Service Commissioners Act 1993[^f00015] in relation to section 6(5);
-- (m) Health Authorities Act 1995[^f00016] in relation to paragraphs 18 to 23 of Schedule 1[^key-b54274e783a3c7d0dd26b71bb454c660];
+- (m) Health Authorities Act 1995[^f00016] in relation to paragraphs 18 to 23 of Schedule 1[^c-b54274e783a3c7d0dd26b71bb454c660];
 - (n) the Medical (Professional Performance) Act 1995[^f00017];
 - (o) the Employment Rights Act 1996[^f00018] in relation to section 43K(1)(c)(i);
-- (p)[^key-9aab3a8f81ffd132096d25ea5ff19cfb] in relation to the 1997 Act, Part 1 and section 40(3), in so far as they relate to personal medical services, and sections 23(1), 25(1) and 32, Schedule 1 and Schedule 2, paragraphs 6, 8 to 11, 71, 80 and 81;
+- (p)[^c-9aab3a8f81ffd132096d25ea5ff19cfb] in relation to the 1997 Act, Part 1 and section 40(3), in so far as they relate to personal medical services, and sections 23(1), 25(1) and 32, Schedule 1 and Schedule 2, paragraphs 6, 8 to 11, 71, 80 and 81;
 - (q) the Health Act 1999[^f00019] in relation to sections 9(2) and 11(2) in so far as it inserted section 44(A1) into the 1977 Act, Schedule 3, paragraph 11(3) and Schedule 4, paragraphs 2 and 17;
-- (r) the 2001 Act in relation to sections 15, 17 , 18, 20(2) and (3), 23(2) and 27(5) and Schedule 5, paragraphs 5(4) to (6) and 11(3)[^key-e2504a143413b957a48c320e84d96fc8]; and
+- (r) the 2001 Act in relation to sections 15, 17 , 18, 20(2) and (3), 23(2) and 27(5) and Schedule 5, paragraphs 5(4) to (6) and 11(3)[^c-e2504a143413b957a48c320e84d96fc8]; and
 - (s) the National Health Service Reform and Health Care Professions Act 2002[^f00020] in relation to sections 5(2) and (6)(b) and Schedule 2, paragraphs 3 to 8 and 72, Schedule 3, paragraphs 5, 6 and 10 and Schedule 8, paragraph 2.
 
-## 6. Transitional provisions applying until the coming into force of section 172(1) of the Act[^key-3565fc9dea5c6d1e735733d8a4adf3ab]
+## 6. Transitional provisions applying until the coming into force of section 172(1) of the Act[^c-3565fc9dea5c6d1e735733d8a4adf3ab]
 
-(1)[^key-595d5b434d5560a634e89462a07c591b] The following transitional provisions will apply until 1 April 2006.
+(1)[^c-595d5b434d5560a634e89462a07c591b] The following transitional provisions will apply until 1 April 2006.
 
 (2) In relation to the Health and Services and Public Health Act 1968—
 
@@ -192,7 +192,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 
       > - (cc) a dental practitioner whose name is included in a list prepared in accordance with regulations made under section 36(1)(a);
 - (e) section 43(1) (persons authorised to provide pharmaceutical services) shall be read as if for the words “general medical services” there were substituted the words “primary medical services”;
-- (ee)[^key-c80920c8d5f80fa00040cf8efdbe112e] section 43C(3) (indemnity cover) shall be read as if in the definition of “Part II services”, the words “general dental services,” were inserted before the words “general ophthalmic services”;
+- (ee)[^c-c80920c8d5f80fa00040cf8efdbe112e] section 43C(3) (indemnity cover) shall be read as if in the definition of “Part II services”, the words “general dental services,” were inserted before the words “general ophthalmic services”;
 - (f) section 43D (supplementary lists) shall be read as if—
   - (i) in subsection (1), after the words “general ophthalmic services” there were inserted “,general dental services,”, and
   - (ii) in subsection (10), for the words “paragraphs (a) to (e), a supplementary list” there were substituted “paragraphs (b) to (e), a supplementary list, a list under section 28X”;
@@ -209,8 +209,8 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
   - (v) in subsection (4), after the words “persons providing local pharmaceutical services” there were inserted the words “deputy dental practitioners or section 28C dental practitioners, as the case may be”;
 - (i) Section 45B (Local Dental Committees) shall be read as if—
   - (i) for all references to “primary dental services” there shall be substituted “general dental services”, and
-  - (ii) in subsection (3), the words “under a general dental services contract entered into by him”[^key-663e790fdda58621d6f4f2314def081f] were omitted, and
-  - (iii) sub-section (4)(a)(iii)[^key-549691afe11e22857a60b1e808d0459c] was omitted and as if, in sub section (4)(b), the words “Local Health Board” were inserted after “Primary Care Trust[^key-d3aaa467be9c8415ef6ba7e8d2a7482f].
+  - (ii) in subsection (3), the words “under a general dental services contract entered into by him”[^c-663e790fdda58621d6f4f2314def081f] were omitted, and
+  - (iii) sub-section (4)(a)(iii)[^c-549691afe11e22857a60b1e808d0459c] was omitted and as if, in sub section (4)(b), the words “Local Health Board” were inserted after “Primary Care Trust[^c-d3aaa467be9c8415ef6ba7e8d2a7482f].
 - (j) section 49N(1) (national disqualification) shall be read as if the word “and” were inserted at the end and the following paragraph was inserted after paragraph (b)—
 
   > - (bb) all lists under section 28X above, or any list corresponding to such a list, and
@@ -221,7 +221,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 - (m) section 103(1)(a) (special arrangements as to payment of remuneration) shall be read as if the words “or primary dental services” were omitted;
 - (n) section 128(1) (interpretation and construction) shall be read as if in the definition of “terms of service” the words “general dental services” were inserted before the words “general ophthalmic services”;
 - (o) paragraph 1(5) of Schedule 8A (local pharmaceutical services schemes) shall be read as if for the words “personal medical services” there were substituted the words “primary medical services”; and
-- (p)[^key-f7d4c134a8f9b2527e8fa679bcbb4f8f] Schedule 9A (the Family Health Services Appeal Authority) shall be read as if—
+- (p)[^c-f7d4c134a8f9b2527e8fa679bcbb4f8f] Schedule 9A (the Family Health Services Appeal Authority) shall be read as if—
   - (i) in paragraph 6 there were inserted before paragraph (c) the following paragraph—
 
     > - (bb) dental practitioner providing general dental services, or performing personal dental services under section 28C arrangements;
@@ -229,7 +229,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
     , and
   - (ii) in paragraph 10(aa), for the words “paragraph 6(c) or (d) above”, there were substituted the words “paragraph 6(bb), (c) or (d) above”.
 
-(6)[^key-786f649c5e9a97b2878c05f45a3b03b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-786f649c5e9a97b2878c05f45a3b03b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In relation to section 240(4) of the Copyright, Designs and Patent Act 1988 (Crown use of designs)—
 
@@ -238,7 +238,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 
 (8) In relation to section 17 of the Health and Medicines Act 1988 arrangements for the provision of general medical services etc), subsection (1) shall be read as if the number “35” were inserted before the number “38”.
 
-(9)[^key-c7dea5370a03c97d449a86c08ec98c9c] In relation to Schedule 4A to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges), paragraph 7 shall be read as if the words “or primary dental services” were omitted and as if there were inserted at the end “or personal dental services under a pilot scheme (within the meaning of Part 1 of the National Health Service (Primary Care) Act 1997)”.
+(9)[^c-c7dea5370a03c97d449a86c08ec98c9c] In relation to Schedule 4A to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges), paragraph 7 shall be read as if the words “or primary dental services” were omitted and as if there were inserted at the end “or personal dental services under a pilot scheme (within the meaning of Part 1 of the National Health Service (Primary Care) Act 1997)”.
 
 (10) In relation to the Trade Union and Labour (Consolidation) Act 1992, section 279 (health service practitioners) shall be read as if—
 
@@ -291,7 +291,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
   ; and
 - (c) in paragraph 13, for “11, or 12” there were substituted “11, 12 or 12A”
 
-## 7. Transitional provisions applying until the coming into force of section 178 of the Act[^key-9234608dcfa4c39c0ed640beaf8c644f]
+## 7. Transitional provisions applying until the coming into force of section 178 of the Act[^c-9234608dcfa4c39c0ed640beaf8c644f]
 
 (1) Until the coming into force of section 178(1) of the Act in relation to primary dental services, the following transitional provisions shall apply.
 
@@ -360,9 +360,9 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00001]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-61412adbace810b96f2a33816e8139b0]: Commencement: Art. 1 in force at made date
+[^c-61412adbace810b96f2a33816e8139b0]: Commencement: Art. 1 in force at made date
 
-[^key-2568b0a7307ca52ffbff94460b11be26]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/wsi/2004/480/article/1/2) inserted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(1)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/1)
+[^c-2568b0a7307ca52ffbff94460b11be26]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/wsi/2004/480/article/1/2) inserted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(1)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/1)
 
 [^f00002]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -370,21 +370,21 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00004]: Footnote: [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15).
 
-[^key-bd596bce3a83d7cacc901fa192cd611d]: Commencement: Art. 2 in force at made date
+[^c-bd596bce3a83d7cacc901fa192cd611d]: Commencement: Art. 2 in force at made date
 
-[^key-82777401363693eabc5900f8f17bf7a9]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/wsi/2004/480/article/2/2) revoked (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/2)
+[^c-82777401363693eabc5900f8f17bf7a9]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/wsi/2004/480/article/2/2) revoked (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/2)
 
-[^key-def68b46707597b5b15ffa79619c852e]: Commencement: Art. 3 in force at made date
+[^c-def68b46707597b5b15ffa79619c852e]: Commencement: Art. 3 in force at made date
 
-[^key-299a33d8d97035390bdf4a5c2944d31b]: Commencement: Art. 4 in force at made date
+[^c-299a33d8d97035390bdf4a5c2944d31b]: Commencement: Art. 4 in force at made date
 
-[^key-d0b3d8111acd35cb5235f654d1e779d9]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/wsi/2004/480/article/4/2/b) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/3/a)
+[^c-d0b3d8111acd35cb5235f654d1e779d9]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/wsi/2004/480/article/4/2/b) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/3/a)
 
-[^key-112f2fb237255220a83cf715d5c07753]: Textual amendment: [Art. 4(2)(l)](https://www.legislation.gov.uk/wsi/2004/480/article/4/2/l) omitted (31.3.2004 at 6 p.m.) by virtue of [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/3/b)
+[^c-112f2fb237255220a83cf715d5c07753]: Textual amendment: [Art. 4(2)(l)](https://www.legislation.gov.uk/wsi/2004/480/article/4/2/l) omitted (31.3.2004 at 6 p.m.) by virtue of [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/3/b)
 
-[^key-27593f36589a717831599d0d57fe8067]: Commencement: Art. 5 in force at made date
+[^c-27593f36589a717831599d0d57fe8067]: Commencement: Art. 5 in force at made date
 
-[^key-81d8557bc13e74d614d7bdb03ab7c685]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2004/480/article/5/1) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/4)
+[^c-81d8557bc13e74d614d7bdb03ab7c685]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2004/480/article/5/1) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/4)
 
 [^f00005]: Footnote: [1949 c. 93](https://www.legislation.gov.uk/ukpga/1949/93).
 
@@ -392,11 +392,11 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00007]: Footnote: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37)
 
-[^key-01a3296cb712a632a205b4c29c791833]: Textual amendment: Word in [art. 5(2)(d)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/d)[(e)(i)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/e/i)[(l)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/l)[(m)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/m)[(o)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/o)[(q)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/q)[(r)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/r)[(s)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/s) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/a)
+[^c-01a3296cb712a632a205b4c29c791833]: Textual amendment: Word in [art. 5(2)(d)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/d)[(e)(i)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/e/i)[(l)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/l)[(m)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/m)[(o)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/o)[(q)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/q)[(r)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/r)[(s)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/s) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/a)
 
-[^key-86aed0b74d655cea7bcbe73bf3628020]: Textual amendment: Words in [art. 5(2)(d)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/d) revoked (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/b)
+[^c-86aed0b74d655cea7bcbe73bf3628020]: Textual amendment: Words in [art. 5(2)(d)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/d) revoked (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/b)
 
-[^key-dbde231dafb8be52badf0bd3c1054752]: Textual amendment: Words in [art. 5(2)(d)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/d) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/b)
+[^c-dbde231dafb8be52badf0bd3c1054752]: Textual amendment: Words in [art. 5(2)(d)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/d) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/b)
 
 [^f00008]: Footnote: [1983 c. 41](https://www.legislation.gov.uk/ukpga/1983/41).
 
@@ -406,7 +406,7 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00011]: Footnote: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49).
 
-[^key-ac7a3b8b452889a7c60011545a35226d]: Textual amendment: Word in [art. 5(2)(i)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/i) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(c)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/c)
+[^c-ac7a3b8b452889a7c60011545a35226d]: Textual amendment: Word in [art. 5(2)(i)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/i) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(c)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/c)
 
 [^f00012]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
@@ -418,39 +418,39 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00016]: Footnote: [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17).
 
-[^key-b54274e783a3c7d0dd26b71bb454c660]: Textual amendment: Words in [art. 5(2)(m)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/m) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(d)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/d)
+[^c-b54274e783a3c7d0dd26b71bb454c660]: Textual amendment: Words in [art. 5(2)(m)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/m) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(d)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/d)
 
 [^f00017]: Footnote: [1995 c. 51](https://www.legislation.gov.uk/ukpga/1995/51).
 
 [^f00018]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-9aab3a8f81ffd132096d25ea5ff19cfb]: Textual amendment: [Art. 5(2)(p)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/p) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(e)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/e)
+[^c-9aab3a8f81ffd132096d25ea5ff19cfb]: Textual amendment: [Art. 5(2)(p)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/p) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(e)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/e)
 
 [^f00019]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8).
 
-[^key-e2504a143413b957a48c320e84d96fc8]: Textual amendment: Words in [art. 5(2)(r)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/r) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(f)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/f)
+[^c-e2504a143413b957a48c320e84d96fc8]: Textual amendment: Words in [art. 5(2)(r)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/r) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(5)(f)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/5/f)
 
 [^f00020]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-3565fc9dea5c6d1e735733d8a4adf3ab]: Commencement: Art. 6 in force at 1.4.2004, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2004/480/article/1/2)
+[^c-3565fc9dea5c6d1e735733d8a4adf3ab]: Commencement: Art. 6 in force at 1.4.2004, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2004/480/article/1/2)
 
-[^key-595d5b434d5560a634e89462a07c591b]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/wsi/2004/480/article/6/1) substituted (14.2.2006) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (Wales) (No. 4) Order 2006 (S.I. 2006/345)](https://www.legislation.gov.uk/wsi/2006/345), [art. 8](https://www.legislation.gov.uk/wsi/2006/345/article/8)
+[^c-595d5b434d5560a634e89462a07c591b]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/wsi/2004/480/article/6/1) substituted (14.2.2006) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (Wales) (No. 4) Order 2006 (S.I. 2006/345)](https://www.legislation.gov.uk/wsi/2006/345), [art. 8](https://www.legislation.gov.uk/wsi/2006/345/article/8)
 
-[^key-c80920c8d5f80fa00040cf8efdbe112e]: Textual amendment: [Art. 6(4)(ee)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/ee)[(f)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/f) substituted for [art. 6(4)(f)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/f) (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/6)
+[^c-c80920c8d5f80fa00040cf8efdbe112e]: Textual amendment: [Art. 6(4)(ee)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/ee)[(f)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/f) substituted for [art. 6(4)(f)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/f) (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/6)
 
-[^key-663e790fdda58621d6f4f2314def081f]: Textual amendment: Words in [art. 6(4)(i)(ii)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/i/ii) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/7/a)
+[^c-663e790fdda58621d6f4f2314def081f]: Textual amendment: Words in [art. 6(4)(i)(ii)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/i/ii) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/7/a)
 
-[^key-549691afe11e22857a60b1e808d0459c]: Textual amendment: Words in [art. 6(4)(i)(iii)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/i/iii) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/7/b)
+[^c-549691afe11e22857a60b1e808d0459c]: Textual amendment: Words in [art. 6(4)(i)(iii)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/i/iii) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/7/b)
 
-[^key-d3aaa467be9c8415ef6ba7e8d2a7482f]: Textual amendment: Words in [art. 6(4)(i)(iii)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/i/iii) inserted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/7/b)
+[^c-d3aaa467be9c8415ef6ba7e8d2a7482f]: Textual amendment: Words in [art. 6(4)(i)(iii)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/i/iii) inserted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/7/b)
 
-[^key-f7d4c134a8f9b2527e8fa679bcbb4f8f]: Textual amendment: [Art. 6(4)(p)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/p) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/8)
+[^c-f7d4c134a8f9b2527e8fa679bcbb4f8f]: Textual amendment: [Art. 6(4)(p)](https://www.legislation.gov.uk/wsi/2004/480/article/6/4/p) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/8)
 
-[^key-786f649c5e9a97b2878c05f45a3b03b5]: Textual amendment: [Art. 6(6)](https://www.legislation.gov.uk/wsi/2004/480/article/6/6) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/wsi/2023/299/schedule)
+[^c-786f649c5e9a97b2878c05f45a3b03b5]: Textual amendment: [Art. 6(6)](https://www.legislation.gov.uk/wsi/2004/480/article/6/6) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/wsi/2023/299/schedule)
 
-[^key-c7dea5370a03c97d449a86c08ec98c9c]: Textual amendment: [Art. 6(9)](https://www.legislation.gov.uk/wsi/2004/480/article/6/9) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/9)
+[^c-c7dea5370a03c97d449a86c08ec98c9c]: Textual amendment: [Art. 6(9)](https://www.legislation.gov.uk/wsi/2004/480/article/6/9) substituted (31.3.2004 at 6 p.m.) by [The Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) (Amendment) Order 2004 (S.I. 2004/1019)](https://www.legislation.gov.uk/wsi/2004/1019), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2004/1019/article/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2004/1019/article/2/9)
 
-[^key-9234608dcfa4c39c0ed640beaf8c644f]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2004/480/article/1/2)
+[^c-9234608dcfa4c39c0ed640beaf8c644f]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2004/480/article/1/2)
 
 [^f00021]: Footnote: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49).
 

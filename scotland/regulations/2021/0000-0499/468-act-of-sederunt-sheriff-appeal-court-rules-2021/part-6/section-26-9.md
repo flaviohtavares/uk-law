@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26.9. Taking of evidence by commissioner: lodging and custody of video record and documents[^key-774e5e5a7a160e5790765e8e63ac7805]
+## 26.9. Taking of evidence by commissioner: lodging and custody of video record and documents[^c-774e5e5a7a160e5790765e8e63ac7805]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-774e5e5a7a160e5790765e8e63ac7805]: Commencement: Para. 26.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-774e5e5a7a160e5790765e8e63ac7805]: Commencement: Para. 26.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

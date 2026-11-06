@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Death grants[^key-ab66b063b9623b5ae46c3cf1dc57afb6]
+## 37. Death grants[^c-ab66b063b9623b5ae46c3cf1dc57afb6]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab66b063b9623b5ae46c3cf1dc57afb6]: Commencement: Reg. 37 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-ab66b063b9623b5ae46c3cf1dc57afb6]: Commencement: Reg. 37 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

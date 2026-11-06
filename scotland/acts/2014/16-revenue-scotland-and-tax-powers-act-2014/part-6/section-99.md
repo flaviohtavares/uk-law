@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Assessment to recover excessive repayment of tax[^key-aef1ab7095c216de1e20b2f307f961db]
+## 99. Assessment to recover excessive repayment of tax[^c-aef1ab7095c216de1e20b2f307f961db]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aef1ab7095c216de1e20b2f307f961db]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2014/16/section/99) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-aef1ab7095c216de1e20b2f307f961db]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2014/16/section/99) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

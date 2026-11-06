@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where part of a participator’s share of the oil won and saved from an oil field is delivered by him in a chargeable period to the OGA[^key-a92ef63afef26865573526f3eccce1a5] pursuant to a requirement imposed under the terms of a licence granted under the [^c13233911] Petroleum (Production) Act 1934.
+(1) This section applies where part of a participator’s share of the oil won and saved from an oil field is delivered by him in a chargeable period to the OGA[^c-a92ef63afef26865573526f3eccce1a5] pursuant to a requirement imposed under the terms of a licence granted under the [^c13233911] Petroleum (Production) Act 1934.
 
 (2) In determining for the purposes of APRT the gross profit accruing to the participator from the field in the chargeable period the aggregate of the amounts mentioned in paragraphs (a), (b) and (c) of subsection (5) of section 2 of the principal Act shall be increased by multiplying it by a fraction of which—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a92ef63afef26865573526f3eccce1a5]: Textual amendment: Word in [s. 140](https://www.legislation.gov.uk/ukpga/1982/39/section/140) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/6/2)
+[^c-a92ef63afef26865573526f3eccce1a5]: Textual amendment: Word in [s. 140](https://www.legislation.gov.uk/ukpga/1982/39/section/140) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/6/2)
 
 [^c13233911]: Marginal citation: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36).

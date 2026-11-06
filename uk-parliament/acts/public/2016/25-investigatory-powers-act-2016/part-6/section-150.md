@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Safeguards relating to retention and disclosure of material[^key-9c6a40b3c358b41bf080c2b1a5feb54c]
+## 150. Safeguards relating to retention and disclosure of material[^c-9c6a40b3c358b41bf080c2b1a5feb54c]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ This is subject to subsection (8).
 
 ## Annotations
 
-[^key-9c6a40b3c358b41bf080c2b1a5feb54c]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2016/25/section/150) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/h) (with [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/15/3/a))
+[^c-9c6a40b3c358b41bf080c2b1a5feb54c]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2016/25/section/150) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/h) (with [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/15/3/a))

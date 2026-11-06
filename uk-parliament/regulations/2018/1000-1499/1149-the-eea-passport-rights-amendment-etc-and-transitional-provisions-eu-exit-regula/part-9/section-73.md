@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Power to amend the duration of transitional and saving provision[^key-6515afd4f10cde020a7e83b830a34544]
+## 73. Power to amend the duration of transitional and saving provision[^c-6515afd4f10cde020a7e83b830a34544]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ if the Treasury consider it necessary to do so.
 
 ## Annotations
 
-[^key-6515afd4f10cde020a7e83b830a34544]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2018/1149/part/9) inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2019/405/regulation/7/1)
+[^c-6515afd4f10cde020a7e83b830a34544]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2018/1149/part/9) inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2019/405/regulation/7/1)

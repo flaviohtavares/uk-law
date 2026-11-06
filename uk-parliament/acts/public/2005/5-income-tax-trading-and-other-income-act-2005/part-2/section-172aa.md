@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172AA. Chapter not to apply where cash basis used[^key-012621c7001bac632367b6fef1e28a7d][^key-696a418b4ca9217116dc3e9a9c5accb7]
+## 172AA. Chapter not to apply where cash basis used[^c-012621c7001bac632367b6fef1e28a7d][^c-696a418b4ca9217116dc3e9a9c5accb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Nothing in this Chapter applies in calculating the profits of a trade on the cas
 
 ## Annotations
 
-[^key-012621c7001bac632367b6fef1e28a7d]: Textual amendment: S. 172AA inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/29)
+[^c-012621c7001bac632367b6fef1e28a7d]: Textual amendment: S. 172AA inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/29)
 
-[^key-696a418b4ca9217116dc3e9a9c5accb7]: Textual amendment: Pt. 2 Ch. 11A inserted (with effect in accordance with s. 37(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/15/paragraph/2)
+[^c-696a418b4ca9217116dc3e9a9c5accb7]: Textual amendment: Pt. 2 Ch. 11A inserted (with effect in accordance with s. 37(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/15/paragraph/2)

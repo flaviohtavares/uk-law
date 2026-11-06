@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Persons who cease to be authorised to carry on a regulated activity before IP completion day[^key-11b0c0c1969dc58ef8cb252c29703951]
+## 7. Persons who cease to be authorised to carry on a regulated activity before IP completion day[^c-11b0c0c1969dc58ef8cb252c29703951]
 
 *Extent: E+W+S+N.I.*
 
-(1) The modification of Part 4A of the 2000 Act specified in paragraph (2) applies in respect of a person to whom, before IP completion day[^key-c0d12f18e1dfa6798bb5f4dee4fa69be], regulation 5(1)(a) ceases to apply.
+(1) The modification of Part 4A of the 2000 Act specified in paragraph (2) applies in respect of a person to whom, before IP completion day[^c-c0d12f18e1dfa6798bb5f4dee4fa69be], regulation 5(1)(a) ceases to apply.
 
 (2) Section 55V (determination of applications) has effect as if, in subsections (1) and (2), for the words from “it received” to the end there were substituted “ regulation 5(1)(a) of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 ceased to apply to the applicant. ”
 
 ## Annotations
 
-[^key-11b0c0c1969dc58ef8cb252c29703951]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2018/1149/regulation/7) heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/c)
+[^c-11b0c0c1969dc58ef8cb252c29703951]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2018/1149/regulation/7) heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/c)
 
-[^key-c0d12f18e1dfa6798bb5f4dee4fa69be]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2018/1149/regulation/7) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/c)
+[^c-c0d12f18e1dfa6798bb5f4dee4fa69be]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2018/1149/regulation/7) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/c)

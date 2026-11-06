@@ -45,12 +45,12 @@ This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 31 and 
 
 (1) In this Order—
 
-- “the 1992 Act” means the Social Security Contributions and Benefits Act 1992;[^key-03d682105bb5b8a4e95f428d46bf67bd]
+- “the 1992 Act” means the Social Security Contributions and Benefits Act 1992;[^c-03d682105bb5b8a4e95f428d46bf67bd]
 - “**the 2002 Act**” means the State Pension Credit Act 2002 [^c23499281];
 - “**the 2012 Act**” means the Welfare Reform Act 2012;
 - “**the appointed day**” means the day referred to in article 3;
-- “[^key-d17a2fdbc29f6af0748996440fe474d6]**assessment period**”, in relation to universal credit entitlement, has the same meaning as in regulation 21 of the Universal Credit Regulations 2013;
-- [^key-63683489823a7d6aea73b47b348e202d]...
+- “[^c-d17a2fdbc29f6af0748996440fe474d6]**assessment period**”, in relation to universal credit entitlement, has the same meaning as in regulation 21 of the Universal Credit Regulations 2013;
+- [^c-63683489823a7d6aea73b47b348e202d]...
 - “**the Housing Benefit SPC Regulations**” means the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c23499301];
 - “**the No. 21 Order**” means the Welfare Reform Act 2012 (Commencement No. 21 and Transitional and Transitory Provisions) Order 2015 [^c23499311];
 - “**the No. 23 Order**” means the Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015 [^c23499321];
@@ -59,24 +59,24 @@ This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 31 and 
 - “**secondary legislation**” has the same meaning as in Part 1 of the 2012 Act [^c23499351];
 - “**state pension credit**” has the same meaning as in the 2002 Act [^c23499361].
 
-(1A)[^key-fd9b8df8f3b7a0a353a0acbd991bde53] In this Order, “couple” has the same meaning as in the 2002 Act, save—
+(1A)[^c-fd9b8df8f3b7a0a353a0acbd991bde53] In this Order, “couple” has the same meaning as in the 2002 Act, save—
 
 - (a) in reference to entitlement to housing benefit, where it has the same meaning as in Part VII of the 1992 Act; and
-- (b)[^key-e18e11d041aa956a8de9a81645227cb6] in article 7(3), in relation to references to persons being treated as a couple in accordance with article 7(2)(a)(ii), where it has the meaning referred to in article 7(2)(a)(ii)
+- (b)[^c-e18e11d041aa956a8de9a81645227cb6] in article 7(3), in relation to references to persons being treated as a couple in accordance with article 7(2)(a)(ii), where it has the meaning referred to in article 7(2)(a)(ii)
 
 (2) In this Order—
 
 - (a) “**mixed-age couple**” means a couple, one member of which has attained the qualifying age for state pension credit and the other of which has not; and
 - (b) the definition in sub-paragraph (a) includes a polygamous marriage where at least one party to the marriage has attained the qualifying age for state pension credit and at least one has not.
 
-(3) Save as stated to the contrary in article 6(2) [^key-4d3b0db79b0c3750626f91eaae287883]..., all references in this Order to claims or entitlement to housing benefit are to claims or entitlement under the Housing Benefit SPC Regulations only.
+(3) Save as stated to the contrary in article 6(2) [^c-4d3b0db79b0c3750626f91eaae287883]..., all references in this Order to claims or entitlement to housing benefit are to claims or entitlement under the Housing Benefit SPC Regulations only.
 
 (4) In this Order—
 
 - (a) a person is entitled to state pension credit or housing benefit on any day where the person has made a claim for that benefit and the conditions of entitlement are met in relation to that person, regardless of whether, respectively, entitlement begins on a later day under—
   - (i) regulation 16A (date of entitlement under an award of state pension credit for the purpose of payability and effective date of change of rate) [^c23499371] of the Social Security (Claims and Payments) Regulations 1987; or
   - (ii) regulation 57 (date on which entitlement is to commence) of the Housing Benefit SPC Regulations; and
-- (b) save in article 7(3)(a),[^key-5084f39ef0aa00437c56514873172705] a reference to claiming or entitlement to state pension credit or housing benefit as part of a mixed-age[^key-c7919b345394da1efb5c94c9bcada2f3] couple is a reference to a person claiming or[^key-11d6f1ae41f0177247f5ea19ef290b3f] being so entitled, on the basis that the person[^key-f018f229709c999c32d2114eea8d52b2] is a member of a couple or [^key-8c8f6ded8844e1b960e2fe3ededa5a04]... a polygamous marriage.
+- (b) save in article 7(3)(a),[^c-5084f39ef0aa00437c56514873172705] a reference to claiming or entitlement to state pension credit or housing benefit as part of a mixed-age[^c-c7919b345394da1efb5c94c9bcada2f3] couple is a reference to a person claiming or[^c-11d6f1ae41f0177247f5ea19ef290b3f] being so entitled, on the basis that the person[^c-f018f229709c999c32d2114eea8d52b2] is a member of a couple or [^c-8c8f6ded8844e1b960e2fe3ededa5a04]... a polygamous marriage.
 
 ## 3. Appointed day
 
@@ -94,7 +94,7 @@ This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 31 and 
 
 *Extent: E+W+S*
 
-(3)[^key-66c057417fb9969be7f09767f5583080] Nothing in regulation 6A (restriction on claims for housing benefit, income support or a tax credit) of the Transitional Regulations prevents a claim for housing benefit by a member of a mixed-age couple referred to in paragraph (1) where—
+(3)[^c-66c057417fb9969be7f09767f5583080] Nothing in regulation 6A (restriction on claims for housing benefit, income support or a tax credit) of the Transitional Regulations prevents a claim for housing benefit by a member of a mixed-age couple referred to in paragraph (1) where—
 
 - (a) they have been issued with a migration notice;
 - (b) they make the claim for housing benefit within three months beginning with—
@@ -140,14 +140,14 @@ within three months beginning with the day mentioned in that sub-paragraph, any 
 - (a) in the case of an award referred to in paragraph (2)(a) or (b), on the later of the appointed day and the day entitlement under the Housing Benefit SPC Regulations as part of a mixed-age couple takes effect on the award, as a change of circumstances, in accordance with the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 [^c23499421]; or
 - (b) in the case of an award referred to in paragraph (2)(c), on the day after the day of making of this Order.
 
-(4) Paragraph (1) does not apply to awards in respect of specified accommodation or temporary accommodation, as defined in regulation 2 of the Universal Credit (Transitional Provisions) Regulations 2014[^key-2f0e10c52ef24412bab1ea5e2e71fd81].
+(4) Paragraph (1) does not apply to awards in respect of specified accommodation or temporary accommodation, as defined in regulation 2 of the Universal Credit (Transitional Provisions) Regulations 2014[^c-2f0e10c52ef24412bab1ea5e2e71fd81].
 
-## 7. Transitional provision: application to housing benefit of the rules in universal credit for treatment of couples and polygamous marriages[^key-401ac22f8eb45103b32d203272f222ca][^key-cd456b5f5c4bd9ba6e5959f15cfd98ad][^key-98354180862d65a8a2f0b806bad2ca10]
+## 7. Transitional provision: application to housing benefit of the rules in universal credit for treatment of couples and polygamous marriages[^c-401ac22f8eb45103b32d203272f222ca][^c-cd456b5f5c4bd9ba6e5959f15cfd98ad][^c-98354180862d65a8a2f0b806bad2ca10]
 
 (1) Paragraph (3) applies where a person (“P”), who has attained the qualifying age, would otherwise not be entitled to either housing benefit or universal credit, because—
 
 - (a) but for that paragraph, P would be a member of the same household as a partner who has not attained the qualifying age and therefore a member of a mixed-age couple, who—
-  - (i) is prevented from claiming housing benefit under regulation 6A of the Universal Credit (Transitional Provisions) Regulations 2014[^key-39b777c37fe7a53c243ba96e02d9fccb]; or
+  - (i) is prevented from claiming housing benefit under regulation 6A of the Universal Credit (Transitional Provisions) Regulations 2014[^c-39b777c37fe7a53c243ba96e02d9fccb]; or
   - (ii) has an award of housing benefit terminated under article 6; and
 - (b) P is neither entitled to universal credit jointly with that partner, nor entitled to universal credit as a single person, in one of the cases set out in paragraph (2).
 
@@ -168,7 +168,7 @@ within three months beginning with the day mentioned in that sub-paragraph, any 
 
 where paragraph (2)(a) applies, with effect from the date on which the relevant paragraph of regulation 3 of the Universal Credit Regulations 2013 first applies to C, or, where paragraph (2)(b) applies, with effect from the date referred to in paragraph (2)(b) on which C lost universal credit entitlement.
 
-## 8. Transitional provision: where restrictions on claims for universal credit are in place[^key-3a5c688e5e1e0991e8896ad6f8aaf037]
+## 8. Transitional provision: where restrictions on claims for universal credit are in place[^c-3a5c688e5e1e0991e8896ad6f8aaf037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -508,13 +508,13 @@ The following provisions of the Welfare Reform Act 2012 (c. 5) were brought into
 
 [^c23499271]: Marginal citation: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-03d682105bb5b8a4e95f428d46bf67bd]: Textual amendment: Words in art. 2(1) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/a/i)
+[^c-03d682105bb5b8a4e95f428d46bf67bd]: Textual amendment: Words in art. 2(1) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/a/i)
 
 [^c23499281]: Marginal citation: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-d17a2fdbc29f6af0748996440fe474d6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/37/article/2/1) inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/2/a)
+[^c-d17a2fdbc29f6af0748996440fe474d6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/37/article/2/1) inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/2/a)
 
-[^key-63683489823a7d6aea73b47b348e202d]: Textual amendment: Words in art. 2(1) omitted (14.5.2019) by virtue of [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/a/ii)
+[^c-63683489823a7d6aea73b47b348e202d]: Textual amendment: Words in art. 2(1) omitted (14.5.2019) by virtue of [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/a/ii)
 
 [^c23499301]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
@@ -530,27 +530,27 @@ The following provisions of the Welfare Reform Act 2012 (c. 5) were brought into
 
 [^c23499361]: Marginal citation: *See* section 1.
 
-[^key-fd9b8df8f3b7a0a353a0acbd991bde53]: Textual amendment: Art. 2(1A) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/b)
+[^c-fd9b8df8f3b7a0a353a0acbd991bde53]: Textual amendment: Art. 2(1A) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/b)
 
-[^key-e18e11d041aa956a8de9a81645227cb6]: Textual amendment: [Art. 2(1A)(b)](https://www.legislation.gov.uk/uksi/2019/37/article/2/1A/b) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/2/b)
+[^c-e18e11d041aa956a8de9a81645227cb6]: Textual amendment: [Art. 2(1A)(b)](https://www.legislation.gov.uk/uksi/2019/37/article/2/1A/b) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/2/b)
 
-[^key-4d3b0db79b0c3750626f91eaae287883]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2019/37/article/2/3) omitted (25.7.2022) by virtue of [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/2)
+[^c-4d3b0db79b0c3750626f91eaae287883]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2019/37/article/2/3) omitted (25.7.2022) by virtue of [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/2)
 
 [^c23499371]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 16A was inserted by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019); there are amendments none of which are relevant to this Order.
 
-[^key-5084f39ef0aa00437c56514873172705]: Textual amendment: Words in art. 2(4)(b) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/i)
+[^c-5084f39ef0aa00437c56514873172705]: Textual amendment: Words in art. 2(4)(b) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/i)
 
-[^key-c7919b345394da1efb5c94c9bcada2f3]: Textual amendment: Word in art. 2(4)(b) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/ii)
+[^c-c7919b345394da1efb5c94c9bcada2f3]: Textual amendment: Word in art. 2(4)(b) inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/ii)
 
-[^key-11d6f1ae41f0177247f5ea19ef290b3f]: Textual amendment: Words in art. 2(4)(b) substituted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/iii)
+[^c-11d6f1ae41f0177247f5ea19ef290b3f]: Textual amendment: Words in art. 2(4)(b) substituted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/iii)
 
-[^key-f018f229709c999c32d2114eea8d52b2]: Textual amendment: Words in art. 2(4)(b) substituted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(iv)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/iv)
+[^c-f018f229709c999c32d2114eea8d52b2]: Textual amendment: Words in art. 2(4)(b) substituted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(iv)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/iv)
 
-[^key-8c8f6ded8844e1b960e2fe3ededa5a04]: Textual amendment: Words in art. 2(4)(b) omitted (14.5.2019) by virtue of [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(v)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/v)
+[^c-8c8f6ded8844e1b960e2fe3ededa5a04]: Textual amendment: Words in art. 2(4)(b) omitted (14.5.2019) by virtue of [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(2)(d)(v)](https://www.legislation.gov.uk/uksi/2019/935/article/2/2/d/v)
 
 [^c23499381]: Marginal citation: Section 4 was amended by [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-66c057417fb9969be7f09767f5583080]: Textual amendment: [Art. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2019/37/article/4/3) inserted (8.6.2024 with effect from 8.6.2024) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions) (Amendment) Order 2024 (S.I. 2024/604)](https://www.legislation.gov.uk/uksi/2024/604), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/604/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2024/604/article/2/2)
+[^c-66c057417fb9969be7f09767f5583080]: Textual amendment: [Art. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2019/37/article/4/3) inserted (8.6.2024 with effect from 8.6.2024) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions) (Amendment) Order 2024 (S.I. 2024/604)](https://www.legislation.gov.uk/uksi/2024/604), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/604/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2024/604/article/2/2)
 
 [^c23499391]: Marginal citation: There are amendments to Article 6 none of which are relevant to this Order.
 
@@ -560,16 +560,16 @@ The following provisions of the Welfare Reform Act 2012 (c. 5) were brought into
 
 [^c23499421]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-2f0e10c52ef24412bab1ea5e2e71fd81]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2019/37/article/6/4) substituted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/3)
+[^c-2f0e10c52ef24412bab1ea5e2e71fd81]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2019/37/article/6/4) substituted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/3)
 
-[^key-401ac22f8eb45103b32d203272f222ca]: Textual amendment: [Art. 7(1)-(3)](https://www.legislation.gov.uk/uksi/2019/37/article/7/1) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/3/b)
+[^c-401ac22f8eb45103b32d203272f222ca]: Textual amendment: [Art. 7(1)-(3)](https://www.legislation.gov.uk/uksi/2019/37/article/7/1) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/3/b)
 
-[^key-cd456b5f5c4bd9ba6e5959f15cfd98ad]: Textual amendment: Words in art. 7 heading inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2019/935/article/2/3/a)
+[^c-cd456b5f5c4bd9ba6e5959f15cfd98ad]: Textual amendment: Words in art. 7 heading inserted (14.5.2019) by [The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.I. 2019/935)](https://www.legislation.gov.uk/uksi/2019/935), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2019/935/article/2/3/a)
 
-[^key-98354180862d65a8a2f0b806bad2ca10]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2019/37/article/7) heading inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/3/a)
+[^c-98354180862d65a8a2f0b806bad2ca10]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2019/37/article/7) heading inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/3/a)
 
-[^key-39b777c37fe7a53c243ba96e02d9fccb]: Textual amendment: Words in [art. 7(1)(a)(i)](https://www.legislation.gov.uk/uksi/2019/37/article/7/1/a/i) substituted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/4)
+[^c-39b777c37fe7a53c243ba96e02d9fccb]: Textual amendment: Words in [art. 7(1)(a)(i)](https://www.legislation.gov.uk/uksi/2019/37/article/7/1/a/i) substituted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/4)
 
-[^key-3a5c688e5e1e0991e8896ad6f8aaf037]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2019/37/article/8) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(5)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/5)
+[^c-3a5c688e5e1e0991e8896ad6f8aaf037]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2019/37/article/8) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 4(5)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/4/5)
 
 [^c23499441]: Marginal citation: [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) (C. 42) was amended by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440) (C. 55) and 2530 (C. 102).

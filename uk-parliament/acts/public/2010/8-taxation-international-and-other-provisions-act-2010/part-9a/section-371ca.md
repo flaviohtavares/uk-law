@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371CA. Does Chapter 4 apply?[^key-28dcdb6ad75328691edbf92c4cacca50][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371CA. Does Chapter 4 apply?[^c-28dcdb6ad75328691edbf92c4cacca50][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ is managed or controlled to any significant extent by way of relevant UK activit
 
 ## Annotations
 
-[^key-28dcdb6ad75328691edbf92c4cacca50]: Modification: Pt. 9A Ch. 3 applied (with modifications) by 2009 c. 4, s. 18HA (as substituted (with effect in accordance with Sch. 20 para. 55(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/6))
+[^c-28dcdb6ad75328691edbf92c4cacca50]: Modification: Pt. 9A Ch. 3 applied (with modifications) by 2009 c. 4, s. 18HA (as substituted (with effect in accordance with Sch. 20 para. 55(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/6))
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

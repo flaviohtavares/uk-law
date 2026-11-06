@@ -52,11 +52,11 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-6ea39627d3f6806fd942a9f357a9007b]
+### 1. Citation and commencement[^c-6ea39627d3f6806fd942a9f357a9007b]
 
 These Regulations may be cited as the Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 and come into force 21 days after the day on which they are made.
 
-### 2. Extent[^key-9c6a918a991d1c066175fad34bdb0490]
+### 2. Extent[^c-9c6a918a991d1c066175fad34bdb0490]
 
 (1) Except as provided in paragraph (2), these Regulations extend to England and Wales, Scotland and Northern Ireland.
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Criminal Justice (Electronic Commerce) (Am
 
 ## PART 2 — Amendment of primary legislation
 
-### 3. Amendment of the Children and Young Persons Act 1933[^key-3c4ae758137a2978ddf25339653bb9de]
+### 3. Amendment of the Children and Young Persons Act 1933[^c-3c4ae758137a2978ddf25339653bb9de]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ In Schedule 1A (prohibition on publication of certain matters: providers of info
 - (b) paragraph 2 (non-UK service providers: restriction on institution of proceedings);
 - (c) in paragraph 6 (interpretation), sub-paragraph (6).
 
-### 4. Amendment of the Youth Justice and Criminal Evidence Act 1999[^key-a287fbeaa372b1553801ae6433693d9e]
+### 4. Amendment of the Youth Justice and Criminal Evidence Act 1999[^c-a287fbeaa372b1553801ae6433693d9e]
 
 In Schedule 2A (restriction of reporting of criminal proceedings for lifetime of witnesses and victims under 18: providers of information society services) to the Youth Justice and Criminal Evidence Act 1999[^f00003], omit—
 
@@ -82,7 +82,7 @@ In Schedule 2A (restriction of reporting of criminal proceedings for lifetime of
 - (b) paragraph 2 (non-UK service providers: restriction on institution of proceedings);
 - (c) in paragraph 6 (interpretation), sub-paragraph (5).
 
-### 5. Amendment of the Female Genital Mutilation Act 2003[^key-0532c952b2dddab11852aadc2a7af344]
+### 5. Amendment of the Female Genital Mutilation Act 2003[^c-0532c952b2dddab11852aadc2a7af344]
 
 *Extent: E+W+N.I.*
 
@@ -95,7 +95,7 @@ In Schedule 1 (anonymity of victims) to the Female Genital Mutilation Act 2003[^
   - (ii) the definition of “non-UK service provider”;
 - (d) in paragraph 9 (interpretation), sub-paragraph (3).
 
-### 6. Amendment of the Criminal Justice and Immigration Act 2008[^key-9c0977902f630322ee7b742818aeb196]
+### 6. Amendment of the Criminal Justice and Immigration Act 2008[^c-9c0977902f630322ee7b742818aeb196]
 
 *Extent: E+W+N.I.*
 
@@ -105,7 +105,7 @@ In Schedule 14 (special rules relating to providers of information society servi
 - (b) paragraph 2 (non-UK service providers: restriction on institution of proceedings); and
 - (c) in paragraph 6 (interpretation)[^f00007], sub-paragraph (6).
 
-### 7. Amendment of the Coroners and Justice Act 2009[^key-bb6aa57dd5960b4109e495a61eb8ab04]
+### 7. Amendment of the Coroners and Justice Act 2009[^c-bb6aa57dd5960b4109e495a61eb8ab04]
 
 *Extent: E+W+N.I.*
 
@@ -130,13 +130,13 @@ In Schedule 14 (special rules relating to providers of information society servi
 - (b) paragraph 2 (non-UK service providers: restriction on institution of proceedings);
 - (c) in paragraph 6 (interpretation), sub-paragraph (6).
 
-### 8. Amendment of the Criminal Justice and Courts Act 2015[^key-4848b1441383b2623d40b2541131c5bc]
+### 8. Amendment of the Criminal Justice and Courts Act 2015[^c-4848b1441383b2623d40b2541131c5bc]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of the Serious Crime Act 2015[^key-6e34c9ab6e90eebf59a0cd7907fa90a8]
+### 9. Amendment of the Serious Crime Act 2015[^c-6e34c9ab6e90eebf59a0cd7907fa90a8]
 
 *Extent: E+W+N.I.*
 
@@ -151,7 +151,7 @@ In Schedule 3 (paedophile manuals: providers of information society services) to
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 10. Amendment of the Electronic Commerce Directive (Hatred against Persons on Religious Grounds or the Grounds of Sexual Orientation) Regulations 2010[^key-808317071710f46fd4569fbb49863ba6]
+### 10. Amendment of the Electronic Commerce Directive (Hatred against Persons on Religious Grounds or the Grounds of Sexual Orientation) Regulations 2010[^c-808317071710f46fd4569fbb49863ba6]
 
 *Extent: E+W*
 
@@ -185,23 +185,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-6ea39627d3f6806fd942a9f357a9007b]: Commencement: Reg. 1 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-6ea39627d3f6806fd942a9f357a9007b]: Commencement: Reg. 1 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
-[^key-9c6a918a991d1c066175fad34bdb0490]: Commencement: Reg. 2 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-9c6a918a991d1c066175fad34bdb0490]: Commencement: Reg. 2 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
-[^key-3c4ae758137a2978ddf25339653bb9de]: Commencement: Reg. 3 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-3c4ae758137a2978ddf25339653bb9de]: Commencement: Reg. 3 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
 [^f00002]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); Schedule 1A was inserted by paragraph 1 of Schedule 15 to the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 
-[^key-a287fbeaa372b1553801ae6433693d9e]: Commencement: Reg. 4 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-a287fbeaa372b1553801ae6433693d9e]: Commencement: Reg. 4 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
 [^f00003]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23); Schedule 2A was inserted by paragraph 2 of Schedule 15 to the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 
-[^key-0532c952b2dddab11852aadc2a7af344]: Commencement: Reg. 5 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-0532c952b2dddab11852aadc2a7af344]: Commencement: Reg. 5 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
 [^f00004]: Footnote: [2003 c. 31](https://www.legislation.gov.uk/ukpga/2003/31); Schedule 1 was inserted by section 71(2) of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 
-[^key-9c0977902f630322ee7b742818aeb196]: Commencement: Reg. 6 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-9c0977902f630322ee7b742818aeb196]: Commencement: Reg. 6 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
 [^f00005]: Footnote: [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4).
 
@@ -209,16 +209,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4); paragraph 6 to Schedule 14 was amended by paragraph 1 of Schedule 1(1) to [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809)
 
-[^key-bb6aa57dd5960b4109e495a61eb8ab04]: Commencement: Reg. 7 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-bb6aa57dd5960b4109e495a61eb8ab04]: Commencement: Reg. 7 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
 [^f00008]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-4848b1441383b2623d40b2541131c5bc]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/835/regulation/8) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/25); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-4848b1441383b2623d40b2541131c5bc]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/835/regulation/8) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/25); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
-[^key-6e34c9ab6e90eebf59a0cd7907fa90a8]: Commencement: Reg. 9 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-6e34c9ab6e90eebf59a0cd7907fa90a8]: Commencement: Reg. 9 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
 [^f00010]: Footnote: [2015 c. 9](https://www.legislation.gov.uk/ukpga/2015/9).
 
-[^key-808317071710f46fd4569fbb49863ba6]: Commencement: Reg. 10 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
+[^c-808317071710f46fd4569fbb49863ba6]: Commencement: Reg. 10 in force at 29.7.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2010/894](https://www.legislation.gov.uk/uksi/2010/894).

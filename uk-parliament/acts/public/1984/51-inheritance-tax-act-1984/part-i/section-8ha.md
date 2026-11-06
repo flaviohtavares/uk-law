@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8HA. Qualifying former residential interest”: interests in possession[^key-2d37d1220634159e76bdb20e996139ff]
+## 8HA. Qualifying former residential interest”: interests in possession[^c-2d37d1220634159e76bdb20e996139ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d37d1220634159e76bdb20e996139ff]: Textual amendment: S. 8HA inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/8)
+[^c-2d37d1220634159e76bdb20e996139ff]: Textual amendment: S. 8HA inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/8)

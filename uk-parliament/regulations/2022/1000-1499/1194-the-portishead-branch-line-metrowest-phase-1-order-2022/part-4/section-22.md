@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Discharge of water[^key-bbce9ae78ca44ab83abe9d7b7b9d0835]
+## 22. Discharge of water[^c-bbce9ae78ca44ab83abe9d7b7b9d0835]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bbce9ae78ca44ab83abe9d7b7b9d0835]: Commencement: Art. 22 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-bbce9ae78ca44ab83abe9d7b7b9d0835]: Commencement: Art. 22 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00035]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section 35(1) and (8) and section 43(2) of, and Schedule 2 to, the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and paragraph 16(1) of Schedule 3 to the Flood and Water Management Act [2016 (c. 29)](https://www.legislation.gov.uk/ukpga/2016/29).
 

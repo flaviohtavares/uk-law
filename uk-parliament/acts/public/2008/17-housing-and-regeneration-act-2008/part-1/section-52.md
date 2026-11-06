@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Role of the HCA in relation to former CNT functions[^key-fa8a542a0404986df56478bf5f2eda24]
+## 52. Role of the HCA in relation to former CNT functions[^c-fa8a542a0404986df56478bf5f2eda24]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ and the references in this Part to the objects of the HCA are to be read accordi
 
 ## Annotations
 
-[^key-fa8a542a0404986df56478bf5f2eda24]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2008/17/section/52) in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-fa8a542a0404986df56478bf5f2eda24]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2008/17/section/52) in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)

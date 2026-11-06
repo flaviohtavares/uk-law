@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Calculation of net earnings of employed earners[^key-a1948f4564d926c26bfafe586d8f911b]
+## 20. Calculation of net earnings of employed earners[^c-a1948f4564d926c26bfafe586d8f911b]
 
 *Extent: E+W+S*
 
@@ -33,14 +33,14 @@ summary: ''
 
 (4) Where the earnings of a claimant are estimated under paragraph (2) of regulation 14 (average weekly earnings of employed earners), his net earnings shall be calculated by taking into account those earnings over the assessment period, less—
 
-- (a) an amount in respect of income tax equivalent to an amount calculated by applying to those earnings the lower rate or, as the case may be, the lower rate and the basic rate of tax[^key-197af5de23e0ccbbf42d124f7aead730] in the year of assessment in which the claim was made less only the personal relief to which the claimant is entitled under sections 257(1), (6) and (7) and 259(1)(a) and (2) of the Income and Corporation Taxes Act 1988 (personal relief) as is appropriate to his circumstances but, if the assessment period is less than a year, the earnings to which the lower rate and, if appropriate, the basic rate of tax is to be applied and[^key-1831d2e67eb4661243e388378e97b73d] the amount of the personal relief deductible under this sub-paragraph shall be calculated on a prorata basis;
+- (a) an amount in respect of income tax equivalent to an amount calculated by applying to those earnings the lower rate or, as the case may be, the lower rate and the basic rate of tax[^c-197af5de23e0ccbbf42d124f7aead730] in the year of assessment in which the claim was made less only the personal relief to which the claimant is entitled under sections 257(1), (6) and (7) and 259(1)(a) and (2) of the Income and Corporation Taxes Act 1988 (personal relief) as is appropriate to his circumstances but, if the assessment period is less than a year, the earnings to which the lower rate and, if appropriate, the basic rate of tax is to be applied and[^c-1831d2e67eb4661243e388378e97b73d] the amount of the personal relief deductible under this sub-paragraph shall be calculated on a prorata basis;
 - (b) an amount in respect of primary Class 1 contributions payable under the Contributions and Benefits Act 1992 in respect of those earnings; and
 - (c) one-half of any sum payable by the claimant by the way of a contribution towards an occupational or personal pensions scheme.
 
 ## Annotations
 
-[^key-a1948f4564d926c26bfafe586d8f911b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1992/1814/regulation/20) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-a1948f4564d926c26bfafe586d8f911b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1992/1814/regulation/20) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-197af5de23e0ccbbf42d124f7aead730]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/20/4/a) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1993/688/regulation/5/a)
+[^c-197af5de23e0ccbbf42d124f7aead730]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/20/4/a) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1993/688/regulation/5/a)
 
-[^key-1831d2e67eb4661243e388378e97b73d]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/20/4/a) inserted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/1993/688/regulation/5/b)
+[^c-1831d2e67eb4661243e388378e97b73d]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/20/4/a) inserted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/1993/688/regulation/5/b)

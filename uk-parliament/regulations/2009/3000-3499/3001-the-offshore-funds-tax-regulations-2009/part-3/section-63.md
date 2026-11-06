@@ -27,9 +27,9 @@ summary: ''
 
 (2) The starting point specified in paragraph (1) must be adjusted having regard to—
 
-- (a) capital items and miscellaneous items[^key-ddf4ba290f4bbded722a2ce1a33171d9] (see regulations 64 and 65),
+- (a) capital items and miscellaneous items[^c-ddf4ba290f4bbded722a2ce1a33171d9] (see regulations 64 and 65),
 - (b) special classes of income (see regulations 66 to 71), and
-- (c)[^key-fb6df8b25683333049116000eaab1ebc] any arrangements to adjust income based on the number of units in issue (see regulations 72 to 72B).
+- (c)[^c-fb6df8b25683333049116000eaab1ebc] any arrangements to adjust income based on the number of units in issue (see regulations 72 to 72B).
 
 (3) In the case of any one item, an adjustment under paragraph (2) may be made only once (even if more than one of the regulations mentioned in that paragraph apply to that item).
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddf4ba290f4bbded722a2ce1a33171d9]: Textual amendment: Words in [reg. 63(2)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/63/2/a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2017 (S.I. 2017/240)](https://www.legislation.gov.uk/uksi/2017/240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/240/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/240/regulation/2/2/a)
+[^c-ddf4ba290f4bbded722a2ce1a33171d9]: Textual amendment: Words in [reg. 63(2)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/63/2/a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2017 (S.I. 2017/240)](https://www.legislation.gov.uk/uksi/2017/240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/240/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/240/regulation/2/2/a)
 
-[^key-fb6df8b25683333049116000eaab1ebc]: Textual amendment: Reg. 63(2)(c) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/1411/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))
+[^c-fb6df8b25683333049116000eaab1ebc]: Textual amendment: Reg. 63(2)(c) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/1411/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))

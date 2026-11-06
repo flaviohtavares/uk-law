@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Amendment of regulation 44 (delivery of documents to the registration officer: England and Wales and Northern Ireland)[^key-85c6313096690941b6db09b4196a01af]
+## 83. Amendment of regulation 44 (delivery of documents to the registration officer: England and Wales and Northern Ireland)[^c-85c6313096690941b6db09b4196a01af]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 44 (delivery of documents to the registration officer: England and
 
 ## Annotations
 
-[^key-85c6313096690941b6db09b4196a01af]: Commencement: Reg. 83 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-85c6313096690941b6db09b4196a01af]: Commencement: Reg. 83 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

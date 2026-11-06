@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**23.**[^key-b67367eef27c2cdb98f85d35d9c3d5b3] The claimant shall keep records of the following matters—
+**23.**[^c-b67367eef27c2cdb98f85d35d9c3d5b3] The claimant shall keep records of the following matters—
 
 - (a) the names and addresses of those persons (recipients) whom he has reimbursed or whom he intends to reimburse;
 - (b) the total amount reimbursed to each such person (recipient);
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b67367eef27c2cdb98f85d35d9c3d5b3]: Commencement: Reg. 23 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-b67367eef27c2cdb98f85d35d9c3d5b3]: Commencement: Reg. 23 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

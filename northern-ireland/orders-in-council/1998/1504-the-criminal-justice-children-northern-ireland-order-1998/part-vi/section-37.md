@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where any court has power, or would but for section 1 of the [^m00032] Treatment of Offenders Act (Northern Ireland) 1968 or Article 47 have power, to impose imprisonment on a child or to deal with a child under Schedule 2 to the [^m00033] Criminal Justice (Northern Ireland) Order 1996 for failure to comply with any of the requirements of a community order, the court (subject to Articles 32(1) and 45(1)) may, if the clerk of the court has been notified by the Secretary of State that an attendance centre is available for the reception of children from that court, order the child to attend at such a centre, to be specified in the order, for such number of hours as may be so specified.
 
-(1A)[^key-52683818014de590df17183ddfb0978e] An attendance centre order may (in spite of paragraph (1) and Article 46C) be made in default of the payment of a sum adjudged to be paid by or imposed on the conviction of an offence in a case where, at the time of the default, the child in question—
+(1A)[^c-52683818014de590df17183ddfb0978e] An attendance centre order may (in spite of paragraph (1) and Article 46C) be made in default of the payment of a sum adjudged to be paid by or imposed on the conviction of an offence in a case where, at the time of the default, the child in question—
 
 - (a) is not detained in custody or imprisoned, and
 - (b) has not been ordered to be detained in custody or imprisoned with the period of detention or imprisonment yet to begin.
@@ -64,6 +64,6 @@ summary: ''
 
 [^m00033]: Marginal citation: 1996 NI 24.
 
-[^key-52683818014de590df17183ddfb0978e]: Textual amendment: [Art. 37(1A)](https://www.legislation.gov.uk/nisi/1998/1504/article/37/1A)[(1B)](https://www.legislation.gov.uk/nisi/1998/1504/article/37/1B) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 30(2)](https://www.legislation.gov.uk/nia/2016/21/section/30/2), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 30(12)](https://www.legislation.gov.uk/nia/2016/21/section/30/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-52683818014de590df17183ddfb0978e]: Textual amendment: [Art. 37(1A)](https://www.legislation.gov.uk/nisi/1998/1504/article/37/1A)[(1B)](https://www.legislation.gov.uk/nisi/1998/1504/article/37/1B) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 30(2)](https://www.legislation.gov.uk/nia/2016/21/section/30/2), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 30(12)](https://www.legislation.gov.uk/nia/2016/21/section/30/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
 
 [^c17146691]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)

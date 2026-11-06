@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Llanfoist Fawr — community electoral arrangements[^key-a9ed570be593f803dbc023e8ab332dbf][^key-af941a079e14b6f2f1ac06017ab8425c]
+## 134. Llanfoist Fawr — community electoral arrangements[^c-a9ed570be593f803dbc023e8ab332dbf][^c-af941a079e14b6f2f1ac06017ab8425c]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In the community of Llanfoist Fawr the number of councillors to be elected for t
 
 ## Annotations
 
-[^key-a9ed570be593f803dbc023e8ab332dbf]: Commencement: Art. 134 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-a9ed570be593f803dbc023e8ab332dbf]: Commencement: Art. 134 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-af941a079e14b6f2f1ac06017ab8425c]: Commencement: [Art. 134](https://www.legislation.gov.uk/wsi/2021/1227/article/134) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-af941a079e14b6f2f1ac06017ab8425c]: Commencement: [Art. 134](https://www.legislation.gov.uk/wsi/2021/1227/article/134) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

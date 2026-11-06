@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The core provisions are Parts V, 9A[^key-3ad034f9cc55ec3e1827ff6f9406f4cf], XI, XII, XIV, XV, XVI, XXII and XXIV, sections 384 to 386 and Part XXVI.
+(1) The core provisions are Parts V, 9A[^c-3ad034f9cc55ec3e1827ff6f9406f4cf], XI, XII, XIV, XV, XVI, XXII and XXIV, sections 384 to 386 and Part XXVI.
 
 (2) References in an applied core provision to an authorised person are (where necessary) to be read as references to a person in the class to which the insurance market direction applies.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad034f9cc55ec3e1827ff6f9406f4cf]: Textual amendment: Word in s. 317(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/6), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3ad034f9cc55ec3e1827ff6f9406f4cf]: Textual amendment: Word in s. 317(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/6), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

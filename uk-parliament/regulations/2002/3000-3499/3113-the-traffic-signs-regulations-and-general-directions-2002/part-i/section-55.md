@@ -16,30 +16,30 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Warning lights (affected by repeal, see note)[^key-4b506487f5c6bf8ecbaaacc0e57a3fec][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+## 55. Warning lights (affected by repeal, see note)[^c-4b506487f5c6bf8ecbaaacc0e57a3fec][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
-(1) A lamp for indicating to traffic the limits of a temporary obstruction of the road (a “warning light”) shall comply with the requirements in paragraphs (2), (3), (4), (5) and (6). *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(1) A lamp for indicating to traffic the limits of a temporary obstruction of the road (a “warning light”) shall comply with the requirements in paragraphs (2), (3), (4), (5) and (6). *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(2) The height of the centre of each lens of the warning light from the surface of the road in the immediate vicinity of the lamp shall not exceed 1500 millimetres where the speed limit on the road is 40 mph or less, or 1200 millimetres where the speed limit on the road is more than 40 mph. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(2) The height of the centre of each lens of the warning light from the surface of the road in the immediate vicinity of the lamp shall not exceed 1500 millimetres where the speed limit on the road is 40 mph or less, or 1200 millimetres where the speed limit on the road is more than 40 mph. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(3) The warning light— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(3) The warning light— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-- (a) shall be powered separately from any other object or device; and *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-- (b) shall show a steady or intermittent amber light. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+- (a) shall be powered separately from any other object or device; and *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+- (b) shall show a steady or intermittent amber light. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(4) Subject to paragraphs (5) and (6), the whole of the warning light shall conform— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(4) Subject to paragraphs (5) and (6), the whole of the warning light shall conform— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-- (a) to British Standard *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] BS *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] EN 12352:2006 incorporating corrigenda July 2008 and July 2009; or *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-- (b) to a corresponding *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] EEA *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] Standard. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+- (a) to British Standard *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] BS *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] EN 12352:2006 incorporating corrigenda July 2008 and July 2009; or *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+- (b) to a corresponding *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] EEA *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] Standard. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(5) In relation to each aspect of performance specified in column (2) of an item in the Table, the warning light shall comply with— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(5) In relation to each aspect of performance specified in column (2) of an item in the Table, the warning light shall comply with— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-- (a) the requirement or test specification of British Standard *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] BS *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] EN 12352:2006 incorporating corrigenda July 2008 and July 2009 specified in column (3) of the item; or *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-- (b) an equivalent requirement or test specification specified in a corresponding *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] EEA *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] Standard. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+- (a) the requirement or test specification of British Standard *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] BS *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] EN 12352:2006 incorporating corrigenda July 2008 and July 2009 specified in column (3) of the item; or *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+- (b) an equivalent requirement or test specification specified in a corresponding *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] EEA *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] Standard. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-  Table *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+  Table *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
   <table>
   <thead>
@@ -60,15 +60,15 @@ summary: ''
   </tbody>
   </table>
 
-  [^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+  [^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(6) The external surface of the parts of the warning light which are not the lenses and are visible to road users shall be of a colour having the colorimetric values— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(6) The external surface of the parts of the warning light which are not the lenses and are visible to road users shall be of a colour having the colorimetric values— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-- (a) of reference 355 Lemon, or reference 356 Golden yellow, in Table 1 (standard colours) of British Standard *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] BS *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] 381C : 1996; or *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-- (b) of an equivalent reference specified in a corresponding *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] EEA *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b] Standard. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+- (a) of reference 355 Lemon, or reference 356 Golden yellow, in Table 1 (standard colours) of British Standard *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] BS *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] 381C : 1996; or *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+- (b) of an equivalent reference specified in a corresponding *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] EEA *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b] Standard. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
 ## Annotations
 
-[^key-4b506487f5c6bf8ecbaaacc0e57a3fec]: Textual amendment: Reg. 55 substituted (30.1.2012) by [The Traffic Signs (Amendment) (No. 2) Regulations and General Directions 2011 (S.I. 2011/3041)](https://www.legislation.gov.uk/uksi/2011/3041), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2011/3041/regulation/1/1/c), [27](https://www.legislation.gov.uk/uksi/2011/3041/regulation/27) (with [regs. 35](https://www.legislation.gov.uk/uksi/2011/3041/regulation/35), [36](https://www.legislation.gov.uk/uksi/2011/3041/regulation/36))
+[^c-4b506487f5c6bf8ecbaaacc0e57a3fec]: Textual amendment: Reg. 55 substituted (30.1.2012) by [The Traffic Signs (Amendment) (No. 2) Regulations and General Directions 2011 (S.I. 2011/3041)](https://www.legislation.gov.uk/uksi/2011/3041), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2011/3041/regulation/1/1/c), [27](https://www.legislation.gov.uk/uksi/2011/3041/regulation/27) (with [regs. 35](https://www.legislation.gov.uk/uksi/2011/3041/regulation/35), [36](https://www.legislation.gov.uk/uksi/2011/3041/regulation/36))
 
-[^key-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))
+[^c-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))

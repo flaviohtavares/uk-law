@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113BA. Bus network accessibility plans[^key-e2eea09899a6fde60033c1d8cc03ddf5]
+## 113BA. Bus network accessibility plans[^c-e2eea09899a6fde60033c1d8cc03ddf5]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2eea09899a6fde60033c1d8cc03ddf5]: Textual amendment: [S. 113BA](https://www.legislation.gov.uk/ukpga/2000/38/section/113BA) and cross-heading inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 21](https://www.legislation.gov.uk/ukpga/2025/24/section/21), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/h)
+[^c-e2eea09899a6fde60033c1d8cc03ddf5]: Textual amendment: [S. 113BA](https://www.legislation.gov.uk/ukpga/2000/38/section/113BA) and cross-heading inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 21](https://www.legislation.gov.uk/ukpga/2025/24/section/21), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139E. Effect of alteration of rates of personal independence payment[^key-80255be7eaf184fdeb53f26a9375405b]
+## 139E. Effect of alteration of rates of personal independence payment[^c-80255be7eaf184fdeb53f26a9375405b]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80255be7eaf184fdeb53f26a9375405b]: Textual amendment: [S. 139E](https://www.legislation.gov.uk/ukpga/1992/8/section/139E) inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [6](https://www.legislation.gov.uk/nisr/2016/228/regulation/6)
+[^c-80255be7eaf184fdeb53f26a9375405b]: Textual amendment: [S. 139E](https://www.legislation.gov.uk/ukpga/1992/8/section/139E) inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [6](https://www.legislation.gov.uk/nisr/2016/228/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. False statement offences: national security etc defence[^key-bf6a6bbc87cb6bfdf9ea8f22c97f537e][^key-cbfc7579aa3c0b09a56624a63cbb5fd1]
+## 103. False statement offences: national security etc defence[^c-bf6a6bbc87cb6bfdf9ea8f22c97f537e][^c-cbfc7579aa3c0b09a56624a63cbb5fd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf6a6bbc87cb6bfdf9ea8f22c97f537e]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-bf6a6bbc87cb6bfdf9ea8f22c97f537e]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-cbfc7579aa3c0b09a56624a63cbb5fd1]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/56/section/103) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/d)
+[^c-cbfc7579aa3c0b09a56624a63cbb5fd1]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/56/section/103) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/d)

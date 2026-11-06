@@ -175,7 +175,7 @@ no account shall be taken of any other instrument which is a security for the sa
 - (a) to any common investment scheme under section 22 of the [^c711548]Charities Act 1960 or any common deposit scheme under section 22A of that Act[^c711549] or to any common investment scheme under section 24 or any common deposit scheme under section 25 of the Charities Act 1993;[^c711550]; or
 - (b) to any unit trust scheme the units in which are, under the terms of the trust instrument relating to the scheme, required to be held only by bodies of persons established for charitable purposes only or trustees of trusts so established.
 
-(3)[^key-70dec7a9782606d6eeb077c077e47693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-70dec7a9782606d6eeb077c077e47693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 66. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c711554]
 
@@ -737,7 +737,7 @@ The above repeals shall come into force one month after the date fixed by the Tr
 
 [^c711550]: Textual amendment: Words in s. 65(2)(a) added (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/1), [99(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/99/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/1993/10/schedule/6/paragraph/5).
 
-[^key-70dec7a9782606d6eeb077c077e47693]: Textual amendment: [S. 65(3)](https://www.legislation.gov.uk/ukpga/1963/25/section/65/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-70dec7a9782606d6eeb077c077e47693]: Textual amendment: [S. 65(3)](https://www.legislation.gov.uk/ukpga/1963/25/section/65/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c711554]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/1963/25/section/66) repealed by [Finance Act 1967 (c. 54)](https://www.legislation.gov.uk/ukpga/1967/54), [s. 29(5)](https://www.legislation.gov.uk/ukpga/1967/54/section/29/5)(*b*), Sch. 16 Pt. III
 

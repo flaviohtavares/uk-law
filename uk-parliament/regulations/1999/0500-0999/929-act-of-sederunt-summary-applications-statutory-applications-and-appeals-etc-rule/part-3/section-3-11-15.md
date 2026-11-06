@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.15. Death of petitioner[^key-6183eb848d8a2b499a47ea287ec153fe]
+## 3.11.15. Death of petitioner[^c-6183eb848d8a2b499a47ea287ec153fe]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6183eb848d8a2b499a47ea287ec153fe]: Commencement: Rule 3.11.15 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-6183eb848d8a2b499a47ea287ec153fe]: Commencement: Rule 3.11.15 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

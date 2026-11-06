@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Foreign power threat activity and involvement in that activity[^key-94e0554d90d04f34c0f261fff3c85e8e][^key-c2270eb84617c9008255804373b5d7d5]
+## 33. Foreign power threat activity and involvement in that activity[^c-94e0554d90d04f34c0f261fff3c85e8e][^c-c2270eb84617c9008255804373b5d7d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,11 +42,11 @@ summary: ''
   - (v) section 12 (sabotage);
   - (vi) section 13 (foreign interference: general);
   - (vii) section 17(1) (obtaining material benefits from a foreign intelligence service);
-  - (viii)[^key-b7ccdf03c07ec1e9cb72abfc2ac01928] section 17A (supporting a designated body);
+  - (viii)[^c-b7ccdf03c07ec1e9cb72abfc2ac01928] section 17A (supporting a designated body);
   - (ix) section 17B (assisting a designated body);
   - (x) section 17C (obtaining etc material benefits from a designated body);
-- (b) acts within subsection (4) in relation to which the foreign power condition or the designated body condition[^key-f35ce5f388bf9030ae1c231816199507] is met;
-- (c) threats to carry out acts within subsection (4), where the foreign power condition or the designated body condition[^key-cd761140eda7f06813ab22b0cf00722a] is met in relation to the threats.
+- (b) acts within subsection (4) in relation to which the foreign power condition or the designated body condition[^c-f35ce5f388bf9030ae1c231816199507] is met;
+- (c) threats to carry out acts within subsection (4), where the foreign power condition or the designated body condition[^c-cd761140eda7f06813ab22b0cf00722a] is met in relation to the threats.
 
 (4) Acts are within this subsection if they—
 
@@ -54,7 +54,7 @@ summary: ''
 - (b) endanger the life of another person, or
 - (c) create a serious risk to the health or safety of the public or a section of the public.
 
-(5)[^key-38a41b7a10dde2afe08b59990a75665c] For the purposes of section 33A(1)(a) (designation of bodies involved in foreign power threat activity), this section is to be read as if—
+(5)[^c-38a41b7a10dde2afe08b59990a75665c] For the purposes of section 33A(1)(a) (designation of bodies involved in foreign power threat activity), this section is to be read as if—
 
 - (a) in subsection (3)(a), sub-paragraphs (viii) to (x) were omitted;
 - (b) in subsection (3)(b), the words “or the designated body condition” were omitted;
@@ -62,14 +62,14 @@ summary: ''
 
 ## Annotations
 
-[^key-94e0554d90d04f34c0f261fff3c85e8e]: Commencement: S. 33 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-94e0554d90d04f34c0f261fff3c85e8e]: Commencement: S. 33 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-c2270eb84617c9008255804373b5d7d5]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/32/section/33) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-c2270eb84617c9008255804373b5d7d5]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/32/section/33) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-b7ccdf03c07ec1e9cb72abfc2ac01928]: Textual amendment: [S. 33(3)(a)(viii)-(x)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/3/a/viii) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(a)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/a/i)
+[^c-b7ccdf03c07ec1e9cb72abfc2ac01928]: Textual amendment: [S. 33(3)(a)(viii)-(x)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/3/a/viii) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(a)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/a/i)
 
-[^key-f35ce5f388bf9030ae1c231816199507]: Textual amendment: Words in [s. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/3/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/a/ii)
+[^c-f35ce5f388bf9030ae1c231816199507]: Textual amendment: Words in [s. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/3/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/a/ii)
 
-[^key-cd761140eda7f06813ab22b0cf00722a]: Textual amendment: Words in [s. 33(3)(c)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/3/c) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/a/iii)
+[^c-cd761140eda7f06813ab22b0cf00722a]: Textual amendment: Words in [s. 33(3)(c)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/3/c) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/a/iii)
 
-[^key-38a41b7a10dde2afe08b59990a75665c]: Textual amendment: [S. 33(5)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/5) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/b)
+[^c-38a41b7a10dde2afe08b59990a75665c]: Textual amendment: [S. 33(5)](https://www.legislation.gov.uk/ukpga/2023/32/section/33/5) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 24(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/24/b)

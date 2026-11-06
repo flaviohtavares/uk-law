@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2A. Possession of a sound moderator or flash suppressor[^key-edb11489e8f375c3766a2be3b10410cc]
+## 2A. Possession of a sound moderator or flash suppressor[^c-edb11489e8f375c3766a2be3b10410cc]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edb11489e8f375c3766a2be3b10410cc]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1968/27/section/2A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/44/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/f)
+[^c-edb11489e8f375c3766a2be3b10410cc]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1968/27/section/2A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/44/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/f)

@@ -46,7 +46,7 @@ In accordance with section 42 of that Act, a draft of these Regulations was laid
 
 ## Introductory provisions
 
-### 1. Citation, commencement and extent[^key-8731d3626afc8040e5ae402c0cca0063]
+### 1. Citation, commencement and extent[^c-8731d3626afc8040e5ae402c0cca0063]
 
 These Regulations—
 
@@ -54,7 +54,7 @@ These Regulations—
 - (b) come into force on the day after the day on which they are made, and
 - (c) extend to Great Britain.
 
-### 2. Interpretation[^key-8103a59464895f8404f3e8f75dd95d46]
+### 2. Interpretation[^c-8103a59464895f8404f3e8f75dd95d46]
 
 (1) In these Regulations—
 
@@ -72,7 +72,7 @@ These Regulations—
 
 ## General prohibition
 
-### 3. General prohibition[^key-4d0ca4a2ad7197f16acf30565b85e488]
+### 3. General prohibition[^c-4d0ca4a2ad7197f16acf30565b85e488]
 
 (1) Subject to regulation 4, no person shall compile, use, sell or supply a prohibited list.
 
@@ -90,7 +90,7 @@ These Regulations—
 
 and references to taking part in the activities of a trade union have a corresponding meaning.
 
-### 4. Exceptions to general prohibition[^key-51550bb5ef1301eeffe9d89f926af82a]
+### 4. Exceptions to general prohibition[^c-51550bb5ef1301eeffe9d89f926af82a]
 
 (1) A person does not contravene regulation 3 in the following cases.
 
@@ -125,7 +125,7 @@ where the use or supply is necessary in order to determine whether these regulat
 
 ## Refusal of employment or employment agency services
 
-### 5. Refusal of employment[^key-4d68eba6b80a6c44d1dfee1bc67dd828]
+### 5. Refusal of employment[^c-4d68eba6b80a6c44d1dfee1bc67dd828]
 
 (1) A person (P) has a right of complaint to an employment tribunal against another (R) if R refuses to employ P for a reason which relates to a prohibited list, and either—
 
@@ -144,7 +144,7 @@ where the use or supply is necessary in order to determine whether these regulat
 
 (3) If there are facts from which the tribunal could conclude, in the absence of any other explanation, that R contravened regulation 3 or relied on information supplied in contravention of that regulation, the tribunal must find that such a contravention or reliance on information occurred unless R shows that it did not.
 
-### 6. Refusal of employment agency services[^key-485c20653580afb4b5af09d6b6317df0]
+### 6. Refusal of employment agency services[^c-485c20653580afb4b5af09d6b6317df0]
 
 (1) A person (P) has a right of complaint to an employment tribunal against an employment agency (E) if E refuses P any of its services for a reason which relates to a prohibited list, and either—
 
@@ -161,11 +161,11 @@ where the use or supply is necessary in order to determine whether these regulat
 
 (3) If there are facts from which the tribunal could conclude, in the absence of any other explanation, that E contravened regulation 3 or relied on information supplied in contravention of that regulation, the tribunal must find that such a contravention or reliance on information occurred unless E shows that it did not.
 
-### 7. Time limit for proceedings under regulation 5 or 6[^key-0320a2ee7a6c3b179e968efc55a87209]
+### 7. Time limit for proceedings under regulation 5 or 6[^c-0320a2ee7a6c3b179e968efc55a87209]
 
-(1) Subject to paragraph (2), an employment tribunal shall not consider a complaint under regulation 5 or 6 unless it is presented to the tribunal before the end of the period of six[^key-1a15f1f02bb737a6e8fceeb85f56fac5] months beginning with the date of the conduct to which the complaint relates.
+(1) Subject to paragraph (2), an employment tribunal shall not consider a complaint under regulation 5 or 6 unless it is presented to the tribunal before the end of the period of six[^c-1a15f1f02bb737a6e8fceeb85f56fac5] months beginning with the date of the conduct to which the complaint relates.
 
-(1A)[^key-2cebac9999388faae2b3379dd800d397] Regulation 18 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
+(1A)[^c-2cebac9999388faae2b3379dd800d397] Regulation 18 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
 
 (2) An employment tribunal may consider a complaint under regulation 5 or 6 that is otherwise out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -188,7 +188,7 @@ where the use or supply is necessary in order to determine whether these regulat
 - (c) in the case of conduct causing P not make use of a service or to cease to make use of it, the date of that conduct;
 - (d) in the case of failure to provide the same service, on the same terms, as is provided to others, the date or last date on which the service in fact was provided.
 
-### 8. Remedies in proceedings under regulation 5 or 6[^key-9aa360b2b5bfd6596f5e41467cd47215]
+### 8. Remedies in proceedings under regulation 5 or 6[^c-9aa360b2b5bfd6596f5e41467cd47215]
 
 (1) Where an employment tribunal finds that a complaint under regulation 5 or 6 is well-founded, it shall make a declaration to that effect and may make such of the following as it considers just and equitable—
 
@@ -209,7 +209,7 @@ where the use or supply is necessary in order to determine whether these regulat
 
 ## Detriment
 
-### 9. Detriment[^key-bd360cead6cfe2a4421aa19ee8717a43]
+### 9. Detriment[^c-bd360cead6cfe2a4421aa19ee8717a43]
 
 (1) A person (P) has a right of complaint to an employment tribunal against P’s employer (D) if D, by any act or any deliberate failure to act, subjects P to a detriment for a reason which relates to a prohibited list, and either—
 
@@ -222,11 +222,11 @@ where the use or supply is necessary in order to determine whether these regulat
 
 (3) This regulation does not apply where the detriment in question amounts to the dismissal of an employee within the meaning in Part 10 of the Employment Rights Act 1996.
 
-### 10. Time limit for proceedings under regulation 9[^key-43d55a43f7b9941265ae0bcb11f8f988]
+### 10. Time limit for proceedings under regulation 9[^c-43d55a43f7b9941265ae0bcb11f8f988]
 
-(1) Subject to paragraph (2), an employment tribunal shall not consider a complaint under regulation 9 unless it is presented before the end of the period of six[^key-a3d369fdca4f7c3c33a515686cb85f55] months beginning with the date of the act or failure to which the complaint relates or, where that act or failure is part of a series of similar acts or failures (or both) the last of them.
+(1) Subject to paragraph (2), an employment tribunal shall not consider a complaint under regulation 9 unless it is presented before the end of the period of six[^c-a3d369fdca4f7c3c33a515686cb85f55] months beginning with the date of the act or failure to which the complaint relates or, where that act or failure is part of a series of similar acts or failures (or both) the last of them.
 
-(1A)[^key-d465344c69ada3d1bc25e9c891cc8890] Regulation 18 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
+(1A)[^c-d465344c69ada3d1bc25e9c891cc8890] Regulation 18 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
 
 (2) An employment tribunal may consider a complaint under regulation 9 that is otherwise out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -240,7 +240,7 @@ where the use or supply is necessary in order to determine whether these regulat
 - (a) when D does an act which is inconsistent with doing the failed act, or
 - (b) if D has done no such inconsistent act, when the period expires within which D might reasonably have been expected to do the failed act if it was done.
 
-### 11. Remedies in proceedings under regulation 9[^key-460af4e95646f454d6d19ba2039c033e]
+### 11. Remedies in proceedings under regulation 9[^c-460af4e95646f454d6d19ba2039c033e]
 
 (1) Where the employment tribunal finds that a complaint under regulation 9 is well-founded, it shall make a declaration to that effect and may make an award of compensation to be paid by D to P in respect of the act or failure complained of.
 
@@ -267,7 +267,7 @@ where the use or supply is necessary in order to determine whether these regulat
 
 ## Unfair dismissal
 
-### 12. Unfair dismissal[^key-f19e49b6ed89b160cbd4041d25758f8f]
+### 12. Unfair dismissal[^c-f19e49b6ed89b160cbd4041d25758f8f]
 
 (1) Part 10 of the Employment Rights Act 1996[^f00003] (unfair dismissal) is amended as follows.
 
@@ -362,7 +362,7 @@ where the use or supply is necessary in order to determine whether these regulat
 
 ## Action for breach of statutory duty
 
-### 13. Action for breach of statutory duty[^key-40ad504510e3b847a843c84b04af5a05]
+### 13. Action for breach of statutory duty[^c-40ad504510e3b847a843c84b04af5a05]
 
 (1) A contravention of regulation 3 is actionable as a breach of statutory duty.
 
@@ -379,7 +379,7 @@ where the use or supply is necessary in order to determine whether these regulat
 
 ## Supplementary provisions
 
-### 14. Complaint against employer and employment agency[^key-3cea449cc7430d8d481ef74ad1d18098]
+### 14. Complaint against employer and employment agency[^c-3cea449cc7430d8d481ef74ad1d18098]
 
 (1) Where P has a right of complaint under regulation 5 or 6 against R and E arising out of the same facts, P may present a complaint against either R or E or against R and E jointly.
 
@@ -394,7 +394,7 @@ where the use or supply is necessary in order to determine whether these regulat
 
 the tribunal may order that the compensation shall be paid by R, by E, or partly by R and partly by E, as the tribunal may consider just and equitable in all the circumstances.
 
-### 15. Awards against third parties in tribunal proceedings[^key-f29dc02012e563f1b270ab1eb8fc0efa]
+### 15. Awards against third parties in tribunal proceedings[^c-f29dc02012e563f1b270ab1eb8fc0efa]
 
 (1) If in proceedings on a complaint under regulation 5, 6 or 9, or under Part 10 of the Employment Rights Act 1996 as it applies by virtue of these regulations, either the respondent or complainant claims that another person contravened regulation 3 in respect of the prohibited list to which the complaint relates, the complainant or respondent may request the tribunal to direct that other person be joined or sisted as a party to the proceedings.
 
@@ -417,11 +417,11 @@ the tribunal shall make a declaration to that effect and may award such of the r
 
 (6) Where by virtue of regulation 14 (complaint against employer and employment agency) there is more than one respondent, the above provisions apply to either or both of them.
 
-### 16. Restrictions on contracting out[^key-48ecfb8e2cf46968437bd67e7a7d291b]
+### 16. Restrictions on contracting out[^c-48ecfb8e2cf46968437bd67e7a7d291b]
 
 Section 288 of the Trade Union and Labour Relations (Consolidation) Act 1992 (restrictions on contracting out) applies in relation to regulations 5, 6 and 9 as if they were contained in that Act.
 
-### 17. Consequential amendments[^key-ce5fbd4902cc37e5e99c183e0ab24912]
+### 17. Consequential amendments[^c-ce5fbd4902cc37e5e99c183e0ab24912]
 
 (1) The Employment Tribunals Act 1996[^f00004] is amended as follows.
 
@@ -475,7 +475,7 @@ Section 288 of the Trade Union and Labour Relations (Consolidation) Act 1992 (re
 
 .
 
-### 18. Extension of time limit to facilitate conciliation before institution of proceedings[^key-414f89c590212103fbb74bae4d565fd6]
+### 18. Extension of time limit to facilitate conciliation before institution of proceedings[^c-414f89c590212103fbb74bae4d565fd6]
 
 (1) This regulation applies where these Regulations provide for it to apply for the purposes of a provision of these Regulations (“a relevant provision”).
 
@@ -510,52 +510,52 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26); to which there are amendments not relevant to these Regulations.
 
-[^key-8731d3626afc8040e5ae402c0cca0063]: Commencement: Reg. 1 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-8731d3626afc8040e5ae402c0cca0063]: Commencement: Reg. 1 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-8103a59464895f8404f3e8f75dd95d46]: Commencement: Reg. 2 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-8103a59464895f8404f3e8f75dd95d46]: Commencement: Reg. 2 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
 [^f00002]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52); section 46 was amended by sections 52, 57(2) and Schedule 2 of the Employment Relations Act [2004 (c. 24.)](https://www.legislation.gov.uk/ukpga/2004/24); section 119, to which there are amendments not relevant to these Regulations; section 140 was amended by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), and by section 240 and paragraph 56(1) and (6) of Schedule 1 to the Employment Rights Act [1996 (c.18)](https://www.legislation.gov.uk/ukpga/1996/18); section 149 was amended by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), and by section 2 and Schedule 2 of the Employment Relations Act [1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26); section 207A was inserted by section 3(1) and (2) of the Employment Act [2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24); section 288 was amended by sections 1(2)(a) and (c), 8(3), 9(1) and (2)(c), 10(1) and (2)(c), 15 and paragraph 9(1), (2) and (3) of Schedule 1 to the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), by section 57, paragraph 19 of Schedule 1, and Schedule 2 of the Employment Relations Act [2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), by section 43 and paragraph 8(a) and (b) of Schedule 1 of the Employment Tribunals Act [1996 (c. 17)](https://www.legislation.gov.uk/ukpga/1996/17), by section 39(2) and paragraph 4(a) and (b) of Schedule 6 of the Trade Union Reform and Employment Rights Act [1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), and by section 208(1) and Schedule 21 of the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29); Schedule A2 was inserted by section 3(1) and (3) of the Employment Act [2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24) and is amended by regulation 17(6) of these Regulations; there are other amendments not relevant to these Regulations.
 
-[^key-4d0ca4a2ad7197f16acf30565b85e488]: Commencement: Reg. 3 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-4d0ca4a2ad7197f16acf30565b85e488]: Commencement: Reg. 3 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-51550bb5ef1301eeffe9d89f926af82a]: Commencement: Reg. 4 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-51550bb5ef1301eeffe9d89f926af82a]: Commencement: Reg. 4 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-4d68eba6b80a6c44d1dfee1bc67dd828]: Commencement: Reg. 5 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-4d68eba6b80a6c44d1dfee1bc67dd828]: Commencement: Reg. 5 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-485c20653580afb4b5af09d6b6317df0]: Commencement: Reg. 6 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-485c20653580afb4b5af09d6b6317df0]: Commencement: Reg. 6 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-0320a2ee7a6c3b179e968efc55a87209]: Commencement: Reg. 7 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-0320a2ee7a6c3b179e968efc55a87209]: Commencement: Reg. 7 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-1a15f1f02bb737a6e8fceeb85f56fac5]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/493/regulation/7/1) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/758/regulation/6/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
+[^c-1a15f1f02bb737a6e8fceeb85f56fac5]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/493/regulation/7/1) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/758/regulation/6/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
-[^key-2cebac9999388faae2b3379dd800d397]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2010/493/regulation/7/1A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/65)
+[^c-2cebac9999388faae2b3379dd800d397]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2010/493/regulation/7/1A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/65)
 
-[^key-9aa360b2b5bfd6596f5e41467cd47215]: Commencement: Reg. 8 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-9aa360b2b5bfd6596f5e41467cd47215]: Commencement: Reg. 8 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-bd360cead6cfe2a4421aa19ee8717a43]: Commencement: Reg. 9 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-bd360cead6cfe2a4421aa19ee8717a43]: Commencement: Reg. 9 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-43d55a43f7b9941265ae0bcb11f8f988]: Commencement: Reg. 10 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-43d55a43f7b9941265ae0bcb11f8f988]: Commencement: Reg. 10 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-a3d369fdca4f7c3c33a515686cb85f55]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/493/regulation/10/1) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/758/regulation/6/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
+[^c-a3d369fdca4f7c3c33a515686cb85f55]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/493/regulation/10/1) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/758/regulation/6/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
-[^key-d465344c69ada3d1bc25e9c891cc8890]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2010/493/regulation/10/1A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/65)
+[^c-d465344c69ada3d1bc25e9c891cc8890]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2010/493/regulation/10/1A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/65)
 
-[^key-460af4e95646f454d6d19ba2039c033e]: Commencement: Reg. 11 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-460af4e95646f454d6d19ba2039c033e]: Commencement: Reg. 11 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-f19e49b6ed89b160cbd4041d25758f8f]: Commencement: Reg. 12 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-f19e49b6ed89b160cbd4041d25758f8f]: Commencement: Reg. 12 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
 [^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 95 was amended by section 57, paragraph 29 of Schedule 1, and Schedule 2 to the Employment Relations Act [2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), by regulation 11 and paragraph 3(1) and (7) of Schedule 2 to the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, [SI 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034); section 97 was amended by regulation 11, and paragraph 3(1) and (8) of Schedule 2 to the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, [SI 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), by sections 9 and 44, and paragraphs 1, 5, and 14 of Part III Schedule 4, and Schedule 9(2) to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26); section 98 was amended by section 57(1) and paragraph 30 of Schedule 1 to the Employment Relations Act [2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24) and other amendments not relevant to these Regulations; section 104F is inserted by regulation 12(1) and (2) of these Regulations; section 105 was amended by regulation 32(1)(a) of the European Cooperative Society (Involvement of Employees) Regulations [SI 2006/2059](https://www.legislation.gov.uk/uksi/2006/2059), by regulation 48(1)(a) of the Companies (Cross-Border Mergers) Regulations 2007 [SI 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974), section 9 and Schedule 4 and 9(2) to the Employment Relations Act [1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26), by section 40(5) of the Employment Relations Act [2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17), by section 16 and paragraph 5 of Schedule 5 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), by regulation 12(1) and (3) of these Regulations, and by other amendments not relevant to these Regulations; section 106 was amended by section 53 and paragraphs 24 and 35 of Schedule 7 to the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), and by section 11(1) and paragraph 42 of Schedule 1 to the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18); section 108 was amended by articles 3 to 5 of the Unfair Dismissal and Statement of Reasons for Dismissal (Variation of Qualifying Period) Order 1999 [SI 1999/1436](https://www.legislation.gov.uk/uksi/1999/1436), by regulation 12(1) and (4) of these Regulations, and by other amendments not relevant to these Regulations; section 111 was amended by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) and by regulation 12(1) and (5) of these Regulations; section 120 was amended by sections 36(1)(a) and 44 and Schedule 9(10) to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), by regulation 12(1) and (6) of the Schedule to these Regulations and by other amendments not relevant to these Regulations; section 122 was amended by section 15 and paragraph 22 of Schedule 1 to the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) and by other amendments not relevant to these Regulations; section 127C was inserted by regulation 12(1) and (7) of these Regulations; section 128 was amended by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), by section 6 of the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), by regulation 12(1) and (8) of these Regulations and by other amendments not relevant to these Regulations; section 129 was amended by regulation 2(1) and 32(5) of the Working Time Regulations 1998 [SI 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), by section 9 of the Public Interest Disclosure Act [1998 (c.23)](https://www.legislation.gov.uk/ukpga/1998/23), by section 6 of the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26) and by regulation 12(1) and (9) of these Regulations; there are other amendments not relevant to these Regulations.
 
-[^key-40ad504510e3b847a843c84b04af5a05]: Commencement: Reg. 13 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-40ad504510e3b847a843c84b04af5a05]: Commencement: Reg. 13 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-3cea449cc7430d8d481ef74ad1d18098]: Commencement: Reg. 14 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-3cea449cc7430d8d481ef74ad1d18098]: Commencement: Reg. 14 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-f29dc02012e563f1b270ab1eb8fc0efa]: Commencement: Reg. 15 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-f29dc02012e563f1b270ab1eb8fc0efa]: Commencement: Reg. 15 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-48ecfb8e2cf46968437bd67e7a7d291b]: Commencement: Reg. 16 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-48ecfb8e2cf46968437bd67e7a7d291b]: Commencement: Reg. 16 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
-[^key-ce5fbd4902cc37e5e99c183e0ab24912]: Commencement: Reg. 17 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
+[^c-ce5fbd4902cc37e5e99c183e0ab24912]: Commencement: Reg. 17 in force at 2.3.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/regulation/1/b)
 
 [^f00004]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17); section 10 was amended by section 41 and paragraph 3 of Schedule 8 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), by sections 36 and 57(1) and paragraph 24 of Schedule 1 to the Employment Relations Act [2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17) and by regulation 17(1) and (2) of these Regulations; section 16 was amended by section 1(2)(a) and (b) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), by section 28 and Schedule 3 to the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), by section 86 and Schedule 7 to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), and regulation 17(1) and (3) of these Regulations; section 18 was amended by section 1(2)(a) and (b) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), by section 5(1), (2) and (3) of the Employment Act [2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), by regulation 17(1) and (4) of these Regulations, and by other amendments not relevant to these Regulations; section 21 was amended by section 1(2)(a), section 15 and paragraph 17(1) and (3) of Schedule 1 to the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), by regulation 34(b) of the Working Time Regulations 1998 [SI 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), by regulation 17(1) and (5) of these Regulations, and by other amendments not relevant to these Regulations; there are other amendments not relevant to these Regulations.
 
-[^key-414f89c590212103fbb74bae4d565fd6]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/493/regulation/18) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/66)
+[^c-414f89c590212103fbb74bae4d565fd6]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/493/regulation/18) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/66)

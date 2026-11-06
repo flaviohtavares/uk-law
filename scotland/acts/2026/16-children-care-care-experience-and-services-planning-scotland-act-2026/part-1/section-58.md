@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Children’s legal aid[^key-260bce62efdca1b7c58cab498a68c5f3]
+## 58. Children’s legal aid[^c-260bce62efdca1b7c58cab498a68c5f3]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-260bce62efdca1b7c58cab498a68c5f3]: Commencement: S. 58 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-260bce62efdca1b7c58cab498a68c5f3]: Commencement: S. 58 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

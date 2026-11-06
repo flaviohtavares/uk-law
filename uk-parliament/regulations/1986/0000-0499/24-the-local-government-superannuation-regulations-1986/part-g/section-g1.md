@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G1. Employees of magistrates' courts committees[^key-b4bc8dcb1a6b61ec58892e5b27fa9f2d]
+## G1. Employees of magistrates' courts committees[^c-b4bc8dcb1a6b61ec58892e5b27fa9f2d]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ of Part I of Schedule 15.
 
 ## Annotations
 
-[^key-b4bc8dcb1a6b61ec58892e5b27fa9f2d]: Commencement: [Reg. G1](https://www.legislation.gov.uk/uksi/1986/24/regulation/G1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-b4bc8dcb1a6b61ec58892e5b27fa9f2d]: Commencement: [Reg. G1](https://www.legislation.gov.uk/uksi/1986/24/regulation/G1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

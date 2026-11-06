@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Immigration[^key-5f4328ab25663ef82af48d3b3b7231b1]
+## 22. Immigration[^c-5f4328ab25663ef82af48d3b3b7231b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ A person who is designated under regulation 5 for the purposes of this regulatio
 
 ## Annotations
 
-[^key-5f4328ab25663ef82af48d3b3b7231b1]: Commencement: Reg. 22 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-5f4328ab25663ef82af48d3b3b7231b1]: Commencement: Reg. 22 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00007]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 8B was inserted by the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), section 8 and amended by the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), section 76; and the Act, section 59 and Schedule 3, Part 1.

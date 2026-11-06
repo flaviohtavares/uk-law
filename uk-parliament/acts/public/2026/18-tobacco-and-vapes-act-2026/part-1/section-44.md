@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Consequential amendments to do with Part 1[^key-a66a6b8447dd18ccaa83989d1e2b733b][^key-707c2ca9931c2e436357a1b057542ae6]
+## 44. Consequential amendments to do with Part 1[^c-a66a6b8447dd18ccaa83989d1e2b733b][^c-707c2ca9931c2e436357a1b057542ae6]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a66a6b8447dd18ccaa83989d1e2b733b]: Commencement: S. 44(1) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-a66a6b8447dd18ccaa83989d1e2b733b]: Commencement: S. 44(1) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-707c2ca9931c2e436357a1b057542ae6]: Commencement: S. 44(2) in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-707c2ca9931c2e436357a1b057542ae6]: Commencement: S. 44(2) in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

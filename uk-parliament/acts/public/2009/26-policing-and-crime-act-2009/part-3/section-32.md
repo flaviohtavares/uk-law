@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Mandatory licensing conditions relating to alcohol[^key-3af50937852ca73aeffff95aecc924b7]
+## 32. Mandatory licensing conditions relating to alcohol[^c-3af50937852ca73aeffff95aecc924b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 (which makes provision about mandatory licensing conditions relating 
 
 ## Annotations
 
-[^key-3af50937852ca73aeffff95aecc924b7]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2009/26/section/32) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(i)](https://www.legislation.gov.uk/uksi/2010/125/article/2/i)
+[^c-3af50937852ca73aeffff95aecc924b7]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2009/26/section/32) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(i)](https://www.legislation.gov.uk/uksi/2010/125/article/2/i)

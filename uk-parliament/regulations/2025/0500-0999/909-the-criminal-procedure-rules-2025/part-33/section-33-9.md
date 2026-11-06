@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.9. Certificates of service[^key-398f0b7c3a90a829e88373bfeb97788f]
+## 33.9. Certificates of service[^c-398f0b7c3a90a829e88373bfeb97788f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-398f0b7c3a90a829e88373bfeb97788f]: Commencement: [Rule 33.9](https://www.legislation.gov.uk/uksi/2025/909/rule/33.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-398f0b7c3a90a829e88373bfeb97788f]: Commencement: [Rule 33.9](https://www.legislation.gov.uk/uksi/2025/909/rule/33.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Child arrangements orders[^key-8d8676bd53498677b718714cfa153d5f]
+## 12. Child arrangements orders[^c-8d8676bd53498677b718714cfa153d5f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d8676bd53498677b718714cfa153d5f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/6/section/12) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/889/article/4/b) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-8d8676bd53498677b718714cfa153d5f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/6/section/12) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/889/article/4/b) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)

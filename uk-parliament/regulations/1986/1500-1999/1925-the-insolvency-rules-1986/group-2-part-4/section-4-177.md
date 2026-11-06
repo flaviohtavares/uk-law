@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.177. Obligations of liquidator to committee[^key-c65e02f4d60f4528e49f2d83062997ae]
+## 4.177. Obligations of liquidator to committee[^c-c65e02f4d60f4528e49f2d83062997ae]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c65e02f4d60f4528e49f2d83062997ae]: Commencement: [Rule 4.177](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.177) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c65e02f4d60f4528e49f2d83062997ae]: Commencement: [Rule 4.177](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.177) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

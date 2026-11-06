@@ -22,7 +22,7 @@ summary: ''
 
 Article 4(2) and (8)
 
-### 1. Membership: general[^key-31e710f0e7a252e05435f07ef4d849a9][^key-44dc258ed04529880c65cb09454e9bc9]
+### 1. Membership: general[^c-31e710f0e7a252e05435f07ef4d849a9][^c-44dc258ed04529880c65cb09454e9bc9]
 
 (1) The Council is to consist of—
 
@@ -35,11 +35,11 @@ Article 4(2) and (8)
 
 (3) The Privy Council must ensure that, at any time, at least one of the members of the Council lives or works wholly or mainly in each of England, Scotland and Wales.
 
-(4)[^key-9fee06e8e585177db89fe88ac8931499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9fee06e8e585177db89fe88ac8931499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-9fee06e8e585177db89fe88ac8931499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9fee06e8e585177db89fe88ac8931499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Matters for the order of the Privy Council under article 4(2)[^key-6d3dba911d503c1afd9c51568d2bd048][^key-0c1374eb20939ce0d8b229ff8656a859]
+### 2. Matters for the order of the Privy Council under article 4(2)[^c-6d3dba911d503c1afd9c51568d2bd048][^c-0c1374eb20939ce0d8b229ff8656a859]
 
 (1) An order under article 4(2) must include provision with regard to—
 
@@ -63,7 +63,7 @@ Article 4(2) and (8)
 
 (3) An order under article 4(2) may make different provision for different cases or different classes of case and may contain such incidental, consequential, transitional, transitory, saving or supplementary provisions as appear to the Privy Council to be necessary or expedient.
 
-### 3. Powers of the Council[^key-cecf7a4b9eaa8bd954e2f95ee394c989][^key-c01323b940062666aac9739bec7fe660]
+### 3. Powers of the Council[^c-cecf7a4b9eaa8bd954e2f95ee394c989][^c-c01323b940062666aac9739bec7fe660]
 
 (1) Subject to the following provisions of this Schedule, the Council has power to do anything which is calculated to facilitate the discharge of its functions or which is incidental or conducive to the discharge of its functions.
 
@@ -86,13 +86,13 @@ Article 4(2) and (8)
 
 (5) Subject to any provision made by or under this Order, the Council may regulate its own procedure.
 
-### 4. Registration of members’ private interests[^key-d24ed756692371ff59415fea04079c75][^key-95977e93957255a72898283cd61fa877]
+### 4. Registration of members’ private interests[^c-d24ed756692371ff59415fea04079c75][^c-95977e93957255a72898283cd61fa877]
 
 (1) The Council must establish and maintain a system for the declaration and registration of private interests of its members.
 
 (2) The Council must publish in such manner as it sees fit entries recorded in its register of members’ private interests.
 
-### 5. The statutory committees[^key-c38caa622aaa53c3dbc4c0b4bfb0cfd0][^key-c9bea05fce127c3bbf5084f364579a10]
+### 5. The statutory committees[^c-c38caa622aaa53c3dbc4c0b4bfb0cfd0][^c-c9bea05fce127c3bbf5084f364579a10]
 
 (1) The Council must by rules, as regards each of the statutory committees, make provision with regard to—
 
@@ -135,15 +135,15 @@ but where the chair does determine a particular size and composition of the comm
 
 (7) No proceedings of a statutory committee are to be invalidated by any defect in the appointment of a member.
 
-(8)[^key-da1997941b498f824c69a92df8a17e45] In exercising a function under article 54 or 57, the Fitness to Practise Committee must have regard to the over-arching objective of the Council under article 6(1) (read with article 6(1A)).
+(8)[^c-da1997941b498f824c69a92df8a17e45] In exercising a function under article 54 or 57, the Fitness to Practise Committee must have regard to the over-arching objective of the Council under article 6(1) (read with article 6(1A)).
 
-### 6. The Council’s duties in respect of publications[^key-dd09fb07160d6868737bb4757eb47400][^key-4522c2d267c18294167db2f5ecd28d0b]
+### 6. The Council’s duties in respect of publications[^c-dd09fb07160d6868737bb4757eb47400][^c-4522c2d267c18294167db2f5ecd28d0b]
 
 (1) The Council must from time to time publish or provide in such manner as it sees fit information about the regulation of pharmacists, pharmacy technicians and registered pharmacies.
 
 (2) The Council may from time to time publish or provide in such manner as it sees fit guidance to registrants, employers and such other persons as it considers appropriate in respect of the standards for the education, training, supervision and performance of persons who are not registrants but who provide services in connection with those provided by registrants.
 
-### 7. Accounts[^key-e35067054d71edad3393fa5c905a5dad][^key-cff75901b12f41b248fc8cd76a23c01c]
+### 7. Accounts[^c-e35067054d71edad3393fa5c905a5dad][^c-cff75901b12f41b248fc8cd76a23c01c]
 
 (1) The Council must—
 
@@ -164,7 +164,7 @@ but where the chair does determine a particular size and composition of the comm
 
 and the Privy Council must lay before each House of Parliament and before the Scottish Parliament a copy of those annual accounts and of any report on the accounts made by the auditors appointed under sub-paragraph (3).
 
-### 8. Annual reports, statistical information and strategic plans[^key-4492da90bbc46aa9b380a1af0e20b149][^key-1b67830d6db9da28f112a86859a2a77f]
+### 8. Annual reports, statistical information and strategic plans[^c-4492da90bbc46aa9b380a1af0e20b149][^c-1b67830d6db9da28f112a86859a2a77f]
 
 (1) The Council must publish, by such date in each calendar year as the Privy Council may determine—
 
@@ -176,42 +176,42 @@ and the Privy Council must lay before each House of Parliament and before the Sc
 
 ## Annotations
 
-[^key-31e710f0e7a252e05435f07ef4d849a9]: Commencement: Sch. 1 para. 1 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-31e710f0e7a252e05435f07ef4d849a9]: Commencement: Sch. 1 para. 1 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-44dc258ed04529880c65cb09454e9bc9]: Commencement: Sch. 1 para. 1 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-44dc258ed04529880c65cb09454e9bc9]: Commencement: Sch. 1 para. 1 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
-[^key-9fee06e8e585177db89fe88ac8931499]: Textual amendment: [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2010/231/schedule/1/paragraph/1/4)[(5)](https://www.legislation.gov.uk/uksi/2010/231/schedule/1/paragraph/1/5) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 144(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/144/3)
+[^c-9fee06e8e585177db89fe88ac8931499]: Textual amendment: [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2010/231/schedule/1/paragraph/1/4)[(5)](https://www.legislation.gov.uk/uksi/2010/231/schedule/1/paragraph/1/5) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 144(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/144/3)
 
-[^key-6d3dba911d503c1afd9c51568d2bd048]: Commencement: Sch. 1 para. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-6d3dba911d503c1afd9c51568d2bd048]: Commencement: Sch. 1 para. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-0c1374eb20939ce0d8b229ff8656a859]: Commencement: Sch. 1 para. 2 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-0c1374eb20939ce0d8b229ff8656a859]: Commencement: Sch. 1 para. 2 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
-[^key-cecf7a4b9eaa8bd954e2f95ee394c989]: Commencement: Sch. 1 para. 3 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-cecf7a4b9eaa8bd954e2f95ee394c989]: Commencement: Sch. 1 para. 3 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-c01323b940062666aac9739bec7fe660]: Commencement: Sch. 1 para. 3 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-c01323b940062666aac9739bec7fe660]: Commencement: Sch. 1 para. 3 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
-[^key-d24ed756692371ff59415fea04079c75]: Commencement: Sch. 1 para. 4 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-d24ed756692371ff59415fea04079c75]: Commencement: Sch. 1 para. 4 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-95977e93957255a72898283cd61fa877]: Commencement: Sch. 1 para. 4 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-95977e93957255a72898283cd61fa877]: Commencement: Sch. 1 para. 4 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
-[^key-c38caa622aaa53c3dbc4c0b4bfb0cfd0]: Commencement: Sch. 1 para. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-c38caa622aaa53c3dbc4c0b4bfb0cfd0]: Commencement: Sch. 1 para. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-c9bea05fce127c3bbf5084f364579a10]: Commencement: Sch. 1 para. 5 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-c9bea05fce127c3bbf5084f364579a10]: Commencement: Sch. 1 para. 5 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
-[^key-da1997941b498f824c69a92df8a17e45]: Textual amendment: [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/1/paragraph/5/8) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 7(4)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7/4); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-da1997941b498f824c69a92df8a17e45]: Textual amendment: [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/1/paragraph/5/8) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 7(4)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7/4); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-dd09fb07160d6868737bb4757eb47400]: Commencement: Sch. 1 para. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-dd09fb07160d6868737bb4757eb47400]: Commencement: Sch. 1 para. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-4522c2d267c18294167db2f5ecd28d0b]: Commencement: Sch. 1 para. 6 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-4522c2d267c18294167db2f5ecd28d0b]: Commencement: Sch. 1 para. 6 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
-[^key-e35067054d71edad3393fa5c905a5dad]: Commencement: Sch. 1 para. 7 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-e35067054d71edad3393fa5c905a5dad]: Commencement: Sch. 1 para. 7 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-cff75901b12f41b248fc8cd76a23c01c]: Commencement: Sch. 1 para. 7 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-cff75901b12f41b248fc8cd76a23c01c]: Commencement: Sch. 1 para. 7 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
 [^f00058]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-4492da90bbc46aa9b380a1af0e20b149]: Commencement: Sch. 1 para. 8 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-4492da90bbc46aa9b380a1af0e20b149]: Commencement: Sch. 1 para. 8 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-1b67830d6db9da28f112a86859a2a77f]: Commencement: Sch. 1 para. 8 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-1b67830d6db9da28f112a86859a2a77f]: Commencement: Sch. 1 para. 8 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
 
 [^f00059]: Footnote: [2006 c.3](https://www.legislation.gov.uk/ukpga/2006/3).

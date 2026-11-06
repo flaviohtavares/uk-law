@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A registration officer must comply with any general or special directions which may be given by the Secretary of State[^key-195b19cfd470e1920271d5beeb65eb48] with respect to the arrangements to be made by the registration officer for carrying out the officer's functions under this Order.
+(1) A registration officer must comply with any general or special directions which may be given by the Secretary of State[^c-195b19cfd470e1920271d5beeb65eb48] with respect to the arrangements to be made by the registration officer for carrying out the officer's functions under this Order.
 
-(2) The Secretary of State[^key-4469a0db4022ae92c283295bf9c99f36] may give a direction under this article only if it is in accordance with a recommendation of the Commission.
+(2) The Secretary of State[^c-4469a0db4022ae92c283295bf9c99f36] may give a direction under this article only if it is in accordance with a recommendation of the Commission.
 
 (3) Any of the duties and powers of a registration officer under this Order may be performed and exercised by any deputy for the time being approved by the local authority which appointed the registration officer, and the provisions of this Order apply to any such deputy so far as respects any duties or powers to be performed or exercised by the deputy as they apply to the registration officer.
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-195b19cfd470e1920271d5beeb65eb48]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2012/1917/article/6/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-195b19cfd470e1920271d5beeb65eb48]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2012/1917/article/6/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-4469a0db4022ae92c283295bf9c99f36]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/6/2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-4469a0db4022ae92c283295bf9c99f36]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/6/2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c21343511]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).

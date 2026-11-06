@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Winding up of fund allocated under section 22(3)(e).[^key-d7bb1d5a9c1d8088e05a94d96ff6a4ef]
+## 30. Winding up of fund allocated under section 22(3)(e).[^c-d7bb1d5a9c1d8088e05a94d96ff6a4ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7bb1d5a9c1d8088e05a94d96ff6a4ef]: Textual amendment: S. 30 repealed (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(10)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/10), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40), [Sch. 6](https://www.legislation.gov.uk/ukpga/2004/25/schedule/6); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-d7bb1d5a9c1d8088e05a94d96ff6a4ef]: Textual amendment: S. 30 repealed (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(10)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/10), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40), [Sch. 6](https://www.legislation.gov.uk/ukpga/2004/25/schedule/6); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

@@ -24,7 +24,7 @@ summary: ''
 
 It is so transmissible either in connection with the goodwill of a business or independently.
 
-(1A)[^key-d39159639ca611629128ec4135605677] A contractual obligation to transfer a business is to be taken to include an obligation to transfer any registered trade mark, except where there is agreement to the contrary or it is clear in all the circumstances that this presumption should not apply.
+(1A)[^c-d39159639ca611629128ec4135605677] A contractual obligation to transfer a business is to be taken to include an obligation to transfer any registered trade mark, except where there is agreement to the contrary or it is clear in all the circumstances that this presumption should not apply.
 
 (2) An assignment or other transmission of a registered trade mark may be partial, that is, limited so as to apply—
 
@@ -45,4 +45,4 @@ Except in Scotland, this requirement may be satisfied in a case where the assign
 
 [^c1130349]: Modification: S. 24 applied (except s. 24(2)(b)) (with modifications) (1.4.1996) by [S.I. 1996/714](https://www.legislation.gov.uk/uksi/1996/714), [art. 5](https://www.legislation.gov.uk/uksi/1996/714/article/5)
 
-[^key-d39159639ca611629128ec4135605677]: Textual amendment: S. 24(1A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2018/825/regulation/14) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-d39159639ca611629128ec4135605677]: Textual amendment: S. 24(1A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2018/825/regulation/14) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

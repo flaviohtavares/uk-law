@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3H — Text of the 2019 Hague Convention[^key-2d2866a7aa3abf3c03aa524225f20e79]
+## Schedule 3H — Text of the 2019 Hague Convention[^c-2d2866a7aa3abf3c03aa524225f20e79]
 
 *Extent: E+W+S+N.I.*
 
@@ -364,4 +364,4 @@ CONVENTION ON THE RECOGNITION AND ENFORCEMENT OF FOREIGN JUDGMENTS IN CIVIL OR C
 
 ## Annotations
 
-[^key-2d2866a7aa3abf3c03aa524225f20e79]: Textual amendment: [Sch. 3H](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3H) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [Sch.](https://www.legislation.gov.uk/uksi/2024/713/schedule)
+[^c-2d2866a7aa3abf3c03aa524225f20e79]: Textual amendment: [Sch. 3H](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3H) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [Sch.](https://www.legislation.gov.uk/uksi/2024/713/schedule)

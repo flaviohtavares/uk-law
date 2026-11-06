@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 22 — Diagram showing where unlit parking is not permitted near a junction[^key-0c3572714947d4cabd36bfbe10e82b52]
+## SCHEDULE 22 — Diagram showing where unlit parking is not permitted near a junction[^c-0c3572714947d4cabd36bfbe10e82b52]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c3572714947d4cabd36bfbe10e82b52]: Commencement: [Sch. 22](https://www.legislation.gov.uk/uksi/1989/1796/schedule/22) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-0c3572714947d4cabd36bfbe10e82b52]: Commencement: [Sch. 22](https://www.legislation.gov.uk/uksi/1989/1796/schedule/22) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

@@ -45,11 +45,11 @@ WHEREAS—
 
 May it therefore please your Majesty that it may be enacted, and be it enacted, by the Queen's Most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Citation and commencement[^key-b8d05542da92e72e6293b069837fd855]
+## 1. Citation and commencement[^c-b8d05542da92e72e6293b069837fd855]
 
 This Act may be cited as the Highgate Cemetery Act 2022 and comes into force at the end of 28 days beginning with the day on which this Act is passed.
 
-## 2. Interpretation[^key-f2c09460d482c67c6afcd6c0c0ffe9b0]
+## 2. Interpretation[^c-f2c09460d482c67c6afcd6c0c0ffe9b0]
 
 In this Act—
 
@@ -79,11 +79,11 @@ In this Act—
 - “**spouse**” includes former spouse; and
 - “**the Trust**” means the Friends of Highgate Cemetery Trust, a charitable trust with the company number 03157806.
 
-## 3. Power to operate and maintain the cemetery[^key-f43f9842a69e3404e12ed87e8bfd44f2]
+## 3. Power to operate and maintain the cemetery[^c-f43f9842a69e3404e12ed87e8bfd44f2]
 
 Subject to the provisions of this Act, the burial authority may do all such things as it considers necessary or desirable for the proper management, regulation and control of the cemetery.
 
-## 4. Power to extinguish rights of burial[^key-4c6c05874ac7ec9cb2a63c9f1fb02b63]
+## 4. Power to extinguish rights of burial[^c-4c6c05874ac7ec9cb2a63c9f1fb02b63]
 
 (1) Subject to subsection (2) and section 6, where in respect of any grave space in the cemetery a right of burial has not been exercised for 75 years or more from the date of the latest burial in the grave space or, if there has been no burial in the grave space, from the date of the grant of the right of burial in the grave space, the burial authority may, by notice given in accordance with the provisions of this section, extinguish the right of burial in that grave space.
 
@@ -140,7 +140,7 @@ Subject to the provisions of this Act, the burial authority may do all such thin
 
 (14) In any arbitration under subsection (13)(a), the reference must be to a single arbitrator to be appointed by agreement between the parties or, in default of agreement, to be appointed by the President of the Royal Institution of Chartered Surveyors on the application of either party after giving notice in writing to the other party.
 
-## 5. Power to disturb human remains[^key-5c071bb257e612326acac09a4a24da78]
+## 5. Power to disturb human remains[^c-5c071bb257e612326acac09a4a24da78]
 
 (1) Subject to section 6, the burial authority may disturb or authorise the disturbance of human remains interred in a grave in the cemetery for the purpose of increasing the space for interments in the grave or conserving the cemetery where—
 
@@ -205,7 +205,7 @@ and that objection is not withdrawn, the burial authority may not, subject to su
 
 (17) The provisions of section 25 of the Burial Act 1857 (offence of removal of body from burial ground) do not apply to a removal carried out in accordance with the provisions of this section.
 
-## 6. Further protection for certain graves[^key-0ec12872904173fde15aea758527e228]
+## 6. Further protection for certain graves[^c-0ec12872904173fde15aea758527e228]
 
 (1) The burial authority must obtain the written agreement of the Commonwealth War Graves Commission before exercising the powers conferred by sections 4 and 5 in respect of—
 
@@ -222,7 +222,7 @@ and that objection is not withdrawn, the burial authority may not, subject to su
 
 (6) The record maintained under subsection (5) must at all reasonable times be available for consultation by any person free of charge.
 
-## 7. Register of burials and other records[^key-19b638355987856d678a0965f99c7b66]
+## 7. Register of burials and other records[^c-19b638355987856d678a0965f99c7b66]
 
 (1) The burial authority must cause a register to be made of each burial in the cemetery.
 
@@ -254,7 +254,7 @@ and the burial authority must deposit a copy of the record with the Registrar Ge
 
 (5) The register and record maintained under subsections (2) and (4) must at all reasonable times be available for consultation by any person free of charge.
 
-## 8. Byelaws[^key-0f358ddfd809e359effd5d7419477353]
+## 8. Byelaws[^c-0f358ddfd809e359effd5d7419477353]
 
 (1) The Trust may make byelaws in relation to the operation and maintenance of the cemetery.
 
@@ -269,7 +269,7 @@ and the burial authority must deposit a copy of the record with the Registrar Ge
 
 (5) Byelaws made by the Trust under this section do not have effect until they are confirmed by the Secretary of State, and section 236 of the Local Government Act 1972 (procedure for byelaws) applies to their confirmation, as if the Trust were a local authority.
 
-## 9. Repeals and savings[^key-183363b894b5d03241a2a2d5d4589595]
+## 9. Repeals and savings[^c-183363b894b5d03241a2a2d5d4589595]
 
 (1) Subject to subsection (2), the following enactments are repealed so far as they relate to the cemetery—
 
@@ -285,20 +285,20 @@ and the burial authority must deposit a copy of the record with the Registrar Ge
 
 ## Annotations
 
-[^key-b8d05542da92e72e6293b069837fd855]: Commencement: S. 1 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-b8d05542da92e72e6293b069837fd855]: Commencement: S. 1 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-f2c09460d482c67c6afcd6c0c0ffe9b0]: Commencement: S. 2 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-f2c09460d482c67c6afcd6c0c0ffe9b0]: Commencement: S. 2 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-f43f9842a69e3404e12ed87e8bfd44f2]: Commencement: S. 3 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-f43f9842a69e3404e12ed87e8bfd44f2]: Commencement: S. 3 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-4c6c05874ac7ec9cb2a63c9f1fb02b63]: Commencement: S. 4 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-4c6c05874ac7ec9cb2a63c9f1fb02b63]: Commencement: S. 4 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-5c071bb257e612326acac09a4a24da78]: Commencement: S. 5 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-5c071bb257e612326acac09a4a24da78]: Commencement: S. 5 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-0ec12872904173fde15aea758527e228]: Commencement: S. 6 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-0ec12872904173fde15aea758527e228]: Commencement: S. 6 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-19b638355987856d678a0965f99c7b66]: Commencement: S. 7 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-19b638355987856d678a0965f99c7b66]: Commencement: S. 7 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-0f358ddfd809e359effd5d7419477353]: Commencement: S. 8 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-0f358ddfd809e359effd5d7419477353]: Commencement: S. 8 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
 
-[^key-183363b894b5d03241a2a2d5d4589595]: Commencement: S. 9 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)
+[^c-183363b894b5d03241a2a2d5d4589595]: Commencement: S. 9 in force at 21.4.2022, see [s. 1](https://www.legislation.gov.uk/ukla/2022/1/section/1)

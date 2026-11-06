@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Alterations to maintained schools by local authorities[^key-5cdb7f5f7cbec61db945c032c273a63b]
+## 5. Alterations to maintained schools by local authorities[^c-5cdb7f5f7cbec61db945c032c273a63b]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5cdb7f5f7cbec61db945c032c273a63b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/3110/regulation/5) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
+[^c-5cdb7f5f7cbec61db945c032c273a63b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/3110/regulation/5) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
 
 [^f00012]: Footnote: For the meaning of “maintained nursery school” see section 22(9) of the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31).
 

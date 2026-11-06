@@ -43,7 +43,7 @@ summary: ''
 
 #### Quantities in containers
 
-**3.** (1)[^key-758595b66cf95fdb103cf5942b9cdd48] Solid fuel—
+**3.** (1)[^c-758595b66cf95fdb103cf5942b9cdd48] Solid fuel—
 
 - (a) if made up in advance ready for retail sale or wholesale in a securely closed container, shall be sold only by net weight, and
 - (b) if not so made up, shall be sold only in one of the following quantities by net weight, namely—
@@ -51,7 +51,7 @@ summary: ''
   - (ii) 50 kilograms;
   - (iii) any multiple of 50 kilograms.
 
-(2)[^key-cf488b37a8d0255def2881d189a0d2cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cf488b37a8d0255def2881d189a0d2cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c13371321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -300,9 +300,9 @@ that authority or person shall be guilty of an offence.
 
 [^c13371301]: Textual amendment: Words in Sch. 5 para. 2(2)(a) substituted (1.10.1995) by [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), [art. 3(5)(a)](https://www.legislation.gov.uk/uksi/1994/2866/article/3/5/a)
 
-[^key-758595b66cf95fdb103cf5942b9cdd48]: Textual amendment: Sch. 5 para. 3(1) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/3/a)
+[^c-758595b66cf95fdb103cf5942b9cdd48]: Textual amendment: Sch. 5 para. 3(1) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/3/a)
 
-[^key-cf488b37a8d0255def2881d189a0d2cc]: Textual amendment: Sch. 5 para. 3(2) omitted (11.4.2009) by virtue of [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/3/b)
+[^c-cf488b37a8d0255def2881d189a0d2cc]: Textual amendment: Sch. 5 para. 3(2) omitted (11.4.2009) by virtue of [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/3/b)
 
 [^c13371321]: Textual amendment: Sch. 5 para. 3(3) omitted (1.10.1995) by virtue of [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), [art. 3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1994/2866/article/3/5/b/ii)
 

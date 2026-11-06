@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Notification requirements: undertakings[^key-b25928ddde02345f7155752d412b5761][^key-53e80674fb6668389b96cba83f30be7a]
+## 170. Notification requirements: undertakings[^c-b25928ddde02345f7155752d412b5761][^c-53e80674fb6668389b96cba83f30be7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b25928ddde02345f7155752d412b5761]: Commencement: S. 170 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b25928ddde02345f7155752d412b5761]: Commencement: S. 170 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-53e80674fb6668389b96cba83f30be7a]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2024/13/section/170) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-53e80674fb6668389b96cba83f30be7a]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2024/13/section/170) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

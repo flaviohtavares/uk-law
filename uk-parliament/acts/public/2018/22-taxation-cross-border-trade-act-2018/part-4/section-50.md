@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Excise duty amendments connected with withdrawal from EU[^key-26aabea918853b61bbfec17983c51c60]
+## 50. Excise duty amendments connected with withdrawal from EU[^c-26aabea918853b61bbfec17983c51c60]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 9 makes amendments of enactments relating to excise duty in consequence
 
 ## Annotations
 
-[^key-26aabea918853b61bbfec17983c51c60]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2018/22/section/50) in force at 31.12.2020 by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
+[^c-26aabea918853b61bbfec17983c51c60]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2018/22/section/50) in force at 31.12.2020 by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)

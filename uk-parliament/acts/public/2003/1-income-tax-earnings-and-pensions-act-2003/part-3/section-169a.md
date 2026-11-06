@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169A. Van available to more than one member of family or household employed by same employer[^key-63f4b67a98cc6b136239d467c6006812]
+## 169A. Van available to more than one member of family or household employed by same employer[^c-63f4b67a98cc6b136239d467c6006812]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The cash equivalent of the benefit of the van and of any fuel provided for the van by reason of E’s employment is not to be treated as E’s earnings for that year if—
 
 - (a) M is chargeable to tax in respect of the van in that year by virtue of section 154, or
-- (b)[^key-5c1b3ae4dc6af674e3b9bbeb395bee90] M's employment is lower-paid employment as a minister of religion.
+- (b)[^c-5c1b3ae4dc6af674e3b9bbeb395bee90] M's employment is lower-paid employment as a minister of religion.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63f4b67a98cc6b136239d467c6006812]: Textual amendment: S. 169A inserted (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/6)
+[^c-63f4b67a98cc6b136239d467c6006812]: Textual amendment: S. 169A inserted (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/6)
 
-[^key-5c1b3ae4dc6af674e3b9bbeb395bee90]: Textual amendment: S. 169A(2)(b) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/10/2)
+[^c-5c1b3ae4dc6af674e3b9bbeb395bee90]: Textual amendment: S. 169A(2)(b) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/10/2)

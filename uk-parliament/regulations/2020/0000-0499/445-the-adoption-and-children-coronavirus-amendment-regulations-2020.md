@@ -51,13 +51,13 @@ In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-c66ec0ddba74bc581e67d51d2cb72144]
+### 1. Citation and commencement[^c-c66ec0ddba74bc581e67d51d2cb72144]
 
 (1) These Regulations may be cited as the Adoption and Children (Coronavirus) (Amendment) Regulations 2020.
 
 (2) These Regulations come into force on 24th April 2020.
 
-### 2. Interpretation[^key-01d382af4740e373aafcf39bcd8c800b]
+### 2. Interpretation[^c-01d382af4740e373aafcf39bcd8c800b]
 
 In these Regulations—
 
@@ -67,7 +67,7 @@ In these Regulations—
 
 ## PART 2 — Residential Family Centres
 
-### 3. Amendment of the Residential Family Centres Regulations 2002[^key-c128a13eac0c4336da48ab95587db596]
+### 3. Amendment of the Residential Family Centres Regulations 2002[^c-c128a13eac0c4336da48ab95587db596]
 
 (1) The Residential Family Centres Regulations 2002 [^c24054091] are amended as follows.
 
@@ -87,7 +87,7 @@ In these Regulations—
 
 ## PART 3 — Adoption Agencies
 
-### 4. Amendment of the Adoption Agencies Regulations 2005[^key-fcad8f4a21e95aa2062b2a53787a42b6]
+### 4. Amendment of the Adoption Agencies Regulations 2005[^c-fcad8f4a21e95aa2062b2a53787a42b6]
 
 (1) The Adoption Agencies Regulations 2005 [^c24054101] are amended as follows.
 
@@ -176,7 +176,7 @@ In these Regulations—
 
 ## PART 4 — Private Fostering
 
-### 5. Amendment of the Children (Private Arrangements for Fostering) Regulations 2005[^key-55a2b48ff89ed1a0ecc83599e52f00c7]
+### 5. Amendment of the Children (Private Arrangements for Fostering) Regulations 2005[^c-55a2b48ff89ed1a0ecc83599e52f00c7]
 
 (1) The Children (Private Arrangements for Fostering) Regulations 2005 [^c24054111] are amended as follows.
 
@@ -191,7 +191,7 @@ In these Regulations—
 
 ## PART 5 — Children Act 1989 Representations Procedure
 
-### 6. Amendment of the Children Act 1989 Representations Procedure (England) Regulations 2006[^key-699dfb98707c648c0cb14de90f1be4b8]
+### 6. Amendment of the Children Act 1989 Representations Procedure (England) Regulations 2006[^c-699dfb98707c648c0cb14de90f1be4b8]
 
 (1) The Children Act 1989 Representations Procedure (England) Regulations 2006 [^c24054121] are amended as follows.
 
@@ -206,13 +206,13 @@ In these Regulations—
 
 ## PART 6 — Inspection of Local Authorities
 
-### 7. Amendment of the Education and Inspections Act 2006 (Inspection of Local Authorities) Regulations 2007[^key-81cd0453820e951e9122b34edc825b21]
+### 7. Amendment of the Education and Inspections Act 2006 (Inspection of Local Authorities) Regulations 2007[^c-81cd0453820e951e9122b34edc825b21]
 
 In regulation 3 (publication of written statement of proposed action) of the Education and Inspections Act 2006 (Inspection of Local Authorities) Regulations 2007 [^c24054131], after “of receiving that report,” insert “ , or as soon as is reasonably practicable ”.
 
 ## PART 7 — Care Planning
 
-### 8. Amendment of the Care Planning, Placement and Case Review (England) Regulations 2010[^key-1f21ada5718c8d58c8938f2f0d786464]
+### 8. Amendment of the Care Planning, Placement and Case Review (England) Regulations 2010[^c-1f21ada5718c8d58c8938f2f0d786464]
 
 (1) The 2010 Regulations are amended as follows.
 
@@ -314,7 +314,7 @@ In regulation 3 (publication of written statement of proposed action) of the Edu
 
 ## PART 8 — Fostering Services
 
-### 9. Amendment of the Fostering Services (England) Regulations 2011[^key-46bef3ce458a9ea876351c4744e7ef2f]
+### 9. Amendment of the Fostering Services (England) Regulations 2011[^c-46bef3ce458a9ea876351c4744e7ef2f]
 
 (1) The 2011 Regulations are amended as follows.
 
@@ -389,13 +389,13 @@ In regulation 3 (publication of written statement of proposed action) of the Edu
 
 ## PART 9 — Joint Area Reviews
 
-### 10. Amendment of the Children Act 2004 (Joint Area Reviews) Regulations 2015[^key-0a7207a56b46061b307222130cc08fd9]
+### 10. Amendment of the Children Act 2004 (Joint Area Reviews) Regulations 2015[^c-0a7207a56b46061b307222130cc08fd9]
 
 In regulation 4(2) of the Children Act 2004 (Joint Area Reviews) Regulations 2015 [^c24054141] (written statement of proposed action), after “working days” insert “ , or as soon as is reasonably practicable, ”.
 
 ## PART 10 — Children's Homes
 
-### 11. Amendment of the Children's Homes (England) Regulations 2015[^key-5f50fe5651f943d0fe54e96ae0979ff6]
+### 11. Amendment of the Children's Homes (England) Regulations 2015[^c-5f50fe5651f943d0fe54e96ae0979ff6]
 
 (1) The Children's Homes Regulations 2015 [^c24054151] are amended as follows.
 
@@ -411,64 +411,64 @@ In regulation 4(2) of the Children Act 2004 (Joint Area Reviews) Regulations 201
 
 ## PART 11 — Inspections
 
-### 12. Amendment of Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc) Regulations 2015[^key-d6b7fee86dc2d4ae6a8c5621334c21a5]
+### 12. Amendment of Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc) Regulations 2015[^c-d6b7fee86dc2d4ae6a8c5621334c21a5]
 
 Omit regulation 27 (frequency of inspections) of Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc) Regulations 2015 [^c24054171].
 
 ## PART 12 — Review and Expiry
 
-### 13. Review[^key-678e950b799f8339c4629d4977498bb6]
+### 13. Review[^c-678e950b799f8339c4629d4977498bb6]
 
 The Secretary of State must review the effectiveness of the amendments made by these Regulations during the period for which they have effect.
 
-### 14. Expiry[^key-6a2a301c08fa589b042d4e936c1a2203]
+### 14. Expiry[^c-6a2a301c08fa589b042d4e936c1a2203]
 
-(1) Subject to Part 13 and paragraph (1A)[^key-b7f2f8ed6d7049c2c146c1679e53db39], the amendments made by these Regulations cease to have effect on the 25th September 2020.
+(1) Subject to Part 13 and paragraph (1A)[^c-b7f2f8ed6d7049c2c146c1679e53db39], the amendments made by these Regulations cease to have effect on the 25th September 2020.
 
-(1A)[^key-5cd137aebc9bc7f4ab9c1262f0d8b811] The amendment made by regulation 12 ceases to have effect at the end of 30th September 2021[^key-a4944d09d59252686ec684e94ecf78d7].
+(1A)[^c-5cd137aebc9bc7f4ab9c1262f0d8b811] The amendment made by regulation 12 ceases to have effect at the end of 30th September 2021[^c-a4944d09d59252686ec684e94ecf78d7].
 
 (2) This regulation does not affect the validity of anything done pursuant to the amendments made by these Regulations before they cease to have effect.
 
 ## PART 13 — Savings Provisions
 
-### 15. Suitability assessments[^key-5beed67e089603be5fdb4b121927e496]
+### 15. Suitability assessments[^c-5beed67e089603be5fdb4b121927e496]
 
 In a case where, on the 25th September 2020, —
 
 - (a) an adoption agency is in the process of assessing the suitability of a prospective adopter in accordance with Part 4 of the Adoption Agencies Regulations 2005, or
 - (b) a fostering service provider is in the process of assessing the suitability of a person to become a foster parent under regulation 26 of the 2011 Regulations, that assessment must continue as if the amendments made by these Regulations remain in force.
 
-### 16. Private fostering: notifications[^key-2a9c4bce18de1520c887840613ff1a7f]
+### 16. Private fostering: notifications[^c-2a9c4bce18de1520c887840613ff1a7f]
 
 Where, during the relevant period, a local authority has received notification under regulation 3, 5 or 6 of the Children (Private Arrangements for Fostering) Regulations 2005 Regulations, the local authority may proceed as if the amendments made by these Regulations remain in force.
 
-### 17. Children Act 1989 representations[^key-f70c69dbaf31ac0965307b14c5cdcca8]
+### 17. Children Act 1989 representations[^c-f70c69dbaf31ac0965307b14c5cdcca8]
 
 Where, during the relevant period, representations have been considered in accordance with regulation 17 of the Children Act 1989 (Representations Procedure) Regulations 2006, any further consideration of those representations by a panel may proceed as if the amendments made by these Regulations remain in force.
 
-### 18. Placement[^key-2b7508b36422557f7243dd04838fa4b3]
+### 18. Placement[^c-2b7508b36422557f7243dd04838fa4b3]
 
 Where, during the relevant period, a child has been placed in accordance with regulation 19 of the 2010 Regulations, the responsible authority may proceed as if the amendments made by these Regulations remain in force.
 
-### 19.[^key-da47c74bae60890202b0825b3e60066f]
+### 19.[^c-da47c74bae60890202b0825b3e60066f]
 
 Where, during the relevant period, the responsible authority placed a child under regulation 23 of the 2010 Regulations, the placement has effect as if the amendments made by these Regulations remain in force.
 
-### 20. Foster parents: temporary approval[^key-c13fafbf07aa4d47cd5d105f35345d74]
+### 20. Foster parents: temporary approval[^c-c13fafbf07aa4d47cd5d105f35345d74]
 
 In a case where, during the relevant period, the responsible authority —
 
 - (a) started to approve a person as a local authority foster parent, or
 - (b) approved a person as a local authority foster parent, in accordance with regulation 24 of the 2010 Regulations, the responsible authority must proceed as if the amendments made by these Regulations remain in force.
 
-### 21. Short breaks[^key-97ea9eab0e65361254930d73bf8a2072]
+### 21. Short breaks[^c-97ea9eab0e65361254930d73bf8a2072]
 
 In a case where, during the relevant period, a child has been placed in short breaks in accordance with —
 
 - (a) regulation 48 of the 2010 Regulations, or
 - (b) regulation 42 of the 2011 Regulations, those regulations continue apply to the short breaks as if the amendments made by these Regulations remain in force.
 
-### 22. Children's homes: deprivation of liberty[^key-51495d223f844684802d1153b34705bf]
+### 22. Children's homes: deprivation of liberty[^c-51495d223f844684802d1153b34705bf]
 
 Where, on the 25th September 2020, a child is being deprived of their liberty in a children's home in accordance with regulation 20(3) of the Children's Homes (England) Regulations 2015, that regulation continues to have effect as if the amendment made by these Regulations remains in force.
 
@@ -518,74 +518,74 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^c24054061]: Marginal citation: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). There are no amendments relevant to these Regulations.
 
-[^key-c66ec0ddba74bc581e67d51d2cb72144]: Commencement: Reg. 1 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-c66ec0ddba74bc581e67d51d2cb72144]: Commencement: Reg. 1 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-01d382af4740e373aafcf39bcd8c800b]: Commencement: Reg. 2 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-01d382af4740e373aafcf39bcd8c800b]: Commencement: Reg. 2 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054071]: Marginal citation: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959). Amended by [S.I. 2013/706](https://www.legislation.gov.uk/uksi/2013/706), [S.I. 2011/581](https://www.legislation.gov.uk/uksi/2011/581), [S.I. 2018/48](https://www.legislation.gov.uk/uksi/2018/48), [S.I. 2015/495](https://www.legislation.gov.uk/uksi/2015/495), [S.I. 2014/852](https://www.legislation.gov.uk/uksi/2014/852), [S.I. 2014/2013](https://www.legislation.gov.uk/uksi/2014/2013), [S.I. 2014/1917](https://www.legislation.gov.uk/uksi/2014/1917) and [S.I. 2011/581](https://www.legislation.gov.uk/uksi/2011/581). Regulation 22A was inserted by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
 
 [^c24054081]: Marginal citation: [S.I. 2011/581](https://www.legislation.gov.uk/uksi/2011/581). Amended by [S.I. 2013/984](https://www.legislation.gov.uk/uksi/2013/984).
 
-[^key-c128a13eac0c4336da48ab95587db596]: Commencement: Reg. 3 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-c128a13eac0c4336da48ab95587db596]: Commencement: Reg. 3 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054091]: Marginal citation: [S.I. 2002/3213](https://www.legislation.gov.uk/uksi/2002/3213). Amended by [S.I. 2013/499](https://www.legislation.gov.uk/uksi/2013/499). There are other amendments not relevant to these Regulations.
 
-[^key-fcad8f4a21e95aa2062b2a53787a42b6]: Commencement: Reg. 4 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-fcad8f4a21e95aa2062b2a53787a42b6]: Commencement: Reg. 4 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054101]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389). Amended by [S.I. 2011/589](https://www.legislation.gov.uk/uksi/2011/589), [S.I. 2012/1410](https://www.legislation.gov.uk/uksi/2012/1410), [S.I. 2013/985](https://www.legislation.gov.uk/uksi/2013/985) and [S.I. 2005/3482](https://www.legislation.gov.uk/uksi/2005/3482).
 
-[^key-55a2b48ff89ed1a0ecc83599e52f00c7]: Commencement: Reg. 5 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-55a2b48ff89ed1a0ecc83599e52f00c7]: Commencement: Reg. 5 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054111]: Marginal citation: [S.I. 2005/1533](https://www.legislation.gov.uk/uksi/2005/1533). There are no amendments relevant to these Regulations.
 
-[^key-699dfb98707c648c0cb14de90f1be4b8]: Commencement: Reg. 6 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-699dfb98707c648c0cb14de90f1be4b8]: Commencement: Reg. 6 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054121]: Marginal citation: [S.I. 2006/1738](https://www.legislation.gov.uk/uksi/2006/1738). There are no amendments relevant to these Regulations.
 
-[^key-81cd0453820e951e9122b34edc825b21]: Commencement: Reg. 7 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-81cd0453820e951e9122b34edc825b21]: Commencement: Reg. 7 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054131]: Marginal citation: [S.I. 2007/462](https://www.legislation.gov.uk/uksi/2007/462). There are no amendments relevant to these Regulations.
 
-[^key-1f21ada5718c8d58c8938f2f0d786464]: Commencement: Reg. 8 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-1f21ada5718c8d58c8938f2f0d786464]: Commencement: Reg. 8 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-46bef3ce458a9ea876351c4744e7ef2f]: Commencement: Reg. 9 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-46bef3ce458a9ea876351c4744e7ef2f]: Commencement: Reg. 9 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-0a7207a56b46061b307222130cc08fd9]: Commencement: Reg. 10 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-0a7207a56b46061b307222130cc08fd9]: Commencement: Reg. 10 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054141]: Marginal citation: [S.I. 2015/1792](https://www.legislation.gov.uk/uksi/2015/1792).
 
-[^key-5f50fe5651f943d0fe54e96ae0979ff6]: Commencement: Reg. 11 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-5f50fe5651f943d0fe54e96ae0979ff6]: Commencement: Reg. 11 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054151]: Marginal citation: [S.I. 2015/541](https://www.legislation.gov.uk/uksi/2015/541). Amended by [S.I. 2016/211](https://www.legislation.gov.uk/uksi/2016/211).
 
 [^c24054161]: Marginal citation: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-d6b7fee86dc2d4ae6a8c5621334c21a5]: Commencement: Reg. 12 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-d6b7fee86dc2d4ae6a8c5621334c21a5]: Commencement: Reg. 12 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
 [^c24054171]: Marginal citation: [S.I. 2015/551](https://www.legislation.gov.uk/uksi/2015/551). Amended by [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971), [S.I. 2016/322](https://www.legislation.gov.uk/uksi/2016/322), [S.I. 2017/245](https://www.legislation.gov.uk/uksi/2017/245), [S.I. 2018/246](https://www.legislation.gov.uk/uksi/2018/246) and [S.I. 2019/835](https://www.legislation.gov.uk/uksi/2019/835).
 
-[^key-678e950b799f8339c4629d4977498bb6]: Commencement: Reg. 13 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-678e950b799f8339c4629d4977498bb6]: Commencement: Reg. 13 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-6a2a301c08fa589b042d4e936c1a2203]: Commencement: Reg. 14 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-6a2a301c08fa589b042d4e936c1a2203]: Commencement: Reg. 14 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-b7f2f8ed6d7049c2c146c1679e53db39]: Textual amendment: Words in reg. 14(1) inserted (temp.) (24.9.2020) by [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/909/regulation/7/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
+[^c-b7f2f8ed6d7049c2c146c1679e53db39]: Textual amendment: Words in reg. 14(1) inserted (temp.) (24.9.2020) by [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/909/regulation/7/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
 
-[^key-5cd137aebc9bc7f4ab9c1262f0d8b811]: Textual amendment: Reg. 14(1A) inserted (temp.) (24.9.2020) by [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/909/regulation/7/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
+[^c-5cd137aebc9bc7f4ab9c1262f0d8b811]: Textual amendment: Reg. 14(1A) inserted (temp.) (24.9.2020) by [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/909/regulation/7/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
 
-[^key-a4944d09d59252686ec684e94ecf78d7]: Textual amendment: Words in reg. 14(1A) substituted (30.3.2021) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/261)](https://www.legislation.gov.uk/uksi/2021/261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/261/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/261/regulation/3)
+[^c-a4944d09d59252686ec684e94ecf78d7]: Textual amendment: Words in reg. 14(1A) substituted (30.3.2021) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/261)](https://www.legislation.gov.uk/uksi/2021/261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/261/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/261/regulation/3)
 
-[^key-5beed67e089603be5fdb4b121927e496]: Commencement: Reg. 15 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-5beed67e089603be5fdb4b121927e496]: Commencement: Reg. 15 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-2a9c4bce18de1520c887840613ff1a7f]: Commencement: Reg. 16 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-2a9c4bce18de1520c887840613ff1a7f]: Commencement: Reg. 16 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-f70c69dbaf31ac0965307b14c5cdcca8]: Commencement: Reg. 17 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-f70c69dbaf31ac0965307b14c5cdcca8]: Commencement: Reg. 17 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-2b7508b36422557f7243dd04838fa4b3]: Commencement: Reg. 18 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-2b7508b36422557f7243dd04838fa4b3]: Commencement: Reg. 18 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-da47c74bae60890202b0825b3e60066f]: Commencement: Reg. 19 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-da47c74bae60890202b0825b3e60066f]: Commencement: Reg. 19 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-c13fafbf07aa4d47cd5d105f35345d74]: Commencement: Reg. 20 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-c13fafbf07aa4d47cd5d105f35345d74]: Commencement: Reg. 20 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-97ea9eab0e65361254930d73bf8a2072]: Commencement: Reg. 21 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-97ea9eab0e65361254930d73bf8a2072]: Commencement: Reg. 21 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
 
-[^key-51495d223f844684802d1153b34705bf]: Commencement: Reg. 22 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)
+[^c-51495d223f844684802d1153b34705bf]: Commencement: Reg. 22 in force at 24.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2)

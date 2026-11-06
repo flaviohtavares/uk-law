@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Distribution to relevant authorities and the scheme administrator[^key-8997cf74efea6ddf99b0cb08a8b21500]
+## 76. Distribution to relevant authorities and the scheme administrator[^c-8997cf74efea6ddf99b0cb08a8b21500]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8997cf74efea6ddf99b0cb08a8b21500]: Commencement: Reg. 76 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-8997cf74efea6ddf99b0cb08a8b21500]: Commencement: Reg. 76 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

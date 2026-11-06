@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Report to Scottish Ministers following periodic assessment[^key-dcc822340019859febafdab6f47a4092][^key-c7b6adba789497c515b7909ac281bd6a]
+## 2. Report to Scottish Ministers following periodic assessment[^c-dcc822340019859febafdab6f47a4092][^c-c7b6adba789497c515b7909ac281bd6a]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcc822340019859febafdab6f47a4092]: Commencement: S. 2 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-dcc822340019859febafdab6f47a4092]: Commencement: S. 2 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-c7b6adba789497c515b7909ac281bd6a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/13/section/2) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-c7b6adba789497c515b7909ac281bd6a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/13/section/2) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

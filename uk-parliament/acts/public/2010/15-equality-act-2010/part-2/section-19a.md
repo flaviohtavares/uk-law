@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Indirect discrimination: same disadvantage[^key-72ae5761f5a350a873860c6653a3466f]
+## 19A. Indirect discrimination: same disadvantage[^c-72ae5761f5a350a873860c6653a3466f]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72ae5761f5a350a873860c6653a3466f]: Textual amendment: [S. 19A](https://www.legislation.gov.uk/ukpga/2010/15/section/19A) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/3/2)
+[^c-72ae5761f5a350a873860c6653a3466f]: Textual amendment: [S. 19A](https://www.legislation.gov.uk/ukpga/2010/15/section/19A) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/3/2)

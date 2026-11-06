@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Power to modify section 21 of the Taxes Management Act 1970: definition of recognised investment exchange[^key-e3721e5d38405406a795eceb60d61aef]
+## 12. Power to modify section 21 of the Taxes Management Act 1970: definition of recognised investment exchange[^c-e3721e5d38405406a795eceb60d61aef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In paragraph 10(2) of Schedule 18 (definition of recognised investment exchange)
 
 ## Annotations
 
-[^key-e3721e5d38405406a795eceb60d61aef]: Commencement: Art. 12 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-e3721e5d38405406a795eceb60d61aef]: Commencement: Art. 12 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

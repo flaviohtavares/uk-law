@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Retention of property seized by British sea-fishery officers[^key-f8e05357041af83c3eb1fb580d27a88a]
+## 43. Retention of property seized by British sea-fishery officers[^c-f8e05357041af83c3eb1fb580d27a88a]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8e05357041af83c3eb1fb580d27a88a]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2013/7/section/43) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-f8e05357041af83c3eb1fb580d27a88a]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2013/7/section/43) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

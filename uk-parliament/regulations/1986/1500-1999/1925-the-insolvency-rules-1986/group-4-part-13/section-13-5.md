@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.5. Notice to joint liquidators, joint trustees, etc[^key-f968e032b2ec432ca88d224b1ad06c32]
+## 13.5. Notice to joint liquidators, joint trustees, etc[^c-f968e032b2ec432ca88d224b1ad06c32]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where two or more persons are acting jointly as the responsible insolvency pract
 
 ## Annotations
 
-[^key-f968e032b2ec432ca88d224b1ad06c32]: Commencement: Rule 13.5 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f968e032b2ec432ca88d224b1ad06c32]: Commencement: Rule 13.5 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

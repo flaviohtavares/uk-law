@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. “Members of the public”: prescribed meaning under section 2(7) for the purpose of section 10(a) (grant of a spaceport licence)[^key-81d5a35659669513131790a2736f7c2b]
+## 39. “Members of the public”: prescribed meaning under section 2(7) for the purpose of section 10(a) (grant of a spaceport licence)[^c-81d5a35659669513131790a2736f7c2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81d5a35659669513131790a2736f7c2b]: Commencement: Reg. 39 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-81d5a35659669513131790a2736f7c2b]: Commencement: Reg. 39 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

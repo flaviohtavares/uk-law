@@ -88,7 +88,7 @@ Section 125
 
 (11) Any nomination, or revocation of a nomination, must be in writing.
 
-(12) Paragraph 3 makes provision for circumstances in which the ultimate parent is the filing member[^key-43eebb7b254aa907a433fcb23ab21cc4] but is not a company.
+(12) Paragraph 3 makes provision for circumstances in which the ultimate parent is the filing member[^c-43eebb7b254aa907a433fcb23ab21cc4] but is not a company.
 
 (13) Paragraph 4 makes specific provision for a multinational group that is part of a multi-parent group.
 
@@ -101,13 +101,13 @@ Section 125
 
 (2) The obligations of the filing member under this Schedule may be met by—
 
-- (a) in the case of a partnership other than a limited partnership [^key-b7a546117cd36f7108e1cc5079b25184]..., any partner;
+- (a) in the case of a partnership other than a limited partnership [^c-b7a546117cd36f7108e1cc5079b25184]..., any partner;
 - (b) in the case of a limited partnership, any general partner;
-- (c)[^key-7341f2a297eaff71c75fe12bf04285c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7341f2a297eaff71c75fe12bf04285c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in the case of a trust, any trustee;
 - (e) in the case of any other arrangement, any person responsible for preparing the separate financial accounts.
 
-(3)[^key-5116472f59caf3d66101cf37b4910fc2] In this Schedule—
+(3)[^c-5116472f59caf3d66101cf37b4910fc2] In this Schedule—
 
 - (a) “**limited partnership**” includes an entity established under the law of a territory outside the United Kingdom that is equivalent to a limited partnership, and
 - (b) “**general partner**” includes a partner of such an entity that corresponds to a general partner.
@@ -153,7 +153,7 @@ Section 125
 
 **6.** (1) The filing member of a multinational group must register with HMRC if the group becomes a qualifying multinational group.
 
-(1A)[^key-b2f57edfadcb1b6c0261a31548021841] The reference to a multinational group in sub-paragraph (1) does not include a group exclusively comprised of excluded entities (who are only regarded as members of the group for certain purposes in accordance with section 127(2)).
+(1A)[^c-b2f57edfadcb1b6c0261a31548021841] The reference to a multinational group in sub-paragraph (1) does not include a group exclusively comprised of excluded entities (who are only regarded as members of the group for certain purposes in accordance with section 127(2)).
 
 (2) For the purposes of sub-paragraph (1), a multinational group becomes a qualifying multinational group on the first day of the first accounting period it is a qualifying multinational group (the “trigger day”).
 
@@ -190,7 +190,7 @@ Section 125
 
 (5) But a notice of de-registration does not affect the validity of a registration for the purposes of any obligation arising before the effective date.
 
-(6) An officer of Revenue[^key-8a5b9753fa7fc2c58b0e2206c2257e5f] and Customs may issue a notice of de-registration only if—
+(6) An officer of Revenue[^c-8a5b9753fa7fc2c58b0e2206c2257e5f] and Customs may issue a notice of de-registration only if—
 
 - (a) the filing member has applied for such a notice, and
 - (b) it appears to the officer that the group will not be a qualifying multinational group for any accounting period beginning with the period in which the effective date falls.
@@ -240,7 +240,7 @@ Section 125
 
 (11) Where this sub-paragraph applies, the information return or overseas return notification must be submitted by the end of the period of 18 months beginning with the day after the end of the accounting period.
 
-(12)[^key-7e3a98ee2c703e0d699d532f7ef94afa] Where (ignoring this sub-paragraph) the date by which an information return or overseas return notification must be submitted falls before 30 June 2026, the date by which that return or notification must be submitted is 30 June 2026 instead.
+(12)[^c-7e3a98ee2c703e0d699d532f7ef94afa] Where (ignoring this sub-paragraph) the date by which an information return or overseas return notification must be submitted falls before 30 June 2026, the date by which that return or notification must be submitted is 30 June 2026 instead.
 
 **11.** (1) The filing member may amend a return submitted under paragraph 10 by notice to HMRC.
 
@@ -289,7 +289,7 @@ Section 125
 
 (10) Where this sub-paragraph applies, the self-assessment return must be submitted by the end of the period of 18 months beginning with the day after the end of the accounting period.
 
-(11)[^key-a9483d2f7765218bacb06e0eeec30ba3] Where (ignoring this sub-paragraph) the date by which a self assessment return or below-threshold notification must be submitted falls before 30 June 2026, the date by which that return or notification must be submitted is instead 30 June 2026 instead.
+(11)[^c-a9483d2f7765218bacb06e0eeec30ba3] Where (ignoring this sub-paragraph) the date by which a self assessment return or below-threshold notification must be submitted falls before 30 June 2026, the date by which that return or notification must be submitted is instead 30 June 2026 instead.
 
 **14.** (1) The filing member may amend a return submitted under paragraph 13 by notice to HMRC.
 
@@ -581,7 +581,7 @@ subject to any conditions or exceptions specified in a notice published by HMRC.
 
 (3) Where this sub-paragraph applies, multinational top-up tax due must be paid by the end of the period of 18 months beginning with the day after the end of the accounting period.
 
-(3A)[^key-12f90f930054167b83bae444b0be1ae6] Where (ignoring this sub-paragraph) the date on which an amount of multinational top-up tax must be paid falls before 30 June 2026, the date on which it must be paid is 30 June 2026 instead.
+(3A)[^c-12f90f930054167b83bae444b0be1ae6] Where (ignoring this sub-paragraph) the date on which an amount of multinational top-up tax must be paid falls before 30 June 2026, the date on which it must be paid is 30 June 2026 instead.
 
 (4) A person’s liability to pay multinational top-up tax may be discharged by another member of the multinational group to which the liability relates (but see paragraph 37).
 
@@ -591,7 +591,7 @@ subject to any conditions or exceptions specified in a notice published by HMRC.
 
 (2) The rate of interest is to be as provided in regulations under section 178 of FA 1989.
 
-#### 33A.[^key-fdd7ac91d9d3f8c77f3ad58c761a0b76]
+#### 33A.[^c-fdd7ac91d9d3f8c77f3ad58c761a0b76]
 
 (1) Where a person has paid an amount that has been paid by way of multinational top-up tax but the amount is not due, the amount incurs interest at the rate provided for in regulations made under section 178 of FA 1989 from the later of—
 
@@ -604,9 +604,9 @@ subject to any conditions or exceptions specified in a notice published by HMRC.
 
 (1) An officer of Revenue and Customs may issue a group payment notice if an amount payable by a member of a multinational group of multinational top-up tax (including any interest on that amount) is not paid by the end of the period of three months beginning with the relevant date.
 
-(2) A group payment notice may be issued to any person who is a member of the group or who was a member of the group at any time in the accounting period to which the amount payable relates[^key-f7649a75c94cf72aede8ff30cd091d26] (wherever in the world they are located), subject to paragraph 35 where the group contains ring-fenced entities.
+(2) A group payment notice may be issued to any person who is a member of the group or who was a member of the group at any time in the accounting period to which the amount payable relates[^c-f7649a75c94cf72aede8ff30cd091d26] (wherever in the world they are located), subject to paragraph 35 where the group contains ring-fenced entities.
 
-(2A)[^key-76a86bbb7dc6db6da719e6945fe5c8ba] The references to a member of a group in sub-paragraph (2) do not include a member of a group that is—
+(2A)[^c-76a86bbb7dc6db6da719e6945fe5c8ba] The references to a member of a group in sub-paragraph (2) do not include a member of a group that is—
 
 - (a) a securitisation company (within the meaning given by section 267(4)),
 - (b) a covered bond vehicle (within the meaning given by section 272A(5)), or
@@ -685,18 +685,18 @@ subject to any conditions or exceptions specified in a notice published by HMRC.
 (4) The payment—
 
 - (a) is not to be taken into account in calculating the profits or losses of either the payer or payee for corporation tax or income tax purposes of either the payer or the payee, and
-- (b) is not to be regarded as a distribution for income tax or[^key-4125d43d986485aa684ac00f1ab4dd48] corporation tax purposes.
+- (b) is not to be regarded as a distribution for income tax or[^c-4125d43d986485aa684ac00f1ab4dd48] corporation tax purposes.
 
 (5) The amount paid by the payer is to be taken into account in calculating—
 
 - (a) the amount unpaid by the payee for tax purposes, and
 - (b) the amount due by virtue of a group payment notice relating to the amount unpaid.
 
-(6) Similarly, any payment by the payee[^key-829a34b5fc5725904f6d215905e6d4ed] of any of the amount unpaid is to be taken into account in calculating the amount due by virtue of a group payment notice (or by virtue of any other group payment notice relating to the amount unpaid).
+(6) Similarly, any payment by the payee[^c-829a34b5fc5725904f6d215905e6d4ed] of any of the amount unpaid is to be taken into account in calculating the amount due by virtue of a group payment notice (or by virtue of any other group payment notice relating to the amount unpaid).
 
 (7) In this paragraph, “**for tax purposes**” means for the purposes of income tax, corporation tax, multinational top-up tax or domestic top-up tax.
 
-#### 37A. Partnership payment notices[^key-b2bf0174976b7604074db5c122540fbc]
+#### 37A. Partnership payment notices[^c-b2bf0174976b7604074db5c122540fbc]
 
 (1) An officer of Revenue and Customs may issue a partnership payment notice if an amount of multinational top-up tax payable by a member of a multinational group that is a partnership (including any interest on that amount) is not paid by the end of the period of three months beginning with the relevant date (see paragraph 34(7) to (9)).
 
@@ -749,14 +749,14 @@ subject to any conditions or exceptions specified in a notice published by HMRC.
 
 (1) The Treasury may by regulations make further provision about the payment of multinational top-up tax in circumstances where—
 
-- (a) a member of a group makes a payment on behalf of another member of the group, [^key-4f6e2bfaa9387e86445e4f627dc95cec]...
-- (aa)[^key-3cddc5b56a7e24805e5a1cf1967bf35f] a partner of a partnership makes a payment on behalf of the partnership or another partner, or
+- (a) a member of a group makes a payment on behalf of another member of the group, [^c-4f6e2bfaa9387e86445e4f627dc95cec]...
+- (aa)[^c-3cddc5b56a7e24805e5a1cf1967bf35f] a partner of a partnership makes a payment on behalf of the partnership or another partner, or
 - (b) a member of a group is also liable to pay domestic top-up tax.
 
 (2) The regulations may in particular make provision for—
 
 - (a) deeming a payment made by one member of a group to have been made by another;
-- (aa)[^key-56f728fa61d84553af9fb96a741bff83] deeming a payment made by a partner of a partnership to have been made by the partnership or another partner;
+- (aa)[^c-56f728fa61d84553af9fb96a741bff83] deeming a payment made by a partner of a partnership to have been made by the partnership or another partner;
 - (b) deeming a payment made in respect of multinational top-up tax to have been made in respect of domestic top-up tax.
 
 ### Part 11 — Penalties
@@ -920,11 +920,11 @@ Paragraphs 48 and 49 apply in relation to a penalty payable under paragraph 42, 
 - (a) staying a penalty, and
 - (b) agreeing a compromise in relation to proceedings in respect of a penalty.
 
-#### 50. Multiple tax-geared penalties in respect of same accounting period[^key-6ec23b7b243bd695804be8246fd5a766]
+#### 50. Multiple tax-geared penalties in respect of same accounting period[^c-6ec23b7b243bd695804be8246fd5a766]
 
-(1) This paragraph applies where a person incurs more than one penalty in respect of multinational top-up tax whose amount falls to be determined by reference to the tax payable in relation to[^key-5bb597d33393c6bfbbf4701b8b58af3b] the same accounting period.
+(1) This paragraph applies where a person incurs more than one penalty in respect of multinational top-up tax whose amount falls to be determined by reference to the tax payable in relation to[^c-5bb597d33393c6bfbbf4701b8b58af3b] the same accounting period.
 
-(2) The amount of each penalty after the first is to be reduced so that the total amount of all such penalties , so far as determined by reference to any particular part of the tax,[^key-69b47f45efd3029501dcdcf69dd55a80] in the period does not exceed the greatest amount incurred for any such penalty (so far as so determined)[^key-483920ddba3e04f0e642e6ca78b7eda4].
+(2) The amount of each penalty after the first is to be reduced so that the total amount of all such penalties , so far as determined by reference to any particular part of the tax,[^c-69b47f45efd3029501dcdcf69dd55a80] in the period does not exceed the greatest amount incurred for any such penalty (so far as so determined)[^c-483920ddba3e04f0e642e6ca78b7eda4].
 
 ### Part 12 — Appeals and claims
 
@@ -946,14 +946,14 @@ Paragraphs 48 and 49 apply in relation to a penalty payable under paragraph 42, 
 - (b) paragraph 52 applies, or
 - (c) the claim is amended following an enquiry under paragraph 53.
 
-(5) The Commissioners are not [^key-e30727db2534f4e0858cf56629d6dc18]... liable to repay any amount paid by way of multinational top-up tax by reason of the fact it was not tax due otherwise than—[^key-0dfefb4bfc062f87c09d79a2f505e31a]
+(5) The Commissioners are not [^c-e30727db2534f4e0858cf56629d6dc18]... liable to repay any amount paid by way of multinational top-up tax by reason of the fact it was not tax due otherwise than—[^c-0dfefb4bfc062f87c09d79a2f505e31a]
 
 - (a) pursuant to a claim under this paragraph, or
 - (b) in accordance with another provision of this Schedule.
 
-(6)[^key-039109e6ca86ff0a6017442fc1af70cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-039109e6ca86ff0a6017442fc1af70cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-2c6c16ded3d81086689f831956021bf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2c6c16ded3d81086689f831956021bf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Paragraph 54 makes further provision in relation to amounts repaid.
 
@@ -1353,58 +1353,58 @@ sub-paragraphs (1)(a) and (c) do not apply in relation to the appeal until the e
 
 ## Annotations
 
-[^key-43eebb7b254aa907a433fcb23ab21cc4]: Textual amendment: Word in Sch. 14 para. 2(12) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 70(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/70/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-43eebb7b254aa907a433fcb23ab21cc4]: Textual amendment: Word in Sch. 14 para. 2(12) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 70(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/70/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-b7a546117cd36f7108e1cc5079b25184]: Textual amendment: Words in [Sch. 14 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/2/a) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/a/i)
+[^c-b7a546117cd36f7108e1cc5079b25184]: Textual amendment: Words in [Sch. 14 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/2/a) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/a/i)
 
-[^key-7341f2a297eaff71c75fe12bf04285c3]: Textual amendment: [Sch. 14 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/2/c) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/a/ii)
+[^c-7341f2a297eaff71c75fe12bf04285c3]: Textual amendment: [Sch. 14 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/2/c) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/a/ii)
 
-[^key-5116472f59caf3d66101cf37b4910fc2]: Textual amendment: [Sch. 14 para. 3(3)-(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/3) substituted for [Sch. 14](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14) [para. 3(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/3) (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/a/iii)
+[^c-5116472f59caf3d66101cf37b4910fc2]: Textual amendment: [Sch. 14 para. 3(3)-(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/3) substituted for [Sch. 14](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14) [para. 3(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/3/3) (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/a/iii)
 
-[^key-b2f57edfadcb1b6c0261a31548021841]: Textual amendment: [Sch. 14 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/6/1A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/a)
+[^c-b2f57edfadcb1b6c0261a31548021841]: Textual amendment: [Sch. 14 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/6/1A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/a)
 
-[^key-8a5b9753fa7fc2c58b0e2206c2257e5f]: Textual amendment: Words in Sch. 14 para. 7(6) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 70(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/70/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-8a5b9753fa7fc2c58b0e2206c2257e5f]: Textual amendment: Words in Sch. 14 para. 7(6) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 70(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/70/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-7e3a98ee2c703e0d699d532f7ef94afa]: Textual amendment: Sch. 14 para. 10(12) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 52(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/52/2), [72(1)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/e)
+[^c-7e3a98ee2c703e0d699d532f7ef94afa]: Textual amendment: Sch. 14 para. 10(12) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 52(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/52/2), [72(1)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/e)
 
-[^key-a9483d2f7765218bacb06e0eeec30ba3]: Textual amendment: Sch. 14 para. 13(11) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 52(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/52/3), [72(1)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/e)
+[^c-a9483d2f7765218bacb06e0eeec30ba3]: Textual amendment: Sch. 14 para. 13(11) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 52(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/52/3), [72(1)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/e)
 
-[^key-12f90f930054167b83bae444b0be1ae6]: Textual amendment: Sch. 14 para. 32(3A) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 52(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/52/4), [72(1)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/e)
+[^c-12f90f930054167b83bae444b0be1ae6]: Textual amendment: Sch. 14 para. 32(3A) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 52(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/52/4), [72(1)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/e)
 
-[^key-fdd7ac91d9d3f8c77f3ad58c761a0b76]: Textual amendment: [Sch. 14 para. 33A](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/33A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/3)
+[^c-fdd7ac91d9d3f8c77f3ad58c761a0b76]: Textual amendment: [Sch. 14 para. 33A](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/33A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/3)
 
-[^key-f7649a75c94cf72aede8ff30cd091d26]: Textual amendment: Words in [Sch. 14 para. 34(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/34/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/b/i)
+[^c-f7649a75c94cf72aede8ff30cd091d26]: Textual amendment: Words in [Sch. 14 para. 34(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/34/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/b/i)
 
-[^key-76a86bbb7dc6db6da719e6945fe5c8ba]: Textual amendment: [Sch. 14 para. 34(2A)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/34/2A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/b/ii)
+[^c-76a86bbb7dc6db6da719e6945fe5c8ba]: Textual amendment: [Sch. 14 para. 34(2A)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/34/2A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/b/ii)
 
 [^M_F_d59cb298-48aa-42c9-a90c-7ceca5f161f5]: Textual amendment: Words in Sch. 14 para. 35(1) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/1/2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/c)
 
 [^M_F_7a3ec857-12b5-4c46-ddb4-13cc4b0cdf40]: Textual amendment: Words in Sch. 14 para. 36(3) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/1/2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/d)
 
-[^key-4125d43d986485aa684ac00f1ab4dd48]: Textual amendment: Words in [Sch. 14 para. 37(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37/4/b) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(e)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/e/i)
+[^c-4125d43d986485aa684ac00f1ab4dd48]: Textual amendment: Words in [Sch. 14 para. 37(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37/4/b) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(e)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/e/i)
 
-[^key-829a34b5fc5725904f6d215905e6d4ed]: Textual amendment: Word in [Sch. 14 para. 37(6)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37/6) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(e)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/e/ii)
+[^c-829a34b5fc5725904f6d215905e6d4ed]: Textual amendment: Word in [Sch. 14 para. 37(6)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37/6) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(1)(e)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/1/e/ii)
 
-[^key-b2bf0174976b7604074db5c122540fbc]: Textual amendment: [Sch. 14 paras. 37A](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37A), [37B](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37B) and cross-headings inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/b)
+[^c-b2bf0174976b7604074db5c122540fbc]: Textual amendment: [Sch. 14 paras. 37A](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37A), [37B](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/37B) and cross-headings inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/b)
 
-[^key-4f6e2bfaa9387e86445e4f627dc95cec]: Textual amendment: Word in [Sch. 14 para. 39(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/39/1/a) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/c/i)
+[^c-4f6e2bfaa9387e86445e4f627dc95cec]: Textual amendment: Word in [Sch. 14 para. 39(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/39/1/a) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/c/i)
 
-[^key-3cddc5b56a7e24805e5a1cf1967bf35f]: Textual amendment: [Sch. 14 para. 39(1)(aa)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/39/1/aa) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(c)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/c/ii)
+[^c-3cddc5b56a7e24805e5a1cf1967bf35f]: Textual amendment: [Sch. 14 para. 39(1)(aa)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/39/1/aa) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(c)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/c/ii)
 
-[^key-56f728fa61d84553af9fb96a741bff83]: Textual amendment: [Sch. 14 para. 39(2)(aa)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/39/2/aa) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(c)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/c/iii)
+[^c-56f728fa61d84553af9fb96a741bff83]: Textual amendment: [Sch. 14 para. 39(2)(aa)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/39/2/aa) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(6)(c)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/6/c/iii)
 
-[^key-6ec23b7b243bd695804be8246fd5a766]: Textual amendment: Word in Sch. 14 para. 50 cross-heading inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-6ec23b7b243bd695804be8246fd5a766]: Textual amendment: Word in Sch. 14 para. 50 cross-heading inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-5bb597d33393c6bfbbf4701b8b58af3b]: Textual amendment: Words in [Sch. 14 para. 50(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/50/1) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/b/i), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-5bb597d33393c6bfbbf4701b8b58af3b]: Textual amendment: Words in [Sch. 14 para. 50(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/50/1) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/b/i), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-69b47f45efd3029501dcdcf69dd55a80]: Textual amendment: Words in [Sch. 14 para. 50(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/50/2) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/b/ii), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-69b47f45efd3029501dcdcf69dd55a80]: Textual amendment: Words in [Sch. 14 para. 50(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/50/2) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/b/ii), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-483920ddba3e04f0e642e6ca78b7eda4]: Textual amendment: Words in [Sch. 14 para. 50(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/50/2) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(b)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/b/iii), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-483920ddba3e04f0e642e6ca78b7eda4]: Textual amendment: Words in [Sch. 14 para. 50(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/50/2) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 49(b)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/49/b/iii), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-e30727db2534f4e0858cf56629d6dc18]: Textual amendment: Words in [Sch. 14 para. 51(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/5) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/a/i)
+[^c-e30727db2534f4e0858cf56629d6dc18]: Textual amendment: Words in [Sch. 14 para. 51(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/5) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/a/i)
 
-[^key-0dfefb4bfc062f87c09d79a2f505e31a]: Textual amendment: Words in [Sch. 14 para. 51(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/5) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/a/ii)
+[^c-0dfefb4bfc062f87c09d79a2f505e31a]: Textual amendment: Words in [Sch. 14 para. 51(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/5) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/a/ii)
 
-[^key-039109e6ca86ff0a6017442fc1af70cd]: Textual amendment: [Sch. 14 para. 51(6)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/6) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/b)
+[^c-039109e6ca86ff0a6017442fc1af70cd]: Textual amendment: [Sch. 14 para. 51(6)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/6) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/b)
 
-[^key-2c6c16ded3d81086689f831956021bf5]: Textual amendment: [Sch. 14 para. 51(7)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/7) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/b)
+[^c-2c6c16ded3d81086689f831956021bf5]: Textual amendment: [Sch. 14 para. 51(7)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/51/7) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/37/2/b)

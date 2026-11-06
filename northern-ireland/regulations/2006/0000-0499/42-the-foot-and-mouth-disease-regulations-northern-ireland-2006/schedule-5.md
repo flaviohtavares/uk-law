@@ -24,7 +24,7 @@ Regulations 21(2), 32(1), 39(2),54 and Schedule 1
 
 ### PART I — MEASURES APPLICABLE IN RESPECT OF BOTH PROTECTION ZONES AND SURVEILLANCE ZONES
 
-#### 1. Record keeping in protection zones and surveillance zones[^key-a32d32f5b95b1324dd0a0eb21ffe8fee]
+#### 1. Record keeping in protection zones and surveillance zones[^c-a32d32f5b95b1324dd0a0eb21ffe8fee]
 
 (1) The occupier of every premises in a protection zone or surveillance zone where susceptible animals are kept shall create and maintain the following records in respect of the premises—
 
@@ -36,13 +36,13 @@ Regulations 21(2), 32(1), 39(2),54 and Schedule 1
 
 (3) The occupier shall maintain the records kept under sub-paragraphs (1)(a) and (1)(b) by updating them within 24 hours of any change.
 
-#### 2. Straying of susceptible animals[^key-9451230cb60044908a0fc0a0140dbdbc]
+#### 2. Straying of susceptible animals[^c-9451230cb60044908a0fc0a0140dbdbc]
 
 (1) The keeper of a susceptible animal in a protection zone or a surveillance zone shall take all such steps as are necessary to prevent it from straying from the premises on which it is kept.
 
 (2) An inspector may detain any stray or feral susceptible animal found in a protection zone or a surveillance zone.
 
-#### 3. Control of dogs and poultry in protection zones and surveillance zones[^key-61a3e9c2fc58b8082fbd89d25e4c910a]
+#### 3. Control of dogs and poultry in protection zones and surveillance zones[^c-61a3e9c2fc58b8082fbd89d25e4c910a]
 
 (1) The owner of any dog in a protection zone or a surveillance zone shall keep it under control by—
 
@@ -54,7 +54,7 @@ Regulations 21(2), 32(1), 39(2),54 and Schedule 1
 
 (3) An inspector may if he considers any dog or poultry, not to be under control, by notice served on the occupier of the premises where it is kept require him to keep that dog or poultry under control, or to confine it to the part of the premises specified in the notice.
 
-#### 4. Shearing or dipping sheep in a protection or surveillance zone[^key-3152ca8796cd31bff5c63fd5ec4bf710]
+#### 4. Shearing or dipping sheep in a protection or surveillance zone[^c-3152ca8796cd31bff5c63fd5ec4bf710]
 
 (1) Subject to sub-paragraph (2), a person shall not—
 
@@ -70,13 +70,13 @@ in a protection zone or a surveillance zone except where authorised by a licence
 - (a) “shearing” includes clipping and dagging; and
 - (b) “dipping” includes showering and jetting sheep with sheep dip.
 
-#### 5. Ultrasound scanning of sheep in a protection or surveillance zone[^key-ca2d5ef49e96a8273771bb9229dfcf89]
+#### 5. Ultrasound scanning of sheep in a protection or surveillance zone[^c-ca2d5ef49e96a8273771bb9229dfcf89]
 
 (1) Subject to sub-paragraph (2), a person shall not carry out ultrasound scanning of sheep in a protection zone or a surveillance zone except where authorised by a licence granted by an inspector.
 
 (2) The prohibition in sub-paragraph (1) does not apply to the occupier of any premises or his employees (other than any person employed by him primarily for the purpose of carrying out ultrasound scanning of sheep) in respect of the carrying out of ultrasound scanning of sheep kept on those premises using ultrasound scanning equipment of which the occupier is the owner or person in charge.
 
-#### 6. Semen, ova and embryos collected in a protection or surveillance zone[^key-31a117f50b0c1e624c8607210babf17a]
+#### 6. Semen, ova and embryos collected in a protection or surveillance zone[^c-31a117f50b0c1e624c8607210babf17a]
 
 (1) This paragraph applies to semen, ova and embryos collected from susceptible animals originating in a protection zone or surveillance zone.
 
@@ -102,7 +102,7 @@ in a protection zone or a surveillance zone except where authorised by a licence
   - (ii) subjected a serological sample from each such animal to a test for disease with a negative result, and
   - (iii) subjected a serological sample taken from the donor animal 28 days or more after collection of the semen to a test for the detection of antibodies against disease with a negative result.
 
-#### 7. Hides and skins from susceptible animals originating in a protection or surveillance zone[^key-04c696266a592410538fdbaa66247b97]
+#### 7. Hides and skins from susceptible animals originating in a protection or surveillance zone[^c-04c696266a592410538fdbaa66247b97]
 
 (1) This paragraph applies to hides and skins of susceptible animals originating in a protection zone or surveillance zone.
 
@@ -113,7 +113,7 @@ in a protection zone or a surveillance zone except where authorised by a licence
   - (ii) at all times stored separately from hides and skins which were not so produced; or
 - (b) it has been treated so that it falls within paragraph 2 of Part I of Schedule 6.
 
-#### 8. Wool, ruminant hair and pig bristles from animals originating in a protection or surveillance zone[^key-4537c6306827d418aefbcee6fa0f1b72]
+#### 8. Wool, ruminant hair and pig bristles from animals originating in a protection or surveillance zone[^c-4537c6306827d418aefbcee6fa0f1b72]
 
 (1) This paragraph applies to wool, ruminant hair and pig bristles from animals originating in a protection zone or a surveillance zone.
 
@@ -124,7 +124,7 @@ in a protection zone or a surveillance zone except where authorised by a licence
   - (ii) at all times was stored separately from wool, ruminant hair and pig bristles which were not so produced; or
 - (b) it has been treated so that it falls within paragraph 3 of Part I of Schedule 6.
 
-#### 9. Other animal products produced in a protection or surveillance zone or from animals originating in such a zone[^key-95b2cdf0274ba008c4736c6f7032e8b0]
+#### 9. Other animal products produced in a protection or surveillance zone or from animals originating in such a zone[^c-95b2cdf0274ba008c4736c6f7032e8b0]
 
 (1) This paragraph applies to any animal product other than—
 
@@ -153,7 +153,7 @@ if it is produced in a protection zone or surveillance zone from a susceptible a
 
 ### PART II — MEASURES APPLICABLE ONLY IN RESPECT OF A PROTECTION ZONE
 
-#### 1. Movement of a susceptible animal from or to premises in a protection zone[^key-0209fbd60cbb5ba44cd461fc4687e8f0]
+#### 1. Movement of a susceptible animal from or to premises in a protection zone[^c-0209fbd60cbb5ba44cd461fc4687e8f0]
 
 (1) Subject to the provisions of this paragraph, a person shall not move a susceptible animal from premises in a protection zone.
 
@@ -173,7 +173,7 @@ if it is produced in a protection zone or surveillance zone from a susceptible a
 
 (6) The prohibition in sub-paragraph (1) does not apply if the movement from one part of premises to another part of the same premises using a public highway and under the authority of a licence granted by an inspector.
 
-#### 2. Movement of a non-susceptible animal from or to premises in a protection zone where a susceptible animal is kept[^key-3411fe186a20054eaf53ba4c26396044]
+#### 2. Movement of a non-susceptible animal from or to premises in a protection zone where a susceptible animal is kept[^c-3411fe186a20054eaf53ba4c26396044]
 
 (1) Subject to the provisions of this paragraph, a person shall not move a non-susceptible animal from or to premises in a protection zone where susceptible animals are kept.
 
@@ -185,7 +185,7 @@ if it is produced in a protection zone or surveillance zone from a susceptible a
 
 (3) Any inspector granting a licence under sub-paragraph (2)(b) shall take account of the recommended measures in paragraph 2.2 of Annex VI to the Directive.
 
-#### 3. Movement of an animal into or out of a protection zone[^key-57f7fd477eb693da8dd263f438aa0a6c]
+#### 3. Movement of an animal into or out of a protection zone[^c-57f7fd477eb693da8dd263f438aa0a6c]
 
 (1) Subject to the provisions of this paragraph, a person shall not move an animal into or out of a protection zone.
 
@@ -215,15 +215,15 @@ if it is produced in a protection zone or surveillance zone from a susceptible a
 - (d) keep the record with the vehicle at all times; and
 - (e) retain the record for 6 months after the last such cleansing and disinfection.
 
-#### 4. Movement of vehicles from premises in a protection zone where a susceptible animal is kept[^key-e47f8cacf93da02c483da228eb6411db]
+#### 4. Movement of vehicles from premises in a protection zone where a susceptible animal is kept[^c-e47f8cacf93da02c483da228eb6411db]
 
 A person shall not move any vehicle designed or adapted for the transport of animals from premises in a protection zone where a susceptible animal is kept except under the authority of a licence granted by an inspector.
 
-#### 5. Control of animal gatherings in a protection zone[^key-ee1536d12cd74ba1435c798d3a695077]
+#### 5. Control of animal gatherings in a protection zone[^c-ee1536d12cd74ba1435c798d3a695077]
 
 A person shall not hold an animal gathering in a protection zone.
 
-#### 6. Control of gatherings of people in a protection zone[^key-c67383f811bba545237201d75d3aacff]
+#### 6. Control of gatherings of people in a protection zone[^c-c67383f811bba545237201d75d3aacff]
 
 (1) A person shall not hold or take part in the following activities in a protection zone—
 
@@ -240,7 +240,7 @@ A person shall not hold an animal gathering in a protection zone.
 
 (3) In this paragraph “falconry” means the use of birds of the order *Falconiformae* to hunt for game or other wildlife.
 
-#### 7. Breeding in a protection zone[^key-f060bd0fd2133265eb22739fc40b327f]
+#### 7. Breeding in a protection zone[^c-f060bd0fd2133265eb22739fc40b327f]
 
 (1) A person shall not carry out breeding of a susceptible animal by means of itinerant service in a protection zone.
 
@@ -257,15 +257,15 @@ A person shall not hold an animal gathering in a protection zone.
 - (a) it is carried out by the occupier of the premises where the animal is kept (or any employee of that occupier), and
 - (b) either no susceptible animals are kept on the premises or (in the case of artificial insemination only) it is carried out under the authority of a licence granted by the Department.
 
-#### 8. Slaughter for private consumption in a protection zone[^key-b9e2698d5523a9cc4a54ca9006fd3b6d]
+#### 8. Slaughter for private consumption in a protection zone[^c-b9e2698d5523a9cc4a54ca9006fd3b6d]
 
 A person shall not slaughter a susceptible animal on any premises in a protection zone for private consumption on those premises.
 
-#### 9. Transport of fodder in a protection zone[^key-edc38473fab72ae13fcd49ef1f1b43ad]
+#### 9. Transport of fodder in a protection zone[^c-edc38473fab72ae13fcd49ef1f1b43ad]
 
 A person shall not transport fodder to premises in a protection zone where a susceptible animal is kept except under the authority of a licence granted by an inspector.
 
-#### 10. Sale of fodder originating in a protection zone[^key-e832ba641a7d5295d37af67cdea5a6ab]
+#### 10. Sale of fodder originating in a protection zone[^c-e832ba641a7d5295d37af67cdea5a6ab]
 
 A person shall not sell or consign for sale fodder produced in a protection zone unless it satisfies one of the following requirements—
 
@@ -276,7 +276,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
 - (c) it was produced on premises where a susceptible animal is not kept using raw materials also produced on such premises or raw materials produced outside the protection zone;
 - (d) it is forage or straw falling within Part II of Schedule 6.
 
-#### 11. Transport, treatment and spreading of dung, manure or slurry produced in a protection zone[^key-a43cb3d6e0b9bcc93375d27b32dea2f4]
+#### 11. Transport, treatment and spreading of dung, manure or slurry produced in a protection zone[^c-a43cb3d6e0b9bcc93375d27b32dea2f4]
 
 (1) This paragraph applies to dung, manure or slurry—
 
@@ -287,7 +287,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
 
 (3) Transport of dung, manure or slurry complies with this sub-paragraph where it is to a plant for treatment to destroy the disease virus and is authorised by a licence granted by an inspector.
 
-(4) The occupier of any premises to which manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^key-05825111531798e76c2abf9ab31f24b8] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 to Regulation (EU) No. 142/2011 .
+(4) The occupier of any premises to which manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^c-05825111531798e76c2abf9ab31f24b8] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 to Regulation (EU) No. 142/2011 .
 
 (5) Transport of dung, manure or slurry for spreading complies with this sub-paragraph if it satisfies the following requirements—
 
@@ -321,7 +321,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
 - (a) designation of the fields on which dung, manure or slurry from bovine animals or pigs may be spread; and
 - (b) designation of a distance from premises where a susceptible animal is kept within which dung, manure or slurry must not be spread.
 
-#### 12. Fresh meat etc. derived from a susceptible animal originating in a protection zone[^key-bf842dfd384e5efdb9886402aa6257b3]
+#### 12. Fresh meat etc. derived from a susceptible animal originating in a protection zone[^c-bf842dfd384e5efdb9886402aa6257b3]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from susceptible animals originating in a protection zone.
 
@@ -331,7 +331,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
 - (b) after production, it was at all times stored and transported separately from products to which this paragraph applies produced on or after that date, and
 - (c) it was health marked or identification marked and that mark was overstamped.
 
-#### 13. Fresh meat etc. produced on premises in a protection zone[^key-21fc2f0eb5ab4198896131eb7cb4ab86]
+#### 13. Fresh meat etc. produced on premises in a protection zone[^c-21fc2f0eb5ab4198896131eb7cb4ab86]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from susceptible animals and produced on premises in a protection zone.
 
@@ -349,7 +349,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
   - (iii) produced from animals transported to the establishment under the authority of a licence granted under paragraph 3(2)(e) of this Part and slaughtered there; and
 - (b) it is health marked or identification marked.
 
-#### 14. Meat products produced from meat derived from a susceptible animal originating in a protection zone[^key-ce992f96762fadbe169610305240de8e]
+#### 14. Meat products produced from meat derived from a susceptible animal originating in a protection zone[^c-ce992f96762fadbe169610305240de8e]
 
 (1) This paragraph applies to meat products produced from meat derived from a susceptible animal originating in a protection zone.
 
@@ -361,7 +361,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
   - (ii) transported in sealed containers to an establishment designated by the Department as authorised to trade meat from a protection zone, and
   - (iii) treated at that establishment so that it falls within paragraph 1 of Part I of Schedule 6.
 
-#### 15. Milk and milk products produced from susceptible animals originating in a protection zone or on premises in a protection zone[^key-26a9065bcec922b6fd62e128ac0986ea]
+#### 15. Milk and milk products produced from susceptible animals originating in a protection zone or on premises in a protection zone[^c-26a9065bcec922b6fd62e128ac0986ea]
 
 (1) A person shall not sell or consign for sale the milk of a susceptible animal originating in a protection zone or any milk product produced from such milk unless it complies with sub-paragraph (2) or (3).
 
@@ -396,7 +396,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
   - (iii) is raw milk produced outside the protection zone;
 - (c) they are operated so that milk on the premises and leaving the premises is clearly identified as eligible for sale outside the protection zone to the final consumer and is at all times stored and transported separately from raw milk and raw milk products which are not so eligible.
 
-#### 16. Collection, transport and processing of milk and milk products produced in a protection zone[^key-c1aab807ffbfa324f22c4f87c2f3b4f1]
+#### 16. Collection, transport and processing of milk and milk products produced in a protection zone[^c-c1aab807ffbfa324f22c4f87c2f3b4f1]
 
 (1) A person shall not collect and transport milk produced on premises in a protection zone where a susceptible animal is kept out of that protection zone or process any such milk unless such transport complies with sub-paragraph (2) and is carried out in a vehicle which complies with sub-paragraph (3).
 
@@ -424,7 +424,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
 
 ### PART III — MEASURES APPLICABLE ONLY IN RESPECT OF A SURVEILLANCE ZONE
 
-#### 1. Movement of an animal from premises in a surveillance zone[^key-cc8500acf2ec52fd72d5d32a86cdfaa9]
+#### 1. Movement of an animal from premises in a surveillance zone[^c-cc8500acf2ec52fd72d5d32a86cdfaa9]
 
 (1) Subject to the provisions of this paragraph, a person shall not move a susceptible animal from premises within a surveillance zone.
 
@@ -468,7 +468,7 @@ A person shall not sell or consign for sale fodder produced in a protection zone
 
 (11) The prohibition in sub-paragraph (1) does not apply to movement from one part of premises to another part of the same premises using a public highway under the authority of a licence granted by an inspector.
 
-#### 2. Control of animal gatherings and gatherings of people in a surveillance zone[^key-add273af7ce78353dcd96639091c5c7e]
+#### 2. Control of animal gatherings and gatherings of people in a surveillance zone[^c-add273af7ce78353dcd96639091c5c7e]
 
 (1) A person shall not—
 
@@ -488,7 +488,7 @@ except under the authority of a licence granted by the Department.
 
 (4) The occupier of any land, members of his household, persons employed by him as beaters and any member of a shooting party of not more than three persons authorised by him may shoot deer found on that land.
 
-#### 3. Fresh meat etc. derived from a susceptible animal originating in a surveillance zone[^key-6da488ce48a96205f6be96b9dc338c8e]
+#### 3. Fresh meat etc. derived from a susceptible animal originating in a surveillance zone[^c-6da488ce48a96205f6be96b9dc338c8e]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from a susceptible animal originating in a surveillance zone.
 
@@ -532,7 +532,7 @@ except under the authority of a licence granted by the Department.
 - (e) lungs from which the trachea and main bronchi and the mediastinal and bronchial lymphatic gland have been removed;
 - (f) other offal without bone or cartilage from which lymphatic glands, connective tissue, adhering fat and mucous membrane have been removed.
 
-#### 4. Fresh meat etc. produced on premises in a surveillance zone[^key-a6a02d1e10e643c33ce8c770058400dc]
+#### 4. Fresh meat etc. produced on premises in a surveillance zone[^c-a6a02d1e10e643c33ce8c770058400dc]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from susceptible animals and produced on premises in a surveillance zone.
 
@@ -550,7 +550,7 @@ except under the authority of a licence granted by the Department.
   - (iii) produced from an animal transported to the slaughterhouse from a protection zone under the authority of a licence granted under paragraph 3(2)(e) of Part II of this Schedule; and
 - (b) it is health marked or identification marked.
 
-#### 5. Meat products produced from meat derived from susceptible animals originating in a surveillance zone or produced on premises in a surveillance zone[^key-0e5f371b652269918e365ee72af3a31b]
+#### 5. Meat products produced from meat derived from susceptible animals originating in a surveillance zone or produced on premises in a surveillance zone[^c-0e5f371b652269918e365ee72af3a31b]
 
 (1) This paragraph applies to meat products—
 
@@ -571,7 +571,7 @@ except under the authority of a licence granted by the Department.
 - (b) processes only meat falling within sub-paragraph 4(3);
 - (c) at all times during the production process stores, identifies and transports products eligible for despatch outside the surveillance zone separately from those which are not and in accordance with the directions of the Department.
 
-#### 6. Milk and milk products produced from a susceptible animal originating in a surveillance zone or on premises in a surveillance zone[^key-1943dd1eec84c1cabbb3c33e21d54da5]
+#### 6. Milk and milk products produced from a susceptible animal originating in a surveillance zone or on premises in a surveillance zone[^c-1943dd1eec84c1cabbb3c33e21d54da5]
 
 (1) A person shall not sell or consign for sale the milk of a susceptible animal originating in a surveillance zone or any milk product produced from such milk unless it complies with sub-paragraph (2) or (3).
 
@@ -606,7 +606,7 @@ except under the authority of a licence granted by the Department.
   - (iii) was produced outside the surveillance zone and its associated protection zone;
 - (c) they are operated so that milk on the premises and leaving the premises is clearly identified as eligible for sale outside the surveillance zone to the final consumer and is at all times stored and transported separately from milk and milk products which are not so eligible.
 
-#### 7. Collection, transport and processing of raw milk produced in a surveillance zone[^key-7503f3b06994a2f8865ce4fbab19bf9a]
+#### 7. Collection, transport and processing of raw milk produced in a surveillance zone[^c-7503f3b06994a2f8865ce4fbab19bf9a]
 
 (1) A person shall not collect and transport raw milk produced on premises in a surveillance zone where a susceptible animal is kept out of that surveillance zone or process any such milk unless such transport complies with sub-paragraph (2) and is carried out in a vehicle which complies with sub-paragraph (3).
 
@@ -632,7 +632,7 @@ except under the authority of a licence granted by the Department.
 
 (6) A person shall not process milk transported under this paragraph except under the authority of a licence granted by an inspector.
 
-#### 8. Transport, treatment and spreading of dung, manure, slurry and litter produced in a surveillance zone[^key-247698282e56f7ecea695f6b68f20621]
+#### 8. Transport, treatment and spreading of dung, manure, slurry and litter produced in a surveillance zone[^c-247698282e56f7ecea695f6b68f20621]
 
 (1) This paragraph applies to dung, manure, slurry and litter—
 
@@ -643,7 +643,7 @@ except under the authority of a licence granted by the Department.
 
 (3) Transport of dung, manure or slurry complies with this sub-paragraph where it is transported to an establishment for treatment to destroy the disease virus and under the authority of a licence granted by the Department.
 
-(4) The occupier of any premises to which dung, manure or slurry is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^key-4a431c6cd3ad84ce6d78e547a61324b5] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 to Regulation (EU) No. 142/2011 .
+(4) The occupier of any premises to which dung, manure or slurry is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^c-4a431c6cd3ad84ce6d78e547a61324b5] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 to Regulation (EU) No. 142/2011 .
 
 (5) Transport and spreading of dung, manure or slurry complies with this sub-paragraph if—
 
@@ -685,76 +685,76 @@ except under the authority of a licence granted by the Department.
 
 ## Annotations
 
-[^key-a32d32f5b95b1324dd0a0eb21ffe8fee]: Commencement: Sch. 5 Pt. I para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-a32d32f5b95b1324dd0a0eb21ffe8fee]: Commencement: Sch. 5 Pt. I para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-9451230cb60044908a0fc0a0140dbdbc]: Commencement: Sch. 5 Pt. I para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-9451230cb60044908a0fc0a0140dbdbc]: Commencement: Sch. 5 Pt. I para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-61a3e9c2fc58b8082fbd89d25e4c910a]: Commencement: Sch. 5 Pt. I para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-61a3e9c2fc58b8082fbd89d25e4c910a]: Commencement: Sch. 5 Pt. I para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00022]: Footnote: [S.I. 1983 No. 764 (N.I. 8)](https://www.legislation.gov.uk/nisi/1983/764)
 
-[^key-3152ca8796cd31bff5c63fd5ec4bf710]: Commencement: Sch. 5 Pt. I para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-3152ca8796cd31bff5c63fd5ec4bf710]: Commencement: Sch. 5 Pt. I para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-ca2d5ef49e96a8273771bb9229dfcf89]: Commencement: Sch. 5 Pt. I para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-ca2d5ef49e96a8273771bb9229dfcf89]: Commencement: Sch. 5 Pt. I para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-31a117f50b0c1e624c8607210babf17a]: Commencement: Sch. 5 Pt. I para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-31a117f50b0c1e624c8607210babf17a]: Commencement: Sch. 5 Pt. I para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-04c696266a592410538fdbaa66247b97]: Commencement: Sch. 5 Pt. I para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-04c696266a592410538fdbaa66247b97]: Commencement: Sch. 5 Pt. I para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-4537c6306827d418aefbcee6fa0f1b72]: Commencement: Sch. 5 Pt. I para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-4537c6306827d418aefbcee6fa0f1b72]: Commencement: Sch. 5 Pt. I para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-95b2cdf0274ba008c4736c6f7032e8b0]: Commencement: Sch. 5 Pt. I para. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-95b2cdf0274ba008c4736c6f7032e8b0]: Commencement: Sch. 5 Pt. I para. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-0209fbd60cbb5ba44cd461fc4687e8f0]: Commencement: Sch. 5 Pt. II para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-0209fbd60cbb5ba44cd461fc4687e8f0]: Commencement: Sch. 5 Pt. II para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-3411fe186a20054eaf53ba4c26396044]: Commencement: Sch. 5 Pt. II para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-3411fe186a20054eaf53ba4c26396044]: Commencement: Sch. 5 Pt. II para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-57f7fd477eb693da8dd263f438aa0a6c]: Commencement: Sch. 5 Pt. II para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-57f7fd477eb693da8dd263f438aa0a6c]: Commencement: Sch. 5 Pt. II para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-e47f8cacf93da02c483da228eb6411db]: Commencement: Sch. 5 Pt. II para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-e47f8cacf93da02c483da228eb6411db]: Commencement: Sch. 5 Pt. II para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-ee1536d12cd74ba1435c798d3a695077]: Commencement: Sch. 5 Pt. II para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-ee1536d12cd74ba1435c798d3a695077]: Commencement: Sch. 5 Pt. II para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-c67383f811bba545237201d75d3aacff]: Commencement: Sch. 5 Pt. II para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-c67383f811bba545237201d75d3aacff]: Commencement: Sch. 5 Pt. II para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-f060bd0fd2133265eb22739fc40b327f]: Commencement: Sch. 5 Pt. II para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-f060bd0fd2133265eb22739fc40b327f]: Commencement: Sch. 5 Pt. II para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-b9e2698d5523a9cc4a54ca9006fd3b6d]: Commencement: Sch. 5 Pt. II para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-b9e2698d5523a9cc4a54ca9006fd3b6d]: Commencement: Sch. 5 Pt. II para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-edc38473fab72ae13fcd49ef1f1b43ad]: Commencement: Sch. 5 Pt. II para. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-edc38473fab72ae13fcd49ef1f1b43ad]: Commencement: Sch. 5 Pt. II para. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-e832ba641a7d5295d37af67cdea5a6ab]: Commencement: Sch. 5 para. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-e832ba641a7d5295d37af67cdea5a6ab]: Commencement: Sch. 5 para. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-a43cb3d6e0b9bcc93375d27b32dea2f4]: Commencement: Sch. 5 para. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-a43cb3d6e0b9bcc93375d27b32dea2f4]: Commencement: Sch. 5 para. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-05825111531798e76c2abf9ab31f24b8]: Textual amendment: Words in [Sch. 5 para. 11(4)](https://www.legislation.gov.uk/nisr/2006/42/schedule/5/paragraph/11/4) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. para. 21(a)](https://www.legislation.gov.uk/nisr/2011/124/schedule/paragraph/21/a)
+[^c-05825111531798e76c2abf9ab31f24b8]: Textual amendment: Words in [Sch. 5 para. 11(4)](https://www.legislation.gov.uk/nisr/2006/42/schedule/5/paragraph/11/4) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. para. 21(a)](https://www.legislation.gov.uk/nisr/2011/124/schedule/paragraph/21/a)
 
-[^key-bf842dfd384e5efdb9886402aa6257b3]: Commencement: Sch. 5 para. 12 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-bf842dfd384e5efdb9886402aa6257b3]: Commencement: Sch. 5 para. 12 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-21fc2f0eb5ab4198896131eb7cb4ab86]: Commencement: Sch. 5 para. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-21fc2f0eb5ab4198896131eb7cb4ab86]: Commencement: Sch. 5 para. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-ce992f96762fadbe169610305240de8e]: Commencement: Sch. 5 para. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-ce992f96762fadbe169610305240de8e]: Commencement: Sch. 5 para. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-26a9065bcec922b6fd62e128ac0986ea]: Commencement: Sch. 5 para. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-26a9065bcec922b6fd62e128ac0986ea]: Commencement: Sch. 5 para. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-c1aab807ffbfa324f22c4f87c2f3b4f1]: Commencement: Sch. 5 para. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-c1aab807ffbfa324f22c4f87c2f3b4f1]: Commencement: Sch. 5 para. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00024]: Footnote: [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)
 
-[^key-cc8500acf2ec52fd72d5d32a86cdfaa9]: Commencement: Sch. 5 Pt. III para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-cc8500acf2ec52fd72d5d32a86cdfaa9]: Commencement: Sch. 5 Pt. III para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-add273af7ce78353dcd96639091c5c7e]: Commencement: Sch. 5 Pt. III para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-add273af7ce78353dcd96639091c5c7e]: Commencement: Sch. 5 Pt. III para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-6da488ce48a96205f6be96b9dc338c8e]: Commencement: Sch. 5 Pt. III para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-6da488ce48a96205f6be96b9dc338c8e]: Commencement: Sch. 5 Pt. III para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-a6a02d1e10e643c33ce8c770058400dc]: Commencement: Sch. 5 Pt. III para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-a6a02d1e10e643c33ce8c770058400dc]: Commencement: Sch. 5 Pt. III para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-0e5f371b652269918e365ee72af3a31b]: Commencement: Sch. 5 Pt. III para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-0e5f371b652269918e365ee72af3a31b]: Commencement: Sch. 5 Pt. III para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-1943dd1eec84c1cabbb3c33e21d54da5]: Commencement: Sch. 5 Pt. III para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-1943dd1eec84c1cabbb3c33e21d54da5]: Commencement: Sch. 5 Pt. III para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-7503f3b06994a2f8865ce4fbab19bf9a]: Commencement: Sch. 5 Pt. III para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-7503f3b06994a2f8865ce4fbab19bf9a]: Commencement: Sch. 5 Pt. III para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-247698282e56f7ecea695f6b68f20621]: Commencement: Sch. 5 Pt. III para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-247698282e56f7ecea695f6b68f20621]: Commencement: Sch. 5 Pt. III para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-4a431c6cd3ad84ce6d78e547a61324b5]: Textual amendment: Words in [Sch. 5 para. 8(4)](https://www.legislation.gov.uk/nisr/2006/42/schedule/5/paragraph/8/4) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/nisr/2011/124/schedule/paragraph/21/b)
+[^c-4a431c6cd3ad84ce6d78e547a61324b5]: Textual amendment: Words in [Sch. 5 para. 8(4)](https://www.legislation.gov.uk/nisr/2006/42/schedule/5/paragraph/8/4) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/nisr/2011/124/schedule/paragraph/21/b)

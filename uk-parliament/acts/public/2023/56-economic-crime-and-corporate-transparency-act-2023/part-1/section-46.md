@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Register of members: information to be included and powers to obtain it[^key-951c6b20e53659b8e069bee095a36d9a]
+## 46. Register of members: information to be included and powers to obtain it[^c-951c6b20e53659b8e069bee095a36d9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -217,4 +217,4 @@ summary: ''
 
 ## Annotations
 
-[^key-951c6b20e53659b8e069bee095a36d9a]: Commencement: S. 46 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-951c6b20e53659b8e069bee095a36d9a]: Commencement: S. 46 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

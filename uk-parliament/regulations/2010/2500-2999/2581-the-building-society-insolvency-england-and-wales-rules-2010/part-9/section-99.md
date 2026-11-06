@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Fixing of remuneration[^key-a41b4d7c98311375407ef79600ad117e]
+## 99. Fixing of remuneration[^c-a41b4d7c98311375407ef79600ad117e]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a41b4d7c98311375407ef79600ad117e]: Commencement: Rule 99 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-a41b4d7c98311375407ef79600ad117e]: Commencement: Rule 99 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00041]: Footnote: Paragraph (6) was substituted by [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584).

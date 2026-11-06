@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 171. Notice of intention to resign[^key-0f5fa6147364743e556f7e5fbb86c407]
+## 171. Notice of intention to resign[^c-0f5fa6147364743e556f7e5fbb86c407]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f5fa6147364743e556f7e5fbb86c407]: Commencement: [Rule 171](https://www.legislation.gov.uk/nisr/2026/11/rule/171) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0f5fa6147364743e556f7e5fbb86c407]: Commencement: [Rule 171](https://www.legislation.gov.uk/nisr/2026/11/rule/171) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

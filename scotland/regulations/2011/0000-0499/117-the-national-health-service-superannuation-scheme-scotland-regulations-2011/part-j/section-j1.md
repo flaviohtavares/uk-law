@@ -28,7 +28,7 @@ summary: ''
 
 (4) A member wishing to allocate part of the member's pension under this regulation may elect to do so—
 
-- (a) on making a claim for payment of the member's benefits under regulation T1 (claims for benefits), or at any time after making such a claim but before the date on which a pension payable to the member under this Section of the scheme is put into payment other than a pension payable under regulation E11A (partial retirement pension)[^key-79dff58f5a49e2b175e2474a0829fb62]; or
+- (a) on making a claim for payment of the member's benefits under regulation T1 (claims for benefits), or at any time after making such a claim but before the date on which a pension payable to the member under this Section of the scheme is put into payment other than a pension payable under regulation E11A (partial retirement pension)[^c-79dff58f5a49e2b175e2474a0829fb62]; or
 - (b) if in pensionable employment—
   - (i) in the case of a member who is not a special class officer, at any time after completing 45 years pensionable service; or
   - (ii) in the case of a member who is a special class officer, at any time after reaching age 55 and completing 40 years pensionable service; or
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79dff58f5a49e2b175e2474a0829fb62]: Textual amendment: Words in reg. J1(4)(a) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [20](https://www.legislation.gov.uk/ssi/2024/272/regulation/20)
+[^c-79dff58f5a49e2b175e2474a0829fb62]: Textual amendment: Words in reg. J1(4)(a) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [20](https://www.legislation.gov.uk/ssi/2024/272/regulation/20)

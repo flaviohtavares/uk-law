@@ -41,14 +41,14 @@ Section 8.
 >
 > require that person to provide the Secretary of State with such information specified in the notice as the Secretary of State may require in connection with the exercise by the Secretary of State of his functions under this Part of this Act.
 
-(3)[^key-49411dcbd05c3de35b43e6b65dbdc403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-49411dcbd05c3de35b43e6b65dbdc403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (3)—
 
 - (a) for shall there is substituted “ may ”, and
 - (b) for paragraphs (a) and (b) there is substituted “ the information previously furnished to the Secretary of State (including any information furnished in pursuance of a requirement imposed by virtue of this subsection) is rendered inaccurate by any change of circumstances (including the taking of any further measures for purposes to which this Part of this Act applies or the alteration or discontinuance of any measures already being taken) ”.
 
-(5)[^key-bf8c2944bd05ed9432b2d97abc00acc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bf8c2944bd05ed9432b2d97abc00acc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection 5(a) the words refuses or are omitted.
 
@@ -353,6 +353,6 @@ Section 8.
 
 ## Annotations
 
-[^key-49411dcbd05c3de35b43e6b65dbdc403]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/2/3) omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/10)
+[^c-49411dcbd05c3de35b43e6b65dbdc403]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/2/3) omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/10)
 
-[^key-bf8c2944bd05ed9432b2d97abc00acc2]: Textual amendment: [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/2/5) omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/10)
+[^c-bf8c2944bd05ed9432b2d97abc00acc2]: Textual amendment: [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/2/5) omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/10)

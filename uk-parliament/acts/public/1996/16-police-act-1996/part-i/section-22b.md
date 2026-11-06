@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22B. Duty of chief officers to keep collaboration agreements under review[^key-0a484dd46d77de1090776766308edb39][^key-4f9f9105669dc5807973bb743c318b2e]
+## 22B. Duty of chief officers to keep collaboration agreements under review[^c-0a484dd46d77de1090776766308edb39][^c-4f9f9105669dc5807973bb743c318b2e]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a484dd46d77de1090776766308edb39]: Modification: Ss. 22A-23H: power to apply conferred (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [Sch. 5C para. 11(1)(b)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/11/1/b) (as inserted by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2))
+[^c-0a484dd46d77de1090776766308edb39]: Modification: Ss. 22A-23H: power to apply conferred (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [Sch. 5C para. 11(1)(b)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/11/1/b) (as inserted by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2))
 
-[^key-4f9f9105669dc5807973bb743c318b2e]: Textual amendment: Ss. 22A-22C inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/89/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-4f9f9105669dc5807973bb743c318b2e]: Textual amendment: Ss. 22A-22C inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/89/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

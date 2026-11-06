@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Amendment of the Pension Schemes Act 2021[^key-eff9727e0ebd4b5755a990759492e004]
+## 2. Amendment of the Pension Schemes Act 2021[^c-eff9727e0ebd4b5755a990759492e004]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Pension Schemes Act 2021 is amended in accordance with this Part.
 
 ## Annotations
 
-[^key-eff9727e0ebd4b5755a990759492e004]: Commencement: Reg. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-eff9727e0ebd4b5755a990759492e004]: Commencement: Reg. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. No assignment stage if there are no winning principal stage bidders[^key-bda10b44f42f68a52802af3c84a9088d]
+## 56. No assignment stage if there are no winning principal stage bidders[^c-bda10b44f42f68a52802af3c84a9088d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where there are no winning bidders following completion of the principal stage t
 
 ## Annotations
 
-[^key-bda10b44f42f68a52802af3c84a9088d]: Commencement: Reg. 56 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-bda10b44f42f68a52802af3c84a9088d]: Commencement: Reg. 56 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

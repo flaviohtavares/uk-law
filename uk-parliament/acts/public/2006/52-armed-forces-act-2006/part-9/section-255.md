@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Individual sentence for each offence[^key-1b954101d91c582e1a4201795f5df1cd][^key-c039b016fa43dc337ce20f666f0de169][^key-efd4d15fcbe698a16b1f0c3e3e39cace]
+## 255. Individual sentence for each offence[^c-1b954101d91c582e1a4201795f5df1cd][^c-c039b016fa43dc337ce20f666f0de169][^c-efd4d15fcbe698a16b1f0c3e3e39cace]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Where the Court Martial or the Service Civilian Court convicts a person, the cou
 
 ## Annotations
 
-[^key-1b954101d91c582e1a4201795f5df1cd]: Commencement: S. 255 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-1b954101d91c582e1a4201795f5df1cd]: Commencement: S. 255 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-c039b016fa43dc337ce20f666f0de169]: Commencement: S. 255 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c039b016fa43dc337ce20f666f0de169]: Commencement: S. 255 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-efd4d15fcbe698a16b1f0c3e3e39cace]: Modification: S. 255 modified (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 161(2)](https://www.legislation.gov.uk/uksi/2009/2041/rule/161/2)
+[^c-efd4d15fcbe698a16b1f0c3e3e39cace]: Modification: S. 255 modified (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 161(2)](https://www.legislation.gov.uk/uksi/2009/2041/rule/161/2)

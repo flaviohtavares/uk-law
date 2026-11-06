@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Veterinary investigations[^key-712358e5b5ee0b04cc6ac6c830d759ab]
+## 78. Veterinary investigations[^c-712358e5b5ee0b04cc6ac6c830d759ab]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-712358e5b5ee0b04cc6ac6c830d759ab]: Commencement: Reg. 78 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-712358e5b5ee0b04cc6ac6c830d759ab]: Commencement: Reg. 78 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -42,7 +42,7 @@ summary: ''
 - (a) the aggregate of the amounts which, at the time, have been authorised by virtue of sections 125 and 126 to be paid to that person, or for use pursuant to that enactment, in that financial year, or
 - (b) (if none have) the aggregate of the amounts which were so authorised to be paid to that person, or for use pursuant to that enactment, in the immediately preceding financial year.
 
-(6) The use of resources, or the payment of amounts, authorised by the Welsh Ministers in accordance with this section is deemed to have been authorised by a Budget resolution of the Senedd[^key-60edd79c70d763519861630d1afb7962] .
+(6) The use of resources, or the payment of amounts, authorised by the Welsh Ministers in accordance with this section is deemed to have been authorised by a Budget resolution of the Senedd[^c-60edd79c70d763519861630d1afb7962] .
 
 (7) Where the Welsh Ministers authorise the use of resources or the payment of amounts under this section, they must, as soon as possible, lay before the Senedd a report setting out—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

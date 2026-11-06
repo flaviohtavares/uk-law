@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Registered designs: minor and consequential amendments of 1949 Act[^c13762491][^key-df8ce35620e9a84f99e065b593d6a623]
+## SCHEDULE 3 — Registered designs: minor and consequential amendments of 1949 Act[^c13762491][^c-df8ce35620e9a84f99e065b593d6a623]
 
 *Extent: E+W+S+N.I.*
 
@@ -452,7 +452,7 @@ Section 272.
 
 [^c13762491]: Modification: Sch. 3 extended (with modifications) (Isle of Man) (9.12.2001) by [S.I. 2001/3678](https://www.legislation.gov.uk/uksi/2001/3678), [art. 3](https://www.legislation.gov.uk/uksi/2001/3678/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/3678/schedule/3)
 
-[^key-df8ce35620e9a84f99e065b593d6a623]: Modification: Sch. 3 extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/2)
+[^c-df8ce35620e9a84f99e065b593d6a623]: Modification: Sch. 3 extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/2)
 
 [^c13762511]: Textual amendment: Sch. 3 para. 1 repealed (9.12.2001) by [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [reg. 9(2)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/9/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3949/schedule/2) (with transitional provisions in [regs. 10-14](https://www.legislation.gov.uk/uksi/2001/3949/regulation/10))
 

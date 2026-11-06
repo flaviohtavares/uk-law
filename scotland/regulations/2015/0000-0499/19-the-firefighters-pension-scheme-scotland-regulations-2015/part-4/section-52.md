@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Establishment of survivor member’s account[^key-91846168ed89b68ef2692c274c1a2efc]
+## 52. Establishment of survivor member’s account[^c-91846168ed89b68ef2692c274c1a2efc]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91846168ed89b68ef2692c274c1a2efc]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2015/19/regulation/52) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-91846168ed89b68ef2692c274c1a2efc]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2015/19/regulation/52) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

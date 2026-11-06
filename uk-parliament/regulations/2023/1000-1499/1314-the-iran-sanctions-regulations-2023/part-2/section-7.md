@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Conditions for the designation of persons by description[^key-47bf3f082fe9ea99cb72a7071c1b7459]
+## 7. Conditions for the designation of persons by description[^c-47bf3f082fe9ea99cb72a7071c1b7459]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47bf3f082fe9ea99cb72a7071c1b7459]: Commencement: Reg. 7 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-47bf3f082fe9ea99cb72a7071c1b7459]: Commencement: Reg. 7 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

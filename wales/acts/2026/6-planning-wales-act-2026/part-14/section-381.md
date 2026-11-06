@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 381. Power to correct correctable errors in decision documents[^key-5820fd81de8435d16047dc62a1785392]
+## 381. Power to correct correctable errors in decision documents[^c-5820fd81de8435d16047dc62a1785392]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ and it does not matter whether any such application is actually made.
 
 ## Annotations
 
-[^key-5820fd81de8435d16047dc62a1785392]: Commencement: S. 381 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5820fd81de8435d16047dc62a1785392]: Commencement: S. 381 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -33,7 +33,7 @@ summary: ''
 
 FOOD
 
-The Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-9f75056edb431e3f22705aa9d802524c]
+The Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-9f75056edb431e3f22705aa9d802524c]
 
 Made
 
@@ -43,28 +43,28 @@ Coming into operation
 
 14th March 2005
 
-[^key-9f75056edb431e3f22705aa9d802524c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f75056edb431e3f22705aa9d802524c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9f75056edb431e3f22705aa9d802524c]
+## 1. Citation, commencement and interpretation[^c-9f75056edb431e3f22705aa9d802524c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9f75056edb431e3f22705aa9d802524c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9f75056edb431e3f22705aa9d802524c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995[^key-9f75056edb431e3f22705aa9d802524c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Consequential amendment[^key-9f75056edb431e3f22705aa9d802524c]
+## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995[^c-9f75056edb431e3f22705aa9d802524c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f75056edb431e3f22705aa9d802524c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 4. Consequential amendment[^c-9f75056edb431e3f22705aa9d802524c]
 
-[^key-9f75056edb431e3f22705aa9d802524c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9f75056edb431e3f22705aa9d802524c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9f75056edb431e3f22705aa9d802524c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f75056edb431e3f22705aa9d802524c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/35) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-9f75056edb431e3f22705aa9d802524c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/35) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

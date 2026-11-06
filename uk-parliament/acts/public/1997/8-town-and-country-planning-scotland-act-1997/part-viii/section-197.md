@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 197. Provisions as to churches and burial grounds.[^key-7bab6f1b3f066420313ab4ff69d8bb58]
+## 197. Provisions as to churches and burial grounds.[^c-7bab6f1b3f066420313ab4ff69d8bb58]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ subsection (1) shall apply with the omission of paragraph (a) and, in paragraph 
 
 ## Annotations
 
-[^key-7bab6f1b3f066420313ab4ff69d8bb58]: Modification: S. 197 applied (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 4 para. 4(5)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/4/5)[(6)(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/4/6/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7bab6f1b3f066420313ab4ff69d8bb58]: Modification: S. 197 applied (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 4 para. 4(5)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/4/5)[(6)(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/4/6/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c950198]: Marginal citation: [1997 c. 9](https://www.legislation.gov.uk/ukpga/1997/9).
 

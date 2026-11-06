@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Regulations 34 to 37: procedure and right to refer to Tribunal[^key-d77f2c34e869d2103de6044eb8a62d56]
+## 38. Regulations 34 to 37: procedure and right to refer to Tribunal[^c-d77f2c34e869d2103de6044eb8a62d56]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ it must give that person written notice.
 
 ## Annotations
 
-[^key-d77f2c34e869d2103de6044eb8a62d56]: Commencement: Reg. 38 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-d77f2c34e869d2103de6044eb8a62d56]: Commencement: Reg. 38 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

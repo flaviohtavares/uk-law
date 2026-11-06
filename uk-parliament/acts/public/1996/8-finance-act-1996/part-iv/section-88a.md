@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Accounting method where rate of interest is reset[^key-75aa42762d40a40c3dda9dfc0fe9598f]
+## 88A. Accounting method where rate of interest is reset[^c-75aa42762d40a40c3dda9dfc0fe9598f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75aa42762d40a40c3dda9dfc0fe9598f]: Textual amendment: [S. 88A](https://www.legislation.gov.uk/ukpga/1996/8/section/88A) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 415](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/415), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-75aa42762d40a40c3dda9dfc0fe9598f]: Textual amendment: [S. 88A](https://www.legislation.gov.uk/ukpga/1996/8/section/88A) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 415](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/415), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

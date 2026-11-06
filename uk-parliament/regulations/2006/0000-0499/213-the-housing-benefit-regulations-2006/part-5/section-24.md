@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Patients[^key-cbc374c0140cfce42d2ac780550bb0ce]
+## 24. Patients[^c-cbc374c0140cfce42d2ac780550bb0ce]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbc374c0140cfce42d2ac780550bb0ce]: Textual amendment: Reg. 24 omitted by virtue of S.I. 2005/2502, reg. 2(4) (as amended) (3.4.2006) by virtue of [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(5)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-cbc374c0140cfce42d2ac780550bb0ce]: Textual amendment: Reg. 24 omitted by virtue of S.I. 2005/2502, reg. 2(4) (as amended) (3.4.2006) by virtue of [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(5)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

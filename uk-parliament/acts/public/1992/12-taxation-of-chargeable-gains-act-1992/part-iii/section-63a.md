@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Death: application of law in Northern Ireland[^key-aff3cd3dc4091bacb9390758370247ea]
+## 63A. Death: application of law in Northern Ireland[^c-aff3cd3dc4091bacb9390758370247ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aff3cd3dc4091bacb9390758370247ea]: Textual amendment: S. 63A inserted (with effect in accordance with Sch. 12 para. 11(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 11(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/11/2)
+[^c-aff3cd3dc4091bacb9390758370247ea]: Textual amendment: S. 63A inserted (with effect in accordance with Sch. 12 para. 11(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 11(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/11/2)

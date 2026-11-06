@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Dropping of articles and animals[^key-0baa5c9afdacd12f48a4a623715ec9b5]
+## 130. Dropping of articles and animals[^c-0baa5c9afdacd12f48a4a623715ec9b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0baa5c9afdacd12f48a4a623715ec9b5]: Commencement: [Art. 130](https://www.legislation.gov.uk/uksi/2013/2870/article/130) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-0baa5c9afdacd12f48a4a623715ec9b5]: Commencement: [Art. 130](https://www.legislation.gov.uk/uksi/2013/2870/article/130) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

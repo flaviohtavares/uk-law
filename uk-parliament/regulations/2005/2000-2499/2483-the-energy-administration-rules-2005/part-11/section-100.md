@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Use of affidavit evidence[^key-56b08395d6e6f0aecdf7fa53ae832577]
+## 100. Use of affidavit evidence[^c-56b08395d6e6f0aecdf7fa53ae832577]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56b08395d6e6f0aecdf7fa53ae832577]: Commencement: Rule 100 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-56b08395d6e6f0aecdf7fa53ae832577]: Commencement: Rule 100 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

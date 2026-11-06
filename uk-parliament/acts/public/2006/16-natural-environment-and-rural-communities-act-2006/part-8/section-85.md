@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Supplementary provisions with respect to agreements[^key-bb0a424042b1ce30153001e2b975b257]
+## 85. Supplementary provisions with respect to agreements[^c-bb0a424042b1ce30153001e2b975b257]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0a424042b1ce30153001e2b975b257]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2006/16/section/85) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-bb0a424042b1ce30153001e2b975b257]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2006/16/section/85) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

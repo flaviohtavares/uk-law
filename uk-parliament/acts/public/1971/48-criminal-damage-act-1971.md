@@ -130,12 +130,12 @@ the justice may grant a warrant authorising any constable to search for and seiz
 
 *Extent: E+W*
 
-A person shall not be excused, by reason that to do so may incriminate that person or the spouse or civil partner[^key-eb2494566323fc94dbbeb9962d727366] of that person of an offence under this Act—
+A person shall not be excused, by reason that to do so may incriminate that person or the spouse or civil partner[^c-eb2494566323fc94dbbeb9962d727366] of that person of an offence under this Act—
 
 - (a) from answering any question put to that person in proceedings for the recovery or administration of any property, for the execution of any trust or for an account of any property or dealings with property; or
 - (b) from complying with any order made in any such proceedings;
 
-but no statement or admission made by a person in answering a question put or complying with an order made as aforesaid shall, in proceedings for an offence under this Act, be admissible in evidence against that person or (unless they married or became civil partners after the making of the statement or admission) against the spouse or civil partner[^key-f131a71ca05237f4efcf201a05d2dcda] of that person.
+but no statement or admission made by a person in answering a question put or complying with an order made as aforesaid shall, in proceedings for an offence under this Act, be admissible in evidence against that person or (unless they married or became civil partners after the making of the statement or admission) against the spouse or civil partner[^c-f131a71ca05237f4efcf201a05d2dcda] of that person.
 
 ## 10. Interpretation.
 
@@ -158,7 +158,7 @@ For the purposes of this subsection “**mushroom**” includes any fungus and �
 
 (4) Property of a corporation sole shall be so treated as belonging to the corporation notwithstanding a vacancy in the corporation.
 
-(5)[^key-cb55f2412aeded95c2a4a0effba43c77] For the purposes of this Act a modification of the contents of a computer shall not be regarded as damaging any computer or computer storage medium unless its effect on that computer or computer storage medium impairs its physical condition.
+(5)[^c-cb55f2412aeded95c2a4a0effba43c77] For the purposes of this Act a modification of the contents of a computer shall not be regarded as damaging any computer or computer storage medium unless its effect on that computer or computer storage medium impairs its physical condition.
 
 ## 11. Minor and consequential changes in existing law, and repeals.
 
@@ -290,11 +290,11 @@ Sections 11 and 12.
 
 [^c818265]: Textual amendment: [Ss. 7(1)](https://www.legislation.gov.uk/ukpga/1971/48/section/7/1), [8](https://www.legislation.gov.uk/ukpga/1971/48/section/8) repealed by [Criminal Justice Act 1972 (c. 71)](https://www.legislation.gov.uk/ukpga/1972/71), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1972/71/schedule/6/part/II)
 
-[^key-eb2494566323fc94dbbeb9962d727366]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1971/48/section/9) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 36(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/36/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-eb2494566323fc94dbbeb9962d727366]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1971/48/section/9) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 36(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/36/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
-[^key-f131a71ca05237f4efcf201a05d2dcda]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1971/48/section/9) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 36(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/36/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-f131a71ca05237f4efcf201a05d2dcda]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1971/48/section/9) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 36(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/36/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
-[^key-cb55f2412aeded95c2a4a0effba43c77]: Textual amendment: [S. 10(5)](https://www.legislation.gov.uk/ukpga/1971/48/section/10/5) inserted (1.10.2008 for E.W.N.I.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/c)
+[^c-cb55f2412aeded95c2a4a0effba43c77]: Textual amendment: [S. 10(5)](https://www.legislation.gov.uk/ukpga/1971/48/section/10/5) inserted (1.10.2008 for E.W.N.I.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/c)
 
 [^c818278]: Textual amendment: [S. 11(2)(3)(5)](https://www.legislation.gov.uk/ukpga/1971/48/section/11/2/3/5) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/I) Group1.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G3. Employees of probation committees[^key-48d6707adb37b8d29bba18ae3b42bdf5]
+## G3. Employees of probation committees[^c-48d6707adb37b8d29bba18ae3b42bdf5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In their application to a person employed by a probation committee these regulat
 
 ## Annotations
 
-[^key-48d6707adb37b8d29bba18ae3b42bdf5]: Commencement: [Reg. G3](https://www.legislation.gov.uk/uksi/1986/24/regulation/G3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-48d6707adb37b8d29bba18ae3b42bdf5]: Commencement: [Reg. G3](https://www.legislation.gov.uk/uksi/1986/24/regulation/G3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

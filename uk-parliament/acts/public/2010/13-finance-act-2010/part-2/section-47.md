@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Apportionment of asset value increases[^key-032aee3decfb220b957de43ce16aed7c]
+## 47. Apportionment of asset value increases[^c-032aee3decfb220b957de43ce16aed7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-032aee3decfb220b957de43ce16aed7c]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/2010/13/section/47) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(u)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/u)
+[^c-032aee3decfb220b957de43ce16aed7c]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/2010/13/section/47) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(u)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/u)

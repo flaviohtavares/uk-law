@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. Duration and effect of stop notice[^key-e5f92b567803715b50f161a0e4a432df]
+## 149. Duration and effect of stop notice[^c-e5f92b567803715b50f161a0e4a432df]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5f92b567803715b50f161a0e4a432df]: Commencement: S. 149 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e5f92b567803715b50f161a0e4a432df]: Commencement: S. 149 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

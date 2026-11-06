@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Crown land[^key-564af99422398df746b5760a48d5345e][^key-502133e17b88783762ca8c05b5f6cbcc]
+## 74. Crown land[^c-564af99422398df746b5760a48d5345e][^c-502133e17b88783762ca8c05b5f6cbcc]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ without the agreement of the appropriate Crown authority.
 
 ## Annotations
 
-[^key-564af99422398df746b5760a48d5345e]: Commencement: S. 74 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-564af99422398df746b5760a48d5345e]: Commencement: S. 74 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-502133e17b88783762ca8c05b5f6cbcc]: Commencement: [S. 74](https://www.legislation.gov.uk/asc/2023/3/section/74) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-502133e17b88783762ca8c05b5f6cbcc]: Commencement: [S. 74](https://www.legislation.gov.uk/asc/2023/3/section/74) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -35,22 +35,22 @@ amending Decision 2013/162/EU to revise Member States' annual emission allocatio
 
 *(notified under document C(2017) 5556)* (revoked)
 
-[^key-011c8aa8510dd3215c48f9d0743488d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-011c8aa8510dd3215c48f9d0743488d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-011c8aa8510dd3215c48f9d0743488d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-011c8aa8510dd3215c48f9d0743488d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-011c8aa8510dd3215c48f9d0743488d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-011c8aa8510dd3215c48f9d0743488d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-011c8aa8510dd3215c48f9d0743488d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-011c8aa8510dd3215c48f9d0743488d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-011c8aa8510dd3215c48f9d0743488d2]
+## ANNEX[^c-011c8aa8510dd3215c48f9d0743488d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-011c8aa8510dd3215c48f9d0743488d2]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-011c8aa8510dd3215c48f9d0743488d2]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

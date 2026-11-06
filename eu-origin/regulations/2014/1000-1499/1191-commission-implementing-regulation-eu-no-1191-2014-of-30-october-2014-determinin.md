@@ -60,7 +60,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.**[^c000001] 1. The reports required in accordance with Article 19 of Regulation (EU) No 517/2014 shall be submitted electronically using the reporting tool based on the format set out in the Annex to this Regulation which is made available on the website of the appropriate regulator[^key-ffb4f49071d9472bb4c5076dfc03928e] for that purpose.
+**Article 1.**[^c000001] 1. The reports required in accordance with Article 19 of Regulation (EU) No 517/2014 shall be submitted electronically using the reporting tool based on the format set out in the Annex to this Regulation which is made available on the website of the appropriate regulator[^c-ffb4f49071d9472bb4c5076dfc03928e] for that purpose.
 
 2. Prior to carrying out the activities to be reported under Article 19 of Regulation (EU) No 517/2014, any undertaking shall register on the website of the appropriate regulator for using the electronic reporting tool.
 
@@ -68,7 +68,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 3.** This Regulation shall enter into force on the 20th day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-8130972f1e53dd52e38a50a030fa0b21]...
+[^c-8130972f1e53dd52e38a50a030fa0b21]...
 
 ## ANNEX — GENERAL EXPLANATIONS
 
@@ -111,7 +111,7 @@ Quantities shall be reported in metric tonnes with accuracy to the third decimal
 </tbody>
 </table>
 
-[^c000002][^key-f923db043d3c2989175c3e9a3a002bdf][^key-27a9c60af5f1aa5e504baa3d64f26903]
+[^c000002][^c-f923db043d3c2989175c3e9a3a002bdf][^c-27a9c60af5f1aa5e504baa3d64f26903]
 
 **Section 2:**
 
@@ -121,7 +121,7 @@ Applicable for the first time to reporting on activities carried out in 2014 (by
 
 Quantities shall be reported in metric tonnes with accuracy to the third decimal place, separately for each gas listed in Annex I or Annex II to Regulation (EU) No 517/2014, for mixtures containing at least one of those gases or for each gas or mixture contained in imported pre-blended polyols. For the first time for the reporting on activities in 2019, quantities of hydrofluorocarbons shall be reported separately for each country of origin, except where indicated otherwise in the table below.[^c000003]
 
-Only bulk imports shall be reported here, including quantities shipped alongside equipment for the purpose of charging that equipment after import, but not quantities contained in equipment. Imports of gases contained in products or equipment shall be reported in reporting section 11. All imports shall be reported, except imports for transit through the territory of Great Britain or imports under other procedures that allow for a temporary movement of the goods on the territory of Great Britain provided that in the latter case the goods remain no longer than 45 days on the territory of Great Britain.[^key-4b27b25b2bca07e9841827aad795f056]
+Only bulk imports shall be reported here, including quantities shipped alongside equipment for the purpose of charging that equipment after import, but not quantities contained in equipment. Imports of gases contained in products or equipment shall be reported in reporting section 11. All imports shall be reported, except imports for transit through the territory of Great Britain or imports under other procedures that allow for a temporary movement of the goods on the territory of Great Britain provided that in the latter case the goods remain no longer than 45 days on the territory of Great Britain.[^c-4b27b25b2bca07e9841827aad795f056]
 
 <table>
 <tbody>
@@ -218,7 +218,7 @@ Quantities shall be reported in metric tonnes with accuracy to the third decimal
 
 **Section 6:**
 
-**Categories of application of gases for the market[^key-0228776e3d36349311b3032a00fd6a8d], to be filled in by producers and importers of gases — Article 19(1) and (2) of Regulation (EU) No 517/2014 and points 1(a), and 2(a) of Annex VII to Regulation (EU) No 517/2014**
+**Categories of application of gases for the market[^c-0228776e3d36349311b3032a00fd6a8d], to be filled in by producers and importers of gases — Article 19(1) and (2) of Regulation (EU) No 517/2014 and points 1(a), and 2(a) of Annex VII to Regulation (EU) No 517/2014**
 
 Applicable for the first time to reporting on activities carried out in 2014 (by 31 March 2015 at the latest).
 
@@ -280,7 +280,7 @@ The total quantities destroyed by the reporting undertaking themselves are to be
 
 Undertakings which are importers of hydrofluorocarbons (gases listed in Section 1 of Annex I to Regulation (EU) No 517/2014 or mixture containing at least one of those gases) shall report the quantities of its imports which have been destroyed, in reporting section 5.
 
-Quantities sent for destruction to other undertakings in Great Britain[^key-b3a1f495750154a72741c9697540618b] shall not be reported here. Quantities exported for destruction outside Great Britain shall be reported in 3F.
+Quantities sent for destruction to other undertakings in Great Britain[^c-b3a1f495750154a72741c9697540618b] shall not be reported here. Quantities exported for destruction outside Great Britain shall be reported in 3F.
 
 |  | **INFORMATION TO BE REPORTED** | **COMMENTS** |
 | --- | --- | --- |
@@ -466,25 +466,25 @@ Quantities shall be reported in metric tonnes with accuracy to the third decimal
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2017/1375 of 25 July 2017 amending Implementing Regulation (EU) No 1191/2014 determining the format and means for submitting the report referred to in Article 19 of Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases](https://www.legislation.gov.uk/eur/2017/1375).
 
-[^key-ffb4f49071d9472bb4c5076dfc03928e]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2014/1191/article/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [66(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffb4f49071d9472bb4c5076dfc03928e]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2014/1191/article/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [66(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8130972f1e53dd52e38a50a030fa0b21]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/1191/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [66(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8130972f1e53dd52e38a50a030fa0b21]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/1191/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [66(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2019/522 of 27 March 2019 amending Implementing Regulation (EU) No 1191/2014 as regards the reporting of data on production and on imports and exports of polyols containing hydrofluorocarbons pursuant to Article 19 of Regulation (EU) No 517/2014](https://www.legislation.gov.uk/eur/2019/522).
 
-[^key-f923db043d3c2989175c3e9a3a002bdf]: Textual amendment: Words in Annex substituted (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [reg. 66(4)(a)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/4/a) (as substituted by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(32)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/32))
+[^c-f923db043d3c2989175c3e9a3a002bdf]: Textual amendment: Words in Annex substituted (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [reg. 66(4)(a)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/4/a) (as substituted by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(32)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/32))
 
-[^key-27a9c60af5f1aa5e504baa3d64f26903]: Textual amendment: Words in Annex s. 1 table substituted (E.W.S.) (25.5.2021) by [The Fluorinated Greenhouse Gases (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/543)](https://www.legislation.gov.uk/uksi/2021/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/543/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/543/regulation/2/2/a)
+[^c-27a9c60af5f1aa5e504baa3d64f26903]: Textual amendment: Words in Annex s. 1 table substituted (E.W.S.) (25.5.2021) by [The Fluorinated Greenhouse Gases (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/543)](https://www.legislation.gov.uk/uksi/2021/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/543/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/543/regulation/2/2/a)
 
 [^c000003]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2017/1375 of 25 July 2017 amending Implementing Regulation (EU) No 1191/2014 determining the format and means for submitting the report referred to in Article 19 of Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases](https://www.legislation.gov.uk/eur/2017/1375).
 
-[^key-4b27b25b2bca07e9841827aad795f056]: Textual amendment: Words in Annex s. 2 substituted (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [reg. 66(4)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/4/b) (as substituted by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(32)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/32))
+[^c-4b27b25b2bca07e9841827aad795f056]: Textual amendment: Words in Annex s. 2 substituted (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [reg. 66(4)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/66/4/b) (as substituted by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(32)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/32))
 
 [^c000004]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2019/522 of 27 March 2019 amending Implementing Regulation (EU) No 1191/2014 as regards the reporting of data on production and on imports and exports of polyols containing hydrofluorocarbons pursuant to Article 19 of Regulation (EU) No 517/2014](https://www.legislation.gov.uk/eur/2019/522).
 
-[^key-0228776e3d36349311b3032a00fd6a8d]: Textual amendment: Word in [Annex s. 6](https://www.legislation.gov.uk/eur/2014/1191/annex/section/6) heading substituted (E.W.S.) (25.5.2021) by [The Fluorinated Greenhouse Gases (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/543)](https://www.legislation.gov.uk/uksi/2021/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/543/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/543/regulation/2/2/b)
+[^c-0228776e3d36349311b3032a00fd6a8d]: Textual amendment: Word in [Annex s. 6](https://www.legislation.gov.uk/eur/2014/1191/annex/section/6) heading substituted (E.W.S.) (25.5.2021) by [The Fluorinated Greenhouse Gases (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/543)](https://www.legislation.gov.uk/uksi/2021/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/543/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/543/regulation/2/2/b)
 
-[^key-b3a1f495750154a72741c9697540618b]: Textual amendment: Words in [Annex s. 8](https://www.legislation.gov.uk/eur/2014/1191/annex/section/8) substituted (E.W.S.) (25.5.2021) by [The Fluorinated Greenhouse Gases (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/543)](https://www.legislation.gov.uk/uksi/2021/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/543/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/543/regulation/2/2/c)
+[^c-b3a1f495750154a72741c9697540618b]: Textual amendment: Words in [Annex s. 8](https://www.legislation.gov.uk/eur/2014/1191/annex/section/8) substituted (E.W.S.) (25.5.2021) by [The Fluorinated Greenhouse Gases (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/543)](https://www.legislation.gov.uk/uksi/2021/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/543/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/543/regulation/2/2/c)
 
 [^c000005]: Textual amendment: Deleted by [Commission Implementing Regulation (EU) 2017/1375 of 25 July 2017 amending Implementing Regulation (EU) No 1191/2014 determining the format and means for submitting the report referred to in Article 19 of Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases](https://www.legislation.gov.uk/eur/2017/1375).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Local toilets strategies: consultation[^key-dc66e27f28db2cdf96af9ff32988837e]
+## 115. Local toilets strategies: consultation[^c-dc66e27f28db2cdf96af9ff32988837e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc66e27f28db2cdf96af9ff32988837e]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2017/2/section/115) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)
+[^c-dc66e27f28db2cdf96af9ff32988837e]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2017/2/section/115) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)

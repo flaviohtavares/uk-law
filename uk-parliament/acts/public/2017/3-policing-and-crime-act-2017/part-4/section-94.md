@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Maritime enforcement powers: code of practice[^c22719301][^key-07815e8859897663ddfd8b14b69f9d5e]
+## 94. Maritime enforcement powers: code of practice[^c22719301][^c-07815e8859897663ddfd8b14b69f9d5e]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c22719301]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2017/3/section/94) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-07815e8859897663ddfd8b14b69f9d5e]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2017/3/section/94) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-07815e8859897663ddfd8b14b69f9d5e]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2017/3/section/94) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

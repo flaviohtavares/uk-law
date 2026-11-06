@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Welfare Supplementary Payment Regulations (Northern Ireland) 2016[^key-089f8b7146f0cdbdc0ddd85d8cff8297]
+## 114. Welfare Supplementary Payment Regulations (Northern Ireland) 2016[^c-089f8b7146f0cdbdc0ddd85d8cff8297]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ In the Welfare Supplementary Payment Regulations (Northern Ireland) 2016[^f00179
 
 ## Annotations
 
-[^key-089f8b7146f0cdbdc0ddd85d8cff8297]: Commencement: Reg. 114 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-089f8b7146f0cdbdc0ddd85d8cff8297]: Commencement: Reg. 114 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00179]: Footnote: [S.R. (N.I.) 2016/178](https://www.legislation.gov.uk/nisr/2016/178).

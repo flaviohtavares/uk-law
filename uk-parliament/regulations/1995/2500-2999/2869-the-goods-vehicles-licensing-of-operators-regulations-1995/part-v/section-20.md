@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Provisions about inquiries[^key-af1f5d40267324ddd2224e429f397cd3]
+## 20. Provisions about inquiries[^c-af1f5d40267324ddd2224e429f397cd3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 4 shall have effect in relation to any inquiry held by a traffic commis
 
 ## Annotations
 
-[^key-af1f5d40267324ddd2224e429f397cd3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1995/2869/regulation/20) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-af1f5d40267324ddd2224e429f397cd3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1995/2869/regulation/20) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

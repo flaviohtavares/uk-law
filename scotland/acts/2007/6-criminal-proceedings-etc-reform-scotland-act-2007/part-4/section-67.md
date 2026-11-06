@@ -29,7 +29,7 @@ summary: ''
 (4) However, a JP—
 
 - (a) may resign from office by giving notice to the Scottish Ministers,
-- (b)[^key-a9c9aa1eab2aa06bec38cebd194a2e0f] ceases to hold office when the JP retires from office.
+- (b)[^c-a9c9aa1eab2aa06bec38cebd194a2e0f] ceases to hold office when the JP retires from office.
 
 (5) In making appointments of JPs, except—
 
@@ -58,6 +58,6 @@ the Scottish Ministers must comply with such provision as to procedure and consu
 
 [^c21031661]: Commencement: S. 67 wholly in force at 10.12.2007; s. 67 not in force at Royal Assent, see s. 84; s. 67(5)(6) in force at 23.4.2007 by [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250), [art. 3](https://www.legislation.gov.uk/ssi/2007/250/article/3); s. 67(1)-(4)(7)(8) in force at 10.12.2007 by [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule)
 
-[^key-a9c9aa1eab2aa06bec38cebd194a2e0f]: Textual amendment: [S. 67(4)(b)](https://www.legislation.gov.uk/asp/2007/6/section/67/4/b) substituted (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/155/article/4/2)
+[^c-a9c9aa1eab2aa06bec38cebd194a2e0f]: Textual amendment: [S. 67(4)(b)](https://www.legislation.gov.uk/asp/2007/6/section/67/4/b) substituted (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/155/article/4/2)
 
 [^c21031671]: Textual amendment: S. 67(9) added (10.12.2007) by [The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Incidental, Supplemental and Consequential Provisions) Order 2007 (S.S.I. 2007/540)](https://www.legislation.gov.uk/ssi/2007/540), [art. 5](https://www.legislation.gov.uk/ssi/2007/540/article/5)

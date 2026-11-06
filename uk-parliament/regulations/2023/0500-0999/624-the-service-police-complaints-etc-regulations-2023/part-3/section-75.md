@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Inspections of service police premises on behalf of the Commissioner[^key-ee5f3732e44e864d3ec1fd4ccb18a0ee]
+## 75. Inspections of service police premises on behalf of the Commissioner[^c-ee5f3732e44e864d3ec1fd4ccb18a0ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the obligation to secure that the required access is allowed has effect as an ob
 
 ## Annotations
 
-[^key-ee5f3732e44e864d3ec1fd4ccb18a0ee]: Commencement: Reg. 75 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-ee5f3732e44e864d3ec1fd4ccb18a0ee]: Commencement: Reg. 75 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

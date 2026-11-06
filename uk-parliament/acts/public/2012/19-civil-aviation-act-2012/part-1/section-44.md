@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amount of penalty: fixed amount[^key-80f8ad46ebf44a5fc21d552ef5615503]
+## 44. Amount of penalty: fixed amount[^c-80f8ad46ebf44a5fc21d552ef5615503]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80f8ad46ebf44a5fc21d552ef5615503]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2012/19/section/44) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-80f8ad46ebf44a5fc21d552ef5615503]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2012/19/section/44) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

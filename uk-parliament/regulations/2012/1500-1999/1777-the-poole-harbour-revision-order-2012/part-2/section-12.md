@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. General directions to vessels[^key-24947e2ea5de79062dfacd319ca762b4]
+## 12. General directions to vessels[^c-24947e2ea5de79062dfacd319ca762b4]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24947e2ea5de79062dfacd319ca762b4]: Commencement: Art. 12 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-24947e2ea5de79062dfacd319ca762b4]: Commencement: Art. 12 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

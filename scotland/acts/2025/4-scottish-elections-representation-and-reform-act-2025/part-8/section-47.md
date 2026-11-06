@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Application of this Part[^key-0d0f73e3382950ec47dd0ae469b9232f][^key-2b6927fd685b0b9805bbd75f1068cfc4]
+## 47. Application of this Part[^c-0d0f73e3382950ec47dd0ae469b9232f][^c-2b6927fd685b0b9805bbd75f1068cfc4]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d0f73e3382950ec47dd0ae469b9232f]: Commencement: S. 47 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-0d0f73e3382950ec47dd0ae469b9232f]: Commencement: S. 47 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-2b6927fd685b0b9805bbd75f1068cfc4]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/4/section/47) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-2b6927fd685b0b9805bbd75f1068cfc4]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/4/section/47) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Duty to comply with security requirements[^key-84b62625ab15bb457d570b3b284ecd41][^key-e5c9ef5aded8324cfb386b71f869b0a2]
+## 8. Duty to comply with security requirements[^c-84b62625ab15bb457d570b3b284ecd41][^c-e5c9ef5aded8324cfb386b71f869b0a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84b62625ab15bb457d570b3b284ecd41]: Commencement: S. 8 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-84b62625ab15bb457d570b3b284ecd41]: Commencement: S. 8 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-e5c9ef5aded8324cfb386b71f869b0a2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/46/section/8) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-e5c9ef5aded8324cfb386b71f869b0a2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/46/section/8) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

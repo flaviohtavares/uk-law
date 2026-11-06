@@ -100,7 +100,7 @@ Any person employed by or under or acting on behalf of an enforcing authority pr
 - (a) the nature and correct use of the articles which are to be made available; and
 - (b) the risks associated with the transport, storage and use of such articles.
 
-(2) The training referred to in paragraphs 1(1)(a), 2(1)(a) and 3(1)(a) includes such training recognised in the relevant business, profession or industry of any relevant state[^key-897169e2f3381f7d846801316d644c2c].
+(2) The training referred to in paragraphs 1(1)(a), 2(1)(a) and 3(1)(a) includes such training recognised in the relevant business, profession or industry of any relevant state[^c-897169e2f3381f7d846801316d644c2c].
 
 (3) The use of articles referred to in paragraphs 1(1)(b), 2(1)(b) and 3(1)(b) includes the use anywhere in the world.
 
@@ -112,4 +112,4 @@ Any person employed by or under or acting on behalf of an enforcing authority pr
 
 [^M_E_8ac5ac07-07b9-4263-8d44-1fbd1dfcf904]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-897169e2f3381f7d846801316d644c2c]: Textual amendment: Words in [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/4/paragraph/5/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 7 para. 7(1)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/7/paragraph/7/1)
+[^c-897169e2f3381f7d846801316d644c2c]: Textual amendment: Words in [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/4/paragraph/5/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 7 para. 7(1)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/7/paragraph/7/1)

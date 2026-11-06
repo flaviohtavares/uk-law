@@ -123,12 +123,12 @@ Section 46
 - (a) for “or 279” substitute “ , 279 or 282A ”;
 - (b) for “or 266” substitute “ , 266 or 268A ”.
 
-(6)[^key-287a2f9777bc52350f754d934432289a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-287a2f9777bc52350f754d934432289a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 255C (extended sentence prisoners and those not suitable for automatic release)—
 
 - (a) for the heading, substitute “ Prisoners not suitable for automatic release ”;
-- (b)[^key-ff587a6e180f513fbfe74be4b5465e1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ff587a6e180f513fbfe74be4b5465e1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 258 (early release for fine defaulters etc), in subsection (3A), for “or 266” substitute “ , 266 or 268A ”.
 
@@ -1030,7 +1030,7 @@ Section 46
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**44.**[^key-83335f5773d3f4d88a023028bb94fdf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-83335f5773d3f4d88a023028bb94fdf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice Act 2003 (c. 44)
 
@@ -1726,13 +1726,13 @@ subsection (3) of that section continues to apply to the person despite that ame
 
 [^c24566291]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/6) in force at 29.6.2021 for specified purposes and otherwise prosp. see [s. 50(2)(v)(i)(3)(a)(h)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v/i/3/a/h)
 
-[^key-287a2f9777bc52350f754d934432289a]: Textual amendment: Sch. 13 para. 9(6) omitted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(d)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/d), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-287a2f9777bc52350f754d934432289a]: Textual amendment: Sch. 13 para. 9(6) omitted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(d)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/d), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
-[^key-ff587a6e180f513fbfe74be4b5465e1b]: Textual amendment: Sch. 13 para. 9(7)(b) omitted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(d)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/d), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-ff587a6e180f513fbfe74be4b5465e1b]: Textual amendment: Sch. 13 para. 9(7)(b) omitted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(d)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/d), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
 [^c24566311]: Commencement: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/12) in force at 30.4.2021 for specified purposes and otherwise prosp. see [s. 50(1)(i)(i)(3)(j)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i/i/3/j)
 
-[^key-83335f5773d3f4d88a023028bb94fdf4]: Textual amendment: [Sch. 13 para. 44](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/44) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/13)
+[^c-83335f5773d3f4d88a023028bb94fdf4]: Textual amendment: [Sch. 13 para. 44](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/44) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/13)
 
 [^c24569111]: Commencement: [Sch. 13 para. 45(1)-(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/45/1)(5)(6) in force at 30.4.2021, Sch. 13 para. 45(4) in force at 29.6.2021 see [s. 50(1)(i)(iv)(2)(v)(iii)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i/iv/2/v/iii)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Construction and maintenance of new, altered or diverted highways[^key-ee7e32aad8f6fb6dc86953d1e0b72b70]
+## 14. Construction and maintenance of new, altered or diverted highways[^c-ee7e32aad8f6fb6dc86953d1e0b72b70]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but for the purposes of such a defence it is not relevant that the Authority had
 
 ## Annotations
 
-[^key-ee7e32aad8f6fb6dc86953d1e0b72b70]: Commencement: Art. 14 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-ee7e32aad8f6fb6dc86953d1e0b72b70]: Commencement: Art. 14 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

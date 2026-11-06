@@ -293,7 +293,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 *Extent: S*
 
-#### CHAPTER 22 — COMPATIBILITY QUESTIONS AND DEVOLUTION ISSUES[^key-a62c50d2024c179c163077ce85cfe349]
+#### CHAPTER 22 — COMPATIBILITY QUESTIONS AND DEVOLUTION ISSUES[^c-a62c50d2024c179c163077ce85cfe349]
 
 *Extent: S*
 
@@ -316,7 +316,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 23.4 — Transmission of reference to European Court](part-6/section-23-4.md)
 - [Section 23.5 — Sist of appeal](part-6/section-23-5.md)
 
-#### CHAPTER 24 — STATUTORY INTERVENERS[^key-965ac394570a4f3cbdce43535e979032]
+#### CHAPTER 24 — STATUTORY INTERVENERS[^c-965ac394570a4f3cbdce43535e979032]
 
 *Extent: S*
 
@@ -555,6 +555,6 @@ Schedule 2 contains the forms referred to in rule 1.6.
 
 [^f00003]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-a62c50d2024c179c163077ce85cfe349]: Textual amendment: Ch. 22 substituted (16.7.2024) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Appeal Court Rules 2021 Amendment) (United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024) 2024 (S.S.I. 2024/195)](https://www.legislation.gov.uk/ssi/2024/195), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/3/2)
+[^c-a62c50d2024c179c163077ce85cfe349]: Textual amendment: Ch. 22 substituted (16.7.2024) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Appeal Court Rules 2021 Amendment) (United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024) 2024 (S.S.I. 2024/195)](https://www.legislation.gov.uk/ssi/2024/195), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/3/2)
 
-[^key-965ac394570a4f3cbdce43535e979032]: Textual amendment: [Ch. 24](https://www.legislation.gov.uk/ssi/2021/468/chapter/24) heading substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/3/2/a)
+[^c-965ac394570a4f3cbdce43535e979032]: Textual amendment: [Ch. 24](https://www.legislation.gov.uk/ssi/2021/468/chapter/24) heading substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/3/2/a)

@@ -128,7 +128,7 @@ Provided that no such committee shall consist entirely of persons who are not me
 
 (2) Nothing in sub-paragraph (1) above shall prevent SNH from doing anything that a committee, member or employee has been authorised to do.
 
-(3)[^key-da2c03e21dafa056db95b1e4784114d3] In sub-paragraph (1) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(3)[^c-da2c03e21dafa056db95b1e4784114d3] In sub-paragraph (1) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ### Documents
 
@@ -181,7 +181,7 @@ Provided that no such committee shall consist entirely of persons who are not me
 
 [^c1044451]: Commencement: Sch. 1 para. 17 wholly in force at 27.11.1991 see s. 28(2) and [S.I. 1991/2633](https://www.legislation.gov.uk/uksi/1991/2633), [art. 3](https://www.legislation.gov.uk/uksi/1991/2633/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2633/schedule)
 
-[^key-da2c03e21dafa056db95b1e4784114d3]: Textual amendment: [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/ukpga/1991/28/schedule/1/paragraph/17/3) added (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 41(3)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/41/3); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-da2c03e21dafa056db95b1e4784114d3]: Textual amendment: [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/ukpga/1991/28/schedule/1/paragraph/17/3) added (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 41(3)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/41/3); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c1044453]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1991/28/schedule/1/paragraph/18) repealed (1.8.1995) by [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/2), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/7/schedule/5) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3))
 

@@ -81,7 +81,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c627502], such of the provisions of this Act as relate to matters in respect of which the Parliament of Northern Ireland has power to make laws shall not extend to Northern Ireland.
 
-(5)[^key-0fcde75d064b1d84aa63d3f92afac798][^c627503] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0fcde75d064b1d84aa63d3f92afac798][^c627503] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) This Act, in so far as it relates to the [^c627504]Government Annuities Act 1929, shall extend to the Channel Islands and the Isle of Man, and the Royal Courts of the Channel Islands shall register it accordingly.
 
@@ -153,7 +153,7 @@ Section 34.[^c627512]
 
 [^c627502]: Textual amendment: Words repealed by [Finance Act 1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I)
 
-[^key-0fcde75d064b1d84aa63d3f92afac798]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/44/section/34/5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-0fcde75d064b1d84aa63d3f92afac798]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/44/section/34/5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c627503]: Modification: The text of s. 34(5) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

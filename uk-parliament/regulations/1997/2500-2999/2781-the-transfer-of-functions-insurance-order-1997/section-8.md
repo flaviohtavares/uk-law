@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Consequential amendments etc.[^key-937191f7511f99d0062322f7c2932b8a]
+## 8. Consequential amendments etc.[^c-937191f7511f99d0062322f7c2932b8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-937191f7511f99d0062322f7c2932b8a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1997/2781/article/8) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-937191f7511f99d0062322f7c2932b8a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1997/2781/article/8) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)

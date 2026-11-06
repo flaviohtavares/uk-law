@@ -37,7 +37,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Use of resources etc.
 
-#### 1. The Scottish Administration[^key-fb326660331288a169f91ca41588a40b]
+#### 1. The Scottish Administration[^c-fb326660331288a169f91ca41588a40b]
 
 (1) The Scottish Administration may use resources in financial year 2026/27 for the purposes specified in column 1 of schedule 1—
 
@@ -53,7 +53,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) The second condition is that the total accruing resources used in financial year 2026/27 for all purposes specified in column 1 does not exceed the total of the amounts specified in column 3.
 
-#### 2. Direct-funded bodies[^key-6d42abf9bacff886a7058e39f167c267]
+#### 2. Direct-funded bodies[^c-6d42abf9bacff886a7058e39f167c267]
 
 (1) A direct-funded body may use resources in financial year 2026/27 for the purposes specified in column 1 of schedule 2 in relation to the body.
 
@@ -61,13 +61,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Accruing resources may be used for those purposes up to the amounts specified in the corresponding entries in column 3 of that schedule.
 
-#### 3. Borrowing by statutory bodies[^key-7ae8001450b0f9f6966fbaf86f708f4b]
+#### 3. Borrowing by statutory bodies[^c-7ae8001450b0f9f6966fbaf86f708f4b]
 
 In schedule 3, the amounts set out in column 2 are the amounts specified for financial year 2026/27 for the purposes of the enactments listed in the corresponding entries in column 1 (which make provision as to the net borrowing of the statutory bodies mentioned in that column).
 
 ### The Scottish Consolidated Fund
 
-#### 4. Overall cash authorisations[^key-dc9acca287c4130955c4b7b16d2ddbc9]
+#### 4. Overall cash authorisations[^c-dc9acca287c4130955c4b7b16d2ddbc9]
 
 (1) For the purposes of section 4(2) of the PFA Act 2000, the overall cash authorisations for financial year 2026/27 are as follows.
 
@@ -78,7 +78,7 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 - (a) the Scottish Parliamentary Corporate Body, £150,096,000,
 - (b) Audit Scotland, £15,958,000.
 
-#### 5. Contingency payments[^key-c274978a57b4b6b018c83d1e14acc06d]
+#### 5. Contingency payments[^c-c274978a57b4b6b018c83d1e14acc06d]
 
 (1) This section applies where, in financial year 2026/27, it is proposed to pay out of the Scottish Consolidated Fund under section 65(1)(c) of the Scotland Act 1998—
 
@@ -100,7 +100,7 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 ## Part 2 — Financial year 2027/28
 
-### 6. Emergency arrangements[^key-c953f7af3ba0a1cb1c5c8e2ac7c03c70]
+### 6. Emergency arrangements[^c-c953f7af3ba0a1cb1c5c8e2ac7c03c70]
 
 (1) This section applies if, at the beginning of financial year 2027/28, there is no overall cash authorisation for that year for the purposes of section 4(2) of the PFA Act 2000.
 
@@ -124,7 +124,7 @@ of an amount determined under subsection (3).
 
 ### Amendment and repeal
 
-#### 7. Budget revision regulations[^key-c5eb0bc892d12dcd5e6ed446ca08e23b]
+#### 7. Budget revision regulations[^c-c5eb0bc892d12dcd5e6ed446ca08e23b]
 
 (1) The Scottish Ministers may by regulations amend—
 
@@ -133,13 +133,13 @@ of an amount determined under subsection (3).
 
 (2) Regulations under this section are subject to the affirmative procedure.
 
-#### 8. Repeal of spent provisions[^key-bfda1971469d1c6abecbaef7e1a8760b]
+#### 8. Repeal of spent provisions[^c-bfda1971469d1c6abecbaef7e1a8760b]
 
 Part 2 (financial year 2026/27) of the Budget (Scotland) Act 2025 is repealed.
 
 ### Final provisions
 
-#### 9. Interpretation[^key-082fef103f11ab39cce294f014157025]
+#### 9. Interpretation[^c-082fef103f11ab39cce294f014157025]
 
 (1) In this Act, the “**PFA Act 2000**” means the Public Finance and Accountability (Scotland) Act 2000.
 
@@ -149,15 +149,15 @@ Part 2 (financial year 2026/27) of the Budget (Scotland) Act 2025 is repealed.
 
 (4) Except where otherwise expressly provided, expressions used in this Act and in the PFA Act 2000 have the same meanings in this Act as they have in that Act.
 
-#### 10. Commencement[^key-94f80c856ba5f3c88cd5984ce334f3fd]
+#### 10. Commencement[^c-94f80c856ba5f3c88cd5984ce334f3fd]
 
 This Act comes into force on the day after Royal Assent.
 
-#### 11. Short title[^key-0263aee21dcb3d1fcaecd93d8e3c3912]
+#### 11. Short title[^c-0263aee21dcb3d1fcaecd93d8e3c3912]
 
 The short title of this Act is the Budget (Scotland) Act 2026.
 
-## Schedule 1 — The Scottish Administration[^key-e0ea706fd599d50ac714ee7cdfe59147]
+## Schedule 1 — The Scottish Administration[^c-e0ea706fd599d50ac714ee7cdfe59147]
 
 (introduced by section 1)
 
@@ -188,7 +188,7 @@ The short title of this Act is the Budget (Scotland) Act 2026.
 | 23\. For use by Consumer Scotland on: operational and administrative costs. | 4,550,000 | Nil |
 | **Total amount of resources** | **67,465,196,800** | **9,547,500,000** |
 
-## Schedule 2 — Direct-funded bodies[^key-53a9f33578d3786a762b9f78477a5e9b]
+## Schedule 2 — Direct-funded bodies[^c-53a9f33578d3786a762b9f78477a5e9b]
 
 (introduced by section 2)
 
@@ -197,7 +197,7 @@ The short title of this Act is the Budget (Scotland) Act 2026.
 | 1\. For use by the Scottish Parliamentary Corporate Body on: operational and administrative costs of the Scottish Parliament; payments in respect of the Commissioner for Ethical Standards in Public Life in Scotland, the Standards Commission for Scotland, the Scottish Public Services Ombudsman, the Scottish Information Commissioner, the Scottish Commission for Human Rights, the Commissioner for Children and Young People in Scotland, the Scottish Biometrics Commissioner, the Patient Safety Commissioner for Scotland, the Electoral Management Board for Scotland and the devolved Scottish functions of the Electoral Commission; any other payments relating to the Scottish Parliament. | 166,956,000 | 1,000,000 |
 | 2\. For use by Audit Scotland on: the exercise of its functions, including assistance and support to the Auditor General for Scotland and the Accounts Commission for Scotland; other audit work for public bodies; payment of pensions to former Local Government Ombudsmen and their staff. | 16,207,000 | 27,000,000 |
 
-## Schedule 3 — Borrowing by statutory bodies[^key-f9c02dcfe823031eaacb588e479d7216]
+## Schedule 3 — Borrowing by statutory bodies[^c-f9c02dcfe823031eaacb588e479d7216]
 
 (introduced by section 3)
 
@@ -211,30 +211,30 @@ The short title of this Act is the Budget (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-fb326660331288a169f91ca41588a40b]: Commencement: S. 1 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-fb326660331288a169f91ca41588a40b]: Commencement: S. 1 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-6d42abf9bacff886a7058e39f167c267]: Commencement: S. 2 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-6d42abf9bacff886a7058e39f167c267]: Commencement: S. 2 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-7ae8001450b0f9f6966fbaf86f708f4b]: Commencement: S. 3 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-7ae8001450b0f9f6966fbaf86f708f4b]: Commencement: S. 3 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-dc9acca287c4130955c4b7b16d2ddbc9]: Commencement: S. 4 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-dc9acca287c4130955c4b7b16d2ddbc9]: Commencement: S. 4 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-c274978a57b4b6b018c83d1e14acc06d]: Commencement: S. 5 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-c274978a57b4b6b018c83d1e14acc06d]: Commencement: S. 5 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-c953f7af3ba0a1cb1c5c8e2ac7c03c70]: Commencement: S. 6 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-c953f7af3ba0a1cb1c5c8e2ac7c03c70]: Commencement: S. 6 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-c5eb0bc892d12dcd5e6ed446ca08e23b]: Commencement: S. 7 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-c5eb0bc892d12dcd5e6ed446ca08e23b]: Commencement: S. 7 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-bfda1971469d1c6abecbaef7e1a8760b]: Commencement: S. 8 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-bfda1971469d1c6abecbaef7e1a8760b]: Commencement: S. 8 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-082fef103f11ab39cce294f014157025]: Commencement: S. 9 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-082fef103f11ab39cce294f014157025]: Commencement: S. 9 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-94f80c856ba5f3c88cd5984ce334f3fd]: Commencement: S. 10 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-94f80c856ba5f3c88cd5984ce334f3fd]: Commencement: S. 10 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-0263aee21dcb3d1fcaecd93d8e3c3912]: Commencement: S. 11 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-0263aee21dcb3d1fcaecd93d8e3c3912]: Commencement: S. 11 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-e0ea706fd599d50ac714ee7cdfe59147]: Commencement: Sch. 1 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-e0ea706fd599d50ac714ee7cdfe59147]: Commencement: Sch. 1 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-53a9f33578d3786a762b9f78477a5e9b]: Commencement: Sch. 2 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-53a9f33578d3786a762b9f78477a5e9b]: Commencement: Sch. 2 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
-[^key-f9c02dcfe823031eaacb588e479d7216]: Commencement: Sch. 3 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-f9c02dcfe823031eaacb588e479d7216]: Commencement: Sch. 3 in force at 1.4.2026, see [s. 10](https://www.legislation.gov.uk/asp/2026/8/section/10)

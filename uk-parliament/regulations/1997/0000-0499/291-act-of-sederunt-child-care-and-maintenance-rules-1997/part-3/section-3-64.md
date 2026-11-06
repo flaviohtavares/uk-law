@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.64. Hearing to consider the evidence[^key-f46866f50ff4d99d5cec6323e670c5d7]
+## 3.64. Hearing to consider the evidence[^c-f46866f50ff4d99d5cec6323e670c5d7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f46866f50ff4d99d5cec6323e670c5d7]: Textual amendment: Rule 3.64 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(56)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/56) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-f46866f50ff4d99d5cec6323e670c5d7]: Textual amendment: Rule 3.64 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(56)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/56) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

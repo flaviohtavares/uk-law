@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. High Court[^key-ba4b1afe8ca8d834f5d45ff265944964]
+## 142. High Court[^c-ba4b1afe8ca8d834f5d45ff265944964]
 
 *Extent: E+W*
 
-(1) If a private registered provider[^key-b0899fe52f884e525bb24e0f037a3499] fails to comply with a direction, provision or requirement mentioned in section 141(1), the High Court may on the application of the regulator make an order for the purpose of remedying the failure.
+(1) If a private registered provider[^c-b0899fe52f884e525bb24e0f037a3499] fails to comply with a direction, provision or requirement mentioned in section 141(1), the High Court may on the application of the regulator make an order for the purpose of remedying the failure.
 
 (2) An order may include provision about costs.
 
 ## Annotations
 
-[^key-ba4b1afe8ca8d834f5d45ff265944964]: Commencement: S. 142 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-ba4b1afe8ca8d834f5d45ff265944964]: Commencement: S. 142 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-b0899fe52f884e525bb24e0f037a3499]: Textual amendment: Words in s. 142(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/25)
+[^c-b0899fe52f884e525bb24e0f037a3499]: Textual amendment: Words in s. 142(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/25)

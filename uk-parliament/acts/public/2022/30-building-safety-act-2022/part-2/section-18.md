@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Revised strategic plans[^key-0685f0cc17be0fc0e1ee2875c4a6f179][^key-98819736f733c281dd19b66c3fa6c68d]
+## 18. Revised strategic plans[^c-0685f0cc17be0fc0e1ee2875c4a6f179][^c-98819736f733c281dd19b66c3fa6c68d]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0685f0cc17be0fc0e1ee2875c4a6f179]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-0685f0cc17be0fc0e1ee2875c4a6f179]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-98819736f733c281dd19b66c3fa6c68d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/30/section/18) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2022/561/regulation/6))
+[^c-98819736f733c281dd19b66c3fa6c68d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/30/section/18) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2022/561/regulation/6))

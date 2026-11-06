@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Insertion of new regulation S3A[^key-6883fa244716222664f0b0cf8927e0be]
+## 58. Insertion of new regulation S3A[^c-6883fa244716222664f0b0cf8927e0be]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ After regulation S3 (benefits in respect of pensionable employment after pension
 
 ## Annotations
 
-[^key-6883fa244716222664f0b0cf8927e0be]: Commencement: Reg. 58 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-6883fa244716222664f0b0cf8927e0be]: Commencement: Reg. 58 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

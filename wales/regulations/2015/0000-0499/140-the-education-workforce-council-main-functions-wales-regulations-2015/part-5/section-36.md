@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Publication of disciplinary orders[^key-cebc43acfecf0d1a52bcf58cc7ea9c34]
+## 36. Publication of disciplinary orders[^c-cebc43acfecf0d1a52bcf58cc7ea9c34]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cebc43acfecf0d1a52bcf58cc7ea9c34]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2015/140/regulation/36) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-cebc43acfecf0d1a52bcf58cc7ea9c34]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2015/140/regulation/36) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

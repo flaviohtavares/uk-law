@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Direction to offer to contract with eligible hydrogen storage provider[^key-90a8392d2618839c897911528403562a]
+## 64. Direction to offer to contract with eligible hydrogen storage provider[^c-90a8392d2618839c897911528403562a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90a8392d2618839c897911528403562a]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/52/section/64) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-90a8392d2618839c897911528403562a]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/52/section/64) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

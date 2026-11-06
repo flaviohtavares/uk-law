@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Supplemental provisions[^key-62962918d382f00f6cf86b92504647d2][^key-8fac712985455041598b9ce15117ddd2][^key-8fac712985455041598b9ce15117ddd2]
+## 49. Supplemental provisions[^c-62962918d382f00f6cf86b92504647d2][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 
 *Extent: E+W+N.I.*
 
@@ -43,14 +43,14 @@ offences under this Part and listed offences are to be disregarded.
 
 (6) The Secretary of State may by order amend Schedule 3.
 
-(6A)[^key-31db03f7fda8b153521d4944605c988c] The power to make an order under subsection (6) for the purposes of subsection (5)(b) is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
+(6A)[^c-31db03f7fda8b153521d4944605c988c] The power to make an order under subsection (6) for the purposes of subsection (5)(b) is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
 
 (7) For the purposes of sections 45(b)(i) and 46(1)(b)(i) it is sufficient for the person concerned to believe that the offence (or one or more of the offences) will be committed if certain conditions are met.
 
 ## Annotations
 
-[^key-62962918d382f00f6cf86b92504647d2]: Commencement: S. 49 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-62962918d382f00f6cf86b92504647d2]: Commencement: S. 49 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
+[^c-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
 
-[^key-31db03f7fda8b153521d4944605c988c]: Textual amendment: [S. 49(6A)](https://www.legislation.gov.uk/ukpga/2007/27/section/49/6A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/10/paragraph/8/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-31db03f7fda8b153521d4944605c988c]: Textual amendment: [S. 49(6A)](https://www.legislation.gov.uk/ukpga/2007/27/section/49/6A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/10/paragraph/8/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Supplementary provision about approvals[^M_I_5177ef05-3716-46cf-a6ed-4e583b24431e][^key-ab23dd2a1d96ff869b6ef2a392ee85c0]
+## 83. Supplementary provision about approvals[^M_I_5177ef05-3716-46cf-a6ed-4e583b24431e][^c-ab23dd2a1d96ff869b6ef2a392ee85c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^M_I_5177ef05-3716-46cf-a6ed-4e583b24431e]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-ab23dd2a1d96ff869b6ef2a392ee85c0]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/30/section/83) in force at 1.2.2025 in so far as not already in force by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-ab23dd2a1d96ff869b6ef2a392ee85c0]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/30/section/83) in force at 1.2.2025 in so far as not already in force by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))

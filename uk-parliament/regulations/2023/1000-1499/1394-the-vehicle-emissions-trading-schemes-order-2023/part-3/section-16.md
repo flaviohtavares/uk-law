@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Banked allowances: pool CRTS participants[^key-3f33225cd2a5c745aff4f41157eb7fc5]
+## 16. Banked allowances: pool CRTS participants[^c-3f33225cd2a5c745aff4f41157eb7fc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f33225cd2a5c745aff4f41157eb7fc5]: Commencement: Art. 16 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-3f33225cd2a5c745aff4f41157eb7fc5]: Commencement: Art. 16 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

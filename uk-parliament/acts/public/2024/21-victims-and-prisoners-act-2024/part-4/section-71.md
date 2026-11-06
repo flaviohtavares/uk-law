@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Section 3 of the Human Rights Act 1998: power to change release test[^key-f25a875566d2988c7cf1066d4b16787c]
+## 71. Section 3 of the Human Rights Act 1998: power to change release test[^c-f25a875566d2988c7cf1066d4b16787c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012
 
 ## Annotations
 
-[^key-f25a875566d2988c7cf1066d4b16787c]: Commencement: S. 71 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-f25a875566d2988c7cf1066d4b16787c]: Commencement: S. 71 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

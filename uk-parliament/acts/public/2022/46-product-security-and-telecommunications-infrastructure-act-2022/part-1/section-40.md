@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Enforcement of penalty notices[^key-202e2a2c82c34850eeccf962b4e7998b][^key-9b68c8b73628108deda45a984795d275]
+## 40. Enforcement of penalty notices[^c-202e2a2c82c34850eeccf962b4e7998b][^c-9b68c8b73628108deda45a984795d275]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-202e2a2c82c34850eeccf962b4e7998b]: Commencement: S. 40 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-202e2a2c82c34850eeccf962b4e7998b]: Commencement: S. 40 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-9b68c8b73628108deda45a984795d275]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/46/section/40) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-9b68c8b73628108deda45a984795d275]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/46/section/40) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

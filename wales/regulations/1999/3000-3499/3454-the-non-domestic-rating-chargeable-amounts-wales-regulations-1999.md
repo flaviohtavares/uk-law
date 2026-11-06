@@ -31,7 +31,7 @@ summary: ''
 
 RATING AND VALUATION, WALES
 
-The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 1999 (revoked)[^key-0f148468fd4505c17d20dbf25cfce906]
+The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 1999 (revoked)[^c-0f148468fd4505c17d20dbf25cfce906]
 
 Made
 
@@ -41,70 +41,70 @@ Coming into force
 
 31st December 1999
 
-[^key-0f148468fd4505c17d20dbf25cfce906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f148468fd4505c17d20dbf25cfce906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-0f148468fd4505c17d20dbf25cfce906]
+## 1. Citation, commencement and application[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0f148468fd4505c17d20dbf25cfce906]
+## 2. Interpretation[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The relevant period and the relevant day[^key-0f148468fd4505c17d20dbf25cfce906]
+## 3. The relevant period and the relevant day[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Defined hereditament[^key-0f148468fd4505c17d20dbf25cfce906]
+## 4. Defined hereditament[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Base liability[^key-0f148468fd4505c17d20dbf25cfce906]
+## 5. Base liability[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Notional chargeable amount[^key-0f148468fd4505c17d20dbf25cfce906]
+## 6. Notional chargeable amount[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Case to which Regulation 8 applies[^key-0f148468fd4505c17d20dbf25cfce906]
+## 7. Case to which Regulation 8 applies[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Reductions to be made in the chargeable amount[^key-0f148468fd4505c17d20dbf25cfce906]
+## 8. Reductions to be made in the chargeable amount[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Case to which regulation 10 applies[^key-0f148468fd4505c17d20dbf25cfce906]
+## 9. Case to which regulation 10 applies[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Rules for determining the chargeable amount in certain cases[^key-0f148468fd4505c17d20dbf25cfce906]
+## 10. Rules for determining the chargeable amount in certain cases[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10A.**[^key-0f148468fd4505c17d20dbf25cfce906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10A.**[^c-0f148468fd4505c17d20dbf25cfce906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10B.**[^key-0f148468fd4505c17d20dbf25cfce906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10B.**[^c-0f148468fd4505c17d20dbf25cfce906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Certification by appropriate valuation officer[^key-0f148468fd4505c17d20dbf25cfce906]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 12. Appeals against certification[^key-0f148468fd4505c17d20dbf25cfce906]
+## 11. Certification by appropriate valuation officer[^c-0f148468fd4505c17d20dbf25cfce906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-0f148468fd4505c17d20dbf25cfce906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 12. Appeals against certification[^c-0f148468fd4505c17d20dbf25cfce906]
 
-[^key-0f148468fd4505c17d20dbf25cfce906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-0f148468fd4505c17d20dbf25cfce906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0f148468fd4505c17d20dbf25cfce906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0f148468fd4505c17d20dbf25cfce906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f148468fd4505c17d20dbf25cfce906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f148468fd4505c17d20dbf25cfce906]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/1999/3454) revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2016 (S.I. 2016/1247)](https://www.legislation.gov.uk/wsi/2016/1247), [reg. 18(a)](https://www.legislation.gov.uk/wsi/2016/1247/regulation/18/a)
+[^c-0f148468fd4505c17d20dbf25cfce906]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/1999/3454) revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2016 (S.I. 2016/1247)](https://www.legislation.gov.uk/wsi/2016/1247), [reg. 18(a)](https://www.legislation.gov.uk/wsi/2016/1247/regulation/18/a)

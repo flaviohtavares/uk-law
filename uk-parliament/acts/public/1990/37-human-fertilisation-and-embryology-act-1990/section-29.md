@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Effect of sections 27 and 28.[^c271636][^key-f5af97cac9964d7b32be4534d0a033a5]
+## 29. Effect of sections 27 and 28.[^c271636][^c-f5af97cac9964d7b32be4534d0a033a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 [^c271636]: Commencement: S. 29 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-f5af97cac9964d7b32be4534d0a033a5]: Modification: Ss. 27-29 excluded (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/57/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-f5af97cac9964d7b32be4534d0a033a5]: Modification: Ss. 27-29 excluded (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/57/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
 [^c1827868]: Textual amendment: S. 29(3A)-(3D) inserted (1.12.2003) by [Human Fertilisation and Embryology (Deceased Fathers) Act 2003 (c. 24)](https://www.legislation.gov.uk/ukpga/2003/24), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2003/24/section/1/2); [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 172. Use of evidence obtained from prosecutor[^key-2a8ab16bd95e3eb391e9a11aa6eec9a0]
+## 172. Use of evidence obtained from prosecutor[^c-2a8ab16bd95e3eb391e9a11aa6eec9a0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a8ab16bd95e3eb391e9a11aa6eec9a0]: Commencement: S. 172 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2a8ab16bd95e3eb391e9a11aa6eec9a0]: Commencement: S. 172 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

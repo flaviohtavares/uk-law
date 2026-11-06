@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Youth rehabilitation order: exercise of power to impose particular requirements[^key-e3498a854265cfff5d0278853723cc8d]
+## 186. Youth rehabilitation order: exercise of power to impose particular requirements[^c-e3498a854265cfff5d0278853723cc8d]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 *Restrictions and obligations relating to imposing particular requirements*
 
-(2)[^key-65ed44ff884b031aff41657f85390354] The power to impose a particular youth rehabilitation requirement is subject to the provisions of the Part of Schedule 6 relating to requirements of that kind (see column 2 of the table in section 174).
+(2)[^c-65ed44ff884b031aff41657f85390354] The power to impose a particular youth rehabilitation requirement is subject to the provisions of the Part of Schedule 6 relating to requirements of that kind (see column 2 of the table in section 174).
 
 *Suitability*
 
@@ -53,11 +53,11 @@ In the case of a youth rehabilitation order with intensive supervision and surve
 
 *Compatibility with other requirements and other matters*
 
-(10)[^key-65ed44ff884b031aff41657f85390354] If the order imposes two or more requirements, the court must, before making the order, consider whether, in the circumstances of the case, the requirements are compatible with each other.
+(10)[^c-65ed44ff884b031aff41657f85390354] If the order imposes two or more requirements, the court must, before making the order, consider whether, in the circumstances of the case, the requirements are compatible with each other.
 
 This is subject to sections 175 and 176 and paragraphs 19(3) and 21 of Schedule 6 (certain types of youth rehabilitation order to contain certain requirements).
 
-(11)[^key-65ed44ff884b031aff41657f85390354] The court must ensure, as far as practicable, that any requirement imposed by the order is such as to avoid—
+(11)[^c-65ed44ff884b031aff41657f85390354] The court must ensure, as far as practicable, that any requirement imposed by the order is such as to avoid—
 
 - (a) any conflict with the offender's religious beliefs,
 - (b) any interference with the times, if any, at which the offender normally works or attends school or any other educational establishment, and
@@ -69,6 +69,6 @@ and satisfies any additional restrictions that the Secretary of State may specif
 
 ## Annotations
 
-[^key-e3498a854265cfff5d0278853723cc8d]: Commencement: S. 186 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e3498a854265cfff5d0278853723cc8d]: Commencement: S. 186 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-65ed44ff884b031aff41657f85390354]: Modification: S. 186(2)(10)(11) applied (with modifications) by 2008 c. 4, s. 39(6)(a), Sch. 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 266(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/266/5), [270](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/270) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-65ed44ff884b031aff41657f85390354]: Modification: S. 186(2)(10)(11) applied (with modifications) by 2008 c. 4, s. 39(6)(a), Sch. 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 266(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/266/5), [270](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/270) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

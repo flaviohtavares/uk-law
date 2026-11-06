@@ -26,7 +26,7 @@ summary: ''
 - (b) “**the earlier bankruptcy**” means the bankruptcy (or, as the case may be, most recent bankruptcy) from which the bankrupt has not been discharged at the commencement of the later bankruptcy, and
 - (c) “**the existing trustee**” means the trustee (if any) of the bankrupt’s estate for the purposes of the earlier bankruptcy.
 
-(2) Where the existing trustee has been given the prescribed notice of the making of the application or (as the case may be) the[^key-6715ea0ea7a44aa338f000d1ac209047] presentation of the petition of the later bankruptcy, any distribution or other disposition by him of anything to which the next subsection applies, if made after the giving of the notice, is void except to the extent that it was made with the consent of the court or is or was subsequently ratified by the court.
+(2) Where the existing trustee has been given the prescribed notice of the making of the application or (as the case may be) the[^c-6715ea0ea7a44aa338f000d1ac209047] presentation of the petition of the later bankruptcy, any distribution or other disposition by him of anything to which the next subsection applies, if made after the giving of the notice, is void except to the extent that it was made with the consent of the court or is or was subsequently ratified by the court.
 
 This is without prejudice to section 284 (restrictions on dispositions of property following bankruptcy order).
 
@@ -40,4 +40,4 @@ This is without prejudice to section 284 (restrictions on dispositions of proper
 
 [^c15580171]: Modification: S. 334 applied with modifications by [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999), [art. 3](https://www.legislation.gov.uk/uksi/1986/1999/article/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1986/1999/schedule/1/part/II)
 
-[^key-6715ea0ea7a44aa338f000d1ac209047]: Textual amendment: Words in s. 334(2) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 28](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/28); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-6715ea0ea7a44aa338f000d1ac209047]: Textual amendment: Words in s. 334(2) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 28](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/28); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

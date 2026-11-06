@@ -38,7 +38,7 @@ Section 83(1).
 
 ### Consumer Credit Act 1974 (c. 39)
 
-**4.**[^key-415210f31771645697ef408256217be5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-415210f31771645697ef408256217be5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restrictive Trade Practices Act 1976 (c. 34)
 
@@ -46,7 +46,7 @@ Section 83(1).
 
 ### Estate Agents Act 1979 (c. 38)
 
-**6.**[^key-1036984b162172d40748cdb0ba9a2b68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1036984b162172d40748cdb0ba9a2b68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Competition Act 1980 (c. 21)
 
@@ -77,8 +77,8 @@ Section 83(1).
 
 [^M_F_1d4c0dfe-3309-4bb1-8502-c7a1fd9ca385]: Textual amendment: Sch. 4 para. 3 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-415210f31771645697ef408256217be5]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1986/31/schedule/4/paragraph/4) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-415210f31771645697ef408256217be5]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1986/31/schedule/4/paragraph/4) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-1036984b162172d40748cdb0ba9a2b68]: Textual amendment: Sch. 4 para. 6 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-1036984b162172d40748cdb0ba9a2b68]: Textual amendment: Sch. 4 para. 6 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^M_F_a197230a-ef47-4cd9-9dcb-528cd936af61]: Textual amendment: Sch. 4 para. 7 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))

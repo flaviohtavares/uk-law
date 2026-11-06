@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Amendment to regulation 199[^key-1c2663d11272a565396de541b7ce52e6]
+## 90. Amendment to regulation 199[^c-1c2663d11272a565396de541b7ce52e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 199 (submission of draft study protocols for required studies)[^f0
 
 ## Annotations
 
-[^key-1c2663d11272a565396de541b7ce52e6]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2024/832/regulation/90) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-1c2663d11272a565396de541b7ce52e6]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2024/832/regulation/90) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00100]: Footnote: Paragraph (2) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -27,7 +27,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (revoked)[^key-e70a36add937c312f6f6a4474a4c52ae]
+The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (revoked)[^c-e70a36add937c312f6f6a4474a4c52ae]
 
 Made
 
@@ -37,40 +37,40 @@ Coming into force
 
 25 January 2007
 
-[^key-e70a36add937c312f6f6a4474a4c52ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e70a36add937c312f6f6a4474a4c52ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-e70a36add937c312f6f6a4474a4c52ae]
+## 1. Title, commencement, application and interpretation[^c-e70a36add937c312f6f6a4474a4c52ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-e70a36add937c312f6f6a4474a4c52ae]
+## 2. Amendment of the principal Regulations[^c-e70a36add937c312f6f6a4474a4c52ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-e70a36add937c312f6f6a4474a4c52ae]
+## 3.[^c-e70a36add937c312f6f6a4474a4c52ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-e70a36add937c312f6f6a4474a4c52ae]
+## 4.[^c-e70a36add937c312f6f6a4474a4c52ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-e70a36add937c312f6f6a4474a4c52ae]
+## 5.[^c-e70a36add937c312f6f6a4474a4c52ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (England and Wales) Regulations 2002.[^key-e70a36add937c312f6f6a4474a4c52ae]
+## 6. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (England and Wales) Regulations 2002.[^c-e70a36add937c312f6f6a4474a4c52ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e70a36add937c312f6f6a4474a4c52ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e70a36add937c312f6f6a4474a4c52ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e70a36add937c312f6f6a4474a4c52ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e70a36add937c312f6f6a4474a4c52ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e70a36add937c312f6f6a4474a4c52ae]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-e70a36add937c312f6f6a4474a4c52ae]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

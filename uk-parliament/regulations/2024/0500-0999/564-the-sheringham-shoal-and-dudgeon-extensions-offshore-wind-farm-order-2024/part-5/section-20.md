@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Private rights over land[^key-799b926fa9fbe96342e9ca21d1814d8e]
+## 20. Private rights over land[^c-799b926fa9fbe96342e9ca21d1814d8e]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-799b926fa9fbe96342e9ca21d1814d8e]: Commencement: Art. 20 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-799b926fa9fbe96342e9ca21d1814d8e]: Commencement: Art. 20 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

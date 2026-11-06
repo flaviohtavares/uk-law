@@ -30,7 +30,7 @@ summary: ''
 
 (3) A is eligible for VCT relief by reference to any shares only if—
 
-- (za)[^key-e1b46df5bf7d000f346322606ae0ff0c] the shares are issued before 6 April 2035[^key-bf094649a5e767dfa73d20b59e233294],
+- (za)[^c-e1b46df5bf7d000f346322606ae0ff0c] the shares are issued before 6 April 2035[^c-bf094649a5e767dfa73d20b59e233294],
 - (a) the shares are both subscribed for and issued—
   - (i) for genuine commercial reasons, and
   - (ii) not as part of a scheme or arrangement the main purpose or one of the main purposes of which is the avoidance of tax, and
@@ -40,12 +40,12 @@ summary: ''
 
 See section 271(4) for provision requiring the giving of notices about the effect of this subsection.
 
-(5)[^key-eb11cbbde0bb2831cb0b335a2ec92fbd] The Treasury may, by regulations, amend subsection (3)(za) to substitute a different date for the date for the time being specified there.
+(5)[^c-eb11cbbde0bb2831cb0b335a2ec92fbd] The Treasury may, by regulations, amend subsection (3)(za) to substitute a different date for the date for the time being specified there.
 
 ## Annotations
 
-[^key-e1b46df5bf7d000f346322606ae0ff0c]: Textual amendment: S. 261(3)(za) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/2/2)
+[^c-e1b46df5bf7d000f346322606ae0ff0c]: Textual amendment: S. 261(3)(za) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/2/2)
 
-[^key-bf094649a5e767dfa73d20b59e233294]: Textual amendment: Word in [s. 261(3)(za)](https://www.legislation.gov.uk/ukpga/2007/3/section/261/3/za) substituted (3.9.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 11(1)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/11/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/11/2); [S.I. 2024/897](https://www.legislation.gov.uk/uksi/2024/897), [reg. 2](https://www.legislation.gov.uk/uksi/2024/897/regulation/2)
+[^c-bf094649a5e767dfa73d20b59e233294]: Textual amendment: Word in [s. 261(3)(za)](https://www.legislation.gov.uk/ukpga/2007/3/section/261/3/za) substituted (3.9.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 11(1)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/11/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/11/2); [S.I. 2024/897](https://www.legislation.gov.uk/uksi/2024/897), [reg. 2](https://www.legislation.gov.uk/uksi/2024/897/regulation/2)
 
-[^key-eb11cbbde0bb2831cb0b335a2ec92fbd]: Textual amendment: S. 261(5) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/2/3)
+[^c-eb11cbbde0bb2831cb0b335a2ec92fbd]: Textual amendment: S. 261(5) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/2/3)

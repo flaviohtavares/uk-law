@@ -50,7 +50,7 @@ summary: ''
 
 (8) The provisions of Schedule 8 (which relate to consents under this Article and Article 40) shall have effect.
 
-(9) In this Article, “published criteria” means the criteria determined by the Department from time to time in accordance with and for the purposes of Article 8(2)[^key-ab24943d91856a34585e806d98af3c7b] of the Directive and published by it.
+(9) In this Article, “published criteria” means the criteria determined by the Department from time to time in accordance with and for the purposes of Article 8(2)[^c-ab24943d91856a34585e806d98af3c7b] of the Directive and published by it.
 
 ## Annotations
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c17137431]: Textual amendment: SR 2005/335
 
-[^key-ab24943d91856a34585e806d98af3c7b]: Textual amendment: Words in [art. 39(9)](https://www.legislation.gov.uk/nisi/1992/231/article/39/9) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [13](https://www.legislation.gov.uk/nisr/2020/307/regulation/13)
+[^c-ab24943d91856a34585e806d98af3c7b]: Textual amendment: Words in [art. 39(9)](https://www.legislation.gov.uk/nisi/1992/231/article/39/9) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [13](https://www.legislation.gov.uk/nisr/2020/307/regulation/13)

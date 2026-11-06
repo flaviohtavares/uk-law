@@ -38,7 +38,7 @@ those arrangements have effect (and do so in spite of anything in any enactment 
 - “**UK tax**” means any tax or duty imposed under the domestic law of the United Kingdom, and
 - “**foreign tax**” means any tax or duty imposed under the law of the territory, or any of the territories, in relation to which the arrangements have been made.
 
-(4)[^key-26282424221582c3a00c2e6100d3498c] Where any arrangements have effect by virtue of this section, no obligation of secrecy (whether imposed by statute or otherwise) prevents a public authority or anyone acting on its behalf from making a disclosure to the Commissioners for Her Majesty’s Revenue and Customs —
+(4)[^c-26282424221582c3a00c2e6100d3498c] Where any arrangements have effect by virtue of this section, no obligation of secrecy (whether imposed by statute or otherwise) prevents a public authority or anyone acting on its behalf from making a disclosure to the Commissioners for Her Majesty’s Revenue and Customs —
 
 - (a) for the purpose of giving effect, or enabling effect to be given, to the arrangements, or
 - (b) which is authorised in accordance with the arrangements.
@@ -76,4 +76,4 @@ have effect after that time as if included in an Order in Council under this sec
 
 ## Annotations
 
-[^key-26282424221582c3a00c2e6100d3498c]: Textual amendment: S. 173(4)-(5) substituted (31.12.2020) for s. 173(4)(5) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/14/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26282424221582c3a00c2e6100d3498c]: Textual amendment: S. 173(4)-(5) substituted (31.12.2020) for s. 173(4)(5) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/14/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

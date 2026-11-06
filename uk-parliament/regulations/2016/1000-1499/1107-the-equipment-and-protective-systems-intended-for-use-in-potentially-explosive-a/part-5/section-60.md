@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Restrictive measures[^key-d7f8c8367fbec0df396eb67242c3f839]
+## 60. Restrictive measures[^c-d7f8c8367fbec0df396eb67242c3f839]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ When enforcing these Regulations, the market surveillance authority must comply 
 
 ## Annotations
 
-[^key-d7f8c8367fbec0df396eb67242c3f839]: Commencement: Reg. 60 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-d7f8c8367fbec0df396eb67242c3f839]: Commencement: Reg. 60 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

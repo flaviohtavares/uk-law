@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Time limit for charging Reserve Forces Act offences[^key-5dc6b01e0b526668f7e3c4df6ed27b63][^key-9d195ee41602bd1539291dc11bd9a91d]
+## 62. Time limit for charging Reserve Forces Act offences[^c-5dc6b01e0b526668f7e3c4df6ed27b63][^c-9d195ee41602bd1539291dc11bd9a91d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,17 +40,17 @@ the period in subsection (1)(d) is not extended by his (again) becoming a releva
 - (b) “**Reserve Forces Act offence**” means an offence within section 50(2)(h) or (i);
 - (c) “**relevant reservist**” means—
   - (i) a member of a volunteer reserve force; or
-  - (ii) a member of an ex-regular reserve force who is in full-time service *(affected by repeal, see note)*[^key-4dea0239d5d34709b69e410093c67b4d] service under a commitment entered into under section 24 of the Reserve Forces Act 1996 or subject to an additional duties commitment;
-- (d) “[^key-d0dcf620cf6c3dfbe17677dee9131edd]**in full-time service *(affected by repeal, see note)*[^key-d0dcf620cf6c3dfbe17677dee9131edd]**” means in such service under a commitment entered into under section 24 of the Reserve Forces Act 1996 (c. 14). *(affected by repeal, see note)*[^key-d0dcf620cf6c3dfbe17677dee9131edd]
+  - (ii) a member of an ex-regular reserve force who is in full-time service *(affected by repeal, see note)*[^c-4dea0239d5d34709b69e410093c67b4d] service under a commitment entered into under section 24 of the Reserve Forces Act 1996 or subject to an additional duties commitment;
+- (d) “[^c-d0dcf620cf6c3dfbe17677dee9131edd]**in full-time service *(affected by repeal, see note)*[^c-d0dcf620cf6c3dfbe17677dee9131edd]**” means in such service under a commitment entered into under section 24 of the Reserve Forces Act 1996 (c. 14). *(affected by repeal, see note)*[^c-d0dcf620cf6c3dfbe17677dee9131edd]
 
 (4) Where subsection (1) prohibits the charging (as defined by subsection (3)(a)) of a person with an offence, the power under section 123(2)(c) or 125(2)(c) may not be exercised so as to charge that person with that offence.
 
 ## Annotations
 
-[^key-5dc6b01e0b526668f7e3c4df6ed27b63]: Commencement: S. 62 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-5dc6b01e0b526668f7e3c4df6ed27b63]: Commencement: S. 62 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9d195ee41602bd1539291dc11bd9a91d]: Commencement: S. 62 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9d195ee41602bd1539291dc11bd9a91d]: Commencement: S. 62 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-4dea0239d5d34709b69e410093c67b4d]: Textual amendment: Words in [s. 62(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2006/52/section/62/3/c/ii) substituted (1.5.2022 for specified purposes) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/8/a) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/10)); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)
+[^c-4dea0239d5d34709b69e410093c67b4d]: Textual amendment: Words in [s. 62(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2006/52/section/62/3/c/ii) substituted (1.5.2022 for specified purposes) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/8/a) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/10)); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)
 
-[^key-d0dcf620cf6c3dfbe17677dee9131edd]: Textual amendment: [S. 62(3)(d)](https://www.legislation.gov.uk/ukpga/2006/52/section/62/3/d) omitted (1.5.2022 for specified purposes) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/8/b) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/10)); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)
+[^c-d0dcf620cf6c3dfbe17677dee9131edd]: Textual amendment: [S. 62(3)(d)](https://www.legislation.gov.uk/ukpga/2006/52/section/62/3/d) omitted (1.5.2022 for specified purposes) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/8/b) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/10)); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)

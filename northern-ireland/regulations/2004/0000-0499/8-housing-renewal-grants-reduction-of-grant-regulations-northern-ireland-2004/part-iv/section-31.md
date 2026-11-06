@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Capital treated as income[^key-c619721a74c7ece19b1b79f0d816f6f8]
+## 31. Capital treated as income[^c-c619721a74c7ece19b1b79f0d816f6f8]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ The following shall be treated as income –
 
 ## Annotations
 
-[^key-c619721a74c7ece19b1b79f0d816f6f8]: Commencement: Reg. 31 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-c619721a74c7ece19b1b79f0d816f6f8]: Commencement: Reg. 31 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

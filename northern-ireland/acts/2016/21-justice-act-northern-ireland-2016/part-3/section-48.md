@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Penalties for animal welfare offences[^key-cb6ec962c002cb491346bdd4ec094275]
+## 48. Penalties for animal welfare offences[^c-cb6ec962c002cb491346bdd4ec094275]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb6ec962c002cb491346bdd4ec094275]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2016/21/section/48) in operation at 1.8.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)
+[^c-cb6ec962c002cb491346bdd4ec094275]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2016/21/section/48) in operation at 1.8.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)

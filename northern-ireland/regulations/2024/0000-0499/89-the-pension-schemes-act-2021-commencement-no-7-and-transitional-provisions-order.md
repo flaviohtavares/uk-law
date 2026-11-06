@@ -37,22 +37,22 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 131(2), (4) and (6) of the Pension Schemes Act 2021[^f00001].
 
-## 1. Citation[^key-078e6c45e0f9325a66872f5c003f2d8e]
+## 1. Citation[^c-078e6c45e0f9325a66872f5c003f2d8e]
 
 This Order may be cited as the Pension Schemes Act 2021 (Commencement No. 7 and Transitional Provisions) Order (Northern Ireland) 2024.
 
-## 2. Appointed day[^key-47f94a25d554741e67b54c96366f92e7]
+## 2. Appointed day[^c-47f94a25d554741e67b54c96366f92e7]
 
 The day appointed for the coming into operation of the following provisions of the Pension Schemes Act 2021, in so far as they are not already in operation[^f00002], is 6th April 2024—
 
 - (a) section 129(a) (further provision relating to pension schemes: Northern Ireland), and
 - (b) Part 1 of Schedule 11 (funding of defined benefit schemes).
 
-## 3. Transitional provisions[^key-b37beec7adf8ad9510397a27ca04b2bb]
+## 3. Transitional provisions[^c-b37beec7adf8ad9510397a27ca04b2bb]
 
 Article 201 of the Pensions (Northern Ireland) Order 2005[^f00003] (the statutory funding objective), in so far as it relates to a particular pension scheme, is to continue to have effect without the amendment made by paragraph 3 of Schedule 11 to the Pension Schemes Act 2021, until such time as that scheme is required to have, in accordance with regulations made under Article 200A of that Order, a funding and investment strategy[^f00004].
 
-**4.**[^key-e345c8231e45415ff8cab459a71efd74] Article 203 of the Pensions (Northern Ireland) Order 2005 (actuarial valuations and reports), in so far as it relates to a particular pension scheme, is to continue to have effect without the amendment made by paragraph 4 of Schedule 11 to the Pension Schemes Act 2021, until such time as that scheme obtains an actuarial valuation with an effective date[^f00005] on or after 22nd September 2024.
+**4.**[^c-e345c8231e45415ff8cab459a71efd74] Article 203 of the Pensions (Northern Ireland) Order 2005 (actuarial valuations and reports), in so far as it relates to a particular pension scheme, is to continue to have effect without the amendment made by paragraph 4 of Schedule 11 to the Pension Schemes Act 2021, until such time as that scheme obtains an actuarial valuation with an effective date[^f00005] on or after 22nd September 2024.
 
 Sealed with the Official Seal of the Department for Communities on 5th April 2024
 
@@ -119,18 +119,18 @@ The following provisions of the Pension Schemes Act 2021 have been brought into 
 
 [^f00001]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-078e6c45e0f9325a66872f5c003f2d8e]: Commencement: Art. 1 in operation at made date
+[^c-078e6c45e0f9325a66872f5c003f2d8e]: Commencement: Art. 1 in operation at made date
 
-[^key-47f94a25d554741e67b54c96366f92e7]: Commencement: Art. 2 in operation at made date
+[^c-47f94a25d554741e67b54c96366f92e7]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: *See* section 131(3)(c) of the Pension Schemes Act 2021
 
-[^key-b37beec7adf8ad9510397a27ca04b2bb]: Commencement: Art. 3 in operation at made date
+[^c-b37beec7adf8ad9510397a27ca04b2bb]: Commencement: Art. 3 in operation at made date
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
 [^f00004]: Footnote: *See* Article 200A of the Pensions (Northern Ireland) Order 2005, as inserted by paragraph 2 of Schedule 11 to the Pension Schemes Act 2021, for the meaning of “funding and investment strategy”
 
-[^key-e345c8231e45415ff8cab459a71efd74]: Commencement: Art. 4 in operation at made date
+[^c-e345c8231e45415ff8cab459a71efd74]: Commencement: Art. 4 in operation at made date
 
 [^f00005]: Footnote: *See* Article 203 of the Pensions (Northern Ireland) Order 2005 for the meanings of “actuarial valuation” and “effective date”

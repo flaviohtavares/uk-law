@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Fixed penalty offences under the Roads (Scotland) Act 1984[^key-04fca64ba10ae8a3b14571238e884028]
+## 37. Fixed penalty offences under the Roads (Scotland) Act 1984[^c-04fca64ba10ae8a3b14571238e884028]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04fca64ba10ae8a3b14571238e884028]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2005/12/section/37) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-04fca64ba10ae8a3b14571238e884028]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2005/12/section/37) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

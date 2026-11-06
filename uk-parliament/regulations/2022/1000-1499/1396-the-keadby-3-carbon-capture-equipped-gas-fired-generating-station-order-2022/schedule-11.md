@@ -22,13 +22,13 @@ summary: ''
 
 Requirement 5
 
-**1.**[^key-061a416cd928263c94d0d6a37a986f05] Maximum parameters for buildings and structures are set out at table 6.
+**1.**[^c-061a416cd928263c94d0d6a37a986f05] Maximum parameters for buildings and structures are set out at table 6.
 
-**2.**[^key-f276caf2e711da6e19a66aef078f615d] The finished ground level in respect of Work No. 1A, Work No. 1C and Work No. 1E may be higher than 2.8 metres above ordinance datum (AOD) but in all cases the maximum heights measured AOD shall not exceed the measurement in column 5 of table 6.
+**2.**[^c-f276caf2e711da6e19a66aef078f615d] The finished ground level in respect of Work No. 1A, Work No. 1C and Work No. 1E may be higher than 2.8 metres above ordinance datum (AOD) but in all cases the maximum heights measured AOD shall not exceed the measurement in column 5 of table 6.
 
-**3.**[^key-496c0f8d435196d9daf856a6bccb256a] Maximum parameters of the A18 Gatehouse building (Work No. 8B) are set out in table 7.
+**3.**[^c-496c0f8d435196d9daf856a6bccb256a] Maximum parameters of the A18 Gatehouse building (Work No. 8B) are set out in table 7.
 
-**4.**[^key-0e406f0aa86df9dadc9c663c84a3d2d3] Maximum parameters for length (m), width (m) or diameter (m) exclude external support structures such as (but not limited to) ladders, platforms, external piping and structural supports.
+**4.**[^c-0e406f0aa86df9dadc9c663c84a3d2d3] Maximum parameters for length (m), width (m) or diameter (m) exclude external support structures such as (but not limited to) ladders, platforms, external piping and structural supports.
 
 Table 6
 
@@ -53,10 +53,10 @@ Table 7
 
 ## Annotations
 
-[^key-061a416cd928263c94d0d6a37a986f05]: Commencement: Sch. 11 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-061a416cd928263c94d0d6a37a986f05]: Commencement: Sch. 11 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-f276caf2e711da6e19a66aef078f615d]: Commencement: Sch. 11 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-f276caf2e711da6e19a66aef078f615d]: Commencement: Sch. 11 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-496c0f8d435196d9daf856a6bccb256a]: Commencement: Sch. 11 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-496c0f8d435196d9daf856a6bccb256a]: Commencement: Sch. 11 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-0e406f0aa86df9dadc9c663c84a3d2d3]: Commencement: Sch. 11 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-0e406f0aa86df9dadc9c663c84a3d2d3]: Commencement: Sch. 11 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

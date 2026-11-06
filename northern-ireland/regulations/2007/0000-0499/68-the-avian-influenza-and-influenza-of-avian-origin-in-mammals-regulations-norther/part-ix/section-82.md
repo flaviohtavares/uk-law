@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Provision of information[^key-9d1b3b1a2ccedba4d73e05c5d11aa5d1]
+## 82. Provision of information[^c-9d1b3b1a2ccedba4d73e05c5d11aa5d1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person shall not provide information which he knows to be false or misleading 
 
 ## Annotations
 
-[^key-9d1b3b1a2ccedba4d73e05c5d11aa5d1]: Commencement: Reg. 82 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-9d1b3b1a2ccedba4d73e05c5d11aa5d1]: Commencement: Reg. 82 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

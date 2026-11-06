@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Meaning of “domestic PR property” and “non-domestic PR property”: England and Wales[^key-3e21e93c43d1b3f9b192ff2eb26ce5ef]
+## 42. Meaning of “domestic PR property” and “non-domestic PR property”: England and Wales[^c-3e21e93c43d1b3f9b192ff2eb26ce5ef]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ summary: ''
 
 - (a) a property is a “domestic private rented property” if, subject to subsection (2), it is let—
   - (i) under a tenancy which is an assured tenancy for the purposes of the Housing Act 1988,
-  - (ii) under a tenancy which is a regulated tenancy for the purposes of the Rent Act 1977, [^key-5bda5789f355ab8bfc771857883af72f]...
+  - (ii) under a tenancy which is a regulated tenancy for the purposes of the Rent Act 1977, [^c-5bda5789f355ab8bfc771857883af72f]...
 
   *Extent: W*
 
-  - (iia)[^key-712528cdb686e5424cc37b7da37109d2] under a tenancy which is a standard contract (within the meaning given by section 8 of the Renting Homes (Wales) Act 2016 (anaw 1)) except where—
+  - (iia)[^c-712528cdb686e5424cc37b7da37109d2] under a tenancy which is a standard contract (within the meaning given by section 8 of the Renting Homes (Wales) Act 2016 (anaw 1)) except where—
     - (i) the standard contract is a supported standard contract (within the meaning given by section 143 of the Renting Homes (Wales) Act 2016), or
     - (ii) the interest of the landlord belongs to His Majesty in right of the Crown or to a government department or is held in trust for Her Majesty for the purposes of a government department, or
   - (iii) under a tenancy which is specified for the purposes of this subsection in an order made by the Secretary of State;
@@ -40,12 +40,12 @@ summary: ''
 (2) But a property is not a domestic private rented property if—
 
 - (a) it is low cost rental accommodation within the meaning of section 69 of the Housing and Regeneration Act 2008 and the landlord is a private registered provider of social housing,
-- (b) it is low cost home ownership accommodation within the meaning of section 70 of that Act, [^key-7423073fec0132527809fa9e071da1e7]...
-- (c) the landlord is a body registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996 , or[^key-44101252701c4756b8e847f5b0baa8a4]
+- (b) it is low cost home ownership accommodation within the meaning of section 70 of that Act, [^c-7423073fec0132527809fa9e071da1e7]...
+- (c) the landlord is a body registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996 , or[^c-44101252701c4756b8e847f5b0baa8a4]
 
 *Extent: W*
 
-- (d)[^key-47b91ba2d378dc6c88b8045eb4d460ad] if the landlord is a community landlord (within the meaning of section 9 of the Renting Homes (Wales) Act 2016.
+- (d)[^c-47b91ba2d378dc6c88b8045eb4d460ad] if the landlord is a community landlord (within the meaning of section 9 of the Renting Homes (Wales) Act 2016.
 
 (3) In subsection (1)(b) “**dwelling**” has the meaning given by the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007 (S.I. 2007/991) (“**the Energy Performance Regulations**”).
 
@@ -55,14 +55,14 @@ summary: ''
 
 ## Annotations
 
-[^key-3e21e93c43d1b3f9b192ff2eb26ce5ef]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2011/16/section/42) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-3e21e93c43d1b3f9b192ff2eb26ce5ef]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2011/16/section/42) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
 
-[^key-5bda5789f355ab8bfc771857883af72f]: Textual amendment: Word in [s. 42(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/1/a/ii) omitted (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(2)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/2/a)
+[^c-5bda5789f355ab8bfc771857883af72f]: Textual amendment: Word in [s. 42(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/1/a/ii) omitted (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(2)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/2/a)
 
-[^key-712528cdb686e5424cc37b7da37109d2]: Textual amendment: [S. 42(1)(iia)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/1/iia) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/2/b)
+[^c-712528cdb686e5424cc37b7da37109d2]: Textual amendment: [S. 42(1)(iia)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/1/iia) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/2/b)
 
-[^key-7423073fec0132527809fa9e071da1e7]: Textual amendment: Word in [s. 42(2)(b)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/2/b) omitted (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(3)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/3/a)
+[^c-7423073fec0132527809fa9e071da1e7]: Textual amendment: Word in [s. 42(2)(b)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/2/b) omitted (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(3)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/3/a)
 
-[^key-44101252701c4756b8e847f5b0baa8a4]: Textual amendment: Word in [s. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/2/c) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(3)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/3/b)
+[^c-44101252701c4756b8e847f5b0baa8a4]: Textual amendment: Word in [s. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/2/c) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(3)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/3/b)
 
-[^key-47b91ba2d378dc6c88b8045eb4d460ad]: Textual amendment: [S. 42(2)(d)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/2/d) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(3)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/3/c)
+[^c-47b91ba2d378dc6c88b8045eb4d460ad]: Textual amendment: [S. 42(2)(d)](https://www.legislation.gov.uk/ukpga/2011/16/section/42/2/d) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [32(3)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/32/3/c)

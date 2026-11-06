@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Requirements about the use of front and rear position lamps, rear registration plate lamps, side marker lamps and end-outline marker lamps[^key-ea8a16dc28fc0b63e517ac4270d75ca8]
+## 24. Requirements about the use of front and rear position lamps, rear registration plate lamps, side marker lamps and end-outline marker lamps[^c-ea8a16dc28fc0b63e517ac4270d75ca8]
 
 *Extent: E+W+S*
 
@@ -55,7 +55,7 @@ unless a pair of front position lamps is fitted and kept lit and unobscured.
 
 (7) The classes of vehicle referred to in paragraph (5) are–
 
-- (a) a motor vehicle being a goods vehicle the gross vehicle weight of which does not exceed 2500[^key-743e46fe95ac947ed1e8188dcd1633ac] kg;
+- (a) a motor vehicle being a goods vehicle the gross vehicle weight of which does not exceed 2500[^c-743e46fe95ac947ed1e8188dcd1633ac] kg;
 - (b) a passenger vehicle other than a bus;
 - (c) an invalid carriage; and
 - (d) a motor cycle or a pedal cycle in either case with or without a sidecar;
@@ -79,8 +79,8 @@ not being–
 
 ## Annotations
 
-[^key-ea8a16dc28fc0b63e517ac4270d75ca8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1989/1796/regulation/24) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-ea8a16dc28fc0b63e517ac4270d75ca8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1989/1796/regulation/24) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^f00018]: Footnote: S.I. [1981/859](https://www.legislation.gov.uk/uksi/1981/859), to which there are amendments not relevant to these Regulations.
 
-[^key-743e46fe95ac947ed1e8188dcd1633ac]: Textual amendment: Words in [reg. 24(7)(a)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/24/7/a) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/3220/regulation/9)
+[^c-743e46fe95ac947ed1e8188dcd1633ac]: Textual amendment: Words in [reg. 24(7)(a)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/24/7/a) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/3220/regulation/9)

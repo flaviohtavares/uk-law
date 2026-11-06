@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Surplus earnings[^key-f2285cef7a0c034af9ff64a897f8535a][^key-a0a644e7650ae88eed2c1111d3a842b5]
+## 54. Surplus earnings[^c-f2285cef7a0c034af9ff64a897f8535a][^c-a0a644e7650ae88eed2c1111d3a842b5]
 
 *Extent: N.I.*
 
@@ -58,20 +58,20 @@ the original surplus, or any adjusted surplus, is to be apportioned in the manne
 
 - “total earned income” is the earned income of the claimant or, if the claimant is a member of a couple, the couple’s combined earned income, but does not include any amount a claimant would be treated as having by virtue of regulation 63 (the minimum income floor);
 - “the nil UC threshold” is the amount of total earned income above which there would be no entitlement to universal credit, expressed by the following formula—
-  - (M – U) / 55 x 100 + WA[^key-cd225ab1465ea7124eb2c537b82a8705]
+  - (M – U) / 55 x 100 + WA[^c-cd225ab1465ea7124eb2c537b82a8705]
   - where—
   - M is the maximum amount of an award of universal credit;
   - U is unearned income;
   - WA is the work allowance.
-- “the old award” does not include an award the last day of which falls before 8th May 2018[^key-88e7123e1366c38f995a695dfca17159].
+- “the old award” does not include an award the last day of which falls before 8th May 2018[^c-88e7123e1366c38f995a695dfca17159].
 - “the relevant threshold” is the nil UC threshold plus £300.
 
 ## Annotations
 
-[^key-f2285cef7a0c034af9ff64a897f8535a]: Textual amendment: Reg. 54 substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(8)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/8)
+[^c-f2285cef7a0c034af9ff64a897f8535a]: Textual amendment: Reg. 54 substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(8)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/8)
 
-[^key-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
+[^c-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
 
-[^key-cd225ab1465ea7124eb2c537b82a8705]: Textual amendment: Words in [reg. 54(6)](https://www.legislation.gov.uk/nisr/2016/216/regulation/54/6) substituted (24.11.2021) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/302)](https://www.legislation.gov.uk/nisr/2021/302), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/302/regulation/2/2)
+[^c-cd225ab1465ea7124eb2c537b82a8705]: Textual amendment: Words in [reg. 54(6)](https://www.legislation.gov.uk/nisr/2016/216/regulation/54/6) substituted (24.11.2021) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/302)](https://www.legislation.gov.uk/nisr/2021/302), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/302/regulation/2/2)
 
-[^key-88e7123e1366c38f995a695dfca17159]: Textual amendment: Words in [reg. 54(6)](https://www.legislation.gov.uk/nisr/2016/216/regulation/54/6) substituted (28.11.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/2), [3(6)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/6)
+[^c-88e7123e1366c38f995a695dfca17159]: Textual amendment: Words in [reg. 54(6)](https://www.legislation.gov.uk/nisr/2016/216/regulation/54/6) substituted (28.11.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/2), [3(6)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/6)

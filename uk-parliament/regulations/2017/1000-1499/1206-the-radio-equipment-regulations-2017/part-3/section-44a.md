@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. UK(NI) indication[^key-7083f8fff445395d2541537dbb8de0f2]
+## 44A. UK(NI) indication[^c-7083f8fff445395d2541537dbb8de0f2]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7083f8fff445395d2541537dbb8de0f2]: Textual amendment: [Regs. 44A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/44A), [44B](https://www.legislation.gov.uk/uksi/2017/1206/regulation/44B) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/14/4)
+[^c-7083f8fff445395d2541537dbb8de0f2]: Textual amendment: [Regs. 44A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/44A), [44B](https://www.legislation.gov.uk/uksi/2017/1206/regulation/44B) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/14/4)

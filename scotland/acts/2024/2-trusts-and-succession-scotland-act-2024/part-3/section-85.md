@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Modification of enactments[^key-8389fb718b762224bd7fe6d3fa736a6c]
+## 85. Modification of enactments[^c-8389fb718b762224bd7fe6d3fa736a6c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Schedule 1 makes provision for the modification of enactments.
 
 ## Annotations
 
-[^key-8389fb718b762224bd7fe6d3fa736a6c]: Commencement: S. 85 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-8389fb718b762224bd7fe6d3fa736a6c]: Commencement: S. 85 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

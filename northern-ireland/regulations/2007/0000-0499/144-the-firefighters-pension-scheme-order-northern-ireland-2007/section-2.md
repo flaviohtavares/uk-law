@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. The Scheme[^key-0b8081a8914650b9f6c99209e6e5211f]
+## 2. The Scheme[^c-0b8081a8914650b9f6c99209e6e5211f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Scheme set out in the Annex shall have effect.
 
 ## Annotations
 
-[^key-0b8081a8914650b9f6c99209e6e5211f]: Commencement: Art. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-0b8081a8914650b9f6c99209e6e5211f]: Commencement: Art. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)

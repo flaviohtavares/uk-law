@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.40. Application for an order ending housing administration[^key-6a02cd6a0a9f6648f20c39eadcf0d528]
+## 3.40. Application for an order ending housing administration[^c-6a02cd6a0a9f6648f20c39eadcf0d528]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a02cd6a0a9f6648f20c39eadcf0d528]: Commencement: Rule 3.40 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6a02cd6a0a9f6648f20c39eadcf0d528]: Commencement: Rule 3.40 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

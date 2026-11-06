@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Pensions
 
-The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2022 (revoked)[^key-dc823ff0b8368702de23c7599969595a]
+The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2022 (revoked)[^c-dc823ff0b8368702de23c7599969595a]
 
 Made
 
@@ -44,11 +44,11 @@ Coming into operation
 
 1st August 2022
 
-[^key-dc823ff0b8368702de23c7599969595a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc823ff0b8368702de23c7599969595a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Preliminary provisions[^key-dc823ff0b8368702de23c7599969595a]
+### PART 1 — Preliminary provisions[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -58,7 +58,7 @@ Coming into operation
 - [Section 2 — Interpretation and notices](part-1/section-2.md)
 - [Section 3 — Connected employers](part-1/section-3.md)
 
-### PART 2 — Schemes divided into sections[^key-dc823ff0b8368702de23c7599969595a]
+### PART 2 — Schemes divided into sections[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -67,7 +67,7 @@ Coming into operation
 - [Section 4 — Qualifying schemes](part-2/section-4.md)
 - [Section 5 — Schemes divided into sections](part-2/section-5.md)
 
-### PART 3 — Authorisation[^key-dc823ff0b8368702de23c7599969595a]
+### PART 3 — Authorisation[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -85,7 +85,7 @@ Coming into operation
 - [Section 15 — Continuity strategy: contents](part-3/section-15.md)
 - [Section 16 — Continuity strategy: administration charges](part-3/section-16.md)
 
-### PART 4 — Valuation and benefit adjustment[^key-dc823ff0b8368702de23c7599969595a]
+### PART 4 — Valuation and benefit adjustment[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -97,7 +97,7 @@ Coming into operation
 - [Section 20 — Reporting requirements relating to benefit adjustments](part-4/section-20.md)
 - [Section 21 — Powers of the Regulator](part-4/section-21.md)
 
-### PART 5 — Ongoing supervision[^key-dc823ff0b8368702de23c7599969595a]
+### PART 5 — Ongoing supervision[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -107,7 +107,7 @@ Coming into operation
 - [Section 23 — Significant events](part-5/section-23.md)
 - [Section 24 — Risk notices](part-5/section-24.md)
 
-### PART 6 — Triggering events and continuity options[^key-dc823ff0b8368702de23c7599969595a]
+### PART 6 — Triggering events and continuity options[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -124,7 +124,7 @@ Coming into operation
 - [Section 33 — Pause orders](part-6/section-33.md)
 - [Section 34 — Administration charges during a triggering event period](part-6/section-34.md)
 
-### PART 7 — Collective money purchase benefits – amendments to subordinate legislation[^key-dc823ff0b8368702de23c7599969595a]
+### PART 7 — Collective money purchase benefits – amendments to subordinate legislation[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -144,12 +144,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-dc823ff0b8368702de23c7599969595a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc823ff0b8368702de23c7599969595a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-dc823ff0b8368702de23c7599969595a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc823ff0b8368702de23c7599969595a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc823ff0b8368702de23c7599969595a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/191) revoked (30.1.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2023 (S.R. 2023/7)](https://www.legislation.gov.uk/nisr/2023/7), [regs. 1](https://www.legislation.gov.uk/nisr/2023/7/regulation/1), [36](https://www.legislation.gov.uk/nisr/2023/7/regulation/36)
+[^c-dc823ff0b8368702de23c7599969595a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/191) revoked (30.1.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2023 (S.R. 2023/7)](https://www.legislation.gov.uk/nisr/2023/7), [regs. 1](https://www.legislation.gov.uk/nisr/2023/7/regulation/1), [36](https://www.legislation.gov.uk/nisr/2023/7/regulation/36)

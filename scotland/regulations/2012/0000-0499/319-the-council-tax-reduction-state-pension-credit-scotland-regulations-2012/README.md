@@ -169,7 +169,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - [Section 69 — Duty to notify changes of circumstances](part-10/section-69.md)
 - [Section 70 — Alternative means of notifying changes of circumstances](part-10/section-70.md)
 
-### PART 10A — Review and appeal[^key-d8f385ac9d854ce5db2b0df972ab6941][^key-e5f1b7b008aa625aa2a408c7824c2a84]
+### PART 10A — Review and appeal[^c-d8f385ac9d854ce5db2b0df972ab6941][^c-e5f1b7b008aa625aa2a408c7824c2a84]
 
 - [Section 70A — Review of determination on an application](part-10a/section-70a.md)
 - [Section 70B — Appeal against a determination on an application](part-10a/section-70b.md)
@@ -179,7 +179,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 - [Section 71 — Electronic communication](part-11/section-71.md)
 
-### PART 12 — Transitional provision[^key-2c6d27f237e057d0952d777c5dc9703f]
+### PART 12 — Transitional provision[^c-2c6d27f237e057d0952d777c5dc9703f]
 
 - [Section 72 — Transitional provision](part-12/section-72.md)
 
@@ -234,8 +234,8 @@ Part 11 provides for the sending of documents by electronic communication (regu
 
 [^c21457621]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of Schedule 13 to the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-d8f385ac9d854ce5db2b0df972ab6941]: Textual amendment: Pt. 10A inserted (1.10.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013 (S.S.I. 2013/218)](https://www.legislation.gov.uk/ssi/2013/218), [regs. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1), [13](https://www.legislation.gov.uk/ssi/2013/218/regulation/13) (with [reg. 18](https://www.legislation.gov.uk/ssi/2013/218/regulation/18))
+[^c-d8f385ac9d854ce5db2b0df972ab6941]: Textual amendment: Pt. 10A inserted (1.10.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013 (S.S.I. 2013/218)](https://www.legislation.gov.uk/ssi/2013/218), [regs. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1), [13](https://www.legislation.gov.uk/ssi/2013/218/regulation/13) (with [reg. 18](https://www.legislation.gov.uk/ssi/2013/218/regulation/18))
 
-[^key-e5f1b7b008aa625aa2a408c7824c2a84]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/ssi/2012/319/part/10A) heading substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))
+[^c-e5f1b7b008aa625aa2a408c7824c2a84]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/ssi/2012/319/part/10A) heading substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))
 
-[^key-2c6d27f237e057d0952d777c5dc9703f]: Textual amendment: [Pt. 12](https://www.legislation.gov.uk/ssi/2012/319/part/12) inserted (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [8](https://www.legislation.gov.uk/ssi/2013/49/regulation/8)
+[^c-2c6d27f237e057d0952d777c5dc9703f]: Textual amendment: [Pt. 12](https://www.legislation.gov.uk/ssi/2012/319/part/12) inserted (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [8](https://www.legislation.gov.uk/ssi/2013/49/regulation/8)

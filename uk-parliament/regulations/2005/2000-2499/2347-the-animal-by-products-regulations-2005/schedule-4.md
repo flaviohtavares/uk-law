@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 4 — Transitional Measures[^key-13ecd4358e524f8217ce73ac3012eeac]
+## SCHEDULE 4 — Transitional Measures[^c-13ecd4358e524f8217ce73ac3012eeac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulation 53
 
-### PART I — THE COLLECTION, TRANSPORTATION AND DISPOSAL OF FORMER FOODSTUFFS[^key-13ecd4358e524f8217ce73ac3012eeac]
+### PART I — THE COLLECTION, TRANSPORTATION AND DISPOSAL OF FORMER FOODSTUFFS[^c-13ecd4358e524f8217ce73ac3012eeac]
 
-**1.**[^key-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Collection, transport and disposal of former foodstuffs[^key-13ecd4358e524f8217ce73ac3012eeac]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART II — OLEOCHEMICAL PLANTS USING RENDERED FATS FROM CATEGORY 2 AND CATEGORY 3 MATERIALS[^key-13ecd4358e524f8217ce73ac3012eeac]
-
-#### 1. General obligations[^key-13ecd4358e524f8217ce73ac3012eeac]
+#### 2. Collection, transport and disposal of former foodstuffs[^c-13ecd4358e524f8217ce73ac3012eeac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Specific requirements[^key-13ecd4358e524f8217ce73ac3012eeac]
+**5.**[^c-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — OLEOCHEMICAL PLANTS USING RENDERED FATS FROM CATEGORY 2 AND CATEGORY 3 MATERIALS[^c-13ecd4358e524f8217ce73ac3012eeac]
+
+#### 1. General obligations[^c-13ecd4358e524f8217ce73ac3012eeac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-13ecd4358e524f8217ce73ac3012eeac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Specific requirements[^c-13ecd4358e524f8217ce73ac3012eeac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13ecd4358e524f8217ce73ac3012eeac]: Textual amendment: Regulations revoked (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [28](https://www.legislation.gov.uk/uksi/2011/881/regulation/28)
+[^c-13ecd4358e524f8217ce73ac3012eeac]: Textual amendment: Regulations revoked (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [28](https://www.legislation.gov.uk/uksi/2011/881/regulation/28)

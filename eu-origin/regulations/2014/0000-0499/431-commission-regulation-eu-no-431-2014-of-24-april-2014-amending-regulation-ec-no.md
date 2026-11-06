@@ -35,18 +35,18 @@ amending Regulation (EC) No 1099/2008 of the European Parliament and of the Coun
 
 (Text with EEA relevance) (revoked)
 
-[^key-52058bc323cde089c6b27d178a25fbcc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52058bc323cde089c6b27d178a25fbcc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-52058bc323cde089c6b27d178a25fbcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-52058bc323cde089c6b27d178a25fbcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-52058bc323cde089c6b27d178a25fbcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-52058bc323cde089c6b27d178a25fbcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52058bc323cde089c6b27d178a25fbcc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52058bc323cde089c6b27d178a25fbcc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-52058bc323cde089c6b27d178a25fbcc]
+## ANNEX[^c-52058bc323cde089c6b27d178a25fbcc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52058bc323cde089c6b27d178a25fbcc]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 231](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/231); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52058bc323cde089c6b27d178a25fbcc]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 231](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/231); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

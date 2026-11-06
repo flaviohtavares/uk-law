@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Powers of CIECSS in relation to parent undertakings[^key-772d30b699b68419f2108bfa817557bf]
+## 14. Powers of CIECSS in relation to parent undertakings[^c-772d30b699b68419f2108bfa817557bf]
 
 *Extent: E+W*
 
-(1)[^key-25f698f51614a7c1c784326dfa6b3e68] The [Care Standards Act 2000](https://www.legislation.gov.uk/ukpga/2000/14/contents) is amended as follows.
+(1)[^c-25f698f51614a7c1c784326dfa6b3e68] The [Care Standards Act 2000](https://www.legislation.gov.uk/ukpga/2000/14/contents) is amended as follows.
 
 (2) After [section 23](https://www.legislation.gov.uk/ukpga/2000/14/section/23) insert—
 
@@ -162,7 +162,7 @@ summary: ''
 > - (a) section 23A(1) (service of improvement plan notices), or
 > - (b) section 23B(2) (rejection of improvement plans).
 
-(4)[^key-f3d820fc61d58e28be51cbab3d45e174] In [section 22](https://www.legislation.gov.uk/ukpga/2000/14/section/22) (regulation of establishments and agencies)—
+(4)[^c-f3d820fc61d58e28be51cbab3d45e174] In [section 22](https://www.legislation.gov.uk/ukpga/2000/14/section/22) (regulation of establishments and agencies)—
 
 - (a) after [subsection (2)](https://www.legislation.gov.uk/ukpga/2000/14/section/22) insert—
 
@@ -173,7 +173,7 @@ summary: ''
 
   > (10A) In subsection (2A), “**parent undertaking**” has the meaning given by [section 1162](https://www.legislation.gov.uk/ukpga/2006/46/section/1162) of the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46/contents).
 
-(5)[^key-f3d820fc61d58e28be51cbab3d45e174] In [section 37](https://www.legislation.gov.uk/ukpga/2000/14/section/37) (service of documents)—
+(5)[^c-f3d820fc61d58e28be51cbab3d45e174] In [section 37](https://www.legislation.gov.uk/ukpga/2000/14/section/37) (service of documents)—
 
 - (a) in [subsection (1)](https://www.legislation.gov.uk/ukpga/2000/14/section/37)—
   - (i) omit the words from “carrying” to “agency”;
@@ -203,8 +203,8 @@ summary: ''
 
 ## Annotations
 
-[^key-772d30b699b68419f2108bfa817557bf]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-772d30b699b68419f2108bfa817557bf]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-25f698f51614a7c1c784326dfa6b3e68]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/14/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/c)
+[^c-25f698f51614a7c1c784326dfa6b3e68]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/14/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/c)
 
-[^key-f3d820fc61d58e28be51cbab3d45e174]: Commencement: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/14/5) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/c)
+[^c-f3d820fc61d58e28be51cbab3d45e174]: Commencement: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/14/5) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/c)

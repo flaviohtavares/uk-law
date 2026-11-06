@@ -41,32 +41,32 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred by section 1 of the Seeds Act (Northern Ireland) 1965[^f00002], after consultation with representatives of such interests as appear to it to be concerned, makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b2a2c2b57ab1af4814460aeef7a40de2]
+## 1. Citation, commencement and interpretation[^c-b2a2c2b57ab1af4814460aeef7a40de2]
 
 (1) These Regulations may be cited as The Seed Potatoes (Tuber Inspection Fees) Regulations (Northern Ireland) 2006 and shall come into operation on 28th August 2006.
 
 (2) In these Regulations:
 
-- [^key-a188c76ca3f3b8d2db2b3c5c0e9e2485]...
-- “official label” shall have the meaning assigned to it in regulation 2 of the Seed Potatoes Regulations (Northern Ireland) 2016[^key-a675382ed3cdb7cd7605b5094be39d24] ;
+- [^c-a188c76ca3f3b8d2db2b3c5c0e9e2485]...
+- “official label” shall have the meaning assigned to it in regulation 2 of the Seed Potatoes Regulations (Northern Ireland) 2016[^c-a675382ed3cdb7cd7605b5094be39d24] ;
 - “the Seed Potatoes Regulations” refers to the Seed Potatoes Regulations (Northern Ireland) 2016 .
 
-## 2. Revocation[^key-b774ab7cd3d7aee5b9ae6d3f93dc0fab]
+## 2. Revocation[^c-b774ab7cd3d7aee5b9ae6d3f93dc0fab]
 
 The following are revoked—
 
 - (a) The Seed Potatoes (Tuber and Label Fees) Regulations (Northern Ireland) 1982[^f00004]; and
 - (b) The Seed Potatoes (Tuber and Label Fees) (Amendment) Regulations (Northern Ireland) 2005[^f00005].
 
-## 3. Fees[^key-2b1b240736565e0c5b81bd096c757915]
+## 3. Fees[^c-2b1b240736565e0c5b81bd096c757915]
 
 There shall be paid in respect of the matters specified in column 1 of the Table in the Schedule arising under the Seed Potatoes Regulations, on demand from the person requesting the inspection or official labels, fees as specified in column 2 of that Table.
 
-**4.**[^key-7a953f679d370930e23385428cdd725e] The fees as specified in regulation 3 shall be payable to the Department.
+**4.**[^c-7a953f679d370930e23385428cdd725e] The fees as specified in regulation 3 shall be payable to the Department.
 
-**5.**[^key-dcaabf708c303fbe49c394dc687e7c20] Where the fees for tuber inspection and labels were separate in previous Regulations, these have now been combined, as per the Schedule.
+**5.**[^c-dcaabf708c303fbe49c394dc687e7c20] Where the fees for tuber inspection and labels were separate in previous Regulations, these have now been combined, as per the Schedule.
 
-## 6. Exemptions[^key-da5c827d6cc4dec864f70ce80decab63]
+## 6. Exemptions[^c-da5c827d6cc4dec864f70ce80decab63]
 
 The Department may exempt any class of person or persons generally from compliance in whole or in part with the provisions of these Regulations; in relation to payment of fees any exemptions so made may be subject to conditions.
 
@@ -78,7 +78,7 @@ A senior officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE[^key-30ca581fdb45f0333689ee2d06b1a308]
+## SCHEDULE[^c-30ca581fdb45f0333689ee2d06b1a308]
 
 regulation 2
 
@@ -86,7 +86,7 @@ regulation 2
 | --- | --- |
 | Matter | Fee |
 |  | £ |
-| **1.** Fee for the inspection of seed potato tubers prior to their being sealed in accordance with regulation 12 of the Seed Potatoes Regulations[^key-0b79eb57b37a754d7f8a4b023b372337] and for the provision of an appropriate number of labels for packages per tonne | 4.80 per tonne or part of a tonne |
+| **1.** Fee for the inspection of seed potato tubers prior to their being sealed in accordance with regulation 12 of the Seed Potatoes Regulations[^c-0b79eb57b37a754d7f8a4b023b372337] and for the provision of an appropriate number of labels for packages per tonne | 4.80 per tonne or part of a tonne |
 
 (This note is not part of the Regulations)
 
@@ -104,26 +104,26 @@ These Regulations—
 
 [^f00002]: Footnote: [1965 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1965/22) as amended by [S.R. & O.(N.I.) 1972 No 351](https://www.legislation.gov.uk/nisro/1972/351) Art.3 and Schedule 3
 
-[^key-b2a2c2b57ab1af4814460aeef7a40de2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/187/regulation/1) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
+[^c-b2a2c2b57ab1af4814460aeef7a40de2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/187/regulation/1) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
 
-[^key-a188c76ca3f3b8d2db2b3c5c0e9e2485]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/2) omitted (28.8.2006) by virtue of [The Seed Potatoes (Tuber Inspection Fees) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/330)](https://www.legislation.gov.uk/nisr/2006/330), [regs. 1](https://www.legislation.gov.uk/nisr/2006/330/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2006/330/regulation/2/2)
+[^c-a188c76ca3f3b8d2db2b3c5c0e9e2485]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/2) omitted (28.8.2006) by virtue of [The Seed Potatoes (Tuber Inspection Fees) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/330)](https://www.legislation.gov.uk/nisr/2006/330), [regs. 1](https://www.legislation.gov.uk/nisr/2006/330/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2006/330/regulation/2/2)
 
-[^key-a675382ed3cdb7cd7605b5094be39d24]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/2) substituted (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [25(1)(a)](https://www.legislation.gov.uk/nisr/2016/190/regulation/25/1/a)
+[^c-a675382ed3cdb7cd7605b5094be39d24]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/2) substituted (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [25(1)(a)](https://www.legislation.gov.uk/nisr/2016/190/regulation/25/1/a)
 
-[^key-b774ab7cd3d7aee5b9ae6d3f93dc0fab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/187/regulation/2) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
+[^c-b774ab7cd3d7aee5b9ae6d3f93dc0fab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/187/regulation/2) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1982 No.236](https://www.legislation.gov.uk/nisr/1982/236) as last amended by [S.R. 2005 No.370](https://www.legislation.gov.uk/nisr/2005/370)
 
 [^f00005]: Footnote: [S.R. 2005 No.370](https://www.legislation.gov.uk/nisr/2005/370)
 
-[^key-2b1b240736565e0c5b81bd096c757915]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/187/regulation/3) substituted (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [25(1)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/25/1/b)
+[^c-2b1b240736565e0c5b81bd096c757915]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/187/regulation/3) substituted (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [25(1)(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/25/1/b)
 
-[^key-7a953f679d370930e23385428cdd725e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/187/regulation/4) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
+[^c-7a953f679d370930e23385428cdd725e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/187/regulation/4) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
 
-[^key-dcaabf708c303fbe49c394dc687e7c20]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/187/regulation/5) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
+[^c-dcaabf708c303fbe49c394dc687e7c20]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/187/regulation/5) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
 
-[^key-da5c827d6cc4dec864f70ce80decab63]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/187/regulation/6) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
+[^c-da5c827d6cc4dec864f70ce80decab63]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/187/regulation/6) in operation at 28.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/187/regulation/1/1)
 
-[^key-30ca581fdb45f0333689ee2d06b1a308]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2006/187/schedule) substituted (1.9.2011) by [The Seed Potatoes (Tuber Inspection Fees) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/97)](https://www.legislation.gov.uk/nisr/2011/97), [regs. 1](https://www.legislation.gov.uk/nisr/2011/97/regulation/1), [2](https://www.legislation.gov.uk/nisr/2011/97/regulation/2)
+[^c-30ca581fdb45f0333689ee2d06b1a308]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2006/187/schedule) substituted (1.9.2011) by [The Seed Potatoes (Tuber Inspection Fees) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/97)](https://www.legislation.gov.uk/nisr/2011/97), [regs. 1](https://www.legislation.gov.uk/nisr/2011/97/regulation/1), [2](https://www.legislation.gov.uk/nisr/2011/97/regulation/2)
 
-[^key-0b79eb57b37a754d7f8a4b023b372337]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2006/187/schedule) Table substituted (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [25(1)(c)](https://www.legislation.gov.uk/nisr/2016/190/regulation/25/1/c)
+[^c-0b79eb57b37a754d7f8a4b023b372337]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2006/187/schedule) Table substituted (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [25(1)(c)](https://www.legislation.gov.uk/nisr/2016/190/regulation/25/1/c)

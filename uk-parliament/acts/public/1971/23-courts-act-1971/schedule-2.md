@@ -40,7 +40,7 @@ Social Security Commissioner appointed under section 97 of the [^c847873] Social
 
 President of Social Security Appeal Tribunals and Medical Appeal Tribunals or Chairman of such a tribunal appointed under Schedule 10 to that Act.
 
-[^c847875] President of the Employment Tribunals (England and Wales) or member of a panel of Employment Judges[^key-326a10bcae2dc678f58f903ebe773831] established by regulations under section 1(1) of the [^c847876] Employment Tribunals Act 1996 for employment tribunals for England and Wales.
+[^c847875] President of the Employment Tribunals (England and Wales) or member of a panel of Employment Judges[^c-326a10bcae2dc678f58f903ebe773831] established by regulations under section 1(1) of the [^c847876] Employment Tribunals Act 1996 for employment tribunals for England and Wales.
 
 President or member of the Immigration Appeal Tribunal appointed under Schedule 5 to the Immigration Act [^c847877] 1971.
 
@@ -52,7 +52,7 @@ President of Pensions Appeal Tribunals appointed under the Schedule to the Pensi
 
 [^c2071326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Senior coroner appointed under paragraph 1 of Schedule 3 to the Coroners and Justice Act 2009[^key-e402cc14082e53328febf8b018e08974]
+Senior coroner appointed under paragraph 1 of Schedule 3 to the Coroners and Justice Act 2009[^c-e402cc14082e53328febf8b018e08974]
 
 Master of the Queen’s Bench Division.
 
@@ -60,9 +60,9 @@ Queen’s Coroner and Attorney and Master of the Crown Office and Registrar of C
 
 Admiralty Registrar.
 
-Master of the Business and Property Division[^key-94fe5993eb05728232f71cb6b6e56570].
+Master of the Business and Property Division[^c-94fe5993eb05728232f71cb6b6e56570].
 
-Insolvency and Companies Court Judge[^key-2aa7273903ececcbe5e7a4032a121418] .
+Insolvency and Companies Court Judge[^c-2aa7273903ececcbe5e7a4032a121418] .
 
 Taxing Master of the Senior Courts[^c2088053] [^c2088053] .
 
@@ -124,7 +124,7 @@ rules made by the Lord Chancellor with the consent of the Minister for the Civil
 
 [^c847875]: Textual amendment: Sch. 2 Pt. IA entry substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 15](https://www.legislation.gov.uk/ukpga/1998/8/section/15), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1998/8/schedule/1/paragraph/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2](https://www.legislation.gov.uk/uksi/1998/1658/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-326a10bcae2dc678f58f903ebe773831]: Textual amendment: Words in Sch. 2 Pt. 1A substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-326a10bcae2dc678f58f903ebe773831]: Textual amendment: Words in Sch. 2 Pt. 1A substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
 [^c847876]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 
@@ -138,11 +138,11 @@ rules made by the Lord Chancellor with the consent of the Minister for the Civil
 
 [^c2071326]: Textual amendment: Sch. 2 Pt. 1A entry omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/56/article/3), [Sch. 1 para. 63(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/63/b)
 
-[^key-e402cc14082e53328febf8b018e08974]: Textual amendment: Words in Sch. 2 Pt. 1A substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/22) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xi)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xi)
+[^c-e402cc14082e53328febf8b018e08974]: Textual amendment: Words in Sch. 2 Pt. 1A substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/22) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xi)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xi)
 
-[^key-94fe5993eb05728232f71cb6b6e56570]: Textual amendment: Words in [Sch. 2 Pt. 1A](https://www.legislation.gov.uk/ukpga/1971/23/schedule/2/part/1A) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/10)
+[^c-94fe5993eb05728232f71cb6b6e56570]: Textual amendment: Words in [Sch. 2 Pt. 1A](https://www.legislation.gov.uk/ukpga/1971/23/schedule/2/part/1A) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/10)
 
-[^key-2aa7273903ececcbe5e7a4032a121418]: Textual amendment: Words in [Sch. 2 Pt. 1A](https://www.legislation.gov.uk/ukpga/1971/23/schedule/2/part/1A) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/4)
+[^c-2aa7273903ececcbe5e7a4032a121418]: Textual amendment: Words in [Sch. 2 Pt. 1A](https://www.legislation.gov.uk/ukpga/1971/23/schedule/2/part/1A) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/4)
 
 [^c2088053]: Textual amendment: Words in Sch. 2 Pt. IA substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(b)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/b/d)
 

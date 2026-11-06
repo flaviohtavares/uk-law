@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-1df2f6f9da8a814d4d7bad8ecc28384c]
+## 1. Citation and commencement[^c-1df2f6f9da8a814d4d7bad8ecc28384c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Offshore Petroleum Production and Pipe-lin
 
 ## Annotations
 
-[^key-1df2f6f9da8a814d4d7bad8ecc28384c]: Commencement: Reg. 1 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-1df2f6f9da8a814d4d7bad8ecc28384c]: Commencement: Reg. 1 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

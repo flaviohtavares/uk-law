@@ -22,7 +22,7 @@ summary: ''
 
 Section 18
 
-**1.**[^key-1b946ac8028e1b27c720caa2567b026d] (1) Training regulations may make provision requiring an individual's competence—
+**1.**[^c-1b946ac8028e1b27c720caa2567b026d] (1) Training regulations may make provision requiring an individual's competence—
 
 - (a) to take part in, or otherwise to be engaged in connection with, prescribed activities in a prescribed role or capacity, or
 - (b) to work at a prescribed place, or to work at a prescribed place in a prescribed role or capacity,
@@ -31,7 +31,7 @@ to be assessed by a person approved by, or on behalf of, the regulator.
 
 (2) Training regulations may prescribe what a person may or must do in order to fulfil any prescribed criteria with respect to training and qualifications or medical fitness.
 
-**2.**[^key-234d82fc1fe4db77c73ffa615e1534a3] (1) Training regulations may make provision requiring training to be provided only by a person approved by, or on behalf of, the regulator.
+**2.**[^c-234d82fc1fe4db77c73ffa615e1534a3] (1) Training regulations may make provision requiring training to be provided only by a person approved by, or on behalf of, the regulator.
 
 (2) Training regulations may make provision—
 
@@ -46,9 +46,9 @@ to be assessed by a person approved by, or on behalf of, the regulator.
 
 (4) Training regulations may make provision about inspection of approved training providers and approved assessors.
 
-**3.**[^key-98de68423ab74712790e3d880fbc0946] Training regulations may make provision about keeping records of training undertaken or provided.
+**3.**[^c-98de68423ab74712790e3d880fbc0946] Training regulations may make provision about keeping records of training undertaken or provided.
 
-**4.**[^key-e350562f433b617336da5be25ab82f71] Training regulations may—
+**4.**[^c-e350562f433b617336da5be25ab82f71] Training regulations may—
 
 - (a) make provision about how applications for any authorisation, approval or other document required by the regulations are to be made, considered and determined (including provision about the examinations and tests to be undergone);
 - (b) make provision for any such document to be granted subject to conditions or limitation of time;
@@ -57,10 +57,10 @@ to be assessed by a person approved by, or on behalf of, the regulator.
 
 ## Annotations
 
-[^key-1b946ac8028e1b27c720caa2567b026d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/1) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)
+[^c-1b946ac8028e1b27c720caa2567b026d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/1) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)
 
-[^key-234d82fc1fe4db77c73ffa615e1534a3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)
+[^c-234d82fc1fe4db77c73ffa615e1534a3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)
 
-[^key-98de68423ab74712790e3d880fbc0946]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/3) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)
+[^c-98de68423ab74712790e3d880fbc0946]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/3) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)
 
-[^key-e350562f433b617336da5be25ab82f71]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/4) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)
+[^c-e350562f433b617336da5be25ab82f71]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/2/paragraph/4) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(bbb)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/bbb)

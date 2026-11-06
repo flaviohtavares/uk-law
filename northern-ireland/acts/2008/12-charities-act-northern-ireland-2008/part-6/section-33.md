@@ -51,7 +51,7 @@ the Commission may of its own motion do either or both of the following thingsâ€
 
 - (a) where, within the last 5 years, the trusteeâ€”
   - (i) having previously been adjudged bankrupt or had estate sequestrated, has been discharged, or
-  - (ii) having previously made a composition or arrangement with, or granted a trust deed for, creditors, has been discharged in respect of it;or[^key-a7d9995f00eb29c85f3375d326d7317e]
+  - (ii) having previously made a composition or arrangement with, or granted a trust deed for, creditors, has been discharged in respect of it;or[^c-a7d9995f00eb29c85f3375d326d7317e]
   - (iii) having previously been the subject of a debt relief order, has been discharged from all the qualifying debts under the debt relief order;
 - (b) where the trustee is a corporation in liquidation;
 - (c) where the trustee is incapable of acting by reason of mental disorder within the meaning of the Mental Health (Northern Ireland) Order 1986 (NI 4);
@@ -81,4 +81,4 @@ the Commission may of its own motion do either or both of the following thingsâ€
 
 ## Annotations
 
-[^key-a7d9995f00eb29c85f3375d326d7317e]: Textual amendment: [S. 33(4)(a)(iii)](https://www.legislation.gov.uk/nia/2008/12/section/33/4/a/iii) and preceding word added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(2)](https://www.legislation.gov.uk/nia/2013/3/section/3/2), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-a7d9995f00eb29c85f3375d326d7317e]: Textual amendment: [S. 33(4)(a)(iii)](https://www.legislation.gov.uk/nia/2008/12/section/33/4/a/iii) and preceding word added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(2)](https://www.legislation.gov.uk/nia/2013/3/section/3/2), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. British ships and United Kingdom ships.[^key-990b6a6ad74286a8a89b8bffdb91b0d0]
+## 1. British ships and United Kingdom ships.[^c-990b6a6ad74286a8a89b8bffdb91b0d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-990b6a6ad74286a8a89b8bffdb91b0d0]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1995/21/section/1) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)
+[^c-990b6a6ad74286a8a89b8bffdb91b0d0]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1995/21/section/1) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)

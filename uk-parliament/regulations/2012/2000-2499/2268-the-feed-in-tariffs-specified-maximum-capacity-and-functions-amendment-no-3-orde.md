@@ -32,7 +32,7 @@ summary: ''
 
 Electricity
 
-The Feed-in Tariffs (Specified Maximum Capacity and Functions) (Amendment No. 3) Order 2012 (revoked)[^key-c4a084ac417bbad417b01864cf828f33]
+The Feed-in Tariffs (Specified Maximum Capacity and Functions) (Amendment No. 3) Order 2012 (revoked)[^c-c4a084ac417bbad417b01864cf828f33]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2012
 
-[^key-c4a084ac417bbad417b01864cf828f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4a084ac417bbad417b01864cf828f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c4a084ac417bbad417b01864cf828f33]
+## 1. Citation and commencement[^c-c4a084ac417bbad417b01864cf828f33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-c4a084ac417bbad417b01864cf828f33]
+## 2. Amendment[^c-c4a084ac417bbad417b01864cf828f33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4a084ac417bbad417b01864cf828f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4a084ac417bbad417b01864cf828f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c4a084ac417bbad417b01864cf828f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4a084ac417bbad417b01864cf828f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4a084ac417bbad417b01864cf828f33]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2268) revoked (1.12.2012) by [The Feed-in Tariffs Order 2012 (S.I. 2012/2782)](https://www.legislation.gov.uk/uksi/2012/2782), [art. 1](https://www.legislation.gov.uk/uksi/2012/2782/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2782/schedule/3)
+[^c-c4a084ac417bbad417b01864cf828f33]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2268) revoked (1.12.2012) by [The Feed-in Tariffs Order 2012 (S.I. 2012/2782)](https://www.legislation.gov.uk/uksi/2012/2782), [art. 1](https://www.legislation.gov.uk/uksi/2012/2782/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2782/schedule/3)

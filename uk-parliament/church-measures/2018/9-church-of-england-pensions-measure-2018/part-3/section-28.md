@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 28. Commencement, postponement, suspension and discontinuation of pension[^key-fade8c03ea596bc5aae9daf0007a23af]
+## 28. Commencement, postponement, suspension and discontinuation of pension[^c-fade8c03ea596bc5aae9daf0007a23af]
 
 *Extent: E*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fade8c03ea596bc5aae9daf0007a23af]: Commencement: [S. 28](https://www.legislation.gov.uk/ukcm/2018/9/section/28) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-fade8c03ea596bc5aae9daf0007a23af]: Commencement: [S. 28](https://www.legislation.gov.uk/ukcm/2018/9/section/28) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

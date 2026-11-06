@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Payments under certain life insurance policies.[^key-d3d1e64b0517ddbe8ce1c061a5cf274a]
+## 79. Payments under certain life insurance policies.[^c-d3d1e64b0517ddbe8ce1c061a5cf274a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d1e64b0517ddbe8ce1c061a5cf274a]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1997/16/section/79) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(f)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/f)
+[^c-d3d1e64b0517ddbe8ce1c061a5cf274a]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1997/16/section/79) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(f)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/f)

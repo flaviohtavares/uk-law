@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 16 of the Education (Additional Support for Learning) (Scotland) Act 2004[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-79a4edfcbd303cec7987bbe159ec367c]
+## 1. Citation and commencement[^c-79a4edfcbd303cec7987bbe159ec367c]
 
-These Regulations may be cited as the Additional Support for Learning Dispute Resolution (Scotland) Amendment Regulations 2010 and come into force on 14th November[^key-58ac84cb7e90a08b9d61cca22a4359c6] 2010.
+These Regulations may be cited as the Additional Support for Learning Dispute Resolution (Scotland) Amendment Regulations 2010 and come into force on 14th November[^c-58ac84cb7e90a08b9d61cca22a4359c6] 2010.
 
-## 2. Amendment to the Additional Support for Learning Dispute Resolution (Scotland) Regulations 2005[^key-2274553cd08a0741af4a33b33f3f7b0f]
+## 2. Amendment to the Additional Support for Learning Dispute Resolution (Scotland) Regulations 2005[^c-2274553cd08a0741af4a33b33f3f7b0f]
 
 The Additional Support for Learning Dispute Resolution (Scotland) Regulations 2005[^f00002] are amended as follows.
 
-**3.**[^key-a9ba7689dceaaa8f2599a5c2f0481798] In regulation 3 (application for referral to dispute resolution) in paragraph (1)—
+**3.**[^c-a9ba7689dceaaa8f2599a5c2f0481798] In regulation 3 (application for referral to dispute resolution) in paragraph (1)—
 
 - (a) for “education authority” substitute “Scottish Ministers”; and
 - (b) after “matter,” insert—
@@ -63,7 +63,7 @@ The Additional Support for Learning Dispute Resolution (Scotland) Regulations 20
 
   .
 
-**4.**[^key-c662b04f0595b8aaa705b7ade423a980] In the Schedule (specified matters)—
+**4.**[^c-c662b04f0595b8aaa705b7ade423a980] In the Schedule (specified matters)—
 
 - (a) in sub-paragraph 1(d) omit “or”;
 - (b) after sub-paragraph 1(e) insert—
@@ -110,16 +110,16 @@ Regulation 4 also amends the Schedule to exclude a reference to dispute resoluti
 
 [^f00001]: Footnote: [2004 asp 4](https://www.legislation.gov.uk/asp/2004/4). Section 16 was amended by s.12 of the [Education (Additional Support for Learning) (Scotland) Act 2009 (asp 7)](https://www.legislation.gov.uk/asp/2009/7).
 
-[^key-79a4edfcbd303cec7987bbe159ec367c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
+[^c-79a4edfcbd303cec7987bbe159ec367c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
 
-[^key-58ac84cb7e90a08b9d61cca22a4359c6]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) substituted (15.8.2010) by [The Additional Support for Learning (Co-ordinated Support Plan and Dispute Resolution) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/275)](https://www.legislation.gov.uk/ssi/2010/275), [regs. 1](https://www.legislation.gov.uk/ssi/2010/275/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3)
+[^c-58ac84cb7e90a08b9d61cca22a4359c6]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) substituted (15.8.2010) by [The Additional Support for Learning (Co-ordinated Support Plan and Dispute Resolution) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/275)](https://www.legislation.gov.uk/ssi/2010/275), [regs. 1](https://www.legislation.gov.uk/ssi/2010/275/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3)
 
-[^key-2274553cd08a0741af4a33b33f3f7b0f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/144/regulation/2) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
+[^c-2274553cd08a0741af4a33b33f3f7b0f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/144/regulation/2) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
 
 [^f00002]: Footnote: [S.S.I. 2005/501](https://www.legislation.gov.uk/ssi/2005/501).
 
-[^key-a9ba7689dceaaa8f2599a5c2f0481798]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/144/regulation/3) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
+[^c-a9ba7689dceaaa8f2599a5c2f0481798]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/144/regulation/3) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
 
-[^key-c662b04f0595b8aaa705b7ade423a980]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/144/regulation/4) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
+[^c-c662b04f0595b8aaa705b7ade423a980]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/144/regulation/4) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/144/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 3](https://www.legislation.gov.uk/ssi/2010/275/regulation/3))
 
 [^f00003]: Footnote: Section 8A was inserted by the Education (Additional Support for Learning) (Scotland) Act 2009, section 7.

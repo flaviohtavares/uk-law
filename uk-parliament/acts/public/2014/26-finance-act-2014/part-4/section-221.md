@@ -25,8 +25,8 @@ summary: ''
 (2) The notice must—
 
 - (a) specify the paragraph or paragraphs of section 219(4) by virtue of which the notice is given,
-- (b) specify the disputed tax (if any)[^key-3419b6c8a8763854869bd01ba4f9d018], [^key-2022468b13fa0e129e1c002fa46dea84]...
-- (c) explain the effect of section 222 and of the amendments made by sections 224 and 225 so far as relating to the relevant tax in relation to which the accelerated payment notice is given, and[^key-74a36932bab417bf4e078c1770101355]
+- (b) specify the disputed tax (if any)[^c-3419b6c8a8763854869bd01ba4f9d018], [^c-2022468b13fa0e129e1c002fa46dea84]...
+- (c) explain the effect of section 222 and of the amendments made by sections 224 and 225 so far as relating to the relevant tax in relation to which the accelerated payment notice is given, and[^c-74a36932bab417bf4e078c1770101355]
 - (d) if the denied advantage consists of or includes an asserted surrenderable amount (within the meaning of section 220(4A)), specify that amount and any action which is required to be taken in respect of it under section 225A.
 
 (3) “**The disputed tax**” means so much of the amount of the charge to tax arising in consequence of—
@@ -34,7 +34,7 @@ summary: ''
 - (a) the amendment or assessment to tax appealed against, or
 - (b) where the appeal is against a conclusion stated by a closure notice, that conclusion,
 
-as a designated HMRC officer determines, to the best of the officer's information and belief, as the amount required to ensure the counteraction of what that officer so determines as the denied advantage (and disregarding any dispute which has been referred to a tribunal under section[^key-e2afe268c4397899809d5f160c5297bc] 12ABZB(3) of TMA 1970 but not yet determined).
+as a designated HMRC officer determines, to the best of the officer's information and belief, as the amount required to ensure the counteraction of what that officer so determines as the denied advantage (and disregarding any dispute which has been referred to a tribunal under section[^c-e2afe268c4397899809d5f160c5297bc] 12ABZB(3) of TMA 1970 but not yet determined).
 
 (4) “**The denied advantage**” has the same meaning as in section 220(5).
 
@@ -44,10 +44,10 @@ as a designated HMRC officer determines, to the best of the officer's informatio
 
 ## Annotations
 
-[^key-3419b6c8a8763854869bd01ba4f9d018]: Textual amendment: Words in s. 221(2)(b) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/4/2/a)
+[^c-3419b6c8a8763854869bd01ba4f9d018]: Textual amendment: Words in s. 221(2)(b) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/4/2/a)
 
-[^key-2022468b13fa0e129e1c002fa46dea84]: Textual amendment: Word in s. 221(2)(b) omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/4/2/b)
+[^c-2022468b13fa0e129e1c002fa46dea84]: Textual amendment: Word in s. 221(2)(b) omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/4/2/b)
 
-[^key-74a36932bab417bf4e078c1770101355]: Textual amendment: S. 221(2)(d) and preceding word inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/4/2/b)
+[^c-74a36932bab417bf4e078c1770101355]: Textual amendment: S. 221(2)(d) and preceding word inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/4/2/b)
 
-[^key-e2afe268c4397899809d5f160c5297bc]: Textual amendment: Words in [s. 221(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/221/3) inserted (with effect in accordance with Sch. 6 para. 14 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/13/2)
+[^c-e2afe268c4397899809d5f160c5297bc]: Textual amendment: Words in [s. 221(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/221/3) inserted (with effect in accordance with Sch. 6 para. 14 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/13/2)

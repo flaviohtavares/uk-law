@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Material retained with consent[^key-681b68e81524dfa32f30eee3378e856b]
+## 11. Material retained with consent[^c-681b68e81524dfa32f30eee3378e856b]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ After section 63N of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-681b68e81524dfa32f30eee3378e856b]: Commencement: S. 11 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-681b68e81524dfa32f30eee3378e856b]: Commencement: S. 11 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

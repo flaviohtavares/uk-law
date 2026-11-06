@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Partial retirement option notice[^key-0d2b7ecf365cf38eda794e218a35dfdf]
+## 65. Partial retirement option notice[^c-0d2b7ecf365cf38eda794e218a35dfdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d2b7ecf365cf38eda794e218a35dfdf]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2014/1964/regulation/65) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-0d2b7ecf365cf38eda794e218a35dfdf]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2014/1964/regulation/65) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

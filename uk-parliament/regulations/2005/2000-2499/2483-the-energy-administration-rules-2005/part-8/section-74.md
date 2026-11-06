@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Fixing of remuneration[^key-cc31d74f9596d7ca5968b7c4271993b8]
+## 74. Fixing of remuneration[^c-cc31d74f9596d7ca5968b7c4271993b8]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc31d74f9596d7ca5968b7c4271993b8]: Commencement: Rule 74 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-cc31d74f9596d7ca5968b7c4271993b8]: Commencement: Rule 74 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

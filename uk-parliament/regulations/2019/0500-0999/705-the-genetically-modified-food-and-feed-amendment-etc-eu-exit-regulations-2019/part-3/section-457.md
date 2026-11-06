@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 457. Amendment of Commission Implementing Decision (EU) 2019/2084 renewing the authorisation for the placing on the market of products containing, consisting of or produced from genetically modified soybean A2704-12 (ACS-GMØØ5-3) pursuant to Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council[^M_I_9fa916c6-ab88-46ec-88e8-f94b0f37bc0e][^key-e3c18dc0526fab5ab5105330a3ca9305]
+## 457. Amendment of Commission Implementing Decision (EU) 2019/2084 renewing the authorisation for the placing on the market of products containing, consisting of or produced from genetically modified soybean A2704-12 (ACS-GMØØ5-3) pursuant to Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council[^M_I_9fa916c6-ab88-46ec-88e8-f94b0f37bc0e][^c-e3c18dc0526fab5ab5105330a3ca9305]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Commission Implementing Decision (EU) 2019/2084 renewing the authorisation for t
 
 [^M_I_9fa916c6-ab88-46ec-88e8-f94b0f37bc0e]: Commencement: Reg. 457 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e3c18dc0526fab5ab5105330a3ca9305]: Textual amendment: Regs. 390-477 substituted for reg. 390 (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2), [17(21)(22)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/17/21/22)
+[^c-e3c18dc0526fab5ab5105330a3ca9305]: Textual amendment: Regs. 390-477 substituted for reg. 390 (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2), [17(21)(22)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/17/21/22)

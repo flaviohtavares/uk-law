@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239B. Election to accelerate charge under section 239A[^key-2e0c9056f3826bb2888ad438dc0cff95]
+## 239B. Election to accelerate charge under section 239A[^c-2e0c9056f3826bb2888ad438dc0cff95]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ T is the number of tax years remaining after that tax year in the period of 6 ta
 
 ## Annotations
 
-[^key-2e0c9056f3826bb2888ad438dc0cff95]: Textual amendment: Ss. 239A, 239B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/37)
+[^c-2e0c9056f3826bb2888ad438dc0cff95]: Textual amendment: Ss. 239A, 239B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/37)

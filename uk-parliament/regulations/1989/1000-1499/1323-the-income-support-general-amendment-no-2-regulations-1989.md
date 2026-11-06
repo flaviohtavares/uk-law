@@ -49,7 +49,7 @@ Whereas a draft of this instrument was laid before Parliament in accordance with
 
 Now, therefore, the Secretary of State for Social Security in exercise of the powers conferred by sections 20(3)(d) and (12)(c) and (d) and 22(1), (8) and (9) of the Social Security Act 1986[^f00002] and sections 166(1) to (3) of the Social Security Act 1975[^f00003] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that the proposals to make these Regulations, in so far as they are required to be referred to it, should not be so referred, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-354ef310bf434be44e85aeadf014ce0c]
+## 1. Citation, commencement and interpretation[^c-354ef310bf434be44e85aeadf014ce0c]
 
 (1) These Regulations may be cited as the Income Support (General) Amendment No. 2 Regulations 1989 and shall come into force as follows—
 
@@ -58,35 +58,35 @@ Now, therefore, the Secretary of State for Social Security in exercise of the po
 
 (2) In these Regulations “the General Regulations” means the Income Support (General) Regulations 1987[^f00004].
 
-## 2. Amendment of regulation 2 of the General Regulations[^key-0cd8aeffa89e182c6c4631efa741aebc]
+## 2. Amendment of regulation 2 of the General Regulations[^c-0cd8aeffa89e182c6c4631efa741aebc]
 
 In regulation 2 of the General Regulations (interpretation), in paragraph (1), in the definition of “training allowance”, after the words “full-time education” there shall be added the words “, other than under arrangements made under section 2 of the Employment and Training Act 1973[^f00005],”.
 
-## 3. Amendment of regulation 5 of the General Regulations[^key-d3f71e5b3f457fb4a66b0cb596aedc53]
+## 3. Amendment of regulation 5 of the General Regulations[^c-d3f71e5b3f457fb4a66b0cb596aedc53]
 
 In regulation 5 of the General Regulations (persons treated as engaged in remunerative work), in paragraph (5), for the reference “regulation 35(1)(b) to (d)” there shall be substituted the reference “regulation 35(1)(b) to (d) and (i)”.
 
-## 4. Amendment of regulation 7 of the General Regulations[^key-32844271d447960429f3a75f91d37ea5]
+## 4. Amendment of regulation 7 of the General Regulations[^c-32844271d447960429f3a75f91d37ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 10 of the General Regulations[^key-78d7dc8680bf2e6c12454ca6e6dcb048]
+## 5. Amendment of regulation 10 of the General Regulations[^c-78d7dc8680bf2e6c12454ca6e6dcb048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Insertion of regulation 10A in the General Regulations[^key-408b05868f2e9bc74e6215745091f10f]
+## 6. Insertion of regulation 10A in the General Regulations[^c-408b05868f2e9bc74e6215745091f10f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 22 of the General Regulations[^key-005e9c8181d4084dc1a29a2bd44d407e]
+## 7. Amendment of regulation 22 of the General Regulations[^c-005e9c8181d4084dc1a29a2bd44d407e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 28 of the General Regulations[^key-f50ca8bc7bcca371ca803bb6b6bb9b00]
+## 8. Amendment of regulation 28 of the General Regulations[^c-f50ca8bc7bcca371ca803bb6b6bb9b00]
 
 In regulation 28 of the General Regulations (calculation of income), in paragraph (2), for the words from “regulations 41 to 43” to the end of that paragraph there shall be substituted the words “regulations 41 and 42 (capital treated as income and notional income).”.
 
-## 9. Amendment of regulation 29 of the General Regulations[^key-312481e76bb46bfe9717f0ffb75d1f74]
+## 9. Amendment of regulation 29 of the General Regulations[^c-312481e76bb46bfe9717f0ffb75d1f74]
 
 In regulation 29 of the General Regulations (calculation of earnings derived from employed earner’s employment and income other than earnings)—
 
@@ -117,7 +117,7 @@ In regulation 29 of the General Regulations (calculation of earnings derived fro
   >   - (i) the period of notice which is applicable to a person, or would have been applicable if it had not been waived; less
   >   - (ii) any part of that period during which the person has continued to work in the employment in question or in respect of which he has received a payment to which regulation 35(1)(c) applies, and for the purposes of this definition “period of notice” means the periodof notice of termination of employment to which a person is entitled by statute or by contract, whichever is the longer, or, if he is not entitled to such notice, the period of notice which is customary in the employment in question.
 
-## 1O. Amendment of regulation 32 of the General Regulations[^key-09094fffc69b43512fd089d2d98ca7a5]
+## 1O. Amendment of regulation 32 of the General Regulations[^c-09094fffc69b43512fd089d2d98ca7a5]
 
 In regulation 32 of the General Regulations (calculation of weekly amount of income)—
 
@@ -128,7 +128,7 @@ In regulation 32 of the General Regulations (calculation of weekly amount of inc
 
   .
 
-## 11. Amendment of regulation 35 of the General Regulations[^key-c838450a836d2206410320da8dfcfe72]
+## 11. Amendment of regulation 35 of the General Regulations[^c-c838450a836d2206410320da8dfcfe72]
 
 In regulation 35 of the General Regulations (earnings of employed earners)—
 
@@ -163,21 +163,21 @@ In regulation 35 of the General Regulations (earnings of employed earners)—
 
   .
 
-## 12. Amendment of regulation 37 of the General Regulations[^key-42c0eb993d17e949971a0b9fd572ed2f]
+## 12. Amendment of regulation 37 of the General Regulations[^c-42c0eb993d17e949971a0b9fd572ed2f]
 
 In regulation 37 of the General Regulations (earnings of self-employed earners), in paragraph (2) the words from “except where the claimant” to the end of that paragraph shall be omitted.
 
-**13.**[^key-b6f5e6d8e9aa26899756909ac15231a0][^key-42c0eb993d17e949971a0b9fd572ed2f] In regulation 41 of the General Regulations (capital treated as income), after paragraph (4) there shall be added the following paragraph—
+**13.**[^c-b6f5e6d8e9aa26899756909ac15231a0][^c-42c0eb993d17e949971a0b9fd572ed2f] In regulation 41 of the General Regulations (capital treated as income), after paragraph (4) there shall be added the following paragraph—
 
 > (5) Any earnings to the extent that they are not a payment of income shall be treated as income.
 
 .
 
-## 14. Revocation of regulation 43 of the General Regulations[^key-9276494a857a2e1fde5b19509213c977]
+## 14. Revocation of regulation 43 of the General Regulations[^c-9276494a857a2e1fde5b19509213c977]
 
 Regulation 43 of the General Regulations (notional earnings of seasonal workers) shall be revoked.
 
-## 15. Amendment of regulation 48 of the General Regulations[^key-c8c4dd5ac5c3d74a79427fed8817f7fe]
+## 15. Amendment of regulation 48 of the General Regulations[^c-c8c4dd5ac5c3d74a79427fed8817f7fe]
 
 At the end of regulation 48 of the General Regulations (income treated as capital) there shall be added the following paragraph—
 
@@ -185,18 +185,18 @@ At the end of regulation 48 of the General Regulations (income treated as capita
 
 .
 
-## 16. Amendment of regulation 70 of the General Regulations[^key-8a0cffe56c763048024dd07fca00d06c]
+## 16. Amendment of regulation 70 of the General Regulations[^c-8a0cffe56c763048024dd07fca00d06c]
 
 In regulation 70 of the General Regulations (urgent cases)
 
 - (a) in paragraph (2), sub-paragraph (c) shall be omitted;
 - (b) in paragraph (4), for the words from “or (c) applies” to “(notional earnings of seasonal workers)” there shall be substituted the words “applies, where the income he is treated as possessing by virtue of regulation 42(3) (notional income)”.
 
-## 17. Amendment of regulation 72 of the General Regulations[^key-684a53ff6e17958c242860dc0d273c93]
+## 17. Amendment of regulation 72 of the General Regulations[^c-684a53ff6e17958c242860dc0d273c93]
 
 In regulation 72 of the General Regulations (assessment of income and capital in urgent cases), in paragraph (1), sub-paragraph (e) shall be omitted.
 
-## 18. Amendment of Schedule 8 to the General Regulations[^key-9970d8cde23ae386717597c683794cb1]
+## 18. Amendment of Schedule 8 to the General Regulations[^c-9970d8cde23ae386717597c683794cb1]
 
 In Schedule 8 to the General Regulations (sums to be disregarded in the calculation of earnings) in paragraph 1(a)(ii) for the reference “(g) and (h)” there shall be substituted the reference “(g) to (i)”.
 
@@ -228,46 +228,46 @@ These Regulations further amend the Income Support (General) Regulations 1987 in
 
 [^f00003]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 
-[^key-354ef310bf434be44e85aeadf014ce0c]: Commencement: Reg. 1 in force at 21.8.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/a)
+[^c-354ef310bf434be44e85aeadf014ce0c]: Commencement: Reg. 1 in force at 21.8.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/a)
 
 [^f00004]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [999](https://www.legislation.gov.uk/uksi/1988/999) and [2022](https://www.legislation.gov.uk/uksi/1988/2022).
 
-[^key-0cd8aeffa89e182c6c4631efa741aebc]: Commencement: Reg. 2 in force at 21.8.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/a)
+[^c-0cd8aeffa89e182c6c4631efa741aebc]: Commencement: Reg. 2 in force at 21.8.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/a)
 
 [^f00005]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 
-[^key-d3f71e5b3f457fb4a66b0cb596aedc53]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/1323/regulation/3) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-d3f71e5b3f457fb4a66b0cb596aedc53]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/1323/regulation/3) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-32844271d447960429f3a75f91d37ea5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/1323/regulation/4) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-32844271d447960429f3a75f91d37ea5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/1323/regulation/4) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-78d7dc8680bf2e6c12454ca6e6dcb048]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1323/regulation/5) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-78d7dc8680bf2e6c12454ca6e6dcb048]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1323/regulation/5) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-408b05868f2e9bc74e6215745091f10f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1323/regulation/6) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-408b05868f2e9bc74e6215745091f10f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1323/regulation/6) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-005e9c8181d4084dc1a29a2bd44d407e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1323/regulation/7) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-005e9c8181d4084dc1a29a2bd44d407e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1323/regulation/7) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-f50ca8bc7bcca371ca803bb6b6bb9b00]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/1323/regulation/8) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-f50ca8bc7bcca371ca803bb6b6bb9b00]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/1323/regulation/8) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-312481e76bb46bfe9717f0ffb75d1f74]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/1323/regulation/9) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-312481e76bb46bfe9717f0ffb75d1f74]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/1323/regulation/9) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
 [^f00008]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44).
 
-[^key-09094fffc69b43512fd089d2d98ca7a5]: Commencement: [Reg. 1O](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1O) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-09094fffc69b43512fd089d2d98ca7a5]: Commencement: [Reg. 1O](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1O) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-c838450a836d2206410320da8dfcfe72]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/1323/regulation/11) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-c838450a836d2206410320da8dfcfe72]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/1323/regulation/11) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
 [^f00009]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 
-[^key-42c0eb993d17e949971a0b9fd572ed2f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/1323/regulation/12) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-42c0eb993d17e949971a0b9fd572ed2f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/1323/regulation/12) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-b6f5e6d8e9aa26899756909ac15231a0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1989/1323/regulation/13) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-b6f5e6d8e9aa26899756909ac15231a0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1989/1323/regulation/13) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-9276494a857a2e1fde5b19509213c977]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/1323/regulation/14) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-9276494a857a2e1fde5b19509213c977]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/1323/regulation/14) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-c8c4dd5ac5c3d74a79427fed8817f7fe]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/1323/regulation/15) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-c8c4dd5ac5c3d74a79427fed8817f7fe]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/1323/regulation/15) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-8a0cffe56c763048024dd07fca00d06c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/1323/regulation/16) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-8a0cffe56c763048024dd07fca00d06c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/1323/regulation/16) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-684a53ff6e17958c242860dc0d273c93]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1989/1323/regulation/17) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-684a53ff6e17958c242860dc0d273c93]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1989/1323/regulation/17) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
 
-[^key-9970d8cde23ae386717597c683794cb1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1989/1323/regulation/18) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)
+[^c-9970d8cde23ae386717597c683794cb1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1989/1323/regulation/18) in force at 9.10.1989, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1323/regulation/1/1/b)

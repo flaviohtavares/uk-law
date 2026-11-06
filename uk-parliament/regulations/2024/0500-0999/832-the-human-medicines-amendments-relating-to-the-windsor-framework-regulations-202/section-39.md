@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Substitution of regulation 52B[^key-fe5942054aa389699d7587763bf5b598]
+## 39. Substitution of regulation 52B[^c-fe5942054aa389699d7587763bf5b598]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ For regulation 52B (application for UKMA(UK)[^f00050] relating to certain medici
 
 ## Annotations
 
-[^key-fe5942054aa389699d7587763bf5b598]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2024/832/regulation/39) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-fe5942054aa389699d7587763bf5b598]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2024/832/regulation/39) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00050]: Footnote: Regulation 52B was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

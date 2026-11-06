@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Application of pipe subways legislation[^key-55048ac7bda1da7ba320bb559b5f7c06]
+## 58. Application of pipe subways legislation[^c-55048ac7bda1da7ba320bb559b5f7c06]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-55048ac7bda1da7ba320bb559b5f7c06]: Commencement: Art. 58 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-55048ac7bda1da7ba320bb559b5f7c06]: Commencement: Art. 58 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00033]: Footnote: [1900 c. ccxxviii](https://www.legislation.gov.uk/ukla/1900/228)
 

@@ -35,7 +35,7 @@ summary: ''
 
 (6) The Authority shall send to the Secretary of State a copy of any plan, or variation, published under this section.
 
-(7)[^key-531cb667299020bf025604ba47777570] The Secretary of State may by regulations make provision—
+(7)[^c-531cb667299020bf025604ba47777570] The Secretary of State may by regulations make provision—
 
 - (a) requiring the Broads Plan to contribute to the meeting of any target set under Chapter 1 of Part 1 of the Environment Act 2021;
 - (b) setting out how the Broads Plan must contribute to the meeting of such targets;
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-531cb667299020bf025604ba47777570]: Textual amendment: [S. 3(7)](https://www.legislation.gov.uk/ukpga/1988/4/section/3/7)[(8)](https://www.legislation.gov.uk/ukpga/1988/4/section/3/8) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(12)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/12), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-531cb667299020bf025604ba47777570]: Textual amendment: [S. 3(7)](https://www.legislation.gov.uk/ukpga/1988/4/section/3/7)[(8)](https://www.legislation.gov.uk/ukpga/1988/4/section/3/8) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(12)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/12), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

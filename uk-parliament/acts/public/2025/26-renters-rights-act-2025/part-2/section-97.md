@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Financial assistance by Secretary of State[^key-fcff2676e9066644e3b946852457728f][^key-003b9e0a41a097dd045181143dc43cf6]
+## 97. Financial assistance by Secretary of State[^c-fcff2676e9066644e3b946852457728f][^c-003b9e0a41a097dd045181143dc43cf6]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Secretary of State may give financial assistance (by way of grant, loan, gua
 
 ## Annotations
 
-[^key-fcff2676e9066644e3b946852457728f]: Commencement: S. 97 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-fcff2676e9066644e3b946852457728f]: Commencement: S. 97 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-003b9e0a41a097dd045181143dc43cf6]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/26/section/97) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/g)
+[^c-003b9e0a41a097dd045181143dc43cf6]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/26/section/97) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/g)

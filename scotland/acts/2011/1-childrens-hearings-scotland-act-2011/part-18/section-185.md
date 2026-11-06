@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 185. Amendment of section 32 of Sheriff Courts (Scotland) Act 1971[^key-dbb929c34808ae8e07025ebc7a2878b9]
+## 185. Amendment of section 32 of Sheriff Courts (Scotland) Act 1971[^c-dbb929c34808ae8e07025ebc7a2878b9]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb929c34808ae8e07025ebc7a2878b9]: Commencement: S. 185 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-dbb929c34808ae8e07025ebc7a2878b9]: Commencement: S. 185 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

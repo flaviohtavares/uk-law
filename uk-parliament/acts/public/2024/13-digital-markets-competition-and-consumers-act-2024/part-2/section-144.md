@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Service and extra-territoriality of notices under CA 1998 and EA 2002[^key-61ad83ea1b381f24e40e049002c48e8c][^key-137ef528477ba660f3bb4bf896e56b79]
+## 144. Service and extra-territoriality of notices under CA 1998 and EA 2002[^c-61ad83ea1b381f24e40e049002c48e8c][^c-137ef528477ba660f3bb4bf896e56b79]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Schedule 13 makes provision about—
 
 ## Annotations
 
-[^key-61ad83ea1b381f24e40e049002c48e8c]: Commencement: S. 144 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-61ad83ea1b381f24e40e049002c48e8c]: Commencement: S. 144 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-137ef528477ba660f3bb4bf896e56b79]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2024/13/section/144) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 17](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/17), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-137ef528477ba660f3bb4bf896e56b79]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2024/13/section/144) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 17](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/17), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

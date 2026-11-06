@@ -37,13 +37,13 @@ Made
 
 The Department of Health, in exercise of the powers conferred by section 255(9) of the Crime and Policing Act[^f00001], makes the following Order:
 
-## 1. Citation and Interpretation[^key-9f992badd9d1ef20e42a4da3cf7dd6aa]
+## 1. Citation and Interpretation[^c-9f992badd9d1ef20e42a4da3cf7dd6aa]
 
 This Order may be cited as the Crime and Policing (2026 Act) (Commencement No. 1) Order (Northern Ireland) 2026.
 
-**2.**[^key-71dfc04e56a1d939fa86364376523e69][^key-9f992badd9d1ef20e42a4da3cf7dd6aa] In this Order, “**the Act**” means the Crime and Policing Act 2026.
+**2.**[^c-71dfc04e56a1d939fa86364376523e69][^c-9f992badd9d1ef20e42a4da3cf7dd6aa] In this Order, “**the Act**” means the Crime and Policing Act 2026.
 
-## 3. Appointed day[^key-a993b1638182755f36276fa028228ab0]
+## 3. Appointed day[^c-a993b1638182755f36276fa028228ab0]
 
 The appointed day for the coming into operation of section 140 (Safeguarding vulnerable groups: regulated activity (Northern Ireland), of the Act is 1 September 2026.
 
@@ -67,8 +67,8 @@ Regulated activity broadly speaking includes work (paid or unpaid) which involve
 
 [^f00001]: Footnote: [2026 c20](https://www.legislation.gov.uk/ukpga/2026/20)
 
-[^key-9f992badd9d1ef20e42a4da3cf7dd6aa]: Commencement: Art. 1 in operation at made date
+[^c-9f992badd9d1ef20e42a4da3cf7dd6aa]: Commencement: Art. 1 in operation at made date
 
-[^key-71dfc04e56a1d939fa86364376523e69]: Commencement: Art. 2 in operation at made date
+[^c-71dfc04e56a1d939fa86364376523e69]: Commencement: Art. 2 in operation at made date
 
-[^key-a993b1638182755f36276fa028228ab0]: Commencement: Art. 3 in operation at made date
+[^c-a993b1638182755f36276fa028228ab0]: Commencement: Art. 3 in operation at made date

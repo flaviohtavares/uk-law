@@ -62,7 +62,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) References in this Part to person A and person B are to be construed in accordance with this section.
 
-#### 2. Meaning of abusive behaviour[^key-4fb37aea6f8f1b796d834429ee416034]
+#### 2. Meaning of abusive behaviour[^c-4fb37aea6f8f1b796d834429ee416034]
 
 (1) In this Part, “**abusive behaviour by person A**” means behaviour by person A which is abusive of person B.
 
@@ -86,7 +86,7 @@ as well as behaviour in a personal or direct manner.
 
 (6) Behaviour may consist of a single incident or a course of conduct.
 
-#### 3. What constitutes abusive behaviour[^key-989e87e3d63fd4b3b2bef12d34328ff7]
+#### 3. What constitutes abusive behaviour[^c-989e87e3d63fd4b3b2bef12d34328ff7]
 
 (1) Subsections (2) to (4) elaborate on when behaviour by person A is abusive of person B.
 
@@ -597,7 +597,7 @@ In this Part—
 
 ## Part 2 — Termination of Scottish secure tenancies in cases involving abusive behaviour
 
-### 22. Additional ground for ending tenant's interest in house[^key-0269f51d68bef51d96d049366f016183]
+### 22. Additional ground for ending tenant's interest in house[^c-0269f51d68bef51d96d049366f016183]
 
 (1) The Housing (Scotland) Act 2001 is amended as follows.
 
@@ -762,8 +762,8 @@ The short title of this Act is the Domestic Abuse (Protection) (Scotland) Act 20
 
 ## Annotations
 
-[^key-4fb37aea6f8f1b796d834429ee416034]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/16/section/2) in force at 1.8.2026 for specified purposes by [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/a)
+[^c-4fb37aea6f8f1b796d834429ee416034]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/16/section/2) in force at 1.8.2026 for specified purposes by [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/a)
 
-[^key-989e87e3d63fd4b3b2bef12d34328ff7]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/16/section/3) in force at 1.8.2026 for specified purposes by [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/a)
+[^c-989e87e3d63fd4b3b2bef12d34328ff7]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/16/section/3) in force at 1.8.2026 for specified purposes by [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/a)
 
-[^key-0269f51d68bef51d96d049366f016183]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/16/section/22) in force at 1.8.2026 by [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)
+[^c-0269f51d68bef51d96d049366f016183]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/16/section/22) in force at 1.8.2026 by [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)

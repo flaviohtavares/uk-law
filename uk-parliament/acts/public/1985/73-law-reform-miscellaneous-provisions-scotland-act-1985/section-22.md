@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Re-employment of retired judges[^key-a607d2e1c8da8fddf8caf0d122409795]
+## 22. Re-employment of retired judges[^c-a607d2e1c8da8fddf8caf0d122409795]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a607d2e1c8da8fddf8caf0d122409795]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/1985/73/section/22) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 36](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/36); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a607d2e1c8da8fddf8caf0d122409795]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/1985/73/section/22) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 36](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/36); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Scottish Ministers must, in writing, appoint a Chief Counting Officer for the referendum.
 
-(2) The Chief Counting Officer is to be the person who, immediately before the coming into force of the Act of the Scottish Parliament referred to in section 1(2) or regulations made under that Act, is the person appointed as the convener of the Electoral Management Board for Scotland by virtue of section 2 of , or paragraph 2 of the schedule of,[^key-a11e3a9e00cad60800bc710af769fec9] the Local Electoral Administration (Scotland) Act 2011.
+(2) The Chief Counting Officer is to be the person who, immediately before the coming into force of the Act of the Scottish Parliament referred to in section 1(2) or regulations made under that Act, is the person appointed as the convener of the Electoral Management Board for Scotland by virtue of section 2 of , or paragraph 2 of the schedule of,[^c-a11e3a9e00cad60800bc710af769fec9] the Local Electoral Administration (Scotland) Act 2011.
 
 (3) But subsection (2) does not apply if—
 
@@ -53,4 +53,4 @@ only if the person is or has been a returning officer appointed under section 41
 
 ## Annotations
 
-[^key-a11e3a9e00cad60800bc710af769fec9]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/asp/2020/2/section/7/2) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(8)](https://www.legislation.gov.uk/asp/2025/4/section/69/8), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-a11e3a9e00cad60800bc710af769fec9]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/asp/2020/2/section/7/2) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(8)](https://www.legislation.gov.uk/asp/2025/4/section/69/8), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)

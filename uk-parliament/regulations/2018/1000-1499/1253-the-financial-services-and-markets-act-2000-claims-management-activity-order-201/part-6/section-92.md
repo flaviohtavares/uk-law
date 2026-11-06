@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92. Enterprise Act 2002[^key-37b7dfd8b3755e5815d2fa912d11e476][^key-a98172e30a93748234e4fa62828926c7]
+## 92. Enterprise Act 2002[^c-37b7dfd8b3755e5815d2fa912d11e476][^c-a98172e30a93748234e4fa62828926c7]
 
 *Extent: E+W+S*
 
@@ -27,9 +27,9 @@ In the Enterprise Act 2002[^f00129]—
 
 ## Annotations
 
-[^key-37b7dfd8b3755e5815d2fa912d11e476]: Commencement: Art. 92 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-37b7dfd8b3755e5815d2fa912d11e476]: Commencement: Art. 92 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-a98172e30a93748234e4fa62828926c7]: Commencement: [Art. 92](https://www.legislation.gov.uk/uksi/2018/1253/article/92) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-a98172e30a93748234e4fa62828926c7]: Commencement: [Art. 92](https://www.legislation.gov.uk/uksi/2018/1253/article/92) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00129]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 

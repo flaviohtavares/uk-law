@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 452. Real Estate Investment Trusts[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 452. Real Estate Investment Trusts[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if a company (a “property rental business company”)—
 
 - (a) is a company which has profits for an accounting period which are not charged to corporation tax as a result of section 534(1) or (2) of CTA 2010, or
-- (b) is a company to which gains accrue in an accounting period that are not chargeable gains as a result of section 535(1) or (5) , or section 535A(2),[^key-56d6c3f691a209eedbcd8fc486a73a6e] of CTA 2010.
+- (b) is a company to which gains accrue in an accounting period that are not chargeable gains as a result of section 535(1) or (5) , or section 535A(2),[^c-56d6c3f691a209eedbcd8fc486a73a6e] of CTA 2010.
 
 (2) In this section “**the residual business company**” means the company which—
 
@@ -40,13 +40,13 @@ summary: ''
 (4) This Part has effect as if—
 
 - (a) section 534(1) and (2) of CTA 2010, and
-- (b) section 535(1) and (5) , or section 535A(2),[^key-2fb1e8d827ac4fda810b006b02f13b73] of CTA 2010,
+- (b) section 535(1) and (5) , or section 535A(2),[^c-2fb1e8d827ac4fda810b006b02f13b73] of CTA 2010,
 
-do not apply in relation to the property rental business company for the accounting period (and, accordingly, the profits mentioned in section 534(1) or (2) of CTA 2010 are not calculated for the purposes of this Part in accordance with section 599 of that Act)[^key-81f0e7822f05716a22c1110531e2559b].
+do not apply in relation to the property rental business company for the accounting period (and, accordingly, the profits mentioned in section 534(1) or (2) of CTA 2010 are not calculated for the purposes of this Part in accordance with section 599 of that Act)[^c-81f0e7822f05716a22c1110531e2559b].
 
-(4A)[^key-3c8591af7067e697ee85d088f62fd136] An amount charged on the residual business company as a result of section 543 of CTA 2010 (excessive property financing costs) is treated for the purposes of this Part as if it met condition A, B, C or D for the purposes of section 385 (tax-interest income amounts).
+(4A)[^c-3c8591af7067e697ee85d088f62fd136] An amount charged on the residual business company as a result of section 543 of CTA 2010 (excessive property financing costs) is treated for the purposes of this Part as if it met condition A, B, C or D for the purposes of section 385 (tax-interest income amounts).
 
-(5)[^key-17a5de3f43256bd2093188208eec1c0f] The allocated disallowance for the property rental business company (if any) for the accounting period—
+(5)[^c-17a5de3f43256bd2093188208eec1c0f] The allocated disallowance for the property rental business company (if any) for the accounting period—
 
 - (a) is to be taken into account in calculating the profits of the property rental business for the purposes of section 530 of CTA 2010 (condition as to distribution of profits), but
 - (b) must be limited to such amount as secures that neither subsection (3)(b) nor subsection (5) of that section (distribution of profits not required if would result in unlawful distribution) applies.
@@ -88,16 +88,16 @@ Section 377(2) to (4) (which, subject to an election made by the company, set ou
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-56d6c3f691a209eedbcd8fc486a73a6e]: Textual amendment: Words in [s. 452(1)(b)](https://www.legislation.gov.uk/ukpga/2010/8/section/452/1/b) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/11/2)
+[^c-56d6c3f691a209eedbcd8fc486a73a6e]: Textual amendment: Words in [s. 452(1)(b)](https://www.legislation.gov.uk/ukpga/2010/8/section/452/1/b) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/11/2)
 
 [^M_F_f4e094f3-af9f-445f-f776-22ce53c27911]: Textual amendment: S. 452(2A) inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 38(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/38/2)[(3)](https://www.legislation.gov.uk/ukpga/2021/26/section/38/3)
 
-[^key-2fb1e8d827ac4fda810b006b02f13b73]: Textual amendment: Words in [s. 452(4)(b)](https://www.legislation.gov.uk/ukpga/2010/8/section/452/4/b) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 11(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/11/3)
+[^c-2fb1e8d827ac4fda810b006b02f13b73]: Textual amendment: Words in [s. 452(4)(b)](https://www.legislation.gov.uk/ukpga/2010/8/section/452/4/b) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 11(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/11/3)
 
-[^key-81f0e7822f05716a22c1110531e2559b]: Textual amendment: Words in s. 452(4) inserted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/14/2)
+[^c-81f0e7822f05716a22c1110531e2559b]: Textual amendment: Words in s. 452(4) inserted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/14/2)
 
-[^key-3c8591af7067e697ee85d088f62fd136]: Textual amendment: S. 452(4A) inserted (retrospectively) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 paras. 14(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/14/3), [24](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/24)
+[^c-3c8591af7067e697ee85d088f62fd136]: Textual amendment: S. 452(4A) inserted (retrospectively) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 paras. 14(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/14/3), [24](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/24)
 
-[^key-17a5de3f43256bd2093188208eec1c0f]: Textual amendment: S. 452(5) substituted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 14(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/14/4)
+[^c-17a5de3f43256bd2093188208eec1c0f]: Textual amendment: S. 452(5) substituted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 14(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/14/4)

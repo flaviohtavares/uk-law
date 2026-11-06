@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Restriction on title[^key-1d2cfa6de451e423754526356ef19662]
+## 12. Restriction on title[^c-1d2cfa6de451e423754526356ef19662]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d2cfa6de451e423754526356ef19662]: Commencement: S. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1d2cfa6de451e423754526356ef19662]: Commencement: S. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

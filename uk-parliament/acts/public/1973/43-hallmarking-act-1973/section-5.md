@@ -33,19 +33,19 @@ For the purposes of this subsection “**mark**” means a sponsor’s mark, any
 - (a) the addition is of the same precious metal as that of the article;
 - (b) the metal added to the article is of a fineness not less than the standard of fineness of the article; and
 - (c) the amount of metal added does not exceed the lesser of—
-  - (i) 1 gram of gold, 5 grams of silver , 0.5 grams of platinum or 1 gram of palladium,[^key-458b861dd1c8a7687952c189b077036d] as the case may be; and
+  - (i) 1 gram of gold, 5 grams of silver , 0.5 grams of platinum or 1 gram of palladium,[^c-458b861dd1c8a7687952c189b077036d] as the case may be; and
   - (ii) 50 per cent. of the weight of the article immediately before the addition was made.
 
 (5) It shall not be an offence under subsection (1) above to add a coating, of a thickness not exceeding 2 micrometres at any point, to the whole or any part of—
 
 - (a) an article of gold, if the coating is of gold of a fineness not less than the standard of fineness of the article; or
-- (aa)[^key-8f2fbe9628f7b7f15e57207099ffe371] an article of gold, if the coating is of platinum of not less than the minimum fineness; or
+- (aa)[^c-8f2fbe9628f7b7f15e57207099ffe371] an article of gold, if the coating is of platinum of not less than the minimum fineness; or
 - (b) an article of silver, if the coating is of silver of a fineness not less than the standard of fineness of the article; or
-- (c) an article of silver, if the coating is of gold or platinum[^key-33def821f35933bb0aed863741bcf998] or palladium[^key-219658d53f6a026952de60c380a19202] of not less than the minimum fineness; or
-- (ca)[^key-4b9ad6a6cda8767b013cd1f9381f99d3] an article of palladium, if the coating is of palladium of a fineness not less than the standard of fineness of the article; or
+- (c) an article of silver, if the coating is of gold or platinum[^c-33def821f35933bb0aed863741bcf998] or palladium[^c-219658d53f6a026952de60c380a19202] of not less than the minimum fineness; or
+- (ca)[^c-4b9ad6a6cda8767b013cd1f9381f99d3] an article of palladium, if the coating is of palladium of a fineness not less than the standard of fineness of the article; or
 - (cb) an article of palladium, if the coating is of gold or platinum of not less than the minimum fineness; or
-- (cc)[^key-0ba252f6705fa08719b7cb4212f7e466] an article of platinum, if the coating is of platinum of a fineness not less than the standard of fineness of the article; or
-- (d) an article of gold, silver , platinum or palladium,[^key-5399b19420169678369bd71601bdc20a] if the coating is of rhodium.
+- (cc)[^c-0ba252f6705fa08719b7cb4212f7e466] an article of platinum, if the coating is of platinum of a fineness not less than the standard of fineness of the article; or
+- (d) an article of gold, silver , platinum or palladium,[^c-5399b19420169678369bd71601bdc20a] if the coating is of rhodium.
 
 (6) In giving any consent for the purposes of subsection (1) or (2) above, an assay office may make it a condition of the consent that the article concerned, or any addition made to it, be further assayed and struck with—
 
@@ -63,16 +63,16 @@ the Council shall consider the case and, if they are of the opinion that the ass
 
 ## Annotations
 
-[^key-458b861dd1c8a7687952c189b077036d]: Textual amendment: Words in s. 5(4)(c)(i) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/2)
+[^c-458b861dd1c8a7687952c189b077036d]: Textual amendment: Words in s. 5(4)(c)(i) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/2)
 
-[^key-8f2fbe9628f7b7f15e57207099ffe371]: Textual amendment: S. 5(5)(aa) inserted (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2013/251/article/6/a)
+[^c-8f2fbe9628f7b7f15e57207099ffe371]: Textual amendment: S. 5(5)(aa) inserted (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2013/251/article/6/a)
 
-[^key-33def821f35933bb0aed863741bcf998]: Textual amendment: Words in s. 5(5)(c) inserted (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2013/251/article/6/b)
+[^c-33def821f35933bb0aed863741bcf998]: Textual amendment: Words in s. 5(5)(c) inserted (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2013/251/article/6/b)
 
-[^key-219658d53f6a026952de60c380a19202]: Textual amendment: Words in s. 5(5)(c) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/3/a)
+[^c-219658d53f6a026952de60c380a19202]: Textual amendment: Words in s. 5(5)(c) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/3/a)
 
-[^key-4b9ad6a6cda8767b013cd1f9381f99d3]: Textual amendment: S. 5(5)(ca)(cb) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/3/b)
+[^c-4b9ad6a6cda8767b013cd1f9381f99d3]: Textual amendment: S. 5(5)(ca)(cb) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/3/b)
 
-[^key-0ba252f6705fa08719b7cb4212f7e466]: Textual amendment: S. 5(5)(cc) added (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2013/251/article/6/c)
+[^c-0ba252f6705fa08719b7cb4212f7e466]: Textual amendment: S. 5(5)(cc) added (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2013/251/article/6/c)
 
-[^key-5399b19420169678369bd71601bdc20a]: Textual amendment: Words in s. 5(5)(d) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/3/c)
+[^c-5399b19420169678369bd71601bdc20a]: Textual amendment: Words in s. 5(5)(d) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/4/3/c)

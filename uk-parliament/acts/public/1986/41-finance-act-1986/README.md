@@ -33,7 +33,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 \[25th July 1986\]
 
-[^c13531881][^c13531891][^c13531901]Most Gracious Sovereign, WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-55ee31850161b6ffa208faf3b1493306][^key-c8f22db9e117bcb00f53f4f5100748ca]
+[^c13531881][^c13531891][^c13531901]Most Gracious Sovereign, WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-55ee31850161b6ffa208faf3b1493306][^c-c8f22db9e117bcb00f53f4f5100748ca]
 
 ## Contents
 
@@ -117,7 +117,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 - [Section 71 — Clearance services: notification](part-iii/section-71.md)
 - [Section 72 — Clearance services: supplementary](part-iii/section-72.md)
 
-#### Meaning of “exempt capital-raising instrument” and “exempt listing instrument”[^key-5d438a73a8d023c8b26f9012eb4d742e]
+#### Meaning of “exempt capital-raising instrument” and “exempt listing instrument”[^c-5d438a73a8d023c8b26f9012eb4d742e]
 
 - [Section 72ZA — Meaning of “exempt capital-raising instrument”](part-iii/section-72za.md)
 - [Section 72ZB — Meaning of “exempt listing instrument”](part-iii/section-72zb.md)
@@ -154,11 +154,11 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 - [Section 84 — Miscellaneous exemptions](part-iii/section-84.md)
 - [Section 85 — Supplementary](part-iii/section-85.md)
 
-#### Resolution of financial institutions[^key-b99e527bc0ad2dceb3a1788683202370]
+#### Resolution of financial institutions[^c-b99e527bc0ad2dceb3a1788683202370]
 
 - [Section 85A — Resolution of financial institutions](part-iii/section-85a.md)
 
-### Part IV — Stamp Duty Reserve Tax[^c22549991][^c22549981][^c22549921][^key-e3e2cffda156cb14a5fd173d34a98447][^key-06327a9a3c360c726177c5f5b75db33d]
+### Part IV — Stamp Duty Reserve Tax[^c22549991][^c22549981][^c22549921][^c-e3e2cffda156cb14a5fd173d34a98447][^c-06327a9a3c360c726177c5f5b75db33d]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,7 +184,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 - [Section 91 — Liability to tax](part-iv/section-91.md)
 - [Section 92 — Repayment or cancellation of tax](part-iv/section-92.md)
 
-#### Other charges : depositary receipts[^key-22c5749351eca72820eb442671e9491a]
+#### Other charges : depositary receipts[^c-22c5749351eca72820eb442671e9491a]
 
 *Extent: E+W+S+N.I.*
 
@@ -193,14 +193,14 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 - [Section 95 — Depositary receipts: exceptions](part-iv/section-95.md)
 - [Section 95A — Depositary receipts: exception for replacement securities.](part-iv/section-95a.md)
 
-#### Other charges: clearance services[^key-5f7c12ccc944e343341419b3893f4a64]
+#### Other charges: clearance services[^c-5f7c12ccc944e343341419b3893f4a64]
 
 - [Section 96 — Clearance services : 1.5% charge](part-iv/section-96.md)
 - [Section 97 — Clearance services: exceptions](part-iv/section-97.md)
 - [Section 97ZA — Clearance services: exception for replacement securities.](part-iv/section-97za.md)
 - [Section 97A — Clearance services: election for alternative system of charge.](part-iv/section-97a.md)
 
-##### Depositary receipts and clearance services: further exceptions[^key-75904253ec7c33069c9bfad3bdc3b777]
+##### Depositary receipts and clearance services: further exceptions[^c-75904253ec7c33069c9bfad3bdc3b777]
 
 - [Section 97AB — Exempt capital-raising transfers](part-iv/section-97ab.md)
 - [Section 97AC — Exempt listing transfers](part-iv/section-97ac.md)
@@ -216,7 +216,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 - [Section 99 — Interpretation](part-iv/section-99.md)
 - [Section 99A — Section 99(4B): “listed” and “recognised growth market”](part-iv/section-99a.md)
 
-### PART V — INHERITANCE TAX[^key-e251d1b490cedca2123fcc7a1789b152][^key-f6db16db52756f553fc09ae47e1de90f]
+### PART V — INHERITANCE TAX[^c-e251d1b490cedca2123fcc7a1789b152][^c-f6db16db52756f553fc09ae47e1de90f]
 
 *Extent: E+W+S+N.I.*
 
@@ -272,15 +272,15 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 [^c13531901]: Editorial: General amendments to Tax Acts, Income Tax Acts, and/or Corporation Tax Acts made by legislation after 1.2.1991 are noted against [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1) but not against each Act
 
-[^key-55ee31850161b6ffa208faf3b1493306]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/41) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-55ee31850161b6ffa208faf3b1493306]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/41) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-c8f22db9e117bcb00f53f4f5100748ca]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-c8f22db9e117bcb00f53f4f5100748ca]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
-[^key-5d438a73a8d023c8b26f9012eb4d742e]: Textual amendment: [Ss. 72ZA](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZA), [72ZB](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZB) and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/5)
+[^c-5d438a73a8d023c8b26f9012eb4d742e]: Textual amendment: [Ss. 72ZA](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZA), [72ZB](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZB) and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/5)
 
 [^c13532781]: Textual amendment: S. 72A and cross-heading inserted (28.7.2000 with effect as mentioned in [s. 134(5)(a)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/5/a) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 134(1)(5)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/1/5) (which inserting provision is repealed by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. III](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/III) Note 3)
 
-[^key-b99e527bc0ad2dceb3a1788683202370]: Textual amendment: [S. 85A](https://www.legislation.gov.uk/ukpga/1986/41/section/85A) and cross-heading inserted (with effect in accordance with s. 49(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/49/1)
+[^c-b99e527bc0ad2dceb3a1788683202370]: Textual amendment: [S. 85A](https://www.legislation.gov.uk/ukpga/1986/41/section/85A) and cross-heading inserted (with effect in accordance with s. 49(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/49/1)
 
 [^c22549991]: Modification: Pt. 4: construed as one with [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [Pt. VI](https://www.legislation.gov.uk/ukpga/1999/16/part/VI) (27.7.1999) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 123(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/123/1)
 
@@ -288,16 +288,16 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 [^c22549921]: Modification: Pt. 4: power to extend conferred (1.5.1995) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 152(2)(b)(6)](https://www.legislation.gov.uk/ukpga/1995/4/section/152/2/b/6)
 
-[^key-e3e2cffda156cb14a5fd173d34a98447]: Modification: Pt. 4: 2019 c. 1, s. 48 construed as one with this Part (with effect in accordance with s. 48(12) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 48(11)](https://www.legislation.gov.uk/ukpga/2019/1/section/48/11)
+[^c-e3e2cffda156cb14a5fd173d34a98447]: Modification: Pt. 4: 2019 c. 1, s. 48 construed as one with this Part (with effect in accordance with s. 48(12) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 48(11)](https://www.legislation.gov.uk/ukpga/2019/1/section/48/11)
 
-[^key-06327a9a3c360c726177c5f5b75db33d]: Modification: Pt. 4: 2019 c. 1, s. 48A construed as one with this Part by 2019 c. 1, s. 48A(9) (as inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 78](https://www.legislation.gov.uk/ukpga/2020/14/section/78))
+[^c-06327a9a3c360c726177c5f5b75db33d]: Modification: Pt. 4: 2019 c. 1, s. 48A construed as one with this Part by 2019 c. 1, s. 48A(9) (as inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 78](https://www.legislation.gov.uk/ukpga/2020/14/section/78))
 
-[^key-22c5749351eca72820eb442671e9491a]: Textual amendment: Words in s. 93 cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/1) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
+[^c-22c5749351eca72820eb442671e9491a]: Textual amendment: Words in s. 93 cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/1) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
 
-[^key-5f7c12ccc944e343341419b3893f4a64]: Textual amendment: S. 96 cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 11(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/11/1) (with [Sch. 11 para. 27](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/27))
+[^c-5f7c12ccc944e343341419b3893f4a64]: Textual amendment: S. 96 cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 11(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/11/1) (with [Sch. 11 para. 27](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/27))
 
-[^key-75904253ec7c33069c9bfad3bdc3b777]: Textual amendment: Ss. 97AB-97AD and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/15)
+[^c-75904253ec7c33069c9bfad3bdc3b777]: Textual amendment: Ss. 97AB-97AD and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/15)
 
-[^key-e251d1b490cedca2123fcc7a1789b152]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 22(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/22/2/b/i)
+[^c-e251d1b490cedca2123fcc7a1789b152]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 22(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/22/2/b/i)
 
-[^key-f6db16db52756f553fc09ae47e1de90f]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 21(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/21/2/b/i)
+[^c-f6db16db52756f553fc09ae47e1de90f]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 21(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/21/2/b/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Amount of penalty[^key-17e4ece6f252fbeea607fe4db41260a9][^key-8e46b9f3b99ede1939b4b1e6ca38da13]
+## 27. Amount of penalty[^c-17e4ece6f252fbeea607fe4db41260a9][^c-8e46b9f3b99ede1939b4b1e6ca38da13]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17e4ece6f252fbeea607fe4db41260a9]: Commencement: S. 27 in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-17e4ece6f252fbeea607fe4db41260a9]: Commencement: S. 27 in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-8e46b9f3b99ede1939b4b1e6ca38da13]: Commencement: S. 27 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-8e46b9f3b99ede1939b4b1e6ca38da13]: Commencement: S. 27 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

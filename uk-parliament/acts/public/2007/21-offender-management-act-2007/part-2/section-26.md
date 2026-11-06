@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Independent monitoring boards[^key-7343b6466c2d849e534e75cb60dde042]
+## 26. Independent monitoring boards[^c-7343b6466c2d849e534e75cb60dde042]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7343b6466c2d849e534e75cb60dde042]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2007/21/section/26) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/g)
+[^c-7343b6466c2d849e534e75cb60dde042]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2007/21/section/26) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Protection of Interests[^key-a7941b74554afac64307179848d8c8f2]
+## 42. Protection of Interests[^c-a7941b74554afac64307179848d8c8f2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 13 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-a7941b74554afac64307179848d8c8f2]: Commencement: Art. 42 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-a7941b74554afac64307179848d8c8f2]: Commencement: Art. 42 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

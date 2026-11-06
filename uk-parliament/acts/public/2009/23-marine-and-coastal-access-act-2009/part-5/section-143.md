@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Fixed monetary penalties: procedure[^c2007918][^key-c18bc845bc932071d2f271b32392a5b0][^key-abb0f2511ea32c491cef7fe18a3d9d06][^key-abb0f2511ea32c491cef7fe18a3d9d06]
+## 143. Fixed monetary penalties: procedure[^c2007918][^c-c18bc845bc932071d2f271b32392a5b0][^c-abb0f2511ea32c491cef7fe18a3d9d06][^c-abb0f2511ea32c491cef7fe18a3d9d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 [^c2007918]: Commencement: S. 143 partly in force; s. 143 in force for specified purposes at Royal Assent see s. 324(1)(c); s. 143 in force for further specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-c18bc845bc932071d2f271b32392a5b0]: Commencement: S. 143 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-c18bc845bc932071d2f271b32392a5b0]: Commencement: S. 143 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
-[^key-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
+[^c-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))

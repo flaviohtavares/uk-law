@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Offence to fail to comply with approved programme[^key-02a4632d63269ac823ce24acc12c21cc]
+## 57. Offence to fail to comply with approved programme[^c-02a4632d63269ac823ce24acc12c21cc]
 
 *Extent: E+W+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02a4632d63269ac823ce24acc12c21cc]: Commencement: S. 57 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-02a4632d63269ac823ce24acc12c21cc]: Commencement: S. 57 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

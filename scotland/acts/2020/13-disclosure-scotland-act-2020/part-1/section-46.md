@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Register of accredited bodies[^key-0a341dcab48763dd7506b55874bf0bf5]
+## 46. Register of accredited bodies[^c-0a341dcab48763dd7506b55874bf0bf5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a341dcab48763dd7506b55874bf0bf5]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2020/13/section/46) in force at 3.3.2025 by [S.S.I. 2025/2](https://www.legislation.gov.uk/ssi/2025/2), [reg. 2](https://www.legislation.gov.uk/ssi/2025/2/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/2/schedule)
+[^c-0a341dcab48763dd7506b55874bf0bf5]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2020/13/section/46) in force at 3.3.2025 by [S.S.I. 2025/2](https://www.legislation.gov.uk/ssi/2025/2), [reg. 2](https://www.legislation.gov.uk/ssi/2025/2/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/2/schedule)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person commits an offence if he discloses information to which section 237 applies in contravention of section 237(2).
 
-(2) A person commits an offence if he discloses information in contravention of a direction given under section 243E[^key-e19e31b275e3863ed7c228a664e30d99].
+(2) A person commits an offence if he discloses information in contravention of a direction given under section 243E[^c-e19e31b275e3863ed7c228a664e30d99].
 
 (3) A person commits an offence if he uses information disclosed to him under this Part for a purpose which is not permitted under this Part.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e19e31b275e3863ed7c228a664e30d99]: Textual amendment: Word in s. 245(2) substituted (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 326(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/326/4), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/a) (with [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-e19e31b275e3863ed7c228a664e30d99]: Textual amendment: Word in s. 245(2) substituted (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 326(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/326/4), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/a) (with [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

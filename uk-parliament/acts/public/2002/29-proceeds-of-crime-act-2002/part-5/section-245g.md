@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245G. Supervision of section 245E receiver and variations[^key-5893c7ac6b79d381cc3cdc3bf7307621]
+## 245G. Supervision of section 245E receiver and variations[^c-5893c7ac6b79d381cc3cdc3bf7307621]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5893c7ac6b79d381cc3cdc3bf7307621]: Textual amendment: Ss. 245E-245G inserted (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/83/1), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)
+[^c-5893c7ac6b79d381cc3cdc3bf7307621]: Textual amendment: Ss. 245E-245G inserted (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/83/1), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)

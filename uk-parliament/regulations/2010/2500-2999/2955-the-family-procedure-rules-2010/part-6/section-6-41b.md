@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.41B. Extension of time for serving the application for a matrimonial or civil partnership order[^key-73bf3d58f659c17b7542c87b42c0c411]
+## 6.41B. Extension of time for serving the application for a matrimonial or civil partnership order[^c-73bf3d58f659c17b7542c87b42c0c411]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73bf3d58f659c17b7542c87b42c0c411]: Textual amendment: [Rules 6.41A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.41A), [6.41B](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.41B) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [21](https://www.legislation.gov.uk/uksi/2022/44/rule/21) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-73bf3d58f659c17b7542c87b42c0c411]: Textual amendment: [Rules 6.41A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.41A), [6.41B](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.41B) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [21](https://www.legislation.gov.uk/uksi/2022/44/rule/21) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

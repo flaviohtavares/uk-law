@@ -24,7 +24,7 @@ Section 2.
 
 ### Collection of refuse
 
-**1.** (1) [^c13395581][^key-137a3912f15a0c70515c588b94ba1c63]... The following (and only the following) fall within section 2(2)(a) above—
+**1.** (1) [^c13395581][^c-137a3912f15a0c70515c588b94ba1c63]... The following (and only the following) fall within section 2(2)(a) above—
 
 - (a) the collection of household waste, and
 - (b) the collection of commercial waste.
@@ -36,7 +36,7 @@ Section 2.
 
 (3) In sub-paragraph (2) above “**sewage**” has the same meaning as in section 75(8) of the Environmental Protection Act 1990[^c13395601].
 
-(4)[^key-9097db81468b7d43bca9640399ce6383][^c13395611] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9097db81468b7d43bca9640399ce6383][^c13395611] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Cleaning of buildings
 
@@ -440,13 +440,13 @@ and also includes assuming responsibility for heating, lighting and other servic
 
 [^c13395581]: Textual amendment: Words in Sch. 1 para. 1(1) omitted (1.5.1994) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 162(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/1), [164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 15 para. 27(a)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/15/paragraph/27/a); [S.I. 1994/1096](https://www.legislation.gov.uk/uksi/1994/1096), [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/1096/article/2/1) and expressed to be repealed (*prosp.*) by [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II)
 
-[^key-137a3912f15a0c70515c588b94ba1c63]: Textual amendment: Words in Sch. 1 para. 1(1) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/c/i)
+[^c-137a3912f15a0c70515c588b94ba1c63]: Textual amendment: Words in Sch. 1 para. 1(1) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/c/i)
 
 [^c13395591]: Textual amendment: Words in Sch. 1 para. 1(2)(a) substituted (1.5.1994) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/1), [Sch. 15 para. 27(b)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/15/paragraph/27/b); [S.I. 1994/1096](https://www.legislation.gov.uk/uksi/1994/1096), [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/1096/article/2/1)
 
 [^c13395601]: Textual amendment: Words in Sch. 1 para. 1(3) substituted (1.5.1994) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/1), [Sch. 15 para. 27(c)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/15/paragraph/27/c); [S.I. 1994/1096](https://www.legislation.gov.uk/uksi/1994/1096), [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/1096/article/2/1)
 
-[^key-9097db81468b7d43bca9640399ce6383]: Textual amendment: Sch. 1 para. 1(4) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/c/ii)
+[^c-9097db81468b7d43bca9640399ce6383]: Textual amendment: Sch. 1 para. 1(4) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/c/ii)
 
 [^c13395611]: Textual amendment: Sch. 1 para. 1(4) omitted (1.5.1994) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/1), [164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 15 para. 27(d)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/15/paragraph/27/d); [S.I. 1994/1096](https://www.legislation.gov.uk/uksi/1994/1096), [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/1096/article/2/1) and expressed to be repealed (*prosp.*) by [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II)
 

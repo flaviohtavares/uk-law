@@ -22,11 +22,11 @@ summary: ''
 
 ### PART I
 
-**1.**[^key-3492ddcffbd1b54bec35cf9a9c5e238a] This Schedule has effect in relation to paragraph 1 of Schedule 1 to the Act (Parts I and III of Schedule 2 to the Petroleum (Production) Regulations 1935[^f00002] as amended by the Petroleum (Production) (Amendment) Regulations 1954[^f00003] and the Petroleum (Production) (Amendment) Regulations 1957[^f00004]).
+**1.**[^c-3492ddcffbd1b54bec35cf9a9c5e238a] This Schedule has effect in relation to paragraph 1 of Schedule 1 to the Act (Parts I and III of Schedule 2 to the Petroleum (Production) Regulations 1935[^f00002] as amended by the Petroleum (Production) (Amendment) Regulations 1954[^f00003] and the Petroleum (Production) (Amendment) Regulations 1957[^f00004]).
 
-**2.**[^key-9cff8ed40d0d9a141f64f77674a36115] In relation to the said paragraph 1, the current model clauses are those reproduced in Part II.
+**2.**[^c-9cff8ed40d0d9a141f64f77674a36115] In relation to the said paragraph 1, the current model clauses are those reproduced in Part II.
 
-### PART II[^key-a4e418d802b1a5c2d94d1c967fff80ed]
+### PART II[^c-a4e418d802b1a5c2d94d1c967fff80ed]
 
 #### Interpretation
 
@@ -343,7 +343,7 @@ If at any time during the term hereby granted or any renewal thereof the Ministe
 
 ## Annotations
 
-[^key-3492ddcffbd1b54bec35cf9a9c5e238a]: Commencement: Sch. 1 para. 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-3492ddcffbd1b54bec35cf9a9c5e238a]: Commencement: Sch. 1 para. 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00002]: Footnote: [S.R&O 1935/426](https://www.legislation.gov.uk/nisr/1935/426).
 
@@ -351,9 +351,9 @@ If at any time during the term hereby granted or any renewal thereof the Ministe
 
 [^f00004]: Footnote: S.I. [1957/1697](https://www.legislation.gov.uk/uksi/1957/1697).
 
-[^key-9cff8ed40d0d9a141f64f77674a36115]: Commencement: Sch. 1 para. 2 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-9cff8ed40d0d9a141f64f77674a36115]: Commencement: Sch. 1 para. 2 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-a4e418d802b1a5c2d94d1c967fff80ed]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/1/part/2) in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-a4e418d802b1a5c2d94d1c967fff80ed]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/1/part/2) in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00005]: Footnote: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36).
 

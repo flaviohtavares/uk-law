@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Obstruction of authorised persons[^key-be3dc24d4ff70257197d28f67cea5a15]
+## 41. Obstruction of authorised persons[^c-be3dc24d4ff70257197d28f67cea5a15]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 ## Annotations
 
-[^key-be3dc24d4ff70257197d28f67cea5a15]: Commencement: S. 41 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-be3dc24d4ff70257197d28f67cea5a15]: Commencement: S. 41 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

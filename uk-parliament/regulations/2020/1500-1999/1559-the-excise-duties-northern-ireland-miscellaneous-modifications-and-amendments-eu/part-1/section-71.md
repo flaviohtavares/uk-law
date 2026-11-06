@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**71.**[^key-59f477a7444a3cf2670f3d9224025fed] In regulation 80—
+**71.**[^c-59f477a7444a3cf2670f3d9224025fed] In regulation 80—
 
 - (a) in paragraph (1)—
   - (i) in subparagraph (a) after “duty suspension arrangement” insert “between an EU Member State and Northern Ireland or vice versa”;
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59f477a7444a3cf2670f3d9224025fed]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-59f477a7444a3cf2670f3d9224025fed]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

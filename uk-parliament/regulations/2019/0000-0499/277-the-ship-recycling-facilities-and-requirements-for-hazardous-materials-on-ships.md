@@ -50,19 +50,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-58d3cb6301e2bb801adbce364cc2ad0a]
+## 1. Citation and commencement[^c-58d3cb6301e2bb801adbce364cc2ad0a]
 
 These Regulations may be cited as the Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 1 — Amendment of subordinate legislation
 
-### 2. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^key-946606e39c85f9bd32e23e294c063fd6]
+### 2. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^c-946606e39c85f9bd32e23e294c063fd6]
 
 (1) The Waste Management Licensing Regulations (Northern Ireland) 2003 [^c23588801] are amended as follows.
 
 (2) In regulation 12(2), for “and 14” substitute “ to 15 ”.
 
-### 3. Amendment of the Ship Recycling Facilities Regulations 2015[^key-f477e312c689989a1fa7ba8407cfea35]
+### 3. Amendment of the Ship Recycling Facilities Regulations 2015[^c-f477e312c689989a1fa7ba8407cfea35]
 
 (1) The Ship Recycling Facilities Regulations 2015 [^c23588811] are amended as follows.
 
@@ -93,19 +93,19 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 - (c) omit paragraph (2);
 - (d) for paragraph (3), substitute—
 
-  > (3) After IP completion day[^key-110f55b49ca9a4e7cebfec1b584ce422], existing facilities must not accept any United Kingdom ship within the scope of the EU Ship Recycling Regulation for ship recycling unless the facility is included on the United Kingdom List.
+  > (3) After IP completion day[^c-110f55b49ca9a4e7cebfec1b584ce422], existing facilities must not accept any United Kingdom ship within the scope of the EU Ship Recycling Regulation for ship recycling unless the facility is included on the United Kingdom List.
 
   .
 
 (7) In the Schedule, for “the European List”, at each place it occurs, substitute “ the United Kingdom List ”.
 
-### 4. Amendment of the Ship Recycling Facilities Regulations (Northern Ireland) 2015[^key-9b50f0b06a670a5d09357d1427e8b172]
+### 4. Amendment of the Ship Recycling Facilities Regulations (Northern Ireland) 2015[^c-9b50f0b06a670a5d09357d1427e8b172]
 
 (1) The Ship Recycling Facilities Regulations (Northern Ireland) 2015 [^c23588821] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph 1—
 
-- (a)[^key-ddf1f2b59d00efbbdc1ea17c3388ffe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ddf1f2b59d00efbbdc1ea17c3388ffe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) at the end insert—
 
   > “**United Kingdom List**” means the list of ship recycling facilities published by the Secretary of State under Article 16 of the EU Ship Recycling Regulation;
@@ -121,7 +121,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 
 (4) In regulation 5 (application of the 1978 Order), for “and 14” substitute “ to 15 ”.
 
-(5)[^key-3fb4f93cc564676c412dcdeb0c0d329f] For regulation 6 (European List of facilities at which ships flying the flag of a Member State may be recycled) substitute—
+(5)[^c-3fb4f93cc564676c412dcdeb0c0d329f] For regulation 6 (European List of facilities at which ships flying the flag of a Member State may be recycled) substitute—
 
 > **6. Facilities at which ships may be recycled**
 >
@@ -142,7 +142,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 
 .
 
-### 5. Amendment of the Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018[^key-8a13fcaf4d688ac3ea1f3b678818da7c]
+### 5. Amendment of the Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018[^c-8a13fcaf4d688ac3ea1f3b678818da7c]
 
 (1) The Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018 [^c23588831] are amended as follows.
 
@@ -169,7 +169,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 
 ## PART 2 — Amendment of direct EU legislation
 
-### 6. Amendment of Regulation (EU) 1257/2013[^key-b0dbd3e9393b800da44f0c6f34cb92c9]
+### 6. Amendment of Regulation (EU) 1257/2013[^c-b0dbd3e9393b800da44f0c6f34cb92c9]
 
 (1) Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) and Directive [2009/16/EC](https://www.legislation.gov.uk/eudr/2009/16) is amended as follows.
 
@@ -178,12 +178,12 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 - (a) in paragraph 1, for “ships flying the flag of a Member State” substitute “ United Kingdom ships ”;
 - (b) for the first subparagraph of paragraph 1, substitute—
 
-  > Article 12 shall [^key-3b49183ea6ff4785ecd15af1d00d107e]... apply to ships, other than United Kingdom ships, calling at a port or anchorage in the United Kingdom.
+  > Article 12 shall [^c-3b49183ea6ff4785ecd15af1d00d107e]... apply to ships, other than United Kingdom ships, calling at a port or anchorage in the United Kingdom.
 
   ;
 - (c) for paragraph 2(c), substitute—
 
-  > - (c) United Kingdom flagged[^key-a3a5594a54a7d8fb5b2538d7365ac0c3] ships operating throughout their life in United Kingdom waters only.
+  > - (c) United Kingdom flagged[^c-a3a5594a54a7d8fb5b2538d7365ac0c3] ships operating throughout their life in United Kingdom waters only.
 
   .
 
@@ -245,7 +245,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 
 (8) In Article 8 (surveys)—
 
-- (a) omit the second indented point following paragraph 2 and the word “and” that precedes it[^key-e0d587da61dead24764535050bf9bc79];
+- (a) omit the second indented point following paragraph 2 and the word “and” that precedes it[^c-e0d587da61dead24764535050bf9bc79];
 - (b) in paragraph 7, in point (c) of the second subparagraph, before “the European List” insert “ the United Kingdom List or ”.
 
 (9) In Article 9 (issuance and endorsement of certificates)—
@@ -272,7 +272,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 (11) In Article 12 (requirements for ships flying the flag of a third country)—
 
 - (a) in the heading, for “flying the flag of a third country” substitute “ other than United Kingdom ships ”;
-- (aa)[^key-82c93b6e39243045875d59a3d1c5a2c1] in the first sub-paragraph of paragraph 1—
+- (aa)[^c-82c93b6e39243045875d59a3d1c5a2c1] in the first sub-paragraph of paragraph 1—
   - (i) omit “of a Member State”;
   - (ii) for “flying the flag of a third country” substitute “other than a United Kingdom ship”;
 - (ab) in the second sub-paragraph of paragraph 1 omit—
@@ -299,7 +299,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
   > In the case of ships flying the flag of an EU Member State, an inventory certificate granted under Article 9 of the EU Regulation as it has effect in EU law by that Member State will be treated as satisfying the requirements of paragraphs 6 and 7.
 
   .
-- (h)[^key-8fdae55708703af7462b1f59effe2b9b] in paragraph 8—
+- (h)[^c-8fdae55708703af7462b1f59effe2b9b] in paragraph 8—
   - (i) for “ships flying the flag of a third country applying to be registered under the flag of a Member State” substitute “a non-United Kingdom flagged ship applying to be registered under the flag of the United Kingdom”;
   - (ii) omit “under the flag of that Member State”;
 
@@ -320,14 +320,14 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 
 - (a) in the heading, for “a Member State”, substitute “ the United Kingdom ”;
 - (b) in the first subparagraph of paragraph 1—
-  - (i)[^key-f382b2cb31aff9db286ece4be8611631] for “Union law provisions” substitute “direct EU legislation provisions or provisions of this Regulation in relation to ship recycling facilities in Northern Ireland”;
+  - (i)[^c-f382b2cb31aff9db286ece4be8611631] for “Union law provisions” substitute “direct EU legislation provisions or provisions of this Regulation in relation to ship recycling facilities in Northern Ireland”;
   - (ii) omit “located on their territory”;
 - (c) in the second subparagraph of paragraph 1, for “national or Union law provisions”, substitute “ legislation, including direct EU legislation, ”;
 - (d) omit paragraphs 2 and 3;
 - (e) in paragraph 4—
   - (i) for “Member State where that ship recycling facility is located” substitute “ competent authorities ”;
   - (ii) omit “and shall inform the Commission thereof without delay”;
-- (f)[^key-d45b54465b12bc9802eb06921c29bb9c] for paragraph 5 substitute—
+- (f)[^c-d45b54465b12bc9802eb06921c29bb9c] for paragraph 5 substitute—
 
   > **5.** Where a ship recycling facility in Northern Ireland—
   >
@@ -415,7 +415,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 >
 > The United Kingdom List shall indicate the date of expiry of the inclusion of the ship recycling facility. An inclusion shall be valid for a maximum period of five years and shall be renewable.
 >
-> **7.**[^key-063e97623944d60b4c12161d57abc7fb] The Secretary of State shall communicate to the European Commission all information that may be relevant in respect of the updating of the European List in relation to those facilities in Northern Ireland.
+> **7.**[^c-063e97623944d60b4c12161d57abc7fb] The Secretary of State shall communicate to the European Commission all information that may be relevant in respect of the updating of the European List in relation to those facilities in Northern Ireland.
 
 .
 
@@ -423,7 +423,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 
 (17) In Article 32 (application)—
 
-- (a)[^key-842dd345483891c51218b31a199c45a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-842dd345483891c51218b31a199c45a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit paragraphs 3 and 4, and the unnumbered paragraph following paragraph 4.
 
 (18) After Article 32, insert—
@@ -447,7 +447,7 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
 
 .
 
-### 7. Amendment of Commission Implementing Decision (EU) 2015/2398[^key-0a5b31e552d6425bc1975a4e2f369480]
+### 7. Amendment of Commission Implementing Decision (EU) 2015/2398[^c-0a5b31e552d6425bc1975a4e2f369480]
 
 (1) Commission Implementing Decision (EU) 2015/2398 of 17 December 2015 on information and documentation related to an application for a facility located in a third country for inclusion in the European List of ship recycling facilities is amended as follows.
 
@@ -467,13 +467,13 @@ These Regulations may be cited as the Ship Recycling (Facilities and Requirement
   - (iv) in the final sentence, for “flying the flag of a third country”, substitute “ other than United Kingdom ships ”;
 - (b) in Part 6 (statement concerning waste recovery and disposal operations), for “relevant international and European Union standards”, each time it occurs, substitute “ relevant standards set down in international law and direct EU legislation ”.
 
-### 8. Amendment of Commission Implementing Decision (EU) 2016/2321[^key-a72caca5c0887eb47349b1f35a5b1b77]
+### 8. Amendment of Commission Implementing Decision (EU) 2016/2321[^c-a72caca5c0887eb47349b1f35a5b1b77]
 
 (1) Commission Implementing Decision (EU) 2016/2321 of 19 December 2016 on the format of the ready for recycling certificate issued in accordance with Regulation (EU) No 1257/2013 of the European Parliament and of the Council on ship recycling is amended as follows.
 
 (2) In the Annex, at each place it occurs, for “European List” substitute “ United Kingdom List ”.
 
-### 9. Commission Implementing Decision (EU) 2016/2324[^key-5dc9bca2d309a2016c918d234c86a356]
+### 9. Commission Implementing Decision (EU) 2016/2324[^c-5dc9bca2d309a2016c918d234c86a356]
 
 (1) Commission Implementing Decision (EU) 2016/2324 of 19 December 2016 on the format of the report of planned start of ship recycling required under Regulation (EU) No 1257/2013 of the European Parliament and of the Council on ship recycling [^c23588871] is amended as follows.
 
@@ -497,35 +497,35 @@ The amendments are made to legislation imposing requirements relating to ship re
 
 [^c23588791]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-58d3cb6301e2bb801adbce364cc2ad0a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-58d3cb6301e2bb801adbce364cc2ad0a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-946606e39c85f9bd32e23e294c063fd6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-946606e39c85f9bd32e23e294c063fd6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23588801]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493); relevant amending Regulations are S.R. [2006 No. 519](https://www.legislation.gov.uk/ukcm/2006/519), S.R. [2009 No. 159](https://www.legislation.gov.uk/ukcm/2009/159), S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127), S.R. [2014 No. 253](https://www.legislation.gov.uk/ukcm/2014/253) and S.R. [2015 No. 229](https://www.legislation.gov.uk/ukcm/2015/229).
 
-[^key-f477e312c689989a1fa7ba8407cfea35]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f477e312c689989a1fa7ba8407cfea35]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23588811]: Marginal citation: [S.I. 2015/430](https://www.legislation.gov.uk/uksi/2015/430), amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
-[^key-110f55b49ca9a4e7cebfec1b584ce422]: Textual amendment: Words in reg. 3(6)(d) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1000/regulation/5)
+[^c-110f55b49ca9a4e7cebfec1b584ce422]: Textual amendment: Words in reg. 3(6)(d) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1000/regulation/5)
 
-[^key-9b50f0b06a670a5d09357d1427e8b172]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9b50f0b06a670a5d09357d1427e8b172]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23588821]: Marginal citation: S.R. [2015 No. 229](https://www.legislation.gov.uk/ukcm/2015/229), as amended by S.R. [2018 No. 171](https://www.legislation.gov.uk/ukcm/2018/171).
 
-[^key-ddf1f2b59d00efbbdc1ea17c3388ffe7]: Textual amendment: Reg. 4(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/a)
+[^c-ddf1f2b59d00efbbdc1ea17c3388ffe7]: Textual amendment: Reg. 4(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/a)
 
-[^key-3fb4f93cc564676c412dcdeb0c0d329f]: Textual amendment: Reg. 4(5) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/b)
+[^c-3fb4f93cc564676c412dcdeb0c0d329f]: Textual amendment: Reg. 4(5) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/b)
 
-[^key-8a13fcaf4d688ac3ea1f3b678818da7c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8a13fcaf4d688ac3ea1f3b678818da7c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23588831]: Marginal citation: [S.I. 2018/1122](https://www.legislation.gov.uk/uksi/2018/1122).
 
-[^key-b0dbd3e9393b800da44f0c6f34cb92c9]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b0dbd3e9393b800da44f0c6f34cb92c9]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3b49183ea6ff4785ecd15af1d00d107e]: Textual amendment: Word in reg. 6(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/a)
+[^c-3b49183ea6ff4785ecd15af1d00d107e]: Textual amendment: Word in reg. 6(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/a)
 
-[^key-a3a5594a54a7d8fb5b2538d7365ac0c3]: Textual amendment: Words in reg. 6(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/b)
+[^c-a3a5594a54a7d8fb5b2538d7365ac0c3]: Textual amendment: Words in reg. 6(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/b)
 
 [^c23588841]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -533,24 +533,24 @@ The amendments are made to legislation imposing requirements relating to ship re
 
 [^c23588861]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16)..
 
-[^key-e0d587da61dead24764535050bf9bc79]: Textual amendment: Words in reg. 6(8)(a) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/c)
+[^c-e0d587da61dead24764535050bf9bc79]: Textual amendment: Words in reg. 6(8)(a) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/c)
 
-[^key-82c93b6e39243045875d59a3d1c5a2c1]: Textual amendment: Reg. 6(11)(aa)(ab) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/d)
+[^c-82c93b6e39243045875d59a3d1c5a2c1]: Textual amendment: Reg. 6(11)(aa)(ab) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/d)
 
-[^key-8fdae55708703af7462b1f59effe2b9b]: Textual amendment: Reg. 6(11)(h) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/e)
+[^c-8fdae55708703af7462b1f59effe2b9b]: Textual amendment: Reg. 6(11)(h) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/e)
 
-[^key-f382b2cb31aff9db286ece4be8611631]: Textual amendment: Reg. 6(13)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/f/i)
+[^c-f382b2cb31aff9db286ece4be8611631]: Textual amendment: Reg. 6(13)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/f/i)
 
-[^key-d45b54465b12bc9802eb06921c29bb9c]: Textual amendment: Reg. 6(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/f/ii)
+[^c-d45b54465b12bc9802eb06921c29bb9c]: Textual amendment: Reg. 6(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/f/ii)
 
-[^key-063e97623944d60b4c12161d57abc7fb]: Textual amendment: Words in reg. 6(15) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/g)
+[^c-063e97623944d60b4c12161d57abc7fb]: Textual amendment: Words in reg. 6(15) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/g)
 
-[^key-842dd345483891c51218b31a199c45a6]: Textual amendment: Reg. 6(17)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/h)
+[^c-842dd345483891c51218b31a199c45a6]: Textual amendment: Reg. 6(17)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/h)
 
-[^key-0a5b31e552d6425bc1975a4e2f369480]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0a5b31e552d6425bc1975a4e2f369480]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a72caca5c0887eb47349b1f35a5b1b77]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a72caca5c0887eb47349b1f35a5b1b77]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5dc9bca2d309a2016c918d234c86a356]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5dc9bca2d309a2016c918d234c86a356]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23588871]: Marginal citation: OJ No L 345, 20.12.16, p. 129.

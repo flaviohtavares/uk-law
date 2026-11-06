@@ -47,7 +47,7 @@ Coming into force
 
 The Court of Session makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014[^f00001] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-e6d799d71a9551633a87bf6fe394de38]
+## 1. Citation and commencement, etc.[^c-e6d799d71a9551633a87bf6fe394de38]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Company Insolvency Rules Amendment) (Insolvency) 2020.
 
@@ -55,7 +55,7 @@ The Court of Session makes this Act of Sederunt under the powers conferred by se
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session 1994[^key-b106531f90c5e36283d430bcc3ec65ca]
+## 2. Amendment of the Rules of the Court of Session 1994[^c-b106531f90c5e36283d430bcc3ec65ca]
 
 (1) The Rules of the Court of Session 1994[^f00002] are amended in accordance with this paragraph.
 
@@ -137,7 +137,7 @@ The Court of Session makes this Act of Sederunt under the powers conferred by se
 
 (6)[^M_F_ff5ac153-76eb-40de-beea-4efa892e7cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^key-f2a67c78428a28e001ef9715a47814e8]
+## 3. Amendment of Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^c-f2a67c78428a28e001ef9715a47814e8]
 
 (1) The Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^f00009] is amended in accordance with this paragraph.
 
@@ -243,9 +243,9 @@ The 2020 Act also temporarily amends the law in relation to liquidation so that 
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-e6d799d71a9551633a87bf6fe394de38]: Commencement: Para. 1 in force at 2.7.2020, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2020/198/paragraph/1/2)
+[^c-e6d799d71a9551633a87bf6fe394de38]: Commencement: Para. 1 in force at 2.7.2020, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2020/198/paragraph/1/2)
 
-[^key-b106531f90c5e36283d430bcc3ec65ca]: Commencement: Para. 2 in force at 2.7.2020, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2020/198/paragraph/1/2)
+[^c-b106531f90c5e36283d430bcc3ec65ca]: Commencement: Para. 2 in force at 2.7.2020, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2020/198/paragraph/1/2)
 
 [^f00002]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)), last amended by [S.S.I. 2020/166](https://www.legislation.gov.uk/ssi/2020/166).
 
@@ -263,7 +263,7 @@ The 2020 Act also temporarily amends the law in relation to liquidation so that 
 
 [^M_F_ff5ac153-76eb-40de-beea-4efa892e7cce]: Textual amendment: Para. 2(6) revoked (1.10.2021) by the [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Company Insolvency Rules Amendment) (Insolvency) 2021 (S.S.I. 2021/324)](https://www.legislation.gov.uk/ssi/2021/324), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/324/paragraph/1/2), [4](https://www.legislation.gov.uk/ssi/2021/324/paragraph/4)
 
-[^key-f2a67c78428a28e001ef9715a47814e8]: Commencement: Para. 3 in force at 2.7.2020, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2020/198/paragraph/1/2)
+[^c-f2a67c78428a28e001ef9715a47814e8]: Commencement: Para. 3 in force at 2.7.2020, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2020/198/paragraph/1/2)
 
 [^f00009]: Footnote: [S.I. 1986/2297](https://www.legislation.gov.uk/uksi/1986/2297), last amended by [S.S.I. 2019/247](https://www.legislation.gov.uk/ssi/2019/247).
 

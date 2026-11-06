@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Planning permission[^key-19eb4b2ff9e1136a2ab15133625f8915]
+## 22. Planning permission[^c-19eb4b2ff9e1136a2ab15133625f8915]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Any planning permission which is deemed by a direction given under section 90(2A
 
 ## Annotations
 
-[^key-19eb4b2ff9e1136a2ab15133625f8915]: Commencement: Art. 22 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-19eb4b2ff9e1136a2ab15133625f8915]: Commencement: Art. 22 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00041]: Footnote: Section 90(2A) was inserted by section 16(1) of the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42).

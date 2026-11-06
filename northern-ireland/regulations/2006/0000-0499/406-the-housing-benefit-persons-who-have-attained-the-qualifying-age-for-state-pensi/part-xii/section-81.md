@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Diminution of capital[^key-1c64cc5960f119361dad0cf1d81b8d2a]
+## 81. Diminution of capital[^c-1c64cc5960f119361dad0cf1d81b8d2a]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c64cc5960f119361dad0cf1d81b8d2a]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2006/406/regulation/81) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-1c64cc5960f119361dad0cf1d81b8d2a]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2006/406/regulation/81) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

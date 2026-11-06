@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 8. Proceedings[^key-6e9b64775336af958c2981f186530cd7]
+## 8. Proceedings[^c-6e9b64775336af958c2981f186530cd7]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Proceedings in the consistory court of a diocese are to be heard and disposed of
 
 ## Annotations
 
-[^key-6e9b64775336af958c2981f186530cd7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/3/section/8) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-6e9b64775336af958c2981f186530cd7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/3/section/8) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

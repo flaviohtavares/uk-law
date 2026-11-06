@@ -58,7 +58,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation and commencement[^key-fcfa61f37a18533704422c783219eb3b]
+### 1. Citation and commencement[^c-fcfa61f37a18533704422c783219eb3b]
 
 (1) This Order may be cited as the Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025.
 
@@ -75,13 +75,13 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 - (c) article 12(3), (4), (5), (7) to (10), (12) to (14), and (16)(b), and article 12(1) in so far as it relates to article 12(3), (4), (5), (7) to (10), (12) to (14), and (16)(b); and
 - (d) article 12(19).
 
-### 2. Extent[^key-c722e0bb3dddca6a3b6d4e498de598ce]
+### 2. Extent[^c-c722e0bb3dddca6a3b6d4e498de598ce]
 
 (1) This Order, apart from articles 9 and 10, extends to England and Wales, Scotland and Northern Ireland.
 
 (2) Articles 9 and 10 extend to England and Wales and Scotland.
 
-### 3. Privy Council procedures and legislative procedures[^key-588901b6562c6f0f89bb6b3d7cf254e4]
+### 3. Privy Council procedures and legislative procedures[^c-588901b6562c6f0f89bb6b3d7cf254e4]
 
 (1) The power vested in the Privy Council to make an order under article 1(3) may be exercised by any two or more members of the Privy Council.
 
@@ -96,7 +96,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 ## PART 2 — Authorisation by a Pharmacist and, in Great Britain, Supervision by a Pharmacy Technician
 
-### 4. Exemption from requirement for manufacturer’s licence or marketing authorisation: authorisation of a pharmacist[^key-04cd252377a79d876529942b82dfe6d8]
+### 4. Exemption from requirement for manufacturer’s licence or marketing authorisation: authorisation of a pharmacist[^c-04cd252377a79d876529942b82dfe6d8]
 
 **Not yet in force.**
 
@@ -161,7 +161,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 .
 
-### 5. Exemption from the requirement for manufacturer’s licence or marketing authorisation: registered pharmacy technicians at hospital aseptic facilities[^key-3525fbe2e6eab6e05653137d27fe19e6]
+### 5. Exemption from the requirement for manufacturer’s licence or marketing authorisation: registered pharmacy technicians at hospital aseptic facilities[^c-3525fbe2e6eab6e05653137d27fe19e6]
 
 **Not yet in force.**
 
@@ -199,7 +199,7 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 .
 
-### 6. Assembly of investigational medicinal products in hospitals and health centres[^key-49b378c27962e33588e8a3b661290aa4]
+### 6. Assembly of investigational medicinal products in hospitals and health centres[^c-49b378c27962e33588e8a3b661290aa4]
 
 **Not yet in force.**
 
@@ -246,11 +246,11 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 .
 
-### 7. Exemptions from prohibition on sale or supply of medicinal products not subject to general sale: two types of authorisation of a pharmacist[^key-efdbc96a8580413eee1e05fb8f26ba39][^key-d32b44fc02917505673a9c0383400b42]
+### 7. Exemptions from prohibition on sale or supply of medicinal products not subject to general sale: two types of authorisation of a pharmacist[^c-efdbc96a8580413eee1e05fb8f26ba39][^c-d32b44fc02917505673a9c0383400b42]
 
-(1)[^key-efdbc96a8580413eee1e05fb8f26ba39] The Human Medicines Regulations 2012 are amended in accordance with paragraphs (2) to (4).
+(1)[^c-efdbc96a8580413eee1e05fb8f26ba39] The Human Medicines Regulations 2012 are amended in accordance with paragraphs (2) to (4).
 
-(2)[^key-d32b44fc02917505673a9c0383400b42] In regulation 220 (sale or supply of medicinal products not subject to general sale), in paragraph (2), for sub-paragraph (c) substitute—
+(2)[^c-d32b44fc02917505673a9c0383400b42] In regulation 220 (sale or supply of medicinal products not subject to general sale), in paragraph (2), for sub-paragraph (c) substitute—
 
 > - (c) P or, if the transaction is carried out on P’s behalf by another person, that other person—
 >   - (i) is, or acts under the supervision of, a pharmacist, or
@@ -295,7 +295,7 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 .
 
-(4)[^key-d32b44fc02917505673a9c0383400b42] Before regulation 221 insert—
+(4)[^c-d32b44fc02917505673a9c0383400b42] Before regulation 221 insert—
 
 > **220B. Sale or supply of items dispensed by a pharmacist who is absent or treated as absent**
 >
@@ -326,13 +326,13 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 .
 
-(5)[^key-d32b44fc02917505673a9c0383400b42] Pending the coming into force of paragraph (3), the amendment made by paragraph (2) applies as if the reference to regulation 220A were omitted.
+(5)[^c-d32b44fc02917505673a9c0383400b42] Pending the coming into force of paragraph (3), the amendment made by paragraph (2) applies as if the reference to regulation 220A were omitted.
 
-### 8. Standards of conduct, ethics and performance related to authorisations[^key-cc2c02e128688c19575448e5ab519d9f][^key-9b24dacfeab65bc904a86695565aec6a]
+### 8. Standards of conduct, ethics and performance related to authorisations[^c-cc2c02e128688c19575448e5ab519d9f][^c-9b24dacfeab65bc904a86695565aec6a]
 
-(1)[^key-cc2c02e128688c19575448e5ab519d9f] Article 48 of the Pharmacy Order 2010[^f00007] (standards of conduct and performance) is amended in accordance with paragraphs (2) and (3).
+(1)[^c-cc2c02e128688c19575448e5ab519d9f] Article 48 of the Pharmacy Order 2010[^f00007] (standards of conduct and performance) is amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-9b24dacfeab65bc904a86695565aec6a] After paragraph (1B) insert—
+(2)[^c-9b24dacfeab65bc904a86695565aec6a] After paragraph (1B) insert—
 
 > (1C) The standards set under this article may include standards which relate to the conduct, ethics and performance expected of registered pharmacists giving authorisations for the purposes of regulation 220B(1)(b) of the Human Medicines Regulations 2012.
 >
@@ -358,7 +358,7 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 .
 
-(4)[^key-9b24dacfeab65bc904a86695565aec6a] In paragraph 1 of Schedule 3 to the Pharmacy (Northern Ireland) Order 1976 [^f00008](standards of conduct and performance), after sub-paragraph (1B) insert—
+(4)[^c-9b24dacfeab65bc904a86695565aec6a] In paragraph 1 of Schedule 3 to the Pharmacy (Northern Ireland) Order 1976 [^f00008](standards of conduct and performance), after sub-paragraph (1B) insert—
 
 > (1C) The standards set under this paragraph may include standards which relate to the conduct, ethics and performance expected of registered pharmacists giving authorisations for the purposes of regulation 220B(1)(b) of the Human Medicines Regulations 2012.
 >
@@ -371,7 +371,7 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 ## PART 3 — Consequential Amendments
 
-### 9. Consequential amendments to the Misuse of Drugs (Safe Custody) Regulations 1973[^key-46d8698841889fc0db5a5201cb5b95a4]
+### 9. Consequential amendments to the Misuse of Drugs (Safe Custody) Regulations 1973[^c-46d8698841889fc0db5a5201cb5b95a4]
 
 *Extent: E+W+S*
 
@@ -390,7 +390,7 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 (3) In regulation 3 (which relates to safe custody of controlled drugs at retail pharmacy premises and care homes), in paragraph (4)(a), after “in force” insert “or a pharmacy technician designated by such a pharmacist as a person who may have the controlled drug under their direct personal supervision on the premises”.
 
-### 10. Consequential amendments to the Misuse of Drugs Regulations 2001[^key-f47a12a17283fefde28811aea0a8f2ba]
+### 10. Consequential amendments to the Misuse of Drugs Regulations 2001[^c-f47a12a17283fefde28811aea0a8f2ba]
 
 *Extent: E+W+S*
 
@@ -434,7 +434,7 @@ After regulation 4 of the Human Medicines Regulations 2012[^f00005] (special pro
 
 (10) In regulation 27 (destruction of controlled drugs)[^f00020], in paragraph (6), for “or pharmacist” substitute “, pharmacist or pharmacy technician”.
 
-### 11. Consequential amendment to the Medicines for Human Use (Clinical Trials) Regulations 2004[^key-5e2bed03ac9e90e6a0caeec7c0ff53ae]
+### 11. Consequential amendment to the Medicines for Human Use (Clinical Trials) Regulations 2004[^c-5e2bed03ac9e90e6a0caeec7c0ff53ae]
 
 **Not yet in force.**
 
@@ -444,11 +444,11 @@ In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 
 
 .
 
-### 12. Consequential amendments to the Human Medicines Regulations 2012 and transitional provision[^key-326681453071ab10b7242fc6f2aa6bfc][^key-56a503014239b4c93e23ccbdf0a46c46]
+### 12. Consequential amendments to the Human Medicines Regulations 2012 and transitional provision[^c-326681453071ab10b7242fc6f2aa6bfc][^c-56a503014239b4c93e23ccbdf0a46c46]
 
-(1)[^key-326681453071ab10b7242fc6f2aa6bfc] The Human Medicines Regulations 2012[^f00022] are amended in accordance with paragraphs (2) to (19).
+(1)[^c-326681453071ab10b7242fc6f2aa6bfc] The Human Medicines Regulations 2012[^f00022] are amended in accordance with paragraphs (2) to (19).
 
-(2)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 8(1) (general interpretation)[^f00023], at the appropriate places insert—
+(2)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 8(1) (general interpretation)[^f00023], at the appropriate places insert—
 
 > - “**magistral formula product**” means a medicinal product that is prepared pursuant to a detailed specification for it that has been provided by an appropriate practitioner;
 
@@ -464,13 +464,13 @@ In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 
 
 (3) In regulation 62 (classification of UK marketing authorisation or parallel import licence)[^f00024], in paragraph (5), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B (or an exemption in Chapter 3 of Part 12)”.
 
-(4)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 106 (classification of certificate of registration), in paragraph (2), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B (or an exemption in Chapter 3 of Part 12)”.
+(4)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 106 (classification of certificate of registration), in paragraph (2), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B (or an exemption in Chapter 3 of Part 12)”.
 
-(5)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 131 (classification of traditional herbal registration), in paragraph (2), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B (or an exemption in Chapter 3 of Part 12)”.
+(5)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 131 (classification of traditional herbal registration), in paragraph (2), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B (or an exemption in Chapter 3 of Part 12)”.
 
 (6) In regulation 167 (supply to fulfil special patient needs)[^f00025], in paragraph (2)(b), after “a pharmacist” insert “or, in Great Britain, a registered pharmacy technician”.
 
-(7)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 217B (original pack dispensing)[^f00026], in paragraph (2), for sub-paragraph (b) substitute—
+(7)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 217B (original pack dispensing)[^f00026], in paragraph (2), for sub-paragraph (b) substitute—
 
 > - (b) in circumstances where—
 >   - (i) a pharmacist is carrying out, supervising or authorising (under regulation 220B) the carrying out of the sale or supply and the pharmacist considers, or
@@ -480,9 +480,9 @@ In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 
 
 .
 
-(8)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 217BA (original pack dispensing: Northern Ireland)[^f00027], in paragraph (2)(b), for “or supervising” substitute “, supervising or authorising (under regulation 220B) the carrying out of”.
+(8)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 217BA (original pack dispensing: Northern Ireland)[^f00027], in paragraph (2)(b), for “or supervising” substitute “, supervising or authorising (under regulation 220B) the carrying out of”.
 
-(9)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 217C (original pack dispensing: medicinal products containing a relevant substance)[^f00028], in paragraph (2)—
+(9)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 217C (original pack dispensing: medicinal products containing a relevant substance)[^f00028], in paragraph (2)—
 
 - (a) for sub-paragraph (a) substitute—
 
@@ -493,15 +493,15 @@ In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 
   ;
 - (b) in sub-paragraph (b), after “the pharmacist” insert “(in a case to which paragraph (a)(i) applies) or registered pharmacy technician (in a case to which paragraph (a)(ii) applies)”.
 
-(10)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 217CA (original pack dispensing: medicinal products containing a relevant substance: Northern Ireland)[^f00029], in paragraph (2)(a), before “a pharmacist” insert “or pursuant to an authorisation (under regulation 220B) given by”.
+(10)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 217CA (original pack dispensing: medicinal products containing a relevant substance: Northern Ireland)[^f00029], in paragraph (2)(a), before “a pharmacist” insert “or pursuant to an authorisation (under regulation 220B) given by”.
 
 (11) In regulation 222A (assembly or part assembly as part of “hub and spoke” dispensing arrangements between different businesses)[^f00030], in paragraph (4), after “pharmacist”, at each place it occurs (five times), insert “or (where this may be delegated to them) a registered pharmacy technician”.
 
-(12)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 248 (exemption for certain collection and delivery arrangements)[^f00031], in paragraph (2)(b), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B”.
+(12)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 248 (exemption for certain collection and delivery arrangements)[^f00031], in paragraph (2)(b), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B”.
 
-(13)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 250 (exceptions to regulation 249)[^f00032], in paragraph (3), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B (or an exemption in Chapter 3 of Part 12)”.
+(13)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 250 (exceptions to regulation 249)[^f00032], in paragraph (3), after “a pharmacist” insert “or by a person who acts in accordance with regulation 220A or 220B (or an exemption in Chapter 3 of Part 12)”.
 
-(14)[^key-56a503014239b4c93e23ccbdf0a46c46] In regulation 255 (offences relating to dealings with medicinal products), in paragraph (1)(c), omit “otherwise than by or under supervision of pharmacist”.
+(14)[^c-56a503014239b4c93e23ccbdf0a46c46] In regulation 255 (offences relating to dealings with medicinal products), in paragraph (1)(c), omit “otherwise than by or under supervision of pharmacist”.
 
 (15) In regulation 274 (exemptions from regulation 273), in paragraph (2)(a), after “a pharmacist” insert “or, in Great Britain, a registered pharmacy technician pursuant to an authorisation (under regulation 220A) given by a pharmacist”.
 
@@ -512,7 +512,7 @@ In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 
   > - (xxviiieza) 220A,
 
   ; and
-- (b)[^key-56a503014239b4c93e23ccbdf0a46c46] before paragraph (xxviiiea) insert—
+- (b)[^c-56a503014239b4c93e23ccbdf0a46c46] before paragraph (xxviiiea) insert—
 
   > - (xxviiiezb) 220B,
 
@@ -522,7 +522,7 @@ In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 
 
 (18) In Schedule 26 (packaging requirements: special provisions)[^f00035], in Part 2 (pharmacy exceptions), in paragraph 10A, after “pharmacist” at each place it occurs (four times), insert “or (where this may be delegated to them) a registered pharmacy technician”.
 
-(19)[^key-56a503014239b4c93e23ccbdf0a46c46] Pending the coming into force of article 7(3)—
+(19)[^c-56a503014239b4c93e23ccbdf0a46c46] Pending the coming into force of article 7(3)—
 
 - (a) the amendments made by paragraphs (3), (4), (5), (12), (13) and (15) apply as if the references to regulation 220A were omitted;
 - (b) the amendment made by paragraph (7) applies as if the new sub-paragraph (b)(ii) were omitted; and
@@ -562,47 +562,47 @@ An impact assessment has been produced for this instrument and is available from
 
 [^f00001]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 has been amended by: the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) (“**the 2002 Act**”), section 26(9); the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“**the 2008 Act**”), Schedule 8, paragraph 1, and Schedule 15, Part 2; the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), sections 209 and 210 and Schedule 15, paragraphs 60 and 72; the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16) (“**the 2017 Act**”), section 61 the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31) (“**the 2022 Act**”), section 168(2); and [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916). Section 62 has been amended by: the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 4; the 2008 Act, Schedule 8, paragraph 2, and Schedule 10, paragraph 11; and the 2022 Act, section 168(3). Schedule 3 has been amended by: the 2002 Act, sections 26(10) ; the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedule 11, paragraph 67, and Schedule 14, Part 4; the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 33 and Schedule 9; the 2008 Act, Schedule 8, paragraphs 4 to 10, and Schedule 15, Part 2; the 2012 Act, section 211 and Schedule 15, paragraphs 61 ; the 2017 Act, section 61(4); the 2022 Act, section 168(4); and [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254). *See* the definition of “the relevant regulatory body” in section 60(2B) of the Health Act 1999, inserted by the 2008 Act, Schedule 8, paragraph 1, which is relevant to the powers being exercised.
 
-[^key-fcfa61f37a18533704422c783219eb3b]: Commencement: Art. 1 in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
+[^c-fcfa61f37a18533704422c783219eb3b]: Commencement: Art. 1 in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
 
-[^key-c722e0bb3dddca6a3b6d4e498de598ce]: Commencement: Art. 2 in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
+[^c-c722e0bb3dddca6a3b6d4e498de598ce]: Commencement: Art. 2 in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
 
-[^key-588901b6562c6f0f89bb6b3d7cf254e4]: Commencement: Art. 3 in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
+[^c-588901b6562c6f0f89bb6b3d7cf254e4]: Commencement: Art. 3 in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
 
 [^f00002]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36). Section 1 was amended by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 2, and the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 10, paragraphs 1 and 2.
 
-[^key-04cd252377a79d876529942b82dfe6d8]: Commencement: Art. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
+[^c-04cd252377a79d876529942b82dfe6d8]: Commencement: Art. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
 
 [^f00003]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
 [^f00004]: Footnote: Amendments have been made to subsections (1), (3) and (4) by [S.S.I 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [S.I 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407), [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [1971/1445](https://www.legislation.gov.uk/uksi/1971/1445) and [2022/849](https://www.legislation.gov.uk/uksi/2022/849).
 
-[^key-3525fbe2e6eab6e05653137d27fe19e6]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
+[^c-3525fbe2e6eab6e05653137d27fe19e6]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
 
 [^f00005]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916). Regulation 4 has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) and [2024/832](https://www.legislation.gov.uk/uksi/2024/832).
 
-[^key-49b378c27962e33588e8a3b661290aa4]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
+[^c-49b378c27962e33588e8a3b661290aa4]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
 
 [^f00006]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031). There are no amendments to regulation 37.
 
-[^key-efdbc96a8580413eee1e05fb8f26ba39]: Commencement: Art. 7(1) in force at 7.1.2026 for specified purposes, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
+[^c-efdbc96a8580413eee1e05fb8f26ba39]: Commencement: Art. 7(1) in force at 7.1.2026 for specified purposes, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
 
-[^key-d32b44fc02917505673a9c0383400b42]: Commencement: Art. 7(2)(4)(5) in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
+[^c-d32b44fc02917505673a9c0383400b42]: Commencement: Art. 7(2)(4)(5) in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(a)
 
-[^key-cc2c02e128688c19575448e5ab519d9f]: Commencement: Art. 8(1) in force at 7.1.2026 for specified purposes, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(b)
+[^c-cc2c02e128688c19575448e5ab519d9f]: Commencement: Art. 8(1) in force at 7.1.2026 for specified purposes, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(b)
 
-[^key-9b24dacfeab65bc904a86695565aec6a]: Commencement: Art. 8(2)(4) in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(b)
+[^c-9b24dacfeab65bc904a86695565aec6a]: Commencement: Art. 8(2)(4) in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(b)
 
 [^f00007]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231). Relevant amendments have been made to article 48 by [S.I. 2022/849](https://www.legislation.gov.uk/uksi/2022/849) and [851](https://www.legislation.gov.uk/uksi/2022/851).
 
 [^f00008]: Footnote: [S.I. 1976/1213 (N.I.22)](https://www.legislation.gov.uk/nisi/1976/1213). Schedule 3 was substituted by [S.R. 2012 No. 308](https://www.legislation.gov.uk/nisr/2012/308) and relevant amendments have been made to it by [S.I. 2022/849](https://www.legislation.gov.uk/uksi/2022/849) and [851](https://www.legislation.gov.uk/uksi/2022/851).
 
-[^key-46d8698841889fc0db5a5201cb5b95a4]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
+[^c-46d8698841889fc0db5a5201cb5b95a4]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
 
 [^f00009]: Footnote: [S.I. 1973/798](https://www.legislation.gov.uk/uksi/1973/798).
 
 [^f00010]: Footnote: Regulation 2 has been amended by [S.I. 2007/2154](https://www.legislation.gov.uk/uksi/2007/2154) and [2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
 
-[^key-f47a12a17283fefde28811aea0a8f2ba]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
+[^c-f47a12a17283fefde28811aea0a8f2ba]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
 
 [^f00011]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998).
 
@@ -624,13 +624,13 @@ An impact assessment has been produced for this instrument and is available from
 
 [^f00020]: Footnote: There have been no relevant amending instruments.
 
-[^key-5e2bed03ac9e90e6a0caeec7c0ff53ae]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
+[^c-5e2bed03ac9e90e6a0caeec7c0ff53ae]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/3)
 
 [^f00021]: Footnote: Relevant amendments have been made to regulation 2(1) by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [1621](https://www.legislation.gov.uk/uksi/2010/1621), [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [2019/593](https://www.legislation.gov.uk/uksi/2019/593) as amended by [2019/744](https://www.legislation.gov.uk/uksi/2012/744) and [2020/1394](https://www.legislation.gov.uk/uksi/2020/1394).
 
-[^key-326681453071ab10b7242fc6f2aa6bfc]: Commencement: Art. 12(1) in force at 7.1.2026 for specified purposes, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(c)
+[^c-326681453071ab10b7242fc6f2aa6bfc]: Commencement: Art. 12(1) in force at 7.1.2026 for specified purposes, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(c)
 
-[^key-56a503014239b4c93e23ccbdf0a46c46]: Commencement: Art. 12(2)(4)(5)(7)-(10)(12)-(14)(16)(b)(19) in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(c)(d)
+[^c-56a503014239b4c93e23ccbdf0a46c46]: Commencement: Art. 12(2)(4)(5)(7)-(10)(12)-(14)(16)(b)(19) in force at 7.1.2026, see [art. 1(2)(5)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2/5)(c)(d)
 
 [^f00022]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 

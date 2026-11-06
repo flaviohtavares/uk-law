@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Linked notices[^key-0772d22507710911689ffae5e7430e25][^key-87bf7bfa4ca671b0210fb7ab08414da0]
+## 37. Linked notices[^c-0772d22507710911689ffae5e7430e25][^c-87bf7bfa4ca671b0210fb7ab08414da0]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (6) Subsection (5) does not apply where either the recipient of the principal notice or the linked notice is a Minister of the Crown.
 
-(6A)[^key-f7d0ec5f496e3890445d640e7072107e] If the OEP considers that an information notice or a decision notice relates to conduct that is the same as or similar to conduct that is the subject of a Northern Ireland information notice or Northern Ireland decision notice, it may determine that those notices are linked.
+(6A)[^c-f7d0ec5f496e3890445d640e7072107e] If the OEP considers that an information notice or a decision notice relates to conduct that is the same as or similar to conduct that is the subject of a Northern Ireland information notice or Northern Ireland decision notice, it may determine that those notices are linked.
 
 (6B) The OEP must provide the recipient of an information notice or a decision notice with—
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0772d22507710911689ffae5e7430e25]: Commencement: S. 37 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-0772d22507710911689ffae5e7430e25]: Commencement: S. 37 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-87bf7bfa4ca671b0210fb7ab08414da0]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/30/section/37) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-87bf7bfa4ca671b0210fb7ab08414da0]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/30/section/37) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
 
-[^key-f7d0ec5f496e3890445d640e7072107e]: Textual amendment: [S. 37(6A)](https://www.legislation.gov.uk/ukpga/2021/30/section/37/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2021/30/section/37/6B) inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)[(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/7), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/26) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-f7d0ec5f496e3890445d640e7072107e]: Textual amendment: [S. 37(6A)](https://www.legislation.gov.uk/ukpga/2021/30/section/37/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2021/30/section/37/6B) inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)[(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/7), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/26) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)

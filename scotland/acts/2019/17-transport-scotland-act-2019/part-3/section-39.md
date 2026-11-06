@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Provision of service information when varying or cancelling registration[^key-43a0923148c3ed68e2ee30c48871d307]
+## 39. Provision of service information when varying or cancelling registration[^c-43a0923148c3ed68e2ee30c48871d307]
 
 *Extent: S*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43a0923148c3ed68e2ee30c48871d307]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2019/17/section/39) in force at 28.11.2022 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-43a0923148c3ed68e2ee30c48871d307]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2019/17/section/39) in force at 28.11.2022 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)

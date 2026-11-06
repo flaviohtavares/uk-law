@@ -33,28 +33,28 @@ Order made by the Department for Communities and laid before the Assembly under 
 
 Local Government
 
-The Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Meetings) (No 2) Order (Northern Ireland) 2022 (revoked)[^key-bc52e9ebf4de0d09b9bce3ba290694df]
+The Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Meetings) (No 2) Order (Northern Ireland) 2022 (revoked)[^c-bc52e9ebf4de0d09b9bce3ba290694df]
 
 Made
 
 22nd September 2022
 
-[^key-bc52e9ebf4de0d09b9bce3ba290694df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc52e9ebf4de0d09b9bce3ba290694df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-bc52e9ebf4de0d09b9bce3ba290694df]
+## 1. Citation[^c-bc52e9ebf4de0d09b9bce3ba290694df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of expiry date[^key-bc52e9ebf4de0d09b9bce3ba290694df]
+## 2. Extension of expiry date[^c-bc52e9ebf4de0d09b9bce3ba290694df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc52e9ebf4de0d09b9bce3ba290694df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc52e9ebf4de0d09b9bce3ba290694df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc52e9ebf4de0d09b9bce3ba290694df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc52e9ebf4de0d09b9bce3ba290694df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc52e9ebf4de0d09b9bce3ba290694df]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/226) revoked (22.3.2023) by [The Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Meetings) Order (Northern Ireland) 2023 (S.R. 2023/48)](https://www.legislation.gov.uk/nisr/2023/48), [art. 3](https://www.legislation.gov.uk/nisr/2023/48/article/3)
+[^c-bc52e9ebf4de0d09b9bce3ba290694df]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/226) revoked (22.3.2023) by [The Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Meetings) Order (Northern Ireland) 2023 (S.R. 2023/48)](https://www.legislation.gov.uk/nisr/2023/48), [art. 3](https://www.legislation.gov.uk/nisr/2023/48/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Establishment of Fitness to Practise[^key-d4562b686a7f8131927f2900beb5a60f][^key-a14784f8595f70c24685506dea86ea92]
+## 22. Establishment of Fitness to Practise[^c-d4562b686a7f8131927f2900beb5a60f][^c-a14784f8595f70c24685506dea86ea92]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4562b686a7f8131927f2900beb5a60f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2015/140/regulation/22) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-d4562b686a7f8131927f2900beb5a60f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2015/140/regulation/22) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)

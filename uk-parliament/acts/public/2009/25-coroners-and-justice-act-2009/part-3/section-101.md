@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Special provisions relating to sexual offences[^key-21994035c2852bfe360cdd3a0a0effb7]
+## 101. Special provisions relating to sexual offences[^c-21994035c2852bfe360cdd3a0a0effb7]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ After section 22 of the Youth Justice and Criminal Evidence Act 1999 (c. 23) ins
 
 ## Annotations
 
-[^key-21994035c2852bfe360cdd3a0a0effb7]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2009/25/section/101) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-21994035c2852bfe360cdd3a0a0effb7]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2009/25/section/101) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)

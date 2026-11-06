@@ -23,14 +23,14 @@ summary: ''
 (1) This Chapter applies where, in relation to a relevant group—
 
 - (a) the PRA or FCA is the consolidating supervisor; and
-- (b) a group entity submits a group recovery plan to the appropriate regulator for assessment [^key-ace1c829ebb8d801999d58c02ce6b08b]....
+- (b) a group entity submits a group recovery plan to the appropriate regulator for assessment [^c-ace1c829ebb8d801999d58c02ce6b08b]....
 
 (2) In this Chapter—
 
 - “**business changes**” means changes to the business of a group institution which would be made with the object of addressing an impediment;
 - “**four month period**” means four months beginning with the date on which the appropriate regulator transmits a copy of the group recovery plan under article 17;
 - “**group institution**” means—
-  - (a) the UK[^key-befac7c141679230b2b779c4f14275e1] parent undertaking, if it is an institution;
+  - (a) the UK[^c-befac7c141679230b2b779c4f14275e1] parent undertaking, if it is an institution;
   - (b) a group subsidiary which is an institution;
 - “**impediment**”, in relation to the group recovery plan, means any material deficiency or measure in the plan which would impede its implementation;
 - “**relevant matters**”, in relation to the assessment of the group recovery plan, means the following matters for decision—
@@ -49,12 +49,12 @@ summary: ''
   - (c) enable it to undertake timely recapitalisation;
   - (d) change its funding strategy in order to improve the resilience of core business lines and critical functions; or
   - (e) change its governance structure; and
-- [^key-91ad737525e06fe8587bfa07a45039ad]...
+- [^c-91ad737525e06fe8587bfa07a45039ad]...
 
 ## Annotations
 
-[^key-ace1c829ebb8d801999d58c02ce6b08b]: Textual amendment: Words in [art. 16(1)(b)](https://www.legislation.gov.uk/uksi/2014/3348/article/16/1/b) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ace1c829ebb8d801999d58c02ce6b08b]: Textual amendment: Words in [art. 16(1)(b)](https://www.legislation.gov.uk/uksi/2014/3348/article/16/1/b) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-befac7c141679230b2b779c4f14275e1]: Textual amendment: Word in [art. 16(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/16/2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-befac7c141679230b2b779c4f14275e1]: Textual amendment: Word in [art. 16(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/16/2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91ad737525e06fe8587bfa07a45039ad]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/16/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91ad737525e06fe8587bfa07a45039ad]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/16/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

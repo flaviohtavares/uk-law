@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Prohibition against exhibiting anything resembling a vehicle, trade or nil licence[^key-5bcd5a21c1eb07bb0cda1519125cd762]
+## 7. Prohibition against exhibiting anything resembling a vehicle, trade or nil licence[^c-5bcd5a21c1eb07bb0cda1519125cd762]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bcd5a21c1eb07bb0cda1519125cd762]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2002/2742/regulation/7) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/3)
+[^c-5bcd5a21c1eb07bb0cda1519125cd762]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2002/2742/regulation/7) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/3)

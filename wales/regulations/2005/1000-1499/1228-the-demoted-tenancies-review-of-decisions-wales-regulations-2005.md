@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING, WALES
 
-The Demoted Tenancies (Review of Decisions) (Wales) Regulations 2005 (revoked)[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+The Demoted Tenancies (Review of Decisions) (Wales) Regulations 2005 (revoked)[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 Made
 
@@ -41,52 +41,52 @@ Coming into force
 
 30 April 2005
 
-[^key-19aa3a4f0178d9dbbf5b0028c2f03229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19aa3a4f0178d9dbbf5b0028c2f03229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Name, commencement and application[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 1. Name, commencement and application[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Persons who may carry out reviews[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 2. Persons who may carry out reviews[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Notice of review[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 3. Notice of review[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Right to an oral hearing[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 4. Right to an oral hearing[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Written representations[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 5. Written representations[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Review by way of an oral hearing[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 6. Review by way of an oral hearing[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Absence of tenant and representative from hearing[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 7. Absence of tenant and representative from hearing[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Postponement of hearing[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 8. Postponement of hearing[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Adjournment of hearing[^key-19aa3a4f0178d9dbbf5b0028c2f03229]
+## 9. Adjournment of hearing[^c-19aa3a4f0178d9dbbf5b0028c2f03229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19aa3a4f0178d9dbbf5b0028c2f03229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19aa3a4f0178d9dbbf5b0028c2f03229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-19aa3a4f0178d9dbbf5b0028c2f03229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19aa3a4f0178d9dbbf5b0028c2f03229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19aa3a4f0178d9dbbf5b0028c2f03229]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2005/1228) revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 5(4)](https://www.legislation.gov.uk/uksi/2022/1172/regulation/5/4), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-19aa3a4f0178d9dbbf5b0028c2f03229]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2005/1228) revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 5(4)](https://www.legislation.gov.uk/uksi/2022/1172/regulation/5/4), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))

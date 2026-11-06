@@ -55,7 +55,7 @@ This Order may be cited as the Electricity (Class Exemptions from the Requiremen
 
 - “the Act” means the Electricity Act 1989;
 - “additional group consumers within the 100 megawatt limit” has the meaning given to that expression in paragraph C. 2 in Schedule 4;
-- “[^key-94c1487c0a35403cd63ee6eea84e972d]**array transmission**” means transmission over a high voltage array system;
+- “[^c-94c1487c0a35403cd63ee6eea84e972d]**array transmission**” means transmission over a high voltage array system;
 - “the Authority” means the Gas and Electricity Markets Authority;
 - “consumer” means a person to whom electricity is supplied [^c15625801] (whether or not he is the same person as the person who supplies the electricity);
 - “**co-ordination licence**” means a licence which authorises a person to co-ordinate and direct the flow of electricity onto and over a transmission system—
@@ -89,7 +89,7 @@ This Order may be cited as the Electricity (Class Exemptions from the Requiremen
 - “qualifying group” means a group of two or more consumers which are all bodies corporate, and which either—
   - (a) are each connected to each other, provided that any body corporate which is connected to, or a parent undertaking in relation to, any of them is a parent undertaking in relation to all of them; or
   - (b) are each related to each other, were related to each other on 31st March 1990 and were supplied with electricity on 31st March 1990 by the person seeking to fall within the class in question specified in Schedule 2 or 4;
-- “total system in England and Wales” means the transmission system located in England and Wales of the licensed transmitter and all distribution systems located in England and Wales;[^key-654c78a0618d71488418bed0c9229a3c]
+- “total system in England and Wales” means the transmission system located in England and Wales of the licensed transmitter and all distribution systems located in England and Wales;[^c-654c78a0618d71488418bed0c9229a3c]
 - “total system in Scotland” means all transmission and distribution systems located in Scotland;
 - “total system in Great Britain” means all transmission systems and distribution systems, located in Great Britain, of holders of licences under section 4(1)(b) [^M_F_2bc33205-0544-4673-a8e0-054ec28dd301] and (bb) [^M_F_38544f65-e20a-4fdc-ec4c-5111eb46f061] of the Act.
 - “vertically integrated undertaking” means a person who carries on two or more of the activities of generating, transmitting, distributing [^c15625851] and supplying electricity.
@@ -124,11 +124,11 @@ This Order may be cited as the Electricity (Class Exemptions from the Requiremen
 (1) Exemption is granted—
 
 - (a) from section 4(1)(a) of the Act to persons of the classes specified in Schedule 2;
-- (b) from section 4(1)(bb) of the Act to persons of the classes specified in Schedule 3; [^key-94ba5b90574be07efd14a263525b1a9d]...
-- (c) from section 4(1)(c) of the Act to persons of the classes specified in Schedule 4 ; and[^key-b91412f3875dfd0a9653501513ff9f08]
+- (b) from section 4(1)(bb) of the Act to persons of the classes specified in Schedule 3; [^c-94ba5b90574be07efd14a263525b1a9d]...
+- (c) from section 4(1)(c) of the Act to persons of the classes specified in Schedule 4 ; and[^c-b91412f3875dfd0a9653501513ff9f08]
 - (d) from section 4(1)(b) of the Act to a person specified in Schedule 5.
 
-(2)[^key-6257c76910b2e37784a32b804bab3d68] A person shall be treated as falling within any class specified in Schedule 2, 3, 4 or 5 notwithstanding that the person generates, distributes, supplies or transmits electricity, as the case may be, in circumstances other than those specified in the description of that class if the generation, distribution, supply or transmission of electricity in those circumstances would, if taken on its own, be such that that person would fall within another class in Schedule 2, 3, 4 or 5 as the case may be.
+(2)[^c-6257c76910b2e37784a32b804bab3d68] A person shall be treated as falling within any class specified in Schedule 2, 3, 4 or 5 notwithstanding that the person generates, distributes, supplies or transmits electricity, as the case may be, in circumstances other than those specified in the description of that class if the generation, distribution, supply or transmission of electricity in those circumstances would, if taken on its own, be such that that person would fall within another class in Schedule 2, 3, 4 or 5 as the case may be.
 
 ## 4. Conditions on exemptions
 
@@ -140,8 +140,8 @@ This Order may be cited as the Electricity (Class Exemptions from the Requiremen
 
 (4) (a) Persons referred to in paragraph (3) above shall furnish to the Authority, in such manner and at such times as the Authority may direct, such information as the Authority may consider necessary for the purpose of performing its functions under the Act.
 
-- (b) Persons referred to in paragraph (3) above (other than persons who fall within Class D of Schedule 3)[^key-854308b6b41cb6b87d9a398fc8deefec] who at any time distribute more electrical power than 500 kilowatts to domestic consumers and who are vertically integrated undertakings shall keep separate accounts for their distribution activities in their internal accounts.
-- (c)[^key-39abaa8e13bf85676c1637820f23d410] Persons referred to in paragraph (3) above who fall within Class D of Schedule 3 shall not distribute electricity for the purpose of giving a supply to domestic premises.
+- (b) Persons referred to in paragraph (3) above (other than persons who fall within Class D of Schedule 3)[^c-854308b6b41cb6b87d9a398fc8deefec] who at any time distribute more electrical power than 500 kilowatts to domestic consumers and who are vertically integrated undertakings shall keep separate accounts for their distribution activities in their internal accounts.
+- (c)[^c-39abaa8e13bf85676c1637820f23d410] Persons referred to in paragraph (3) above who fall within Class D of Schedule 3 shall not distribute electricity for the purpose of giving a supply to domestic premises.
 
 (5) The exemption granted by article 3(1)(c) to persons of Class A in Schedule 4 is subject to compliance with the conditions specified in paragraph (6) below.
 
@@ -215,7 +215,7 @@ Persons (other than licensed generators) who—
 
 (2) do not supply such electricity except to premises which constitute or are comprised in an offshore installation.
 
-### Class C: Generators not exceeding 100 megawatts[^key-4b07af20130df44cb791a08538f5cb78]
+### Class C: Generators not exceeding 100 megawatts[^c-4b07af20130df44cb791a08538f5cb78]
 
 Persons (other than licensed generators) who do not provide any electrical power except from generating stations which—
 
@@ -248,7 +248,7 @@ Persons (other than licensed distributors) who do not at any time distribute fro
 
 Persons (other than licensed distributors) who do not at any time distribute electrical power for the purpose of giving a supply to domestic consumers or enabling a supply to be so given with that electrical power.
 
-### D.1. Class D: Offshore distributors[^key-259bd1198f9793a49e049f97c291377a][^key-07f1663ec9cf2cce6bb174c99f78ee48]
+### D.1. Class D: Offshore distributors[^c-259bd1198f9793a49e049f97c291377a][^c-07f1663ec9cf2cce6bb174c99f78ee48]
 
 Persons (other than licensed distributors) who distribute electricity generated by an offshore generating station by means of a distribution system which is not used to convey electricity generated otherwise than by offshore generating stations.
 
@@ -383,7 +383,7 @@ Persons (other than licensed suppliers) who—
 
 (2) do not supply such electricity to any premises except premises which constitute or are comprised in an offshore installation.
 
-## Schedule 5 — EXEMPTIONS FROM SECTION 4(1)(b) OF THE ACT (TRANSMISSION EXEMPTIONS)[^key-83150844ba99417e5bdb35bf75b33149]
+## Schedule 5 — EXEMPTIONS FROM SECTION 4(1)(b) OF THE ACT (TRANSMISSION EXEMPTIONS)[^c-83150844ba99417e5bdb35bf75b33149]
 
 Article 3(1)(d)
 
@@ -429,7 +429,7 @@ A regulatory impact assessment is available and can be obtained from the Energy 
 
 [^c15625791]: Marginal citation: [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750); [article 4](https://www.legislation.gov.uk/uksi/2001/3270/article/4) and Schedule 3 provide that functions under section 5(1) of the Act are, in so far as they are exerciseable in or as regards Scotland, only exercisable after consultation with the Scottish Ministers.
 
-[^key-94c1487c0a35403cd63ee6eea84e972d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2001/3270/article/2) inserted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/1)
+[^c-94c1487c0a35403cd63ee6eea84e972d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2001/3270/article/2) inserted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/1)
 
 [^c15625801]: Marginal citation: The definition of “supply” was substituted in section 4(4) of the Electricity Act 1989 by section 28(1) and (3)(b) of the Utilities Act 2000.
 
@@ -441,7 +441,7 @@ A regulatory impact assessment is available and can be obtained from the Energy 
 
 [^c15625841]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); [section 258](https://www.legislation.gov.uk/uksi/2001/3270/section/258) was inserted by section 21 of the [Companies Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-654c78a0618d71488418bed0c9229a3c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3270/article/2/1) substituted (1.4.2005) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2005 (S.I. 2005/488)](https://www.legislation.gov.uk/uksi/2005/488), [arts. 1](https://www.legislation.gov.uk/uksi/2005/488/article/1), [3](https://www.legislation.gov.uk/uksi/2005/488/article/3)
+[^c-654c78a0618d71488418bed0c9229a3c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3270/article/2/1) substituted (1.4.2005) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2005 (S.I. 2005/488)](https://www.legislation.gov.uk/uksi/2005/488), [arts. 1](https://www.legislation.gov.uk/uksi/2005/488/article/1), [3](https://www.legislation.gov.uk/uksi/2005/488/article/3)
 
 [^M_F_2bc33205-0544-4673-a8e0-054ec28dd301]: Textual amendment: Section 4(1)(b) of the Act was substituted by section 135(2) of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
@@ -451,24 +451,24 @@ A regulatory impact assessment is available and can be obtained from the Energy 
 
 [^c15625861]: Marginal citation: [Section 736](https://www.legislation.gov.uk/uksi/2001/3270/section/736) was substituted by section 144(1) of the Companies Act 1989.
 
-[^key-94ba5b90574be07efd14a263525b1a9d]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/3270/article/3/1) omitted (16.8.2024) by virtue of [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/2/a)
+[^c-94ba5b90574be07efd14a263525b1a9d]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/3270/article/3/1) omitted (16.8.2024) by virtue of [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/2/a)
 
-[^key-b91412f3875dfd0a9653501513ff9f08]: Textual amendment: [Art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2001/3270/article/3/1/d) and word inserted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/2/b)
+[^c-b91412f3875dfd0a9653501513ff9f08]: Textual amendment: [Art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2001/3270/article/3/1/d) and word inserted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/2/b)
 
-[^key-6257c76910b2e37784a32b804bab3d68]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2001/3270/article/3/2) substituted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/2/c)
+[^c-6257c76910b2e37784a32b804bab3d68]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2001/3270/article/3/2) substituted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/2/c)
 
-[^key-854308b6b41cb6b87d9a398fc8deefec]: Textual amendment: Words in [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2001/3270/article/4/4/b) inserted (6.4.2007) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2007 (S.I. 2007/629)](https://www.legislation.gov.uk/uksi/2007/629), [arts. 1](https://www.legislation.gov.uk/uksi/2007/629/article/1), [3](https://www.legislation.gov.uk/uksi/2007/629/article/3)
+[^c-854308b6b41cb6b87d9a398fc8deefec]: Textual amendment: Words in [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2001/3270/article/4/4/b) inserted (6.4.2007) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2007 (S.I. 2007/629)](https://www.legislation.gov.uk/uksi/2007/629), [arts. 1](https://www.legislation.gov.uk/uksi/2007/629/article/1), [3](https://www.legislation.gov.uk/uksi/2007/629/article/3)
 
-[^key-39abaa8e13bf85676c1637820f23d410]: Textual amendment: [Art. 4(4)(c)](https://www.legislation.gov.uk/uksi/2001/3270/article/4/4/c) inserted (6.4.2007) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2007 (S.I. 2007/629)](https://www.legislation.gov.uk/uksi/2007/629), [arts. 1](https://www.legislation.gov.uk/uksi/2007/629/article/1), [4](https://www.legislation.gov.uk/uksi/2007/629/article/4)
+[^c-39abaa8e13bf85676c1637820f23d410]: Textual amendment: [Art. 4(4)(c)](https://www.legislation.gov.uk/uksi/2001/3270/article/4/4/c) inserted (6.4.2007) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2007 (S.I. 2007/629)](https://www.legislation.gov.uk/uksi/2007/629), [arts. 1](https://www.legislation.gov.uk/uksi/2007/629/article/1), [4](https://www.legislation.gov.uk/uksi/2007/629/article/4)
 
 [^c15625871]: Marginal citation: [S.I. 1997/989](https://www.legislation.gov.uk/uksi/1997/989).
 
 [^c15625881]: Marginal citation: [S.I. 2000/2424](https://www.legislation.gov.uk/uksi/2000/2424).
 
-[^key-4b07af20130df44cb791a08538f5cb78]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3270/schedule/2) substituted (1.4.2005) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2005 (S.I. 2005/488)](https://www.legislation.gov.uk/uksi/2005/488), [arts. 1](https://www.legislation.gov.uk/uksi/2005/488/article/1), [4](https://www.legislation.gov.uk/uksi/2005/488/article/4)
+[^c-4b07af20130df44cb791a08538f5cb78]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3270/schedule/2) substituted (1.4.2005) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2005 (S.I. 2005/488)](https://www.legislation.gov.uk/uksi/2005/488), [arts. 1](https://www.legislation.gov.uk/uksi/2005/488/article/1), [4](https://www.legislation.gov.uk/uksi/2005/488/article/4)
 
-[^key-259bd1198f9793a49e049f97c291377a]: Textual amendment: [Sch. 3 para. D.1](https://www.legislation.gov.uk/uksi/2001/3270/schedule/3/paragraph/D.1) omitted (16.8.2024) by virtue of [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/3)
+[^c-259bd1198f9793a49e049f97c291377a]: Textual amendment: [Sch. 3 para. D.1](https://www.legislation.gov.uk/uksi/2001/3270/schedule/3/paragraph/D.1) omitted (16.8.2024) by virtue of [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/3)
 
-[^key-07f1663ec9cf2cce6bb174c99f78ee48]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2001/3270/schedule/3) inserted (6.4.2007) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2007 (S.I. 2007/629)](https://www.legislation.gov.uk/uksi/2007/629), [arts. 1](https://www.legislation.gov.uk/uksi/2007/629/article/1), [5](https://www.legislation.gov.uk/uksi/2007/629/article/5)
+[^c-07f1663ec9cf2cce6bb174c99f78ee48]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2001/3270/schedule/3) inserted (6.4.2007) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2007 (S.I. 2007/629)](https://www.legislation.gov.uk/uksi/2007/629), [arts. 1](https://www.legislation.gov.uk/uksi/2007/629/article/1), [5](https://www.legislation.gov.uk/uksi/2007/629/article/5)
 
-[^key-83150844ba99417e5bdb35bf75b33149]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2001/3270/schedule/5) inserted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/4)
+[^c-83150844ba99417e5bdb35bf75b33149]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2001/3270/schedule/5) inserted (16.8.2024) by [The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024 (S.I. 2024/819)](https://www.legislation.gov.uk/uksi/2024/819), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/819/article/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2024/819/schedule/paragraph/4)

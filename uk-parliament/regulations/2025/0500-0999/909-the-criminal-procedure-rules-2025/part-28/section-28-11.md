@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.11. Assistance to an investigator, etc.: applications under the Sentencing Act 2020[^key-f0e66449a19621f24f1c9b3a77350aa7]
+## 28.11. Assistance to an investigator, etc.: applications under the Sentencing Act 2020[^c-f0e66449a19621f24f1c9b3a77350aa7]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f0e66449a19621f24f1c9b3a77350aa7]: Commencement: [Rule 28.11](https://www.legislation.gov.uk/uksi/2025/909/rule/28.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f0e66449a19621f24f1c9b3a77350aa7]: Commencement: [Rule 28.11](https://www.legislation.gov.uk/uksi/2025/909/rule/28.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00688]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17); section 74 was amended by section 10 of the Counter-Terrorism and Sentencing Act [2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11) and is further amended by section 408 of, and paragraph 38B of Schedule 22 to, the 2020 Act with effect from a date to be appointed.
 

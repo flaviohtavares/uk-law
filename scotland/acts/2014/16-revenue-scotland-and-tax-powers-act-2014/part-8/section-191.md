@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 191. Special reduction in penalty under this Chapter[^key-11d35895b760b94df52a2e7524b94ed8]
+## 191. Special reduction in penalty under this Chapter[^c-11d35895b760b94df52a2e7524b94ed8]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11d35895b760b94df52a2e7524b94ed8]: Commencement: [S. 191](https://www.legislation.gov.uk/asp/2014/16/section/191) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-11d35895b760b94df52a2e7524b94ed8]: Commencement: [S. 191](https://www.legislation.gov.uk/asp/2014/16/section/191) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

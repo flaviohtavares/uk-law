@@ -26,7 +26,7 @@ summary: ''
 - (b) a person who is or is deemed to be a statutory undertaker for the purposes of any provision of—
   - (i) Part 11 of the Town and Country Planning Act 1990 (c. 8) (see section 262 of that Act), or
   - (ii) Part 10 of the Town and Country Planning (Scotland) Act 1997 (c. 8) (see section 214 of that Act), or
-- (c) a person who is a statutory undertaker within the meaning of the Planning Act (Northern Ireland) 2011 (see section 250 of that Act)[^key-d1351e1ee09dcd8a62016d074d0565dd].
+- (c) a person who is a statutory undertaker within the meaning of the Planning Act (Northern Ireland) 2011 (see section 250 of that Act)[^c-d1351e1ee09dcd8a62016d074d0565dd].
 
 (2) None of the following are reporting authorities for the purposes of those sections and this section—
 
@@ -44,7 +44,7 @@ summary: ''
 (4) References in those sections to a reporting authority's “devolved functions” are to functions—
 
 - (a) conferred or imposed by or under a Measure or Act of the National Assembly for Wales,
-- (b) exercisable in or as regards Wales and capable of being conferred by provision falling within[^key-b25a5452385017fba02e2dcef4835291] the legislative competence of the National Assembly for Wales,
+- (b) exercisable in or as regards Wales and capable of being conferred by provision falling within[^c-b25a5452385017fba02e2dcef4835291] the legislative competence of the National Assembly for Wales,
 - (c) exercisable in or as regards Scotland and relating to matters within the legislative competence of the Scottish Parliament,
 - (d) exercisable in or as regards Northern Ireland and relating to transferred matters within the meaning of the Northern Ireland Act 1998, or
 - (e) in relation to which functions are exercisable by a devolved authority,
@@ -67,7 +67,7 @@ and in relation to which no functions are exercisable by a Minister of the Crown
 (6) References in those sections to a reporting authority's “devolved Welsh functions” are to functions—
 
 - (a) conferred or imposed by or under a Measure or Act of the National Assembly for Wales,
-- (b) exercisable in or as regards Wales and capable of being conferred by provision falling within[^key-bad4e844b7bb147758111c6844e4d469] the legislative competence of the National Assembly for Wales, or
+- (b) exercisable in or as regards Wales and capable of being conferred by provision falling within[^c-bad4e844b7bb147758111c6844e4d469] the legislative competence of the National Assembly for Wales, or
 - (c) in relation to which functions are exercisable by the Welsh Ministers, the First Minister or the Counsel General.
 
 (7) For this purpose functions are not to be regarded as exercisable by the Welsh Ministers, the First Minister or the Counsel General in relation to a reporting authority's functions merely because—
@@ -82,8 +82,8 @@ and in relation to which no functions are exercisable by a Minister of the Crown
 
 ## Annotations
 
-[^key-d1351e1ee09dcd8a62016d074d0565dd]: Textual amendment: Words in s. 70(1)(c) substituted (N.I.) (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 102](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/102) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-d1351e1ee09dcd8a62016d074d0565dd]: Textual amendment: Words in s. 70(1)(c) substituted (N.I.) (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 102](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/102) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
 
-[^key-b25a5452385017fba02e2dcef4835291]: Textual amendment: Words in [s. 70(4)(b)](https://www.legislation.gov.uk/ukpga/2008/27/section/70/4/b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 73](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/73) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-b25a5452385017fba02e2dcef4835291]: Textual amendment: Words in [s. 70(4)(b)](https://www.legislation.gov.uk/ukpga/2008/27/section/70/4/b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 73](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/73) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-bad4e844b7bb147758111c6844e4d469]: Textual amendment: Words in [s. 70(6)(b)](https://www.legislation.gov.uk/ukpga/2008/27/section/70/6/b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 73](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/73) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-bad4e844b7bb147758111c6844e4d469]: Textual amendment: Words in [s. 70(6)(b)](https://www.legislation.gov.uk/ukpga/2008/27/section/70/6/b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 73](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/73) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

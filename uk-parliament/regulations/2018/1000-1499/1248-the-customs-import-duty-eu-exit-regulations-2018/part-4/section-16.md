@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Goods excluded from sections 2 to 4[^key-8939d8d3828e0c5821f513ac6b8a893a][^key-302606d159bff3b39c5b1dbf0584ce62][^key-3f4db8ca8325d74fa3b816a4c6f678ca][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 16. Goods excluded from sections 2 to 4[^c-8939d8d3828e0c5821f513ac6b8a893a][^c-302606d159bff3b39c5b1dbf0584ce62][^c-3f4db8ca8325d74fa3b816a4c6f678ca][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8939d8d3828e0c5821f513ac6b8a893a]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-8939d8d3828e0c5821f513ac6b8a893a]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3f4db8ca8325d74fa3b816a4c6f678ca]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/1248/regulation/16) substituted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/5)
+[^c-3f4db8ca8325d74fa3b816a4c6f678ca]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/1248/regulation/16) substituted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Official statistics[^key-9b7b5bb08ab0ba55731badaa116508f4]
+## 6. Official statistics[^c-9b7b5bb08ab0ba55731badaa116508f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b7b5bb08ab0ba55731badaa116508f4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/18/section/6) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/a)
+[^c-9b7b5bb08ab0ba55731badaa116508f4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/18/section/6) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/a)

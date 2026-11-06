@@ -25,8 +25,8 @@ summary: ''
 (2) If the Authority decides to refuse the application—
 
 - (a) it must give the applicant a decision notice; and
-- (b) the applicant may refer the matter to the Upper Tribunal[^key-a17d708c0e24c37d42d797d77e0dc366].
+- (b) the applicant may refer the matter to the Upper Tribunal[^c-a17d708c0e24c37d42d797d77e0dc366].
 
 ## Annotations
 
-[^key-a17d708c0e24c37d42d797d77e0dc366]: Textual amendment: Words in reg. 16(2)(b) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/19)
+[^c-a17d708c0e24c37d42d797d77e0dc366]: Textual amendment: Words in reg. 16(2)(b) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/19)

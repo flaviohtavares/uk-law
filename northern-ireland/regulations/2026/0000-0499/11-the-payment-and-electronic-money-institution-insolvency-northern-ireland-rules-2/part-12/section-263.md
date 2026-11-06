@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 263. Electronic submission of information[^key-1293178b2875a2ea91001f165e06e216]
+## 263. Electronic submission of information[^c-1293178b2875a2ea91001f165e06e216]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1293178b2875a2ea91001f165e06e216]: Commencement: [Rule 263](https://www.legislation.gov.uk/nisr/2026/11/rule/263) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-1293178b2875a2ea91001f165e06e216]: Commencement: [Rule 263](https://www.legislation.gov.uk/nisr/2026/11/rule/263) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

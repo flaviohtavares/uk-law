@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. International assistance[^key-a8c30adc98866394d9595740e85dfada]
+## 70. International assistance[^c-a8c30adc98866394d9595740e85dfada]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8c30adc98866394d9595740e85dfada]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2003/20/section/70) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(aaa)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/aaa)
+[^c-a8c30adc98866394d9595740e85dfada]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2003/20/section/70) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(aaa)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/aaa)

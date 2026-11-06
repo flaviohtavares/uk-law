@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Availability of Rules, directions etc.[^key-fb3d78cc249e99b94b76140c0cc265c2]
+## 7. Availability of Rules, directions etc.[^c-fb3d78cc249e99b94b76140c0cc265c2]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The Governor must ensure that a copy of each of the following items is made avai
 
 ## Annotations
 
-[^key-fb3d78cc249e99b94b76140c0cc265c2]: Textual amendment: [Rule 7](https://www.legislation.gov.uk/ssi/2011/331/rule/7) substituted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/3)
+[^c-fb3d78cc249e99b94b76140c0cc265c2]: Textual amendment: [Rule 7](https://www.legislation.gov.uk/ssi/2011/331/rule/7) substituted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/3)

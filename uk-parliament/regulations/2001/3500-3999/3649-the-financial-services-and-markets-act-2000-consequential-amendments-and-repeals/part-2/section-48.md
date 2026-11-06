@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Disclosure of interests in shares: interests to be disclosed[^key-e07808d7c9cbfa935da44dec23aec5ce]
+## 48. Disclosure of interests in shares: interests to be disclosed[^c-e07808d7c9cbfa935da44dec23aec5ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e07808d7c9cbfa935da44dec23aec5ce]: Commencement: Art. 48 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e07808d7c9cbfa935da44dec23aec5ce]: Commencement: Art. 48 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00052]: Footnote: Inserted by [SR (NI) 1997/251](https://www.legislation.gov.uk/nisr/1997/251).
 

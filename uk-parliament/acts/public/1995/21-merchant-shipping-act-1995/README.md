@@ -33,7 +33,7 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 
 \[19th July 1995\]
 
-[^c14525441][^c14525451]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-d5f622e73ec4f64e57979f1246c4aac2][^key-d05f469330133ed1a363bc444f8c850b]
+[^c14525441][^c14525451]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-d5f622e73ec4f64e57979f1246c4aac2][^c-d05f469330133ed1a363bc444f8c850b]
 
 ## Contents
 
@@ -176,7 +176,7 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 
 - [Section 84 — Interpretation.](part-iii/section-84.md)
 
-### Part 3A — International agreements relating to maritime employment[^key-d5382707d9da31be12b155d0d639fe3e]
+### Part 3A — International agreements relating to maritime employment[^c-d5382707d9da31be12b155d0d639fe3e]
 
 - [Section 84A — International agreements relating to maritime employment](part-3a/section-84a.md)
 - [Section 84B — Regulations under section 84A: supplementary](part-3a/section-84b.md)
@@ -367,7 +367,7 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 - [Section 156 — Restriction of liability for pollution from oil or bunker oil.](part-vi/section-156.md)
 - [Section 156A — Liability under section 153, 153A or 154: supplementary provisions](part-vi/section-156a.md)
 
-##### Limitation of liability under section 153[^key-3e0be713f94957ef69aea16c5b619ad4]
+##### Limitation of liability under section 153[^c-3e0be713f94957ef69aea16c5b619ad4]
 
 - [Section 157 — Limitation of liability under section 153.](part-vi/section-157.md)
 - [Section 158 — Limitation actions.](part-vi/section-158.md)
@@ -375,7 +375,7 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 - [Section 160 — Concurrent liabilities of owners and others.](part-vi/section-160.md)
 - [Section 161 — Establishment of limitation fund outside United Kingdom.](part-vi/section-161.md)
 
-##### Limitation period for claims under this Chapter[^key-e807a9dcb82331de15ecc5e00017f6a9]
+##### Limitation period for claims under this Chapter[^c-e807a9dcb82331de15ecc5e00017f6a9]
 
 - [Section 162 — Extinguishment of claims.](part-vi/section-162.md)
 
@@ -468,7 +468,7 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 
 - [Section 192A — Compulsory insurance or security](part-vii/section-192a.md)
 
-### Part VIII — Lighthouses[^c14527691][^key-fd525d315eb239401beedbad79b7f23d]
+### Part VIII — Lighthouses[^c14527691][^c-fd525d315eb239401beedbad79b7f23d]
 
 #### Lighthouse authorities
 
@@ -611,15 +611,15 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 
 - [Section 255 — Interpretation.](part-ix/section-255.md)
 
-### Part 9A — Wreck Removal Convention[^key-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
+### Part 9A — Wreck Removal Convention[^c-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
 
-#### Preliminary[^key-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
+#### Preliminary[^c-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 255A — “The Wrecks Convention”](part-9a/section-255a.md)
 
-#### Reporting, marking and removing[^key-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
+#### Reporting, marking and removing[^c-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -632,7 +632,7 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 - [Section 255H — Limitation period](part-9a/section-255h.md)
 - [Section 255I — Expenses of general lighthouse authorities](part-9a/section-255i.md)
 
-#### Insurance[^key-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
+#### Insurance[^c-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -645,7 +645,7 @@ An Act to consolidate the Merchant Shipping Acts 1894 to 1994 and other enactmen
 - [Section 255P — Third parties' rights against insurers](part-9a/section-255p.md)
 - [Section 255Q — Electronic certificates](part-9a/section-255q.md)
 
-#### Supplemental[^key-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
+#### Supplemental[^c-7ab1fcef5a3fdd9fc93ea166c3b01bb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -820,11 +820,11 @@ SCHEDULES
 
 [^c14525451]: Extent: Act extends to U.K. except for ss. 18, 193(5), 68, 208 and 210; see [ss. 315(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/315/1), [68(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/68/5), [208(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/208/5) and 210(11) respectively
 
-[^key-d5f622e73ec4f64e57979f1246c4aac2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/21) power to modify or apply conferred (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [s. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2006/8/section/1/5/b)
+[^c-d5f622e73ec4f64e57979f1246c4aac2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/21) power to modify or apply conferred (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [s. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2006/8/section/1/5/b)
 
-[^key-d05f469330133ed1a363bc444f8c850b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/21) excluded in part (7.1.2021) by [The Merchant Shipping (Home Office Ships) Order 2020 (S.I. 2020/1551)](https://www.legislation.gov.uk/uksi/2020/1551), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1551/article/1/1), [9](https://www.legislation.gov.uk/uksi/2020/1551/article/9)
+[^c-d05f469330133ed1a363bc444f8c850b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/21) excluded in part (7.1.2021) by [The Merchant Shipping (Home Office Ships) Order 2020 (S.I. 2020/1551)](https://www.legislation.gov.uk/uksi/2020/1551), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1551/article/1/1), [9](https://www.legislation.gov.uk/uksi/2020/1551/article/9)
 
-[^key-d5382707d9da31be12b155d0d639fe3e]: Textual amendment: Pt. 3A inserted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/57/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/6)
+[^c-d5382707d9da31be12b155d0d639fe3e]: Textual amendment: Pt. 3A inserted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/57/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/6)
 
 [^c14526241]: Textual amendment: Ss. 100A, 100B and crossheading inserted (23.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 1](https://www.legislation.gov.uk/ukpga/1997/28/section/1); [S.I. 1997/1082](https://www.legislation.gov.uk/uksi/1997/1082), [art.2](https://www.legislation.gov.uk/uksi/1997/1082/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/1997/1082/schedule)
 
@@ -832,9 +832,9 @@ SCHEDULES
 
 [^c14526581]: Textual amendment: Pt. VI Ch. IA (ss. 130A-130E) inserted (19.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [ss. 5](https://www.legislation.gov.uk/ukpga/1997/28/section/5), [31(4)](https://www.legislation.gov.uk/ukpga/1997/28/section/31/4)
 
-[^key-3e0be713f94957ef69aea16c5b619ad4]: Textual amendment: Words in [s. 157 cross-heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/limitation-of-liability) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2006/1244/regulation/10) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-3e0be713f94957ef69aea16c5b619ad4]: Textual amendment: Words in [s. 157 cross-heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/limitation-of-liability) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2006/1244/regulation/10) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-e807a9dcb82331de15ecc5e00017f6a9]: Textual amendment: [S. 162 cross-heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/limitation-of-liability) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2006/1244/regulation/14) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-e807a9dcb82331de15ecc5e00017f6a9]: Textual amendment: [S. 162 cross-heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/limitation-of-liability) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2006/1244/regulation/14) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
 [^c14527541]: Textual amendment: Pt. VI Ch. V (ss. 182A-182C) and heading inserted (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 14(1)](https://www.legislation.gov.uk/ukpga/1997/28/section/14/1); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 
@@ -842,9 +842,9 @@ SCHEDULES
 
 [^c14527691]: Modification: Pt. VIII (ss. 193-223) amended (12.1.1998) by [S.I. 1997/3016](https://www.legislation.gov.uk/uksi/1997/3016), [art. 2](https://www.legislation.gov.uk/uksi/1997/3016/article/2)
 
-[^key-fd525d315eb239401beedbad79b7f23d]: Modification: Pt. 8 modified (20.7.2006) by [The General Lighthouse Authorities (Beacons: Automatic Identification System) Order 2006 (S.I. 2006/1977)](https://www.legislation.gov.uk/uksi/2006/1977), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1977/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1977/article/2)
+[^c-fd525d315eb239401beedbad79b7f23d]: Modification: Pt. 8 modified (20.7.2006) by [The General Lighthouse Authorities (Beacons: Automatic Identification System) Order 2006 (S.I. 2006/1977)](https://www.legislation.gov.uk/uksi/2006/1977), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1977/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1977/article/2)
 
-[^key-7ab1fcef5a3fdd9fc93ea166c3b01bb9]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/ukpga/1995/21/part/9A) inserted (5.2.2015 for the insertion of ss. 255A, 255J, 255N, 255R for specified purposes, 14.4.2015 in so far as not already in force) by [Wreck Removal Convention Act 2011 (c. 8)](https://www.legislation.gov.uk/ukpga/2011/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/2/2); [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [arts. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2), [3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
+[^c-7ab1fcef5a3fdd9fc93ea166c3b01bb9]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/ukpga/1995/21/part/9A) inserted (5.2.2015 for the insertion of ss. 255A, 255J, 255N, 255R for specified purposes, 14.4.2015 in so far as not already in force) by [Wreck Removal Convention Act 2011 (c. 8)](https://www.legislation.gov.uk/ukpga/2011/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/2/2); [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [arts. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2), [3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
 
 [^M_C_f37ebde9-3b73-4f4c-8cae-e6a0cb1b132c]: Modification: Pt. 10: power to apply (with modifications) conferred (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 14(4)(g)](https://www.legislation.gov.uk/ukpga/2026/6/section/14/4/g), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
 

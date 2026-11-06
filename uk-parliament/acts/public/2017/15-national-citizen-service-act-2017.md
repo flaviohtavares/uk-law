@@ -56,17 +56,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) “**young people**” means 16 and 17 year olds, but may also include other persons who are 15 years old or have attained the age of 18 but are under the age of 25;
 - (b) young people are “in England” if they are resident in England, or receive education or training there.
 
-### 2. Transfer Schemes[^key-7a00f006d3dda6a8639a2deb152ab09b]
+### 2. Transfer Schemes[^c-7a00f006d3dda6a8639a2deb152ab09b]
 
 Schedule 1 contains provision about schemes for the transfer of staff, property, rights and liabilities from the NCS Trust C.I.C. (a community interest company registered in England with company registration number 08235117) to the NCS Trust.
 
-### 3. Finance[^key-a39c0a0b2ecb16d98fc6a9dc1362db2d]
+### 3. Finance[^c-a39c0a0b2ecb16d98fc6a9dc1362db2d]
 
 (1) The Secretary of State may make to the NCS Trust such payments by way of grant out of money provided by Parliament as the Secretary of State considers appropriate.
 
 (2) Payments under subsection (1) may be made at such times, and subject to such conditions, as the Secretary of State considers appropriate.
 
-### 4. Accounts and audit[^key-c0577ed205de8a24f74efb6ffd3ad472]
+### 4. Accounts and audit[^c-c0577ed205de8a24f74efb6ffd3ad472]
 
 (1) The NCS Trust must prepare accounts for each financial year.
 
@@ -80,7 +80,7 @@ Schedule 1 contains provision about schemes for the transfer of staff, property,
 - (b) report on the accounts, and
 - (c) lay the certified accounts and report before Parliament.
 
-### 5. Business plan[^key-6bba43867ca44e13018a9a96e830d631]
+### 5. Business plan[^c-6bba43867ca44e13018a9a96e830d631]
 
 (1) For each financial year, the NCS Trust must publish a business plan which sets out, in relation to the exercise of the functions of the NCS Trust—
 
@@ -91,7 +91,7 @@ Schedule 1 contains provision about schemes for the transfer of staff, property,
 
 (3) The Secretary of State must lay a copy of the published business plan before each House of Parliament.
 
-### 6. Annual report etc[^key-f390b943175e11ccecbea77f200d50ae]
+### 6. Annual report etc[^c-f390b943175e11ccecbea77f200d50ae]
 
 (1) As soon as reasonably practicable after the end of each financial year, the NCS Trust must give the Secretary of State a report on the performance of its functions during that year.
 
@@ -115,7 +115,7 @@ Schedule 1 contains provision about schemes for the transfer of staff, property,
 
 (5) The NCS Trust must give the Secretary of State such returns, accounts and other information relating to its property and activities as the Secretary of State requires.
 
-### 7. Notification of financial difficulties and criminal conduct[^key-8670b1d9346f864f2c6e20096e646df3]
+### 7. Notification of financial difficulties and criminal conduct[^c-8670b1d9346f864f2c6e20096e646df3]
 
 (1) In this section, an “**NCS Trust provider**” means—
 
@@ -134,13 +134,13 @@ Schedule 1 contains provision about schemes for the transfer of staff, property,
 
 (3) The NCS Trust must promptly notify the Secretary of State of the matter.
 
-### 8. Fees[^key-b837c442b2ae5f1f0833d6e7a0a7d5cc]
+### 8. Fees[^c-b837c442b2ae5f1f0833d6e7a0a7d5cc]
 
 (1) The NCS Trust may charge a fee for participation in a programme provided by the NCS Trust or on its behalf.
 
 (2) The NCS Trust may charge different fees for different descriptions of participants, for the purpose of enabling participants from different backgrounds to participate in such a programme.
 
-### 9. HMRC functions[^key-e9a3be881d4ebdd3b033a861363a4051]
+### 9. HMRC functions[^c-e9a3be881d4ebdd3b033a861363a4051]
 
 (1) For the purposes of assisting the NCS Trust to promote its programmes, the Commissioners for Her Majesty's Revenue and Customs may carry out functions in connection with sending NCS information to young people and their parents and carers.
 
@@ -164,7 +164,7 @@ In this Act—
   - (b) each successive period of 12 months;
 - “**the NCS Trust**” has the meaning given by section 1(1).
 
-### 11. Consequential amendments[^key-8f33cae983510d4c5d74eededac4d51a][^key-080adafc8cb0d44f59204560f0d919aa]
+### 11. Consequential amendments[^c-8f33cae983510d4c5d74eededac4d51a][^c-080adafc8cb0d44f59204560f0d919aa]
 
 Schedule 2 contains consequential amendments relating to the NCS Trust.
 
@@ -202,7 +202,7 @@ Section 2
 
 ### Staff transfer schemes
 
-**1.**[^key-f4a0969452634d6f6623ea8758881bc7] (1) The Secretary of State may make a scheme (a “staff transfer scheme”) providing for the transfer of designated members of staff of the NCS Trust C.I.C (a community interest company registered in England with company registration number 08235117) (“**the company**”) to the National Citizen Service Trust (to be established by Royal Charter) (“the Charter body”).
+**1.**[^c-f4a0969452634d6f6623ea8758881bc7] (1) The Secretary of State may make a scheme (a “staff transfer scheme”) providing for the transfer of designated members of staff of the NCS Trust C.I.C (a community interest company registered in England with company registration number 08235117) (“**the company**”) to the National Citizen Service Trust (to be established by Royal Charter) (“the Charter body”).
 
 (2) A staff transfer scheme may provide—
 
@@ -218,7 +218,7 @@ Section 2
 
 ### Property transfer schemes
 
-**2.**[^key-69c265221c198c49fb1c5b8e9315b521] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer to the Charter body of designated properties, rights or liabilities of the company.
+**2.**[^c-69c265221c198c49fb1c5b8e9315b521] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer to the Charter body of designated properties, rights or liabilities of the company.
 
 (2) A property transfer scheme may—
 
@@ -235,18 +235,18 @@ Section 2
 
 ### Continuity
 
-**3.**[^key-35a79c012505d429c8d729781353555d] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the company before the transfer takes effect.
+**3.**[^c-35a79c012505d429c8d729781353555d] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the company before the transfer takes effect.
 
 ### Supplementary provisions
 
-**4.**[^key-244bde2aa6838bfd60d275d38c4211a4] A staff transfer scheme or a property transfer scheme may—
+**4.**[^c-244bde2aa6838bfd60d275d38c4211a4] A staff transfer scheme or a property transfer scheme may—
 
 - (a) include supplementary, incidental, transitional and consequential provision, and
 - (b) provide for the scheme to be modified by agreement after it comes into effect.
 
 ### Procedure for making schemes
 
-**5.**[^key-9de5b1add4240548803e0075a6899f9c] (1) Before making a staff transfer scheme or a property transfer scheme, the Secretary of State must be satisfied that the following persons have been consulted (whether by the Secretary of State or another person)—
+**5.**[^c-9de5b1add4240548803e0075a6899f9c] (1) Before making a staff transfer scheme or a property transfer scheme, the Secretary of State must be satisfied that the following persons have been consulted (whether by the Secretary of State or another person)—
 
 - (a) those persons that the Secretary of State considers likely to be affected by the making of the scheme, and
 - (b) such other persons as appear to the Secretary of State to represent the interests of such persons.
@@ -257,7 +257,7 @@ Section 2
 
 ### Interpretation
 
-**6.**[^key-41dc9affd6131e137394a15bca06b127] In this Schedule—
+**6.**[^c-41dc9affd6131e137394a15bca06b127] In this Schedule—
 
 - “**designated**”, in relation to a staff transfer scheme or a property transfer scheme, means specified in, or determined in accordance with, the scheme;
 - “**property**” includes interests of any description;
@@ -270,58 +270,58 @@ Section 11
 
 ### Disqualification
 
-**1.**[^key-b55875f7387cfda28ef83d02f3ba1056] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (disqualifying offices), insert at the appropriate place— “ Chair of the National Citizen Service Trust, a body established by Royal Charter. ”
+**1.**[^c-b55875f7387cfda28ef83d02f3ba1056] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (disqualifying offices), insert at the appropriate place— “ Chair of the National Citizen Service Trust, a body established by Royal Charter. ”
 
 ### Public records
 
-**2.**[^key-96446c07bdc4dc50b813bb31ad97e0f7] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3, insert at the appropriate place— “ The National Citizen Service Trust. ”
+**2.**[^c-96446c07bdc4dc50b813bb31ad97e0f7] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3, insert at the appropriate place— “ The National Citizen Service Trust. ”
 
 ### Freedom of information
 
-**3.**[^key-f7ce8fa47888bff4bc2864f037703ec1] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which the Act applies), insert at the appropriate place— “ The National Citizen Service Trust. ”
+**3.**[^c-f7ce8fa47888bff4bc2864f037703ec1] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which the Act applies), insert at the appropriate place— “ The National Citizen Service Trust. ”
 
 ### Equality
 
-**4.**[^key-96fbcee2a7ce1f4b3c52b4b155a99c95] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “Other educational bodies” insert at the appropriate place— “ The National Citizen Service Trust. ”
+**4.**[^c-96fbcee2a7ce1f4b3c52b4b155a99c95] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “Other educational bodies” insert at the appropriate place— “ The National Citizen Service Trust. ”
 
 ## Annotations
 
-[^key-7a00f006d3dda6a8639a2deb152ab09b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/15/section/2) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
+[^c-7a00f006d3dda6a8639a2deb152ab09b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/15/section/2) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
 
-[^key-a39c0a0b2ecb16d98fc6a9dc1362db2d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/15/section/3) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/a)
+[^c-a39c0a0b2ecb16d98fc6a9dc1362db2d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/15/section/3) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/a)
 
-[^key-c0577ed205de8a24f74efb6ffd3ad472]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/15/section/4) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/b)
+[^c-c0577ed205de8a24f74efb6ffd3ad472]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/15/section/4) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/b)
 
-[^key-6bba43867ca44e13018a9a96e830d631]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/15/section/5) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/c)
+[^c-6bba43867ca44e13018a9a96e830d631]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/15/section/5) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/c)
 
-[^key-f390b943175e11ccecbea77f200d50ae]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/15/section/6) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/d)
+[^c-f390b943175e11ccecbea77f200d50ae]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/15/section/6) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/d)
 
-[^key-8670b1d9346f864f2c6e20096e646df3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/15/section/7) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/e)
+[^c-8670b1d9346f864f2c6e20096e646df3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/15/section/7) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/e)
 
-[^key-b837c442b2ae5f1f0833d6e7a0a7d5cc]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/15/section/8) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/f)
+[^c-b837c442b2ae5f1f0833d6e7a0a7d5cc]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/15/section/8) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/f)
 
-[^key-e9a3be881d4ebdd3b033a861363a4051]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/15/section/9) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/g)
+[^c-e9a3be881d4ebdd3b033a861363a4051]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/15/section/9) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/g)
 
-[^key-8f33cae983510d4c5d74eededac4d51a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/15/section/11) in force at 13.12.2017 for specified purposes by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/b)
+[^c-8f33cae983510d4c5d74eededac4d51a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/15/section/11) in force at 13.12.2017 for specified purposes by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/b)
 
-[^key-080adafc8cb0d44f59204560f0d919aa]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/15/section/11) in force at 1.12.2018 in so far as not already in force by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)
+[^c-080adafc8cb0d44f59204560f0d919aa]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/15/section/11) in force at 1.12.2018 in so far as not already in force by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)
 
-[^key-f4a0969452634d6f6623ea8758881bc7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/1) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
+[^c-f4a0969452634d6f6623ea8758881bc7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/1) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
 
-[^key-69c265221c198c49fb1c5b8e9315b521]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/2) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
+[^c-69c265221c198c49fb1c5b8e9315b521]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/2) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
 
-[^key-35a79c012505d429c8d729781353555d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/3) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
+[^c-35a79c012505d429c8d729781353555d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/3) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
 
-[^key-244bde2aa6838bfd60d275d38c4211a4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/4) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
+[^c-244bde2aa6838bfd60d275d38c4211a4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/4) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
 
-[^key-9de5b1add4240548803e0075a6899f9c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/5) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
+[^c-9de5b1add4240548803e0075a6899f9c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/5) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
 
-[^key-41dc9affd6131e137394a15bca06b127]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/6) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
+[^c-41dc9affd6131e137394a15bca06b127]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/15/schedule/1/paragraph/6) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/a)
 
-[^key-b55875f7387cfda28ef83d02f3ba1056]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/1) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/b)
+[^c-b55875f7387cfda28ef83d02f3ba1056]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/1) in force at 13.12.2017 by [S.I. 2017/1228](https://www.legislation.gov.uk/uksi/2017/1228), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1228/regulation/3/b)
 
-[^key-96446c07bdc4dc50b813bb31ad97e0f7]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/2) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)
+[^c-96446c07bdc4dc50b813bb31ad97e0f7]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/2) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)
 
-[^key-f7ce8fa47888bff4bc2864f037703ec1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/3) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)
+[^c-f7ce8fa47888bff4bc2864f037703ec1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/3) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)
 
-[^key-96fbcee2a7ce1f4b3c52b4b155a99c95]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/4) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)
+[^c-96fbcee2a7ce1f4b3c52b4b155a99c95]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/15/schedule/2/paragraph/4) in force at 1.12.2018 by [S.I. 2018/1239](https://www.legislation.gov.uk/uksi/2018/1239), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/1239/regulation/2/h)

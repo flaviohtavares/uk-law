@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendment of the Representation of the People (Northern Ireland) Regulations 2008[^key-2e2470919e84ee2ab48a39d82b5ebc6d][^key-965ecc3c0f744c5f13d5f6c125d2e743]
+## 41. Amendment of the Representation of the People (Northern Ireland) Regulations 2008[^c-2e2470919e84ee2ab48a39d82b5ebc6d][^c-965ecc3c0f744c5f13d5f6c125d2e743]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ In regulation 38C of the Representation of the People (Northern Ireland) Regulat
 
 ## Annotations
 
-[^key-2e2470919e84ee2ab48a39d82b5ebc6d]: Commencement: Reg. 41 not in force at made date, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4)
+[^c-2e2470919e84ee2ab48a39d82b5ebc6d]: Commencement: Reg. 41 not in force at made date, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4)
 
-[^key-965ecc3c0f744c5f13d5f6c125d2e743]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2022/1382/regulation/41) in force at 27.11.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4); S.I. 2024/1191, [regs. 1(2)(g)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/1/2/g), [2](https://www.legislation.gov.uk/uksi/2024/1191/regulation/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/1191/regulation/4))
+[^c-965ecc3c0f744c5f13d5f6c125d2e743]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2022/1382/regulation/41) in force at 27.11.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4); S.I. 2024/1191, [regs. 1(2)(g)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/1/2/g), [2](https://www.legislation.gov.uk/uksi/2024/1191/regulation/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/1191/regulation/4))
 
 [^f00061]: Footnote: [S.I. 2008/1741](https://www.legislation.gov.uk/uksi/2008/1741); relevant amending instruments are [S.I. 2014/1808](https://www.legislation.gov.uk/uksi/2014/1808), [2018/331](https://www.legislation.gov.uk/uksi/2018/331).

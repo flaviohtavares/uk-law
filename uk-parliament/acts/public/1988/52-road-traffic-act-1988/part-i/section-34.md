@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Prohibition of driving mechanically propelled vehicles elsewhere than on roads.[^c19267181][^key-604e5bc24e9a2a31ac09b43e924dd617][^c13972271]
+## 34. Prohibition of driving mechanically propelled vehicles elsewhere than on roads.[^c19267181][^c-604e5bc24e9a2a31ac09b43e924dd617][^c13972271]
 
 *Extent: E+W*
 
@@ -97,7 +97,7 @@ or affects the law of trespass to land or any right or remedy to which a person 
 
 [^c19267181]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-604e5bc24e9a2a31ac09b43e924dd617]: Modification: S. 34 modified (27.11.2025) by [The Cory Decarbonisation Project Order 2025 (S.I. 2025/1227)](https://www.legislation.gov.uk/uksi/2025/1227), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1), [16(5)](https://www.legislation.gov.uk/uksi/2025/1227/article/16/5), [17(6)](https://www.legislation.gov.uk/uksi/2025/1227/article/17/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1227/schedule/12))
+[^c-604e5bc24e9a2a31ac09b43e924dd617]: Modification: S. 34 modified (27.11.2025) by [The Cory Decarbonisation Project Order 2025 (S.I. 2025/1227)](https://www.legislation.gov.uk/uksi/2025/1227), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1), [16(5)](https://www.legislation.gov.uk/uksi/2025/1227/article/16/5), [17(6)](https://www.legislation.gov.uk/uksi/2025/1227/article/17/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1227/schedule/12))
 
 [^c13972271]: Textual amendment: S. 34 substituted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 67](https://www.legislation.gov.uk/ukpga/2000/37/section/67), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2000/37/schedule/7/paragraph/5)
 

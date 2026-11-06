@@ -34,10 +34,10 @@ summary: ''
 
 (3) An instrument containing—
 
-- (a) an order under section 13, 114 , 122[^key-6dc5abf704f4333da1fd4a57eb1e197b] or 229,
+- (a) an order under section 13, 114 , 122[^c-6dc5abf704f4333da1fd4a57eb1e197b] or 229,
 - (b) an order of the Secretary of State under section 321,
 - (c) an order of the Secretary of State under paragraph 19(4), 21(2) or (4) or 24 of Schedule 11,
-- (d) regulations under section 70 , 72 or 126A[^key-216ef99c74d85f29ed82f63cfa8a6018], or
+- (d) regulations under section 70 , 72 or 126A[^c-216ef99c74d85f29ed82f63cfa8a6018], or
 - (e) regulations of the Secretary of State under section 280(3) or 291,
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
@@ -50,8 +50,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (7) An instrument containing—
 
-- (a) an order under section 36 or Part 2 (excluding sections 114 and 122[^key-d0dcda0d02f59e8fab89436a1eaf6d7c]),
-- (aa)[^key-0093f99e48e29f5530c4bd8d37dd6e0c] an order or regulations of the Secretary of State under section 184,
+- (a) an order under section 36 or Part 2 (excluding sections 114 and 122[^c-d0dcda0d02f59e8fab89436a1eaf6d7c]),
+- (aa)[^c-0093f99e48e29f5530c4bd8d37dd6e0c] an order or regulations of the Secretary of State under section 184,
 - (b) an order of the Secretary of State under section 321 to which subsection (3) above does not apply,
 - (c) an order of the Secretary of State under paragraph 16(7), 18(4), 22(2) or 23(2) of Schedule 11,
 - (ca)[^M_F_bfecfdc1-5ec9-42d8-bef9-e3716edc13c4] regulations under section 53A(2)
@@ -85,13 +85,13 @@ is subject to annulment in pursuance of a resolution of the National Assembly fo
 
 ## Annotations
 
-[^key-6dc5abf704f4333da1fd4a57eb1e197b]: Textual amendment: Words in s. 320(3)(a) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 17 para. 18(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/17/paragraph/18/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-6dc5abf704f4333da1fd4a57eb1e197b]: Textual amendment: Words in s. 320(3)(a) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 17 para. 18(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/17/paragraph/18/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-216ef99c74d85f29ed82f63cfa8a6018]: Textual amendment: Words in [s. 320(3)(d)](https://www.legislation.gov.uk/ukpga/2008/17/section/320/3/d) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 10(8)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/8), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)
+[^c-216ef99c74d85f29ed82f63cfa8a6018]: Textual amendment: Words in [s. 320(3)(d)](https://www.legislation.gov.uk/ukpga/2008/17/section/320/3/d) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 10(8)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/8), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)
 
-[^key-d0dcda0d02f59e8fab89436a1eaf6d7c]: Textual amendment: Words in [s. 320(7)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/320/7/a) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/46); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z)
+[^c-d0dcda0d02f59e8fab89436a1eaf6d7c]: Textual amendment: Words in [s. 320(7)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/320/7/a) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/46); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z)
 
-[^key-0093f99e48e29f5530c4bd8d37dd6e0c]: Textual amendment: S. 320(7)(aa) inserted (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 6(8)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/8); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-0093f99e48e29f5530c4bd8d37dd6e0c]: Textual amendment: S. 320(7)(aa) inserted (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 6(8)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/8); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
 
 [^M_F_bfecfdc1-5ec9-42d8-bef9-e3716edc13c4]: Textual amendment: S. 320(7)(ca) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 31(4)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/31/4/b), [57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e)
 

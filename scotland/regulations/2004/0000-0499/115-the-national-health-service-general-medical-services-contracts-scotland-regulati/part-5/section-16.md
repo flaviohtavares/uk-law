@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Additional services[^key-bd6d0307218f34e67c5628506f1cf6a5]
+## 16. Additional services[^c-bd6d0307218f34e67c5628506f1cf6a5]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A contract which includes the provision of any additional services must—
 
 ## Annotations
 
-[^key-bd6d0307218f34e67c5628506f1cf6a5]: Commencement: Reg. 16 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-bd6d0307218f34e67c5628506f1cf6a5]: Commencement: Reg. 16 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Powers of the Pensions Regulator[^key-5eb0cd27273baba230d8d01a8bec94fb]
+## 44. Powers of the Pensions Regulator[^c-5eb0cd27273baba230d8d01a8bec94fb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A direction issued by the Pensions Regulator under section 74(2)(a) of the Act (
 
 ## Annotations
 
-[^key-5eb0cd27273baba230d8d01a8bec94fb]: Commencement: Reg. 44 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-5eb0cd27273baba230d8d01a8bec94fb]: Commencement: Reg. 44 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

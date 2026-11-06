@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Application of regulations where there is dual entitlement[^key-44f6f78ebfa40d25bd650aaf5aa5013d]
+## 42. Application of regulations where there is dual entitlement[^c-44f6f78ebfa40d25bd650aaf5aa5013d]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-44f6f78ebfa40d25bd650aaf5aa5013d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2016/219/regulation/42) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-44f6f78ebfa40d25bd650aaf5aa5013d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2016/219/regulation/42) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00053]: Footnote: Sections 11B to 11I were inserted by Article 63 of the Welfare Reform (Northern Ireland) Order 2015
 

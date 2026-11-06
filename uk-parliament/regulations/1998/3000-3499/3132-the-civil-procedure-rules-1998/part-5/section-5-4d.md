@@ -29,12 +29,12 @@ summary: ''
 
 (3) Rules 5.4, 5.4B and 5.4C do not apply in relation to any proceedings in respect of which a rule or practice direction makes different provision.
 
-(Rules 5.4, 5.4B and 5.4C are disapplied by rules 76.34, 79.30, 80.30, 82.18 and 88.33; and rule 5.4C is disapplied, and rule 5.4B applied subject to court order, by paragraph 23 of Practice Direction[^key-ac0d0551c021afe5358ccadc875e874f] 49E[^key-12e025733f0b1370319090dfd64788da].)
+(Rules 5.4, 5.4B and 5.4C are disapplied by rules 76.34, 79.30, 80.30, 82.18 and 88.33; and rule 5.4C is disapplied, and rule 5.4B applied subject to court order, by paragraph 23 of Practice Direction[^c-ac0d0551c021afe5358ccadc875e874f] 49E[^c-12e025733f0b1370319090dfd64788da].)
 
 ## Annotations
 
 [^M_F_c4b32ed4-5017-4d33-8a0e-58b4869fb79f]: Textual amendment: Rules 5.4B-5.4D inserted (2.10.2006) by [The Civil Procedure (Amendment) Rules 2006 (S.I. 2006/1689)](https://www.legislation.gov.uk/uksi/2006/1689), [rules 1](https://www.legislation.gov.uk/uksi/2006/1689/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1689/rule/3/b)
 
-[^key-ac0d0551c021afe5358ccadc875e874f]: Textual amendment: Words in [rule 5.4D](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4D) inserted (1.10.2015) by [The Civil Procedure (Amendment No. 4) Rules 2015 (S.I. 2015/1569)](https://www.legislation.gov.uk/uksi/2015/1569), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1569/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2015/1569/rule/6)
+[^c-ac0d0551c021afe5358ccadc875e874f]: Textual amendment: Words in [rule 5.4D](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4D) inserted (1.10.2015) by [The Civil Procedure (Amendment No. 4) Rules 2015 (S.I. 2015/1569)](https://www.legislation.gov.uk/uksi/2015/1569), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1569/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2015/1569/rule/6)
 
-[^key-12e025733f0b1370319090dfd64788da]: Textual amendment: Word in [rule 5.4D](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4D) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2022/783/rule/6)
+[^c-12e025733f0b1370319090dfd64788da]: Textual amendment: Word in [rule 5.4D](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4D) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2022/783/rule/6)

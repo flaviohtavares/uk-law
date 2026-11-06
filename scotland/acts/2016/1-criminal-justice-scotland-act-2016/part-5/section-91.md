@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Certain lateness not excusable[^key-6aa47ea0af5a160f6063e31f21d27b3e]
+## 91. Certain lateness not excusable[^c-6aa47ea0af5a160f6063e31f21d27b3e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 300A (power of court to excuse procedural irregularities) of the 1995
 
 ## Annotations
 
-[^key-6aa47ea0af5a160f6063e31f21d27b3e]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2016/1/section/91) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-6aa47ea0af5a160f6063e31f21d27b3e]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2016/1/section/91) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

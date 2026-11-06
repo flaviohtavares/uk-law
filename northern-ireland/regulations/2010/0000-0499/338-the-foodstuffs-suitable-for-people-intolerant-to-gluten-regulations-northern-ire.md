@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Foodstuffs Suitable for People Intolerant to Gluten Regulations (Northern Ireland) 2010 (revoked)[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]
+The Foodstuffs Suitable for People Intolerant to Gluten Regulations (Northern Ireland) 2010 (revoked)[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]
 
 Made
 
@@ -42,42 +42,42 @@ Coming into operation
 
 1st January 2012
 
-[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]
+## 1. Citation and commencement[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]
+## 2. Interpretation[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences, penalties and execution and enforcement[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]
+## 3. Offences, penalties and execution and enforcement[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of the specified provisions[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]
+## 4. Application of the specified provisions[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]
+## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Specified Provisions of the Commission Regulation[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]
+## SCHEDULE — Specified Provisions of the Commission Regulation[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]
 
 Regulations 2(1) and 3(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c9610f9ea2324ee20d7a9a7395c3fd5e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/338) revoked (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [reg. 3](https://www.legislation.gov.uk/nisr/2016/249/regulation/3)
+[^c-c9610f9ea2324ee20d7a9a7395c3fd5e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/338) revoked (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [reg. 3](https://www.legislation.gov.uk/nisr/2016/249/regulation/3)

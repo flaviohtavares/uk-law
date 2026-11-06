@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. Power to use reasonable force[^key-1b654a860c2a2c9a99a7beb4f6bf61f7]
+## 149. Power to use reasonable force[^c-1b654a860c2a2c9a99a7beb4f6bf61f7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b654a860c2a2c9a99a7beb4f6bf61f7]: Commencement: [S. 149](https://www.legislation.gov.uk/asp/2010/5/section/149) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-1b654a860c2a2c9a99a7beb4f6bf61f7]: Commencement: [S. 149](https://www.legislation.gov.uk/asp/2010/5/section/149) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

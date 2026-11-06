@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Byelaws[^key-00ab8fba64b61699c44ccdd4535abc3c]
+## 47. Byelaws[^c-00ab8fba64b61699c44ccdd4535abc3c]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ summary: ''
 
 (8) The undertaker must supply a copy of the proposed byelaws or part of the proposed byelaws to a person who applies for it on payment of a reasonable charge.
 
-(9) During the period specified in the notice in accordance with paragraph (6)(b)[^key-ddcf1367249704eaf50b969621e896d8], any person may make representations about the proposed byelaws to the Welsh Ministers in writing.
+(9) During the period specified in the notice in accordance with paragraph (6)(b)[^c-ddcf1367249704eaf50b969621e896d8], any person may make representations about the proposed byelaws to the Welsh Ministers in writing.
 
 (10) The Welsh Ministers may, after the expiry of the period specified in the notice in accordance with paragraph (6)(b), confirm with or without modification or may refuse to confirm any of the proposed byelaws submitted and may fix a date on which any byelaws so confirmed are to come into force, and, if no date is so fixed, the byelaws come into force after the expiry of 28 days after the date on which they were confirmed.
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00ab8fba64b61699c44ccdd4535abc3c]: Commencement: Art. 47 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-00ab8fba64b61699c44ccdd4535abc3c]: Commencement: Art. 47 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-ddcf1367249704eaf50b969621e896d8]: Textual amendment: Words in [art. 47(9)](https://www.legislation.gov.uk/uksi/2015/1386/article/47/9) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-ddcf1367249704eaf50b969621e896d8]: Textual amendment: Words in [art. 47(9)](https://www.legislation.gov.uk/uksi/2015/1386/article/47/9) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)

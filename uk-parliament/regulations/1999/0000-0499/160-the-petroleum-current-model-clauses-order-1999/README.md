@@ -42,7 +42,7 @@ Coming into force
 
 15th February 1999
 
-In exercise of the powers conferred on her by section 5(4) of the Petroleum Act 1998[^f00001], the Secretary of State hereby makes the following Order:—[^key-1a15f27f1e03bdd83eb82fa419160db5]
+In exercise of the powers conferred on her by section 5(4) of the Petroleum Act 1998[^f00001], the Secretary of State hereby makes the following Order:—[^c-1a15f27f1e03bdd83eb82fa419160db5]
 
 ## Contents
 
@@ -89,4 +89,4 @@ Subsections (5) and (6) of section 5 provide (subject to subsections (7) and (8)
 
 [^f00001]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-1a15f27f1e03bdd83eb82fa419160db5]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/160) excluded (5.3.2004) by [The Petroleum Licensing (Exploration and Production) (Seaward and Landward Areas) Regulations 2004 (S.I. 2004/352)](https://www.legislation.gov.uk/uksi/2004/352), [regs. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/352/regulation/3)
+[^c-1a15f27f1e03bdd83eb82fa419160db5]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/160) excluded (5.3.2004) by [The Petroleum Licensing (Exploration and Production) (Seaward and Landward Areas) Regulations 2004 (S.I. 2004/352)](https://www.legislation.gov.uk/uksi/2004/352), [regs. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/352/regulation/3)

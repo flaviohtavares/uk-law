@@ -45,11 +45,11 @@ This Rule contains only regulations made by virtue of, or consequential upon, se
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-c4c2c4cfc344a49b2985c8ffd7947ab6]
+### 1. Citation, commencement and interpretation[^c-c4c2c4cfc344a49b2985c8ffd7947ab6]
 
 (1) These Regulations may be cited as the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008 and shall come into operation on 1st October 2008.
 
-(2)[^key-3148c5508c6b0ed4554b74e54977c92e] In these Regulations—
+(2)[^c-3148c5508c6b0ed4554b74e54977c92e] In these Regulations—
 
 - “the 2014 Act” means the Mesothelioma Act 2014;
 - “the Order” means the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997;
@@ -64,7 +64,7 @@ This Rule contains only regulations made by virtue of, or consequential upon, se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] applies to these Regulations as it applies to an Act of the Assembly.
 
-### 2. Application of the Order[^key-3b828f6f7fc67f9367f0b36084d4a38c]
+### 2. Application of the Order[^c-3b828f6f7fc67f9367f0b36084d4a38c]
 
 (1) The provisions of the Order specified in paragraph (2) apply for the purposes of these Regulations with the modifications, where appropriate, prescribed in Schedule 1.
 
@@ -81,23 +81,23 @@ This Rule contains only regulations made by virtue of, or consequential upon, se
 - (i) Article 31 (consequential amendments and repeals); and
 - (j) Schedule 1 (compensation payments).
 
-### 3. Consequential amendments[^key-1254e98a489853847e3876fc59b21f4b]
+### 3. Consequential amendments[^c-1254e98a489853847e3876fc59b21f4b]
 
 The consequential amendments set out in Schedule 2 apply for the purposes of these Regulations.
 
-### 4. Recovery of lump sum payments from compensation payment made otherwise than under the Diffuse Mesothelioma Payment Scheme[^key-2dbc841120e185bf0050087716ea6f5d][^key-7b3e260ab64b8fd984b84e16850ff60f]
+### 4. Recovery of lump sum payments from compensation payment made otherwise than under the Diffuse Mesothelioma Payment Scheme[^c-2dbc841120e185bf0050087716ea6f5d][^c-7b3e260ab64b8fd984b84e16850ff60f]
 
-(1) The Department may recover the amount of a lump sum payment[^key-2efec2ca3203a1eed1fdad86e4592d31] where—
+(1) The Department may recover the amount of a lump sum payment[^c-2efec2ca3203a1eed1fdad86e4592d31] where—
 
 - (a) a compensation payment in consequence of a disease is made to or in respect of—
   - (i) a person (“P”); or
   - (ii) a dependant of P,
 
-  to whom, or in respect of whom, a lump sum payment has been, or is likely to be, made; [^key-c616d69f0197c80675c03e2dc0daa77e]...
-- (ab)[^key-d3fded97dd63867d9dad716625cace4d] the compensation payment is not a payment under the Diffuse Mesothelioma Payment Scheme; and
+  to whom, or in respect of whom, a lump sum payment has been, or is likely to be, made; [^c-c616d69f0197c80675c03e2dc0daa77e]...
+- (ab)[^c-d3fded97dd63867d9dad716625cace4d] the compensation payment is not a payment under the Diffuse Mesothelioma Payment Scheme; and
 - (b) the compensation payment is made in consequence of the same disease as the lump sum payment.
 
-(1A)[^key-5f0724b3ae669046ad0c3c30a3cb5693] The Department may also recover the amount of lump sum payments to which Article 3A(2)(d) of the Order applies where—
+(1A)[^c-5f0724b3ae669046ad0c3c30a3cb5693] The Department may also recover the amount of lump sum payments to which Article 3A(2)(d) of the Order applies where—
 
 - (a) any such payment has been, or is likely to be, made to one or more dependants of P;
 - (b) by virtue of a notice given under section 3(3) of the 2014 Act, any other dependant of P has ceased to be eligible for a lump sum payment to which Article 3A(2)(d) of the Order applies; and
@@ -108,7 +108,7 @@ The consequential amendments set out in Schedule 2 apply for the purposes of the
 - (a) is a reference to a payment made by or on behalf of a person who is, or is alleged to be, liable to any extent in respect of the disease; but
 - (b) does not include a reference to a payment mentioned in Part 1 of Schedule 1 to the Order.
 
-### 4A. Recovery of specified lump sum payments from compensation payment under the Diffuse Mesothelioma Payment Scheme[^key-86b457101daaa902a16ad97e18a366ef]
+### 4A. Recovery of specified lump sum payments from compensation payment under the Diffuse Mesothelioma Payment Scheme[^c-86b457101daaa902a16ad97e18a366ef]
 
 The Department may recover the amount of a specified lump sum payment where—
 
@@ -116,24 +116,24 @@ The Department may recover the amount of a specified lump sum payment where—
 - (b) that compensation payment is a payment under the Diffuse Mesothelioma Payment Scheme; and
 - (c) the disease in consequence of which the specified lump sum payment was made is also diffuse mesothelioma.
 
-### 5. Application of these Regulations to a dependant of P[^key-ce6d75989bd71256d2e7bc1f836fc970]
+### 5. Application of these Regulations to a dependant of P[^c-ce6d75989bd71256d2e7bc1f836fc970]
 
 (1) Subject to paragraph (2), in these Regulations and any provision of the Order as modified any reference to P is to be construed as if it included a reference to a dependant of P where that dependant is the person to whom, or in respect of whom, a lump sum payment is made.
 
 (2) Paragraph (1) does not apply in relation to regulations 4, 10(7) and 12(7) and Articles 17 and 25(2) of, and paragraphs 3(a) and 5(1)[^f00006] of Schedule 1 to, the Order.
 
-### 6. Compensation payments to which these Regulations apply[^key-42ae8f57345f98445bea2c53976c2f22]
+### 6. Compensation payments to which these Regulations apply[^c-42ae8f57345f98445bea2c53976c2f22]
 
-(1)[^key-a65e2a1cb2818841976e57cc4ca2871c] Except as stated in paragraph (2)[^key-f5dd59b4b0c73640073358e5b269add1] These Regulations apply in relation to compensation payments made on or after the day on which section 8 of the Mesothelioma, etc., Act (Northern Ireland) 2008 comes into operation.
+(1)[^c-a65e2a1cb2818841976e57cc4ca2871c] Except as stated in paragraph (2)[^c-f5dd59b4b0c73640073358e5b269add1] These Regulations apply in relation to compensation payments made on or after the day on which section 8 of the Mesothelioma, etc., Act (Northern Ireland) 2008 comes into operation.
 
-(2)[^key-c937fee512d991a698099d2e72b42c08] In any case where—
+(2)[^c-c937fee512d991a698099d2e72b42c08] In any case where—
 
 - (a) the lump sum payment falls within Article 3A(2)(d) of the Order; or
 - (b) regulation 4A applies;
 
 these Regulations apply only in relation to compensation payments which are made on or after the coming into operation of the Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014.
 
-### 7. Exempted trusts and payments[^key-b0b9bbd0ac2e22073246080ea6a46616]
+### 7. Exempted trusts and payments[^c-b0b9bbd0ac2e22073246080ea6a46616]
 
 (1) The following trusts are prescribed for the purposes of paragraph 4 of Schedule 1 to the Order—
 
@@ -143,7 +143,7 @@ these Regulations apply only in relation to compensation payments which are made
 - (d) the Eileen Trust established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions;
 - (e) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for interim payments in accordance with its provisions;
 - (f) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments, other than interim payments, in accordance with its provisions.
-- (g)[^key-2449a4d126570fede70e5719bee1a5bc] the UK Asbestos Trust established on 10th October 2006 for the benefit of certain persons suffering from asbestos-related diseases provided that any payment made in respect of diffuse mesothelioma out of this Trust is not made to or in respect of a person who has received a payment under the Diffuse Mesothelioma Payment Scheme[^key-7a2a8e70da563596c7f101286a7c269a] ;
+- (g)[^c-2449a4d126570fede70e5719bee1a5bc] the UK Asbestos Trust established on 10th October 2006 for the benefit of certain persons suffering from asbestos-related diseases provided that any payment made in respect of diffuse mesothelioma out of this Trust is not made to or in respect of a person who has received a payment under the Diffuse Mesothelioma Payment Scheme[^c-7a2a8e70da563596c7f101286a7c269a] ;
 - (h) the EL Scheme Trust established on 23rd November 2006 for the benefit of certain persons suffering from asbestos-related diseases.
 
 (2) The following payments are prescribed for the purposes of paragraph 8 of Schedule 1 to the Order—
@@ -156,28 +156,28 @@ these Regulations apply only in relation to compensation payments which are made
 - (f) any payment made by or on behalf of the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by the Secretary of State on 24th April 1992 or, in Scotland, on 10th April 1992;
 - (g) any payment made from the Skipton Fund, the ex-gratia payment scheme administered by the Skipton Fund Limited, incorporated on 25th March 2004, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with the scheme’s provisions;
 - (h) any payment made from the London Bombings Relief Charitable Fund, the company limited by guarantee (number 5505072) and registered charity of that name established on 11th July 2005 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the terrorist attacks carried out in London on 7th July 2005.
-- (i)[^key-c1ae29215f5e507fc2ccd3ff5c119333] any payment made from MFET Limited, the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products.
-- (j)[^key-67c4f6c5a2656e1c2bf1a0d763048ca3] any payment made from the Caxton Foundation, the charitable trust of that name established on 28th March 2011, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with its provisions ;[^key-ec106c041d181eed20050308e2b78710]
-- (k)[^key-11523188fdbf15eae7e240517f3e080e] any payment made from the Scottish Infected Blood Support Scheme administered by the Common Services Agency (constituted by section 10 of the National Health Service (Scotland) Act 1978;
+- (i)[^c-c1ae29215f5e507fc2ccd3ff5c119333] any payment made from MFET Limited, the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products.
+- (j)[^c-67c4f6c5a2656e1c2bf1a0d763048ca3] any payment made from the Caxton Foundation, the charitable trust of that name established on 28th March 2011, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with its provisions ;[^c-ec106c041d181eed20050308e2b78710]
+- (k)[^c-11523188fdbf15eae7e240517f3e080e] any payment made from the Scottish Infected Blood Support Scheme administered by the Common Services Agency (constituted by section 10 of the National Health Service (Scotland) Act 1978;
 - (l) any payment made from a scheme established or approved by the Secretary of State, or trust established with funds provided by the Secretary of State, for the purpose of providing compensation in respect of a person having been infected from contaminated blood products;
 - (m) any payment from the Infected Blood Payment Scheme for Northern Ireland administered by the Regional Business Services Organisation established under section 14 of the Health and Social Care (Reform) Act (Northern Ireland) 2009;
-- (n) any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State ;[^key-986070527307a1b15d077998e9fac12e]
-- (o)[^key-8fc5e895cd44d68bc6fbe2753c834a1a] any payment of victims' payments, or of a lump sum, under the Victims' Payments Regulations 2020 ;[^key-f37be12134f11c9bf61939b1d2b88e18]
-- (p)[^key-3493b4c23db1c9771a4bf6dcc4a7c038] any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020 ;[^key-043c5073df8139b3d98112e5aa3048f6]
-- (q)[^key-eadd5246de246963280f8c4b4887a0c0] any payment made for the purpose of providing compensation or support in respect of the fire on 14th June 2017 at Grenfell Tower;
+- (n) any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State ;[^c-986070527307a1b15d077998e9fac12e]
+- (o)[^c-8fc5e895cd44d68bc6fbe2753c834a1a] any payment of victims' payments, or of a lump sum, under the Victims' Payments Regulations 2020 ;[^c-f37be12134f11c9bf61939b1d2b88e18]
+- (p)[^c-3493b4c23db1c9771a4bf6dcc4a7c038] any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020 ;[^c-043c5073df8139b3d98112e5aa3048f6]
+- (q)[^c-eadd5246de246963280f8c4b4887a0c0] any payment made for the purpose of providing compensation or support in respect of the fire on 14th June 2017 at Grenfell Tower;
 - (r) any payment made by the Post Office or the Secretary of State for the purpose of providing compensation or support which is—
   - (i) in connection with the failings of the Horizon system, or
-  - (ii) otherwise payable following the judgment in *Bates and Others v Post Office Limited* ((No. 3) “Common Issues”) ;[^key-8629f84ecf621397cfa8084abb440335]
-- (s)[^key-e01fa61e55ce1659328bacf1f512d50d] any payment that is made under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence.
+  - (ii) otherwise payable following the judgment in *Bates and Others v Post Office Limited* ((No. 3) “Common Issues”) ;[^c-8629f84ecf621397cfa8084abb440335]
+- (s)[^c-e01fa61e55ce1659328bacf1f512d50d] any payment that is made under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence.
 
-(3)[^key-0d68a198d0eed93a3d1b7ef252ea945d] In this regulation—
+(3)[^c-0d68a198d0eed93a3d1b7ef252ea945d] In this regulation—
 
 - “**the Horizon system**” means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
 - “**the Post Office**” means Post Office Limited (registered number 02154540).
 
 ## PART 2 — Certificates
 
-### 8. Applications for certificates[^key-d87ad435160dbc173c99b1e885f490b4]
+### 8. Applications for certificates[^c-d87ad435160dbc173c99b1e885f490b4]
 
 (1) Before making a compensation payment the compensator must apply to the Department for a certificate.
 
@@ -188,7 +188,7 @@ these Regulations apply only in relation to compensation payments which are made
 
 (3) An application for a certificate is to be treated for the purposes of the Order as received on the day on which it is received by the Department, or if the application is received after normal business hours, or on a day which is not a normal business day, on the next such day.
 
-### 9. Information contained in certificates[^key-07a9aa2c3444661a93c41098165869f5]
+### 9. Information contained in certificates[^c-07a9aa2c3444661a93c41098165869f5]
 
 (1) Subject to paragraph (2), a certificate must specify—
 
@@ -200,7 +200,7 @@ of any lump sum payments which have been, or are likely to have been, paid.
 
 (2) Where the type of payment is an extra-statutory payment, the certificate may specify that type of payment as if it were a payment to which Article 3A(2)(a) of the Order applies.
 
-(2A)[^key-830749445380a3600d851224d779a136] Where a certificate has been applied for by the scheme administrator, the certificate may contain information which would assist the scheme administrator in making a determination in accordance with the Diffuse Mesothelioma Payment Scheme.
+(2A)[^c-830749445380a3600d851224d779a136] Where a certificate has been applied for by the scheme administrator, the certificate may contain information which would assist the scheme administrator in making a determination in accordance with the Diffuse Mesothelioma Payment Scheme.
 
 (3) The Department may estimate, in such manner as it thinks fit the amount of the lump sum payments specified in the certificate.
 
@@ -213,7 +213,7 @@ of any lump sum payments which have been, or are likely to have been, paid.
 
 ## PART 3 — Liability of person paying compensation
 
-### 10. Liability to pay Department amount of lump sum payments[^key-f237fa00d613bb991f03de2a19ee3271]
+### 10. Liability to pay Department amount of lump sum payments[^c-f237fa00d613bb991f03de2a19ee3271]
 
 (1) A person who makes a compensation payment in any case is liable to pay the Department an amount equal to the total amount of—
 
@@ -230,20 +230,20 @@ of any lump sum payments which have been, or are likely to have been, paid.
 - (a) the compensation payment; or
 - (b) a dependant is a beneficiary of part of a compensation payment made in respect of P, and recoverable lump sum payments have been made to that dependant, the share of the compensation payment,
 
-is less than the recoverable lump sum payments[^key-e70091bd8eb6ac6cfe6e5436632fe474] .
+is less than the recoverable lump sum payments[^c-e70091bd8eb6ac6cfe6e5436632fe474] .
 
 (4) The liability referred to in paragraph (1) arises—
 
 - (a) immediately before the compensation payment or, if there is more than one, the first of them is made;
 - (b) prior to any liability to pay the Department an amount equal to the total amount of the recoverable benefits payable under Article 8 of the Order.
 
-(4A)[^key-7926b7035663dbbdb927be558999f633] In any case where recoverable lump sum payments include one or more lump sum payments to which Article 3A(2)(d) of the Order applies, the liability referred to in paragraph (1) in respect of those lump sum payments arises prior to any such liability in respect of any other recoverable lump sum payments.
+(4A)[^c-7926b7035663dbbdb927be558999f633] In any case where recoverable lump sum payments include one or more lump sum payments to which Article 3A(2)(d) of the Order applies, the liability referred to in paragraph (1) in respect of those lump sum payments arises prior to any such liability in respect of any other recoverable lump sum payments.
 
 (5) No amount becomes payable under this regulation before the end of the period of 14 days following the day on which the liability arises.
 
 (6) Subject to paragraph (4), an amount becomes payable under this regulation at the end of the period of 14 days beginning with the day on which a certificate is first issued showing that the amount of recoverable lump sum payment to which it relates has been or is likely to have been paid.
 
-(7) Subject to paragraph (8),[^key-7d5cb06f2d3c3f9c2e1f1cec5cbd110c] In the case of a lump sum payment which has been made to a dependant of P, this regulation applies only to the extent to which the compensator is making any payment—
+(7) Subject to paragraph (8),[^c-7d5cb06f2d3c3f9c2e1f1cec5cbd110c] In the case of a lump sum payment which has been made to a dependant of P, this regulation applies only to the extent to which the compensator is making any payment—
 
 - (a)
   - (i) under the Fatal Accidents (Northern Ireland) Order 1977[^f00013],
@@ -253,12 +253,12 @@ is less than the recoverable lump sum payments[^key-e70091bd8eb6ac6cfe6e5436632f
   to that dependant; or
 - (b) in respect of P, and that dependant is an intended beneficiary of part or all of that payment.
 
-(8)[^key-b893c1dc888e64b5e25776b2487f27e4] In the case of a lump sum payment to which Article 3A(2)(d) of the Order applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
+(8)[^c-b893c1dc888e64b5e25776b2487f27e4] In the case of a lump sum payment to which Article 3A(2)(d) of the Order applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
 
 - (a) paragraph (7)(a), where such a payment is made to another dependant of P who has ceased to be eligible for a lump sum payment to which Article 3A(2)(d) of the Order applies by virtue of having given notice under section 3(3) of the 2014 Act;
 - (b) paragraph (7)(b), where such a dependant is an intended beneficiary of that payment.
 
-### 11. Recovery of payment due under regulation 10[^key-539ad339746f4827991c6a2a413cb78a]
+### 11. Recovery of payment due under regulation 10[^c-539ad339746f4827991c6a2a413cb78a]
 
 (1) This regulation applies where a compensator has made a compensation payment but—
 
@@ -287,9 +287,9 @@ is conclusive evidence that that amount is so recoverable.
 
 ## PART 4 — Reduction of compensation
 
-### 12. Reduction of compensation[^key-34d955acea1fc6de83030710dbe38e48]
+### 12. Reduction of compensation[^c-34d955acea1fc6de83030710dbe38e48]
 
-(1) Except where regulation 12A applies,[^key-387ff4ac34185b1d2f5c905a154051c0] This regulation applies in a case where, in relation to any compensation payment in consequence of a disease made to or in respect of P, a lump sum payment has been, or is likely to be made to, or in respect of P.
+(1) Except where regulation 12A applies,[^c-387ff4ac34185b1d2f5c905a154051c0] This regulation applies in a case where, in relation to any compensation payment in consequence of a disease made to or in respect of P, a lump sum payment has been, or is likely to be made to, or in respect of P.
 
 (2) In such a case, any claim of a person to receive the compensation payment is to be treated for all purposes as discharged if—
 
@@ -314,7 +314,7 @@ and, accordingly, the amount may be nil.
 
 and, the reduction is to be made before any reduction made in respect of recoverable benefits under Article 10 of the Order.
 
-(7) Subject to paragraph (8),[^key-bd93a97733d2c9c8151c210a51ea76eb] Where the lump sum payment has been made to a dependant of P, the reduction specified in paragraph (3) may be attributed—
+(7) Subject to paragraph (8),[^c-bd93a97733d2c9c8151c210a51ea76eb] Where the lump sum payment has been made to a dependant of P, the reduction specified in paragraph (3) may be attributed—
 
 - (a) to any damages awarded to that dependant—
   - (i) under the Fatal Accidents (Northern Ireland) Order 1977,
@@ -324,12 +324,12 @@ and, the reduction is to be made before any reduction made in respect of recover
   other than those paid for funeral expenses;
 - (b) to any part of a compensation payment paid in respect of P, where that dependant is an intended beneficiary of part or all of that compensation.
 
-(8)[^key-e9a8d58c3c52652c7425b52ccfd37cd7] In the case of a lump sum payment to which Article 3A(2)(d) of the Order applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
+(8)[^c-e9a8d58c3c52652c7425b52ccfd37cd7] In the case of a lump sum payment to which Article 3A(2)(d) of the Order applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
 
 - (a) paragraph (7)(a), where such a payment is made to another dependant of P who has ceased to be eligible for a lump sum payment to which Article 3A(2)(d) of the Order applies by virtue of having given notice under section 3(3) of the 2014 Act;
 - (b) paragraph (7)(b), where such a dependant is an intended beneficiary of that payment.
 
-### 12A. Reduction of compensation payment under the Diffuse Mesothelioma Payment Scheme[^key-339d1d5e78645e88edfb72859ae88a59]
+### 12A. Reduction of compensation payment under the Diffuse Mesothelioma Payment Scheme[^c-339d1d5e78645e88edfb72859ae88a59]
 
 (1) This regulation applies in a case where the compensation payment is a payment under the Diffuse Mesothelioma Payment Scheme.
 
@@ -347,28 +347,28 @@ and, the reduction is to be made before any reduction made in respect of recover
 
 (5) In the application of paragraph (4) to any case where the compensation payment is to be made to two or more dependants of P, the deduction of the amount of the recoverable lump sum payments is to be made before calculating the amount to be paid to each dependant in accordance with regulation 16(2)(iii) of the Diffuse Mesothelioma Payment Scheme Regulations 2014.
 
-### 13. Regulations 12 and 12A : supplementary[^key-174602bc0700cf597248e1b9eaf28e5b][^key-fdedace53b30e11f55ff2e9e80940788]
+### 13. Regulations 12 and 12A : supplementary[^c-174602bc0700cf597248e1b9eaf28e5b][^c-fdedace53b30e11f55ff2e9e80940788]
 
-(1) A compensator who makes a compensation payment calculated in accordance with regulation 12 or 12A[^key-766bc1a4fe68901fd792eb6a0429bb28] must inform the person to whom the payment is made—
+(1) A compensator who makes a compensation payment calculated in accordance with regulation 12 or 12A[^c-766bc1a4fe68901fd792eb6a0429bb28] must inform the person to whom the payment is made—
 
 - (a) that the payment has been so calculated; and
 - (b) of the date for payment by reference to which the calculation has been made.
 
-(2) If the amount of a compensation payment calculated in accordance with regulation 12 or 12A[^key-61da44e251d3e59f198f6ca5234f1caa] is nil, a compensator giving a statement saying so is to be treated for the purposes of these Regulations as making a payment within regulation 4(1)(a) or 4A(a), as the case may be,[^key-d9371c1c65cf8ce10ec03700c9d0b442] on the day on which the statement is given.
+(2) If the amount of a compensation payment calculated in accordance with regulation 12 or 12A[^c-61da44e251d3e59f198f6ca5234f1caa] is nil, a compensator giving a statement saying so is to be treated for the purposes of these Regulations as making a payment within regulation 4(1)(a) or 4A(a), as the case may be,[^c-d9371c1c65cf8ce10ec03700c9d0b442] on the day on which the statement is given.
 
 (3) Where a compensator—
 
-- (a) makes a compensation payment calculated in accordance with regulation 12 or 12A[^key-d62ef0f5c83ab4fb8c65f26c2a14fe97] ; and
+- (a) makes a compensation payment calculated in accordance with regulation 12 or 12A[^c-d62ef0f5c83ab4fb8c65f26c2a14fe97] ; and
 - (b) if the amount of the compensation payment so calculated is nil, gives a statement saying so,
 
 the compensator is to be treated, for the purpose of determining any rights and liabilities in respect of contribution or indemnity, as having paid the gross amount of the compensation payment.
 
 (4) For the purposes of these Regulations—
 
-- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from regulation 12 or 12A[^key-d6cc34db8314b0bd5287a652ff0dd087] ; and
+- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from regulation 12 or 12A[^c-d6cc34db8314b0bd5287a652ff0dd087] ; and
 - (b) the amount of any recoverable lump sum payment is the amount determined in accordance with the certificate.
 
-### 14. Reduction of compensation: complex cases[^key-56eb1aff937af1b132a576a22e0ecc34]
+### 14. Reduction of compensation: complex cases[^c-56eb1aff937af1b132a576a22e0ecc34]
 
 (1) This regulation applies where—
 
@@ -387,9 +387,9 @@ the Department is to pay the compensator who made the later payment an amount eq
 (4) Where—
 
 - (a) a compensator receives a payment under paragraph (3); and
-- (b) the amount of the compensation payment made by that compensator was calculated under regulation 12 or 12A[^key-1dc44fc0113f8b3c73562854f1390fce] ,
+- (b) the amount of the compensation payment made by that compensator was calculated under regulation 12 or 12A[^c-1dc44fc0113f8b3c73562854f1390fce] ,
 
-then the compensation payment is to be recalculated under either of those regulations[^key-31fc68b4f71c94f3530bfac501fbff83] , and the compensator must pay the amount of the increase (if any) to the person to whom the compensation payment was made.
+then the compensation payment is to be recalculated under either of those regulations[^c-31fc68b4f71c94f3530bfac501fbff83] , and the compensator must pay the amount of the increase (if any) to the person to whom the compensation payment was made.
 
 (5) Where both the earlier payment and the later payment are made by the same compensator, that compensator may—
 
@@ -412,7 +412,7 @@ and accordingly the latest payment may be nil.
 
 ## PART 5 — Miscellaneous
 
-### 15. Information to be provided by the compensator[^key-e67fe692a1a97ed1ce7e7d24b8f09bac]
+### 15. Information to be provided by the compensator[^c-e67fe692a1a97ed1ce7e7d24b8f09bac]
 
 The following information is prescribed for the purposes of Articles 23(3)(a) and 25(1) of the Order—
 
@@ -420,24 +420,24 @@ The following information is prescribed for the purposes of Articles 23(3)(a) an
 - (b) where known, the date of birth or national insurance number of P, or both if both are known; and
 - (c) the nature of the disease.
 
-### 16. Information to be provided by P and the scheme administrator[^key-241962f31ae0c047b8050e55163ff0a3][^key-eaf0dd30e35aa24ae6f819431eeec966]
+### 16. Information to be provided by P and the scheme administrator[^c-241962f31ae0c047b8050e55163ff0a3][^c-eaf0dd30e35aa24ae6f819431eeec966]
 
-(1)[^key-1964f18feb7bedc5212e3a673030d338] The following information is prescribed for the purposes of Article 25(2)(a)[^key-47c65350da3fa336463318c29bbf100f] of the Order—
+(1)[^c-1964f18feb7bedc5212e3a673030d338] The following information is prescribed for the purposes of Article 25(2)(a)[^c-47c65350da3fa336463318c29bbf100f] of the Order—
 
 - (a) whether P has claimed or may claim a compensation payment, and if so, the full name and address of the person against whom the claim was or may be made;
 - (b) the amount of any compensation payment and the date on which it was made;
 - (c) the amount of the lump sum payment claimed, the type of that payment and the date on which it was paid.
 
-(2)[^key-53cd34313e9a5360c82ec5311eb1bb4c] For the purposes of Article 25(2)(b) of the Order, the prescribed information is the amount of the lump sum payment falling within Article 3A(2)(d) of the Order and the date on which it was paid.
+(2)[^c-53cd34313e9a5360c82ec5311eb1bb4c] For the purposes of Article 25(2)(b) of the Order, the prescribed information is the amount of the lump sum payment falling within Article 3A(2)(d) of the Order and the date on which it was paid.
 
-### 17. Provision of information[^key-a8b2677e9420abac0a4ef4be1308e35e]
+### 17. Provision of information[^c-a8b2677e9420abac0a4ef4be1308e35e]
 
 A person required to give information to the Department under regulation 15 or 16 is to do so by sending it to the Department not later than 14 days after—
 
 - (a) where the person is one to whom regulation 15 applies, the date on which the compensator receives a claim for compensation from P in respect of the disease;
-- (b) where the person is one to whom regulation 16 applies, the date on which the Department requests the information from P or the scheme administrator, as the case may be[^key-670cceb55eadff5fadcd0e49a78cf77f] .
+- (b) where the person is one to whom regulation 16 applies, the date on which the Department requests the information from P or the scheme administrator, as the case may be[^c-670cceb55eadff5fadcd0e49a78cf77f] .
 
-### 18. Periodical payments[^key-4c0d03cec081807ff26d522588569724]
+### 18. Periodical payments[^c-4c0d03cec081807ff26d522588569724]
 
 (1) This regulation applies where in final settlement of P’s claim, an agreement is entered into—
 
@@ -466,7 +466,7 @@ then for the purposes of the Order, the primary party is to be regarded as the c
   - (b) in any other case, the day on which the agreement is entered into;
 - “a single compensation payment” means the total amount of the payments due to be made under the agreement referred to in paragraph (1).
 
-### 19. Adjustments[^key-738a4d6fe347f848cf8dc65938fcb379]
+### 19. Adjustments[^c-738a4d6fe347f848cf8dc65938fcb379]
 
 (1) Where the conditions specified in paragraph (1) and sub-paragraphs (a) and (b) of paragraph (2) of Article 16 of the Order are satisfied, the Department is to pay the difference between the amount that has been paid and the amount that ought to have been paid to the compensator.
 
@@ -485,7 +485,7 @@ then for the purposes of the Order, the primary party is to be regarded as the c
 
 (5) Where paragraph (4) applies, the amount of the compensation payment is to be recalculated under regulation 12 to take account of the fresh certificate and the compensator must pay the amount of the increase (if any) to the person to whom the compensation payment was made.
 
-(5A)[^key-e8775f29e3e67c758f9dd7515ff61a96] This paragraph applies where—
+(5A)[^c-e8775f29e3e67c758f9dd7515ff61a96] This paragraph applies where—
 
 - (a) the amount of the payment made by the compensator was calculated under regulation 12A; and
 - (b) the Department has made a payment under paragraph (1).
@@ -500,7 +500,7 @@ then for the purposes of the Order, the primary party is to be regarded as the c
 
 (7) Where paragraph (6) applies, the compensator may recalculate the compensation payment under regulation 12 to take account of the fresh certificate and may require the repayment of the difference (if any) between the payment made and the payment as so recalculated by the person to whom the compensator made the compensation payment.
 
-(8)[^key-1ad7952f6893a4533615a6345f05a9ce] This paragraph applies where—
+(8)[^c-1ad7952f6893a4533615a6345f05a9ce] This paragraph applies where—
 
 - (a) the amount of the payment made by the compensator was calculated under regulation 12A; and
 - (b) the fresh certificate issued after the review or appeal was required as a result of any applicant for payment under the Diffuse Mesothelioma Payment Scheme supplying to the compensator information knowing it to be incorrect or insufficient, and the compensator supplying that information to the Department without knowing it to be incorrect or insufficient.
@@ -515,11 +515,11 @@ B McGahan
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1 — Modification of certain provisions of the Order[^key-662d59fc116ef1340ba318d5ca1d7ba2]
+## SCHEDULE 1 — Modification of certain provisions of the Order[^c-662d59fc116ef1340ba318d5ca1d7ba2]
 
 Regulation 2(1)
 
-[^key-662d59fc116ef1340ba318d5ca1d7ba2]In any case to which regulation 4 or 4A[^key-076a21c81d4b06add15bf25bdd9cb1e7] applies, the following provisions of the Order shall apply as if—
+[^c-662d59fc116ef1340ba318d5ca1d7ba2]In any case to which regulation 4 or 4A[^c-076a21c81d4b06add15bf25bdd9cb1e7] applies, the following provisions of the Order shall apply as if—
 
 - (a) in Article 2(2) (interpretation)—
   - (i) the definitions of “benefit”, “compensation scheme for motor accidents” and “listed benefit” were omitted,
@@ -551,12 +551,12 @@ Regulation 2(1)
   - (i) in the heading and paragraphs (1) and (2)(a) “of recoverable benefits” were omitted,
   - (ii) in paragraph (1)—
     - (aa) in sub-paragraph (a) “, rate or period” were omitted,
-    - (bb) in sub-paragraph (b) for “listed benefits which have been, or are likely to be, paid otherwise than in respect of the accident, injury or” there were substituted “ recoverable lump sum payments[^key-3a39c7e6217b8e141c55e83e8da2ae46] which have been, or are likely to be, paid otherwise than in respect of the”,
+    - (bb) in sub-paragraph (b) for “listed benefits which have been, or are likely to be, paid otherwise than in respect of the accident, injury or” there were substituted “ recoverable lump sum payments[^c-3a39c7e6217b8e141c55e83e8da2ae46] which have been, or are likely to be, paid otherwise than in respect of the”,
     - (cc) in sub-paragraph (c) for “listed benefits which have not been, and are not likely to be, paid to the injured person during the relevant period” there were substituted “ lump sum payments which have not been, and are not likely to be, paid to P”, and
     - (dd) in sub-paragraph (d) for “3(1)(a)” there were substituted “3A(1)(a)”,
   - (iii) in paragraph (2)—
     - (aa) in sub-paragraph (aa) for “Article 9(2)(a)” there were substituted “regulation 11(2)(a) of the Lump Sum Payments Regulations”, and
-    - (bb) in sub-paragraph (b) for “Article 10 or 10A[^key-810f7018c5225fa2c010ecc6ac4acdf3] ) the injured person” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations) P”, and
+    - (bb) in sub-paragraph (b) for “Article 10 or 10A[^c-810f7018c5225fa2c010ecc6ac4acdf3] ) the injured person” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations) P”, and
   - (iv) in paragraph (3)(b) for “Article 8” there were substituted “regulation 10 of the Lump Sum Payments Regulations”;
 - (e) in Article 14[^f00019] (reference to appeal tribunal)—
   - (i) in paragraph (3) “accident, injury or” were omitted, and
@@ -566,11 +566,11 @@ Regulation 2(1)
 - (f) in Article 15(2)[^f00020] (appeal to Social Security Commissioner)—
   - (i) in sub-paragraph (b) “of recoverable benefits” were omitted,
   - (ii) in sub-paragraph (bb) for “Article 9(2)(a)” there were substituted “regulation 11(2)(a) of the Lump Sum Payments Regulations”, and
-  - (iii) in sub-paragraph (c) for “Article 10 or 10A[^key-82af33a6053d4b81cdfd6b04268ed484] ) the injured person” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations) P”;
+  - (iii) in sub-paragraph (c) for “Article 10 or 10A[^c-82af33a6053d4b81cdfd6b04268ed484] ) the injured person” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations) P”;
 - (g) in Article 16 (reviews and appeals: supplementary)—
   - (i) in paragraph (1) “of recoverable benefits” were omitted,
   - (ii) in paragraphs (2)(a) and (3)(a) for “Article 8” there were substituted “regulation 10 of the Lump Sum Payments Regulations”, and
-  - (iii) in paragraph (4)(a) for “Article 10” or 10A[^key-e2221b10f3076e400c22a91167c5f25a] there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”;
+  - (iii) in paragraph (4)(a) for “Article 10” or 10A[^c-e2221b10f3076e400c22a91167c5f25a] there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”;
 - (h) for Article 17 (court orders) there were substituted—
 
   > **17. Court orders**
@@ -615,12 +615,12 @@ Regulation 2(1)
   - (ii) in paragraph (2) for “Article 8 is not to exceed the total amount of the recoverable benefits” there were substituted “regulation 10 of the Lump Sum Payments Regulations is not to exceed the total amount of the recoverable lump sum payments”, and
   - (iii) in paragraph (3)—
     - (aa) in sub-paragraph (a) for “benefits” there were substituted “lump sum payments”, and
-    - (bb) in sub-paragraph (b) for “Article 10” or 10A[^key-61020fadafcfc63a2794e7dd75ccf362] there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”;
+    - (bb) in sub-paragraph (b) for “Article 10” or 10A[^c-61020fadafcfc63a2794e7dd75ccf362] there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”;
 - (l) in Article 22 (amounts overpaid under Article 8)—
   - (i) in the heading and paragraph (1) for “Article 8” there were substituted “regulation 10 of the Lump Sum Payments Regulations”, and
-  - (ii) in the paragraph (4)(a) for “Article 10” or 10A[^key-99b4ef7abd90918c93b239147a0bfaa8] there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”;
+  - (ii) in the paragraph (4)(a) for “Article 10” or 10A[^c-99b4ef7abd90918c93b239147a0bfaa8] there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”;
 - (m) in Article 23 (compensation payments to be disregarded)—
-  - (i) in paragraphs (1) and (5)(a) for “Articles 8 and 10” 10A[^key-104dcc665dccca3ff3db26321c02a352] there were substituted “regulations 10 and 12 or 12A of the Lump Sum Payments Regulations”,
+  - (i) in paragraphs (1) and (5)(a) for “Articles 8 and 10” 10A[^c-104dcc665dccca3ff3db26321c02a352] there were substituted “regulations 10 and 12 or 12A of the Lump Sum Payments Regulations”,
   - (ii) in paragraph (2)(a) “of recoverable benefits” were omitted,
   - (iii) in paragraph (3)(a) for “the injured person and the accident, injury or” there were substituted “P and the”,
   - (iv) in paragraph (4) for “Article 6” there were substituted “regulation 8 of the Lump Sum Payments Regulations”, and
@@ -630,9 +630,9 @@ Regulation 2(1)
   - (ii) for “Article 8” there were substituted “regulation 10 of the Lump Sum Payments Regulations”;
 - (o) in Article 25 (provision of information)—
   - (i) in paragraph (1)—
-    - (aa) for “any accident, injury or disease suffered by any person (“the injured person”), the following persons shall give the Department the prescribed information about the injured person” there were substituted “a disease suffered by P, the following persons shall give the Department the prescribed information about P”, [^key-b3fdb1c4ed93856e619f2863ed01724e]...
+    - (aa) for “any accident, injury or disease suffered by any person (“the injured person”), the following persons shall give the Department the prescribed information about the injured person” there were substituted “a disease suffered by P, the following persons shall give the Department the prescribed information about P”, [^c-b3fdb1c4ed93856e619f2863ed01724e]...
     - (bb) in sub-paragraph (a) “accident, injury or” were omitted,
-    - (cc)[^key-3411feaf380badd1414991e21261d1e7] “and” after sub-paragraph (a) were omitted, and
+    - (cc)[^c-3411feaf380badd1414991e21261d1e7] “and” after sub-paragraph (a) were omitted, and
     - (dd) after sub-paragraph (b) there were added—
 
       > and
@@ -640,7 +640,7 @@ Regulation 2(1)
       > - (c) where the compensation which is sought is a payment under the Diffuse Mesothelioma Payment Scheme, paragraph (6A) applies.
 
       ,
-  - (ii)[^key-0b6355f03af7be53ab90f731327b856b] for paragraph (2) there were substituted—
+  - (ii)[^c-0b6355f03af7be53ab90f731327b856b] for paragraph (2) there were substituted—
 
     > (2) Where P or a dependant of P, receives or claims a lump sum payment which is or is likely to be paid in respect of the disease suffered by P—
     >
@@ -670,15 +670,15 @@ Regulation 2(1)
 
 Regulation 3
 
-**1.**[^key-8f51c28ec1a7e06db0bd09a9ffc44a58] The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00022] shall be amended in accordance with paragraphs 2 to 6.
+**1.**[^c-8f51c28ec1a7e06db0bd09a9ffc44a58] The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00022] shall be amended in accordance with paragraphs 2 to 6.
 
-**2.**[^key-8ebb433b497df1fe995df4f49ad52ff0] In regulation 1(2) (interpretation) after the definition of “limited capability for work”[^f00023] insert—
+**2.**[^c-8ebb433b497df1fe995df4f49ad52ff0] In regulation 1(2) (interpretation) after the definition of “limited capability for work”[^f00023] insert—
 
 > - “the Lump Sum Payments Regulations” means the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008;
 
 .
 
-**3.**[^key-b756e265a9ef1463098c1d9c59139c8f] After regulation 9 (certificates of recoverable benefits) insert—
+**3.**[^c-b756e265a9ef1463098c1d9c59139c8f] After regulation 9 (certificates of recoverable benefits) insert—
 
 > **9ZA. Review of certificates of recoverable lump sum payments**
 >
@@ -696,12 +696,12 @@ Regulation 3
 > - (b) “lump sum payment” is a payment to which Article 3A(2) of the Recovery of Benefits Order applies;
 > - (c) “P” is to be construed in accordance with regulations 4(1)(a)(i) and 5 of the Lump Sum Payments Regulations.
 
-**4.**[^key-daa100cc7816832a84a9f286c5f5bebe] In regulation 29 (further particulars required relating to certificate of recoverable benefits appeals or applications)—
+**4.**[^c-daa100cc7816832a84a9f286c5f5bebe] In regulation 29 (further particulars required relating to certificate of recoverable benefits appeals or applications)—
 
 - (a) in the heading and paragraphs (1) and (6) after “recoverable benefits”, in each place where it occurs, insert “or, as the case may be, recoverable lump sum payments”, and
 - (b) in paragraph (2) after “Recovery of Benefits Order” insert “or, in the case of lump sum payments, regulation 13 of the Lump Sum Payments Regulations”.
 
-**5.**[^key-2f9857f81f39edd5400011a9779cb229] In regulation 31(3) (time within which appeals are to be brought)—
+**5.**[^c-2f9857f81f39edd5400011a9779cb229] In regulation 31(3) (time within which appeals are to be brought)—
 
 - (a) after “recoverable benefits” insert “or, as the case may be, recoverable lump sum payments”,
 - (b) in sub-paragraph (a) at the end add “or, in the case of lump sum payments, regulation 10 of the Lump Sum Payments Regulations”, and
@@ -715,7 +715,7 @@ Regulation 3
 
   .
 
-**6.**[^key-2cf577eb2dfab9d78d782fee037e55a6] In regulation 33(1)(d) (making of appeals and applications) for “or, as the case may be, the subject of the application” substitute “, the certificate of recoverable lump sum payments or the subject of the application, as the case may be, ”.
+**6.**[^c-2cf577eb2dfab9d78d782fee037e55a6] In regulation 33(1)(d) (making of appeals and applications) for “or, as the case may be, the subject of the application” substitute “, the certificate of recoverable lump sum payments or the subject of the application, as the case may be, ”.
 
 EXPLANATORY NOTE
 
@@ -765,47 +765,47 @@ As these Regulations are made by virtue of, or consequential upon, section 8 of 
 
 [^f00004]: Footnote: [2008 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2008/9)
 
-[^key-c4c2c4cfc344a49b2985c8ffd7947ab6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/355/regulation/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-c4c2c4cfc344a49b2985c8ffd7947ab6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/355/regulation/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-3148c5508c6b0ed4554b74e54977c92e]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/2) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/2)
+[^c-3148c5508c6b0ed4554b74e54977c92e]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/2) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/2)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3b828f6f7fc67f9367f0b36084d4a38c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/355/regulation/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-3b828f6f7fc67f9367f0b36084d4a38c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/355/regulation/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-1254e98a489853847e3876fc59b21f4b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/355/regulation/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-1254e98a489853847e3876fc59b21f4b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/355/regulation/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-2dbc841120e185bf0050087716ea6f5d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/355/regulation/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-2dbc841120e185bf0050087716ea6f5d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/355/regulation/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-7b3e260ab64b8fd984b84e16850ff60f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2008/355/regulation/4) heading added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/a)
+[^c-7b3e260ab64b8fd984b84e16850ff60f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2008/355/regulation/4) heading added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/a)
 
-[^key-2efec2ca3203a1eed1fdad86e4592d31]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/b/i)
+[^c-2efec2ca3203a1eed1fdad86e4592d31]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/b/i)
 
-[^key-c616d69f0197c80675c03e2dc0daa77e]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1/a) omitted (1.7.2014) by virtue of [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/b/ii)
+[^c-c616d69f0197c80675c03e2dc0daa77e]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1/a) omitted (1.7.2014) by virtue of [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/b/ii)
 
-[^key-d3fded97dd63867d9dad716625cace4d]: Textual amendment: [Reg. 4(1)(ab)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1/ab) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/b/iii)
+[^c-d3fded97dd63867d9dad716625cace4d]: Textual amendment: [Reg. 4(1)(ab)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1/ab) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/b/iii)
 
-[^key-5f0724b3ae669046ad0c3c30a3cb5693]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/c)
+[^c-5f0724b3ae669046ad0c3c30a3cb5693]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2008/355/regulation/4/1A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/3/c)
 
-[^key-86b457101daaa902a16ad97e18a366ef]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2008/355/regulation/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/4)
+[^c-86b457101daaa902a16ad97e18a366ef]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2008/355/regulation/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/4)
 
-[^key-ce6d75989bd71256d2e7bc1f836fc970]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/355/regulation/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-ce6d75989bd71256d2e7bc1f836fc970]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/355/regulation/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
 [^f00006]: Footnote: Paragraph 5 was amended by Article 554 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)
 
-[^key-42ae8f57345f98445bea2c53976c2f22]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/355/regulation/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-42ae8f57345f98445bea2c53976c2f22]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/355/regulation/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-a65e2a1cb2818841976e57cc4ca2871c]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/6/1): renumbered (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/5/a)
+[^c-a65e2a1cb2818841976e57cc4ca2871c]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/6/1): renumbered (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/5/a)
 
-[^key-f5dd59b4b0c73640073358e5b269add1]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/6/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/5/b)
+[^c-f5dd59b4b0c73640073358e5b269add1]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/6/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/5/b)
 
-[^key-c937fee512d991a698099d2e72b42c08]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/6/2) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/5/c)
+[^c-c937fee512d991a698099d2e72b42c08]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/6/2) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/5/c)
 
-[^key-b0b9bbd0ac2e22073246080ea6a46616]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/355/regulation/7) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-b0b9bbd0ac2e22073246080ea6a46616]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/355/regulation/7) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-2449a4d126570fede70e5719bee1a5bc]: Textual amendment: [Reg. 7(1)(g)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/1/g)[(h)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/1/h) added (13.7.2009) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/239)](https://www.legislation.gov.uk/nisr/2009/239), [regs. 1](https://www.legislation.gov.uk/nisr/2009/239/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/239/regulation/2)
+[^c-2449a4d126570fede70e5719bee1a5bc]: Textual amendment: [Reg. 7(1)(g)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/1/g)[(h)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/1/h) added (13.7.2009) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/239)](https://www.legislation.gov.uk/nisr/2009/239), [regs. 1](https://www.legislation.gov.uk/nisr/2009/239/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/239/regulation/2)
 
-[^key-7a2a8e70da563596c7f101286a7c269a]: Textual amendment: Words in [reg. 7(1)(g)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/1/g) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/6)
+[^c-7a2a8e70da563596c7f101286a7c269a]: Textual amendment: Words in [reg. 7(1)(g)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/1/g) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/6)
 
 [^f00007]: Footnote: [1979 c. 17](https://www.legislation.gov.uk/ukpga/1979/17)
 
@@ -819,45 +819,45 @@ As these Regulations are made by virtue of, or consequential upon, section 8 of 
 
 [^f00012]: Footnote: [S.I. 1998/1594 (S. 84)](https://www.legislation.gov.uk/uksi/1998/1594)
 
-[^key-c1ae29215f5e507fc2ccd3ff5c119333]: Textual amendment: [Reg. 7(2)(i)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/i) added (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2010/69/regulation/11)
+[^c-c1ae29215f5e507fc2ccd3ff5c119333]: Textual amendment: [Reg. 7(2)(i)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/i) added (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2010/69/regulation/11)
 
-[^key-67c4f6c5a2656e1c2bf1a0d763048ca3]: Textual amendment: [Reg. 7(2)(j)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/j) added (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2011/357/regulation/22)
+[^c-67c4f6c5a2656e1c2bf1a0d763048ca3]: Textual amendment: [Reg. 7(2)(j)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/j) added (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2011/357/regulation/22)
 
-[^key-ec106c041d181eed20050308e2b78710]: Textual amendment: [Reg. 7(2)(j)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/j): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
+[^c-ec106c041d181eed20050308e2b78710]: Textual amendment: [Reg. 7(2)(j)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/j): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
 
-[^key-11523188fdbf15eae7e240517f3e080e]: Textual amendment: [Reg. 7(2)(k)-(n)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/k) added (30.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations (Northern Ireland) 2017 (S.R. 2017/219)](https://www.legislation.gov.uk/nisr/2017/219), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/219/regulation/1/1), [9(1)](https://www.legislation.gov.uk/nisr/2017/219/regulation/9/1)
+[^c-11523188fdbf15eae7e240517f3e080e]: Textual amendment: [Reg. 7(2)(k)-(n)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/k) added (30.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations (Northern Ireland) 2017 (S.R. 2017/219)](https://www.legislation.gov.uk/nisr/2017/219), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/219/regulation/1/1), [9(1)](https://www.legislation.gov.uk/nisr/2017/219/regulation/9/1)
 
-[^key-986070527307a1b15d077998e9fac12e]: Textual amendment: [Reg. 7(2)(n)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/n): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
+[^c-986070527307a1b15d077998e9fac12e]: Textual amendment: [Reg. 7(2)(n)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/n): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
 
-[^key-8fc5e895cd44d68bc6fbe2753c834a1a]: Textual amendment: [Reg. 7(2)(o)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/o) inserted (29.5.2020) by [The Victims’ Payments Regulations 2020 (S.I. 2020/103)](https://www.legislation.gov.uk/uksi/2020/103), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3), [27(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/27/4)
+[^c-8fc5e895cd44d68bc6fbe2753c834a1a]: Textual amendment: [Reg. 7(2)(o)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/o) inserted (29.5.2020) by [The Victims’ Payments Regulations 2020 (S.I. 2020/103)](https://www.legislation.gov.uk/uksi/2020/103), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3), [27(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/27/4)
 
-[^key-f37be12134f11c9bf61939b1d2b88e18]: Textual amendment: [Reg. 7(2)(o)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/o): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
+[^c-f37be12134f11c9bf61939b1d2b88e18]: Textual amendment: [Reg. 7(2)(o)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/o): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
 
-[^key-3493b4c23db1c9771a4bf6dcc4a7c038]: Textual amendment: [Reg. 7(2)(p)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/p) inserted (5.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/345)](https://www.legislation.gov.uk/nisr/2021/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/345/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2021/345/regulation/10)
+[^c-3493b4c23db1c9771a4bf6dcc4a7c038]: Textual amendment: [Reg. 7(2)(p)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/p) inserted (5.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/345)](https://www.legislation.gov.uk/nisr/2021/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/345/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2021/345/regulation/10)
 
-[^key-043c5073df8139b3d98112e5aa3048f6]: Textual amendment: [Reg. 7(2)(p)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/p): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
+[^c-043c5073df8139b3d98112e5aa3048f6]: Textual amendment: [Reg. 7(2)(p)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/p): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
 
-[^key-eadd5246de246963280f8c4b4887a0c0]: Textual amendment: [Reg. 7(q)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/q)[(r)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/r) added (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2023/97/regulation/10/2)
+[^c-eadd5246de246963280f8c4b4887a0c0]: Textual amendment: [Reg. 7(q)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/q)[(r)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/r) added (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2023/97/regulation/10/2)
 
-[^key-8629f84ecf621397cfa8084abb440335]: Textual amendment: [Reg. 7(2)(r)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/r): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
+[^c-8629f84ecf621397cfa8084abb440335]: Textual amendment: [Reg. 7(2)(r)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/r): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
 
-[^key-e01fa61e55ce1659328bacf1f512d50d]: Textual amendment: [Reg. 7(2)(s)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/s) added (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/b)
+[^c-e01fa61e55ce1659328bacf1f512d50d]: Textual amendment: [Reg. 7(2)(s)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/s) added (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/b)
 
-[^key-0d68a198d0eed93a3d1b7ef252ea945d]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/3) added (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2023/97/regulation/10/3)
+[^c-0d68a198d0eed93a3d1b7ef252ea945d]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/3) added (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2023/97/regulation/10/3)
 
-[^key-d87ad435160dbc173c99b1e885f490b4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/355/regulation/8) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-d87ad435160dbc173c99b1e885f490b4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/355/regulation/8) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-07a9aa2c3444661a93c41098165869f5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/355/regulation/9) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-07a9aa2c3444661a93c41098165869f5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/355/regulation/9) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-830749445380a3600d851224d779a136]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/nisr/2008/355/regulation/9/2A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/7)
+[^c-830749445380a3600d851224d779a136]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/nisr/2008/355/regulation/9/2A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/7)
 
-[^key-f237fa00d613bb991f03de2a19ee3271]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/355/regulation/10) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-f237fa00d613bb991f03de2a19ee3271]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/355/regulation/10) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-e70091bd8eb6ac6cfe6e5436632fe474]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/3) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/a)
+[^c-e70091bd8eb6ac6cfe6e5436632fe474]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/3) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/a)
 
-[^key-7926b7035663dbbdb927be558999f633]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/b)
+[^c-7926b7035663dbbdb927be558999f633]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/b)
 
-[^key-7d5cb06f2d3c3f9c2e1f1cec5cbd110c]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/c)
+[^c-7d5cb06f2d3c3f9c2e1f1cec5cbd110c]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/c)
 
 [^f00013]: Footnote: [S.I. 1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251)
 
@@ -865,67 +865,67 @@ As these Regulations are made by virtue of, or consequential upon, section 8 of 
 
 [^f00015]: Footnote: [1976 c. 13](https://www.legislation.gov.uk/ukpga/1976/13); section 1 was amended by section 14(1) of the Administration of Justice Act [1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53), section 3(6) of, and paragraph 2 of Schedule 1 to, the International Transport Conventions Act [1983 (c. 14)](https://www.legislation.gov.uk/ukpga/1983/14) and section 1 of the Damages (Scotland) Act [1993 (c. 5)](https://www.legislation.gov.uk/ukpga/1993/5)
 
-[^key-b893c1dc888e64b5e25776b2487f27e4]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/8) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(d)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/d)
+[^c-b893c1dc888e64b5e25776b2487f27e4]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/nisr/2008/355/regulation/10/8) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(8)(d)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/8/d)
 
-[^key-539ad339746f4827991c6a2a413cb78a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/355/regulation/11) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-539ad339746f4827991c6a2a413cb78a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/355/regulation/11) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-34d955acea1fc6de83030710dbe38e48]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/355/regulation/12) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-34d955acea1fc6de83030710dbe38e48]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/355/regulation/12) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-387ff4ac34185b1d2f5c905a154051c0]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/12/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/9/a)
+[^c-387ff4ac34185b1d2f5c905a154051c0]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/12/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/9/a)
 
-[^key-bd93a97733d2c9c8151c210a51ea76eb]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/nisr/2008/355/regulation/12/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/9/b)
+[^c-bd93a97733d2c9c8151c210a51ea76eb]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/nisr/2008/355/regulation/12/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/9/b)
 
-[^key-e9a8d58c3c52652c7425b52ccfd37cd7]: Textual amendment: [Reg. 12(8)](https://www.legislation.gov.uk/nisr/2008/355/regulation/12/8) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/9/c)
+[^c-e9a8d58c3c52652c7425b52ccfd37cd7]: Textual amendment: [Reg. 12(8)](https://www.legislation.gov.uk/nisr/2008/355/regulation/12/8) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/9/c)
 
-[^key-339d1d5e78645e88edfb72859ae88a59]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/nisr/2008/355/regulation/12A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/10)
+[^c-339d1d5e78645e88edfb72859ae88a59]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/nisr/2008/355/regulation/12A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/10)
 
-[^key-174602bc0700cf597248e1b9eaf28e5b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/355/regulation/13) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-174602bc0700cf597248e1b9eaf28e5b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/355/regulation/13) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-fdedace53b30e11f55ff2e9e80940788]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2008/355/regulation/13) heading substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/a)
+[^c-fdedace53b30e11f55ff2e9e80940788]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2008/355/regulation/13) heading substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/a)
 
-[^key-766bc1a4fe68901fd792eb6a0429bb28]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
+[^c-766bc1a4fe68901fd792eb6a0429bb28]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
 
-[^key-61da44e251d3e59f198f6ca5234f1caa]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
+[^c-61da44e251d3e59f198f6ca5234f1caa]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
 
-[^key-d9371c1c65cf8ce10ec03700c9d0b442]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/c)
+[^c-d9371c1c65cf8ce10ec03700c9d0b442]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/c)
 
-[^key-d62ef0f5c83ab4fb8c65f26c2a14fe97]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/3/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
+[^c-d62ef0f5c83ab4fb8c65f26c2a14fe97]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/3/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
 
-[^key-d6cc34db8314b0bd5287a652ff0dd087]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/4/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
+[^c-d6cc34db8314b0bd5287a652ff0dd087]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/nisr/2008/355/regulation/13/4/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/11/b)
 
-[^key-56eb1aff937af1b132a576a22e0ecc34]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/355/regulation/14) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-56eb1aff937af1b132a576a22e0ecc34]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/355/regulation/14) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-1dc44fc0113f8b3c73562854f1390fce]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/nisr/2008/355/regulation/14/4) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/12/a)
+[^c-1dc44fc0113f8b3c73562854f1390fce]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/nisr/2008/355/regulation/14/4) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/12/a)
 
-[^key-31fc68b4f71c94f3530bfac501fbff83]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/nisr/2008/355/regulation/14/4) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/12/b)
+[^c-31fc68b4f71c94f3530bfac501fbff83]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/nisr/2008/355/regulation/14/4) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/12/b)
 
-[^key-e67fe692a1a97ed1ce7e7d24b8f09bac]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/355/regulation/15) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-e67fe692a1a97ed1ce7e7d24b8f09bac]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/355/regulation/15) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-241962f31ae0c047b8050e55163ff0a3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/355/regulation/16) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-241962f31ae0c047b8050e55163ff0a3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/355/regulation/16) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-eaf0dd30e35aa24ae6f819431eeec966]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2008/355/regulation/16) heading added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/a)
+[^c-eaf0dd30e35aa24ae6f819431eeec966]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2008/355/regulation/16) heading added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/a)
 
-[^key-1964f18feb7bedc5212e3a673030d338]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/16/1): renumbered (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/b)
+[^c-1964f18feb7bedc5212e3a673030d338]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/16/1): renumbered (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/b)
 
-[^key-47c65350da3fa336463318c29bbf100f]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/16/1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/c)
+[^c-47c65350da3fa336463318c29bbf100f]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/16/1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/c)
 
-[^key-53cd34313e9a5360c82ec5311eb1bb4c]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/16/2) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(d)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/d)
+[^c-53cd34313e9a5360c82ec5311eb1bb4c]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/nisr/2008/355/regulation/16/2) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(13)(d)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/13/d)
 
-[^key-a8b2677e9420abac0a4ef4be1308e35e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/355/regulation/17) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-a8b2677e9420abac0a4ef4be1308e35e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/355/regulation/17) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-670cceb55eadff5fadcd0e49a78cf77f]: Textual amendment: Words in [reg. 17(b)](https://www.legislation.gov.uk/nisr/2008/355/regulation/17/b) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(14)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/14)
+[^c-670cceb55eadff5fadcd0e49a78cf77f]: Textual amendment: Words in [reg. 17(b)](https://www.legislation.gov.uk/nisr/2008/355/regulation/17/b) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(14)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/14)
 
-[^key-4c0d03cec081807ff26d522588569724]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/355/regulation/18) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-4c0d03cec081807ff26d522588569724]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/355/regulation/18) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-738a4d6fe347f848cf8dc65938fcb379]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/355/regulation/19) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-738a4d6fe347f848cf8dc65938fcb379]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/355/regulation/19) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-e8775f29e3e67c758f9dd7515ff61a96]: Textual amendment: [Reg. 19(5A)-(5B)](https://www.legislation.gov.uk/nisr/2008/355/regulation/19/5A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(15)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/15/a)
+[^c-e8775f29e3e67c758f9dd7515ff61a96]: Textual amendment: [Reg. 19(5A)-(5B)](https://www.legislation.gov.uk/nisr/2008/355/regulation/19/5A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(15)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/15/a)
 
-[^key-1ad7952f6893a4533615a6345f05a9ce]: Textual amendment: [Reg. 19(8)-(9)](https://www.legislation.gov.uk/nisr/2008/355/regulation/19/8) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(15)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/15/b)
+[^c-1ad7952f6893a4533615a6345f05a9ce]: Textual amendment: [Reg. 19(8)-(9)](https://www.legislation.gov.uk/nisr/2008/355/regulation/19/8) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(15)(b)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/15/b)
 
-[^key-662d59fc116ef1340ba318d5ca1d7ba2]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2008/355/schedule/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-662d59fc116ef1340ba318d5ca1d7ba2]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2008/355/schedule/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-076a21c81d4b06add15bf25bdd9cb1e7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2008/355/schedule/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/a)
+[^c-076a21c81d4b06add15bf25bdd9cb1e7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2008/355/schedule/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(a)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/a)
 
 [^f00016]: Footnote: The definition of “appeal tribunal” was substituted by paragraph 119 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
 
@@ -933,44 +933,44 @@ As these Regulations are made by virtue of, or consequential upon, section 8 of 
 
 [^f00018]: Footnote: Article 13 was amended by paragraph 121 of Schedule 6 to the Social Security (Northern Ireland) Order 1998
 
-[^key-3a39c7e6217b8e141c55e83e8da2ae46]: Textual amendment: Words in [Schs. 1(d)(bb)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/bb), [(cc)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/cc), [(ii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/ii) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(b)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/b/i)
+[^c-3a39c7e6217b8e141c55e83e8da2ae46]: Textual amendment: Words in [Schs. 1(d)(bb)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/bb), [(cc)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/cc), [(ii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/ii) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(b)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/b/i)
 
-[^key-810f7018c5225fa2c010ecc6ac4acdf3]: Textual amendment: Words in [Schs. 1(d)(bb)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/bb), [(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(b)(ii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/b/ii)
+[^c-810f7018c5225fa2c010ecc6ac4acdf3]: Textual amendment: Words in [Schs. 1(d)(bb)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/bb), [(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/d/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(b)(ii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/b/ii)
 
 [^f00019]: Footnote: Article 14 was amended by paragraph 122 of Schedule 6 to the Social Security (Northern Ireland) Order 1998
 
 [^f00020]: Footnote: Article 15 was amended by paragraph 123 of Schedule 6 the Social Security (Northern Ireland) Order 1998
 
-[^key-82af33a6053d4b81cdfd6b04268ed484]: Textual amendment: Words in [Sch. 1(f)(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/f/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
+[^c-82af33a6053d4b81cdfd6b04268ed484]: Textual amendment: Words in [Sch. 1(f)(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/f/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
 
-[^key-e2221b10f3076e400c22a91167c5f25a]: Textual amendment: Words in [Sch. 1(g)(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/g/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
+[^c-e2221b10f3076e400c22a91167c5f25a]: Textual amendment: Words in [Sch. 1(g)(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/g/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
 
-[^key-61020fadafcfc63a2794e7dd75ccf362]: Textual amendment: Words in [Schs. 1(k)(bb)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/k/bb), [(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/k/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
+[^c-61020fadafcfc63a2794e7dd75ccf362]: Textual amendment: Words in [Schs. 1(k)(bb)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/k/bb), [(iii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/k/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
 
-[^key-99b4ef7abd90918c93b239147a0bfaa8]: Textual amendment: Words in [Sch. 1(l)(ii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/l/ii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
+[^c-99b4ef7abd90918c93b239147a0bfaa8]: Textual amendment: Words in [Sch. 1(l)(ii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/l/ii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/c)
 
-[^key-104dcc665dccca3ff3db26321c02a352]: Textual amendment: Words in [Sch. 1(m)(i)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/m/i) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(d)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/d)
+[^c-104dcc665dccca3ff3db26321c02a352]: Textual amendment: Words in [Sch. 1(m)(i)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/m/i) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(d)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/d)
 
-[^key-b3fdb1c4ed93856e619f2863ed01724e]: Textual amendment: Word in [Schs. 1(o)(aa)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/aa), [(i)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/i) omitted (1.7.2014) by virtue of [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(aa)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/aa)[(e)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/e/i)
+[^c-b3fdb1c4ed93856e619f2863ed01724e]: Textual amendment: Word in [Schs. 1(o)(aa)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/aa), [(i)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/i) omitted (1.7.2014) by virtue of [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(aa)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/aa)[(e)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/e/i)
 
-[^key-3411feaf380badd1414991e21261d1e7]: Textual amendment: [Schs. 1(o)(cc)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/cc), [(dd)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/dd), [(i)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/i) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(bb)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/bb)[(e)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/e/i)
+[^c-3411feaf380badd1414991e21261d1e7]: Textual amendment: [Schs. 1(o)(cc)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/cc), [(dd)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/dd), [(i)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/i) added (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(bb)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/bb)[(e)(i)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/e/i)
 
-[^key-0b6355f03af7be53ab90f731327b856b]: Textual amendment: [Sch. 1(o)(ii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/ii) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(e)(ii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/e/ii)
+[^c-0b6355f03af7be53ab90f731327b856b]: Textual amendment: [Sch. 1(o)(ii)](https://www.legislation.gov.uk/nisr/2008/355/schedule/1/o/ii) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/162)](https://www.legislation.gov.uk/nisr/2014/162), [regs. 1](https://www.legislation.gov.uk/nisr/2014/162/regulation/1), [2(16)(e)(ii)](https://www.legislation.gov.uk/nisr/2014/162/regulation/2/16/e/ii)
 
 [^f00021]: Footnote: Paragraph 5 was amended by Article 554 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)
 
-[^key-8f51c28ec1a7e06db0bd09a9ffc44a58]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-8f51c28ec1a7e06db0bd09a9ffc44a58]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-8ebb433b497df1fe995df4f49ad52ff0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-8ebb433b497df1fe995df4f49ad52ff0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
 [^f00023]: Footnote: The definition of “limited capability for work” was inserted by regulation 22(2)(f) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-b756e265a9ef1463098c1d9c59139c8f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-b756e265a9ef1463098c1d9c59139c8f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-daa100cc7816832a84a9f286c5f5bebe]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-daa100cc7816832a84a9f286c5f5bebe]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-2f9857f81f39edd5400011a9779cb229]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-2f9857f81f39edd5400011a9779cb229]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
 
-[^key-2cf577eb2dfab9d78d782fee037e55a6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)
+[^c-2cf577eb2dfab9d78d782fee037e55a6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2008/355/schedule/2/paragraph/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/355/regulation/1/1)

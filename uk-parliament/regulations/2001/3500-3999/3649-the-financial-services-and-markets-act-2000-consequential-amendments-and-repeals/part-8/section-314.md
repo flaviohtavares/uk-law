@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 314. Defined expressions: “authorised insurer”[^key-28793f66ac8441d6bf015ba771fd0ae6]
+## 314. Defined expressions: “authorised insurer”[^c-28793f66ac8441d6bf015ba771fd0ae6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 162 of the Road Traffic Act 1988 (defined expressions in Part 6), for
 
 ## Annotations
 
-[^key-28793f66ac8441d6bf015ba771fd0ae6]: Commencement: Art. 314 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-28793f66ac8441d6bf015ba771fd0ae6]: Commencement: Art. 314 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.11. Claim stayed if it is not defended or admitted[^key-a0c026b05ceb6edf957d3e1ef6fc9787]
+## 15.11. Claim stayed if it is not defended or admitted[^c-a0c026b05ceb6edf957d3e1ef6fc9787]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the claim shall be stayed.
 
 ## Annotations
 
-[^key-a0c026b05ceb6edf957d3e1ef6fc9787]: Textual amendment: Pt. 15 substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/783/schedule/1)
+[^c-a0c026b05ceb6edf957d3e1ef6fc9787]: Textual amendment: Pt. 15 substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/783/schedule/1)

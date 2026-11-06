@@ -51,7 +51,7 @@ regulations 3 to 10,13 to 17, 18(b), (d) and (e), 19 to 21, 22(a) to (d) and 23(
 
 The Secretary of State for Social Security in exercise of the powers conferred by sections 20(3)(a) and (d), (11), (12)(b), (c), (e) and (k), 22(1), (8), (9)(a) and (b) and 84(1) of the Social Security Act 1986[^f00001] and section 166(1) to (3) of the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-013542e7ac39b807070c2d9eba2050a8]
+## 1. Citation, commencement and interpretation[^c-013542e7ac39b807070c2d9eba2050a8]
 
 (1) These Regulations may be cited as the Income Support (General) Amendment Regulations 1990 and shall, subject to paragraphs (2) and (3), come into force as follows—
 
@@ -64,7 +64,7 @@ The Secretary of State for Social Security in exercise of the powers conferred b
 
 (4) In these Regulations “the General Regulations” means the Income Support (General) Regulations 1987[^f00005].
 
-## 2. Amendment of regulation 2 of the General Regulations[^key-7ccf5b1ae13dd4d61af295c71c87b7e2]
+## 2. Amendment of regulation 2 of the General Regulations[^c-7ccf5b1ae13dd4d61af295c71c87b7e2]
 
 In regulation 2 of the General Regulations (interpretation), in paragraph (1) after the definition of “training allowance” there shall be inserted the following definition—
 
@@ -72,7 +72,7 @@ In regulation 2 of the General Regulations (interpretation), in paragraph (1) af
 
 .
 
-## 3. Amendment of regulation 4 of the General Regulations[^key-628b5bfa2da147012f7131ea38e30ba7]
+## 3. Amendment of regulation 4 of the General Regulations[^c-628b5bfa2da147012f7131ea38e30ba7]
 
 In regulation 4 of the General Regulations (temporary absence from Great Britain)—
 
@@ -99,7 +99,7 @@ In regulation 4 of the General Regulations (temporary absence from Great Britain
 
   .
 
-## 4. Amendment of regulation 5 of the General Regulations[^key-e15a15dc996efc5d9de1cf5f0f8b54a4]
+## 4. Amendment of regulation 5 of the General Regulations[^c-e15a15dc996efc5d9de1cf5f0f8b54a4]
 
 In regulation 5 of the General Regulations (persons treated as engaged in remunerative work), after paragraph (6) there shall be added the following paragraph—
 
@@ -107,7 +107,7 @@ In regulation 5 of the General Regulations (persons treated as engaged in remune
 
 .
 
-## 5. Substitution of regulation 12 of the General Regulations[^key-1598add7db5b52f3492e23c797dfb22d]
+## 5. Substitution of regulation 12 of the General Regulations[^c-1598add7db5b52f3492e23c797dfb22d]
 
 For regulation 12 of the General Regulations (relevant education) there shall be substituted the following regulation—
 
@@ -125,11 +125,11 @@ For regulation 12 of the General Regulations (relevant education) there shall be
 
 .
 
-## 6. Amendment of regulation 14 of the General Regulations[^key-164028deea12cc7af51112807fcd4f45]
+## 6. Amendment of regulation 14 of the General Regulations[^c-164028deea12cc7af51112807fcd4f45]
 
 In regulation 14(2) of the General Regulations (persons of a prescribed description) there shall be inserted after the words “shall not apply to” the words “a person who is receiving advanced education within the meaning of regulation 12(2) (relevant education) or to”.
 
-## 7. Amendment of regulation 16 of the General Regulations[^key-b5117ae0e8bd9d3c246ff5006d805ba2]
+## 7. Amendment of regulation 16 of the General Regulations[^c-b5117ae0e8bd9d3c246ff5006d805ba2]
 
 In regulation 16 of the General Regulations (circumstances in which a person is to be treated as being or not being a member of the household), in paragraph (5)—
 
@@ -142,49 +142,49 @@ In regulation 16 of the General Regulations (circumstances in which a person is 
 
   .
 
-## 8. Amendment of regulation 21 of the General Regulations[^key-1b93854542f1cb96878e57a93561d7c9]
+## 8. Amendment of regulation 21 of the General Regulations[^c-1b93854542f1cb96878e57a93561d7c9]
 
 In regulation 21(3) of the General Regulations (special cases), in the definition of “person from abroad”, after the words “Isle of Man” there shall be inserted the words “unless, in the case of a national of a state which is a signatory of that European Convention, he has made an application for the conditions of his leave to remain in the United Kingdom to be varied, and that application has not been determined or an appeal from that application is pending under Part II of the 1971 Act (appeals);”.
 
-## 9. Amendment of regulation 22 of the General Regulations[^key-8036859ccae41b9c88126094180ced24]
+## 9. Amendment of regulation 22 of the General Regulations[^c-8036859ccae41b9c88126094180ced24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 29 of the General Regulations[^key-d6ccb37a5657359b69569674e3900c0f]
+## 10. Amendment of regulation 29 of the General Regulations[^c-d6ccb37a5657359b69569674e3900c0f]
 
 In regulation 29 of the General Regulations (calculation of earnings derived from employed earner’s employment and income other than earnings), in paragraph (2)(b)—
 
 - (a) after the words “the amount of that income” there shall be inserted the words “less any amount paid by way of tax on that income which is disregarded under paragraph 1 of Schedule 9 (income other than earnings to be disregarded)”;
 - (b) for the words “or, as the case may be, 9 (earnings and other income to be disregarded)” there shall be substituted the words “(earnings to be disregarded) or, as the case maybe, any paragraph of Schedule 9 other than paragraph 1 of that Schedule,”.
 
-## 11. Amendment of regulation 42 of the General Regulations[^key-b3f32696698a3a3942bde10e73361ceb]
+## 11. Amendment of regulation 42 of the General Regulations[^c-b3f32696698a3a3942bde10e73361ceb]
 
 In regulation 42(4)(a)(ii) of the General Regulations (notional income), after the words “housing benefit is payable,” there shall be inserted the words “community charge, water charges in England and Wales,”.
 
-## 12. Amendment of regulation 51 of the General Regulations[^key-09aaf0cbd6ccad54d9f3092f97ba2e32]
+## 12. Amendment of regulation 51 of the General Regulations[^c-09aaf0cbd6ccad54d9f3092f97ba2e32]
 
 In regulation 51 of the General Regulations (notional capital), in paragraph (3)(a)(ii) after the words “housing benefit is payable,” there shall be inserted the words “community charge, water charges in England and Wales,”.
 
-## 13. Amendment of regulation 61 of the General Regulations[^key-8d1f800088f2c26e42ef5de4ecd16b73]
+## 13. Amendment of regulation 61 of the General Regulations[^c-8d1f800088f2c26e42ef5de4ecd16b73]
 
 In regulation 61 of the General Regulations (interpretation), in the definition of “a course of advanced education”, in paragraph (b), after the words “Technician Education Council or” there shall be inserted the words “a national certificate of”.
 
-## 14. Amendment of regulation 65 of the General Regulations[^key-6b67a8f6760afb3a59c97a7075dcf131]
+## 14. Amendment of regulation 65 of the General Regulations[^c-6b67a8f6760afb3a59c97a7075dcf131]
 
 In regulation 65 of the General Regulations (disregard of certain students' income other than covenant and grant income)—
 
 - (a) for the words from “shall only” to the words “extent that,” there shall be substituted the words “to which sub-paragraph (1) of that paragraph applies shall be disregarded only to the extent that”;
 - (b) for the amount “£5” there shall be substituted the amount “£10”.
 
-## 15. Amendment of Schedule 1 to the General Regulations[^key-903dfa0e4002c23f0a77eee1e80f0916]
+## 15. Amendment of Schedule 1 to the General Regulations[^c-903dfa0e4002c23f0a77eee1e80f0916]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of Schedule 1A to the General Regulations[^key-f450733e2335744820751831e0d57c7f]
+## 16. Amendment of Schedule 1A to the General Regulations[^c-f450733e2335744820751831e0d57c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of Schedule 2 to the General Regulations[^key-88c0f2c90cb6ed9717ae4d7516871e77]
+## 17. Amendment of Schedule 2 to the General Regulations[^c-88c0f2c90cb6ed9717ae4d7516871e77]
 
 In Schedule 2 to the General Regulations (applicable amounts) in Part III, after paragraph 14A[^f00009], there shall be inserted the following paragraph—
 
@@ -194,11 +194,11 @@ In Schedule 2 to the General Regulations (applicable amounts) in Part III, after
 
 .
 
-## 18. Amendment of Schedule 3 to the General Regulations[^key-4731f42b4b543ade077c0b23bec3c1bf]
+## 18. Amendment of Schedule 3 to the General Regulations[^c-4731f42b4b543ade077c0b23bec3c1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendment of Schedule 3A to the General Regulations[^key-2573a3854ce2171766c8c60d727d1703]
+## 19. Amendment of Schedule 3A to the General Regulations[^c-2573a3854ce2171766c8c60d727d1703]
 
 In Schedule 3A to the General Regulations (protected sum)[^f00014], in paragraph 5—
 
@@ -209,7 +209,7 @@ In Schedule 3A to the General Regulations (protected sum)[^f00014], in paragraph
 
   .
 
-## 20. Amendment of Schedule 3B to the General Regulations[^key-caa72179c61eedb4c66b3ef4968aeecf]
+## 20. Amendment of Schedule 3B to the General Regulations[^c-caa72179c61eedb4c66b3ef4968aeecf]
 
 In Schedule 3B to the General Regulations (protected sum)[^f00014]—
 
@@ -246,12 +246,12 @@ In Schedule 3B to the General Regulations (protected sum)[^f00014]—
 
     .
 
-## 21. Amendment of Schedule 7 to the General Regulations[^key-79ccec9e3be734fc89378d1c92fe8208]
+## 21. Amendment of Schedule 7 to the General Regulations[^c-79ccec9e3be734fc89378d1c92fe8208]
 
 In Schedule 7 to the General Regulations (applicable amounts in special cases)[^f00015]
 
-- (a)[^key-246c68a8bc6091ba105dc5aad6c6580f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-5909652acb05862301c43df3dbe05b79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-246c68a8bc6091ba105dc5aad6c6580f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5909652acb05862301c43df3dbe05b79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph 10A, in column (2), for the reference “or (f)” there shall be substituted the reference “(f) or (g)”;
 - (d) in paragraph 10B(3), in column (2), for the reference “17(1)(e) or 18(f)” there shall be substituted the reference “17(1)(e), (f) or (g) or 18(1)(f), (g) or (h)”;
 - (e) in paragraph 10C, in column (2), for the words from “personal expenses plus” to the end there shall be substituted the following words—
@@ -289,11 +289,11 @@ In Schedule 7 to the General Regulations (applicable amounts in special cases)[^
   - (i) in sub-paragraph (1), in column (2), for the reference “17(1)(f) or 18(1)(g)” there shall be substituted the reference “17(1)(f) or (g) or 18(1)(g)or(h)”;
   - (ii) in sub-paragraph (2), in column (2), for the reference “£8.70” there shall be substituted the words “Any amount applicable under regulation 17(1)(f) or (g), plus £9.40.”.
 
-## 22. Amendment of Schedule 9 to the General Regulations[^key-dd082b908a8dcd1251fcc7958475319a][^key-977672a4ce569223a3103c26cf0032dc]
+## 22. Amendment of Schedule 9 to the General Regulations[^c-dd082b908a8dcd1251fcc7958475319a][^c-977672a4ce569223a3103c26cf0032dc]
 
 In Schedule 9 to the General Regulations (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-dd082b908a8dcd1251fcc7958475319a] for paragraph 15 there shall be substituted the following paragraph—
+- (a)[^c-dd082b908a8dcd1251fcc7958475319a] for paragraph 15 there shall be substituted the following paragraph—
 
   > **15.** (1) Except where sub-paragraph (2) applies and subject to sub-paragraph (3) and paragraphs 36, 37 and 39, £10 of any charitable payment or of any voluntary payment made or due to be made at regular intervals.
   >
@@ -309,8 +309,8 @@ In Schedule 9 to the General Regulations (sums to be disregarded in the calculat
   > (5) For the purposes of sub-paragraph (2) the expression “ordinary clothing or footwear” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities.
 
   .
-- (b)[^key-dd082b908a8dcd1251fcc7958475319a] in paragraph 16, for the amount “£5” there shall be substituted the amount “£10”;
-- (c)[^key-dd082b908a8dcd1251fcc7958475319a] for paragraph 20 there shall be substituted the following paragraph—
+- (b)[^c-dd082b908a8dcd1251fcc7958475319a] in paragraph 16, for the amount “£5” there shall be substituted the amount “£10”;
+- (c)[^c-dd082b908a8dcd1251fcc7958475319a] for paragraph 20 there shall be substituted the following paragraph—
 
   > **20.** Where the claimant occupies a dwelling as his home and he provides in that dwelling board and lodging accommodation—
   >
@@ -318,10 +318,10 @@ In Schedule 9 to the General Regulations (sums to be disregarded in the calculat
   > - (b) where any such payment exceeds £20.00, 50% of the excess.
 
   ;
-- (d)[^key-dd082b908a8dcd1251fcc7958475319a] in paragraph 36—
+- (d)[^c-dd082b908a8dcd1251fcc7958475319a] in paragraph 36—
   - (i) for the reference “paragraphs 15” there shall be substituted the reference “paragraphs 15(1)”; and
   - (ii) for the amount “£5” there shall be substituted the amount “£10”;
-- (e)[^key-977672a4ce569223a3103c26cf0032dc] after paragraph 44 there shall be added the following paragraphs—
+- (e)[^c-977672a4ce569223a3103c26cf0032dc] after paragraph 44 there shall be added the following paragraphs—
 
   > **45.** Any community charge benefit.
   >
@@ -339,16 +339,16 @@ In Schedule 9 to the General Regulations (sums to be disregarded in the calculat
 
   .
 
-## 23. Amendment of Schedule 10 to the General Regulations[^key-bd497c7b29cfa74b809d7ba470c6080f][^key-d4ff8fd764fcd299c2a24289585b00c4]
+## 23. Amendment of Schedule 10 to the General Regulations[^c-bd497c7b29cfa74b809d7ba470c6080f][^c-d4ff8fd764fcd299c2a24289585b00c4]
 
 In Schedule 10 to the General Regulations (capital to be disregarded)—
 
-- (a)[^key-bd497c7b29cfa74b809d7ba470c6080f] after paragraph 35 there shall be added the following paragraph—
+- (a)[^c-bd497c7b29cfa74b809d7ba470c6080f] after paragraph 35 there shall be added the following paragraph—
 
   > **36.** Any payment in consequence of a reduction of a personal community charge pursuant to regulations under section 13A of the Local Government Finance Act 1988 or section 9A of the Abolition of Domestic Rates Etc (Scotland) Act 1987 (reduction of liability for personal community charge) but only for a period of 52 weeks from the date of the receipt of the payment.
 
   ;
-- (b)[^key-d4ff8fd764fcd299c2a24289585b00c4] after paragraph 36 there shall be added the following paragraph—
+- (b)[^c-d4ff8fd764fcd299c2a24289585b00c4] after paragraph 36 there shall be added the following paragraph—
 
   > **37.** Any grant made to the claimant in accordance with a scheme made under section 129 of the Housing Act 1988[^f00025] or section 66 of the Housing (Scotland) Act 1988[^f00026] (schemes for payments to assist local housing authority and local authority tenants to obtain other accommodation) which is to be used—
   >
@@ -395,69 +395,69 @@ These Regulations further amend the Income Support (General) Regulations 1987 in
 
 [^f00003]: Footnote: See the Social Security Act 1986, section 61(1)(b) and (10); the Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24), Schedule 8, added a definition of “regulations” to section 61(10) of the Act of 1986.
 
-[^key-013542e7ac39b807070c2d9eba2050a8]: Commencement: Reg. 1 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+[^c-013542e7ac39b807070c2d9eba2050a8]: Commencement: Reg. 1 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
 
 [^f00004]: Footnote: S.I. [1990/320](https://www.legislation.gov.uk/uksi/1990/320)
 
 [^f00005]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)
 
-[^key-7ccf5b1ae13dd4d61af295c71c87b7e2]: Commencement: Reg. 2 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+[^c-7ccf5b1ae13dd4d61af295c71c87b7e2]: Commencement: Reg. 2 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
 
 [^f00006]: Footnote: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15)
 
-[^key-628b5bfa2da147012f7131ea38e30ba7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/547/regulation/3) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-628b5bfa2da147012f7131ea38e30ba7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/547/regulation/3) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-e15a15dc996efc5d9de1cf5f0f8b54a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/547/regulation/4) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-e15a15dc996efc5d9de1cf5f0f8b54a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/547/regulation/4) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-1598add7db5b52f3492e23c797dfb22d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1990/547/regulation/5) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-1598add7db5b52f3492e23c797dfb22d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1990/547/regulation/5) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
 [^f00007]: Footnote: [1975 c. 61](https://www.legislation.gov.uk/ukpga/1975/61)
 
-[^key-164028deea12cc7af51112807fcd4f45]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1990/547/regulation/6) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-164028deea12cc7af51112807fcd4f45]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1990/547/regulation/6) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-b5117ae0e8bd9d3c246ff5006d805ba2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1990/547/regulation/7) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-b5117ae0e8bd9d3c246ff5006d805ba2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1990/547/regulation/7) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-1b93854542f1cb96878e57a93561d7c9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1990/547/regulation/8) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-1b93854542f1cb96878e57a93561d7c9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1990/547/regulation/8) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-8036859ccae41b9c88126094180ced24]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1990/547/regulation/9) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-8036859ccae41b9c88126094180ced24]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1990/547/regulation/9) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-d6ccb37a5657359b69569674e3900c0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1990/547/regulation/10) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-d6ccb37a5657359b69569674e3900c0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1990/547/regulation/10) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-b3f32696698a3a3942bde10e73361ceb]: Commencement: Reg. 11 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+[^c-b3f32696698a3a3942bde10e73361ceb]: Commencement: Reg. 11 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
 
-[^key-09aaf0cbd6ccad54d9f3092f97ba2e32]: Commencement: Reg. 12 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+[^c-09aaf0cbd6ccad54d9f3092f97ba2e32]: Commencement: Reg. 12 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
 
-[^key-8d1f800088f2c26e42ef5de4ecd16b73]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1990/547/regulation/13) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-8d1f800088f2c26e42ef5de4ecd16b73]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1990/547/regulation/13) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-6b67a8f6760afb3a59c97a7075dcf131]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1990/547/regulation/14) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-6b67a8f6760afb3a59c97a7075dcf131]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1990/547/regulation/14) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-903dfa0e4002c23f0a77eee1e80f0916]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1990/547/regulation/15) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-903dfa0e4002c23f0a77eee1e80f0916]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1990/547/regulation/15) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-f450733e2335744820751831e0d57c7f]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1990/547/regulation/16) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-f450733e2335744820751831e0d57c7f]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1990/547/regulation/16) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-88c0f2c90cb6ed9717ae4d7516871e77]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1990/547/regulation/17) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)
+[^c-88c0f2c90cb6ed9717ae4d7516871e77]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1990/547/regulation/17) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)
 
 [^f00009]: Footnote: See S.I. [1988/1445](https://www.legislation.gov.uk/uksi/1988/1445)
 
-[^key-4731f42b4b543ade077c0b23bec3c1bf]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1990/547/regulation/18) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://editorial.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
+[^c-4731f42b4b543ade077c0b23bec3c1bf]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1990/547/regulation/18) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://editorial.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
 
-[^key-2573a3854ce2171766c8c60d727d1703]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1990/547/regulation/19) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-2573a3854ce2171766c8c60d727d1703]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1990/547/regulation/19) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
 [^f00014]: Footnote: See S.I. [1988/1445](https://www.legislation.gov.uk/uksi/1988/1445), [1989/534](https://www.legislation.gov.uk/uksi/1989/534)
 
-[^key-caa72179c61eedb4c66b3ef4968aeecf]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1990/547/regulation/20) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-caa72179c61eedb4c66b3ef4968aeecf]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1990/547/regulation/20) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-79ccec9e3be734fc89378d1c92fe8208]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1990/547/regulation/21) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-79ccec9e3be734fc89378d1c92fe8208]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1990/547/regulation/21) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
 [^f00015]: Footnote: See S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [2022](https://www.legislation.gov.uk/uksi/1988/2022), [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678)
 
-[^key-246c68a8bc6091ba105dc5aad6c6580f]: Textual amendment: [Reg. 21(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/21/a) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-246c68a8bc6091ba105dc5aad6c6580f]: Textual amendment: [Reg. 21(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/21/a) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
-[^key-5909652acb05862301c43df3dbe05b79]: Textual amendment: [Reg. 21(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/21/b) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-5909652acb05862301c43df3dbe05b79]: Textual amendment: [Reg. 21(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/21/b) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
-[^key-dd082b908a8dcd1251fcc7958475319a]: Commencement: [Regs. 22(a)-(d)](https://www.legislation.gov.uk/uksi/1990/547/regulation/22/a) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-dd082b908a8dcd1251fcc7958475319a]: Commencement: [Regs. 22(a)-(d)](https://www.legislation.gov.uk/uksi/1990/547/regulation/22/a) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
-[^key-977672a4ce569223a3103c26cf0032dc]: Commencement: Reg. 22(e) in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+[^c-977672a4ce569223a3103c26cf0032dc]: Commencement: Reg. 22(e) in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
 
 [^f00018]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 13A was inserted by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 5.
 
@@ -473,9 +473,9 @@ These Regulations further amend the Income Support (General) Regulations 1987 in
 
 [^f00024]: Footnote: Army code no. 60589 published by HMSO.
 
-[^key-bd497c7b29cfa74b809d7ba470c6080f]: Commencement: Reg. 23(a) in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+[^c-bd497c7b29cfa74b809d7ba470c6080f]: Commencement: Reg. 23(a) in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
 
-[^key-d4ff8fd764fcd299c2a24289585b00c4]: Commencement: [Reg. 23(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/23/b) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+[^c-d4ff8fd764fcd299c2a24289585b00c4]: Commencement: [Reg. 23(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/23/b) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
 
 [^f00025]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50)
 

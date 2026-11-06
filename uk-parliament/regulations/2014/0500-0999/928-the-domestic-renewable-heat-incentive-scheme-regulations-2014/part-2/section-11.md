@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Requirement that plant is not an accredited RHI installation[^key-6360974018cf0b5e12f88fb8a3b065d4]
+## 11. Requirement that plant is not an accredited RHI installation[^c-6360974018cf0b5e12f88fb8a3b065d4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The requirements referred to in regulation 3(b) are that the plant is not, and h
 
 ## Annotations
 
-[^key-6360974018cf0b5e12f88fb8a3b065d4]: Commencement: Reg. 11 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-6360974018cf0b5e12f88fb8a3b065d4]: Commencement: Reg. 11 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

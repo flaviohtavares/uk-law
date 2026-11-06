@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c19885741][^c19885781][^key-4363443519e8c39bd9862ef1c411107d] A company may—
+(1)[^c19885741][^c19885781][^c-4363443519e8c39bd9862ef1c411107d] A company may—
 
 - (a) in such cases as may be specified by regulations made by the Secretary of State, and
 - (b) provided any conditions so specified are complied with,
@@ -31,7 +31,7 @@ provide a copy of the strategic report together with the supplementary material 
 
 (3)[^c19885741] The Secretary of State may make provision by regulations as to the manner in which it is to be ascertained, whether before or after a person becomes entitled to be sent a copy of those accounts and reports, whether he wishes to receive them.
 
-(4)[^key-959624d5530cd5c8ab87fdc8f6626755] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-959624d5530cd5c8ab87fdc8f6626755] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This section applies to copies of accounts and reports required to be sent out by virtue of section 146 to a person nominated to enjoy information rights as it applies to copies of accounts and reports required to be sent out in accordance with section 423 to a member of the company.
 
@@ -49,8 +49,8 @@ provide a copy of the strategic report together with the supplementary material 
 
 [^c19885781]: Modification: S. 426(1)(2) applied (with modifications) (6.4.2008) by [The Companies (Revision of Defective Accounts and Reports) Regulations 2008 (S.I. 2008/373)](https://www.legislation.gov.uk/uksi/2008/373), [regs. 17(4)](https://www.legislation.gov.uk/uksi/2008/373/regulation/17/4), [19(3)](https://www.legislation.gov.uk/uksi/2008/373/regulation/19/3)
 
-[^key-4363443519e8c39bd9862ef1c411107d]: Textual amendment: Words in s. 426(1) substituted (6.8.2013 for specified purposes, with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3)[10(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/10/3)
+[^c-4363443519e8c39bd9862ef1c411107d]: Textual amendment: Words in s. 426(1) substituted (6.8.2013 for specified purposes, with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3)[10(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/10/3)
 
 [^c22568171]: Textual amendment: Words in s. 426(1) substituted (6.8.2013 for specified purposes and otherwise with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2/3), [10(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/10/3)
 
-[^key-959624d5530cd5c8ab87fdc8f6626755]: Textual amendment: S. 426(4) omitted (6.8.2013 for specified purposes, with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3)[10(4)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/10/4)
+[^c-959624d5530cd5c8ab87fdc8f6626755]: Textual amendment: S. 426(4) omitted (6.8.2013 for specified purposes, with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3)[10(4)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/10/4)

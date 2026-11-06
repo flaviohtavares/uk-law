@@ -35,15 +35,13 @@ on the exercise of rights and obligations akin to membership ad interim by the E
 
 (2007/668/EC) (revoked)
 
-[^key-56e477c5d2ec661346e6ec737bdc0b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56e477c5d2ec661346e6ec737bdc0b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Sole Article.**[^key-56e477c5d2ec661346e6ec737bdc0b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-56e477c5d2ec661346e6ec737bdc0b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56e477c5d2ec661346e6ec737bdc0b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56e477c5d2ec661346e6ec737bdc0b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Declaration of competence by the European Community in matters covered by the Convention establishing a Customs Cooperation Council[^key-56e477c5d2ec661346e6ec737bdc0b22]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX — Declaration of competence by the European Community in matters covered by the Convention establishing a Customs Cooperation Council[^c-56e477c5d2ec661346e6ec737bdc0b22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -51,7 +49,9 @@ on the exercise of rights and obligations akin to membership ad interim by the E
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56e477c5d2ec661346e6ec737bdc0b22]Annex
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-56e477c5d2ec661346e6ec737bdc0b22]Annex
 
 EC LEGISLATION
 
@@ -59,4 +59,4 @@ EC LEGISLATION
 
 ## Annotations
 
-[^key-56e477c5d2ec661346e6ec737bdc0b22]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56e477c5d2ec661346e6ec737bdc0b22]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -25,7 +25,7 @@ summary: ''
 - (a) in the opinion of the Department a member meets the condition in regulation 52(2)(a), and
 - (b) at the time the member is awarded a pension under that regulation the Department gives the member notice in writing that the member's case may be considered once within a period of three years commencing with the date of that award to determine whether the member meets the condition in regulation 52(3)(a) at the date of such a consideration.
 
-(2)[^key-71d75eb9c86c39524376bf4bf30cab7f] A member to whom a notice under paragraph (1)(b) has been given may apply to the Department for a review of whether the member subsequently meets the condition in regulation 52(3)(a) if—
+(2)[^c-71d75eb9c86c39524376bf4bf30cab7f] A member to whom a notice under paragraph (1)(b) has been given may apply to the Department for a review of whether the member subsequently meets the condition in regulation 52(3)(a) if—
 
 - (a) the member makes the application in writing—
   - (i) within three years of the date of issue of the notice, or
@@ -41,10 +41,10 @@ summary: ''
 - (a) ceases to be entitled to a tier 1 ill-health pension; and
 - (b) becomes entitled to a tier 2 ill-health pension under regulation 52 , which shall be calculated as if paragraph (8) of that regulation included the words “from the date of the Department's determination under regulation 53” after “continued in service”.
 
-(4)[^key-39322a00dcda4adfbc7aa8716403760f] In the case of a 2008 Section Optant, this regulation is subject to regulations 136P and 136Q.
+(4)[^c-39322a00dcda4adfbc7aa8716403760f] In the case of a 2008 Section Optant, this regulation is subject to regulations 136P and 136Q.
 
 ## Annotations
 
-[^key-71d75eb9c86c39524376bf4bf30cab7f]: Textual amendment: [Reg. 53(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/53/2) substituted (with effect in accordance with reg. 1(4)(e) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [33(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/33/2)
+[^c-71d75eb9c86c39524376bf4bf30cab7f]: Textual amendment: [Reg. 53(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/53/2) substituted (with effect in accordance with reg. 1(4)(e) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [33(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/33/2)
 
-[^key-39322a00dcda4adfbc7aa8716403760f]: Textual amendment: [Reg. 53(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/53/4) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [33(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/33/3)
+[^c-39322a00dcda4adfbc7aa8716403760f]: Textual amendment: [Reg. 53(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/53/4) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [33(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/33/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to section 38 of the Jobseekers Act 1995[^c24154821], section 27 of the Welfare Reform Act 2007[^key-20384c11b770b7beb052aa7473c563c7] and to the following provisions of this section, so far as it relates to payments out of money provided by Parliament, any sum recovered by the Secretary of State under or by virtue of this Act shall be paid into the Consolidated Fund.
+(1) Subject to section 38 of the Jobseekers Act 1995[^c24154821], section 27 of the Welfare Reform Act 2007[^c-20384c11b770b7beb052aa7473c563c7] and to the following provisions of this section, so far as it relates to payments out of money provided by Parliament, any sum recovered by the Secretary of State under or by virtue of this Act shall be paid into the Consolidated Fund.
 
 (2) So far as any such sum relates to a payment out of the National Insurance Fund, it shall be paid into that Fund.
 
@@ -45,13 +45,13 @@ summary: ''
 
 (7)[^c24154901] Any sums received by the Secretary of State under regulations made by virtue of section 15A(2)(b) above shall be paid into the Consolidated Fund.
 
-(8)[^c24154921] All penalties recovered by the Secretary of State under section 115A or 115B[^key-d4bb143685b87020d8b2613a25c7f7d7] above shall be paid into the Consolidated Fund.
+(8)[^c24154921] All penalties recovered by the Secretary of State under section 115A or 115B[^c-d4bb143685b87020d8b2613a25c7f7d7] above shall be paid into the Consolidated Fund.
 
 ## Annotations
 
 [^c24154821]: Textual amendment: Words in s. 164(1) inserted (7.10.96) by [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(2)](https://www.legislation.gov.uk/ukpga/1995/18/section/41/2), [Sch. 2 para. 65](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/65); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/b)
 
-[^key-20384c11b770b7beb052aa7473c563c7]: Textual amendment: Words in [s. 164(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/164/1) inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 10(25)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/10/25); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f)
+[^c-20384c11b770b7beb052aa7473c563c7]: Textual amendment: Words in [s. 164(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/164/1) inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 10(25)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/10/25); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f)
 
 [^c24154841]: Textual amendment: S. 164(5)(a) repealed (5.7.1999 for specified purposes, 29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 101](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/101); [S.I. 1999/1958](https://www.legislation.gov.uk/uksi/1999/1958), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1999/1958/article/2/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1958/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/1958/article/3)); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1)
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c24154921]: Textual amendment: S. 164(8) inserted (1.7.1997) by [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1997/47/section/25/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/8); [S.I. 1997/1577](https://www.legislation.gov.uk/uksi/1997/1577), [art. 2](https://www.legislation.gov.uk/uksi/1997/1577/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1577/schedule)
 
-[^key-d4bb143685b87020d8b2613a25c7f7d7]: Textual amendment: Words in s. 164(8) inserted (30.4.2002) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2001/11/section/15/2), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1); [S.I. 2002/1222](https://www.legislation.gov.uk/uksi/2002/1222), [art. 2(f)](https://www.legislation.gov.uk/uksi/2002/1222/article/2/f)
+[^c-d4bb143685b87020d8b2613a25c7f7d7]: Textual amendment: Words in s. 164(8) inserted (30.4.2002) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2001/11/section/15/2), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1); [S.I. 2002/1222](https://www.legislation.gov.uk/uksi/2002/1222), [art. 2(f)](https://www.legislation.gov.uk/uksi/2002/1222/article/2/f)

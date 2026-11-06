@@ -32,7 +32,7 @@ summary: ''
 
 Insolvency Practitioners
 
-The Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition) Order (Northern Ireland) 2021 (revoked)[^key-703b19ab0b42cad3c6f943f168c4260d]
+The Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition) Order (Northern Ireland) 2021 (revoked)[^c-703b19ab0b42cad3c6f943f168c4260d]
 
 Made
 
@@ -42,23 +42,23 @@ Coming into operation
 
 6th January 2022
 
-[^key-703b19ab0b42cad3c6f943f168c4260d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-703b19ab0b42cad3c6f943f168c4260d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement and effect[^key-703b19ab0b42cad3c6f943f168c4260d]
+## 1. Citation and commencement and effect[^c-703b19ab0b42cad3c6f943f168c4260d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^key-703b19ab0b42cad3c6f943f168c4260d]
+## 2. Amendment of the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^c-703b19ab0b42cad3c6f943f168c4260d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-703b19ab0b42cad3c6f943f168c4260d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-703b19ab0b42cad3c6f943f168c4260d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-703b19ab0b42cad3c6f943f168c4260d]EXPLANATORY NOTE
+[^c-703b19ab0b42cad3c6f943f168c4260d]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -74,4 +74,4 @@ An Explanatory Memorandum has been prepared and is available alongside this Orde
 
 ## Annotations
 
-[^key-703b19ab0b42cad3c6f943f168c4260d]: Textual amendment: Order revoked (5.1.2022) by [The Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition) (Revocation) Order (Northern Ireland) 2022 (S.R. 2022/2)](https://www.legislation.gov.uk/nisr/2022/2), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/2/article/1/1), [2](https://www.legislation.gov.uk/nisr/2022/2/article/2)
+[^c-703b19ab0b42cad3c6f943f168c4260d]: Textual amendment: Order revoked (5.1.2022) by [The Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition) (Revocation) Order (Northern Ireland) 2022 (S.R. 2022/2)](https://www.legislation.gov.uk/nisr/2022/2), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/2/article/1/1), [2](https://www.legislation.gov.uk/nisr/2022/2/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Amendments relating to schools causing concern[^key-277b124e39a11b337c999a484ac19dc5]
+## 71. Amendments relating to schools causing concern[^c-277b124e39a11b337c999a484ac19dc5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 contains amendments related to the provisions of this Part.
 
 ## Annotations
 
-[^key-277b124e39a11b337c999a484ac19dc5]: Commencement: S. 71 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j)
+[^c-277b124e39a11b337c999a484ac19dc5]: Commencement: S. 71 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j)

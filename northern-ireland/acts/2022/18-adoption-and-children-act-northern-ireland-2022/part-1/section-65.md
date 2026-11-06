@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Meaning of adoption in Chapter 4[^key-1f60834a72f3ee063b5cf718f73ef2dc]
+## 65. Meaning of adoption in Chapter 4[^c-1f60834a72f3ee063b5cf718f73ef2dc]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f60834a72f3ee063b5cf718f73ef2dc]: Commencement: S. 65 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1f60834a72f3ee063b5cf718f73ef2dc]: Commencement: S. 65 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

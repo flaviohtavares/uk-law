@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 280. Notice of order under Article 150A(5)[^key-93db9b78fe69d015d90ee7e4688b3960]
+## 280. Notice of order under Article 150A(5)[^c-93db9b78fe69d015d90ee7e4688b3960]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93db9b78fe69d015d90ee7e4688b3960]: Commencement: Rule 280 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-93db9b78fe69d015d90ee7e4688b3960]: Commencement: Rule 280 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

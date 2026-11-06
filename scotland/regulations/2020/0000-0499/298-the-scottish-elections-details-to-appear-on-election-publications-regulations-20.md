@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The Scottish Elections (Details to appear on Election Publications) Regulations 2020 (revoked)[^key-47a754a9b69b2aab59777845b8b17dda]
+The Scottish Elections (Details to appear on Election Publications) Regulations 2020 (revoked)[^c-47a754a9b69b2aab59777845b8b17dda]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 7th December 2020
 
-[^key-47a754a9b69b2aab59777845b8b17dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47a754a9b69b2aab59777845b8b17dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-47a754a9b69b2aab59777845b8b17dda]
+## 1. Citation and commencement[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-47a754a9b69b2aab59777845b8b17dda]
+## 2. Application[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-47a754a9b69b2aab59777845b8b17dda]
+## 3. Interpretation[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Circumstances in which election material is to be taken as published[^key-47a754a9b69b2aab59777845b8b17dda]
+## 4. Circumstances in which election material is to be taken as published[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Scottish local government elections: details to appear on election publications[^key-47a754a9b69b2aab59777845b8b17dda]
+## 5. Scottish local government elections: details to appear on election publications[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Scottish local government elections: circumstances in which regulation 5 does not have to be complied with[^key-47a754a9b69b2aab59777845b8b17dda]
+## 6. Scottish local government elections: circumstances in which regulation 5 does not have to be complied with[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Scottish Parliament elections: details to appear on election publications[^key-47a754a9b69b2aab59777845b8b17dda]
+## 7. Scottish Parliament elections: details to appear on election publications[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Scottish Parliament elections: circumstances in which regulation 7 does not have to be complied with[^key-47a754a9b69b2aab59777845b8b17dda]
+## 8. Scottish Parliament elections: circumstances in which regulation 7 does not have to be complied with[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Meaning of “relevant person”[^key-47a754a9b69b2aab59777845b8b17dda]
+## 9. Meaning of “relevant person”[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Information society services: restriction on institution of proceedings against a non-UK service provider[^key-47a754a9b69b2aab59777845b8b17dda]
+## 10. Information society services: restriction on institution of proceedings against a non-UK service provider[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information society services: exception for mere conduit[^key-47a754a9b69b2aab59777845b8b17dda]
+## 11. Information society services: exception for mere conduit[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Information society services: exception for caching[^key-47a754a9b69b2aab59777845b8b17dda]
+## 12. Information society services: exception for caching[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Information society services: exception for hosting[^key-47a754a9b69b2aab59777845b8b17dda]
+## 13. Information society services: exception for hosting[^c-47a754a9b69b2aab59777845b8b17dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47a754a9b69b2aab59777845b8b17dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47a754a9b69b2aab59777845b8b17dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-47a754a9b69b2aab59777845b8b17dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47a754a9b69b2aab59777845b8b17dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47a754a9b69b2aab59777845b8b17dda]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2020/298) revoked (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 61(2)](https://www.legislation.gov.uk/asp/2025/4/section/61/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-47a754a9b69b2aab59777845b8b17dda]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2020/298) revoked (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 61(2)](https://www.legislation.gov.uk/asp/2025/4/section/61/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

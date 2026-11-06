@@ -28,7 +28,7 @@ summary: ''
 
 Water Resources
 
-The Bathing Water Regulations 2008 (revoked)[^key-73399253892d4f81655866d7ad9b765a]
+The Bathing Water Regulations 2008 (revoked)[^c-73399253892d4f81655866d7ad9b765a]
 
 Made
 
@@ -44,188 +44,188 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 1
 
-[^key-73399253892d4f81655866d7ad9b765a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73399253892d4f81655866d7ad9b765a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL PROVISIONS[^key-73399253892d4f81655866d7ad9b765a]
+## PART 1 — GENERAL PROVISIONS[^c-73399253892d4f81655866d7ad9b765a]
 
-### 1. Citation, commencement and extent[^key-73399253892d4f81655866d7ad9b765a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-73399253892d4f81655866d7ad9b765a]
+### 1. Citation, commencement and extent[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Identification of bathing waters[^key-73399253892d4f81655866d7ad9b765a]
+### 2. Interpretation[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Length of the bathing season[^key-73399253892d4f81655866d7ad9b765a]
+### 3. Identification of bathing waters[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General duties[^key-73399253892d4f81655866d7ad9b765a]
+### 4. Length of the bathing season[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Public participation[^key-73399253892d4f81655866d7ad9b765a]
+### 5. General duties[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — BATHING WATER PROFILES[^key-73399253892d4f81655866d7ad9b765a]
-
-### 7. Bathing water profiles[^key-73399253892d4f81655866d7ad9b765a]
+### 6. Public participation[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — MONITORING ETC. OF BATHING WATERS AND PUBLIC INFORMATION[^key-73399253892d4f81655866d7ad9b765a]
+## PART 2 — BATHING WATER PROFILES[^c-73399253892d4f81655866d7ad9b765a]
 
-### 8. Monitoring etc.[^key-73399253892d4f81655866d7ad9b765a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Public information[^key-73399253892d4f81655866d7ad9b765a]
+### 7. Bathing water profiles[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — BATHING WATER ASSESSMENT AND CLASSIFICATION[^key-73399253892d4f81655866d7ad9b765a]
+## PART 3 — MONITORING ETC. OF BATHING WATERS AND PUBLIC INFORMATION[^c-73399253892d4f81655866d7ad9b765a]
 
-### 10. Assessment[^key-73399253892d4f81655866d7ad9b765a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. Classification[^key-73399253892d4f81655866d7ad9b765a]
+### 8. Monitoring etc.[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — MANAGEMENT OF BATHING WATERS[^key-73399253892d4f81655866d7ad9b765a]
-
-### 12. Management measures at bathing waters subject to pollution incidents[^key-73399253892d4f81655866d7ad9b765a]
+### 9. Public information[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Additional management measures at “poor” bathing waters[^key-73399253892d4f81655866d7ad9b765a]
+## PART 4 — BATHING WATER ASSESSMENT AND CLASSIFICATION[^c-73399253892d4f81655866d7ad9b765a]
+
+### 10. Assessment[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Public information and general provisions about short-term pollution[^key-73399253892d4f81655866d7ad9b765a]
+### 11. Classification[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Relevant procedures for short-term pollution[^key-73399253892d4f81655866d7ad9b765a]
+## PART 5 — MANAGEMENT OF BATHING WATERS[^c-73399253892d4f81655866d7ad9b765a]
+
+### 12. Management measures at bathing waters subject to pollution incidents[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — FINAL PROVISIONS[^key-73399253892d4f81655866d7ad9b765a]
-
-### 16. Enforcement[^key-73399253892d4f81655866d7ad9b765a]
+### 13. Additional management measures at “poor” bathing waters[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Guidance[^key-73399253892d4f81655866d7ad9b765a]
+### 14. Public information and general provisions about short-term pollution[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Amendment of the The Bathing Waters (Classification) Regulations 1991 and transitional provisions[^key-73399253892d4f81655866d7ad9b765a]
+### 15. Relevant procedures for short-term pollution[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Revocations and other amendments[^key-73399253892d4f81655866d7ad9b765a]
+## PART 6 — FINAL PROVISIONS[^c-73399253892d4f81655866d7ad9b765a]
+
+### 16. Enforcement[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73399253892d4f81655866d7ad9b765a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 17. Guidance[^c-73399253892d4f81655866d7ad9b765a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Amendment of the The Bathing Waters (Classification) Regulations 1991 and transitional provisions[^c-73399253892d4f81655866d7ad9b765a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Revocations and other amendments[^c-73399253892d4f81655866d7ad9b765a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-73399253892d4f81655866d7ad9b765a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DEFINITIONS FROM THE WATER FRAMEWORK DIRECTIVE[^key-73399253892d4f81655866d7ad9b765a]
+## SCHEDULE 1 — DEFINITIONS FROM THE WATER FRAMEWORK DIRECTIVE[^c-73399253892d4f81655866d7ad9b765a]
 
 Regulation 2
 
-[^key-73399253892d4f81655866d7ad9b765a]
+[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — BATHING WATER PROFILES[^key-73399253892d4f81655866d7ad9b765a]
+## SCHEDULE 2 — BATHING WATER PROFILES[^c-73399253892d4f81655866d7ad9b765a]
 
 Regulation 7
 
-### 1. Contents[^key-73399253892d4f81655866d7ad9b765a]
+### 1. Contents[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Review[^key-73399253892d4f81655866d7ad9b765a]
+### 2. Review[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — MONITORING ETC.[^key-73399253892d4f81655866d7ad9b765a]
+## SCHEDULE 3 — MONITORING ETC.[^c-73399253892d4f81655866d7ad9b765a]
 
 Regulation 8
 
-### PART 1 — INTESTINAL ENTEROCOCCI AND ESCHERICHIA COLI[^key-73399253892d4f81655866d7ad9b765a]
+### PART 1 — INTESTINAL ENTEROCOCCI AND ESCHERICHIA COLI[^c-73399253892d4f81655866d7ad9b765a]
 
-#### 1. Location of monitoring point[^key-73399253892d4f81655866d7ad9b765a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Monitoring calendar[^key-73399253892d4f81655866d7ad9b765a]
+#### 1. Location of monitoring point[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Frequency of monitoring[^key-73399253892d4f81655866d7ad9b765a]
+#### 2. Monitoring calendar[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Sampling equipment[^key-73399253892d4f81655866d7ad9b765a]
+#### 3. Frequency of monitoring[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Storage and transport of samples before analysis[^key-73399253892d4f81655866d7ad9b765a]
+#### 4. Sampling equipment[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Reference methods of analysis[^key-73399253892d4f81655866d7ad9b765a]
+#### 5. Storage and transport of samples before analysis[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. General provisions in relation to rules or reference methods of analysis[^key-73399253892d4f81655866d7ad9b765a]
+#### 6. Reference methods of analysis[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — CYANOBACTERIA[^key-73399253892d4f81655866d7ad9b765a]
+#### 7. General provisions in relation to rules or reference methods of analysis[^c-73399253892d4f81655866d7ad9b765a]
 
-**8.**[^key-73399253892d4f81655866d7ad9b765a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — MACRO-ALGAE AND MARINE PHYTOPLANKTON[^key-73399253892d4f81655866d7ad9b765a]
+### PART 2 — CYANOBACTERIA[^c-73399253892d4f81655866d7ad9b765a]
 
-**9.**[^key-73399253892d4f81655866d7ad9b765a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-73399253892d4f81655866d7ad9b765a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — WASTE[^key-73399253892d4f81655866d7ad9b765a]
+### PART 3 — MACRO-ALGAE AND MARINE PHYTOPLANKTON[^c-73399253892d4f81655866d7ad9b765a]
 
-**10.**[^key-73399253892d4f81655866d7ad9b765a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-73399253892d4f81655866d7ad9b765a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — CLASSIFICATION[^key-73399253892d4f81655866d7ad9b765a]
+### PART 4 — WASTE[^c-73399253892d4f81655866d7ad9b765a]
+
+**10.**[^c-73399253892d4f81655866d7ad9b765a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — CLASSIFICATION[^c-73399253892d4f81655866d7ad9b765a]
 
 Regulation 11
 
-### 1. Standards[^key-73399253892d4f81655866d7ad9b765a]
+### 1. Standards[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Methodology[^key-73399253892d4f81655866d7ad9b765a]
+### 2. Methodology[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Classification[^key-73399253892d4f81655866d7ad9b765a]
+### 3. Classification[^c-73399253892d4f81655866d7ad9b765a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-73399253892d4f81655866d7ad9b765a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73399253892d4f81655866d7ad9b765a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73399253892d4f81655866d7ad9b765a]: Textual amendment: Regulations revoked (31.7.2013) by [The Bathing Water Regulations 2013 (S.I. 2013/1675)](https://www.legislation.gov.uk/uksi/2013/1675), [regs. 1(2)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/1/2/d/i), [19(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/19/1)
+[^c-73399253892d4f81655866d7ad9b765a]: Textual amendment: Regulations revoked (31.7.2013) by [The Bathing Water Regulations 2013 (S.I. 2013/1675)](https://www.legislation.gov.uk/uksi/2013/1675), [regs. 1(2)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/1/2/d/i), [19(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/19/1)

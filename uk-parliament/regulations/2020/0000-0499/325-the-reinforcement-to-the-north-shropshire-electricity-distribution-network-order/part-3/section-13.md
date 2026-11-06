@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Access to works[^key-596e4a507720ca66180149f1d8efc8dd]
+## 13. Access to works[^c-596e4a507720ca66180149f1d8efc8dd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-596e4a507720ca66180149f1d8efc8dd]: Commencement: Art. 13 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-596e4a507720ca66180149f1d8efc8dd]: Commencement: Art. 13 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

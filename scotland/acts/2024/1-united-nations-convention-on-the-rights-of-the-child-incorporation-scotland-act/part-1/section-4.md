@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Interpretation of the UNCRC requirements[^key-9ed9db7c6b449575b3194755fef67e7c]
+## 4. Interpretation of the UNCRC requirements[^c-9ed9db7c6b449575b3194755fef67e7c]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed9db7c6b449575b3194755fef67e7c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/1/section/4) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-9ed9db7c6b449575b3194755fef67e7c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/1/section/4) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

@@ -30,7 +30,7 @@ summary: ''
 
 (5)[^c12036141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-db9811f0b4adf4e0f5216dc394979c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-db9811f0b4adf4e0f5216dc394979c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7)[^c12036141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c12036141]: Textual amendment: [S. 27(1)-(5)](https://www.legislation.gov.uk/ukpga/1991/31/section/27/1)(7) repealed (3.5.1994 with effect in accordance with [s. 81(6)](https://www.legislation.gov.uk/ukpga/1994/9/section/81/6) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [ss. 81(6)](https://www.legislation.gov.uk/ukpga/1994/9/section/81/6), [258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. V(2)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/2) Note
 
-[^key-db9811f0b4adf4e0f5216dc394979c14]: Textual amendment: [S. 27(6)](https://www.legislation.gov.uk/ukpga/1991/31/section/27/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-db9811f0b4adf4e0f5216dc394979c14]: Textual amendment: [S. 27(6)](https://www.legislation.gov.uk/ukpga/1991/31/section/27/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

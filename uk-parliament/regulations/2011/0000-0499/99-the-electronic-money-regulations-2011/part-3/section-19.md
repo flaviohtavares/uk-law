@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Capital requirements[^key-5747ecde8270c93328d1d045b9267660]
+## 19. Capital requirements[^c-5747ecde8270c93328d1d045b9267660]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ whichever is the greater.
 
 ## Annotations
 
-[^key-5747ecde8270c93328d1d045b9267660]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/99/regulation/19) excluded (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 para. 7(1)(c)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/7/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))
+[^c-5747ecde8270c93328d1d045b9267660]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/99/regulation/19) excluded (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 para. 7(1)(c)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/7/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))

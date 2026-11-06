@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Appointment of inspectors[^key-54e9ebd44ef4f31c03dc100f346fdf4f]
+## 16. Appointment of inspectors[^c-54e9ebd44ef4f31c03dc100f346fdf4f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The Secretary of State and the local authority shall appoint inspectors for the 
 
 ## Annotations
 
-[^key-54e9ebd44ef4f31c03dc100f346fdf4f]: Commencement: Reg. 16 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-54e9ebd44ef4f31c03dc100f346fdf4f]: Commencement: Reg. 16 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

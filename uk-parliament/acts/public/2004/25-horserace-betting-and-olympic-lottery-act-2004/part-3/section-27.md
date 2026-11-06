@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Investment[^key-9f9bac6bb18b6f4333bb7a1f4511bd38]
+## 27. Investment[^c-9f9bac6bb18b6f4333bb7a1f4511bd38]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f9bac6bb18b6f4333bb7a1f4511bd38]: Commencement: S. 27 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
+[^c-9f9bac6bb18b6f4333bb7a1f4511bd38]: Commencement: S. 27 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)

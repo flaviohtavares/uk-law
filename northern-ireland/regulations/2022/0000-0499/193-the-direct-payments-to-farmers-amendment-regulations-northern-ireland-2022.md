@@ -42,7 +42,7 @@ Coming into force
 
 The Department of Agriculture, Environment and Rural Affairs makes these Regulations in exercise of the powers conferred by section 48 of, and paragraph 5 of Schedule 6 to, the Agriculture Act 2020[^f00001],
 
-## 1. Citation, commencement and interpretation[^key-e4a9a369b55b592812b17180f8b593ad]
+## 1. Citation, commencement and interpretation[^c-e4a9a369b55b592812b17180f8b593ad]
 
 (1) These Regulations may be cited as The Direct Payments to Farmers (Amendment) Regulations (Northern Ireland) 2022 and come into operation on 1st August 2022.
 
@@ -50,7 +50,7 @@ The Department of Agriculture, Environment and Rural Affairs makes these Regulat
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of Article 75 of Regulation (EU) 1306/2013[^key-e48f0380070818fa5eace70b72d38b85]
+## 2. Amendment of Article 75 of Regulation (EU) 1306/2013[^c-e48f0380070818fa5eace70b72d38b85]
 
 Article 75 of Regulation (EU) 1306/2013 is amended as follows –
 
@@ -79,10 +79,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2020 (c.21)](https://www.legislation.gov.uk/ukpga/2020/21)
 
-[^key-e4a9a369b55b592812b17180f8b593ad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/193/regulation/1) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/193/regulation/1/1)
+[^c-e4a9a369b55b592812b17180f8b593ad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/193/regulation/1) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/193/regulation/1/1)
 
 [^f00002]: Footnote: EUR 2013/1306 as amended by [S.R. 2021 No. 40](https://www.legislation.gov.uk/nisr/2021/40), [S.R. 2021 No. 42](https://www.legislation.gov.uk/nisr/2021/42), [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90),  [S.I. 2020/576](https://www.legislation.gov.uk/uksi/2020/576). This Regulation was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2.)](https://www.legislation.gov.uk/ukpga/2020/2).
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e48f0380070818fa5eace70b72d38b85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/193/regulation/2) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/193/regulation/1/1)
+[^c-e48f0380070818fa5eace70b72d38b85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/193/regulation/2) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/193/regulation/1/1)

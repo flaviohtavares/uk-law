@@ -74,7 +74,7 @@ An Act to consolidate certain enactments relating to matrimonial proceedings, ma
 - [Section 18 — Effects of judicial separation.](part-i/section-18.md)
 - [Section 19 — Presumption of death and dissolution of marriage.](part-i/section-19.md)
 
-#### ...[^key-6c31ddde56e56f84729cc5e77d430b9e]
+#### ...[^c-6c31ddde56e56f84729cc5e77d430b9e]
 
 - [Section 20 — Relief for respondent in divorce proceedings.](part-i/section-20.md)
 
@@ -189,6 +189,6 @@ SCHEDULES
 
 [^c8894751]: Commencement: Act not in force at Royal Assent, see [s. 55(2)](https://www.legislation.gov.uk/ukpga/1973/18/section/55/2); Act wholly in force at 1.1.1974
 
-[^key-6c31ddde56e56f84729cc5e77d430b9e]: Textual amendment: [S. 20 and cross-heading](https://www.legislation.gov.uk/ukpga/1973/18/part/I/crossheading/general) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/17) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-6c31ddde56e56f84729cc5e77d430b9e]: Textual amendment: [S. 20 and cross-heading](https://www.legislation.gov.uk/ukpga/1973/18/part/I/crossheading/general) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/17) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
 [^c8900361]: Textual amendment: [S. 33(A)](https://www.legislation.gov.uk/ukpga/1973/18/section/33/A) and cross heading inserted by [Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1984/42), [ss. 7](https://www.legislation.gov.uk/ukpga/1984/42/section/7), [48(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/48/2)

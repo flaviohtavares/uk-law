@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Arbitrations etc.[^key-7d207ed7a2058b9b913cc3ec956fdb9e]
+## 76. Arbitrations etc.[^c-7d207ed7a2058b9b913cc3ec956fdb9e]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ For section 61 (arbitrations) of the 1991 Act there is substituted—
 
 ## Annotations
 
-[^key-7d207ed7a2058b9b913cc3ec956fdb9e]: Commencement: S. 76 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-7d207ed7a2058b9b913cc3ec956fdb9e]: Commencement: S. 76 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

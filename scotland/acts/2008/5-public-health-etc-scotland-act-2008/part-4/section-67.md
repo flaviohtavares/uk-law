@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Absconding from hospital[^key-53293042cf079d07141eb62e96a7a8a7]
+## 67. Absconding from hospital[^c-53293042cf079d07141eb62e96a7a8a7]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ is liable to be taken into custody by a person mentioned in subsection (3) and r
 
 ## Annotations
 
-[^key-53293042cf079d07141eb62e96a7a8a7]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2008/5/section/67) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-53293042cf079d07141eb62e96a7a8a7]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2008/5/section/67) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

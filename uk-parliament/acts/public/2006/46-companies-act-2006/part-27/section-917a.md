@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 917A. Other circumstances in which meeting of members of transferor company not required (merger)[^key-8c1406d500a555b92da355def88ddee2]
+## 917A. Other circumstances in which meeting of members of transferor company not required (merger)[^c-8c1406d500a555b92da355def88ddee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the case of a compromise or arrangement to be sanctioned under Part 26A, it i
 
 ## Annotations
 
-[^key-8c1406d500a555b92da355def88ddee2]: Textual amendment: S. 917A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(8)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/8) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-8c1406d500a555b92da355def88ddee2]: Textual amendment: S. 917A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(8)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/8) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -36,17 +36,17 @@ summary: ''
 
 (6) The Chief Constable shall not grant a firearms dealer's certificate to a person under the age of 18 years.
 
-(7) The Chief Constable may, if he is satisfied that it is necessary to do so, provide the holder of a firearms dealer's certificate with a duplicate certificate or an updated certificate[^key-ad06e2083b2823fda12dc60f60521e98] on payment of the appropriate fee[^key-3ca30c3e20022571f5850d9d301525c0]....
+(7) The Chief Constable may, if he is satisfied that it is necessary to do so, provide the holder of a firearms dealer's certificate with a duplicate certificate or an updated certificate[^c-ad06e2083b2823fda12dc60f60521e98] on payment of the appropriate fee[^c-3ca30c3e20022571f5850d9d301525c0]....
 
-(8)[^key-d2530e2dd07fbec25ff08e8e309e8b58] In paragraph (7)—
+(8)[^c-d2530e2dd07fbec25ff08e8e309e8b58] In paragraph (7)—
 
 - “**duplicate certificate**” means a copy of the firearms dealer's certificate as granted;
 - “**updated certificate**” means the firearms dealer's certificate revised up to such date as may be specified on the certificate.
 
 ## Annotations
 
-[^key-ad06e2083b2823fda12dc60f60521e98]: Textual amendment: Words in [art. 26(7)](https://www.legislation.gov.uk/nisi/2004/702/article/26/7) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(2)(a)(i)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/2/a/i)
+[^c-ad06e2083b2823fda12dc60f60521e98]: Textual amendment: Words in [art. 26(7)](https://www.legislation.gov.uk/nisi/2004/702/article/26/7) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(2)(a)(i)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/2/a/i)
 
-[^key-3ca30c3e20022571f5850d9d301525c0]: Textual amendment: Words in [art. 26(7)](https://www.legislation.gov.uk/nisi/2004/702/article/26/7) repealed (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(2)(a)(ii)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/2/a/ii)
+[^c-3ca30c3e20022571f5850d9d301525c0]: Textual amendment: Words in [art. 26(7)](https://www.legislation.gov.uk/nisi/2004/702/article/26/7) repealed (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(2)(a)(ii)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/2/a/ii)
 
-[^key-d2530e2dd07fbec25ff08e8e309e8b58]: Textual amendment: [Art. 26(8)](https://www.legislation.gov.uk/nisi/2004/702/article/26/8) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/2/b)
+[^c-d2530e2dd07fbec25ff08e8e309e8b58]: Textual amendment: [Art. 26(8)](https://www.legislation.gov.uk/nisi/2004/702/article/26/8) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/2/b)

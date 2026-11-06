@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment of regulation 6 (requests to the Secretary of State for an environmental determination)[^key-739b186f9d2f095d778803c02b54c775]
+## 30. Amendment of regulation 6 (requests to the Secretary of State for an environmental determination)[^c-739b186f9d2f095d778803c02b54c775]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In regulation 6—
 
 ## Annotations
 
-[^key-739b186f9d2f095d778803c02b54c775]: Commencement: Reg. 30 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-739b186f9d2f095d778803c02b54c775]: Commencement: Reg. 30 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

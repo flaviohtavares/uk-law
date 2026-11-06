@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Radioactive waste geological disposal facilities[^key-a7fd76b3c4094d508f5feec424f7bc64]
+## 30A. Radioactive waste geological disposal facilities[^c-a7fd76b3c4094d508f5feec424f7bc64]
 
 *Extent: E+W*
 
@@ -49,10 +49,10 @@ summary: ''
 (7) In this section—
 
 - “disposal” in relation to radioactive waste means emplacement in an appropriate facility without the intention to retrieve;
-- “radioactive waste” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)[^key-b5f055ec5458702f6307618baf52b9a1] (see paragraph 3(1) of Part 2 of Schedule 23 to those regulations).
+- “radioactive waste” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)[^c-b5f055ec5458702f6307618baf52b9a1] (see paragraph 3(1) of Part 2 of Schedule 23 to those regulations).
 
 ## Annotations
 
-[^key-a7fd76b3c4094d508f5feec424f7bc64]: Textual amendment: S. 30A inserted (27.3.2015) by [The Infrastructure Planning (Radioactive Waste Geological Disposal Facilities) Order 2015 (S.I. 2015/949)](https://www.legislation.gov.uk/uksi/2015/949), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/949/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/949/article/2/3)
+[^c-a7fd76b3c4094d508f5feec424f7bc64]: Textual amendment: S. 30A inserted (27.3.2015) by [The Infrastructure Planning (Radioactive Waste Geological Disposal Facilities) Order 2015 (S.I. 2015/949)](https://www.legislation.gov.uk/uksi/2015/949), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/949/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/949/article/2/3)
 
-[^key-b5f055ec5458702f6307618baf52b9a1]: Textual amendment: Words in [s. 30A(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/30A/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 17](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/17) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-b5f055ec5458702f6307618baf52b9a1]: Textual amendment: Words in [s. 30A(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/30A/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 17](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/17) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

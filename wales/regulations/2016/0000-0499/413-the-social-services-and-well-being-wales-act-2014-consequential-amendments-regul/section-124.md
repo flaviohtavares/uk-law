@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**124.**[^key-315356dfc49450d34b7470d67c8d232f] The National Health Service and Community Care Act 1990 is amended as follows.
+**124.**[^c-315356dfc49450d34b7470d67c8d232f] The National Health Service and Community Care Act 1990 is amended as follows.
 
 ## Annotations
 
-[^key-315356dfc49450d34b7470d67c8d232f]: Commencement: Reg. 124 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-315356dfc49450d34b7470d67c8d232f]: Commencement: Reg. 124 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

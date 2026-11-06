@@ -37,24 +37,24 @@ on measures to be taken by the United Kingdom concerning *Xylella fastidiosa* an
 
 (Only the English text is authentic) (revoked)
 
-[^key-bccf7318cbb92fd724d93f7a34050de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bccf7318cbb92fd724d93f7a34050de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Obligation to amend the Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019[^key-bccf7318cbb92fd724d93f7a34050de9]
+## Article 1. Obligation to amend the Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019[^c-bccf7318cbb92fd724d93f7a34050de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Time limit to comply with the obligation[^key-bccf7318cbb92fd724d93f7a34050de9]
+## Article 2. Time limit to comply with the obligation[^c-bccf7318cbb92fd724d93f7a34050de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressee[^key-bccf7318cbb92fd724d93f7a34050de9]
+## Article 3. Addressee[^c-bccf7318cbb92fd724d93f7a34050de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bccf7318cbb92fd724d93f7a34050de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bccf7318cbb92fd724d93f7a34050de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bccf7318cbb92fd724d93f7a34050de9]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-bccf7318cbb92fd724d93f7a34050de9]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

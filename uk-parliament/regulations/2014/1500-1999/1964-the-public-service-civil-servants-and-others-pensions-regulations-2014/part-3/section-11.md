@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Scheme advisory board: membership[^key-43a445529440903034d7185669cccbae]
+## 11. Scheme advisory board: membership[^c-43a445529440903034d7185669cccbae]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43a445529440903034d7185669cccbae]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1964/regulation/11) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-43a445529440903034d7185669cccbae]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1964/regulation/11) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

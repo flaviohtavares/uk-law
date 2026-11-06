@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Management of fire safety risks by accountable persons[^key-5297c879e33ca192d664ba6c9b9c239a]
+## 33. Management of fire safety risks by accountable persons[^c-5297c879e33ca192d664ba6c9b9c239a]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5297c879e33ca192d664ba6c9b9c239a]: Commencement: S. 33 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5297c879e33ca192d664ba6c9b9c239a]: Commencement: S. 33 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

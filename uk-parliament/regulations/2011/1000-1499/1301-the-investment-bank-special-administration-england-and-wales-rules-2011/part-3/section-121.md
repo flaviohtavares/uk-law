@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Formal defects[^key-04ebec6d7e034b5d9161d1a59e4b1dd9]
+## 121. Formal defects[^c-04ebec6d7e034b5d9161d1a59e4b1dd9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The acts of the creditors’ committee established for a special administration 
 
 ## Annotations
 
-[^key-04ebec6d7e034b5d9161d1a59e4b1dd9]: Commencement: [Rule 121](https://www.legislation.gov.uk/uksi/2011/1301/rule/121) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-04ebec6d7e034b5d9161d1a59e4b1dd9]: Commencement: [Rule 121](https://www.legislation.gov.uk/uksi/2011/1301/rule/121) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

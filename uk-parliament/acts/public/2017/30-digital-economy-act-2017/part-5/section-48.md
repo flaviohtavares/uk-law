@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Disclosure of information to reduce debt owed to the public sector[^key-baeb0d55cea84ef839344027176ae1ae][^key-61889f826e6916ce57c02abb5b4cb7f0][^key-aa60d82069e3b8635639fcdb3501b13e]
+## 48. Disclosure of information to reduce debt owed to the public sector[^c-baeb0d55cea84ef839344027176ae1ae][^c-61889f826e6916ce57c02abb5b4cb7f0][^c-aa60d82069e3b8635639fcdb3501b13e]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d2d2dd211ec0dd3714b72660e3924dff] A specified person may disclose information held by the person in connection with any of the person's functions to another specified person for the purposes of the taking of action in connection with debt owed to a public authority or to the Crown.
+(1)[^c-d2d2dd211ec0dd3714b72660e3924dff] A specified person may disclose information held by the person in connection with any of the person's functions to another specified person for the purposes of the taking of action in connection with debt owed to a public authority or to the Crown.
 
 (2) For the purposes of this section and Schedule 7 debt is owed to a public authority or to the Crown if—
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) In this Chapter “**specified person**” means a person specified, or of a description specified, in Schedule 7.
 
-(4A)[^key-c82186afa737ff18f095646238b2d970] Where in Schedule 7 functions are mentioned in relation to a specified person, the reference in subsection (1) to the person’s functions is limited to the person’s functions as mentioned in Schedule 7.
+(4A)[^c-c82186afa737ff18f095646238b2d970] Where in Schedule 7 functions are mentioned in relation to a specified person, the reference in subsection (1) to the person’s functions is limited to the person’s functions as mentioned in Schedule 7.
 
 (5) The appropriate national authority may by regulations amend Schedule 7 so as to add, remove or modify an entry relating to a person or description of person.
 
@@ -62,28 +62,28 @@ summary: ''
 
 (11) Before making regulations under subsection (5) the appropriate national authority must consult—
 
-- (a) the Information Commission[^key-2485d1491395510dde9d47314ed5bd99],
+- (a) the Information Commission[^c-2485d1491395510dde9d47314ed5bd99],
 - (b) the Commissioners for Her Majesty's Revenue and Customs,
 - (c) each other person who is the appropriate national authority in relation to regulations under subsection (5),
-- (d)[^key-5df01c907ca293e09a0f0d4da161dbf4] where the appropriate national authority is not the relevant Minister, the relevant Minister[^key-c7c268a23c9c682d0532ee141046a79e], and
+- (d)[^c-5df01c907ca293e09a0f0d4da161dbf4] where the appropriate national authority is not the relevant Minister, the relevant Minister[^c-c7c268a23c9c682d0532ee141046a79e], and
 - (e) such other persons as the appropriate national authority thinks appropriate.
 
 (12) The fact that this section was not in force when consultation of the kind mentioned in subsection (11) took place is to be disregarded in determining whether there has been compliance with that subsection.
 
 ## Annotations
 
-[^key-baeb0d55cea84ef839344027176ae1ae]: Commencement: S. 48 in force at 1.10.2017 for specified purposes for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/g)
+[^c-baeb0d55cea84ef839344027176ae1ae]: Commencement: S. 48 in force at 1.10.2017 for specified purposes for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/g)
 
-[^key-61889f826e6916ce57c02abb5b4cb7f0]: Commencement: S. 48 in force at 1.5.2018 for E.W.S. in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/m)
+[^c-61889f826e6916ce57c02abb5b4cb7f0]: Commencement: S. 48 in force at 1.5.2018 for E.W.S. in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/m)
 
-[^key-aa60d82069e3b8635639fcdb3501b13e]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2017/30/section/48) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/h)
+[^c-aa60d82069e3b8635639fcdb3501b13e]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2017/30/section/48) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/h)
 
-[^key-d2d2dd211ec0dd3714b72660e3924dff]: Modification: S. 48(1): transfer of functions (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/424/article/7/3), [9(3)](https://www.legislation.gov.uk/uksi/2023/424/article/9/3/a), [11(2)](https://www.legislation.gov.uk/uksi/2023/424/article/11/2/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-d2d2dd211ec0dd3714b72660e3924dff]: Modification: S. 48(1): transfer of functions (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/424/article/7/3), [9(3)](https://www.legislation.gov.uk/uksi/2023/424/article/9/3/a), [11(2)](https://www.legislation.gov.uk/uksi/2023/424/article/11/2/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-c82186afa737ff18f095646238b2d970]: Textual amendment: S. 48(4A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-c82186afa737ff18f095646238b2d970]: Textual amendment: S. 48(4A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-2485d1491395510dde9d47314ed5bd99]: Textual amendment: Words in [s. 48(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/48/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-2485d1491395510dde9d47314ed5bd99]: Textual amendment: Words in [s. 48(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/48/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-5df01c907ca293e09a0f0d4da161dbf4]: Modification: S. 48(11)(d): functions made exercisable concurrently (3.6.2025) by [The Transfer of Functions (Digital Government) Order 2025 (S.I. 2025/557)](https://www.legislation.gov.uk/uksi/2025/557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/557/article/1/2), [4](https://www.legislation.gov.uk/uksi/2025/557/article/4) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/557/article/5), [8](https://www.legislation.gov.uk/uksi/2025/557/article/8))
+[^c-5df01c907ca293e09a0f0d4da161dbf4]: Modification: S. 48(11)(d): functions made exercisable concurrently (3.6.2025) by [The Transfer of Functions (Digital Government) Order 2025 (S.I. 2025/557)](https://www.legislation.gov.uk/uksi/2025/557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/557/article/1/2), [4](https://www.legislation.gov.uk/uksi/2025/557/article/4) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/557/article/5), [8](https://www.legislation.gov.uk/uksi/2025/557/article/8))
 
-[^key-c7c268a23c9c682d0532ee141046a79e]: Textual amendment: Words in s. 48(11)(d) substituted (3.6.2025) by [The Transfer of Functions (Digital Government) Order 2025 (S.I. 2025/557)](https://www.legislation.gov.uk/uksi/2025/557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/557/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/557/article/9/3) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/557/article/8))
+[^c-c7c268a23c9c682d0532ee141046a79e]: Textual amendment: Words in s. 48(11)(d) substituted (3.6.2025) by [The Transfer of Functions (Digital Government) Order 2025 (S.I. 2025/557)](https://www.legislation.gov.uk/uksi/2025/557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/557/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/557/article/9/3) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/557/article/8))

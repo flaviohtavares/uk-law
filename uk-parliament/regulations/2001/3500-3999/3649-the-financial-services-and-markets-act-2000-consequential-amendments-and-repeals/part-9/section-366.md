@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 366. Additional powers of investment[^key-89ee72a594318c8b03482f581266f5e1]
+## 366. Additional powers of investment[^c-89ee72a594318c8b03482f581266f5e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 8 of the Schedule[^f00260] to the British Transport (Alteration of 
 
 ## Annotations
 
-[^key-89ee72a594318c8b03482f581266f5e1]: Commencement: Art. 366 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-89ee72a594318c8b03482f581266f5e1]: Commencement: Art. 366 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00260]: Footnote: Paragraph 8 was substituted by [S.I. 1988/962](https://www.legislation.gov.uk/uksi/1988/962), regulation 2.

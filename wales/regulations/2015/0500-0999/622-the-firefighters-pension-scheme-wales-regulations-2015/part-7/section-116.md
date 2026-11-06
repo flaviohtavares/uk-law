@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Reduction in pension debit member’s benefits[^key-c581fd4ad01aa0e1bda578567fc6b72f]
+## 116. Reduction in pension debit member’s benefits[^c-c581fd4ad01aa0e1bda578567fc6b72f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The benefits to which a pension debit member is entitled under these Regulations
 
 ## Annotations
 
-[^key-c581fd4ad01aa0e1bda578567fc6b72f]: Commencement: Reg. 116 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c581fd4ad01aa0e1bda578567fc6b72f]: Commencement: Reg. 116 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

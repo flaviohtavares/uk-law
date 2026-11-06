@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.32. Application for warrant under section 352 of the Proceeds of Crime Act 2002[^key-17e16b6c41df6609b19df39daa183cf4]
+## 47.32. Application for warrant under section 352 of the Proceeds of Crime Act 2002[^c-17e16b6c41df6609b19df39daa183cf4]
 
 *Extent: E+W*
 
@@ -93,7 +93,7 @@ summary: ''
 
 ## Annotations
 
-[^key-17e16b6c41df6609b19df39daa183cf4]: Commencement: Rule 47.32 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-17e16b6c41df6609b19df39daa183cf4]: Commencement: Rule 47.32 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01220]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 352 was amended by sections 74, 76, 77 and 80 of, and paragraphs 103 and 105 of Schedule 8 and paragraphs 1 and 7 of Schedule 10 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 169 of, and paragraphs 1 and 10 of Schedule 19 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), sections 15, 49 and 55 of, and paragraphs 108 and 137 of Schedule 8, paragraphs 1 and 6 of Schedule 19 and paragraphs 14 and 31 of Schedule 21 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 224 of, and paragraphs 1 and 12 of Schedule 48 to, the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), article 3 of, and paragraphs 19 and 26 of Schedule 2 to, [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834) and section 82 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 

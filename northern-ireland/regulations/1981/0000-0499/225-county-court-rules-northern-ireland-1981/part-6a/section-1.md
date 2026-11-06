@@ -28,7 +28,7 @@ In this Order the following words and expressions have the following meanings, u
 - “**country**” means a foreign country, or any country mentioned in Rule 7(5);
 - “**country of service**” means the country in which a process is to be served or is served pursuant to leave granted under this Order;
 - “**convention country**” means a foreign country with which a convention has been made in relating to civil procedure including the service documents issued from Northern Ireland in the foreign country and includes a country which is a party to the Hague Convention;
-- \[[^f00076] “**convention territory**” means the territory or territories of any Contracting State, as defined by section 1(3) of the Civil Jurisdiction and Judgments Act 1982 [^key-de2d234ca1c8f291e110418edb8561be]... ;\]
+- \[[^f00076] “**convention territory**” means the territory or territories of any Contracting State, as defined by section 1(3) of the Civil Jurisdiction and Judgments Act 1982 [^c-de2d234ca1c8f291e110418edb8561be]... ;\]
 - “**Hague Convention**” means the Convention on the Service Abroad of Judicial and Extra-Judicial Documents in Civil or Commercial matters signed at The Hague on 15th November 1965[^f00078];
 - “**associated state**” has the meaning given to it by the Interpretation Act 1978[^f00079];
 - “**colony**” has the meaning given to it by the Interpretation Act 1978;
@@ -41,7 +41,7 @@ In this Order the following words and expressions have the following meanings, u
 
 [^f00076]: Footnote: Words inserted by [S.R. 1986 No. 347](https://www.legislation.gov.uk/nisr/1986/347) with effect from 1.1.87
 
-[^key-de2d234ca1c8f291e110418edb8561be]: Textual amendment: Words in Order 6A rule 1 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de2d234ca1c8f291e110418edb8561be]: Textual amendment: Words in Order 6A rule 1 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00078]: Footnote: Cmnd. 3986
 

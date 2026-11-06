@@ -35,92 +35,92 @@ on the definition, applicable to the granting of export refunds, of hulled grain
 
 (Codified version) (revoked)
 
-[^key-4000998366621a5250287990c9e4b0f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4000998366621a5250287990c9e4b0f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4000998366621a5250287990c9e4b0f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4000998366621a5250287990c9e4b0f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4000998366621a5250287990c9e4b0f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4000998366621a5250287990c9e4b0f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4000998366621a5250287990c9e4b0f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4000998366621a5250287990c9e4b0f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4000998366621a5250287990c9e4b0f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-4000998366621a5250287990c9e4b0f6]
+## ANNEX I[^c-4000998366621a5250287990c9e4b0f6]
 
-[^key-4000998366621a5250287990c9e4b0f6]A.
+[^c-4000998366621a5250287990c9e4b0f6]A.
 
 DEFINITION OF ‘HULLED GRAINS’ (SHELLED OR HUSKED) AND ‘PEARLED GRAINS’
 
-[^key-4000998366621a5250287990c9e4b0f6]I.
+[^c-4000998366621a5250287990c9e4b0f6]I.
 
 ‘Hulled grains’ includes shelled and husked grains
 
-[^key-4000998366621a5250287990c9e4b0f6]1.
+[^c-4000998366621a5250287990c9e4b0f6]1.
 
 Shelled grains:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]2.
+[^c-4000998366621a5250287990c9e4b0f6]2.
 
 Husked grains
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]II.
+[^c-4000998366621a5250287990c9e4b0f6]II.
 
 ‘Pearled grains’ include
 
-[^key-4000998366621a5250287990c9e4b0f6]1.
+[^c-4000998366621a5250287990c9e4b0f6]1.
 
 First class grains:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]2.
+[^c-4000998366621a5250287990c9e4b0f6]2.
 
 Second class grains:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]B.
+[^c-4000998366621a5250287990c9e4b0f6]B.
 
 SIEVE ANALYSIS
 
-[^key-4000998366621a5250287990c9e4b0f6]I.
+[^c-4000998366621a5250287990c9e4b0f6]I.
 
 Apparatus
 
-[^key-4000998366621a5250287990c9e4b0f6]1.
+[^c-4000998366621a5250287990c9e4b0f6]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]2.
+[^c-4000998366621a5250287990c9e4b0f6]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]3.
+[^c-4000998366621a5250287990c9e4b0f6]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4000998366621a5250287990c9e4b0f6]II.
+[^c-4000998366621a5250287990c9e4b0f6]II.
 
 Method
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-4000998366621a5250287990c9e4b0f6]
+## ANNEX II[^c-4000998366621a5250287990c9e4b0f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-4000998366621a5250287990c9e4b0f6]
+## ANNEX III[^c-4000998366621a5250287990c9e4b0f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4000998366621a5250287990c9e4b0f6]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-4000998366621a5250287990c9e4b0f6]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

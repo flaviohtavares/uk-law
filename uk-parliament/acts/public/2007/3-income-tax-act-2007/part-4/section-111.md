@@ -52,8 +52,8 @@ Subsection (8) of section 110 applies for the purposes of this subsection as it 
 
 (11) Amount C is the amount which the individual has contributed to the assets of the firm on its winding up so far as it is not included in amount A or B.
 
-(12) This section needs to be read with section 113A and any regulations made under section 114 (exclusion of amounts[^key-533db976418f723fef5ee9b9651764e5] in calculating the individual's contribution to the firm for the purposes of section 110).
+(12) This section needs to be read with section 113A and any regulations made under section 114 (exclusion of amounts[^c-533db976418f723fef5ee9b9651764e5] in calculating the individual's contribution to the firm for the purposes of section 110).
 
 ## Annotations
 
-[^key-533db976418f723fef5ee9b9651764e5]: Textual amendment: Words in s. 111(12) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 11(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/11/c), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-533db976418f723fef5ee9b9651764e5]: Textual amendment: Words in s. 111(12) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 11(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/11/c), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

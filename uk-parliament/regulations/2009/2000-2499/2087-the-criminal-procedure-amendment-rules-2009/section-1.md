@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and interpretation[^key-e687dd18fcb98f342cf8abe784946083]
+## 1. Citation, commencement and interpretation[^c-e687dd18fcb98f342cf8abe784946083]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules may be cited as The Criminal Procedure (Amendment) Rules 2009 and sh
 
 ## Annotations
 
-[^key-e687dd18fcb98f342cf8abe784946083]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-e687dd18fcb98f342cf8abe784946083]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

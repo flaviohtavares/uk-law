@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Area inspections.[^key-ac0bfee5197012e81dc7efdabb176df2]
+## 83. Area inspections.[^c-ac0bfee5197012e81dc7efdabb176df2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac0bfee5197012e81dc7efdabb176df2]: Textual amendment: Ss. 83-88 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 14(23)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/14/23) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxv) (with [art. 15](https://www.legislation.gov.uk/wsi/2026/62/article/15))
+[^c-ac0bfee5197012e81dc7efdabb176df2]: Textual amendment: Ss. 83-88 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 14(23)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/14/23) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxv) (with [art. 15](https://www.legislation.gov.uk/wsi/2026/62/article/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Making of referral order: effect on court's other sentencing powers[^key-79758d5a7861b4b65c0a259e1c4f6085]
+## 89. Making of referral order: effect on court's other sentencing powers[^c-79758d5a7861b4b65c0a259e1c4f6085]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ in connection with the offence or any connected offence.
 
 ## Annotations
 
-[^key-79758d5a7861b4b65c0a259e1c4f6085]: Commencement: S. 89 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-79758d5a7861b4b65c0a259e1c4f6085]: Commencement: S. 89 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

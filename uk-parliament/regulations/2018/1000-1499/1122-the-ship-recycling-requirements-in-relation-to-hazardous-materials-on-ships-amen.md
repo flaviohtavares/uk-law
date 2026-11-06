@@ -87,7 +87,7 @@ These Regulations may be cited as the Ship Recycling (Requirements in relation t
 
 (2) Terms which are used in these Regulations that are used in the EU Ship Recycling Regulation, and are not otherwise defined in these Regulations, have the meaning they bear in that EU Regulation.
 
-(3) A reference in these Regulations to the EU Ship Recycling Regulation or[^key-29dcd3726d04c793b55207b0308c4c49] Annex I or II of the EU Ship Recycling Regulation is to that Regulation or[^key-9cafc177fd928b0b110bf1ebf7b798d0] Annex as amended from time to time.
+(3) A reference in these Regulations to the EU Ship Recycling Regulation or[^c-29dcd3726d04c793b55207b0308c4c49] Annex I or II of the EU Ship Recycling Regulation is to that Regulation or[^c-9cafc177fd928b0b110bf1ebf7b798d0] Annex as amended from time to time.
 
 (4) A reference in these Regulations to an Article is to an Article of the EU Ship Recycling Regulation.
 
@@ -137,13 +137,13 @@ A ship owner notifying the Secretary of State under Article 6(1)(b) must do so b
 - (d) references in Part 14 of that Schedule to an inspection include references to an Article 8 survey; and
 - (e) references in the Regulations to the Agency were references to the Secretary of State.
 
-## 7. Articles 11 and 12: application of Port State Control provisions[^key-0b13b1a832e94a26fd4e5a994ec91f57]
+## 7. Articles 11 and 12: application of Port State Control provisions[^c-0b13b1a832e94a26fd4e5a994ec91f57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Detention of ships to which the Merchant Shipping (Port State Control) Regulations 2026 do not apply[^key-97866dca99521e7ff4a34c17a9dd2fd1]
+## 8. Detention of ships to which the Merchant Shipping (Port State Control) Regulations 2026 do not apply[^c-97866dca99521e7ff4a34c17a9dd2fd1]
 
-(1) This regulation applies to a ship to which the EU Ship Recycling Regulation applies but the Merchant Shipping (Port State Control) Regulations 2026 do[^key-623200d2551803c5c204f44a44e5e363] not apply.
+(1) This regulation applies to a ship to which the EU Ship Recycling Regulation applies but the Merchant Shipping (Port State Control) Regulations 2026 do[^c-623200d2551803c5c204f44a44e5e363] not apply.
 
 (2) If a person carrying out an Article 8 survey or an inspector appointed under regulation 12 is of the opinion that at least one of the matters referred to in paragraph (3) is subsisting in contravention of the EU Ship Recycling Regulation, he or she may detain the ship by serving a notice (“a detention notice”) on the master.
 
@@ -173,18 +173,18 @@ A ship owner notifying the Secretary of State under Article 6(1)(b) must do so b
   - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-## 9. Offences for contravention of the EU Ship Recycling Regulation in respect of United Kingdom ships[^key-b861525af478d310418847b4d15f060e]
+## 9. Offences for contravention of the EU Ship Recycling Regulation in respect of United Kingdom ships[^c-b861525af478d310418847b4d15f060e]
 
 (1) This regulation applies to the owner of a ship—
 
 - (a) to which the EU Ship Recycling Regulation applies; and
-- (b)[^key-ed49a62de647dd3cc03223dcca73ad7b] which is a United Kingdom ship
+- (b)[^c-ed49a62de647dd3cc03223dcca73ad7b] which is a United Kingdom ship
 
 wherever the ship maybe.
 
-(2)[^key-da1f4ea4288fe7cf54feee4f7f53120a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-da1f4ea4288fe7cf54feee4f7f53120a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0fd81043821164b03016974fc8ec837f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0fd81043821164b03016974fc8ec837f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The ship owner is guilty of an offence if, in contravention of the EU Ship Recycling Regulation, any of the following apply—
 
@@ -193,9 +193,9 @@ wherever the ship maybe.
 - (c) the ship owner does not comply with any requirement of Article 6(1) to (4);
 - (d) the ship has not been submitted for an initial, renewal or final survey when one is required under Article 8.
 
-(5)[^key-5b435e658f3a9dd0eaeba8dd1deae515] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5b435e658f3a9dd0eaeba8dd1deae515] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Offences for contravention of the EU Ship Recycling Regulation in respect of ships other than United Kingdom ships[^key-d0b979b47e7b6c98676533ce5af63c51]
+## 10. Offences for contravention of the EU Ship Recycling Regulation in respect of ships other than United Kingdom ships[^c-d0b979b47e7b6c98676533ce5af63c51]
 
 (1) This regulation applies to the owner and master of a ship—
 
@@ -340,31 +340,31 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23424191]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-29dcd3726d04c793b55207b0308c4c49]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/2/3) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29dcd3726d04c793b55207b0308c4c49]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/2/3) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9cafc177fd928b0b110bf1ebf7b798d0]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/2/3) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cafc177fd928b0b110bf1ebf7b798d0]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/2/3) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23424201]: Marginal citation: [Section 258](https://www.legislation.gov.uk/uksi/2018/1122/section/258) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28) (“**the 1997 Act**”), Schedule 1, paragraph 4. For the definition of “qualifying foreign ship” in section 258, see [section 313A](https://www.legislation.gov.uk/uksi/2018/1122/section/313A) of the 1995 Act (inserted by the 1997 Act, Schedule 6, paragraph 20).
 
 [^c23424211]: Marginal citation: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104).
 
-[^key-0b13b1a832e94a26fd4e5a994ec91f57]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1122/regulation/7) revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-0b13b1a832e94a26fd4e5a994ec91f57]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1122/regulation/7) revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-97866dca99521e7ff4a34c17a9dd2fd1]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2018/1122/regulation/8) heading substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-97866dca99521e7ff4a34c17a9dd2fd1]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2018/1122/regulation/8) heading substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-623200d2551803c5c204f44a44e5e363]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/8/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-623200d2551803c5c204f44a44e5e363]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/8/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-b861525af478d310418847b4d15f060e]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9) heading substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b861525af478d310418847b4d15f060e]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9) heading substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed49a62de647dd3cc03223dcca73ad7b]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/1/b) substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed49a62de647dd3cc03223dcca73ad7b]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/1/b) substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da1f4ea4288fe7cf54feee4f7f53120a]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/2) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da1f4ea4288fe7cf54feee4f7f53120a]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/2) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fd81043821164b03016974fc8ec837f]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/3) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fd81043821164b03016974fc8ec837f]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/3) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b435e658f3a9dd0eaeba8dd1deae515]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/5) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(e)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b435e658f3a9dd0eaeba8dd1deae515]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/5) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(e)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d0b979b47e7b6c98676533ce5af63c51]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2018/1122/regulation/10) heading substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0b979b47e7b6c98676533ce5af63c51]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2018/1122/regulation/10) heading substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23424241]: Marginal citation: [S.I. 2015/430](https://www.legislation.gov.uk/uksi/2015/430), amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 

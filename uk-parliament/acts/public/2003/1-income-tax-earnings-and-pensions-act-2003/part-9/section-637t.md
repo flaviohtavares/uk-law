@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 637T. Availability of individual’s lump sum and death benefit allowance where multiple lump sum death benefits paid[^key-0fadf4baacf84f1264e7f42fd3f6ca9a][^key-6be4124b2f1df8632032e7a5a157c7d3]
+## 637T. Availability of individual’s lump sum and death benefit allowance where multiple lump sum death benefits paid[^c-0fadf4baacf84f1264e7f42fd3f6ca9a][^c-6be4124b2f1df8632032e7a5a157c7d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) immediately before the individual’s death, and
 - (b) immediately after any pension commencement lump sum to which the individual becomes entitled immediately before death by virtue of section 166(2) of FA 2004 (lump sum rule).
 
-(3)[^key-34c0625888196eff1b8ea9e01c6a7506] The amount of the individual’s lump sum and death benefit allowance that is available on the occurrence of any of the relevant benefit crystallisation events mentioned in subsection (1) is the relevant proportion of the undivided available amount.
+(3)[^c-34c0625888196eff1b8ea9e01c6a7506] The amount of the individual’s lump sum and death benefit allowance that is available on the occurrence of any of the relevant benefit crystallisation events mentioned in subsection (1) is the relevant proportion of the undivided available amount.
 
 (3A) In subsection (3), “**the undivided available amount**” means the amount of the individual’s lump sum and death benefit allowance that would, apart from that subsection (but after taking into account subsection (2)), be available on the occurrence of the relevant benefit crystallisation event in question.
 
@@ -40,7 +40,7 @@ where—
 - A is the amount of the lump sum death benefit the payment of which constitutes the relevant benefit crystallisation event in question;
 - B is the aggregate of the amounts of each lump sum death benefit the payment of which constitutes a relevant benefit crystallisation event mentioned in subsection (1).
 
-(5)[^key-58da16702709ab24c3777b72d6749330] Where any inheritance tax is attributable to the value of the individual’s notional pension property, references in subsection (4) to the amount of a lump sum death benefit are to its IHT-adjusted amount.
+(5)[^c-58da16702709ab24c3777b72d6749330] Where any inheritance tax is attributable to the value of the individual’s notional pension property, references in subsection (4) to the amount of a lump sum death benefit are to its IHT-adjusted amount.
 
 (6) The “IHT-adjusted amount” of a lump sum death benefit paid to a person under a registered pension scheme is (subject to subsection (7)) the amount determined as follows —
 
@@ -77,10 +77,10 @@ where—
 
 ## Annotations
 
-[^key-0fadf4baacf84f1264e7f42fd3f6ca9a]: Textual amendment: S. 637T inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/3/7)
+[^c-0fadf4baacf84f1264e7f42fd3f6ca9a]: Textual amendment: S. 637T inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/3/7)
 
-[^key-6be4124b2f1df8632032e7a5a157c7d3]: Textual amendment: Words in s. 637T heading substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [2(5)(a)](https://www.legislation.gov.uk/uksi/2026/698/regulation/2/5/a)
+[^c-6be4124b2f1df8632032e7a5a157c7d3]: Textual amendment: Words in s. 637T heading substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [2(5)(a)](https://www.legislation.gov.uk/uksi/2026/698/regulation/2/5/a)
 
-[^key-34c0625888196eff1b8ea9e01c6a7506]: Textual amendment: S. 637T(3)(3A) substituted for s. 637T(3) (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [2(5)(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/2/5/b)
+[^c-34c0625888196eff1b8ea9e01c6a7506]: Textual amendment: S. 637T(3)(3A) substituted for s. 637T(3) (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [2(5)(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/2/5/b)
 
-[^key-58da16702709ab24c3777b72d6749330]: Textual amendment: S. 637T(5)-(8) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/5), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-58da16702709ab24c3777b72d6749330]: Textual amendment: S. 637T(5)-(8) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/5), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

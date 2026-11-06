@@ -24,7 +24,7 @@ Section 58
 
 ### PART 1 — Write-down orders: main provisions
 
-**1.**[^key-6dfcd88f5793cb5a13735d2535c65985] (1) Part 24 of FSMA 2000 (insolvency) is amended as follows.
+**1.**[^c-6dfcd88f5793cb5a13735d2535c65985] (1) Part 24 of FSMA 2000 (insolvency) is amended as follows.
 
 (2) In section 360 (application of Part 2 of 1986 Act or Part 3 of 1989 Order (administration) to insurers), at the end insert—
 
@@ -257,7 +257,7 @@ Section 58
 
 ### PART 2 — The manager of a write-down order
 
-**2.**[^key-7c5c767a6398462ed525a8c2383e9aa4] After Schedule 19 to FSMA 2000 (competition information), insert—
+**2.**[^c-7c5c767a6398462ed525a8c2383e9aa4] After Schedule 19 to FSMA 2000 (competition information), insert—
 
 > **SCHEDULE 19A — The manager of a write-down order**
 >
@@ -370,7 +370,7 @@ Section 58
 
 ### PART 3 — Further provision about write-down orders
 
-**3.**[^key-eb15cd2ac5e8abcd292f8f628620bfd7] After Schedule 19A to FSMA 2000 (the manager of a write-down order), inserted by Part 2 of this Schedule, insert—
+**3.**[^c-eb15cd2ac5e8abcd292f8f628620bfd7] After Schedule 19A to FSMA 2000 (the manager of a write-down order), inserted by Part 2 of this Schedule, insert—
 
 > **SCHEDULE 19B — Further provision about write-down orders**
 >
@@ -526,9 +526,9 @@ Section 58
 
 ### PART 4 — Write-down orders: financial services compensation scheme
 
-**4.**[^key-1d2fa67a16a01fb1bd61d2851ceb194a] Part 15 of FSMA 2000 (the Financial Services Compensation Scheme) is amended as follows.
+**4.**[^c-1d2fa67a16a01fb1bd61d2851ceb194a] Part 15 of FSMA 2000 (the Financial Services Compensation Scheme) is amended as follows.
 
-**5.**[^key-5938bc088108149a656d0b3fcfd84574] After section 217 (insurers in financial difficulties) insert—
+**5.**[^c-5938bc088108149a656d0b3fcfd84574] After section 217 (insurers in financial difficulties) insert—
 
 > **217ZA. Insurers subject to write-down orders**
 >
@@ -567,13 +567,13 @@ Section 58
 >
 > (5) In subsection (4), “**relevant insolvency provision**” has the same meaning as in paragraph 9 of Schedule 19B (treatment of written-down liabilities for purposes of relevant insolvency provisions).
 
-**6.**[^key-e4370fa915d04d0363e19dfd3d91db8c] In section 219 (scheme manager’s power to require information), in subsection (1A), after paragraph (b) insert—
+**6.**[^c-e4370fa915d04d0363e19dfd3d91db8c] In section 219 (scheme manager’s power to require information), in subsection (1A), after paragraph (b) insert—
 
 > - (ba) on a person (P) who is an insurer who has been given financial assistance under section 217ZA,
 
 .
 
-**7.**[^key-6b182bc93485c7fed21e92543a9fcc55] After section 220 (scheme manager’s power to inspect information held by liquidator etc), insert—
+**7.**[^c-6b182bc93485c7fed21e92543a9fcc55] After section 220 (scheme manager’s power to inspect information held by liquidator etc), insert—
 
 > **220A. Power to inspect information held by write-down manager**
 >
@@ -585,11 +585,11 @@ Section 58
 
 ### PART 5 — Consequential amendments
 
-#### 8. FSMA 2000[^key-08fb4f7ef09d0f132e816805c0dca4c2]
+#### 8. FSMA 2000[^c-08fb4f7ef09d0f132e816805c0dca4c2]
 
 FSMA 2000 is amended as follows.
 
-**9.**[^key-4d572ee9adc6d954456b272682284701] (1) Section 348 (restrictions on disclosure of confidential information by FCA, PRA etc) is amended as follows.
+**9.**[^c-4d572ee9adc6d954456b272682284701] (1) Section 348 (restrictions on disclosure of confidential information by FCA, PRA etc) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -601,15 +601,15 @@ FSMA 2000 is amended as follows.
 
 .
 
-**10.**[^key-9db20c37be9098e3c7e4676aa053707d] In section 429 (Parliamentary control of statutory instruments), in subsection (2B), after paragraph (c) insert—
+**10.**[^c-9db20c37be9098e3c7e4676aa053707d] In section 429 (Parliamentary control of statutory instruments), in subsection (2B), after paragraph (c) insert—
 
 > - (d) provision made under paragraph 3(4) or 9(3) of Schedule 19B;
 
 .
 
-**11.**[^key-c8b01ca6868168bede1fbe779b131ec1] In Schedule 1ZB (the PRA), in paragraph 33(2) (exemption from liability in damages), for “and 284” insert “, 284 and 377G”.
+**11.**[^c-c8b01ca6868168bede1fbe779b131ec1] In Schedule 1ZB (the PRA), in paragraph 33(2) (exemption from liability in damages), for “and 284” insert “, 284 and 377G”.
 
-#### 12. Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-a7e3a98f0a998ec5afb57b0a99e5b54b]
+#### 12. Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-a7e3a98f0a998ec5afb57b0a99e5b54b]
 
 In Part 1 of Schedule 1 to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 ([S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188)) (disclosure of confidential information whether or not subject to retained EU law restrictions), at the end of the table insert—
 
@@ -621,26 +621,26 @@ In Part 1 of Schedule 1 to the Financial Services and Markets Act 2000 (Disclosu
 
 ## Annotations
 
-[^key-6dfcd88f5793cb5a13735d2535c65985]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-6dfcd88f5793cb5a13735d2535c65985]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-7c5c767a6398462ed525a8c2383e9aa4]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/2) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-7c5c767a6398462ed525a8c2383e9aa4]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/2) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-eb15cd2ac5e8abcd292f8f628620bfd7]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/3) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-eb15cd2ac5e8abcd292f8f628620bfd7]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/3) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-1d2fa67a16a01fb1bd61d2851ceb194a]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/4) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-1d2fa67a16a01fb1bd61d2851ceb194a]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/4) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-5938bc088108149a656d0b3fcfd84574]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/5) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-5938bc088108149a656d0b3fcfd84574]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/5) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-e4370fa915d04d0363e19dfd3d91db8c]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/6) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-e4370fa915d04d0363e19dfd3d91db8c]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/6) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-6b182bc93485c7fed21e92543a9fcc55]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/7) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-6b182bc93485c7fed21e92543a9fcc55]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/7) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-08fb4f7ef09d0f132e816805c0dca4c2]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/8) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-08fb4f7ef09d0f132e816805c0dca4c2]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/8) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-4d572ee9adc6d954456b272682284701]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/9) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-4d572ee9adc6d954456b272682284701]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/9) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-9db20c37be9098e3c7e4676aa053707d]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/10) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-9db20c37be9098e3c7e4676aa053707d]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/10) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-c8b01ca6868168bede1fbe779b131ec1]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/11) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-c8b01ca6868168bede1fbe779b131ec1]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/11) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-a7e3a98f0a998ec5afb57b0a99e5b54b]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/12) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-a7e3a98f0a998ec5afb57b0a99e5b54b]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/12) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)

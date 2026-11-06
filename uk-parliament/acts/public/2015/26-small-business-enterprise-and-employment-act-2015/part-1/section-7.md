@@ -41,7 +41,7 @@ Regulations under those sections may make further provision for the purposes of 
   - (c) provides, arranges or facilitates invoice discounting or factoring in the course of a business,
 
   and regulations under sections 4 and 5 may make further provision for the purpose of determining which finance providers they apply to;
-- “[^key-e917881348906817459a8c8cac7865f7]**public authority**” means—
+- “[^c-e917881348906817459a8c8cac7865f7]**public authority**” means—
   - (a) a public authority within the meaning of the Freedom of Information Act 2000 (see section 3 of that Act), or
   - (b) the Advanced Research and Invention Agency;
 - “**regulated activities**” has the same meaning as in the Financial Services and Markets Act 2000 (see section 22 of that Act);
@@ -55,4 +55,4 @@ Regulations under those sections may make further provision for the purposes of 
 
 ## Annotations
 
-[^key-e917881348906817459a8c8cac7865f7]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/7/2) substituted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/8); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)
+[^c-e917881348906817459a8c8cac7865f7]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/7/2) substituted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/8); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)

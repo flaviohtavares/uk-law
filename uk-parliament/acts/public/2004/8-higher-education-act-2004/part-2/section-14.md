@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Duties of designated operator[^key-351160b92962cf4c55fd3d218501cb67][^key-566090c85778e92a8099937673686ed5]
+## 14. Duties of designated operator[^c-351160b92962cf4c55fd3d218501cb67][^c-566090c85778e92a8099937673686ed5]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The designated operator must comply with the duties set out in Schedule 3 during
 
 ## Annotations
 
-[^key-351160b92962cf4c55fd3d218501cb67]: Commencement: S. 14 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-351160b92962cf4c55fd3d218501cb67]: Commencement: S. 14 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-566090c85778e92a8099937673686ed5]: Commencement: S. 14 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)
+[^c-566090c85778e92a8099937673686ed5]: Commencement: S. 14 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)

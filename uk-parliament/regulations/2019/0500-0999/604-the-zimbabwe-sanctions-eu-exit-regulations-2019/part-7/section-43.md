@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Finance: information offences[^key-025b73e3ed4f4b08206fc6314cf5d6a3][^key-d6b01edeb47d229fe6c7d25a3371097d]
+## 43. Finance: information offences[^c-025b73e3ed4f4b08206fc6314cf5d6a3][^c-d6b01edeb47d229fe6c7d25a3371097d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-025b73e3ed4f4b08206fc6314cf5d6a3]: Commencement: Reg. 43 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-025b73e3ed4f4b08206fc6314cf5d6a3]: Commencement: Reg. 43 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-d6b01edeb47d229fe6c7d25a3371097d]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6b01edeb47d229fe6c7d25a3371097d]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Former providers of regulated services[^key-819d2fc36e9183b1dc935ac658ab358d][^key-d4c19a944e489bf967a410e2e05cf58e]
+## 198. Former providers of regulated services[^c-819d2fc36e9183b1dc935ac658ab358d][^c-d4c19a944e489bf967a410e2e05cf58e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-819d2fc36e9183b1dc935ac658ab358d]: Commencement: S. 198 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-819d2fc36e9183b1dc935ac658ab358d]: Commencement: S. 198 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-d4c19a944e489bf967a410e2e05cf58e]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2023/50/section/198) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)
+[^c-d4c19a944e489bf967a410e2e05cf58e]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2023/50/section/198) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)

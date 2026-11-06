@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, application and commencement[^key-60cca79ea70acbc2bd1e0e63865edccb]
+## 1. Title, application and commencement[^c-60cca79ea70acbc2bd1e0e63865edccb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Transmissible Spongiform Encephalopathies 
 
 ## Annotations
 
-[^key-60cca79ea70acbc2bd1e0e63865edccb]: Commencement: Reg. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-60cca79ea70acbc2bd1e0e63865edccb]: Commencement: Reg. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

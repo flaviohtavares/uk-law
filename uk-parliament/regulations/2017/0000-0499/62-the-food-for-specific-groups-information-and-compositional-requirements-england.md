@@ -95,7 +95,7 @@ Schedule 2 (modification of provisions of the Act) to the 2016 Regulations is am
 
     .
 
-## 4. Amendment of Schedule 3 to the 2016 Regulations[^key-b022886f14b5a28a8a23ec65452ea373]
+## 4. Amendment of Schedule 3 to the 2016 Regulations[^c-b022886f14b5a28a8a23ec65452ea373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -135,6 +135,6 @@ These Regulations make minor amendments to correct typographical errors in the 2
 
 [^c22988001]: Marginal citation: [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688).
 
-[^key-b022886f14b5a28a8a23ec65452ea373]: Textual amendment: Reg. 4 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/43/regulation/9)
+[^c-b022886f14b5a28a8a23ec65452ea373]: Textual amendment: Reg. 4 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/43/regulation/9)
 
 [^c22988061]: Marginal citation: [S.I. 2009/665](https://www.legislation.gov.uk/uksi/2009/665) amended by [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688).

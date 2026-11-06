@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43B. Penalty notices: power to require name and address[^key-6a81ad6375034a569cea33255c6106e8]
+## 43B. Penalty notices: power to require name and address[^c-6a81ad6375034a569cea33255c6106e8]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a81ad6375034a569cea33255c6106e8]: Textual amendment: S. 43B inserted (6.4.2006 for E. and 15.3.2007 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 29](https://www.legislation.gov.uk/ukpga/2005/16/section/29), [108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1), [108(2)(d)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); S.I. 2006/2797, art. 4(n)
+[^c-6a81ad6375034a569cea33255c6106e8]: Textual amendment: S. 43B inserted (6.4.2006 for E. and 15.3.2007 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 29](https://www.legislation.gov.uk/ukpga/2005/16/section/29), [108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1), [108(2)(d)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); S.I. 2006/2797, art. 4(n)

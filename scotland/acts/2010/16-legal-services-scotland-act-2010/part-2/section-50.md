@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Key duties[^key-f89b77561e0ea7197f783be6c2545f16]
+## 50. Key duties[^c-f89b77561e0ea7197f783be6c2545f16]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ complies with the code of conduct.
 
 ## Annotations
 
-[^key-f89b77561e0ea7197f783be6c2545f16]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/16/section/50) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-f89b77561e0ea7197f783be6c2545f16]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/16/section/50) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

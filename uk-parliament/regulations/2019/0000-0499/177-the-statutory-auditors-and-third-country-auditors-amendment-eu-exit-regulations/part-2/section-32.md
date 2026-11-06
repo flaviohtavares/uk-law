@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32.[^key-daa6fa930aeadd1094754c6dd3c95d49]
+## 32.[^c-daa6fa930aeadd1094754c6dd3c95d49]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ In paragraph 20A (interpretation) [^c23586691]—
   - (ii) in paragraph (b), for “other than one listed in Article 2 of Directive 2013/36/EU of the European Parliament and of the Council on access to the activity of credit institutions and investment firms” substitute “ which is a CRR firm within the meaning of Article 4(1)(2A) of that Regulation ”;
   - (iii) for paragraph (c), substitute—
 
-    > - (c) a person who would be an insurance undertaking as defined in Article 2(1) of Council Directive [91/674/EEC](https://www.legislation.gov.uk/eudr/1991/674) of 19 December 1991 of the European Parliament and of the Council on the annual accounts and consolidated accounts of insurance undertakings as that Article had effect immediately before IP completion day[^key-f7f9af5ea9a3cdff894e71a872633168], were the United Kingdom a member State;
+    > - (c) a person who would be an insurance undertaking as defined in Article 2(1) of Council Directive [91/674/EEC](https://www.legislation.gov.uk/eudr/1991/674) of 19 December 1991 of the European Parliament and of the Council on the annual accounts and consolidated accounts of insurance undertakings as that Article had effect immediately before IP completion day[^c-f7f9af5ea9a3cdff894e71a872633168], were the United Kingdom a member State;
 
     .
 - (e) omit the definition of “regulated market”;
@@ -57,10 +57,10 @@ In paragraph 20A (interpretation) [^c23586691]—
 
 ## Annotations
 
-[^key-daa6fa930aeadd1094754c6dd3c95d49]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-daa6fa930aeadd1094754c6dd3c95d49]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586691]: Marginal citation: Paragraph 20A was inserted by paragraph 71 of Schedule 3 to [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649).
 
-[^key-f7f9af5ea9a3cdff894e71a872633168]: Textual amendment: Words in reg. 32(d)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(h)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/h)
+[^c-f7f9af5ea9a3cdff894e71a872633168]: Textual amendment: Words in reg. 32(d)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(h)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/h)
 
 [^c23586701]: Marginal citation: The definition of “transferable securities” was amended by paragraph 9(9) of Schedule 4 to [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).

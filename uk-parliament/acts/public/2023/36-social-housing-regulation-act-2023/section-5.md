@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Relationship between regulator and housing ombudsman[^key-49b7ea74e3a3c762cf29cb39c802f104][^key-584ea61df817e925d2b964ac75ee6efc]
+## 5. Relationship between regulator and housing ombudsman[^c-49b7ea74e3a3c762cf29cb39c802f104][^c-584ea61df817e925d2b964ac75ee6efc]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49b7ea74e3a3c762cf29cb39c802f104]: Commencement: S. 5 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-49b7ea74e3a3c762cf29cb39c802f104]: Commencement: S. 5 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-584ea61df817e925d2b964ac75ee6efc]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/36/section/5) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/d)
+[^c-584ea61df817e925d2b964ac75ee6efc]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/36/section/5) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/d)

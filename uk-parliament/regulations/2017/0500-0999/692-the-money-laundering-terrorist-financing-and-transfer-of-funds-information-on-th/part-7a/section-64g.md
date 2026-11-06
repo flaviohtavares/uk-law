@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64G. Requesting information: unhosted wallet transfers and cryptoasset businesses[^key-925bf4af81ae826d96e80339ef17e366]
+## 64G. Requesting information: unhosted wallet transfers and cryptoasset businesses[^c-925bf4af81ae826d96e80339ef17e366]
 
 *Extent: E+W+S+N.I.*
 
 (1) A cryptoasset business involved in an unhosted wallet transfer may request from its customer (whether the originator or the beneficiary)—
 
 - (a) such information specified in regulation 64C(5) as it does not already hold; and
-- (b) where the unhosted wallet transfer is equal to or exceeds the equivalent in cryptoassets of £800[^key-08b532bdefc1103936122023b4e51795] in value (taken together with any other cryptoasset transfer which appears to be linked), and where its customer is the beneficiary, the information specified in regulation 64C(6) in respect of the originator.
+- (b) where the unhosted wallet transfer is equal to or exceeds the equivalent in cryptoassets of £800[^c-08b532bdefc1103936122023b4e51795] in value (taken together with any other cryptoasset transfer which appears to be linked), and where its customer is the beneficiary, the information specified in regulation 64C(6) in respect of the originator.
 
 (2) In determining under paragraph (1) whether to request information from its customer, the cryptoasset business must have regard to—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)
+[^c-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)
 
-[^key-08b532bdefc1103936122023b4e51795]: Textual amendment: Sum in [reg. 64G(1)(b)](https://www.legislation.gov.uk/uksi/2017/692/regulation/64G/1/b) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2026/621/regulation/33)
+[^c-08b532bdefc1103936122023b4e51795]: Textual amendment: Sum in [reg. 64G(1)(b)](https://www.legislation.gov.uk/uksi/2017/692/regulation/64G/1/b) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2026/621/regulation/33)

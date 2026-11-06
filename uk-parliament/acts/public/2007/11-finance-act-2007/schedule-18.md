@@ -165,7 +165,7 @@ Section 68
 - (a) in the case of a policy of insurance within sub-paragraph (3), is 20th March 2007, and
 - (b) in the case of a policy of insurance within sub-paragraph (4), is the time when it became a protected policy.
 
-(7) A variation of the terms of a policy made in order to comply with the Equality Act 2010, so far as relating to age, *(Extent: E+W+S)*[^key-89da9a44a827cfa4829ee54fe5ffcc86] or Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261) (or any regulations amending or replacing those Regulations *(Extent: E+W+S)*[^key-0ff52de27d7a18d7adb44acf068d0676]) is to be ignored for the purposes of sub-paragraph (5).
+(7) A variation of the terms of a policy made in order to comply with the Equality Act 2010, so far as relating to age, *(Extent: E+W+S)*[^c-89da9a44a827cfa4829ee54fe5ffcc86] or Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261) (or any regulations amending or replacing those Regulations *(Extent: E+W+S)*[^c-0ff52de27d7a18d7adb44acf068d0676]) is to be ignored for the purposes of sub-paragraph (5).
 
 ### Power to amend commencement provisions
 
@@ -175,6 +175,6 @@ Section 68
 
 ## Annotations
 
-[^key-89da9a44a827cfa4829ee54fe5ffcc86]: Textual amendment: Words in Sch. 18 para. 7(7) substituted by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15) Sch. 26 para. 95(a) (as inserted (E.W.S.) (1.10.2010) by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (with [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
+[^c-89da9a44a827cfa4829ee54fe5ffcc86]: Textual amendment: Words in Sch. 18 para. 7(7) substituted by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15) Sch. 26 para. 95(a) (as inserted (E.W.S.) (1.10.2010) by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (with [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
 
-[^key-0ff52de27d7a18d7adb44acf068d0676]: Textual amendment: Words in Sch. 18 para. 7(7) substituted by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15) Sch. 26 para. 95(b) (as inserted (E.W.S.) (1.10.2010) by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (with [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
+[^c-0ff52de27d7a18d7adb44acf068d0676]: Textual amendment: Words in Sch. 18 para. 7(7) substituted by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15) Sch. 26 para. 95(b) (as inserted (E.W.S.) (1.10.2010) by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (with [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## H8. Policy schemes[^key-14557d09b6313b9a795c9be744866056]
+## H8. Policy schemes[^c-14557d09b6313b9a795c9be744866056]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any agreement or trust deed which immediately before 1st March 1986 had effect a
 
 ## Annotations
 
-[^key-14557d09b6313b9a795c9be744866056]: Commencement: [Reg. H8](https://www.legislation.gov.uk/uksi/1986/24/regulation/H8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-14557d09b6313b9a795c9be744866056]: Commencement: [Reg. H8](https://www.legislation.gov.uk/uksi/1986/24/regulation/H8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

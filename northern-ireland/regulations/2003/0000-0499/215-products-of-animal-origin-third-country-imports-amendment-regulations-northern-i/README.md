@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-f8505b098b592c21ab130764170ccfd1]
+Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-f8505b098b592c21ab130764170ccfd1]
 
 Made
 
@@ -43,7 +43,7 @@ Coming into operation
 
 3rd April 2003
 
-[^key-f8505b098b592c21ab130764170ccfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8505b098b592c21ab130764170ccfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -56,12 +56,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-f8505b098b592c21ab130764170ccfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8505b098b592c21ab130764170ccfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-f8505b098b592c21ab130764170ccfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8505b098b592c21ab130764170ccfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8505b098b592c21ab130764170ccfd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/215) revoked (6.12.2004) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004 (S.R. 2004/464)](https://www.legislation.gov.uk/nisr/2004/464), [regs. 1](https://www.legislation.gov.uk/nisr/2004/464/regulation/1), [66](https://www.legislation.gov.uk/nisr/2004/464/regulation/66)
+[^c-f8505b098b592c21ab130764170ccfd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/215) revoked (6.12.2004) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004 (S.R. 2004/464)](https://www.legislation.gov.uk/nisr/2004/464), [regs. 1](https://www.legislation.gov.uk/nisr/2004/464/regulation/1), [66](https://www.legislation.gov.uk/nisr/2004/464/regulation/66)

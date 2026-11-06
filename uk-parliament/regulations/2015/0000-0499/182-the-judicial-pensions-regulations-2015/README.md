@@ -46,7 +46,7 @@ In accordance with section 3(5) of that Act, these Regulations are made with the
 
 The Lord Chancellor has had regard to the matters referred to in section 5(3) of the Public Service Pensions Act 2013.
 
-A draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with section 24(1)(c) of the Public Service Pensions Act 2013.[^key-4f7e2d45b3e3b10c3edbb84561ca8cae][^key-215267f898bfa182b3ba8ddc05e013a9][^key-e9650f0ce3735f8ec720eb104a7d3a07]
+A draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with section 24(1)(c) of the Public Service Pensions Act 2013.[^c-4f7e2d45b3e3b10c3edbb84561ca8cae][^c-215267f898bfa182b3ba8ddc05e013a9][^c-e9650f0ce3735f8ec720eb104a7d3a07]
 
 ## Contents
 
@@ -514,8 +514,8 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00004]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-4f7e2d45b3e3b10c3edbb84561ca8cae]: Modification: Regulations modified (1.4.2017) by [The Judicial Pensions (Fee-Paid Judges) Regulations 2017 (S.I. 2017/522)](https://www.legislation.gov.uk/uksi/2017/522), [reg. 49(5)](https://www.legislation.gov.uk/uksi/2017/522/regulation/49/5)
+[^c-4f7e2d45b3e3b10c3edbb84561ca8cae]: Modification: Regulations modified (1.4.2017) by [The Judicial Pensions (Fee-Paid Judges) Regulations 2017 (S.I. 2017/522)](https://www.legislation.gov.uk/uksi/2017/522), [reg. 49(5)](https://www.legislation.gov.uk/uksi/2017/522/regulation/49/5)
 
-[^key-215267f898bfa182b3ba8ddc05e013a9]: Modification: Regulations modified (temp.) (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2017/508/regulation/2/4)
+[^c-215267f898bfa182b3ba8ddc05e013a9]: Modification: Regulations modified (temp.) (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2017/508/regulation/2/4)
 
-[^key-e9650f0ce3735f8ec720eb104a7d3a07]: Modification: Regulations restricted (10.3.2022 for specified purposes and 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [91](https://www.legislation.gov.uk/ukpga/2022/7/section/91), [131(1)(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/2/f)
+[^c-e9650f0ce3735f8ec720eb104a7d3a07]: Modification: Regulations restricted (10.3.2022 for specified purposes and 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [91](https://www.legislation.gov.uk/ukpga/2022/7/section/91), [131(1)(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/2/f)

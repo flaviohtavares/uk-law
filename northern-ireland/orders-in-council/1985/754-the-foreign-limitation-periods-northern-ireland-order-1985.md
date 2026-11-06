@@ -58,7 +58,7 @@ The Foreign Limitation Periods (Northern Ireland) Order 1985
 
 (1) Subject to the following provisions of this Order, where in any action or proceedings in a court in Northern Ireland the law of any other country falls (in accordance with rules of private international law applicable by any such court) to be taken into account in the determination of any matter—
 
-- (a) the law of that other country relating to limitation shall apply in respect of that matter for the purposes of the action or proceedings , subject to Article 3A[^key-c5f000d9f5d4541da9ad3f4e433f1a54] ; and
+- (a) the law of that other country relating to limitation shall apply in respect of that matter for the purposes of the action or proceedings , subject to Article 3A[^c-c5f000d9f5d4541da9ad3f4e433f1a54] ; and
 - (b) except where that matter falls within paragraph (2), the law of Northern Ireland relating to limitation shall not so apply.
 
 (2) A matter falls within this paragraph if it is a matter in the determination of which both the law of Northern Ireland and the law of some other country fall to be taken into account.
@@ -69,7 +69,7 @@ The Foreign Limitation Periods (Northern Ireland) Order 1985
 
 (5) In this Article “law”, in relation to any country, shall not include rules of private international law applicable by the courts of that country, or in the case of Northern Ireland, this Order.
 
-## 3A. Overseas armed forces actions: restriction of foreign limitation law[^key-2f5f58565407fd2312ad32257fb55c36]
+## 3A. Overseas armed forces actions: restriction of foreign limitation law[^c-2f5f58565407fd2312ad32257fb55c36]
 
 (1) Paragraph (3) applies where—
 
@@ -125,7 +125,7 @@ the reference to the period of 6 years is to be treated as a reference to the pe
 
 Where a court in any country outside Northern Ireland has determined any matter wholly or partly by reference to the law of that or any other country (including Northern Ireland) relating to limitation, then, for the purposes of the law relating to the effect to be given in Northern Ireland to that determination, that court shall, to the extent that it has so determined the matter, be deemed to have determined it on its merits.
 
-## 5A. Actions relating to the Northern Ireland Troubles[^key-88f1f69de70535b188dae743d5ee50bd]
+## 5A. Actions relating to the Northern Ireland Troubles[^c-88f1f69de70535b188dae743d5ee50bd]
 
 This Order has effect subject to section 43 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
 
@@ -141,15 +141,15 @@ This Order applies in relation to any action or proceedings by or against the Cr
 
 (2) Nothing in this Order shall apply in relation to any matter if the limitation period which, apart from this Order, would have been applied in respect of that matter in Northern Ireland expired before the commencement of this Order.
 
-(3)[^key-5801e0aa0ebd2d7c2e982828925d3a82] Article 3A (overseas armed forces actions: restriction of foreign limitation law) applies to an action commenced in Northern Ireland on or after the date on which that Article comes into force, whenever the events to which the action relates took place.
+(3)[^c-5801e0aa0ebd2d7c2e982828925d3a82] Article 3A (overseas armed forces actions: restriction of foreign limitation law) applies to an action commenced in Northern Ireland on or after the date on which that Article comes into force, whenever the events to which the action relates took place.
 
 ## 9. Disapplication where the law applicable to limitation is determined by other instruments[^c2108538][^c2135199]
 
-(1) Where in proceedings in Northern Ireland the law of a country other than Northern Ireland falls to be taken into account in the determination of any matter by virtue of any choice of law rule contained in the Rome I Regulation[^c2135201] the Rome II Regulation, Article 2 (3), (4) and (5) and Articles 3 , 3A[^key-0c8ed51a65791aa69ad7b956412c0337] and 4 above shall not apply in respect of that matter.
+(1) Where in proceedings in Northern Ireland the law of a country other than Northern Ireland falls to be taken into account in the determination of any matter by virtue of any choice of law rule contained in the Rome I Regulation[^c2135201] the Rome II Regulation, Article 2 (3), (4) and (5) and Articles 3 , 3A[^c-0c8ed51a65791aa69ad7b956412c0337] and 4 above shall not apply in respect of that matter.
 
-(1A)[^key-b7631cd6ae786417bb449ecf00e51056] In paragraph (1) the “Rome I Regulation” means Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) of the European Parliament and of the Council on the law applicable to contractual obligations as that Regulation has effect as assimilated direct[^key-5200ed15e87156adb7960962ee381ba2] legislation (including that Regulation as applied by regulation 5 of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009), unless the proceedings are ones in respect of which Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
+(1A)[^c-b7631cd6ae786417bb449ecf00e51056] In paragraph (1) the “Rome I Regulation” means Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) of the European Parliament and of the Council on the law applicable to contractual obligations as that Regulation has effect as assimilated direct[^c-5200ed15e87156adb7960962ee381ba2] legislation (including that Regulation as applied by regulation 5 of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009), unless the proceedings are ones in respect of which Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
 
-(2) In paragraph (1) the “Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations as that Regulation has effect as assimilated direct[^key-5956c353c61182b2481625dc67c7692b] legislation (including that Regulation as applied by regulation 6 of the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008), unless the proceedings are ones in respect of which Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
+(2) In paragraph (1) the “Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations as that Regulation has effect as assimilated direct[^c-5956c353c61182b2481625dc67c7692b] legislation (including that Regulation as applied by regulation 6 of the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008), unless the proceedings are ones in respect of which Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
 
 ## Annotations
 
@@ -157,17 +157,17 @@ This Order applies in relation to any action or proceedings by or against the Cr
 
 [^c546922]: Textual amendment: [1989 NI 11](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-c5f000d9f5d4541da9ad3f4e433f1a54]: Textual amendment: Words in art. 3(1)(a) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-c5f000d9f5d4541da9ad3f4e433f1a54]: Textual amendment: Words in art. 3(1)(a) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c546924]: Textual amendment: [1989 NI 11](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-2f5f58565407fd2312ad32257fb55c36]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1985/754/article/3A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/3); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-2f5f58565407fd2312ad32257fb55c36]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1985/754/article/3A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/3); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^m00002]: Marginal citation: 1945 c. 16 (8 & 9 Geo. 6)
 
-[^key-88f1f69de70535b188dae743d5ee50bd]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisi/1985/754/article/5A) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/15) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-88f1f69de70535b188dae743d5ee50bd]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisi/1985/754/article/5A) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/15) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
-[^key-5801e0aa0ebd2d7c2e982828925d3a82]: Textual amendment: Art. 8(3) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/4); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-5801e0aa0ebd2d7c2e982828925d3a82]: Textual amendment: Art. 8(3) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/4); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c2108538]: Textual amendment: Art. 9 inserted (11.1.2009) by Law Applicable to Non-[Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008 (S.I. 2008/2986)](https://www.legislation.gov.uk/uksi/2008/2986), [reg. 5](https://www.legislation.gov.uk/uksi/2008/2986/regulation/5)
 
@@ -175,10 +175,10 @@ This Order applies in relation to any action or proceedings by or against the Cr
 
 [^c2135201]: Textual amendment: Words in art. 9(1) inserted (17.12.2009) by Law Applicable to [Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009 (S.I. 2009/3064)](https://www.legislation.gov.uk/uksi/2009/3064), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/3064/regulation/4/3)
 
-[^key-0c8ed51a65791aa69ad7b956412c0337]: Textual amendment: Word in art. 9(1) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(5)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/5); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-0c8ed51a65791aa69ad7b956412c0337]: Textual amendment: Word in art. 9(1) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 2(5)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2/5); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-b7631cd6ae786417bb449ecf00e51056]: Textual amendment: Art. 9(1A)(2) substituted (31.12.2020) by S.I. 2019/834, reg. 4B (as inserted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/6))
+[^c-b7631cd6ae786417bb449ecf00e51056]: Textual amendment: Art. 9(1A)(2) substituted (31.12.2020) by S.I. 2019/834, reg. 4B (as inserted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/6))
 
-[^key-5200ed15e87156adb7960962ee381ba2]: Textual amendment: Words in [art. 9(1A)](https://www.legislation.gov.uk/nisi/1985/754/article/9/1A) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/18/2)
+[^c-5200ed15e87156adb7960962ee381ba2]: Textual amendment: Words in [art. 9(1A)](https://www.legislation.gov.uk/nisi/1985/754/article/9/1A) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/18/2)
 
-[^key-5956c353c61182b2481625dc67c7692b]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/nisi/1985/754/article/9/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 18(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/18/3)
+[^c-5956c353c61182b2481625dc67c7692b]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/nisi/1985/754/article/9/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 18(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/18/3)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE — Substituted Schedule 2 to the Companies Act 2006[^key-b75a67b11791faa71ded6f6526f45cfc]
+## SCHEDULE — Substituted Schedule 2 to the Companies Act 2006[^c-b75a67b11791faa71ded6f6526f45cfc]
 
 *Extent: E+W+S+N.I.*
 
 Article 2
 
-### PART 1 — SPECIFIED PERSONS[^key-a9fd55d6bda264c87a0de00d0dbf42a9]
+### PART 1 — SPECIFIED PERSONS[^c-a9fd55d6bda264c87a0de00d0dbf42a9]
 
 #### (A) UNITED KINGDOM
 
@@ -98,7 +98,7 @@ Article 2
 
 **5.** A constable (within the meaning of the Interpretation Act 1976 (an Act of Tynwald: c. 11): see section 3 of that Act).
 
-### PART 2 — SPECIFIED DESCRIPTIONS OF DISCLOSURES[^key-9b8953ef80ba6bed7c2f568bc5918b7b]
+### PART 2 — SPECIFIED DESCRIPTIONS OF DISCLOSURES[^c-9b8953ef80ba6bed7c2f568bc5918b7b]
 
 #### (A) UNITED KINGDOM
 
@@ -424,9 +424,9 @@ to exercise its functions.
 
 **4.** A disclosure for the purpose of the provision of a summary or collection of information framed in such a way as not to enable the identity of any person to whom the information relates to be ascertained.
 
-**5.** A disclosure in pursuance of any EU[^key-876ceaa8305dae90c45ccb0b8816189e] obligation.
+**5.** A disclosure in pursuance of any EU[^c-876ceaa8305dae90c45ccb0b8816189e] obligation.
 
-### PART 3 — OVERSEAS REGULATORY BODIES[^key-08115b7c782780d9f2105a6a6ebfa466]
+### PART 3 — OVERSEAS REGULATORY BODIES[^c-08115b7c782780d9f2105a6a6ebfa466]
 
 **1.** (1) A disclosure is made in accordance with this Part of this Schedule if—
 
@@ -444,12 +444,12 @@ to exercise its functions.
 
 ## Annotations
 
-[^key-b75a67b11791faa71ded6f6526f45cfc]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/1208/schedule) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+[^c-b75a67b11791faa71ded6f6526f45cfc]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/1208/schedule) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
 
-[^key-a9fd55d6bda264c87a0de00d0dbf42a9]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/1) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+[^c-a9fd55d6bda264c87a0de00d0dbf42a9]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/1) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
 
-[^key-9b8953ef80ba6bed7c2f568bc5918b7b]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/2) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+[^c-9b8953ef80ba6bed7c2f568bc5918b7b]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/2) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
 
-[^key-876ceaa8305dae90c45ccb0b8816189e]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-876ceaa8305dae90c45ccb0b8816189e]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-08115b7c782780d9f2105a6a6ebfa466]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/3) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+[^c-08115b7c782780d9f2105a6a6ebfa466]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/3) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)

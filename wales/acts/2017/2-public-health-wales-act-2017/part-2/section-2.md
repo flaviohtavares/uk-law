@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. National strategy on preventing and reducing obesity: publication and review[^key-fa5f8ed352c2cf31079465a76ca5f6d0]
+## 2. National strategy on preventing and reducing obesity: publication and review[^c-fa5f8ed352c2cf31079465a76ca5f6d0]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa5f8ed352c2cf31079465a76ca5f6d0]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/2/section/2) in force at 4.10.2017 by [S.I. 2017/949](https://www.legislation.gov.uk/wsi/2017/949), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/949/article/2/a)
+[^c-fa5f8ed352c2cf31079465a76ca5f6d0]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/2/section/2) in force at 4.10.2017 by [S.I. 2017/949](https://www.legislation.gov.uk/wsi/2017/949), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/949/article/2/a)

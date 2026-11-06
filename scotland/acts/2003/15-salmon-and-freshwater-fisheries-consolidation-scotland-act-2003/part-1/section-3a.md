@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3A. Fishing by rod and line[^key-e2a7e425d89563432b7711cbecb04f51]
+## 3A. Fishing by rod and line[^c-e2a7e425d89563432b7711cbecb04f51]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the condition is that no more than 4 rods are used on the boat for that purpose 
 
 ## Annotations
 
-[^key-e2a7e425d89563432b7711cbecb04f51]: Textual amendment: S. 3A inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 20(1)](https://www.legislation.gov.uk/asp/2007/12/section/20/1), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-e2a7e425d89563432b7711cbecb04f51]: Textual amendment: S. 3A inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 20(1)](https://www.legislation.gov.uk/asp/2007/12/section/20/1), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Transitional provision: approved places of inspection[^key-b6266ad9a34858f2ff2d09b24d710e09]
+## 13. Transitional provision: approved places of inspection[^c-b6266ad9a34858f2ff2d09b24d710e09]
 
 *Extent: S*
 
@@ -57,14 +57,14 @@ summary: ''
 - “**approved place of inspection**” means a place which was approved as a place of inspection by the Scottish Ministers under article 17(1) of the Forestry Order or the 2005 Order before the commencement date and which remains approved by virtue of regulation 53(1) or a place approved under paragraph (6),
 - “**plant health movement document**” means a document in the form set out in the Annex to Commission Directive [2004/103/EC](https://www.legislation.gov.uk/eudr/2004/103) on identity and plant health checks of plants, plant products or other objects, listed in Part B of Annex V to Council Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29), which may be carried out at a place other than the point of entry into the Community or at a place close by and specifying the conditions related to these checks [^c23946111],
 - “**relevant period**” means the period beginning on the commencement date and ending on 13th December 2020,
-- “**temporary storage facility**” means a temporary storage facility within the meaning of Article 148 of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code [^c23946121] (as it has effect in EU law before IP completion day)[^key-a556b8c5d53eb2a88a378c3ad55c0bdb].
+- “**temporary storage facility**” means a temporary storage facility within the meaning of Article 148 of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code [^c23946121] (as it has effect in EU law before IP completion day)[^c-a556b8c5d53eb2a88a378c3ad55c0bdb].
 
 ## Annotations
 
-[^key-b6266ad9a34858f2ff2d09b24d710e09]: Commencement: Reg. 13 in force at 14.12.2019, see reg. 1(1)
+[^c-b6266ad9a34858f2ff2d09b24d710e09]: Commencement: Reg. 13 in force at 14.12.2019, see reg. 1(1)
 
 [^c23946111]: Marginal citation: OJ L 313, 12.10.2004, p.16.
 
 [^c23946121]: Marginal citation: OJ L 269, 10.10.2013, p.1, as last amended by Regulation (EU) 2019/632 of the European Parliament and of the Council (OJ L 111, 25.4.2019, p.54).
 
-[^key-a556b8c5d53eb2a88a378c3ad55c0bdb]: Textual amendment: Words in [reg. 13(10)](https://www.legislation.gov.uk/ssi/2019/421/regulation/13/10) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [14(6)](https://www.legislation.gov.uk/ssi/2020/466/regulation/14/6) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-a556b8c5d53eb2a88a378c3ad55c0bdb]: Textual amendment: Words in [reg. 13(10)](https://www.legislation.gov.uk/ssi/2019/421/regulation/13/10) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [14(6)](https://www.legislation.gov.uk/ssi/2020/466/regulation/14/6) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

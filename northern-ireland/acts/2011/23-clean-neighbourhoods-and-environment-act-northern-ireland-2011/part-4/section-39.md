@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Power of district councils to obtain information[^key-e5bb46c4fc21099ee8d0b8e6e7aaf525]
+## 39. Power of district councils to obtain information[^c-e5bb46c4fc21099ee8d0b8e6e7aaf525]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-e5bb46c4fc21099ee8d0b8e6e7aaf525]: Commencement: S. 39 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-e5bb46c4fc21099ee8d0b8e6e7aaf525]: Commencement: S. 39 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

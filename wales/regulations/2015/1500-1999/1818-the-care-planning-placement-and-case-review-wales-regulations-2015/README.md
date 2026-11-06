@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred by the provisions in Sc
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3](part-1/section-3.md)
 
-### PART 1A — CHILDREN FOR WHOM NO PERSONAL EDUCATION PLAN IS TO BE PREPARED[^key-3551c3fabd51cfdd40ce0077515e44c7]
+### PART 1A — CHILDREN FOR WHOM NO PERSONAL EDUCATION PLAN IS TO BE PREPARED[^c-3551c3fabd51cfdd40ce0077515e44c7]
 
 - [Section 3A](part-1a/section-3a.md)
 
@@ -251,4 +251,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22637131]: Marginal citation: *See* section 197(1) of the Social Services and Well-being (Wales) Act 2014 (anaw 4) (“**the 2014 Act**”) for the definitions of “specified and “regulations”.
 
-[^key-3551c3fabd51cfdd40ce0077515e44c7]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/wsi/2015/1818/part/1A) inserted (1.9.2021) by [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2021 (S.I. 2021/860)](https://www.legislation.gov.uk/wsi/2021/860), [regs. 1](https://www.legislation.gov.uk/wsi/2021/860/regulation/1), [5](https://www.legislation.gov.uk/wsi/2021/860/regulation/5)
+[^c-3551c3fabd51cfdd40ce0077515e44c7]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/wsi/2015/1818/part/1A) inserted (1.9.2021) by [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2021 (S.I. 2021/860)](https://www.legislation.gov.uk/wsi/2021/860), [regs. 1](https://www.legislation.gov.uk/wsi/2021/860/regulation/1), [5](https://www.legislation.gov.uk/wsi/2021/860/regulation/5)

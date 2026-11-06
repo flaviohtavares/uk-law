@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Mutual recognition of standards[^key-2e4861ba70401a49c9ea00df317722af]
+## 12. Mutual recognition of standards[^c-2e4861ba70401a49c9ea00df317722af]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Any requirement in these Regulations to comply with a specified British Standard
 
 ## Annotations
 
-[^key-2e4861ba70401a49c9ea00df317722af]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-2e4861ba70401a49c9ea00df317722af]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

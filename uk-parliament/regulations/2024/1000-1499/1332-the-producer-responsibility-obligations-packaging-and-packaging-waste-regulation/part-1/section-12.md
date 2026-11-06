@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Exclusion of charities[^key-7c2d98053f7d5b89ee2fb2c35a6087b3]
+## 12. Exclusion of charities[^c-7c2d98053f7d5b89ee2fb2c35a6087b3]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3a7b13dc2f675c15c8fe592e88f796f8] The following obligations do not apply to a producer which is a charity—
+(1)[^c-3a7b13dc2f675c15c8fe592e88f796f8] The following obligations do not apply to a producer which is a charity—
 
 - (a) producer responsibility obligations under regulation 25 and Part 3; and
 - (b) liability to pay annual disposal and administration fees under regulation 60.
 
-(2)[^key-ecf94adba94eea3493893d8e2e86e7fd] For[^key-6b51d20ec7813c3657a2c35ec0fb740a] these purposes, “**charity**” means—
+(2)[^c-ecf94adba94eea3493893d8e2e86e7fd] For[^c-6b51d20ec7813c3657a2c35ec0fb740a] these purposes, “**charity**” means—
 
 - (a) anything which is a charity—
   - (i) within the meaning of section 1(1) of the Charities Act 2011[^f00043] or section 1(1) of the Charities Act (Northern Ireland) 2008[^f00044]; or
@@ -34,13 +34,13 @@ summary: ''
 
 ## Annotations
 
-[^key-7c2d98053f7d5b89ee2fb2c35a6087b3]: Commencement: Reg. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-7c2d98053f7d5b89ee2fb2c35a6087b3]: Commencement: Reg. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-3a7b13dc2f675c15c8fe592e88f796f8]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12/1) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-3a7b13dc2f675c15c8fe592e88f796f8]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12/1) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-ecf94adba94eea3493893d8e2e86e7fd]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12) renumbered as reg. 12(2) (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/5/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-ecf94adba94eea3493893d8e2e86e7fd]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12) renumbered as reg. 12(2) (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/5/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-6b51d20ec7813c3657a2c35ec0fb740a]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12/2) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(5)(c)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/5/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-6b51d20ec7813c3657a2c35ec0fb740a]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12/2) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(5)(c)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/5/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
 [^f00043]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Report on family group decision-making services[^key-00c7615b4d2533670fee297958d860c8][^key-df55345190951c074525280644d5916c]
+## 64. Report on family group decision-making services[^c-00c7615b4d2533670fee297958d860c8][^c-df55345190951c074525280644d5916c]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00c7615b4d2533670fee297958d860c8]: Commencement: S. 64 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-00c7615b4d2533670fee297958d860c8]: Commencement: S. 64 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-df55345190951c074525280644d5916c]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2026/16/section/64) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-df55345190951c074525280644d5916c]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2026/16/section/64) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

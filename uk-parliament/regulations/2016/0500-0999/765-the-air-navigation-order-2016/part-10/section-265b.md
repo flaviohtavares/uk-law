@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265B. Offences: Contravention of Commission Implementing Regulation (EU) 2019/947 on the rules and procedures for the operation of unmanned aircraft – remote pilot[^key-5251d5a29a4b4db5212c2a14c2bb91fc]
+## 265B. Offences: Contravention of Commission Implementing Regulation (EU) 2019/947 on the rules and procedures for the operation of unmanned aircraft – remote pilot[^c-5251d5a29a4b4db5212c2a14c2bb91fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5251d5a29a4b4db5212c2a14c2bb91fc]: Textual amendment: [Art. 265B](https://www.legislation.gov.uk/uksi/2016/765/article/265B) omitted (1.1.2026) by virtue of [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/2/paragraph/1/3/b)
+[^c-5251d5a29a4b4db5212c2a14c2bb91fc]: Textual amendment: [Art. 265B](https://www.legislation.gov.uk/uksi/2016/765/article/265B) omitted (1.1.2026) by virtue of [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/2/paragraph/1/3/b)

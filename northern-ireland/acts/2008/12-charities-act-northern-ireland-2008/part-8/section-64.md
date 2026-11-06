@@ -29,7 +29,7 @@ summary: ''
 
 and regulations under that subsection may also make provision for determining the financial years of a charity for the purposes of this Act and any regulations made under it.
 
-(3) Where a charity's gross income in any financial year does not exceed £250,000[^key-25c15d227fbe102a251e10b42998c3b2], the charity trustees may, in respect of that year, elect to prepare the following, namely—
+(3) Where a charity's gross income in any financial year does not exceed £250,000[^c-25c15d227fbe102a251e10b42998c3b2], the charity trustees may, in respect of that year, elect to prepare the following, namely—
 
 - (a) a receipts and payments account, and
 - (b) a statement of assets and liabilities,
@@ -53,4 +53,4 @@ for at least 6 years from the end of the financial year to which any such statem
 
 ## Annotations
 
-[^key-25c15d227fbe102a251e10b42998c3b2]: Textual amendment: Sum in s. 64(3) substituted (1.1.2016) by [The Charities Act 2008 (Substitution of Sums) Order (Northern Ireland) 2015 (S.R. 2015/385)](https://www.legislation.gov.uk/nisr/2015/385), [arts. 1](https://www.legislation.gov.uk/nisr/2015/385/article/1), [2](https://www.legislation.gov.uk/nisr/2015/385/article/2)
+[^c-25c15d227fbe102a251e10b42998c3b2]: Textual amendment: Sum in s. 64(3) substituted (1.1.2016) by [The Charities Act 2008 (Substitution of Sums) Order (Northern Ireland) 2015 (S.R. 2015/385)](https://www.legislation.gov.uk/nisr/2015/385), [arts. 1](https://www.legislation.gov.uk/nisr/2015/385/article/1), [2](https://www.legislation.gov.uk/nisr/2015/385/article/2)

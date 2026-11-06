@@ -33,8 +33,8 @@ summary: ''
 
 and a printed copy or a sufficient abstract of the byelaws relating to lodging-houses shall be put up and at all times kept in every room in the lodging-houses.
 
-(4)[^key-5fd5e34d8b322dd4ff93b91f1a428dd5] Byelaws made under this section by a local housing authority in England are to be read subject to any requirement imposed on the authority under Part 2 of the Housing and Regeneration Act 2008.
+(4)[^c-5fd5e34d8b322dd4ff93b91f1a428dd5] Byelaws made under this section by a local housing authority in England are to be read subject to any requirement imposed on the authority under Part 2 of the Housing and Regeneration Act 2008.
 
 ## Annotations
 
-[^key-5fd5e34d8b322dd4ff93b91f1a428dd5]: Textual amendment: [S. 23(4)](https://www.legislation.gov.uk/ukpga/1985/68/section/23/4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/7)
+[^c-5fd5e34d8b322dd4ff93b91f1a428dd5]: Textual amendment: [S. 23(4)](https://www.legislation.gov.uk/ukpga/1985/68/section/23/4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/7)

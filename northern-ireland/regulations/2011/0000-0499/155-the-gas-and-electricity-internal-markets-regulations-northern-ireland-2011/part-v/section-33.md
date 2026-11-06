@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Amendments to the Electricity (Applications for Licences and Extensions of Licences) (No. 2) Regulations (Northern Ireland) 2007[^key-3b07544f8e5b4636416484fa688523b1]
+## 33. Amendments to the Electricity (Applications for Licences and Extensions of Licences) (No. 2) Regulations (Northern Ireland) 2007[^c-3b07544f8e5b4636416484fa688523b1]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ The Electricity (Applications for Licences and Extensions of Licences) (No. 2) R
 
 ## Annotations
 
-[^key-3b07544f8e5b4636416484fa688523b1]: Commencement: Reg. 33 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-3b07544f8e5b4636416484fa688523b1]: Commencement: Reg. 33 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2007 No. 289](https://www.legislation.gov.uk/nisr/2007/289)

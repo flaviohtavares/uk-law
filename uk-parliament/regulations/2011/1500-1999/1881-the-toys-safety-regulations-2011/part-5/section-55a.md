@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. Offence in respect of UK(NI) indication[^key-9e344dbf4bec1e19db74fb48f642b9fe]
+## 55A. Offence in respect of UK(NI) indication[^c-9e344dbf4bec1e19db74fb48f642b9fe]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e344dbf4bec1e19db74fb48f642b9fe]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2011/1881/regulation/55A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/5/6)
+[^c-9e344dbf4bec1e19db74fb48f642b9fe]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2011/1881/regulation/55A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/5/6)

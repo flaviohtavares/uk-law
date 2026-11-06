@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232A. Partnerships[^key-c8ac8af47f6fca6456b26e4eb505bcee]
+## 232A. Partnerships[^c-c8ac8af47f6fca6456b26e4eb505bcee]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ that new partnership is to be treated as if it were the same partnership as the 
 
 ## Annotations
 
-[^key-c8ac8af47f6fca6456b26e4eb505bcee]: Textual amendment: [S. 232A](https://www.legislation.gov.uk/ukpga/2023/30/section/232A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/2)
+[^c-c8ac8af47f6fca6456b26e4eb505bcee]: Textual amendment: [S. 232A](https://www.legislation.gov.uk/ukpga/2023/30/section/232A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/2)

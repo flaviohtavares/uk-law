@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Adoption service: joint arrangements[^key-5c7eb9694c2f1155a6dd48f531cc3602]
+## 170. Adoption service: joint arrangements[^c-5c7eb9694c2f1155a6dd48f531cc3602]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ Insert after section 3 of the Adoption and Children Act 2002—
 
 ## Annotations
 
-[^key-5c7eb9694c2f1155a6dd48f531cc3602]: Commencement: S. 170 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/a)
+[^c-5c7eb9694c2f1155a6dd48f531cc3602]: Commencement: S. 170 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Application of Part[^key-623a83f6e4c3c968b41f5578202f88fd]
+## 65. Application of Part[^c-623a83f6e4c3c968b41f5578202f88fd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part applies in relation to retirement benefits payable in respect of a con
 
 ## Annotations
 
-[^key-623a83f6e4c3c968b41f5578202f88fd]: Commencement: Reg. 65 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-623a83f6e4c3c968b41f5578202f88fd]: Commencement: Reg. 65 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

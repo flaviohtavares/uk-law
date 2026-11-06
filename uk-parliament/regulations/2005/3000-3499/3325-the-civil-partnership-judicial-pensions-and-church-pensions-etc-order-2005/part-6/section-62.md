@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**62.**[^key-6dac661d6a70fd1f11afb5b428fd6e52] In section 31 (payments charged on Consolidated Fund), in paragraph (b), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
+**62.**[^c-6dac661d6a70fd1f11afb5b428fd6e52] In section 31 (payments charged on Consolidated Fund), in paragraph (b), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
 
 ## Annotations
 
-[^key-6dac661d6a70fd1f11afb5b428fd6e52]: Commencement: Art. 62 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-6dac661d6a70fd1f11afb5b428fd6e52]: Commencement: Art. 62 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

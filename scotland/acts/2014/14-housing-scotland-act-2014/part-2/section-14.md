@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-4b50c8fbfb9a060339bfcab58f90f3a6] In section 14 of the 2001 Act (proceedings for possession), after subsection (2A) insert—
+(1)[^c-4b50c8fbfb9a060339bfcab58f90f3a6] In section 14 of the 2001 Act (proceedings for possession), after subsection (2A) insert—
 
 > (2B) Where such proceedings are to include a ground for recovery of possession set out in paragraph 2 of schedule 2, the landlord must have regard to any guidance published by the Scottish Ministers before raising such proceedings in relation to recovering possession of the house.
 >
@@ -28,7 +28,7 @@ summary: ''
 
 .
 
-(2)[^key-d055ebb3645757f0aa86eeb2f2362de7] In section 16 of the 2001 Act (powers of court in possession proceedings)—
+(2)[^c-d055ebb3645757f0aa86eeb2f2362de7] In section 16 of the 2001 Act (powers of court in possession proceedings)—
 
 - (a) in subsection (2), after paragraph (a) insert—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b50c8fbfb9a060339bfcab58f90f3a6]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2014/14/section/14/1) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-4b50c8fbfb9a060339bfcab58f90f3a6]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2014/14/section/14/1) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-d055ebb3645757f0aa86eeb2f2362de7]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/asp/2014/14/section/14/2) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-d055ebb3645757f0aa86eeb2f2362de7]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/asp/2014/14/section/14/2) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

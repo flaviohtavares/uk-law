@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Reporting of chargeable events[^key-f6c3f3a81c8281014bed647f4ee43078]
+## 141. Reporting of chargeable events[^c-f6c3f3a81c8281014bed647f4ee43078]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 13(2)(b) of the Retirement Benefits Schemes (Information Powers) R
 
 ## Annotations
 
-[^key-f6c3f3a81c8281014bed647f4ee43078]: Commencement: Art. 141 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-f6c3f3a81c8281014bed647f4ee43078]: Commencement: Art. 141 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

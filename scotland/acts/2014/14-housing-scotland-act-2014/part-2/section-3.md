@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Reasonable preference in allocation of social housing[^key-65f92464ecdb038602e36c57711986c8]
+## 3. Reasonable preference in allocation of social housing[^c-65f92464ecdb038602e36c57711986c8]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ In section 20 of the 1987 Act (persons to have priority on housing list and allo
 
 ## Annotations
 
-[^key-65f92464ecdb038602e36c57711986c8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/14/section/3) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-65f92464ecdb038602e36c57711986c8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/14/section/3) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

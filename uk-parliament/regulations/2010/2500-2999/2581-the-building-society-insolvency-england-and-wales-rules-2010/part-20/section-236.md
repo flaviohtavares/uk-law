@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 236. Procedure for examination[^key-68f3c75a5ef8c9c7aa2d443fef1cd393]
+## 236. Procedure for examination[^c-68f3c75a5ef8c9c7aa2d443fef1cd393]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Apply rule 9.4 of the 1986 Rules[^f00082]. In paragraph (4) leave out â€œor 366â
 
 ## Annotations
 
-[^key-68f3c75a5ef8c9c7aa2d443fef1cd393]: Commencement: Rule 236 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-68f3c75a5ef8c9c7aa2d443fef1cd393]: Commencement: Rule 236 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00082]: Footnote: Paragraph (3) was substituted by [S.I. 1999/1022](https://www.legislation.gov.uk/uksi/1999/1022). Paragraph (4) was amended by [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).
 

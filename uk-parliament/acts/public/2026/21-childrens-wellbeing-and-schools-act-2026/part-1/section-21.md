@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Use of agency workers for children’s social care work[^key-e31ebcb9691c5b3ebb4337af6e4e0584]
+## 21. Use of agency workers for children’s social care work[^c-e31ebcb9691c5b3ebb4337af6e4e0584]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ After [section 32](https://www.legislation.gov.uk/ukpga/2017/16/section/32) of t
 
 ## Annotations
 
-[^key-e31ebcb9691c5b3ebb4337af6e4e0584]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-e31ebcb9691c5b3ebb4337af6e4e0584]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

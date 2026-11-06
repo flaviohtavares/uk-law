@@ -90,7 +90,7 @@ and “the deceased” has the meaning given by Article 3(2).
   - (i) of his parents, if he was legitimate; and
   - (ii) of his mother, if he was illegitimate.
 
-(3) Subject to paragraph (5), the sum to be awarded as damages under this Article shall be £19,700[^key-c8617bf76e6e698159e9e7c37be68008].
+(3) Subject to paragraph (5), the sum to be awarded as damages under this Article shall be £19,700[^c-c8617bf76e6e698159e9e7c37be68008].
 
 (4) Where the claim is a claim for damages under this Article for the benefit of both the parents of the deceased, the sum awarded shall be divided equally between them (subject to any deduction falling to be made in respect of costs not recovered from the defendant).
 
@@ -122,7 +122,7 @@ the action may be brought by and in the name of all or any of the person for who
 - (a) where the court seized of the proceedings consists of a judge sitting with a jury, directed by the jury; and
 - (b) in any other case, directed by the judge.
 
-(3) In an action under this Order where there fall to be assessed damages payable to a surviving spouse[^key-1225e97a2017b615ed86fd8caa396a43] in respect of the death of that person’s spouse[^key-71a0452c1006e3ae1394bf0d6456f177] there shall not be taken into account the remarriage of the surviving spouse or the surviving spouse’s[^key-ed6b7d521100b7b3a14daa2f1a2cd77b] prospects of remarriage.
+(3) In an action under this Order where there fall to be assessed damages payable to a surviving spouse[^c-1225e97a2017b615ed86fd8caa396a43] in respect of the death of that person’s spouse[^c-71a0452c1006e3ae1394bf0d6456f177] there shall not be taken into account the remarriage of the surviving spouse or the surviving spouse’s[^c-ed6b7d521100b7b3a14daa2f1a2cd77b] prospects of remarriage.
 
 (3A) In an action under this Order where there fall to be assessed damages payable to a person who is a dependant by virtue of Article 2(2)(b) in respect of the death of the person with whom the dependant was living as husband or wife or civil partner[^c16838571] there shall be taken into account (together with any other matter that appears to the court to be relevant to the action) the fact that the dependant had no enforceable right to financial support by the deceased as a result of their living together.
 
@@ -172,7 +172,7 @@ Where any person dies as the result partly of his own fault and partly of the fa
 
 [^c16838401]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-c8617bf76e6e698159e9e7c37be68008]: Textual amendment: Sum in [art. 3A(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/3A/3) substituted (with application in accordance with art. 1(2) of the amending Rule) by [The Damages for Bereavement (Variation of Sum) Order (Northern Ireland) 2025 (S.R. 2025/173)](https://www.legislation.gov.uk/nisr/2025/173), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/173/article/1/1), [2](https://www.legislation.gov.uk/nisr/2025/173/article/2)
+[^c-c8617bf76e6e698159e9e7c37be68008]: Textual amendment: Sum in [art. 3A(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/3A/3) substituted (with application in accordance with art. 1(2) of the amending Rule) by [The Damages for Bereavement (Variation of Sum) Order (Northern Ireland) 2025 (S.R. 2025/173)](https://www.legislation.gov.uk/nisr/2025/173), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/173/article/1/1), [2](https://www.legislation.gov.uk/nisr/2025/173/article/2)
 
 [^c21936351]: Textual amendment: Words in art. 3A(5) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 112(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/112/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
@@ -180,11 +180,11 @@ Where any person dies as the result partly of his own fault and partly of the fa
 
 [^c16838501]: Textual amendment: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53)
 
-[^key-1225e97a2017b615ed86fd8caa396a43]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/5/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [134(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/134/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-1225e97a2017b615ed86fd8caa396a43]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/5/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [134(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/134/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-71a0452c1006e3ae1394bf0d6456f177]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/5/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [134(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/134/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-71a0452c1006e3ae1394bf0d6456f177]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/5/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [134(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/134/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-ed6b7d521100b7b3a14daa2f1a2cd77b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/5/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [134(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/134/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-ed6b7d521100b7b3a14daa2f1a2cd77b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/nisi/1977/1251/article/5/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [134(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/134/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16838571]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 

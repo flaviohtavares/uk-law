@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 369. Parenting order in respect of certain offences under Education Act 1996[^key-2fcde16f3dd5db214059b1a8249f57db]
+## 369. Parenting order in respect of certain offences under Education Act 1996[^c-2fcde16f3dd5db214059b1a8249f57db]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the court may provide in the order that a counselling or guidance programme whic
 
 ## Annotations
 
-[^key-2fcde16f3dd5db214059b1a8249f57db]: Commencement: [S. 369](https://www.legislation.gov.uk/ukpga/2020/17/section/369) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2fcde16f3dd5db214059b1a8249f57db]: Commencement: [S. 369](https://www.legislation.gov.uk/ukpga/2020/17/section/369) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Miscellaneous[^key-d7f4f4d4ccf3b267e55e9a0ca07f10a2]
+## 36. Miscellaneous[^c-d7f4f4d4ccf3b267e55e9a0ca07f10a2]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f4f4d4ccf3b267e55e9a0ca07f10a2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2007/195/regulation/36) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-d7f4f4d4ccf3b267e55e9a0ca07f10a2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2007/195/regulation/36) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00037]: Footnote: [S.I. 1999/2263](https://www.legislation.gov.uk/uksi/1999/2263), amended by [S.I. 2001/2893](https://www.legislation.gov.uk/uksi/2001/2893).
 

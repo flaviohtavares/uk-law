@@ -146,11 +146,11 @@ The conversion of a quantity of paddy rice or milled rice into a corresponding q
 
 The conversion of a quantity of semi-milled rice into a corresponding quantity of milled rice shall be effected by dividing the quantity to be converted by the rate fixed in Article 1(3) for semi-milled rice.
 
-**Article 7.**[^key-0bc912b2a535fc09a7c69c2e269090fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-0bc912b2a535fc09a7c69c2e269090fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 8.** This Regulation shall enter into force on the 20th day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-56f7f2b0427990fca01a066fcc5e9ba9]...
+[^c-56f7f2b0427990fca01a066fcc5e9ba9]...
 
 Done at Brussels, 19 December 2008.
 
@@ -160,13 +160,13 @@ Done at Brussels, 19 December 2008.
 
 José Manuel Barroso
 
-## ANNEX I[^key-4b324f3da542e70f479c46986f0cdfee]
+## ANNEX I[^c-4b324f3da542e70f479c46986f0cdfee]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-74a79174933169bb59e18f077818d74c]
+## ANNEX II[^c-74a79174933169bb59e18f077818d74c]
 
 **No longer in force.**
 
@@ -180,10 +180,10 @@ José Manuel Barroso
 
 [^f00003]: Footnote: See Annex I.
 
-[^key-0bc912b2a535fc09a7c69c2e269090fd]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2008/1312/article/7) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bc912b2a535fc09a7c69c2e269090fd]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2008/1312/article/7) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56f7f2b0427990fca01a066fcc5e9ba9]: Textual amendment: [Signature](https://www.legislation.gov.uk/eur/2008/1312/signature) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56f7f2b0427990fca01a066fcc5e9ba9]: Textual amendment: [Signature](https://www.legislation.gov.uk/eur/2008/1312/signature) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b324f3da542e70f479c46986f0cdfee]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2008/1312/annex/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b324f3da542e70f479c46986f0cdfee]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2008/1312/annex/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74a79174933169bb59e18f077818d74c]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2008/1312/annex/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74a79174933169bb59e18f077818d74c]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2008/1312/annex/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/823/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

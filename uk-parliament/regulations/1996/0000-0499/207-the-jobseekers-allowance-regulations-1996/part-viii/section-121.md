@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 121. Period over which payments other than periodical payments are to be taken into account[^key-f146a9f10fd0b90cd6b72de596e6a526]
+## 121. Period over which payments other than periodical payments are to be taken into account[^c-f146a9f10fd0b90cd6b72de596e6a526]
 
 (1) The period over which a payment other than a periodical payment (a “non-periodical payment”) is to be taken account shall be determined as follows.
 
@@ -22,8 +22,8 @@ summary: ''
 
 (3) The amount is the aggregate of £2 and—
 
-- (a) the amount of jobseeker’s allowance that would be payable had no payment been made, [^key-1fe1ceb572f44c60a9f850ea36dccb71]...
-- (b)[^key-1fe1ceb572f44c60a9f850ea36dccb71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the amount of jobseeker’s allowance that would be payable had no payment been made, [^c-1fe1ceb572f44c60a9f850ea36dccb71]...
+- (b)[^c-1fe1ceb572f44c60a9f850ea36dccb71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This paragraph applies in a case where a liable relative makes a periodical payment and a non-periodical payment concurrently and the weekly amount of the periodical payment (as calculated in accordance with regulation 122) is less than B.
 
@@ -49,7 +49,7 @@ the amount of the non-periodical payment;
 
 B
 
-the aggregate of £2 and the amount of jobseeker’s allowance that would be payable had the periodical payment not been made[^key-ce45fce9328dacb1d97f6fc9c5909d4e]...;
+the aggregate of £2 and the amount of jobseeker’s allowance that would be payable had the periodical payment not been made[^c-ce45fce9328dacb1d97f6fc9c5909d4e]...;
 
 C
 
@@ -65,8 +65,8 @@ the weekly amount of any subsequent periodical payment.
 
 ## Annotations
 
-[^key-f146a9f10fd0b90cd6b72de596e6a526]: Textual amendment: [Reg. 121](https://www.legislation.gov.uk/uksi/1996/207/regulation/121) substituted (27.10.2008) by [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/3/8)
+[^c-f146a9f10fd0b90cd6b72de596e6a526]: Textual amendment: [Reg. 121](https://www.legislation.gov.uk/uksi/1996/207/regulation/121) substituted (27.10.2008) by [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/3/8)
 
-[^key-1fe1ceb572f44c60a9f850ea36dccb71]: Textual amendment: [Reg. 121(3)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/121/3/b) and word omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(11)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/11/a)
+[^c-1fe1ceb572f44c60a9f850ea36dccb71]: Textual amendment: [Reg. 121(3)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/121/3/b) and word omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(11)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/11/a)
 
-[^key-ce45fce9328dacb1d97f6fc9c5909d4e]: Textual amendment: Words in [reg. 121(10)](https://www.legislation.gov.uk/uksi/1996/207/regulation/121/10) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(11)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/11/b)
+[^c-ce45fce9328dacb1d97f6fc9c5909d4e]: Textual amendment: Words in [reg. 121(10)](https://www.legislation.gov.uk/uksi/1996/207/regulation/121/10) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(11)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/11/b)

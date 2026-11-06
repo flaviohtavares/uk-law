@@ -70,7 +70,7 @@ other than a power to legislate by means of orders, rules, regulations or other 
 
 (2) In the Home-Grown Cereals Authority Levy Scheme (Approval) Order 1987 [^c15972371], in the Scheme set out in the Schedule to that Order, in paragraph 2(1), the definition of “Intervention Board” shall be omitted and for any other reference to “Intervention Board”, there shall be substituted “ Scottish Ministers ”.
 
-(3)[^key-0b727e25fb45af1763c244e4000bb7d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0b727e25fb45af1763c244e4000bb7d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the Beef Special Premium (Protection of Payments) Order 1989 [^c15972391]–
 
@@ -87,7 +87,7 @@ other than a power to legislate by means of orders, rules, regulations or other 
 
 (5) In the Beef Special Premium (Recovery Powers) Regulations 1989 [^c15972401] for any reference to “Board”, there shall be substituted “ Scottish Ministers ”.
 
-(6)[^key-a4709c62067c6320c2a260587cb3061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a4709c62067c6320c2a260587cb3061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In the Home-Grown Cereals Authority Oilseeds Levy Scheme (Approval) Order 1990 [^c15972421], in the Scheme set out in the Schedule to that Order, in paragraph 2(1), the definition of “Intervention Board” shall be omitted and for any other reference to “Intervention Board” there shall be substituted “ Scottish Ministers ”.
 
@@ -129,9 +129,9 @@ other than a power to legislate by means of orders, rules, regulations or other 
   and
 - (b) in paragraph 3(1) of Schedule 3, for “the Intervention Board for Agricultural Produce”, there shall be substituted “ them ”.
 
-(11)[^key-d7933ee8042fc4eca7ea25c557b55426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-d7933ee8042fc4eca7ea25c557b55426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-d7933ee8042fc4eca7ea25c557b55426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-d7933ee8042fc4eca7ea25c557b55426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In the Common Agricultural Policy Support Schemes (Modulation) (Scotland) Regulations 2000 [^c15972491]–
 
@@ -186,13 +186,13 @@ make transitional provisions to ensure continuity in the arrangements in place a
 
 [^c15972371]: Marginal citation: [S.I. 1987/671](https://www.legislation.gov.uk/uksi/1987/671) approved (with modifications) the Home-Grown Cereals Authority Levy Scheme. That Scheme was varied by the Home-Grown Cereals Authority Levy (Variation) Scheme 1990 which was approved (with a modification) by the [Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1990 (S.I. 1990/1316)](https://www.legislation.gov.uk/uksi/1990/1316), the Home-Grown Cereals Authority Levy (Variation) Scheme 1991 which was approved by the [Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1991 (S.I. 1991/1302)](https://www.legislation.gov.uk/uksi/1991/1302) and the Home-Grown Cereals Authority Levy (Variation) Scheme 1996 which was approved (with modifications) by the [Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1996 (S.I. 1996/2843)](https://www.legislation.gov.uk/uksi/1996/2843).
 
-[^key-0b727e25fb45af1763c244e4000bb7d8]: Textual amendment: Reg. 3(3) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/d)
+[^c-0b727e25fb45af1763c244e4000bb7d8]: Textual amendment: Reg. 3(3) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/d)
 
 [^c15972391]: Marginal citation: [S.I. 1989/574](https://www.legislation.gov.uk/uksi/1989/574).
 
 [^c15972401]: Marginal citation: [S.I. 1989/575](https://www.legislation.gov.uk/uksi/1989/575).
 
-[^key-a4709c62067c6320c2a260587cb3061f]: Textual amendment: Reg. 3(6) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/d)
+[^c-a4709c62067c6320c2a260587cb3061f]: Textual amendment: Reg. 3(6) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/d)
 
 [^c15972421]: Marginal citation: [S.I. 1990/1317](https://www.legislation.gov.uk/uksi/1990/1317).
 
@@ -202,6 +202,6 @@ make transitional provisions to ensure continuity in the arrangements in place a
 
 [^c15972451]: Marginal citation: [S.I. 1996/3142](https://www.legislation.gov.uk/uksi/1996/3142), amended by [S.I. 1997/2969](https://www.legislation.gov.uk/uksi/1997/2969), [1998/3169](https://www.legislation.gov.uk/uksi/1998/3169), [1999/8](https://www.legislation.gov.uk/uksi/1999/8) and [2000/2573](https://www.legislation.gov.uk/uksi/1999/8).
 
-[^key-d7933ee8042fc4eca7ea25c557b55426]: Textual amendment: Reg. 3(11)(12) revoked (31.3.2002) by [The Dairy Produce Quotas (Scotland) Regulations 2002 (S.S.I. 2002/110)](https://www.legislation.gov.uk/ssi/2002/110), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/110/regulation/1/1), [34(1)(e)](https://www.legislation.gov.uk/ssi/2002/110/regulation/34/1/e)
+[^c-d7933ee8042fc4eca7ea25c557b55426]: Textual amendment: Reg. 3(11)(12) revoked (31.3.2002) by [The Dairy Produce Quotas (Scotland) Regulations 2002 (S.S.I. 2002/110)](https://www.legislation.gov.uk/ssi/2002/110), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/110/regulation/1/1), [34(1)(e)](https://www.legislation.gov.uk/ssi/2002/110/regulation/34/1/e)
 
 [^c15972491]: Marginal citation: [S.S.I. 2000/429](https://www.legislation.gov.uk/ssi/2000/429).

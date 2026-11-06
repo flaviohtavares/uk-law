@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.25. Application of Chapter to particular class of creditors and to distributions[^key-b76bccb821280a24dc5c4eec779f0379]
+## 5.25. Application of Chapter to particular class of creditors and to distributions[^c-b76bccb821280a24dc5c4eec779f0379]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b76bccb821280a24dc5c4eec779f0379]: Commencement: Rule 5.25 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b76bccb821280a24dc5c4eec779f0379]: Commencement: Rule 5.25 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

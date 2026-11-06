@@ -22,7 +22,7 @@ summary: ''
 
 (1) Part 5 of the Proceeds of Crime Act 2002 (civil recovery of the proceeds etc of unlawful conduct) is amended as follows.
 
-(2)[^key-4cf43c4a98473cf3e6050349df14e706] After section 282 insert—
+(2)[^c-4cf43c4a98473cf3e6050349df14e706] After section 282 insert—
 
 > **Scope of powers**
 >
@@ -49,7 +49,7 @@ summary: ''
 > - (a) in relation to an order made by the High Court in England and Wales, England and Wales, and
 > - (b) in relation to an order made by the Court of Session, Scotland.
 
-(3)[^key-4cf43c4a98473cf3e6050349df14e706] After Schedule 7 insert—
+(3)[^c-4cf43c4a98473cf3e6050349df14e706] After Schedule 7 insert—
 
 > **Schedule 7A — Connection with relevant part of United Kingdom**
 >
@@ -117,16 +117,16 @@ summary: ''
 
 (4) Omit section 286 (scope of powers: Scotland).
 
-(5)[^key-c26b935b2fd81496cac39f63bc92c370] In section 316 (general interpretation), after subsection (8A) insert—
+(5)[^c-c26b935b2fd81496cac39f63bc92c370] In section 316 (general interpretation), after subsection (8A) insert—
 
 > (8B) An enforcement authority in relation to England and Wales or Scotland may take proceedings there for an order under Chapter 2 of this Part in respect of any property or person, whether or not the property or person is (or is domiciled, resident or present) in that part of the United Kingdom.
 
-(6)[^key-c26b935b2fd81496cac39f63bc92c370] In Schedule 18 to this Act (proceeds of crime: civil recovery of the proceeds etc of unlawful conduct)—
+(6)[^c-c26b935b2fd81496cac39f63bc92c370] In Schedule 18 to this Act (proceeds of crime: civil recovery of the proceeds etc of unlawful conduct)—
 
-- (a)[^key-cf9b8bd6cba5e9941e970211b9b447ff] Part 1 makes provision about the enforcement of interim orders in the United Kingdom, and
+- (a)[^c-cf9b8bd6cba5e9941e970211b9b447ff] Part 1 makes provision about the enforcement of interim orders in the United Kingdom, and
 - (b) Part 2 makes provision about enforcement where property or evidence is outside the United Kingdom.
 
-(7)[^key-63bb3fa3f35e99997aba6498a5908702] The amendments made by this section and Part 2 of Schedule 18 are deemed always to have had effect.
+(7)[^c-63bb3fa3f35e99997aba6498a5908702] The amendments made by this section and Part 2 of Schedule 18 are deemed always to have had effect.
 
 (8) The amendments made by this section and Schedule 18 do not affect the extent to which provisions of the Proceeds of Crime Act 2002 (other than Chapter 2 of Part 5), or of any other enactment, apply in respect of persons or property outside the United Kingdom or outside a particular part of the United Kingdom.
 
@@ -136,10 +136,10 @@ summary: ''
 
 [^c2195035]: Extent: S. 48(2)(3)(5)(6)(7): "the relevant civil recovery provisions" as specified in Sch. 25 para. 1, and to the extent there specified, do not extend to Northern Ireland, see Sch. 25 para. 2
 
-[^key-4cf43c4a98473cf3e6050349df14e706]: Extent: S. 48(2)(3)(5)(6)(7) extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-4cf43c4a98473cf3e6050349df14e706]: Extent: S. 48(2)(3)(5)(6)(7) extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
 
-[^key-c26b935b2fd81496cac39f63bc92c370]: Modification: [S. 48(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/5)[(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/6) extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-c26b935b2fd81496cac39f63bc92c370]: Modification: [S. 48(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/5)[(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/6) extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
 
-[^key-cf9b8bd6cba5e9941e970211b9b447ff]: Commencement: [S. 48(6)(a)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/6/a) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/964/article/2/a)
+[^c-cf9b8bd6cba5e9941e970211b9b447ff]: Commencement: [S. 48(6)(a)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/6/a) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/964/article/2/a)
 
-[^key-63bb3fa3f35e99997aba6498a5908702]: Modification: [S. 48(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/7) extended in part (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-63bb3fa3f35e99997aba6498a5908702]: Modification: [S. 48(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/7) extended in part (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)

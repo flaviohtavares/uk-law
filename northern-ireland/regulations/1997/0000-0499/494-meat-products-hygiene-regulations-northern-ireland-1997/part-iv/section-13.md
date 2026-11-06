@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Duties of occupier of establishment[^key-038213bbf7543102703517fe631ecf28]
+## 13. Duties of occupier of establishment[^c-038213bbf7543102703517fe631ecf28]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-038213bbf7543102703517fe631ecf28]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-038213bbf7543102703517fe631ecf28]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

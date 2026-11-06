@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. Enforcement of non-benefit payments[^key-94734fbd972ff7141e2b8c61fca253a4][^key-9e60fc94e6c98a6def4084dee3c98940]
+## 93. Enforcement of non-benefit payments[^c-94734fbd972ff7141e2b8c61fca253a4][^c-9e60fc94e6c98a6def4084dee3c98940]
 
 *Extent: E+W+S*
 
@@ -112,6 +112,6 @@ In the Social Security Administration Act 1992, after section 71ZH insert—
 
 ## Annotations
 
-[^key-94734fbd972ff7141e2b8c61fca253a4]: Commencement: S. 93 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-94734fbd972ff7141e2b8c61fca253a4]: Commencement: S. 93 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-9e60fc94e6c98a6def4084dee3c98940]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/28/section/93) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/d)
+[^c-9e60fc94e6c98a6def4084dee3c98940]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/28/section/93) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/d)

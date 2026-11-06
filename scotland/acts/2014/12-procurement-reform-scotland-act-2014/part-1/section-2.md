@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Regulated procurements[^key-7bc00d6cd030fbe3b5ed98ba0f859a34]
+## 2. Regulated procurements[^c-7bc00d6cd030fbe3b5ed98ba0f859a34]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ For the purposes of this Act, a “regulated procurement” is—
 
 ## Annotations
 
-[^key-7bc00d6cd030fbe3b5ed98ba0f859a34]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/12/section/2) in force at 28.9.2015 by [S.S.I. 2015/331](https://www.legislation.gov.uk/ssi/2015/331), [art. 3](https://www.legislation.gov.uk/ssi/2015/331/article/3)
+[^c-7bc00d6cd030fbe3b5ed98ba0f859a34]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/12/section/2) in force at 28.9.2015 by [S.S.I. 2015/331](https://www.legislation.gov.uk/ssi/2015/331), [art. 3](https://www.legislation.gov.uk/ssi/2015/331/article/3)

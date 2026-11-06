@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.8. “Insolvent estate”[^key-90dce5489ab406534472f5957ef4fbc1]
+## 13.8. “Insolvent estate”[^c-90dce5489ab406534472f5957ef4fbc1]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ References to “**the insolvent estate**” are—
 
 ## Annotations
 
-[^key-90dce5489ab406534472f5957ef4fbc1]: Commencement: Rule 13.8 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-90dce5489ab406534472f5957ef4fbc1]: Commencement: Rule 13.8 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

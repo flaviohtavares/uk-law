@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Offence of virginity testing: Northern Ireland[^key-098128ca071d45f5af4ea5b732ced8a4][^key-7871b31223209f025f7d5eb720ec2c2a]
+## 144. Offence of virginity testing: Northern Ireland[^c-098128ca071d45f5af4ea5b732ced8a4][^c-7871b31223209f025f7d5eb720ec2c2a]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-098128ca071d45f5af4ea5b732ced8a4]: Commencement: S. 144 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-098128ca071d45f5af4ea5b732ced8a4]: Commencement: S. 144 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-7871b31223209f025f7d5eb720ec2c2a]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2022/31/section/144) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7871b31223209f025f7d5eb720ec2c2a]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2022/31/section/144) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

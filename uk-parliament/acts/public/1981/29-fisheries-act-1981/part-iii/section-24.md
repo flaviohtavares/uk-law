@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Penalties for offences.[^key-c5b3fa647cb4e5f98d78ce361166ddbb][^c8102301]
+## 24. Penalties for offences.[^c-c5b3fa647cb4e5f98d78ce361166ddbb][^c8102301]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,11 +40,11 @@ summary: ''
 
 (2) In section 5(4) of the [^c8102321]Sea Fisheries Act 1968 (penalty for contravening order regulating fishing operations) after the words “on summary conviction to a fine not exceeding £1,000” there shall be inserted the words “ or on conviction on indictment to a fine ”.
 
-(3) In section 10(4) of that Act (penalty for obstructing officer *(Extent: E+W)* *(affected by repeal, see note)*[^key-cf62cf668b8f6968d99d947d26df3705] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cf62cf668b8f6968d99d947d26df3705]) for the words “on summary conviction” onwards there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-cf62cf668b8f6968d99d947d26df3705] “ on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-cf62cf668b8f6968d99d947d26df3705]
+(3) In section 10(4) of that Act (penalty for obstructing officer *(Extent: E+W)* *(affected by repeal, see note)*[^c-cf62cf668b8f6968d99d947d26df3705] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cf62cf668b8f6968d99d947d26df3705]) for the words “on summary conviction” onwards there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-cf62cf668b8f6968d99d947d26df3705] “ on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-cf62cf668b8f6968d99d947d26df3705]
 
 ## Annotations
 
-[^key-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
 
 [^c8102301]: Modification: The text of s. 3(6), 19–26, 28, 29, 35(2)–(7), 36(2), 37–39, 45, 46(2), Sch. 1 para. 10, Sch. 3 para. 8(2)(3), Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c8102321]: Marginal citation: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77).
 
-[^key-cf62cf668b8f6968d99d947d26df3705]: Textual amendment: S. 24(3) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 95(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/95/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-cf62cf668b8f6968d99d947d26df3705]: Textual amendment: S. 24(3) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 95(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/95/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

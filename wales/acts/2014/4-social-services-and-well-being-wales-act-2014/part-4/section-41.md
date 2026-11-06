@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Duty to meet support needs of an adult carer: supplementary[^key-d5a48195a5622ee57c8804bc88c35aa7]
+## 41. Duty to meet support needs of an adult carer: supplementary[^c-d5a48195a5622ee57c8804bc88c35aa7]
 
 *Extent: E+W*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5a48195a5622ee57c8804bc88c35aa7]: Commencement: S. 41 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-d5a48195a5622ee57c8804bc88c35aa7]: Commencement: S. 41 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

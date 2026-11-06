@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.3. Variation of timetable[^key-7eb4cd64c763038b7d4a383b70f53d99]
+## 7.3. Variation of timetable[^c-7eb4cd64c763038b7d4a383b70f53d99]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eb4cd64c763038b7d4a383b70f53d99]: Commencement: Para. 7.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7eb4cd64c763038b7d4a383b70f53d99]: Commencement: Para. 7.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

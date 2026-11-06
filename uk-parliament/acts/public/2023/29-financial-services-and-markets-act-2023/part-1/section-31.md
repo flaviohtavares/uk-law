@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Matters to consider when making rules[^key-c913983facf408f7dea544326b3f2365][^key-40593c2bb4d17e81f4839ad83bcff83a]
+## 31. Matters to consider when making rules[^c-c913983facf408f7dea544326b3f2365][^c-40593c2bb4d17e81f4839ad83bcff83a]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c913983facf408f7dea544326b3f2365]: Commencement: S. 31 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c913983facf408f7dea544326b3f2365]: Commencement: S. 31 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-40593c2bb4d17e81f4839ad83bcff83a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/29/section/31) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/v)
+[^c-40593c2bb4d17e81f4839ad83bcff83a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/29/section/31) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/v)

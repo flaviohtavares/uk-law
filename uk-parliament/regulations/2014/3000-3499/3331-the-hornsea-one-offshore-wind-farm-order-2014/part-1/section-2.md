@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-8e48ce80eb90eab0f8deffa9b4d5877c]
+## 2. Interpretation[^c-8e48ce80eb90eab0f8deffa9b4d5877c]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ summary: ''
 - “the licence conditions” means the conditions set out in respect of each of the deemed marine licences in Part 2 of Schedules 8 to 11 respectively;
 - “the limits of deviation” means the limits of deviation for the scheduled works comprised in the authorised development shown on the works plans;
 - “the local planning authority” means, in relation to any land or part of the authorised development, the district council or unitary authority for the area in which the land or development is situated;
-- “maintain”, includes, to the extent assessed in the Environmental Statement[^key-b33faf8e6e101faa7efeaf807279fe91]—
+- “maintain”, includes, to the extent assessed in the Environmental Statement[^c-b33faf8e6e101faa7efeaf807279fe91]—
   - (a) inspect, repair, adjust and alter; and
   - (b) in respect of any of the ancillary works and any component part of any wind turbine generator, offshore accommodation platform, offshore HVAC collector substation, offshore HVDC converter station, offshore reactive compensation substation or Work No. 10 also includes remove, reconstruct and replace,
 
@@ -101,11 +101,11 @@ summary: ''
 - (a) all offshore co-ordinates shall be taken to be latitude and longitude degrees, minutes and seconds to three decimal places in WGS84 Datum; and
 - (b) all onshore co-ordinates shall be taken to be Eastings and Northings in OSGB36 Datum, British National Grid Projection.
 
-(6)[^key-3f8e73727f6931c9032ab679fd36d9a3] References in this Order to rights over land include references to rights to do or to place and maintain anything in, on or under land or in the airspace above its surface.
+(6)[^c-3f8e73727f6931c9032ab679fd36d9a3] References in this Order to rights over land include references to rights to do or to place and maintain anything in, on or under land or in the airspace above its surface.
 
 ## Annotations
 
-[^key-8e48ce80eb90eab0f8deffa9b4d5877c]: Commencement: Art. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-8e48ce80eb90eab0f8deffa9b4d5877c]: Commencement: Art. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1980 Act which are not relevant to this Order.
 
@@ -127,6 +127,6 @@ summary: ''
 
 [^f00013]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-b33faf8e6e101faa7efeaf807279fe91]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3331/article/2/1) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)
+[^c-b33faf8e6e101faa7efeaf807279fe91]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3331/article/2/1) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)
 
-[^key-3f8e73727f6931c9032ab679fd36d9a3]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/2014/3331/article/2/6) inserted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)
+[^c-3f8e73727f6931c9032ab679fd36d9a3]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/2014/3331/article/2/6) inserted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)

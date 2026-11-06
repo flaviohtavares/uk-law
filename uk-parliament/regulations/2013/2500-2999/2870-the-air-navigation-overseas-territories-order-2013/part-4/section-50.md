@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Flight crew licence – exception for members of HM Forces[^key-c77075ab955079aef2c4af7eb8280b41]
+## 50. Flight crew licence – exception for members of HM Forces[^c-c77075ab955079aef2c4af7eb8280b41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person may act as a member of the flight crew of an aircraft registered in the
 
 ## Annotations
 
-[^key-c77075ab955079aef2c4af7eb8280b41]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2013/2870/article/50) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c77075ab955079aef2c4af7eb8280b41]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2013/2870/article/50) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

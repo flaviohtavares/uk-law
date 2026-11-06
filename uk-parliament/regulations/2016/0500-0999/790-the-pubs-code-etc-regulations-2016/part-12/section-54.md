@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Short agreements[^key-c79b96df57bb7a9ec99edcda7812604b]
+## 54. Short agreements[^c-c79b96df57bb7a9ec99edcda7812604b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ regulations 9 to 13 and Parts 3 to 10 of these Regulations do not apply to the d
 
 ## Annotations
 
-[^key-c79b96df57bb7a9ec99edcda7812604b]: Commencement: Reg. 54 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-c79b96df57bb7a9ec99edcda7812604b]: Commencement: Reg. 54 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

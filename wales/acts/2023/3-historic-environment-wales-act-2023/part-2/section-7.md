@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. When interim protection ends[^key-cf98994cc53e2de4300f0fda8a61edea][^key-e44db87bbd3408c6a53e03601a43808a]
+## 7. When interim protection ends[^c-cf98994cc53e2de4300f0fda8a61edea][^c-e44db87bbd3408c6a53e03601a43808a]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf98994cc53e2de4300f0fda8a61edea]: Commencement: S. 7 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-cf98994cc53e2de4300f0fda8a61edea]: Commencement: S. 7 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e44db87bbd3408c6a53e03601a43808a]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/3/section/7) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-e44db87bbd3408c6a53e03601a43808a]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/3/section/7) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

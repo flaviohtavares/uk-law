@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Exceptions for certain acquisitions of major interests in land[^key-1e9ee87e0d53ff0a68fcf59c99c4aac0]
+## 46. Exceptions for certain acquisitions of major interests in land[^c-1e9ee87e0d53ff0a68fcf59c99c4aac0]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e9ee87e0d53ff0a68fcf59c99c4aac0]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2017/1/section/46) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1e9ee87e0d53ff0a68fcf59c99c4aac0]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2017/1/section/46) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

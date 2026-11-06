@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Contribution notices and financial support directions[^key-27f34d8ae10572a4d1fe175ec1a460ba]
+## 24. Contribution notices and financial support directions[^c-27f34d8ae10572a4d1fe175ec1a460ba]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f34d8ae10572a4d1fe175ec1a460ba]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2012/3/section/24) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)
+[^c-27f34d8ae10572a4d1fe175ec1a460ba]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2012/3/section/24) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)

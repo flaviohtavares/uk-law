@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Temporary prohibition or restriction of use of streets and public rights of way[^key-1f870939439b40d4400acc3c87cd6e32]
+## 12. Temporary prohibition or restriction of use of streets and public rights of way[^c-1f870939439b40d4400acc3c87cd6e32]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f870939439b40d4400acc3c87cd6e32]: Commencement: Art. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-1f870939439b40d4400acc3c87cd6e32]: Commencement: Art. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

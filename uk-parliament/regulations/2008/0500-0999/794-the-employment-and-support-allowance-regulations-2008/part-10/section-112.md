@@ -34,15 +34,15 @@ summary: ''
 
 (7) Any charitable or voluntary payment which is not made or not due to be made at regular intervals, other than one to which paragraph (8) applies, is to be treated as capital.
 
-(8)[^key-6ab6ac475074fe940de0fc33f1431a72] This paragraph applies to—
+(8)[^c-6ab6ac475074fe940de0fc33f1431a72] This paragraph applies to—
 
-- (a) any payment which is made under or by the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation, the Scottish Infected Blood Support Scheme, an approved blood scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund, the National Emergencies Trust , the Victims of Overseas Terrorism Compensation Scheme[^key-e1bcbc43b8d1016618193fa034b99341] or the Independent Living Fund (2006); or
-- (b)[^key-83c4810212c70074d76d70c3c0fb971a] any—
+- (a) any payment which is made under or by the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation, the Scottish Infected Blood Support Scheme, an approved blood scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund, the National Emergencies Trust , the Victims of Overseas Terrorism Compensation Scheme[^c-e1bcbc43b8d1016618193fa034b99341] or the Independent Living Fund (2006); or
+- (b)[^c-83c4810212c70074d76d70c3c0fb971a] any—
   - (i) Grenfell Tower payment;
   - (ii) child abuse payment;
-  - (iii)[^key-2bd661f655a5bab85f257a61afd00eb0] Windrush payment;
+  - (iii)[^c-2bd661f655a5bab85f257a61afd00eb0] Windrush payment;
   - (iv) Post Office compensation payment;
-  - (v) LGBT Financial Recognition Scheme payment;[^key-d3cba5b7b9e66b49c193eea37c654768]
+  - (v) LGBT Financial Recognition Scheme payment;[^c-d3cba5b7b9e66b49c193eea37c654768]
   - (vi) miscarriage of justice compensation payment.
 
 (9) Any arrears of subsistence allowance which are paid to a claimant as a lump sum are to be treated as capital.
@@ -57,12 +57,12 @@ summary: ''
 
 [^c1918969]: Textual amendment: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
 
-[^key-6ab6ac475074fe940de0fc33f1431a72]: Textual amendment: Reg. 112(8) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2020/618/regulation/7/4)
+[^c-6ab6ac475074fe940de0fc33f1431a72]: Textual amendment: Reg. 112(8) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2020/618/regulation/7/4)
 
-[^key-e1bcbc43b8d1016618193fa034b99341]: Textual amendment: Words in [reg. 112(8)(a)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/a) inserted (27.10.2023) by [The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/1144)](https://www.legislation.gov.uk/uksi/2023/1144), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/8/3/a)
+[^c-e1bcbc43b8d1016618193fa034b99341]: Textual amendment: Words in [reg. 112(8)(a)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/a) inserted (27.10.2023) by [The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/1144)](https://www.legislation.gov.uk/uksi/2023/1144), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/8/3/a)
 
-[^key-83c4810212c70074d76d70c3c0fb971a]: Textual amendment: [Reg. 112(8)(b)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b) substituted (1.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2021 (S.I. 2021/1405)](https://www.legislation.gov.uk/uksi/2021/1405), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1405/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2021/1405/regulation/7/4)
+[^c-83c4810212c70074d76d70c3c0fb971a]: Textual amendment: [Reg. 112(8)(b)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b) substituted (1.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2021 (S.I. 2021/1405)](https://www.legislation.gov.uk/uksi/2021/1405), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1405/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2021/1405/regulation/7/4)
 
-[^key-2bd661f655a5bab85f257a61afd00eb0]: Textual amendment: [Reg. 112(8)(b)(iii)-(v)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/iii) substituted for [reg. 112(8)(b)(iii)(iv)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/iii) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2025/44/regulation/8/4)
+[^c-2bd661f655a5bab85f257a61afd00eb0]: Textual amendment: [Reg. 112(8)(b)(iii)-(v)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/iii) substituted for [reg. 112(8)(b)(iii)(iv)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/iii) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2025/44/regulation/8/4)
 
-[^key-d3cba5b7b9e66b49c193eea37c654768]: Textual amendment: [Reg. 112(8)(b)(vi)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/vi) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2025/778/regulation/7/4)
+[^c-d3cba5b7b9e66b49c193eea37c654768]: Textual amendment: [Reg. 112(8)(b)(vi)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/vi) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2025/778/regulation/7/4)

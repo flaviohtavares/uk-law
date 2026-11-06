@@ -63,7 +63,7 @@ in accordance with the terms applicable to the agreement.
 
 (9) In this section “**relevant remedial measures**” means—
 
-- (a) any safeguard measures, or re-balancing measures, which any party to the Trade and Cooperation Agreement or any supplementing agreement is entitled to take under Article 773[^key-98c2bfc7c858de22d325c88d262b559a] of the Trade and Cooperation Agreement (including that Article as it has effect in relation to any supplementing agreement),
+- (a) any safeguard measures, or re-balancing measures, which any party to the Trade and Cooperation Agreement or any supplementing agreement is entitled to take under Article 773[^c-98c2bfc7c858de22d325c88d262b559a] of the Trade and Cooperation Agreement (including that Article as it has effect in relation to any supplementing agreement),
 - (b) any other safeguard measures or re-balancing measures, or
 - (c) any other remedial measures which any party to a future relationship agreement is entitled to take under that agreement or any other future relationship agreement,
 
@@ -71,4 +71,4 @@ and includes any interim or temporary measures which fall within paragraph (a), 
 
 ## Annotations
 
-[^key-98c2bfc7c858de22d325c88d262b559a]: Textual amendment: Words in [s. 33(9)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/33/9/a) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-98c2bfc7c858de22d325c88d262b559a]: Textual amendment: Words in [s. 33(9)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/33/9/a) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))

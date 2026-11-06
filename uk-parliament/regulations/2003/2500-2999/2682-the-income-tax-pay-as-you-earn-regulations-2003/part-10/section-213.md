@@ -46,21 +46,21 @@ summary: ''
 </tbody>
 </table>
 
-[^key-553b00c4b2191d63ef6b4ede23447da8][^key-4373ab1b0fa3a8af542434b3da707834][^key-4373ab1b0fa3a8af542434b3da707834][^key-4373ab1b0fa3a8af542434b3da707834][^key-4373ab1b0fa3a8af542434b3da707834][^key-c2b9801865456f3b7ec0a985a64a2a68][^key-c2b9801865456f3b7ec0a985a64a2a68][^key-c2b9801865456f3b7ec0a985a64a2a68][^key-c2b9801865456f3b7ec0a985a64a2a68]
+[^c-553b00c4b2191d63ef6b4ede23447da8][^c-4373ab1b0fa3a8af542434b3da707834][^c-4373ab1b0fa3a8af542434b3da707834][^c-4373ab1b0fa3a8af542434b3da707834][^c-4373ab1b0fa3a8af542434b3da707834][^c-c2b9801865456f3b7ec0a985a64a2a68][^c-c2b9801865456f3b7ec0a985a64a2a68][^c-c2b9801865456f3b7ec0a985a64a2a68][^c-c2b9801865456f3b7ec0a985a64a2a68]
 
 (4) But the Inland Revenue may only deliver information by an approved method of electronic communications if the employer or employer’s agent (as the case may be) has consented to delivery of information in that way, and the Inland Revenue have not been notified that the consent has been withdrawn.
 
-(5)[^key-753ab539c91bb6aa9a74d6464d0e6e0b] References in paragraphs (2) and (4) to—
+(5)[^c-753ab539c91bb6aa9a74d6464d0e6e0b] References in paragraphs (2) and (4) to—
 
 - (a) an employer include, in relation to regulations 97Q(1) (notice of requirement) and 97U(3) (outcome of application for reduction in the value of security held: further provision), any person to whom a notice under those regulations is given, and
 - (b) an employer’s agent are to a person acting on behalf of the employer.
 
 ## Annotations
 
-[^key-553b00c4b2191d63ef6b4ede23447da8]: Textual amendment: Words in [reg. 213(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/213/3) Table 11 inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [59(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/59/a)
+[^c-553b00c4b2191d63ef6b4ede23447da8]: Textual amendment: Words in [reg. 213(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/213/3) Table 11 inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [59(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/59/a)
 
-[^key-4373ab1b0fa3a8af542434b3da707834]: Textual amendment: Words in reg. 213(3) Table 11 omitted (in relation to the tax year 2010-11 and subsequent tax years) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/3), [14(a)](https://www.legislation.gov.uk/uksi/2010/668/regulation/14/a)
+[^c-4373ab1b0fa3a8af542434b3da707834]: Textual amendment: Words in reg. 213(3) Table 11 omitted (in relation to the tax year 2010-11 and subsequent tax years) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/3), [14(a)](https://www.legislation.gov.uk/uksi/2010/668/regulation/14/a)
 
-[^key-c2b9801865456f3b7ec0a985a64a2a68]: Textual amendment: Words in [reg. 213(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/213/3) Table 11 omitted (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [14(b)](https://www.legislation.gov.uk/uksi/2010/668/regulation/14/b)
+[^c-c2b9801865456f3b7ec0a985a64a2a68]: Textual amendment: Words in [reg. 213(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/213/3) Table 11 omitted (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [14(b)](https://www.legislation.gov.uk/uksi/2010/668/regulation/14/b)
 
-[^key-753ab539c91bb6aa9a74d6464d0e6e0b]: Textual amendment: [Reg. 213(5)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/213/5) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [59(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/59/b)
+[^c-753ab539c91bb6aa9a74d6464d0e6e0b]: Textual amendment: [Reg. 213(5)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/213/5) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [59(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/59/b)

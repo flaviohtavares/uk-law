@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Designation of specialist judiciary[^key-a0645a20b4cff1414fbde8487afe8b94]
+## 35. Designation of specialist judiciary[^c-a0645a20b4cff1414fbde8487afe8b94]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0645a20b4cff1414fbde8487afe8b94]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/18/section/35) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a0645a20b4cff1414fbde8487afe8b94]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/18/section/35) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Adult dependants’ grant[^key-d00a4c294b9d24027333cd0009683468]
+## 45. Adult dependants’ grant[^c-d00a4c294b9d24027333cd0009683468]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d00a4c294b9d24027333cd0009683468]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2007/195/regulation/45) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-d00a4c294b9d24027333cd0009683468]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2007/195/regulation/45) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 179. Notification of new administrator[^key-2be436d0bcc94843aeebcc4ff042e406]
+## 179. Notification of new administrator[^c-2be436d0bcc94843aeebcc4ff042e406]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2be436d0bcc94843aeebcc4ff042e406]: Commencement: [Rule 179](https://www.legislation.gov.uk/nisr/2026/11/rule/179) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-2be436d0bcc94843aeebcc4ff042e406]: Commencement: [Rule 179](https://www.legislation.gov.uk/nisr/2026/11/rule/179) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

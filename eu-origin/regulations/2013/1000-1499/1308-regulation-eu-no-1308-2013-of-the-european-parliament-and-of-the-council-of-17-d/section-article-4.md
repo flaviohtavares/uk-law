@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Where necessary in order to take into account amendments to the combined nomenclature, the Secretary of State may make regulations[^key-312b535f7ff72afe5da47dd8ae0c72e7] adjusting the description of products and references in this Regulation to the headings or subheadings of the combined nomenclature.
+Where necessary in order to take into account amendments to the combined nomenclature, the Secretary of State may make regulations[^c-312b535f7ff72afe5da47dd8ae0c72e7] adjusting the description of products and references in this Regulation to the headings or subheadings of the combined nomenclature.
 
 ## Annotations
 
-[^key-312b535f7ff72afe5da47dd8ae0c72e7]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2013/1308/article/4) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-312b535f7ff72afe5da47dd8ae0c72e7]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2013/1308/article/4) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

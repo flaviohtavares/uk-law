@@ -25,7 +25,7 @@ summary: ''
 - (a) any expenditure on plant or machinery has qualified for a first-year allowance or a normal writing-down allowance, and
 - (b) the plant or machinery is subsequently used at any time in the designated period for overseas leasing which is not protected leasing,
 
-the person who then owns the plant or machinery must give notice of the fact to an officer of Revenue and Customs[^key-f8383d059f6983497492acea54d7cfe8].
+the person who then owns the plant or machinery must give notice of the fact to an officer of Revenue and Customs[^c-f8383d059f6983497492acea54d7cfe8].
 
 (2) The notice must specify—
 
@@ -39,4 +39,4 @@ the person who then owns the plant or machinery must give notice of the fact to 
 
 ## Annotations
 
-[^key-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

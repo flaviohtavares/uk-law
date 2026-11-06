@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Section 73: the list[^key-510c110b4e4adc334db457645b15c13b]
+## 74. Section 73: the list[^c-510c110b4e4adc334db457645b15c13b]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ but this is subject to subsections (5) and (6).
 
 ## Annotations
 
-[^key-510c110b4e4adc334db457645b15c13b]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2016/18/section/74) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-510c110b4e4adc334db457645b15c13b]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2016/18/section/74) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

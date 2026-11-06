@@ -54,21 +54,21 @@ This Order is made in exercise of the powers conferred by sections 60(1), (2)(b)
 
 Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 
-## 1. Citation and commencement[^key-34f12e26ec4222f68c8243a1d53c8850]
+## 1. Citation and commencement[^c-34f12e26ec4222f68c8243a1d53c8850]
 
 (1) This Order may be cited as the Air Navigation (Amendment) Order 2019.
 
 (2) This Order comes into force on 13th March 2019.
 
-## 2. Amendment of the Air Navigation Order 2016[^key-113312adeccc658713d699174dca210a]
+## 2. Amendment of the Air Navigation Order 2016[^c-113312adeccc658713d699174dca210a]
 
 The Air Navigation Order 2016 [^c23588061] is amended as follows.
 
-## 3. Amendment of article 94[^key-7e8ecfc611b56b82d9a5b0781c9e754e]
+## 3. Amendment of article 94[^c-7e8ecfc611b56b82d9a5b0781c9e754e]
 
 In article 94 (small unmanned aircraft: requirements), omit paragraphs (4) and (4A).
 
-## 4. Replacement of articles 94A and 94B[^key-ee3a0b48dbff09c8f3fb9e167cf351b1]
+## 4. Replacement of articles 94A and 94B[^c-ee3a0b48dbff09c8f3fb9e167cf351b1]
 
 For articles 94A (small unmanned aircraft: height restrictions on flights) and 94B (small unmanned aircraft: restrictions on flights that are over or near aerodromes) substitute—
 
@@ -161,7 +161,7 @@ For articles 94A (small unmanned aircraft: height restrictions on flights) and 9
 
 .
 
-## 5. Amendment of Schedule 1[^key-34a1c7b446479ee7157557af3f62fd52]
+## 5. Amendment of Schedule 1[^c-34a1c7b446479ee7157557af3f62fd52]
 
 In Schedule 1 (interpretation)—
 
@@ -174,7 +174,7 @@ In Schedule 1 (interpretation)—
 
   .
 
-## 6. Amendment of Schedule 13[^key-7dece0e8ec28ac0804abb66c7ffbb176]
+## 6. Amendment of Schedule 13[^c-7dece0e8ec28ac0804abb66c7ffbb176]
 
 In Part 2 of Schedule 13 (penalties: provisions referred to in article 265(6)), for the entries relating to articles 94A and 94B substitute—
 
@@ -206,16 +206,16 @@ An Impact Assessment has not been produced for this instrument as only minimal i
 
 [^c23588051]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Section 61 was amended by the [Aviation (Offences) Act 2003 (c.19)](https://www.legislation.gov.uk/ukpga/2003/19), [section 2](https://www.legislation.gov.uk/ukpga/2003/19/section/2). There are other amendments but none is relevant.
 
-[^key-34f12e26ec4222f68c8243a1d53c8850]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/261/article/1) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
+[^c-34f12e26ec4222f68c8243a1d53c8850]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/261/article/1) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
 
-[^key-113312adeccc658713d699174dca210a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/261/article/2) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
+[^c-113312adeccc658713d699174dca210a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/261/article/2) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
 
 [^c23588061]: Marginal citation: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765). Article 94 and Schedules 1 and 13 were amended, and articles 94A to 94G inserted, by [S.I. 2018/623](https://www.legislation.gov.uk/uksi/2018/623). There are other amendments but none is relevant.
 
-[^key-7e8ecfc611b56b82d9a5b0781c9e754e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/261/article/3) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
+[^c-7e8ecfc611b56b82d9a5b0781c9e754e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/261/article/3) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
 
-[^key-ee3a0b48dbff09c8f3fb9e167cf351b1]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2019/261/article/4) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
+[^c-ee3a0b48dbff09c8f3fb9e167cf351b1]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2019/261/article/4) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
 
-[^key-34a1c7b446479ee7157557af3f62fd52]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/261/article/5) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
+[^c-34a1c7b446479ee7157557af3f62fd52]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/261/article/5) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
 
-[^key-7dece0e8ec28ac0804abb66c7ffbb176]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2019/261/article/6) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)
+[^c-7dece0e8ec28ac0804abb66c7ffbb176]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2019/261/article/6) in force at 13.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2)

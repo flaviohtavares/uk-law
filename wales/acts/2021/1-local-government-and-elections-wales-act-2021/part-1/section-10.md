@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Duty to notify when resolution passed[^key-f8b287533e2edcc71e69d43862fb41b2]
+## 10. Duty to notify when resolution passed[^c-f8b287533e2edcc71e69d43862fb41b2]
 
 *Extent: E+W*
 
-(1) If a principal council exercises its power to change the voting system under section 8, the council must notify the Welsh Ministers and the Democracy and Boundary Commission Cymru[^key-7151ff299a20b49d8ce982b8ae3ea996] of the change.
+(1) If a principal council exercises its power to change the voting system under section 8, the council must notify the Welsh Ministers and the Democracy and Boundary Commission Cymru[^c-7151ff299a20b49d8ce982b8ae3ea996] of the change.
 
 (2) The notification must—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8b287533e2edcc71e69d43862fb41b2]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2021/1/section/10) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
+[^c-f8b287533e2edcc71e69d43862fb41b2]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2021/1/section/10) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
 
-[^key-7151ff299a20b49d8ce982b8ae3ea996]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/asc/2021/1/section/10/1) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 47](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/47)
+[^c-7151ff299a20b49d8ce982b8ae3ea996]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/asc/2021/1/section/10/1) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 47](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/47)

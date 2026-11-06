@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-References in this Chapter to obtaining paid work include obtaining more paid work or better-paid work[^key-9533740e4543a35eb99baa4b10da390d].
+References in this Chapter to obtaining paid work include obtaining more paid work or better-paid work[^c-9533740e4543a35eb99baa4b10da390d].
 
 ## Annotations
 
-[^key-9533740e4543a35eb99baa4b10da390d]: Textual amendment: Words in [reg. 87](https://www.legislation.gov.uk/uksi/2013/376/regulation/87) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/987/regulation/6))
+[^c-9533740e4543a35eb99baa4b10da390d]: Textual amendment: Words in [reg. 87](https://www.legislation.gov.uk/uksi/2013/376/regulation/87) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/987/regulation/6))

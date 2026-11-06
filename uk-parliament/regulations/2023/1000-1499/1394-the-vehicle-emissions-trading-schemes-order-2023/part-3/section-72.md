@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Expiry of VCTS allowances[^key-01e0f3fb0247d6bc44c069c03909fb94]
+## 72. Expiry of VCTS allowances[^c-01e0f3fb0247d6bc44c069c03909fb94]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The administrator must record in the registry the expiry of a VCTS allowance, in
 
 ## Annotations
 
-[^key-01e0f3fb0247d6bc44c069c03909fb94]: Commencement: Art. 72 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-01e0f3fb0247d6bc44c069c03909fb94]: Commencement: Art. 72 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

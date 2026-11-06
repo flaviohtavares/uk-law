@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Compliance orders and directions[^key-70161fac272270e08701d74e113d0513]
+## 8. Compliance orders and directions[^c-70161fac272270e08701d74e113d0513]
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if it appears to the Bank of England[^key-49cd69dec374827d849271e370f2407c] that—
+(1) This regulation applies if it appears to the Bank of England[^c-49cd69dec374827d849271e370f2407c] that—
 
 - (a) any requirement of Schedule 1 is not satisfied, or is likely not to be satisfied, in relation to an Operator; or
 - (b) an Operator has failed to comply with any obligation imposed on him by or under these Regulations.
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-70161fac272270e08701d74e113d0513]: Commencement: Reg. 8 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-70161fac272270e08701d74e113d0513]: Commencement: Reg. 8 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-49cd69dec374827d849271e370f2407c]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2001/3755/regulation/8) substituted (1.4.2013) by [The Uncertificated Securities (Amendment) Regulations 2013 (S.I. 2013/632)](https://www.legislation.gov.uk/uksi/2013/632), [regs. 1](https://www.legislation.gov.uk/uksi/2013/632/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2013/632/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/632/regulation/3))
+[^c-49cd69dec374827d849271e370f2407c]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2001/3755/regulation/8) substituted (1.4.2013) by [The Uncertificated Securities (Amendment) Regulations 2013 (S.I. 2013/632)](https://www.legislation.gov.uk/uksi/2013/632), [regs. 1](https://www.legislation.gov.uk/uksi/2013/632/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2013/632/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/632/regulation/3))
 
 [^f00013]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).

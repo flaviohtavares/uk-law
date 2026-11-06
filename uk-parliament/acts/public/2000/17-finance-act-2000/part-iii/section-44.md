@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c9da02a2a2c2b11ee2080b20129888de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c9da02a2a2c2b11ee2080b20129888de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c9da02a2a2c2b11ee2080b20129888de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c9da02a2a2c2b11ee2080b20129888de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c9da02a2a2c2b11ee2080b20129888de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c9da02a2a2c2b11ee2080b20129888de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-3970628aea7a3e7db1d91a67080d9c38] This section applies if—
+(5A)[^c-3970628aea7a3e7db1d91a67080d9c38] This section applies if—
 
 - (a) in a year of assessment qualifying income arises under a UK settlement,
 - (b) the qualifying income consists of charitable income and non-charitable income, and
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9da02a2a2c2b11ee2080b20129888de]: Textual amendment: S. 44(1)-(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 512(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/512/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-c9da02a2a2c2b11ee2080b20129888de]: Textual amendment: S. 44(1)-(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 512(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/512/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-3970628aea7a3e7db1d91a67080d9c38]: Textual amendment: [S. 44(5A)-(5D)](https://www.legislation.gov.uk/ukpga/2000/17/section/44/5A) substituted for s. 44(4)(5) (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 391](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/391) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3970628aea7a3e7db1d91a67080d9c38]: Textual amendment: [S. 44(5A)-(5D)](https://www.legislation.gov.uk/ukpga/2000/17/section/44/5A) substituted for s. 44(4)(5) (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 391](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/391) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

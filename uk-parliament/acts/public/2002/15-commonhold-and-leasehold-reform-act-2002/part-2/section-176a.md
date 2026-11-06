@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176A. Transfer from court to First-tier Tribunal[^key-c2f33dcb670dacfc33aabfaed118262b]
+## 176A. Transfer from court to First-tier Tribunal[^c-c2f33dcb670dacfc33aabfaed118262b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2f33dcb670dacfc33aabfaed118262b]: Textual amendment: Pt. 2 Ch. 6A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 144](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/144) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c2f33dcb670dacfc33aabfaed118262b]: Textual amendment: Pt. 2 Ch. 6A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 144](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/144) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

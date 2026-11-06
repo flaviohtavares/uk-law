@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. General functions of Commissioners for Revenue and Customs[^key-24fd110dc579e2df4ed661caca52bafb]
+## 53. General functions of Commissioners for Revenue and Customs[^c-24fd110dc579e2df4ed661caca52bafb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Commissioners for Her Majesty’s Revenue and Customs shall be responsible f
 
 ## Annotations
 
-[^key-24fd110dc579e2df4ed661caca52bafb]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/2002/21/section/53) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 90](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/90); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-24fd110dc579e2df4ed661caca52bafb]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/2002/21/section/53) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 90](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/90); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Meaning of “electronic form”, “by electronic means” etc[^key-96a57e292fc8a8911817b32df6aa8eb7]
+## 148. Meaning of “electronic form”, “by electronic means” etc[^c-96a57e292fc8a8911817b32df6aa8eb7]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ References to “electronic means” have a corresponding meaning.
 
 ## Annotations
 
-[^key-96a57e292fc8a8911817b32df6aa8eb7]: Modification: S. 148 applied by 1979 c. 34, s. 31(2) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/3) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-96a57e292fc8a8911817b32df6aa8eb7]: Modification: S. 148 applied by 1979 c. 34, s. 31(2) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/3) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

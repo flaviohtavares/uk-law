@@ -44,78 +44,78 @@ of 31 May 1995
 
 establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office (revoked)
 
-[^key-3957b4622785a4d7bb603698db3b060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3957b4622785a4d7bb603698db3b060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope[^key-3957b4622785a4d7bb603698db3b060a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. General provisions[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 1. Scope[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Manner of payment[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 2. General provisions[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Date to be regarded as the date on which payment is received[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 3. Manner of payment[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Name of the person making the payment and the purpose of payment[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 4. Date to be regarded as the date on which payment is received[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Underpayment[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 5. Name of the person making the payment and the purpose of payment[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Application fee[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 6. Underpayment[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Fees relating to technical examination[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 7. Application fee[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Annual fee[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 8. Fees relating to technical examination[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Fees for processing specific requests[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 9. Annual fee[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Appeal fee[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 10. Fees for processing specific requests[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Fees laid down by the President of the Office[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 11. Appeal fee[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Surcharges[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 12. Fees laid down by the President of the Office[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Derogations[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 13. Surcharges[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Entry into force[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 14. Derogations[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3957b4622785a4d7bb603698db3b060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — Fees relating to technical examination as referred to in Article 8[^key-3957b4622785a4d7bb603698db3b060a]
+## Article 15. Entry into force[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-3957b4622785a4d7bb603698db3b060a]
+[^c-3957b4622785a4d7bb603698db3b060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Fees relating to technical examination as referred to in Article 8[^c-3957b4622785a4d7bb603698db3b060a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-3957b4622785a4d7bb603698db3b060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3957b4622785a4d7bb603698db3b060a]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3957b4622785a4d7bb603698db3b060a]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

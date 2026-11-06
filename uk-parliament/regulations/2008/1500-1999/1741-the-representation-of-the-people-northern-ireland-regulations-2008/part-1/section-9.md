@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Official poll card and postal poll card at parliamentary elections[^key-462dcfbca6847916890e64133dea2fce]
+## 9. Official poll card and postal poll card at parliamentary elections[^c-462dcfbca6847916890e64133dea2fce]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-462dcfbca6847916890e64133dea2fce]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/1741/regulation/9) substituted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1808/regulation/3)
+[^c-462dcfbca6847916890e64133dea2fce]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/1741/regulation/9) substituted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1808/regulation/3)

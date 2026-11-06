@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Temporary event notices: acknowledgment of notice[^key-45df314a50a2862c44ba7202649b6605]
+## 116. Temporary event notices: acknowledgment of notice[^c-45df314a50a2862c44ba7202649b6605]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45df314a50a2862c44ba7202649b6605]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2011/13/section/116) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-45df314a50a2862c44ba7202649b6605]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2011/13/section/116) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

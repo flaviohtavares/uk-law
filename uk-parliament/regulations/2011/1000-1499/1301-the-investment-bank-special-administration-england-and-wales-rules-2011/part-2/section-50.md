@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Order of appointment[^key-72a96c6de364748e841af4f287153bf0]
+## 50. Order of appointment[^c-72a96c6de364748e841af4f287153bf0]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) As soon as is reasonably practicable after appointment the person appointed must send notice of the order of appointment to—
 
 - (a) the investment bank;
-- (b)[^key-c8cb101619a28426f80ad6539e0192f6] the FCA;
+- (b)[^c-c8cb101619a28426f80ad6539e0192f6] the FCA;
 - (ba) if the application relates to a PRA-authorised person, the PRA;
 - (c) the FSCS; and
 - (d) the registrar of companies.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72a96c6de364748e841af4f287153bf0]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2011/1301/rule/50) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-72a96c6de364748e841af4f287153bf0]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2011/1301/rule/50) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-c8cb101619a28426f80ad6539e0192f6]: Textual amendment: [Art. 50(3)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/50/3/b)[(ba)](https://www.legislation.gov.uk/uksi/2011/1301/article/50/3/ba) substituted for [art. 50(3)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/50/3/b) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(n)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/n) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-c8cb101619a28426f80ad6539e0192f6]: Textual amendment: [Art. 50(3)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/50/3/b)[(ba)](https://www.legislation.gov.uk/uksi/2011/1301/article/50/3/ba) substituted for [art. 50(3)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/50/3/b) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(n)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/n) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

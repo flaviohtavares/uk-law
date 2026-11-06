@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Guidance on charity test[^key-886baa825afa0d2c704d2edd1968e893]
+## 9. Guidance on charity test[^c-886baa825afa0d2c704d2edd1968e893]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ OSCR must, after consulting representatives of the charitable sector and such ot
 
 ## Annotations
 
-[^key-886baa825afa0d2c704d2edd1968e893]: Commencement: S. 9 in force at 24.2.2006 by [S.S.I. 2006/74](https://www.legislation.gov.uk/ssi/2006/74), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/74/article/2/b)
+[^c-886baa825afa0d2c704d2edd1968e893]: Commencement: S. 9 in force at 24.2.2006 by [S.S.I. 2006/74](https://www.legislation.gov.uk/ssi/2006/74), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/74/article/2/b)

@@ -24,7 +24,7 @@ Regulation 2(1)
 
 *Extent: E+W+S*
 
-**1.**[^M_E_d80c704d-eba6-4922-b562-a0715f2be3cc] (1) Each pyrotechnic article must attain the performance characteristics specified by the manufacturer to the approved[^key-82f46b076c259fa6170f31fa3cc4c9d3] body in order to ensure maximum safety and reliability.
+**1.**[^M_E_d80c704d-eba6-4922-b562-a0715f2be3cc] (1) Each pyrotechnic article must attain the performance characteristics specified by the manufacturer to the approved[^c-82f46b076c259fa6170f31fa3cc4c9d3] body in order to ensure maximum safety and reliability.
 
 (2) Each pyrotechnic article must be designed and manufactured in such a way that it can be disposed of safely by a suitable process with minimum effect on the environment.
 
@@ -153,6 +153,6 @@ Regulation 2(1)
 
 [^M_E_d80c704d-eba6-4922-b562-a0715f2be3cc]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-82f46b076c259fa6170f31fa3cc4c9d3]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/2/paragraph/1/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/38) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82f46b076c259fa6170f31fa3cc4c9d3]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/2/paragraph/1/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/38) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_06dd0a7c-dfe1-488e-df57-0520b677be35]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

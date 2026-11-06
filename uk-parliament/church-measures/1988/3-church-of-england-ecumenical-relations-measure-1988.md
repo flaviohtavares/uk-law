@@ -37,7 +37,7 @@ A Measure passed by the General Synod of the Church of England to enable provisi
 
 ## 1. Provision by Canon for joint worship with other Churches and for use of buildings by other Churches.
 
-(1)[^key-02853f711b67e00f59d5c60d8fd84fbd] It shall be lawful for the General Synod to make provision by Canon—
+(1)[^c-02853f711b67e00f59d5c60d8fd84fbd] It shall be lawful for the General Synod to make provision by Canon—
 
 - (a) for enabling a member of a Church to which this Measure applies to take part in public worship in accordance with the forms of service and practice of the Church of England;
 - (b) for enabling clerks in Holy Orders, deaconesses, lay workers and readers of the Church of England to take part in worship in accordance with the forms of service and practice of a Church to which this Measure applies.
@@ -53,19 +53,19 @@ A Measure passed by the General Synod of the Church of England to enable provisi
 
 (4) In subsections (2) and (3), “**Church of England service**” means a service held in accordance with the forms of service and practice of the Church of England.
 
-## 2. Provision by Canon for participation in local ecumenical co-operative schemes[^key-5563258527a769b1a604e2ab8771e21f]
+## 2. Provision by Canon for participation in local ecumenical co-operative schemes[^c-5563258527a769b1a604e2ab8771e21f]
 
 (1) It shall be lawful for the General Synod to make provision by Canon for the bishop of a diocese—
 
-- (a) to enter into an agreement, with the appropriate authority of each Church participating in a local ecumenical co-operative scheme[^key-af301cb1caee50f2a8a925a928d75ce2] established or to be established in respect of an area in his diocese, for the participation of the Church of England in that scheme[^key-6f673c18e109c19619e825a47115b871] ;
+- (a) to enter into an agreement, with the appropriate authority of each Church participating in a local ecumenical co-operative scheme[^c-af301cb1caee50f2a8a925a928d75ce2] established or to be established in respect of an area in his diocese, for the participation of the Church of England in that scheme[^c-6f673c18e109c19619e825a47115b871] ;
 - (b) to make special provision as to the ministry in the area of a local ecumenical co-operative scheme of clerks in Holy Orders, deaconesses, lay workers and readers beneficed in or licensed to any parish wholly or partly in that area or ministering in or licensed to any cathedral church in that area.
 
-(2) It shall be lawful for the General Synod to make provision by Canon for the bishop of a diocese in the case of an institution in the diocese in respect of which a clerk in Holy Orders is licensed under section 2 of the [^c922765]Extra-Parochial Ministry Measure 1967 or the bishop or bishops who make a bishop's mission order under[^key-d35a05c5f350d61ffcbbe2d5a9c98865] section 80 of the Mission and Pastoral Measure 2011[^key-1296eb49b963fbf005a09f6d8ecd5937] —
+(2) It shall be lawful for the General Synod to make provision by Canon for the bishop of a diocese in the case of an institution in the diocese in respect of which a clerk in Holy Orders is licensed under section 2 of the [^c922765]Extra-Parochial Ministry Measure 1967 or the bishop or bishops who make a bishop's mission order under[^c-d35a05c5f350d61ffcbbe2d5a9c98865] section 80 of the Mission and Pastoral Measure 2011[^c-1296eb49b963fbf005a09f6d8ecd5937] —
 
-- (a) to enter into an agreement, with the appropriate authority of each Church participating in a local ecumenical co-operative scheme established or to be established in respect of that institution or in connection with the initiative endorsed by the bishop's mission order[^key-be7f0ee31f545087f84eb61b19f3e8e1], for the participation of the Church of England in that scheme, and
+- (a) to enter into an agreement, with the appropriate authority of each Church participating in a local ecumenical co-operative scheme established or to be established in respect of that institution or in connection with the initiative endorsed by the bishop's mission order[^c-be7f0ee31f545087f84eb61b19f3e8e1], for the participation of the Church of England in that scheme, and
 - (b) to make special provision as to the ministry in that institution or in connection with the initiative endorsed by the bishop's mission order of clerks in Holy Orders.
 
-(3) The powers of the General Synod under subsections (1) and (2) above may be exercised only in respect of a local ecumenical co-operative scheme in which every other Church participating in the scheme[^key-19fa8435f7480ab5389b24c6872fd307] is a Church to which this Measure applies.
+(3) The powers of the General Synod under subsections (1) and (2) above may be exercised only in respect of a local ecumenical co-operative scheme in which every other Church participating in the scheme[^c-19fa8435f7480ab5389b24c6872fd307] is a Church to which this Measure applies.
 
 ## 3. Restriction on powers of General Synod under ss. 1 and 2.
 
@@ -76,9 +76,9 @@ The powers of the General Synod under the preceding provisions of this Measure s
 
 ## 4. Provision as to overseas clergymen etc.
 
-Where any priest or deacon of a Church in communion with the Church of England[^key-49978ff3978b4655b74d58ec0e50fb21] is granted permission under the [^c1142069]Overseas and Other Clergy (Ministry and Ordination) Measure 1967 to officiate for a limited period as a priest or deacon in the province of Canterbury or York, nothing in section 1(2) of that Measure or in any Canon shall inhibit that priest or deacon from exercising his ministry in another Church to which this Measure applies in accordance with the terms of the relationship between the Church in communion with the Church of England[^key-baebeaf4d05c55b5a368a9856b73ef52] and that other Church.
+Where any priest or deacon of a Church in communion with the Church of England[^c-49978ff3978b4655b74d58ec0e50fb21] is granted permission under the [^c1142069]Overseas and Other Clergy (Ministry and Ordination) Measure 1967 to officiate for a limited period as a priest or deacon in the province of Canterbury or York, nothing in section 1(2) of that Measure or in any Canon shall inhibit that priest or deacon from exercising his ministry in another Church to which this Measure applies in accordance with the terms of the relationship between the Church in communion with the Church of England[^c-baebeaf4d05c55b5a368a9856b73ef52] and that other Church.
 
-[^key-eaf916c31077c3a878b649c57dbdfc77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eaf916c31077c3a878b649c57dbdfc77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Churches to which Measure applies: designation by Archbishops[^M_F_99d4f0b6-d6c1-4760-edde-9f44a0621f9b]
 
@@ -89,11 +89,11 @@ Where any priest or deacon of a Church in communion with the Church of England[^
 (2) No Church shall be designated under subsection (1) above unless—
 
 - (a) the Church subscribes to the doctrine of the Holy Trinity and administers the Sacraments of baptism and Holy Communion; and
-- (b)[^key-cfd3363a4270f303ab35ab328ca53303] at the time of designation—
+- (b)[^c-cfd3363a4270f303ab35ab328ca53303] at the time of designation—
   - (i) the Church is a member of one of the following bodies, namely, Churches Together in Britain and Ireland, Churches Together in England, the Evangelical Alliance or Affinity, or of any body which is jointly determined by the Archbishops of Canterbury and York to be the successor of any such body, or
   - (ii) in the case of a Church outside the United Kingdom, it is nominated by resolution of the General Synod for the purposes of this section.
 
-## 5A. Churches to which Measure applies: designation by bishop[^key-c1023b390ba9969407e0adcee928f748]
+## 5A. Churches to which Measure applies: designation by bishop[^c-c1023b390ba9969407e0adcee928f748]
 
 (1) This Measure applies to any Church which is designated by the bishop of a diocese as a Church to which this Measure applies.
 
@@ -121,7 +121,7 @@ Where any priest or deacon of a Church in communion with the Church of England[^
 - (b) during a vacancy in the diocesan see, or
 - (c) during the diocesan bishop's absence from the diocese.
 
-## 5B. Code of Practice[^key-276474a545bd52e8c7d1adb54223a2a6]
+## 5B. Code of Practice[^c-276474a545bd52e8c7d1adb54223a2a6]
 
 (1) The House of Bishops shall issue a Code of Practice on co-operation by the Church of England with other Churches.
 
@@ -142,11 +142,11 @@ Where any priest or deacon of a Church in communion with the Church of England[^
 
 (7) If the Business Committee of the General Synod decides that the Code does not need to be debated, it is to be treated as approved for the purposes of subsection (6) unless a member of the Synod gives notice under its Standing Orders that the member wishes the Code to be debated.
 
-## 6. Interpretation.[^key-00c39fe2330cc7d092f4e49c498177eb]
+## 6. Interpretation.[^c-00c39fe2330cc7d092f4e49c498177eb]
 
 (1) In this Measure “**local ecumenical co-operative scheme**” means a scheme under which Churches of different denominations agree, in relation to a specified area or institution, to co-operate in matters affecting the mission of, or worship in, those Churches or their ministry, congregational life or buildings.
 
-(2)[^key-a8bea6c4668805e380f8ce557d295f58] In this Measure “**appropriate authority**” means—
+(2)[^c-a8bea6c4668805e380f8ce557d295f58] In this Measure “**appropriate authority**” means—
 
 - (a) in relation to a Church to which this Measure applies by virtue of section 5, such authority as the Archbishops of Canterbury and York designate in relation to that Church;
 - (b) in relation to a Church to which this Measure applies by virtue of section 5A, such authority as the bishop who designated the Church under that section designates in relation to it.
@@ -173,45 +173,45 @@ Nothing in this Measure shall affect the operation of any provision of the Marri
 
 [^c922764]: Commencement: Measure not in force at Royal Assent see [s. 9(2)](https://www.legislation.gov.uk/ukcm/1988/3/section/9/2); Measure wholly in force at 1.11.1988.
 
-[^key-02853f711b67e00f59d5c60d8fd84fbd]: Textual amendment: S. 1(1): s. 1 renumbered as s. 1(1) (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/1), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-02853f711b67e00f59d5c60d8fd84fbd]: Textual amendment: S. 1(1): s. 1 renumbered as s. 1(1) (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/1), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
 [^M_F_5722ffb3-1bf3-4d78-94d8-a81f674b7254]: Textual amendment: S. 1(2)-(4) inserted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/1), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-5563258527a769b1a604e2ab8771e21f]: Textual amendment: S. 2 title substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-5563258527a769b1a604e2ab8771e21f]: Textual amendment: S. 2 title substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-af301cb1caee50f2a8a925a928d75ce2]: Textual amendment: Words in s. 2 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/a), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-af301cb1caee50f2a8a925a928d75ce2]: Textual amendment: Words in s. 2 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/a), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-6f673c18e109c19619e825a47115b871]: Textual amendment: Words in s. 2 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/b), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-6f673c18e109c19619e825a47115b871]: Textual amendment: Words in s. 2 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/b), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
 [^c922765]: Marginal citation: [1967 No. 2](https://www.legislation.gov.uk/ukcm/1967/2).
 
-[^key-d35a05c5f350d61ffcbbe2d5a9c98865]: Textual amendment: Words in s. 2(2) inserted (31.3.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [ss. 63(4)(a)](https://www.legislation.gov.uk/ukcm/2007/1/section/63/4/a), [66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-d35a05c5f350d61ffcbbe2d5a9c98865]: Textual amendment: Words in s. 2(2) inserted (31.3.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [ss. 63(4)(a)](https://www.legislation.gov.uk/ukcm/2007/1/section/63/4/a), [66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-1296eb49b963fbf005a09f6d8ecd5937]: Textual amendment: Words in s. 2(2) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(d)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/d), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-1296eb49b963fbf005a09f6d8ecd5937]: Textual amendment: Words in s. 2(2) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(d)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/d), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-be7f0ee31f545087f84eb61b19f3e8e1]: Textual amendment: Words in s. 2(2)(a)(b) inserted (31.3.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [ss. 63(4)(b)](https://www.legislation.gov.uk/ukcm/2007/1/section/63/4/b), [66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-be7f0ee31f545087f84eb61b19f3e8e1]: Textual amendment: Words in s. 2(2)(a)(b) inserted (31.3.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [ss. 63(4)(b)](https://www.legislation.gov.uk/ukcm/2007/1/section/63/4/b), [66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-19fa8435f7480ab5389b24c6872fd307]: Textual amendment: Words in s. 2 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(c)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/c), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-19fa8435f7480ab5389b24c6872fd307]: Textual amendment: Words in s. 2 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(2)(c)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2/c), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-49978ff3978b4655b74d58ec0e50fb21]: Textual amendment: Words in s. 4 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/3/a), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-49978ff3978b4655b74d58ec0e50fb21]: Textual amendment: Words in s. 4 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/3/a), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
 [^c1142069]: Marginal citation: [1967 No. 3](https://www.legislation.gov.uk/ukcm/1967/3).
 
-[^key-baebeaf4d05c55b5a368a9856b73ef52]: Textual amendment: Words in s. 4 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/3/b), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-baebeaf4d05c55b5a368a9856b73ef52]: Textual amendment: Words in s. 4 substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/3/b), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-eaf916c31077c3a878b649c57dbdfc77]: Textual amendment: Words in s. 4 omitted (1.2.2019) by virtue of [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(3)(c)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/3/c), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-eaf916c31077c3a878b649c57dbdfc77]: Textual amendment: Words in s. 4 omitted (1.2.2019) by virtue of [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(3)(c)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/3/c), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
 [^M_F_99d4f0b6-d6c1-4760-edde-9f44a0621f9b]: Textual amendment: S. 5 title substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/2), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-cfd3363a4270f303ab35ab328ca53303]: Textual amendment: S. 5(2)(b) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/10); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-cfd3363a4270f303ab35ab328ca53303]: Textual amendment: S. 5(2)(b) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/10); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-c1023b390ba9969407e0adcee928f748]: Textual amendment: S. 5A inserted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2018/6/section/2/1), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-c1023b390ba9969407e0adcee928f748]: Textual amendment: S. 5A inserted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2018/6/section/2/1), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-276474a545bd52e8c7d1adb54223a2a6]: Textual amendment: S. 5B inserted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 3](https://www.legislation.gov.uk/ukcm/2018/6/section/3), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-276474a545bd52e8c7d1adb54223a2a6]: Textual amendment: S. 5B inserted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 3](https://www.legislation.gov.uk/ukcm/2018/6/section/3), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-00c39fe2330cc7d092f4e49c498177eb]: Textual amendment: S. 6(1) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/4), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-00c39fe2330cc7d092f4e49c498177eb]: Textual amendment: S. 6(1) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/4), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-a8bea6c4668805e380f8ce557d295f58]: Textual amendment: S. 6(2) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 2(2)](https://www.legislation.gov.uk/ukcm/2018/6/section/2/2), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-a8bea6c4668805e380f8ce557d295f58]: Textual amendment: S. 6(2) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 2(2)](https://www.legislation.gov.uk/ukcm/2018/6/section/2/2), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
 [^c1142070]: Marginal citation: [1662 c. 4](https://www.legislation.gov.uk/aep/1662/4).
 

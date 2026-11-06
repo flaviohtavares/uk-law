@@ -29,7 +29,7 @@ summary: ''
 
 (1B) For the purposes of paragraph (b) of subsection (1A) above an applicant shall, in particular, be regarded as having a good reason if the gun is intended to be used for sporting or competition purposes or for shooting vermin; and an application shall not be refused by virtue of that paragraph merely because the applicant intends neither to use the gun himself nor to lend it for anyone else to use.
 
-(1C)[^key-f73982e6369d7c2b790a853fad855d42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-f73982e6369d7c2b790a853fad855d42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c9810701] A shot gun certificate shall be in the prescribed form and shall—
 
@@ -44,7 +44,7 @@ summary: ''
 
 [^c9810681]: Textual amendment: S. 28(1) substituted by [Firearms (Amendment) Act 1988 (c. 45, SIF 51:1)](https://www.legislation.gov.uk/ukpga/1988/45), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1988/45/section/3/1)
 
-[^key-f73982e6369d7c2b790a853fad855d42]: Textual amendment: [S. 28(1C)](https://www.legislation.gov.uk/ukpga/1968/27/section/28/1C) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f73982e6369d7c2b790a853fad855d42]: Textual amendment: [S. 28(1C)](https://www.legislation.gov.uk/ukpga/1968/27/section/28/1C) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c9810701]: Modification: S. 28(2) amended by [Firearms (Amendment) Act 1988 (c. 45, SIF 51:1)](https://www.legislation.gov.uk/ukpga/1988/45), [s. 9](https://www.legislation.gov.uk/ukpga/1988/45/section/9)
 

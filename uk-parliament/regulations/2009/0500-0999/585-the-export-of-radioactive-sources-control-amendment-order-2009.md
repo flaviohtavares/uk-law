@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 1, 5 and 7 of the Export Control Act 2002[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-289e87566e1ecd6253351d6c649dcc41]
+## 1. Citation and commencement[^c-289e87566e1ecd6253351d6c649dcc41]
 
 This Order may be cited as the Export of Radioactive Sources (Control) (Amendment) Order 2009 and shall come into force on 6th April 2009.
 
-## 2. Amendments[^key-717c5ad13c6753bcec465725dd0e5727]
+## 2. Amendments[^c-717c5ad13c6753bcec465725dd0e5727]
 
 The Export of Radioactive Sources (Control) Order 2006[^f00002] is amended as set out in the Schedule.
 
@@ -66,7 +66,7 @@ Department for Business, Enterprise and Regulatory Reform
 
 Article 2
 
-**1.**[^key-f71b0b13363fe1d4f4dbda35e2322022] In article 2—
+**1.**[^c-f71b0b13363fe1d4f4dbda35e2322022] In article 2—
 
 - (a) after the definition of “exportation” insert—
 
@@ -79,7 +79,7 @@ Article 2
 
   .
 
-**2.**[^key-10faea601f1b202dc057049607d3bf4a] In article 5—
+**2.**[^c-10faea601f1b202dc057049607d3bf4a] In article 5—
 
 - (a) for paragraph (1)(a) substitute—
 
@@ -100,7 +100,7 @@ Article 2
 
   .
 
-**3.**[^key-a69684f0d901ed2b79817d1ab386ba4c] For article 8 substitute—
+**3.**[^c-a69684f0d901ed2b79817d1ab386ba4c] For article 8 substitute—
 
 > **8.** (1) In the event that the Secretary of State decides not to grant a licence to any person who has applied for one, the applicant shall be provided with a written notification setting out the reason or reasons for the decision.
 >
@@ -130,14 +130,14 @@ A full impact assessment has not been produced for this instrument as minimal or
 
 [^f00001]: Footnote: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28).
 
-[^key-289e87566e1ecd6253351d6c649dcc41]: Commencement: Art. 1 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
+[^c-289e87566e1ecd6253351d6c649dcc41]: Commencement: Art. 1 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
 
-[^key-717c5ad13c6753bcec465725dd0e5727]: Commencement: Art. 2 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
+[^c-717c5ad13c6753bcec465725dd0e5727]: Commencement: Art. 2 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
 
 [^f00002]: Footnote: [S.I. 2006/1846](https://www.legislation.gov.uk/uksi/2006/1846).
 
-[^key-f71b0b13363fe1d4f4dbda35e2322022]: Commencement: Sch. para. 1 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
+[^c-f71b0b13363fe1d4f4dbda35e2322022]: Commencement: Sch. para. 1 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
 
-[^key-10faea601f1b202dc057049607d3bf4a]: Commencement: Sch. para. 2 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
+[^c-10faea601f1b202dc057049607d3bf4a]: Commencement: Sch. para. 2 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
 
-[^key-a69684f0d901ed2b79817d1ab386ba4c]: Commencement: Sch. para. 3 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)
+[^c-a69684f0d901ed2b79817d1ab386ba4c]: Commencement: Sch. para. 3 in force at 6.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1)

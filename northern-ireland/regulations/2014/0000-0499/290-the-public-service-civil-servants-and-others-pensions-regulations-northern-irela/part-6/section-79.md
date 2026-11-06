@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Deferment of added pension attributable to recent payments[^key-b72c80ca70363daf6e5fa5d7f6221362]
+## 79. Deferment of added pension attributable to recent payments[^c-b72c80ca70363daf6e5fa5d7f6221362]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b72c80ca70363daf6e5fa5d7f6221362]: Commencement: [Reg. 79](https://www.legislation.gov.uk/nisr/2014/290/regulation/79) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-b72c80ca70363daf6e5fa5d7f6221362]: Commencement: [Reg. 79](https://www.legislation.gov.uk/nisr/2014/290/regulation/79) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

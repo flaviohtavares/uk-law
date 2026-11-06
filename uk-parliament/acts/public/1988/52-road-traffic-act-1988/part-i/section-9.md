@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Protection for hospital patients.[^c19118111][^key-6aece8b57d0439e5eb10006721787654]
+## 9. Protection for hospital patients.[^c19118111][^c-6aece8b57d0439e5eb10006721787654]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^c19118111]: Modification: S. 9 applied (with modifications) (29.3.2004 for certain purposes and 30.3.2004 otherwise) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 83(1)(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/83/1/3), [96(1)(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/96/1/3), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120) (with [ss. 90](https://www.legislation.gov.uk/ukpga/2003/20/section/90), [100](https://www.legislation.gov.uk/ukpga/2003/20/section/100)); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [arts. 2](https://www.legislation.gov.uk/uksi/2004/827/article/2), [3](https://www.legislation.gov.uk/uksi/2004/827/article/3)
 
-[^key-6aece8b57d0439e5eb10006721787654]: Modification: Ss. 4-11 applied (with modifications) (5.8.2011) by [The Road Traffic (Drink and Drugs) (Cambridgeshire Guided Busway) Regulations 2011 (S.I. 2011/1652)](https://www.legislation.gov.uk/uksi/2011/1652), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1652/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1652/regulation/3)
+[^c-6aece8b57d0439e5eb10006721787654]: Modification: Ss. 4-11 applied (with modifications) (5.8.2011) by [The Road Traffic (Drink and Drugs) (Cambridgeshire Guided Busway) Regulations 2011 (S.I. 2011/1652)](https://www.legislation.gov.uk/uksi/2011/1652), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1652/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1652/regulation/3)
 
 [^c19121611]: Textual amendment: Words in s. 9(1) substituted (30.3.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 107](https://www.legislation.gov.uk/ukpga/2003/20/section/107), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), [Sch. 7 para. 3(a)](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/3/a); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3](https://www.legislation.gov.uk/uksi/2004/827/article/3)
 

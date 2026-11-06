@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55A. Additional requirements for application for an emergency proxy vote in respect of a particular election : grounds relating to occupation, service or employment[^key-b7632e0781665444e6a4222767a23c2a][^key-cc3742a911ed79f426520130a99a1e8c][^key-7c3fd642f31ccd77a96d55a9459c6c6a]
+## 55A. Additional requirements for application for an emergency proxy vote in respect of a particular election : grounds relating to occupation, service or employment[^c-b7632e0781665444e6a4222767a23c2a][^c-cc3742a911ed79f426520130a99a1e8c][^c-7c3fd642f31ccd77a96d55a9459c6c6a]
 
 *Extent: S*
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b7632e0781665444e6a4222767a23c2a]: Modification: [Reg. 55A](https://www.legislation.gov.uk/uksi/2001/497/regulation/55A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(g)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/g)
+[^c-b7632e0781665444e6a4222767a23c2a]: Modification: [Reg. 55A](https://www.legislation.gov.uk/uksi/2001/497/regulation/55A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(g)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/g)
 
-[^key-cc3742a911ed79f426520130a99a1e8c]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2001/497/regulation/55A) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [24](https://www.legislation.gov.uk/uksi/2013/3206/regulation/24)
+[^c-cc3742a911ed79f426520130a99a1e8c]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2001/497/regulation/55A) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [24](https://www.legislation.gov.uk/uksi/2013/3206/regulation/24)
 
-[^key-7c3fd642f31ccd77a96d55a9459c6c6a]: Textual amendment: Words in reg. 55A heading inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [39(5)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/39/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-7c3fd642f31ccd77a96d55a9459c6c6a]: Textual amendment: Words in reg. 55A heading inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [39(5)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/39/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

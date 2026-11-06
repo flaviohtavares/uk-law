@@ -33,18 +33,18 @@ of 4 October 2019
 
 establishing the position to be adopted on behalf of the European Union within the Committee of Technical Experts of the Intergovernmental Organisation for International Carriage by Rail (OTIF) as regards certain modifications to the National Vehicle Registers (NVR) specification and the Uniform Technical Prescriptions — Telematics applications for freight services (UTP TAF) (revoked)
 
-[^key-7f25ff723957208dd82f36c27af82759]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f25ff723957208dd82f36c27af82759]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-7f25ff723957208dd82f36c27af82759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7f25ff723957208dd82f36c27af82759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7f25ff723957208dd82f36c27af82759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7f25ff723957208dd82f36c27af82759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7f25ff723957208dd82f36c27af82759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7f25ff723957208dd82f36c27af82759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7f25ff723957208dd82f36c27af82759]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f25ff723957208dd82f36c27af82759]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f25ff723957208dd82f36c27af82759]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-7f25ff723957208dd82f36c27af82759]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

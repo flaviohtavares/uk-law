@@ -52,13 +52,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-51a41acc9f4677102398c40a6cc9c99c]
+## 1. Citation and commencement[^c-51a41acc9f4677102398c40a6cc9c99c]
 
 (1) These Regulations may be cited as the Renewables Obligation (Amendment) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on exit day.
 
-## 2. Amendments[^key-39be9cfdb06adf7e7dddfd1c916a0c27]
+## 2. Amendments[^c-39be9cfdb06adf7e7dddfd1c916a0c27]
 
 (1) Schedule 1 (which amends the Renewables Obligation Order 2015 [^c23501051]) has effect.
 
@@ -76,23 +76,23 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 2(1)
 
-### 1. Renewables Obligation Order 2015 amended[^key-5b6e84451c2482c79fc80e8dc6a267e0]
+### 1. Renewables Obligation Order 2015 amended[^c-5b6e84451c2482c79fc80e8dc6a267e0]
 
 The Renewables Obligation Order 2015 is amended in accordance with paragraphs 2 to 9.
 
-### 2. Article 2 amended (interpretation)[^key-fd597ec2015d95d39b9a914c76a324f1]
+### 2. Article 2 amended (interpretation)[^c-fd597ec2015d95d39b9a914c76a324f1]
 
 (1) Article 2 is amended as follows.
 
 (2) In paragraph (1) omit the definition of “permitted termination event”.
 
-### 3. Article 45 amended (generating stations using excluded capacity to generate electricity)[^key-aec63d4196070117ac1f6079d2bc8231]
+### 3. Article 45 amended (generating stations using excluded capacity to generate electricity)[^c-aec63d4196070117ac1f6079d2bc8231]
 
 (1) Article 45 is amended as follows.
 
 (2) In paragraph (4)(e) omit paragraph (ii) and the “and” preceding it.
 
-### 4. Article 50 amended (combustion units in relation to which a CFD or investment contract has been entered into)[^key-829d2c037d00b10794470b7c2c8ebe38]
+### 4. Article 50 amended (combustion units in relation to which a CFD or investment contract has been entered into)[^c-829d2c037d00b10794470b7c2c8ebe38]
 
 (1) Article 50 is amended as follows.
 
@@ -100,7 +100,7 @@ The Renewables Obligation Order 2015 is amended in accordance with paragraphs 2 
 
 (3) In paragraph (4) omit from “unless” to the end.
 
-### 5. Article 62 amended (common agricultural policy requirements in the case of bioliquids)[^key-8d0b54a2a9a56c1a4d13864657d72a9d]
+### 5. Article 62 amended (common agricultural policy requirements in the case of bioliquids)[^c-8d0b54a2a9a56c1a4d13864657d72a9d]
 
 (1) Article 62 is amended as follows.
 
@@ -112,12 +112,12 @@ The Renewables Obligation Order 2015 is amended in accordance with paragraphs 2 
 
 > (2) In paragraph (1), a reference to the 2013 Regulation is a reference to—
 >
-> - (a) in relation to biomaterial cultivated in the United Kingdom on or after IP completion day[^key-8d80dc9464348588e1038314c463e219], the 2013 Regulation as it forms part of domestic law;
+> - (a) in relation to biomaterial cultivated in the United Kingdom on or after IP completion day[^c-8d80dc9464348588e1038314c463e219], the 2013 Regulation as it forms part of domestic law;
 > - (b) in any other case, the 2013 Regulation as it has effect in EU law.
 
 .
 
-### 6. Article 88 amended (preliminary accreditation of generating stations)[^key-d574164a019542bd5b7f4f6d963937f6]
+### 6. Article 88 amended (preliminary accreditation of generating stations)[^c-d574164a019542bd5b7f4f6d963937f6]
 
 (1) Article 88 is amended as follows.
 
@@ -125,7 +125,7 @@ The Renewables Obligation Order 2015 is amended in accordance with paragraphs 2 
 
 (3) Omit paragraph (3).
 
-### 7. Article 89 amended (accreditation of generating stations)[^key-41e5f2b697e85b2c463b922dfe173b44]
+### 7. Article 89 amended (accreditation of generating stations)[^c-41e5f2b697e85b2c463b922dfe173b44]
 
 (1) Article 89 is amended as follows.
 
@@ -138,13 +138,13 @@ The Renewables Obligation Order 2015 is amended in accordance with paragraphs 2 
 - (a) omit “either—”;
 - (b) omit paragraph (ii) and the “or” preceding it.
 
-### 8. Article 91 amended (registration of offshore wind turbines)[^key-5804d40398b8cb8e82f2a506d5f3b29b]
+### 8. Article 91 amended (registration of offshore wind turbines)[^c-5804d40398b8cb8e82f2a506d5f3b29b]
 
 (1) Article 91 is amended as follows.
 
 (2) In paragraph (5)(b) for “one of the documents” substitute “ the document ”.
 
-### 9. Article 92 amended (registration of additional capacity)[^key-5b0037d21beee76ea20d33d07be20b20]
+### 9. Article 92 amended (registration of additional capacity)[^c-5b0037d21beee76ea20d33d07be20b20]
 
 (1) Article 92 is amended as follows.
 
@@ -157,11 +157,11 @@ The Renewables Obligation Order 2015 is amended in accordance with paragraphs 2 
 
 Regulation 2(2)
 
-### 1. Renewables Obligation (Scotland) Order 2009 amended[^key-23736b7814cef494d08fc2a142272529]
+### 1. Renewables Obligation (Scotland) Order 2009 amended[^c-23736b7814cef494d08fc2a142272529]
 
 The Renewables Obligation (Scotland) Order 2009 is amended in accordance with paragraphs 2 and 3.
 
-### 2. Article 22B amended (common agricultural policy requirements)[^key-f87f8e8b16880230783bd34aa47ae570]
+### 2. Article 22B amended (common agricultural policy requirements)[^c-f87f8e8b16880230783bd34aa47ae570]
 
 (1) Article 22B is amended as follows.
 
@@ -173,12 +173,12 @@ The Renewables Obligation (Scotland) Order 2009 is amended in accordance with pa
 
 > (2) In paragraph (1), a reference to the 2013 Regulation is a reference to—
 >
-> - (a) in relation to biomaterial cultivated in the United Kingdom on or after IP completion day[^key-ec592ad8e068809425d47daff17c1bd0], the 2013 Regulation as it forms part of domestic law;
+> - (a) in relation to biomaterial cultivated in the United Kingdom on or after IP completion day[^c-ec592ad8e068809425d47daff17c1bd0], the 2013 Regulation as it forms part of domestic law;
 > - (b) in any other case, the 2013 Regulation as it has effect in EU law.
 
 .
 
-### 3. Article 58 amended (preliminary accreditation of generating stations)[^key-c9deddd1df27df63a1fc442c3321f262]
+### 3. Article 58 amended (preliminary accreditation of generating stations)[^c-c9deddd1df27df63a1fc442c3321f262]
 
 (1) Article 58 is amended as follows.
 
@@ -188,11 +188,11 @@ The Renewables Obligation (Scotland) Order 2009 is amended in accordance with pa
 
 Regulation 2(3)
 
-### 1. Renewables Obligation Order (Northern Ireland) 2009 amended[^key-96b0edabb70eebef69b28b99b83abaf2]
+### 1. Renewables Obligation Order (Northern Ireland) 2009 amended[^c-96b0edabb70eebef69b28b99b83abaf2]
 
 The Renewables Obligation Order (Northern Ireland) 2009 is amended in accordance with paragraph 2.
 
-### 2. Article 21B amended (common agricultural policy requirements)[^key-26437b33ba4a65074f0eb707f5435b4f]
+### 2. Article 21B amended (common agricultural policy requirements)[^c-26437b33ba4a65074f0eb707f5435b4f]
 
 (1) Article 21B is amended as follows.
 
@@ -204,7 +204,7 @@ The Renewables Obligation Order (Northern Ireland) 2009 is amended in accordance
 
 > (2) In paragraph (1), a reference to the 2013 Regulation is a reference to—
 >
-> - (a) in relation to biomaterial cultivated in the United Kingdom on or after IP completion day[^key-d76e19195d3b594f0a78931de3ca4296], the 2013 Regulation as it forms part of domestic law;
+> - (a) in relation to biomaterial cultivated in the United Kingdom on or after IP completion day[^c-d76e19195d3b594f0a78931de3ca4296], the 2013 Regulation as it forms part of domestic law;
 > - (b) in any other case, the 2013 Regulation as it has effect in EU law.
 
 .
@@ -227,9 +227,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23501041]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-51a41acc9f4677102398c40a6cc9c99c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-51a41acc9f4677102398c40a6cc9c99c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-39be9cfdb06adf7e7dddfd1c916a0c27]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-39be9cfdb06adf7e7dddfd1c916a0c27]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
 [^c23501051]: Marginal citation: [S.I. 2015/1947](https://www.legislation.gov.uk/uksi/2015/1947), to which there are amendments not relevant to these Regulations.
 
@@ -237,36 +237,36 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23501071]: Marginal citation: [S.R. 2009/154](https://www.legislation.gov.uk/nisr/2009/154), amended by [S.R. 2011/169](https://www.legislation.gov.uk/nisr/2011/169), 2013/116 and 2016/84; there are other amending instruments but none is relevant.
 
-[^key-5b6e84451c2482c79fc80e8dc6a267e0]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-5b6e84451c2482c79fc80e8dc6a267e0]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-fd597ec2015d95d39b9a914c76a324f1]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-fd597ec2015d95d39b9a914c76a324f1]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-aec63d4196070117ac1f6079d2bc8231]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-aec63d4196070117ac1f6079d2bc8231]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-829d2c037d00b10794470b7c2c8ebe38]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-829d2c037d00b10794470b7c2c8ebe38]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-8d0b54a2a9a56c1a4d13864657d72a9d]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8d0b54a2a9a56c1a4d13864657d72a9d]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8d80dc9464348588e1038314c463e219]: Textual amendment: Words in Sch. 1 para. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/3/2)
+[^c-8d80dc9464348588e1038314c463e219]: Textual amendment: Words in Sch. 1 para. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/3/2)
 
-[^key-d574164a019542bd5b7f4f6d963937f6]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-d574164a019542bd5b7f4f6d963937f6]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-41e5f2b697e85b2c463b922dfe173b44]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-41e5f2b697e85b2c463b922dfe173b44]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-5804d40398b8cb8e82f2a506d5f3b29b]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-5804d40398b8cb8e82f2a506d5f3b29b]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-5b0037d21beee76ea20d33d07be20b20]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-5b0037d21beee76ea20d33d07be20b20]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-23736b7814cef494d08fc2a142272529]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-23736b7814cef494d08fc2a142272529]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-f87f8e8b16880230783bd34aa47ae570]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f87f8e8b16880230783bd34aa47ae570]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-ec592ad8e068809425d47daff17c1bd0]: Textual amendment: Words in Sch. 2 para. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/3/3)
+[^c-ec592ad8e068809425d47daff17c1bd0]: Textual amendment: Words in Sch. 2 para. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/3/3)
 
-[^key-c9deddd1df27df63a1fc442c3321f262]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-c9deddd1df27df63a1fc442c3321f262]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-96b0edabb70eebef69b28b99b83abaf2]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-96b0edabb70eebef69b28b99b83abaf2]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-26437b33ba4a65074f0eb707f5435b4f]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-26437b33ba4a65074f0eb707f5435b4f]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-d76e19195d3b594f0a78931de3ca4296]: Textual amendment: Words in Sch. 3 para. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/849/regulation/3/4)
+[^c-d76e19195d3b594f0a78931de3ca4296]: Textual amendment: Words in Sch. 3 para. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/849/regulation/3/4)

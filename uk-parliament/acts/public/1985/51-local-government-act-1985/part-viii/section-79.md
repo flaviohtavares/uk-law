@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Audit.[^key-471ea0d56c012ae409a22ded332b76bf][^c3165521][^c3165531][^c3165541][^c3165551][^c3165561][^c3165571]
+## 79. Audit.[^c-471ea0d56c012ae409a22ded332b76bf][^c3165521][^c3165531][^c3165541][^c3165551][^c3165561][^c3165571]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-471ea0d56c012ae409a22ded332b76bf]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1985/51/section/79) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-471ea0d56c012ae409a22ded332b76bf]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1985/51/section/79) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c3165521]: Modification: S. 79: certain functions transferred by S.I 1991/517, arts. 2(d), 3(a)
 

@@ -64,27 +64,27 @@ The National Assembly for Wales and the Secretary of State for Environment, Food
 - “**bird**” (“***aderyn***”) includes poultry, unless the context otherwise requires;
 - “**carcase**” (“***carcas***”) means the carcase of poultry or of any bird other than poultry, as the context requires, and includes part of a carcase;
 - “**Chief Veterinary Officer**” (“***Prif Swyddog Milfeddygol***”) means the Chief Veterinary Officer of the Department for Environment, Food and Rural Affairs;
-- “Council[^key-9c3ebdf12651a7a9d69c36892e20e0a9] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094)” (“*Cyfarwyddeb y Cyngor [2005/94/EC](https://www.legislation.gov.uk/eudr/2005/94)*”) means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) on Community measures for the control of avian influenza;
+- “Council[^c-9c3ebdf12651a7a9d69c36892e20e0a9] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094)” (“*Cyfarwyddeb y Cyngor [2005/94/EC](https://www.legislation.gov.uk/eudr/2005/94)*”) means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) on Community measures for the control of avian influenza;
 - “**designated disease**” (“***clefyd dynodedig***”) means paramyxovirus 1 in pigeons, avian influenza and Newcastle disease;
-- “**disinfect**” (“***dihentio***”) means disinfect with a disinfectant approved under the Diseases of Animals (Approved Disinfectants) (Wales) Order 2007[^key-69cb6a64d80091fdbf1cf2559445c171] for the purposes of this Order;
-- [^key-6ff061b57cd23df8cbda1c5dbc613a42]...
+- “**disinfect**” (“***dihentio***”) means disinfect with a disinfectant approved under the Diseases of Animals (Approved Disinfectants) (Wales) Order 2007[^c-69cb6a64d80091fdbf1cf2559445c171] for the purposes of this Order;
+- [^c-6ff061b57cd23df8cbda1c5dbc613a42]...
 - “**holding**” (“***daliad***”) means premises used for the rearing or keeping of breeding or productive poultry which have one county parish holding number recognised by the National Assembly for Wales and the Secretary of State as identifying that holding;
 - “**poultry**” (“***dofednod***”) means domestic fowls, turkeys, geese, ducks, guinea fowls, quails, pigeons, ratites, pheasants and partridges;
 - “**premises**” (“***safle***”) includes land, buildings and any other place; and
 - “**racing pigeon**” (“***colomen rasio***”) means any pigeon transported or intended for transport from its pigeon house (any installation used for keeping or breeding racing pigeons) to be released so that it may freely fly back to its pigeon house or to any other destination.
 
-(2) Any notice or licence served or issued under this Order or under a declaration[^key-7cc24142b96f39305c0573d3ef863139] made under article 9 below must be in writing, may be general or specific, may be the subject of conditions and may be amended, suspended or revoked by notice in writing at any time.
+(2) Any notice or licence served or issued under this Order or under a declaration[^c-7cc24142b96f39305c0573d3ef863139] made under article 9 below must be in writing, may be general or specific, may be the subject of conditions and may be amended, suspended or revoked by notice in writing at any time.
 
 ## 4. Notification procedures and precautions to be taken where the presence of a designated disease is suspected
 
 (1) A person who has in his or her possession or under his or her charge any bird or carcase having, or suspected of having, a designated disease must —
 
-- (a) immediately inform the Welsh Ministers[^key-4cfc9860af760ed92907e5a2675e8388], and
+- (a) immediately inform the Welsh Ministers[^c-4cfc9860af760ed92907e5a2675e8388], and
 - (b) take all reasonable steps to ensure that the restrictions and requirements set out in Part I of Schedule 1 to this Order are complied with.
 
-(2) A person who examines or inspects any bird or carcase or who analyses any sample taken from any bird or carcase, and who suspects the presence of a designated disease in the bird, carcase or sample must immediately inform the Welsh Ministers[^key-709b6e147f8f42351203f22a6762dfb0].
+(2) A person who examines or inspects any bird or carcase or who analyses any sample taken from any bird or carcase, and who suspects the presence of a designated disease in the bird, carcase or sample must immediately inform the Welsh Ministers[^c-709b6e147f8f42351203f22a6762dfb0].
 
-## 4A. Notification procedure where an infection with Avian Mycoplasmosis is known or suspected[^key-91128e7ec179df72c85326a1df907321]
+## 4A. Notification procedure where an infection with Avian Mycoplasmosis is known or suspected[^c-91128e7ec179df72c85326a1df907321]
 
 (1) A person who—
 
@@ -142,7 +142,7 @@ must give notice of this knowledge or suspicion as soon as practicable to the We
 
 (3) A veterinary inspector may mark, or cause to be marked, for identification purposes any bird, carcase or other thing in relation to which any of the powers under paragraphs (1) and (2) have been exercised.
 
-(4) Collection of samples and laboratory testing under paragraph (2) shall be carried out (in relation to avian influenza) in accordance with Article 50 of Council[^key-4a0a1e01a492f44114f441cfd775b85c] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) and (in relation to Newcastle disease and paramyxovirus in pigeons), with Annex III of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66).
+(4) Collection of samples and laboratory testing under paragraph (2) shall be carried out (in relation to avian influenza) in accordance with Article 50 of Council[^c-4a0a1e01a492f44114f441cfd775b85c] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) and (in relation to Newcastle disease and paramyxovirus in pigeons), with Annex III of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66).
 
 (5) The occupier of the premises or the keeper of any birds on the premises or any person in his or her employment shall provide such reasonable assistance to a veterinary inspector as he or she may require for the exercise of his or her powers under paragraphs (1), (2) and (3) above.
 
@@ -175,19 +175,19 @@ by notice served on the occupier of the premises or the keeper of any birds on t
 
 ## 9. Declaration of infected area
 
-(1) Upon the presence in any area in Wales or elsewhere of a designated disease in poultry being confirmed by the Chief Veterinary Officer or by a person authorised by him or her, the National Assembly for Wales or the Secretary of State shall, [^key-b3f33ba8079ffbac298b7a28774637a9]... declare such of that area as is in Wales to be an infected area.
+(1) Upon the presence in any area in Wales or elsewhere of a designated disease in poultry being confirmed by the Chief Veterinary Officer or by a person authorised by him or her, the National Assembly for Wales or the Secretary of State shall, [^c-b3f33ba8079ffbac298b7a28774637a9]... declare such of that area as is in Wales to be an infected area.
 
-(2) Upon the presence in any area in Wales or elsewhere of a designated disease in captive birds other than poultry or in racing pigeons being confirmed by the Chief Veterinary Officer or by a person authorised by him or her and upon the National Assembly for Wales or the Secretary of State being satisfied that the presence of that disease in such birds constitutes a serious risk to poultry, the National Assembly for Wales or the Secretary of State may, [^key-90a198693933a524226b675c777a40d5]... declare such of that area as is in Wales to be an infected area.
+(2) Upon the presence in any area in Wales or elsewhere of a designated disease in captive birds other than poultry or in racing pigeons being confirmed by the Chief Veterinary Officer or by a person authorised by him or her and upon the National Assembly for Wales or the Secretary of State being satisfied that the presence of that disease in such birds constitutes a serious risk to poultry, the National Assembly for Wales or the Secretary of State may, [^c-90a198693933a524226b675c777a40d5]... declare such of that area as is in Wales to be an infected area.
 
-(3) An area shall remain an infected area until such date as may be stated in the declaration[^key-f367df50701100ea04de5950258205be], or, if none, until the declaration is withdrawn.
+(3) An area shall remain an infected area until such date as may be stated in the declaration[^c-f367df50701100ea04de5950258205be], or, if none, until the declaration is withdrawn.
 
 (4) Any premises which are partly inside and partly outside an infected area shall be deemed to be wholly inside that area.
 
-(5) A declaration[^key-c5479c6aaad1134d68d3188acf66a597] may apply to all birds or to designated species.
+(5) A declaration[^c-c5479c6aaad1134d68d3188acf66a597] may apply to all birds or to designated species.
 
-(6) A declaration[^key-0eed9f1e86bbb73251887255cfd1f5c0] shall provide for the division of the infected area into protection and surveillance zones, the protection zone being based on a minimum radius of three kilometres, itself contained in a surveillance zone based on a minimum radius of ten kilometres, based on the centre of premises where disease has been confirmed, or such lesser radia as the National Assembly for Wales or the Secretary of State may declare.
+(6) A declaration[^c-0eed9f1e86bbb73251887255cfd1f5c0] shall provide for the division of the infected area into protection and surveillance zones, the protection zone being based on a minimum radius of three kilometres, itself contained in a surveillance zone based on a minimum radius of ten kilometres, based on the centre of premises where disease has been confirmed, or such lesser radia as the National Assembly for Wales or the Secretary of State may declare.
 
-(7) The provisions of Schedule 2 shall apply in an area declared an infected area except to the extent that they are varied or excepted by the declaration[^key-77121e91f7a2bc527623392a5e341258] or to the extent that anything which would otherwise be a breach of this Order is authorised by a licence issued by a veterinary inspector.
+(7) The provisions of Schedule 2 shall apply in an area declared an infected area except to the extent that they are varied or excepted by the declaration[^c-77121e91f7a2bc527623392a5e341258] or to the extent that anything which would otherwise be a breach of this Order is authorised by a licence issued by a veterinary inspector.
 
 ## 10. Vaccination areas
 
@@ -276,7 +276,7 @@ Articles 4, 5 and 7
 
 **5.** No person shall remove from the premises or spread in the premises any used poultry litter or poultry manure or anything liable to transmit disease.
 
-**6.** No person shall move any eggs from premises except in accordance with the provisions of Article 7(2)(f) of, and Annex 3 to, Council[^key-33b5ba16a5aeb7ca8e2ded25fc0cac58] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or article 4.2(e) of and Annex I to Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be.
+**6.** No person shall move any eggs from premises except in accordance with the provisions of Article 7(2)(f) of, and Annex 3 to, Council[^c-33b5ba16a5aeb7ca8e2ded25fc0cac58] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or article 4.2(e) of and Annex I to Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be.
 
 **7.** The occupier of the premises shall provide and maintain an appropriate means of disinfection at the entrances and exits of the buildings housing poultry and of the premises.
 
@@ -294,7 +294,7 @@ Articles 4, 5 and 7
 
 are traced and destroyed, except that table eggs need not be destroyed if they have previously been disinfected.
 
-**11.** The buildings used for housing poultry, their surroundings, the vehicles used for transport and all equipment likely to be contaminated shall, under the supervision of an inspector, be subject to preliminary and final cleaning and disinfecting in accordance with Annex 6 to Council[^key-6c12f31d055b88ef678759fc3c25f4f1] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or Annex II of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be and to the satisfaction of a veterinary inspector. The occupier of the premises shall not restock the premises until at least 21 days after completion of the cleaning and disinfection.
+**11.** The buildings used for housing poultry, their surroundings, the vehicles used for transport and all equipment likely to be contaminated shall, under the supervision of an inspector, be subject to preliminary and final cleaning and disinfecting in accordance with Annex 6 to Council[^c-6c12f31d055b88ef678759fc3c25f4f1] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or Annex II of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be and to the satisfaction of a veterinary inspector. The occupier of the premises shall not restock the premises until at least 21 days after completion of the cleaning and disinfection.
 
 ## SCHEDULE 2 — INFECTED AREAS: PROTECTION AND SURVEILLANCE ZONES
 
@@ -363,41 +363,41 @@ A Regulatory Appraisal under the Government of Wales Act 1998 has not been prepa
 
 [^M_F_0ebbe0ec-8795-4bdf-b399-142a2dadfcd1]: Textual amendment: Art. 1(3) inserted (6.7.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) Order 2006 (S.I. 2006/1762)](https://www.legislation.gov.uk/uksi/2006/1762), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1762/article/1), [88(1)](https://www.legislation.gov.uk/uksi/2006/1762/article/88/1) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/1762/article/3/3))
 
-[^key-9c3ebdf12651a7a9d69c36892e20e0a9]: Textual amendment: Words in art. 3(1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(2)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/2/a)
+[^c-9c3ebdf12651a7a9d69c36892e20e0a9]: Textual amendment: Words in art. 3(1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(2)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/2/a)
 
-[^key-69cb6a64d80091fdbf1cf2559445c171]: Textual amendment: Words in art. 3(1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(2)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/2/b)
+[^c-69cb6a64d80091fdbf1cf2559445c171]: Textual amendment: Words in art. 3(1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(2)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/2/b)
 
-[^key-6ff061b57cd23df8cbda1c5dbc613a42]: Textual amendment: Words in art. 3(1) revoked (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/618/schedule/2)
+[^c-6ff061b57cd23df8cbda1c5dbc613a42]: Textual amendment: Words in art. 3(1) revoked (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/618/schedule/2)
 
-[^key-7cc24142b96f39305c0573d3ef863139]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/wsi/2003/1079/article/3/2) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2021/480/article/4/2)
+[^c-7cc24142b96f39305c0573d3ef863139]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/wsi/2003/1079/article/3/2) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2021/480/article/4/2)
 
-[^key-4cfc9860af760ed92907e5a2675e8388]: Textual amendment: Words in art. 4(1)(a) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/618/schedule/1)
+[^c-4cfc9860af760ed92907e5a2675e8388]: Textual amendment: Words in art. 4(1)(a) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/618/schedule/1)
 
-[^key-709b6e147f8f42351203f22a6762dfb0]: Textual amendment: Words in art. 4(2) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/618/schedule/1)
+[^c-709b6e147f8f42351203f22a6762dfb0]: Textual amendment: Words in art. 4(2) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/618/schedule/1)
 
-[^key-91128e7ec179df72c85326a1df907321]: Textual amendment: [Arts. 4A](https://www.legislation.gov.uk/wsi/2003/1079/article/4A), [4B](https://www.legislation.gov.uk/wsi/2003/1079/article/4B) inserted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2021/480/article/4/3)
+[^c-91128e7ec179df72c85326a1df907321]: Textual amendment: [Arts. 4A](https://www.legislation.gov.uk/wsi/2003/1079/article/4A), [4B](https://www.legislation.gov.uk/wsi/2003/1079/article/4B) inserted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2021/480/article/4/3)
 
-[^key-4a0a1e01a492f44114f441cfd775b85c]: Textual amendment: Words in art. 6(4) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/3)
+[^c-4a0a1e01a492f44114f441cfd775b85c]: Textual amendment: Words in art. 6(4) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/3)
 
-[^key-b3f33ba8079ffbac298b7a28774637a9]: Textual amendment: Words in art. 9(1) omitted (21.4.2021) by virtue of [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/a)
+[^c-b3f33ba8079ffbac298b7a28774637a9]: Textual amendment: Words in art. 9(1) omitted (21.4.2021) by virtue of [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/a)
 
-[^key-90a198693933a524226b675c777a40d5]: Textual amendment: Words in art. 9(2) omitted (21.4.2021) by virtue of [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/a)
+[^c-90a198693933a524226b675c777a40d5]: Textual amendment: Words in art. 9(2) omitted (21.4.2021) by virtue of [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/a)
 
-[^key-f367df50701100ea04de5950258205be]: Textual amendment: Word in art. 9(3) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/b)
+[^c-f367df50701100ea04de5950258205be]: Textual amendment: Word in art. 9(3) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/b)
 
-[^key-c5479c6aaad1134d68d3188acf66a597]: Textual amendment: Word in art. 9(5) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/b)
+[^c-c5479c6aaad1134d68d3188acf66a597]: Textual amendment: Word in art. 9(5) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/b)
 
-[^key-0eed9f1e86bbb73251887255cfd1f5c0]: Textual amendment: Word in art. 9(6) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/b)
+[^c-0eed9f1e86bbb73251887255cfd1f5c0]: Textual amendment: Word in art. 9(6) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/b)
 
-[^key-77121e91f7a2bc527623392a5e341258]: Textual amendment: Words in art. 9(7) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/c)
+[^c-77121e91f7a2bc527623392a5e341258]: Textual amendment: Words in art. 9(7) substituted (21.4.2021) by [The Animal Diseases (Miscellaneous Amendments) (Wales) Order 2021 (S.I. 2021/480)](https://www.legislation.gov.uk/wsi/2021/480), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/480/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/wsi/2021/480/article/4/4/c)
 
 [^c5183791]: Marginal citation: [S.I. 1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
 
 [^c5183801]: Marginal citation: [S.I. 1997/150](https://www.legislation.gov.uk/uksi/1997/150).
 
-[^key-33b5ba16a5aeb7ca8e2ded25fc0cac58]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2003/1079/schedule/1/paragraph/6) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(4)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/4/a)
+[^c-33b5ba16a5aeb7ca8e2ded25fc0cac58]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2003/1079/schedule/1/paragraph/6) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(4)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/4/a)
 
-[^key-6c12f31d055b88ef678759fc3c25f4f1]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2003/1079/schedule/1/paragraph/11) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(4)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/4/b)
+[^c-6c12f31d055b88ef678759fc3c25f4f1]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2003/1079/schedule/1/paragraph/11) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [27(4)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/27/4/b)
 
 [^c5183811]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 

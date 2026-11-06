@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Collaboration arrangements: maintained schools and further education bodies[^key-17886b874e80ed3f26fc519728de10e3][^key-ec010bf1b21e2e908a4dd41d0ca6032b]
+## 166. Collaboration arrangements: maintained schools and further education bodies[^c-17886b874e80ed3f26fc519728de10e3][^c-ec010bf1b21e2e908a4dd41d0ca6032b]
 
 *Extent: E+W*
 
@@ -54,24 +54,24 @@ is to have effect subject to all necessary modifications in its application in r
 (6) In this section—
 
 - “**further education body**” means—
-  - (a) a further education corporation (as defined by section 17(1) of the Further and Higher Education Act 1992 (c. 13)) in England[^key-fb40bf6a31964857d30c810838b1667f],
-  - (aa) a sixth form college corporation (as defined in section 90 of that Act),[^key-49adf440d39cccb9d4cef59fa53e7e29] or
-  - (b) the governing body of a designated institution (as defined by section 28(4) of that Act) in England[^key-e9d537195be842386256b661cbafe2bd] which is a body incorporated by virtue of section 143(4) of the Learning and Skills Act 2000 (c. 21);
-- “**maintained school**” means a school in England which is[^key-fef1c8fe860a390e08b1f45fcc0c9313] a community, foundation or voluntary school, a community or foundation special school or a maintained nursery school;
-- “**regulations**” means regulations made by the Secretary of State (in relation to England) [^key-e0739ab3e62acb08f9f514945a75ae78]....
+  - (a) a further education corporation (as defined by section 17(1) of the Further and Higher Education Act 1992 (c. 13)) in England[^c-fb40bf6a31964857d30c810838b1667f],
+  - (aa) a sixth form college corporation (as defined in section 90 of that Act),[^c-49adf440d39cccb9d4cef59fa53e7e29] or
+  - (b) the governing body of a designated institution (as defined by section 28(4) of that Act) in England[^c-e9d537195be842386256b661cbafe2bd] which is a body incorporated by virtue of section 143(4) of the Learning and Skills Act 2000 (c. 21);
+- “**maintained school**” means a school in England which is[^c-fef1c8fe860a390e08b1f45fcc0c9313] a community, foundation or voluntary school, a community or foundation special school or a maintained nursery school;
+- “**regulations**” means regulations made by the Secretary of State (in relation to England) [^c-e0739ab3e62acb08f9f514945a75ae78]....
 
 ## Annotations
 
-[^key-17886b874e80ed3f26fc519728de10e3]: Commencement: S. 166 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/935/article/4/b)
+[^c-17886b874e80ed3f26fc519728de10e3]: Commencement: S. 166 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/935/article/4/b)
 
-[^key-ec010bf1b21e2e908a4dd41d0ca6032b]: Commencement: S. 166 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
+[^c-ec010bf1b21e2e908a4dd41d0ca6032b]: Commencement: S. 166 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
 
-[^key-fb40bf6a31964857d30c810838b1667f]: Textual amendment: Words in s. 166(6) inserted (16.11.2012) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(a)(i)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/a/i), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-fb40bf6a31964857d30c810838b1667f]: Textual amendment: Words in s. 166(6) inserted (16.11.2012) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(a)(i)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/a/i), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-49adf440d39cccb9d4cef59fa53e7e29]: Textual amendment: Words in s. 166(6) inserted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/104) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-49adf440d39cccb9d4cef59fa53e7e29]: Textual amendment: Words in s. 166(6) inserted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/104) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
 
-[^key-e9d537195be842386256b661cbafe2bd]: Textual amendment: Words in s. 166(6) inserted (16.11.2012) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(a)(ii)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/a/ii), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-e9d537195be842386256b661cbafe2bd]: Textual amendment: Words in s. 166(6) inserted (16.11.2012) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(a)(ii)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/a/ii), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-fef1c8fe860a390e08b1f45fcc0c9313]: Textual amendment: Words in s. 166(6) inserted (16.11.2012) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/b), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-fef1c8fe860a390e08b1f45fcc0c9313]: Textual amendment: Words in s. 166(6) inserted (16.11.2012) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/b), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-e0739ab3e62acb08f9f514945a75ae78]: Textual amendment: Words in s. 166(6) omitted (16.11.2012) by virtue of [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(c)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/c), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-e0739ab3e62acb08f9f514945a75ae78]: Textual amendment: Words in s. 166(6) omitted (16.11.2012) by virtue of [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 9(4)(c)](https://www.legislation.gov.uk/mwa/2011/7/section/9/4/c), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)

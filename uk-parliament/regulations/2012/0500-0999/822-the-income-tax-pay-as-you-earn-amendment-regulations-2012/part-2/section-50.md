@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Certificate that sum due[^key-da1eb4dc43a594e87bdbbe688ee0fdfe]
+## 50. Certificate that sum due[^c-da1eb4dc43a594e87bdbbe688ee0fdfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In the list in regulation 218(2) (certificate that sum due), before the entry re
 
 ## Annotations
 
-[^key-da1eb4dc43a594e87bdbbe688ee0fdfe]: Commencement: Reg. 50 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-da1eb4dc43a594e87bdbbe688ee0fdfe]: Commencement: Reg. 50 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

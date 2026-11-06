@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Power to appoint inspector before making orders as to fisheries for shellfish[^key-84fd029c96027dd01c55b633f79aa775]
+## 214. Power to appoint inspector before making orders as to fisheries for shellfish[^c-84fd029c96027dd01c55b633f79aa775]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84fd029c96027dd01c55b633f79aa775]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2009/23/section/214) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-84fd029c96027dd01c55b633f79aa775]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2009/23/section/214) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

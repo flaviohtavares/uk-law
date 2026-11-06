@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Carrying out a review[^key-c9233f03b330a2c67aa62400d7543a9b]
+## 176. Carrying out a review[^c-c9233f03b330a2c67aa62400d7543a9b]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9233f03b330a2c67aa62400d7543a9b]: Commencement: S. 176 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)
+[^c-c9233f03b330a2c67aa62400d7543a9b]: Commencement: S. 176 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)

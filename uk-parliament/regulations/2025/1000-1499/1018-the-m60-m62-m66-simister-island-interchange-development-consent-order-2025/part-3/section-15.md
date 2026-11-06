@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Permanent stopping up, restriction of use of streets and public rights of way[^key-2bf4d85b62fb921fd70220fab236a28f]
+## 15. Permanent stopping up, restriction of use of streets and public rights of way[^c-2bf4d85b62fb921fd70220fab236a28f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf4d85b62fb921fd70220fab236a28f]: Commencement: Art. 15 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-2bf4d85b62fb921fd70220fab236a28f]: Commencement: Art. 15 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

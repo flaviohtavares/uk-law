@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.12. Respondent’s notice[^key-e4763bba7e57bab9ac2a95120b102484]
+## 42.12. Respondent’s notice[^c-e4763bba7e57bab9ac2a95120b102484]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4763bba7e57bab9ac2a95120b102484]: Commencement: [Rule 42.12](https://www.legislation.gov.uk/uksi/2025/909/rule/42.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e4763bba7e57bab9ac2a95120b102484]: Commencement: [Rule 42.12](https://www.legislation.gov.uk/uksi/2025/909/rule/42.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

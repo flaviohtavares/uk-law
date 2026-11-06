@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Time when postal ballot papers are to be issued[^key-9b7c91a2e39b7376b0e2c5d3c47e3e05][^key-de8f3529f4e33a1e3f215263ee7ad9b4]
+## 71. Time when postal ballot papers are to be issued[^c-9b7c91a2e39b7376b0e2c5d3c47e3e05][^c-de8f3529f4e33a1e3f215263ee7ad9b4]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Postal ballot papers (and postal voting statements) must be issued by the return
 
 ## Annotations
 
-[^key-9b7c91a2e39b7376b0e2c5d3c47e3e05]: Modification: [Reg. 71](https://www.legislation.gov.uk/uksi/2001/497/regulation/71) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/25)
+[^c-9b7c91a2e39b7376b0e2c5d3c47e3e05]: Modification: [Reg. 71](https://www.legislation.gov.uk/uksi/2001/497/regulation/71) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/25)
 
-[^key-de8f3529f4e33a1e3f215263ee7ad9b4]: Textual amendment: [Reg. 71](https://www.legislation.gov.uk/uksi/2001/497/regulation/71) substituted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [29](https://www.legislation.gov.uk/uksi/2013/3206/regulation/29)
+[^c-de8f3529f4e33a1e3f215263ee7ad9b4]: Textual amendment: [Reg. 71](https://www.legislation.gov.uk/uksi/2001/497/regulation/71) substituted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [29](https://www.legislation.gov.uk/uksi/2013/3206/regulation/29)

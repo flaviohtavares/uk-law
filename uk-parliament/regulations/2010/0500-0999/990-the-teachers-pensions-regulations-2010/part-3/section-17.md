@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this regulation a “**relevant person**” is a person who—
 
-- (a) entered pensionable employment after 31st May 1989 with no right to count any period before 1st June 1989 as reckonable service and is not a person to whom paragraph (2), (3) or (3A)[^key-98f0ee192f7faca8ca34f3436bdcb480] applies,
+- (a) entered pensionable employment after 31st May 1989 with no right to count any period before 1st June 1989 as reckonable service and is not a person to whom paragraph (2), (3) or (3A)[^c-98f0ee192f7faca8ca34f3436bdcb480] applies,
 - (b) was in pensionable employment immediately before 1st April 2008,
 - (c) has not made an election under regulation C1A(2) [^c20237641] of TPR 1997 (removal of the cap on contributable salary), and
 - (d) is not a person to whom regulation C1(8) of TPR 1997 has ceased to apply because the person began a new employment (see regulation C1A(5) of TPR 1997) or because the person's contract of employment was varied (see regulation C1A(8) of TPR 1997).
@@ -35,7 +35,7 @@ summary: ''
 
 (3) This paragraph applies to a person who was in comparable United Kingdom service before 1st June 1989 and who subsequently enters pensionable employment provided that there has not been a period of more than one year between cessation of employment in comparable United Kingdom service and entering pensionable employment.
 
-(3A)[^key-57348dd0bd4dbf85f9b68ac45d766fbe] This paragraph applies to a person whose annual rate of contributable salary for the tax year or part of the tax year which included 31st March 2008, calculated in accordance with regulation C1 of TPR 1997 (salary on which contributions are payable), did not exceed the permitted maximum for that tax year of £112,800.
+(3A)[^c-57348dd0bd4dbf85f9b68ac45d766fbe] This paragraph applies to a person whose annual rate of contributable salary for the tax year or part of the tax year which included 31st March 2008, calculated in accordance with regulation C1 of TPR 1997 (salary on which contributions are payable), did not exceed the permitted maximum for that tax year of £112,800.
 
 (4) In the case of any relevant person, in any tax year or part of a tax year in which the person's annual rate of contributable salary, calculated in accordance with regulations 15 and 16 exceeds the permitted maximum, that excess does not form part of the person's contributable salary.
 
@@ -59,7 +59,7 @@ summary: ''
 
 (11) In the case of a person to whom the circumstances specified in paragraph (9) apply, paragraph (4) ceases to apply immediately before the date on which the variation in the contract of employment takes effect.
 
-(12)[^key-37bad5a831724e0108da8ba63752509c] In this regulation the “permitted maximum” for any tax year is the permitted maximum for the previous tax year increased (if there is a relevant increase in the retail prices index for the tax year) by the appropriate percentage for the tax year.
+(12)[^c-37bad5a831724e0108da8ba63752509c] In this regulation the “permitted maximum” for any tax year is the permitted maximum for the previous tax year increased (if there is a relevant increase in the retail prices index for the tax year) by the appropriate percentage for the tax year.
 
 (13) For the purposes of this regulation—
 
@@ -69,12 +69,12 @@ summary: ''
 
 ## Annotations
 
-[^key-98f0ee192f7faca8ca34f3436bdcb480]: Textual amendment: Words in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/1/a) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/8/a)
+[^c-98f0ee192f7faca8ca34f3436bdcb480]: Textual amendment: Words in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/1/a) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/8/a)
 
 [^c20237641]: Marginal citation: Regulation C1A was inserted by [S.I. 2008/541](https://www.legislation.gov.uk/uksi/2008/541).
 
 [^c20237651]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Chapter 1 of Part 8 was substituted by Schedule 4 to the [Employment Relations Act 1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26) and amended by section 17 of the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
-[^key-57348dd0bd4dbf85f9b68ac45d766fbe]: Textual amendment: [Reg. 17(3A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/3A) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/8/b)
+[^c-57348dd0bd4dbf85f9b68ac45d766fbe]: Textual amendment: [Reg. 17(3A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/3A) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/8/b)
 
-[^key-37bad5a831724e0108da8ba63752509c]: Textual amendment: [Reg. 17(12)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/12)[(13)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/13) substituted for [reg. 17(12)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/12) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/8/c)
+[^c-37bad5a831724e0108da8ba63752509c]: Textual amendment: [Reg. 17(12)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/12)[(13)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/13) substituted for [reg. 17(12)](https://www.legislation.gov.uk/uksi/2010/990/regulation/17/12) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/8/c)

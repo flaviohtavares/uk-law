@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Notional and third party expenditure: Senedd Cymru elections[^key-cc7ccda235dcd02d635a56957b44b053][^key-3ed5b82b1dbb1ffb20598baf28801674]
+## 33. Notional and third party expenditure: Senedd Cymru elections[^c-cc7ccda235dcd02d635a56957b44b053][^c-3ed5b82b1dbb1ffb20598baf28801674]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc7ccda235dcd02d635a56957b44b053]: Commencement: S. 33 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-cc7ccda235dcd02d635a56957b44b053]: Commencement: S. 33 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-3ed5b82b1dbb1ffb20598baf28801674]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2024/5/section/33) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(h)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/h)
+[^c-3ed5b82b1dbb1ffb20598baf28801674]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2024/5/section/33) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(h)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/h)

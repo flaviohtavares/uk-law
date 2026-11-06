@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-9be7487d1ecc7f0fcf5b955840b6b40f]
+## 2. Interpretation[^c-9be7487d1ecc7f0fcf5b955840b6b40f]
 
 *Extent: E+W+S+N.I.*
 
@@ -241,7 +241,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9be7487d1ecc7f0fcf5b955840b6b40f]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-9be7487d1ecc7f0fcf5b955840b6b40f]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00003]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); sections 1 to 4 and Schedule 1 were substituted by the provisions set out in Schedule 5 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20). Section 1(3)(d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4. Section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2. The entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the transitional provisions and savings set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 ([S.I. 1998/3237](https://www.legislation.gov.uk/uksi/1998/3237)), article 3.
 

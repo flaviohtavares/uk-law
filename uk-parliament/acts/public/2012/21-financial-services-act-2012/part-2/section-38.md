@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. The Financial Services Compensation Scheme[^key-71e539608c931b8c9005f0fbea6d7c0f][^key-a7d1a1d4617d653c6e27dad181bbb731][^key-f98678cabb55c5b95472fe616cd9f325]
+## 38. The Financial Services Compensation Scheme[^c-71e539608c931b8c9005f0fbea6d7c0f][^c-a7d1a1d4617d653c6e27dad181bbb731][^c-f98678cabb55c5b95472fe616cd9f325]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-71e539608c931b8c9005f0fbea6d7c0f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/21/section/38) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-71e539608c931b8c9005f0fbea6d7c0f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/21/section/38) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-a7d1a1d4617d653c6e27dad181bbb731]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/21/section/38) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-a7d1a1d4617d653c6e27dad181bbb731]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/21/section/38) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-f98678cabb55c5b95472fe616cd9f325]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/21/section/38) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f98678cabb55c5b95472fe616cd9f325]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/21/section/38) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

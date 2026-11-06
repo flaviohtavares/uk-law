@@ -52,7 +52,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (1) These Regulations may be cited as the Social Security (Coronavirus) (Prisoners) Regulations (Northern Ireland) 2020 and come into operation on 8th April 2020.
 
-(1A)[^key-27c36560ea47512f1333c0ddd0d02717] In these regulations “coronavirus disease” means COVID-19 (the official designation of the disease which can be caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)).
+(1A)[^c-27c36560ea47512f1333c0ddd0d02717] In these regulations “coronavirus disease” means COVID-19 (the official designation of the disease which can be caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)).
 
 (2) The Interpretation Act (Northern Ireland) 1954 [^c24050631] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -70,7 +70,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 ## 3. Income Support, Jobseekers Allowance, State Pension Credit and Employment and Support Allowance - persons treated as being or not being members of the same household
 
-Where the Department is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Department determines[^key-60b9f0e107ed910b2b207c31c6e119ac] the following provisions are to be read as if the words “on temporary release in accordance with the provisions of the Prison Act (Northern Ireland) 1953” were omitted—
+Where the Department is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Department determines[^c-60b9f0e107ed910b2b207c31c6e119ac] the following provisions are to be read as if the words “on temporary release in accordance with the provisions of the Prison Act (Northern Ireland) 1953” were omitted—
 
 - (a) regulation 16(3)(b) of the Income Support (General) Regulations (Northern Ireland) 1987 [^c24050701];
 - (b) regulation 78(3)(b) [^c24050711] of the Jobseeker's Allowance Regulations (Northern Ireland) 1996;
@@ -79,11 +79,11 @@ Where the Department is satisfied that it is expedient as a result of coronaviru
 
 ## 4. Jobseekers Allowance – availability for employment
 
-Where the Department is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Department determines[^key-0e147282092ed8cd42d481d7bd4aed8f] regulation 15(1) of the Jobseeker's Allowance Regulations (Northern Ireland) 1996 is to be read as if the words in sub-paragraph (b) were omitted.
+Where the Department is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Department determines[^c-0e147282092ed8cd42d481d7bd4aed8f] regulation 15(1) of the Jobseeker's Allowance Regulations (Northern Ireland) 1996 is to be read as if the words in sub-paragraph (b) were omitted.
 
 ## 5. Housing Benefit – modification of the rule on whether a person is or is not to be treated as occupying a dwelling as their home
 
-For the purposes of entitlement to housing benefit, where the Department is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Department determines,[^key-c343ec3e8d2fdd66bad913901e2cf072] the following provisions are to be read as if the words in sub-paragraph (b) were omitted—
+For the purposes of entitlement to housing benefit, where the Department is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Department determines,[^c-c343ec3e8d2fdd66bad913901e2cf072] the following provisions are to be read as if the words in sub-paragraph (b) were omitted—
 
 - (a) regulation 7(14) of the Housing Benefit Regulations (Northern Ireland) 2006 [^c24050721]; and
 - (b) regulation 7(14) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 [^c24050731].
@@ -92,7 +92,7 @@ For the purposes of entitlement to housing benefit, where the Department is sati
 
 (1) The Department must keep the operation of these Regulations under review.
 
-(2) These Regulations cease to have effect on 31st August 2021[^key-dac88174a76347d5fc969c97c691e90b].
+(2) These Regulations cease to have effect on 31st August 2021[^c-dac88174a76347d5fc969c97c691e90b].
 
 Signed by the authority of the Secretary of State for Work and Pensions
 
@@ -132,7 +132,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24050621]: Marginal citation: [Article 4](https://www.legislation.gov.uk/nisr/2020/63/article/4) was amended by Article 4 of the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999). Functions under or for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and the Jobseekers (Northern Ireland) Order 1995 are vested in the Department for Communities by virtue of Article 8(b) of S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481) and section 1(7) of the [Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-27c36560ea47512f1333c0ddd0d02717]: Textual amendment: [Reg. 1(1A)](https://www.legislation.gov.uk/nisr/2020/63/regulation/1/1A) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/2)
+[^c-27c36560ea47512f1333c0ddd0d02717]: Textual amendment: [Reg. 1(1A)](https://www.legislation.gov.uk/nisr/2020/63/regulation/1/1A) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/2)
 
 [^c24050631]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
@@ -150,18 +150,18 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24050691]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216). There are no relevant amending Regulations.
 
-[^key-60b9f0e107ed910b2b207c31c6e119ac]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2020/63/regulation/3) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(3)(4)(b)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/4/b)
+[^c-60b9f0e107ed910b2b207c31c6e119ac]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2020/63/regulation/3) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(3)(4)(b)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/4/b)
 
 [^c24050701]: Marginal citation: Regulation 16(3)(b) was substituted by regulation 5(5) of S.R. [1996 No. 405](https://www.legislation.gov.uk/ukcm/1996/405).
 
 [^c24050711]: Marginal citation: Regulation 78(3)(b) was substituted by regulation 18 of S.R. [1996 No. 358](https://www.legislation.gov.uk/ukcm/1996/358).
 
-[^key-0e147282092ed8cd42d481d7bd4aed8f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2020/63/regulation/4) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(3)(4)(c)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/4/c)
+[^c-0e147282092ed8cd42d481d7bd4aed8f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2020/63/regulation/4) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(3)(4)(c)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/4/c)
 
-[^key-c343ec3e8d2fdd66bad913901e2cf072]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2020/63/regulation/5) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/5)
+[^c-c343ec3e8d2fdd66bad913901e2cf072]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2020/63/regulation/5) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/5)
 
 [^c24050721]: Marginal citation: S.R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405). There are no relevant amending Regulations.
 
 [^c24050731]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406). There are no relevant amending Regulations.
 
-[^key-dac88174a76347d5fc969c97c691e90b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2020/63/regulation/6/2) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/6)
+[^c-dac88174a76347d5fc969c97c691e90b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2020/63/regulation/6/2) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2021/105/regulation/4/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment of section 14[^key-36e16034d13861a2f04e9d71426dd445]
+## 5. Amendment of section 14[^c-36e16034d13861a2f04e9d71426dd445]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ In section 14 (alternative requirements as to experience in certain cases)[^f000
 
 ## Annotations
 
-[^key-36e16034d13861a2f04e9d71426dd445]: Commencement: Reg. 5 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-36e16034d13861a2f04e9d71426dd445]: Commencement: Reg. 5 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00006]: Footnote: Section 14 was amended by [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

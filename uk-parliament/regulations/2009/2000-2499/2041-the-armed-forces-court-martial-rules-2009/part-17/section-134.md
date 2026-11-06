@@ -30,7 +30,7 @@ summary: ''
   - (ii) the sentence passed for each such offence; and
 - (c) the record of any proceedings in which a court made, or gave reasons for not making—
   - (i) a relevant order in respect of the original sentence; or
-  - (ii) where rule 133 applies, an order under paragraph 7(2) of Schedule 12 to the Sentencing Code[^key-e53dd1f2dbfb4eed121b85103c404f21] in respect of the original sentence.
+  - (ii) where rule 133 applies, an order under paragraph 7(2) of Schedule 12 to the Sentencing Code[^c-e53dd1f2dbfb4eed121b85103c404f21] in respect of the original sentence.
 
 (3) The Director may give written notice to the court administration officer and the offender that he requires activation proceedings to be held.
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e53dd1f2dbfb4eed121b85103c404f21]: Textual amendment: Words in rule 134(2)(c)(ii) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 389](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/389) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e53dd1f2dbfb4eed121b85103c404f21]: Textual amendment: Words in rule 134(2)(c)(ii) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 389](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/389) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

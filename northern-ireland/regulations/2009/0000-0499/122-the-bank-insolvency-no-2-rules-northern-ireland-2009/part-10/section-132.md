@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Dealings by committee-members and others[^key-38eac0e168c3656127878ec7b0664ce2]
+## 132. Dealings by committee-members and others[^c-38eac0e168c3656127878ec7b0664ce2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.178 of the 1991 Rules.
 
 ## Annotations
 
-[^key-38eac0e168c3656127878ec7b0664ce2]: Commencement: Rule 132 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-38eac0e168c3656127878ec7b0664ce2]: Commencement: Rule 132 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

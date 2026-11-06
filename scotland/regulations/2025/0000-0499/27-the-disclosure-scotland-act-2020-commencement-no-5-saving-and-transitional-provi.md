@@ -44,11 +44,11 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 97(2) and (3) of the Disclosure (Scotland) Act 2020[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-48ab671a7e9e4230239347351c14c066]
+## 1. Citation and commencement[^c-48ab671a7e9e4230239347351c14c066]
 
 (1) These Regulations may be cited as the Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Regulations 2025.
 
-(2) This regulation and regulations 2, 4 to 10 and 12 to 15[^key-c6e0ba17d5cb772066ffa79af9848388] come into force on 1 April 2025.
+(2) This regulation and regulations 2, 4 to 10 and 12 to 15[^c-c6e0ba17d5cb772066ffa79af9848388] come into force on 1 April 2025.
 
 (3) Regulation 3 comes into force as follows—
 
@@ -57,7 +57,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (4) Regulation 11 comes into force on 1 July 2025.
 
-## 2. Interpretation[^key-b8cd4a9a2a2f76c06c5a249b43ccf5d1]
+## 2. Interpretation[^c-b8cd4a9a2a2f76c06c5a249b43ccf5d1]
 
 (1) In these Regulations—
 
@@ -84,15 +84,15 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (2) Any words or expressions to which meanings are assigned by Part 1 of the Disclosure Act shall, for the purposes of these Regulations, have the same meanings as in that Act.
 
-## 3. Appointed days[^key-b7d301e89a9a9107a707d90922c955c5][^key-7664a6fc8d85088f1f9a018f0cb4af9f]
+## 3. Appointed days[^c-b7d301e89a9a9107a707d90922c955c5][^c-7664a6fc8d85088f1f9a018f0cb4af9f]
 
-(1)[^key-b7d301e89a9a9107a707d90922c955c5] 1 April 2025 is the day appointed for the coming into force of the provisions of the Disclosure Act specified in column 1 of the table in the schedule (the subject matter of which is described in column 2 of that table).
+(1)[^c-b7d301e89a9a9107a707d90922c955c5] 1 April 2025 is the day appointed for the coming into force of the provisions of the Disclosure Act specified in column 1 of the table in the schedule (the subject matter of which is described in column 2 of that table).
 
-(2)[^key-b7d301e89a9a9107a707d90922c955c5] If a purpose is specified in column 3 of the table in relation to any provision specified in column 1, that provision comes into force on 1 April 2025 for that purpose only.
+(2)[^c-b7d301e89a9a9107a707d90922c955c5] If a purpose is specified in column 3 of the table in relation to any provision specified in column 1, that provision comes into force on 1 April 2025 for that purpose only.
 
-(3)[^key-7664a6fc8d85088f1f9a018f0cb4af9f] 1 July 2025 is the day appointed for the coming into force of section 73(2) of the Disclosure Act for all remaining purposes.
+(3)[^c-7664a6fc8d85088f1f9a018f0cb4af9f] 1 July 2025 is the day appointed for the coming into force of section 73(2) of the Disclosure Act for all remaining purposes.
 
-## 4. Transitional provision relating to applications made under section 112 of the 1997 Act[^key-0d4ab0d6efb2017c4e0397be86b35b64]
+## 4. Transitional provision relating to applications made under section 112 of the 1997 Act[^c-0d4ab0d6efb2017c4e0397be86b35b64]
 
 (1) Paragraph (2) applies where—
 
@@ -101,7 +101,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (2) An application made under section 112 of the 1997 Act must be treated for all purposes as if it were an application for a Level 1 disclosure made under section 2 of the Disclosure Act.
 
-## 5. Transitional provision relating to applications made under sections 113A, 113B, 114 or 116 of the 1997 Act and requests made under sections 52 or 53 of the PVG Act[^key-09f0d36fef51eefed0783700447896a6]
+## 5. Transitional provision relating to applications made under sections 113A, 113B, 114 or 116 of the 1997 Act and requests made under sections 52 or 53 of the PVG Act[^c-09f0d36fef51eefed0783700447896a6]
 
 (1) Paragraph (2) applies where—
 
@@ -118,7 +118,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (2) An application made under any of sections 113A, 113B, 114 or 116 of the 1997 Act or, as the case may be, a request for a scheme record under section 52 of the PVG Act or a short scheme record under section 53 of that Act must be treated for all purposes as if it were an application for a Level 2 disclosure made under section 11 of the Disclosure Act.
 
-## 6. Transitional provision relating to statements of scheme membership[^key-b48cddce5e68d919de41a329421e6539]
+## 6. Transitional provision relating to statements of scheme membership[^c-b48cddce5e68d919de41a329421e6539]
 
 (1) Paragraph (2) applies where—
 
@@ -133,7 +133,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (b) confirms the individual is not barred from doing that work, and
 - (c) states if the Scottish Ministers are considering whether to list the scheme member.
 
-## 7. Transitional provision relating to disputes about accuracy of certificates issued under the 1997 Act and correction of inaccurate scheme records disclosed under the PVG Act[^key-a0ad5ebe59e173913579d16dc175a143]
+## 7. Transitional provision relating to disputes about accuracy of certificates issued under the 1997 Act and correction of inaccurate scheme records disclosed under the PVG Act[^c-a0ad5ebe59e173913579d16dc175a143]
 
 (1) Paragraph (2) applies where—
 
@@ -169,7 +169,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
   as if it was a Level 2 disclosure in respect of which they are carrying out a review under section 21(2) of the Disclosure Act.
 
-## 8. Transitional provision relating to certificates and scheme records with convictions falling within section 116ZA(1A) of the 1997 Act or section 52(2A) of the PVG Act[^key-7dac1fb2b8f88b3154a1510358206c23]
+## 8. Transitional provision relating to certificates and scheme records with convictions falling within section 116ZA(1A) of the 1997 Act or section 52(2A) of the PVG Act[^c-7dac1fb2b8f88b3154a1510358206c23]
 
 (1) Paragraph (2) applies where—
 
@@ -212,7 +212,7 @@ as a Level 2 review application under section 20(1)(b) of the Disclosure Act.
 
 (5) Where paragraph (4) applies, the requirement in section 20(3) of the Disclosure Act does not apply.
 
-## 9. Savings and transitional provision relating to applications for an order under section 116ZB of the 1997 Act or section 52A of the PVG Act[^key-29bbaed54ced37752feac3d33e1fe64c]
+## 9. Savings and transitional provision relating to applications for an order under section 116ZB of the 1997 Act or section 52A of the PVG Act[^c-29bbaed54ced37752feac3d33e1fe64c]
 
 (1) Sections 116ZB of the 1997 Act and 52A of the PVG Act continue apply in relation to all applications made under those sections before the relevant date which are not finally disposed of by the relevant date.
 
@@ -255,7 +255,7 @@ as a Level 2 review application under section 20(1)(b) of the Disclosure Act.
 - (a) the sheriff has determined the application in accordance with section 116ZB(6) or (7) of the 1997 Act or section 52A(6) or (7) of the PVG Act, or
 - (b) the proceedings are otherwise disposed of without making a determination.
 
-## 10. Transitional provision relating to registered persons under the 1997 Act[^key-b44efe5e36ffbec7b54f700827f9a1fe]
+## 10. Transitional provision relating to registered persons under the 1997 Act[^c-b44efe5e36ffbec7b54f700827f9a1fe]
 
 (1) With effect from the relevant date—
 
@@ -275,7 +275,7 @@ as a Level 2 review application under section 20(1)(b) of the Disclosure Act.
 
 (6) An application made under section 120(2) of the 1997 Act must be treated, for all purposes, as if it were an application to be registered in the register of accredited bodies under section 47(1)(b) of the Disclosure Act.
 
-## 11. Transitional provision relating to section 45C of the PVG Act[^key-02b748d540b431ad2abfef226fa5cdf9]
+## 11. Transitional provision relating to section 45C of the PVG Act[^c-02b748d540b431ad2abfef226fa5cdf9]
 
 (1) It is not an offence under section 45C of the PVG Act[^f00019] for an individual to carry out any type of regulated role where that individual does not participate in the Scheme[^f00020] in relation to that type of regulated role if—
 
@@ -290,7 +290,7 @@ as a Level 2 review application under section 20(1)(b) of the Disclosure Act.
 
 (3) In this regulation, “**type of regulated role**” is to be construed in accordance with section 91(4) and (5) of the PVG Act (as substituted by section 74(2) of the Disclosure Act).
 
-## 12. Transitional Provision relating to sections 45D and 45F of the PVG Act[^key-ee73e7c03891330bbd9f9d07a36f44a9]
+## 12. Transitional Provision relating to sections 45D and 45F of the PVG Act[^c-ee73e7c03891330bbd9f9d07a36f44a9]
 
 (1) Paragraph (2) applies where—
 
@@ -303,27 +303,27 @@ as a Level 2 review application under section 20(1)(b) of the Disclosure Act.
 
 (2) Sections 45D(1) and 45F(2) of the PVG Act[^f00024] are to be read as if, for “received a Level 2 disclosure in pursuance of a request under section 18(1)(a) of the Disclosure (Scotland) Act 2020 containing a statement confirming that the individual participates in the Scheme in relation to that type of regulated role” there is substituted “received disclosure of a scheme record under section 52 of the PVG Act or a short scheme record under section 53 of the PVG Act which sets out that the individual participates in the Scheme in relation to regulated work of the same type as the regulated role”.
 
-## 13. Transitional provision relating to notices of consideration for listing[^key-a9b9a23c72ef723eb7c48208cd3cc9c5][^key-caaefe6968a0b1f032309f70a34dc40a]
+## 13. Transitional provision relating to notices of consideration for listing[^c-a9b9a23c72ef723eb7c48208cd3cc9c5][^c-caaefe6968a0b1f032309f70a34dc40a]
 
-(1)[^key-dc5c88c40ac0a169d1a91165062e3bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dc5c88c40ac0a169d1a91165062e3bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-dc5c88c40ac0a169d1a91165062e3bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dc5c88c40ac0a169d1a91165062e3bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Paragraph (4) has effect until the day on which section 76 of the Disclosure Act (conditions imposed on scheme members under consideration for listing) comes into force.
 
 (4) Section 30(3B) of the PVG Act (as inserted by section 77(3) of the Disclosure Act) is to be read as if paragraph (b) is omitted.
 
-## 14. Transitional provision relating to confirmation of scheme membership under the PVG Act[^key-ac2c8965564809b86be281e185f8c126]
+## 14. Transitional provision relating to confirmation of scheme membership under the PVG Act[^c-ac2c8965564809b86be281e185f8c126]
 
 (1) Paragraph (2) has effect until the day on which section 76 (conditions imposed on scheme members under consideration for listing) of the Disclosure Act comes into force.
 
 (2) Section 46(2)(c) of the PVG Act (confirmation of scheme membership) (as substituted by section 86(2) of the Disclosure Act) is to be read as if sub-paragraph (ii) is omitted.
 
-## 15. Transitional provision relating to confirmation of scheme membership: disclosure of whether individual under consideration for listing[^key-e2029b552b55984faf0152d8b7e1e03c]
+## 15. Transitional provision relating to confirmation of scheme membership: disclosure of whether individual under consideration for listing[^c-e2029b552b55984faf0152d8b7e1e03c]
 
-(1)[^key-1ffcc0e0e069c459dad8c0e2ea988576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1ffcc0e0e069c459dad8c0e2ea988576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-1ffcc0e0e069c459dad8c0e2ea988576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1ffcc0e0e069c459dad8c0e2ea988576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Paragraphs (4) to (6) have effect until the day on which section 76 of the Disclosure Act (conditions imposed on scheme members under consideration for listing) comes into force.
 
@@ -343,7 +343,7 @@ Edinburgh
 
 30th January 2025
 
-## SCHEDULE[^key-0d8636eed48f1d89be5e2afb48485933][^key-7e31f86131692595ae691ec4a4aff34f]
+## SCHEDULE[^c-0d8636eed48f1d89be5e2afb48485933][^c-7e31f86131692595ae691ec4a4aff34f]
 
 Regulation 3
 
@@ -366,8 +366,8 @@ Provisions of the Disclosure Act coming into force on 1 April 2025.
 | Section 13 | Childhood information |  |
 | Section 14 | Provision of relevant Scottish police information |  |
 | Section 15 | Provision of relevant overseas police information | For all remaining purposes. |
-| Section 16(1), (2), (3), (4)(a)(i), (ii), (iii), (v) and (4)(b)(i), (ii), (iii), and (v)[^key-b5a8443fd00d300e623db8b991de8886] | Further information for certain purposes: non-PVG scheme members |  |
-| Section 17(1), (2), (3)(a), (b), (d), (4), (5) and (6)[^key-1640cd49f142bf3930d3349870970af9] | Further information for certain purposes: PVG scheme members |  |
+| Section 16(1), (2), (3), (4)(a)(i), (ii), (iii), (v) and (4)(b)(i), (ii), (iii), and (v)[^c-b5a8443fd00d300e623db8b991de8886] | Further information for certain purposes: non-PVG scheme members |  |
+| Section 17(1), (2), (3)(a), (b), (d), (4), (5) and (6)[^c-1640cd49f142bf3930d3349870970af9] | Further information for certain purposes: PVG scheme members |  |
 | Section 18 | Provision of Level 2 disclosure to accredited bodies | For all remaining purposes. |
 | Section 19 | Crown employment |  |
 | Section 20 | Level 2 disclosure: application for review | For all remaining purposes. |
@@ -424,8 +424,8 @@ Provisions of the Disclosure Act coming into force on 1 April 2025.
 | Schedule 3 | Schedule to be substituted for schedule 2 of the PVG Act (schedule 2: regulated roles with children) | For all remaining purposes. |
 | Schedule 4 | Schedule to be substituted for schedule 3 of the PVG Act (schedule 3: regulated roles with adults) | For all remaining purposes. |
 | Paragraphs 1 to 9, 11 and 13 of schedule 5 | Consequential and minor modifications | For all remaining purposes. |
-| Paragraphs 10(1) to (19), (21) to (32), (34) to (40), (44) to (51), (53) and (54) of schedule 5[^key-163e40d6259b7675f0fa8fe5524da14d] | Consequential and minor modifications |  |
-| Paragraph 10(20)(b) to (e) of schedule 5[^key-a8d285c42b9fec0e3fa399e0adc1071f] | Consequential and minor modifications |  |
+| Paragraphs 10(1) to (19), (21) to (32), (34) to (40), (44) to (51), (53) and (54) of schedule 5[^c-163e40d6259b7675f0fa8fe5524da14d] | Consequential and minor modifications |  |
+| Paragraph 10(20)(b) to (e) of schedule 5[^c-a8d285c42b9fec0e3fa399e0adc1071f] | Consequential and minor modifications |  |
 | Paragraph 10(33)(b) of schedule 5 | Consequential and minor modifications |  |
 | Paragraph 10(41)(a)(ii), (b) and (c)(ii) and (iii) of schedule 5 | Consequential and minor modifications |  |
 | Paragraph 10(42)(a)(ii) and (b) of schedule 5 | Consequential and minor modifications |  |
@@ -517,11 +517,11 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00001]: Footnote: [2020 asp 13](https://www.legislation.gov.uk/asp/2020/13).
 
-[^key-48ab671a7e9e4230239347351c14c066]: Commencement: Reg. 1 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-48ab671a7e9e4230239347351c14c066]: Commencement: Reg. 1 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
-[^key-c6e0ba17d5cb772066ffa79af9848388]: Textual amendment: Words in reg. 1(2) inserted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/84)](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2)
+[^c-c6e0ba17d5cb772066ffa79af9848388]: Textual amendment: Words in reg. 1(2) inserted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/84)](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2)
 
-[^key-b8cd4a9a2a2f76c06c5a249b43ccf5d1]: Commencement: Reg. 2 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-b8cd4a9a2a2f76c06c5a249b43ccf5d1]: Commencement: Reg. 2 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
 [^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
@@ -535,15 +535,15 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00007]: Footnote: Section 53 was repealed by paragraph 5(8) of schedule 5 of the Disclosure Act.
 
-[^key-b7d301e89a9a9107a707d90922c955c5]: Commencement: Reg. 3(1)(2) in force at 1.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/a)
+[^c-b7d301e89a9a9107a707d90922c955c5]: Commencement: Reg. 3(1)(2) in force at 1.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/a)
 
-[^key-7664a6fc8d85088f1f9a018f0cb4af9f]: Commencement: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/3) in force at 1.7.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/b)
+[^c-7664a6fc8d85088f1f9a018f0cb4af9f]: Commencement: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/3) in force at 1.7.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/b)
 
-[^key-0d4ab0d6efb2017c4e0397be86b35b64]: Commencement: Reg. 4 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-0d4ab0d6efb2017c4e0397be86b35b64]: Commencement: Reg. 4 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
 [^f00008]: Footnote: Section 112 was repealed by paragraph 3 of schedule 5 of the Disclosure Act.
 
-[^key-09f0d36fef51eefed0783700447896a6]: Commencement: Reg. 5 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-09f0d36fef51eefed0783700447896a6]: Commencement: Reg. 5 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
 [^f00009]: Footnote: Section 113A was repealed by paragraph 3 of schedule 5 of the Disclosure (Scotland) Act [2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13) (“**the Disclosure Act**”).
 
@@ -553,13 +553,13 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00012]: Footnote: Section 116 was repealed by paragraph 3 of schedule 5 of the Disclosure Act.
 
-[^key-b48cddce5e68d919de41a329421e6539]: Commencement: Reg. 6 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-b48cddce5e68d919de41a329421e6539]: Commencement: Reg. 6 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
 [^f00013]: Footnote: Section 54 was substituted by section 86(3) of the Disclosure Act.
 
-[^key-a0ad5ebe59e173913579d16dc175a143]: Commencement: Reg. 7 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-a0ad5ebe59e173913579d16dc175a143]: Commencement: Reg. 7 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
-[^key-7dac1fb2b8f88b3154a1510358206c23]: Commencement: Reg. 8 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-7dac1fb2b8f88b3154a1510358206c23]: Commencement: Reg. 8 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
 [^f00014]: Footnote: Section 116ZA was repealed by paragraph 3 of schedule 5 of the Disclosure (Scotland) Act [2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13) (“**the Disclosure Act**”).
 
@@ -567,15 +567,15 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00016]: Footnote: Section 52A was repealed by paragraph 5(7) of schedule 5 of the Disclosure Act.
 
-[^key-29bbaed54ced37752feac3d33e1fe64c]: Commencement: Reg. 9 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-29bbaed54ced37752feac3d33e1fe64c]: Commencement: Reg. 9 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
-[^key-b44efe5e36ffbec7b54f700827f9a1fe]: Commencement: Reg. 10 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-b44efe5e36ffbec7b54f700827f9a1fe]: Commencement: Reg. 10 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
 [^f00017]: Footnote: Section 120 was repealed by paragraph 3 of schedule 5 of the Disclosure (Scotland) Act [2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13) (“**the Disclosure Act**”).
 
 [^f00018]: Footnote: Section 122 was repealed by paragraph 3 of schedule 5 of the Disclosure Act.
 
-[^key-02b748d540b431ad2abfef226fa5cdf9]: Commencement: Reg. 11 in force at 1.7.2025, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/4)
+[^c-02b748d540b431ad2abfef226fa5cdf9]: Commencement: Reg. 11 in force at 1.7.2025, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/4)
 
 [^f00019]: Footnote: Section 45C was inserted by section 73(2) of the Disclosure Act.
 
@@ -585,32 +585,32 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00022]: Footnote: Section 71(3) was amended by paragraph 10(42)(b) of schedule 5 of the Disclosure (Scotland) Act 2020 (“**the Disclosure Act**”).
 
-[^key-ee73e7c03891330bbd9f9d07a36f44a9]: Commencement: Reg. 12 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
+[^c-ee73e7c03891330bbd9f9d07a36f44a9]: Commencement: Reg. 12 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2)
 
 [^f00023]: Footnote: Section 91(1) of the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14) (“**the PVG Act**”) defined ‘regulated work’ for the purposes of the PVG Act as meaning “regulated work with children or protected adults”. Section 91 was substituted by section 74(2) of the Disclosure Act and subsection (1) now defines ‘a regulated role’ as meaning “a regulated role with children or adults”.
 
 [^f00024]: Footnote: Sections 45D and 45F were inserted by section 73(2) of the Disclosure Act.
 
-[^key-a9b9a23c72ef723eb7c48208cd3cc9c5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/27/regulation/13) in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2) (as amended by [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
+[^c-a9b9a23c72ef723eb7c48208cd3cc9c5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/27/regulation/13) in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2) (as amended by [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
 
-[^key-caaefe6968a0b1f032309f70a34dc40a]: Textual amendment: Regs. 13-15 inserted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2)
+[^c-caaefe6968a0b1f032309f70a34dc40a]: Textual amendment: Regs. 13-15 inserted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2)
 
-[^key-dc5c88c40ac0a169d1a91165062e3bca]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/13/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/13/2) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)
+[^c-dc5c88c40ac0a169d1a91165062e3bca]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/13/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/13/2) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)
 
-[^key-ac2c8965564809b86be281e185f8c126]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/27/regulation/14) in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2) (as amended by [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
+[^c-ac2c8965564809b86be281e185f8c126]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/27/regulation/14) in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2) (as amended by [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
 
-[^key-e2029b552b55984faf0152d8b7e1e03c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2025/27/regulation/15) in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2) (as amended by [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
+[^c-e2029b552b55984faf0152d8b7e1e03c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2025/27/regulation/15) in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/2) (as amended by [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
 
-[^key-1ffcc0e0e069c459dad8c0e2ea988576]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/15/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/15/2) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)
+[^c-1ffcc0e0e069c459dad8c0e2ea988576]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/15/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/15/2) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)
 
-[^key-0d8636eed48f1d89be5e2afb48485933]: Commencement: Sch. in force at 1.4.2025 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/a)
+[^c-0d8636eed48f1d89be5e2afb48485933]: Commencement: Sch. in force at 1.4.2025 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/a)
 
-[^key-7e31f86131692595ae691ec4a4aff34f]: Commencement: Sch. in force at 1.7.2025 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/b)
+[^c-7e31f86131692595ae691ec4a4aff34f]: Commencement: Sch. in force at 1.7.2025 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2025/27/regulation/1/3/b)
 
-[^key-b5a8443fd00d300e623db8b991de8886]: Textual amendment: Words in sch. substituted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/a)
+[^c-b5a8443fd00d300e623db8b991de8886]: Textual amendment: Words in sch. substituted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/a)
 
-[^key-1640cd49f142bf3930d3349870970af9]: Textual amendment: Words in sch. substituted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/b)
+[^c-1640cd49f142bf3930d3349870970af9]: Textual amendment: Words in sch. substituted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/b)
 
-[^key-163e40d6259b7675f0fa8fe5524da14d]: Textual amendment: Words in sch. substituted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/c)
+[^c-163e40d6259b7675f0fa8fe5524da14d]: Textual amendment: Words in sch. substituted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/c)
 
-[^key-a8d285c42b9fec0e3fa399e0adc1071f]: Textual amendment: Words in sch. inserted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/d)
+[^c-a8d285c42b9fec0e3fa399e0adc1071f]: Textual amendment: Words in sch. inserted (31.3.2025) by [The Disclosure (Scotland) Act 2020 (Commencement No. 5, Saving and Transitional Provision) Amendment Regulations 2025 (S.S.I. 2025/73)](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/d)

@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to amend the Chur
 
 \[19th December 2012\]
 
-## 1. Qualifying connections under section 1 of the Church of England Marriage Measure 2008[^key-8b101a7c7c979698c693451df01b1b67]
+## 1. Qualifying connections under section 1 of the Church of England Marriage Measure 2008[^c-8b101a7c7c979698c693451df01b1b67]
 
 (1) After section 1 of the Church of England Marriage Measure 2008 (“**the 2008 Measure**”) there shall be inserted the following section—
 
@@ -102,4 +102,4 @@ A Measure passed by the General Synod of the Church of England to amend the Chur
 
 ## Annotations
 
-[^key-8b101a7c7c979698c693451df01b1b67]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2012/1/section/1) in force at 1.6.2013 by [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
+[^c-8b101a7c7c979698c693451df01b1b67]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2012/1/section/1) in force at 1.6.2013 by [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)

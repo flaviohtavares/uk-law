@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Fees and invoices[^key-274bce39b3a0d024f8abb9ba955a9275][^key-fdddd5dd48e02befbbb94afc8581cc4b]
+## 64. Fees and invoices[^c-274bce39b3a0d024f8abb9ba955a9275][^c-fdddd5dd48e02befbbb94afc8581cc4b]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-274bce39b3a0d024f8abb9ba955a9275]: Commencement: Art. 64 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-274bce39b3a0d024f8abb9ba955a9275]: Commencement: Art. 64 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-fdddd5dd48e02befbbb94afc8581cc4b]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2018/1253/article/64) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-fdddd5dd48e02befbbb94afc8581cc4b]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2018/1253/article/64) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

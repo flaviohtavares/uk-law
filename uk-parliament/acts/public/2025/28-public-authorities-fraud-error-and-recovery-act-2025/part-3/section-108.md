@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 108. Extent[^key-dcc32dc0f1f421a24ecbbc938386202a]
+## 108. Extent[^c-dcc32dc0f1f421a24ecbbc938386202a]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcc32dc0f1f421a24ecbbc938386202a]: Commencement: S. 108 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-dcc32dc0f1f421a24ecbbc938386202a]: Commencement: S. 108 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)

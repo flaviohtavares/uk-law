@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Restoration orders: supplementary[^key-1e0d7bfa27114f66285758d73ddbe730][^key-7be46ffb9a215a307d7ecb0096bd7eff][^key-efa22510869d944425cfc4026fc01d05][^key-7be46ffb9a215a307d7ecb0096bd7eff]
+## 53. Restoration orders: supplementary[^c-1e0d7bfa27114f66285758d73ddbe730][^c-7be46ffb9a215a307d7ecb0096bd7eff][^c-efa22510869d944425cfc4026fc01d05][^c-7be46ffb9a215a307d7ecb0096bd7eff]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ then, unless the contrary is shown, it is to be presumed for the purposes of sub
 
 - (a) section 249 of the Insolvency Act 1986 (c. 45) (connected persons) applies as it applies for the purposes of any provision of the first Group of Parts of that Act,
 - (b) section 435 of that Act (associated persons) applies as it applies for the purposes of that Act, and
-- (c) section 229 of the Bankruptcy (Scotland) Act 2016[^key-46ee67c742320bb349deec22cb7703a5] (associated persons) applies as it applies for the purposes of that Act.
+- (c) section 229 of the Bankruptcy (Scotland) Act 2016[^c-46ee67c742320bb349deec22cb7703a5] (associated persons) applies as it applies for the purposes of that Act.
 
 (7) For the purposes of this section “**property**” includes—
 
@@ -68,10 +68,10 @@ then, unless the contrary is shown, it is to be presumed for the purposes of sub
 
 ## Annotations
 
-[^key-1e0d7bfa27114f66285758d73ddbe730]: Commencement: S. 53 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-1e0d7bfa27114f66285758d73ddbe730]: Commencement: S. 53 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-7be46ffb9a215a307d7ecb0096bd7eff]: Modification: Pt. 1 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
+[^c-7be46ffb9a215a307d7ecb0096bd7eff]: Modification: Pt. 1 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
 
-[^key-efa22510869d944425cfc4026fc01d05]: Modification: Ss. 38-56 modified (1.9.2005) by [The Pensions Regulator (Financial Support Directions etc.) Regulations 2005 (S.I. 2005/2188)](https://www.legislation.gov.uk/uksi/2005/2188), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2188/regulation/1), [15](https://www.legislation.gov.uk/uksi/2005/2188/regulation/15), [16](https://www.legislation.gov.uk/uksi/2005/2188/regulation/16)
+[^c-efa22510869d944425cfc4026fc01d05]: Modification: Ss. 38-56 modified (1.9.2005) by [The Pensions Regulator (Financial Support Directions etc.) Regulations 2005 (S.I. 2005/2188)](https://www.legislation.gov.uk/uksi/2005/2188), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2188/regulation/1), [15](https://www.legislation.gov.uk/uksi/2005/2188/regulation/15), [16](https://www.legislation.gov.uk/uksi/2005/2188/regulation/16)
 
-[^key-46ee67c742320bb349deec22cb7703a5]: Textual amendment: Words in [s. 53(6)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/53/6/c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 26(4)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/26/4)
+[^c-46ee67c742320bb349deec22cb7703a5]: Textual amendment: Words in [s. 53(6)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/53/6/c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 26(4)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/26/4)

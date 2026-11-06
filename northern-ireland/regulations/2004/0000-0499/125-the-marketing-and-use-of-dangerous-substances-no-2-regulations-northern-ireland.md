@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 PUBLIC HEALTH
 
-The Marketing and Use of Dangerous Substances (No. 2) Regulations (Northern Ireland) 2004 (revoked)[^key-877b2fb7ffce89fc212a37bf3f60a47d]
+The Marketing and Use of Dangerous Substances (No. 2) Regulations (Northern Ireland) 2004 (revoked)[^c-877b2fb7ffce89fc212a37bf3f60a47d]
 
 Made
 
@@ -43,34 +43,34 @@ Coming into operation
 
 15th August 2004
 
-[^key-877b2fb7ffce89fc212a37bf3f60a47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-877b2fb7ffce89fc212a37bf3f60a47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-877b2fb7ffce89fc212a37bf3f60a47d]
+## 1. Citation and commencement[^c-877b2fb7ffce89fc212a37bf3f60a47d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-877b2fb7ffce89fc212a37bf3f60a47d]
+## 2. Interpretation[^c-877b2fb7ffce89fc212a37bf3f60a47d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-877b2fb7ffce89fc212a37bf3f60a47d]
+## 3. Scope[^c-877b2fb7ffce89fc212a37bf3f60a47d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether and octabromodiphenyl ether[^key-877b2fb7ffce89fc212a37bf3f60a47d]
+## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether and octabromodiphenyl ether[^c-877b2fb7ffce89fc212a37bf3f60a47d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-877b2fb7ffce89fc212a37bf3f60a47d]
+## 5. Offences and penalties[^c-877b2fb7ffce89fc212a37bf3f60a47d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-877b2fb7ffce89fc212a37bf3f60a47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-877b2fb7ffce89fc212a37bf3f60a47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-877b2fb7ffce89fc212a37bf3f60a47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-877b2fb7ffce89fc212a37bf3f60a47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-877b2fb7ffce89fc212a37bf3f60a47d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/125) revoked (1.1.2005) by [The Marketing and Use of Dangerous Substances (No. 4) Regulations (Northern Ireland) 2004 (S.R. 2004/509)](https://www.legislation.gov.uk/nisr/2004/509), [regs. 1](https://www.legislation.gov.uk/nisr/2004/509/regulation/1), [7](https://www.legislation.gov.uk/nisr/2004/509/regulation/7) (with [reg. 3](https://www.legislation.gov.uk/nisr/2004/509/regulation/3))
+[^c-877b2fb7ffce89fc212a37bf3f60a47d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/125) revoked (1.1.2005) by [The Marketing and Use of Dangerous Substances (No. 4) Regulations (Northern Ireland) 2004 (S.R. 2004/509)](https://www.legislation.gov.uk/nisr/2004/509), [regs. 1](https://www.legislation.gov.uk/nisr/2004/509/regulation/1), [7](https://www.legislation.gov.uk/nisr/2004/509/regulation/7) (with [reg. 3](https://www.legislation.gov.uk/nisr/2004/509/regulation/3))

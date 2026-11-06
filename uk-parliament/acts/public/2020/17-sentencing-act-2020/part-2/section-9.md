@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Failure to comply with deferment requirement[^key-354eecc96569508a636d0e72e6ad846d]
+## 9. Failure to comply with deferment requirement[^c-354eecc96569508a636d0e72e6ad846d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ For the powers of the court in dealing with the offender under this subsection, 
 
 ## Annotations
 
-[^key-354eecc96569508a636d0e72e6ad846d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2020/17/section/9) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-354eecc96569508a636d0e72e6ad846d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2020/17/section/9) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

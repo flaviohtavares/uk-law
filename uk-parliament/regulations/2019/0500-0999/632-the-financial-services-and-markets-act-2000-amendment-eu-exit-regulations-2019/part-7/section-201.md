@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Variation of transitional directions[^key-2907ff9aae9656e82446ae196b0d03d1]
+## 201. Variation of transitional directions[^c-2907ff9aae9656e82446ae196b0d03d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ could be given by revoking existing, and giving new, transitional directions.
 
 ## Annotations
 
-[^key-2907ff9aae9656e82446ae196b0d03d1]: Commencement: Reg. 201 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-2907ff9aae9656e82446ae196b0d03d1]: Commencement: Reg. 201 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)

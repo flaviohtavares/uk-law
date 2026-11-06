@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Health control at Secretary of State’s aerodromes ....[^c2535711][^key-b2ee4bd8dc88bf15a38f6978c6f0fd9b]
+## 36. Health control at Secretary of State’s aerodromes ....[^c2535711][^c-b2ee4bd8dc88bf15a38f6978c6f0fd9b]
 
 *Extent: E+W*
 
 (1) Without prejudice to his general duties under any Act of Parliament or otherwise, it shall be the duty of the Secretary of State to make such arrangements as appear to him to be necessary—
 
-- (a) for preventing danger to public health from aircraft arriving at any aerodrome which is vested in or under the control of the Secretary of State [^key-b60d911b9dd5cc63dee9c993b3ed003a]...; and
+- (a) for preventing danger to public health from aircraft arriving at any aerodrome which is vested in or under the control of the Secretary of State [^c-b60d911b9dd5cc63dee9c993b3ed003a]...; and
 - (b) for preventing the spread of infection by means of any aircraft leaving any aerodrome mentioned in paragraph (a) above, so far as may be expedient for the purpose of carrying out any treaty, convention, arrangement or engagement with any country;
 
-[^key-938b99101b08ebb0ffb27f824a2a4efa]...
+[^c-938b99101b08ebb0ffb27f824a2a4efa]...
 
 (2) A relevant authority may, and shall if the Secretary of State so requires, undertake duties in connection with the execution of any such arrangements as are mentioned in subsection (1) above, and the Secretary of State shall make to the relevant authority such payments as the relevant authority may reasonably require in respect of expenses incurred by the relevant authority in the performance of those duties.
 
@@ -51,16 +51,16 @@ summary: ''
 
 (9) Her Majesty may by Order in Council direct that any regulations made under the said section 143, as that section has effect by virtue of subsections (5) and (7) above in relation to aerodromes vested in or under the control of the Secretary of State, shall extend with such modifications, if any, as may be specified in the Order, to any of the Channel Islands or to the Isle of Man; and for the purposes of this subsection, subsections (4) and (5) of that section shall be deemed to form part of those regulations.
 
-## 36. Health control at Secretary of State’s aerodromes ....[^c2535831][^key-b2ee4bd8dc88bf15a38f6978c6f0fd9b]
+## 36. Health control at Secretary of State’s aerodromes ....[^c2535831][^c-b2ee4bd8dc88bf15a38f6978c6f0fd9b]
 
 *Extent: S*
 
 (1) Without prejudice to his general duties under any Act of Parliament or otherwise, it shall be the duty of the Secretary of State to make such arrangements as appear to him to be necessary—
 
-- (a) for preventing danger to public health from aircraft arriving at any aerodrome which is vested in or under the control of the Secretary of State [^key-b60d911b9dd5cc63dee9c993b3ed003a]...; and
+- (a) for preventing danger to public health from aircraft arriving at any aerodrome which is vested in or under the control of the Secretary of State [^c-b60d911b9dd5cc63dee9c993b3ed003a]...; and
 - (b) for preventing the spread of infection by means of any aircraft leaving any aerodrome mentioned in paragraph (a) above, so far as may be expedient for the purpose of carrying out any treaty, convention, arrangement or engagement with any country;
 
-[^key-938b99101b08ebb0ffb27f824a2a4efa]...
+[^c-938b99101b08ebb0ffb27f824a2a4efa]...
 
 (2) A relevant authority may, and shall if the Secretary of State so requires, undertake duties in connection with the execution of any such arrangements as are mentioned in subsection (1) above, and the Secretary of State shall make to the relevant authority such payments as the relevant authority may reasonably require in respect of expenses incurred by the relevant authority in the performance of those duties.
 
@@ -69,7 +69,7 @@ summary: ''
 (4) In subsection (2) above “**relevant authority**” means—
 
 - (a) in relation to England and Wales any local authority for the purposes of the [^c2535841]Public Health Act 1936, any county council and any port health authority and any joint board of which all the constituent authorities are authorities or councils as aforesaid;
-- (b) in relation to Scotland, any council constituted under section 2 of the Local Government[^c2535851] etc. (Scotland) Act 1994 [^key-b662be21d590c7eb6cd3a46162f15d1c]...; and
+- (b) in relation to Scotland, any council constituted under section 2 of the Local Government[^c2535851] etc. (Scotland) Act 1994 [^c-b662be21d590c7eb6cd3a46162f15d1c]...; and
 - (c) in relation to Northern Ireland, such authority as the Department of Health and Social Services for Northern Ireland may designate for the purposes of that subsection.
 
 (5)[^c2535871] Section 143 of the [^c2535881] Public Health Act 1936 (which authorises the making of health regulations) shall have effect in relation to relevant aerodromes and in relation to persons and aircraft arriving at or[^c2535891] departing from such aerodromes subject to the following modifications, that is to say—
@@ -90,11 +90,11 @@ summary: ''
 
 [^c2535711]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-b2ee4bd8dc88bf15a38f6978c6f0fd9b]: Textual amendment: Words in s. 36 heading omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/4)
+[^c-b2ee4bd8dc88bf15a38f6978c6f0fd9b]: Textual amendment: Words in s. 36 heading omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/4)
 
-[^key-b60d911b9dd5cc63dee9c993b3ed003a]: Textual amendment: Words in s. 36(1)(a) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/5/a)
+[^c-b60d911b9dd5cc63dee9c993b3ed003a]: Textual amendment: Words in s. 36(1)(a) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/5/a)
 
-[^key-938b99101b08ebb0ffb27f824a2a4efa]: Textual amendment: Words in s. 36(1) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/5/b)
+[^c-938b99101b08ebb0ffb27f824a2a4efa]: Textual amendment: Words in s. 36(1) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/5/b)
 
 [^c2535721]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
@@ -118,7 +118,7 @@ summary: ''
 
 [^c2535851]: Textual amendment: Words in s. 36(4)(b) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 126(3)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/126/3); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
-[^key-b662be21d590c7eb6cd3a46162f15d1c]: Textual amendment: Words in s. 36(4)(b) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-b662be21d590c7eb6cd3a46162f15d1c]: Textual amendment: Words in s. 36(4)(b) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
 [^c2535871]: Textual amendment: S. 36(5)–(7)(9) repealed (E.W.) by [Public Health (Control of Disease) Act 1984 (c. 22, SIF 100:1)](https://www.legislation.gov.uk/ukpga/1984/22), [s. 78](https://www.legislation.gov.uk/ukpga/1984/22/section/78), [Sch. 3](https://www.legislation.gov.uk/ukpga/1984/22/schedule/3)
 

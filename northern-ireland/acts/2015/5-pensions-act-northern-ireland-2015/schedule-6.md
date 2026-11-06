@@ -57,22 +57,22 @@ Section 11.
 
 ### Recalculation of transitional rate where circumstances change
 
-**4.**[^c22570061] (1)[^key-274c923745b805cb61f3aa7b18d08dc1] If the woman is married or in a civil partnership on reaching pensionable age but the marriage or civil partnership comes to an end (because of the death of her spouse or civil partner or otherwise)—
+**4.**[^c22570061] (1)[^c-274c923745b805cb61f3aa7b18d08dc1] If the woman is married or in a civil partnership on reaching pensionable age but the marriage or civil partnership comes to an end (because of the death of her spouse or civil partner or otherwise)—
 
 - (a) her transitional rate is to be recalculated applying paragraph 3(2), and
 - (b) Schedule 2 (up-rating) applies as if the recalculated rate had been the woman's transitional rate on the day on which she reached pensionable age.
 
-(2)[^key-5fe0e7fa86677cb5240eead795f2217c] For the purposes of this paragraph, a civil partnership is not to be treated as having come to an end—
+(2)[^c-5fe0e7fa86677cb5240eead795f2217c] For the purposes of this paragraph, a civil partnership is not to be treated as having come to an end—
 
 - (a) by reason of its having been—
-  - (i) converted into a marriage under Part 3 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 or[^key-91eb15f1911c49b0b808ea3b8b743c63] section 9 of the Marriage (Same Sex Couples) Act 2013;
+  - (i) converted into a marriage under Part 3 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 or[^c-91eb15f1911c49b0b808ea3b8b743c63] section 9 of the Marriage (Same Sex Couples) Act 2013;
   - (ii) changed into a marriage under the Marriage (Scotland) Act 1977;
   - (iii) changed into a marriage in accordance with provision made under section 10 of the Marriage and Civil Partnership (Scotland) Act 2014; or
   - (iv) changed into a marriage under Part 5 of the Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014;
-- (aa)[^key-90d4bce830dc480ca78992ec067c3787] by reason of its having been converted into a marriage under Part 3 or 4 of the Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014 where it is a convertible Northern Ireland civil partnership as defined by regulation 2 of those Regulations; or
+- (aa)[^c-90d4bce830dc480ca78992ec067c3787] by reason of its having been converted into a marriage under Part 3 or 4 of the Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014 where it is a convertible Northern Ireland civil partnership as defined by regulation 2 of those Regulations; or
 - (b) by reason of a marriage which has been treated in Northern Ireland as a civil partnership ceasing to be so treated with effect from 13 January 2020.
 
-(3)[^key-33ba023e8f4547b186379da4b65521cf] For the purposes of this paragraph, a marriage is not to be treated as having come to an end by reason of its having been converted into a civil partnership under Part 3, 4 or 5 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020.
+(3)[^c-33ba023e8f4547b186379da4b65521cf] For the purposes of this paragraph, a marriage is not to be treated as having come to an end by reason of its having been converted into a civil partnership under Part 3, 4 or 5 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020.
 
 **5.**[^c22570071] (1) If neither of paragraphs 2 and 3 applies to the woman but she subsequently comes within paragraph (a) or (b) of paragraph 2(1)—
 
@@ -96,15 +96,15 @@ Section 11.
 
 [^c22570061]: Commencement: Sch. 6 para. 4 in operation at 6.4.2016, see s. 53(1)(3)
 
-[^key-274c923745b805cb61f3aa7b18d08dc1]: Textual amendment: Sch. 6 para. 4 renumbered as Sch. 6 para. 4(1) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [73(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/73/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-274c923745b805cb61f3aa7b18d08dc1]: Textual amendment: Sch. 6 para. 4 renumbered as Sch. 6 para. 4(1) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [73(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/73/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-5fe0e7fa86677cb5240eead795f2217c]: Textual amendment: Sch. 6 para. 4(2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [73(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/73/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-5fe0e7fa86677cb5240eead795f2217c]: Textual amendment: Sch. 6 para. 4(2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [73(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/73/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-91eb15f1911c49b0b808ea3b8b743c63]: Textual amendment: Words in [Sch. 6 para. 4(2)(a)(i)](https://www.legislation.gov.uk/nia/2015/5/schedule/6/paragraph/4/2/a/i) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [48(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/48/2)
+[^c-91eb15f1911c49b0b808ea3b8b743c63]: Textual amendment: Words in [Sch. 6 para. 4(2)(a)(i)](https://www.legislation.gov.uk/nia/2015/5/schedule/6/paragraph/4/2/a/i) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [48(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/48/2)
 
-[^key-90d4bce830dc480ca78992ec067c3787]: Textual amendment: [Sch. 6 para. 4(2)(aa)](https://www.legislation.gov.uk/nia/2015/5/schedule/6/paragraph/4/2/aa) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [48(3)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/48/3)
+[^c-90d4bce830dc480ca78992ec067c3787]: Textual amendment: [Sch. 6 para. 4(2)(aa)](https://www.legislation.gov.uk/nia/2015/5/schedule/6/paragraph/4/2/aa) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [48(3)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/48/3)
 
-[^key-33ba023e8f4547b186379da4b65521cf]: Textual amendment: [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/6/paragraph/4/3) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [48(4)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/48/4)
+[^c-33ba023e8f4547b186379da4b65521cf]: Textual amendment: [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/6/paragraph/4/3) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [48(4)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/48/4)
 
 [^c22570071]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nia/2015/5/schedule/6/paragraph/5) in operation at 6.4.2016, see [s. 53(1)(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/1/3)
 

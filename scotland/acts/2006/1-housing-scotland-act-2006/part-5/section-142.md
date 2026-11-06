@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Temporary exemption orders[^key-c66bf6e97fcbb585294369732a51afcb]
+## 142. Temporary exemption orders[^c-c66bf6e97fcbb585294369732a51afcb]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c66bf6e97fcbb585294369732a51afcb]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2006/1/section/142) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-c66bf6e97fcbb585294369732a51afcb]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2006/1/section/142) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

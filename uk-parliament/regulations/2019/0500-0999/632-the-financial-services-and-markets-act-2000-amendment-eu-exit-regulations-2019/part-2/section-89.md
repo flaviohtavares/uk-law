@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Mortgage agreements etc[^key-7365cf6765f503cf50dd62bc22c9c64b]
+## 89. Mortgage agreements etc[^c-7365cf6765f503cf50dd62bc22c9c64b]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,13 +71,13 @@ After section 423 insert—
 >
 > (5) A reference in this section to any immovable property, land or building—
 >
-> - (a) in relation to an agreement entered into before IP completion day[^key-7ece33c89cf324e38093a56a89d52acd], is a reference to any immovable property, land or building in the United Kingdom or within the territory of an EEA State;
+> - (a) in relation to an agreement entered into before IP completion day[^c-7ece33c89cf324e38093a56a89d52acd], is a reference to any immovable property, land or building in the United Kingdom or within the territory of an EEA State;
 > - (b) in relation to an agreement entered into on or after IP completion day, is a reference to any immovable property, land or building in the United Kingdom.
 
 .
 
 ## Annotations
 
-[^key-7365cf6765f503cf50dd62bc22c9c64b]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-7365cf6765f503cf50dd62bc22c9c64b]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
 
-[^key-7ece33c89cf324e38093a56a89d52acd]: Textual amendment: Words in reg. 89 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/i)
+[^c-7ece33c89cf324e38093a56a89d52acd]: Textual amendment: Words in reg. 89 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/i)

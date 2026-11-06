@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84A. Reports about misappropriation, etc. in public service pension schemes[^key-d7ccd0703af3311c247dd759367b5fec]
+## 84A. Reports about misappropriation, etc. in public service pension schemes[^c-d7ccd0703af3311c247dd759367b5fec]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ the Regulator must report the matter to the scheme manager.
 
 ## Annotations
 
-[^key-d7ccd0703af3311c247dd759367b5fec]: Textual amendment: [Art. 84A](https://www.legislation.gov.uk/nisi/2005/255/article/84A) inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/12); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-d7ccd0703af3311c247dd759367b5fec]: Textual amendment: [Art. 84A](https://www.legislation.gov.uk/nisi/2005/255/article/84A) inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/12); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 197. Remuneration (special administration (bank insolvency))[^key-36c1ed97fb24f0e8aee6a02aecded925]
+## 197. Remuneration (special administration (bank insolvency))[^c-36c1ed97fb24f0e8aee6a02aecded925]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36c1ed97fb24f0e8aee6a02aecded925]: Commencement: [Rule 197](https://www.legislation.gov.uk/uksi/2011/1301/rule/197) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-36c1ed97fb24f0e8aee6a02aecded925]: Commencement: [Rule 197](https://www.legislation.gov.uk/uksi/2011/1301/rule/197) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Transitional provision: regulation 31J[^key-865b378417da3775a358d7bbb877548d]
+## 67. Transitional provision: regulation 31J[^c-865b378417da3775a358d7bbb877548d]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-865b378417da3775a358d7bbb877548d]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2006/2910/regulation/67) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-865b378417da3775a358d7bbb877548d]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2006/2910/regulation/67) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00087]: Footnote: [2004 c. 31](https://www.legislation.gov.uk/ukpga/2004/31).
 

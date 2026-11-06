@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Power to issue apprenticeship certificates[^key-b94b93751184aacb432445920ad1812e]
+## 119. Power to issue apprenticeship certificates[^c-b94b93751184aacb432445920ad1812e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b94b93751184aacb432445920ad1812e]: Commencement: S. 119 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b94b93751184aacb432445920ad1812e]: Commencement: S. 119 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

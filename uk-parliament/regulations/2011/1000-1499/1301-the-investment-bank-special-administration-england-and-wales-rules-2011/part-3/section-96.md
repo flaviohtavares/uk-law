@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Appeals against decisions under this Chapter[^key-885a6b85dfb7697e061334032cc0ec18]
+## 96. Appeals against decisions under this Chapter[^c-885a6b85dfb7697e061334032cc0ec18]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-885a6b85dfb7697e061334032cc0ec18]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2011/1301/rule/96) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-885a6b85dfb7697e061334032cc0ec18]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2011/1301/rule/96) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

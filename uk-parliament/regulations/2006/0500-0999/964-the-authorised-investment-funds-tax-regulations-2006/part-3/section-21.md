@@ -33,7 +33,7 @@ summary: ''
 - (a) in the case of an open-ended investment company are references to investments comprised in the scheme property of that company, but do not include references to cash awaiting investment, and
 - (b) in the case of an authorised unit trust are references to investments subject to the trusts of that authorised unit trust, but do not include references to cash awaiting investment.
 
-(5A)[^key-10f48e93f73248a6d309fb6b13039532] For the purpose of category 4A, units in an offshore fund are qualifying units at any time in the relevant period if, and only if, the offshore fund would itself (on the relevant assumption) satisfy the qualifying investments test throughout that period.
+(5A)[^c-10f48e93f73248a6d309fb6b13039532] For the purpose of category 4A, units in an offshore fund are qualifying units at any time in the relevant period if, and only if, the offshore fund would itself (on the relevant assumption) satisfy the qualifying investments test throughout that period.
 
 (5B) For the purposes of paragraph (5A), the relevant assumption is that the only investments of the offshore fund which are to be regarded as qualifying investments are those falling within categories 1 to 3 and 5 to 8.
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-10f48e93f73248a6d309fb6b13039532]: Textual amendment: [Reg. 21(5A)-(5C)](https://www.legislation.gov.uk/uksi/2006/964/regulation/21/5A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2010/294/regulation/11)
+[^c-10f48e93f73248a6d309fb6b13039532]: Textual amendment: [Reg. 21(5A)-(5C)](https://www.legislation.gov.uk/uksi/2006/964/regulation/21/5A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2010/294/regulation/11)
 
 [^c15458951]: Marginal citation: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23). Paragraph 11 of Schedule 26 was amended by Article 12 of [S.I. 2004/2201](https://www.legislation.gov.uk/uksi/2004/2201).
 

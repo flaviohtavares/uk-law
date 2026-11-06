@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Correction of orders[^key-8b466574c556da6d8f4d7daebf8f66d2]
+## 170. Correction of orders[^c-8b466574c556da6d8f4d7daebf8f66d2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b466574c556da6d8f4d7daebf8f66d2]: Textual amendment: Pt. 9 Ch. 2 omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(1)(a)](https://www.legislation.gov.uk/asc/2021/1/section/150/1/a), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/d)
+[^c-8b466574c556da6d8f4d7daebf8f66d2]: Textual amendment: Pt. 9 Ch. 2 omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(1)(a)](https://www.legislation.gov.uk/asc/2021/1/section/150/1/a), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/d)

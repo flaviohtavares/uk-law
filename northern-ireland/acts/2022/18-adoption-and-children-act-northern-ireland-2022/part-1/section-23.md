@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Contact[^key-0f38a54cad7c9e09a801d6a42d709da3]
+## 23. Contact[^c-0f38a54cad7c9e09a801d6a42d709da3]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f38a54cad7c9e09a801d6a42d709da3]: Commencement: S. 23 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0f38a54cad7c9e09a801d6a42d709da3]: Commencement: S. 23 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

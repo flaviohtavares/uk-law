@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Duty of Teacher Training Agency[^key-6f95c713f63563eda7f54e73803c69c3]
+## 40. Duty of Teacher Training Agency[^c-6f95c713f63563eda7f54e73803c69c3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f95c713f63563eda7f54e73803c69c3]: Textual amendment: [Ss. 38-40](https://www.legislation.gov.uk/ukpga/2001/10/section/38) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-6f95c713f63563eda7f54e73803c69c3]: Textual amendment: [Ss. 38-40](https://www.legislation.gov.uk/ukpga/2001/10/section/38) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)

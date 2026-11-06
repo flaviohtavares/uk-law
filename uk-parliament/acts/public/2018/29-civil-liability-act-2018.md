@@ -42,7 +42,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Whiplash injuries
 
-#### 1. “Whiplash injury” etc[^key-b0fe48fdaf379f36b9c2bb559b7a9379]
+#### 1. “Whiplash injury” etc[^c-b0fe48fdaf379f36b9c2bb559b7a9379]
 
 (1) In this Part “**whiplash injury**” means an injury of soft tissue in the neck, back or shoulder that is of a description falling within subsection (2), but not including an injury excepted by subsection (3).
 
@@ -77,7 +77,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - “**motor vehicle**” means a mechanically propelled vehicle intended or adapted for use on roads;
 - “**road**” means a highway or other road to which the public has access, and includes bridges over which a road passes.
 
-#### 2. Power to amend section 1[^key-06cd07950ec969ea0e977c83c6928cee]
+#### 2. Power to amend section 1[^c-06cd07950ec969ea0e977c83c6928cee]
 
 (1) The Lord Chancellor may by regulations amend the definition of “whiplash injury” in section 1, but not so as to include an injury of soft tissue other than soft tissue in the neck, back or shoulder.
 
@@ -108,7 +108,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Damages
 
-#### 3. Damages for whiplash injuries[^key-f3b22472ce59b07248f3d4738e20b08c][^key-8d6fee4523cd3c7c3e4fce558b2a2c8a]
+#### 3. Damages for whiplash injuries[^c-f3b22472ce59b07248f3d4738e20b08c][^c-8d6fee4523cd3c7c3e4fce558b2a2c8a]
 
 (1) This section applies in relation to the determination by a court of damages for pain, suffering and loss of amenity in a case where—
 
@@ -147,7 +147,7 @@ taken together, is to be an amount specified in regulations made by the Lord Cha
 
 (12) A statutory instrument containing regulations under this section is subject to affirmative resolution procedure.
 
-#### 4. Review of regulations under section 3[^key-c138832d0e070efcdc9048f443584aeb]
+#### 4. Review of regulations under section 3[^c-c138832d0e070efcdc9048f443584aeb]
 
 (1) The Lord Chancellor must carry out reviews of regulations made under section 3.
 
@@ -159,7 +159,7 @@ taken together, is to be an amount specified in regulations made by the Lord Cha
 
 (5) The Lord Chancellor must lay a copy of each report before Parliament.
 
-#### 5. Uplift in exceptional circumstances[^key-a9e9dc93b51424914d3857788dc6f6a4][^key-5ed06bbc009cff289a34e023da2e0296]
+#### 5. Uplift in exceptional circumstances[^c-a9e9dc93b51424914d3857788dc6f6a4][^c-5ed06bbc009cff289a34e023da2e0296]
 
 (1) Regulations made by the Lord Chancellor may provide for a court—
 
@@ -193,7 +193,7 @@ taken together, is to be an amount specified in regulations made by the Lord Cha
 
 ### Settlement of whiplash claims
 
-#### 6. Rules against settlement before medical report[^key-7212d59d12a769e8af60881b1698c28c][^key-924ab372acfc5efd54748830edaa63da]
+#### 6. Rules against settlement before medical report[^c-7212d59d12a769e8af60881b1698c28c][^c-924ab372acfc5efd54748830edaa63da]
 
 (1) A regulated person is in breach of this section if—
 
@@ -224,7 +224,7 @@ taken together, is to be an amount specified in regulations made by the Lord Cha
 - (a) one or more whiplash injuries suffered by a person on a particular occasion because of driver negligence and in relation to which section 3 applies, or
 - (b) a whiplash injury or injuries within paragraph (a) suffered by a person on a particular occasion and one or more minor psychological injuries suffered by the person on the same occasion as the whiplash injury or injuries.
 
-#### 7. Effect of rules against settlement before medical report[^key-7adcb31b1174b5d1c2ba79109892e752]
+#### 7. Effect of rules against settlement before medical report[^c-7adcb31b1174b5d1c2ba79109892e752]
 
 (1) The relevant regulator must ensure that it has appropriate arrangements for monitoring and enforcing compliance with the restrictions imposed on regulated persons by section 6.
 
@@ -241,7 +241,7 @@ taken together, is to be an amount specified in regulations made by the Lord Cha
 
 (6) A breach of section 6 does not make an agreement to settle the whiplash claim in question void or unenforceable.
 
-#### 8. Regulation by the Financial Conduct Authority[^key-e69213729160da4d45106329fa96cab4][^key-eac694fb475c526f7e314eab06430d42]
+#### 8. Regulation by the Financial Conduct Authority[^c-e69213729160da4d45106329fa96cab4][^c-eac694fb475c526f7e314eab06430d42]
 
 (1) The Treasury may make regulations to enable the Financial Conduct Authority, where it is the relevant regulator, to take action for monitoring and enforcing compliance with the restrictions imposed on regulated persons by section 6.
 
@@ -260,7 +260,7 @@ taken together, is to be an amount specified in regulations made by the Lord Cha
 
 ### Interpretation
 
-#### 9. Interpretation[^key-fff2ad754f54c0781ee3cab45c97a2ed][^key-3e1739d68517bfbdcaa8a232569d8e3d]
+#### 9. Interpretation[^c-fff2ad754f54c0781ee3cab45c97a2ed][^c-3e1739d68517bfbdcaa8a232569d8e3d]
 
 (1) For the purposes of this Part, in relation to an act mentioned in section 6(2), a regulator listed in the first column is the relevant regulator in relation to the regulated person listed in the corresponding entry in the second column.
 
@@ -660,30 +660,30 @@ This Act may be cited as the Civil Liability Act 2018.
 
 ## Annotations
 
-[^key-b0fe48fdaf379f36b9c2bb559b7a9379]: Commencement: S. 1 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-b0fe48fdaf379f36b9c2bb559b7a9379]: Commencement: S. 1 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-06cd07950ec969ea0e977c83c6928cee]: Commencement: S. 2 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-06cd07950ec969ea0e977c83c6928cee]: Commencement: S. 2 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-f3b22472ce59b07248f3d4738e20b08c]: Commencement: S. 3 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/a)
+[^c-f3b22472ce59b07248f3d4738e20b08c]: Commencement: S. 3 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/a)
 
-[^key-8d6fee4523cd3c7c3e4fce558b2a2c8a]: Commencement: S. 3 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-8d6fee4523cd3c7c3e4fce558b2a2c8a]: Commencement: S. 3 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-c138832d0e070efcdc9048f443584aeb]: Commencement: S. 4 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-c138832d0e070efcdc9048f443584aeb]: Commencement: S. 4 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-a9e9dc93b51424914d3857788dc6f6a4]: Commencement: S. 5 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/b)
+[^c-a9e9dc93b51424914d3857788dc6f6a4]: Commencement: S. 5 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/b)
 
-[^key-5ed06bbc009cff289a34e023da2e0296]: Commencement: S. 5 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-5ed06bbc009cff289a34e023da2e0296]: Commencement: S. 5 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-7212d59d12a769e8af60881b1698c28c]: Commencement: S. 6 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/c)
+[^c-7212d59d12a769e8af60881b1698c28c]: Commencement: S. 6 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/c)
 
-[^key-924ab372acfc5efd54748830edaa63da]: Commencement: S. 6 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-924ab372acfc5efd54748830edaa63da]: Commencement: S. 6 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-7adcb31b1174b5d1c2ba79109892e752]: Commencement: S. 7 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-7adcb31b1174b5d1c2ba79109892e752]: Commencement: S. 7 in force at 31.5.2021 by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-e69213729160da4d45106329fa96cab4]: Commencement: S. 8 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/d)
+[^c-e69213729160da4d45106329fa96cab4]: Commencement: S. 8 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/d)
 
-[^key-eac694fb475c526f7e314eab06430d42]: Commencement: S. 8 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-eac694fb475c526f7e314eab06430d42]: Commencement: S. 8 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
 
-[^key-fff2ad754f54c0781ee3cab45c97a2ed]: Commencement: S. 9 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/e)
+[^c-fff2ad754f54c0781ee3cab45c97a2ed]: Commencement: S. 9 in force at 25.2.2021 for specified purposes by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/195/regulation/2/e)
 
-[^key-3e1739d68517bfbdcaa8a232569d8e3d]: Commencement: S. 9 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))
+[^c-3e1739d68517bfbdcaa8a232569d8e3d]: Commencement: S. 9 in force at 31.5.2021 in so far as not already in force by [S.I. 2021/195](https://www.legislation.gov.uk/uksi/2021/195), [reg. 3](https://www.legislation.gov.uk/uksi/2021/195/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/195/regulation/4))

@@ -43,7 +43,7 @@ Section 140.
 
 **2.** The repeal of section 52 of the Housing Act 1980 (protected shorthold tenancies) does not apply with respect to any tenancy entered into before the coming into force of Part I of this Act nor to any other tenancy which, having regard to section 34 of this Act, can be a protected shorthold tenancy.
 
-**3.** The repeal of sections 56 to 58 of the Housing Act 1980 does not have effect in relation to any tenancy *(affected by repeal, see note)*[^key-74736147d7ceb0c773a4111b64bf2e80] of a dwelling-house in Wales[^key-cdd6cc68c9dff568a454b8de21ca7fb3] *(affected by repeal, see note)*[^key-74736147d7ceb0c773a4111b64bf2e80] to which, by virtue of section 37(2) of this Act, section 1(3) of this Act does not apply. *(affected by repeal, see note)*[^key-74736147d7ceb0c773a4111b64bf2e80]
+**3.** The repeal of sections 56 to 58 of the Housing Act 1980 does not have effect in relation to any tenancy *(affected by repeal, see note)*[^c-74736147d7ceb0c773a4111b64bf2e80] of a dwelling-house in Wales[^c-cdd6cc68c9dff568a454b8de21ca7fb3] *(affected by repeal, see note)*[^c-74736147d7ceb0c773a4111b64bf2e80] to which, by virtue of section 37(2) of this Act, section 1(3) of this Act does not apply. *(affected by repeal, see note)*[^c-74736147d7ceb0c773a4111b64bf2e80]
 
 **4.** The repeals in section 80 of the Housing Act 1985—
 
@@ -53,8 +53,8 @@ Section 140.
 
 ## Annotations
 
-[^key-74736147d7ceb0c773a4111b64bf2e80]: Textual amendment: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18/paragraph/3) ceases to have effect (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 46(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/46/1)
+[^c-74736147d7ceb0c773a4111b64bf2e80]: Textual amendment: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18/paragraph/3) ceases to have effect (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 46(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/46/1)
 
-[^key-cdd6cc68c9dff568a454b8de21ca7fb3]: Textual amendment: Words in [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18/paragraph/3) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 46(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/46/2)
+[^c-cdd6cc68c9dff568a454b8de21ca7fb3]: Textual amendment: Words in [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18/paragraph/3) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 46(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/46/2)
 
 [^c12877701]: Textual amendment: Word and Sch. 18 para. 4(c) added by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 112](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/112)

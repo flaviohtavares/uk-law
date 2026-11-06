@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Overview[^key-81987c6cfef9c000281b840b9eba3158]
+## 1. Overview[^c-81987c6cfef9c000281b840b9eba3158]
 
 *Extent: E+W*
 
@@ -46,10 +46,10 @@ summary: ''
 - (c) requires boards to do those things in accordance with the sustainable development principle (Chapter 2, section 36);
 - (d) requires boards to publish local well-being plans setting out their local objectives and how they propose to take steps to meet them (Chapter 2, section 39);
 - (e) makes specific provision about how local well-being plans apply to community councils and how, in that way, a community council may contribute to the activity of the public services board in its area (Chapter 2, section 40);
-- (f) provides for boards to merge or otherwise collaborate , and to demerge[^key-a8a11e09cb2c36da82457f5b6d810c4f] (Chapter 3).
+- (f) provides for boards to merge or otherwise collaborate , and to demerge[^c-a8a11e09cb2c36da82457f5b6d810c4f] (Chapter 3).
 
 ## Annotations
 
-[^key-81987c6cfef9c000281b840b9eba3158]: Commencement: S. 1 in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/a)
+[^c-81987c6cfef9c000281b840b9eba3158]: Commencement: S. 1 in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/a)
 
-[^key-a8a11e09cb2c36da82457f5b6d810c4f]: Textual amendment: Words in [s. 1(4)(f)](https://www.legislation.gov.uk/anaw/2015/2/section/1/4/f) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/2)
+[^c-a8a11e09cb2c36da82457f5b6d810c4f]: Textual amendment: Words in [s. 1(4)(f)](https://www.legislation.gov.uk/anaw/2015/2/section/1/4/f) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/2)

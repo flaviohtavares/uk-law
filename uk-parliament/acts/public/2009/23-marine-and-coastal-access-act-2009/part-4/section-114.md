@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Meaning of “enforcement authority”[^key-3a29124f97a73c0fa1d1a49b08eac7e0]
+## 114. Meaning of “enforcement authority”[^c-3a29124f97a73c0fa1d1a49b08eac7e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a29124f97a73c0fa1d1a49b08eac7e0]: Commencement: S. 114 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-3a29124f97a73c0fa1d1a49b08eac7e0]: Commencement: S. 114 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

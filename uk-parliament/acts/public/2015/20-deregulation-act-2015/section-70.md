@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Sale of liqueur confectionery to children under 16: abolition of offence[^key-2cc240bf794670dbd8f9a504d942b78f]
+## 70. Sale of liqueur confectionery to children under 16: abolition of offence[^c-2cc240bf794670dbd8f9a504d942b78f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Section 148 of the Licensing Act 2003 (sale of liqueur confectionery to children
 
 ## Annotations
 
-[^key-2cc240bf794670dbd8f9a504d942b78f]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2015/20/section/70) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(i)](https://www.legislation.gov.uk/uksi/2015/994/article/6/i)
+[^c-2cc240bf794670dbd8f9a504d942b78f]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2015/20/section/70) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(i)](https://www.legislation.gov.uk/uksi/2015/994/article/6/i)

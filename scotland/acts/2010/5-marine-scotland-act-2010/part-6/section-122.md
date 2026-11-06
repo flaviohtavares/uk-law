@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Duty to notify occupier[^key-0847fb739763fc778ab990ff53c8d901]
+## 122. Duty to notify occupier[^c-0847fb739763fc778ab990ff53c8d901]
 
 *Extent: S*
 
-(1) The duty to notify an occupier under section 120(2) [^key-f57bd8c9853abcb4b5576e6d065e28b7]... may be fulfilled—
+(1) The duty to notify an occupier under section 120(2) [^c-f57bd8c9853abcb4b5576e6d065e28b7]... may be fulfilled—
 
 - (a) by hand delivering the notice to the occupier,
 - (b) by sending the notice, by first class post or by a registered or recorded delivery postal service, in an envelope addressed to the occupier at—
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0847fb739763fc778ab990ff53c8d901]: Commencement: S. 122 in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(d)](https://www.legislation.gov.uk/ssi/2010/230/article/3/d)
+[^c-0847fb739763fc778ab990ff53c8d901]: Commencement: S. 122 in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(d)](https://www.legislation.gov.uk/ssi/2010/230/article/3/d)
 
-[^key-f57bd8c9853abcb4b5576e6d065e28b7]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/asp/2010/5/section/122/1) repealed (1.2.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 14(4)](https://www.legislation.gov.uk/asp/2020/14/section/14/4), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/2)
+[^c-f57bd8c9853abcb4b5576e6d065e28b7]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/asp/2010/5/section/122/1) repealed (1.2.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 14(4)](https://www.legislation.gov.uk/asp/2020/14/section/14/4), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/2)

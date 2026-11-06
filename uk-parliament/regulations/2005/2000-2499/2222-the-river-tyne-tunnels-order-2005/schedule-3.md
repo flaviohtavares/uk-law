@@ -22,7 +22,7 @@ summary: ''
 
 Article 7
 
-### PART 1 — streets for which a substitute is to be provided[^key-7cc7c7b05e1fc1e99ae7943a135b9067]
+### PART 1 — streets for which a substitute is to be provided[^c-7cc7c7b05e1fc1e99ae7943a135b9067]
 
 <table>
 <thead>
@@ -57,7 +57,7 @@ Article 7
 </tbody>
 </table>
 
-### PART 2 — streets for which no substitute is to be provided[^key-d8a4a83cc80728c75522a4bb2f171e99]
+### PART 2 — streets for which no substitute is to be provided[^c-d8a4a83cc80728c75522a4bb2f171e99]
 
 <table>
 <thead>
@@ -75,6 +75,6 @@ Article 7
 
 ## Annotations
 
-[^key-7cc7c7b05e1fc1e99ae7943a135b9067]: Commencement: Sch. 3 Pt. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-7cc7c7b05e1fc1e99ae7943a135b9067]: Commencement: Sch. 3 Pt. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-d8a4a83cc80728c75522a4bb2f171e99]: Commencement: Sch. 3 Pt. 2 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-d8a4a83cc80728c75522a4bb2f171e99]: Commencement: Sch. 3 Pt. 2 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

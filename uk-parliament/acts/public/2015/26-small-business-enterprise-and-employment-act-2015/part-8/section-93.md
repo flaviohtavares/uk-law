@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-99201fe7f72c323dcd96dd8e09a14b02] The Companies Act 2006 is amended as follows.
+(1)[^c-99201fe7f72c323dcd96dd8e09a14b02] The Companies Act 2006 is amended as follows.
 
-(2)[^key-99201fe7f72c323dcd96dd8e09a14b02] In section 9 (registration documents), in subsection (5)—
+(2)[^c-99201fe7f72c323dcd96dd8e09a14b02] In section 9 (registration documents), in subsection (5)—
 
 - (a) omit the “and” after paragraph (a), and
 - (b) after paragraph (b) insert
@@ -31,24 +31,24 @@ summary: ''
   >
   > - (c) a statement of the type of company it is to be and its intended principal business activities.
 
-(3)[^key-e6ce5a67891153c9cff3e1ae3d298520][^key-0d2a061f644d8c106934776343874352] Also in section 9, after subsection (5) insert—
+(3)[^c-e6ce5a67891153c9cff3e1ae3d298520][^c-0d2a061f644d8c106934776343874352] Also in section 9, after subsection (5) insert—
 
 > (5A) The information as to the company's type must be given by reference to the classification scheme prescribed for the purposes of this section.
 >
 > (5B) The information as to the company's intended principal business activities may be given by reference to one or more categories of any prescribed system of classifying business activities.
 
-(4)[^key-99201fe7f72c323dcd96dd8e09a14b02] In section 108 (statement of capital required where company re-registering as a limited company already has share capital), in subsection (2), for paragraph (b) substitute—
+(4)[^c-99201fe7f72c323dcd96dd8e09a14b02] In section 108 (statement of capital required where company re-registering as a limited company already has share capital), in subsection (2), for paragraph (b) substitute—
 
 > - (b) (if different) the last statement of capital sent by the company.
 
-(5)[^key-99201fe7f72c323dcd96dd8e09a14b02] In section 1078 (documents subject to Directive disclosure requirements), in subsection (2)—
+(5)[^c-99201fe7f72c323dcd96dd8e09a14b02] In section 1078 (documents subject to Directive disclosure requirements), in subsection (2)—
 
 - (a) for the heading “Accounts, reports and returns” substitute “ Accounts and reports etc ”, and
 - (b) under that heading, for “The company's annual return” substitute “ Any confirmation statement delivered by the company under section 853A. ”
 
-(6)[^key-99201fe7f72c323dcd96dd8e09a14b02] In section 1169 (dormant companies), in subsection (3)(b)(iv), for “an annual return” substitute “ a confirmation statement ”.
+(6)[^c-99201fe7f72c323dcd96dd8e09a14b02] In section 1169 (dormant companies), in subsection (3)(b)(iv), for “an annual return” substitute “ a confirmation statement ”.
 
-(7)[^key-99201fe7f72c323dcd96dd8e09a14b02] In Schedule 8 (index of defined expressions)—
+(7)[^c-99201fe7f72c323dcd96dd8e09a14b02] In Schedule 8 (index of defined expressions)—
 
 - (a) omit the entries for “annual return”, “non-traded company” and “return period”, and
 - (b) in the appropriate places insert—
@@ -91,8 +91,8 @@ summary: ''
 
 ## Annotations
 
-[^key-99201fe7f72c323dcd96dd8e09a14b02]: Commencement: S. 93(1)(2)(4)-(7) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/b)
+[^c-99201fe7f72c323dcd96dd8e09a14b02]: Commencement: S. 93(1)(2)(4)-(7) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/b)
 
-[^key-e6ce5a67891153c9cff3e1ae3d298520]: Commencement: S. 93(3) in force at 1.1.2016 for specified purposes by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/3/b)
+[^c-e6ce5a67891153c9cff3e1ae3d298520]: Commencement: S. 93(3) in force at 1.1.2016 for specified purposes by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/3/b)
 
-[^key-0d2a061f644d8c106934776343874352]: Commencement: S. 93(3) in force at 30.6.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/b)
+[^c-0d2a061f644d8c106934776343874352]: Commencement: S. 93(3) in force at 30.6.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/b)

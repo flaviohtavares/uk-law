@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Power of FCA to make rules in relation to securitisation repositories[^key-39b2dd2516e86a142139c3f917f1cb42]
+## 22. Power of FCA to make rules in relation to securitisation repositories[^c-39b2dd2516e86a142139c3f917f1cb42]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ as appear to the FCA to be necessary or expedient for the purpose of advancing o
 
 ## Annotations
 
-[^key-39b2dd2516e86a142139c3f917f1cb42]: Commencement: Reg. 22 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-39b2dd2516e86a142139c3f917f1cb42]: Commencement: Reg. 22 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

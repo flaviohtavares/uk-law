@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.64. Application to punish for contempt of court[^key-9689aad28aa7b186f0b164a500451c63]
+## 33.64. Application to punish for contempt of court[^c-9689aad28aa7b186f0b164a500451c63]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9689aad28aa7b186f0b164a500451c63]: Commencement: [Rule 33.64](https://www.legislation.gov.uk/uksi/2025/909/rule/33.64) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9689aad28aa7b186f0b164a500451c63]: Commencement: [Rule 33.64](https://www.legislation.gov.uk/uksi/2025/909/rule/33.64) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00861]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54). The Act’s title was amended by section 59(5) of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

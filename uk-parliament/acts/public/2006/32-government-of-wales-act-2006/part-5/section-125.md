@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For each financial year there is to be moved in the Senedd[^key-60edd79c70d763519861630d1afb7962] a motion (referred to in this Act as an “annual Budget motion”) for the purpose of authorising—
+(1) For each financial year there is to be moved in the Senedd[^c-60edd79c70d763519861630d1afb7962] a motion (referred to in this Act as an “annual Budget motion”) for the purpose of authorising—
 
 - (a) the amount of resources which may be used in the financial year by the relevant persons, or pursuant to a relevant enactment, for the services and purposes specified in the motion,
 - (b) the amount of resources accruing to the relevant persons in the financial year which may be retained by them to be used for the services and purposes so specified (rather than being paid into the Welsh Consolidated Fund), and
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Protected disclosures: reporting requirements[^key-aa5bb5fce397f7da652dff5d19fd147b]
+## 148. Protected disclosures: reporting requirements[^c-aa5bb5fce397f7da652dff5d19fd147b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa5bb5fce397f7da652dff5d19fd147b]: Commencement: S. 148 in force at 1.1.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/a)
+[^c-aa5bb5fce397f7da652dff5d19fd147b]: Commencement: S. 148 in force at 1.1.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/a)

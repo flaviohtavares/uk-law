@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. The Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^key-1e2edb56e748530a94ddd9a3001b239e]
+## 72. The Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^c-1e2edb56e748530a94ddd9a3001b239e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e2edb56e748530a94ddd9a3001b239e]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-1e2edb56e748530a94ddd9a3001b239e]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624561]: Marginal citation: [S.I. 1997/2780](https://www.legislation.gov.uk/uksi/1997/2780) (S. 174).

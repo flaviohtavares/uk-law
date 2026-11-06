@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies to the office of any judge of the Senior Courts[^c20659261]. . . .
 
-(2) A person appointed to an office to which this section applies shall vacate it on the day on which he attains the age of 75[^key-b1480b42b59db4524c8ef8b24f1ac2a4] unless by virtue of this section he has ceased to hold it before then.
+(2) A person appointed to an office to which this section applies shall vacate it on the day on which he attains the age of 75[^c-b1480b42b59db4524c8ef8b24f1ac2a4] unless by virtue of this section he has ceased to hold it before then.
 
 (3) A person appointed to an office to which this section applies shall hold that office during good behaviour, subject to a power of removal by Her Majesty on an address presented to Her by both Houses of Parliament.
 
@@ -45,7 +45,7 @@ may, subject to subsection (9), by instrument under his hand declare that person
 
 (9) A declaration under subsection (8) with respect to a person shall be of no effect unless it is made—
 
-- (a) in the case of any of the Lord Chief Justice, the Master of the Rolls, the President of the Queen's Bench Division, the President of the Family Division and the[^c20659191] President of the Business and Property Division[^key-de63231794d2322a7e70792186921dd3], with the concurrence of two others of them;
+- (a) in the case of any of the Lord Chief Justice, the Master of the Rolls, the President of the Queen's Bench Division, the President of the Family Division and the[^c20659191] President of the Business and Property Division[^c-de63231794d2322a7e70792186921dd3], with the concurrence of two others of them;
 - (b) in the case of a Lord Justice of Appeal, with the concurrence of the Master of the Rolls;
 - (c) in the case of a puisne judge of any Division of the High Court, with the concurrence of the senior judge of that Division.
 
@@ -57,7 +57,7 @@ may, subject to subsection (9), by instrument under his hand declare that person
 
 [^c20659261]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/1) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [146](https://www.legislation.gov.uk/ukpga/2005/4/section/146), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 123(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/123/3), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(n)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/n), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
 
-[^key-b1480b42b59db4524c8ef8b24f1ac2a4]: Textual amendment: Word in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/16/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-b1480b42b59db4524c8ef8b24f1ac2a4]: Textual amendment: Word in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/16/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c20659241]: Textual amendment: [S. 11(3A)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/3A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 123(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/123/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11)
 
@@ -65,6 +65,6 @@ may, subject to subsection (9), by instrument under his hand declare that person
 
 [^c20659191]: Textual amendment: Words in [s. 11(9)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/9) substituted (1.10.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [145](https://www.legislation.gov.uk/ukpga/2005/4/section/145), [Sch. 4 para. 123(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/123/4); [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/c)
 
-[^key-de63231794d2322a7e70792186921dd3]: Textual amendment: Words in [s. 11(9)(a)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/9/a) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(e)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/e)
+[^c-de63231794d2322a7e70792186921dd3]: Textual amendment: Words in [s. 11(9)(a)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/9/a) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(e)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/e)
 
 [^c12330901]: Textual amendment: [S. 11(10)](https://www.legislation.gov.uk/ukpga/1981/54/section/11/10) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/I)

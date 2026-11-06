@@ -31,7 +31,7 @@ summary: ''
 (3) On receipt of the application, the clerk of petty sessions shall refer it –
 
 - (a) if the proceedings to which the application relates have commenced, to the resident magistrate hearing those proceedings;
-- (b) if the proceedings to which the application relates have not commenced when the application is received, to a resident magistrate [^key-8f4c3a64b0d262cdb63b149111816d16]....
+- (b) if the proceedings to which the application relates have not commenced when the application is received, to a resident magistrate [^c-8f4c3a64b0d262cdb63b149111816d16]....
 
 (4) Where a copy of a notice under paragraph (1) is served on a party to the proceedings more than 14 days before the date set for the commencement of the proceedings to which the application relates, that party may, within 14 days, make observations in writing in relation to the application to the clerk of petty sessions and shall serve a copy of such observations on every other party to the proceedings.
 
@@ -68,4 +68,4 @@ summary: ''
 
 [^f00193]: Footnote: New Rules 149AI-149AM inserted by [S.R. 2003 No. 477](https://www.legislation.gov.uk/nisr/2003/477) with effect from 1.12.03
 
-[^key-8f4c3a64b0d262cdb63b149111816d16]: Textual amendment: Words in [rule 149AI(3)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/149AI/3/b) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(33)](https://www.legislation.gov.uk/nisr/2016/304/article/3/33); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8f4c3a64b0d262cdb63b149111816d16]: Textual amendment: Words in [rule 149AI(3)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/149AI/3/b) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(33)](https://www.legislation.gov.uk/nisr/2016/304/article/3/33); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

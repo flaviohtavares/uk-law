@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61A. Charge for occupation of road.[^key-961f4e4a54b90cf52aa152d5ba2ad395][^key-32063001ee15fe5f7cfb5400eef718b0][^c1610751]
+## 61A. Charge for occupation of road.[^c-961f4e4a54b90cf52aa152d5ba2ad395][^c-32063001ee15fe5f7cfb5400eef718b0][^c1610751]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 - section 56 (works executed in or excavations under a public road);
 - section 58 (occupation of road for deposit of building materials and erection of scaffolding);
 - section 59 (placing or depositing anything in a road);
-- [^key-cc647a7781948e936768b8c909f7541c]...
+- [^c-cc647a7781948e936768b8c909f7541c]...
 - section 85 (depositing a builder’s skip).
 
 (3) For the purposes of paragraph (b) of subsection (1) above, in default of agreement, the roads authority’s view as to what is a reasonable period shall be acted upon pending the decision of the arbiter.
@@ -55,10 +55,10 @@ he may submit an estimate or revised estimate accordingly, and that if he does s
 
 ## Annotations
 
-[^key-961f4e4a54b90cf52aa152d5ba2ad395]: Modification: Ss. 56-61A excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(3)](https://www.legislation.gov.uk/asp/2011/2/section/20/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-961f4e4a54b90cf52aa152d5ba2ad395]: Modification: Ss. 56-61A excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(3)](https://www.legislation.gov.uk/asp/2011/2/section/20/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-32063001ee15fe5f7cfb5400eef718b0]: Modification: [Ss. 56-61A](https://www.legislation.gov.uk/ukpga/1984/54/section/56) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [9(a)](https://www.legislation.gov.uk/ssi/2017/100/article/9/a) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
+[^c-32063001ee15fe5f7cfb5400eef718b0]: Modification: [Ss. 56-61A](https://www.legislation.gov.uk/ukpga/1984/54/section/56) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [9(a)](https://www.legislation.gov.uk/ssi/2017/100/article/9/a) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
 
 [^c1610751]: Textual amendment: [S. 61A](https://www.legislation.gov.uk/ukpga/1984/54/section/61A) inserted (1.1.1993) by New Roads and Street Works Act (c. 22, SIF 59, 108), s. 168(1), Sch. 8 para. 88; [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)
 
-[^key-cc647a7781948e936768b8c909f7541c]: Textual amendment: Words in [s. 61A(2)](https://www.legislation.gov.uk/ukpga/1984/54/section/61A/2) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 5(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/5/4) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-cc647a7781948e936768b8c909f7541c]: Textual amendment: Words in [s. 61A(2)](https://www.legislation.gov.uk/ukpga/1984/54/section/61A/2) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 5(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/5/4) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

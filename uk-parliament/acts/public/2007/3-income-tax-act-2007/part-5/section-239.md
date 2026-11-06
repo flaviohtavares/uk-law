@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In its application to an assessment made by virtue of section 235 in the case of relief withdrawn or reduced by virtue of a provision listed in subsection (2)[^key-0a6b85ae906baa258feac24d2bfb3419], section 86 of TMA 1970 (interest on overdue income tax) has effect as if the relevant date were 31 January next following the tax year for which the assessment is made[^key-7dda7ba6e4042a3af3918e4fb5be7fb3].
+(1) In its application to an assessment made by virtue of section 235 in the case of relief withdrawn or reduced by virtue of a provision listed in subsection (2)[^c-0a6b85ae906baa258feac24d2bfb3419], section 86 of TMA 1970 (interest on overdue income tax) has effect as if the relevant date were 31 January next following the tax year for which the assessment is made[^c-7dda7ba6e4042a3af3918e4fb5be7fb3].
 
-[^key-9e1d0ec855f989c222f8b6f7cd7b61cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e1d0ec855f989c222f8b6f7cd7b61cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-6c6e0a9d2777fa77253bcfc948597812] The provisions are—
+(2)[^c-6c6e0a9d2777fa77253bcfc948597812] The provisions are—
 
 - section 163,
 - section 164,
 - section 173A,
-- any of sections 180A to 188[^key-c5fc0e074c976b7d4daa850ab304c10f],
+- any of sections 180A to 188[^c-c5fc0e074c976b7d4daa850ab304c10f],
 - section 209,
 - section 212(1),
 - section 213,
@@ -39,12 +39,12 @@ summary: ''
 
 ## Annotations
 
-[^key-0a6b85ae906baa258feac24d2bfb3419]: Textual amendment: Words in s. 239(1) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/2/a)
+[^c-0a6b85ae906baa258feac24d2bfb3419]: Textual amendment: Words in s. 239(1) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/2/a)
 
-[^key-7dda7ba6e4042a3af3918e4fb5be7fb3]: Textual amendment: Words in s. 239(1) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/2/b)
+[^c-7dda7ba6e4042a3af3918e4fb5be7fb3]: Textual amendment: Words in s. 239(1) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/2/b)
 
-[^key-9e1d0ec855f989c222f8b6f7cd7b61cd]: Textual amendment: S. 239(1) Table omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(2)(c)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/2/c)
+[^c-9e1d0ec855f989c222f8b6f7cd7b61cd]: Textual amendment: S. 239(1) Table omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(2)(c)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/2/c)
 
-[^key-6c6e0a9d2777fa77253bcfc948597812]: Textual amendment: S. 239(2) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/3)
+[^c-6c6e0a9d2777fa77253bcfc948597812]: Textual amendment: S. 239(2) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/3)
 
-[^key-c5fc0e074c976b7d4daa850ab304c10f]: Textual amendment: Words in s. 239(2) substituted (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/18), [25](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/25)
+[^c-c5fc0e074c976b7d4daa850ab304c10f]: Textual amendment: Words in s. 239(2) substituted (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/18), [25](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/25)

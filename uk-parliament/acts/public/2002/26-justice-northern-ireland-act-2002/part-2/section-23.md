@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Terms of appointment of Attorney General[^key-1be1815b1064cde6b2e67d660aeef5d1]
+## 23. Terms of appointment of Attorney General[^c-1be1815b1064cde6b2e67d660aeef5d1]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1be1815b1064cde6b2e67d660aeef5d1]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2002/26/section/23) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/3)
+[^c-1be1815b1064cde6b2e67d660aeef5d1]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2002/26/section/23) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/3)

@@ -27,9 +27,9 @@ summary: ''
 - [^c17268441]“Adoption Order” means the Adoption (Northern Ireland) Order 1987;
 - “appropriate children's home” has the meaning given in Article 27(10);[^c17268451]
 - “Article 8 order” has the meaning given in Article 8(2);
-- “authority”, where the reference is to a body, means, except in Article 165 , an HSC trust that is exercising social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991[^key-4392efcd2be209e125dd5927685b99e6] ;
+- “authority”, where the reference is to a body, means, except in Article 165 , an HSC trust that is exercising social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991[^c-4392efcd2be209e125dd5927685b99e6] ;
 - “authority foster parent” has the meaning given in Article 27(3) (accommodation and maintenance of children looked after by an authority);
-- [^key-cbb02b5aa98026fa8e5fa83db4f5a550]...
+- [^c-cbb02b5aa98026fa8e5fa83db4f5a550]...
 - “care order” has the meaning given in Article 49(1) and also includes any order which by or under any statutory provision has the effect of, or is deemed to be, a care order for the purposes of this Order;
 - “Care Tribunal” means the tribunal established by Article 44 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Irelamd) Order 2003;
 - “child”, except in Parts X, XI and XII (fostering, child minding and employment) and subject to paragraph 1(1) of Schedule 1, means a person under the age of 18;
@@ -67,7 +67,7 @@ summary: ''
 - [^c17268701]“homeless persons” shall be construed in accordance with Part II of the Housing (Northern Ireland) Order 1988;
 - [^c17268711]“hospital” has the meaning assigned to it by Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972;
 - “ill-treatment” includes sexual abuse and forms of ill-treatment which are not physical;
-- “[^key-4901a78768fb2181cb20d85d93a60537]**impairment of health or development**” includes, for example, impairment suffered as a result of—
+- “[^c-4901a78768fb2181cb20d85d93a60537]**impairment of health or development**” includes, for example, impairment suffered as a result of—
   - (a) the ill-treatment of another, or
   - (b) behaviour directed at another that falls within section 2 of the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (what amounts to abusive behaviour),
 
@@ -111,11 +111,11 @@ summary: ''
 - “voluntary home” has the meaning given in Article 74(1);
 - “voluntary organisation” has the meaning given in Article 74(1).
 
-(3)[^key-641c23412bc45d009ef099da68ec71af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-641c23412bc45d009ef099da68ec71af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c5dd19336029f2f9667d7a41fff91f54] References in this Order to the area of an authority are to the operational area of an HSC trust (as defined in Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972).
+(4)[^c-c5dd19336029f2f9667d7a41fff91f54] References in this Order to the area of an authority are to the operational area of an HSC trust (as defined in Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972).
 
-(5) References in this Order to a child whose father and mother were, or (as the case may be) were not, married to, or civil partners of,[^key-3897c3f7acc1fa392cbb519cd09ae09c] each other at the time of his birth shall be construed in accordance with Article 155.
+(5) References in this Order to a child whose father and mother were, or (as the case may be) were not, married to, or civil partners of,[^c-3897c3f7acc1fa392cbb519cd09ae09c] each other at the time of his birth shall be construed in accordance with Article 155.
 
 (6) References in this Order—
 
@@ -147,9 +147,9 @@ shall be construed as references to the person named in the order as the person 
 
 [^c17268451]: Textual amendment: [2003 NI 9](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-4392efcd2be209e125dd5927685b99e6]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/755/article/2/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4392efcd2be209e125dd5927685b99e6]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/755/article/2/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-cbb02b5aa98026fa8e5fa83db4f5a550]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/755/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cbb02b5aa98026fa8e5fa83db4f5a550]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/755/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c17268491]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
@@ -173,7 +173,7 @@ shall be construed as references to the person named in the order as the person 
 
 [^c17268711]: Textual amendment: [1972 NI 14](https://www.legislation.gov.uk/nisi/1972)
 
-[^key-4901a78768fb2181cb20d85d93a60537]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/755/article/2/2) inserted (1.11.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 133(1)](https://www.legislation.gov.uk/nia/2022/18/section/133/1), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/186/article/2/a)
+[^c-4901a78768fb2181cb20d85d93a60537]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/755/article/2/2) inserted (1.11.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 133(1)](https://www.legislation.gov.uk/nia/2022/18/section/133/1), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/186/article/2/a)
 
 [^c17268721]: Textual amendment: [1995 NI 15](https://www.legislation.gov.uk/nisi/1995)
 
@@ -203,11 +203,11 @@ shall be construed as references to the person named in the order as the person 
 
 [^c21423981]: Textual amendment: Words in art. 2(2) substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-641c23412bc45d009ef099da68ec71af]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/nisi/1995/755/article/2/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-641c23412bc45d009ef099da68ec71af]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/nisi/1995/755/article/2/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c5dd19336029f2f9667d7a41fff91f54]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/nisi/1995/755/article/2/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c5dd19336029f2f9667d7a41fff91f54]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/nisi/1995/755/article/2/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 156(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3897c3f7acc1fa392cbb519cd09ae09c]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/nisi/1995/755/article/2/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-3897c3f7acc1fa392cbb519cd09ae09c]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/nisi/1995/755/article/2/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17268951]: Textual amendment: [2002 c. 11 (NI)](https://www.legislation.gov.uk/nia/2002/11)
 

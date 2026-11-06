@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Students becoming eligible during the course of an academic year[^key-11ec333cbb396e442fe6e7e207df1a18]
+## 86. Students becoming eligible during the course of an academic year[^c-11ec333cbb396e442fe6e7e207df1a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11ec333cbb396e442fe6e7e207df1a18]: Commencement: Reg. 86 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-11ec333cbb396e442fe6e7e207df1a18]: Commencement: Reg. 86 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

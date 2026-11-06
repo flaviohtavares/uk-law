@@ -42,9 +42,9 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 53(3)(c) of the Education (Scotland) Act 1980[^f00001], and all other powers enabling them to do so.
 
-In accordance with section 133(2YA) of that Act[^f00002], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.[^key-1455b779404c25bd643705f440401315]
+In accordance with section 133(2YA) of that Act[^f00002], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.[^c-1455b779404c25bd643705f440401315]
 
-## 1. Citation, commencement and interpretation[^key-e33dbd19564b818a80c52cd956546a15]
+## 1. Citation, commencement and interpretation[^c-e33dbd19564b818a80c52cd956546a15]
 
 (1) These Regulations may be cited as the Education (School Lunches) (Scotland) Regulations 2015 and shall come into force on 1st August 2015.
 
@@ -53,7 +53,7 @@ In accordance with section 133(2YA) of that Act[^f00002], a draft of this instru
 - “the 2014 Act” means the Children and Young People (Scotland) Act 2014[^f00003]; and
 - “eligible pre-school child” has the meaning given in section 47(2) of the 2014 Act.
 
-## 2. Description of pupil entitled to be provided with a school lunch free of charge[^key-1c01c478988425245a5f545ab2d7f7ab]
+## 2. Description of pupil entitled to be provided with a school lunch free of charge[^c-1c01c478988425245a5f545ab2d7f7ab]
 
 (1) A pupil is of a prescribed description for the purposes of section 53(3)(c) (provision of school meals) of the Education (Scotland) Act 1980, where the pupil is an eligible pre-school child and falls within the circumstances set out in paragraph (2).
 
@@ -88,12 +88,12 @@ The effect of regulation 2 is that pupils who fall within the prescribed descrip
 
 [^f00002]: Footnote: Section 133 was relevantly amended by the Teaching and Higher Education Act [1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 3, paragraph 4(a) and (b); the School Education (Ministerial Powers and Independent Schools) (Scotland) Act [2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), Schedule 1, paragraph 1(7)(a); the Schools (Health Promotion and Nutrition) (Scotland) Act [2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), section 4(a) and (b); and the 2014 Act, schedule 5, paragraph 2(5). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-1455b779404c25bd643705f440401315]: Modification: Regulations continued (1.4.2018) by [The Education (Scotland) Act 2016 (Commencement No. 5 and Savings Provision) Regulations 2018 (S.S.I. 2018/36)](https://www.legislation.gov.uk/ssi/2018/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/36/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2018/36/regulation/3)
+[^c-1455b779404c25bd643705f440401315]: Modification: Regulations continued (1.4.2018) by [The Education (Scotland) Act 2016 (Commencement No. 5 and Savings Provision) Regulations 2018 (S.S.I. 2018/36)](https://www.legislation.gov.uk/ssi/2018/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/36/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2018/36/regulation/3)
 
-[^key-e33dbd19564b818a80c52cd956546a15]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/269/regulation/1) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/269/regulation/1/1)
+[^c-e33dbd19564b818a80c52cd956546a15]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/269/regulation/1) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/269/regulation/1/1)
 
 [^f00003]: Footnote: [2014 asp 8](https://www.legislation.gov.uk/asp/2014/8).
 
-[^key-1c01c478988425245a5f545ab2d7f7ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/269/regulation/2) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/269/regulation/1/1)
+[^c-1c01c478988425245a5f545ab2d7f7ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/269/regulation/2) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/269/regulation/1/1)
 
 [^f00004]: Footnote: [S.S.I. 2014/196](https://www.legislation.gov.uk/ssi/2014/196); amended by the Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 ([S.S.I. 2015/268](https://www.legislation.gov.uk/ssi/2015/268)).

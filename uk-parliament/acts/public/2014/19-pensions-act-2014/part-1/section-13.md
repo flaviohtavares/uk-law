@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Shared state pension on divorce etc[^key-7acc46a358b01884c0add487360a371c]
+## 13. Shared state pension on divorce etc[^c-7acc46a358b01884c0add487360a371c]
 
 *Extent: E+W+S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the person has reached pensionable age, and
 - (b) the person is entitled to a state scheme pension credit.
 
-(2)[^key-37d3f173dcc17d01c86463aa7ec1c0ea] A state pension under this section is payable at the appropriate weekly rate set out in Schedule 8.
+(2)[^c-37d3f173dcc17d01c86463aa7ec1c0ea] A state pension under this section is payable at the appropriate weekly rate set out in Schedule 8.
 
 (3) The rate of the state pension for a person under this section is to be increased from time to time in accordance with the applicable paragraph of Schedule 9.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7acc46a358b01884c0add487360a371c]: Commencement: S. 13 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-7acc46a358b01884c0add487360a371c]: Commencement: S. 13 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
 
-[^key-37d3f173dcc17d01c86463aa7ec1c0ea]: Commencement: S. 13(2) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(i)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/i)
+[^c-37d3f173dcc17d01c86463aa7ec1c0ea]: Commencement: S. 13(2) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(i)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/i)

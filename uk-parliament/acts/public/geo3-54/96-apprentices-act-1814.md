@@ -31,28 +31,28 @@ Apprentices Act 1814 (repealed)
 
 1814 c.96
 
-[^key-39663a8e8023ec61de156a966298af43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39663a8e8023ec61de156a966298af43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[18th July 1814\]
 
 **No longer in force.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-39663a8e8023ec61de156a966298af43][^key-39663a8e8023ec61de156a966298af43]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-39663a8e8023ec61de156a966298af43][^c-39663a8e8023ec61de156a966298af43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Other part of the Act respecting apprentices repealed.[^key-39663a8e8023ec61de156a966298af43][^key-39663a8e8023ec61de156a966298af43]
+## 2. Other part of the Act respecting apprentices repealed.[^c-39663a8e8023ec61de156a966298af43][^c-39663a8e8023ec61de156a966298af43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Justices may determine complaints as heretofore.[^key-39663a8e8023ec61de156a966298af43][^key-39663a8e8023ec61de156a966298af43]
+## 3. Justices may determine complaints as heretofore.[^c-39663a8e8023ec61de156a966298af43][^c-39663a8e8023ec61de156a966298af43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Customs of London, &c. in respect to apprentices not to be affected.[^key-39663a8e8023ec61de156a966298af43][^key-39663a8e8023ec61de156a966298af43]
+## 4. Customs of London, &c. in respect to apprentices not to be affected.[^c-39663a8e8023ec61de156a966298af43][^c-39663a8e8023ec61de156a966298af43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39663a8e8023ec61de156a966298af43]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-39663a8e8023ec61de156a966298af43]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The competent authority[^key-622489ea74c09521acbb20808ee105c7] shall make available on the internet up-to-date lists of border control posts on its territory, providing the following information for each border control post:
+1. The competent authority[^c-622489ea74c09521acbb20808ee105c7] shall make available on the internet up-to-date lists of border control posts on its territory, providing the following information for each border control post:
 
 - (a) its contact details;
 - (b) its opening hours;
 - (c) its exact location and whether it is a port, airport, rail or road entry point; and
 - (d) the categories of animals and goods referred to in Article 47(1) which are included in the scope of its designation.
 
-2.[^key-9636248de01f3e823071c4dc25c0c886] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-9636248de01f3e823071c4dc25c0c886] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-622489ea74c09521acbb20808ee105c7]: Textual amendment: Words in [Art. 60(1)](https://www.legislation.gov.uk/eur/2017/625/article/60/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(13)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/13/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-622489ea74c09521acbb20808ee105c7]: Textual amendment: Words in [Art. 60(1)](https://www.legislation.gov.uk/eur/2017/625/article/60/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(13)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/13/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-9636248de01f3e823071c4dc25c0c886]: Textual amendment: [Art. 60(2)](https://www.legislation.gov.uk/eur/2017/625/article/60/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(13)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/13/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-9636248de01f3e823071c4dc25c0c886]: Textual amendment: [Art. 60(2)](https://www.legislation.gov.uk/eur/2017/625/article/60/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(13)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/13/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

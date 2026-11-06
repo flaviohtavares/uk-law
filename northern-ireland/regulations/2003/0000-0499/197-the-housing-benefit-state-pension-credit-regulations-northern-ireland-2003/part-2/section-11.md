@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Amendment of regulation 63[^key-33a616f5b5a7de23aec0d5ef3355cd68]
+## 11. Amendment of regulation 63[^c-33a616f5b5a7de23aec0d5ef3355cd68]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ In regulation 63 (non-dependant deductions) –
 
 ## Annotations
 
-[^key-33a616f5b5a7de23aec0d5ef3355cd68]: Commencement: Reg. 11 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-33a616f5b5a7de23aec0d5ef3355cd68]: Commencement: Reg. 11 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00077]: Footnote: The amounts in sub-paragraph (b) were substituted by Article 19(4) of [S.R. 2002 No. 99](https://www.legislation.gov.uk/nisr/2002/99)
 

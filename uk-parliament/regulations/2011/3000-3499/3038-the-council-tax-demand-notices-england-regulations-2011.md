@@ -44,11 +44,11 @@ Coming into force
 
 31st January 2012
 
-The Secretary of State, in exercise of the powers conferred by sections 113(1) and (2) and 116(1) of, and paragraphs 1, 2(4)(e), (g), (i) and (j), 4(4) and (5), and 14(1) and (2) of Schedule 2 and paragraph 6(1) and (2) of Schedule 3 to, the Local Government Finance Act 1992[^f00001], and being of the opinion that the information which is required to be supplied under regulations 8 and 9 is necessary in order that billing authorities are able to meet their obligations under these Regulations, makes the following Regulations:[^key-cb5d71b801bf97a768e9f3b297f1ef30][^key-2f11aca8cdcd63a078a6b14bad5f184a]
+The Secretary of State, in exercise of the powers conferred by sections 113(1) and (2) and 116(1) of, and paragraphs 1, 2(4)(e), (g), (i) and (j), 4(4) and (5), and 14(1) and (2) of Schedule 2 and paragraph 6(1) and (2) of Schedule 3 to, the Local Government Finance Act 1992[^f00001], and being of the opinion that the information which is required to be supplied under regulations 8 and 9 is necessary in order that billing authorities are able to meet their obligations under these Regulations, makes the following Regulations:[^c-cb5d71b801bf97a768e9f3b297f1ef30][^c-2f11aca8cdcd63a078a6b14bad5f184a]
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application[^key-a3ec74e1f93d733f19f19747bd13c29b]
+### 1. Citation, commencement and application[^c-a3ec74e1f93d733f19f19747bd13c29b]
 
 (1) These Regulations may be cited as the Council Tax (Demand Notices) (England) Regulations 2011 and come into force on 31st January 2012.
 
@@ -59,14 +59,14 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1) a
 
 (3) The Council Tax (Demand Notices) (England) Regulations 2010[^f00002] have no effect in relation to a notice mentioned in paragraph (2).
 
-### 2. Interpretation[^key-84c9eed61df586523eab79ea2291e14f]
+### 2. Interpretation[^c-84c9eed61df586523eab79ea2291e14f]
 
 (1) In these Regulations—
 
 - “the Act” means the Local Government Finance Act 1992;
 - “the 1999 Act” means the Greater London Authority Act 1999[^f00003];
 - “the Administration Regulations” means the Council Tax (Administration and Enforcement) Regulations 1992[^f00004];
-- “adult social care authority” means—[^key-a39b0255a0229a14234e3043ac902ac7]
+- “adult social care authority” means—[^c-a39b0255a0229a14234e3043ac902ac7]
   - (a) a local authority within the meaning of section 1(4) of the Care Act 2014; and
   - (b) the Council of the Isles of Scilly;
 - “adult social care functions” means the functions of an adult social care authority under Part 1 of the Care Act 2014 (care and support);
@@ -82,16 +82,16 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1) a
   - (c) the Environment Agency;
 - “notice” means a council tax demand notice within the meaning of Part 5 of the Administration Regulations (billing);
 - “preceding year”, in relation to a notice, means the year before the relevant year;
-- “prior year”, in relation to a notice, means any year before the relevant year;[^key-cb0a58c5a3f6804441d45c13a4f44661]
+- “prior year”, in relation to a notice, means any year before the relevant year;[^c-cb0a58c5a3f6804441d45c13a4f44661]
 - “relevant local precepting authority” means a relevant precepting authority which is a local precepting authority;
-- “[^key-995c22c5f4f3988da057db7bd15dc476]**relevant period**” means the period beginning with 1st April 2016 and ending with 31st March 2025;
+- “[^c-995c22c5f4f3988da057db7bd15dc476]**relevant period**” means the period beginning with 1st April 2016 and ending with 31st March 2025;
 - “relevant precepting authority”, in relation to a billing authority and a year, means a precepting authority which issues a precept to the billing authority for the year, but does not include—
   - (a) the chairman of a parish meeting,
   - (b) charter trustees,
   - (c) the sub-treasurer of the Inner Temple or the under-treasurer of the Middle Temple unless the amount of the precept is more than £100,000,
-  - (d) a parish council unless the amount of the precept is equal to or more than £140,000; [^key-941b62733b0fdcce69f135c759df8591]...
-- “relevant year”, in relation to a notice, means the year to which the demand for payment made by the notice relates; and[^key-8a0f1460faa1f13f20cf5f132699c18e]
-- [^key-f4821f9721119d2a6f331272aa487a49]...
+  - (d) a parish council unless the amount of the precept is equal to or more than £140,000; [^c-941b62733b0fdcce69f135c759df8591]...
+- “relevant year”, in relation to a notice, means the year to which the demand for payment made by the notice relates; and[^c-8a0f1460faa1f13f20cf5f132699c18e]
+- [^c-f4821f9721119d2a6f331272aa487a49]...
 
 (2) In these Regulations—
 
@@ -99,16 +99,16 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1) a
 - (b) any reference to a levy includes a reference to a substitute levy, and
 - (c) any reference to a year is a reference to a financial year.
 
-(3)[^key-ad17d01226d4489bba9cad09969da833] Where, in relation to a year beginning in the relevant period[^key-a1e56267b7b794c0414e9532e69e9a64]—
+(3)[^c-ad17d01226d4489bba9cad09969da833] Where, in relation to a year beginning in the relevant period[^c-a1e56267b7b794c0414e9532e69e9a64]—
 
-- (a) the basic amount of council tax calculated by an adult social care authority under section 31B or 42B of the Act (as the case may be) is higher than its basic amount of council tax (as so calculated) in relation to the preceding year[^key-1c7008ca5ca84e43d518e15687991e62]; and
-- (b) the authority intends to use , or has in any prior year used,[^key-9e2cd22a7bb9c0f7d610ba25c7d70da9] the additional council tax, or any part of the additional council tax, for the purpose in paragraph (4),
+- (a) the basic amount of council tax calculated by an adult social care authority under section 31B or 42B of the Act (as the case may be) is higher than its basic amount of council tax (as so calculated) in relation to the preceding year[^c-1c7008ca5ca84e43d518e15687991e62]; and
+- (b) the authority intends to use , or has in any prior year used,[^c-9e2cd22a7bb9c0f7d610ba25c7d70da9] the additional council tax, or any part of the additional council tax, for the purpose in paragraph (4),
 
 a reference in these Regulations to “the adult social care precept” means, in relation to a category of dwellings in the authority’s area, the amount of the additional council tax for that category of dwelling which is attributable to the purpose in paragraph (4).
 
-(4) The purpose referred to in paragraph (3) is the purpose of funding adult social care functions exercised in a year beginning in the relevant period[^key-8d78e2d36d3d0df5d2d9009931f3f3e2].
+(4) The purpose referred to in paragraph (3) is the purpose of funding adult social care functions exercised in a year beginning in the relevant period[^c-8d78e2d36d3d0df5d2d9009931f3f3e2].
 
-### 3. Definition of “council tax requirement”[^key-af2b6899795bcb82c6acf9ac6e1e524e]
+### 3. Definition of “council tax requirement”[^c-af2b6899795bcb82c6acf9ac6e1e524e]
 
 (1) In relation to the year beginning on 1st April 2011, the council tax requirement of a billing authority or a major precepting authority other than the GLA is the amount calculated by applying the formula—
 
@@ -145,7 +145,7 @@ where—
 - (c) in relation to the GLA, the amount calculated for the year under section 85(8) of the 1999 Act (calculation of component and consolidated council tax requirements)[^f00011]; and
 - (d) in relation to a local precepting authority, the amount calculated under section 49A(4) of the Act (calculation of council tax requirement by authorities in England)[^f00012].
 
-### 4. Definition of “gross expenditure”[^key-cdc6465d37a719074a82b5d9fb6ad358]
+### 4. Definition of “gross expenditure”[^c-cdc6465d37a719074a82b5d9fb6ad358]
 
 (1) Subject to paragraph (3), the gross expenditure of an authority for a year is the aggregate of the items which are—
 
@@ -169,7 +169,7 @@ where—
 
 ## PART 2 — Content of demand notices and the supply of information
 
-### 5. Content of demand notices[^key-a1483b1b4efffdea7c25e8a555fbcdf7]
+### 5. Content of demand notices[^c-a1483b1b4efffdea7c25e8a555fbcdf7]
 
 (1) A notice must contain the matters specified in Part 2 of Schedule 1.
 
@@ -180,13 +180,13 @@ where—
 
 is not required to contain the matters specified in paragraph 27 of Schedule 1.
 
-### 6. Information supplied with demand notices[^key-6bd0fe965d2ceb9011895f8938bf4bfc]
+### 6. Information supplied with demand notices[^c-6bd0fe965d2ceb9011895f8938bf4bfc]
 
 (1) When a billing authority serves a notice on a person it must supply that person with the information specified in Part 2 of Schedule 2.
 
 (2) Paragraph (1) does not apply when a notice is served after the end of the relevant year.
 
-### 7. Invalid notices[^key-8d86863eec51ca55dcf2698cac6d786a]
+### 7. Invalid notices[^c-8d86863eec51ca55dcf2698cac6d786a]
 
 (1) If—
 
@@ -197,7 +197,7 @@ the requirement to pay that amount is valid.
 
 (2) Where paragraph (1)(a) applies, as soon as practicable after the mistake is discovered the billing authority must serve a statement of the relevant matter on the person on whom the notice was served.
 
-### 8. Supply of information by precepting authorities[^key-09261f532c5787a13fa80ab01f1efb84]
+### 8. Supply of information by precepting authorities[^c-09261f532c5787a13fa80ab01f1efb84]
 
 (1) When a relevant precepting authority issues a precept to a billing authority for a year—
 
@@ -222,14 +222,14 @@ the requirement to pay that amount is valid.
 - (a) the amount (if any) taken into account under section 42A(6)(b) (calculation of council tax requirement by authorities in England) of the Act for any levy, and
 - (b) the name of each levying body which has issued a levy to the authority for the year.
 
-(3A)[^key-fb4e551f8974f8326d3902559c6fca09] When a relevant precepting authority which is an adult social care authority issues a precept to a billing authority for a year beginning in the relevant period[^key-6f721d5195d3793edf9210b2c1e27349]—
+(3A)[^c-fb4e551f8974f8326d3902559c6fca09] When a relevant precepting authority which is an adult social care authority issues a precept to a billing authority for a year beginning in the relevant period[^c-6f721d5195d3793edf9210b2c1e27349]—
 
 - (a) it must supply the information specified in paragraph (3B) to the billing authority; and
-- (b) if an amount stated under section 40(2)(a) of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year[^key-aa129b4147be5225fccff0642143dffe], it must also supply the information specified in paragraph (3C).
+- (b) if an amount stated under section 40(2)(a) of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year[^c-aa129b4147be5225fccff0642143dffe], it must also supply the information specified in paragraph (3C).
 
 (3B) The information mentioned in paragraph (3A)(a) is a statement as to whether or not an amount stated under section 40(2)(a) of the Act includes an amount for the adult social care precept.
 
-(3C)[^key-8e1b326fd2176c7ebb03552cb0cbd607] The information mentioned in paragraph (3A)(b) is, in relation to each category of dwellings in the billing authority’s area—
+(3C)[^c-8e1b326fd2176c7ebb03552cb0cbd607] The information mentioned in paragraph (3A)(b) is, in relation to each category of dwellings in the billing authority’s area—
 
 - (a) the amount of the precept issued under section 40 of the Act which is attributable to the adult social care precept in the relevant year and in any prior year;
 - (b) the amount referred to in sub-paragraph (a) less any amount attributable to the adult social care precept in any prior year;
@@ -252,7 +252,7 @@ the requirement to pay that amount is valid.
 
 the authority is not required to supply to the billing authority any information which it has already supplied to that authority.
 
-### 9. Supply of information by levying bodies[^key-655aa434c2f5da86596b8ccab912074d]
+### 9. Supply of information by levying bodies[^c-655aa434c2f5da86596b8ccab912074d]
 
 (1) When a levying body issues a levy for a year it must supply the information in paragraph (2) to each relevant billing authority.
 
@@ -291,7 +291,7 @@ Regulation 5(1)
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-521caab9a06debf0bfadc5af1e3e2074]
+#### 1. Interpretation[^c-521caab9a06debf0bfadc5af1e3e2074]
 
 In this Schedule—
 
@@ -315,64 +315,64 @@ In this Schedule—
 
 ### PART 2 — Matters to be contained in demand notices
 
-#### 2. General matters[^key-9a1a2082e982509cb854163f6b84c929]
+#### 2. General matters[^c-9a1a2082e982509cb854163f6b84c929]
 
 The name (if any) of the person to whom the notice is issued.
 
-**3.**[^key-7e8614a0b7ef4c3e66858efde55d8c59] The date the notice is issued.
+**3.**[^c-7e8614a0b7ef4c3e66858efde55d8c59] The date the notice is issued.
 
-**4.**[^key-9d52d9c2a3e646d745f25d4f5e4c5cc5] The period to which the notice relates.
+**4.**[^c-9d52d9c2a3e646d745f25d4f5e4c5cc5] The period to which the notice relates.
 
-**5.**[^key-c7578a259724cd4e61575ebd3f4028d7] The address of the dwelling.
+**5.**[^c-c7578a259724cd4e61575ebd3f4028d7] The address of the dwelling.
 
-**6.**[^key-ede94b61458e8d88be3f026c3e097575] The applicable band.
+**6.**[^c-ede94b61458e8d88be3f026c3e097575] The applicable band.
 
-#### 7. Amount of council tax[^key-2666c0209b0794a6d124a4def4ee8dfd]
+#### 7. Amount of council tax[^c-2666c0209b0794a6d124a4def4ee8dfd]
 
-Subject to paragraph 7A,[^key-cabed3a0e14d117a9500ea2be30cc92b] the amount set by the billing authority under section 30 of the Act (amounts for different categories of dwellings)[^f00016].
+Subject to paragraph 7A,[^c-cabed3a0e14d117a9500ea2be30cc92b] the amount set by the billing authority under section 30 of the Act (amounts for different categories of dwellings)[^f00016].
 
-**7A.**[^key-88e451b58889bd1b3d4c5c1a893bd805] (1) This paragraph applies instead of paragraph 7—
+**7A.**[^c-88e451b58889bd1b3d4c5c1a893bd805] (1) This paragraph applies instead of paragraph 7—
 
-- (a) in relation to a year beginning in the relevant period[^key-56e50327adecc56b2bb39caa56a986f3];
+- (a) in relation to a year beginning in the relevant period[^c-56e50327adecc56b2bb39caa56a986f3];
 - (b) where the billing authority is an adult social care authority; and
-- (c) where the amount set by the authority under section 30 of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year[^key-07c6d165ec32872f8d2e1d69e7ce6554].
+- (c) where the amount set by the authority under section 30 of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year[^c-07c6d165ec32872f8d2e1d69e7ce6554].
 
-(2)[^key-521834535dbd5812d5c968c1e9827b90] The notice must contain the matters specified in sub-paragraphs (3) and (4).
+(2)[^c-521834535dbd5812d5c968c1e9827b90] The notice must contain the matters specified in sub-paragraphs (3) and (4).
 
-(3) The amount set by the authority under section 30 of the Act less any[^key-ee36c375a873332c684ada1690fcf7ba] amount which is attributable to the adult social care precept in the relevant year and in any prior year[^key-0151c86c0739174889c40b2c97fb2321].
+(3) The amount set by the authority under section 30 of the Act less any[^c-ee36c375a873332c684ada1690fcf7ba] amount which is attributable to the adult social care precept in the relevant year and in any prior year[^c-0151c86c0739174889c40b2c97fb2321].
 
 (4) The amount attributable to the adult social care precept.
 
-(5)[^key-38b0f5de670adad7022429068da7b1ec] The amount referred to in sub-paragraph (4) must represent the aggregate of—
+(5)[^c-38b0f5de670adad7022429068da7b1ec] The amount referred to in sub-paragraph (4) must represent the aggregate of—
 
 - (a) the amount attributable to the adult social care precept in the relevant year; and
 - (b) the amount attributable to the adult social care precept in any prior year.
 
-**8.**[^key-ff18f174ae4a47078fb7eae07ebcfd20] Subject to paragraph 8A,[^key-0a8d5d258795a32eefbaaead6b54c20f] any precept issued to the billing authority by a major precepting authority under section 40(2)(a) of the Act (issue of precepts by major precepting authorities)[^f00017].
+**8.**[^c-ff18f174ae4a47078fb7eae07ebcfd20] Subject to paragraph 8A,[^c-0a8d5d258795a32eefbaaead6b54c20f] any precept issued to the billing authority by a major precepting authority under section 40(2)(a) of the Act (issue of precepts by major precepting authorities)[^f00017].
 
-**8A.**[^key-26f2863306bf0bed874e31d65b24d5b4] (1) This paragraph applies instead of paragraph 8—
+**8A.**[^c-26f2863306bf0bed874e31d65b24d5b4] (1) This paragraph applies instead of paragraph 8—
 
-- (a) in relation to a year beginning in the relevant period[^key-69e7882e5d81a0bf88a15a07e81eb229];
+- (a) in relation to a year beginning in the relevant period[^c-69e7882e5d81a0bf88a15a07e81eb229];
 - (b) where a major precepting authority which is an adult social care authority issues a precept to the billing authority under section 40 of the Act; and
-- (c) where an amount stated by the major precepting authority under section 40(2)(a) of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year[^key-d9cc81fa0a4d437ca964c256d98cb575].
+- (c) where an amount stated by the major precepting authority under section 40(2)(a) of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year[^c-d9cc81fa0a4d437ca964c256d98cb575].
 
-(2)[^key-fdade0b6464c2df8938cde4b5ebd472a] The notice must contain the matters specified in sub-paragraphs (3) and (4).
+(2)[^c-fdade0b6464c2df8938cde4b5ebd472a] The notice must contain the matters specified in sub-paragraphs (3) and (4).
 
-(3) The amount of the precept issued by the major precepting authority under section 40(2)(a) of the Act less any amount which is[^key-c01031e76498adf344d4877ff3dec043] attributable to the adult social care precept in the relevant year and in any prior year[^key-67c2404d8a9c12d68be486d4827a9001].
+(3) The amount of the precept issued by the major precepting authority under section 40(2)(a) of the Act less any amount which is[^c-c01031e76498adf344d4877ff3dec043] attributable to the adult social care precept in the relevant year and in any prior year[^c-67c2404d8a9c12d68be486d4827a9001].
 
 (4) The amount attributable to the adult social care precept.
 
-(5)[^key-eabc37af7388c1b7bc0a876742394272] The amount referred to in sub-paragraph (4) must represent the aggregate of—
+(5)[^c-eabc37af7388c1b7bc0a876742394272] The amount referred to in sub-paragraph (4) must represent the aggregate of—
 
 - (a) the amount attributable to the adult social care precept in the relevant year; and
 - (b) the amount attributable to the adult social care precept in any prior year.
 
-**9.**[^key-05620b72530cc0d83d60f8cfbdd9b097] The amount calculated by the billing authority under section 36 of the Act (calculation of tax for different valuation bands)[^f00018] if section 31A of the Act (calculation of council tax requirement by authorities in England)[^f00019] did not require or permit the authority to take into account the amount of any precepts—
+**9.**[^c-05620b72530cc0d83d60f8cfbdd9b097] The amount calculated by the billing authority under section 36 of the Act (calculation of tax for different valuation bands)[^f00018] if section 31A of the Act (calculation of council tax requirement by authorities in England)[^f00019] did not require or permit the authority to take into account the amount of any precepts—
 
 - (a) issued to it by local precepting authorities under section 41 of the Act (issue of precepts by local precepting authorities)[^f00020], or
 - (b) anticipated by it in pursuance of regulations under that section.
 
-**10.**[^key-774f79f727af6330fc66a0f5fa1420c5] Where paragraph 11 applies, the following matters—
+**10.**[^c-774f79f727af6330fc66a0f5fa1420c5] Where paragraph 11 applies, the following matters—
 
 - (a) the name of the local precepting authority; and
 - (b) such amount of—
@@ -381,12 +381,12 @@ Subject to paragraph 7A,[^key-cabed3a0e14d117a9500ea2be30cc92b] the amount set b
 
   mentioned in paragraph 11 as is payable in respect of a dwelling in the applicable band and in the category of dwellings which includes the dwelling.
 
-**11.**[^key-0fec714e30bf29c3ecca1165adafa87b] This paragraph applies where—
+**11.**[^c-0fec714e30bf29c3ecca1165adafa87b] This paragraph applies where—
 
 - (a) a local precepting authority has issued a precept to the billing authority under section 41 of the Act, or
 - (b) the billing authority anticipates such a precept in pursuance of regulations under that section.
 
-#### 12. Excessive amounts of council tax[^key-e08061abdb34e5d48eaecaf634acbb0e]
+#### 12. Excessive amounts of council tax[^c-e08061abdb34e5d48eaecaf634acbb0e]
 
 If an authority’s relevant basic amount of council tax is excessive[^f00021], a footnote to the precept or amount mentioned in (as the case may be) paragraph 8, 9 or 10(b) stating—
 
@@ -394,9 +394,9 @@ If an authority’s relevant basic amount of council tax is excessive[^f00021], 
 - (b) that a referendum must be held in accordance with the Act, and
 - (c) that information regarding the referendum will be provided in due course.
 
-#### 12A. Adult social care funding[^key-808e6fa39136fcc282f10c6c47f9ae66]
+#### 12A. Adult social care funding[^c-808e6fa39136fcc282f10c6c47f9ae66]
 
-(1) This paragraph applies in relation to a year beginning in the relevant period[^key-4a59a95809a363f47351eca3859c0406].
+(1) This paragraph applies in relation to a year beginning in the relevant period[^c-4a59a95809a363f47351eca3859c0406].
 
 (2) In a case to which paragraph 7A applies the following statement, with the inclusion, where indicated, of the name of the billing authority serving the notice—
 
@@ -406,13 +406,13 @@ If an authority’s relevant basic amount of council tax is excessive[^f00021], 
 
 - “The council tax attributable to \[name of major precepting authority\] includes a precept to fund adult social care.
 
-#### 13. Comparisons with the preceding year[^key-49c4de69b9392372db4ec75bf6a0370b]
+#### 13. Comparisons with the preceding year[^c-49c4de69b9392372db4ec75bf6a0370b]
 
-Subject to paragraphs 14, 17A and 17B[^key-0c47bf6816a79f16926650aa5c375079], the percentage change in each of the relevant amounts from the preceding year to the relevant year expressed to one decimal place.
+Subject to paragraphs 14, 17A and 17B[^c-0c47bf6816a79f16926650aa5c375079], the percentage change in each of the relevant amounts from the preceding year to the relevant year expressed to one decimal place.
 
-**14.**[^key-c1387bfc9b9c6943a9de969d6022c405] Paragraph 15 applies instead of paragraph 13 where the authority exercising a relevant function as at 1st April in the relevant year is different from the authority that exercised that function as at 1st April in the preceding year.
+**14.**[^c-c1387bfc9b9c6943a9de969d6022c405] Paragraph 15 applies instead of paragraph 13 where the authority exercising a relevant function as at 1st April in the relevant year is different from the authority that exercised that function as at 1st April in the preceding year.
 
-**15.**[^key-d3f22a0873ec9055da428b6dbdd2540c] Where this paragraph applies, the matters are—
+**15.**[^c-d3f22a0873ec9055da428b6dbdd2540c] Where this paragraph applies, the matters are—
 
 - (a) an explanation of why a different authority is exercising the function as at 1st April in the relevant year;
 - (b) the relevant amounts which were included in notices issued (whether by the billing authority or another billing authority) for—
@@ -424,25 +424,25 @@ Subject to paragraphs 14, 17A and 17B[^key-0c47bf6816a79f16926650aa5c375079], th
 
   expressed to one decimal place.
 
-**16.**[^key-6e0aedb69abbcc7f42b2eaae62676549] The matters in paragraph 15(a) and (b) may be included in the notice as a footnote to the matter in paragraph 15(c).
+**16.**[^c-6e0aedb69abbcc7f42b2eaae62676549] The matters in paragraph 15(a) and (b) may be included in the notice as a footnote to the matter in paragraph 15(c).
 
-**17.**[^key-66460fdb5c33e3f81ce6b3fcd815874c] Where the relevant valuation band which applied to the dwelling for the preceding year is different from the applicable band, paragraphs 13 and 15(b) and (c) apply as if the applicable band applied for that year.
+**17.**[^c-66460fdb5c33e3f81ce6b3fcd815874c] Where the relevant valuation band which applied to the dwelling for the preceding year is different from the applicable band, paragraphs 13 and 15(b) and (c) apply as if the applicable band applied for that year.
 
-**17A.**[^key-edb587d87e0a012c60c85ea7ac8b22d3] (1) This paragraph applies instead of paragraph 13—
+**17A.**[^c-edb587d87e0a012c60c85ea7ac8b22d3] (1) This paragraph applies instead of paragraph 13—
 
-- (a) in relation to a year beginning in the relevant period[^key-b92bb5330b569164be45df36f9b97544];
+- (a) in relation to a year beginning in the relevant period[^c-b92bb5330b569164be45df36f9b97544];
 - (b) where the billing authority is an adult social care authority; and
 - (c) to the extent that paragraph 13 applies to the amount in paragraph 7.
 
 (2) Where the notice specifies an amount under paragraph 7A(3), the percentage change between—
 
-- (a) the amount set by the authority under section 30 of the Act for the preceding year[^key-edf56ccc4aae2713cb190db03fdd41af], and
-- (b) the amount set by the authority under section 30 of the Act for the relevant year[^key-5e58c41d29cd5f7539cf3bc34cd24c2f] less the amount attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year[^key-e6a17cd7099b6252c64a6dffe06e1126],
-- (c)[^key-1440f49cca0352e302eabfbc7b271cd0] the amount referred to in sub-paragraph (2)(b) must not include an amount set by the authority under section 30 of the Act attributable to the adult social care precept in any prior year,
+- (a) the amount set by the authority under section 30 of the Act for the preceding year[^c-edf56ccc4aae2713cb190db03fdd41af], and
+- (b) the amount set by the authority under section 30 of the Act for the relevant year[^c-5e58c41d29cd5f7539cf3bc34cd24c2f] less the amount attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year[^c-e6a17cd7099b6252c64a6dffe06e1126],
+- (c)[^c-1440f49cca0352e302eabfbc7b271cd0] the amount referred to in sub-paragraph (2)(b) must not include an amount set by the authority under section 30 of the Act attributable to the adult social care precept in any prior year,
 
 expressed to one decimal place.
 
-(3)[^key-83d17fc2ee4786b3685a88df25480938] Where the notice specifies an amount under paragraph 7A(4), both—
+(3)[^c-83d17fc2ee4786b3685a88df25480938] Where the notice specifies an amount under paragraph 7A(4), both—
 
 - (a) the percentage change calculated in accordance with sub-paragraph (2); and
 - (b) the number of percentage points which the amount attributable to the adult social care precept in the relevant year represents as part of the percentage change between—
@@ -454,29 +454,29 @@ expressed to one decimal place.
 
 **17B.** (1) This paragraph applies instead of paragraph 13—
 
-- (a) in relation to a year beginning in the relevant period[^key-99e232c53521710ebdfe84017f0ca84b];
+- (a) in relation to a year beginning in the relevant period[^c-99e232c53521710ebdfe84017f0ca84b];
 - (b) where the billing authority is not an adult social care authority; and
 - (c) to the extent that paragraph 13 applies to the precept in paragraph 8.
 
 (2) Where the notice specifies an amount under paragraph 8A(3), the percentage change between—
 
-- (a) the precept issued under section 40(2)(a) of the Act for the preceding year[^key-76e52b78d5a00b32a0b149f15c2424fc], and
-- (b) the precept for the relevant year[^key-5eb47a02b6e873ffb7e18b1f53512176] less the amount attributable to the adult social care precept in the precept issued by the authority under section 40(2)(a) of the Act for the relevant year[^key-7bf7fe680602876f5cb80f71e6eafef3] of the major precepting authority,
-- (c)[^key-05b0937f7700beb8d30d2d42fb8c8846] the amount referred to in sub-paragraph (2)(b) must not include any amount in the precept issued by the authority under section 40(2)(a) of the Act which is attributable to the adult social care precept in any prior year,
+- (a) the precept issued under section 40(2)(a) of the Act for the preceding year[^c-76e52b78d5a00b32a0b149f15c2424fc], and
+- (b) the precept for the relevant year[^c-5eb47a02b6e873ffb7e18b1f53512176] less the amount attributable to the adult social care precept in the precept issued by the authority under section 40(2)(a) of the Act for the relevant year[^c-7bf7fe680602876f5cb80f71e6eafef3] of the major precepting authority,
+- (c)[^c-05b0937f7700beb8d30d2d42fb8c8846] the amount referred to in sub-paragraph (2)(b) must not include any amount in the precept issued by the authority under section 40(2)(a) of the Act which is attributable to the adult social care precept in any prior year,
 
 expressed to one decimal place.
 
-(3) Where the notice specifies an amount under paragraph 8A(4)[^key-4deeeec3294a52a7931751940b4e095c], both—
+(3) Where the notice specifies an amount under paragraph 8A(4)[^c-4deeeec3294a52a7931751940b4e095c], both—
 
-- (a) the percentage change[^key-c89e025ffed0bd7f726cf578e7549f31] calculated in accordance with sub-paragraph (2); and
-- (b)[^key-dbf8e62e2440b15c5c48ebaafaf8ec21] the number of percentage points which the amount attributable to the adult social care precept in the relevant year represents as part of the percentage change between—
+- (a) the percentage change[^c-c89e025ffed0bd7f726cf578e7549f31] calculated in accordance with sub-paragraph (2); and
+- (b)[^c-dbf8e62e2440b15c5c48ebaafaf8ec21] the number of percentage points which the amount attributable to the adult social care precept in the relevant year represents as part of the percentage change between—
   - (i) the precept issued by the authority under section 40(2)(a) of the Act for the preceding year; and
   - (ii) the precept issued by the authority under section 40(2)(a) of the Act for the relevant year,
 
   expressed to one decimal place;
 - (c) the amount attributable to the adult social care precept referred to in sub-paragraph (3)(b) must not include any amount attributable to the adult social care precept in any prior year.
 
-#### 18. Discounts, reductions and premiums[^key-079084b60b262f63e5ca6d0b87b28fbf][^key-f6021ab0eb882b494525bc0083a5bc4e]
+#### 18. Discounts, reductions and premiums[^c-079084b60b262f63e5ca6d0b87b28fbf][^c-f6021ab0eb882b494525bc0083a5bc4e]
 
 The days (if any) when the amount payable under the notice was calculated by reference to—
 
@@ -484,14 +484,14 @@ The days (if any) when the amount payable under the notice was calculated by ref
 - (b) the Council Tax (Reductions for Disabilities) Regulations 1992[^f00023],
 - (c) the Council Tax Benefit Regulations 2006[^f00024],
 - (d) the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00025],
-- (e) a determination made under section 11A of the Act (discounts: special provision for England)[^f00026], [^key-4e30ae47b3c5300adaf582b9c0410ae8]...
-- (f) a reduction made under section 13A(1)(a) of the Act (reductions by billing authority),[^key-8d00531950d163b16b8b58ebb35345d5]
-- (g)[^key-11f14b34e068297c1cfdddaa3ee30b9b] a reduction made under section 13A(1)(c) of the Act, [^key-3c22e379f17f9ad3603c103568ef3c9b]...
-- (h) a determination made under section 11B(1) of the Act (higher amount for long-term empty dwellings: England), [^key-e8d5685387a704d982c2c5aa1b4a6f2b]...[^key-8ca43c85d78faabd89855c019919960a]
-- (ha)[^key-9d69bcdcf31e0fff9ff8ad6f499fdf84] a determination made under section 11C(1) of the Act (higher amount for dwellings occupied periodically: England), or
+- (e) a determination made under section 11A of the Act (discounts: special provision for England)[^f00026], [^c-4e30ae47b3c5300adaf582b9c0410ae8]...
+- (f) a reduction made under section 13A(1)(a) of the Act (reductions by billing authority),[^c-8d00531950d163b16b8b58ebb35345d5]
+- (g)[^c-11f14b34e068297c1cfdddaa3ee30b9b] a reduction made under section 13A(1)(c) of the Act, [^c-3c22e379f17f9ad3603c103568ef3c9b]...
+- (h) a determination made under section 11B(1) of the Act (higher amount for long-term empty dwellings: England), [^c-e8d5685387a704d982c2c5aa1b4a6f2b]...[^c-8ca43c85d78faabd89855c019919960a]
+- (ha)[^c-9d69bcdcf31e0fff9ff8ad6f499fdf84] a determination made under section 11C(1) of the Act (higher amount for dwellings occupied periodically: England), or
 - (i) a reduction made under the Council Tax (Reductions for Annexes) (England) Regulations 2013.
 
-**19.**[^key-849316a57f2e47eff06d8c8ca5aadf6d] Where paragraph 18(a), (e), (g) or (i)[^key-706d0f296ca535dd85ae63d6957bd2cc] applies—
+**19.**[^c-849316a57f2e47eff06d8c8ca5aadf6d] Where paragraph 18(a), (e), (g) or (i)[^c-706d0f296ca535dd85ae63d6957bd2cc] applies—
 
 - (a) the reasons for the discount or reduction and its amount;
 - (b) a statement that if at any time before the end of the following year the person to whom the notice is issued has reason to believe that the amount of council tax payable—
@@ -501,7 +501,7 @@ The days (if any) when the amount payable under the notice was calculated by ref
   the person must notify the billing authority of this belief within a period of 21 days beginning on the day on which he first had that belief; and
 - (c) a statement that if the person fails without reasonable excuse to comply with paragraph (b) the authority may impose on him the penalty which is specified in paragraph 1(2) of Schedule 3 to the Act.
 
-**19A.**[^key-edcbbb0ecbd80fc8650deb1419cc4c5c] Where paragraph 18(f) applies—
+**19A.**[^c-edcbbb0ecbd80fc8650deb1419cc4c5c] Where paragraph 18(f) applies—
 
 - (a) the reasons for the reduction and its amount;
 - (b) a statement—
@@ -519,9 +519,9 @@ The days (if any) when the amount payable under the notice was calculated by ref
   the person must notify the billing authority of this belief within a period of 21 days beginning on the day on which he first had that belief; and
 - (c) a statement that if the person fails without reasonable excuse to comply with sub-paragraph (b) the authority may impose on him the penalty which is specified in paragraph 1(2) of Schedule 3 to the Act.
 
-**20.**[^key-a6737bd13d87aeed302422b5fd053062] Where paragraph 18(b), (c) or (d) applies, the reduction which is applicable.
+**20.**[^c-a6737bd13d87aeed302422b5fd053062] Where paragraph 18(b), (c) or (d) applies, the reduction which is applicable.
 
-#### 20A. Additional information in respect of 1st April 2022 and applicable bands A to D[^key-eeca2266deb9bd50288ae3ce620e643a]
+#### 20A. Additional information in respect of 1st April 2022 and applicable bands A to D[^c-eeca2266deb9bd50288ae3ce620e643a]
 
 (1) This paragraph applies to a notice in respect of—
 
@@ -532,7 +532,7 @@ The days (if any) when the amount payable under the notice was calculated by ref
 
 - “The Government is providing a £150 one-off Energy Bills Rebate for most households in council tax bands A-D”.
 
-#### 21. Penalties[^key-5185deebe4506d1fef209edf73efc7af]
+#### 21. Penalties[^c-5185deebe4506d1fef209edf73efc7af]
 
 Where—
 
@@ -541,26 +541,26 @@ Where—
 
 a statement of that ground.
 
-#### 22. Amount to be paid under the notice[^key-cfa20221c3bc677f8ae789dcf60aee63]
+#### 22. Amount to be paid under the notice[^c-cfa20221c3bc677f8ae789dcf60aee63]
 
 Any amount credited against the amount of council tax which would otherwise be payable.
 
-**23.**[^key-e68286951b62056ae5ab3e2c34ca5b03] Any penalty or overpayment of council tax benefit which is being recovered under the notice.
+**23.**[^c-e68286951b62056ae5ab3e2c34ca5b03] Any penalty or overpayment of council tax benefit which is being recovered under the notice.
 
-**24.**[^key-dd2f943e5eb77b8a0a38561fe783b2a8] Where—
+**24.**[^c-dd2f943e5eb77b8a0a38561fe783b2a8] Where—
 
 - (a) the notice requires the payment of an amount of council tax for any year before the relevant year, and
 - (b) the person to whom the notice is issued has not previously been issued with a notice requiring the payment of that amount,
 
 a statement of the amount.
 
-**25.**[^key-0a2f9b232c16d8066492f62204ef0c12] The amount required to be paid under the notice, the instalments or other payments required to be paid and the manner in which those payments may be made.
+**25.**[^c-0a2f9b232c16d8066492f62204ef0c12] The amount required to be paid under the notice, the instalments or other payments required to be paid and the manner in which those payments may be made.
 
-#### 26. Contact details[^key-647ef4969dc0d72e114617ec90725ecc]
+#### 26. Contact details[^c-647ef4969dc0d72e114617ec90725ecc]
 
 A statement of the address and telephone number to which any enquiries may be directed.
 
-#### 27. Explanatory notes[^key-4f71e90c59ca242d9fab2c009ad3fb0a]
+#### 27. Explanatory notes[^c-4f71e90c59ca242d9fab2c009ad3fb0a]
 
 Explanatory notes, which must include—
 
@@ -569,17 +569,17 @@ Explanatory notes, which must include—
   - (i) a dwelling may be an exempt dwelling for the purposes of Part 1 of the Act (council tax: England and Wales),
   - (ii) an amount may be subject to a discount under section 11 (discounts) or under a determination made under section 11A (discounts: special provision for England) of the Act,
   - (iii) a person may be an eligible person for the purposes of the Council Tax (Reductions for Disabilities) Regulations 1992,
-  - (iv) until 31 March 2013[^key-655cf1f840cd86dd9ee3c930c91ca926] a person may be entitled to council tax benefit,
-  - (v) a person may be eligible for a reduction under section 13A(1)(a) or section 13A(1)(c) of the Act (reductions by billing authority)[^key-e242774c53b0cbcfaf98a246cc4df6b1];
-  - (vi)[^key-3f9de446cc81e333c10d3e7a2f2cb6ab] a person may be eligible for a reduction under the Council Tax (Reductions for Annexes) (England) Regulations 2013;
+  - (iv) until 31 March 2013[^c-655cf1f840cd86dd9ee3c930c91ca926] a person may be entitled to council tax benefit,
+  - (v) a person may be eligible for a reduction under section 13A(1)(a) or section 13A(1)(c) of the Act (reductions by billing authority)[^c-e242774c53b0cbcfaf98a246cc4df6b1];
+  - (vi)[^c-3f9de446cc81e333c10d3e7a2f2cb6ab] a person may be eligible for a reduction under the Council Tax (Reductions for Annexes) (England) Regulations 2013;
 - (c) a statement of the procedures to be followed—
   - (i) by a person who wishes to dispute any matter shown in the billing authority’s valuation list in relation to the dwelling, or
   - (ii) by a person aggrieved as mentioned in section 16(1) of the Act (appeals: general);
-- (d)[^key-19dbdce4c8d2b6c0fb4a913ed03039c8] a statement of the procedure by which a person may request to pay their council tax in 12 monthly instalments under regulation 21(1A) of the Administration Regulations and the date by which the request must be received if 12 monthly instalments are to be paid in the relevant year;
+- (d)[^c-19dbdce4c8d2b6c0fb4a913ed03039c8] a statement of the procedure by which a person may request to pay their council tax in 12 monthly instalments under regulation 21(1A) of the Administration Regulations and the date by which the request must be received if 12 monthly instalments are to be paid in the relevant year;
 - (e) where a billing authority has published the information specified in Part 2 of Schedule 2 on a website—
   - (i) a statement to that effect giving the address of that website and the place on the website where the information may be accessed, and
   - (ii) a statement informing the person to whom the notice is issued of their right to request in writing a hard copy of that information to be sent to them free of charge;
-- (f)[^key-b532e30468ca93c3a29fbc4615eb52b2] in relation to a year beginning in the period beginning with 1st April 2017 and ending with 31st March 2025[^key-82a6b328cbc4d8ebc4f076e580098b46], the following statement—
+- (f)[^c-b532e30468ca93c3a29fbc4615eb52b2] in relation to a year beginning in the period beginning with 1st April 2017 and ending with 31st March 2025[^c-82a6b328cbc4d8ebc4f076e580098b46], the following statement—
 
   > For adult social care authorities, council tax demand notices show two percentage changes: one for the part of the overall change attributable to the adult social care precept, and one for the part attributable to general expenditure.
 
@@ -589,7 +589,7 @@ Regulation 6(1)
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-996f3c1e66733d3bdb254494a230eea9]
+#### 1. Interpretation[^c-996f3c1e66733d3bdb254494a230eea9]
 
 (1) In this Schedule “relevant levying body”, in relation to a billing authority, means a levying body which has issued a levy for the relevant year—
 
@@ -600,7 +600,7 @@ Regulation 6(1)
 
 ### PART 2 — Information to be supplied with demand notices
 
-#### 2. Amounts of gross expenditure[^key-8d421cb34a1bc659b31b6ed8f090e318]
+#### 2. Amounts of gross expenditure[^c-8d421cb34a1bc659b31b6ed8f090e318]
 
 The gross expenditure of—
 
@@ -610,7 +610,7 @@ The gross expenditure of—
 
 for the relevant year and the preceding year.
 
-#### 3. Amounts of council tax requirement[^key-b544dc1bbbc37a1b1e0f59eb2402e591]
+#### 3. Amounts of council tax requirement[^c-b544dc1bbbc37a1b1e0f59eb2402e591]
 
 The council tax requirement of—
 
@@ -619,7 +619,7 @@ The council tax requirement of—
 
 for the relevant year and the preceding year.
 
-#### 4. Statements concerning gross expenditure and council tax requirement[^key-41b1d77760fc2238cca8d58f8c518fd0]
+#### 4. Statements concerning gross expenditure and council tax requirement[^c-41b1d77760fc2238cca8d58f8c518fd0]
 
 The billing authority’s reasons for any difference between the amounts stated in accordance with—
 
@@ -628,11 +628,11 @@ The billing authority’s reasons for any difference between the amounts stated 
 
 for the same year.
 
-**5.**[^key-38718f110e0a4d7dae19cb0d8860722e] The billing authority’s opinion of the effect that its gross expenditure has on the level of council tax set for the relevant year.
+**5.**[^c-38718f110e0a4d7dae19cb0d8860722e] The billing authority’s opinion of the effect that its gross expenditure has on the level of council tax set for the relevant year.
 
-**6.**[^key-2f2011b16a7c93316a520778e55acc12] Each relevant precepting authority’s opinion of the effect that its gross expenditure has on the level of its precept issued for the relevant year.
+**6.**[^c-2f2011b16a7c93316a520778e55acc12] Each relevant precepting authority’s opinion of the effect that its gross expenditure has on the level of its precept issued for the relevant year.
 
-#### 7. Statement concerning adult social care funding[^key-c038d2e5de749be00a4566b9068bcdcd]
+#### 7. Statement concerning adult social care funding[^c-c038d2e5de749be00a4566b9068bcdcd]
 
 In relation to the year beginning in 2016, the following statement—
 
@@ -640,12 +640,12 @@ In relation to the year beginning in 2016, the following statement—
 - The offer is the option of an adult social care authority being able to charge a “precept” of up to 2% on its council tax for the financial year beginning in 2016 without holding a referendum, to assist the authority in meeting expenditure on adult social care. Subject to the annual approval of the House of Commons, the Secretary of State intends to offer the option of charging this “precept” in relation to each financial year up to and including the financial year 2019-20.
 - In relation to the financial year beginning in 2016 the Secretary of State has determined (and the House of Commons has approved) a referendum principle of 4% (comprising 2% for expenditure on adult social care and 2% for other expenditure), for adult social care authorities. These authorities may therefore set council tax up to this percentage in 2016 without holding a referendum.
 
-**8.**[^key-2a9bf042f6d6a86ef503ce6eb1f276d7] In relation to the years beginning in 2017, 2018 and 2019[^key-0a16480cc2ba302fe1ec48eb150c3cc2], the following statement—
+**8.**[^c-2a9bf042f6d6a86ef503ce6eb1f276d7] In relation to the years beginning in 2017, 2018 and 2019[^c-0a16480cc2ba302fe1ec48eb150c3cc2], the following statement—
 
 - The Secretary of State for Communities and Local Government has made an offer to adult social care authorities. (“Adult social care authorities” are local authorities which have functions under Part 1 of the Care Act 2014, namely county councils in England, district councils for an area in England for which there is no county council, London borough councils, the Common Council of the City of London and the Council of the Isles of Scilly.)
 - The offer is the option of an adult social care authority being able to charge an additional “precept” on its council tax for financial years from the financial year beginning in 2016 without holding a referendum, to assist the authority in meeting expenditure on adult social care. Subject to the annual approval of the House of Commons, the Secretary of State intends to offer the option of charging this “precept” at an appropriate level in each financial year up to and including the financial year 2019-20.
 
-**9.**[^key-bd1d3558909835e6eff7ce0d0d817235] In relation to the years beginning in 2020, 2021, 2022, 2023 and 2024[^key-f8a7fbb76ede0f62e1e943ed0d486dba], the following statement—
+**9.**[^c-bd1d3558909835e6eff7ce0d0d817235] In relation to the years beginning in 2020, 2021, 2022, 2023 and 2024[^c-f8a7fbb76ede0f62e1e943ed0d486dba], the following statement—
 
 - The Secretary of State made an offer to adult social care authorities. (“Adult social care authorities” are local authorities which have functions under Part 1 of the Care Act 2014, namely county councils in England, district councils for an area in England for which there is no county council, London borough councils, the Common Council of the City of London and the Council of the Isles of Scilly.)
 - The offer was the option of an adult social care authority being able to charge an additional “precept” on its council tax without holding a referendum, to assist the authority in meeting its expenditure on adult social care from the financial year 2016-17. It was originally made in respect of the financial years up to and including 2019-20. If the Secretary of State chooses to renew this offer in respect of a particular financial year, this is subject to the approval of the House of Commons.
@@ -672,21 +672,21 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 113(1) was amended by paragraph 52(2) of Schedule 7 to the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26). These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Local Government Finance Act 1992. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-cb5d71b801bf97a768e9f3b297f1ef30]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/3038) applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2017/611/article/4/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2017/611/article/4/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule)
+[^c-cb5d71b801bf97a768e9f3b297f1ef30]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/3038) applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2017/611/article/4/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2017/611/article/4/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule)
 
-[^key-2f11aca8cdcd63a078a6b14bad5f184a]: Modification: Regulations modified (2.1.2019) by [S.I. 2008/3022](https://www.legislation.gov.uk/uksi/2008/3022), [reg. 15B](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15B), [Sch. 4](https://www.legislation.gov.uk/uksi/2008/3022/schedule/4) (as inserted by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1296/regulation/11), [13](https://www.legislation.gov.uk/uksi/2018/1296/regulation/13), [Sch.](https://www.legislation.gov.uk/uksi/2018/1296/schedule))
+[^c-2f11aca8cdcd63a078a6b14bad5f184a]: Modification: Regulations modified (2.1.2019) by [S.I. 2008/3022](https://www.legislation.gov.uk/uksi/2008/3022), [reg. 15B](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15B), [Sch. 4](https://www.legislation.gov.uk/uksi/2008/3022/schedule/4) (as inserted by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1296/regulation/11), [13](https://www.legislation.gov.uk/uksi/2018/1296/regulation/13), [Sch.](https://www.legislation.gov.uk/uksi/2018/1296/schedule))
 
-[^key-a3ec74e1f93d733f19f19747bd13c29b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-a3ec74e1f93d733f19f19747bd13c29b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2010/2990](https://www.legislation.gov.uk/uksi/2010/2990).
 
-[^key-84c9eed61df586523eab79ea2291e14f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-84c9eed61df586523eab79ea2291e14f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
 [^f00003]: Footnote: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).
 
 [^f00004]: Footnote: [S.I. 1992/613](https://www.legislation.gov.uk/uksi/1992/613), to which there are amendments not relevant to these Regulations.
 
-[^key-a39b0255a0229a14234e3043ac902ac7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/2/a)
+[^c-a39b0255a0229a14234e3043ac902ac7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/2/a)
 
 [^f00005]: Footnote: [S.I. 1996/1880](https://www.legislation.gov.uk/uksi/1996/1880).
 
@@ -694,27 +694,27 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00007]: Footnote: [2008 c.26](https://www.legislation.gov.uk/ukpga/2008/26).
 
-[^key-cb0a58c5a3f6804441d45c13a4f44661]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/a/i)
+[^c-cb0a58c5a3f6804441d45c13a4f44661]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/a/i)
 
-[^key-995c22c5f4f3988da057db7bd15dc476]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/a/i)
+[^c-995c22c5f4f3988da057db7bd15dc476]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/a/i)
 
-[^key-941b62733b0fdcce69f135c759df8591]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) omitted (10.2.2017) by virtue of [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/a/ii)
+[^c-941b62733b0fdcce69f135c759df8591]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) omitted (10.2.2017) by virtue of [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/a/ii)
 
-[^key-8a0f1460faa1f13f20cf5f132699c18e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/a/iii)
+[^c-8a0f1460faa1f13f20cf5f132699c18e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/a/iii)
 
-[^key-f4821f9721119d2a6f331272aa487a49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) omitted (6.2.2025) by virtue of [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/a/ii)
+[^c-f4821f9721119d2a6f331272aa487a49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/1) omitted (6.2.2025) by virtue of [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/a/ii)
 
-[^key-ad17d01226d4489bba9cad09969da833]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/4) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/2/b)
+[^c-ad17d01226d4489bba9cad09969da833]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/4) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/2/b)
 
-[^key-a1e56267b7b794c0414e9532e69e9a64]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/b)
+[^c-a1e56267b7b794c0414e9532e69e9a64]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/b)
 
-[^key-1c7008ca5ca84e43d518e15687991e62]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3/a) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/b/ii)
+[^c-1c7008ca5ca84e43d518e15687991e62]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3/a) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/b/ii)
 
-[^key-9e2cd22a7bb9c0f7d610ba25c7d70da9]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/b/iii)
+[^c-9e2cd22a7bb9c0f7d610ba25c7d70da9]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/3/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/2/b/iii)
 
-[^key-8d78e2d36d3d0df5d2d9009931f3f3e2]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/4) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/c)
+[^c-8d78e2d36d3d0df5d2d9009931f3f3e2]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/2/4) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/2/c)
 
-[^key-af2b6899795bcb82c6acf9ac6e1e524e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/3038/regulation/3) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-af2b6899795bcb82c6acf9ac6e1e524e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/3038/regulation/3) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
 [^f00008]: Footnote: Section 33 has been modified by paragraph 2 of Schedule 2 to the Local Government (Structural Changes) (Finance) Regulations 2008 ([S.I. 2008/3022](https://www.legislation.gov.uk/uksi/2008/3022)) in relation to an authority which calculates basic amounts of council tax under Part 4 of those Regulations for a financial year. The modifications do not alter the amount calculated by the authority under section 33(1).
 
@@ -726,85 +726,85 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00012]: Footnote: Section 49A was inserted into the Act by section 78 of the Localism Act 2011.
 
-[^key-cdc6465d37a719074a82b5d9fb6ad358]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/3038/regulation/4) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-cdc6465d37a719074a82b5d9fb6ad358]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/3038/regulation/4) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-a1483b1b4efffdea7c25e8a555fbcdf7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/3038/regulation/5) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-a1483b1b4efffdea7c25e8a555fbcdf7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/3038/regulation/5) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-6bd0fe965d2ceb9011895f8938bf4bfc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/3038/regulation/6) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-6bd0fe965d2ceb9011895f8938bf4bfc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/3038/regulation/6) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-8d86863eec51ca55dcf2698cac6d786a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/3038/regulation/7) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-8d86863eec51ca55dcf2698cac6d786a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/3038/regulation/7) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-09261f532c5787a13fa80ab01f1efb84]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-09261f532c5787a13fa80ab01f1efb84]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-fb4e551f8974f8326d3902559c6fca09]: Textual amendment: [Reg. 8(3A)-(3C)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/3)
+[^c-fb4e551f8974f8326d3902559c6fca09]: Textual amendment: [Reg. 8(3A)-(3C)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/3)
 
-[^key-6f721d5195d3793edf9210b2c1e27349]: Textual amendment: Words in [reg. 8(3A)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3A) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/3)
+[^c-6f721d5195d3793edf9210b2c1e27349]: Textual amendment: Words in [reg. 8(3A)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3A) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/3)
 
-[^key-aa129b4147be5225fccff0642143dffe]: Textual amendment: Words in [reg. 8(3A)(b)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3A/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/3/a/ii)
+[^c-aa129b4147be5225fccff0642143dffe]: Textual amendment: Words in [reg. 8(3A)(b)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3A/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/3/a/ii)
 
-[^key-8e1b326fd2176c7ebb03552cb0cbd607]: Textual amendment: [Reg. 8(3C)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3C) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/3/b)
+[^c-8e1b326fd2176c7ebb03552cb0cbd607]: Textual amendment: [Reg. 8(3C)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/8/3C) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/3/b)
 
 [^f00013]: Footnote: Section 36A was inserted into the Act by paragraph 15 of Schedule 7 to the Localism Act 2011.
 
-[^key-655aa434c2f5da86596b8ccab912074d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/3038/regulation/9) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-655aa434c2f5da86596b8ccab912074d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/3038/regulation/9) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-521caab9a06debf0bfadc5af1e3e2074]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/1) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-521caab9a06debf0bfadc5af1e3e2074]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/1) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
 [^f00014]: Footnote: Section 22 was amended by paragraph 45 of Schedule 7 to the [Local Government Act 2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
 [^f00015]: Footnote: Section 22B was inserted by section 77 of the Local Government Act 2003 and amended by section 1(2) to (5) of the Council Tax (New Valuation Lists for England) Act [2006 (c.7)](https://www.legislation.gov.uk/ukpga/2006/7).
 
-[^key-9a1a2082e982509cb854163f6b84c929]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/2) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-9a1a2082e982509cb854163f6b84c929]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/2) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-7e8614a0b7ef4c3e66858efde55d8c59]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/3) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-7e8614a0b7ef4c3e66858efde55d8c59]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/3) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-9d52d9c2a3e646d745f25d4f5e4c5cc5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/4) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-9d52d9c2a3e646d745f25d4f5e4c5cc5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/4) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-c7578a259724cd4e61575ebd3f4028d7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/5) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-c7578a259724cd4e61575ebd3f4028d7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/5) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-ede94b61458e8d88be3f026c3e097575]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/6) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-ede94b61458e8d88be3f026c3e097575]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/6) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-2666c0209b0794a6d124a4def4ee8dfd]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-2666c0209b0794a6d124a4def4ee8dfd]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-cabed3a0e14d117a9500ea2be30cc92b]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/a)
+[^c-cabed3a0e14d117a9500ea2be30cc92b]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/a)
 
 [^f00016]: Footnote: Section 30 was amended by section 81 of the 1999 Act and paragraph 8 of Schedule 7 to the Localism Act 2011.
 
-[^key-88e451b58889bd1b3d4c5c1a893bd805]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/b)
+[^c-88e451b58889bd1b3d4c5c1a893bd805]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/b)
 
-[^key-56e50327adecc56b2bb39caa56a986f3]: Textual amendment: Words in [Sch. 1 para. 7A(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
+[^c-56e50327adecc56b2bb39caa56a986f3]: Textual amendment: Words in [Sch. 1 para. 7A(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
 
-[^key-07c6d165ec32872f8d2e1d69e7ce6554]: Textual amendment: Words in [Sch. 1 para. 7A(1)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/1/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/ii)
+[^c-07c6d165ec32872f8d2e1d69e7ce6554]: Textual amendment: Words in [Sch. 1 para. 7A(1)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/1/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/ii)
 
-[^key-521834535dbd5812d5c968c1e9827b90]: Textual amendment: [Sch. 1 para. 7A(2)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/2) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/iii)
+[^c-521834535dbd5812d5c968c1e9827b90]: Textual amendment: [Sch. 1 para. 7A(2)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/2) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/iii)
 
-[^key-ee36c375a873332c684ada1690fcf7ba]: Textual amendment: Words in [Sch. 1 para. 7A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/iv/aa)
+[^c-ee36c375a873332c684ada1690fcf7ba]: Textual amendment: Words in [Sch. 1 para. 7A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/iv/aa)
 
-[^key-0151c86c0739174889c40b2c97fb2321]: Textual amendment: Words in [Sch. 1 para. 7A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/3) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/iv/bb)
+[^c-0151c86c0739174889c40b2c97fb2321]: Textual amendment: Words in [Sch. 1 para. 7A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/3) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/iv/bb)
 
-[^key-38b0f5de670adad7022429068da7b1ec]: Textual amendment: [Sch. 1 para. 7A(5)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/5) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/v)
+[^c-38b0f5de670adad7022429068da7b1ec]: Textual amendment: [Sch. 1 para. 7A(5)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/7A/5) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(a)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/a/v)
 
-[^key-ff18f174ae4a47078fb7eae07ebcfd20]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-ff18f174ae4a47078fb7eae07ebcfd20]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-0a8d5d258795a32eefbaaead6b54c20f]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/c)
+[^c-0a8d5d258795a32eefbaaead6b54c20f]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/c)
 
 [^f00017]: Footnote: Section 40 was amended by section 83 of the 1999 Act and paragraph 17 of Schedule 7 to the Localism Act 2011.
 
-[^key-26f2863306bf0bed874e31d65b24d5b4]: Textual amendment: [Sch. 1 para. 8A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/d)
+[^c-26f2863306bf0bed874e31d65b24d5b4]: Textual amendment: [Sch. 1 para. 8A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/d)
 
-[^key-69e7882e5d81a0bf88a15a07e81eb229]: Textual amendment: Words in [Sch. 1 para. 8A(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
+[^c-69e7882e5d81a0bf88a15a07e81eb229]: Textual amendment: Words in [Sch. 1 para. 8A(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
 
-[^key-d9cc81fa0a4d437ca964c256d98cb575]: Textual amendment: Words in [Sch. 1 para. 8A(1)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/1/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/ii)
+[^c-d9cc81fa0a4d437ca964c256d98cb575]: Textual amendment: Words in [Sch. 1 para. 8A(1)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/1/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/ii)
 
-[^key-fdade0b6464c2df8938cde4b5ebd472a]: Textual amendment: [Sch. 1 para. 8A(2)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/2) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/iii)
+[^c-fdade0b6464c2df8938cde4b5ebd472a]: Textual amendment: [Sch. 1 para. 8A(2)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/2) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/iii)
 
-[^key-c01031e76498adf344d4877ff3dec043]: Textual amendment: Words in [Sch. 1 para. 8A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/iv/aa)
+[^c-c01031e76498adf344d4877ff3dec043]: Textual amendment: Words in [Sch. 1 para. 8A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/iv/aa)
 
-[^key-67c2404d8a9c12d68be486d4827a9001]: Textual amendment: Words in [Sch. 1 para. 8A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/3) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/iv/bb)
+[^c-67c2404d8a9c12d68be486d4827a9001]: Textual amendment: Words in [Sch. 1 para. 8A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/3) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/iv/bb)
 
-[^key-eabc37af7388c1b7bc0a876742394272]: Textual amendment: [Sch. 1 para. 8A(5)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/5) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/v)
+[^c-eabc37af7388c1b7bc0a876742394272]: Textual amendment: [Sch. 1 para. 8A(5)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/8A/5) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(b)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/b/v)
 
-[^key-05620b72530cc0d83d60f8cfbdd9b097]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/9) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-05620b72530cc0d83d60f8cfbdd9b097]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/9) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
 [^f00018]: Footnote: Section 36 was amended by paragraph 14 of Schedule 7 to the Localism Act 2011.
 
@@ -812,63 +812,63 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00020]: Footnote: Section 41 was amended by paragraph 18 of Schedule 7 to the Localism Act 2011.
 
-[^key-774f79f727af6330fc66a0f5fa1420c5]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/10) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-774f79f727af6330fc66a0f5fa1420c5]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/10) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-0fec714e30bf29c3ecca1165adafa87b]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/11) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-0fec714e30bf29c3ecca1165adafa87b]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/11) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-e08061abdb34e5d48eaecaf634acbb0e]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/12) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-e08061abdb34e5d48eaecaf634acbb0e]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/12) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
 [^f00021]: Footnote: An authority’s relevant basic amount of council tax is excessive for a year if the authority makes a determination to that effect under section 52ZB of the Act. Section 52ZB was inserted into the Act by Schedule 5 to the Localism Act 2011.
 
-[^key-808e6fa39136fcc282f10c6c47f9ae66]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/12A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/e)
+[^c-808e6fa39136fcc282f10c6c47f9ae66]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/12A) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/e)
 
-[^key-4a59a95809a363f47351eca3859c0406]: Textual amendment: Words in [Sch. 1 para. 12A(1)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/12A/1) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
+[^c-4a59a95809a363f47351eca3859c0406]: Textual amendment: Words in [Sch. 1 para. 12A(1)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/12A/1) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
 
-[^key-49c4de69b9392372db4ec75bf6a0370b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/13) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-49c4de69b9392372db4ec75bf6a0370b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/13) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-0c47bf6816a79f16926650aa5c375079]: Textual amendment: Words in [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/13) substituted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/f)
+[^c-0c47bf6816a79f16926650aa5c375079]: Textual amendment: Words in [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/13) substituted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/f)
 
-[^key-c1387bfc9b9c6943a9de969d6022c405]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/14) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-c1387bfc9b9c6943a9de969d6022c405]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/14) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-d3f22a0873ec9055da428b6dbdd2540c]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/15) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-d3f22a0873ec9055da428b6dbdd2540c]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/15) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-6e0aedb69abbcc7f42b2eaae62676549]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/16) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-6e0aedb69abbcc7f42b2eaae62676549]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/16) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-66460fdb5c33e3f81ce6b3fcd815874c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-66460fdb5c33e3f81ce6b3fcd815874c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-edb587d87e0a012c60c85ea7ac8b22d3]: Textual amendment: [Sch. 1 paras. 17A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A), [17B](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(g)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/g)
+[^c-edb587d87e0a012c60c85ea7ac8b22d3]: Textual amendment: [Sch. 1 paras. 17A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A), [17B](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(4)(g)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/4/g)
 
-[^key-b92bb5330b569164be45df36f9b97544]: Textual amendment: Words in [Sch. 1 para. 17A(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
+[^c-b92bb5330b569164be45df36f9b97544]: Textual amendment: Words in [Sch. 1 para. 17A(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
 
-[^key-edf56ccc4aae2713cb190db03fdd41af]: Textual amendment: Words in [Sch. 1 para. 17A(2)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/a) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/ii)
+[^c-edf56ccc4aae2713cb190db03fdd41af]: Textual amendment: Words in [Sch. 1 para. 17A(2)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/a) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/ii)
 
-[^key-5e58c41d29cd5f7539cf3bc34cd24c2f]: Textual amendment: Words in [Sch. 1 para. 17A(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/b) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/iii/aa)
+[^c-5e58c41d29cd5f7539cf3bc34cd24c2f]: Textual amendment: Words in [Sch. 1 para. 17A(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/b) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/iii/aa)
 
-[^key-e6a17cd7099b6252c64a6dffe06e1126]: Textual amendment: Words in [Sch. 1 para. 17A(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/iii/bb)
+[^c-e6a17cd7099b6252c64a6dffe06e1126]: Textual amendment: Words in [Sch. 1 para. 17A(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/iii/bb)
 
-[^key-1440f49cca0352e302eabfbc7b271cd0]: Textual amendment: [Sch. 1 para. 17A(2)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(iv)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/iv)
+[^c-1440f49cca0352e302eabfbc7b271cd0]: Textual amendment: [Sch. 1 para. 17A(2)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/2/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(iv)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/iv)
 
-[^key-83d17fc2ee4786b3685a88df25480938]: Textual amendment: [Sch. 1 para. 17A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/v)
+[^c-83d17fc2ee4786b3685a88df25480938]: Textual amendment: [Sch. 1 para. 17A(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17A/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(d)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/d/v)
 
-[^key-99e232c53521710ebdfe84017f0ca84b]: Textual amendment: Words in [Sch. 1 para. 17B(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
+[^c-99e232c53521710ebdfe84017f0ca84b]: Textual amendment: Words in [Sch. 1 para. 17B(1)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/1/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/a)
 
-[^key-76e52b78d5a00b32a0b149f15c2424fc]: Textual amendment: Words in [Sch. 1 para. 17B(2)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/a) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/ii)
+[^c-76e52b78d5a00b32a0b149f15c2424fc]: Textual amendment: Words in [Sch. 1 para. 17B(2)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/a) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/ii)
 
-[^key-5eb47a02b6e873ffb7e18b1f53512176]: Textual amendment: Words in [Sch. 1 para. 17B(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/b) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(iii)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/iii/aa)
+[^c-5eb47a02b6e873ffb7e18b1f53512176]: Textual amendment: Words in [Sch. 1 para. 17B(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/b) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(iii)(aa)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/iii/aa)
 
-[^key-7bf7fe680602876f5cb80f71e6eafef3]: Textual amendment: Words in [Sch. 1 para. 17B(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(iii)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/iii/bb)
+[^c-7bf7fe680602876f5cb80f71e6eafef3]: Textual amendment: Words in [Sch. 1 para. 17B(2)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/b) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(iii)(bb)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/iii/bb)
 
-[^key-05b0937f7700beb8d30d2d42fb8c8846]: Textual amendment: [Sch. 1 para. 17B(2)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/iv)
+[^c-05b0937f7700beb8d30d2d42fb8c8846]: Textual amendment: [Sch. 1 para. 17B(2)(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/2/c) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/iv)
 
-[^key-4deeeec3294a52a7931751940b4e095c]: Textual amendment: Word in [Sch. 1 para. 17B(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/v)
+[^c-4deeeec3294a52a7931751940b4e095c]: Textual amendment: Word in [Sch. 1 para. 17B(3)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3) substituted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(v)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/v)
 
-[^key-c89e025ffed0bd7f726cf578e7549f31]: Textual amendment: Word in [Sch. 1 para. 17B(3)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/a) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(vi)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/vi)
+[^c-c89e025ffed0bd7f726cf578e7549f31]: Textual amendment: Word in [Sch. 1 para. 17B(3)(a)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/a) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(vi)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/vi)
 
-[^key-dbf8e62e2440b15c5c48ebaafaf8ec21]: Textual amendment: [Sch. 1 para. 17B(3)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/b)[(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/c) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1) [para. 17B(3)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/b) (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(vii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/vii)
+[^c-dbf8e62e2440b15c5c48ebaafaf8ec21]: Textual amendment: [Sch. 1 para. 17B(3)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/b)[(c)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/c) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1) [para. 17B(3)(b)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/17B/3/b) (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(e)(vii)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/e/vii)
 
-[^key-079084b60b262f63e5ca6d0b87b28fbf]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-079084b60b262f63e5ca6d0b87b28fbf]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-f6021ab0eb882b494525bc0083a5bc4e]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18) heading substituted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-f6021ab0eb882b494525bc0083a5bc4e]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18) heading substituted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
 [^f00022]: Footnote: Section 11 was amended by paragraph 41 of Schedule 7, and Schedule 8, to the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
@@ -880,74 +880,74 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00026]: Footnote: Section 11A was inserted by section 75(1) of the Local Government Act 2003.
 
-[^key-4e30ae47b3c5300adaf582b9c0410ae8]: Textual amendment: Word in [Sch. 1 para. 18(e)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/e) omitted (31.1.2013) by virtue of [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-4e30ae47b3c5300adaf582b9c0410ae8]: Textual amendment: Word in [Sch. 1 para. 18(e)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/e) omitted (31.1.2013) by virtue of [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
-[^key-8d00531950d163b16b8b58ebb35345d5]: Textual amendment: Words in [Sch. 1 para. 18(f)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/f) substituted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-8d00531950d163b16b8b58ebb35345d5]: Textual amendment: Words in [Sch. 1 para. 18(f)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/f) substituted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
-[^key-11f14b34e068297c1cfdddaa3ee30b9b]: Textual amendment: [Sch. 1 para. 18(g)(h)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/g/h) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-11f14b34e068297c1cfdddaa3ee30b9b]: Textual amendment: [Sch. 1 para. 18(g)(h)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/g/h) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/2/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
-[^key-3c22e379f17f9ad3603c103568ef3c9b]: Textual amendment: Word in [Sch. 1 para. 18(g)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/g) omitted (1.4.2014) by virtue of [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/a/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
+[^c-3c22e379f17f9ad3603c103568ef3c9b]: Textual amendment: Word in [Sch. 1 para. 18(g)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/g) omitted (1.4.2014) by virtue of [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/a/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
 
-[^key-e8d5685387a704d982c2c5aa1b4a6f2b]: Textual amendment: Word in [Sch. 1 para. 18(h)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/h) omitted (1.11.2024) by virtue of [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/4/a)
+[^c-e8d5685387a704d982c2c5aa1b4a6f2b]: Textual amendment: Word in [Sch. 1 para. 18(h)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/h) omitted (1.11.2024) by virtue of [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/4/a)
 
-[^key-8ca43c85d78faabd89855c019919960a]: Textual amendment: [Sch. 1 para. 18(i)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/i) and word inserted (1.4.2014) by [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
+[^c-8ca43c85d78faabd89855c019919960a]: Textual amendment: [Sch. 1 para. 18(i)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/i) and word inserted (1.4.2014) by [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
 
-[^key-9d69bcdcf31e0fff9ff8ad6f499fdf84]: Textual amendment: [Sch. 1 para. 18(ha)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/ha) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/4/b)
+[^c-9d69bcdcf31e0fff9ff8ad6f499fdf84]: Textual amendment: [Sch. 1 para. 18(ha)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/18/ha) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/4/b)
 
-[^key-849316a57f2e47eff06d8c8ca5aadf6d]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-849316a57f2e47eff06d8c8ca5aadf6d]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-706d0f296ca535dd85ae63d6957bd2cc]: Textual amendment: Words in [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19) substituted (1.4.2014) by [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
+[^c-706d0f296ca535dd85ae63d6957bd2cc]: Textual amendment: Words in [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19) substituted (1.4.2014) by [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
 
-[^key-edcbbb0ecbd80fc8650deb1419cc4c5c]: Textual amendment: [Sch. 1 paras. 19A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19A), [19B](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19B) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-edcbbb0ecbd80fc8650deb1419cc4c5c]: Textual amendment: [Sch. 1 paras. 19A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19A), [19B](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/19B) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
-[^key-a6737bd13d87aeed302422b5fd053062]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/20) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-a6737bd13d87aeed302422b5fd053062]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/20) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-eeca2266deb9bd50288ae3ce620e643a]: Textual amendment: [Sch. 1 para. 20A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/20A) inserted (12.2.2022) by [The Council Tax (Demand Notices and Reduction Schemes) (England) (Amendment) Regulations 2022 (S.I. 2022/127)](https://www.legislation.gov.uk/uksi/2022/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/127/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/127/regulation/2/2)
+[^c-eeca2266deb9bd50288ae3ce620e643a]: Textual amendment: [Sch. 1 para. 20A](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/20A) inserted (12.2.2022) by [The Council Tax (Demand Notices and Reduction Schemes) (England) (Amendment) Regulations 2022 (S.I. 2022/127)](https://www.legislation.gov.uk/uksi/2022/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/127/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/127/regulation/2/2)
 
-[^key-5185deebe4506d1fef209edf73efc7af]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/21) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-5185deebe4506d1fef209edf73efc7af]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/21) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-cfa20221c3bc677f8ae789dcf60aee63]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/22) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-cfa20221c3bc677f8ae789dcf60aee63]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/22) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-e68286951b62056ae5ab3e2c34ca5b03]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/23) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-e68286951b62056ae5ab3e2c34ca5b03]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/23) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-dd2f943e5eb77b8a0a38561fe783b2a8]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/24) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-dd2f943e5eb77b8a0a38561fe783b2a8]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/24) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-0a2f9b232c16d8066492f62204ef0c12]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/25) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-0a2f9b232c16d8066492f62204ef0c12]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/25) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-647ef4969dc0d72e114617ec90725ecc]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/26) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-647ef4969dc0d72e114617ec90725ecc]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/26) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-4f71e90c59ca242d9fab2c009ad3fb0a]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-4f71e90c59ca242d9fab2c009ad3fb0a]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-655cf1f840cd86dd9ee3c930c91ca926]: Textual amendment: Words in [Sch. 1 para. 27(b)(iv)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/b/iv) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-655cf1f840cd86dd9ee3c930c91ca926]: Textual amendment: Words in [Sch. 1 para. 27(b)(iv)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/b/iv) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
-[^key-e242774c53b0cbcfaf98a246cc4df6b1]: Textual amendment: Words in [Sch. 1 para. 27(b)(v)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/b/v) substituted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-e242774c53b0cbcfaf98a246cc4df6b1]: Textual amendment: Words in [Sch. 1 para. 27(b)(v)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/b/v) substituted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
-[^key-3f9de446cc81e333c10d3e7a2f2cb6ab]: Textual amendment: [Sch. 1 para. 27(b)(vi)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/b/vi) inserted (1.4.2014) by [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
+[^c-3f9de446cc81e333c10d3e7a2f2cb6ab]: Textual amendment: [Sch. 1 para. 27(b)(vi)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/b/vi) inserted (1.4.2014) by [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/4/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
 
-[^key-19dbdce4c8d2b6c0fb4a913ed03039c8]: Textual amendment: [Sch. 1 para. 27(d)(e)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/d/e) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/5/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
+[^c-19dbdce4c8d2b6c0fb4a913ed03039c8]: Textual amendment: [Sch. 1 para. 27(d)(e)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/d/e) inserted (31.1.2013) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/3087)](https://www.legislation.gov.uk/uksi/2012/3087), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/2/5/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3087/regulation/1/2))
 
-[^key-b532e30468ca93c3a29fbc4615eb52b2]: Textual amendment: [Sch. 1 para. 27(f)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/f) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/f)
+[^c-b532e30468ca93c3a29fbc4615eb52b2]: Textual amendment: [Sch. 1 para. 27(f)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/f) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/4/f)
 
-[^key-82a6b328cbc4d8ebc4f076e580098b46]: Textual amendment: Words in [Sch. 1 para. 27(f)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/f) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/b)
+[^c-82a6b328cbc4d8ebc4f076e580098b46]: Textual amendment: Words in [Sch. 1 para. 27(f)](https://www.legislation.gov.uk/uksi/2011/3038/schedule/1/paragraph/27/f) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/4/b)
 
-[^key-996f3c1e66733d3bdb254494a230eea9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/1) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-996f3c1e66733d3bdb254494a230eea9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/1) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-8d421cb34a1bc659b31b6ed8f090e318]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/2) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-8d421cb34a1bc659b31b6ed8f090e318]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/2) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-b544dc1bbbc37a1b1e0f59eb2402e591]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/3) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-b544dc1bbbc37a1b1e0f59eb2402e591]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/3) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-41b1d77760fc2238cca8d58f8c518fd0]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/4) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-41b1d77760fc2238cca8d58f8c518fd0]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/4) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-38718f110e0a4d7dae19cb0d8860722e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/5) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-38718f110e0a4d7dae19cb0d8860722e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/5) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-2f2011b16a7c93316a520778e55acc12]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/6) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
+[^c-2f2011b16a7c93316a520778e55acc12]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/6) in force at 31.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)
 
-[^key-c038d2e5de749be00a4566b9068bcdcd]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/7) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/5)
+[^c-c038d2e5de749be00a4566b9068bcdcd]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/7) inserted (20.2.2016) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/188)](https://www.legislation.gov.uk/uksi/2016/188), [regs. 1](https://www.legislation.gov.uk/uksi/2016/188/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/188/regulation/2/5)
 
-[^key-2a9bf042f6d6a86ef503ce6eb1f276d7]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/8) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/5)
+[^c-2a9bf042f6d6a86ef503ce6eb1f276d7]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/8) inserted (10.2.2017) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2017 (S.I. 2017/13)](https://www.legislation.gov.uk/uksi/2017/13), [regs. 1](https://www.legislation.gov.uk/uksi/2017/13/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/13/regulation/2/5)
 
-[^key-0a16480cc2ba302fe1ec48eb150c3cc2]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/8) substituted (5.2.2020) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2020 (S.I. 2020/21)](https://www.legislation.gov.uk/uksi/2020/21), [regs. 1](https://www.legislation.gov.uk/uksi/2020/21/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/21/regulation/2/2)
+[^c-0a16480cc2ba302fe1ec48eb150c3cc2]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/8) substituted (5.2.2020) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2020 (S.I. 2020/21)](https://www.legislation.gov.uk/uksi/2020/21), [regs. 1](https://www.legislation.gov.uk/uksi/2020/21/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/21/regulation/2/2)
 
-[^key-bd1d3558909835e6eff7ce0d0d817235]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/9) inserted (5.2.2020) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2020 (S.I. 2020/21)](https://www.legislation.gov.uk/uksi/2020/21), [regs. 1](https://www.legislation.gov.uk/uksi/2020/21/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/21/regulation/2/3)
+[^c-bd1d3558909835e6eff7ce0d0d817235]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/9) inserted (5.2.2020) by [The Council Tax (Demand Notices) (England) (Amendment) Regulations 2020 (S.I. 2020/21)](https://www.legislation.gov.uk/uksi/2020/21), [regs. 1](https://www.legislation.gov.uk/uksi/2020/21/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/21/regulation/2/3)
 
-[^key-f8a7fbb76ede0f62e1e943ed0d486dba]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/9) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/5)
+[^c-f8a7fbb76ede0f62e1e943ed0d486dba]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/3038/schedule/2/paragraph/9) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/8/regulation/2/5)

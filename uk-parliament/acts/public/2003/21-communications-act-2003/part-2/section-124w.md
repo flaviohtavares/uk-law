@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124W. Enforcement of obligations of providers under sections 124U and 124V[^key-8e0bef5504643adb8975d69aebb4a315]
+## 124W. Enforcement of obligations of providers under sections 124U and 124V[^c-8e0bef5504643adb8975d69aebb4a315]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0bef5504643adb8975d69aebb4a315]: Textual amendment: Ss. 124U-124W and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/54)
+[^c-8e0bef5504643adb8975d69aebb4a315]: Textual amendment: Ss. 124U-124W and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/54)

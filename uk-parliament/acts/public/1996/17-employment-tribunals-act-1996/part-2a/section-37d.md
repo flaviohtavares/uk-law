@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37D. Unpaid amount of relevant sum: further provision[^key-dc47ac277ab531f58e439e91868aaf6c]
+## 37D. Unpaid amount of relevant sum: further provision[^c-dc47ac277ab531f58e439e91868aaf6c]
 
 *Extent: E+W+S*
 
@@ -49,13 +49,13 @@ any remaining instalments (whether or not yet due) are to be treated as having b
 - (a) it were a relevant sum to be paid by instalments, and
 - (b) those sums were the instalments.
 
-(6) Where a payment by an employer is made, or purported to be made, in respect of a relevant sum, the Secretary of State[^key-9c674bd4462479c85dfb74278d7599eb] may determine whether, and to what extent, the payment is to be treated as being—
+(6) Where a payment by an employer is made, or purported to be made, in respect of a relevant sum, the Secretary of State[^c-9c674bd4462479c85dfb74278d7599eb] may determine whether, and to what extent, the payment is to be treated as being—
 
 - (a) in respect of that relevant sum or instead in respect of some other amount owed by the employer;
 - (b) in respect of the initial amount or interest on it, in the case of a payment treated as being in respect of the relevant sum.
 
 ## Annotations
 
-[^key-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
 
-[^key-9c674bd4462479c85dfb74278d7599eb]: Textual amendment: Words in s. 37D(6) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/6) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-9c674bd4462479c85dfb74278d7599eb]: Textual amendment: Words in s. 37D(6) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/6) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

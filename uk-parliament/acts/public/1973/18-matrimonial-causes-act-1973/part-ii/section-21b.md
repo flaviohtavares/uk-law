@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21B. Pension compensation sharing orders[^key-d559d374f56741db4dbcbf8e1f1c24af]
+## 21B. Pension compensation sharing orders[^c-d559d374f56741db4dbcbf8e1f1c24af]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d559d374f56741db4dbcbf8e1f1c24af]: Textual amendment: Ss. 21B, 21C inserted (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/2); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)
+[^c-d559d374f56741db4dbcbf8e1f1c24af]: Textual amendment: Ss. 21B, 21C inserted (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/2); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)

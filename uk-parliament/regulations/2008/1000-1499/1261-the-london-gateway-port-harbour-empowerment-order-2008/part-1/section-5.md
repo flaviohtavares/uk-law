@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Application of the Local Government Act 1972[^key-795bb556aa7bc63b152414657b987605]
+## 5. Application of the Local Government Act 1972[^c-795bb556aa7bc63b152414657b987605]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ The provisions of sections 236(3) to (8) and (11) and 238 of the Local Governmen
 
 ## Annotations
 
-[^key-795bb556aa7bc63b152414657b987605]: Commencement: Art. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-795bb556aa7bc63b152414657b987605]: Commencement: Art. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00016]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

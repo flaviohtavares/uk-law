@@ -33,59 +33,59 @@ of 27 March 2015
 
 supplementing Regulation (EU) No 508/2014 of the European Parliament and of the Council as regards the cases of non-compliance and the cases of serious non-compliance with the rules of the Common Fisheries Policy that may lead to an interruption of a payment deadline or suspension of payments under the European Maritime and Fisheries Fund (revoked)
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f2b8cda744995fe0450bf28b33ce775]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Cases of non-compliance[^key-5f2b8cda744995fe0450bf28b33ce775]
+## Article 1. Cases of non-compliance[^c-5f2b8cda744995fe0450bf28b33ce775]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Cases of serious non-compliance[^key-5f2b8cda744995fe0450bf28b33ce775]
+## Article 2. Cases of serious non-compliance[^c-5f2b8cda744995fe0450bf28b33ce775]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-5f2b8cda744995fe0450bf28b33ce775]
+## Article 3. Entry into force[^c-5f2b8cda744995fe0450bf28b33ce775]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f2b8cda744995fe0450bf28b33ce775]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-5f2b8cda744995fe0450bf28b33ce775]
+## ANNEX[^c-5f2b8cda744995fe0450bf28b33ce775]
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]**Category 1:**
+[^c-5f2b8cda744995fe0450bf28b33ce775]**Category 1:**
 
 **Failure to contribute to the objectives of the Common Fisheries Policy as set out in Article 2(2) of Regulation (EU) No 1380/2013 that are essential to the conservation of marine biological resources**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]**Category 2:**
+[^c-5f2b8cda744995fe0450bf28b33ce775]**Category 2:**
 
 **Failure to meet international obligations on conservation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]**Category 3:**
+[^c-5f2b8cda744995fe0450bf28b33ce775]**Category 3:**
 
 **Failure to ensure that the fleet is in balance with the natural resources**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]**Category 4:**
+[^c-5f2b8cda744995fe0450bf28b33ce775]**Category 4:**
 
 **Failure to implement the Community framework for the collection, management and use of data in line with Article 25 of Regulation (EU) No 1380/2013 as further specified in Council Regulation (EC) No 199/2008****that result in a lack of information on natural resources**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]**Category 5:**
+[^c-5f2b8cda744995fe0450bf28b33ce775]**Category 5:**
 
 **Failure to operate an effective control and enforcement system**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]**Category 6:**
+[^c-5f2b8cda744995fe0450bf28b33ce775]**Category 6:**
 
 **Failure to establish and operate a functioning system of effective, proportionate and dissuasive penalties**
 
@@ -93,4 +93,4 @@ supplementing Regulation (EU) No 508/2014 of the European Parliament and of the 
 
 ## Annotations
 
-[^key-5f2b8cda744995fe0450bf28b33ce775]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-5f2b8cda744995fe0450bf28b33ce775]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

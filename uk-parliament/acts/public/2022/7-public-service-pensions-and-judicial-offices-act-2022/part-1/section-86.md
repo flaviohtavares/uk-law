@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Meaning of “local government scheme” etc[^key-d4870dc3558d96ab4a5ab81aabc0e68e][^key-944ee42ee7fad43595a484539b21e500]
+## 86. Meaning of “local government scheme” etc[^c-d4870dc3558d96ab4a5ab81aabc0e68e][^c-944ee42ee7fad43595a484539b21e500]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4870dc3558d96ab4a5ab81aabc0e68e]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-d4870dc3558d96ab4a5ab81aabc0e68e]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-944ee42ee7fad43595a484539b21e500]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2022/7/section/86) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-944ee42ee7fad43595a484539b21e500]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2022/7/section/86) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

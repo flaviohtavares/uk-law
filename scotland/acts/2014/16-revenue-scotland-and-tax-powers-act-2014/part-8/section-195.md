@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 195. Penalties for failure to comply or obstruction[^key-438b968346e33b59d35978f2ff35d2f1]
+## 195. Penalties for failure to comply or obstruction[^c-438b968346e33b59d35978f2ff35d2f1]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-438b968346e33b59d35978f2ff35d2f1]: Commencement: [S. 195](https://www.legislation.gov.uk/asp/2014/16/section/195) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-438b968346e33b59d35978f2ff35d2f1]: Commencement: [S. 195](https://www.legislation.gov.uk/asp/2014/16/section/195) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

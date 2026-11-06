@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Information as to recognised charities.[^key-1209632e821ed67c4b3e4599a15b7058]
+## 1. Information as to recognised charities.[^c-1209632e821ed67c4b3e4599a15b7058]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1209632e821ed67c4b3e4599a15b7058]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1990/40/section/1) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/5)
+[^c-1209632e821ed67c4b3e4599a15b7058]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1990/40/section/1) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Children and young people with special educational needs but no EHC plan[^key-efdb1cc85a6f577b413cd7a201c5b7bd][^key-ab423266c7aa85381aa9194d3d4bf224]
+## 34. Children and young people with special educational needs but no EHC plan[^c-efdb1cc85a6f577b413cd7a201c5b7bd][^c-ab423266c7aa85381aa9194d3d4bf224]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 - (a) the local authority which is responsible for him or her;
 - (b) the head teacher of the school or the principal of the Academy or post-16 institution;
-- (c)[^key-b552721a35a451a65ac90e7caf4da6e1] the child's parent or the young person;
+- (c)[^c-b552721a35a451a65ac90e7caf4da6e1] the child's parent or the young person;
 - (d) anyone else whose advice is required to be obtained in connection with the assessment by virtue of regulations under section 36(11).
 
 (6) This subsection applies while the child or young person remains admitted to a special school or special post-16 institution, in prescribed circumstances, following an EHC needs assessment at the school or post-16 institution.
@@ -41,7 +41,7 @@ summary: ''
 
 - (a) the local authority which is responsible for him or her;
 - (b) the head teacher of the school or the principal of the Academy or post-16 institution;
-- (c)[^key-b552721a35a451a65ac90e7caf4da6e1] the child's parent or the young person.
+- (c)[^c-b552721a35a451a65ac90e7caf4da6e1] the child's parent or the young person.
 
 (8) This subsection applies while the child or young person is admitted to a special school which is established in a hospital and is—
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-efdb1cc85a6f577b413cd7a201c5b7bd]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/6/section/34) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/889/article/3/b)
+[^c-efdb1cc85a6f577b413cd7a201c5b7bd]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/6/section/34) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/889/article/3/b)
 
-[^key-ab423266c7aa85381aa9194d3d4bf224]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/6/section/34) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-ab423266c7aa85381aa9194d3d4bf224]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/6/section/34) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
 
-[^key-b552721a35a451a65ac90e7caf4da6e1]: Modification: [S. 34(5)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/34/5/c)[(7)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/34/7/c) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)
+[^c-b552721a35a451a65ac90e7caf4da6e1]: Modification: [S. 34(5)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/34/5/c)[(7)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/34/7/c) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)

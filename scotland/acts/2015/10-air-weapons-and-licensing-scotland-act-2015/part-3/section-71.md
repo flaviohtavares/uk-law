@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Register of dealers in metal[^key-b2c1d23eee1c5678dbf86202b7e6a720]
+## 71. Register of dealers in metal[^c-b2c1d23eee1c5678dbf86202b7e6a720]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ After section 35 of the 1982 Act, insert—
 
 ## Annotations
 
-[^key-b2c1d23eee1c5678dbf86202b7e6a720]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2015/10/section/71) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-b2c1d23eee1c5678dbf86202b7e6a720]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2015/10/section/71) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

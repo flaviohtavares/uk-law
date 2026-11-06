@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Extinguishment of public rights of way[^key-6ff002c370c5cc2a187536bc7de4f6c3]
+## 10. Extinguishment of public rights of way[^c-6ff002c370c5cc2a187536bc7de4f6c3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ff002c370c5cc2a187536bc7de4f6c3]: Commencement: Art. 10 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-6ff002c370c5cc2a187536bc7de4f6c3]: Commencement: Art. 10 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

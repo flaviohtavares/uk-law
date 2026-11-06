@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Independence of care experience advocacy services[^key-9215346f0d313d13958cce299f969005]
+## 9. Independence of care experience advocacy services[^c-9215346f0d313d13958cce299f969005]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9215346f0d313d13958cce299f969005]: Commencement: S. 9 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-9215346f0d313d13958cce299f969005]: Commencement: S. 9 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50A. Observation of prisoners by means of an overt closed circuit television system[^key-89adc0abd98c04212cfbc9f5a44c88f2]
+## 50A. Observation of prisoners by means of an overt closed circuit television system[^c-89adc0abd98c04212cfbc9f5a44c88f2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89adc0abd98c04212cfbc9f5a44c88f2]: Textual amendment: Rule 50A inserted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [6](https://www.legislation.gov.uk/uksi/2000/2641/rule/6)
+[^c-89adc0abd98c04212cfbc9f5a44c88f2]: Textual amendment: Rule 50A inserted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [6](https://www.legislation.gov.uk/uksi/2000/2641/rule/6)

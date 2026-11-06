@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Parliamentary and other pension schemes: pension age[^key-36663f2c34528f0efa41dd50622d7008]
+## 34. Parliamentary and other pension schemes: pension age[^c-36663f2c34528f0efa41dd50622d7008]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In Schedule 6 to the Constitutional Reform and Governance Act 2010 (Parliamentar
 
 ## Annotations
 
-[^key-36663f2c34528f0efa41dd50622d7008]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2013/25/section/34) in force at 31.7.2014 by [S.I. 2014/1912](https://www.legislation.gov.uk/uksi/2014/1912), [art. 2](https://www.legislation.gov.uk/uksi/2014/1912/article/2)
+[^c-36663f2c34528f0efa41dd50622d7008]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2013/25/section/34) in force at 31.7.2014 by [S.I. 2014/1912](https://www.legislation.gov.uk/uksi/2014/1912), [art. 2](https://www.legislation.gov.uk/uksi/2014/1912/article/2)

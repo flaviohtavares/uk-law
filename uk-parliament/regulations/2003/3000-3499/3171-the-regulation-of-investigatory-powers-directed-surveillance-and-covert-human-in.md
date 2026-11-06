@@ -45,13 +45,13 @@ Whereas a draft of this Order has been approved by a resolution of each House of
 
 Now, therefore, the Secretary of State, in exercise of the powers conferred on him by sections 30(1), (3), (5) and (6) and 78(5) of the Regulation of Investigatory Powers Act 2000[^f00001], hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-38e725aeb5ee75127c3179f2d0798fdc]
+## 1. Citation, commencement and interpretation[^c-38e725aeb5ee75127c3179f2d0798fdc]
 
 (1) This Order may be cited as the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2003 and shall come into force one month after the day on which it is made.
 
 (2) In this Order “the 2000 Act” means the Regulation of Investigatory Powers Act 2000.
 
-## 2. Amendments to Schedule 1 to the 2000 Act[^key-2eac37eb81756c761b6cf439e9115cc5]
+## 2. Amendments to Schedule 1 to the 2000 Act[^c-2eac37eb81756c761b6cf439e9115cc5]
 
 (1) Part I of Schedule 1 to the 2000 Act shall be amended as follows.
 
@@ -97,7 +97,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 .
 
-**3.**[^key-5171727fdb8e59358b856a8033bbd7c5] (1) Part II of Schedule 1 to the 2000 Act shall be amended as follows.
+**3.**[^c-5171727fdb8e59358b856a8033bbd7c5] (1) Part II of Schedule 1 to the 2000 Act shall be amended as follows.
 
 (2) After paragraph 27 add the words—
 
@@ -117,19 +117,19 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 .
 
-## 4. Prescribed offices, ranks and positions[^key-1f38c953abb762565470bf7ddefd56a7]
+## 4. Prescribed offices, ranks and positions[^c-1f38c953abb762565470bf7ddefd56a7]
 
 (1) The offices, ranks and positions listed in column 2 of Part I of the Schedule to this Order (being offices, ranks or positions with the relevant public authorities listed in column 1 of Part I of that Schedule which are relevant public authorities for the purposes of sections 28 and 29 of the 2000 Act) are hereby prescribed for the purpose of section 30(1) of the 2000 Act, subject to the restrictions in articles 7, 8 and 9.
 
 (2) The offices, ranks and positions listed in column 2 of Part II of the Schedule to this Order (being offices, ranks or positions with the relevant public authorities listed in column 1 of Part II of that Schedule which are relevant public authorities for the purposes only of section 28 of the 2000 Act) are hereby prescribed for the purpose of section 30(1) of the 2000 Act, subject to the restrictions in articles 7, 8 and 9.
 
-## 5. More senior offices, ranks and positions[^key-c9454a50d3b6513710475078d3146845]
+## 5. More senior offices, ranks and positions[^c-c9454a50d3b6513710475078d3146845]
 
 (1) Where an office, rank or position with a relevant public authority is prescribed by virtue of article 4, all more senior offices, ranks or positions with that authority are also prescribed for the purpose of section 30(1) of the 2000 Act, subject to article 10.
 
 (2) Where an office, rank or position with a relevant public authority is described in column 2 of the Schedule to this Order by reference to an agency, unit, branch, division or other part of that authority, the reference in paragraph (1) to all more senior offices, ranks or positions with that authority is a reference to all more senior offices, ranks or positions with that agency, unit, branch, division or part.
 
-## 6. Additional offices, ranks and positions prescribed for urgent cases[^key-57861867b30e5837cd172f3e5e0a79ff]
+## 6. Additional offices, ranks and positions prescribed for urgent cases[^c-57861867b30e5837cd172f3e5e0a79ff]
 
 (1) The additional offices, ranks and positions listed in column 3 of the Schedule to this Order (being offices, ranks or positions with the relevant public authorities listed in column 1) are hereby prescribed for the purposes of section 30(1) of the 2000 Act, subject to the restrictions in articles 7, 8 and 9 in the circumstances described in paragraph (2).
 
@@ -137,17 +137,17 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 (3) Where an office, rank or position with a relevant public authority is described in column 3 of the Schedule to this Order by reference to an agency, unit, branch, division or other part of that authority, the reference in paragraph (2) to an individual with the same authority is a reference to an individual with that agency, unit, branch, division or part.
 
-## 7. Restrictions on the granting of authorisations[^key-d91866494052125c3aff0f4008fc349b]
+## 7. Restrictions on the granting of authorisations[^c-d91866494052125c3aff0f4008fc349b]
 
 The restriction in this article is that an individual holding an office, rank or position which is listed in column 2 or 3 of the Schedule to this Order may not grant an authorisation unless he believes it is necessary on the grounds set out in one or more of the paragraphs of sections 28(3) and 29(3) of the 2000 Act listed in the corresponding entry in column 4 of that Schedule.
 
-**8.**[^key-6de371ea3b4530dde507be2e81d555ae] The restriction in this article is that where any entry in column 2 or 3 of Part I of the Schedule to this Order is headed by a reference to an authorisation under section 28 or section 29 of the 2000 Act, an individual holding an office, rank or position which is listed in that entry may only grant an authorisation under the section of the 2000 Act with which that entry is headed.
+**8.**[^c-6de371ea3b4530dde507be2e81d555ae] The restriction in this article is that where any entry in column 2 or 3 of Part I of the Schedule to this Order is headed by a reference to an authorisation under section 28 or section 29 of the 2000 Act, an individual holding an office, rank or position which is listed in that entry may only grant an authorisation under the section of the 2000 Act with which that entry is headed.
 
-**9.**[^key-8dae86b3925ce12ecc69a0ca0b58414e] The restriction in this article is that an individual holding an office, rank or position with the Food Standards Agency or the Rural Payments Agency may not grant an authorisation for conduct in Northern Ireland.
+**9.**[^c-8dae86b3925ce12ecc69a0ca0b58414e] The restriction in this article is that an individual holding an office, rank or position with the Food Standards Agency or the Rural Payments Agency may not grant an authorisation for conduct in Northern Ireland.
 
-**10.**[^key-f70c1ddcde54ed630a21dbcbc99a5988] The restrictions on the granting of authorisations under section 28 and 29 of the 2000 Act that apply to an individual holding an office, rank or position with a relevant public authority listed in column 2 of the Schedule to this Order shall also apply to individuals holding all more senior offices, ranks or positions with that authority that are prescribed by article 5.
+**10.**[^c-f70c1ddcde54ed630a21dbcbc99a5988] The restrictions on the granting of authorisations under section 28 and 29 of the 2000 Act that apply to an individual holding an office, rank or position with a relevant public authority listed in column 2 of the Schedule to this Order shall also apply to individuals holding all more senior offices, ranks or positions with that authority that are prescribed by article 5.
 
-## 11. Revocation[^key-7b72fc38d1148f8d592371a0ffb2c09e]
+## 11. Revocation[^c-7b72fc38d1148f8d592371a0ffb2c09e]
 
 The Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) Order 2000[^f00005] is hereby revoked.
 
@@ -159,7 +159,7 @@ Home Office
 
 5th December 2003
 
-## SCHEDULE[^key-80a875a68d08639994d1d1df7d3811d8]
+## SCHEDULE[^c-80a875a68d08639994d1d1df7d3811d8]
 
 Article 4
 
@@ -266,37 +266,37 @@ Column 1 of the Schedule to this Order lists the public authorities. Column 2 sp
 
 [^f00001]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-38e725aeb5ee75127c3179f2d0798fdc]: Commencement: Art. 1 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-38e725aeb5ee75127c3179f2d0798fdc]: Commencement: Art. 1 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-2eac37eb81756c761b6cf439e9115cc5]: Commencement: Art. 2 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-2eac37eb81756c761b6cf439e9115cc5]: Commencement: Art. 2 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
 [^f00002]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41).
 
 [^f00003]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-5171727fdb8e59358b856a8033bbd7c5]: Commencement: Art. 3 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-5171727fdb8e59358b856a8033bbd7c5]: Commencement: Art. 3 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
 [^f00004]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-1f38c953abb762565470bf7ddefd56a7]: Commencement: Art. 4 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-1f38c953abb762565470bf7ddefd56a7]: Commencement: Art. 4 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-c9454a50d3b6513710475078d3146845]: Commencement: Art. 5 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-c9454a50d3b6513710475078d3146845]: Commencement: Art. 5 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-57861867b30e5837cd172f3e5e0a79ff]: Commencement: Art. 6 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-57861867b30e5837cd172f3e5e0a79ff]: Commencement: Art. 6 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-d91866494052125c3aff0f4008fc349b]: Commencement: Art. 7 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-d91866494052125c3aff0f4008fc349b]: Commencement: Art. 7 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-6de371ea3b4530dde507be2e81d555ae]: Commencement: Art. 8 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-6de371ea3b4530dde507be2e81d555ae]: Commencement: Art. 8 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-8dae86b3925ce12ecc69a0ca0b58414e]: Commencement: Art. 9 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-8dae86b3925ce12ecc69a0ca0b58414e]: Commencement: Art. 9 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-f70c1ddcde54ed630a21dbcbc99a5988]: Commencement: Art. 10 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-f70c1ddcde54ed630a21dbcbc99a5988]: Commencement: Art. 10 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
-[^key-7b72fc38d1148f8d592371a0ffb2c09e]: Commencement: Art. 11 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-7b72fc38d1148f8d592371a0ffb2c09e]: Commencement: Art. 11 in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
 [^f00005]: Footnote: S.I. [2000/2417](https://www.legislation.gov.uk/uksi/2000/2417).
 
-[^key-80a875a68d08639994d1d1df7d3811d8]: Commencement: Sch. in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
+[^c-80a875a68d08639994d1d1df7d3811d8]: Commencement: Sch. in force at 5.1.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3171/article/1/1)
 
 [^f00006]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 

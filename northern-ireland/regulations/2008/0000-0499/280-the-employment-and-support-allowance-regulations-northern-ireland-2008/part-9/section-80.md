@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Effect of statutory maternity pay on a contributory allowance[^key-bc08718ae29cd88ffe17063cecc17769]
+## 80. Effect of statutory maternity pay on a contributory allowance[^c-bc08718ae29cd88ffe17063cecc17769]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc08718ae29cd88ffe17063cecc17769]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2008/280/regulation/80) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-bc08718ae29cd88ffe17063cecc17769]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2008/280/regulation/80) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

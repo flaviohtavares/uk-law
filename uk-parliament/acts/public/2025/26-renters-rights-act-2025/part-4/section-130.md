@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Powers of accompanying persons[^key-d942ae6d4e2934e79f1464365638d017]
+## 130. Powers of accompanying persons[^c-d942ae6d4e2934e79f1464365638d017]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A person who accompanies an officer of a local housing authority entering premis
 
 ## Annotations
 
-[^key-d942ae6d4e2934e79f1464365638d017]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2025/26/section/130) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-d942ae6d4e2934e79f1464365638d017]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2025/26/section/130) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

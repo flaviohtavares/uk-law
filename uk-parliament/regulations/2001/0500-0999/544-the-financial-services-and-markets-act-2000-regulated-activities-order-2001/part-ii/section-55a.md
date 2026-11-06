@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. Providing Targeted Support[^key-65187406fd8bf64c555b320571531604]
+## 55A. Providing Targeted Support[^c-65187406fd8bf64c555b320571531604]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65187406fd8bf64c555b320571531604]: Textual amendment: [Pt. 2 Ch. 12A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/12A) inserted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/74/article/2/3)
+[^c-65187406fd8bf64c555b320571531604]: Textual amendment: [Pt. 2 Ch. 12A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/12A) inserted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/74/article/2/3)

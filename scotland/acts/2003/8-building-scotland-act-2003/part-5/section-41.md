@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Tests of materials[^key-34e2ca3c3c0929174f7d29bd673243a0]
+## 41. Tests of materials[^c-34e2ca3c3c0929174f7d29bd673243a0]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the building in question and includes a test of such materials in combination wi
 
 ## Annotations
 
-[^key-34e2ca3c3c0929174f7d29bd673243a0]: Commencement: S. 41 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-34e2ca3c3c0929174f7d29bd673243a0]: Commencement: S. 41 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Taxable disposals: regulations.[^key-e14f5eadba18b9a026c723942662a59f]
+## 62. Taxable disposals: regulations.[^c-e14f5eadba18b9a026c723942662a59f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e14f5eadba18b9a026c723942662a59f]: Textual amendment: S. 62 omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 60 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/4) (with [Sch. 60 para. 13(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/13/3))
+[^c-e14f5eadba18b9a026c723942662a59f]: Textual amendment: S. 62 omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 60 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/4) (with [Sch. 60 para. 13(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/13/3))

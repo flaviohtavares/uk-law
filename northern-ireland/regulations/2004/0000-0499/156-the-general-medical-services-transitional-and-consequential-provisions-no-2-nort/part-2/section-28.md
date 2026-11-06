@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Practice leaflet[^key-6868db192ab99dee13d4b90975f5971b]
+## 28. Practice leaflet[^c-6868db192ab99dee13d4b90975f5971b]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ need not, until 1st August 2004, include all the information specified in the te
 
 ## Annotations
 
-[^key-6868db192ab99dee13d4b90975f5971b]: Commencement: Art. 28 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-6868db192ab99dee13d4b90975f5971b]: Commencement: Art. 28 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

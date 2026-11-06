@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-Vegetable Seeds (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-2b1228da04474c22037c216b17678709]
+Vegetable Seeds (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-2b1228da04474c22037c216b17678709]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 2nd November 2001
 
-[^key-2b1228da04474c22037c216b17678709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b1228da04474c22037c216b17678709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2b1228da04474c22037c216b17678709]
+## 1. Citation and commencement[^c-2b1228da04474c22037c216b17678709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Vegetable Seeds Regulations (Northern Ireland) 1994[^key-2b1228da04474c22037c216b17678709]
+## 2. Amendment of the Vegetable Seeds Regulations (Northern Ireland) 1994[^c-2b1228da04474c22037c216b17678709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b1228da04474c22037c216b17678709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b1228da04474c22037c216b17678709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b1228da04474c22037c216b17678709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b1228da04474c22037c216b17678709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b1228da04474c22037c216b17678709]: Textual amendment: Regulations revoked (31.12.2009) by [The Vegetable Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/387)](https://www.legislation.gov.uk/nisr/2009/387), [regs. 1](https://www.legislation.gov.uk/nisr/2009/387/regulation/1), [32(1)(d)](https://www.legislation.gov.uk/nisr/2009/387/regulation/32) (with [reg. 32(3)](https://www.legislation.gov.uk/nisr/2009/387/regulation/32))
+[^c-2b1228da04474c22037c216b17678709]: Textual amendment: Regulations revoked (31.12.2009) by [The Vegetable Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/387)](https://www.legislation.gov.uk/nisr/2009/387), [regs. 1](https://www.legislation.gov.uk/nisr/2009/387/regulation/1), [32(1)(d)](https://www.legislation.gov.uk/nisr/2009/387/regulation/32) (with [reg. 32(3)](https://www.legislation.gov.uk/nisr/2009/387/regulation/32))

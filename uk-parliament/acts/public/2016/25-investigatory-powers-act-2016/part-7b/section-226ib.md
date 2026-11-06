@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226IB. Additional safeguards for items subject to legal privilege: examination[^key-311e55a8788bc37e9dc678e99b31cc97]
+## 226IB. Additional safeguards for items subject to legal privilege: examination[^c-311e55a8788bc37e9dc678e99b31cc97]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-311e55a8788bc37e9dc678e99b31cc97]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/ukpga/2016/25/part/7B) inserted (14.10.2024 for specified purposes, 25.4.2025 in so far as not already in force) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/e); [S.I. 2025/501](https://www.legislation.gov.uk/uksi/2025/501), [reg. 2](https://www.legislation.gov.uk/uksi/2025/501/regulation/2)
+[^c-311e55a8788bc37e9dc678e99b31cc97]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/ukpga/2016/25/part/7B) inserted (14.10.2024 for specified purposes, 25.4.2025 in so far as not already in force) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/e); [S.I. 2025/501](https://www.legislation.gov.uk/uksi/2025/501), [reg. 2](https://www.legislation.gov.uk/uksi/2025/501/regulation/2)

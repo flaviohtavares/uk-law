@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Costs and procedure on appeals etc: further amendments[^c22543071][^key-b93a477ad37b5e1b3b697340d2db722f][^key-cbe4615a745f4f35a7714d6bb3f31a8f]
+## 51. Costs and procedure on appeals etc: further amendments[^c22543071][^c-b93a477ad37b5e1b3b697340d2db722f][^c-cbe4615a745f4f35a7714d6bb3f31a8f]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ For further amendments relating to costs and procedure on appeals etc, see Sched
 
 [^c22543071]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/4/section/51) partly in force; [s. 51](https://www.legislation.gov.uk/anaw/2015/4/section/51) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-b93a477ad37b5e1b3b697340d2db722f]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/4/section/51) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4](https://www.legislation.gov.uk/wsi/2016/52/article/4)
+[^c-b93a477ad37b5e1b3b697340d2db722f]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/4/section/51) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4](https://www.legislation.gov.uk/wsi/2016/52/article/4)
 
-[^key-cbe4615a745f4f35a7714d6bb3f31a8f]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/4/section/51) in force at 5.5.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(d)](https://www.legislation.gov.uk/wsi/2017/546/article/3/d)
+[^c-cbe4615a745f4f35a7714d6bb3f31a8f]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/4/section/51) in force at 5.5.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(d)](https://www.legislation.gov.uk/wsi/2017/546/article/3/d)

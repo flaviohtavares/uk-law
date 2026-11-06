@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-548dfce7c014bb6893ad117de47eced4] This regulation applies where a claimant has made and is pursuing an appeal against a relevant decision of the Secretary of State as defined in regulation 26.
+(1)[^c-548dfce7c014bb6893ad117de47eced4] This regulation applies where a claimant has made and is pursuing an appeal against a relevant decision of the Secretary of State as defined in regulation 26.
 
 (2) Subject to paragraph (3), where this regulation applies, a determination of limited capability for work by the Secretary of State under regulation 15 must not be made until the appeal is determined by the First-tier Tribunal.
 
@@ -52,4 +52,4 @@ the claimant is to be treated as not having limited capability for work with eff
 
 ## Annotations
 
-[^key-548dfce7c014bb6893ad117de47eced4]: Textual amendment: [Reg. 87(1)](https://www.legislation.gov.uk/uksi/2013/379/regulation/87/1) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations 2015 (S.I. 2015/437)](https://www.legislation.gov.uk/uksi/2015/437), [regs. 1](https://www.legislation.gov.uk/uksi/2015/437/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/437/regulation/4/3)
+[^c-548dfce7c014bb6893ad117de47eced4]: Textual amendment: [Reg. 87(1)](https://www.legislation.gov.uk/uksi/2013/379/regulation/87/1) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations 2015 (S.I. 2015/437)](https://www.legislation.gov.uk/uksi/2015/437), [regs. 1](https://www.legislation.gov.uk/uksi/2015/437/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/437/regulation/4/3)

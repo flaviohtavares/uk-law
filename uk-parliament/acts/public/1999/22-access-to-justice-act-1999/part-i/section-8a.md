@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Funding code: pilot provisions[^key-2f41732bc1e6b77684868c7d05c1d17d]
+## 8A. Funding code: pilot provisions[^c-2f41732bc1e6b77684868c7d05c1d17d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f41732bc1e6b77684868c7d05c1d17d]: Textual amendment: Ss. 1-26 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/51/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-2f41732bc1e6b77684868c7d05c1d17d]: Textual amendment: Ss. 1-26 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/51/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

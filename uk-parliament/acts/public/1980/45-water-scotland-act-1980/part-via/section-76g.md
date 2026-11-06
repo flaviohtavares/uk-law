@@ -27,7 +27,7 @@ summary: ''
 
 the local authority may serve a notice in relation to that private supply on one or more of the relevant persons.
 
-(1A)[^key-bb5697672870f5b536b47338ce0da8eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-bb5697672870f5b536b47338ce0da8eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A notice under this section in relation to a private supply of water to any premises shall—
 
@@ -61,6 +61,6 @@ the local authority may serve a notice in relation to that private supply on one
 
 [^c13463151]: Textual amendment: Words substituted by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [s. 56(4)](https://www.legislation.gov.uk/ukpga/1990/16/section/56/4)
 
-[^key-bb5697672870f5b536b47338ce0da8eb]: Textual amendment: [S. 76G(1A)](https://www.legislation.gov.uk/ukpga/1980/45/section/76G/1A) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 1(4)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/1/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-bb5697672870f5b536b47338ce0da8eb]: Textual amendment: [S. 76G(1A)](https://www.legislation.gov.uk/ukpga/1980/45/section/76G/1A) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 1(4)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/1/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
 [^c18307281]: Textual amendment: Words in s. 76G(6)(a) substituted (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71(1)](https://www.legislation.gov.uk/asp/2002/3/section/71/1), [Sch. 6 para. 55](https://www.legislation.gov.uk/asp/2002/3/schedule/6/paragraph/55) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)

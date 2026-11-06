@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. “New trading and transmission arrangements”[^key-0189dbfe48969af8b3c3536816e235c2]
+## 133. “New trading and transmission arrangements”[^c-0189dbfe48969af8b3c3536816e235c2]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0189dbfe48969af8b3c3536816e235c2]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2004/20/section/133) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-0189dbfe48969af8b3c3536816e235c2]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2004/20/section/133) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

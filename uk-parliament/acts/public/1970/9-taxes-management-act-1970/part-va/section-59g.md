@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59G. Managed payment plans[^key-c4158c27f438ac85a0012ed81fd9e3d3]
+## 59G. Managed payment plans[^c-c4158c27f438ac85a0012ed81fd9e3d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ P is not liable to a penalty or surcharge for failing to pay the amount of the s
 
 ## Annotations
 
-[^key-c4158c27f438ac85a0012ed81fd9e3d3]: Textual amendment: Ss. 59G, 59H inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/80) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-c4158c27f438ac85a0012ed81fd9e3d3]: Textual amendment: Ss. 59G, 59H inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/80) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

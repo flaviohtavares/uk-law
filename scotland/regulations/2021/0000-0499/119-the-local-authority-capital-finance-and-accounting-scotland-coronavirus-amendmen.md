@@ -44,21 +44,21 @@ In accordance with section 165(5) of the 1994 Act, a draft of this instrument ha
 
 In accordance with section 105(2) of the 1973 Act, the Scottish Ministers have consulted with such associations of local authorities as appear to them to be concerned.
 
-## 1. Citation and commencement[^key-19b9e8fc5f9d5f1205b22154c7699caa]
+## 1. Citation and commencement[^c-19b9e8fc5f9d5f1205b22154c7699caa]
 
 (1) These Regulations may be cited as the Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021.
 
 (2) Part 1 comes into force on the day after the day on which these Regulations are made.
 
-(3) Part 2 comes into force on 1 April 2023[^key-a70ba1969933044d08a692934657aadb].
+(3) Part 2 comes into force on 1 April 2023[^c-a70ba1969933044d08a692934657aadb].
 
 ## PART 1 — Provision relating to local authority borrowing and accounts
 
-### 2. Amendment of the Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016[^key-a8f4ac7a6ceada9f0a3b4419b5d2a84e]
+### 2. Amendment of the Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016[^c-a8f4ac7a6ceada9f0a3b4419b5d2a84e]
 
 The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016[^f00003] are amended in accordance with regulations 3 and 4.
 
-**3.**[^key-3edafc685fa5176ffe6b4672f4c75a7d] After regulation 14 (duty to make a statutory repayment of loans fund advances) insert—
+**3.**[^c-3edafc685fa5176ffe6b4672f4c75a7d] After regulation 14 (duty to make a statutory repayment of loans fund advances) insert—
 
 > **14A. Deferral of statutory repayments in 2020-21 or 2021-22**
 >
@@ -81,9 +81,9 @@ The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016
 
 .
 
-**4.**[^key-25d7ad168ece7aa4a391b01aebc025d3] Regulation 17 (supplemental provisions) is revoked.
+**4.**[^c-25d7ad168ece7aa4a391b01aebc025d3] Regulation 17 (supplemental provisions) is revoked.
 
-### 5. Amendment of the Local Authority Accounts (Scotland) Regulations 2014[^key-a9740f94edac7af4b357cfd2f11a4ec9]
+### 5. Amendment of the Local Authority Accounts (Scotland) Regulations 2014[^c-a9740f94edac7af4b357cfd2f11a4ec9]
 
 (1) The Local Authority Accounts (Scotland) Regulations 2014[^f00004] are amended as follows.
 
@@ -99,7 +99,7 @@ The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016
 
 ## PART 2 — Further provision relating to local authority borrowing
 
-### 6. Amendment of the Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016[^key-1c70db774ed55914ae82e135c2bb5959]
+### 6. Amendment of the Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016[^c-1c70db774ed55914ae82e135c2bb5959]
 
 (1) The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016 are amended as follows.
 
@@ -111,7 +111,7 @@ The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016
 
 (3) For regulation 14 (duty to make a statutory repayment of loans fund advances), substitute—
 
-> **14.** (1) This regulation applies to any loans fund advance made prior to 1 April 2023[^key-7efd0fed885c9c57f9aa68b935ea7f78].
+> **14.** (1) This regulation applies to any loans fund advance made prior to 1 April 2023[^c-7efd0fed885c9c57f9aa68b935ea7f78].
 >
 > (2) A local authority may, if it considers it prudent to do so, vary—
 >
@@ -126,7 +126,7 @@ The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016
 
 .
 
-(4)[^key-4ba9db565e524ca78fee70ec3d326dfc] Regulation 14A (deferral of statutory repayments in 2020-21, 2021-22 or 2022-23) is revoked.
+(4)[^c-4ba9db565e524ca78fee70ec3d326dfc] Regulation 14A (deferral of statutory repayments in 2020-21, 2021-22 or 2022-23) is revoked.
 
 KATE FORBES
 
@@ -160,24 +160,24 @@ Paragraph (4) of regulation 6 revokes the ability to defer repayment of borrowin
 
 [^f00002]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65). Section 105 is amended by section 10(2) of the Rating and Valuation (Amendment) (Scotland) Act [1984 (c.31)](https://www.legislation.gov.uk/ukpga/1984/31). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-19b9e8fc5f9d5f1205b22154c7699caa]: Commencement: Reg. 1 in force at 5.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/119/regulation/1)
+[^c-19b9e8fc5f9d5f1205b22154c7699caa]: Commencement: Reg. 1 in force at 5.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/119/regulation/1)
 
-[^key-a70ba1969933044d08a692934657aadb]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3) substituted (31.3.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), [4(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/2)
+[^c-a70ba1969933044d08a692934657aadb]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3) substituted (31.3.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), [4(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/2)
 
-[^key-a8f4ac7a6ceada9f0a3b4419b5d2a84e]: Commencement: Reg. 2 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
+[^c-a8f4ac7a6ceada9f0a3b4419b5d2a84e]: Commencement: Reg. 2 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
 
 [^f00003]: Footnote: [S.S.I. 2016/123](https://www.legislation.gov.uk/ssi/2016/123).
 
-[^key-3edafc685fa5176ffe6b4672f4c75a7d]: Commencement: Reg. 3 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
+[^c-3edafc685fa5176ffe6b4672f4c75a7d]: Commencement: Reg. 3 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
 
-[^key-25d7ad168ece7aa4a391b01aebc025d3]: Commencement: Reg. 4 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
+[^c-25d7ad168ece7aa4a391b01aebc025d3]: Commencement: Reg. 4 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
 
-[^key-a9740f94edac7af4b357cfd2f11a4ec9]: Commencement: Reg. 5 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
+[^c-a9740f94edac7af4b357cfd2f11a4ec9]: Commencement: Reg. 5 in force at 5.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2)
 
 [^f00004]: Footnote: [S.S.I. 2014/200](https://www.legislation.gov.uk/ssi/2014/200).
 
-[^key-1c70db774ed55914ae82e135c2bb5959]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/119/regulation/6) in force at 1.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3)
+[^c-1c70db774ed55914ae82e135c2bb5959]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/119/regulation/6) in force at 1.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3)
 
-[^key-7efd0fed885c9c57f9aa68b935ea7f78]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/3) substituted (31.3.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/3)
+[^c-7efd0fed885c9c57f9aa68b935ea7f78]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/3) substituted (31.3.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/3)
 
-[^key-4ba9db565e524ca78fee70ec3d326dfc]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/4) substituted (31.3.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), [4(4)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/4)
+[^c-4ba9db565e524ca78fee70ec3d326dfc]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/4) substituted (31.3.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), [4(4)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/4)

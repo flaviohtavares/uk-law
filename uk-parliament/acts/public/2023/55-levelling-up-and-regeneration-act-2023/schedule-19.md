@@ -22,7 +22,7 @@ summary: ''
 
 Section 184
 
-### 1. Online publicity[^key-d0cd3aa8214ac408d675832d10415787][^key-5df8c4bf1eb88a9b5082b8e5c10daf0f][^key-23426fa225429e9b81a698f96910cbf5][^key-5c7c486ffb940f23034f417a7cd71889]
+### 1. Online publicity[^c-d0cd3aa8214ac408d675832d10415787][^c-5df8c4bf1eb88a9b5082b8e5c10daf0f][^c-23426fa225429e9b81a698f96910cbf5][^c-5c7c486ffb940f23034f417a7cd71889]
 
 (1) Schedule 1 to the Acquisition of Land Act 1981 (compulsory purchase by Minister) is amended as follows.
 
@@ -105,7 +105,7 @@ Section 184
 
   > (4A) If the appropriate authority is satisfied that, because of special circumstances, it is impracticable for the Minister to make the copies referred to in sub-paragraph (4)(c) available for inspection at an appropriate place, the appropriate authority may direct that the requirement in sub-paragraph (4)(c) is not to apply.
 
-### 2. Proceedings for consideration of draft order[^key-4662ab0ac78d2aeee59d5dd9a05c11d1][^key-a0a764dcd55ef9e95c728d289d4c9367]
+### 2. Proceedings for consideration of draft order[^c-4662ab0ac78d2aeee59d5dd9a05c11d1][^c-a0a764dcd55ef9e95c728d289d4c9367]
 
 (1) Schedule 1 to the Acquisition of Land Act 1981 (compulsory purchase by Minister) is amended as follows.
 
@@ -152,7 +152,7 @@ Section 184
 
 (3) In paragraph 4B (confirmation of order in stages), in sub-paragraph (3), for “4A(2) or (3)” substitute “4A(1A) or (1B)”.
 
-### 3. Conditional orders[^key-e0fa3c8ae421a840422b5f31407322c5][^key-b8c48a313d05a50e2fff5cf0f1446a2b][^key-60cc5d27ce54cd507ae8fb52fb7a099d]
+### 3. Conditional orders[^c-e0fa3c8ae421a840422b5f31407322c5][^c-b8c48a313d05a50e2fff5cf0f1446a2b][^c-60cc5d27ce54cd507ae8fb52fb7a099d]
 
 (1) Schedule 1 to the Acquisition of Land Act 1981 (compulsory purchase by Minister) is amended as follows.
 
@@ -219,20 +219,20 @@ Section 184
 
 ## Annotations
 
-[^key-d0cd3aa8214ac408d675832d10415787]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-d0cd3aa8214ac408d675832d10415787]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-5df8c4bf1eb88a9b5082b8e5c10daf0f]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/1) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/r)
+[^c-5df8c4bf1eb88a9b5082b8e5c10daf0f]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/1) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/r)
 
-[^key-23426fa225429e9b81a698f96910cbf5]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/1) in force at 30.4.2024 for E. in so far as not already in force by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/389/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/389/regulation/4))
+[^c-23426fa225429e9b81a698f96910cbf5]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/1) in force at 30.4.2024 for E. in so far as not already in force by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/389/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/389/regulation/4))
 
-[^key-5c7c486ffb940f23034f417a7cd71889]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/1) in force at 2.12.2025 for specified purposes by [S.I. 2025/1262](https://www.legislation.gov.uk/uksi/2025/1262), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1262/regulation/3))
+[^c-5c7c486ffb940f23034f417a7cd71889]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/1) in force at 2.12.2025 for specified purposes by [S.I. 2025/1262](https://www.legislation.gov.uk/uksi/2025/1262), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1262/regulation/3))
 
-[^key-4662ab0ac78d2aeee59d5dd9a05c11d1]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-4662ab0ac78d2aeee59d5dd9a05c11d1]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-a0a764dcd55ef9e95c728d289d4c9367]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/2) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/t)
+[^c-a0a764dcd55ef9e95c728d289d4c9367]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/2) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/t)
 
-[^key-e0fa3c8ae421a840422b5f31407322c5]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-e0fa3c8ae421a840422b5f31407322c5]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-b8c48a313d05a50e2fff5cf0f1446a2b]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/3) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/t)
+[^c-b8c48a313d05a50e2fff5cf0f1446a2b]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/3) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/t)
 
-[^key-60cc5d27ce54cd507ae8fb52fb7a099d]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/3) in force at 18.2.2026 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+[^c-60cc5d27ce54cd507ae8fb52fb7a099d]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/3) in force at 18.2.2026 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)

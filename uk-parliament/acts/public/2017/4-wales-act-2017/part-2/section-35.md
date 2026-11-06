@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Cross-border exercise of pilotage functions[^key-06bf8a06a0706fc04ba917468c8c75c3]
+## 35. Cross-border exercise of pilotage functions[^c-06bf8a06a0706fc04ba917468c8c75c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ the Welsh Ministers must first consult the Secretary of State (except where sect
 
 ## Annotations
 
-[^key-06bf8a06a0706fc04ba917468c8c75c3]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/4/section/35) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-06bf8a06a0706fc04ba917468c8c75c3]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/4/section/35) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

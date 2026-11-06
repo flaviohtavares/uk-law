@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28I. Specified diseases: Scotland[^key-61cc0d17848a09d87a7709114ba164f4]
+## 28I. Specified diseases: Scotland[^c-61cc0d17848a09d87a7709114ba164f4]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61cc0d17848a09d87a7709114ba164f4]: Textual amendment: [S. 28I](https://www.legislation.gov.uk/ukpga/1981/22/section/28I) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 9(1)](https://www.legislation.gov.uk/asp/2006/11/section/9/1), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-61cc0d17848a09d87a7709114ba164f4]: Textual amendment: [S. 28I](https://www.legislation.gov.uk/ukpga/1981/22/section/28I) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 9(1)](https://www.legislation.gov.uk/asp/2006/11/section/9/1), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

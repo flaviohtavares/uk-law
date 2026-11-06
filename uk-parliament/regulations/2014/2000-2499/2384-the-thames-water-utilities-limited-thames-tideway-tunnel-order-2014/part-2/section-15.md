@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Temporary stopping up[^key-65b1f7e49f7c090c00493db47ecc32cf]
+## 15. Temporary stopping up[^c-65b1f7e49f7c090c00493db47ecc32cf]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65b1f7e49f7c090c00493db47ecc32cf]: Commencement: Art. 15 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-65b1f7e49f7c090c00493db47ecc32cf]: Commencement: Art. 15 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

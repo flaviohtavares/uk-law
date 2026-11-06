@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Commencement of Part 2[^key-d4bef7b74d6005b78ed360897214ba45]
+## 50. Commencement of Part 2[^c-d4bef7b74d6005b78ed360897214ba45]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ whichever is later.
 
 ## Annotations
 
-[^key-d4bef7b74d6005b78ed360897214ba45]: Commencement: Art. 50 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-d4bef7b74d6005b78ed360897214ba45]: Commencement: Art. 50 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 411. Armed forces[^key-d2299f3b2457c9d4b516fccad860cbe3]
+## 411. Armed forces[^c-d2299f3b2457c9d4b516fccad860cbe3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ See section 418 for provision about when those amendments come into force.
 
 ## Annotations
 
-[^key-d2299f3b2457c9d4b516fccad860cbe3]: Commencement: [S. 411](https://www.legislation.gov.uk/ukpga/2020/17/section/411) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d2299f3b2457c9d4b516fccad860cbe3]: Commencement: [S. 411](https://www.legislation.gov.uk/ukpga/2020/17/section/411) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

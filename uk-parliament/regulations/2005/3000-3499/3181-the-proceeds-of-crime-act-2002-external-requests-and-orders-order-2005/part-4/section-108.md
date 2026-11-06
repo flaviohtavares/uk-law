@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Registration of external orders[^key-7a141f345e267d7ca6d17fda1d7ea14d]
+## 108. Registration of external orders[^c-7a141f345e267d7ca6d17fda1d7ea14d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a141f345e267d7ca6d17fda1d7ea14d]: Commencement: [Art. 108](https://www.legislation.gov.uk/uksi/2005/3181/article/108) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-7a141f345e267d7ca6d17fda1d7ea14d]: Commencement: [Art. 108](https://www.legislation.gov.uk/uksi/2005/3181/article/108) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

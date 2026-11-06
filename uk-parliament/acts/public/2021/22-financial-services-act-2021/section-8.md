@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Review of which benchmarks are critical benchmarks[^key-b89ca1236f9f47241bc5c6823cf10def]
+## 8. Review of which benchmarks are critical benchmarks[^c-b89ca1236f9f47241bc5c6823cf10def]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b89ca1236f9f47241bc5c6823cf10def]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/22/section/8) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/a)
+[^c-b89ca1236f9f47241bc5c6823cf10def]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/22/section/8) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/a)

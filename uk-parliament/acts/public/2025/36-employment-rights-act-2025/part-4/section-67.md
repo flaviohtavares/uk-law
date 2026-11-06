@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Blacklists: additional powers[^key-0793b69c7ff26894aeb210a11f0f855c]
+## 67. Blacklists: additional powers[^c-0793b69c7ff26894aeb210a11f0f855c]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0793b69c7ff26894aeb210a11f0f855c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2025/36/section/67) in force at 18.2.2026, see [s. 159(2)(e)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/e)
+[^c-0793b69c7ff26894aeb210a11f0f855c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2025/36/section/67) in force at 18.2.2026, see [s. 159(2)(e)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/e)

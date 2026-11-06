@@ -42,10 +42,10 @@ summary: ''
 - (a) a reference to its being occupied otherwise than permanently; and
 - (b) a reference to its being occupied by way of the occupation by its owner of any dwellinghouse on or pertaining to it.
 
-(5) In this Part of this Act, “**inland waters**” has the same meaning as in section 69(1) of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003[^key-793f7884d1cf4fa45ae9e01817f1c56a].
+(5) In this Part of this Act, “**inland waters**” has the same meaning as in section 69(1) of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003[^c-793f7884d1cf4fa45ae9e01817f1c56a].
 
 ## Annotations
 
 [^c2104395]: Textual amendment: S. 68(1A) inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 39](https://www.legislation.gov.uk/asp/2007/7/section/39), [43](https://www.legislation.gov.uk/asp/2007/7/section/43), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/5/2) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-793f7884d1cf4fa45ae9e01817f1c56a]: Textual amendment: Words in s. 68(5) substituted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [Sch. 4 para. 8(5)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/8/5); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-793f7884d1cf4fa45ae9e01817f1c56a]: Textual amendment: Words in s. 68(5) substituted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [Sch. 4 para. 8(5)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/8/5); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

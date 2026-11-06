@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 261. Provision of assistance to patient with communication difficulties[^key-22ed5ed963d36b76652feae2b1b4c5c6][^key-f1734092a3e9f212a2194cdabfd75090][^key-bb1017beaf0583f537f5e87fbff00736]
+## 261. Provision of assistance to patient with communication difficulties[^c-22ed5ed963d36b76652feae2b1b4c5c6][^c-f1734092a3e9f212a2194cdabfd75090][^c-bb1017beaf0583f537f5e87fbff00736]
 
 *Extent: S*
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-22ed5ed963d36b76652feae2b1b4c5c6]: Commencement: S. 261 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-22ed5ed963d36b76652feae2b1b4c5c6]: Commencement: S. 261 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-f1734092a3e9f212a2194cdabfd75090]: Modification: S. 261 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [44](https://www.legislation.gov.uk/ssi/2005/467/regulation/44) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-f1734092a3e9f212a2194cdabfd75090]: Modification: S. 261 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [44](https://www.legislation.gov.uk/ssi/2005/467/regulation/44) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-bb1017beaf0583f537f5e87fbff00736]: Modification: S. 261 modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [31](https://www.legislation.gov.uk/ssi/2008/356/regulation/31) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-bb1017beaf0583f537f5e87fbff00736]: Modification: S. 261 modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [31](https://www.legislation.gov.uk/ssi/2008/356/regulation/31) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 54. Application of Schedule 3 containing supplementary provisions and powers[^key-da7d8c8951ef696645f957d53dc3813a]
+## 54. Application of Schedule 3 containing supplementary provisions and powers[^c-da7d8c8951ef696645f957d53dc3813a]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ shall have effect, but without prejudice to the powers conferred by section 52(1
 
 ## Annotations
 
-[^key-da7d8c8951ef696645f957d53dc3813a]: Commencement: S. 54 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-da7d8c8951ef696645f957d53dc3813a]: Commencement: S. 54 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

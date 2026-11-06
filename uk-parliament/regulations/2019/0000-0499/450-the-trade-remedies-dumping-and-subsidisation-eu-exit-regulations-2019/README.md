@@ -263,26 +263,26 @@ The Secretary of State for International Trade, in exercise of the powers confer
 - [Section 88 — Reinstatement of an anti-dumping amount or a countervailing amount](part-9/section-88.md)
 - [Section 88ZA — Power to request assistance etc. from TRA](part-9/section-88za.md)
 
-### PART 9A — Investigation in light of an international dispute decision[^key-a124b99d559275a9b8b9a0ffa482a27d]
+### PART 9A — Investigation in light of an international dispute decision[^c-a124b99d559275a9b8b9a0ffa482a27d]
 
-#### General[^key-a124b99d559275a9b8b9a0ffa482a27d]
+#### General[^c-a124b99d559275a9b8b9a0ffa482a27d]
 
 - [Section 88A — Investigation in light of an international dispute decision](part-9a/section-88a.md)
 - [Section 88B — Suspension of an anti-dumping amount or a countervailing amount](part-9a/section-88b.md)
 
-#### Investigation[^key-a124b99d559275a9b8b9a0ffa482a27d]
+#### Investigation[^c-a124b99d559275a9b8b9a0ffa482a27d]
 
 - [Section 88C — Initiation](part-9a/section-88c.md)
 - [Section 88D — Conduct](part-9a/section-88d.md)
 - [Section 88E — Determination](part-9a/section-88e.md)
 
-#### Determination[^key-a124b99d559275a9b8b9a0ffa482a27d]
+#### Determination[^c-a124b99d559275a9b8b9a0ffa482a27d]
 
 - [Section 88F — Determination to maintain](part-9a/section-88f.md)
 - [Section 88G — Determination to vary](part-9a/section-88g.md)
 - [Section 88H — Determination to revoke](part-9a/section-88h.md)
 
-#### Recommendation[^key-a124b99d559275a9b8b9a0ffa482a27d]
+#### Recommendation[^c-a124b99d559275a9b8b9a0ffa482a27d]
 
 - [Section 88I — Powers of the Secretary of State in relation to the TRA’s recommendation](part-9a/section-88i.md)
 - [Section 88J — Secretary of State’s power to apply an alternative remedy](part-9a/section-88j.md)
@@ -304,11 +304,11 @@ The Secretary of State for International Trade, in exercise of the powers confer
 - [Section 92 — Relevant period in a subsidisation investigation](part-11/section-92.md)
 - [Section 93 — Meaning of export subsidisation](part-11/section-93.md)
 
-### PART 12 — Transitional provisions[^key-dc68a8dc60108bd892ea7da55f232855]
+### PART 12 — Transitional provisions[^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — General[^key-dc68a8dc60108bd892ea7da55f232855]
+#### CHAPTER 1 — General[^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 94 — Interpretation for Part 12](part-12/section-94.md)
 - [Section 94A — Treatment of trade remedies measure transitioned under this Part](part-12/section-94a.md)
@@ -316,14 +316,14 @@ The Secretary of State for International Trade, in exercise of the powers confer
 - [Section 94C — Scope review of trade remedies measure transitioned under this Part](part-12/section-94c.md)
 - [Section 94D — Suspension of trade remedies measure transitioned under this Part](part-12/section-94d.md)
 
-#### CHAPTER 2 — Dumping and subsidisation investigation[^key-dc68a8dc60108bd892ea7da55f232855]
+#### CHAPTER 2 — Dumping and subsidisation investigation[^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 95 — Initiating an investigation before replacement of EU trade duty](part-12/section-95.md)
 - [Section 95A — Application before replacement of EU trade duty](part-12/section-95a.md)
 
-#### CHAPTER 3 — Transition of EU trade remedies measure[^key-dc68a8dc60108bd892ea7da55f232855]
+#### CHAPTER 3 — Transition of EU trade remedies measure[^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 96 — Determination to transition EU trade remedies measure](part-12/section-96.md)
 - [Section 96A — Transition of EU trade remedies measure](part-12/section-96a.md)
@@ -331,7 +331,7 @@ The Secretary of State for International Trade, in exercise of the powers confer
 - [Section 96C — Transition of varied EU trade remedies measure](part-12/section-96c.md)
 - [Section 96D — Transition of EU exemption after replacement of EU trade duty](part-12/section-96d.md)
 
-#### CHAPTER 3A — Exemptions to UK trade remedies measures[^key-ad66f9e7a5729ec4019d9f8bdf1b1365][^key-dc68a8dc60108bd892ea7da55f232855]
+#### CHAPTER 3A — Exemptions to UK trade remedies measures[^c-ad66f9e7a5729ec4019d9f8bdf1b1365][^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 96E — UK trade remedies measure exemption review](part-12/section-96e.md)
 - [Section 96F — Suspension of application of a UK trade remedies measure](part-12/section-96f.md)
@@ -339,33 +339,33 @@ The Secretary of State for International Trade, in exercise of the powers confer
 - [Section 96H — Acceptance or rejection by the Secretary of State of the TRA’s recommendation to grant an exemption to a UK trade remedies measure](part-12/section-96h.md)
 - [Section 96I — Treatment of public notices made under regulations 96F to 96H](part-12/section-96i.md)
 
-#### CHAPTER 4 — Transition review[^key-dc68a8dc60108bd892ea7da55f232855]
+#### CHAPTER 4 — Transition review[^c-dc68a8dc60108bd892ea7da55f232855]
 
-##### General[^key-dc68a8dc60108bd892ea7da55f232855]
+##### General[^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 97 — Transition review of EU trade remedies measure](part-12/section-97.md)
 - [Section 97A — Continuation of transition review](part-12/section-97a.md)
 - [Section 97B — Termination of transition review](part-12/section-97b.md)
 - [Section 97C — Continuation of expired UK trade remedies measure](part-12/section-97c.md)
 
-##### Initiation[^key-dc68a8dc60108bd892ea7da55f232855]
+##### Initiation[^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 98 — Initiation of transition review](part-12/section-98.md)
 - [Section 98A — Notification of transition review](part-12/section-98a.md)
 
-##### Conduct[^key-dc68a8dc60108bd892ea7da55f232855]
+##### Conduct[^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 99A — Conduct of transition review](part-12/section-99a.md)
 - [Section 99B — Determination of export price](part-12/section-99b.md)
 - [Section 99C — Relationship with other Parts](part-12/section-99c.md)
 
-##### Recommendation[^key-dc68a8dc60108bd892ea7da55f232855]
+##### Recommendation[^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 100 — Recommendation following transition review](part-12/section-100.md)
 - [Section 100A — Recommendation of variation](part-12/section-100a.md)
 - [Section 100B — Recommendation of revocation](part-12/section-100b.md)
 
-##### Decision[^key-dc68a8dc60108bd892ea7da55f232855]
+##### Decision[^c-dc68a8dc60108bd892ea7da55f232855]
 
 - [Section 101 — Powers of the Secretary of State in relation to the TRA’s recommendation](part-12/section-101.md)
 - [Section 101A — Rejection of recommendation](part-12/section-101a.md)
@@ -498,11 +498,11 @@ A copy of the Explanatory Memorandum is published alongside this instrument on w
 
 [^c24288031]: Marginal citation: [2018 c.22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-a124b99d559275a9b8b9a0ffa482a27d]: Textual amendment: Pt. 9A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/99/regulation/20)
+[^c-a124b99d559275a9b8b9a0ffa482a27d]: Textual amendment: Pt. 9A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/99/regulation/20)
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
+[^c-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
 
 [^c24288111]: Marginal citation: [2018 c.22](https://www.legislation.gov.uk/ukpga/2018/22)
 

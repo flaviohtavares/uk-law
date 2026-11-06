@@ -22,7 +22,7 @@ summary: ''
 
 (1) A deduction is allowed from earnings from an employment as a seafarer if—
 
-- (a) the earnings are relevant general earnings[^key-c1885a1e8e17d685e8ef241c66b52c58],
+- (a) the earnings are relevant general earnings[^c-c1885a1e8e17d685e8ef241c66b52c58],
 - (b) the duties of the employment are performed wholly or partly outside the United Kingdom, and
 - (c) any of those duties are performed in the course of an eligible period.
 
@@ -41,7 +41,7 @@ summary: ''
 
 (4) For this purpose a person is only regarded as being absent from the United Kingdom on any day if absent at the end of the day.
 
-(5)[^key-57818256fe844f18c53d0fb4300335db] Relevant general earnings” means—
+(5)[^c-57818256fe844f18c53d0fb4300335db] Relevant general earnings” means—
 
 - (a) taxable earnings under section 15, 22 or 26, or
 - (b) general earnings—
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1885a1e8e17d685e8ef241c66b52c58]: Textual amendment: Words in s. 378(1) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 37(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/37/2)
+[^c-c1885a1e8e17d685e8ef241c66b52c58]: Textual amendment: Words in s. 378(1) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 37(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/37/2)
 
-[^key-57818256fe844f18c53d0fb4300335db]: Textual amendment: S. 378(5) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 37(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/37/3)
+[^c-57818256fe844f18c53d0fb4300335db]: Textual amendment: S. 378(5) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 37(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/37/3)

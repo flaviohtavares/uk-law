@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. General conditions in consents to release or market genetically modified organisms[^key-6aa9f24c55326db4fe9246b8f4d8e90a]
+## 29. General conditions in consents to release or market genetically modified organisms[^c-6aa9f24c55326db4fe9246b8f4d8e90a]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aa9f24c55326db4fe9246b8f4d8e90a]: Commencement: Reg. 29 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-6aa9f24c55326db4fe9246b8f4d8e90a]: Commencement: Reg. 29 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Power to direct database operator and local housing authorities[^key-5b54f4b5c92c845401d03bc79aa4a3c2]
+## 93. Power to direct database operator and local housing authorities[^c-5b54f4b5c92c845401d03bc79aa4a3c2]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b54f4b5c92c845401d03bc79aa4a3c2]: Commencement: S. 93 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-5b54f4b5c92c845401d03bc79aa4a3c2]: Commencement: S. 93 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

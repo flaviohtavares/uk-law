@@ -25,7 +25,7 @@ summary: ''
 - (a) the buyer would, apart from this subsection, have the right to reject goods by reason of a breach on the part of the seller of a term implied by section 13, 14 or 15 above, but
 - (b) the breach is so slight that it would be unreasonable for him to reject them,
 
-[^key-f126b057a7f892953e85d5f2b312b38a]... the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
+[^c-f126b057a7f892953e85d5f2b312b38a]... the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
 
 (2) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c1108916]: Textual amendment: S. 15A inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/1994/35/section/4/1), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-f126b057a7f892953e85d5f2b312b38a]: Textual amendment: Words in [s. 15A(1)](https://www.legislation.gov.uk/ukpga/1979/54/section/15A/1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/15); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-f126b057a7f892953e85d5f2b312b38a]: Textual amendment: Words in [s. 15A(1)](https://www.legislation.gov.uk/ukpga/1979/54/section/15A/1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/15); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

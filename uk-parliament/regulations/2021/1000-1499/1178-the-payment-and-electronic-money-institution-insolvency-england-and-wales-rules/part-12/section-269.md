@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 269. The Gazette — general[^key-998720af0dde872cc2025edd64ab0d1a]
+## 269. The Gazette — general[^c-998720af0dde872cc2025edd64ab0d1a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the person whose responsibility it was to procure the requisite entry in the Gaz
 
 ## Annotations
 
-[^key-998720af0dde872cc2025edd64ab0d1a]: Commencement: Rule 269 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-998720af0dde872cc2025edd64ab0d1a]: Commencement: Rule 269 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

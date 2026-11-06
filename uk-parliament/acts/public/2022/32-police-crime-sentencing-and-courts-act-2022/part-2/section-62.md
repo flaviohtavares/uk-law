@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Increase in penalty for offences related to game etc[^key-3b6c498d751155fcdc02540f5ef40acc][^key-c12619c494ac7071ba356671eb8a6790]
+## 62. Increase in penalty for offences related to game etc[^c-3b6c498d751155fcdc02540f5ef40acc][^c-c12619c494ac7071ba356671eb8a6790]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b6c498d751155fcdc02540f5ef40acc]: Commencement: S. 62 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-3b6c498d751155fcdc02540f5ef40acc]: Commencement: S. 62 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-c12619c494ac7071ba356671eb8a6790]: Commencement: S. 62 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-c12619c494ac7071ba356671eb8a6790]: Commencement: S. 62 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

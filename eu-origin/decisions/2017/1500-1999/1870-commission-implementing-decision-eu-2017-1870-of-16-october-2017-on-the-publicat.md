@@ -73,7 +73,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The reference of the European standard on electronic invoicing ‘EN 16931-1:2017, Electronic invoicing — Part 1: Semantic data model of the core elements of an electronic invoice’ and the list of syntaxes with reference ‘CEN/TS 16931-2:2017, Electronic invoicing — Part 2: List of syntaxes that comply with EN 16931-1’, as set out in the Annex to this Decision, are hereby published.
 
-## Article 1A.[^key-becd5d0a73e96104e34fd272772543b4]
+## Article 1A.[^c-becd5d0a73e96104e34fd272772543b4]
 
 1. The Minister for the Cabinet Office may make regulations—
 
@@ -88,7 +88,7 @@ HAS ADOPTED THIS DECISION:
 
 4. Regulations under this Article may make consequential, supplementary, incidental, transitional, transitory or saving provision.
 
-**Article 2.**[^key-8d61c0e0c5c224974f4b50c84de005b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8d61c0e0c5c224974f4b50c84de005b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 3.** This Decision shall enter into force on the first day following that of its publication in the *Official Journal of the European Union*.
 
@@ -102,7 +102,7 @@ Jean-Claude Juncker
 
 ## ANNEX — LIST OF SYNTAXES
 
-The list of syntaxes mentioned in Article 1[^key-a654c043212f76be6f3ddefa1713561a] is provided by CEN in clause 7 of CEN/TS 16931-2:2017, published on 28 June 2017.
+The list of syntaxes mentioned in Article 1[^c-a654c043212f76be6f3ddefa1713561a] is provided by CEN in clause 7 of CEN/TS 16931-2:2017, published on 28 June 2017.
 
 The 2 syntaxes are the following:
 
@@ -115,11 +115,11 @@ The 2 syntaxes are the following:
 
 [^f00002]: Footnote: Commission Implementing Decision C(2014) 7912 final of 10 December 2014 on a standardisation request to the European standardisation organisations as regards a European standard on electronic invoicing and a set of ancillary standardisation deliverables pursuant to Regulation (EU) No 1025/2012 of the European Parliament and of the Council (M/528).
 
-[^key-becd5d0a73e96104e34fd272772543b4]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eudn/2017/1870/article/1A) inserted (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24/2) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
+[^c-becd5d0a73e96104e34fd272772543b4]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eudn/2017/1870/article/1A) inserted (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24/2) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
 
-[^key-8d61c0e0c5c224974f4b50c84de005b5]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2017/1870/article/2) omitted (31.12.2020) by virtue of [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24/3) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
+[^c-8d61c0e0c5c224974f4b50c84de005b5]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2017/1870/article/2) omitted (31.12.2020) by virtue of [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24/3) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
 
-[^key-a654c043212f76be6f3ddefa1713561a]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eudn/2017/1870/annex) substituted (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [24(4)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24/4) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
+[^c-a654c043212f76be6f3ddefa1713561a]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eudn/2017/1870/annex) substituted (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [24(4)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24/4) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
 
 [^f00003]: Footnote: These documents are made available by UNECE (United Nations Economic Commission for Europe) at http://www.unece.org/cefact/xml\_schemas/index
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 321A. Objectives for advertisements: less healthy food and drink[^key-dd13e2cef27e5cc98d84e7e88f491f10]
+## 321A. Objectives for advertisements: less healthy food and drink[^c-dd13e2cef27e5cc98d84e7e88f491f10]
 
 *Extent: E+W+S+N.I.*
 
 (1) OFCOM must set standards by virtue of section 321(1)(b) prohibiting television programme services provided between 5.30 am and 9.00 pm from including advertisements for an identifiable less healthy food or drink product, except as provided for by subsection (3).
 
-(2) OFCOM must ensure that the prohibition provided for by the first standards set by virtue of subsection (1) takes effect from the beginning of 5 January 2026[^key-ee5678528e91863b5ff2041334cc7ce5].
+(2) OFCOM must ensure that the prohibition provided for by the first standards set by virtue of subsection (1) takes effect from the beginning of 5 January 2026[^c-ee5678528e91863b5ff2041334cc7ce5].
 
 (3) Standards set by virtue of subsection (1) must exempt from the prohibition imposed by them—
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd13e2cef27e5cc98d84e7e88f491f10]: Textual amendment: S. 321A inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/1)
+[^c-dd13e2cef27e5cc98d84e7e88f491f10]: Textual amendment: S. 321A inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/1)
 
-[^key-ee5678528e91863b5ff2041334cc7ce5]: Textual amendment: Words in s. 321A(2) substituted (1.7.2025) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) Regulations 2025 (S.I. 2025/641)](https://www.legislation.gov.uk/uksi/2025/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/641/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/641/regulation/2/2)
+[^c-ee5678528e91863b5ff2041334cc7ce5]: Textual amendment: Words in s. 321A(2) substituted (1.7.2025) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) Regulations 2025 (S.I. 2025/641)](https://www.legislation.gov.uk/uksi/2025/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/641/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/641/regulation/2/2)

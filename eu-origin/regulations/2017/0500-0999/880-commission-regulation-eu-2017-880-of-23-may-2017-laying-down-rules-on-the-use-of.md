@@ -73,18 +73,18 @@ For the purposes of this Regulation, the following definitions shall apply:
 - ((4)) ‘minor species’ means any species other than major species;
 - ((5)) ‘related species’ means species belonging to the same category of food producing species of ruminants, monogastrics, mammals, birds or fish;
 - ((6)) ‘unrelated species’ means species belonging to different categories of food producing species.
-- ((7)) ‘appropriate authority’ is to be read in accordance with Article 3(2) and (3).[^key-7901332ebcfdd4b9b53e01d734d54a87]
+- ((7)) ‘appropriate authority’ is to be read in accordance with Article 3(2) and (3).[^c-7901332ebcfdd4b9b53e01d734d54a87]
 
 ## Article 3. Principles for extrapolation
 
-(1.)[^key-b2e3e386a7fcbb06ef0a94c4516acd6f] The appropriate authority[^key-645677666d614147a023e9c7d192cfdf] shall consider the extrapolation of MRLs where there is MRL or ‘No MRL required’ status established for the pharmacologically active substance and one of the following circumstances applies to the concerned species:
+(1.)[^c-b2e3e386a7fcbb06ef0a94c4516acd6f] The appropriate authority[^c-645677666d614147a023e9c7d192cfdf] shall consider the extrapolation of MRLs where there is MRL or ‘No MRL required’ status established for the pharmacologically active substance and one of the following circumstances applies to the concerned species:
 
 - ((1)) It is related to a major reference species for which MRLs have been established or a ‘No MRL required’ status exists for the concerned tissue/food commodity;
 - ((2)) It is related to a minor reference species for which MRLs have been established or a ‘No MRL required’ status exists for the concerned tissue/food commodity;
 - ((3)) It is unrelated to the reference species for which MRLs have been established or a ‘No MRL required’ status exists for the concerned tissue/food commodity;
 - ((4)) MRL has been established for the concerned species but not for the concerned tissue/food commodity.
 
-(2.)[^key-4acf4b5a87b93018fb67d3eb2c2e437c] In paragraph 1, “**appropriate authority**” means—
+(2.)[^c-4acf4b5a87b93018fb67d3eb2c2e437c] In paragraph 1, “**appropriate authority**” means—
 
 - (a) in relation to England, Wales and Scotland, the Secretary of State;
 - (b) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
@@ -93,7 +93,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 ## Article 4. Minimum criteria for extrapolation
 
-The appropriate authority[^key-65072d52f4ccab06ea9ad4bae6fb44d9] may undertake extrapolation only when all of the following conditions are fulfilled:
+The appropriate authority[^c-65072d52f4ccab06ea9ad4bae6fb44d9] may undertake extrapolation only when all of the following conditions are fulfilled:
 
 - ((a)) a full set of residue data for the reference species is available to the appropriate authority;
 - ((b)) the degree to which the pharmacologically active substance is metabolised in the reference species is established;
@@ -144,7 +144,7 @@ When considering the extrapolation across food commodities, the appropriate auth
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-337e40ad8111cafd3a1566c5852a8a09]...
+[^c-337e40ad8111cafd3a1566c5852a8a09]...
 
 Done at Brussels, 23 May 2017.
 
@@ -178,14 +178,14 @@ Extrapolation from major to minor species:
 
 [^f00001]: Footnote: [OJ L 152, 16.6.2009, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.152.01.0011.01.ENG).
 
-[^key-7901332ebcfdd4b9b53e01d734d54a87]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/eur/2017/880/article/2/7) inserted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7901332ebcfdd4b9b53e01d734d54a87]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/eur/2017/880/article/2/7) inserted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2e3e386a7fcbb06ef0a94c4516acd6f]: Textual amendment: Art. 3 renumbered as Art. 3(1) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(3)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2e3e386a7fcbb06ef0a94c4516acd6f]: Textual amendment: Art. 3 renumbered as Art. 3(1) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(3)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-645677666d614147a023e9c7d192cfdf]: Textual amendment: Words in Art. 3(1) substituted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-645677666d614147a023e9c7d192cfdf]: Textual amendment: Words in Art. 3(1) substituted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4acf4b5a87b93018fb67d3eb2c2e437c]: Textual amendment: Art. 3(2)(3) inserted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(3)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4acf4b5a87b93018fb67d3eb2c2e437c]: Textual amendment: Art. 3(2)(3) inserted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(3)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65072d52f4ccab06ea9ad4bae6fb44d9]: Textual amendment: Words in [Arts. 4-7](https://www.legislation.gov.uk/eur/2017/880/article/4) substituted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65072d52f4ccab06ea9ad4bae6fb44d9]: Textual amendment: Words in [Arts. 4-7](https://www.legislation.gov.uk/eur/2017/880/article/4) substituted (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-337e40ad8111cafd3a1566c5852a8a09]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-337e40ad8111cafd3a1566c5852a8a09]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2019/676/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

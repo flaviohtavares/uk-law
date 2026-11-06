@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. ESOS action plan[^key-a99f91c5d3faa8d79c58f9016e87cef5]
+## 34A. ESOS action plan[^c-a99f91c5d3faa8d79c58f9016e87cef5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
   - (i) each measure to improve its energy efficiency that the participant proposes to implement before the end of the relevant compliance period,
   - (ii) whether the measure was recommended by an energy audit in accordance with regulation 27(1)(c),
   - (iii) the date by which the participant proposes to implement the measure,
-  - (iv) an estimate of the total energy savings that the participant reasonably expects to achieve during the relevant compliance period by implementing the measure, in kWh[^key-8fbce0b6db0e93e1f319706c4bc64cfc],
-  - (v) an estimate of the amount of the energy savings referred to in paragraph (iv) that the participant reasonably expects to achieve in relation to each organisational purpose, in kWh[^key-dfa6ff42ca914caf623329825a99677d], and
+  - (iv) an estimate of the total energy savings that the participant reasonably expects to achieve during the relevant compliance period by implementing the measure, in kWh[^c-8fbce0b6db0e93e1f319706c4bc64cfc],
+  - (v) an estimate of the amount of the energy savings referred to in paragraph (iv) that the participant reasonably expects to achieve in relation to each organisational purpose, in kWh[^c-dfa6ff42ca914caf623329825a99677d], and
   - (vi) the method used to calculate the estimate under paragraph (iv), or
 - (b) containing a statement that there is no measure to improve its energy efficiency that the participant proposes to implement before the end of the relevant compliance period.
 
@@ -65,14 +65,14 @@ summary: ''
 
 (10) In this Regulation “**relevant compliance period**” means the compliance period following the compliance period to which the notification referred to in paragraph (1) relates.
 
-(11)[^key-db99eb67079d5f94515fbe5e2e0c9edf] This regulation does not apply to a participant which is deemed to have complied with this Part by virtue of regulation 33A.
+(11)[^c-db99eb67079d5f94515fbe5e2e0c9edf] This regulation does not apply to a participant which is deemed to have complied with this Part by virtue of regulation 33A.
 
 ## Annotations
 
-[^key-a99f91c5d3faa8d79c58f9016e87cef5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2014/1643/part/6A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1182/regulation/26)
+[^c-a99f91c5d3faa8d79c58f9016e87cef5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2014/1643/part/6A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1182/regulation/26)
 
-[^key-8fbce0b6db0e93e1f319706c4bc64cfc]: Textual amendment: Word in [reg. 34A(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34A/3/a/iv) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [27(a)(i)](https://www.legislation.gov.uk/uksi/2026/701/regulation/27/a/i)
+[^c-8fbce0b6db0e93e1f319706c4bc64cfc]: Textual amendment: Word in [reg. 34A(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34A/3/a/iv) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [27(a)(i)](https://www.legislation.gov.uk/uksi/2026/701/regulation/27/a/i)
 
-[^key-dfa6ff42ca914caf623329825a99677d]: Textual amendment: Word in [reg. 34A(3)(a)(v)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34A/3/a/v) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2026/701/regulation/27/a/ii)
+[^c-dfa6ff42ca914caf623329825a99677d]: Textual amendment: Word in [reg. 34A(3)(a)(v)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34A/3/a/v) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2026/701/regulation/27/a/ii)
 
-[^key-db99eb67079d5f94515fbe5e2e0c9edf]: Textual amendment: [Reg. 34A(11)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34A/11) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/27/b)
+[^c-db99eb67079d5f94515fbe5e2e0c9edf]: Textual amendment: [Reg. 34A(11)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34A/11) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/27/b)

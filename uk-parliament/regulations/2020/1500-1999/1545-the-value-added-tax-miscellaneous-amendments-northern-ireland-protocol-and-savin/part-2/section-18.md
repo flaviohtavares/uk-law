@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendment of the Customs and Excise Duties (Personal Reliefs for Goods Permanently Imported) Order 1992[^key-9ad41e058bd2134bf8dca57ff747450a]
+## 18. Amendment of the Customs and Excise Duties (Personal Reliefs for Goods Permanently Imported) Order 1992[^c-9ad41e058bd2134bf8dca57ff747450a]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,7 +92,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad41e058bd2134bf8dca57ff747450a]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-9ad41e058bd2134bf8dca57ff747450a]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24394901]: Marginal citation: [S.I. 1992/3193](https://www.legislation.gov.uk/uksi/1992/3193); relevantly modified and amended by [S.I. 2006/3157](https://www.legislation.gov.uk/uksi/2006/3157), 2006/3158, 2011/1043 and 2019/91. The amendment made by [S.I. 2019/91](https://www.legislation.gov.uk/uksi/2019/91) was from a day to be appointed and has not been commenced, and is partly omitted by this instrument.
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c20103041] Regulations under section 80A or 80B[^key-122b815f3941ba265c822e1e123f7091] may—
+(1)[^c20103041] Regulations under section 80A or 80B[^c-122b815f3941ba265c822e1e123f7091] may—
 
 - (a) make provision about notices to be given, evidence to be produced and other procedures to be followed by employees and employers;
 - (b) make provision requiring employers or employees to keep records;
@@ -31,7 +31,7 @@ summary: ''
 - (g) make provision applying, modifying or excluding an enactment, in such circumstances as may be specified and subject to any conditions which may be specified, in relation to a person entitled to take leave under section 80A or 80B;
 - (h) make different provision for different cases or circumstances.
 
-(2)[^key-7092e10588bad6127b6d671bccd22e7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7092e10588bad6127b6d671bccd22e7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c20103041]: Textual amendment: S. 80E renumbered (3.3.2010) as s. 80E(1) by [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [ss. 11](https://www.legislation.gov.uk/ukpga/2006/18/section/11), [19](https://www.legislation.gov.uk/ukpga/2006/18/section/19), [Sch. 1 para. 38(3)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/38/3); [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-122b815f3941ba265c822e1e123f7091]: Textual amendment: Words in s. 80E(1) substituted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 36(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/36/2); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(q)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/q) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-122b815f3941ba265c822e1e123f7091]: Textual amendment: Words in s. 80E(1) substituted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 36(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/36/2); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(q)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/q) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-7092e10588bad6127b6d671bccd22e7c]: Textual amendment: S. 80E(2) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 36(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/36/3); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(q)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/q) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-7092e10588bad6127b6d671bccd22e7c]: Textual amendment: S. 80E(2) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 36(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/36/3); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(q)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/q) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))

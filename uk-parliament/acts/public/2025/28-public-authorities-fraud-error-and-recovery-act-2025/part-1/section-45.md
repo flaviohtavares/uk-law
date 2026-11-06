@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Duty to notify the Minister of change of circumstances[^key-438edbee9cf97f1b39efb97aa4e5386e][^key-ac29f991300c41df0aac99ac3d1c21df]
+## 45. Duty to notify the Minister of change of circumstances[^c-438edbee9cf97f1b39efb97aa4e5386e][^c-ac29f991300c41df0aac99ac3d1c21df]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ must, within 10 days of the beginning of the liable person’s employment, notif
 
 ## Annotations
 
-[^key-438edbee9cf97f1b39efb97aa4e5386e]: Commencement: S. 45 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-438edbee9cf97f1b39efb97aa4e5386e]: Commencement: S. 45 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ac29f991300c41df0aac99ac3d1c21df]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2025/28/section/45) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-ac29f991300c41df0aac99ac3d1c21df]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2025/28/section/45) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Duties when exercising functions[^key-ea33804cb3dfb3be0894fee677cfb605][^key-32ee694b056c44cc85e27527a3c47bd1]
+## 7. Duties when exercising functions[^c-ea33804cb3dfb3be0894fee677cfb605][^c-32ee694b056c44cc85e27527a3c47bd1]
 
 *Extent: S*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea33804cb3dfb3be0894fee677cfb605]: Commencement: S. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-ea33804cb3dfb3be0894fee677cfb605]: Commencement: S. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-32ee694b056c44cc85e27527a3c47bd1]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/11/section/7) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-32ee694b056c44cc85e27527a3c47bd1]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/11/section/7) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Revocation of Council Decisions 2012/381/EU and 2012/472/EU[^key-c30cc17d18393cf5952d561a9ad8aa51]
+## 105. Revocation of Council Decisions 2012/381/EU and 2012/472/EU[^c-c30cc17d18393cf5952d561a9ad8aa51]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following Council Decisions are revoked—
 
 ## Annotations
 
-[^key-c30cc17d18393cf5952d561a9ad8aa51]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c30cc17d18393cf5952d561a9ad8aa51]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

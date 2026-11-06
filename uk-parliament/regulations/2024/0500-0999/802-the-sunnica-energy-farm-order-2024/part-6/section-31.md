@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Benefit of the Order[^key-c63129f8c0d4710c901721373f33b655]
+## 31. Benefit of the Order[^c-c63129f8c0d4710c901721373f33b655]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to article 32 (consent to transfer the benefit of the Order), the provis
 
 ## Annotations
 
-[^key-c63129f8c0d4710c901721373f33b655]: Commencement: Art. 31 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-c63129f8c0d4710c901721373f33b655]: Commencement: Art. 31 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

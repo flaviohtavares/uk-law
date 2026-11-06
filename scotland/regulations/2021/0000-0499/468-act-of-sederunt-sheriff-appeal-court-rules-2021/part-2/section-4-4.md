@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.4. Lay representation: functions, conditions and duties[^key-6aa91397f867a76b8807be01e1ae0252]
+## 4.4. Lay representation: functions, conditions and duties[^c-6aa91397f867a76b8807be01e1ae0252]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aa91397f867a76b8807be01e1ae0252]: Commencement: Para. 4.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6aa91397f867a76b8807be01e1ae0252]: Commencement: Para. 4.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Pension funds: governance compliance statement[^key-be7357b7df74c9055c2cd10ff93b94d8]
+## 31. Pension funds: governance compliance statement[^c-be7357b7df74c9055c2cd10ff93b94d8]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be7357b7df74c9055c2cd10ff93b94d8]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-be7357b7df74c9055c2cd10ff93b94d8]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00033]: Footnote: Regulation 73A was inserted by [S.I.2005/3199](https://www.legislation.gov.uk/uksi/2005/3199) and substituted by [S.I.2007/1561](https://www.legislation.gov.uk/uksi/2007/1561).

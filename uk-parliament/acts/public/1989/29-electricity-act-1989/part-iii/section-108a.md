@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108A. Extraterritorial operation of Act[^key-d441f1f7e0de5dd53328500fba4f18fd]
+## 108A. Extraterritorial operation of Act[^c-d441f1f7e0de5dd53328500fba4f18fd]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d441f1f7e0de5dd53328500fba4f18fd]: Textual amendment: [S. 108A](https://www.legislation.gov.uk/ukpga/1989/29/section/108A) inserted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 102(5)](https://www.legislation.gov.uk/ukpga/2004/20/section/102/5), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-d441f1f7e0de5dd53328500fba4f18fd]: Textual amendment: [S. 108A](https://www.legislation.gov.uk/ukpga/1989/29/section/108A) inserted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 102(5)](https://www.legislation.gov.uk/ukpga/2004/20/section/102/5), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)

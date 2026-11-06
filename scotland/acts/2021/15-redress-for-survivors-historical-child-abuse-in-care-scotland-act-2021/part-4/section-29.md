@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Application for a redress payment[^key-2989d5ab04b865dfc0cc194c054f7837]
+## 29. Application for a redress payment[^c-2989d5ab04b865dfc0cc194c054f7837]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2989d5ab04b865dfc0cc194c054f7837]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2021/15/section/29) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-2989d5ab04b865dfc0cc194c054f7837]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2021/15/section/29) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Vacancies[^key-0c53d1dbf182d61b7c3e1de7a97273b2]
+## 76. Vacancies[^c-0c53d1dbf182d61b7c3e1de7a97273b2]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c53d1dbf182d61b7c3e1de7a97273b2]: Commencement: Rule 76 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0c53d1dbf182d61b7c3e1de7a97273b2]: Commencement: Rule 76 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

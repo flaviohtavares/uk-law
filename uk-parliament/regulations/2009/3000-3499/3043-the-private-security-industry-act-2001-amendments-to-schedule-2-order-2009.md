@@ -46,13 +46,13 @@ In accordance with paragraphs 1(3) and 7(3) of Schedule 2 to that Act a draft of
 
 In accordance with section 24(4)[^f00002] of that Act the Secretary of State has consulted the Scottish Ministers and the Security Industry Authority before laying a draft of this Order before Parliament.
 
-## 1. Citation, commencement and interpretation[^key-3b5fc89ab315ee95bff04d79e9ce163d]
+## 1. Citation, commencement and interpretation[^c-3b5fc89ab315ee95bff04d79e9ce163d]
 
 (1) This Order may be cited as the Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 and shall come into force on the day after the day on which it is made.
 
 (2) In this Order “the 2001 Act” means the Private Security Industry Act 2001.
 
-## 2. Amendments to Part 1 of Schedule 2 to the 2001 Act[^key-205f8b9070f36437cf25ff6cc130c1db]
+## 2. Amendments to Part 1 of Schedule 2 to the 2001 Act[^c-205f8b9070f36437cf25ff6cc130c1db]
 
 (1) Paragraph 2(7) of Schedule 2 to the 2001 Act (Manned guarding) is amended as follows.
 
@@ -87,7 +87,7 @@ In accordance with section 24(4)[^f00002] of that Act the Secretary of State has
 
 .
 
-## 3.[^key-95638d80cfb0c7e8100700db5cae053e]
+## 3.[^c-95638d80cfb0c7e8100700db5cae053e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,7 +95,7 @@ In accordance with section 24(4)[^f00002] of that Act the Secretary of State has
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to Part 2 of Schedule 2 to the 2001 Act[^key-4ea4ec735715c758c1f28dbae56bf8e1]
+## 5. Amendments to Part 2 of Schedule 2 to the 2001 Act[^c-4ea4ec735715c758c1f28dbae56bf8e1]
 
 After paragraph 8(1BC)[^f00018] of Schedule 2 to the 2001 Act (Door supervisors etc for public houses, clubs and comparable venues), insert—
 
@@ -106,13 +106,13 @@ After paragraph 8(1BC)[^f00018] of Schedule 2 to the 2001 Act (Door supervisors 
 
 .
 
-**6.**[^key-adf79a71d4f1326067b99de76f80fba9] After paragraph 8(2)(n) of Schedule 2 to the 2001 Act (as inserted by the Private Security Industry Act 2001 (Amendment) (Northern Ireland) Order 2009), insert—
+**6.**[^c-adf79a71d4f1326067b99de76f80fba9] After paragraph 8(2)(n) of Schedule 2 to the 2001 Act (as inserted by the Private Security Industry Act 2001 (Amendment) (Northern Ireland) Order 2009), insert—
 
 > - (o) any place in respect of which an entertainments licence within the meaning of Schedule 1 to the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985 is in force.
 
 .
 
-**7.**[^key-607b76663680bcceedcd3289900f1210] (1) Paragraph 8(3)[^f00021] of Schedule 2 to the 2001 Act is amended as follows.
+**7.**[^c-607b76663680bcceedcd3289900f1210] (1) Paragraph 8(3)[^f00021] of Schedule 2 to the 2001 Act is amended as follows.
 
 (2) After paragraph (b), insert—
 
@@ -150,9 +150,9 @@ Schedule 2 to the Private Security Industry Act 2001 lists various activities of
 
 [^f00002]: Footnote: Section 24(4) of the 2001 Act has been amended by paragraph 11(e) of Schedule 15 to the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-3b5fc89ab315ee95bff04d79e9ce163d]: Commencement: Art. 1 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
+[^c-3b5fc89ab315ee95bff04d79e9ce163d]: Commencement: Art. 1 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
 
-[^key-205f8b9070f36437cf25ff6cc130c1db]: Commencement: Art. 2 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
+[^c-205f8b9070f36437cf25ff6cc130c1db]: Commencement: Art. 2 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
 
 [^f00003]: Footnote: Paragraph 2(7)(aa) of Schedule 2 to the 2001 Act was inserted by [S.I. 2007/2201](https://www.legislation.gov.uk/uksi/2007/2201).
 
@@ -170,11 +170,11 @@ Schedule 2 to the Private Security Industry Act 2001 lists various activities of
 
 [^f00010]: Footnote: [1847 c.27](https://www.legislation.gov.uk/ukpga/1847/27).
 
-[^key-95638d80cfb0c7e8100700db5cae053e]: Annotation text not found in the source document.
+[^c-95638d80cfb0c7e8100700db5cae053e]: Annotation text not found in the source document.
 
 [^M_F_3eee3ac1-a57d-4b02-de1b-7660c183c917]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2009/3043/article/4) revoked (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/h)
 
-[^key-4ea4ec735715c758c1f28dbae56bf8e1]: Commencement: Art. 5 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
+[^c-4ea4ec735715c758c1f28dbae56bf8e1]: Commencement: Art. 5 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
 
 [^f00018]: Footnote: Paragraph 8(1BC) of Schedule 2 to the 2001 Act was inserted by [S.I. 2007/2201](https://www.legislation.gov.uk/uksi/2007/2201).
 
@@ -182,9 +182,9 @@ Schedule 2 to the Private Security Industry Act 2001 lists various activities of
 
 [^f00020]: Footnote: [S.I. 1985/1208 (N.I. 15)](https://www.legislation.gov.uk/nisi/1985/1208), to which there are amendments not relevant to this Order.
 
-[^key-adf79a71d4f1326067b99de76f80fba9]: Commencement: Art. 6 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
+[^c-adf79a71d4f1326067b99de76f80fba9]: Commencement: Art. 6 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
 
-[^key-607b76663680bcceedcd3289900f1210]: Commencement: Art. 7 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
+[^c-607b76663680bcceedcd3289900f1210]: Commencement: Art. 7 in force at 19.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1)
 
 [^f00021]: Footnote: Paragraph 8(3) of Schedule 2 to the 2001 Act was inserted by section 198(1) of, and Schedule 6 to, the Licensing Act [2003 (c.17)](https://www.legislation.gov.uk/ukpga/2003/17).
 

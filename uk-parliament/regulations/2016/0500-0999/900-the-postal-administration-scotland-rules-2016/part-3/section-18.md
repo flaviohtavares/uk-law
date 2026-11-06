@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Notices to creditors[^key-6dcfd638bc46318a5300790216b7b5ab]
+## 18. Notices to creditors[^c-6dcfd638bc46318a5300790216b7b5ab]
 
 *Extent: S*
 
@@ -26,10 +26,10 @@ summary: ''
 - (b) lodge in court, and send to any creditors who did not receive notice of the meeting and of whose claim the postal administrator has become subsequently aware, a copy of the notice of the result of the meeting along with a copy of the proposals which were considered at that meeting; and
 - (c) place a copy of the notice of the result of the meeting in the sederunt book.
 
-(2) Where the business of a creditors’ meeting has been carried out by correspondence in accordance with Rule 24[^key-bc9cfdd3c2d620da1c6e080b96a2a5f1], for the references in the foregoing paragraph of this Rule to the result of the meeting and notice of the meeting there shall be substituted references to the result of the correspondence and to the correspondence.
+(2) Where the business of a creditors’ meeting has been carried out by correspondence in accordance with Rule 24[^c-bc9cfdd3c2d620da1c6e080b96a2a5f1], for the references in the foregoing paragraph of this Rule to the result of the meeting and notice of the meeting there shall be substituted references to the result of the correspondence and to the correspondence.
 
 ## Annotations
 
-[^key-6dcfd638bc46318a5300790216b7b5ab]: Commencement: Rule 18 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-6dcfd638bc46318a5300790216b7b5ab]: Commencement: Rule 18 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-bc9cfdd3c2d620da1c6e080b96a2a5f1]: Textual amendment: Words in [rule 18(2)](https://www.legislation.gov.uk/uksi/2016/900/rule/18/2) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-bc9cfdd3c2d620da1c6e080b96a2a5f1]: Textual amendment: Words in [rule 18(2)](https://www.legislation.gov.uk/uksi/2016/900/rule/18/2) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

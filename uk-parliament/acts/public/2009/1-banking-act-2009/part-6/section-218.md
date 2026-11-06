@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Information[^key-630a758c02170563b826728a7c97cf4f]
+## 218. Information[^c-630a758c02170563b826728a7c97cf4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-630a758c02170563b826728a7c97cf4f]: Commencement: S. 218 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-630a758c02170563b826728a7c97cf4f]: Commencement: S. 218 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

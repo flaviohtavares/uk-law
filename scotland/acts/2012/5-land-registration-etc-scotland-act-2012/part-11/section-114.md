@@ -25,11 +25,11 @@ summary: ''
 - (a) any reference to “registration” is to registration in the register, and
 - (b) analogous expressions are to be construed accordingly.
 
-(2)[^key-a521a007d627458d395dbc970981c364] Unless the context otherwise requires—
+(2)[^c-a521a007d627458d395dbc970981c364] Unless the context otherwise requires—
 
 - (a) any reference, however expressed, in any enactment to “registering” a document in the register, is to be construed as including a reference to giving effect to that document in accordance either with section 30 or with section 31, and
 - (b) analogous expressions are to be construed accordingly.
 
 ## Annotations
 
-[^key-a521a007d627458d395dbc970981c364]: Commencement: [S. 114(2)](https://www.legislation.gov.uk/asp/2012/5/section/114/2) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-a521a007d627458d395dbc970981c364]: Commencement: [S. 114(2)](https://www.legislation.gov.uk/asp/2012/5/section/114/2) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

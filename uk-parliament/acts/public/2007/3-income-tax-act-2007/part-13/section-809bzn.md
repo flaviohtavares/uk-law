@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809BZN. Exceptions[^key-3505134a949ee81b9b3c39ca1fb9244b]
+## 809BZN. Exceptions[^c-3505134a949ee81b9b3c39ca1fb9244b]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 (9) A finance arrangement code does not apply so far as sections 228B and 228C of CAA 2001 (finance leaseback) apply in relation to the arrangement.
 
-(9A)[^key-4d18cc50fee22c8258437e5220b05047] A finance arrangement code does not apply if the arrangement is a right-of-use lease—
+(9A)[^c-4d18cc50fee22c8258437e5220b05047] A finance arrangement code does not apply if the arrangement is a right-of-use lease—
 
 - (a) under which the relevant person is a lessee, and
 - (b) which, were that person required under generally accepted accounting practice to determine whether the lease falls to be treated in the accounts of that person as a finance lease or loan, would not fall to be so treated.
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3505134a949ee81b9b3c39ca1fb9244b]: Textual amendment: Ss. 809BZM-809BZP and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-3505134a949ee81b9b3c39ca1fb9244b]: Textual amendment: Ss. 809BZM-809BZP and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-4d18cc50fee22c8258437e5220b05047]: Textual amendment: S. 809BZN(9A)(9B) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/3)
+[^c-4d18cc50fee22c8258437e5220b05047]: Textual amendment: S. 809BZN(9A)(9B) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/3)

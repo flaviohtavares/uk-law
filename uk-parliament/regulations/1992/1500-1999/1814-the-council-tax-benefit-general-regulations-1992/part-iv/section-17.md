@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Calculation of weekly income[^key-bacfab18ad20a026a32af758cf557e07]
+## 17. Calculation of weekly income[^c-bacfab18ad20a026a32af758cf557e07]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ For the purposes of regulations 14 to 16 (average weekly income), where the peri
 
 ## Annotations
 
-[^key-bacfab18ad20a026a32af758cf557e07]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1992/1814/regulation/17) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-bacfab18ad20a026a32af758cf557e07]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1992/1814/regulation/17) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

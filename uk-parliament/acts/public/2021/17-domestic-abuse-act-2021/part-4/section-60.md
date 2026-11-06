@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Guidance[^key-3d7bb2d5f096852c62a686bbed6f062f]
+## 60. Guidance[^c-3d7bb2d5f096852c62a686bbed6f062f]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d7bb2d5f096852c62a686bbed6f062f]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/17/section/60) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)
+[^c-3d7bb2d5f096852c62a686bbed6f062f]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/17/section/60) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)

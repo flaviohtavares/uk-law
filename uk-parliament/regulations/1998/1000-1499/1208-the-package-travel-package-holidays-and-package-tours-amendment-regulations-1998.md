@@ -48,23 +48,23 @@ Whereas the Secretary of State is a Minister designated[^f00001] for the purpose
 
 Now, therefore the Secretary of State, in exercise of the powers conferred upon her by section 2(2) of that Act hereby makes the following Regulations:—
 
-## 1. Citation and Commencement[^key-ba6cf20eb6c49e2913fc63c30cc5ce8e]
+## 1. Citation and Commencement[^c-ba6cf20eb6c49e2913fc63c30cc5ce8e]
 
 These Regulations may be cited as the Package Travel, Package Holidays and Package Tours (Amendment) Regulations 1998 and shall come into force on 30th June 1998.
 
-## 2. Interpretation[^key-6bd20f5d2ad7dccab5991a6c56405367]
+## 2. Interpretation[^c-6bd20f5d2ad7dccab5991a6c56405367]
 
 Terms used in these Regulations shall have the same meaning as in the Package Travel, Package Holidays and Package Tours Regulations 1992[^f00003] (“the principal Regulations”).
 
-## 3. Application of regulation 4[^key-78b57da79358ec20378fb3e4d61371e2]
+## 3. Application of regulation 4[^c-78b57da79358ec20378fb3e4d61371e2]
 
 Regulation 4 below shall not apply where a brochure is made available to a consumer at any time which is identical to a brochure first made available to consumers generally before 1st October 1998.
 
-## 4. Requirements as to brochures[^key-e5756206dd45492fb96becc93a09f40b]
+## 4. Requirements as to brochures[^c-e5756206dd45492fb96becc93a09f40b]
 
 In paragraph 5 of Schedule 1 to the principal Regulations the words “nationals of the member State or States in which the brochure is made available” shall be substituted for the words “British citizens”.
 
-## 5. Information to be provided before contract is concluded[^key-4e3ef1804baf4d0c682e8f3e1acad234]
+## 5. Information to be provided before contract is concluded[^c-4e3ef1804baf4d0c682e8f3e1acad234]
 
 In regulation 7(2)(a) of the principal Regulations the words “nationals of the member State or States concerned” shall be substituted for the words “British Citizens”.
 
@@ -88,14 +88,14 @@ A Regulatory Appraisal has been drawn up, and copies have been placed in the lib
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-ba6cf20eb6c49e2913fc63c30cc5ce8e]: Commencement: Reg. 1 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
+[^c-ba6cf20eb6c49e2913fc63c30cc5ce8e]: Commencement: Reg. 1 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
 
-[^key-6bd20f5d2ad7dccab5991a6c56405367]: Commencement: Reg. 2 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
+[^c-6bd20f5d2ad7dccab5991a6c56405367]: Commencement: Reg. 2 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
 
 [^f00003]: Footnote: S.I. [1992/3288](https://www.legislation.gov.uk/uksi/1992/3288), as extended by section 2(1) of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) and amended by the Package Travel, Package Holidays and Package Tours (Amendment) Regulations 1995 (S.I. [1995/1648](https://www.legislation.gov.uk/uksi/1995/1648)).
 
-[^key-78b57da79358ec20378fb3e4d61371e2]: Commencement: Reg. 3 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
+[^c-78b57da79358ec20378fb3e4d61371e2]: Commencement: Reg. 3 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
 
-[^key-e5756206dd45492fb96becc93a09f40b]: Commencement: Reg. 4 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
+[^c-e5756206dd45492fb96becc93a09f40b]: Commencement: Reg. 4 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
 
-[^key-4e3ef1804baf4d0c682e8f3e1acad234]: Commencement: Reg. 5 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)
+[^c-4e3ef1804baf4d0c682e8f3e1acad234]: Commencement: Reg. 5 in force at 30.6.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1208/regulation/1)

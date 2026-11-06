@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**315.**[^key-ee3474c0f2b09e4239d0f27d2ac4974a] In section 193 (recovery of costs between local authorities)—
+**315.**[^c-ee3474c0f2b09e4239d0f27d2ac4974a] In section 193 (recovery of costs between local authorities)—
 
 - (a) in subsection (3) after “another local authority” insert “or local authority in England”;
 - (b) in subsection (4) after “another local authority” insert “or local authority in England”;
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee3474c0f2b09e4239d0f27d2ac4974a]: Commencement: Reg. 315 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ee3474c0f2b09e4239d0f27d2ac4974a]: Commencement: Reg. 315 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

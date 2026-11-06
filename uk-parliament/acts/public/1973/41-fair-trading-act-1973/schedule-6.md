@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Matters Falling Within Scope of Proposals Under Section 17[^key-f179a7892176c1dac3a9797d6a2337d4]
+## SCHEDULE 6 — Matters Falling Within Scope of Proposals Under Section 17[^c-f179a7892176c1dac3a9797d6a2337d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Section 19.
 
-**1.**[^key-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f179a7892176c1dac3a9797d6a2337d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f179a7892176c1dac3a9797d6a2337d4]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1973/41/schedule/6) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-f179a7892176c1dac3a9797d6a2337d4]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1973/41/schedule/6) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))

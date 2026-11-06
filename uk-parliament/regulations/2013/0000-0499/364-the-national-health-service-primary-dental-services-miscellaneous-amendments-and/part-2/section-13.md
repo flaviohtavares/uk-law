@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Amendment of regulation 19[^key-7e0bc7c427d18361ee5113eae69d2aff]
+## 13. Amendment of regulation 19[^c-7e0bc7c427d18361ee5113eae69d2aff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 19 (under provision of units of dental activity or units of orthod
 
 ## Annotations
 
-[^key-7e0bc7c427d18361ee5113eae69d2aff]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/364/regulation/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-7e0bc7c427d18361ee5113eae69d2aff]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/364/regulation/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

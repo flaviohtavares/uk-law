@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.H.7. Provisional reductions and later adjustments[^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.H.7. Provisional reductions and later adjustments[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-(1) If it appears to the Secretary of State that the condition in regulation 3.H.3(2) will be met in any financial year[^key-d8655a89e9fd7e4a4ce8db5c08bb97a1] in respect of the old service pension for that year, the Secretary of State may reduce the amount of that pension paid at any time in the financial year.
+(1) If it appears to the Secretary of State that the condition in regulation 3.H.3(2) will be met in any financial year[^c-d8655a89e9fd7e4a4ce8db5c08bb97a1] in respect of the old service pension for that year, the Secretary of State may reduce the amount of that pension paid at any time in the financial year.
 
 (2) Where the old service pension for a financial year is being reduced under this Chapter, the Secretary of State must review the amount of the reduction—
 
@@ -44,6 +44,6 @@ the Secretary of State must repay the amount due to the employed pensioner.
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-d8655a89e9fd7e4a4ce8db5c08bb97a1]: Textual amendment: Words in [reg. 3.H.7](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.H.7) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [73](https://www.legislation.gov.uk/uksi/2013/413/regulation/73)
+[^c-d8655a89e9fd7e4a4ce8db5c08bb97a1]: Textual amendment: Words in [reg. 3.H.7](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.H.7) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [73](https://www.legislation.gov.uk/uksi/2013/413/regulation/73)

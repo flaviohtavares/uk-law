@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 461a. Alternative standardised approach for market risk[^key-1073663925fc0ecfd9285cfddecef577]
+## Article 461a. Alternative standardised approach for market risk[^c-1073663925fc0ecfd9285cfddecef577]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1073663925fc0ecfd9285cfddecef577]: Textual amendment: [Art. 461a](https://www.legislation.gov.uk/eur/2013/575/article/461a) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(45)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/45)
+[^c-1073663925fc0ecfd9285cfddecef577]: Textual amendment: [Art. 461a](https://www.legislation.gov.uk/eur/2013/575/article/461a) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(45)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/45)

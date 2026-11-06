@@ -31,7 +31,7 @@ summary: ''
 - “[^c20989051]**order for lifelong restriction**” means an order under section 210F(1) of the Criminal Procedure (Scotland) Act 1995 (c. 46);
 - “**Parole Board**” means the Parole Board for Scotland;
 - “[^c20988951]**local justice area**” has the same meaning as in the Courts Act 2003 (c. 39);
-- “previous conviction” means—[^key-2edd98b3374ddde89fc31d658b8d051b]
+- “previous conviction” means—[^c-2edd98b3374ddde89fc31d658b8d051b]
   - (a) a previous conviction by a court in any part of the United Kingdom, or
   - (b) if the court considers appropriate, a previous conviction by a court in any member State of the European Union;
 - “**relevant officer**”, in relation to a local authority, means an officer of that authority employed by them in the discharge of their functions under section 27(1) of the [^c12928361]Social Work (Scotland) Act 1968 (supervision and care of persons put on probation or released from prison etc.);
@@ -43,7 +43,7 @@ summary: ''
 (2) The Secretary of State may by order provide—
 
 - (a) that the references to four years in the definitions of “long-term prisoner” and “short-term prisoner” in subsection (1) above shall be construed as references to such other period as may be specified in the order;
-- (b) that any reference in this Part of this Act to a particular proportion of a prisoner’s sentence (other than a reference which may be amended under section 27A(1))[^key-187f29b096228bd85c1d3598f4b7eebc] shall be construed as a reference to such other proportion of a prisoner’s sentence as may be so specified.
+- (b) that any reference in this Part of this Act to a particular proportion of a prisoner’s sentence (other than a reference which may be amended under section 27A(1))[^c-187f29b096228bd85c1d3598f4b7eebc] shall be construed as a reference to such other proportion of a prisoner’s sentence as may be so specified.
 
 (3) An order under subsection (2) above may make such transitional provisions as appear to the Secretary of State necessary or expedient in connection with any provision made by the order.
 
@@ -58,19 +58,19 @@ summary: ''
   - (i) it commences on the same date as, and expires on a different date from, that other term (or terms); or
   - (ii) it commences on a different date from, but before the expiry of, that other term (or terms).
 
-(5)[^c12928411] For the purposes of any reference, however expressed, in this Part of this Act to the term of imprisonment or other detention to which a person has been sentenced or which, or any part of which, he has served, consecutive terms and terms which are wholly or partly concurrent shall , subject to[^key-a1ea8784b7b67525dcad69c9ec72d1aa] subsections (5A) and (5AA)[^key-89bc5096eacaa1c771c0714e21780ab2], be treated as a single term if—
+(5)[^c12928411] For the purposes of any reference, however expressed, in this Part of this Act to the term of imprisonment or other detention to which a person has been sentenced or which, or any part of which, he has served, consecutive terms and terms which are wholly or partly concurrent shall , subject to[^c-a1ea8784b7b67525dcad69c9ec72d1aa] subsections (5A) and (5AA)[^c-89bc5096eacaa1c771c0714e21780ab2], be treated as a single term if—
 
 - (a) the sentences were passed at the same time; or
 - (b) where the sentences were passed at different times, the person has not been released under this Part of this Act at any time during the period beginning with the passing of the first sentence and ending with the passing of the last.
 
-(5A)[^key-d922f66c00b5c84910df8057d6fb0264] Subsection (5) does not apply in relation to a sentence passed on a person—
+(5A)[^c-d922f66c00b5c84910df8057d6fb0264] Subsection (5) does not apply in relation to a sentence passed on a person—
 
 - (a) in respect of an offence within section 1AB(2), and
 - (b) on or after the coming into force of paragraph 52(6) of Schedule 13 to the Counter-Terrorism and Sentencing Act 2021.
 
-(5AA)[^key-fb2ed0a44d7652d864acfce9c999e453] Nor does subsection (5) apply in relation to a sentence (a “national security-related sentence”) imposed on a person under section 205ZC of the 1995 Act in respect of an offence listed in Part 2 of Schedule 5ZB to that Act (offences involving or connected with a threat to national security).
+(5AA)[^c-fb2ed0a44d7652d864acfce9c999e453] Nor does subsection (5) apply in relation to a sentence (a “national security-related sentence”) imposed on a person under section 205ZC of the 1995 Act in respect of an offence listed in Part 2 of Schedule 5ZB to that Act (offences involving or connected with a threat to national security).
 
-(5B) In determining, for the purposes of subsection (5), whether a sentence passed on a person in respect of an offence (other than a sentence passed on a person in respect of an offence within section 1AB(2) or a national security-related sentence[^key-82e6e2d2be6edf999ff696df9cf17992]) is to be treated as part of a single term, any sentence passed on the person in respect of an offence within section 1AB(2) or a national security-related sentence[^key-ebd1ac6ccf26546df0fbd255f202703a] is to be ignored.
+(5B) In determining, for the purposes of subsection (5), whether a sentence passed on a person in respect of an offence (other than a sentence passed on a person in respect of an offence within section 1AB(2) or a national security-related sentence[^c-82e6e2d2be6edf999ff696df9cf17992]) is to be treated as part of a single term, any sentence passed on the person in respect of an offence within section 1AB(2) or a national security-related sentence[^c-ebd1ac6ccf26546df0fbd255f202703a] is to be ignored.
 
 (6) If additional days are awarded in accordance with rules made under section 39(7) of the 1989 Act (and are not remitted in accordance with such rules), the period which the prisoner (or eventual prisoner) must serve before becoming entitled to or eligible for release shall be extended by those additional days.
 
@@ -96,7 +96,7 @@ summary: ''
 
 [^c20988951]: Textual amendment: S. 27(1): definition of "local justice area" substituted (1.4.2005) for definition of "petty sessions area" by [The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886)](https://www.legislation.gov.uk/uksi/2005/886), [art. 2](https://www.legislation.gov.uk/uksi/2005/886/article/2), [Sch. para. 50(2)](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/50/2)
 
-[^key-2edd98b3374ddde89fc31d658b8d051b]: Textual amendment: Words in s. 27(1) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [11](https://www.legislation.gov.uk/ssi/2020/339/regulation/11) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-2edd98b3374ddde89fc31d658b8d051b]: Textual amendment: Words in s. 27(1) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [11](https://www.legislation.gov.uk/ssi/2020/339/regulation/11) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
 [^c12928361]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
@@ -108,7 +108,7 @@ summary: ''
 
 [^c12928391]: Textual amendment: Words in s. 27(1)(7) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 86(2)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/86/2)
 
-[^key-187f29b096228bd85c1d3598f4b7eebc]: Textual amendment: Words in s. 27(2)(b) inserted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 3(3)](https://www.legislation.gov.uk/asp/2025/1/section/3/3), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)
+[^c-187f29b096228bd85c1d3598f4b7eebc]: Textual amendment: Words in s. 27(2)(b) inserted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 3(3)](https://www.legislation.gov.uk/asp/2025/1/section/3/3), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)
 
 [^c20989951]: Textual amendment: S. 27(4A) inserted (S.) (2.4.2006) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [s. 32(2)](https://www.legislation.gov.uk/asp/2003/7/section/32/2), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2006/85](https://www.legislation.gov.uk/ssi/2006/85), [art. 1(2)](https://www.legislation.gov.uk/ssi/2006/85/article/1/2)
 
@@ -116,17 +116,17 @@ summary: ''
 
 [^c12928411]: Textual amendment: S. 27(5) substituted (S.) (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 111(3)](https://www.legislation.gov.uk/ukpga/1998/37/section/111/3); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(x)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/x)
 
-[^key-a1ea8784b7b67525dcad69c9ec72d1aa]: Textual amendment: Words in s. 27(5) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(16)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/16/a)
+[^c-a1ea8784b7b67525dcad69c9ec72d1aa]: Textual amendment: Words in s. 27(5) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(16)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/16/a)
 
-[^key-89bc5096eacaa1c771c0714e21780ab2]: Textual amendment: Words in s. 27(5) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(a)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/a)
+[^c-89bc5096eacaa1c771c0714e21780ab2]: Textual amendment: Words in s. 27(5) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(a)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/a)
 
-[^key-d922f66c00b5c84910df8057d6fb0264]: Textual amendment: S. 27(5A)(5B) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(16)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/16/b)
+[^c-d922f66c00b5c84910df8057d6fb0264]: Textual amendment: S. 27(5A)(5B) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(16)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/16/b)
 
-[^key-fb2ed0a44d7652d864acfce9c999e453]: Textual amendment: S. 27(5AA) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(b)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/b)
+[^c-fb2ed0a44d7652d864acfce9c999e453]: Textual amendment: S. 27(5AA) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(b)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/b)
 
-[^key-82e6e2d2be6edf999ff696df9cf17992]: Textual amendment: Words in s. 27(5B) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/c/i)
+[^c-82e6e2d2be6edf999ff696df9cf17992]: Textual amendment: Words in s. 27(5B) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/c/i)
 
-[^key-ebd1ac6ccf26546df0fbd255f202703a]: Textual amendment: Words in s. 27(5B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/c/ii)
+[^c-ebd1ac6ccf26546df0fbd255f202703a]: Textual amendment: Words in s. 27(5B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(10)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/10/c/ii)
 
 [^c12928421]: Modification: S. 27(7) excluded (17.12.2001) by [2001 asp 13](https://www.legislation.gov.uk/asp/2001/13), [s. 24(c)](https://www.legislation.gov.uk/asp/2001/13/section/24/c) (with [s. 29](https://www.legislation.gov.uk/asp/2001/13/section/29)); [S.S.I. 2001/456](https://www.legislation.gov.uk/ssi/2001/456), [art. 2](https://www.legislation.gov.uk/ssi/2001/456/article/2)
 

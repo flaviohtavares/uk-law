@@ -32,7 +32,7 @@ summary: ''
 
 agriculture, england
 
-The Rural Development (Enforcement) (England) Regulations 2007 (revoked)[^key-a8fabf91ec3925dbbb345454f86b03f4]
+The Rural Development (Enforcement) (England) Regulations 2007 (revoked)[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 Made
 
@@ -46,71 +46,71 @@ Coming into force
 
 12th February 2007
 
-[^key-a8fabf91ec3925dbbb345454f86b03f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8fabf91ec3925dbbb345454f86b03f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 1. Title, commencement and application[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 2. Interpretation[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Powers of authorised persons[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 3. Powers of authorised persons[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assistance to authorised persons[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 4. Assistance to authorised persons[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Cross-compliance[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 5. Cross-compliance[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Payment of rural development payments[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 6. Payment of rural development payments[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transfers of land[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 7. Transfers of land[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Breaches of commitments etc[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 8. Breaches of commitments etc[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of recovery etc.[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 9. Powers of recovery etc.[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Recovery of interest[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 10. Recovery of interest[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Sums payable to be recoverable as a debt[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 11. Sums payable to be recoverable as a debt[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Set off[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 12. Set off[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offences and penalties[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 13. Offences and penalties[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the England Rural Development Programme (Enforcement) Regulations 2000[^key-a8fabf91ec3925dbbb345454f86b03f4]
+## 14. Amendment of the England Rural Development Programme (Enforcement) Regulations 2000[^c-a8fabf91ec3925dbbb345454f86b03f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8fabf91ec3925dbbb345454f86b03f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8fabf91ec3925dbbb345454f86b03f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a8fabf91ec3925dbbb345454f86b03f4]EXPLANATORY NOTE
+[^c-a8fabf91ec3925dbbb345454f86b03f4]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -136,4 +136,4 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 ## Annotations
 
-[^key-a8fabf91ec3925dbbb345454f86b03f4]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))
+[^c-a8fabf91ec3925dbbb345454f86b03f4]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))

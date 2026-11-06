@@ -48,19 +48,19 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 7(1) and (2) of the Wildlife and Countryside Act 1981[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-ef793bb79f841c58859e7d4fa0b645c6]
+## 1. Citation and commencement[^c-ef793bb79f841c58859e7d4fa0b645c6]
 
 These Regulations may be cited as the Wildlife and Countryside (Registration and Ringing of Certain Captive Birds) (Amendment) (England) Regulations 2008 and come into force on 1st October 2008.
 
-## 2. Extent and application[^key-134dce688e5e873f61818f66c80e2529]
+## 2. Extent and application[^c-134dce688e5e873f61818f66c80e2529]
 
 These Regulations extend to England and Wales only and apply in relation to England only.
 
-## 3. Amendment to the Wildlife and Countryside (Registration and Ringing of Certain Captive Birds) Regulations 1982[^key-0b49cde9a17daa9dc0e00052a1fb7cae]
+## 3. Amendment to the Wildlife and Countryside (Registration and Ringing of Certain Captive Birds) Regulations 1982[^c-0b49cde9a17daa9dc0e00052a1fb7cae]
 
 The Wildlife and Countryside (Registration and Ringing of Certain Captive Birds) Regulations 1982[^f00002] are amended as follows.
 
-## 4. Amendment to regulation 1[^key-eebe6aeb60318fb78546c749b7f4b446]
+## 4. Amendment to regulation 1[^c-eebe6aeb60318fb78546c749b7f4b446]
 
 In regulation 1(2), after the definition of “CITES” insert the following definitions—
 
@@ -69,7 +69,7 @@ In regulation 1(2), after the definition of “CITES” insert the following def
 
 .
 
-## 5. Amendment to regulation 3[^key-c50de23c36d6729ca0a33539704bf5b7]
+## 5. Amendment to regulation 3[^c-c50de23c36d6729ca0a33539704bf5b7]
 
 (1) Regulation 3[^f00005] (registration) is amended as follows.
 
@@ -92,11 +92,11 @@ In regulation 1(2), after the definition of “CITES” insert the following def
 
 .
 
-## 6. Amendment to regulation 4[^key-eedc45f599f92fdf84d1c10d68bc8aa2]
+## 6. Amendment to regulation 4[^c-eedc45f599f92fdf84d1c10d68bc8aa2]
 
 In regulation 4[^f00006] (termination of registration), in paragraph (2)(b), “accepted” is omitted.
 
-## 7. Amendment to regulation 5[^key-4752aaa7207c78c7bc6e67a9031e778f]
+## 7. Amendment to regulation 5[^c-4752aaa7207c78c7bc6e67a9031e778f]
 
 (1) Regulation 5[^f00007] (ringing) is amended as follows.
 
@@ -108,7 +108,7 @@ In regulation 4[^f00006] (termination of registration), in paragraph (2)(b), “
 
 .
 
-## 8. Schedule to the Regulations[^key-0824c36a35dab46b8bf8ea9fca4167eb]
+## 8. Schedule to the Regulations[^c-0824c36a35dab46b8bf8ea9fca4167eb]
 
 The following Schedule is inserted—
 
@@ -145,32 +145,32 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 7(1) was amended, in relation to England and Wales, by section 102 of, and Part 4 of Schedule 16 to the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-ef793bb79f841c58859e7d4fa0b645c6]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-ef793bb79f841c58859e7d4fa0b645c6]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
 
-[^key-134dce688e5e873f61818f66c80e2529]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-134dce688e5e873f61818f66c80e2529]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
 
-[^key-0b49cde9a17daa9dc0e00052a1fb7cae]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-0b49cde9a17daa9dc0e00052a1fb7cae]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1982/1221](https://www.legislation.gov.uk/uksi/1982/1221); relevant amending instruments are [S.I. 1991/478](https://www.legislation.gov.uk/uksi/1991/478), [1994/1152](https://www.legislation.gov.uk/uksi/1994/1152), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2003/3235](https://www.legislation.gov.uk/uksi/2003/3235), [2004/640](https://www.legislation.gov.uk/uksi/2004/640).
 
-[^key-eebe6aeb60318fb78546c749b7f4b446]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-eebe6aeb60318fb78546c749b7f4b446]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
 
 [^f00003]: Footnote: O.J. L161, 3.3.1997, p. 1. This Regulation was last amended by Commission Regulation [(EC) No. 318/2008](https://www.legislation.gov.uk/european/regulation/2008/0318) (O.J. Ll95, 8.4.2008, p. 3).
 
 [^f00004]: Footnote: O.J. L166, 19.6.2006 p.1. This Regulation was last amended by Commission Regulation [(EC) No. 100/2008](https://www.legislation.gov.uk/european/regulation/2008/0100) (O.J. L31, 5.2.2008, p. 3).
 
-[^key-c50de23c36d6729ca0a33539704bf5b7]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-c50de23c36d6729ca0a33539704bf5b7]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
 
 [^f00005]: Footnote: Regulation 3 was revoked in relation to Wales by [S.I. 2003/3235](https://www.legislation.gov.uk/uksi/2003/3235), and amended in relation to England by [S.I. 2004/640](https://www.legislation.gov.uk/uksi/2004/640).
 
-[^key-eedc45f599f92fdf84d1c10d68bc8aa2]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-eedc45f599f92fdf84d1c10d68bc8aa2]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
 
 [^f00006]: Footnote: Regulation 4 was revoked in relation to Wales by [S.I. 2003/3235](https://www.legislation.gov.uk/uksi/2003/3235); in relation to England relevant amending instruments are [S.I. 1991/478](https://www.legislation.gov.uk/uksi/1991/478) and [S.I. 2004/640](https://www.legislation.gov.uk/uksi/2004/640).
 
-[^key-4752aaa7207c78c7bc6e67a9031e778f]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-4752aaa7207c78c7bc6e67a9031e778f]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
 
 [^f00007]: Footnote: Regulation 5 was revoked in relation to Wales by [S.I. 2003/3235](https://www.legislation.gov.uk/uksi/2003/3235); in relation to England relevant amending instruments are [S.I.1994/1152](https://www.legislation.gov.uk/uksi/1994/1152) and [S.I. 2004/640](https://www.legislation.gov.uk/uksi/2004/640).
 
 [^f00008]: Footnote: Article 66 implements paragraph 7 of Article VI of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and lays down detailed rules concerning the implementation of the Council Regulation.
 
-[^key-0824c36a35dab46b8bf8ea9fca4167eb]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)
+[^c-0824c36a35dab46b8bf8ea9fca4167eb]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2357/regulation/1)

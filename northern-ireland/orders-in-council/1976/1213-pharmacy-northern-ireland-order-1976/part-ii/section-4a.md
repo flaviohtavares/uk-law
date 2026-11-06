@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4A. Continuing professional development[^key-b6bf95b607d695e5babf259207c41f48]
+## 4A. Continuing professional development[^c-b6bf95b607d695e5babf259207c41f48]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 - (b) must require that any continuing professional development that is undertaken by a registered person in accordance with it is relevant to—
   - (i) the safe and effective practice of pharmacy, and
   - (ii) a learning need for the individual registered person that is relevant to the current scope of the practice of pharmacy including any specialist area of practice of that individual registered person and the environment in which they practise;
-- (c)[^key-7e0f12d976f96814ee78b7fe2d235fa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7e0f12d976f96814ee78b7fe2d235fa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The Council must publish the framework adopted by it under paragraph (6)(a), as it exists from time to time, in such manner as it considers appropriate.
 
@@ -64,7 +64,7 @@ summary: ''
 - (a) make provision about the circumstances in which the registrar may remove the name of the registered person from the register, or impose such other remedial measures as may be specified in the regulations, where the registered person—
   - (i) has failed to comply with the requirements or conditions of the framework adopted by the Council under paragraph (6)(a) relating to the continual professional development of registered persons; or
   - (ii) has made a false declaration about compliance with those requirements or conditions;
-- (b)[^key-4cafba0ac15bebb00bf450394b033e5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4cafba0ac15bebb00bf450394b033e5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) make provision for the registrar to send a statement in writing to the registered person concerned giving the registered person notice of the removal and the reasons for it and of right of appeal to the Statutory Committee under paragraph (13);
 - (d) make provision for the suspension of a registered person’s entry in the register pending the outcome of any appeal against a decision to remove the name of the registered person from the register;
 - (e) make provision about the circumstances in which the registrar, upon an application being made by a person whose name has been removed from the register, may restore the name to the register and whether, and if so what, continuing professional development is required after restoration, and the regulations may make provision—
@@ -84,14 +84,14 @@ summary: ''
 
 may appeal from that decision to the Statutory Committee which may decide the appeal.
 
-(14)[^key-580568fdf425dffecae6251da5970a8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-580568fdf425dffecae6251da5970a8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6bf95b607d695e5babf259207c41f48]: Textual amendment: [Arts. 4A-4D](https://www.legislation.gov.uk/nisi/1976/1213/article/4A) inserted (1.10.2012, 1.6.2013) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [4](https://www.legislation.gov.uk/nisr/2012/308/article/4) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
+[^c-b6bf95b607d695e5babf259207c41f48]: Textual amendment: [Arts. 4A-4D](https://www.legislation.gov.uk/nisi/1976/1213/article/4A) inserted (1.10.2012, 1.6.2013) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [4](https://www.legislation.gov.uk/nisr/2012/308/article/4) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
 
-[^key-7e0f12d976f96814ee78b7fe2d235fa8]: Textual amendment: [Art. 4A(7)(c)](https://www.legislation.gov.uk/nisi/1976/1213/article/4A/7/c) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/4) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e0f12d976f96814ee78b7fe2d235fa8]: Textual amendment: [Art. 4A(7)(c)](https://www.legislation.gov.uk/nisi/1976/1213/article/4A/7/c) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/4) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4cafba0ac15bebb00bf450394b033e5a]: Textual amendment: [Art. 4A(10)(b)](https://www.legislation.gov.uk/nisi/1976/1213/article/4A/10/b) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/4) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4cafba0ac15bebb00bf450394b033e5a]: Textual amendment: [Art. 4A(10)(b)](https://www.legislation.gov.uk/nisi/1976/1213/article/4A/10/b) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/4) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-580568fdf425dffecae6251da5970a8d]: Textual amendment: [Art. 4A(14)](https://www.legislation.gov.uk/nisi/1976/1213/article/4A/14) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/4) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-580568fdf425dffecae6251da5970a8d]: Textual amendment: [Art. 4A(14)](https://www.legislation.gov.uk/nisi/1976/1213/article/4A/14) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/4) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

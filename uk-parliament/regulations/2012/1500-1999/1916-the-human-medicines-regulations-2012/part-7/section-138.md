@@ -53,8 +53,8 @@ summary: ''
 
 allow the supply of the medicinal product to patients who are already being treated with the medicinal product.
 
-(10)[^key-ac5913442f62950372d1662ab10c81f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-ac5913442f62950372d1662ab10c81f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac5913442f62950372d1662ab10c81f5]: Textual amendment: [Reg. 138(10)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/138/10) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [121](https://www.legislation.gov.uk/uksi/2019/775/regulation/121); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac5913442f62950372d1662ab10c81f5]: Textual amendment: [Reg. 138(10)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/138/10) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [121](https://www.legislation.gov.uk/uksi/2019/775/regulation/121); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

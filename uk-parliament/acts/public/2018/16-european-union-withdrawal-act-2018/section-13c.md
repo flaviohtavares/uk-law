@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13C. Bills affecting trade between Northern Ireland and other parts of the United Kingdom[^key-8c2dd83d1f42380bda2141e04f8fe232]
+## 13C. Bills affecting trade between Northern Ireland and other parts of the United Kingdom[^c-8c2dd83d1f42380bda2141e04f8fe232]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c2dd83d1f42380bda2141e04f8fe232]: Textual amendment: S. 13C inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/164/regulation/3/3)
+[^c-8c2dd83d1f42380bda2141e04f8fe232]: Textual amendment: S. 13C inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/164/regulation/3/3)

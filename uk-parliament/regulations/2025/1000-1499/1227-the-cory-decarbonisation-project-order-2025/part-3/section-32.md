@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Private rights[^key-efc0d2bfc3a381cfe63cbce03c8e34f9]
+## 32. Private rights[^c-efc0d2bfc3a381cfe63cbce03c8e34f9]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-efc0d2bfc3a381cfe63cbce03c8e34f9]: Commencement: Art. 32 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-efc0d2bfc3a381cfe63cbce03c8e34f9]: Commencement: Art. 32 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

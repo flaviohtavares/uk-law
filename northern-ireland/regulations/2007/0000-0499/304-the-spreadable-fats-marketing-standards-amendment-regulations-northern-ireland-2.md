@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Spreadable Fats (Marketing Standards) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-df00215ce2a0de1743949d4e766d7491]
+The Spreadable Fats (Marketing Standards) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-df00215ce2a0de1743949d4e766d7491]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 12th July 2007
 
-[^key-df00215ce2a0de1743949d4e766d7491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df00215ce2a0de1743949d4e766d7491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-df00215ce2a0de1743949d4e766d7491]
+## 1. Citation and commencement[^c-df00215ce2a0de1743949d4e766d7491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999[^key-df00215ce2a0de1743949d4e766d7491]
+## 2. Amendment of the Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999[^c-df00215ce2a0de1743949d4e766d7491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df00215ce2a0de1743949d4e766d7491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df00215ce2a0de1743949d4e766d7491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-df00215ce2a0de1743949d4e766d7491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df00215ce2a0de1743949d4e766d7491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df00215ce2a0de1743949d4e766d7491]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/304) revoked (1.7.2008) by [The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) Regulations (Northern Ireland) 2008 (S.R. 2008/239)](https://www.legislation.gov.uk/nisr/2008/239), [regs. 1](https://www.legislation.gov.uk/nisr/2008/239/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2008/239/regulation/8/c)
+[^c-df00215ce2a0de1743949d4e766d7491]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/304) revoked (1.7.2008) by [The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) Regulations (Northern Ireland) 2008 (S.R. 2008/239)](https://www.legislation.gov.uk/nisr/2008/239), [regs. 1](https://www.legislation.gov.uk/nisr/2008/239/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2008/239/regulation/8/c)

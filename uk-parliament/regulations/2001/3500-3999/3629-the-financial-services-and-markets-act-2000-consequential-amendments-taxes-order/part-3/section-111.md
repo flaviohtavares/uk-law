@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Interpretation[^key-8f6564108ab119b1668c568b22a635ce]
+## 111. Interpretation[^c-8f6564108ab119b1668c568b22a635ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 2 of the Friendly Societies (Life Assurance Premium Relief) (Chang
 
 ## Annotations
 
-[^key-8f6564108ab119b1668c568b22a635ce]: Commencement: Art. 111 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-8f6564108ab119b1668c568b22a635ce]: Commencement: Art. 111 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

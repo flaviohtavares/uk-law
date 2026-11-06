@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Relevant valuation factor[^key-35fc70f0491be7af3b721d4e13135b2e]
+## 276. Relevant valuation factor[^c-35fc70f0491be7af3b721d4e13135b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35fc70f0491be7af3b721d4e13135b2e]: Modification: S. 276 modified (6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 (S.I. 2006/207)](https://www.legislation.gov.uk/uksi/2006/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2006/207/regulation/12)
+[^c-35fc70f0491be7af3b721d4e13135b2e]: Modification: S. 276 modified (6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 (S.I. 2006/207)](https://www.legislation.gov.uk/uksi/2006/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2006/207/regulation/12)

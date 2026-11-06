@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Withdrawal of consent to use of electronic communications[^key-0e7041519d17e488114e4837927408ae]
+## 6. Withdrawal of consent to use of electronic communications[^c-0e7041519d17e488114e4837927408ae]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e7041519d17e488114e4837927408ae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/544/regulation/6) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-0e7041519d17e488114e4837927408ae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/544/regulation/6) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

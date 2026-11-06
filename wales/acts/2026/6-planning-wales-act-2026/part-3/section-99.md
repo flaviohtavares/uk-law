@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Time when development starts[^key-593a8b58df9e8130403aca20afb10114]
+## 99. Time when development starts[^c-593a8b58df9e8130403aca20afb10114]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-593a8b58df9e8130403aca20afb10114]: Commencement: S. 99 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-593a8b58df9e8130403aca20afb10114]: Commencement: S. 99 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

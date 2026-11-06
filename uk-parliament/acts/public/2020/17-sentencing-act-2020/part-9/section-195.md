@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Breach, revocation or amendment of youth rehabilitation order[^key-7ba5c69fb8e07b64a75022da30744ae9]
+## 195. Breach, revocation or amendment of youth rehabilitation order[^c-7ba5c69fb8e07b64a75022da30744ae9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Schedule 7 makes provision about—
 
 ## Annotations
 
-[^key-7ba5c69fb8e07b64a75022da30744ae9]: Commencement: S. 195 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7ba5c69fb8e07b64a75022da30744ae9]: Commencement: S. 195 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

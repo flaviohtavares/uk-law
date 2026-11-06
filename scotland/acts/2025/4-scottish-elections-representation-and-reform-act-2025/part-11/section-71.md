@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Transitional provision: membership of the Electoral Management Board for Scotland[^key-3a441e41f467449b7985e5ab0b64c19d][^key-6769780a9a8969fa86247f677075a052]
+## 71. Transitional provision: membership of the Electoral Management Board for Scotland[^c-3a441e41f467449b7985e5ab0b64c19d][^c-6769780a9a8969fa86247f677075a052]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a441e41f467449b7985e5ab0b64c19d]: Commencement: S. 71 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-3a441e41f467449b7985e5ab0b64c19d]: Commencement: S. 71 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-6769780a9a8969fa86247f677075a052]: Commencement: S. 71 in force at 1.4.2026 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-6769780a9a8969fa86247f677075a052]: Commencement: S. 71 in force at 1.4.2026 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)

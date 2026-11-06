@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Governance[^key-482e4e13afa25374740ea82bce5b2c1b]
+## 13. Governance[^c-482e4e13afa25374740ea82bce5b2c1b]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (c) Highlands and Islands Enterprise where the area within which, or in relation to which, it exercises functions in accordance with section 21(1) of the Enterprise and New Towns (Scotland) Act 1990 includes the whole or part of the area of the local authority,
 - (d) the chief constable of the Police Service of Scotland,
 - (e) the Scottish Fire and Rescue Service,
-- (f) Scottish Enterprise ,[^key-c4b034d3e4367b9da690581772d19117]
+- (f) Scottish Enterprise ,[^c-c4b034d3e4367b9da690581772d19117]
 - (g) South of Scotland Enterprise where all or part of the area of the local authority is within the South of Scotland as defined by section 21 of the South of Scotland Enterprise Act 2019.
 
 (3) The Scottish Ministers may by regulations modify subsection (2) so as to—
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-482e4e13afa25374740ea82bce5b2c1b]: Commencement: S. 13 in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-482e4e13afa25374740ea82bce5b2c1b]: Commencement: S. 13 in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
 
-[^key-c4b034d3e4367b9da690581772d19117]: Textual amendment: S. 13(2)(g) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 9(2)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9/2); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-c4b034d3e4367b9da690581772d19117]: Textual amendment: S. 13(2)(g) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 9(2)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9/2); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)

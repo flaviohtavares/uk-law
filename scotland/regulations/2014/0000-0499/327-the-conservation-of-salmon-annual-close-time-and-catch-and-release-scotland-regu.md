@@ -52,17 +52,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraphs 10, 11, 12 and 14(1) of schedule 1 to that Act they have consulted such persons as they considered appropriate, directed that notice be given of the general effect of these Regulations and considered representations and objections made.
 
-## 1. Citation and commencement[^key-fb16211789e4f073ed003c0d7b8a9f21]
+## 1. Citation and commencement[^c-fb16211789e4f073ed003c0d7b8a9f21]
 
 These Regulations may be cited as the Conservation of Salmon (Annual Close Time and Catch and Release) (Scotland) Regulations 2014 and come into force on 9th January 2015.
 
-## 2. Annual close time, permitted periods of fishing for rod and line fishing and prohibition on the retention of salmon[^key-d3aa4fda84e7a5cce2c2231a09d86479]
+## 2. Annual close time, permitted periods of fishing for rod and line fishing and prohibition on the retention of salmon[^c-d3aa4fda84e7a5cce2c2231a09d86479]
 
 (1) The dates of the annual close time for each salmon fishery district, or each part of a salmon fishery district, listed in column 1 of the Schedule are those listed in column 2 corresponding to the entry for that district or part of a district.
 
 (2) The periods within the annual close time when it is permitted to fish for and take, or fish for, salmon by rod and line for each salmon fishery district, or part of a salmon fishery district, listed in column 1 are those periods listed in columns 3 and 4 respectively, corresponding to the entry, or part of the entry, in column 1.
 
-(3) No person may retain any salmon caught by rod and line in inland waters[^key-9716f6fa16bbbe84fa0978cea50b8b69] in a salmon fishery district, or part of a salmon fishery district, listed in column 1 during the periods listed in column 4 corresponding to that entry or part of that entry.
+(3) No person may retain any salmon caught by rod and line in inland waters[^c-9716f6fa16bbbe84fa0978cea50b8b69] in a salmon fishery district, or part of a salmon fishery district, listed in column 1 during the periods listed in column 4 corresponding to that entry or part of that entry.
 
 (4) The limits of each salmon fishery district, or part of a district, listed in column 1 are to be construed in accordance with the description of the designation listed in the corresponding entry in column 5.
 
@@ -82,7 +82,7 @@ Edinburgh
 
 20th November 2014
 
-## SCHEDULE[^key-a8370e11877c89c21879ad0351c2d547]
+## SCHEDULE[^c-a8370e11877c89c21879ad0351c2d547]
 
 Regulation 2
 
@@ -181,7 +181,7 @@ Regulation 2
 </tbody>
 </table>
 
-[^key-cc80c17069c16fe2c3009395e1dd0ffe][^f00002][^f00003][^f00004][^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^key-8de4b41552c1d50056a0729719fd777f][^f00015][^f00016]
+[^c-cc80c17069c16fe2c3009395e1dd0ffe][^f00002][^f00003][^f00004][^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^c-8de4b41552c1d50056a0729719fd777f][^f00015][^f00016]
 
 EXPLANATORY NOTE
 
@@ -199,15 +199,15 @@ A Business Regulatory Impact Assessment in relation to these Regulations has bee
 
 [^f00001]: Footnote: [2003 asp 15](https://www.legislation.gov.uk/asp/2003/15). Paragraph (c) of section 38(5) was inserted by the Aquaculture and Fisheries (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), section 29(4).
 
-[^key-fb16211789e4f073ed003c0d7b8a9f21]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1) in force at 9.1.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1)
+[^c-fb16211789e4f073ed003c0d7b8a9f21]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1) in force at 9.1.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1)
 
-[^key-d3aa4fda84e7a5cce2c2231a09d86479]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/327/regulation/2) in force at 9.1.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1)
+[^c-d3aa4fda84e7a5cce2c2231a09d86479]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/327/regulation/2) in force at 9.1.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1)
 
-[^key-9716f6fa16bbbe84fa0978cea50b8b69]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2014/327/regulation/2/3) inserted (31.3.2016) by [The Conservation of Salmon (Scotland) Regulations 2016 (S.S.I. 2016/115)](https://www.legislation.gov.uk/ssi/2016/115), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2016/115/regulation/5)
+[^c-9716f6fa16bbbe84fa0978cea50b8b69]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2014/327/regulation/2/3) inserted (31.3.2016) by [The Conservation of Salmon (Scotland) Regulations 2016 (S.S.I. 2016/115)](https://www.legislation.gov.uk/ssi/2016/115), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2016/115/regulation/5)
 
-[^key-a8370e11877c89c21879ad0351c2d547]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/327/schedule) in force at 9.1.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1)
+[^c-a8370e11877c89c21879ad0351c2d547]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/327/schedule) in force at 9.1.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/327/regulation/1)
 
-[^key-cc80c17069c16fe2c3009395e1dd0ffe]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/327/schedule) inserted (24.2.2025) by [The Conservation of Salmon (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/368)](https://www.legislation.gov.uk/ssi/2024/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/368/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2024/368/regulation/2)
+[^c-cc80c17069c16fe2c3009395e1dd0ffe]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/327/schedule) inserted (24.2.2025) by [The Conservation of Salmon (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/368)](https://www.legislation.gov.uk/ssi/2024/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/368/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2024/368/regulation/2)
 
 [^f00002]: Footnote: Section 69(1) of the Salmon and Freshwater Fisheries (Scotland) Act [2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15) defines “the 1862 to 1868 Acts”, the “1862 Act”, “the 1864 Act” and the “1868 Act”.
 
@@ -235,7 +235,7 @@ A Business Regulatory Impact Assessment in relation to these Regulations has bee
 
 [^f00014]: Footnote: [S.I. 1990/2020](https://www.legislation.gov.uk/uksi/1990/2020).
 
-[^key-8de4b41552c1d50056a0729719fd777f]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/327/schedule) substituited (9.1.2015) by [The Conservation of Salmon (Annual Close Time and Catch and Release) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/357)](https://www.legislation.gov.uk/ssi/2014/357), [regs. 1](https://www.legislation.gov.uk/ssi/2014/357/regulation/1), [2](https://www.legislation.gov.uk/ssi/2014/357/regulation/2)
+[^c-8de4b41552c1d50056a0729719fd777f]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/327/schedule) substituited (9.1.2015) by [The Conservation of Salmon (Annual Close Time and Catch and Release) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/357)](https://www.legislation.gov.uk/ssi/2014/357), [regs. 1](https://www.legislation.gov.uk/ssi/2014/357/regulation/1), [2](https://www.legislation.gov.uk/ssi/2014/357/regulation/2)
 
 [^f00015]: Footnote: [S.S.I. 2003/615](https://www.legislation.gov.uk/ssi/2003/615).
 

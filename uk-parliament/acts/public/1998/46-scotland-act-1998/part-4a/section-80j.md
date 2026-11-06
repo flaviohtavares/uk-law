@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80J. Certain transactions not taxable[^key-98cf41752df8bd0499aa342b2ccf7ef3]
+## 80J. Certain transactions not taxable[^c-98cf41752df8bd0499aa342b2ccf7ef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98cf41752df8bd0499aa342b2ccf7ef3]: Textual amendment: Pt. 4A Ch. 3 inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 28](https://www.legislation.gov.uk/ukpga/2012/11/section/28), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [44(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/28/2))
+[^c-98cf41752df8bd0499aa342b2ccf7ef3]: Textual amendment: Pt. 4A Ch. 3 inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 28](https://www.legislation.gov.uk/ukpga/2012/11/section/28), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [44(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/28/2))

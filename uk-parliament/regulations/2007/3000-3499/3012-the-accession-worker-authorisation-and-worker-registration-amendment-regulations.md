@@ -92,7 +92,7 @@ The Secretary of State, being a Minister designated [^c1895364] for the purpose 
 
 .
 
-## 3. Amendment of the Accession (Immigration and Worker Registration) Regulations 2004[^key-e9923b137095d29ccfa905067bd9e7ab]
+## 3. Amendment of the Accession (Immigration and Worker Registration) Regulations 2004[^c-e9923b137095d29ccfa905067bd9e7ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -134,4 +134,4 @@ Regulation 3(b) of these Regulations amends the 2004 Accession Regulations so th
 
 [^c1895366]: Marginal citation: [S.I. 2006/3317](https://www.legislation.gov.uk/uksi/2006/3317), amended by [S.I. 2007/475](https://www.legislation.gov.uk/uksi/2007/475).
 
-[^key-e9923b137095d29ccfa905067bd9e7ab]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3012/regulation/3) revoked (1.5.2011) by [The Accession (Immigration and Worker Registration) (Revocation, Savings and Consequential Provisions) Regulations 2011 (S.I. 2011/544)](https://www.legislation.gov.uk/uksi/2011/544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/544/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/544/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/544/schedule/1)
+[^c-e9923b137095d29ccfa905067bd9e7ab]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3012/regulation/3) revoked (1.5.2011) by [The Accession (Immigration and Worker Registration) (Revocation, Savings and Consequential Provisions) Regulations 2011 (S.I. 2011/544)](https://www.legislation.gov.uk/uksi/2011/544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/544/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/544/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/544/schedule/1)

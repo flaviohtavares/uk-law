@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Amendments to Part 2 (form and content of individual accounts)[^key-c67baa108cdc3f12091cc9aff50d5608]
+## 29. Amendments to Part 2 (form and content of individual accounts)[^c-c67baa108cdc3f12091cc9aff50d5608]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In regulation 3(1) (non-IAS individual accounts), in the modified regulation 3 o
 
 ## Annotations
 
-[^key-c67baa108cdc3f12091cc9aff50d5608]: Commencement: Reg. 29 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-c67baa108cdc3f12091cc9aff50d5608]: Commencement: Reg. 29 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

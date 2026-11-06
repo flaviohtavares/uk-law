@@ -26,13 +26,13 @@ summary: ''
 
 (3) On a reference under this section the court may exercise any power available to the comptroller by virtue of this Part as respects the matter referred to it and, following its determination, may refer any matter back to the comptroller.
 
-(4) An appeal lies from any decision of the comptroller in proceedings before him under section 246 (decisions on matters relating to design right) to —[^key-252ea2e556bbddc62d7b7e54e7a00833]
+(4) An appeal lies from any decision of the comptroller in proceedings before him under section 246 (decisions on matters relating to design right) to —[^c-252ea2e556bbddc62d7b7e54e7a00833]
 
-- (a) the High Court or, in Scotland, the Court of Session , or[^key-131bde927d9c1a84095e4a9214d7517a]
+- (a) the High Court or, in Scotland, the Court of Session , or[^c-131bde927d9c1a84095e4a9214d7517a]
 - (b) a person appointed under section 27A of the Registered Designs Act 1949.
 
 ## Annotations
 
-[^key-252ea2e556bbddc62d7b7e54e7a00833]: Textual amendment: Words in s. 251(4) renumbered as s. 251(4)(a) (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(8)(a)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/8/a), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
+[^c-252ea2e556bbddc62d7b7e54e7a00833]: Textual amendment: Words in s. 251(4) renumbered as s. 251(4)(a) (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(8)(a)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/8/a), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
 
-[^key-131bde927d9c1a84095e4a9214d7517a]: Textual amendment: S. 251(4)(b) and word preceding it inserted (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(8)(b)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/8/b), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
+[^c-131bde927d9c1a84095e4a9214d7517a]: Textual amendment: S. 251(4)(b) and word preceding it inserted (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(8)(b)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/8/b), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)

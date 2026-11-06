@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297B. Devolved Welsh authorities[^key-abf772785d4c93b51cdad15ee1bf9601]
+## 297B. Devolved Welsh authorities[^c-abf772785d4c93b51cdad15ee1bf9601]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abf772785d4c93b51cdad15ee1bf9601]: Textual amendment: S. 297B omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 89(a)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/89/a/i), [159(2)(s)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/s)
+[^c-abf772785d4c93b51cdad15ee1bf9601]: Textual amendment: S. 297B omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 89(a)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/89/a/i), [159(2)(s)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/s)

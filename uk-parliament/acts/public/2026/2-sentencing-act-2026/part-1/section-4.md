@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes of sentencing[^key-aa943b028f295d4d596a9d2809e04763]
+## 4. Purposes of sentencing[^c-aa943b028f295d4d596a9d2809e04763]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa943b028f295d4d596a9d2809e04763]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/2/section/4) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-aa943b028f295d4d596a9d2809e04763]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/2/section/4) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

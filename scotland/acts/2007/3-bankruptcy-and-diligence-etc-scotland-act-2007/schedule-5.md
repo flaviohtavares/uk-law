@@ -64,9 +64,9 @@ summary: ''
 - (a) after “arrestment” insert “ , a land attachment, a residual attachment, a money attachment ”; and
 - (b) after “executing the” insert “ land attachment, residual attachment, money attachment or ”.
 
-(3)[^key-2b3b86252b1451be63f87272f4bf812f] In section 7(4) (warrant in extract decree of removing), for the words “forty-eight hours” in both places where they occur substitute “ 14 days ”.
+(3)[^c-2b3b86252b1451be63f87272f4bf812f] In section 7(4) (warrant in extract decree of removing), for the words “forty-eight hours” in both places where they occur substitute “ 14 days ”.
 
-(4)[^key-672f506dca6e982fa9c34c6457fdf302] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-672f506dca6e982fa9c34c6457fdf302] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Execution of Diligence (Scotland) Act 1926 (c. 16)
 
@@ -74,20 +74,20 @@ summary: ''
 
 (2) In section 2 (execution by registered letter)—
 
-- (a)[^key-6a7ebd1cf3eddb08d013c1eef4dfb558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6a7ebd1cf3eddb08d013c1eef4dfb558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (2)(b)—
-  - (i)[^key-7ddd08ee060f10baf04f311837c68e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-7ddd08ee060f10baf04f311837c68e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-7ddd08ee060f10baf04f311837c68e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-7ddd08ee060f10baf04f311837c68e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) for “law agent enrolled in such sheriffdom” substitute “ solicitor ”;
-- (c)[^key-208974c994a9322c8c467c55d2f1e5c1] in subsection (2)(c), for “law agent” substitute[^key-d01de25f506e7d2a28643fb1f05e70d4] “ solicitor ””; and
+- (c)[^c-208974c994a9322c8c467c55d2f1e5c1] in subsection (2)(c), for “law agent” substitute[^c-d01de25f506e7d2a28643fb1f05e70d4] “ solicitor ””; and
 - (d) in subsection (2)(g), for “rule 111” substitute “ rule 6.1 ”.
 
 (3) In section 3 (authorisation by sheriff to do diligence)—
 
-- (a)[^key-9ebefb736eda73e2358d20cfaf2c8056] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9ebefb736eda73e2358d20cfaf2c8056] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “law agent” substitute “ solicitor ”.
 
-(4)[^key-5522e6cd16efbb2c0a755cfd0551a678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5522e6cd16efbb2c0a755cfd0551a678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government (Scotland) Act 1947 (c. 43)
 
@@ -121,7 +121,7 @@ summary: ''
 
 **Not yet in force.**
 
-**11.**[^key-54a69e96e19e89a585a120eee1cff51a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-54a69e96e19e89a585a120eee1cff51a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Civil Jurisdiction and Judgments Act 1982 (c. 27)
 
@@ -136,7 +136,7 @@ summary: ''
 
 ### The Bankruptcy (Scotland) Act 1985 (c. 66)
 
-**13.**[^key-1f1c30be431cc59d09252d37da9523a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1f1c30be431cc59d09252d37da9523a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Insolvency Act 1986 (c. 45)
 
@@ -376,7 +376,7 @@ summary: ''
   > “**enactment**” includes an Act of the Scottish Parliament and any enactment comprised in subordinate legislation under such an Act;
 
   ; and
-- (c)[^key-a997c964755d580464d8119d334e165d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a997c964755d580464d8119d334e165d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Abolition of Domestic Rates etc. (Scotland) Act 1987 (c. 47)
 
@@ -443,7 +443,7 @@ summary: ''
 
 **Not yet in force.**
 
-**21.**[^key-c70d869b68057c24178a303b2d7788c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-c70d869b68057c24178a303b2d7788c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Proceeds of Crime (Scotland) Act 1995 (c. 43)
 
@@ -483,7 +483,7 @@ summary: ''
 
 **Not yet in force.**
 
-**25.**[^key-a3a2495f619d559f281dad84710642dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-a3a2495f619d559f281dad84710642dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Water Industry (Scotland) Act 2002 (asp 3)
 
@@ -501,13 +501,13 @@ summary: ''
 
 **Not yet in force.**
 
-**27.**[^key-dde0eda35c1e1732335e18cc77ac3ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-dde0eda35c1e1732335e18cc77ac3ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Freedom of Information (Scotland) Act 2002 (asp 13)
 
 **Not yet in force.**
 
-**28.**[^key-91027e860bfb6a85dbaad66809c54dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-91027e860bfb6a85dbaad66809c54dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Proceeds of Crime Act 2002 (c. 29)
 
@@ -585,7 +585,7 @@ summary: ''
   > - (iiia) any sums paid by the debtor to account of the sum recoverable;
 
   ; and
-- (b)[^key-817fa8cce9e8e2737acef65f73b66777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-817fa8cce9e8e2737acef65f73b66777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 33 (audit of report of auction)—
 
@@ -617,7 +617,7 @@ summary: ''
 
 .
 
-(13)[^key-f09875e0b947f3534eef7c8e2453395f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-f09875e0b947f3534eef7c8e2453395f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) In section 60(2) (application of the Act to sequestration for rent and arrestment) for the words “such a” substitute “ the landlord's ”.
 
@@ -627,7 +627,7 @@ summary: ''
 
 **Not yet in force.**
 
-**31.**[^key-058c4edb175610b20fa06349d173027a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-058c4edb175610b20fa06349d173027a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Finance Act 2003 (c. 14)
 
@@ -641,7 +641,7 @@ summary: ''
 
 **Not yet in force.**
 
-**33.**[^key-21dfba12c54c0b7a886370e7a3e4683c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-21dfba12c54c0b7a886370e7a3e4683c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -649,52 +649,52 @@ summary: ''
 
 [^c2061517]: Commencement: Sch. 5 para. 6 not in force at Royal Assent see s. 227; Sch. 5 para. 6 in force for certain purposes at 23.11.2009 by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/369/article/3/2/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2009/369/schedule/1/paragraph/4) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))
 
-[^key-2b3b86252b1451be63f87272f4bf812f]: Commencement: [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/6/3) in force at 4.4.2011 by [S.S.I. 2011/179](https://www.legislation.gov.uk/ssi/2011/179), [art. 3(b)](https://www.legislation.gov.uk/ssi/2011/179/article/3/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/179/article/4))
+[^c-2b3b86252b1451be63f87272f4bf812f]: Commencement: [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/6/3) in force at 4.4.2011 by [S.S.I. 2011/179](https://www.legislation.gov.uk/ssi/2011/179), [art. 3(b)](https://www.legislation.gov.uk/ssi/2011/179/article/3/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/179/article/4))
 
-[^key-672f506dca6e982fa9c34c6457fdf302]: Textual amendment: Sch. 5 para. 6(4) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-672f506dca6e982fa9c34c6457fdf302]: Textual amendment: Sch. 5 para. 6(4) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
 [^c2061468]: Commencement: Sch. 5 para. 7 not in force at Royal Assent see s. 227; Sch. 5 para. 7(2)(b)(iii)(d)(3)(b) in force and Sch. 5 para. 7(1)(2)(c) in force for certain purposes at 22.4.2009 by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/67/article/3/2/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2009/67/schedule/1/paragraph/2) (with transitional modifications and savings in [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4))
 
-[^key-6a7ebd1cf3eddb08d013c1eef4dfb558]: Textual amendment: Sch. 5 para. 7(2)(a) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-6a7ebd1cf3eddb08d013c1eef4dfb558]: Textual amendment: Sch. 5 para. 7(2)(a) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-7ddd08ee060f10baf04f311837c68e6c]: Textual amendment: Sch. 5 para. 7(2)(b)(i)(ii) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-7ddd08ee060f10baf04f311837c68e6c]: Textual amendment: Sch. 5 para. 7(2)(b)(i)(ii) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-208974c994a9322c8c467c55d2f1e5c1]: Commencement: Sch. 5 para. 7(2)(c) in force at 31.1.2011 in so far as not already in force by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), [art. 3(h)](https://www.legislation.gov.uk/ssi/2011/31/article/3/h)
+[^c-208974c994a9322c8c467c55d2f1e5c1]: Commencement: Sch. 5 para. 7(2)(c) in force at 31.1.2011 in so far as not already in force by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), [art. 3(h)](https://www.legislation.gov.uk/ssi/2011/31/article/3/h)
 
-[^key-d01de25f506e7d2a28643fb1f05e70d4]: Textual amendment: Words in Sch. 5 para. 7(2)(c) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 31](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/31); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-d01de25f506e7d2a28643fb1f05e70d4]: Textual amendment: Words in Sch. 5 para. 7(2)(c) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 31](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/31); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-9ebefb736eda73e2358d20cfaf2c8056]: Textual amendment: Sch. 5 para. 7(3)(a) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-9ebefb736eda73e2358d20cfaf2c8056]: Textual amendment: Sch. 5 para. 7(3)(a) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-5522e6cd16efbb2c0a755cfd0551a678]: Textual amendment: Sch. 5 para. 7(4) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-5522e6cd16efbb2c0a755cfd0551a678]: Textual amendment: Sch. 5 para. 7(4) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
 [^c2028219]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/10) partly in force; [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/10) not in force at Royal Assent see [s. 227](https://www.legislation.gov.uk/asp/2007/3/section/227); [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/10) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(2)](https://www.legislation.gov.uk/ssi/2008/115/article/3/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/115/schedule/1) (subject to [art. 3(3)](https://www.legislation.gov.uk/ssi/2008/115/article/3/3) and with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10)); [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/10) in force for certain further purposes at 23.11.2009 by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/369/article/3/2/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2009/369/schedule/1/paragraph/7) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))
 
-[^key-54a69e96e19e89a585a120eee1cff51a]: Textual amendment: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/11) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-54a69e96e19e89a585a120eee1cff51a]: Textual amendment: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/11) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-1f1c30be431cc59d09252d37da9523a4]: Textual amendment: Sch. 5 para. 13 repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-1f1c30be431cc59d09252d37da9523a4]: Textual amendment: Sch. 5 para. 13 repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
 [^c2028221]: Commencement: Sch. 5 para. 16 not in force at Royal Assent see s. 227; Sch. 5 para. 16(2)(d)(e)(3)(7)(a)(i)(8)(d)(e)(ii)(g)(i)(9)(10)(12)(13)(14(a)(b) in force and Sch. 5 para. 16(1)(2)(c)(4)(a)(8)(b) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(2)](https://www.legislation.gov.uk/ssi/2008/115/article/3/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/115/schedule/1) (subject to [art. 3(3)](https://www.legislation.gov.uk/ssi/2008/115/article/3/3) and with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10)); Sch. 5 para. 16(1) in force for certain purposes and Sch. 5 para. 16(2)(c)(f)(4)(c)(5)(6)(7)(a)(ii)(iv)(b)(8)(e)(i)(f)(h) in force at 22.4.2009 by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/67/article/3/2/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2009/67/schedule/1/paragraph/4) (with transitional modifications and savings in [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)); Sch. 5 para. 16(1)(2)(a)(4)(a)(8)(a)(11)(a)(b) in force for certain purposes and Sch. 5 para. 16(7)(a)(iii) in force at 23.11.2009 by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/369/article/3/2/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2009/369/schedule/1/paragraph/10) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))
 
-[^key-a997c964755d580464d8119d334e165d]: Textual amendment: Sch. 5 para. 16(14)(c) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-a997c964755d580464d8119d334e165d]: Textual amendment: Sch. 5 para. 16(14)(c) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
 [^c2061469]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/18) partly in force; [Sch. 5 para. 18](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/18) not in force at Royal Assent see [s. 227](https://www.legislation.gov.uk/asp/2007/3/section/227); [Sch. 5 para. 18(a)(ii)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/18/a/ii) in force for certain purposes at 22.4.2009 by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/67/article/3/2/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2009/67/schedule/1/paragraph/5) (with transitional modifications and savings in [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4))
 
-[^key-c70d869b68057c24178a303b2d7788c6]: Textual amendment: [Sch. 5 para. 21](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/21) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-c70d869b68057c24178a303b2d7788c6]: Textual amendment: [Sch. 5 para. 21](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/21) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-a3a2495f619d559f281dad84710642dc]: Textual amendment: [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/25) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-a3a2495f619d559f281dad84710642dc]: Textual amendment: [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/25) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
 [^c2028222]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/26) partly in force; [Sch. 5 para. 26](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/26) not in force at Royal Assent see [s. 227](https://www.legislation.gov.uk/asp/2007/3/section/227); [Sch. 5 para. 26(1)(3)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/26/1/3) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(2)](https://www.legislation.gov.uk/ssi/2008/115/article/3/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/115/schedule/1) (subject to [art. 3(3)](https://www.legislation.gov.uk/ssi/2008/115/article/3/3) and with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10)); [Sch. 5 para. 26(2)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/26/2) in force and Sch. 5 para. 26(1)(3) in force for certain further purposes at 23.11.2009 by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/369/article/3/2/3), [Sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2009/369/schedule/1/paragraph/16) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))
 
-[^key-dde0eda35c1e1732335e18cc77ac3ae4]: Textual amendment: [Sch. 5 para. 27](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/27) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-dde0eda35c1e1732335e18cc77ac3ae4]: Textual amendment: [Sch. 5 para. 27](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/27) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-91027e860bfb6a85dbaad66809c54dcb]: Textual amendment: [Sch. 5 para. 28](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/28) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-91027e860bfb6a85dbaad66809c54dcb]: Textual amendment: [Sch. 5 para. 28](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/28) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
 [^c2011053]: Commencement: Sch. 5 para. 30 not in force at Royal Assent see s. 227; Sch. 5 para. 30(1)(5)-(8)(a)(15) in force for certain purposes and Sch. 5 para. 30(10)(11)(a)(ii)(b) in force at 31.3.2007 by [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e); Sch. 5 para. 30(2)(12)(14) in force and Sch. 5 para. 30(1)(4) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(2)](https://www.legislation.gov.uk/ssi/2008/115/article/3/2){(4)}, Schs. 1, 3 (subject to art. 3(3) and with arts. 4-6, 10); Sch. 5 para. 30(1) in force for certain further purposes and Sch. 5 para. 30(4)(9)(11)(a)(i) in force at 22.4.2009 by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/67/article/3/2/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2009/67/schedule/1/paragraph/8) (with transitional modifications and savings in [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)); Sch. 5 para. 30(1) in force for certain purposes and Sch. 5 para. 30(3) in force at 23.11.2009 by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/369/article/3/2/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2009/369/schedule/1/paragraph/17) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))
 
-[^key-817fa8cce9e8e2737acef65f73b66777]: Textual amendment: Sch. 5 para. 30(8)(b) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-817fa8cce9e8e2737acef65f73b66777]: Textual amendment: Sch. 5 para. 30(8)(b) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-f09875e0b947f3534eef7c8e2453395f]: Textual amendment: Sch. 5 para. 30(13) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-f09875e0b947f3534eef7c8e2453395f]: Textual amendment: Sch. 5 para. 30(13) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-058c4edb175610b20fa06349d173027a]: Textual amendment: [Sch. 5 para. 31](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/31) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-058c4edb175610b20fa06349d173027a]: Textual amendment: [Sch. 5 para. 31](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/31) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-21dfba12c54c0b7a886370e7a3e4683c]: Textual amendment: [Sch. 5 para. 33](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/33) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-21dfba12c54c0b7a886370e7a3e4683c]: Textual amendment: [Sch. 5 para. 33](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/33) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

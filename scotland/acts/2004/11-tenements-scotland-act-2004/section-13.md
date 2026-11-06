@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Notice of potential liability for costs: further provision[^key-80b024eac7ae96782ffb7187f094c681][^key-54d4c6059bfdf2f0de6dd1b3b948d7d5]
+## 13. Notice of potential liability for costs: further provision[^c-80b024eac7ae96782ffb7187f094c681][^c-54d4c6059bfdf2f0de6dd1b3b948d7d5]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) may be registered in relation to a flat only on the application of—
   - (i) the owner of the flat;
   - (ii) the owner of any other flat in the same tenement; or
-  - (iia)[^key-64a4467049af1829a18f5d428cece628] a local authority entitled to recover costs under section 4A(5),
+  - (iia)[^c-64a4467049af1829a18f5d428cece628] a local authority entitled to recover costs under section 4A(5),
   - (iii) any manager (within the meaning of the Tenement Management Scheme) of the tenement; and
 - (b) shall not be registered unless it is signed by or on behalf of the applicant.
 
@@ -36,7 +36,7 @@ summary: ''
 
 (3) A notice of potential liability for costs expires at the end of the period of 3 years beginning with the date of its registration, unless the notice is renewed by being registered again before the end of that period.
 
-(3A)[^key-a5c8f460e6623ced12f2b6d304debefa] The owner of a flat may apply to register a notice (a “notice of discharge”) if—
+(3A)[^c-a5c8f460e6623ced12f2b6d304debefa] The owner of a flat may apply to register a notice (a “notice of discharge”) if—
 
 - (a) a notice of potential liability for costs in relation to the flat has not expired,
 - (b) the liability for costs under section 12(2) to which the notice of potential liability relates has, in relation to the flat which is the subject of the application, been fully discharged, and
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-80b024eac7ae96782ffb7187f094c681]: Commencement: S. 13(6) in force at 10.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/487/article/2/2)
+[^c-80b024eac7ae96782ffb7187f094c681]: Commencement: S. 13(6) in force at 10.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/487/article/2/2)
 
-[^key-54d4c6059bfdf2f0de6dd1b3b948d7d5]: Commencement: S. 13(1)-(5)(7) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/b)
+[^c-54d4c6059bfdf2f0de6dd1b3b948d7d5]: Commencement: S. 13(1)-(5)(7) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/b)
 
-[^key-64a4467049af1829a18f5d428cece628]: Textual amendment: [S. 13(1)(a)](https://www.legislation.gov.uk/asp/2004/11/section/13/1/a)[(iia)](https://www.legislation.gov.uk/asp/2004/11/section/13/1/iia) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(1)(c)](https://www.legislation.gov.uk/asp/2014/14/section/85/1/c), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)
+[^c-64a4467049af1829a18f5d428cece628]: Textual amendment: [S. 13(1)(a)](https://www.legislation.gov.uk/asp/2004/11/section/13/1/a)[(iia)](https://www.legislation.gov.uk/asp/2004/11/section/13/1/iia) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(1)(c)](https://www.legislation.gov.uk/asp/2014/14/section/85/1/c), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)
 
-[^key-a5c8f460e6623ced12f2b6d304debefa]: Textual amendment: S. 13(3A)(3B) inserted (13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 86(2)(a)](https://www.legislation.gov.uk/asp/2014/14/section/86/2/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-a5c8f460e6623ced12f2b6d304debefa]: Textual amendment: S. 13(3A)(3B) inserted (13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 86(2)(a)](https://www.legislation.gov.uk/asp/2014/14/section/86/2/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

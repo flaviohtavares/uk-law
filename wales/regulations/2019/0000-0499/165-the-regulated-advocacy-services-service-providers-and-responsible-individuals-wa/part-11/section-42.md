@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Arrangements when manager is absent[^key-dcf9182d79fec070896a5fb6614fbe86]
+## 42. Arrangements when manager is absent[^c-dcf9182d79fec070896a5fb6614fbe86]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcf9182d79fec070896a5fb6614fbe86]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2019/165/regulation/42) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-dcf9182d79fec070896a5fb6614fbe86]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2019/165/regulation/42) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

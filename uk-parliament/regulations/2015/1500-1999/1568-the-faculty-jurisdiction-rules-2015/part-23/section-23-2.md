@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 23.2. Determination of initial application by chancellor[^key-2149d5c1227fd1697d3d51c023cea55d]
+## 23.2. Determination of initial application by chancellor[^c-2149d5c1227fd1697d3d51c023cea55d]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2149d5c1227fd1697d3d51c023cea55d]: Commencement: [Rule 23.2](https://www.legislation.gov.uk/uksi/2015/1568/article/23.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-2149d5c1227fd1697d3d51c023cea55d]: Commencement: [Rule 23.2](https://www.legislation.gov.uk/uksi/2015/1568/article/23.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Supplemental.[^key-da8d506fe49b78fd1b88e2d8002547f7]
+## 62. Supplemental.[^c-da8d506fe49b78fd1b88e2d8002547f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da8d506fe49b78fd1b88e2d8002547f7]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/1967/22/part/4) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-da8d506fe49b78fd1b88e2d8002547f7]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/1967/22/part/4) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)

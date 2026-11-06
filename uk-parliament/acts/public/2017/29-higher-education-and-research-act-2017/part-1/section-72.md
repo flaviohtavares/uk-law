@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Retention of fee related income[^key-6fd2a44c33baf00d226c676e117fb2e0][^key-8f6c2d00d9a92578c1cb2ee274c93b4d]
+## 72. Retention of fee related income[^c-6fd2a44c33baf00d226c676e117fb2e0][^c-8f6c2d00d9a92578c1cb2ee274c93b4d]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd2a44c33baf00d226c676e117fb2e0]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/29/section/72) in force at 1.1.2019 for specified purposes by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/d)
+[^c-6fd2a44c33baf00d226c676e117fb2e0]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/29/section/72) in force at 1.1.2019 for specified purposes by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/d)
 
-[^key-8f6c2d00d9a92578c1cb2ee274c93b4d]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/29/section/72) in force at 1.8.2019 in so far as not already in force by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/i)
+[^c-8f6c2d00d9a92578c1cb2ee274c93b4d]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/29/section/72) in force at 1.8.2019 in so far as not already in force by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/i)

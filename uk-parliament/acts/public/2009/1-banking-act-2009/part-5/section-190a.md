@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190A. Service provider rules[^key-8929786ef08be03264c4b5ef1872b076]
+## 190A. Service provider rules[^c-8929786ef08be03264c4b5ef1872b076]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8929786ef08be03264c4b5ef1872b076]: Textual amendment: [S. 190A](https://www.legislation.gov.uk/ukpga/2009/1/section/190A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/18)
+[^c-8929786ef08be03264c4b5ef1872b076]: Textual amendment: [S. 190A](https://www.legislation.gov.uk/ukpga/2009/1/section/190A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/18)

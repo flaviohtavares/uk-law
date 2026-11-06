@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 488. Purchase of retirement benefits from an authorised insurer[^key-e052f0dd56ac26e002edcfed3e950818]
+## 488. Purchase of retirement benefits from an authorised insurer[^c-e052f0dd56ac26e002edcfed3e950818]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e052f0dd56ac26e002edcfed3e950818]: Commencement: Art. 488 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e052f0dd56ac26e002edcfed3e950818]: Commencement: Art. 488 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00320]: Footnote: An amendment to paragraph (2) not relevant to this Order was made by [S.I. 1995/2995](https://www.legislation.gov.uk/uksi/1995/2995), article 2(2).

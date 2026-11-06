@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-bb32900e00b8a903a6d9253e8aec8118] Following a request from the enforcing authority, the manufacturer must, within such reasonable period as the authority may specify, provide the authority concerned with all the information and documentation necessary to demonstrate that the radio equipment is in conformity with Part 2.
+(1)[^c-bb32900e00b8a903a6d9253e8aec8118] Following a request from the enforcing authority, the manufacturer must, within such reasonable period as the authority may specify, provide the authority concerned with all the information and documentation necessary to demonstrate that the radio equipment is in conformity with Part 2.
 
 (2) A request referred to in paragraph (1)—
 
@@ -44,7 +44,7 @@ summary: ''
 (1) Further to a request from—
 
 - (a) an enforcing authority, where radio equipment has been placed by a manufacturer on the market in the United Kingdom, or
-- (b) a competent national authority, where the radio equipment has been placed by a manufacturer on the market in another relevant state[^key-45c3c93bc4245f856bd0475aa13e5718],
+- (b) a competent national authority, where the radio equipment has been placed by a manufacturer on the market in another relevant state[^c-45c3c93bc4245f856bd0475aa13e5718],
 
 the manufacturer must, within such reasonable period as the authority may specify, provide the authority concerned with all the information and documentation necessary to demonstrate that the radio equipment is in conformity with Part 2.
 
@@ -67,8 +67,8 @@ the manufacturer must, within such reasonable period as the authority may specif
 
 [^M_E_58d64f5d-f019-45ba-a1af-8447a36ec887]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-bb32900e00b8a903a6d9253e8aec8118]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/16/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/14) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb32900e00b8a903a6d9253e8aec8118]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/16/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/14) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_067539ea-64d1-46f7-c741-42bc55c6d408]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-45c3c93bc4245f856bd0475aa13e5718]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/16/1/b) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 16 para. 3(7)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/3/7)
+[^c-45c3c93bc4245f856bd0475aa13e5718]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/16/1/b) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 16 para. 3(7)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/3/7)

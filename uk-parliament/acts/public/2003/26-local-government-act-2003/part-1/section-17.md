@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. External funds[^key-4ed70da8c99eae6a5c97f7a4ff0dc6b7][^key-2c35bee600d6e2546ec818e424e83382]
+## 17. External funds[^c-4ed70da8c99eae6a5c97f7a4ff0dc6b7][^c-2c35bee600d6e2546ec818e424e83382]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed70da8c99eae6a5c97f7a4ff0dc6b7]: Commencement: S. 17 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
+[^c-4ed70da8c99eae6a5c97f7a4ff0dc6b7]: Commencement: S. 17 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
 
-[^key-2c35bee600d6e2546ec818e424e83382]: Commencement: S. 17 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-2c35bee600d6e2546ec818e424e83382]: Commencement: S. 17 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

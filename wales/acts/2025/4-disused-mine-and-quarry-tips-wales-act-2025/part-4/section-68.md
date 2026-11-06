@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Entry to land with a warrant[^key-2cdc61c6c1bb5ce11191fd0cc8e43d6c]
+## 68. Entry to land with a warrant[^c-2cdc61c6c1bb5ce11191fd0cc8e43d6c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cdc61c6c1bb5ce11191fd0cc8e43d6c]: Commencement: S. 68 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-2cdc61c6c1bb5ce11191fd0cc8e43d6c]: Commencement: S. 68 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

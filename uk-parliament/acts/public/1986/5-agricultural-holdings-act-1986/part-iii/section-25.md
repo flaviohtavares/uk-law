@@ -29,7 +29,7 @@ summary: ''
 - (c) to a notice given by a tenant to a sub-tenant,
 - (d) where the tenancy is one which, by virtue of subsection (6) of section 149 of the [^c10154351]Law of Property Act 1925, has taken effect as such a term of years as is mentioned in that subsection.
 
-(3) Where on a reference under section 12 above with respect to an agricultural holding the arbitrator or third party[^key-9c2ddc55f234d68ec25759bb203bdc8e] determines that the rent payable in respect of the holding shall be increased, a notice to quit the holding given by the tenant at least six months before it purports to take effect shall not be invalid by virtue of subsection (1) above if it purports to terminate the tenancy at the end of the year of the tenancy beginning with the date as from which the increase of rent is effective.
+(3) Where on a reference under section 12 above with respect to an agricultural holding the arbitrator or third party[^c-9c2ddc55f234d68ec25759bb203bdc8e] determines that the rent payable in respect of the holding shall be increased, a notice to quit the holding given by the tenant at least six months before it purports to take effect shall not be invalid by virtue of subsection (1) above if it purports to terminate the tenancy at the end of the year of the tenancy beginning with the date as from which the increase of rent is effective.
 
 (4) On an application made to the Tribunal with respect to an agricultural holding under paragraph 9 of Part II of Schedule 3 to this Act, the Tribunal may, if they grant a certificate in accordance with the application—
 
@@ -44,4 +44,4 @@ and in any such case a notice to quit the holding which states that the Tribunal
 
 [^c10154351]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-9c2ddc55f234d68ec25759bb203bdc8e]: Textual amendment: Words in s. 25(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/13)
+[^c-9c2ddc55f234d68ec25759bb203bdc8e]: Textual amendment: Words in s. 25(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/13)

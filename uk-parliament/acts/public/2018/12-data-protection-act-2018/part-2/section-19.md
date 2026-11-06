@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Processing for archiving, research and statistical purposes: safeguards[^key-2289dc8b6eefe1d46d6a782ef7ea28b8]
+## 19. Processing for archiving, research and statistical purposes: safeguards[^c-2289dc8b6eefe1d46d6a782ef7ea28b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2289dc8b6eefe1d46d6a782ef7ea28b8]: Textual amendment: S. 19 and cross-heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-2289dc8b6eefe1d46d6a782ef7ea28b8]: Textual amendment: S. 19 and cross-heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)

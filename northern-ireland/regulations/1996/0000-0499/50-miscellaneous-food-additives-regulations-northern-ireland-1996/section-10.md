@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Revocation and amendments[^key-796adce5c8b8776e9f1875f54bb2d1b8]
+## 10. Revocation and amendments[^c-796adce5c8b8776e9f1875f54bb2d1b8]
 
 *Extent: N.I.*
 
@@ -277,7 +277,7 @@ summary: ''
 
 ## Annotations
 
-[^key-796adce5c8b8776e9f1875f54bb2d1b8]: Commencement: Reg. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-796adce5c8b8776e9f1875f54bb2d1b8]: Commencement: Reg. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00012]: Footnote: [S.R. & O. (N.I.) 1966 No. 200](https://www.legislation.gov.uk/nisro/1966/200); the relevant amending Regulations are [S.R. 1991 No. 344](https://www.legislation.gov.uk/nisr/1991/344)
 

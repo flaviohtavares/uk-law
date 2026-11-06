@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Detention of extradited person for trial in England and Wales for other offences[^key-28d4a8241fae3dc096696c64a7531ccb]
+## 166. Detention of extradited person for trial in England and Wales for other offences[^c-28d4a8241fae3dc096696c64a7531ccb]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28d4a8241fae3dc096696c64a7531ccb]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2014/12/section/166) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/l)
+[^c-28d4a8241fae3dc096696c64a7531ccb]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2014/12/section/166) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Amendment of the Sales, Markets and Lairs Order (Northern Ireland) 1975[^key-dc8c091b736b165eec5bbf19104ae70a]
+## 27. Amendment of the Sales, Markets and Lairs Order (Northern Ireland) 1975[^c-dc8c091b736b165eec5bbf19104ae70a]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc8c091b736b165eec5bbf19104ae70a]: Commencement: Reg. 27 in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/78/regulation/1)
+[^c-dc8c091b736b165eec5bbf19104ae70a]: Commencement: Reg. 27 in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/78/regulation/1)
 
 [^f00025]: Footnote: [S.R. 1975 No. 294](https://www.legislation.gov.uk/nisr/1975/294) as amended by S.R [1993 No. 371](https://www.legislation.gov.uk/nisr/1993/371) and [S.R. 2005 No. 78](https://www.legislation.gov.uk/nisr/2005/78)

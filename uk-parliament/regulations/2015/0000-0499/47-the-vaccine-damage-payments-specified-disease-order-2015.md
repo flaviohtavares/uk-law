@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Health, in exercise of the powers conferred by sections 1(2)(i) and 2(2) of the Vaccine Damage Payments Act 1979[^f00001], makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-5c5ade00a88ae731710879d924ff466b]
+## 1. Citation, commencement and interpretation[^c-5c5ade00a88ae731710879d924ff466b]
 
 (1) This Order may be cited as the Vaccine Damage Payments (Specified Disease) Order 2015 and comes into force on 28th February 2015.
 
 (2) In this Order, “the Act” means the Vaccine Damage Payments Act 1979.
 
-## 2. Additions to the list of diseases to which the Act applies[^key-564fb1c9e12fc87d99fd25800911b04b]
+## 2. Additions to the list of diseases to which the Act applies[^c-564fb1c9e12fc87d99fd25800911b04b]
 
 (1) Subject to paragraph (2), the following are specified as diseases to which the Act applies—
 
@@ -61,20 +61,20 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 
 (2) Paragraph (1)(b) does not affect any entitlement which arises under the Vaccine Damage Payments (Specified Disease) Order 2009[^f00002] (addition of influenza caused by the pandemic influenza A (H1N1) 2009 virus) and references in this Order to pandemic influenza are to be interpreted accordingly.
 
-## 3. Modification of conditions of entitlement[^key-b469fed27904a2e1bac8207d87f22fbc]
+## 3. Modification of conditions of entitlement[^c-b469fed27904a2e1bac8207d87f22fbc]
 
 The conditions of entitlement in section 2(1) of the Act have effect subject to the following modifications—
 
 - (a) in relation to vaccination against rotavirus, in sub-paragraph (ii) of section 2(1)(a), for “5th July 1948” substitute “1st July 2013”;
-- (b)[^key-9508ac639f00dcd4940295b6085f8d87] in relation to vaccination against influenza, other than influenza caused by a pandemic influenza virus, in sub-paragraph (ii) of section 2(1)(a)—
+- (b)[^c-9508ac639f00dcd4940295b6085f8d87] in relation to vaccination against influenza, other than influenza caused by a pandemic influenza virus, in sub-paragraph (ii) of section 2(1)(a)—
   - (i) in relation to a vaccination carried out at a time when the person to whom it was given was under the age of eighteen, for “5th July 1948” substitute “1st September 2013”; and
   - (ii) in relation to a vaccination carried out at a time when the person to whom it was given was aged eighteen or over, for “5th July 1948” substitute “24th May 2015”;
-- (c) in relation to vaccination against rotavirus [^key-f294471cf597841c475bf9b7568bf93c]..., for paragraph (b) of section 2(1) substitute—
+- (c) in relation to vaccination against rotavirus [^c-f294471cf597841c475bf9b7568bf93c]..., for paragraph (b) of section 2(1) substitute—
 
   > - (b) that the vaccination was carried out at a time when the person to whom it was given was under the age of eighteen; and
 
   ;
-- (d)[^key-8c208ea57be02899023de3e357cd9cf3] The condition of entitlement in section 2(1)(b) of the Act (age or time at which vaccination was carried out) is omitted in relation to vaccination against influenza, other than influenza caused by a pandemic influenza virus.
+- (d)[^c-8c208ea57be02899023de3e357cd9cf3] The condition of entitlement in section 2(1)(b) of the Act (age or time at which vaccination was carried out) is omitted in relation to vaccination against influenza, other than influenza caused by a pandemic influenza virus.
 
 Signed by Authority of the Secretary of State for Health.
 
@@ -102,16 +102,16 @@ A full impact assessment has not been prepared for this Order as it has no impac
 
 [^f00001]: Footnote: [1979 c.17](https://www.legislation.gov.uk/ukpga/1979/17).
 
-[^key-5c5ade00a88ae731710879d924ff466b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/47/article/1) in force at 28.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/47/article/1/1)
+[^c-5c5ade00a88ae731710879d924ff466b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/47/article/1) in force at 28.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/47/article/1/1)
 
-[^key-564fb1c9e12fc87d99fd25800911b04b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/47/article/2) in force at 28.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/47/article/1/1)
+[^c-564fb1c9e12fc87d99fd25800911b04b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/47/article/2) in force at 28.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/47/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2009/2516](https://www.legislation.gov.uk/uksi/2009/2516). This Order was revoked by the Vaccine Damage Payments (Specified Disease) (Revocation and Savings) Order 2010, [S.I. 2010/1988](https://www.legislation.gov.uk/uksi/2010/1988), subject to savings provisions in Article 4 of the latter Order.
 
-[^key-b469fed27904a2e1bac8207d87f22fbc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/47/article/3) in force at 28.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/47/article/1/1)
+[^c-b469fed27904a2e1bac8207d87f22fbc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/47/article/3) in force at 28.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/47/article/1/1)
 
-[^key-9508ac639f00dcd4940295b6085f8d87]: Textual amendment: [Art. 3(b)](https://www.legislation.gov.uk/uksi/2015/47/article/3/b) substituted (25.5.2021) by [The Vaccine Damage Payments (Specified Disease) (Amendment) Order 2021 (S.I. 2021/508)](https://www.legislation.gov.uk/uksi/2021/508), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/508/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/508/article/2/2)
+[^c-9508ac639f00dcd4940295b6085f8d87]: Textual amendment: [Art. 3(b)](https://www.legislation.gov.uk/uksi/2015/47/article/3/b) substituted (25.5.2021) by [The Vaccine Damage Payments (Specified Disease) (Amendment) Order 2021 (S.I. 2021/508)](https://www.legislation.gov.uk/uksi/2021/508), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/508/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/508/article/2/2)
 
-[^key-f294471cf597841c475bf9b7568bf93c]: Textual amendment: Words in [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/47/article/3/c) omitted (25.5.2021) by virtue of [The Vaccine Damage Payments (Specified Disease) (Amendment) Order 2021 (S.I. 2021/508)](https://www.legislation.gov.uk/uksi/2021/508), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/508/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/508/article/2/3)
+[^c-f294471cf597841c475bf9b7568bf93c]: Textual amendment: Words in [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/47/article/3/c) omitted (25.5.2021) by virtue of [The Vaccine Damage Payments (Specified Disease) (Amendment) Order 2021 (S.I. 2021/508)](https://www.legislation.gov.uk/uksi/2021/508), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/508/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/508/article/2/3)
 
-[^key-8c208ea57be02899023de3e357cd9cf3]: Textual amendment: [Art. 3(d)](https://www.legislation.gov.uk/uksi/2015/47/article/3/d) inserted (25.5.2021) by [The Vaccine Damage Payments (Specified Disease) (Amendment) Order 2021 (S.I. 2021/508)](https://www.legislation.gov.uk/uksi/2021/508), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/508/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/508/article/2/4)
+[^c-8c208ea57be02899023de3e357cd9cf3]: Textual amendment: [Art. 3(d)](https://www.legislation.gov.uk/uksi/2015/47/article/3/d) inserted (25.5.2021) by [The Vaccine Damage Payments (Specified Disease) (Amendment) Order 2021 (S.I. 2021/508)](https://www.legislation.gov.uk/uksi/2021/508), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/508/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/508/article/2/4)

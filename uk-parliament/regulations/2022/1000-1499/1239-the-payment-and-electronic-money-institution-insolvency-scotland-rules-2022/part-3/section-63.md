@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Indication to excluded person[^key-cd68467b36a58733a6ccb522f86d9b64]
+## 63. Indication to excluded person[^c-cd68467b36a58733a6ccb522f86d9b64]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd68467b36a58733a6ccb522f86d9b64]: Commencement: Rule 63 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-cd68467b36a58733a6ccb522f86d9b64]: Commencement: Rule 63 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

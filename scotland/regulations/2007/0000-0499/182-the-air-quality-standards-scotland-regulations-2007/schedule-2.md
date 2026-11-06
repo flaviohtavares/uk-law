@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Information to be included in an Improvement Plan[^key-4691bce6a5fe599879f30fcbb36db03c]
+## SCHEDULE 2 — Information to be included in an Improvement Plan[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 *Extent: S*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 8(4)
 
-**1.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)
+[^c-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)

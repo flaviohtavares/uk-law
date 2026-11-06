@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19 — Schedule to be inserted as Schedule 19C to ICTA[^key-70342dbe05afb9ae403e3960be4e3e19]
+## SCHEDULE 19 — Schedule to be inserted as Schedule 19C to ICTA[^c-70342dbe05afb9ae403e3960be4e3e19]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Section 154
 
-[^key-70342dbe05afb9ae403e3960be4e3e19]
+[^c-70342dbe05afb9ae403e3960be4e3e19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70342dbe05afb9ae403e3960be4e3e19]: Textual amendment: Sch. 19 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-70342dbe05afb9ae403e3960be4e3e19]: Textual amendment: Sch. 19 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

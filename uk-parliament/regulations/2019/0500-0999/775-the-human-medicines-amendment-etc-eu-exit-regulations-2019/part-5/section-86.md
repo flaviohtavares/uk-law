@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Amendment of regulation 78 (obligation to ensure appropriate and continued supplies)[^key-8fff451e4977562b104c07df0294b583]
+## 86. Amendment of regulation 78 (obligation to ensure appropriate and continued supplies)[^c-8fff451e4977562b104c07df0294b583]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fff451e4977562b104c07df0294b583]: Textual amendment: Reg. 86 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/63)
+[^c-8fff451e4977562b104c07df0294b583]: Textual amendment: Reg. 86 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/63)

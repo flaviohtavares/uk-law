@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 158. Treatment by exposure type[^key-e35641e497c02a6dc3ffb2247842ad74]
+## Article 158. Treatment by exposure type[^c-e35641e497c02a6dc3ffb2247842ad74]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-e35641e497c02a6dc3ffb2247842ad74]: Textual amendment: [Art. 158](https://www.legislation.gov.uk/eur/2013/575/article/158) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(e)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/e)
+[^c-e35641e497c02a6dc3ffb2247842ad74]: Textual amendment: [Art. 158](https://www.legislation.gov.uk/eur/2013/575/article/158) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(e)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/e)

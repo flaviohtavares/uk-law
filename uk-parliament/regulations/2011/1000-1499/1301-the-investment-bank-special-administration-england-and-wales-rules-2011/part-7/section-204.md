@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 204. Remuneration of new administrator[^key-b23722ed7094b12bec12ff9b78a1cef6]
+## 204. Remuneration of new administrator[^c-b23722ed7094b12bec12ff9b78a1cef6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b23722ed7094b12bec12ff9b78a1cef6]: Commencement: [Rule 204](https://www.legislation.gov.uk/uksi/2011/1301/rule/204) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b23722ed7094b12bec12ff9b78a1cef6]: Commencement: [Rule 204](https://www.legislation.gov.uk/uksi/2011/1301/rule/204) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

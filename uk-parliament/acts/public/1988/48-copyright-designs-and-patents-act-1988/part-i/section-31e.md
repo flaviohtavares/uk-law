@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31E.[^key-eafdb90f8d7f640d6b99d6ddf74baa12]
+## 31E.[^c-eafdb90f8d7f640d6b99d6ddf74baa12]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eafdb90f8d7f640d6b99d6ddf74baa12]: Textual amendment: Ss. 31C-31E repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
+[^c-eafdb90f8d7f640d6b99d6ddf74baa12]: Textual amendment: Ss. 31C-31E repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table

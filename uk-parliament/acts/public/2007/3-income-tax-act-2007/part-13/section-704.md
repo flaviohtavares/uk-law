@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 704. The tribunal[^key-a84486491540357e473fae23529c742c]
+## 704. The tribunal[^c-a84486491540357e473fae23529c742c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a84486491540357e473fae23529c742c]: Textual amendment: S. 704 and cross-heading omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 458](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/458)
+[^c-a84486491540357e473fae23529c742c]: Textual amendment: S. 704 and cross-heading omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 458](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/458)

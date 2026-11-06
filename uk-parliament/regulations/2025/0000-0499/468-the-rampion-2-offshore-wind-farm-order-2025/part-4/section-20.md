@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Public rights of navigation[^key-8205cd8af635f6b43006ce095285165c]
+## 20. Public rights of navigation[^c-8205cd8af635f6b43006ce095285165c]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8205cd8af635f6b43006ce095285165c]: Commencement: Art. 20 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-8205cd8af635f6b43006ce095285165c]: Commencement: Art. 20 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

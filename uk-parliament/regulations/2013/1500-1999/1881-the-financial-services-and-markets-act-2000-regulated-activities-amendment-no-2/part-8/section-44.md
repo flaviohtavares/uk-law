@@ -27,7 +27,7 @@ summary: ''
   - (i) given A a penalty notice under section 39A of the 1974 Act, or
   - (ii) given notice to A under section 34 of the 1974 Act of its determination not to give such a penalty notice.
 
-(2) The notice is to be treated as a warning notice given by the FCA to A under section 207(1)(b) of the Act [^c23374301] (except for the purposes of sections 210 (statements of policy) , 387 (warning notices), 392(a) (application of sections 393 and 394), in so far as it applies to section 393 (third party rights), and 393 of the Act[^key-f4d143475b9870434a4687be39085ab0] which do not apply).
+(2) The notice is to be treated as a warning notice given by the FCA to A under section 207(1)(b) of the Act [^c23374301] (except for the purposes of sections 210 (statements of policy) , 387 (warning notices), 392(a) (application of sections 393 and 394), in so far as it applies to section 393 (third party rights), and 393 of the Act[^c-f4d143475b9870434a4687be39085ab0] which do not apply).
 
 (3) The notice has effect subject to any necessary modifications.
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^c23374301]: Marginal citation: Amended by the Financial Services Act 2010, Schedule 2, paragraphs 1 and 18, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 14.
 
-[^key-f4d143475b9870434a4687be39085ab0]: Textual amendment: Words in [art. 44(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/44/2) substituted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [8](https://www.legislation.gov.uk/uksi/2014/376/article/8)
+[^c-f4d143475b9870434a4687be39085ab0]: Textual amendment: Words in [art. 44(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/44/2) substituted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [8](https://www.legislation.gov.uk/uksi/2014/376/article/8)
 
 [^c23374311]: Marginal citation: Inserted by the Consumer Credit Act 2006, section 54.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Priority substances etc.[^key-711a3e4817723929e5d0ed469b1e9aaa][^key-7f89f25f442b35cebbea175cb0d4d5a1]
+## 34. Priority substances etc.[^c-711a3e4817723929e5d0ed469b1e9aaa][^c-7f89f25f442b35cebbea175cb0d4d5a1]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-711a3e4817723929e5d0ed469b1e9aaa]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/5/section/34) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-711a3e4817723929e5d0ed469b1e9aaa]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/5/section/34) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-7f89f25f442b35cebbea175cb0d4d5a1]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/5/section/34) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)
+[^c-7f89f25f442b35cebbea175cb0d4d5a1]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/5/section/34) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)

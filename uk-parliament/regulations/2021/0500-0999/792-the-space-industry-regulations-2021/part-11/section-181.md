@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Security controls: hazardous material[^key-68668910389e6ad2d784c015f739f87c]
+## 181. Security controls: hazardous material[^c-68668910389e6ad2d784c015f739f87c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68668910389e6ad2d784c015f739f87c]: Commencement: Reg. 181 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-68668910389e6ad2d784c015f739f87c]: Commencement: Reg. 181 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

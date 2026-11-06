@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Earnings of self-employed earners[^key-535c9ae6e2245faf14427f2e5bafe439]
+## 25. Earnings of self-employed earners[^c-535c9ae6e2245faf14427f2e5bafe439]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-535c9ae6e2245faf14427f2e5bafe439]: Commencement: Reg. 25 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-535c9ae6e2245faf14427f2e5bafe439]: Commencement: Reg. 25 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00039]: Footnote: *See* [S.R. & O. (N.I.) 1964 No. 205](https://www.legislation.gov.uk/nisro/1964/205), Article 3 for change in style of Ministry of Labour and National Insurance to Ministry of Health and Social Services; [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504), Article 6 for transfer of functions from Ministry of Health and Social Services to Department of Manpower Services and [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Article 3 for renaming the Department of Manpower Services the Department of Economic Development
 

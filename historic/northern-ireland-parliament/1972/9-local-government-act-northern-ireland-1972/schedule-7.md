@@ -26,11 +26,11 @@ Section 142.
 | --- | --- |
 | 6 | Penalties for acting while disqualified. |
 | 22(2)‐(4)[^c16965491] | Duty to adopt certain procedural standing orders. |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
 | 28 | Disclosure of councillors' pecuniary interests and disability from voting on account thereof. |
 | 29 | Restrictions on application of section 28. |
 | 30 | Relatives of councillors. |
@@ -38,7 +38,7 @@ Section 142.
 | 32 | Ancillary powers of the High Court in exercising jurisdiction under section 31. |
 | 33 | Time limit for proceedings under sections 28, 30 and 31. |
 | [^c22299231]. . . | [^c22299231]. . . |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
 | 40 | The Staff Commission. |
 | 41 | Appointment and qualification of officers. |
 | 42 | Councillors not to be appointed officers. |
@@ -47,8 +47,8 @@ Section 142.
 | 45 | Insurance against default of officers. |
 | 46 | Duty of officers to disclose pecuniary interest. |
 | 47 | Publication of acceptance of unauthorised fee or reward. |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
 | [^c19132691]. . . | [^c19132691]. . . |
 | [^c19132691]. . . | [^c19132691]. . . |
 | [^c19132691]. . . | [^c19132691]. . . |
@@ -72,8 +72,8 @@ Section 142.
 | 123 | Penalty for destroying notices. |
 | 124 | Authentication of documents. |
 | 125 | Custody of records. |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
-| [^key-520e68790d4466f4da2e5c941a6ca877]. . . | [^key-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
+| [^c-520e68790d4466f4da2e5c941a6ca877]. . . | [^c-520e68790d4466f4da2e5c941a6ca877]. . . |
 | 146 | Interpretation: pecuniary interests. |
 | 148 | General interpretation. |
 
@@ -81,7 +81,7 @@ Section 142.
 
 [^c16965491]: Textual amendment: [1992 NI 6](https://www.legislation.gov.uk/nisi/1992)
 
-[^key-520e68790d4466f4da2e5c941a6ca877]: Textual amendment: In Sch. 7 the entries relating to ss. 23, 24, 25, 26, 27, 39, 47A, 48, 127, 128 repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-520e68790d4466f4da2e5c941a6ca877]: Textual amendment: In Sch. 7 the entries relating to ss. 23, 24, 25, 26, 27, 39, 47A, 48, 127, 128 repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
 [^c22299231]: Textual amendment: In Sch. 7 the entry relating to s. 36 repealed (1.4.2012) by [Local Government Finance Act (Northern Ireland) 2011 (c. 10)](https://www.legislation.gov.uk/nia/2011/10), [ss. 45](https://www.legislation.gov.uk/nia/2011/10/section/45), [46](https://www.legislation.gov.uk/nia/2011/10/section/46), [47(2)](https://www.legislation.gov.uk/nia/2011/10/section/47/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/nia/2011/10/schedule/2); [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
 

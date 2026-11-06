@@ -173,7 +173,7 @@ In the Perjury Act 1911 after section 1 there shall be inserted—
 
 ### The False Oaths (Scotland) Act 1933[^c7014741]
 
-[^key-adc35be75fc44926962d3f7fe929a10b]...
+[^c-adc35be75fc44926962d3f7fe929a10b]...
 
 ### The Administration of Justice (Scotland) Act 1933[^c7014751]
 
@@ -231,7 +231,7 @@ Section 8(2).
 
 [^c7014741]: Marginal citation: [1933 c. 20](https://www.legislation.gov.uk/ukpga/1933/20).
 
-[^key-adc35be75fc44926962d3f7fe929a10b]: Textual amendment: Words in Sch. 1 repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 11](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/11); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-adc35be75fc44926962d3f7fe929a10b]: Textual amendment: Words in Sch. 1 repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 11](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/11); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c7014751]: Marginal citation: [1933 c. 41](https://www.legislation.gov.uk/ukpga/1933/41).
 

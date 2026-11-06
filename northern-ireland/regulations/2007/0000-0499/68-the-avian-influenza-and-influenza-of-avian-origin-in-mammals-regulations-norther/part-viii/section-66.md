@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Cleansing, disinfection and treatment[^key-6ab65d759ec4cee9a293ff939ec547a6]
+## 66. Cleansing, disinfection and treatment[^c-6ab65d759ec4cee9a293ff939ec547a6]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ab65d759ec4cee9a293ff939ec547a6]: Commencement: Reg. 66 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-6ab65d759ec4cee9a293ff939ec547a6]: Commencement: Reg. 66 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
 [^f00012]: Footnote: S.R. & O. [(N.I.) 1972 No 16](https://www.legislation.gov.uk/nisro/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69), [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467) and [S.R. 2006 No. 42](https://www.legislation.gov.uk/nisr/2006/42)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Application of regulations 41, 42 and 43[^key-1a0fd7809e2b8c44f4086aaf66424ec0]
+## 86. Application of regulations 41, 42 and 43[^c-1a0fd7809e2b8c44f4086aaf66424ec0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a0fd7809e2b8c44f4086aaf66424ec0]: Commencement: Reg. 86 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-1a0fd7809e2b8c44f4086aaf66424ec0]: Commencement: Reg. 86 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -50,9 +50,9 @@ The Secretary of State is a Minister designated[^f00002] for the purposes of sec
 
 Insofar as the following Regulations are made in exercise of powers under the Food Safety Act 1990[^f00003], the Secretary of State has had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00004] of that Act.
 
-There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005].[^key-72bc66ea754d9efa887582bd789ddced]
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005].[^c-72bc66ea754d9efa887582bd789ddced]
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by—[^key-72bc66ea754d9efa887582bd789ddced]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by—[^c-72bc66ea754d9efa887582bd789ddced]
 
 - (a)
 - (b)
@@ -241,15 +241,15 @@ A person must not trade in a concentrated fruit juice that is not intended for d
 
 ## 15. Manner of marking or labelling
 
-(1)[^key-1fb33902e04ad78c516b79973eb8aec2] Regulations 35(1), 36(1) and (5) and 38 of the Food Labelling Regulations 1996 *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2][^f00018] (which relate to the manner of marking or labelling of food) apply to the particulars with which a regulated product is required to be marked or labelled by the provisions of these Regulations listed in paragraph (2). *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2]
+(1)[^c-1fb33902e04ad78c516b79973eb8aec2] Regulations 35(1), 36(1) and (5) and 38 of the Food Labelling Regulations 1996 *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2][^f00018] (which relate to the manner of marking or labelling of food) apply to the particulars with which a regulated product is required to be marked or labelled by the provisions of these Regulations listed in paragraph (2). *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2]
 
-(2) The provisions are— *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2]
+(2) The provisions are— *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2]
 
-- (a) regulation *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2] 10(1);
-- (b) regulation *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2] 11(1);
-- (c) regulation *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2] 12(1);
-- (d) regulation *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2] 13;
-- (e) regulation *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2] 14(1), as read with regulation *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2] 14(2), (4), (5) and (8). *(affected by repeal, see note)*[^key-1fb33902e04ad78c516b79973eb8aec2]
+- (a) regulation *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2] 10(1);
+- (b) regulation *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2] 11(1);
+- (c) regulation *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2] 12(1);
+- (d) regulation *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2] 13;
+- (e) regulation *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2] 14(1), as read with regulation *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2] 14(2), (4), (5) and (8). *(affected by repeal, see note)*[^c-1fb33902e04ad78c516b79973eb8aec2]
 
 ## 16. Enforcement
 
@@ -326,7 +326,7 @@ The provisions of the Act specified in column 1 of Schedule 14 apply with the mo
 
 Schedule 15 has effect.
 
-## 22. Transitional provisions[^key-55407119a86765a979f94406459b04af]
+## 22. Transitional provisions[^c-55407119a86765a979f94406459b04af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -403,7 +403,7 @@ Regulation 2(1)
 
 Regulation 2(2)(a)
 
-**1.** Fruit juice from concentrate is the product obtained by reconstituting concentrated fruit juice with potable water that complies with the requirements of regulation 4(2) of the Water Supply (Water Quality) Regulations 2016[^key-51a2298dd8bd1eebf8e538c834da247d].
+**1.** Fruit juice from concentrate is the product obtained by reconstituting concentrated fruit juice with potable water that complies with the requirements of regulation 4(2) of the Water Supply (Water Quality) Regulations 2016[^c-51a2298dd8bd1eebf8e538c834da247d].
 
 **2.** In a case where a fruit juice from concentrate is manufactured from a fruit specified in column 2 of Schedule 13, the soluble solids content of the finished product must have a Brix level of at least the level specified in the corresponding entry in column 3 of that Schedule, as read together with the Notes to that Schedule.
 
@@ -479,9 +479,9 @@ Regulation 2(3)
 
 ### PART 1 — General specification for fruit nectar
 
-**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^key-a2233f5b319b6376fc90050fee5682f4] listed in paragraph 2 either with or without one or both of the substances listed in paragraph 3.
+**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^c-a2233f5b319b6376fc90050fee5682f4] listed in paragraph 2 either with or without one or both of the substances listed in paragraph 3.
 
-**2.** The products[^key-7c72214cfb140c93f73d1c543a98dbd6] are—
+**2.** The products[^c-7c72214cfb140c93f73d1c543a98dbd6] are—
 
 - (a) fruit juice;
 - (b) fruit juice from concentrate;
@@ -608,7 +608,7 @@ Regulation 3(1)
 
 **9.** Chemically inert adsorption aids which comply with Regulation 1935/2004 and which are used to reduce the limonoid and naringin content of citrus juice without significantly affecting the limonoid glucosides, acid, sugars (including oligosaccharides) or mineral content of such juice.
 
-**10.**[^key-6a293774c385a8909015dcb7dd3a108b] Plant proteins for clarification from—
+**10.**[^c-6a293774c385a8909015dcb7dd3a108b] Plant proteins for clarification from—
 
 - (a) wheat,
 - (b) peas,
@@ -715,7 +715,7 @@ Regulation 19
 
 Regulation 21
 
-### 1. Amendment of the Food Labelling Regulations 1996[^key-6d3037372aef7e8c65ed813aee3b60bf]
+### 1. Amendment of the Food Labelling Regulations 1996[^c-6d3037372aef7e8c65ed813aee3b60bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -774,7 +774,7 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^f00005]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p 14).
 
-[^key-72bc66ea754d9efa887582bd789ddced]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2775) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-72bc66ea754d9efa887582bd789ddced]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2775) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00013]: Footnote: OJ No L 10, 12.1.2002, p 58, last amended by Directive 2012/12/EU of the European Parliament and of the Council (OJ No L 115, 27.4.2012, p 1).
 
@@ -786,7 +786,7 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^f00017]: Footnote: OJ No L 10, 12.1.2002, p 53, to which there are corrigenda not relevant to the English version of the Directive.
 
-[^key-1fb33902e04ad78c516b79973eb8aec2]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/2775/regulation/15) ceases to have effect (13.12.2014) by virtue of [The Fruit Juices and Fruit Nectars (England) Regulations 2013 (S.I. 2013/2775)](https://www.legislation.gov.uk/uksi/2013/2775), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/1/3)[(3)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/1/3)
+[^c-1fb33902e04ad78c516b79973eb8aec2]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/2775/regulation/15) ceases to have effect (13.12.2014) by virtue of [The Fruit Juices and Fruit Nectars (England) Regulations 2013 (S.I. 2013/2775)](https://www.legislation.gov.uk/uksi/2013/2775), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/1/3)[(3)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/1/3)
 
 [^f00018]: Footnote: [S.I 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499); relevant amending instruments are [S.I. 1999/747](https://www.legislation.gov.uk/uksi/1999/747), [2000/768](https://www.legislation.gov.uk/uksi/2000/768), [2254](https://www.legislation.gov.uk/uksi/2000/2254).
 
@@ -796,7 +796,7 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^f00021]: Footnote: [S.I. 2009/3235](https://www.legislation.gov.uk/uksi/2009/3235).
 
-[^key-55407119a86765a979f94406459b04af]: Textual amendment: Reg. 22 omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/2)
+[^c-55407119a86765a979f94406459b04af]: Textual amendment: Reg. 22 omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/2)
 
 [^f00023]: Footnote: OJ No L 330, 5.12.1998, p 32, last amended by Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p 14).
 
@@ -804,18 +804,18 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^f00025]: Footnote: OJ No L 354, 31.12.2008, p 7, last amended by Commission Regulation (EU) No 1056/2012 (OJ No L 313, 13.11.2012, p 9).
 
-[^key-51a2298dd8bd1eebf8e538c834da247d]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2013/2775/schedule/3/paragraph/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2019/526/regulation/28)
+[^c-51a2298dd8bd1eebf8e538c834da247d]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2013/2775/schedule/3/paragraph/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2019/526/regulation/28)
 
-[^key-a2233f5b319b6376fc90050fee5682f4]: Textual amendment: Word in Sch. 7 para. 1 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(3)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/3/a)
+[^c-a2233f5b319b6376fc90050fee5682f4]: Textual amendment: Word in Sch. 7 para. 1 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(3)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/3/a)
 
-[^key-7c72214cfb140c93f73d1c543a98dbd6]: Textual amendment: Word in Sch. 7 para. 2 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/3/b)
+[^c-7c72214cfb140c93f73d1c543a98dbd6]: Textual amendment: Word in Sch. 7 para. 2 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/3/b)
 
-[^key-6a293774c385a8909015dcb7dd3a108b]: Textual amendment: Sch. 9 para. 10 inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(4)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/4)
+[^c-6a293774c385a8909015dcb7dd3a108b]: Textual amendment: Sch. 9 para. 10 inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [24(4)](https://www.legislation.gov.uk/uksi/2018/575/regulation/24/4)
 
 [^f00026]: Footnote: Section 35(1) is amended by paragraph 42 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed.
 
 [^f00027]: Footnote: Section 36A was inserted by paragraph 16 of Schedule 5 to the Food Standards Act 1999.
 
-[^key-6d3037372aef7e8c65ed813aee3b60bf]: Textual amendment: [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2013/2775/schedule/15/paragraph/1) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 32
+[^c-6d3037372aef7e8c65ed813aee3b60bf]: Textual amendment: [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2013/2775/schedule/15/paragraph/1) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 32
 
 [^f00029]: Footnote: [S.I. 2007/2359](https://www.legislation.gov.uk/uksi/2007/2359), amended by [S.I. 2008/1800](https://www.legislation.gov.uk/uksi/2008/1800); there are other amending instruments but none is relevant.

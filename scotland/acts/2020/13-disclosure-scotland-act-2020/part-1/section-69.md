@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Interpretation of Part 1[^key-adf8d6d8f4a09c893a3a9a3abadd963e][^key-f68cb8966cab39fda807a5c6ea787c83]
+## 69. Interpretation of Part 1[^c-adf8d6d8f4a09c893a3a9a3abadd963e][^c-f68cb8966cab39fda807a5c6ea787c83]
 
 *Extent: S*
 
 In this Part—
 
-- “[^key-37429c14bd1eed0200019f1aee6a0a35]**2025 Order**” means the Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423),
+- “[^c-37429c14bd1eed0200019f1aee6a0a35]**2025 Order**” means the Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423),
 - “**accredited body**” has the meaning given in section 46(2),
 - “**acting in relation to a disclosure request**” is to be construed in accordance with section 47(11),
 - the “adults' list” means the list referred to in section 1(1)(b) of the PVG Act,
@@ -32,7 +32,7 @@ In this Part—
 - “**central records**” means such records of convictions, cautions or other information held for the use of police forces generally as may be prescribed,
 - “**certificate**” means any one or more documents provided in response to a particular application,
 - “**chief constable**” means the chief constable of the Police Service of Scotland,
-- “[^key-e3354f55b3bda1d2707875ea604a13d2]**chief officer**”, in relation to a body mentioned in article 5 of the 2025 Order, means the person stated by that article to be the body’s chief officer (but this definition does not supersede that given in section 49 for that section’s own purposes),
+- “[^c-e3354f55b3bda1d2707875ea604a13d2]**chief officer**”, in relation to a body mentioned in article 5 of the 2025 Order, means the person stated by that article to be the body’s chief officer (but this definition does not supersede that given in section 49 for that section’s own purposes),
 - “**childhood caution**”, in relation to an individual, means a caution given in respect of an offence committed when the individual was under 18 years of age,
 - “**childhood conviction**”, in relation to an individual, means a conviction for an offence committed when the individual was under 18 years of age,
 - “**children**” is to be construed in accordance with the definition of “child” in section 97(1) of the PVG Act,
@@ -73,10 +73,10 @@ In this Part—
 
 ## Annotations
 
-[^key-adf8d6d8f4a09c893a3a9a3abadd963e]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) in force at 10.12.2021 for specified purposes by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
+[^c-adf8d6d8f4a09c893a3a9a3abadd963e]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) in force at 10.12.2021 for specified purposes by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
 
-[^key-f68cb8966cab39fda807a5c6ea787c83]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) in force at 30.9.2024 in so far as not already in force by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-f68cb8966cab39fda807a5c6ea787c83]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) in force at 30.9.2024 in so far as not already in force by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-37429c14bd1eed0200019f1aee6a0a35]: Textual amendment: Words in [s. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(12)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/12/a)
+[^c-37429c14bd1eed0200019f1aee6a0a35]: Textual amendment: Words in [s. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(12)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/12/a)
 
-[^key-e3354f55b3bda1d2707875ea604a13d2]: Textual amendment: Words in [s. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(12)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/12/b)
+[^c-e3354f55b3bda1d2707875ea604a13d2]: Textual amendment: Words in [s. 69](https://www.legislation.gov.uk/asp/2020/13/section/69) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(12)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/12/b)

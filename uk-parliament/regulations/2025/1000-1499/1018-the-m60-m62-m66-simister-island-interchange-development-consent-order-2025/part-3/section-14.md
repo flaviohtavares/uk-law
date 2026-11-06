@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Temporary closure and restriction of use of streets[^key-4edd9d74438196ee5af85f042ea97604]
+## 14. Temporary closure and restriction of use of streets[^c-4edd9d74438196ee5af85f042ea97604]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4edd9d74438196ee5af85f042ea97604]: Commencement: Art. 14 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-4edd9d74438196ee5af85f042ea97604]: Commencement: Art. 14 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

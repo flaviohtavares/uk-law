@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Applications to resolve disagreements[^key-e3c4a0eaff6ff049f490f959d949de78]
+## 58. Applications to resolve disagreements[^c-e3c4a0eaff6ff049f490f959d949de78]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ must also set out his national insurance number (if any) and the name of his emp
 
 ## Annotations
 
-[^key-e3c4a0eaff6ff049f490f959d949de78]: Commencement: Reg. 58 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-e3c4a0eaff6ff049f490f959d949de78]: Commencement: Reg. 58 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

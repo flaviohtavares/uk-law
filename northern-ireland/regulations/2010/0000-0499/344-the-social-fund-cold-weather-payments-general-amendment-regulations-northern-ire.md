@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-4f78a6a51b5f60ba48571f7ea4e8b2dd]
+## 1. Citation, commencement and interpretation[^c-4f78a6a51b5f60ba48571f7ea4e8b2dd]
 
 (1) These Regulations may be cited as the Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 1st November 2010.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Fund (Cold Weather Payments) (General) Regulations[^key-dff078a2e7dbf511be559447b74334f7]
+## 2. Amendment of the Social Fund (Cold Weather Payments) (General) Regulations[^c-dff078a2e7dbf511be559447b74334f7]
 
 (1) The Social Fund (Cold Weather Payments) (General) Regulations (Northern Ireland) 1988[^f00004] are amended in accordance with paragraphs (2) to (5).
 
@@ -121,7 +121,7 @@ The Department for Social Development makes the following Regulations in exercis
 (4) In regulation 2[^f00013] (prescribed circumstances)—
 
 - (a) in paragraph (1) for “a payment may be made out of the social fund to meet expenses for heating under Article 33(2A) of the Order” substitute “a cold weather payment may be made”;
-- (b)[^key-d97871896dfbbcb43e2c09d51f3a7ce7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d97871896dfbbcb43e2c09d51f3a7ce7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for paragraph (5)[^f00015] substitute—
 
   > (5) Where—
@@ -138,7 +138,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (5) For the Schedule[^f00016] substitute the Schedule set out in Schedule 1 to these Regulations.
 
-## 3. Revocations[^key-94c67399df2c9138695648d61964ca15]
+## 3. Revocations[^c-94c67399df2c9138695648d61964ca15]
 
 The provisions specified in column (1) of Schedule 2 are revoked to the extent specified in column (3).
 
@@ -150,7 +150,7 @@ Anne Mc Cleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1[^key-a2fe8834b8f2567661b691859750bd43]
+## SCHEDULE 1[^c-a2fe8834b8f2567661b691859750bd43]
 
 > **SCHEDULE**
 >
@@ -172,7 +172,7 @@ A senior officer of the Department for Social Development
 > </tbody>
 > </table>
 
-## SCHEDULE 2 — Revocations[^key-7249d3c88248a3cb0a44fe205a6e1ff2]
+## SCHEDULE 2 — Revocations[^c-7249d3c88248a3cb0a44fe205a6e1ff2]
 
 Regulation 3
 
@@ -231,11 +231,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-4f78a6a51b5f60ba48571f7ea4e8b2dd]: Commencement: Reg. 1 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
+[^c-4f78a6a51b5f60ba48571f7ea4e8b2dd]: Commencement: Reg. 1 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N. I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-dff078a2e7dbf511be559447b74334f7]: Commencement: Reg. 2 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
+[^c-dff078a2e7dbf511be559447b74334f7]: Commencement: Reg. 2 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1988 No. 368](https://www.legislation.gov.uk/nisr/1988/368); relevant amending Regulations are [S.R. 1991 Nos. 464](https://www.legislation.gov.uk/nisr/1991/464) and [487](https://www.legislation.gov.uk/nisr/1991/487), [S.R. 1992 No. 470](https://www.legislation.gov.uk/nisr/1992/470), [S.R. 1996 No. 488](https://www.legislation.gov.uk/nisr/1996/488), [S.R. 1997 No. 437](https://www.legislation.gov.uk/nisr/1997/437), [S.R. 2001 No. 386](https://www.legislation.gov.uk/nisr/2001/386), [S.R. 2002 No. 315](https://www.legislation.gov.uk/nisr/2002/315), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [267](https://www.legislation.gov.uk/nisr/2003/267), [S.R. 2004 No. 429](https://www.legislation.gov.uk/nisr/2004/429), [S.R. 2005 Nos. 447](https://www.legislation.gov.uk/nisr/2005/447) and [458](https://www.legislation.gov.uk/nisr/2005/458) and [S.R. 2008 Nos. 286](https://www.legislation.gov.uk/nisr/2008/286) and [411](https://www.legislation.gov.uk/nisr/2008/411)
 
@@ -257,14 +257,14 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00013]: Footnote: Regulation 2 was substituted by regulation 3 of [S.R. 1991 No. 464](https://www.legislation.gov.uk/nisr/1991/464)
 
-[^key-d97871896dfbbcb43e2c09d51f3a7ce7]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2010/344/regulation/2/4/b) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)
+[^c-d97871896dfbbcb43e2c09d51f3a7ce7]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2010/344/regulation/2/4/b) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)
 
 [^f00015]: Footnote: Paragraph (5) was amended by regulation 3(d) and (e) of [S.R. 1991 No. 487](https://www.legislation.gov.uk/nisr/1991/487)
 
 [^f00016]: Footnote: The Schedule was substituted by regulation 2 of [S.R. 2001 No. 386](https://www.legislation.gov.uk/nisr/2001/386) and amended by regulation 2 of [S.R. 2002 No. 315](https://www.legislation.gov.uk/nisr/2002/315)
 
-[^key-94c67399df2c9138695648d61964ca15]: Commencement: Reg. 3 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
+[^c-94c67399df2c9138695648d61964ca15]: Commencement: Reg. 3 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
 
-[^key-a2fe8834b8f2567661b691859750bd43]: Commencement: Sch. 1 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
+[^c-a2fe8834b8f2567661b691859750bd43]: Commencement: Sch. 1 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
 
-[^key-7249d3c88248a3cb0a44fe205a6e1ff2]: Commencement: Sch. 2 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)
+[^c-7249d3c88248a3cb0a44fe205a6e1ff2]: Commencement: Sch. 2 in operation at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1)

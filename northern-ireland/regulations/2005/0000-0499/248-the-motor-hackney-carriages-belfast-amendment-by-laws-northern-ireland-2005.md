@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2005 (revoked)[^key-26fce6f735677741aca13498fe0fddbd]
+The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2005 (revoked)[^c-26fce6f735677741aca13498fe0fddbd]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 18th June 2005
 
-[^key-26fce6f735677741aca13498fe0fddbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26fce6f735677741aca13498fe0fddbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-26fce6f735677741aca13498fe0fddbd]
+## 1. Citation and commencement[^c-26fce6f735677741aca13498fe0fddbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. By-Laws amended[^key-26fce6f735677741aca13498fe0fddbd]
+## 2. By-Laws amended[^c-26fce6f735677741aca13498fe0fddbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26fce6f735677741aca13498fe0fddbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26fce6f735677741aca13498fe0fddbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-26fce6f735677741aca13498fe0fddbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26fce6f735677741aca13498fe0fddbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26fce6f735677741aca13498fe0fddbd]: Textual amendment: By-Law revoked (17.12.2007) by [The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2007 (S.R. 2007/480)](https://www.legislation.gov.uk/nisr/2007/480), By-law. 3
+[^c-26fce6f735677741aca13498fe0fddbd]: Textual amendment: By-Law revoked (17.12.2007) by [The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2007 (S.R. 2007/480)](https://www.legislation.gov.uk/nisr/2007/480), By-law. 3

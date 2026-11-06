@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. The IFR’s general duties etc[^key-14b027e748fce80108aec00071afc8aa]
+## 7. The IFR’s general duties etc[^c-14b027e748fce80108aec00071afc8aa]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14b027e748fce80108aec00071afc8aa]: Commencement: S. 7 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-14b027e748fce80108aec00071afc8aa]: Commencement: S. 7 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

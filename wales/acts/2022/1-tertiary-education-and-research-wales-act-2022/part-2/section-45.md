@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Registration decision reviews[^key-a1ef19468677eaf18a49ace0f2026325][^key-8e24ddaf5d85d0ac78a90a952d5159cc]
+## 45. Registration decision reviews[^c-a1ef19468677eaf18a49ace0f2026325][^c-8e24ddaf5d85d0ac78a90a952d5159cc]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ The governing body of a tertiary education provider may apply for a review by th
 
 ## Annotations
 
-[^key-a1ef19468677eaf18a49ace0f2026325]: Commencement: S. 45 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-a1ef19468677eaf18a49ace0f2026325]: Commencement: S. 45 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-8e24ddaf5d85d0ac78a90a952d5159cc]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2022/1/section/45) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(r)](https://www.legislation.gov.uk/wsi/2025/432/article/2/r)
+[^c-8e24ddaf5d85d0ac78a90a952d5159cc]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2022/1/section/45) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(r)](https://www.legislation.gov.uk/wsi/2025/432/article/2/r)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Obstruction of construction of authorised works[^key-75041c025decec1e3b7d0dbf36413a87]
+## 22. Obstruction of construction of authorised works[^c-75041c025decec1e3b7d0dbf36413a87]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-75041c025decec1e3b7d0dbf36413a87]: Commencement: Art. 22 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-75041c025decec1e3b7d0dbf36413a87]: Commencement: Art. 22 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

@@ -25,7 +25,7 @@ summary: ''
 - (a) a police force in Great Britain;
 - (b) the Police Service of Northern Ireland and the Police Service of Northern Ireland (Reserve);
 - (c) the Serious Organised Crime Agency;
-- (d)[^key-bfed21f0213a26dbfe94b470459455d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-bfed21f0213a26dbfe94b470459455d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) any body of constables established under an Act of Parliament
 
 (2) For the purpose of regulation 101(1), the relevant part of the documents listed in that provision is the whole of them.
@@ -42,4 +42,4 @@ otherwise than for the purpose of the prevention and detection of crime and the 
 
 ## Annotations
 
-[^key-bfed21f0213a26dbfe94b470459455d8]: Textual amendment: [Reg. 107(1)(d)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/107/1/d) omitted (31.10.2023) by virtue of [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/5/2)
+[^c-bfed21f0213a26dbfe94b470459455d8]: Textual amendment: [Reg. 107(1)(d)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/107/1/d) omitted (31.10.2023) by virtue of [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/5/2)

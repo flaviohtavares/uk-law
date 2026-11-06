@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Power to remove goods[^key-41a8d9b33f9ba223b39f528ccee44523]
+## 43. Power to remove goods[^c-41a8d9b33f9ba223b39f528ccee44523]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a8d9b33f9ba223b39f528ccee44523]: Commencement: Art. 43 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-41a8d9b33f9ba223b39f528ccee44523]: Commencement: Art. 43 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

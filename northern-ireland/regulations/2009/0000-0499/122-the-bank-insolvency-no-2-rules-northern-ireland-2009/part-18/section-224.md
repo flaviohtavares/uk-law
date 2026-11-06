@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 224. Procedure on appeal[^key-371d3cdb754073f489d7b7afe77d0ec5]
+## 224. Procedure on appeal[^c-371d3cdb754073f489d7b7afe77d0ec5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.42 of the 1991 Rules.
 
 ## Annotations
 
-[^key-371d3cdb754073f489d7b7afe77d0ec5]: Commencement: Rule 224 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-371d3cdb754073f489d7b7afe77d0ec5]: Commencement: Rule 224 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

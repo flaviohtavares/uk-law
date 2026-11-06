@@ -44,9 +44,9 @@ summary: ''
 
 (7) For the purposes of this regulation—
 
-- (a)[^key-da2c77de39a5696c0e1b2f0843ae5d86] in calculating assumed pensionable pay in accordance with regulation 23(4) (assumed pensionable pay), no account is to be taken of any reduction in the pensionable pay the member received if an IRMP has certified that the member was working reduced contractual hours or at a lower grade, wholly or temporarily as a result of the condition that caused or contributed to the member’s ill-health retirement; and
+- (a)[^c-da2c77de39a5696c0e1b2f0843ae5d86] in calculating assumed pensionable pay in accordance with regulation 23(4) (assumed pensionable pay), no account is to be taken of any reduction in the pensionable pay the member received if an IRMP has certified that the member was working reduced contractual hours or at a lower grade, wholly or temporarily as a result of the condition that caused or contributed to the member’s ill-health retirement; and
 - (b) no adjustment is to be made to any sum by virtue of regulation 23(6) (assumed pensionable pay, adjustments) for any period after the date of termination of employment under regulation 36 (early payment of retirement pension on ill-health grounds: active members).
 
 ## Annotations
 
-[^key-da2c77de39a5696c0e1b2f0843ae5d86]: Textual amendment: [Reg. 39(7)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/39/7/a) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2016/128/regulation/13)
+[^c-da2c77de39a5696c0e1b2f0843ae5d86]: Textual amendment: [Reg. 39(7)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/39/7/a) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2016/128/regulation/13)

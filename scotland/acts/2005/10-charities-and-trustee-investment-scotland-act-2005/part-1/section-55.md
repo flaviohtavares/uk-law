@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Entry in Register[^key-3d3ba34483f12b008b282f407c026f8c]
+## 55. Entry in Register[^c-3d3ba34483f12b008b282f407c026f8c]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d3ba34483f12b008b282f407c026f8c]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2005/10/section/55) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(e)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/e)
+[^c-3d3ba34483f12b008b282f407c026f8c]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2005/10/section/55) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(e)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/e)

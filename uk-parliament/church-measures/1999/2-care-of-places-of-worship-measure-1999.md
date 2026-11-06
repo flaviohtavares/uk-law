@@ -31,68 +31,68 @@ Care of Places of Worship Measure 1999 (repealed)
 
 1999 No. 2
 
-[^key-21e76b0561441852d9e0ab7d77a50909]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21e76b0561441852d9e0ab7d77a50909]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. List of buildings affected by the Measure.[^key-21e76b0561441852d9e0ab7d77a50909]
+## 1. List of buildings affected by the Measure.[^c-21e76b0561441852d9e0ab7d77a50909]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Supplementary provisions re the list.[^key-21e76b0561441852d9e0ab7d77a50909]
+## 2. Supplementary provisions re the list.[^c-21e76b0561441852d9e0ab7d77a50909]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Effect of inclusion in the list.[^key-21e76b0561441852d9e0ab7d77a50909]
+## 3. Effect of inclusion in the list.[^c-21e76b0561441852d9e0ab7d77a50909]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Ecclesiastical Fees Measure 1986.[^key-21e76b0561441852d9e0ab7d77a50909]
+## 4. Amendment of Ecclesiastical Fees Measure 1986.[^c-21e76b0561441852d9e0ab7d77a50909]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Rules.[^key-21e76b0561441852d9e0ab7d77a50909]
+## 5. Rules.[^c-21e76b0561441852d9e0ab7d77a50909]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Interpretation.[^key-21e76b0561441852d9e0ab7d77a50909]
+## 6. Interpretation.[^c-21e76b0561441852d9e0ab7d77a50909]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Citation, commencement and extent.[^key-21e76b0561441852d9e0ab7d77a50909]
+## 7. Citation, commencement and extent.[^c-21e76b0561441852d9e0ab7d77a50909]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-21e76b0561441852d9e0ab7d77a50909] SCHEDULES
+[^c-21e76b0561441852d9e0ab7d77a50909] SCHEDULES
 
-## SCHEDULE 1 — Provisions relating to the list[^key-21e76b0561441852d9e0ab7d77a50909]
+## SCHEDULE 1 — Provisions relating to the list[^c-21e76b0561441852d9e0ab7d77a50909]
 
 Section 2(4).
 
-**1.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Amendment of Ecclesiastical Fees Measure 1986[^key-21e76b0561441852d9e0ab7d77a50909]
+## SCHEDULE 2 — Amendment of Ecclesiastical Fees Measure 1986[^c-21e76b0561441852d9e0ab7d77a50909]
 
 Section 4.
 
-**1.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-21e76b0561441852d9e0ab7d77a50909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21e76b0561441852d9e0ab7d77a50909]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1999/2) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [s. 38](https://www.legislation.gov.uk/ukcm/2018/3/section/38), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-21e76b0561441852d9e0ab7d77a50909]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1999/2) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [s. 38](https://www.legislation.gov.uk/ukcm/2018/3/section/38), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

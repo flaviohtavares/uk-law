@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Requirement to nominate or appoint responsible officer[^key-3ae8ad4d765c2c18509b88750dd18d80]
+## 45A. Requirement to nominate or appoint responsible officer[^c-3ae8ad4d765c2c18509b88750dd18d80]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) for conditions that must be satisfied in relation to a person if that person is to be nominated or appointed as, or remain as, a responsible officer of a designated body,
 - (b) authorising or requiring a designated body to nominate or appoint more than one responsible officer,
 - (c) for a single person to be nominated or appointed as the responsible officer for each of two or more designated bodies where those bodies are satisfied as to the prescribed matters,
-- (d)[^key-f50f85897c6ef3979cf3f55585d04ada] requiring a designated body that has a responsible officer to provide to the officer, or, if that designated body does not employ the officer, to the employer of the officer, funds and other resources necessary for enabling the officer to discharge the officer's prescribed responsibilities as a responsible officer for the designated body,
+- (d)[^c-f50f85897c6ef3979cf3f55585d04ada] requiring a designated body that has a responsible officer to provide to the officer, or, if that designated body does not employ the officer, to the employer of the officer, funds and other resources necessary for enabling the officer to discharge the officer's prescribed responsibilities as a responsible officer for the designated body,
 - (e) for the persons nominated or appointed as mentioned in subsection (1) to be known by such name as is prescribed, and
 - (f) for making such amendments of any enactment as appear to the appropriate authority to be required in connection with any provision made by virtue of paragraph (e).
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ae8ad4d765c2c18509b88750dd18d80]: Textual amendment: Pt. 5A inserted (21.7.2008 for specified purposes, 1.4.2010 for E.W.S.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)
+[^c-3ae8ad4d765c2c18509b88750dd18d80]: Textual amendment: Pt. 5A inserted (21.7.2008 for specified purposes, 1.4.2010 for E.W.S.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)
 
-[^key-f50f85897c6ef3979cf3f55585d04ada]: Modification: S. 45A(5)(d) applied (with modifications) (21.7.2008 for specified purposes, 1.4.2010 for E.W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 120(5)](https://www.legislation.gov.uk/ukpga/2008/14/section/120/5), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170) (with [s. 122](https://www.legislation.gov.uk/ukpga/2008/14/section/122)); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/708/article/3/b)
+[^c-f50f85897c6ef3979cf3f55585d04ada]: Modification: S. 45A(5)(d) applied (with modifications) (21.7.2008 for specified purposes, 1.4.2010 for E.W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 120(5)](https://www.legislation.gov.uk/ukpga/2008/14/section/120/5), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170) (with [s. 122](https://www.legislation.gov.uk/ukpga/2008/14/section/122)); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/708/article/3/b)

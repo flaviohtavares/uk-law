@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D8. Reduction of added years reckonable on payment as reckonable service[^key-1e98d8c5b6e80731393361e8493feeb6]
+## D8. Reduction of added years reckonable on payment as reckonable service[^c-1e98d8c5b6e80731393361e8493feeb6]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e98d8c5b6e80731393361e8493feeb6]: Commencement: [Reg. D8](https://www.legislation.gov.uk/uksi/1986/24/regulation/D8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-1e98d8c5b6e80731393361e8493feeb6]: Commencement: [Reg. D8](https://www.legislation.gov.uk/uksi/1986/24/regulation/D8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

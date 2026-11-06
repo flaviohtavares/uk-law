@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Financial assistance to scheme administrators and participants[^key-09d016c02a8cf56e810be794422dd8f2]
+## 265. Financial assistance to scheme administrators and participants[^c-09d016c02a8cf56e810be794422dd8f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d016c02a8cf56e810be794422dd8f2]: Commencement: [S. 265](https://www.legislation.gov.uk/ukpga/2023/52/section/265) in force at 26.12.2023, see [s. 334(3)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/i)
+[^c-09d016c02a8cf56e810be794422dd8f2]: Commencement: [S. 265](https://www.legislation.gov.uk/ukpga/2023/52/section/265) in force at 26.12.2023, see [s. 334(3)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/i)

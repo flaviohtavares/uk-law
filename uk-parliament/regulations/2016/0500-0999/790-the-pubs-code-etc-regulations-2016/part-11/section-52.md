@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Extended protection to last until the end of a tenancy[^key-c6c417a1906e824ebf027633bbc9c449]
+## 52. Extended protection to last until the end of a tenancy[^c-c6c417a1906e824ebf027633bbc9c449]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a protected 1954 Act tenancy is renewed, the tenancy ends, for the purpose
 
 ## Annotations
 
-[^key-c6c417a1906e824ebf027633bbc9c449]: Commencement: Reg. 52 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-c6c417a1906e824ebf027633bbc9c449]: Commencement: Reg. 52 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

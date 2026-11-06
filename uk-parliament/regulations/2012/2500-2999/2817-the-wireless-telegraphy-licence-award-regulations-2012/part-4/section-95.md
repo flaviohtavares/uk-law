@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Valid assignment stage bids[^key-e1103ee5d84dcd3549e903805d79a2d2]
+## 95. Valid assignment stage bids[^c-e1103ee5d84dcd3549e903805d79a2d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1103ee5d84dcd3549e903805d79a2d2]: Commencement: Reg. 95 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e1103ee5d84dcd3549e903805d79a2d2]: Commencement: Reg. 95 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-3409443c04c2823e7bd56b3328760026]
+## 2. Interpretation[^c-3409443c04c2823e7bd56b3328760026]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ In this Order, unless a contrary intention appears—
 
 ## Annotations
 
-[^key-3409443c04c2823e7bd56b3328760026]: Commencement: Art. 2 in force at 24.3.1999, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/a)
+[^c-3409443c04c2823e7bd56b3328760026]: Commencement: Art. 2 in force at 24.3.1999, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/a)
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
 

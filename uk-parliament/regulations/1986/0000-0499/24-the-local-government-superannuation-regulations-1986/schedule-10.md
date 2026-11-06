@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — REDUCTION OF BENEFITS ON EARLY PAYMENT[^key-3fa4acf65349744d85e654f1d0ba1e47]
+## SCHEDULE 10 — REDUCTION OF BENEFITS ON EARLY PAYMENT[^c-3fa4acf65349744d85e654f1d0ba1e47]
 
 *Extent: E+W+S*
 
 Regulation E3(14)
 
-[^key-3fa4acf65349744d85e654f1d0ba1e47]
+[^c-3fa4acf65349744d85e654f1d0ba1e47]
 
 Where regulation E3(14) applies, benefits are reduced by the percentage shown in the appropriate column of the Table below opposite the period remaining from the date from which the person became entitled to receive benefits to the attainment of pensionable age; and where the period remaining is not an exact number of years the necessary interpolations are to be made in the Table.
 
@@ -46,4 +46,4 @@ TABLE
 
 ## Annotations
 
-[^key-3fa4acf65349744d85e654f1d0ba1e47]: Commencement: [Sch. 10](https://www.legislation.gov.uk/uksi/1986/24/schedule/10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3fa4acf65349744d85e654f1d0ba1e47]: Commencement: [Sch. 10](https://www.legislation.gov.uk/uksi/1986/24/schedule/10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

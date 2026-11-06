@@ -37,30 +37,30 @@ amending Implementing Decision 2014/762/EU laying down rules for the implementat
 
 (Text with EEA relevance) (revoked)
 
-[^key-509d849c6ccbee89f9364c3ea51cd3d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-509d849c6ccbee89f9364c3ea51cd3d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-509d849c6ccbee89f9364c3ea51cd3d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-509d849c6ccbee89f9364c3ea51cd3d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-509d849c6ccbee89f9364c3ea51cd3d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-509d849c6ccbee89f9364c3ea51cd3d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509d849c6ccbee89f9364c3ea51cd3d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-509d849c6ccbee89f9364c3ea51cd3d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-509d849c6ccbee89f9364c3ea51cd3d3]
+## ANNEX I[^c-509d849c6ccbee89f9364c3ea51cd3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-509d849c6ccbee89f9364c3ea51cd3d3]
+## ANNEX II[^c-509d849c6ccbee89f9364c3ea51cd3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-509d849c6ccbee89f9364c3ea51cd3d3]
+## ANNEX III[^c-509d849c6ccbee89f9364c3ea51cd3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-509d849c6ccbee89f9364c3ea51cd3d3]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/e)
+[^c-509d849c6ccbee89f9364c3ea51cd3d3]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/e)

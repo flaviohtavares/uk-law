@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 1 — Marketing authorisations in Great Britain in Northern Ireland[^key-6c7e339c5ad8da492da3096e9173e504][^key-729d6bcf4bd9d8b27da3f15513f95114]
+## SCHEDULE 1 — Marketing authorisations in Great Britain in Northern Ireland[^c-6c7e339c5ad8da492da3096e9173e504][^c-729d6bcf4bd9d8b27da3f15513f95114]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ Regulation 4(3)
 
 An application under these Regulations for a marketing authorisation for a veterinary medicinal product must be made to the Secretary of State.
 
-#### 2. Information with the application: general[^M_E_7c187149-c887-45ee-eef0-c68bdb4ce54f][^key-a6511f529ecd94e83eaa30e5f7c5b396]
+#### 2. Information with the application: general[^M_E_7c187149-c887-45ee-eef0-c68bdb4ce54f][^c-a6511f529ecd94e83eaa30e5f7c5b396]
 
 *Extent: E+W+S*
 
@@ -134,7 +134,7 @@ An application under these Regulations for a marketing authorisation for a veter
 - (l) a summary of the product characteristics, mock-ups of all proposed packaging and the proposed package leaflet, if any;
 - (m) a document showing that the manufacturer is authorised to produce veterinary medicinal products;
 - (n) copies (which must be updated if there are any changes while the application is being considered) of—
-  - (i) any marketing authorisation obtained in a[^key-925d65a31645f377fbde987b8d8b6f4c] member State or in a third country for the relevant veterinary medicinal product, and a list of any [^key-9078928893079599759f67466a0621c3]... member States in which an application for authorisation of the product has been submitted;
+  - (i) any marketing authorisation obtained in a[^c-925d65a31645f377fbde987b8d8b6f4c] member State or in a third country for the relevant veterinary medicinal product, and a list of any [^c-9078928893079599759f67466a0621c3]... member States in which an application for authorisation of the product has been submitted;
   - (ii) if the product is already authorised outside the United Kingdom, the summary of product characteristics for each authorisation;
   - (iii) any decision to refuse authorisation, whether in the Community or a third country and the reasons for that decision;
 - (o) proof that the applicant has the services of a qualified person responsible for pharmacovigilance (referred to in these Regulations as a qualified person (pharmacovigilance)) and has the necessary means for the notification of any adverse reaction suspected of occurring either in the Community or in a third country;
@@ -191,7 +191,7 @@ An application under these Regulations for a marketing authorisation for a veter
 - (b) public health; and
 - (c) environmental safety.
 
-#### 3. Summary of product characteristics[^key-3357df4a1039247b7c494b285cbb01dc]
+#### 3. Summary of product characteristics[^c-3357df4a1039247b7c494b285cbb01dc]
 
 *Extent: E+W+S*
 
@@ -285,7 +285,7 @@ The summary of product characteristics required under the preceding paragraph mu
 
 A holder of a marketing authorisation must supply a copy of the summary of product characteristics to any person on demand.
 
-#### 5. Time limits for applications for products for use in food-producing animals[^key-70cbbdfa7fbcf1828cf2e640669d7e4f][^M_E_0b5a81c6-757f-4e4f-95b2-15c2ed65b6ed]
+#### 5. Time limits for applications for products for use in food-producing animals[^c-70cbbdfa7fbcf1828cf2e640669d7e4f][^M_E_0b5a81c6-757f-4e4f-95b2-15c2ed65b6ed]
 
 *Extent: E+W+S*
 
@@ -307,9 +307,9 @@ This Part provides for applications for marketing authorisations in which not al
 
 *Extent: E+W+S*
 
-(1) An applicant for a marketing authorisation need not provide the results of safety tests, residue tests, pre-clinical trials or clinical trials if the applicant demonstrates that the active substances of the veterinary medicinal product have been in well-established veterinary use for at least 10 years, that their efficacy is documented and that they provide an acceptable level of safety[^key-47b7b3dd59688a9b3cd36bec86e44942].
+(1) An applicant for a marketing authorisation need not provide the results of safety tests, residue tests, pre-clinical trials or clinical trials if the applicant demonstrates that the active substances of the veterinary medicinal product have been in well-established veterinary use for at least 10 years, that their efficacy is documented and that they provide an acceptable level of safety[^c-47b7b3dd59688a9b3cd36bec86e44942].
 
-(1A)[^key-24e95e3cdf5ced2e197a39c39e3ab3f1] Sub-paragraph (1) does not apply to applications for—
+(1A)[^c-24e95e3cdf5ced2e197a39c39e3ab3f1] Sub-paragraph (1) does not apply to applications for—
 
 - (a) biological (including immunological) veterinary medicinal products;
 - (b) novel therapies.
@@ -332,29 +332,29 @@ This Part provides for applications for marketing authorisations in which not al
 
 *Extent: E+W+S*
 
-(1)[^key-5634b880b8e513d02519eea85b2bcc20] If an application is for a veterinary medicinal product containing active substances already used in an authorised veterinary medicinal product but not previously used in that combination in a veterinary medicinal product, the applicant need not provide the safety and efficacy data for the individual active substances.
+(1)[^c-5634b880b8e513d02519eea85b2bcc20] If an application is for a veterinary medicinal product containing active substances already used in an authorised veterinary medicinal product but not previously used in that combination in a veterinary medicinal product, the applicant need not provide the safety and efficacy data for the individual active substances.
 
 *Extent: E+W+S*
 
-(2)[^key-0d8405957e91c2c4c77ff0c5fa1d77bc] Notwithstanding sub-paragraph (1) the applicant must provide a sound scientific justification based on valid therapeutic principles for the combination of active substances, including clinical data, which demonstrates the need for and contribution of all active substances at the moment of treatment.
+(2)[^c-0d8405957e91c2c4c77ff0c5fa1d77bc] Notwithstanding sub-paragraph (1) the applicant must provide a sound scientific justification based on valid therapeutic principles for the combination of active substances, including clinical data, which demonstrates the need for and contribution of all active substances at the moment of treatment.
 
 #### 9. Application using existing data
 
 If the Secretary of State has granted a marketing authorisation, the Secretary of State may, with the permission of the holder, use the data submitted in support of that marketing authorisation when assessing an application for another marketing authorisation.
 
-#### 10. Application for a generic veterinary medicinal product[^M_E_1433b2e6-0227-46fe-f348-5947688100b5][^key-fc4051cffe38f1c46280f56ce0993700]
+#### 10. Application for a generic veterinary medicinal product[^M_E_1433b2e6-0227-46fe-f348-5947688100b5][^c-fc4051cffe38f1c46280f56ce0993700]
 
 *Extent: E+W+S*
 
-(1) Subject to sub-paragraphs (2A), (9) and (10) and paragraph 10A,[^key-79cde956b466ff43c9742a0d13b45e93] an applicant need not provide the results of safety tests, residue tests, pre-clinical trials or clinical trials if the applicant can demonstrate that the veterinary medicinal product is a generic of a[^key-88adafc813b2bb19734af091917b692f] veterinary medicinal product already authorised in the United Kingdom[^key-7d73a62520d8af32c8a20cc70f37a619] (“the reference veterinary medicinal product”), provided that the applicant provides data demonstrating the matters referred to in sub-paragraph (2)[^key-ebd8a2788ddcf3e71fb912e5626192a5].
+(1) Subject to sub-paragraphs (2A), (9) and (10) and paragraph 10A,[^c-79cde956b466ff43c9742a0d13b45e93] an applicant need not provide the results of safety tests, residue tests, pre-clinical trials or clinical trials if the applicant can demonstrate that the veterinary medicinal product is a generic of a[^c-88adafc813b2bb19734af091917b692f] veterinary medicinal product already authorised in the United Kingdom[^c-7d73a62520d8af32c8a20cc70f37a619] (“the reference veterinary medicinal product”), provided that the applicant provides data demonstrating the matters referred to in sub-paragraph (2)[^c-ebd8a2788ddcf3e71fb912e5626192a5].
 
-(2) For the purposes of this paragraph a product is a generic of[^key-48cce9c3652f721be2b22e71cf64e922] an existing product if—
+(2) For the purposes of this paragraph a product is a generic of[^c-48cce9c3652f721be2b22e71cf64e922] an existing product if—
 
 - (a) it has the same qualitative and quantitative composition in active substances;
-- (b) it has the same pharmaceutical form as the reference product[^key-60421bf75b25528313e121a0be1fbde8]; and
-- (c)[^key-a9c8166edd30e19681ceb0705b0d0872] bioequivalence with the reference product has been demonstrated
+- (b) it has the same pharmaceutical form as the reference product[^c-60421bf75b25528313e121a0be1fbde8]; and
+- (c)[^c-a9c8166edd30e19681ceb0705b0d0872] bioequivalence with the reference product has been demonstrated
 
-(2A)[^key-ae9441b397ccfb56d13ee8338cca4ec9] Sub-paragraph (1) does not apply to applications for biological (including immunological) veterinary medicinal products.
+(2A)[^c-ae9441b397ccfb56d13ee8338cca4ec9] Sub-paragraph (1) does not apply to applications for biological (including immunological) veterinary medicinal products.
 
 (3) For the purposes of this paragraph—
 
@@ -363,11 +363,11 @@ If the Secretary of State has granted a marketing authorisation, the Secretary o
 
 (4) Different immediate-release oral pharmaceutical forms are regarded as the same pharmaceutical form.
 
-(5) Bioavailability studies are not required if the bioequivalence guidelines produced by the European Medicines[^key-65c96f5772002b3e6408ba5ca4b4d028] Agency or the Secretary of State[^key-9705dff455581e948c8d78912d700c7c] exempt the product.
+(5) Bioavailability studies are not required if the bioequivalence guidelines produced by the European Medicines[^c-65c96f5772002b3e6408ba5ca4b4d028] Agency or the Secretary of State[^c-9705dff455581e948c8d78912d700c7c] exempt the product.
 
-(6)[^key-7aba50c7eaf3d36b87d9668a4834deb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7aba50c7eaf3d36b87d9668a4834deb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-2d4e65dda5fdbd2435aae074951060de] For the purposes of these Regulations, subject to sub-paragraph (8), the summary of product characteristics of a generic veterinary medicinal product must be essentially similar to the summary of product characteristics for the reference product.
+(7)[^c-2d4e65dda5fdbd2435aae074951060de] For the purposes of these Regulations, subject to sub-paragraph (8), the summary of product characteristics of a generic veterinary medicinal product must be essentially similar to the summary of product characteristics for the reference product.
 
 (8) The requirement in sub-paragraph (7) does not apply in relation to those parts of the summary of product characteristics of the reference product that refer to indications or pharmaceutical forms which are covered by patents at the time when the generic veterinary medicinal product is authorised.
 
@@ -406,9 +406,9 @@ unless the Secretary of State holds an environmental risk assessment for the ref
 
 (5) Bioavailability studies are not required if the bioequivalence guidelines produced by the Agency exempt the product.
 
-(6) In the case of a reference product authorised in a[^key-1c5aec99d7c2cbb5bacd1a0d54e0443e] member State but not in Northern Ireland[^key-2a79942ff96f3990b66980204efedfb2], the Secretary of State must be satisfied that the risk-benefit balance of the original product is appropriate for the product to be placed on the market in the United Kingdom, and if the data provided under Article 13, third paragraph of [Directive 2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) by the member State in which the product is authorised are insufficient for the Secretary of State to be satisfied of this, the Secretary of State may notify the applicant and require the applicant to provide further data.
+(6) In the case of a reference product authorised in a[^c-1c5aec99d7c2cbb5bacd1a0d54e0443e] member State but not in Northern Ireland[^c-2a79942ff96f3990b66980204efedfb2], the Secretary of State must be satisfied that the risk-benefit balance of the original product is appropriate for the product to be placed on the market in the United Kingdom, and if the data provided under Article 13, third paragraph of [Directive 2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) by the member State in which the product is authorised are insufficient for the Secretary of State to be satisfied of this, the Secretary of State may notify the applicant and require the applicant to provide further data.
 
-#### 10A. Hybrid veterinary medicinal products[^key-06fd0ce398a069551c589461d6274fd1]
+#### 10A. Hybrid veterinary medicinal products[^c-06fd0ce398a069551c589461d6274fd1]
 
 *Extent: E+W+S*
 
@@ -423,15 +423,15 @@ An applicant for a marketing authorisation must provide the results of relevant 
   - (v) the route of administration of the product;
   - (vi) the withdrawal period for the product.
 
-#### 11. Time limits for marketing authorisations granted under the procedure for a generic veterinary medicinal product[^key-b27b746b0ece5f7c7637071f05c26e62]
+#### 11. Time limits for marketing authorisations granted under the procedure for a generic veterinary medicinal product[^c-b27b746b0ece5f7c7637071f05c26e62]
 
 *Extent: E+W+S*
 
-(1) This paragraph establishes the time limits relating to granting a marketing authorisation under the procedure for a generic veterinary medicinal[^key-3d84fdf835c25380659dcce08fa8abca] product.
+(1) This paragraph establishes the time limits relating to granting a marketing authorisation under the procedure for a generic veterinary medicinal[^c-3d84fdf835c25380659dcce08fa8abca] product.
 
 (2) An application for a marketing authorisation cannot be made until two years before the product may be placed on the market in accordance with this paragraph.
 
-(3)[^key-e45163bfaeeff0e08a9c0c93ee8a39c8] The product may not be placed on the market until the end of the longest of the following periods which is relevant—
+(3)[^c-e45163bfaeeff0e08a9c0c93ee8a39c8] The product may not be placed on the market until the end of the longest of the following periods which is relevant—
 
 - (a) subject to sub-paragraph (3A), 10 years in the case of a veterinary medicinal product authorised for major species;
 - (b) 18 years in the case of a veterinary medicinal product authorised for bees; and
@@ -468,17 +468,17 @@ the period mentioned in sub-paragraph (3)(a) is 14 years.
 
 *Extent: E+W+S*
 
-(1)[^key-2a5c4558f6d10cb0dd33cdd0f4be1303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2a5c4558f6d10cb0dd33cdd0f4be1303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-025e45744118f913b5d3dc4414cc2444] Subject to sub-paragraph (2B), if a person submits an application for a marketing authorisation or for a variation to a marketing authorisation for a product, and within five years of the original marketing authorisation being granted, the marketing authorisation is extended to include an additional major species or a new antimicrobial product, the relevant protection period is extended by one year for each additional major species added to the marketing authorisation.
+(2)[^c-025e45744118f913b5d3dc4414cc2444] Subject to sub-paragraph (2B), if a person submits an application for a marketing authorisation or for a variation to a marketing authorisation for a product, and within five years of the original marketing authorisation being granted, the marketing authorisation is extended to include an additional major species or a new antimicrobial product, the relevant protection period is extended by one year for each additional major species added to the marketing authorisation.
 
 (2A) Subject to sub-paragraph (2B), if a person submits an application for a marketing authorisation mentioned in sub-paragraph (2) and the marketing authorisation is extended to include an additional minor species, the relevant protection period is extended by four years.
 
 (2B) Sub-paragraphs (2) and (2A) do not apply where the application to extend the marketing authorisation is made fewer than three years before the expiration of the protection period.
 
-(3) The total period may not exceed 18[^key-d526ad532f2de9fb97f2911e93eb0351] years.
+(3) The total period may not exceed 18[^c-d526ad532f2de9fb97f2911e93eb0351] years.
 
-(4)[^key-32d94185645bbf1dd46207dd863ab0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-32d94185645bbf1dd46207dd863ab0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 12. Extension of time limits
 
@@ -495,7 +495,7 @@ the period mentioned in sub-paragraph (3)(a) is 14 years.
 
 (4) The extension applies only if the marketing authorisation holder originally applied for determination of the maximum residue limits for the active substance.
 
-#### 12A. Time limits – supplementary[^key-d5c627cd5db8925828c3eaae24657f4e]
+#### 12A. Time limits – supplementary[^c-d5c627cd5db8925828c3eaae24657f4e]
 
 *Extent: E+W+S*
 
@@ -505,7 +505,7 @@ the period mentioned in sub-paragraph (3)(a) is 14 years.
 
 (3) Sub-paragraphs (1) and (2) do not apply where an applicant has obtained a written authorisation to access a study, residue test or pre-clinical study mentioned in the relevant sub-paragraph.
 
-#### 13. Parallel imports[^key-bcc2696ce10b5ce2d312a1fa12f2cb67][^M_E_161eeb5f-2b86-4492-b165-ee3c98257c86]
+#### 13. Parallel imports[^c-bcc2696ce10b5ce2d312a1fa12f2cb67][^M_E_161eeb5f-2b86-4492-b165-ee3c98257c86]
 
 *Extent: E+W+S*
 
@@ -515,19 +515,19 @@ the period mentioned in sub-paragraph (3)(a) is 14 years.
 
 *Extent: N.I.*
 
-(1) The Secretary of State may grant a marketing authorisation in relation to a veterinary medicinal product authorised in a[^key-6bc0696ec0dad2c265baab4531eb75d8] member State and imported into Northern Ireland[^key-7f3016753999733be8914f56bf6a9507] from that member State in accordance with this paragraph without the data required in Part 1 if the applicant can demonstrate compliance with this paragraph.
+(1) The Secretary of State may grant a marketing authorisation in relation to a veterinary medicinal product authorised in a[^c-6bc0696ec0dad2c265baab4531eb75d8] member State and imported into Northern Ireland[^c-7f3016753999733be8914f56bf6a9507] from that member State in accordance with this paragraph without the data required in Part 1 if the applicant can demonstrate compliance with this paragraph.
 
-(2) If the product is for a food-producing species it must be identical to a product authorised in Northern Ireland[^key-72639c9ad04a76cae473157f78705519].
+(2) If the product is for a food-producing species it must be identical to a product authorised in Northern Ireland[^c-72639c9ad04a76cae473157f78705519].
 
-(3) Other products must be therapeutically the same as a product authorised in Northern Ireland[^key-9eeb2afdcaeb654d3b1c59a3927ab1c5] unless the importer can justify any differences.
+(3) Other products must be therapeutically the same as a product authorised in Northern Ireland[^c-9eeb2afdcaeb654d3b1c59a3927ab1c5] unless the importer can justify any differences.
 
 (4) The member State from which it is imported must have authorised the product in accordance with [Directive 2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082).
 
 (5) The applicant must be established within the Community.
 
-(6) The applicant must hold (or have a contract with the holder of) a wholesale dealer’s authorisation in Northern Ireland[^key-bdfaa77e85decff5bbf314bb0dbb9ddf] appropriate to the type of product to be imported.
+(6) The applicant must hold (or have a contract with the holder of) a wholesale dealer’s authorisation in Northern Ireland[^c-bdfaa77e85decff5bbf314bb0dbb9ddf] appropriate to the type of product to be imported.
 
-(7) If re-labelling is to take place in Northern Ireland[^key-396c1f4aec2a55b98e485aea6d9ca595] the applicant must also be (or have a contract with) the holder of a suitable manufacturing authorisation in Northern Ireland.
+(7) If re-labelling is to take place in Northern Ireland[^c-396c1f4aec2a55b98e485aea6d9ca595] the applicant must also be (or have a contract with) the holder of a suitable manufacturing authorisation in Northern Ireland.
 
 #### 14. Specific batch control scheme[^M_E_3536eebb-84ac-4474-8982-d067506f3f18]
 
@@ -537,9 +537,9 @@ the period mentioned in sub-paragraph (3)(a) is 14 years.
 
 (2) The Secretary of State may authorise the placing on the market on being satisfied that the safety, quality and efficacy of the product are not compromised, and that in all the circumstances of the case the product should be placed on the market.
 
-(3)[^key-da5bd1ffba07d9fbfbd649386d3de1dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-da5bd1ffba07d9fbfbd649386d3de1dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0a0c493481b1b46282548ab683a14054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0a0c493481b1b46282548ab683a14054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 14. Specific batch control scheme[^M_E_c574b8ba-4404-4f9d-e2c7-0f4e1a7b052d]
 
@@ -553,21 +553,21 @@ the period mentioned in sub-paragraph (3)(a) is 14 years.
 
 (4) In this paragraph a biological veterinary medicinal product is a veterinary medicinal product, the active substance of which is a biological substance; and a biological substance is a substance that is produced by or extracted from a biological source and for which a combination of physico-chemical-biological testing and the production process and its control is needed for its characterisation and the determination of its quality.
 
-#### 15 (Extent: E+W+S) (affected by repeal, see note). Similar immunological products[^key-f9b479daf099ec6701930938daa455cd]
+#### 15 (Extent: E+W+S) (affected by repeal, see note). Similar immunological products[^c-f9b479daf099ec6701930938daa455cd]
 
-Where an immunological veterinary medicinal product is pharmacologically equivalent to a reference product other than differences in raw materials or in the manufacturing process, the results of the appropriate pre-clinical tests or clinical trials must be provided, but the applicant need not provide the results of safety tests or residue tests. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f9b479daf099ec6701930938daa455cd]
+Where an immunological veterinary medicinal product is pharmacologically equivalent to a reference product other than differences in raw materials or in the manufacturing process, the results of the appropriate pre-clinical tests or clinical trials must be provided, but the applicant need not provide the results of safety tests or residue tests. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f9b479daf099ec6701930938daa455cd]
 
 #### 16. Marketing a product authorised in another country[^M_E_04db0fbd-053f-4218-84b1-fb6bcab4700a]
 
 *Extent: E+W+S*
 
-Where the health situation so requires, the Secretary of State may authorise the placing on the market of a veterinary medicinal product that has been authorised in another[^key-ecdbc271876d6b400d73693667ea1053] country.
+Where the health situation so requires, the Secretary of State may authorise the placing on the market of a veterinary medicinal product that has been authorised in another[^c-ecdbc271876d6b400d73693667ea1053] country.
 
 #### 16. Marketing a product authorised in another country[^M_E_a4a0d68a-7d18-4733-fb97-50af8f457aba]
 
 *Extent: N.I.*
 
-Where the health situation so requires, the Secretary of State may authorise the placing on the market of a veterinary medicinal product that has been authorised by a[^key-0c644780a70b04179877385671d9e740] member State or, if there is no such authorised product, authorised in a third country.
+Where the health situation so requires, the Secretary of State may authorise the placing on the market of a veterinary medicinal product that has been authorised by a[^c-0c644780a70b04179877385671d9e740] member State or, if there is no such authorised product, authorised in a third country.
 
 ### PART 3 — Grant of a marketing authorisation
 
@@ -575,13 +575,13 @@ Where the health situation so requires, the Secretary of State may authorise the
 
 *Extent: E+W+S*
 
-(1)[^key-a415c45967e1dc55d17494a6d3b8ad73] The Secretary of State must ensure that the procedure for granting an authorisation for a veterinary medicinal product is completed within a maximum of 210 days after the submission of the application.
+(1)[^c-a415c45967e1dc55d17494a6d3b8ad73] The Secretary of State must ensure that the procedure for granting an authorisation for a veterinary medicinal product is completed within a maximum of 210 days after the submission of the application.
 
 *Extent: E+W+S*
 
-(2)[^key-299a214d1a3b2cee3827fcf6d4cf07e1] Sub-paragraph (1) does not apply where a simultaneous assessment of the application is being conducted by the Secretary of State and the relevant authority in another country.
+(2)[^c-299a214d1a3b2cee3827fcf6d4cf07e1] Sub-paragraph (1) does not apply where a simultaneous assessment of the application is being conducted by the Secretary of State and the relevant authority in another country.
 
-#### 18. Place of establishment of applicant[^M_E_189211be-c03d-414a-8e72-96da1acbe1ae][^key-31fbb4f191d4a9b034fdcf0e028872cd]
+#### 18. Place of establishment of applicant[^M_E_189211be-c03d-414a-8e72-96da1acbe1ae][^c-31fbb4f191d4a9b034fdcf0e028872cd]
 
 *Extent: E+W+S*
 
@@ -591,13 +591,13 @@ Only an applicant established in the United Kingdom or in a country which the Se
 
 *Extent: N.I.*
 
-Only an applicant established in the United Kingdom or[^key-9b9ab46b1891fcd1e1600dcaa75fa221] a member State may be granted a marketing authorisation.
+Only an applicant established in the United Kingdom or[^c-9b9ab46b1891fcd1e1600dcaa75fa221] a member State may be granted a marketing authorisation.
 
 #### 19. Procedure
 
 The Secretary of State may require the applicant to provide additional information or to generate additional data, including laboratory testing, or may require the applicant to provide samples of any medicinal product, its starting materials and intermediate products or other constituent materials for testing in a laboratory.
 
-#### 20. Products authorised in another member State[^key-7850106bf47e39678decf7a7dffdf700][^M_E_2a28a0f4-846d-4d9d-8d3d-0203bc679dac]
+#### 20. Products authorised in another member State[^c-7850106bf47e39678decf7a7dffdf700][^M_E_2a28a0f4-846d-4d9d-8d3d-0203bc679dac]
 
 *Extent: E+W+S*
 
@@ -607,7 +607,7 @@ The Secretary of State may require the applicant to provide additional informati
 
 *Extent: N.I.*
 
-Where the Secretary of State is informed or discovers that a[^key-dad01ce7631d5c235439613beeabd03b] member State has authorised a veterinary medicinal product that is the subject of an application for authorisation by the Secretary of State, the Secretary of State must reject the application unless it was submitted in accordance with the mutual recognition procedure or the decentralised procedure in Part 6.
+Where the Secretary of State is informed or discovers that a[^c-dad01ce7631d5c235439613beeabd03b] member State has authorised a veterinary medicinal product that is the subject of an application for authorisation by the Secretary of State, the Secretary of State must reject the application unless it was submitted in accordance with the mutual recognition procedure or the decentralised procedure in Part 6.
 
 #### 21. Assessment reports
 
@@ -617,7 +617,7 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 *Extent: E+W+S*
 
-(1)[^key-aae480b5a9308280d6cbd2be476a2678] The Secretary of State must, before granting a marketing authorisation—
+(1)[^c-aae480b5a9308280d6cbd2be476a2678] The Secretary of State must, before granting a marketing authorisation—
 
 - (a) verify that the data submitted complies with the requirements set out in these Regulations;
 - (b) assess the application and data submitted in respect of the veterinary medicinal product; and
@@ -625,15 +625,15 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 *Extent: E+W+S*
 
-(2)[^key-ac6f89104a5e93fcd0075b0caf65154e] When granting a marketing authorisation, the Secretary of State must inform the applicant of the summary of product characteristics that has been approved, and the distribution category of the product.
+(2)[^c-ac6f89104a5e93fcd0075b0caf65154e] When granting a marketing authorisation, the Secretary of State must inform the applicant of the summary of product characteristics that has been approved, and the distribution category of the product.
 
 *Extent: E+W+S*
 
-(3)[^key-6c42494beb8d30434afb1dbb52e33bbe] The Secretary of State must set out any terms and conditions in connection with placing the product on the market when granting a marketing authorisation.
+(3)[^c-6c42494beb8d30434afb1dbb52e33bbe] The Secretary of State must set out any terms and conditions in connection with placing the product on the market when granting a marketing authorisation.
 
 (4 (Extent: E+W+S)) Where the marketing authorisation relates to a veterinary medicinal product that contains an antimicrobial the Secretary of State may require the holder of the marketing authorisation to conduct post-authorisation studies in order to ensure that the benefit-risk balance remains positive in relation to the development of antimicrobial resistance. *(Extent: E+W+S)*
 
-#### 22A. Withdrawal of application for marketing authorisation[^key-d3923f999b25bf21bbad671a944245b0]
+#### 22A. Withdrawal of application for marketing authorisation[^c-d3923f999b25bf21bbad671a944245b0]
 
 *Extent: E+W+S*
 
@@ -648,9 +648,9 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 *Extent: E+W+S*
 
-(1) The Secretary of State must not grant a marketing authorisation for a veterinary medicinal product for food-producing species unless maximum residue limits have been established under Regulation[^key-af9776309854632d13ff8a6e7a65c255] [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council in respect of all its pharmacologically active substances [^key-c3c211006925e80cc8ef40fa9d07b9c9]....
+(1) The Secretary of State must not grant a marketing authorisation for a veterinary medicinal product for food-producing species unless maximum residue limits have been established under Regulation[^c-af9776309854632d13ff8a6e7a65c255] [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council in respect of all its pharmacologically active substances [^c-c3c211006925e80cc8ef40fa9d07b9c9]....
 
-(2) This does not apply in the case of a marketing authorisation for a veterinary medicinal product for administration to a horse that has been declared on its horse passport as not intended for slaughter for human consumption; but in this case the product must not include an active substance that has been classified under Article 14 of Regulation[^key-d44c2cc19cd83cdae8ba50cdc5fe119d] [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council as prohibited for use in food producing animals.
+(2) This does not apply in the case of a marketing authorisation for a veterinary medicinal product for administration to a horse that has been declared on its horse passport as not intended for slaughter for human consumption; but in this case the product must not include an active substance that has been classified under Article 14 of Regulation[^c-d44c2cc19cd83cdae8ba50cdc5fe119d] [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council as prohibited for use in food producing animals.
 
 #### 23. Marketing authorisations for food-producing species[^M_E_2b8e6b97-d274-4c80-e1bf-a3911e5b7c17]
 
@@ -669,12 +669,12 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 (2) In addition, the Secretary of State must refuse to grant it if—
 
 - (a) the data submitted with the application are inadequate;
-- (b) the benefit-risk balance[^key-736b56b91a13fcb67c0dc91da92190f6] of the veterinary medicinal product is unfavourable;
-- (c)[^key-1dfd0554388710ee86cf92852549de80] the applicant has not provided sufficient evidence of the efficacy of the product in relation to the target species;
-- (d) the withdrawal period proposed by the applicant is not long enough to ensure food safety[^key-6b797c2b3cf227559f846eb4a4120b84], or is insufficiently substantiated;
+- (b) the benefit-risk balance[^c-736b56b91a13fcb67c0dc91da92190f6] of the veterinary medicinal product is unfavourable;
+- (c)[^c-1dfd0554388710ee86cf92852549de80] the applicant has not provided sufficient evidence of the efficacy of the product in relation to the target species;
+- (d) the withdrawal period proposed by the applicant is not long enough to ensure food safety[^c-6b797c2b3cf227559f846eb4a4120b84], or is insufficiently substantiated;
 - (e) the veterinary medicinal product is for a prohibited use;
 - (f) the way that the product will be used will have an unnecessarily undesirable effect on the environment.
-- (g)[^key-8cc3ef44e6f9554528a787f97e9f5d78] the veterinary medicinal product is a veterinary medicinal product which contains an antimicrobial which is presented for use in order to promote the growth of treated animals or to increase yields from treated animals;
+- (g)[^c-8cc3ef44e6f9554528a787f97e9f5d78] the veterinary medicinal product is a veterinary medicinal product which contains an antimicrobial which is presented for use in order to promote the growth of treated animals or to increase yields from treated animals;
 - (h) the risk for public health in case of development of antimicrobial resistance or antiparasitic resistance outweighs the benefits of the veterinary medicinal product to animal health;
 - (i) the risks to public or animal health or to the environment are not sufficiently addressed;
 - (j) the qualitative or quantitative composition of the veterinary medicinal product is not as stated in the application;
@@ -682,7 +682,7 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 (3) The Secretary of State may refuse to grant a marketing authorisation—
 
-- (a) if there is [^key-f4388fffcacf9328d1204f51fe89c36b]... legislation pending that is incompatible with the requested authorisation; or
+- (a) if there is [^c-f4388fffcacf9328d1204f51fe89c36b]... legislation pending that is incompatible with the requested authorisation; or
 - (b) if additional data have been requested and those data are not provided within such time limit as may be stipulated.
 
 (4) If the Secretary of State, on the grounds of safety, quality or efficacy, intends to refuse an application, or proposes to grant a marketing authorisation that is different from the one applied for, the Secretary of State must notify the applicant accordingly, and the applicant may appeal to the Veterinary Products Committee.
@@ -709,7 +709,7 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 (4) If the Secretary of State, on the grounds of safety, quality or efficacy, intends to refuse an application, or proposes to grant a marketing authorisation that is different from the one applied for, the Secretary of State must notify the applicant accordingly, and the applicant may appeal to the Veterinary Products Committee.
 
-#### 25. Publication following the grant , refusal, suspension, variation or revocation (Extent: E+W+S) of a marketing authorisation[^key-9a530a212d6ef8423432d09270fc77dc]
+#### 25. Publication following the grant , refusal, suspension, variation or revocation (Extent: E+W+S) of a marketing authorisation[^c-9a530a212d6ef8423432d09270fc77dc]
 
 (1) On granting a marketing authorisation the Secretary of State must publish—
 
@@ -721,7 +721,7 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 (3) The Secretary of State must send a copy of the assessment report, and any update, to the holder of the marketing authorisation before publication to enable the holder to make representations concerning any confidential or personal information that may be in it, and may specify a date by which representations must be made.
 
-(4 (Extent: E+W+S))[^key-09ffb4bcb19bfb85a2a877953a3b1125] Where the Secretary of State refuses to grant a marketing authorisation or suspends or revokes an authorisation the Secretary of State must publish that fact. *(Extent: E+W+S)*
+(4 (Extent: E+W+S))[^c-09ffb4bcb19bfb85a2a877953a3b1125] Where the Secretary of State refuses to grant a marketing authorisation or suspends or revokes an authorisation the Secretary of State must publish that fact. *(Extent: E+W+S)*
 
 (5 (Extent: E+W+S)) Where the Secretary of State varies a marketing authorisation in relation to the summary of product characteristics the Secretary of State must publish the terms of the variation. *(Extent: E+W+S)*
 
@@ -729,37 +729,37 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 (1) In exceptional circumstances, and if there is no other product with a full marketing authorisation for the indicated condition in the target species, the Secretary of State may grant an exceptional marketing authorisation consisting of—
 
-- (a) a provisional marketing authorisation subject to a requirement for the applicant to provide further data , taking into account the benefit of the immediate availability on the market of the veterinary medicinal product in comparison to the risks *(Extent: E+W+S)*[^key-ef97e78c3db114f8dcbd8c4b65abbbc0]; or
-- (b) a limited marketing authorisation for a product with a limited market , taking into account the benefit in relation to public or animal health of the availability of the product on the market in comparison to the risks. *(Extent: E+W+S)*[^key-1a526899ebeea5a83980685a1b7888eb].
+- (a) a provisional marketing authorisation subject to a requirement for the applicant to provide further data , taking into account the benefit of the immediate availability on the market of the veterinary medicinal product in comparison to the risks *(Extent: E+W+S)*[^c-ef97e78c3db114f8dcbd8c4b65abbbc0]; or
+- (b) a limited marketing authorisation for a product with a limited market , taking into account the benefit in relation to public or animal health of the availability of the product on the market in comparison to the risks. *(Extent: E+W+S)*[^c-1a526899ebeea5a83980685a1b7888eb].
 
-(1A (Extent: E+W+S))[^key-9029e91fb80598e89a196845dcd7ef81] An exceptional marketing authorisation may be granted subject to such further conditions, including any restrictions, as the Secretary of State considers appropriate. *(Extent: E+W+S)*
+(1A (Extent: E+W+S))[^c-9029e91fb80598e89a196845dcd7ef81] An exceptional marketing authorisation may be granted subject to such further conditions, including any restrictions, as the Secretary of State considers appropriate. *(Extent: E+W+S)*
 
 (2) The Secretary of State must reassess each provisional or limited marketing authorisation annually.
 
 #### 27. Provisions of samples and expertise
 
-(1) The Secretary of State may require a marketing authorisation holder to provide, at any time and at any stage of the manufacturing process, samples of starting materials or the veterinary medicinal product for testing and to provide the results of any control tests carried out in relation to such materials or the finished product in accordance with the methods to be used under the terms of the marketing authorisation *(Extent: E+W+S)*[^key-9b7ba9ee10e4fdf897522c0d4f399af8].
+(1) The Secretary of State may require a marketing authorisation holder to provide, at any time and at any stage of the manufacturing process, samples of starting materials or the veterinary medicinal product for testing and to provide the results of any control tests carried out in relation to such materials or the finished product in accordance with the methods to be used under the terms of the marketing authorisation *(Extent: E+W+S)*[^c-9b7ba9ee10e4fdf897522c0d4f399af8].
 
 (2) At the request of the Secretary of State, the marketing authorisation holder must provide technical expertise to facilitate any analysis of the product.
 
-(3 (Extent: E+W+S))[^key-5ceca18f89d0b519d5ead98b0223fb75] The Secretary of State may require an applicant for a marketing authorisation to provide samples of a veterinary medicinal product for testing. *(Extent: E+W+S)*
+(3 (Extent: E+W+S))[^c-5ceca18f89d0b519d5ead98b0223fb75] The Secretary of State may require an applicant for a marketing authorisation to provide samples of a veterinary medicinal product for testing. *(Extent: E+W+S)*
 
 (4 (Extent: E+W+S)) The samples mentioned in sub-paragraph (3) may be used— *(Extent: E+W+S)*
 
 - (a (Extent: E+W+S)) to test the veterinary medicinal product and its constituents at any stage of development of the product in order to ensure that the control methods used by the manufacturer are satisfactory; and *(Extent: E+W+S)*
 - (b (Extent: E+W+S)) to verify that, where a veterinary medicinal product is intended for administration to a food-producing animal, the means used for residue detection in relation to pharmacologically active substances are satisfactory. *(Extent: E+W+S)*
 
-#### 28. Records and supply of information[^key-d2be29488d94cf3f0a6a46b1a58f43b5]
+#### 28. Records and supply of information[^c-d2be29488d94cf3f0a6a46b1a58f43b5]
 
 *Extent: E+W+S*
 
-(1) A marketing authorisation holder must immediately inform the Secretary of State on receipt of any new information that might adversely affect the benefit-risk balance[^key-24268e5d59e84c551f28d06c37d13009] of the veterinary medicinal product.
+(1) A marketing authorisation holder must immediately inform the Secretary of State on receipt of any new information that might adversely affect the benefit-risk balance[^c-24268e5d59e84c551f28d06c37d13009] of the veterinary medicinal product.
 
 (2) The holder must immediately inform the Secretary of State of any prohibition or restriction imposed by the competent authorities of any country in which the veterinary medicinal product is authorised.
 
 (3) The Secretary of State may at any time require the marketing authorisation holder to provide data relating to the benefit-risk balance.
 
-(4)[^key-164bc08f35b005015635e0d2bc3898f2] A marketing authorisation holder must retain all of the original documents from every clinical trial from which data was derived in support of the application for authorisation under this Schedule, and in support of any variation of the authorisation (whether granted or otherwise), for at least five years from the date on which the authorisation ceases.
+(4)[^c-164bc08f35b005015635e0d2bc3898f2] A marketing authorisation holder must retain all of the original documents from every clinical trial from which data was derived in support of the application for authorisation under this Schedule, and in support of any variation of the authorisation (whether granted or otherwise), for at least five years from the date on which the authorisation ceases.
 
 #### 28. Supply of information
 
@@ -775,11 +775,11 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 
 *Extent: E+W+S*
 
-(1)[^key-a52fc3798ae1fe8800de5749965c2183] Before placing an immunological product on the market the holder of the marketing authorisation must notify the Secretary of State asking for written approval to do so.
+(1)[^c-a52fc3798ae1fe8800de5749965c2183] Before placing an immunological product on the market the holder of the marketing authorisation must notify the Secretary of State asking for written approval to do so.
 
-(2) If notified under sub-paragraph (1)[^key-0c514cd3cacf258a248bafad257beaac] the Secretary of State must give or refuse a written approval as soon as is reasonably practicable.
+(2) If notified under sub-paragraph (1)[^c-0c514cd3cacf258a248bafad257beaac] the Secretary of State must give or refuse a written approval as soon as is reasonably practicable.
 
-(3) No person may place an immunological product on the market without a written approval issued by the Secretary of State [^key-8e53d3154f615a5b744069c86aa6efac]....
+(3) No person may place an immunological product on the market without a written approval issued by the Secretary of State [^c-8e53d3154f615a5b744069c86aa6efac]....
 
 #### 29. Duties on the holder of a marketing authorisation relating to an immunological product[^M_E_c0824d4b-b429-4be4-94ad-bddb0710ebdf]
 
@@ -788,15 +788,15 @@ The Secretary of State must produce an assessment of the dossier, consisting of 
 (1) Before placing an immunological product on the market the holder of the marketing authorisation must either—
 
 - (a) notify the Secretary of State asking for written approval to do so; or
-- (b) if the holder has already received written approval from a[^key-0f36a3bfcc47bf373c0f8bb5ecad5436] member State permitting the release of the product, send a copy of that approval to the Secretary of State.
+- (b) if the holder has already received written approval from a[^c-0f36a3bfcc47bf373c0f8bb5ecad5436] member State permitting the release of the product, send a copy of that approval to the Secretary of State.
 
 (2) If notified under sub-paragraph (1)(a) the Secretary of State must give or refuse a written approval as soon as is reasonably practicable.
 
-(3) No person may place an immunological product on the market without a written approval issued by the Secretary of State or (if the approval was issued by a[^key-88acfdddecc11904b6308538539ded94] member State) without sending a copy of that approval to the Secretary of State.
+(3) No person may place an immunological product on the market without a written approval issued by the Secretary of State or (if the approval was issued by a[^c-88acfdddecc11904b6308538539ded94] member State) without sending a copy of that approval to the Secretary of State.
 
-#### 30 (Extent: E+W+S) (affected by repeal, see note). Control tests[^key-cdb156175711a5e4f0fa109ac8a0a2e5]
+#### 30 (Extent: E+W+S) (affected by repeal, see note). Control tests[^c-cdb156175711a5e4f0fa109ac8a0a2e5]
 
-The holder of a marketing authorisation must give to the Secretary of State on demand evidence that the holder has carried out all control tests required under the marketing authorisation, and the results of those tests. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-cdb156175711a5e4f0fa109ac8a0a2e5]
+The holder of a marketing authorisation must give to the Secretary of State on demand evidence that the holder has carried out all control tests required under the marketing authorisation, and the results of those tests. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-cdb156175711a5e4f0fa109ac8a0a2e5]
 
 #### 31. Placing on the market[^M_E_aa0412f6-5cd9-4884-b0fc-3aa04ccafa3b]
 
@@ -806,7 +806,7 @@ The holder of a marketing authorisation must give to the Secretary of State on d
 
 (2) A holder of a marketing authorisation who removes the veterinary medicinal product from the market in the United Kingdom must notify the Secretary of State at least two months (or a shorter period in exceptional circumstances) before doing so.
 
-(2A)[^key-362cd9955175becfcaf2229323be8cce] A holder of a marketing authorisation who identifies a shortage of the veterinary medicinal product must notify the Secretary of State as soon as is reasonably practicable.
+(2A)[^c-362cd9955175becfcaf2229323be8cce] A holder of a marketing authorisation who identifies a shortage of the veterinary medicinal product must notify the Secretary of State as soon as is reasonably practicable.
 
 (2B) For the purposes of sub-paragraph (2A) a shortage of a veterinary medicinal product occurs when supply does not meet demand at a national level within the United Kingdom.
 
@@ -819,16 +819,16 @@ The holder of a marketing authorisation must give to the Secretary of State on d
 
 *Extent: N.I.*
 
-(1) A holder of a marketing authorisation must notify the Secretary of State when the veterinary medicinal product is first placed on the market in Northern Ireland[^key-b57c1deecc6f50795cc1c9885aa78803], and the date on which it was placed on the market.
+(1) A holder of a marketing authorisation must notify the Secretary of State when the veterinary medicinal product is first placed on the market in Northern Ireland[^c-b57c1deecc6f50795cc1c9885aa78803], and the date on which it was placed on the market.
 
-(2) A holder of a marketing authorisation who removes the veterinary medicinal product from the market in Northern Ireland[^key-a54820922d3f6a7de4676eed722f3ad1] must notify the Secretary of State at least two months (or a shorter period in exceptional circumstances) before doing so.
+(2) A holder of a marketing authorisation who removes the veterinary medicinal product from the market in Northern Ireland[^c-a54820922d3f6a7de4676eed722f3ad1] must notify the Secretary of State at least two months (or a shorter period in exceptional circumstances) before doing so.
 
 (3) Upon request by the Secretary of State, the marketing authorisation holder must provide—
 
 - (a) all data relating to the volume of sales of the veterinary medicinal product by the holder; and
 - (b) any data in the holder’s possession relating to the number of prescriptions written for the product and the total volume supplied under those prescriptions.
 
-#### 32. Duration and validity of marketing authorisation[^M_E_ce8ee9f5-81a2-4500-86ef-59865ea84b2d][^key-a89156237a741298ba1782241fbf37a8]
+#### 32. Duration and validity of marketing authorisation[^M_E_ce8ee9f5-81a2-4500-86ef-59865ea84b2d][^c-a89156237a741298ba1782241fbf37a8]
 
 *Extent: E+W+S*
 
@@ -852,9 +852,9 @@ Subject to any power of revocation provided under these Regulations a marketing 
 
 (7) The further renewal is not time-limited.
 
-(8) Any marketing authorisation granted under these Regulations that is not followed within three years of its granting by the actual placing on the market of the authorised veterinary medicinal product in Northern Ireland[^key-cc39ba4cd5a372ebbfbfac19112ffd21] ceases to be valid.
+(8) Any marketing authorisation granted under these Regulations that is not followed within three years of its granting by the actual placing on the market of the authorised veterinary medicinal product in Northern Ireland[^c-cc39ba4cd5a372ebbfbfac19112ffd21] ceases to be valid.
 
-(9) When a veterinary medicinal product authorised under these Regulations and previously placed on the market in Northern Ireland[^key-16e4604b132ca76a6023fd1d360dfaaf] is not present on the market in Northern Ireland for a period of three consecutive years, its marketing authorisation ceases to be valid.
+(9) When a veterinary medicinal product authorised under these Regulations and previously placed on the market in Northern Ireland[^c-16e4604b132ca76a6023fd1d360dfaaf] is not present on the market in Northern Ireland for a period of three consecutive years, its marketing authorisation ceases to be valid.
 
 (10) The Secretary of State may, on human or animal health grounds, grant exemptions from sub-paragraphs (8) and (9).
 
@@ -864,11 +864,11 @@ Subject to any power of revocation provided under these Regulations a marketing 
 
 *Extent: E+W+S*
 
-(1)[^key-c860e0ab42cf26ea08fb5995163b250e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c860e0ab42cf26ea08fb5995163b250e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The holder of a marketing authorisation may apply to the Secretary of State for a variation of that marketing authorisation.
 
-(3)[^key-db26ae0f486649e257872dea3778a457] An application for a variation under paragraph (2) may only relate to—
+(3)[^c-db26ae0f486649e257872dea3778a457] An application for a variation under paragraph (2) may only relate to—
 
 - (a) a single variation, which may relate to one or more marketing authorisations, or
 - (b) one or more variations to a single marketing authorisation.
@@ -890,7 +890,7 @@ Subject to any power of revocation provided under these Regulations a marketing 
 
 (4) The Secretary of State, when granting a variation of a veterinary medicinal product, may (unless there are exceptional circumstances necessary to protect human or animal health or the environment) specify transitional measures to enable products produced in accordance with the previous authorisation to continue to be marketed for the transitional period.
 
-#### 33A. Variation procedure[^key-cb400558941d567ef9317967096770fb]
+#### 33A. Variation procedure[^c-cb400558941d567ef9317967096770fb]
 
 *Extent: E+W+S*
 
@@ -926,14 +926,14 @@ Subject to any power of revocation provided under these Regulations a marketing 
 
 *Extent: E+W+S*
 
-(1)[^key-efc8bfd7e29a3181a704e46c0ac957cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-efc8bfd7e29a3181a704e46c0ac957cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The grounds on which the Secretary of State may refuse an application for a variation of a marketing authorisation are those set out in paragraph 24 of this Schedule (refusal of a marketing authorisation).
 
 (3) The Secretary of State must give written reasons for refusing to grant a variation; and if—
 
 - (a) those reasons are on the grounds of safety, quality or efficacy; and
-- (b)[^key-49e1b037388a9c85449e24c0919e596f] the Secretary of State produced an assessment in respect of the variation under paragraph 33A(4),
+- (b)[^c-49e1b037388a9c85449e24c0919e596f] the Secretary of State produced an assessment in respect of the variation under paragraph 33A(4),
 
 the applicant may appeal to the Veterinary Products Committee.
 
@@ -952,11 +952,11 @@ the applicant may appeal to the Veterinary Products Committee.
 
 the applicant may appeal to the Veterinary Products Committee.
 
-#### 35 (Extent: E+W+S) (affected by repeal, see note). Administrative variations[^key-dae851f80391711f5f8c87e36b2d6b7f]
+#### 35 (Extent: E+W+S) (affected by repeal, see note). Administrative variations[^c-dae851f80391711f5f8c87e36b2d6b7f]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-dae851f80391711f5f8c87e36b2d6b7f] The holder of a marketing authorisation may apply for a minor change in a marketing authorisation to be made without the Secretary of State considering any scientific data (an “administrative variation”). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dae851f80391711f5f8c87e36b2d6b7f]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-dae851f80391711f5f8c87e36b2d6b7f] The holder of a marketing authorisation may apply for a minor change in a marketing authorisation to be made without the Secretary of State considering any scientific data (an “administrative variation”). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-dae851f80391711f5f8c87e36b2d6b7f]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-dae851f80391711f5f8c87e36b2d6b7f] If the Secretary of State grants an administrative variation, and subsequently establishes that this should have been a variation requiring consideration of scientific data, the Secretary of State may notify the marketing authorisation holder, require the holder to submit an application for a variation enabling data to be assessed and revoke the administrative variation. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dae851f80391711f5f8c87e36b2d6b7f]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-dae851f80391711f5f8c87e36b2d6b7f] If the Secretary of State grants an administrative variation, and subsequently establishes that this should have been a variation requiring consideration of scientific data, the Secretary of State may notify the marketing authorisation holder, require the holder to submit an application for a variation enabling data to be assessed and revoke the administrative variation. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-dae851f80391711f5f8c87e36b2d6b7f]
 
 #### 36. Changes after a marketing authorisation has been issued
 
@@ -974,11 +974,11 @@ After a marketing authorisation has been issued, the holder must take account of
 
 ### PART 5 — Suspension, etc. of a marketing authorisation
 
-#### 38. Suspension , revocation, etc of a marketing authorisation: grounds[^M_E_8a6f619b-19c9-431e-948d-2db2a5b0de36][^key-4e6f104ddf3998662975784a5cc7ae6f]
+#### 38. Suspension , revocation, etc of a marketing authorisation: grounds[^M_E_8a6f619b-19c9-431e-948d-2db2a5b0de36][^c-4e6f104ddf3998662975784a5cc7ae6f]
 
 *Extent: E+W+S*
 
-(1)[^key-b5400f342f10edb0daeab46a674c9aad] If the Secretary of State is satisfied at any time that the benefit-risk balance of a veterinary medicinal product is not positive or is insufficient to ensure food safety, the Secretary of State may—
+(1)[^c-b5400f342f10edb0daeab46a674c9aad] If the Secretary of State is satisfied at any time that the benefit-risk balance of a veterinary medicinal product is not positive or is insufficient to ensure food safety, the Secretary of State may—
 
 - (a) suspend the marketing authorisation;
 - (b) require the holder of the marketing authorisation to submit an application for its variation;
@@ -986,7 +986,7 @@ After a marketing authorisation has been issued, the holder must take account of
 
 (2) The Secretary of State may also suspend a marketing authorisation on being satisfied that a marketing authorisation holder has failed to make an application for a variation to take account of scientific and technical progress in manufacturing and control methods to enable the veterinary medicinal product to be manufactured and checked by means of generally accepted scientific methods.
 
-(3)[^key-b6bb5f8c85f75a08bc0519b250a774fa] The Secretary of State may take the steps set out in sub-paragraph (1)(a), (b) and (c) on being satisfied at any time that—
+(3)[^c-b6bb5f8c85f75a08bc0519b250a774fa] The Secretary of State may take the steps set out in sub-paragraph (1)(a), (b) and (c) on being satisfied at any time that—
 
 - (a) information given in the application documents is incorrect;
 - (b) any control tests required have not been carried out;
@@ -1028,7 +1028,7 @@ After a marketing authorisation has been issued, the holder must take account of
 
 (3)[^M_F_263eafae-f410-4fec-dd02-789a91ccb713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e27e40a715d846d4a50fe8ca91fbef69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e27e40a715d846d4a50fe8ca91fbef69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 39. Suspension of a marketing authorisation: procedure[^M_E_45927a26-f5a6-43a0-9737-7bd188fecde1]
 
@@ -1041,7 +1041,7 @@ After a marketing authorisation has been issued, the holder must take account of
 (3) If the veterinary medicinal product is authorised in more than one member State, the Secretary of State—
 
 - (a) must immediately refer the matter to the Agency, and must comply with a decision of the Commission within 30 days of the decision; and
-- (b) may suspend the marketing and the use of the veterinary medicinal product in Northern Ireland[^key-40e9a93d29cdf756ff56c204f4ed42ef] pending a decision of the Agency, but must inform the Commission and the [^key-35bf62f77f9d137ce83169682e43e637]... member States no later than the following working day of the reasons for the action.
+- (b) may suspend the marketing and the use of the veterinary medicinal product in Northern Ireland[^c-40e9a93d29cdf756ff56c204f4ed42ef] pending a decision of the Agency, but must inform the Commission and the [^c-35bf62f77f9d137ce83169682e43e637]... member States no later than the following working day of the reasons for the action.
 
 (4) When a marketing authorisation is suspended, the Secretary of State may in addition prohibit the supply of the veterinary medicinal product, and if necessary require the marketing authorisation holder to recall the product.
 
@@ -1053,7 +1053,7 @@ The Secretary of State may revoke any marketing authorisation that has been susp
 
 *Extent: E+W+S*
 
-(1)[^key-7b25e3c28c11ba4e9e3ad4872c9f00a8] The Secretary of State may prohibit the supply of a veterinary medicinal product or require the recall of the product at any time on being satisfied that—
+(1)[^c-7b25e3c28c11ba4e9e3ad4872c9f00a8] The Secretary of State may prohibit the supply of a veterinary medicinal product or require the recall of the product at any time on being satisfied that—
 
 - (a) the benefit-risk balance of the veterinary medicinal product is not positive;
 - (b) the qualitative or quantitative composition of the veterinary medicinal product is not as stated in the summary of product characteristics;
@@ -1063,7 +1063,7 @@ The Secretary of State may revoke any marketing authorisation that has been susp
 
 (2) The prohibition on supply and the requirement for recall may be confined to specific production batches.
 
-(3)[^key-422873602b46e487777676c0ada1bb00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-422873602b46e487777676c0ada1bb00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 41. Prohibiting the supply of veterinary medicinal products[^M_E_8006994b-2910-4c0b-c8bb-17b6c608aa9b]
 
@@ -1073,9 +1073,9 @@ The Secretary of State may revoke any marketing authorisation that has been susp
 
 (2) The prohibition on supply and the requirement for recall may be confined to specific production batches.
 
-(3) In the case of an immunological veterinary medicinal product manufactured outside the United Kingdom, if a batch has had all the tests that were originally carried out by the manufacturer repeated by the competent authority of a[^key-be8758bb62601399539291d1180faa16] member State, the Secretary of State may not prohibit the release of that batch if all the results have been submitted to the Secretary of State and the results demonstrate that the product is within the terms of the authorisation.
+(3) In the case of an immunological veterinary medicinal product manufactured outside the United Kingdom, if a batch has had all the tests that were originally carried out by the manufacturer repeated by the competent authority of a[^c-be8758bb62601399539291d1180faa16] member State, the Secretary of State may not prohibit the release of that batch if all the results have been submitted to the Secretary of State and the results demonstrate that the product is within the terms of the authorisation.
 
-#### 41A. Temporary restrictions[^key-519ca40e5528418995b377a5bed7456b]
+#### 41A. Temporary restrictions[^c-519ca40e5528418995b377a5bed7456b]
 
 *Extent: E+W+S*
 
@@ -1094,73 +1094,73 @@ The Secretary of State may prohibit the manufacture, importation, distribution, 
 - (b) the administration of the product to an animal causes difficulty in relation to the certifying of absence of disease in live animals or contamination of foodstuffs or other products from treated animals; or
 - (c) the strains of disease agents in relation to which the product is intended to confer immunity are largely absent from the territory concerned.
 
-### PART 6 (Extent: E+W+S) (affected by repeal, see note) — Mutual recognition and multiple applications (Extent: E+W+S) (affected by repeal, see note)[^key-f2786d2ce809d5bc3f0191545868d73c][^key-f2786d2ce809d5bc3f0191545868d73c]
+### PART 6 (Extent: E+W+S) (affected by repeal, see note) — Mutual recognition and multiple applications (Extent: E+W+S) (affected by repeal, see note)[^c-f2786d2ce809d5bc3f0191545868d73c][^c-f2786d2ce809d5bc3f0191545868d73c]
 
-#### 42 (Extent: E+W+S) (affected by repeal, see note). Application for a marketing authorisation where one already exists in (Extent: E+W+S) (affected by repeal, see note) a (Extent: E+W+S) (affected by repeal, see note) member State (Extent: E+W+S) (affected by repeal, see note)[^key-f2786d2ce809d5bc3f0191545868d73c][^key-f2786d2ce809d5bc3f0191545868d73c][^key-b06484a87a74294b7528628b052996af][^key-f2786d2ce809d5bc3f0191545868d73c][^key-f2786d2ce809d5bc3f0191545868d73c]
+#### 42 (Extent: E+W+S) (affected by repeal, see note). Application for a marketing authorisation where one already exists in (Extent: E+W+S) (affected by repeal, see note) a (Extent: E+W+S) (affected by repeal, see note) member State (Extent: E+W+S) (affected by repeal, see note)[^c-f2786d2ce809d5bc3f0191545868d73c][^c-f2786d2ce809d5bc3f0191545868d73c][^c-b06484a87a74294b7528628b052996af][^c-f2786d2ce809d5bc3f0191545868d73c][^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If a veterinary medicinal product has already received a marketing authorisation in *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] a[^key-877c4a98648235491acbb86c5902bb05] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] member State at the time of application, and the holder of the marketing authorisation applies for a marketing authorisation in *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] Northern Ireland[^key-6ed2fe5561059eb33e0a6ed1f84e7ed0] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c], the following procedure (“the mutual recognition procedure”) applies. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If a veterinary medicinal product has already received a marketing authorisation in *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] a[^c-877c4a98648235491acbb86c5902bb05] *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] member State at the time of application, and the holder of the marketing authorisation applies for a marketing authorisation in *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] Northern Ireland[^c-6ed2fe5561059eb33e0a6ed1f84e7ed0] *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c], the following procedure (“the mutual recognition procedure”) applies. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] The applicant must submit to the Secretary of State a dossier identical to the one submitted to the competent authority of the member State in which the veterinary medicinal product has been authorised (“the reference member State”). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] The applicant must submit to the Secretary of State a dossier identical to the one submitted to the competent authority of the member State in which the veterinary medicinal product has been authorised (“the reference member State”). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If there is a marketing authorisation current in more than one member State the applicant must identify which member State is acting as the reference member State. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If there is a marketing authorisation current in more than one member State the applicant must identify which member State is acting as the reference member State. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] An applicant applying in more than one member State must supply the Secretary of State with a list of all the States in which the applicant is applying. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] An applicant applying in more than one member State must supply the Secretary of State with a list of all the States in which the applicant is applying. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(5 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State must obtain an assessment report from the reference member State and, where appropriate, an explanation of any extension of the period of data protection. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(5 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State must obtain an assessment report from the reference member State and, where appropriate, an explanation of any extension of the period of data protection. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(6 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] Within 90 days after receipt of the assessment report, the Secretary of State must, subject to the following provisions, either— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(6 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] Within 90 days after receipt of the assessment report, the Secretary of State must, subject to the following provisions, either— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] approve the assessment report, the summary of product characteristics, the labelling and the package leaflet, and inform the reference member State accordingly; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] notify the reference member State that they have not been approved, and provide the reference member State with a detailed statement of the reasons. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] approve the assessment report, the summary of product characteristics, the labelling and the package leaflet, and inform the reference member State accordingly; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] notify the reference member State that they have not been approved, and provide the reference member State with a detailed statement of the reasons. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(7 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State may only refuse an application on the grounds of serious risk to human or animal health or the environment. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(7 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State may only refuse an application on the grounds of serious risk to human or animal health or the environment. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(8 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If the assessment report, the summary of product characteristics, the labelling and the package leaflet are approved, the Secretary of State must ensure that a decision whether or not to grant a marketing authorisation can be made within 30 days of the approval. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(8 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If the assessment report, the summary of product characteristics, the labelling and the package leaflet are approved, the Secretary of State must ensure that a decision whether or not to grant a marketing authorisation can be made within 30 days of the approval. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(9 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If the Secretary of State is notified by the reference member State that— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(9 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If the Secretary of State is notified by the reference member State that— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] not all member States concerned have within 90 days approved the assessment report, summary of product characteristics, labelling or package leaflet; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] the reference member State has sent a detailed statement of the reasons to the other member States involved in the application, the applicant and the coordination group for action in accordance with Article 33(3) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] [Directive 2001/82/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0082)[^key-f2786d2ce809d5bc3f0191545868d73c], *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] not all member States concerned have within 90 days approved the assessment report, summary of product characteristics, labelling or package leaflet; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] the reference member State has sent a detailed statement of the reasons to the other member States involved in the application, the applicant and the coordination group for action in accordance with Article 33(3) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] [Directive 2001/82/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0082)[^c-f2786d2ce809d5bc3f0191545868d73c], *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-the Secretary of State must within 30 days comply with the decision of the coordination group or, if the coordination group refers the matter to the Agency, the decision of the Commission. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+the Secretary of State must within 30 days comply with the decision of the coordination group or, if the coordination group refers the matter to the Agency, the decision of the Commission. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(10 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State may grant the marketing authorisation even though not all member States have agreed to grant it, but must revoke or vary the authorisation if this is necessary to comply with the decision of the Commission when it is received. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(10 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State may grant the marketing authorisation even though not all member States have agreed to grant it, but must revoke or vary the authorisation if this is necessary to comply with the decision of the Commission when it is received. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-#### 43 (Extent: E+W+S) (affected by repeal, see note). Application in (Extent: E+W+S) (affected by repeal, see note) a (Extent: E+W+S) (affected by repeal, see note) member State (Extent: E+W+S) (affected by repeal, see note)[^key-f2786d2ce809d5bc3f0191545868d73c][^key-f2786d2ce809d5bc3f0191545868d73c][^key-d72988056da218f6899068497f69d4ea][^key-f2786d2ce809d5bc3f0191545868d73c][^key-f2786d2ce809d5bc3f0191545868d73c]
+#### 43 (Extent: E+W+S) (affected by repeal, see note). Application in (Extent: E+W+S) (affected by repeal, see note) a (Extent: E+W+S) (affected by repeal, see note) member State (Extent: E+W+S) (affected by repeal, see note)[^c-f2786d2ce809d5bc3f0191545868d73c][^c-f2786d2ce809d5bc3f0191545868d73c][^c-d72988056da218f6899068497f69d4ea][^c-f2786d2ce809d5bc3f0191545868d73c][^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] When the Secretary of State has granted a marketing authorisation for a veterinary medicinal product and is notified by the marketing authorisation holder that the marketing authorisation holder has applied to have that veterinary medicinal product authorised in *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] a[^key-0a4e9f4ed2ede1ce11180ade8c70bc8a] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] member State, the Secretary of State must prepare an assessment report for the product within 90 days of the notification and send it to the member State or States concerned. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] When the Secretary of State has granted a marketing authorisation for a veterinary medicinal product and is notified by the marketing authorisation holder that the marketing authorisation holder has applied to have that veterinary medicinal product authorised in *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] a[^c-0a4e9f4ed2ede1ce11180ade8c70bc8a] *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] member State, the Secretary of State must prepare an assessment report for the product within 90 days of the notification and send it to the member State or States concerned. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If the other member State (or, if there is more than one, all of them) agrees with the assessment report, the summary of product characteristics, the labelling and the package leaflet the Secretary of State need take no further action. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If the other member State (or, if there is more than one, all of them) agrees with the assessment report, the summary of product characteristics, the labelling and the package leaflet the Secretary of State need take no further action. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If not all the other member States concerned so agree within a further 90 days the Secretary of State must send a detailed statement setting out why they have disagreed to the other member States, the applicant and the coordination group for action in accordance with Article 33(3) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] [Directive 2001/82/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0082)[^key-f2786d2ce809d5bc3f0191545868d73c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If not all the other member States concerned so agree within a further 90 days the Secretary of State must send a detailed statement setting out why they have disagreed to the other member States, the applicant and the coordination group for action in accordance with Article 33(3) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] [Directive 2001/82/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0082)[^c-f2786d2ce809d5bc3f0191545868d73c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State must within 30 days comply with the decision of the coordination group or, if the coordination group refers the matter to the Agency, the decision of the Commission. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State must within 30 days comply with the decision of the coordination group or, if the coordination group refers the matter to the Agency, the decision of the Commission. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-#### 44 (Extent: E+W+S) (affected by repeal, see note). Application for a marketing authorisation in multiple member States where a marketing authorisation does not exist in any member State (Extent: E+W+S) (affected by repeal, see note)[^key-f2786d2ce809d5bc3f0191545868d73c][^key-f2786d2ce809d5bc3f0191545868d73c]
+#### 44 (Extent: E+W+S) (affected by repeal, see note). Application for a marketing authorisation in multiple member States where a marketing authorisation does not exist in any member State (Extent: E+W+S) (affected by repeal, see note)[^c-f2786d2ce809d5bc3f0191545868d73c][^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If an applicant wishes to apply for a marketing authorisation in more than one member State, and a marketing authorisation does not exist in any member State for the product (“the decentralised procedure”), the applicant must— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If an applicant wishes to apply for a marketing authorisation in more than one member State, and a marketing authorisation does not exist in any member State for the product (“the decentralised procedure”), the applicant must— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] apply simultaneously in all the relevant member States; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] submit a dossier to the Secretary of State that is identical to the dossier being submitted to all the other member States; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
-- (c (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] include a list of all member States in which applications have been made; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
-- (d (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] nominate one of them to act as the reference member State to prepare a draft assessment report and drafts of the summary of product characteristics, labelling and package leaflet for consideration by the other member States (“the concerned member States”). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] apply simultaneously in all the relevant member States; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] submit a dossier to the Secretary of State that is identical to the dossier being submitted to all the other member States; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
+- (c (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] include a list of all member States in which applications have been made; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
+- (d (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] nominate one of them to act as the reference member State to prepare a draft assessment report and drafts of the summary of product characteristics, labelling and package leaflet for consideration by the other member States (“the concerned member States”). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If the United Kingdom is the reference member State, the Secretary of State must prepare a draft assessment report and drafts of the summary of product characteristics, labelling and package leaflet within 120 days of the receipt of a valid application and must send them to the other concerned member States and to the applicant. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If the United Kingdom is the reference member State, the Secretary of State must prepare a draft assessment report and drafts of the summary of product characteristics, labelling and package leaflet within 120 days of the receipt of a valid application and must send them to the other concerned member States and to the applicant. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If the United Kingdom is not the reference member State, within 90 days after receipt of the assessment report and drafts of the summary of product characteristics, labelling and package leaflet from the reference member State, the Secretary of State must, subject to the following provisions, either— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If the United Kingdom is not the reference member State, within 90 days after receipt of the assessment report and drafts of the summary of product characteristics, labelling and package leaflet from the reference member State, the Secretary of State must, subject to the following provisions, either— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] approve the assessment report, the summary of product characteristics, the labelling and the package leaflet, and inform the reference member State accordingly; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] notify the reference member State that the Secretary of State will not approve it, and provide the reference member State with a detailed statement of the reasons. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] approve the assessment report, the summary of product characteristics, the labelling and the package leaflet, and inform the reference member State accordingly; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] notify the reference member State that the Secretary of State will not approve it, and provide the reference member State with a detailed statement of the reasons. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State may only refuse an application on the grounds of serious risk to human or animal health or the environment. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] The Secretary of State may only refuse an application on the grounds of serious risk to human or animal health or the environment. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(5 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If all the member States involved agree the assessment report, the summary of product characteristics, the labelling and the package leaflet within 90 days, the Secretary of State must ensure that a decision whether or not to grant a marketing authorisation can be made within 30 days. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(5 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If all the member States involved agree the assessment report, the summary of product characteristics, the labelling and the package leaflet within 90 days, the Secretary of State must ensure that a decision whether or not to grant a marketing authorisation can be made within 30 days. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(6 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If, within 90 days, not all the member States have agreed the assessment report, summary of product characteristics, labelling and package leaflet on grounds of a potential serious risk to human or animal health or to the environment, the Secretary of State (if the United Kingdom is the reference member State) must send a detailed statement of the reasons to the other member States involved in the application, the applicant, and the coordination group to act in accordance with Article 33(3) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c] [Directive 2001/82/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0082)[^key-f2786d2ce809d5bc3f0191545868d73c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(6 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If, within 90 days, not all the member States have agreed the assessment report, summary of product characteristics, labelling and package leaflet on grounds of a potential serious risk to human or animal health or to the environment, the Secretary of State (if the United Kingdom is the reference member State) must send a detailed statement of the reasons to the other member States involved in the application, the applicant, and the coordination group to act in accordance with Article 33(3) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c] [Directive 2001/82/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0082)[^c-f2786d2ce809d5bc3f0191545868d73c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(7 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If reference has been made to the coordination group by any member State, the Secretary of State must within 30 days comply with the decision of the coordination group or, if the coordination group refers the matter to the Agency, the decision of the Commission. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(7 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If reference has been made to the coordination group by any member State, the Secretary of State must within 30 days comply with the decision of the coordination group or, if the coordination group refers the matter to the Agency, the decision of the Commission. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
-(8 (Extent: E+W+S) (affected by repeal, see note))[^key-f2786d2ce809d5bc3f0191545868d73c] If the Secretary of State wishes to do so, the Secretary of State may grant the marketing authorisation even though not all member States have agreed to grant it, but must revoke or vary the authorisation if this is necessary to comply with the decision of the Commission when it is received. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f2786d2ce809d5bc3f0191545868d73c]
+(8 (Extent: E+W+S) (affected by repeal, see note))[^c-f2786d2ce809d5bc3f0191545868d73c] If the Secretary of State wishes to do so, the Secretary of State may grant the marketing authorisation even though not all member States have agreed to grant it, but must revoke or vary the authorisation if this is necessary to comply with the decision of the Commission when it is received. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f2786d2ce809d5bc3f0191545868d73c]
 
 ### PART 7 — Labelling and package leaflets
 
@@ -1178,7 +1178,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 *Extent: N.I.*
 
-A label and package leaflet of an authorised veterinary medicinal product may contain in legible characters the words “UK(NI)[^key-9d6b87d844e6ff6ae688470a342d97d2] authorised veterinary medicinal product” or, if the marketing authorisation provides, other wording specified in the authorisation indicating that the product is authorised in Northern Ireland[^key-310a2fbe0f2165b94b16ed253fae40ba].
+A label and package leaflet of an authorised veterinary medicinal product may contain in legible characters the words “UK(NI)[^c-9d6b87d844e6ff6ae688470a342d97d2] authorised veterinary medicinal product” or, if the marketing authorisation provides, other wording specified in the authorisation indicating that the product is authorised in Northern Ireland[^c-310a2fbe0f2165b94b16ed253fae40ba].
 
 #### 47. Language
 
@@ -1186,7 +1186,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (2) This requirement does not apply in the case of a product imported by a veterinary surgeon and administered by or under the responsibility of that same veterinary surgeon.
 
-#### 48. Labelling of immediate packaging of veterinary medicinal products[^M_E_7a129140-1367-4f0e-ee70-9aa06728496f][^key-7e18f0e5f71da661bff532de4b32d4f2]
+#### 48. Labelling of immediate packaging of veterinary medicinal products[^M_E_7a129140-1367-4f0e-ee70-9aa06728496f][^c-7e18f0e5f71da661bff532de4b32d4f2]
 
 *Extent: E+W+S*
 
@@ -1238,7 +1238,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (2) If all this is on the immediate packaging, there is no need for any outer packaging or a package leaflet.
 
-#### 49. Labelling of the outer packaging of veterinary medicinal products[^M_E_456523c6-afe4-45a1-e7e6-005c146c138a][^key-85e6ddf39c0e0120f6149444e014a59e]
+#### 49. Labelling of the outer packaging of veterinary medicinal products[^M_E_456523c6-afe4-45a1-e7e6-005c146c138a][^c-85e6ddf39c0e0120f6149444e014a59e]
 
 *Extent: E+W+S*
 
@@ -1274,7 +1274,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (4) The outer packaging must contain all the required information if it is reasonably practicable to do this, and if it is not reasonably practicable to do this a package leaflet must be supplied with the product in accordance with the following paragraph.
 
-#### 50. Labelling of small immediate packaging units of veterinary medicinal products[^M_E_c083b0cc-2957-4c93-af09-82ac16ef9a14][^key-1597a9e13ceb28f08519118b4fdd2df9]
+#### 50. Labelling of small immediate packaging units of veterinary medicinal products[^M_E_c083b0cc-2957-4c93-af09-82ac16ef9a14][^c-1597a9e13ceb28f08519118b4fdd2df9]
 
 *Extent: E+W+S*
 
@@ -1301,7 +1301,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (5) Only a package leaflet approved in the marketing authorisation may be included with the veterinary medicinal product.
 
-#### 51. Package leaflet of veterinary medicinal products[^M_E_b0cc9e1e-a5b6-41dc-e8f7-d324b4d771dc][^key-882b588e11e71be9efebc0893f2e2093]
+#### 51. Package leaflet of veterinary medicinal products[^M_E_b0cc9e1e-a5b6-41dc-e8f7-d324b4d771dc][^c-882b588e11e71be9efebc0893f2e2093]
 
 *Extent: E+W+S*
 
@@ -1357,9 +1357,9 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (2) The outer packaging must contain all the required information if it is reasonably practicable to do this, and if it is not reasonably practicable to do this a package leaflet must be supplied with the product, except that the ampoule need not refer to the package leaflet.
 
-#### 52 (Extent: E+W+S) (affected by repeal, see note). Small containers other than ampoules[^key-df8c8bcaa8b84a9190acd4b9328e870e]
+#### 52 (Extent: E+W+S) (affected by repeal, see note). Small containers other than ampoules[^c-df8c8bcaa8b84a9190acd4b9328e870e]
 
-As regards small immediate packaging containing a single dose, other than ampoules, on which it is impossible to give the required information, all the required information must appear on the outer packaging or outer packaging and package leaflet, but the immediate packaging must be labelled with the batch number and the expiry date and, if there is room, the other information in the preceding paragraph. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-df8c8bcaa8b84a9190acd4b9328e870e]
+As regards small immediate packaging containing a single dose, other than ampoules, on which it is impossible to give the required information, all the required information must appear on the outer packaging or outer packaging and package leaflet, but the immediate packaging must be labelled with the batch number and the expiry date and, if there is room, the other information in the preceding paragraph. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-df8c8bcaa8b84a9190acd4b9328e870e]
 
 #### 53. Homeopathic remedies[^M_E_3ce99fed-0f41-48bc-ef27-8d53572cfa35]
 
@@ -1373,7 +1373,7 @@ As regards small immediate packaging containing a single dose, other than ampoul
 
 - (a) the words “homeopathic remedy without approved therapeutic indications for veterinary use”;
 - (b) the scientific name of the stock or stocks followed by the degree of dilution, using the symbols of the pharmacopoeia used (if the homeopathic remedy is composed of more than one stock, the labelling may mention an invented name in addition to the scientific names of the stocks);
-- (c)[^key-e899d0acd4f24bf9f56adbae1fdce888] the name or company name and the permanent address or registered place of business of the registration holder and of the manufacturer
+- (c)[^c-e899d0acd4f24bf9f56adbae1fdce888] the name or company name and the permanent address or registered place of business of the registration holder and of the manufacturer
 - (d) the method and, if necessary, route of administration;
 - (e) the expiry date;
 - (f) the pharmaceutical form;
@@ -1381,9 +1381,9 @@ As regards small immediate packaging containing a single dose, other than ampoul
 - (h) any special storage precautions;
 - (i) the target species;
 - (j) any necessary special warnings;
-- (k) the batch number; [^key-46f2bf5a935013fafc14d84aa2e6775f]...
-- (l) the registration number; and[^key-944364ccf892d4659d335eca9cbbe8cc]
-- (m)[^key-9b38d3898e78b89cd587bee5775ddfed] the withdrawal period, where applicable.
+- (k) the batch number; [^c-46f2bf5a935013fafc14d84aa2e6775f]...
+- (l) the registration number; and[^c-944364ccf892d4659d335eca9cbbe8cc]
+- (m)[^c-9b38d3898e78b89cd587bee5775ddfed] the withdrawal period, where applicable.
 
 #### 53. Homeopathic remedies[^M_E_22e06d4a-4f11-4381-d1b8-1bc1f7016399]
 
@@ -1414,7 +1414,7 @@ The Secretary of State may permit variations in the above in any individual mark
 
 ### PART 8 — Pharmacovigilance
 
-#### 55. Qualified persons responsible for pharmacovigilance[^key-ecf986b01e3a5bc8ce915eba98087dde][^M_E_3a32fc5f-5347-41ab-844e-57eea2d17bc5]
+#### 55. Qualified persons responsible for pharmacovigilance[^c-ecf986b01e3a5bc8ce915eba98087dde][^M_E_3a32fc5f-5347-41ab-844e-57eea2d17bc5]
 
 *Extent: E+W+S*
 
@@ -1424,9 +1424,9 @@ The Secretary of State may permit variations in the above in any individual mark
 
 *Extent: N.I.*
 
-A marketing authorisation holder must have permanently and continuously the services of an appropriately qualified person responsible for pharmacovigilance (“a qualified person (pharmacovigilance)”) who resides in a member State or the United Kingdom[^key-cb03849c805ea322e452cd8e38f6d16e].
+A marketing authorisation holder must have permanently and continuously the services of an appropriately qualified person responsible for pharmacovigilance (“a qualified person (pharmacovigilance)”) who resides in a member State or the United Kingdom[^c-cb03849c805ea322e452cd8e38f6d16e].
 
-#### 56. Duties of marketing authorisation holder in relation to pharmacovigilance[^M_E_f4dae998-bf88-4d05-bb8a-81b1eb99dfe6][^key-cbc5cb8480ad0891b4a2bd219110b7b3]
+#### 56. Duties of marketing authorisation holder in relation to pharmacovigilance[^M_E_f4dae998-bf88-4d05-bb8a-81b1eb99dfe6][^c-cbc5cb8480ad0891b4a2bd219110b7b3]
 
 *Extent: E+W+S*
 
@@ -1514,32 +1514,32 @@ A qualified person (pharmacovigilance) must—
 - (c) a new clinical sign;
 - (d) reports in scientific literature of any of the matters mentioned in paragraphs (a) to (c).
 
-#### 57. Adverse events following administration of a veterinary medicinal product[^M_E_c7a4c634-fe2b-478d-9f95-c5afc29ece99][^key-ff91c96897299e5a42b2992c032f144a]
+#### 57. Adverse events following administration of a veterinary medicinal product[^M_E_c7a4c634-fe2b-478d-9f95-c5afc29ece99][^c-ff91c96897299e5a42b2992c032f144a]
 
 *Extent: E+W+S*
 
 (1) A marketing authorisation holder must act in accordance with this paragraph on learning of any suspected—
 
-- (a) adverse event in respect of an animal[^key-d5456e176a0665a6baa4beb051a2f2dd];
-- (b) human adverse event[^key-65dcee68668705b444cf9cfca645de18]; [^key-b021f8cf0ec1b931663f944c8212caad]...
+- (a) adverse event in respect of an animal[^c-d5456e176a0665a6baa4beb051a2f2dd];
+- (b) human adverse event[^c-65dcee68668705b444cf9cfca645de18]; [^c-b021f8cf0ec1b931663f944c8212caad]...
 - (c) unintended transmission of an infectious agent through a veterinary medicinal product,
-- (d)[^key-da897908311812e4370c56dcd990f419] occurrence of an adverse environmental event, or
+- (d)[^c-da897908311812e4370c56dcd990f419] occurrence of an adverse environmental event, or
 - (e) lack of efficacy,
 
-following the administration of the product [^key-f67447764dcffd1424ae105e7d4b926d]....
+following the administration of the product [^c-f67447764dcffd1424ae105e7d4b926d]....
 
-(1A)[^key-99265e8bdbb9ef0d0432eacfbb7197d4] A marketing authorisation holder must also act in accordance with this paragraph where—
+(1A)[^c-99265e8bdbb9ef0d0432eacfbb7197d4] A marketing authorisation holder must also act in accordance with this paragraph where—
 
 - (a) after the end of the withdrawal period a product of animal origin is found to include a pharmacologically active substance or marker residue exceeding the maximum residue limit established in accordance with Regulation (EC) No 470/2009 of the European Parliament and of the Council; or
 - (b) there is evidence in published scientific literature of an adverse event in connection with the product.
 
 (2) The holder must make a record of what happened.
 
-(3) The holder must without delay and in any event within 30[^key-d60ec0f7b6d6e83bbfc7a827d79a43af] days report it (electronically if this is practicable) to the Secretary of State.
+(3) The holder must without delay and in any event within 30[^c-d60ec0f7b6d6e83bbfc7a827d79a43af] days report it (electronically if this is practicable) to the Secretary of State.
 
-(4) In addition, the holder must supply to the Secretary of State all relevant veterinary pharmacovigilance information that the holder possesses relating to the event[^key-9f3512ff440d4a1ecc4563d5408d986b], giving a full description of the incident and a list of all the symptoms using internationally recognised veterinary and medical terminology, either with the report or, if the information becomes available after the report has been sent, as soon after it becomes available as is reasonably practicable.
+(4) In addition, the holder must supply to the Secretary of State all relevant veterinary pharmacovigilance information that the holder possesses relating to the event[^c-9f3512ff440d4a1ecc4563d5408d986b], giving a full description of the incident and a list of all the symptoms using internationally recognised veterinary and medical terminology, either with the report or, if the information becomes available after the report has been sent, as soon after it becomes available as is reasonably practicable.
 
-(4A)[^key-dd43e015436912bb87586f3017636727] The Secretary of State may require the marketing authorisation holder—
+(4A)[^c-dd43e015436912bb87586f3017636727] The Secretary of State may require the marketing authorisation holder—
 
 - (a) to collect specific pharmacovigilance data (in addition to the data mentioned in sub-paragraph (4)) and submit those data to the Secretary of State; and
 - (b) to carry out specific post-marketing surveillance studies.
@@ -1549,9 +1549,9 @@ following the administration of the product [^key-f67447764dcffd1424ae105e7d4b92
 - (a) state the reason for the requirement; and
 - (b) state the time by which, or the period during which, the requirement must be complied with.
 
-(5)[^key-42db3175e4efad566a520541c5863fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-42db3175e4efad566a520541c5863fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 57. Adverse reactions to a veterinary medicinal product administered in Northern Ireland[^M_E_f2a9b8a1-ca02-4d62-81e7-e0ef794cd992][^key-277a1ccf1d51a65eac18ea944268fe26]
+#### 57. Adverse reactions to a veterinary medicinal product administered in Northern Ireland[^M_E_f2a9b8a1-ca02-4d62-81e7-e0ef794cd992][^c-277a1ccf1d51a65eac18ea944268fe26]
 
 *Extent: N.I.*
 
@@ -1561,7 +1561,7 @@ following the administration of the product [^key-f67447764dcffd1424ae105e7d4b92
 - (b) human adverse reaction; or
 - (c) unintended transmission of an infectious agent through a veterinary medicinal product,
 
-following the administration of the product in Northern Ireland[^key-d8edb5127a8d7563f374049aefc30b16].
+following the administration of the product in Northern Ireland[^c-d8edb5127a8d7563f374049aefc30b16].
 
 (2) The holder must make a record of what happened.
 
@@ -1574,7 +1574,7 @@ following the administration of the product in Northern Ireland[^key-d8edb5127a8
 - “human adverse reaction” means a reaction that is noxious and unintended and that occurs in a human being following exposure to a veterinary medicine;
 - “serious adverse reaction” means an adverse reaction that results in death, is life-threatening, results in significant disability or incapacity, is a congenital anomaly or birth defect, or that results in permanent or prolonged signs in the animals treated.
 
-#### 58. Adverse reactions to a veterinary medicinal product administered in another country[^key-bcea636f874db0a53bab098f511167a1][^M_E_13287d48-7935-40a6-e629-b84c6a40a750][^key-4d244a91516ca71fd4c42521e0065bcc]
+#### 58. Adverse reactions to a veterinary medicinal product administered in another country[^c-bcea636f874db0a53bab098f511167a1][^M_E_13287d48-7935-40a6-e629-b84c6a40a750][^c-4d244a91516ca71fd4c42521e0065bcc]
 
 *Extent: E+W+S*
 
@@ -1584,7 +1584,7 @@ following the administration of the product in Northern Ireland[^key-d8edb5127a8
 
 *Extent: N.I.*
 
-(1) A marketing authorisation holder for a veterinary medicinal product authorised in Northern Ireland[^key-a3d5de786a5f09321b0211b5394da9a1] must act in accordance with this paragraph on learning of any suspected—
+(1) A marketing authorisation holder for a veterinary medicinal product authorised in Northern Ireland[^c-a3d5de786a5f09321b0211b5394da9a1] must act in accordance with this paragraph on learning of any suspected—
 
 - (a) serious, unexpected adverse reaction (for these purposes a reaction is unexpected if its nature, severity or outcome is not consistent with the summary of the product characteristics);
 - (b) human adverse reaction; or
@@ -1596,31 +1596,31 @@ following the administration of the product in a third country.
 
 (3) The holder must without delay and in any event within 15 days report the suspected reaction or transmission (electronically if this is practicable) to the Secretary of State, the competent authorities of all member States in which the product is authorised, and the Agency.
 
-(4) In addition to the report, the holder must supply to the Secretary of State, the competent authorities of all [^key-6c26d1ba883448683c084d8aa7c2552e]... member States where the product is authorised and the Agency, all relevant veterinary pharmacovigilance information in the holder’s possession relating to the reaction as in the preceding paragraph.
+(4) In addition to the report, the holder must supply to the Secretary of State, the competent authorities of all [^c-6c26d1ba883448683c084d8aa7c2552e]... member States where the product is authorised and the Agency, all relevant veterinary pharmacovigilance information in the holder’s possession relating to the reaction as in the preceding paragraph.
 
-#### 59. Annual benefit-risk reports[^M_E_853f8778-d92f-48ed-cdb3-03d0f42dcc53][^key-c0bb7166d46e3751a86a1d7a27dfe051]
+#### 59. Annual benefit-risk reports[^M_E_853f8778-d92f-48ed-cdb3-03d0f42dcc53][^c-c0bb7166d46e3751a86a1d7a27dfe051]
 
 *Extent: E+W+S*
 
-(1) The marketing authorisation holder must submit to the Secretary of State a summary of pharmacovigilance activity[^key-9425c7ce4a8960d3c954fff0f373aa7c] in the form of an annual benefit-risk report[^key-a93f144c42549f3a79495c512d3a5fb6] for each marketing authorisation in accordance with this paragraph [^key-f3dd0b4401549740ffdf465d3d3d6629]....
+(1) The marketing authorisation holder must submit to the Secretary of State a summary of pharmacovigilance activity[^c-9425c7ce4a8960d3c954fff0f373aa7c] in the form of an annual benefit-risk report[^c-a93f144c42549f3a79495c512d3a5fb6] for each marketing authorisation in accordance with this paragraph [^c-f3dd0b4401549740ffdf465d3d3d6629]....
 
-(2)[^key-d18b9ac775ac2d2cec86d0c0484db0d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d18b9ac775ac2d2cec86d0c0484db0d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Following the placing on the market in Great Britain[^key-e246570d722f71ee673ca29d6b7c5f76], the marketing authorisation holder must submit a benefit-risk report[^key-c7781e07b4e0594444e9529684fad279] to the Secretary of State immediately upon request and, in any event, once in the course of every year during the period of validity of the authorisation[^key-0aa252205e00f01151f81365f55b31c3].
+(3) Following the placing on the market in Great Britain[^c-e246570d722f71ee673ca29d6b7c5f76], the marketing authorisation holder must submit a benefit-risk report[^c-c7781e07b4e0594444e9529684fad279] to the Secretary of State immediately upon request and, in any event, once in the course of every year during the period of validity of the authorisation[^c-0aa252205e00f01151f81365f55b31c3].
 
-(4) Following the granting of a marketing authorisation, the marketing authorisation holder may apply to the Secretary of State to change the submission dates for the annual benefit-risk reports[^key-d7546f0ee6107bea43d51e5f7b41059e].
+(4) Following the granting of a marketing authorisation, the marketing authorisation holder may apply to the Secretary of State to change the submission dates for the annual benefit-risk reports[^c-d7546f0ee6107bea43d51e5f7b41059e].
 
-(5)[^key-8556cf432081962196df5ff9e9e7695f] The report must include a statement regarding the benefit-risk balance of the veterinary medicinal product.
+(5)[^c-8556cf432081962196df5ff9e9e7695f] The report must include a statement regarding the benefit-risk balance of the veterinary medicinal product.
 
-(6)[^key-d648ee03354cc88397dcfe0ea4ae94e6] The annual benefit-risk report must include—
+(6)[^c-d648ee03354cc88397dcfe0ea4ae94e6] The annual benefit-risk report must include—
 
 - (a) the volume of the product sold in the United Kingdom and in other countries in the period covered by the report, with the volume of the product sold in the United Kingdom in each calendar year identified;
 - (b) the notification of signals detected during the reporting period following pharmacovigilance activity in the United Kingdom or a country other than the United Kingdom for which further regulatory actions are required (including a summary of the regular review of adverse events carried out during the year); and
 - (c) where it appears from the observed data that there is cause for concern in relation to the safety of the product, recommendations on the need for further intervention by the Secretary of State.
 
-(7)[^key-6451d8b5917ea77592e3018fe0e231cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-6451d8b5917ea77592e3018fe0e231cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-ad7f94bad5df17bacadb347a62541d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ad7f94bad5df17bacadb347a62541d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 59. Periodic safety update reports[^M_E_dfebd5bb-94a3-490d-8d95-fd9015148217]
 
@@ -1628,9 +1628,9 @@ following the administration of the product in a third country.
 
 (1) The marketing authorisation holder must submit to the Secretary of State records of all adverse reactions (including nil reports) in the form of a periodic safety update report for each marketing authorisation in accordance with this paragraph, including a summary of each incident and a list of all the symptoms using internationally recognised veterinary and medical terminology.
 
-(2) A marketing authorisation holder who has not yet placed a product on the market in Northern Ireland[^key-e61256cec0fd902615a5a16bd4ae6fd1] must submit a periodic safety update report immediately upon request of the Secretary of State and at least every six months after authorisation.
+(2) A marketing authorisation holder who has not yet placed a product on the market in Northern Ireland[^c-e61256cec0fd902615a5a16bd4ae6fd1] must submit a periodic safety update report immediately upon request of the Secretary of State and at least every six months after authorisation.
 
-(3) Following the placing on the market in Northern Ireland[^key-291decd1504057daca52fc7ae1c8b0a6], the marketing authorisation holder must submit a periodic safety update report to the Secretary of State immediately upon request and—
+(3) Following the placing on the market in Northern Ireland[^c-291decd1504057daca52fc7ae1c8b0a6], the marketing authorisation holder must submit a periodic safety update report to the Secretary of State immediately upon request and—
 
 - (a) at least every six months during the first two years following the initial placing on the market;
 - (b) once a year for the following two years; and
@@ -1656,13 +1656,13 @@ following the administration of the product in a third country.
 
 #### 60. Release of information by the marketing authorisation holder
 
-(1) A marketing authorisation holder must not communicate information relating to pharmacovigilance concerns to veterinary surgeons or *(Extent: E+W+S)*[^key-ec87bd5517c8b2209be4192474520c36] the general public in relation to its authorised veterinary medicinal product without giving prior or simultaneous notification to the Secretary of State.
+(1) A marketing authorisation holder must not communicate information relating to pharmacovigilance concerns to veterinary surgeons or *(Extent: E+W+S)*[^c-ec87bd5517c8b2209be4192474520c36] the general public in relation to its authorised veterinary medicinal product without giving prior or simultaneous notification to the Secretary of State.
 
 (2) The marketing authorisation holder must ensure that such information is presented objectively and is not misleading.
 
-(3 (Extent: E+W+S))[^key-6b743799f8b095069be444f6b2b5dbad] For the purposes of this paragraph “ *(Extent: E+W+S)***information *(Extent: E+W+S)***” includes any information contained in advertising material. *(Extent: E+W+S)*
+(3 (Extent: E+W+S))[^c-6b743799f8b095069be444f6b2b5dbad] For the purposes of this paragraph “ *(Extent: E+W+S)***information *(Extent: E+W+S)***” includes any information contained in advertising material. *(Extent: E+W+S)*
 
-#### 60A. Pharmacovigilance inspections by Secretary of State[^key-666d8580504ab17b126745baa1bd38b4]
+#### 60A. Pharmacovigilance inspections by Secretary of State[^c-666d8580504ab17b126745baa1bd38b4]
 
 *Extent: E+W+S*
 
@@ -1682,7 +1682,7 @@ The Secretary of State may decide to perform a targeted signal management proces
 
 *Extent: E+W+S*
 
-(1) Where, as a result of the evaluation of veterinary pharmacovigilance data, the Secretary of State considers that a marketing authorisation , or a group of marketing authorisations containing the same active substance,[^key-9175dcbf02febac91b8ab0c403d380f6] should be—
+(1) Where, as a result of the evaluation of veterinary pharmacovigilance data, the Secretary of State considers that a marketing authorisation , or a group of marketing authorisations containing the same active substance,[^c-9175dcbf02febac91b8ab0c403d380f6] should be—
 
 - (a) suspended;
 - (b) revoked; or
@@ -1690,17 +1690,17 @@ The Secretary of State may decide to perform a targeted signal management proces
   - (i) restrict the indications;
   - (ii) change the distribution category;
   - (iii) amend the dose;
-  - (iv) add a contraindication; [^key-b42924bf3c5f89aefab0c412dfd9b5ac]...
-  - (v) add a new precautionary measure, or[^key-82dc5e72faf3481bf7c41fbfd4ce237a]
+  - (iv) add a contraindication; [^c-b42924bf3c5f89aefab0c412dfd9b5ac]...
+  - (v) add a new precautionary measure, or[^c-82dc5e72faf3481bf7c41fbfd4ce237a]
   - (vi) implement a risk management plan,
 
-the Secretary of State must forthwith inform [^key-15ba93d2b1499cf4808bba587bcdcd5d]... and the marketing authorisation holder.
+the Secretary of State must forthwith inform [^c-15ba93d2b1499cf4808bba587bcdcd5d]... and the marketing authorisation holder.
 
-(2) If urgent action is necessary for protecting human or animal health, the Secretary of State may suspend the marketing authorisation of a veterinary medicinal product[^key-579353a4efba89742cf5d2eb4b180a82]....
+(2) If urgent action is necessary for protecting human or animal health, the Secretary of State may suspend the marketing authorisation of a veterinary medicinal product[^c-579353a4efba89742cf5d2eb4b180a82]....
 
-(3)[^key-e3b2c598025578129a5650b94ea7b3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e3b2c598025578129a5650b94ea7b3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2f5e45ace8dd998a19f9937c44d5e61e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2f5e45ace8dd998a19f9937c44d5e61e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 61. Action taken on account of pharmacovigilance[^M_E_4275a0ee-fbd3-4c62-dceb-1dd7b9728345]
 
@@ -1717,9 +1717,9 @@ the Secretary of State must forthwith inform [^key-15ba93d2b1499cf4808bba587bcdc
   - (iv) add a contraindication; or
   - (v) add a new precautionary measure,
 
-the Secretary of State must forthwith inform the Agency, all [^key-8ccb0b81688f04ddfd148325d58e7487]... member States (irrespective of whether the product is authorised in a[^key-7f95809e487ffb57a2bea836f8f3228e] member State) and the marketing authorisation holder.
+the Secretary of State must forthwith inform the Agency, all [^c-8ccb0b81688f04ddfd148325d58e7487]... member States (irrespective of whether the product is authorised in a[^c-7f95809e487ffb57a2bea836f8f3228e] member State) and the marketing authorisation holder.
 
-(2) If urgent action is necessary for protecting human or animal health, the Secretary of State may suspend the marketing authorisation of a veterinary medicinal product, but must inform the Agency, the Commission and the [^key-c3f1abc454de4fd1cfa06d59860855d1]... member States within one working day.
+(2) If urgent action is necessary for protecting human or animal health, the Secretary of State may suspend the marketing authorisation of a veterinary medicinal product, but must inform the Agency, the Commission and the [^c-c3f1abc454de4fd1cfa06d59860855d1]... member States within one working day.
 
 (3) If, following the opinion of the Agency, the Commission requests the Secretary of State to suspend, withdraw or vary the marketing authorisation, the Secretary of State must comply with that request immediately on a temporary basis.
 
@@ -1731,7 +1731,7 @@ the Secretary of State must forthwith inform the Agency, all [^key-8ccb0b81688f0
 
 *Extent: E+W+S*
 
-For the purposes of these Regulations, a homeopathic remedy is a veterinary medicinal product (which may contain a number of principles) prepared from homeopathic stocks in accordance with a homeopathic manufacturing procedure described in the European Pharmacopoeia[^f00034] or, if it is not described there, in a pharmacopoeia published by the British Pharmacopoeial Commission [^key-bc507c158e43e3bc77e6fb08005a9a94]....
+For the purposes of these Regulations, a homeopathic remedy is a veterinary medicinal product (which may contain a number of principles) prepared from homeopathic stocks in accordance with a homeopathic manufacturing procedure described in the European Pharmacopoeia[^f00034] or, if it is not described there, in a pharmacopoeia published by the British Pharmacopoeial Commission [^c-bc507c158e43e3bc77e6fb08005a9a94]....
 
 #### 62. Meaning of “homeopathic remedy”[^M_E_89ab31dc-42a6-44bf-aec2-88e15f45615c]
 
@@ -1745,11 +1745,11 @@ For the purposes of these Regulations, a homeopathic remedy is a veterinary medi
 
 (1) By way of derogation from the provisions of these Regulations requiring a marketing authorisation for a veterinary medicinal product, a homeopathic remedy may be placed on the market in accordance with a registration by the Secretary of State instead of in accordance with a marketing authorisation if it complies with this paragraph.
 
-(2) It must not be an immunological or, subject to sub-paragraph (2A), a biological[^key-7d87e07f6c16484a1714215435ff396e] product.
+(2) It must not be an immunological or, subject to sub-paragraph (2A), a biological[^c-7d87e07f6c16484a1714215435ff396e] product.
 
-(2A)[^key-2899cbfcf7f76f9593a4b3d38b9d881a] Sub-paragraph (2) does not apply in relation to a homeopathic remedy which is derived from plants.
+(2A)[^c-2899cbfcf7f76f9593a4b3d38b9d881a] Sub-paragraph (2) does not apply in relation to a homeopathic remedy which is derived from plants.
 
-(3) The route of administration must be either topical or oral and must be[^key-d5bfe95a3f05ab9a6280e528405aaf60] as described in the European Pharmacopoeia[^key-8e04a17f5fc4abfebefd7787f8e88d15]....
+(3) The route of administration must be either topical or oral and must be[^c-d5bfe95a3f05ab9a6280e528405aaf60] as described in the European Pharmacopoeia[^c-8e04a17f5fc4abfebefd7787f8e88d15]....
 
 (4) There must be a sufficient degree of dilution to guarantee the safety of the product, and in any event it must not contain more than one part in 10,000 of the mother tincture.
 
@@ -1775,21 +1775,21 @@ For the purposes of these Regulations, a homeopathic remedy is a veterinary medi
 
 (1) An applicant for registration must submit the following to the Secretary of State—
 
-- (a) the scientific name or other name of the homeopathic stock or stocks[^key-72ef70eb517227c963be8ae6def6f26b] given in a pharmacopoeia, together with a statement of the various routes of administration, pharmaceutical forms and degree of dilution;
-- (b) a dossier describing how the homeopathic stock is , or stocks are,[^key-6bbdc18ed367e25573e43b68e9953e29] obtained and controlled, and justifying their[^key-5c03daa3170801187a6d046774a71260] homeopathic use[^key-c34b5f26da14f6db9a63aa01461374cf], on the basis of an adequate bibliography;
+- (a) the scientific name or other name of the homeopathic stock or stocks[^c-72ef70eb517227c963be8ae6def6f26b] given in a pharmacopoeia, together with a statement of the various routes of administration, pharmaceutical forms and degree of dilution;
+- (b) a dossier describing how the homeopathic stock is , or stocks are,[^c-6bbdc18ed367e25573e43b68e9953e29] obtained and controlled, and justifying their[^c-5c03daa3170801187a6d046774a71260] homeopathic use[^c-c34b5f26da14f6db9a63aa01461374cf], on the basis of an adequate bibliography;
 - (c) in the case of a product containing biological substances, a description of the measures taken to ensure the absence of pathogens;
 - (d) the manufacturing and control file for each pharmaceutical form and a description of the method of dilution and potentisation;
 - (e) a copy of the manufacturing authorisation for the product;
-- (f) copies of any registrations [^key-7a0427a8238fd9fa2ce9b86cb882a40f]... obtained for the same homeopathic remedy[^key-2dbd75ccc3696d39f10ea63f5227c0cd]...;
-- (g)[^key-71c6dd20617d0c0cf247a9e7f5c6c837] the text which is to appear on the package leaflet, outer packaging and immediate packaging of the homeopathic remedy;
-- (h)[^key-d951b45d7cc8f62411b2fadcd3b1082b] any relevant data concerning the stability of the homeopathic remedy;
+- (f) copies of any registrations [^c-7a0427a8238fd9fa2ce9b86cb882a40f]... obtained for the same homeopathic remedy[^c-2dbd75ccc3696d39f10ea63f5227c0cd]...;
+- (g)[^c-71c6dd20617d0c0cf247a9e7f5c6c837] the text which is to appear on the package leaflet, outer packaging and immediate packaging of the homeopathic remedy;
+- (h)[^c-d951b45d7cc8f62411b2fadcd3b1082b] any relevant data concerning the stability of the homeopathic remedy;
 - (i) the proposed withdrawal period necessary to ensure that the provisions of Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/european/regulation/2009/0470) of the European Parliament and of the Council are complied with together with all necessary justification.
 
 (2) These documents must demonstrate the pharmaceutical quality and the batch-to-batch homogeneity of the products concerned.
 
-(3) In the case of a food-producing animal, if the applicant states in the application that the homeopathic remedy contains an active substance, or has been manufactured using an active substance, that substance must be one for which a maximum residue limit has been established under Regulation[^key-68d091282b2971af5bce864fc4f616de] [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council.
+(3) In the case of a food-producing animal, if the applicant states in the application that the homeopathic remedy contains an active substance, or has been manufactured using an active substance, that substance must be one for which a maximum residue limit has been established under Regulation[^c-68d091282b2971af5bce864fc4f616de] [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council.
 
-(4)[^key-34c5eacd4baf0eda3433948e7ef18fdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-34c5eacd4baf0eda3433948e7ef18fdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 64. Application for registration[^M_E_a31c8618-bd43-4ada-8220-d79c51491649]
 
@@ -1811,7 +1811,7 @@ For the purposes of these Regulations, a homeopathic remedy is a veterinary medi
 
 (3) In the case of a food-producing animal, if the applicant states in the application that the homeopathic remedy contains an active substance, or has been manufactured using an active substance, that substance must be one that appears in Table 1 in the Annex to Commission Regulation (EU) No 37/2010 and complies with any requirements in that Table relating to that substance.
 
-(4) If a product is registered in a[^key-f6bf4814c61e91c43934a24592337af2] member State, the Secretary of State may waive some or all of the requirements of this paragraph on being satisfied that it is reasonable to do so.
+(4) If a product is registered in a[^c-f6bf4814c61e91c43934a24592337af2] member State, the Secretary of State may waive some or all of the requirements of this paragraph on being satisfied that it is reasonable to do so.
 
 #### 65. Procedure for registration
 
@@ -1825,7 +1825,7 @@ For the purposes of these Regulations, a homeopathic remedy is a veterinary medi
 
 *Extent: E+W+S*
 
-(3)[^key-6db78b3a90ea81f957e1b39428a1dacd] The Secretary of State must ensure that the procedure for granting a registration in relation to a homeopathic remedy is completed within a maximum of 210 days after the submission of the application.
+(3)[^c-6db78b3a90ea81f957e1b39428a1dacd] The Secretary of State must ensure that the procedure for granting a registration in relation to a homeopathic remedy is completed within a maximum of 210 days after the submission of the application.
 
 #### 66. Products on the market before 1994
 
@@ -1841,27 +1841,27 @@ The registration must specify the classification of the homeopathic remedy, whic
 
 It is an offence to fail to comply with—
 
-- (za)[^key-d06d32040098b21ee4136631a34db889] paragraph 22A(1);
+- (za)[^c-d06d32040098b21ee4136631a34db889] paragraph 22A(1);
 - (a) a requirement made under paragraph 27(1);
 - (b) a request made under paragraph 27(2);
 - (c) paragraph 28(1) or (2);
 - (d) a requirement made under paragraph 28(3);
-- (da)[^key-ecade20ee1507612bc430d407870ec70] paragraph 28(4);
+- (da)[^c-ecade20ee1507612bc430d407870ec70] paragraph 28(4);
 - (e) paragraph 29(3);
-- (f)[^key-cb688972a34cf6547fce24c04d12abcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-cb688972a34cf6547fce24c04d12abcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) paragraph 31(1) or (2);
 - (h) a request made under paragraph 31(3);
-- (i)[^key-4fe017593d4ec75b101d908abc681029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-4fe017593d4ec75b101d908abc681029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) a prohibition or requirement made under paragraph 41(1);
-- (ja)[^key-1e3c54cdfb0afc6f673f168c549e5580] a restriction or requirement made under paragraph 41A;
+- (ja)[^c-1e3c54cdfb0afc6f673f168c549e5580] a restriction or requirement made under paragraph 41A;
 - (jb) a prohibition made under paragraph 41B;
-- (k)[^key-53308caf150790d65a87cb149aab2f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-53308caf150790d65a87cb149aab2f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) paragraph 56;
-- (la)[^key-6f0b0ba08012f61e48bf823512824408] paragraph 56A;
+- (la)[^c-6f0b0ba08012f61e48bf823512824408] paragraph 56A;
 - (lb) paragraph 56B;
 - (lc) paragraph 56C;
 - (m) paragraph 57;
-- (n)[^key-b8c16b9527427e97d4ba90ab1fb1c07b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-b8c16b9527427e97d4ba90ab1fb1c07b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (o) paragraph 59; or
 - (p) paragraph 60.
 
@@ -1890,25 +1890,25 @@ It is an offence to fail to comply with—
 
 ## Annotations
 
-[^key-6c7e339c5ad8da492da3096e9173e504]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) heading inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/4/7/a)
+[^c-6c7e339c5ad8da492da3096e9173e504]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) heading inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/4/7/a)
 
-[^key-729d6bcf4bd9d8b27da3f15513f95114]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) heading inserted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(a)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/a)
+[^c-729d6bcf4bd9d8b27da3f15513f95114]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) heading inserted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(a)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/a)
 
 [^M_E_7c187149-c887-45ee-eef0-c68bdb4ce54f]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-a6511f529ecd94e83eaa30e5f7c5b396]: Textual amendment: [Sch. 1 paras. 2-2C](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 2](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2024/567/regulation/28)
+[^c-a6511f529ecd94e83eaa30e5f7c5b396]: Textual amendment: [Sch. 1 paras. 2-2C](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 2](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2024/567/regulation/28)
 
 [^M_E_698042bf-cc5b-40e0-aaeb-982f4a73200a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^f00032]: Footnote: OJ No L 211, 28.11.2001, p. 1 as last amended by Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/european/regulation/2009/0470) of the European Parliament and of the Council (OJ No L152, 16.6.2009, p. 11). Annex I was inserted by Commission [Directive 2009/9/EC](https://www.legislation.gov.uk/european/directive/2009/0009) (OJ No L 44, 14.2.2009, p. 10).
 
-[^key-925d65a31645f377fbde987b8d8b6f4c]: Textual amendment: Word in [Sch. 1 para. 2(3)(n)(i)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2/3/n/i) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/b)
+[^c-925d65a31645f377fbde987b8d8b6f4c]: Textual amendment: Word in [Sch. 1 para. 2(3)(n)(i)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2/3/n/i) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/b)
 
-[^key-9078928893079599759f67466a0621c3]: Textual amendment: Word in [Sch. 1 para. 2(3)(n)(i)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2/3/n/i) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/b)
+[^c-9078928893079599759f67466a0621c3]: Textual amendment: Word in [Sch. 1 para. 2(3)(n)(i)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/2/3/n/i) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/b)
 
-[^key-3357df4a1039247b7c494b285cbb01dc]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2024/567/regulation/29)
+[^c-3357df4a1039247b7c494b285cbb01dc]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2024/567/regulation/29)
 
-[^key-70cbbdfa7fbcf1828cf2e640669d7e4f]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/5) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2024/567/regulation/30)
+[^c-70cbbdfa7fbcf1828cf2e640669d7e4f]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/5) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2024/567/regulation/30)
 
 [^M_E_0b5a81c6-757f-4e4f-95b2-15c2ed65b6ed]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
@@ -1916,237 +1916,237 @@ It is an offence to fail to comply with—
 
 [^M_E_1f90c380-5281-4c00-b4ac-6c4f4e37834b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-47b7b3dd59688a9b3cd36bec86e44942]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/7/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/31/a)
+[^c-47b7b3dd59688a9b3cd36bec86e44942]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/7/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/31/a)
 
-[^key-24e95e3cdf5ced2e197a39c39e3ab3f1]: Textual amendment: [Sch. 1 para. 7(1A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/7/1A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/31/b)
+[^c-24e95e3cdf5ced2e197a39c39e3ab3f1]: Textual amendment: [Sch. 1 para. 7(1A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/7/1A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/31/b)
 
 [^M_E_70bc9650-bc13-42eb-f8f4-35a748423679]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-5634b880b8e513d02519eea85b2bcc20]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/8) renumbered as Sch. 1 para. 8(1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [32(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/32/a)
+[^c-5634b880b8e513d02519eea85b2bcc20]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/8) renumbered as Sch. 1 para. 8(1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [32(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/32/a)
 
-[^key-0d8405957e91c2c4c77ff0c5fa1d77bc]: Textual amendment: [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/8/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [32(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/32/b)
+[^c-0d8405957e91c2c4c77ff0c5fa1d77bc]: Textual amendment: [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/8/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [32(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/32/b)
 
 [^M_E_1433b2e6-0227-46fe-f348-5947688100b5]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-fc4051cffe38f1c46280f56ce0993700]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/g)
+[^c-fc4051cffe38f1c46280f56ce0993700]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/g)
 
-[^key-79cde956b466ff43c9742a0d13b45e93]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/a/i)
+[^c-79cde956b466ff43c9742a0d13b45e93]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/a/i)
 
-[^key-88adafc813b2bb19734af091917b692f]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(a)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/a/ii)
+[^c-88adafc813b2bb19734af091917b692f]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(a)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/a/ii)
 
-[^key-7d73a62520d8af32c8a20cc70f37a619]: Textual amendment: Words in Sch. 1 para. 10(1) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(13)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/13/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d73a62520d8af32c8a20cc70f37a619]: Textual amendment: Words in Sch. 1 para. 10(1) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(13)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/13/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ebd8a2788ddcf3e71fb912e5626192a5]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/1) added (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/a/iii)
+[^c-ebd8a2788ddcf3e71fb912e5626192a5]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/1) added (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/a/iii)
 
-[^key-48cce9c3652f721be2b22e71cf64e922]: Textual amendment: Words in [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(b)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/b/i)
+[^c-48cce9c3652f721be2b22e71cf64e922]: Textual amendment: Words in [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(b)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/b/i)
 
-[^key-60421bf75b25528313e121a0be1fbde8]: Textual amendment: Words in [Sch. 1 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2/b) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(b)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/b/ii)
+[^c-60421bf75b25528313e121a0be1fbde8]: Textual amendment: Words in [Sch. 1 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2/b) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(b)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/b/ii)
 
-[^key-a9c8166edd30e19681ceb0705b0d0872]: Textual amendment: [Sch. 1 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2/c) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(b)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/b/iii)
+[^c-a9c8166edd30e19681ceb0705b0d0872]: Textual amendment: [Sch. 1 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2/c) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(b)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/b/iii)
 
-[^key-ae9441b397ccfb56d13ee8338cca4ec9]: Textual amendment: [Sch. 1 para. 10(2A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/c)
+[^c-ae9441b397ccfb56d13ee8338cca4ec9]: Textual amendment: [Sch. 1 para. 10(2A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/2A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/c)
 
-[^key-65c96f5772002b3e6408ba5ca4b4d028]: Textual amendment: Words in Sch. 1 para. 10(5) inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(13)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/13/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65c96f5772002b3e6408ba5ca4b4d028]: Textual amendment: Words in Sch. 1 para. 10(5) inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(13)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/13/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9705dff455581e948c8d78912d700c7c]: Textual amendment: Words in [Sch. 1 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/5) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/d)
+[^c-9705dff455581e948c8d78912d700c7c]: Textual amendment: Words in [Sch. 1 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/5) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/d)
 
-[^key-7aba50c7eaf3d36b87d9668a4834deb1]: Textual amendment: [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/6) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/e)
+[^c-7aba50c7eaf3d36b87d9668a4834deb1]: Textual amendment: [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/6) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/e)
 
-[^key-2d4e65dda5fdbd2435aae074951060de]: Textual amendment: [Sch. 1 para. 10(7)-(11)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/7) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/f)
+[^c-2d4e65dda5fdbd2435aae074951060de]: Textual amendment: [Sch. 1 para. 10(7)-(11)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/7) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [33(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/33/f)
 
 [^M_E_d483d504-1ffe-4f61-c61f-d5c8f58071b5]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-1c5aec99d7c2cbb5bacd1a0d54e0443e]: Textual amendment: Word in [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/6) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(c)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/c/i)
+[^c-1c5aec99d7c2cbb5bacd1a0d54e0443e]: Textual amendment: Word in [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/6) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(c)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/c/i)
 
-[^key-2a79942ff96f3990b66980204efedfb2]: Textual amendment: Words in [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/6) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/c/ii)
+[^c-2a79942ff96f3990b66980204efedfb2]: Textual amendment: Words in [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10/6) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/c/ii)
 
-[^key-06fd0ce398a069551c589461d6274fd1]: Textual amendment: [Sch. 1 para. 10A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2024/567/regulation/34)
+[^c-06fd0ce398a069551c589461d6274fd1]: Textual amendment: [Sch. 1 para. 10A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/10A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2024/567/regulation/34)
 
-[^key-b27b746b0ece5f7c7637071f05c26e62]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [35(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/35/c)
+[^c-b27b746b0ece5f7c7637071f05c26e62]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [35(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/35/c)
 
-[^key-3d84fdf835c25380659dcce08fa8abca]: Textual amendment: Words in [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/35/a)
+[^c-3d84fdf835c25380659dcce08fa8abca]: Textual amendment: Words in [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/35/a)
 
-[^key-e45163bfaeeff0e08a9c0c93ee8a39c8]: Textual amendment: [Sch. 1 para. 11(3)-(3D)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11/3) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 11(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11/3) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/35/b)
+[^c-e45163bfaeeff0e08a9c0c93ee8a39c8]: Textual amendment: [Sch. 1 para. 11(3)-(3D)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11/3) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 11(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/11/3) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/35/b)
 
-[^key-2a5c4558f6d10cb0dd33cdd0f4be1303]: Textual amendment: [Sch. 1 para. 12(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/a)
+[^c-2a5c4558f6d10cb0dd33cdd0f4be1303]: Textual amendment: [Sch. 1 para. 12(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/a)
 
-[^key-025e45744118f913b5d3dc4414cc2444]: Textual amendment: [Sch. 1 para. 12(2)-(2B)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/2) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 12(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/2) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/b)
+[^c-025e45744118f913b5d3dc4414cc2444]: Textual amendment: [Sch. 1 para. 12(2)-(2B)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/2) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 12(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/2) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/b)
 
-[^key-d526ad532f2de9fb97f2911e93eb0351]: Textual amendment: Word in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/c)
+[^c-d526ad532f2de9fb97f2911e93eb0351]: Textual amendment: Word in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/c)
 
-[^key-32d94185645bbf1dd46207dd863ab0a1]: Textual amendment: [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/4) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/d)
+[^c-32d94185645bbf1dd46207dd863ab0a1]: Textual amendment: [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12/4) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [36(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/36/d)
 
-[^key-d5c627cd5db8925828c3eaae24657f4e]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [37](https://www.legislation.gov.uk/uksi/2024/567/regulation/37)
+[^c-d5c627cd5db8925828c3eaae24657f4e]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/12A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [37](https://www.legislation.gov.uk/uksi/2024/567/regulation/37)
 
-[^key-bcc2696ce10b5ce2d312a1fa12f2cb67]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2024/567/regulation/38)
+[^c-bcc2696ce10b5ce2d312a1fa12f2cb67]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2024/567/regulation/38)
 
 [^M_E_161eeb5f-2b86-4492-b165-ee3c98257c86]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_a54ff596-855b-4578-b642-a34d09287344]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-6bc0696ec0dad2c265baab4531eb75d8]: Textual amendment: Word in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/i)
+[^c-6bc0696ec0dad2c265baab4531eb75d8]: Textual amendment: Word in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/i)
 
-[^key-7f3016753999733be8914f56bf6a9507]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
+[^c-7f3016753999733be8914f56bf6a9507]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
 
-[^key-72639c9ad04a76cae473157f78705519]: Textual amendment: Words in [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/2) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
+[^c-72639c9ad04a76cae473157f78705519]: Textual amendment: Words in [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/2) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
 
-[^key-9eeb2afdcaeb654d3b1c59a3927ab1c5]: Textual amendment: Words in [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
+[^c-9eeb2afdcaeb654d3b1c59a3927ab1c5]: Textual amendment: Words in [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
 
-[^key-bdfaa77e85decff5bbf314bb0dbb9ddf]: Textual amendment: Words in [Sch. 1 para. 13(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/6) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
+[^c-bdfaa77e85decff5bbf314bb0dbb9ddf]: Textual amendment: Words in [Sch. 1 para. 13(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/6) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
 
-[^key-396c1f4aec2a55b98e485aea6d9ca595]: Textual amendment: Words in [Sch. 1 para. 13(7)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/7) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
+[^c-396c1f4aec2a55b98e485aea6d9ca595]: Textual amendment: Words in [Sch. 1 para. 13(7)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/13/7) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/d/ii)
 
 [^M_E_3536eebb-84ac-4474-8982-d067506f3f18]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-da5bd1ffba07d9fbfbd649386d3de1dd]: Textual amendment: Sch. 1 para. 14(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(16)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/16) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da5bd1ffba07d9fbfbd649386d3de1dd]: Textual amendment: Sch. 1 para. 14(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(16)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/16) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a0c493481b1b46282548ab683a14054]: Textual amendment: [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/14/4) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2024/567/regulation/39)
+[^c-0a0c493481b1b46282548ab683a14054]: Textual amendment: [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/14/4) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2024/567/regulation/39)
 
 [^M_E_c574b8ba-4404-4f9d-e2c7-0f4e1a7b052d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-f9b479daf099ec6701930938daa455cd]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/15) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2024/567/regulation/40)
+[^c-f9b479daf099ec6701930938daa455cd]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/15) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2024/567/regulation/40)
 
 [^M_E_04db0fbd-053f-4218-84b1-fb6bcab4700a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-ecdbc271876d6b400d73693667ea1053]: Textual amendment: Words in Sch. 1 para. 16 substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(17)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/17) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ecdbc271876d6b400d73693667ea1053]: Textual amendment: Words in Sch. 1 para. 16 substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(17)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/17) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_a4a0d68a-7d18-4733-fb97-50af8f457aba]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-0c644780a70b04179877385671d9e740]: Textual amendment: Word in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/16) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(e)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/e)
+[^c-0c644780a70b04179877385671d9e740]: Textual amendment: Word in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/16) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(e)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/e)
 
-[^key-a415c45967e1dc55d17494a6d3b8ad73]: Textual amendment: Sch. 1 para. 17 renumbered as Sch. 1 para. 17(1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [41(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/41/a)
+[^c-a415c45967e1dc55d17494a6d3b8ad73]: Textual amendment: Sch. 1 para. 17 renumbered as Sch. 1 para. 17(1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [41(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/41/a)
 
-[^key-299a214d1a3b2cee3827fcf6d4cf07e1]: Textual amendment: [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/17/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/41/b)
+[^c-299a214d1a3b2cee3827fcf6d4cf07e1]: Textual amendment: [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/17/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/41/b)
 
 [^M_E_189211be-c03d-414a-8e72-96da1acbe1ae]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-31fbb4f191d4a9b034fdcf0e028872cd]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/18) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2024/567/regulation/42)
+[^c-31fbb4f191d4a9b034fdcf0e028872cd]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/18) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2024/567/regulation/42)
 
 [^M_E_6e8092a7-85d6-4069-da4a-7a0dfd1914f5]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-9b9ab46b1891fcd1e1600dcaa75fa221]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/18) inserted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/i)
+[^c-9b9ab46b1891fcd1e1600dcaa75fa221]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/18) inserted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/i)
 
-[^key-7850106bf47e39678decf7a7dffdf700]: Textual amendment: Sch. 1 para. 20 omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(19)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/19) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7850106bf47e39678decf7a7dffdf700]: Textual amendment: Sch. 1 para. 20 omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(19)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/19) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_2a28a0f4-846d-4d9d-8d3d-0203bc679dac]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_7cfa3d87-cc85-494f-926f-925165c454ac]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-dad01ce7631d5c235439613beeabd03b]: Textual amendment: Word in [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/20) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/ii)
+[^c-dad01ce7631d5c235439613beeabd03b]: Textual amendment: Word in [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/20) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/ii)
 
-[^key-aae480b5a9308280d6cbd2be476a2678]: Textual amendment: [Sch. 1 para. 22(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [43(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/43/b)
+[^c-aae480b5a9308280d6cbd2be476a2678]: Textual amendment: [Sch. 1 para. 22(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [43(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/43/b)
 
-[^key-ac6f89104a5e93fcd0075b0caf65154e]: Textual amendment: Sch. 1 para. 22 renumbered as Sch. 1 para. 22(2) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [43(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/43/a)
+[^c-ac6f89104a5e93fcd0075b0caf65154e]: Textual amendment: Sch. 1 para. 22 renumbered as Sch. 1 para. 22(2) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [43(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/43/a)
 
-[^key-6c42494beb8d30434afb1dbb52e33bbe]: Textual amendment: [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22/3)[(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22/4) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [43(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/43/c)
+[^c-6c42494beb8d30434afb1dbb52e33bbe]: Textual amendment: [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22/3)[(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22/4) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [43(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/43/c)
 
-[^key-d3923f999b25bf21bbad671a944245b0]: Textual amendment: [Sch. 1 para. 22A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [44](https://www.legislation.gov.uk/uksi/2024/567/regulation/44)
+[^c-d3923f999b25bf21bbad671a944245b0]: Textual amendment: [Sch. 1 para. 22A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/22A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [44](https://www.legislation.gov.uk/uksi/2024/567/regulation/44)
 
 [^M_E_afecb719-ced2-4ebb-bf41-ee6e17a6fd18]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-af9776309854632d13ff8a6e7a65c255]: Textual amendment: Words in Sch. 1 para. 23(1) inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(20)(a)(i)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/20/a/i) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af9776309854632d13ff8a6e7a65c255]: Textual amendment: Words in Sch. 1 para. 23(1) inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(20)(a)(i)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/20/a/i) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3c211006925e80cc8ef40fa9d07b9c9]: Textual amendment: Words in Sch. 1 para. 23(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/20/a/ii) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3c211006925e80cc8ef40fa9d07b9c9]: Textual amendment: Words in Sch. 1 para. 23(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/20/a/ii) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d44c2cc19cd83cdae8ba50cdc5fe119d]: Textual amendment: Words in Sch. 1 para. 23(2) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(20)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/20/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d44c2cc19cd83cdae8ba50cdc5fe119d]: Textual amendment: Words in Sch. 1 para. 23(2) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(20)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/20/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_2b8e6b97-d274-4c80-e1bf-a3911e5b7c17]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_ad7f2c27-56c0-4b1c-92a0-f51e8008c3b0]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-736b56b91a13fcb67c0dc91da92190f6]: Textual amendment: Words in [Sch. 1 para. 24(2)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/24/2/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [45(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/45/a)
+[^c-736b56b91a13fcb67c0dc91da92190f6]: Textual amendment: Words in [Sch. 1 para. 24(2)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/24/2/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [45(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/45/a)
 
-[^key-1dfd0554388710ee86cf92852549de80]: Textual amendment: [Sch. 1 para. 24(2)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/24/2/c) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [45(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/45/b)
+[^c-1dfd0554388710ee86cf92852549de80]: Textual amendment: [Sch. 1 para. 24(2)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/24/2/c) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [45(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/45/b)
 
-[^key-6b797c2b3cf227559f846eb4a4120b84]: Textual amendment: Words in Sch. 1 para. 24(2)(d) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(21)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/21/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b797c2b3cf227559f846eb4a4120b84]: Textual amendment: Words in Sch. 1 para. 24(2)(d) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(21)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/21/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8cc3ef44e6f9554528a787f97e9f5d78]: Textual amendment: [Sch. 1 para. 24(2)(g)-(k)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/24/2/g) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [45(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/45/c)
+[^c-8cc3ef44e6f9554528a787f97e9f5d78]: Textual amendment: [Sch. 1 para. 24(2)(g)-(k)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/24/2/g) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [45(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/45/c)
 
-[^key-f4388fffcacf9328d1204f51fe89c36b]: Textual amendment: Word in Sch. 1 para. 24(3)(a) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(21)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/21/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4388fffcacf9328d1204f51fe89c36b]: Textual amendment: Word in Sch. 1 para. 24(3)(a) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(21)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/21/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_7931b468-e1b6-40ba-a478-905188099cc2]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-9a530a212d6ef8423432d09270fc77dc]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/25) heading inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [46(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/46/b)
+[^c-9a530a212d6ef8423432d09270fc77dc]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/25) heading inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [46(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/46/b)
 
-[^key-09ffb4bcb19bfb85a2a877953a3b1125]: Textual amendment: [Sch. 1 para. 25(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/25/4)[(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/25/5) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [46(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/46/a)
+[^c-09ffb4bcb19bfb85a2a877953a3b1125]: Textual amendment: [Sch. 1 para. 25(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/25/4)[(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/25/5) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [46(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/46/a)
 
-[^key-ef97e78c3db114f8dcbd8c4b65abbbc0]: Textual amendment: Words in [Sch. 1 para. 26(1)(a)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/26/1/a) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [47(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/47/a)
+[^c-ef97e78c3db114f8dcbd8c4b65abbbc0]: Textual amendment: Words in [Sch. 1 para. 26(1)(a)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/26/1/a) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [47(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/47/a)
 
-[^key-1a526899ebeea5a83980685a1b7888eb]: Textual amendment: Words in [Sch. 1 para. 26(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/26/1/b) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/47/b)
+[^c-1a526899ebeea5a83980685a1b7888eb]: Textual amendment: Words in [Sch. 1 para. 26(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/26/1/b) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/47/b)
 
-[^key-9029e91fb80598e89a196845dcd7ef81]: Textual amendment: [Sch. 1 para. 26(1A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/26/1A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [47(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/47/c)
+[^c-9029e91fb80598e89a196845dcd7ef81]: Textual amendment: [Sch. 1 para. 26(1A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/26/1A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [47(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/47/c)
 
-[^key-9b7ba9ee10e4fdf897522c0d4f399af8]: Textual amendment: Words in [Sch. 1 para. 27(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/27/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [48(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/48/a)
+[^c-9b7ba9ee10e4fdf897522c0d4f399af8]: Textual amendment: Words in [Sch. 1 para. 27(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/27/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [48(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/48/a)
 
-[^key-5ceca18f89d0b519d5ead98b0223fb75]: Textual amendment: [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/27/3)[(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/27/4) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [48(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/48/b)
+[^c-5ceca18f89d0b519d5ead98b0223fb75]: Textual amendment: [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/27/3)[(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/27/4) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [48(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/48/b)
 
-[^key-d2be29488d94cf3f0a6a46b1a58f43b5]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/28) heading inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [49(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/49/c)
+[^c-d2be29488d94cf3f0a6a46b1a58f43b5]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/28) heading inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [49(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/49/c)
 
-[^key-24268e5d59e84c551f28d06c37d13009]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/28) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/49/a)
+[^c-24268e5d59e84c551f28d06c37d13009]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/28) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/49/a)
 
-[^key-164bc08f35b005015635e0d2bc3898f2]: Textual amendment: [Sch. 1 para. 28(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/28/4) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [49(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/49/b)
+[^c-164bc08f35b005015635e0d2bc3898f2]: Textual amendment: [Sch. 1 para. 28(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/28/4) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [49(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/49/b)
 
 [^M_E_ae4253a7-2816-4f12-ae38-ccf897ed1d46]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-a52fc3798ae1fe8800de5749965c2183]: Textual amendment: Sch. 1 para. 29(1) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(22)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/22/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a52fc3798ae1fe8800de5749965c2183]: Textual amendment: Sch. 1 para. 29(1) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(22)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/22/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c514cd3cacf258a248bafad257beaac]: Textual amendment: Word in Sch. 1 para. 29(2) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(22)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/22/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c514cd3cacf258a248bafad257beaac]: Textual amendment: Word in Sch. 1 para. 29(2) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(22)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/22/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e53d3154f615a5b744069c86aa6efac]: Textual amendment: Words in Sch. 1 para. 29(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(22)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/22/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e53d3154f615a5b744069c86aa6efac]: Textual amendment: Words in Sch. 1 para. 29(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(22)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/22/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_c0824d4b-b429-4be4-94ad-bddb0710ebdf]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-0f36a3bfcc47bf373c0f8bb5ecad5436]: Textual amendment: Word in [Sch. 1 para. 29(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/29/1/b) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iii)
+[^c-0f36a3bfcc47bf373c0f8bb5ecad5436]: Textual amendment: Word in [Sch. 1 para. 29(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/29/1/b) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iii)
 
-[^key-88acfdddecc11904b6308538539ded94]: Textual amendment: Word in [Sch. 1 para. 29(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/29/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iii)
+[^c-88acfdddecc11904b6308538539ded94]: Textual amendment: Word in [Sch. 1 para. 29(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/29/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iii)
 
-[^key-cdb156175711a5e4f0fa109ac8a0a2e5]: Textual amendment: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/30) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2024/567/regulation/50)
+[^c-cdb156175711a5e4f0fa109ac8a0a2e5]: Textual amendment: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/30) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2024/567/regulation/50)
 
 [^M_E_aa0412f6-5cd9-4884-b0fc-3aa04ccafa3b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-362cd9955175becfcaf2229323be8cce]: Textual amendment: [Sch. 1 para. 31(2A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/2A)[(2B)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/2B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [51](https://www.legislation.gov.uk/uksi/2024/567/regulation/51)
+[^c-362cd9955175becfcaf2229323be8cce]: Textual amendment: [Sch. 1 para. 31(2A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/2A)[(2B)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/2B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [51](https://www.legislation.gov.uk/uksi/2024/567/regulation/51)
 
 [^M_E_b020316d-fd04-49ba-ae90-cca19aa2a339]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-b57c1deecc6f50795cc1c9885aa78803]: Textual amendment: Words in [Sch. 1 para. 31(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iv)
+[^c-b57c1deecc6f50795cc1c9885aa78803]: Textual amendment: Words in [Sch. 1 para. 31(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iv)
 
-[^key-a54820922d3f6a7de4676eed722f3ad1]: Textual amendment: Words in [Sch. 1 para. 31(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/2) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iv)
+[^c-a54820922d3f6a7de4676eed722f3ad1]: Textual amendment: Words in [Sch. 1 para. 31(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/31/2) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/iv)
 
 [^M_E_ce8ee9f5-81a2-4500-86ef-59865ea84b2d]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-a89156237a741298ba1782241fbf37a8]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/32) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2024/567/regulation/52)
+[^c-a89156237a741298ba1782241fbf37a8]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/32) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2024/567/regulation/52)
 
 [^M_E_06d8f369-548e-4a03-bfa1-e94721deaafb]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-cc39ba4cd5a372ebbfbfac19112ffd21]: Textual amendment: Words in [Sch. 1 para. 32(8)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/32/8) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(v)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/v)
+[^c-cc39ba4cd5a372ebbfbfac19112ffd21]: Textual amendment: Words in [Sch. 1 para. 32(8)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/32/8) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(v)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/v)
 
-[^key-16e4604b132ca76a6023fd1d360dfaaf]: Textual amendment: Words in [Sch. 1 para. 32(9)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/32/9) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(v)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/v)
+[^c-16e4604b132ca76a6023fd1d360dfaaf]: Textual amendment: Words in [Sch. 1 para. 32(9)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/32/9) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(f)(v)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/f/v)
 
-[^key-c860e0ab42cf26ea08fb5995163b250e]: Textual amendment: [Sch. 1 para. 33(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/33/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [53(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/53/a)
+[^c-c860e0ab42cf26ea08fb5995163b250e]: Textual amendment: [Sch. 1 para. 33(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/33/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [53(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/53/a)
 
-[^key-db26ae0f486649e257872dea3778a457]: Textual amendment: [Sch. 1 para. 33(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/33/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [53(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/53/b)
+[^c-db26ae0f486649e257872dea3778a457]: Textual amendment: [Sch. 1 para. 33(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/33/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [53(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/53/b)
 
 [^M_E_2e38b097-8440-4225-8ef9-043578855f07]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^f00033]: Footnote: OJ No L334, 12.12.2008, p. 7.
 
-[^key-cb400558941d567ef9317967096770fb]: Textual amendment: [Sch. 1 para. 33A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/33A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2024/567/regulation/54)
+[^c-cb400558941d567ef9317967096770fb]: Textual amendment: [Sch. 1 para. 33A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/33A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2024/567/regulation/54)
 
-[^key-efc8bfd7e29a3181a704e46c0ac957cd]: Textual amendment: [Sch. 1 para. 34(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/34/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [55(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/55/a)
+[^c-efc8bfd7e29a3181a704e46c0ac957cd]: Textual amendment: [Sch. 1 para. 34(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/34/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [55(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/55/a)
 
-[^key-49e1b037388a9c85449e24c0919e596f]: Textual amendment: [Sch. 1 para. 34(3)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/34/3/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [55(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/55/b)
+[^c-49e1b037388a9c85449e24c0919e596f]: Textual amendment: [Sch. 1 para. 34(3)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/34/3/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [55(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/55/b)
 
 [^M_E_5e802710-1116-42a8-ed1b-3f5d7fba961f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-dae851f80391711f5f8c87e36b2d6b7f]: Textual amendment: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/35) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [56](https://www.legislation.gov.uk/uksi/2024/567/regulation/56)
+[^c-dae851f80391711f5f8c87e36b2d6b7f]: Textual amendment: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/35) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [56](https://www.legislation.gov.uk/uksi/2024/567/regulation/56)
 
 [^M_E_8a6f619b-19c9-431e-948d-2db2a5b0de36]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-4e6f104ddf3998662975784a5cc7ae6f]: Textual amendment: Words in [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/38) heading inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [57(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/57/c)
+[^c-4e6f104ddf3998662975784a5cc7ae6f]: Textual amendment: Words in [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/38) heading inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [57(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/57/c)
 
-[^key-b5400f342f10edb0daeab46a674c9aad]: Textual amendment: [Sch. 1 para. 38(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/38/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [57(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/57/a)
+[^c-b5400f342f10edb0daeab46a674c9aad]: Textual amendment: [Sch. 1 para. 38(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/38/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [57(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/57/a)
 
-[^key-b6bb5f8c85f75a08bc0519b250a774fa]: Textual amendment: [Sch. 1 para. 38(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/38/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [57(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/57/b)
+[^c-b6bb5f8c85f75a08bc0519b250a774fa]: Textual amendment: [Sch. 1 para. 38(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/38/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [57(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/57/b)
 
 [^M_E_30e76ddd-bc7e-42fa-ba9f-0e01e68cba82]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -2154,268 +2154,268 @@ It is an offence to fail to comply with—
 
 [^M_F_263eafae-f410-4fec-dd02-789a91ccb713]: Textual amendment: Sch. 1 para. 39(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(23)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/23) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e27e40a715d846d4a50fe8ca91fbef69]: Textual amendment: [Sch. 1 para. 39(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/39/4) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2024/567/regulation/58)
+[^c-e27e40a715d846d4a50fe8ca91fbef69]: Textual amendment: [Sch. 1 para. 39(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/39/4) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2024/567/regulation/58)
 
 [^M_E_45927a26-f5a6-43a0-9737-7bd188fecde1]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-40e9a93d29cdf756ff56c204f4ed42ef]: Textual amendment: Words in [Sch. 1 para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/39/3/b) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(g)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/g/i)
+[^c-40e9a93d29cdf756ff56c204f4ed42ef]: Textual amendment: Words in [Sch. 1 para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/39/3/b) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(g)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/g/i)
 
-[^key-35bf62f77f9d137ce83169682e43e637]: Textual amendment: Word in [Sch. 1 para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/39/3/b) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(g)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/g/i)
+[^c-35bf62f77f9d137ce83169682e43e637]: Textual amendment: Word in [Sch. 1 para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/39/3/b) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(g)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/g/i)
 
 [^M_E_c9ec71c6-b1b7-4ac7-9b16-866140e97e5b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7b25e3c28c11ba4e9e3ad4872c9f00a8]: Textual amendment: [Sch. 1 para. 41(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2024/567/regulation/59)
+[^c-7b25e3c28c11ba4e9e3ad4872c9f00a8]: Textual amendment: [Sch. 1 para. 41(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2024/567/regulation/59)
 
-[^key-422873602b46e487777676c0ada1bb00]: Textual amendment: Sch. 1 para. 41(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(24)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/24) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-422873602b46e487777676c0ada1bb00]: Textual amendment: Sch. 1 para. 41(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(24)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/24) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_8006994b-2910-4c0b-c8bb-17b6c608aa9b]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-be8758bb62601399539291d1180faa16]: Textual amendment: Word in [Sch. 1 para. 41(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(g)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/g/ii)
+[^c-be8758bb62601399539291d1180faa16]: Textual amendment: Word in [Sch. 1 para. 41(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(g)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/g/ii)
 
-[^key-519ca40e5528418995b377a5bed7456b]: Textual amendment: [Sch. 1 paras. 41A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41A), [41B](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [60](https://www.legislation.gov.uk/uksi/2024/567/regulation/60)
+[^c-519ca40e5528418995b377a5bed7456b]: Textual amendment: [Sch. 1 paras. 41A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41A), [41B](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/41B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [60](https://www.legislation.gov.uk/uksi/2024/567/regulation/60)
 
-[^key-f2786d2ce809d5bc3f0191545868d73c]: Textual amendment: Sch. 1 Pt. 6 omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(25)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/25) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2786d2ce809d5bc3f0191545868d73c]: Textual amendment: Sch. 1 Pt. 6 omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(25)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/25) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b06484a87a74294b7528628b052996af]: Textual amendment: Word in [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/42) heading substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/i/aa)
+[^c-b06484a87a74294b7528628b052996af]: Textual amendment: Word in [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/42) heading substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/i/aa)
 
-[^key-877c4a98648235491acbb86c5902bb05]: Textual amendment: Word in [Sch. 1 para. 42(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/42/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/i/aa)
+[^c-877c4a98648235491acbb86c5902bb05]: Textual amendment: Word in [Sch. 1 para. 42(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/42/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/i/aa)
 
-[^key-6ed2fe5561059eb33e0a6ed1f84e7ed0]: Textual amendment: Words in [Sch. 1 para. 42(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/42/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(i)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/i/bb)
+[^c-6ed2fe5561059eb33e0a6ed1f84e7ed0]: Textual amendment: Words in [Sch. 1 para. 42(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/42/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(i)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/i/bb)
 
-[^key-d72988056da218f6899068497f69d4ea]: Textual amendment: Word in [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/43) heading substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(ii)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/ii/aa)
+[^c-d72988056da218f6899068497f69d4ea]: Textual amendment: Word in [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/43) heading substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(ii)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/ii/aa)
 
-[^key-0a4e9f4ed2ede1ce11180ade8c70bc8a]: Textual amendment: Word in [Sch. 1 para. 43(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/43/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(ii)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/ii/bb)
+[^c-0a4e9f4ed2ede1ce11180ade8c70bc8a]: Textual amendment: Word in [Sch. 1 para. 43(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/43/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(h)(ii)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/h/ii/bb)
 
 [^M_E_07b74bf7-98d0-4a80-80d2-1d0631ce2f57]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_e57907be-8689-434b-8b52-29c6ead1b3e1]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-9d6b87d844e6ff6ae688470a342d97d2]: Textual amendment: Word in Sch. 1 para. 46 substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(i)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/i/i)
+[^c-9d6b87d844e6ff6ae688470a342d97d2]: Textual amendment: Word in Sch. 1 para. 46 substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(i)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/i/i)
 
-[^key-310a2fbe0f2165b94b16ed253fae40ba]: Textual amendment: Words in [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/46) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/i)[(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/ii)
+[^c-310a2fbe0f2165b94b16ed253fae40ba]: Textual amendment: Words in [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/46) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/i)[(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/ii)
 
 [^M_E_7a129140-1367-4f0e-ee70-9aa06728496f]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7e18f0e5f71da661bff532de4b32d4f2]: Textual amendment: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/48) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [61](https://www.legislation.gov.uk/uksi/2024/567/regulation/61) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-7e18f0e5f71da661bff532de4b32d4f2]: Textual amendment: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/48) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [61](https://www.legislation.gov.uk/uksi/2024/567/regulation/61) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
 [^M_E_8b5f605c-4627-4c31-970f-4ef0ef15c0ae]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_456523c6-afe4-45a1-e7e6-005c146c138a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-85e6ddf39c0e0120f6149444e014a59e]: Textual amendment: [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/49) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2024/567/regulation/62) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-85e6ddf39c0e0120f6149444e014a59e]: Textual amendment: [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/49) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2024/567/regulation/62) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
 [^M_E_8704879a-a818-4159-c792-9be7defa6b40]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_c083b0cc-2957-4c93-af09-82ac16ef9a14]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1597a9e13ceb28f08519118b4fdd2df9]: Textual amendment: [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/50) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2024/567/regulation/63) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-1597a9e13ceb28f08519118b4fdd2df9]: Textual amendment: [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/50) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2024/567/regulation/63) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
 [^M_E_e6832935-d4e1-4043-bbe6-b91cc28e783a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_b0cc9e1e-a5b6-41dc-e8f7-d324b4d771dc]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-882b588e11e71be9efebc0893f2e2093]: Textual amendment: [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/51) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2024/567/regulation/64) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-882b588e11e71be9efebc0893f2e2093]: Textual amendment: [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/51) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2024/567/regulation/64) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
 [^M_E_a0171b62-c5fe-4883-e61c-a499d6036022]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-df8c8bcaa8b84a9190acd4b9328e870e]: Textual amendment: [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/52) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2024/567/regulation/65) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-df8c8bcaa8b84a9190acd4b9328e870e]: Textual amendment: [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/52) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2024/567/regulation/65) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
 [^M_E_3ce99fed-0f41-48bc-ef27-8d53572cfa35]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e899d0acd4f24bf9f56adbae1fdce888]: Textual amendment: [Sch. 1 para. 53(3)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3/c) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/a) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-e899d0acd4f24bf9f56adbae1fdce888]: Textual amendment: [Sch. 1 para. 53(3)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3/c) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/a) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
-[^key-46f2bf5a935013fafc14d84aa2e6775f]: Textual amendment: Word in [Sch. 1 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/b) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-46f2bf5a935013fafc14d84aa2e6775f]: Textual amendment: Word in [Sch. 1 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/b) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
-[^key-944364ccf892d4659d335eca9cbbe8cc]: Textual amendment: Word in [Sch. 1 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/c) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-944364ccf892d4659d335eca9cbbe8cc]: Textual amendment: Word in [Sch. 1 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/c) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
-[^key-9b38d3898e78b89cd587bee5775ddfed]: Textual amendment: [Sch. 1 para. 53(3)(m)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3/m) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/d) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
+[^c-9b38d3898e78b89cd587bee5775ddfed]: Textual amendment: [Sch. 1 para. 53(3)(m)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/53/3/m) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [66(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/66/d) (with [reg. 200](https://www.legislation.gov.uk/uksi/2024/567/regulation/200))
 
 [^M_E_22e06d4a-4f11-4381-d1b8-1bc1f7016399]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-ecf986b01e3a5bc8ce915eba98087dde]: Textual amendment: [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/55) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [67](https://www.legislation.gov.uk/uksi/2024/567/regulation/67)
+[^c-ecf986b01e3a5bc8ce915eba98087dde]: Textual amendment: [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/55) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [67](https://www.legislation.gov.uk/uksi/2024/567/regulation/67)
 
 [^M_E_3a32fc5f-5347-41ab-844e-57eea2d17bc5]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_5723e279-e0f2-4043-b4e4-a6a089796ed1]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-cb03849c805ea322e452cd8e38f6d16e]: Textual amendment: Words in [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/55) inserted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/i)
+[^c-cb03849c805ea322e452cd8e38f6d16e]: Textual amendment: Words in [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/55) inserted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/i)
 
 [^M_E_f4dae998-bf88-4d05-bb8a-81b1eb99dfe6]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-cbc5cb8480ad0891b4a2bd219110b7b3]: Textual amendment: [Sch. 1 paras. 56-56C](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/56) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 56](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/56) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [68](https://www.legislation.gov.uk/uksi/2024/567/regulation/68)
+[^c-cbc5cb8480ad0891b4a2bd219110b7b3]: Textual amendment: [Sch. 1 paras. 56-56C](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/56) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1) [para. 56](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/56) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [68](https://www.legislation.gov.uk/uksi/2024/567/regulation/68)
 
 [^M_E_5c56b298-eb64-47ba-ebc0-cdc68585cbc1]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_c7a4c634-fe2b-478d-9f95-c5afc29ece99]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-ff91c96897299e5a42b2992c032f144a]: Textual amendment: [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/g)
+[^c-ff91c96897299e5a42b2992c032f144a]: Textual amendment: [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/g)
 
-[^key-d5456e176a0665a6baa4beb051a2f2dd]: Textual amendment: Words in [Sch. 1 para. 57(1)(a)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/a) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/i)
+[^c-d5456e176a0665a6baa4beb051a2f2dd]: Textual amendment: Words in [Sch. 1 para. 57(1)(a)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/a) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/i)
 
-[^key-65dcee68668705b444cf9cfca645de18]: Textual amendment: Words in [Sch. 1 para. 57(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/ii/aa)
+[^c-65dcee68668705b444cf9cfca645de18]: Textual amendment: Words in [Sch. 1 para. 57(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/ii/aa)
 
-[^key-b021f8cf0ec1b931663f944c8212caad]: Textual amendment: Word in [Sch. 1 para. 57(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/b) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/ii/bb)
+[^c-b021f8cf0ec1b931663f944c8212caad]: Textual amendment: Word in [Sch. 1 para. 57(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/b) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/ii/bb)
 
-[^key-da897908311812e4370c56dcd990f419]: Textual amendment: [Sch. 1 para. 57(1)(d)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/d)[(e)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/e) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/iii)
+[^c-da897908311812e4370c56dcd990f419]: Textual amendment: [Sch. 1 para. 57(1)(d)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/d)[(e)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1/e) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/iii)
 
-[^key-f67447764dcffd1424ae105e7d4b926d]: Textual amendment: Words in [Sch. 1 para. 57(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(iv)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/iv)
+[^c-f67447764dcffd1424ae105e7d4b926d]: Textual amendment: Words in [Sch. 1 para. 57(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(a)(iv)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/a/iv)
 
-[^key-99265e8bdbb9ef0d0432eacfbb7197d4]: Textual amendment: [Sch. 1 para. 57(1A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/b)
+[^c-99265e8bdbb9ef0d0432eacfbb7197d4]: Textual amendment: [Sch. 1 para. 57(1A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/b)
 
-[^key-d60ec0f7b6d6e83bbfc7a827d79a43af]: Textual amendment: Word in [Sch. 1 para. 57(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/c)
+[^c-d60ec0f7b6d6e83bbfc7a827d79a43af]: Textual amendment: Word in [Sch. 1 para. 57(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/c)
 
-[^key-9f3512ff440d4a1ecc4563d5408d986b]: Textual amendment: Word in [Sch. 1 para. 57(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/4) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/d)
+[^c-9f3512ff440d4a1ecc4563d5408d986b]: Textual amendment: Word in [Sch. 1 para. 57(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/4) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/d)
 
-[^key-dd43e015436912bb87586f3017636727]: Textual amendment: [Sch. 1 para. 57(4A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/4A)[(4B)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/4B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/e)
+[^c-dd43e015436912bb87586f3017636727]: Textual amendment: [Sch. 1 para. 57(4A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/4A)[(4B)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/4B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/e)
 
-[^key-42db3175e4efad566a520541c5863fdf]: Textual amendment: [Sch. 1 para. 57(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/5) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/f)
+[^c-42db3175e4efad566a520541c5863fdf]: Textual amendment: [Sch. 1 para. 57(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/5) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [69(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/69/f)
 
 [^M_E_f2a9b8a1-ca02-4d62-81e7-e0ef794cd992]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-277a1ccf1d51a65eac18ea944268fe26]: Textual amendment: Words in [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57) heading substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/ii)
+[^c-277a1ccf1d51a65eac18ea944268fe26]: Textual amendment: Words in [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57) heading substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/ii)
 
-[^key-d8edb5127a8d7563f374049aefc30b16]: Textual amendment: Words in [Sch. 1 para. 57(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/ii)
+[^c-d8edb5127a8d7563f374049aefc30b16]: Textual amendment: Words in [Sch. 1 para. 57(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/57/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/ii)
 
-[^key-bcea636f874db0a53bab098f511167a1]: Textual amendment: [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/58) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [70](https://www.legislation.gov.uk/uksi/2024/567/regulation/70)
+[^c-bcea636f874db0a53bab098f511167a1]: Textual amendment: [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/58) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [70](https://www.legislation.gov.uk/uksi/2024/567/regulation/70)
 
 [^M_E_13287d48-7935-40a6-e629-b84c6a40a750]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-4d244a91516ca71fd4c42521e0065bcc]: Textual amendment: Word in Sch. 1 para. 58 heading substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(28)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/28/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d244a91516ca71fd4c42521e0065bcc]: Textual amendment: Word in Sch. 1 para. 58 heading substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(28)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/28/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_8a7217af-9c93-4b6e-a365-651fd9a74773]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-a3d5de786a5f09321b0211b5394da9a1]: Textual amendment: Words in [Sch. 1 para. 58(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/58/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iii)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iii/aa)
+[^c-a3d5de786a5f09321b0211b5394da9a1]: Textual amendment: Words in [Sch. 1 para. 58(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/58/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iii)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iii/aa)
 
-[^key-6c26d1ba883448683c084d8aa7c2552e]: Textual amendment: Word in [Sch. 1 para. 58(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/58/4) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iii)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iii/bb)
+[^c-6c26d1ba883448683c084d8aa7c2552e]: Textual amendment: Word in [Sch. 1 para. 58(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/58/4) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iii)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iii/bb)
 
 [^M_E_853f8778-d92f-48ed-cdb3-03d0f42dcc53]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c0bb7166d46e3751a86a1d7a27dfe051]: Textual amendment: Words in [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(h)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/h)
+[^c-c0bb7166d46e3751a86a1d7a27dfe051]: Textual amendment: Words in [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59) heading substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(h)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/h)
 
-[^key-9425c7ce4a8960d3c954fff0f373aa7c]: Textual amendment: Words in [Sch. 1 para. 59(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/a/i)
+[^c-9425c7ce4a8960d3c954fff0f373aa7c]: Textual amendment: Words in [Sch. 1 para. 59(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/a/i)
 
-[^key-a93f144c42549f3a79495c512d3a5fb6]: Textual amendment: Words in [Sch. 1 para. 59(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(a)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/a/ii)
+[^c-a93f144c42549f3a79495c512d3a5fb6]: Textual amendment: Words in [Sch. 1 para. 59(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(a)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/a/ii)
 
-[^key-f3dd0b4401549740ffdf465d3d3d6629]: Textual amendment: Words in [Sch. 1 para. 59(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/a/iii)
+[^c-f3dd0b4401549740ffdf465d3d3d6629]: Textual amendment: Words in [Sch. 1 para. 59(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/1) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/a/iii)
 
-[^key-d18b9ac775ac2d2cec86d0c0484db0d7]: Textual amendment: [Sch. 1 para. 59(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/2) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/b)
+[^c-d18b9ac775ac2d2cec86d0c0484db0d7]: Textual amendment: [Sch. 1 para. 59(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/2) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/b)
 
-[^key-e246570d722f71ee673ca29d6b7c5f76]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(c)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/c/i)
+[^c-e246570d722f71ee673ca29d6b7c5f76]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(c)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/c/i)
 
-[^key-c7781e07b4e0594444e9529684fad279]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(c)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/c/ii)
+[^c-c7781e07b4e0594444e9529684fad279]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(c)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/c/ii)
 
-[^key-0aa252205e00f01151f81365f55b31c3]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(c)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/c/iii)
+[^c-0aa252205e00f01151f81365f55b31c3]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(c)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/c/iii)
 
-[^key-d7546f0ee6107bea43d51e5f7b41059e]: Textual amendment: Words in [Sch. 1 para. 59(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/4) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/d)
+[^c-d7546f0ee6107bea43d51e5f7b41059e]: Textual amendment: Words in [Sch. 1 para. 59(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/4) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/d)
 
-[^key-8556cf432081962196df5ff9e9e7695f]: Textual amendment: [Sch. 1 para. 59(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/5) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/e)
+[^c-8556cf432081962196df5ff9e9e7695f]: Textual amendment: [Sch. 1 para. 59(5)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/5) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/e)
 
-[^key-d648ee03354cc88397dcfe0ea4ae94e6]: Textual amendment: [Sch. 1 para. 59(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/6) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/f)
+[^c-d648ee03354cc88397dcfe0ea4ae94e6]: Textual amendment: [Sch. 1 para. 59(6)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/6) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/f)
 
-[^key-6451d8b5917ea77592e3018fe0e231cc]: Textual amendment: [Sch. 1 para. 59(7)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/7) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/g)
+[^c-6451d8b5917ea77592e3018fe0e231cc]: Textual amendment: [Sch. 1 para. 59(7)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/7) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/g)
 
-[^key-ad7f94bad5df17bacadb347a62541d2b]: Textual amendment: [Sch. 1 para. 59(8)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/8) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/g)
+[^c-ad7f94bad5df17bacadb347a62541d2b]: Textual amendment: [Sch. 1 para. 59(8)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/8) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [71(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/71/g)
 
 [^M_E_dfebd5bb-94a3-490d-8d95-fd9015148217]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-e61256cec0fd902615a5a16bd4ae6fd1]: Textual amendment: Words in [Sch. 1 para. 59(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/2) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iv)
+[^c-e61256cec0fd902615a5a16bd4ae6fd1]: Textual amendment: Words in [Sch. 1 para. 59(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/2) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iv)
 
-[^key-291decd1504057daca52fc7ae1c8b0a6]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iv)
+[^c-291decd1504057daca52fc7ae1c8b0a6]: Textual amendment: Words in [Sch. 1 para. 59(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/59/3) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(iv)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/iv)
 
-[^key-ec87bd5517c8b2209be4192474520c36]: Textual amendment: Words in [Sch. 1 para. 60(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/60/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [72(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/72/a)
+[^c-ec87bd5517c8b2209be4192474520c36]: Textual amendment: Words in [Sch. 1 para. 60(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/60/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [72(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/72/a)
 
-[^key-6b743799f8b095069be444f6b2b5dbad]: Textual amendment: [Sch. 1 para. 60(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/60/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [72(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/72/b)
+[^c-6b743799f8b095069be444f6b2b5dbad]: Textual amendment: [Sch. 1 para. 60(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/60/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [72(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/72/b)
 
-[^key-666d8580504ab17b126745baa1bd38b4]: Textual amendment: Sch. 1 paras. 60A, 60B inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2024/567/regulation/73)
+[^c-666d8580504ab17b126745baa1bd38b4]: Textual amendment: Sch. 1 paras. 60A, 60B inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2024/567/regulation/73)
 
 [^M_E_b4dd38af-bd1b-4317-e8d7-63ba31932dea]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-9175dcbf02febac91b8ab0c403d380f6]: Textual amendment: Words in [Sch. 1 para. 61(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [74(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/a)
+[^c-9175dcbf02febac91b8ab0c403d380f6]: Textual amendment: Words in [Sch. 1 para. 61(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [74(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/a)
 
-[^key-b42924bf3c5f89aefab0c412dfd9b5ac]: Textual amendment: Word in [Sch. 1 para. 61(1)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1/c) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [74(aa)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/aa)[(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/b)
+[^c-b42924bf3c5f89aefab0c412dfd9b5ac]: Textual amendment: Word in [Sch. 1 para. 61(1)(c)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1/c) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [74(aa)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/aa)[(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/b)
 
-[^key-82dc5e72faf3481bf7c41fbfd4ce237a]: Textual amendment: [Sch. 1 para. 61(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1/c/vi) and word inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [74(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/b)[(bb)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/bb)
+[^c-82dc5e72faf3481bf7c41fbfd4ce237a]: Textual amendment: [Sch. 1 para. 61(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1/c/vi) and word inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [74(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/b)[(bb)](https://www.legislation.gov.uk/uksi/2024/567/regulation/74/bb)
 
-[^key-15ba93d2b1499cf4808bba587bcdcd5d]: Textual amendment: Words in Sch. 1 para. 61(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15ba93d2b1499cf4808bba587bcdcd5d]: Textual amendment: Words in Sch. 1 para. 61(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-579353a4efba89742cf5d2eb4b180a82]: Textual amendment: Words in Sch. 1 para. 61(2) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-579353a4efba89742cf5d2eb4b180a82]: Textual amendment: Words in Sch. 1 para. 61(2) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3b2c598025578129a5650b94ea7b3ed]: Textual amendment: Sch. 1 para. 61(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3b2c598025578129a5650b94ea7b3ed]: Textual amendment: Sch. 1 para. 61(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f5e45ace8dd998a19f9937c44d5e61e]: Textual amendment: Sch. 1 para. 61(4) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f5e45ace8dd998a19f9937c44d5e61e]: Textual amendment: Sch. 1 para. 61(4) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(29)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/29/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_4275a0ee-fbd3-4c62-dceb-1dd7b9728345]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-8ccb0b81688f04ddfd148325d58e7487]: Textual amendment: Word in [Sch. 1 para. 61(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(v)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/v/aa)
+[^c-8ccb0b81688f04ddfd148325d58e7487]: Textual amendment: Word in [Sch. 1 para. 61(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(v)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/v/aa)
 
-[^key-7f95809e487ffb57a2bea836f8f3228e]: Textual amendment: Word in [Sch. 1 para. 61(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(v)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/v/aa)
+[^c-7f95809e487ffb57a2bea836f8f3228e]: Textual amendment: Word in [Sch. 1 para. 61(1)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/1) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(v)(aa)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/v/aa)
 
-[^key-c3f1abc454de4fd1cfa06d59860855d1]: Textual amendment: Word in [Sch. 1 para. 61(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/2) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(v)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/v/bb)
+[^c-c3f1abc454de4fd1cfa06d59860855d1]: Textual amendment: Word in [Sch. 1 para. 61(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/61/2) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(j)(v)(bb)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/j/v/bb)
 
 [^M_E_fa1509fa-1650-4e6b-abdb-08eb8ffeabfb]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^f00034]: Footnote: ISBN 9287145873.
 
-[^key-bc507c158e43e3bc77e6fb08005a9a94]: Textual amendment: Words in Sch. 1 para. 62 omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(30)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/30) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc507c158e43e3bc77e6fb08005a9a94]: Textual amendment: Words in Sch. 1 para. 62 omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(30)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/30) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_89ab31dc-42a6-44bf-aec2-88e15f45615c]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_8d6e54a5-095a-410e-fd4e-3b4439b6b525]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7d87e07f6c16484a1714215435ff396e]: Textual amendment: Words in [Sch. 1 para. 63(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/63/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [75(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/75/a)
+[^c-7d87e07f6c16484a1714215435ff396e]: Textual amendment: Words in [Sch. 1 para. 63(2)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/63/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [75(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/75/a)
 
-[^key-2899cbfcf7f76f9593a4b3d38b9d881a]: Textual amendment: [Sch. 1 para. 63(2A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/63/2A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [75(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/75/b)
+[^c-2899cbfcf7f76f9593a4b3d38b9d881a]: Textual amendment: [Sch. 1 para. 63(2A)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/63/2A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [75(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/75/b)
 
-[^key-d5bfe95a3f05ab9a6280e528405aaf60]: Textual amendment: Words in [Sch. 1 para. 63(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/63/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [75(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/75/c)
+[^c-d5bfe95a3f05ab9a6280e528405aaf60]: Textual amendment: Words in [Sch. 1 para. 63(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/63/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [75(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/75/c)
 
-[^key-8e04a17f5fc4abfebefd7787f8e88d15]: Textual amendment: Words in Sch. 1 para. 63(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(31)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/31) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e04a17f5fc4abfebefd7787f8e88d15]: Textual amendment: Words in Sch. 1 para. 63(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(31)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/31) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_d691175d-6187-4ac7-e193-abeffaf26a0a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_e6f1b664-ea9d-44ee-e308-afa6fa21c5b1]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-72ef70eb517227c963be8ae6def6f26b]: Textual amendment: Words in [Sch. 1 para. 64(1)(a)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/a) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/a)
+[^c-72ef70eb517227c963be8ae6def6f26b]: Textual amendment: Words in [Sch. 1 para. 64(1)(a)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/a) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/a)
 
-[^key-6bbdc18ed367e25573e43b68e9953e29]: Textual amendment: Words in [Sch. 1 para. 64(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/b) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(b)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/b/i)
+[^c-6bbdc18ed367e25573e43b68e9953e29]: Textual amendment: Words in [Sch. 1 para. 64(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/b) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(b)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/b/i)
 
-[^key-5c03daa3170801187a6d046774a71260]: Textual amendment: Word in [Sch. 1 para. 64(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(b)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/b/ii)
+[^c-5c03daa3170801187a6d046774a71260]: Textual amendment: Word in [Sch. 1 para. 64(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(b)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/b/ii)
 
-[^key-c34b5f26da14f6db9a63aa01461374cf]: Textual amendment: Word in [Sch. 1 para. 64(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(b)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/b/iii)
+[^c-c34b5f26da14f6db9a63aa01461374cf]: Textual amendment: Word in [Sch. 1 para. 64(1)(b)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/b) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(b)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/b/iii)
 
-[^key-7a0427a8238fd9fa2ce9b86cb882a40f]: Textual amendment: Words in [Sch. 1 para. 64(1)(f)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/f) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/c)
+[^c-7a0427a8238fd9fa2ce9b86cb882a40f]: Textual amendment: Words in [Sch. 1 para. 64(1)(f)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/f) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/c)
 
-[^key-2dbd75ccc3696d39f10ea63f5227c0cd]: Textual amendment: Words in Sch. 1 para. 64(1)(f) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(32)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/32/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2dbd75ccc3696d39f10ea63f5227c0cd]: Textual amendment: Words in Sch. 1 para. 64(1)(f) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(32)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/32/a) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-71c6dd20617d0c0cf247a9e7f5c6c837]: Textual amendment: [Sch. 1 para. 64(1)(g)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/g) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/d)
+[^c-71c6dd20617d0c0cf247a9e7f5c6c837]: Textual amendment: [Sch. 1 para. 64(1)(g)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/g) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/d)
 
-[^key-d951b45d7cc8f62411b2fadcd3b1082b]: Textual amendment: [Sch. 1 para. 64(1)(h)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/h) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/e)
+[^c-d951b45d7cc8f62411b2fadcd3b1082b]: Textual amendment: [Sch. 1 para. 64(1)(h)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/1/h) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [76(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/76/e)
 
-[^key-68d091282b2971af5bce864fc4f616de]: Textual amendment: Words in Sch. 1 para. 64(3) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(32)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/32/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68d091282b2971af5bce864fc4f616de]: Textual amendment: Words in Sch. 1 para. 64(3) substituted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(32)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/32/b) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34c5eacd4baf0eda3433948e7ef18fdc]: Textual amendment: Sch. 1 para. 64(4) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(32)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/32/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34c5eacd4baf0eda3433948e7ef18fdc]: Textual amendment: Sch. 1 para. 64(4) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [3(32)(c)](https://www.legislation.gov.uk/uksi/2019/676/regulation/3/32/c) (as amended by [S.I. 2020/1461](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_a31c8618-bd43-4ada-8220-d79c51491649]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-f6bf4814c61e91c43934a24592337af2]: Textual amendment: Word in [Sch. 1 para. 64(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/4) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(k)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/k)
+[^c-f6bf4814c61e91c43934a24592337af2]: Textual amendment: Word in [Sch. 1 para. 64(4)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/64/4) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(13)(k)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/13/k)
 
-[^key-6db78b3a90ea81f957e1b39428a1dacd]: Textual amendment: [Sch. 1 para. 65(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/65/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [77](https://www.legislation.gov.uk/uksi/2024/567/regulation/77)
+[^c-6db78b3a90ea81f957e1b39428a1dacd]: Textual amendment: [Sch. 1 para. 65(3)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/65/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [77](https://www.legislation.gov.uk/uksi/2024/567/regulation/77)
 
 [^M_E_33b7c138-fc32-45f4-ae30-aa28e099ecee]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-d06d32040098b21ee4136631a34db889]: Textual amendment: [Sch. 1 para. 68(za)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/za) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/a)
+[^c-d06d32040098b21ee4136631a34db889]: Textual amendment: [Sch. 1 para. 68(za)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/za) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/a)
 
-[^key-ecade20ee1507612bc430d407870ec70]: Textual amendment: [Sch. 1 para. 68(da)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/da) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/b)
+[^c-ecade20ee1507612bc430d407870ec70]: Textual amendment: [Sch. 1 para. 68(da)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/da) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/b)
 
-[^key-cb688972a34cf6547fce24c04d12abcd]: Textual amendment: [Sch. 1 para. 68(f)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/f) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/c)
+[^c-cb688972a34cf6547fce24c04d12abcd]: Textual amendment: [Sch. 1 para. 68(f)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/f) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(c)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/c)
 
-[^key-4fe017593d4ec75b101d908abc681029]: Textual amendment: [Sch. 1 para. 68(i)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/i) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/d)
+[^c-4fe017593d4ec75b101d908abc681029]: Textual amendment: [Sch. 1 para. 68(i)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/i) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(d)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/d)
 
-[^key-1e3c54cdfb0afc6f673f168c549e5580]: Textual amendment: [Sch. 1 para. 68(ja)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/ja)[(jb)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/jb) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/e)
+[^c-1e3c54cdfb0afc6f673f168c549e5580]: Textual amendment: [Sch. 1 para. 68(ja)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/ja)[(jb)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/jb) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(e)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/e)
 
-[^key-53308caf150790d65a87cb149aab2f16]: Textual amendment: [Sch. 1 para. 68(k)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/k) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/f)
+[^c-53308caf150790d65a87cb149aab2f16]: Textual amendment: [Sch. 1 para. 68(k)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/k) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(f)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/f)
 
-[^key-6f0b0ba08012f61e48bf823512824408]: Textual amendment: [Sch. 1 paras. 68(la)-(lc)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/la) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/g)
+[^c-6f0b0ba08012f61e48bf823512824408]: Textual amendment: [Sch. 1 paras. 68(la)-(lc)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/la) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(g)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/g)
 
-[^key-b8c16b9527427e97d4ba90ab1fb1c07b]: Textual amendment: [Sch. 1 para. 68(n)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/n) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(h)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/h)
+[^c-b8c16b9527427e97d4ba90ab1fb1c07b]: Textual amendment: [Sch. 1 para. 68(n)](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1/paragraph/68/n) omitted (E.W.S.) (17.5.2024) by virtue of [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [78(h)](https://www.legislation.gov.uk/uksi/2024/567/regulation/78/h)
 
 [^M_E_f87b4430-6c12-4f95-8048-b81ae9155279]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

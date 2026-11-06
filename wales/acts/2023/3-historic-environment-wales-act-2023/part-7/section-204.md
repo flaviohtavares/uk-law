@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 204. Compensation for depreciation of value of land[^key-0488824a101aff17ce015c0d68c809f0][^key-cb897605ad33b2f59d547f4b801ccea6]
+## 204. Compensation for depreciation of value of land[^c-0488824a101aff17ce015c0d68c809f0][^c-cb897605ad33b2f59d547f4b801ccea6]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0488824a101aff17ce015c0d68c809f0]: Commencement: S. 204 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-0488824a101aff17ce015c0d68c809f0]: Commencement: S. 204 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-cb897605ad33b2f59d547f4b801ccea6]: Commencement: [S. 204](https://www.legislation.gov.uk/asc/2023/3/section/204) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-cb897605ad33b2f59d547f4b801ccea6]: Commencement: [S. 204](https://www.legislation.gov.uk/asc/2023/3/section/204) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

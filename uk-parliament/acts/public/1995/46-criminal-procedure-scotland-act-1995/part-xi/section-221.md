@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Fines: recovery by civil diligence.[^c14472751][^M_C_b403f633-0da2-460c-f9b7-0c4c9f20f287][^c19834011][^key-8ca654db09bbd394fb1c32aad8d26276][^key-96847fd717b3b9410fb9aec76974ffd4]
+## 221. Fines: recovery by civil diligence.[^c14472751][^M_C_b403f633-0da2-460c-f9b7-0c4c9f20f287][^c19834011][^c-8ca654db09bbd394fb1c32aad8d26276][^c-96847fd717b3b9410fb9aec76974ffd4]
 
 *Extent: S*
 
@@ -48,9 +48,9 @@ and such diligence, whatever the amount of the fine imposed, may be executed in 
 
 [^c19834011]: Modification: S. 221 applied (1.3.2007) by [The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007 (S.S.I. 2007/39)](https://www.legislation.gov.uk/ssi/2007/39), [art. 4(3)](https://www.legislation.gov.uk/ssi/2007/39/article/4/3)
 
-[^key-8ca654db09bbd394fb1c32aad8d26276]: Modification: S. 221 applied (29.11.2012) by [Glasgow Commonwealth Games Act 2008 (asp 4)](https://www.legislation.gov.uk/asp/2008/4), [ss. 36(3)](https://www.legislation.gov.uk/asp/2008/4/section/36/3), [49](https://www.legislation.gov.uk/asp/2008/4/section/49); [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-8ca654db09bbd394fb1c32aad8d26276]: Modification: S. 221 applied (29.11.2012) by [Glasgow Commonwealth Games Act 2008 (asp 4)](https://www.legislation.gov.uk/asp/2008/4), [ss. 36(3)](https://www.legislation.gov.uk/asp/2008/4/section/36/3), [49](https://www.legislation.gov.uk/asp/2008/4/section/49); [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-96847fd717b3b9410fb9aec76974ffd4]: Modification: S. 221 applied (25.8.2020) by [Birmingham Commonwealth Games Act 2020 (c. 10)](https://www.legislation.gov.uk/ukpga/2020/10), [ss. 10(9)](https://www.legislation.gov.uk/ukpga/2020/10/section/10/9), [33](https://www.legislation.gov.uk/ukpga/2020/10/section/33) (with [ss. 10(10)](https://www.legislation.gov.uk/ukpga/2020/10/section/10/10), [33(4)](https://www.legislation.gov.uk/ukpga/2020/10/section/33/4))
+[^c-96847fd717b3b9410fb9aec76974ffd4]: Modification: S. 221 applied (25.8.2020) by [Birmingham Commonwealth Games Act 2020 (c. 10)](https://www.legislation.gov.uk/ukpga/2020/10), [ss. 10(9)](https://www.legislation.gov.uk/ukpga/2020/10/section/10/9), [33](https://www.legislation.gov.uk/ukpga/2020/10/section/33) (with [ss. 10(10)](https://www.legislation.gov.uk/ukpga/2020/10/section/10/10), [33(4)](https://www.legislation.gov.uk/ukpga/2020/10/section/33/4))
 
 [^c19834121]: Textual amendment: S. 221(1)(a)(i)-(iii) substituted for words (23.11.2009) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 226](https://www.legislation.gov.uk/asp/2007/3/section/226), [227](https://www.legislation.gov.uk/asp/2007/3/section/227), [Sch. 5 para. 23(a)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/23/a) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2009/369/article/3/2/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/369/schedule/1)
 

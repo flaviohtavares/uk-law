@@ -372,7 +372,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-(5)[^key-9e1a05927fb4b79e0b0837c100300a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9e1a05927fb4b79e0b0837c100300a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 8th June 2012
 
@@ -447,4 +447,4 @@ As these Regulations, in so far as they are made under the Pensions (Northern Ir
 
 [^c21490181]: Marginal citation: OJ No. L 345, 19.12.02, p.1
 
-[^key-9e1a05927fb4b79e0b0837c100300a79]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/5) revoked (1.4.2014) by [The Occupational and Personal Pension Schemes (AutomaticEnrolment) (Amendment) Regulations (NorthernIreland) 2014 (S.R. 2014/89)](https://www.legislation.gov.uk/nisr/2014/89), [regs. 1](https://www.legislation.gov.uk/nisr/2014/89/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2014/89/regulation/3/a)
+[^c-9e1a05927fb4b79e0b0837c100300a79]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/5) revoked (1.4.2014) by [The Occupational and Personal Pension Schemes (AutomaticEnrolment) (Amendment) Regulations (NorthernIreland) 2014 (S.R. 2014/89)](https://www.legislation.gov.uk/nisr/2014/89), [regs. 1](https://www.legislation.gov.uk/nisr/2014/89/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2014/89/regulation/3/a)

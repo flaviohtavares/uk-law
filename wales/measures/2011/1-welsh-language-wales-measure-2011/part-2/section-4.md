@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Promoting and facilitating use of Welsh and treating Welsh no less favourably than English[^key-c20aca87f83d5dc1d998750e73a5bcba]
+## 4. Promoting and facilitating use of Welsh and treating Welsh no less favourably than English[^c-c20aca87f83d5dc1d998750e73a5bcba]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c20aca87f83d5dc1d998750e73a5bcba]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2011/1/section/4) in force at 1.6.2012 by [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/a)
+[^c-c20aca87f83d5dc1d998750e73a5bcba]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2011/1/section/4) in force at 1.6.2012 by [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/a)

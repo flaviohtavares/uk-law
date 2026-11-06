@@ -33,7 +33,7 @@ ROADS
 
 ROAD TRAFFIC AND VEHICLES
 
-Motorways Traffic (Amendment No. 2) Regulations (Northern Ireland) 2004 (revoked)[^key-32547430504ec4befa834eccd561efc9]
+Motorways Traffic (Amendment No. 2) Regulations (Northern Ireland) 2004 (revoked)[^c-32547430504ec4befa834eccd561efc9]
 
 Made
 
@@ -43,50 +43,50 @@ Coming into operation
 
 20th September 2004
 
-[^key-32547430504ec4befa834eccd561efc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32547430504ec4befa834eccd561efc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-32547430504ec4befa834eccd561efc9]
+## 1. Citation and commencement[^c-32547430504ec4befa834eccd561efc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-32547430504ec4befa834eccd561efc9]
+## 2. Amendments[^c-32547430504ec4befa834eccd561efc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-32547430504ec4befa834eccd561efc9]
+## 3. Revocation[^c-32547430504ec4befa834eccd561efc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32547430504ec4befa834eccd561efc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32547430504ec4befa834eccd561efc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-32547430504ec4befa834eccd561efc9]
+## SCHEDULE[^c-32547430504ec4befa834eccd561efc9]
 
 Regulation 2
 
-> **SCHEDULE 1[^key-32547430504ec4befa834eccd561efc9]**
+> **SCHEDULE 1[^c-32547430504ec4befa834eccd561efc9]**
 >
 > Regulation 9A
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 2[^key-32547430504ec4befa834eccd561efc9]**
+> **SCHEDULE 2[^c-32547430504ec4befa834eccd561efc9]**
 >
 > Regulation 9A
 >
-> **1.**[^key-32547430504ec4befa834eccd561efc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-32547430504ec4befa834eccd561efc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-32547430504ec4befa834eccd561efc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-32547430504ec4befa834eccd561efc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-32547430504ec4befa834eccd561efc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-32547430504ec4befa834eccd561efc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-32547430504ec4befa834eccd561efc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32547430504ec4befa834eccd561efc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32547430504ec4befa834eccd561efc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/336) revoked (28.5.2008) by [The Motorways Traffic Regulations (Northern Ireland) 2008 (S.R. 2008/135)](https://www.legislation.gov.uk/nisr/2008/135), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2008/135/regulation/15), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/3)
+[^c-32547430504ec4befa834eccd561efc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/336) revoked (28.5.2008) by [The Motorways Traffic Regulations (Northern Ireland) 2008 (S.R. 2008/135)](https://www.legislation.gov.uk/nisr/2008/135), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2008/135/regulation/15), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/3)

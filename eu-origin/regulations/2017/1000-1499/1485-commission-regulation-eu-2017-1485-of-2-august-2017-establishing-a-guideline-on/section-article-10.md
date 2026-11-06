@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The transmission system operator[^key-ed042fa61843a8341ff8242e05df7da5] shall organise stakeholder involvement regarding secure system operation and other aspects of the implementation of this Regulation. Such involvement shall include regular meetings with stakeholders to identify problems and propose improvements related to the secure system operation.
+The transmission system operator[^c-ed042fa61843a8341ff8242e05df7da5] shall organise stakeholder involvement regarding secure system operation and other aspects of the implementation of this Regulation. Such involvement shall include regular meetings with stakeholders to identify problems and propose improvements related to the secure system operation.
 
 ## Annotations
 
-[^key-ed042fa61843a8341ff8242e05df7da5]: Textual amendment: Words in Art. 10 substituted (E.W.S.) (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [44(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/44/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-ed042fa61843a8341ff8242e05df7da5]: Textual amendment: Words in Art. 10 substituted (E.W.S.) (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [44(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/44/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

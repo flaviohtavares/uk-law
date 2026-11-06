@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## Schedule 1 — Medical decisions: appeals and reconsideration[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+## Schedule 1 — Medical decisions: appeals and reconsideration[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 *Extent: N.I.*
 
-Regulations 75, 79, 104, 115 and 207[^key-6a1bf81caa4bb606d1f8125959ac74f6]
+Regulations 75, 79, 104, 115 and 207[^c-6a1bf81caa4bb606d1f8125959ac74f6]
 
-### 1. Interpretation[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 1. Interpretation[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 In this Schedule—
 
@@ -33,7 +33,7 @@ In this Schedule—
   - (a) a report by the selected medical practitioner on the question of permanent medical unfitness under regulation 79 (referral of questions to a selected medical practitioner for the purpose of regulation 80);
   - (b) a report by the selected medical practitioner under regulation 81 (compulsory retirement of a member who was required to continue to serve);
   - (c) a report by the selected medical practitioner under regulation 84 (referral of medical questions for purpose of early payment of a full retirement pension on grounds of permanent medical unfitness);
-  - (d) a report by the selected medical practitioner under regulation 104 (referral of medical question for purpose of reduction of benefits[^key-12d46dd383af12c0d2c68aa8a5678526]
+  - (d) a report by the selected medical practitioner under regulation 104 (referral of medical question for purpose of reduction of benefits[^c-12d46dd383af12c0d2c68aa8a5678526]
   - (e) a report by the independent medical referee under paragraph 2(6) (appeal against a decision of a selected medical practitioner); or
   - (f) a fresh report by a medical authority under paragraph 4 (reconsideration of final decision)
 - “**medical authority**” means a selected medical practitioner or an independent medical referee.
@@ -41,7 +41,7 @@ In this Schedule—
 - “**police pension authority**” means the police pension authority acting in exercise of its function as employer or scheme manager.
 - “**selected medical practitioner**” (“**SMP**”) means a duly qualified medical practitioner selected by the police pension authority or the Chief Constable.
 
-### 2. Appeal against a decision of a selected medical practitioner[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 2. Appeal against a decision of a selected medical practitioner[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) Within 28 days after a member of the police service receives a copy of a report by the selected medical practitioner containing a medical decision and certificate (or such longer period as the police pension authority may allow), the member may give notice of appeal to the police pension authority against the decision in accordance with paragraph 3 (referral to the Independent Medical Referee).
 
@@ -70,7 +70,7 @@ In this Schedule—
 
 (9) The police pension authority shall determine the appeal after considering the report of the IMR and that report shall supersede any other medical report.
 
-### 3. Referral to the Independent Medical Referee[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 3. Referral to the Independent Medical Referee[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) The IMR must—
 
@@ -96,7 +96,7 @@ In this Schedule—
 
 (9) If the IMR disagrees with any part of the selected medical practitioner's report, the appeal tribunal must supply a revised report and certificate.
 
-### 4. Referral of final decision for reconsideration[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 4. Referral of final decision for reconsideration[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) This paragraph applies if a medical authority has given a final decision in relation to a member of the police service (“the member”).
 
@@ -128,7 +128,7 @@ In this Schedule—
 
 (9) Subject to any further reconsideration under this paragraph, the fresh report is final.
 
-### 5. Referral to an appointed medical practitioner[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 5. Referral to an appointed medical practitioner[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) If a final decision is referred to a medical authority for reconsideration under paragraph 3 and the medical authority is unable or unwilling to act, the final decision may be referred to an appointed medical practitioner.
 
@@ -139,7 +139,7 @@ In this Schedule—
 - (a) agreed by the member of the police service and the police pension authority; or
 - (b) appointed by the appeal tribunal.
 
-### 6. Appointment of appeal tribunal[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 6. Appointment of appeal tribunal[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) The appeal tribunal must consist of not less than 3 persons who—
 
@@ -159,7 +159,7 @@ In this Schedule—
 
 (6) Where there is an equality of voting among members of the appeal board, the chair has a second or casting vote.
 
-### 7. Procedure and costs on appeals to an appeal tribunal[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 7. Procedure and costs on appeals to an appeal tribunal[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) The notice of appeal and the statement of grounds of appeal must be in writing.
 
@@ -179,7 +179,7 @@ In this Schedule—
 - (a) be paid by the police pension authority; and
 - (b) be treated as part of the expenses of the police pension authority for the purposes of this paragraph.
 
-### 8. Hearing the appeal[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 8. Hearing the appeal[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) The appeal tribunal must—
 
@@ -199,7 +199,7 @@ In this Schedule—
 
 (6) An appeal shall lie on a point of law from any decision of a tribunal under this regulation to the High Court in accordance with rules of court.
 
-### 9. Written evidence or a written statement[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 9. Written evidence or a written statement[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) A party to an appeal who intends to submit written evidence or a written statement at a hearing must, subject to sub-paragraph (2), submit it to the appeal tribunal and the other party not less than 35 days before the date appointed for the hearing.
 
@@ -214,7 +214,7 @@ In this Schedule—
 
 (5) References in this paragraph to periods of days include weekends and public holidays.
 
-### 10. Costs payable if hearing is cancelled, adjourned or postponed[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 10. Costs payable if hearing is cancelled, adjourned or postponed[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) Subject to the following provisions, the expenses of each party to the appeal must be borne by that party.
 
@@ -226,7 +226,7 @@ In this Schedule—
 
 (5) If sub-paragraph (4) applies, the appeal tribunal may, subject to paragraph (7), require the appellant to pay towards the cost of the cancellation, adjournment or postponement such sum not exceeding the total costs of the cancellation, adjournment or postponement as the appeal tribunal decides taking into account of representations from either party.
 
-### 11. Costs payable on decision[^key-37806c70e388ca460229be617bd2b3bd][^key-cc27df0becc0e91d68cb9c2544b44087]
+### 11. Costs payable on decision[^c-37806c70e388ca460229be617bd2b3bd][^c-cc27df0becc0e91d68cb9c2544b44087]
 
 (1) Costs are payable in accordance with this paragraph on determination of the appeal.
 
@@ -246,12 +246,12 @@ In this Schedule—
 
 ## Annotations
 
-[^key-37806c70e388ca460229be617bd2b3bd]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [51(4)](https://www.legislation.gov.uk/nisr/2023/122/regulation/51/4)
+[^c-37806c70e388ca460229be617bd2b3bd]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [51(4)](https://www.legislation.gov.uk/nisr/2023/122/regulation/51/4)
 
-[^key-cc27df0becc0e91d68cb9c2544b44087]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [51(7)](https://www.legislation.gov.uk/nisr/2023/122/regulation/51/7)
+[^c-cc27df0becc0e91d68cb9c2544b44087]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [51(7)](https://www.legislation.gov.uk/nisr/2023/122/regulation/51/7)
 
-[^key-6a1bf81caa4bb606d1f8125959ac74f6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/1) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [42(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/42/2)
+[^c-6a1bf81caa4bb606d1f8125959ac74f6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/1) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [42(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/42/2)
 
-[^key-12d46dd383af12c0d2c68aa8a5678526]: Textual amendment: [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/nisr/2015/113/schedule/1/paragraph/1/d) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [42(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/42/3)
+[^c-12d46dd383af12c0d2c68aa8a5678526]: Textual amendment: [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/nisr/2015/113/schedule/1/paragraph/1/d) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [42(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/42/3)
 
 [^c22512551]: Marginal citation: [S.I.1980/397](https://www.legislation.gov.uk/uksi/1980/397)(N.I.3)

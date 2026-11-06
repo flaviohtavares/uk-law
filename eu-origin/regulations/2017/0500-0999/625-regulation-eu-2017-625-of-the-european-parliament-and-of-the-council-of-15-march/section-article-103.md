@@ -20,27 +20,27 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Competent authorities[^key-0190041c466deef24d939fd21d769a34] shall designate one or more liaison bodies acting as contact points responsible for facilitating the exchange of communications between competent authorities in accordance with Articles 104 to 107.
+1. Competent authorities[^c-0190041c466deef24d939fd21d769a34] shall designate one or more liaison bodies acting as contact points responsible for facilitating the exchange of communications between competent authorities in accordance with Articles 104 to 107.
 
-2. The designation of liaison bodies shall not preclude direct contacts, exchange of information or cooperation between the staff of competent authorities[^key-6db7c8851ba126f00e36847cff3bac3e]....
+2. The designation of liaison bodies shall not preclude direct contacts, exchange of information or cooperation between the staff of competent authorities[^c-6db7c8851ba126f00e36847cff3bac3e]....
 
-3.[^key-9835a9636aec67a1bd2003d00d2165c7] Competent authorities must—
+3.[^c-9835a9636aec67a1bd2003d00d2165c7] Competent authorities must—
 
 - (a) publish online the contact details of their liaison bodies designated in accordance with paragraph 1; and
 - (b) ensure that the information published in accordance with point (a) is kept up to date.
 
-4.[^key-5e9b45ff7e2c328c307c7da93df502fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-5e9b45ff7e2c328c307c7da93df502fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-5e9b45ff7e2c328c307c7da93df502fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-5e9b45ff7e2c328c307c7da93df502fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-5e9b45ff7e2c328c307c7da93df502fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-5e9b45ff7e2c328c307c7da93df502fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0190041c466deef24d939fd21d769a34]: Textual amendment: Words in [Art. 103(1)](https://www.legislation.gov.uk/eur/2017/625/article/103/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-0190041c466deef24d939fd21d769a34]: Textual amendment: Words in [Art. 103(1)](https://www.legislation.gov.uk/eur/2017/625/article/103/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-6db7c8851ba126f00e36847cff3bac3e]: Textual amendment: Words in [Art. 103(2)](https://www.legislation.gov.uk/eur/2017/625/article/103/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-6db7c8851ba126f00e36847cff3bac3e]: Textual amendment: Words in [Art. 103(2)](https://www.legislation.gov.uk/eur/2017/625/article/103/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-9835a9636aec67a1bd2003d00d2165c7]: Textual amendment: [Art. 103(3)](https://www.legislation.gov.uk/eur/2017/625/article/103/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(c)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/c) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-9835a9636aec67a1bd2003d00d2165c7]: Textual amendment: [Art. 103(3)](https://www.legislation.gov.uk/eur/2017/625/article/103/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(c)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/c) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-5e9b45ff7e2c328c307c7da93df502fd]: Textual amendment: [Art. 103(4)-(6)](https://www.legislation.gov.uk/eur/2017/625/article/103/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(d)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/d) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-5e9b45ff7e2c328c307c7da93df502fd]: Textual amendment: [Art. 103(4)-(6)](https://www.legislation.gov.uk/eur/2017/625/article/103/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(2)(d)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/2/d) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

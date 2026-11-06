@@ -46,7 +46,7 @@ for all other purposes
 
 Whereas both Houses of Parliament have approved a draft of this instrument, the Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the licensing of drivers of motor vehicles, in exercise of the powers conferred by that section, hereby makes the following Regulations—
 
-**1.**[^key-bb8b1eae6985e8c4b797caba6da50593] (1) These Regulations may be cited as the Driving Licences (Community Driving Licence) Regulations 1996.
+**1.**[^c-bb8b1eae6985e8c4b797caba6da50593] (1) These Regulations may be cited as the Driving Licences (Community Driving Licence) Regulations 1996.
 
 (2) These Regulations shall come into force—
 
@@ -58,15 +58,15 @@ Whereas both Houses of Parliament have approved a draft of this instrument, the 
   on the day after the day on which these Regulations are made;
 - (b) except as provided in sub-paragraph (a) above, on 1st January 1997.
 
-**2.**[^key-420d91c336d0074d8970e2e286a50552][^key-5242ba860ea26a009a5046d9b6c164fb] The Road Traffic Act 1988[^f00004] shall have effect with the amendments set out in Schedule 1 to these Regulations.
+**2.**[^c-420d91c336d0074d8970e2e286a50552][^c-5242ba860ea26a009a5046d9b6c164fb] The Road Traffic Act 1988[^f00004] shall have effect with the amendments set out in Schedule 1 to these Regulations.
 
-**3.**[^key-e7edbf662ec2c467c88bc1659abe80d3] The Road Traffic Offenders Act 1988[^f00005] shall have effect with the amendments set out in Schedule 2 to these Regulations.
+**3.**[^c-e7edbf662ec2c467c88bc1659abe80d3] The Road Traffic Offenders Act 1988[^f00005] shall have effect with the amendments set out in Schedule 2 to these Regulations.
 
-**4.**[^key-29cbe200b97d3caab9521ccb2e7e70d3][^key-6b9145e74dde9a9559628fff60667802] The Transport Act 1985[^f00006] shall have effect with the amendments set out in Schedule 3 to these Regulations.
+**4.**[^c-29cbe200b97d3caab9521ccb2e7e70d3][^c-6b9145e74dde9a9559628fff60667802] The Transport Act 1985[^f00006] shall have effect with the amendments set out in Schedule 3 to these Regulations.
 
-**5.**[^key-84880f337778616229c0b0a6f30a1ffa] The enactments mentioned in Schedule 4 to these Regulations shall have effect with the amendments set out in that Schedule (being minor amendments consequential upon those set out in Schedules 1 and 2 to these Regulations).
+**5.**[^c-84880f337778616229c0b0a6f30a1ffa] The enactments mentioned in Schedule 4 to these Regulations shall have effect with the amendments set out in that Schedule (being minor amendments consequential upon those set out in Schedules 1 and 2 to these Regulations).
 
-**6.**[^key-97f66d93e9d50f7b22a4cee33f847d58] The Motor Vehicles (International Circulation) Order 1975[^f00007] shall have effect with the amendments set out in Schedule 5 to these Regulations.
+**6.**[^c-97f66d93e9d50f7b22a4cee33f847d58] The Motor Vehicles (International Circulation) Order 1975[^f00007] shall have effect with the amendments set out in Schedule 5 to these Regulations.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -82,7 +82,7 @@ Department of Transport
 
 Regulation 2
 
-**1.**[^key-72497bf57003d7e79ed5abd5f47469a4][^key-f9a51710aea608fc9ecd149bdf0ac1d0] (1) Section 88 (exceptions) shall be amended as follows.
+**1.**[^c-72497bf57003d7e79ed5abd5f47469a4][^c-f9a51710aea608fc9ecd149bdf0ac1d0] (1) Section 88 (exceptions) shall be amended as follows.
 
 (2) In subsection (1)(a)[^f00008] after sub-paragraph (i) there shall be inserted—
 
@@ -106,9 +106,9 @@ Regulation 2
 
 .
 
-**2.**[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7][^key-6c89141927a704596677c7620bb1f51d] (1)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] Section 89 (tests of competence to drive) shall be amended as follows.
+**2.**[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7][^c-6c89141927a704596677c7620bb1f51d] (1)[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7] Section 89 (tests of competence to drive) shall be amended as follows.
 
-(2)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (1)[^f00010] —
+(2)[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (1)[^f00010] —
 
 - (a) for “satisfies the Secretary of State” there shall be substituted “meets the relevant residence requirement and satisfies the Secretary of State”,
 - (b) in paragraph (c), the words “conducted under any relevant external law or” shall be omitted,
@@ -126,7 +126,7 @@ Regulation 2
 
   > - (f) that, at the time of the application for the licence, he holds an exchangeable licence authorising the driving of vehicles of that or a corresponding class.
 
-(3)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] After that subsection there shall be inserted—
+(3)[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7] After that subsection there shall be inserted—
 
 > (1A) An applicant meets the relevant residence requirement referred to in subsection (1) above if on the date the application for the licence is made—
 >
@@ -134,7 +134,7 @@ Regulation 2
 > - (b) in a case where he satisfies the Secretary of State in respect of paragraph (f) of that subsection, he is normally resident in Great Britain but has not been so resident for more than the prescribed period; and
 > - (c) in any other case, he is normally resident in Great Britain.
 
-(4)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (2)[^f00011] —
+(4)[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (2)[^f00011] —
 
 - (a) for paragraph (a) there shall be substituted—
 
@@ -148,41 +148,41 @@ Regulation 2
   , and
 - (b) paragraph (b) shall be omitted.
 
-(5)[^key-6c89141927a704596677c7620bb1f51d] In subsection (4), after paragraph (a) there shall be inserted—
+(5)[^c-6c89141927a704596677c7620bb1f51d] In subsection (4), after paragraph (a) there shall be inserted—
 
 > - (aa) for requiring a person submitting himself for a test to have been normally resident in Great Britain or the United Kingdom for such period ending on the date of his appointment for the test as may be prescribed,
 
 .
 
-(6)[^key-6c89141927a704596677c7620bb1f51d] In subsection (7)[^f00012], in paragraph (a), after “group” there shall be inserted “(except where regulations otherwise provide)”.
+(6)[^c-6c89141927a704596677c7620bb1f51d] In subsection (7)[^f00012], in paragraph (a), after “group” there shall be inserted “(except where regulations otherwise provide)”.
 
-(7)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (8)[^f00013], the words “member State” shall be omitted.
+(7)[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (8)[^f00013], the words “member State” shall be omitted.
 
-(8)[^key-6c89141927a704596677c7620bb1f51d] In subsection (9)[^f00014], in paragraph (a), after “if” there shall be inserted “(except where regulations otherwise provide)”.
+(8)[^c-6c89141927a704596677c7620bb1f51d] In subsection (9)[^f00014], in paragraph (a), after “if” there shall be inserted “(except where regulations otherwise provide)”.
 
-(9)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (10)—
+(9)[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (10)—
 
 - (a) after “British Forces licence” there shall be inserted “, a Community licence”,
 - (b) after “(d)” there shall be inserted “, (ea)”, and
 - (c) at the beginning of paragraph (a) there shall be inserted “(except where regulations otherwise provide)”.
 
-(10)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (11), the words from the beginning to “licence and” shall be omitted.
+(10)[^c-5b36bba904d3129c832f1dc3b4103705][^c-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (11), the words from the beginning to “licence and” shall be omitted.
 
-**3.**[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255][^key-98bf9897c3ee26b98799b17f4e8faa7e] (1)[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255] Section 92 (requirements as to physical fitness of drivers) shall be amended as follows.
+**3.**[^c-88acf6e4e016b9962187af3782ec1d00][^c-ef3adcf25e8b392331c4cc6961e87255][^c-98bf9897c3ee26b98799b17f4e8faa7e] (1)[^c-88acf6e4e016b9962187af3782ec1d00][^c-ef3adcf25e8b392331c4cc6961e87255] Section 92 (requirements as to physical fitness of drivers) shall be amended as follows.
 
-(2)[^key-98bf9897c3ee26b98799b17f4e8faa7e] In subsection (2), in the definition of “disability”, after “disease” there shall be inserted “and the persistent misuse of drugs or alcohol, whether or not such misuse amounts to dependency”.
+(2)[^c-98bf9897c3ee26b98799b17f4e8faa7e] In subsection (2), in the definition of “disability”, after “disease” there shall be inserted “and the persistent misuse of drugs or alcohol, whether or not such misuse amounts to dependency”.
 
-(3)[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255] In subsection (6), in paragraph (a) for “who took the test” there shall be substituted “on whom the notice is served”.
+(3)[^c-88acf6e4e016b9962187af3782ec1d00][^c-ef3adcf25e8b392331c4cc6961e87255] In subsection (6), in paragraph (a) for “who took the test” there shall be substituted “on whom the notice is served”.
 
-(4)[^key-02272fb6de28c0ce8304dffbc3ae0bef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-02272fb6de28c0ce8304dffbc3ae0bef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255] After subsection (7C)[^f00016] there shall be inserted—
+(5)[^c-88acf6e4e016b9962187af3782ec1d00][^c-ef3adcf25e8b392331c4cc6961e87255] After subsection (7C)[^f00016] there shall be inserted—
 
 > (7D) In subsection (7B) above the references to section 94 of this Act include references to that section as applied by section 99D of this Act.
 
-**4.**[^key-5165a0b7010dbeb875106ad05146592e][^key-71fdd75af9d73905d9885ad37cfc9321] In section 93 (revocation of licence because of disability or prospective disability), in subsection (1)(b), the words “or (7)” shall be omitted.
+**4.**[^c-5165a0b7010dbeb875106ad05146592e][^c-71fdd75af9d73905d9885ad37cfc9321] In section 93 (revocation of licence because of disability or prospective disability), in subsection (1)(b), the words “or (7)” shall be omitted.
 
-**5.**[^key-45d2837332c89dc0493331d13da4949d][^key-b4ee889888601e2d3ae7bdd9d0a7f775] (1) Section 94A (driving after refusal or revocation of licence)[^f00017] shall be amended as follows.
+**5.**[^c-45d2837332c89dc0493331d13da4949d][^c-b4ee889888601e2d3ae7bdd9d0a7f775] (1) Section 94A (driving after refusal or revocation of licence)[^f00017] shall be amended as follows.
 
 (2) In subsection (1), for paragraphs (a) and (b) there shall be substituted—
 
@@ -196,7 +196,7 @@ Regulation 2
 >
 >   authorising him to drive a motor vehicle of that or a corresponding class.
 
-**6.**[^key-0865b2e5dcecb6fb4ce7c914f428e83b][^key-4faba7d56fce4426fd48daebba2bc691] (1) Section 97 (grant of licences) shall be amended as follows.
+**6.**[^c-0865b2e5dcecb6fb4ce7c914f428e83b][^c-4faba7d56fce4426fd48daebba2bc691] (1) Section 97 (grant of licences) shall be amended as follows.
 
 (2) In subsection (1)[^f00018], for paragraph (c) there shall be substituted—
 
@@ -241,18 +241,18 @@ Regulation 2
 >   - (b) an adequate supply of other liquids needed for its propulsion, and
 >   - (c) no load other than its normal equipment, including loose tools.
 
-**7.**[^key-ee3581366931070be65932d13ade63e5][^key-ab5d6c51feea7f35c57d9bbc2247977a] (1) Section 98 (form of licence) shall be amended as follows.
+**7.**[^c-ee3581366931070be65932d13ade63e5][^c-ab5d6c51feea7f35c57d9bbc2247977a] (1) Section 98 (form of licence) shall be amended as follows.
 
-(2)[^key-d9741f40dfdce6721debc0a3d73191f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d9741f40dfdce6721debc0a3d73191f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (3)[^f00022], in paragraph (b)—
 
 - (a) for the words from “he has” to “side-car” there shall be substituted “he has either passed a test of competence to drive a motor bicycle or attained the age of 21 years, a motor bicycle”, and
 - (b) at the end there shall be inserted “or attained that age (as the case may be)”.
 
-**8.**[^key-658cad518dedc799af086e76e50463e5][^key-388633c5058c9d11669cb8de515e3d4e] In section 99 (duration of licences), in subsection (2), for the word “cycle”, in both places where it occurs, there shall be substituted “bicycle”.
+**8.**[^c-658cad518dedc799af086e76e50463e5][^c-388633c5058c9d11669cb8de515e3d4e] In section 99 (duration of licences), in subsection (2), for the word “cycle”, in both places where it occurs, there shall be substituted “bicycle”.
 
-**9.**[^key-c87a739415201b514a0200cd7c1ece80][^key-2d86abcf2717ff5ff3e0c6ed667eb51e] After section 99 there shall be inserted—
+**9.**[^c-c87a739415201b514a0200cd7c1ece80][^c-2d86abcf2717ff5ff3e0c6ed667eb51e] After section 99 there shall be inserted—
 
 > Community licence holders
 >
@@ -304,7 +304,7 @@ Regulation 2
 > - (a) in the case where he first became so resident on or before 1 January 1997, that date; and
 > - (b) in any other case, the date on which he first became so resident.
 
-**10.**[^key-778d6a22dee89cd9be3ccd0f93e1ce60][^key-acdc4e616f0cc6b12687ea6aefbffff8] After section 99A there shall be inserted—
+**10.**[^c-778d6a22dee89cd9be3ccd0f93e1ce60][^c-acdc4e616f0cc6b12687ea6aefbffff8] After section 99A there shall be inserted—
 
 > **99B. Information about resident Community licence holders.**
 >
@@ -364,7 +364,7 @@ Regulation 2
 >
 > (14) In this section “relevant date” has the meaning given by section 99A(8) of this Act.
 
-**11.**[^key-500b7b7909348e9317d36837fe7ef5fa][^key-246e72f52ecb6351b4286a771134d2e6] After section 99B there shall be inserted—
+**11.**[^c-500b7b7909348e9317d36837fe7ef5fa][^c-246e72f52ecb6351b4286a771134d2e6] After section 99B there shall be inserted—
 
 > **99C. Revocation of authorisation conferred by Community licence because of disability or prospective disability.**
 >
@@ -398,7 +398,7 @@ Regulation 2
 >
 > (6) Where a Community licence holder is served with a notice in pursuance of any of subsections (1) to (3) above, he shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a motor vehicle of any class from such date as may be specified in the notice, not being earlier than the date of service of the notice.
 
-**12.**[^key-490c9bac8e18c6c41e987e3bc210e41b][^key-36a47d4879e97631e9fc96c6dd9f5ac6] After section 99C there shall be inserted—
+**12.**[^c-490c9bac8e18c6c41e987e3bc210e41b][^c-36a47d4879e97631e9fc96c6dd9f5ac6] After section 99C there shall be inserted—
 
 > **99D. Information relating to disabilities etc.**
 >
@@ -416,7 +416,7 @@ Regulation 2
 >   - (i) for “93” there were substituted “99C”, and
 >   - (ii) the words “applicant or”, in both places where they occur, were omitted.
 
-**13.**[^key-741ad09b5b15b6fdac7c9cb66713561f][^key-9bab6404918cda07fdca477cef83c121] After section 99D there shall be inserted—
+**13.**[^c-741ad09b5b15b6fdac7c9cb66713561f][^c-9bab6404918cda07fdca477cef83c121] After section 99D there shall be inserted—
 
 > **99E. Return of Community licences delivered to Secretary of State.**
 >
@@ -431,9 +431,9 @@ Regulation 2
 > - (a) in a case where the Community licence holder appeals under section 100 or 119 of this Act against the requirement to surrender his Community licence, the period ending on the date on which the appeal is finally determined or abandoned, and
 > - (b) in any other case, the period of seven months beginning with the date on which the Secretary of State received the Community licence.
 
-**14.**[^key-d1f0dd7bf9a0ad00b6d0a9c183594f7c][^key-3841bfa71b071780230fbde41081de2e] In section 100 (appeals relating to licences), after “92(5)” there shall be inserted “or 99C”.
+**14.**[^c-d1f0dd7bf9a0ad00b6d0a9c183594f7c][^c-3841bfa71b071780230fbde41081de2e] In section 100 (appeals relating to licences), after “92(5)” there shall be inserted “or 99C”.
 
-**15.**[^key-cf65abc5feda5686730174c20247ed58][^key-73063fe9e75bcf1bf16e612ac223dd46] In section 101 (disqualification of persons under age), in subsection (1), for the Table there shall be substituted—
+**15.**[^c-cf65abc5feda5686730174c20247ed58][^c-73063fe9e75bcf1bf16e612ac223dd46] In section 101 (disqualification of persons under age), in subsection (1), for the Table there shall be substituted—
 
 > | Class of motor vehicle | Age (in years) |
 > | --- | --- |
@@ -445,9 +445,9 @@ Regulation 2
 > | 6\. Medium-sized good vehicle | 18 |
 > | Other motor vehicle | 21 |
 
-**16.**[^key-7243936ee05cd43834a0d7289a7f2163][^key-7ac80b83690310676ae6ef93a29a4c24] In section 103 (obtaining licence, or driving, while disqualified), in subsection (6), in paragraph (a), for “or 117” there shall be substituted “117 or 117A”.
+**16.**[^c-7243936ee05cd43834a0d7289a7f2163][^c-7ac80b83690310676ae6ef93a29a4c24] In section 103 (obtaining licence, or driving, while disqualified), in subsection (6), in paragraph (a), for “or 117” there shall be substituted “117 or 117A”.
 
-**17.**[^key-3b517b05b0d1d9e22f7efe4554c56325] In section 105 (regulations)[^f00024], in subsection (2)—
+**17.**[^c-3b517b05b0d1d9e22f7efe4554c56325] In section 105 (regulations)[^f00024], in subsection (2)—
 
 - (a) for paragraphs (a) and (b) there shall be substituted—
 
@@ -458,14 +458,14 @@ Regulation 2
   >   - (iii) whose counterparts of licences under this Part of this Act or of Community licences (as the case may be) are endorsed,
   >
   >   available for use by the police,
-- (b)[^key-850ee232df10981e251d62e0afa74216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-850ee232df10981e251d62e0afa74216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) at the end of paragraph (f) there shall be inserted “or on Community licences then in force”.
 
 (3) In subsection (5), for “and 34 to 48” there shall be substituted “, 34 to 48, 91A and 91B”.
 
-**18.**[^key-3f9ee19dac3a01d5ce667b5af78e7960][^key-1d8dc2c836ef3ce48f4a33e4b81ed322] In section 107 (service of notices), for the words from the beginning to “Served on him” there shall be substituted “A notice authorised to be served on any person under this Part or Part IV of this Act or a Community licence required to be returned to its holder by section 99B or 99E of this Act may be served on, or returned to him”.
+**18.**[^c-3f9ee19dac3a01d5ce667b5af78e7960][^c-1d8dc2c836ef3ce48f4a33e4b81ed322] In section 107 (service of notices), for the words from the beginning to “Served on him” there shall be substituted “A notice authorised to be served on any person under this Part or Part IV of this Act or a Community licence required to be returned to its holder by section 99B or 99E of this Act may be served on, or returned to him”.
 
-**19.**[^key-066df0d50c0a31ff02d32f8cb4285b95][^key-eaa6d341f48f565ad71a9fe6cb49ea1b] (1) Section 108 (interpretation) shall be amended as follows.
+**19.**[^c-066df0d50c0a31ff02d32f8cb4285b95][^c-eaa6d341f48f565ad71a9fe6cb49ea1b] (1) Section 108 (interpretation) shall be amended as follows.
 
 (2) In subsection (1)[^f00025] —
 
@@ -484,7 +484,7 @@ Regulation 2
     > or
     >
     > - (c) a document issued for a purpose corresponding to that mentioned in section 97(2) of this Act,
-- (c)[^key-6345e1f2828f77ce2260172f6a6e609a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6345e1f2828f77ce2260172f6a6e609a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) after the definition of “disqualified” there shall be inserted—
 
   > - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993,
@@ -529,7 +529,7 @@ Regulation 2
 
 (3) In subsection (2), for “a member State” there shall be substituted “an EEA State”.
 
-**20.**[^key-85961e0889159343ec166f36915264e2][^key-fec9777f6b20bd0316aae5f59cfab903] In section 110 (licensing of drivers of large goods vehicles etc.)[^f00026], in subsection (2)—
+**20.**[^c-85961e0889159343ec166f36915264e2][^c-fec9777f6b20bd0316aae5f59cfab903] In section 110 (licensing of drivers of large goods vehicles etc.)[^f00026], in subsection (2)—
 
 - (a) immediately before the definition of “large goods vehicle driver’s licence” there shall be inserted—
 
@@ -544,12 +544,12 @@ Regulation 2
 
   .
 
-**21.**[^key-9fd868da8306e1212ff60afa97fac17e][^key-bf6cbcb8ae88c708e98feaf4813ffe90] In section 111 (functions of traffic commissioners), in subsection (1), for the words from “applicants” onwards there shall be substituted—
+**21.**[^c-9fd868da8306e1212ff60afa97fac17e][^c-bf6cbcb8ae88c708e98feaf4813ffe90] In section 111 (functions of traffic commissioners), in subsection (1), for the words from “applicants” onwards there shall be substituted—
 
 > - (a) applicants for and holders of large goods vehicle and passenger-carrying vehicle drivers' licences, and
 > - (b) holders of LGV Community licences and PCV Community licences.
 
-**22.**[^key-6cb75af239dc7bdec3903812dc41572f][^key-584aede8963299bc8fe8fa5d7bd2ac16] In section 114 (conditions of certain licences), in subsection (1), for the words from the beginning to “21” there shall be substituted
+**22.**[^c-6cb75af239dc7bdec3903812dc41572f][^c-584aede8963299bc8fe8fa5d7bd2ac16] In section 114 (conditions of certain licences), in subsection (1), for the words from the beginning to “21” there shall be substituted
 
 > The following licences, that is to say—
 >
@@ -559,7 +559,7 @@ Regulation 2
 
 .
 
-**23.**[^key-6196d6c0258436c370a12a4e719ab0d2][^key-f8752c86ba886c2e0c50ffa39b195536] In section 115 (revocation or suspension of licences), in subsection (3)[^f00027] —
+**23.**[^c-6196d6c0258436c370a12a4e719ab0d2][^c-f8752c86ba886c2e0c50ffa39b195536] In section 115 (revocation or suspension of licences), in subsection (3)[^f00027] —
 
 - (a) for “or section 117” there shall be substituted “or any of sections 115A, 117 or 117A”, and
 - (b) in paragraph (b), for the words from “under” to “revoked” there shall be substituted—
@@ -569,7 +569,7 @@ Regulation 2
 
   .
 
-**24.**[^key-93bb5829f608c657e41b4f33de50b079][^key-046ca525c0f4a3328deb78fe21c95cda] After that section there shall be inserted—
+**24.**[^c-93bb5829f608c657e41b4f33de50b079][^c-046ca525c0f4a3328deb78fe21c95cda] After that section there shall be inserted—
 
 > **115A. Community licence holders: cessation of authorisation, etc.**
 >
@@ -588,7 +588,7 @@ Regulation 2
 >
 > (5) In this section “relevant date”, in relation to a Community licence holder who is normally resident in Great Britain, has the same meaning as in section 99A(8) of this Act.
 
-**25.**[^key-c6a4adaf61bf47a0865abd84e03e9641][^key-1ffe4ad94680b06aae080ec42303ec48] (1) Section 116 (revocation or suspension of licences etc.) shall be amended as follows.
+**25.**[^c-c6a4adaf61bf47a0865abd84e03e9641][^c-1ffe4ad94680b06aae080ec42303ec48] (1) Section 116 (revocation or suspension of licences etc.) shall be amended as follows.
 
 (2) For subsection (1) there shall be substituted—
 
@@ -613,7 +613,7 @@ Regulation 2
 > - (a) in a case where the licence in question is a LGV Community licence or a PCV Community licence, the holder shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods or passenger-carrying vehicle (as the case may be) from such date as is specified in a notice served on the holder by the Secretary of State; and
 > - (b) in any other case, revoke the licence or suspend it for such period as he thinks fit.
 
-**26.**[^key-7158c14155e90cbe7e6e5cd292aec692][^key-e68fd7bc4a31ceae5c2f0ca591314151] After section 117 there shall be inserted—
+**26.**[^c-7158c14155e90cbe7e6e5cd292aec692][^c-e68fd7bc4a31ceae5c2f0ca591314151] After section 117 there shall be inserted—
 
 > **117A. Community licences: disqualification etc.**
 >
@@ -636,7 +636,7 @@ Regulation 2
 > - (a) in a case where notice is served in pursuance of section 115A(1) of this Act on a Community licence holder on the ground of his conduct as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive large goods vehicles of the prescribed classes and passenger-carrying vehicles of the prescribed classes; and
 > - (b) in a case where notice is served in pursuance of section 115A(1) of this Act on a holder of a PCV Community licence on the ground of his conduct otherwise than as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive passenger-carrying vehicles of the prescribed classes.
 
-**27.**[^key-2dc1b1ad77390e8952a492337a7d22c3][^key-330bedf2464160dbbe47b32de4c4a782] (1) Section 119 (appeals to magistrates' court or sheriff) shall be amended as follows.
+**27.**[^c-2dc1b1ad77390e8952a492337a7d22c3][^c-330bedf2464160dbbe47b32de4c4a782] (1) Section 119 (appeals to magistrates' court or sheriff) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -646,7 +646,7 @@ Regulation 2
 
 (3) In subsection (2), for “subsection (1)(a) or (b) above” there shall be substituted “subsection (1) above (except under paragraph (c) of that subsection)”.
 
-**28.**[^key-6d6995c5b44f7cd4b08428fc07d3745b][^key-d72b409e570371a49810248ef3a7b461] (1) Section 121 (interpretation) shall be amended as follows.
+**28.**[^c-6d6995c5b44f7cd4b08428fc07d3745b][^c-d72b409e570371a49810248ef3a7b461] (1) Section 121 (interpretation) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -659,7 +659,7 @@ Regulation 2
   >   including, in either case, such conduct in Northern Ireland;
 
   ,
-- (b)[^key-4616d89903850cc24096b80b5361e9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4616d89903850cc24096b80b5361e9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for the definition of “large goods vehicle” there shall be substituted—
 
   > - “large goods vehicle” means a motor vehicle (not being a medium-sized goods vehicle within the meaning of Part III of this Act) which is constructed or adapted to carry or to haul goods and the permissible maximum weight of which exceeds 7.5 tonnes;
@@ -668,7 +668,7 @@ Regulation 2
 - (d) at the end of the definition of “passenger-carrying vehicle” there shall be inserted “and includes a combination of such a motor vehicle and a trailer”, and
 - (e) for the words from “and “articulated”” onwards there shall be substituted “and “permissible maximum weight” has the same meaning as in Part III of this Act.”
 
-**29.**[^key-0b771a755673119f51c06b5f06552899][^key-21a89af92c12e5f32820ffa1cd50e04b] After section 141 there shall be inserted—
+**29.**[^c-0b771a755673119f51c06b5f06552899][^c-21a89af92c12e5f32820ffa1cd50e04b] After section 141 there shall be inserted—
 
 > **141A. Meaning of “motor car”.**
 >
@@ -679,7 +679,7 @@ Regulation 2
 >
 > (2) In subsection (1) above “maximum gross weight” has the same meaning as in Part III of this Act.
 
-**30.**[^key-26208c1bd76bc4cc28c1e310c86a3db7][^key-f643ec1fcef197c33d63a08c946c1085] (1) Section 164 (power of constables to require production of driving licence etc.)[^f00028] shall be amended as follows.
+**30.**[^c-26208c1bd76bc4cc28c1e310c86a3db7][^c-f643ec1fcef197c33d63a08c946c1085] (1) Section 164 (power of constables to require production of driving licence etc.)[^f00028] shall be amended as follows.
 
 (2) In subsection (3)—
 
@@ -701,27 +701,27 @@ Regulation 2
 >
 > and “Community licence”, “counterpart”, “provisional licence”, “training course for motor cyclists” and, in relation to such a course, “the prescribed certificate of completion” have the same meanings as in Part III of this Act.
 
-**31.**[^key-3aa2e0e1deedd0109c98a5b0ed708237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-3aa2e0e1deedd0109c98a5b0ed708237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-ddeab1320ca5cd7ff405ae0ed56dda95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-ddeab1320ca5cd7ff405ae0ed56dda95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-0bb4666ecfd819c3d558248d2ff3a82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-0bb4666ecfd819c3d558248d2ff3a82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-0ff6acdae63336191047e9bf58831de5][^key-4713743710b6d882c7b5cb4886293ed7] In section 183 (application of Act to Crown), in subsection (4), for the words “motor cycles”, wherever they occur, there shall be substituted “motor bicycles”.
+**34.**[^c-0ff6acdae63336191047e9bf58831de5][^c-4713743710b6d882c7b5cb4886293ed7] In section 183 (application of Act to Crown), in subsection (4), for the words “motor cycles”, wherever they occur, there shall be substituted “motor bicycles”.
 
-**35.**[^key-a5d01031389d0b82cb15ed545e46bb71] In section 193A (tramcars and trolley vehicles)[^f00032], in subsection (2)(b), after “48” there shall be inserted “91A, 91B,”.
+**35.**[^c-a5d01031389d0b82cb15ed545e46bb71] In section 193A (tramcars and trolley vehicles)[^f00032], in subsection (2)(b), after “48” there shall be inserted “91A, 91B,”.
 
 ## SCHEDULE 2 — AMENDMENTS TO THE ROAD TRAFFIC OFFENDERS ACT 1988
 
 Regulation 3
 
-**1.**[^key-046e4beefbcd7678ba4f37f94fad1639] In section 3 (restriction on institution of proceedings for certain offences), after subsection (2) there shall be inserted—
+**1.**[^c-046e4beefbcd7678ba4f37f94fad1639] In section 3 (restriction on institution of proceedings for certain offences), after subsection (2) there shall be inserted—
 
 > (2A) In subsection (2) above the reference to section 94(3) of the Road Traffic Act 1988 includes a reference to that section as applied by section 99D of that Act.
 
-**2.**[^key-61264c59d8f8b366cc54744c58139df8] In section 26 (interim disqualification)[^f00033], in subsection (10), for “and 47(2)” there shall be substituted “, 47(2) and 91A(5)”.
+**2.**[^c-61264c59d8f8b366cc54744c58139df8] In section 26 (interim disqualification)[^f00033], in subsection (10), for “and 47(2)” there shall be substituted “, 47(2) and 91A(5)”.
 
-**3.**[^key-e23fdf2cf1beb8c84ba56899f05c30ef] (1) Section 36 (disqualification until test is passed)[^f00034] shall be amended as follows.
+**3.**[^c-e23fdf2cf1beb8c84ba56899f05c30ef] (1) Section 36 (disqualification until test is passed)[^f00034] shall be amended as follows.
 
 (2) In subsection (11)—
 
@@ -734,7 +734,7 @@ Regulation 3
 
 > (11A) In subsection (11) above “designated country or territory” means a country or territory designated under section 108(2) of the Road Traffic Act 1988.
 
-**4.**[^key-0de4f41fa058ab5c44c4e758a3c498de] After section 91 there shall be inserted—
+**4.**[^c-0de4f41fa058ab5c44c4e758a3c498de] After section 91 there shall be inserted—
 
 > **91A. Application to Community licence holders.**
 >
@@ -768,14 +768,14 @@ Regulation 3
 >
 > (10) In this section “period of disqualification” means, in relation to a Community licence holder, the period for which he is ordered by the court to be disqualified (otherwise than under section 36 of this Act).
 
-**5.**[^key-9943df07591ac4d62794a53237532c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9943df07591ac4d62794a53237532c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1ecf7731fde27273b7593cee1735229e] In section 98 (interpretation)[^f00035] —
+**6.**[^c-1ecf7731fde27273b7593cee1735229e] In section 98 (interpretation)[^f00035] —
 
-- (a)[^key-0df9d57e4516703a46059e473f29a337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0df9d57e4516703a46059e473f29a337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) at the end of that subsection there shall be inserted “and “Community licence”, “counterpart” and “EEA State” have the same meanings as in Part III of the Road Traffic Act 1988”.
 
-**7.**[^key-b0a7b115ee8e92e448478fe90d731640] In Schedule 1 (offences to which sections 1, 6, 11 and 12(1) of the Act apply)[^f00036], in the Table—
+**7.**[^c-b0a7b115ee8e92e448478fe90d731640] In Schedule 1 (offences to which sections 1, 6, 11 and 12(1) of the Act apply)[^f00036], in the Table—
 
 - (a) in the entry for section 94(3) of the Road Traffic Act 1988 (the “RTA”), in column 1, at the end there shall be inserted “and that subsection as applied by RTA section 99D”,
 - (b) in the entry for section 94(3A) of that Act, in column 1, at the end there shall be inserted “and that subsection as applied by RTA section 99D(b)”,
@@ -787,7 +787,7 @@ Regulation 3
   > | RTA section 99B(11). | Driving after failure to comply with a requirement under section 99B(6), (7) or (10). | Section 6 of this Act. |
 - (e) in the entries for section 114(1) of that Act, for the words “or PCV driver’s licence” there shall be subsituted “PCV licence or LGV Community licence”.
 
-**8.**[^key-1dca27b287e4d627e6c579642edbf813] In Schedule 2 (prosecution and punishment of offences)[^f00037], in Part I—
+**8.**[^c-1dca27b287e4d627e6c579642edbf813] In Schedule 2 (prosecution and punishment of offences)[^f00037], in Part I—
 
 - (a) in the entry for section 94(3) of the Road Traffic Act 1988 (the “RTA”), in column 2, at the end there shall be inserted “and that subsection as applied by RTA section 99D”,
 - (b) in the entry for section 94(3A) of that Act, in column 2, at the end there shall be inserted “and that subsection as applied by RTA section 99D(b)”,
@@ -811,7 +811,7 @@ Regulation 3
 
 Regulation 4
 
-**1.**[^key-d04ab3e1506799682e7b154c09275db2][^key-201ab8beea64ddbe2d14061a8624a1cf] (1) Section 18 (exemption from PSV operator and driver licensing requirements of vehicles used under permits)[^f00038] shall be amended as follows.
+**1.**[^c-d04ab3e1506799682e7b154c09275db2][^c-201ab8beea64ddbe2d14061a8624a1cf] (1) Section 18 (exemption from PSV operator and driver licensing requirements of vehicles used under permits)[^f00038] shall be amended as follows.
 
 (2) At the beginning there shall be inserted “(1)”.
 
@@ -836,15 +836,15 @@ Regulation 4
 > - “Community licence” has the same meaning as in Part III of the Road Traffic Act 1988, and
 > - “small bus” has the same meaning as in sections 19 to 21 of this Act.
 
-**2.**[^key-bab28e7f5dcedf4b0f59fc995dfd19d8] In section 23 (further provision with respect to community bus permits)[^f00039], in subsection (2), in paragraph (b), after “licence” there shall be inserted “or PCV Community licence”.
+**2.**[^c-bab28e7f5dcedf4b0f59fc995dfd19d8] In section 23 (further provision with respect to community bus permits)[^f00039], in subsection (2), in paragraph (b), after “licence” there shall be inserted “or PCV Community licence”.
 
 ## SCHEDULE 4 — MINOR AND CONSEQUENTIAL AMENDMENTS TO OTHER ENACTMENTS
 
 Regulation 5
 
-**1.**[^key-27af18ed60d2259658f78ae95ce55418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-27af18ed60d2259658f78ae95ce55418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-80fb9cc4406e72d2802c01a939b6cef2] (1) The Local Government (Miscellaneous Provisions) Act 1976[^f00042] shall be amended as follows.
+**2.**[^c-80fb9cc4406e72d2802c01a939b6cef2] (1) The Local Government (Miscellaneous Provisions) Act 1976[^f00042] shall be amended as follows.
 
 (2) In section 51 (licensing of drivers of private hire vehicles)[^f00043] in subsection (1), for paragraph (b) there shall be substituted—
 
@@ -867,7 +867,7 @@ Regulation 5
 > - (a) he holds a licence granted under Part III of the Road Traffic Act 1988 (not being a provisional licence) authorising him to drive a motor car, or
 > - (b) he is authorised by virtue of section 99A(1) of that Act to drive in Great Britain a motor car.
 
-**3.**[^key-3d0d81ade19f48d218a3614cf606e84e] In Schedule 1 to the Energy Act 1976[^f00044] (relaxations of road traffic and transport law permissible under section 4(2)), for paragraph 2[^f00045] there shall be substituted—
+**3.**[^c-3d0d81ade19f48d218a3614cf606e84e] In Schedule 1 to the Energy Act 1976[^f00044] (relaxations of road traffic and transport law permissible under section 4(2)), for paragraph 2[^f00045] there shall be substituted—
 
 > **2.** (1) A person acting under and in accordance with such an authority may—
 >
@@ -880,9 +880,9 @@ Regulation 5
 > - “licence” means a licence under that Part or a Community licence; and
 > - “passenger-carrying vehicle” has the same meaning as in Part IV of that Act.
 
-**4.**[^key-3a10ca0f989d0ee47b2f07818b194309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3a10ca0f989d0ee47b2f07818b194309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8ee0c1a383508c966ca96271981b3279] (1) The Road Traffic (New Drivers) Act 1995[^f00048] shall be amended as follows.
+**5.**[^c-8ee0c1a383508c966ca96271981b3279] (1) The Road Traffic (New Drivers) Act 1995[^f00048] shall be amended as follows.
 
 (2) In section 1 (probationary period for newly qualified drivers), in subsection (2)(b), for the words from “another” onwards there shall be substituted—
 
@@ -893,7 +893,7 @@ Regulation 5
 
 (3) In section 9 (interpretation etc), in subsection (4), for the words from “as it applies” onwards there shall be substituted “as it applies to a notice served under Part III or IV of that Act”.
 
-**6.**[^key-978f70e3a569ff4f2f787b47eec526cc] (1) Section 248 of the Criminal Procedure (Scotland) Act 1995 (disqualification where vehicle used for purposes of offence)[^f00049] shall be amended as follows.
+**6.**[^c-978f70e3a569ff4f2f787b47eec526cc] (1) Section 248 of the Criminal Procedure (Scotland) Act 1995 (disqualification where vehicle used for purposes of offence)[^f00049] shall be amended as follows.
 
 (2) For subsection (2) there shall be substituted—
 
@@ -911,7 +911,7 @@ Regulation 5
 
 Regulation 6
 
-**1.**[^key-bbf56ae93614fbedf7693033ea5f38e9] (1) Article 2 (visitors' driving permits)[^f00050] shall be amended as follows.
+**1.**[^c-bbf56ae93614fbedf7693033ea5f38e9] (1) Article 2 (visitors' driving permits)[^f00050] shall be amended as follows.
 
 (2) In paragraphs (2) to (4), for the words “a Member State of the European Economic Community”, in each place where they occur, there shall be substituted “an EEA State”.
 
@@ -952,45 +952,45 @@ The principal changes made are as follows—
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) section 1(2) of this Act is amended to enable regulations to be made under section 2(2) to implement obligations of the United Kingdom arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1994 (Cm 2183).
 
-[^key-bb8b1eae6985e8c4b797caba6da50593]: Commencement: Reg. 1 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-bb8b1eae6985e8c4b797caba6da50593]: Commencement: Reg. 1 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00003]: Footnote: OJ No L237, 24.8.91, p.1.
 
-[^key-420d91c336d0074d8970e2e286a50552]: Commencement: Reg. 2 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-420d91c336d0074d8970e2e286a50552]: Commencement: Reg. 2 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-5242ba860ea26a009a5046d9b6c164fb]: Commencement: Reg. 2 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-5242ba860ea26a009a5046d9b6c164fb]: Commencement: Reg. 2 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00004]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Relevant amendments are referred to where appropriate below. Amending statutes and instruments are referred to in the footnotes to these Regulations in the following manner: “the 1989 Act” means the Road Traffic (Driver Licensing and Information Systems) Act [1989 (c. 22)](https://www.legislation.gov.uk/ukpga/1989/22); “the 1990 Regulations” means the Driving Licences (Community Driving Licence) Regulations 1990 ([S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144)); “the 1991 Act” means the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40).
 
-[^key-e7edbf662ec2c467c88bc1659abe80d3]: Commencement: Reg. 3 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-e7edbf662ec2c467c88bc1659abe80d3]: Commencement: Reg. 3 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00005]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53). Relevant amendments are referred to where appropriate below.
 
-[^key-29cbe200b97d3caab9521ccb2e7e70d3]: Commencement: Reg. 4 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-29cbe200b97d3caab9521ccb2e7e70d3]: Commencement: Reg. 4 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-6b9145e74dde9a9559628fff60667802]: Commencement: Reg. 4 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-6b9145e74dde9a9559628fff60667802]: Commencement: Reg. 4 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00006]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67). Relevant amendments are referred to where appropriate below.
 
-[^key-84880f337778616229c0b0a6f30a1ffa]: Commencement: Reg. 5 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-84880f337778616229c0b0a6f30a1ffa]: Commencement: Reg. 5 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-97f66d93e9d50f7b22a4cee33f847d58]: Commencement: Reg. 6 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-97f66d93e9d50f7b22a4cee33f847d58]: Commencement: Reg. 6 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00007]: Footnote: [S.I. 1975/1208](https://www.legislation.gov.uk/uksi/1975/1208). Relevant amendments are referred to where appropriate below.
 
-[^key-72497bf57003d7e79ed5abd5f47469a4]: Commencement: Sch. 1 para. 1 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-72497bf57003d7e79ed5abd5f47469a4]: Commencement: Sch. 1 para. 1 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-f9a51710aea608fc9ecd149bdf0ac1d0]: Commencement: Sch. 1 para. 1 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-f9a51710aea608fc9ecd149bdf0ac1d0]: Commencement: Sch. 1 para. 1 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00008]: Footnote: Substituted by section 3(2) of the 1989 Act.
 
 [^f00009]: Footnote: Inserted by section 3(3) of the 1989 Act.
 
-[^key-5b36bba904d3129c832f1dc3b4103705]: Commencement: Sch. 1 para. 2(1)-(4)(7)(9)(10) in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-5b36bba904d3129c832f1dc3b4103705]: Commencement: Sch. 1 para. 2(1)-(4)(7)(9)(10) in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-f13207e3bed7ab9b0751e0f51bd4a3e7]: Commencement: Sch. 1 para. 2(1)-(4)(7)(9)(10) in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-f13207e3bed7ab9b0751e0f51bd4a3e7]: Commencement: Sch. 1 para. 2(1)-(4)(7)(9)(10) in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-6c89141927a704596677c7620bb1f51d]: Commencement: Sch. 1 para. 2(5)(6)(8) in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+[^c-6c89141927a704596677c7620bb1f51d]: Commencement: Sch. 1 para. 2(5)(6)(8) in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
 
 [^f00010]: Footnote: Paragraphs (a) to (f) were inserted by section 4(1) of the 1989 Act.
 
@@ -1002,29 +1002,29 @@ The principal changes made are as follows—
 
 [^f00014]: Footnote: Subsections (9), (10) and (11) were substituted by paragraph 8 of Schedule 3 to the 1989 Act.
 
-[^key-88acf6e4e016b9962187af3782ec1d00]: Commencement: Sch. 1 para. 3(1)(3)(4)(5) in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-88acf6e4e016b9962187af3782ec1d00]: Commencement: Sch. 1 para. 3(1)(3)(4)(5) in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-ef3adcf25e8b392331c4cc6961e87255]: Commencement: Sch. 1 para. 3(1)(3)(4)(5) in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-ef3adcf25e8b392331c4cc6961e87255]: Commencement: Sch. 1 para. 3(1)(3)(4)(5) in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-98bf9897c3ee26b98799b17f4e8faa7e]: Commencement: Sch. 1 para. 3(2) in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+[^c-98bf9897c3ee26b98799b17f4e8faa7e]: Commencement: Sch. 1 para. 3(2) in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
 
-[^key-02272fb6de28c0ce8304dffbc3ae0bef]: Textual amendment: [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/3/4) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
+[^c-02272fb6de28c0ce8304dffbc3ae0bef]: Textual amendment: [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/3/4) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
 
 [^f00016]: Footnote: Subsections (7A) to (7C) were inserted by section 5(4) of the 1989 Act.
 
-[^key-5165a0b7010dbeb875106ad05146592e]: Commencement: Sch. 1 para. 4 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-5165a0b7010dbeb875106ad05146592e]: Commencement: Sch. 1 para. 4 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-71fdd75af9d73905d9885ad37cfc9321]: Commencement: Sch. 1 para. 4 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-71fdd75af9d73905d9885ad37cfc9321]: Commencement: Sch. 1 para. 4 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-45d2837332c89dc0493331d13da4949d]: Commencement: Sch. 1 para. 5 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-45d2837332c89dc0493331d13da4949d]: Commencement: Sch. 1 para. 5 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-b4ee889888601e2d3ae7bdd9d0a7f775]: Commencement: Sch. 1 para. 5 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-b4ee889888601e2d3ae7bdd9d0a7f775]: Commencement: Sch. 1 para. 5 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00017]: Footnote: Inserted by section 18(3) of the 1991 Act.
 
-[^key-0865b2e5dcecb6fb4ce7c914f428e83b]: Commencement: Sch. 1 para. 6 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-0865b2e5dcecb6fb4ce7c914f428e83b]: Commencement: Sch. 1 para. 6 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-4faba7d56fce4426fd48daebba2bc691]: Commencement: Sch. 1 para. 6 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-4faba7d56fce4426fd48daebba2bc691]: Commencement: Sch. 1 para. 6 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00018]: Footnote: The relevant amendments are made by paragraph 9 of Schedule 3 to the 1989 Act and by the 1990 Regulations.
 
@@ -1032,198 +1032,198 @@ The principal changes made are as follows—
 
 [^f00020]: Footnote: Inserted by section 6(2)(c) of the 1989 Act.
 
-[^key-ee3581366931070be65932d13ade63e5]: Commencement: Sch. 1 para. 7 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-ee3581366931070be65932d13ade63e5]: Commencement: Sch. 1 para. 7 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-ab5d6c51feea7f35c57d9bbc2247977a]: Commencement: Sch. 1 para. 7 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-ab5d6c51feea7f35c57d9bbc2247977a]: Commencement: Sch. 1 para. 7 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-d9741f40dfdce6721debc0a3d73191f5]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/7/2) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
+[^c-d9741f40dfdce6721debc0a3d73191f5]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/7/2) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
 
 [^f00022]: Footnote: Amended by paragraph 11 of Schedule 3 to the 1989 Act.
 
-[^key-658cad518dedc799af086e76e50463e5]: Commencement: Sch. 1 para. 8 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-658cad518dedc799af086e76e50463e5]: Commencement: Sch. 1 para. 8 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-388633c5058c9d11669cb8de515e3d4e]: Commencement: Sch. 1 para. 8 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-388633c5058c9d11669cb8de515e3d4e]: Commencement: Sch. 1 para. 8 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-c87a739415201b514a0200cd7c1ece80]: Commencement: Sch. 1 para. 9 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-c87a739415201b514a0200cd7c1ece80]: Commencement: Sch. 1 para. 9 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-2d86abcf2717ff5ff3e0c6ed667eb51e]: Commencement: Sch. 1 para. 9 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-2d86abcf2717ff5ff3e0c6ed667eb51e]: Commencement: Sch. 1 para. 9 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-778d6a22dee89cd9be3ccd0f93e1ce60]: Commencement: Sch. 1 para. 10 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-778d6a22dee89cd9be3ccd0f93e1ce60]: Commencement: Sch. 1 para. 10 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-acdc4e616f0cc6b12687ea6aefbffff8]: Commencement: Sch. 1 para. 10 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-acdc4e616f0cc6b12687ea6aefbffff8]: Commencement: Sch. 1 para. 10 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-500b7b7909348e9317d36837fe7ef5fa]: Commencement: Sch. 1 para. 11 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-500b7b7909348e9317d36837fe7ef5fa]: Commencement: Sch. 1 para. 11 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-246e72f52ecb6351b4286a771134d2e6]: Commencement: Sch. 1 para. 11 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-246e72f52ecb6351b4286a771134d2e6]: Commencement: Sch. 1 para. 11 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-490c9bac8e18c6c41e987e3bc210e41b]: Commencement: Sch. 1 para. 12 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-490c9bac8e18c6c41e987e3bc210e41b]: Commencement: Sch. 1 para. 12 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-36a47d4879e97631e9fc96c6dd9f5ac6]: Commencement: Sch. 1 para. 12 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-36a47d4879e97631e9fc96c6dd9f5ac6]: Commencement: Sch. 1 para. 12 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00023]: Footnote: Subsection (3A) was inserted by section 18(2) of the 1991 Act; subsections (4) and (5)(c) were amended by section 5(7) and (8) of the 1989 Act.
 
-[^key-741ad09b5b15b6fdac7c9cb66713561f]: Commencement: Sch. 1 para. 13 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-741ad09b5b15b6fdac7c9cb66713561f]: Commencement: Sch. 1 para. 13 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-9bab6404918cda07fdca477cef83c121]: Commencement: Sch. 1 para. 13 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-9bab6404918cda07fdca477cef83c121]: Commencement: Sch. 1 para. 13 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-d1f0dd7bf9a0ad00b6d0a9c183594f7c]: Commencement: Sch. 1 para. 14 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-d1f0dd7bf9a0ad00b6d0a9c183594f7c]: Commencement: Sch. 1 para. 14 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-3841bfa71b071780230fbde41081de2e]: Commencement: Sch. 1 para. 14 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-3841bfa71b071780230fbde41081de2e]: Commencement: Sch. 1 para. 14 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-cf65abc5feda5686730174c20247ed58]: Commencement: Sch. 1 para. 15 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-cf65abc5feda5686730174c20247ed58]: Commencement: Sch. 1 para. 15 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-73063fe9e75bcf1bf16e612ac223dd46]: Commencement: Sch. 1 para. 15 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-73063fe9e75bcf1bf16e612ac223dd46]: Commencement: Sch. 1 para. 15 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-7243936ee05cd43834a0d7289a7f2163]: Commencement: Sch. 1 para. 16 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-7243936ee05cd43834a0d7289a7f2163]: Commencement: Sch. 1 para. 16 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-7ac80b83690310676ae6ef93a29a4c24]: Commencement: Sch. 1 para. 16 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-7ac80b83690310676ae6ef93a29a4c24]: Commencement: Sch. 1 para. 16 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-3b517b05b0d1d9e22f7efe4554c56325]: Commencement: Sch. 1 para. 17 in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+[^c-3b517b05b0d1d9e22f7efe4554c56325]: Commencement: Sch. 1 para. 17 in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
 
 [^f00024]: Footnote: Amended by paragraph 14 of Schedule 3 to the 1989 Act and by the 1990 Regulations.
 
-[^key-850ee232df10981e251d62e0afa74216]: Textual amendment: [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/17/b) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+[^c-850ee232df10981e251d62e0afa74216]: Textual amendment: [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/17/b) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^key-3f9ee19dac3a01d5ce667b5af78e7960]: Commencement: Sch. 1 para. 18 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-3f9ee19dac3a01d5ce667b5af78e7960]: Commencement: Sch. 1 para. 18 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-1d8dc2c836ef3ce48f4a33e4b81ed322]: Commencement: Sch. 1 para. 18 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-1d8dc2c836ef3ce48f4a33e4b81ed322]: Commencement: Sch. 1 para. 18 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-066df0d50c0a31ff02d32f8cb4285b95]: Commencement: Sch. 1 para. 19 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-066df0d50c0a31ff02d32f8cb4285b95]: Commencement: Sch. 1 para. 19 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-eaa6d341f48f565ad71a9fe6cb49ea1b]: Commencement: Sch. 1 para. 19 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-eaa6d341f48f565ad71a9fe6cb49ea1b]: Commencement: Sch. 1 para. 19 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00025]: Footnote: The definition of “licence” was amended by the 1990 Regulations and the definition of “full licence” was inserted by paragraph 15 of Schedule 3 to the 1989 Act.
 
-[^key-6345e1f2828f77ce2260172f6a6e609a]: Textual amendment: [Sch. 1 para. 19(2)(c)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/19/2/c) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+[^c-6345e1f2828f77ce2260172f6a6e609a]: Textual amendment: [Sch. 1 para. 19(2)(c)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/19/2/c) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^key-85961e0889159343ec166f36915264e2]: Commencement: Sch. 1 para. 20 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-85961e0889159343ec166f36915264e2]: Commencement: Sch. 1 para. 20 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-fec9777f6b20bd0316aae5f59cfab903]: Commencement: Sch. 1 para. 20 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-fec9777f6b20bd0316aae5f59cfab903]: Commencement: Sch. 1 para. 20 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00026]: Footnote: Sections 110 to 121 were substituted by Schedule 2 to the 1989 Act.
 
-[^key-9fd868da8306e1212ff60afa97fac17e]: Commencement: Sch. 1 para. 21 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-9fd868da8306e1212ff60afa97fac17e]: Commencement: Sch. 1 para. 21 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-bf6cbcb8ae88c708e98feaf4813ffe90]: Commencement: Sch. 1 para. 21 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-bf6cbcb8ae88c708e98feaf4813ffe90]: Commencement: Sch. 1 para. 21 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-6cb75af239dc7bdec3903812dc41572f]: Commencement: Sch. 1 para. 22 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-6cb75af239dc7bdec3903812dc41572f]: Commencement: Sch. 1 para. 22 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-584aede8963299bc8fe8fa5d7bd2ac16]: Commencement: Sch. 1 para. 22 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-584aede8963299bc8fe8fa5d7bd2ac16]: Commencement: Sch. 1 para. 22 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-6196d6c0258436c370a12a4e719ab0d2]: Commencement: Sch. 1 para. 23 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-6196d6c0258436c370a12a4e719ab0d2]: Commencement: Sch. 1 para. 23 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-f8752c86ba886c2e0c50ffa39b195536]: Commencement: Sch. 1 para. 23 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-f8752c86ba886c2e0c50ffa39b195536]: Commencement: Sch. 1 para. 23 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00027]: Footnote: Amended by paragraph 64 of Schedule 4 to the 1991 Act.
 
-[^key-93bb5829f608c657e41b4f33de50b079]: Commencement: Sch. 1 para. 24 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-93bb5829f608c657e41b4f33de50b079]: Commencement: Sch. 1 para. 24 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-046ca525c0f4a3328deb78fe21c95cda]: Commencement: Sch. 1 para. 24 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-046ca525c0f4a3328deb78fe21c95cda]: Commencement: Sch. 1 para. 24 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-c6a4adaf61bf47a0865abd84e03e9641]: Commencement: Sch. 1 para. 25 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-c6a4adaf61bf47a0865abd84e03e9641]: Commencement: Sch. 1 para. 25 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-1ffe4ad94680b06aae080ec42303ec48]: Commencement: Sch. 1 para. 25 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-1ffe4ad94680b06aae080ec42303ec48]: Commencement: Sch. 1 para. 25 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-7158c14155e90cbe7e6e5cd292aec692]: Commencement: Sch. 1 para. 26 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-7158c14155e90cbe7e6e5cd292aec692]: Commencement: Sch. 1 para. 26 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-e68fd7bc4a31ceae5c2f0ca591314151]: Commencement: Sch. 1 para. 26 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-e68fd7bc4a31ceae5c2f0ca591314151]: Commencement: Sch. 1 para. 26 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-2dc1b1ad77390e8952a492337a7d22c3]: Commencement: Sch. 1 para. 27 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-2dc1b1ad77390e8952a492337a7d22c3]: Commencement: Sch. 1 para. 27 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-330bedf2464160dbbe47b32de4c4a782]: Commencement: Sch. 1 para. 27 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-330bedf2464160dbbe47b32de4c4a782]: Commencement: Sch. 1 para. 27 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-6d6995c5b44f7cd4b08428fc07d3745b]: Commencement: Sch. 1 para. 28 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-6d6995c5b44f7cd4b08428fc07d3745b]: Commencement: Sch. 1 para. 28 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-d72b409e570371a49810248ef3a7b461]: Commencement: Sch. 1 para. 28 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-d72b409e570371a49810248ef3a7b461]: Commencement: Sch. 1 para. 28 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-4616d89903850cc24096b80b5361e9e4]: Textual amendment: [Sch. 1 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/28/2/b) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+[^c-4616d89903850cc24096b80b5361e9e4]: Textual amendment: [Sch. 1 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/28/2/b) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^key-0b771a755673119f51c06b5f06552899]: Commencement: Sch. 1 para. 29 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-0b771a755673119f51c06b5f06552899]: Commencement: Sch. 1 para. 29 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-21a89af92c12e5f32820ffa1cd50e04b]: Commencement: Sch. 1 para. 29 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-21a89af92c12e5f32820ffa1cd50e04b]: Commencement: Sch. 1 para. 29 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-26208c1bd76bc4cc28c1e310c86a3db7]: Commencement: Sch. 1 para. 30 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-26208c1bd76bc4cc28c1e310c86a3db7]: Commencement: Sch. 1 para. 30 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-f643ec1fcef197c33d63a08c946c1085]: Commencement: Sch. 1 para. 30 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-f643ec1fcef197c33d63a08c946c1085]: Commencement: Sch. 1 para. 30 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00028]: Footnote: Amended by paragraph 18 of Schedule 3 to the 1989 Act, by the 1990 Regulations and by paragraph 68 of Schedule 4 to the 1991 Act.
 
-[^key-3aa2e0e1deedd0109c98a5b0ed708237]: Textual amendment: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/31) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+[^c-3aa2e0e1deedd0109c98a5b0ed708237]: Textual amendment: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/31) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^key-ddeab1320ca5cd7ff405ae0ed56dda95]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/32) revoked (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1 Table 2](https://www.legislation.gov.uk/uksi/2015/583/schedule/1)
+[^c-ddeab1320ca5cd7ff405ae0ed56dda95]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/32) revoked (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1 Table 2](https://www.legislation.gov.uk/uksi/2015/583/schedule/1)
 
-[^key-0bb4666ecfd819c3d558248d2ff3a82f]: Textual amendment: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/33) revoked (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1 Table 2](https://www.legislation.gov.uk/uksi/2015/583/schedule/1)
+[^c-0bb4666ecfd819c3d558248d2ff3a82f]: Textual amendment: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/33) revoked (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1 Table 2](https://www.legislation.gov.uk/uksi/2015/583/schedule/1)
 
-[^key-0ff6acdae63336191047e9bf58831de5]: Commencement: Sch. 1 para. 34 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-0ff6acdae63336191047e9bf58831de5]: Commencement: Sch. 1 para. 34 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-4713743710b6d882c7b5cb4886293ed7]: Commencement: Sch. 1 para. 34 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-4713743710b6d882c7b5cb4886293ed7]: Commencement: Sch. 1 para. 34 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-a5d01031389d0b82cb15ed545e46bb71]: Commencement: Sch. 1 para. 35 in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+[^c-a5d01031389d0b82cb15ed545e46bb71]: Commencement: Sch. 1 para. 35 in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
 
 [^f00032]: Footnote: Inserted by section 46(2) of the 1991 Act.
 
-[^key-046e4beefbcd7678ba4f37f94fad1639]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/1) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-046e4beefbcd7678ba4f37f94fad1639]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/1) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-61264c59d8f8b366cc54744c58139df8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/2) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-61264c59d8f8b366cc54744c58139df8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/2) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00033]: Footnote: Substituted by section 25 of the 1991 Act.
 
-[^key-e23fdf2cf1beb8c84ba56899f05c30ef]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/3) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-e23fdf2cf1beb8c84ba56899f05c30ef]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/3) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00034]: Footnote: Substituted by section 32 of the 1991 Act.
 
-[^key-0de4f41fa058ab5c44c4e758a3c498de]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/4) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-0de4f41fa058ab5c44c4e758a3c498de]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/4) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
-[^key-9943df07591ac4d62794a53237532c02]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/5) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+[^c-9943df07591ac4d62794a53237532c02]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/5) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^key-1ecf7731fde27273b7593cee1735229e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/6) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-1ecf7731fde27273b7593cee1735229e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/6) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00035]: Footnote: The definition of “licence” was amended by the 1990 Regulations.
 
-[^key-0df9d57e4516703a46059e473f29a337]: Textual amendment: [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/6/a) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+[^c-0df9d57e4516703a46059e473f29a337]: Textual amendment: [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/6/a) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^key-b0a7b115ee8e92e448478fe90d731640]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/7) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-b0a7b115ee8e92e448478fe90d731640]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/7) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00036]: Footnote: The relevant amendments are made by paragraph 27 of Schedule 3 to the 1989 Act and paragraphs 14 and 15 of Schedule 1 to the 1991 Act.
 
-[^key-1dca27b287e4d627e6c579642edbf813]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/8) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-1dca27b287e4d627e6c579642edbf813]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/8) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00037]: Footnote: The relevant amendments were made by paragraphs 28 and 29 of Schedule 3 to the 1989 Act, by the 1990 Regulations and by paragraphs 22 and 23 of Schedule 2 and Schedule 8 to the 1991 Act.
 
-[^key-d04ab3e1506799682e7b154c09275db2]: Commencement: Sch. 3 para. 1 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+[^c-d04ab3e1506799682e7b154c09275db2]: Commencement: Sch. 3 para. 1 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
 
-[^key-201ab8beea64ddbe2d14061a8624a1cf]: Commencement: Sch. 3 para. 1 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-201ab8beea64ddbe2d14061a8624a1cf]: Commencement: Sch. 3 para. 1 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00038]: Footnote: Amended by paragraph 4 of Schedule 3 to the 1989 Act.
 
-[^key-bab28e7f5dcedf4b0f59fc995dfd19d8]: Commencement: Sch. 3 para. 2 in force at 23.7.1996, see [reg. 1(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/ii)
+[^c-bab28e7f5dcedf4b0f59fc995dfd19d8]: Commencement: Sch. 3 para. 2 in force at 23.7.1996, see [reg. 1(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/ii)
 
 [^f00039]: Footnote: Amended by paragraph 5 of Schedule 3 to the 1989 Act.
 
-[^key-27af18ed60d2259658f78ae95ce55418]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/1) revoked (25.8.2000) by [Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), [s. 168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/II) (with [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/part/I))
+[^c-27af18ed60d2259658f78ae95ce55418]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/1) revoked (25.8.2000) by [Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), [s. 168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/II) (with [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/part/I))
 
-[^key-80fb9cc4406e72d2802c01a939b6cef2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/2) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-80fb9cc4406e72d2802c01a939b6cef2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/2) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00042]: Footnote: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 
 [^f00043]: Footnote: Sections 51 and 59 were amended by paragraph 16(3) and (4) of Schedule 3 to the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54) and section 47(1) of the 1991 Act.
 
-[^key-3d0d81ade19f48d218a3614cf606e84e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/3) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-3d0d81ade19f48d218a3614cf606e84e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/3) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00044]: Footnote: [1976 c. 76](https://www.legislation.gov.uk/ukpga/1976/76).
 
 [^f00045]: Footnote: Substituted by paragraph 1 of Schedule 3 to the 1989 Act.
 
-[^key-3a10ca0f989d0ee47b2f07818b194309]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/4) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+[^c-3a10ca0f989d0ee47b2f07818b194309]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/4) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
 
-[^key-8ee0c1a383508c966ca96271981b3279]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/5) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-8ee0c1a383508c966ca96271981b3279]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/5) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00048]: Footnote: [1995 c. 13](https://www.legislation.gov.uk/ukpga/1995/13).
 
-[^key-978f70e3a569ff4f2f787b47eec526cc]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/6) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-978f70e3a569ff4f2f787b47eec526cc]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/6) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00049]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-bbf56ae93614fbedf7693033ea5f38e9]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/5/paragraph/1) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+[^c-bbf56ae93614fbedf7693033ea5f38e9]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/5/paragraph/1) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
 
 [^f00050]: Footnote: Article 2 was substituted by Article 4 of [S.I. 1989/993](https://www.legislation.gov.uk/uksi/1989/993) and further amended by [S.I. 1991/771](https://www.legislation.gov.uk/uksi/1991/771) and [1996/1929](https://www.legislation.gov.uk/uksi/1996/1929).

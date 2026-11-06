@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Revaluation of earnings factors[^c24152001][^key-6efc6585fa31ea10b0989ea9f774b1b7]
+## 148. Revaluation of earnings factors[^c24152001][^c-6efc6585fa31ea10b0989ea9f774b1b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ and for the purposes of any such review the Secretary of State shall estimate th
 
 [^c24152001]: Modification: S. 148 extended (with effect in relation to a person who attains pensionable age after 5.4.2000) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 128(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/128/3)[(4)](https://www.legislation.gov.uk/ukpga/1995/26/section/128/4), [180(2)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/2) (with [s. 128(5)](https://www.legislation.gov.uk/ukpga/1995/26/section/128/5)[(6)](https://www.legislation.gov.uk/ukpga/1995/26/section/128/6)) (as read with [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 33(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/33/3)[(4)](https://www.legislation.gov.uk/ukpga/2000/19/section/33/4))
 
-[^key-6efc6585fa31ea10b0989ea9f774b1b7]: Modification: S. 148 modified (8.1.2001 for specified purposes, 25.1.2001 for specified purposes, 6.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/33/2), [86(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b/2); [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 6](https://www.legislation.gov.uk/uksi/2000/2950/article/6) (as amended by [S.I. 2000/3166](https://www.legislation.gov.uk/uksi/2000/3166), [art. 3](https://www.legislation.gov.uk/uksi/2000/3166/article/3)); [S.I. 2001/153](https://www.legislation.gov.uk/uksi/2001/153), [art. 2(c)](https://www.legislation.gov.uk/uksi/2001/153/article/2/c)
+[^c-6efc6585fa31ea10b0989ea9f774b1b7]: Modification: S. 148 modified (8.1.2001 for specified purposes, 25.1.2001 for specified purposes, 6.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/33/2), [86(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b/2); [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 6](https://www.legislation.gov.uk/uksi/2000/2950/article/6) (as amended by [S.I. 2000/3166](https://www.legislation.gov.uk/uksi/2000/3166), [art. 3](https://www.legislation.gov.uk/uksi/2000/3166/article/3)); [S.I. 2001/153](https://www.legislation.gov.uk/uksi/2001/153), [art. 2(c)](https://www.legislation.gov.uk/uksi/2001/153/article/2/c)
 
 [^c24152011]: Textual amendment: Words in s. 148(2) substituted (1.12.2000) by the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 37](https://www.legislation.gov.uk/ukpga/2000/19/section/37), [86](https://www.legislation.gov.uk/ukpga/2000/19/section/86); [S.I. 2000/3166](https://www.legislation.gov.uk/uksi/2000/3166), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2000/3166/article/2/2/a)
 

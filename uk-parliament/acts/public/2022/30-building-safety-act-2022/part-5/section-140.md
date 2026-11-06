@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Power to require persons to join scheme and to provide information[^key-a0fe9364fe1f0a06338ad21d6a58f22d]
+## 140. Power to require persons to join scheme and to provide information[^c-a0fe9364fe1f0a06338ad21d6a58f22d]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ In this subsection, “**developer**” has the meaning given in section 138 and
 
 ## Annotations
 
-[^key-a0fe9364fe1f0a06338ad21d6a58f22d]: Commencement: S. 140 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-a0fe9364fe1f0a06338ad21d6a58f22d]: Commencement: S. 140 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)

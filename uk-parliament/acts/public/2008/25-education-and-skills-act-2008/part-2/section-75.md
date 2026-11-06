@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Inspection[^key-3ae878ceaa26bff163f3855d2cca3587]
+## 75. Inspection[^c-3ae878ceaa26bff163f3855d2cca3587]
 
 *Extent: E+W*
 
@@ -42,13 +42,13 @@ summary: ''
 
 (6) Section 11 of the Education Act 2005 (publication of inspection reports) applies.
 
-(7)[^key-3c5c18fdae69932baa31e6d33a51fa1c] A person who wilfully obstructs a person in carrying out or participating in the inspection—
+(7)[^c-3c5c18fdae69932baa31e6d33a51fa1c] A person who wilfully obstructs a person in carrying out or participating in the inspection—
 
 - (a) is guilty of an offence, and
 - (b) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 ## Annotations
 
-[^key-3ae878ceaa26bff163f3855d2cca3587]: Commencement: S. 75 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/a)
+[^c-3ae878ceaa26bff163f3855d2cca3587]: Commencement: S. 75 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/a)
 
-[^key-3c5c18fdae69932baa31e6d33a51fa1c]: Modification: [S. 75(7)](https://www.legislation.gov.uk/ukpga/2008/25/section/75/7) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/3)
+[^c-3c5c18fdae69932baa31e6d33a51fa1c]: Modification: [S. 75(7)](https://www.legislation.gov.uk/ukpga/2008/25/section/75/7) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/3)

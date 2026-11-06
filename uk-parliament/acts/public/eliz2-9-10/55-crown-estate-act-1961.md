@@ -31,7 +31,7 @@ Crown Estate Act 1961
 
 [^c626625][^c626626]An Act to make new provision in place of the Crown Lands Acts 1829 to 1936 as to the powers exercisable by the Crown Estate Commissioners for the management of the Crown Estate, to transfer to the management of the Minister of Works certain land of the Crown Estate in Regent’s Park and extend or clarify the powers of that Minister in Regent’s Park, to amend the Forestry (Transfer of Woods) Act 1923 as it affects the Crown Estate, to amend the law as to escheated land, and for purposes connected therewith.
 
-\[27th July 1961\][^key-034de7c9582d367aaaf27df761ce5847]
+\[27th July 1961\][^c-034de7c9582d367aaaf27df761ce5847]
 
 ## 1. Continuance of Crown Estate Commissioners, and general provisions as to their constitution and functions.
 
@@ -41,13 +41,13 @@ Crown Estate Act 1961
 
 (3) It shall be the general duty of the Commissioners, while maintaining the Crown Estate as an estate in land (with such proportion of cash or investments as seems to them to be required for the discharge of their functions), to maintain and enhance its value and the return obtained from it, but with due regard to the requirements of good management.
 
-(3A)[^key-0c6879ef773cce6131d3c35d0443e100] The Commissioners must keep under review the impact of their activities on the achievement of sustainable development in the United Kingdom.
+(3A)[^c-0c6879ef773cce6131d3c35d0443e100] The Commissioners must keep under review the impact of their activities on the achievement of sustainable development in the United Kingdom.
 
 (4) The Commissioners shall comply with such directions as to the discharge of their functions under this Act as may be given to them in writing by the Chancellor of the Exchequer or the Secretary of State, but the Chancellor of the Exchequer or Secretary of State in giving directions to the Commissioners under this subsection shall have regard to subsection (3) above, and before giving any such direction shall consult the Commissioners.
 
 The Chancellor of the Exchequer and the Secretary of State shall act jointly in giving directions under this subsection, except that in matters not relating to Scotland the Chancellor of the Exchequer may act without the Secretary of State and in matters relating exclusively to Scotland the Secretary of State may act without the Chancellor of the Exchequer.
 
-(4A)[^key-6597eedbc9627444daa0fde010f32708] The powers exercisable by the Commissioners in the discharge of their functions under this Act include powers to do anything which is calculated to facilitate, or is conducive or incidental to, the discharge of those functions.
+(4A)[^c-6597eedbc9627444daa0fde010f32708] The powers exercisable by the Commissioners in the discharge of their functions under this Act include powers to do anything which is calculated to facilitate, or is conducive or incidental to, the discharge of those functions.
 
 (5) The validity of transactions entered into by the Commissioners shall not be called in question on any suggestion of their not having acted in accordance with the provisions of this Act regulating the exercise of their powers, or of their having otherwise acted in excess of their authority, nor shall any person dealing with the Commissioners be concerned to inquire as to the extent of their authority or the observance of any restrictions on the exercise of their powers.
 
@@ -61,7 +61,7 @@ Provided that an advowson shall not be taken to be comprised in any general word
 
 (1) As soon as may be after the end of each financial year, the Commissioners shall make to Her Majesty a report on the performance of their functions in that year, and shall lay a copy of that report before each House of Parliament.
 
-(1A)[^key-ee10ba960299752e31456c186d21d8da] The annual report for a year in which a partnership between the Commissioners and Great British Energy is in operation must include a report on—
+(1A)[^c-ee10ba960299752e31456c186d21d8da] The annual report for a year in which a partnership between the Commissioners and Great British Energy is in operation must include a report on—
 
 - (a) the activities of the Commissioners during the year under that partnership, and
 - (b) any effects or benefits experienced during the year which were the result of activities of the Commissioners under that partnership.
@@ -83,17 +83,17 @@ Provided that an advowson shall not be taken to be comprised in any general word
 
 ## 3. General provisions as to course of management.
 
-(1)[^key-3def658b9d732de5029645c9393f3a20][^key-0260e52e5b744a3b6c8c18b33408ddee] Save as provided by the following provisions of this Act, the Commissioners shall not sell, lease or otherwise dispose of any land of the Crown Estate, or any right or privilege over or in relation to any such land, except for the best consideration in money or money’s worth which in their opinion can reasonably be obtained, having regard to all the circumstances of the case but excluding any element of monopoly value attributable to the extent of the Crown’s ownership of comparable land.
+(1)[^c-3def658b9d732de5029645c9393f3a20][^c-0260e52e5b744a3b6c8c18b33408ddee] Save as provided by the following provisions of this Act, the Commissioners shall not sell, lease or otherwise dispose of any land of the Crown Estate, or any right or privilege over or in relation to any such land, except for the best consideration in money or money’s worth which in their opinion can reasonably be obtained, having regard to all the circumstances of the case but excluding any element of monopoly value attributable to the extent of the Crown’s ownership of comparable land.
 
-(2)[^c626628][^c2026702][^key-3def658b9d732de5029645c9393f3a20][^key-0260e52e5b744a3b6c8c18b33408ddee] The Commissioners shall not grant a lease of land of the Crown Estate, or of any right or privilege over or in relation to any such land, for a term ending more than one hundred and fifty years[^c626629] from the date of the lease, and every such lease granted by them shall be made to take effect in possession not later than twelve months after its date or in reversion after an existing lease having at that date not more than twenty-one years to run.
+(2)[^c626628][^c2026702][^c-3def658b9d732de5029645c9393f3a20][^c-0260e52e5b744a3b6c8c18b33408ddee] The Commissioners shall not grant a lease of land of the Crown Estate, or of any right or privilege over or in relation to any such land, for a term ending more than one hundred and fifty years[^c626629] from the date of the lease, and every such lease granted by them shall be made to take effect in possession not later than twelve months after its date or in reversion after an existing lease having at that date not more than twenty-one years to run.
 
 (3)[^c2026702] The Commissioners shall not, by the grant of an option or otherwise, contract to convey or create any estate or interest in, or any right or privilege over or in relation to, land of the Crown Estate at a date more than ten years after the date of the contract:
 
 Provided that this subsection shall not apply to a contract under which the consideration to be received by the Commissioners for the conveyance or creation of the estate or interest, or of the right or privilege, is to be determined at the time it is conveyed or created, and is to be determined in such manner as, in their opinion, is calculated to secure to them the best consideration in money or money’s worth which can at that date reasonably be obtained.
 
-(4)[^key-a994b52920c5c3bf2a9982624597bb6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a994b52920c5c3bf2a9982624597bb6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) The powers exercisable by the Commissioners in the management of the Crown Estate shall include power to borrow money in accordance with section[^key-e23d7795ed13c327cc7562d4dbe66c78] 3A, or otherwise with the consent of the Treasury.
+(5) The powers exercisable by the Commissioners in the management of the Crown Estate shall include power to borrow money in accordance with section[^c-e23d7795ed13c327cc7562d4dbe66c78] 3A, or otherwise with the consent of the Treasury.
 
 (6) Subsection (1) above shall not restrict the discretion of the Commissioners as to the parcels in which any land is to be disposed of, or as to the apportionment of the consideration for any disposition or of any part of that consideration between different parts of the land disposed of, nor their discretion to reserve any right or privilege over or in relation to any land disposed of, or to dispose of land subject to any convenants, conditions or restrictions; and in determining for the purposes of this section whether the consideration to be given by a person for any disposition is the best that can reasonably be obtained, the Commissioners (where it is appropriate to do so) may take into account as part of that consideration any benefit conferred on the Crown Estate by improvements or works executed on the land in question by him or another without cost to the Crown Estate.
 
@@ -101,7 +101,7 @@ Provided that this subsection shall not apply to a contract under which the cons
 
 (8) Where the Commissioners dispose of land subject to restrictions on the user of the land, the restrictions may, notwithstanding any enactment or rule of law relating to perpetuities, be made enforceable by a right of re-entry exercisable on behalf of Her Majesty on a breach of the restrictions occurring at any distance of time.
 
-## 3A. Power of the Commissioners to borrow etc[^key-2493e5105b34dface6172686c8acff74]
+## 3A. Power of the Commissioners to borrow etc[^c-2493e5105b34dface6172686c8acff74]
 
 (1) The Treasury may—
 
@@ -113,7 +113,7 @@ Provided that this subsection shall not apply to a contract under which the cons
 - (a) the Treasury may determine the rate of interest on the loan (and, accordingly, section 5 of the [National Loans Act 1968](https://www.legislation.gov.uk/ukpga/1968/13) applies), and
 - (b) the Treasury must pay any sums received in respect of the loan into the National Loans Fund.
 
-## 3B. Restriction on permanently disposing of interest in seabed etc[^key-277b266e99aade7728d2db4aac91e5c3]
+## 3B. Restriction on permanently disposing of interest in seabed etc[^c-277b266e99aade7728d2db4aac91e5c3]
 
 (1) The Commissioners may not without the consent of the Treasury permanently dispose of—
 
@@ -137,7 +137,7 @@ which forms part of the Crown Estate.
 
 (2) The Commissioners may, out of the income of the Crown Estate, make contributions in money for any religious or educational purpose connected with land of the Crown Estate, or for other purposes tending to the welfare of persons residing or employed on any such land.
 
-(3) Subsection (1) of section three of this Act shall not apply to any exercise of the powers of the Commissioners under section 29 of the Church Property Measure 2018[^key-1bf65604104870664ea057d6d73a624c] (which relates to gifts or grants of land for the sites of churches, etc.).
+(3) Subsection (1) of section three of this Act shall not apply to any exercise of the powers of the Commissioners under section 29 of the Church Property Measure 2018[^c-1bf65604104870664ea057d6d73a624c] (which relates to gifts or grants of land for the sites of churches, etc.).
 
 ## 5. Special provisions as to particular properties.
 
@@ -174,7 +174,7 @@ This subsection shall apply to any garden or other ground attached to and usuall
 
 (2) Without prejudice to his other powers of management, the Minister of Works shall have power from time to time to grant to the Zoological Society of London, on such terms and conditions as he may with the approval of the Treasury determine, leases of all or any of the land occupied by the Society in Regent’s Park at the beginning of the year nineteen hundred and sixty-one, or of neighbouring land under his management in Regent’s Park up to a total (exclusive of the land so occupied) of ten acres:
 
-Provided that every such lease shall be made to take effect in possession, and shall be for a term ending not more than 150 years[^key-408372bb7740a46937972c41201fd13b] from the date of the lease.
+Provided that every such lease shall be made to take effect in possession, and shall be for a term ending not more than 150 years[^c-408372bb7740a46937972c41201fd13b] from the date of the lease.
 
 (3) All rights and obligations enforceable by or against the Commissioners under or by virtue of any lease or agreement made before the commencement of this Act with respect to any land transferred by subsection (1) above to the management of the Minister of Works, or under or by virtue of any agreement relating to either of the tunnels under the Outer Circle which connect the land in Regent’s Park occupied by the Zoological Society of London, shall be enforceable by or against the Minister instead of the Commissioners.
 
@@ -216,15 +216,15 @@ SCHEDULES
 
 Section 1.
 
-**1.**[^c626644] (1) There shall be such number of commissioners, not exceeding 12[^key-91fcd2a6a7db9f62fa5f4dd022580dd0], as Her Majesty may from time to time determine.
+**1.**[^c626644] (1) There shall be such number of commissioners, not exceeding 12[^c-91fcd2a6a7db9f62fa5f4dd022580dd0], as Her Majesty may from time to time determine.
 
 (2) One of them shall be appointed as first Crown Estate Commissioner and another may, if Her Majesty sees fit, be appointed as second Crown Estate Commissioner.
 
-(3) The first Crown Estate Commissioner shall be chairman of the Commissioners[^key-ce021b58e7fe2e1a19e29236c58a1b33]....
+(3) The first Crown Estate Commissioner shall be chairman of the Commissioners[^c-ce021b58e7fe2e1a19e29236c58a1b33]....
 
-(3A)[^key-05a42cc76237412aed95b99f293a09ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-05a42cc76237412aed95b99f293a09ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-7854aee44733734fc69fb6ce5c685e6d] The commissioners appointed under this paragraph must include—
+(3B)[^c-7854aee44733734fc69fb6ce5c685e6d] The commissioners appointed under this paragraph must include—
 
 - (a) a commissioner responsible for giving advice about England,
 - (b) a commissioner responsible for giving advice about Wales, and
@@ -236,9 +236,9 @@ Section 1.
 
 (4) The commissioners shall be appointed by Her Majesty, by warrant under the Royal Sign Manual.
 
-(4A)[^key-05a42cc76237412aed95b99f293a09ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-05a42cc76237412aed95b99f293a09ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4B)[^key-22cc451e5d58f7d2471f39575b177288] No recommendation may be made to His Majesty for the appointment of a person as a commissioner under sub-paragraph (3B)(b) or (c) unless—
+(4B)[^c-22cc451e5d58f7d2471f39575b177288] No recommendation may be made to His Majesty for the appointment of a person as a commissioner under sub-paragraph (3B)(b) or (c) unless—
 
 - (a) the Welsh Ministers have been consulted about the appointment, in the case of an appointment under sub-paragraph (3B)(b), or
 - (b) the Executive Office in Northern Ireland has been consulted about the appointment, in the case of an appointment under sub-paragraph (3B)(c).
@@ -261,7 +261,7 @@ Section 1.
 
 (2) Where the Commissioners are empowered for the management of the Crown Estate to make appointments to the office of steward of a manor or to any other office, they may instead of making an appointment to that office depute any person appointed under sub-paragraph (1) above, or any person employed by them in or in connection with the management of the Crown Estate, to discharge the functions of the office either generally or for a particular purpose or a particular occasion.
 
-**5.**[^key-13143a04c904506785efeeee03eae2c8] The salaries and expenses of the Commissioners, including the remuneration of persons appointed by them under paragraph 4(1), are to be paid out of the income of the Crown Estate.
+**5.**[^c-13143a04c904506785efeeee03eae2c8] The salaries and expenses of the Commissioners, including the remuneration of persons appointed by them under paragraph 4(1), are to be paid out of the income of the Crown Estate.
 
 **6.** In relation to any order or regulations made by the Commissioners under this Act, the [^c626645]Documentary Evidence Act 1868 as amended by the [^c626646]Documentary Evidence Act 1882 shall apply as if in the Schedule to the Act of 1868 the Commissioners were included in the first column, and any person authorised under paragraph 2 above to sign documents on behalf of the Commissioners were mentioned in the second column.
 
@@ -328,19 +328,19 @@ Section 9.
 
 [^c626626]: Extent: Act extends to the United Kingdom, and to the Isle of Man so far as mentioned in s. 10(3).
 
-[^key-034de7c9582d367aaaf27df761ce5847]: Modification: Act applied with modifications (coming into force in accordance with s. 72(2) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 36(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/7) (with [s. 36(8)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/8)[(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/9)) (as amended (16.2.2017) by [The Crown Estate Scotland (Interim Management) Order 2017 (S.S.I. 2017/36)](https://www.legislation.gov.uk/ssi/2017/36), [art. 20(1)](https://www.legislation.gov.uk/ssi/2017/36/article/20/1))
+[^c-034de7c9582d367aaaf27df761ce5847]: Modification: Act applied with modifications (coming into force in accordance with s. 72(2) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 36(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/7) (with [s. 36(8)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/8)[(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/9)) (as amended (16.2.2017) by [The Crown Estate Scotland (Interim Management) Order 2017 (S.S.I. 2017/36)](https://www.legislation.gov.uk/ssi/2017/36), [art. 20(1)](https://www.legislation.gov.uk/ssi/2017/36/article/20/1))
 
 [^c626627]: Marginal citation: [1702 c. 1](https://www.legislation.gov.uk/aep/1702/1).
 
-[^key-0c6879ef773cce6131d3c35d0443e100]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/1/3A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/7/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-0c6879ef773cce6131d3c35d0443e100]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/1/3A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/7/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-6597eedbc9627444daa0fde010f32708]: Textual amendment: [S. 1(4A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/1/4A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-6597eedbc9627444daa0fde010f32708]: Textual amendment: [S. 1(4A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/1/4A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-ee10ba960299752e31456c186d21d8da]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/2/1A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 4](https://www.legislation.gov.uk/ukpga/2025/7/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-ee10ba960299752e31456c186d21d8da]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/2/1A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 4](https://www.legislation.gov.uk/ukpga/2025/7/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-3def658b9d732de5029645c9393f3a20]: Modification: [S. 3(1)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/1)[(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/2) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 59](https://www.legislation.gov.uk/ukpga/2017/7/section/59), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-3def658b9d732de5029645c9393f3a20]: Modification: [S. 3(1)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/1)[(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/2) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 59](https://www.legislation.gov.uk/ukpga/2017/7/section/59), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-0260e52e5b744a3b6c8c18b33408ddee]: Modification: [S. 3(1)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/1)[(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/2) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 52](https://www.legislation.gov.uk/ukpga/2021/2/section/52), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-0260e52e5b744a3b6c8c18b33408ddee]: Modification: [S. 3(1)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/1)[(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/2) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 52](https://www.legislation.gov.uk/ukpga/2021/2/section/52), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
 [^c626628]: Modification: [S. 3(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/2) excluded (E.W.) by [Leasehold Reform Act 1967 (c. 88)](https://www.legislation.gov.uk/ukpga/1967/88), [s. 33(3)](https://www.legislation.gov.uk/ukpga/1967/88/section/33/3)
 
@@ -350,15 +350,15 @@ Section 9.
 
 [^c626629]: Textual amendment: Words substituted by [Miscellaneous Financial Provisions Act 1983 (c. 29, SIF 99:1)](https://www.legislation.gov.uk/ukpga/1983/29), [s. 5](https://www.legislation.gov.uk/ukpga/1983/29/section/5)
 
-[^key-a994b52920c5c3bf2a9982624597bb6a]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/4) omitted (11.5.2025) by virtue of [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/3/a), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-a994b52920c5c3bf2a9982624597bb6a]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/4) omitted (11.5.2025) by virtue of [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/3/a), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-e23d7795ed13c327cc7562d4dbe66c78]: Textual amendment: Words in [s. 3(5)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/5) substituted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/3/b), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-e23d7795ed13c327cc7562d4dbe66c78]: Textual amendment: Words in [s. 3(5)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3/5) substituted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/3/b), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-2493e5105b34dface6172686c8acff74]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/4), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-2493e5105b34dface6172686c8acff74]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3A) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/7/section/1/4), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-277b266e99aade7728d2db4aac91e5c3]: Textual amendment: [S. 3B](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3B) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 5](https://www.legislation.gov.uk/ukpga/2025/7/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-277b266e99aade7728d2db4aac91e5c3]: Textual amendment: [S. 3B](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/3B) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 5](https://www.legislation.gov.uk/ukpga/2025/7/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-1bf65604104870664ea057d6d73a624c]: Textual amendment: Words in s. 4(3) substituted (E.) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/6); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-1bf65604104870664ea057d6d73a624c]: Textual amendment: Words in s. 4(3) substituted (E.) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/6); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^c626633]: Textual amendment: Words substituted by virtue of [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), [art. 6](https://www.legislation.gov.uk/uksi/1970/1681/article/6) (3)
 
@@ -368,7 +368,7 @@ Section 9.
 
 [^c626636]: Marginal citation: [1851 c. 42](https://www.legislation.gov.uk/ukpga/1851/42).
 
-[^key-408372bb7740a46937972c41201fd13b]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/7/2) substituted (24.7.2024) by [Zoological Society of London (Leases) Act 2024 (c. 20)](https://www.legislation.gov.uk/ukpga/2024/20), [ss. 1](https://www.legislation.gov.uk/ukpga/2024/20/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2024/20/section/2/2)
+[^c-408372bb7740a46937972c41201fd13b]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/section/7/2) substituted (24.7.2024) by [Zoological Society of London (Leases) Act 2024 (c. 20)](https://www.legislation.gov.uk/ukpga/2024/20), [ss. 1](https://www.legislation.gov.uk/ukpga/2024/20/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2024/20/section/2/2)
 
 [^c626637]: Marginal citation: [1872 c. 15](https://www.legislation.gov.uk/ukpga/1872/15).
 
@@ -384,17 +384,17 @@ Section 9.
 
 [^c626644]: Modification: Sch. 1 para. 1: transfer of functions conferred (1.4.1995) by [S.I. 1995/269](https://www.legislation.gov.uk/uksi/1995/269), [art. 3](https://www.legislation.gov.uk/uksi/1995/269/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/1)
 
-[^key-91fcd2a6a7db9f62fa5f4dd022580dd0]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/1/1) substituted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2025/7/section/2/2/a), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-91fcd2a6a7db9f62fa5f4dd022580dd0]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/1/1) substituted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2025/7/section/2/2/a), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-ce021b58e7fe2e1a19e29236c58a1b33]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/1/3) omitted (11.5.2025) by virtue of [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2025/7/section/2/2/b), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-ce021b58e7fe2e1a19e29236c58a1b33]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/1/3) omitted (11.5.2025) by virtue of [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2025/7/section/2/2/b), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-05a42cc76237412aed95b99f293a09ec]: Textual amendment: Sch. 1 para. 1(3A)(4A) omitted (coming into force in accordance with s. 72(2) of the amending Act) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(14)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/14), [72(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/2)
+[^c-05a42cc76237412aed95b99f293a09ec]: Textual amendment: Sch. 1 para. 1(3A)(4A) omitted (coming into force in accordance with s. 72(2) of the amending Act) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(14)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/14), [72(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/2)
 
-[^key-7854aee44733734fc69fb6ce5c685e6d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST) para. 1(3B)-(3D) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-7854aee44733734fc69fb6ce5c685e6d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST) para. 1(3B)-(3D) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-22cc451e5d58f7d2471f39575b177288]: Textual amendment: [Sch. 1 para. 1(4B)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/1/4B) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2025/7/section/6/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-22cc451e5d58f7d2471f39575b177288]: Textual amendment: [Sch. 1 para. 1(4B)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/1/4B) inserted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2025/7/section/6/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-13143a04c904506785efeeee03eae2c8]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/5) substituted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/7/section/2/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-13143a04c904506785efeeee03eae2c8]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/55/schedule/FIRST/paragraph/5) substituted (11.5.2025) by [Crown Estate Act 2025 (c. 7)](https://www.legislation.gov.uk/ukpga/2025/7), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/7/section/2/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
 [^c626645]: Marginal citation: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
 

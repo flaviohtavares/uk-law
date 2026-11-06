@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Collective bargaining framework for college staff[^key-2336c83ce0d5de4dfd4035a4b46b8a5b]
+## 15A. Collective bargaining framework for college staff[^c-2336c83ce0d5de4dfd4035a4b46b8a5b]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2336c83ce0d5de4dfd4035a4b46b8a5b]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1992/37/section/15A) inserted (13.1.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 18](https://www.legislation.gov.uk/asp/2013/12/section/18), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-2336c83ce0d5de4dfd4035a4b46b8a5b]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1992/37/section/15A) inserted (13.1.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 18](https://www.legislation.gov.uk/asp/2013/12/section/18), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)

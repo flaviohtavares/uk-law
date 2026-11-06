@@ -32,8 +32,8 @@ summary: ''
 
 (6) The opinion of the appropriate nature conservation body, notified in accordance with paragraph (4), that the development is not likely to have a relevant effect is conclusive of that question for the purpose of reliance on the planning permission granted by a general development order.
 
-(7) In this regulation and in regulation 77, “**a relevant effect**” means an effect of a kind mentioned in regulation 75(1)(a) or (2)(a)[^key-8215be319a00084d6086cfc4a758dff4].
+(7) In this regulation and in regulation 77, “**a relevant effect**” means an effect of a kind mentioned in regulation 75(1)(a) or (2)(a)[^c-8215be319a00084d6086cfc4a758dff4].
 
 ## Annotations
 
-[^key-8215be319a00084d6086cfc4a758dff4]: Textual amendment: Words in [reg. 76(7)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/76/7) substituted (21.5.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/15) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-8215be319a00084d6086cfc4a758dff4]: Textual amendment: Words in [reg. 76(7)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/76/7) substituted (21.5.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/15) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))

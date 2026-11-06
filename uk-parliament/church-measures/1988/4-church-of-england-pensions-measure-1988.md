@@ -35,47 +35,47 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 ## 1–4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c10216091]
 
-## 5. Extension of powers to make lump sum payments.[^key-162c027fe9d047184f6064f12f1e7041]
+## 5. Extension of powers to make lump sum payments.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c10216101]
 
-## 7. Termination of contributory pension scheme for widows and children under s. 11 of 1961 Measure.[^key-162c027fe9d047184f6064f12f1e7041]
+## 7. Termination of contributory pension scheme for widows and children under s. 11 of 1961 Measure.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Termination of payment of contributions begun under Part II of Clergy Pensions Measure 1948.[^key-162c027fe9d047184f6064f12f1e7041]
+## 8. Termination of payment of contributions begun under Part II of Clergy Pensions Measure 1948.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Termination of liability for contributions under agreements made under s. 15 of 1961 Measure.[^key-162c027fe9d047184f6064f12f1e7041]
+## 9. Termination of liability for contributions under agreements made under s. 15 of 1961 Measure.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Provisions supplementary to ss. 7 to 9.[^key-162c027fe9d047184f6064f12f1e7041]
+## 10. Provisions supplementary to ss. 7 to 9.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Payments out of Commissioners’ general fund.[^key-162c027fe9d047184f6064f12f1e7041]
+## 11. Payments out of Commissioners’ general fund.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Extension of powers of Board relating to residences.[^key-162c027fe9d047184f6064f12f1e7041]
+## 12. Extension of powers of Board relating to residences.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Membership of pensions schemes for church workers.[^key-162c027fe9d047184f6064f12f1e7041]
+## 13. Membership of pensions schemes for church workers.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Investment powers of Board.[^key-162c027fe9d047184f6064f12f1e7041]
+## 14. Investment powers of Board.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c10216131]
 
-## 16. Extension of powers of General Synod to make further provision by regulations for clergy pensions.[^key-162c027fe9d047184f6064f12f1e7041]
+## 16. Extension of powers of General Synod to make further provision by regulations for clergy pensions.[^c-162c027fe9d047184f6064f12f1e7041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,39 +105,39 @@ SCHEDULES
 
 Section 18(1).
 
-### Part I — Amendments to Clergy Pensions Measure 1961[^key-4cca48915ba530b20d58d0f021091e82]
+### Part I — Amendments to Clergy Pensions Measure 1961[^c-4cca48915ba530b20d58d0f021091e82]
 
 **No longer in force.**
 
-**1.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2–6.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2–6.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18, 19**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18, 19**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-4cca48915ba530b20d58d0f021091e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Amendments of other Measures
 
@@ -149,7 +149,7 @@ Section 18(1).
 
 #### Deaconesses and Lay Workers (Pensions) Measure 1980[^c10216271]
 
-**23.**[^key-f6241cda5cbabcdf1f96175ee7009133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-f6241cda5cbabcdf1f96175ee7009133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Diocese in Europe Measure 1980[^c10216281]
 
@@ -164,7 +164,7 @@ Section 18(1).
 
 **34.** . . . [^c10216301]
 
-## SCHEDULE 3 — Enactments Repealed[^key-e76c113df52c543c7898dce2519e8502]
+## SCHEDULE 3 — Enactments Repealed[^c-e76c113df52c543c7898dce2519e8502]
 
 **No longer in force.**
 
@@ -172,9 +172,9 @@ Section 18(2).
 
 ### Measures
 
-[^key-e76c113df52c543c7898dce2519e8502]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e76c113df52c543c7898dce2519e8502]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Instruments[^key-e76c113df52c543c7898dce2519e8502]
+### Instruments[^c-e76c113df52c543c7898dce2519e8502]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,7 +182,7 @@ Section 18(2).
 
 [^c10216091]: Textual amendment: Ss. 1–4 repealed by [S.I. 1988/2256](https://www.legislation.gov.uk/uksi/1988/2256), [reg. 36](https://www.legislation.gov.uk/uksi/1988/2256/regulation/36), [Sch. 2](https://www.legislation.gov.uk/uksi/1988/2256/schedule/2)
 
-[^key-162c027fe9d047184f6064f12f1e7041]: Textual amendment: [Ss. 5-17](https://www.legislation.gov.uk/ukcm/1988/4/section/5) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-162c027fe9d047184f6064f12f1e7041]: Textual amendment: [Ss. 5-17](https://www.legislation.gov.uk/ukcm/1988/4/section/5) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c10216101]: Textual amendment: S. 6 repealed by [S.I. 1988/2256](https://www.legislation.gov.uk/uksi/1988/2256), [reg. 36](https://www.legislation.gov.uk/uksi/1988/2256/regulation/36), [Sch. 2](https://www.legislation.gov.uk/uksi/1988/2256/schedule/2)
 
@@ -198,7 +198,7 @@ Section 18(2).
 
 [^c10216181]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukcm/1988/4/schedule/1)repealed by [S.I. 1988/2256](https://www.legislation.gov.uk/uksi/1988/2256), [reg. 36](https://www.legislation.gov.uk/uksi/1988/2256/regulation/36), [Sch. 2](https://www.legislation.gov.uk/uksi/1988/2256/schedule/2)
 
-[^key-4cca48915ba530b20d58d0f021091e82]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/part/I) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-4cca48915ba530b20d58d0f021091e82]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/part/I) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c10216251]: Textual amendment: [Sch. 2 paras. 2–6](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/2), [15](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/15), [18](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/18), [19](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/19), [20(a)(c)](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/20/a/c), [21](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/21) and 25–33 repealed by [S.I. 1988/2256](https://www.legislation.gov.uk/uksi/1988/2256), [reg. 36](https://www.legislation.gov.uk/uksi/1988/2256/regulation/36), [Sch. 2](https://www.legislation.gov.uk/uksi/1988/2256/schedule/2)
 
@@ -206,7 +206,7 @@ Section 18(2).
 
 [^c10216271]: Marginal citation: [1980 No. 1](https://www.legislation.gov.uk/ukcm/1980/1).
 
-[^key-f6241cda5cbabcdf1f96175ee7009133]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/23) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-f6241cda5cbabcdf1f96175ee7009133]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/23) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c10216281]: Marginal citation: [1980 No. 2](https://www.legislation.gov.uk/ukcm/1980/2).
 
@@ -214,4 +214,4 @@ Section 18(2).
 
 [^c10216301]: Textual amendment: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukcm/1988/4/schedule/2/paragraph/34) repealed by [S.I. 1988/2239](https://www.legislation.gov.uk/uksi/1988/2239), [reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/1988/2239/regulation/5/3/c)
 
-[^key-e76c113df52c543c7898dce2519e8502]: Textual amendment: Sch. 3 repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-e76c113df52c543c7898dce2519e8502]: Textual amendment: Sch. 3 repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

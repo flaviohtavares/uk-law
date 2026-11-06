@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Powers to acquire new rights[^key-6d8d4e1060960bd331e871463fbdcc35]
+## 21. Powers to acquire new rights[^c-6d8d4e1060960bd331e871463fbdcc35]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d8d4e1060960bd331e871463fbdcc35]: Commencement: Art. 21 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-6d8d4e1060960bd331e871463fbdcc35]: Commencement: Art. 21 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

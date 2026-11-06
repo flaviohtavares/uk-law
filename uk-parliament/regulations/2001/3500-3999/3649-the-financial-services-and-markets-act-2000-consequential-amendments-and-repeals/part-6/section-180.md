@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Advertising dissolution of society[^key-f20a1567aa42bc50729746c866d98750]
+## 180. Advertising dissolution of society[^c-f20a1567aa42bc50729746c866d98750]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 58(6) of the Industrial and Provident Societies Act 1965[^f00126] (in
 
 ## Annotations
 
-[^key-f20a1567aa42bc50729746c866d98750]: Commencement: Art. 180 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f20a1567aa42bc50729746c866d98750]: Commencement: Art. 180 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00126]: Footnote: Amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), Schedule 3, paragraph 215(i).

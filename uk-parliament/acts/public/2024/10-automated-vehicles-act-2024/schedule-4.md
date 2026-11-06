@@ -24,7 +24,7 @@ summary: ''
 
 Section 66(6)
 
-**1.**[^key-1af0e5b669a62089ea12fc348f59ca1b] (1) The Road Traffic Offenders Act 1988 is amended as follows.
+**1.**[^c-1af0e5b669a62089ea12fc348f59ca1b] (1) The Road Traffic Offenders Act 1988 is amended as follows.
 
 (2) In Schedule 1 (offences to which sections 1, 6, 11 and 12(1) of that Act apply)—
 
@@ -57,4 +57,4 @@ Section 66(6)
 
 ## Annotations
 
-[^key-1af0e5b669a62089ea12fc348f59ca1b]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-1af0e5b669a62089ea12fc348f59ca1b]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

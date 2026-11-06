@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Storage of case records[^key-3528d1f18d53493fada769aa9a7360e3]
+## 40. Storage of case records[^c-3528d1f18d53493fada769aa9a7360e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The adoption agency must ensure that the case record set up in accordance with r
 
 ## Annotations
 
-[^key-3528d1f18d53493fada769aa9a7360e3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2005/1313/regulation/40) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-3528d1f18d53493fada769aa9a7360e3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2005/1313/regulation/40) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

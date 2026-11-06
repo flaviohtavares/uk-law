@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Fitness to hold a licence[^key-67424edee21036bb4235c84879052276]
+## 10. Fitness to hold a licence[^c-67424edee21036bb4235c84879052276]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67424edee21036bb4235c84879052276]: Commencement: Reg. 10 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-67424edee21036bb4235c84879052276]: Commencement: Reg. 10 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
 
 [^c24321361]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).

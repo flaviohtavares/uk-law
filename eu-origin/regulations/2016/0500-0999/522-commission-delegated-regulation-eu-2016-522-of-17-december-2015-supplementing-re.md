@@ -33,7 +33,7 @@ supplementing Regulation (EU) No 596/2014 of the European Parliament and of the 
 
 (Text with EEA relevance)
 
-[^key-f10a7d63d4b1db7778ec609c6e56ecfd]
+[^c-f10a7d63d4b1db7778ec609c6e56ecfd]
 
 THE EUROPEAN COMMISSION,
 
@@ -180,11 +180,11 @@ This Regulation lays down detailed rules with regard to:
 - ((1)) the extension of the exemption to certain public bodies and central banks of third countries from the obligations and prohibitions set out in Regulation (EU) No 596/2014 in carrying out monetary, exchange-rate or public debt management policy;
 - ((2)) the indicators of market manipulation laid down in Annex I to Regulation (EU) No 596/2014;
 - ((3)) the thresholds for the disclosure by emission allowance market participants of inside information;
-- ((4)) [^key-127ff3e0bf56470c09c3726ac528b1b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((4)) [^c-127ff3e0bf56470c09c3726ac528b1b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - ((5)) the circumstances under which trading during a closed period may be permitted by the issuer;
 - ((6)) types of transactions triggering the duty to notify managers' transactions.
 
-## Article 2. Definitions[^key-a8efc9e7322df3ec23541480a4457cd3]
+## Article 2. Definitions[^c-a8efc9e7322df3ec23541480a4457cd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,11 +205,11 @@ Regulation (EU) No 596/2014 shall not apply to transactions, orders or behaviour
 - (a) the minimum threshold of carbon dioxide (CO<sub>2</sub>) equivalent shall be 6 million tonnes a year;
 - (b) the minimum threshold of rated thermal input shall be 2 430 MW.
 
-2. Thresholds set out in paragraph 1 shall apply at group level and relate to all business, including UK aviation activities or UK installations[^key-99268f3125e027e37ffce8369db83cf1], which the participant in the emission allowance market concerned, or its parent undertaking or related undertaking owns or controls or for the operational matters of which the participant concerned, or its parent undertaking or related undertaking is responsible, in whole or in part.
+2. Thresholds set out in paragraph 1 shall apply at group level and relate to all business, including UK aviation activities or UK installations[^c-99268f3125e027e37ffce8369db83cf1], which the participant in the emission allowance market concerned, or its parent undertaking or related undertaking owns or controls or for the operational matters of which the participant concerned, or its parent undertaking or related undertaking is responsible, in whole or in part.
 
-(3.)[^key-26b4ba17be909e699d72d6e899f42f52] For the purposes of paragraph 2, “UK aviation activities” and “UK installations” have the meaning given in Article 7(4A) of [Regulation (EU) No 596/2014](https://www.legislation.gov.uk/european/regulation/2014/0596).
+(3.)[^c-26b4ba17be909e699d72d6e899f42f52] For the purposes of paragraph 2, “UK aviation activities” and “UK installations” have the meaning given in Article 7(4A) of [Regulation (EU) No 596/2014](https://www.legislation.gov.uk/european/regulation/2014/0596).
 
-## Article 6. Determination of the competent authority[^key-b513570c7d704bd26b39d4db5a723b1e]
+## Article 6. Determination of the competent authority[^c-b513570c7d704bd26b39d4db5a723b1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -256,7 +256,7 @@ The issuer shall have the right to permit the person discharging managerial resp
 
 ## Article 10. Notifiable transactions
 
-1. Pursuant to Article 19 of Regulation (EU) No 596/2014 and in addition to transactions referred to in Article 19(7) of that Regulation, persons discharging managerial responsibilities within an issuer or an emission allowance market participant and persons closely associated with them shall notify the issuer or the emission allowance market participant and the FCA[^key-2d564a8e5c69b3d9123c71c98fd7cbed] of their transactions.
+1. Pursuant to Article 19 of Regulation (EU) No 596/2014 and in addition to transactions referred to in Article 19(7) of that Regulation, persons discharging managerial responsibilities within an issuer or an emission allowance market participant and persons closely associated with them shall notify the issuer or the emission allowance market participant and the FCA[^c-2d564a8e5c69b3d9123c71c98fd7cbed] of their transactions.
 
 Those notified transactions shall include all transactions conducted by persons discharging managerial responsibilities on their own account relating, in respect of the issuers, to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked thereto, and in respect of emission allowance market participants, to emission allowances, to auction products based thereon or to derivatives relating thereto.
 
@@ -274,7 +274,7 @@ Those notified transactions shall include all transactions conducted by persons 
 - (j) automatic or non-automatic conversion of a financial instrument into another financial instrument, including the exchange of convertible bonds to shares;
 - (k) gifts and donations made or received, and inheritance received;
 - (l) transactions executed in index-related products, baskets and derivatives, insofar as required by Article 19 of Regulation (EU) No 596/2014;
-- (m) transactions executed in shares or units of investment funds, including alternative investment funds (AIFs) referred to in regulation 3 of the Alternative Investment Fund Managers Regulations 2013[^key-0bafcaca6b25ef76aa9d68c58a652602], insofar as required by Article 19 of Regulation (EU) No 596/2014;
+- (m) transactions executed in shares or units of investment funds, including alternative investment funds (AIFs) referred to in regulation 3 of the Alternative Investment Fund Managers Regulations 2013[^c-0bafcaca6b25ef76aa9d68c58a652602], insofar as required by Article 19 of Regulation (EU) No 596/2014;
 - (n) transactions executed by manager of an AIF in which the person discharging managerial responsibilities or a person closely associated with such a person has invested, insofar as required by Article 19 of Regulation (EU) No 596/2014;
 - (o) transactions executed by a third party under an individual portfolio or asset management mandate on behalf or for the benefit of a person discharging managerial responsibilities or a person closely associated with such a person;
 - (p) borrowing or lending of shares or debt instruments of the issuer or derivatives or other financial instruments linked thereto.
@@ -285,7 +285,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 3 July 2016.
 
-[^key-c1fa26ac3fec4e243ac0f7430250a46b]...
+[^c-c1fa26ac3fec4e243ac0f7430250a46b]...
 
 Done at Brussels, 17 December 2015.
 
@@ -430,22 +430,22 @@ Jean-Claude Juncker
 
 ## Annotations
 
-[^key-f10a7d63d4b1db7778ec609c6e56ecfd]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-f10a7d63d4b1db7778ec609c6e56ecfd]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 173, 12.6.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0001.01.ENG).
 
-[^key-127ff3e0bf56470c09c3726ac528b1b5]: Textual amendment: Art. 1(4) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-127ff3e0bf56470c09c3726ac528b1b5]: Textual amendment: Art. 1(4) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a8efc9e7322df3ec23541480a4457cd3]: Textual amendment: Art. 2 omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a8efc9e7322df3ec23541480a4457cd3]: Textual amendment: Art. 2 omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99268f3125e027e37ffce8369db83cf1]: Textual amendment: Words in Art. 5(2) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/10/a)
+[^c-99268f3125e027e37ffce8369db83cf1]: Textual amendment: Words in Art. 5(2) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/10/a)
 
-[^key-26b4ba17be909e699d72d6e899f42f52]: Textual amendment: Art. 5(3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2021/494/regulation/10/b)
+[^c-26b4ba17be909e699d72d6e899f42f52]: Textual amendment: Art. 5(3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2021/494/regulation/10/b)
 
-[^key-b513570c7d704bd26b39d4db5a723b1e]: Textual amendment: Art. 6 omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b513570c7d704bd26b39d4db5a723b1e]: Textual amendment: Art. 6 omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d564a8e5c69b3d9123c71c98fd7cbed]: Textual amendment: Word in Art. 10(1) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d564a8e5c69b3d9123c71c98fd7cbed]: Textual amendment: Word in Art. 10(1) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0bafcaca6b25ef76aa9d68c58a652602]: Textual amendment: Words in Art. 10(2)(m) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bafcaca6b25ef76aa9d68c58a652602]: Textual amendment: Words in Art. 10(2)(m) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1fa26ac3fec4e243ac0f7430250a46b]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1fa26ac3fec4e243ac0f7430250a46b]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2019/310/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

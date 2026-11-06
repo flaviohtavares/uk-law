@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Power to make supplementary and consequential provision etc.[^key-69bec839c095812e9768b1745aec8ae3]
+## 38. Power to make supplementary and consequential provision etc.[^c-69bec839c095812e9768b1745aec8ae3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69bec839c095812e9768b1745aec8ae3]: Commencement: [Art. 38](https://www.legislation.gov.uk/nisi/2015/2006/article/38) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)
+[^c-69bec839c095812e9768b1745aec8ae3]: Commencement: [Art. 38](https://www.legislation.gov.uk/nisi/2015/2006/article/38) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)

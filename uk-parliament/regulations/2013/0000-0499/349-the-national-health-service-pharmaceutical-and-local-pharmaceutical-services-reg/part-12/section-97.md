@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An NHS chemist who is presented with or receives an order under paragraph 5(2) or (3) of Schedule 4, or paragraph 4(2) or (3) of Schedule 5, is eligible to claim a payment from NHS England[^key-fedf3951d93bcf656ad03378f887d7d5], in accordance with the Drug Tariff, if—
+(1) An NHS chemist who is presented with or receives an order under paragraph 5(2) or (3) of Schedule 4, or paragraph 4(2) or (3) of Schedule 5, is eligible to claim a payment from NHS England[^c-fedf3951d93bcf656ad03378f887d7d5], in accordance with the Drug Tariff, if—
 
 - (a) the NHS chemist has refused, in accordance with paragraph 9 of Schedule 4 or paragraph 8 of Schedule 5, to provide a drug or appliance and has informed NHS England of this action as soon as practicable; or
 - (b) has provided a drug or appliance pursuant to paragraph 5(2) or (3) of Schedule 4, or paragraph 4(2) or (3) of Schedule 5 but has reason to believe (whether or not this was the case at the time that the drug or appliance was dispensed) that the order was not a genuine order on NHS prescription and has informed NHS England of this belief as soon as is practicable,
@@ -33,4 +33,4 @@ and in either case has sent the order (or, in the case of an electronic prescrip
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

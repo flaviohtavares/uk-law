@@ -39,7 +39,7 @@ in respect of the principal of such relevant loans as may be specified in the or
 
 and such nominal value or principal sum shall be taken in those accounts to be accumulated realised profits.
 
-(4) In subsection (3) above “**statutory accounts of a company**” means any accounts prepared by the company for the purpose of any provision of the Companies Act 2006[^key-0ee3f74afc4fedba2af8125f04a438d4] (including group accounts).
+(4) In subsection (3) above “**statutory accounts of a company**” means any accounts prepared by the company for the purpose of any provision of the Companies Act 2006[^c-0ee3f74afc4fedba2af8125f04a438d4] (including group accounts).
 
 (5) The Secretary of State—
 
@@ -71,6 +71,6 @@ and such nominal value or principal sum shall be taken in those accounts to be a
 
 ## Annotations
 
-[^key-0ee3f74afc4fedba2af8125f04a438d4]: Textual amendment: Words in s. 106(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 193(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/193/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-0ee3f74afc4fedba2af8125f04a438d4]: Textual amendment: Words in s. 106(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 193(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/193/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c14111431]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).

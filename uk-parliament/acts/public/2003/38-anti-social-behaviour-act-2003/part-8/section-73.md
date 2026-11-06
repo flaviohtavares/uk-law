@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Determination or withdrawal of appeals[^key-2f03769e56ac008f8e619cdbd8987f03][^key-6a4ea9ef89a4c4eaaa19aab85bc0afda]
+## 73. Determination or withdrawal of appeals[^c-2f03769e56ac008f8e619cdbd8987f03][^c-6a4ea9ef89a4c4eaaa19aab85bc0afda]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) On an appeal under section 71 relating to a remedial notice, the appeal authority may also correct any defect, error or misdescription in the notice if it is satisfied that the correction will not cause injustice to any person falling within section 71(2).
 
-(4)[^key-78b3206cd0706cfd4f70fce4b977b4fc] Once the appeal authority has made its decision on an appeal under section 71, it must, as soon as is reasonably practicable—
+(4)[^c-78b3206cd0706cfd4f70fce4b977b4fc] Once the appeal authority has made its decision on an appeal under section 71, it must, as soon as is reasonably practicable—
 
 - (a) give a notification of the decision, and
 - (b) if the decision is to issue a remedial notice or to vary or correct the requirements of such a notice, send copies of the notice as issued, varied or corrected,
@@ -48,8 +48,8 @@ to every person falling within section 71(2) and to the relevant authority.
 
 ## Annotations
 
-[^key-2f03769e56ac008f8e619cdbd8987f03]: Commencement: S. 73 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-2f03769e56ac008f8e619cdbd8987f03]: Commencement: S. 73 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-6a4ea9ef89a4c4eaaa19aab85bc0afda]: Commencement: S. 73 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-6a4ea9ef89a4c4eaaa19aab85bc0afda]: Commencement: S. 73 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
 
-[^key-78b3206cd0706cfd4f70fce4b977b4fc]: Modification: S. 73(4) modified (E.) (1.6.2005) by [High Hedges (Appeals) (England) Regulations 2005 (S.I. 2005/711)](https://www.legislation.gov.uk/uksi/2005/711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/711/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2005/711/regulation/13) (with reg. 1(2))
+[^c-78b3206cd0706cfd4f70fce4b977b4fc]: Modification: S. 73(4) modified (E.) (1.6.2005) by [High Hedges (Appeals) (England) Regulations 2005 (S.I. 2005/711)](https://www.legislation.gov.uk/uksi/2005/711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/711/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2005/711/regulation/13) (with reg. 1(2))

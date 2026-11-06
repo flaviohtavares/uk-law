@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Period over which periodical payments are to be taken into account[^key-59a17c4c3f60160f165af7c97a054e6a]
+## 122. Period over which periodical payments are to be taken into account[^c-59a17c4c3f60160f165af7c97a054e6a]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59a17c4c3f60160f165af7c97a054e6a]: Commencement: [Reg. 122](https://www.legislation.gov.uk/nisr/2008/280/regulation/122) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-59a17c4c3f60160f165af7c97a054e6a]: Commencement: [Reg. 122](https://www.legislation.gov.uk/nisr/2008/280/regulation/122) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

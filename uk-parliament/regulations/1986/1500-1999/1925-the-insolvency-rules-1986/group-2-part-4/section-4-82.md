@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.82. Admission and rejection of proofs for dividend[^key-fa2816b72b04cf34bedd56c11def16ad]
+## 4.82. Admission and rejection of proofs for dividend[^c-fa2816b72b04cf34bedd56c11def16ad]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa2816b72b04cf34bedd56c11def16ad]: Commencement: [Rule 4.82](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.82) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-fa2816b72b04cf34bedd56c11def16ad]: Commencement: [Rule 4.82](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.82) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

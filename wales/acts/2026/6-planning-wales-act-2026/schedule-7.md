@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — PROCEDURES FOR ORDERS MADE BY PLANNING AUTHORITIES
 
-#### 1. Circumstances in which order takes effect[^key-e8196b5369184d6d0392b4c0fb78e08d]
+#### 1. Circumstances in which order takes effect[^c-e8196b5369184d6d0392b4c0fb78e08d]
 
 (1) Where a planning authority makes an order under section 102 modifying or revoking a planning permission granted by the authority (other than an order modifying a condition to which a permission is subject by virtue of section 93 or 94), the order takes effect only—
 
@@ -40,7 +40,7 @@ summary: ''
 
 the order takes effect only if it is confirmed by the Welsh Ministers (and accordingly paragraph 3 does not apply).
 
-#### 2. Procedure for confirmation of order by the Welsh Ministers[^key-d86dbae1aaf38edb09e070a07c20da07]
+#### 2. Procedure for confirmation of order by the Welsh Ministers[^c-d86dbae1aaf38edb09e070a07c20da07]
 
 (1) Where a planning authority submits an order under section 102 to the Welsh Ministers for confirmation, it must serve notice of the submission of the order on—
 
@@ -55,7 +55,7 @@ the order takes effect only if it is confirmed by the Welsh Ministers (and accor
 
 (5) The Welsh Ministers may confirm the order with or without modifications.
 
-#### 3. Procedure for order to take effect without confirmation[^key-2ac283a8e932fc40303c4b6aa73828de]
+#### 3. Procedure for order to take effect without confirmation[^c-2ac283a8e932fc40303c4b6aa73828de]
 
 (1) This paragraph applies where—
 
@@ -88,7 +88,7 @@ the order takes effect at the end of the period specified under sub-paragraph (3
 
 ### PART 2 — PROCEDURE FOR ORDERS MADE BY THE WELSH MINISTERS
 
-#### 4. Consultation and notification before making order[^key-c36d40e7a6212169ce4406d8ffac9d59]
+#### 4. Consultation and notification before making order[^c-c36d40e7a6212169ce4406d8ffac9d59]
 
 (1) The Welsh Ministers must not make an order under section 102 without consulting the planning authority in whose area the land to which the order relates is situated.
 
@@ -106,7 +106,7 @@ the order takes effect at the end of the period specified under sub-paragraph (3
 
 ### PART 3 — MODIFICATION OR REVOCATION OF PLANNING PERMISSION FOR MINING OPERATIONS OR DEPOSITING OF WASTE
 
-#### 5. Power to impose aftercare condition on modification or revocation of permission[^key-61b645d69024c63a1af22aaf7e6c2bcc]
+#### 5. Power to impose aftercare condition on modification or revocation of permission[^c-61b645d69024c63a1af22aaf7e6c2bcc]
 
 (1) This paragraph applies to an order under section 102 that modifies or revokes planning permission for development that—
 
@@ -119,12 +119,12 @@ the order takes effect at the end of the period specified under sub-paragraph (3
 
 ## Annotations
 
-[^key-e8196b5369184d6d0392b4c0fb78e08d]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e8196b5369184d6d0392b4c0fb78e08d]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-d86dbae1aaf38edb09e070a07c20da07]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d86dbae1aaf38edb09e070a07c20da07]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-2ac283a8e932fc40303c4b6aa73828de]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2ac283a8e932fc40303c4b6aa73828de]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-c36d40e7a6212169ce4406d8ffac9d59]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c36d40e7a6212169ce4406d8ffac9d59]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-61b645d69024c63a1af22aaf7e6c2bcc]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-61b645d69024c63a1af22aaf7e6c2bcc]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

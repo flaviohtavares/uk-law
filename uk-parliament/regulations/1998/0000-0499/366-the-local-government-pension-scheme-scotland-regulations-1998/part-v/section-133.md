@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 133. Transfers under the Local Government etc. (Scotland) Act 1994 etc: early leavers[^key-3314953359bf58198caea416ba099156]
+## 133. Transfers under the Local Government etc. (Scotland) Act 1994 etc: early leavers[^c-3314953359bf58198caea416ba099156]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ he must be so treated for that regulation.
 
 ## Annotations
 
-[^key-3314953359bf58198caea416ba099156]: Commencement: Reg. 133 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3314953359bf58198caea416ba099156]: Commencement: Reg. 133 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00059]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).

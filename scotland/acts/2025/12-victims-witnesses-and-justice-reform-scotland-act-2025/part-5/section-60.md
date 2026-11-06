@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Register of solicitors for section 22B of the Vulnerable Witnesses (Scotland) Act 2004[^key-3939f5aac45683eaf4bc86a85912a87a]
+## 60. Register of solicitors for section 22B of the Vulnerable Witnesses (Scotland) Act 2004[^c-3939f5aac45683eaf4bc86a85912a87a]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3939f5aac45683eaf4bc86a85912a87a]: Commencement: S. 60 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-3939f5aac45683eaf4bc86a85912a87a]: Commencement: S. 60 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

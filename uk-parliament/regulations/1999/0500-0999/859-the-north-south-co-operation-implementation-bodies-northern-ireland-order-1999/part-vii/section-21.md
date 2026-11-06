@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Transfer to the body of existing statutory functions[^key-d2243cb0ffd0463bacd1028e8c978bb8]
+## 21. Transfer to the body of existing statutory functions[^c-d2243cb0ffd0463bacd1028e8c978bb8]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2243cb0ffd0463bacd1028e8c978bb8]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/1999/859/article/21) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-d2243cb0ffd0463bacd1028e8c978bb8]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/1999/859/article/21) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
 [^f00006]: Footnote: [1952 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1952/5)

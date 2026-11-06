@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Exclusion: Contracts awarded by certain utilities for the purchase of water and for the supply of energy or of fuels for the production of energy[^key-a61fcc4390e881a785c53b57cc8d9141]
+## 22. Exclusion: Contracts awarded by certain utilities for the purchase of water and for the supply of energy or of fuels for the production of energy[^c-a61fcc4390e881a785c53b57cc8d9141]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ These Regulations do not apply to procurement for the award of a contract—
 
 ## Annotations
 
-[^key-a61fcc4390e881a785c53b57cc8d9141]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/49/regulation/22) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-a61fcc4390e881a785c53b57cc8d9141]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/49/regulation/22) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

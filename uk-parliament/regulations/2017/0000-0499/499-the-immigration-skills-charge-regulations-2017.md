@@ -44,11 +44,11 @@ The Secretary of State makes the following Regulations with the consent of the T
 
 In accordance with section 74(2)(ja)[^f00002] of the Immigration Act 2014, a draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-cd4934fb0d5533fd0988010d46e5a9d2]
+## 1. Citation and commencement[^c-cd4934fb0d5533fd0988010d46e5a9d2]
 
 These Regulations may be cited as the Immigration Skills Charge Regulations 2017 and come into force on 6th April 2017.
 
-## 2. Interpretation[^key-81146148d4773b96ceea50c7bab1d673]
+## 2. Interpretation[^c-81146148d4773b96ceea50c7bab1d673]
 
 In these Regulations—
 
@@ -56,7 +56,7 @@ In these Regulations—
 - “the charge” means the charge which a sponsor must pay under regulation 3, and any reference to the amount of that charge is a reference to that charge in pounds sterling;
 - “immigration rules” means rules made under section 3(2) of the Immigration Act 1971[^f00003];
 - “leave to enter” and “leave to remain” mean leave to enter the United Kingdom and leave to remain in the United Kingdom respectively, given in accordance with the provisions of the Immigration Act 1971 or the immigration rules;
-- “skilled worker” means an individual who, in order to undertake employment, seeks entry clearance or leave to remain via an immigration route that—[^key-e8018c1d900a3160e35e2a9b67019196]
+- “skilled worker” means an individual who, in order to undertake employment, seeks entry clearance or leave to remain via an immigration route that—[^c-e8018c1d900a3160e35e2a9b67019196]
   - (a) requires the individual’s role to be skilled appropriately in accordance with the immigration rules;
   - (b) requires the individual’s remuneration to meet or exceed a minimum threshold in accordance with the immigration rules;
   - (c) requires the individual to be sponsored in accordance with the immigration rules; and
@@ -67,15 +67,15 @@ In these Regulations—
   - (c) a person who employs no more than 50 employees;
 - “sponsor” means a person licensed by the Secretary of State to assign certificates of sponsorship to an individual who is a skilled worker.
 
-## 3. Obligation to pay a charge[^key-5abee327654d496860941d6e84dcdce2]
+## 3. Obligation to pay a charge[^c-5abee327654d496860941d6e84dcdce2]
 
 A sponsor must pay a charge to the Secretary of State, in the amount specified in the Schedule, each time it assigns a certificate of sponsorship to a skilled worker.
 
-## 4. Exemptions from the charge[^key-53559b274fd68897afc49f7b7a58846c]
+## 4. Exemptions from the charge[^c-53559b274fd68897afc49f7b7a58846c]
 
 The obligation to pay the charge does not apply where a sponsor assigns a certificate of sponsorship to a skilled worker—
 
-- (a)[^key-f5ceb323cc5d4cd5ac78991c82e110df] in respect of an occupation coming within any of the following codes in version 12 of the Standard Occupational Classification 2020 Index—
+- (a)[^c-f5ceb323cc5d4cd5ac78991c82e110df] in respect of an occupation coming within any of the following codes in version 12 of the Standard Occupational Classification 2020 Index—
   - (i) 2111 (chemical scientists);
   - (ii) 2112 (biological scientists);
   - (iii) 2113 (biochemists and biomedical scientists);
@@ -96,22 +96,22 @@ The obligation to pay the charge does not apply where a sponsor assigns a certif
   - (ii) by virtue of paragraph (d), the sponsor was not obliged to pay the charge when the first certificate was assigned; and
   - (iii) the assignment of any subsequent certificate of sponsorship relates to the same role as the first certificate;
 - (f) who seeks entry clearance for a period of less than six months;
-- (g)[^key-ff3013a29c56e70ced8d265dcda8be03] who is intended to be a Scale-up Worker, within the meaning given by paragraph 6 of the immigration rules;
+- (g)[^c-ff3013a29c56e70ced8d265dcda8be03] who is intended to be a Scale-up Worker, within the meaning given by paragraph 6 of the immigration rules;
 - (h) who is intended to be:
   - (i) a Senior or Specialist Worker, within the meaning given by paragraph 6 of the immigration rules; and
   - (ii) the subject of an intra-corporate transfer for a period of no more than 36 months as an intra-corporate transferee, as defined by Article 140(5)(d) to (g) of the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part.
 
-## 5. Consequences of non-payment[^key-a00c4b69d000b532cae193e9b3537c19]
+## 5. Consequences of non-payment[^c-a00c4b69d000b532cae193e9b3537c19]
 
 (1) Any purported assignment of a certificate of sponsorship is invalid whilst the obligation to pay the charge is outstanding, and the Secretary of State must treat the purported assignment as invalid for as long as that obligation remains outstanding.
 
 (2) But paragraph (1) does not prevent the valid assignment of a certificate of sponsorship when the Secretary of State waives part or all of the charge in accordance with regulation 6.
 
-## 6. Refund or waiver of part or all of the charge[^key-42ecf7bf382a5882f2b6967d92a0eac8]
+## 6. Refund or waiver of part or all of the charge[^c-42ecf7bf382a5882f2b6967d92a0eac8]
 
 The Secretary of State may refund or waive part or all of the charge.
 
-## 7. Transitional provision[^key-2ef2900f400789fce7ecb99d2176109a]
+## 7. Transitional provision[^c-2ef2900f400789fce7ecb99d2176109a]
 
 A sponsor is not subject to the obligation to pay the charge where—
 
@@ -142,13 +142,13 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 3
 
-**1.**[^key-4f9cef83804eb1a2eca47a541adc912d] The amount of the charge payable by a small or charitable sponsor is the amount specified in column 2 of the Table which corresponds to the period of prospective employment in respect of which the certificate of sponsorship is assigned specified in column 1.
+**1.**[^c-4f9cef83804eb1a2eca47a541adc912d] The amount of the charge payable by a small or charitable sponsor is the amount specified in column 2 of the Table which corresponds to the period of prospective employment in respect of which the certificate of sponsorship is assigned specified in column 1.
 
-**2.**[^key-c3f4f74d126ec822debc18f72bde1498] The amount of the charge payable by a sponsor other than a small or charitable sponsor is the amount specified in column 3 of the Table which corresponds to the period of prospective employment in respect of which the certificate of sponsorship is assigned specified in column 1.
+**2.**[^c-c3f4f74d126ec822debc18f72bde1498] The amount of the charge payable by a sponsor other than a small or charitable sponsor is the amount specified in column 3 of the Table which corresponds to the period of prospective employment in respect of which the certificate of sponsorship is assigned specified in column 1.
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| 12 months or less[^key-b22f65fe70e8dd39ae495c264f634cd1] | £480 | £1320 |
+| 12 months or less[^c-b22f65fe70e8dd39ae495c264f634cd1] | £480 | £1320 |
 | More than 12 months, but no more than 18 months | £720 | £1980 |
 | More than 18 months, but no more than 24 months | £960 | £2640 |
 | More than 24 months, but no more than 30 months | £1200 | £3300 |
@@ -176,13 +176,13 @@ A full regulatory impact assessment has not been produced for this instrument. T
 
 [^f00002]: Footnote: Sub-paragraph (ja) was inserted by section 85(3) of the Immigration Act 2016.
 
-[^key-cd4934fb0d5533fd0988010d46e5a9d2]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-cd4934fb0d5533fd0988010d46e5a9d2]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-81146148d4773b96ceea50c7bab1d673]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-81146148d4773b96ceea50c7bab1d673]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
 [^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-e8018c1d900a3160e35e2a9b67019196]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/499/regulation/2) substituted (1.12.2020) by [The Immigration Skills Charge (Amendment) Regulations 2020 (S.I. 2020/1208)](https://www.legislation.gov.uk/uksi/2020/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1208/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1208/regulation/2/2)
+[^c-e8018c1d900a3160e35e2a9b67019196]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/499/regulation/2) substituted (1.12.2020) by [The Immigration Skills Charge (Amendment) Regulations 2020 (S.I. 2020/1208)](https://www.legislation.gov.uk/uksi/2020/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1208/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1208/regulation/2/2)
 
 [^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46); section 381 was amended by regulation 6(1) of [S.I. 2008/393](https://www.legislation.gov.uk/uksi/2008/393) in respect of financial years beginning on or after 6th April 2008; section 381 applies to unregistered companies, as defined in regulation 2 of [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), with modifications by virtue of regulations 3 to 5, 7 and 9 and paragraph 10(1) of Schedule 1 to those Regulations.
 
@@ -192,22 +192,22 @@ A full regulatory impact assessment has not been produced for this instrument. T
 
 [^f00009]: Footnote: See section 3 of the Charities and Trustee Investment (Scotland) Act 2005 ([2005 asp 10](https://www.legislation.gov.uk/asp/2005/10)).
 
-[^key-5abee327654d496860941d6e84dcdce2]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-5abee327654d496860941d6e84dcdce2]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-53559b274fd68897afc49f7b7a58846c]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-53559b274fd68897afc49f7b7a58846c]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-f5ceb323cc5d4cd5ac78991c82e110df]: Textual amendment: Reg. 4(a) substituted (16.12.2025) by [The Immigration Skills Charge (Amendment) Regulations 2025 (S.I. 2025/1324)](https://www.legislation.gov.uk/uksi/2025/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/2/2)
+[^c-f5ceb323cc5d4cd5ac78991c82e110df]: Textual amendment: Reg. 4(a) substituted (16.12.2025) by [The Immigration Skills Charge (Amendment) Regulations 2025 (S.I. 2025/1324)](https://www.legislation.gov.uk/uksi/2025/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/2/2)
 
-[^key-ff3013a29c56e70ced8d265dcda8be03]: Textual amendment: Reg. 4(g)(h) inserted (1.1.2023) by [The Immigration Skills Charge (Amendment) Regulations 2022 (S.I. 2022/1391)](https://www.legislation.gov.uk/uksi/2022/1391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1391/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1391/regulation/2/2)
+[^c-ff3013a29c56e70ced8d265dcda8be03]: Textual amendment: Reg. 4(g)(h) inserted (1.1.2023) by [The Immigration Skills Charge (Amendment) Regulations 2022 (S.I. 2022/1391)](https://www.legislation.gov.uk/uksi/2022/1391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1391/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1391/regulation/2/2)
 
-[^key-a00c4b69d000b532cae193e9b3537c19]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-a00c4b69d000b532cae193e9b3537c19]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-42ecf7bf382a5882f2b6967d92a0eac8]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-42ecf7bf382a5882f2b6967d92a0eac8]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-2ef2900f400789fce7ecb99d2176109a]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-2ef2900f400789fce7ecb99d2176109a]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-4f9cef83804eb1a2eca47a541adc912d]: Commencement: Sch. para. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-4f9cef83804eb1a2eca47a541adc912d]: Commencement: Sch. para. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-c3f4f74d126ec822debc18f72bde1498]: Commencement: Sch. para. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
+[^c-c3f4f74d126ec822debc18f72bde1498]: Commencement: Sch. para. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/499/regulation/1)
 
-[^key-b22f65fe70e8dd39ae495c264f634cd1]: Textual amendment: Sch. para. 2 Table substituted (16.12.2025) by [The Immigration Skills Charge (Amendment) Regulations 2025 (S.I. 2025/1324)](https://www.legislation.gov.uk/uksi/2025/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/2/3)
+[^c-b22f65fe70e8dd39ae495c264f634cd1]: Textual amendment: Sch. para. 2 Table substituted (16.12.2025) by [The Immigration Skills Charge (Amendment) Regulations 2025 (S.I. 2025/1324)](https://www.legislation.gov.uk/uksi/2025/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1324/regulation/2/3)

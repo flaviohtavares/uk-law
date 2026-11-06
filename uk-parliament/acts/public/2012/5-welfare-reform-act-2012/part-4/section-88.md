@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Claims, awards and information[^key-842553ede3766f508f7e52174dc9a3c5][^key-f75a99c72d45e32c5e7ae9b82159725f]
+## 88. Claims, awards and information[^c-842553ede3766f508f7e52174dc9a3c5][^c-f75a99c72d45e32c5e7ae9b82159725f]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-842553ede3766f508f7e52174dc9a3c5]: Commencement: S. 88 in force at 8.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/h), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3)
+[^c-842553ede3766f508f7e52174dc9a3c5]: Commencement: S. 88 in force at 8.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/h), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3)
 
-[^key-f75a99c72d45e32c5e7ae9b82159725f]: Commencement: S. 88 in force at 10.6.2013 in so far as not already in force by [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
+[^c-f75a99c72d45e32c5e7ae9b82159725f]: Commencement: S. 88 in force at 10.6.2013 in so far as not already in force by [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)

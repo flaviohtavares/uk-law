@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Requirement to serve repairs notice before starting compulsory acquisition[^key-4267161fba0be434e68ce10c5d5886f0][^key-32b088961ea38acaa819816b645d5f4a]
+## 138. Requirement to serve repairs notice before starting compulsory acquisition[^c-4267161fba0be434e68ce10c5d5886f0][^c-32b088961ea38acaa819816b645d5f4a]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ the demolition of the building does not prevent the compulsory acquisition of th
 
 ## Annotations
 
-[^key-4267161fba0be434e68ce10c5d5886f0]: Commencement: S. 138 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4267161fba0be434e68ce10c5d5886f0]: Commencement: S. 138 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-32b088961ea38acaa819816b645d5f4a]: Commencement: [S. 138](https://www.legislation.gov.uk/asc/2023/3/section/138) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-32b088961ea38acaa819816b645d5f4a]: Commencement: [S. 138](https://www.legislation.gov.uk/asc/2023/3/section/138) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

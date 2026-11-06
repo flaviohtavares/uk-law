@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Endorsement of counterparts where penalty paid.[^key-bdd7829ba5fb0310cd72fa0af1c5bbf9][^key-5ea7a96ddbdc22a581450f08c439ea71]
+## 77. Endorsement of counterparts where penalty paid.[^c-bdd7829ba5fb0310cd72fa0af1c5bbf9][^c-5ea7a96ddbdc22a581450f08c439ea71]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdd7829ba5fb0310cd72fa0af1c5bbf9]: Textual amendment: S. 77 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 53](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/53), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-bdd7829ba5fb0310cd72fa0af1c5bbf9]: Textual amendment: S. 77 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 53](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/53), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-5ea7a96ddbdc22a581450f08c439ea71]: Textual amendment: Words in s. 77 heading inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/2/paragraph/26/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)
+[^c-5ea7a96ddbdc22a581450f08c439ea71]: Textual amendment: Words in s. 77 heading inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/2/paragraph/26/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)

@@ -39,12 +39,12 @@ summary: ''
 
 (5) CIL regulations may permit or require a charging authority to apply CIL (either generally or subject to limits set by or determined in accordance with the regulations) for expenditure incurred under this section.
 
-(6) A dispute about compensation may be referred to and determined by the Upper Tribunal[^key-c2ec0013223adb31b62278751a5659da].
+(6) A dispute about compensation may be referred to and determined by the Upper Tribunal[^c-c2ec0013223adb31b62278751a5659da].
 
-(7) In relation to the determination of any such question, the provisions of section[^key-3aa98d81a901ca113bd07710a74c3d9f] 4 of the Land Compensation Act 1961 (c. 33) apply subject to any necessary modifications and to the provisions of CIL regulations.
+(7) In relation to the determination of any such question, the provisions of section[^c-3aa98d81a901ca113bd07710a74c3d9f] 4 of the Land Compensation Act 1961 (c. 33) apply subject to any necessary modifications and to the provisions of CIL regulations.
 
 ## Annotations
 
-[^key-c2ec0013223adb31b62278751a5659da]: Textual amendment: Words in s. 219(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 296(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/296/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-c2ec0013223adb31b62278751a5659da]: Textual amendment: Words in s. 219(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 296(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/296/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-3aa98d81a901ca113bd07710a74c3d9f]: Textual amendment: Word in s. 219(7) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 296(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/296/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-3aa98d81a901ca113bd07710a74c3d9f]: Textual amendment: Word in s. 219(7) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 296(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/296/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

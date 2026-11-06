@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Matters which may be dealt with by prospectus rules[^key-603e17e11aa99a3ff1692a3a6c76073e]
+## 6. Matters which may be dealt with by prospectus rules[^c-603e17e11aa99a3ff1692a3a6c76073e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-603e17e11aa99a3ff1692a3a6c76073e]: Textual amendment: Reg. 6 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/1234/regulation/12) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))
+[^c-603e17e11aa99a3ff1692a3a6c76073e]: Textual amendment: Reg. 6 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/1234/regulation/12) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))

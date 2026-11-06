@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192Q. Application for approval or exemption[^key-4d512704618ed9bb6b40a3628ede6e5b]
+## 192Q. Application for approval or exemption[^c-4d512704618ed9bb6b40a3628ede6e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ must be made by the company concerned.
 
 ## Annotations
 
-[^key-4d512704618ed9bb6b40a3628ede6e5b]: Textual amendment: Pt. 12B inserted (28.12.2020 for specified purposes, 29.12.2020 in so far as not already in force) by [The Financial Holding Companies (Approval etc.) and Capital Requirements (Capital Buffers and Macro-prudential Measures) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1406)](https://www.legislation.gov.uk/uksi/2020/1406), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1406/regulation/5))
+[^c-4d512704618ed9bb6b40a3628ede6e5b]: Textual amendment: Pt. 12B inserted (28.12.2020 for specified purposes, 29.12.2020 in so far as not already in force) by [The Financial Holding Companies (Approval etc.) and Capital Requirements (Capital Buffers and Macro-prudential Measures) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1406)](https://www.legislation.gov.uk/uksi/2020/1406), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1406/regulation/5))

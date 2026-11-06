@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Statements of policy concerning communications with members and employing authorities[^key-1149b7baa8c4191d193e5b897adfd0c7]
+## 67. Statements of policy concerning communications with members and employing authorities[^c-1149b7baa8c4191d193e5b897adfd0c7]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1149b7baa8c4191d193e5b897adfd0c7]: Commencement: Reg. 67 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-1149b7baa8c4191d193e5b897adfd0c7]: Commencement: Reg. 67 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00045]: Footnote: Regulation 106B was inserted by [S.I.2005/3199](https://www.legislation.gov.uk/uksi/2005/3199).

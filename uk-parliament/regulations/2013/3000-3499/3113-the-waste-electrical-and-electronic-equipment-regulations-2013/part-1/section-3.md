@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Interpretation of documents[^key-8f74ec01a4220d3be10e63183bc914d5]
+## 3. Interpretation of documents[^c-8f74ec01a4220d3be10e63183bc914d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-8f74ec01a4220d3be10e63183bc914d5]: Commencement: Reg. 3 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-8f74ec01a4220d3be10e63183bc914d5]: Commencement: Reg. 3 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

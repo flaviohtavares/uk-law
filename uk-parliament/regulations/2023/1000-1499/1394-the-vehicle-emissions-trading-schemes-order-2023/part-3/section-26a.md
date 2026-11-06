@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Trading CRTS credits with VRTS participants: SPV car manufacturers[^key-517217b79ba7136bbb01021f7758caa1]
+## 26A. Trading CRTS credits with VRTS participants: SPV car manufacturers[^c-517217b79ba7136bbb01021f7758caa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-517217b79ba7136bbb01021f7758caa1]: Textual amendment: [Art. 26A](https://www.legislation.gov.uk/uksi/2023/1394/article/26A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [14](https://www.legislation.gov.uk/uksi/2025/1101/article/14)
+[^c-517217b79ba7136bbb01021f7758caa1]: Textual amendment: [Art. 26A](https://www.legislation.gov.uk/uksi/2023/1394/article/26A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [14](https://www.legislation.gov.uk/uksi/2025/1101/article/14)

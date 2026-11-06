@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Immigration[^key-77ce404dc05032da4110c8485e099c0e]
+## 17. Immigration[^c-77ce404dc05032da4110c8485e099c0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ A person who is designated under regulation 5 (power to designate persons) for t
 
 ## Annotations
 
-[^key-77ce404dc05032da4110c8485e099c0e]: Commencement: Reg. 17 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-77ce404dc05032da4110c8485e099c0e]: Commencement: Reg. 17 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500181]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 8B was inserted by the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 8](https://www.legislation.gov.uk/ukpga/1999/33/section/8); and amended by the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [section 76](https://www.legislation.gov.uk/ukpga/2016/19/section/76); and the Sanctions and Anti-Money Laundering Act 2018, section 59 and Schedule 3, Part 1.

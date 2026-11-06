@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S*
 
-### 1. Listing of automated vehicles by the Secretary of State[^key-7b09d66ba41e2633b8e65cf159c13f03]
+### 1. Listing of automated vehicles by the Secretary of State[^c-7b09d66ba41e2633b8e65cf159c13f03]
 
 (1) The Secretary of State must prepare, and keep up to date, a list of all motor vehicles that—
 
@@ -57,7 +57,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) In this Part “**automated vehicle**” means a vehicle listed under this section.
 
-### 2. Liability of insurers etc where accident caused by automated vehicle[^key-f2a78cb689f27898d9592cacac19cf40]
+### 2. Liability of insurers etc where accident caused by automated vehicle[^c-f2a78cb689f27898d9592cacac19cf40]
 
 (1) Where—
 
@@ -94,7 +94,7 @@ the owner of the vehicle is liable for that damage.
 
 (7) The imposition by this section of liability on the insurer or vehicle owner does not affect any other person's liability in respect of the accident.
 
-### 3. Contributory negligence etc[^key-4afe71113a025d3efe96d6a9204e75fe]
+### 3. Contributory negligence etc[^c-4afe71113a025d3efe96d6a9204e75fe]
 
 (1) Where—
 
@@ -105,7 +105,7 @@ the amount of the liability is subject to whatever reduction under the Law Refor
 
 (2) The insurer or owner of an automated vehicle is not liable under section 2 to the person in charge of the vehicle where the accident that it caused was wholly due to the person's negligence in allowing the vehicle to begin driving itself when it was not appropriate to do so.
 
-### 4. Accident resulting from unauthorised software alterations or failure to update software[^key-20028a1660535efdabd185a668cf0a99]
+### 4. Accident resulting from unauthorised software alterations or failure to update software[^c-20028a1660535efdabd185a668cf0a99]
 
 (1) An insurance policy in respect of an automated vehicle may exclude or limit the insurer's liability under section 2(1) for damage suffered by an insured person arising from an accident occurring as a direct result of—
 
@@ -130,7 +130,7 @@ the amount paid by the insurer is recoverable from that person to the extent pro
 - (a) “software alterations” and “**software updates**”, in relation to an automated vehicle, mean (respectively) alterations and updates to the vehicle's software;
 - (b) software updates are “safety-critical” if it would be unsafe to use the vehicle in question without the updates being installed.
 
-### 5. Right of insurer etc to claim against person responsible for accident[^key-970e37319432307a65ddf569e76885af]
+### 5. Right of insurer etc to claim against person responsible for accident[^c-970e37319432307a65ddf569e76885af]
 
 (1) Where—
 
@@ -156,7 +156,7 @@ any other person liable to the injured party in respect of the accident is under
 
 the right of action that an insurer or vehicle owner has by virtue of this section accrues at the time of the settlement referred to in subsection (1)(b).
 
-### 6. Application of enactments[^key-3999e019a58f9f775a2b24033ddfb602]
+### 6. Application of enactments[^c-3999e019a58f9f775a2b24033ddfb602]
 
 (1) Any damage for which a person is liable under section 2 is treated as if it had been caused—
 
@@ -178,7 +178,7 @@ the right of action that an insurer or vehicle owner has by virtue of this secti
 
 (5) An insurer or vehicle owner who has a right of action against a person by virtue of section 5 does not have a right to recover contribution from that person under the Civil Liability (Contribution) Act 1978 or under section 3 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1940.
 
-### 7. Report by Secretary of State on operation of this Part[^key-6a12d01a782e9770ee542051782c28e1]
+### 7. Report by Secretary of State on operation of this Part[^c-6a12d01a782e9770ee542051782c28e1]
 
 (1) The Secretary of State must prepare a report assessing—
 
@@ -187,7 +187,7 @@ the right of action that an insurer or vehicle owner has by virtue of this secti
 
 (2) The report must be laid before Parliament no later than two years after the first publication of the list under section 1.
 
-### 8. Interpretation[^key-d821a6d059597449c787ca503c6ccb21]
+### 8. Interpretation[^c-d821a6d059597449c787ca503c6ccb21]
 
 (1) For the purposes of this Part—
 
@@ -211,7 +211,7 @@ the right of action that an insurer or vehicle owner has by virtue of this secti
 
 ### Introductory
 
-#### 9. Definitions[^key-4b174ed82e34c3d4dd29b1615d64a87f]
+#### 9. Definitions[^c-4b174ed82e34c3d4dd29b1615d64a87f]
 
 (1) For the purposes of this Part—
 
@@ -227,7 +227,7 @@ the right of action that an insurer or vehicle owner has by virtue of this secti
 
 ### Requirements and prohibitions
 
-#### 10. Public charging or refuelling points: access, standards and connection[^key-33f539aff49fc5cfc7edb30686039b2b]
+#### 10. Public charging or refuelling points: access, standards and connection[^c-33f539aff49fc5cfc7edb30686039b2b]
 
 (1) Regulations may impose requirements on operators of public charging or refuelling points in connection with—
 
@@ -245,7 +245,7 @@ the right of action that an insurer or vehicle owner has by virtue of this secti
 
 (4) Regulations under subsection (1)(c) may, for example, require the operator of a public charging or refuelling point to ensure that its connecting components comply with prescribed requirements (which may include technical specifications for connecting components or any related equipment).
 
-#### 11. Large fuel retailers etc: provision of public charging or refuelling points[^key-dbc2a1098bfb0e545a2f8386f2389e69]
+#### 11. Large fuel retailers etc: provision of public charging or refuelling points[^c-dbc2a1098bfb0e545a2f8386f2389e69]
 
 (1) Regulations may impose requirements on—
 
@@ -307,7 +307,7 @@ in connection with the provision on their premises of public charging or refuell
   - (b) a county council, or
   - (c) a London borough council.
 
-#### 13. Information for users of public charging or refuelling points[^key-203596ccd98e7175f2c1cc50c4bd7c01]
+#### 13. Information for users of public charging or refuelling points[^c-203596ccd98e7175f2c1cc50c4bd7c01]
 
 (1) Regulations may require operators of public charging or refuelling points to make available prescribed information relating to such points.
 
@@ -328,7 +328,7 @@ in connection with the provision on their premises of public charging or refuell
 
 (4) The regulations may be made so as to have effect for a prescribed period.
 
-#### 14. Transmission of data relating to charge points[^key-5679b52a29f76848de69f1265d0aa744]
+#### 14. Transmission of data relating to charge points[^c-5679b52a29f76848de69f1265d0aa744]
 
 (1) Regulations may make provision for the purpose of ensuring the ongoing transmission of charge point data to a prescribed person or to persons of a prescribed description.
 
@@ -343,7 +343,7 @@ in connection with the provision on their premises of public charging or refuell
 
 (5) Regulations under subsection (1) may make provision about when, how and in what form charge point data is to be transmitted.
 
-#### 15. Smart charge points[^key-7387cf1f9ad7b464c59e7bcad08fe32e]
+#### 15. Smart charge points[^c-7387cf1f9ad7b464c59e7bcad08fe32e]
 
 (1) Regulations may provide that a person must not sell or install a charge point unless it complies with prescribed requirements.
 
@@ -368,7 +368,7 @@ in connection with the provision on their premises of public charging or refuell
 
 ### General and supplementary
 
-#### 16. Enforcement[^key-b72ad395b8e22f236d2a99d2688c0766]
+#### 16. Enforcement[^c-b72ad395b8e22f236d2a99d2688c0766]
 
 (1) Regulations under this Part may make provision for enforcement in connection with a contravention of a requirement or prohibition imposed by the regulations.
 
@@ -391,7 +391,7 @@ in connection with the provision on their premises of public charging or refuell
   - (iii) the making of photographs or copies, and
   - (iv) the removal of any thing for the purpose of inspection or testing and its retention for that purpose for a reasonable period.
 
-#### 17. Exceptions[^key-785190feaf7bce243c61515f812705c7]
+#### 17. Exceptions[^c-785190feaf7bce243c61515f812705c7]
 
 (1) Regulations under this Part may create exceptions from any requirement or prohibition imposed by the regulations.
 
@@ -401,7 +401,7 @@ in connection with the provision on their premises of public charging or refuell
 
 (4) The Secretary of State must publish a determination made under subsection (3).
 
-#### 18. Regulations[^key-98dbe8a955e565535d901dd08bcc3d46]
+#### 18. Regulations[^c-98dbe8a955e565535d901dd08bcc3d46]
 
 (1) Regulations under this Part—
 
@@ -444,7 +444,7 @@ the instrument containing the regulations is subject to annulment in pursuance o
 
 (9) In subsection (8) “**relevant section 11(1)(a) regulations**” means regulations under section 11(1)(a) that are made pursuant to section 12 (duty to consider making regulations under section 11(1)(a) on request by elected mayor).
 
-#### 19. Report by Secretary of State on operation of this Part[^key-8961204c5d99620b661559085249f97a]
+#### 19. Report by Secretary of State on operation of this Part[^c-8961204c5d99620b661559085249f97a]
 
 (1) The Secretary of State must, in respect of each reporting period, prepare a report assessing—
 
@@ -461,7 +461,7 @@ the instrument containing the regulations is subject to annulment in pursuance o
 
 ### 20. Minor and consequential amendments[^c23388881]
 
-(1)[^key-3e56ebb3429bb913f08cd7847bb322bb] The Schedule (minor and consequential amendments) has effect.
+(1)[^c-3e56ebb3429bb913f08cd7847bb322bb] The Schedule (minor and consequential amendments) has effect.
 
 (2) The Secretary of State may by regulations make provision that is consequential on any provision made by this Act.
 
@@ -517,15 +517,15 @@ Section 20
 
 ### Prescription and Limitation (Scotland) Act 1973 (c. 52)
 
-**1.**[^key-f74a660bea4f3e82af905dd1f31087ad] In section 17 of the Prescription and Limitation (Scotland) Act 1973 (actions in respect of personal injuries not resulting in death), after subsection (1) insert—
+**1.**[^c-f74a660bea4f3e82af905dd1f31087ad] In section 17 of the Prescription and Limitation (Scotland) Act 1973 (actions in respect of personal injuries not resulting in death), after subsection (1) insert—
 
 > (1A) This section does not apply to an action of damages in respect of personal injuries to which section 18ZA applies.
 
-**2.**[^key-7537cf7f27567dbc9b474d82c5320cc7] In section 18 of that Act (actions where death has resulted from personal injuries), after subsection (1) insert—
+**2.**[^c-7537cf7f27567dbc9b474d82c5320cc7] In section 18 of that Act (actions where death has resulted from personal injuries), after subsection (1) insert—
 
 > (1A) This section does not apply to an action of damages in respect of personal injuries or death to which section 18ZA applies.
 
-**3.**[^key-518e0cadadf6d2adb832e4cf4599e42a] After that section insert—
+**3.**[^c-518e0cadadf6d2adb832e4cf4599e42a] After that section insert—
 
 > **18ZA. Actions under section 2 of the Automated and Electric Vehicles Act 2018**
 >
@@ -576,16 +576,16 @@ Section 20
 >
 > (2) The action may not be brought after the expiry of the period of 2 years beginning with the date on which the right of action accrued (under subsection (5) of that section).
 
-**4.**[^key-ed880b3c1fa74d448a0846e8a965f843] In section 19CA of that Act (interruption of limitation period: arbitration), in subsection (1), after “18(2),” insert “ 18ZA(2) or (7), 18ZC(2), ”.
+**4.**[^c-ed880b3c1fa74d448a0846e8a965f843] In section 19CA of that Act (interruption of limitation period: arbitration), in subsection (1), after “18(2),” insert “ 18ZA(2) or (7), 18ZC(2), ”.
 
-**5.**[^key-02bec7a0f1efe38be35088da62fe6949] In section 19F of that Act (extension of limitation periods: cross-border mediation), in subsection (1), after “18,” insert “ 18ZA, 18ZC, ”.
+**5.**[^c-02bec7a0f1efe38be35088da62fe6949] In section 19F of that Act (extension of limitation periods: cross-border mediation), in subsection (1), after “18,” insert “ 18ZA, 18ZC, ”.
 
-**6.**[^key-242d44d9384e28d111ba5d80f8075204] In section 22 of that Act (interpretation of Part 2 and supplementary provisions), in subsection (2)—
+**6.**[^c-242d44d9384e28d111ba5d80f8075204] In section 22 of that Act (interpretation of Part 2 and supplementary provisions), in subsection (2)—
 
 - (a) for “or 18A” substitute “ , 18A or 18ZA ”;
 - (b) after “the said section 18A” insert “ or subsection (3) or (7)(b) of the said section 18ZA ”.
 
-**7.**[^key-ba249ff80f0e6c49625c0aabb1cf0423] In Schedule 1 to that Act (obligations affected by prescriptive periods of 5 years under section 6), in paragraph 2, after sub-paragraph (g) insert—
+**7.**[^c-ba249ff80f0e6c49625c0aabb1cf0423] In Schedule 1 to that Act (obligations affected by prescriptive periods of 5 years under section 6), in paragraph 2, after sub-paragraph (g) insert—
 
 > - (ga) to any obligation to make reparation arising from liability under section 2 of the Automated and Electric Vehicles Act 2018 (liability of insurer etc. where accident caused by automated vehicle);”.
 
@@ -593,9 +593,9 @@ Section 20
 
 ### Limitation Act 1980 (c. 58)
 
-**8.**[^key-19238516863f1bb9fdfe53a0a04aeaa8] In section 9 of the Limitation Act 1980 (time limit for actions for sums recoverable by statute), in subsection (2), after “section 10” insert “ or 10A ”.
+**8.**[^c-19238516863f1bb9fdfe53a0a04aeaa8] In section 9 of the Limitation Act 1980 (time limit for actions for sums recoverable by statute), in subsection (2), after “section 10” insert “ or 10A ”.
 
-**9.**[^key-d7eb96f0a0eef4b04221155e2f624e4a] After section 10 of that Act insert—
+**9.**[^c-d7eb96f0a0eef4b04221155e2f624e4a] After section 10 of that Act insert—
 
 > **10A. Special time limit for actions by insurers etc in respect of automated vehicles**
 >
@@ -603,9 +603,9 @@ Section 20
 >
 > (2) An action referred to in subsection (1) shall be one to which sections 32, 33A and 35 of this Act apply, but otherwise Parts 2 and 3 of this Act (except sections 37 and 38) shall not apply for the purposes of this section.
 
-**10.**[^key-95671bb1b47bba4e67754289a71800fd] In the italic heading before section 11 of that Act, after “personal injuries or death” insert “ etc ”.
+**10.**[^c-95671bb1b47bba4e67754289a71800fd] In the italic heading before section 11 of that Act, after “personal injuries or death” insert “ etc ”.
 
-**11.**[^key-54fa6a9cade72849186730c11ec45c95] After section 11A of that Act insert—
+**11.**[^c-54fa6a9cade72849186730c11ec45c95] After section 11A of that Act insert—
 
 > **11B. Actions against insurers etc of automated vehicles**
 >
@@ -634,9 +634,9 @@ Section 20
 >
 > (7) In this section “**personal representative**” has the same meaning as in section 11 of this Act.
 
-**12.**[^key-2ff07acd7b9eec519e1d5cd584c38bd1] In section 12 of that Act (special time limit for actions under Fatal Accidents legislation), in subsection (1), for “or 11A” substitute “ , 11A or 11B ”.
+**12.**[^c-2ff07acd7b9eec519e1d5cd584c38bd1] In section 12 of that Act (special time limit for actions under Fatal Accidents legislation), in subsection (1), for “or 11A” substitute “ , 11A or 11B ”.
 
-**13.**[^key-13ec701562611e5febccd5cbb5cf7847] (1) Section 14 of that Act (definition of date of knowledge for purposes of sections 11 and 12) is amended as follows.
+**13.**[^c-13ec701562611e5febccd5cbb5cf7847] (1) Section 14 of that Act (definition of date of knowledge for purposes of sections 11 and 12) is amended as follows.
 
 (2) In the heading, for “sections 11 and 12” substitute “ sections 11 to 12 ”.
 
@@ -652,9 +652,9 @@ Section 20
 >
 > Expressions used in this subsection that are defined for the purposes of Part 1 of the 2018 Act have the same meaning in this subsection as in that Part.
 
-**14.**[^key-d3fcb5274c1f3b9a09a3103579e70533] In section 28 of that Act (extension of limitation period in case of disability), in subsection (6), after “section 11” insert “ , 11B ”.
+**14.**[^c-d3fcb5274c1f3b9a09a3103579e70533] In section 28 of that Act (extension of limitation period in case of disability), in subsection (6), after “section 11” insert “ , 11B ”.
 
-**15.**[^key-798e6574d430a155ffdabba851241bf4] (1) Section 32 of that Act (postponement of limitation period in case of concealment etc) is amended as follows.
+**15.**[^c-798e6574d430a155ffdabba851241bf4] (1) Section 32 of that Act (postponement of limitation period in case of concealment etc) is amended as follows.
 
 (2) In subsection (1), for “and (4A)” substitute “ , (4A) and (4B) ”.
 
@@ -662,7 +662,7 @@ Section 20
 
 > (4B) Subsection (1) above shall not apply in relation to the time limit prescribed by section 11B(2) or (4) of this Act or in relation to that time limit as applied by virtue of section 12(1) of this Act.
 
-**16.**[^key-a5a8d8f414527d98b926def8777824d0] (1) Section 33 of that Act (discretionary exclusion of time limit) is amended as follows.
+**16.**[^c-a5a8d8f414527d98b926def8777824d0] (1) Section 33 of that Act (discretionary exclusion of time limit) is amended as follows.
 
 (2) In subsection (1), in paragraph (a), for “or 11A” substitute “ , 11A, 11B ”.
 
@@ -680,13 +680,13 @@ Section 20
 
 **Not yet in force.**
 
-**17.**[^key-3c8adfe635ee1adb58f5163e882adbf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-3c8adfe635ee1adb58f5163e882adbf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**18.**[^key-756e249398c985c7d9b257b510d0e6cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-756e249398c985c7d9b257b510d0e6cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-83a096dafab356bc97d984f670d0e975] (1) Section 145 of that Act (requirements in respect of policies of insurance) is amended as follows.
+**19.**[^c-83a096dafab356bc97d984f670d0e975] (1) Section 145 of that Act (requirements in respect of policies of insurance) is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -698,13 +698,13 @@ Section 20
 
 > Paragraph (a) does not apply where the vehicle in question is an automated vehicle.
 
-**20.**[^key-fe207d063f5defb671a2b57bce7add2f] In section 161 of that Act (interpretation), in subsection (1), at the appropriate place insert—
+**20.**[^c-fe207d063f5defb671a2b57bce7add2f] In section 161 of that Act (interpretation), in subsection (1), at the appropriate place insert—
 
 > “**automated vehicle**” means a vehicle listed by the Secretary of State under section 1 of the Automated and Electric Vehicles Act 2018,
 
 .
 
-**21.**[^key-50320a484f5c8ce8787a00421be46248] In section 162 of that Act (index to Part 6), at the appropriate place in the table insert—
+**21.**[^c-50320a484f5c8ce8787a00421be46248] In section 162 of that Act (index to Part 6), at the appropriate place in the table insert—
 
 > |  |  |
 > | --- | --- |
@@ -714,84 +714,84 @@ Section 20
 
 ## Annotations
 
-[^key-7b09d66ba41e2633b8e65cf159c13f03]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/18/section/1) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-7b09d66ba41e2633b8e65cf159c13f03]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/18/section/1) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-f2a78cb689f27898d9592cacac19cf40]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/18/section/2) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-f2a78cb689f27898d9592cacac19cf40]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/18/section/2) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-4afe71113a025d3efe96d6a9204e75fe]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/18/section/3) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-4afe71113a025d3efe96d6a9204e75fe]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/18/section/3) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-20028a1660535efdabd185a668cf0a99]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/18/section/4) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-20028a1660535efdabd185a668cf0a99]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/18/section/4) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-970e37319432307a65ddf569e76885af]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/18/section/5) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-970e37319432307a65ddf569e76885af]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/18/section/5) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-3999e019a58f9f775a2b24033ddfb602]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/18/section/6) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-3999e019a58f9f775a2b24033ddfb602]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/18/section/6) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-6a12d01a782e9770ee542051782c28e1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/18/section/7) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-6a12d01a782e9770ee542051782c28e1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/18/section/7) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-d821a6d059597449c787ca503c6ccb21]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/18/section/8) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-d821a6d059597449c787ca503c6ccb21]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/18/section/8) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
-[^key-4b174ed82e34c3d4dd29b1615d64a87f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2018/18/section/9) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-4b174ed82e34c3d4dd29b1615d64a87f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2018/18/section/9) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-33f539aff49fc5cfc7edb30686039b2b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/18/section/10) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-33f539aff49fc5cfc7edb30686039b2b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/18/section/10) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-dbc2a1098bfb0e545a2f8386f2389e69]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/18/section/11) in force at 27.5.2022 by [S.I. 2022/587](https://www.legislation.gov.uk/uksi/2022/587), [reg. 3](https://www.legislation.gov.uk/uksi/2022/587/regulation/3)
+[^c-dbc2a1098bfb0e545a2f8386f2389e69]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/18/section/11) in force at 27.5.2022 by [S.I. 2022/587](https://www.legislation.gov.uk/uksi/2022/587), [reg. 3](https://www.legislation.gov.uk/uksi/2022/587/regulation/3)
 
-[^key-203596ccd98e7175f2c1cc50c4bd7c01]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/18/section/13) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-203596ccd98e7175f2c1cc50c4bd7c01]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/18/section/13) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-5679b52a29f76848de69f1265d0aa744]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2018/18/section/14) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-5679b52a29f76848de69f1265d0aa744]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2018/18/section/14) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-7387cf1f9ad7b464c59e7bcad08fe32e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/18/section/15) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-7387cf1f9ad7b464c59e7bcad08fe32e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/18/section/15) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-b72ad395b8e22f236d2a99d2688c0766]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2018/18/section/16) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-b72ad395b8e22f236d2a99d2688c0766]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2018/18/section/16) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-785190feaf7bce243c61515f812705c7]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2018/18/section/17) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-785190feaf7bce243c61515f812705c7]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2018/18/section/17) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-98dbe8a955e565535d901dd08bcc3d46]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2018/18/section/18) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-98dbe8a955e565535d901dd08bcc3d46]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2018/18/section/18) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
-[^key-8961204c5d99620b661559085249f97a]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2018/18/section/19) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
+[^c-8961204c5d99620b661559085249f97a]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2018/18/section/19) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/b)
 
 [^c23388881]: Commencement: [S. 20(2)-(7)](https://www.legislation.gov.uk/ukpga/2018/18/section/20/2) in force at Royal Assent, see [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21)
 
-[^key-3e56ebb3429bb913f08cd7847bb322bb]: Commencement: [S. 20(1)](https://www.legislation.gov.uk/ukpga/2018/18/section/20/1) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)
+[^c-3e56ebb3429bb913f08cd7847bb322bb]: Commencement: [S. 20(1)](https://www.legislation.gov.uk/ukpga/2018/18/section/20/1) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)
 
-[^key-f74a660bea4f3e82af905dd1f31087ad]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/1) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-f74a660bea4f3e82af905dd1f31087ad]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/1) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-7537cf7f27567dbc9b474d82c5320cc7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/2) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-7537cf7f27567dbc9b474d82c5320cc7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/2) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-518e0cadadf6d2adb832e4cf4599e42a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/3) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-518e0cadadf6d2adb832e4cf4599e42a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/3) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-ed880b3c1fa74d448a0846e8a965f843]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/4) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-ed880b3c1fa74d448a0846e8a965f843]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/4) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-02bec7a0f1efe38be35088da62fe6949]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/5) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-02bec7a0f1efe38be35088da62fe6949]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/5) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-242d44d9384e28d111ba5d80f8075204]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/6) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-242d44d9384e28d111ba5d80f8075204]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/6) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-ba249ff80f0e6c49625c0aabb1cf0423]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/7) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-ba249ff80f0e6c49625c0aabb1cf0423]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/7) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-19238516863f1bb9fdfe53a0a04aeaa8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/8) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-19238516863f1bb9fdfe53a0a04aeaa8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/8) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-d7eb96f0a0eef4b04221155e2f624e4a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/9) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-d7eb96f0a0eef4b04221155e2f624e4a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/9) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-95671bb1b47bba4e67754289a71800fd]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/10) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-95671bb1b47bba4e67754289a71800fd]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/10) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-54fa6a9cade72849186730c11ec45c95]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/11) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-54fa6a9cade72849186730c11ec45c95]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/11) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-2ff07acd7b9eec519e1d5cd584c38bd1]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/12) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-2ff07acd7b9eec519e1d5cd584c38bd1]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/12) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-13ec701562611e5febccd5cbb5cf7847]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-13ec701562611e5febccd5cbb5cf7847]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-d3fcb5274c1f3b9a09a3103579e70533]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/14) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-d3fcb5274c1f3b9a09a3103579e70533]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/14) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-798e6574d430a155ffdabba851241bf4]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-798e6574d430a155ffdabba851241bf4]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-a5a8d8f414527d98b926def8777824d0]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-a5a8d8f414527d98b926def8777824d0]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-3c8adfe635ee1adb58f5163e882adbf8]: Textual amendment: Sch. para. 17 repealed (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2019/1047/schedule/2/paragraph/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-3c8adfe635ee1adb58f5163e882adbf8]: Textual amendment: Sch. para. 17 repealed (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2019/1047/schedule/2/paragraph/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-756e249398c985c7d9b257b510d0e6cb]: Textual amendment: Sch. para. 18 repealed (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/1047/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-756e249398c985c7d9b257b510d0e6cb]: Textual amendment: Sch. para. 18 repealed (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/1047/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-83a096dafab356bc97d984f670d0e975]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/19) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-83a096dafab356bc97d984f670d0e975]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/19) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-fe207d063f5defb671a2b57bce7add2f]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/20) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-fe207d063f5defb671a2b57bce7add2f]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/20) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-50320a484f5c8ce8787a00421be46248]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/21) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-50320a484f5c8ce8787a00421be46248]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/21) in force at 21.4.2021 by [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)

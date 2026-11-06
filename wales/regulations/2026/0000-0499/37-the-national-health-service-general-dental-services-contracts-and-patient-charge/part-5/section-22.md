@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Mid-year financial adjustments[^key-c522b899d09d9595c05a537f95e20430]
+## 22. Mid-year financial adjustments[^c-c522b899d09d9595c05a537f95e20430]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the sum total of the percentages reported under regulation 21(1) is below 
 
 ## Annotations
 
-[^key-c522b899d09d9595c05a537f95e20430]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2026/37/regulation/22) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-c522b899d09d9595c05a537f95e20430]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2026/37/regulation/22) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

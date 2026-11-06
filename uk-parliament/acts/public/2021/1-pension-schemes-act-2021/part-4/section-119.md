@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Information from occupational pension schemes[^c24494161][^key-65437718427c9fc953fd02e78a248d94]
+## 119. Information from occupational pension schemes[^c24494161][^c-65437718427c9fc953fd02e78a248d94]
 
 *Extent: E+W+S*
 
@@ -188,4 +188,4 @@ summary: ''
 
 [^c24494161]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2021/1/section/119) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-65437718427c9fc953fd02e78a248d94]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2021/1/section/119) in force at 14.10.2022 in so far as not already in force by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/b)
+[^c-65437718427c9fc953fd02e78a248d94]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2021/1/section/119) in force at 14.10.2022 in so far as not already in force by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/b)

@@ -24,8 +24,8 @@ summary: ''
 
 (2) A warranty may be express or implied.
 
-(3) A warranty, as above defined, is a condition which must be exactly complied with, whether it be material to the risk or not. [^key-b3bc2e0de4ecea66a0d33f436ee9befe]...
+(3) A warranty, as above defined, is a condition which must be exactly complied with, whether it be material to the risk or not. [^c-b3bc2e0de4ecea66a0d33f436ee9befe]...
 
 ## Annotations
 
-[^key-b3bc2e0de4ecea66a0d33f436ee9befe]: Textual amendment: Words in [s. 33(3)](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/33/3) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 10(7)(a)](https://www.legislation.gov.uk/ukpga/2015/4/section/10/7/a), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [s. 22(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/2))
+[^c-b3bc2e0de4ecea66a0d33f436ee9befe]: Textual amendment: Words in [s. 33(3)](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/33/3) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 10(7)(a)](https://www.legislation.gov.uk/ukpga/2015/4/section/10/7/a), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [s. 22(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/2))

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A rentcharge or other annual sum (not being rent incident to a reversion) payable half yearly or otherwise may be granted, reserved, charged or created out of or on another rentcharge or annual sum (not being rent incident to a reversion) charged on or payable out of land or on or out of the income of land, in like manner as the same could have been made to issue out of land.
 
-(1A)[^key-8c229378dfdb5f21aaa3aabe05aa8ca2] But on and after 27 November 2023 such a rentcharge or other annual sum may not be granted, reserved, charged or created out of or on another rentcharge if it is a regulated rentcharge.
+(1A)[^c-8c229378dfdb5f21aaa3aabe05aa8ca2] But on and after 27 November 2023 such a rentcharge or other annual sum may not be granted, reserved, charged or created out of or on another rentcharge if it is a regulated rentcharge.
 
 (2) If at any time the annual sum so created or any part thereof is unpaid for twenty-one days next after the time appointed for any payment in respect thereof, the person entitled to receive the annual sum shall (without prejudice to any prior interest or charge) have power to appoint a receiver of the annual sum charged or any part thereof, and the provisions of this Act relating to the appointment, powers, remuneration and duties of a receiver, shall apply in like manner as if such person were a mortgagee entitled to exercise the power of sale conferred by this Act, and the annual sum charged were the mortgaged property and the person entitled thereto were the mortgagor.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c2385071]: Modification: [S. 122](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/122) saved by [Perpetuities and Accumulations Act 1964 (c. 55)](https://www.legislation.gov.uk/ukpga/1964/55), [s. 11(1)](https://www.legislation.gov.uk/ukpga/1964/55/section/11/1)
 
-[^key-8c229378dfdb5f21aaa3aabe05aa8ca2]: Textual amendment: [S. 122(1A)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/122/1A) inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 113(4)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/4), [124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a) (with [s. 113(5)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/5))
+[^c-8c229378dfdb5f21aaa3aabe05aa8ca2]: Textual amendment: [S. 122(1A)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/122/1A) inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 113(4)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/4), [124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a) (with [s. 113(5)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/5))

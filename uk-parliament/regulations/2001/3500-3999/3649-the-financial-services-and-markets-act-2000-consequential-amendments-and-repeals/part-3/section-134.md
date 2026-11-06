@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Cash equivalent: authorised purposes for transfer notice[^key-00a52a6d940bd3530520ed30c95935af]
+## 134. Cash equivalent: authorised purposes for transfer notice[^c-00a52a6d940bd3530520ed30c95935af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 97F(2)(b) of the Pension Schemes (Northern Ireland) Act 1993 (authori
 
 ## Annotations
 
-[^key-00a52a6d940bd3530520ed30c95935af]: Commencement: Art. 134 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-00a52a6d940bd3530520ed30c95935af]: Commencement: Art. 134 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

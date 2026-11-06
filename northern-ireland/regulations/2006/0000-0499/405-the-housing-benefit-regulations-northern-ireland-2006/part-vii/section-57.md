@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Calculation of covenant income where a contribution is assessed[^key-fcaa5f5daddf176624a6209fac9ff08e]
+## 57. Calculation of covenant income where a contribution is assessed[^c-fcaa5f5daddf176624a6209fac9ff08e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcaa5f5daddf176624a6209fac9ff08e]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2006/405/regulation/57) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-fcaa5f5daddf176624a6209fac9ff08e]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2006/405/regulation/57) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

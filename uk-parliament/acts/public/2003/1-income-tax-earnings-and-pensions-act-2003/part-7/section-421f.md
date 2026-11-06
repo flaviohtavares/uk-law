@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 421F. Exclusions: public offers[^key-aa5abf133d2e4ea34ba8c7177f26f095]
+## 421F. Exclusions: public offers[^c-aa5abf133d2e4ea34ba8c7177f26f095]
 
 *Extent: E+W+S+N.I.*
 
-(1) Chapters 2, 3 and 3C[^key-6451e7e2d7865ce5446c4ab2eac932a5] do not apply in relation to employment-related securities that are shares acquired under the terms of an offer to the public or an interest in shares so acquired.
+(1) Chapters 2, 3 and 3C[^c-6451e7e2d7865ce5446c4ab2eac932a5] do not apply in relation to employment-related securities that are shares acquired under the terms of an offer to the public or an interest in shares so acquired.
 
-(1A)[^key-99182f120d0bb60e8a7d7fcb6a442596] But subsection (1) does not disapply those Chapters if the main purpose (or one of the main purposes)—
+(1A)[^c-99182f120d0bb60e8a7d7fcb6a442596] But subsection (1) does not disapply those Chapters if the main purpose (or one of the main purposes)—
 
 - (a) of the arrangements under which the right or opportunity under which the shares were acquired, or
 - (b) for which the shares are held,
@@ -35,8 +35,8 @@ is the avoidance of tax or national insurance contributions.
 
 ## Annotations
 
-[^key-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
+[^c-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
 
-[^key-6451e7e2d7865ce5446c4ab2eac932a5]: Textual amendment: Words in s. 421F(1) substituted (18.6.2004 with application in accordance with s. 89(4)(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/89/2)
+[^c-6451e7e2d7865ce5446c4ab2eac932a5]: Textual amendment: Words in s. 421F(1) substituted (18.6.2004 with application in accordance with s. 89(4)(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/89/2)
 
-[^key-99182f120d0bb60e8a7d7fcb6a442596]: Textual amendment: S. 421F(1A) inserted (18.6.2004 with application in accordance with s. 89(4)(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 89(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/89/3)
+[^c-99182f120d0bb60e8a7d7fcb6a442596]: Textual amendment: S. 421F(1A) inserted (18.6.2004 with application in accordance with s. 89(4)(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 89(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/89/3)

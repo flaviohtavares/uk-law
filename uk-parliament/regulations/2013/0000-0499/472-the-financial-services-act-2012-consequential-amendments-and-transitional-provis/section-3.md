@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments of subordinate legislation and related transitional provision[^key-e3712a3de0ead770c154d13b1abc53ff]
+## 3. Amendments of subordinate legislation and related transitional provision[^c-e3712a3de0ead770c154d13b1abc53ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 (which contains amendments to subordinate legislation in consequence 
 
 ## Annotations
 
-[^key-e3712a3de0ead770c154d13b1abc53ff]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e3712a3de0ead770c154d13b1abc53ff]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)

@@ -29,23 +29,23 @@ under section 115 of the Traffic Act or, as the case may be, under the provision
 
 (2) A person may apply for a large goods vehicle driver’s licence notwithstanding that, at the date from which the licence applied for is to take effect, any passenger-carrying vehicle driver’s licence held by him is suspended and such suspension relates to his conduct other than as a driver of a motor vehicle.
 
-(3)[^key-49ba3155b1de6473c3256e0de46a65db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-49ba3155b1de6473c3256e0de46a65db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) An applicant for a large goods vehicle driver’s licence which would be in force for a period during the whole or part of which the applicant would be[^key-eaa4e4c47d8acda101bdbbfb48012e79] under the age of 21 must not be a person who has—
+(4) An applicant for a large goods vehicle driver’s licence which would be in force for a period during the whole or part of which the applicant would be[^c-eaa4e4c47d8acda101bdbbfb48012e79] under the age of 21 must not be a person who has—
 
-- (a) been convicted (or is, by virtue of section 58A[^key-b04bed0a41cf750222ab51134534e4b5] of the Offenders Act [^c16598631], to be treated as if he had been convicted) of an offence as a result of which at least four penalty points fall[^key-6f64d1cad0e3d4d116935d4e620cf93f] to be taken into account under section 29 of the Offenders Act [^c16598641], or
+- (a) been convicted (or is, by virtue of section 58A[^c-b04bed0a41cf750222ab51134534e4b5] of the Offenders Act [^c16598631], to be treated as if he had been convicted) of an offence as a result of which at least four penalty points fall[^c-6f64d1cad0e3d4d116935d4e620cf93f] to be taken into account under section 29 of the Offenders Act [^c16598641], or
 - (b) at any time been disqualified by a court for holding or obtaining a licence or by a court in Northern Ireland for holding or obtaining a Northern Ireland licence.
 
 ## Annotations
 
-[^key-49ba3155b1de6473c3256e0de46a65db]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/12/3) omitted (22.12.2018) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/3), [6(4)(a)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/6/4/a)
+[^c-49ba3155b1de6473c3256e0de46a65db]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/12/3) omitted (22.12.2018) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/3), [6(4)(a)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/6/4/a)
 
-[^key-eaa4e4c47d8acda101bdbbfb48012e79]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/12/4) substituted (22.12.2018) by [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/3), [6(4)(b)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/6/4/b)
+[^c-eaa4e4c47d8acda101bdbbfb48012e79]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/12/4) substituted (22.12.2018) by [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/3), [6(4)(b)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/6/4/b)
 
-[^key-b04bed0a41cf750222ab51134534e4b5]: Textual amendment: Word in [reg. 12(4)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/12/4/a) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/11/a)
+[^c-b04bed0a41cf750222ab51134534e4b5]: Textual amendment: Word in [reg. 12(4)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/12/4/a) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/11/a)
 
 [^c16598631]: Textual amendment: Section 58(1) was amended by the 1990 Regulations.
 
-[^key-6f64d1cad0e3d4d116935d4e620cf93f]: Textual amendment: Words in reg. 12(4)(a) substituted (1.4.2003) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2003 (S.I. 2003/636)](https://www.legislation.gov.uk/uksi/2003/636), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/636/regulation/1/a), [3(2)](https://www.legislation.gov.uk/uksi/2003/636/regulation/3/2)
+[^c-6f64d1cad0e3d4d116935d4e620cf93f]: Textual amendment: Words in reg. 12(4)(a) substituted (1.4.2003) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2003 (S.I. 2003/636)](https://www.legislation.gov.uk/uksi/2003/636), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/636/regulation/1/a), [3(2)](https://www.legislation.gov.uk/uksi/2003/636/regulation/3/2)
 
 [^c16598641]: Textual amendment: Section 29 was substituted by section 28 of the 1991 Act.

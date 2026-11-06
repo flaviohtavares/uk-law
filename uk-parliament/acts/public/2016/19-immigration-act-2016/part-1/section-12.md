@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. PACE powers in England and Wales for labour abuse prevention officers[^key-0205dc788af8bdf934694132016a615d]
+## 12. PACE powers in England and Wales for labour abuse prevention officers[^c-0205dc788af8bdf934694132016a615d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,10 +62,10 @@ summary: ''
 > - “**enactment**” includes an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
 > - “**labour market offence**” has the meaning given in section 3 of the Immigration Act 2016.
 
-(2)[^key-cdfa523cbd6bb5216471cfa8d0b2fc19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cdfa523cbd6bb5216471cfa8d0b2fc19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0205dc788af8bdf934694132016a615d]: Commencement: S. 12 in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/b)
+[^c-0205dc788af8bdf934694132016a615d]: Commencement: S. 12 in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/b)
 
-[^key-cdfa523cbd6bb5216471cfa8d0b2fc19]: Textual amendment: S. 12(2) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 87(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/87/d) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-cdfa523cbd6bb5216471cfa8d0b2fc19]: Textual amendment: S. 12(2) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 87(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/87/d) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)

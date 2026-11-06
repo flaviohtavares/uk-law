@@ -55,7 +55,7 @@ and references to a “**registrable person**” in relation to an eligible Scot
 
 - (a) it is an eligible Scottish partnership;
 - (b) Part 21A of the Companies Act 2006 applies to it, whether by virtue of section 790B of that Act or another enactment that extends the application of that Part;
-- (c) it has voting shares [^c23050681] admitted to trading on a UK regulated market or an EU regulated market[^key-2c01a7270069eb1265f94008337aeae2]; or
+- (c) it has voting shares [^c23050681] admitted to trading on a UK regulated market or an EU regulated market[^c-2c01a7270069eb1265f94008337aeae2]; or
 - (d) it has voting shares admitted to trading on a market listed in Schedule 1 to the Register of People with Significant Control Regulations 2016 [^c23050701].
 
 (8) A relevant legal entity is either “registrable” or “**non-registrable**” in relation to an eligible Scottish partnership—
@@ -88,14 +88,14 @@ and references to a “**registrable relevant legal entity**” in relation to a
 - “**voting shares**” means shares carrying voting rights;
 - “**voting rights**” means rights to vote at general meetings of the legal entity in question, including rights that arise only in certain circumstances, and in relation to a legal entity that does not have general meetings at which matters are decided by the exercise of voting rights, a reference to voting rights is to be read as a reference to rights in relation to the entity that are equivalent to those of a person entitled to exercise voting rights in a company.
 
-(12)[^key-10ee44812d7e0bb2bdeb55c092f8e616] In paragraph (7), “UK regulated market” and “EU regulated market” have the meanings given in Article 2.1.13A and 2.1.13B respectively of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 and amending Regulation (EU) No. 648/2012
+(12)[^c-10ee44812d7e0bb2bdeb55c092f8e616] In paragraph (7), “UK regulated market” and “EU regulated market” have the meanings given in Article 2.1.13A and 2.1.13B respectively of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 and amending Regulation (EU) No. 648/2012
 
 ## Annotations
 
 [^c23050681]: Marginal citation: See paragraph (11) for the meaning of “voting shares”.
 
-[^key-2c01a7270069eb1265f94008337aeae2]: Textual amendment: Words in [reg. 3(7)(c)](https://www.legislation.gov.uk/uksi/2017/694/regulation/3/7/c) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 2 para. 17(a)](https://www.legislation.gov.uk/uksi/2019/348/schedule/2/paragraph/17/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c01a7270069eb1265f94008337aeae2]: Textual amendment: Words in [reg. 3(7)(c)](https://www.legislation.gov.uk/uksi/2017/694/regulation/3/7/c) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 2 para. 17(a)](https://www.legislation.gov.uk/uksi/2019/348/schedule/2/paragraph/17/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23050701]: Marginal citation: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).
 
-[^key-10ee44812d7e0bb2bdeb55c092f8e616]: Textual amendment: [Reg. 3(12)](https://www.legislation.gov.uk/uksi/2017/694/regulation/3/12) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 2 para. 17(b)](https://www.legislation.gov.uk/uksi/2019/348/schedule/2/paragraph/17/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10ee44812d7e0bb2bdeb55c092f8e616]: Textual amendment: [Reg. 3(12)](https://www.legislation.gov.uk/uksi/2017/694/regulation/3/12) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 2 para. 17(b)](https://www.legislation.gov.uk/uksi/2019/348/schedule/2/paragraph/17/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

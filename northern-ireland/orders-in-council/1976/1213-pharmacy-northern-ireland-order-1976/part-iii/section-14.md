@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where a certificate of registration has already been issued to the person making the demand, there shall not be any obligation upon the Council to cause a further certificate to be issued to him unless he satisfies the secretary of the Society that the original certificate has been lost or destroyed and pays such fee (if any) in respect of the issue of the further certificate as may be prescribed.
 
-(2A)[^c16838001] Any certificate of registration issued to any person under this Article shall reproduce any indication entered in the register against that person's name in pursuance of Article 8ZA[^key-4fa5c12679097ea25a9d9e4d78a2810b] [^c20783271]. . . .
+(2A)[^c16838001] Any certificate of registration issued to any person under this Article shall reproduce any indication entered in the register against that person's name in pursuance of Article 8ZA[^c-4fa5c12679097ea25a9d9e4d78a2810b] [^c20783271]. . . .
 
 (2B)[^c16838021] Any certificate of registration issued to any person under this Article shall reproduce any annotation entered in the register against that person's name in pursuance of Article 8(5).
 
@@ -45,7 +45,7 @@ he shall be guilty of an offence and shall be liable on summary conviction to a 
 
 [^c16838001]: Textual amendment: SR 1987/457
 
-[^key-4fa5c12679097ea25a9d9e4d78a2810b]: Textual amendment: Word in [art. 14(2A)](https://www.legislation.gov.uk/nisi/1976/1213/article/14/2A) substituted (31.12.2020) by [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/19) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4fa5c12679097ea25a9d9e4d78a2810b]: Textual amendment: Word in [art. 14(2A)](https://www.legislation.gov.uk/nisi/1976/1213/article/14/2A) substituted (31.12.2020) by [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/19) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20783271]: Textual amendment: Words in art. 14(2A) omitted (22.5.2008) by virtue of [European Qualifications (Pharmacy) Regulations (Northern Ireland) 2008 (S.R. 2008/192)](https://www.legislation.gov.uk/nisr/2008/192), [reg. 11](https://www.legislation.gov.uk/nisr/2008/192/regulation/11)
 

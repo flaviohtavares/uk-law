@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-8238be4fda40abc19745cfc04b1f516a]
+## 41. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-8238be4fda40abc19745cfc04b1f516a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2 (interpretation) of the Financial Services and Markets Act 2000 
 
 ## Annotations
 
-[^key-8238be4fda40abc19745cfc04b1f516a]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2020/1385/regulation/41) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-8238be4fda40abc19745cfc04b1f516a]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2020/1385/regulation/41) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00019]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).

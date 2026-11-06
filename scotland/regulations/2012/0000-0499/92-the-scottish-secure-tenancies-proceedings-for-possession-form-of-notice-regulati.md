@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 14(4) and 109(2) of the Housing (Scotland) Act 2001[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement, interpretation and revocation[^key-dc666b6331b025c2c22b9612449d109e]
+## 1. Citation, commencement, interpretation and revocation[^c-dc666b6331b025c2c22b9612449d109e]
 
 (1) These Regulations may be cited as the Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Regulations 2012 and come into force on 1st August 2012.
 
@@ -54,17 +54,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) The Scottish Secure Tenancies (Proceedings for Possession) Regulations 2002[^f00002] are hereby revoked.
 
-## 2. Saving provision[^key-281cf718b780cc6be8a53adae8338515]
+## 2. Saving provision[^c-281cf718b780cc6be8a53adae8338515]
 
 Nothing in these Regulations affects the validity of a notice served under section 14(2)(a) of the Act (proceedings for possession) before 1st August 2012*.*
 
-## 3. Form of notice[^key-25a1bf5cb077af4a3617f1e14eda6a8b]
+## 3. Form of notice[^c-25a1bf5cb077af4a3617f1e14eda6a8b]
 
-(1) Subject to paragraph (2) and (3)[^key-f5f24a15f77ab7dd4a711792cd710e0f], the prescribed form of notice for the purposes of section 14(4) of the Act (form of notice) is contained in Schedule 1.
+(1) Subject to paragraph (2) and (3)[^c-f5f24a15f77ab7dd4a711792cd710e0f], the prescribed form of notice for the purposes of section 14(4) of the Act (form of notice) is contained in Schedule 1.
 
 (2) Where section 14(2A) of the Act (unpaid rent)[^f00003] applies, the prescribed form of notice for the purposes of section 14(4) of the Act is contained in Schedule 2.
 
-(3)[^key-88e3b65ae7d25a97c59d076eac752390] Where proceedings are to be raised on the ground set out in paragraph 15A of schedule 2 of the Act, the prescribed form of notice for the purposes of section 14(4) of the Act is contained in Schedule 3.
+(3)[^c-88e3b65ae7d25a97c59d076eac752390] Where proceedings are to be raised on the ground set out in paragraph 15A of schedule 2 of the Act, the prescribed form of notice for the purposes of section 14(4) of the Act is contained in Schedule 3.
 
 KEITH BROWN
 
@@ -76,19 +76,19 @@ Edinburgh
 
 14th March 2012
 
-## SCHEDULE 1 — NOTICE OF PROCEEDINGS FOR RECOVERY OF POSSESSION (IN CASES WHERE GROUNDS DO NOT INCLUDE RENT ARREARS)[^key-48ff1e073d968402009c2598aafe7a21][^key-ddd65c8d74a86f4c67f4df4ddb2aed16]
+## SCHEDULE 1 — NOTICE OF PROCEEDINGS FOR RECOVERY OF POSSESSION (IN CASES WHERE GROUNDS DO NOT INCLUDE RENT ARREARS)[^c-48ff1e073d968402009c2598aafe7a21][^c-ddd65c8d74a86f4c67f4df4ddb2aed16]
 
 Regulation 3(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2012/92/images/ssi_20120092_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2012/92/images/ssi_20120092_en_002) [image: see source](https://www.legislation.gov.uk/ssi/2012/92/images/ssi_20120092_en_003)
 
-## SCHEDULE 2 — NOTICE OF PROCEEDINGS FOR RECOVERY OF POSSESSION (IN CASES WHERE GROUNDS INCLUDE RENT ARREARS)[^key-c5383605cac9cbbdba1057737422523a][^key-5e9f59fd70148a91582c26c1d88058d1]
+## SCHEDULE 2 — NOTICE OF PROCEEDINGS FOR RECOVERY OF POSSESSION (IN CASES WHERE GROUNDS INCLUDE RENT ARREARS)[^c-c5383605cac9cbbdba1057737422523a][^c-5e9f59fd70148a91582c26c1d88058d1]
 
 Regulation 3(2)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2012/92/images/ssi_20120092_en_004) [image: see source](https://www.legislation.gov.uk/ssi/2012/92/images/ssi_20120092_en_005) [image: see source](https://www.legislation.gov.uk/ssi/2012/92/images/ssi_20120092_en_006) [image: see source](https://www.legislation.gov.uk/ssi/2012/92/images/ssi_20120092_en_007)
 
-## SCHEDULE 3 — NOTICE OF PROCEEDINGS FOR RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT'S INTEREST ON ABUSIVE BEHAVIOUR GROUND[^key-8021a721e4386060559df8fd697b527d]
+## SCHEDULE 3 — NOTICE OF PROCEEDINGS FOR RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT'S INTEREST ON ABUSIVE BEHAVIOUR GROUND[^c-8021a721e4386060559df8fd697b527d]
 
 Regulation 3(3)
 
@@ -112,23 +112,23 @@ Regulation 1 revokes the Scottish Secure Tenancies (Proceedings for Possession) 
 
 [^f00001]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10); section 14(4) was amended by the Housing (Scotland) Act [2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), section 155(a)(ii) and (iii).
 
-[^key-dc666b6331b025c2c22b9612449d109e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/92/regulation/1) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
+[^c-dc666b6331b025c2c22b9612449d109e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/92/regulation/1) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2002/320](https://www.legislation.gov.uk/ssi/2002/320).
 
-[^key-281cf718b780cc6be8a53adae8338515]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/92/regulation/2) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
+[^c-281cf718b780cc6be8a53adae8338515]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/92/regulation/2) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
 
-[^key-25a1bf5cb077af4a3617f1e14eda6a8b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/92/regulation/3) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
+[^c-25a1bf5cb077af4a3617f1e14eda6a8b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/92/regulation/3) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
 
-[^key-f5f24a15f77ab7dd4a711792cd710e0f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/3/1) inserted (1.8.2026) by [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2025 (S.S.I. 2025/404)](https://www.legislation.gov.uk/ssi/2025/404), [regs. 1](https://www.legislation.gov.uk/ssi/2025/404/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2025/404/regulation/4/a)
+[^c-f5f24a15f77ab7dd4a711792cd710e0f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/3/1) inserted (1.8.2026) by [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2025 (S.S.I. 2025/404)](https://www.legislation.gov.uk/ssi/2025/404), [regs. 1](https://www.legislation.gov.uk/ssi/2025/404/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2025/404/regulation/4/a)
 
 [^f00003]: Footnote: Section 14(2A) was inserted by the Housing (Scotland) Act 2010, section 155(a)(i).
 
-[^key-88e3b65ae7d25a97c59d076eac752390]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2012/92/regulation/3/3) inserted (1.8.2026) by [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2025 (S.S.I. 2025/404)](https://www.legislation.gov.uk/ssi/2025/404), [regs. 1](https://www.legislation.gov.uk/ssi/2025/404/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2025/404/regulation/4/b)
+[^c-88e3b65ae7d25a97c59d076eac752390]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2012/92/regulation/3/3) inserted (1.8.2026) by [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2025 (S.S.I. 2025/404)](https://www.legislation.gov.uk/ssi/2025/404), [regs. 1](https://www.legislation.gov.uk/ssi/2025/404/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2025/404/regulation/4/b)
 
-[^key-48ff1e073d968402009c2598aafe7a21]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/92/schedule/1) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
+[^c-48ff1e073d968402009c2598aafe7a21]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/92/schedule/1) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
 
-[^key-ddd65c8d74a86f4c67f4df4ddb2aed16]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/92/schedule/1), Guidance Notes: By [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2018 (S.S.I. 2018/156)](https://www.legislation.gov.uk/ssi/2018/156), [regs. 1](https://www.legislation.gov.uk/ssi/2018/156/regulation/1), [3](https://www.legislation.gov.uk/ssi/2018/156/regulation/3), it is provided that the following words are substituted (1.5.2019) for the entry headed “**\[Text for all notices on grounds 1 to 7**”:
+[^c-ddd65c8d74a86f4c67f4df4ddb2aed16]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/92/schedule/1), Guidance Notes: By [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2018 (S.S.I. 2018/156)](https://www.legislation.gov.uk/ssi/2018/156), [regs. 1](https://www.legislation.gov.uk/ssi/2018/156/regulation/1), [3](https://www.legislation.gov.uk/ssi/2018/156/regulation/3), it is provided that the following words are substituted (1.5.2019) for the entry headed “**\[Text for all notices on grounds 1 to 7**”:
 
     “**\[Text for all notices on ground 2:**
 
@@ -166,9 +166,9 @@ Regulation 1 revokes the Scottish Secure Tenancies (Proceedings for Possession) 
 
     The sheriff may decide not to grant a possession order, or may delay the decision or impose conditions which must be complied with. If a possession order is granted, the landlord will be able to evict you. If the landlord evicts you, it will not be under any obligation to re-house you. You should not assume that you will be entitled to be re-housed by the landlord or a local authority.\]\*”
 
-[^key-c5383605cac9cbbdba1057737422523a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/92/schedule/2) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
+[^c-c5383605cac9cbbdba1057737422523a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/92/schedule/2) in force at 1.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/92/regulation/1/1)
 
-[^key-5e9f59fd70148a91582c26c1d88058d1]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/92/schedule/2), Guidance Notes: By [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2018 (S.S.I. 2018/156)](https://www.legislation.gov.uk/ssi/2018/156), [regs. 1](https://www.legislation.gov.uk/ssi/2018/156/regulation/1), [4](https://www.legislation.gov.uk/ssi/2018/156/regulation/4), it is provided that, after the entry headed “**\[Text for notice to a qualifying occupier**” the following words are substituted (1.5.2019) for the words from “If the landlord does take court action for possession” to the end:
+[^c-5e9f59fd70148a91582c26c1d88058d1]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/92/schedule/2), Guidance Notes: By [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2018 (S.S.I. 2018/156)](https://www.legislation.gov.uk/ssi/2018/156), [regs. 1](https://www.legislation.gov.uk/ssi/2018/156/regulation/1), [4](https://www.legislation.gov.uk/ssi/2018/156/regulation/4), it is provided that, after the entry headed “**\[Text for notice to a qualifying occupier**” the following words are substituted (1.5.2019) for the words from “If the landlord does take court action for possession” to the end:
 
     “**\[Text for all notices other than on ground 2:**
 
@@ -208,4 +208,4 @@ Regulation 1 revokes the Scottish Secure Tenancies (Proceedings for Possession) 
 
     \*Delete where not applicable”
 
-[^key-8021a721e4386060559df8fd697b527d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/92/schedule/3) inserted (1.8.2026) by [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2025 (S.S.I. 2025/404)](https://www.legislation.gov.uk/ssi/2025/404), [regs. 1](https://www.legislation.gov.uk/ssi/2025/404/regulation/1), [5](https://www.legislation.gov.uk/ssi/2025/404/regulation/5), [sch.](https://www.legislation.gov.uk/ssi/2025/404/schedule)
+[^c-8021a721e4386060559df8fd697b527d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/92/schedule/3) inserted (1.8.2026) by [The Scottish Secure Tenancies (Proceedings for Possession) (Form of Notice) Amendment Regulations 2025 (S.S.I. 2025/404)](https://www.legislation.gov.uk/ssi/2025/404), [regs. 1](https://www.legislation.gov.uk/ssi/2025/404/regulation/1), [5](https://www.legislation.gov.uk/ssi/2025/404/regulation/5), [sch.](https://www.legislation.gov.uk/ssi/2025/404/schedule)

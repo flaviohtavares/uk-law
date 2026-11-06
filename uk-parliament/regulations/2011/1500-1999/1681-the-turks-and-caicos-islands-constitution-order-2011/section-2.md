@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-0650c622c9a484a7724955c5a4328777]
+## 2. Interpretation[^c-0650c622c9a484a7724955c5a4328777]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0650c622c9a484a7724955c5a4328777]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1681/article/2) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-0650c622c9a484a7724955c5a4328777]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1681/article/2) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2006/1913](https://www.legislation.gov.uk/uksi/2006/1913).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Purpose of functions under this Part[^key-eae36bd0288b7500803429029e620686]
+## 33. Purpose of functions under this Part[^c-eae36bd0288b7500803429029e620686]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eae36bd0288b7500803429029e620686]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/16/section/33) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-eae36bd0288b7500803429029e620686]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/16/section/33) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

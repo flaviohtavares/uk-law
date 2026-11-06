@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5A. Powers of certain fire and rescue authorities[^key-ef8402d50da3b8253e7709750c65ba61]
+## 5A. Powers of certain fire and rescue authorities[^c-ef8402d50da3b8253e7709750c65ba61]
 
 *Extent: E+W*
 
@@ -35,17 +35,17 @@ summary: ''
 (3) In this section “ **relevant fire and rescue authority** ” means a fire and rescue authority that is—
 
 - (a) a metropolitan county fire and rescue authority,
-- (b)[^key-93eac277f6483129542577a856aa7ae2] the London Fire Commissioner,
-- (c) constituted by a scheme under section 2, [^key-998c58cd3eb48f1e6b9bd0b5998f9fb1]...
-- (d) constituted by a scheme to which section 4 applies , or[^key-bcde7c10bcf62db6482c8607d187e790]
+- (b)[^c-93eac277f6483129542577a856aa7ae2] the London Fire Commissioner,
+- (c) constituted by a scheme under section 2, [^c-998c58cd3eb48f1e6b9bd0b5998f9fb1]...
+- (d) constituted by a scheme to which section 4 applies , or[^c-bcde7c10bcf62db6482c8607d187e790]
 - (e) created by an order under section 4A.
 
 ## Annotations
 
-[^key-ef8402d50da3b8253e7709750c65ba61]: Textual amendment: Ss. 5A-5L inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/a); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)
+[^c-ef8402d50da3b8253e7709750c65ba61]: Textual amendment: Ss. 5A-5L inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/a); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)
 
-[^key-93eac277f6483129542577a856aa7ae2]: Textual amendment: S. 5A(3)(b) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 112](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/112); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-93eac277f6483129542577a856aa7ae2]: Textual amendment: S. 5A(3)(b) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 112](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/112); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-998c58cd3eb48f1e6b9bd0b5998f9fb1]: Textual amendment: Word in s. 5A(3)(c) omitted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/7/a); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-998c58cd3eb48f1e6b9bd0b5998f9fb1]: Textual amendment: Word in s. 5A(3)(c) omitted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/7/a); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-bcde7c10bcf62db6482c8607d187e790]: Textual amendment: S. 5A(3)(e) and word inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/7/b); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-bcde7c10bcf62db6482c8607d187e790]: Textual amendment: S. 5A(3)(e) and word inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/7/b); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)

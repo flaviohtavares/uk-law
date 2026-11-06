@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Market share requirement[^key-a06e5f940c4de02f69b2757b55f13a1b]
+## 22. Market share requirement[^c-a06e5f940c4de02f69b2757b55f13a1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purpose of paragraph 7 of Schedule 5 to the Act, the market share requir
 
 ## Annotations
 
-[^key-a06e5f940c4de02f69b2757b55f13a1b]: Commencement: Reg. 22 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-a06e5f940c4de02f69b2757b55f13a1b]: Commencement: Reg. 22 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

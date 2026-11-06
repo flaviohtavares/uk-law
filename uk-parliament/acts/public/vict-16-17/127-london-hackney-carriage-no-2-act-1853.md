@@ -31,26 +31,26 @@ London Hackney Carriage (No. 2) Act 1853 (repealed)
 
 1853 c. 127
 
-[^key-ba7f1e5b508452b93b08638a1ff06458]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba7f1e5b508452b93b08638a1ff06458]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[20th August 1853\]
 
 **No longer in force.**
 
-## 1—12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ba7f1e5b508452b93b08638a1ff06458][^key-ba7f1e5b508452b93b08638a1ff06458]
+## 1—12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ba7f1e5b508452b93b08638a1ff06458][^c-ba7f1e5b508452b93b08638a1ff06458]
 
-## 13—15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ba7f1e5b508452b93b08638a1ff06458][^key-ba7f1e5b508452b93b08638a1ff06458]
+## 13—15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ba7f1e5b508452b93b08638a1ff06458][^c-ba7f1e5b508452b93b08638a1ff06458]
 
-## 16. Proprietors of hackney carriages withdrawing carriages from hire beyond a certain time liable to a penalty.[^key-ba7f1e5b508452b93b08638a1ff06458][^key-ba7f1e5b508452b93b08638a1ff06458]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 17. “The limits of this Act” defined.[^key-ba7f1e5b508452b93b08638a1ff06458][^key-ba7f1e5b508452b93b08638a1ff06458]
+## 16. Proprietors of hackney carriages withdrawing carriages from hire beyond a certain time liable to a penalty.[^c-ba7f1e5b508452b93b08638a1ff06458][^c-ba7f1e5b508452b93b08638a1ff06458]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ba7f1e5b508452b93b08638a1ff06458][^key-ba7f1e5b508452b93b08638a1ff06458]
+## 17. “The limits of this Act” defined.[^c-ba7f1e5b508452b93b08638a1ff06458][^c-ba7f1e5b508452b93b08638a1ff06458]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ba7f1e5b508452b93b08638a1ff06458][^c-ba7f1e5b508452b93b08638a1ff06458]
 
 ## Annotations
 
-[^key-ba7f1e5b508452b93b08638a1ff06458]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/16-17/127) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-ba7f1e5b508452b93b08638a1ff06458]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/16-17/127) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

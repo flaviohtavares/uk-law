@@ -35,20 +35,20 @@ amending Implementing Regulation (EU) 2017/1492 as regards the maximum content o
 
 (Text with EEA relevance) (revoked)
 
-[^key-6dc2ee97c9ecc5bf8f7c646a4aee61e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dc2ee97c9ecc5bf8f7c646a4aee61e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6dc2ee97c9ecc5bf8f7c646a4aee61e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6dc2ee97c9ecc5bf8f7c646a4aee61e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-6dc2ee97c9ecc5bf8f7c646a4aee61e3]
+## Article 2. Entry into force[^c-6dc2ee97c9ecc5bf8f7c646a4aee61e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dc2ee97c9ecc5bf8f7c646a4aee61e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dc2ee97c9ecc5bf8f7c646a4aee61e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-6dc2ee97c9ecc5bf8f7c646a4aee61e3]
+## ANNEX[^c-6dc2ee97c9ecc5bf8f7c646a4aee61e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6dc2ee97c9ecc5bf8f7c646a4aee61e3]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 44](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/44)
+[^c-6dc2ee97c9ecc5bf8f7c646a4aee61e3]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 44](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/44)

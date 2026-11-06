@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Exemptions from orders[^key-e2eda5dc5f05a5aae47650968d62dca6]
+## 215. Exemptions from orders[^c-e2eda5dc5f05a5aae47650968d62dca6]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ from an order under section 212 or specified provisions of such an order.
 
 ## Annotations
 
-[^key-e2eda5dc5f05a5aae47650968d62dca6]: Commencement: S. 215 in force at 30.12.2007, see s. 245(2)
+[^c-e2eda5dc5f05a5aae47650968d62dca6]: Commencement: S. 215 in force at 30.12.2007, see s. 245(2)

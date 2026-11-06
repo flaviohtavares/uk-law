@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17B. Annual close time for freshwater fish other than trout[^key-65d1716b415bba07f7f1cc17140342e0]
+## 17B. Annual close time for freshwater fish other than trout[^c-65d1716b415bba07f7f1cc17140342e0]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ shall be guilty of an offence, and liable on summary conviction to a fine not ex
 
 ## Annotations
 
-[^key-65d1716b415bba07f7f1cc17140342e0]: Textual amendment: S. 17A - S. 17B inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 22](https://www.legislation.gov.uk/asp/2007/12/section/22), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-65d1716b415bba07f7f1cc17140342e0]: Textual amendment: S. 17A - S. 17B inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 22](https://www.legislation.gov.uk/asp/2007/12/section/22), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)

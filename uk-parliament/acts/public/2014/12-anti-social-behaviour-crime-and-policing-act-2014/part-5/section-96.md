@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Review requirements for new ground[^key-185a859782b1fb9dc27db41d0e6c1b5b][^key-57e2722e33080a0b92c2579b5ed1d6f6][^key-d33e6a0e4dab9611b223c7cbdb9f8c30]
+## 96. Review requirements for new ground[^c-185a859782b1fb9dc27db41d0e6c1b5b][^c-57e2722e33080a0b92c2579b5ed1d6f6][^c-d33e6a0e4dab9611b223c7cbdb9f8c30]
 
 *Extent: E+W*
 
@@ -57,8 +57,8 @@ After section 85 of the Housing Act 1985 (extended discretion of court in certai
 
 ## Annotations
 
-[^key-185a859782b1fb9dc27db41d0e6c1b5b]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/12/section/96) in force at 17.9.2014 for specified purposes by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 2](https://www.legislation.gov.uk/uksi/2014/2454/article/2)
+[^c-185a859782b1fb9dc27db41d0e6c1b5b]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/12/section/96) in force at 17.9.2014 for specified purposes by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 2](https://www.legislation.gov.uk/uksi/2014/2454/article/2)
 
-[^key-57e2722e33080a0b92c2579b5ed1d6f6]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/12/section/96) in force at 20.10.2014 for E. in so far as not already in force by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/c)
+[^c-57e2722e33080a0b92c2579b5ed1d6f6]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/12/section/96) in force at 20.10.2014 for E. in so far as not already in force by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/c)
 
-[^key-d33e6a0e4dab9611b223c7cbdb9f8c30]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/12/section/96) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/c)
+[^c-d33e6a0e4dab9611b223c7cbdb9f8c30]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/12/section/96) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/c)

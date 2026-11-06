@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Tax information etc[^key-62af091746dc1613100c30a51194202a][^key-750471307c05f1c97d47718e762302fd]
+## 88. Tax information etc[^c-62af091746dc1613100c30a51194202a][^c-750471307c05f1c97d47718e762302fd]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62af091746dc1613100c30a51194202a]: Commencement: S. 88 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-62af091746dc1613100c30a51194202a]: Commencement: S. 88 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-750471307c05f1c97d47718e762302fd]: Textual amendment: S. 88 substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/62/1), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)
+[^c-750471307c05f1c97d47718e762302fd]: Textual amendment: S. 88 substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/62/1), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)

@@ -52,11 +52,11 @@ These Regulations may be cited as the Rate of Bereavement Benefits Regulations 2
 
 ## 2. Rate of widowed mother's allowance and widow's pension
 
-The amount prescribed for the purposes of subsection (2A) of section 39 (rate of widowed mother's allowance and widow's pension) of the Social Security Contributions and Benefits Act 1992 is £156.65[^key-b444f17c337fbffd20755973917e52cb].
+The amount prescribed for the purposes of subsection (2A) of section 39 (rate of widowed mother's allowance and widow's pension) of the Social Security Contributions and Benefits Act 1992 is £156.65[^c-b444f17c337fbffd20755973917e52cb].
 
-## 3. Rate of widowed parent's allowance ...[^key-445b55c7145f757e3cb70efc2e08982a]
+## 3. Rate of widowed parent's allowance ...[^c-445b55c7145f757e3cb70efc2e08982a]
 
-The amount prescribed for the purposes of subsection (1A) of section 39C (rate of widowed parent's allowance [^key-57cca8e0a6670dee98f80a3a6dabe47b]...) of the Social Security Contributions and Benefits Act 1992 is £156.65[^key-6a688b6939b251dc88b175fcd881500e].
+The amount prescribed for the purposes of subsection (1A) of section 39C (rate of widowed parent's allowance [^c-57cca8e0a6670dee98f80a3a6dabe47b]...) of the Social Security Contributions and Benefits Act 1992 is £156.65[^c-6a688b6939b251dc88b175fcd881500e].
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -84,10 +84,10 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2059833]: Marginal citation: [Section 173(1)(b)](https://www.legislation.gov.uk/uksi/2010/2818/section/173/1/b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) provides that proposals in respect of regulations which would otherwise be referable to the Social Security Advisory Committee may not be so referred with the agreement of that Committee. These Regulations would otherwise be so referable by virtue of section 172 of that Act.
 
-[^key-b444f17c337fbffd20755973917e52cb]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2818/regulation/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [18(a)](https://www.legislation.gov.uk/uksi/2026/148/article/18/a)
+[^c-b444f17c337fbffd20755973917e52cb]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2818/regulation/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [18(a)](https://www.legislation.gov.uk/uksi/2026/148/article/18/a)
 
-[^key-445b55c7145f757e3cb70efc2e08982a]: Textual amendment: Words in heading to reg. 3 omitted (6.4.2017 coming into force in accordance with art. 1-3) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [38](https://www.legislation.gov.uk/uksi/2017/422/article/38)
+[^c-445b55c7145f757e3cb70efc2e08982a]: Textual amendment: Words in heading to reg. 3 omitted (6.4.2017 coming into force in accordance with art. 1-3) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [38](https://www.legislation.gov.uk/uksi/2017/422/article/38)
 
-[^key-57cca8e0a6670dee98f80a3a6dabe47b]: Textual amendment: Words in reg. 3 omitted (6.4.2017 coming into force in accordance with art. 1-3) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [38](https://www.legislation.gov.uk/uksi/2017/422/article/38)
+[^c-57cca8e0a6670dee98f80a3a6dabe47b]: Textual amendment: Words in reg. 3 omitted (6.4.2017 coming into force in accordance with art. 1-3) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [38](https://www.legislation.gov.uk/uksi/2017/422/article/38)
 
-[^key-6a688b6939b251dc88b175fcd881500e]: Textual amendment: Sum in [reg. 3](https://www.legislation.gov.uk/uksi/2010/2818/regulation/3) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [18(b)](https://www.legislation.gov.uk/uksi/2026/148/article/18/b)
+[^c-6a688b6939b251dc88b175fcd881500e]: Textual amendment: Sum in [reg. 3](https://www.legislation.gov.uk/uksi/2010/2818/regulation/3) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [18(b)](https://www.legislation.gov.uk/uksi/2026/148/article/18/b)

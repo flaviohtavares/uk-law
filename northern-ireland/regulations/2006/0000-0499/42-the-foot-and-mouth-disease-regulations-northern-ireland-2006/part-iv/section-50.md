@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Reasonable assistance[^key-77733b36af74c864fd24659d3364f2c3]
+## 50. Reasonable assistance[^c-77733b36af74c864fd24659d3364f2c3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person required to give assistance or information to a person acting under the
 
 ## Annotations
 
-[^key-77733b36af74c864fd24659d3364f2c3]: Commencement: Reg. 50 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-77733b36af74c864fd24659d3364f2c3]: Commencement: Reg. 50 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Repeal of spent disqualifications[^key-f1d3b66b5f9c8f208dd8fca60bd85d99]
+## 288. Repeal of spent disqualifications[^c-f1d3b66b5f9c8f208dd8fca60bd85d99]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1d3b66b5f9c8f208dd8fca60bd85d99]: Commencement: Art. 288 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f1d3b66b5f9c8f208dd8fca60bd85d99]: Commencement: Art. 288 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

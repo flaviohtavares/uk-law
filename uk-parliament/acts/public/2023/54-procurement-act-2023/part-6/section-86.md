@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Regulated below-threshold contracts: duty to consider small and medium-sized enterprises[^key-1141630c96433663d351c356170aebe4][^key-272bbcae756e0cb0e9c910d2eb479970]
+## 86. Regulated below-threshold contracts: duty to consider small and medium-sized enterprises[^c-1141630c96433663d351c356170aebe4][^c-272bbcae756e0cb0e9c910d2eb479970]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1141630c96433663d351c356170aebe4]: Commencement: S. 86 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-1141630c96433663d351c356170aebe4]: Commencement: S. 86 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-272bbcae756e0cb0e9c910d2eb479970]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/54/section/86) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-272bbcae756e0cb0e9c910d2eb479970]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/54/section/86) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

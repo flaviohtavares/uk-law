@@ -193,26 +193,26 @@ HAVE ADOPTED THIS REGULATION:
 
 This Regulation establishes measures and conditions concerning the use and storage of and trade in mercury, mercury compounds and mixtures of mercury, and the manufacture and use of and trade in mercury-added products, and the management of mercury waste, in order to ensure a high level of protection of human health and the environment from anthropogenic emissions and releases of mercury and mercury compounds.
 
-[^key-3ca224f0f918b8fbef5e6f23266eebc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ca224f0f918b8fbef5e6f23266eebc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 2. Definitions
 
-(1.)[^key-b0ba2dd5c6d7b5f393dea1949aac427a] For the purposes of this Regulation, the following definitions apply:
+(1.)[^c-b0ba2dd5c6d7b5f393dea1949aac427a] For the purposes of this Regulation, the following definitions apply:
 
 - ((1)) ‘mercury’ means metallic mercury (Hg, CAS RN 7439-97-6);
 - ((2)) ‘mercury compound’ means any substance consisting of atoms of mercury and one or more atoms of other chemical elements that can be separated into different components only by chemical reactions;
 - ((3)) ‘mixture’ means a mixture or solution composed of two or more substances;
 - ((4)) ‘mercury-added product’ means a product or product component that contains mercury or a mercury compound that was intentionally added;
 - ((5)) ‘mercury waste’ means metallic mercury that qualifies as waste as defined in point (1) of Article 3 of Directive 2008/98/EC;
-- ((6)) ‘export’ (except in the expressions “exporting country” and “exported mercury”)[^key-a1841c994577e5e078bb967df4af95ff] means any of the following:
-  - ((a)) the permanent or temporary export from the United Kingdom to a country other than one which is a member state on IP completion day[^key-5aac8612c7e4f7945c699e1ce6841245] of mercury, mercury compounds, mixtures of mercury and mercury-added products [^key-d9aaaace9ffd765f63bd275ffe357caa]...;
-  - ((b)) [^key-7f860e7615a7d211952edb902d59858f]...
-- ((7)) ‘import’ means the physical introduction into the United Kingdom from a country other than one which is a member state on IP completion day[^key-7a18c70b91c3a9b083c303017ba8f6e2] of mercury, mercury compounds, mixtures of mercury and mercury-added products [^key-31003809cebe7c4a8abe9e98a55b8a9b]...;
+- ((6)) ‘export’ (except in the expressions “exporting country” and “exported mercury”)[^c-a1841c994577e5e078bb967df4af95ff] means any of the following:
+  - ((a)) the permanent or temporary export from the United Kingdom to a country other than one which is a member state on IP completion day[^c-5aac8612c7e4f7945c699e1ce6841245] of mercury, mercury compounds, mixtures of mercury and mercury-added products [^c-d9aaaace9ffd765f63bd275ffe357caa]...;
+  - ((b)) [^c-7f860e7615a7d211952edb902d59858f]...
+- ((7)) ‘import’ means the physical introduction into the United Kingdom from a country other than one which is a member state on IP completion day[^c-7a18c70b91c3a9b083c303017ba8f6e2] of mercury, mercury compounds, mixtures of mercury and mercury-added products [^c-31003809cebe7c4a8abe9e98a55b8a9b]...;
 - ((8)) ‘disposal’ means disposal as defined in point (19) of Article 3 of Directive 2008/98/EC;
 - ((9)) ‘primary mercury mining’ means mining in which the principal material sought is mercury;
 - ((10)) ‘conversion’ means the chemical transformation of the physical state of mercury from a liquid state to mercury sulfide or a comparable chemical compound that is equally or more stable and equally or less soluble in water and that presents no greater environmental or health hazard than mercury sulfide;
-- ((11)) ‘placing on the market’ means supplying or making available in Great Britain[^key-6a97d776dd2be1257846e489efdcdecd], whether in return for payment or free of charge, to a third party. Import shall be deemed to be placing on the market.
-- ((12)) ‘competent authority’ means—[^key-53f532627a6198d49fc39571516d97ed]
+- ((11)) ‘placing on the market’ means supplying or making available in Great Britain[^c-6a97d776dd2be1257846e489efdcdecd], whether in return for payment or free of charge, to a third party. Import shall be deemed to be placing on the market.
+- ((12)) ‘competent authority’ means—[^c-53f532627a6198d49fc39571516d97ed]
   - for England and offshore installations in the English offshore area, the Environment Agency;
   - for Scotland and offshore installations in the Scottish offshore area, the Scottish Environment Protection Agency;
   - for Wales, the Natural Resources Body for Wales;
@@ -225,7 +225,7 @@ This Regulation establishes measures and conditions concerning the use and stora
 
   but, for making regulations under these Regulations in relation to Scotland, the appropriate authority is the Secretary of State, if consent is given by the Scottish Ministers, and, for making regulations under these Regulations in relation to Wales, the appropriate authority is the Secretary of State, if consent is given by the Welsh Ministers.
 
-2.[^key-388d7295403c99c2ccf82026c12675c7] For the purposes of these Regulations, “Directive 2008/98/EC” means Directive 2008/98/EC as last amended by Directive (EU) 2018/851 and read in accordance with paragraphs 3 and 4.
+2.[^c-388d7295403c99c2ccf82026c12675c7] For the purposes of these Regulations, “Directive 2008/98/EC” means Directive 2008/98/EC as last amended by Directive (EU) 2018/851 and read in accordance with paragraphs 3 and 4.
 
 3. Article 5 of Directive 2008/98/EC is to be read as if—
 
@@ -247,7 +247,7 @@ This Regulation establishes measures and conditions concerning the use and stora
 
   > 1A. Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a)) in accordance with any regulations or assimilated direct[^key-3e41cc9691f7cbc2c9a3b703d28a364e] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a)) in accordance with any regulations or assimilated direct[^c-3e41cc9691f7cbc2c9a3b703d28a364e] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b)) having regard to any guidance published by the appropriate authority or the competent authority for the purposes of this Article.
 
   ;
@@ -268,32 +268,32 @@ This Regulation establishes measures and conditions concerning the use and stora
 
 ### Article 3. Export restrictions
 
-1. The export from Great Britain[^key-68247849f426f62b227af2e5e2d6d2d4] of mercury shall be prohibited.
+1. The export from Great Britain[^c-68247849f426f62b227af2e5e2d6d2d4] of mercury shall be prohibited.
 
-2. The export from Great Britain[^key-1e5263da36e9dadc1b9820e35f2b847c] of the mercury compounds and of the mixtures of mercury listed in Annex I shall be prohibited as from the dates set out therein.
+2. The export from Great Britain[^c-1e5263da36e9dadc1b9820e35f2b847c] of the mercury compounds and of the mixtures of mercury listed in Annex I shall be prohibited as from the dates set out therein.
 
-3. By way of derogation from paragraph 2, the export from Great Britain[^key-70890b09e47e4207a47ed696c9a3e4ca] of the mercury compounds listed in Annex I for the purposes of laboratory-scale research or laboratory analysis shall be allowed.
+3. By way of derogation from paragraph 2, the export from Great Britain[^c-70890b09e47e4207a47ed696c9a3e4ca] of the mercury compounds listed in Annex I for the purposes of laboratory-scale research or laboratory analysis shall be allowed.
 
-4. The export from Great Britain[^key-cccf4c57244b2013d53a6d5b059f46b4], for the purpose of reclaiming mercury, of mercury compounds and of mixtures of mercury that are not subject to the prohibition laid down in paragraph 2 shall be prohibited.
+4. The export from Great Britain[^c-cccf4c57244b2013d53a6d5b059f46b4], for the purpose of reclaiming mercury, of mercury compounds and of mixtures of mercury that are not subject to the prohibition laid down in paragraph 2 shall be prohibited.
 
-### Article 4. Restrictions on imports and movements involving Northern Ireland[^key-32176d374c52fe6326205b449f5d25b0]
+### Article 4. Restrictions on imports and movements involving Northern Ireland[^c-32176d374c52fe6326205b449f5d25b0]
 
-1. The import into Great Britain of mercury and[^key-04885c350c8360b24ff0853fc02f2279] mixtures of mercury listed in Annex I, including mercury waste from any of the large sources referred to in points (a) to (d) of Article 11, for purposes other than disposal as waste shall be prohibited. Such import for disposal as waste shall only be allowed where the exporting country has no access to available conversion capacity within its own territory.
+1. The import into Great Britain of mercury and[^c-04885c350c8360b24ff0853fc02f2279] mixtures of mercury listed in Annex I, including mercury waste from any of the large sources referred to in points (a) to (d) of Article 11, for purposes other than disposal as waste shall be prohibited. Such import for disposal as waste shall only be allowed where the exporting country has no access to available conversion capacity within its own territory.
 
-Without prejudice to Article 11 and by way of derogation from the first subparagraph of this paragraph, the import into Great Britain of mercury and[^key-c056bbc0affcc072bcdfde537e9c1d1d] mixtures of mercury listed in Annex I for a use allowed in Great Britain[^key-c5ac1a5945c7ccebd5c6290f5cfbe81b] shall be allowed where the competent authority[^key-611329159dca80114d2b56a8acf1e0df] has granted written consent to such import in either of the following circumstances:
+Without prejudice to Article 11 and by way of derogation from the first subparagraph of this paragraph, the import into Great Britain of mercury and[^c-c056bbc0affcc072bcdfde537e9c1d1d] mixtures of mercury listed in Annex I for a use allowed in Great Britain[^c-c5ac1a5945c7ccebd5c6290f5cfbe81b] shall be allowed where the competent authority[^c-611329159dca80114d2b56a8acf1e0df] has granted written consent to such import in either of the following circumstances:
 
 - (a) the exporting country is a Party to the Convention and the exported mercury is not from primary mercury mining that is prohibited under Article 3(3) and (4) of the Convention; or
 - (b) the exporting country not being a Party to the Convention has provided certification that the mercury is not from primary mercury mining.
 
-[^key-39df00465c74d0a70e7faec6d18e5b07]...
+[^c-39df00465c74d0a70e7faec6d18e5b07]...
 
-2. The import into Great Britain[^key-c24a373a2420d7a0769068289b5bc66f] of mixtures of mercury that do not fall under paragraph 1 and of mercury compounds, for the purpose of reclaiming mercury, shall be prohibited.
+2. The import into Great Britain[^c-c24a373a2420d7a0769068289b5bc66f] of mixtures of mercury that do not fall under paragraph 1 and of mercury compounds, for the purpose of reclaiming mercury, shall be prohibited.
 
-3. The import into Great Britain[^key-935b69780fcbe557edc0ab01a665594c] of mercury for use in artisanal and small-scale gold mining and processing shall be prohibited.
+3. The import into Great Britain[^c-935b69780fcbe557edc0ab01a665594c] of mercury for use in artisanal and small-scale gold mining and processing shall be prohibited.
 
-4. Where the import into Great Britain[^key-7153216c8dd9d655c6f641496cd9b9ed] of mercury waste is allowed in accordance with this Article, Regulation (EC) No 1013/2006 shall continue to apply in addition to the requirements of this Regulation.
+4. Where the import into Great Britain[^c-7153216c8dd9d655c6f641496cd9b9ed] of mercury waste is allowed in accordance with this Article, Regulation (EC) No 1013/2006 shall continue to apply in addition to the requirements of this Regulation.
 
-5.[^key-74dc22dd752b655ece434bc19117945c] Paragraphs 1 to 3, except in so far as they apply to mercury waste, shall apply to the transport of mercury etc. from Northern Ireland into Great Britain, subject to the modifications in paragraphs 6 to 8.
+5.[^c-74dc22dd752b655ece434bc19117945c] Paragraphs 1 to 3, except in so far as they apply to mercury waste, shall apply to the transport of mercury etc. from Northern Ireland into Great Britain, subject to the modifications in paragraphs 6 to 8.
 
 6. Paragraph 1 is to be read as if—
 
@@ -329,20 +329,20 @@ Without prejudice to Article 11 and by way of derogation from the first subparag
 
 ### Article 5. Export, import and manufacturing of mercury-added products
 
-1. Without prejudice to stricter requirements set out in other applicable assimilated[^key-636399d3f10f7dca7896d25b763b0195][^key-d84e7dac26a33332d758910186909eb9] law, the export, import and manufacturing in Great Britain[^key-6d647b90845009bd3cb804357f7818b3] of the mercury-added products set out in Annex II shall be prohibited as from the dates set out therein.
+1. Without prejudice to stricter requirements set out in other applicable assimilated[^c-636399d3f10f7dca7896d25b763b0195][^c-d84e7dac26a33332d758910186909eb9] law, the export, import and manufacturing in Great Britain[^c-6d647b90845009bd3cb804357f7818b3] of the mercury-added products set out in Annex II shall be prohibited as from the dates set out therein.
 
 2. The prohibition laid down in paragraph 1 shall not apply to any of the following mercury-added products:
 
 - (a) products that are essential for civil protection and military uses;
 - (b) products for research, for calibration of instrumentation, or for use as a reference standard.
 
-3.[^key-637bad8d4089c94addef491bc3673b02] Paragraphs 1 and 2 shall apply to the transport of mercury-added products from Northern Ireland into Great Britain, and from Great Britain into Northern Ireland, subject to the following modification.
+3.[^c-637bad8d4089c94addef491bc3673b02] Paragraphs 1 and 2 shall apply to the transport of mercury-added products from Northern Ireland into Great Britain, and from Great Britain into Northern Ireland, subject to the following modification.
 
 4. Paragraph 1 is to be read as if for “export, import and manufacturing in Great Britain” there were substituted “transport from Northern Ireland into Great Britain, and from Great Britain into Northern Ireland,
 
 ### Article 6. Forms for import and export
 
-The appropriate authority may, by regulations,[^key-d2e1fd39660a623a8e64d2bb7cdeba17] specify forms to be used for the purpose of implementing Articles 3 and 4. [^key-779240650260b69bd11e48a1dd93b425]...
+The appropriate authority may, by regulations,[^c-d2e1fd39660a623a8e64d2bb7cdeba17] specify forms to be used for the purpose of implementing Articles 3 and 4. [^c-779240650260b69bd11e48a1dd93b425]...
 
 ## CHAPTER III — RESTRICTIONS ON USE AND STORAGE OF MERCURY, MERCURY COMPOUNDS AND MIXTURES OF MERCURY
 
@@ -352,55 +352,55 @@ The appropriate authority may, by regulations,[^key-d2e1fd39660a623a8e64d2bb7cde
 
 2. The use of mercury and mercury compounds in the manufacturing processes listed in Part II of Annex III shall only be allowed subject to the conditions set out therein.
 
-3. Interim storage of mercury and of the mercury compounds and mixtures of mercury listed in Annex I to this Regulation shall be carried out in an environmentally sound manner, in accordance with the thresholds and requirements set out in —[^key-0a7b53666cd3934dfef16d23cdbfd751]
+3. Interim storage of mercury and of the mercury compounds and mixtures of mercury listed in Annex I to this Regulation shall be carried out in an environmentally sound manner, in accordance with the thresholds and requirements set out in —[^c-0a7b53666cd3934dfef16d23cdbfd751]
 
 - (a)) for England and Wales, the Environmental Permitting (England and Wales) Regulations 2016 and the Control of Major Accident Hazards Regulations 2015;
-- (b)) for Scotland, the Environmental Authorisations (Scotland) Regulations 2018[^key-837416000eb714c750c6e8403480b9d1] and the Control of Major Accident Hazards Regulations 2015.
+- (b)) for Scotland, the Environmental Authorisations (Scotland) Regulations 2018[^c-837416000eb714c750c6e8403480b9d1] and the Control of Major Accident Hazards Regulations 2015.
 
-The appropriate authority may, by regulations, prescribe[^key-841149adb1a1f57c5dde3cd0db3b758a] technical requirements for environmentally sound interim storage of mercury, mercury compounds and mixtures of mercury in line with decisions adopted by the Conference of the Parties to the Convention in accordance with Article 10(3) and Article 27 of the Convention [^key-cd87c535243b1402ed60603c44268606]... [^key-0771d7724d125602981680f467c1a0e7]...
+The appropriate authority may, by regulations, prescribe[^c-841149adb1a1f57c5dde3cd0db3b758a] technical requirements for environmentally sound interim storage of mercury, mercury compounds and mixtures of mercury in line with decisions adopted by the Conference of the Parties to the Convention in accordance with Article 10(3) and Article 27 of the Convention [^c-cd87c535243b1402ed60603c44268606]... [^c-0771d7724d125602981680f467c1a0e7]...
 
 ### Article 8. New mercury-added products and new manufacturing processes
 
-1. Economic operators shall not manufacture or place on the market mercury-added products that were not being manufactured prior to 1 January 2018 (‘new mercury-added products’) unless authorised to do so in accordance with[^key-a70b62d190e3503006d88c8a27fb024a] paragraph 6 of this Article or allowed to do so under the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012[^key-d0ca182180de9a52a8cd4c764bf3c116].
+1. Economic operators shall not manufacture or place on the market mercury-added products that were not being manufactured prior to 1 January 2018 (‘new mercury-added products’) unless authorised to do so in accordance with[^c-a70b62d190e3503006d88c8a27fb024a] paragraph 6 of this Article or allowed to do so under the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012[^c-d0ca182180de9a52a8cd4c764bf3c116].
 
 The first subparagraph shall not apply to any of the following:
 
-- (a) equipment which is necessary for the protection of the essential interests of the security of the United Kingdom[^key-d6250228108b43f6594ea8426f5a8bb8], including arms, munitions and war material intended for specifically military purposes;
+- (a) equipment which is necessary for the protection of the essential interests of the security of the United Kingdom[^c-d6250228108b43f6594ea8426f5a8bb8], including arms, munitions and war material intended for specifically military purposes;
 - (b) equipment designed to be sent into space;
 - (c) technical improvements made to or the redesign of mercury-added products that were being manufactured prior to 1 January 2018 provided that such improvements or redesign lead to less mercury being used in those products.
 
-2. Economic operators shall not use manufacturing processes involving the use of mercury or mercury compounds that were not processes used prior to 1 January 2018 (‘new manufacturing processes’) unless authorised to do so in accordance with[^key-d286b62693b2bd7c3882a42c2c1af519] paragraph 6.
+2. Economic operators shall not use manufacturing processes involving the use of mercury or mercury compounds that were not processes used prior to 1 January 2018 (‘new manufacturing processes’) unless authorised to do so in accordance with[^c-d286b62693b2bd7c3882a42c2c1af519] paragraph 6.
 
 The first subparagraph of this paragraph shall not apply to processes manufacturing or using mercury-added products other than those subject to the prohibition laid down in paragraph 1.
 
-3. Where an economic operator intends to apply for authorisation in accordance with[^key-ee90a4c65290854872ee7b778a8cea52] paragraph 6 in order to manufacture or place on the market a new mercury-added product, or to use a new manufacturing process, that would provide significant environmental or health benefits and pose no significant risks either to the environment or to human health, and where no technically practicable mercury-free alternatives providing such benefits are available, that economic operator shall notify one of the competent authorities[^key-06ea239343a4e6115347d40df0bd3f5c]. That notification shall include the following information:
+3. Where an economic operator intends to apply for authorisation in accordance with[^c-ee90a4c65290854872ee7b778a8cea52] paragraph 6 in order to manufacture or place on the market a new mercury-added product, or to use a new manufacturing process, that would provide significant environmental or health benefits and pose no significant risks either to the environment or to human health, and where no technically practicable mercury-free alternatives providing such benefits are available, that economic operator shall notify one of the competent authorities[^c-06ea239343a4e6115347d40df0bd3f5c]. That notification shall include the following information:
 
 - (a) a technical description of the product or process concerned;
 - (b) an assessment of its environmental and health benefits and risks;
 - (c) evidence demonstrating the absence of technically practicable mercury-free alternatives providing significant environmental or health benefits;
 - (d) a detailed explanation of the manner in which the process is to be operated or the product is to be manufactured, used and disposed of as waste after use, in order to ensure a high level of protection of the environment and of human health.
 
-4.[^key-3ad68578ae32c60cd11d000535e6dc7e] The competent authority concerned shall forward to the Secretary of State, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, the Scottish Ministers and the Welsh Ministers the notification received from the economic operator if the competent authority considers on the basis of its own assessment of the information provided that the condition in the second subparagraph of paragraph 6 is fulfilled.
+4.[^c-3ad68578ae32c60cd11d000535e6dc7e] The competent authority concerned shall forward to the Secretary of State, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, the Scottish Ministers and the Welsh Ministers the notification received from the economic operator if the competent authority considers on the basis of its own assessment of the information provided that the condition in the second subparagraph of paragraph 6 is fulfilled.
 
 The competent authority concerned shall inform the Secretary of State, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, the Scottish Ministers and the Welsh Ministers of cases in which it considers that the condition in the second subparagraph of paragraph 6 is not fulfilled.
 
-5.[^key-f89d5598fe0b0538932e58601f5dd0e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-f89d5598fe0b0538932e58601f5dd0e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6. The Secretary of State[^key-064ab6f6b35781f202359e82d5391610] shall examine the notification received and assess whether it has been demonstrated that the condition in the second subparagraph is met[^key-444dadbaa25642db0a0aa4b1bd92e3df].
+6. The Secretary of State[^c-064ab6f6b35781f202359e82d5391610] shall examine the notification received and assess whether it has been demonstrated that the condition in the second subparagraph is met[^c-444dadbaa25642db0a0aa4b1bd92e3df].
 
-The condition is that the new mercury-added product or new manufacturing process would provide significant environmental or health benefits and pose no significant risks either to the environment or to human health, and that no technically practicable mercury-free alternatives providing such benefits are available.[^key-a917e07522d2a9776aa6b7b8a15b4cd0]
+The condition is that the new mercury-added product or new manufacturing process would provide significant environmental or health benefits and pose no significant risks either to the environment or to human health, and that no technically practicable mercury-free alternatives providing such benefits are available.[^c-a917e07522d2a9776aa6b7b8a15b4cd0]
 
 The Secretary of State shall inform the competent authority of the result of the assessment under the first subparagraph.
 
 Where the Secretary of State assesses that the condition in the second subparagraph is met, the Secretary of State shall, by regulations, specify that the relevant new mercury-added product or new manufacturing process is authorised.
 
-7.[^key-977e162e28594ce21347a36134f6554a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-977e162e28594ce21347a36134f6554a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 9. Artisanal and small-scale gold mining and processing
 
 1. Artisanal and small-scale gold mining and processing in which mercury amalgamation is used to extract gold from ore shall be prohibited.
 
-2. Without prejudice to paragraph 1 of this Article [^key-1e5f88ee0c37357bf390c0c836239c62]..., where there is evidence of there being more than isolated cases of non-compliance with the prohibition laid down in paragraph 1 of this Article, the competent authority [^key-978e38588d25cda73c5beaafda52611d]... shall develop and implement a national plan in accordance with Annex IV.
+2. Without prejudice to paragraph 1 of this Article [^c-1e5f88ee0c37357bf390c0c836239c62]..., where there is evidence of there being more than isolated cases of non-compliance with the prohibition laid down in paragraph 1 of this Article, the competent authority [^c-978e38588d25cda73c5beaafda52611d]... shall develop and implement a national plan in accordance with Annex IV.
 
 ### Article 10. Dental amalgam
 
@@ -408,7 +408,7 @@ Where the Secretary of State assesses that the condition in the second subparagr
 
 2. From 1 July 2018, dental amalgam shall not be used for dental treatment of deciduous teeth, of children under 15 years and of pregnant or breastfeeding women, except when deemed strictly necessary by the dental practitioner based on the specific medical needs of the patient.
 
-3.[^key-19ff9009ed7a8d2bb592175aba325cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-19ff9009ed7a8d2bb592175aba325cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 4. From 1 January 2019, operators of dental facilities in which dental amalgam is used or dental amalgam fillings or teeth containing such fillings are removed, shall ensure that their facilities are equipped with amalgam separators for the retention and collection of amalgam particles, including those contained in used water.
 
@@ -419,7 +419,7 @@ Such operators shall ensure that:
 
 Amalgam separators shall be maintained in accordance with the manufacturer's instructions to ensure the highest practicable level of retention.
 
-5. Capsules and amalgam separators complying with United Kingdom standards, or with[^key-8d13ce9c2c9a4d6dcf64cd0f07a93bcc] international standards that provide an equivalent level of quality and retention, shall be presumed to satisfy the requirements set out in paragraphs 1 and 4.
+5. Capsules and amalgam separators complying with United Kingdom standards, or with[^c-8d13ce9c2c9a4d6dcf64cd0f07a93bcc] international standards that provide an equivalent level of quality and retention, shall be presumed to satisfy the requirements set out in paragraphs 1 and 4.
 
 6. Dental practitioners shall ensure that their amalgam waste, including amalgam residues, particles and fillings, and teeth, or parts thereof, contaminated by dental amalgam, is handled and collected by an authorised waste management establishment or undertaking.
 
@@ -429,18 +429,18 @@ Dental practitioners shall not release directly or indirectly such amalgam waste
 
 ### Article 11. Waste
 
-Without prejudice to point (5) of Article 2 of this Regulation, mercury and mercury compounds, whether in pure form or in mixtures, from any of the following large sources shall be considered to be waste within the meaning of Directive 2008/98/EC and be disposed of without endangering human health or harming the environment, in accordance with legislation which, immediately before IP completion day, implemented[^key-6a3dc90f536f6bb1b1ac213df7d3e4f7] that Directive:
+Without prejudice to point (5) of Article 2 of this Regulation, mercury and mercury compounds, whether in pure form or in mixtures, from any of the following large sources shall be considered to be waste within the meaning of Directive 2008/98/EC and be disposed of without endangering human health or harming the environment, in accordance with legislation which, immediately before IP completion day, implemented[^c-6a3dc90f536f6bb1b1ac213df7d3e4f7] that Directive:
 
 - ((a)) the chlor-alkali industry;
 - ((b)) the cleaning of natural gas;
 - ((c)) non-ferrous mining and smelting operations;
-- ((d)) extraction from cinnabar ore [^key-b9e56620aaf6bede52a13ab670bfbcdf]....
+- ((d)) extraction from cinnabar ore [^c-b9e56620aaf6bede52a13ab670bfbcdf]....
 
 Such disposal shall not lead to any form of reclamation of mercury.
 
 ### Article 12. Reporting on large sources
 
-1. Economic operators within the industry sectors referred to in points (a), (b) and (c) of Article 11 shall send, each year by 31 May, the following to the competent authority[^key-693d644d962a26cc8541e7c315ee5daa]:
+1. Economic operators within the industry sectors referred to in points (a), (b) and (c) of Article 11 shall send, each year by 31 May, the following to the competent authority[^c-693d644d962a26cc8541e7c315ee5daa]:
 
 - (a) data on the total amount of mercury waste stored in each of their installations;
 - (b) data on the total amount of mercury waste sent to individual facilities undertaking the temporary storage, the conversion and, if applicable, solidification of mercury waste, or the permanent storage of mercury waste that underwent conversion and, if applicable, solidification;
@@ -449,22 +449,22 @@ Such disposal shall not lead to any form of reclamation of mercury.
 - (e) a copy of the certificate provided by the operator of the facility undertaking the conversion and, if applicable, the solidification of mercury waste, in accordance with Article 14(2);
 - (f) a copy of the certificate provided by the operator of the facility undertaking the permanent storage of mercury waste that underwent conversion and, if applicable, solidification, in accordance with Article 14(3).
 
-2. The data referred to in points (a) and (b) of paragraph 1 shall be expressed using the codes laid down in Commission Decision 2000/532/EC[^key-47985c5817e3db6a3a9270cbecb780d6].
+2. The data referred to in points (a) and (b) of paragraph 1 shall be expressed using the codes laid down in Commission Decision 2000/532/EC[^c-47985c5817e3db6a3a9270cbecb780d6].
 
 3. The obligations laid down in paragraphs 1 and 2 shall cease to apply to an economic operator of chlor-alkali installations from one year after the date that all mercury cells operated by the economic operator have been decommissioned in accordance with Implementing Decision 2013/732/EU and all mercury has been handed over to waste management facilities.
 
 ### Article 13. Storage of mercury waste
 
-1. Mercury[^key-c1fb6a3249a41b7f5478f28c0d450350] waste may be temporarily stored in liquid form provided that the specific requirements for the temporary storage of mercury waste pursuant to the relevant regulations[^key-5c0d0957f58dd21c3e7f9df614dd8ca3] are complied with and that such storage occurs in above-ground facilities dedicated to and equipped for the temporary storage of mercury waste.
+1. Mercury[^c-c1fb6a3249a41b7f5478f28c0d450350] waste may be temporarily stored in liquid form provided that the specific requirements for the temporary storage of mercury waste pursuant to the relevant regulations[^c-5c0d0957f58dd21c3e7f9df614dd8ca3] are complied with and that such storage occurs in above-ground facilities dedicated to and equipped for the temporary storage of mercury waste.
 
-The [^key-9e39640830fe1c62016be09201258b62]... first subparagraph shall cease to apply as from 1 January 2023.
+The [^c-9e39640830fe1c62016be09201258b62]... first subparagraph shall cease to apply as from 1 January 2023.
 
-In the first subparagraph, “relevant regulations” means—[^key-7f02c20118d84c4ec0c9a97a1f19b5fd]
+In the first subparagraph, “relevant regulations” means—[^c-7f02c20118d84c4ec0c9a97a1f19b5fd]
 
 - (a)) for England and Wales, the Environmental Permitting (England and Wales) Regulations 2016;
 - (b)) for Scotland, the Landfill (Scotland) Regulations 2003.
 
-2. The appropriate authority may, by regulations, extend[^key-e4eca8056e9d5f05a88efaa84a259ee1] the period allowed for temporary storage of mercury waste referred to in paragraph 1 of this Article by up to three years.
+2. The appropriate authority may, by regulations, extend[^c-e4eca8056e9d5f05a88efaa84a259ee1] the period allowed for temporary storage of mercury waste referred to in paragraph 1 of this Article by up to three years.
 
 3. Prior to being permanently disposed of, mercury waste shall undergo conversion and, where intended to be disposed of in above-ground facilities, conversion and solidification.
 
@@ -473,7 +473,7 @@ Mercury waste that underwent conversion and, if applicable, solidification shall
 - (a) salt mines that are adapted for the permanent storage of mercury waste that underwent conversion, or deep underground hard rock formations providing a level of safety and confinement equivalent to or higher than that of such salt mines; or
 - (b) above-ground facilities dedicated to and equipped for the permanent storage of mercury waste that underwent conversion and solidification and that provide a level of safety and confinement equivalent to or higher than that of the facilities referred to in point (a).
 
-Operators of permanent storage facilities shall ensure that mercury waste that underwent conversion and, if applicable, solidification is stored separately from other waste and in disposal batches in a storage chamber that is sealed. [^key-45f566fd0c3280c4b541d56eb6dcc72d]...
+Operators of permanent storage facilities shall ensure that mercury waste that underwent conversion and, if applicable, solidification is stored separately from other waste and in disposal batches in a storage chamber that is sealed. [^c-45f566fd0c3280c4b541d56eb6dcc72d]...
 
 ### Article 14. Traceability
 
@@ -508,18 +508,18 @@ Operators of facilities undertaking the conversion and, if applicable, the solid
 
 Once a certificate as referred to in the second subparagraph of this paragraph is issued, a copy thereof shall be transmitted without delay to the operators of the facilities referred to in paragraph 1 of this Article and to the economic operators concerned referred to in Article 12.
 
-3. Operators of facilities undertaking the permanent storage of mercury waste that underwent conversion and, if applicable, solidification shall, as soon as the disposal operation of the entire shipment is completed, issue a certificate confirming that the entire shipment of mercury waste that underwent conversion and, if applicable, solidification has been placed into permanent storage in compliance with the relevant regulations[^key-df7b1a65bf045d6ad59582b16f3b87a0], including information on the storage location.
+3. Operators of facilities undertaking the permanent storage of mercury waste that underwent conversion and, if applicable, solidification shall, as soon as the disposal operation of the entire shipment is completed, issue a certificate confirming that the entire shipment of mercury waste that underwent conversion and, if applicable, solidification has been placed into permanent storage in compliance with the relevant regulations[^c-df7b1a65bf045d6ad59582b16f3b87a0], including information on the storage location.
 
 Once a certificate as referred to in the first subparagraph of this paragraph is issued, a copy thereof shall be transmitted without delay to the operators of the facilities referred to in paragraphs 1 and 2 of this Article as well as to the economic operators concerned referred to in Article 12.
 
-3A.[^key-6f66652ff4242ff68ddf6e07135de872] In paragraph 3, “relevant regulations” means—
+3A.[^c-6f66652ff4242ff68ddf6e07135de872] In paragraph 3, “relevant regulations” means—
 
 - (a)) for England and Wales, the Environmental Permitting (England and Wales) Regulations 2016;
 - (b)) for Scotland, the Landfill (Scotland) Regulations 2003.
 
-4. Each year by 31 January, the operators of the facilities referred to in paragraphs 1 and 2 shall transmit the register for the previous calendar year to the competent authority[^key-70fca883c0b2b7edbe50ee4e4e1f5791]. The competent authority[^key-4bf5a67a6c0c0253de5955df92907cfa] shall annually communicate each transmitted register to the relevant authority[^key-d0ed0761d2fca3a26dba41a9117dc20d].
+4. Each year by 31 January, the operators of the facilities referred to in paragraphs 1 and 2 shall transmit the register for the previous calendar year to the competent authority[^c-70fca883c0b2b7edbe50ee4e4e1f5791]. The competent authority[^c-4bf5a67a6c0c0253de5955df92907cfa] shall annually communicate each transmitted register to the relevant authority[^c-d0ed0761d2fca3a26dba41a9117dc20d].
 
-5.[^key-24fcd48d5f217ab7dd909016db2bcc82] In paragraph 4, “relevant authority” means—
+5.[^c-24fcd48d5f217ab7dd909016db2bcc82] In paragraph 4, “relevant authority” means—
 
 - (a)) for England and offshore installations in the English offshore area, the Secretary of State;
 - (b)) for Scotland and offshore installations in the Scottish offshore area, the Scottish Ministers;
@@ -529,9 +529,9 @@ and ‘offshore installation’, ‘English offshore area’ and ‘Scottish off
 
 ### Article 15. Contaminated sites
 
-1. The Secretary of State[^key-89cabbf2f8e72cc97373cb3f557370df] shall organise an exchange of information with the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, the Scottish Ministers and the Welsh Ministers[^key-cbe8bca2efc9c831e457f111b32a748c] regarding the measures taken at national level to identify and assess sites contaminated by mercury and mercury compounds and to address the significant risks such contamination may pose to human health and the environment.
+1. The Secretary of State[^c-89cabbf2f8e72cc97373cb3f557370df] shall organise an exchange of information with the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, the Scottish Ministers and the Welsh Ministers[^c-cbe8bca2efc9c831e457f111b32a748c] regarding the measures taken at national level to identify and assess sites contaminated by mercury and mercury compounds and to address the significant risks such contamination may pose to human health and the environment.
 
-2.[^key-87759f7f3b04172ef56817c2bfa5b871] By 1st January 2021 the Secretary of State shall make the information gathered pursuant to paragraph 1 publicly available on the internet.
+2.[^c-87759f7f3b04172ef56817c2bfa5b871] By 1st January 2021 the Secretary of State shall make the information gathered pursuant to paragraph 1 publicly available on the internet.
 
 3. By 1st January 2021 the enforcing authority shall publish, in a manner which it considers appropriate, the particulars of remediation notices relating to sites contaminated by mercury and mercury compounds served by that authority in the register it keeps in accordance with section 78R of the Environmental Protection Act 1990.
 
@@ -539,44 +539,44 @@ In the first subparagraph, “enforcing authority” has the meaning given in se
 
 ## CHAPTER V — PENALTIES, COMPETENT AUTHORITIES AND REPORTING
 
-### Article 16. Penalties[^key-f83ecc76ab3ca7bbbf4b9e59605d9101]
+### Article 16. Penalties[^c-f83ecc76ab3ca7bbbf4b9e59605d9101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Competent authorities[^key-fb6318877bb40179eda314d866c33678]
+### Article 17. Competent authorities[^c-fb6318877bb40179eda314d866c33678]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 18. Report
 
-1. By 1 January 2020 and at appropriate intervals thereafter, the Secretary of State shall prepare[^key-f49340d26aeeea5cb4270120887f5b9c] and make publicly available on the internet a report with the following:
+1. By 1 January 2020 and at appropriate intervals thereafter, the Secretary of State shall prepare[^c-f49340d26aeeea5cb4270120887f5b9c] and make publicly available on the internet a report with the following:
 
 - (a) information concerning the implementation of this Regulation;
-- (b) information needed for the fulfilment by the United Kingdom[^key-87bccfcf36320a266c7e4c8211c7b849] of its reporting obligation under Article 21 of the Convention;
+- (b) information needed for the fulfilment by the United Kingdom[^c-87bccfcf36320a266c7e4c8211c7b849] of its reporting obligation under Article 21 of the Convention;
 - (c) a summary of the information gathered in accordance with Article 12 of this Regulation;
-- (d) information regarding mercury located in the United Kingdom[^key-fcccd088c71e072807858ce49eddaa20]:
+- (d) information regarding mercury located in the United Kingdom[^c-fcccd088c71e072807858ce49eddaa20]:
   - ((i)) a list of sites where stocks of more than 50 metric tonnes of mercury other than mercury waste are located as well as the amount of mercury at each site;
   - ((ii)) a list of sites where more than 50 metric tonnes of mercury waste is accumulated as well as the amount of mercury waste at each site; and
-- (e) a list of sources supplying more than 10 metric tonnes of mercury per year, where the Secretary of State is[^key-5fcc0ec24d8b843445815fdeebeca4a3] made aware of such sources.
+- (e) a list of sources supplying more than 10 metric tonnes of mercury per year, where the Secretary of State is[^c-5fcc0ec24d8b843445815fdeebeca4a3] made aware of such sources.
 
-The Secretary of State[^key-94ba04ead7f47874b8d02f66829025b7] may decide not to make any of the information referred to in the first subparagraph publicly available to the extent that an exception to disclosure applies under the relevant regulations[^key-744a88a0463a144dad60b2bee7feefb0].
+The Secretary of State[^c-94ba04ead7f47874b8d02f66829025b7] may decide not to make any of the information referred to in the first subparagraph publicly available to the extent that an exception to disclosure applies under the relevant regulations[^c-744a88a0463a144dad60b2bee7feefb0].
 
-In the second subparagraph, “relevant regulations” means—[^key-a192289d0294819242bf9ef59c64718a]
+In the second subparagraph, “relevant regulations” means—[^c-a192289d0294819242bf9ef59c64718a]
 
 - (a) for England and Wales, the Environmental Information Regulations 2004;
 - (b) for Scotland, the Environmental Information (Scotland) Regulations 2004.
 
-2.[^key-eac9b37a9d0948722490671a647c5610] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-eac9b37a9d0948722490671a647c5610] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-eecd1927d145a4f7b9933af65c8cf5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-eecd1927d145a4f7b9933af65c8cf5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Review[^key-9eba1ff3865f91e874948da3d20654e4]
+### Article 19. Review[^c-9eba1ff3865f91e874948da3d20654e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER VI — DELEGATED AND IMPLEMENTING POWERS
 
-### Article 20. Amendment of Annexes[^key-6ab7b87dd9c02f2c2086a6856aa1eb38]
+### Article 20. Amendment of Annexes[^c-6ab7b87dd9c02f2c2086a6856aa1eb38]
 
 1. The Secretary of State may, by regulations, amend Annex 1 or 2 to align it with a decision adopted by the Conference of the Parties to the Convention in accordance with Article 27 of the Convention.
 
@@ -608,7 +608,7 @@ In the second subparagraph, “relevant regulations” means—[^key-a192289d029
 
 9. Where the Scottish Ministers or the Welsh Ministers request that the Secretary of State makes regulations under Article 20(1), the Secretary of State must have regard to that request.
 
-### Article 22. Committee procedure[^key-6ab7b87dd9c02f2c2086a6856aa1eb38]
+### Article 22. Committee procedure[^c-6ab7b87dd9c02f2c2086a6856aa1eb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -620,11 +620,11 @@ Regulation (EC) No 1102/2008 is repealed with effect from 1 January 2018.
 
 References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex V.
 
-### Article 24. Entry into force[^key-ee15bfe1cf84131a2b9ac26c0ee4799a]
+### Article 24. Entry into force[^c-ee15bfe1cf84131a2b9ac26c0ee4799a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d276edbeaee204b632cc086e02294862]...
+[^c-d276edbeaee204b632cc086e02294862]...
 
 Done at Strasbourg, 17 May 2017.
 
@@ -694,11 +694,11 @@ Mixtures of mercury prohibited for export and import from 1 January 2018:
 </tbody>
 </table>
 
-[^key-762c13658756ec1501ff7edb9f02b5f8][^key-2fe687c6ca0c29a18a2c23e27b405e3b][^key-0a3e470f7628277149ba6124a01267f8][^key-16a8d67edf70096ffc405fdf4dbf088d][^f00018][^key-75d628dc7bc143e9c322a6598e0dfda9]
+[^c-762c13658756ec1501ff7edb9f02b5f8][^c-2fe687c6ca0c29a18a2c23e27b405e3b][^c-0a3e470f7628277149ba6124a01267f8][^c-16a8d67edf70096ffc405fdf4dbf088d][^f00018][^c-75d628dc7bc143e9c322a6598e0dfda9]
 
 ### Part B — Additional products excluded from the list in Part A of this Annex
 
-Switches and relays, cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFLs and EEFLs) for electronic displays and measuring devices, when they are used to replace a component of larger equipment and provided that no feasible mercury-free alternative for that component is available, in accordance with the End-of-Life Vehicles Regulations 2003[^key-0b7226951cf13e811355304b26969be9] and the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012[^key-cc9a6346bda5be8112b08c68440640e8].
+Switches and relays, cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFLs and EEFLs) for electronic displays and measuring devices, when they are used to replace a component of larger equipment and provided that no feasible mercury-free alternative for that component is available, in accordance with the End-of-Life Vehicles Regulations 2003[^c-0b7226951cf13e811355304b26969be9] and the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012[^c-cc9a6346bda5be8112b08c68440640e8].
 
 ## ANNEX III — Mercury-related requirements applicable to manufacturing processes referred to in Article 7(1) and (2)
 
@@ -803,192 +803,192 @@ The national plan shall include the following information:
 
 [^f00013]: Footnote: Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers ([OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG)).
 
-[^key-3ca224f0f918b8fbef5e6f23266eebc5]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2017/852/article/1) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [12](https://www.legislation.gov.uk/uksi/2020/1620/regulation/12)
+[^c-3ca224f0f918b8fbef5e6f23266eebc5]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2017/852/article/1) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [12](https://www.legislation.gov.uk/uksi/2020/1620/regulation/12)
 
-[^key-b0ba2dd5c6d7b5f393dea1949aac427a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2017/852/article/2) renumbered as Art. 2(1) (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/2)
+[^c-b0ba2dd5c6d7b5f393dea1949aac427a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2017/852/article/2) renumbered as Art. 2(1) (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/2)
 
-[^key-a1841c994577e5e078bb967df4af95ff]: Textual amendment: Words in [Art. 2(1)(6)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/i)
+[^c-a1841c994577e5e078bb967df4af95ff]: Textual amendment: Words in [Art. 2(1)(6)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/i)
 
-[^key-5aac8612c7e4f7945c699e1ce6841245]: Textual amendment: Words in [Art. 2(1)(6)(a)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6/a) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/ii/aa)
+[^c-5aac8612c7e4f7945c699e1ce6841245]: Textual amendment: Words in [Art. 2(1)(6)(a)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6/a) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/ii/aa)
 
-[^key-d9aaaace9ffd765f63bd275ffe357caa]: Textual amendment: Words in [Art. 2(1)(6)(a)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6/a) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/ii/bb)
+[^c-d9aaaace9ffd765f63bd275ffe357caa]: Textual amendment: Words in [Art. 2(1)(6)(a)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6/a) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/ii/bb)
 
-[^key-7f860e7615a7d211952edb902d59858f]: Textual amendment: [Art. 2(1)(6)(b)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6/b) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/iii)
+[^c-7f860e7615a7d211952edb902d59858f]: Textual amendment: [Art. 2(1)(6)(b)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/6/b) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/a/iii)
 
-[^key-7a18c70b91c3a9b083c303017ba8f6e2]: Textual amendment: Words in [Art. 2(1)(7)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/7) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/b/i)
+[^c-7a18c70b91c3a9b083c303017ba8f6e2]: Textual amendment: Words in [Art. 2(1)(7)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/7) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/b/i)
 
-[^key-31003809cebe7c4a8abe9e98a55b8a9b]: Textual amendment: Words in [Art. 2(1)(7)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/7) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/b/ii)
+[^c-31003809cebe7c4a8abe9e98a55b8a9b]: Textual amendment: Words in [Art. 2(1)(7)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/7) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/b/ii)
 
-[^key-6a97d776dd2be1257846e489efdcdecd]: Textual amendment: Words in [Art. 2(1)(11)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/11) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/c)
+[^c-6a97d776dd2be1257846e489efdcdecd]: Textual amendment: Words in [Art. 2(1)(11)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/11) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/c)
 
-[^key-53f532627a6198d49fc39571516d97ed]: Textual amendment: [Art. 2(1)(12)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/12)[(13)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/13) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(d)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/d)
+[^c-53f532627a6198d49fc39571516d97ed]: Textual amendment: [Art. 2(1)(12)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/12)[(13)](https://www.legislation.gov.uk/eur/2017/852/article/2.1/13) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(3)(d)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/3/d)
 
-[^key-388d7295403c99c2ccf82026c12675c7]: Textual amendment: [Arts. 2(2)-(4)](https://www.legislation.gov.uk/eur/2017/852/article/2.2) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/4)
+[^c-388d7295403c99c2ccf82026c12675c7]: Textual amendment: [Arts. 2(2)-(4)](https://www.legislation.gov.uk/eur/2017/852/article/2.2) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [13(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/13/4)
 
-[^key-3e41cc9691f7cbc2c9a3b703d28a364e]: Textual amendment: Words in [Art. 2(4)(b)](https://www.legislation.gov.uk/eur/2017/852/article/2/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 118(2)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/118/2)
+[^c-3e41cc9691f7cbc2c9a3b703d28a364e]: Textual amendment: Words in [Art. 2(4)(b)](https://www.legislation.gov.uk/eur/2017/852/article/2/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 118(2)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/118/2)
 
-[^key-68247849f426f62b227af2e5e2d6d2d4]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2017/852/article/3/1) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/2)
+[^c-68247849f426f62b227af2e5e2d6d2d4]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2017/852/article/3/1) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/2)
 
-[^key-1e5263da36e9dadc1b9820e35f2b847c]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2017/852/article/3/2) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/3)
+[^c-1e5263da36e9dadc1b9820e35f2b847c]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2017/852/article/3/2) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/3)
 
-[^key-70890b09e47e4207a47ed696c9a3e4ca]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eur/2017/852/article/3/3) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/4)
+[^c-70890b09e47e4207a47ed696c9a3e4ca]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eur/2017/852/article/3/3) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/4)
 
-[^key-cccf4c57244b2013d53a6d5b059f46b4]: Textual amendment: Words in [Art. 3(4)](https://www.legislation.gov.uk/eur/2017/852/article/3/4) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/5)
+[^c-cccf4c57244b2013d53a6d5b059f46b4]: Textual amendment: Words in [Art. 3(4)](https://www.legislation.gov.uk/eur/2017/852/article/3/4) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [14(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/14/5)
 
-[^key-32176d374c52fe6326205b449f5d25b0]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2017/852/article/4) heading substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/2)
+[^c-32176d374c52fe6326205b449f5d25b0]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2017/852/article/4) heading substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/2)
 
-[^key-04885c350c8360b24ff0853fc02f2279]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/a)
+[^c-04885c350c8360b24ff0853fc02f2279]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/a)
 
-[^key-c056bbc0affcc072bcdfde537e9c1d1d]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/b/i)
+[^c-c056bbc0affcc072bcdfde537e9c1d1d]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/b/i)
 
-[^key-c5ac1a5945c7ccebd5c6290f5cfbe81b]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/b/ii)
+[^c-c5ac1a5945c7ccebd5c6290f5cfbe81b]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/b/ii)
 
-[^key-611329159dca80114d2b56a8acf1e0df]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/b/iii)
+[^c-611329159dca80114d2b56a8acf1e0df]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/b/iii)
 
-[^key-39df00465c74d0a70e7faec6d18e5b07]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/c)
+[^c-39df00465c74d0a70e7faec6d18e5b07]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2017/852/article/4/1) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(3)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/3/c)
 
-[^key-c24a373a2420d7a0769068289b5bc66f]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2017/852/article/4/2) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/4)
+[^c-c24a373a2420d7a0769068289b5bc66f]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2017/852/article/4/2) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/4)
 
-[^key-935b69780fcbe557edc0ab01a665594c]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2017/852/article/4/3) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/5)
+[^c-935b69780fcbe557edc0ab01a665594c]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2017/852/article/4/3) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/5)
 
-[^key-7153216c8dd9d655c6f641496cd9b9ed]: Textual amendment: Words in [Art. 4(4)](https://www.legislation.gov.uk/eur/2017/852/article/4/4) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(6)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/6)
+[^c-7153216c8dd9d655c6f641496cd9b9ed]: Textual amendment: Words in [Art. 4(4)](https://www.legislation.gov.uk/eur/2017/852/article/4/4) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(6)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/6)
 
-[^key-74dc22dd752b655ece434bc19117945c]: Textual amendment: [Art. 4(5)-(12)](https://www.legislation.gov.uk/eur/2017/852/article/4/5) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(7)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/7)
+[^c-74dc22dd752b655ece434bc19117945c]: Textual amendment: [Art. 4(5)-(12)](https://www.legislation.gov.uk/eur/2017/852/article/4/5) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [15(7)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/15/7)
 
-[^key-636399d3f10f7dca7896d25b763b0195]: Textual amendment: Word in [Art. 5(1)](https://www.legislation.gov.uk/eur/2017/852/article/5/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 118(3)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/118/3)
+[^c-636399d3f10f7dca7896d25b763b0195]: Textual amendment: Word in [Art. 5(1)](https://www.legislation.gov.uk/eur/2017/852/article/5/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 118(3)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/118/3)
 
-[^key-d84e7dac26a33332d758910186909eb9]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2017/852/article/5/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/16/2/a)
+[^c-d84e7dac26a33332d758910186909eb9]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2017/852/article/5/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/16/2/a)
 
-[^key-6d647b90845009bd3cb804357f7818b3]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2017/852/article/5/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/16/2/b)
+[^c-6d647b90845009bd3cb804357f7818b3]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2017/852/article/5/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/16/2/b)
 
-[^key-637bad8d4089c94addef491bc3673b02]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/eur/2017/852/article/5/3)[(4)](https://www.legislation.gov.uk/eur/2017/852/article/5/4) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [16(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/16/3)
+[^c-637bad8d4089c94addef491bc3673b02]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/eur/2017/852/article/5/3)[(4)](https://www.legislation.gov.uk/eur/2017/852/article/5/4) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [16(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/16/3)
 
-[^key-d2e1fd39660a623a8e64d2bb7cdeba17]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2017/852/article/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [17(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/17/a)
+[^c-d2e1fd39660a623a8e64d2bb7cdeba17]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2017/852/article/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [17(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/17/a)
 
-[^key-779240650260b69bd11e48a1dd93b425]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2017/852/article/6) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [17(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/17/b)
+[^c-779240650260b69bd11e48a1dd93b425]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2017/852/article/6) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [17(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/17/b)
 
-[^key-0a7b53666cd3934dfef16d23cdbfd751]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/a)
+[^c-0a7b53666cd3934dfef16d23cdbfd751]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/a)
 
-[^key-837416000eb714c750c6e8403480b9d1]: Textual amendment: Words in Art. 7(3)(b) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 37](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/37) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-837416000eb714c750c6e8403480b9d1]: Textual amendment: Words in Art. 7(3)(b) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 37](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/37) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-841149adb1a1f57c5dde3cd0db3b758a]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/b/i/aa)
+[^c-841149adb1a1f57c5dde3cd0db3b758a]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/b/i/aa)
 
-[^key-cd87c535243b1402ed60603c44268606]: Textual amendment: Words in Art. 7(3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/b/i/bb)
+[^c-cd87c535243b1402ed60603c44268606]: Textual amendment: Words in Art. 7(3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/b/i/bb)
 
-[^key-0771d7724d125602981680f467c1a0e7]: Textual amendment: Words in Art. 7(3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/b/ii)
+[^c-0771d7724d125602981680f467c1a0e7]: Textual amendment: Words in Art. 7(3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [18(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/18/2/b/ii)
 
-[^key-a70b62d190e3503006d88c8a27fb024a]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2017/852/article/8/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/2/a/i)
+[^c-a70b62d190e3503006d88c8a27fb024a]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2017/852/article/8/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/2/a/i)
 
-[^key-d0ca182180de9a52a8cd4c764bf3c116]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2017/852/article/8/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/2/a/ii)
+[^c-d0ca182180de9a52a8cd4c764bf3c116]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2017/852/article/8/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/2/a/ii)
 
-[^key-d6250228108b43f6594ea8426f5a8bb8]: Textual amendment: Words in [Art. 8(1)(a)](https://www.legislation.gov.uk/eur/2017/852/article/8/1/a) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/2/b)
+[^c-d6250228108b43f6594ea8426f5a8bb8]: Textual amendment: Words in [Art. 8(1)(a)](https://www.legislation.gov.uk/eur/2017/852/article/8/1/a) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/2/b)
 
-[^key-d286b62693b2bd7c3882a42c2c1af519]: Textual amendment: Words in [Art. 8(2)](https://www.legislation.gov.uk/eur/2017/852/article/8/2) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/3)
+[^c-d286b62693b2bd7c3882a42c2c1af519]: Textual amendment: Words in [Art. 8(2)](https://www.legislation.gov.uk/eur/2017/852/article/8/2) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/3)
 
-[^key-ee90a4c65290854872ee7b778a8cea52]: Textual amendment: Words in [Art. 8(3)](https://www.legislation.gov.uk/eur/2017/852/article/8/3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(4)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/4/a)
+[^c-ee90a4c65290854872ee7b778a8cea52]: Textual amendment: Words in [Art. 8(3)](https://www.legislation.gov.uk/eur/2017/852/article/8/3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(4)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/4/a)
 
-[^key-06ea239343a4e6115347d40df0bd3f5c]: Textual amendment: Words in [Art. 8(3)](https://www.legislation.gov.uk/eur/2017/852/article/8/3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(4)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/4/b)
+[^c-06ea239343a4e6115347d40df0bd3f5c]: Textual amendment: Words in [Art. 8(3)](https://www.legislation.gov.uk/eur/2017/852/article/8/3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(4)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/4/b)
 
-[^key-3ad68578ae32c60cd11d000535e6dc7e]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/eur/2017/852/article/8/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/5)
+[^c-3ad68578ae32c60cd11d000535e6dc7e]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/eur/2017/852/article/8/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/5)
 
-[^key-f89d5598fe0b0538932e58601f5dd0e5]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/eur/2017/852/article/8/5) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(6)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/6)
+[^c-f89d5598fe0b0538932e58601f5dd0e5]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/eur/2017/852/article/8/5) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(6)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/6)
 
-[^key-064ab6f6b35781f202359e82d5391610]: Textual amendment: Words in [Art. 8(6)](https://www.legislation.gov.uk/eur/2017/852/article/8/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/7/a/i)
+[^c-064ab6f6b35781f202359e82d5391610]: Textual amendment: Words in [Art. 8(6)](https://www.legislation.gov.uk/eur/2017/852/article/8/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/7/a/i)
 
-[^key-444dadbaa25642db0a0aa4b1bd92e3df]: Textual amendment: Words in [Art. 8(6)](https://www.legislation.gov.uk/eur/2017/852/article/8/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/7/a/ii)
+[^c-444dadbaa25642db0a0aa4b1bd92e3df]: Textual amendment: Words in [Art. 8(6)](https://www.legislation.gov.uk/eur/2017/852/article/8/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/7/a/ii)
 
-[^key-a917e07522d2a9776aa6b7b8a15b4cd0]: Textual amendment: Words in [Art. 8(6)](https://www.legislation.gov.uk/eur/2017/852/article/8/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(7)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/7/b)
+[^c-a917e07522d2a9776aa6b7b8a15b4cd0]: Textual amendment: Words in [Art. 8(6)](https://www.legislation.gov.uk/eur/2017/852/article/8/6) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(7)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/7/b)
 
-[^key-977e162e28594ce21347a36134f6554a]: Textual amendment: [Art. 8(7)](https://www.legislation.gov.uk/eur/2017/852/article/8/7) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(8)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/8)
+[^c-977e162e28594ce21347a36134f6554a]: Textual amendment: [Art. 8(7)](https://www.legislation.gov.uk/eur/2017/852/article/8/7) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [19(8)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/19/8)
 
-[^key-1e5f88ee0c37357bf390c0c836239c62]: Textual amendment: Words in [Art. 9(2)](https://www.legislation.gov.uk/eur/2017/852/article/9/2) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [20(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/20/a)
+[^c-1e5f88ee0c37357bf390c0c836239c62]: Textual amendment: Words in [Art. 9(2)](https://www.legislation.gov.uk/eur/2017/852/article/9/2) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [20(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/20/a)
 
-[^key-978e38588d25cda73c5beaafda52611d]: Textual amendment: Words in [Art. 9(2)](https://www.legislation.gov.uk/eur/2017/852/article/9/2) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [20(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/20/b)
+[^c-978e38588d25cda73c5beaafda52611d]: Textual amendment: Words in [Art. 9(2)](https://www.legislation.gov.uk/eur/2017/852/article/9/2) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [20(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/20/b)
 
-[^key-19ff9009ed7a8d2bb592175aba325cf0]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2017/852/article/10/3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [21(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/21/2)
+[^c-19ff9009ed7a8d2bb592175aba325cf0]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2017/852/article/10/3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [21(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/21/2)
 
-[^key-8d13ce9c2c9a4d6dcf64cd0f07a93bcc]: Textual amendment: Words in [Art. 10(5)](https://www.legislation.gov.uk/eur/2017/852/article/10/5) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/21/3)
+[^c-8d13ce9c2c9a4d6dcf64cd0f07a93bcc]: Textual amendment: Words in [Art. 10(5)](https://www.legislation.gov.uk/eur/2017/852/article/10/5) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/21/3)
 
-[^key-6a3dc90f536f6bb1b1ac213df7d3e4f7]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2017/852/article/11) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [22(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/22/a)
+[^c-6a3dc90f536f6bb1b1ac213df7d3e4f7]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2017/852/article/11) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [22(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/22/a)
 
-[^key-b9e56620aaf6bede52a13ab670bfbcdf]: Textual amendment: Words in [Art. 11(d)](https://www.legislation.gov.uk/eur/2017/852/article/11/d) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [22(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/22/b)
+[^c-b9e56620aaf6bede52a13ab670bfbcdf]: Textual amendment: Words in [Art. 11(d)](https://www.legislation.gov.uk/eur/2017/852/article/11/d) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [22(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/22/b)
 
-[^key-693d644d962a26cc8541e7c315ee5daa]: Textual amendment: Word in [Art. 12(1)](https://www.legislation.gov.uk/eur/2017/852/article/12/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [23(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/23/2)
+[^c-693d644d962a26cc8541e7c315ee5daa]: Textual amendment: Word in [Art. 12(1)](https://www.legislation.gov.uk/eur/2017/852/article/12/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [23(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/23/2)
 
-[^key-47985c5817e3db6a3a9270cbecb780d6]: Textual amendment: Words in [Art. 12(2)](https://www.legislation.gov.uk/eur/2017/852/article/12/2) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [23(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/23/3)
+[^c-47985c5817e3db6a3a9270cbecb780d6]: Textual amendment: Words in [Art. 12(2)](https://www.legislation.gov.uk/eur/2017/852/article/12/2) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [23(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/23/3)
 
-[^key-c1fb6a3249a41b7f5478f28c0d450350]: Textual amendment: Word in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/a/i)
+[^c-c1fb6a3249a41b7f5478f28c0d450350]: Textual amendment: Word in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/a/i)
 
-[^key-5c0d0957f58dd21c3e7f9df614dd8ca3]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/a/ii)
+[^c-5c0d0957f58dd21c3e7f9df614dd8ca3]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/a/ii)
 
-[^key-9e39640830fe1c62016be09201258b62]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/b)
+[^c-9e39640830fe1c62016be09201258b62]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/b)
 
-[^key-7f02c20118d84c4ec0c9a97a1f19b5fd]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/c)
+[^c-7f02c20118d84c4ec0c9a97a1f19b5fd]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2017/852/article/13/1) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(2)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/2/c)
 
-[^key-e4eca8056e9d5f05a88efaa84a259ee1]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2017/852/article/13/2) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/3)
+[^c-e4eca8056e9d5f05a88efaa84a259ee1]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2017/852/article/13/2) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/3)
 
-[^key-45f566fd0c3280c4b541d56eb6dcc72d]: Textual amendment: Words in [Art. 13(3)](https://www.legislation.gov.uk/eur/2017/852/article/13/3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/4)
+[^c-45f566fd0c3280c4b541d56eb6dcc72d]: Textual amendment: Words in [Art. 13(3)](https://www.legislation.gov.uk/eur/2017/852/article/13/3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [24(4)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/24/4)
 
-[^key-df7b1a65bf045d6ad59582b16f3b87a0]: Textual amendment: Words in [Art. 14(3)](https://www.legislation.gov.uk/eur/2017/852/article/14/3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/2)
+[^c-df7b1a65bf045d6ad59582b16f3b87a0]: Textual amendment: Words in [Art. 14(3)](https://www.legislation.gov.uk/eur/2017/852/article/14/3) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/2)
 
-[^key-6f66652ff4242ff68ddf6e07135de872]: Textual amendment: [Art. 14(3A)](https://www.legislation.gov.uk/eur/2017/852/article/14/3A) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/3)
+[^c-6f66652ff4242ff68ddf6e07135de872]: Textual amendment: [Art. 14(3A)](https://www.legislation.gov.uk/eur/2017/852/article/14/3A) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/3)
 
-[^key-70fca883c0b2b7edbe50ee4e4e1f5791]: Textual amendment: Word in [Art. 14(4)](https://www.legislation.gov.uk/eur/2017/852/article/14/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(4)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/4/a)
+[^c-70fca883c0b2b7edbe50ee4e4e1f5791]: Textual amendment: Word in [Art. 14(4)](https://www.legislation.gov.uk/eur/2017/852/article/14/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(4)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/4/a)
 
-[^key-4bf5a67a6c0c0253de5955df92907cfa]: Textual amendment: Word in [Art. 14(4)](https://www.legislation.gov.uk/eur/2017/852/article/14/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/4/b/i)
+[^c-4bf5a67a6c0c0253de5955df92907cfa]: Textual amendment: Word in [Art. 14(4)](https://www.legislation.gov.uk/eur/2017/852/article/14/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/4/b/i)
 
-[^key-d0ed0761d2fca3a26dba41a9117dc20d]: Textual amendment: Words in [Art. 14(4)](https://www.legislation.gov.uk/eur/2017/852/article/14/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/4/b/ii)
+[^c-d0ed0761d2fca3a26dba41a9117dc20d]: Textual amendment: Words in [Art. 14(4)](https://www.legislation.gov.uk/eur/2017/852/article/14/4) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/4/b/ii)
 
-[^key-24fcd48d5f217ab7dd909016db2bcc82]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/eur/2017/852/article/14/5) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/5)
+[^c-24fcd48d5f217ab7dd909016db2bcc82]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/eur/2017/852/article/14/5) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [25(5)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/25/5)
 
-[^key-89cabbf2f8e72cc97373cb3f557370df]: Textual amendment: Words in [Art. 15(1)](https://www.legislation.gov.uk/eur/2017/852/article/15/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [26(2)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/26/2/a)
+[^c-89cabbf2f8e72cc97373cb3f557370df]: Textual amendment: Words in [Art. 15(1)](https://www.legislation.gov.uk/eur/2017/852/article/15/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [26(2)(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/26/2/a)
 
-[^key-cbe8bca2efc9c831e457f111b32a748c]: Textual amendment: Words in [Art. 15(1)](https://www.legislation.gov.uk/eur/2017/852/article/15/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [26(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/26/2/b)
+[^c-cbe8bca2efc9c831e457f111b32a748c]: Textual amendment: Words in [Art. 15(1)](https://www.legislation.gov.uk/eur/2017/852/article/15/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [26(2)(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/26/2/b)
 
-[^key-87759f7f3b04172ef56817c2bfa5b871]: Textual amendment: [Art. 15(2)](https://www.legislation.gov.uk/eur/2017/852/article/15/2)[(3)](https://www.legislation.gov.uk/eur/2017/852/article/15/3) substituted for [Art. 15(2)](https://www.legislation.gov.uk/eur/2017/852/article/15/2) (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [26(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/26/3)
+[^c-87759f7f3b04172ef56817c2bfa5b871]: Textual amendment: [Art. 15(2)](https://www.legislation.gov.uk/eur/2017/852/article/15/2)[(3)](https://www.legislation.gov.uk/eur/2017/852/article/15/3) substituted for [Art. 15(2)](https://www.legislation.gov.uk/eur/2017/852/article/15/2) (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [26(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/26/3)
 
-[^key-f83ecc76ab3ca7bbbf4b9e59605d9101]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/2017/852/article/16) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [27](https://www.legislation.gov.uk/uksi/2020/1620/regulation/27)
+[^c-f83ecc76ab3ca7bbbf4b9e59605d9101]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/2017/852/article/16) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [27](https://www.legislation.gov.uk/uksi/2020/1620/regulation/27)
 
-[^key-fb6318877bb40179eda314d866c33678]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2017/852/article/17) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [27](https://www.legislation.gov.uk/uksi/2020/1620/regulation/27)
+[^c-fb6318877bb40179eda314d866c33678]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2017/852/article/17) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [27](https://www.legislation.gov.uk/uksi/2020/1620/regulation/27)
 
-[^key-f49340d26aeeea5cb4270120887f5b9c]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/i)
+[^c-f49340d26aeeea5cb4270120887f5b9c]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/i)
 
-[^key-87bccfcf36320a266c7e4c8211c7b849]: Textual amendment: Words in [Art. 18(1)(b)](https://www.legislation.gov.uk/eur/2017/852/article/18/1/b) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/ii)
+[^c-87bccfcf36320a266c7e4c8211c7b849]: Textual amendment: Words in [Art. 18(1)(b)](https://www.legislation.gov.uk/eur/2017/852/article/18/1/b) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/ii)
 
-[^key-fcccd088c71e072807858ce49eddaa20]: Textual amendment: Words in [Art. 18(1)(d)](https://www.legislation.gov.uk/eur/2017/852/article/18/1/d) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/iii)
+[^c-fcccd088c71e072807858ce49eddaa20]: Textual amendment: Words in [Art. 18(1)(d)](https://www.legislation.gov.uk/eur/2017/852/article/18/1/d) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/iii)
 
-[^key-5fcc0ec24d8b843445815fdeebeca4a3]: Textual amendment: Words in [Art. 18(1)(e)](https://www.legislation.gov.uk/eur/2017/852/article/18/1/e) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/iv)
+[^c-5fcc0ec24d8b843445815fdeebeca4a3]: Textual amendment: Words in [Art. 18(1)(e)](https://www.legislation.gov.uk/eur/2017/852/article/18/1/e) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/a/iv)
 
-[^key-94ba04ead7f47874b8d02f66829025b7]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/b/i)
+[^c-94ba04ead7f47874b8d02f66829025b7]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/b/i)
 
-[^key-744a88a0463a144dad60b2bee7feefb0]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/b/ii)
+[^c-744a88a0463a144dad60b2bee7feefb0]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/b/ii)
 
-[^key-a192289d0294819242bf9ef59c64718a]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/c)
+[^c-a192289d0294819242bf9ef59c64718a]: Textual amendment: Words in [Art. 18(1)](https://www.legislation.gov.uk/eur/2017/852/article/18/1) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(2)(c)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/2/c)
 
-[^key-eac9b37a9d0948722490671a647c5610]: Textual amendment: [Art. 18(2)](https://www.legislation.gov.uk/eur/2017/852/article/18/2) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/3)
+[^c-eac9b37a9d0948722490671a647c5610]: Textual amendment: [Art. 18(2)](https://www.legislation.gov.uk/eur/2017/852/article/18/2) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/3)
 
-[^key-eecd1927d145a4f7b9933af65c8cf5b5]: Textual amendment: [Art. 18(3)](https://www.legislation.gov.uk/eur/2017/852/article/18/3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/3)
+[^c-eecd1927d145a4f7b9933af65c8cf5b5]: Textual amendment: [Art. 18(3)](https://www.legislation.gov.uk/eur/2017/852/article/18/3) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/28/3)
 
-[^key-9eba1ff3865f91e874948da3d20654e4]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eur/2017/852/article/19) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [29](https://www.legislation.gov.uk/uksi/2020/1620/regulation/29)
+[^c-9eba1ff3865f91e874948da3d20654e4]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eur/2017/852/article/19) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [29](https://www.legislation.gov.uk/uksi/2020/1620/regulation/29)
 
-[^key-6ab7b87dd9c02f2c2086a6856aa1eb38]: Textual amendment: Arts. 20, 21 substituted for Arts. 20-22 (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [30](https://www.legislation.gov.uk/uksi/2020/1620/regulation/30)
+[^c-6ab7b87dd9c02f2c2086a6856aa1eb38]: Textual amendment: Arts. 20, 21 substituted for Arts. 20-22 (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [30](https://www.legislation.gov.uk/uksi/2020/1620/regulation/30)
 
-[^key-ee15bfe1cf84131a2b9ac26c0ee4799a]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/eur/2017/852/article/24) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [31](https://www.legislation.gov.uk/uksi/2020/1620/regulation/31)
+[^c-ee15bfe1cf84131a2b9ac26c0ee4799a]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/eur/2017/852/article/24) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [31](https://www.legislation.gov.uk/uksi/2020/1620/regulation/31)
 
-[^key-d276edbeaee204b632cc086e02294862]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/852/signature) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [31](https://www.legislation.gov.uk/uksi/2020/1620/regulation/31)
+[^c-d276edbeaee204b632cc086e02294862]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/852/signature) omitted (31.12.2020) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [31](https://www.legislation.gov.uk/uksi/2020/1620/regulation/31)
 
-[^key-762c13658756ec1501ff7edb9f02b5f8]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/2)
+[^c-762c13658756ec1501ff7edb9f02b5f8]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/2)
 
-[^key-2fe687c6ca0c29a18a2c23e27b405e3b]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/3)
+[^c-2fe687c6ca0c29a18a2c23e27b405e3b]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/3)
 
-[^key-0a3e470f7628277149ba6124a01267f8]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/4)
+[^c-0a3e470f7628277149ba6124a01267f8]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/4)
 
-[^key-16a8d67edf70096ffc405fdf4dbf088d]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/5)
+[^c-16a8d67edf70096ffc405fdf4dbf088d]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/5)
 
 [^f00018]: Footnote: Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products ([OJ L 342, 22.12.2009, p. 59](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.342.01.0059.01.ENG)).
 
-[^key-75d628dc7bc143e9c322a6598e0dfda9]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/6)
+[^c-75d628dc7bc143e9c322a6598e0dfda9]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/A) inserted (23.12.2025) by [The Control of Mercury (Amendment) Regulations 2025 (S.I. 2025/1255)](https://www.legislation.gov.uk/uksi/2025/1255), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2025/1255/regulation/2/6)
 
-[^key-0b7226951cf13e811355304b26969be9]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/B) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [32(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/32/a)
+[^c-0b7226951cf13e811355304b26969be9]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/B) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [32(a)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/32/a)
 
-[^key-cc9a6346bda5be8112b08c68440640e8]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/B) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [32(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/32/b)
+[^c-cc9a6346bda5be8112b08c68440640e8]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2017/852/annex/II/part/B) substituted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [32(b)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/32/b)

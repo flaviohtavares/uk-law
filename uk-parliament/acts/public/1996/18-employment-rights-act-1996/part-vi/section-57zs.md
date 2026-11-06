@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57ZS. Placement of looked after children with prospective adopters[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
+## 57ZS. Placement of looked after children with prospective adopters[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ that a child is to be, or is expected to be, placed with that person under secti
 
 *Extent: E+W*
 
-(2A)[^key-8c29d237cdb06db19562cf80260c2d14] Subsection (2B) applies where a local authority in Wales notifies a person—
+(2A)[^c-8c29d237cdb06db19562cf80260c2d14] Subsection (2B) applies where a local authority in Wales notifies a person—
 
 - (a) who is a local authority foster parent, and
 - (b) who has been approved as prospective adopter,
@@ -48,12 +48,12 @@ that a child is to be, or is expected to be, placed with that person under secti
 - (b (Extent: E+W)) references to placing for adoption were references to placing a child under section 81 of that Act with a local authority foster parent who has been approved as a prospective adopter; *(Extent: E+W)*
 - (c (Extent: E+W)) references to an adoption agency were references to a local authority in Wales. *(Extent: E+W)*
 
-(3) Where a child is placed under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014 *(Extent: E+W)*[^key-855cebfadbb764e9ec5b49c94eab0288] with a local authority foster parent who has been approved as a prospective adopter, notification of that person by an adoption agency during that placement that the child is to be, or is expected to be, placed with that person for adoption is not to give rise to a right to time off under section 57ZJ, 57ZL, 57ZN or 57ZP for that person or another person.
+(3) Where a child is placed under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014 *(Extent: E+W)*[^c-855cebfadbb764e9ec5b49c94eab0288] with a local authority foster parent who has been approved as a prospective adopter, notification of that person by an adoption agency during that placement that the child is to be, or is expected to be, placed with that person for adoption is not to give rise to a right to time off under section 57ZJ, 57ZL, 57ZN or 57ZP for that person or another person.
 
 ## Annotations
 
-[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
+[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
 
-[^key-8c29d237cdb06db19562cf80260c2d14]: Textual amendment: S. 57ZS(2A)(2B) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [144(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/144/a)
+[^c-8c29d237cdb06db19562cf80260c2d14]: Textual amendment: S. 57ZS(2A)(2B) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [144(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/144/a)
 
-[^key-855cebfadbb764e9ec5b49c94eab0288]: Textual amendment: Words in s. 57ZS(3) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [144(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/144/b)
+[^c-855cebfadbb764e9ec5b49c94eab0288]: Textual amendment: Words in s. 57ZS(3) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [144(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/144/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Standards of performance in relation to water supply[^key-71e705025a42965d7e4c95cc35cae28c]
+## 41. Standards of performance in relation to water supply[^c-71e705025a42965d7e4c95cc35cae28c]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71e705025a42965d7e4c95cc35cae28c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2003/37/section/41) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/968/article/2/h)
+[^c-71e705025a42965d7e4c95cc35cae28c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2003/37/section/41) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/968/article/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Declaration of a restricted zone[^key-22167b2b8751a1c48f718ca964e13cb8]
+## 35. Declaration of a restricted zone[^c-22167b2b8751a1c48f718ca964e13cb8]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22167b2b8751a1c48f718ca964e13cb8]: Commencement: Reg. 35 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-22167b2b8751a1c48f718ca964e13cb8]: Commencement: Reg. 35 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

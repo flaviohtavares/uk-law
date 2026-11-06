@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Dismissal: general restrictions[^key-c00f90ce3d4cc2d4b61d2c79d101d345][^key-111cb56dce0ff926e1c536eaca2081b7]
+## 265. Dismissal: general restrictions[^c-c00f90ce3d4cc2d4b61d2c79d101d345][^c-111cb56dce0ff926e1c536eaca2081b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c00f90ce3d4cc2d4b61d2c79d101d345]: Commencement: S. 265 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-c00f90ce3d4cc2d4b61d2c79d101d345]: Commencement: S. 265 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-111cb56dce0ff926e1c536eaca2081b7]: Commencement: S. 265 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-111cb56dce0ff926e1c536eaca2081b7]: Commencement: S. 265 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

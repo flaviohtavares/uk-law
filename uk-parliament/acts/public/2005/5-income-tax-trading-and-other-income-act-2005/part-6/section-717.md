@@ -24,10 +24,10 @@ summary: ''
 
 (2) Subsection (1) is subject to section 718.
 
-(3)[^key-d6f7e4c82807a0216d002c9cbf04fe29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d6f7e4c82807a0216d002c9cbf04fe29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this Chapter “**purchased life annuity**” has the same meaning as in Chapter 7 of Part 4 (see section 423).
 
 ## Annotations
 
-[^key-d6f7e4c82807a0216d002c9cbf04fe29]: Textual amendment: [S. 717(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/717/3) repealed (6.4.2008) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 46(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/5)[(9)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/9), [Sch. 27 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/13); [S.I. 2008/561](https://www.legislation.gov.uk/uksi/2008/561), [art. 2](https://www.legislation.gov.uk/uksi/2008/561/article/2)
+[^c-d6f7e4c82807a0216d002c9cbf04fe29]: Textual amendment: [S. 717(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/717/3) repealed (6.4.2008) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 46(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/5)[(9)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/9), [Sch. 27 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/13); [S.I. 2008/561](https://www.legislation.gov.uk/uksi/2008/561), [art. 2](https://www.legislation.gov.uk/uksi/2008/561/article/2)

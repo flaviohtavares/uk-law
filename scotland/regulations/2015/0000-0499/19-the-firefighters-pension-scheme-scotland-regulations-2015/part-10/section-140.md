@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Appointment of scheme actuary and actuarial valuations[^key-fdcf132f4009699105291a88aeebdf2f]
+## 140. Appointment of scheme actuary and actuarial valuations[^c-fdcf132f4009699105291a88aeebdf2f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdcf132f4009699105291a88aeebdf2f]: Commencement: [Reg. 140](https://www.legislation.gov.uk/ssi/2015/19/regulation/140) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-fdcf132f4009699105291a88aeebdf2f]: Commencement: [Reg. 140](https://www.legislation.gov.uk/ssi/2015/19/regulation/140) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

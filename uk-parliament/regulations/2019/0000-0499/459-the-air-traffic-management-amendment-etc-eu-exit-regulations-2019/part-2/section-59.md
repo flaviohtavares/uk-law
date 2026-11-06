@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Article 6 of Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552)[^key-9bc8c73ad7440deaf932637bbd08d5bb]
+## 59. Article 6 of Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552)[^c-9bc8c73ad7440deaf932637bbd08d5bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc8c73ad7440deaf932637bbd08d5bb]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9bc8c73ad7440deaf932637bbd08d5bb]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24460681]: Marginal citation: OJ L 96, 31.3.2004, p. 26.

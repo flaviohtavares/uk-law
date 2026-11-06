@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145.[^key-a6bd19f48a2a440a740105a0bedb6c4d]
+## 145.[^c-a6bd19f48a2a440a740105a0bedb6c4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 325A (health and employment insurance payments), in subsection (2)(b)
 
 ## Annotations
 
-[^key-a6bd19f48a2a440a740105a0bedb6c4d]: Commencement: Reg. 145 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-a6bd19f48a2a440a740105a0bedb6c4d]: Commencement: Reg. 145 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

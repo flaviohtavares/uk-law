@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 20
 
-### 1. Introduction[^key-049cb1cb7f166b61d2b455dd78c6076a]
+### 1. Introduction[^c-049cb1cb7f166b61d2b455dd78c6076a]
 
 The Identification and Traceability of Explosives Regulations (Northern Ireland) 2013 are amended in accordance with paragraphs 2 to 6.
 
-### 2. Amendment to regulation 2[^key-7bee8a890aeb146927d48f19cb7d0d96]
+### 2. Amendment to regulation 2[^c-7bee8a890aeb146927d48f19cb7d0d96]
 
 In regulation 2, after the definition of “manufacture” insert—
 
@@ -37,7 +37,7 @@ In regulation 2, after the definition of “manufacture” insert—
 
 .
 
-### 3. Amendment to regulation 5[^key-22ff0aedb3056c7f088b904893fa4444]
+### 3. Amendment to regulation 5[^c-22ff0aedb3056c7f088b904893fa4444]
 
 In regulation 5—
 
@@ -53,11 +53,11 @@ In regulation 5—
 
   .
 
-### 4. Amendment to regulation 7[^key-abc4ac1ca708cdd5a2be81a2d1835d00]
+### 4. Amendment to regulation 7[^c-abc4ac1ca708cdd5a2be81a2d1835d00]
 
 In regulation 7(2) for “other member” substitute “ EEA ”.
 
-### 5. Amendment to Schedule 1[^key-640a8db563c48a50bdefb38061ebdb5e]
+### 5. Amendment to Schedule 1[^c-640a8db563c48a50bdefb38061ebdb5e]
 
 in Schedule 1—
 
@@ -69,7 +69,7 @@ in Schedule 1—
   ;
 - (b) in paragraph (2) for “(a)(ii)(aa) and (ii)(bb) and (b)” substitute “ (a)(ii)(aa), (ab), (bb) and (b) ”.
 
-### 6. Amendment to Schedule 2[^key-4e27bcdf3a082dcc187fdf8c0b557c70]
+### 6. Amendment to Schedule 2[^c-4e27bcdf3a082dcc187fdf8c0b557c70]
 
 In paragraph 9 of Schedule 2—
 
@@ -78,14 +78,14 @@ In paragraph 9 of Schedule 2—
 
 ## Annotations
 
-[^key-049cb1cb7f166b61d2b455dd78c6076a]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-049cb1cb7f166b61d2b455dd78c6076a]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-7bee8a890aeb146927d48f19cb7d0d96]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-7bee8a890aeb146927d48f19cb7d0d96]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-22ff0aedb3056c7f088b904893fa4444]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-22ff0aedb3056c7f088b904893fa4444]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-abc4ac1ca708cdd5a2be81a2d1835d00]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-abc4ac1ca708cdd5a2be81a2d1835d00]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-640a8db563c48a50bdefb38061ebdb5e]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-640a8db563c48a50bdefb38061ebdb5e]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-4e27bcdf3a082dcc187fdf8c0b557c70]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-4e27bcdf3a082dcc187fdf8c0b557c70]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

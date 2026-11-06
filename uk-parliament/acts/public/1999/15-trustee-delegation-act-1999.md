@@ -101,7 +101,7 @@ that the donor has a beneficial interest in the property at the time of the done
 
 In section 10(2) of the [^c879196]Powers of Attorney Act 1971 (which provides that a general power of attorney in the form set out in Schedule 1 to that Act, or a similar form, does not confer on the donee of the power any authority to exercise functions of the donor as trustee etc.), for the words “This section” substitute “ Subject to section 1 of the Trustee Delegation Act 1999, this section ”.
 
-### 4. Enduring powers.[^key-e8bdcd23631274358737cdce65016442]
+### 4. Enduring powers.[^c-e8bdcd23631274358737cdce65016442]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -160,7 +160,7 @@ In section 10(2) of the [^c879196]Powers of Attorney Act 1971 (which provides th
 
 (3) In section 34(2)(b) of the [^c879201]Pensions Act 1995 (delegation by trustees of trustee scheme under section 25 of the [^c879202]Trustee Act 1925), for “during absence abroad” substitute “ for period not exceeding twelve months ”.
 
-### 6. Section 25 powers as enduring powers.[^key-fb9d64b4eb97de2d4bb7dbbb5490128b]
+### 6. Section 25 powers as enduring powers.[^c-fb9d64b4eb97de2d4bb7dbbb5490128b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,7 +182,7 @@ is not satisfied by money being paid to or dealt with as directed by, or a recei
 
 and who is not acting together with any other person or persons.
 
-(3) This section applies whether a relevant attorney is acting under a power created before or after the commencement of this Act (but in the case of such an attorney acting under an enduring power created before that commencement is without prejudice to any continuing application of section 3(3) of the Enduring Powers of Attorney Act 1985 to the enduring power after that commencement [^key-23dcbc037bfe1f528be5f594a32705bc]...).
+(3) This section applies whether a relevant attorney is acting under a power created before or after the commencement of this Act (but in the case of such an attorney acting under an enduring power created before that commencement is without prejudice to any continuing application of section 3(3) of the Enduring Powers of Attorney Act 1985 to the enduring power after that commencement [^c-23dcbc037bfe1f528be5f594a32705bc]...).
 
 ### 8. Appointment of additional trustee by attorney.
 
@@ -275,7 +275,7 @@ The repeal of section 3(3) of the Enduring Powers of Attorney Act 1985 has effec
 
 [^c879196]: Marginal citation: [1971 c.27](https://www.legislation.gov.uk/ukpga/1971/27).
 
-[^key-e8bdcd23631274358737cdce65016442]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1999/15/section/4) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-e8bdcd23631274358737cdce65016442]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1999/15/section/4) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c879198]: Marginal citation: [1925 c.19](https://www.legislation.gov.uk/ukpga/1925/19).
 
@@ -287,9 +287,9 @@ The repeal of section 3(3) of the Enduring Powers of Attorney Act 1985 has effec
 
 [^c879202]: Marginal citation: [1925 c.19](https://www.legislation.gov.uk/ukpga/1925/19).
 
-[^key-fb9d64b4eb97de2d4bb7dbbb5490128b]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1999/15/section/6) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-fb9d64b4eb97de2d4bb7dbbb5490128b]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1999/15/section/6) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-23dcbc037bfe1f528be5f594a32705bc]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/15/section/7/3) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-23dcbc037bfe1f528be5f594a32705bc]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/15/section/7/3) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c879204]: Marginal citation: [1985 c.29](https://www.legislation.gov.uk/ukpga/1985/29).
 

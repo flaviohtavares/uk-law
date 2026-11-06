@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In this Chapter “**investment manager**” means a person who provides investment management services (which may include or comprise the provision of investment advice)[^key-e313622e7f7b03e02e22f023706d99f5].
+(1) In this Chapter “**investment manager**” means a person who provides investment management services (which may include or comprise the provision of investment advice)[^c-e313622e7f7b03e02e22f023706d99f5].
 
-(2)[^key-faf9ffea0f5944844a9d7654715ae2d5] An “**investment transaction**” means any transaction other than a transaction with an excluded subject matter.
+(2)[^c-faf9ffea0f5944844a9d7654715ae2d5] An “**investment transaction**” means any transaction other than a transaction with an excluded subject matter.
 
 (3) The following are excluded subject matters—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e313622e7f7b03e02e22f023706d99f5]: Textual amendment: Words in s. 827(1) inserted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/24/1/a), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-e313622e7f7b03e02e22f023706d99f5]: Textual amendment: Words in s. 827(1) inserted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/24/1/a), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-faf9ffea0f5944844a9d7654715ae2d5]: Textual amendment: [S. 827(2)-(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/827/2) substituted for s. 827(2)(3) (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 24(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/24/1/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-faf9ffea0f5944844a9d7654715ae2d5]: Textual amendment: [S. 827(2)-(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/827/2) substituted for s. 827(2)(3) (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 24(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/24/1/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

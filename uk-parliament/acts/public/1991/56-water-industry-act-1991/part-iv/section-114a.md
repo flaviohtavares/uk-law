@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114A. Drainage systems relieving public sewers[^key-eac8bdc87543f5437a95961735260a88]
+## 114A. Drainage systems relieving public sewers[^c-eac8bdc87543f5437a95961735260a88]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eac8bdc87543f5437a95961735260a88]: Textual amendment: S. 114A and cross-heading inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/1), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
+[^c-eac8bdc87543f5437a95961735260a88]: Textual amendment: S. 114A and cross-heading inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/1), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)

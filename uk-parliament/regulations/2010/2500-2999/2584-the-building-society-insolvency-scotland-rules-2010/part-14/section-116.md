@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Evidence of proceedings at meetings[^key-b537899ed7fd3fc0ac4e9b62e1cbbd0b]
+## 116. Evidence of proceedings at meetings[^c-b537899ed7fd3fc0ac4e9b62e1cbbd0b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.25 of the 1986 Rules.
 
 ## Annotations
 
-[^key-b537899ed7fd3fc0ac4e9b62e1cbbd0b]: Commencement: Rule 116 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-b537899ed7fd3fc0ac4e9b62e1cbbd0b]: Commencement: Rule 116 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

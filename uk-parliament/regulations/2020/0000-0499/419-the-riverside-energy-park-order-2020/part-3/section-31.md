@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Temporary use of land for carrying out the authorised development[^key-e225c0a25659ff96ec1ac7361787747f]
+## 31. Temporary use of land for carrying out the authorised development[^c-e225c0a25659ff96ec1ac7361787747f]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e225c0a25659ff96ec1ac7361787747f]: Commencement: Art. 31 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-e225c0a25659ff96ec1ac7361787747f]: Commencement: Art. 31 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Time limit for confirmation notices[^key-9dc523a210091c6072a771ff354453ff]
+## 34. Time limit for confirmation notices[^c-9dc523a210091c6072a771ff354453ff]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dc523a210091c6072a771ff354453ff]: Commencement: S. 34 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/d)
+[^c-9dc523a210091c6072a771ff354453ff]: Commencement: S. 34 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/d)

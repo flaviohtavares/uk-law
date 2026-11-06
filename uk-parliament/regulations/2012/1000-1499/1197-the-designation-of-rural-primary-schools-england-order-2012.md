@@ -31,34 +31,34 @@ summary: ''
 
 Education, England
 
-The Designation of Rural Primary Schools (England) Order 2012 (revoked)[^key-f75396f87be8706178af2971201cd20a]
+The Designation of Rural Primary Schools (England) Order 2012 (revoked)[^c-f75396f87be8706178af2971201cd20a]
 
 Made
 
 1st May 2012
 
-[^key-f75396f87be8706178af2971201cd20a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f75396f87be8706178af2971201cd20a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f75396f87be8706178af2971201cd20a]
+## 1. Citation and commencement[^c-f75396f87be8706178af2971201cd20a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of rural primary schools[^key-f75396f87be8706178af2971201cd20a]
+## 2. Designation of rural primary schools[^c-f75396f87be8706178af2971201cd20a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f75396f87be8706178af2971201cd20a]
+## 3. Revocation[^c-f75396f87be8706178af2971201cd20a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f75396f87be8706178af2971201cd20a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f75396f87be8706178af2971201cd20a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f75396f87be8706178af2971201cd20a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f75396f87be8706178af2971201cd20a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f75396f87be8706178af2971201cd20a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1197) revoked (15.10.2013) by [The Designation of Rural Primary Schools (England) Order 2013 (S.I. 2013/2655)](https://www.legislation.gov.uk/uksi/2013/2655), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2655/article/1), [3](https://www.legislation.gov.uk/uksi/2013/2655/article/3)
+[^c-f75396f87be8706178af2971201cd20a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1197) revoked (15.10.2013) by [The Designation of Rural Primary Schools (England) Order 2013 (S.I. 2013/2655)](https://www.legislation.gov.uk/uksi/2013/2655), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2655/article/1), [3](https://www.legislation.gov.uk/uksi/2013/2655/article/3)

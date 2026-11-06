@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7B. Use of social security information[^key-a786d1256449b1726581b7e5cee81bf0]
+## 7B. Use of social security information[^c-a786d1256449b1726581b7e5cee81bf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a786d1256449b1726581b7e5cee81bf0]: Textual amendment: S. 7B inserted (1.10.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 41(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/41/1), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2); [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/a)
+[^c-a786d1256449b1726581b7e5cee81bf0]: Textual amendment: S. 7B inserted (1.10.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 41(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/41/1), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2); [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/a)

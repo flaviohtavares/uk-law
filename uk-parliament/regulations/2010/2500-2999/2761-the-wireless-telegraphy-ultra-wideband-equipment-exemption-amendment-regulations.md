@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) (Amendment) Regulations 2010 (revoked)[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]
+The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) (Amendment) Regulations 2010 (revoked)[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 1st January 2011
 
-[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]
+## 1. Citation and commencement[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2009[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]
+## 2. Amendment of the Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2009[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Regulation 6[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]
+## 3. Amendment of Regulation 6[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Regulation 10[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]
+## 4. Amendment of Regulation 10[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de7e46bcd58ee0bc7a9aef5f441d2bf6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2761) revoked (25.3.2015) by [The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015 (S.I. 2015/591)](https://www.legislation.gov.uk/uksi/2015/591), [regs. 1](https://www.legislation.gov.uk/uksi/2015/591/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/591/regulation/2)
+[^c-de7e46bcd58ee0bc7a9aef5f441d2bf6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2761) revoked (25.3.2015) by [The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015 (S.I. 2015/591)](https://www.legislation.gov.uk/uksi/2015/591), [regs. 1](https://www.legislation.gov.uk/uksi/2015/591/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/591/regulation/2)

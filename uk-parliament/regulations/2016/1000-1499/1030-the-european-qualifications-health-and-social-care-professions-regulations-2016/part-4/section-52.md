@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Amendment of Schedule 2[^key-898e07fe39936da3529f88fa5913c1fd]
+## 52. Amendment of Schedule 2[^c-898e07fe39936da3529f88fa5913c1fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-898e07fe39936da3529f88fa5913c1fd]: Commencement: Reg. 52 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-898e07fe39936da3529f88fa5913c1fd]: Commencement: Reg. 52 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00036]: Footnote: Paragraph 1 was substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 

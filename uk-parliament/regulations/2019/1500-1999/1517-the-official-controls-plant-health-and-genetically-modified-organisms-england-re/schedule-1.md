@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Temporary national measures[^key-e30a9a502b408f95643c77de15f657c2]
+## SCHEDULE 1 — Temporary national measures[^c-e30a9a502b408f95643c77de15f657c2]
 
 *Extent: E+W*
 
@@ -116,4 +116,4 @@ Regulation 18
 
 ## Annotations
 
-[^key-e30a9a502b408f95643c77de15f657c2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1517/schedule/1) omitted (31.12.2020 except for specified purposes and 1.1.2021 otherwise) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [15](https://www.legislation.gov.uk/uksi/2020/1482/regulation/15) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/8/2))
+[^c-e30a9a502b408f95643c77de15f657c2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1517/schedule/1) omitted (31.12.2020 except for specified purposes and 1.1.2021 otherwise) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [15](https://www.legislation.gov.uk/uksi/2020/1482/regulation/15) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/8/2))

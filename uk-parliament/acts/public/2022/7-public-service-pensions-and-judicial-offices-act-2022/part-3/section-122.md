@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Allowances for judicial office holders[^key-473d64de8cfadc9792ac2ac545bc8cc9][^key-1c50377c525927fd4ad5249f8add2bd8]
+## 122. Allowances for judicial office holders[^c-473d64de8cfadc9792ac2ac545bc8cc9][^c-1c50377c525927fd4ad5249f8add2bd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 makes provision in respect of allowances payable to certain judicial 
 
 ## Annotations
 
-[^key-473d64de8cfadc9792ac2ac545bc8cc9]: Commencement: S. 122 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-473d64de8cfadc9792ac2ac545bc8cc9]: Commencement: S. 122 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-1c50377c525927fd4ad5249f8add2bd8]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/7/section/122) in force at 10.5.2022 in so far as not already in force, see [s. 131(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii)
+[^c-1c50377c525927fd4ad5249f8add2bd8]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/7/section/122) in force at 10.5.2022 in so far as not already in force, see [s. 131(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii)

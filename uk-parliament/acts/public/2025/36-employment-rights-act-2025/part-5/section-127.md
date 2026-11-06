@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Further provision about LME orders[^key-912de50a44a259494eccb2a893b7da81][^key-107f52d29c9bc7f31844b2091929bc34]
+## 127. Further provision about LME orders[^c-912de50a44a259494eccb2a893b7da81][^c-107f52d29c9bc7f31844b2091929bc34]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-912de50a44a259494eccb2a893b7da81]: Commencement: S. 127 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-912de50a44a259494eccb2a893b7da81]: Commencement: S. 127 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-107f52d29c9bc7f31844b2091929bc34]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2025/36/section/127) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(28)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/28)
+[^c-107f52d29c9bc7f31844b2091929bc34]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2025/36/section/127) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(28)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/28)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40B. Professionals in practice: incidental income from an office or employment[^key-43a8085e3d36184b39c39ce5ac3055c3]
+## 40B. Professionals in practice: incidental income from an office or employment[^c-43a8085e3d36184b39c39ce5ac3055c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43a8085e3d36184b39c39ce5ac3055c3]: Textual amendment: Ss. 40A, 40B inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/282/article/6/2)
+[^c-43a8085e3d36184b39c39ce5ac3055c3]: Textual amendment: Ss. 40A, 40B inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/282/article/6/2)

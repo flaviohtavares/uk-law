@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-Local Government (Payments to Councillors) Regulations (Northern Ireland) 1999 (revoked)[^key-d069df2c9b04105eab94d051d77a2d38]
+Local Government (Payments to Councillors) Regulations (Northern Ireland) 1999 (revoked)[^c-d069df2c9b04105eab94d051d77a2d38]
 
 Made
 
@@ -41,54 +41,54 @@ Coming into operation
 
 5th January 2000
 
-[^key-d069df2c9b04105eab94d051d77a2d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d069df2c9b04105eab94d051d77a2d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d069df2c9b04105eab94d051d77a2d38]
+## 1. Citation and commencement[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d069df2c9b04105eab94d051d77a2d38]
+## 2. Interpretation[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Basic Allowance[^key-d069df2c9b04105eab94d051d77a2d38]
+## 3. Basic Allowance[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Attendance Allowance[^key-d069df2c9b04105eab94d051d77a2d38]
+## 4. Attendance Allowance[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Special Responsibility Allowance[^key-d069df2c9b04105eab94d051d77a2d38]
+## 5. Special Responsibility Allowance[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Claims for Allowances[^key-d069df2c9b04105eab94d051d77a2d38]
+## 6. Claims for Allowances[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Time for submission of claims[^key-d069df2c9b04105eab94d051d77a2d38]
+## 7. Time for submission of claims[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Records[^key-d069df2c9b04105eab94d051d77a2d38]
+## 8. Records[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation[^key-d069df2c9b04105eab94d051d77a2d38]
+## 9. Revocation[^c-d069df2c9b04105eab94d051d77a2d38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d069df2c9b04105eab94d051d77a2d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d069df2c9b04105eab94d051d77a2d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d069df2c9b04105eab94d051d77a2d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d069df2c9b04105eab94d051d77a2d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d069df2c9b04105eab94d051d77a2d38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/449) repealed (1.4.2012) by [Local Government (Payments to Councillors) Regulations (Northern Ireland) 2012 (S.R. 2012/85)](https://www.legislation.gov.uk/nisr/2012/85), [reg. 1](https://www.legislation.gov.uk/nisr/2012/85/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/85/schedule/3)
+[^c-d069df2c9b04105eab94d051d77a2d38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/449) repealed (1.4.2012) by [Local Government (Payments to Councillors) Regulations (Northern Ireland) 2012 (S.R. 2012/85)](https://www.legislation.gov.uk/nisr/2012/85), [reg. 1](https://www.legislation.gov.uk/nisr/2012/85/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/85/schedule/3)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this SR made prior to its final revocation. A revised version of how the SR stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Obstruction of persons[^key-940014f977d2a58a6d8aaf4aae24b1c4]
+## 153. Obstruction of persons[^c-940014f977d2a58a6d8aaf4aae24b1c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not intentionally obstruct or impede a person who is exercising a 
 
 ## Annotations
 
-[^key-940014f977d2a58a6d8aaf4aae24b1c4]: Commencement: [Art. 153](https://www.legislation.gov.uk/uksi/2015/870/article/153) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-940014f977d2a58a6d8aaf4aae24b1c4]: Commencement: [Art. 153](https://www.legislation.gov.uk/uksi/2015/870/article/153) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

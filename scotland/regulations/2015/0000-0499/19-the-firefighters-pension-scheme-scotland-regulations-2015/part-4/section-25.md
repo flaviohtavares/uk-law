@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Calculation of “retirement PIA index adjustment”[^key-cefbb39e6bfd495d67cb30b188865528]
+## 25. Calculation of “retirement PIA index adjustment”[^c-cefbb39e6bfd495d67cb30b188865528]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cefbb39e6bfd495d67cb30b188865528]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/19/regulation/25) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-cefbb39e6bfd495d67cb30b188865528]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/19/regulation/25) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

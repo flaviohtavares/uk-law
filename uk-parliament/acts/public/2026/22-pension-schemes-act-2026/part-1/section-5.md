@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Scheme manager governance reviews[^key-070f35b3a5482c45d33369c875222a79]
+## 5. Scheme manager governance reviews[^c-070f35b3a5482c45d33369c875222a79]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-070f35b3a5482c45d33369c875222a79]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-070f35b3a5482c45d33369c875222a79]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

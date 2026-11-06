@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Status.[^key-e102c9c4b77ad650f751abdac3cfc0c4]
+## 24. Status.[^c-e102c9c4b77ad650f751abdac3cfc0c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e102c9c4b77ad650f751abdac3cfc0c4]: Textual amendment: S. 24 and cross-heading omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 85(3)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/85/3/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e102c9c4b77ad650f751abdac3cfc0c4]: Textual amendment: S. 24 and cross-heading omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 85(3)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/85/3/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

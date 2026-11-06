@@ -61,7 +61,7 @@ Accordingly, His Majesty, by and with the advice of His Privy Council, makes the
 
 ## Part 1 — Preliminary matters
 
-### 1. Citation, commencement and extent[^key-c6e3b5af647db60e6599d101b7452c5c]
+### 1. Citation, commencement and extent[^c-c6e3b5af647db60e6599d101b7452c5c]
 
 (1) This Order may be cited as the Vehicle Emissions Trading Schemes (Amendment) Order 2024.
 
@@ -71,13 +71,13 @@ Accordingly, His Majesty, by and with the advice of His Privy Council, makes the
 
 (4) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendment of the Vehicle Emissions Trading Schemes Order 2023[^key-4d45f1bf9e061d4e548c5ad96e674ba3]
+### 2. Amendment of the Vehicle Emissions Trading Schemes Order 2023[^c-4d45f1bf9e061d4e548c5ad96e674ba3]
 
 The Vehicle Emissions Trading Schemes Order 2023[^f00002] is amended in accordance with this Order.
 
 ## Part 2 — Miscellaneous amendments to the Vehicle Emissions Trading Schemes Order 2023
 
-### 3. Amendment to article 3 (interpretation)[^key-456ba49306002854cb3cf4b35a0cd48c]
+### 3. Amendment to article 3 (interpretation)[^c-456ba49306002854cb3cf4b35a0cd48c]
 
 (1) In article 3(1)—
 
@@ -104,7 +104,7 @@ The Vehicle Emissions Trading Schemes Order 2023[^f00002] is amended in accordan
 
 .
 
-### 4. Amendment to article 19 (CRTS credits: registration of ZE SPVs (CRTS participants))[^key-9a1e53cd4b4df20653c44e1012210bdc]
+### 4. Amendment to article 19 (CRTS credits: registration of ZE SPVs (CRTS participants))[^c-9a1e53cd4b4df20653c44e1012210bdc]
 
 In article 19—
 
@@ -112,7 +112,7 @@ In article 19—
 - (b) in paragraph (2), for “Subject to paragraph (3), a” substitute “A”;
 - (c) omit paragraph (3).
 
-### 5. Amendment to article 23 (CRTS credits: conversion of unused CCTS allowances)[^key-7b7f389fdb4c807d9d93c05692f977eb]
+### 5. Amendment to article 23 (CRTS credits: conversion of unused CCTS allowances)[^c-7b7f389fdb4c807d9d93c05692f977eb]
 
 In article 23—
 
@@ -120,14 +120,14 @@ In article 23—
 - (b) in paragraph (4), for “number of CRTS allowances allocated to the CRTS participant for that scheme year” substitute “total number of cars of which the CRTS participant is the manufacturer and which were registered during that scheme year”;
 - (c) in paragraph (5), for “number of CRTS allowances allocated to the CRTS participant for that scheme year” substitute “total number of cars of which the CRTS participant is the manufacturer and which were registered during that scheme year”.
 
-### 6. Amendment to article 51 (VRTS credits: registration of ZE SPVs (VRTS participants))[^key-7e0008fca7671d267b0d5dbb2bfc5386]
+### 6. Amendment to article 51 (VRTS credits: registration of ZE SPVs (VRTS participants))[^c-7e0008fca7671d267b0d5dbb2bfc5386]
 
 In article 51—
 
 - (a) in paragraph (1), for “Subject to paragraph (2), a” substitute “A”;
 - (b) omit paragraph (2).
 
-### 7. Amendment to article 55 (VRTS credits: conversion of unused VCTS allowances)[^key-9747d504f4a0fd372390149de94d976f]
+### 7. Amendment to article 55 (VRTS credits: conversion of unused VCTS allowances)[^c-9747d504f4a0fd372390149de94d976f]
 
 In article 55—
 
@@ -135,22 +135,22 @@ In article 55—
 - (b) in paragraph (4), for “number of VRTS allowances allocated to the VRTS participant for that scheme year” substitute “total number of vans of which the VRTS participant is the manufacturer and which were registered during that scheme year”;
 - (c) in paragraph (5), for “number of VRTS allowances allocated to the VRTS participant for that scheme year” substitute “total number of vans of which the VRTS participant is the manufacturer and which were registered during that scheme year”.
 
-### 8. Amendment to article 73 (information: participants in the Trading Schemes)[^key-438ae408a90c1c897d10d776538c78c2]
+### 8. Amendment to article 73 (information: participants in the Trading Schemes)[^c-438ae408a90c1c897d10d776538c78c2]
 
 In article 73(2), after “Schedule 7” insert “, except for the information in paragraphs 1(s), 6(r) and 6(s) of that Schedule”.
 
-### 9. Amendment to article 77 (preparation of provisional information)[^key-389e939022a89ba77ec8400e51bbf8eb]
+### 9. Amendment to article 77 (preparation of provisional information)[^c-389e939022a89ba77ec8400e51bbf8eb]
 
 In article 77—
 
 - (a) in paragraph (1)(l), after “banked CRTS allowances” insert “, within the meaning of article 9(b)”;
 - (b) in paragraph (1)(m), after “banked VRTS allowances” insert “, within the meaning of article 41(b)”.
 
-### 10. Amendment to article 94 (financial penalties: general)[^key-791073f9ffc7f63cb59da542f20c6418]
+### 10. Amendment to article 94 (financial penalties: general)[^c-791073f9ffc7f63cb59da542f20c6418]
 
 In article 94(6), after “Wales, to” insert “be”.
 
-### 11. Amendment to article 105 (provision of false or misleading information: participants in the Trading Schemes)[^key-27fc7cd0693a8253dadf2aa2826d3001]
+### 11. Amendment to article 105 (provision of false or misleading information: participants in the Trading Schemes)[^c-27fc7cd0693a8253dadf2aa2826d3001]
 
 After article 105(10) insert—
 
@@ -164,7 +164,7 @@ After article 105(10) insert—
 
 .
 
-### 12. Amendment to Schedule 3 (determination of the specific emissions of CO<sub>2</sub> of completed vans)[^key-0f97250ef3f34fcf4a3fb66bf0ce8f92]
+### 12. Amendment to Schedule 3 (determination of the specific emissions of CO<sub>2</sub> of completed vans)[^c-0f97250ef3f34fcf4a3fb66bf0ce8f92]
 
 In Schedule 3—
 
@@ -172,7 +172,7 @@ In Schedule 3—
 - (b) in paragraph 11(b), for “1.375” substitute “1.387”;
 - (c) in paragraph 12(c), for “1.375” substitute “1.387”.
 
-### 13. Amendment to Schedule 4 (low-volume CRTS participants and low-volume VRTS participants)[^key-988846e096df0a4e1a57c41088078bba]
+### 13. Amendment to Schedule 4 (low-volume CRTS participants and low-volume VRTS participants)[^c-988846e096df0a4e1a57c41088078bba]
 
 (1) In paragraph 9(d) of Schedule 4 for “and” substitute “or”.
 
@@ -182,13 +182,13 @@ In Schedule 3—
 
 .
 
-### 14. Amendment to Schedule 7 (information provisions)[^key-1b298595241959e70251ce5d577fea0d]
+### 14. Amendment to Schedule 7 (information provisions)[^c-1b298595241959e70251ce5d577fea0d]
 
 In paragraph 12(f) of Schedule 7, for “1.375” substitute “1.387”.
 
 ## Part 3 — Extension of the Vehicle Emissions Trading Schemes Order 2023 to Northern Ireland
 
-### 15. Amendment to article 2 (extent)[^key-43fd8723c4fc08c31c484ef1a1e9fdc1]
+### 15. Amendment to article 2 (extent)[^c-43fd8723c4fc08c31c484ef1a1e9fdc1]
 
 (1) In article 2(1), after “and Scotland, subject to paragraph (2)” insert “and paragraph (3)”.
 
@@ -198,13 +198,13 @@ In paragraph 12(f) of Schedule 7, for “1.375” substitute “1.387”.
 
 .
 
-### 16. Amendment to article 3 (interpretation)[^key-f37a59c92233161778a4f3b6e17e1a23]
+### 16. Amendment to article 3 (interpretation)[^c-f37a59c92233161778a4f3b6e17e1a23]
 
 (1) In article 3(2), for “Great Britain” substitute “the United Kingdom”.
 
 (2) In article 3(3), in both places it occurs, for “Great Britain” substitute “the United Kingdom”.
 
-### 17. Amendment to article 90 (warrant)[^key-e9e286b6d7e90a316775da995bd5005f]
+### 17. Amendment to article 90 (warrant)[^c-e9e286b6d7e90a316775da995bd5005f]
 
 (1) In article 90(4)(b), for “.” substitute “;”.
 
@@ -214,7 +214,7 @@ In paragraph 12(f) of Schedule 7, for “1.375” substitute “1.387”.
 
 .
 
-### 18. Amendment to article 94 (financial penalties: general)[^key-e2c65e76dfd3fedfd9470eea6984a408]
+### 18. Amendment to article 94 (financial penalties: general)[^c-e2c65e76dfd3fedfd9470eea6984a408]
 
 (1) After article 94(5), insert—
 
@@ -230,7 +230,7 @@ In paragraph 12(f) of Schedule 7, for “1.375” substitute “1.387”.
 
 ## Part 4 — Revocation, amendment and saving of assimilated direct regulations relating to CO<sub>2</sub> emission limits
 
-### 19. Interpretation of Part 4[^key-0f57d53f824a06f9eadf878f877c1d7b]
+### 19. Interpretation of Part 4[^c-0f57d53f824a06f9eadf878f877c1d7b]
 
 In this Part—
 
@@ -242,15 +242,15 @@ In this Part—
 - “**[Regulation (EU) 427/2014](https://www.legislation.gov.uk/european/regulation/2014/0427)**” means Commission Implementing [Regulation (EU) No 427/2014](https://www.legislation.gov.uk/european/regulation/2014/0427) of 25 April 2014 establishing a procedure for the approval and certification of innovative technologies for reducing CO2 emissions from light commercial vehicles pursuant to [Regulation (EU) No 510/2011](https://www.legislation.gov.uk/european/regulation/2011/0510) of the European Parliament and of the Council[^f00012];
 - “**[Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631)**” means [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631) of the European Parliament and of the Council of 17 April 2019 setting CO<sub>2 </sub>emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations [(EC) No 443/2009](https://www.legislation.gov.uk/european/regulation/2009/0443) and (EU) No 510/2011[^f00013].
 
-### 20. Revocation of [Regulation (EU) 1014/2010](https://www.legislation.gov.uk/european/regulation/2010/1014) and [Regulation (EU) 293/2012](https://www.legislation.gov.uk/european/regulation/2012/0293) (monitoring and reporting of data on vehicle registration)[^key-1be592ba2a50c8f3cd32c4c28563ce06]
+### 20. Revocation of [Regulation (EU) 1014/2010](https://www.legislation.gov.uk/european/regulation/2010/1014) and [Regulation (EU) 293/2012](https://www.legislation.gov.uk/european/regulation/2012/0293) (monitoring and reporting of data on vehicle registration)[^c-1be592ba2a50c8f3cd32c4c28563ce06]
 
 [Regulation (EU) 1014/2010](https://www.legislation.gov.uk/european/regulation/2010/1014) and [Regulation (EU) 293/2012](https://www.legislation.gov.uk/european/regulation/2012/0293) are revoked in relation to Northern Ireland, subject to the savings in article 25.
 
-### 21. Revocation of [Regulation (EU) 63/2011](https://www.legislation.gov.uk/european/regulation/2011/0063) and [Regulation (EU) 114/2013](https://www.legislation.gov.uk/european/regulation/2013/0114) (derogations)[^key-f9f11bb283c3a86b898db6d91f633e3e]
+### 21. Revocation of [Regulation (EU) 63/2011](https://www.legislation.gov.uk/european/regulation/2011/0063) and [Regulation (EU) 114/2013](https://www.legislation.gov.uk/european/regulation/2013/0114) (derogations)[^c-f9f11bb283c3a86b898db6d91f633e3e]
 
 [Regulation (EU) 63/2011](https://www.legislation.gov.uk/european/regulation/2011/0063) and [Regulation (EU) 114/2013](https://www.legislation.gov.uk/european/regulation/2013/0114) are revoked in relation to Northern Ireland.
 
-### 22. Amendment of [Regulation (EU) 725/2011](https://www.legislation.gov.uk/european/regulation/2011/0725) (eco-innovation for passenger cars)[^key-5ae97105d9d9a35618961021e6b83d69]
+### 22. Amendment of [Regulation (EU) 725/2011](https://www.legislation.gov.uk/european/regulation/2011/0725) (eco-innovation for passenger cars)[^c-5ae97105d9d9a35618961021e6b83d69]
 
 (1) [Regulation (EU) 725/2011](https://www.legislation.gov.uk/european/regulation/2011/0725) is amended as follows.
 
@@ -261,7 +261,7 @@ In this Part—
 
 (3) In article 12(3), omit “under point (a) of paragraph 2, or in relation to whom a notice is given under point (b) of that paragraph,”.
 
-### 23. Amendment of [Regulation (EU) 427/2014](https://www.legislation.gov.uk/european/regulation/2014/0427) (eco-innovations for light commercial vehicles)[^key-14c41b07b36502d54f22c8a60dd8805d]
+### 23. Amendment of [Regulation (EU) 427/2014](https://www.legislation.gov.uk/european/regulation/2014/0427) (eco-innovations for light commercial vehicles)[^c-14c41b07b36502d54f22c8a60dd8805d]
 
 (1) [Regulation (EU) 427/2014](https://www.legislation.gov.uk/european/regulation/2014/0427) is amended as follows.
 
@@ -272,7 +272,7 @@ In this Part—
 
 (3) In article 12(3), omit “under point (a) of paragraph 2, or in relation to whom a notice is given under point (b) of that paragraph,”.
 
-### 24. Partial revocation and amendment of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631)[^key-ca0174a6a870118d9ab75c27bf5e8845]
+### 24. Partial revocation and amendment of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631)[^c-ca0174a6a870118d9ab75c27bf5e8845]
 
 (1) Articles 2(4), 4, 5, 6, 7, 7a, 8, 9, 10 and 14 of, and Annexes 1 to 5 to, [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631) are revoked in relation to Northern Ireland, subject to the savings in article 25.
 
@@ -280,15 +280,15 @@ In this Part—
 
 (3) In article 2(1), after “12, 13,” omit “15”.
 
-### 25. Savings for monitoring and compliance in relation to Northern Ireland[^key-9f722c2c15add4ee41aa811b695e1dd0]
+### 25. Savings for monitoring and compliance in relation to Northern Ireland[^c-9f722c2c15add4ee41aa811b695e1dd0]
 
 (1) In this article—
 
-- “[^key-3da59f762b6b75ef7d8875b96a851c54]**EU target**” means a manufacturer’s specific emissions target calculated using vehicles of the manufacturer first registered in the European Union in the calculations in points 1 to 3 of Part A or B of Annex I to [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631) in accordance with article 25(4);
+- “[^c-3da59f762b6b75ef7d8875b96a851c54]**EU target**” means a manufacturer’s specific emissions target calculated using vehicles of the manufacturer first registered in the European Union in the calculations in points 1 to 3 of Part A or B of Annex I to [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631) in accordance with article 25(4);
 - “**old scheme year**” means a calendar year occurring during the period beginning with 1st January 2021 and ending with 31st December 2024;
 - “**revocations**” means the revocations effected by articles 20 and 24;
 - “**specific emissions obligation**” means the duty imposed on a manufacturer by Article 4 of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631).
-- “[^key-7e7283a1800409522b64456819596926]**UK target**” means a manufacturer’s specific emissions target calculated using vehicles of the manufacturer first registered in the United Kingdom in the calculations in points 1 to 3 of Part A or B of Annex I to [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631) in accordance with article 25(4);
+- “[^c-7e7283a1800409522b64456819596926]**UK target**” means a manufacturer’s specific emissions target calculated using vehicles of the manufacturer first registered in the United Kingdom in the calculations in points 1 to 3 of Part A or B of Annex I to [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631) in accordance with article 25(4);
 
 (2) The revocations do not affect—
 
@@ -299,7 +299,7 @@ In this Part—
 
 (3) Any power mentioned in sub-paragraph (b) of paragraph (2) may, and any duty mentioned in that sub-paragraph must, be exercised on and after the date on which this Part comes into force as if the revocations had not been effected.
 
-(4)[^key-3a84adb391eca431084164398ccc59ef] For the purposes of paragraphs (2) and (3), when calculating the specific emissions target in Annex I of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631)—
+(4)[^c-3a84adb391eca431084164398ccc59ef] For the purposes of paragraphs (2) and (3), when calculating the specific emissions target in Annex I of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631)—
 
 - (a) in points 1 and 2 of Part A, any reference to “new passenger car” must be read as if it means “motor vehicle of category M1 as defined in Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858), as it has effect in domestic law (in respect of vehicles with GB type-approval) or, where relevant, Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858) as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol (in respect of vehicles with UK (NI) type-approval or EU type-approval), which is registered in the United Kingdom or European Union for the first time and which has not previously been registered outside the United Kingdom or European Union”;
 - (b) in point 3 of Part A, any reference to “average specific emissions of CO₂”must be read as if it means “in relation to a manufacturer, the average specific CO₂ emissions of passenger cars of category M1 as defined in Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858), as it has effect in domestic law (in respect of vehicles with GB type-approval) or, where relevant, Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858) as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol (in respect of vehicles with UK (NI) type-approval or EU type-approval), which are registered in the United Kingdom or European Union for the first time and which have not previously been registered outside the United Kingdom or European Union, of which it is the manufacturer”;
@@ -348,13 +348,13 @@ An impact assessment (in the form of a cost benefit analysis) of the effect that
 
 [^f00001]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27).
 
-[^key-c6e3b5af647db60e6599d101b7452c5c]: Commencement: Reg. 1 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-c6e3b5af647db60e6599d101b7452c5c]: Commencement: Reg. 1 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-4d45f1bf9e061d4e548c5ad96e674ba3]: Commencement: Reg. 2 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-4d45f1bf9e061d4e548c5ad96e674ba3]: Commencement: Reg. 2 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2023/1394](https://www.legislation.gov.uk/uksi/2023/1394).
 
-[^key-456ba49306002854cb3cf4b35a0cd48c]: Commencement: Reg. 3 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-456ba49306002854cb3cf4b35a0cd48c]: Commencement: Reg. 3 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
 [^f00003]: Footnote: Commission [Regulation (EU) 2017/1151](https://www.legislation.gov.uk/european/regulation/2017/1151) of 1 June 2017 supplementing Regulation [(EC) No 715/2007](https://www.legislation.gov.uk/european/regulation/2007/0715) of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending [Directive 2007/46/EC](https://www.legislation.gov.uk/european/directive/2007/0046) of the European Parliament and of the Council, [Commission Regulation (EC) No 692/2008](https://www.legislation.gov.uk/european/regulation/2008/0692) and [Commission Regulation (EU) No 1230/2012](https://www.legislation.gov.uk/european/regulation/2012/1230) and repealing [Commission Regulation (EC) No 692/2008](https://www.legislation.gov.uk/european/regulation/2008/0692), as that Regulation has effect in domestic law (EUR 2017/1151, amended by [S.I. 2022/1273](https://www.legislation.gov.uk/uksi/2022/1273)), or, as the case may be, as it has effect in EU law from time to time and by virtue of the Windsor Framework (OJ No. L 175, 07.07.2017, p.1; amended by Commission [Regulation (EU) 2017/1154](https://www.legislation.gov.uk/european/regulation/2017/1154), 2017/1347 and 2018/1832).
 
@@ -362,39 +362,39 @@ An impact assessment (in the form of a cost benefit analysis) of the effect that
 
 [^f00005]: Footnote: OJ L 423, 26.11.2021, p. 1.
 
-[^key-9a1e53cd4b4df20653c44e1012210bdc]: Commencement: Reg. 4 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-9a1e53cd4b4df20653c44e1012210bdc]: Commencement: Reg. 4 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-7b7f389fdb4c807d9d93c05692f977eb]: Commencement: Reg. 5 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-7b7f389fdb4c807d9d93c05692f977eb]: Commencement: Reg. 5 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-7e0008fca7671d267b0d5dbb2bfc5386]: Commencement: Reg. 6 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-7e0008fca7671d267b0d5dbb2bfc5386]: Commencement: Reg. 6 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-9747d504f4a0fd372390149de94d976f]: Commencement: Reg. 7 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-9747d504f4a0fd372390149de94d976f]: Commencement: Reg. 7 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-438ae408a90c1c897d10d776538c78c2]: Commencement: Reg. 8 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-438ae408a90c1c897d10d776538c78c2]: Commencement: Reg. 8 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-389e939022a89ba77ec8400e51bbf8eb]: Commencement: Reg. 9 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-389e939022a89ba77ec8400e51bbf8eb]: Commencement: Reg. 9 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-791073f9ffc7f63cb59da542f20c6418]: Commencement: Reg. 10 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-791073f9ffc7f63cb59da542f20c6418]: Commencement: Reg. 10 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-27fc7cd0693a8253dadf2aa2826d3001]: Commencement: Reg. 11 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-27fc7cd0693a8253dadf2aa2826d3001]: Commencement: Reg. 11 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-0f97250ef3f34fcf4a3fb66bf0ce8f92]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/1130/regulation/12) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-0f97250ef3f34fcf4a3fb66bf0ce8f92]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/1130/regulation/12) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-988846e096df0a4e1a57c41088078bba]: Commencement: Reg. 13 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
+[^c-988846e096df0a4e1a57c41088078bba]: Commencement: Reg. 13 in force at 27.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/2)
 
-[^key-1b298595241959e70251ce5d577fea0d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/1130/regulation/14) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-1b298595241959e70251ce5d577fea0d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/1130/regulation/14) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-43fd8723c4fc08c31c484ef1a1e9fdc1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/1130/regulation/15) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-43fd8723c4fc08c31c484ef1a1e9fdc1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/1130/regulation/15) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-f37a59c92233161778a4f3b6e17e1a23]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/1130/regulation/16) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-f37a59c92233161778a4f3b6e17e1a23]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/1130/regulation/16) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-e9e286b6d7e90a316775da995bd5005f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/1130/regulation/17) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-e9e286b6d7e90a316775da995bd5005f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/1130/regulation/17) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-e2c65e76dfd3fedfd9470eea6984a408]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/1130/regulation/18) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-e2c65e76dfd3fedfd9470eea6984a408]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/1130/regulation/18) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
 [^f00006]: Footnote: [S.R. 1981 No. 226](https://www.legislation.gov.uk/nisr/1981/226).
 
-[^key-0f57d53f824a06f9eadf878f877c1d7b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/1130/regulation/19) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-0f57d53f824a06f9eadf878f877c1d7b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/1130/regulation/19) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
 [^f00007]: Footnote: EUR 2010/1014, amended by [S.I. 2019/550](https://www.legislation.gov.uk/uksi/2019/550), [2021/1242](https://www.legislation.gov.uk/uksi/2021/1242), [2022/1361](https://www.legislation.gov.uk/uksi/2022/1361) and [2023/1394](https://www.legislation.gov.uk/uksi/2023/1394).
 
@@ -410,20 +410,20 @@ An impact assessment (in the form of a cost benefit analysis) of the effect that
 
 [^f00013]: Footnote: EUR 2019/631, amended by [S.I. 2020/1418](https://www.legislation.gov.uk/uksi/2020/1418), [2021/898](https://www.legislation.gov.uk/uksi/2021/898), [2021/1242](https://www.legislation.gov.uk/uksi/2021/1242), [2022/1361](https://www.legislation.gov.uk/uksi/2022/1361) and [2023/1394](https://www.legislation.gov.uk/uksi/2023/1394).
 
-[^key-1be592ba2a50c8f3cd32c4c28563ce06]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/1130/regulation/20) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-1be592ba2a50c8f3cd32c4c28563ce06]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/1130/regulation/20) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-f9f11bb283c3a86b898db6d91f633e3e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/1130/regulation/21) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-f9f11bb283c3a86b898db6d91f633e3e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/1130/regulation/21) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-5ae97105d9d9a35618961021e6b83d69]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/1130/regulation/22) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-5ae97105d9d9a35618961021e6b83d69]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/1130/regulation/22) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-14c41b07b36502d54f22c8a60dd8805d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/1130/regulation/23) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-14c41b07b36502d54f22c8a60dd8805d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/1130/regulation/23) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-ca0174a6a870118d9ab75c27bf5e8845]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-ca0174a6a870118d9ab75c27bf5e8845]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-9f722c2c15add4ee41aa811b695e1dd0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/1130/regulation/25) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
+[^c-9f722c2c15add4ee41aa811b695e1dd0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/1130/regulation/25) in force at 1.1.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/1/3)
 
-[^key-3da59f762b6b75ef7d8875b96a851c54]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2024/1130/article/25/1) inserted (2.10.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2025 (S.I. 2025/678)](https://www.legislation.gov.uk/uksi/2025/678), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/678/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/678/article/3/2/a)
+[^c-3da59f762b6b75ef7d8875b96a851c54]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2024/1130/article/25/1) inserted (2.10.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2025 (S.I. 2025/678)](https://www.legislation.gov.uk/uksi/2025/678), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/678/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/678/article/3/2/a)
 
-[^key-7e7283a1800409522b64456819596926]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2024/1130/article/25/1) inserted (2.10.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2025 (S.I. 2025/678)](https://www.legislation.gov.uk/uksi/2025/678), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/678/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/678/article/3/2/b)
+[^c-7e7283a1800409522b64456819596926]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2024/1130/article/25/1) inserted (2.10.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2025 (S.I. 2025/678)](https://www.legislation.gov.uk/uksi/2025/678), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/678/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/678/article/3/2/b)
 
-[^key-3a84adb391eca431084164398ccc59ef]: Textual amendment: [Art. 25(4)-(6)](https://www.legislation.gov.uk/uksi/2024/1130/article/25/4) inserted (2.10.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2025 (S.I. 2025/678)](https://www.legislation.gov.uk/uksi/2025/678), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/678/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/678/article/3/3)
+[^c-3a84adb391eca431084164398ccc59ef]: Textual amendment: [Art. 25(4)-(6)](https://www.legislation.gov.uk/uksi/2024/1130/article/25/4) inserted (2.10.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2025 (S.I. 2025/678)](https://www.legislation.gov.uk/uksi/2025/678), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/678/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/678/article/3/3)

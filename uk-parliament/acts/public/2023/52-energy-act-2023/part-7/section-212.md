@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Levy to fund electricity support payments[^key-8a3a040fa1d97d83651f08b1f46c5834]
+## 212. Levy to fund electricity support payments[^c-8a3a040fa1d97d83651f08b1f46c5834]
 
 *Extent: E+W+S*
 
@@ -84,4 +84,4 @@ to be recoverable from the person as a civil debt due to the Secretary of State 
 
 ## Annotations
 
-[^key-8a3a040fa1d97d83651f08b1f46c5834]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2023/52/section/212) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-8a3a040fa1d97d83651f08b1f46c5834]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2023/52/section/212) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)

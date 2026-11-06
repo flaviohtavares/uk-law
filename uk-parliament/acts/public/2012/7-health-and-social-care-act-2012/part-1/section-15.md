@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to require Board to commission certain health services[^key-52753486ec61a9488891ff76efe59c72][^c2191272]
+## 15. Power to require Board to commission certain health services[^c-52753486ec61a9488891ff76efe59c72][^c2191272]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ After section 3A of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-52753486ec61a9488891ff76efe59c72]: Commencement: S. 15 in force at 1.2.2013 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-52753486ec61a9488891ff76efe59c72]: Commencement: S. 15 in force at 1.2.2013 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
 [^c2191272]: Commencement: S. 15 partly in force: s. 15 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

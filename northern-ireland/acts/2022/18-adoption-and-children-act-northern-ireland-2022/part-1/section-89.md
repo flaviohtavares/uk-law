@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Imposition of extra conditions in certain cases[^key-08139edc757480d34123d7760a1632cc]
+## 89. Imposition of extra conditions in certain cases[^c-08139edc757480d34123d7760a1632cc]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08139edc757480d34123d7760a1632cc]: Commencement: S. 89 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-08139edc757480d34123d7760a1632cc]: Commencement: S. 89 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Supplementary powers[^key-5382c63d9681977c1c8e6a38bc2e3841]
+## 143. Supplementary powers[^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The liquidator may apply to the High Court (in the prescribed manner) for directions in relation to any particular matter arising in the winding up.
 
-(4)[^key-48489dd52baaccaf092cecc71a246f9b] Subject to the provisions of this Order, the liquidator shall use his own discretion in the management of the assets and their distribution among the creditors.
+(4)[^c-48489dd52baaccaf092cecc71a246f9b] Subject to the provisions of this Order, the liquidator shall use his own discretion in the management of the assets and their distribution among the creditors.
 
 (5) If any person is aggrieved by any act or decision of the liquidator, that person may apply to the High Court; and the Court may confirm, reverse or modify the act or decision complained of, and make such order as it thinks just.
 
@@ -38,9 +38,9 @@ summary: ''
 
 ## Annotations
 
-[^key-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-48489dd52baaccaf092cecc71a246f9b]: Modification: [Art. 143(4)](https://www.legislation.gov.uk/nisi/1989/2405/article/143/4) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-48489dd52baaccaf092cecc71a246f9b]: Modification: [Art. 143(4)](https://www.legislation.gov.uk/nisi/1989/2405/article/143/4) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c17599031]: Textual amendment: SR 1995/225
 

@@ -46,7 +46,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 every sum issued in pursuance of the Act shall be applied towards the service of that year.
 
-(2)[^key-e271919d2d1c56877b40e4ba12e94d4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e271919d2d1c56877b40e4ba12e94d4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Appropriation in aid.[^c271431]
 
@@ -69,7 +69,7 @@ every sum issued in pursuance of the Act shall be applied towards the service of
 - (a) retained and applied as a use of resources authorised by Appropriation Act for the service of the year in which the money is received, or
 - (b) paid into the Consolidated Fund.
 
-(6)[^key-e5f5b8556d8fe55680d70b3f4a029ce9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e5f5b8556d8fe55680d70b3f4a029ce9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Government funds and accounts
 
@@ -87,7 +87,7 @@ every sum issued in pursuance of the Act shall be applied towards the service of
 
 (3) A request or order under section 20 of the Exchequer and Audit Departments Act 1866 (government stock and annuities) may be produced, authenticated and transmitted in any manner which the Treasury decide to adopt.
 
-(4)[^key-d8ed0da03db0fefec0ec9087b8b666f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d8ed0da03db0fefec0ec9087b8b666f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Payments in by error.
 
@@ -113,7 +113,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 - (a) the daily account under section 15(5) of the [^c271436]Exchequer and Audit Departments Act 1866 (Consolidated Fund), or
 - (b) the daily statement under section 1(2) of the [^c271437]National Loans Act 1968 (National Loans Fund).
 
-## Departmental estimates[^key-32f4bff1f93f9f59d22c96c79910ae63]
+## Departmental estimates[^c-32f4bff1f93f9f59d22c96c79910ae63]
 
 ### 4A. Inclusion in departmental estimates of resources used by designated bodies
 
@@ -167,7 +167,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 (1)[^c271438][^c446948] A government department for which an estimate is approved by the House of Commons in respect of a financial year shall prepare accounts (to be known as resource accounts) for that year detailing—
 
-- (a)[^key-d0f118309dbd3db07722318af15ddd2a] resources acquired, held or disposed of during the year by—
+- (a)[^c-d0f118309dbd3db07722318af15ddd2a] resources acquired, held or disposed of during the year by—
   - (i) the department, or
   - (ii) any body that is a designated body under section 4A in relation to the department for the year, and
 - (b) the use of resources during the year by the department or any such body.
@@ -182,7 +182,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 (4) For the purpose of subsection (3)(a) and (b) the Treasury shall in particular—
 
-- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 464 of the Companies Act 2006[^key-d30a6b486c73e55b331a01314ee38d99] (accounting standards) or to[^M_F_482e70c2-4884-4709-8e02-b7c4daae3a0d] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^key-c4a53fcc7996f07e71fed51bc2b343da], and
+- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 464 of the Companies Act 2006[^c-d30a6b486c73e55b331a01314ee38d99] (accounting standards) or to[^M_F_482e70c2-4884-4709-8e02-b7c4daae3a0d] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^c-c4a53fcc7996f07e71fed51bc2b343da], and
 - (b) require resource accounts to include, subject to paragraph (a), a statement of financial performance, a statement of financial position and a cash flow statement.
 
 (5) A department which prepares resource accounts shall send them to the Comptroller and Auditor General not later than 30th November of the financial year following that to which the accounts relate.
@@ -196,16 +196,16 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 (8) The Treasury may appoint an official of a department as accounting officer in respect of a particular part of the department’s resource accounts; and that person shall be responsible for the preparation of that part of the accounts.
 
-(9)[^key-f53adafb863fa3723dd39b9adaa1cf28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-f53adafb863fa3723dd39b9adaa1cf28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Resource accounts: scrutiny.
 
-(1)[^key-ac2ea5109322a268c52a70f9d88b74f1] The Comptroller and Auditor General shall examine any resource accounts which he receives from a department under section 5(5) with a view to satisfying himself—
+(1)[^c-ac2ea5109322a268c52a70f9d88b74f1] The Comptroller and Auditor General shall examine any resource accounts which he receives from a department under section 5(5) with a view to satisfying himself—
 
 - (a) that the accounts present a true and fair view,
 - (b) that money provided by Parliament has been expended for the purposes intended by Parliament,
 - (c) that resources authorised by Parliament to be used have been used for the purposes in relation to which the use was authorised, and
-- (d)[^key-dd6681f365db00e0eec1dc691860a6a6] that—
+- (d)[^c-dd6681f365db00e0eec1dc691860a6a6] that—
   - (i) the financial transactions of the department, and
   - (ii) the financial transactions of any body that is a designated body under section 4A in relation to the department for the year in question,
 
@@ -222,9 +222,9 @@ all or any part of the money may be paid out of the Fund in accordance with this
 - (b) he shall send the certified accounts and the report to the Treasury not later than 15th January of the financial year following that to which the accounts relate, and
 - (c) if he is not satisfied of the matters set out in subsection (1)(a) to (d), he shall report to the House of Commons.
 
-(4)[^key-096948d89e007e573fbbbd75db136c98][^key-ebe5dfa311116dca3513d0a39187c0e8] The Treasury shall lay accounts and reports received under subsection (3)(b) before the House of Commons not later than 31st January of the financial year following that to which they relate.
+(4)[^c-096948d89e007e573fbbbd75db136c98][^c-ebe5dfa311116dca3513d0a39187c0e8] The Treasury shall lay accounts and reports received under subsection (3)(b) before the House of Commons not later than 31st January of the financial year following that to which they relate.
 
-(5)[^key-abfb9c4e6e3be3d7e0f7e9b6d574b66a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-abfb9c4e6e3be3d7e0f7e9b6d574b66a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Other departmental accounts.
 
@@ -246,11 +246,11 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 (5) The Treasury may, in relation to accounts under subsection (1) generally or in relation to specified accounts under subsection (1), direct that this section shall have effect as if references to the relevant department were substituted for the references to the Treasury in subsection (3)(b) and (c).
 
-(6)[^key-7d62429679069754a37cbdc1ecc87116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7d62429679069754a37cbdc1ecc87116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Comptroller and Auditor General: access to information.
 
-(1)[^key-ff0163b4b5068299f61fe1972a436525][^key-4681e30424c23a72998f8bc649ea8a72] For the purposes of an examination by the Comptroller and Auditor General of a government department’s accounts—
+(1)[^c-ff0163b4b5068299f61fe1972a436525][^c-4681e30424c23a72998f8bc649ea8a72] For the purposes of an examination by the Comptroller and Auditor General of a government department’s accounts—
 
 - (a) he shall have a right of access at all reasonable times to any of the documents relating to the department’s accounts, and
 - (b) a person who holds or has control of any of those documents shall give the Comptroller and Auditor General any assistance, information or explanation which he requires in relation to any of those documents.
@@ -260,7 +260,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 - (a) by a government department, or
 - (b) in pursuance of arrangements made by a government department for the compiling or handling of any of its financial records.
 
-(3)[^key-132e3b8d451f44bb067e4eaf876aad04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-132e3b8d451f44bb067e4eaf876aad04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Whole of government accounts
 
@@ -285,7 +285,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 (5) For the purpose of subsection (4)(a) and (b) the Treasury shall in particular—
 
-- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 464 of the Companies Act 2006[^key-632056324bfb366c0c9027e82b73135b] (accounting standards) or to[^M_F_ccdae0b9-b0ab-4d70-d86b-b64c0ca9218d] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^key-b991e2ba069afea3c6285e2f5c8125be], and
+- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 464 of the Companies Act 2006[^c-632056324bfb366c0c9027e82b73135b] (accounting standards) or to[^M_F_ccdae0b9-b0ab-4d70-d86b-b64c0ca9218d] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^c-b991e2ba069afea3c6285e2f5c8125be], and
 - (b) ensure that the accounts include, subject to paragraph (a), a statement of financial performance, a statement of financial position and a cash flow statement.
 
 ### 10. Obtaining information.
@@ -311,9 +311,9 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 (6) The Treasury may not designate a body if its activities relate entirely to Scotland.
 
-(7) Before designating a body or giving a direction under subsection (5) the Treasury shall, where they think it appropriate, consult the Welsh Ministers[^key-74f19b4fc9280736536feec2a4f6db93].
+(7) Before designating a body or giving a direction under subsection (5) the Treasury shall, where they think it appropriate, consult the Welsh Ministers[^c-74f19b4fc9280736536feec2a4f6db93].
 
-(8) The Treasury may make arrangements for the Welsh Ministers[^key-0b5cfb5c26cba5a78fc13cce2d81dfed] or another body to—
+(8) The Treasury may make arrangements for the Welsh Ministers[^c-0b5cfb5c26cba5a78fc13cce2d81dfed] or another body to—
 
 - (a) receive information provided under subsection (2) or (3),
 - (b) consolidate information received,
@@ -330,7 +330,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 - (a) shall be made by statutory instrument, and
 - (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 11. Scrutiny.[^key-f66233666d5d28631b2107dc2c5a6dac]
+### 11. Scrutiny.[^c-f66233666d5d28631b2107dc2c5a6dac]
 
 (1) The Treasury shall send accounts under section 9 to the Comptroller and Auditor General.
 
@@ -356,26 +356,26 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 ## National Health Service
 
-### 12. Health Authorities and Special Health Authorities.[^key-4740b1bb666e70b2534e57af65d13892]
+### 12. Health Authorities and Special Health Authorities.[^c-4740b1bb666e70b2534e57af65d13892]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Primary Care Trusts.[^key-330fc3b91e191ff1a685873da070e82a]
+### 13. Primary Care Trusts.[^c-330fc3b91e191ff1a685873da070e82a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Summarised accounts.
 
-(1) The Treasury may by order provide for [^key-ff9c4b4d2b49a8cc4705bf8a0f86d4a7]...[^key-bec93ab42795ecc6464a85daf3496e68]paragraph 5 of Schedule 9 to the National Health Service (Wales) Act 2006 not to apply in relation to a specified body for a specified year.
+(1) The Treasury may by order provide for [^c-ff9c4b4d2b49a8cc4705bf8a0f86d4a7]...[^c-bec93ab42795ecc6464a85daf3496e68]paragraph 5 of Schedule 9 to the National Health Service (Wales) Act 2006 not to apply in relation to a specified body for a specified year.
 
 (2) The Treasury may make an order in respect of a body for a year only if they consider that the preparation of summarised accounts for that body and that year is unnecessary having regard to information contained or to be contained in—
 
 - (a) a department’s resource accounts under section 5, or
 - (b) accounts under section 9.
 
-(3)[^key-bcd2d2d83da654475f3f788a541169af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bcd2d2d83da654475f3f788a541169af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c1cf594b34216c5c0d068916994606f8] Before making an order under subsection (1)[^key-5b356da106a5a92c0f7218aab6dbf673] in respect of an NHS body within the meaning of paragraph 1 of Schedule 9 to the National Health Service (Wales) Act 2006, the Treasury shall consult—
+(4)[^c-c1cf594b34216c5c0d068916994606f8] Before making an order under subsection (1)[^c-5b356da106a5a92c0f7218aab6dbf673] in respect of an NHS body within the meaning of paragraph 1 of Schedule 9 to the National Health Service (Wales) Act 2006, the Treasury shall consult—
 
 - (a) the National Assembly for Wales, and
 - (b) the Auditor General for Wales.
@@ -385,7 +385,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 - (a) shall be made by statutory instrument, and
 - (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(6)[^key-7e8e2aa4df9fdfca5f84ddf943536246] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7e8e2aa4df9fdfca5f84ddf943536246] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## National Assembly for Wales
 
@@ -520,7 +520,7 @@ all or any part of the money may be paid out of the Fund in accordance with this
 
 (3) For the purposes of this section “**government department**” has the same meaning as it has for the purposes of section 41 of the Value Added Tax Act 1994 (application to the Crown).
 
-(4)[^key-40c058376b0dfbec83f3337e87814851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-40c058376b0dfbec83f3337e87814851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Miscellaneous
 
@@ -568,7 +568,7 @@ the Treasury shall consult a group of persons who appear to the Treasury to be a
 
 (1) Subsections (2) and (3) have effect in relation to examinations of accounts carried out by the Comptroller and Auditor General under section 6, 7 or 11.
 
-(2)[^key-f4c57c855e59d397cf47d88f32210871] If the Comptroller and Auditor General changes the extent or character of a particular kind of examination, he shall report to the House of Commons.
+(2)[^c-f4c57c855e59d397cf47d88f32210871] If the Comptroller and Auditor General changes the extent or character of a particular kind of examination, he shall report to the House of Commons.
 
 (3) An examination of accounts carried out by the Comptroller and Auditor General shall be carried out on behalf of the House of Commons.
 
@@ -596,7 +596,7 @@ the Treasury shall consult a group of persons who appear to the Treasury to be a
 - (b) shall not be made unless the Treasury have consulted the Comptroller and Auditor General, and
 - (c) shall not be made unless a draft of the order has been laid before, and approved by resolution of, each House of Parliament.
 
-(11)[^key-cf0a47b04ee5419ee6f8360cff5612a4] Subsection (10)(c) does not apply to an order under subsection (6) if the only bodies to which the order relates are bodies which are companies as defined in section 1(1) of the Companies Act 2006.
+(11)[^c-cf0a47b04ee5419ee6f8360cff5612a4] Subsection (10)(c) does not apply to an order under subsection (6) if the only bodies to which the order relates are bodies which are companies as defined in section 1(1) of the Companies Act 2006.
 
 See sections 475 and 482 of that Act for provision about the interaction between Part 16 of that Act (audit) and orders under subsection (6).
 
@@ -611,7 +611,7 @@ See sections 475 and 482 of that Act for provision about the interaction between
 
 (2) The Comptroller and Auditor General shall lay the report before the House of Commons as soon as possible.
 
-(3)[^key-0a561db2db9c6e9fa1ec3ed39b552af6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0a561db2db9c6e9fa1ec3ed39b552af6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## General
 
@@ -720,7 +720,7 @@ Section 29.
 > - (a) the banks at which departments shall keep the public money entrusted to them, and
 > - (b) the accounts in which that money shall be kept.
 
-**9.**[^key-074426c3475c94320f55bf3a92fbca36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-074426c3475c94320f55bf3a92fbca36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In section 20 (accounts of stock)—
 
@@ -733,9 +733,9 @@ Section 29.
 
 **11.** In section 34 (rendering of accounts to Comptroller and Auditor General) for “by the last preceding section” there shall be substituted “ by section 3 of the Exchequer and Audit Departments Act 1921 (examination of cash accounts) ”.
 
-**12.**[^key-9074ce29993d1b6d7e3d5a0f7b8722dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-9074ce29993d1b6d7e3d5a0f7b8722dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-31ed009a3e185301e23d6505b2bb3f42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-31ed009a3e185301e23d6505b2bb3f42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Parliamentary Returns Act 1869 (c. 86)
 
@@ -783,7 +783,7 @@ Section 29.
 
 **18.** (1) The National Audit Act 1983 shall be amended as follows.
 
-(2)[^key-eda7ee42c5fd66d88abd29ed6f86b4d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eda7ee42c5fd66d88abd29ed6f86b4d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For section 6(3)(a) (examinations into use of resources) substitute—
 
@@ -791,13 +791,13 @@ Section 29.
 
 .
 
-(4)[^key-e96cc24d81b27996d3d21e2bd47376c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e96cc24d81b27996d3d21e2bd47376c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e96cc24d81b27996d3d21e2bd47376c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e96cc24d81b27996d3d21e2bd47376c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Health Service Commissioners Act 1993 (c. 46)
 
-**19.**[^key-766cb76414f4ba65e4b8dac19c772364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-766cb76414f4ba65e4b8dac19c772364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Deregulation and Contracting Out Act 1994 (c. 40)
 
@@ -809,20 +809,20 @@ Section 29.
 
 **21.** The Government of Wales Act 1998 shall be amended as follows.
 
-**22.**[^key-cbda1f3a9564f02d961192451cb0414c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-cbda1f3a9564f02d961192451cb0414c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** In the following provisions (which require the submission of accounts to the Auditor General for Wales) for “no later than five months after the end of that financial year” substitute “ no later than 30th November of the following financial year ”
 
-- (a)[^key-2cd42e44180a41504dcee3bd79ded0a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2cd42e44180a41504dcee3bd79ded0a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph 6(1) of Schedule 6 (Chief Inspector of Schools in Wales),
 - (c) paragraph 6(1) of Schedule 7 (Forestry Commissioners), and
-- (d)[^key-b56b7e1445081293783c716a0d5b7db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b56b7e1445081293783c716a0d5b7db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-217790f118c0bf22f40799d02a7b153a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-217790f118c0bf22f40799d02a7b153a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Tax Credits Act 1999 (c. 10)
 
-**25.**[^key-93eccacfc8213a15b51d0fffb4ee498f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-93eccacfc8213a15b51d0fffb4ee498f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Food Standards Act 1999 (c. 28)
 
@@ -884,85 +884,85 @@ Section 29.
 
 ## Annotations
 
-[^key-e271919d2d1c56877b40e4ba12e94d4b]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-e271919d2d1c56877b40e4ba12e94d4b]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c271431]: Commencement: S. 2 wholly in force at 1.4.2001; s. 2 not in force at Royal Assent see s. 30; s. 2(1)(2) in force at 22.12.2000 by [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/3349/article/2/a) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5)); s. 2 in force insofar as not already in force at 1.4.2001 by [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2000/3349/article/3/1/a) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5))
 
-[^key-e5f5b8556d8fe55680d70b3f4a029ce9]: Textual amendment: S. 2(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-e5f5b8556d8fe55680d70b3f4a029ce9]: Textual amendment: S. 2(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c271433]: Marginal citation: [1866 c.39](https://www.legislation.gov.uk/ukpga/1866/39).
 
 [^c271434]: Marginal citation: [1968 c.13](https://www.legislation.gov.uk/ukpga/1968/13).
 
-[^key-d8ed0da03db0fefec0ec9087b8b666f0]: Textual amendment: S. 3(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-d8ed0da03db0fefec0ec9087b8b666f0]: Textual amendment: S. 3(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c271436]: Marginal citation: [1866 c. 39](https://www.legislation.gov.uk/ukpga/1866/39).
 
 [^c271437]: Marginal citation: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
 
-[^key-32f4bff1f93f9f59d22c96c79910ae63]: Textual amendment: S. 4A and preceding cross-heading inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/43/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
+[^c-32f4bff1f93f9f59d22c96c79910ae63]: Textual amendment: S. 4A and preceding cross-heading inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/43/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
 
 [^c271438]: Modification: S. 5(1) applied (with modifications) (15.11.2001) by [S.I. 2001/3686](https://www.legislation.gov.uk/uksi/2001/3686), [reg. 8(6)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/8/6)
 
 [^c446948]: Modification: S. 5(1) (applied with modifications) (27.3.2002) by [The Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794), [art. 6(12)(13)](https://www.legislation.gov.uk/uksi/2002/794/article/6/12/13)
 
-[^key-d0f118309dbd3db07722318af15ddd2a]: Textual amendment: S. 5(1)(a)(b) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/43/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
+[^c-d0f118309dbd3db07722318af15ddd2a]: Textual amendment: S. 5(1)(a)(b) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/43/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
 
-[^key-d30a6b486c73e55b331a01314ee38d99]: Textual amendment: Words in s. 5(4)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 214](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/214) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-d30a6b486c73e55b331a01314ee38d99]: Textual amendment: Words in s. 5(4)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 214](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/214) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^M_F_482e70c2-4884-4709-8e02-b7c4daae3a0d]: Textual amendment: Words in s. 5(4)(a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2), [Sch. 7 para. 14(a)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/7/paragraph/14/a)
 
-[^key-c4a53fcc7996f07e71fed51bc2b343da]: Textual amendment: Words in s. 5(4)(a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/48) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4a53fcc7996f07e71fed51bc2b343da]: Textual amendment: Words in s. 5(4)(a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/48) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f53adafb863fa3723dd39b9adaa1cf28]: Textual amendment: S. 5(9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-f53adafb863fa3723dd39b9adaa1cf28]: Textual amendment: S. 5(9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
-[^key-ac2ea5109322a268c52a70f9d88b74f1]: Modification: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/1) applied (with modifications) (1.1.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 2 para. 25(6)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/25/6); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-ac2ea5109322a268c52a70f9d88b74f1]: Modification: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/1) applied (with modifications) (1.1.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 2 para. 25(6)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/25/6); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-dd6681f365db00e0eec1dc691860a6a6]: Textual amendment: [S. 6(1)(d)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/1/d) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/43/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
+[^c-dd6681f365db00e0eec1dc691860a6a6]: Textual amendment: [S. 6(1)(d)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/1/d) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/43/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
 
-[^key-096948d89e007e573fbbbd75db136c98]: Modification: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/4) modified (30.1.2013) by [The Government Resources and Accounts Act 2000 (Alteration of Timetables for Accounts) Order 2013 (S.I. 2013/148)](https://www.legislation.gov.uk/uksi/2013/148), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/148/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/148/article/2)
+[^c-096948d89e007e573fbbbd75db136c98]: Modification: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/4) modified (30.1.2013) by [The Government Resources and Accounts Act 2000 (Alteration of Timetables for Accounts) Order 2013 (S.I. 2013/148)](https://www.legislation.gov.uk/uksi/2013/148), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/148/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/148/article/2)
 
-[^key-ebe5dfa311116dca3513d0a39187c0e8]: Modification: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/4) applied (with modifications) (30.1.2016) by [The Government Resources and Accounts Act 2000 (Alteration of Timetables for Accounts) Order 2016 (S.I. 2016/89)](https://www.legislation.gov.uk/uksi/2016/89), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/89/article/1/2), [2](https://www.legislation.gov.uk/uksi/2016/89/article/2)
+[^c-ebe5dfa311116dca3513d0a39187c0e8]: Modification: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2000/20/section/6/4) applied (with modifications) (30.1.2016) by [The Government Resources and Accounts Act 2000 (Alteration of Timetables for Accounts) Order 2016 (S.I. 2016/89)](https://www.legislation.gov.uk/uksi/2016/89), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/89/article/1/2), [2](https://www.legislation.gov.uk/uksi/2016/89/article/2)
 
-[^key-abfb9c4e6e3be3d7e0f7e9b6d574b66a]: Textual amendment: S. 6(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-abfb9c4e6e3be3d7e0f7e9b6d574b66a]: Textual amendment: S. 6(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
-[^key-7d62429679069754a37cbdc1ecc87116]: Textual amendment: S. 7(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-7d62429679069754a37cbdc1ecc87116]: Textual amendment: S. 7(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
-[^key-ff0163b4b5068299f61fe1972a436525]: Modification: S. 8(1) applied (23.5.2003) by [Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003 (S.I. 2003/1325)](https://www.legislation.gov.uk/uksi/2003/1325), [arts. 2-6](https://www.legislation.gov.uk/uksi/2003/1325/article/2)
+[^c-ff0163b4b5068299f61fe1972a436525]: Modification: S. 8(1) applied (23.5.2003) by [Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003 (S.I. 2003/1325)](https://www.legislation.gov.uk/uksi/2003/1325), [arts. 2-6](https://www.legislation.gov.uk/uksi/2003/1325/article/2)
 
-[^key-4681e30424c23a72998f8bc649ea8a72]: Modification: S. 8(1) amendment to earlier affecting SI 2003/1325 art. 4 (as amended (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/30) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2))); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-4681e30424c23a72998f8bc649ea8a72]: Modification: S. 8(1) amendment to earlier affecting SI 2003/1325 art. 4 (as amended (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/30) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2))); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
-[^key-132e3b8d451f44bb067e4eaf876aad04]: Textual amendment: S. 8(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-132e3b8d451f44bb067e4eaf876aad04]: Textual amendment: S. 8(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
-[^key-632056324bfb366c0c9027e82b73135b]: Textual amendment: Words in s. 9(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 214](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/214) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-632056324bfb366c0c9027e82b73135b]: Textual amendment: Words in s. 9(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 214](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/214) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^M_F_ccdae0b9-b0ab-4d70-d86b-b64c0ca9218d]: Textual amendment: Words in s. 9(5)(a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2), [Sch. 7 para. 14(b)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/7/paragraph/14/b)
 
-[^key-b991e2ba069afea3c6285e2f5c8125be]: Textual amendment: Words in s. 9(5)(a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/49) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b991e2ba069afea3c6285e2f5c8125be]: Textual amendment: Words in s. 9(5)(a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/49) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74f19b4fc9280736536feec2a4f6db93]: Textual amendment: Words in s. 164(1) inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 160, Sch. 10 para. 57(a) (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-74f19b4fc9280736536feec2a4f6db93]: Textual amendment: Words in s. 164(1) inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 160, Sch. 10 para. 57(a) (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-0b5cfb5c26cba5a78fc13cce2d81dfed]: Textual amendment: Words in s. 164(1) inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 160, Sch. 10 para. 57(b) (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-0b5cfb5c26cba5a78fc13cce2d81dfed]: Textual amendment: Words in s. 164(1) inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 160, Sch. 10 para. 57(b) (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-f66233666d5d28631b2107dc2c5a6dac]: Commencement: S. 11 in force at 2.3.2010 by [S.I. 2010/516](https://www.legislation.gov.uk/uksi/2010/516), [art. 2](https://www.legislation.gov.uk/uksi/2010/516/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/516/article/3))
+[^c-f66233666d5d28631b2107dc2c5a6dac]: Commencement: S. 11 in force at 2.3.2010 by [S.I. 2010/516](https://www.legislation.gov.uk/uksi/2010/516), [art. 2](https://www.legislation.gov.uk/uksi/2010/516/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/516/article/3))
 
 [^M_P_ae3adbee-e789-4325-f4b9-542fa9fdff2e]: Subordinate legislation: S. 11(6): dates specified for scrutiny (31.3.2010) by [S.I. 2010/570](https://www.legislation.gov.uk/uksi/2010/570), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/570/article/1/1), [2](https://www.legislation.gov.uk/uksi/2010/570/article/2)
 
-[^key-4740b1bb666e70b2534e57af65d13892]: Textual amendment: S. 12 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-4740b1bb666e70b2534e57af65d13892]: Textual amendment: S. 12 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-330fc3b91e191ff1a685873da070e82a]: Textual amendment: S. 13 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-330fc3b91e191ff1a685873da070e82a]: Textual amendment: S. 13 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-ff9c4b4d2b49a8cc4705bf8a0f86d4a7]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/2000/20/section/14/1) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 96(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/96/2); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/11/2))
+[^c-ff9c4b4d2b49a8cc4705bf8a0f86d4a7]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/2000/20/section/14/1) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 96(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/96/2); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/11/2))
 
-[^key-bec93ab42795ecc6464a85daf3496e68]: Textual amendment: Words in s. 14(1) substituted (1.10.2006 except so far as relating to Welsh NHS bodies, 1.2.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [s. 83(5)(d)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/5/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7), [Sch. 8 para. 44(2)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/8/paragraph/44/2); [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/2603/article/6)); [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/204/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/204/article/5)) (which affecting Sch. 8 para. 44(2) is amended (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 299(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/299/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1)))
+[^c-bec93ab42795ecc6464a85daf3496e68]: Textual amendment: Words in s. 14(1) substituted (1.10.2006 except so far as relating to Welsh NHS bodies, 1.2.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [s. 83(5)(d)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/5/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7), [Sch. 8 para. 44(2)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/8/paragraph/44/2); [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/2603/article/6)); [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/204/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/204/article/5)) (which affecting Sch. 8 para. 44(2) is amended (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 299(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/299/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1)))
 
-[^key-bcd2d2d83da654475f3f788a541169af]: Textual amendment: [S. 14(3)](https://www.legislation.gov.uk/ukpga/2000/20/section/14/3) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 96(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/96/3); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/11/2))
+[^c-bcd2d2d83da654475f3f788a541169af]: Textual amendment: [S. 14(3)](https://www.legislation.gov.uk/ukpga/2000/20/section/14/3) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 96(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/96/3); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/11/2))
 
-[^key-c1cf594b34216c5c0d068916994606f8]: Textual amendment: S. 14(4) substituted (1.10.2006 except so far as relating to Welsh NHS bodies, 1.2.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [s. 83(5)(d)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/5/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7), [Sch. 8 para. 44(4)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/8/paragraph/44/3); [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/2603/article/6)); [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/204/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/204/article/5)) (which affecting Sch. 8 para. 44(4) is amended (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 299(c)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/299/c) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1)))
+[^c-c1cf594b34216c5c0d068916994606f8]: Textual amendment: S. 14(4) substituted (1.10.2006 except so far as relating to Welsh NHS bodies, 1.2.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [s. 83(5)(d)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/5/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7), [Sch. 8 para. 44(4)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/8/paragraph/44/3); [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/2603/article/6)); [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/204/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/204/article/5)) (which affecting Sch. 8 para. 44(4) is amended (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 299(c)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/299/c) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1)))
 
-[^key-5b356da106a5a92c0f7218aab6dbf673]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/2000/20/section/14/4) substituted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 96(4)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/96/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/11/2))
+[^c-5b356da106a5a92c0f7218aab6dbf673]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/2000/20/section/14/4) substituted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 96(4)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/96/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/11/2))
 
-[^key-7e8e2aa4df9fdfca5f84ddf943536246]: Textual amendment: S. 14(6) added (1.10.2006 except so far as relating to Welsh NHS bodies, 1.2.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [s. 83(5)(d)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/5/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7), [Sch. 8 para. 44(5)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/8/paragraph/44/3); [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/2603/article/6)); [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/204/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/204/article/5)) (which affecting provision Sch. 8 para. 44(5) is omitted and the addition of s. 14(6) thereby falls (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 299(d)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/299/d), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1)))
+[^c-7e8e2aa4df9fdfca5f84ddf943536246]: Textual amendment: S. 14(6) added (1.10.2006 except so far as relating to Welsh NHS bodies, 1.2.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [s. 83(5)(d)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/5/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7), [Sch. 8 para. 44(5)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/8/paragraph/44/3); [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/2603/article/6)); [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/204/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/204/article/5)) (which affecting provision Sch. 8 para. 44(5) is omitted and the addition of s. 14(6) thereby falls (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 299(d)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/299/d), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1)))
 
 [^c271458]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
@@ -970,40 +970,40 @@ Section 29.
 
 [^c271460]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-40c058376b0dfbec83f3337e87814851]: Textual amendment: S. 21(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-40c058376b0dfbec83f3337e87814851]: Textual amendment: S. 21(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c271462]: Marginal citation: [1921 c. 52](https://www.legislation.gov.uk/ukpga/1921/52).
 
-[^key-f4c57c855e59d397cf47d88f32210871]: Modification: [S. 25(2)](https://www.legislation.gov.uk/ukpga/2000/20/section/25/2) applied (with modifications) (1.1.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 2 para. 25(6)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/25/6); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-f4c57c855e59d397cf47d88f32210871]: Modification: [S. 25(2)](https://www.legislation.gov.uk/ukpga/2000/20/section/25/2) applied (with modifications) (1.1.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 2 para. 25(6)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/25/6); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-cf0a47b04ee5419ee6f8360cff5612a4]: Textual amendment: [S. 25(11)](https://www.legislation.gov.uk/ukpga/2000/20/section/25/11)[(12)](https://www.legislation.gov.uk/ukpga/2000/20/section/25/12) inserted (1.11.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 19](https://www.legislation.gov.uk/ukpga/2011/4/section/19), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29) (with [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/a)
+[^c-cf0a47b04ee5419ee6f8360cff5612a4]: Textual amendment: [S. 25(11)](https://www.legislation.gov.uk/ukpga/2000/20/section/25/11)[(12)](https://www.legislation.gov.uk/ukpga/2000/20/section/25/12) inserted (1.11.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 19](https://www.legislation.gov.uk/ukpga/2011/4/section/19), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29) (with [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/a)
 
-[^key-0a561db2db9c6e9fa1ec3ed39b552af6]: Textual amendment: S. 26(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-0a561db2db9c6e9fa1ec3ed39b552af6]: Textual amendment: S. 26(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c271464]: Commencement: S. 29 wholly in force at 1.4.2001; s. 29 not in force at Royal Assent see s. 30; s. 29(1) in force for specified purposes at 22.12.2000 by [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 2(e)](https://www.legislation.gov.uk/uksi/2000/3349/article/2/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5)); s. 29 in force insofar as not already in force at 1.4.2001 by [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2000/3349/article/3/1/a) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5))
 
 [^c271465]: Subordinate legislation: S. 30 power exercised (21.12.2000): different dates appointed for specified provisions by [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [arts. 2](https://www.legislation.gov.uk/uksi/2000/3349/article/2), [3](https://www.legislation.gov.uk/uksi/2000/3349/article/3) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/2000/3349/article/4), [5](https://www.legislation.gov.uk/uksi/2000/3349/article/5))
 
-[^key-074426c3475c94320f55bf3a92fbca36]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-074426c3475c94320f55bf3a92fbca36]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
-[^key-9074ce29993d1b6d7e3d5a0f7b8722dd]: Textual amendment: Sch. 1 para. 12 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-9074ce29993d1b6d7e3d5a0f7b8722dd]: Textual amendment: Sch. 1 para. 12 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
-[^key-31ed009a3e185301e23d6505b2bb3f42]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-31ed009a3e185301e23d6505b2bb3f42]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c271466]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/17) wholly in force at 1.4.2001; [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/17) not in force at Royal Assent see [s. 30](https://www.legislation.gov.uk/ukpga/2000/20/section/30); [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/17) in force for certain purposes at 22.12.2000 by [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 2(f)](https://www.legislation.gov.uk/uksi/2000/3349/article/2/f) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5)); [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/17) in force insofar as not already in force at 1.4.2001 by [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2000/3349/article/3/1/a) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5))
 
-[^key-eda7ee42c5fd66d88abd29ed6f86b4d3]: Textual amendment: Sch. 1 para. 18(2) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/20); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-eda7ee42c5fd66d88abd29ed6f86b4d3]: Textual amendment: Sch. 1 para. 18(2) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/20); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-e96cc24d81b27996d3d21e2bd47376c2]: Textual amendment: Sch. 1 para. 18(4)(5) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/20); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-e96cc24d81b27996d3d21e2bd47376c2]: Textual amendment: Sch. 1 para. 18(4)(5) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/20); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-766cb76414f4ba65e4b8dac19c772364]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/19) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
+[^c-766cb76414f4ba65e4b8dac19c772364]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/19) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
 
-[^key-cbda1f3a9564f02d961192451cb0414c]: Textual amendment: Sch. 1 para. 22 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-cbda1f3a9564f02d961192451cb0414c]: Textual amendment: Sch. 1 para. 22 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-2cd42e44180a41504dcee3bd79ded0a9]: Textual amendment: Sch. 1 para. 23(a) repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-2cd42e44180a41504dcee3bd79ded0a9]: Textual amendment: Sch. 1 para. 23(a) repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-b56b7e1445081293783c716a0d5b7db2]: Textual amendment: Sch. 1 para. 23(d) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/3)
+[^c-b56b7e1445081293783c716a0d5b7db2]: Textual amendment: Sch. 1 para. 23(d) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/3)
 
-[^key-217790f118c0bf22f40799d02a7b153a]: Textual amendment: Sch. 1 para. 24 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-217790f118c0bf22f40799d02a7b153a]: Textual amendment: Sch. 1 para. 24 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-93eccacfc8213a15b51d0fffb4ee498f]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/25) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2)
+[^c-93eccacfc8213a15b51d0fffb4ee498f]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/25) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2)

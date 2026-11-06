@@ -34,30 +34,30 @@ of 21 November 2018
 
 on the exercise of the discretion under Article 178(2)(d) of Regulation (EU) No 575/2013 in relation to the threshold for assessing the materiality of credit obligations past due *(ECB/2018/26)* (revoked)
 
-[^key-936053a480a88a8302fbb29ed19ad1fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-936053a480a88a8302fbb29ed19ad1fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-936053a480a88a8302fbb29ed19ad1fe]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-936053a480a88a8302fbb29ed19ad1fe]
+## Article 1. Subject matter and scope[^c-936053a480a88a8302fbb29ed19ad1fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Article 178(2)(d) of Regulation (EU) No 575/2013: threshold for the assessment of the materiality of a credit obligation past due[^key-936053a480a88a8302fbb29ed19ad1fe]
+## Article 2. Definitions[^c-936053a480a88a8302fbb29ed19ad1fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Date of application of the materiality threshold[^key-936053a480a88a8302fbb29ed19ad1fe]
+## Article 3. Article 178(2)(d) of Regulation (EU) No 575/2013: threshold for the assessment of the materiality of a credit obligation past due[^c-936053a480a88a8302fbb29ed19ad1fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-936053a480a88a8302fbb29ed19ad1fe]
+## Article 4. Date of application of the materiality threshold[^c-936053a480a88a8302fbb29ed19ad1fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-936053a480a88a8302fbb29ed19ad1fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-936053a480a88a8302fbb29ed19ad1fe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-936053a480a88a8302fbb29ed19ad1fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-936053a480a88a8302fbb29ed19ad1fe]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(n)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-936053a480a88a8302fbb29ed19ad1fe]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(n)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

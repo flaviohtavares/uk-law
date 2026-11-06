@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Responsibility for adoption of international accounting standards[^key-a32a738c5e9b7e17676041213b5cd75c]
+## 5. Responsibility for adoption of international accounting standards[^c-a32a738c5e9b7e17676041213b5cd75c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The Secretary of State is responsible for—
 
 ## Annotations
 
-[^key-a32a738c5e9b7e17676041213b5cd75c]: Commencement: Reg. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a32a738c5e9b7e17676041213b5cd75c]: Commencement: Reg. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

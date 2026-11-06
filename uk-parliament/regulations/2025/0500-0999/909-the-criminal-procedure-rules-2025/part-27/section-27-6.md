@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.6. Application to Crown Court for summons or warrant[^key-5d7aaa7d65e3237f665ef8884fd2f752]
+## 27.6. Application to Crown Court for summons or warrant[^c-5d7aaa7d65e3237f665ef8884fd2f752]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5d7aaa7d65e3237f665ef8884fd2f752]: Commencement: [Rule 27.6](https://www.legislation.gov.uk/uksi/2025/909/rule/27.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5d7aaa7d65e3237f665ef8884fd2f752]: Commencement: [Rule 27.6](https://www.legislation.gov.uk/uksi/2025/909/rule/27.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00639]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 88 was amended by section 148 of, and paragraphs 59 and 63 of Schedule 26 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 

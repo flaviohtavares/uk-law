@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) (Amendment) Regulations 2010 (revoked)[^key-155bedbbd8ef8f567d7acb38e4a51c62]
+The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) (Amendment) Regulations 2010 (revoked)[^c-155bedbbd8ef8f567d7acb38e4a51c62]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2010
 
-[^key-155bedbbd8ef8f567d7acb38e4a51c62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-155bedbbd8ef8f567d7acb38e4a51c62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-155bedbbd8ef8f567d7acb38e4a51c62]
+## 1. Citation, commencement and interpretation[^c-155bedbbd8ef8f567d7acb38e4a51c62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Substitution of Schedule 5 to the principal Regulations[^key-155bedbbd8ef8f567d7acb38e4a51c62]
+## 2. Substitution of Schedule 5 to the principal Regulations[^c-155bedbbd8ef8f567d7acb38e4a51c62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-155bedbbd8ef8f567d7acb38e4a51c62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-155bedbbd8ef8f567d7acb38e4a51c62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-155bedbbd8ef8f567d7acb38e4a51c62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-155bedbbd8ef8f567d7acb38e4a51c62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-155bedbbd8ef8f567d7acb38e4a51c62]: Textual amendment: Regulations revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/regulation/1/2), [Sch. 2 para. 200](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/200)
+[^c-155bedbbd8ef8f567d7acb38e4a51c62]: Textual amendment: Regulations revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/regulation/1/2), [Sch. 2 para. 200](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/200)

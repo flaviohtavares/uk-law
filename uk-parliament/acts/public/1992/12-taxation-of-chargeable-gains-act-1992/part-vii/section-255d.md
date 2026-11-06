@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255D. Application of section 255B(2) where SI relief has been reduced[^key-887803833668cc4bd95d80cb0b3d24c2]
+## 255D. Application of section 255B(2) where SI relief has been reduced[^c-887803833668cc4bd95d80cb0b3d24c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ B is equal to the amount of the SI relief given in respect of the asset.
 
 ## Annotations
 
-[^key-887803833668cc4bd95d80cb0b3d24c2]: Textual amendment: Ss. 255A-255E and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/2)
+[^c-887803833668cc4bd95d80cb0b3d24c2]: Textual amendment: Ss. 255A-255E and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/2)

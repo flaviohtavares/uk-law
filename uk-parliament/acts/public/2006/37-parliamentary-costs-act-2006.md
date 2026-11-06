@@ -340,7 +340,7 @@ The Court of Referees may take evidence on oath on such matters in relation to a
 
 (7) Schedule 2 contains transitional provisions.
 
-### 18. Interpretation[^key-1d645d116adc2fa5bdb147db0b5a1b19]
+### 18. Interpretation[^c-1d645d116adc2fa5bdb147db0b5a1b19]
 
 In this Act—
 
@@ -398,4 +398,4 @@ Section 17(7)
 
 ## Annotations
 
-[^key-1d645d116adc2fa5bdb147db0b5a1b19]: Modification: S. 18 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/3)
+[^c-1d645d116adc2fa5bdb147db0b5a1b19]: Modification: S. 18 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/3)

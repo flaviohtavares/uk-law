@@ -134,7 +134,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Ministers and Assembly Members
 
-### 6. Extension of period for appointment of Ministers[^key-273a9928e5f9fdf290cab06300ff239b]
+### 6. Extension of period for appointment of Ministers[^c-273a9928e5f9fdf290cab06300ff239b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -252,23 +252,23 @@ In the pledge of office set out in Schedule 4 to the Northern Ireland Act 1998, 
 
 SCHEDULES
 
-## SCHEDULE 1 — MINISTERIAL APPOINTMENTS: TRANSITIONAL PROVISION[^key-f89e0d83de24998803b53bf1b586a4b5]
+## SCHEDULE 1 — MINISTERIAL APPOINTMENTS: TRANSITIONAL PROVISION[^c-f89e0d83de24998803b53bf1b586a4b5]
 
 **No longer in force.**
 
 Section 6
 
-### Application[^key-f89e0d83de24998803b53bf1b586a4b5]
+### Application[^c-f89e0d83de24998803b53bf1b586a4b5]
 
-**1.**[^key-f89e0d83de24998803b53bf1b586a4b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f89e0d83de24998803b53bf1b586a4b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Provisions under which Ministerial offices are to be filled[^key-f89e0d83de24998803b53bf1b586a4b5]
+### Provisions under which Ministerial offices are to be filled[^c-f89e0d83de24998803b53bf1b586a4b5]
 
-**2.**[^key-f89e0d83de24998803b53bf1b586a4b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f89e0d83de24998803b53bf1b586a4b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-f89e0d83de24998803b53bf1b586a4b5]
+### Interpretation[^c-f89e0d83de24998803b53bf1b586a4b5]
 
-**3.**[^key-f89e0d83de24998803b53bf1b586a4b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f89e0d83de24998803b53bf1b586a4b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — UNDERTAKING BY ASSEMBLY MEMBERS: TRANSITIONAL PROVISION
 
@@ -303,6 +303,6 @@ Section 8
 
 ## Annotations
 
-[^key-273a9928e5f9fdf290cab06300ff239b]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2016/13/section/6) omitted (8.2.2022) by virtue of [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2022/2/section/1/5), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(1)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/1))
+[^c-273a9928e5f9fdf290cab06300ff239b]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2016/13/section/6) omitted (8.2.2022) by virtue of [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2022/2/section/1/5), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(1)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/1))
 
-[^key-f89e0d83de24998803b53bf1b586a4b5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2016/13/schedule/1) omitted (8.2.2022) by virtue of [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2022/2/section/1/5), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(1)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/1))
+[^c-f89e0d83de24998803b53bf1b586a4b5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2016/13/schedule/1) omitted (8.2.2022) by virtue of [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2022/2/section/1/5), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(1)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/1))

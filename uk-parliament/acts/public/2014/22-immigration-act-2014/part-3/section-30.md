@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Appeals[^key-be4a957780a1191e928ad5e1a9b2f327][^key-dddc60bf2ca3fe3dd4bbfd139dca08d4]
+## 30. Appeals[^c-be4a957780a1191e928ad5e1a9b2f327][^c-dddc60bf2ca3fe3dd4bbfd139dca08d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be4a957780a1191e928ad5e1a9b2f327]: Commencement: S. 30 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(k)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/k)
+[^c-be4a957780a1191e928ad5e1a9b2f327]: Commencement: S. 30 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(k)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/k)
 
-[^key-dddc60bf2ca3fe3dd4bbfd139dca08d4]: Commencement: S. 30 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(k)](https://www.legislation.gov.uk/uksi/2016/11/article/2/k)
+[^c-dddc60bf2ca3fe3dd4bbfd139dca08d4]: Commencement: S. 30 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(k)](https://www.legislation.gov.uk/uksi/2016/11/article/2/k)

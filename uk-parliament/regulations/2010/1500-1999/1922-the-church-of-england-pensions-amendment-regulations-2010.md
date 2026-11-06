@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Church of England Pensions (Amendment) Regulations 2010 (revoked)[^key-49990b1a470822086ac539b9db4972e2]
+The Church of England Pensions (Amendment) Regulations 2010 (revoked)[^c-49990b1a470822086ac539b9db4972e2]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st January 2011
 
-[^key-49990b1a470822086ac539b9db4972e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49990b1a470822086ac539b9db4972e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-49990b1a470822086ac539b9db4972e2]
+## 1. Citation and commencement[^c-49990b1a470822086ac539b9db4972e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Civil partners[^key-49990b1a470822086ac539b9db4972e2]
+## 2. Civil partners[^c-49990b1a470822086ac539b9db4972e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49990b1a470822086ac539b9db4972e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49990b1a470822086ac539b9db4972e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-49990b1a470822086ac539b9db4972e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49990b1a470822086ac539b9db4972e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49990b1a470822086ac539b9db4972e2]: Textual amendment: Regulations revoked (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-49990b1a470822086ac539b9db4972e2]: Textual amendment: Regulations revoked (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

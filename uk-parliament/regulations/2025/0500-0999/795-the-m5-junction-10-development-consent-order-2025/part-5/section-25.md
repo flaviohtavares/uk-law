@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Public rights of way[^key-e7bd538d9ff94d9a40372c7153eb0f2f]
+## 25. Public rights of way[^c-e7bd538d9ff94d9a40372c7153eb0f2f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7bd538d9ff94d9a40372c7153eb0f2f]: Commencement: Art. 25 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-e7bd538d9ff94d9a40372c7153eb0f2f]: Commencement: Art. 25 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

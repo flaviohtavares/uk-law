@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Powers to wind up public service schemes.[^key-c91dac34a9572f5e6f36e555bfc2972b]
+## 12. Powers to wind up public service schemes.[^c-c91dac34a9572f5e6f36e555bfc2972b]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c91dac34a9572f5e6f36e555bfc2972b]: Commencement: S. 12 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-c91dac34a9572f5e6f36e555bfc2972b]: Commencement: S. 12 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)

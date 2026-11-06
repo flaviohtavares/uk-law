@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Service of notice etc.[^key-b8a270da4776c730bedc78daed8d739e][^key-ec85e7e98e40c95761803631273d0daf]
+## 170. Service of notice etc.[^c-b8a270da4776c730bedc78daed8d739e][^c-ec85e7e98e40c95761803631273d0daf]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8a270da4776c730bedc78daed8d739e]: Commencement: S. 170 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-b8a270da4776c730bedc78daed8d739e]: Commencement: S. 170 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-ec85e7e98e40c95761803631273d0daf]: Commencement: S. 170 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
+[^c-ec85e7e98e40c95761803631273d0daf]: Commencement: S. 170 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Duty to respond to overview and scrutiny committee[^key-fc7634c5b976f62371014a1efa2abb93]
+## 64. Duty to respond to overview and scrutiny committee[^c-fc7634c5b976f62371014a1efa2abb93]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 21B of the Local Government Act 2000 (duty of authority or executive 
 
 ## Annotations
 
-[^key-fc7634c5b976f62371014a1efa2abb93]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/4/section/64) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/g)
+[^c-fc7634c5b976f62371014a1efa2abb93]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/4/section/64) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/g)

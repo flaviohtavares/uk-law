@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Justice makes the following Regulations in exercise of the powers conferred on it by sections 223(7) of the Planning Act (Northern Ireland) 2011.
 
-## 1. Citation and commencement[^key-a3d953a5726b30d1ea31391e764e6e61]
+## 1. Citation and commencement[^c-a3d953a5726b30d1ea31391e764e6e61]
 
 These Regulations may be cited as the Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 13th August 2025.
 
-## 2. Interpretation[^key-c521b1c052ff4dad7ae5d47d560dd1cd]
+## 2. Interpretation[^c-c521b1c052ff4dad7ae5d47d560dd1cd]
 
 In these regulations—
 
@@ -59,19 +59,19 @@ In these regulations—
 - “**relevant enforcement notice**” in relation to any deemed application means the enforcement notice stating the matters to which that deemed application relates;
 - “**use of land**” includes use of land for the winning and working of minerals.
 
-## 3. Amendment of the Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015[^key-18f60ff3318557e16e6b3d205ca216c9]
+## 3. Amendment of the Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015[^c-18f60ff3318557e16e6b3d205ca216c9]
 
 The Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015 are amended as follows.
 
-## 4. Amendment of Regulation 7[^key-7f338540c8e0292d2bcab5dcc4233a7d]
+## 4. Amendment of Regulation 7[^c-7f338540c8e0292d2bcab5dcc4233a7d]
 
 In regulation 7 omit “£10,632” and insert “£12,664”.
 
-## 5. Amendment of Regulation 9[^key-13f4b884dfccaf85f9137d950336b412]
+## 5. Amendment of Regulation 9[^c-13f4b884dfccaf85f9137d950336b412]
 
 In regulation 9(1) omit “£126” and insert “£150”.
 
-## 6. Amendment of Schedule[^key-2a4d908073723047be0e325e35b76aa1]
+## 6. Amendment of Schedule[^c-2a4d908073723047be0e325e35b76aa1]
 
 For the Schedule substitute:
 
@@ -144,14 +144,14 @@ These Regulations amend the Planning Fees (Deemed Planning Applications and Appe
 
 ## Annotations
 
-[^key-a3d953a5726b30d1ea31391e764e6e61]: Commencement: Reg. 1 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
+[^c-a3d953a5726b30d1ea31391e764e6e61]: Commencement: Reg. 1 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
 
-[^key-c521b1c052ff4dad7ae5d47d560dd1cd]: Commencement: Reg. 2 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
+[^c-c521b1c052ff4dad7ae5d47d560dd1cd]: Commencement: Reg. 2 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
 
-[^key-18f60ff3318557e16e6b3d205ca216c9]: Commencement: Reg. 3 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
+[^c-18f60ff3318557e16e6b3d205ca216c9]: Commencement: Reg. 3 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
 
-[^key-7f338540c8e0292d2bcab5dcc4233a7d]: Commencement: Reg. 4 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
+[^c-7f338540c8e0292d2bcab5dcc4233a7d]: Commencement: Reg. 4 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
 
-[^key-13f4b884dfccaf85f9137d950336b412]: Commencement: Reg. 5 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
+[^c-13f4b884dfccaf85f9137d950336b412]: Commencement: Reg. 5 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
 
-[^key-2a4d908073723047be0e325e35b76aa1]: Commencement: Reg. 6 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)
+[^c-2a4d908073723047be0e325e35b76aa1]: Commencement: Reg. 6 in operation at 13.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1)

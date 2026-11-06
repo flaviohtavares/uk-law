@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Application and interpretation of this Part[^key-694b95599ff0b7750855934dbd3e9371]
+## 2. Application and interpretation of this Part[^c-694b95599ff0b7750855934dbd3e9371]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-694b95599ff0b7750855934dbd3e9371]: Commencement: Art. 2 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-694b95599ff0b7750855934dbd3e9371]: Commencement: Art. 2 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 170 and 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-e1dc100d0140c3ed828595bacb413179]
+## 1. Citation, commencement and interpretation[^c-e1dc100d0140c3ed828595bacb413179]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 1st April 2024.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations[^key-ec29b94e8bd6697f0139a1174bfd81bc]
+## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations[^c-ec29b94e8bd6697f0139a1174bfd81bc]
 
 (1) The Schedule to the Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005[^f00004] (amount of the general levy) is amended in accordance with paragraphs (2) to (13).
 
@@ -340,10 +340,10 @@ The rates specified apply for the financial years beginning with 1st April 2024,
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-e1dc100d0140c3ed828595bacb413179]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1)
+[^c-e1dc100d0140c3ed828595bacb413179]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ec29b94e8bd6697f0139a1174bfd81bc]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1)
+[^c-ec29b94e8bd6697f0139a1174bfd81bc]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 92](https://www.legislation.gov.uk/nisr/2005/92); the Schedule was added by regulation 2(4) of [S.R. 2021 No. 60](https://www.legislation.gov.uk/nisr/2021/60)

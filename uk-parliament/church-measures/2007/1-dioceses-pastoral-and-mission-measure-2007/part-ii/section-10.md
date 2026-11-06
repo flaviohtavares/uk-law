@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 10. Power of General Synod to make temporary provision with respect to membership of Convocations, etc.[^key-e5907b7dbe2ca18d767510c77fe0f1ff]
+## 10. Power of General Synod to make temporary provision with respect to membership of Convocations, etc.[^c-e5907b7dbe2ca18d767510c77fe0f1ff]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ to such diocese, being a new diocese created by the scheme or a diocese the area
 
 ## Annotations
 
-[^key-e5907b7dbe2ca18d767510c77fe0f1ff]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2007/1/section/10) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-e5907b7dbe2ca18d767510c77fe0f1ff]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2007/1/section/10) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

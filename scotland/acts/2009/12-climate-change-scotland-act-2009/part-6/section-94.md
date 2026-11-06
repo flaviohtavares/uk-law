@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Impact of budget proposals on emissions[^key-92f9f9a72b3260288c711ec769524b7f]
+## 94. Impact of budget proposals on emissions[^c-92f9f9a72b3260288c711ec769524b7f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92f9f9a72b3260288c711ec769524b7f]: Commencement: S. 94 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-92f9f9a72b3260288c711ec769524b7f]: Commencement: S. 94 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

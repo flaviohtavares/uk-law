@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Approval of members of community to buy land[^key-ef93e40fb428a6d25bcca0ea1233b29a]
+## 48. Approval of members of community to buy land[^c-ef93e40fb428a6d25bcca0ea1233b29a]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In section 51 of the 2003 Act (exercise of right to buy: approval of community a
 
 ## Annotations
 
-[^key-ef93e40fb428a6d25bcca0ea1233b29a]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/6/section/48) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-ef93e40fb428a6d25bcca0ea1233b29a]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/6/section/48) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

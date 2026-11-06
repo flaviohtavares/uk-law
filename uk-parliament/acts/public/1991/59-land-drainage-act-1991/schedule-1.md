@@ -140,7 +140,7 @@ Table
 
 #### Insolvency of members or candidates
 
-**9.**[^key-fbabe14a30007834036b39bdbc468e66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-fbabe14a30007834036b39bdbc468e66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Filling casual vacancies
 
@@ -192,4 +192,4 @@ Table
 
 [^c1415682]: Marginal citation: [S.I. 1990/72](https://www.legislation.gov.uk/uksi/1990/72).
 
-[^key-fbabe14a30007834036b39bdbc468e66]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1991/59/schedule/1/paragraph/9) omitted (29.6.2006) by virtue of [Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/1722/schedule/1/paragraph/2)
+[^c-fbabe14a30007834036b39bdbc468e66]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1991/59/schedule/1/paragraph/9) omitted (29.6.2006) by virtue of [Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/1722/schedule/1/paragraph/2)

@@ -50,20 +50,20 @@ or both, then, if otherwise he would be entitled to rescind the contract without
 
 (3) Damages may be awarded against a person under subsection (2) of this section whether or not he is liable to damages under subsection (1) thereof, but where he is so liable any award under the said subsection (2) shall be taken into account in assessing his liability under the said subsection (1).
 
-(4)[^key-a90e4211ffa9b3a51bfbcd8952c09946] This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ( [SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277) ) in respect of the conduct constituting the misrepresentation.
+(4)[^c-a90e4211ffa9b3a51bfbcd8952c09946] This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ( [SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277) ) in respect of the conduct constituting the misrepresentation.
 
 (5) Subsection (4) does not prevent a debtor from bringing a claim under section 75(1) of the Consumer Credit Act 1974 against a creditor under a debtor-creditor-supplier agreement in a case where, but for subsection (4), the debtor would have a claim against the supplier in respect of a misrepresentation (and, where section 75 of that Act would otherwise apply, it accordingly applies as if the debtor had a claim against the supplier).
 
 ## 3. Avoidance of provision excluding liability for misrepresentation.[^c668849]
 
-(1)[^key-6dca8d9af859810faeee3339aebb5c93] If a contract contains a term which would exclude or restrict—
+(1)[^c-6dca8d9af859810faeee3339aebb5c93] If a contract contains a term which would exclude or restrict—
 
 - (a) any liability to which a party to a contract may be subject by reason of any misrepresentation made by him before the contract was made; or
 - (b) any remedy available to another party to the contract by reason of such a misrepresentation,
 
 that term shall be of no effect except in so far as it satisfies the requirement of reasonableness as stated in section 11(1) of the [^c668850] Unfair Contract Terms Act 1977; and it is for those claiming that the term satisfies that requirement to show that it does.
 
-(2)[^key-10eafbeec83f9b501cd70a3e72f29eeb] This section does not apply to a term in a consumer contract within the meaning of Part 2 of the Consumer Rights Act 2015 (but see the provision made about such contracts in section 62 of that Act).
+(2)[^c-10eafbeec83f9b501cd70a3e72f29eeb] This section does not apply to a term in a consumer contract within the meaning of Part 2 of the Consumer Rights Act 2015 (but see the provision made about such contracts in section 62 of that Act).
 
 ## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c668851]
 
@@ -83,15 +83,15 @@ Nothing in this Act shall apply in relation to any misrepresentation or contract
 
 ## Annotations
 
-[^key-a90e4211ffa9b3a51bfbcd8952c09946]: Textual amendment: S. 2(4)(5) inserted (1.10.2014) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2014/870/regulation/5)
+[^c-a90e4211ffa9b3a51bfbcd8952c09946]: Textual amendment: S. 2(4)(5) inserted (1.10.2014) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2014/870/regulation/5)
 
 [^c668849]: Textual amendment: S. 3 substituted by [Unfair Contract Terms Act 1977 (c. 50)](https://www.legislation.gov.uk/ukpga/1977/50), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1977/50/section/8/1)
 
-[^key-6dca8d9af859810faeee3339aebb5c93]: Textual amendment: Word in s. 3 inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/1/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-6dca8d9af859810faeee3339aebb5c93]: Textual amendment: Word in s. 3 inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/1/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c668850]: Marginal citation: [1977 c. 50](https://www.legislation.gov.uk/ukpga/1977/50).
 
-[^key-10eafbeec83f9b501cd70a3e72f29eeb]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1967/7/section/3/2) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/1/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-10eafbeec83f9b501cd70a3e72f29eeb]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1967/7/section/3/2) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/1/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c668851]: Textual amendment: [s. 4](https://www.legislation.gov.uk/ukpga/1967/7/section/4) repealed by [Sale of Goods Act 1979 (c. 54, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1979/54), [ss. 62](https://www.legislation.gov.uk/ukpga/1979/54/section/62), [63](https://www.legislation.gov.uk/ukpga/1979/54/section/63), [Sch. 3](https://www.legislation.gov.uk/ukpga/1979/54/schedule/3)
 

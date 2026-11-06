@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Timeframe for determination of certain appeals brought by non-detained appellants liable to deportation[^key-ef7dd7b80cd61361eb0842a1483a8b2e][^key-80d6f94358c92c64ba707b279013cd48]
+## 50. Timeframe for determination of certain appeals brought by non-detained appellants liable to deportation[^c-ef7dd7b80cd61361eb0842a1483a8b2e][^c-80d6f94358c92c64ba707b279013cd48]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef7dd7b80cd61361eb0842a1483a8b2e]: Commencement: S. 50 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-ef7dd7b80cd61361eb0842a1483a8b2e]: Commencement: S. 50 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-80d6f94358c92c64ba707b279013cd48]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/31/section/50) in force at 12.8.2026 by [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
+[^c-80d6f94358c92c64ba707b279013cd48]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/31/section/50) in force at 12.8.2026 by [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)

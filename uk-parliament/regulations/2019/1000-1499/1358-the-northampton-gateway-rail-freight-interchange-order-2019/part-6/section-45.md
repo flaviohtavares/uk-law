@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Disapplication, application and modification of legislative provisions[^key-e4f97243a613ce0d395d6fbb8ef22192]
+## 45. Disapplication, application and modification of legislative provisions[^c-e4f97243a613ce0d395d6fbb8ef22192]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e4f97243a613ce0d395d6fbb8ef22192]: Commencement: Art. 45 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-e4f97243a613ce0d395d6fbb8ef22192]: Commencement: Art. 45 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00064]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by section 31 of, and paragraphs 25 and 32 of Schedule 2 to, the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 

@@ -70,16 +70,16 @@ The Secretary of State, being a Minister designated [^c1225441] for the purposes
 - “**the Community**” means the European Community, and a reference to the Community includes a reference to an EEA State which is not a member State of the Community;
 - “**dealer**” means a retailer or other person who offers for sale, displays or sells appliances to end-users;
 - “**EEA State**” means a state that is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993 [^c1225447];
-- [^key-f53ff50f3905b96a122acaa561f73890]...
-- “harmonised standards” means EN 14511:2007 Parts 1-4;[^key-ee0ad1f98ccaff06dfe0da329f67f516]
+- [^c-f53ff50f3905b96a122acaa561f73890]...
+- “harmonised standards” means EN 14511:2007 Parts 1-4;[^c-ee0ad1f98ccaff06dfe0da329f67f516]
 - “**information sheet**” means a standard table of information relating to the regulated appliance in question;
-- “local weights and measures authority” means a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985;[^key-3330e4e0da3f6fbf3cc8c411cd67d53c]
+- “local weights and measures authority” means a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985;[^c-3330e4e0da3f6fbf3cc8c411cd67d53c]
 - “**records**” includes any books, documents, marks or symbols and any records in non-documentary form;
 - “**regulated appliance**” means an appliance to which these Regulations apply;
 - “**sale**” includes hire and hire-purchase and related expressions shall be construed accordingly;
 - “**supplier**”, in relation to a regulated appliance, means the manufacturer of that appliance or his authorised representative in the Community or the person who places the appliance on the Community market.
 
-## 2A. Enforcement authority[^key-38e85448d6081372bf1c4065578cbe0f]
+## 2A. Enforcement authority[^c-38e85448d6081372bf1c4065578cbe0f]
 
 (1) in these Regulations the enforcement authority means—
 
@@ -531,7 +531,7 @@ Proceedings for an offence under these Regulations shall not be instituted—
 - (a) in England and Wales, except by an enforcement authority;
 - (b) in Northern Ireland, except by or on behalf of an enforcement authority or the Director of Public Prosecutions.
 
-#### 2A. Time limit for prosecution of offences[^key-c468d9da80081688fc5b89ab8cda9075]
+#### 2A. Time limit for prosecution of offences[^c-c468d9da80081688fc5b89ab8cda9075]
 
 (1) An offence under these Regulations may be tried by summary proceedings if—
 
@@ -715,13 +715,13 @@ Copies of British Standard BS EN 14511, which transposes EN 14511 referred to in
 
 [^c1225447]: Marginal citation: Cmnd. 2073 and Cmnd. 2183.
 
-[^key-f53ff50f3905b96a122acaa561f73890]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2) omitted (15.10.2009) by virtue of [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(2)(a)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/2/a)
+[^c-f53ff50f3905b96a122acaa561f73890]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2) omitted (15.10.2009) by virtue of [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(2)(a)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/2/a)
 
-[^key-ee0ad1f98ccaff06dfe0da329f67f516]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2) substituted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(2)(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/2/b)
+[^c-ee0ad1f98ccaff06dfe0da329f67f516]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2) substituted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(2)(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/2/b)
 
-[^key-3330e4e0da3f6fbf3cc8c411cd67d53c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(2)(c)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/2/c)
+[^c-3330e4e0da3f6fbf3cc8c411cd67d53c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(2)(c)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/2/c)
 
-[^key-38e85448d6081372bf1c4065578cbe0f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(3)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/3)
+[^c-38e85448d6081372bf1c4065578cbe0f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2005/1726/regulation/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(3)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/3)
 
 [^c1225450]: Marginal citation: OJ No. L 344, 6.12.1986, p. 24, as last amended by Council Regulation (EC) No. 807/2003 (OJ No. L 122, 16.5.2003, p. 36). This Directive was transposed by the Household Appliances (Noise Emission) Regulations 1990 ([S.I. 1990/161](https://www.legislation.gov.uk/uksi/1990/161); amended by [S.I. 1994/1386](https://www.legislation.gov.uk/uksi/1994/1386), 2004/693); *see* regulation 4 of those Regulations requiring that, where noise information is given, it must be determined in accordance with Council Directive 86/594/EEC.
 
@@ -739,7 +739,7 @@ Copies of British Standard BS EN 14511, which transposes EN 14511 referred to in
 
 [^c1225460]: Marginal citation: Where noise information is provided, the Household Appliances (Noise Emission) Regulations 1990 apply ([S.I. 1990/161](https://www.legislation.gov.uk/uksi/1990/161) as amended by [S.I. 1994/1386](https://www.legislation.gov.uk/uksi/1994/1386), 2004/693).
 
-[^key-c468d9da80081688fc5b89ab8cda9075]: Textual amendment: [Sch. 4 para. 2A](https://www.legislation.gov.uk/uksi/2005/1726/schedule/4/paragraph/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(4)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/4)
+[^c-c468d9da80081688fc5b89ab8cda9075]: Textual amendment: [Sch. 4 para. 2A](https://www.legislation.gov.uk/uksi/2005/1726/schedule/4/paragraph/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [9(4)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/9/4)
 
 [^c1225461]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); there are amendments to this Act not relevant to these Regulations.
 

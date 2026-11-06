@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. General duties of lead enforcement authority[^key-a7df9f1e39784e95f3d8ad28e0c0653d]
+## 21. General duties of lead enforcement authority[^c-a7df9f1e39784e95f3d8ad28e0c0653d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7df9f1e39784e95f3d8ad28e0c0653d]: Commencement: S. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a7df9f1e39784e95f3d8ad28e0c0653d]: Commencement: S. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

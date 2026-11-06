@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7B. General implementation of EEA EFTA and Swiss agreements[^key-9d694e1eb8b5247ad25bad0e8cf707f0]
+## 7B. General implementation of EEA EFTA and Swiss agreements[^c-9d694e1eb8b5247ad25bad0e8cf707f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ if that Article were to apply in relation to the EEA EFTA separation agreement a
 
 ## Annotations
 
-[^key-9d694e1eb8b5247ad25bad0e8cf707f0]: Textual amendment: S. 7B inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 6](https://www.legislation.gov.uk/ukpga/2020/1/section/6), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/d)
+[^c-9d694e1eb8b5247ad25bad0e8cf707f0]: Textual amendment: S. 7B inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 6](https://www.legislation.gov.uk/ukpga/2020/1/section/6), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/d)

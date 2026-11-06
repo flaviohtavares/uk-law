@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Contract with sole member who is also a director[^c19880131][^c19880151][^c19880171][^c20597661][^key-bb821bc8d75b9d0a85b87e7a7ff914f0][^key-910fc9f906f476d6f077b2f53627e9b5]
+## 231. Contract with sole member who is also a director[^c19880131][^c19880151][^c19880171][^c20597661][^c-bb821bc8d75b9d0a85b87e7a7ff914f0][^c-910fc9f906f476d6f077b2f53627e9b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c20597661]: Modification: S. 231 modified (retrospective to 30.3.2009 at 8.00 a.m.) by The Amendments to [Law (Resolution of Dunfermline Building Society) Order 2009 (S.I. 2009/814)](https://www.legislation.gov.uk/uksi/2009/814), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2), [7](https://www.legislation.gov.uk/uksi/2009/814/article/7), [Sch. para. 2(l)](https://www.legislation.gov.uk/uksi/2009/814/schedule/paragraph/2/l)
 
-[^key-bb821bc8d75b9d0a85b87e7a7ff914f0]: Modification: S. 231 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(l)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/l)
+[^c-bb821bc8d75b9d0a85b87e7a7ff914f0]: Modification: S. 231 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(l)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/l)
 
-[^key-910fc9f906f476d6f077b2f53627e9b5]: Modification: [S. 231](https://www.legislation.gov.uk/ukpga/2006/46/section/231) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/1)
+[^c-910fc9f906f476d6f077b2f53627e9b5]: Modification: [S. 231](https://www.legislation.gov.uk/ukpga/2006/46/section/231) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/1)

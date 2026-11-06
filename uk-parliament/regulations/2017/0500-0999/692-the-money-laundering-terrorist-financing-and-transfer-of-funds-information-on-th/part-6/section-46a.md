@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Annual reports by self-regulatory organisations[^key-7142493e4ca5ae9e2891d02c5f4bea79]
+## 46A. Annual reports by self-regulatory organisations[^c-7142493e4ca5ae9e2891d02c5f4bea79]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ A self-regulatory organisation must publish or make arrangements to publish an a
 
 ## Annotations
 
-[^key-7142493e4ca5ae9e2891d02c5f4bea79]: Textual amendment: Reg. 46A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/2)
+[^c-7142493e4ca5ae9e2891d02c5f4bea79]: Textual amendment: Reg. 46A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/2)
 
 [^c23048381]: Marginal citation: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 

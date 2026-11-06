@@ -40,9 +40,9 @@ summary: ''
 
 (5) The matters to which regulations under this section may relate include, but are not limited to—
 
-- (a) the matters mentioned in sections 11, 14, 15, 20, 21, 25, 26, 27, 38, 38A[^key-7c7b45973cf31f7bcf17498b885ae068], 39 and 58, and
+- (a) the matters mentioned in sections 11, 14, 15, 20, 21, 25, 26, 27, 38, 38A[^c-7c7b45973cf31f7bcf17498b885ae068], 39 and 58, and
 - (b) any matter for which regulations under section 37 may make provision.
 
 ## Annotations
 
-[^key-7c7b45973cf31f7bcf17498b885ae068]: Textual amendment: Word in [s. 32(5)(a)](https://www.legislation.gov.uk/ukpga/2002/15/section/32/5/a) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/6), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
+[^c-7c7b45973cf31f7bcf17498b885ae068]: Textual amendment: Word in [s. 32(5)(a)](https://www.legislation.gov.uk/ukpga/2002/15/section/32/5/a) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/6), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)

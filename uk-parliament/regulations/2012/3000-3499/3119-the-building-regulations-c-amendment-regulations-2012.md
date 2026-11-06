@@ -550,198 +550,198 @@ After the definition of “chargeable function” in regulation 2 of the Buildin
 
 ## PART 3 — The Building (Approved Inspectors etc.) Regulations 2010[^c2149249]
 
-### 34 (Extent: E) (affected by repeal, see note). Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 34 (Extent: E) (affected by repeal, see note). Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-The Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] etc. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]) Regulations 2010 (“ *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]**the Approved Inspectors Regulations 2010 *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]**”) are amended as set out in regulations 35 to 44. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+The Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] etc. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]) Regulations 2010 (“ *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]**the Approved Inspectors Regulations 2010 *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]**”) are amended as set out in regulations 35 to 44. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 35 (Extent: E) (affected by repeal, see note). Approved inspector's insurance (new regulation 5A)[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 35 (Extent: E) (affected by repeal, see note). Approved inspector's insurance (new regulation 5A)[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-After the end of regulation 5, insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+After the end of regulation 5, insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-> **5A (Extent: E) (affected by repeal, see note). Approved inspector's insurance (Extent: E) (affected by repeal, see note)[^key-7a8f698016880f942237ae7f6ead8a6d][^key-7a8f698016880f942237ae7f6ead8a6d]**
+> **5A (Extent: E) (affected by repeal, see note). Approved inspector's insurance (Extent: E) (affected by repeal, see note)[^c-7a8f698016880f942237ae7f6ead8a6d][^c-7a8f698016880f942237ae7f6ead8a6d]**
 >
-> (1 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] Subject to paragraph (2), an approved inspector who gives a notice or certificate specified in paragraph (2) to a local authority must ensure that, before or on the date of the notice or certificate, the person who approved that inspector (the Secretary of State or a body designated under regulation 3 as the case may be) is in possession of a declaration of insurance in respect of the work to which the notice or certificate relates. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> (1 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] Subject to paragraph (2), an approved inspector who gives a notice or certificate specified in paragraph (2) to a local authority must ensure that, before or on the date of the notice or certificate, the person who approved that inspector (the Secretary of State or a body designated under regulation 3 as the case may be) is in possession of a declaration of insurance in respect of the work to which the notice or certificate relates. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 >
-> (2 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] Paragraph (1) applies to a notice or certificate given on or after 6th April 2013 which is— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> (2 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] Paragraph (1) applies to a notice or certificate given on or after 6th April 2013 which is— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 >
-> - (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] an initial notice; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-> - (b (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] an amendment notice; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-> - (c (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] a plans certificate; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-> - (d (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] a combined initial notice and plans certificate; or *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-> - (e (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] a final certificate. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> - (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] an initial notice; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+> - (b (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] an amendment notice; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+> - (c (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] a plans certificate; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+> - (d (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] a combined initial notice and plans certificate; or *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+> - (e (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] a final certificate. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 >
-> (3 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] In this regulation a “ *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]**declaration of insurance *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]**” means a declaration of insurance signed by the insurer that a named scheme of insurance approved by the Secretary of State applies to the approved inspector in relation to the building work to which the notice or certificate relates. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> (3 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] In this regulation a “ *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]**declaration of insurance *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]**” means a declaration of insurance signed by the insurer that a named scheme of insurance approved by the Secretary of State applies to the approved inspector in relation to the building work to which the notice or certificate relates. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 36 (Extent: E) (affected by repeal, see note). Lists of approvals and designations[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 36 (Extent: E) (affected by repeal, see note). Lists of approvals and designations[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-Regulation 7 is amended as follows— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+Regulation 7 is amended as follows— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] in paragraph (1)— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-  - (i (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] omit “maintain”; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] at the beginning of sub-paragraph (a) insert *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] “ maintain ” *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-  - (iii (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] at the end of sub-paragraph (a) omit “and”; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-  - (iv (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] at the beginning of sub-paragraph (b) insert *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] “ maintain ” *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-  - (v (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] after “Secretary of State” in sub-paragraph (b), insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+- (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] in paragraph (1)— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+  - (i (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] omit “maintain”; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] at the beginning of sub-paragraph (a) insert *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] “ maintain ” *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+  - (iii (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] at the end of sub-paragraph (a) omit “and”; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+  - (iv (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] at the beginning of sub-paragraph (b) insert *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] “ maintain ” *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+  - (v (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] after “Secretary of State” in sub-paragraph (b), insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-    > , and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+    > , and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
     >
-    > - (c (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] in respect of each approved inspector listed, keep a copy of— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-    >   - (i (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] the approval certificate, and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-    >   - (ii (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] the declaration of insurance referred to in regulation 5A; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+    > - (c (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] in respect of each approved inspector listed, keep a copy of— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+    >   - (i (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] the approval certificate, and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+    >   - (ii (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] the declaration of insurance referred to in regulation 5A; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-    ; and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (b (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] in paragraph (3), at the end of sub-paragraph (a)— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-  - (i (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] omit “and”; and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+    ; and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (b (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] in paragraph (3), at the end of sub-paragraph (a)— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+  - (i (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] omit “and”; and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-    > - (aa (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] in respect of each approved inspector listed, keep a copy of— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-    >   - (i (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] the approval certificate, and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-    >   - (ii (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] the declaration of insurance referred to in regulation 5A; and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+    > - (aa (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] in respect of each approved inspector listed, keep a copy of— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+    >   - (i (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] the approval certificate, and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+    >   - (ii (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] the declaration of insurance referred to in regulation 5A; and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-    . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+    . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 37 (Extent: E) (affected by repeal, see note). Functions of approved inspectors[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 37 (Extent: E) (affected by repeal, see note). Functions of approved inspectors[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-In regulation 8(1)— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+In regulation 8(1)— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] in sub-paragraph (a), after “23 (requirements relating to thermal elements),” insert *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] “ 25A (consideration of high-efficiency alternative systems for new buildings), ” *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]; and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (b (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] in sub-paragraph (b), after “regulations 20,” insert *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] “ 25A, ” *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+- (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] in sub-paragraph (a), after “23 (requirements relating to thermal elements),” insert *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] “ 25A (consideration of high-efficiency alternative systems for new buildings), ” *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]; and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (b (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] in sub-paragraph (b), after “regulations 20,” insert *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] “ 25A, ” *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 38 (Extent: E) (affected by repeal, see note). Form, grounds and period for rejecting final certificate[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 38 (Extent: E) (affected by repeal, see note). Form, grounds and period for rejecting final certificate[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-In regulation 16, after the end of paragraph (2) insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+In regulation 16, after the end of paragraph (2) insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-> (3 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] A final certificate given by an approved inspector to a local authority in accordance with these Regulations shall be evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> (3 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] A final certificate given by an approved inspector to a local authority in accordance with these Regulations shall be evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 39 (Extent: E) (affected by repeal, see note). Application of regulations 20, 27, 29, 37, 41, 42, 43 and 44 of the 2010 Regulations[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 39 (Extent: E) (affected by repeal, see note). Application of regulations 20, 27, 29, 37, 41, 42, 43 and 44 of the 2010 Regulations[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-For regulation 20(1) and the preceding heading, substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+For regulation 20(1) and the preceding heading, substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-> **20 (Extent: E) (affected by repeal, see note). Application of regulations, 20, 25A, 27, 29, 37, 41, 42, 43 and 44 of the Principal Regulations (Extent: E) (affected by repeal, see note)[^key-7a8f698016880f942237ae7f6ead8a6d][^key-7a8f698016880f942237ae7f6ead8a6d]**
+> **20 (Extent: E) (affected by repeal, see note). Application of regulations, 20, 25A, 27, 29, 37, 41, 42, 43 and 44 of the Principal Regulations (Extent: E) (affected by repeal, see note)[^c-7a8f698016880f942237ae7f6ead8a6d][^c-7a8f698016880f942237ae7f6ead8a6d]**
 >
-> (1 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] Regulations 20 (provisions applicable to self-certification schemes), 25A (consideration of high-efficiency alternative systems for new buildings), 27 (CO² emission rate calculations), 29 (energy performance certificates), 37 (wholesome water consumption calculation), 41 (sound insulation testing), 42 (mechanical ventilation air flow rate testing), 43 (pressure testing) and 44 (commissioning) of the Principal Regulations apply in relation to building work which is the subject of an initial notice as if references to the local authority were references to the approved inspector. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> (1 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] Regulations 20 (provisions applicable to self-certification schemes), 25A (consideration of high-efficiency alternative systems for new buildings), 27 (CO² emission rate calculations), 29 (energy performance certificates), 37 (wholesome water consumption calculation), 41 (sound insulation testing), 42 (mechanical ventilation air flow rate testing), 43 (pressure testing) and 44 (commissioning) of the Principal Regulations apply in relation to building work which is the subject of an initial notice as if references to the local authority were references to the approved inspector. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 40 (Extent: E) (affected by repeal, see note). Register of notices and certificates[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 40 (Extent: E) (affected by repeal, see note). Register of notices and certificates[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-In regulation 30, omit paragraph (2)(c). *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+In regulation 30, omit paragraph (2)(c). *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 41 (Extent: E) (affected by repeal, see note). Schedule 1 to the Approved Inspectors Regulations 2010[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 41 (Extent: E) (affected by repeal, see note). Schedule 1 to the Approved Inspectors Regulations 2010[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-(1 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] The numbered forms specified in Schedule 1 are amended as specified in paragraphs 2 to 7. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+(1 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] The numbered forms specified in Schedule 1 are amended as specified in paragraphs 2 to 7. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] In Form 1 (initial notice)— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+(2 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] In Form 1 (initial notice)— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] omit sub-paragraphs (a) and (b) of paragraph 4; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (b (Extent: E) (affected by repeal, see note))[^key-84e7d1bdb97c49d5ffd8a3f5b57c8094][^key-7a8f698016880f942237ae7f6ead8a6d] after the end of paragraph 11 insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+- (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] omit sub-paragraphs (a) and (b) of paragraph 4; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (b (Extent: E) (affected by repeal, see note))[^c-84e7d1bdb97c49d5ffd8a3f5b57c8094][^c-7a8f698016880f942237ae7f6ead8a6d] after the end of paragraph 11 insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  > **12 (Extent: E) (affected by repeal, see note).**[^key-7a8f698016880f942237ae7f6ead8a6d] I *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] **(7) *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]** am an approved inspector for the purposes of Part 2 of the Act in respect of the work described in this notice. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > **12 (Extent: E) (affected by repeal, see note).**[^c-7a8f698016880f942237ae7f6ead8a6d] I *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] **(7) *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]** am an approved inspector for the purposes of Part 2 of the Act in respect of the work described in this notice. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
   >
-  > **13 (Extent: E) (affected by repeal, see note).**[^key-7a8f698016880f942237ae7f6ead8a6d] Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] 2010 Regulations *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > **13 (Extent: E) (affected by repeal, see note).**[^c-7a8f698016880f942237ae7f6ead8a6d] Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] 2010 Regulations *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (c (Extent: E) (affected by repeal, see note))[^key-b40fe3f2450ae5111204cd9e87585b4e][^key-7a8f698016880f942237ae7f6ead8a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (c (Extent: E) (affected by repeal, see note))[^c-b40fe3f2450ae5111204cd9e87585b4e][^c-7a8f698016880f942237ae7f6ead8a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-(3 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] In Form 2 (amendment notice)— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+(3 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] In Form 2 (amendment notice)— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] omit sub-paragraphs (b) and (d) of paragraph 3; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (b (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] after the end of paragraph 11 insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+- (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] omit sub-paragraphs (b) and (d) of paragraph 3; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (b (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] after the end of paragraph 11 insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  > **12 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+  > **12 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
   >
-  > I *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] **(6) *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]** am an approved inspector for the purposes of Part 2 of the Act and the above work is \[the whole\]/\[part\] of the work described in an initial notice given by me and dated: *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] **(11) *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]**
+  > I *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] **(6) *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]** am an approved inspector for the purposes of Part 2 of the Act and the above work is \[the whole\]/\[part\] of the work described in an initial notice given by me and dated: *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] **(11) *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]**
   >
-  > **13 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+  > **13 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
   >
-  > Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the 2010 Regulations. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the 2010 Regulations. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  ; and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (c (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] after Note (10) insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  ; and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (c (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] after Note (10) insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  > (11 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] Insert date. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > (11 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] Insert date. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-(4 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] In Form 3 (plans certificate), omit paragraph 3 and in its place insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+(4 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] In Form 3 (plans certificate), omit paragraph 3 and in its place insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-> **3 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+> **3 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
 >
-> Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the 2010 Regulations. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the 2010 Regulations. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-(5 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] In Form 4 (combined initial notice and plans certificate)— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+(5 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] In Form 4 (combined initial notice and plans certificate)— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] omit sub-paragraphs (a) and (b) of paragraph 4; *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (b (Extent: E) (affected by repeal, see note))[^key-d64ffe536460e12d49af6449148f227f][^key-7a8f698016880f942237ae7f6ead8a6d] after the end of paragraph 15 insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+- (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] omit sub-paragraphs (a) and (b) of paragraph 4; *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (b (Extent: E) (affected by repeal, see note))[^c-d64ffe536460e12d49af6449148f227f][^c-7a8f698016880f942237ae7f6ead8a6d] after the end of paragraph 15 insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  > **16 (Extent: E) (affected by repeal, see note).**[^key-7a8f698016880f942237ae7f6ead8a6d] I *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] **(7) *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]** am an approved inspector for the purposes of Part 2 of the Act in respect of the work described in this notice. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > **16 (Extent: E) (affected by repeal, see note).**[^c-7a8f698016880f942237ae7f6ead8a6d] I *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] **(7) *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]** am an approved inspector for the purposes of Part 2 of the Act in respect of the work described in this notice. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
   >
-  > **17 (Extent: E) (affected by repeal, see note).**[^key-7a8f698016880f942237ae7f6ead8a6d] Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d] 2010 Regulations *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > **17 (Extent: E) (affected by repeal, see note).**[^c-7a8f698016880f942237ae7f6ead8a6d] Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d] 2010 Regulations *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (c (Extent: E) (affected by repeal, see note))[^key-9638087e6f8c47b9ae322259734e7bb3][^key-7a8f698016880f942237ae7f6ead8a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (c (Extent: E) (affected by repeal, see note))[^c-9638087e6f8c47b9ae322259734e7bb3][^c-7a8f698016880f942237ae7f6ead8a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-(6 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] In Form 5 (final certificate)— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+(6 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] In Form 5 (final certificate)— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] omit paragraph (6) and in its place insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+- (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] omit paragraph (6) and in its place insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  > **6 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+  > **6 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
   >
-  > Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the 2010 Regulations. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the 2010 Regulations. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  ; and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (b (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] after paragraph 8 insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  ; and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (b (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] after paragraph 8 insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  > **9 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+  > **9 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
   >
-  > This certificate is evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > This certificate is evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-(7 (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] In Form 12 (public body's final certificate), after paragraph 6 insert— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+(7 (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] In Form 12 (public body's final certificate), after paragraph 6 insert— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-> **7 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+> **7 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
 >
-> This certificate is evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> This certificate is evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 42 (Extent: E) (affected by repeal, see note). Schedule 2 to the Approved Inspectors Regulations 2010[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 42 (Extent: E) (affected by repeal, see note). Schedule 2 to the Approved Inspectors Regulations 2010[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-In Schedule 2— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+In Schedule 2— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] omit paragraph 5; and *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
-- (b (Extent: E) (affected by repeal, see note))[^key-7a8f698016880f942237ae7f6ead8a6d] for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+- (a (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] omit paragraph 5; and *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
+- (b (Extent: E) (affected by repeal, see note))[^c-7a8f698016880f942237ae7f6ead8a6d] for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  > **6 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+  > **6 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
   >
-  > In the case of a notice dated on or after 6th *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]<sup></sup>April 2013, having taken all reasonable steps to establish whether there is a named scheme of insurance approved by the Secretary of State in relation to the work described in the notice, the local authority believe that this is not the case. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  > In the case of a notice dated on or after 6th *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]<sup></sup>April 2013, having taken all reasonable steps to establish whether there is a named scheme of insurance approved by the Secretary of State in relation to the work described in the notice, the local authority believe that this is not the case. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 43 (Extent: E) (affected by repeal, see note). Schedule 3 to the Approved Inspectors Regulations 2010[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 43 (Extent: E) (affected by repeal, see note). Schedule 3 to the Approved Inspectors Regulations 2010[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-In Schedule 3, for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+In Schedule 3, for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-> **6 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+> **6 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
 >
-> In the case of a certificate dated on or after 6th April 2013, having taken all reasonable steps to establish whether there is a named scheme of insurance approved by the Secretary of State in relation to the work described in the notice, the local authority believe that this is not the case. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> In the case of a certificate dated on or after 6th April 2013, having taken all reasonable steps to establish whether there is a named scheme of insurance approved by the Secretary of State in relation to the work described in the notice, the local authority believe that this is not the case. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-### 44 (Extent: E) (affected by repeal, see note). Schedule 4 to the Approved Inspectors Regulations 2010[^key-7a8f698016880f942237ae7f6ead8a6d]
+### 44 (Extent: E) (affected by repeal, see note). Schedule 4 to the Approved Inspectors Regulations 2010[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-In Schedule 4, for paragraph 5 substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+In Schedule 4, for paragraph 5 substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-> **5 (Extent: E) (affected by repeal, see note).[^key-7a8f698016880f942237ae7f6ead8a6d]**
+> **5 (Extent: E) (affected by repeal, see note).[^c-7a8f698016880f942237ae7f6ead8a6d]**
 >
-> In the case of a certificate dated on or after 6th April 2013, having taken all reasonable steps to establish whether there is a named scheme of insurance approved by the Secretary of State in relation to the work to which the certificate relates, the local authority believe that this is not the case. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+> In the case of a certificate dated on or after 6th April 2013, having taken all reasonable steps to establish whether there is a named scheme of insurance approved by the Secretary of State in relation to the work to which the certificate relates, the local authority believe that this is not the case. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-7a8f698016880f942237ae7f6ead8a6d]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-7a8f698016880f942237ae7f6ead8a6d]
 
 ## PART 4 — Transitional Provisions
 
@@ -781,7 +781,7 @@ Regulation 1
 | 9th January 2013 | Regulation 15 | In respect of buildings occupied by public authorities |
 | 9th January 2013 | Regulation 17 (for the purpose of new regulation 25A) | In respect of new buildings occupied by public authorities |
 | 28th January 2013 | Regulation 13(a) (in so far as it inserts paragraphs (3B), (3C) and (3D) into regulation 20) and (b) | All purposes |
-| 11th February 2013[^key-08d445bec395b1e8b5688fea393c1c25] | Regulation 37 | In respect of new buildings occupied by public authorities |
+| 11th February 2013[^c-08d445bec395b1e8b5688fea393c1c25] | Regulation 37 | In respect of new buildings occupied by public authorities |
 | 6th April 2013 | Regulation 4, 5, 6, 9, 27, 28, 29(2)(a), 32(a), 35, 36, 40 to 44 and Schedule 2 | All purposes |
 | 9th July 2013 | Regulation 15 | In respect of all buildings |
 | 9th July 2013 | Regulation 17 (for the purpose of new regulation 25A) | In respect of all new buildings |
@@ -925,14 +925,14 @@ Schedule 1 sets outs the commencement table.
 
 [^c2149249]: Marginal citation: [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215).
 
-[^key-7a8f698016880f942237ae7f6ead8a6d]: Textual amendment: [Regs. 34-44](https://www.legislation.gov.uk/uksi/2012/3119/regulation/34) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(ii)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/ii) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-7a8f698016880f942237ae7f6ead8a6d]: Textual amendment: [Regs. 34-44](https://www.legislation.gov.uk/uksi/2012/3119/regulation/34) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(ii)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/ii) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
-[^key-84e7d1bdb97c49d5ffd8a3f5b57c8094]: Textual amendment: Reg. 41(2)(b) substituted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/a)
+[^c-84e7d1bdb97c49d5ffd8a3f5b57c8094]: Textual amendment: Reg. 41(2)(b) substituted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/a)
 
-[^key-b40fe3f2450ae5111204cd9e87585b4e]: Textual amendment: Reg. 41(2)(c) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(c)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/c)
+[^c-b40fe3f2450ae5111204cd9e87585b4e]: Textual amendment: Reg. 41(2)(c) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(c)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/c)
 
-[^key-d64ffe536460e12d49af6449148f227f]: Textual amendment: Reg. 41(5)(b) substituted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/b)
+[^c-d64ffe536460e12d49af6449148f227f]: Textual amendment: Reg. 41(5)(b) substituted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/b)
 
-[^key-9638087e6f8c47b9ae322259734e7bb3]: Textual amendment: Reg. 41(5)(c) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(c)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/c)
+[^c-9638087e6f8c47b9ae322259734e7bb3]: Textual amendment: Reg. 41(5)(c) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [6(c)](https://www.legislation.gov.uk/uksi/2013/181/regulation/6/c)
 
-[^key-08d445bec395b1e8b5688fea393c1c25]: Textual amendment: Words in Sch. 1 substituted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2013/181/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/181/schedule/1)
+[^c-08d445bec395b1e8b5688fea393c1c25]: Textual amendment: Words in Sch. 1 substituted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2013/181/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/181/schedule/1)

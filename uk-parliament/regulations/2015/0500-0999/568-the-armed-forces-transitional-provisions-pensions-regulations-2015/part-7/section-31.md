@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Insertion of new article 5 into the Reserve Forces Pension Scheme Regulations 2005[^key-89ee7dc75954f8336992120b39379143]
+## 31. Insertion of new article 5 into the Reserve Forces Pension Scheme Regulations 2005[^c-89ee7dc75954f8336992120b39379143]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ The Reserve Forces Pension Scheme Regulations 2005(â€œthe RFPS Regulations 2005â
 
 ## Annotations
 
-[^key-89ee7dc75954f8336992120b39379143]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-89ee7dc75954f8336992120b39379143]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00026]: Footnote: These regulations are Defence Council Regulations made under sections 4(2) and (3), and 8(1) and (3) of the Reserve Forces Act [1996 (c. 14)](https://www.legislation.gov.uk/ukpga/1996/14). They have been amended by the Reserve Forces Pension Scheme (Amendment) Regulations 2006, the Reserve Forces Pension Scheme (Amendment) Regulations 2009 and the Reserve Forces Pension Scheme (Amendment) Regulations 2012. These instruments can be found at www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6, Zone M, Ministry of Defence, Main Building, London SW1A 2HB. These regulations have also been amended by the Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 ([S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107)).

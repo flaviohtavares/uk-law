@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Review of compliance with code of practice on deer management[^key-0150f28bb8f2d0401c1924335c2d82d7]
+## 79. Review of compliance with code of practice on deer management[^c-0150f28bb8f2d0401c1924335c2d82d7]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0150f28bb8f2d0401c1924335c2d82d7]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2016/18/section/79) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+[^c-0150f28bb8f2d0401c1924335c2d82d7]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2016/18/section/79) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)

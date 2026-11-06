@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Classification of roads, etc.[^key-1f59568c5a962ad1f0bf4168c7352745]
+## 13. Classification of roads, etc.[^c-1f59568c5a962ad1f0bf4168c7352745]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f59568c5a962ad1f0bf4168c7352745]: Commencement: Art. 13 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-1f59568c5a962ad1f0bf4168c7352745]: Commencement: Art. 13 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00046]: Footnote: Section 10(2) was amended by section 22(2)(a) of the 1991 Act, and by section 1(6) of, and paragraph 10(1) and (2) of Schedule 1 to, the Infrastructure Act 2015.

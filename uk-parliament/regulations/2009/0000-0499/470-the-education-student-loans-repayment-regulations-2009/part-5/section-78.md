@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Foreclosure[^key-ea6a5513703226e449480e79483e228d]
+## 78. Foreclosure[^c-ea6a5513703226e449480e79483e228d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a borrower does not pay an instalment or other amount when it is due, the Aut
 
 ## Annotations
 
-[^key-ea6a5513703226e449480e79483e228d]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2009/470/regulation/78) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-ea6a5513703226e449480e79483e228d]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2009/470/regulation/78) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

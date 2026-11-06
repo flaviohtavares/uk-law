@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Further education teachers[^key-d08b79365a7db1d25ccd32452a07fb3b]
+## SCHEDULE 6 — Further education teachers[^c-d08b79365a7db1d25ccd32452a07fb3b]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Regulation 19
 
 ### PART 1 — Qualifications
 
-**1.**[^key-903cb89693a9e12329570c4540036e74] Table 1: Wales
+**1.**[^c-903cb89693a9e12329570c4540036e74] Table 1: Wales
 
 | Qualifications in relation to Wales | Awarding Body |
 | --- | --- |
@@ -234,7 +234,7 @@ Regulation 19
 | Professional Graduate Diploma in Education in Physics with Balanced Science | Aberystwyth University |
 | Professional Graduate Diploma in Medical and Health Professions Education | Bangor University |
 
-**2.**[^key-fbe7ea91b345d8139529bae53319bbad] Table 2: England
+**2.**[^c-fbe7ea91b345d8139529bae53319bbad] Table 2: England
 
 | Qualifications in relation to England | Awarding Body |
 | --- | --- |
@@ -624,7 +624,7 @@ Regulation 19
 | Teaching Mathematics Numeracy in the Lifelong Learning Sector | City and Guilds of London Institute |
 | Teaching Other Subjects in English | Gatehouse Awards Ltd |
 
-**3.**[^key-664f351b37a2ab993e1c87d75056b97b] Table 3: Scotland
+**3.**[^c-664f351b37a2ab993e1c87d75056b97b] Table 3: Scotland
 
 | Qualifications in relation to Scotland | Awarding Body |
 | --- | --- |
@@ -685,7 +685,7 @@ Regulation 19
 | Professional Graduate Diploma in Education in Secondary Education | University of Aberdeen<br>University of Edinburgh<br>University of Glasgow<br>University of Strathclyde<br>University of the Highlands and Islands |
 | Teaching Qualification Further Education | University of the Highlands and Islands |
 
-**4.**[^key-6f8be4496d01dbc0134cb86ea21f3d10] Table 4: Northern Ireland
+**4.**[^c-6f8be4496d01dbc0134cb86ea21f3d10] Table 4: Northern Ireland
 
 | Qualifications in relation to Northern Ireland | Awarding Body |
 | --- | --- |
@@ -737,12 +737,12 @@ Regulation 19
 
 ## Annotations
 
-[^key-d08b79365a7db1d25ccd32452a07fb3b]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2015/140/schedule/6) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [12](https://www.legislation.gov.uk/wsi/2024/613/article/12)
+[^c-d08b79365a7db1d25ccd32452a07fb3b]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2015/140/schedule/6) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [12](https://www.legislation.gov.uk/wsi/2024/613/article/12)
 
-[^key-903cb89693a9e12329570c4540036e74]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/1) Table 1 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/1) Table 1
+[^c-903cb89693a9e12329570c4540036e74]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/1) Table 1 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/1) Table 1
 
-[^key-fbe7ea91b345d8139529bae53319bbad]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/2) Table 2 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/2) Table 2
+[^c-fbe7ea91b345d8139529bae53319bbad]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/2) Table 2 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/2) Table 2
 
-[^key-664f351b37a2ab993e1c87d75056b97b]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/3) Table 3 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/3) Table 3
+[^c-664f351b37a2ab993e1c87d75056b97b]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/3) Table 3 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/3) Table 3
 
-[^key-6f8be4496d01dbc0134cb86ea21f3d10]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/4) Table 4 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/4) Table 4
+[^c-6f8be4496d01dbc0134cb86ea21f3d10]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/wsi/2015/140/schedule/6/paragraph/4) Table 4 substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2026/51/schedule/paragraph/4) Table 4

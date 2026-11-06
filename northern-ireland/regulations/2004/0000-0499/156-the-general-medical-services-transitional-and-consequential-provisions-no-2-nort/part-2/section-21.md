@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Withdrawal of approval of premises under paragraph 37 of Schedule 2 to the 1997 Regulations[^key-3c137ce95d3bb15473b0df221e011865]
+## 21. Withdrawal of approval of premises under paragraph 37 of Schedule 2 to the 1997 Regulations[^c-3c137ce95d3bb15473b0df221e011865]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ that appeal shall be dealt with or continue to be dealt with as if paragraph 36 
 
 ## Annotations
 
-[^key-3c137ce95d3bb15473b0df221e011865]: Commencement: Art. 21 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-3c137ce95d3bb15473b0df221e011865]: Commencement: Art. 21 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

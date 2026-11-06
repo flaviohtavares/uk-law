@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Street works and temporary closure of streets and private means of access[^key-ab9b3a2c354579623e730c980649266d]
+## 10. Street works and temporary closure of streets and private means of access[^c-ab9b3a2c354579623e730c980649266d]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (2) The authority given by paragraph (1) is a statutory right or licence for the purposes of sections 48(3) (streets, street works and undertakers) and 51(1) (prohibition of unauthorised street works) of the 1991 Act.
 
-(3) Where the undertaker is not the street authority, the provisions of sections 54 (advance notice of certain works)[^key-784da6b14ebbe502f3f59329f51120bc] to 106 (index of defined expressions) of the 1991 Act apply to any street works carried out under paragraph (1).
+(3) Where the undertaker is not the street authority, the provisions of sections 54 (advance notice of certain works)[^c-784da6b14ebbe502f3f59329f51120bc] to 106 (index of defined expressions) of the 1991 Act apply to any street works carried out under paragraph (1).
 
 (4) The undertaker, during and for the purposes of carrying out or operating the authorised development, may temporarily close, alter or divert any street or private means of access and may for any reasonable time—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab9b3a2c354579623e730c980649266d]: Commencement: Art. 10 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-ab9b3a2c354579623e730c980649266d]: Commencement: Art. 10 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-784da6b14ebbe502f3f59329f51120bc]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2025/1175/article/10/3) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
+[^c-784da6b14ebbe502f3f59329f51120bc]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2025/1175/article/10/3) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)

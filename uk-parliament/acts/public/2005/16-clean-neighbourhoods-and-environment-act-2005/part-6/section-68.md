@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Termination of police responsibility for stray dogs[^key-ad814b4f04d95282bad2d23ea021b321]
+## 68. Termination of police responsibility for stray dogs[^c-ad814b4f04d95282bad2d23ea021b321]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad814b4f04d95282bad2d23ea021b321]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2005/16/section/68) in force at 6.4.2008 by [S.I. 2008/956](https://www.legislation.gov.uk/uksi/2008/956), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/956/article/2/a)
+[^c-ad814b4f04d95282bad2d23ea021b321]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2005/16/section/68) in force at 6.4.2008 by [S.I. 2008/956](https://www.legislation.gov.uk/uksi/2008/956), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/956/article/2/a)

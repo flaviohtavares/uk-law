@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 200. Recourse to the court[^key-e43e0c4b37c50e88afc9d1ddeaa25140]
+## 200. Recourse to the court[^c-e43e0c4b37c50e88afc9d1ddeaa25140]
 
 *Extent: E+W*
 
@@ -35,9 +35,9 @@ is insufficient or inappropriate, the administrator may apply to the court for a
 
 (5) If there is no creditors’ committee, the notice of the application shall be sent to such one or more of the investment bank’s creditors or clients as the court may direct; those creditors or clients shall nominate one or more of their number to appear or be represented.
 
-(6) Notice of the application shall also be given to the FCA[^key-f85e0ee940ff87a22cd91b9320467c86] and the FCA may nominate a person to appear and be heard on the application.
+(6) Notice of the application shall also be given to the FCA[^c-f85e0ee940ff87a22cd91b9320467c86] and the FCA may nominate a person to appear and be heard on the application.
 
-(6A)[^key-42bfa31456ac44636a3661ae1956fcc8] If the investment bank concerned is a PRA-authorised person, notice of the application shall also be given to the PRA and the PRA may nominate a person to appear and be heard on the application.
+(6A)[^c-42bfa31456ac44636a3661ae1956fcc8] If the investment bank concerned is a PRA-authorised person, notice of the application shall also be given to the PRA and the PRA may nominate a person to appear and be heard on the application.
 
 (7) In a special administration (bank administration), before the Bank of England has given an Objective A Achievement Notice, the court on hearing an application under this rule shall have regard to the achievement of Objective A.
 
@@ -45,8 +45,8 @@ is insufficient or inappropriate, the administrator may apply to the court for a
 
 ## Annotations
 
-[^key-e43e0c4b37c50e88afc9d1ddeaa25140]: Commencement: [Rule 200](https://www.legislation.gov.uk/uksi/2011/1301/rule/200) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-e43e0c4b37c50e88afc9d1ddeaa25140]: Commencement: [Rule 200](https://www.legislation.gov.uk/uksi/2011/1301/rule/200) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-f85e0ee940ff87a22cd91b9320467c86]: Textual amendment: Words in [art. 200(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/200/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(s)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/s/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-f85e0ee940ff87a22cd91b9320467c86]: Textual amendment: Words in [art. 200(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/200/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(s)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/s/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-42bfa31456ac44636a3661ae1956fcc8]: Textual amendment: [Art. 200(6A)](https://www.legislation.gov.uk/uksi/2011/1301/article/200/6A) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(s)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/s/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-42bfa31456ac44636a3661ae1956fcc8]: Textual amendment: [Art. 200(6A)](https://www.legislation.gov.uk/uksi/2011/1301/article/200/6A) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(s)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/s/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

@@ -44,15 +44,15 @@ In accordance with sections 1097A(10) and 1290 of the Companies Act 2006, a draf
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-8a24d310536809d7111858070cd2c1a8]
+### 1. Citation, commencement and extent[^c-8a24d310536809d7111858070cd2c1a8]
 
 (1) These Regulations may be cited as the Registered Office Address (Rectification of Register) Regulations 2024.
 
-(2) These Regulations come into force on 4th March 2024[^key-0344eba0dd7745cf38aba847f4e30fda].
+(2) These Regulations come into force on 4th March 2024[^c-0344eba0dd7745cf38aba847f4e30fda].
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-31b2b6624c42fdbf04d82672e79ea570][^key-780685ed6bd46165aaf91a7177352b36]
+### 2. Interpretation[^c-31b2b6624c42fdbf04d82672e79ea570][^c-780685ed6bd46165aaf91a7177352b36]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 
 ## Part 2 — Default address
 
-### 3. Nomination of default address[^key-b8f0480e7c969fa340d1a3ce1bc25d49][^key-780685ed6bd46165aaf91a7177352b36]
+### 3. Nomination of default address[^c-b8f0480e7c969fa340d1a3ce1bc25d49][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) The registrar must nominate one or more addresses to be default addresses for the purposes of these Regulations (which need not be appropriate addresses[^f00004]).
 
@@ -75,7 +75,7 @@ In these Regulations—
 
 ## Part 3 — Application to registrar
 
-### 4. Application for address to be changed[^key-97b40ae10d221e891773dfbf0c8d939b][^key-780685ed6bd46165aaf91a7177352b36]
+### 4. Application for address to be changed[^c-97b40ae10d221e891773dfbf0c8d939b][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) Any person may apply to the registrar to change the address of a company’s registered office in accordance with these Regulations if the person thinks that the address is not an appropriate address.
 
@@ -87,7 +87,7 @@ In these Regulations—
 
 (3) The application must be accompanied by any information that the applicant wishes to rely on in support of the application.
 
-### 5. Notification of outcome of application[^key-02c6f411761a195fac4aced206c9aecb][^key-780685ed6bd46165aaf91a7177352b36]
+### 5. Notification of outcome of application[^c-02c6f411761a195fac4aced206c9aecb][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) The registrar must give the applicant a written notice stating the outcome of any application under regulation 4.
 
@@ -95,7 +95,7 @@ In these Regulations—
 
 ## Part 4 — Change of address to default address with prior notice
 
-### 6. Notice that registrar intends to change address to default address[^key-23e38ec1e48115692e266ae3f99059e5][^key-780685ed6bd46165aaf91a7177352b36]
+### 6. Notice that registrar intends to change address to default address[^c-23e38ec1e48115692e266ae3f99059e5][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) Where the registrar is satisfied that the address of a company’s registered office is not an appropriate address and regulation 10 (power to change address to default address without notice) does not apply, the registrar must give the company a written notice in accordance with this regulation.
 
@@ -112,7 +112,7 @@ In these Regulations—
 
 (6) In this Part “**the specified period**” means the period of 14 days beginning with the day on which a notice is given under paragraph (1).
 
-### 7. Registrar duty to change address to default address[^key-1ccd44dd14920e68f53d3706218d8846][^key-780685ed6bd46165aaf91a7177352b36]
+### 7. Registrar duty to change address to default address[^c-1ccd44dd14920e68f53d3706218d8846][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) Where the registrar has given a company a notice under regulation 6 the registrar must change the address of the company’s registered office to a default address if—
 
@@ -123,7 +123,7 @@ In these Regulations—
 
 (3) The change in the address of the company’s registered office is effected by the registrar proceeding as if the company had given notice under section 87 of the Act.
 
-### 8. Notice of change of address under regulation 7[^key-5a61d0c2b4a6cfeeaa8959dcc37ca751][^key-780685ed6bd46165aaf91a7177352b36]
+### 8. Notice of change of address under regulation 7[^c-5a61d0c2b4a6cfeeaa8959dcc37ca751][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) If the registrar changes the address of a company’s registered office under regulation 7, the registrar must give the company a written notice of the change.
 
@@ -137,13 +137,13 @@ In these Regulations—
 
 (3) The notice must be accompanied by a description of any information on which the registrar relied in deciding to change the address.
 
-### 9. Notice of decision not to change address under regulation 7[^key-f078afe1457b1dcc98873d3516a168db][^key-780685ed6bd46165aaf91a7177352b36]
+### 9. Notice of decision not to change address under regulation 7[^c-f078afe1457b1dcc98873d3516a168db][^c-780685ed6bd46165aaf91a7177352b36]
 
 If the registrar has given the company a notice under regulation 6 and decides not to change the address of its registered office, the registrar must give the company a written notice of that fact.
 
 ## Part 5 — Change of address to default address without prior notice
 
-### 10. Power to change address to default address without notice[^key-6c7bdf2c1a8c3d47053b91656d415fda][^key-780685ed6bd46165aaf91a7177352b36]
+### 10. Power to change address to default address without notice[^c-6c7bdf2c1a8c3d47053b91656d415fda][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) This regulation applies where the registrar—
 
@@ -156,7 +156,7 @@ If the registrar has given the company a notice under regulation 6 and decides n
 
 (4) The registrar may act under this regulation on the registrar’s own motion or following an application under regulation 4.
 
-### 11. Notice of change of address under regulation 10[^key-07be8cc1678abd01cda0f50574bfa665][^key-780685ed6bd46165aaf91a7177352b36]
+### 11. Notice of change of address under regulation 10[^c-07be8cc1678abd01cda0f50574bfa665][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) If the registrar changes the address of a company’s registered office under regulation 10, the registrar must give the company a written notice of the change.
 
@@ -173,7 +173,7 @@ If the registrar has given the company a notice under regulation 6 and decides n
 
 ## Part 6 — Change of address from one default address to another default address
 
-### 12. Change of default address[^key-b5e3c2f7a88278d56c3b4210e6ee9c4f][^key-780685ed6bd46165aaf91a7177352b36]
+### 12. Change of default address[^c-b5e3c2f7a88278d56c3b4210e6ee9c4f][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) This regulation applies where—
 
@@ -193,7 +193,7 @@ If the registrar has given the company a notice under regulation 6 and decides n
 
 ## Part 7 — Appeals to the court
 
-### 13. Appeal by company[^key-c370059dac7250a265acb5cb4dd179ef][^key-780685ed6bd46165aaf91a7177352b36]
+### 13. Appeal by company[^c-c370059dac7250a265acb5cb4dd179ef][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) If the registrar changes the address of a company’s registered office under regulation 7 or 10 the company may appeal to the court.
 
@@ -201,7 +201,7 @@ If the registrar has given the company a notice under regulation 6 and decides n
 
 (3) In determining an appeal the court may take into account evidence that was not available to the registrar.
 
-### 14. Appeal by applicant[^key-80f053168553a1ff4bc750ee4398f057][^key-780685ed6bd46165aaf91a7177352b36]
+### 14. Appeal by applicant[^c-80f053168553a1ff4bc750ee4398f057][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) A person who applies to the registrar under regulation 4 to change the address of a company’s registered office may appeal to the court if the application is unsuccessful.
 
@@ -209,26 +209,26 @@ If the registrar has given the company a notice under regulation 6 and decides n
 
 ## Part 8 — Effect of change to default address
 
-### 15. Valid service at previous address[^key-c46a342bc5023e92ad76b2bba02087d6][^key-780685ed6bd46165aaf91a7177352b36]
+### 15. Valid service at previous address[^c-c46a342bc5023e92ad76b2bba02087d6][^c-780685ed6bd46165aaf91a7177352b36]
 
 Where the registrar changes the address of a company’s registered office to a default address under these Regulations (including where the registrar changes the address from one default address to another default address), a person may validly serve any document on the company at the old address during the period of 14 days beginning with the day on which it was changed.
 
-### 16. Suspension of duties about making records available for inspection[^key-c8afc4c8e24f46a8fadfeb5d3616f4d5][^key-780685ed6bd46165aaf91a7177352b36]
+### 16. Suspension of duties about making records available for inspection[^c-c8afc4c8e24f46a8fadfeb5d3616f4d5][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) Where the registrar changes the address of a company’s registered office from an address which is not a default address to a default address, the following duties do not apply in relation to the company during the suspension period (see paragraphs (2) and (3))—
 
 - (a) the duty under any of the following sections of the Act to make company records available for inspection—
   - (i) section 114 (register of members);
-  - (ii)[^key-5a65f08d4cd634c509781b12109f9237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-5a65f08d4cd634c509781b12109f9237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) section 228 (directors’ service contracts or memorandum of terms);
   - (iv) section 237 (directors’ indemnities);
-  - (v)[^key-98e0034d705944a0179d517ca322b73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-98e0034d705944a0179d517ca322b73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) section 358 (records of resolutions etc);
   - (vii) section 388 (accounting records);
   - (viii) section 702 (contracts relating to the purchase of own shares);
   - (ix) section 720 (directors’ statement and auditor’s report to be available for inspection);
   - (x) section 743 (register of debenture holders);
-  - (xi)[^key-6c78c777854d7685654e8edadb242b6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (xi)[^c-6c78c777854d7685654e8edadb242b6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (xii) section 805 (report to members of outcome of investigation by public company into interests in its shares);
   - (xiii) section 809 (register of interests in shares disclosed to public company), and
   - (xiv) sections 859P and 859Q (instruments creating and amending charges);
@@ -247,11 +247,11 @@ Where the registrar changes the address of a company’s registered office to a 
   - (ii) the end of the period of 7 days beginning with the day on which a new address is registered at the direction of the court following final determination of the appeal in the applicant’s favour, or
   - (iii) the day on which the appeal is withdrawn.
 
-### 17. Administration of the default address[^key-4d0f8cf02731f95995a342a179bcd239][^key-780685ed6bd46165aaf91a7177352b36]
+### 17. Administration of the default address[^c-4d0f8cf02731f95995a342a179bcd239][^c-780685ed6bd46165aaf91a7177352b36]
 
 Where a company has had its registered office address changed to a default address in accordance with these Regulations, the company may not display its name, or keep, display, or make available for inspection, its registers, indexes or other documents at the default address.
 
-### 18. Collection and destruction of documents[^key-e9775daeabd3872543b0049fe09325b6][^key-780685ed6bd46165aaf91a7177352b36]
+### 18. Collection and destruction of documents[^c-e9775daeabd3872543b0049fe09325b6][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) If the address of a company’s registered office is changed to a default address (including from one default address to another default address) the registrar must facilitate the collection by the company of any documents delivered to the company at that address.
 
@@ -260,13 +260,13 @@ Where a company has had its registered office address changed to a default addre
 - (a) it is not collected within the period of 6 months beginning with the day on which it is delivered, or
 - (b) the company is struck off.
 
-### 19. No duty on registrar to forward documents[^key-3af441cdd28e7c2b26fc4e64aaecc44c][^key-780685ed6bd46165aaf91a7177352b36]
+### 19. No duty on registrar to forward documents[^c-3af441cdd28e7c2b26fc4e64aaecc44c][^c-780685ed6bd46165aaf91a7177352b36]
 
 Where a company has changed the address of its registered office from a default address to a new address under section 87 of the Act, the registrar is under no duty to forward any documents delivered to the company at the default address to the new address.
 
 ## Part 9 — Requirement to move registered office from default address
 
-### 20. Duty to move registered office from default address within compliance period[^key-32857691f1892c4ffb0712d68d773342][^key-780685ed6bd46165aaf91a7177352b36]
+### 20. Duty to move registered office from default address within compliance period[^c-32857691f1892c4ffb0712d68d773342][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) This regulation applies to a company that has had the address of its registered office changed to a default address under either—
 
@@ -289,7 +289,7 @@ unless an appeal is brought within that period.
   - (i) the end of the period of 7 days beginning with the day on which the appeal is finally determined in the registrar’s favour, or
   - (ii) the day on which the appeal is withdrawn.
 
-### 21. Offence of failure to comply with regulation 20[^key-829950bbb2e0100163fa0994a035f606][^key-780685ed6bd46165aaf91a7177352b36]
+### 21. Offence of failure to comply with regulation 20[^c-829950bbb2e0100163fa0994a035f606][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) If a company fails, without reasonable excuse, to comply with regulation 20 an offence is committed by—
 
@@ -300,7 +300,7 @@ unless an appeal is brought within that period.
 
 (3) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
 
-### 22. Striking off a company that fails to comply with regulation 20[^key-0ca6bd99545b80222f3053a701ae12a6][^key-780685ed6bd46165aaf91a7177352b36]
+### 22. Striking off a company that fails to comply with regulation 20[^c-0ca6bd99545b80222f3053a701ae12a6][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) The registrar may strike a company’s name off the register if the company has failed to comply with regulation 20.
 
@@ -318,7 +318,7 @@ unless an appeal is brought within that period.
 - (a) the liability (if any) of every director, managing officer and member of the company continues and may be enforced as if the company had not been dissolved, and
 - (b) nothing in this paragraph affects the power of the court to wind up a company the name of which has been struck off the register.
 
-### 23. Restoration of struck-off company[^key-99f84c424f63538874a5dfcef643b923][^key-780685ed6bd46165aaf91a7177352b36]
+### 23. Restoration of struck-off company[^c-99f84c424f63538874a5dfcef643b923][^c-780685ed6bd46165aaf91a7177352b36]
 
 (1) Chapter 3 of Part 31 of the Act applies in relation to a company struck off under regulation 22 as it applies to a company struck off under section 1000 of the Act, subject to the modification in paragraph (2).
 
@@ -326,11 +326,11 @@ unless an appeal is brought within that period.
 
 ## Part 10 — Revocation and Transitional Provision
 
-### 24. Revocation[^key-b5b2e2cf5bdc28494ed01ee722a71b63]
+### 24. Revocation[^c-b5b2e2cf5bdc28494ed01ee722a71b63]
 
 The 2016 Regulations are revoked.
 
-### 25. Transitional provision[^key-e826b79a85f1fa1ce42a9f00cb260978][^key-96649541b279bb71e4acfa21776fb8d9]
+### 25. Transitional provision[^c-e826b79a85f1fa1ce42a9f00cb260978][^c-96649541b279bb71e4acfa21776fb8d9]
 
 (1) An application made or notice given under a provision of the 2016 Regulations specified in column 2 of the table is to be treated, after the commencement of these Regulations—
 
@@ -395,76 +395,76 @@ No impact assessment has been prepared in connection with these Regulations.
 
 [^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1097A was inserted by section 99(1) of the Small Business and Enterprise Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) and amended by section 105 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-8a24d310536809d7111858070cd2c1a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/233/regulation/1) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-8a24d310536809d7111858070cd2c1a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/233/regulation/1) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-0344eba0dd7745cf38aba847f4e30fda]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/3)
+[^c-0344eba0dd7745cf38aba847f4e30fda]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/3)
 
-[^key-31b2b6624c42fdbf04d82672e79ea570]: Commencement: Reg. 2 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-31b2b6624c42fdbf04d82672e79ea570]: Commencement: Reg. 2 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-780685ed6bd46165aaf91a7177352b36]: Modification: Regs. 2-23 applied (with modifications) (4.3.2024) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1097A](https://www.legislation.gov.uk/ukpga/2006/46/section/1097A) (as modified by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) (as amended by [S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/234/regulation/39); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a) and (18.11.2025) by [S.I. 2025/1116](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/4); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g))
+[^c-780685ed6bd46165aaf91a7177352b36]: Modification: Regs. 2-23 applied (with modifications) (4.3.2024) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1097A](https://www.legislation.gov.uk/ukpga/2006/46/section/1097A) (as modified by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) (as amended by [S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/234/regulation/39); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a) and (18.11.2025) by [S.I. 2025/1116](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/4); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g))
 
 [^f00003]: Footnote: [S.I. 2016/423](https://www.legislation.gov.uk/uksi/2016/423).
 
-[^key-b8f0480e7c969fa340d1a3ce1bc25d49]: Commencement: Reg. 3 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-b8f0480e7c969fa340d1a3ce1bc25d49]: Commencement: Reg. 3 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
 [^f00004]: Footnote: See section 86 of the Act, which was substituted by section 28 of the Economic Crime and Corporate Transparency Act 2023.
 
 [^f00005]: Footnote: See section 1117 of the Act.
 
-[^key-97b40ae10d221e891773dfbf0c8d939b]: Commencement: Reg. 4 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-97b40ae10d221e891773dfbf0c8d939b]: Commencement: Reg. 4 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-02c6f411761a195fac4aced206c9aecb]: Commencement: Reg. 5 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-02c6f411761a195fac4aced206c9aecb]: Commencement: Reg. 5 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-23e38ec1e48115692e266ae3f99059e5]: Commencement: Reg. 6 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-23e38ec1e48115692e266ae3f99059e5]: Commencement: Reg. 6 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-1ccd44dd14920e68f53d3706218d8846]: Commencement: Reg. 7 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-1ccd44dd14920e68f53d3706218d8846]: Commencement: Reg. 7 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-5a61d0c2b4a6cfeeaa8959dcc37ca751]: Commencement: Reg. 8 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-5a61d0c2b4a6cfeeaa8959dcc37ca751]: Commencement: Reg. 8 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-f078afe1457b1dcc98873d3516a168db]: Commencement: Reg. 9 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-f078afe1457b1dcc98873d3516a168db]: Commencement: Reg. 9 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-6c7bdf2c1a8c3d47053b91656d415fda]: Commencement: Reg. 10 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-6c7bdf2c1a8c3d47053b91656d415fda]: Commencement: Reg. 10 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-07be8cc1678abd01cda0f50574bfa665]: Commencement: Reg. 11 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-07be8cc1678abd01cda0f50574bfa665]: Commencement: Reg. 11 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-b5e3c2f7a88278d56c3b4210e6ee9c4f]: Commencement: Reg. 12 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-b5e3c2f7a88278d56c3b4210e6ee9c4f]: Commencement: Reg. 12 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-c370059dac7250a265acb5cb4dd179ef]: Commencement: Reg. 13 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-c370059dac7250a265acb5cb4dd179ef]: Commencement: Reg. 13 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-80f053168553a1ff4bc750ee4398f057]: Commencement: Reg. 14 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-80f053168553a1ff4bc750ee4398f057]: Commencement: Reg. 14 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-c46a342bc5023e92ad76b2bba02087d6]: Commencement: Reg. 15 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-c46a342bc5023e92ad76b2bba02087d6]: Commencement: Reg. 15 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-c8afc4c8e24f46a8fadfeb5d3616f4d5]: Commencement: Reg. 16 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-c8afc4c8e24f46a8fadfeb5d3616f4d5]: Commencement: Reg. 16 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-5a65f08d4cd634c509781b12109f9237]: Textual amendment: [Reg. 16(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/233/regulation/16/1/a/ii) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-5a65f08d4cd634c509781b12109f9237]: Textual amendment: [Reg. 16(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/233/regulation/16/1/a/ii) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-98e0034d705944a0179d517ca322b73e]: Textual amendment: [Reg. 16(1)(a)(v)](https://www.legislation.gov.uk/uksi/2024/233/regulation/16/1/a/v) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-98e0034d705944a0179d517ca322b73e]: Textual amendment: [Reg. 16(1)(a)(v)](https://www.legislation.gov.uk/uksi/2024/233/regulation/16/1/a/v) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-6c78c777854d7685654e8edadb242b6b]: Textual amendment: [Reg. 16(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2024/233/regulation/16/1/a/xi) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-6c78c777854d7685654e8edadb242b6b]: Textual amendment: [Reg. 16(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2024/233/regulation/16/1/a/xi) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
 [^f00006]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755). Amended by article 2(21)(g) to (l) of [S.I. 2009/1889](https://www.legislation.gov.uk/uksi/2009/1889).
 
 [^f00007]: Footnote: [S.I. 2015/17](https://www.legislation.gov.uk/uksi/2015/17).
 
-[^key-4d0f8cf02731f95995a342a179bcd239]: Commencement: Reg. 17 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-4d0f8cf02731f95995a342a179bcd239]: Commencement: Reg. 17 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-e9775daeabd3872543b0049fe09325b6]: Commencement: Reg. 18 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-e9775daeabd3872543b0049fe09325b6]: Commencement: Reg. 18 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-3af441cdd28e7c2b26fc4e64aaecc44c]: Commencement: Reg. 19 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-3af441cdd28e7c2b26fc4e64aaecc44c]: Commencement: Reg. 19 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-32857691f1892c4ffb0712d68d773342]: Commencement: Reg. 20 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-32857691f1892c4ffb0712d68d773342]: Commencement: Reg. 20 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-829950bbb2e0100163fa0994a035f606]: Commencement: Reg. 21 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-829950bbb2e0100163fa0994a035f606]: Commencement: Reg. 21 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
 [^f00008]: Footnote: See section 1121(3) of the Act for the meaning of “in default”.
 
-[^key-0ca6bd99545b80222f3053a701ae12a6]: Commencement: Reg. 22 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-0ca6bd99545b80222f3053a701ae12a6]: Commencement: Reg. 22 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-99f84c424f63538874a5dfcef643b923]: Commencement: Reg. 23 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-99f84c424f63538874a5dfcef643b923]: Commencement: Reg. 23 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-b5b2e2cf5bdc28494ed01ee722a71b63]: Commencement: Reg. 24 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-b5b2e2cf5bdc28494ed01ee722a71b63]: Commencement: Reg. 24 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-e826b79a85f1fa1ce42a9f00cb260978]: Commencement: Reg. 25 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-e826b79a85f1fa1ce42a9f00cb260978]: Commencement: Reg. 25 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-96649541b279bb71e4acfa21776fb8d9]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/233/regulation/25) applied (with modifications) (4.3.2024) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1097A](https://www.legislation.gov.uk/ukpga/2006/46/section/1097A) (as modified by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) (as amended by [S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/234/regulation/39); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-96649541b279bb71e4acfa21776fb8d9]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/233/regulation/25) applied (with modifications) (4.3.2024) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1097A](https://www.legislation.gov.uk/ukpga/2006/46/section/1097A) (as modified by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) (as amended by [S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/234/regulation/39); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))

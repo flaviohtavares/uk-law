@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Escalation of sanctions: transition from old style ESA[^key-96a02945fdaccc0944cf1c0e14fd0463]
+## 32. Escalation of sanctions: transition from old style ESA[^c-96a02945fdaccc0944cf1c0e14fd0463]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ is, subject to paragraph (3), to be treated as arising from a sanctionable failu
 
 ## Annotations
 
-[^key-96a02945fdaccc0944cf1c0e14fd0463]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2016/226/regulation/32) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-96a02945fdaccc0944cf1c0e14fd0463]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2016/226/regulation/32) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

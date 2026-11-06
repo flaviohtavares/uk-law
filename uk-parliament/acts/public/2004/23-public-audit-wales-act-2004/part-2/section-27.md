@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section applies where under section 22(5) the Auditor General for Wales[^key-e874232bcd8bb2171e071c861bd86bbc] has sent a report made under section 22(3) to a body.
+(1) This section applies where under section 22(5) the Auditor General for Wales[^c-e874232bcd8bb2171e071c861bd86bbc] has sent a report made under section 22(3) to a body.
 
 (2) From the time when the report is received by the body any member of the public may—
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) identify the subject-matter of the report, and
 - (b) state that any member of the public may inspect the report and make a copy of it or any part of it between such times and at such place or places as are specified in the notice.
 
-(5) The Auditor General for Wales[^key-d635f83da91583b8e8bba7bc45053db6] may—
+(5) The Auditor General for Wales[^c-d635f83da91583b8e8bba7bc45053db6] may—
 
 - (a) notify any person that he has made the report;
 - (b) supply a copy of the report or of any part of it to any person.
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e874232bcd8bb2171e071c861bd86bbc]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2004/23/section/27/1) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/32/2) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-e874232bcd8bb2171e071c861bd86bbc]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2004/23/section/27/1) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/32/2) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-d635f83da91583b8e8bba7bc45053db6]: Textual amendment: Words in [s. 27(5)](https://www.legislation.gov.uk/ukpga/2004/23/section/27/5) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 32(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/32/3) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-d635f83da91583b8e8bba7bc45053db6]: Textual amendment: Words in [s. 27(5)](https://www.legislation.gov.uk/ukpga/2004/23/section/27/5) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 32(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/32/3) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

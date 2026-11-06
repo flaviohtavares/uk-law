@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — TEMPORARY CLOSURE AND WORKS IN THE CANAL[^key-59032128359c40624309e17e584ee304]
+## SCHEDULE 7 — TEMPORARY CLOSURE AND WORKS IN THE CANAL[^c-59032128359c40624309e17e584ee304]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Article 19
 
 ## Annotations
 
-[^key-59032128359c40624309e17e584ee304]: Commencement: Sch. 7 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-59032128359c40624309e17e584ee304]: Commencement: Sch. 7 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

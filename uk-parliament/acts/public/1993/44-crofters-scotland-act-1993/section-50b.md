@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50B. Use of common grazing for other purposes[^key-511da94b82c6a0b0929af06c0611cc52]
+## 50B. Use of common grazing for other purposes[^c-511da94b82c6a0b0929af06c0611cc52]
 
 *Extent: S*
 
@@ -49,30 +49,30 @@ summary: ''
 
 (5) A crofter who is unable to attend the meeting so summoned but who has notified the grazings committee (or grazings constable) of that circumstance may vote by proxy or by post (provided that any vote posted shall be valid only if received by the committee before the meeting).
 
-(6) If the vote is in favour of the proposal the committee (or grazings constable) shall[^key-102b6c76557cbe64226ef1b5e4443d58]... apply to the Commission seeking their approval for its implementation.
+(6) If the vote is in favour of the proposal the committee (or grazings constable) shall[^c-102b6c76557cbe64226ef1b5e4443d58]... apply to the Commission seeking their approval for its implementation.
 
-(7)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-3dd2accb42b073a46d016dd11490cdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-511da94b82c6a0b0929af06c0611cc52]: Textual amendment: S. 50A, 50B inserted (25.6.2007 for the insertion of s. 50A, 28.1.2008 in force in so far as not already in force) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 26(2)](https://www.legislation.gov.uk/asp/2007/7/section/26/2), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), art. 2
+[^c-511da94b82c6a0b0929af06c0611cc52]: Textual amendment: S. 50A, 50B inserted (25.6.2007 for the insertion of s. 50A, 28.1.2008 in force in so far as not already in force) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 26(2)](https://www.legislation.gov.uk/asp/2007/7/section/26/2), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), art. 2
 
-[^key-102b6c76557cbe64226ef1b5e4443d58]: Textual amendment: Words in s. 50B(6) repealed (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(30)(a)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/30/a) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-102b6c76557cbe64226ef1b5e4443d58]: Textual amendment: Words in s. 50B(6) repealed (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(30)(a)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/30/a) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
 
-[^key-3dd2accb42b073a46d016dd11490cdf3]: Textual amendment: Ss. 50B(7)-(15) repealed (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(30)(b)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/30/b) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-3dd2accb42b073a46d016dd11490cdf3]: Textual amendment: Ss. 50B(7)-(15) repealed (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(30)(b)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/30/b) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

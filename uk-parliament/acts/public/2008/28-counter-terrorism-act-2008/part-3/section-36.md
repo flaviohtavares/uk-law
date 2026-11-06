@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Forfeiture: supplementary provisions[^key-485f0658d07e920c8e197f0fb9343a57]
+## 36. Forfeiture: supplementary provisions[^c-485f0658d07e920c8e197f0fb9343a57]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ After section 23A of the Terrorism Act 2000 (c. 11) (inserted by section 35 abov
 
 ## Annotations
 
-[^key-485f0658d07e920c8e197f0fb9343a57]: Commencement: S. 36 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-485f0658d07e920c8e197f0fb9343a57]: Commencement: S. 36 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)

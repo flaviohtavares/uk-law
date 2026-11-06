@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Excise duty point and payment[^M_I_59231533-4037-4f0b-982c-0f0a876f1be2][^key-7a16eb6e455e060a67dc4d264914c623]
+## 49. Excise duty point and payment[^M_I_59231533-4037-4f0b-982c-0f0a876f1be2][^c-7a16eb6e455e060a67dc4d264914c623]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_59231533-4037-4f0b-982c-0f0a876f1be2]: Commencement: S. 49 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-7a16eb6e455e060a67dc4d264914c623]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/30/section/49) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-7a16eb6e455e060a67dc4d264914c623]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/30/section/49) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

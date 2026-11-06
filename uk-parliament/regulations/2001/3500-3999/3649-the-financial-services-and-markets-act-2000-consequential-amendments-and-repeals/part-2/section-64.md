@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Disclosure of information by inspectors[^key-8116cffedc61ed449a7a85b7a69444fc]
+## 64. Disclosure of information by inspectors[^c-8116cffedc61ed449a7a85b7a69444fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ For paragraph (3) of Article 444A[^f00068] of the 1986 Order (disclosure of info
 
 ## Annotations
 
-[^key-8116cffedc61ed449a7a85b7a69444fc]: Commencement: Art. 64 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8116cffedc61ed449a7a85b7a69444fc]: Commencement: Art. 64 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00068]: Footnote: Article 444A was substituted by the [Companies (No. 2) (NI) Order 1990 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504) Article 16 and has been amended by the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36) Schedule 5 part II paragraph 20 and [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), Schedule 8 paragraph 13(3).

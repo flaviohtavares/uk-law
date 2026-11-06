@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This Chapter applies if—[^key-b2fb8d26c78ba327ffb1f320dd5df50f]
+(1) This Chapter applies if—[^c-b2fb8d26c78ba327ffb1f320dd5df50f]
 
-- (a) for any accounting period a company has a non-trading deficit from its loan relationships under section 301(6), and[^key-282b43ed1b168bc3264530ff69811844]
+- (a) for any accounting period a company has a non-trading deficit from its loan relationships under section 301(6), and[^c-282b43ed1b168bc3264530ff69811844]
 - (b) either—
   - (i) that accounting period begins before 1 April 2017, or
   - (ii) at the end of that accounting period the company is a charity.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2fb8d26c78ba327ffb1f320dd5df50f]: Textual amendment: Words in s. 456(1) renumbered as s. 456(1)(a) (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/3/a)
+[^c-b2fb8d26c78ba327ffb1f320dd5df50f]: Textual amendment: Words in s. 456(1) renumbered as s. 456(1)(a) (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/3/a)
 
-[^key-282b43ed1b168bc3264530ff69811844]: Textual amendment: S. 456(1)(b) and word inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/3/b)
+[^c-282b43ed1b168bc3264530ff69811844]: Textual amendment: S. 456(1)(b) and word inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/3/b)

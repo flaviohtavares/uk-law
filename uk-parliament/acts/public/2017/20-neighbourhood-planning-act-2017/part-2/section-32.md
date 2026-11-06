@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. No-scheme principle[^key-5f2cd1b51d9b842e36e2b501ec48ffc7]
+## 32. No-scheme principle[^c-5f2cd1b51d9b842e36e2b501ec48ffc7]
 
 *Extent: E+W*
 
@@ -129,8 +129,8 @@ summary: ''
 > (2) The scheme referred to in that section includes the relevant transport project only if—
 >
 > - (a) regeneration or redevelopment was part of the published justification for the relevant transport project,
-> - (b) the works comprised in the relevant transport project are first opened for use after the period of 5 years beginning with 22nd September 2017[^key-d6e4019aed301149230fd62fbaa4f74f] ,
-> - (c) the instrument authorising the compulsory acquisition of the land which is acquired for regeneration or redevelopment was made or prepared in draft on or after 22nd September 2017[^key-e5298a3e34dc2e1a93853bac9d3660d0] ,
+> - (b) the works comprised in the relevant transport project are first opened for use after the period of 5 years beginning with 22nd September 2017[^c-d6e4019aed301149230fd62fbaa4f74f] ,
+> - (c) the instrument authorising the compulsory acquisition of the land which is acquired for regeneration or redevelopment was made or prepared in draft on or after 22nd September 2017[^c-e5298a3e34dc2e1a93853bac9d3660d0] ,
 > - (d) the compulsory acquisition of that land is authorised before the end of the period of 5 years beginning with the day on which the works comprised in the relevant transport project are first opened for use, and
 > - (e) that land is in the vicinity of land comprised in the relevant transport project.
 >
@@ -167,8 +167,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5f2cd1b51d9b842e36e2b501ec48ffc7]: Commencement: S. 32 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))
+[^c-5f2cd1b51d9b842e36e2b501ec48ffc7]: Commencement: S. 32 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))
 
-[^key-d6e4019aed301149230fd62fbaa4f74f]: Textual amendment: Words in s. 32(3) substituted (22.9.2017) by [The Neighbourhood Planning Act 2017 (Commencement No. 2) Regulations 2017 (S.I. 2017/936)](https://www.legislation.gov.uk/uksi/2017/936), [reg. 6](https://www.legislation.gov.uk/uksi/2017/936/regulation/6)
+[^c-d6e4019aed301149230fd62fbaa4f74f]: Textual amendment: Words in s. 32(3) substituted (22.9.2017) by [The Neighbourhood Planning Act 2017 (Commencement No. 2) Regulations 2017 (S.I. 2017/936)](https://www.legislation.gov.uk/uksi/2017/936), [reg. 6](https://www.legislation.gov.uk/uksi/2017/936/regulation/6)
 
-[^key-e5298a3e34dc2e1a93853bac9d3660d0]: Textual amendment: Words in s. 32(3) substituted (22.9.2017) by [The Neighbourhood Planning Act 2017 (Commencement No. 2) Regulations 2017 (S.I. 2017/936)](https://www.legislation.gov.uk/uksi/2017/936), [reg. 7](https://www.legislation.gov.uk/uksi/2017/936/regulation/7)
+[^c-e5298a3e34dc2e1a93853bac9d3660d0]: Textual amendment: Words in s. 32(3) substituted (22.9.2017) by [The Neighbourhood Planning Act 2017 (Commencement No. 2) Regulations 2017 (S.I. 2017/936)](https://www.legislation.gov.uk/uksi/2017/936), [reg. 7](https://www.legislation.gov.uk/uksi/2017/936/regulation/7)

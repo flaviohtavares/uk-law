@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Article 1(F): disapplication of Convention in case of serious crime etc[^key-afd49a676f4e810036b55570760a36b5]
+## 36. Article 1(F): disapplication of Convention in case of serious crime etc[^c-afd49a676f4e810036b55570760a36b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afd49a676f4e810036b55570760a36b5]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/36/section/36) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)
+[^c-afd49a676f4e810036b55570760a36b5]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/36/section/36) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)

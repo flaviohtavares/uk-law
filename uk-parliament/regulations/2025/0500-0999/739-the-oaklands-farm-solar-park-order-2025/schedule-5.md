@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^key-d84958184ca28c9e1444a2fd044bbbbb]
+## SCHEDULE 5 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^c-d84958184ca28c9e1444a2fd044bbbbb]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 11
 
 ## Annotations
 
-[^key-d84958184ca28c9e1444a2fd044bbbbb]: Commencement: Sch. 5 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-d84958184ca28c9e1444a2fd044bbbbb]: Commencement: Sch. 5 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

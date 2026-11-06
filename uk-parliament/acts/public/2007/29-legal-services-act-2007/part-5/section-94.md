@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 94. Enforcement of notices under section 93[^key-e30d22da51e7842ed5dbed692bdcbf2f]
+## 94. Enforcement of notices under section 93[^c-e30d22da51e7842ed5dbed692bdcbf2f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e30d22da51e7842ed5dbed692bdcbf2f]: Commencement: S. 94 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-e30d22da51e7842ed5dbed692bdcbf2f]: Commencement: S. 94 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

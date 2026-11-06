@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Approval by local authority[^key-513df2f6312732e6ad15fc14aa08a494]
+## 51. Approval by local authority[^c-513df2f6312732e6ad15fc14aa08a494]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-513df2f6312732e6ad15fc14aa08a494]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2013/1/section/51) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-513df2f6312732e6ad15fc14aa08a494]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2013/1/section/51) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

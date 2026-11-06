@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Priority removal notices[^key-087a6c33c54901f17324c7b75c295e7e]
+## 20. Priority removal notices[^c-087a6c33c54901f17324c7b75c295e7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-087a6c33c54901f17324c7b75c295e7e]: Commencement: S. 20 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-087a6c33c54901f17324c7b75c295e7e]: Commencement: S. 20 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

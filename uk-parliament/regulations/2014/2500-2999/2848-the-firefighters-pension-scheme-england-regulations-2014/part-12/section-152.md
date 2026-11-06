@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Role of IQMP in determinations by the scheme manager[^key-ca3041e2f2fc609077592a23d3e1e407]
+## 152. Role of IQMP in determinations by the scheme manager[^c-ca3041e2f2fc609077592a23d3e1e407]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ the scheme manager may make a determination on the issue on such other medical e
 
 ## Annotations
 
-[^key-ca3041e2f2fc609077592a23d3e1e407]: Commencement: [Reg. 152](https://www.legislation.gov.uk/uksi/2014/2848/regulation/152) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-ca3041e2f2fc609077592a23d3e1e407]: Commencement: [Reg. 152](https://www.legislation.gov.uk/uksi/2014/2848/regulation/152) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

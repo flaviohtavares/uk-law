@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Written statements of evidence[^key-ff389bd1fb3ecc42f7b2c87f287ea6b6]
+## 44. Written statements of evidence[^c-ff389bd1fb3ecc42f7b2c87f287ea6b6]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff389bd1fb3ecc42f7b2c87f287ea6b6]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2017/544/regulation/44) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-ff389bd1fb3ecc42f7b2c87f287ea6b6]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2017/544/regulation/44) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

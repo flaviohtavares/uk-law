@@ -31,20 +31,20 @@ Channel Tunnel (Initial Finance) Act 1973 (repealed)
 
 1973 c.66
 
-[^key-0438e85ace500a5fe963051fcde087a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0438e85ace500a5fe963051fcde087a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[13th November 1973\]
 
 **No longer in force.**
 
-## 1. Initial finance for the Channel Tunnel.[^key-0438e85ace500a5fe963051fcde087a7][^key-0438e85ace500a5fe963051fcde087a7]
+## 1. Initial finance for the Channel Tunnel.[^c-0438e85ace500a5fe963051fcde087a7][^c-0438e85ace500a5fe963051fcde087a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation and short title.[^key-0438e85ace500a5fe963051fcde087a7][^key-0438e85ace500a5fe963051fcde087a7]
+## 2. Interpretation and short title.[^c-0438e85ace500a5fe963051fcde087a7][^c-0438e85ace500a5fe963051fcde087a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0438e85ace500a5fe963051fcde087a7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1973/66) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)
+[^c-0438e85ace500a5fe963051fcde087a7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1973/66) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)

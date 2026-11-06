@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. The roles and duties of each member of the crew or a remote pilot[^key-d324e690567227332e27c45039292f4d]
+## 106. The roles and duties of each member of the crew or a remote pilot[^c-d324e690567227332e27c45039292f4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d324e690567227332e27c45039292f4d]: Commencement: Reg. 106 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d324e690567227332e27c45039292f4d]: Commencement: Reg. 106 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

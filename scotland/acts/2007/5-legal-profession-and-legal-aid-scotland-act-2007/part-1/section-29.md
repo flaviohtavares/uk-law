@@ -31,7 +31,7 @@ in respect of each financial year is such amount as may be determined by the Com
 
 (3) The Commission may determine different amounts (including an amount of nil) for the complaints levy in different circumstances.
 
-(4) The Commission must, in January each year, consult each relevant professional organisation and its members , and the Scottish Ministers,[^key-4358ff8092861215c72f2a1dc3e1707c] on the Commission's proposed budget for the next financial year.
+(4) The Commission must, in January each year, consult each relevant professional organisation and its members , and the Scottish Ministers,[^c-4358ff8092861215c72f2a1dc3e1707c] on the Commission's proposed budget for the next financial year.
 
 (5) The proposed budget must—
 
@@ -51,12 +51,12 @@ provide the Commission with an estimate of the number of persons as respects who
 
 (8) The Commission must, no later than 31 March in each year, publish the responses it has received in the consultation carried out by it under subsection (4) in the immediately preceding January.
 
-(9) subsection (8)[^key-0023fc8578da4cce1b4d38166d6e41e6] does not apply to responses which are subject to an express request in writing for confidentiality.
+(9) subsection (8)[^c-0023fc8578da4cce1b4d38166d6e41e6] does not apply to responses which are subject to an express request in writing for confidentiality.
 
 (10) The Commission must lay a copy of the finalised budget before the Parliament no later than 30 April in each year.
 
 ## Annotations
 
-[^key-4358ff8092861215c72f2a1dc3e1707c]: Textual amendment: Words in s. 29(4) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 144(a)(i)](https://www.legislation.gov.uk/asp/2010/16/section/144/a/i), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-4358ff8092861215c72f2a1dc3e1707c]: Textual amendment: Words in s. 29(4) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 144(a)(i)](https://www.legislation.gov.uk/asp/2010/16/section/144/a/i), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-0023fc8578da4cce1b4d38166d6e41e6]: Textual amendment: Words in s. 29(9) substituted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 144(a)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/144/a/ii), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-0023fc8578da4cce1b4d38166d6e41e6]: Textual amendment: Words in s. 29(9) substituted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 144(a)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/144/a/ii), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

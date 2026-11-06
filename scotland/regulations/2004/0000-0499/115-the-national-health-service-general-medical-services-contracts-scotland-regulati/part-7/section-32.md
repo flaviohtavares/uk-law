@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Out of hours services[^key-ba2eb03621e61f24d74accbc12bb8996]
+## 32. Out of hours services[^c-ba2eb03621e61f24d74accbc12bb8996]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A contract which includes the provision of out of hours services pursuant to reg
 
 ## Annotations
 
-[^key-ba2eb03621e61f24d74accbc12bb8996]: Commencement: Reg. 32 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ba2eb03621e61f24d74accbc12bb8996]: Commencement: Reg. 32 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

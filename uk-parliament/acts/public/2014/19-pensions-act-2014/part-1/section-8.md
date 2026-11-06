@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Choice of lump sum or survivor's pension under section 9 in certain cases[^key-f6a570b376e021313410890fad6821d3]
+## 8. Choice of lump sum or survivor's pension under section 9 in certain cases[^c-f6a570b376e021313410890fad6821d3]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) to be paid a lump sum under this section, or
 - (b) to be paid a state pension under section 9.
 
-(3)[^key-e3919b1877afd63329b17e0457a52dea] Regulations are to set out the manner in which, and the period within which, that choice is to be made.
+(3)[^c-e3919b1877afd63329b17e0457a52dea] Regulations are to set out the manner in which, and the period within which, that choice is to be made.
 
 (4) A person who chooses to be paid a lump sum under this section, or who fails to choose within that period, is entitled to a “widowed person's or surviving civil partner's lump sum” calculated under paragraph 7B of Schedule 5 to the Contributions and Benefits Act.
 
@@ -45,12 +45,12 @@ summary: ''
 
 (6) There are provisions elsewhere that affect a person's entitlement to a lump sum under this section.
 
-(7)[^key-e3919b1877afd63329b17e0457a52dea] Regulations may allow a person, in specified circumstances—
+(7)[^c-e3919b1877afd63329b17e0457a52dea] Regulations may allow a person, in specified circumstances—
 
 - (a) to alter his or her choice under this section;
 - (b) to make a late choice.
 
-(8)[^key-e3919b1877afd63329b17e0457a52dea] Regulations under subsection (7) may, for the purpose of avoiding the duplication of payment—
+(8)[^c-e3919b1877afd63329b17e0457a52dea] Regulations under subsection (7) may, for the purpose of avoiding the duplication of payment—
 
 - (a) enable recovery of an amount paid to the person, or
 - (b) reduce the amount of a lump sum to be paid to the person.
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6a570b376e021313410890fad6821d3]: Commencement: S. 8 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-f6a570b376e021313410890fad6821d3]: Commencement: S. 8 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
 
-[^key-e3919b1877afd63329b17e0457a52dea]: Commencement: S. 8(3)(7)(8) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(c)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/c)
+[^c-e3919b1877afd63329b17e0457a52dea]: Commencement: S. 8(3)(7)(8) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(c)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/c)

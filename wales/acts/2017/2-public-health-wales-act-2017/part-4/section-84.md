@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Powers of entry etc.[^key-64f8237391c5d465bf568fa95bb7c1d8]
+## 84. Powers of entry etc.[^c-64f8237391c5d465bf568fa95bb7c1d8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64f8237391c5d465bf568fa95bb7c1d8]: Commencement: [S. 84](https://www.legislation.gov.uk/anaw/2017/2/section/84) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(z)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/z) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-64f8237391c5d465bf568fa95bb7c1d8]: Commencement: [S. 84](https://www.legislation.gov.uk/anaw/2017/2/section/84) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(z)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/z) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

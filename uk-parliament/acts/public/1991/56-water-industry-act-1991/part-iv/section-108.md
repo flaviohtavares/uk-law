@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a sewerage undertaker does not under section 107 above elect itself to make a communication to which a person is entitled under section 106 above or may not make such an election because of section 107(1A)[^key-d826ff8f6de2a8f363c09a1326bb4226], the person making it shall—
+(1) Where a sewerage undertaker does not under section 107 above elect itself to make a communication to which a person is entitled under section 106 above or may not make such an election because of section 107(1A)[^c-d826ff8f6de2a8f363c09a1326bb4226], the person making it shall—
 
 - (a) before commencing the work, give reasonable notice to any person directed by the undertaker to superintend the carrying out of the work; and
 - (b) afford any such person all reasonable facilities for superintending the carrying out of the work.
@@ -36,4 +36,4 @@ the owner or occupier of any premises shall be entitled to exercise the same pow
 
 ## Annotations
 
-[^key-d826ff8f6de2a8f363c09a1326bb4226]: Textual amendment: Words in s. 108(1) inserted (1.4.2019 for W.) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/5), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(d)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/d)
+[^c-d826ff8f6de2a8f363c09a1326bb4226]: Textual amendment: Words in s. 108(1) inserted (1.4.2019 for W.) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/5), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(d)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/d)

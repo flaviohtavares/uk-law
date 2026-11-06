@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Disclosure by agent effecting insurance.[^key-43b56ee9ac4ea95642a805dbcc7f9352]
+## 19. Disclosure by agent effecting insurance.[^c-43b56ee9ac4ea95642a805dbcc7f9352]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43b56ee9ac4ea95642a805dbcc7f9352]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/19) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/2), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/3), [22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))
+[^c-43b56ee9ac4ea95642a805dbcc7f9352]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/19) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/2), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/3), [22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))

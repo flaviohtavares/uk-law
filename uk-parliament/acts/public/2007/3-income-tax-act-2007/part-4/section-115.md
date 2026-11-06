@@ -25,7 +25,7 @@ summary: ''
 - (a) an individual carries on a trade as a partner in a firm at a time during a tax year,
 - (b) the trade consists of or includes the exploitation of films,
 - (c) the individual makes a loss in the trade in the tax year (“the affected tax year”),
-- (d) the individual does not devote a significant amount of time to the trade in the relevant period for the affected tax year [^key-8e43165d96d4e95bdb699c2560de1279]...,
+- (d) the individual does not devote a significant amount of time to the trade in the relevant period for the affected tax year [^c-8e43165d96d4e95bdb699c2560de1279]...,
 - (e) the affected tax year is the one in which the individual first started to carry on the trade or is one of the next 3 tax years, and
 - (f) a relevant agreement existed at a time during the affected tax year which guaranteed the individual an amount of income (see subsections (5) to (9)).
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) Capital gains relief for the loss is not available to the individual.
 
-(4)[^key-b51d14a3a207a14c94654b541ddd52b6] The restrictions under this section do not apply to so much of the loss (if any) as derives from qualifying film expenditure.
+(4)[^c-b51d14a3a207a14c94654b541ddd52b6] The restrictions under this section do not apply to so much of the loss (if any) as derives from qualifying film expenditure.
 
 (5) An agreement is relevant if—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e43165d96d4e95bdb699c2560de1279]: Textual amendment: Words in s. 115(1)(d) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 10(d)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/10/d), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
+[^c-8e43165d96d4e95bdb699c2560de1279]: Textual amendment: Words in s. 115(1)(d) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 10(d)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/10/d), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
 
-[^key-b51d14a3a207a14c94654b541ddd52b6]: Textual amendment: S. 115(4) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 15](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-b51d14a3a207a14c94654b541ddd52b6]: Textual amendment: S. 115(4) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 15](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

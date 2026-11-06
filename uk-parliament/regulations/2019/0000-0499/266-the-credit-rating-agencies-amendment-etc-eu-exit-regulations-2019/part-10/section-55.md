@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55.[^key-ceb7663d581434e7f18fc3e8ee814af8]
+## 55.[^c-ceb7663d581434e7f18fc3e8ee814af8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ In Article 4—
   > - (a) the rating is or was issued or endorsed by a credit rating agency established in the Union which is part of a group in respect of which one of its undertakings—
   >   - (i) is registered in the United Kingdom in accordance with this Regulation, or
   >   - (ii) has made an advance application under regulation 24 of the Credit Rating Agencies (Amendment, etc.) (EU Exit) Regulations 2019 to be registered in the United Kingdom in accordance with this Regulation, and
-  > - (b) the rating was issued or endorsed and not withdrawn immediately before IP completion day[^key-d36d602ef99fb494ae4cb55e9c4e1cbf].
+  > - (b) the rating was issued or endorsed and not withdrawn immediately before IP completion day[^c-d36d602ef99fb494ae4cb55e9c4e1cbf].
   >
   > **1B.**
   >
@@ -45,7 +45,7 @@ In Article 4—
   - (ii) in point (c) and (d), for “ESMA”, in each place it occurs, substitute “ the FCA ”;
   - (iii) in point (g), for “competent authorities”, substitute “ third country competent authorities ”;
   - (iv) omit point (h);
-- (e)[^key-d8ba5f7ced6f0dd3c2b3ccda604ed052] for paragraph 6 substitute—
+- (e)[^c-d8ba5f7ced6f0dd3c2b3ccda604ed052] for paragraph 6 substitute—
 
   > **6.** The credit rating agency endorsing credit ratings issued in a third country is no longer required to verify or demonstrate that the condition laid down in paragraph 3(g) of this Article is fulfilled where—
   >
@@ -56,8 +56,8 @@ In Article 4—
 
 ## Annotations
 
-[^key-ceb7663d581434e7f18fc3e8ee814af8]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ceb7663d581434e7f18fc3e8ee814af8]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d36d602ef99fb494ae4cb55e9c4e1cbf]: Textual amendment: Words in reg. 55(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/16)
+[^c-d36d602ef99fb494ae4cb55e9c4e1cbf]: Textual amendment: Words in reg. 55(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/16)
 
-[^key-d8ba5f7ced6f0dd3c2b3ccda604ed052]: Textual amendment: Reg. 55(e) substituted (30.9.2020) by [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/11/3)
+[^c-d8ba5f7ced6f0dd3c2b3ccda604ed052]: Textual amendment: Reg. 55(e) substituted (30.9.2020) by [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/11/3)

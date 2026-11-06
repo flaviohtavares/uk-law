@@ -75,7 +75,7 @@ must not trade that capacity with another applicant or transfer it to another un
 - (b) must be specified in the network statement; and
 - (c) may only include the provision of a financial guarantee by an applicant if the level of such guarantee does not exceed an appropriate level which is proportional to the contemplated level of activity of the applicant, and where such guarantee provides assurance of the applicant's capability to prepare compliant bids for infrastructure capacity.
 
-(19)[^key-29dad6d2f0a2886aded7c8c51c2fadba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-29dad6d2f0a2886aded7c8c51c2fadba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (20) In reserving infrastructure capacity for the purposes of scheduled track maintenance, as requested under regulation 22(5), the infrastructure manager must take into account the effect of that reservation on applicants.
 
@@ -83,4 +83,4 @@ must not trade that capacity with another applicant or transfer it to another un
 
 [^c23154241]: Marginal citation: O.J. No. L 276, 20.10.10, p. 22; amended by Regulation (EU) No 1316/2013 of the European Parliament and of the Council of 11th December 2013 establishing the Connecting Europe Facility, amending Regulation (EU) No 913/2010 and repealing Regulations (EC) No 680/2007 and (EC) No 67/2010, O.J. L 348, 20.12.13, p. 129.
 
-[^key-29dad6d2f0a2886aded7c8c51c2fadba]: Textual amendment: [Reg. 19(19)](https://www.legislation.gov.uk/uksi/2016/645/regulation/19/19) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/127/regulation/4/3)
+[^c-29dad6d2f0a2886aded7c8c51c2fadba]: Textual amendment: [Reg. 19(19)](https://www.legislation.gov.uk/uksi/2016/645/regulation/19/19) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/127/regulation/4/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Application for authorisation[^c24458131][^key-810438eb887e83e3e498906319ed4671]
+## 8. Application for authorisation[^c24458131][^c-810438eb887e83e3e498906319ed4671]
 
 *Extent: E+W+S*
 
@@ -26,15 +26,15 @@ summary: ''
 
 (3) An application must include—
 
-- (a) the scheme's viability report and viability certificate (see section 13), [^key-c8beaa8358f89d4331284d6c72a6a554]...
-- (aa)[^key-cf50d1740cd79e407ba92772ef2aea4c] where the scheme is an unconnected multiple employer scheme—
+- (a) the scheme's viability report and viability certificate (see section 13), [^c-c8beaa8358f89d4331284d6c72a6a554]...
+- (aa)[^c-cf50d1740cd79e407ba92772ef2aea4c] where the scheme is an unconnected multiple employer scheme—
   - (i) the scheme’s business plan (see section 14A),
   - (ii) the scheme’s latest accounts (if any),
   - (iii) the latest accounts (if any) of the scheme proprietor (see section 14B), prepared and audited as individual accounts in accordance with the applicable requirements, and
   - (iv) the latest accounts of any undertaking, other than an unincorporated association, that partly or wholly funds the scheme proprietor, prepared and audited as individual accounts in accordance with the applicable requirements, and
 - (b) the scheme's continuity strategy (see section 17).
 
-(3A)[^key-ff81c992e334a255c510839e00b84b02] For the purposes of subsection (3)(aa)(iii) and (iv) accounts of a scheme proprietor or (as the case may be) an undertaking are prepared and audited as individual accounts in accordance with the applicable requirements if the accounts are prepared and audited in accordance with the requirements of the law by which the scheme proprietor or the undertaking is governed, ignoring any provision of that law—
+(3A)[^c-ff81c992e334a255c510839e00b84b02] For the purposes of subsection (3)(aa)(iii) and (iv) accounts of a scheme proprietor or (as the case may be) an undertaking are prepared and audited as individual accounts in accordance with the applicable requirements if the accounts are prepared and audited in accordance with the requirements of the law by which the scheme proprietor or the undertaking is governed, ignoring any provision of that law—
 
 - (a) that relates to the preparation or audit of group accounts;
 - (b) that provides for accounts to be prepared or audited differently (or not at all) if the scheme proprietor or the undertaking—
@@ -64,10 +64,10 @@ summary: ''
 
 [^c24458131]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/1/section/8) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-810438eb887e83e3e498906319ed4671]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/1/section/8) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-810438eb887e83e3e498906319ed4671]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/1/section/8) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-c8beaa8358f89d4331284d6c72a6a554]: Textual amendment: Word in [s. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/8/3/a) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/4/a)
+[^c-c8beaa8358f89d4331284d6c72a6a554]: Textual amendment: Word in [s. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/8/3/a) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/4/a)
 
-[^key-cf50d1740cd79e407ba92772ef2aea4c]: Textual amendment: [S. 8(3)(aa)](https://www.legislation.gov.uk/ukpga/2021/1/section/8/3/aa) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/4/b)
+[^c-cf50d1740cd79e407ba92772ef2aea4c]: Textual amendment: [S. 8(3)(aa)](https://www.legislation.gov.uk/ukpga/2021/1/section/8/3/aa) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/4/b)
 
-[^key-ff81c992e334a255c510839e00b84b02]: Textual amendment: [S. 8(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2021/1/section/8/3A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [4(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/4/c)
+[^c-ff81c992e334a255c510839e00b84b02]: Textual amendment: [S. 8(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2021/1/section/8/3A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [4(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. “Enterprise”[^key-d3d70235d296a6abe0f7fe7cf645b37f]
+## 7. “Enterprise”[^c-d3d70235d296a6abe0f7fe7cf645b37f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d70235d296a6abe0f7fe7cf645b37f]: Commencement: S. 7 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-d3d70235d296a6abe0f7fe7cf645b37f]: Commencement: S. 7 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

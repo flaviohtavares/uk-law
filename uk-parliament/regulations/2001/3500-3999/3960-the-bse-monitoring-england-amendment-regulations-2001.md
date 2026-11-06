@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The BSE Monitoring (England) (Amendment) Regulations 2001 (revoked)[^key-cad07e4c635317420dba484295f23cf8]
+The BSE Monitoring (England) (Amendment) Regulations 2001 (revoked)[^c-cad07e4c635317420dba484295f23cf8]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 1st January 2002
 
-[^key-cad07e4c635317420dba484295f23cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cad07e4c635317420dba484295f23cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-cad07e4c635317420dba484295f23cf8]
+## 1. Title, extent and commencement[^c-cad07e4c635317420dba484295f23cf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of The BSE Monitoring (England) Regulations 2001[^key-cad07e4c635317420dba484295f23cf8]
+## 2. Amendment of The BSE Monitoring (England) Regulations 2001[^c-cad07e4c635317420dba484295f23cf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Cattle Identification Regulations[^key-cad07e4c635317420dba484295f23cf8]
+## 3. Amendment of Cattle Identification Regulations[^c-cad07e4c635317420dba484295f23cf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cad07e4c635317420dba484295f23cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cad07e4c635317420dba484295f23cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cad07e4c635317420dba484295f23cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cad07e4c635317420dba484295f23cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cad07e4c635317420dba484295f23cf8]: Textual amendment: Regulations revoked (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), regs. 1(1), [3(g)](https://www.legislation.gov.uk/uksi/2015/639/regulation/3/g)
+[^c-cad07e4c635317420dba484295f23cf8]: Textual amendment: Regulations revoked (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), regs. 1(1), [3(g)](https://www.legislation.gov.uk/uksi/2015/639/regulation/3/g)

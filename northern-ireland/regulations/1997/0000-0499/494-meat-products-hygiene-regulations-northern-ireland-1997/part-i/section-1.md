@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-66a2f2e3c882832b03d8d581d6cda0f8]
+## 1. Citation and commencement[^c-66a2f2e3c882832b03d8d581d6cda0f8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Meat Products (Hygiene) Regulations (North
 
 ## Annotations
 
-[^key-66a2f2e3c882832b03d8d581d6cda0f8]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-66a2f2e3c882832b03d8d581d6cda0f8]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

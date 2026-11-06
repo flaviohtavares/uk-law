@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Amendment of regulation 4[^key-448ac73a7eb75cbfa7e373d1374fa07f]
+## 25. Amendment of regulation 4[^c-448ac73a7eb75cbfa7e373d1374fa07f]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-448ac73a7eb75cbfa7e373d1374fa07f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/364/regulation/25) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-448ac73a7eb75cbfa7e373d1374fa07f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/364/regulation/25) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

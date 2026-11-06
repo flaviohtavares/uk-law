@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Fire resistance of residential units: duty to repair[^key-53fd1ccb11a2e4a20017eb28c677c869]
+## 56. Fire resistance of residential units: duty to repair[^c-53fd1ccb11a2e4a20017eb28c677c869]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53fd1ccb11a2e4a20017eb28c677c869]: Commencement: S. 56 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-53fd1ccb11a2e4a20017eb28c677c869]: Commencement: S. 56 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

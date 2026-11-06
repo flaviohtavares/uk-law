@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Publication of information concerning group financial support agreements[^key-b8eba941f72fc821a5ed2212d7490aef]
+## 98A. Publication of information concerning group financial support agreements[^c-b8eba941f72fc821a5ed2212d7490aef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The PRA and the FCA may each make technical standards relating to the form and c
 
 ## Annotations
 
-[^key-b8eba941f72fc821a5ed2212d7490aef]: Textual amendment: [Art. 98A](https://www.legislation.gov.uk/uksi/2014/3348/article/98A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 55](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8eba941f72fc821a5ed2212d7490aef]: Textual amendment: [Art. 98A](https://www.legislation.gov.uk/uksi/2014/3348/article/98A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 55](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

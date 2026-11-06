@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Meaning of “accountable person”[^key-cc2dfe4156369bb2644f185fd7252d69][^key-e741e64a5d8d9042f17bcc611f45e160]
+## 72. Meaning of “accountable person”[^c-cc2dfe4156369bb2644f185fd7252d69][^c-e741e64a5d8d9042f17bcc611f45e160]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ This subsection is subject to subsection (5) (special rule for commonhold land).
 
 ## Annotations
 
-[^key-cc2dfe4156369bb2644f185fd7252d69]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-cc2dfe4156369bb2644f185fd7252d69]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-e741e64a5d8d9042f17bcc611f45e160]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2022/30/section/72) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z)
+[^c-e741e64a5d8d9042f17bcc611f45e160]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2022/30/section/72) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z)

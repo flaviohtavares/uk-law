@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Financial sanctions[^key-290960e27e53a5ef692bc2cbd2bf8872]
+## 3. Financial sanctions[^c-290960e27e53a5ef692bc2cbd2bf8872]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-290960e27e53a5ef692bc2cbd2bf8872]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/13/section/3) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-290960e27e53a5ef692bc2cbd2bf8872]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/13/section/3) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

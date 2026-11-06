@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Requirement for appropriate licence to act as member of flight crew of EASA aircraft and specified non-EASA aircraft registered elsewhere than in the United Kingdom[^key-734f051ac1ff084cff4d608aaa026b53]
+## 149. Requirement for appropriate licence to act as member of flight crew of EASA aircraft and specified non-EASA aircraft registered elsewhere than in the United Kingdom[^c-734f051ac1ff084cff4d608aaa026b53]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-734f051ac1ff084cff4d608aaa026b53]: Textual amendment: [Art. 149](https://www.legislation.gov.uk/uksi/2016/765/article/149) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/41) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-734f051ac1ff084cff4d608aaa026b53]: Textual amendment: [Art. 149](https://www.legislation.gov.uk/uksi/2016/765/article/149) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/41) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

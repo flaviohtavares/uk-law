@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Non-harassment orders[^key-5cc2d1dd24187342b502f01a862a0517]
+## 15. Non-harassment orders[^c-5cc2d1dd24187342b502f01a862a0517]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ In section 234A of the 1995 Act (non-harassment orders)—
 
 ## Annotations
 
-[^key-5cc2d1dd24187342b502f01a862a0517]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2010/13/section/15) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-5cc2d1dd24187342b502f01a862a0517]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2010/13/section/15) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

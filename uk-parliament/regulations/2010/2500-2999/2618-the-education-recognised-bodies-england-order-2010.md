@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Education (Recognised Bodies) (England) Order 2010 (revoked)[^key-aef0378a2d589ec030cccb77a3321663]
+The Education (Recognised Bodies) (England) Order 2010 (revoked)[^c-aef0378a2d589ec030cccb77a3321663]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into force
 
 30th November 2010
 
-[^key-aef0378a2d589ec030cccb77a3321663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aef0378a2d589ec030cccb77a3321663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and revocation[^key-aef0378a2d589ec030cccb77a3321663]
+## 1. Citation, commencement, application and revocation[^c-aef0378a2d589ec030cccb77a3321663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Recognised Bodies[^key-aef0378a2d589ec030cccb77a3321663]
+## 2. Recognised Bodies[^c-aef0378a2d589ec030cccb77a3321663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aef0378a2d589ec030cccb77a3321663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aef0378a2d589ec030cccb77a3321663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-aef0378a2d589ec030cccb77a3321663]
+## SCHEDULE 1[^c-aef0378a2d589ec030cccb77a3321663]
 
 Article 2
 
@@ -65,8 +65,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-aef0378a2d589ec030cccb77a3321663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aef0378a2d589ec030cccb77a3321663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aef0378a2d589ec030cccb77a3321663]: Textual amendment: Order revoked (30.12.2013) by [The Education (Recognised Bodies) (England) Order 2013 (S.I. 2013/2992)](https://www.legislation.gov.uk/uksi/2013/2992), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2013/2992/article/1)
+[^c-aef0378a2d589ec030cccb77a3321663]: Textual amendment: Order revoked (30.12.2013) by [The Education (Recognised Bodies) (England) Order 2013 (S.I. 2013/2992)](https://www.legislation.gov.uk/uksi/2013/2992), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2013/2992/article/1)

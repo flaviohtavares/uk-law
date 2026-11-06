@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Casual vacancies[^key-abacd74a807b833b2950e25fb0192652]
+## 10. Casual vacancies[^c-abacd74a807b833b2950e25fb0192652]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abacd74a807b833b2950e25fb0192652]: Commencement: Art. 10 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-abacd74a807b833b2950e25fb0192652]: Commencement: Art. 10 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. OFCOM’s annual report[^key-1cb2cea13dc9377345a7dae3ed7bd514][^key-47d5a29f8fe9040b39e8407956789016]
+## 128. OFCOM’s annual report[^c-1cb2cea13dc9377345a7dae3ed7bd514][^c-47d5a29f8fe9040b39e8407956789016]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1cb2cea13dc9377345a7dae3ed7bd514]: Commencement: S. 128 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-1cb2cea13dc9377345a7dae3ed7bd514]: Commencement: S. 128 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-47d5a29f8fe9040b39e8407956789016]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2023/50/section/128) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)
+[^c-47d5a29f8fe9040b39e8407956789016]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2023/50/section/128) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Sums in a currency other than sterling[^key-bfdbadc58ef031e6cf0f18cf8bfe36fd]
+## 145. Sums in a currency other than sterling[^c-bfdbadc58ef031e6cf0f18cf8bfe36fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfdbadc58ef031e6cf0f18cf8bfe36fd]: Commencement: [Art. 145](https://www.legislation.gov.uk/uksi/2005/3181/article/145) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-bfdbadc58ef031e6cf0f18cf8bfe36fd]: Commencement: [Art. 145](https://www.legislation.gov.uk/uksi/2005/3181/article/145) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

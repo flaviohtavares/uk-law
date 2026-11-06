@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Notice of opening of postal ballot paper envelopes[^key-fd8090f33b69fc130adfb628a8026521][^key-2614cf4b11e73e7aa619f4a5fe1f7eda]
+## 80. Notice of opening of postal ballot paper envelopes[^c-fd8090f33b69fc130adfb628a8026521][^c-2614cf4b11e73e7aa619f4a5fe1f7eda]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8090f33b69fc130adfb628a8026521]: Commencement: Reg. 80 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-fd8090f33b69fc130adfb628a8026521]: Commencement: Reg. 80 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-2614cf4b11e73e7aa619f4a5fe1f7eda]: Modification: [Reg. 80](https://www.legislation.gov.uk/uksi/2001/497/regulation/80) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/36)
+[^c-2614cf4b11e73e7aa619f4a5fe1f7eda]: Modification: [Reg. 80](https://www.legislation.gov.uk/uksi/2001/497/regulation/80) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/36)

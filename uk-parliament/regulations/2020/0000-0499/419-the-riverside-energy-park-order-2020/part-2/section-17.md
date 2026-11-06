@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Traffic regulation measures[^key-81d0ffc4b52e8bca915069f937ec705a]
+## 17. Traffic regulation measures[^c-81d0ffc4b52e8bca915069f937ec705a]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ and the instrument by which it is effected is deemed to be a traffic order for t
 
 ## Annotations
 
-[^key-81d0ffc4b52e8bca915069f937ec705a]: Commencement: Art. 17 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-81d0ffc4b52e8bca915069f937ec705a]: Commencement: Art. 17 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052591]: Marginal citation: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18). There are amendments to this Act not relevant to this Order.

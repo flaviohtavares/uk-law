@@ -51,13 +51,13 @@ Whereas a draft of this Order has been laid before Parliament and approved by ea
 
 Now, therefore, the Secretary of State, in exercise of the powers conferred on him by section 181 of the Act and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-**1.**[^key-86f1ec0cd3a435331b5404306c2ae586] This Order may be cited as the Consumer Credit (Increase of Monetary Limits) Order 1983.
+**1.**[^c-86f1ec0cd3a435331b5404306c2ae586] This Order may be cited as the Consumer Credit (Increase of Monetary Limits) Order 1983.
 
-**2.**[^key-a747e635779799f70b8ce6c1c6790adf] Articles 1, 2 and 3 of this Order shall come into operation on 1st January 1984 and Article 4 on 20th May 1985.
+**2.**[^c-a747e635779799f70b8ce6c1c6790adf] Articles 1, 2 and 3 of this Order shall come into operation on 1st January 1984 and Article 4 on 20th May 1985.
 
-**3.**[^key-fa0dbef6ec8b22248d42b345640fd490] The provisions set out in Column 1 of Part I of the Schedule to this Order (shortly described in Column 2) are hereby amended by substituting for the sums specified in Column 3 in relation to those provisions the sums specified in Column 4.
+**3.**[^c-fa0dbef6ec8b22248d42b345640fd490] The provisions set out in Column 1 of Part I of the Schedule to this Order (shortly described in Column 2) are hereby amended by substituting for the sums specified in Column 3 in relation to those provisions the sums specified in Column 4.
 
-**4.**[^key-67224e4bce263845deff8da3692b0696] The provisions set out in Column 1 of Part II of the Schedule to this Order (shortly described in Column 2) are hereby amended by substituting for the sums specified in Column 3 in relation to those provisions the sums specified in Column 4.
+**4.**[^c-67224e4bce263845deff8da3692b0696] The provisions set out in Column 1 of Part II of the Schedule to this Order (shortly described in Column 2) are hereby amended by substituting for the sums specified in Column 3 in relation to those provisions the sums specified in Column 4.
 
 Alexander Fletcher
 
@@ -69,7 +69,7 @@ Department of Trade and Industry
 
 ## SCHEDULE — INCREASES OF MONETARY LIMITS IN CONSUMER CREDIT ACT 1974
 
-### PART I — INCREASES COMING INTO OPERATION ON 1ST JANUARY 1984[^key-b3497a369991ca22400c46733073292a]
+### PART I — INCREASES COMING INTO OPERATION ON 1ST JANUARY 1984[^c-b3497a369991ca22400c46733073292a]
 
 Article 3
 
@@ -84,7 +84,7 @@ Article 3
 </tbody>
 </table>
 
-### PART II — INCREASES COMING INTO OPERATION ON 20TH MAY 1985[^key-7f2d5340fe014eacac518f997354928e]
+### PART II — INCREASES COMING INTO OPERATION ON 20TH MAY 1985[^c-7f2d5340fe014eacac518f997354928e]
 
 Article 4
 
@@ -101,7 +101,7 @@ Article 4
 </tbody>
 </table>
 
-[^key-ebac35106ade421b1325f4389d01acaf]
+[^c-ebac35106ade421b1325f4389d01acaf]
 
 EXPLANATORY NOTE
 
@@ -113,16 +113,16 @@ The limits of the jurisdiction of County Courts in England and Wales and Norther
 
 ## Annotations
 
-[^key-86f1ec0cd3a435331b5404306c2ae586]: Commencement: Art. 1 in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
+[^c-86f1ec0cd3a435331b5404306c2ae586]: Commencement: Art. 1 in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
 
-[^key-a747e635779799f70b8ce6c1c6790adf]: Commencement: Art. 2 in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
+[^c-a747e635779799f70b8ce6c1c6790adf]: Commencement: Art. 2 in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
 
-[^key-fa0dbef6ec8b22248d42b345640fd490]: Commencement: Art. 3 in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
+[^c-fa0dbef6ec8b22248d42b345640fd490]: Commencement: Art. 3 in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
 
-[^key-67224e4bce263845deff8da3692b0696]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1983/1878/article/4) in force at 20.5.1985, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
+[^c-67224e4bce263845deff8da3692b0696]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1983/1878/article/4) in force at 20.5.1985, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
 
-[^key-b3497a369991ca22400c46733073292a]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1983/1878/schedule/part/1) in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
+[^c-b3497a369991ca22400c46733073292a]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1983/1878/schedule/part/1) in force at 1.1.1984, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
 
-[^key-7f2d5340fe014eacac518f997354928e]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1983/1878/schedule/part/II) in force at 20.5.1985, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
+[^c-7f2d5340fe014eacac518f997354928e]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1983/1878/schedule/part/II) in force at 20.5.1985, see [art. 2](https://www.legislation.gov.uk/uksi/1983/1878/article/2)
 
-[^key-ebac35106ade421b1325f4389d01acaf]: Textual amendment: Sum in Sch. Pt. 2 substituted (1.5.1998) by [The Consumer Credit (Increase of Monetary Limits) (Amendment) Order 1998 (S.I. 1998/996)](https://www.legislation.gov.uk/uksi/1998/996), [arts. 1](https://www.legislation.gov.uk/uksi/1998/996/article/1), [2](https://www.legislation.gov.uk/uksi/1998/996/article/2)
+[^c-ebac35106ade421b1325f4389d01acaf]: Textual amendment: Sum in Sch. Pt. 2 substituted (1.5.1998) by [The Consumer Credit (Increase of Monetary Limits) (Amendment) Order 1998 (S.I. 1998/996)](https://www.legislation.gov.uk/uksi/1998/996), [arts. 1](https://www.legislation.gov.uk/uksi/1998/996/article/1), [2](https://www.legislation.gov.uk/uksi/1998/996/article/2)

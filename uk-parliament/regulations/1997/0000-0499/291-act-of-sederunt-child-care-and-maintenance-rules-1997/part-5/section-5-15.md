@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.15. Application for transmission of order for enforcement in the Republic of Ireland[^key-0b434b05db68e07852ae74d7b824e5e3]
+## 5.15. Application for transmission of order for enforcement in the Republic of Ireland[^c-0b434b05db68e07852ae74d7b824e5e3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b434b05db68e07852ae74d7b824e5e3]: Textual amendment: Rule 5.15 omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(6)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/6/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-0b434b05db68e07852ae74d7b824e5e3]: Textual amendment: Rule 5.15 omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(6)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/6/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))

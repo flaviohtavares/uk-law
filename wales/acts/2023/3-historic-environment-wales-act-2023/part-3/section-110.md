@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Purchase notice in respect of Crown land[^key-b403f340924e07f52d71dd6bea157460][^key-33e477fc3eacddf5ee9ea696b67fa1a6]
+## 110. Purchase notice in respect of Crown land[^c-b403f340924e07f52d71dd6bea157460][^c-33e477fc3eacddf5ee9ea696b67fa1a6]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b403f340924e07f52d71dd6bea157460]: Commencement: S. 110 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b403f340924e07f52d71dd6bea157460]: Commencement: S. 110 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-33e477fc3eacddf5ee9ea696b67fa1a6]: Commencement: [S. 110](https://www.legislation.gov.uk/asc/2023/3/section/110) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-33e477fc3eacddf5ee9ea696b67fa1a6]: Commencement: [S. 110](https://www.legislation.gov.uk/asc/2023/3/section/110) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

@@ -46,15 +46,15 @@ Coming into force
 
 4th April 2020
 
-The Secretary of State for Housing, Communities and Local Government, in exercise of the powers conferred by section 78 of the Coronavirus Act 2020 [^c24048681] and paragraph 36(1)(b) of Schedule 6 to the Police Reform and Social Responsibility Act 2011 [^c24048691], makes the following Regulations.[^key-3ff7d80ac3be077162fd0b90f65ba54a]
+The Secretary of State for Housing, Communities and Local Government, in exercise of the powers conferred by section 78 of the Coronavirus Act 2020 [^c24048681] and paragraph 36(1)(b) of Schedule 6 to the Police Reform and Social Responsibility Act 2011 [^c24048691], makes the following Regulations.[^c-3ff7d80ac3be077162fd0b90f65ba54a]
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent, and application[^key-4e9be6a1152b2011a5582a5a874e09ba]
+### 1. Citation, commencement, extent, and application[^c-4e9be6a1152b2011a5582a5a874e09ba]
 
 These Regulations may be cited as the Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 and come into force on 4th April 2020.
 
-### 2.[^key-d6bc06db368103585a8c9b6ed8bd4193]
+### 2.[^c-d6bc06db368103585a8c9b6ed8bd4193]
 
 (1) These Regulations extend to England and Wales.
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Local Authorities and Police and Crime Pan
 
 (4) These Regulations apply to local authority meetings and police and crime panel meetings that are required to be held, or held, before 7th May 2021.
 
-### 3. Interpretation[^key-cb349c3be7c5a5c7b89d5488c8c0a5aa]
+### 3. Interpretation[^c-cb349c3be7c5a5c7b89d5488c8c0a5aa]
 
 In these Regulations—
 
@@ -87,7 +87,7 @@ In these Regulations—
   - (o) a National Park authority established under section 63 of the Environment Act 1995 [^c24048761];
   - (p) the Broads Authority established by section 1 of the Norfolk and Suffolk Broads Act 1988 [^c24048771]; and
   - (q) a conservation board established under section 86 of the Countryside and Rights of Way Act 2000 [^c24048781];
-  - (r) a Mayoral development corporation established under section 198 of the Localism Act 2011;[^key-d22827c05f10f87c55c61f4c56025034]
+  - (r) a Mayoral development corporation established under section 198 of the Localism Act 2011;[^c-d22827c05f10f87c55c61f4c56025034]
   - (s) an urban development corporation established under section 135 of the Local Government, Planning and Land Act 1980;
   - (t) a parish meeting constituted under section 13 of the Local Government Act 1972;
   - (u) Transport for London;
@@ -99,9 +99,9 @@ In these Regulations—
 - “**remote access**” is to be construed in accordance with regulation 5(6)(c);
 - “**remote attendance**” is to be construed in accordance with regulation 5(2) and (3).
 
-## PART 2 — Remote attendance[^key-cb7c1db69e49aceb2476bbe15e0253c7][^key-a3ea565a35676f79ac06b7c1abca8d5f]
+## PART 2 — Remote attendance[^c-cb7c1db69e49aceb2476bbe15e0253c7][^c-a3ea565a35676f79ac06b7c1abca8d5f]
 
-### 4. Meetings of local authorities[^key-afd6caf2d02949a093bba5dff3df932d][^key-cb7c1db69e49aceb2476bbe15e0253c7][^key-a3ea565a35676f79ac06b7c1abca8d5f][^key-cb7c1db69e49aceb2476bbe15e0253c7][^key-a3ea565a35676f79ac06b7c1abca8d5f]
+### 4. Meetings of local authorities[^c-afd6caf2d02949a093bba5dff3df932d][^c-cb7c1db69e49aceb2476bbe15e0253c7][^c-a3ea565a35676f79ac06b7c1abca8d5f][^c-cb7c1db69e49aceb2476bbe15e0253c7][^c-a3ea565a35676f79ac06b7c1abca8d5f]
 
 (1) In respect of a reference in any enactment to a meeting of a local authority, that authority may, as they may determine—
 
@@ -112,7 +112,7 @@ without requirement for further notice.
 
 (2) Where an appointment would otherwise be made or require to be made at an annual meeting of a local authority, such appointment continues until the next annual meeting of the authority or until such time as that authority may determine.
 
-### 5.[^key-aa1c2a0c73637e38556f8c364ce095f3][^key-cb7c1db69e49aceb2476bbe15e0253c7][^key-a3ea565a35676f79ac06b7c1abca8d5f][^key-cb7c1db69e49aceb2476bbe15e0253c7][^key-a3ea565a35676f79ac06b7c1abca8d5f]
+### 5.[^c-aa1c2a0c73637e38556f8c364ce095f3][^c-cb7c1db69e49aceb2476bbe15e0253c7][^c-a3ea565a35676f79ac06b7c1abca8d5f][^c-cb7c1db69e49aceb2476bbe15e0253c7][^c-a3ea565a35676f79ac06b7c1abca8d5f]
 
 (1) A reference in any enactment to a meeting of a local authority is not limited to a meeting of persons all of whom, or any of whom, are present in the same place and any reference to a “place” where a meeting is held, or to be held, includes reference to more than one place including electronic, digital or virtual locations such as internet locations, web addresses or conference call telephone numbers.
 
@@ -136,19 +136,19 @@ without requirement for further notice.
 
 ## PART 3 — Modification of meeting and public access requirements
 
-### 6. Frequency of local authority meetings[^key-be81d2e19129b9542e899c2d56bb7703][^key-2daed89f41c6a92d2dc13cf427818e54][^key-a1f7ef185a95fb4a06c88e3e129bfbbc]
+### 6. Frequency of local authority meetings[^c-be81d2e19129b9542e899c2d56bb7703][^c-2daed89f41c6a92d2dc13cf427818e54][^c-a1f7ef185a95fb4a06c88e3e129bfbbc]
 
 Schedule 12 to the 1972 Act (meetings and proceedings of local authorities) applies as follows—
 
 - (a) any reference to being “present” at a meeting includes being present through remote attendance;
 - (b) any reference to a “place” where a meeting is held, or to be held, includes reference to more than one place including electronic, digital or virtual locations such as internet locations, web addresses or conference call telephone numbers;
-- (c)[^key-d0af9549ef570aebbbad73ebc8a97aa9] paragraphs 1, 7, 10(2)(a), 14(1), (3) and (4) and 15(2) to (4) are disapplied;
+- (c)[^c-d0af9549ef570aebbbad73ebc8a97aa9] paragraphs 1, 7, 10(2)(a), 14(1), (3) and (4) and 15(2) to (4) are disapplied;
 - (d) paragraph 2 is to be read as if—
   - (i) in subparagraph (1), for “in addition to the annual meeting, such other”, there were substituted “ such ”;
   - (ii) in subparagraph (2), “other” were omitted;
 - (e) paragraph 4(1A)(a) is to be read as if after “at the council's offices” there were inserted “ or on the council's website ”.
 
-### 7.[^key-e990eb4aeee950fc95d087c18d529e5a]
+### 7.[^c-e990eb4aeee950fc95d087c18d529e5a]
 
 The Greater London Authority Act 1999 [^c24048801] applies as follows—
 
@@ -163,11 +163,11 @@ The Greater London Authority Act 1999 [^c24048801] applies as follows—
     ;
 - (d) section 52(3)(meetings of the whole Assembly) [^c24048821] is to be read as if for “On such ten occasions in each calendar year as the Assembly may determine”, there were substituted “ On up to ten occasions in each calendar year as the Assembly may determine following consultation with the Mayor ”.
 
-### 8.[^key-78ff12b3f5c441cdfa71d705e340b7aa]
+### 8.[^c-78ff12b3f5c441cdfa71d705e340b7aa]
 
 Paragraphs 1 and 2 of Schedule 2 to the National Park Authorities (England) Order 2015 (meetings and proceedings of a National Park authority) [^c24048831] are disapplied.
 
-### 9.[^key-fc035b103822e3812783d6ff00d49f83]
+### 9.[^c-fc035b103822e3812783d6ff00d49f83]
 
 Schedule 3 to the Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 [^c24048841] (meetings and proceedings of the Board) applies as follows—
 
@@ -180,7 +180,7 @@ Schedule 3 to the Cotswolds Area of Outstanding Natural Beauty (Establishment of
     ;
   - (ii) in subparagraph (4), the words “Where a member and the chief officer agree in writing,” were omitted.
 
-### 10.[^key-100dea9973d4dba1d27ff592e07028ee]
+### 10.[^c-100dea9973d4dba1d27ff592e07028ee]
 
 Schedule 3 to the Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (meetings and proceedings of the Board) [^c24048851] applies as follows—
 
@@ -193,7 +193,7 @@ Schedule 3 to the Chilterns Area of Outstanding Natural Beauty (Establishment of
     ;
   - (ii) in subparagraph (4), the words “Where a member and the chief officer agree in writing,” were omitted.
 
-### 11.[^key-d618b921b03aeca74c43ce80d3e17c3f]
+### 11.[^c-d618b921b03aeca74c43ce80d3e17c3f]
 
 Schedule 1 to the New Forest National Park Authority (Establishment) Order 2005 [^c24048861] (meetings and proceedings of the Authority) applies as if —
 
@@ -206,7 +206,7 @@ Schedule 1 to the New Forest National Park Authority (Establishment) Order 2005 
     ;
   - (ii) in subparagraph (4), the words “Where a member of the Authority and the National Park officer agree in writing,” were omitted.
 
-### 12.[^key-f727e9ff6bf3d3097e8cf0d9a685705a]
+### 12.[^c-f727e9ff6bf3d3097e8cf0d9a685705a]
 
 Schedule 1 to the South Downs National Park Authority (Establishment) Order 2010 [^c24048871] (meetings and proceedings of the Authority) applies as follows—
 
@@ -219,11 +219,11 @@ Schedule 1 to the South Downs National Park Authority (Establishment) Order 2010
     ;
   - (ii) in subparagraph (4), the words “Where a member of the Authority and the National Park officer so agree in writing,” were omitted.
 
-### 13. Public and press access[^key-f6fefe210b0e050652734f9eea28f2c1]
+### 13. Public and press access[^c-f6fefe210b0e050652734f9eea28f2c1]
 
 Section 1 of the Public Bodies (Admission to Meetings) Act 1960 [^c24048881] (admission of public to meetings of local authorities and other bodies) applies as follows—
 
-- (a)[^key-9d33ab012d8e5ac6d8c14cd28a668563] subsection (4)(a) is to be read as if—
+- (a)[^c-9d33ab012d8e5ac6d8c14cd28a668563] subsection (4)(a) is to be read as if—
   - (i) after “public notice of the time and place of the meeting”, there were inserted “and details of remote access by public and press to that meeting by electronic means, including by telephone conference, video conference, live webcasts, and live interactive streaming”;
   - (ii) after “(or, if the body has no offices, then in some central and conspicuous place in the area with which it is concerned)” there were inserted “or publishing on the website of the body or, for a parish council or for a parish meeting, on the website of the principal council within the meaning of the Local Government Act 1972”;
 - (b) after subsection (9), there were inserted—
@@ -235,7 +235,7 @@ Section 1 of the Public Bodies (Admission to Meetings) Act 1960 [^c24048881] (ad
 
   .
 
-### 14.[^key-cf916e2b32bc3043b5046910e37f545a]
+### 14.[^c-cf916e2b32bc3043b5046910e37f545a]
 
 Section 9G of the Local Government Act 2000 [^c24048891] applies as if after subsection (6) there were inserted—
 
@@ -243,7 +243,7 @@ Section 9G of the Local Government Act 2000 [^c24048891] applies as if after sub
 
 .
 
-### 15.[^key-9fa3cc0b9320106b6facdd784e0fac0d][^key-ecc75216a60213c3e7105e3ecc33e71c][^key-b014023cc1aabe88f2916303a121707c][^key-f283849bcac3c0a8b9c0dea889e8a007]
+### 15.[^c-9fa3cc0b9320106b6facdd784e0fac0d][^c-ecc75216a60213c3e7105e3ecc33e71c][^c-b014023cc1aabe88f2916303a121707c][^c-f283849bcac3c0a8b9c0dea889e8a007]
 
 Part VA of the 1972 Act [^c24048901](access to meetings and documents of certain authorities, committees and sub-committees) applies as if, after section 100K (interpretation and application of Part VA) there were inserted—
 
@@ -258,7 +258,7 @@ Part VA of the 1972 Act [^c24048901](access to meetings and documents of certain
 
 .
 
-### 16.[^key-3a4e081e2eafe433824d44cc7098301e]
+### 16.[^c-3a4e081e2eafe433824d44cc7098301e]
 
 (1) The Local Authorities (Executive Arrangements) (Meetings and Access to Information) (England) Regulations 2012 [^c24048911] has effect as set out in the following paragraphs.
 
@@ -292,7 +292,7 @@ Part VA of the 1972 Act [^c24048901](access to meetings and documents of certain
 - (b) regulation 21(1)(c) (inspection and supply of documents); and
 - (c) regulation 21(2).
 
-### 17.[^key-6006cd347a3e846da827599fa35fb456]
+### 17.[^c-6006cd347a3e846da827599fa35fb456]
 
 A local authority may comply with regulation 8 of the Openness of Local Government Bodies Regulations 2014 [^c24048921] (decisions and background papers to be made available to the public) by making the written record and any background papers available for inspection through any or all of the following means—
 
@@ -301,7 +301,7 @@ A local authority may comply with regulation 8 of the Openness of Local Governme
 
 ## PART 4 — Police and Crime Panels
 
-### 18. Amendment to the Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012[^key-9afc729a57b2ee3016246ffc870cc265]
+### 18. Amendment to the Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012[^c-9afc729a57b2ee3016246ffc870cc265]
 
 (1) Schedule 1 to the Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 [^c24048931] is amended as set out in the following paragraphs.
 
@@ -357,13 +357,13 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24048691]: Marginal citation: [2011 c.13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-3ff7d80ac3be077162fd0b90f65ba54a]: Modification: Regulations applied by [S.I. 2020/156](https://www.legislation.gov.uk/uksi/2020/156), [art. 17(3)](https://www.legislation.gov.uk/uksi/2020/156/article/17/3) (as inserted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/426/regulation/13))
+[^c-3ff7d80ac3be077162fd0b90f65ba54a]: Modification: Regulations applied by [S.I. 2020/156](https://www.legislation.gov.uk/uksi/2020/156), [art. 17(3)](https://www.legislation.gov.uk/uksi/2020/156/article/17/3) (as inserted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/426/regulation/13))
 
-[^key-4e9be6a1152b2011a5582a5a874e09ba]: Commencement: Reg. 1 in force at 4.4.2020, see reg. 1
+[^c-4e9be6a1152b2011a5582a5a874e09ba]: Commencement: Reg. 1 in force at 4.4.2020, see reg. 1
 
-[^key-d6bc06db368103585a8c9b6ed8bd4193]: Commencement: Reg. 2 in force at 4.4.2020, see reg. 1
+[^c-d6bc06db368103585a8c9b6ed8bd4193]: Commencement: Reg. 2 in force at 4.4.2020, see reg. 1
 
-[^key-cb349c3be7c5a5c7b89d5488c8c0a5aa]: Commencement: Reg. 3 in force at 4.4.2020, see reg. 1
+[^c-cb349c3be7c5a5c7b89d5488c8c0a5aa]: Commencement: Reg. 3 in force at 4.4.2020, see reg. 1
 
 [^c24048701]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -383,27 +383,27 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24048781]: Marginal citation: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 86 was amended by section 118 of and paragraph 23 of Schedule 7 to the Planning and Compulsory Purchase Act 2004 and by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
-[^key-d22827c05f10f87c55c61f4c56025034]: Textual amendment: Words in reg. 3 inserted (1.8.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/808)](https://www.legislation.gov.uk/uksi/2020/808), [regs. 1](https://www.legislation.gov.uk/uksi/2020/808/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/808/regulation/2/2)
+[^c-d22827c05f10f87c55c61f4c56025034]: Textual amendment: Words in reg. 3 inserted (1.8.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/808)](https://www.legislation.gov.uk/uksi/2020/808), [regs. 1](https://www.legislation.gov.uk/uksi/2020/808/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/808/regulation/2/2)
 
 [^c24048791]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Part 1A was inserted by section 21 of, and Schedule 2 to, the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-cb7c1db69e49aceb2476bbe15e0253c7]: Modification: Pt. 2 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/37A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
+[^c-cb7c1db69e49aceb2476bbe15e0253c7]: Modification: Pt. 2 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/37A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
 
-[^key-a3ea565a35676f79ac06b7c1abca8d5f]: Modification: Pt. 2 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/23A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
+[^c-a3ea565a35676f79ac06b7c1abca8d5f]: Modification: Pt. 2 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/23A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
 
-[^key-afd6caf2d02949a093bba5dff3df932d]: Commencement: Reg. 4 in force at 4.4.2020, see reg. 1
+[^c-afd6caf2d02949a093bba5dff3df932d]: Commencement: Reg. 4 in force at 4.4.2020, see reg. 1
 
-[^key-aa1c2a0c73637e38556f8c364ce095f3]: Commencement: Reg. 5 in force at 4.4.2020, see reg. 1
+[^c-aa1c2a0c73637e38556f8c364ce095f3]: Commencement: Reg. 5 in force at 4.4.2020, see reg. 1
 
-[^key-be81d2e19129b9542e899c2d56bb7703]: Commencement: Reg. 6 in force at 4.4.2020, see reg. 1
+[^c-be81d2e19129b9542e899c2d56bb7703]: Commencement: Reg. 6 in force at 4.4.2020, see reg. 1
 
-[^key-2daed89f41c6a92d2dc13cf427818e54]: Modification: Reg. 6 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/37A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
+[^c-2daed89f41c6a92d2dc13cf427818e54]: Modification: Reg. 6 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/37A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
 
-[^key-a1f7ef185a95fb4a06c88e3e129bfbbc]: Modification: Reg. 6 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/23A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
+[^c-a1f7ef185a95fb4a06c88e3e129bfbbc]: Modification: Reg. 6 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/23A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
 
-[^key-d0af9549ef570aebbbad73ebc8a97aa9]: Textual amendment: Reg. 6(c) substituted (1.8.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/808)](https://www.legislation.gov.uk/uksi/2020/808), [regs. 1](https://www.legislation.gov.uk/uksi/2020/808/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/808/regulation/2/3)
+[^c-d0af9549ef570aebbbad73ebc8a97aa9]: Textual amendment: Reg. 6(c) substituted (1.8.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/808)](https://www.legislation.gov.uk/uksi/2020/808), [regs. 1](https://www.legislation.gov.uk/uksi/2020/808/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/808/regulation/2/3)
 
-[^key-e990eb4aeee950fc95d087c18d529e5a]: Commencement: Reg. 7 in force at 4.4.2020, see reg. 1
+[^c-e990eb4aeee950fc95d087c18d529e5a]: Commencement: Reg. 7 in force at 4.4.2020, see reg. 1
 
 [^c24048801]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -411,54 +411,54 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24048821]: Marginal citation: Section 52 was amended by section 127(1) and (2) of and paragraph 69 of Schedule 7 and paragraph 1 of Schedule 8 to the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-78ff12b3f5c441cdfa71d705e340b7aa]: Commencement: Reg. 8 in force at 4.4.2020, see reg. 1
+[^c-78ff12b3f5c441cdfa71d705e340b7aa]: Commencement: Reg. 8 in force at 4.4.2020, see reg. 1
 
 [^c24048831]: Marginal citation: [S.I. 2015/770](https://www.legislation.gov.uk/uksi/2015/770).
 
-[^key-fc035b103822e3812783d6ff00d49f83]: Commencement: Reg. 9 in force at 4.4.2020, see reg. 1
+[^c-fc035b103822e3812783d6ff00d49f83]: Commencement: Reg. 9 in force at 4.4.2020, see reg. 1
 
 [^c24048841]: Marginal citation: [S.I. 2004/1777](https://www.legislation.gov.uk/uksi/2004/1777).
 
-[^key-100dea9973d4dba1d27ff592e07028ee]: Commencement: Reg. 10 in force at 4.4.2020, see reg. 1
+[^c-100dea9973d4dba1d27ff592e07028ee]: Commencement: Reg. 10 in force at 4.4.2020, see reg. 1
 
 [^c24048851]: Marginal citation: [S.I. 2004/1778](https://www.legislation.gov.uk/uksi/2004/1778).
 
-[^key-d618b921b03aeca74c43ce80d3e17c3f]: Commencement: Reg. 11 in force at 4.4.2020, see reg. 1
+[^c-d618b921b03aeca74c43ce80d3e17c3f]: Commencement: Reg. 11 in force at 4.4.2020, see reg. 1
 
 [^c24048861]: Marginal citation: [S.I. 2005/421](https://www.legislation.gov.uk/uksi/2005/421).
 
-[^key-f727e9ff6bf3d3097e8cf0d9a685705a]: Commencement: Reg. 12 in force at 4.4.2020, see reg. 1
+[^c-f727e9ff6bf3d3097e8cf0d9a685705a]: Commencement: Reg. 12 in force at 4.4.2020, see reg. 1
 
 [^c24048871]: Marginal citation: [S.I. 2010/497](https://www.legislation.gov.uk/uksi/2010/497).
 
-[^key-f6fefe210b0e050652734f9eea28f2c1]: Commencement: Reg. 13 in force at 4.4.2020, see reg. 1
+[^c-f6fefe210b0e050652734f9eea28f2c1]: Commencement: Reg. 13 in force at 4.4.2020, see reg. 1
 
 [^c24048881]: Marginal citation: [1960 c. 67](https://www.legislation.gov.uk/ukpga/1960/67).
 
-[^key-9d33ab012d8e5ac6d8c14cd28a668563]: Textual amendment: Reg. 13(a) substituted (1.8.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/808)](https://www.legislation.gov.uk/uksi/2020/808), [regs. 1](https://www.legislation.gov.uk/uksi/2020/808/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/808/regulation/2/4)
+[^c-9d33ab012d8e5ac6d8c14cd28a668563]: Textual amendment: Reg. 13(a) substituted (1.8.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/808)](https://www.legislation.gov.uk/uksi/2020/808), [regs. 1](https://www.legislation.gov.uk/uksi/2020/808/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/808/regulation/2/4)
 
-[^key-cf916e2b32bc3043b5046910e37f545a]: Commencement: Reg. 14 in force at 4.4.2020, see reg. 1
+[^c-cf916e2b32bc3043b5046910e37f545a]: Commencement: Reg. 14 in force at 4.4.2020, see reg. 1
 
 [^c24048891]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Section 9G was inserted by section 21 of and paragraph 1 of Schedule 2 to the Localism Act 2011.
 
-[^key-9fa3cc0b9320106b6facdd784e0fac0d]: Commencement: Reg. 15 in force at 4.4.2020, see reg. 1
+[^c-9fa3cc0b9320106b6facdd784e0fac0d]: Commencement: Reg. 15 in force at 4.4.2020, see reg. 1
 
-[^key-ecc75216a60213c3e7105e3ecc33e71c]: Modification: Reg. 15 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/37A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
+[^c-ecc75216a60213c3e7105e3ecc33e71c]: Modification: Reg. 15 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/37A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
 
-[^key-b014023cc1aabe88f2916303a121707c]: Modification: Reg. 15 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 8A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/8A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/2) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
+[^c-b014023cc1aabe88f2916303a121707c]: Modification: Reg. 15 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 8A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/8A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/2) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
 
-[^key-f283849bcac3c0a8b9c0dea889e8a007]: Modification: Reg. 15 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/23A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
+[^c-f283849bcac3c0a8b9c0dea889e8a007]: Modification: Reg. 15 applied (with modifications) by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2012/2734/schedule/paragraph/23A) (as inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4)))
 
 [^c24048901]: Marginal citation: Section 100K was amended by section 98 of the Local Government Act 2000, section 56 of and paragraph 16 of Schedule 8 to the [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17) and by sections 222 and 231 of and paragraph 3 of Schedule 22 to the Localism Act 2011.
 
-[^key-3a4e081e2eafe433824d44cc7098301e]: Commencement: Reg. 16 in force at 4.4.2020, see reg. 1
+[^c-3a4e081e2eafe433824d44cc7098301e]: Commencement: Reg. 16 in force at 4.4.2020, see reg. 1
 
 [^c24048911]: Marginal citation: [S.I. 2012/2089](https://www.legislation.gov.uk/uksi/2012/2089).
 
-[^key-6006cd347a3e846da827599fa35fb456]: Commencement: Reg. 17 in force at 4.4.2020, see reg. 1
+[^c-6006cd347a3e846da827599fa35fb456]: Commencement: Reg. 17 in force at 4.4.2020, see reg. 1
 
 [^c24048921]: Marginal citation: [S.I. 2014/2095](https://www.legislation.gov.uk/uksi/2014/2095).
 
-[^key-9afc729a57b2ee3016246ffc870cc265]: Commencement: Reg. 18 in force at 4.4.2020, see reg. 1
+[^c-9afc729a57b2ee3016246ffc870cc265]: Commencement: Reg. 18 in force at 4.4.2020, see reg. 1
 
 [^c24048931]: Marginal citation: [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Duty to consult island communities[^key-d42d2df6ee6224fef750f94269543950]
+## 16. Duty to consult island communities[^c-d42d2df6ee6224fef750f94269543950]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ is likely to have an effect on an island community which is significantly differ
 
 ## Annotations
 
-[^key-d42d2df6ee6224fef750f94269543950]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/12/section/16) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-d42d2df6ee6224fef750f94269543950]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/12/section/16) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

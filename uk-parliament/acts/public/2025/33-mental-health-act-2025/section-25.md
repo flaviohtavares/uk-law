@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Applications for admission or guardianship: role of nominated person[^key-f19223500dbdf633ced91eb3289ae9bf]
+## 25. Applications for admission or guardianship: role of nominated person[^c-f19223500dbdf633ced91eb3289ae9bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f19223500dbdf633ced91eb3289ae9bf]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-f19223500dbdf633ced91eb3289ae9bf]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

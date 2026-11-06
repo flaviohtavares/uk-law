@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Arrangements for the provision of primary ophthalmic services[^key-36449dc4ff3dad3ad2fb497a58869657]
+## 32. Arrangements for the provision of primary ophthalmic services[^c-36449dc4ff3dad3ad2fb497a58869657]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A Local Health Board’s arrangements for the provision of primary ophthalmic se
 
 ## Annotations
 
-[^key-36449dc4ff3dad3ad2fb497a58869657]: Commencement: Reg. 32 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-36449dc4ff3dad3ad2fb497a58869657]: Commencement: Reg. 32 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**26.**[^key-7d600025dc3ec48ae896572a0b1da720] In regulation 27 for “UK” substitute “NI” and for “another” substitute “an EU”.
+**26.**[^c-7d600025dc3ec48ae896572a0b1da720] In regulation 27 for “UK” substitute “NI” and for “another” substitute “an EU”.
 
 ## Annotations
 
-[^key-7d600025dc3ec48ae896572a0b1da720]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-7d600025dc3ec48ae896572a0b1da720]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

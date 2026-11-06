@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Returning officers: general[^key-df0ca89957a505471bffc5daef62d862]
+## 17. Returning officers: general[^c-df0ca89957a505471bffc5daef62d862]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df0ca89957a505471bffc5daef62d862]: Commencement: Art. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-df0ca89957a505471bffc5daef62d862]: Commencement: Art. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

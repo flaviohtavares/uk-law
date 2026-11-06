@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 171. Right to have list of creditors[^key-84b5293008105880391f3b3b2ee955e7]
+## 171. Right to have list of creditors[^c-84b5293008105880391f3b3b2ee955e7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ This does not apply if a statement of the protected energy company’s affairs h
 
 ## Annotations
 
-[^key-84b5293008105880391f3b3b2ee955e7]: Commencement: Rule 171 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-84b5293008105880391f3b3b2ee955e7]: Commencement: Rule 171 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

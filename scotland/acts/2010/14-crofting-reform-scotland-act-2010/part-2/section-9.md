@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Completion of registration[^key-5fad8a7688c62dec76cd108ab50f45c0]
+## 9. Completion of registration[^c-5fad8a7688c62dec76cd108ab50f45c0]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fad8a7688c62dec76cd108ab50f45c0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/14/section/9) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(d)(e)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/d/e))
+[^c-5fad8a7688c62dec76cd108ab50f45c0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/14/section/9) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(d)(e)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/d/e))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Instructions, rules and schemes[^key-d300207e01a49b26de6f6d0dbbb8e508]
+## 12. Instructions, rules and schemes[^c-d300207e01a49b26de6f6d0dbbb8e508]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d300207e01a49b26de6f6d0dbbb8e508]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/427/regulation/12) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-d300207e01a49b26de6f6d0dbbb8e508]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/427/regulation/12) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

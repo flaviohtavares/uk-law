@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Rent factoring.[^key-0007a34dfcc5878e55afbab2ef40bbce]
+## 110. Rent factoring.[^c-0007a34dfcc5878e55afbab2ef40bbce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0007a34dfcc5878e55afbab2ef40bbce]: Textual amendment: S. 110 repealed (with effect in accordance with Sch.6 to the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/12)
+[^c-0007a34dfcc5878e55afbab2ef40bbce]: Textual amendment: S. 110 repealed (with effect in accordance with Sch.6 to the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/12)

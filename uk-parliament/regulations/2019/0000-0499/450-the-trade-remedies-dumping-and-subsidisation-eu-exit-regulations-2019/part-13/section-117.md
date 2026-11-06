@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117.[^key-3a623baa09d241727864e83f9514b340]
+## 117.[^c-3a623baa09d241727864e83f9514b340]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 72 (absorption review) has effect as if—
 
 ## Annotations
 
-[^key-3a623baa09d241727864e83f9514b340]: Commencement: Reg. 117 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-3a623baa09d241727864e83f9514b340]: Commencement: Reg. 117 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

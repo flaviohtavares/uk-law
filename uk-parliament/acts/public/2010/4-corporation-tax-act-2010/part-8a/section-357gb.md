@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357GB. Application of this Part in relation to partnerships[^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357GB. Application of this Part in relation to partnerships[^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,21 +48,21 @@ Such a partner is referred to in this section as a “**corporate partner**”.
 
 (10) Section 357BE (active ownership condition) has effect as if the reference in subsection (4) to section 357BC(2) or (3) included a reference to subsection (7)(a) of this section.
 
-(11) Sections 357BK, 357BKA[^key-5610bd9819b3cd49290a72bd6b8cf4c7] 357CL and 357CM (election for small claims treatment) have effect as if—
+(11) Sections 357BK, 357BKA[^c-5610bd9819b3cd49290a72bd6b8cf4c7] 357CL and 357CM (election for small claims treatment) have effect as if—
 
-- (a) any reference to a company having one or more associated companies were a reference to any corporate partner in relation to which an election under section 357BK or[^key-62d3923119344aca210f1e37dcad49b0] 357CL has effect having one or more associated companies, and
+- (a) any reference to a company having one or more associated companies were a reference to any corporate partner in relation to which an election under section 357BK or[^c-62d3923119344aca210f1e37dcad49b0] 357CL has effect having one or more associated companies, and
 - (b) any reference to a company having no associated company were a reference to each such corporate partner having no associated company.
 
-(12) Subsection (13) applies where a corporate partner is a party to an arrangement at any time during an accounting period of the firm which produces for the corporate partner a return within section 357BG(1)(c)[^key-9b19d0c05510208adb68eea0c5d7088e] .
+(12) Subsection (13) applies where a corporate partner is a party to an arrangement at any time during an accounting period of the firm which produces for the corporate partner a return within section 357BG(1)(c)[^c-9b19d0c05510208adb68eea0c5d7088e] .
 
 (13) For the accounting period of the firm the corporate partner's share of a profit or loss of a trade carried on by the firm is determined for corporation tax purposes as if no election under section 357A had effect in relation to the trade.
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-5610bd9819b3cd49290a72bd6b8cf4c7]: Textual amendment: Words in s. 357GB(11) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/21/2/a)
+[^c-5610bd9819b3cd49290a72bd6b8cf4c7]: Textual amendment: Words in s. 357GB(11) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/21/2/a)
 
-[^key-62d3923119344aca210f1e37dcad49b0]: Textual amendment: Words in s. 357GB(11)(a) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/21/2/b)
+[^c-62d3923119344aca210f1e37dcad49b0]: Textual amendment: Words in s. 357GB(11)(a) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/21/2/b)
 
-[^key-9b19d0c05510208adb68eea0c5d7088e]: Textual amendment: Words in s. 357GB(12) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 21(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/21/3)
+[^c-9b19d0c05510208adb68eea0c5d7088e]: Textual amendment: Words in s. 357GB(12) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 21(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/21/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In any proceedings by the master of a ship or a person employed in a ship otherwise than under a crew agreement or an agreement specified in regulations under section 32(a)[^key-295c79774e224ad370832d31ebf6ade2] for the recovery of any sum due to him as wages the court, unless it appears to it that the delay in paying the sum was due to—
+In any proceedings by the master of a ship or a person employed in a ship otherwise than under a crew agreement or an agreement specified in regulations under section 32(a)[^c-295c79774e224ad370832d31ebf6ade2] for the recovery of any sum due to him as wages the court, unless it appears to it that the delay in paying the sum was due to—
 
 - (a) a mistake,
 - (b) a reasonable dispute as to liability,
@@ -31,4 +31,4 @@ may order them to pay, in addition to the sum due, interest on it at the rate of
 
 ## Annotations
 
-[^key-295c79774e224ad370832d31ebf6ade2]: Textual amendment: Words in [s. 35](https://www.legislation.gov.uk/ukpga/1995/21/section/35) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/2/4)
+[^c-295c79774e224ad370832d31ebf6ade2]: Textual amendment: Words in [s. 35](https://www.legislation.gov.uk/ukpga/1995/21/section/35) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — STREETS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-3ec5d751025265c2b87c9cabde63a2d3]
+## SCHEDULE 7 — STREETS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-3ec5d751025265c2b87c9cabde63a2d3]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 12
 
 ## Annotations
 
-[^key-3ec5d751025265c2b87c9cabde63a2d3]: Commencement: Sch. 7 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-3ec5d751025265c2b87c9cabde63a2d3]: Commencement: Sch. 7 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

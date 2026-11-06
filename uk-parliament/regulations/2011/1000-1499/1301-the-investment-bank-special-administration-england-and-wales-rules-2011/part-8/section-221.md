@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 221. Application to court by administrator[^key-de12729705a738635eefaa254ba69291]
+## 221. Application to court by administrator[^c-de12729705a738635eefaa254ba69291]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) give notice in writing to—
   - (i) the applicant for the special administration order under which the administrator was appointed,
   - (ii) the creditors and clients,
-  - (iii) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-e4156d9ed246d652b06cd3d2b9073f1a],
+  - (iii) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-e4156d9ed246d652b06cd3d2b9073f1a],
   - (iv) in a special administration (bank insolvency), the Bank of England, and
   - (v) in a special administration (bank administration), the Bank of England and the FSCS,
 
@@ -41,14 +41,14 @@ summary: ''
 
 (4) The administrator—
 
-- (a) shall send a copy of the application under paragraph (1) to the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-7f67e4e97ddba51fb6dd860491adb107];
+- (a) shall send a copy of the application under paragraph (1) to the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-7f67e4e97ddba51fb6dd860491adb107];
 - (b) must, within 5 business days of filing the application, gazette a notice undertaking to provide a copy of the application to any person who so requests it (and an address to which they can write); and
 - (c) advertise the notice in such other manner as the administrator thinks fit.
 
 ## Annotations
 
-[^key-de12729705a738635eefaa254ba69291]: Commencement: [Rule 221](https://www.legislation.gov.uk/uksi/2011/1301/rule/221) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-de12729705a738635eefaa254ba69291]: Commencement: [Rule 221](https://www.legislation.gov.uk/uksi/2011/1301/rule/221) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-e4156d9ed246d652b06cd3d2b9073f1a]: Textual amendment: Words in [art. 221(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/1301/article/221/2/a/iii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-e4156d9ed246d652b06cd3d2b9073f1a]: Textual amendment: Words in [art. 221(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/1301/article/221/2/a/iii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-7f67e4e97ddba51fb6dd860491adb107]: Textual amendment: Words in [art. 221(4)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/221/4/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-7f67e4e97ddba51fb6dd860491adb107]: Textual amendment: Words in [art. 221(4)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/221/4/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

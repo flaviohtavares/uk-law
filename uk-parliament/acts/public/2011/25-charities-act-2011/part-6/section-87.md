@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Sections 76 to 82 (except section 79(1) and (2)[^key-b73e78d4f28a137bada1a55e186cd2dc]) and sections 84 to 86 have effect in relation to any body which—
+(1) Sections 76 to 82 (except section 79(1) and (2)[^c-b73e78d4f28a137bada1a55e186cd2dc]) and sections 84 to 86 have effect in relation to any body which—
 
 - (a) is entered in the Scottish Charity Register, and
 - (b) is managed or controlled wholly or mainly in or from England or Wales,
@@ -68,4 +68,4 @@ written confirmation that they are willing to accept the property.
 
 ## Annotations
 
-[^key-b73e78d4f28a137bada1a55e186cd2dc]: Textual amendment: Words in s. 87(1) substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)
+[^c-b73e78d4f28a137bada1a55e186cd2dc]: Textual amendment: Words in s. 87(1) substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59AB. Amounts payable on account: recovery[^key-52676363be695809cb42b7805773d1ee]
+## 59AB. Amounts payable on account: recovery[^c-52676363be695809cb42b7805773d1ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions of the Taxes Acts as to the recovery of tax shall apply to an amo
 
 ## Annotations
 
-[^key-52676363be695809cb42b7805773d1ee]: Textual amendment: Ss. 59AA, 59AB inserted (with effect in accordance with Sch. 7 para. 60 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2015/11/schedule/7/paragraph/51)
+[^c-52676363be695809cb42b7805773d1ee]: Textual amendment: Ss. 59AA, 59AB inserted (with effect in accordance with Sch. 7 para. 60 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2015/11/schedule/7/paragraph/51)

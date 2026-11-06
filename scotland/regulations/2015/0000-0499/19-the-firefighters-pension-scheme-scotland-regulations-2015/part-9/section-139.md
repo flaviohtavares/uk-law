@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Certificate to be given to new employer[^key-06856619ed93cfa8eeb8415f4af9670c]
+## 139. Certificate to be given to new employer[^c-06856619ed93cfa8eeb8415f4af9670c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A member who has been provided with a certificate under regulation 136 (requirem
 
 ## Annotations
 
-[^key-06856619ed93cfa8eeb8415f4af9670c]: Commencement: [Reg. 139](https://www.legislation.gov.uk/ssi/2015/19/regulation/139) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-06856619ed93cfa8eeb8415f4af9670c]: Commencement: [Reg. 139](https://www.legislation.gov.uk/ssi/2015/19/regulation/139) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

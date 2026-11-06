@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Removal of maximum period for unpaid work requirement[^key-132642a261bf40adf606d9f6e8cf8399][^key-c23def6cb0ccfa51a489286463b64f03]
+## 36. Removal of maximum period for unpaid work requirement[^c-132642a261bf40adf606d9f6e8cf8399][^c-c23def6cb0ccfa51a489286463b64f03]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-132642a261bf40adf606d9f6e8cf8399]: Commencement: S. 36 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-132642a261bf40adf606d9f6e8cf8399]: Commencement: S. 36 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-c23def6cb0ccfa51a489286463b64f03]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2026/2/section/36) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-c23def6cb0ccfa51a489286463b64f03]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2026/2/section/36) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)

@@ -32,7 +32,7 @@ summary: ''
 
 Sea fisheries, england
 
-The Sea Fishing (Restriction on Days at Sea) Order 2007 (revoked)[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+The Sea Fishing (Restriction on Days at Sea) Order 2007 (revoked)[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 Made
 
@@ -46,129 +46,129 @@ Coming into force
 
 20th April 2007
 
-[^key-4bc4127fb803339c3b6a2bf190d93b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bc4127fb803339c3b6a2bf190d93b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+## PART 1 — Preliminary[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
-### 1. Citation and commencement[^key-4bc4127fb803339c3b6a2bf190d93b3b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Extent and application[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 1. Citation and commencement[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 2. Extent and application[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Days at Sea[^key-4bc4127fb803339c3b6a2bf190d93b3b]
-
-### 4. Establishment of management periods for English fishing boats[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 3. Interpretation[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Deeming provisions in respect of certain management periods notified in the early period of 2007[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+## PART 2 — Days at Sea[^c-4bc4127fb803339c3b6a2bf190d93b3b]
+
+### 4. Establishment of management periods for English fishing boats[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences in relation to management periods[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 5. Deeming provisions in respect of certain management periods notified in the early period of 2007[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Allocation of days for fishing in the Cod Recovery Zone and Sole Recovery Zone[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 6. Offences in relation to management periods[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Allocation of days – pair trawling[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 7. Allocation of days for fishing in the Cod Recovery Zone and Sole Recovery Zone[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Adjustment of the allocation of days[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 8. Allocation of days – pair trawling[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Fishing in the early period of 2007, notification requirement and adjustment of allocation of days[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 9. Adjustment of the allocation of days[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Offences in relation to allocation of days and other restrictions on presence in the Cod Recovery Zone and Sole Recovery Zone[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 10. Fishing in the early period of 2007, notification requirement and adjustment of allocation of days[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Transfer of days[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 11. Offences in relation to allocation of days and other restrictions on presence in the Cod Recovery Zone and Sole Recovery Zone[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Offence in relation to transfers of days[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 12. Transfer of days[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Offences in relation to fishing gears[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 13. Offence in relation to transfers of days[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Maintenance of logbooks requirements and related offence[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 14. Offences in relation to fishing gears[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Enforcement etc[^key-4bc4127fb803339c3b6a2bf190d93b3b]
-
-### 16. Interpretation of Part 3[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 15. Maintenance of logbooks requirements and related offence[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Penalties and defence[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+## PART 3 — Enforcement etc[^c-4bc4127fb803339c3b6a2bf190d93b3b]
+
+### 16. Interpretation of Part 3[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Recovery of fines[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 17. Penalties and defence[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Powers of British sea-fishery officers in relation to fishing boats[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 18. Recovery of fines[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Powers of British sea-fishery officers on land[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 19. Powers of British sea-fishery officers in relation to fishing boats[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Warrants to enter premises[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 20. Powers of British sea-fishery officers on land[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Powers of British sea-fishery officers to seize fish and fishing gear[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 21. Warrants to enter premises[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Protection of officers[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 22. Powers of British sea-fishery officers to seize fish and fishing gear[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Obstruction of officers[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 23. Protection of officers[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Offences by corporate bodies[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 24. Obstruction of officers[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Admissibility of documents in evidence[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 25. Offences by corporate bodies[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Amendment[^key-4bc4127fb803339c3b6a2bf190d93b3b]
+### 26. Admissibility of documents in evidence[^c-4bc4127fb803339c3b6a2bf190d93b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc4127fb803339c3b6a2bf190d93b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 27. Amendment[^c-4bc4127fb803339c3b6a2bf190d93b3b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4bc4127fb803339c3b6a2bf190d93b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-4bc4127fb803339c3b6a2bf190d93b3b]EXPLANATORY NOTE
+[^c-4bc4127fb803339c3b6a2bf190d93b3b]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -188,4 +188,4 @@ A Regulatory Impact Assessment in relation to the Annexes and this Order has bee
 
 ## Annotations
 
-[^key-4bc4127fb803339c3b6a2bf190d93b3b]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-4bc4127fb803339c3b6a2bf190d93b3b]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

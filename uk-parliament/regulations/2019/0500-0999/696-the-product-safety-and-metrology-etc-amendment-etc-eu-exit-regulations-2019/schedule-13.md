@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 16
 
-### 1. Introduction[^key-28f46c26e8946deb2bcd66fbc3d1934b]
+### 1. Introduction[^c-28f46c26e8946deb2bcd66fbc3d1934b]
 
 The Aerosol Dispensers Regulations 2009 are amended in accordance with paragraphs 2 to 8.
 
-### 2. Amendment to regulation 2[^key-3fb4501bb8e5804ec9976e9ef2bfbf50]
+### 2. Amendment to regulation 2[^c-3fb4501bb8e5804ec9976e9ef2bfbf50]
 
 (1) Regulation 2 (interpretation) is amended as follows.
 
@@ -67,14 +67,14 @@ The Aerosol Dispensers Regulations 2009 are amended in accordance with paragraph
   - (ii) after “point 6.1.4.3” insert “ of that Annex ”;
 - (d) in subparagraph (b) after “6.1.4.3” insert “ of Schedule 1A ”.
 
-### 3. Amendment to regulation 3[^key-4a59060c37a01321b71680a60a004785]
+### 3. Amendment to regulation 3[^c-4a59060c37a01321b71680a60a004785]
 
 In regulation 3 (requirements for the marking of aerosol dispensers)—
 
-- (a)[^key-3ae8b1e9c9e6847b0fa90ce42f8c5cb5] in paragraph (1)—
+- (a)[^c-3ae8b1e9c9e6847b0fa90ce42f8c5cb5] in paragraph (1)—
   - (i) after “dispenser” insert “ or where paragraph (1A) applies, on a label affixed to, or a document accompanying, the aerosol dispenser ”;
   - (ii) for “a compliance mark” substitute “ the UK marking ”;
-- (aa)[^key-5bfa1edeb5cc0341e56400ca28adb219] after paragraph (1) insert—
+- (aa)[^c-5bfa1edeb5cc0341e56400ca28adb219] after paragraph (1) insert—
 
   > (1A) For a period of 24 months beginning with IP completion day, the UK marking may be affixed to—
   >
@@ -101,7 +101,7 @@ In regulation 3 (requirements for the marking of aerosol dispensers)—
 
   .
 
-### 4. Insertion of regulation 3A[^key-be27232d127fce7e300b539643a69987]
+### 4. Insertion of regulation 3A[^c-be27232d127fce7e300b539643a69987]
 
 After regulation 3, insert—
 
@@ -118,7 +118,7 @@ After regulation 3, insert—
 
 .
 
-### 5. Amendment to regulation 4[^key-fd3418aa48b83fa6e2bf433fd7ed6e36][^key-c67c5c22828054bd0e59aa1dc7e66393]
+### 5. Amendment to regulation 4[^c-fd3418aa48b83fa6e2bf433fd7ed6e36][^c-c67c5c22828054bd0e59aa1dc7e66393]
 
 For regulation 4 substitute—
 
@@ -131,23 +131,23 @@ For regulation 4 substitute—
 
 .
 
-### 6. Amendment to regulation 5[^key-afea1cd90749ec2c016280e631c27c0f]
+### 6. Amendment to regulation 5[^c-afea1cd90749ec2c016280e631c27c0f]
 
 In regulation 5 (prohibition of sale or supply of non-compliant marked aerosol dispensers)—
 
 - (a) for paragraph (a), substitute—
 
   > - (a) an aerosol dispenser which—
-  >   - (i) is marked with the UK marking where all the requirements referred to in regulation 3 relating to that aerosol dispenser are not complied with; [^key-162d32b032db69ba2e1a92a04405214b]...
-  >   - (ia)[^key-5bce1f62b489b67174d738650a311bee] has a label affixed to it, or a document accompanying it, which is marked with the UK marking, where—
+  >   - (i) is marked with the UK marking where all the requirements referred to in regulation 3 relating to that aerosol dispenser are not complied with; [^c-162d32b032db69ba2e1a92a04405214b]...
+  >   - (ia)[^c-5bce1f62b489b67174d738650a311bee] has a label affixed to it, or a document accompanying it, which is marked with the UK marking, where—
   >     - (aa) the requirements of regulation 3 are not complied with; or
   >     - (bb) the requirements of regulation 3 are complied with but the period referred to in regulation 3(1A) has elapsed; or
-  >   - (ii)[^key-4e31f529c00103eed069abc3e89d4d29] is marked with the symbol “3” (inverted epsilon) where either—
+  >   - (ii)[^c-4e31f529c00103eed069abc3e89d4d29] is marked with the symbol “3” (inverted epsilon) where either—
   >     - (aa) all the requirements of regulation 5A(3) are not complied with; or
   >     - (bb) all the requirements of regulation 5B are not complied with; or
 
   ;
-- (b)[^key-000477eb23ba39e20d292b0ea7632772] for paragraph (b) substitute—
+- (b)[^c-000477eb23ba39e20d292b0ea7632772] for paragraph (b) substitute—
 
   > - (b) an aerosol dispenser which—
   >   - (i) is marked with a mark so closely resembling the UK marking or the symbol “3” (inverted epsilon) as to be likely to deceive; or
@@ -155,7 +155,7 @@ In regulation 5 (prohibition of sale or supply of non-compliant marked aerosol d
 
   .
 
-### 7. Insertion of regulation 5A[^key-d645fada68b7f2df59b6782f4dd9a87f]
+### 7. Insertion of regulation 5A[^c-d645fada68b7f2df59b6782f4dd9a87f]
 
 After regulation 5 insert—
 
@@ -163,12 +163,12 @@ After regulation 5 insert—
 >
 > (1) In this regulation any reference to an Article or an Annex is a reference to an Article of or the Annex to the Directive.
 >
-> (2) Paragraph (3) sets out the requirements which must be complied with under regulation 5(a)(ii)(aa)[^key-282c49b6f0d6892a59c58383d70b1166] in order to mark an aerosol dispenser with the symbol “3” (inverted epsilon).
+> (2) Paragraph (3) sets out the requirements which must be complied with under regulation 5(a)(ii)(aa)[^c-282c49b6f0d6892a59c58383d70b1166] in order to mark an aerosol dispenser with the symbol “3” (inverted epsilon).
 >
 > (3) The requirements referred to in paragraph (2) are that—
 >
-> - (a) the aerosol dispenser is a relevant aerosol dispenser; [^key-2829086e27d4c47e5c1944eaaa155b0c]...
-> - (aa)[^key-b3399ceadb01155830eee6c6ecc06e0f] the aerosol dispenser is supplied within a period of 12 months beginning with IP completion day; and
+> - (a) the aerosol dispenser is a relevant aerosol dispenser; [^c-2829086e27d4c47e5c1944eaaa155b0c]...
+> - (aa)[^c-b3399ceadb01155830eee6c6ecc06e0f] the aerosol dispenser is supplied within a period of 12 months beginning with IP completion day; and
 > - (b) the relevant aerosol dispenser—
 >   - (i) complies with the obligations of Article 8(1) (or where permitted by that Article, where its label complies with those requirements);
 >   - (ii) complies with the requirements of Article 8(1a);
@@ -186,7 +186,7 @@ After regulation 5 insert—
 >   - (i) has affixed the symbol “3” (inverted epsilon) in accordance with Article 3; and
 >   - (ii) has complied with the obligations set out after the heading to point 2 (general provisions) and immediately before point 2.1 of the Annex.
 >
-> **5B. Qualifying Northern Ireland Goods[^key-d23c199deb67d5d4b648e3f5fab8ef9f]**
+> **5B. Qualifying Northern Ireland Goods[^c-d23c199deb67d5d4b648e3f5fab8ef9f]**
 >
 > (1) Paragraph (2) sets out the requirements that must be complied with under regulation 5(a)(ii)(bb) to mark an aerosol dispenser with the symbol “3” (inverted epsilon);
 >
@@ -199,7 +199,7 @@ After regulation 5 insert—
 
 .
 
-### 8. Insertion of Schedule 1A[^key-a261251853ac0a4091e61ae6d7e685a5]
+### 8. Insertion of Schedule 1A[^c-a261251853ac0a4091e61ae6d7e685a5]
 
 After the Schedule, insert—
 
@@ -739,42 +739,42 @@ After the Schedule, insert—
 
 ## Annotations
 
-[^key-28f46c26e8946deb2bcd66fbc3d1934b]: Commencement: Sch. 13 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-28f46c26e8946deb2bcd66fbc3d1934b]: Commencement: Sch. 13 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3fb4501bb8e5804ec9976e9ef2bfbf50]: Commencement: Sch. 13 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3fb4501bb8e5804ec9976e9ef2bfbf50]: Commencement: Sch. 13 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4a59060c37a01321b71680a60a004785]: Commencement: Sch. 13 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4a59060c37a01321b71680a60a004785]: Commencement: Sch. 13 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3ae8b1e9c9e6847b0fa90ce42f8c5cb5]: Textual amendment: Sch. 13 para. 3(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/2/a)
+[^c-3ae8b1e9c9e6847b0fa90ce42f8c5cb5]: Textual amendment: Sch. 13 para. 3(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/2/a)
 
-[^key-5bfa1edeb5cc0341e56400ca28adb219]: Textual amendment: Sch. 13 para. 3(aa) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/2/b)
+[^c-5bfa1edeb5cc0341e56400ca28adb219]: Textual amendment: Sch. 13 para. 3(aa) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/2/b)
 
-[^key-be27232d127fce7e300b539643a69987]: Commencement: Sch. 13 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-be27232d127fce7e300b539643a69987]: Commencement: Sch. 13 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fd3418aa48b83fa6e2bf433fd7ed6e36]: Commencement: Sch. 13 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fd3418aa48b83fa6e2bf433fd7ed6e36]: Commencement: Sch. 13 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c67c5c22828054bd0e59aa1dc7e66393]: Textual amendment: Sch. 13 para. 5 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/3)
+[^c-c67c5c22828054bd0e59aa1dc7e66393]: Textual amendment: Sch. 13 para. 5 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/3)
 
-[^key-afea1cd90749ec2c016280e631c27c0f]: Commencement: Sch. 13 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-afea1cd90749ec2c016280e631c27c0f]: Commencement: Sch. 13 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-162d32b032db69ba2e1a92a04405214b]: Textual amendment: Word in Sch. 13 para. 6(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/a)
+[^c-162d32b032db69ba2e1a92a04405214b]: Textual amendment: Word in Sch. 13 para. 6(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/a)
 
-[^key-5bce1f62b489b67174d738650a311bee]: Textual amendment: Words in Sch. 13 para. 6(a) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/b)
+[^c-5bce1f62b489b67174d738650a311bee]: Textual amendment: Words in Sch. 13 para. 6(a) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/b)
 
-[^key-4e31f529c00103eed069abc3e89d4d29]: Textual amendment: Words in Sch. 13 para. 6(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(c)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/c)
+[^c-4e31f529c00103eed069abc3e89d4d29]: Textual amendment: Words in Sch. 13 para. 6(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(c)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/c)
 
-[^key-000477eb23ba39e20d292b0ea7632772]: Textual amendment: Sch. 13 para. 6(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(d)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/d)
+[^c-000477eb23ba39e20d292b0ea7632772]: Textual amendment: Sch. 13 para. 6(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(4)(d)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/4/d)
 
-[^key-d645fada68b7f2df59b6782f4dd9a87f]: Commencement: Sch. 13 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d645fada68b7f2df59b6782f4dd9a87f]: Commencement: Sch. 13 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-282c49b6f0d6892a59c58383d70b1166]: Textual amendment: Word in Sch. 13 para. 7 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/a/i)
+[^c-282c49b6f0d6892a59c58383d70b1166]: Textual amendment: Word in Sch. 13 para. 7 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/a/i)
 
-[^key-2829086e27d4c47e5c1944eaaa155b0c]: Textual amendment: Word in Sch. 13 para. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/a/ii)
+[^c-2829086e27d4c47e5c1944eaaa155b0c]: Textual amendment: Word in Sch. 13 para. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/a/ii)
 
-[^key-b3399ceadb01155830eee6c6ecc06e0f]: Textual amendment: Words in Sch. 13 para. 7 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/a/iii)
+[^c-b3399ceadb01155830eee6c6ecc06e0f]: Textual amendment: Words in Sch. 13 para. 7 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/a/iii)
 
-[^key-d23c199deb67d5d4b648e3f5fab8ef9f]: Textual amendment: Words in Sch. 13 para. 7 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/b)
+[^c-d23c199deb67d5d4b648e3f5fab8ef9f]: Textual amendment: Words in Sch. 13 para. 7 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 8(5)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/8/5/b)
 
-[^key-a261251853ac0a4091e61ae6d7e685a5]: Commencement: Sch. 13 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a261251853ac0a4091e61ae6d7e685a5]: Commencement: Sch. 13 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24326751]: Marginal citation: ECE/TRANS/257 2017.

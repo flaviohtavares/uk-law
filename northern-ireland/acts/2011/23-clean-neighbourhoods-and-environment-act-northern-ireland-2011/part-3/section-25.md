@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Section 24: transitional provision[^key-eaf8e6ab5afd588d3d99491df0ebbc11]
+## 25. Section 24: transitional provision[^c-eaf8e6ab5afd588d3d99491df0ebbc11]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaf8e6ab5afd588d3d99491df0ebbc11]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/23/section/25) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-eaf8e6ab5afd588d3d99491df0ebbc11]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/23/section/25) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

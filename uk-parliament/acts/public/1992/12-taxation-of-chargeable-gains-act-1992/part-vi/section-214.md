@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Transitional provisions.[^key-0efe07a6684bc7806a4c5b734b6307c6]
+## 214. Transitional provisions.[^c-0efe07a6684bc7806a4c5b734b6307c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0efe07a6684bc7806a4c5b734b6307c6]: Textual amendment: S. 214 repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/5/3/b), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-0efe07a6684bc7806a4c5b734b6307c6]: Textual amendment: S. 214 repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/5/3/b), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)

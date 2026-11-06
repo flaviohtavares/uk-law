@@ -48,7 +48,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 In accordance with section 16(2) of the Financial Services and Markets Act 2023, the Treasury have consulted the Financial Conduct Authority, being the appropriate regulator[^f00003], and such other persons as the Treasury consider appropriate.
 
-## 1. Citation, commencement and extent[^key-0a4c069d969172b883190d102efa2b25]
+## 1. Citation, commencement and extent[^c-0a4c069d969172b883190d102efa2b25]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025.
 
@@ -56,7 +56,7 @@ In accordance with section 16(2) of the Financial Services and Markets Act 2023,
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-28b4b380b1eae115ed33a27e6774515e]
+## 2. Interpretation[^c-28b4b380b1eae115ed33a27e6774515e]
 
 In these Regulations—
 
@@ -83,7 +83,7 @@ In these Regulations—
 - “**relevant PISCES person**” has the meaning given in regulation 12(3);
 - “**specified PISCES investor**” has the meaning given in regulation 5(3).
 
-## 3. Creation and operation of the PISCES sandbox[^key-3252184d2ca0504771f4692927d67ea7]
+## 3. Creation and operation of the PISCES sandbox[^c-3252184d2ca0504771f4692927d67ea7]
 
 (1) These Regulations have effect as an FMI sandbox (the “PISCES sandbox”) for the purposes described in section 13(1)(a) and (b) of the Act (testing of FMI technologies or practices), in so far as those purposes relate to the practice of operating a PISCES in the carrying on, as part of the business of a person specified in regulation 4, of the FMI activity of operating a multilateral system for the trading of shares.
 
@@ -101,7 +101,7 @@ In these Regulations—
 
 (4) For the purposes of these Regulations, the appropriate regulator is the FCA.
 
-## 4. Persons who may apply for approval to operate a PISCES[^key-8e477d48a24ecdc2b02d65979018be27]
+## 4. Persons who may apply for approval to operate a PISCES[^c-8e477d48a24ecdc2b02d65979018be27]
 
 An application to the FCA under regulation 9 for approval to operate a PISCES may be made by—
 
@@ -111,7 +111,7 @@ An application to the FCA under regulation 9 for approval to operate a PISCES ma
   - (ii) article 25D (operating a multilateral trading facility)[^f00013];
   - (iii) article 25DA (operating an organised trading facility)[^f00014].
 
-## 5. Other persons who may participate in the PISCES sandbox arrangements[^key-76d50731cde338d63f387d490047e148]
+## 5. Other persons who may participate in the PISCES sandbox arrangements[^c-76d50731cde338d63f387d490047e148]
 
 (1) The following descriptions of person may participate in the PISCES sandbox arrangements by using a PISCES or carrying on activities in connection with a PISCES—
 
@@ -161,7 +161,7 @@ An application to the FCA under regulation 9 for approval to operate a PISCES ma
 - (b) a member firm or participant with access to a PISCES;
 - (c) an appointed representative as defined in section 39(2) of FSMA 2000 (exemption of appointed representatives)[^f00022].
 
-## 6. Meaning of “qualifying individual”[^key-5d0050059dd72570662dc883f6ecbfcd]
+## 6. Meaning of “qualifying individual”[^c-5d0050059dd72570662dc883f6ecbfcd]
 
 (1) “**Qualifying individual**”, in relation to a PISCES company and a trading period, means an individual whose inclusion on a list provided for that trading period by the PISCES company to a financial intermediary or PISCES operator indicates that the individual meets the qualifying conditions in paragraph (2).
 
@@ -178,7 +178,7 @@ An application to the FCA under regulation 9 for approval to operate a PISCES ma
 
 (5) In paragraph (2)(b)(ii), “**third party**” includes a company of which the individual in question is a director, member or employee.
 
-## 7. Obligation on financial intermediary to check investor eligibility[^key-bdb57129eb79188b91d8bcfb92bacbc4]
+## 7. Obligation on financial intermediary to check investor eligibility[^c-bdb57129eb79188b91d8bcfb92bacbc4]
 
 (1) A financial intermediary must not place an order to buy a PISCES share when dealing with a person (“**the client**”), whether directly, or through bare trustees, nominees or custodians, unless—
 
@@ -201,13 +201,13 @@ paragraph (1) applies to the financial intermediary as if the financial intermed
 
 (4) Where a PISCES operator receives an order to buy a PISCES share for a person, without the involvement of a financial intermediary, paragraphs (1), (2) and (3)(b) apply to the PISCES operator as they apply to a financial intermediary.
 
-## 8. Financial intermediary not to place certain orders for PISCES companies[^key-9c22f6d6ae9108edcf088300fce08ad4]
+## 8. Financial intermediary not to place certain orders for PISCES companies[^c-9c22f6d6ae9108edcf088300fce08ad4]
 
 (1) A financial intermediary must not place an order for a PISCES company if the effect of that order would be that the PISCES company buys or sells its own PISCES shares.
 
 (2) Where a PISCES operator receives orders without the involvement of a financial intermediary, the PISCES operator must not give effect to an order which would have the effect mentioned in paragraph (1).
 
-## 9. PISCES application procedure and requirements[^key-38672a6cd51267c83c335d26a4758ee3]
+## 9. PISCES application procedure and requirements[^c-38672a6cd51267c83c335d26a4758ee3]
 
 (1) An application to the FCA for approval to operate a PISCES under the PISCES sandbox arrangements must—
 
@@ -229,7 +229,7 @@ paragraph (1) applies to the financial intermediary as if the financial intermed
 
 (3) At any time after an application is received and before it is determined, the FCA may require the applicant to provide it with such further information as it reasonably considers necessary to enable it to determine the application.
 
-## 10. Determination of application to operate a PISCES[^key-78e865376277c2e078e8d92a57da19b8]
+## 10. Determination of application to operate a PISCES[^c-78e865376277c2e078e8d92a57da19b8]
 
 (1) An application made under regulation 9(1) for approval to operate a PISCES under the PISCES sandbox arrangements must be determined by the FCA.
 
@@ -255,7 +255,7 @@ in the case of approval, with or without conditions, limitations or restrictions
 
 (6) A PISCES operator that operates its PISCES otherwise than in accordance with any conditions, limitations or restrictions imposed by the FCA under paragraph (2)(b), or under paragraph (2)(b)(ii) or (3) of regulation 11, is to be taken to have contravened a requirement imposed on it by the FCA under these Regulations.
 
-## 11. Further powers of the FCA in respect of PISCES approval notices[^key-3375ca9a6dc5c72a9f816b615720a989]
+## 11. Further powers of the FCA in respect of PISCES approval notices[^c-3375ca9a6dc5c72a9f816b615720a989]
 
 (1) The FCA may, by direction, modify, suspend or cancel the PAN of a PISCES operator—
 
@@ -280,7 +280,7 @@ in the case of approval, with or without conditions, limitations or restrictions
 - (b) provide reasons for exercising the power;
 - (c) specify whether the modification, suspension or cancellation of the PAN takes effect immediately or on a specified date.
 
-## 12. Sandbox arrangements[^key-7349c6e1115894ea8bf600778925e53f]
+## 12. Sandbox arrangements[^c-7349c6e1115894ea8bf600778925e53f]
 
 (1) The relevant enactments[^f00024] specified in Schedule 1 apply, with the modifications in that Schedule, to—
 
@@ -309,7 +309,7 @@ the provisions continue to apply with respect to that person, in that capacity.
 - (a) a person participating in the PISCES sandbox arrangements under regulation 5(1);
 - (b) a person referred to in paragraph (1)(d), or (e)(ii) or (iii).
 
-## 13. Liability for disclosed information[^key-7b02fd2c7a7cd8276d0a6842d346b9fd]
+## 13. Liability for disclosed information[^c-7b02fd2c7a7cd8276d0a6842d346b9fd]
 
 (1) Where a PISCES company makes a PISCES statement the PISCES company is liable to pay compensation to a person who—
 
@@ -331,7 +331,7 @@ the provisions continue to apply with respect to that person, in that capacity.
 - (b) Part 2 contains exemptions from liability under paragraph (1) for statements made by a PISCES company in order to comply with requirements placed on it by a PISCES operator in accordance with PISCES disclosure rules;
 - (c) Part 3 contains further exemptions from liability under paragraph (1) and exemptions from other liability.
 
-## 14. Making of FCA rules[^key-8925c7023e0b37193ce42879ce4fb017]
+## 14. Making of FCA rules[^c-8925c7023e0b37193ce42879ce4fb017]
 
 (1) The FCA may make such rules as it considers to be necessary or expedient for the purpose of implementing and operating the PISCES sandbox arrangements.
 
@@ -378,7 +378,7 @@ including provision that applies before shares in a PISCES company are traded on
 - (a) may be given subject to conditions, and
 - (b) may be revoked or varied by a subsequent direction.
 
-## 15. Modification of technical standards[^key-674c88a7c1e81c28b674de7df95b6881]
+## 15. Modification of technical standards[^c-674c88a7c1e81c28b674de7df95b6881]
 
 (1) The FCA may make such modifications of any technical standards having effect for the purposes of a relevant enactment as it considers it to be necessary or expedient for the purposes of implementing and operating the PISCES sandbox arrangements.
 
@@ -390,7 +390,7 @@ including provision that applies before shares in a PISCES company are traded on
 
 (3) This regulation ceases to have effect when the repeal of section 138P of FSMA 2000 (technical standards)[^f00025] by Part 4 of Schedule 1 to the Act comes into force.
 
-## 16. Supervision of the FMI sandbox[^key-8eb624afff621f67eea4ba27e6719784]
+## 16. Supervision of the FMI sandbox[^c-8eb624afff621f67eea4ba27e6719784]
 
 (1) The FCA must maintain arrangements for the supervision of the PISCES sandbox arrangements, including ongoing monitoring and supervision of each PISCES operator.
 
@@ -409,11 +409,11 @@ including provision that applies before shares in a PISCES company are traded on
 - (a) the PAN of each PISCES operator;
 - (b) such other information concerning the PISCES sandbox arrangements as it considers appropriate.
 
-## 17. Treasury power to direct FCA to impose restrictions[^key-e91db541112dd9dd273c89798e4d4306]
+## 17. Treasury power to direct FCA to impose restrictions[^c-e91db541112dd9dd273c89798e4d4306]
 
 The Treasury may, after consulting the FCA, direct it to impose restrictions on the overall activities of a PISCES operator in the PISCES sandbox arrangements, with reference to qualitative or quantitative criteria.
 
-## 18. Amendment of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-12bac11004fbf2312d0973f7d4b5d117]
+## 18. Amendment of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-12bac11004fbf2312d0973f7d4b5d117]
 
 In article 3 of the FPO (interpretation: unlisted companies)[^f00026], after paragraph (1), insert—
 
@@ -424,11 +424,11 @@ In article 3 of the FPO (interpretation: unlisted companies)[^f00026], after par
 
 .
 
-## 19. Date of the report on the FMI sandbox arrangements[^key-8c2b54af30607f7bdd053f81c79e0125]
+## 19. Date of the report on the FMI sandbox arrangements[^c-8c2b54af30607f7bdd053f81c79e0125]
 
 The date specified for the purposes of section 14(3) of the Act (reports on FMI sandboxes) is 5th June 2029.
 
-## 20. Termination[^key-8b19d6b777d9806525324d835509f5f4]
+## 20. Termination[^c-8b19d6b777d9806525324d835509f5f4]
 
 These Regulations, except regulations 18 and 15, cease to have effect on 5th June 2030.
 
@@ -448,7 +448,7 @@ Regulation 12
 
 ### Part 1 — Financial Services and Markets Act 2000
 
-**1.**[^key-b83bef1b0507e846d7a16a2e78d8281f] This Part sets out modifications of FSMA 2000. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+**1.**[^c-b83bef1b0507e846d7a16a2e78d8281f] This Part sets out modifications of FSMA 2000. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
 
 | Provision | Modification |
 | --- | --- |
@@ -497,7 +497,7 @@ Regulation 12
 
 ### Part 2 — Companies Act 2006
 
-**2.**[^key-52c8ee1cd8f561c3f3fd0e2f1e2cfea6] This Part sets out modifications of the Companies Act 2006. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+**2.**[^c-52c8ee1cd8f561c3f3fd0e2f1e2cfea6] This Part sets out modifications of the Companies Act 2006. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
 
 | Provision | Modification |
 | --- | --- |
@@ -508,7 +508,7 @@ Regulation 12
 
 ### Part 3 — The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001
 
-**3.**[^key-d14fab9e9083cfe03ed4260852d6d524] This Part sets out modifications of Part 1 (recognition requirements for investment exchanges) of the Schedule to the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001[^f00056]. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+**3.**[^c-d14fab9e9083cfe03ed4260852d6d524] This Part sets out modifications of Part 1 (recognition requirements for investment exchanges) of the Schedule to the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001[^f00056]. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
 
 | Provision | Modifications |
 | --- | --- |
@@ -519,7 +519,7 @@ Regulation 12
 
 ### Part 4 — The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005
 
-**4.**[^key-dd8f667f17a804561ddc7db5d5a1689b] This Part sets out modifications to the FPO. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+**4.**[^c-dd8f667f17a804561ddc7db5d5a1689b] This Part sets out modifications to the FPO. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
 
 | Provision | Modification |
 | --- | --- |
@@ -528,7 +528,7 @@ Regulation 12
 
 ### Part 5 — [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600)
 
-**5.**[^key-8e5addfe5437bc49613286a2afb6bcc6] This Part sets out modifications of [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending [Regulation (EU) No648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648). The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+**5.**[^c-8e5addfe5437bc49613286a2afb6bcc6] This Part sets out modifications of [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending [Regulation (EU) No648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648). The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
 
 | Provision | Modification |
 | --- | --- |
@@ -536,7 +536,7 @@ Regulation 12
 | Article 2(1)(14A) (definitions)[^f00063] | Treat the definition of “UK multilateral trading facility” or “UK MTF” as excluding a PISCES for which an operator has an approval in force under regulation 10. |
 | Article 23 (investment firms operating internal matching systems)[^f00064] | Treat the reference to “permission to operate a multilateral trading facility under Part 4A of FSMA” as including an approval to operate a PISCES under regulation 10. |
 
-### Part 6 — The Public Offers and Admissions to Trading Regulations 2024[^key-d5d3786db4d0e5abca58c064939fe9a5]
+### Part 6 — The Public Offers and Admissions to Trading Regulations 2024[^c-d5d3786db4d0e5abca58c064939fe9a5]
 
 **6.** This Part sets out modifications to the Public Offers and Admissions to Trading Regulations 2024. The provision specified in the first column is modified as provided for in the corresponding entry in the second column.
 
@@ -546,7 +546,7 @@ Regulation 12
 
 ### Part 7 — Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565)
 
-**7.**[^key-1c04a7435f270e52a7ed085a13b55097] This Part sets out modifications of Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565) of 25 April 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive[^f00066]. The provision specified in the first column is modified as provided for in the corresponding entry in the second column.
+**7.**[^c-1c04a7435f270e52a7ed085a13b55097] This Part sets out modifications of Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565) of 25 April 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive[^f00066]. The provision specified in the first column is modified as provided for in the corresponding entry in the second column.
 
 | Provision | Modification |
 | --- | --- |
@@ -558,7 +558,7 @@ Regulation 13
 
 ### Part 1 — Interpretation
 
-**1.**[^key-91abb86600864ba513feaeb0162de75e] In this Schedule—
+**1.**[^c-91abb86600864ba513feaeb0162de75e] In this Schedule—
 
 - “**core disclosure**” means a PISCES statement made by a PISCES company in order to comply with requirements imposed on it by a PISCES operator in compliance with core disclosure rules;
 - “**core disclosure rules**” means PISCES disclosure rules under which a PISCES operator must require PISCES companies to disclose, through PISCES disclosure arrangements, information about matters specified for this purpose in the PISCES disclosure rules;
@@ -574,7 +574,7 @@ Regulation 13
 
 ### Part 2 — Exemptions from liability for core disclosures
 
-#### 2. Core disclosure[^key-726493769d91571b58123670a19aecc1]
+#### 2. Core disclosure[^c-726493769d91571b58123670a19aecc1]
 
 (1) A PISCES company does not incur any liability under regulation 13 for loss caused by untrue or misleading information in, or an omission from, a core disclosure if it satisfies the court that—
 
@@ -590,7 +590,7 @@ Regulation 13
 
 (3) This paragraph is subject to paragraph 5 in respect of forward-looking statements contained in a core disclosure.
 
-#### 3. Expert statements[^key-1b35c35a2f9b1852bb166acc09fc380c]
+#### 3. Expert statements[^c-1b35c35a2f9b1852bb166acc09fc380c]
 
 (1) A PISCES company does not incur any liability under regulation 13 for loss caused by an expert statement if it satisfies the court that—
 
@@ -605,7 +605,7 @@ Regulation 13
 - (b) the relevant period ended before it was reasonably practicable to bring the fact that the expert was not competent, or had not consented, to the attention of persons who received the core disclosure;
 - (c) before the end of the relevant period, the disclosing officers had taken all such steps as it was reasonable for them to have taken to secure that that fact was brought to the attention of those persons.
 
-#### 4. Correction of expert statements[^key-aef698ca8cc64a2ca20f8a8d7cfe7972]
+#### 4. Correction of expert statements[^c-aef698ca8cc64a2ca20f8a8d7cfe7972]
 
 (1) A PISCES company does not incur liability under regulation 13 for loss caused by an expert statement if it satisfies the court that—
 
@@ -616,7 +616,7 @@ Regulation 13
 
 ### Part 3 — Further exemptions from liability and other provision
 
-#### 5. Forward-looking statements and other disclosure[^key-3385443e19ca48d3934c536bda19fc5c]
+#### 5. Forward-looking statements and other disclosure[^c-3385443e19ca48d3934c536bda19fc5c]
 
 (1) Unless the condition in sub-paragraph (2) is met, a PISCES company does not incur any liability under regulation 13 in respect of any loss caused by untrue or misleading information in or an omission from—
 
@@ -635,7 +635,7 @@ Regulation 13
   - (i) identifies the core disclosure as a forward-looking statement, and
   - (ii) refers to the effect of sub-paragraphs (1)(a) and (2).
 
-#### 6. Official communications[^key-d4773f3413deace54a79f5d6a87c10f3]
+#### 6. Official communications[^c-d4773f3413deace54a79f5d6a87c10f3]
 
 A PISCES company does not incur any liability under regulation 13 for loss resulting from—
 
@@ -644,7 +644,7 @@ A PISCES company does not incur any liability under regulation 13 for loss resul
 
 if it satisfies the court that the communication is accurately and fairly reproduced.
 
-#### 7. Exemptions from other liability[^key-db903c4355ab9529498b06e289faeb4d]
+#### 7. Exemptions from other liability[^c-db903c4355ab9529498b06e289faeb4d]
 
 (1) Except for liability under regulation 13, a PISCES company is not subject to any other liability in respect of any loss caused by a PISCES statement.
 
@@ -725,9 +725,9 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00003]: Footnote: The appropriate regulator for the purpose of section 17(2) of the Financial Services and Markets Act 2023.
 
-[^key-0a4c069d969172b883190d102efa2b25]: Commencement: Reg. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-0a4c069d969172b883190d102efa2b25]: Commencement: Reg. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-28b4b380b1eae115ed33a27e6774515e]: Commencement: Reg. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-28b4b380b1eae115ed33a27e6774515e]: Commencement: Reg. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00004]: Footnote: Section 31 was amended by section 11(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none is relevant.
 
@@ -743,9 +743,9 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00010]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-3252184d2ca0504771f4692927d67ea7]: Commencement: Reg. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-3252184d2ca0504771f4692927d67ea7]: Commencement: Reg. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-8e477d48a24ecdc2b02d65979018be27]: Commencement: Reg. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-8e477d48a24ecdc2b02d65979018be27]: Commencement: Reg. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00011]: Footnote: Section 55A(5) was inserted by the Financial Services Act 2012.
 
@@ -755,7 +755,7 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00014]: Footnote: Article 25DA was inserted by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
 
-[^key-76d50731cde338d63f387d490047e148]: Commencement: Reg. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-76d50731cde338d63f387d490047e148]: Commencement: Reg. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00015]: Footnote: The definition of “trading venue” in section 313D(1) was substituted by [S.I. 2019/662](https://www.legislation.gov.uk/uksi/2019/662).
 
@@ -773,45 +773,45 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00022]: Footnote: Subsection (2) was substituted by the section 10(3) of the Financial Services Act 2012. Other relevant amendments to section 39 were made by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701) and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-5d0050059dd72570662dc883f6ecbfcd]: Commencement: Reg. 6 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-5d0050059dd72570662dc883f6ecbfcd]: Commencement: Reg. 6 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-bdb57129eb79188b91d8bcfb92bacbc4]: Commencement: Reg. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-bdb57129eb79188b91d8bcfb92bacbc4]: Commencement: Reg. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00023]: Footnote: Relevant amendments were made to article 29 by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476) and [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-9c22f6d6ae9108edcf088300fce08ad4]: Commencement: Reg. 8 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-9c22f6d6ae9108edcf088300fce08ad4]: Commencement: Reg. 8 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-38672a6cd51267c83c335d26a4758ee3]: Commencement: Reg. 9 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-38672a6cd51267c83c335d26a4758ee3]: Commencement: Reg. 9 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-78e865376277c2e078e8d92a57da19b8]: Commencement: Reg. 10 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-78e865376277c2e078e8d92a57da19b8]: Commencement: Reg. 10 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-3375ca9a6dc5c72a9f816b615720a989]: Commencement: Reg. 11 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-3375ca9a6dc5c72a9f816b615720a989]: Commencement: Reg. 11 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-7349c6e1115894ea8bf600778925e53f]: Commencement: Reg. 12 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-7349c6e1115894ea8bf600778925e53f]: Commencement: Reg. 12 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00024]: Footnote: The meaning of “relevant enactment” is given by section 17(3) of the Act. The list in section 17(3) was amended by [S.I. 2024/1347](https://www.legislation.gov.uk/uksi/2024/1347), which inserted EUR 2017/1129.
 
-[^key-7b02fd2c7a7cd8276d0a6842d346b9fd]: Commencement: Reg. 13 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-7b02fd2c7a7cd8276d0a6842d346b9fd]: Commencement: Reg. 13 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-8925c7023e0b37193ce42879ce4fb017]: Commencement: Reg. 14 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-8925c7023e0b37193ce42879ce4fb017]: Commencement: Reg. 14 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-674c88a7c1e81c28b674de7df95b6881]: Commencement: Reg. 15 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-674c88a7c1e81c28b674de7df95b6881]: Commencement: Reg. 15 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00025]: Footnote: Section 138P was inserted by [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).
 
-[^key-8eb624afff621f67eea4ba27e6719784]: Commencement: Reg. 16 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-8eb624afff621f67eea4ba27e6719784]: Commencement: Reg. 16 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-e91db541112dd9dd273c89798e4d4306]: Commencement: Reg. 17 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-e91db541112dd9dd273c89798e4d4306]: Commencement: Reg. 17 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-12bac11004fbf2312d0973f7d4b5d117]: Commencement: Reg. 18 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-12bac11004fbf2312d0973f7d4b5d117]: Commencement: Reg. 18 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00026]: Footnote: Article 3 was amended by [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265). There is another amendment which is not relevant.
 
-[^key-8c2b54af30607f7bdd053f81c79e0125]: Commencement: Reg. 19 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-8c2b54af30607f7bdd053f81c79e0125]: Commencement: Reg. 19 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-8b19d6b777d9806525324d835509f5f4]: Commencement: Reg. 20 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-8b19d6b777d9806525324d835509f5f4]: Commencement: Reg. 20 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-b83bef1b0507e846d7a16a2e78d8281f]: Commencement: Sch. 1 para. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-b83bef1b0507e846d7a16a2e78d8281f]: Commencement: Sch. 1 para. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00027]: Footnote: Subsection (4) was substituted by paragraph 5(3) of Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Relevant amending instruments are [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632), [S.I. 2024/102](https://www.legislation.gov.uk/uksi/2024/102).
 
@@ -871,9 +871,9 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00055]: Footnote: Schedule 1ZA was substituted by Schedule 3 to the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-52c8ee1cd8f561c3f3fd0e2f1e2cfea6]: Commencement: Sch. 1 para. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-52c8ee1cd8f561c3f3fd0e2f1e2cfea6]: Commencement: Sch. 1 para. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-d14fab9e9083cfe03ed4260852d6d524]: Commencement: Sch. 1 para. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-d14fab9e9083cfe03ed4260852d6d524]: Commencement: Sch. 1 para. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00056]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995).
 
@@ -885,11 +885,11 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00060]: Footnote: Paragraph 9A was inserted by [S.I. 2006/3386](https://www.legislation.gov.uk/uksi/2006/3386) and amended by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701). There are other amendments but none are relevant.
 
-[^key-dd8f667f17a804561ddc7db5d5a1689b]: Commencement: Sch. 1 para. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-dd8f667f17a804561ddc7db5d5a1689b]: Commencement: Sch. 1 para. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00061]: Footnote: Article 60 was amended by [S.I. 2005/3392](https://www.legislation.gov.uk/uksi/2005/3392), [S.I. 2010/86](https://www.legislation.gov.uk/uksi/2010/86).
 
-[^key-8e5addfe5437bc49613286a2afb6bcc6]: Commencement: Sch. 1 para. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-8e5addfe5437bc49613286a2afb6bcc6]: Commencement: Sch. 1 para. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00062]: Footnote: Point (14) of Article 2(1) was substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 
@@ -897,24 +897,24 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00064]: Footnote: Article 23 was amended by paragraph 13 of Schedule 2 to the Act and [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 
-[^key-d5d3786db4d0e5abca58c064939fe9a5]: Textual amendment: [Sch. 1 Pt. 6](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/part/6) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/42); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-d5d3786db4d0e5abca58c064939fe9a5]: Textual amendment: [Sch. 1 Pt. 6](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/part/6) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/42); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-1c04a7435f270e52a7ed085a13b55097]: Commencement: Sch. 1 para. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-1c04a7435f270e52a7ed085a13b55097]: Commencement: Sch. 1 para. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
 [^f00066]: Footnote: EUR 2017/565.
 
 [^f00067]: Footnote: Article A1 was inserted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 
-[^key-91abb86600864ba513feaeb0162de75e]: Commencement: Sch. 2 para. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-91abb86600864ba513feaeb0162de75e]: Commencement: Sch. 2 para. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-726493769d91571b58123670a19aecc1]: Commencement: Sch. 2 para. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-726493769d91571b58123670a19aecc1]: Commencement: Sch. 2 para. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-1b35c35a2f9b1852bb166acc09fc380c]: Commencement: Sch. 2 para. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-1b35c35a2f9b1852bb166acc09fc380c]: Commencement: Sch. 2 para. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-aef698ca8cc64a2ca20f8a8d7cfe7972]: Commencement: Sch. 2 para. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-aef698ca8cc64a2ca20f8a8d7cfe7972]: Commencement: Sch. 2 para. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-3385443e19ca48d3934c536bda19fc5c]: Commencement: Sch. 2 para. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-3385443e19ca48d3934c536bda19fc5c]: Commencement: Sch. 2 para. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-d4773f3413deace54a79f5d6a87c10f3]: Commencement: Sch. 2 para. 6 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-d4773f3413deace54a79f5d6a87c10f3]: Commencement: Sch. 2 para. 6 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
 
-[^key-db903c4355ab9529498b06e289faeb4d]: Commencement: Sch. 2 para. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+[^c-db903c4355ab9529498b06e289faeb4d]: Commencement: Sch. 2 para. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)

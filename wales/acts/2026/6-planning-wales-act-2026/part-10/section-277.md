@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 277. Development and use of land connected to religious worship other than burial grounds[^key-6f20543d8d9434f0c93df622353ff030]
+## 277. Development and use of land connected to religious worship other than burial grounds[^c-6f20543d8d9434f0c93df622353ff030]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ but does not include land that is or forms part of a burial ground.
 
 ## Annotations
 
-[^key-6f20543d8d9434f0c93df622353ff030]: Commencement: S. 277 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6f20543d8d9434f0c93df622353ff030]: Commencement: S. 277 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

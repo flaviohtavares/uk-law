@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Public body’s consultation with the sewerage undertaker[^key-ceacac7b23d4f359ebcd8a0fa886f6a1]
+## 27. Public body’s consultation with the sewerage undertaker[^c-ceacac7b23d4f359ebcd8a0fa886f6a1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulation 9 applies where a public body’s notice is given as it applies where
 
 ## Annotations
 
-[^key-ceacac7b23d4f359ebcd8a0fa886f6a1]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2024/1268/regulation/27) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-ceacac7b23d4f359ebcd8a0fa886f6a1]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2024/1268/regulation/27) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

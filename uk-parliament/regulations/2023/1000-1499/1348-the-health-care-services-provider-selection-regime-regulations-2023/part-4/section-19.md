@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Basic selection criteria[^key-d50149974cfa32be0dace74967278fce]
+## 19. Basic selection criteria[^c-d50149974cfa32be0dace74967278fce]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d50149974cfa32be0dace74967278fce]: Commencement: Reg. 19 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-d50149974cfa32be0dace74967278fce]: Commencement: Reg. 19 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

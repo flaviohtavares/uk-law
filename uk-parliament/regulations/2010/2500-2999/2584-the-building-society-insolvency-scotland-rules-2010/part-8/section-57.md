@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Rule against solicitation[^key-feb1efec3421d0f9fe67f923e0626f65]
+## 57. Rule against solicitation[^c-feb1efec3421d0f9fe67f923e0626f65]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.39 of the 1986 Rules.
 
 ## Annotations
 
-[^key-feb1efec3421d0f9fe67f923e0626f65]: Commencement: Rule 57 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-feb1efec3421d0f9fe67f923e0626f65]: Commencement: Rule 57 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

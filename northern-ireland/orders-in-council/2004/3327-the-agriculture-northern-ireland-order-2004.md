@@ -442,7 +442,7 @@ as the Department may, with the approval of the Department of Finance and Person
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**20.**[^key-a4d4207be259e3fd816d43d2ca1faa16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-a4d4207be259e3fd816d43d2ca1faa16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Freedom of Information Act 2000 (c. 36)
 
@@ -637,4 +637,4 @@ as the Department may direct.
 
 [^c19543661]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisi/2004/3327/article/10) wholly in force at 1.4.2006; [art. 10(2)](https://www.legislation.gov.uk/nisi/2004/3327/article/10/2) in force for certain purposes at 17.1.2005 see [art. 1(2)(e)](https://www.legislation.gov.uk/nisi/2004/3327/article/1/2/e); [art. 10](https://www.legislation.gov.uk/nisi/2004/3327/article/10) in force at 1.4.2006 in so far as not already in force by [S.R. 2006/172](https://www.legislation.gov.uk/nisr/2006/172), [art. 2](https://www.legislation.gov.uk/nisr/2006/172/article/2)
 
-[^key-a4d4207be259e3fd816d43d2ca1faa16]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2004/3327/schedule/1/paragraph/20) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-a4d4207be259e3fd816d43d2ca1faa16]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2004/3327/schedule/1/paragraph/20) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)

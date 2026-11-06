@@ -32,49 +32,49 @@ Regulation 8
 
 Where any sums originally denominated in foreign currency have been brought into account under any items shown in the balance sheet and income and expenditure account, the basis on which those sums have been translated into sterling must be stated.
 
-### 3. Staff[^key-b1975da0972bc2c2176139035f9e8e83]
+### 3. Staff[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Aggregate amount of committee members' emoluments[^key-b1975da0972bc2c2176139035f9e8e83]
+### 4. Aggregate amount of committee members' emoluments[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Details of chairman’s and committee members' emoluments[^key-b1975da0972bc2c2176139035f9e8e83]
+### 5. Details of chairman’s and committee members' emoluments[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Emoluments waived[^key-b1975da0972bc2c2176139035f9e8e83]
+### 6. Emoluments waived[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Pensions of committee members and past committee members[^key-b1975da0972bc2c2176139035f9e8e83]
+### 7. Pensions of committee members and past committee members[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Compensation to committee members for loss of office[^key-b1975da0972bc2c2176139035f9e8e83]
+### 8. Compensation to committee members for loss of office[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Sums paid to third parties in respect of committee members' services[^key-b1975da0972bc2c2176139035f9e8e83]
+### 9. Sums paid to third parties in respect of committee members' services[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Supplementary provisions regarding committee members' emoluments[^key-b1975da0972bc2c2176139035f9e8e83]
+### 10. Supplementary provisions regarding committee members' emoluments[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b1975da0972bc2c2176139035f9e8e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b1975da0972bc2c2176139035f9e8e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b1975da0972bc2c2176139035f9e8e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b1975da0972bc2c2176139035f9e8e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b1975da0972bc2c2176139035f9e8e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b1975da0972bc2c2176139035f9e8e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Interpretation of provisions regarding committee members' emoluments[^key-b1975da0972bc2c2176139035f9e8e83]
+### 14. Interpretation of provisions regarding committee members' emoluments[^c-b1975da0972bc2c2176139035f9e8e83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Assets[^key-9fd427fa365e4ae14fa03c2115f6bff8]
+### 15. Assets[^c-9fd427fa365e4ae14fa03c2115f6bff8]
 
 (1) In respect of any assets of the society included in Assets items A (intangible assets), B.I (land and buildings) and B.II (investment in jointly controlled bodies and subsidiaries) in the society’s balance sheet the following information must be given by reference to each such item:
 
@@ -97,33 +97,33 @@ Where any sums originally denominated in foreign currency have been brought into
 - (c) the amount of any adjustments made in respect of any such provisions during that year in consequence of the disposal of any of those assets; and
 - (d) the amount of any other adjustments made in respect of any such provisions during that year.
 
-**16.**[^key-72adabb50147ad8a9c35cfd98f199e3d] Where any assets of the society (other than listed investments) are included under any item shown in the society’s balance sheet at an amount determined on any basis mentioned in paragraph 10 or 11 of Schedule 6 below, the following information must be given:
+**16.**[^c-72adabb50147ad8a9c35cfd98f199e3d] Where any assets of the society (other than listed investments) are included under any item shown in the society’s balance sheet at an amount determined on any basis mentioned in paragraph 10 or 11 of Schedule 6 below, the following information must be given:
 
 - (a) the years (so far as they are known to the committee member) in which the assets were severally valued and the several values; and
 - (b) in the case of assets that have been valued during the financial year, the names of the persons who valued them or particulars of their qualifications for doing so and (whichever is stated) the bases of valuation used by them.
 
-**17.**[^key-0ada26aefca33392f4f905109366fcac] In relation to any amount which is included under Asset item B.I (land and buildings) there must be stated:
+**17.**[^c-0ada26aefca33392f4f905109366fcac] In relation to any amount which is included under Asset item B.I (land and buildings) there must be stated:
 
 - (a) how much of that amount is ascribable to land of freehold tenure and how much to land of leasehold tenure;
 - (b) how much of the amount ascribable to land of leasehold tenure is ascribable to land held on long lease and how much to land held on short lease; and
 - (c) how much of that amount is ascribable to land and buildings occupied by the society for its own activities.
 
-### 18. Investments[^key-df89ebbf0257ed02c3864b8151384c72]
+### 18. Investments[^c-df89ebbf0257ed02c3864b8151384c72]
 
 (1) In respect of the amount of each item which is shown in the society’s balance sheet under Assets item B (investments), or in the case of a non-directive society’s balance sheet, Assets item A (investments), there must be stated:
 
 - (a) how much of that amount is ascribable to listed investments; and
-- (b) how much of any amount so ascribable is ascribable to investments as respects which there has been granted a listing on a recognised investment exchange within the meaning of the Financial Services and Markets Act 2000, other than an investment exchange in relation to which a recognition order under section 292(2) of that Act is in force (an overseas investment exchange)[^key-c9e18afd36b1e0d8f338d43112cfdeb4] and how much to other listed investments.
+- (b) how much of any amount so ascribable is ascribable to investments as respects which there has been granted a listing on a recognised investment exchange within the meaning of the Financial Services and Markets Act 2000, other than an investment exchange in relation to which a recognition order under section 292(2) of that Act is in force (an overseas investment exchange)[^c-c9e18afd36b1e0d8f338d43112cfdeb4] and how much to other listed investments.
 
 (2) In the case of each amount shown in respect of listed securities, under sub-paragraph (1)(a), there must also be given the aggregate market value of the securities if it differs from the amount shown.
 
-### 19. Reserves and provisions[^key-594a544e27ec67d9337e7b948c30c5b7]
+### 19. Reserves and provisions[^c-594a544e27ec67d9337e7b948c30c5b7]
 
 (1) Where any amount is transferred:
 
 - (a) to or from any reserves;
-- (b) to any provisions for liabilities[^key-9dceec4d1f092bd44e617ff6ed9b9c46]; or
-- (c) from any provisions for liabilities[^key-f094648dc1f2486681a62bcbd04abe53] otherwise than for the purpose for which the provision was established,
+- (b) to any provisions for liabilities[^c-9dceec4d1f092bd44e617ff6ed9b9c46]; or
+- (c) from any provisions for liabilities[^c-f094648dc1f2486681a62bcbd04abe53] otherwise than for the purpose for which the provision was established,
 
 and the reserves or provisions are or would but for regulation 6(3) above be shown as separate items in the society’s balance sheet, the information mentioned in the following sub-paragraph must be given in respect of the aggregate of reserves or provisions included in items in the balance sheet to which any such transfer relates.
 
@@ -134,11 +134,11 @@ and the reserves or provisions are or would but for regulation 6(3) above be sho
 
 (3) Particulars must be given of each provision included in Liabilities item E.3 (other provisions) in the society’s balance sheet in any case where the amount of that provision is material.
 
-### 20. Provision for taxation[^key-c776f1c9a19742fdd24ab5064e03ac62]
+### 20. Provision for taxation[^c-c776f1c9a19742fdd24ab5064e03ac62]
 
 The amount of any provision for deferred taxation much be stated separately from the amount of any provision for other taxation.
 
-### 21. Details of indebtedness[^key-60d555d3df02e6f887289677d82aecde]
+### 21. Details of indebtedness[^c-60d555d3df02e6f887289677d82aecde]
 
 (1) In respect of each item shown under “creditors” in the society’s balance sheet there must be stated:
 
@@ -161,7 +161,7 @@ The amount of any provision for deferred taxation much be stated separately from
 
 and references to items shown under “creditors” include references to items which would but for Regulation 6(3) above be shown under that heading.
 
-### 22. Guarantees and other financial commitments[^key-b52618b2dfe06b7a9f9d0b564d679149]
+### 22. Guarantees and other financial commitments[^c-b52618b2dfe06b7a9f9d0b564d679149]
 
 (1) Particulars must be given of any charge on the assets of the society to secure the liabilities of any other person, including, where practicable, the amount secured.
 
@@ -190,7 +190,7 @@ and where any such commitment relates wholly or partly to pensions payable to pa
 
 (6) Commitments within any of the preceding subparagraphs undertaken on behalf of or for the benefit of any subsidiary of the society, must be stated separately from the other commitments.
 
-### 23. Dealings with or interests in subsidiaries and jointly controlled bodies[^key-168bebb2e7770fe09b23827ac71599bc]
+### 23. Dealings with or interests in subsidiaries and jointly controlled bodies[^c-168bebb2e7770fe09b23827ac71599bc]
 
 Where a society is required by Part I of Schedule 2 to be shown in the society’s balance sheet in relation to its subsidiary and jointly controlled bodies includes:
 
@@ -199,7 +199,7 @@ Where a society is required by Part I of Schedule 2 to be shown in the society�
 
 the aggregate amounts within paragraphs (a) and (b) respectively must be shown as separate items, either by way of subdivision of the relevant item in the balance sheet or in a note to the society’s accounts.
 
-### 24. Separate statement of certain items of income and expenditure[^key-495bfe497dbd5555590bdab16de0b3da]
+### 24. Separate statement of certain items of income and expenditure[^c-495bfe497dbd5555590bdab16de0b3da]
 
 (1) Subject to the following provisions of this paragraph, each of the amounts mentioned below must be stated.
 
@@ -216,7 +216,7 @@ the aggregate amounts within paragraphs (a) and (b) respectively must be shown a
 
 (4) The amount charged to revenue in respect of sums payable in respect of the hire of plant and machinery and vehicles.
 
-### 25. Taxation[^key-84d718ae1c1eebb2bdb9896ba6cfd059]
+### 25. Taxation[^c-84d718ae1c1eebb2bdb9896ba6cfd059]
 
 (1) The basis on which the charge for United Kingdom corporation tax and deferred tax is computed must be stated.
 
@@ -230,7 +230,7 @@ the aggregate amounts within paragraphs (a) and (b) respectively must be shown a
 
 - Those amounts must be stated separately in respect of each of the amounts which is shown under the following items in the income and expenditure account, that is to say item III.9 (tax on ordinary activities) and item III.14 (tax on extraordinary gain or loss).
 
-### 26. Particulars of business[^key-216a373387cf1b260e5275cb5ec24456]
+### 26. Particulars of business[^c-216a373387cf1b260e5275cb5ec24456]
 
 (1) As regards general business a society must disclose:
 
@@ -252,7 +252,7 @@ where the amount of the gross premiums written in direct insurance for each such
 
 (4) The society must in any event disclose the amounts relating to the three largest groups of classes in its business.
 
-**27.**[^key-6cbc5d8a7d649a6fa790e37b247049af] (1) As regards long term business, the society must disclose:
+**27.**[^c-6cbc5d8a7d649a6fa790e37b247049af] (1) As regards long term business, the society must disclose:
 
 - (a) gross premiums written; and
 - (b) the reinsurance balance.
@@ -267,15 +267,15 @@ where the amount of the gross premiums written in direct insurance for each such
 
 (3) Disclosure of any amount referred to in sub-paragraph (2)(a) or (2)(b)(i), (ii) or (iii) above must not be required if it does not exceed 10 per cent. of the gross premiums written or (as the case may be) of the gross premiums written by way of direct insurance.
 
-**28.**[^key-56503732c8ecc04f4e6da6e40b456a14] (1)[^key-62fa216775156f7bb2f455d36ffb3b45] Subject to sub-paragraph (2) below, there must be disclosed as regards both general and long term business the total gross direct insurance premiums resulting from contracts concluded by the society in the United Kingdom and other countries.
+**28.**[^c-56503732c8ecc04f4e6da6e40b456a14] (1)[^c-62fa216775156f7bb2f455d36ffb3b45] Subject to sub-paragraph (2) below, there must be disclosed as regards both general and long term business the total gross direct insurance premiums resulting from contracts concluded by the society in the United Kingdom and other countries.
 
 (2) Disclosure of any amount referred to in sub-paragraph (1) above would not be required if it does not exceed 5 per cent. of total gross premiums.
 
-### 29. Commissions[^key-3c1ab47dc98d6bed159badcf00954a85]
+### 29. Commissions[^c-3c1ab47dc98d6bed159badcf00954a85]
 
 There must be disclosed the total amount of commissions for direct insurance business accounted for in the financial year, including acquisition, renewal, collection and portfolio management commissions.
 
-### 30. Miscellaneous matters[^key-b806eefdd1c11581e2ad8a0e39d0bff1]
+### 30. Miscellaneous matters[^c-b806eefdd1c11581e2ad8a0e39d0bff1]
 
 (1) Where any amount relating to any preceding financial year is included in any item in the income and expenditure account, the effect must be stated.
 
@@ -285,21 +285,21 @@ There must be disclosed the total amount of commissions for direct insurance bus
 
 (4) Particulars must be given of any case where the cost of any asset is for the first time determined under paragraph 29 of Schedule 6 below.
 
-(5)[^key-c89adbb8d66e55e9f2d57dcd35fd5676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c89adbb8d66e55e9f2d57dcd35fd5676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c89adbb8d66e55e9f2d57dcd35fd5676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c89adbb8d66e55e9f2d57dcd35fd5676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Where management and agency services are provided by the society to third parties that fact must be disclosed where the scale of such services is material in the context of the society’s business as a whole.
 
-### 31. Committee members' loans and transactions[^key-16effc55af7d6bdc238cdc29d35263fb]
+### 31. Committee members' loans and transactions[^c-16effc55af7d6bdc238cdc29d35263fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Industrial Assurance[^key-8f802958bce098b184ec292136f009b9]
+### 32. Industrial Assurance[^c-8f802958bce098b184ec292136f009b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Information about fair value of assets and liabilities[^key-296308d36e4b500af78c1cc485951846]
+### 33. Information about fair value of assets and liabilities[^c-296308d36e4b500af78c1cc485951846]
 
 (1) This paragraph applies where financial instruments have been valued in accordance with paragraph 24A or 24C of Schedule 6.
 
@@ -341,7 +341,7 @@ There must be disclosed the total amount of commissions for direct insurance bus
 - (a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
 - (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
-### 35. Related Party Transactions[^key-b91be8e308782526b75879c15e4eced7]
+### 35. Related Party Transactions[^c-b91be8e308782526b75879c15e4eced7]
 
 (1) Particulars may be given of transactions which the society has entered into with related parties, and must be given if such transactions are material and have not been concluded under normal market conditions.
 
@@ -362,54 +362,54 @@ There must be disclosed the total amount of commissions for direct insurance bus
 
 ## Annotations
 
-[^key-b1975da0972bc2c2176139035f9e8e83]: Textual amendment: Sch. 4 paras. 3-14 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/4/a)
+[^c-b1975da0972bc2c2176139035f9e8e83]: Textual amendment: Sch. 4 paras. 3-14 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/4/a)
 
-[^key-9fd427fa365e4ae14fa03c2115f6bff8]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/15) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-9fd427fa365e4ae14fa03c2115f6bff8]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/15) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-72adabb50147ad8a9c35cfd98f199e3d]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/16) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-72adabb50147ad8a9c35cfd98f199e3d]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/16) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-0ada26aefca33392f4f905109366fcac]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/17) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-0ada26aefca33392f4f905109366fcac]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/17) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-df89ebbf0257ed02c3864b8151384c72]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/18) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-df89ebbf0257ed02c3864b8151384c72]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/18) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-c9e18afd36b1e0d8f338d43112cfdeb4]: Textual amendment: Words in [Sch. 4 para. 18(1)(b)](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/18/1/b) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [466(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/466/a)
+[^c-c9e18afd36b1e0d8f338d43112cfdeb4]: Textual amendment: Words in [Sch. 4 para. 18(1)(b)](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/18/1/b) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [466(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/466/a)
 
-[^key-594a544e27ec67d9337e7b948c30c5b7]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/19) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-594a544e27ec67d9337e7b948c30c5b7]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/19) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-9dceec4d1f092bd44e617ff6ed9b9c46]: Textual amendment: Words in Sch. 4 para. 19(1)(b) substituted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/2/6)
+[^c-9dceec4d1f092bd44e617ff6ed9b9c46]: Textual amendment: Words in Sch. 4 para. 19(1)(b) substituted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/2/6)
 
-[^key-f094648dc1f2486681a62bcbd04abe53]: Textual amendment: Words in Sch. 4 para. 19(1)(c) substituted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/2/6)
+[^c-f094648dc1f2486681a62bcbd04abe53]: Textual amendment: Words in Sch. 4 para. 19(1)(c) substituted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/2/6)
 
-[^key-c776f1c9a19742fdd24ab5064e03ac62]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/20) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-c776f1c9a19742fdd24ab5064e03ac62]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/20) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-60d555d3df02e6f887289677d82aecde]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/21) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-60d555d3df02e6f887289677d82aecde]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/21) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-b52618b2dfe06b7a9f9d0b564d679149]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/22) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-b52618b2dfe06b7a9f9d0b564d679149]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/22) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-168bebb2e7770fe09b23827ac71599bc]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/23) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-168bebb2e7770fe09b23827ac71599bc]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/23) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-495bfe497dbd5555590bdab16de0b3da]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/24) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-495bfe497dbd5555590bdab16de0b3da]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/24) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-84d718ae1c1eebb2bdb9896ba6cfd059]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/25) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-84d718ae1c1eebb2bdb9896ba6cfd059]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/25) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-216a373387cf1b260e5275cb5ec24456]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/26) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-216a373387cf1b260e5275cb5ec24456]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/26) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-6cbc5d8a7d649a6fa790e37b247049af]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/27) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-6cbc5d8a7d649a6fa790e37b247049af]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/27) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-56503732c8ecc04f4e6da6e40b456a14]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/28) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-56503732c8ecc04f4e6da6e40b456a14]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/28) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-62fa216775156f7bb2f455d36ffb3b45]: Textual amendment: [Sch. 4 para. 28(1)](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/28/1) substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/1039/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62fa216775156f7bb2f455d36ffb3b45]: Textual amendment: [Sch. 4 para. 28(1)](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/28/1) substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/1039/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c1ab47dc98d6bed159badcf00954a85]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/29) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-3c1ab47dc98d6bed159badcf00954a85]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/29) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-b806eefdd1c11581e2ad8a0e39d0bff1]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/30) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-b806eefdd1c11581e2ad8a0e39d0bff1]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/30) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-c89adbb8d66e55e9f2d57dcd35fd5676]: Textual amendment: Sch. 4 para. 30(5)(6) omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/4/b)
+[^c-c89adbb8d66e55e9f2d57dcd35fd5676]: Textual amendment: Sch. 4 para. 30(5)(6) omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/4/b)
 
-[^key-16effc55af7d6bdc238cdc29d35263fb]: Textual amendment: Sch. 4 para. 31 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/4/c)
+[^c-16effc55af7d6bdc238cdc29d35263fb]: Textual amendment: Sch. 4 para. 31 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/4/c)
 
-[^key-8f802958bce098b184ec292136f009b9]: Textual amendment: [Sch. 4 para. 32](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/32) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [466(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/466/b)
+[^c-8f802958bce098b184ec292136f009b9]: Textual amendment: [Sch. 4 para. 32](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/32) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [466(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/466/b)
 
-[^key-296308d36e4b500af78c1cc485951846]: Textual amendment: [Sch. 4 paras. 33](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/33), [34](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/34) inserted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2005/2210/regulation/3)
+[^c-296308d36e4b500af78c1cc485951846]: Textual amendment: [Sch. 4 paras. 33](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/33), [34](https://www.legislation.gov.uk/uksi/1994/1983/schedule/4/paragraph/34) inserted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2005/2210/regulation/3)
 
-[^key-b91be8e308782526b75879c15e4eced7]: Textual amendment: Sch. 4 para. 35 inserted (29.6.2008 with effect in relation to financial years beginning on or after that date) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1144/regulation/5)
+[^c-b91be8e308782526b75879c15e4eced7]: Textual amendment: Sch. 4 para. 35 inserted (29.6.2008 with effect in relation to financial years beginning on or after that date) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1144/regulation/5)

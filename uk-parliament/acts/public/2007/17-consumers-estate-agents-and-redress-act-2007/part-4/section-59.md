@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Contracts concluded away from business premises[^key-4c155f9812a3d6c3e1a4a9f0a5e4fb96]
+## 59. Contracts concluded away from business premises[^c-4c155f9812a3d6c3e1a4a9f0a5e4fb96]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c155f9812a3d6c3e1a4a9f0a5e4fb96]: Commencement: S. 59 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-4c155f9812a3d6c3e1a4a9f0a5e4fb96]: Commencement: S. 59 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)

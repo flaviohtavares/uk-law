@@ -44,11 +44,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 13(1) and 42(1) of the Valuation and Rating (Scotland) Act 1956[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation and commencement[^key-76794c112f8cda720f299d7d6fd5bc70]
+## 1. Citation and commencement[^c-76794c112f8cda720f299d7d6fd5bc70]
 
 This Order may be cited as the Valuation Timetable (Scotland) Amendment Order 2007 and shall come into force on 1st April 2007.
 
-## 2. Amendment of principal Order[^key-d95fd3ec86bd517e9962bae64cea6b17]
+## 2. Amendment of principal Order[^c-d95fd3ec86bd517e9962bae64cea6b17]
 
 (1) The Valuation Timetable (Scotland) Order 1995[^f00002] is amended in accordance with paragraph (2).
 
@@ -81,9 +81,9 @@ An applicant may also appeal to the Tribunal against a decision of a valuation a
 
 [^f00001]: Footnote: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 13(1) was extended by the Local Government (Financial Provisions) (Scotland) Act [1963 (c. 12)](https://www.legislation.gov.uk/ukpga/1963/12), section 22(d) and amended by the Local Government (Scotland) Act [1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), Schedule 6, paragraph 20(a).
 
-[^key-76794c112f8cda720f299d7d6fd5bc70]: Commencement: Art. 1 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/81/article/1)
+[^c-76794c112f8cda720f299d7d6fd5bc70]: Commencement: Art. 1 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/81/article/1)
 
-[^key-d95fd3ec86bd517e9962bae64cea6b17]: Commencement: Art. 2 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/81/article/1)
+[^c-d95fd3ec86bd517e9962bae64cea6b17]: Commencement: Art. 2 in force at 1.4.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/81/article/1)
 
 [^f00002]: Footnote: S.I. [1995/164](https://www.legislation.gov.uk/uksi/1995/164), as amended by S.I. [1995/2455](https://www.legislation.gov.uk/uksi/1995/2455), S.I. [1997/1781](https://www.legislation.gov.uk/uksi/1997/1781) and [S.S.I. 2000/76](https://www.legislation.gov.uk/ssi/2000/76).
 

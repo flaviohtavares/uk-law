@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Amendment of the Crime and Courts Act 2013[^key-d1492b1a471a977ad0e8d77844ae6f74]
+## 70. Amendment of the Crime and Courts Act 2013[^c-d1492b1a471a977ad0e8d77844ae6f74]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In Schedule 4 to the Crime and Courts Act 2013 [^c23691651], in paragraph 5 (int
 
 ## Annotations
 
-[^key-d1492b1a471a977ad0e8d77844ae6f74]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d1492b1a471a977ad0e8d77844ae6f74]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691651]: Marginal citation: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.25. Application for direction about surplus proceeds[^key-3f2eb236fb30263175544cd7d6d5285d]
+## 33.25. Application for direction about surplus proceeds[^c-3f2eb236fb30263175544cd7d6d5285d]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f2eb236fb30263175544cd7d6d5285d]: Commencement: [Rule 33.25](https://www.legislation.gov.uk/uksi/2025/909/rule/33.25) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3f2eb236fb30263175544cd7d6d5285d]: Commencement: [Rule 33.25](https://www.legislation.gov.uk/uksi/2025/909/rule/33.25) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00823]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 67D was inserted by section 58 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and amended by section 219 of, and paragraph 14 of Schedule 8 to, the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).

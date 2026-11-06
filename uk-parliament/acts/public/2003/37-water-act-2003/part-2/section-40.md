@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Guidance to Authority on social and environmental matters[^key-14a882684df8074fc2d7a640cbf34f5e]
+## 40. Guidance to Authority on social and environmental matters[^c-14a882684df8074fc2d7a640cbf34f5e]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ After section 2 of the WIA there is inserted—
 
 ## Annotations
 
-[^key-14a882684df8074fc2d7a640cbf34f5e]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2003/37/section/40) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/968/article/2/g)
+[^c-14a882684df8074fc2d7a640cbf34f5e]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2003/37/section/40) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/968/article/2/g)

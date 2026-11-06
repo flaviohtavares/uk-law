@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) As soon as reasonably practicable after preparing proposals for the waste management plan[^key-85684eace92cfeb98f12cd968a4a7dec] the Department shall—
+(1) As soon as reasonably practicable after preparing proposals for the waste management plan[^c-85684eace92cfeb98f12cd968a4a7dec] the Department shall—
 
 - (a) send a copy of the proposals to the persons or bodies mentioned in Article 19(5)(a);
 - (b) take such steps as it considers appropriate to bring the proposals to the attention of the persons who in its opinion—
-  - (i) are, or are likely to be, affected by the plan[^key-ead38c03a0c3402da1980c943a907ff7] , or
-  - (ii) have an interest in the plan[^key-9518b1eb94980e683619464ec5ad4e78] ;
+  - (i) are, or are likely to be, affected by the plan[^c-ead38c03a0c3402da1980c943a907ff7] , or
+  - (ii) have an interest in the plan[^c-9518b1eb94980e683619464ec5ad4e78] ;
 - (c) inform the public consultees of the address (which may include a website)—
   - (i) at which a copy of the proposals may be viewed,
   - (ii) from which a copy of the proposals may be obtained;
@@ -41,8 +41,8 @@ summary: ''
 
 [^c21428591]: Textual amendment: Arts. 19A-19C inserted (1.7.2009) by [Waste Management Strategy Regulations (Northern Ireland) 2009 (S.R. 2009/178)](https://www.legislation.gov.uk/nisr/2009/178), [reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/178/regulation/2/5)
 
-[^key-85684eace92cfeb98f12cd968a4a7dec]: Textual amendment: Word in [art. 19B(1)](https://www.legislation.gov.uk/nisi/1997/2778/article/19B/1) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/240/regulation/7)
+[^c-85684eace92cfeb98f12cd968a4a7dec]: Textual amendment: Word in [art. 19B(1)](https://www.legislation.gov.uk/nisi/1997/2778/article/19B/1) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/240/regulation/7)
 
-[^key-ead38c03a0c3402da1980c943a907ff7]: Textual amendment: Word in [art. 19B(1)(b)(i)](https://www.legislation.gov.uk/nisi/1997/2778/article/19B/1/b/i) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/240/regulation/7)
+[^c-ead38c03a0c3402da1980c943a907ff7]: Textual amendment: Word in [art. 19B(1)(b)(i)](https://www.legislation.gov.uk/nisi/1997/2778/article/19B/1/b/i) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/240/regulation/7)
 
-[^key-9518b1eb94980e683619464ec5ad4e78]: Textual amendment: Word in [art. 19B(1)(b)(ii)](https://www.legislation.gov.uk/nisi/1997/2778/article/19B/1/b/ii) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/240/regulation/7)
+[^c-9518b1eb94980e683619464ec5ad4e78]: Textual amendment: Word in [art. 19B(1)(b)(ii)](https://www.legislation.gov.uk/nisi/1997/2778/article/19B/1/b/ii) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/240/regulation/7)

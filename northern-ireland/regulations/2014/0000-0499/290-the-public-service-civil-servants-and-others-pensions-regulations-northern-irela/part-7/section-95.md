@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Reduction in pension debit member’s benefits[^key-1209a004bc7c0266a208a11e7de345f2]
+## 95. Reduction in pension debit member’s benefits[^c-1209a004bc7c0266a208a11e7de345f2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The benefits to which a pension debit member is entitled under this Part are sub
 
 ## Annotations
 
-[^key-1209a004bc7c0266a208a11e7de345f2]: Commencement: [Reg. 95](https://www.legislation.gov.uk/nisr/2014/290/regulation/95) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-1209a004bc7c0266a208a11e7de345f2]: Commencement: [Reg. 95](https://www.legislation.gov.uk/nisr/2014/290/regulation/95) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

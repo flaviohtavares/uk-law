@@ -471,7 +471,7 @@ Section 146
 
 > - (e) qualifying overseas transfer” means so much of a transfer of the whole or any part of the business of an overseas life insurance company carried on through a permanent establishment in the United Kingdom as takes place in accordance with an authorisation granted outside the United Kingdom for the purposes of Article 14 of the Council Directive of 5 November 2002 concerning life assurance ([2002/83/EC](https://www.legislation.gov.uk/european/directive/2002/0083)).
 
-**106.**[^key-fdf3177d76dbfd950f18ffbb946097a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-fdf3177d76dbfd950f18ffbb946097a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **107.** (1) Part 2 of Schedule 1 (index of defined expressions) is amended as follows.
 
@@ -927,7 +927,7 @@ Section 146
 >
 > the amount of relief is treated for the purposes of section 76 of that Act as ordinary BLAGAB management expenses of the company referable to the accounting period.
 
-**190.**[^key-e733781a5f7d5707ef30b14db54b2dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**190.**[^c-e733781a5f7d5707ef30b14db54b2dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **191.** In section 1083 (refunds of expenditure treated as income chargeable to tax), omit subsections (4) and (5).
 
@@ -1067,7 +1067,7 @@ Section 146
 
 (2) In subsection (1), for “section 76 of ICTA applies (expenses of companies carrying on life assurance business)” substitute “ the I - E rules apply ”.
 
-(3)[^key-456bf31adae0ffc5494d1232a2b86ae7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-456bf31adae0ffc5494d1232a2b86ae7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (4)—
 
@@ -1135,13 +1135,13 @@ Section 146
 
 **219.** In section 606(5) (groups), in the definition of “insurance company”, for “section 431(2) of ICTA” substitute “ section 65 of FA 2012 ”.
 
-**220.**[^key-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**220.**[^c-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**221.**[^key-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**221.**[^c-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**222.**[^key-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**222.**[^c-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**223.**[^key-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**223.**[^c-b5b6dee19b6560222a2c836421eba190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **224.** In section 835(2) (transferor or associate becomes liable for payment of rent), for paragraph (c) substitute—
 
@@ -1257,11 +1257,11 @@ Section 146
 
 **241.** In section 104(3) (interpreting sections 100 and 101: amounts referable to category of business), for “98” substitute “ 97A ”.
 
-**242.**[^key-5bf4337184922bd2733a3732a00b3732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**242.**[^c-5bf4337184922bd2733a3732a00b3732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **243.** In section 310(2) (meaning of “carried-forward amount”)—
 
-- (a)[^key-b3d07cec741fefa9090482d92616f947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b3d07cec741fefa9090482d92616f947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit paragraph (b).
 
 **244.** In Part 1 of Schedule 11 (index of defined expressions used in Parts 2 and 3 of Act), insert the following entries at the appropriate places—
@@ -1350,14 +1350,14 @@ Section 146
 
 ## Annotations
 
-[^key-fdf3177d76dbfd950f18ffbb946097a8]: Textual amendment: [Sch. 16 para. 106](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/106) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/b)[(c)(ix)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/ix)
+[^c-fdf3177d76dbfd950f18ffbb946097a8]: Textual amendment: [Sch. 16 para. 106](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/106) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/b)[(c)(ix)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/ix)
 
-[^key-e733781a5f7d5707ef30b14db54b2dbe]: Textual amendment: Sch. 16 para. 190 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 26(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/26/3)
+[^c-e733781a5f7d5707ef30b14db54b2dbe]: Textual amendment: Sch. 16 para. 190 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 26(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/26/3)
 
-[^key-456bf31adae0ffc5494d1232a2b86ae7]: Textual amendment: [Sch. 16 para. 210(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/210/3) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/i), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-456bf31adae0ffc5494d1232a2b86ae7]: Textual amendment: [Sch. 16 para. 210(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/210/3) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/i), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
 
-[^key-b5b6dee19b6560222a2c836421eba190]: Textual amendment: [Sch. 16 paras. 220-223](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/220) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 50(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/50/4)
+[^c-b5b6dee19b6560222a2c836421eba190]: Textual amendment: [Sch. 16 paras. 220-223](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/220) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 50(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/50/4)
 
-[^key-5bf4337184922bd2733a3732a00b3732]: Textual amendment: [Sch. 16 para. 242](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/242) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/c/ii)
+[^c-5bf4337184922bd2733a3732a00b3732]: Textual amendment: [Sch. 16 para. 242](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/242) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/c/ii)
 
-[^key-b3d07cec741fefa9090482d92616f947]: Textual amendment: [Sch. 16 para. 243(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/243/a) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/c/ii)
+[^c-b3d07cec741fefa9090482d92616f947]: Textual amendment: [Sch. 16 para. 243(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/243/a) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/c/ii)

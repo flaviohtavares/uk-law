@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Applications for injunctions under section 34[^key-bbbcf6b00c90e446802d7aa5efdb6aef]
+## 37. Applications for injunctions under section 34[^c-bbbcf6b00c90e446802d7aa5efdb6aef]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbbcf6b00c90e446802d7aa5efdb6aef]: Commencement: S. 37 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-bbbcf6b00c90e446802d7aa5efdb6aef]: Commencement: S. 37 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

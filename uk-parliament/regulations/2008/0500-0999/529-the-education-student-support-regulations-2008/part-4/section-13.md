@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Requirement to enter a contract for a loan for fees[^key-5e2f976d695cc7e63f3acb71b9e6fa2c]
+## 13. Requirement to enter a contract for a loan for fees[^c-5e2f976d695cc7e63f3acb71b9e6fa2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ To receive a loan for fees payable under this Part, an eligible student must ent
 
 ## Annotations
 
-[^key-5e2f976d695cc7e63f3acb71b9e6fa2c]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-5e2f976d695cc7e63f3acb71b9e6fa2c]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

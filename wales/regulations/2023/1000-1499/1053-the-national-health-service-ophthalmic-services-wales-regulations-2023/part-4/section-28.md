@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Appeal to the First-tier Tribunal[^key-190c52fa2e6dd8bcef36afc0c4e59aaa]
+## 28. Appeal to the First-tier Tribunal[^c-190c52fa2e6dd8bcef36afc0c4e59aaa]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-190c52fa2e6dd8bcef36afc0c4e59aaa]: Commencement: Reg. 28 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-190c52fa2e6dd8bcef36afc0c4e59aaa]: Commencement: Reg. 28 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Meaning of “in the area” of a local authority[^key-409b7ef06d63e03c206494eda4ee87e0][^key-2f4a25037ef425749631eac81ac34658]
+## 95. Meaning of “in the area” of a local authority[^c-409b7ef06d63e03c206494eda4ee87e0][^c-2f4a25037ef425749631eac81ac34658]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In section 579 of the Education Act 1996 (c. 56)—
 
 ## Annotations
 
-[^key-409b7ef06d63e03c206494eda4ee87e0]: Commencement: S. 95 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(m)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/m)
+[^c-409b7ef06d63e03c206494eda4ee87e0]: Commencement: S. 95 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(m)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/m)
 
-[^key-2f4a25037ef425749631eac81ac34658]: Commencement: S. 95 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-2f4a25037ef425749631eac81ac34658]: Commencement: S. 95 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

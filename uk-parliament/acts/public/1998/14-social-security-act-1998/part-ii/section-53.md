@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 53. Class 1B contributions[^key-b1340e3d9aa78db4068c7d88f2173dd3]
+## 53. Class 1B contributions[^c-b1340e3d9aa78db4068c7d88f2173dd3]
 
 After section 10 of the Contributions and Benefits Act there shall be inserted the following section—
 
@@ -46,4 +46,4 @@ After section 10 of the Contributions and Benefits Act there shall be inserted t
 
 ## Annotations
 
-[^key-b1340e3d9aa78db4068c7d88f2173dd3]: Commencement: S. 53 in force at 8.9.1998 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(b)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/b)[(c)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/c), [Sch. Pts. II](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/II), [III](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/III)
+[^c-b1340e3d9aa78db4068c7d88f2173dd3]: Commencement: S. 53 in force at 8.9.1998 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(b)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/b)[(c)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/c), [Sch. Pts. II](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/II), [III](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/III)

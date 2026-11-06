@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Short title[^key-37fdbbe8d6a974c18268afad0869aded]
+## 60. Short title[^c-37fdbbe8d6a974c18268afad0869aded]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Natural Environment (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-37fdbbe8d6a974c18268afad0869aded]: Commencement: S. 60 in force at 13.3.2026, see [s. 59(1)](https://www.legislation.gov.uk/asp/2026/6/section/59/1)
+[^c-37fdbbe8d6a974c18268afad0869aded]: Commencement: S. 60 in force at 13.3.2026, see [s. 59(1)](https://www.legislation.gov.uk/asp/2026/6/section/59/1)

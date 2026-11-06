@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96ZA. Procedure for regulations under section 95ZA[^key-609b278fd9fac27dbe35f9667ae2fa1e][^M_C_19f7d93d-9ccc-4915-9aa4-0275eaddedbf]
+## 96ZA. Procedure for regulations under section 95ZA[^c-609b278fd9fac27dbe35f9667ae2fa1e][^M_C_19f7d93d-9ccc-4915-9aa4-0275eaddedbf]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-609b278fd9fac27dbe35f9667ae2fa1e]: Textual amendment: S. 96ZA inserted (15.7.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 30(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/7), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/d)
+[^c-609b278fd9fac27dbe35f9667ae2fa1e]: Textual amendment: S. 96ZA inserted (15.7.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 30(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/7), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/d)
 
 [^M_C_19f7d93d-9ccc-4915-9aa4-0275eaddedbf]: Modification: S. 96ZA(2) modified (temp.) (1.7.2015) by [The Water Act 2014 (Commencement No. 4 and Transitional Provisions) Order 2015 (S.I. 2015/1469)](https://www.legislation.gov.uk/uksi/2015/1469), [art. 5(2)(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/2/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. NC assessments regulatory framework[^key-2672e0ba618c3f43cbd05b69f3c1d1c3]
+## 164. NC assessments regulatory framework[^c-2672e0ba618c3f43cbd05b69f3c1d1c3]
 
 *Extent: E+W+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2672e0ba618c3f43cbd05b69f3c1d1c3]: Commencement: S. 164 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-2672e0ba618c3f43cbd05b69f3c1d1c3]: Commencement: S. 164 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

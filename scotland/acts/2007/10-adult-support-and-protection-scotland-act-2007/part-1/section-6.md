@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Duty to consider importance of providing advocacy and other services[^key-7e4ab1eca335b1ee2a118c549cd28586]
+## 6. Duty to consider importance of providing advocacy and other services[^c-7e4ab1eca335b1ee2a118c549cd28586]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e4ab1eca335b1ee2a118c549cd28586]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2007/10/section/6) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-7e4ab1eca335b1ee2a118c549cd28586]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2007/10/section/6) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

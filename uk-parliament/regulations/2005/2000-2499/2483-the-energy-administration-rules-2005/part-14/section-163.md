@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Service by post[^key-95521c40f5de9700bb67f8868efff5ae]
+## 163. Service by post[^c-95521c40f5de9700bb67f8868efff5ae]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95521c40f5de9700bb67f8868efff5ae]: Commencement: Rule 163 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-95521c40f5de9700bb67f8868efff5ae]: Commencement: Rule 163 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

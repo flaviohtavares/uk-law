@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Value of security[^key-e28e47ea32c2d72a90c28ba0bae81ee1]
+## 79. Value of security[^c-e28e47ea32c2d72a90c28ba0bae81ee1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.95 of the 1986 Rules.
 
 ## Annotations
 
-[^key-e28e47ea32c2d72a90c28ba0bae81ee1]: Commencement: Rule 79 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-e28e47ea32c2d72a90c28ba0bae81ee1]: Commencement: Rule 79 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

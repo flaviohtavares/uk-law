@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313. Area in which functions of Countryside Council for Wales exercisable[^key-ce882003f0d4c3f0ceb25a8b2adb3915][^key-ac75f39dbf027abc73c2e6e0ff4095cd]
+## 313. Area in which functions of Countryside Council for Wales exercisable[^c-ce882003f0d4c3f0ceb25a8b2adb3915][^c-ac75f39dbf027abc73c2e6e0ff4095cd]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce882003f0d4c3f0ceb25a8b2adb3915]: Textual amendment: [S. 313](https://www.legislation.gov.uk/ukpga/2009/23/section/313) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 449](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/449) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ce882003f0d4c3f0ceb25a8b2adb3915]: Textual amendment: [S. 313](https://www.legislation.gov.uk/ukpga/2009/23/section/313) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 449](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/449) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ac75f39dbf027abc73c2e6e0ff4095cd]: Commencement: S. 313 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/25)
+[^c-ac75f39dbf027abc73c2e6e0ff4095cd]: Commencement: S. 313 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/25)

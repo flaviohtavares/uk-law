@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Sex offenders
 
-### 1. Review of indefinite offender notification requirements[^key-d782354e75703dc576a8f0c672dadf80]
+### 1. Review of indefinite offender notification requirements[^c-d782354e75703dc576a8f0c672dadf80]
 
 (1) Part 2 of the Sexual Offences Act 2003 is amended as follows.
 
@@ -50,7 +50,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) After Schedule 3 insert the Schedule set out in Schedule 1 to this Act.
 
-### 2. Notification requirements: absence from notified residence[^key-022cc2bd421323694dbd4e01ee0cdac4]
+### 2. Notification requirements: absence from notified residence[^c-022cc2bd421323694dbd4e01ee0cdac4]
 
 (1) Part 2 of the Sexual Offences Act 2003 is amended as follows.
 
@@ -146,7 +146,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-### 4. Offences committed in a country outside the United Kingdom[^key-34044ee145b7f006f2201eb000c2d7d8]
+### 4. Offences committed in a country outside the United Kingdom[^c-34044ee145b7f006f2201eb000c2d7d8]
 
 (1) Part 2 of the Sexual Offences Act 2003 is amended as follows.
 
@@ -239,7 +239,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) In section 133(1) (general interpretation) in the definition of “relevant date” for “98” substitute “ 96A(6) ”.
 
-### 5. Sexual offences prevention orders[^key-491ed7f245cffe8ef846743f7a43eed3]
+### 5. Sexual offences prevention orders[^c-491ed7f245cffe8ef846743f7a43eed3]
 
 (1) Part 2 of the Sexual Offences Act 2003 is amended as follows.
 
@@ -263,15 +263,15 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Trafficking people for exploitation
 
-### 6. Trafficking people for sexual exploitation[^key-937c8ea8137898dc236b10caa0338a6e]
+### 6. Trafficking people for sexual exploitation[^c-937c8ea8137898dc236b10caa0338a6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Trafficking people for other exploitation[^key-937c8ea8137898dc236b10caa0338a6e]
+### 7. Trafficking people for other exploitation[^c-937c8ea8137898dc236b10caa0338a6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Trafficking offences to be triable only on indictment[^key-937c8ea8137898dc236b10caa0338a6e]
+### 8. Trafficking offences to be triable only on indictment[^c-937c8ea8137898dc236b10caa0338a6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -385,9 +385,9 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) In Article 46(3) of the Criminal Justice (Northern Ireland) Order 2008 (functions of Parole Commissioners for Northern Ireland) at the end add “ or Articles 46 to 46B of the Criminal Justice (Children) (Northern Ireland) Order 1998. ”
 
-(5)[^key-93dad01d96d98b08667f97ea27d0f8fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-93dad01d96d98b08667f97ea27d0f8fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-35cecc096bf03f5b5df6cefc8aab2e72] Subsection (7) applies where—
+(6)[^c-35cecc096bf03f5b5df6cefc8aab2e72] Subsection (7) applies where—
 
 - (a) on commencement a person is detained in pursuance of a sentence under Article 45(2) of the 1998 Order, and
 - (b) that person is a person whose licence has been revoked under Article 46(2) of the 1998 Order.
@@ -433,7 +433,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### 13. Criminal proceedings on Sunday
 
-(1)[^key-a163396977f41f7e505071356530b26e][^key-cb6fc4e7ff424ecf8d108bb6f30dab43] Section 7 of the Sunday Observance Act (Ireland) 1695 (which prohibits the service or execution on a Sunday of any writ, process, warrant, order, judgment or decree, except in certain cases) and any rule of law preventing or restricting the holding of a court on a Sunday do not apply, at any time when this subsection is in operation, in relation to—
+(1)[^c-a163396977f41f7e505071356530b26e][^c-cb6fc4e7ff424ecf8d108bb6f30dab43] Section 7 of the Sunday Observance Act (Ireland) 1695 (which prohibits the service or execution on a Sunday of any writ, process, warrant, order, judgment or decree, except in certain cases) and any rule of law preventing or restricting the holding of a court on a Sunday do not apply, at any time when this subsection is in operation, in relation to—
 
 - (a) the holding of a magistrates' court for the purpose of exercising any criminal jurisdiction; or
 - (b) anything done in the course of, or in connection with, the exercise by a magistrates' court of any criminal jurisdiction.
@@ -480,7 +480,7 @@ This Act may be cited as the Criminal Justice Act (Northern Ireland) 2013.
 
 SCHEDULES
 
-## SCHEDULE 1 — SCHEDULE 3A TO THE SEXUAL OFFENCES ACT 2003, AS INSERTED[^key-077c2819f6bd4a58dfc8af07f76be991]
+## SCHEDULE 1 — SCHEDULE 3A TO THE SEXUAL OFFENCES ACT 2003, AS INSERTED[^c-077c2819f6bd4a58dfc8af07f76be991]
 
 Section 1.
 
@@ -1109,24 +1109,24 @@ Section 14.
 
 ## Annotations
 
-[^key-d782354e75703dc576a8f0c672dadf80]: Commencement: S. 1 in force at 1.3.2014 by [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/53/article/2/a)
+[^c-d782354e75703dc576a8f0c672dadf80]: Commencement: S. 1 in force at 1.3.2014 by [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/53/article/2/a)
 
-[^key-022cc2bd421323694dbd4e01ee0cdac4]: Commencement: S. 2 in force at 24.6.2014 by [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/179/article/2/a)
+[^c-022cc2bd421323694dbd4e01ee0cdac4]: Commencement: S. 2 in force at 24.6.2014 by [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/179/article/2/a)
 
-[^key-34044ee145b7f006f2201eb000c2d7d8]: Commencement: S. 4 in force at 24.6.2014 by [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/179/article/2/b)
+[^c-34044ee145b7f006f2201eb000c2d7d8]: Commencement: S. 4 in force at 24.6.2014 by [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/179/article/2/b)
 
-[^key-491ed7f245cffe8ef846743f7a43eed3]: Commencement: S. 5 in force at 24.6.2014 by [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/179/article/2/c)
+[^c-491ed7f245cffe8ef846743f7a43eed3]: Commencement: S. 5 in force at 24.6.2014 by [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/179/article/2/c)
 
-[^key-937c8ea8137898dc236b10caa0338a6e]: Textual amendment: [Ss. 6-8](https://www.legislation.gov.uk/nia/2013/7/section/6) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28](https://www.legislation.gov.uk/nia/2015/2/section/28), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-937c8ea8137898dc236b10caa0338a6e]: Textual amendment: [Ss. 6-8](https://www.legislation.gov.uk/nia/2013/7/section/6) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28](https://www.legislation.gov.uk/nia/2015/2/section/28), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 
-[^key-93dad01d96d98b08667f97ea27d0f8fd]: Textual amendment: S. 10(5) repealed (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 99(2)](https://www.legislation.gov.uk/nia/2015/9/section/99/2), [106(1)(c)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/c), [Sch. 9 Pt. 6](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/6)
+[^c-93dad01d96d98b08667f97ea27d0f8fd]: Textual amendment: S. 10(5) repealed (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 99(2)](https://www.legislation.gov.uk/nia/2015/9/section/99/2), [106(1)(c)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/c), [Sch. 9 Pt. 6](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/6)
 
-[^key-35cecc096bf03f5b5df6cefc8aab2e72]: Textual amendment: S. 10(6) substituted (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 99(3)](https://www.legislation.gov.uk/nia/2015/9/section/99/3), [106(1)(c)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/c)
+[^c-35cecc096bf03f5b5df6cefc8aab2e72]: Textual amendment: S. 10(6) substituted (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 99(3)](https://www.legislation.gov.uk/nia/2015/9/section/99/3), [106(1)(c)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/c)
 
-[^key-a163396977f41f7e505071356530b26e]: Commencement: S. 13(1) in force at 8.6.2013 by [S.R. 2013/162](https://www.legislation.gov.uk/nisr/2013/162), [art. 2](https://www.legislation.gov.uk/nisr/2013/162/article/2)
+[^c-a163396977f41f7e505071356530b26e]: Commencement: S. 13(1) in force at 8.6.2013 by [S.R. 2013/162](https://www.legislation.gov.uk/nisr/2013/162), [art. 2](https://www.legislation.gov.uk/nisr/2013/162/article/2)
 
-[^key-cb6fc4e7ff424ecf8d108bb6f30dab43]: Commencement: S. 13(1) in operation at 10.7.2015 by [S.R. 2015/296](https://www.legislation.gov.uk/nisr/2015/296), [art. 2](https://www.legislation.gov.uk/nisr/2015/296/article/2) (See s. 13(4) of the Act)
+[^c-cb6fc4e7ff424ecf8d108bb6f30dab43]: Commencement: S. 13(1) in operation at 10.7.2015 by [S.R. 2015/296](https://www.legislation.gov.uk/nisr/2015/296), [art. 2](https://www.legislation.gov.uk/nisr/2015/296/article/2) (See s. 13(4) of the Act)
 
 [^c2178287]: Commencement: Art. 14 partly in operation; art. 14 in operation for specified purposes at 26.4.2013 see s. 15(2)(e)
 
-[^key-077c2819f6bd4a58dfc8af07f76be991]: Commencement: Sch. 1 in force at 1.3.2014 by [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/53/article/2/b)
+[^c-077c2819f6bd4a58dfc8af07f76be991]: Commencement: Sch. 1 in force at 1.3.2014 by [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/53/article/2/b)

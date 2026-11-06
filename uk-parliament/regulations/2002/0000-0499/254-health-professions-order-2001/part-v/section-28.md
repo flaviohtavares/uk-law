@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. The Health Committee[^key-589cfde54718c98736f6b541f54cb8a1][^key-bb32de125d85378fad07a4c5f912f2b3]
+## 28. The Health Committee[^c-589cfde54718c98736f6b541f54cb8a1][^c-bb32de125d85378fad07a4c5f912f2b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ The Health Committee shall consider—
 
 ## Annotations
 
-[^key-589cfde54718c98736f6b541f54cb8a1]: Commencement: Art. 28 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-589cfde54718c98736f6b541f54cb8a1]: Commencement: Art. 28 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-bb32de125d85378fad07a4c5f912f2b3]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2002/254/article/28) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-bb32de125d85378fad07a4c5f912f2b3]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2002/254/article/28) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64B. Requirements relating to safeguarded rights.[^key-c06b7302e67d04db33ebacc14a3efbd2]
+## 64B. Requirements relating to safeguarded rights.[^c-c06b7302e67d04db33ebacc14a3efbd2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c06b7302e67d04db33ebacc14a3efbd2]: Textual amendment: Pt. 3A repealed (6.4.2009) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 79](https://www.legislation.gov.uk/nia/2008/13/section/79), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/2) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2009/22](https://www.legislation.gov.uk/nisr/2009/22), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2009/22/article/2/2/a)[(d)](https://www.legislation.gov.uk/nisr/2009/22/article/2/2/d)
+[^c-c06b7302e67d04db33ebacc14a3efbd2]: Textual amendment: Pt. 3A repealed (6.4.2009) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 79](https://www.legislation.gov.uk/nia/2008/13/section/79), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/2) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2009/22](https://www.legislation.gov.uk/nisr/2009/22), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2009/22/article/2/2/a)[(d)](https://www.legislation.gov.uk/nisr/2009/22/article/2/2/d)

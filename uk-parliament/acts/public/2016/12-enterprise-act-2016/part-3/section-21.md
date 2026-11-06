@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Devolved Welsh matters[^key-ff61cdfced0663f82788aab5a227aed5]
+## 21. Devolved Welsh matters[^c-ff61cdfced0663f82788aab5a227aed5]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff61cdfced0663f82788aab5a227aed5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/12/section/21) in force at 1.10.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/695/article/3/c)
+[^c-ff61cdfced0663f82788aab5a227aed5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/12/section/21) in force at 1.10.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/695/article/3/c)

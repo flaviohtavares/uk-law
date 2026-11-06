@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Secured debts[^key-61a1fe7d65e00e2023cd75449324adde]
+## 124. Secured debts[^c-61a1fe7d65e00e2023cd75449324adde]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61a1fe7d65e00e2023cd75449324adde]: Commencement: Rule 124 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-61a1fe7d65e00e2023cd75449324adde]: Commencement: Rule 124 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

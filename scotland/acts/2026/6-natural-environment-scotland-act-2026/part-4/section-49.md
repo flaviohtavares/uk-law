@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Wildfires: enabling local authorities to issue fixed penalty notices[^key-d73b3adf8d636c29dcbd7157bcd6bc7e][^key-ea00d4e8c3d6bafd7d8a13af9e00bf60]
+## 49. Wildfires: enabling local authorities to issue fixed penalty notices[^c-d73b3adf8d636c29dcbd7157bcd6bc7e][^c-ea00d4e8c3d6bafd7d8a13af9e00bf60]
 
 *Extent: S*
 
@@ -111,6 +111,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d73b3adf8d636c29dcbd7157bcd6bc7e]: Commencement: S. 49 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-d73b3adf8d636c29dcbd7157bcd6bc7e]: Commencement: S. 49 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-ea00d4e8c3d6bafd7d8a13af9e00bf60]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2026/6/section/49) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z4)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z4)
+[^c-ea00d4e8c3d6bafd7d8a13af9e00bf60]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2026/6/section/49) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z4)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z4)

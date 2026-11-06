@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Meaning of “legal services” and “legal services provider”[^key-105cce2711379f05032b1d2dfa8a48e4][^key-2327fab6649b4f1e9d32fd9c0a65945b][^key-e5330ab5247e5e8173cbf6dd43a91dd6]
+## 5. Meaning of “legal services” and “legal services provider”[^c-105cce2711379f05032b1d2dfa8a48e4][^c-2327fab6649b4f1e9d32fd9c0a65945b][^c-e5330ab5247e5e8173cbf6dd43a91dd6]
 
 *Extent: S*
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-105cce2711379f05032b1d2dfa8a48e4]: Commencement: S. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-105cce2711379f05032b1d2dfa8a48e4]: Commencement: S. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-2327fab6649b4f1e9d32fd9c0a65945b]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/8/section/5) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-2327fab6649b4f1e9d32fd9c0a65945b]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/8/section/5) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-e5330ab5247e5e8173cbf6dd43a91dd6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/8/section/5) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-e5330ab5247e5e8173cbf6dd43a91dd6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/8/section/5) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

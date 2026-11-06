@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Payment of dividends[^key-51b49ddfb21719c37aac054a51209f18]
+## 26. Payment of dividends[^c-51b49ddfb21719c37aac054a51209f18]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ but where an application is received after the balance for the dividend has been
 
 ## Annotations
 
-[^key-51b49ddfb21719c37aac054a51209f18]: Commencement: Reg. 26 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-51b49ddfb21719c37aac054a51209f18]: Commencement: Reg. 26 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

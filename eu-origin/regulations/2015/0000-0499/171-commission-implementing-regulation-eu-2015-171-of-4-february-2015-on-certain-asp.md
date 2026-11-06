@@ -35,50 +35,50 @@ on certain aspects of the procedure of licensing railway undertakings
 
 (Text with EEA relevance) (revoked)
 
-[^key-ce92f7c092b066043d58f3befed4a1f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce92f7c092b066043d58f3befed4a1f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-ce92f7c092b066043d58f3befed4a1f9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 1. Subject matter[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. The use of the common template for the licence document[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 2. Definitions[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Licensing fees[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 3. The use of the common template for the licence document[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Certain aspects pertaining to requirements on civil liability cover and adequate guarantees[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 4. Licensing fees[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Relation with safety certificates[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 5. Certain aspects pertaining to requirements on civil liability cover and adequate guarantees[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Certain aspects of the procedure for granting a licence[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 6. Relation with safety certificates[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 7. Certain aspects of the procedure for granting a licence[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce92f7c092b066043d58f3befed4a1f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — Standard format for the licence document[^key-ce92f7c092b066043d58f3befed4a1f9]
+## Article 8. Entry into force[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Standard format for liability annex to railway licence[^key-ce92f7c092b066043d58f3befed4a1f9]
+[^c-ce92f7c092b066043d58f3befed4a1f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Standard format for the licence document[^c-ce92f7c092b066043d58f3befed4a1f9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — Standard format for liability annex to railway licence[^c-ce92f7c092b066043d58f3befed4a1f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce92f7c092b066043d58f3befed4a1f9]: Textual amendment: Regulations revoked (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2019/700/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce92f7c092b066043d58f3befed4a1f9]: Textual amendment: Regulations revoked (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2019/700/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

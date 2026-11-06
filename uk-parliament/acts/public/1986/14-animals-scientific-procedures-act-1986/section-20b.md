@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20B. Alternative strategies[^key-712785d868acaf3ebe7e06022a989f0b]
+## 20B. Alternative strategies[^c-712785d868acaf3ebe7e06022a989f0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) In particular, the Secretary of State must—
 
-- (a)[^key-a9bcdbffd26dfc1f981ac5e7cc2e89d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-a9bcdbffd26dfc1f981ac5e7cc2e89d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) take such [^key-adf15402528af7902cdb276ced5f8bef]... steps as the Secretary of State considers appropriate to encourage research into alternative strategies;
+- (a)[^c-a9bcdbffd26dfc1f981ac5e7cc2e89d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a9bcdbffd26dfc1f981ac5e7cc2e89d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) take such [^c-adf15402528af7902cdb276ced5f8bef]... steps as the Secretary of State considers appropriate to encourage research into alternative strategies;
 - (d) ensure the promotion of, and dissemination of information about, alternative strategies.
 
 (3) The Secretary of State may make grants to any person concerned with the development, promotion or validation of alternative strategies.
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-712785d868acaf3ebe7e06022a989f0b]: Textual amendment: S. 20B inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2012/3039/regulation/22) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-712785d868acaf3ebe7e06022a989f0b]: Textual amendment: S. 20B inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2012/3039/regulation/22) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-a9bcdbffd26dfc1f981ac5e7cc2e89d1]: Textual amendment: S. 20B(2)(a)(b) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9bcdbffd26dfc1f981ac5e7cc2e89d1]: Textual amendment: S. 20B(2)(a)(b) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-adf15402528af7902cdb276ced5f8bef]: Textual amendment: Word in s. 20B(2)(c) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adf15402528af7902cdb276ced5f8bef]: Textual amendment: Word in s. 20B(2)(c) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

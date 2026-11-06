@@ -45,7 +45,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 These Regulations may be cited as the Social Security (Joint Claims: Consequential Amendments) Regulations 2000 and shall come into force on 19th March 2001.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-4e5ed0a4cbfc60f4db4d77e2b332683e]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-4e5ed0a4cbfc60f4db4d77e2b332683e]
 
 (1) The Social Security (Claims and Payments) Regulations 1987 [^c1605291] shall be amended in accordance with the following paragraphs of this regulation.
 
@@ -163,12 +163,12 @@ In regulation 5 of the Social Security (Work-focused Interviews) Regulations 200
 
 ## 4. Amendment of the Housing Benefit (General) Regulations 1987 and of the Council Tax Benefit (General) Regulations 1992
 
-In regulation 2(3A) of both the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-83538a62b41420a27ba498291b4fbfac] [^c1605303] and the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-83538a62b41420a27ba498291b4fbfac] [^c1605304] (interpretation)— *(affected by repeal, see note)*[^key-83538a62b41420a27ba498291b4fbfac]
+In regulation 2(3A) of both the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-83538a62b41420a27ba498291b4fbfac] [^c1605303] and the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-83538a62b41420a27ba498291b4fbfac] [^c1605304] (interpretation)— *(affected by repeal, see note)*[^c-83538a62b41420a27ba498291b4fbfac]
 
-- (a) after “19" in both places where that figure occurs there shall be inserted the words *(affected by repeal, see note)*[^key-83538a62b41420a27ba498291b4fbfac] “ or 20A ” *(affected by repeal, see note)*[^key-83538a62b41420a27ba498291b4fbfac];
-- (b) after sub-paragraph (b), there shall be added the following sub-paragraph— *(affected by repeal, see note)*[^key-83538a62b41420a27ba498291b4fbfac]
+- (a) after “19" in both places where that figure occurs there shall be inserted the words *(affected by repeal, see note)*[^c-83538a62b41420a27ba498291b4fbfac] “ or 20A ” *(affected by repeal, see note)*[^c-83538a62b41420a27ba498291b4fbfac];
+- (b) after sub-paragraph (b), there shall be added the following sub-paragraph— *(affected by repeal, see note)*[^c-83538a62b41420a27ba498291b4fbfac]
 
-  > - (c) in respect of which he is a member of a joint-claim couple for the purposes of the Jobseekers Act 1995 and no joint-claim jobseeker’s allowance is payable in respect of that couple as a consequence of either member of that couple being subject to sanctions for the purposes of section 20A of that Act. *(affected by repeal, see note)*[^key-83538a62b41420a27ba498291b4fbfac]
+  > - (c) in respect of which he is a member of a joint-claim couple for the purposes of the Jobseekers Act 1995 and no joint-claim jobseeker’s allowance is payable in respect of that couple as a consequence of either member of that couple being subject to sanctions for the purposes of section 20A of that Act. *(affected by repeal, see note)*[^c-83538a62b41420a27ba498291b4fbfac]
 
   .
 
@@ -225,7 +225,7 @@ These Regulations do not impose a charge on businesses.
 
 [^c1605290]: Marginal citation: *See* section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-4e5ed0a4cbfc60f4db4d77e2b332683e]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/1982/regulation/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-4e5ed0a4cbfc60f4db4d77e2b332683e]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/1982/regulation/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1605291]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
@@ -251,7 +251,7 @@ These Regulations do not impose a charge on businesses.
 
 [^c1605302]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); Schedule A1 was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
-[^key-83538a62b41420a27ba498291b4fbfac]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/1982/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-83538a62b41420a27ba498291b4fbfac]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/1982/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1605303]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); regulation 2(3A) was inserted by [S.I. 1996/1510](https://www.legislation.gov.uk/uksi/1996/1510).
 

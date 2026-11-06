@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to subsection (7) below, where—
 
-- (a) a petition for the alteration of the boundaries of an internal drainage district is made to the appropriate supervisory body[^key-55ae88b7d0d30f956548d83aa5593d13] by a sufficient number of qualified persons or by a qualified authority; and
+- (a) a petition for the alteration of the boundaries of an internal drainage district is made to the appropriate supervisory body[^c-55ae88b7d0d30f956548d83aa5593d13] by a sufficient number of qualified persons or by a qualified authority; and
 - (b) the boundaries of that district have for a period exceeding ten years been neither reviewed on such a petition nor altered,
 
 the appropriate supervisory body shall review those boundaries.
@@ -30,12 +30,12 @@ the appropriate supervisory body shall review those boundaries.
 (2) Subject to subsection (7) below, where a petition under subsection (1) above is received by the appropriate supervisory body in the circumstances mentioned in subsection (1)(b) above, the appropriate supervisory body shall—
 
 - (a) inform the relevant Minister; and
-- (b) publish[^key-650bbfed1289c3f1b8e7f8d5e2e67a38]... a notice stating—
+- (b) publish[^c-650bbfed1289c3f1b8e7f8d5e2e67a38]... a notice stating—
   - (i) that the petition has been received;
   - (ii) that a review of the boundaries is being undertaken; and
   - (iii) that representations may be made to the appropriate supervisory body within a period (which shall not be less than thirty days) stated in the notice.
 
-(2A)[^key-b8871f786853e6bec39b01ae130c72b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-b8871f786853e6bec39b01ae130c72b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In carrying out any review required by this section the appropriate supervisory body shall—
 
@@ -60,8 +60,8 @@ the appropriate supervisory body may direct the drainage board to make such an o
 
 ## Annotations
 
-[^key-55ae88b7d0d30f956548d83aa5593d13]: Textual amendment: Words in s. 3 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-55ae88b7d0d30f956548d83aa5593d13]: Textual amendment: Words in s. 3 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-650bbfed1289c3f1b8e7f8d5e2e67a38]: Textual amendment: Words in s. 2(2)(b) repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/2/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
+[^c-650bbfed1289c3f1b8e7f8d5e2e67a38]: Textual amendment: Words in s. 2(2)(b) repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/2/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
 
-[^key-b8871f786853e6bec39b01ae130c72b3]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/ukpga/1991/59/section/2/2A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)
+[^c-b8871f786853e6bec39b01ae130c72b3]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/ukpga/1991/59/section/2/2A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)

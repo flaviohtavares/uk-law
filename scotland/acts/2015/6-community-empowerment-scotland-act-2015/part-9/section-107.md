@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Meaning of “allotment”[^key-bc8592dd96d4667d3031398d74ac3aca]
+## 107. Meaning of “allotment”[^c-bc8592dd96d4667d3031398d74ac3aca]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In this Part, “**allotment**” means land that—
 
 ## Annotations
 
-[^key-bc8592dd96d4667d3031398d74ac3aca]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2015/6/section/107) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-bc8592dd96d4667d3031398d74ac3aca]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2015/6/section/107) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

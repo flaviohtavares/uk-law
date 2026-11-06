@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Release of resigning or removed building society liquidator[^key-a825d660c78f6e0962d9c7a385e329f7]
+## 44. Release of resigning or removed building society liquidator[^c-a825d660c78f6e0962d9c7a385e329f7]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the building society liquidator must apply to the Accountant of Court for his re
 
 ## Annotations
 
-[^key-a825d660c78f6e0962d9c7a385e329f7]: Commencement: Rule 44 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-a825d660c78f6e0962d9c7a385e329f7]: Commencement: Rule 44 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

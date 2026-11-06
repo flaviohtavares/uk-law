@@ -43,11 +43,11 @@ apply in relation to B or an associate of B's, B or the associate is to be treat
 
 (4) In this Chapter, in relation to an individual, “associate”—
 
-- (a) has the meaning given by section 448 of CTA 2010 (close companies: meaning of “associate”)[^key-2c7a29cceb1dd6e55a4bb1e9c8f9ced2], but
+- (a) has the meaning given by section 448 of CTA 2010 (close companies: meaning of “associate”)[^c-2c7a29cceb1dd6e55a4bb1e9c8f9ced2], but
 - (b) does not include the trustees of an employee benefit trust as a result only of the individual’s having (as mentioned in subsection (1)(a)) an interest in shares or obligations of the company which are subject to the trust.
 
 (5) In this Chapter “**employee**” means the holder of a taxable employment under Part 2 (as defined in section 66(3)), and accordingly includes an office-holder whose office is within the scope of that definition as a result of section 5(1).
 
 ## Annotations
 
-[^key-2c7a29cceb1dd6e55a4bb1e9c8f9ced2]: Textual amendment: Words in s. 549(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 393](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/393) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2c7a29cceb1dd6e55a4bb1e9c8f9ced2]: Textual amendment: Words in s. 549(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 393](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/393) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

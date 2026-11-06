@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Trade: application of information powers in CEMA[^key-15b1e8ff93cda7ce6af99515038881d6]
+## 73. Trade: application of information powers in CEMA[^c-15b1e8ff93cda7ce6af99515038881d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15b1e8ff93cda7ce6af99515038881d6]: Commencement: Reg. 73 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-15b1e8ff93cda7ce6af99515038881d6]: Commencement: Reg. 73 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00022]: Footnote: Section 77A was inserted by the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), section 10 and amended by [S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095).

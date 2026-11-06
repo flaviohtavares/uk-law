@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Duty to act in the best interests of members[^key-3a57168b54a53cd69c619833db562f9f]
+## 37. Duty to act in the best interests of members[^c-3a57168b54a53cd69c619833db562f9f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a57168b54a53cd69c619833db562f9f]: Textual amendment: [S. 37](https://www.legislation.gov.uk/ukpga/2015/8/section/37) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/c), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)
+[^c-3a57168b54a53cd69c619833db562f9f]: Textual amendment: [S. 37](https://www.legislation.gov.uk/ukpga/2015/8/section/37) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/c), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)

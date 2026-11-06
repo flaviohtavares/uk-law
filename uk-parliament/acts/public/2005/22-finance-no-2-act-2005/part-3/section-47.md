@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-37c0c1412edb47be06b155c48cf0da81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-37c0c1412edb47be06b155c48cf0da81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 79(1) of FA 2003 (registration of land transactions) after “in relation to the transaction” insert “ or such information about compliance as the Commissioners for Her Majesty's Revenue and Customs may specify in regulations. ”
 
@@ -46,7 +46,7 @@ summary: ''
 (6) In subsection (5) “**land registrar**” means—
 
 - (a) in relation to England and Wales, the Chief Land Registrar,
-- (b)[^key-e8589055b8519f703b0e4a7eda768319] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e8589055b8519f703b0e4a7eda768319] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in relation to Northern Ireland, the Registrar of Titles or the registrar of deeds, and
 - (d) in any case, such other persons with functions relating to the registration of land as regulations under subsection (5) may specify.
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37c0c1412edb47be06b155c48cf0da81]: Textual amendment: S. 47(1) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/29/a) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-37c0c1412edb47be06b155c48cf0da81]: Textual amendment: S. 47(1) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/29/a) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-e8589055b8519f703b0e4a7eda768319]: Textual amendment: S. 47(6)(b) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 29(b)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/29/b) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-e8589055b8519f703b0e4a7eda768319]: Textual amendment: S. 47(6)(b) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 29(b)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/29/b) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)

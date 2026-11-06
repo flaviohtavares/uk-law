@@ -46,19 +46,19 @@ The Department for the Economy[^f00001] makes the following Regulations in exerc
 
 ## PART 1
 
-### 1. Citation, commencement and interpretation[^key-c8459dd2ee1ab620b50819622ab8301d]
+### 1. Citation, commencement and interpretation[^c-c8459dd2ee1ab620b50819622ab8301d]
 
 (1) These Regulations may be cited as the Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 and shall come into operation on the day after the day on which they are made.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-### 2. Application[^key-a354fcf3e3ce40c44f3168d6ca9967cb]
+### 2. Application[^c-a354fcf3e3ce40c44f3168d6ca9967cb]
 
 The amendments to the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 in Part 2 of these Regulations and the amendments to the Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2023 in Part 3 of these Regulations have effect only in relation to miscarriages experienced or detected on or after 6th April 2026.
 
 ## PART 2
 
-### 3. Amendments to the Statutory Parental Bereavement Pay (General) (No. 2) Regulations[^key-462308b223332b1d23e7ef223dd5d18f]
+### 3. Amendments to the Statutory Parental Bereavement Pay (General) (No. 2) Regulations[^c-462308b223332b1d23e7ef223dd5d18f]
 
 (1) The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^f00005] are amended in accordance with paragraphs (2) to (7).
 
@@ -138,7 +138,7 @@ The amendments to the Statutory Parental Bereavement Pay (General) (No. 2) Regul
 
 ## PART 3 — Amendments to the Leave Regulations
 
-### 4. Amendment to the Parental Bereavement Leave (No. 2) Regulations[^key-7923f165c3d84080d7205ee9fde7bea4]
+### 4. Amendment to the Parental Bereavement Leave (No. 2) Regulations[^c-7923f165c3d84080d7205ee9fde7bea4]
 
 (1) The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2023[^f00006] are amended in accordance with paragraphs (2) to (6).
 
@@ -231,16 +231,16 @@ An impact assessment has been prepared for these Regulations which was published
 
 [^f00003]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919), Articles 112EF and 251(1B) were inserted by [2022 c. 5](https://www.legislation.gov.uk/ukpga/2022/5), section 1
 
-[^key-c8459dd2ee1ab620b50819622ab8301d]: Commencement: Reg. 1 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
+[^c-c8459dd2ee1ab620b50819622ab8301d]: Commencement: Reg. 1 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a354fcf3e3ce40c44f3168d6ca9967cb]: Commencement: Reg. 2 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
+[^c-a354fcf3e3ce40c44f3168d6ca9967cb]: Commencement: Reg. 2 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
 
-[^key-462308b223332b1d23e7ef223dd5d18f]: Commencement: Reg. 3 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
+[^c-462308b223332b1d23e7ef223dd5d18f]: Commencement: Reg. 3 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2023 No. 155](https://www.legislation.gov.uk/nisr/2023/155)
 
-[^key-7923f165c3d84080d7205ee9fde7bea4]: Commencement: Reg. 4 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
+[^c-7923f165c3d84080d7205ee9fde7bea4]: Commencement: Reg. 4 in operation at 26.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2023 No. 156](https://www.legislation.gov.uk/nisr/2023/156)

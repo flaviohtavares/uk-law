@@ -33,7 +33,7 @@ An Act to provide for the making of orders relating to, or to matters ancillary 
 
 \[16th March 1992\]
 
-[^c8594641][^c8594651][^c8594661]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-09f5970fa044359240b3e7a6dcb14cc1][^key-694a39c5e2909a38096e740702eb8eb8][^key-18e97c9e9f8913852bd8fa95fff056ad][^key-ca0500ef199f69ec110abea9cdec4f59]
+[^c8594641][^c8594651][^c8594661]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-09f5970fa044359240b3e7a6dcb14cc1][^c-694a39c5e2909a38096e740702eb8eb8][^c-18e97c9e9f8913852bd8fa95fff056ad][^c-ca0500ef199f69ec110abea9cdec4f59]
 
 ## Contents
 
@@ -223,13 +223,13 @@ SCHEDULES
 
 [^c8594661]: Modification: Act (except as mentioned in [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)): transfer of functions (1.7.199) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-09f5970fa044359240b3e7a6dcb14cc1]: Modification: Act applied (with modifications) (E.W.) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/6)
+[^c-09f5970fa044359240b3e7a6dcb14cc1]: Modification: Act applied (with modifications) (E.W.) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/6)
 
-[^key-694a39c5e2909a38096e740702eb8eb8]: Modification: Act applied (E.W.) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/5)
+[^c-694a39c5e2909a38096e740702eb8eb8]: Modification: Act applied (E.W.) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/5)
 
-[^key-18e97c9e9f8913852bd8fa95fff056ad]: Modification: Act applied (with modifications) (E.W.) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/6)
+[^c-18e97c9e9f8913852bd8fa95fff056ad]: Modification: Act applied (with modifications) (E.W.) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/6)
 
-[^key-ca0500ef199f69ec110abea9cdec4f59]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/42) applied (with modifications) (14.6.2016) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Land Acquisition and Variation) Order 2016 (S.I. 2016/545)](https://www.legislation.gov.uk/uksi/2016/545), [art. 5(3)](https://www.legislation.gov.uk/uksi/2016/545/article/5/3) (with [art. 39](https://www.legislation.gov.uk/uksi/2016/545/article/39))
+[^c-ca0500ef199f69ec110abea9cdec4f59]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/42) applied (with modifications) (14.6.2016) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Land Acquisition and Variation) Order 2016 (S.I. 2016/545)](https://www.legislation.gov.uk/uksi/2016/545), [art. 5(3)](https://www.legislation.gov.uk/uksi/2016/545/article/5/3) (with [art. 39](https://www.legislation.gov.uk/uksi/2016/545/article/39))
 
 [^c8594681]: Commencement: Pt. I (ss. 1-25) wholly in force at 1.1.1993 see s. 70 and [S.I. 1992/2784](https://www.legislation.gov.uk/uksi/1992/2784), [art. 2](https://www.legislation.gov.uk/uksi/1992/2784/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/2784/schedule/1)
 

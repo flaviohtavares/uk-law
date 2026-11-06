@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this section, any person may apply to the High Court or the family court[^key-19089a08a2fbc8906d42532555b7366f] for a declaration as to whether or not a person named in the application is or was the parent of another person so named.
+(1) Subject to the following provisions of this section, any person may apply to the High Court or the family court[^c-19089a08a2fbc8906d42532555b7366f] for a declaration as to whether or not a person named in the application is or was the parent of another person so named.
 
 (2) A court shall have jurisdiction to entertain an application under subsection (1) above if, and only if, either of the persons named in it for the purposes of that subsection—
 
@@ -48,6 +48,6 @@ summary: ''
 
 [^c13387471]: Textual amendment: S. 55A inserted (1.4.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 83(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/774](https://www.legislation.gov.uk/uksi/2001/774), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/774/article/2/b)
 
-[^key-19089a08a2fbc8906d42532555b7366f]: Textual amendment: Words in [s. 55A(1)](https://www.legislation.gov.uk/ukpga/1986/55/section/55A/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/97); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-19089a08a2fbc8906d42532555b7366f]: Textual amendment: Words in [s. 55A(1)](https://www.legislation.gov.uk/ukpga/1986/55/section/55A/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/97); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c13387481]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).

@@ -43,7 +43,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by Article 19(3) and (5) of the Child Support (Northern Ireland) Order 1991[^f00001]**,** sections 5(1)(hh), (j) and (k) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 10(1) and 11(3) and (6) of the Social Security (Northern Ireland) Order 1998[^f00003], and now vested in it[^f00004], and paragraphs 4(3) and (5) and 10(1) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00005], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-bd28b23e9b556cf670a18491f099614f]
+## 1. Citation and commencement[^c-bd28b23e9b556cf670a18491f099614f]
 
 These Regulations may be cited as the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2003 and shall come into operation as follows –
 
@@ -52,7 +52,7 @@ These Regulations may be cited as the Social Security and Child Support (Miscell
   - (i) except for the purposes of any type of case referred to in head (ii), on 5th May 2003; and
   - (ii) for the purposes of any type of case which is not one in relation to which 3rd March 2003 is the appointed day for the coming into operation of section 9 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00006], on the day on which that section comes into operation in relation to that type of case.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-5d687595f840349fe7b3381d6fbb4f8d]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-5d687595f840349fe7b3381d6fbb4f8d]
 
 In regulation 32 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00007] (information to be given when obtaining payment of benefit) for the heading and paragraph (1) there shall be substituted –
 
@@ -71,11 +71,11 @@ In regulation 32 of the Social Security (Claims and Payments) Regulations (North
 
 .
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-fdbcb72dfc55d9e082ed78c5107f476e][^key-3e59fb84e41c5266250da4ec5908e63d][^key-7119b5a8792853595a267e2a98900d03][^key-3e59fb84e41c5266250da4ec5908e63d]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-fdbcb72dfc55d9e082ed78c5107f476e][^c-3e59fb84e41c5266250da4ec5908e63d][^c-7119b5a8792853595a267e2a98900d03][^c-3e59fb84e41c5266250da4ec5908e63d]
 
-(1)[^key-fdbcb72dfc55d9e082ed78c5107f476e] The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00008] shall be amended in accordance with paragraphs (2) to (7).
+(1)[^c-fdbcb72dfc55d9e082ed78c5107f476e] The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00008] shall be amended in accordance with paragraphs (2) to (7).
 
-(2)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 1(2) (interpretation) for the definition of “out of jurisdiction appeal” there shall be substituted the following definition –
+(2)[^c-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 1(2) (interpretation) for the definition of “out of jurisdiction appeal” there shall be substituted the following definition –
 
 > - “out of jurisdiction appeal” means an appeal brought against a decision which is –
 >   - (a) specified in Schedule 2 to the Order or prescribed in regulation 27; or
@@ -83,9 +83,9 @@ In regulation 32 of the Social Security (Claims and Payments) Regulations (North
 
 .
 
-(3)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 3(9)(a)[^f00009] (revision of decisions) for “was made” there shall be substituted “had effect”.
+(3)[^c-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 3(9)(a)[^f00009] (revision of decisions) for “was made” there shall be substituted “had effect”.
 
-(4)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 6(2)[^f00010] (supersession of decisions) –
+(4)[^c-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 6(2)[^f00010] (supersession of decisions) –
 
 - (a) in sub-paragraph (a)(i) for “was made” there shall be substituted “had effect”;
 - (b) for sub-paragraph (c) there shall be substituted the following sub-paragraph –
@@ -97,9 +97,9 @@ In regulation 32 of the Social Security (Claims and Payments) Regulations (North
   ; and
 - (c) the word “or” after sub-paragraphs (f) and (g) shall be omitted.
 
-(5)[^key-9c944028c8b76b3c525fa924cd8e3db0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9c944028c8b76b3c525fa924cd8e3db0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 7 (date from which a decision superseded under Article 11 takes effect) –
+(6)[^c-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 7 (date from which a decision superseded under Article 11 takes effect) –
 
 - (a) in paragraph (1)(a)[^f00012] for “and (28)” there shall be substituted “, (28) and (29)”;
 - (b) in paragraph (2) for “was made” there shall be substituted “had effect”;
@@ -131,9 +131,9 @@ In regulation 32 of the Social Security (Claims and Payments) Regulations (North
 
   .
 
-(7)[^key-3e6ac157190638099ca129f63b6be929] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3e6ac157190638099ca129f63b6be929] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-8ca811d634ea29069169657116ef4e34]
+## 4. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^c-8ca811d634ea29069169657116ef4e34]
 
 (1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00017] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -156,11 +156,11 @@ In regulation 32 of the Social Security (Claims and Payments) Regulations (North
 
 .
 
-## 5. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-90927471a767a62398ea6005939540ca]
+## 5. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-90927471a767a62398ea6005939540ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-cc5ebe529a0e3e56c8f6774bf694fe15]
+## 6. Revocations[^c-cc5ebe529a0e3e56c8f6774bf694fe15]
 
 Regulation 6(3) of the Social Security (Miscellaneous Provisions) (Amendment No. 3) Regulations (Northern Ireland) 1992[^f00022], regulation 2(16)(a) of the Social Security (Claims and Payments) (Jobseeker’s Allowance Consequential Amendments) Regulations (Northern Ireland) 1996[^f00023] and regulation 6(5)(e) of the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000[^f00024] are hereby revoked.
 
@@ -212,19 +212,19 @@ These Regulations do not impose a charge on business.
 
 [^f00005]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-bd28b23e9b556cf670a18491f099614f]: Commencement: Reg. 1 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+[^c-bd28b23e9b556cf670a18491f099614f]: Commencement: Reg. 1 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
 
 [^f00006]: Footnote: *See* Article 3 of [S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53)
 
-[^key-5d687595f840349fe7b3381d6fbb4f8d]: Commencement: Reg. 2 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+[^c-5d687595f840349fe7b3381d6fbb4f8d]: Commencement: Reg. 2 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
 
 [^f00007]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 32(1) was amended by regulation 6(3) of [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453) and regulation 2(16)(a) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 
-[^key-fdbcb72dfc55d9e082ed78c5107f476e]: Commencement: Reg. 3(1)-(4)(6) in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+[^c-fdbcb72dfc55d9e082ed78c5107f476e]: Commencement: Reg. 3(1)-(4)(6) in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
 
-[^key-3e59fb84e41c5266250da4ec5908e63d]: Commencement: Reg. 3(5)(7) in operation at 3.3.2003 for specified purposes, see [reg. 1(b)(ii)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/b/ii)
+[^c-3e59fb84e41c5266250da4ec5908e63d]: Commencement: Reg. 3(5)(7) in operation at 3.3.2003 for specified purposes, see [reg. 1(b)(ii)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/b/ii)
 
-[^key-7119b5a8792853595a267e2a98900d03]: Commencement: Reg. 3(5)(7) in operation at 5.5.2003 in so far as not already in force, see [reg. 1(b)(i)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/b/i)
+[^c-7119b5a8792853595a267e2a98900d03]: Commencement: Reg. 3(5)(7) in operation at 5.5.2003 in so far as not already in force, see [reg. 1(b)(i)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/b/i)
 
 [^f00008]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 1999 Nos. 267](https://www.legislation.gov.uk/nisr/1999/267) and [408](https://www.legislation.gov.uk/nisr/1999/408), [S.R. 2000 Nos. 215](https://www.legislation.gov.uk/nisr/2000/215) and [365](https://www.legislation.gov.uk/nisr/2000/365), [S.R. 2001 Nos. 23](https://www.legislation.gov.uk/nisr/2001/23) and [176](https://www.legislation.gov.uk/nisr/2001/176), [S.R. 2002 Nos. 67](https://www.legislation.gov.uk/nisr/2002/67), [80](https://www.legislation.gov.uk/nisr/2002/80) and [164](https://www.legislation.gov.uk/nisr/2002/164) and [S.R. 2003 Nos. 84](https://www.legislation.gov.uk/nisr/2003/84) and [191](https://www.legislation.gov.uk/nisr/2003/191)
 
@@ -232,7 +232,7 @@ These Regulations do not impose a charge on business.
 
 [^f00010]: Footnote: Paragraph (2) was amended by regulation 2(4) of [S.R. 1999 No. 267](https://www.legislation.gov.uk/nisr/1999/267), regulation 3(3)(a) of [S.R. 1999 No. 408](https://www.legislation.gov.uk/nisr/1999/408), regulation 6(4) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), regulation 4(b) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), paragraph 4 of Schedule 4 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176), regulation 3(3) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67) and regulation 7(4) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80)
 
-[^key-9c944028c8b76b3c525fa924cd8e3db0]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2003/224/regulation/3/5) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
+[^c-9c944028c8b76b3c525fa924cd8e3db0]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2003/224/regulation/3/5) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
 
 [^f00012]: Footnote: Paragraph (1)(a) was substituted by regulation 18(a) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
@@ -242,17 +242,17 @@ These Regulations do not impose a charge on business.
 
 [^f00015]: Footnote: Paragraph (28) was added by regulation 18(g) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-3e6ac157190638099ca129f63b6be929]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2003/224/regulation/3/7) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
+[^c-3e6ac157190638099ca129f63b6be929]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2003/224/regulation/3/7) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
 
-[^key-8ca811d634ea29069169657116ef4e34]: Commencement: Reg. 4 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+[^c-8ca811d634ea29069169657116ef4e34]: Commencement: Reg. 4 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
 
 [^f00017]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213); relevant amending regulations are [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80)
 
 [^f00018]: Footnote: Paragraph (8) was added by regulation 8(5) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80)
 
-[^key-90927471a767a62398ea6005939540ca]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/224/regulation/5) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-90927471a767a62398ea6005939540ca]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/224/regulation/5) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-cc5ebe529a0e3e56c8f6774bf694fe15]: Commencement: Reg. 6 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+[^c-cc5ebe529a0e3e56c8f6774bf694fe15]: Commencement: Reg. 6 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
 
 [^f00022]: Footnote: [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
 

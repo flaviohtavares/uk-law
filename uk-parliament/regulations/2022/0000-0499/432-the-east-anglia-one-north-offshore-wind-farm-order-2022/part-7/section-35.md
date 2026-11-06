@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Trees subject to tree preservation orders[^key-54b597afb1be0e48b869d98658ab568f]
+## 35. Trees subject to tree preservation orders[^c-54b597afb1be0e48b869d98658ab568f]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54b597afb1be0e48b869d98658ab568f]: Commencement: Art. 35 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-54b597afb1be0e48b869d98658ab568f]: Commencement: Art. 35 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

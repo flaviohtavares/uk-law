@@ -31,7 +31,7 @@ summary: ''
 
 MONOPOLIES AND MERGERS
 
-The EEC Merger Control (Distinct Market Investigations)Regulations 1990 (revoked)[^key-862d0756ad1c1a30745854a3c72171d3]
+The EEC Merger Control (Distinct Market Investigations)Regulations 1990 (revoked)[^c-862d0756ad1c1a30745854a3c72171d3]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 21st September 1990
 
-[^key-862d0756ad1c1a30745854a3c72171d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-862d0756ad1c1a30745854a3c72171d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-862d0756ad1c1a30745854a3c72171d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-862d0756ad1c1a30745854a3c72171d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-862d0756ad1c1a30745854a3c72171d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-862d0756ad1c1a30745854a3c72171d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-862d0756ad1c1a30745854a3c72171d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-862d0756ad1c1a30745854a3c72171d3]: Textual amendment: Regulations revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/9) (with [Sch. 4 para. 35B](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/35B) (as inserted by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 58](https://www.legislation.gov.uk/uksi/2020/1343/regulation/58))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-862d0756ad1c1a30745854a3c72171d3]: Textual amendment: Regulations revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/9) (with [Sch. 4 para. 35B](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/35B) (as inserted by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 58](https://www.legislation.gov.uk/uksi/2020/1343/regulation/58))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

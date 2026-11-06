@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Registration of town and village greens.[^key-046ac5b9bcd0f69b7cef219899ca00c8]
+## 98. Registration of town and village greens.[^c-046ac5b9bcd0f69b7cef219899ca00c8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-046ac5b9bcd0f69b7cef219899ca00c8]: Textual amendment: S. 98 repealed (6.4.2007 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/456/article/3/e); [W.S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/456), [art. 3(p)](https://www.legislation.gov.uk/uksi/2007/456/article/3/p)
+[^c-046ac5b9bcd0f69b7cef219899ca00c8]: Textual amendment: S. 98 repealed (6.4.2007 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/456/article/3/e); [W.S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/456), [art. 3(p)](https://www.legislation.gov.uk/uksi/2007/456/article/3/p)

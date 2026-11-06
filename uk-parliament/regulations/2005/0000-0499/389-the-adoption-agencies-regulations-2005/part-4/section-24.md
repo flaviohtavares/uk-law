@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Requirement to provide counselling, information and preparation for adoption[^key-a6790a297221401376e94bf718b934f2][^M_C_743240cc-e943-4c09-80e8-ce30ae07f4cb]
+## 24. Requirement to provide counselling, information and preparation for adoption[^c-a6790a297221401376e94bf718b934f2][^M_C_743240cc-e943-4c09-80e8-ce30ae07f4cb]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)
+[^c-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)
 
 [^M_C_743240cc-e943-4c09-80e8-ce30ae07f4cb]: Modification: Reg. 24(1)(a) applied by [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392), [reg. 14(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/14/1) (as amended (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [reg. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2013/985/schedule/paragraph/2/5))

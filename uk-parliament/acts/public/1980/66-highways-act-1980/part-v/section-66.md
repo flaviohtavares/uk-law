@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Footways and guard-rails etc. for publicly maintainable highways.[^key-b685ad5530e42ff425877465a5ccce67]
+## 66. Footways and guard-rails etc. for publicly maintainable highways.[^c-b685ad5530e42ff425877465a5ccce67]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) The power conferred by subsection (3) above, and the power to alter or remove any works provided under that subsection, shall not be exercised so as to obstruct any private access to any premises or interfere with the carrying out of agricultural operations.
 
-(6) The powers of a highway authority under subsections (2) and (3) above may, with the consent of the Minister or a strategic highways company[^key-14ec8f95391df57a2eae35b796108b3e], be exercised by the council of a county or metropolitan district[^c13420901] in relation to any part within the county or metropolitan district but outside Greater London of a highway for which the Minister or the strategic highways company[^key-75b1b3b308977ce51b12f640db9a7d65] is the highway authority.
+(6) The powers of a highway authority under subsections (2) and (3) above may, with the consent of the Minister or a strategic highways company[^c-14ec8f95391df57a2eae35b796108b3e], be exercised by the council of a county or metropolitan district[^c13420901] in relation to any part within the county or metropolitan district but outside Greater London of a highway for which the Minister or the strategic highways company[^c-75b1b3b308977ce51b12f640db9a7d65] is the highway authority.
 
 (7) The powers of a highway authority under subsections (2) and (3) above may, with the consent of the highway authority, be exercised by the council of a London borough or, as the case may require, by the Common Council in relation to any part within the borough, or the City, of a highway for which the council, or the Common Council, are not the highway authority.
 
@@ -38,12 +38,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b685ad5530e42ff425877465a5ccce67]: Modification: S. 66 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(e)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/e)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-b685ad5530e42ff425877465a5ccce67]: Modification: S. 66 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(e)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/e)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
 
 [^c13420881]: Textual amendment: Words in s. 66(3) inserted (13.2.2004 for E. and 1.4.2004 for W.) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/70/1); [S.I. 2004/292](https://www.legislation.gov.uk/uksi/2004/292), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/292/article/2/b); [S.I. 2004/315](https://www.legislation.gov.uk/uksi/2004/315), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/315/article/2/b)
 
-[^key-14ec8f95391df57a2eae35b796108b3e]: Textual amendment: Words in s. 66(6) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/23/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-14ec8f95391df57a2eae35b796108b3e]: Textual amendment: Words in s. 66(6) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/23/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13420901]: Textual amendment: Words inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 8](https://www.legislation.gov.uk/ukpga/1985/51/section/8), [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/4/paragraph/17)
 
-[^key-75b1b3b308977ce51b12f640db9a7d65]: Textual amendment: Words in s. 66(6) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/23/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-75b1b3b308977ce51b12f640db9a7d65]: Textual amendment: Words in s. 66(6) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/23/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

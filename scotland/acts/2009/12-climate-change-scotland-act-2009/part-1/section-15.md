@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Attribution of emissions to Scotland[^key-9c84e3ea0ab0a14c15b56805cf54a369]
+## 15. Attribution of emissions to Scotland[^c-9c84e3ea0ab0a14c15b56805cf54a369]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ For the purposes of section 17(1), emissions of a greenhouse gas are attributabl
 
 ## Annotations
 
-[^key-9c84e3ea0ab0a14c15b56805cf54a369]: Commencement: S. 15 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-9c84e3ea0ab0a14c15b56805cf54a369]: Commencement: S. 15 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

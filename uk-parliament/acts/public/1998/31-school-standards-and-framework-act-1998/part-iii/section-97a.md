@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Direction to admit looked after child to specified school[^key-a38429eb80db00a763df02af1548ec82]
+## 97A. Direction to admit looked after child to specified school[^c-a38429eb80db00a763df02af1548ec82]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a38429eb80db00a763df02af1548ec82]: Textual amendment: [Ss. 97A](https://www.legislation.gov.uk/ukpga/1998/31/section/97A), [97B](https://www.legislation.gov.uk/ukpga/1998/31/section/97B) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/50/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/c)
+[^c-a38429eb80db00a763df02af1548ec82]: Textual amendment: [Ss. 97A](https://www.legislation.gov.uk/ukpga/1998/31/section/97A), [97B](https://www.legislation.gov.uk/ukpga/1998/31/section/97B) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/50/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/c)

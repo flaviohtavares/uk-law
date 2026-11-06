@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56.[^key-358039bf3c085a68df16e7342887a19e]
+## 56.[^c-358039bf3c085a68df16e7342887a19e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Schedule 3A (text of Titles V and VI of the 1982 Accession Convention).
 
 ## Annotations
 
-[^key-358039bf3c085a68df16e7342887a19e]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-358039bf3c085a68df16e7342887a19e]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Short title[^key-271ca191bd2f7f667d7d983a244cd9d8]
+## 74. Short title[^c-271ca191bd2f7f667d7d983a244cd9d8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Scottish Elections (Representation and Reform
 
 ## Annotations
 
-[^key-271ca191bd2f7f667d7d983a244cd9d8]: Commencement: S. 74 in force at 30.1.2025, see [s. 73(1)](https://www.legislation.gov.uk/asp/2025/4/section/73/1)
+[^c-271ca191bd2f7f667d7d983a244cd9d8]: Commencement: S. 74 in force at 30.1.2025, see [s. 73(1)](https://www.legislation.gov.uk/asp/2025/4/section/73/1)

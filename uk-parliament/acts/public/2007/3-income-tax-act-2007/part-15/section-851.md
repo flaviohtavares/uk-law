@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 851. Duty to deduct sums representing income tax[^key-eb9d7df940a7dd438e14b329aa0a430c]
+## 851. Duty to deduct sums representing income tax[^c-eb9d7df940a7dd438e14b329aa0a430c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb9d7df940a7dd438e14b329aa0a430c]: Textual amendment: S. 851 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 1(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/1/a)
+[^c-eb9d7df940a7dd438e14b329aa0a430c]: Textual amendment: S. 851 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 1(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/1/a)

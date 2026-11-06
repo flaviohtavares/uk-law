@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Registration of partnerships and unincorporated bodies[^key-a18f21e882c4b4e9709248adb4e96d8b][^key-3d98ea1b06a7bf38c75383d974f6d393]
+## 24. Registration of partnerships and unincorporated bodies[^c-a18f21e882c4b4e9709248adb4e96d8b][^c-3d98ea1b06a7bf38c75383d974f6d393]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a18f21e882c4b4e9709248adb4e96d8b]: Commencement: S. 24 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-a18f21e882c4b4e9709248adb4e96d8b]: Commencement: S. 24 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-3d98ea1b06a7bf38c75383d974f6d393]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2025/5/section/24) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(k)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/k)
+[^c-3d98ea1b06a7bf38c75383d974f6d393]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2025/5/section/24) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(k)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/k)

@@ -47,7 +47,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) The references in this section to keeping animals for slaughter or to breeding progeny for slaughter include keeping or (as the case may be) breeding them for sale for slaughter.
 
-(4) A person who is guilty of an offence under subsection (1) or subsection (2) is liable on summary conviction to a fine[^key-e8b3060184e2b21dc9be0a3f41c35423].
+(4) A person who is guilty of an offence under subsection (1) or subsection (2) is liable on summary conviction to a fine[^c-e8b3060184e2b21dc9be0a3f41c35423].
 
 ## 2. Forfeiture orders.
 
@@ -126,7 +126,7 @@ but need not provide for the making of payments in respect of all income losses 
 - (a) has not been resolved within nine months of the day on which the original decision as to entitlement or amounts was notified in writing to the person concerned by the appropriate authority, and
 - (b) has not been referred by agreement to arbitration.
 
-(6) The dispute shall be referred by the appropriate authority to, and determined by, the Upper Tribunal[^key-85837c2c7173dad2eafac00983f20ad9].
+(6) The dispute shall be referred by the appropriate authority to, and determined by, the Upper Tribunal[^c-85837c2c7173dad2eafac00983f20ad9].
 
 (7) An order under this section shall be made by statutory instrument which, except in the case of an instrument made by the National Assembly for Wales, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -154,11 +154,11 @@ In this Act “**the appropriate authority**” means—
 
 ## Annotations
 
-[^key-e8b3060184e2b21dc9be0a3f41c35423]: Textual amendment: Words in s. 1(4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/29) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-e8b3060184e2b21dc9be0a3f41c35423]: Textual amendment: Words in s. 1(4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/29) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c887089]: Textual amendment: Words in s. 5(1) substituted (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(1)](https://www.legislation.gov.uk/uksi/2002/794/article/5/1), [Sch. 1 para 40](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/40) (with arts. 5(3), (6))
 
-[^key-85837c2c7173dad2eafac00983f20ad9]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/2000/33/section/5/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 268](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/268) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-85837c2c7173dad2eafac00983f20ad9]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/2000/33/section/5/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 268](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/268) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c887090]: Textual amendment: Words in [S. 6(a)](https://www.legislation.gov.uk/ukpga/2000/33/section/6/a) substituted (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(1)](https://www.legislation.gov.uk/uksi/2002/794/article/5/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/41) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 

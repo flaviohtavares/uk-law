@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Parts of access to be maintained at the public expense[^key-20a04c9a8b9cff778fb43e7f30809a9d]
+## SCHEDULE 5 — Parts of access to be maintained at the public expense[^c-20a04c9a8b9cff778fb43e7f30809a9d]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 10
 
 ## Annotations
 
-[^key-20a04c9a8b9cff778fb43e7f30809a9d]: Commencement: Sch. 5 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-20a04c9a8b9cff778fb43e7f30809a9d]: Commencement: Sch. 5 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement and application[^key-18fbc5ff49f853d489f5ab96d19788f0]
+## 1. Citation, commencement and application[^c-18fbc5ff49f853d489f5ab96d19788f0]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18fbc5ff49f853d489f5ab96d19788f0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2886/regulation/1) in force at 18.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2886/regulation/1/1)
+[^c-18fbc5ff49f853d489f5ab96d19788f0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2886/regulation/1) in force at 18.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2886/regulation/1/1)

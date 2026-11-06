@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Accreditation of weights and measures inspectors[^key-bcf1bbf44a061484b7a3b9a88008b286]
+## 15. Accreditation of weights and measures inspectors[^c-bcf1bbf44a061484b7a3b9a88008b286]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf1bbf44a061484b7a3b9a88008b286]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/48/section/15) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/709/article/3/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-bcf1bbf44a061484b7a3b9a88008b286]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/48/section/15) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/709/article/3/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

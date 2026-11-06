@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Withdrawn complaints: no written signed notification[^key-95d3bf44233d75547fcd23e30146d405]
+## 20. Withdrawn complaints: no written signed notification[^c-95d3bf44233d75547fcd23e30146d405]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ the appropriate authority must proceed as if it had received a notification sign
 
 ## Annotations
 
-[^key-95d3bf44233d75547fcd23e30146d405]: Commencement: Reg. 20 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-95d3bf44233d75547fcd23e30146d405]: Commencement: Reg. 20 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

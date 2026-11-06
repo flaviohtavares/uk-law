@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2M. The PRA Practitioner Panel[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+## 2M. The PRA Practitioner Panel[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,10 +30,10 @@ summary: ''
 
 (5) The PRA may appoint to the PRA Practitioner Panel such other persons as it considers appropriate.
 
-(6)[^key-5de1c8b1049da987c0200269f1e72244] Subsections (4) and (5) are subject to section 2LA.
+(6)[^c-5de1c8b1049da987c0200269f1e72244] Subsections (4) and (5) are subject to section 2LA.
 
 ## Annotations
 
-[^key-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-5de1c8b1049da987c0200269f1e72244]: Textual amendment: S. 2M(6) inserted (26.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2023/29/section/46/8), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 7(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/7/c) (with [reg. 17](https://www.legislation.gov.uk/uksi/2023/1382/regulation/17))
+[^c-5de1c8b1049da987c0200269f1e72244]: Textual amendment: S. 2M(6) inserted (26.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2023/29/section/46/8), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 7(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/7/c) (with [reg. 17](https://www.legislation.gov.uk/uksi/2023/1382/regulation/17))

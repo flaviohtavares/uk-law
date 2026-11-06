@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Monetary penalties: further provision[^key-d52884d062ff9fc35ebb53af104877b8][^key-e6820de8d08cc2d986f2e7743a74f11b]
+## 207. Monetary penalties: further provision[^c-d52884d062ff9fc35ebb53af104877b8][^c-e6820de8d08cc2d986f2e7743a74f11b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d52884d062ff9fc35ebb53af104877b8]: Commencement: S. 207 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d52884d062ff9fc35ebb53af104877b8]: Commencement: S. 207 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e6820de8d08cc2d986f2e7743a74f11b]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2024/13/section/207) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-e6820de8d08cc2d986f2e7743a74f11b]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2024/13/section/207) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

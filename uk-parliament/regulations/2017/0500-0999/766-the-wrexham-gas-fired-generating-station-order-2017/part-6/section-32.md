@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Application of landlord and tenant law[^key-5bb802ae07bc20ba2561acffdd5ead84]
+## 32. Application of landlord and tenant law[^c-5bb802ae07bc20ba2561acffdd5ead84]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-5bb802ae07bc20ba2561acffdd5ead84]: Commencement: Art. 32 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-5bb802ae07bc20ba2561acffdd5ead84]: Commencement: Art. 32 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

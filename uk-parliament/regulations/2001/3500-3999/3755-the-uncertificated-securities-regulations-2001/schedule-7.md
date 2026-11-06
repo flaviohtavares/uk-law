@@ -26,7 +26,7 @@ Regulation 51
 
 #### The National Debt Act 1870
 
-**1.**[^key-fd527c3f05add2269dda985f48a81f28] In section 3 of the National Debt Act 1870[^f00028], for the definition of “Stockholder” there shall be substituted—
+**1.**[^c-fd527c3f05add2269dda985f48a81f28] In section 3 of the National Debt Act 1870[^f00028], for the definition of “Stockholder” there shall be substituted—
 
 > - “Stockholder” means a person holding stock, being entered as such in—
 >   - (a) a register kept by the Bank of England or the Bank of Ireland under regulation 1 of the Government Stock Regulations 1965; or
@@ -36,25 +36,25 @@ Regulation 51
 
 #### The National Debt (Stockholders Relief) Act 1892
 
-**2.**[^key-29bd0a9c99646469ca54dff996db891b] In subsection (1) of section 2 of the National Debt (Stockholders Relief) Act 1892[^f00029], for the word “inscribed” there shall be substituted “entered in a relevant register”.
+**2.**[^c-29bd0a9c99646469ca54dff996db891b] In subsection (1) of section 2 of the National Debt (Stockholders Relief) Act 1892[^f00029], for the word “inscribed” there shall be substituted “entered in a relevant register”.
 
 #### The Finance (No. 2) Act 1915
 
-**3.**[^key-173bb2a25d6192b33d3169b62a0d9cbe] In section 48 of the Finance (No. 2) Act 1915[^f00030]—
+**3.**[^c-173bb2a25d6192b33d3169b62a0d9cbe] In section 48 of the Finance (No. 2) Act 1915[^f00030]—
 
 - (a) after “Director of Savings,” there shall be inserted “to the Operator of any relevant system”; and
 - (b) after “by that person” there shall be inserted “; and in this section “Operator” and “relevant system” have the same meanings as they have in the Uncertificated Securities Regulations 2001”.
 
 #### The Finance Act 1916
 
-**4.**[^key-770d9a0b8e4bf02a5ac2282f838a2d55] In section 67 of the Finance Act 1916[^f00031]—
+**4.**[^c-770d9a0b8e4bf02a5ac2282f838a2d55] In section 67 of the Finance Act 1916[^f00031]—
 
 - (a) after “Director of Savings,” there shall be inserted “the Operator of any relevant system”; and
 - (b) at the end of that section there shall be added “; and in this section “Operator” and “relevant system” have the same meanings as they have in the Uncertificated Securities Regulations 2001”.
 
 #### The Finance Act 1949
 
-**5.**[^key-a4fbda4b3bd27daaaa2d81dc9a1fc7d9] In section 48 of the Finance Act 1949[^f00032]—
+**5.**[^c-a4fbda4b3bd27daaaa2d81dc9a1fc7d9] In section 48 of the Finance Act 1949[^f00032]—
 
 - (a) in subsection (1), after “Bank of England” where it first appears there shall be inserted “or the Operator of any relevant system”;
 - (b) in the proviso to subsection (1)—
@@ -69,7 +69,7 @@ Regulation 51
 
 #### The Finance (No. 2) Act 1975
 
-**6.**[^key-0956d62296619093575930c6b5dbcf15] In section 73 of the Finance (No. 2) Act 1975[^f00033]—
+**6.**[^c-0956d62296619093575930c6b5dbcf15] In section 73 of the Finance (No. 2) Act 1975[^f00033]—
 
 - (a) in subsection (4), after “means” in the definition of “the Bank” there shall be inserted “(subject to subsection (4A))”; and
 - (b) after subsection (4) the following subsection shall be added—
@@ -85,13 +85,13 @@ Regulation 51
 
 #### The Companies Act 1985
 
-**7.**[^key-267f5d433943c18c46e7f498831cff83] In subsection (1)(b) of section 182 of the 1985 Act, after “simplified process)” there shall be inserted “and to regulations made under section 207 of the Companies Act 1989 (which enable title to securities to be evidenced and transferred without a written instrument).”.
+**7.**[^c-267f5d433943c18c46e7f498831cff83] In subsection (1)(b) of section 182 of the 1985 Act, after “simplified process)” there shall be inserted “and to regulations made under section 207 of the Companies Act 1989 (which enable title to securities to be evidenced and transferred without a written instrument).”.
 
-**8.**[^key-7d089d8790991492f76f5b6e96fd712c] In subsection (1) of section 183 of that Act, after “Stock Transfer Act 1982” there shall be inserted “or is in accordance with regulations made under section 207 of the Companies Act 1989.”.
+**8.**[^c-7d089d8790991492f76f5b6e96fd712c] In subsection (1) of section 183 of that Act, after “Stock Transfer Act 1982” there shall be inserted “or is in accordance with regulations made under section 207 of the Companies Act 1989.”.
 
-**9.**[^key-de0bf7cc1652874ce96f0313a689dda0] In section 209(9B)(b) of the 1985 Act, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
+**9.**[^c-de0bf7cc1652874ce96f0313a689dda0] In section 209(9B)(b) of the 1985 Act, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
 
-**10.**[^key-b6cd4a0a7862a428526c27c4d60b6395] In subsection (4) of section 380 of the 1985 Act, after paragraph (k) the following paragraphs shall be added—
+**10.**[^c-b6cd4a0a7862a428526c27c4d60b6395] In subsection (4) of section 380 of the 1985 Act, after paragraph (k) the following paragraphs shall be added—
 
 > - (l) a resolution of the directors passed by virtue of regulation 16(2) of the Uncertificated Securities Regulations 2001 (which allows title to a company’s shares to be evidenced and transferred without written instrument); and
 > - (m) a resolution of a company passed by virtue of regulation 16(6) of the Uncertificated Securities Regulations 2001 (which prevents or reverses a resolution of the directors under regulation 16(2) of those Regulations).
@@ -100,13 +100,13 @@ Regulation 51
 
 #### The Financial Services Act 1986
 
-**11.**[^key-2ac94ccad7d13013b3b29bf08538bf1e] In subsection (1) of section 180 of the 1986 Act, after paragraph (n) the following paragraph shall be added—
+**11.**[^c-2ac94ccad7d13013b3b29bf08538bf1e] In subsection (1) of section 180 of the 1986 Act, after paragraph (n) the following paragraph shall be added—
 
 > - (nn) to an Operator approved under the Uncertificated Securities Regulations 2001 if the information is necessary to ensure the proper functioning of a relevant system within the meaning of those Regulations in relation to defaults and potential defaults by market-participants;
 
 .
 
-**12.**[^key-9363007c238ee4bde60dabcc52cfab76] In the 1986 Act, in—
+**12.**[^c-9363007c238ee4bde60dabcc52cfab76] In the 1986 Act, in—
 
 - (a) paragraph 16A(a) of Schedule 1;
 - (b) Note (3) to that paragraph; and
@@ -116,7 +116,7 @@ for “Uncertificated Securities Regulations 1995” in each place where it occu
 
 #### The Banking Act 1987
 
-**13.**[^key-dafbd60933be9aaac66e99d367d31b26] In the Banking Act 1987[^f00034], in—
+**13.**[^c-dafbd60933be9aaac66e99d367d31b26] In the Banking Act 1987[^f00034], in—
 
 - (a) paragraph 11B in the first column of the Table in section 84(1);
 - (b) section 84(11)(e),
@@ -127,7 +127,7 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 #### The Government Stock Regulations 1965
 
-**14.**[^key-dc405ed7c9e2c8a232093c0f93f30572] In the 1965 Regulations—
+**14.**[^c-dc405ed7c9e2c8a232093c0f93f30572] In the 1965 Regulations—
 
 - (a) in regulation 1(3), for “Subject (in the case of stock which is a participating security) to any provision made by or under the 1995 Regulations, in” there shall be substituted “In”;
 - (b) in regulation 2(1), for “Subject to Regulation 5 of the Stock Transfer (Gilt-edged Securities) (CGO Service) Regulations 1985 and (in the case of stock which is a participating security) any provision made by or under the 1995 Regulations, every” there shall be substituted “Every”;
@@ -159,7 +159,7 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 #### The Local Authority (Stocks and Bonds) Regulations 1974
 
-**15.**[^key-0c04a6374ddc5074619202734a2c0d25] In the 1974 Regulations—
+**15.**[^c-0c04a6374ddc5074619202734a2c0d25] In the 1974 Regulations—
 
 - (a) in regulation 1(3)—
   - (i) for ““the 1995 Regulations” means the Uncertificated Securities Regulations 1995 as amended from time to time;” there shall be substituted ““the 2001 Regulations” means the Uncertificated Securities Regulations 2001 as amended from time to time;”; and
@@ -179,7 +179,7 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 #### The Exchange of Securities (General) Rules 1979
 
-**16.**[^key-8b90ef68e0fdb4996b5330a390890dea] In the Exchange of Securities (General) Rules 1979[^f00036]—
+**16.**[^c-8b90ef68e0fdb4996b5330a390890dea] In the Exchange of Securities (General) Rules 1979[^f00036]—
 
 - (a) in rule 3, the definitions of “the CGO Service”; “CGO Service member”; and “an exempt transfer” shall be omitted; and
 - (b) in rule 6—
@@ -199,7 +199,7 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 #### The Companies (Registers and other Records) Regulations 1985
 
-**17.**[^key-100e202d5d06728bd60d45ea1e7abe5a] In the Companies (Registers and other Records) Regulations 1985[^f00037]—
+**17.**[^c-100e202d5d06728bd60d45ea1e7abe5a] In the Companies (Registers and other Records) Regulations 1985[^f00037]—
 
 - (a) in regulation 1—
   - (i) in paragraph (2), at the end of the definition of “register” there shall be inserted “or regulation 20 of the 2001 Regulations”; and
@@ -239,11 +239,11 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 #### The Stamp Duty Reserve Tax Regulations 1986
 
-**18.**[^key-9c44a20d97f7283622b2593e5eaea58b] In the Stamp Duty Reserve Tax Regulations 1986[^f00038], in the definition of “the Treasury Regulations” in regulation 2, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
+**18.**[^c-9c44a20d97f7283622b2593e5eaea58b] In the Stamp Duty Reserve Tax Regulations 1986[^f00038], in the definition of “the Treasury Regulations” in regulation 2, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
 
 #### The Companies (Registers and other Records) Regulations (Northern Ireland) 1986
 
-**19.**[^key-31ff293e58680853a64d4a675d2c93e6] In the Companies (Registers and other Records) Regulations (Northern Ireland) 1986 [^f00039]—
+**19.**[^c-31ff293e58680853a64d4a675d2c93e6] In the Companies (Registers and other Records) Regulations (Northern Ireland) 1986 [^f00039]—
 
 - (a) in regulation 1—
   - (i) at the end of the definition of “register” in paragraph (2) there shall be inserted “or regulation 20 of the 2001 Regulations”; and
@@ -283,7 +283,7 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 #### The Financial Markets and Insolvency Regulations 1996
 
-**20.**[^key-dc3b3ab54f4f0bed7821fc0ad625524b] In the Financial Markets and Insolvency Regulations 1996[^f00040]—
+**20.**[^c-dc3b3ab54f4f0bed7821fc0ad625524b] In the Financial Markets and Insolvency Regulations 1996[^f00040]—
 
 - (a) in regulation 2(1)—
   - (i) in the definition of “register of securities”, for “a register maintained by the issuer, whether by virtue of the 1995 Regulations or otherwise” there shall be substituted “a register, whether maintained by virtue of the Uncertificated Securities Regulations 2001 or otherwise”;
@@ -296,19 +296,19 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 #### The Stock Transfer (Addition and Substitution of Forms) Order 1996
 
-**21.**[^key-b0660ccf9a02e60b4e597888e3d8d88c] In the Stock Transfer (Addition and Substitution of Forms) Order 1996[^f00041], in paragraph (2) of article 1, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
+**21.**[^c-b0660ccf9a02e60b4e597888e3d8d88c] In the Stock Transfer (Addition and Substitution of Forms) Order 1996[^f00041], in paragraph (2) of article 1, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
 
 #### The Financial Services Act 1986 (Exemption) Order 1996
 
-**22.**[^key-d2c306590098be4da72911135ced35fb] In the Financial Services Act 1986 (Exemption) Order 1996[^f00042], in paragraph (3) of article 1, for “Uncertificated Securities Regulations 1995” in both places where it occurs there shall be substituted “Uncertificated Securities Regulations 2001”.
+**22.**[^c-d2c306590098be4da72911135ced35fb] In the Financial Services Act 1986 (Exemption) Order 1996[^f00042], in paragraph (3) of article 1, for “Uncertificated Securities Regulations 1995” in both places where it occurs there shall be substituted “Uncertificated Securities Regulations 2001”.
 
 #### The Stamp Duty Reserve Tax (UK Depository Interests in Foreign Securities) Regulations 1999
 
-**23.**[^key-be748b9583dbe38a2bbea957942013eb] In the Stamp Duty Reserve Tax (UK Depository Interests in Foreign Securities) Regulations 1999[^f00043], in the definition of “foreign securities” in regulation 2, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
+**23.**[^c-be748b9583dbe38a2bbea957942013eb] In the Stamp Duty Reserve Tax (UK Depository Interests in Foreign Securities) Regulations 1999[^f00043], in the definition of “foreign securities” in regulation 2, for “Uncertificated Securities Regulations 1995” there shall be substituted “Uncertificated Securities Regulations 2001”.
 
 #### The Open-Ended Investment Companies Regulations 2001
 
-**24.**[^key-e4b149be5b7e7468392e407f9c25e549] In the Open-Ended Investment Companies Regulations 2001—
+**24.**[^c-e4b149be5b7e7468392e407f9c25e549] In the Open-Ended Investment Companies Regulations 2001—
 
 - (a) in regulation 2(1), the definitions of “certificated form”, “participating issuer”, “participating security”, “uncertificated form” and “uncertificated unit of a security” shall be omitted;
 - (b) for regulation 50(2) there shall be substituted—
@@ -320,82 +320,82 @@ for “Uncertificated Securities Regulations 1995” there shall be substituted 
 
 ## Annotations
 
-[^key-fd527c3f05add2269dda985f48a81f28]: Commencement: Sch. 7 para. 1 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-fd527c3f05add2269dda985f48a81f28]: Commencement: Sch. 7 para. 1 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00028]: Footnote: [1870 c. 71](https://www.legislation.gov.uk/ukpga/1870/71).
 
-[^key-29bd0a9c99646469ca54dff996db891b]: Commencement: Sch. 7 para. 2 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-29bd0a9c99646469ca54dff996db891b]: Commencement: Sch. 7 para. 2 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00029]: Footnote: [1892 c. 39](https://www.legislation.gov.uk/ukpga/1892/39); section 2 was substituted by section 108(1) of the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16).
 
-[^key-173bb2a25d6192b33d3169b62a0d9cbe]: Commencement: Sch. 7 para. 3 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-173bb2a25d6192b33d3169b62a0d9cbe]: Commencement: Sch. 7 para. 3 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00030]: Footnote: [1915 c. 89](https://www.legislation.gov.uk/ukpga/1915/89); the relevant amendment to section 48 was made by section 108(1) of the Post Office Act [1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48).
 
-[^key-770d9a0b8e4bf02a5ac2282f838a2d55]: Commencement: Sch. 7 para. 4 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-770d9a0b8e4bf02a5ac2282f838a2d55]: Commencement: Sch. 7 para. 4 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00031]: Footnote: [1916 c. 24](https://www.legislation.gov.uk/ukpga/1916/24); section 67 was amended by section 108(1) of the Post Office Act 1969.
 
-[^key-a4fbda4b3bd27daaaa2d81dc9a1fc7d9]: Commencement: Sch. 7 para. 5 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-a4fbda4b3bd27daaaa2d81dc9a1fc7d9]: Commencement: Sch. 7 para. 5 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00032]: Footnote: [1949 c. 47](https://www.legislation.gov.uk/ukpga/1949/47).
 
-[^key-0956d62296619093575930c6b5dbcf15]: Commencement: Sch. 7 para. 6 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-0956d62296619093575930c6b5dbcf15]: Commencement: Sch. 7 para. 6 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00033]: Footnote: [1975 c. 45](https://www.legislation.gov.uk/ukpga/1975/45).
 
-[^key-267f5d433943c18c46e7f498831cff83]: Commencement: Sch. 7 para. 7 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-267f5d433943c18c46e7f498831cff83]: Commencement: Sch. 7 para. 7 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-7d089d8790991492f76f5b6e96fd712c]: Commencement: Sch. 7 para. 8 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-7d089d8790991492f76f5b6e96fd712c]: Commencement: Sch. 7 para. 8 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-de0bf7cc1652874ce96f0313a689dda0]: Commencement: Sch. 7 para. 9 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-de0bf7cc1652874ce96f0313a689dda0]: Commencement: Sch. 7 para. 9 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-b6cd4a0a7862a428526c27c4d60b6395]: Commencement: Sch. 7 para. 10 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-b6cd4a0a7862a428526c27c4d60b6395]: Commencement: Sch. 7 para. 10 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-2ac94ccad7d13013b3b29bf08538bf1e]: Commencement: Sch. 7 para. 11 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-2ac94ccad7d13013b3b29bf08538bf1e]: Commencement: Sch. 7 para. 11 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-9363007c238ee4bde60dabcc52cfab76]: Commencement: Sch. 7 para. 12 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-9363007c238ee4bde60dabcc52cfab76]: Commencement: Sch. 7 para. 12 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-dafbd60933be9aaac66e99d367d31b26]: Commencement: Sch. 7 para. 13 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-dafbd60933be9aaac66e99d367d31b26]: Commencement: Sch. 7 para. 13 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00034]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22); relevant amending instrument is S.I. [1996/1669](https://www.legislation.gov.uk/uksi/1996/1669).
 
-[^key-dc405ed7c9e2c8a232093c0f93f30572]: Commencement: Sch. 7 para. 14 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-dc405ed7c9e2c8a232093c0f93f30572]: Commencement: Sch. 7 para. 14 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00035]: Footnote: Paragraph (1) of regulation 4 was numbered as such by article 2 of S.I. [1981/1004](https://www.legislation.gov.uk/uksi/1981/1004) and amended by regulation 4 of S.I. [1985/1146](https://www.legislation.gov.uk/uksi/1985/1146) and regulation 2 of S.I. [2000/1681](https://www.legislation.gov.uk/uksi/2000/1681); paragraphs (2) to (4) of regulation 4 were inserted by article 2 of S.I. [1981/1004](https://www.legislation.gov.uk/uksi/1981/1004), regulation 4 of S.I. [1985/1146](https://www.legislation.gov.uk/uksi/1985/1146) and regulation 4 of S.I. [1997/1709](https://www.legislation.gov.uk/uksi/1997/1709) respectively.
 
-[^key-0c04a6374ddc5074619202734a2c0d25]: Commencement: Sch. 7 para. 15 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-0c04a6374ddc5074619202734a2c0d25]: Commencement: Sch. 7 para. 15 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-8b90ef68e0fdb4996b5330a390890dea]: Commencement: Sch. 7 para. 16 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-8b90ef68e0fdb4996b5330a390890dea]: Commencement: Sch. 7 para. 16 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00036]: Footnote: S.I. [1979/1678](https://www.legislation.gov.uk/uksi/1979/1678); relevant amending instruments are S.I. [1985/1147](https://www.legislation.gov.uk/uksi/1985/1147); S.I. [1998/2505](https://www.legislation.gov.uk/uksi/1998/2505); S.I. [1999/1207](https://www.legislation.gov.uk/uksi/1999/1207) and S.I. [2000/1516](https://www.legislation.gov.uk/uksi/2000/1516).
 
-[^key-100e202d5d06728bd60d45ea1e7abe5a]: Commencement: Sch. 7 para. 17 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-100e202d5d06728bd60d45ea1e7abe5a]: Commencement: Sch. 7 para. 17 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00037]: Footnote: S.I. [1985/724](https://www.legislation.gov.uk/uksi/1985/724).
 
-[^key-9c44a20d97f7283622b2593e5eaea58b]: Commencement: Sch. 7 para. 18 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-9c44a20d97f7283622b2593e5eaea58b]: Commencement: Sch. 7 para. 18 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00038]: Footnote: S.I. [1986/1711](https://www.legislation.gov.uk/uksi/1986/1711); relevant amending instrument is S.I. [1997/2430](https://www.legislation.gov.uk/uksi/1997/2430).
 
-[^key-31ff293e58680853a64d4a675d2c93e6]: Commencement: Sch. 7 para. 19 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-31ff293e58680853a64d4a675d2c93e6]: Commencement: Sch. 7 para. 19 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00039]: Footnote: [S.R. (N.I.) 1986 No. 306](https://www.legislation.gov.uk/nisr/1986/306).
 
-[^key-dc3b3ab54f4f0bed7821fc0ad625524b]: Commencement: Sch. 7 para. 20 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-dc3b3ab54f4f0bed7821fc0ad625524b]: Commencement: Sch. 7 para. 20 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00040]: Footnote: S.I. [1996/1469](https://www.legislation.gov.uk/uksi/1996/1469).
 
-[^key-b0660ccf9a02e60b4e597888e3d8d88c]: Commencement: Sch. 7 para. 21 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-b0660ccf9a02e60b4e597888e3d8d88c]: Commencement: Sch. 7 para. 21 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00041]: Footnote: S.I. [1996/1571](https://www.legislation.gov.uk/uksi/1996/1571).
 
-[^key-d2c306590098be4da72911135ced35fb]: Commencement: Sch. 7 para. 22 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-d2c306590098be4da72911135ced35fb]: Commencement: Sch. 7 para. 22 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00042]: Footnote: S.I. [1996/1587](https://www.legislation.gov.uk/uksi/1996/1587).
 
-[^key-be748b9583dbe38a2bbea957942013eb]: Commencement: Sch. 7 para. 23 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-be748b9583dbe38a2bbea957942013eb]: Commencement: Sch. 7 para. 23 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00043]: Footnote: S.I. [1999/2383](https://www.legislation.gov.uk/uksi/1999/2383).
 
-[^key-e4b149be5b7e7468392e407f9c25e549]: Commencement: Sch. 7 para. 24 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-e4b149be5b7e7468392e407f9c25e549]: Commencement: Sch. 7 para. 24 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Collagen and Gelatine (Intra-Community Trade) (England) Regulations 2003 (revoked)[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+The Collagen and Gelatine (Intra-Community Trade) (England) Regulations 2003 (revoked)[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 Made
 
@@ -45,56 +45,56 @@ Coming into force
 
 30th September 2003
 
-[^key-ba85de5a73a13fca2ca45d8b49f33a46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba85de5a73a13fca2ca45d8b49f33a46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 1. Title, extent and commencement[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 2. Interpretation[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Products of Animal Origin (Import and Export) Regulations 1996[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 3. Amendment to the Products of Animal Origin (Import and Export) Regulations 1996[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Authorisation of collection centres and tanneries[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 4. Authorisation of collection centres and tanneries[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Authorisation of establishments producing collagen intended for human consumption[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 5. Authorisation of establishments producing collagen intended for human consumption[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Suspension and withdrawal of authorisations[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 6. Suspension and withdrawal of authorisations[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Right of appeal[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 7. Right of appeal[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Cancellation of authorisation[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 8. Cancellation of authorisation[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Registration[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 9. Registration[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Enforcement[^key-ba85de5a73a13fca2ca45d8b49f33a46]
+## 10. Enforcement[^c-ba85de5a73a13fca2ca45d8b49f33a46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba85de5a73a13fca2ca45d8b49f33a46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba85de5a73a13fca2ca45d8b49f33a46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba85de5a73a13fca2ca45d8b49f33a46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba85de5a73a13fca2ca45d8b49f33a46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba85de5a73a13fca2ca45d8b49f33a46]: Textual amendment: Regulations revoked (23.12.2003) by [The Collagen and Gelatine (Intra-Community Trade) (England) (No. 2) Regulations 2003 (S.I. 2003/3003)](https://www.legislation.gov.uk/uksi/2003/3003), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3003/regulation/3), [3](https://www.legislation.gov.uk/uksi/2003/3003/regulation/3)
+[^c-ba85de5a73a13fca2ca45d8b49f33a46]: Textual amendment: Regulations revoked (23.12.2003) by [The Collagen and Gelatine (Intra-Community Trade) (England) (No. 2) Regulations 2003 (S.I. 2003/3003)](https://www.legislation.gov.uk/uksi/2003/3003), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3003/regulation/3), [3](https://www.legislation.gov.uk/uksi/2003/3003/regulation/3)

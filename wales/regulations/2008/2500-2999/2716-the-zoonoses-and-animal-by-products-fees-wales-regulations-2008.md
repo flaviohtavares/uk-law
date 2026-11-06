@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Zoonoses and Animal By-Products (Fees) (Wales) Regulations 2008 (revoked)[^key-8ae4050d4ff061a40df2d8f80e58a92e]
+The Zoonoses and Animal By-Products (Fees) (Wales) Regulations 2008 (revoked)[^c-8ae4050d4ff061a40df2d8f80e58a92e]
 
 Made
 
@@ -47,32 +47,32 @@ Coming into force
 
 7 November 2008
 
-[^key-8ae4050d4ff061a40df2d8f80e58a92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ae4050d4ff061a40df2d8f80e58a92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-8ae4050d4ff061a40df2d8f80e58a92e]
+## 1. Title, application and commencement[^c-8ae4050d4ff061a40df2d8f80e58a92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8ae4050d4ff061a40df2d8f80e58a92e]
+## 2. Interpretation[^c-8ae4050d4ff061a40df2d8f80e58a92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-8ae4050d4ff061a40df2d8f80e58a92e]
+## 3. Fees[^c-8ae4050d4ff061a40df2d8f80e58a92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-8ae4050d4ff061a40df2d8f80e58a92e]
+## 4. Revocation[^c-8ae4050d4ff061a40df2d8f80e58a92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ae4050d4ff061a40df2d8f80e58a92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ae4050d4ff061a40df2d8f80e58a92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8ae4050d4ff061a40df2d8f80e58a92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ae4050d4ff061a40df2d8f80e58a92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ae4050d4ff061a40df2d8f80e58a92e]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/uksi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/1/3), [11(d)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/11/d)
+[^c-8ae4050d4ff061a40df2d8f80e58a92e]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/uksi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/1/3), [11(d)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/11/d)

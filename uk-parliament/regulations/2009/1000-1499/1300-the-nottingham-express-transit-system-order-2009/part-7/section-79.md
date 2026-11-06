@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Certification of plans, etc.[^key-7d31082cfdaf0ba894620673d73dbefa]
+## 79. Certification of plans, etc.[^c-7d31082cfdaf0ba894620673d73dbefa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The promoter shall, as soon as practicable after the making of this Order, submi
 
 ## Annotations
 
-[^key-7d31082cfdaf0ba894620673d73dbefa]: Commencement: Art. 79 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-7d31082cfdaf0ba894620673d73dbefa]: Commencement: Art. 79 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

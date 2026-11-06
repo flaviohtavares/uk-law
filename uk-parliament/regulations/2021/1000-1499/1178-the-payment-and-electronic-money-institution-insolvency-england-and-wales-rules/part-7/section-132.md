@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Mutual credit and set-off[^key-e7834d624ae888053022e179c93a9030]
+## 132. Mutual credit and set-off[^c-e7834d624ae888053022e179c93a9030]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7834d624ae888053022e179c93a9030]: Commencement: Rule 132 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e7834d624ae888053022e179c93a9030]: Commencement: Rule 132 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Notification of Conventional Tower Cranes Regulations 2010 (revoked)[^key-3c8356ffd305998a0ec810cd06fca38d]
+The Notification of Conventional Tower Cranes Regulations 2010 (revoked)[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 Made
 
@@ -46,58 +46,58 @@ Coming into force
 
 6th April 2010
 
-[^key-3c8356ffd305998a0ec810cd06fca38d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c8356ffd305998a0ec810cd06fca38d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3c8356ffd305998a0ec810cd06fca38d]
+## 1. Citation and commencement[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3c8356ffd305998a0ec810cd06fca38d]
+## 2. Interpretation[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-3c8356ffd305998a0ec810cd06fca38d]
+## 3. Application[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notification of conventional tower cranes on construction sites[^key-3c8356ffd305998a0ec810cd06fca38d]
+## 4. Notification of conventional tower cranes on construction sites[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemptions[^key-3c8356ffd305998a0ec810cd06fca38d]
+## 5. Exemptions[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Conventional tower cranes installed prior to the commencement of these Regulations[^key-3c8356ffd305998a0ec810cd06fca38d]
+## 6. Conventional tower cranes installed prior to the commencement of these Regulations[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c8356ffd305998a0ec810cd06fca38d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c8356ffd305998a0ec810cd06fca38d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information which is required to be notified to the Executive[^key-3c8356ffd305998a0ec810cd06fca38d]
+## SCHEDULE — Information which is required to be notified to the Executive[^c-3c8356ffd305998a0ec810cd06fca38d]
 
 Regulations 4 and 6
 
-**1.**[^key-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3c8356ffd305998a0ec810cd06fca38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c8356ffd305998a0ec810cd06fca38d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c8356ffd305998a0ec810cd06fca38d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c8356ffd305998a0ec810cd06fca38d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/333) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 2
+[^c-3c8356ffd305998a0ec810cd06fca38d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/333) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 2

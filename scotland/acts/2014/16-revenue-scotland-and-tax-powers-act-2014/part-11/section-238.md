@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 238. Nature of review etc.[^key-a2ed5c60755143bac042260df4443eec][^key-a352e216c0c1ce5def5382d34024c24a]
+## 238. Nature of review etc.[^c-a2ed5c60755143bac042260df4443eec][^c-a352e216c0c1ce5def5382d34024c24a]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2ed5c60755143bac042260df4443eec]: Commencement: [S. 238](https://www.legislation.gov.uk/asp/2014/16/section/238) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-a2ed5c60755143bac042260df4443eec]: Commencement: [S. 238](https://www.legislation.gov.uk/asp/2014/16/section/238) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-a352e216c0c1ce5def5382d34024c24a]: Commencement: [S. 238](https://www.legislation.gov.uk/asp/2014/16/section/238) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-a352e216c0c1ce5def5382d34024c24a]: Commencement: [S. 238](https://www.legislation.gov.uk/asp/2014/16/section/238) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

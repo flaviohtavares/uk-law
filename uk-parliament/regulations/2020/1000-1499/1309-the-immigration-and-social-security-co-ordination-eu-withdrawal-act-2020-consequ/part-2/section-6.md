@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of the Rent Act 1977[^key-82d268c1b1af7a6080ecdfe14a96a9c8][^M_I_3eb56ef7-9a88-4d0c-e29e-0662eaf8c872]
+## 6. Amendment of the Rent Act 1977[^c-82d268c1b1af7a6080ecdfe14a96a9c8][^M_I_3eb56ef7-9a88-4d0c-e29e-0662eaf8c872]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-82d268c1b1af7a6080ecdfe14a96a9c8]: Commencement: Reg. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-82d268c1b1af7a6080ecdfe14a96a9c8]: Commencement: Reg. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_3eb56ef7-9a88-4d0c-e29e-0662eaf8c872]: Commencement: Reg. 6 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

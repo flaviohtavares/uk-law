@@ -32,7 +32,7 @@ summary: ''
 
 TRADE UNIONS
 
-The Certification Officer (Amendment of Fees) Regulations 2005 (revoked)[^key-07a9a706f2a2943168038cac98a2ac00]
+The Certification Officer (Amendment of Fees) Regulations 2005 (revoked)[^c-07a9a706f2a2943168038cac98a2ac00]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 6th April 2005
 
-[^key-07a9a706f2a2943168038cac98a2ac00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07a9a706f2a2943168038cac98a2ac00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-07a9a706f2a2943168038cac98a2ac00]
+## 1. Citation, commencement and interpretation[^c-07a9a706f2a2943168038cac98a2ac00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of fees payable to the Certification Officer[^key-07a9a706f2a2943168038cac98a2ac00]
+## 2. Amendment of fees payable to the Certification Officer[^c-07a9a706f2a2943168038cac98a2ac00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-07a9a706f2a2943168038cac98a2ac00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-07a9a706f2a2943168038cac98a2ac00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07a9a706f2a2943168038cac98a2ac00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-07a9a706f2a2943168038cac98a2ac00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07a9a706f2a2943168038cac98a2ac00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07a9a706f2a2943168038cac98a2ac00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/713) revoked (1.4.2022) by [The Certification Officer (Amendment of Fees) Regulations 2022 (S.I. 2022/246)](https://www.legislation.gov.uk/uksi/2022/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/246/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/246/regulation/8)
+[^c-07a9a706f2a2943168038cac98a2ac00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/713) revoked (1.4.2022) by [The Certification Officer (Amendment of Fees) Regulations 2022 (S.I. 2022/246)](https://www.legislation.gov.uk/uksi/2022/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/246/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/246/regulation/8)

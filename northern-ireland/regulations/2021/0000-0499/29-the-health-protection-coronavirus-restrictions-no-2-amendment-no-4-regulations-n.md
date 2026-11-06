@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, Restrictions) (No. 2) (Amendment No. 4) Regulations (Northern Ireland) 2021 (revoked)[^key-996139e7af8e4a4ea3937c69b12ac94d]
+The Health Protection (Coronavirus, Restrictions) (No. 2) (Amendment No. 4) Regulations (Northern Ireland) 2021 (revoked)[^c-996139e7af8e4a4ea3937c69b12ac94d]
 
 Made
 
@@ -44,28 +44,28 @@ at 3.00 p.m. on 9th February 2021
 
 Coming into operation in accordance with Regulation 1(2)
 
-[^key-996139e7af8e4a4ea3937c69b12ac94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-996139e7af8e4a4ea3937c69b12ac94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-996139e7af8e4a4ea3937c69b12ac94d]
+## 1. Citation, commencement and interpretation[^c-996139e7af8e4a4ea3937c69b12ac94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) Regulations (Northern Ireland) 2020[^key-996139e7af8e4a4ea3937c69b12ac94d]
+## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) Regulations (Northern Ireland) 2020[^c-996139e7af8e4a4ea3937c69b12ac94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-996139e7af8e4a4ea3937c69b12ac94d]
+## 3.[^c-996139e7af8e4a4ea3937c69b12ac94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-996139e7af8e4a4ea3937c69b12ac94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-996139e7af8e4a4ea3937c69b12ac94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-996139e7af8e4a4ea3937c69b12ac94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-996139e7af8e4a4ea3937c69b12ac94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-996139e7af8e4a4ea3937c69b12ac94d]: Textual amendment: Regulations revoked (9.4.2021) by [The Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021 (S.R. 2021/93)](https://www.legislation.gov.uk/nisr/2021/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/93/regulation/1/1), [29(dd)](https://www.legislation.gov.uk/nisr/2021/93/regulation/29/dd) (with [reg. 31](https://www.legislation.gov.uk/nisr/2021/93/regulation/31))
+[^c-996139e7af8e4a4ea3937c69b12ac94d]: Textual amendment: Regulations revoked (9.4.2021) by [The Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021 (S.R. 2021/93)](https://www.legislation.gov.uk/nisr/2021/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/93/regulation/1/1), [29(dd)](https://www.legislation.gov.uk/nisr/2021/93/regulation/29/dd) (with [reg. 31](https://www.legislation.gov.uk/nisr/2021/93/regulation/31))

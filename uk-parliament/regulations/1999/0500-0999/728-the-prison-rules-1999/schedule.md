@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1[^key-52cebd9dfeb041458c86d430fee1132a]
+## SCHEDULE 1[^c-52cebd9dfeb041458c86d430fee1132a]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ Rule 85
 
 ## Annotations
 
-[^key-52cebd9dfeb041458c86d430fee1132a]: Textual amendment: Sch. renumbered as Sch. 1 (19.10.2018) by [The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2018 (S.I. 2018/960)](https://www.legislation.gov.uk/uksi/2018/960), [rules 1](https://www.legislation.gov.uk/uksi/2018/960/rule/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/960/rule/2/4)
+[^c-52cebd9dfeb041458c86d430fee1132a]: Textual amendment: Sch. renumbered as Sch. 1 (19.10.2018) by [The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2018 (S.I. 2018/960)](https://www.legislation.gov.uk/uksi/2018/960), [rules 1](https://www.legislation.gov.uk/uksi/2018/960/rule/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/960/rule/2/4)

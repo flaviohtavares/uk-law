@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Subject to subsection (9) below and sections [^c16495681]. . . , 50(2), 55(4), 60(8), 62(9) and 66(9) of this Act [^c16495681]. . . , an appeal may be made against any decision of the sheriff under this Act but only on a question of law and with the leave of the sheriff; and section 38 of the [^c9362481]Sheriff Courts (Scotland) Act 1971 (appeal in summary causes) and section 82 of the Courts Reform (Scotland) Act 2014 (appeals from simple procedure cases)[^key-6a6cd00fb6f30a53c1053997996a794f] shall not apply to any appeal or any further appeal taken under this Act.
+(1) Subject to subsection (9) below and sections [^c16495681]. . . , 50(2), 55(4), 60(8), 62(9) and 66(9) of this Act [^c16495681]. . . , an appeal may be made against any decision of the sheriff under this Act but only on a question of law and with the leave of the sheriff; and section 38 of the [^c9362481]Sheriff Courts (Scotland) Act 1971 (appeal in summary causes) and section 82 of the Courts Reform (Scotland) Act 2014 (appeals from simple procedure cases)[^c-6a6cd00fb6f30a53c1053997996a794f] shall not apply to any appeal or any further appeal taken under this Act.
 
 (2) Any appeal against a decision of the sheriff under subsection (1) above must be made within a period of 14 days from the date when leave to appeal against the decision was granted.
 
@@ -74,7 +74,7 @@ as it thinks necessary or reasonable in the circumstances.
 
 [^c9362481]: Marginal citation: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58).
 
-[^key-6a6cd00fb6f30a53c1053997996a794f]: Textual amendment: Words in [s. 103(1)](https://www.legislation.gov.uk/ukpga/1987/18/section/103/1) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 2(3)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/2/3) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))
+[^c-6a6cd00fb6f30a53c1053997996a794f]: Textual amendment: Words in [s. 103(1)](https://www.legislation.gov.uk/ukpga/1987/18/section/103/1) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 2(3)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/2/3) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))
 
 [^c16497961]: Textual amendment: S. 103(7)(a)-(j) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp17), s. 61, {Sch. 3 Pt. 1 para. 17(15)(b)} (with s. 63)
 

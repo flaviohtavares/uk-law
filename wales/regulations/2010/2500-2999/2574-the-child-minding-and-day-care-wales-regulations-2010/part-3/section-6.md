@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A person must not act as a child minder or provide day care unless the person is suitable to look after children under the age of twelve[^key-973e18addecc75764fc80c3cb8b46b23].
+(1) A person must not act as a child minder or provide day care unless the person is suitable to look after children under the age of twelve[^c-973e18addecc75764fc80c3cb8b46b23].
 
 (2) A person is not so suitable unless the person–
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-973e18addecc75764fc80c3cb8b46b23]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/6/1) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2016/87/regulation/5)
+[^c-973e18addecc75764fc80c3cb8b46b23]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/6/1) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2016/87/regulation/5)

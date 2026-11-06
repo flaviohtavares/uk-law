@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Careers advice in further education institutions: Ofsted inspection[^key-6e6884f68c9dfb7a59a0612e6f63587f]
+## 41. Careers advice in further education institutions: Ofsted inspection[^c-6e6884f68c9dfb7a59a0612e6f63587f]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e6884f68c9dfb7a59a0612e6f63587f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/19/section/41) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/d)
+[^c-6e6884f68c9dfb7a59a0612e6f63587f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/19/section/41) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/d)

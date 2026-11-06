@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 370. Liquidator's duty to report to FCA and PRA[^key-89d43f2a90e6d4b80deebab22781410d][^key-c5036fce34b0f2dac14ea3e06cd00c26]
+## 370. Liquidator's duty to report to FCA and PRA[^c-89d43f2a90e6d4b80deebab22781410d][^c-c5036fce34b0f2dac14ea3e06cd00c26]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ the liquidator must report the matter without delay to the FCA and, if the regul
 
 ## Annotations
 
-[^key-89d43f2a90e6d4b80deebab22781410d]: Modification: S. 370 modified (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [17(14)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/17/14) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-89d43f2a90e6d4b80deebab22781410d]: Modification: S. 370 modified (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [17(14)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/17/14) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-c5036fce34b0f2dac14ea3e06cd00c26]: Textual amendment: S. 370 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2012/21/schedule/14/paragraph/18) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c5036fce34b0f2dac14ea3e06cd00c26]: Textual amendment: S. 370 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2012/21/schedule/14/paragraph/18) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

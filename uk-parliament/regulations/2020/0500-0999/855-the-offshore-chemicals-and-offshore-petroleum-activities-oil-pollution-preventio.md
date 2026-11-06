@@ -48,17 +48,17 @@ The Secretary of State has consulted the persons required to be consulted by sec
 
 ## PART 1
 
-### 1. Citation and commencement[^key-89e9f7cfef135c1accf8fbcad9b0f99e]
+### 1. Citation and commencement[^c-89e9f7cfef135c1accf8fbcad9b0f99e]
 
 These Regulations may be cited as the Offshore Chemicals and Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Coronavirus) (Amendment) Regulations 2020 and come into force on 5th September 2020.
 
 ## PART 2
 
-### 2. Amendment to the Offshore Chemicals Regulations 2002[^key-b8b4fd4caf1980e95f6be08f41338ae1]
+### 2. Amendment to the Offshore Chemicals Regulations 2002[^c-b8b4fd4caf1980e95f6be08f41338ae1]
 
 The Offshore Chemicals Regulations 2002[^f00002] are amended as follows.
 
-**3.**[^key-5e05eb8ac1aa794eeb5459bf0cbcc352] After regulation 7, insert—
+**3.**[^c-5e05eb8ac1aa794eeb5459bf0cbcc352] After regulation 7, insert—
 
 > **7A. Coronavirus: temporary modifications**
 >
@@ -96,11 +96,11 @@ The Offshore Chemicals Regulations 2002[^f00002] are amended as follows.
 
 ## PART 3
 
-### 4. Amendment to the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^key-2cd70b75348c4c64eea2ad0503b15491]
+### 4. Amendment to the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^c-2cd70b75348c4c64eea2ad0503b15491]
 
 The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^f00003] are amended as follows.
 
-**5.**[^key-63c7d4372cc29c8f9848f5ea368b152b] After regulation 5A, insert—
+**5.**[^c-63c7d4372cc29c8f9848f5ea368b152b] After regulation 5A, insert—
 
 > **5B. Coronavirus: temporary modifications**
 >
@@ -155,16 +155,16 @@ An impact assessment has not been produced for this instrument as this is a temp
 
 [^f00001]: Footnote: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24). Relevant amendments to section 2 are made by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
-[^key-89e9f7cfef135c1accf8fbcad9b0f99e]: Commencement: Reg. 1 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
+[^c-89e9f7cfef135c1accf8fbcad9b0f99e]: Commencement: Reg. 1 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
 
-[^key-b8b4fd4caf1980e95f6be08f41338ae1]: Commencement: Reg. 2 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
+[^c-b8b4fd4caf1980e95f6be08f41338ae1]: Commencement: Reg. 2 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355). Relevant amendments are made by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
-[^key-5e05eb8ac1aa794eeb5459bf0cbcc352]: Commencement: Reg. 3 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
+[^c-5e05eb8ac1aa794eeb5459bf0cbcc352]: Commencement: Reg. 3 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
 
-[^key-2cd70b75348c4c64eea2ad0503b15491]: Commencement: Reg. 4 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
+[^c-2cd70b75348c4c64eea2ad0503b15491]: Commencement: Reg. 4 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055). Regulation 5A was inserted by [S.I. 2011/983](https://www.legislation.gov.uk/uksi/2011/983) and amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
-[^key-63c7d4372cc29c8f9848f5ea368b152b]: Commencement: Reg. 5 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)
+[^c-63c7d4372cc29c8f9848f5ea368b152b]: Commencement: Reg. 5 in force at 5.9.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1)

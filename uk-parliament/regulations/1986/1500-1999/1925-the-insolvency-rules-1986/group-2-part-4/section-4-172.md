@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.172. Committee's functions vested in Secretary of State[^key-572b6dc11ae4518ff3b5e0d96dd64a88]
+## 4.172. Committee's functions vested in Secretary of State[^c-572b6dc11ae4518ff3b5e0d96dd64a88]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-572b6dc11ae4518ff3b5e0d96dd64a88]: Commencement: [Rule 4.172](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.172) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-572b6dc11ae4518ff3b5e0d96dd64a88]: Commencement: [Rule 4.172](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.172) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

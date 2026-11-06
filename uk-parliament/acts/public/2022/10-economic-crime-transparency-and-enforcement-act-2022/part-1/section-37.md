@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Consent required for prosecutions[^key-1b0eecfa7361c0d8ed769e47c17d322a][^key-c6f6fda237380e2144dfab53cdc29e18][^key-d7f463ff08fd452501ea1e1c313e1e99]
+## 37. Consent required for prosecutions[^c-1b0eecfa7361c0d8ed769e47c17d322a][^c-c6f6fda237380e2144dfab53cdc29e18][^c-d7f463ff08fd452501ea1e1c313e1e99]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ Proceedings for an offence under this Part—
 
 ## Annotations
 
-[^key-1b0eecfa7361c0d8ed769e47c17d322a]: Commencement: S. 37 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-1b0eecfa7361c0d8ed769e47c17d322a]: Commencement: S. 37 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-c6f6fda237380e2144dfab53cdc29e18]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/10/section/37) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/j)
+[^c-c6f6fda237380e2144dfab53cdc29e18]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/10/section/37) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/j)
 
-[^key-d7f463ff08fd452501ea1e1c313e1e99]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/10/section/37) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-d7f463ff08fd452501ea1e1c313e1e99]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/10/section/37) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

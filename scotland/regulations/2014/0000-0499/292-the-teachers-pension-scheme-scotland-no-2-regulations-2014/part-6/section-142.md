@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Enhancement of surviving adult pension[^key-47ad534220b1fd702ef63b8a5bc56132]
+## 142. Enhancement of surviving adult pension[^c-47ad534220b1fd702ef63b8a5bc56132]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47ad534220b1fd702ef63b8a5bc56132]: Commencement: [Reg. 142](https://www.legislation.gov.uk/ssi/2014/292/regulation/142) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-47ad534220b1fd702ef63b8a5bc56132]: Commencement: [Reg. 142](https://www.legislation.gov.uk/ssi/2014/292/regulation/142) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

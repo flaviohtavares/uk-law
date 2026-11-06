@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17.[^key-804a6024d1c3cfa3729711b4249d39c2]
+## 17.[^c-804a6024d1c3cfa3729711b4249d39c2]
 
 *Extent: E+W+S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-804a6024d1c3cfa3729711b4249d39c2]: Commencement: Reg. 17 in force at 26.3.2019, see reg. 1(2)
+[^c-804a6024d1c3cfa3729711b4249d39c2]: Commencement: Reg. 17 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620711]: Marginal citation: Section 99ZB was inserted by [S.I. 2005/1904](https://www.legislation.gov.uk/uksi/2005/1904) and amended by [S.I. 2016/248](https://www.legislation.gov.uk/uksi/2016/248).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Service of notices[^key-b2ef73d2d7771c2595f7a236dc79211e]
+## 134. Service of notices[^c-b2ef73d2d7771c2595f7a236dc79211e]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2ef73d2d7771c2595f7a236dc79211e]: Commencement: Art. 134 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-b2ef73d2d7771c2595f7a236dc79211e]: Commencement: Art. 134 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00068]: Footnote: [2011 c. 5](https://www.legislation.gov.uk/ukpga/2011/5).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Housing administrators[^key-7811307da7ad8fe3886b88da0825b69f]
+## 101. Housing administrators[^c-7811307da7ad8fe3886b88da0825b69f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7811307da7ad8fe3886b88da0825b69f]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2016/22/section/101) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-7811307da7ad8fe3886b88da0825b69f]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2016/22/section/101) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

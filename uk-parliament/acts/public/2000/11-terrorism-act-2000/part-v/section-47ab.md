@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47AB. Issuing of code[^key-bebeaffb41b606a484ff4eb46c3b1efe]
+## 47AB. Issuing of code[^c-bebeaffb41b606a484ff4eb46c3b1efe]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bebeaffb41b606a484ff4eb46c3b1efe]: Textual amendment: Ss. 47AA-47AE and cross-heading inserted (9.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 62](https://www.legislation.gov.uk/ukpga/2012/9/section/62), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 2](https://www.legislation.gov.uk/uksi/2012/1205/article/2)
+[^c-bebeaffb41b606a484ff4eb46c3b1efe]: Textual amendment: Ss. 47AA-47AE and cross-heading inserted (9.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 62](https://www.legislation.gov.uk/ukpga/2012/9/section/62), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 2](https://www.legislation.gov.uk/uksi/2012/1205/article/2)

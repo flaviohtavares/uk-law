@@ -40,7 +40,7 @@ An Act of Senedd Cymru to confer on the Welsh Ministers a power to modify the We
 
 **Having been passed by Senedd Cymru and having received the assent of Her Majesty, it is enacted as follows:**
 
-## 1. Power to modify the Welsh Tax Acts etc.[^key-36993b2c3f9befd56921ee802d1235f8]
+## 1. Power to modify the Welsh Tax Acts etc.[^c-36993b2c3f9befd56921ee802d1235f8]
 
 (1) The Welsh Ministers may, by regulations, modify any of the Welsh Tax Acts and regulations made under any of those Acts if they consider that the modifications are necessary or appropriate for or in connection with any of the following purposes—
 
@@ -64,7 +64,7 @@ An Act of Senedd Cymru to confer on the Welsh Ministers a power to modify the We
   - (a) stamp duty land tax;
   - (b) landfill tax.
 
-## 2. Regulations under section 1: supplementary[^key-19c950cf204fe612285d82a0e79f33b1]
+## 2. Regulations under section 1: supplementary[^c-19c950cf204fe612285d82a0e79f33b1]
 
 (1) Regulations under section 1 may (among other things)—
 
@@ -104,7 +104,7 @@ An Act of Senedd Cymru to confer on the Welsh Ministers a power to modify the We
 
 (7) The power conferred by section 1 does not affect, and is not affected by, any other power of the Welsh Ministers under the Welsh Tax Acts.
 
-## 3. Policy statement: regulations under section 1 that have retrospective effect[^key-9e23490999d16a06a0ca8b50e2068752]
+## 3. Policy statement: regulations under section 1 that have retrospective effect[^c-9e23490999d16a06a0ca8b50e2068752]
 
 (1) The Welsh Ministers must publish a statement of their policy with respect to the exercise of the power under section 1 to make regulations that have retrospective effect.
 
@@ -112,7 +112,7 @@ An Act of Senedd Cymru to confer on the Welsh Ministers a power to modify the We
 
 (3) The Welsh Ministers may revise the statement, and if they do so, they must publish the revised statement.
 
-## 4. Procedure for regulations under section 1[^key-e5bce4702b80a0cc9036bf3d4ba0a861]
+## 4. Procedure for regulations under section 1[^c-e5bce4702b80a0cc9036bf3d4ba0a861]
 
 (1) The power to make regulations under section 1 is exercisable by statutory instrument.
 
@@ -141,7 +141,7 @@ the regulations contained in the instrument cease to have effect at the end of t
 - (a) dissolved, or
 - (b) in recess for more than 4 days.
 
-## 5. Regulations ceasing to have effect: supplementary[^key-638e8bd73238d9b253484191dd3d687f]
+## 5. Regulations ceasing to have effect: supplementary[^c-638e8bd73238d9b253484191dd3d687f]
 
 (1) This section applies where regulations cease to have effect as a result of section 4(5) or (6).
 
@@ -158,7 +158,7 @@ is to be treated as never having arisen.
 
 (5) The validity of anything previously done under or in reliance on the regulations is not affected by the fact that the regulations have ceased to have effect.
 
-## 6. Review of operation and effect of this Act[^key-19aed76317057abbd5c4fe2ea55f1fd9]
+## 6. Review of operation and effect of this Act[^c-19aed76317057abbd5c4fe2ea55f1fd9]
 
 (1) The Welsh Ministers must—
 
@@ -169,11 +169,11 @@ is to be treated as never having arisen.
 
 (3) In undertaking a review under this section, the Welsh Ministers must consult Senedd Cymru and such other persons as they consider appropriate.
 
-## 7. Expiry of the power under section 1[^key-5aea028aefb2c1232d8f6486af1d2fea]
+## 7. Expiry of the power under section 1[^c-5aea028aefb2c1232d8f6486af1d2fea]
 
 (1) The power under section 1 expires at the end of the period of 5 years beginning with the day on which this Act comes into force, except so far as provided otherwise under this section.
 
-(2)[^key-10c7ef3782960b3ea2b0df139abb9f95] The Welsh Ministers may, by regulations, provide that the power under section 1—
+(2)[^c-10c7ef3782960b3ea2b0df139abb9f95] The Welsh Ministers may, by regulations, provide that the power under section 1—
 
 - (a) is not to expire at the end of the period mentioned in subsection (1), but
 - (b) is to continue in force for a further period,‍ ending no later than 30 April 2031, specified in the regulations.
@@ -192,41 +192,41 @@ is to be treated as never having arisen.
 
 (6) The expiry of the power under section 1 does not affect the continuation in force of any regulations made under that power before its expiry.
 
-## 8. Interpretation[^key-22ebaca7f72d43ab2085811865c6c645]
+## 8. Interpretation[^c-22ebaca7f72d43ab2085811865c6c645]
 
 In this Act—
 
 - “**modify**” (“***addasu***”) includes amend, repeal and revoke; and the reference to “modifications” is to be interpreted accordingly;
 - “**Welsh Tax Acts**” (“***Deddfau Trethi Cymru***”) has the meaning given by section 1(3).
 
-## 9. Coming into force[^key-3d7735781afdc154fac027b43b3add30]
+## 9. Coming into force[^c-3d7735781afdc154fac027b43b3add30]
 
 This Act comes into force on the day after the day on which it receives Royal Assent.
 
-## 10. Short title[^key-1e6d563ca52ac69c9f0d45404b73472c]
+## 10. Short title[^c-1e6d563ca52ac69c9f0d45404b73472c]
 
 The short title of this Act is the Welsh Tax Acts etc. (Power to Modify) Act 2022.
 
 ## Annotations
 
-[^key-36993b2c3f9befd56921ee802d1235f8]: Commencement: S. 1 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-36993b2c3f9befd56921ee802d1235f8]: Commencement: S. 1 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-19c950cf204fe612285d82a0e79f33b1]: Commencement: S. 2 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-19c950cf204fe612285d82a0e79f33b1]: Commencement: S. 2 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-9e23490999d16a06a0ca8b50e2068752]: Commencement: S. 3 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-9e23490999d16a06a0ca8b50e2068752]: Commencement: S. 3 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-e5bce4702b80a0cc9036bf3d4ba0a861]: Commencement: S. 4 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-e5bce4702b80a0cc9036bf3d4ba0a861]: Commencement: S. 4 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-638e8bd73238d9b253484191dd3d687f]: Commencement: S. 5 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-638e8bd73238d9b253484191dd3d687f]: Commencement: S. 5 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-19aed76317057abbd5c4fe2ea55f1fd9]: Commencement: S. 6 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-19aed76317057abbd5c4fe2ea55f1fd9]: Commencement: S. 6 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-5aea028aefb2c1232d8f6486af1d2fea]: Commencement: S. 7 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-5aea028aefb2c1232d8f6486af1d2fea]: Commencement: S. 7 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-10c7ef3782960b3ea2b0df139abb9f95]: Subordinate legislation: S. 7(2) power exercised: power in s. 1 is not to expire on 8.9.2027; it is continued in force for a further period ending with 30.4.2031 by [The Welsh Tax Acts etc. (Power to Modify) Act 2022 (Extension of Expiry Date) Regulations 2026 (W.S.I. 2026/86](https://www.legislation.gov.uk/wsi/2026/86)), regs [1(2)](https://www.legislation.gov.uk/wsi/2026/86/regulation/1/made), [2](https://www.legislation.gov.uk/wsi/2026/86/regulation/2/made)
+[^c-10c7ef3782960b3ea2b0df139abb9f95]: Subordinate legislation: S. 7(2) power exercised: power in s. 1 is not to expire on 8.9.2027; it is continued in force for a further period ending with 30.4.2031 by [The Welsh Tax Acts etc. (Power to Modify) Act 2022 (Extension of Expiry Date) Regulations 2026 (W.S.I. 2026/86](https://www.legislation.gov.uk/wsi/2026/86)), regs [1(2)](https://www.legislation.gov.uk/wsi/2026/86/regulation/1/made), [2](https://www.legislation.gov.uk/wsi/2026/86/regulation/2/made)
 
-[^key-22ebaca7f72d43ab2085811865c6c645]: Commencement: S. 8 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-22ebaca7f72d43ab2085811865c6c645]: Commencement: S. 8 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-3d7735781afdc154fac027b43b3add30]: Commencement: S. 9 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-3d7735781afdc154fac027b43b3add30]: Commencement: S. 9 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
 
-[^key-1e6d563ca52ac69c9f0d45404b73472c]: Commencement: S. 10 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)
+[^c-1e6d563ca52ac69c9f0d45404b73472c]: Commencement: S. 10 in force at 9.9.2022, see [s. 9](https://www.legislation.gov.uk/asc/2022/2/section/9)

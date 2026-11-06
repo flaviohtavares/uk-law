@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Transport Tribunal to decide appeals against traffic regulation conditions[^key-c92893f13f66ab6120fdeffeea55e84c]
+## 51. Transport Tribunal to decide appeals against traffic regulation conditions[^c-c92893f13f66ab6120fdeffeea55e84c]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c92893f13f66ab6120fdeffeea55e84c]: Commencement: S. 51 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
+[^c-c92893f13f66ab6120fdeffeea55e84c]: Commencement: S. 51 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
 
 [^M_F_6f107c71-db27-4e80-d404-d9cb40857bfe]: Textual amendment: S. 51(2) repealed (1.9.2009) by [S.I. 2009/1885](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1885/schedule/3)
 

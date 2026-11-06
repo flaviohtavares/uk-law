@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Trusts[^key-d978f143db9f2a68d39b165297e087f9]
+## 213. Trusts[^c-d978f143db9f2a68d39b165297e087f9]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d978f143db9f2a68d39b165297e087f9]: Commencement: S. 213 in force at 30.12.2007, see s. 245(2)
+[^c-d978f143db9f2a68d39b165297e087f9]: Commencement: S. 213 in force at 30.12.2007, see s. 245(2)

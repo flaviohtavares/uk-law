@@ -27,7 +27,7 @@ summary: ''
 
 1972 No. 963 (N.I. 6)
 
-Employer's Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972[^key-d37af9a52fe75d25e9919eb763e934cc]
+Employer's Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972[^c-d37af9a52fe75d25e9919eb763e934cc]
 
 \[28th June 1972\] [^c20569051]
 
@@ -139,7 +139,7 @@ An employer who on any day is not insured in accordance with this Part when requ
 
 ## Annotations
 
-[^key-d37af9a52fe75d25e9919eb763e934cc]: Modification: Order modified (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/20/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-d37af9a52fe75d25e9919eb763e934cc]: Modification: Order modified (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/20/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
 [^c20569051]: Textual amendment: Applied with mods. by SR 1995/340, reg. 21
 

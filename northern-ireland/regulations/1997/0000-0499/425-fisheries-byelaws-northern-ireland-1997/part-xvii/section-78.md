@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**78.**[^key-652e064d7e79b78edc845be8700750d8] A person shall not fish for, take or kill salmon or trout with a fishing engine other than rod and line or hand line in fresh water from 20th August to the last day of February in the next following year, both dates inclusive, save and except that in the River Bush, the annual close season shall be from 16th September in any year to 17th March in the next following year, both dates inclusive.
+**78.**[^c-652e064d7e79b78edc845be8700750d8] A person shall not fish for, take or kill salmon or trout with a fishing engine other than rod and line or hand line in fresh water from 20th August to the last day of February in the next following year, both dates inclusive, save and except that in the River Bush, the annual close season shall be from 16th September in any year to 17th March in the next following year, both dates inclusive.
 
 ## Annotations
 
-[^key-652e064d7e79b78edc845be8700750d8]: Commencement: S. 78 in operation at 1.11.1997, see byelaw 1
+[^c-652e064d7e79b78edc845be8700750d8]: Commencement: S. 78 in operation at 1.11.1997, see byelaw 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Appeals against finding of failure to comply[^key-fe2e0ab163020cf80dd8ef26a2b27caf]
+## 51. Appeals against finding of failure to comply[^c-fe2e0ab163020cf80dd8ef26a2b27caf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe2e0ab163020cf80dd8ef26a2b27caf]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/20/section/51) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-fe2e0ab163020cf80dd8ef26a2b27caf]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/20/section/51) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

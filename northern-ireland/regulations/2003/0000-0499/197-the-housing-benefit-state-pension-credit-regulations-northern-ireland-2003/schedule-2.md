@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-**1.**[^key-788d760e939d8fe834753cf924cf1365] The following Schedules shall have effect as follows –
+**1.**[^c-788d760e939d8fe834753cf924cf1365] The following Schedules shall have effect as follows –
 
 - (a) the First Schedule shall have effect as Schedule 3A to the Housing Benefit Regulations;
 - (b) the Second Schedule shall have effect as Schedule 4A to the Housing Benefit Regulations, and
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-788d760e939d8fe834753cf924cf1365]: Commencement: Sch. 2 para. 1 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-788d760e939d8fe834753cf924cf1365]: Commencement: Sch. 2 para. 1 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)

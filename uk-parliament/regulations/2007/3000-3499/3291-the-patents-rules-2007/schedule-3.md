@@ -49,8 +49,8 @@ Rule 73
 - rule 88(1) (application to hold proceedings in Scotland)
 - paragraph 7(4) of Schedule 1 (notice of objection to expert)
 - *Compulsory Licensing Regulation*
-- Article 5(c) of the Compulsory Licensing Regulation (application to terminate compulsory pharmaceutical[^key-45a297c8bba3b709c80e19812b7e225b] licence)
-- Article 6(1) of that Regulation (application for a compulsory pharmaceutical[^key-bce09cbf770ce082546807a113144bcc])
+- Article 5(c) of the Compulsory Licensing Regulation (application to terminate compulsory pharmaceutical[^c-45a297c8bba3b709c80e19812b7e225b] licence)
+- Article 6(1) of that Regulation (application for a compulsory pharmaceutical[^c-bce09cbf770ce082546807a113144bcc])
 - Article 10(8) of that Regulation (application to access books and records)
 - Article 16(1), second paragraph, of that Regulation (application for a review of a compulsory pharmaceutical)
 - Article 16(4) of that Regulation (application for modification of a compulsory pharmaceutical)
@@ -96,6 +96,6 @@ Rule 73
 
 ## Annotations
 
-[^key-45a297c8bba3b709c80e19812b7e225b]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3291/schedule/3/part/1) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2019/801/regulation/18/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45a297c8bba3b709c80e19812b7e225b]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3291/schedule/3/part/1) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2019/801/regulation/18/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bce09cbf770ce082546807a113144bcc]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3291/schedule/3/part/1) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [18(4)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/18/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bce09cbf770ce082546807a113144bcc]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3291/schedule/3/part/1) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [18(4)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/18/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

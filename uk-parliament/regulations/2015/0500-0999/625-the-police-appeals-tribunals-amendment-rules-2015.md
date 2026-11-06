@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police Appeals Tribunals (Amendment) Rules 2015 (revoked)[^key-f88978b4e4050a9849f49da94b1c6d7d]
+The Police Appeals Tribunals (Amendment) Rules 2015 (revoked)[^c-f88978b4e4050a9849f49da94b1c6d7d]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 1st May 2015
 
-[^key-f88978b4e4050a9849f49da94b1c6d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f88978b4e4050a9849f49da94b1c6d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f88978b4e4050a9849f49da94b1c6d7d]
+## 1. Citation, commencement and interpretation[^c-f88978b4e4050a9849f49da94b1c6d7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Police Appeals Tribunals Rules 2012[^key-f88978b4e4050a9849f49da94b1c6d7d]
+## 2. Amendment to the Police Appeals Tribunals Rules 2012[^c-f88978b4e4050a9849f49da94b1c6d7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f88978b4e4050a9849f49da94b1c6d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provision[^key-f88978b4e4050a9849f49da94b1c6d7d]
+## 10. Transitional provision[^c-f88978b4e4050a9849f49da94b1c6d7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f88978b4e4050a9849f49da94b1c6d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f88978b4e4050a9849f49da94b1c6d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f88978b4e4050a9849f49da94b1c6d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f88978b4e4050a9849f49da94b1c6d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f88978b4e4050a9849f49da94b1c6d7d]: Textual amendment: Rules revoked (1.2.2020) by [The Police Appeals Tribunals Rules 2020 (S.I. 2020/1)](https://www.legislation.gov.uk/uksi/2020/1), [rules 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1/rule/2/1/b) (with transitional provisions in [rule 2(2)](https://www.legislation.gov.uk/uksi/2020/1/rule/2/2))
+[^c-f88978b4e4050a9849f49da94b1c6d7d]: Textual amendment: Rules revoked (1.2.2020) by [The Police Appeals Tribunals Rules 2020 (S.I. 2020/1)](https://www.legislation.gov.uk/uksi/2020/1), [rules 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1/rule/2/1/b) (with transitional provisions in [rule 2(2)](https://www.legislation.gov.uk/uksi/2020/1/rule/2/2))

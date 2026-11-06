@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14.14A. Communication of information with permission of the court[^key-927d09e0ee1f514b396ecf36268fcdc8]
+## 14.14A. Communication of information with permission of the court[^c-927d09e0ee1f514b396ecf36268fcdc8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Practice Direction 14G makes provision in relation to the court giving permissio
 
 ## Annotations
 
-[^key-927d09e0ee1f514b396ecf36268fcdc8]: Textual amendment: [Rule 14.14A](https://www.legislation.gov.uk/uksi/2010/2955/rule/14.14A) inserted (27.1.2025) by [The Family Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1322)](https://www.legislation.gov.uk/uksi/2024/1322), [rules 1(3)](https://www.legislation.gov.uk/uksi/2024/1322/rule/1/3), [6](https://www.legislation.gov.uk/uksi/2024/1322/rule/6)
+[^c-927d09e0ee1f514b396ecf36268fcdc8]: Textual amendment: [Rule 14.14A](https://www.legislation.gov.uk/uksi/2010/2955/rule/14.14A) inserted (27.1.2025) by [The Family Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1322)](https://www.legislation.gov.uk/uksi/2024/1322), [rules 1(3)](https://www.legislation.gov.uk/uksi/2024/1322/rule/1/3), [6](https://www.legislation.gov.uk/uksi/2024/1322/rule/6)

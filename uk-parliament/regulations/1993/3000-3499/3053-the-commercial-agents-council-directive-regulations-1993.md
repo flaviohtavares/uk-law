@@ -42,22 +42,22 @@ Coming into Force
 
 1st January 1994
 
-[^key-283c1c5960774f768d19c0542ff7a92f]The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to relations between commercial agents and their principals, in the exercise of the powers conferred by him by that section, hereby makes the following Regulations:
+[^c-283c1c5960774f768d19c0542ff7a92f]The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to relations between commercial agents and their principals, in the exercise of the powers conferred by him by that section, hereby makes the following Regulations:
 
 ## PART I — GENERAL
 
-### 1. Citation, commendement and applicable law[^key-f4c0a7a91802370c3ce75107f38fde74]
+### 1. Citation, commendement and applicable law[^c-f4c0a7a91802370c3ce75107f38fde74]
 
 (1) These Regulations may be cited as the Commercial Agents (Council Directive) Regulations 1993 and shall come into force on 1st January 1994.
 
 (2) These Regulations govern the relations between commercial agents and their principals and, subject to paragraph (3), apply in relation to the activities of commercial agents in Great Britain.
 
-(3)[^key-92f49b1912003345de45d6058477dec6] A court or tribunal shall:
+(3)[^c-92f49b1912003345de45d6058477dec6] A court or tribunal shall:
 
 - (a) apply the law of the other member State concerned in place of regulations 3 to 22 where the parties have agreed that the agency contract is to be governed by the law of that member State;
 - (b) (whether or not it would otherwise be required to do so) apply these regulations where the law of another member State corresponding to these regulations enables the parties to agree that the agency contract is to be governed by the law of a different member State and the parties have agreed that it is to be governed by the law of England and Wales or Scotland.
 
-### 2. Interpretation, application and extent[^key-7ba9cda96be1d049aae828c481b16347]
+### 2. Interpretation, application and extent[^c-7ba9cda96be1d049aae828c481b16347]
 
 (1) In these Regulations—
 
@@ -66,7 +66,7 @@ Coming into Force
   - (ii) a partner who is lawfully authorised to enter into commitments binding on his partners;
   - (iii) a person who acts as an insolvency practitioner (as that expression is defined in section 388 of the Insolvency Act 1986[^f00003]) or the equivalent in any other jurisdiction;
 - “commission” means any part of the remuneration of a commercial agent which varies with the number or value of business transactions;
-- “[^key-2e3407ba7ffde4511c1b0ade38fd3de9]EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993;
+- “[^c-2e3407ba7ffde4511c1b0ade38fd3de9]EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993;
 - “member State” includes a State which is a contracting party to the EEA Agreement;
 - “restraint of trade clause” means an agreement restricting the business activities of a commercial agent following termination of the agency contract.
 
@@ -84,7 +84,7 @@ Coming into Force
 
 ## PART II — RIGHTS AND OBLIGATIONS
 
-### 3. Duties of a commercial agent to his principal[^key-c20c571b77b6389f68f5bd45d1f9c7eb]
+### 3. Duties of a commercial agent to his principal[^c-c20c571b77b6389f68f5bd45d1f9c7eb]
 
 (1) In performing his activities a commercial agent must look after the interests of his principal and act dutifully and in good faith.
 
@@ -94,7 +94,7 @@ Coming into Force
 - (b) communicate to his principal all the necessary information available to him;
 - (c) comply with reasonable instructions given by his principal.
 
-### 4. Duties of a principal to his commercial agent[^key-3bdbc329631c4d3497328379b8902cbd]
+### 4. Duties of a principal to his commercial agent[^c-3bdbc329631c4d3497328379b8902cbd]
 
 (1) In his relations with his commercial agent a principal must act dutifully and in good faith.
 
@@ -105,7 +105,7 @@ Coming into Force
 
 (3) A principal shall, in addition, inform his commercial agent within a reasonable period of his acceptance or refusal of, and of any non-execution by him of, a commercial transaction which the commercial agent has procured for him.
 
-### 5. Prohibition on derogation from regulations 3 and 4 and consequence of breach[^key-564ff5a22ad8e5282558c3abc1af8e50]
+### 5. Prohibition on derogation from regulations 3 and 4 and consequence of breach[^c-564ff5a22ad8e5282558c3abc1af8e50]
 
 (1) The parties may not derogate from regulations 3 and 4 above.
 
@@ -113,7 +113,7 @@ Coming into Force
 
 ## PART III — REMUNERATION
 
-### 6. Form and amount of remuneration in absence of agreement[^key-3529a381d8b7fc505d98c62df39fc93e]
+### 6. Form and amount of remuneration in absence of agreement[^c-3529a381d8b7fc505d98c62df39fc93e]
 
 (1) In the absence of any agreement as to remuneration between the parties, a commercial agent shall be entitled to the remuneration that commercial agents appointed for the goods forming the subject of his agency contract are customarily allowed in the place where he carries on his activities and, if there is no such customary practice, a commercial agent shall be entitled to reasonable remuneration taking into account all the aspects of the transaction.
 
@@ -121,7 +121,7 @@ Coming into Force
 
 (3) Where a commercial agent is not remunerated (wholly or in part) by commission, regulations 7 to 12 below shall not apply.
 
-### 7. Entitlement to commission on transactions concluded during agency contract[^key-b43ee5b9f87f3e081ac62896764fcc50]
+### 7. Entitlement to commission on transactions concluded during agency contract[^c-b43ee5b9f87f3e081ac62896764fcc50]
 
 (1) A commercial agent shall be entitled to commission on commercial transactions concluded during the period covered by the agency contract—
 
@@ -130,20 +130,20 @@ Coming into Force
 
 (2) A commercial agent shall also be entitled to commission on transactions concluded during the period covered by the agency contract where he has an exclusive right to a specific geographical area or to a specific group of customers and where the transaction has been entered into with a customer belonging to that area or group.
 
-### 8. Entitlement to commission on transactions concluded after agency contract has terminated[^key-308babee50b90162c69bad4d08e71520]
+### 8. Entitlement to commission on transactions concluded after agency contract has terminated[^c-308babee50b90162c69bad4d08e71520]
 
 Subject to regulation 9 below, a commercial agent shall be entitled to commission on commercial transactions concluded after the agency contract has terminated if—
 
 - (a) the transaction is mainly attributable to his efforts during the period covered by the agency contract and if the transaction was entered into within a reasonable period after that contract terminated; or
 - (b) in accordance with the conditions mentioned in regulation 7 above, the order of the third party reached the principal or the commercial agent before the agency contract terminated.
 
-### 9. Apportionment of commission between new and previous commercial agents[^key-026ffdb86f74a3e446dade63712b2250]
+### 9. Apportionment of commission between new and previous commercial agents[^c-026ffdb86f74a3e446dade63712b2250]
 
 (1) A commercial agent shall not be entitled to the commission referred to in regulation 7 above if that commission is payable, by virtue of regulation 8 above, to the previous commercial agent, unless it is equitable because of the circumstances for the commission to be shared between the commercial agents.
 
 (2) The principal shall be liable for any sum due under paragraph (1) above to the person entitled to it in accordance with that paragraph, and any sum which the other commercial agent receives to which he is not entitled shall be refunded to the principal.
 
-### 10. When commission due and date for payment[^key-ee1fb1af1a4ca18b4e64b5ea3dcbed31]
+### 10. When commission due and date for payment[^c-ee1fb1af1a4ca18b4e64b5ea3dcbed31]
 
 (1) Commission shall become due as soon as, and to the extent that, one of the following circumstances occurs:
 
@@ -157,7 +157,7 @@ Subject to regulation 9 below, a commercial agent shall be entitled to commissio
 
 (4) Any agreement to derogate from paragraphs (2) and (3) above to the detriment of the commercial agent shall be void.
 
-### 11. Extinction of right to commission[^key-17eb2336695eb1d38f949d91d84ae6bc]
+### 11. Extinction of right to commission[^c-17eb2336695eb1d38f949d91d84ae6bc]
 
 (1) The right to commission can be extinguished only if and to the extent that—
 
@@ -168,7 +168,7 @@ Subject to regulation 9 below, a commercial agent shall be entitled to commissio
 
 (3) Any agreement to derogate from paragraph (1) above to the detriment of the commercial agent shall be void.
 
-### 12. Periodic supply of information as to commission due and right of inspection of principal’s books[^key-4815f9b978aeb7d75f2ed582bc3c05b2]
+### 12. Periodic supply of information as to commission due and right of inspection of principal’s books[^c-4815f9b978aeb7d75f2ed582bc3c05b2]
 
 (1) The principal shall supply his commercial agent with a statement of the commission due, not later than the last day of the month following the quarter in which the commission has become due, and such statement shall set out the main components used in calculating the amount of the commission.
 
@@ -180,17 +180,17 @@ Subject to regulation 9 below, a commercial agent shall be entitled to commissio
 
 ## PART IV — CONCLUSION AND TERMINATION OF THE AGENCY CONTRACT
 
-### 13. Right to signed written statement of terms of agency contract[^key-8fb42454bcc70c5b9495b84dc24b2d63]
+### 13. Right to signed written statement of terms of agency contract[^c-8fb42454bcc70c5b9495b84dc24b2d63]
 
 (1) The commercial agent and principal shall each be entitled to receive from the other, on request, a signed written document setting out the terms of the agency contract including any terms subsequently agreed.
 
 (2) Any purported waiver of the right referred to in paragraph (1) above shall be void.
 
-### 14. Conversion of agency contract after expiry of fixed period[^key-64022ef37ef10ed7a5866d870a0dd629]
+### 14. Conversion of agency contract after expiry of fixed period[^c-64022ef37ef10ed7a5866d870a0dd629]
 
 An agency contract for a fixed period which continues to be performed by both parties after that period has expired shall be deemed to be converted into an agency contract for an indefinite period.
 
-### 15. Minimum periods of notice for termination of agency contract[^key-104143a2366a75ede5994de78dc16fa0]
+### 15. Minimum periods of notice for termination of agency contract[^c-104143a2366a75ede5994de78dc16fa0]
 
 (1) Where an agency contract is concluded for an indefinite period either party may terminate it by notice.
 
@@ -208,18 +208,18 @@ and the parties may not agree on any shorter periods of notice.
 
 (5) The provisions of this regulation shall also apply to an agency contract for a fixed period where it is converted under regulation 14 above into an agency contract for an indefinite period subject to the proviso that the earlier fixed period must be taken into account in the calculation of the period of notice.
 
-### 16. Savings with regard to immediate termination[^key-eba9d4f27f8f9b88c0f890f1b3e61c29]
+### 16. Savings with regard to immediate termination[^c-eba9d4f27f8f9b88c0f890f1b3e61c29]
 
 These Regulations shall not affect the application of any enactment or rule of law which provides for the immediate termination of the agency contract—
 
 - (a) because of the failure of one party to carry out all or part of his obligations under that contract; or
 - (b) where exceptional circumstances arise.
 
-### 17. Entitlement of commercial agent to indemnity or compensation on termination of agency contract[^key-a6769c02e468f38a394575dfe5739d3a]
+### 17. Entitlement of commercial agent to indemnity or compensation on termination of agency contract[^c-a6769c02e468f38a394575dfe5739d3a]
 
 (1) This regulation has effect for the purpose of ensuring that the commercial agent is, after termination of the agency contract, indemnified in accordance with paragraphs (3) to (5) below or compensated for damage in accordance with paragraphs (6) and (7) below.
 
-(2) Except where the agency contract[^key-f4231bfe3ec530ceac35784edb1f2629] otherwise provides, the commercial agent shall be entitled to be compensated rather than indemnified.
+(2) Except where the agency contract[^c-f4231bfe3ec530ceac35784edb1f2629] otherwise provides, the commercial agent shall be entitled to be compensated rather than indemnified.
 
 (3) Subject to paragraph (9) and to regulation 18 below, the commercial agent shall be entitled to an indemnity if and to the extent that—
 
@@ -241,9 +241,9 @@ These Regulations shall not affect the application of any enactment or rule of l
 
 (9) The commercial agent shall lose his entitlement to the indemnity or compensation for damage in the instances provided for in paragraphs (2) to (8) above if within one year following termination of his agency contract he has not notified his principal that he intends pursuing his entitlement.
 
-### 18. Grounds for excluding payment of indemnity or compensation under regulation 17[^key-6b328573f425f6c730a666aa6be0342c]
+### 18. Grounds for excluding payment of indemnity or compensation under regulation 17[^c-6b328573f425f6c730a666aa6be0342c]
 
-The indemnity or[^key-6cde3b7c83d8b284336ee22337e5e19f] compensation referred to in regulation 17 above shall not be payable to the commercial agent where—
+The indemnity or[^c-6cde3b7c83d8b284336ee22337e5e19f] compensation referred to in regulation 17 above shall not be payable to the commercial agent where—
 
 - (a) the principal has terminated the agency contract because of default attributable to the commercial agent which would justify immediate termination of the agency contract pursuant to regulation 16 above; or
 - (b) the commercial agent has himself terminated the agency contract, unless such termination is justified—
@@ -251,11 +251,11 @@ The indemnity or[^key-6cde3b7c83d8b284336ee22337e5e19f] compensation referred to
   - (ii) on grounds of the age, infirmity or illness of the commercial agent in consequence of which he cannot reasonably be required to continue his activities; or
 - (c) the commercial agent, with the agreement of his principal, assigns his rights and duties under the agency contract to another person.
 
-### 19. Prohibition on derogation from regulations 17 and 18[^key-bd1e3b003f0618cde90288f142ca5f3d]
+### 19. Prohibition on derogation from regulations 17 and 18[^c-bd1e3b003f0618cde90288f142ca5f3d]
 
 The parties may not derogate from regulations 17 and 18 to the detriment of the commercial agent before the agency contract expires.
 
-### 20. Restraint of trade clauses[^key-fd35f69991828cbb8fd661bbed462cb0]
+### 20. Restraint of trade clauses[^c-fd35f69991828cbb8fd661bbed462cb0]
 
 (1) A restraint of trade clause shall be valid only if and to the extent that—
 
@@ -268,11 +268,11 @@ The parties may not derogate from regulations 17 and 18 to the detriment of the 
 
 ## PART V — MISCELLANEOUS AND SUPPLEMENTAL
 
-### 21. Disclosure of information[^key-af206c096cfc242abfd8953012cb85ab]
+### 21. Disclosure of information[^c-af206c096cfc242abfd8953012cb85ab]
 
 Nothing in these Regulations shall require information to be given where such disclosure would be contrary to public policy.
 
-### 22. Service of notice etc[^key-d8f5e4eef5b8ab8b7b549165a5c6c8e1]
+### 22. Service of notice etc[^c-d8f5e4eef5b8ab8b7b549165a5c6c8e1]
 
 (1) Any notice, statement or other document to be given or supplied to a commercial agent or to be given or supplied to the principal under these Regulations may be so given or supplied:
 
@@ -287,7 +287,7 @@ or by any other means provided for in the agency contract.
 - (a) in the case of a body corporate, be given or served on the secretary or clerk of that body;
 - (b) in the case of a partnership, be given to or served on any partner or on any person having the control or management of the partnership business.
 
-### 23. Transitional provisions[^key-0a94da6ca88e565917151f80e75b5038]
+### 23. Transitional provisions[^c-0a94da6ca88e565917151f80e75b5038]
 
 (1) Notwithstanding any provision in an agency contract made before 1st January 1994, these Regulations shall apply to that contract after that date and, accordingly any provision which is inconsistent with these Regulations shall have effect subject to them.
 
@@ -305,9 +305,9 @@ Department of Trade and Industry
 
 Regulation 2(3).
 
-**1.**[^key-577b8def2a9cde66a6a8fb38ec84518c] The activities of a person as a commercial agent are to be considered secondary where it may reasonably be taken that the primary purpose of the arrangement with his principal is other than as set out in paragraph 2 below.
+**1.**[^c-577b8def2a9cde66a6a8fb38ec84518c] The activities of a person as a commercial agent are to be considered secondary where it may reasonably be taken that the primary purpose of the arrangement with his principal is other than as set out in paragraph 2 below.
 
-**2.**[^key-d038703ebb19696b7f7e0f41c03455ab] An arrangement falls within this paragraph if—
+**2.**[^c-d038703ebb19696b7f7e0f41c03455ab] An arrangement falls within this paragraph if—
 
 - (a) the business of the principal is the sale, or as the case may be purchase, of goods of a particular kind; and
 - (b) the goods concerned are such that—
@@ -316,7 +316,7 @@ Regulation 2(3).
 
 that accordingly it is in the commercial interests of the principal in developing the market in those goods to appoint a representative to such customers with a view to the representative devoting effort, skill and expenditure from his own resources to that end.
 
-**3.**[^key-1e44ffbb551500e68b07d18b7721a078] The following are indications that an arrangement falls within paragraph 2 above, and the absence of any of them is an indication to the contrary—
+**3.**[^c-1e44ffbb551500e68b07d18b7721a078] The following are indications that an arrangement falls within paragraph 2 above, and the absence of any of them is an indication to the contrary—
 
 - (a) the principal is the manufacturer, importer or distributor of the goods;
 - (b) the goods are specifically identified with the principal in the market in question rather than, or to a greater extent than, with any other person;
@@ -324,13 +324,13 @@ that accordingly it is in the commercial interests of the principal in developin
 - (d) the goods are not normally available in the market in question other than by means of the agent;
 - (e) the arrangement is described as one of commercial agency.
 
-**4.**[^key-be0f071d2237106a7d37d995190ac0e3] The following are indications that an arrangement does not fall within paragraph 2 above—
+**4.**[^c-be0f071d2237106a7d37d995190ac0e3] The following are indications that an arrangement does not fall within paragraph 2 above—
 
 - (a) promotional material is supplied direct to potential customers;
 - (b) persons are granted agencies without reference to existing agents in a particular area or in relation to a particular group;
 - (c) customers normally select the goods for themselves and merely place their orders through the agent.
 
-**5.**[^key-baf3173c8562a0b7828ead269c6753d9] The activities of the following categories of persons are presumed, unless the contrary is established, not to fall within paragraph 2 aboveMail order catalogue agents for consumer goods. Consumer credit agents.
+**5.**[^c-baf3173c8562a0b7828ead269c6753d9] The activities of the following categories of persons are presumed, unless the contrary is established, not to fall within paragraph 2 aboveMail order catalogue agents for consumer goods. Consumer credit agents.
 
 (This Note is not part of the Regulations)
 
@@ -342,76 +342,76 @@ A Compliance Cost Assessment is available, copies of which have been placed in t
 
 ## Annotations
 
-[^key-283c1c5960774f768d19c0542ff7a92f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1993/3053) reserved (6.5.1999) by [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [s. 130(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/130/1), [Sch. 5 Pt. II s. C7(h)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/5/part/II); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/3178/schedule/3)
+[^c-283c1c5960774f768d19c0542ff7a92f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1993/3053) reserved (6.5.1999) by [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [s. 130(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/130/1), [Sch. 5 Pt. II s. C7(h)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/5/part/II); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/3178/schedule/3)
 
 [^f00001]: Footnote: [S.I.1989/1327](https://www.legislation.gov.uk/uksi/1989/1327).
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-f4c0a7a91802370c3ce75107f38fde74]: Commencement: Reg. 1 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-f4c0a7a91802370c3ce75107f38fde74]: Commencement: Reg. 1 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-92f49b1912003345de45d6058477dec6]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/3) substituted (16.12.1998) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1998 (S.I. 1998/2868)](https://www.legislation.gov.uk/uksi/1998/2868), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2868/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1998/2868/regulation/2/a)
+[^c-92f49b1912003345de45d6058477dec6]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/3) substituted (16.12.1998) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1998 (S.I. 1998/2868)](https://www.legislation.gov.uk/uksi/1998/2868), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2868/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1998/2868/regulation/2/a)
 
-[^key-7ba9cda96be1d049aae828c481b16347]: Commencement: Reg. 2 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-7ba9cda96be1d049aae828c481b16347]: Commencement: Reg. 2 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
 [^f00003]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-2e3407ba7ffde4511c1b0ade38fd3de9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/2/1) inserted (16.12.1998) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1998 (S.I. 1998/2868)](https://www.legislation.gov.uk/uksi/1998/2868), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2868/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1998/2868/regulation/2/b)
+[^c-2e3407ba7ffde4511c1b0ade38fd3de9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/2/1) inserted (16.12.1998) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1998 (S.I. 1998/2868)](https://www.legislation.gov.uk/uksi/1998/2868), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2868/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1998/2868/regulation/2/b)
 
 [^f00004]: Footnote: [1979 c. 43](https://www.legislation.gov.uk/ukpga/1979/43).
 
-[^key-c20c571b77b6389f68f5bd45d1f9c7eb]: Commencement: Reg. 3 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-c20c571b77b6389f68f5bd45d1f9c7eb]: Commencement: Reg. 3 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-3bdbc329631c4d3497328379b8902cbd]: Commencement: Reg. 4 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-3bdbc329631c4d3497328379b8902cbd]: Commencement: Reg. 4 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-564ff5a22ad8e5282558c3abc1af8e50]: Commencement: Reg. 5 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-564ff5a22ad8e5282558c3abc1af8e50]: Commencement: Reg. 5 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-3529a381d8b7fc505d98c62df39fc93e]: Commencement: Reg. 6 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-3529a381d8b7fc505d98c62df39fc93e]: Commencement: Reg. 6 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-b43ee5b9f87f3e081ac62896764fcc50]: Commencement: Reg. 7 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-b43ee5b9f87f3e081ac62896764fcc50]: Commencement: Reg. 7 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-308babee50b90162c69bad4d08e71520]: Commencement: Reg. 8 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-308babee50b90162c69bad4d08e71520]: Commencement: Reg. 8 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-026ffdb86f74a3e446dade63712b2250]: Commencement: Reg. 9 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-026ffdb86f74a3e446dade63712b2250]: Commencement: Reg. 9 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-ee1fb1af1a4ca18b4e64b5ea3dcbed31]: Commencement: Reg. 10 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-ee1fb1af1a4ca18b4e64b5ea3dcbed31]: Commencement: Reg. 10 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-17eb2336695eb1d38f949d91d84ae6bc]: Commencement: Reg. 11 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-17eb2336695eb1d38f949d91d84ae6bc]: Commencement: Reg. 11 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-4815f9b978aeb7d75f2ed582bc3c05b2]: Commencement: Reg. 12 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-4815f9b978aeb7d75f2ed582bc3c05b2]: Commencement: Reg. 12 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-8fb42454bcc70c5b9495b84dc24b2d63]: Commencement: Reg. 13 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-8fb42454bcc70c5b9495b84dc24b2d63]: Commencement: Reg. 13 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-64022ef37ef10ed7a5866d870a0dd629]: Commencement: Reg. 14 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-64022ef37ef10ed7a5866d870a0dd629]: Commencement: Reg. 14 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-104143a2366a75ede5994de78dc16fa0]: Commencement: Reg. 15 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-104143a2366a75ede5994de78dc16fa0]: Commencement: Reg. 15 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-eba9d4f27f8f9b88c0f890f1b3e61c29]: Commencement: Reg. 16 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-eba9d4f27f8f9b88c0f890f1b3e61c29]: Commencement: Reg. 16 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-a6769c02e468f38a394575dfe5739d3a]: Commencement: Reg. 17 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-a6769c02e468f38a394575dfe5739d3a]: Commencement: Reg. 17 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-f4231bfe3ec530ceac35784edb1f2629]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/17/2) substituted (16.12.1998) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1998 (S.I. 1998/2868)](https://www.legislation.gov.uk/uksi/1998/2868), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2868/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/1998/2868/regulation/2/c)
+[^c-f4231bfe3ec530ceac35784edb1f2629]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/17/2) substituted (16.12.1998) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1998 (S.I. 1998/2868)](https://www.legislation.gov.uk/uksi/1998/2868), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2868/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/1998/2868/regulation/2/c)
 
-[^key-6b328573f425f6c730a666aa6be0342c]: Commencement: Reg. 18 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-6b328573f425f6c730a666aa6be0342c]: Commencement: Reg. 18 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-6cde3b7c83d8b284336ee22337e5e19f]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/1993/3053/regulation/18) added (1.1.1994) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1993 (S.I. 1993/3173)](https://www.legislation.gov.uk/uksi/1993/3173), [regs. 1](https://www.legislation.gov.uk/uksi/1993/3173/regulation/1), [2](https://www.legislation.gov.uk/uksi/1993/3173/regulation/2)
+[^c-6cde3b7c83d8b284336ee22337e5e19f]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/1993/3053/regulation/18) added (1.1.1994) by [The Commercial Agents (Council Directive) (Amendment) Regulations 1993 (S.I. 1993/3173)](https://www.legislation.gov.uk/uksi/1993/3173), [regs. 1](https://www.legislation.gov.uk/uksi/1993/3173/regulation/1), [2](https://www.legislation.gov.uk/uksi/1993/3173/regulation/2)
 
-[^key-bd1e3b003f0618cde90288f142ca5f3d]: Commencement: Reg. 19 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-bd1e3b003f0618cde90288f142ca5f3d]: Commencement: Reg. 19 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-fd35f69991828cbb8fd661bbed462cb0]: Commencement: Reg. 20 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-fd35f69991828cbb8fd661bbed462cb0]: Commencement: Reg. 20 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-af206c096cfc242abfd8953012cb85ab]: Commencement: Reg. 21 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-af206c096cfc242abfd8953012cb85ab]: Commencement: Reg. 21 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-d8f5e4eef5b8ab8b7b549165a5c6c8e1]: Commencement: Reg. 22 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-d8f5e4eef5b8ab8b7b549165a5c6c8e1]: Commencement: Reg. 22 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-0a94da6ca88e565917151f80e75b5038]: Commencement: Reg. 23 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-0a94da6ca88e565917151f80e75b5038]: Commencement: Reg. 23 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-577b8def2a9cde66a6a8fb38ec84518c]: Commencement: Sch. para. 1 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-577b8def2a9cde66a6a8fb38ec84518c]: Commencement: Sch. para. 1 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-d038703ebb19696b7f7e0f41c03455ab]: Commencement: Sch. para. 2 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-d038703ebb19696b7f7e0f41c03455ab]: Commencement: Sch. para. 2 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-1e44ffbb551500e68b07d18b7721a078]: Commencement: Sch. para. 3 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-1e44ffbb551500e68b07d18b7721a078]: Commencement: Sch. para. 3 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-be0f071d2237106a7d37d995190ac0e3]: Commencement: Sch. para. 4 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-be0f071d2237106a7d37d995190ac0e3]: Commencement: Sch. para. 4 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
 
-[^key-baf3173c8562a0b7828ead269c6753d9]: Commencement: Sch. para. 5 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)
+[^c-baf3173c8562a0b7828ead269c6753d9]: Commencement: Sch. para. 5 in force at 1.1.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3053/regulation/1/1)

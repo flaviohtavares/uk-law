@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Interpretation of Part 3[^key-9b08ff01876ff3cf90dc9db17702da2f]
+## 37. Interpretation of Part 3[^c-9b08ff01876ff3cf90dc9db17702da2f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b08ff01876ff3cf90dc9db17702da2f]: Commencement: Art. 37 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9b08ff01876ff3cf90dc9db17702da2f]: Commencement: Art. 37 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

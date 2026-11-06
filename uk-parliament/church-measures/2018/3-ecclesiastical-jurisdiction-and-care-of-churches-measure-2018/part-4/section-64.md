@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 64. Erection of building on disused burial ground[^key-c51568d9a43bacfac12203a9e27ac648]
+## 64. Erection of building on disused burial ground[^c-c51568d9a43bacfac12203a9e27ac648]
 
 *Extent: E*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The power conferred by this section does not affect any other power which the court has to authorise the erection of a building on a burial ground.
 
-(5)[^key-de4f8939600048fd05c514a34c4f132c] Relative”, in relation to a person, means—
+(5)[^c-de4f8939600048fd05c514a34c4f132c] Relative”, in relation to a person, means—
 
 - (a) a spouse or civil partner, parent or grandparent or child or grandchild of the person, or
 - (b) a person who is, or is the child of, a brother, sister, uncle or aunt of the person.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c51568d9a43bacfac12203a9e27ac648]: Commencement: S. 64 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c51568d9a43bacfac12203a9e27ac648]: Commencement: S. 64 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-de4f8939600048fd05c514a34c4f132c]: Textual amendment: S. 64(5)(6) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 6(11)](https://www.legislation.gov.uk/ukcm/2020/1/section/6/11), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-de4f8939600048fd05c514a34c4f132c]: Textual amendment: S. 64(5)(6) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 6(11)](https://www.legislation.gov.uk/ukcm/2020/1/section/6/11), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)

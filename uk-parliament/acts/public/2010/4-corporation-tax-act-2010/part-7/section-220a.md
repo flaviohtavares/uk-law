@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220A. Carry forward of CITR[^key-0f8c975eeb684dc959d33bf2cc1c8236]
+## 220A. Carry forward of CITR[^c-0f8c975eeb684dc959d33bf2cc1c8236]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ the investor is also entitled to a reduction in its liability for corporation ta
 
 ## Annotations
 
-[^key-0f8c975eeb684dc959d33bf2cc1c8236]: Textual amendment: [S. 220A](https://www.legislation.gov.uk/ukpga/2010/4/section/220A) inserted (with effect in accordance with Sch. 27 para. 12 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/9)
+[^c-0f8c975eeb684dc959d33bf2cc1c8236]: Textual amendment: [S. 220A](https://www.legislation.gov.uk/ukpga/2010/4/section/220A) inserted (with effect in accordance with Sch. 27 para. 12 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/9)

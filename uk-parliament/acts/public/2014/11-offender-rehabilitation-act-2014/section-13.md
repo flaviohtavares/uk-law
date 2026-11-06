@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Drug testing and appointments: transfer within the British Islands[^key-cc098eab03229419eee79bcddfd98881]
+## 13. Drug testing and appointments: transfer within the British Islands[^c-cc098eab03229419eee79bcddfd98881]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc098eab03229419eee79bcddfd98881]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/11/section/13) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/40/article/2/l)
+[^c-cc098eab03229419eee79bcddfd98881]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/11/section/13) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/40/article/2/l)

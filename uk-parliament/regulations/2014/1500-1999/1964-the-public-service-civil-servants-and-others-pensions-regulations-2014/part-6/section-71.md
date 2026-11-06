@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Meaning of “incapacity for employment” and “total incapacity for employment”[^key-cef86ff2b9e72e080a9d5fd63dd56ce4]
+## 71. Meaning of “incapacity for employment” and “total incapacity for employment”[^c-cef86ff2b9e72e080a9d5fd63dd56ce4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For the purpose of these Regulations—
 
 ## Annotations
 
-[^key-cef86ff2b9e72e080a9d5fd63dd56ce4]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2014/1964/regulation/71) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-cef86ff2b9e72e080a9d5fd63dd56ce4]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2014/1964/regulation/71) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

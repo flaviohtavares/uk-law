@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. “Associate”[^c20061001][^c20422871][^key-cba2c584e0cf3e71c8b19d7d00148f56]
+## 4. “Associate”[^c20061001][^c20422871][^c-cba2c584e0cf3e71c8b19d7d00148f56]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (5) A person in his capacity as trustee of a trust other than—
 
-- (a) a trust arising under Parts VIII to X [^key-fe31ed4d2a24c35d9d33ef9ca3d89e58]... of this Order, Parts VIII to IX of the Insolvency Act 1986[^c17595871] or the Bankruptcy (Scotland) Act 2016[^key-00ed2f2c7ebb40202d3c52b40bd9f6c0], or
+- (a) a trust arising under Parts VIII to X [^c-fe31ed4d2a24c35d9d33ef9ca3d89e58]... of this Order, Parts VIII to IX of the Insolvency Act 1986[^c17595871] or the Bankruptcy (Scotland) Act 2016[^c-00ed2f2c7ebb40202d3c52b40bd9f6c0], or
 - (b) a pension scheme or an employees' share scheme [^c21819761]. . . ,
 
 is an associate of another person if the beneficiaries of the trust include, or the terms of the trust confer a power that may beexercised for the benefit of, that other person or an associate of that other person.
@@ -74,17 +74,17 @@ and where 2 or more persons together satisfy either of the conditions mentioned 
 
 [^c20422871]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1989/2405/article/4) applied by [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 234(8)](https://www.legislation.gov.uk/nisi/2005/255/article/234/8) (as substituted (30.12.2007) by [Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [reg. 2(5)](https://www.legislation.gov.uk/nisr/2007/494/regulation/2/5))
 
-[^key-cba2c584e0cf3e71c8b19d7d00148f56]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1989/2405/article/4) applied by S.I. 2005/255 (N.I. 1), art. 64A(14)(a) (as inserted (1.9.2021 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/8/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/d))
+[^c-cba2c584e0cf3e71c8b19d7d00148f56]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1989/2405/article/4) applied by S.I. 2005/255 (N.I. 1), art. 64A(14)(a) (as inserted (1.9.2021 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/8/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/d))
 
 [^c17595821]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
 [^c17595861]: Textual amendment: mod. by SR 2004/307
 
-[^key-fe31ed4d2a24c35d9d33ef9ca3d89e58]: Textual amendment: Words in [art. 4(5)(a)](https://www.legislation.gov.uk/nisi/1989/2405/article/4/5/a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-fe31ed4d2a24c35d9d33ef9ca3d89e58]: Textual amendment: Words in [art. 4(5)(a)](https://www.legislation.gov.uk/nisi/1989/2405/article/4/5/a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c17595871]: Textual amendment: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45)
 
-[^key-00ed2f2c7ebb40202d3c52b40bd9f6c0]: Textual amendment: Word in [art. 4(5)(a)](https://www.legislation.gov.uk/nisi/1989/2405/article/4/5/a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/37/2)
+[^c-00ed2f2c7ebb40202d3c52b40bd9f6c0]: Textual amendment: Word in [art. 4(5)(a)](https://www.legislation.gov.uk/nisi/1989/2405/article/4/5/a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/37/2)
 
 [^c21819761]: Textual amendment: Words in [art. 4(5)(b)](https://www.legislation.gov.uk/nisi/1989/2405/article/4/5/b) omitted (1.10.2009) by virtue of [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 106(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/106/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 

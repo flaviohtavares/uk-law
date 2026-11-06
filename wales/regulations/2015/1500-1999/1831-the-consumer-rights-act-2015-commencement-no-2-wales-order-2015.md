@@ -33,36 +33,36 @@ Housing, Wales
 
 Consumer Protection, Wales
 
-The Consumer Rights Act 2015 (Commencement No. 2) (Wales) Order 2015 (revoked)[^key-e61ad29e4f01e17a6ba4e978eac23244]
+The Consumer Rights Act 2015 (Commencement No. 2) (Wales) Order 2015 (revoked)[^c-e61ad29e4f01e17a6ba4e978eac23244]
 
 Made
 
 21 October 2015
 
-[^key-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and interpretation[^key-e61ad29e4f01e17a6ba4e978eac23244]
+## 1. Title, application and interpretation[^c-e61ad29e4f01e17a6ba4e978eac23244]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provisions coming into force on 21 October 2015[^key-e61ad29e4f01e17a6ba4e978eac23244]
+## 2. Provisions coming into force on 21 October 2015[^c-e61ad29e4f01e17a6ba4e978eac23244]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e61ad29e4f01e17a6ba4e978eac23244] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e61ad29e4f01e17a6ba4e978eac23244] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**May not be in force at this date. Check the source.**
-
-[^key-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c-e61ad29e4f01e17a6ba4e978eac23244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e61ad29e4f01e17a6ba4e978eac23244]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1831) revoked (11.11.2015) by [The Consumer Rights Act 2015 (Commencement No. 3) (Wales) Order 2015 (S.I. 2015/1904)](https://www.legislation.gov.uk/wsi/2015/1904), [art. 4](https://www.legislation.gov.uk/wsi/2015/1904/article/4)
+[^c-e61ad29e4f01e17a6ba4e978eac23244]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1831) revoked (11.11.2015) by [The Consumer Rights Act 2015 (Commencement No. 3) (Wales) Order 2015 (S.I. 2015/1904)](https://www.legislation.gov.uk/wsi/2015/1904), [art. 4](https://www.legislation.gov.uk/wsi/2015/1904/article/4)

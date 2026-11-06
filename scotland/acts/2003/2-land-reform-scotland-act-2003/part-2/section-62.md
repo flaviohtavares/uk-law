@@ -32,28 +32,28 @@ summary: ''
 
 (4) The valuer whose valuation is appealed against may be a witness in the appeal proceedings.
 
-(5)[^key-3cc9bdf60f1ef3adb5aed0bf9d0a3d06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3cc9bdf60f1ef3adb5aed0bf9d0a3d06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-3cc9bdf60f1ef3adb5aed0bf9d0a3d06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3cc9bdf60f1ef3adb5aed0bf9d0a3d06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) The Lands Tribunal shall give reasons for its decision on an appeal under this section and issue a written statement of those reasons [^key-e2254187947ef34db5f360d2b2dff9c2]...-[^key-8d0e1c848d33ff14c649b0e7e679c33e]
+(7) The Lands Tribunal shall give reasons for its decision on an appeal under this section and issue a written statement of those reasons [^c-e2254187947ef34db5f360d2b2dff9c2]...-[^c-8d0e1c848d33ff14c649b0e7e679c33e]
 
 - (a) within 8 weeks of hearing the appeal, or
 - (b) where subsection (7A) applies, by such later date referred to in paragraph (b)(ii) of that subsection.
 
-(7A)[^key-d852fc4259bd5631e876c7e6133c3409] This section applies where—
+(7A)[^c-d852fc4259bd5631e876c7e6133c3409] This section applies where—
 
 - (a) the Lands Tribunal considers that it is not reasonable to issue a written statement mentioned in subsection (7) by the time limit specified in paragraph (a) of that subsection, and
 - (b) before the expiry of that time limit, the Lands Tribunal has notified the parties to the appeal—
   - (i) that the Tribunal is unable to issue a written statement by that time limit, and
   - (ii) of the date by which the Tribunal will issue such a written statement.
 
-(8) The validity of anything done under this Part of this Act is not affected by any failure of the Lands Tribunal —[^key-c006f7a61af191e595905b28140c1a04]
+(8) The validity of anything done under this Part of this Act is not affected by any failure of the Lands Tribunal —[^c-c006f7a61af191e595905b28140c1a04]
 
 - (a) to comply with the time limit specified in paragraph (a) of subsection (7) above, or
 - (b) to issue a written statement by the date referred to in paragraph (b) of that subsection.
 
-(8A)[^key-1fbdbcd36e01bd7f08b7b23c20649b90] Where the owner of the land or the community body appeals under this section, the owner or, as the case may be, the community body must, within 7 days of the date on which the appeal is made, notify Ministers in writing of—
+(8A)[^c-1fbdbcd36e01bd7f08b7b23c20649b90] Where the owner of the land or the community body appeals under this section, the owner or, as the case may be, the community body must, within 7 days of the date on which the appeal is made, notify Ministers in writing of—
 
 - (a) the making of the appeal, and
 - (b) the date of the making of the appeal.
@@ -71,14 +71,14 @@ summary: ''
 
 ## Annotations
 
-[^key-3cc9bdf60f1ef3adb5aed0bf9d0a3d06]: Textual amendment: S. 62(5) (6) repealed (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) , [Sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
+[^c-3cc9bdf60f1ef3adb5aed0bf9d0a3d06]: Textual amendment: S. 62(5) (6) repealed (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) , [Sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
 
-[^key-e2254187947ef34db5f360d2b2dff9c2]: Textual amendment: Words in s. 62(7) repealed (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) , [Sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
+[^c-e2254187947ef34db5f360d2b2dff9c2]: Textual amendment: Words in s. 62(7) repealed (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) , [Sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
 
-[^key-8d0e1c848d33ff14c649b0e7e679c33e]: Textual amendment: S. 62(7)(a) (b) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(2)](https://www.legislation.gov.uk/asp/2015/6/section/59/2) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
+[^c-8d0e1c848d33ff14c649b0e7e679c33e]: Textual amendment: S. 62(7)(a) (b) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(2)](https://www.legislation.gov.uk/asp/2015/6/section/59/2) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
 
-[^key-d852fc4259bd5631e876c7e6133c3409]: Textual amendment: S. 62(7A) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(3)](https://www.legislation.gov.uk/asp/2015/6/section/59/3) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
+[^c-d852fc4259bd5631e876c7e6133c3409]: Textual amendment: S. 62(7A) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(3)](https://www.legislation.gov.uk/asp/2015/6/section/59/3) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
 
-[^key-c006f7a61af191e595905b28140c1a04]: Textual amendment: S. 62(8)(a) (b) substituted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(4)](https://www.legislation.gov.uk/asp/2015/6/section/59/4) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
+[^c-c006f7a61af191e595905b28140c1a04]: Textual amendment: S. 62(8)(a) (b) substituted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(4)](https://www.legislation.gov.uk/asp/2015/6/section/59/4) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
 
-[^key-1fbdbcd36e01bd7f08b7b23c20649b90]: Textual amendment: S. 62(8A)-(8C) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(5)](https://www.legislation.gov.uk/asp/2015/6/section/59/5) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )
+[^c-1fbdbcd36e01bd7f08b7b23c20649b90]: Textual amendment: S. 62(8A)-(8C) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) , [ss. 59(5)](https://www.legislation.gov.uk/asp/2015/6/section/59/5) , [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1) ; [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399) , [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3) )

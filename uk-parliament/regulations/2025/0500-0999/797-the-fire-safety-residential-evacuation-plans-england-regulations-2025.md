@@ -50,7 +50,7 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement, extent and application[^key-0108fa7fb9903a55817934ef3c4af43c]
+### 1. Citation, commencement, extent and application[^c-0108fa7fb9903a55817934ef3c4af43c]
 
 (1) These Regulations may be cited as the Fire Safety (Residential Evacuation Plans) (England) Regulations 2025.
 
@@ -60,7 +60,7 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 
 (4) These Regulations do not apply in relation to domestic premises[^f00002] within the Palace of Westminster or to military premises.
 
-### 2. Interpretation[^key-6747ab798317ea8c9389276c10d8e0b3]
+### 2. Interpretation[^c-6747ab798317ea8c9389276c10d8e0b3]
 
 In these Regulations—
 
@@ -76,7 +76,7 @@ In these Regulations—
 - “**secure information box**” means, in relation to a specified residential building, a box which meets the requirements in regulation 4(2) of the Fire Safety (England) Regulations 2022[^f00005];
 - “**specified residential building**” has the meaning given in regulation 3.
 
-### 3. Meaning of “specified residential building”[^key-12e0265e6c19e6b2091aa9045c53d672]
+### 3. Meaning of “specified residential building”[^c-12e0265e6c19e6b2091aa9045c53d672]
 
 (1) A “**specified residential building**” means a building which contains two or more sets of domestic premises and which—
 
@@ -97,7 +97,7 @@ In these Regulations—
 - “**Approved Document B**” means Document B (Fire safety), supporting requirements B1 to B5 of Part B of Schedule 1 to the Building Regulations 2010[^f00006];
 - “**simultaneous evacuation strategy**” means a strategy for evacuation whereby the responsible person in relation to the specified residential building[^f00007] has determined that all persons in the building should leave the building immediately in the event of a fire.
 
-### 4. Meaning of “relevant resident”[^key-0370c7f869fd567a6f781b9b5eb4bd4d]
+### 4. Meaning of “relevant resident”[^c-0370c7f869fd567a6f781b9b5eb4bd4d]
 
 A “**relevant resident**” means a relevant person[^f00008]—
 
@@ -106,11 +106,11 @@ A “**relevant resident**” means a relevant person[^f00008]—
 
 ## Part 2 — Residential personal emergency evacuation plans
 
-### 5. Identification of relevant residents[^key-2a0d3ce73079208e25189cc418e8c256]
+### 5. Identification of relevant residents[^c-2a0d3ce73079208e25189cc418e8c256]
 
 The responsible person in relation to a specified residential building must use reasonable endeavours to identify relevant residents of that building.
 
-### 6. Person-centred fire risk assessment[^key-a1f1bda673f30d0a73347af6050775d8]
+### 6. Person-centred fire risk assessment[^c-a1f1bda673f30d0a73347af6050775d8]
 
 (1) The responsible person in relation to a specified residential building must—
 
@@ -122,7 +122,7 @@ The responsible person in relation to a specified residential building must use 
 - (a) the risks[^f00009] to the relevant resident arising from the resident’s compromised ability to evacuate the building without assistance in the event of a fire, and
 - (b) any other risks to the resident as regards the building in light of the resident’s cognitive or physical impairment or condition.
 
-### 7. Mitigation of risks[^key-7987e876bd1bf08195e0de6d3ca16bba]
+### 7. Mitigation of risks[^c-7987e876bd1bf08195e0de6d3ca16bba]
 
 (1) Following a person-centred fire risk assessment, the responsible person must, after discussion with the relevant resident—
 
@@ -133,7 +133,7 @@ The responsible person in relation to a specified residential building must use 
 
 (3) The responsible person is not required to implement a mitigating measure falling within paragraph (1)(b) unless the relevant resident pays the costs of the measure.
 
-### 8. Emergency evacuation statement[^key-f3455ebc92d3841a249ab660cfe977e2]
+### 8. Emergency evacuation statement[^c-f3455ebc92d3841a249ab660cfe977e2]
 
 The responsible person must, taking into account the risks identified in the person-centred fire risk assessment and any mitigating measures that are to be implemented under regulation 7—
 
@@ -142,7 +142,7 @@ The responsible person must, taking into account the risks identified in the per
   - (i) record the approach in a statement in writing (an “emergency evacuation statement”), and
   - (ii) provide the relevant resident with a copy of the emergency evacuation statement.
 
-### 9. Review by the responsible person[^key-f0618e20103516b40512903468f1ec3b]
+### 9. Review by the responsible person[^c-f0618e20103516b40512903468f1ec3b]
 
 (1) Where a person-centred fire risk assessment has been carried out in relation to a relevant resident of a specified residential building, the responsible person in relation to that building must review that assessment, any mitigating measures required to be implemented under regulation 7 in relation to the resident and any emergency evacuation statement for the resident.
 
@@ -168,7 +168,7 @@ The responsible person must, taking into account the risks identified in the per
 - (a) before a review is due under paragraph (3)(a), the obligation to review arising under paragraph (3)(a) does not apply, and the obligation arising under paragraph (3)(b) is to be calculated from the date of the review under paragraph (4);
 - (b) before a review is due under paragraph (3)(b), any further obligation arising under that paragraph is to be calculated from the date of the review under paragraph (4).
 
-### 10. Provision of information to local fire and rescue authority[^key-d4827970634e57a3250194b258648f05]
+### 10. Provision of information to local fire and rescue authority[^c-d4827970634e57a3250194b258648f05]
 
 (1) Subject to paragraph (2), the responsible person in relation to a specified residential building must provide the local fire and rescue authority with the following information relating to each relevant resident of that building—
 
@@ -189,7 +189,7 @@ The responsible person must, taking into account the risks identified in the per
 - (a) the responsible person must install and maintain a secure information box in or on the building, and
 - (b) the requirements in regulation 4(3) to (5) of the Fire Safety (England) Regulations 2022 apply in relation to that box.
 
-### 11. Relevant resident’s representative[^key-67b61ace01da41627c662a77e2b19b39]
+### 11. Relevant resident’s representative[^c-67b61ace01da41627c662a77e2b19b39]
 
 (1) In the provisions set out in paragraph (2), a reference to the relevant resident includes a reference to the relevant resident’s representative.
 
@@ -214,7 +214,7 @@ The responsible person must, taking into account the risks identified in the per
 - (a) “**parental responsibility**” has the same meaning as in section 3 of the Children Act 1989[^f00011];
 - (b) a relevant resident lacks capacity in relation to a matter if that resident lacks capacity in relation to it for the purposes of section 2 of the Mental Capacity Act 2005[^f00012].
 
-### 12. Data protection[^key-e3ea4b1b3047b37cac72bc57e77ac8bc]
+### 12. Data protection[^c-e3ea4b1b3047b37cac72bc57e77ac8bc]
 
 (1) This regulation applies to a duty or power to process information that is imposed or conferred by these Regulations.
 
@@ -224,7 +224,7 @@ The responsible person must, taking into account the risks identified in the per
 
 ## Part 3 — Building emergency evacuation plan
 
-### 13. Building emergency evacuation plan[^key-eb8de28fb7e32a88da37db85ffa490c7]
+### 13. Building emergency evacuation plan[^c-eb8de28fb7e32a88da37db85ffa490c7]
 
 (1) The responsible person in relation to a specified residential building must—
 
@@ -257,7 +257,7 @@ The responsible person must, taking into account the risks identified in the per
 
 ## Part 4 — Amendment of the Fire Safety (England) Regulations 2022
 
-### 14. Amendment of the Fire Safety (England) Regulations 2022[^key-83194561b612a8e2ee039a0a451f5dab]
+### 14. Amendment of the Fire Safety (England) Regulations 2022[^c-83194561b612a8e2ee039a0a451f5dab]
 
 In regulation 4(2)(b) of the Fire Safety (England) Regulations 2022, after “these Regulations” insert “and the Fire Safety (Residential Evacuation Plans) (England) Regulations 2025”.
 
@@ -295,11 +295,11 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^f00001]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541) (“**the 2005 Order**”). See article 6 of the 2005 Order (application to premises), as amended by section 1 of the Fire Safety Act [2021 (c. 24)](https://www.legislation.gov.uk/ukpga/2021/24), for the application of the 2005 Order to buildings containing domestic premises.
 
-[^key-0108fa7fb9903a55817934ef3c4af43c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/797/regulation/1) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-0108fa7fb9903a55817934ef3c4af43c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/797/regulation/1) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00002]: Footnote: See article 2 of the 2005 Order for the meaning of “domestic premises”.
 
-[^key-6747ab798317ea8c9389276c10d8e0b3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/797/regulation/2) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-6747ab798317ea8c9389276c10d8e0b3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/797/regulation/2) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00003]: Footnote: See article 2 of the 2005 Order for the meaning of “fire and rescue authority”.
 
@@ -307,42 +307,42 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^f00005]: Footnote: [S.I. 2022/547](https://www.legislation.gov.uk/uksi/2022/547).
 
-[^key-12e0265e6c19e6b2091aa9045c53d672]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/797/regulation/3) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-12e0265e6c19e6b2091aa9045c53d672]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/797/regulation/3) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214). Approved Document B can be accessed at https://www.gov.uk/government/publications/fire-safety-approved-document-b. A hard copy may be inspected free of charge by contacting MHCLG at 2 Marsham Street, London SW1P 4DF.
 
 [^f00007]: Footnote: See article 3(b) of the 2005 Order for the meaning of “**responsible person**” in relation to specified residential buildings (as defined in these Regulations).
 
-[^key-0370c7f869fd567a6f781b9b5eb4bd4d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/797/regulation/4) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-0370c7f869fd567a6f781b9b5eb4bd4d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/797/regulation/4) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00008]: Footnote: See article 2 of the 2005 Order for the meaning of “relevant persons”.
 
-[^key-2a0d3ce73079208e25189cc418e8c256]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/797/regulation/5) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-2a0d3ce73079208e25189cc418e8c256]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/797/regulation/5) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
-[^key-a1f1bda673f30d0a73347af6050775d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/797/regulation/6) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-a1f1bda673f30d0a73347af6050775d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/797/regulation/6) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00009]: Footnote: See article 2 of the 2005 Order for the meaning of “risk”.
 
-[^key-7987e876bd1bf08195e0de6d3ca16bba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/797/regulation/7) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-7987e876bd1bf08195e0de6d3ca16bba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/797/regulation/7) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
-[^key-f3455ebc92d3841a249ab660cfe977e2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/797/regulation/8) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-f3455ebc92d3841a249ab660cfe977e2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/797/regulation/8) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
-[^key-f0618e20103516b40512903468f1ec3b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/797/regulation/9) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-f0618e20103516b40512903468f1ec3b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/797/regulation/9) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
-[^key-d4827970634e57a3250194b258648f05]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/797/regulation/10) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-d4827970634e57a3250194b258648f05]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/797/regulation/10) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00010]: Footnote: See regulation 4 of the Fire Safety (England) Regulations 2022 for the requirement to install and maintain a secure information box in relation to a high-rise residential building (as defined in regulation 2 of those Regulations). See also Approved Document B, paragraphs 15.18 to 15.21 for the recommendation in relation to buildings over 11 metres.
 
-[^key-67b61ace01da41627c662a77e2b19b39]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/797/regulation/11) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-67b61ace01da41627c662a77e2b19b39]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/797/regulation/11) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00011]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^f00012]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-e3ea4b1b3047b37cac72bc57e77ac8bc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/797/regulation/12) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-e3ea4b1b3047b37cac72bc57e77ac8bc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/797/regulation/12) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
 [^f00013]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3 was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-eb8de28fb7e32a88da37db85ffa490c7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/797/regulation/13) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-eb8de28fb7e32a88da37db85ffa490c7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/797/regulation/13) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
 
-[^key-83194561b612a8e2ee039a0a451f5dab]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/797/regulation/14) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+[^c-83194561b612a8e2ee039a0a451f5dab]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/797/regulation/14) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)

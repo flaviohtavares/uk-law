@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 278. False claim of status as creditor, etc[^key-fa763a8c527a2f6782b62398e00ac8b9]
+## 278. False claim of status as creditor, etc[^c-fa763a8c527a2f6782b62398e00ac8b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.18 of the 1986 Rules.
 
 ## Annotations
 
-[^key-fa763a8c527a2f6782b62398e00ac8b9]: Commencement: Rule 278 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-fa763a8c527a2f6782b62398e00ac8b9]: Commencement: Rule 278 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112D. Power to refer matters elsewhere instead of investigating[^key-64d75ccdff3c447b5e45672011c3d393]
+## 112D. Power to refer matters elsewhere instead of investigating[^c-64d75ccdff3c447b5e45672011c3d393]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ the Council may refer the matter to that person or body.
 
 ## Annotations
 
-[^key-64d75ccdff3c447b5e45672011c3d393]: Textual amendment: Pt. 5A inserted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [arts. 1](https://www.legislation.gov.uk/uksi/2010/439/article/3), [3](https://www.legislation.gov.uk/uksi/2010/439/article/3)
+[^c-64d75ccdff3c447b5e45672011c3d393]: Textual amendment: Pt. 5A inserted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [arts. 1](https://www.legislation.gov.uk/uksi/2010/439/article/3), [3](https://www.legislation.gov.uk/uksi/2010/439/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.15. Duty of court officer and custodian[^key-08d7c424983de3e7dee6131cda15e409]
+## 24.15. Duty of court officer and custodian[^c-08d7c424983de3e7dee6131cda15e409]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-08d7c424983de3e7dee6131cda15e409]: Commencement: [Rule 24.15](https://www.legislation.gov.uk/uksi/2025/909/rule/24.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-08d7c424983de3e7dee6131cda15e409]: Commencement: [Rule 24.15](https://www.legislation.gov.uk/uksi/2025/909/rule/24.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00573]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 25 was amended by section 90 of, and paragraphs 140 and 142 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), section 165 of, and paragraph 118 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) and section 109 of, and paragraph 311 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

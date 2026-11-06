@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55B. Provision of assistance to other forces[^key-37493e97db39c06871d43003a62cfeab]
+## 55B. Provision of assistance to other forces[^c-37493e97db39c06871d43003a62cfeab]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37493e97db39c06871d43003a62cfeab]: Textual amendment: [S. 55B](https://www.legislation.gov.uk/ukpga/2004/20/section/55B) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 308(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/308/2), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-37493e97db39c06871d43003a62cfeab]: Textual amendment: [S. 55B](https://www.legislation.gov.uk/ukpga/2004/20/section/55B) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 308(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/308/2), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Voting rights and resolutions[^key-b207d91f96633a86272bca225501ffa3]
+## 128. Voting rights and resolutions[^c-b207d91f96633a86272bca225501ffa3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.173 of the 1991 Rules.
 
 ## Annotations
 
-[^key-b207d91f96633a86272bca225501ffa3]: Commencement: Rule 128 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-b207d91f96633a86272bca225501ffa3]: Commencement: Rule 128 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Referrals by the Intelligence and Security Committee of Parliament[^key-16ea897b8c3a5b41e8b311117bbb33fe]
+## 236. Referrals by the Intelligence and Security Committee of Parliament[^c-16ea897b8c3a5b41e8b311117bbb33fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16ea897b8c3a5b41e8b311117bbb33fe]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2016/25/section/236) in force at 1.9.2017 by [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/h)
+[^c-16ea897b8c3a5b41e8b311117bbb33fe]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2016/25/section/236) in force at 1.9.2017 by [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/h)

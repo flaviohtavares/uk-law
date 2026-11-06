@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Employers’ contributions[^key-ced1dccc793c292a547bed3912ced929]
+## 108. Employers’ contributions[^c-ced1dccc793c292a547bed3912ced929]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ at such intervals and at such rates as the scheme manager may from time to time 
 
 ## Annotations
 
-[^key-ced1dccc793c292a547bed3912ced929]: Commencement: Reg. 108 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-ced1dccc793c292a547bed3912ced929]: Commencement: Reg. 108 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

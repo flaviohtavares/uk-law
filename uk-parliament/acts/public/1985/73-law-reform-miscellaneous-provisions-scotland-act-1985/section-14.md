@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Remit from Court of Session to sheriff.[^key-7264def30b97bfcab72c2a5ca39d7b59]
+## 14. Remit from Court of Session to sheriff.[^c-7264def30b97bfcab72c2a5ca39d7b59]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7264def30b97bfcab72c2a5ca39d7b59]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1985/73/section/14) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/25); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2015/247/article/3/3))
+[^c-7264def30b97bfcab72c2a5ca39d7b59]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1985/73/section/14) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/25); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2015/247/article/3/3))

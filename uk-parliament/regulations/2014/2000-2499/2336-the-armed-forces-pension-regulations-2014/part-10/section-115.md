@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Late payment of retirement index adjustment[^key-d855d85d318f68569c1dd3b03f2c3864]
+## 115. Late payment of retirement index adjustment[^c-d855d85d318f68569c1dd3b03f2c3864]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires any part of a pension attributable to a re
 
 ## Annotations
 
-[^key-d855d85d318f68569c1dd3b03f2c3864]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2014/2336/regulation/115) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-d855d85d318f68569c1dd3b03f2c3864]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2014/2336/regulation/115) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

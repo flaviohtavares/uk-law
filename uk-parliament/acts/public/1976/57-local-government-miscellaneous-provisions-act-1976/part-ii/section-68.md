@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Fitness of hackney carriages and private hire vehicles.[^key-0221803d329446929b36236998f5027e]
+## 68. Fitness of hackney carriages and private hire vehicles.[^c-0221803d329446929b36236998f5027e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Provided that, if the authorised officer or constable is not so satisfied before
 
 ## Annotations
 
-[^key-0221803d329446929b36236998f5027e]: Modification: S. 68 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-0221803d329446929b36236998f5027e]: Modification: S. 68 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.11. Cross-examination on a witness statement[^key-dde6308c1e05351bbaaf12827c6dee73]
+## 32.11. Cross-examination on a witness statement[^c-dde6308c1e05351bbaaf12827c6dee73]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a witness is called to give evidence at trial, he may be cross-examined on
 
 ## Annotations
 
-[^key-dde6308c1e05351bbaaf12827c6dee73]: Commencement: [Rule 32.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-dde6308c1e05351bbaaf12827c6dee73]: Commencement: [Rule 32.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

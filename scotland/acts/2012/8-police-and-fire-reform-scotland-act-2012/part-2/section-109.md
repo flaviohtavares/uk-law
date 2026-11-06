@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Provision of centres for education and training[^key-47440ecf7745f3cb59bc49b56fefc25a]
+## 109. Provision of centres for education and training[^c-47440ecf7745f3cb59bc49b56fefc25a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In section 15 of the 2005 Act (provision of centres for education and training)â
 
 ## Annotations
 
-[^key-47440ecf7745f3cb59bc49b56fefc25a]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2012/8/section/109) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-47440ecf7745f3cb59bc49b56fefc25a]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2012/8/section/109) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Disposal of case where accused found not criminally responsible or unfit for trial.[^key-313e106132012eae4f453db7906eccf9]
+## 57. Disposal of case where accused found not criminally responsible or unfit for trial.[^c-313e106132012eae4f453db7906eccf9]
 
 *Extent: S*
 
 (1) This section applies where—
 
-- (a) a person is acquitted by reason of the special defence set out in section 51A of this Act[^key-9abb93db99af713a2c05555c4d61c498]; or
+- (a) a person is acquitted by reason of the special defence set out in section 51A of this Act[^c-9abb93db99af713a2c05555c4d61c498]; or
 - (b) following an examination of facts under section 55, a court makes a finding under subsection (2) of that section.
 
 (2) Subject to subsection (3) below, where this section applies the court may, as it thinks fit—
 
-- (a)[^c14469091] subject to subsection (4) below, make a compulsion order[^c18915701] (whether or not authorising the detention of the person in a hospital)[^key-e7fa60ec1c68e3e9b78225c35c3c614d];
-- (b)[^key-54e04e0d3c5bdaeaf7088e4336ca2b42] subject to subsection (4A) below, make a restriction order in respect of the person (that is, in addition to a compulsion order authorising the detention of the person in a hospital);
+- (a)[^c14469091] subject to subsection (4) below, make a compulsion order[^c18915701] (whether or not authorising the detention of the person in a hospital)[^c-e7fa60ec1c68e3e9b78225c35c3c614d];
+- (b)[^c-54e04e0d3c5bdaeaf7088e4336ca2b42] subject to subsection (4A) below, make a restriction order in respect of the person (that is, in addition to a compulsion order authorising the detention of the person in a hospital);
 - (bb)[^c18916091][^c18912621] subject to subsections (3A) and (4B) below, make an interim compulsion order in respect of the person;
 - (c) subject to subsections (4C) and (6) below, make a guardianship order in respect of the person[^c18916111];
 - (d) subject to subsection (5) below,[^c18916131] make a supervision and treatment order (within the meaning of paragraph 1(1) of Schedule 4 to this Act in respect of the person[^c18916151]); or
@@ -87,17 +87,17 @@ summary: ''
 
 ## Annotations
 
-[^key-313e106132012eae4f453db7906eccf9]: Textual amendment: Words in s. 57 heading substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 38](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/38); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-313e106132012eae4f453db7906eccf9]: Textual amendment: Words in s. 57 heading substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 38](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/38); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-9abb93db99af713a2c05555c4d61c498]: Textual amendment: Words in s. 57(1)(a) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 39](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/39); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-9abb93db99af713a2c05555c4d61c498]: Textual amendment: Words in s. 57(1)(a) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 39](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/39); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
 [^c14469091]: Modification: S. 57(2)(a) extended (1.1.1998) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1997/48/section/9/1/a) (subject to [s. 9(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/9/2)); [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 4](https://www.legislation.gov.uk/uksi/1997/2323/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/2323/schedule/2) (subject to [art. 7](https://www.legislation.gov.uk/uksi/1997/2323/article/7))
 
 [^c18915701]: Textual amendment: Words in s. 57(2)(a) substituted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 331(1)](https://www.legislation.gov.uk/asp/2003/13/section/331/1), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1), [Sch. 4 para. 8(3)(a)(i)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/8/3/a/i); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 
-[^key-e7fa60ec1c68e3e9b78225c35c3c614d]: Textual amendment: Words in s. 57(2)(a) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 39(2)(a)](https://www.legislation.gov.uk/asp/2015/9/section/39/2/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-e7fa60ec1c68e3e9b78225c35c3c614d]: Textual amendment: Words in s. 57(2)(a) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 39(2)(a)](https://www.legislation.gov.uk/asp/2015/9/section/39/2/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-54e04e0d3c5bdaeaf7088e4336ca2b42]: Textual amendment: S. 57(2)(b) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 39(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/39/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-54e04e0d3c5bdaeaf7088e4336ca2b42]: Textual amendment: S. 57(2)(b) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 39(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/39/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
 [^c18916091]: Textual amendment: S. 57(2)(bb) substituted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 331(1)](https://www.legislation.gov.uk/asp/2003/13/section/331/1), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1), [Sch. 4 para. 8(3)(a)(iii)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/8/3/a/iii); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 

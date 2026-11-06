@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Protection of the tunnel area, etc.[^key-fa60650afff180dbb92c834ef394a611]
+## 48. Protection of the tunnel area, etc.[^c-fa60650afff180dbb92c834ef394a611]
 
 *Extent: E+W*
 
@@ -69,18 +69,18 @@ without the consent of the undertaker.
 - “**river works licence**” means a licence granted by the PLA under section 66 (licensing of works) of the 1968 Act;
 - “**river dredging licence**” means a licence granted by the PLA under section 73 (licensing of dredging, etc.) of the 1968 Act;
 - “**the exempt second protection zone activities**” means the following activities within the part of the river Thames that is situated within the second protection zone shown on the river restrictions plan—
-  - (a) [^key-86784816a5fbd6dac7173053cbaf1cd9]any dredging provided it does not result (either during the course of the dredging or on completion of the dredging) in the surface of the bed of the river Thames lying at a depth exceeding 12.5 metres below chart datum subject to the addition of any ‘over-dredge’ of 0.5 metres where this occurs in the course of a standard dredging methodology being employed;
-  - (b) [^key-86784816a5fbd6dac7173053cbaf1cd9]non-intrusive ground investigations, surface sampling, vibrocoring and surveys;
-  - (c) [^key-86784816a5fbd6dac7173053cbaf1cd9]shallow piling activities and excavations; and
-  - (d) [^key-86784816a5fbd6dac7173053cbaf1cd9]where such activities either alone or together do not lead to a concurrent load of 50kPA or more on the bed of the river Thames within the Order limits—
+  - (a) [^c-86784816a5fbd6dac7173053cbaf1cd9]any dredging provided it does not result (either during the course of the dredging or on completion of the dredging) in the surface of the bed of the river Thames lying at a depth exceeding 12.5 metres below chart datum subject to the addition of any ‘over-dredge’ of 0.5 metres where this occurs in the course of a standard dredging methodology being employed;
+  - (b) [^c-86784816a5fbd6dac7173053cbaf1cd9]non-intrusive ground investigations, surface sampling, vibrocoring and surveys;
+  - (c) [^c-86784816a5fbd6dac7173053cbaf1cd9]shallow piling activities and excavations; and
+  - (d) [^c-86784816a5fbd6dac7173053cbaf1cd9]where such activities either alone or together do not lead to a concurrent load of 50kPA or more on the bed of the river Thames within the Order limits—
     - (i) the use of anchorages and placing of moorings and navigational marks and the grounding of a barge for any of these purposes;
     - (ii) the maintenance of groynes, mooring placements, navigational marks, scour protection, river walls and revetements and the grounding of a barge for any of these purposes;
     - (iii) mooring marine plant in connection with the activities in sub-paragraphs (b) and (d)(i) and (ii).
 
 ## Annotations
 
-[^key-fa60650afff180dbb92c834ef394a611]: Commencement: Art. 48 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-fa60650afff180dbb92c834ef394a611]: Commencement: Art. 48 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00109]: Footnote: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37).
 
-[^key-86784816a5fbd6dac7173053cbaf1cd9]: Textual amendment: Words in [art. 48(10)](https://www.legislation.gov.uk/uksi/2025/462/article/48/10) renumbered (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-86784816a5fbd6dac7173053cbaf1cd9]: Textual amendment: Words in [art. 48(10)](https://www.legislation.gov.uk/uksi/2025/462/article/48/10) renumbered (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)

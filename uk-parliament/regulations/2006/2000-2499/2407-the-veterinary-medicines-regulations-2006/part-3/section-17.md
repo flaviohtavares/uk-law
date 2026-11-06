@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Food-producing animals: proof of purchase of veterinary medicinal products[^key-b031055becbed6ec54d7d5dfd918e032]
+## 17. Food-producing animals: proof of purchase of veterinary medicinal products[^c-b031055becbed6ec54d7d5dfd918e032]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b031055becbed6ec54d7d5dfd918e032]: Commencement: Reg. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b031055becbed6ec54d7d5dfd918e032]: Commencement: Reg. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

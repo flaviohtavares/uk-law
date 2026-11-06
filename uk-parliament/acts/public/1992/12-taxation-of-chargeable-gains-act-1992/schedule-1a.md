@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Assets deriving 75% of value from UK land etc[^key-672bf530009f0c36b6bec66fdc0b88c2]
+## SCHEDULE 1A — Assets deriving 75% of value from UK land etc[^c-672bf530009f0c36b6bec66fdc0b88c2]
 
 *Extent: E+W+S+N.I.*
 
 ### PART 1 — Introduction
 
-**1.** This Schedule makes provision, for the purposes of section 1A(3)(c) or 2B(4)(b) or paragraph 6 of Schedule D1[^key-4f6eefc5124828a3ba71f3ef0ee22b0c], for determining in the case of any disposal of any asset—
+**1.** This Schedule makes provision, for the purposes of section 1A(3)(c) or 2B(4)(b) or paragraph 6 of Schedule D1[^c-4f6eefc5124828a3ba71f3ef0ee22b0c], for determining in the case of any disposal of any asset—
 
 - (a) whether the asset derives at least 75% of its value from UK land (see Part 2 of this Schedule), and
 - (b) whether the person making the disposal has a substantial indirect interest in the UK land (see Part 3 of this Schedule).
@@ -32,7 +32,7 @@ summary: ''
 - (a) paragraph 5 of Schedule 5AAA (which treats units in a CoACS as shares for the purposes of this Schedule), and
 - (b) paragraph 6 of that Schedule (which treats certain disposals of interests in collective investment vehicles as meeting the conditions in Part 3 of this Schedule).
 
-### PART 2 — Whether asset derives at least 75% of its value from UK land[^key-77d722877ae075749ca39e779f4f9733]
+### PART 2 — Whether asset derives at least 75% of its value from UK land[^c-77d722877ae075749ca39e779f4f9733]
 
 #### The basic rule
 
@@ -150,7 +150,7 @@ the person has a substantial indirect interest in UK land if, at any time in the
 
 #### Meaning of “25% investment”
 
-**9.**[^key-1b8856b2ddfe68dcc0933e2cc0128b77][^key-c1c018dd3bec034809d94e5eca061f9a] (1) A person (“P”) has a 25% investment in a company (“C”) if—
+**9.**[^c-1b8856b2ddfe68dcc0933e2cc0128b77][^c-c1c018dd3bec034809d94e5eca061f9a] (1) A person (“P”) has a 25% investment in a company (“C”) if—
 
 - (a) P possesses or is entitled to acquire 25% or more of the voting power in C,
 - (b) in the event of a disposal of the whole of the equity in C, P would receive 25% or more of the proceeds,
@@ -203,7 +203,7 @@ there is, for the purposes of sub-paragraph (7), an indirect receipt or indirect
 
 #### Attribution of rights and interests
 
-**10.**[^key-1b8856b2ddfe68dcc0933e2cc0128b77] (1) In determining for the purposes of paragraph 9 the investment that a person (“P”) has in a company, P is to be taken to have all of the rights and interests of any person connected with P.
+**10.**[^c-1b8856b2ddfe68dcc0933e2cc0128b77] (1) In determining for the purposes of paragraph 9 the investment that a person (“P”) has in a company, P is to be taken to have all of the rights and interests of any person connected with P.
 
 (2) A person is not to be regarded as connected with another person for the purposes of this paragraph merely as a result of their being parties to a loan that is a normal commercial loan for the purposes of paragraph 9.
 
@@ -212,9 +212,9 @@ there is, for the purposes of sub-paragraph (7), an indirect receipt or indirect
 - (a) as if, in subsection (2), for the words from “, or is a relative” to the end there were substituted “ or is a lineal ancestor or lineal descendant of the individual or of the individual's spouse or civil partner ”, and
 - (b) as if subsections (4) and (8) were omitted.
 
-### PART 4 — Cell companies and anti-avoidance[^key-a07ccb6a4b123858fee51334d5f4f3be]
+### PART 4 — Cell companies and anti-avoidance[^c-a07ccb6a4b123858fee51334d5f4f3be]
 
-#### Cell companies[^key-5ee19ddefc1414a5226ee3623263981d]
+#### Cell companies[^c-5ee19ddefc1414a5226ee3623263981d]
 
 **10A.** (1) In the application of this Schedule in relation to the disposal of an asset consisting of a right or an interest in a cell company, each cell of the company is to be treated as if it were an individual company.
 
@@ -259,16 +259,16 @@ there is, for the purposes of sub-paragraph (7), an indirect receipt or indirect
 
 ## Annotations
 
-[^key-672bf530009f0c36b6bec66fdc0b88c2]: Textual amendment: Sch. 1A inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/14)
+[^c-672bf530009f0c36b6bec66fdc0b88c2]: Textual amendment: Sch. 1A inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/14)
 
-[^key-4f6eefc5124828a3ba71f3ef0ee22b0c]: Textual amendment: Words in Sch. 1A para. 1 inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(8)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/8/11)
+[^c-4f6eefc5124828a3ba71f3ef0ee22b0c]: Textual amendment: Words in Sch. 1A para. 1 inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(8)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/8/11)
 
-[^key-77d722877ae075749ca39e779f4f9733]: Modification: Sch. 1A Pt. 2 applied (with modifications) (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2025/200/regulation/11/4) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-77d722877ae075749ca39e779f4f9733]: Modification: Sch. 1A Pt. 2 applied (with modifications) (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2025/200/regulation/11/4) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-1b8856b2ddfe68dcc0933e2cc0128b77]: Modification: [Sch. 1A paras. 9](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1A/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1A/paragraph/10) applied (with modifications) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/11/3)
+[^c-1b8856b2ddfe68dcc0933e2cc0128b77]: Modification: [Sch. 1A paras. 9](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1A/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1A/paragraph/10) applied (with modifications) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/11/3)
 
-[^key-c1c018dd3bec034809d94e5eca061f9a]: Modification: Sch. 1A para. 9 applied (with modifications) (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/11/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-c1c018dd3bec034809d94e5eca061f9a]: Modification: Sch. 1A para. 9 applied (with modifications) (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/11/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-a07ccb6a4b123858fee51334d5f4f3be]: Textual amendment: Sch. 1A Pt. 4 heading substituted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/4)
+[^c-a07ccb6a4b123858fee51334d5f4f3be]: Textual amendment: Sch. 1A Pt. 4 heading substituted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/4)
 
-[^key-5ee19ddefc1414a5226ee3623263981d]: Textual amendment: Sch. 1A para. 10A and cross-headings inserted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/4)
+[^c-5ee19ddefc1414a5226ee3623263981d]: Textual amendment: Sch. 1A para. 10A and cross-headings inserted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/40/4)

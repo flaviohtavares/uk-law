@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Payment of fee loans and fee contribution loans[^key-4d74541369528de92af7874f5bd87ee2]
+## 99. Payment of fee loans and fee contribution loans[^c-4d74541369528de92af7874f5bd87ee2]
 
 *Extent: N.I.*
 
-(1) The Department must pay the fee loan or relevant institution charge loan[^key-c8e9fc09f0d844fcb4892a77e9c21867] for which an eligible student qualifies to an institution to which the student is liable to make payment.
+(1) The Department must pay the fee loan or relevant institution charge loan[^c-c8e9fc09f0d844fcb4892a77e9c21867] for which an eligible student qualifies to an institution to which the student is liable to make payment.
 
 (2) The Department may pay the fee loan or relevant institution charge loan in instalments.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d74541369528de92af7874f5bd87ee2]: Textual amendment: [Reg. 99](https://www.legislation.gov.uk/nisr/2009/373/regulation/99) substituted (21.3.2012) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/62)](https://www.legislation.gov.uk/nisr/2012/62), [regs. 1](https://www.legislation.gov.uk/nisr/2012/62/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/62/regulation/5)
+[^c-4d74541369528de92af7874f5bd87ee2]: Textual amendment: [Reg. 99](https://www.legislation.gov.uk/nisr/2009/373/regulation/99) substituted (21.3.2012) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/62)](https://www.legislation.gov.uk/nisr/2012/62), [regs. 1](https://www.legislation.gov.uk/nisr/2012/62/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/62/regulation/5)
 
-[^key-c8e9fc09f0d844fcb4892a77e9c21867]: Textual amendment: Words in [reg. 99](https://www.legislation.gov.uk/nisr/2009/373/regulation/99) inserted (6.6.2013 with application in accordance with reg. 1(2)) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/128)](https://www.legislation.gov.uk/nisr/2013/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/128/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2013/128/regulation/14)
+[^c-c8e9fc09f0d844fcb4892a77e9c21867]: Textual amendment: Words in [reg. 99](https://www.legislation.gov.uk/nisr/2009/373/regulation/99) inserted (6.6.2013 with application in accordance with reg. 1(2)) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/128)](https://www.legislation.gov.uk/nisr/2013/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/128/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2013/128/regulation/14)

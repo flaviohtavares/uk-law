@@ -125,7 +125,7 @@ summary: ''
 
 (6)[^c8106601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-6b63304cfa04cf66e91a4b1c292cb6f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-6b63304cfa04cf66e91a4b1c292cb6f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Section 87(1) of the 1969 Act (power of Her Majesty in Council to make necessary provision if the Post Office surrenders privilages as regards the Isle of Man or the Channel Islands) shall have effect as if for the words “section 3 of the Post Office Act 1953” there were substituted the words “ section 66(1) of the British Telecommunications Act 1981 ” and for the words “the said section 3” in both places where they occur, there were substituted the words “ the said section 66(1) ”.
 
@@ -284,7 +284,7 @@ summary: ''
 
 [^c8106601]: Textual amendment: Sch. 3 para. 51(5)(6) repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [art. 4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
 
-[^key-6b63304cfa04cf66e91a4b1c292cb6f1]: Textual amendment: Sch. 3 para. 51(7) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
+[^c-6b63304cfa04cf66e91a4b1c292cb6f1]: Textual amendment: Sch. 3 para. 51(7) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
 
 [^c8106651]: Textual amendment: [Sch. 3 para. 52](https://www.legislation.gov.uk/ukpga/1981/38/schedule/3/paragraph/52) repealed by [Telecommunications Act 1984 (c. 12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [s. 109](https://www.legislation.gov.uk/ukpga/1984/12/section/109), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/1984/12/schedule/4/paragraph/3/2)(*f*), Sch. 5 para. 45, Sch. 7 Pt. I
 

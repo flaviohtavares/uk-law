@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 585. Restrictions on persons taking part in proceedings of the governing body or their committees[^key-e764e6d58a19cded58b04796decae482]
+## 585. Restrictions on persons taking part in proceedings of the governing body or their committees[^c-e764e6d58a19cded58b04796decae482]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph 2 of Schedule 6 to the Education (School Government) (England) Regu
 
 ## Annotations
 
-[^key-e764e6d58a19cded58b04796decae482]: Commencement: Art. 585 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e764e6d58a19cded58b04796decae482]: Commencement: Art. 585 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

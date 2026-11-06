@@ -37,7 +37,7 @@ summary: ''
 
 (6) A duty holder must—
 
-- (a) implement the corporate major accident prevention policy throughout its offshore oil and gas operations , CCUS operations or offshore hydrogen operations, as appropriate[^key-7e45e0c3755ea10012fae4bb1ee3af9b]; and
+- (a) implement the corporate major accident prevention policy throughout its offshore oil and gas operations , CCUS operations or offshore hydrogen operations, as appropriate[^c-7e45e0c3755ea10012fae4bb1ee3af9b]; and
 - (b) set up appropriate monitoring arrangements to assure effectiveness of the policy.
 
 (7) In this regulation and Schedule 1, “**officer of the duty holder**” in relation to—
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e45e0c3755ea10012fae4bb1ee3af9b]: Textual amendment: Words in reg. 7(6)(a) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/4)
+[^c-7e45e0c3755ea10012fae4bb1ee3af9b]: Textual amendment: Words in reg. 7(6)(a) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/4)
 
 [^c22462361]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations.

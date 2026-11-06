@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.94. Admission and rejection of proof[^key-1499333a019d2af36fbbb10f330a9ab1]
+## 6.94. Admission and rejection of proof[^c-1499333a019d2af36fbbb10f330a9ab1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1499333a019d2af36fbbb10f330a9ab1]: Commencement: [Rule 6.94](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.94) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1499333a019d2af36fbbb10f330a9ab1]: Commencement: [Rule 6.94](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.94) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

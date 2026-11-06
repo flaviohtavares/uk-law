@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Amount of club transfer earned pension[^key-da602dd5466aff878606abc28caa4e94]
+## 135. Amount of club transfer earned pension[^c-da602dd5466aff878606abc28caa4e94]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da602dd5466aff878606abc28caa4e94]: Commencement: [Reg. 135](https://www.legislation.gov.uk/ssi/2015/19/regulation/135) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-da602dd5466aff878606abc28caa4e94]: Commencement: [Reg. 135](https://www.legislation.gov.uk/ssi/2015/19/regulation/135) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

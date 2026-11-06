@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Regulations about default arrangements[^key-b8169f6022ff90f41ed3c177de34fdca]
+## 45. Regulations about default arrangements[^c-b8169f6022ff90f41ed3c177de34fdca]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ In making regulations under section 42 or 44, the appropriate authority must hav
 
 ## Annotations
 
-[^key-b8169f6022ff90f41ed3c177de34fdca]: Commencement: S. 45 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)
+[^c-b8169f6022ff90f41ed3c177de34fdca]: Commencement: S. 45 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)

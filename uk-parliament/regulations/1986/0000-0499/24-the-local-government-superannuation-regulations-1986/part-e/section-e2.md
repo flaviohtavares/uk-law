@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E2. Entitlement to retirement pension and retiring allowance[^key-c16aeba1005cba6c40c2a58b637a7929]
+## E2. Entitlement to retirement pension and retiring allowance[^c-c16aeba1005cba6c40c2a58b637a7929]
 
 *Extent: E+W+S*
 
@@ -91,6 +91,6 @@ unless he is a man who has attained the age of 60 years and has, on or after but
 
 ## Annotations
 
-[^key-c16aeba1005cba6c40c2a58b637a7929]: Commencement: [Reg. E2](https://www.legislation.gov.uk/uksi/1986/24/regulation/E2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c16aeba1005cba6c40c2a58b637a7929]: Commencement: [Reg. E2](https://www.legislation.gov.uk/uksi/1986/24/regulation/E2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00035]: Footnote: [S.I. 1960/1103](https://www.legislation.gov.uk/uksi/1960/1103).

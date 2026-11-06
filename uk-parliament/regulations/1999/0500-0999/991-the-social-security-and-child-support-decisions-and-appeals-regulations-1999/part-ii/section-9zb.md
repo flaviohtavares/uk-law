@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9ZB. Consideration of review before appeal[^key-bb0ebba0f13ca53555210d3aa3277aa2]
+## 9ZB. Consideration of review before appeal[^c-bb0ebba0f13ca53555210d3aa3277aa2]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0ebba0f13ca53555210d3aa3277aa2]: Textual amendment: Reg. 9ZB inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/6)
+[^c-bb0ebba0f13ca53555210d3aa3277aa2]: Textual amendment: Reg. 9ZB inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/6)

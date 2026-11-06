@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.1. Representation and support[^key-126425275c56ae5b0eb8520bc17c9b7c]
+## 4.1. Representation and support[^c-126425275c56ae5b0eb8520bc17c9b7c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-126425275c56ae5b0eb8520bc17c9b7c]: Commencement: Para. 4.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-126425275c56ae5b0eb8520bc17c9b7c]: Commencement: Para. 4.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23.3. Conduct of proof (affected by repeal, see note)[^key-37b5cc42517d6052ca6df3493febe17a][^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+## 23.3. Conduct of proof (affected by repeal, see note)[^c-37b5cc42517d6052ca6df3493febe17a][^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-A proof is to be taken continuously so far as possible, but the Appeal Sheriff may adjourn the hearing from time to time. *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+A proof is to be taken continuously so far as possible, but the Appeal Sheriff may adjourn the hearing from time to time. *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 ## Annotations
 
-[^key-37b5cc42517d6052ca6df3493febe17a]: Commencement: Rule 23.3 in force at 1.1.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2015/356/rule/1.1/2)
+[^c-37b5cc42517d6052ca6df3493febe17a]: Commencement: Rule 23.3 in force at 1.1.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2015/356/rule/1.1/2)
 
-[^key-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))
+[^c-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))

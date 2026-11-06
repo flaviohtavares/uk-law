@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Policing objectives: Secretary of State[^key-f824f692bcd89da72796fe611b25c9ea]
+## 51. Policing objectives: Secretary of State[^c-f824f692bcd89da72796fe611b25c9ea]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f824f692bcd89da72796fe611b25c9ea]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2003/20/section/51) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/hh)
+[^c-f824f692bcd89da72796fe611b25c9ea]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2003/20/section/51) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/hh)

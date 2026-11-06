@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Right of appeal[^key-aa6bea5cc5be3bd1450f8ab9a9f88fc2]
+## 83. Right of appeal[^c-aa6bea5cc5be3bd1450f8ab9a9f88fc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) to the Secretary of State against a decision of the Environment Agency;
 - (b) to the Welsh Ministers against a decision of the Natural Resources Body for Wales;
 - (c) to the Scottish Ministers against a decision of SEPA; and
-- (d) to the Planning Appeals Commission against a decision of the Department of Agriculture, Environment and Rural Affairs[^key-d047ddc67530bbe5db91c7142999dd6c].
+- (d) to the Planning Appeals Commission against a decision of the Department of Agriculture, Environment and Rural Affairs[^c-d047ddc67530bbe5db91c7142999dd6c].
 
 (2) For the purposes of paragraph (1), a decision means a decision—
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) to the Secretary of State against a decision of the Environment Agency;
 - (b) to the Welsh Ministers against a decision of the Natural Resources Body for Wales;
 - (c) to the Scottish Ministers against a decision of SEPA; and
-- (d) to the Planning Appeals Commission against a decision of the Department of Agriculture, Environment and Rural Affairs[^key-9eb51c5a6808815d7cf1525e9da0cdab].
+- (d) to the Planning Appeals Commission against a decision of the Department of Agriculture, Environment and Rural Affairs[^c-9eb51c5a6808815d7cf1525e9da0cdab].
 
 (4) For the purposes of paragraph (3), a decision means a decision—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aa6bea5cc5be3bd1450f8ab9a9f88fc2]: Commencement: Reg. 83 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-aa6bea5cc5be3bd1450f8ab9a9f88fc2]: Commencement: Reg. 83 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-d047ddc67530bbe5db91c7142999dd6c]: Textual amendment: Words in [reg. 83(1)(d)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/83/1/d) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [24](https://www.legislation.gov.uk/uksi/2018/1214/regulation/24)
+[^c-d047ddc67530bbe5db91c7142999dd6c]: Textual amendment: Words in [reg. 83(1)(d)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/83/1/d) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [24](https://www.legislation.gov.uk/uksi/2018/1214/regulation/24)
 
-[^key-9eb51c5a6808815d7cf1525e9da0cdab]: Textual amendment: Words in [reg. 83(3)(d)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/83/3/d) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [24](https://www.legislation.gov.uk/uksi/2018/1214/regulation/24)
+[^c-9eb51c5a6808815d7cf1525e9da0cdab]: Textual amendment: Words in [reg. 83(3)(d)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/83/3/d) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [24](https://www.legislation.gov.uk/uksi/2018/1214/regulation/24)

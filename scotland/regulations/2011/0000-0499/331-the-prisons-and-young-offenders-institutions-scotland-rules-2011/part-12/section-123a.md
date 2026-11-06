@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123A. Referral of complaints to the Internal Complaints Committee – coronavirus[^key-c2d24eaf4a6cb0002f6d5fa9277a4102]
+## 123A. Referral of complaints to the Internal Complaints Committee – coronavirus[^c-c2d24eaf4a6cb0002f6d5fa9277a4102]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2d24eaf4a6cb0002f6d5fa9277a4102]: Textual amendment: [Rule 123A](https://www.legislation.gov.uk/ssi/2011/331/rule/123A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(l)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/k)
+[^c-c2d24eaf4a6cb0002f6d5fa9277a4102]: Textual amendment: [Rule 123A](https://www.legislation.gov.uk/ssi/2011/331/rule/123A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(l)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/k)

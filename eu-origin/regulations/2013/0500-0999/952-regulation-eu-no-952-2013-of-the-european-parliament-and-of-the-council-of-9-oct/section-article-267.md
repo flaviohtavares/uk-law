@@ -22,13 +22,13 @@ summary: ''
 
 1. Goods to be taken out of the customs territory of the Union shall be subject to customs supervision and may be subject to customs controls. Where appropriate, the customs authorities may determine the route to be used, and the time-limit to be respected when goods are to be taken out of the customs territory of the Union.
 
-2. Subject to paragraph 2A, goods[^key-90ac540dc71b37f9bd8e6f72a2934a71] to be taken out of the customs territory of the Union shall be presented to customs on exit by one of the following persons:
+2. Subject to paragraph 2A, goods[^c-90ac540dc71b37f9bd8e6f72a2934a71] to be taken out of the customs territory of the Union shall be presented to customs on exit by one of the following persons:
 
 - (a) the person who takes the goods out of the customs territory of the Union;
 - (b) the person in whose name or on whose behalf the person who takes the goods out of the customs territory of the Union acts;
 - (c) the person who assumes responsibility for the carriage of the goods prior to their exit from the customs territory of the Union.
 
-(2A.)[^key-63f67593f589853c887d83a17efebffb] Paragraph 2 does not apply to any goods in respect of which the lodging of a pre-departure declaration is waived under Article 245 of Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing [Regulation (EU) No 952/2013](https://www.legislation.gov.uk/european/regulation/2013/0952) of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code.
+(2A.)[^c-63f67593f589853c887d83a17efebffb] Paragraph 2 does not apply to any goods in respect of which the lodging of a pre-departure declaration is waived under Article 245 of Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing [Regulation (EU) No 952/2013](https://www.legislation.gov.uk/european/regulation/2013/0952) of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code.
 
 3. Goods to be taken out of the customs territory of the Union shall be subject, as appropriate, to the following:
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90ac540dc71b37f9bd8e6f72a2934a71]: Textual amendment: Words in [Art. 267(2)](https://www.legislation.gov.uk/eur/2013/952/article/267) substituted (1.7.2022) by [The Customs (Safety and Security Procedures) Regulations 2022 (S.I. 2022/633)](https://www.legislation.gov.uk/uksi/2022/633), [regs. 1](https://www.legislation.gov.uk/uksi/2022/633/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/633/regulation/2/2)
+[^c-90ac540dc71b37f9bd8e6f72a2934a71]: Textual amendment: Words in [Art. 267(2)](https://www.legislation.gov.uk/eur/2013/952/article/267) substituted (1.7.2022) by [The Customs (Safety and Security Procedures) Regulations 2022 (S.I. 2022/633)](https://www.legislation.gov.uk/uksi/2022/633), [regs. 1](https://www.legislation.gov.uk/uksi/2022/633/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/633/regulation/2/2)
 
-[^key-63f67593f589853c887d83a17efebffb]: Textual amendment: [Art. 267(2A)](https://www.legislation.gov.uk/eur/2013/952/article/267) inserted (1.7.2022) by [The Customs (Safety and Security Procedures) Regulations 2022 (S.I. 2022/633)](https://www.legislation.gov.uk/uksi/2022/633), [regs. 1](https://www.legislation.gov.uk/uksi/2022/633/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/633/regulation/2/3)
+[^c-63f67593f589853c887d83a17efebffb]: Textual amendment: [Art. 267(2A)](https://www.legislation.gov.uk/eur/2013/952/article/267) inserted (1.7.2022) by [The Customs (Safety and Security Procedures) Regulations 2022 (S.I. 2022/633)](https://www.legislation.gov.uk/uksi/2022/633), [regs. 1](https://www.legislation.gov.uk/uksi/2022/633/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/633/regulation/2/3)

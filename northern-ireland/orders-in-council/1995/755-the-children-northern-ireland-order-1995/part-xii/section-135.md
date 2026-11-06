@@ -31,10 +31,10 @@ except in accordance with any statutory provision (including this Part and regul
 
 (2) No child shall be employed in any occupation likely to be injurious to his life, limb, health or education, regard being had to his physical condition.
 
-(3) If the Education Authority[^key-bbc27a7bde846b0d626c0b061fca8718] serves on the employer of any child a copy of a certificate signed by a medical practitioner that any specified occupation is likely to be injurious to the life, limb, health or education of the child, the certificate shall be admissible as evidence in any subsequent proceedings against the employer in respect of the employment of the child.
+(3) If the Education Authority[^c-bbc27a7bde846b0d626c0b061fca8718] serves on the employer of any child a copy of a certificate signed by a medical practitioner that any specified occupation is likely to be injurious to the life, limb, health or education of the child, the certificate shall be admissible as evidence in any subsequent proceedings against the employer in respect of the employment of the child.
 
 (4) No child shall engage in or be employed in street trading.
 
 ## Annotations
 
-[^key-bbc27a7bde846b0d626c0b061fca8718]: Textual amendment: Words in [art. 135(3)](https://www.legislation.gov.uk/nisi/1995/755/article/135/3) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(8)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/8) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-bbc27a7bde846b0d626c0b061fca8718]: Textual amendment: Words in [art. 135(3)](https://www.legislation.gov.uk/nisi/1995/755/article/135/3) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(8)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/8) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

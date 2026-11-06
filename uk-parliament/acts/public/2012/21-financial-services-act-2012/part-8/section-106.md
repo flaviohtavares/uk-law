@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Amendments relating to new regulators[^key-342ad34a8cc778a3705606a99e94dc27]
+## 106. Amendments relating to new regulators[^c-342ad34a8cc778a3705606a99e94dc27]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 17 contains amendments of the Banking Act 2009 related to the provision
 
 ## Annotations
 
-[^key-342ad34a8cc778a3705606a99e94dc27]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2012/21/section/106) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-342ad34a8cc778a3705606a99e94dc27]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2012/21/section/106) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

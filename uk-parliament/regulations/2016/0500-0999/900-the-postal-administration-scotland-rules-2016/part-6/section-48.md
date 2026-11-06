@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Expenses of the postal administration[^key-92b10eebba5104707a8703c7b5c8fc04]
+## 48. Expenses of the postal administration[^c-92b10eebba5104707a8703c7b5c8fc04]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) any amount payable to a person employed or authorised, under Part 3 of these Rules, to assist in the preparation of a statement of affairs or statement of concurrence;
 - (e) any allowance made, by order of the court, towards expenses on an application for release from the obligation to submit a statement of affairs or statement of concurrence;
 - (f) the remuneration or emoluments of any person who has been employed by the postal administrator to perform any services for the company, as required or authorised under the 1986 Act, the 2011 Act, Schedule B1 to the 1986 Act or these Rules;
-- (g) the remuneration of the postal administrator determined under Rule 51[^key-68b6679b9d6511e89431bb8c3e0f1860]; and
+- (g) the remuneration of the postal administrator determined under Rule 51[^c-68b6679b9d6511e89431bb8c3e0f1860]; and
 - (h) the amount of any corporation tax on chargeable gains accruing on the realisation of any asset of the company (without regard to whether the realisation is effected by the postal administrator, a secured creditor, or otherwise).
 
 (2) Nothing in this Rule applies to or affects the power of any court in proceedings by or against the company, to order expenses to be paid by the company or the postal administrator, nor does it affect the rights of any person to whom such expenses are ordered to be paid.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92b10eebba5104707a8703c7b5c8fc04]: Commencement: Rule 48 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-92b10eebba5104707a8703c7b5c8fc04]: Commencement: Rule 48 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-68b6679b9d6511e89431bb8c3e0f1860]: Textual amendment: Words in [rule 48(1)(g)](https://www.legislation.gov.uk/uksi/2016/900/rule/48/1/g) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-68b6679b9d6511e89431bb8c3e0f1860]: Textual amendment: Words in [rule 48(1)(g)](https://www.legislation.gov.uk/uksi/2016/900/rule/48/1/g) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

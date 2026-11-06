@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Public safety at premises or events[^key-ed0bf6f034f0d645ac5f6543f892f063][^key-b909ce56d899569b1a5431c309ee66de][^key-68492e91f7332cca5a0ab1be407661fe][^key-bf5af943e75ae723cdd54d2d3597b53a]
+## 67. Public safety at premises or events[^c-ed0bf6f034f0d645ac5f6543f892f063][^c-b909ce56d899569b1a5431c309ee66de][^c-68492e91f7332cca5a0ab1be407661fe][^c-bf5af943e75ae723cdd54d2d3597b53a]
 
 *Extent: S*
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ed0bf6f034f0d645ac5f6543f892f063]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2016/1/section/67) in force at 11.5.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 2(c)](https://www.legislation.gov.uk/ssi/2017/99/article/2/c) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-ed0bf6f034f0d645ac5f6543f892f063]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2016/1/section/67) in force at 11.5.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 2(c)](https://www.legislation.gov.uk/ssi/2017/99/article/2/c) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
 
-[^key-b909ce56d899569b1a5431c309ee66de]: Modification: Pt. 2 applied (with modifications) by 2003 c. 20, s. 31A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-b909ce56d899569b1a5431c309ee66de]: Modification: Pt. 2 applied (with modifications) by 2003 c. 20, s. 31A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
 
-[^key-68492e91f7332cca5a0ab1be407661fe]: Modification: Pt. 2 applied (with modifications) by 2004 c. 20, s. 56A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-68492e91f7332cca5a0ab1be407661fe]: Modification: Pt. 2 applied (with modifications) by 2004 c. 20, s. 56A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
 
-[^key-bf5af943e75ae723cdd54d2d3597b53a]: Modification: Pt. 2 applied (with modifications) by 1987 c. 4, s. 2D (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-bf5af943e75ae723cdd54d2d3597b53a]: Modification: Pt. 2 applied (with modifications) by 1987 c. 4, s. 2D (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))

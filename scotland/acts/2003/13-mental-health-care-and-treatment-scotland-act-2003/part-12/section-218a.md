@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 218A. Transfer of patient from specified hospital unit[^key-472035b4faa99d60158bcdeb15e8bcf5]
+## 218A. Transfer of patient from specified hospital unit[^c-472035b4faa99d60158bcdeb15e8bcf5]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-472035b4faa99d60158bcdeb15e8bcf5]: Textual amendment: [S. 218A](https://www.legislation.gov.uk/asp/2003/13/section/218A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 48(2)](https://www.legislation.gov.uk/asp/2015/9/section/48/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-472035b4faa99d60158bcdeb15e8bcf5]: Textual amendment: [S. 218A](https://www.legislation.gov.uk/asp/2003/13/section/218A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 48(2)](https://www.legislation.gov.uk/asp/2015/9/section/48/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

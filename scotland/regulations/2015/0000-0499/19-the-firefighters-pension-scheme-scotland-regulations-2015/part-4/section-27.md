@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Determination of “the assumed age addition”[^key-7854624d9f66909c51130d4bc048c4da]
+## 27. Determination of “the assumed age addition”[^c-7854624d9f66909c51130d4bc048c4da]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7854624d9f66909c51130d4bc048c4da]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2015/19/regulation/27) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-7854624d9f66909c51130d4bc048c4da]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2015/19/regulation/27) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

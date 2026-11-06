@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) (Amendment) Regulations 2012 (revoked)[^key-b079b9c61d2a62977da3884b395fdfb8]
+Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) (Amendment) Regulations 2012 (revoked)[^c-b079b9c61d2a62977da3884b395fdfb8]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st April 2012
 
-[^key-b079b9c61d2a62977da3884b395fdfb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b079b9c61d2a62977da3884b395fdfb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b079b9c61d2a62977da3884b395fdfb8]
+## 1. Citation, commencement and interpretation[^c-b079b9c61d2a62977da3884b395fdfb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulations 14 and 15 of the Principal Regulations[^key-b079b9c61d2a62977da3884b395fdfb8]
+## 2. Amendment of regulations 14 and 15 of the Principal Regulations[^c-b079b9c61d2a62977da3884b395fdfb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 17 of the Principal Regulations[^key-b079b9c61d2a62977da3884b395fdfb8]
+## 3. Amendment of regulation 17 of the Principal Regulations[^c-b079b9c61d2a62977da3884b395fdfb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 18 of the Principal Regulations[^key-b079b9c61d2a62977da3884b395fdfb8]
+## 4. Amendment of regulation 18 of the Principal Regulations[^c-b079b9c61d2a62977da3884b395fdfb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b079b9c61d2a62977da3884b395fdfb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b079b9c61d2a62977da3884b395fdfb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b079b9c61d2a62977da3884b395fdfb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b079b9c61d2a62977da3884b395fdfb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b079b9c61d2a62977da3884b395fdfb8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/511) revoked (1.4.2015) by [The Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc.) Regulations 2015 (S.I. 2015/551)](https://www.legislation.gov.uk/uksi/2015/551), [Sch.](https://www.legislation.gov.uk/uksi/2015/551/schedule)
+[^c-b079b9c61d2a62977da3884b395fdfb8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/511) revoked (1.4.2015) by [The Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc.) Regulations 2015 (S.I. 2015/551)](https://www.legislation.gov.uk/uksi/2015/551), [Sch.](https://www.legislation.gov.uk/uksi/2015/551/schedule)

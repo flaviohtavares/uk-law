@@ -52,7 +52,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation, commencement and interpretation[^key-70da1cb1c7eadef652e9568ce8903912]
+## 1. Citation, commencement and interpretation[^c-70da1cb1c7eadef652e9568ce8903912]
 
 (1) These Regulations may be cited as the Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019.
 
@@ -60,7 +60,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (3) In these Regulations, “**the NIS Regulations**” means the Network and Information Systems Regulations 2018 [^c23668821].
 
-## 2. Amendments of retained EU law[^key-75fe9953e9de5a8b26f55d5407db37fc]
+## 2. Amendments of retained EU law[^c-75fe9953e9de5a8b26f55d5407db37fc]
 
 In the Schedule—
 
@@ -79,20 +79,20 @@ Regulation 2
 
 ### PART 1 — Domestic legislation
 
-**1.**[^key-f381a29832f405d27e4ebe9b44f1e690] The NIS Regulations are amended as follows.
+**1.**[^c-f381a29832f405d27e4ebe9b44f1e690] The NIS Regulations are amended as follows.
 
-**2.**[^key-184e76f96d8471031031b50b0ba9c971] In regulation 1, after the definition of “the Commission”, insert—
+**2.**[^c-184e76f96d8471031031b50b0ba9c971] In regulation 1, after the definition of “the Commission”, insert—
 
 > “**EU Regulation 2018/151**” means Commission Implementing Regulation (EU) 2018/151 of 30 January 2018 laying down rules for application of Directive (EU) 2016/1148 of the European Parliament and of the Council as regards further specification of the elements to be taken into account by digital service providers for managing the risks posed to the security of network and information systems and of the parameters for determining whether an incident has a substantial impact.
 
 .
 
-**3.**[^key-a042fe0249a4fb46c17c162978ac28b1] In regulation 2—
+**3.**[^c-a042fe0249a4fb46c17c162978ac28b1] In regulation 2—
 
 - (a) omit paragraph (6);
 - (b) in paragraph (7), omit “or communicating it to the Commission”.
 
-**4.**[^key-e2e27d763654f50eee9dc5f90f5bf7fe] In regulation 3(3)—
+**4.**[^c-e2e27d763654f50eee9dc5f90f5bf7fe] In regulation 3(3)—
 
 - (a) in subparagraph (c), omit “, including an indication of the importance of each operator in relation to the subsector in relation to which it provides an essential service”;
 - (b) omit subparagraph (g)(ii);
@@ -102,7 +102,7 @@ Regulation 2
 
   .
 
-**5.**[^key-beb1b0f672ad97e937c04db2128613f8] In regulation 4—
+**5.**[^c-beb1b0f672ad97e937c04db2128613f8] In regulation 4—
 
 - (a) for paragraph (2), substitute—
 
@@ -122,7 +122,7 @@ Regulation 2
   - (ii) in subparagraph (b), omit “, indicating their importance in relation to that sector”;
 - (d) omit paragraphs (4) and (5).
 
-**6.**[^key-6cb983d8070b2f38807a00377ad66fce] In regulation 5—
+**6.**[^c-6cb983d8070b2f38807a00377ad66fce] In regulation 5—
 
 - (a) in paragraph (2), omit subparagraph (e);
 - (b) for paragraph (3) substitute—
@@ -131,30 +131,30 @@ Regulation 2
 
   .
 
-**7.**[^key-b212a9277c49b1b1588181d1cd77c7e8] In regulation 6—
+**7.**[^c-b212a9277c49b1b1588181d1cd77c7e8] In regulation 6—
 
 - (a) in paragraph (1), for “the Commission and the relevant authorities in other Member States”, substitute “ and public authorities in the EU ”;
 - (b) in paragraph (2), for “the Commission or the relevant authorities in other Member States” substitute “ a public authority in the EU ”.
 
-**8.**[^key-abb2b4c6fc375db0fc97c8352e4fcaac] Omit regulation 8(7).
+**8.**[^c-abb2b4c6fc375db0fc97c8352e4fcaac] Omit regulation 8(7).
 
-**9.**[^key-86173c0eaeea6d483eea35b6eebfc1fd] Omit regulation 9(5).
+**9.**[^c-86173c0eaeea6d483eea35b6eebfc1fd] Omit regulation 9(5).
 
-**10.**[^key-94b59e63c149fec7d0b8a88ad375d42b] For regulation 11(6) substitute—
+**10.**[^c-94b59e63c149fec7d0b8a88ad375d42b] For regulation 11(6) substitute—
 
 > (6) After receipt of the NIS incident information under paragraph (5)(b), and based on that information, the CSIRT may inform the relevant authorities in a Member State if the CSIRT considers that the incident has a significant impact on the continuity of an essential service provision in that Member State.
 
 .
 
-**11.**[^key-0768f631adadb30f276fd187c60f7d8e] In regulation 12—
+**11.**[^c-0768f631adadb30f276fd187c60f7d8e] In regulation 12—
 
 - (a) in paragraph (1), for “European Union” substitute “ United Kingdom ”;
-- (b) omit paragraph (10)[^key-3a9649ef2765a4c495104cdc0bd635cc];
+- (b) omit paragraph (10)[^c-3a9649ef2765a4c495104cdc0bd635cc];
 - (c) in paragraph (11), for “paragraph (10)”, substitute “ these Regulations ”;
 - (d) in paragraph (14), in the opening words, for “another Member State” substitute “ a Member State of the EU ”;
 - (e) omit paragraph (17).
 
-**12.**[^key-4c50417ca28f6822f7a0cc74d1102728] For regulation 13 substitute—
+**12.**[^c-4c50417ca28f6822f7a0cc74d1102728] For regulation 13 substitute—
 
 > **13. Co-operation with the European Union**
 >
@@ -162,14 +162,14 @@ Regulation 2
 
 .
 
-**13.**[^key-25ba13b614f38634233da0eec3d9e806] In regulation 25—
+**13.**[^c-25ba13b614f38634233da0eec3d9e806] In regulation 25—
 
 - (a) in paragraph (1)(a), after “these Regulations” insert “ and in EU Regulation 2018/151 ”;
 - (b) omit paragraph (3).
 
 ### PART 2 — Retained direct EU legislation
 
-#### 14. Commission Implementing Regulation (EU) 2018/151[^key-1b9263b5c6b1f59d9cf48fc4a2d669aa]
+#### 14. Commission Implementing Regulation (EU) 2018/151[^c-1b9263b5c6b1f59d9cf48fc4a2d669aa]
 
 (1) Commission Implementing Regulation (EU) 2018/151 of 30 January 2018 laying down rules for application of Directive (EU) 2016/1148 of the European Parliament and of the Council as regards further specification of the elements to be taken into account by digital service providers for managing the risks posed to the security of network and information systems and of the parameters for determining whether an incident has a substantial impact is amended as follows.
 
@@ -220,11 +220,11 @@ Regulation 2
 
 (8) After Article 5, omit the words from “This Regulation” to “Member States.”.
 
-#### 15. Regulation (EU) No 526/2013[^key-1c346500cc957256cd80188b9846ee7e]
+#### 15. Regulation (EU) No 526/2013[^c-1c346500cc957256cd80188b9846ee7e]
 
 Regulation (EU) No 526/2013 of the European Parliament and of the Council of 21 May 2013 concerning the European Union Agency for Network and Information Security (ENISA) and repealing Regulation [(EC) No 460/2004](https://www.legislation.gov.uk/european/regulation/2004/0460) is revoked.
 
-#### 16. Revocation of provision of EEA agreement[^key-7b73f171389179c22b841e3da006f7fe]
+#### 16. Revocation of provision of EEA agreement[^c-7b73f171389179c22b841e3da006f7fe]
 
 In Annex 11 of the EEA Agreement, so far as it forms part of domestic law on and after exit day by virtue of section 3(1) of the European Union (Withdrawal) Act 2018, point 5cp is revoked insofar as it is retained EU law.
 
@@ -252,42 +252,42 @@ The EU instruments referred to above are published at http://eur-lex.europa.eu.
 
 [^c23668811]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-70da1cb1c7eadef652e9568ce8903912]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/653/regulation/1) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-70da1cb1c7eadef652e9568ce8903912]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/653/regulation/1) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
 [^c23668821]: Marginal citation: [S.I. 2018/506](https://www.legislation.gov.uk/uksi/2018/506). This instrument was amended by [S.I. 2018/629](https://www.legislation.gov.uk/uksi/2018/629).
 
-[^key-75fe9953e9de5a8b26f55d5407db37fc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/653/regulation/2) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-75fe9953e9de5a8b26f55d5407db37fc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/653/regulation/2) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-f381a29832f405d27e4ebe9b44f1e690]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/1) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-f381a29832f405d27e4ebe9b44f1e690]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/1) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-184e76f96d8471031031b50b0ba9c971]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/2) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-184e76f96d8471031031b50b0ba9c971]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/2) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-a042fe0249a4fb46c17c162978ac28b1]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/3) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-a042fe0249a4fb46c17c162978ac28b1]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/3) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-e2e27d763654f50eee9dc5f90f5bf7fe]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/4) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-e2e27d763654f50eee9dc5f90f5bf7fe]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/4) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-beb1b0f672ad97e937c04db2128613f8]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/5) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-beb1b0f672ad97e937c04db2128613f8]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/5) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-6cb983d8070b2f38807a00377ad66fce]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/6) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-6cb983d8070b2f38807a00377ad66fce]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/6) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-b212a9277c49b1b1588181d1cd77c7e8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/7) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-b212a9277c49b1b1588181d1cd77c7e8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/7) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-abb2b4c6fc375db0fc97c8352e4fcaac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/8) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-abb2b4c6fc375db0fc97c8352e4fcaac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/8) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-86173c0eaeea6d483eea35b6eebfc1fd]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/9) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-86173c0eaeea6d483eea35b6eebfc1fd]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/9) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-94b59e63c149fec7d0b8a88ad375d42b]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/10) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-94b59e63c149fec7d0b8a88ad375d42b]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/10) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-0768f631adadb30f276fd187c60f7d8e]: Commencement: Sch. para. 11 in force at 20.1.2021, see reg. 1(2)
+[^c-0768f631adadb30f276fd187c60f7d8e]: Commencement: Sch. para. 11 in force at 20.1.2021, see reg. 1(2)
 
-[^key-3a9649ef2765a4c495104cdc0bd635cc]: Textual amendment: Words in [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/11/b) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1444)](https://www.legislation.gov.uk/uksi/2019/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1444/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1444/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a9649ef2765a4c495104cdc0bd635cc]: Textual amendment: Words in [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/11/b) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1444)](https://www.legislation.gov.uk/uksi/2019/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1444/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1444/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c50417ca28f6822f7a0cc74d1102728]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/12) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-4c50417ca28f6822f7a0cc74d1102728]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/12) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-25ba13b614f38634233da0eec3d9e806]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/13) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-25ba13b614f38634233da0eec3d9e806]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/13) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-1b9263b5c6b1f59d9cf48fc4a2d669aa]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/14) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-1b9263b5c6b1f59d9cf48fc4a2d669aa]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/14) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-1c346500cc957256cd80188b9846ee7e]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/15) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-1c346500cc957256cd80188b9846ee7e]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/15) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
 
-[^key-7b73f171389179c22b841e3da006f7fe]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/16) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)
+[^c-7b73f171389179c22b841e3da006f7fe]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/16) in force at 20.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2)

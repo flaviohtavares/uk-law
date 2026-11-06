@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of defects in [SI 2009/33
 
 Agriculture, England
 
-The Agriculture (Cross compliance) (No. 2) Regulations 2009 (Amendment) Regulations 2010 (revoked)[^key-b8dac28cf168e5cb875d584ed7b3bd74]
+The Agriculture (Cross compliance) (No. 2) Regulations 2009 (Amendment) Regulations 2010 (revoked)[^c-b8dac28cf168e5cb875d584ed7b3bd74]
 
 Made
 
@@ -48,31 +48,31 @@ Coming into force
 
 1st January 2011
 
-[^key-b8dac28cf168e5cb875d584ed7b3bd74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8dac28cf168e5cb875d584ed7b3bd74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b8dac28cf168e5cb875d584ed7b3bd74]
+## 1. Citation, commencement and interpretation[^c-b8dac28cf168e5cb875d584ed7b3bd74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Agriculture (Cross compliance) (No. 2) Regulations 2009[^key-b8dac28cf168e5cb875d584ed7b3bd74]
+## 2. Amendment of the Agriculture (Cross compliance) (No. 2) Regulations 2009[^c-b8dac28cf168e5cb875d584ed7b3bd74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1[^key-b8dac28cf168e5cb875d584ed7b3bd74]
+## 3. Amendment of Schedule 1[^c-b8dac28cf168e5cb875d584ed7b3bd74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 2[^key-b8dac28cf168e5cb875d584ed7b3bd74]
+## 4. Amendment of Schedule 2[^c-b8dac28cf168e5cb875d584ed7b3bd74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8dac28cf168e5cb875d584ed7b3bd74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8dac28cf168e5cb875d584ed7b3bd74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b8dac28cf168e5cb875d584ed7b3bd74]EXPLANATORY NOTE
+[^c-b8dac28cf168e5cb875d584ed7b3bd74]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -80,10 +80,10 @@ These Regulations amend the Agriculture (Cross compliance) (No. 2) Regulations 2
 
 They amend the following provisions of Schedule 1 to the 2009 Regulations—
 
-- (a)[^key-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b8dac28cf168e5cb875d584ed7b3bd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 They amend Schedule 2 to the 2009 Regulations to extend the scope of the circumstances in which action will not amount to non-compliance.
 
@@ -91,4 +91,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-b8dac28cf168e5cb875d584ed7b3bd74]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1, [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))
+[^c-b8dac28cf168e5cb875d584ed7b3bd74]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1, [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))

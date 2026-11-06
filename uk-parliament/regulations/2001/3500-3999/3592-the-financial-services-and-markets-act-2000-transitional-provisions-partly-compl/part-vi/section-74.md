@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Penalty imposed on registered person or individual[^key-b1e327b86c2dabaa1f89d51fdd6eb08b]
+## 74. Penalty imposed on registered person or individual[^c-b1e327b86c2dabaa1f89d51fdd6eb08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e327b86c2dabaa1f89d51fdd6eb08b]: Commencement: Art. 74 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-b1e327b86c2dabaa1f89d51fdd6eb08b]: Commencement: Art. 74 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -98,7 +98,7 @@ This Regulation lays down rules on the traceability of batches of:
 - ((i)) sprouts;
 - ((ii)) seeds intended for the production of sprouts.
 
-This Regulation shall not apply to sprouts after they have undergone a treatment which eliminates microbiological hazards, compatible with assimilated[^key-f8ea56f6b3cecdd91758e6a56871a010][^key-c13f868dce1492a706d013e2bd3fed0c] law.
+This Regulation shall not apply to sprouts after they have undergone a treatment which eliminates microbiological hazards, compatible with assimilated[^c-f8ea56f6b3cecdd91758e6a56871a010][^c-c13f868dce1492a706d013e2bd3fed0c] law.
 
 ## Article 2. Definitions
 
@@ -107,7 +107,7 @@ For the purposes of this Regulation, the following definitions apply:
 - ((a)) ‘sprouts’ means the product obtained from the germination of seeds and their development in water or another medium, harvested before the development of true leaves and which is intended to be eaten whole, including the seed;
 - ((b)) ‘batch’ means a quantity of sprouts or seeds intended for the production of sprouts, with the same taxonomic name, which is dispatched from the same establishment to the same destination on the same day. One or more batches can make up a consignment. However, seeds with a different taxonomic name, which are mixed in the same packaging and intended to be germinated together and sprouts thereof are also considered as one batch.
 
-In addition the definition of ‘consignment’ in Article 3 of Regulation (EU) No. 2017/625[^key-0ac52207adf3901ba7c51fb4322d30c9] shall apply for the purpose of this Regulation.
+In addition the definition of ‘consignment’ in Article 3 of Regulation (EU) No. 2017/625[^c-0ac52207adf3901ba7c51fb4322d30c9] shall apply for the purpose of this Regulation.
 
 ## Article 3. Traceability requirements
 
@@ -131,7 +131,7 @@ In addition the definition of ‘consignment’ in Article 3 of Regulation (EU) 
 
 ## Article 4. Traceability requirements for imported seeds and sprouts
 
-1. Consignments of seeds intended for the production of sprouts and consignments of sprouts shall be accompanied, when imported into Great Britain[^key-9ac545580f0c64a645e6e307c850ceba], by a certificate as provided in Article 3 of Regulation (EU) No 211/2013.
+1. Consignments of seeds intended for the production of sprouts and consignments of sprouts shall be accompanied, when imported into Great Britain[^c-9ac545580f0c64a645e6e307c850ceba], by a certificate as provided in Article 3 of Regulation (EU) No 211/2013.
 
 2. The food business operator importing seeds or sprouts shall keep the certificate referred to in paragraph 1 for a sufficient time after the sprouts can be assumed to have been consumed.
 
@@ -145,7 +145,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 1 July 2013.
 
-[^key-a4dccfafb33dba1d12b297a7f6852ecf]...
+[^c-a4dccfafb33dba1d12b297a7f6852ecf]...
 
 Done at Brussels, 11 March 2013.
 
@@ -161,12 +161,12 @@ José Manuel Barroso
 
 [^f00002]: Footnote: *EFSA Journal* 2011; 9(11):2424.
 
-[^key-f8ea56f6b3cecdd91758e6a56871a010]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/208/article/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 21](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/21)
+[^c-f8ea56f6b3cecdd91758e6a56871a010]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/208/article/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 21](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/21)
 
-[^key-c13f868dce1492a706d013e2bd3fed0c]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2013/208/article/1) substituted (31.12.2020) by [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/464/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c13f868dce1492a706d013e2bd3fed0c]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2013/208/article/1) substituted (31.12.2020) by [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/464/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0ac52207adf3901ba7c51fb4322d30c9]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2013/208/article/2) substituted (31.12.2020) by [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [3A](https://www.legislation.gov.uk/uksi/2019/464/regulation/3A) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ac52207adf3901ba7c51fb4322d30c9]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2013/208/article/2) substituted (31.12.2020) by [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [3A](https://www.legislation.gov.uk/uksi/2019/464/regulation/3A) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ac545580f0c64a645e6e307c850ceba]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2013/208/article/4) substituted (31.12.2020) by [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/464/regulation/4) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/7/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ac545580f0c64a645e6e307c850ceba]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2013/208/article/4) substituted (31.12.2020) by [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/464/regulation/4) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/7/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4dccfafb33dba1d12b297a7f6852ecf]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/208/signature) omitted (31.12.2020) by virtue of [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/464/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4dccfafb33dba1d12b297a7f6852ecf]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/208/signature) omitted (31.12.2020) by virtue of [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/464/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

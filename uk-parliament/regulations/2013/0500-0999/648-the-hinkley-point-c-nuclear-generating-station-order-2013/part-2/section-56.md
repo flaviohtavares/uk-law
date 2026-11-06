@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Further powers as to works and extinguishment of rights[^key-67bb78fe785fbc98cd8d7b73ea8132b7]
+## 56. Further powers as to works and extinguishment of rights[^c-67bb78fe785fbc98cd8d7b73ea8132b7]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ so much of the foreshore and bed of the sea as is situated within the limits of 
 
 ## Annotations
 
-[^key-67bb78fe785fbc98cd8d7b73ea8132b7]: Commencement: Art. 56 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-67bb78fe785fbc98cd8d7b73ea8132b7]: Commencement: Art. 56 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

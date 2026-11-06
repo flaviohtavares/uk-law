@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Designation of new town areas and establishment of corporations: procedure[^key-4632d74136c5b1dd62e36107e696df87]
+## 169. Designation of new town areas and establishment of corporations: procedure[^c-4632d74136c5b1dd62e36107e696df87]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4632d74136c5b1dd62e36107e696df87]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2016/22/section/169) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/g)
+[^c-4632d74136c5b1dd62e36107e696df87]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2016/22/section/169) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/g)

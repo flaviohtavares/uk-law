@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Household packaging waste[^key-888c705f12cef658fbf022c55549df5b]
+## 9. Household packaging waste[^c-888c705f12cef658fbf022c55549df5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-888c705f12cef658fbf022c55549df5b]: Commencement: Reg. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-888c705f12cef658fbf022c55549df5b]: Commencement: Reg. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778).
 

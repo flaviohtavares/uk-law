@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if a person makes a claim which, in the Treasury's opinion, is a financial claim that concerns an Exchequer account.
 
-(2)[^key-34dc7640ea2994bbd0965d82667c605a] The Treasury may pay money from any Exchequer account—
+(2)[^c-34dc7640ea2994bbd0965d82667c605a] The Treasury may pay money from any Exchequer account—
 
 - (a) to satisfy the claim (in whole or in part), or
 - (b) to enable the claim to be satisfied (in whole or in part) from another government account.
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34dc7640ea2994bbd0965d82667c605a]: Modification: [S. 158(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/158/2) modified (29.12.2022) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) Order 2022 (S.I. 2022/1396)](https://www.legislation.gov.uk/uksi/2022/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1), [19(1)](https://www.legislation.gov.uk/uksi/2022/1396/article/19/1) (with [art. 32](https://www.legislation.gov.uk/uksi/2022/1396/article/32), [Sch. 10 paras. 26(2)](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/26/2), [68](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/68))
+[^c-34dc7640ea2994bbd0965d82667c605a]: Modification: [S. 158(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/158/2) modified (29.12.2022) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) Order 2022 (S.I. 2022/1396)](https://www.legislation.gov.uk/uksi/2022/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1), [19(1)](https://www.legislation.gov.uk/uksi/2022/1396/article/19/1) (with [art. 32](https://www.legislation.gov.uk/uksi/2022/1396/article/32), [Sch. 10 paras. 26(2)](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/26/2), [68](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/68))

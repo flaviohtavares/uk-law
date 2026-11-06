@@ -94,7 +94,7 @@ Section 76(1).
 
 #### Environmental Protection Act 1990 (c. 43)
 
-**8.**[^key-90125513eb6df30e63dbfbdd43002840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-90125513eb6df30e63dbfbdd43002840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Water Industry Act 1991 (c. 56)
 
@@ -129,6 +129,6 @@ Section 76(1).
 
 [^c1057207]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-90125513eb6df30e63dbfbdd43002840]: Textual amendment: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/10/paragraph/8) repealed (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
+[^c-90125513eb6df30e63dbfbdd43002840]: Textual amendment: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/10/paragraph/8) repealed (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
 
 [^c1057208]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).

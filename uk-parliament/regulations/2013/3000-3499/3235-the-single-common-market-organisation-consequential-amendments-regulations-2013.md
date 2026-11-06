@@ -58,7 +58,7 @@ These Regulations may be cited as the Single Common Market Organisation (Consequ
 
 ## PART 2 — AMENDMENTS TO REGULATIONS WHICH APPLY TO ENGLAND, WALES, SCOTLAND OR NORTHERN IRELAND
 
-### 2. Amendments to the Beef and Pig Carcase Classification (England) Regulations 2010[^key-9dc760f5dd5dfad3ec353776b501645e]
+### 2. Amendments to the Beef and Pig Carcase Classification (England) Regulations 2010[^c-9dc760f5dd5dfad3ec353776b501645e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -162,7 +162,7 @@ These Regulations may be cited as the Single Common Market Organisation (Consequ
   - (iv) in relation to the entry for Article 30(3) in column 2 omit “point IV(3) of Part A of Annex XIV”;
 - (c) in column 2 of the table in Schedule 3 (Community salmonella related controls on eggs in shell for consumption contravention of which is an offence) for “Articles 113(3) and 116 of, and Part A of Annex XIV to, the Single CMO Regulation” substitute “ Article 74 and Part VI of Annex VII to Regulation (EU) 2013 ”.
 
-### 6. Amendments to the Food Labelling Regulations 1996[^key-6d7d9c592fa8709b76645759fea6cb85]
+### 6. Amendments to the Food Labelling Regulations 1996[^c-6d7d9c592fa8709b76645759fea6cb85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -189,7 +189,7 @@ In Part 2 of the Schedule to the Legislative and Regulatory Reform (Regulatory F
 
 (3) In regulation 2(3) (interpretation) for “Council Regulation 1234/2007” substitute “ Regulation (EU) 2013 ”.
 
-### 9. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008[^key-ad2a4d4eeb45e0b7b63612d1e3dd81ce]
+### 9. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008[^c-ad2a4d4eeb45e0b7b63612d1e3dd81ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -292,7 +292,7 @@ In Part 2 of the Schedule to the Legislative and Regulatory Reform (Regulatory F
 
 (2) In regulation 2(1) (interpretation), in the definition of “milk” for “Annex XIII to Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation)” substitute “ Part IV of Annex VII to and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234); ”.
 
-### 15. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) (Scotland) Regulations 2001[^key-06c7bd8afd16a8201a24dedbe9cc7e3c]
+### 15. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) (Scotland) Regulations 2001[^c-06c7bd8afd16a8201a24dedbe9cc7e3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -577,7 +577,7 @@ The following Regulations set out in Part 3, which apply in Scotland only, are a
 
 [^c21974541]: Marginal citation: O.J. L 347, 20.12.2013.
 
-[^key-9dc760f5dd5dfad3ec353776b501645e]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3235/regulation/2) revoked (3.12.2018) by [The Carcase Classification and Price Reporting (England) Regulations 2018 (S.I. 2018/1164)](https://www.legislation.gov.uk/uksi/2018/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1164/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/5/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/1164/regulation/3), [7](https://www.legislation.gov.uk/uksi/2018/1164/regulation/7), [13](https://www.legislation.gov.uk/uksi/2018/1164/regulation/13))
+[^c-9dc760f5dd5dfad3ec353776b501645e]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3235/regulation/2) revoked (3.12.2018) by [The Carcase Classification and Price Reporting (England) Regulations 2018 (S.I. 2018/1164)](https://www.legislation.gov.uk/uksi/2018/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1164/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/5/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/1164/regulation/3), [7](https://www.legislation.gov.uk/uksi/2018/1164/regulation/7), [13](https://www.legislation.gov.uk/uksi/2018/1164/regulation/13))
 
 [^c21974561]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2010/983; as amended by 2012/2897.
 
@@ -585,13 +585,13 @@ The following Regulations set out in Part 3, which apply in Scotland only, are a
 
 [^c21974581]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2009/2163; as amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897).
 
-[^key-6d7d9c592fa8709b76645759fea6cb85]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3235/regulation/6) revoked (13.12.2018) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/2) and (S.) (13.12.2018) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(4)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/4), [sch. 4 Pt. 2](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/2)
+[^c-6d7d9c592fa8709b76645759fea6cb85]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3235/regulation/6) revoked (13.12.2018) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/2) and (S.) (13.12.2018) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(4)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/4), [sch. 4 Pt. 2](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/2)
 
 [^c21974611]: Marginal citation: SI 2007/3544; as relevantly amended by 2009/2981.
 
 [^c21974621]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2009/1361; as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2011/2587.
 
-[^key-ad2a4d4eeb45e0b7b63612d1e3dd81ce]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/3235/regulation/9) revoked (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2))
+[^c-ad2a4d4eeb45e0b7b63612d1e3dd81ce]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/3235/regulation/9) revoked (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2))
 
 [^c21974641]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2011/452; as amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897).
 
@@ -603,7 +603,7 @@ The following Regulations set out in Part 3, which apply in Scotland only, are a
 
 [^c21974681]: Marginal citation: [S.S.I. 1990/2507](https://www.legislation.gov.uk/ssi/1990/2507); as amended by [S.S.I.1992/3136](https://www.legislation.gov.uk/ssi/1992/3136), [S.S.I. 1995/1372](https://www.legislation.gov.uk/ssi/1995/1372), [S.S.I. 1998/2424](https://www.legislation.gov.uk/ssi/1998/2424) and [S.S.I. 2011/84](https://www.legislation.gov.uk/ssi/2011/84).
 
-[^key-06c7bd8afd16a8201a24dedbe9cc7e3c]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/3235/regulation/15) revoked (1.8.2017) by [The Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017 (S.S.I. 2017/178)](https://www.legislation.gov.uk/ssi/2017/178), [regs. 1](https://www.legislation.gov.uk/ssi/2017/178/regulation/1), [7(1)(c)](https://www.legislation.gov.uk/ssi/2017/178/regulation/7/1/c)
+[^c-06c7bd8afd16a8201a24dedbe9cc7e3c]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/3235/regulation/15) revoked (1.8.2017) by [The Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017 (S.S.I. 2017/178)](https://www.legislation.gov.uk/ssi/2017/178), [regs. 1](https://www.legislation.gov.uk/ssi/2017/178/regulation/1), [7(1)(c)](https://www.legislation.gov.uk/ssi/2017/178/regulation/7/1/c)
 
 [^c21974701]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3), as relevantly amended by [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395).
 

@@ -32,7 +32,7 @@ summary: ''
 
 Wildlife
 
-The Snares (Scotland) Order 2010 (revoked)[^key-409dd218b5de1d6bca593a39b9be9890]
+The Snares (Scotland) Order 2010 (revoked)[^c-409dd218b5de1d6bca593a39b9be9890]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 11th March 2010
 
-[^key-409dd218b5de1d6bca593a39b9be9890]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-409dd218b5de1d6bca593a39b9be9890]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-409dd218b5de1d6bca593a39b9be9890]
+## 1. Citation, commencement and interpretation[^c-409dd218b5de1d6bca593a39b9be9890]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Check that snares are free‑running[^key-409dd218b5de1d6bca593a39b9be9890]
+## 2. Check that snares are free‑running[^c-409dd218b5de1d6bca593a39b9be9890]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Snare stops and anchors[^key-409dd218b5de1d6bca593a39b9be9890]
+## 3. Snare stops and anchors[^c-409dd218b5de1d6bca593a39b9be9890]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Snare stops[^key-409dd218b5de1d6bca593a39b9be9890]
+## 4. Snare stops[^c-409dd218b5de1d6bca593a39b9be9890]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Snare anchors[^key-409dd218b5de1d6bca593a39b9be9890]
+## 5. Snare anchors[^c-409dd218b5de1d6bca593a39b9be9890]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Location of snares[^key-409dd218b5de1d6bca593a39b9be9890]
+## 6. Location of snares[^c-409dd218b5de1d6bca593a39b9be9890]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-409dd218b5de1d6bca593a39b9be9890]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-409dd218b5de1d6bca593a39b9be9890]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-409dd218b5de1d6bca593a39b9be9890]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-409dd218b5de1d6bca593a39b9be9890]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-409dd218b5de1d6bca593a39b9be9890]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/8) revoked (2.7.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Consequential Modifications) Order 2012 (S.S.I. 2012/215)](https://www.legislation.gov.uk/ssi/2012/215), [art. 1](https://www.legislation.gov.uk/ssi/2012/215/article/1), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2012/215/schedule/part/4)
+[^c-409dd218b5de1d6bca593a39b9be9890]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/8) revoked (2.7.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Consequential Modifications) Order 2012 (S.S.I. 2012/215)](https://www.legislation.gov.uk/ssi/2012/215), [art. 1](https://www.legislation.gov.uk/ssi/2012/215/article/1), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2012/215/schedule/part/4)

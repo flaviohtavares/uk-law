@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3S. The consumer financial education body[^key-3c7bb78eb8361f867339778c4c7ab3c5]
+## 3S. The consumer financial education body[^c-3c7bb78eb8361f867339778c4c7ab3c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c7bb78eb8361f867339778c4c7ab3c5]: Textual amendment: [S. 3S](https://www.legislation.gov.uk/ukpga/2000/8/section/3S) omitted (6.4.2021) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/12); [S.I. 2021/433](https://www.legislation.gov.uk/uksi/2021/433), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2021/433/regulation/2/b/ii)
+[^c-3c7bb78eb8361f867339778c4c7ab3c5]: Textual amendment: [S. 3S](https://www.legislation.gov.uk/ukpga/2000/8/section/3S) omitted (6.4.2021) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/12); [S.I. 2021/433](https://www.legislation.gov.uk/uksi/2021/433), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2021/433/regulation/2/b/ii)

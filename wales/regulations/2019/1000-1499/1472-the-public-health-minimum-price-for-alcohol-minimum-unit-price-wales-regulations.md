@@ -47,15 +47,15 @@ There has been a consultation as required by Article 9 of Regulation [(EC) No 17
 
 In accordance with section 26(2)(a) of the Public Health (Minimum Price for Alcohol) (Wales) Act 2018, a draft of this instrument has been laid before and approved by resolution of the National Assembly for Wales.
 
-## 1. Title and commencement[^key-9222b616206940c864385a5f5c5d28ae]
+## 1. Title and commencement[^c-9222b616206940c864385a5f5c5d28ae]
 
 (1) The title of these Regulations is the Public Health (Minimum Price for Alcohol) (Minimum Unit Price) (Wales) Regulations 2019.
 
 (2) These Regulations come into force on 2 March 2020.
 
-## 2. Minimum unit price[^key-afcdf26c10a1c6e90026fc5741b1db36]
+## 2. Minimum unit price[^c-afcdf26c10a1c6e90026fc5741b1db36]
 
-The minimum unit price for the purposes of section 1(1)(a) of the Public Health (Minimum Price for Alcohol) (Wales) Act 2018 is £0.65[^key-3548b10bc7f89463f620610cb2cf41a1].
+The minimum unit price for the purposes of section 1(1)(a) of the Public Health (Minimum Price for Alcohol) (Wales) Act 2018 is £0.65[^c-3548b10bc7f89463f620610cb2cf41a1].
 
 Vaughan Gething
 
@@ -85,8 +85,8 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^f00002]: Footnote: OJ No. L 31, 1.2.2002, p. 1, last amended by [Commission Regulation (EU) No. 2017/22](https://www.legislation.gov.uk/european/regulation/1922/2017)8 (OJ No. L 35, 10.2.2017, p. 10).
 
-[^key-9222b616206940c864385a5f5c5d28ae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/1472/regulation/1) in force at 2.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1472/regulation/1/2)
+[^c-9222b616206940c864385a5f5c5d28ae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/1472/regulation/1) in force at 2.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1472/regulation/1/2)
 
-[^key-afcdf26c10a1c6e90026fc5741b1db36]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/1472/regulation/2) in force at 2.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1472/regulation/1/2)
+[^c-afcdf26c10a1c6e90026fc5741b1db36]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/1472/regulation/2) in force at 2.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1472/regulation/1/2)
 
-[^key-3548b10bc7f89463f620610cb2cf41a1]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/wsi/2019/1472/regulation/2) substituted (1.10.2026) by [The Public Health (Minimum Price for Alcohol) (Minimum Unit Price) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/34)](https://www.legislation.gov.uk/wsi/2026/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/34/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/34/regulation/2/2)
+[^c-3548b10bc7f89463f620610cb2cf41a1]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/wsi/2019/1472/regulation/2) substituted (1.10.2026) by [The Public Health (Minimum Price for Alcohol) (Minimum Unit Price) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/34)](https://www.legislation.gov.uk/wsi/2026/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/34/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/34/regulation/2/2)

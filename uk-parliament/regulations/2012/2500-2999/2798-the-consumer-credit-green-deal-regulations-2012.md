@@ -69,7 +69,7 @@ In these Regulations—
 - “**green deal plan**” has the meaning given in section 1 of the Energy Act 2011 [^c21444121];
 - “**notice date**” means the date on which the creditor receives notice from the debtor under, as appropriate, section 94(1) or section 94(4)(a) [^c21444131] of the 1974 Act, in connection with early settlement;
 - “**partial early settlement**” means the discharge in part, pursuant to section 94(3) [^c21444141] of the 1974 Act, of the debtor's indebtedness under a green deal plan;
-- “**replacement interest**” means [^key-cb00bf5966ef3ef2df82cf09014a1e3b]... the total amount of interest that the creditor could obtain by lending the settlement amount on the market on the notice date;
+- “**replacement interest**” means [^c-cb00bf5966ef3ef2df82cf09014a1e3b]... the total amount of interest that the creditor could obtain by lending the settlement amount on the market on the notice date;
 - “**settlement amount**” means, in respect of—
   - (a) full early settlement, the amount payable by the debtor to the creditor under section 94(1) of the 1974 Act, excluding any amount which the creditor claims under section 95A(2) or 95B(2) of the 1974 Act; or
   - (b) partial early settlement, the amount paid or to be paid by the debtor to the creditor pursuant to the notice provided by the debtor under section 94(4)(a) of the 1974 Act; and
@@ -225,7 +225,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21444141]: Marginal citation: [Section 94(3)](https://www.legislation.gov.uk/uksi/2012/2798/section/94/3) was inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), [regulation 30(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/30/b).
 
-[^key-cb00bf5966ef3ef2df82cf09014a1e3b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/2798/regulation/2) omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1038/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb00bf5966ef3ef2df82cf09014a1e3b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/2798/regulation/2) omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1038/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21444161]: Marginal citation: [S.I. 1983/1553](https://www.legislation.gov.uk/uksi/1983/1553).
 

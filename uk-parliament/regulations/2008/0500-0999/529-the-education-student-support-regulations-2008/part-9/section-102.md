@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Amount of loan for living costs payable to certain type 1 and type 2 teacher training students[^key-f0da99356c9628bb43f95fb1c10465e7]
+## 102. Amount of loan for living costs payable to certain type 1 and type 2 teacher training students[^c-f0da99356c9628bb43f95fb1c10465e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ where
 
 ## Annotations
 
-[^key-f0da99356c9628bb43f95fb1c10465e7]: Commencement: Reg. 102 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-f0da99356c9628bb43f95fb1c10465e7]: Commencement: Reg. 102 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

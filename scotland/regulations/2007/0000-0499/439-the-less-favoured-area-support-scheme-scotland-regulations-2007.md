@@ -46,157 +46,157 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c18910231] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and application[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 1. Citation, commencement and application[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 2. Interpretation[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Applications for payment of less favoured area support[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 3. Applications for payment of less favoured area support[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Eligibility for payment of less favoured area support[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 4. Eligibility for payment of less favoured area support[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Payment of less favoured area support[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 5. Payment of less favoured area support[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Eligible land[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 6. Eligible land[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transfer of a holding[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 7. Transfer of a holding[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amount of less favoured area support[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 8. Amount of less favoured area support[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Determination of Payable Area[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 9. Determination of Payable Area[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Stocking density outwith maximum and minimum parameters[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 10. Stocking density outwith maximum and minimum parameters[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Enterprise mix[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 11. Enterprise mix[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Rate of Payment of less favoured area support[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 12. Rate of Payment of less favoured area support[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Minimum payment[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 13. Minimum payment[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Powers of authorised persons[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 14. Powers of authorised persons[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Assistance to authorised persons[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 15. Assistance to authorised persons[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Withholding or recovery of less favoured area support[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 16. Withholding or recovery of less favoured area support[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16A. Guidance[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 16A. Guidance[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Rate of interest[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 17. Rate of interest[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Cross-border holdings[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 18. Cross-border holdings[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Offences[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 19. Offences[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Penalties[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 20. Penalties[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Time limit for prosecutions[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 21. Time limit for prosecutions[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Offences by bodies corporate[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 22. Offences by bodies corporate[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Appeal against decision as to eligibility of holding[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 23. Appeal against decision as to eligibility of holding[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Review[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 24. Review[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2004[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## 25. Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2004[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
@@ -204,7 +204,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## 26. Revocation and savings provisions
 
-(1)[^key-1fd3fc3a5a5af3df06f7871c75784d0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1fd3fc3a5a5af3df06f7871c75784d0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Notwithstanding paragraph (1), in respect of a Scheme 2005 payment or a Scheme 2006 payment, within the meaning of the 2005 Regulations, the 2005 Regulations shall continue to have effect as if those Regulations had not been revoked.
 
@@ -216,7 +216,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — LAND USE CODES ELIGIBLE FOR LESS FAVOURED AREA SUPPORT SCHEME[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## SCHEDULE 1 — LAND USE CODES ELIGIBLE FOR LESS FAVOURED AREA SUPPORT SCHEME[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 **No longer in force.**
 
@@ -224,25 +224,25 @@ Regulation 6(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — GRAZING CATEGORY: HECTARE VALUES[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## SCHEDULE 2 — GRAZING CATEGORY: HECTARE VALUES[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 Regulations 9(2) and 12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — RATES OF PAYMENT FOR LESS FAVOURED AREA SUPPORT[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## SCHEDULE 3 — RATES OF PAYMENT FOR LESS FAVOURED AREA SUPPORT[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 Regulation 12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — FRAGILITY CATEGORIES[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## SCHEDULE 4 — FRAGILITY CATEGORIES[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 Regulation 12(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — AGENCY ARRANGEMENTS AND CROSS BORDER HOLDINGS[^key-1fd3fc3a5a5af3df06f7871c75784d0a]
+## SCHEDULE 5 — AGENCY ARRANGEMENTS AND CROSS BORDER HOLDINGS[^c-1fd3fc3a5a5af3df06f7871c75784d0a]
 
 Regulation 18
 
@@ -278,4 +278,4 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^c18910231]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-1fd3fc3a5a5af3df06f7871c75784d0a]: Textual amendment: Regulations revoked (except reg. 26(2)) (2.7.2010) by [The Less Favoured Area Support Scheme (Scotland) Regulations 2010 (S.S.I. 2010/273)](https://www.legislation.gov.uk/ssi/2010/273), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1), [26(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/1) (with [regs. 1(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/3), [26(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/2))
+[^c-1fd3fc3a5a5af3df06f7871c75784d0a]: Textual amendment: Regulations revoked (except reg. 26(2)) (2.7.2010) by [The Less Favoured Area Support Scheme (Scotland) Regulations 2010 (S.S.I. 2010/273)](https://www.legislation.gov.uk/ssi/2010/273), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1), [26(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/1) (with [regs. 1(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/3), [26(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/2))

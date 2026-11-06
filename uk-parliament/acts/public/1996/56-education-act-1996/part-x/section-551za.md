@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 551ZA. School uniforms: limits on branded items[^key-aa748131188849775678121f30b0eca2][^key-7d5a12b62b60f2cba649f470a865a8a9]
+## 551ZA. School uniforms: limits on branded items[^c-aa748131188849775678121f30b0eca2][^c-7d5a12b62b60f2cba649f470a865a8a9]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa748131188849775678121f30b0eca2]: Textual amendment: S. 551ZA inserted (1.9.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/35/3), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/b)
+[^c-aa748131188849775678121f30b0eca2]: Textual amendment: S. 551ZA inserted (1.9.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/35/3), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/b)
 
-[^key-7d5a12b62b60f2cba649f470a865a8a9]: Textual amendment: S. 551A and cross-heading inserted (29.6.2021) by [Education (Guidance about Costs of School Uniforms) Act 2021 (c. 20)](https://www.legislation.gov.uk/ukpga/2021/20), [ss. 1](https://www.legislation.gov.uk/ukpga/2021/20/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2021/20/section/2/2)
+[^c-7d5a12b62b60f2cba649f470a865a8a9]: Textual amendment: S. 551A and cross-heading inserted (29.6.2021) by [Education (Guidance about Costs of School Uniforms) Act 2021 (c. 20)](https://www.legislation.gov.uk/ukpga/2021/20), [ss. 1](https://www.legislation.gov.uk/ukpga/2021/20/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2021/20/section/2/2)

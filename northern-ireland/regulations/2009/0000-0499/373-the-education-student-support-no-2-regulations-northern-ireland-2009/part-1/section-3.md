@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Amendment of the 2009 Regulations[^key-de0adff34b2b1c33c048b17db5570f95]
+## 3. Amendment of the 2009 Regulations[^c-de0adff34b2b1c33c048b17db5570f95]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The 2009 Regulations are amended in accordance with Schedule 1.
 
 ## Annotations
 
-[^key-de0adff34b2b1c33c048b17db5570f95]: Commencement: Reg. 3 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-de0adff34b2b1c33c048b17db5570f95]: Commencement: Reg. 3 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

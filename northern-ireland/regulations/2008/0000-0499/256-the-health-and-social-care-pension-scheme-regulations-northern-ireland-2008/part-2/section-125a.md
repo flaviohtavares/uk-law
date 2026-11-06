@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125A. Provision of information: continuing entitlement to benefit[^key-f7de079b929ff7831539b2471c6d4eb7]
+## 125A. Provision of information: continuing entitlement to benefit[^c-f7de079b929ff7831539b2471c6d4eb7]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7de079b929ff7831539b2471c6d4eb7]: Textual amendment: [Reg. 125A](https://www.legislation.gov.uk/nisr/2008/256/regulation/125A) inserted (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [35](https://www.legislation.gov.uk/nisr/2013/259/regulation/35)
+[^c-f7de079b929ff7831539b2471c6d4eb7]: Textual amendment: [Reg. 125A](https://www.legislation.gov.uk/nisr/2008/256/regulation/125A) inserted (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [35](https://www.legislation.gov.uk/nisr/2013/259/regulation/35)

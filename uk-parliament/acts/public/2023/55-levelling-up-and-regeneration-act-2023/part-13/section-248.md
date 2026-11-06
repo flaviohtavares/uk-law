@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Amendments of references to “retained direct EU legislation”[^key-5fcb581258dd0a92cedeb447a1a06c32]
+## 248. Amendments of references to “retained direct EU legislation”[^c-5fcb581258dd0a92cedeb447a1a06c32]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 166(3)(e) for “retained direct EU legislation” substitute “assi
 
 ## Annotations
 
-[^key-5fcb581258dd0a92cedeb447a1a06c32]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2023/55/section/248) in force at the end of 2023, see [s. 255(10)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/b)
+[^c-5fcb581258dd0a92cedeb447a1a06c32]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2023/55/section/248) in force at the end of 2023, see [s. 255(10)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/b)

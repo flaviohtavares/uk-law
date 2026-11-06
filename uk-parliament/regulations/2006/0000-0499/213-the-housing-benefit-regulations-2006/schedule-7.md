@@ -20,42 +20,42 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]...
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]...
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bfe4f4bebd09c73efc0bfdc011b8ee65]: Textual amendment: Sch. 7 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(e)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/e)
+[^c-bfe4f4bebd09c73efc0bfdc011b8ee65]: Textual amendment: Sch. 7 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(e)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/e)

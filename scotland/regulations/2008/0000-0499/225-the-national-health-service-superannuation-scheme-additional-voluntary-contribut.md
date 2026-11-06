@@ -50,15 +50,15 @@ In accordance with section 10(1) of that Act, these Regulations are made with th
 
 In accordance with section 10(4) of that Act, the Scottish Ministers have consulted with such representatives of persons likely to be affected by these Regulations as appear to be appropriate.
 
-## 1. Citation, commencement and effect[^key-739943b190c29b2c93b7f36f70dbddec]
+## 1. Citation, commencement and effect[^c-739943b190c29b2c93b7f36f70dbddec]
 
 These Regulations may be cited as the National Health Service Superannuation Scheme (Additional Voluntary Contributions, Injury Benefits and Compensation for Premature Retirement) (Scotland) Amendment Regulations 2008 and come into force on 28th June 2008 but have effect from 1st April 2008[^f00003].
 
-## 2. Amendment of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^key-4980d6bccda723edc38229e21441b757]
+## 2. Amendment of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^c-4980d6bccda723edc38229e21441b757]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments of the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^key-d578c5cdadfccbf5476af8320d2de4ee]
+## 3. Amendments of the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^c-d578c5cdadfccbf5476af8320d2de4ee]
 
 (1) The National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f00006] are amended as follows.
 
@@ -178,7 +178,7 @@ These Regulations may be cited as the National Health Service Superannuation Sch
 
 (9) In regulation 12(3) (incidental provisions), for “widow's, the widower’s or the surviving civil” substitute “surviving”.
 
-## 4. Amendments to the National Health Service (Compensation for Premature Retirement) (Scotland) Regulations 2003[^key-32ba37563be5353d985f85fdac72cf10]
+## 4. Amendments to the National Health Service (Compensation for Premature Retirement) (Scotland) Regulations 2003[^c-32ba37563be5353d985f85fdac72cf10]
 
 For regulation 4(2) of the National Health Service (Compensation for Premature Retirement) (Scotland) Regulations 2003[^f00009] (payment of compensation) substitute–
 
@@ -229,13 +229,13 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00002]: Footnote: See the Superannuation Act 1972, section 10(1). This function was transferred to the Treasury by virtue of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 (S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)), article 2 and is still exercisable by virtue of S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
 
-[^key-739943b190c29b2c93b7f36f70dbddec]: Commencement: Reg. 1 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/225/regulation/1)
+[^c-739943b190c29b2c93b7f36f70dbddec]: Commencement: Reg. 1 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/225/regulation/1)
 
 [^f00003]: Footnote: Section 12(1) of the Superannuation Act 1972 provides that Regulations may be framed so as to have effect from a date earlier than that of their making.
 
-[^key-4980d6bccda723edc38229e21441b757]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/225/regulation/2) revoked (1.6.2018) by [The National Health Service Pension Scheme (Scotland) (Additional Voluntary Contributions) Regulations 2018 (S.S.I. 2018/124)](https://www.legislation.gov.uk/ssi/2018/124), [reg. 1](https://www.legislation.gov.uk/ssi/2018/124/regulation/1), [sch. 2 para. 1(g)](https://www.legislation.gov.uk/ssi/2018/124/schedule/2/paragraph/1/g)
+[^c-4980d6bccda723edc38229e21441b757]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/225/regulation/2) revoked (1.6.2018) by [The National Health Service Pension Scheme (Scotland) (Additional Voluntary Contributions) Regulations 2018 (S.S.I. 2018/124)](https://www.legislation.gov.uk/ssi/2018/124), [reg. 1](https://www.legislation.gov.uk/ssi/2018/124/regulation/1), [sch. 2 para. 1(g)](https://www.legislation.gov.uk/ssi/2018/124/schedule/2/paragraph/1/g)
 
-[^key-d578c5cdadfccbf5476af8320d2de4ee]: Commencement: Reg. 3 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/225/regulation/1)
+[^c-d578c5cdadfccbf5476af8320d2de4ee]: Commencement: Reg. 3 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/225/regulation/1)
 
 [^f00006]: Footnote: S.I. [1998/1594](https://www.legislation.gov.uk/uksi/1998/1594), amended by S.I. [1999/195](https://www.legislation.gov.uk/uksi/1999/195) and [444](https://www.legislation.gov.uk/uksi/1999/444) and [S.S.I. 2001/437](https://www.legislation.gov.uk/ssi/2001/437), [2004/212](https://www.legislation.gov.uk/ssi/2004/212), [2005/512](https://www.legislation.gov.uk/ssi/2005/512) and [544](https://www.legislation.gov.uk/ssi/2005/544).
 
@@ -243,6 +243,6 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00008]: Footnote: [S.S.I. 2008/224](https://www.legislation.gov.uk/ssi/2008/224).
 
-[^key-32ba37563be5353d985f85fdac72cf10]: Commencement: Reg. 4 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/225/regulation/1)
+[^c-32ba37563be5353d985f85fdac72cf10]: Commencement: Reg. 4 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/225/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2003/344](https://www.legislation.gov.uk/ssi/2003/344) as amended by [S.S.I. 2005/445](https://www.legislation.gov.uk/ssi/2005/445), [512](https://www.legislation.gov.uk/ssi/2005/512) and [544](https://www.legislation.gov.uk/ssi/2005/544), [S.S.I. 2006/561](https://www.legislation.gov.uk/ssi/2006/561) and [S.S.I. 2008/92](https://www.legislation.gov.uk/ssi/2008/92).

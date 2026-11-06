@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Limit on total holding of stock[^key-5eaaa790aa11b6f96b6c08b25bfbdb1d]
+## 17. Limit on total holding of stock[^c-5eaaa790aa11b6f96b6c08b25bfbdb1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5eaaa790aa11b6f96b6c08b25bfbdb1d]: Commencement: Reg. 17 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-5eaaa790aa11b6f96b6c08b25bfbdb1d]: Commencement: Reg. 17 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

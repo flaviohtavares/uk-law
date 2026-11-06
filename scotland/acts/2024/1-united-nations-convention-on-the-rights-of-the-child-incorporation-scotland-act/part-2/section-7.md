@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Proceedings for unlawful acts[^key-fec667c82a991b2e7408b3a69fdbeb93]
+## 7. Proceedings for unlawful acts[^c-fec667c82a991b2e7408b3a69fdbeb93]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec667c82a991b2e7408b3a69fdbeb93]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/1/section/7) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-fec667c82a991b2e7408b3a69fdbeb93]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/1/section/7) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

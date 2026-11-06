@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Abolition of fast-track voluntary arrangements[^key-d7f8f4f8ffe49232e6b8d1a786c4a91e]
+## 93. Abolition of fast-track voluntary arrangements[^c-d7f8f4f8ffe49232e6b8d1a786c4a91e]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f8f4f8ffe49232e6b8d1a786c4a91e]: Commencement: S. 93 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d7f8f4f8ffe49232e6b8d1a786c4a91e]: Commencement: S. 93 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

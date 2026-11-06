@@ -34,12 +34,12 @@ summary: ''
 - (d) section 734 (payments from trusts for injured persons),
 - (e) sections 735 to 743 (health and employment insurance payments),
 - (f) sections 744 to 747 (payments to adopters),
-- (g)[^key-2b28f5c9d8d84d72b0701e40e6df3a3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-608ce70434f51983f6476d817b031987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-2b28f5c9d8d84d72b0701e40e6df3a3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-608ce70434f51983f6476d817b031987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) section 776 (scholarship income).
 
 ## Annotations
 
-[^key-2b28f5c9d8d84d72b0701e40e6df3a3b]: Textual amendment: S. 683(4)(g) repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 21(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/21/2)
+[^c-2b28f5c9d8d84d72b0701e40e6df3a3b]: Textual amendment: S. 683(4)(g) repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 21(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/21/2)
 
-[^key-608ce70434f51983f6476d817b031987]: Textual amendment: [S. 683(4)(h)](https://www.legislation.gov.uk/ukpga/2005/5/section/683/4/h) omitted (with effect in accordance with s. 34(8) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(4)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/4/c)
+[^c-608ce70434f51983f6476d817b031987]: Textual amendment: [S. 683(4)(h)](https://www.legislation.gov.uk/ukpga/2005/5/section/683/4/h) omitted (with effect in accordance with s. 34(8) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(4)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/4/c)

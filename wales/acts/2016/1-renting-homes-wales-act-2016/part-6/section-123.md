@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Variation of rent[^key-f6a4e628a7511bb2b586a0d6cc89725c]
+## 123. Variation of rent[^c-f6a4e628a7511bb2b586a0d6cc89725c]
 
 *Extent: E+W*
 
@@ -29,10 +29,10 @@ summary: ''
 - (a) the first notice may specify any date, and
 - (b) subsequent notices must specify a date which is not less than one year after the last date on which a new rent took effect.
 
-(4) This section is a fundamental provision which is incorporated as a term of all periodic standard contracts under which rent is payable, except a periodic standard contract which is a housing association tenancy[^key-257ef314d7dfdc0a8d5a68a05337ba78].
+(4) This section is a fundamental provision which is incorporated as a term of all periodic standard contracts under which rent is payable, except a periodic standard contract which is a housing association tenancy[^c-257ef314d7dfdc0a8d5a68a05337ba78].
 
 ## Annotations
 
-[^key-f6a4e628a7511bb2b586a0d6cc89725c]: Commencement: [S. 123](https://www.legislation.gov.uk/anaw/2016/1/section/123) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-f6a4e628a7511bb2b586a0d6cc89725c]: Commencement: [S. 123](https://www.legislation.gov.uk/anaw/2016/1/section/123) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-257ef314d7dfdc0a8d5a68a05337ba78]: Textual amendment: Words in [s. 123(4)](https://www.legislation.gov.uk/anaw/2016/1/section/123/4) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022 (S.I. 2022/799)](https://www.legislation.gov.uk/wsi/2022/799), [regs. 1](https://www.legislation.gov.uk/wsi/2022/799/regulation/1), [5(3)](https://www.legislation.gov.uk/wsi/2022/799/regulation/5/3) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-257ef314d7dfdc0a8d5a68a05337ba78]: Textual amendment: Words in [s. 123(4)](https://www.legislation.gov.uk/anaw/2016/1/section/123/4) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022 (S.I. 2022/799)](https://www.legislation.gov.uk/wsi/2022/799), [regs. 1](https://www.legislation.gov.uk/wsi/2022/799/regulation/1), [5(3)](https://www.legislation.gov.uk/wsi/2022/799/regulation/5/3) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [14](https://www.legislation.gov.uk/uksi/2022/906/article/14))

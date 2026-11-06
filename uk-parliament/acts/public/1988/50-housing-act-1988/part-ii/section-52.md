@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Recovery etc. of grants.[^c12868621][^c12868631][^c12868641][^c20518881][^c20518911][^c20519361][^key-9b6161e0245c78493508970dbe31e87e]
+## 52. Recovery etc. of grants.[^c12868621][^c12868631][^c12868641][^c20518881][^c20518911][^c20519361][^c-9b6161e0245c78493508970dbe31e87e]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) a grant under section 41 of the 1985 Act or any enactment replaced by that section, or
 - (c) a grant under section 2(2) of the [^c12868651]Housing (Scotland) Act 1988,
 
-has been made to a relevant housing association[^key-9b15c075c6f679598f19d03814f3d43b], the powers conferred by subsection (2) below are exercisable in such events (including the association not complying with any conditions) as the appropriate authority[^key-b7eba7c3c65fdf50d755931ce2d7cbcc] may from time to time determine (in this section referred to as “**relevant events**”).
+has been made to a relevant housing association[^c-9b15c075c6f679598f19d03814f3d43b], the powers conferred by subsection (2) below are exercisable in such events (including the association not complying with any conditions) as the appropriate authority[^c-b7eba7c3c65fdf50d755931ce2d7cbcc] may from time to time determine (in this section referred to as “**relevant events**”).
 
 (2) The appropriate authority. . . may—
 
@@ -43,7 +43,7 @@ and a direction under paragraph (c) above may require the application, appropria
 (5) Where—
 
 - (a) a grant to which this section applies has been made to an association, and
-- (b) at any time property to which the grant relates becomes vested in, or is leased for a term of years to, or reverts to, some other relevant housing association[^key-be24e2567071fea6e2c765ddaa88e3a9], or trustees for some other such association,
+- (b) at any time property to which the grant relates becomes vested in, or is leased for a term of years to, or reverts to, some other relevant housing association[^c-be24e2567071fea6e2c765ddaa88e3a9], or trustees for some other such association,
 
 this section (including this subsection) shall have effect after that time as if the grant, or such proportion of it as is specified or determined under subsection (6) below, had been made to that other association.
 
@@ -68,11 +68,11 @@ this section (including this subsection) shall have effect after that time as if
 - (a) such as the appropriate authority, acting in accordance with such principles as it may from time to time determine, may specify as being appropriate, or
 - (b) such as the appropriate authority may determine to be appropriate in the particular case.
 
-(9A)[^key-6fffed0ccbd5f3e3cb43ea9859074b8e] In this section and sections 53 and 54—
+(9A)[^c-6fffed0ccbd5f3e3cb43ea9859074b8e] In this section and sections 53 and 54—
 
 - “the appropriate authority”—
-  - (a) in relation to an English relevant housing association and property outside Greater London[^key-640f0e02ac492a500a60a6f5a82c2060], means the Homes and Communities Agency,
-  - (aa) in relation to an English relevant housing association and property in Greater London, means the Greater London Authority, and[^key-2f3e266e6526894f4484c64bef4dbb26]
+  - (a) in relation to an English relevant housing association and property outside Greater London[^c-640f0e02ac492a500a60a6f5a82c2060], means the Homes and Communities Agency,
+  - (aa) in relation to an English relevant housing association and property in Greater London, means the Greater London Authority, and[^c-2f3e266e6526894f4484c64bef4dbb26]
   - (b) in relation to a Welsh relevant housing association, means the Welsh Ministers,
 - “ **relevant housing association** ” means—
   - (a) a housing association which is a registered provider of social housing (“an English relevant housing association”), and
@@ -84,7 +84,7 @@ this section (including this subsection) shall have effect after that time as if
 - (b) Part 1 of the 1985 Act, or
 - (c) any corresponding earlier enactment.
 
-## 52. Recovery etc. of grants.[^c12868481][^key-9b6161e0245c78493508970dbe31e87e]
+## 52. Recovery etc. of grants.[^c12868481][^c-9b6161e0245c78493508970dbe31e87e]
 
 *Extent: S*
 
@@ -152,7 +152,7 @@ this section (including this subsection) shall have effect after that time as if
 - (b) Part 1 of the 1985 Act, or
 - (c) any corresponding earlier enactment.
 
-(10)[^c12868611] In this section and section 53, “registered social landlord” has the same meaning as in the Housing (Scotland) Act 2010 (asp 17).[^key-a3e1b2e764e73f2668e77ae3f0affb25]
+(10)[^c12868611] In this section and section 53, “registered social landlord” has the same meaning as in the Housing (Scotland) Act 2010 (asp 17).[^c-a3e1b2e764e73f2668e77ae3f0affb25]
 
 ## Annotations
 
@@ -168,13 +168,13 @@ this section (including this subsection) shall have effect after that time as if
 
 [^c20519361]: Modification: S. 52 modified (E.W.) (1.12.2008) by [The Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 3(10)](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/3/10); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/b) (with [arts. 6-12](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-9b6161e0245c78493508970dbe31e87e]: Modification: S. 52 excluded (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 177(8)](https://www.legislation.gov.uk/ukpga/2008/17/section/177/8), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-9b6161e0245c78493508970dbe31e87e]: Modification: S. 52 excluded (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 177(8)](https://www.legislation.gov.uk/ukpga/2008/17/section/177/8), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c12868651]: Marginal citation: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43).
 
-[^key-9b15c075c6f679598f19d03814f3d43b]: Textual amendment: Words in s. 52(1) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/3); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-9b15c075c6f679598f19d03814f3d43b]: Textual amendment: Words in s. 52(1) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/3); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-b7eba7c3c65fdf50d755931ce2d7cbcc]: Textual amendment: Words in s. 52 substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/2); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-b7eba7c3c65fdf50d755931ce2d7cbcc]: Textual amendment: Words in s. 52 substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/2); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c12868691]: Textual amendment: Words in s. 52(2)(c) substituted (E.W.) (1.10.1996 for specified purposes, otherwise 1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 28(3)(a)](https://www.legislation.gov.uk/ukpga/1996/52/section/28/3/a), [231(4)(b)](https://www.legislation.gov.uk/ukpga/1996/52/section/231/4/b) (with [s. 51(4)](https://www.legislation.gov.uk/ukpga/1996/52/section/51/4)); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 5](https://www.legislation.gov.uk/uksi/1996/2402/article/5); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2](https://www.legislation.gov.uk/uksi/1997/618/article/2) (subject to transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule))
 
@@ -182,7 +182,7 @@ this section (including this subsection) shall have effect after that time as if
 
 [^c12868761]: Marginal citation: [1988 c. 3](https://www.legislation.gov.uk/ukpga/1988/3).
 
-[^key-be24e2567071fea6e2c765ddaa88e3a9]: Textual amendment: Words in s. 52(5)(b) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/3); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-be24e2567071fea6e2c765ddaa88e3a9]: Textual amendment: Words in s. 52(5)(b) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/3); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c12868801]: Textual amendment: Words in s. 52(7) substituted (E.W.) (1.10.1996 for specified purposes, otherwise 1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 28(3)(c)](https://www.legislation.gov.uk/ukpga/1996/52/section/28/3/c), [231(4)(b)](https://www.legislation.gov.uk/ukpga/1996/52/section/231/4/b) (with [s. 51(4)](https://www.legislation.gov.uk/ukpga/1996/52/section/51/4)); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 5](https://www.legislation.gov.uk/uksi/1996/2402/article/5); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2](https://www.legislation.gov.uk/uksi/1997/618/article/2) (subject to transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule))
 
@@ -190,11 +190,11 @@ this section (including this subsection) shall have effect after that time as if
 
 [^c12868821]: Textual amendment: Words in s. 52(8)(b) substituted (E.W.) (1.10.1996 for specified purposes, otherwise 1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 28(3)(e)](https://www.legislation.gov.uk/ukpga/1996/52/section/28/3/e), [231(4)(b)](https://www.legislation.gov.uk/ukpga/1996/52/section/231/4/b) (with [s. 51(4)](https://www.legislation.gov.uk/ukpga/1996/52/section/51/4)); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 5](https://www.legislation.gov.uk/uksi/1996/2402/article/5); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2](https://www.legislation.gov.uk/uksi/1997/618/article/2) (subject to transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule))
 
-[^key-6fffed0ccbd5f3e3cb43ea9859074b8e]: Textual amendment: S. 52(9A)(9B) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(4)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/4); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-6fffed0ccbd5f3e3cb43ea9859074b8e]: Textual amendment: S. 52(9A)(9B) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 47(4)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/47/4); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-640f0e02ac492a500a60a6f5a82c2060]: Textual amendment: Words in s. 52(9A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 28(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/28/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-640f0e02ac492a500a60a6f5a82c2060]: Textual amendment: Words in s. 52(9A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 28(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/28/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-2f3e266e6526894f4484c64bef4dbb26]: Textual amendment: Words in s. 52(9A) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 28(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/28/b); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-2f3e266e6526894f4484c64bef4dbb26]: Textual amendment: Words in s. 52(9A) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 28(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/28/b); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
 [^c12868481]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
@@ -212,4 +212,4 @@ this section (including this subsection) shall have effect after that time as if
 
 [^c12868611]: Textual amendment: S. 52(10) inserted (S.) (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 15(3)(f)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/15/3/f); [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/397/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) Table (subject to transitional provisions and savings in arts. 3-6)
 
-[^key-a3e1b2e764e73f2668e77ae3f0affb25]: Textual amendment: Words in s. 52(10) substituted (S.) (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 5](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/5); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-a3e1b2e764e73f2668e77ae3f0affb25]: Textual amendment: Words in s. 52(10) substituted (S.) (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 5](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/5); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)

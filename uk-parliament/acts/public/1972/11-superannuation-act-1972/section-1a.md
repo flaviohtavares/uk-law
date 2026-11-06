@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. List of employments and offices for purposes of section 1(4A)[^key-d6d605a6c5631dd9ffdd9d08ba4b8492]
+## 1A. List of employments and offices for purposes of section 1(4A)[^c-d6d605a6c5631dd9ffdd9d08ba4b8492]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6d605a6c5631dd9ffdd9d08ba4b8492]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1972/11/section/1A) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(a)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/a), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2013/25/schedule/9/paragraph/3) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-d6d605a6c5631dd9ffdd9d08ba4b8492]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1972/11/section/1A) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(a)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/a), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2013/25/schedule/9/paragraph/3) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))

@@ -34,7 +34,7 @@ SALMON AND FRESHWATER FISHERIES
 
 SEA FISHERIES
 
-The Diseases of Fish (Control) Amendment (Scotland) Regulations 2000 (revoked)[^key-c0cc75137e57d92d85adc749fa2a50ac]
+The Diseases of Fish (Control) Amendment (Scotland) Regulations 2000 (revoked)[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 Made
 
@@ -48,52 +48,52 @@ Coming into force
 
 1st November 2000
 
-[^key-c0cc75137e57d92d85adc749fa2a50ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0cc75137e57d92d85adc749fa2a50ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 1. Citation, commencement and extent[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 2. Interpretation[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Principal Regulations[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 3. Amendment of the Principal Regulations[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 4.[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 5.[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 6.[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 7.[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 8.[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Savings and transitional provisions[^key-c0cc75137e57d92d85adc749fa2a50ac]
+## 9. Savings and transitional provisions[^c-c0cc75137e57d92d85adc749fa2a50ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0cc75137e57d92d85adc749fa2a50ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0cc75137e57d92d85adc749fa2a50ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0cc75137e57d92d85adc749fa2a50ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0cc75137e57d92d85adc749fa2a50ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0cc75137e57d92d85adc749fa2a50ac]: Textual amendment: Regulations revoked (27.3.2009) by [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/14) (with [reg. 2](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-c0cc75137e57d92d85adc749fa2a50ac]: Textual amendment: Regulations revoked (27.3.2009) by [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/14) (with [reg. 2](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))

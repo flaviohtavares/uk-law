@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Compensation for temporary severance of land after vesting declaration[^key-3ec227e6cc04b9b8df50cdf3dbe9fc77]
+## 41. Compensation for temporary severance of land after vesting declaration[^c-3ec227e6cc04b9b8df50cdf3dbe9fc77]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In Schedule A1 to the Compulsory Purchase (Vesting Declarations) Act 1981 (count
 
 ## Annotations
 
-[^key-3ec227e6cc04b9b8df50cdf3dbe9fc77]: Commencement: S. 41 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/j)
+[^c-3ec227e6cc04b9b8df50cdf3dbe9fc77]: Commencement: S. 41 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/j)

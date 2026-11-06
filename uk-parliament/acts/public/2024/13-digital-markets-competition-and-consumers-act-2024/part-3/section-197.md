@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Provisional false information enforcement notice[^key-89347a82581a27a358758a57f4a82b7c][^key-fd188cabb2429fba94425820633dab18]
+## 197. Provisional false information enforcement notice[^c-89347a82581a27a358758a57f4a82b7c][^c-fd188cabb2429fba94425820633dab18]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89347a82581a27a358758a57f4a82b7c]: Commencement: S. 197 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-89347a82581a27a358758a57f4a82b7c]: Commencement: S. 197 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fd188cabb2429fba94425820633dab18]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2024/13/section/197) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-fd188cabb2429fba94425820633dab18]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2024/13/section/197) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

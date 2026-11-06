@@ -35,7 +35,7 @@ summary: ''
 
 - (a) is non-UK resident,
 - (b) carries on a trade in the United Kingdom through a permanent establishment, and
-- (c) is required to bring into account, in calculating its chargeable profits (within the meaning of section 19 of CTA 2009[^key-47980ee5c967f4e8d6ba508adf3e196b]), the whole of any share of the payment that is attributable to it because of Part 17 of that Act[^key-884d19bb5c8514683f42a90f98c49d23].
+- (c) is required to bring into account, in calculating its chargeable profits (within the meaning of section 19 of CTA 2009[^c-47980ee5c967f4e8d6ba508adf3e196b]), the whole of any share of the payment that is attributable to it because of Part 17 of that Act[^c-884d19bb5c8514683f42a90f98c49d23].
 
 (6) This subsection applies to the European Investment Fund.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47980ee5c967f4e8d6ba508adf3e196b]: Textual amendment: Words in s. 937(5)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 711(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/711/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-47980ee5c967f4e8d6ba508adf3e196b]: Textual amendment: Words in s. 937(5)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 711(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/711/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-884d19bb5c8514683f42a90f98c49d23]: Textual amendment: Words in s. 937(5)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 711(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/711/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-884d19bb5c8514683f42a90f98c49d23]: Textual amendment: Words in s. 937(5)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 711(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/711/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

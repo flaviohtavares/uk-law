@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Earlier right of appeal[^key-c762903a7dade179b47782c7a2aba611]
+## 30. Earlier right of appeal[^c-c762903a7dade179b47782c7a2aba611]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c762903a7dade179b47782c7a2aba611]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/19/section/30) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-c762903a7dade179b47782c7a2aba611]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/19/section/30) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

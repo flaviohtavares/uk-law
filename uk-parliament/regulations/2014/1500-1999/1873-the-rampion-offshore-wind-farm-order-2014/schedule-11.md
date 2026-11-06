@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — Trees subject to tree preservation orders[^key-0295621e26fcf1b749fedeca92633fc5]
+## SCHEDULE 11 — Trees subject to tree preservation orders[^c-0295621e26fcf1b749fedeca92633fc5]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ Article 38
 
 ## Annotations
 
-[^key-0295621e26fcf1b749fedeca92633fc5]: Commencement: Sch. 11 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-0295621e26fcf1b749fedeca92633fc5]: Commencement: Sch. 11 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

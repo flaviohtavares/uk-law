@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.6. Prosecutor’s notice requiring Crown Court trial[^key-98f6d9c623b881bf48082a4902bcb592]
+## 9.6. Prosecutor’s notice requiring Crown Court trial[^c-98f6d9c623b881bf48082a4902bcb592]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-98f6d9c623b881bf48082a4902bcb592]: Commencement: [Rule 9.6](https://www.legislation.gov.uk/uksi/2025/909/rule/9.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-98f6d9c623b881bf48082a4902bcb592]: Commencement: [Rule 9.6](https://www.legislation.gov.uk/uksi/2025/909/rule/9.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00271]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); section 51B was inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and amended by section 50 of, and paragraph 69 of Schedule 4 to, the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) and paragraphs 46 and 48 of Schedule 5 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91E. Review of indefinite notification requirements: appeals[^key-45d74580ab2002dd9a99891f3b99de99]
+## 91E. Review of indefinite notification requirements: appeals[^c-45d74580ab2002dd9a99891f3b99de99]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45d74580ab2002dd9a99891f3b99de99]: Textual amendment: Ss. 91A-91F inserted (E.W.) (31.7.2012) by [The Sexual Offences Act 2003 (Remedial) Order 2012 (S.I. 2012/1883)](https://www.legislation.gov.uk/uksi/2012/1883), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1883/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1883/article/3)
+[^c-45d74580ab2002dd9a99891f3b99de99]: Textual amendment: Ss. 91A-91F inserted (E.W.) (31.7.2012) by [The Sexual Offences Act 2003 (Remedial) Order 2012 (S.I. 2012/1883)](https://www.legislation.gov.uk/uksi/2012/1883), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1883/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1883/article/3)

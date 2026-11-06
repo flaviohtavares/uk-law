@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. Power to require information etc for the purpose of monitoring[^key-55e8176ba8a77d970ee4456bcf6519ac]
+## 47A. Power to require information etc for the purpose of monitoring[^c-55e8176ba8a77d970ee4456bcf6519ac]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55e8176ba8a77d970ee4456bcf6519ac]: Textual amendment: S. 47A inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/31/3)
+[^c-55e8176ba8a77d970ee4456bcf6519ac]: Textual amendment: S. 47A inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/31/3)

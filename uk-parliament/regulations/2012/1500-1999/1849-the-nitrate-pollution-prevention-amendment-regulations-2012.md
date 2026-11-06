@@ -34,7 +34,7 @@ Agriculture, England
 
 Water, England
 
-The Nitrate Pollution Prevention (Amendment) Regulations 2012 (revoked)[^key-2d9323bf37b89d7a4c057683934e6553]
+The Nitrate Pollution Prevention (Amendment) Regulations 2012 (revoked)[^c-2d9323bf37b89d7a4c057683934e6553]
 
 Made
 
@@ -48,23 +48,23 @@ Coming into force
 
 7th August 2012
 
-[^key-2d9323bf37b89d7a4c057683934e6553]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9323bf37b89d7a4c057683934e6553]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2d9323bf37b89d7a4c057683934e6553]
+## 1. Citation and commencement[^c-2d9323bf37b89d7a4c057683934e6553]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-2d9323bf37b89d7a4c057683934e6553]
+## 2. Amendments[^c-2d9323bf37b89d7a4c057683934e6553]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d9323bf37b89d7a4c057683934e6553]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9323bf37b89d7a4c057683934e6553]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-2d9323bf37b89d7a4c057683934e6553]EXPLANATORY NOTE
+[^c-2d9323bf37b89d7a4c057683934e6553]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -80,4 +80,4 @@ No impact assessment has been carried out in respect of these Regulations as no 
 
 ## Annotations
 
-[^key-2d9323bf37b89d7a4c057683934e6553]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/1849) revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [reg. 44(d)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/d)
+[^c-2d9323bf37b89d7a4c057683934e6553]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/1849) revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [reg. 44(d)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/d)

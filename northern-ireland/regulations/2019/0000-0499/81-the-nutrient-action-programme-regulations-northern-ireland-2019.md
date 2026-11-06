@@ -85,7 +85,7 @@ In accordance with Article 32(3) of that Order the Department has published in t
 - “**controller**” means in relation to a holding, the person charged with management of the holding for the calendar year in question and will be taken to be the person claiming direct agricultural aid payments for the agricultural area or, where direct agricultural aid payments are not being claimed, the person who enjoys the decision making power, benefits and financial risks in relation to the agricultural activity carried out on the land;
 - “**crop requirement**” means the amount of nitrogen, phosphorus and other plant nutrients in fertiliser which is reasonable to apply to land in any year for the purpose of promoting the growth of the crop having regard to the foreseeable nutrient supply to the crop from the soil and from other sources, including any previous applications of livestock and other organic manure and any chemical fertilisers estimated as described in the fertiliser technical standards and, with regard to nitrogen, regulations 9, 10, 11 and 12;
 - “**Department**” means the Department of Agriculture, Environment and Rural Affairs;
-- “derogated holding” means a grassland holding for which a derogation has been granted;[^key-a27ab9515b4f92b03b7168f512d860ee]
+- “derogated holding” means a grassland holding for which a derogation has been granted;[^c-a27ab9515b4f92b03b7168f512d860ee]
 - “derogation” means a derogation from the limit of livestock manure that can be applied to land each year, granted by the Department in accordance with regulation 39;
 - “derogation application” means an application for derogation submitted by the controller to the Department in such manner as it may require;
 - “**direct agricultural aid payments**” means the Basic Payment Scheme as referred to in Title III of Regulation (EU) No 1307/2013 [^c23707441] or payments to areas facing natural or other specific constraints as referred to in Article 31 of Regulation EU No 1305/2013 [^c23707451];
@@ -206,8 +206,8 @@ In complying with a duty under these Regulations, the controller of a holding sh
 - (c) the soil is frozen;
 - (d) land is snow covered;
 - (e) heavy rain is falling or is forecast within 48 hours;
-- (f) the land is steeply sloping land and where, taking into account the risk assessment set out in Part 1 of Schedule 4[^key-c34dabef0d890fca22575651b4ea72db] , there is significant risk of causing water pollution.
-- (g)[^key-e34d03076d2e9ca60b34e5a12cda70f5] taking into account the risk assessment set out in Part 2 of Schedule 4, there is a significant risk of causing water pollution.
+- (f) the land is steeply sloping land and where, taking into account the risk assessment set out in Part 1 of Schedule 4[^c-c34dabef0d890fca22575651b4ea72db] , there is significant risk of causing water pollution.
+- (g)[^c-e34d03076d2e9ca60b34e5a12cda70f5] taking into account the risk assessment set out in Part 2 of Schedule 4, there is a significant risk of causing water pollution.
 
 (3) The land application of fertiliser shall not be permitted on any land in a location or manner which would make it likely that the fertiliser will directly enter a waterway or water contained in any underground strata.
 
@@ -243,7 +243,7 @@ In complying with a duty under these Regulations, the controller of a holding sh
 - (a) paragraph (5)(a) shall apply as if for 20 metres there were substituted 30 metres;
 - (b) paragraph (5)(e) shall apply as if for 10 metres there were substituted 15 metres;
 - (c) paragraph (8) shall apply as if for 50 cubic metres there were substituted 30 cubic metres.
-- (d)[^key-ee977032f2dc458cd04d1f45083774cc] paragraph (5)(f) shall apply as if for 3 metres there were substituted 5 metres.
+- (d)[^c-ee977032f2dc458cd04d1f45083774cc] paragraph (5)(f) shall apply as if for 3 metres there were substituted 5 metres.
 
 (10) The maximum land application of dirty water shall be 50 cubic metres per hectare at any one time and a period of at least 2 weeks shall be left between such land applications.
 
@@ -251,8 +251,8 @@ In complying with a duty under these Regulations, the controller of a holding sh
 
 - (a) when applied by a slurry contractor, it shall be permitted only by spreading close to the ground using bandspreading, dribble bar, trailing hose, trailing shoe, soil incorporation or soil injection methods, from 1st February 2021;
 - (b) on holdings with an average in any calendar year of 200 or more livestock units of bovine animals or holdings with a total annual livestock manure nitrogen production of 20,000kg or more from pigs, where it shall be permitted only by spreading close to the ground using bandspreading, dribble bar, trailing hose, trailing shoe, soil incorporation or soil injection methods, from 1st February 2022;
-- (c)[^key-0d0684d81729db59a161d948dea767e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-74503976a392b7284d7dae5794ae5008] where it is not practical to comply with sub-paragraph (a) or (b) or paragraph (13), on a field due to the slope, the appropriate person may then spread on that field, close to the ground using inverted splash plate spreading and must keep a record of such spreading, in such format as the Department may specify.
+- (c)[^c-0d0684d81729db59a161d948dea767e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-74503976a392b7284d7dae5794ae5008] where it is not practical to comply with sub-paragraph (a) or (b) or paragraph (13), on a field due to the slope, the appropriate person may then spread on that field, close to the ground using inverted splash plate spreading and must keep a record of such spreading, in such format as the Department may specify.
 
 (12) The land application of dirty water shall be permitted only by spreading close to the ground using inverted splash plate spreading, bandspreading, dribble bar, trailing hose, trailing shoe, soil injection, soil incorporation or irrigation methods.
 
@@ -260,7 +260,7 @@ In complying with a duty under these Regulations, the controller of a holding sh
 
 ### 9. General measures governing the limits on land application of nitrogen fertiliser
 
-(1) Except where regulation 39 applies, the[^key-409821a690be6cba17254527b5bfce66] amount of total nitrogen in livestock manure and anaerobic digestate containing digested livestock manure applied to the agricultural area of a holding, both by land application and by the animals themselves, shall not exceed 170 kg of nitrogen per hectare per year when calculated in accordance with paragraphs (2) and (3).
+(1) Except where regulation 39 applies, the[^c-409821a690be6cba17254527b5bfce66] amount of total nitrogen in livestock manure and anaerobic digestate containing digested livestock manure applied to the agricultural area of a holding, both by land application and by the animals themselves, shall not exceed 170 kg of nitrogen per hectare per year when calculated in accordance with paragraphs (2) and (3).
 
 (2) The total nitrogen from livestock manure from animals kept on the holding is calculated in accordance with Table 1 of Schedule 2.
 
@@ -296,7 +296,7 @@ For each holding, the total amount of available nitrogen in organic manure and c
 
 (4) Where anaerobic digestate is applied, the controller must prepare and retain a fertilisation plan.
 
-(4A)[^key-14a5130b7f3c011c31dd20fdd8a7220d] Paragraphs (2) and (3) shall not apply in relation to the controller where anaerobic digestate is produced—
+(4A)[^c-14a5130b7f3c011c31dd20fdd8a7220d] Paragraphs (2) and (3) shall not apply in relation to the controller where anaerobic digestate is produced—
 
 - (a) on the holding on which it is to be applied; and
 - (b) from livestock manure or non-waste feedstocks generated on the holding.
@@ -323,7 +323,7 @@ For each holding, the total amount of available nitrogen in organic manure and c
 
 (3) From 1st January 2020, where chemical P fertiliser is applied to grassland, the controller shall prepare and retain a fertilisation plan.
 
-(4)[^key-1cf3f008cf23284b1e4bbe88f81d9f9e] The application limits set out in Table 2 of Schedule 3 shall have effect from 1st January 2020.
+(4)[^c-1cf3f008cf23284b1e4bbe88f81d9f9e] The application limits set out in Table 2 of Schedule 3 shall have effect from 1st January 2020.
 
 ### 14. Measures governing the limits on land application of organic manures with a high proportion of phosphorus
 
@@ -361,9 +361,9 @@ For each holding, the total amount of available nitrogen in organic manure and c
 - (e) the quantity of each type of organic manure moved on or off the holding;
 - (f) the results of soil analysis relating to nitrogen and phosphorus soil status if available;
 - (g) the amount of nitrogen from nitrogen fertilisers applied in each area of the holding under the same cropping regime and soil type calculated in accordance with Tables 1 to 5 of Schedule 2;
-- (h) the amount of nitrogen from other organic manures, excluding livestock manures, applied in each area of the holding under the same cropping regime and soil type, calculated in accordance with regulation 9 and Schedule 2; [^key-4906bcf16632bcb76e4d7c13b1647bca]...
-- (i) the amount of phosphorus from chemical phosphorus fertilisers and organic manure applied in each area of the holding under the same cropping regime and with the same soil phosphorus index calculated in accordance with Tables 1 and 2 of Schedule 2; and[^key-87013a3978414ad59c685f11db232ad1]
-- (j)[^key-8d01093bbac76a236ce2cb0de5e0eaca] in the case of a derogated holding, a description of the housing and manure storage system, including the volume of manure storage available.
+- (h) the amount of nitrogen from other organic manures, excluding livestock manures, applied in each area of the holding under the same cropping regime and soil type, calculated in accordance with regulation 9 and Schedule 2; [^c-4906bcf16632bcb76e4d7c13b1647bca]...
+- (i) the amount of phosphorus from chemical phosphorus fertilisers and organic manure applied in each area of the holding under the same cropping regime and with the same soil phosphorus index calculated in accordance with Tables 1 and 2 of Schedule 2; and[^c-87013a3978414ad59c685f11db232ad1]
+- (j)[^c-8d01093bbac76a236ce2cb0de5e0eaca] in the case of a derogated holding, a description of the housing and manure storage system, including the volume of manure storage available.
 
 (3) Paragraph (2) is satisfied if a controller prepares and retains a fertilisation plan in accordance with the Department's crop nutrient calculator [^c23707491] or such other format as the Department may specify.
 
@@ -431,7 +431,7 @@ For each holding, the total amount of available nitrogen in organic manure and c
 - (d) 250 metres from any borehole used for a public water supply; or
 - (e) 50 metres of exposed, cavernous or karstified, limestone features (such as swallow holes and collapse features).
 
-(3) Where stored in a field, land applications of the farmyard manure shall take place within[^key-163ed5bc56e03a051126fa3b9841214c] 120 days from placement in that field, and the farmyard manure heap shall not be placed where—
+(3) Where stored in a field, land applications of the farmyard manure shall take place within[^c-163ed5bc56e03a051126fa3b9841214c] 120 days from placement in that field, and the farmyard manure heap shall not be placed where—
 
 - (a) the soil is waterlogged; or
 - (b) the land is flooded or likely to flood.
@@ -444,11 +444,11 @@ For each holding, the total amount of available nitrogen in organic manure and c
 - (b) where anaerobic digestate fibre is stored in open midden, it must be covered within 24 hours of storage; or
 - (c) subject to paragraphs (2) to (6), in the field where land application will take place.
 
-(2)[^key-a6b969706fa928dead5eb190044b87bb] If poultry litter or anaerobic digestate fibre is to be stored in a field heap, the controller must inform the Department in such manner as it may require.
+(2)[^c-a6b969706fa928dead5eb190044b87bb] If poultry litter or anaerobic digestate fibre is to be stored in a field heap, the controller must inform the Department in such manner as it may require.
 
-(3)[^key-8065b6aaf442f782c2b0df1bf3ceb73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8065b6aaf442f782c2b0df1bf3ceb73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where stored in a field, poultry litter or anaerobic digestate fibre[^key-2353c7db72d2728025d4c9da9dc3a6e0] shall be stored in a compact heap and such heaps shall not be placed in the same location of the field in consecutive years or within—
+(4) Where stored in a field, poultry litter or anaerobic digestate fibre[^c-2353c7db72d2728025d4c9da9dc3a6e0] shall be stored in a compact heap and such heaps shall not be placed in the same location of the field in consecutive years or within—
 
 - (a) 100 metres of lakes;
 - (b) 40 metres of any waterway, including open areas of water, open field drains or any drain which has been backfilled to the surface with permeable material such as stone or aggregate;
@@ -558,13 +558,13 @@ Where grass leys are grown in rotation with arable crops the first crop shall be
 - (e) the number of livestock kept on the holding, there species and type, and the length of time for which they were kept on the holding;
 - (f) the capacity of livestock manure storage and where applicable the details of rented storage, authorisation for storage of poultry litter or anaerobic digestate fibre in a field heap, farmyard manure production, out wintered livestock, manure separation and manure processing facilities utilised;
 - (g) the details of any rental agreement or contract to demonstrate compliance with regulation 23(1)(c) or (d);
-- (h) where regulation 8(11)(d) applies, particulars of the reason why that regulation applies to any particular field[^key-f90184df5480155a1ac26ae38fb41052] ;
+- (h) where regulation 8(11)(d) applies, particulars of the reason why that regulation applies to any particular field[^c-f90184df5480155a1ac26ae38fb41052] ;
 - (i) the amount of each type of nitrogen fertiliser applied, the certified nitrogen content of any chemical fertiliser applied and the total nitrogen content per tonne of other organic manures as in accordance with Table 2 of Schedule 2;
 - (j) where regulation 12 applies—
   - (i) the quantity of anaerobic digestate applied;
   - (ii) the date of application of any anaerobic digestate; and
   - (iii) the nutrient content analysis for the anaerobic digestate;
-- (k) where regulation 12(2), 13(1) or 14(1)[^key-563e9b567b7887ca3e72f0dc920854c9] applies—
+- (k) where regulation 12(2), 13(1) or 14(1)[^c-563e9b567b7887ca3e72f0dc920854c9] applies—
   - (i) the results of any soil tests carried out in accordance with Schedule 5;
   - (ii) a statement of the foreseeable crop requirement for phosphorus;
   - (iii) the quantity of each type of phosphorus fertiliser applied;
@@ -572,15 +572,15 @@ Where grass leys are grown in rotation with arable crops the first crop shall be
   - (v) the date of application of any phosphorus fertiliser; and
   - (vi) the type and date of any crop sown;
 - (l) evidence of the right to graze common land;
-- (m) the quantity of each type of nitrogen fertiliser moved on to the holding, the date of that movement and, in the case of organic manure, the name and address of the consignee, the consignor and any third party transporter of the manure; [^key-7fc57bcc2d48180ae138f8ed6b093116]...
-- (n) the quantity of each time of nitrogen fertiliser moved off the holding, the date of that movement and, in the case of organic manure, the name and address of the consignee, the consignor and any third party transporter of the manure; and[^key-640b439884a1857b6060855fa93cc462]
-- (o)[^key-d9a7fd7a3887bad30ffd5331cc7e48c6] where regulation 21(2) applies, particulars of any communications given to the Department.
+- (m) the quantity of each type of nitrogen fertiliser moved on to the holding, the date of that movement and, in the case of organic manure, the name and address of the consignee, the consignor and any third party transporter of the manure; [^c-7fc57bcc2d48180ae138f8ed6b093116]...
+- (n) the quantity of each time of nitrogen fertiliser moved off the holding, the date of that movement and, in the case of organic manure, the name and address of the consignee, the consignor and any third party transporter of the manure; and[^c-640b439884a1857b6060855fa93cc462]
+- (o)[^c-d9a7fd7a3887bad30ffd5331cc7e48c6] where regulation 21(2) applies, particulars of any communications given to the Department.
 
-(2) Records under paragraph (1)(a) to (m) and (o)[^key-0f08349c4cbf2ff0257f0fc2adf8816d] shall be prepared for each calendar year by 30th June of the following year and shall be retained for a period of 5 years from that date.
+(2) Records under paragraph (1)(a) to (m) and (o)[^c-0f08349c4cbf2ff0257f0fc2adf8816d] shall be prepared for each calendar year by 30th June of the following year and shall be retained for a period of 5 years from that date.
 
-(3)[^key-2193d22d06d7c1971acfa64b5180c410] Records under paragraph (1)(n) shall be prepared for each calendar year and shall be submitted to the Department by 1st March of the following year for derogated holdings and by 31st January of the following year for all other holdings, in a format specified by the Department and a copy shall be retained by the controller for a period of 5 years from the date of preparation or submission whichever is later.
+(3)[^c-2193d22d06d7c1971acfa64b5180c410] Records under paragraph (1)(n) shall be prepared for each calendar year and shall be submitted to the Department by 1st March of the following year for derogated holdings and by 31st January of the following year for all other holdings, in a format specified by the Department and a copy shall be retained by the controller for a period of 5 years from the date of preparation or submission whichever is later.
 
-(3A)[^key-a4be9ed760d203314173d03399e1a8ba] Where the controller is required to prepare a fertilisation plan in relation to a derogated holding for a calendar year they shall prepare that plan no later than 1st March in that calendar year.
+(3A)[^c-a4be9ed760d203314173d03399e1a8ba] Where the controller is required to prepare a fertilisation plan in relation to a derogated holding for a calendar year they shall prepare that plan no later than 1st March in that calendar year.
 
 (4) Where the controller is required to complete a fertilisation plan, they shall retain the fertilisation plan for each calendar year for that holding for 5 years from the date upon which it was prepared or submitted to the Department, whichever is the later.
 
@@ -627,17 +627,17 @@ The controller shall not compile records which are false or misleading or furnis
 
 (1) Any appropriate person upon whom a notice is served under regulation 30 may, within the period of 28 days from the day on which the notice is served, appeal in writing against the notice to the Appeals Commission.
 
-(2) Appeals under regulations 9(6), 30(2)(c) and 40(4)[^key-ef8d7e72475a75911933b89402fd3241] shall be determined by the Appeals Commission in accordance with the procedure pursuant to Article 293 of the Water and Sewerage Services (Northern Ireland) Order 2006 [^c23707501] and, for the purposes of appeals under these Regulations, references to the Department in Article 293 shall have the same meaning as under these Regulations.
+(2) Appeals under regulations 9(6), 30(2)(c) and 40(4)[^c-ef8d7e72475a75911933b89402fd3241] shall be determined by the Appeals Commission in accordance with the procedure pursuant to Article 293 of the Water and Sewerage Services (Northern Ireland) Order 2006 [^c23707501] and, for the purposes of appeals under these Regulations, references to the Department in Article 293 shall have the same meaning as under these Regulations.
 
 ### 32. Offences
 
-(1)[^key-ad83d6413608150f4265e7a5a16d3f8d] It shall be an offence for the controller to fail to comply without reasonable excuse with regulation 4, 9(1), 17(1) or (3), 18, 25, 27(3), 40(3) or Schedule 8 except paragraph 4.
+(1)[^c-ad83d6413608150f4265e7a5a16d3f8d] It shall be an offence for the controller to fail to comply without reasonable excuse with regulation 4, 9(1), 17(1) or (3), 18, 25, 27(3), 40(3) or Schedule 8 except paragraph 4.
 
 (2) It shall be an offence for the appropriate person to fail to comply without reasonable excuse with regulation 7(3) or (4), 8(2), (3), (7), (8), (10), (11)(c) or (d), 20(3) or 21(5).
 
-(3)[^key-da82957674acf5903c2ef4122786a713] It shall be an offence for the controller to fail to comply with regulation 9(5), 10, 11(1) or (2), 13(1), 14(1), 22, 27(1), (2), (3A) or (4), 28, 40(5) or paragraph 4 of Schedule 8.
+(3)[^c-da82957674acf5903c2ef4122786a713] It shall be an offence for the controller to fail to comply with regulation 9(5), 10, 11(1) or (2), 13(1), 14(1), 22, 27(1), (2), (3A) or (4), 28, 40(5) or paragraph 4 of Schedule 8.
 
-(3A)[^key-c1a5b428ced75e494d584c3be8bb97ca] It shall be an offence—
+(3A)[^c-c1a5b428ced75e494d584c3be8bb97ca] It shall be an offence—
 
 - (a) for the controller in relation to a derogated holding to fail to comply with regulation 16(1) or (4);
 - (b) for the controller in relation to any other holding to fail to comply without reasonable excuse with regulation 16(1) or (4).
@@ -708,7 +708,7 @@ Any person guilty of an offence under regulation 32 shall be liable—
 - (a) the address to which comments in relation to those proposals may be submitted; and
 - (b) the date by which such comments should be received.
 
-(7)[^key-bd3ad39f2cdf15999c1aab2d1dd2a781] As part of the review conducted under this regulation, the Department must review the overall position of derogations granted under regulation 39(3) against the effectiveness in meeting objectives of reducing water pollution from nutrients and preventing further pollution.
+(7)[^c-bd3ad39f2cdf15999c1aab2d1dd2a781] As part of the review conducted under this regulation, the Department must review the overall position of derogations granted under regulation 39(3) against the effectiveness in meeting objectives of reducing water pollution from nutrients and preventing further pollution.
 
 ## PART 9 — Miscellaneous
 
@@ -749,7 +749,7 @@ shall, notwithstanding the revocation of those Regulations, be deemed to be reco
 
 (2) Table 1a of Schedule 1 to the Nitrates Action Programme Regulations (Northern Ireland) 2014 shall continue to have effect until 31st December 2019.
 
-## PART 10 — Derogation from measures governing the limits on land application of livestock manure[^key-0e22d7b973b70ff13a01c0e7798996b5]
+## PART 10 — Derogation from measures governing the limits on land application of livestock manure[^c-0e22d7b973b70ff13a01c0e7798996b5]
 
 **39.** (1) A controller may submit to the Department an application for an annual authorisation by such date as may be specified by the Department in a calendar year to apply grazing livestock manure containing up to 250kg nitrogen per hectare in that year.
 
@@ -1057,7 +1057,7 @@ Regulation 20 – Livestock manure production figures
 </tbody>
 </table>
 
-### 1. Criteria as to calculation of phosphorus balance[^key-a850597fdec09bf423508c2172739109]
+### 1. Criteria as to calculation of phosphorus balance[^c-a850597fdec09bf423508c2172739109]
 
 (1) Phosphorus balance is the difference between phosphorus inputs to the holding less the total of phosphorus outputs leaving the holding. It is calculated per unit area of agricultural land on the holding for each calendar year.
 
@@ -1166,7 +1166,7 @@ Maximum phosphate fertiliser application limits (kg P<sub>2</sub>O<sub>5</sub> p
 
 Table 2b
 
-If silage or hay crops receive over[^key-d508187729fa77fea20b827aae8d014a] 80 kg chemical fertiliser N/ha/year, the following maximum phosphate fertiliser application limits apply.
+If silage or hay crops receive over[^c-d508187729fa77fea20b827aae8d014a] 80 kg chemical fertiliser N/ha/year, the following maximum phosphate fertiliser application limits apply.
 
 <table>
 <tbody>
@@ -1226,13 +1226,13 @@ Available phosphate (P<sub>2</sub>O<sub>5</sub>) values for fertilisers
 </tbody>
 </table>
 
-[^key-74ae57143f9d213fec4de9e4b5bad2ce][^c23707581][^M_F_0e2e7be7-6dc1-4810-9b3b-9c94d7c6f011]
+[^c-74ae57143f9d213fec4de9e4b5bad2ce][^c23707581][^M_F_0e2e7be7-6dc1-4810-9b3b-9c94d7c6f011]
 
 ## SCHEDULE 4 — Risk assessment for fertiliser application to steeply sloping land
 
 Regulation 8(2)(f)
 
-### PART 1[^key-cea5a32feb1b6ef8fde5d1e7f059bebc]
+### PART 1[^c-cea5a32feb1b6ef8fde5d1e7f059bebc]
 
 **1.** If an application of organic manure (including livestock manure) or chemical fertiliser to steeply sloping land is proposed, a risk assessment must be undertaken in addition to meeting all relevant requirements of these Regulations. The factors set out in Table 1 shall be considered in making this risk assessment. Table 2 shall be consulted to ascertain whether fertiliser application is permitted.
 
@@ -1269,7 +1269,7 @@ Fertiliser application to steeply sloping ground – risk assessment factors
 </tbody>
 </table>
 
-[^key-6f80ffc7e8d200ed8fab6e2f95b38317][^key-21166878cec6f0c2fb41de89fcb26e31]
+[^c-6f80ffc7e8d200ed8fab6e2f95b38317][^c-21166878cec6f0c2fb41de89fcb26e31]
 
 Table 2
 
@@ -1285,7 +1285,7 @@ Risk assessment determination
 </tbody>
 </table>
 
-### PART 2 — Risk assessment for fertiliser application to land other than steeply sloping land[^key-b69c3c6e147b46d584c2b9db1981af9e]
+### PART 2 — Risk assessment for fertiliser application to land other than steeply sloping land[^c-b69c3c6e147b46d584c2b9db1981af9e]
 
 **1.** If an application of organic manure (including livestock manure) or chemical fertiliser to sloping land is proposed, a risk assessment must be undertaken in addition to meeting all relevant requirements of these Regulations. The factors set out in Table 3 shall be considered in making this risk assessment. Table 4 shall be consulted to ascertain whether fertiliser application is permitted.
 
@@ -1459,7 +1459,7 @@ Regulation 24(1)(a)
 
 **9.** Where any part of an effluent tank is installed below ground level, it shall be designed and constructed in accordance with the Code of Practice referred to in paragraph 7(a) so that with proper maintenance it is likely to satisfy the requirements of paragraphs 4 and 5 for a period of at least 20 years.
 
-## SCHEDULE 8 — Conditions applying in relation to a Derogation[^key-0f44d32924571d5a98dc3c64b7c0941c]
+## SCHEDULE 8 — Conditions applying in relation to a Derogation[^c-0f44d32924571d5a98dc3c64b7c0941c]
 
 Regulations 39 and 40
 
@@ -1593,7 +1593,7 @@ Copies of Council Directive [91/676/EEC](https://www.legislation.gov.uk/european
 
 [^c23707431]: Marginal citation: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
-[^key-a27ab9515b4f92b03b7168f512d860ee]: Textual amendment: Words in reg. 3(2) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/183/regulation/4)
+[^c-a27ab9515b4f92b03b7168f512d860ee]: Textual amendment: Words in reg. 3(2) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/183/regulation/4)
 
 [^c23707441]: Marginal citation: OJL 347, 20.12.13, p. 865-883
 
@@ -1605,65 +1605,65 @@ Copies of Council Directive [91/676/EEC](https://www.legislation.gov.uk/european
 
 [^c23707481]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493)
 
-[^key-c34dabef0d890fca22575651b4ea72db]: Textual amendment: Words in reg. 8(2)(f) subsituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/a)
+[^c-c34dabef0d890fca22575651b4ea72db]: Textual amendment: Words in reg. 8(2)(f) subsituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/a)
 
-[^key-e34d03076d2e9ca60b34e5a12cda70f5]: Textual amendment: Reg. 8(2)(g) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/b)
+[^c-e34d03076d2e9ca60b34e5a12cda70f5]: Textual amendment: Reg. 8(2)(g) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/b)
 
-[^key-ee977032f2dc458cd04d1f45083774cc]: Textual amendment: Reg. 8(9)(d) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/c)
+[^c-ee977032f2dc458cd04d1f45083774cc]: Textual amendment: Reg. 8(9)(d) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/c)
 
-[^key-0d0684d81729db59a161d948dea767e0]: Textual amendment: Reg. 8(11)(c) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(d)(i)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/d/i)
+[^c-0d0684d81729db59a161d948dea767e0]: Textual amendment: Reg. 8(11)(c) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(d)(i)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/d/i)
 
-[^key-74503976a392b7284d7dae5794ae5008]: Textual amendment: Reg. 8(11)(d) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(d)(ii)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/d/ii)
+[^c-74503976a392b7284d7dae5794ae5008]: Textual amendment: Reg. 8(11)(d) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [5(d)(ii)](https://www.legislation.gov.uk/nisr/2019/183/regulation/5/d/ii)
 
-[^key-409821a690be6cba17254527b5bfce66]: Textual amendment: Words in reg. 9(1) subsituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [6](https://www.legislation.gov.uk/nisr/2019/183/regulation/6)
+[^c-409821a690be6cba17254527b5bfce66]: Textual amendment: Words in reg. 9(1) subsituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [6](https://www.legislation.gov.uk/nisr/2019/183/regulation/6)
 
-[^key-14a5130b7f3c011c31dd20fdd8a7220d]: Textual amendment: Reg. 12(4A) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/183/regulation/7)
+[^c-14a5130b7f3c011c31dd20fdd8a7220d]: Textual amendment: Reg. 12(4A) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/183/regulation/7)
 
-[^key-1cf3f008cf23284b1e4bbe88f81d9f9e]: Textual amendment: Reg. 13(4) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [8](https://www.legislation.gov.uk/nisr/2019/183/regulation/8)
+[^c-1cf3f008cf23284b1e4bbe88f81d9f9e]: Textual amendment: Reg. 13(4) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [8](https://www.legislation.gov.uk/nisr/2019/183/regulation/8)
 
-[^key-4906bcf16632bcb76e4d7c13b1647bca]: Textual amendment: Word in reg. 16(2)(h) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/9/a)
+[^c-4906bcf16632bcb76e4d7c13b1647bca]: Textual amendment: Word in reg. 16(2)(h) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/9/a)
 
-[^key-87013a3978414ad59c685f11db232ad1]: Textual amendment: Words in reg. 16(2)(i) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/9/b)
+[^c-87013a3978414ad59c685f11db232ad1]: Textual amendment: Words in reg. 16(2)(i) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/9/b)
 
-[^key-8d01093bbac76a236ce2cb0de5e0eaca]: Textual amendment: Reg. 16(2)(j) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [9(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/9/c)
+[^c-8d01093bbac76a236ce2cb0de5e0eaca]: Textual amendment: Reg. 16(2)(j) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [9(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/9/c)
 
 [^c23707491]: Marginal citation: available from the Department's website: www.daera-ni.gov.uk
 
-[^key-163ed5bc56e03a051126fa3b9841214c]: Textual amendment: Word in reg. 20(3) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [10](https://www.legislation.gov.uk/nisr/2019/183/regulation/10)
+[^c-163ed5bc56e03a051126fa3b9841214c]: Textual amendment: Word in reg. 20(3) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [10](https://www.legislation.gov.uk/nisr/2019/183/regulation/10)
 
-[^key-a6b969706fa928dead5eb190044b87bb]: Textual amendment: Reg. 21(2) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/11/a)
+[^c-a6b969706fa928dead5eb190044b87bb]: Textual amendment: Reg. 21(2) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/11/a)
 
-[^key-8065b6aaf442f782c2b0df1bf3ceb73d]: Textual amendment: Reg. 21(3) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/11/b)
+[^c-8065b6aaf442f782c2b0df1bf3ceb73d]: Textual amendment: Reg. 21(3) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/11/b)
 
-[^key-2353c7db72d2728025d4c9da9dc3a6e0]: Textual amendment: Words in reg. 21(4) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/11/c)
+[^c-2353c7db72d2728025d4c9da9dc3a6e0]: Textual amendment: Words in reg. 21(4) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/11/c)
 
-[^key-f90184df5480155a1ac26ae38fb41052]: Textual amendment: Words in reg. 27(1)(h) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/a)
+[^c-f90184df5480155a1ac26ae38fb41052]: Textual amendment: Words in reg. 27(1)(h) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/a)
 
-[^key-563e9b567b7887ca3e72f0dc920854c9]: Textual amendment: Words in reg. 27(1)(k) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/b)
+[^c-563e9b567b7887ca3e72f0dc920854c9]: Textual amendment: Words in reg. 27(1)(k) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/b)
 
-[^key-7fc57bcc2d48180ae138f8ed6b093116]: Textual amendment: Word in reg. 27(1)(m) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/c)
+[^c-7fc57bcc2d48180ae138f8ed6b093116]: Textual amendment: Word in reg. 27(1)(m) omitted (15.10.2019) by virtue of [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/c)
 
-[^key-640b439884a1857b6060855fa93cc462]: Textual amendment: Words in reg. 27(1)(n) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(d)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/d)
+[^c-640b439884a1857b6060855fa93cc462]: Textual amendment: Words in reg. 27(1)(n) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(d)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/d)
 
-[^key-d9a7fd7a3887bad30ffd5331cc7e48c6]: Textual amendment: Reg. 27(1)(o) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(e)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/e)
+[^c-d9a7fd7a3887bad30ffd5331cc7e48c6]: Textual amendment: Reg. 27(1)(o) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(e)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/e)
 
-[^key-0f08349c4cbf2ff0257f0fc2adf8816d]: Textual amendment: Words in reg. 27(2) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(f)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/f)
+[^c-0f08349c4cbf2ff0257f0fc2adf8816d]: Textual amendment: Words in reg. 27(2) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(f)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/f)
 
-[^key-2193d22d06d7c1971acfa64b5180c410]: Textual amendment: Reg. 27(3) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(g)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/g)
+[^c-2193d22d06d7c1971acfa64b5180c410]: Textual amendment: Reg. 27(3) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(g)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/g)
 
-[^key-a4be9ed760d203314173d03399e1a8ba]: Textual amendment: Reg. 27(3A) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(h)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/h)
+[^c-a4be9ed760d203314173d03399e1a8ba]: Textual amendment: Reg. 27(3A) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [12(h)](https://www.legislation.gov.uk/nisr/2019/183/regulation/12/h)
 
-[^key-ef8d7e72475a75911933b89402fd3241]: Textual amendment: Reg. 31(2) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [13](https://www.legislation.gov.uk/nisr/2019/183/regulation/13)
+[^c-ef8d7e72475a75911933b89402fd3241]: Textual amendment: Reg. 31(2) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [13](https://www.legislation.gov.uk/nisr/2019/183/regulation/13)
 
 [^c23707501]: Marginal citation: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
-[^key-ad83d6413608150f4265e7a5a16d3f8d]: Textual amendment: Reg. 32(1) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/14/a)
+[^c-ad83d6413608150f4265e7a5a16d3f8d]: Textual amendment: Reg. 32(1) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/14/a)
 
-[^key-da82957674acf5903c2ef4122786a713]: Textual amendment: Reg. 32(3) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/14/b)
+[^c-da82957674acf5903c2ef4122786a713]: Textual amendment: Reg. 32(3) substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2019/183/regulation/14/b)
 
-[^key-c1a5b428ced75e494d584c3be8bb97ca]: Textual amendment: Reg. 32(3A) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [14(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/14/c)
+[^c-c1a5b428ced75e494d584c3be8bb97ca]: Textual amendment: Reg. 32(3A) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [14(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/14/c)
 
-[^key-bd3ad39f2cdf15999c1aab2d1dd2a781]: Textual amendment: Reg. 35(7) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/183/regulation/15)
+[^c-bd3ad39f2cdf15999c1aab2d1dd2a781]: Textual amendment: Reg. 35(7) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/183/regulation/15)
 
 [^c23707511]: Marginal citation: S.R. [2014 No. 307](https://www.legislation.gov.uk/ukcm/2014/307) to which there are amendments not relevant to these regulations.
 
@@ -1679,25 +1679,25 @@ Copies of Council Directive [91/676/EEC](https://www.legislation.gov.uk/european
 
 [^c23707571]: Marginal citation: S.R. [2018 No. 188](https://www.legislation.gov.uk/ukcm/2018/188)
 
-[^key-0e22d7b973b70ff13a01c0e7798996b5]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/nisr/2019/81/part/10) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [16](https://www.legislation.gov.uk/nisr/2019/183/regulation/16)
+[^c-0e22d7b973b70ff13a01c0e7798996b5]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/nisr/2019/81/part/10) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [16](https://www.legislation.gov.uk/nisr/2019/183/regulation/16)
 
-[^key-a850597fdec09bf423508c2172739109]: Textual amendment: Sch. 2 para. 1 inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [17](https://www.legislation.gov.uk/nisr/2019/183/regulation/17)
+[^c-a850597fdec09bf423508c2172739109]: Textual amendment: Sch. 2 para. 1 inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [17](https://www.legislation.gov.uk/nisr/2019/183/regulation/17)
 
-[^key-d508187729fa77fea20b827aae8d014a]: Textual amendment: Word in Sch. 3 Table 2b heading substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [18(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/18/a)
+[^c-d508187729fa77fea20b827aae8d014a]: Textual amendment: Word in Sch. 3 Table 2b heading substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [18(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/18/a)
 
-[^key-74ae57143f9d213fec4de9e4b5bad2ce]: Textual amendment: Words in Sch. 3 substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [18(b)(i)](https://www.legislation.gov.uk/nisr/2019/183/regulation/18/b/i)
+[^c-74ae57143f9d213fec4de9e4b5bad2ce]: Textual amendment: Words in Sch. 3 substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [18(b)(i)](https://www.legislation.gov.uk/nisr/2019/183/regulation/18/b/i)
 
 [^c23707581]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493)
 
 [^M_F_0e2e7be7-6dc1-4810-9b3b-9c94d7c6f011]: Textual amendment: Words in Sch. 3 inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [18(b)(ii)](https://www.legislation.gov.uk/nisr/2019/183/regulation/18/b/ii)
 
-[^key-cea5a32feb1b6ef8fde5d1e7f059bebc]: Textual amendment: Words in Sch. 4 inserted (Sch.4 renumbered as Sch. 4 Pt. 1) (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/a)
+[^c-cea5a32feb1b6ef8fde5d1e7f059bebc]: Textual amendment: Words in Sch. 4 inserted (Sch.4 renumbered as Sch. 4 Pt. 1) (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(a)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/a)
 
-[^key-6f80ffc7e8d200ed8fab6e2f95b38317]: Textual amendment: Words in Sch. 4 substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/b/i)
+[^c-6f80ffc7e8d200ed8fab6e2f95b38317]: Textual amendment: Words in Sch. 4 substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/b/i)
 
-[^key-21166878cec6f0c2fb41de89fcb26e31]: Textual amendment: Words in Sch. 4 substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(b)(ii)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/b/ii)
+[^c-21166878cec6f0c2fb41de89fcb26e31]: Textual amendment: Words in Sch. 4 substituted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(b)(ii)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/b/ii)
 
-[^key-b69c3c6e147b46d584c2b9db1981af9e]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2019/81/schedule/4/part/2) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/c)
+[^c-b69c3c6e147b46d584c2b9db1981af9e]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2019/81/schedule/4/part/2) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [regs. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [19(c)](https://www.legislation.gov.uk/nisr/2019/183/regulation/19/c)
 
 [^c23707591]: Marginal citation: Publication date: 15th April 1993. ISBN 978-0-580-71245-6.
 
@@ -1705,4 +1705,4 @@ Copies of Council Directive [91/676/EEC](https://www.legislation.gov.uk/european
 
 [^c23707611]: Marginal citation: Publication date: 10th June 2003. ISBN 978-0-580-78768-3.
 
-[^key-0f44d32924571d5a98dc3c64b7c0941c]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2019/81/schedule/8) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [reg. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2019/183/schedule)
+[^c-0f44d32924571d5a98dc3c64b7c0941c]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2019/81/schedule/8) inserted (15.10.2019) by [The Nutrient Action Programme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/183)](https://www.legislation.gov.uk/nisr/2019/183), [reg. 1](https://www.legislation.gov.uk/nisr/2019/183/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2019/183/schedule)

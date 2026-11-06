@@ -38,7 +38,7 @@ summary: ''
   - (iv) the date on which the award terminates (other than by reason of the claimant ceasing to be, or becoming, a member of a couple),
 
   whichever is soonest, and
-- (b)[^key-ad99dcb86cf637baab0155784e9c7fdc] in the circumstances described in the first column of the following table, the number of days set out in the second column.
+- (b)[^c-ad99dcb86cf637baab0155784e9c7fdc] in the circumstances described in the first column of the following table, the number of days set out in the second column.
 
   | Circumstances applicable to the claimant’s case | Number of days |
   | --- | --- |
@@ -63,10 +63,10 @@ summary: ''
 
 whichever is soonest, and
 
-- (b)[^key-2b4bd3df84a5399b8d3c9240c9f4843e] if there was another sanctionable failure of a kind mentioned in paragraph (1) within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure, 7 days.
+- (b)[^c-2b4bd3df84a5399b8d3c9240c9f4843e] if there was another sanctionable failure of a kind mentioned in paragraph (1) within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure, 7 days.
 
 ## Annotations
 
-[^key-ad99dcb86cf637baab0155784e9c7fdc]: Textual amendment: [Reg. 101(2)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/101/2/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(13)(a)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/13/a)
+[^c-ad99dcb86cf637baab0155784e9c7fdc]: Textual amendment: [Reg. 101(2)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/101/2/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(13)(a)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/13/a)
 
-[^key-2b4bd3df84a5399b8d3c9240c9f4843e]: Textual amendment: [Reg. 101(3)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/101/3/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(13)(b)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/13/b)
+[^c-2b4bd3df84a5399b8d3c9240c9f4843e]: Textual amendment: [Reg. 101(3)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/101/3/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(13)(b)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/13/b)

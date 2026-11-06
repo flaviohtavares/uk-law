@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W*
 
-(1) No prisoner shall be allowed to have any intoxicating liquor [^key-07a3b0e1805e2f44e1205b35690bc65c]....
+(1) No prisoner shall be allowed to have any intoxicating liquor [^c-07a3b0e1805e2f44e1205b35690bc65c]....
 
-(2)[^key-af37bcc4cbfa7f8de0cdc7d3e024547e] No prisoner shall be allowed to smoke or to have any tobacco, except in accordance with any directions of the Secretary of State.
+(2)[^c-af37bcc4cbfa7f8de0cdc7d3e024547e] No prisoner shall be allowed to smoke or to have any tobacco, except in accordance with any directions of the Secretary of State.
 
 ## Annotations
 
-[^key-07a3b0e1805e2f44e1205b35690bc65c]: Textual amendment: Words in rule 25(1) omitted (3.1.2006) by virtue of [The Prison (Amendment) (No. 2) Rules 2005 (S.I. 2005/3437)](https://www.legislation.gov.uk/uksi/2005/3437), [rule 1](https://www.legislation.gov.uk/uksi/2005/3437/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2005/3437/schedule/1/paragraph/6)
+[^c-07a3b0e1805e2f44e1205b35690bc65c]: Textual amendment: Words in rule 25(1) omitted (3.1.2006) by virtue of [The Prison (Amendment) (No. 2) Rules 2005 (S.I. 2005/3437)](https://www.legislation.gov.uk/uksi/2005/3437), [rule 1](https://www.legislation.gov.uk/uksi/2005/3437/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2005/3437/schedule/1/paragraph/6)
 
-[^key-af37bcc4cbfa7f8de0cdc7d3e024547e]: Textual amendment: Rule 25(2) substituted (22.5.2018) by [The Prison and Young Offender Institution (Amendment) Rules 2018 (S.I. 2018/549)](https://www.legislation.gov.uk/uksi/2018/549), [rules 1](https://www.legislation.gov.uk/uksi/2018/549/rule/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/549/rule/2/5)
+[^c-af37bcc4cbfa7f8de0cdc7d3e024547e]: Textual amendment: Rule 25(2) substituted (22.5.2018) by [The Prison and Young Offender Institution (Amendment) Rules 2018 (S.I. 2018/549)](https://www.legislation.gov.uk/uksi/2018/549), [rules 1](https://www.legislation.gov.uk/uksi/2018/549/rule/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/549/rule/2/5)

@@ -48,7 +48,7 @@ These Regulations are made in accordance with Department of Finance directions m
 
 In accordance with section 3(5) of 2014 Act, the Department of Finance[^f00003] has consented to the making of these Regulations.
 
-## 1. Citation, commencement and effect[^key-c1ffe29192bc5d38e7ca9eab02cd51fb]
+## 1. Citation, commencement and effect[^c-c1ffe29192bc5d38e7ca9eab02cd51fb]
 
 (1) These Regulations may be cited as the Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 and come into operation on 9th January 2025.
 
@@ -58,7 +58,7 @@ In accordance with section 3(5) of 2014 Act, the Department of Finance[^f00003] 
 
 (4) The amendments made by regulation 6 have effect from 1 October 2023.
 
-## 2. Amendment to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-df12e11f05136530595f956126d1aba0]
+## 2. Amendment to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-df12e11f05136530595f956126d1aba0]
 
 (1) The Annex to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00004] shall be amended as follows.
 
@@ -85,7 +85,7 @@ In accordance with section 3(5) of 2014 Act, the Department of Finance[^f00003] 
   .
 - (f) in paragraph 9, after “his last known place of residence” insert “or sent to him at an email address which he supplied”.
 
-## 3. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-4ee28692578a6f658dac4b0aa824acc1]
+## 3. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-4ee28692578a6f658dac4b0aa824acc1]
 
 (1) The Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00005] shall be amended as follows.
 
@@ -112,20 +112,20 @@ In accordance with section 3(5) of 2014 Act, the Department of Finance[^f00003] 
   .
 - (f) in paragraph 12, after “his last known place of residence” insert “or sent to him at an email address which he supplied”.
 
-## 4. Amendment to the Firefighters’ Compensation Scheme Order (Northern Ireland) 2007[^key-95ae21f638cb5260ec42aecd50dc276c][^key-c696099a0f26b651d2d88f544acff472]
+## 4. Amendment to the Firefighters’ Compensation Scheme Order (Northern Ireland) 2007[^c-95ae21f638cb5260ec42aecd50dc276c][^c-c696099a0f26b651d2d88f544acff472]
 
 (1) The Annex to the Firefighters’ Compensation Scheme Order (Northern Ireland) 2007[^f00006] shall be amended as follows.
 
 (2) In Part 10 (Payment of awards and financial provisions)
 
-- (a)[^key-95ae21f638cb5260ec42aecd50dc276c] in rule 1 (Payment of awards), in paragraph (1)(b) omit “in advance”.
-- (b)[^key-dbd4a4a906fc0f1f1aeeb69e045b8454] In rule 4 (Prevention of duplication: other awards for spouses or children of persons who are both regular and retained firefighters)—
+- (a)[^c-95ae21f638cb5260ec42aecd50dc276c] in rule 1 (Payment of awards), in paragraph (1)(b) omit “in advance”.
+- (b)[^c-dbd4a4a906fc0f1f1aeeb69e045b8454] In rule 4 (Prevention of duplication: other awards for spouses or children of persons who are both regular and retained firefighters)—
   - (i) for paragraph 2(a), substitute—
 
     > - (a) a spouse’s or civil partner’s special award under rule 1 of Part 3,
   - (ii) in paragraph 2(b) for “Part 4” substitute “Part 3”.
 
-(3)[^key-95ae21f638cb5260ec42aecd50dc276c] In Schedule 5 (Appeals)—
+(3)[^c-95ae21f638cb5260ec42aecd50dc276c] In Schedule 5 (Appeals)—
 
 - (a) for paragraph 2(1), substitute—
 
@@ -153,28 +153,28 @@ In accordance with section 3(5) of 2014 Act, the Department of Finance[^f00003] 
   .
 - (h) in paragraph 9, after “his last known place of residence” insert “or sent to him at an email address which he supplied”.
 
-## 5. Amendment to the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^key-63ccd1425ed6c27cbb57c0315c64448e][^key-7333d288372466e0249d79e15d84a695]
+## 5. Amendment to the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^c-63ccd1425ed6c27cbb57c0315c64448e][^c-7333d288372466e0249d79e15d84a695]
 
-(1)[^key-63ccd1425ed6c27cbb57c0315c64448e] The Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^f00007] which establish the Firefighters’ Pension Scheme 2015 shall be amended as follows.
+(1)[^c-63ccd1425ed6c27cbb57c0315c64448e] The Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^f00007] which establish the Firefighters’ Pension Scheme 2015 shall be amended as follows.
 
-(2)[^key-7333d288372466e0249d79e15d84a695] In Part 1 (Preliminary), in regulation 3 (Interpretation) at the appropriate place insert—
+(2)[^c-7333d288372466e0249d79e15d84a695] In Part 1 (Preliminary), in regulation 3 (Interpretation) at the appropriate place insert—
 
 > - “**early payment reduction**” has the meaning given in regulation 69A (early payment reduction);
 
 .
 
-(3)[^key-7333d288372466e0249d79e15d84a695] In Part 4 (Pension Accounts), in regulation 55 (Retirement amount of deferred pension) in paragraph (4), before sub-paragraph (a) insert—
+(3)[^c-7333d288372466e0249d79e15d84a695] In Part 4 (Pension Accounts), in regulation 55 (Retirement amount of deferred pension) in paragraph (4), before sub-paragraph (a) insert—
 
 > - (aa) the early payment reduction (if any);
 
 (4) In Part 5 (Retirement Benefits)—
 
-- (a)[^key-7333d288372466e0249d79e15d84a695] in regulation 69 (Annual rate of retirement pension (deferred members)) in paragraph (2), before sub paragraph (a) insert—
+- (a)[^c-7333d288372466e0249d79e15d84a695] in regulation 69 (Annual rate of retirement pension (deferred members)) in paragraph (2), before sub paragraph (a) insert—
 
   > - (aa) the early payment reduction (if any), specified in that account in relation to that amount;
 
   .
-- (b)[^key-7333d288372466e0249d79e15d84a695] after regulation 69 (Annual rate of retirement pension (deferred members) insert—
+- (b)[^c-7333d288372466e0249d79e15d84a695] after regulation 69 (Annual rate of retirement pension (deferred members) insert—
 
   > **69A. Early payment reduction**
   >
@@ -185,13 +185,13 @@ In accordance with section 3(5) of 2014 Act, the Department of Finance[^f00003] 
   > (3) The actuarial reduction to be applied in a case falling in paragraph (2) is in accordance with actuarial guidance which reduces the pension on the basis that D had not reached deferred pension age. The actuarial guidance must have regard to actuarial neutrality compared to the present value of a pension payable at deferred pension age, with future increases between the date of D’s early retirement and deferred pension age being in line with increases under the 1971 Act.
 
   .
-- (c)[^key-63ccd1425ed6c27cbb57c0315c64448e] omit regulation 70 (Employer initiated retirement).
-- (d)[^key-7333d288372466e0249d79e15d84a695] in regulation 75 (Early payment of retirement pension to deferred member) after “(annual rate of retirement pension (deferred members))” insert “without subtracting the early payment reduction”.
-- (e)[^key-63ccd1425ed6c27cbb57c0315c64448e] in regulations 78 (Commencement of pensions), omit paragraph (3).
+- (c)[^c-63ccd1425ed6c27cbb57c0315c64448e] omit regulation 70 (Employer initiated retirement).
+- (d)[^c-7333d288372466e0249d79e15d84a695] in regulation 75 (Early payment of retirement pension to deferred member) after “(annual rate of retirement pension (deferred members))” insert “without subtracting the early payment reduction”.
+- (e)[^c-63ccd1425ed6c27cbb57c0315c64448e] in regulations 78 (Commencement of pensions), omit paragraph (3).
 
-(5)[^key-63ccd1425ed6c27cbb57c0315c64448e] In Part 8 (Contributions), omit regulation 128 (Employer additional contributions: employer initiated retirement).
+(5)[^c-63ccd1425ed6c27cbb57c0315c64448e] In Part 8 (Contributions), omit regulation 128 (Employer additional contributions: employer initiated retirement).
 
-(6)[^key-63ccd1425ed6c27cbb57c0315c64448e] In Part 12 (Determination of Questions of Appeal), in Chapter 2 (Appeal to independent medical referee), in regulation 164—
+(6)[^c-63ccd1425ed6c27cbb57c0315c64448e] In Part 12 (Determination of Questions of Appeal), in Chapter 2 (Appeal to independent medical referee), in regulation 164—
 
 - (a) for paragraph (3), substitute—
 
@@ -213,7 +213,7 @@ In accordance with section 3(5) of 2014 Act, the Department of Finance[^f00003] 
   ;
 - (e) in paragraph (23), after “his last known place of residence” insert “or sent to him at an email address which he supplied”.
 
-## 6. Amendment to the Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^key-f3e15b88ab59ce460f01ca3982a830d3]
+## 6. Amendment to the Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^c-f3e15b88ab59ce460f01ca3982a830d3]
 
 (1) The Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^f00008] shall be amended as follows.
 
@@ -303,30 +303,30 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-c1ffe29192bc5d38e7ca9eab02cd51fb]: Commencement: Reg. 1 in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
+[^c-c1ffe29192bc5d38e7ca9eab02cd51fb]: Commencement: Reg. 1 in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
 
-[^key-df12e11f05136530595f956126d1aba0]: Commencement: Reg. 2 in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
+[^c-df12e11f05136530595f956126d1aba0]: Commencement: Reg. 2 in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2007 No.144](https://www.legislation.gov.uk/nisr/2007/144) amended by [S.R. 2008 No. 382](https://www.legislation.gov.uk/nisr/2008/382), [S.R. 2012 No. 161](https://www.legislation.gov.uk/nisr/2012/161), [S.R. 2013 No. 85](https://www.legislation.gov.uk/nisr/2013/85), [S.R. 2014 No. 56](https://www.legislation.gov.uk/nisr/2014/56) & [169](https://www.legislation.gov.uk/nisr/2014/169) and [S.R. 2015 No. 8](https://www.legislation.gov.uk/nisr/2015/8), No. [11](https://www.legislation.gov.uk/nisr/2015/11), No [420](https://www.legislation.gov.uk/nisr/2015/420) and No. [421](https://www.legislation.gov.uk/nisr/2015/421), [S.R. 2019 No. 109](https://www.legislation.gov.uk/nisr/2019/109), [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155), [S.R. 2023 No. 178](https://www.legislation.gov.uk/nisr/2023/178) and [S.R. 2024 No. 130](https://www.legislation.gov.uk/nisr/2024/130).
 
-[^key-4ee28692578a6f658dac4b0aa824acc1]: Commencement: Reg. 3 in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
+[^c-4ee28692578a6f658dac4b0aa824acc1]: Commencement: Reg. 3 in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2007 No. 215](https://www.legislation.gov.uk/nisr/2007/215), amended by [S.R. 2008 No. 381](https://www.legislation.gov.uk/nisr/2008/381), [S.R. 2012 No. 162](https://www.legislation.gov.uk/nisr/2012/162), [S.R. 2013 No. 84](https://www.legislation.gov.uk/nisr/2013/84) and No. [172](https://www.legislation.gov.uk/nisr/2013/172), [S.R. 2014 No. 57](https://www.legislation.gov.uk/nisr/2014/57) and No. [168](https://www.legislation.gov.uk/nisr/2014/168), [S.R. 2015 No. 9](https://www.legislation.gov.uk/nisr/2015/9), No. [10](https://www.legislation.gov.uk/nisr/2015/10), No. [355](https://www.legislation.gov.uk/nisr/2015/355), No. [420](https://www.legislation.gov.uk/nisr/2015/420) and No [422](https://www.legislation.gov.uk/nisr/2015/422), [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155), [S.R. 2023 No. 178](https://www.legislation.gov.uk/nisr/2023/178) and [S.R. 2024 No. 130](https://www.legislation.gov.uk/nisr/2024/130).
 
-[^key-95ae21f638cb5260ec42aecd50dc276c]: Commencement: Reg. 4(2)(a)(3) in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
+[^c-95ae21f638cb5260ec42aecd50dc276c]: Commencement: Reg. 4(2)(a)(3) in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
 
-[^key-c696099a0f26b651d2d88f544acff472]: Commencement: Reg. 4(2)(b) in operation at 9.1.2025 with effect from 1/4/2006 , see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/3)
+[^c-c696099a0f26b651d2d88f544acff472]: Commencement: Reg. 4(2)(b) in operation at 9.1.2025 with effect from 1/4/2006 , see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/3)
 
 [^f00006]: Footnote: [S.R. 2007 No. 143](https://www.legislation.gov.uk/nisr/2007/143), amended by [S.R. 2008 No. 238](https://www.legislation.gov.uk/nisr/2008/238), [S.R. 2015 No. 7](https://www.legislation.gov.uk/nisr/2015/7), [S.R. 2015 No. 422](https://www.legislation.gov.uk/nisr/2015/422), [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155) and [S.R 2024 No. 130](https://www.legislation.gov.uk/nisr/2024/130).
 
-[^key-dbd4a4a906fc0f1f1aeeb69e045b8454]: Commencement: [Reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2024/218/regulation/4/2/b) in operation at 9.1.2025 with effect from 1/4/2006, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/3)
+[^c-dbd4a4a906fc0f1f1aeeb69e045b8454]: Commencement: [Reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2024/218/regulation/4/2/b) in operation at 9.1.2025 with effect from 1/4/2006, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/3)
 
-[^key-63ccd1425ed6c27cbb57c0315c64448e]: Commencement: Reg. 5(1)(4)(c)(e)(5)(6) in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
+[^c-63ccd1425ed6c27cbb57c0315c64448e]: Commencement: Reg. 5(1)(4)(c)(e)(5)(6) in operation at 9.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)
 
-[^key-7333d288372466e0249d79e15d84a695]: Commencement: Reg. 5(2)(3)(4)(a)(b)(d) in operation at 9.1.2025 with effect from 1/4/2015, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/2)
+[^c-7333d288372466e0249d79e15d84a695]: Commencement: Reg. 5(2)(3)(4)(a)(b)(d) in operation at 9.1.2025 with effect from 1/4/2015, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 2015 No. 78](https://www.legislation.gov.uk/nisr/2015/78), amended by [S.R. 2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420), [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155) and [S.R. 2024 No. 130](https://www.legislation.gov.uk/nisr/2024/130).
 
-[^key-f3e15b88ab59ce460f01ca3982a830d3]: Commencement: Reg. 6 in operation at 9.1.2025 with effect from 1/10/2023, see [reg. 1(1)(4)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1/4)
+[^c-f3e15b88ab59ce460f01ca3982a830d3]: Commencement: Reg. 6 in operation at 9.1.2025 with effect from 1/10/2023, see [reg. 1(1)(4)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1/4)
 
 [^f00008]: Footnote: [S.R. 2023 No. 133](https://www.legislation.gov.uk/nisr/2023/133).

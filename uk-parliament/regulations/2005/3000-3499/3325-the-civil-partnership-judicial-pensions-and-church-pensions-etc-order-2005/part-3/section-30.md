@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**30.**[^key-642d6ffd8aa383635b508709488db290] In section 135 (interpretation of Part 13), in subsection (1), in the definition of “derivative benefit”, for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
+**30.**[^c-642d6ffd8aa383635b508709488db290] In section 135 (interpretation of Part 13), in subsection (1), in the definition of “derivative benefit”, for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
 
 ## Annotations
 
-[^key-642d6ffd8aa383635b508709488db290]: Commencement: Art. 30 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-642d6ffd8aa383635b508709488db290]: Commencement: Art. 30 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

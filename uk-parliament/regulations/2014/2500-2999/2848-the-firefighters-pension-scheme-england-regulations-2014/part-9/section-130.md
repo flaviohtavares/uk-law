@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Duty to provide information[^key-812e99127a61f81b289acac2cb7d5377]
+## 130. Duty to provide information[^c-812e99127a61f81b289acac2cb7d5377]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-812e99127a61f81b289acac2cb7d5377]: Commencement: [Reg. 130](https://www.legislation.gov.uk/uksi/2014/2848/regulation/130) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-812e99127a61f81b289acac2cb7d5377]: Commencement: [Reg. 130](https://www.legislation.gov.uk/uksi/2014/2848/regulation/130) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

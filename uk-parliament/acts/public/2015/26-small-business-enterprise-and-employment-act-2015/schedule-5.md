@@ -26,15 +26,15 @@ Section 94
 
 #### Register of members
 
-**1.**[^key-95fd374e28c1380c1eebccabdb9d9ab0] Part 8 of the Companies Act 2006 (a company's members) is amended as follows.
+**1.**[^c-95fd374e28c1380c1eebccabdb9d9ab0] Part 8 of the Companies Act 2006 (a company's members) is amended as follows.
 
-**2.**[^key-4f15c5e07df77d966b9e342d68051c20] In Chapter 2 (register of members), before section 113 insert—
+**2.**[^c-4f15c5e07df77d966b9e342d68051c20] In Chapter 2 (register of members), before section 113 insert—
 
 > **112A. Alternative method of record-keeping**
 >
 > This Chapter must be read with Chapter 2A (which allows for an alternative method of record-keeping in the case of private companies).
 
-**3.**[^key-5132b24b4b2b22f542b401407c37bfec] After Chapter 2 insert—
+**3.**[^c-5132b24b4b2b22f542b401407c37bfec] After Chapter 2 insert—
 
 > **CHAPTER 2A — Option to keep information on central register**
 >
@@ -239,21 +239,21 @@ Section 94
 
 #### Register of overseas members
 
-**4.**[^key-b78ef6574c8d0db94c52edede6b347f2] In Chapter 3 of Part 8 of the Companies Act 2006 (overseas branch registers), in section 129 (overseas branch registers), at the end insert—
+**4.**[^c-b78ef6574c8d0db94c52edede6b347f2] In Chapter 3 of Part 8 of the Companies Act 2006 (overseas branch registers), in section 129 (overseas branch registers), at the end insert—
 
 > (6) A company's right under subsection (1) to keep an overseas branch register does not apply during or with respect to any period when an election is in force in respect of the company under section 128B.
 
 #### Register of directors and register of directors' residential addresses
 
-**5.**[^key-ddaf31f5688f0316d12077d7f42c0e39] Chapter 1 of Part 10 of the Companies Act 2006 (appointment and removal of directors) is amended as follows.
+**5.**[^c-ddaf31f5688f0316d12077d7f42c0e39] Chapter 1 of Part 10 of the Companies Act 2006 (appointment and removal of directors) is amended as follows.
 
-**6.**[^key-5540612abe6c160e1ff9e4a074ce710a] Under the heading “*Register of directors, etc*”, before section 162 insert—
+**6.**[^c-5540612abe6c160e1ff9e4a074ce710a] Under the heading “*Register of directors, etc*”, before section 162 insert—
 
 > **161A. Alternative method of record-keeping**
 >
 > Sections 162 to 167 must be read with sections 167A to 167E (which allow for an alternative method of record-keeping in the case of private companies).
 
-**7.**[^key-24cf4b893b9ea357bd4f80a69a81d139] After section 167 insert—
+**7.**[^c-24cf4b893b9ea357bd4f80a69a81d139] After section 167 insert—
 
 > **Option to keep information on the central register**
 >
@@ -341,15 +341,15 @@ Section 94
 
 #### Register of secretaries
 
-**8.**[^key-979c489aad8aa7ffe5dace2b2035411a] Part 12 of the Companies Act 2006 (company secretaries) is amended as follows.
+**8.**[^c-979c489aad8aa7ffe5dace2b2035411a] Part 12 of the Companies Act 2006 (company secretaries) is amended as follows.
 
-**9.**[^key-31777465313eebbcf85c7a219f6d218b] After section 274 insert—
+**9.**[^c-31777465313eebbcf85c7a219f6d218b] After section 274 insert—
 
 > **274A. Alternative method of record-keeping**
 >
 > Sections 275 and 276 must be read with sections 279A to 279E (which allow for an alternative method of record-keeping in the case of private companies).
 
-**10.**[^key-b6dc6e2c39b00e1ef3d6ecdc62059e55] After section 279 insert—
+**10.**[^c-b6dc6e2c39b00e1ef3d6ecdc62059e55] After section 279 insert—
 
 > **Option to keep information on the central register**
 >
@@ -433,11 +433,11 @@ Section 94
 
 ### PART 2 — Related amendments
 
-**11.**[^key-d7631aaedfdb4f383c3707da945f281a] The Companies Act 2006 is amended as follows.
+**11.**[^c-d7631aaedfdb4f383c3707da945f281a] The Companies Act 2006 is amended as follows.
 
-**12.**[^key-b5a8bce7f5a11c2b109386dba56e5c60] In section 12 (statement of proposed officers), in subsection (2), after “will be required” insert “ (or, in the absence of an election under section 167A or 279A, would be required) ”.
+**12.**[^c-b5a8bce7f5a11c2b109386dba56e5c60] In section 12 (statement of proposed officers), in subsection (2), after “will be required” insert “ (or, in the absence of an election under section 167A or 279A, would be required) ”.
 
-**13.**[^key-b46f46f5034dda236d1ac8ef89cd2873] In section 112 (the members of a company), after subsection (2) insert—
+**13.**[^c-b46f46f5034dda236d1ac8ef89cd2873] In section 112 (the members of a company), after subsection (2) insert—
 
 > (3) Where an election under section 128B is in force in respect of a company—
 >
@@ -446,9 +446,9 @@ Section 94
 >   - (i) the person's name has been delivered to the registrar under section 128E, and
 >   - (ii) the document containing that information has been registered by the registrar.
 
-**14.**[^key-aa6fc55374cd9aff15b99837a4de2baa] In section 127 (register to be evidence), after the words “in it” insert “ , except for any matters of which the central register is prima facie evidence by virtue of section 128H ”.
+**14.**[^c-aa6fc55374cd9aff15b99837a4de2baa] In section 127 (register to be evidence), after the words “in it” insert “ , except for any matters of which the central register is prima facie evidence by virtue of section 128H ”.
 
-**15.**[^key-1e2d29ecde87582d2b8279db9540d400] In section 246 (putting the address on the public record)—
+**15.**[^c-1e2d29ecde87582d2b8279db9540d400] In section 246 (putting the address on the public record)—
 
 - (a) after subsection (3) insert—
 
@@ -465,50 +465,50 @@ Section 94
   , and
 - (c) in subsection (5), for “or (4)” substitute “ , (4) or (4A) ”.
 
-**16.**[^key-036d9923ae8bb7c1cc259e9f253be5e1] In section 286 (votes of joint holders of shares), in subsection (2), after “register of members” insert “ (or, if an election under section 128B is in force in respect of the company, in the register kept by the registrar under section 1080) ”.
+**16.**[^c-036d9923ae8bb7c1cc259e9f253be5e1] In section 286 (votes of joint holders of shares), in subsection (2), after “register of members” insert “ (or, if an election under section 128B is in force in respect of the company, in the register kept by the registrar under section 1080) ”.
 
-**17.**[^key-dfb1790e0276d0cb4c6aeb7db5efde0a] In section 311 (contents of notices of meetings), in subsection (3)(b)(i), after “register of members” insert “ (or, if an election under section 128B is in force in respect of the company, by reference to the register kept by the registrar under section 1080) ”.
+**17.**[^c-dfb1790e0276d0cb4c6aeb7db5efde0a] In section 311 (contents of notices of meetings), in subsection (3)(b)(i), after “register of members” insert “ (or, if an election under section 128B is in force in respect of the company, by reference to the register kept by the registrar under section 1080) ”.
 
-**18.**[^key-7c473168db65ebe3f5603b1800f6d1f6] In section 360B (traded companies: requirements for participating in and voting at general meetings), after subsection (4) insert—
+**18.**[^c-7c473168db65ebe3f5603b1800f6d1f6] In section 360B (traded companies: requirements for participating in and voting at general meetings), after subsection (4) insert—
 
 > (5) If an election is in force under section 128B in respect of a company, the reference in subsection (2) to the register of members is to be read as a reference to the register kept by the registrar under section 1080.
 
-**19.**[^key-4f77ab74e2c90e0157047445a7fca351] In section 554 (registration of allotment), after subsection (2) insert—
+**19.**[^c-4f77ab74e2c90e0157047445a7fca351] In section 554 (registration of allotment), after subsection (2) insert—
 
 > (2A) If an election is in force under Chapter 2A of Part 8, the obligation under subsection (1) to register the allotment of shares is replaced by an obligation to deliver particulars of the allotment of shares to the registrar in accordance with that Chapter.
 
-**20.**[^key-af36c27fe50cc555e178a28976e7d860] In section 558 (when shares are allotted), after “members” insert “ (or, as the case may be, to have the person's name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
+**20.**[^c-af36c27fe50cc555e178a28976e7d860] In section 558 (when shares are allotted), after “members” insert “ (or, as the case may be, to have the person's name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
 
-**21.**[^key-0bc114a2797ff9cec3a9d78a7e119cc6] In section 588 (liability of subsequent holders of shares), in subsection (3)(a), after “members” insert “ (or, as the case may be, to have his name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
+**21.**[^c-0bc114a2797ff9cec3a9d78a7e119cc6] In section 588 (liability of subsequent holders of shares), in subsection (3)(a), after “members” insert “ (or, as the case may be, to have his name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
 
-**22.**[^key-f0c4469ab939c8dfa8ba14dd1849ac7a] In section 605 (liability of subsequent holders of shares), in subsection (4)(a), after “members” insert “ (or, as the case may be, to have his name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
+**22.**[^c-f0c4469ab939c8dfa8ba14dd1849ac7a] In section 605 (liability of subsequent holders of shares), in subsection (4)(a), after “members” insert “ (or, as the case may be, to have his name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
 
-**23.**[^key-015a41631fe1cd4e44ea4aefd2f82b2d] In section 616 (interpretation of Chapter 7), in subsection (3), after “members” insert “ (or, as the case may be, have your name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
+**23.**[^c-015a41631fe1cd4e44ea4aefd2f82b2d] In section 616 (interpretation of Chapter 7), in subsection (3), after “members” insert “ (or, as the case may be, have your name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
 
-**24.**[^key-8df735bab9a410f77c5ea41da6038aa5] In section 655 (shares no bar to damages against company), after “members” insert “ (or have his name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
+**24.**[^c-8df735bab9a410f77c5ea41da6038aa5] In section 655 (shares no bar to damages against company), after “members” insert “ (or have his name and other particulars delivered to the registrar under Chapter 2A of Part 8 and registered by the registrar) ”.
 
-**25.**[^key-0d4864e4bdbb05fdb8f723ac616371d5] In section 724 (Treasury shares), in subsection (4), after “members” insert “ (or, as the case may be, the company's name must be delivered to the registrar under Chapter 2A of Part 8) ”.
+**25.**[^c-0d4864e4bdbb05fdb8f723ac616371d5] In section 724 (Treasury shares), in subsection (4), after “members” insert “ (or, as the case may be, the company's name must be delivered to the registrar under Chapter 2A of Part 8) ”.
 
-**26.**[^key-7f5b1cc60fb48156b5b7c2edf5e4fa5f] In section 770 (registration of transfer), after subsection (2) insert—
+**26.**[^c-7f5b1cc60fb48156b5b7c2edf5e4fa5f] In section 770 (registration of transfer), after subsection (2) insert—
 
 > (3) If an election under Chapter 2A of Part 8 is in force in respect of the company, references in this section to registering a transfer (or a person) are to be read as references to delivering particulars of that transfer (or person) to the registrar under that Chapter.
 
-**27.**[^key-541d2f512ccac6e4977ee5bb02375fcf] In section 771 (procedure on transfer being lodged), after subsection (2) insert—
+**27.**[^c-541d2f512ccac6e4977ee5bb02375fcf] In section 771 (procedure on transfer being lodged), after subsection (2) insert—
 
 > (2A) If an election is in force under Chapter 2A of Part 8 in respect of the company, references in this section to registering the transfer are to be read as references to delivering particulars of the transfer to the registrar in accordance with that Chapter.
 
-**28.**[^key-8aa42aa2110693d8fe02f48d0d50d672] In section 772 (transfer of shares on application of transferor)—
+**28.**[^c-8aa42aa2110693d8fe02f48d0d50d672] In section 772 (transfer of shares on application of transferor)—
 
 - (a) after “the name of the transferee” insert “ (or, as the case may be, deliver the name of the transferee to the registrar under Chapter 2A of Part 8) ”, and
 - (b) after “entry” insert “ (or delivery) ”.
 
-**29.**[^key-9e0dfb6357972130a447402a5f72fe4b] In section 786 (provision enabling or requiring arrangements to be adopted), in subsection (3)(a), after “members” insert “ (or, as the case may be, delivered to the registrar under Chapter 2A of Part 8) ”.
+**29.**[^c-9e0dfb6357972130a447402a5f72fe4b] In section 786 (provision enabling or requiring arrangements to be adopted), in subsection (3)(a), after “members” insert “ (or, as the case may be, delivered to the registrar under Chapter 2A of Part 8) ”.
 
-**30.**[^key-ef2c192088bb15415b02b69c9a52d6b0] In section 1068 (registrar's requirements as to form, authentication and manner of delivery), after subsection (6) insert—
+**30.**[^c-ef2c192088bb15415b02b69c9a52d6b0] In section 1068 (registrar's requirements as to form, authentication and manner of delivery), after subsection (6) insert—
 
 > (6A) But the power conferred by this section does authorise the registrar to require any document permitted or required to be delivered to the registrar under Chapter 2A of Part 8 (option to keep membership information on central register) to be delivered by electronic means.
 
-**31.**[^key-28bcbbfc064f465d33164b63c48fc539] (1) Section 1081 (annotation of the register) is amended as follows.
+**31.**[^c-28bcbbfc064f465d33164b63c48fc539] (1) Section 1081 (annotation of the register) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -516,7 +516,7 @@ Section 94
 
 (3) In subsection (6), after “(1)” insert “ or (1A) ”.
 
-**32.**[^key-48cd2c824875913ed4bd456842a22378] In section 1094 (administrative removal of material from the register), in subsection (3)(a)—
+**32.**[^c-48cd2c824875913ed4bd456842a22378] In section 1094 (administrative removal of material from the register), in subsection (3)(a)—
 
 - (a) omit “or” at the end of sub-paragraph (vii),
 - (b) insert “ , or ” at the end of sub-paragraph (viii), and
@@ -526,9 +526,9 @@ Section 94
 
   .
 
-**33.**[^key-ad9dbcd19221fc1aadfb57077f7e0657] In section 1136 (regulations about where certain company records to be kept available for inspection), in subsection (2), after the entry for section 114 insert— “ section 128D (historic register of members); ”.
+**33.**[^c-ad9dbcd19221fc1aadfb57077f7e0657] In section 1136 (regulations about where certain company records to be kept available for inspection), in subsection (2), after the entry for section 114 insert— “ section 128D (historic register of members); ”.
 
-**34.**[^key-a393f299a58f54502188866fccab92ec] In Schedule 5 (communications by a company)—
+**34.**[^c-a393f299a58f54502188866fccab92ec] In Schedule 5 (communications by a company)—
 
 - (a) in paragraph 4 (address for communications in hard copy form), after sub-paragraph (1) insert—
 
@@ -542,7 +542,7 @@ Section 94
 
   > (3A) Where an election under section 128B is in force, the reference in sub-paragraph (3)(b) to the register of members is to be read as a reference to the register kept by the registrar under section 1080.
 
-**35.**[^key-f8f06e96cdb1ca1d89e0dcd972f1d47f] In Schedule 8 (index of defined expressions), in the appropriate place insert—
+**35.**[^c-f8f06e96cdb1ca1d89e0dcd972f1d47f] In Schedule 8 (index of defined expressions), in the appropriate place insert—
 
 > |  |  |
 > | --- | --- |
@@ -554,72 +554,72 @@ Section 94
 
 ## Annotations
 
-[^key-95fd374e28c1380c1eebccabdb9d9ab0]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/1) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-95fd374e28c1380c1eebccabdb9d9ab0]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/1) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-4f15c5e07df77d966b9e342d68051c20]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/2) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-4f15c5e07df77d966b9e342d68051c20]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/2) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-5132b24b4b2b22f542b401407c37bfec]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/3) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-5132b24b4b2b22f542b401407c37bfec]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/3) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-b78ef6574c8d0db94c52edede6b347f2]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/4) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-b78ef6574c8d0db94c52edede6b347f2]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/4) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-ddaf31f5688f0316d12077d7f42c0e39]: Commencement: Sch. 5 para. 5 in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-ddaf31f5688f0316d12077d7f42c0e39]: Commencement: Sch. 5 para. 5 in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-5540612abe6c160e1ff9e4a074ce710a]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/6) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-5540612abe6c160e1ff9e4a074ce710a]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/6) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-24cf4b893b9ea357bd4f80a69a81d139]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/7) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-24cf4b893b9ea357bd4f80a69a81d139]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/7) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-979c489aad8aa7ffe5dace2b2035411a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/8) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-979c489aad8aa7ffe5dace2b2035411a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/8) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-31777465313eebbcf85c7a219f6d218b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/9) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-31777465313eebbcf85c7a219f6d218b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/9) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-b6dc6e2c39b00e1ef3d6ecdc62059e55]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/10) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-b6dc6e2c39b00e1ef3d6ecdc62059e55]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/10) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-d7631aaedfdb4f383c3707da945f281a]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/11) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-d7631aaedfdb4f383c3707da945f281a]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/11) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-b5a8bce7f5a11c2b109386dba56e5c60]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/12) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-b5a8bce7f5a11c2b109386dba56e5c60]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/12) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-b46f46f5034dda236d1ac8ef89cd2873]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/13) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-b46f46f5034dda236d1ac8ef89cd2873]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/13) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-aa6fc55374cd9aff15b99837a4de2baa]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/14) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-aa6fc55374cd9aff15b99837a4de2baa]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/14) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-1e2d29ecde87582d2b8279db9540d400]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/15) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-1e2d29ecde87582d2b8279db9540d400]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/15) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-036d9923ae8bb7c1cc259e9f253be5e1]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/16) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-036d9923ae8bb7c1cc259e9f253be5e1]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/16) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-dfb1790e0276d0cb4c6aeb7db5efde0a]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/17) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-dfb1790e0276d0cb4c6aeb7db5efde0a]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/17) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-7c473168db65ebe3f5603b1800f6d1f6]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/18) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-7c473168db65ebe3f5603b1800f6d1f6]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/18) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-4f77ab74e2c90e0157047445a7fca351]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/19) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-4f77ab74e2c90e0157047445a7fca351]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/19) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-af36c27fe50cc555e178a28976e7d860]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/20) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-af36c27fe50cc555e178a28976e7d860]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/20) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-0bc114a2797ff9cec3a9d78a7e119cc6]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/21) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-0bc114a2797ff9cec3a9d78a7e119cc6]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/21) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-f0c4469ab939c8dfa8ba14dd1849ac7a]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/22) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-f0c4469ab939c8dfa8ba14dd1849ac7a]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/22) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-015a41631fe1cd4e44ea4aefd2f82b2d]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/23) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-015a41631fe1cd4e44ea4aefd2f82b2d]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/23) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-8df735bab9a410f77c5ea41da6038aa5]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/24) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-8df735bab9a410f77c5ea41da6038aa5]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/24) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-0d4864e4bdbb05fdb8f723ac616371d5]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/25) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-0d4864e4bdbb05fdb8f723ac616371d5]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/25) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-7f5b1cc60fb48156b5b7c2edf5e4fa5f]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/26) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-7f5b1cc60fb48156b5b7c2edf5e4fa5f]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/26) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-541d2f512ccac6e4977ee5bb02375fcf]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/27) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-541d2f512ccac6e4977ee5bb02375fcf]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/27) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-8aa42aa2110693d8fe02f48d0d50d672]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/28) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-8aa42aa2110693d8fe02f48d0d50d672]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/28) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-9e0dfb6357972130a447402a5f72fe4b]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/29) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-9e0dfb6357972130a447402a5f72fe4b]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/29) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-ef2c192088bb15415b02b69c9a52d6b0]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/30) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-ef2c192088bb15415b02b69c9a52d6b0]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/30) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-28bcbbfc064f465d33164b63c48fc539]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/31) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-28bcbbfc064f465d33164b63c48fc539]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/31) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-48cd2c824875913ed4bd456842a22378]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/32) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-48cd2c824875913ed4bd456842a22378]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/32) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-ad9dbcd19221fc1aadfb57077f7e0657]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/33) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-ad9dbcd19221fc1aadfb57077f7e0657]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/33) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-a393f299a58f54502188866fccab92ec]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/34) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-a393f299a58f54502188866fccab92ec]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/34) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
 
-[^key-f8f06e96cdb1ca1d89e0dcd972f1d47f]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/35) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-f8f06e96cdb1ca1d89e0dcd972f1d47f]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2015/26/schedule/5/paragraph/35) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)

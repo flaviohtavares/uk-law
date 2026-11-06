@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Fixed penalty notices: supplementary[^key-dcfa93e425e719e8ad154247ea0ac278][^key-cd854247a95b5af13d68eea76b885777]
+## 22. Fixed penalty notices: supplementary[^c-dcfa93e425e719e8ad154247ea0ac278][^c-cd854247a95b5af13d68eea76b885777]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ After Article 18 of the Litter (Northern Ireland) Order 1994 (NI 10) insert—
 
 ## Annotations
 
-[^key-dcfa93e425e719e8ad154247ea0ac278]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/23/section/22) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-dcfa93e425e719e8ad154247ea0ac278]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/23/section/22) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-cd854247a95b5af13d68eea76b885777]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/23/section/22) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-cd854247a95b5af13d68eea76b885777]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/23/section/22) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3ZA. Electronic money: further exclusions[^key-57dff34bd2c74a3357c366bd3b238257]
+## 3ZA. Electronic money: further exclusions[^c-57dff34bd2c74a3357c366bd3b238257]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57dff34bd2c74a3357c366bd3b238257]: Textual amendment: [Reg. 3ZA](https://www.legislation.gov.uk/uksi/2011/99/regulation/3ZA) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [46(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/46/3) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-57dff34bd2c74a3357c366bd3b238257]: Textual amendment: [Reg. 3ZA](https://www.legislation.gov.uk/uksi/2011/99/regulation/3ZA) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [46(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/46/3) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

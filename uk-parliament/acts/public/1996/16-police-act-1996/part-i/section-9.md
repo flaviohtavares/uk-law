@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Annual reports by police authorities.[^key-bec7552651b967a86ae3ab8b268066bf]
+## 9. Annual reports by police authorities.[^c-bec7552651b967a86ae3ab8b268066bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bec7552651b967a86ae3ab8b268066bf]: Textual amendment: S. 9 repealed (14.3.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/10), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/311/article/3))
+[^c-bec7552651b967a86ae3ab8b268066bf]: Textual amendment: S. 9 repealed (14.3.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/10), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/311/article/3))

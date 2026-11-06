@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Meaning of “entitlement day” (short-service serious ill-health grant)[^key-a06df3581d9befdf36c2a5775da7f748]
+## 117. Meaning of “entitlement day” (short-service serious ill-health grant)[^c-a06df3581d9befdf36c2a5775da7f748]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The entitlement day for a short-service serious ill-health grant is the day afte
 
 ## Annotations
 
-[^key-a06df3581d9befdf36c2a5775da7f748]: Commencement: [Reg. 117](https://www.legislation.gov.uk/ssi/2014/292/regulation/117) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-a06df3581d9befdf36c2a5775da7f748]: Commencement: [Reg. 117](https://www.legislation.gov.uk/ssi/2014/292/regulation/117) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

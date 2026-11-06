@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9K. Record of certified persons[^key-553740a5a5511f8a0755c9ba7dd31279]
+## 9K. Record of certified persons[^c-553740a5a5511f8a0755c9ba7dd31279]
 
 *Extent: E+W+S+N.I.*
 
-The record maintained by the[^key-376071d085bf259863f482f146dc13c9] FCA under section 347 of the Act (public record of authorised persons etc.) must include every certified person.
+The record maintained by the[^c-376071d085bf259863f482f146dc13c9] FCA under section 347 of the Act (public record of authorised persons etc.) must include every certified person.
 
 ## Annotations
 
-[^key-553740a5a5511f8a0755c9ba7dd31279]: Textual amendment: Pt. 2 Ch. 2A inserted (11.4.2002 for specified purposes, 27.4.2002 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2), [4](https://www.legislation.gov.uk/uksi/2002/682/article/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2002/682/article/9), [10](https://www.legislation.gov.uk/uksi/2002/682/article/10))
+[^c-553740a5a5511f8a0755c9ba7dd31279]: Textual amendment: Pt. 2 Ch. 2A inserted (11.4.2002 for specified purposes, 27.4.2002 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2), [4](https://www.legislation.gov.uk/uksi/2002/682/article/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2002/682/article/9), [10](https://www.legislation.gov.uk/uksi/2002/682/article/10))
 
-[^key-376071d085bf259863f482f146dc13c9]: Textual amendment: Words in art. 9K substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/35/a)
+[^c-376071d085bf259863f482f146dc13c9]: Textual amendment: Words in art. 9K substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/35/a)

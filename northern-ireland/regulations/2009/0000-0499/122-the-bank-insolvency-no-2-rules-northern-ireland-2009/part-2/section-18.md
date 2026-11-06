@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Initial duties of bank liquidation committee[^key-1ffbee5438661fef799b566b29a97459]
+## 18. Initial duties of bank liquidation committee[^c-1ffbee5438661fef799b566b29a97459]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ffbee5438661fef799b566b29a97459]: Commencement: Rule 18 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-1ffbee5438661fef799b566b29a97459]: Commencement: Rule 18 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

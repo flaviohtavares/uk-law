@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Short title[^key-64e82705edfd99082ada84f57914aeee]
+## 82. Short title[^c-64e82705edfd99082ada84f57914aeee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Victims and Prisoners Act 2024.
 
 ## Annotations
 
-[^key-64e82705edfd99082ada84f57914aeee]: Commencement: S. 82 in force at Royal Assent, see [s. 81(1)(c)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/c)
+[^c-64e82705edfd99082ada84f57914aeee]: Commencement: S. 82 in force at Royal Assent, see [s. 81(1)(c)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Offences under sections 40B to 40D of the Prison Act 1952: extension of Crown immunity[^key-c092b31c7145e16f1960d8e96a71f2e8]
+## 24. Offences under sections 40B to 40D of the Prison Act 1952: extension of Crown immunity[^c-c092b31c7145e16f1960d8e96a71f2e8]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ After section 40E of the Prison Act 1952 (as inserted by section 22 above) there
 
 ## Annotations
 
-[^key-c092b31c7145e16f1960d8e96a71f2e8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2007/21/section/24) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(j)](https://www.legislation.gov.uk/uksi/2008/504/article/3/j)
+[^c-c092b31c7145e16f1960d8e96a71f2e8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2007/21/section/24) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(j)](https://www.legislation.gov.uk/uksi/2008/504/article/3/j)

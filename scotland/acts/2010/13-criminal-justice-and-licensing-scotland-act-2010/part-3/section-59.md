@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Bail conditions: remote monitoring requirements[^key-a61b7ee522383066291616712b759018]
+## 59. Bail conditions: remote monitoring requirements[^c-a61b7ee522383066291616712b759018]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 24A to 24E of the 1995 Act (bail conditions: remote monitoring) are rep
 
 ## Annotations
 
-[^key-a61b7ee522383066291616712b759018]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2010/13/section/59) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-a61b7ee522383066291616712b759018]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2010/13/section/59) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Relief in case of double assessment[^key-c99201d2b1dd3e8b3d8f256b3dc66b85]
+## 106. Relief in case of double assessment[^c-c99201d2b1dd3e8b3d8f256b3dc66b85]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person who believes that tax has been assessed on that person more than once i
 
 ## Annotations
 
-[^key-c99201d2b1dd3e8b3d8f256b3dc66b85]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2014/16/section/106) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-c99201d2b1dd3e8b3d8f256b3dc66b85]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2014/16/section/106) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

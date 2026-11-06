@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Maintenance of authorised development[^key-78852e12175dda0aac3581981b16ae5a]
+## 4. Maintenance of authorised development[^c-78852e12175dda0aac3581981b16ae5a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may at any time maintain the authorised development, except to th
 
 ## Annotations
 
-[^key-78852e12175dda0aac3581981b16ae5a]: Commencement: Art. 4 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-78852e12175dda0aac3581981b16ae5a]: Commencement: Art. 4 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

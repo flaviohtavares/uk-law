@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Determination of applications for registration where restrictions in force[^c2199631][^key-0fbe49259c786b4c861ded0c54c606a0]
+## 48. Determination of applications for registration where restrictions in force[^c2199631][^c-0fbe49259c786b4c861ded0c54c606a0]
 
 *Extent: E+W*
 
@@ -111,4 +111,4 @@ summary: ''
 
 [^c2199631]: Commencement: S. 48 partly in force; s. 48 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-0fbe49259c786b4c861ded0c54c606a0]: Commencement: S. 48 in force at 6.4.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-0fbe49259c786b4c861ded0c54c606a0]: Commencement: S. 48 in force at 6.4.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)

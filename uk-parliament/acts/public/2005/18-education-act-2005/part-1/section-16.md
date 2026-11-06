@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Chief Inspector must ensure that a copy of the report of any section 5 inspection of a school other than a maintained school is sent without delay to the proprietor of the school.
 
-(2) In the case of a special school which is not a community or foundation special school, the proprietor must without delay send a copy of any report sent to him under subsection (1) to any local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] that are paying fees in respect of the attendance of a registered pupil at the school.
+(2) In the case of a special school which is not a community or foundation special school, the proprietor must without delay send a copy of any report sent to him under subsection (1) to any local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] that are paying fees in respect of the attendance of a registered pupil at the school.
 
 (3) The proprietor of the school must—
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

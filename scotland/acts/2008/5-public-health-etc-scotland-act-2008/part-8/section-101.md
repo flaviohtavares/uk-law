@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Duty to display information notice[^key-ee4e165099dbd2f315759ce42d3642c7][^key-0fdf279ead6592c4079cb0f024129291]
+## 101. Duty to display information notice[^c-ee4e165099dbd2f315759ce42d3642c7][^c-0fdf279ead6592c4079cb0f024129291]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee4e165099dbd2f315759ce42d3642c7]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2008/5/section/101) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-ee4e165099dbd2f315759ce42d3642c7]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2008/5/section/101) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
 
-[^key-0fdf279ead6592c4079cb0f024129291]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2008/5/section/101) in force at 1.12.2009 in so far as not already in force by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-0fdf279ead6592c4079cb0f024129291]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2008/5/section/101) in force at 1.12.2009 in so far as not already in force by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

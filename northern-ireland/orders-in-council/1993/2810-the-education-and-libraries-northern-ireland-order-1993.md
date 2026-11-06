@@ -77,35 +77,35 @@ The Education and Libraries (Northern Ireland) Order 1993
 
 *Part II (arts. 3‐18) rep. by 2003 NI 12*
 
-## PART III — PUBLIC SUPPLY OR WORKS CONTRACTS[^key-873feb8a48ab104e0f3d99b22245aa0a]
+## PART III — PUBLIC SUPPLY OR WORKS CONTRACTS[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 **No longer in force.**
 
-### 19. Interpretation of Part III[^key-873feb8a48ab104e0f3d99b22245aa0a]
+### 19. Interpretation of Part III[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Board contracts: exclusion of non-commercial considerations[^key-873feb8a48ab104e0f3d99b22245aa0a]
+### 20. Board contracts: exclusion of non-commercial considerations[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Exceptions for fair employment matters and matters specified by Department[^key-873feb8a48ab104e0f3d99b22245aa0a]
+### 21. Exceptions for fair employment matters and matters specified by Department[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Provisions supplementary to or consequential on Article 20[^key-873feb8a48ab104e0f3d99b22245aa0a]
+### 22. Provisions supplementary to or consequential on Article 20[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Duty of boards to give reasons for certain decisions within Article 20[^key-873feb8a48ab104e0f3d99b22245aa0a]
+### 23. Duty of boards to give reasons for certain decisions within Article 20[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Transitional duty of boards as regards existing lists[^key-873feb8a48ab104e0f3d99b22245aa0a]
+### 24. Transitional duty of boards as regards existing lists[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Exclusion of charges for inclusion in approved list[^key-873feb8a48ab104e0f3d99b22245aa0a]
+### 25. Exclusion of charges for inclusion in approved list[^c-873feb8a48ab104e0f3d99b22245aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -289,7 +289,7 @@ the Department may, by notice served on that body,—
   - (b) the supplying of goods and services to any other body or person; and
   - (c) the developing and exploiting of ideas and the exploiting of intellectual property;
 - “relevant body” means—
-  - (a) the Authority[^key-5908ca0e3df0543c5ba836e40f9a9567] ; or
+  - (a) the Authority[^c-5908ca0e3df0543c5ba836e40f9a9567] ; or
   - (b) the Northern Ireland Council for the Curriculum, Examinations and Assessment.
 - *Para. (11) rep. by 1998 NI 13*
 
@@ -518,7 +518,7 @@ shall, in so far as they relate to teachers to whom Article 69 of the 1986 Order
 
 [^c21143461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 44. Insurance by boards[^key-5a3111cae40fd219a6824acafc50d28c]
+#### 44. Insurance by boards[^c-5a3111cae40fd219a6824acafc50d28c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -820,7 +820,7 @@ Article 28(2) to (4).
 
 [^c17620471]: Textual amendment: [1989 NI 20](https://www.legislation.gov.uk/1989/ni20)
 
-[^key-873feb8a48ab104e0f3d99b22245aa0a]: Textual amendment: Pt. III repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-873feb8a48ab104e0f3d99b22245aa0a]: Textual amendment: Pt. III repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c21400511]: Textual amendment: [Art. 28(1)](https://www.legislation.gov.uk/nisi/1993/2810/article/28/1) repealed (31.5.2009) by [Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13))](https://www.legislation.gov.uk/nisi/1998/1759), [arts. 1(3)](https://www.legislation.gov.uk/nisi/1998/1759/article/1/3), [91(2)](https://www.legislation.gov.uk/nisi/1998/1759/article/91/2), [Sch. 6 Pt. II](https://www.legislation.gov.uk/nisi/1998/1759/schedule/6/part/II) (with [art. 91(3)](https://www.legislation.gov.uk/nisi/1998/1759/article/91/3)); [S.R. 2009/183](https://www.legislation.gov.uk/nisr/2009/183), [art. 3(e)(iv)](https://www.legislation.gov.uk/nisr/2009/183/article/3/e/iv)
 
@@ -846,7 +846,7 @@ Article 28(2) to (4).
 
 [^c17620771]: Textual amendment: functions transf. by SR 2001/229
 
-[^key-5908ca0e3df0543c5ba836e40f9a9567]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1993/2810) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-5908ca0e3df0543c5ba836e40f9a9567]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1993/2810) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19198911]: Textual amendment: [Art. 35(2)](https://www.legislation.gov.uk/nisi/1993/2810/article/35/2) repealed (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/I)
 
@@ -854,6 +854,6 @@ Article 28(2) to (4).
 
 [^c21143461]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/nisi/1993/2810/article/43) repealed (1.4.2009) by [Libraries Act (Northern Ireland) 2008 (c. 8)](https://www.legislation.gov.uk/nia/2008/8), [ss. 10(2)](https://www.legislation.gov.uk/nia/2008/8/section/10/2), [12(2)](https://www.legislation.gov.uk/nia/2008/8/section/12/2), [Sch. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/4); [S.R. 2009/123](https://www.legislation.gov.uk/nisr/2009/123), [art. 2(g)](https://www.legislation.gov.uk/nisr/2009/123/article/2/g)
 
-[^key-5a3111cae40fd219a6824acafc50d28c]: Textual amendment: [Art. 44](https://www.legislation.gov.uk/nisi/1993/2810/article/44) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-5a3111cae40fd219a6824acafc50d28c]: Textual amendment: [Art. 44](https://www.legislation.gov.uk/nisi/1993/2810/article/44) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19199081]: Textual amendment: [Art. 47](https://www.legislation.gov.uk/nisi/1993/2810/article/47) repealed (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/I)

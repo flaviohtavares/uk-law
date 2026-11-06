@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Obtaining or disclosing trade secrets[^key-de2a0d97c96fcc712bdac8e794111219][^key-aa07712ee8ab03ad15c1afa35b19b298]
+## 2. Obtaining or disclosing trade secrets[^c-de2a0d97c96fcc712bdac8e794111219][^c-aa07712ee8ab03ad15c1afa35b19b298]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) discloses or provides access to a trade secret,
 - (b) the person’s conduct is unauthorised,
 - (c) the person knows, or having regard to other matters known to them ought reasonably to know, that their conduct is unauthorised, and
-- (d) the foreign power condition or the designated body condition[^key-fc318e9b41379ef9b1f723c99ca2f325] is met in relation to the person’s conduct (see sections 31 and 33B[^key-c0b20f99e4e6513e8aa690674bb943a2]).
+- (d) the foreign power condition or the designated body condition[^c-fc318e9b41379ef9b1f723c99ca2f325] is met in relation to the person’s conduct (see sections 31 and 33B[^c-c0b20f99e4e6513e8aa690674bb943a2]).
 
 (2) A “**trade secret**” means any information, document or other article which—
 
@@ -66,10 +66,10 @@ summary: ''
 
 ## Annotations
 
-[^key-de2a0d97c96fcc712bdac8e794111219]: Commencement: S. 2 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-de2a0d97c96fcc712bdac8e794111219]: Commencement: S. 2 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-aa07712ee8ab03ad15c1afa35b19b298]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/32/section/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-aa07712ee8ab03ad15c1afa35b19b298]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/32/section/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-fc318e9b41379ef9b1f723c99ca2f325]: Textual amendment: Words in [s. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2023/32/section/2/1/d) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/16/a)
+[^c-fc318e9b41379ef9b1f723c99ca2f325]: Textual amendment: Words in [s. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2023/32/section/2/1/d) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/16/a)
 
-[^key-c0b20f99e4e6513e8aa690674bb943a2]: Textual amendment: Words in [s. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2023/32/section/2/1/d) substituted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/16/b)
+[^c-c0b20f99e4e6513e8aa690674bb943a2]: Textual amendment: Words in [s. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2023/32/section/2/1/d) substituted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/16/b)

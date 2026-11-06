@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Term of office of non-executive directors[^key-43eb46888a21086d80412136c250e045]
+## 2. Term of office of non-executive directors[^c-43eb46888a21086d80412136c250e045]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43eb46888a21086d80412136c250e045]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/14/section/2) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/c)
+[^c-43eb46888a21086d80412136c250e045]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/14/section/2) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 276. Development and use of burial grounds[^key-6fb75d24d8a8b38b1fe01260933be3da]
+## 276. Development and use of burial grounds[^c-6fb75d24d8a8b38b1fe01260933be3da]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ have been complied with.
 
 ## Annotations
 
-[^key-6fb75d24d8a8b38b1fe01260933be3da]: Commencement: S. 276 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6fb75d24d8a8b38b1fe01260933be3da]: Commencement: S. 276 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

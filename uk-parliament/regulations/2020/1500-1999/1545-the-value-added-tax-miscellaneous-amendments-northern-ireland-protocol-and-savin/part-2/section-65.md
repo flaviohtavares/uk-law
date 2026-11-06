@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65.[^key-d8fef87fba18c7d5d7c64630a21ee7d4]
+## 65.[^c-d8fef87fba18c7d5d7c64630a21ee7d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 121 (adaptations), after “shall apply” insert “ to importati
 
 ## Annotations
 
-[^key-d8fef87fba18c7d5d7c64630a21ee7d4]: Commencement: Reg. 65 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-d8fef87fba18c7d5d7c64630a21ee7d4]: Commencement: Reg. 65 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

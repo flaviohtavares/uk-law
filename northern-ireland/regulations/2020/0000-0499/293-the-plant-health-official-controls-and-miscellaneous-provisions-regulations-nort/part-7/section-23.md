@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Specific measures relating to certain solanaceous species[^key-55de16c7baa498fc217ea916eb5726fc]
+## 23. Specific measures relating to certain solanaceous species[^c-55de16c7baa498fc217ea916eb5726fc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 contains specific measures relating to certain solanaceous species.
 
 ## Annotations
 
-[^key-55de16c7baa498fc217ea916eb5726fc]: Commencement: Reg. 23 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-55de16c7baa498fc217ea916eb5726fc]: Commencement: Reg. 23 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

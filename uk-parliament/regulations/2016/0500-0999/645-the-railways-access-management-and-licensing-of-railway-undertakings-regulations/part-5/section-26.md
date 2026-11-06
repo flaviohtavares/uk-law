@@ -46,7 +46,7 @@ the infrastructure manager may set priority criteria for the allocation of infra
 - (a) take account of the importance of a service to society, relative to any other service which will consequently be excluded; and
 - (b) ensure that freight services, and in particular international freight services, are given adequate consideration in the determination of those criteria.
 
-(7) For the purposes of paragraph (6) an international freight service is a transport service where all wagons of the train cross the border between the United Kingdom and the European Union[^key-0daa81a8173d00c93b05ddeeefa65af0]; the train may be joined or split and the different sections of the train may have different origins and destinations.
+(7) For the purposes of paragraph (6) an international freight service is a transport service where all wagons of the train cross the border between the United Kingdom and the European Union[^c-0daa81a8173d00c93b05ddeeefa65af0]; the train may be joined or split and the different sections of the train may have different origins and destinations.
 
 (8) If during the course of the working timetable period to which the declaration of congested infrastructure relates, but before the completion of the capacity analysis, the congestion is resolved, the infrastructure manager may revoke the declaration made in accordance with paragraph (1).
 
@@ -54,4 +54,4 @@ the infrastructure manager may set priority criteria for the allocation of infra
 
 ## Annotations
 
-[^key-0daa81a8173d00c93b05ddeeefa65af0]: Textual amendment: Words in [reg. 26(7)](https://www.legislation.gov.uk/uksi/2016/645/regulation/26/7) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [15](https://www.legislation.gov.uk/uksi/2019/518/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0daa81a8173d00c93b05ddeeefa65af0]: Textual amendment: Words in [reg. 26(7)](https://www.legislation.gov.uk/uksi/2016/645/regulation/26/7) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [15](https://www.legislation.gov.uk/uksi/2019/518/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

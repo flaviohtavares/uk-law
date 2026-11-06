@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14A. Lay residentiary canons[^key-47ee4416a776f9814640cd6ea865e68b]
+## 14A. Lay residentiary canons[^c-47ee4416a776f9814640cd6ea865e68b]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47ee4416a776f9814640cd6ea865e68b]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukcm/2021/2/section/14A) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/7/1) (with [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1/1))
+[^c-47ee4416a776f9814640cd6ea865e68b]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukcm/2021/2/section/14A) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/7/1) (with [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1/1))

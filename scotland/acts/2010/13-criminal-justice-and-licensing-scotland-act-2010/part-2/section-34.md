@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Articles banned in prison[^key-6ffad815e4e983b5b242db122df27e5b]
+## 34. Articles banned in prison[^c-6ffad815e4e983b5b242db122df27e5b]
 
 *Extent: S*
 
@@ -142,4 +142,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ffad815e4e983b5b242db122df27e5b]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/13/section/34) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-6ffad815e4e983b5b242db122df27e5b]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/13/section/34) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

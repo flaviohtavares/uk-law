@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Bond washing and repos.[^key-1cd33eb67093b2b1eed039e6d99d5373]
+## 77. Bond washing and repos.[^c-1cd33eb67093b2b1eed039e6d99d5373]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cd33eb67093b2b1eed039e6d99d5373]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/1997/16/section/77) omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(h)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/h)
+[^c-1cd33eb67093b2b1eed039e6d99d5373]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/1997/16/section/77) omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(h)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Order of appointment of provisional building society liquidator[^key-c9f2acb2f91effbdaa8fcd6e346fe1cf]
+## 12. Order of appointment of provisional building society liquidator[^c-c9f2acb2f91effbdaa8fcd6e346fe1cf]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ and may also send to those persons an electronic copy of the certified copy orde
 
 ## Annotations
 
-[^key-c9f2acb2f91effbdaa8fcd6e346fe1cf]: Commencement: Rule 12 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-c9f2acb2f91effbdaa8fcd6e346fe1cf]: Commencement: Rule 12 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^M_F_e8621171-61d1-4c2d-ac9f-210d5e4947c3]: Textual amendment: Words in Rules substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Road traffic accidents[^key-4cbcde6ccf6469e46e6c4d9664022b9c][^key-a73f0cdd6054dfca2c326956ee212c0e]
+## 8. Road traffic accidents[^c-4cbcde6ccf6469e46e6c4d9664022b9c][^c-a73f0cdd6054dfca2c326956ee212c0e]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cbcde6ccf6469e46e6c4d9664022b9c]: Commencement: S. 8 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-4cbcde6ccf6469e46e6c4d9664022b9c]: Commencement: S. 8 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-a73f0cdd6054dfca2c326956ee212c0e]: Commencement: S. 8 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-a73f0cdd6054dfca2c326956ee212c0e]: Commencement: S. 8 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

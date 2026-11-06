@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Arrangements for performance by regional Transport Partnership of certain transport functions etc.[^key-12f2d240bdc53cb66590b2fc816464e5]
+## 14. Arrangements for performance by regional Transport Partnership of certain transport functions etc.[^c-12f2d240bdc53cb66590b2fc816464e5]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A Transport Partnership may enter into arrangements with the Scottish Ministers,
 
 ## Annotations
 
-[^key-12f2d240bdc53cb66590b2fc816464e5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2005/12/section/14) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-12f2d240bdc53cb66590b2fc816464e5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2005/12/section/14) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

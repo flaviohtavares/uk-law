@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Obstruction to construction[^key-b43092c748b226e7ed004c8ac0761d2f]
+## 30. Obstruction to construction[^c-b43092c748b226e7ed004c8ac0761d2f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any person who, without reasonable excuse, obstructs any person acting under the
 
 ## Annotations
 
-[^key-b43092c748b226e7ed004c8ac0761d2f]: Commencement: Art. 30 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-b43092c748b226e7ed004c8ac0761d2f]: Commencement: Art. 30 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Duty to fill judicial vacancies[^key-94482e864f90979ff23007eadcbbadc1]
+## 28. Duty to fill judicial vacancies[^c-94482e864f90979ff23007eadcbbadc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94482e864f90979ff23007eadcbbadc1]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2006/33/section/28) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/9); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-94482e864f90979ff23007eadcbbadc1]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2006/33/section/28) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/9); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

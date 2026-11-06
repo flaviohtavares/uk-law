@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Qualifications of performers: medical practitioners[^key-2576a0599d1095de28ea78f5d3d7e38c]
+## 33. Qualifications of performers: medical practitioners[^c-2576a0599d1095de28ea78f5d3d7e38c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A medical practitioner may only perform clinical services under the agreement wh
 
 ## Annotations
 
-[^key-2576a0599d1095de28ea78f5d3d7e38c]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/1879/regulation/33) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/2/1)
+[^c-2576a0599d1095de28ea78f5d3d7e38c]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/1879/regulation/33) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/2/1)

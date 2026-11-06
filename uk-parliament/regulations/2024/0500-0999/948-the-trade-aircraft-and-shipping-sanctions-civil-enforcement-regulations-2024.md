@@ -48,7 +48,7 @@ The Secretary of State[^f00001] makes these Regulations in exercise of the power
 
 ## Part 1 — General
 
-### 1. Citation, commencement and extent[^key-7c51617998b3d1173f29e0ff027d0e51]
+### 1. Citation, commencement and extent[^c-7c51617998b3d1173f29e0ff027d0e51]
 
 (1) These Regulations may be cited as the Trade, Aircraft and Shipping Sanctions (Civil Enforcement) Regulations 2024.
 
@@ -56,7 +56,7 @@ The Secretary of State[^f00001] makes these Regulations in exercise of the power
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-df81843ed38159239f5810d50c1c8eee]
+### 2. Interpretation[^c-df81843ed38159239f5810d50c1c8eee]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
 - “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
 - “**excluded trade sanctions regulations**” means—
   - (a) the following provisions in the Russia (Sanctions) (EU Exit) Regulations 2019[^f00005]—
-    - (ai) regulation 18(1) (investments in relation to non-government controlled Ukrainian territory), in so far as it concerns an activity mentioned in regulation 18(2)(a);[^key-3822f9c22d0daa0f39dd91c7c13ea9e8]
+    - (ai) regulation 18(1) (investments in relation to non-government controlled Ukrainian territory), in so far as it concerns an activity mentioned in regulation 18(2)(a);[^c-3822f9c22d0daa0f39dd91c7c13ea9e8]
     - (bi) regulation 18B(1) (investments in relation to Russia), in so far as it concerns an activity mentioned in regulation 18B(2)(a) or (b);
     - (iii) regulations 46Z9B to 46Z9D (maritime transportation of certain oil and oil products);
     - (iv) regulation 54A (internet services),
@@ -90,7 +90,7 @@ In these Regulations—
   - (b) make supplemental provision (within the meaning of section 1(6) of the Act) in connection with any prohibition or requirement mentioned in paragraph (a), including these Regulations;
 - “**United Kingdom person**” has the meaning given in section 21 (extra-territorial application) of the Act.
 
-### 3. Application of requirements outside the United Kingdom[^key-bc811e2bc1408080fb19dd31d8503f48]
+### 3. Application of requirements outside the United Kingdom[^c-bc811e2bc1408080fb19dd31d8503f48]
 
 (1) A United Kingdom person may comply, or fail to comply, with a relevant requirement by conduct wholly or partly outside the United Kingdom.
 
@@ -103,7 +103,7 @@ In these Regulations—
 
 (4) Nothing in this regulation is to be taken to prevent a relevant requirement from applying to conduct (by any person) in the United Kingdom.
 
-### 4. Purposes[^key-7f5bdde20ab70136d67affe5f4db6a58]
+### 4. Purposes[^c-7f5bdde20ab70136d67affe5f4db6a58]
 
 (1) The purposes of the regulations contained in this instrument that are made under section 1 of the Act are considered appropriate by the Minister to further support enforcement of prohibitions and requirements, for the purposes of—
 
@@ -114,7 +114,7 @@ In these Regulations—
 
 ## Part 2 — Enforcement
 
-### 5. Power to impose monetary penalties[^key-0c6bae005eae1249a414d717b603bbcb]
+### 5. Power to impose monetary penalties[^c-0c6bae005eae1249a414d717b603bbcb]
 
 (1) Subject to paragraphs (2) to (4), the Secretary of State may impose a monetary penalty on a person if the Secretary of State is satisfied, on the balance of probabilities, that the person has breached a prohibition, or failed to comply with an obligation, imposed by or under sanctions regulations.
 
@@ -136,17 +136,17 @@ In these Regulations—
 
 (6) Any monetary penalty received by the Secretary of State under paragraph (1) must be paid into the Consolidated Fund.
 
-### 6. Trade sanctions: monetary penalties, supplementary[^key-48c2d7d6b111bd38774c5fd315644e00]
+### 6. Trade sanctions: monetary penalties, supplementary[^c-48c2d7d6b111bd38774c5fd315644e00]
 
 For the purposes of regulation 5(1) (power to impose monetary penalties), any defence that the person did not know and had no reasonable cause to suspect that an offence had been committed under trade sanctions regulations is to be ignored.
 
-### 7. Aircraft and shipping sanctions: monetary penalties, supplementary[^key-b8dbaf973abbc8f3d41bd30b7cd32580]
+### 7. Aircraft and shipping sanctions: monetary penalties, supplementary[^c-b8dbaf973abbc8f3d41bd30b7cd32580]
 
 (1) Paragraph (2) applies for the purposes of regulation 5(1) in determining whether a person has breached a prohibition, or failed to comply with an obligation, imposed by or under aircraft sanctions regulations or shipping sanctions regulations.
 
 (2) Any requirement imposed by or under those regulations for the person to have known, suspected or believed any matter, or to have acted without reasonable excuse, is to be ignored.
 
-### 8. Liability of officers of bodies corporate etc.[^key-7431b7c26c23da8f7e5e55bb1e9a1bd9]
+### 8. Liability of officers of bodies corporate etc.[^c-7431b7c26c23da8f7e5e55bb1e9a1bd9]
 
 (1) Paragraph (2) applies where a body corporate has breached a prohibition, or failed to comply with an obligation, imposed by or under sanctions regulations.
 
@@ -166,7 +166,7 @@ the Secretary of State may impose a monetary penalty on that person as well as o
   - (i) where the body’s affairs are managed by its members, to a member of the body;
   - (ii) in any other case, to a member of the governing body.
 
-### 9. Trade sanctions: calculation of penalty[^key-d19d39df66a34308c934b51475163005]
+### 9. Trade sanctions: calculation of penalty[^c-d19d39df66a34308c934b51475163005]
 
 (1) The amount of the penalty under regulation 5(1) for breach of a prohibition or failure to comply with an obligation imposed by or under trade sanctions regulations is to be such amount as the Secretary of State may determine, but it may not exceed the permitted maximum.
 
@@ -177,7 +177,7 @@ the Secretary of State may impose a monetary penalty on that person as well as o
 
 (3) In any other case, the permitted maximum is £1,000,000.
 
-### 10. Aircraft and shipping sanctions: calculation of penalty[^key-3152692eba596e6d7b8ca627cea1b048]
+### 10. Aircraft and shipping sanctions: calculation of penalty[^c-3152692eba596e6d7b8ca627cea1b048]
 
 (1) The amount of the penalty under regulation 5(1) for breach of a prohibition or failure to comply with an obligation imposed by or under aircraft sanctions regulations or shipping sanctions regulations is to be such amount as the Secretary of State may determine, but it may not exceed the permitted maximum.
 
@@ -190,7 +190,7 @@ the Secretary of State may impose a monetary penalty on that person as well as o
 
 (4) For the purpose of paragraph (2), “**estimated value**” means the estimated value of the aircraft or ship at the time of the breach or failure to comply, as the case may be.
 
-### 11. Monetary penalties: procedural rights[^key-6cb9949291158501321a9b895d3c7278]
+### 11. Monetary penalties: procedural rights[^c-6cb9949291158501321a9b895d3c7278]
 
 (1) Before imposing a monetary penalty on a person under regulation 5(1), the Secretary of State must inform the person of the Secretary of State’s intention to do so.
 
@@ -220,7 +220,7 @@ the Secretary of State may impose a monetary penalty on that person as well as o
 - (a) quash the Secretary of State’s decision to impose the penalty;
 - (b) uphold that decision but substitute a different amount for the amount determined by the Secretary of State.
 
-### 12. Monetary penalties: procedural rights, supplementary[^key-c4e4eb0b62310ac4285e80aa897f6386]
+### 12. Monetary penalties: procedural rights, supplementary[^c-c4e4eb0b62310ac4285e80aa897f6386]
 
 (1) A person is not liable for a monetary penalty under regulation 5(1) in respect of conduct amounting to an offence if—
 
@@ -229,7 +229,7 @@ the Secretary of State may impose a monetary penalty on that person as well as o
 
 (2) No proceedings may be brought against a person in respect of conduct amounting to an offence if the person has been given a monetary penalty under regulation 5(1) in respect of that conduct.
 
-### 13. Monetary penalties: reports[^key-1ea5ec9f4b7f37b9dcd92423b292b425]
+### 13. Monetary penalties: reports[^c-1ea5ec9f4b7f37b9dcd92423b292b425]
 
 (1) The Secretary of State may, at such intervals as the Secretary of State considers appropriate, publish reports about the imposition of monetary penalties under regulation 5.
 
@@ -242,11 +242,11 @@ the Secretary of State may impose a monetary penalty on that person as well as o
 
 ## Part 3 — Information and records
 
-### 14. Application of this Part[^key-bef722dbe4a252218cc6c9c2d8a444ac]
+### 14. Application of this Part[^c-bef722dbe4a252218cc6c9c2d8a444ac]
 
 This Part does not apply where regulation 5(2) and (3) (exception to power to impose monetary penalties) applies.
 
-### 15. Reporting obligations: trade sanctions[^key-80f0ced98149870f86fe012e7919cb35]
+### 15. Reporting obligations: trade sanctions[^c-80f0ced98149870f86fe012e7919cb35]
 
 (1) A relevant person (“**RP**”) must inform the Secretary of State as soon as practicable if—
 
@@ -286,7 +286,7 @@ This Part does not apply where regulation 5(2) and (3) (exception to power to im
 - (b) in the case of an undertaking within paragraph (b) of the definition of “relevant person” in paragraph (4), in the course of carrying on an activity mentioned in paragraph (b) of that definition;
 - (c) in the case of a firm or sole practitioner within paragraph (c) of the definition of “relevant person” in paragraph (4), in the course of providing the services mentioned in paragraph (c) of that definition.
 
-### 16. Reporting obligations: aircraft and shipping sanctions[^key-f2f5c17cfbe9a5cbed439d9b29bc6407]
+### 16. Reporting obligations: aircraft and shipping sanctions[^c-f2f5c17cfbe9a5cbed439d9b29bc6407]
 
 (1) A relevant person (“**RP**”) must inform the Secretary of State as soon as practicable if—
 
@@ -319,7 +319,7 @@ This Part does not apply where regulation 5(2) and (3) (exception to power to im
   - (e) a master or pilot (in relation to a ship or fishing vessel, as the case may be);
   - (f) a harbour authority.
 
-### 17. Power to request information: general[^key-cf488f883cdd20bf45a9d243dcd562ec]
+### 17. Power to request information: general[^c-cf488f883cdd20bf45a9d243dcd562ec]
 
 (1) The Secretary of State may request a person to provide information within paragraph (2) if the Secretary of State believes that the person may be able to provide the information.
 
@@ -335,7 +335,7 @@ This Part does not apply where regulation 5(2) and (3) (exception to power to im
 
 (5) A request may include a continuing obligation to keep the Secretary of State informed as circumstances change, or on such regular basis as the Secretary of State may specify.
 
-### 18. Power to request information: trade sanctions[^key-dd95b339f4237db70c7b4760095d1bcd]
+### 18. Power to request information: trade sanctions[^c-dd95b339f4237db70c7b4760095d1bcd]
 
 (1) The Secretary of State may request a person acting under a trade licence to provide information about any matter to which the licence relates, for a purpose mentioned in regulation 17(2) (power to request information: general).
 
@@ -343,7 +343,7 @@ This Part does not apply where regulation 5(2) and (3) (exception to power to im
 
 (3) Regulation 17(3) to (5) applies to this regulation.
 
-### 19. Power to request information: aircraft and shipping sanctions[^key-ee4afd99dfda293e931efe3c4424e97c]
+### 19. Power to request information: aircraft and shipping sanctions[^c-ee4afd99dfda293e931efe3c4424e97c]
 
 (1) The Secretary of State may request a person acting under an aircraft licence or shipping licence to provide information about any matter to which the licence relates, for—
 
@@ -361,7 +361,7 @@ This Part does not apply where regulation 5(2) and (3) (exception to power to im
 
 (5) Regulation 17(3) to (5) applies to this regulation.
 
-### 20. Production of documents[^key-3b2e81796cc3516e071dc314191c7fa0]
+### 20. Production of documents[^c-3b2e81796cc3516e071dc314191c7fa0]
 
 (1) A request under regulations 17 to 19 may include a request to produce specified documents or documents of a specified description.
 
@@ -380,7 +380,7 @@ This Part does not apply where regulation 5(2) and (3) (exception to power to im
 - (a) take reasonable steps to obtain the documents (if they are not already in the person’s possession or control);
 - (b) keep the documents under the person’s possession or control (except for the purpose of providing them to the Secretary of State or as the Secretary of State may otherwise permit).
 
-### 21. Information offences[^key-3cde792121029466c15abb3fe3ddab54]
+### 21. Information offences[^c-3cde792121029466c15abb3fe3ddab54]
 
 (1) A person commits an offence, if that person—
 
@@ -391,7 +391,7 @@ This Part does not apply where regulation 5(2) and (3) (exception to power to im
 
 (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
 
-### 22. Penalties for offences[^key-e65a9f02563aadfd29b079e0c7d589af]
+### 22. Penalties for offences[^c-e65a9f02563aadfd29b079e0c7d589af]
 
 A person who commits an offence under regulation 15(3) (reporting obligations: trade sanctions), 16(3) (reporting obligations: aircraft and shipping sanctions) or 21(1) (information offences) is liable—
 
@@ -399,7 +399,7 @@ A person who commits an offence under regulation 15(3) (reporting obligations: t
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
 
-### 23. Jurisdiction to try offences[^key-aad8cb85d17f2cda24a1f43ed9d2b4f9]
+### 23. Jurisdiction to try offences[^c-aad8cb85d17f2cda24a1f43ed9d2b4f9]
 
 (1) Where an offence under regulation 15(3), 16(3) or 21(1) is committed in the United Kingdom—
 
@@ -418,7 +418,7 @@ A person who commits an offence under regulation 15(3) (reporting obligations: t
 
 (4) In paragraph (3) “**sheriff court district**” is to be read in accordance with the Criminal Procedure (Scotland) Act 1995[^f00012] (see section 307(1) (interpretation) of that Act).
 
-### 24. Procedure for offences by unincorporated bodies[^key-5ff52c575180cdbbda06e83d07d2ffff]
+### 24. Procedure for offences by unincorporated bodies[^c-5ff52c575180cdbbda06e83d07d2ffff]
 
 (1) Paragraphs (2) and (3) apply if it is alleged that an offence under these Regulations has been committed by an unincorporated body (as opposed to by a member of the body).
 
@@ -433,7 +433,7 @@ A person who commits an offence under regulation 15(3) (reporting obligations: t
 
 (4) A fine imposed on an unincorporated body on its conviction of an offence under these Regulations is to be paid out of the funds of the body.
 
-### 25. Time limit for proceedings for offences[^key-2c3df39018d0117b0976880a8bcb14b0]
+### 25. Time limit for proceedings for offences[^c-2c3df39018d0117b0976880a8bcb14b0]
 
 (1) Proceedings for an offence under these Regulations may be brought within the period of 12 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the prosecutor’s knowledge.
 
@@ -446,7 +446,7 @@ A person who commits an offence under regulation 15(3) (reporting obligations: t
 - (a) section 136(3) (date of commencement of summary proceedings) of the Criminal Procedure (Scotland) Act 1995 applies for the purposes of this regulation as it applies for the purposes of that section, and
 - (b) references in this regulation to the prosecutor are to be treated as references to the Lord Advocate.
 
-### 26. Information offences relating to trade sanctions: application of CEMA[^key-40b4769d5c3f05f0805f05f6891f61bc]
+### 26. Information offences relating to trade sanctions: application of CEMA[^c-40b4769d5c3f05f0805f05f6891f61bc]
 
 (1) Where the Commissioners investigate or propose to investigate any matter with a view to determining—
 
@@ -459,8 +459,8 @@ the matter is to be treated as an assigned matter.
 
 (3) In this regulation a “**relevant offence**” means an offence under—
 
-- (a) regulation 15(3) (reporting obligations: trade sanctions) except where the offence relates to regulation 46Z39 (detained transport assets) and regulation 68ZA (detained transport assets: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019[^key-46ac0758e606f3ea65f12ed4a7ab28f4];
-- (b) regulation 21(1) (information offences) insofar as it relates to trade sanctions regulations except regulation 46Z39 (detained transport assets) and regulation 68ZA (detained transport assets: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019[^key-5cb2dd35c0afe67cda32a64f3bab60a5].
+- (a) regulation 15(3) (reporting obligations: trade sanctions) except where the offence relates to regulation 46Z39 (detained transport assets) and regulation 68ZA (detained transport assets: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019[^c-46ac0758e606f3ea65f12ed4a7ab28f4];
+- (b) regulation 21(1) (information offences) insofar as it relates to trade sanctions regulations except regulation 46Z39 (detained transport assets) and regulation 68ZA (detained transport assets: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019[^c-5cb2dd35c0afe67cda32a64f3bab60a5].
 
 (4) The Commissioners may not investigate the suspected commission of a relevant offence unless the suspected offence has been the subject of—
 
@@ -485,7 +485,7 @@ the matter is to be treated as an assigned matter.
 
 (8) In this regulation, “**the customs and excise Acts**” has the meaning given in section 1(1) of CEMA.
 
-### 27. Disclosure of information[^key-a97f9d89eed1e73bbf2afc9eec6a83b0]
+### 27. Disclosure of information[^c-a97f9d89eed1e73bbf2afc9eec6a83b0]
 
 (1) The Secretary of State may, in accordance with this regulation, disclose any information obtained under or by virtue of this Part.
 
@@ -524,7 +524,7 @@ the matter is to be treated as an assigned matter.
 
 (5) In paragraph (4) “**in their own right**” means not merely in the capacity as a servant or agent of another person.
 
-### 28. Disclosure to the Secretary of State[^key-bbdf7679cf4cd560e861054265a4d460]
+### 28. Disclosure to the Secretary of State[^c-bbdf7679cf4cd560e861054265a4d460]
 
 (1) A relevant public authority may disclose information to the Secretary of State if the disclosure is made for the purpose of enabling or assisting the Secretary of State to discharge any of the Secretary of State’s functions in connection with any sanctions regulations.
 
@@ -556,7 +556,7 @@ the matter is to be treated as an assigned matter.
   - (c) in relation to Scotland, a council constituted under section 2 (constitution of councils) of the Local Government etc. (Scotland) Act 1994[^f00027], or
   - (d) in relation to Northern Ireland, a district council.
 
-### 29. Part 3: supplementary[^key-df58c842fc89f99027adff4c74d60060]
+### 29. Part 3: supplementary[^c-df58c842fc89f99027adff4c74d60060]
 
 (1) A disclosure of information—
 
@@ -585,15 +585,15 @@ does not breach any restriction on such disclosure imposed by statute or otherwi
 
 ## Part 4 — Miscellaneous
 
-### 30. Aircraft sanctions regulations and shipping sanctions regulations: application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^key-98a8c0496ff7ed257e976be64a95663f]
+### 30. Aircraft sanctions regulations and shipping sanctions regulations: application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^c-98a8c0496ff7ed257e976be64a95663f]
 
 Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005[^f00030] (investigatory powers) applies to any offence under—
 
-- (za)[^key-1a9e86c236c8546fa774be4b8290abb9] regulation 46Z39 (detained transport assets), regulation 55(2), (but only in so far as the offence under that regulation relates to circumvention of the prohibitions in regulation 46Z39 (detained transport assets)) or regulation 68ZA (detained transport assets: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019;
-- (a) Parts 6 (ships) or 6A (aircraft), regulation 68ZB (ships: licensing offences),[^key-9ebfbacb42e9763fb2ce5e45f99ecc54] or regulation 68A (aircraft: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019[^f00031];
+- (za)[^c-1a9e86c236c8546fa774be4b8290abb9] regulation 46Z39 (detained transport assets), regulation 55(2), (but only in so far as the offence under that regulation relates to circumvention of the prohibitions in regulation 46Z39 (detained transport assets)) or regulation 68ZA (detained transport assets: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019;
+- (a) Parts 6 (ships) or 6A (aircraft), regulation 68ZB (ships: licensing offences),[^c-9ebfbacb42e9763fb2ce5e45f99ecc54] or regulation 68A (aircraft: licensing offences) of the Russia (Sanctions) (EU Exit) Regulations 2019[^f00031];
 - (b) Parts 5A (aircraft) or 5B (ships) of the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019[^f00032];
 - (c) Parts 7 (aircraft) or 8 (ships) of the Democratic People’s Republic of Korea (Sanctions) (EU Exit) Regulations 2019[^f00033];
-- (d)[^key-edbc74abdd27a943291bca3aa3489f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-edbc74abdd27a943291bca3aa3489f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) Parts 6 (trade, transport and finance measures related to UN designated ships) or 7 (aircraft) of the Libya (Sanctions) (EU Exit) Regulations 2020[^f00035].
 
 Stephen Doughty
@@ -642,9 +642,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13). Section 16 is amended by the Economic Crime (Transparency and Enforcement) Act [2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), section 65. Section 17 is amended by the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), section 214(3) (“the 2023 Act”) and [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149). Section 17A is inserted by the 2023 Act, section 214(4).
 
-[^key-7c51617998b3d1173f29e0ff027d0e51]: Commencement: Reg. 1 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-7c51617998b3d1173f29e0ff027d0e51]: Commencement: Reg. 1 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-df81843ed38159239f5810d50c1c8eee]: Commencement: Reg. 2 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-df81843ed38159239f5810d50c1c8eee]: Commencement: Reg. 2 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00003]: Footnote: Section 1 is amended by the Economic Crime (Transparency and Enforcement) Act 2022, section 57 and the Economic Crime and Corporate Transparency Act 2023, section 35.
 
@@ -652,37 +652,37 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: [S.I. 2019/855](https://www.legislation.gov.uk/uksi/2019/855). Regulations 46Z9B to 46Z9D are inserted by [S.I. 2022/1122](https://www.legislation.gov.uk/uksi/2022/1122) and regulation 54A is inserted by [S.I. 2022/477](https://www.legislation.gov.uk/uksi/2022/477).
 
-[^key-3822f9c22d0daa0f39dd91c7c13ea9e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2024/948/regulation/2) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/36/2)
+[^c-3822f9c22d0daa0f39dd91c7c13ea9e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2024/948/regulation/2) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/36/2)
 
 [^f00006]: Footnote: [S.I. 2019/600](https://www.legislation.gov.uk/uksi/2019/600). Regulation 27P is inserted by [S.I. 2023/616](https://www.legislation.gov.uk/uksi/2023/616).
 
-[^key-bc811e2bc1408080fb19dd31d8503f48]: Commencement: Reg. 3 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-bc811e2bc1408080fb19dd31d8503f48]: Commencement: Reg. 3 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00007]: Footnote: Section 62(1) of the Sanctions and Anti-Money Laundering Act 2018 defines “the territorial sea” as (without more), the territorial sea adjacent to the United Kingdom.
 
-[^key-7f5bdde20ab70136d67affe5f4db6a58]: Commencement: Reg. 4 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-7f5bdde20ab70136d67affe5f4db6a58]: Commencement: Reg. 4 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-0c6bae005eae1249a414d717b603bbcb]: Commencement: Reg. 5 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-0c6bae005eae1249a414d717b603bbcb]: Commencement: Reg. 5 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-48c2d7d6b111bd38774c5fd315644e00]: Commencement: Reg. 6 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-48c2d7d6b111bd38774c5fd315644e00]: Commencement: Reg. 6 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-b8dbaf973abbc8f3d41bd30b7cd32580]: Commencement: Reg. 7 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-b8dbaf973abbc8f3d41bd30b7cd32580]: Commencement: Reg. 7 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-7431b7c26c23da8f7e5e55bb1e9a1bd9]: Commencement: Reg. 8 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-7431b7c26c23da8f7e5e55bb1e9a1bd9]: Commencement: Reg. 8 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-d19d39df66a34308c934b51475163005]: Commencement: Reg. 9 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-d19d39df66a34308c934b51475163005]: Commencement: Reg. 9 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-3152692eba596e6d7b8ca627cea1b048]: Commencement: Reg. 10 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-3152692eba596e6d7b8ca627cea1b048]: Commencement: Reg. 10 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-6cb9949291158501321a9b895d3c7278]: Commencement: Reg. 11 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-6cb9949291158501321a9b895d3c7278]: Commencement: Reg. 11 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-c4e4eb0b62310ac4285e80aa897f6386]: Commencement: Reg. 12 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-c4e4eb0b62310ac4285e80aa897f6386]: Commencement: Reg. 12 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-1ea5ec9f4b7f37b9dcd92423b292b425]: Commencement: Reg. 13 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-1ea5ec9f4b7f37b9dcd92423b292b425]: Commencement: Reg. 13 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-bef722dbe4a252218cc6c9c2d8a444ac]: Commencement: Reg. 14 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-bef722dbe4a252218cc6c9c2d8a444ac]: Commencement: Reg. 14 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-80f0ced98149870f86fe012e7919cb35]: Commencement: Reg. 15 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-80f0ced98149870f86fe012e7919cb35]: Commencement: Reg. 15 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00008]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A is inserted by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(2) and amended by the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), Schedule 11, paragraph 2 and the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), section 20; Schedule 5, paragraphs 4 to 12; and Schedule 8, paragraphs 2 and 4 to 6 and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504); [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773); [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115); [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575); [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910); [S.I. 2016/225](https://www.legislation.gov.uk/uksi/2016/225); [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680); [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239); [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701); [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064); [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135); [S.I. 2018/546](https://www.legislation.gov.uk/uksi/2018/546); [S.I. 2018/698](https://www.legislation.gov.uk/uksi/2018/698); [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149); [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632); [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376); [S.I. 2023/1410](https://www.legislation.gov.uk/uksi/2023/1410) and [S.I. 2023/1424](https://www.legislation.gov.uk/uksi/2023/1424).
 
@@ -690,27 +690,27 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00010]: Footnote: Schedule 2 is amended as follows. Paragraph 9A is inserted by the Dormant Bank and Building Society Accounts Act [2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31), Schedule 2, paragraph 1(3). Paragraph 13 is amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632). Paragraph 23 is amended, and paragraphs 23B, and 24A to 24D are inserted, by the Financial Services Act 2012, section 7. Paragraph 23A is inserted by the Regulation of Financial Services (Land Transactions) Act [2005 (c. 24)](https://www.legislation.gov.uk/ukpga/2005/24), section 1. Paragraph 24C is amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Paragraph 25 is amended by the Financial Services Act 2012, section 8 and the Financial Guidance and Claims Act 2018, section 27 for England, Scotland and Wales. Paragraph 26 is amended by the Financial Services Act 2012, section 8 and the Financial Guidance and Claims Act 2018, section 27.
 
-[^key-f2f5c17cfbe9a5cbed439d9b29bc6407]: Commencement: Reg. 16 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-f2f5c17cfbe9a5cbed439d9b29bc6407]: Commencement: Reg. 16 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-cf488f883cdd20bf45a9d243dcd562ec]: Commencement: Reg. 17 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-cf488f883cdd20bf45a9d243dcd562ec]: Commencement: Reg. 17 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-dd95b339f4237db70c7b4760095d1bcd]: Commencement: Reg. 18 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-dd95b339f4237db70c7b4760095d1bcd]: Commencement: Reg. 18 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00011]: Footnote: Section 15(2)(b) of the Sanctions and Anti-Money Laundering Act 2018 provides that an appropriate Minister may make regulations under section 1 of that Act which provide for a prohibition imposed by the regulations not to apply to anything done under the authority of a licence issued by an appropriate Minister specified in the regulations. “Appropriate Minister” is defined by sections 1(9) and 62(1) of that Act as the Secretary of State and the Treasury.
 
-[^key-ee4afd99dfda293e931efe3c4424e97c]: Commencement: Reg. 19 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-ee4afd99dfda293e931efe3c4424e97c]: Commencement: Reg. 19 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-3b2e81796cc3516e071dc314191c7fa0]: Commencement: Reg. 20 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-3b2e81796cc3516e071dc314191c7fa0]: Commencement: Reg. 20 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-3cde792121029466c15abb3fe3ddab54]: Commencement: Reg. 21 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-3cde792121029466c15abb3fe3ddab54]: Commencement: Reg. 21 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-e65a9f02563aadfd29b079e0c7d589af]: Commencement: Reg. 22 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-e65a9f02563aadfd29b079e0c7d589af]: Commencement: Reg. 22 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-aad8cb85d17f2cda24a1f43ed9d2b4f9]: Commencement: Reg. 23 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-aad8cb85d17f2cda24a1f43ed9d2b4f9]: Commencement: Reg. 23 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00012]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-5ff52c575180cdbbda06e83d07d2ffff]: Commencement: Reg. 24 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-5ff52c575180cdbbda06e83d07d2ffff]: Commencement: Reg. 24 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00013]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 is amended by the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), Schedule 6; the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), Schedule 8, paragraph 19 and the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 10, paragraph 1.
 
@@ -720,15 +720,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00016]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); Schedule 4 is amended by the Criminal Justice (Committal Reform) Act (Northern Ireland) [2022 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2022/4), Schedule, paragraph 8(3)(m).
 
-[^key-2c3df39018d0117b0976880a8bcb14b0]: Commencement: Reg. 25 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-2c3df39018d0117b0976880a8bcb14b0]: Commencement: Reg. 25 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
-[^key-40b4769d5c3f05f0805f05f6891f61bc]: Commencement: Reg. 26 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-40b4769d5c3f05f0805f05f6891f61bc]: Commencement: Reg. 26 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00017]: Footnote: The definition of “assigned matter” is substituted by the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), Schedule 4, paragraph 22 and amended by the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), section 24 and the Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), section 7.
 
-[^key-46ac0758e606f3ea65f12ed4a7ab28f4]: Textual amendment: Words in reg. 26(3)(a) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/2/a)
+[^c-46ac0758e606f3ea65f12ed4a7ab28f4]: Textual amendment: Words in reg. 26(3)(a) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/2/a)
 
-[^key-5cb2dd35c0afe67cda32a64f3bab60a5]: Textual amendment: Words in reg. 26(3)(b) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/2/b)
+[^c-5cb2dd35c0afe67cda32a64f3bab60a5]: Textual amendment: Words in reg. 26(3)(b) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/2/b)
 
 [^f00018]: Footnote: Section 138 is amended by the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), section 114, Schedule 6, paragraph 37 and Schedule 7; the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 11; the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 7, paragraph 54; and [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
 
@@ -740,13 +740,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00022]: Footnote: Section 145 is amended by the Police and Criminal Evidence Act 1984, section 114; the Commissioners for Revenue and Customs Act 2005, Schedule 4, paragraph 23 and Schedule 5 and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834). Section 147 is amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), Schedule 14, paragraph 42; the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), Schedule 17, Part 1 and the Criminal Justice Act 2003, Schedule 37, Part 4. Section 150 is amended by the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), section 174. Section 151 is amended by the Magistrates’ Courts Act 1980, Schedule 7, paragraph 177. Section 152 is amended by the Commissioners for Revenue and Customs Act 2005, Schedule 4, paragraph 26 and Schedule 5. Section 154 is amended by the Taxation (Cross-border Trade) Act 2018, Schedule 7, paragraph 106. Section 155 is amended by the Commissioners for Revenue and Customs Act 2005, Schedule 4, paragraph 27 and Schedule 5.
 
-[^key-a97f9d89eed1e73bbf2afc9eec6a83b0]: Commencement: Reg. 27 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-a97f9d89eed1e73bbf2afc9eec6a83b0]: Commencement: Reg. 27 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00023]: Footnote: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3). Section 146 is amended by the Economic Crime (Transparency and Enforcement) Act 2022, section 54.
 
 [^f00024]: Footnote: Section 1(8) of the Sanctions and Anti-Money Laundering Act 2018 defines “international obligation” as an obligation of the United Kingdom created or arising by or under any international agreement.
 
-[^key-bbdf7679cf4cd560e861054265a4d460]: Commencement: Reg. 28 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-bbdf7679cf4cd560e861054265a4d460]: Commencement: Reg. 28 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00025]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38). Section 5 is amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941) and [S.I. 2011/205](https://www.legislation.gov.uk/uksi/2011/205).
 
@@ -754,19 +754,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00027]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 is amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 232.
 
-[^key-df58c842fc89f99027adff4c74d60060]: Commencement: Reg. 29 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-df58c842fc89f99027adff4c74d60060]: Commencement: Reg. 29 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00028]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25). Part 1 is amended by the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), Schedule 19, paragraph 199; the Finance Act (No. 2) Act [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), section 352 and [S.I. 2017/730](https://www.legislation.gov.uk/uksi/2017/730); [S.I. 2018/1123](https://www.legislation.gov.uk/uksi/2018/1123); [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149). Part 2 is amended by the Policing and Crime Act 2017, Schedule 9, paragraph 74; the Counter-Terrorism and Border Security Act [2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), Schedule 4, paragraph 33; the Crime (Overseas Production Orders) Act [2019 (c. 5)](https://www.legislation.gov.uk/ukpga/2019/5), section 16; the Armed Forces Act [2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), Schedule 4, paragraph 2 and Schedule 5, paragraphs 44 and 45; the Northern Ireland Troubles (Legacy and Reconciliation) Act [2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), Schedule 13, paragraph 9; and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310); [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149). Part 3 is amended by [S.I. 2018/1123](https://www.legislation.gov.uk/uksi/2018/1123); [S.I. 2019/939](https://www.legislation.gov.uk/uksi/2019/939); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500); and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149). Part 4 is amended by [S.I. 2018/1123](https://www.legislation.gov.uk/uksi/2018/1123). Part 5 is amended by the Policing and Crime Act 2017, Schedule 9, paragraph 74; the Armed Forces Act 2021, Schedule 4, paragraph 2; [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310); [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149). Part 6 is amended by [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500); [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149) and [S.I. 2024/514](https://www.legislation.gov.uk/uksi/2024/514). Part 7 is amended by the Data Protection Act 2018, Schedule 19, paragraphs 200 and 202; and [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
 
 [^f00029]: Footnote: Section 3(9) is amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-98a8c0496ff7ed257e976be64a95663f]: Commencement: Reg. 30 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
+[^c-98a8c0496ff7ed257e976be64a95663f]: Commencement: Reg. 30 in force at 10.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2)
 
 [^f00030]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15). Chapter 1 of Part 2 is amended by the Terrorism Act [2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), section 33 and Schedule 3, paragraph 2; the Northern Ireland (Miscellaneous Provisions) Act [2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), Schedule 3, paragraphs 2 to 8; the Criminal Justice and Licensing (Scotland) Act [2010 (asp. 13)](https://www.legislation.gov.uk/asp/2010/13), Schedule 7, paragraph 77; the Bribery Act [2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), Schedule 1, paragraph 8; the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 8, paragraph 159; the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), section 51; the Sanctions and Anti-Money Laundering Act 2018, Schedule 3, paragraph 4; the Economic Crime and Corporate Transparency Act 2023, section 206 and [S.I. 2006/1629](https://www.legislation.gov.uk/uksi/2006/1629); [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
 
-[^key-1a9e86c236c8546fa774be4b8290abb9]: Textual amendment: Reg. 30(za) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/3/a)
+[^c-1a9e86c236c8546fa774be4b8290abb9]: Textual amendment: Reg. 30(za) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/3/a)
 
-[^key-9ebfbacb42e9763fb2ce5e45f99ecc54]: Textual amendment: Words in reg. 30(a) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/3/b)
+[^c-9ebfbacb42e9763fb2ce5e45f99ecc54]: Textual amendment: Words in reg. 30(a) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/30/3/b)
 
 [^f00031]: Footnote: [S.I. 2019/855](https://www.legislation.gov.uk/uksi/2019/855). Part 6 is amended by [S.I. 2022/203](https://www.legislation.gov.uk/uksi/2022/203); [S.I. 2022/241](https://www.legislation.gov.uk/uksi/2022/241); [S.I. 2022/395](https://www.legislation.gov.uk/uksi/2022/395); [S.I. 2022/814](https://www.legislation.gov.uk/uksi/2022/814), [S.I. 2023/665](https://www.legislation.gov.uk/uksi/2023/665) and [S.I. 2024/695](https://www.legislation.gov.uk/uksi/2024/695). Part 6A is inserted by [S.I. 2022/241](https://www.legislation.gov.uk/uksi/2022/241) and amended by [S.I. 2022/395](https://www.legislation.gov.uk/uksi/2022/395) and [S.I. 2022/814](https://www.legislation.gov.uk/uksi/2022/814). Regulation 68A is inserted by [S.I. 2022/395](https://www.legislation.gov.uk/uksi/2022/395).
 
@@ -774,6 +774,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00033]: Footnote: [S.I. 2019/411](https://www.legislation.gov.uk/uksi/2019/411). Part 8 is amended by [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-edbc74abdd27a943291bca3aa3489f15]: Textual amendment: Reg. 30(d) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2025/507/regulation/25)
+[^c-edbc74abdd27a943291bca3aa3489f15]: Textual amendment: Reg. 30(d) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2025/507/regulation/25)
 
 [^f00035]: Footnote: [S.I. 2020/1665](https://www.legislation.gov.uk/uksi/2020/1665).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Legal aid for individuals convicted of terrorism offences[^key-212f9ae2961f3edf6e422b50c17621f1]
+## 89. Legal aid for individuals convicted of terrorism offences[^c-212f9ae2961f3edf6e422b50c17621f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-212f9ae2961f3edf6e422b50c17621f1]: Commencement: S. 89 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-212f9ae2961f3edf6e422b50c17621f1]: Commencement: S. 89 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

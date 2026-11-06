@@ -40,7 +40,7 @@ Article 12(4).
 
 - (a) he has been absent from meetings of the Executive for a period longer than six consecutive months without the permission of the Executive; or
 - (b) he has been convicted of a criminal offence; or
-- (c) he has become bankrupt or is the subject of a bankruptcy restrictions order[^M_F_3f575891-dbd7-48c5-b46e-98b12b1ca2df] or a debt relief order has been made in respect of him or he is the subject of a debt relief restrictions order[^key-16b0cdda91d4a10880f076df024fe919] or made an arrangement with his creditors; or
+- (c) he has become bankrupt or is the subject of a bankruptcy restrictions order[^M_F_3f575891-dbd7-48c5-b46e-98b12b1ca2df] or a debt relief order has been made in respect of him or he is the subject of a debt relief restrictions order[^c-16b0cdda91d4a10880f076df024fe919] or made an arrangement with his creditors; or
 - (d) he is incapacitated by physical or mental illness; or
 - (e) he is otherwise unable or unfit to perform his duties.
 
@@ -143,7 +143,7 @@ as the Department may, with the approval of the Department of Finance and Person
 
 [^M_F_3f575891-dbd7-48c5-b46e-98b12b1ca2df]: Textual amendment: Words in Sch. 2 para. 6(1)(c) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 2](https://www.legislation.gov.uk/nisr/2015/159/article/2), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/6)
 
-[^key-16b0cdda91d4a10880f076df024fe919]: Textual amendment: Words in [Sch. 2 para. 6(1)(c)](https://www.legislation.gov.uk/nisi/1978/1039/schedule/2/paragraph/6/1/c) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/8)
+[^c-16b0cdda91d4a10880f076df024fe919]: Textual amendment: Words in [Sch. 2 para. 6(1)(c)](https://www.legislation.gov.uk/nisi/1978/1039/schedule/2/paragraph/6/1/c) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/8)
 
 [^c17538601]: Textual amendment: [1998 NI 18](https://www.legislation.gov.uk/1998/ni18)
 

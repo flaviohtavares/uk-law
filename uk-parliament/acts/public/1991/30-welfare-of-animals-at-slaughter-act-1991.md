@@ -57,7 +57,7 @@ In section 38 of the 1974 Act (regulations for securing humane conditions of sla
 
 .
 
-(2)[^key-b38de9d15d3b921b96dc6c39d33f546b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b38de9d15d3b921b96dc6c39d33f546b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Codes of practice.
 
@@ -87,7 +87,7 @@ In section 38 of the 1974 Act (regulations for securing humane conditions of sla
 
 .
 
-(2)[^key-73e1a57f28276dec5386b092c37c2532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-73e1a57f28276dec5386b092c37c2532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Interpretation.
 
@@ -110,9 +110,9 @@ In this Act—
 
 [^c931591]: Textual amendment: [S.3](https://www.legislation.gov.uk/ukpga/1991/30/section/3) repealed (1.4.1995) by [S.I.1995/731](https://www.legislation.gov.uk/uksi/1995/731), [reg.28(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/28/1), [Sch.13](https://www.legislation.gov.uk/uksi/1995/731/schedule/13)
 
-[^key-b38de9d15d3b921b96dc6c39d33f546b]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1991/30/section/4/2) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (No. 321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-b38de9d15d3b921b96dc6c39d33f546b]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1991/30/section/4/2) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (No. 321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
-[^key-73e1a57f28276dec5386b092c37c2532]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1991/30/section/5/2) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (No. 321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-73e1a57f28276dec5386b092c37c2532]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1991/30/section/5/2) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (No. 321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
 [^c931592]: Marginal citation: [1974 c. 3](https://www.legislation.gov.uk/ukpga/1974/3).
 

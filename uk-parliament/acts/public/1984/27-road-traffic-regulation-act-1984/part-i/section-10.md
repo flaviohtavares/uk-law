@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Supplementary provisions as to experimental traffic orders.[^key-725ea49afe373d9ff82c67da483b7e4f]
+## 10. Supplementary provisions as to experimental traffic orders.[^c-725ea49afe373d9ff82c67da483b7e4f]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ The power conferred by such a provision shall be exercised only after consulting
 
 ## Annotations
 
-[^key-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
+[^c-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
 
 [^c13545641]: Textual amendment: S. 10(2) substituted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22) s. 168(1), Sch. 8 para. 24(2); which substitution is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2). and for England and Wales only by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3),Sch.
 

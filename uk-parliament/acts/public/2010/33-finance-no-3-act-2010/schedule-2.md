@@ -274,7 +274,7 @@ Section 5
 (2) The amendments mentioned in sub-paragraph (1) do not have effect in relation to shares or securities held by a company (“the investing company”) if the shares or securities—
 
 - (a) are issued before the commencement day, or
-- (b) are issued on or after that day and are acquired by the investing company before 6 April 2018[^key-0b7b702517404a3b312405d91b6e2114] by means of the investment of protected money.
+- (b) are issued on or after that day and are acquired by the investing company before 6 April 2018[^c-0b7b702517404a3b312405d91b6e2114] by means of the investment of protected money.
 
 (3) In this paragraph “**protected money**” means—
 
@@ -299,6 +299,6 @@ Section 5
 
 ## Annotations
 
-[^key-0b7b702517404a3b312405d91b6e2114]: Textual amendment: Words in Sch. 2 para. 6(2)(b) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 11(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/11/1), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13) (with [Sch. 5 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/11/2)); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-0b7b702517404a3b312405d91b6e2114]: Textual amendment: Words in Sch. 2 para. 6(2)(b) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 11(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/11/1), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13) (with [Sch. 5 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/11/2)); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
 [^c2124009]: Subordinate legislation: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/8) power fully exercised: 6.4.2011 appointed for Sch. 2 paras. 6, 7 by {[S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662)}, art. 2

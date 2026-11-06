@@ -22,7 +22,7 @@ summary: ''
 
 In Scotland, the following provisions shall have effect:
 
-- (a)[^key-39450b0039e864f9cdbbe998e382e5b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-39450b0039e864f9cdbbe998e382e5b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b)[^c5690601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) The proceedings may be on indictment in the Court of Justiciary . . . [^c5690611] or in the sheriff court, or may be taken summarily in the sheriff court under the provisions of Part II of the Criminal Procedure (Scotland) Act 1975[^c5690621], as the Lord Advocate shall direct:
 - (d)[^c5690601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -31,7 +31,7 @@ In Scotland, the following provisions shall have effect:
 
 ## Annotations
 
-[^key-39450b0039e864f9cdbbe998e382e5b8]: Textual amendment: S. 114(a) repealed (E.W.S.) (26.4.2005 with application outside E.W.S. as mentioned in reg. 3 of the repealing S.I.) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 1(20)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/1/20), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-39450b0039e864f9cdbbe998e382e5b8]: Textual amendment: S. 114(a) repealed (E.W.S.) (26.4.2005 with application outside E.W.S. as mentioned in reg. 3 of the repealing S.I.) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 1(20)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/1/20), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
 [^c5690601]: Textual amendment: S. 114(b)(d)(f) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.VII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/VII).
 

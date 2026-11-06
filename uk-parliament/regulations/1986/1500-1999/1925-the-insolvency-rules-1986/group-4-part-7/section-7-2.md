@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.2. Interpretation[^key-64c7514261bbf730da14c36ab41a083a]
+## 7.2. Interpretation[^c-64c7514261bbf730da14c36ab41a083a]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-64c7514261bbf730da14c36ab41a083a]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-64c7514261bbf730da14c36ab41a083a]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00200]: Marginal citation: \[FORM 7.1\]
 

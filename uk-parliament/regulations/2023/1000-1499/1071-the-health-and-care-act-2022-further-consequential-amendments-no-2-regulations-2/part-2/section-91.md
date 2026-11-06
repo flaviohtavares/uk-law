@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Amendment of the Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017[^key-4dfc06fd9d47f877b3da8e1138d6b9fb]
+## 91. Amendment of the Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017[^c-4dfc06fd9d47f877b3da8e1138d6b9fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4dfc06fd9d47f877b3da8e1138d6b9fb]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2023/1071/regulation/91) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-4dfc06fd9d47f877b3da8e1138d6b9fb]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2023/1071/regulation/91) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00074]: Footnote: [S.I. 2017/353](https://www.legislation.gov.uk/uksi/2017/353), to which there are amendments not relevant to these Regulations.

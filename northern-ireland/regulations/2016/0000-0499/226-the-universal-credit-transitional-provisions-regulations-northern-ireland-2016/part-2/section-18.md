@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Deductions from benefits[^key-7aaf359e04bf92318f38eb5edb5c618f]
+## 18. Deductions from benefits[^c-7aaf359e04bf92318f38eb5edb5c618f]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7aaf359e04bf92318f38eb5edb5c618f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/226/regulation/18) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-7aaf359e04bf92318f38eb5edb5c618f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/226/regulation/18) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00032]: Footnote: Regulation 34A was inserted by regulation 2(2) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67) and amended by regulation 7(b) of [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), regulation 3(7) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), regulation 3 of [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271) and regulation 2(2) of [S.R. 2001 No. 22](https://www.legislation.gov.uk/nisr/2001/22). Schedule 8A was inserted by regulation 2(3) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67).

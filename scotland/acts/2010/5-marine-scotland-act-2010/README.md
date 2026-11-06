@@ -81,7 +81,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 19 — Interpretation of Part 3](part-3/section-19.md)
 
-### Part 4 — Marine licensing[^key-b7e835d78d76279e494d4c47c1065461][^key-5df9a85d687c0f7787fd63b3927b389b]
+### Part 4 — Marine licensing[^c-b7e835d78d76279e494d4c47c1065461][^c-5df9a85d687c0f7787fd63b3927b389b]
 
 *Extent: S*
 
@@ -188,7 +188,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 63 — Power by order to provide marine fish farming is not “development”](part-4/section-63.md)
 
-#### Proceedings for questioning certain decisions under sections 28 and 29[^key-30747568bca35c0c6ef2fbf5cd986f1f]
+#### Proceedings for questioning certain decisions under sections 28 and 29[^c-30747568bca35c0c6ef2fbf5cd986f1f]
 
 - [Section 63A — Proceedings for questioning certain decisions under sections 28 and 29](part-4/section-63a.md)
 - [Section 63B — Applications under section 63A: requirement for permission](part-4/section-63b.md)
@@ -342,7 +342,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 129 — Duty to review seal licensing regime](part-6/section-129.md)
 - [Section 130 — Repeal](part-6/section-130.md)
 
-### Part 7 — Common enforcement powers etc.: licensing and marine protection etc.[^key-6266f701256d05622f5a7f88f80279f4]
+### Part 7 — Common enforcement powers etc.: licensing and marine protection etc.[^c-6266f701256d05622f5a7f88f80279f4]
 
 #### Powers of marine enforcement officers
 
@@ -426,10 +426,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-b7e835d78d76279e494d4c47c1065461]: Modification: Pt. 4 modified (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 8](https://www.legislation.gov.uk/asp/2011/2/section/8), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-b7e835d78d76279e494d4c47c1065461]: Modification: Pt. 4 modified (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 8](https://www.legislation.gov.uk/asp/2011/2/section/8), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-5df9a85d687c0f7787fd63b3927b389b]: Modification: [Pt. 4](https://www.legislation.gov.uk/asp/2010/5/part/4) power to amend or modify conferred (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2026/6/section/25/3), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
+[^c-5df9a85d687c0f7787fd63b3927b389b]: Modification: [Pt. 4](https://www.legislation.gov.uk/asp/2010/5/part/4) power to amend or modify conferred (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2026/6/section/25/3), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
 
-[^key-30747568bca35c0c6ef2fbf5cd986f1f]: Textual amendment: Ss. 63A, 63B and cross-heading inserted (26.2.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 54(3)](https://www.legislation.gov.uk/asp/2014/3/section/54/3), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/52/article/3))
+[^c-30747568bca35c0c6ef2fbf5cd986f1f]: Textual amendment: Ss. 63A, 63B and cross-heading inserted (26.2.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 54(3)](https://www.legislation.gov.uk/asp/2014/3/section/54/3), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/52/article/3))
 
-[^key-6266f701256d05622f5a7f88f80279f4]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2010/5/part/7) modified (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 35(6)](https://www.legislation.gov.uk/asp/2013/7/section/35/6), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-6266f701256d05622f5a7f88f80279f4]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2010/5/part/7) modified (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 35(6)](https://www.legislation.gov.uk/asp/2013/7/section/35/6), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

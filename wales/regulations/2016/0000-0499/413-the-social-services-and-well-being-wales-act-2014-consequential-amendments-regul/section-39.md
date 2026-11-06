@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**39.**[^key-eb4353c2bc28a64098d1714950789be1] In section 17 (charges for local authority services in England and Wales)—
+**39.**[^c-eb4353c2bc28a64098d1714950789be1] In section 17 (charges for local authority services in England and Wales)—
 
 - (a) omit subsections (2A)[^f00041] and (5);
 - (b) in paragraph (a) of subsection (3) omit “or a service within subsection (2A)[^f00042]”;
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-eb4353c2bc28a64098d1714950789be1]: Commencement: Reg. 39 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-eb4353c2bc28a64098d1714950789be1]: Commencement: Reg. 39 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00041]: Footnote: Section 17(2A) was inserted, in relation to Wales, by the Social Care Charges (Wales) Measure 2010, section 14(1), (4).
 

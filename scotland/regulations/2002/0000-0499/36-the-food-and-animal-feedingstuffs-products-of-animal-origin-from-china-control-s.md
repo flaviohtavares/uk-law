@@ -47,13 +47,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-95cb1a426ca14d36b49bc0876aadc519]
+## 1. Citation, commencement and extent[^c-95cb1a426ca14d36b49bc0876aadc519]
 
 (1) These Regulations may be cited as the Food and Animal Feedingstuffs (Products of Animal Origin from China) (Control) (Scotland) Regulations 2002 and shall come into force on 2nd February 2002.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-085e5fc9e07868a4dafe994cc93fc7d5]
+## 2. Interpretation[^c-085e5fc9e07868a4dafe994cc93fc7d5]
 
 (1) In these Regulations–
 
@@ -66,11 +66,11 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (2) Any expression used both in these Regulations and in the Commission Decision has the same meaning in these Regulations as it bears in the Commission Decision.
 
-## 3. Exemption[^key-55602c56a0b7f4d2061930c7b5f806f3]
+## 3. Exemption[^c-55602c56a0b7f4d2061930c7b5f806f3]
 
 Regulation 4 shall not apply to any relevant product of animal origin to which the derogation contained in Article 3.1 of the Commission Decision (which is concerned with the importation of consignments of products of animal origin which left China prior to 31st January 2002 and arrive in Scotland on or before 13th March 2002) applies.
 
-## 4. Prohibition of importation and offence[^key-8a170820628d87a25dc2fa6a0cf1a996]
+## 4. Prohibition of importation and offence[^c-8a170820628d87a25dc2fa6a0cf1a996]
 
 (1) Subject to paragraph (2) and regulation 3, no person shall import into Scotland any relevant product of animal origin.
 
@@ -81,7 +81,7 @@ Regulation 4 shall not apply to any relevant product of animal origin to which t
 
 (3) Any person who knowingly contravenes paragraph (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or imprisonment for a term not exceeding three months.
 
-## 5. Enforcement[^key-1e8e673872d298855997c46276e8cf80]
+## 5. Enforcement[^c-1e8e673872d298855997c46276e8cf80]
 
 (1) It shall be the duty of each food authority to execute and enforce these Regulations within its area.
 
@@ -92,7 +92,7 @@ Regulation 4 shall not apply to any relevant product of animal origin to which t
 
 (3) Each food authority shall give such assistance and information to the Scottish Ministers and the Food Standards Agency as they may reasonably request in connection with the execution and enforcement of these Regulations.
 
-## 6. Application of various provisions of the Act[^key-90cd0cb6c6b42016781fb096d3e3eae9]
+## 6. Application of various provisions of the Act[^c-90cd0cb6c6b42016781fb096d3e3eae9]
 
 (1) The following provisions of the Act shall apply for the purposes of these Regulations and any reference in those provisions to the Act or Part thereof shall be construed as a reference to these Regulations–
 
@@ -159,18 +159,18 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred upon a Minister of the Crown under section 2(2) of the 1972 Act, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-95cb1a426ca14d36b49bc0876aadc519]: Commencement: Reg. 1 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
+[^c-95cb1a426ca14d36b49bc0876aadc519]: Commencement: Reg. 1 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
 
-[^key-085e5fc9e07868a4dafe994cc93fc7d5]: Commencement: Reg. 2 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
+[^c-085e5fc9e07868a4dafe994cc93fc7d5]: Commencement: Reg. 2 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
 
 [^f00002]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
 [^f00003]: Footnote: O.J. No. L 30, 31.1.02, p.50.
 
-[^key-55602c56a0b7f4d2061930c7b5f806f3]: Commencement: Reg. 3 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
+[^c-55602c56a0b7f4d2061930c7b5f806f3]: Commencement: Reg. 3 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
 
-[^key-8a170820628d87a25dc2fa6a0cf1a996]: Commencement: Reg. 4 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
+[^c-8a170820628d87a25dc2fa6a0cf1a996]: Commencement: Reg. 4 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
 
-[^key-1e8e673872d298855997c46276e8cf80]: Commencement: Reg. 5 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
+[^c-1e8e673872d298855997c46276e8cf80]: Commencement: Reg. 5 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
 
-[^key-90cd0cb6c6b42016781fb096d3e3eae9]: Commencement: Reg. 6 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)
+[^c-90cd0cb6c6b42016781fb096d3e3eae9]: Commencement: Reg. 6 in force at 2.2.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/36/regulation/1/1)

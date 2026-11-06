@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Article 6 (record keeping)[^key-d3095dffab2b18d9f87d30f013eb5590]
+## 40. Article 6 (record keeping)[^c-d3095dffab2b18d9f87d30f013eb5590]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d3095dffab2b18d9f87d30f013eb5590]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d3095dffab2b18d9f87d30f013eb5590]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23643351]: Marginal citation: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391), amended by paragraphs 306 to 309 of Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897).
 

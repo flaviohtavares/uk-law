@@ -30,7 +30,7 @@ summary: ''
 
 - (a) the contracting authority exercises over that person control similar to that which it exercises over its own departments;
 - (b) the person carries out more than 80% of its activities in the performance of tasks entrusted to it by the authority or by other persons controlled by that authority; and
-- (c) no other person has direct private capital participation in the person with the exception of non-controlling and non-blocking forms of private capital participation required by any enactment [^key-0c3e81fb38ac2eb5295014203ebae0e8]... which do not exert a decisive influence on the person being awarded the contract.
+- (c) no other person has direct private capital participation in the person with the exception of non-controlling and non-blocking forms of private capital participation required by any enactment [^c-0c3e81fb38ac2eb5295014203ebae0e8]... which do not exert a decisive influence on the person being awarded the contract.
 
 (3) For the purpose of paragraph (2)(a) an authority shall be deemed to exercise control over a person similar to the control that it exercises over its own departments where—
 
@@ -43,7 +43,7 @@ summary: ''
 
 - (a) the contracting authority, jointly with other contracting authorities, exercises over that person control similar to that which the authorities exercise over their own departments;
 - (b) the person carries out more than 80% of its activities in the performance of tasks entrusted to it by the contracting authorities or by other persons controlled by those authorities; and
-- (c) no other person has direct capital participation in the person with the exception of non‑controlling and non-blocking forms of private capital participation required by any enactment [^key-d7187db530ea9e25dfcc0a831ed4901c]... which do not exert a decisive influence on the person.
+- (c) no other person has direct capital participation in the person with the exception of non‑controlling and non-blocking forms of private capital participation required by any enactment [^c-d7187db530ea9e25dfcc0a831ed4901c]... which do not exert a decisive influence on the person.
 
 (6) For the purpose of paragraph (5)(a) contracting authorities shall be deemed to exercise control over a person similar to the control that they exercise over their own departments where—
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c3e81fb38ac2eb5295014203ebae0e8]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/ssi/2015/446/regulation/13/2/c) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2024/338/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-0c3e81fb38ac2eb5295014203ebae0e8]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/ssi/2015/446/regulation/13/2/c) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2024/338/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-d7187db530ea9e25dfcc0a831ed4901c]: Textual amendment: Words in [reg. 13(5)(c)](https://www.legislation.gov.uk/ssi/2015/446/regulation/13/5/c) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2024/338/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-d7187db530ea9e25dfcc0a831ed4901c]: Textual amendment: Words in [reg. 13(5)(c)](https://www.legislation.gov.uk/ssi/2015/446/regulation/13/5/c) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2024/338/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))

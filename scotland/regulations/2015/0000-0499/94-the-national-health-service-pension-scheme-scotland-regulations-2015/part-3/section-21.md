@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Absence from work[^key-06e6cbda548db17fe6f3aca696a9f029]
+## 21. Absence from work[^c-06e6cbda548db17fe6f3aca696a9f029]
 
 *Extent: S*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) illness or injury;
 - (b) maternity leave;
 - (c) adoption leave;
-- (d) paternity leave; [^key-0984cf3da307cbd83766461836fdb14c]...
-- (e) parental leave shared parental leave or parental bereavement leave[^key-72e2380e09d6ea6d91b59f55c18cfb84] [^key-6efaa4dd24f3b51054bbc1b657811c38]...
-- (f)[^key-4bf26f5900b73aeb4eb961b8f941e125] carer’s leave , or[^key-2bc12e78a25460409d8cbe2b6ffcc0ad]
-- (g)[^key-7d328def277d82aebaf4d07da5ca2813] neonatal care leave.
+- (d) paternity leave; [^c-0984cf3da307cbd83766461836fdb14c]...
+- (e) parental leave shared parental leave or parental bereavement leave[^c-72e2380e09d6ea6d91b59f55c18cfb84] [^c-6efaa4dd24f3b51054bbc1b657811c38]...
+- (f)[^c-4bf26f5900b73aeb4eb961b8f941e125] carer’s leave , or[^c-2bc12e78a25460409d8cbe2b6ffcc0ad]
+- (g)[^c-7d328def277d82aebaf4d07da5ca2813] neonatal care leave.
 
 (2) The period of absence counts as pensionable service if M contributes to this scheme under regulation 30 or 31 in respect of the period of absence.
 
@@ -56,16 +56,16 @@ summary: ''
 
 ## Annotations
 
-[^key-06e6cbda548db17fe6f3aca696a9f029]: Modification: Reg. 21 applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [8](https://www.legislation.gov.uk/ssi/2015/95/regulation/8)
+[^c-06e6cbda548db17fe6f3aca696a9f029]: Modification: Reg. 21 applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [8](https://www.legislation.gov.uk/ssi/2015/95/regulation/8)
 
-[^key-0984cf3da307cbd83766461836fdb14c]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1) omitted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [42(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/42/2)
+[^c-0984cf3da307cbd83766461836fdb14c]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1) omitted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [42(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/42/2)
 
-[^key-72e2380e09d6ea6d91b59f55c18cfb84]: Textual amendment: Words in reg. 21(1)(e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [38(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/38/2)
+[^c-72e2380e09d6ea6d91b59f55c18cfb84]: Textual amendment: Words in reg. 21(1)(e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [38(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/38/2)
 
-[^key-6efaa4dd24f3b51054bbc1b657811c38]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1) omitted (with effect from 6.4.2025) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [22(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/22/2)
+[^c-6efaa4dd24f3b51054bbc1b657811c38]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1) omitted (with effect from 6.4.2025) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [22(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/22/2)
 
-[^key-4bf26f5900b73aeb4eb961b8f941e125]: Textual amendment: [Reg. 21(1)(f)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1/f) and word inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [42(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/42/3)
+[^c-4bf26f5900b73aeb4eb961b8f941e125]: Textual amendment: [Reg. 21(1)(f)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1/f) and word inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [42(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/42/3)
 
-[^key-2bc12e78a25460409d8cbe2b6ffcc0ad]: Textual amendment: Word in [reg. 21(1)(f)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1/f) substituted (with effect from 6.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [22(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/22/3)
+[^c-2bc12e78a25460409d8cbe2b6ffcc0ad]: Textual amendment: Word in [reg. 21(1)(f)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1/f) substituted (with effect from 6.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [22(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/22/3)
 
-[^key-7d328def277d82aebaf4d07da5ca2813]: Textual amendment: [Reg. 21(1)(g)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1/g) inserted (with effect from 6.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [22(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/22/4)
+[^c-7d328def277d82aebaf4d07da5ca2813]: Textual amendment: [Reg. 21(1)(g)](https://www.legislation.gov.uk/ssi/2015/94/regulation/21/1/g) inserted (with effect from 6.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [22(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/22/4)

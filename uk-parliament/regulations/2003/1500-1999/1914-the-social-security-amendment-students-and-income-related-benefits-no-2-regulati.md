@@ -52,8 +52,8 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) In these Regulations—
 
-- (a) "the Council Tax Benefit Regulations” means the Council Tax Benefit (General) Regulations 1992; *(affected by repeal, see note)*[^key-5dc6f78ce2e8c0957efef66907f53769]
-- (b) “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations 1987; *(affected by repeal, see note)*[^key-5dc6f78ce2e8c0957efef66907f53769]
+- (a) "the Council Tax Benefit Regulations” means the Council Tax Benefit (General) Regulations 1992; *(affected by repeal, see note)*[^c-5dc6f78ce2e8c0957efef66907f53769]
+- (b) “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations 1987; *(affected by repeal, see note)*[^c-5dc6f78ce2e8c0957efef66907f53769]
 - (c) “**the Income Support Regulations**” means the Income Support (General) Regulations 1987 [^c506519];
 - (d) “**the Jobseeker’s Allowance Regulations**” means the Jobseeker’s Allowance Regulations 1996 [^c506520].
 
@@ -98,7 +98,7 @@ These Regulations do not impose any charge on business.
 
 [^c506516]: Marginal citation: *See* sections 170 and 173(1)(b) of the Social Security Administration Act 1992; [paragraph 67](https://www.legislation.gov.uk/uksi/2003/1914/paragraph/67) of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
 
-[^key-5dc6f78ce2e8c0957efef66907f53769]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-5dc6f78ce2e8c0957efef66907f53769]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c506519]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 

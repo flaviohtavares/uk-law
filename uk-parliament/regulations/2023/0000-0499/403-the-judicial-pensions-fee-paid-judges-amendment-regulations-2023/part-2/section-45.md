@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amendment of regulation 84[^key-a99e14680ef02fae28cb28377aef1ea7]
+## 45. Amendment of regulation 84[^c-a99e14680ef02fae28cb28377aef1ea7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 84—
 
 ## Annotations
 
-[^key-a99e14680ef02fae28cb28377aef1ea7]: Commencement: Reg. 45 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-a99e14680ef02fae28cb28377aef1ea7]: Commencement: Reg. 45 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

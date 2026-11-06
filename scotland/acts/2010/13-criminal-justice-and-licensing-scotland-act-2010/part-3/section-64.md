@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Remand and committal of children and young persons[^key-60db442866a027c8ac77ea72ef2812c1]
+## 64. Remand and committal of children and young persons[^c-60db442866a027c8ac77ea72ef2812c1]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60db442866a027c8ac77ea72ef2812c1]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2010/13/section/64) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-60db442866a027c8ac77ea72ef2812c1]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2010/13/section/64) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

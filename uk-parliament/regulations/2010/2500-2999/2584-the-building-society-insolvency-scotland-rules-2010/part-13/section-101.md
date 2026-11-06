@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Resolutions[^key-e8d5a593c0fb83bc8089093da466a2f2]
+## 101. Resolutions[^c-e8d5a593c0fb83bc8089093da466a2f2]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.12 of the 1986 Rules[^f00047].
 
 ## Annotations
 
-[^key-e8d5a593c0fb83bc8089093da466a2f2]: Commencement: Rule 101 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-e8d5a593c0fb83bc8089093da466a2f2]: Commencement: Rule 101 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00047]: Footnote: Rule 7.12 was amended by paragraph 41 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

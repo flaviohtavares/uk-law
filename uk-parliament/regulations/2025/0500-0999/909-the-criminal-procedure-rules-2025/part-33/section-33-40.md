@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.40. Consent orders[^key-fc8551cee77aa2387a9899a0ba39e895]
+## 33.40. Consent orders[^c-fc8551cee77aa2387a9899a0ba39e895]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8551cee77aa2387a9899a0ba39e895]: Commencement: [Rule 33.40](https://www.legislation.gov.uk/uksi/2025/909/rule/33.40) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fc8551cee77aa2387a9899a0ba39e895]: Commencement: [Rule 33.40](https://www.legislation.gov.uk/uksi/2025/909/rule/33.40) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

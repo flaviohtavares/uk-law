@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A registered carrier, broker or dealer must within 28 days inform the appropriate body[^key-01833639d3a048d24ba6a0064f8d9708] of any change of circumstance affecting information in the entry relating to that carrier, broker or dealer.
+(1) A registered carrier, broker or dealer must within 28 days inform the appropriate body[^c-01833639d3a048d24ba6a0064f8d9708] of any change of circumstance affecting information in the entry relating to that carrier, broker or dealer.
 
-(2) If the appropriate body[^key-1a48f08ee968889fbbf6c70cabd5ed58] becomes aware that the information held on the register is incorrect in respect of any carrier, broker or dealer, it may remove that person from the register where it is reasonable to do so.
+(2) If the appropriate body[^c-1a48f08ee968889fbbf6c70cabd5ed58] becomes aware that the information held on the register is incorrect in respect of any carrier, broker or dealer, it may remove that person from the register where it is reasonable to do so.
 
 (3) Where the appropriate body has the person's address, it must notify them of the removal and request the correct information.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01833639d3a048d24ba6a0064f8d9708]: Textual amendment: Words in reg. 30(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 407(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/407/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-01833639d3a048d24ba6a0064f8d9708]: Textual amendment: Words in reg. 30(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 407(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/407/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1a48f08ee968889fbbf6c70cabd5ed58]: Textual amendment: Words in reg. 30(2)-(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 407(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/407/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1a48f08ee968889fbbf6c70cabd5ed58]: Textual amendment: Words in reg. 30(2)-(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 407(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/407/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -54,17 +54,17 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 ## PART 1
 
-### 1. Citation, commencement and extent[^key-382fba60fa596bff50a5251a54cfbfb8][^key-72063b118ab89d1bb8b4866be8d255aa]
+### 1. Citation, commencement and extent[^c-382fba60fa596bff50a5251a54cfbfb8][^c-72063b118ab89d1bb8b4866be8d255aa]
 
-(1)[^key-d8e50481b4e00dc16545bf00fbc5866f] These Regulations may be cited as the Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 and come into force on exit day [^c23400361].
+(1)[^c-d8e50481b4e00dc16545bf00fbc5866f] These Regulations may be cited as the Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 and come into force on exit day [^c23400361].
 
-(2)[^key-3b680ed01e15af0a271d16c8a6e1a702] Part 2 of these Regulations extends to England and Wales and Scotland.
+(2)[^c-3b680ed01e15af0a271d16c8a6e1a702] Part 2 of these Regulations extends to England and Wales and Scotland.
 
 ## PART 2 — Amendment of subordinate legislation
 
 *Extent: E+W+S*
 
-### 2. Amendment of the Forest Law Enforcement, Governance and Trade Regulations 2012[^key-3743e5f0131a86935bf9ab1a5181bb57]
+### 2. Amendment of the Forest Law Enforcement, Governance and Trade Regulations 2012[^c-3743e5f0131a86935bf9ab1a5181bb57]
 
 (1) The Forest Law Enforcement, Governance and Trade Regulations 2012 [^c23400371] are amended as follows.
 
@@ -89,7 +89,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (5) Omit regulation 6(9)(a)(ii).
 
-### 3. Amendment of the Timber and Timber Products (Placing on the Market) Regulations 2013[^key-3bc2bfc75ee7132aa4ab32ee81357cf5]
+### 3. Amendment of the Timber and Timber Products (Placing on the Market) Regulations 2013[^c-3bc2bfc75ee7132aa4ab32ee81357cf5]
 
 (1) The Timber and Timber Products (Placing on the Market) Regulations 2013 [^c23400381] are amended as follows.
 
@@ -99,7 +99,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 4. Amendment of Council Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173)[^key-99de7501e4f533598753d2bfd41e94a0]
+### 4. Amendment of Council Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173)[^c-99de7501e4f533598753d2bfd41e94a0]
 
 (1) Council Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community is amended as follows.
 
@@ -107,13 +107,13 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 - (a) in paragraph 1—
   - (i) omit “Community”;
-  - (ii) after “products”, insert “ into Great Britain[^key-230b4f0d5906f19e0427457adeb2d7bb]”;
+  - (ii) after “products”, insert “ into Great Britain[^c-230b4f0d5906f19e0427457adeb2d7bb]”;
 - (b) in paragraph 3, omit “listed in Annex 1”.
 
 (3) In Article 2—
 
 - (a) in paragraph 1—
-  - (i)[^key-6450f20b9c70d9cb8bef638dbdf2324b] for “the Community”, in the first two places it occurs, substitute “Great Britain”;
+  - (i)[^c-6450f20b9c70d9cb8bef638dbdf2324b] for “the Community”, in the first two places it occurs, substitute “Great Britain”;
   - (ii) omit “Community”, in the third place it occurs;
   - (iii) for “border” substitute “ import ”;
 - (b) in paragraph 2, omit “, as listed in Annex 1”;
@@ -129,15 +129,15 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
   ;
 - (f) in paragraph 9—
-  - (i)[^key-63586ca3f222d3ff9eeb10ae41688633] for “the Community”, in the first place it occurs, substitute “Great Britain”;
+  - (i)[^c-63586ca3f222d3ff9eeb10ae41688633] for “the Community”, in the first place it occurs, substitute “Great Britain”;
   - (ii) omit the words from “as defined in” to the end;
-- (g) in paragraph 11, for the words from “within the meaning” to the end substitute “Great Britain”[^key-fc3e5a52385721c55c546f7d114e3079];
-- (h)[^key-f2e86bb006cacfa50f207f48beeb8f10] in paragraph 13, for “the Community” substitute “Great Britain”;
+- (g) in paragraph 11, for the words from “within the meaning” to the end substitute “Great Britain”[^c-fc3e5a52385721c55c546f7d114e3079];
+- (h)[^c-f2e86bb006cacfa50f207f48beeb8f10] in paragraph 13, for “the Community” substitute “Great Britain”;
 - (i) after paragraph 14, insert—
 
   > **15.**
   >
-  > “**goods of a non-commercial nature**” means goods whose entry into Great Britain[^key-c3f6cc62455420cfe5b1260d5ba41267] is on an occasional basis and whose nature and quantity indicate that they are intended for the private, personal or family use of the consignees or persons carrying them, or which are clearly intended as gifts;
+  > “**goods of a non-commercial nature**” means goods whose entry into Great Britain[^c-c3f6cc62455420cfe5b1260d5ba41267] is on an occasional basis and whose nature and quantity indicate that they are intended for the private, personal or family use of the consignees or persons carrying them, or which are clearly intended as gifts;
   >
   > **16.**
   >
@@ -147,13 +147,13 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (4) In Article 4—
 
-- (a)[^key-e639aa222de636abd20e712a1dc25ed0] in paragraph 1, for “the Community” substitute “Great Britain”;
+- (a)[^c-e639aa222de636abd20e712a1dc25ed0] in paragraph 1, for “the Community” substitute “Great Britain”;
 - (b) in paragraph 3, omit the second subparagraph.
 
 (5) In Article 5—
 
 - (a) in paragraph 1—
-  - (i)[^key-6c6fa529f2f68f659730847ee25105d8] for “the Community” substitute “Great Britain”;
+  - (i)[^c-6c6fa529f2f68f659730847ee25105d8] for “the Community” substitute “Great Britain”;
   - (ii) for “competent authorities” substitute “ competent authority ”;
 - (b) omit paragraph 2;
 - (c) in paragraph 3—
@@ -169,12 +169,12 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (7) In Article 8—
 
-- (a)[^key-9e1d29bcfa467740e273ac94fa1de90d] in paragraph 1, for “Member States shall make available to the public and to the Commission,” substitute “The Secretary of State must prepare and publish,”;
+- (a)[^c-9e1d29bcfa467740e273ac94fa1de90d] in paragraph 1, for “Member States shall make available to the public and to the Commission,” substitute “The Secretary of State must prepare and publish,”;
 - (b) for paragraph 2 substitute—
 
   > **2.**
   >
-  > The first report under this Article must be published on or before 30 April 2022[^key-cae88b103b87eabd8ef1d9d323dd4610].
+  > The first report under this Article must be published on or before 30 April 2022[^c-cae88b103b87eabd8ef1d9d323dd4610].
 
   ;
 - (c) omit paragraph 3.
@@ -185,7 +185,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (10) Omit Annex 1.
 
-### 5. Amendment of Commission Regulation [(EC) No. 1024/2008](https://www.legislation.gov.uk/eur/2008/1024)[^key-e2ad473786f7d9bdf931355e5cfbcbea]
+### 5. Amendment of Commission Regulation [(EC) No. 1024/2008](https://www.legislation.gov.uk/eur/2008/1024)[^c-e2ad473786f7d9bdf931355e5cfbcbea]
 
 (1) Commission Regulation [(EC) No. 1024/2008](https://www.legislation.gov.uk/eur/2008/1024) laying down detailed measures for the implementation of Council Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community is amended as follows.
 
@@ -196,7 +196,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (3) In Article 3, omit paragraph 2.
 
-(4) In Article 4, for “within the Community” substitute “ into and within Great Britain[^key-6d014c886107576ff9c6423e8ce4991e] ”.
+(4) In Article 4, for “within the Community” substitute “ into and within Great Britain[^c-6d014c886107576ff9c6423e8ce4991e] ”.
 
 (5) For Article 5 substitute—
 
@@ -210,7 +210,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 > **1.**
 >
-> The licence, in respect of a shipment which is declared for release for free circulation in Great Britain[^key-8101a11e938a707ca48d37b98335984e] , must be lodged with the competent authority.
+> The licence, in respect of a shipment which is declared for release for free circulation in Great Britain[^c-8101a11e938a707ca48d37b98335984e] , must be lodged with the competent authority.
 >
 > **2.**
 >
@@ -224,7 +224,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (9) In Article 11—
 
-- (a) in paragraph 1, for the words from “box” to “circulation is made” substitute “ the customs declaration for release for free circulation in Great Britain[^key-6e7cde85d3a1207dcd4adc3146a12055] ”;
+- (a) in paragraph 1, for the words from “box” to “circulation is made” substitute “ the customs declaration for release for free circulation in Great Britain[^c-6e7cde85d3a1207dcd4adc3146a12055] ”;
 - (b) for paragraph 2 substitute—
 
   > **2.**
@@ -259,9 +259,9 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 (15) In the Annex—
 
 - (a) in the table heading, omit “EUROPEAN COMMUNITY”;
-- (b)[^key-853daa59a45cf077dcfabbdfecbd674f] in the notes for guidance, in the note for box 5, for “the EU” substitute “Great Britain”.
+- (b)[^c-853daa59a45cf077dcfabbdfecbd674f] in the notes for guidance, in the note for box 5, for “the EU” substitute “Great Britain”.
 
-### 6. Amendment of Regulation (EU) No. 995/2010 of the European Parliament and of the Council[^key-afa4607d933bc04d40dfd84656518f0b]
+### 6. Amendment of Regulation (EU) No. 995/2010 of the European Parliament and of the Council[^c-afa4607d933bc04d40dfd84656518f0b]
 
 (1) Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market is amended as follows.
 
@@ -285,7 +285,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (5) In Article 6—
 
-- (a) in paragraph 1(b), in the second subparagraph, in the fourth indent, for the words from “by the UN” to “Union” substitute “ by the United[^key-a3ae31eec25ffd61e90e488982d8619c] Kingdom or by the UN Security Council ”;
+- (a) in paragraph 1(b), in the second subparagraph, in the fourth indent, for the words from “by the UN” to “Union” substitute “ by the United[^c-a3ae31eec25ffd61e90e488982d8619c] Kingdom or by the UN Security Council ”;
 - (b) for paragraph 2 substitute—
 
   > **2.**
@@ -308,7 +308,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
   >
   > - (a) an applicant that fulfils the requirements set out in paragraph 2; and
   > - (b) any organisation that—
-  >   - (i) immediately before IP completion[^key-74094f23a5f1ca04ebe536043ed45d38] day was recognised as a monitoring organisation by the Commission; and
+  >   - (i) immediately before IP completion[^c-74094f23a5f1ca04ebe536043ed45d38] day was recognised as a monitoring organisation by the Commission; and
   >   - (ii) fulfils the requirements set out in paragraph 2.
   >
   > Where point (b) applies, the competent authority is not required to notify the organisation or provide a certificate pursuant to Article 4 of Commission Delegated Regulation (EU) No. 363/2012 on the procedural rules for the recognition and withdrawal of recognition of monitoring organisations as provided for in Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market.
@@ -384,7 +384,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 >
 > **2.**
 >
-> The first report under paragraph 1 must be published on or before 31 March 2022[^key-55ee0e548a6d17c5fa2c8654b18d8053] and subsequent reports must be published at intervals not exceeding two years.
+> The first report under paragraph 1 must be published on or before 31 March 2022[^c-55ee0e548a6d17c5fa2c8654b18d8053] and subsequent reports must be published at intervals not exceeding two years.
 >
 > **3.**
 >
@@ -402,7 +402,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (15) After Article 21, omit the sentence which begins “This Regulation shall be”.
 
-### 7. Amendment of Commission Delegated Regulation (EU) No. 363/2012[^key-9c298091b35a510345b052779f40efaa]
+### 7. Amendment of Commission Delegated Regulation (EU) No. 363/2012[^c-9c298091b35a510345b052779f40efaa]
 
 (1) Commission Delegated Regulation (EU) No. 363/2012 on the procedural rules for the recognition and withdrawal of recognition of monitoring organisations as provided for in Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market is amended as follows.
 
@@ -461,7 +461,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
   - (i) in the words before point (a), for “Commission” substitute “ competent authority ”;
   - (ii) in point (b), for “Union” substitute “ United Kingdom ”;
   - (iii) omit point (c);
-  - (iv) in point (d), for “any Member State” substitute “Great Britain[^key-8d31c369991720e02864ea5c22986a8d]”;
+  - (iv) in point (d), for “any Member State” substitute “Great Britain[^c-8d31c369991720e02864ea5c22986a8d]”;
 - (b) omit paragraph 2.
 
 (8) For Article 10 substitute—
@@ -514,7 +514,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 - (a) in the first indent, omit “as provided for in the relevant national legislation”;
 - (b) omit the second indent.
 
-### 8. Amendment of Commission Implementing Regulation (EU) No. 607/2012[^key-58cba4470955bf1c76b014baf2dabe3f]
+### 8. Amendment of Commission Implementing Regulation (EU) No. 607/2012[^c-58cba4470955bf1c76b014baf2dabe3f]
 
 (1) Commission Implementing Regulation (EU) No. 607/2012 on the detailed rules concerning the due diligence system and the frequency and nature of the checks on monitoring organisations as provided for in Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market is amended as follows.
 
@@ -560,72 +560,72 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c23400351]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-382fba60fa596bff50a5251a54cfbfb8]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-382fba60fa596bff50a5251a54cfbfb8]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-72063b118ab89d1bb8b4866be8d255aa]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1) heading substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/a)
+[^c-72063b118ab89d1bb8b4866be8d255aa]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1) heading substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/a)
 
-[^key-d8e50481b4e00dc16545bf00fbc5866f]: Textual amendment: Reg. 1 renumbered as reg. 1(1) (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/b)
+[^c-d8e50481b4e00dc16545bf00fbc5866f]: Textual amendment: Reg. 1 renumbered as reg. 1(1) (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/b)
 
 [^c23400361]: Marginal citation: Section 20(1) of the European Union (Withdrawal) Act 2018 defines “exit day”.
 
-[^key-3b680ed01e15af0a271d16c8a6e1a702]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/2) inserted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/c)
+[^c-3b680ed01e15af0a271d16c8a6e1a702]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/2) inserted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/c)
 
-[^key-3743e5f0131a86935bf9ab1a5181bb57]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3743e5f0131a86935bf9ab1a5181bb57]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23400371]: Marginal citation: [S.I. 2012/178](https://www.legislation.gov.uk/uksi/2012/178), to which there are amendments not relevant to these Regulations.
 
-[^key-3bc2bfc75ee7132aa4ab32ee81357cf5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3bc2bfc75ee7132aa4ab32ee81357cf5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23400381]: Marginal citation: [S.I. 2013/233](https://www.legislation.gov.uk/uksi/2013/233).
 
-[^key-99de7501e4f533598753d2bfd41e94a0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-99de7501e4f533598753d2bfd41e94a0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-230b4f0d5906f19e0427457adeb2d7bb]: Textual amendment: Words in reg. 4(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/a)
+[^c-230b4f0d5906f19e0427457adeb2d7bb]: Textual amendment: Words in reg. 4(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/a)
 
-[^key-6450f20b9c70d9cb8bef638dbdf2324b]: Textual amendment: Reg. 4(3)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/i)
+[^c-6450f20b9c70d9cb8bef638dbdf2324b]: Textual amendment: Reg. 4(3)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/i)
 
-[^key-63586ca3f222d3ff9eeb10ae41688633]: Textual amendment: Reg. 4(3)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/ii)
+[^c-63586ca3f222d3ff9eeb10ae41688633]: Textual amendment: Reg. 4(3)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/ii)
 
-[^key-fc3e5a52385721c55c546f7d114e3079]: Textual amendment: Words in reg. 4(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/iii)
+[^c-fc3e5a52385721c55c546f7d114e3079]: Textual amendment: Words in reg. 4(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/iii)
 
-[^key-f2e86bb006cacfa50f207f48beeb8f10]: Textual amendment: Reg. 4(3)(h) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/iv)
+[^c-f2e86bb006cacfa50f207f48beeb8f10]: Textual amendment: Reg. 4(3)(h) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/iv)
 
-[^key-c3f6cc62455420cfe5b1260d5ba41267]: Textual amendment: Words in reg. 4(3)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(v)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/v)
+[^c-c3f6cc62455420cfe5b1260d5ba41267]: Textual amendment: Words in reg. 4(3)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(v)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/v)
 
-[^key-e639aa222de636abd20e712a1dc25ed0]: Textual amendment: Reg. 4(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/c)
+[^c-e639aa222de636abd20e712a1dc25ed0]: Textual amendment: Reg. 4(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/c)
 
-[^key-6c6fa529f2f68f659730847ee25105d8]: Textual amendment: Reg. 4(5)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/d)
+[^c-6c6fa529f2f68f659730847ee25105d8]: Textual amendment: Reg. 4(5)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/d)
 
-[^key-9e1d29bcfa467740e273ac94fa1de90d]: Textual amendment: Reg. 4(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/e/i)
+[^c-9e1d29bcfa467740e273ac94fa1de90d]: Textual amendment: Reg. 4(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/e/i)
 
-[^key-cae88b103b87eabd8ef1d9d323dd4610]: Textual amendment: Word in reg. 4(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/e/ii)
+[^c-cae88b103b87eabd8ef1d9d323dd4610]: Textual amendment: Word in reg. 4(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/e/ii)
 
-[^key-e2ad473786f7d9bdf931355e5cfbcbea]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e2ad473786f7d9bdf931355e5cfbcbea]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6d014c886107576ff9c6423e8ce4991e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/4) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
+[^c-6d014c886107576ff9c6423e8ce4991e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/4) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
 
-[^key-8101a11e938a707ca48d37b98335984e]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/6) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
+[^c-8101a11e938a707ca48d37b98335984e]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/6) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
 
-[^key-6e7cde85d3a1207dcd4adc3146a12055]: Textual amendment: Words in [reg. 5(9)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/9) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
+[^c-6e7cde85d3a1207dcd4adc3146a12055]: Textual amendment: Words in [reg. 5(9)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/9) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
 
-[^key-853daa59a45cf077dcfabbdfecbd674f]: Textual amendment: [Reg. 5(15)(b)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/15/b) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/b)
+[^c-853daa59a45cf077dcfabbdfecbd674f]: Textual amendment: [Reg. 5(15)(b)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/15/b) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/b)
 
-[^key-afa4607d933bc04d40dfd84656518f0b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-afa4607d933bc04d40dfd84656518f0b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23400391]: Marginal citation: [S.I. 2000/2334](https://www.legislation.gov.uk/uksi/2000/2334), to which there are amendments not relevant to these Regulations.
 
-[^key-a3ae31eec25ffd61e90e488982d8619c]: Textual amendment: Words in reg. 6(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/a)
+[^c-a3ae31eec25ffd61e90e488982d8619c]: Textual amendment: Words in reg. 6(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/a)
 
-[^key-74094f23a5f1ca04ebe536043ed45d38]: Textual amendment: Words in reg. 6(7)(c) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/b)
+[^c-74094f23a5f1ca04ebe536043ed45d38]: Textual amendment: Words in reg. 6(7)(c) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/b)
 
 [^c23400401]: Marginal citation: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391), amended by paragraphs 306 to 309 of Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897).
 
-[^key-55ee0e548a6d17c5fa2c8654b18d8053]: Textual amendment: Word in reg. 6(14) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/c)
+[^c-55ee0e548a6d17c5fa2c8654b18d8053]: Textual amendment: Word in reg. 6(14) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/c)
 
 [^c23400411]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-9c298091b35a510345b052779f40efaa]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9c298091b35a510345b052779f40efaa]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8d31c369991720e02864ea5c22986a8d]: Textual amendment: Words in reg. 7(7)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/6)
+[^c-8d31c369991720e02864ea5c22986a8d]: Textual amendment: Words in reg. 7(7)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/6)
 
-[^key-58cba4470955bf1c76b014baf2dabe3f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-58cba4470955bf1c76b014baf2dabe3f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

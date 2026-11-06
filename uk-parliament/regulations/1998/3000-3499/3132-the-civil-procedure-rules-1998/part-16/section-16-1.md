@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16.1. Part not to apply where claimant uses Part 8 procedure[^key-b94a640b825c4cfcf3c75ffd0181b7f1]
+## 16.1. Part not to apply where claimant uses Part 8 procedure[^c-b94a640b825c4cfcf3c75ffd0181b7f1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part does not apply where the claimant uses the procedure set out in Part 8
 
 ## Annotations
 
-[^key-b94a640b825c4cfcf3c75ffd0181b7f1]: Commencement: [Rule 16.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/16.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-b94a640b825c4cfcf3c75ffd0181b7f1]: Commencement: [Rule 16.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/16.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

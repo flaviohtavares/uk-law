@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10C — Disclosure of auditor remuneration etc required in notes to accounts[^key-12ff0ef5386cbcb55771037815b53748]
+## SCHEDULE 10C — Disclosure of auditor remuneration etc required in notes to accounts[^c-12ff0ef5386cbcb55771037815b53748]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 72M
 
 **1.** (1) The following must be shown—
 
-- (a) the amount of any remuneration receivable by the society’s auditor , or an associate of the society’s auditor,[^key-323d43d36a3db0c524f069f9b0cf56ee] for the auditing of the annual accounts, and
+- (a) the amount of any remuneration receivable by the society’s auditor , or an associate of the society’s auditor,[^c-323d43d36a3db0c524f069f9b0cf56ee] for the auditing of the annual accounts, and
 - (b) the amount of any remuneration receivable in respect of the financial year by—
   - (i) the society’s auditor, or
   - (ii) any person who was, at any time during that financial year, an associate of the society’s auditor,
@@ -44,7 +44,7 @@ Section 72M
 (6) Where a building society is required to prepare consolidated group accounts—
 
 - (a) those accounts must comply with sub-paragraph (1)(b) as if the undertakings included in the consolidation were a single building society, and
-- (b)[^key-82379b5de39ac5e2100a999b856639c9] the notes to the individual accounts of—
+- (b)[^c-82379b5de39ac5e2100a999b856639c9] the notes to the individual accounts of—
   - (i) the society, and
   - (ii) a subsidiary of the society, where the subsidiary is included in the group accounts and the statutory auditor is the same for both the society and the subsidiary,
 
@@ -52,7 +52,7 @@ Section 72M
 
 ### Types of service
 
-**2.**[^key-df872f14a530b4bd8ed88cffbff756f1] The types of service in respect of which disclosure is required are—
+**2.**[^c-df872f14a530b4bd8ed88cffbff756f1] The types of service in respect of which disclosure is required are—
 
 - (a) the auditing of accounts of any associate of the society;
 - (b) audit-related assurance services;
@@ -65,7 +65,7 @@ Section 72M
 
 ### Disclosure not required of remuneration for certain services provided by distant associate
 
-**3.** (1) Disclosure is not required of remuneration receivable for the supply of services falling within paragraph 2(h)[^key-9d686f973c25b4b1f5d4c65ce29a086a] supplied by a distant associate of the society’s auditor where the total remuneration receivable for all of those services supplied by that associate does not exceed—
+**3.** (1) Disclosure is not required of remuneration receivable for the supply of services falling within paragraph 2(h)[^c-9d686f973c25b4b1f5d4c65ce29a086a] supplied by a distant associate of the society’s auditor where the total remuneration receivable for all of those services supplied by that associate does not exceed—
 
 - (a) £10,000, or
 - (b) 1% of the total audit remuneration received by the society’s auditor in the most recent financial year of the auditor which ended no later than the end of the financial year of the society to which the accounts relate.
@@ -146,12 +146,12 @@ Section 72M
 
 ## Annotations
 
-[^key-12ff0ef5386cbcb55771037815b53748]: Textual amendment: Sch. 10C inserted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1519/schedule/1/paragraph/1)
+[^c-12ff0ef5386cbcb55771037815b53748]: Textual amendment: Sch. 10C inserted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1519/schedule/1/paragraph/1)
 
-[^key-323d43d36a3db0c524f069f9b0cf56ee]: Textual amendment: Words in [Sch. 10C para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/10C/paragraph/1/1/a) inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(a)(i)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/a/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-323d43d36a3db0c524f069f9b0cf56ee]: Textual amendment: Words in [Sch. 10C para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/10C/paragraph/1/1/a) inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(a)(i)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/a/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-82379b5de39ac5e2100a999b856639c9]: Textual amendment: [Sch. 10C para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/10C/paragraph/1/6/b) substituted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/a/ii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-82379b5de39ac5e2100a999b856639c9]: Textual amendment: [Sch. 10C para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/10C/paragraph/1/6/b) substituted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/a/ii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-df872f14a530b4bd8ed88cffbff756f1]: Textual amendment: Sch. 10C para. 2 substituted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-df872f14a530b4bd8ed88cffbff756f1]: Textual amendment: Sch. 10C para. 2 substituted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-9d686f973c25b4b1f5d4c65ce29a086a]: Textual amendment: Word in [Sch. 10C para. 3(1)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/10C/paragraph/3/1) substituted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-9d686f973c25b4b1f5d4c65ce29a086a]: Textual amendment: Word in [Sch. 10C para. 3(1)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/10C/paragraph/3/1) substituted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/2/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

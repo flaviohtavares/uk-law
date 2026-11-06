@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Persons not entitled to council tax reduction: persons subject to immigration control[^key-c4494f541cc8e0028aba5e22e5c41a49]
+## 19. Persons not entitled to council tax reduction: persons subject to immigration control[^c-c4494f541cc8e0028aba5e22e5c41a49]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4494f541cc8e0028aba5e22e5c41a49]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/249/regulation/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-c4494f541cc8e0028aba5e22e5c41a49]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/249/regulation/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00127]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).

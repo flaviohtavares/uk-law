@@ -44,11 +44,11 @@ Coming into operation
 
 The Northern Ireland Court of Judicature Rules Committee[^f00001] makes the following Rules in exercise of the powers conferred by sections 55 and 55A of the Judicature (Northern Ireland) Act 1978[^f00002].
 
-## 1. Citation, commencement and application[^key-5acff1bfde32121aed02cccf6f15c912]
+## 1. Citation, commencement and application[^c-5acff1bfde32121aed02cccf6f15c912]
 
 These Rules shall be cited as the Rules of the Court of Judicature (Northern Ireland) (Amendment) 2024 and shall come into operation on 2nd December 2024.
 
-## 2. Amendments to the Rules of the Court of Judicature (Northern Ireland) 1980[^key-4d4984272f2533eff7cec84845d2c445][^f00003]
+## 2. Amendments to the Rules of the Court of Judicature (Northern Ireland) 1980[^c-4d4984272f2533eff7cec84845d2c445][^f00003]
 
 The Rules of the Court of Judicature (Northern Ireland) 1980 are amended as follows—
 
@@ -82,7 +82,7 @@ Naomi Long
 
 Minister of Justice
 
-## SCHEDULE[^key-b72124f8ed476ae9de3e59018f3c3d2b]
+## SCHEDULE[^c-b72124f8ed476ae9de3e59018f3c3d2b]
 
 Rule 2(2)
 
@@ -110,10 +110,10 @@ These Rules amend the Rules of the Court of Judicature (Northern Ireland) 1980 (
 
 [^f00002]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23); to which the most recent relevant amendments were made by paragraphs 29 and 30 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 6 of Schedule 17, and paragraph 15 of Schedule 18, to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010 No. 976](https://www.legislation.gov.uk/uksi/2010/976)); and paragraph 2 of the Schedule to the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13).
 
-[^key-5acff1bfde32121aed02cccf6f15c912]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1) in operation at 2.12.2024, see [rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1)
+[^c-5acff1bfde32121aed02cccf6f15c912]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1) in operation at 2.12.2024, see [rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1)
 
-[^key-4d4984272f2533eff7cec84845d2c445]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2024/177/rule/2) in operation at 2.12.2024, see [rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1)
+[^c-4d4984272f2533eff7cec84845d2c445]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2024/177/rule/2) in operation at 2.12.2024, see [rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1)
 
 [^f00003]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346); The Rules of the Supreme Court (Northern Ireland) 1980 were renamed in accordance with paragraph 3 of Schedule 11 to the Constitutional Reform Act [2005(c.4)](https://www.legislation.gov.uk/ukpga/2005/4). The most recent relevant amendments were made by [S.R. 2003 No. 536](https://www.legislation.gov.uk/nisr/2003/536).
 
-[^key-b72124f8ed476ae9de3e59018f3c3d2b]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2024/177/schedule) in operation at 2.12.2024, see [rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1)
+[^c-b72124f8ed476ae9de3e59018f3c3d2b]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2024/177/schedule) in operation at 2.12.2024, see [rule 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1)

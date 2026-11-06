@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1112B. False statements offences: national security etc defence[^key-3b2a20302e4f7f4e3572879ae860a68f][^key-699755baf9b21f7612eb1bc5e23988e8]
+## 1112B. False statements offences: national security etc defence[^c-3b2a20302e4f7f4e3572879ae860a68f][^c-699755baf9b21f7612eb1bc5e23988e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b2a20302e4f7f4e3572879ae860a68f]: Modification: [S. 1112B](https://www.legislation.gov.uk/ukpga/2006/46/section/1112B) applied (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 60](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60) (as amended by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/234/regulation/26); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-3b2a20302e4f7f4e3572879ae860a68f]: Modification: [S. 1112B](https://www.legislation.gov.uk/ukpga/2006/46/section/1112B) applied (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 60](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60) (as amended by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/234/regulation/26); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-699755baf9b21f7612eb1bc5e23988e8]: Textual amendment: [S. 1112B](https://www.legislation.gov.uk/ukpga/2006/46/section/1112B) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/103/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/d)
+[^c-699755baf9b21f7612eb1bc5e23988e8]: Textual amendment: [S. 1112B](https://www.legislation.gov.uk/ukpga/2006/46/section/1112B) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/103/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/d)

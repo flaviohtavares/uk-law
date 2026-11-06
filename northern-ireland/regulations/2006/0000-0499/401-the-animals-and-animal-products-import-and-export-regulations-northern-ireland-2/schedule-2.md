@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — INTRA-COMMUNITY TRADE: LEGISLATION AND ADDITIONAL REQUIREMENTS[^key-fbaf0ef7444009df336e61727d842905]
+## SCHEDULE 2 — INTRA-COMMUNITY TRADE: LEGISLATION AND ADDITIONAL REQUIREMENTS[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -24,108 +24,108 @@ summary: ''
 
 Regulations 4, 5(1), 6(1) and (2), 7(5), 8(1), 10,12(7)(a)13(4), 29(2)(b) and 33
 
-### PART I — LEGISLATION IN RELATION TO INTRA-COMMUNITY TRADE[^key-fbaf0ef7444009df336e61727d842905]
+### PART I — LEGISLATION IN RELATION TO INTRA-COMMUNITY TRADE[^c-fbaf0ef7444009df336e61727d842905]
 
-#### 1. Bovine animals and swine[^key-fbaf0ef7444009df336e61727d842905]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Bovine semen[^key-fbaf0ef7444009df336e61727d842905]
+#### 1. Bovine animals and swine[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Bovine embryos[^key-fbaf0ef7444009df336e61727d842905]
+#### 2. Bovine semen[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Equidae[^key-fbaf0ef7444009df336e61727d842905]
+#### 3. Bovine embryos[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7. Porcine semen[^key-fbaf0ef7444009df336e61727d842905]
+#### 4. Equidae[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Poultry and hatching eggs[^key-fbaf0ef7444009df336e61727d842905]
+**5.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Porcine semen[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Animal by-products[^key-fbaf0ef7444009df336e61727d842905]
+#### 8. Poultry and hatching eggs[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Fish[^key-fbaf0ef7444009df336e61727d842905]
+#### 7. Animal by-products[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 13. Ovine and caprine animals[^key-fbaf0ef7444009df336e61727d842905]
+#### 10. Fish[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Other animals, semen, ova and embryos[^key-fbaf0ef7444009df336e61727d842905]
+**11.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Ovine and caprine animals[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Circuses and animal acts[^key-fbaf0ef7444009df336e61727d842905]
+#### 14. Other animals, semen, ova and embryos[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Pathogens[^key-fbaf0ef7444009df336e61727d842905]
+#### 15. Circuses and animal acts[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Pure-bred animals of the bovine species[^key-fbaf0ef7444009df336e61727d842905]
+#### 16. Pathogens[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Breeding animals of the porcine species[^key-fbaf0ef7444009df336e61727d842905]
+#### 17. Pure-bred animals of the bovine species[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Pure-bred breeding sheep and goats[^key-fbaf0ef7444009df336e61727d842905]
+#### 18. Breeding animals of the porcine species[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Bluetongue susceptible animals[^key-fbaf0ef7444009df336e61727d842905]
+#### 19. Pure-bred breeding sheep and goats[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Transmissible spongiform encephalopathies[^key-fbaf0ef7444009df336e61727d842905]
+#### 20. Bluetongue susceptible animals[^c-fbaf0ef7444009df336e61727d842905]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 21. Transmissible spongiform encephalopathies[^c-fbaf0ef7444009df336e61727d842905]
 
-### PART II — ADDITIONAL REQUIREMENTS FOR THE TRANSPORT OF CATTLE, PIGS, SHEEP AND GOATS[^key-fbaf0ef7444009df336e61727d842905]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART II — ADDITIONAL REQUIREMENTS FOR THE TRANSPORT OF CATTLE, PIGS, SHEEP AND GOATS[^c-fbaf0ef7444009df336e61727d842905]
 
-**3.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — ADDITIONAL REQUIREMENTS FOR DEALERS IN CATTLE, PIGS, SHEEP AND GOATS[^key-fbaf0ef7444009df336e61727d842905]
+**2.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART III — ADDITIONAL REQUIREMENTS FOR DEALERS IN CATTLE, PIGS, SHEEP AND GOATS[^c-fbaf0ef7444009df336e61727d842905]
 
-**3.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)
+[^c-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Private residential tenancies: pre-action protocol[^key-79077d0a9174ad6ac829a08d7e4a245a]
+## 46. Private residential tenancies: pre-action protocol[^c-79077d0a9174ad6ac829a08d7e4a245a]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79077d0a9174ad6ac829a08d7e4a245a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2022/8/section/46) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-79077d0a9174ad6ac829a08d7e4a245a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2022/8/section/46) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

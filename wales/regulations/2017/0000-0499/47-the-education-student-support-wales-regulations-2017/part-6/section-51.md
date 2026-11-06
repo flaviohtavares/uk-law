@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Deductions from loans for living costs[^key-854cab90a93f387f8e6807e996553c68]
+## 51. Deductions from loans for living costs[^c-854cab90a93f387f8e6807e996553c68]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-854cab90a93f387f8e6807e996553c68]: Commencement: Reg. 51 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-854cab90a93f387f8e6807e996553c68]: Commencement: Reg. 51 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

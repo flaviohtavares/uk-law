@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68D. Opinion of the Gas and Electricity Markets Authority[^key-f78eda3a46e82fb17efdb7ed362a0992]
+## 68D. Opinion of the Gas and Electricity Markets Authority[^c-f78eda3a46e82fb17efdb7ed362a0992]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f78eda3a46e82fb17efdb7ed362a0992]: Textual amendment: [Ss. 68A-68F](https://www.legislation.gov.uk/ukpga/2002/40/section/68A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/2)
+[^c-f78eda3a46e82fb17efdb7ed362a0992]: Textual amendment: [Ss. 68A-68F](https://www.legislation.gov.uk/ukpga/2002/40/section/68A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/2)

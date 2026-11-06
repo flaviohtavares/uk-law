@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Power of Scottish Ministers to require action by schools and education authorities
 
-### 1. Power of Scottish Ministers to require action by managers of certain schools[^key-478c587a9865493dc196440e39d9f563]
+### 1. Power of Scottish Ministers to require action by managers of certain schools[^c-478c587a9865493dc196440e39d9f563]
 
 After section 66A of the Education (Scotland) Act 1980 (c. 44) (in this Act referred to as the “**1980 Act**”) insert—
 
@@ -119,7 +119,7 @@ After section 66A of the Education (Scotland) Act 1980 (c. 44) (in this Act refe
 
 .
 
-### 2. Power of Scottish Ministers to require action by education authorities[^key-519f2a1594730292c9267866e3484fa2]
+### 2. Power of Scottish Ministers to require action by education authorities[^c-519f2a1594730292c9267866e3484fa2]
 
 After section 10 of the Standards in Scotland’s Schools etc. Act 2000 (asp 6) (in this Act referred to as the “**2000 Act**”) insert—
 
@@ -194,11 +194,11 @@ After section 10 of the Standards in Scotland’s Schools etc. Act 2000 (asp 6) 
 
 ## Part 2 — Independent schools
 
-### 3. Meaning of “independent school”[^key-87e1c839b87252312eebe12e75d5cf20]
+### 3. Meaning of “independent school”[^c-87e1c839b87252312eebe12e75d5cf20]
 
 In section 135(1) of the 1980 Act (interpretation), in the definition of “independent school”, the words “five or more” are repealed.
 
-### 4. Registration of independent schools[^key-c1ba110ea37d74b392fd2cbf00be4943]
+### 4. Registration of independent schools[^c-c1ba110ea37d74b392fd2cbf00be4943]
 
 (1) For section 98(2) of the 1980 Act (offences in relation to conducting or being a proprietor of a school which is not registered or provisionally registered) substitute—
 
@@ -351,7 +351,7 @@ In section 135(1) of the 1980 Act (interpretation), in the definition of “inde
 
 .
 
-### 5. Regulation of registered schools[^key-d067dd72ed3bf87fffc5874b7e3fa7cf]
+### 5. Regulation of registered schools[^c-d067dd72ed3bf87fffc5874b7e3fa7cf]
 
 (1) After section 98D of the 1980 Act (as inserted by section 4(2) of this Act) insert—
 
@@ -512,7 +512,7 @@ In section 135(1) of the 1980 Act (interpretation), in the definition of “inde
 
   .
 
-### 6. Appeals[^key-3640327c4a742da752433bb39985e82a]
+### 6. Appeals[^c-3640327c4a742da752433bb39985e82a]
 
 (1) In section 102 of the 1980 Act (removal of disqualifications), after subsection (1) insert—
 
@@ -588,7 +588,7 @@ In section 135(1) of the 1980 Act (interpretation), in the definition of “inde
 
 .
 
-### 7. Supplementary[^key-2fc363a40e7fdc1924406508b759421e]
+### 7. Supplementary[^c-2fc363a40e7fdc1924406508b759421e]
 
 After section 103 of the 1980 Act insert—
 
@@ -632,9 +632,9 @@ After section 103 of the 1980 Act insert—
 
 ### 8. Minor and consequential amendments and repeals
 
-(1)[^key-3339b94ac11d3113f524134b201102a1][^key-c2c9687d51f7bf08c8be018652f22034] Schedule 1 to this Act, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
+(1)[^c-3339b94ac11d3113f524134b201102a1][^c-c2c9687d51f7bf08c8be018652f22034] Schedule 1 to this Act, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
 
-(2)[^key-baf716b3f7fa8a9b1001d5d17e24e4a8] The enactments mentioned in schedule 2 to this Act are repealed to the extent mentioned in the second column of that schedule.
+(2)[^c-baf716b3f7fa8a9b1001d5d17e24e4a8] The enactments mentioned in schedule 2 to this Act are repealed to the extent mentioned in the second column of that schedule.
 
 ### 9. Short title and commencement
 
@@ -648,11 +648,11 @@ After section 103 of the 1980 Act insert—
 
 (introduced by section 8(1))
 
-**1.** (1)[^key-6b528c43bf571148aad2532343a6a996] The 1980 Act is amended as follows.
+**1.** (1)[^c-6b528c43bf571148aad2532343a6a996] The 1980 Act is amended as follows.
 
-(2)[^key-6b528c43bf571148aad2532343a6a996] In section 98(3)(a) (power to prescribe particulars, information as to which shall be furnished to the Registrar by the proprietors of independent schools), for the word “independent” substitute “ registered ”.
+(2)[^c-6b528c43bf571148aad2532343a6a996] In section 98(3)(a) (power to prescribe particulars, information as to which shall be furnished to the Registrar by the proprietors of independent schools), for the word “independent” substitute “ registered ”.
 
-(3)[^key-6b528c43bf571148aad2532343a6a996] In section 99(2) (service of copy notice of complaint on teacher)—
+(3)[^c-6b528c43bf571148aad2532343a6a996] In section 99(2) (service of copy notice of complaint on teacher)—
 
 - (a) for the words from “person”, where it first occurs, to “school”, where it second occurs, substitute
 
@@ -665,9 +665,9 @@ After section 103 of the 1980 Act insert—
   ; and
 - (b) for the word “person”, where it third occurs, substitute “ teacher ”.
 
-(4)[^key-6b528c43bf571148aad2532343a6a996] In section 100(4) (disqualification from being proprietor of independent school to be disqualification from being teacher and vice versa), for the words “by an Independent Schools Tribunal or by the Secretary of State” substitute “ under this Part of this Act ”.
+(4)[^c-6b528c43bf571148aad2532343a6a996] In section 100(4) (disqualification from being proprietor of independent school to be disqualification from being teacher and vice versa), for the words “by an Independent Schools Tribunal or by the Secretary of State” substitute “ under this Part of this Act ”.
 
-(5)[^key-6b528c43bf571148aad2532343a6a996] In section 101 (enforcement of orders)—
+(5)[^c-6b528c43bf571148aad2532343a6a996] In section 101 (enforcement of orders)—
 
 - (a) in subsection (2), for the words “any premises for purposes for which they are” substitute—
 
@@ -677,9 +677,9 @@ After section 103 of the 1980 Act insert—
   ; and
 - (b) in subsection (4), for the words from “disqualified”, where it first occurs, to “1944” substitute “ subject to or deemed to be subject to a direction given under section 142 of the Education Act 2002 (c. 32) shall be deemed to be disqualified ”.
 
-(6)[^key-6b528c43bf571148aad2532343a6a996] In section 102(2) (appeal against refusal to remove disqualification), for the words from “within” to the end substitute “ before the expiry of the period of 28 days beginning with the day on which the applicant is given notice under subsection (1A)(a) above, appeal to the sheriff principal against that refusal. ”.
+(6)[^c-6b528c43bf571148aad2532343a6a996] In section 102(2) (appeal against refusal to remove disqualification), for the words from “within” to the end substitute “ before the expiry of the period of 28 days beginning with the day on which the applicant is given notice under subsection (1A)(a) above, appeal to the sheriff principal against that refusal. ”.
 
-(7)[^key-6b528c43bf571148aad2532343a6a996] In section 133 (regulations)—
+(7)[^c-6b528c43bf571148aad2532343a6a996] In section 133 (regulations)—
 
 - (a) in subsection (2), for the words “and (2B)” substitute “ to (2C) ”; and
 - (b) after subsection (2B) insert—
@@ -693,24 +693,24 @@ After section 103 of the 1980 Act insert—
 
 (8) In section 135(1) (interpretation)—
 
-- (a)[^key-6b528c43bf571148aad2532343a6a996] after the definition of “dental treatment” insert—
+- (a)[^c-6b528c43bf571148aad2532343a6a996] after the definition of “dental treatment” insert—
 
   > “**disqualified from working with children**” has the meaning given by section 98A(6) of this Act;
 
   ;
-- (b)[^key-c53d98b9d57536c4524e4586b2b09e7b] after the definition of “enactment” insert—
+- (b)[^c-c53d98b9d57536c4524e4586b2b09e7b] after the definition of “enactment” insert—
 
   > “**enforcement direction**” means a direction under section 66D(1) of this Act;
 
   ;
-- (c)[^key-c53d98b9d57536c4524e4586b2b09e7b] after the definition of “placing request” insert—
+- (c)[^c-c53d98b9d57536c4524e4586b2b09e7b] after the definition of “placing request” insert—
 
   > “**preliminary notice**” means a notice under section 66C(1) of this Act;
 
   ; and
-- (d)[^key-6b528c43bf571148aad2532343a6a996] in the definition of “registered school”, for the words “the registration of which” substitute “ which is registered ”.
+- (d)[^c-6b528c43bf571148aad2532343a6a996] in the definition of “registered school”, for the words “the registration of which” substitute “ which is registered ”.
 
-**2.**[^key-8e301753e19ba47281395d7563acde70] In section 58(1) of the 2000 Act (interpretation)—
+**2.**[^c-8e301753e19ba47281395d7563acde70] In section 58(1) of the 2000 Act (interpretation)—
 
 - (a) after the definition of “annual statement of educational improvement objectives” insert—
 
@@ -723,7 +723,7 @@ After section 103 of the 1980 Act insert—
 
   .
 
-## SCHEDULE 2 — Repeals[^key-7998532f5c9b47f904fe76b10a054ef9]
+## SCHEDULE 2 — Repeals[^c-7998532f5c9b47f904fe76b10a054ef9]
 
 (introduced by section 8(2))
 
@@ -735,30 +735,30 @@ After section 103 of the 1980 Act insert—
 
 ## Annotations
 
-[^key-478c587a9865493dc196440e39d9f563]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/12/section/1) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/10/article/3/a)
+[^c-478c587a9865493dc196440e39d9f563]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/12/section/1) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/10/article/3/a)
 
-[^key-519f2a1594730292c9267866e3484fa2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2004/12/section/2) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/10/article/3/a)
+[^c-519f2a1594730292c9267866e3484fa2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2004/12/section/2) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/10/article/3/a)
 
-[^key-87e1c839b87252312eebe12e75d5cf20]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/12/section/3) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-87e1c839b87252312eebe12e75d5cf20]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/12/section/3) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-c1ba110ea37d74b392fd2cbf00be4943]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/12/section/4) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-c1ba110ea37d74b392fd2cbf00be4943]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/12/section/4) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-d067dd72ed3bf87fffc5874b7e3fa7cf]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/12/section/5) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-d067dd72ed3bf87fffc5874b7e3fa7cf]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/12/section/5) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-3640327c4a742da752433bb39985e82a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/12/section/6) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-3640327c4a742da752433bb39985e82a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/12/section/6) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-2fc363a40e7fdc1924406508b759421e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2004/12/section/7) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-2fc363a40e7fdc1924406508b759421e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2004/12/section/7) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-3339b94ac11d3113f524134b201102a1]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2004/12/section/8/1) in force at 31.5.2005 for specified purposes by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/10/article/3/b)
+[^c-3339b94ac11d3113f524134b201102a1]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2004/12/section/8/1) in force at 31.5.2005 for specified purposes by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/10/article/3/b)
 
-[^key-c2c9687d51f7bf08c8be018652f22034]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2004/12/section/8/1) in force at 31.12.2005 in so far as not already in force by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/570/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-c2c9687d51f7bf08c8be018652f22034]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2004/12/section/8/1) in force at 31.12.2005 in so far as not already in force by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/570/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-baf716b3f7fa8a9b1001d5d17e24e4a8]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/asp/2004/12/section/8/2) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/570/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-baf716b3f7fa8a9b1001d5d17e24e4a8]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/asp/2004/12/section/8/2) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/570/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-6b528c43bf571148aad2532343a6a996]: Commencement: [Sch. 1 para. 1(1)-(7)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/1) [(8)(a)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/a) [(8)(d)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/d) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/570/article/2/c) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-6b528c43bf571148aad2532343a6a996]: Commencement: [Sch. 1 para. 1(1)-(7)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/1) [(8)(a)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/a) [(8)(d)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/d) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/570/article/2/c) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
 
-[^key-c53d98b9d57536c4524e4586b2b09e7b]: Commencement: [Sch. 1 para. 1(8)(b)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/b)[(c)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/c) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(c)](https://www.legislation.gov.uk/ssi/2005/10/article/3/c)
+[^c-c53d98b9d57536c4524e4586b2b09e7b]: Commencement: [Sch. 1 para. 1(8)(b)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/b)[(c)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/8/c) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(c)](https://www.legislation.gov.uk/ssi/2005/10/article/3/c)
 
-[^key-8e301753e19ba47281395d7563acde70]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/2) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(c)](https://www.legislation.gov.uk/ssi/2005/10/article/3/c)
+[^c-8e301753e19ba47281395d7563acde70]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/2) in force at 31.5.2005 by [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(c)](https://www.legislation.gov.uk/ssi/2005/10/article/3/c)
 
-[^key-7998532f5c9b47f904fe76b10a054ef9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2004/12/schedule/2) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(d)](https://www.legislation.gov.uk/ssi/2005/570/article/2/d) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))
+[^c-7998532f5c9b47f904fe76b10a054ef9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2004/12/schedule/2) in force at 31.12.2005 by [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(d)](https://www.legislation.gov.uk/ssi/2005/570/article/2/d) (with [art. 3](https://www.legislation.gov.uk/ssi/2005/570/article/3))

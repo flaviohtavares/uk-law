@@ -22,11 +22,11 @@ summary: ''
 
 (1) A local authority must not place a child with a foster carer where–
 
-- (a)[^key-4b45d847c62e21a847d90a6352c9d881] the placement is, or would be, contrary to the terms of any—
+- (a)[^c-4b45d847c62e21a847d90a6352c9d881] the placement is, or would be, contrary to the terms of any—
   - (i) order or warrant made by the children’s hearing or the sheriff under the 2011 Act;
   - (ii) permanence order; or
   - (iii) exclusion order; or
-- (b) the placement would return child to the care of a person where the child was, by virtue of any order, authorisation or warrant, removed from the care of that person ; or[^key-3e2acc35179a6d2bcdc644bc8e8574c0]
+- (b) the placement would return child to the care of a person where the child was, by virtue of any order, authorisation or warrant, removed from the care of that person ; or[^c-3e2acc35179a6d2bcdc644bc8e8574c0]
 - (c) the placement would result in the placement limit set out in regulation 27A being exceeded.
 
 (2) A local authority must not place a child with a foster carer unless they are satisfied that–
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b45d847c62e21a847d90a6352c9d881]: Textual amendment: Reg. 27(1)(a) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(10)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/10); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4b45d847c62e21a847d90a6352c9d881]: Textual amendment: Reg. 27(1)(a) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(10)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/10); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-3e2acc35179a6d2bcdc644bc8e8574c0]: Textual amendment: Reg. 27(1)(c) and word inserted (29.12.2014) by [The Looked After Children (Scotland) Amendment Regulations 2014 (S.S.I. 2014/310)](https://www.legislation.gov.uk/ssi/2014/310), [regs. 1](https://www.legislation.gov.uk/ssi/2014/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2014/310/regulation/2/4) (which affecting ptorivion expires (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(1)(3)](https://www.legislation.gov.uk/asp/2021/19/section/2/1/3), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2) (with [sch. para. 1](https://www.legislation.gov.uk/asp/2021/19/schedule/paragraph/1)))
+[^c-3e2acc35179a6d2bcdc644bc8e8574c0]: Textual amendment: Reg. 27(1)(c) and word inserted (29.12.2014) by [The Looked After Children (Scotland) Amendment Regulations 2014 (S.S.I. 2014/310)](https://www.legislation.gov.uk/ssi/2014/310), [regs. 1](https://www.legislation.gov.uk/ssi/2014/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2014/310/regulation/2/4) (which affecting ptorivion expires (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(1)(3)](https://www.legislation.gov.uk/asp/2021/19/section/2/1/3), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2) (with [sch. para. 1](https://www.legislation.gov.uk/asp/2021/19/schedule/paragraph/1)))

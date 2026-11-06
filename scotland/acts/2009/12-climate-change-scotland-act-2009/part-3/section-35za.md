@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35ZA. Preparation of climate change plan: public consultation[^key-36a69754b23e7292bcf0e26980eadc17][^key-0c5b09b3459f04a18cc69ccc38e8c864]
+## 35ZA. Preparation of climate change plan: public consultation[^c-36a69754b23e7292bcf0e26980eadc17][^c-0c5b09b3459f04a18cc69ccc38e8c864]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36a69754b23e7292bcf0e26980eadc17]: Textual amendment: [S. 35ZA](https://www.legislation.gov.uk/asp/2009/12/section/35ZA) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 6(2)](https://www.legislation.gov.uk/asp/2024/15/section/6/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-36a69754b23e7292bcf0e26980eadc17]: Textual amendment: [S. 35ZA](https://www.legislation.gov.uk/asp/2009/12/section/35ZA) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 6(2)](https://www.legislation.gov.uk/asp/2024/15/section/6/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

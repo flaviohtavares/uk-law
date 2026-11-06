@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8A. Duty to promote awareness of biodiversity[^key-76e16d53bde89a2f5324fab774325e3c]
+## 8A. Duty to promote awareness of biodiversity[^c-76e16d53bde89a2f5324fab774325e3c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers must take steps to promote awareness in Wales of the importa
 
 ## Annotations
 
-[^key-76e16d53bde89a2f5324fab774325e3c]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/anaw/2016/3/section/8A) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 40(2)](https://www.legislation.gov.uk/asc/2026/4/section/40/2), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-76e16d53bde89a2f5324fab774325e3c]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/anaw/2016/3/section/8A) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 40(2)](https://www.legislation.gov.uk/asc/2026/4/section/40/2), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)

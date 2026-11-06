@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Limited partnerships: regulations[^key-8fd994fd18c603d351b43397a39790e7]
+## 151. Limited partnerships: regulations[^c-8fd994fd18c603d351b43397a39790e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ After section 37 of the Limited Partnerships Act 1907 (inserted by section 148 o
 
 ## Annotations
 
-[^key-8fd994fd18c603d351b43397a39790e7]: Commencement: S. 151 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-8fd994fd18c603d351b43397a39790e7]: Commencement: S. 151 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

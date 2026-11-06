@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where any international agreement to which the United Kingdom is a party or an[^key-6669a450f00cb8b06c797c9d60a68c57] EU obligation provides—
+(1) Where any international agreement to which the United Kingdom is a party or an[^c-6669a450f00cb8b06c797c9d60a68c57] EU obligation provides—
 
 - (a) for markings to be applied—
   - (i) to motor vehicle parts of any description to indicate conformity with a type approved by any country, or
@@ -43,7 +43,7 @@ the Secretary of State may by regulations designate the markings as approval mar
 
 ## Annotations
 
-[^key-6669a450f00cb8b06c797c9d60a68c57]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-6669a450f00cb8b06c797c9d60a68c57]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c19870771]: Textual amendment: Words in s. 80(1) repealed (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(1)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/1/3), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/46/a), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 

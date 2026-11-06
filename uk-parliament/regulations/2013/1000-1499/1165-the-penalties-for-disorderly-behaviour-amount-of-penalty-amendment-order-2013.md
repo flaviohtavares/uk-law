@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Penalties for Disorderly Behaviour (Amount of Penalty) (Amendment) Order 2013 (revoked)[^key-2d498b007000d84353991eeab86efbed]
+The Penalties for Disorderly Behaviour (Amount of Penalty) (Amendment) Order 2013 (revoked)[^c-2d498b007000d84353991eeab86efbed]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2013
 
-[^key-2d498b007000d84353991eeab86efbed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d498b007000d84353991eeab86efbed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2d498b007000d84353991eeab86efbed]
+## 1. Citation and commencement[^c-2d498b007000d84353991eeab86efbed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Penalties for Disorderly Behaviour (Amount of Penalty) Order 2002[^key-2d498b007000d84353991eeab86efbed]
+## 2. Amendments to the Penalties for Disorderly Behaviour (Amount of Penalty) Order 2002[^c-2d498b007000d84353991eeab86efbed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d498b007000d84353991eeab86efbed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d498b007000d84353991eeab86efbed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2d498b007000d84353991eeab86efbed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d498b007000d84353991eeab86efbed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d498b007000d84353991eeab86efbed]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/1165) revoked (1.7.2013) by [The Penalties for Disorderly Behaviour (Amount of Penalty) (Amendment) (No. 2) Order 2013 (S.I. 2013/1579)](https://www.legislation.gov.uk/uksi/2013/1579), [art. 2](https://www.legislation.gov.uk/uksi/2013/1579/article/2)
+[^c-2d498b007000d84353991eeab86efbed]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/1165) revoked (1.7.2013) by [The Penalties for Disorderly Behaviour (Amount of Penalty) (Amendment) (No. 2) Order 2013 (S.I. 2013/1579)](https://www.legislation.gov.uk/uksi/2013/1579), [art. 2](https://www.legislation.gov.uk/uksi/2013/1579/article/2)

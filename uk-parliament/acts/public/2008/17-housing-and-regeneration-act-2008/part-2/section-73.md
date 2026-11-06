@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Leaving the social housing stock: sale[^key-5317f5c4aa81548eca4d9d78c57afce2][^key-eec88bbb3acec539543b0007d69ffb55]
+## 73. Leaving the social housing stock: sale[^c-5317f5c4aa81548eca4d9d78c57afce2][^c-eec88bbb3acec539543b0007d69ffb55]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5317f5c4aa81548eca4d9d78c57afce2]: Commencement: S. 73 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-5317f5c4aa81548eca4d9d78c57afce2]: Commencement: S. 73 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-eec88bbb3acec539543b0007d69ffb55]: Commencement: S. 73 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-eec88bbb3acec539543b0007d69ffb55]: Commencement: S. 73 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

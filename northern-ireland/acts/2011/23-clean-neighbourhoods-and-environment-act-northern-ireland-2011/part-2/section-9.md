@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Disposal of removed vehicle by district council[^key-14ddc9b9ae053f4f034e729a4d21f8ca]
+## 9. Disposal of removed vehicle by district council[^c-14ddc9b9ae053f4f034e729a4d21f8ca]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14ddc9b9ae053f4f034e729a4d21f8ca]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/23/section/9) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-14ddc9b9ae053f4f034e729a4d21f8ca]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/23/section/9) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

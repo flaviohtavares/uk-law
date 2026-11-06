@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 68. Rates of short-term incapacity benefit[^key-a7534e7df74ca1ca6d7fb47dd1e40000]
+## 68. Rates of short-term incapacity benefit[^c-a7534e7df74ca1ca6d7fb47dd1e40000]
 
 For subsection (4) of section 44 of the Contributions and Benefits Act (Category A retirement pension) there shall be substituted the following subsection—
 
@@ -24,4 +24,4 @@ For subsection (4) of section 44 of the Contributions and Benefits Act (Category
 
 ## Annotations
 
-[^key-a7534e7df74ca1ca6d7fb47dd1e40000]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/1998/14/section/68) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)
+[^c-a7534e7df74ca1ca6d7fb47dd1e40000]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/1998/14/section/68) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)

@@ -32,7 +32,7 @@ summary: ''
 
 environmental protection
 
-The Air Quality Standards Regulations 2007 (revoked)[^key-485e3a5db5560debee05c99a8b7974dc]
+The Air Quality Standards Regulations 2007 (revoked)[^c-485e3a5db5560debee05c99a8b7974dc]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 15th February 2007
 
-[^key-485e3a5db5560debee05c99a8b7974dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-485e3a5db5560debee05c99a8b7974dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 1 — General[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
@@ -58,11 +58,11 @@ Coming into force
 - [Section 2 — Definitions](part-1/section-2.md)
 - [Section 3 — Designation of Secretary of State](part-1/section-3.md)
 
-### PART 2 — Group A and Group B pollutants and ozone[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 2 — Group A and Group B pollutants and ozone[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Air Quality Standards[^key-485e3a5db5560debee05c99a8b7974dc]
+#### CHAPTER 1 — Air Quality Standards[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
@@ -70,7 +70,7 @@ Coming into force
 - [Section 5 — Zones and agglomerations](part-2/section-5.md)
 - [Section 6 — Air quality standards](part-2/section-6.md)
 
-#### CHAPTER 2 — Attainment of air quality standards[^key-485e3a5db5560debee05c99a8b7974dc]
+#### CHAPTER 2 — Attainment of air quality standards[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
@@ -78,14 +78,14 @@ Coming into force
 - [Section 8 — Improvement plans](part-2/section-8.md)
 - [Section 9 — Other improvement measures](part-2/section-9.md)
 
-#### CHAPTER 3 — Maintenance of air quality standards and action plans[^key-485e3a5db5560debee05c99a8b7974dc]
+#### CHAPTER 3 — Maintenance of air quality standards and action plans[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
 - [Section 10 — Maintenance of air quality standards](part-2/section-10.md)
 - [Section 11 — Action plans](part-2/section-11.md)
 
-#### CHAPTER 4 — Assessment[^key-485e3a5db5560debee05c99a8b7974dc]
+#### CHAPTER 4 — Assessment[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
@@ -95,7 +95,7 @@ Coming into force
 - [Section 15 — Sampling points](part-2/section-15.md)
 - [Section 16 — Other assessment requirements](part-2/section-16.md)
 
-### PART 3 — Other pollutants and background monitoring[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 3 — Other pollutants and background monitoring[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
@@ -104,7 +104,7 @@ Coming into force
 - [Section 19 — Monitoring of polycyclic aromatic hydrocarbons](part-3/section-19.md)
 - [Section 20 — Background monitoring](part-3/section-20.md)
 
-### PART 4 — Public information and participation[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 4 — Public information and participation[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
@@ -117,7 +117,7 @@ Coming into force
 - [Section 27 — Information on action and improvement plans](part-4/section-27.md)
 - [Section 28 — Public participation in improvement plans](part-4/section-28.md)
 
-### PART 5 — Final and miscellaneous provisions[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 5 — Final and miscellaneous provisions[^c-485e3a5db5560debee05c99a8b7974dc]
 
 **No longer in force.**
 
@@ -143,14 +143,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-485e3a5db5560debee05c99a8b7974dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-485e3a5db5560debee05c99a8b7974dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-485e3a5db5560debee05c99a8b7974dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-485e3a5db5560debee05c99a8b7974dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)
+[^c-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)

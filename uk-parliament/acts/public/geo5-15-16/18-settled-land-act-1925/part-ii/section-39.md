@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Regulations respecting sales.[^key-6853f5312bdc5c21e99218f4f8dcbaa4][^c6450541]
+## 39. Regulations respecting sales.[^c-6853f5312bdc5c21e99218f4f8dcbaa4][^c6450541]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ Provided that, unless the part of the terminable rent attributable to interest v
 
 ## Annotations
 
-[^key-6853f5312bdc5c21e99218f4f8dcbaa4]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/section/39) excluded (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 188](https://www.legislation.gov.uk/ukpga/2008/17/section/188), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-6853f5312bdc5c21e99218f4f8dcbaa4]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/section/39) excluded (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 188](https://www.legislation.gov.uk/ukpga/2008/17/section/188), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c6450541]: Modification: S. 39 excluded by [Housing Associations Act 1985 (c. 69, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/69), [s. 8(2)(3)](https://www.legislation.gov.uk/ukpga/1985/69/section/8/2/3)
 

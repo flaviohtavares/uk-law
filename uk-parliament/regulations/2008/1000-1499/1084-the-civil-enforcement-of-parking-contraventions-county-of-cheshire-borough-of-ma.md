@@ -52,11 +52,11 @@ The Secretary of State has consulted the chief officer of the Cheshire Police in
 
 Accordingly, the Secretary of State for Transport[^f00002] makes this Order:
 
-## 1. Citation and commencement[^key-e9afbeeb3001bf3e4cfdff0dd9aee04c]
+## 1. Citation and commencement[^c-e9afbeeb3001bf3e4cfdff0dd9aee04c]
 
 This Order may be cited as the Civil Enforcement of Parking Contraventions (County of Cheshire) (Borough of Macclesfield) Designation Order 2008 and shall come into force on 14th May 2008.
 
-## 2. Designation of civil enforcement area and special enforcement area[^key-6b2b99f7ac4f429c595b29d583a14449]
+## 2. Designation of civil enforcement area and special enforcement area[^c-6b2b99f7ac4f429c595b29d583a14449]
 
 The Secretary of State designates the area described in the Schedule to this Order as—
 
@@ -75,7 +75,7 @@ Department for Transport
 
 ## SCHEDULE — Areas designated as a civil enforcement area and a special enforcement area
 
-**1.**[^key-bf8a580385f215525332988be3674b3b] This Order applies to the Borough of Macclesfield except—
+**1.**[^c-bf8a580385f215525332988be3674b3b] This Order applies to the Borough of Macclesfield except—
 
 - (a) Motorway M6 for its entire length within the Borough including slip roads;
 - (b) Motorway M56 for its entire length within the Borough including slip roads; and
@@ -95,8 +95,8 @@ No Impact Assessment has been prepared for this instrument as it has no signific
 
 [^f00002]: Footnote: The Secretary of State is the “appropriate national authority” for England for the purposes of Part 6 of the Traffic Management Act 2004 under section 92 of that Act.
 
-[^key-e9afbeeb3001bf3e4cfdff0dd9aee04c]: Commencement: Art. 1 in force at 14.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1084/article/1)
+[^c-e9afbeeb3001bf3e4cfdff0dd9aee04c]: Commencement: Art. 1 in force at 14.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1084/article/1)
 
-[^key-6b2b99f7ac4f429c595b29d583a14449]: Commencement: Art. 2 in force at 14.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1084/article/1)
+[^c-6b2b99f7ac4f429c595b29d583a14449]: Commencement: Art. 2 in force at 14.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1084/article/1)
 
-[^key-bf8a580385f215525332988be3674b3b]: Commencement: Sch. para. 1 in force at 14.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1084/article/1)
+[^c-bf8a580385f215525332988be3674b3b]: Commencement: Sch. para. 1 in force at 14.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1084/article/1)

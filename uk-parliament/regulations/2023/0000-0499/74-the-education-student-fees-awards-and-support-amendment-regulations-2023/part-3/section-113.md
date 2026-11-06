@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Insertion of definition of “immigration rules”[^key-d048fa8628c64b178ae0711eee3b7f3d]
+## 113. Insertion of definition of “immigration rules”[^c-d048fa8628c64b178ae0711eee3b7f3d]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ In regulation 2(1) (interpretation)[^f00089]—
 
 ## Annotations
 
-[^key-d048fa8628c64b178ae0711eee3b7f3d]: Commencement: Reg. 113 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-d048fa8628c64b178ae0711eee3b7f3d]: Commencement: Reg. 113 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00089]: Footnote: Relevant amending instruments are [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142), [2020/48](https://www.legislation.gov.uk/uksi/2020/48), [2020/1203](https://www.legislation.gov.uk/uksi/2020/1203), [2022/57](https://www.legislation.gov.uk/uksi/2022/57), [2022/534](https://www.legislation.gov.uk/uksi/2022/534),
 

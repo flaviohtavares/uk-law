@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Guarantees in respect of payment of compensation[^key-a5802f1a384a57e18e62198717e8d82d]
+## 7. Guarantees in respect of payment of compensation[^c-a5802f1a384a57e18e62198717e8d82d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The authorised development must not be commenced and the undertaker must not beg
 
 ## Annotations
 
-[^key-a5802f1a384a57e18e62198717e8d82d]: Commencement: Art. 7 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-a5802f1a384a57e18e62198717e8d82d]: Commencement: Art. 7 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

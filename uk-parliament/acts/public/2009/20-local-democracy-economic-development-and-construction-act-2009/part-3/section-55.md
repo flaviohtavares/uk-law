@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Local Government Boundary Commission for England[^key-4b5b913d5133edfbab29aa546c559f35]
+## 55. Local Government Boundary Commission for England[^c-4b5b913d5133edfbab29aa546c559f35]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b5b913d5133edfbab29aa546c559f35]: Commencement: S. 55 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(d)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/d)
+[^c-4b5b913d5133edfbab29aa546c559f35]: Commencement: S. 55 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(d)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/d)

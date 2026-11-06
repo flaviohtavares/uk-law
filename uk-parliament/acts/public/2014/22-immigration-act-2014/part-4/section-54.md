@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Supplementary provision[^key-10e8138cc96dd8e729f9e44c3aff4bd1]
+## 54. Supplementary provision[^c-10e8138cc96dd8e729f9e44c3aff4bd1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4d73ac57c1644fe15e7cf2b9c4c3cca1] This section applies if the referral and investigation scheme is extended by an order under section 53 (an “extension order”).
+(1)[^c-4d73ac57c1644fe15e7cf2b9c4c3cca1] This section applies if the referral and investigation scheme is extended by an order under section 53 (an “extension order”).
 
 (2) The Secretary of State may make administrative regulations in connection with the application of the scheme—
 
@@ -45,10 +45,10 @@ in relation to proposed marriages or civil partnerships under the law of Scotlan
 - (a) the Registrar General for Scotland before making administrative regulations, or an order under subsection (4), in relation to proposed marriages or civil partnerships under the law of Scotland;
 - (b) the Registrar General for Northern Ireland before making administrative regulations, or an order under subsection (4), in relation to proposed marriages or civil partnerships under the law of Northern Ireland.
 
-(8)[^key-4d73ac57c1644fe15e7cf2b9c4c3cca1] Expressions used in this section or Schedule 5 that are also used in section 53 have the same meanings in this section or Schedule 5 as in section 53.
+(8)[^c-4d73ac57c1644fe15e7cf2b9c4c3cca1] Expressions used in this section or Schedule 5 that are also used in section 53 have the same meanings in this section or Schedule 5 as in section 53.
 
 ## Annotations
 
-[^key-10e8138cc96dd8e729f9e44c3aff4bd1]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/22/section/54) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/g)
+[^c-10e8138cc96dd8e729f9e44c3aff4bd1]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/22/section/54) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/g)
 
-[^key-4d73ac57c1644fe15e7cf2b9c4c3cca1]: Commencement: [S. 54(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/54/1)[(8)](https://www.legislation.gov.uk/ukpga/2014/22/section/54/8) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/h)
+[^c-4d73ac57c1644fe15e7cf2b9c4c3cca1]: Commencement: [S. 54(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/54/1)[(8)](https://www.legislation.gov.uk/ukpga/2014/22/section/54/8) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/h)

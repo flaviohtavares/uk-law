@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Marriage according to religious rites: no compulsion to solemnize etc[^key-633fb19efb053a6da21761866ee2ccef]
+## 2. Marriage according to religious rites: no compulsion to solemnize etc[^c-633fb19efb053a6da21761866ee2ccef]
 
 *Extent: E+W*
 
-(1)[^key-c7d4a71a7b278d72accbc8ce18776e94] A person may not be compelled by any means (including by the enforcement of a contract or a statutory or other legal requirement) to—
+(1)[^c-c7d4a71a7b278d72accbc8ce18776e94] A person may not be compelled by any means (including by the enforcement of a contract or a statutory or other legal requirement) to—
 
 - (a) undertake an opt-in activity, or
 - (b) refrain from undertaking an opt-out activity.
 
-(2)[^key-c7d4a71a7b278d72accbc8ce18776e94] A person may not be compelled by any means (including by the enforcement of a contract or a statutory or other legal requirement)—
+(2)[^c-c7d4a71a7b278d72accbc8ce18776e94] A person may not be compelled by any means (including by the enforcement of a contract or a statutory or other legal requirement)—
 
 - (a) to conduct a relevant marriage,
 - (b) to be present at, carry out, or otherwise participate in, a relevant marriage, or
@@ -33,7 +33,7 @@ summary: ''
 
 where the reason for the person not doing that thing is that the relevant marriage concerns a same sex couple.
 
-(3)[^key-c7d4a71a7b278d72accbc8ce18776e94] In this section—
+(3)[^c-c7d4a71a7b278d72accbc8ce18776e94] In this section—
 
 - “**opt-in activity**” means an activity of the kind specified in an entry in the first column of the following table which falls to be undertaken for the purposes of any enactment specified in the corresponding entry in the second column;
 - “**opt-out activity**” means an activity which reverses, or otherwise modifies, the effect of an opt-in activity.
@@ -46,7 +46,7 @@ where the reason for the person not doing that thing is that the relevant marria
 | Being authorised to be present at the solemnization of marriages of same sex couples in a building registered under section 43A of the 1949 Act | Section 43B of the 1949 Act |
 | Giving a certificate, giving a copy of a consent, or certifying any matter | Any of these provisions of the 1949 Act:<br>- (a) section 43A(3);<br>- (b) section 43B(2);<br>- (c) section 44A(7) |
 
-(4)[^key-c7d4a71a7b278d72accbc8ce18776e94] In this section—
+(4)[^c-c7d4a71a7b278d72accbc8ce18776e94] In this section—
 
 - “**1949 Act**” means the Marriage Act 1949;
 - “**armed forces overseas marriage Order**” means an Order in Council under Part 3 of Schedule 6;
@@ -99,6 +99,6 @@ where the reason for the person not doing that thing is that the relevant marria
 
 ## Annotations
 
-[^key-633fb19efb053a6da21761866ee2ccef]: Commencement: S. 2 in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-633fb19efb053a6da21761866ee2ccef]: Commencement: S. 2 in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
 
-[^key-c7d4a71a7b278d72accbc8ce18776e94]: Extent: S. 2(1)-(4) (so far as relating to Orders in Council under Sch. 6 Pt. 3) extended to N.I. (1.9.2020) by [s. 20(3)(za)](https://www.legislation.gov.uk/ukpga/2013/30/section/20/3/za) and [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2020/742/regulation/13/1)
+[^c-c7d4a71a7b278d72accbc8ce18776e94]: Extent: S. 2(1)-(4) (so far as relating to Orders in Council under Sch. 6 Pt. 3) extended to N.I. (1.9.2020) by [s. 20(3)(za)](https://www.legislation.gov.uk/ukpga/2013/30/section/20/3/za) and [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2020/742/regulation/13/1)

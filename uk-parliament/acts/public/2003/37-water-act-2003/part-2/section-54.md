@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Determination references under section 12 of the WIA[^key-49b185be9802490fa00c228e01f500fe]
+## 54. Determination references under section 12 of the WIA[^c-49b185be9802490fa00c228e01f500fe]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49b185be9802490fa00c228e01f500fe]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2003/37/section/54) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/h) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/5)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)) (which transitional provisions in Sch. para. 5 are revoked (1.10.2005) by S.I. 2007/1021, art. 3(1)(a)(2))
+[^c-49b185be9802490fa00c228e01f500fe]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2003/37/section/54) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/h) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/5)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)) (which transitional provisions in Sch. para. 5 are revoked (1.10.2005) by S.I. 2007/1021, art. 3(1)(a)(2))

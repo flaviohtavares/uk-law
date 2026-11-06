@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2217be308a7e444dbed16d53d0d35ef1] Each Local Health Board must, in respect of each three-year accounting period, perform its functions so as to secure that its expenditure which is attributable to the performance by it of its functions in that period (not including its general ophthalmic services expenditure) does not exceed the aggregate of—
+(1)[^c-2217be308a7e444dbed16d53d0d35ef1] Each Local Health Board must, in respect of each three-year accounting period, perform its functions so as to secure that its expenditure which is attributable to the performance by it of its functions in that period (not including its general ophthalmic services expenditure) does not exceed the aggregate of—
 
 - (a) the amount allotted to it for each financial year in that period under section 174(1)(b),
 - (b) any sums received by it in each financial year in that period under any other provision of this Act, and
@@ -28,14 +28,14 @@ summary: ''
 
 by an amount that is more than is determined in writing by the Welsh Ministers.
 
-(2)[^key-49074770e5745b9ddf7865c45f511df6] The Welsh Ministers must give directions to a Local Health Board requiring it—
+(2)[^c-49074770e5745b9ddf7865c45f511df6] The Welsh Ministers must give directions to a Local Health Board requiring it—
 
 - (a) to prepare a plan which sets out its strategy for securing that it complies with the duty under subsection (1) while improving—
   - (i) the health of the people for whom it is responsible, and
   - (ii) the provision of health care to such people;
 - (b) to do such other things as appear to be requisite to secure that it complies with that duty.
 
-(2A)[^key-154571a2b9d06860d99a7ab5d82d55ce] A Local Health Board does not comply with a direction given to it under subsection (2)(a) unless the plan prepared in accordance with that direction has been submitted to and approved by the Welsh Ministers.
+(2A)[^c-154571a2b9d06860d99a7ab5d82d55ce] A Local Health Board does not comply with a direction given to it under subsection (2)(a) unless the plan prepared in accordance with that direction has been submitted to and approved by the Welsh Ministers.
 
 (3) To the extent to which—
 
@@ -54,20 +54,20 @@ that expenditure and, subject to subsection (5) those sums, must be disregarded 
 - (b) whether specified expenditure must, or must not, be treated for those purposes as expenditure within subsection (1) of a specified Local Health Board, or
 - (c) the extent to which, and the circumstances in which, sums received by a Local Health Board under section 174 but not yet spent must be treated for the purposes of this section as part of the expenditure of the Local Health Board and to which financial year's expenditure they must be attributed.
 
-(6A)[^key-6893d8de4e0c7b6e8f37f4202881494e] The Welsh Ministers must, in relation to each three-year accounting period, report to the National Assembly for Wales before the end of the financial year following that period on whether each Local Health Board has complied with the duty under subsection (1).
+(6A)[^c-6893d8de4e0c7b6e8f37f4202881494e] The Welsh Ministers must, in relation to each three-year accounting period, report to the National Assembly for Wales before the end of the financial year following that period on whether each Local Health Board has complied with the duty under subsection (1).
 
 (7) “**Specified**” means of a description specified in the directions.
 
-(8)[^key-25a0ae97c55d3af5a5b14b15651237cd] Three-year accounting period” means a period of three years which begins with the first day of a financial year, so that the first begins with 1 April 2014 and ends with 31 March 2017 and the second begins with 1 April 2015 and ends with 31 March 2018 (and so on).
+(8)[^c-25a0ae97c55d3af5a5b14b15651237cd] Three-year accounting period” means a period of three years which begins with the first day of a financial year, so that the first begins with 1 April 2014 and ends with 31 March 2017 and the second begins with 1 April 2015 and ends with 31 March 2018 (and so on).
 
 ## Annotations
 
-[^key-2217be308a7e444dbed16d53d0d35ef1]: Textual amendment: [S. 175(1)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/1) substituted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(2)](https://www.legislation.gov.uk/anaw/2014/2/section/2/2), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-2217be308a7e444dbed16d53d0d35ef1]: Textual amendment: [S. 175(1)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/1) substituted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(2)](https://www.legislation.gov.uk/anaw/2014/2/section/2/2), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
-[^key-49074770e5745b9ddf7865c45f511df6]: Textual amendment: [S. 175(2)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/2) substituted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(3)](https://www.legislation.gov.uk/anaw/2014/2/section/2/3), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-49074770e5745b9ddf7865c45f511df6]: Textual amendment: [S. 175(2)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/2) substituted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(3)](https://www.legislation.gov.uk/anaw/2014/2/section/2/3), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
-[^key-154571a2b9d06860d99a7ab5d82d55ce]: Textual amendment: [S. 175(2A)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/2A) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(4)](https://www.legislation.gov.uk/anaw/2014/2/section/2/4), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-154571a2b9d06860d99a7ab5d82d55ce]: Textual amendment: [S. 175(2A)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/2A) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(4)](https://www.legislation.gov.uk/anaw/2014/2/section/2/4), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
-[^key-6893d8de4e0c7b6e8f37f4202881494e]: Textual amendment: [S. 175(6A)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/6A) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(5)](https://www.legislation.gov.uk/anaw/2014/2/section/2/5), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-6893d8de4e0c7b6e8f37f4202881494e]: Textual amendment: [S. 175(6A)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/6A) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(5)](https://www.legislation.gov.uk/anaw/2014/2/section/2/5), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
-[^key-25a0ae97c55d3af5a5b14b15651237cd]: Textual amendment: [S. 175(8)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/8) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(6)](https://www.legislation.gov.uk/anaw/2014/2/section/2/6), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-25a0ae97c55d3af5a5b14b15651237cd]: Textual amendment: [S. 175(8)](https://www.legislation.gov.uk/ukpga/2006/42/section/175/8) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(6)](https://www.legislation.gov.uk/anaw/2014/2/section/2/6), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)

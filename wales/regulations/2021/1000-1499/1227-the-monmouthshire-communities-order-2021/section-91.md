@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Crucorney — community ward electoral arrangements[^key-0e78cd87355513e46d36e81b00e7e121][^key-e422e83ee5d4e1ff8af89c1ce33bce39]
+## 91. Crucorney — community ward electoral arrangements[^c-0e78cd87355513e46d36e81b00e7e121][^c-e422e83ee5d4e1ff8af89c1ce33bce39]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In the community of Crucorney the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-0e78cd87355513e46d36e81b00e7e121]: Commencement: Art. 91 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-0e78cd87355513e46d36e81b00e7e121]: Commencement: Art. 91 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-e422e83ee5d4e1ff8af89c1ce33bce39]: Commencement: [Art. 91](https://www.legislation.gov.uk/wsi/2021/1227/article/91) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-e422e83ee5d4e1ff8af89c1ce33bce39]: Commencement: [Art. 91](https://www.legislation.gov.uk/wsi/2021/1227/article/91) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

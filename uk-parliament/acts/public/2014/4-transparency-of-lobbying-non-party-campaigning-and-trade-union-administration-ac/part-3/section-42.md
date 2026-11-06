@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Investigatory powers[^key-2728df3f04648920b54190ef40fb16ab]
+## 42. Investigatory powers[^c-2728df3f04648920b54190ef40fb16ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,4 +133,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2728df3f04648920b54190ef40fb16ab]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/4/section/42) in force at 1.6.2016 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/717/article/4/a)
+[^c-2728df3f04648920b54190ef40fb16ab]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/4/section/42) in force at 1.6.2016 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/717/article/4/a)

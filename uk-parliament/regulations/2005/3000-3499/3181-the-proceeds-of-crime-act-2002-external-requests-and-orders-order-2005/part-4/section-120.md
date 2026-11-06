@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Sums received by appropriate chief clerk[^key-818bfbbbed7355c6895282908e01280b]
+## 120. Sums received by appropriate chief clerk[^c-818bfbbbed7355c6895282908e01280b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 - (a) first, in payment of the remuneration and expenses of a receiver appointed under article 101 to the extent that they have not been met by virtue of the exercise by that receiver of a power conferred under article 102(2)(d);
 - (b) second, in payment of the remuneration and expenses of the receiver appointed under article 113;
-- (c)[^key-7067c373cd6959eb3866e8aa3cca424c] third, in payment to an appropriate officer of any amount to which the officer is entitled by virtue of article 134B(3).
+- (c)[^c-7067c373cd6959eb3866e8aa3cca424c] third, in payment to an appropriate officer of any amount to which the officer is entitled by virtue of article 134B(3).
 
 (5) If any amount remains after the appropriate chief clerk makes any payments required by the preceding provisions of this article, the amount must be treated for the purposes of section 20 of the Administration of Justice Act (Northern Ireland) 1954[^f00079] (application of fines) as if it were a fine.
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-818bfbbbed7355c6895282908e01280b]: Commencement: [Art. 120](https://www.legislation.gov.uk/uksi/2005/3181/article/120) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-818bfbbbed7355c6895282908e01280b]: Commencement: [Art. 120](https://www.legislation.gov.uk/uksi/2005/3181/article/120) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-7067c373cd6959eb3866e8aa3cca424c]: Textual amendment: [Art. 120(4)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/120/4/c) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [30](https://www.legislation.gov.uk/uksi/2016/662/article/30)
+[^c-7067c373cd6959eb3866e8aa3cca424c]: Textual amendment: [Art. 120(4)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/120/4/c) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [30](https://www.legislation.gov.uk/uksi/2016/662/article/30)
 
 [^f00079]: Footnote: [1954 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1954/9).

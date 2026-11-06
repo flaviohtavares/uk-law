@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) It is the duty of the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-cf5ecd810a65e6cac72fed2c848f1cd8] Office of Rail and Road *(Extent: E+W+S)* to make adequate arrangements for the enforcement of these Regulations in Great Britain.
+(1) It is the duty of the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-cf5ecd810a65e6cac72fed2c848f1cd8] Office of Rail and Road *(Extent: E+W+S)* to make adequate arrangements for the enforcement of these Regulations in Great Britain.
 
 (2) Subject to paragraph (5), the provisions of the 1974 Act specified in paragraph (3) (the “specified provisions”) apply for the purposes of the enforcement of these Regulations in Great Britain as if in the specified provision—
 
-- (a) a reference to the “**enforcing authority**” was a reference to the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-cf5ecd810a65e6cac72fed2c848f1cd8] Office of Rail and Road *(Extent: E+W+S)*;
+- (a) a reference to the “**enforcing authority**” was a reference to the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-cf5ecd810a65e6cac72fed2c848f1cd8] Office of Rail and Road *(Extent: E+W+S)*;
 - (b) a reference to the “**relevant statutory provisions**” was a reference to these Regulations and to the specified provisions; and
 - (c) a reference to “health and safety regulations” was a reference to these Regulations.
 
@@ -47,11 +47,11 @@ summary: ''
 | An offence under section 33(1)(h). | Summarily only. | Imprisonment for a term not exceeding 3 months, or a fine not exceeding level 5 on the standard scale as it has effect from time to time, or both. |  |
 | An offence under section 33(1)(n). | Summarily only. | A fine not exceeding level 5 on the standard scale as it has effect from time to time. |  |
 
-(5) A failure to discharge a duty placed on the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-cf5ecd810a65e6cac72fed2c848f1cd8] Office of Rail and Road *(Extent: E+W+S)*, the Secretary of State, or the Intergovernmental Commission by these Regulations is not an offence under section 33(1)(c) of the 1974 Act.
+(5) A failure to discharge a duty placed on the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-cf5ecd810a65e6cac72fed2c848f1cd8] Office of Rail and Road *(Extent: E+W+S)*, the Secretary of State, or the Intergovernmental Commission by these Regulations is not an offence under section 33(1)(c) of the 1974 Act.
 
 ## Annotations
 
-[^key-cf5ecd810a65e6cac72fed2c848f1cd8]: Textual amendment: Words in reg. 39 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/9/c)
+[^c-cf5ecd810a65e6cac72fed2c848f1cd8]: Textual amendment: Words in reg. 39 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/9/c)
 
 [^c21139591]: Marginal citation: Section 20(7) was amended by the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), [Schedule 27](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27), [paragraph 49](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/49).
 

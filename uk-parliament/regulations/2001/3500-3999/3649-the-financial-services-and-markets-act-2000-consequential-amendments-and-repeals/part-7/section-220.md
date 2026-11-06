@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Meaning of “securities”[^key-0ad7e75b1de80839d0faada7a34c4477]
+## 220. Meaning of “securities”[^c-0ad7e75b1de80839d0faada7a34c4477]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ad7e75b1de80839d0faada7a34c4477]: Commencement: Art. 220 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0ad7e75b1de80839d0faada7a34c4477]: Commencement: Art. 220 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00160]: Footnote: The definition of “securities” was substituted by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 92(22).

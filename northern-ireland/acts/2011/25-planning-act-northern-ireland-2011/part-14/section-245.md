@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 245. Registration of matters in Statutory Charges Register[^key-98c8a96f56cc675ac22f7482aeaa21a4][^key-8e4f66fa503ae9f8798fc5784ee4a0c7]
+## 245. Registration of matters in Statutory Charges Register[^c-98c8a96f56cc675ac22f7482aeaa21a4][^c-8e4f66fa503ae9f8798fc5784ee4a0c7]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ In Schedule 11 to the Land Registration Act (Northern Ireland) 1970 (c. 18) (mat
 
 ## Annotations
 
-[^key-98c8a96f56cc675ac22f7482aeaa21a4]: Commencement: S. 245 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-98c8a96f56cc675ac22f7482aeaa21a4]: Commencement: S. 245 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-8e4f66fa503ae9f8798fc5784ee4a0c7]: Commencement: S. 245 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-8e4f66fa503ae9f8798fc5784ee4a0c7]: Commencement: S. 245 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Valuation for Rating (Wales) (Coronavirus) Regulations 2021 (revoked)[^key-e55718fb4d492cc4533926553665fd25]
+The Valuation for Rating (Wales) (Coronavirus) Regulations 2021 (revoked)[^c-e55718fb4d492cc4533926553665fd25]
 
 Made
 
@@ -45,19 +45,19 @@ Coming into force
 
 at 6.00 p.m. on 1 November 2021
 
-[^key-e55718fb4d492cc4533926553665fd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e55718fb4d492cc4533926553665fd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-e55718fb4d492cc4533926553665fd25]
+## 1. Title, commencement and application[^c-e55718fb4d492cc4533926553665fd25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Valuation of hereditaments[^key-e55718fb4d492cc4533926553665fd25]
+## 2. Valuation of hereditaments[^c-e55718fb4d492cc4533926553665fd25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e55718fb4d492cc4533926553665fd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e55718fb4d492cc4533926553665fd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -75,4 +75,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-e55718fb4d492cc4533926553665fd25]: Textual amendment: Regulations revoked (15.12.2021) by [The Valuation for Rating (Wales) (Coronavirus) (Revocation) Regulations 2021 (S.I. 2021/1306)](https://www.legislation.gov.uk/uksi/2021/1306), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1306/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1306/regulation/2)
+[^c-e55718fb4d492cc4533926553665fd25]: Textual amendment: Regulations revoked (15.12.2021) by [The Valuation for Rating (Wales) (Coronavirus) (Revocation) Regulations 2021 (S.I. 2021/1306)](https://www.legislation.gov.uk/uksi/2021/1306), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1306/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1306/regulation/2)

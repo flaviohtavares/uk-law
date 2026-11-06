@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Repeal of redundant provisions[^key-e4b5006808e69bd18bfc63433c53f986]
+## 66. Repeal of redundant provisions[^c-e4b5006808e69bd18bfc63433c53f986]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The following provisions (which relate to the Local Government Commission for En
 
 ## Annotations
 
-[^key-e4b5006808e69bd18bfc63433c53f986]: Commencement: S. 66 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(m)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/m)
+[^c-e4b5006808e69bd18bfc63433c53f986]: Commencement: S. 66 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(m)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/m)

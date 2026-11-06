@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Other pardons for convictions etc of certain abolished offences: Northern Ireland[^c22720061][^key-7ddb7d6424d02ac2599af6f7910d3653]
+## 170. Other pardons for convictions etc of certain abolished offences: Northern Ireland[^c22720061][^c-7ddb7d6424d02ac2599af6f7910d3653]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c22720061]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2017/3/section/170) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-7ddb7d6424d02ac2599af6f7910d3653]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2017/3/section/170) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/128/article/2/c)
+[^c-7ddb7d6424d02ac2599af6f7910d3653]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2017/3/section/170) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/128/article/2/c)

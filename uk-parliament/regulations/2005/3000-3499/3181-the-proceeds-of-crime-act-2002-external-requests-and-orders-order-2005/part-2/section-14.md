@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Supplementary (restraint orders)[^key-d2d9a51efbb68c9d172b674123094fac]
+## 14. Supplementary (restraint orders)[^c-d2d9a51efbb68c9d172b674123094fac]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d2d9a51efbb68c9d172b674123094fac]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2005/3181/article/14) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d2d9a51efbb68c9d172b674123094fac]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2005/3181/article/14) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00014]: Footnote: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 

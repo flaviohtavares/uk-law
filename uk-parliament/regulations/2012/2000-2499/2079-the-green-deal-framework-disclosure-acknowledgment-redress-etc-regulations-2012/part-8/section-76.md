@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Recovery of compensation and financial penalties[^key-3b38e53e12f4ccfdd5175ce2c121d074]
+## 76. Recovery of compensation and financial penalties[^c-3b38e53e12f4ccfdd5175ce2c121d074]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b38e53e12f4ccfdd5175ce2c121d074]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2012/2079/regulation/76) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-3b38e53e12f4ccfdd5175ce2c121d074]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2012/2079/regulation/76) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

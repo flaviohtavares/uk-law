@@ -28,7 +28,7 @@ summary: ''
 - (b) the requirements of vessels in, or passing to or from, the inland bay (including the need to have freedom of access to moorings and berths in the inland bay), and
 - (c) the desirability of developing and conserving flora and fauna in the inland bay.
 
-(3) The Development Corporation shall consult the Natural Resources Body for Wales[^key-76674cf1d2b5fef03d6cfc80bc188a21] to seek their view as to ways in which the barrage may be operated so as to develop and conserve flora and fauna in the inland bay.
+(3) The Development Corporation shall consult the Natural Resources Body for Wales[^c-76674cf1d2b5fef03d6cfc80bc188a21] to seek their view as to ways in which the barrage may be operated so as to develop and conserve flora and fauna in the inland bay.
 
 (4) Where any vessels seem likely to be affected by being endangered, or having their navigation interfered with, in consequence of any proposed operation of the barrage, the Development Corporation shall give notice of what is proposed to—
 
@@ -49,4 +49,4 @@ occasioned by the operation of the barrage, unless the costs, damages or expense
 
 ## Annotations
 
-[^key-76674cf1d2b5fef03d6cfc80bc188a21]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/1993/42/section/9/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 350](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/350) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-76674cf1d2b5fef03d6cfc80bc188a21]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/1993/42/section/9/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 350](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/350) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

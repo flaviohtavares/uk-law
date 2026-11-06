@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Objects[^key-128eaa36a1ca3a970897bf75e4569001]
+## 2. Objects[^c-128eaa36a1ca3a970897bf75e4569001]
 
 *Extent: E+W*
 
@@ -29,11 +29,11 @@ summary: ''
 
 with a view to meeting the needs of people living in England.
 
-(1A)[^key-876617f3daf9a885149a531f101cd469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-876617f3daf9a885149a531f101cd469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In subsection (1)—
 
-- “[^key-8c0c55294bc134a74d865709e68f8e9d] **England** ” does not include Greater London;
+- “[^c-8c0c55294bc134a74d865709e68f8e9d] **England** ” does not include Greater London;
 - “ **good design** ” includes design which has due regard to the needs of elderly persons and disabled persons,
 - “ **needs** ” includes future needs,
 
@@ -45,7 +45,7 @@ and the reference to improving the supply of housing includes a reference to imp
 - “ **caravan** ” has the meaning given by section 29(1) of the Caravan Sites and Control of Development Act 1960 (c. 2),
 - “ **housing** ” means a building, or part of a building, occupied or intended to be occupied as a dwelling or as more than one dwelling; and includes a hostel which provides temporary residential accommodation,
 - “ **infrastructure** ” includes—
-  - (a) water, electricity, gas, electronic communications[^key-f7a5d436d49048658e68694db3ba795a], sewerage or other services,
+  - (a) water, electricity, gas, electronic communications[^c-f7a5d436d49048658e68694db3ba795a], sewerage or other services,
   - (b) roads or other transport facilities,
   - (c) retail or other business facilities,
   - (d) health, educational, employment or training facilities,
@@ -60,10 +60,10 @@ and references to housing include (where the context permits) any yard, garden, 
 
 ## Annotations
 
-[^key-128eaa36a1ca3a970897bf75e4569001]: Commencement: S. 2 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-128eaa36a1ca3a970897bf75e4569001]: Commencement: S. 2 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
 
-[^key-876617f3daf9a885149a531f101cd469]: Textual amendment: S. 2(1A) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-876617f3daf9a885149a531f101cd469]: Textual amendment: S. 2(1A) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-8c0c55294bc134a74d865709e68f8e9d]: Textual amendment: Words in s. 2(2) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 189(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/189/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(f)](https://www.legislation.gov.uk/uksi/2012/628/article/6/f) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-8c0c55294bc134a74d865709e68f8e9d]: Textual amendment: Words in s. 2(2) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 189(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/189/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(f)](https://www.legislation.gov.uk/uksi/2012/628/article/6/f) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-f7a5d436d49048658e68694db3ba795a]: Textual amendment: Words in s. 2(3) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/51); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-f7a5d436d49048658e68694db3ba795a]: Textual amendment: Words in s. 2(3) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/51); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19B. Applications under this Act[^key-d0b83e1e2213d88fc942346e3e9eed41]
+## 19B. Applications under this Act[^c-d0b83e1e2213d88fc942346e3e9eed41]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0b83e1e2213d88fc942346e3e9eed41]: Textual amendment: Ss. 19-19B substituted for s. 19 (6.4.2009 for specified purposes, 1.10.2009 for remaining purposes) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 19](https://www.legislation.gov.uk/ukpga/2008/22/section/19), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 5(b)(h)](https://www.legislation.gov.uk/uksi/2009/479/article/5/b/h) (with [art. 7 Sch.](https://www.legislation.gov.uk/uksi/2009/479/article/7/schedule)); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(g)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/g)
+[^c-d0b83e1e2213d88fc942346e3e9eed41]: Textual amendment: Ss. 19-19B substituted for s. 19 (6.4.2009 for specified purposes, 1.10.2009 for remaining purposes) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 19](https://www.legislation.gov.uk/ukpga/2008/22/section/19), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 5(b)(h)](https://www.legislation.gov.uk/uksi/2009/479/article/5/b/h) (with [art. 7 Sch.](https://www.legislation.gov.uk/uksi/2009/479/article/7/schedule)); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(g)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/g)

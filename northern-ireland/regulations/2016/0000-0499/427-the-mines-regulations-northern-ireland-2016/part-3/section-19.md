@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. General duty[^key-c3d3bd69e43263572b0d03d938bcdbec]
+## 19. General duty[^c-c3d3bd69e43263572b0d03d938bcdbec]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3d3bd69e43263572b0d03d938bcdbec]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/427/regulation/19) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-c3d3bd69e43263572b0d03d938bcdbec]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/427/regulation/19) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

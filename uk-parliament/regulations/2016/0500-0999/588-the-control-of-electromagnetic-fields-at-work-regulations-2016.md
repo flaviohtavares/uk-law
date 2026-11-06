@@ -52,11 +52,11 @@ Before submitting those proposals to the Secretary of State, the Executive consu
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-29beff469210d00ab926e658c34bf5c1]
+### 1. Citation and commencement[^c-29beff469210d00ab926e658c34bf5c1]
 
 These Regulations may be cited as the Control of Electromagnetic Fields at Work Regulations 2016 and come into force on 1st July 2016.
 
-### 2. Interpretation[^key-176a1d1fef05a5307a26ecefb39c2114]
+### 2. Interpretation[^c-176a1d1fef05a5307a26ecefb39c2114]
 
 (1) In these Regulations—
 
@@ -74,13 +74,13 @@ These Regulations may be cited as the Control of Electromagnetic Fields at Work 
 
 (2) In these Regulations a reference to employees is, in relation to an employer, to be treated as a reference to the employees of that employer while they are at work.
 
-### 3. Application[^key-a9fa2105aa360661fe57b701dfb47c4c]
+### 3. Application[^c-a9fa2105aa360661fe57b701dfb47c4c]
 
 These Regulations do not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which are carried out solely by the crew under the direction of the master, and for the purposes of this regulation “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
 
 ## PART 2 — EXPOSURE AND RISK
 
-### 4. Limitation on exposure to electromagnetic fields[^key-3ecc3fb05839de6637b1a99758bae429]
+### 4. Limitation on exposure to electromagnetic fields[^c-3ecc3fb05839de6637b1a99758bae429]
 
 (1) Subject to paragraphs (2) and (3), an employer must ensure that employees are not exposed to electromagnetic field levels in excess of the ELVs.
 
@@ -103,7 +103,7 @@ These Regulations do not apply to the master or crew of a ship or to the employe
 - “Her Majesty’s armed forces” means the regular forces and the reserve forces as defined in section 374 of the Armed Forces Act 2006[^f00005];
 - “service authorities” and “visiting force” have the meaning given in section 12 of the Visiting Forces Act 1952[^f00006].
 
-### 5. Exposure assessment[^key-d2b0876326866556d4bc0811584025f8]
+### 5. Exposure assessment[^c-d2b0876326866556d4bc0811584025f8]
 
 (1) The employer must make a suitable and sufficient assessment of the levels of electromagnetic fields to which employees may be exposed.
 
@@ -126,7 +126,7 @@ These Regulations do not apply to the master or crew of a ship or to the employe
 
 and make such changes to it as are necessary to ensure it remains suitable and sufficient.
 
-### 6. Application of regulations 7 to 9[^key-12836fa04a53286693f3cf22a3be713e]
+### 6. Application of regulations 7 to 9[^c-12836fa04a53286693f3cf22a3be713e]
 
 (1) Regulation 7 does not apply—
 
@@ -141,7 +141,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 (3) In paragraph (2)(b), “indirect effect ALs” means the Low ALs in Table AL1, and the ALs in Tables AL5 to AL7, in the Schedule.
 
-### 7. Action plan[^key-bffd17ce338b057343869dc86b318744]
+### 7. Action plan[^c-bffd17ce338b057343869dc86b318744]
 
 (1) The employer must make and implement a suitable and sufficient action plan to ensure compliance with regulation 4(1).
 
@@ -158,7 +158,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 (3) Where, despite the measures taken under paragraph (1), the exposure of employees exceeds any ELV the employer must, as soon as is reasonably practicable, identify and implement any changes to the action plan which are necessary to ensure compliance with regulation 4(1).
 
-### 8. Risk assessment[^key-bd05238f22eb84b9b306103944485d53]
+### 8. Risk assessment[^c-bd05238f22eb84b9b306103944485d53]
 
 (1) The employer must make a suitable and sufficient assessment of the risks to employees arising from their exposure to electromagnetic fields.
 
@@ -189,7 +189,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 and make such changes to it as are necessary to ensure it remains suitable and sufficient.
 
-### 9. Obligation to eliminate or reduce risks[^key-f522d88ce46145ecf543b5d03a9954c2]
+### 9. Obligation to eliminate or reduce risks[^c-f522d88ce46145ecf543b5d03a9954c2]
 
 (1) The employer must ensure that, so far as is reasonably practicable, the risks identified in the most recent risk assessment under regulation 8 are eliminated or reduced to a minimum.
 
@@ -200,7 +200,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 ## PART 3 — MISCELLANEOUS
 
-### 10. Information and training[^key-c478426ba683d243b8de44d1dd70fbbb]
+### 10. Information and training[^c-c478426ba683d243b8de44d1dd70fbbb]
 
 The employer must provide relevant information and training to any employees who are likely to be subjected to the risks identified in the most recent risk assessment under regulation 8, including in relation to—
 
@@ -213,7 +213,7 @@ The employer must provide relevant information and training to any employees who
 - (g) safe working practices; and
 - (h) any additional measures taken in respect of employees at particular risk.
 
-### 11. Health surveillance and medical examinations[^key-006c0e3071b881f5a54adfb66ea13fa8]
+### 11. Health surveillance and medical examinations[^c-006c0e3071b881f5a54adfb66ea13fa8]
 
 (1) The employer must ensure that health surveillance and medical examinations are provided as appropriate to any employee who—
 
@@ -226,7 +226,7 @@ The employer must provide relevant information and training to any employees who
 
 (4) In paragraph (1)(a), “health effect ELVs” means the health effect ELVs set out in Part 2 of the Schedule.
 
-### 12. Records[^key-7b1c97bd9edaeb20fe9882d700348430]
+### 12. Records[^c-7b1c97bd9edaeb20fe9882d700348430]
 
 An employer who employs five or more employees must—
 
@@ -235,7 +235,7 @@ An employer who employs five or more employees must—
   - (i) the most recent action plan under regulation 7; and
   - (ii) the significant findings of the most recent risk assessment under regulation 8.
 
-### 13. Exemptions[^key-f8a31429dbeec05a233b1fa564b7217b]
+### 13. Exemptions[^c-f8a31429dbeec05a233b1fa564b7217b]
 
 (1) The Executive may by a certificate in writing exempt employers from the requirements of regulations 4(1) and 7 in relation to one or more work activities.
 
@@ -246,11 +246,11 @@ An employer who employs five or more employees must—
 
 (3) The Executive may amend or revoke an exemption at any time by a further certificate in writing.
 
-### 14. Application outside Great Britain[^key-12295b1af2ba760ec09439f5c807ad1d]
+### 14. Application outside Great Britain[^c-12295b1af2ba760ec09439f5c807ad1d]
 
 These Regulations apply outside Great Britain as sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013[^f00009].
 
-### 15. Review[^key-179cec5f8e16cc9e3c3844b0788e65a8]
+### 15. Review[^c-179cec5f8e16cc9e3c3844b0788e65a8]
 
 (1) The Secretary of State must from time to time—
 
@@ -288,7 +288,7 @@ Regulations 2, 4, 5, 6 and 11
 
 ### PART 1 — Introduction to Parts 2 and 3
 
-**1.**[^key-67ab784fb57322fbd30130af044085a6] In this Schedule—
+**1.**[^c-67ab784fb57322fbd30130af044085a6] In this Schedule—
 
 - “contact current (I<sub>C</sub>)” is the current created when a person comes into contact with an object in an electromagnetic field, expressed in ampères (A);
 - “external electric field strength (E)” is a vector quantity corresponding to the force exerted on a charged particle in the environment, irrespective of its motion in space, expressed in volts per metre (Vm<sup>-1</sup>);
@@ -299,27 +299,27 @@ Regulations 2, 4, 5, 6 and 11
 - “specific energy absorption (SA)” is the energy absorbed per unit mass of biological tissue, expressed in joules per kilogram (Jkg<sup>-1</sup>);
 - “specific energy absorption rate (SAR)” is the rate at which energy is absorbed per unit mass of body tissue, expressed in watts per kilogram (Wkg<sup>-1</sup>).
 
-**2.**[^key-662c3cb7eed1a2d36b607cd4589eb254] The ALs and ELVs are set out in tables and grouped according to their potential effects, being—
+**2.**[^c-662c3cb7eed1a2d36b607cd4589eb254] The ALs and ELVs are set out in tables and grouped according to their potential effects, being—
 
 - (a) thermal effects, related to the heating of tissue due to its absorption of electromagnetic fields; and
 - (b) non-thermal effects, related to the stimulation of nerves or sensory organs due to the presence of electromagnetic fields.
 
-**3.**[^key-30ec99bfa262d056abd1074e4b7cdaf0] The Low ALs in Table AL1 in Part 2, and the ALs in Part 3, specify the electromagnetic field levels above which specific indirect effects may occur.
+**3.**[^c-30ec99bfa262d056abd1074e4b7cdaf0] The Low ALs in Table AL1 in Part 2, and the ALs in Part 3, specify the electromagnetic field levels above which specific indirect effects may occur.
 
-**4.**[^key-6f4c0f18b1c0df0e232e2494c502d179] The remaining ALs in Part 2 are defined physical quantities related to the direct biophysical effects of exposure to electromagnetic fields. Employers may, as part of their exposure assessment, assess electromagnetic field levels against these ALs. Each AL table states which ELV or ELVs will be complied with if electromagnetic field levels at a particular frequency do not exceed that AL. Exposure to electromagnetic field levels in excess of the AL may still be below the relevant ELV but the employer will have to undertake further assessment to determine this under regulation 5.
+**4.**[^c-6f4c0f18b1c0df0e232e2494c502d179] The remaining ALs in Part 2 are defined physical quantities related to the direct biophysical effects of exposure to electromagnetic fields. Employers may, as part of their exposure assessment, assess electromagnetic field levels against these ALs. Each AL table states which ELV or ELVs will be complied with if electromagnetic field levels at a particular frequency do not exceed that AL. Exposure to electromagnetic field levels in excess of the AL may still be below the relevant ELV but the employer will have to undertake further assessment to determine this under regulation 5.
 
-**5.**[^key-b978196e7c0d209510d993a64938327b] Except where otherwise indicated—
+**5.**[^c-b978196e7c0d209510d993a64938327b] Except where otherwise indicated—
 
 - (a) “f” is the frequency expressed in hertz;
 - (b) the ALs and ELVs relate to exposure in any part of the body; and
 - (c) notes to the tables apply only to the table under which they appear.
 
-**6.**[^key-92bfefde00d16b81fece943c1db2a0ae] The applicable safety measures referred to in regulation 4(2) are those required by the notes to the table or tables containing the sensory effect ELV which is to be exceeded, being—
+**6.**[^c-92bfefde00d16b81fece943c1db2a0ae] The applicable safety measures referred to in regulation 4(2) are those required by the notes to the table or tables containing the sensory effect ELV which is to be exceeded, being—
 
 - (a) the note to Table ELV1; and
 - (b) note 2 to Tables ELV3 and ELV5.
 
-### PART 2 — Direct biophysical effects of exposure[^key-2d4c8320c3091cc3d80666e4464d82f7]
+### PART 2 — Direct biophysical effects of exposure[^c-2d4c8320c3091cc3d80666e4464d82f7]
 
 #### Action levels – non-thermal effects
 
@@ -516,7 +516,7 @@ The power density is the maximum level averaged over any 20cm<sup>2</sup> of exp
 
 **2.** From 6 to 10 GHz, power density must be averaged over a six minute period. Above 10 GHz, it must be averaged over a 68/f<sup>1.05</sup>-minute period (where “f” is the frequency in GHz).
 
-### PART 3 — Indirect effects of exposure[^key-1b41ee66e477bd2284513a5f6f529a1b]
+### PART 3 — Indirect effects of exposure[^c-1b41ee66e477bd2284513a5f6f529a1b]
 
 #### Action levels – non-thermal effects
 
@@ -596,13 +596,13 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00003]: Footnote: Section 50(3) was amended by paragraph 16 of Schedule 15 to the Employment Protection Act [1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), articles 3 and 16 of [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), paragraphs 4 and 6 of Schedule 7 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), and paragraphs 1 and 11 of Schedule 12 to the Energy Act 2013.
 
-[^key-29beff469210d00ab926e658c34bf5c1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-29beff469210d00ab926e658c34bf5c1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-176a1d1fef05a5307a26ecefb39c2114]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/588/regulation/2) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-176a1d1fef05a5307a26ecefb39c2114]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/588/regulation/2) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-a9fa2105aa360661fe57b701dfb47c4c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/588/regulation/3) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-a9fa2105aa360661fe57b701dfb47c4c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/588/regulation/3) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-3ecc3fb05839de6637b1a99758bae429]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/588/regulation/4) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-3ecc3fb05839de6637b1a99758bae429]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/588/regulation/4) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
 [^f00004]: Footnote: See paragraph 6 of Part 1 of the Schedule.
 
@@ -610,48 +610,48 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00006]: Footnote: [1952 c.67](https://www.legislation.gov.uk/ukpga/1952/67). The definition of “visiting force” was amended by paragraph 14 of Schedule 15 to the Criminal Justice Act [1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33).
 
-[^key-d2b0876326866556d4bc0811584025f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/588/regulation/5) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-d2b0876326866556d4bc0811584025f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/588/regulation/5) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
 [^f00007]: Footnote: See paragraphs 3 and 4 of Part 1 of the Schedule.
 
-[^key-12836fa04a53286693f3cf22a3be713e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/588/regulation/6) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-12836fa04a53286693f3cf22a3be713e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/588/regulation/6) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-bffd17ce338b057343869dc86b318744]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/588/regulation/7) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-bffd17ce338b057343869dc86b318744]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/588/regulation/7) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-bd05238f22eb84b9b306103944485d53]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/588/regulation/8) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-bd05238f22eb84b9b306103944485d53]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/588/regulation/8) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-f522d88ce46145ecf543b5d03a9954c2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2016/588/regulation/9) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-f522d88ce46145ecf543b5d03a9954c2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2016/588/regulation/9) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), to which there are amendments not relevant to these Regulations.
 
-[^key-c478426ba683d243b8de44d1dd70fbbb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/588/regulation/10) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-c478426ba683d243b8de44d1dd70fbbb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/588/regulation/10) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-006c0e3071b881f5a54adfb66ea13fa8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/588/regulation/11) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-006c0e3071b881f5a54adfb66ea13fa8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/588/regulation/11) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-7b1c97bd9edaeb20fe9882d700348430]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/588/regulation/12) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-7b1c97bd9edaeb20fe9882d700348430]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/588/regulation/12) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-f8a31429dbeec05a233b1fa564b7217b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/588/regulation/13) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-f8a31429dbeec05a233b1fa564b7217b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/588/regulation/13) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-12295b1af2ba760ec09439f5c807ad1d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/588/regulation/14) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-12295b1af2ba760ec09439f5c807ad1d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/588/regulation/14) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2013/240](https://www.legislation.gov.uk/uksi/2013/240).
 
-[^key-179cec5f8e16cc9e3c3844b0788e65a8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/588/regulation/15) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-179cec5f8e16cc9e3c3844b0788e65a8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/588/regulation/15) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
 [^f00010]: Footnote: OJ No L 179, 29.6.2013, p1-21.
 
-[^key-67ab784fb57322fbd30130af044085a6]: Commencement: [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/1) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-67ab784fb57322fbd30130af044085a6]: Commencement: [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/1) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-662c3cb7eed1a2d36b607cd4589eb254]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/2) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-662c3cb7eed1a2d36b607cd4589eb254]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/2) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-30ec99bfa262d056abd1074e4b7cdaf0]: Commencement: [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/3) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-30ec99bfa262d056abd1074e4b7cdaf0]: Commencement: [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/3) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-6f4c0f18b1c0df0e232e2494c502d179]: Commencement: [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/4) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-6f4c0f18b1c0df0e232e2494c502d179]: Commencement: [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/4) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-b978196e7c0d209510d993a64938327b]: Commencement: [Sch. Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/5) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-b978196e7c0d209510d993a64938327b]: Commencement: [Sch. Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/1/paragraph/5) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-92bfefde00d16b81fece943c1db2a0ae]: Commencement: [Sch. Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/588/schedule/paragraph/6) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-92bfefde00d16b81fece943c1db2a0ae]: Commencement: [Sch. Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/588/schedule/paragraph/6) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-2d4c8320c3091cc3d80666e4464d82f7]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/2/chapter/1/paragraph/1n2) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-2d4c8320c3091cc3d80666e4464d82f7]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/2/chapter/1/paragraph/1n2) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
 
-[^key-1b41ee66e477bd2284513a5f6f529a1b]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/3/chapter/1/paragraph/1n12) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)
+[^c-1b41ee66e477bd2284513a5f6f529a1b]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2016/588/schedule/part/3/chapter/1/paragraph/1n12) in force at 1.7.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/588/regulation/1)

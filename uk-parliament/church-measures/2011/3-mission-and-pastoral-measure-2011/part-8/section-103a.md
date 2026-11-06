@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 103A. Parochial church council with insufficient members[^key-2d1af1c17268f352c58fd22229c9265e]
+## 103A. Parochial church council with insufficient members[^c-2d1af1c17268f352c58fd22229c9265e]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d1af1c17268f352c58fd22229c9265e]: Textual amendment: S. 103A inserted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/35); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-2d1af1c17268f352c58fd22229c9265e]: Textual amendment: S. 103A inserted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/35); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80G. Recovery of costs[^key-4a6d9250ccff3135b898135509646bd8]
+## 80G. Recovery of costs[^c-4a6d9250ccff3135b898135509646bd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any costs which the Secretary of State reasonably incurs in recovering an amount
 
 ## Annotations
 
-[^key-4a6d9250ccff3135b898135509646bd8]: Textual amendment: S. 80G inserted (26.10.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 99(3)](https://www.legislation.gov.uk/ukpga/2025/28/section/99/3), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/2)
+[^c-4a6d9250ccff3135b898135509646bd8]: Textual amendment: S. 80G inserted (26.10.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 99(3)](https://www.legislation.gov.uk/ukpga/2025/28/section/99/3), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/2)

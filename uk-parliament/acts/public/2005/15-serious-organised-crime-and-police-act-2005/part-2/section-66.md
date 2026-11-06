@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Power to enter and seize documents[^key-a59cde8c46453827f4f77dfe701119e8][^key-7c3d41e1e48aedd9397f3f9e0a94feca][^key-a8faaf61725f45aa0284914e8dc2ea99]
+## 66. Power to enter and seize documents[^c-a59cde8c46453827f4f77dfe701119e8][^c-7c3d41e1e48aedd9397f3f9e0a94feca][^c-a8faaf61725f45aa0284914e8dc2ea99]
 
 *Extent: E+W+S*
 
@@ -68,17 +68,17 @@ it may be retained until the proceedings are concluded.
 - (b) subsections (1)(a) and (3)(b) have effect as if, for “in the information”, there were substituted “ in the application ”; and
 - (c) subsections (4) to (6) do not have effect.
 
-(11)[^key-61309b10f1e7854cacb40584f924bfb1] In the application of this section to Northern Ireland—
+(11)[^c-61309b10f1e7854cacb40584f924bfb1] In the application of this section to Northern Ireland—
 
 - (a) subsection (1) has effect as if, for the words from the beginning to “laid”, there were substituted “A lay magistrate may issue a warrant under this section if, on complaint on oath made”; and
 - (b) subsections (1)(a) and (3)(b) have effect as if, for “in the information”, there were substituted “in the complaint”.
 
 ## Annotations
 
-[^key-a59cde8c46453827f4f77dfe701119e8]: Commencement: S. 66 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-a59cde8c46453827f4f77dfe701119e8]: Commencement: S. 66 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-7c3d41e1e48aedd9397f3f9e0a94feca]: Commencement: S. 66 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
+[^c-7c3d41e1e48aedd9397f3f9e0a94feca]: Commencement: S. 66 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
 
-[^key-a8faaf61725f45aa0284914e8dc2ea99]: Modification: Ss. 60-67 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
+[^c-a8faaf61725f45aa0284914e8dc2ea99]: Modification: Ss. 60-67 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
 
-[^key-61309b10f1e7854cacb40584f924bfb1]: Textual amendment: S. 66(11) inserted (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/33/schedule/3/paragraph/7); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
+[^c-61309b10f1e7854cacb40584f924bfb1]: Textual amendment: S. 66(11) inserted (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/33/schedule/3/paragraph/7); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)

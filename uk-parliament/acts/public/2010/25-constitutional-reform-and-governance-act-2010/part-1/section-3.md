@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Management of the civil service[^key-0e1b141650270b14be76ac7f2bb69eb1]
+## 3. Management of the civil service[^c-0e1b141650270b14be76ac7f2bb69eb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e1b141650270b14be76ac7f2bb69eb1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/25/section/3) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-0e1b141650270b14be76ac7f2bb69eb1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/25/section/3) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

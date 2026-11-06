@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Appeals[^key-040feb429868a2c3281d33206e52c046]
+## 150. Appeals[^c-040feb429868a2c3281d33206e52c046]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-040feb429868a2c3281d33206e52c046]: Commencement: S. 150 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-040feb429868a2c3281d33206e52c046]: Commencement: S. 150 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

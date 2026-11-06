@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Disclosure of confidential information[^key-9f1ffff01473045791c92b24bf74c949]
+## 42. Disclosure of confidential information[^c-9f1ffff01473045791c92b24bf74c949]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-9f1ffff01473045791c92b24bf74c949]: Commencement: Art. 42 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-9f1ffff01473045791c92b24bf74c949]: Commencement: Art. 42 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

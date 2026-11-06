@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 688A. Managed service companies: recovery from other persons[^key-41210819a5f9bf2b4c4fa6a917d3bff5]
+## 688A. Managed service companies: recovery from other persons[^c-41210819a5f9bf2b4c4fa6a917d3bff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 - “**associate**” has the meaning given by section 61I,
 - “**director**” has the meaning given by section 67,
-- “**managed service company**” has the meaning given by section 61B but for the purposes of section 339A has the meaning given by subsection (11) of that section[^key-48b2d48ec9d7108ce0eda68ee7f44658] , and
+- “**managed service company**” has the meaning given by section 61B but for the purposes of section 339A has the meaning given by subsection (11) of that section[^c-48b2d48ec9d7108ce0eda68ee7f44658] , and
 - “**MSC provider**” means an MSC provider who is involved with the MSC (within the meaning of section 61B).
 
 (6) Section 61C(4) (extended meaning of “associate”) applies for the purposes of subsection (2)(d).
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41210819a5f9bf2b4c4fa6a917d3bff5]: Textual amendment: S. 688A inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/25/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2007/11/schedule/3/paragraph/6)
+[^c-41210819a5f9bf2b4c4fa6a917d3bff5]: Textual amendment: S. 688A inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/25/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2007/11/schedule/3/paragraph/6)
 
-[^key-48b2d48ec9d7108ce0eda68ee7f44658]: Textual amendment: Words in s. 688A(5) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/2)
+[^c-48b2d48ec9d7108ce0eda68ee7f44658]: Textual amendment: Words in s. 688A(5) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 871. Power to make regulations to give effect to Chapter[^key-b21e48633701757f3979f8bc2fd6aa52]
+## 871. Power to make regulations to give effect to Chapter[^c-b21e48633701757f3979f8bc2fd6aa52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b21e48633701757f3979f8bc2fd6aa52]: Textual amendment: S. 871 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/16)
+[^c-b21e48633701757f3979f8bc2fd6aa52]: Textual amendment: S. 871 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/16)

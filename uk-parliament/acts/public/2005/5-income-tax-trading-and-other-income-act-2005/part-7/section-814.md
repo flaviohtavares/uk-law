@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 814. Full qualifying care relief: income chargeable under Chapter 8 of Part 5[^key-a36123d837ae9d2751deb1a6ef425b2e]
+## 814. Full qualifying care relief: income chargeable under Chapter 8 of Part 5[^c-a36123d837ae9d2751deb1a6ef425b2e]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if the individual's qualifying care[^key-f2278f1e4384500aa171e7a88f1006df] receipts for the tax year would otherwise be chargeable to income tax under Chapter 8 of Part 5 (income not otherwise charged).
+(1) This section applies if the individual's qualifying care[^c-f2278f1e4384500aa171e7a88f1006df] receipts for the tax year would otherwise be chargeable to income tax under Chapter 8 of Part 5 (income not otherwise charged).
 
 (2) For each arrangement from which those receipts arise, the amount of—
 
@@ -31,6 +31,6 @@ is treated as nil.
 
 ## Annotations
 
-[^key-a36123d837ae9d2751deb1a6ef425b2e]: Textual amendment: Words in s. 814 heading substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/15/2) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-a36123d837ae9d2751deb1a6ef425b2e]: Textual amendment: Words in s. 814 heading substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/15/2) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
 
-[^key-f2278f1e4384500aa171e7a88f1006df]: Textual amendment: Words in s. 814(1) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/15/1) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-f2278f1e4384500aa171e7a88f1006df]: Textual amendment: Words in s. 814(1) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/15/1) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

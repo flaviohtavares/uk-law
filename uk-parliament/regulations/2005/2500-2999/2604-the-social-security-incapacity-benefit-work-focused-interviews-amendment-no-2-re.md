@@ -40,21 +40,21 @@ Coming into force
 
 31st October 2005
 
-[^key-b173d5b54e32a11fd862b1ba2651e6e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b173d5b54e32a11fd862b1ba2651e6e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-b173d5b54e32a11fd862b1ba2651e6e4]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the definitions in the 2003 Regulations[^key-b173d5b54e32a11fd862b1ba2651e6e4]
+## 1. Citation, commencement and interpretation[^c-b173d5b54e32a11fd862b1ba2651e6e4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Schedule to the 2003 Regulations[^key-b173d5b54e32a11fd862b1ba2651e6e4]
+## 2. Amendment of the definitions in the 2003 Regulations[^c-b173d5b54e32a11fd862b1ba2651e6e4]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Schedule to the 2003 Regulations[^c-b173d5b54e32a11fd862b1ba2651e6e4]
 
 **No longer in force.**
 
@@ -62,28 +62,28 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-b173d5b54e32a11fd862b1ba2651e6e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b173d5b54e32a11fd862b1ba2651e6e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — Amendment of the Schedule to the 2003 Regulations[^key-b173d5b54e32a11fd862b1ba2651e6e4]
+## SCHEDULE — Amendment of the Schedule to the 2003 Regulations[^c-b173d5b54e32a11fd862b1ba2651e6e4]
 
 **No longer in force.**
 
 Regulation 3
 
-> **PART 3[^key-b173d5b54e32a11fd862b1ba2651e6e4]**
+> **PART 3[^c-b173d5b54e32a11fd862b1ba2651e6e4]**
 >
-> **3.**[^key-b173d5b54e32a11fd862b1ba2651e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-b173d5b54e32a11fd862b1ba2651e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 4[^key-b173d5b54e32a11fd862b1ba2651e6e4]**
+> **PART 4[^c-b173d5b54e32a11fd862b1ba2651e6e4]**
 >
-> **4.**[^key-b173d5b54e32a11fd862b1ba2651e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-b173d5b54e32a11fd862b1ba2651e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 5[^key-b173d5b54e32a11fd862b1ba2651e6e4]**
+> **PART 5[^c-b173d5b54e32a11fd862b1ba2651e6e4]**
 >
-> **5.**[^key-b173d5b54e32a11fd862b1ba2651e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-b173d5b54e32a11fd862b1ba2651e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b173d5b54e32a11fd862b1ba2651e6e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b173d5b54e32a11fd862b1ba2651e6e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b173d5b54e32a11fd862b1ba2651e6e4]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2005/2604) revoked (15.12.2008) by [Social Security (Incapacity Benefit Work-focused Interviews) Regulations 2008 (S.I. 2008/2928)](https://www.legislation.gov.uk/uksi/2008/2928), [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/1/c)
+[^c-b173d5b54e32a11fd862b1ba2651e6e4]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2005/2604) revoked (15.12.2008) by [Social Security (Incapacity Benefit Work-focused Interviews) Regulations 2008 (S.I. 2008/2928)](https://www.legislation.gov.uk/uksi/2008/2928), [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/1/c)

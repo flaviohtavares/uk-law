@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Incorporation of the 1847 Act[^key-1158f14fddc46dedb1cac3d289087a0a]
+## 3. Incorporation of the 1847 Act[^c-1158f14fddc46dedb1cac3d289087a0a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1158f14fddc46dedb1cac3d289087a0a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2935/article/3) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-1158f14fddc46dedb1cac3d289087a0a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2935/article/3) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

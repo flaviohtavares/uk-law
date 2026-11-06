@@ -24,7 +24,7 @@ summary: ''
 
 (1) This section applies where a person to whom this Part applies (“the young person”) is failing to fulfil the duty imposed by section 2.
 
-(2) A local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England may enter into a parenting contract with a parent of the young person—
+(2) A local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England may enter into a parenting contract with a parent of the young person—
 
 - (a) if the parent is resident in England, and
 - (b) the authority considers that entering into the parenting contract would be desirable in the interests of the young person's fulfilment of that duty.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

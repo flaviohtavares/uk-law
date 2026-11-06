@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Operation of authorised development[^key-a2c5ca15b769f1c6115e17b81e4696b7]
+## 7. Operation of authorised development[^c-a2c5ca15b769f1c6115e17b81e4696b7]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2c5ca15b769f1c6115e17b81e4696b7]: Commencement: Art. 7 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-a2c5ca15b769f1c6115e17b81e4696b7]: Commencement: Art. 7 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

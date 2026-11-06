@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Restricted byway rights.[^key-7c6c27a0770161c467576ea16ad975d4][^key-ea110548e1cea80a3a6186ce0937704a]
+## 48. Restricted byway rights.[^c-7c6c27a0770161c467576ea16ad975d4][^c-ea110548e1cea80a3a6186ce0937704a]
 
 *Extent: E+W*
 
@@ -67,8 +67,8 @@ all rights over that way which exist only by virtue of subsection (1) shall be e
 
 ## Annotations
 
-[^key-7c6c27a0770161c467576ea16ad975d4]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2000/37/section/48) in force at 2.5.2006 for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1172/article/3))
+[^c-7c6c27a0770161c467576ea16ad975d4]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2000/37/section/48) in force at 2.5.2006 for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1172/article/3))
 
-[^key-ea110548e1cea80a3a6186ce0937704a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2000/37/section/48) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(b)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2006/1279/article/3))
+[^c-ea110548e1cea80a3a6186ce0937704a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2000/37/section/48) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(b)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2006/1279/article/3))
 
 [^c1057050]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).

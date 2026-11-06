@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Real time returns[^key-a5e8e72a2edeba64f306c0dd39653e9a]
+## SCHEDULE 2 — Real time returns[^c-a5e8e72a2edeba64f306c0dd39653e9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ If the return is the first return in respect of the employee in this employment,
 
 ## Annotations
 
-[^key-a5e8e72a2edeba64f306c0dd39653e9a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/470/schedule/2) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [19](https://www.legislation.gov.uk/uksi/2012/836/regulation/19)
+[^c-a5e8e72a2edeba64f306c0dd39653e9a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/470/schedule/2) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [19](https://www.legislation.gov.uk/uksi/2012/836/regulation/19)

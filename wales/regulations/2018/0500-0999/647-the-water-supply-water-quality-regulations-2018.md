@@ -149,7 +149,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred u
 - (b) the compartments that are connected hydraulically will be treated as a single service reservoir; and
 - (c) unless all of the compartments are connected hydraulically, the structure as a whole will not be treated as a service reservoir.
 
-(6)[^key-5697136aec466d24375de725656c7ea6] In these Regulations, a reference to an EU or Euratom Directive is to be read as if any reference in that Directive to a member State in a provision imposing an obligation on, or providing a discretion to, a member State were to either the Welsh Ministers or local authority depending on which, immediately before exit day, was responsible for compliance with that obligation, or exercise of that discretion, in respect of England or Wales.
+(6)[^c-5697136aec466d24375de725656c7ea6] In these Regulations, a reference to an EU or Euratom Directive is to be read as if any reference in that Directive to a member State in a provision imposing an obligation on, or providing a discretion to, a member State were to either the Welsh Ministers or local authority depending on which, immediately before exit day, was responsible for compliance with that obligation, or exercise of that discretion, in respect of England or Wales.
 
 ## PART 2 — Water Supply Zones
 
@@ -283,7 +283,7 @@ is to be regarded as wholesome for the purposes of Chapter III, as it applies to
 - (b) contains levels of radon that are below the parametric value specified in Schedule 2;
 - (c) contains levels of tritium that are below the parametric value specified in Schedule 2.
 
-(15) Where paragraph (14) applies, the Welsh Ministers must publish, in such manner as the Welsh Ministers consider appropriate, the grounds for the notification[^key-06248da59e82974f329a345b7f7a47bc] with the necessary documentation supporting the decision (including the findings of any surveys, monitoring or investigations carried out).
+(15) Where paragraph (14) applies, the Welsh Ministers must publish, in such manner as the Welsh Ministers consider appropriate, the grounds for the notification[^c-06248da59e82974f329a345b7f7a47bc] with the necessary documentation supporting the decision (including the findings of any surveys, monitoring or investigations carried out).
 
 (16) The Welsh Ministers must by notice in writing withdraw a notice under paragraph (14)—
 
@@ -299,7 +299,7 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 ### 8. Authorisation of supply points
 
-(1) For those parameters specified as item 6 in column 1 of Table 1, and items 1 to 12[^key-cbff4455a90464ecb55cdf88fa6ad95e] and 14 to 21 in column 1 of Table 3, in Schedule 3, samples may be taken from —
+(1) For those parameters specified as item 6 in column 1 of Table 1, and items 1 to 12[^c-cbff4455a90464ecb55cdf88fa6ad95e] and 14 to 21 in column 1 of Table 3, in Schedule 3, samples may be taken from —
 
 - (a) any blending point;
 - (b) the water leaving any service reservoir which receives water from a treatment works before its supply to any consumer; and
@@ -384,7 +384,7 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 (12) In this regulation “**the standard number**” means the number of samples specified in Part 2 or Part 3 of Schedule 3 in respect of a parameter specified in Part 1 of that Schedule.
 
-(13)[^key-5ddf0bc8726f24ce041d268542719daf] For the purposes of paragraph (11)(c), a reference to Articles 7(1) and 8 of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read with the following modifications—
+(13)[^c-5ddf0bc8726f24ce041d268542719daf] For the purposes of paragraph (11)(c), a reference to Articles 7(1) and 8 of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read with the following modifications—
 
 - (a) as if any reference to Annex 5 of that Directive were a reference to that Annex as modified by Part 1 of Schedule 5 to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017;
 - (b) in Article 8, as if—
@@ -512,7 +512,7 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 (11) The Welsh Ministers may at any time, by notice in writing served on the water undertaker or supplementary licensee to which an authorisation under paragraph (7) has been given, revoke the authorisation, but any such notice must be served no later than 3 months before the date on which the revocation is stated to take effect.
 
-### 16. Collection and analysis of samples: transitional provision[^key-dce1275a5179ef8739fa8734e94eabb5]
+### 16. Collection and analysis of samples: transitional provision[^c-dce1275a5179ef8739fa8734e94eabb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -776,13 +776,13 @@ requiring it to exercise the power conferred by section 75(2) of the Act (power 
 - (a) the extent of the contravention of the requirements of Part 3 as respects any parameter is trivial; and
 - (b) the prescribed concentration or value as respects that parameter is likely to be achieved within the period of 30 days beginning with the day on which the prescribed concentration or value in respect of that parameter was contravened.
 
-(7) Where it appears to the Welsh Ministers that a supply of water that fully satisfies the requirements of Part 3 cannot be restored by the end of the departure period, they may authorise a further two departures[^key-e44ac3b6aff8932b5772f56b2f8b0748].
+(7) Where it appears to the Welsh Ministers that a supply of water that fully satisfies the requirements of Part 3 cannot be restored by the end of the departure period, they may authorise a further two departures[^c-e44ac3b6aff8932b5772f56b2f8b0748].
 
 (8) Paragraphs (1) to (6) will apply to a further departure authorised under paragraph (7) as they apply to a departure authorised under regulation 22.
 
-(9)[^key-13cd80bada7bb132c5bce61d562d0a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-13cd80bada7bb132c5bce61d562d0a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-13cd80bada7bb132c5bce61d562d0a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-13cd80bada7bb132c5bce61d562d0a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) An authorisation under regulation 22 or this regulation may be limited to water supplied—
 
@@ -933,15 +933,15 @@ requiring it to exercise the power conferred by section 75(2) of the Act (power 
 
 (2) A substance or product which, at the time of its application or introduction—
 
-- (a)[^key-fd803710a074ff00e180c0c7fa3bf9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) conforms to an appropriate British Standard or some other appropriate standard [^key-0e663bfc37afb18dfbfd24f74b51c32c]... which provides an equivalent level of protection and performance,
+- (a)[^c-fd803710a074ff00e180c0c7fa3bf9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) conforms to an appropriate British Standard or some other appropriate standard [^c-0e663bfc37afb18dfbfd24f74b51c32c]... which provides an equivalent level of protection and performance,
 
 may be applied or introduced, notwithstanding that none of the requirements of paragraph (4) are satisfied.
 
 (3) Paragraph (2) applies only if such an application or introduction complies with—
 
 - (a) such conditions of use restricting the dosing concentration as are for the time being in force in relation to such substances and products pursuant to a determination of the Welsh Ministers by an instrument in writing;
-- (b)[^key-8c730832f6175c7abb635731ace2a176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8c730832f6175c7abb635731ace2a176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The requirements of this paragraph are—
 
@@ -983,7 +983,7 @@ may be applied or introduced, notwithstanding that none of the requirements of p
 - (a) by notice served on the person who makes an application for approval under paragraph (4)(a), require the person to pay the Welsh Ministers a charge which reflects the administrative expenses incurred or likely to be incurred by the Welsh Ministers in connection with the application; and
 - (b) in determining the amount of any such charge, adopt such methods and principles for its calculation as appear to the Welsh Ministers to be appropriate.
 
-(15)[^key-5faee3d75043c9da9345c3f7a86a33ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-5faee3d75043c9da9345c3f7a86a33ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 32. Use of processes
 
@@ -1136,7 +1136,7 @@ Any duty or requirement imposed by Parts 4 to 9 of these Regulations on a releva
 - (e) a notice given under regulation 20(1) or (4) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations is taken to be a notice given under regulation 20(1) or (4) respectively of these Regulations;
 - (f) a notice given under regulation 21(3) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations is taken to be a notice given under regulation 21(3) of these Regulations;
 - (g) an authorisation given under regulation 22(1) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations is taken to be an authorisation given under regulation 22(1) of these Regulations;
-- (h) any further authorisations given under regulation 23(5) and (7) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations are taken to be further authorisations given under regulation 23(7) [^key-4f5be9e0a5a6cd0d0f5a755a1b8cef69]... of these Regulations;
+- (h) any further authorisations given under regulation 23(5) and (7) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations are taken to be further authorisations given under regulation 23(7) [^c-4f5be9e0a5a6cd0d0f5a755a1b8cef69]... of these Regulations;
 - (i) a notice given under regulation 28(5) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations is taken to be a notice given under regulation 27(4) of these Regulations;
 - (j) a notice given under regulation 29(4) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations is taken to be a notice given under regulation 28(4) of these Regulations;
 - (k) an approval given under regulation 31(4)(a) of the 2010 Regulations which had effect immediately before the coming into force of these Regulations is taken to be an approval given under regulation 31(4)(a) of these Regulations;
@@ -1150,7 +1150,7 @@ Any duty or requirement imposed by Parts 4 to 9 of these Regulations on a releva
 
 (4) Regulation 16 remains in force until 23:59 on 31 December 2019 following which it is revoked for all purposes.
 
-### 39A. Reporting[^key-b299cbbf25b81aff7af50fd4bd581a03]
+### 39A. Reporting[^c-b299cbbf25b81aff7af50fd4bd581a03]
 
 (1) The Welsh Ministers must publish a report on the quality of water intended for human consumption, with the objective of informing consumers.
 
@@ -1396,7 +1396,7 @@ Group B1 parameters and circumstances for monitoring to be used for sampling in 
 
 Table 3
 
-Group B2 parameters and circumstances for monitoring to be used for sampling at works or in water supply zones (or supply points)[^key-4ce9bee9b24a53cad6498f27c7278c4c]
+Group B2 parameters and circumstances for monitoring to be used for sampling at works or in water supply zones (or supply points)[^c-4ce9bee9b24a53cad6498f27c7278c4c]
 
 <table>
 <tfoot>
@@ -1432,7 +1432,7 @@ Group B2 parameters and circumstances for monitoring to be used for sampling at 
 </tbody>
 </table>
 
-[^key-d37aada6718c97c86d7ef3feca1c1385][^key-892e7595dc8f7d8ba1360d29514bd3fe][^key-ad1f9503a619529a33ea464a0dc4c3bc][^key-98df3ee988c00b5048e1c10ed1e49f55][^key-98df3ee988c00b5048e1c10ed1e49f55]
+[^c-d37aada6718c97c86d7ef3feca1c1385][^c-892e7595dc8f7d8ba1360d29514bd3fe][^c-ad1f9503a619529a33ea464a0dc4c3bc][^c-98df3ee988c00b5048e1c10ed1e49f55][^c-98df3ee988c00b5048e1c10ed1e49f55]
 
 Table 4
 
@@ -1721,7 +1721,7 @@ Parameters in relation to which methods of analysis must satisfy prescribed char
 
 |  |
 | --- |
-| [^key-03274b70b87e058eb3fdd779979c872d]... |
+| [^c-03274b70b87e058eb3fdd779979c872d]... |
 
 Table A3
 
@@ -1872,11 +1872,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22972601]: Marginal citation: [Section 17B](https://www.legislation.gov.uk/wsi/2018/647/section/17B) was inserted by paragraph 2 of Schedule 4 to the Water Act 2003. Section 17B was amended by section 2 of, and paragraph 6 of Schedule 5 and paragraph 10 of Schedule 7 to, the Water Act 2014.
 
-[^key-5697136aec466d24375de725656c7ea6]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/wsi/2018/647/regulation/2/6) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(2)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5697136aec466d24375de725656c7ea6]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/wsi/2018/647/regulation/2/6) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(2)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06248da59e82974f329a345b7f7a47bc]: Textual amendment: Words in [reg. 6(15)](https://www.legislation.gov.uk/wsi/2018/647/regulation/6/15) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(3)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06248da59e82974f329a345b7f7a47bc]: Textual amendment: Words in [reg. 6(15)](https://www.legislation.gov.uk/wsi/2018/647/regulation/6/15) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(3)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cbff4455a90464ecb55cdf88fa6ad95e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/8/1) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(2)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/2)
+[^c-cbff4455a90464ecb55cdf88fa6ad95e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/8/1) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(2)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/2)
 
 [^c22972611]: Marginal citation: This standard was approved by the International Organization for Standardization (ISO) on 15<sup></sup>April 2006. Under reference BS ISO 5667-5:2006 it is published as a UK standard by the British Standards Institution (ISBN 0 580 47140 3).
 
@@ -1886,13 +1886,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22972641]: Marginal citation: O.J. No L 327, 22.12.2000, p 1, as last amended by Commission Directive 2014/101/EU (OJ No L 311, 31.10.2014, p 32).
 
-[^key-5ddf0bc8726f24ce041d268542719daf]: Textual amendment: [Reg. 9(13)](https://www.legislation.gov.uk/wsi/2018/647/regulation/9/13) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(4)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ddf0bc8726f24ce041d268542719daf]: Textual amendment: [Reg. 9(13)](https://www.legislation.gov.uk/wsi/2018/647/regulation/9/13) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(4)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22972651]: Marginal citation: [Section 68(1)](https://www.legislation.gov.uk/wsi/2018/647/section/68/1) was amended by paragraph 18 of Schedule 8 to the Water Act 2003.
 
 [^c22972661]: Marginal citation: This standard was approved by the European Committee for Standardization (CEN) on 10 November 2017. Under reference BS EN ISO/IEC 17025:2017, it is published as a UK standard by the British Standards Institution (ISBN 0 580 46330 3).
 
-[^key-dce1275a5179ef8739fa8734e94eabb5]: Textual amendment: Reg. 16 revoked (1.1.2020 following 11.59 p.m. on 31.12.2019) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 39(4)](https://www.legislation.gov.uk/wsi/2018/647/regulation/39/4)
+[^c-dce1275a5179ef8739fa8734e94eabb5]: Textual amendment: Reg. 16 revoked (1.1.2020 following 11.59 p.m. on 31.12.2019) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 39(4)](https://www.legislation.gov.uk/wsi/2018/647/regulation/39/4)
 
 [^c22972691]: Marginal citation: [Section 18](https://www.legislation.gov.uk/wsi/2018/647/section/18) was amended by sections 36(2) and 49(2) of, and paragraph 4 of Schedule 8 to, the Water Act 2003, and by paragraph 26 of Schedule 7 to the Water Act 2014.
 
@@ -1904,35 +1904,35 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22972731]: Marginal citation: See section 219(1) of the Act (as amended by section 56 of, and paragraph 27(7)(b) of Schedule 7to, the Water Act 2014) which defines “the Council” as the Consumer Council for Water.
 
-[^key-e44ac3b6aff8932b5772f56b2f8b0748]: Textual amendment: Words in [reg. 23(7)](https://www.legislation.gov.uk/wsi/2018/647/regulation/23/7) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(5)(a)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e44ac3b6aff8932b5772f56b2f8b0748]: Textual amendment: Words in [reg. 23(7)](https://www.legislation.gov.uk/wsi/2018/647/regulation/23/7) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(5)(a)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13cd80bada7bb132c5bce61d562d0a4c]: Textual amendment: [Reg. 23(9)](https://www.legislation.gov.uk/wsi/2018/647/regulation/23/9)[(10)](https://www.legislation.gov.uk/wsi/2018/647/regulation/23/10) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(5)(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13cd80bada7bb132c5bce61d562d0a4c]: Textual amendment: [Reg. 23(9)](https://www.legislation.gov.uk/wsi/2018/647/regulation/23/9)[(10)](https://www.legislation.gov.uk/wsi/2018/647/regulation/23/10) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(5)(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22972751]: Marginal citation: [Section 68(3)](https://www.legislation.gov.uk/wsi/2018/647/section/68/3) was amended by paragraph 18(5) of Schedule 8 to the Water Act 2003.
 
-[^key-fd803710a074ff00e180c0c7fa3bf9ef]: Textual amendment: [Reg. 31(2)(a)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/2/a) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(a)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd803710a074ff00e180c0c7fa3bf9ef]: Textual amendment: [Reg. 31(2)(a)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/2/a) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(a)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0e663bfc37afb18dfbfd24f74b51c32c]: Textual amendment: Words in [reg. 31(2)(b)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/2/b) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e663bfc37afb18dfbfd24f74b51c32c]: Textual amendment: Words in [reg. 31(2)(b)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/2/b) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c730832f6175c7abb635731ace2a176]: Textual amendment: [Reg. 31(3)(b)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/3/b) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(c)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c730832f6175c7abb635731ace2a176]: Textual amendment: [Reg. 31(3)(b)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/3/b) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(c)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5faee3d75043c9da9345c3f7a86a33ac]: Textual amendment: [Reg. 31(15)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/15) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(d)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5faee3d75043c9da9345c3f7a86a33ac]: Textual amendment: [Reg. 31(15)](https://www.legislation.gov.uk/wsi/2018/647/regulation/31/15) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(6)(d)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22972781]: Marginal citation: *See* section 219(1) of the Act (as amended by section 101 of, and paragraph 27 of Schedule 7 to, the Water Act 2003) which defines “the Authority” as the Water Services Regulation Authority.
 
-[^key-4f5be9e0a5a6cd0d0f5a755a1b8cef69]: Textual amendment: Words in [reg. 39(1)(h)](https://www.legislation.gov.uk/wsi/2018/647/regulation/39/1/h) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(7)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f5be9e0a5a6cd0d0f5a755a1b8cef69]: Textual amendment: Words in [reg. 39(1)(h)](https://www.legislation.gov.uk/wsi/2018/647/regulation/39/1/h) omitted (31.12.2020) by virtue of [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(7)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b299cbbf25b81aff7af50fd4bd581a03]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/wsi/2018/647/regulation/39A) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(8)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b299cbbf25b81aff7af50fd4bd581a03]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/wsi/2018/647/regulation/39A) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [7(8)](https://www.legislation.gov.uk/wsi/2019/460/regulation/7/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ce9bee9b24a53cad6498f27c7278c4c]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 heading substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/a)
+[^c-4ce9bee9b24a53cad6498f27c7278c4c]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 heading substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/a)
 
-[^key-d37aada6718c97c86d7ef3feca1c1385]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/b)
+[^c-d37aada6718c97c86d7ef3feca1c1385]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/b)
 
-[^key-892e7595dc8f7d8ba1360d29514bd3fe]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(c)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/c)
+[^c-892e7595dc8f7d8ba1360d29514bd3fe]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(c)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/c)
 
-[^key-ad1f9503a619529a33ea464a0dc4c3bc]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(d)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/d)
+[^c-ad1f9503a619529a33ea464a0dc4c3bc]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(d)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/d)
 
-[^key-98df3ee988c00b5048e1c10ed1e49f55]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 omitted (28.3.2019) by virtue of [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(e)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/e)
+[^c-98df3ee988c00b5048e1c10ed1e49f55]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/647/schedule/3/part/1) Table 3 omitted (28.3.2019) by virtue of [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [30(3)(e)](https://www.legislation.gov.uk/wsi/2019/463/regulation/30/3/e)
 
 [^c22972791]: Marginal citation: Where appropriate, gross beta activity may be replaced by residual beta activity after subtraction of the K-40 activity concentration.
 
@@ -1950,7 +1950,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22972861]: Marginal citation: This standard entitled *Water quality - Enumeration of Clostridium perfringens - Method using membrane filtration (ISO 14189:2013)*” was approved by the European Committee for Standardization (CEN) on 15 July 2016. Under reference BS EN ISO 14189:2016, it is published as a UK standard by the British Standards Institution (ISBN 978 0 580 92184 1).
 
-[^key-03274b70b87e058eb3fdd779979c872d]: Textual amendment: Sch. 5 Table A2 revoked (1.1.2020 following 11.59 pm on 31.12.2019) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 39(3)](https://www.legislation.gov.uk/wsi/2018/647/regulation/39/3)
+[^c-03274b70b87e058eb3fdd779979c872d]: Textual amendment: Sch. 5 Table A2 revoked (1.1.2020 following 11.59 pm on 31.12.2019) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 39(3)](https://www.legislation.gov.uk/wsi/2018/647/regulation/39/3)
 
 [^c22972871]: Marginal citation: This standard was approved by the European Committee for Standardization (CEN) on 3 November 1994. Under reference EN ISO 8467:1995, it is published as a UK standard by the British Standards Institution (ISBN 0 580 23435 5).
 

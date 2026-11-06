@@ -30,14 +30,14 @@ summary: ''
 - (a) necessary on grounds specified in paragraph (4); and
 - (b) proportionate to what is sought to be achieved.
 
-(2A)[^key-432be6a9ec66cdcdcdcdbe98202af3cd] The governor may not make arrangements for interception of any communication between an inmate and
+(2A)[^c-432be6a9ec66cdcdcdcdbe98202af3cd] The governor may not make arrangements for interception of any communication between an inmate and
 
 - (a) the inmate’s legal adviser; or
 - (b) any body or organisation with which the Secretary of State has made arrangements for the confidential handling of correspondence,
 
-unless either the condition in paragraph (2B) or the condition in paragraph (2C) is satisfied[^key-375a52c18490aa01b6ba936fc925fac1].
+unless either the condition in paragraph (2B) or the condition in paragraph (2C) is satisfied[^c-375a52c18490aa01b6ba936fc925fac1].
 
-(2B)[^key-753594b83d105e4042ec3076d61ea4ab] The condition in this paragraph is that—
+(2B)[^c-753594b83d105e4042ec3076d61ea4ab] The condition in this paragraph is that—
 
 - (a) the governor has reasonable cause to believe that the communication is being made with the intention of furthering a criminal purpose; and
 - (b) the arrangements for interception of the communication are authorised by—
@@ -58,7 +58,7 @@ unless either the condition in paragraph (2B) or the condition in paragraph (2C)
 - (a) necessary on grounds specified in paragraph (4); and
 - (b) proportionate to what is sought to be achieved by the termination.
 
-(4) The grounds referred to in paragraphs (1)(a), (2)(a) , (2C)(c)(i)[^key-91a478600c4f51dc03cb9559fb55abca] and (3)(a) are—
+(4) The grounds referred to in paragraphs (1)(a), (2)(a) , (2C)(c)(i)[^c-91a478600c4f51dc03cb9559fb55abca] and (3)(a) are—
 
 - (a) the interests of national security;
 - (b) the prevention, detection, investigation or prosecution of crime;
@@ -76,10 +76,10 @@ unless either the condition in paragraph (2B) or the condition in paragraph (2C)
 
 ## Annotations
 
-[^key-432be6a9ec66cdcdcdcdbe98202af3cd]: Textual amendment: Rule 11(2A) inserted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/3082/schedule/2/paragraph/5)
+[^c-432be6a9ec66cdcdcdcdbe98202af3cd]: Textual amendment: Rule 11(2A) inserted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/3082/schedule/2/paragraph/5)
 
-[^key-375a52c18490aa01b6ba936fc925fac1]: Textual amendment: Words in rule 11(2A) substituted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1217/rule/3/2/a)
+[^c-375a52c18490aa01b6ba936fc925fac1]: Textual amendment: Words in rule 11(2A) substituted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1217/rule/3/2/a)
 
-[^key-753594b83d105e4042ec3076d61ea4ab]: Textual amendment: Rule 11(2B)(2C) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1217/rule/3/2/b)
+[^c-753594b83d105e4042ec3076d61ea4ab]: Textual amendment: Rule 11(2B)(2C) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1217/rule/3/2/b)
 
-[^key-91a478600c4f51dc03cb9559fb55abca]: Textual amendment: Word in rule 11(4) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/1217/rule/3/2/c)
+[^c-91a478600c4f51dc03cb9559fb55abca]: Textual amendment: Word in rule 11(4) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/1217/rule/3/2/c)

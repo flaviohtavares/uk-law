@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Power of Welsh Ministers to protect others[^key-0ac8e24011a1c35c66088d6bcb6ede85][^key-cfbf42836a9c67ac3964b676c4fa4338]
+## 47. Power of Welsh Ministers to protect others[^c-0ac8e24011a1c35c66088d6bcb6ede85][^c-cfbf42836a9c67ac3964b676c4fa4338]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ but regulations under this section may make provision corresponding to the provi
 
 ## Annotations
 
-[^key-0ac8e24011a1c35c66088d6bcb6ede85]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-0ac8e24011a1c35c66088d6bcb6ede85]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-cfbf42836a9c67ac3964b676c4fa4338]: Commencement: S. 47 in force at 1.6.2026 in so far as not already in force by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/6/article/2/e)
+[^c-cfbf42836a9c67ac3964b676c4fa4338]: Commencement: S. 47 in force at 1.6.2026 in so far as not already in force by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/6/article/2/e)

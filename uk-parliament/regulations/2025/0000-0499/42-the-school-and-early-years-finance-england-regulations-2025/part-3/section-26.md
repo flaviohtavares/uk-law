@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Requirements relating to the calculation of local authority funding formula[^key-15ab0eac4979bcaa93f7943c9282c212]
+## 26. Requirements relating to the calculation of local authority funding formula[^c-15ab0eac4979bcaa93f7943c9282c212]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-15ab0eac4979bcaa93f7943c9282c212]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/42/regulation/26) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-15ab0eac4979bcaa93f7943c9282c212]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/42/regulation/26) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00073]: Footnote: The national funding formula factor values for the previous funding period can be found in the document entitled “The national funding formulae for schools and high needs 2024 – 25” published in October 2023. The document can be found at https://assets.publishing.service.gov.uk/media/651d2587bef21800156ded01/National\_funding\_formula\_for\_\_schools\_and\_high\_needs\_2024\_to\_2025.pdf. A printed copy may also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT upon request.
 

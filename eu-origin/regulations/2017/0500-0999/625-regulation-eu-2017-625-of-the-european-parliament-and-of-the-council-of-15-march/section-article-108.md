@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 108. Coordinated assistance and follow-up by the Commission[^key-6f7ad63891a6eaa7009d9f3b358e9043]
+## Article 108. Coordinated assistance and follow-up by the Commission[^c-6f7ad63891a6eaa7009d9f3b358e9043]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f7ad63891a6eaa7009d9f3b358e9043]: Textual amendment: [Art. 108](https://www.legislation.gov.uk/eur/2017/625/article/108) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(7)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/7) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-6f7ad63891a6eaa7009d9f3b358e9043]: Textual amendment: [Art. 108](https://www.legislation.gov.uk/eur/2017/625/article/108) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [19(7)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/19/7) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

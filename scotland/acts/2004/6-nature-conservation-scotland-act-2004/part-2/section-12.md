@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Exercise of functions by public bodies etc.[^key-ab5a135d0fea97153b68682dcf9b7f1a]
+## 12. Exercise of functions by public bodies etc.[^c-ab5a135d0fea97153b68682dcf9b7f1a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab5a135d0fea97153b68682dcf9b7f1a]: Commencement: S. 12 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-ab5a135d0fea97153b68682dcf9b7f1a]: Commencement: S. 12 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

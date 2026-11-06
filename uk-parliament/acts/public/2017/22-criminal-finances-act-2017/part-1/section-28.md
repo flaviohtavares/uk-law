@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Seized money[^key-8ed50dbcfcec882160a592b176d6f9d0][^c22725311]
+## 28. Seized money[^c-8ed50dbcfcec882160a592b176d6f9d0][^c22725311]
 
 *Extent: S*
 
@@ -84,6 +84,6 @@ After section 131 of the Proceeds of Crime Act 2002 insert—
 
 ## Annotations
 
-[^key-8ed50dbcfcec882160a592b176d6f9d0]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/22/section/28) in force at 31.1.2018 in so far as not already in force by [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/a)
+[^c-8ed50dbcfcec882160a592b176d6f9d0]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/22/section/28) in force at 31.1.2018 in so far as not already in force by [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/a)
 
 [^c22725311]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/22/section/28) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

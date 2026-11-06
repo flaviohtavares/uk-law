@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Fitness of registered provider[^key-9e387a118833df8f99155c1f7e249cbe]
+## 11. Fitness of registered provider[^c-9e387a118833df8f99155c1f7e249cbe]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e387a118833df8f99155c1f7e249cbe]: Commencement: Reg. 11 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-9e387a118833df8f99155c1f7e249cbe]: Commencement: Reg. 11 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00016]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 251A was inserted by the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), Schedule 17.

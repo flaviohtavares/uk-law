@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Condition as to the submitting of samples and other information to the appropriate authority[^key-210a14710e43030dc520893e65c064b8]
+## 60A. Condition as to the submitting of samples and other information to the appropriate authority[^c-210a14710e43030dc520893e65c064b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
     - (iii) both that sample and that documentation,
 
   and confirmed that it is satisfied that the batch is in conformity with the approved specifications in the UK marketing authorisation; and
-- “[^key-19fc41e6efd01a8cc9de7e8d82bde8c5]**the batch testing exemption**” means that—
+- “[^c-19fc41e6efd01a8cc9de7e8d82bde8c5]**the batch testing exemption**” means that—
   - (a) in the case of a medicinal product for sale or supply in Northern Ireland only and authorised under a UKMA(NI) or a UKMA(UK)(Category 2), a certificate—
     - (i) has been issued by a laboratory in an EEA State, and
     - (ii) in the case of a product of a kind listed in Article 114(1) of the 2001 Directive, was issued in the same EEA State as that in which the batch was manufactured, and
@@ -58,7 +58,7 @@ summary: ''
 
 (4) The appropriate authority must complete its examination of the sample for testing, the appropriate documentation or both (as the case may be) within the period of 60 days, beginning with the date on which the appropriate authority is in receipt of both the sample for testing, and the appropriate documentation.
 
-(5) The appropriate authority must publish a list, to be known as the approved country list for batch testing and certification of biological medicinal products, specifying the countries that are approved for the purposes of the appropriate authority's assessment under paragraph (6) [^key-4a1fcbda2dfa8f3c04e64bcfa7daee22]....
+(5) The appropriate authority must publish a list, to be known as the approved country list for batch testing and certification of biological medicinal products, specifying the countries that are approved for the purposes of the appropriate authority's assessment under paragraph (6) [^c-4a1fcbda2dfa8f3c04e64bcfa7daee22]....
 
 (6) Where a holder of a UK marketing authorisation, in order to comply with the batch testing condition, submits appropriate documentation that includes a certificate issued by a laboratory in an approved country for batch testing and certification of biological medicinal products in respect of the batch, the appropriate authority must, in addition to any other factors it considers relevant, take that into account in determining whether the appropriate authority needs to undertake any further testing of the medicinal product submitted to it.
 
@@ -71,16 +71,16 @@ summary: ''
 
 (9) The appropriate authority must—
 
-- (a) publish a list of countries, or organisations, with whom the United Kingdom has an agreement for the purposes of the application of the batch testing exemption under this regulation [^key-656a45555e5b2366f28f3c10c7889210]...;
-- (b) include in that list any conditions or restrictions in that agreement that affect the applicability of the batch testing exemption under this regulation [^key-b4a84aae6f49d5983b5185dd9c6c2d6a]...; and
+- (a) publish a list of countries, or organisations, with whom the United Kingdom has an agreement for the purposes of the application of the batch testing exemption under this regulation [^c-656a45555e5b2366f28f3c10c7889210]...;
+- (b) include in that list any conditions or restrictions in that agreement that affect the applicability of the batch testing exemption under this regulation [^c-b4a84aae6f49d5983b5185dd9c6c2d6a]...; and
 - (c) update that list as soon as reasonably practicable if—
   - (i) the United Kingdom no longer has an agreement with a country or organisation included in the list,
   - (ii) any such agreement is amended, or
   - (iii) the United Kingdom enters in to a new agreement with a country or organisation.
 
-(10) Subject to paragraph (10A), where[^key-4d476c8efad0511e72fa1b9eaad7835c] a holder of a UK marketing authorisation relies on the batch testing exemption in relation to a batch of a medicinal product, that holder must submit the certificate in respect of that batch to the licensing authority and the appropriate authority, and such other documentation as those authorities may notify that holder they require, before it sells or supplies, or offers to sell or supply, a medicinal product that forms part of that batch in the United Kingdom.
+(10) Subject to paragraph (10A), where[^c-4d476c8efad0511e72fa1b9eaad7835c] a holder of a UK marketing authorisation relies on the batch testing exemption in relation to a batch of a medicinal product, that holder must submit the certificate in respect of that batch to the licensing authority and the appropriate authority, and such other documentation as those authorities may notify that holder they require, before it sells or supplies, or offers to sell or supply, a medicinal product that forms part of that batch in the United Kingdom.
 
-(10A)[^key-18d4ef12251feaf39b1080fd6de8e595] Where a holder of a UK marketing authorisation intends to rely on paragraph (a) of the batch testing exemption in relation to a batch of a medicinal product, that holder must not sell or supply, or offer to sell or supply, in Northern Ireland, a medicinal product that forms part of that batch until the appropriate authority has confirmed that it is satisfied as set out in that paragraph.
+(10A)[^c-18d4ef12251feaf39b1080fd6de8e595] Where a holder of a UK marketing authorisation intends to rely on paragraph (a) of the batch testing exemption in relation to a batch of a medicinal product, that holder must not sell or supply, or offer to sell or supply, in Northern Ireland, a medicinal product that forms part of that batch until the appropriate authority has confirmed that it is satisfied as set out in that paragraph.
 
 (11) Paragraph (12) applies where the appropriate authority considers that there are public health concerns in respect of a batch of a medicinal product (“the relevant batch”) in relation to which the batch testing exemption would otherwise apply.
 
@@ -108,16 +108,16 @@ and confirmed that it is satisfied that the relevant batch is in conformity with
 
 ## Annotations
 
-[^key-210a14710e43030dc520893e65c064b8]: Textual amendment: Regs. 60A, 60B inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [67](https://www.legislation.gov.uk/uksi/2019/775/regulation/67) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/50)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-210a14710e43030dc520893e65c064b8]: Textual amendment: Regs. 60A, 60B inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [67](https://www.legislation.gov.uk/uksi/2019/775/regulation/67) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/50)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19fc41e6efd01a8cc9de7e8d82bde8c5]: Textual amendment: Words in reg. 60A(1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/a)
+[^c-19fc41e6efd01a8cc9de7e8d82bde8c5]: Textual amendment: Words in reg. 60A(1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/a)
 
-[^key-4a1fcbda2dfa8f3c04e64bcfa7daee22]: Textual amendment: Words in reg. 60A(5) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/b)
+[^c-4a1fcbda2dfa8f3c04e64bcfa7daee22]: Textual amendment: Words in reg. 60A(5) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/b)
 
-[^key-656a45555e5b2366f28f3c10c7889210]: Textual amendment: Words in reg. 60A(9)(a) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/c)
+[^c-656a45555e5b2366f28f3c10c7889210]: Textual amendment: Words in reg. 60A(9)(a) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/c)
 
-[^key-b4a84aae6f49d5983b5185dd9c6c2d6a]: Textual amendment: Words in reg. 60A(9)(b) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/c)
+[^c-b4a84aae6f49d5983b5185dd9c6c2d6a]: Textual amendment: Words in reg. 60A(9)(b) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/c)
 
-[^key-4d476c8efad0511e72fa1b9eaad7835c]: Textual amendment: Words in reg. 60A(10) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(d)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/d)
+[^c-4d476c8efad0511e72fa1b9eaad7835c]: Textual amendment: Words in reg. 60A(10) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(d)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/d)
 
-[^key-18d4ef12251feaf39b1080fd6de8e595]: Textual amendment: Reg. 60A(10A) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(e)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/e)
+[^c-18d4ef12251feaf39b1080fd6de8e595]: Textual amendment: Reg. 60A(10A) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [49(e)](https://www.legislation.gov.uk/uksi/2024/832/regulation/49/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65Z7. Joint working and delegation: guidance by NHS England[^key-8036e60c978c3bcba72adba3d57f1384]
+## 65Z7. Joint working and delegation: guidance by NHS England[^c-8036e60c978c3bcba72adba3d57f1384]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8036e60c978c3bcba72adba3d57f1384]: Textual amendment: [Ss. 65Z5-65Z7](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z5) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/71/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8036e60c978c3bcba72adba3d57f1384]: Textual amendment: [Ss. 65Z5-65Z7](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z5) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/71/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

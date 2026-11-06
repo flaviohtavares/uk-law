@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Redemption by liquidator[^key-9e091b89fce4f7327134960afb3b175a]
+## 81. Redemption by liquidator[^c-9e091b89fce4f7327134960afb3b175a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.97 of the 1986 Rules[^f00034].
 
 ## Annotations
 
-[^key-9e091b89fce4f7327134960afb3b175a]: Commencement: Rule 81 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9e091b89fce4f7327134960afb3b175a]: Commencement: Rule 81 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00034]: Footnote: Paragraph (3) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

@@ -68,9 +68,9 @@ Section 4
 
 **5.** The Radioactive Substances Act 1993 has effect, in relation to designated premises and a contractor, as if the designated premises were occupied by the contractor on behalf of the Crown for the purposes of the department of the Secretary of State having responsibility for defence.
 
-### Environmental Permitting (England and Wales) Regulations 2016[^key-898acba9543165bb2f1260ca368e7cf5]
+### Environmental Permitting (England and Wales) Regulations 2016[^c-898acba9543165bb2f1260ca368e7cf5]
 
-**6.** The Environmental Permitting (England and Wales) Regulations 2016 ([^key-36efafa630fc66f6e061c79c28569f67][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) have effect, in relation to designated premises and a contractor, as if the designated premises were used or occupied by the contractor on behalf of the Crown for the purposes of the department of the Secretary of State having responsibility for defence.
+**6.** The Environmental Permitting (England and Wales) Regulations 2016 ([^c-36efafa630fc66f6e061c79c28569f67][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) have effect, in relation to designated premises and a contractor, as if the designated premises were used or occupied by the contractor on behalf of the Crown for the purposes of the department of the Secretary of State having responsibility for defence.
 
 ### Power to create other exemptions
 
@@ -93,6 +93,6 @@ Section 4
 
 ## Annotations
 
-[^key-898acba9543165bb2f1260ca368e7cf5]: Textual amendment: Sch. 1 para. 6 cross-heading substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/20/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-898acba9543165bb2f1260ca368e7cf5]: Textual amendment: Sch. 1 para. 6 cross-heading substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/20/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-36efafa630fc66f6e061c79c28569f67]: Textual amendment: Words in Sch. 1 para. 6 substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 1 para. 20(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/20/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-36efafa630fc66f6e061c79c28569f67]: Textual amendment: Words in Sch. 1 para. 6 substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 1 para. 20(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/20/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

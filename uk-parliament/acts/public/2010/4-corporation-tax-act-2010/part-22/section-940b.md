@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 940B. Meaning of “transfer of a trade” and related expressions[^key-f11e3204f5f228203e25cdf9424fc730]
+## 940B. Meaning of “transfer of a trade” and related expressions[^c-f11e3204f5f228203e25cdf9424fc730]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f11e3204f5f228203e25cdf9424fc730]: Textual amendment: S. 940B: s. 939 renumbered as s. 940B (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/3/1/b)
+[^c-f11e3204f5f228203e25cdf9424fc730]: Textual amendment: S. 940B: s. 939 renumbered as s. 940B (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/3/1/b)

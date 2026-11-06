@@ -46,7 +46,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement, extent and transitional etc. provision[^key-37bd607586ff578c43c1df91d06284cf]
+### 1. Citation, commencement, extent and transitional etc. provision[^c-37bd607586ff578c43c1df91d06284cf]
 
 (1) These Regulations may be cited as the Public Procurement (Amendment etc.) (EU Exit) Regulations 2020.
 
@@ -65,7 +65,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
   - (ii) modifying various references in certain regulations that apply to such procurements;
 - (b) makes other savings in relation to certain provisions of these Regulations.
 
-### 2. Revocation of superseded EU exit regulations[^key-abe51e4709530316acba963d41c74d93]
+### 2. Revocation of superseded EU exit regulations[^c-abe51e4709530316acba963d41c74d93]
 
 The following are revoked—
 
@@ -74,7 +74,7 @@ The following are revoked—
 
 ## PART 2 — AMENDMENT OF PRIMARY LEGISLATION
 
-### 3. The Greater London Authority Act 1999[^key-99de301a762f486858224da80a3386ee]
+### 3. The Greater London Authority Act 1999[^c-99de301a762f486858224da80a3386ee]
 
 (1) The Greater London Authority Act 1999[^f00004] is amended as follows.
 
@@ -109,7 +109,7 @@ The following are revoked—
 
 .
 
-### 4. The Equality Act 2010[^key-aa53938af24aed2e795a249a807fff7a]
+### 4. The Equality Act 2010[^c-aa53938af24aed2e795a249a807fff7a]
 
 (1) The Equality Act 2010[^f00005] is amended as follows.
 
@@ -123,7 +123,7 @@ The following are revoked—
 
   .
 
-### 5. The Public Services (Social Value) Act 2012[^key-adc47eeee19855b7bdf8eff3891bd6aa]
+### 5. The Public Services (Social Value) Act 2012[^c-adc47eeee19855b7bdf8eff3891bd6aa]
 
 (1) The Public Services (Social Value) Act 2012[^f00006] is amended as follows.
 
@@ -140,37 +140,37 @@ The following are revoked—
 
 ### CHAPTER 1 — THE PUBLIC CONTRACTS REGULATIONS 2015
 
-#### 6. Amendments commenced on IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+#### 6. Amendments commenced on IP completion day[^c-918ef8b7644b5c9ad00f5d2640bc11ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Amendments commenced 12 months after IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+#### 7. Amendments commenced 12 months after IP completion day[^c-918ef8b7644b5c9ad00f5d2640bc11ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 2 — THE CONCESSION CONTRACTS REGULATIONS 2016
 
-#### 8. Amendments commenced on IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+#### 8. Amendments commenced on IP completion day[^c-918ef8b7644b5c9ad00f5d2640bc11ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Amendment commenced 12 months after IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+#### 9. Amendment commenced 12 months after IP completion day[^c-918ef8b7644b5c9ad00f5d2640bc11ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 3 — THE UTILITIES CONTRACTS REGULATIONS 2016
 
-#### 10. Amendments commenced on IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+#### 10. Amendments commenced on IP completion day[^c-918ef8b7644b5c9ad00f5d2640bc11ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Amendments commenced 12 months after IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+#### 11. Amendments commenced 12 months after IP completion day[^c-918ef8b7644b5c9ad00f5d2640bc11ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 4 — AMENDMENT OF OTHER SUBORDINATE LEGISLATION
 
-#### 12. The Public Contracts Regulations 2006[^key-bbda080bcde06aeefa023504cb648bd6]
+#### 12. The Public Contracts Regulations 2006[^c-bbda080bcde06aeefa023504cb648bd6]
 
 (1) To the extent that the Public Contracts Regulations 2006[^f00018] (“the 2006 Regulations”) continue to have prospective effect, their effect is modified as follows.
 
@@ -188,7 +188,7 @@ The following are revoked—
 
 that award or other act is covered by that exemption on and after IP completion day regardless of whether the terms used to define that exemption in the 2006 Regulations would otherwise have been apt to continue to achieve that effect on and after IP completion day.
 
-#### 13. The Utilities Contracts Regulations 2006[^key-68ef9685befaa40bf1338c096a3c7179]
+#### 13. The Utilities Contracts Regulations 2006[^c-68ef9685befaa40bf1338c096a3c7179]
 
 (1) To the extent that the Utilities Contracts Regulations 2006[^f00019] (“the 2006 Regulations”) continue to have prospective effect, their effect is modified as follows.
 
@@ -215,19 +215,19 @@ that award or other act is covered by that exemption on and after IP completion 
 
 that award or other act is covered by that exemption on and after IP completion day regardless of whether the terms used to define that exemption in the 2006 Regulations would otherwise have been apt to continue to achieve that effect on and after IP completion day.
 
-#### 14. The Service Charges (Consultation Requirements) (England) Regulations 2003[^key-93c9890b7babacbce73612b1bc302f9c]
+#### 14. The Service Charges (Consultation Requirements) (England) Regulations 2003[^c-93c9890b7babacbce73612b1bc302f9c]
 
 (1) The Service Charges (Consultation Requirements) (England) Regulations 2003[^f00020] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (1), in the definition of “public notice”, for the words from “published” to the end substitute “published, pursuant to the Public Contracts Regulations 2015, on the UK e-notification service (as defined by those Regulations)”.
 
-#### 15. The Provision of Services Regulations 2009[^key-951b5f5744108815c6d20e16405e4348]
+#### 15. The Provision of Services Regulations 2009[^c-951b5f5744108815c6d20e16405e4348]
 
 (1) The Provision of Services Regulations 2009[^f00021] are amended as follows.
 
 (2) In regulation 31 (certificates and other documents), in paragraph (5)(g), omit “(read with regulation 58(5))”.
 
-#### 16. The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^key-349d30bc723b8acf2d4ad9f4f87ad3b9]
+#### 16. The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^c-349d30bc723b8acf2d4ad9f4f87ad3b9]
 
 (1) The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^f00022] are amended as follows.
 
@@ -237,13 +237,13 @@ that award or other act is covered by that exemption on and after IP completion 
 - (b) for “, in the second place it occurs,” substitute “as if the subsequent reference to “the Minister” in sub-paragraph (a)”;
 - (c) for “(3), (8) and (9)” substitute “(3) and (7)(b) and (c).”
 
-## PART 4 — AMENDMENT OF ASSIMILATED DIRECT LEGISLATION[^key-1aa6dc54d50def5fceff8e3574efd737]
+## PART 4 — AMENDMENT OF ASSIMILATED DIRECT LEGISLATION[^c-1aa6dc54d50def5fceff8e3574efd737]
 
-### 17. Annex 16 to the EEA Agreement[^key-cffc4db8ec85c7a225b95e7ca8966ac6]
+### 17. Annex 16 to the EEA Agreement[^c-cffc4db8ec85c7a225b95e7ca8966ac6]
 
 In Annex 16 to the EEA Agreement, omit point 6g (application of Commission Implementing Regulation (EU) 2015/1986).
 
-### 18. Regulation 2195/2002 of the European Parliament and of the Council[^key-f6a45cd689a4f5dad3eb1b4e7315bc8c]
+### 18. Regulation 2195/2002 of the European Parliament and of the Council[^c-f6a45cd689a4f5dad3eb1b4e7315bc8c]
 
 (1) Regulation 2195/2002 of the European Parliament and of the Council of 5th November 2002 on the Common Procurement Vocabulary (CPV) is amended as follows.
 
@@ -263,7 +263,7 @@ In Annex 16 to the EEA Agreement, omit point 6g (application of Commission Imple
 
 (3) In Article 4, omit the second paragraph.
 
-### 19. Commission [Decision 2006/211/EC](https://www.legislation.gov.uk/european/decision/2006/0211)[^key-66b161866dc53cb8dc43ad8d9f763cb6]
+### 19. Commission [Decision 2006/211/EC](https://www.legislation.gov.uk/european/decision/2006/0211)[^c-66b161866dc53cb8dc43ad8d9f763cb6]
 
 (1) Commission [Decision 2006/211/EC](https://www.legislation.gov.uk/european/decision/2006/0211) of 8th March 2006 establishing that Article 30(1) of [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017) of the European Parliament and of the Council coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors applies to electricity generation in England, Scotland and Wales is amended as follows.
 
@@ -271,7 +271,7 @@ In Annex 16 to the EEA Agreement, omit point 6g (application of Commission Imple
 
 (3) Omit Articles 2 and 3.
 
-### 20. Commission [Decision 2007/141/EC](https://www.legislation.gov.uk/european/decision/2007/0141)[^key-7a4bb9f3c55de40c5b423315b28da5e8]
+### 20. Commission [Decision 2007/141/EC](https://www.legislation.gov.uk/european/decision/2007/0141)[^c-7a4bb9f3c55de40c5b423315b28da5e8]
 
 (1) Commission [Decision 2007/141/EC](https://www.legislation.gov.uk/european/decision/2007/0141) of 26th February 2007 establishing that Article 30(1) of [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017) of the European Parliament and of the Council coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors applies to the supply of electricity and gas in England, Scotland and Wales is amended as follows.
 
@@ -279,7 +279,7 @@ In Annex 16 to the EEA Agreement, omit point 6g (application of Commission Imple
 
 (3) Omit Articles 2 and 3.
 
-### 21. Commission [Decision 2010/192/EU](https://www.legislation.gov.uk/european/decision/2010/0192)[^key-f573a344b2d1d90500bd6ffb1cad942f]
+### 21. Commission [Decision 2010/192/EU](https://www.legislation.gov.uk/european/decision/2010/0192)[^c-f573a344b2d1d90500bd6ffb1cad942f]
 
 (1) Commission [Decision 2010/192/EU](https://www.legislation.gov.uk/european/decision/2010/0192) of 29th March 2010 exempting exploration for and exploitation of oil and gas in England, Scotland and Wales from the application of [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017) of the European Parliament and of the Council coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors is amended as follows.
 
@@ -287,11 +287,11 @@ In Annex 16 to the EEA Agreement, omit point 6g (application of Commission Imple
 
 (3) Omit Article 2.
 
-### 22. Commission Implementing Regulation (EU) 2015/1986[^key-e0f6e9d97ee7606730a53b9b63f152ea]
+### 22. Commission Implementing Regulation (EU) 2015/1986[^c-e0f6e9d97ee7606730a53b9b63f152ea]
 
 Commission Implementing Regulation (EU) No 2015/1986 of 11th November 2015 establishing standard forms for the publication of notices in the field of public procurement and repealing Implementing Regulation (EU) No 842/2011 is revoked.
 
-### 23. Commission Implementing Regulation (EU) 2016/7[^key-039acd8b864511bb8d528a24b29e93b6]
+### 23. Commission Implementing Regulation (EU) 2016/7[^c-039acd8b864511bb8d528a24b29e93b6]
 
 *Extent: E+W+N.I.*
 
@@ -303,7 +303,7 @@ Commission Implementing Regulation (EU) No 2015/1986 of 11th November 2015 estab
 - (b) for “European single procurement document” substitute “Single Procurement Document”;
 - (c) for “Article 59 of [Directive 2014/24/EU](https://www.legislation.gov.uk/european/directive/2014/0024)” substitute “regulation 59 of the Public Contracts Regulations 2006”.
 
-### 24. Commission Implementing Decision (EU) 2017/1870[^key-f478f32deb5850240c90686dd5e8cc28]
+### 24. Commission Implementing Decision (EU) 2017/1870[^c-f478f32deb5850240c90686dd5e8cc28]
 
 (1) Commission Implementing Decision (EU) 2017/1870 of 16th October 2017 on the publication of the reference of the European standard on electronic invoicing and the list of its syntaxes pursuant to [Directive 2014/55/EU](https://www.legislation.gov.uk/european/directive/2014/0055) of the European Parliament and of the Council is amended as follows.
 
@@ -332,11 +332,11 @@ Commission Implementing Regulation (EU) No 2015/1986 of 11th November 2015 estab
 
 ## PART 5 — CESSATION OF RIGHTS ETC.
 
-### 25. Cessation of certain prohibitions on the grounds of nationality[^key-177b15335135ac4af9beb4a22fda9c3e]
+### 25. Cessation of certain prohibitions on the grounds of nationality[^c-177b15335135ac4af9beb4a22fda9c3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Cessation of rights etc. under certain international agreements[^key-a27e041d641a060a2e77aac14e74dc64]
+### 26. Cessation of rights etc. under certain international agreements[^c-a27e041d641a060a2e77aac14e74dc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -354,7 +354,7 @@ Regulation 1(6)
 
 ### PART 1 — INTERPRETATION
 
-#### 1. Interpretation of Schedule[^key-e0fd8e0b7a69b4368a6e8a62c6828889]
+#### 1. Interpretation of Schedule[^c-e0fd8e0b7a69b4368a6e8a62c6828889]
 
 (1) In this Schedule—
 
@@ -385,7 +385,7 @@ Regulation 1(6)
 
 ### PART 2 — PROCUREMENTS PENDING ETC. ON IP COMPLETION DAY
 
-#### 2. Meaning of “steady state amendments”[^key-7a27569b151b194f75073a2160eea9d7]
+#### 2. Meaning of “steady state amendments”[^c-7a27569b151b194f75073a2160eea9d7]
 
 In this Part, “steady state amendments” means—
 
@@ -394,7 +394,7 @@ In this Part, “steady state amendments” means—
   - (i) come into force on, or begin to apply from, IP completion day or any time after IP completion day; and
   - (ii) are not made by or under any of sections 7A, 7B, 7C, 8B and 8C of the European Union (Withdrawal) Act 2018[^f00046].
 
-#### 3. Saving for procedures launched, but not finalised, before IP completion day[^key-31d757474effa541bbc5777caae18491]
+#### 3. Saving for procedures launched, but not finalised, before IP completion day[^c-31d757474effa541bbc5777caae18491]
 
 (1) Steady state amendments do not affect any procedure launched by a contracting authority or a utility under the Procurement Regulations if the procedure —
 
@@ -428,7 +428,7 @@ Meaning of ‘finalised’
 - (b) where the Procurement Regulations do not require the publication of such a notice, upon conclusion of the relevant contract;
 - (c) where the contracting authority or utility decided not to award a contract, upon informing the tenderers, or persons otherwise entitled to submit applications, of the reasons why the contract was not awarded.
 
-#### 4. Saving for call-off procedures under certain framework agreements[^key-302556e678791ed66e876f17bc896974]
+#### 4. Saving for call-off procedures under certain framework agreements[^c-302556e678791ed66e876f17bc896974]
 
 (1) If the condition in sub-paragraph (2) is met, steady state amendments do not affect any procedure relating to the performance of a framework agreement, including the award of contracts based on such an agreement, under—
 
@@ -440,7 +440,7 @@ Meaning of ‘finalised’
 - (a) was concluded before IP completion day and had neither expired nor been terminated before IP completion day; or
 - (b) was concluded after IP completion day in accordance with a procedure to which paragraph 3 applied.
 
-#### 5. Transitional modification of the Procurement Regulations[^key-606dcc3d92f4343660da44fec531d0b2]
+#### 5. Transitional modification of the Procurement Regulations[^c-606dcc3d92f4343660da44fec531d0b2]
 
 (1) In relation to a procedure to which paragraph 3 or 4 applies, the Procurement Regulations are to be read, on and after IP completion day, and so far as the context permits or requires, as if—
 
@@ -466,7 +466,7 @@ Meaning of ‘finalised’
 
 ### PART 3 — PROVISIONS COMMENCED ON IP COMPLETION DAY
 
-#### 6. Procurement involving contracting authorities or utilities from other member States[^key-95143fe4f617249bcfdf7635198c4abb]
+#### 6. Procurement involving contracting authorities or utilities from other member States[^c-95143fe4f617249bcfdf7635198c4abb]
 
 (1) This paragraph applies in relation to the omission, by these Regulations, of—
 
@@ -478,7 +478,7 @@ Meaning of ‘finalised’
 - (a) any prohibition of the activities authorised by the omitted regulations (which activities might, accordingly, be carried on to any extent that would have been lawful if the omitted regulations had never existed); or
 - (b) that any matters provided for in those regulations are necessarily to have a different effect unless so required by applicable law (including rules for resolving any conflicts between the laws of different jurisdictions).
 
-#### 7. Saving of implied power to terminate contracts[^key-8a9382262cb8bf0b871c7f193a65e0ee]
+#### 7. Saving of implied power to terminate contracts[^c-8a9382262cb8bf0b871c7f193a65e0ee]
 
 (1) This paragraph applies where—
 
@@ -490,11 +490,11 @@ Meaning of ‘finalised’
 
 (2) On and after IP completion day, that power continues despite the omission, by these Regulations, of regulation 73(1)(c), 44(1)(c) or 89(1)(c), as the case may be.
 
-#### 8. Saving of regulation 60(2) of the Concession Contracts Regulations 2016[^key-5e9021f79114449891d2d0ed0251fbe3]
+#### 8. Saving of regulation 60(2) of the Concession Contracts Regulations 2016[^c-5e9021f79114449891d2d0ed0251fbe3]
 
 The amendment made by these Regulations to regulation 60(2) of the Concession Contracts Regulations 2016 (application of the first ground of ineffectiveness) does not apply where the contract referred to in regulation 60(2) was awarded before IP completion day.
 
-#### 9. Saving in relation to voluntary transparency notices[^key-bcbd95e6fe494cb1d5267f4cf0b986d9]
+#### 9. Saving in relation to voluntary transparency notices[^c-bcbd95e6fe494cb1d5267f4cf0b986d9]
 
 (1) This paragraph applies in relation to the amendments made by these Regulations to—
 
@@ -506,11 +506,11 @@ The amendment made by these Regulations to regulation 60(2) of the Concession Co
 
 ### PART 4 — PROVISIONS COMMENCED 12 MONTHS AFTER IP COMPLETION DAY
 
-#### 10. Saving in relation to procurements commenced before regulations 7, 9 and 11 come into force[^key-4b17b208362219508e3b85a615419da7]
+#### 10. Saving in relation to procurements commenced before regulations 7, 9 and 11 come into force[^c-4b17b208362219508e3b85a615419da7]
 
 The amendments made by regulations 7, 9 and 11 do not affect any procurement commenced before the date on which those amendments come into force (“the second commencement date”).
 
-**11.**[^key-f1f79853a482f34d9cd791ea82c1a2a3] For the purposes of this Part, a procurement has been commenced before the second commencement date if, before that date—
+**11.**[^c-f1f79853a482f34d9cd791ea82c1a2a3] For the purposes of this Part, a procurement has been commenced before the second commencement date if, before that date—
 
 - (a) a notice has been sent to the UK e-notification service in accordance with applicable Procurement Regulations in order to—
   - (i) invite offers or requests to be selected to tender for or to negotiate in respect of a proposed contract, framework agreement or dynamic purchasing system; or
@@ -520,13 +520,13 @@ The amendments made by regulations 7, 9 and 11 do not affect any procurement com
   - (i) seek expressions of interest or offers in respect of a proposed contract, framework agreement or dynamic purchasing system; or
   - (ii) respond to an unsolicited expression of interest or offer received from that economic operator in relation to a proposed contract, framework agreement or dynamic purchasing system.
 
-**12.**[^key-6c5afdce2bfdf50249ec458ee91bf520] For the purposes of this Part, a procurement covers the whole of the procedures which stem from that commencement.
+**12.**[^c-6c5afdce2bfdf50249ec458ee91bf520] For the purposes of this Part, a procurement covers the whole of the procedures which stem from that commencement.
 
-**13.**[^key-bbc1eb6f0089073cc2a66ca9122ce6ca] Accordingly, for example, if a contract notice in relation to a proposed framework agreement under the Public Contracts Regulations 2015 has, before the second commencement date, been sent as described in paragraph 11(a), paragraph 10 applies to the award of any contracts based on that framework agreement regardless of whether the relevant specific procedure for the award of any such contract under regulation 33(7) to (11) of the Public Contracts Regulations 2015 had itself been commenced before the second commencement date.
+**13.**[^c-bbc1eb6f0089073cc2a66ca9122ce6ca] Accordingly, for example, if a contract notice in relation to a proposed framework agreement under the Public Contracts Regulations 2015 has, before the second commencement date, been sent as described in paragraph 11(a), paragraph 10 applies to the award of any contracts based on that framework agreement regardless of whether the relevant specific procedure for the award of any such contract under regulation 33(7) to (11) of the Public Contracts Regulations 2015 had itself been commenced before the second commencement date.
 
-**14.**[^key-5fef7da54a759c6348b8d903a97f15fa] Procedures taken for the purpose of modifying a contract or framework agreement are not to be regarded, for the purposes of paragraph 12, as stemming from the commencement of the procurement from which the award of that contract or framework agreement had itself stemmed.
+**14.**[^c-5fef7da54a759c6348b8d903a97f15fa] Procedures taken for the purpose of modifying a contract or framework agreement are not to be regarded, for the purposes of paragraph 12, as stemming from the commencement of the procurement from which the award of that contract or framework agreement had itself stemmed.
 
-**15.**[^key-95e1c4365e3e9a7c103e2a76045cb22d] A procedure commenced as described in paragraph 11(a)(i), (b) or (c) is not to be regarded, for the purposes of paragraph 11, as stemming from the commencement of any design contest that had previously been held in relation to the subject-matter of the procurement.
+**15.**[^c-95e1c4365e3e9a7c103e2a76045cb22d] A procedure commenced as described in paragraph 11(a)(i), (b) or (c) is not to be regarded, for the purposes of paragraph 11, as stemming from the commencement of any design contest that had previously been held in relation to the subject-matter of the procurement.
 
 EXPLANATORY NOTE
 
@@ -546,104 +546,104 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8 was amended, and section 8B was inserted, by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), sections 27 and 18 respectively.
 
-[^key-37bd607586ff578c43c1df91d06284cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-37bd607586ff578c43c1df91d06284cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-abe51e4709530316acba963d41c74d93]: Commencement: Reg. 2 in force at 20.11.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/3)
+[^c-abe51e4709530316acba963d41c74d93]: Commencement: Reg. 2 in force at 20.11.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2019/560](https://www.legislation.gov.uk/uksi/2019/560). Those Regulations, which are prospectively amended by the other Regulations that are also revoked by this paragraph, are not yet in force and, by virtue of this revocation, will never come into force. As modified by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), Schedule 5, paragraph 1(1), the provisions of those Regulations would have come into force on IP completion day (or in some cases after IP completion day) but are wholly superseded by the provision made by these Regulations.
 
 [^f00003]: Footnote: [S.I. 2019/623](https://www.legislation.gov.uk/uksi/2019/623), modified by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), Schedule 5, paragraph 1(1).
 
-[^key-99de301a762f486858224da80a3386ee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1319/regulation/3) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-99de301a762f486858224da80a3386ee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1319/regulation/3) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00004]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29); sections 355(8), 356(3A) and 358(1ZA) and (1BA) were inserted by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) and amended by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275); section 358(1A) and (1C) were respectively substituted and inserted by the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), section 39(1) to (3) and amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102).
 
-[^key-aa53938af24aed2e795a249a807fff7a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1319/regulation/4) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-aa53938af24aed2e795a249a807fff7a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1319/regulation/4) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00005]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15); section 155(3) was amended by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275).
 
-[^key-adc47eeee19855b7bdf8eff3891bd6aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1319/regulation/5) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-adc47eeee19855b7bdf8eff3891bd6aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1319/regulation/5) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00006]: Footnote: [2012 c. 3](https://www.legislation.gov.uk/ukpga/2012/3); section 1(2)(a) was amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102); in section 1(15), the definition of “sub-central contracting authority” was inserted by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275).
 
-[^key-918ef8b7644b5c9ad00f5d2640bc11ac]: Textual amendment: [Regs. 6-11](https://www.legislation.gov.uk/uksi/2020/1319/regulation/6) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-918ef8b7644b5c9ad00f5d2640bc11ac]: Textual amendment: [Regs. 6-11](https://www.legislation.gov.uk/uksi/2020/1319/regulation/6) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
-[^key-bbda080bcde06aeefa023504cb648bd6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1319/regulation/12) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-bbda080bcde06aeefa023504cb648bd6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1319/regulation/12) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5). The Regulations were revoked by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) but subject to savings. Before being revoked, the Regulations had been amended by [S.I. 2007/3542](https://www.legislation.gov.uk/uksi/2007/3542), [2008/2256](https://www.legislation.gov.uk/uksi/2008/2256), [2683](https://www.legislation.gov.uk/uksi/2008/2683), [2848](https://www.legislation.gov.uk/uksi/2008/2848), [2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), [2992](https://www.legislation.gov.uk/uksi/2009/2992), [2010/133](https://www.legislation.gov.uk/uksi/2010/133), [976](https://www.legislation.gov.uk/uksi/2010/976), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [1848](https://www.legislation.gov.uk/uksi/2011/1848), [2053](https://www.legislation.gov.uk/uksi/2011/2053), [2581](https://www.legislation.gov.uk/uksi/2011/2581), [3058](https://www.legislation.gov.uk/uksi/2011/3058), [2013/252](https://www.legislation.gov.uk/uksi/2013/252), [1431](https://www.legislation.gov.uk/uksi/2013/1431), [2014/834](https://www.legislation.gov.uk/uksi/2014/834) and by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), Schedule 20, paragraph 2.
 
-[^key-68ef9685befaa40bf1338c096a3c7179]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1319/regulation/13) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-68ef9685befaa40bf1338c096a3c7179]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1319/regulation/13) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2006/6](https://www.legislation.gov.uk/uksi/2006/6). The Regulations were revoked by [S.I. 2016/274](https://www.legislation.gov.uk/uksi/2016/274) but subject to savings. Before being revoked, the Regulations had been amended by [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157), [3542](https://www.legislation.gov.uk/uksi/2007/3542), [2008/2256](https://www.legislation.gov.uk/uksi/2008/2256), [2848](https://www.legislation.gov.uk/uksi/2008/2848), [2009/3100](https://www.legislation.gov.uk/uksi/2009/3100), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [1441](https://www.legislation.gov.uk/uksi/2011/1441), [2053](https://www.legislation.gov.uk/uksi/2011/2053), [1848](https://www.legislation.gov.uk/uksi/2011/1848), [2012/1659](https://www.legislation.gov.uk/uksi/2012/1659), [2013/610](https://www.legislation.gov.uk/uksi/2013/610), [2015/102](https://www.legislation.gov.uk/uksi/2015/102).
 
-[^key-93c9890b7babacbce73612b1bc302f9c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1319/regulation/14) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-93c9890b7babacbce73612b1bc302f9c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1319/regulation/14) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00020]: Footnote: [S.1. 2003/1987](https://www.legislation.gov.uk/uksi/2003/1987), amended by [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5), [2015/102](https://www.legislation.gov.uk/uksi/2015/102); there are other amending instruments but none is relevant.
 
-[^key-951b5f5744108815c6d20e16405e4348]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1319/regulation/15) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-951b5f5744108815c6d20e16405e4348]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1319/regulation/15) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2009/2999](https://www.legislation.gov.uk/uksi/2009/2999), amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102); there are other amending instruments but none is relevant.
 
-[^key-349d30bc723b8acf2d4ad9f4f87ad3b9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1319/regulation/16) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-349d30bc723b8acf2d4ad9f4f87ad3b9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1319/regulation/16) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), amended by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275); there are other amending instruments but none is relevant.
 
-[^key-1aa6dc54d50def5fceff8e3574efd737]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1319/part/4) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/3)
+[^c-1aa6dc54d50def5fceff8e3574efd737]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1319/part/4) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/3)
 
-[^key-cffc4db8ec85c7a225b95e7ca8966ac6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1319/regulation/17) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-cffc4db8ec85c7a225b95e7ca8966ac6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1319/regulation/17) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-f6a45cd689a4f5dad3eb1b4e7315bc8c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1319/regulation/18) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-f6a45cd689a4f5dad3eb1b4e7315bc8c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1319/regulation/18) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-66b161866dc53cb8dc43ad8d9f763cb6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1319/regulation/19) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-66b161866dc53cb8dc43ad8d9f763cb6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1319/regulation/19) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00023]: Footnote: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49).
 
-[^key-7a4bb9f3c55de40c5b423315b28da5e8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1319/regulation/20) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-7a4bb9f3c55de40c5b423315b28da5e8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1319/regulation/20) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-f573a344b2d1d90500bd6ffb1cad942f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1319/regulation/21) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-f573a344b2d1d90500bd6ffb1cad942f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1319/regulation/21) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-e0f6e9d97ee7606730a53b9b63f152ea]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1319/regulation/22) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-e0f6e9d97ee7606730a53b9b63f152ea]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1319/regulation/22) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-039acd8b864511bb8d528a24b29e93b6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1319/regulation/23) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-039acd8b864511bb8d528a24b29e93b6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1319/regulation/23) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-f478f32deb5850240c90686dd5e8cc28]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-f478f32deb5850240c90686dd5e8cc28]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-177b15335135ac4af9beb4a22fda9c3e]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1319/regulation/25) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(2)(d)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/2/d)
+[^c-177b15335135ac4af9beb4a22fda9c3e]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1319/regulation/25) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(2)(d)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/2/d)
 
-[^key-a27e041d641a060a2e77aac14e74dc64]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1319/regulation/26) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(2)(e)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/2/e)
+[^c-a27e041d641a060a2e77aac14e74dc64]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1319/regulation/26) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(2)(e)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/2/e)
 
-[^key-e0fd8e0b7a69b4368a6e8a62c6828889]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/1) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-e0fd8e0b7a69b4368a6e8a62c6828889]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/1) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00045]: Footnote: For example, regulation 60(2) of the Concession Contracts Regulations 2016 is mentioned only in paragraph 8, which saves its previous wording in certain cases, but that does not prevent the more general saving in paragraph 3 from applying to save the previous wording of regulation 60(2) in other cases; nor does the slight overlap between those paragraphs (in cases in which a contract might, before IP completion day, have been awarded but not yet ‘finalised’ as defined in paragraph (3) affect the interpretation of either saving.
 
-[^key-7a27569b151b194f75073a2160eea9d7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/2) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-7a27569b151b194f75073a2160eea9d7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/2) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00046]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); sections 7A, 7B, 7C, 8B and 8C were inserted by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), sections 5, 6, 26(2), 18 and 21 respectively.
 
-[^key-31d757474effa541bbc5777caae18491]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-31d757474effa541bbc5777caae18491]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-302556e678791ed66e876f17bc896974]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-302556e678791ed66e876f17bc896974]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-606dcc3d92f4343660da44fec531d0b2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/5) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-606dcc3d92f4343660da44fec531d0b2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/5) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-95143fe4f617249bcfdf7635198c4abb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/6) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-95143fe4f617249bcfdf7635198c4abb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/6) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-8a9382262cb8bf0b871c7f193a65e0ee]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/7) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-8a9382262cb8bf0b871c7f193a65e0ee]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/7) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-5e9021f79114449891d2d0ed0251fbe3]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/8) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-5e9021f79114449891d2d0ed0251fbe3]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/8) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-bcbd95e6fe494cb1d5267f4cf0b986d9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/9) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-bcbd95e6fe494cb1d5267f4cf0b986d9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/9) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-4b17b208362219508e3b85a615419da7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/10) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-4b17b208362219508e3b85a615419da7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/10) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-f1f79853a482f34d9cd791ea82c1a2a3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/11) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-f1f79853a482f34d9cd791ea82c1a2a3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/11) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-6c5afdce2bfdf50249ec458ee91bf520]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/12) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-6c5afdce2bfdf50249ec458ee91bf520]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/12) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-bbc1eb6f0089073cc2a66ca9122ce6ca]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/13) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-bbc1eb6f0089073cc2a66ca9122ce6ca]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/13) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-5fef7da54a759c6348b8d903a97f15fa]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/14) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-5fef7da54a759c6348b8d903a97f15fa]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/14) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
-[^key-95e1c4365e3e9a7c103e2a76045cb22d]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/15) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+[^c-95e1c4365e3e9a7c103e2a76045cb22d]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/15) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
 
 [^f00047]: Footnote: Section 8B was inserted by section 18 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). For the meaning of “withdrawal agreement”, “EEA EFTA separation agreement” and “IP completion day” see section 39(1) of the latter Act.

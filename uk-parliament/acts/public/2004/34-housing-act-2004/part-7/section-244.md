@@ -22,8 +22,8 @@ summary: ''
 
 (1) The appropriate national authority may by regulations prescribe the form of any notice, statement or other document which is required or authorised to be used under, or for the purposes of, this Act.
 
-(2) The power conferred by this section is not exercisable where specific provision for prescribing the form of a document is made elsewhere in this Act or in relation to a document given or made by the First-tier Tribunal or Upper Tribunal[^key-2ca36039237345bc7495f440a9c4a906].
+(2) The power conferred by this section is not exercisable where specific provision for prescribing the form of a document is made elsewhere in this Act or in relation to a document given or made by the First-tier Tribunal or Upper Tribunal[^c-2ca36039237345bc7495f440a9c4a906].
 
 ## Annotations
 
-[^key-2ca36039237345bc7495f440a9c4a906]: Textual amendment: Words in s. 244(2) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 177](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/177) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-2ca36039237345bc7495f440a9c4a906]: Textual amendment: Words in s. 244(2) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 177](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/177) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

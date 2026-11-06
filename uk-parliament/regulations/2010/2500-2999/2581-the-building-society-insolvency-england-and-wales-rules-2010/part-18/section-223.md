@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 223. Security in court[^key-7627fa4f3505705c62f697a026a71680]
+## 223. Security in court[^c-7627fa4f3505705c62f697a026a71680]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.58 of the 1986 Rules.
 
 ## Annotations
 
-[^key-7627fa4f3505705c62f697a026a71680]: Commencement: Rule 223 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-7627fa4f3505705c62f697a026a71680]: Commencement: Rule 223 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

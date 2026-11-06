@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Identification of potential victims of slavery or human trafficking[^key-40552ec73c8206dd6a90ab23d0ae2af6][^key-a40df138480097f4dcf9d82bb1bc2596]
+## 60. Identification of potential victims of slavery or human trafficking[^c-40552ec73c8206dd6a90ab23d0ae2af6][^c-a40df138480097f4dcf9d82bb1bc2596]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40552ec73c8206dd6a90ab23d0ae2af6]: Commencement: S. 60 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-40552ec73c8206dd6a90ab23d0ae2af6]: Commencement: S. 60 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-a40df138480097f4dcf9d82bb1bc2596]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/36/section/60) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/a)
+[^c-a40df138480097f4dcf9d82bb1bc2596]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/36/section/60) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/a)

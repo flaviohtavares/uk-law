@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Winding up dissolved limited partnerships[^key-b972af1b7646f47e90d1c6bb0575d948]
+## 132. Winding up dissolved limited partnerships[^c-b972af1b7646f47e90d1c6bb0575d948]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ After section 28 of the Limited Partnerships Act 1907 (inserted by section 131 o
 
 ## Annotations
 
-[^key-b972af1b7646f47e90d1c6bb0575d948]: Commencement: S. 132 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b972af1b7646f47e90d1c6bb0575d948]: Commencement: S. 132 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

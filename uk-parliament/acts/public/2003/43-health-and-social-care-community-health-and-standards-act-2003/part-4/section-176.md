@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. General medical services: transitional[^c552146][^key-837e7d0ecb09b6ca3f7d02e96b95e226][^key-48f9cba92f2e5d97a8f96f8a73fada0b]
+## 176. General medical services: transitional[^c552146][^c-837e7d0ecb09b6ca3f7d02e96b95e226][^c-48f9cba92f2e5d97a8f96f8a73fada0b]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c552146]: Commencement: S. 176 partly in force; s. 176 in force at Royal Assent for certain purposes, see s. 199(1)(4)
 
-[^key-837e7d0ecb09b6ca3f7d02e96b95e226]: Commencement: S. 176 in force at 3.2.2004 for E. by [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2004/288/article/3/1/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/288/article/7), [8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925))
+[^c-837e7d0ecb09b6ca3f7d02e96b95e226]: Commencement: S. 176 in force at 3.2.2004 for E. by [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2004/288/article/3/1/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/288/article/7), [8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925))
 
-[^key-48f9cba92f2e5d97a8f96f8a73fada0b]: Commencement: S. 176 in force at 28.2.2004 for W. by [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2004/480/article/3/1/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/480/article/6), [7](https://www.legislation.gov.uk/uksi/2004/480/article/7)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))
+[^c-48f9cba92f2e5d97a8f96f8a73fada0b]: Commencement: S. 176 in force at 28.2.2004 for W. by [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2004/480/article/3/1/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/480/article/6), [7](https://www.legislation.gov.uk/uksi/2004/480/article/7)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))

@@ -25,7 +25,7 @@ summary: ''
 (2) On a decree nisi being made absolute, the proper officer or chief clerk, as the case may be, shall—
 
 - (a) send to the petitioner and the respondent a certificate in Form M11 or M12, authenticated by the appropriate seal, and
-- (b) if the cause is pending in the[^key-326143effec8bc3d714d74915ac06753] county court, notify the Matrimonial Office.
+- (b) if the cause is pending in the[^c-326143effec8bc3d714d74915ac06753] county court, notify the Matrimonial Office.
 
 (3) A certificate in Form M11 or M12 that a decree nisi has been made absolute shall be issued to any person requiring it on payment of the prescribed fee.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-326143effec8bc3d714d74915ac06753]: Textual amendment: Word in [rule 2.54(2)(b)](https://www.legislation.gov.uk/nisr/1996/322/article/2.54/2/b) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(16)](https://www.legislation.gov.uk/nisr/2016/301/article/2/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-326143effec8bc3d714d74915ac06753]: Textual amendment: Word in [rule 2.54(2)(b)](https://www.legislation.gov.uk/nisr/1996/322/article/2.54/2/b) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(16)](https://www.legislation.gov.uk/nisr/2016/301/article/2/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

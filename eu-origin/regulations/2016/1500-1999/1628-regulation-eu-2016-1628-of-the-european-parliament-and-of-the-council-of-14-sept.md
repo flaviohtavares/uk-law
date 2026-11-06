@@ -27,7 +27,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-d716abbc9d34398e0308885f1b9bac2b]Regulation (EU) 2016/1628 of the European Parliament and of the Council
+[^c-d716abbc9d34398e0308885f1b9bac2b]Regulation (EU) 2016/1628 of the European Parliament and of the Council
 
 of 14 September 2016
 
@@ -393,7 +393,7 @@ For the purposes of this Regulation, the following definitions apply:
 - ((74)) ‘deterioration factors’ means the set of factors that indicate the relationship between emissions at the start and end of the emission durability period;
 - ((75)) ‘virtual testing’ means computer simulations, including calculations, undertaken to demonstrate the level of performance of an engine as an aid to decision-making without requiring the use of a physical engine.
 
-References in this Regulation to Member States are to be read (insofar as is possible) as including the United Kingdom.[^key-ece0206a8f6d986212ee835149096a00]
+References in this Regulation to Member States are to be read (insofar as is possible) as including the United Kingdom.[^c-ece0206a8f6d986212ee835149096a00]
 
 ### Article 4. Engine categories
 
@@ -2179,7 +2179,7 @@ Table VI-3: SPE emission limit values for engine category RLL
 
 ## Annotations
 
-[^key-d716abbc9d34398e0308885f1b9bac2b]: Textual amendment: Regulation excluded (temp.) by [S.I. 2018/764](https://www.legislation.gov.uk/uksi/2018/764), [reg. 10A(1)](https://www.legislation.gov.uk/uksi/2018/764/regulation/10A/1) (as inserted by [S.I. 2019/648](https://www.legislation.gov.uk/uksi/2019/648), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/648/regulation/7/2)) (as substituted by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/5) (with [reg. 2(12)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12))
+[^c-d716abbc9d34398e0308885f1b9bac2b]: Textual amendment: Regulation excluded (temp.) by [S.I. 2018/764](https://www.legislation.gov.uk/uksi/2018/764), [reg. 10A(1)](https://www.legislation.gov.uk/uksi/2018/764/regulation/10A/1) (as inserted by [S.I. 2019/648](https://www.legislation.gov.uk/uksi/2019/648), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/648/regulation/7/2)) (as substituted by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/5) (with [reg. 2(12)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12))
 
 [^f00001]: Footnote: Opinion of the European Economic and Social Committee of 18 February 2015 (not yet published in the Official Journal).
 
@@ -2221,7 +2221,7 @@ Table VI-3: SPE emission limit values for engine category RLL
 
 [^f00020]: Footnote: European standard EN 14466+A1: 2009 (Fire-fighting pumps — Portable pumps — Safety and performance requirements, tests).
 
-[^key-ece0206a8f6d986212ee835149096a00]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2016/1628/article/3) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648)](https://www.legislation.gov.uk/uksi/2019/648), [regs. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2019/648/regulation/1/b/ii), [10(2)](https://www.legislation.gov.uk/uksi/2019/648/regulation/10/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/648/regulation/11)) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ece0206a8f6d986212ee835149096a00]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2016/1628/article/3) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648)](https://www.legislation.gov.uk/uksi/2019/648), [regs. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2019/648/regulation/1/b/ii), [10(2)](https://www.legislation.gov.uk/uksi/2019/648/regulation/10/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/648/regulation/11)) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: Directive 2014/34/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres ([OJ L 96, 29.3.2014, p. 309](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.096.01.0309.01.ENG)).
 

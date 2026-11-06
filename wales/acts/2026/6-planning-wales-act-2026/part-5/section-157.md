@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Certificate of lawfulness of proposed use or development[^key-30f4adb1d5ef71b87a207a3924167524]
+## 157. Certificate of lawfulness of proposed use or development[^c-30f4adb1d5ef71b87a207a3924167524]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30f4adb1d5ef71b87a207a3924167524]: Commencement: S. 157 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-30f4adb1d5ef71b87a207a3924167524]: Commencement: S. 157 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -29,12 +29,12 @@ summary: ''
 
 - (a) because of injury or disability,
 - (b) on being dismissed by reason of redundancy,
-- (c) by reason of a relevant transfer within the meaning of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-42596e3fad235adb89bd46773015f898],
+- (c) by reason of a relevant transfer within the meaning of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-42596e3fad235adb89bd46773015f898],
 - (d) if the relevant employment is employment by an associated company (see paragraph 95(2) of Schedule 2), by reason of a change of control or other circumstances ending that company’s status as an associated company,
 - (e) by reason of the participant’s retirement ..., or
 - (f) on the participant’s death.
 
-(3)[^key-d82e3bf60c18e4fc9f8bf6b296a89174] A participant is not liable to income tax on shares (“the relevant shares”) in a company (“**the relevant company**”) being withdrawn from the plan if—
+(3)[^c-d82e3bf60c18e4fc9f8bf6b296a89174] A participant is not liable to income tax on shares (“the relevant shares”) in a company (“**the relevant company**”) being withdrawn from the plan if—
 
 - (a) the withdrawal of the relevant shares from the plan relates to—
   - (i) a transaction resulting from a compromise, arrangement or scheme falling within subsection (9),
@@ -79,7 +79,7 @@ a course of action was open to the participant which, had it been followed, woul
 (9) A compromise, arrangement or scheme falls within this subsection if it is applicable to or affects—
 
 - (a) all the ordinary share capital of the relevant company or all the shares of the same class as the relevant shares, or
-- (b) all the shares, or all the shares of that same class, which are held by a class of shareholders identified otherwise than by reference to their employment or their participation in a Schedule 2[^key-6ba46680735df067dfc007e1f991e2ce] SIP.
+- (b) all the shares, or all the shares of that same class, which are held by a class of shareholders identified otherwise than by reference to their employment or their participation in a Schedule 2[^c-6ba46680735df067dfc007e1f991e2ce] SIP.
 
 (10) A general offer falls within this subsection if—
 
@@ -97,8 +97,8 @@ a course of action was open to the participant which, had it been followed, woul
 
 ## Annotations
 
-[^key-42596e3fad235adb89bd46773015f898]: Textual amendment: Words in s. 498(2)(c) substituted (6.4.2006) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/12/2) (with [reg. 21(1)](https://www.legislation.gov.uk/uksi/2006/246/regulation/21/1))
+[^c-42596e3fad235adb89bd46773015f898]: Textual amendment: Words in s. 498(2)(c) substituted (6.4.2006) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/12/2) (with [reg. 21(1)](https://www.legislation.gov.uk/uksi/2006/246/regulation/21/1))
 
-[^key-d82e3bf60c18e4fc9f8bf6b296a89174]: Textual amendment: S. 498(3)-(13) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/19)
+[^c-d82e3bf60c18e4fc9f8bf6b296a89174]: Textual amendment: S. 498(3)-(13) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/19)
 
-[^key-6ba46680735df067dfc007e1f991e2ce]: Textual amendment: Words in s. 498(9)(b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/4/5), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-6ba46680735df067dfc007e1f991e2ce]: Textual amendment: Words in s. 498(9)(b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/4/5), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

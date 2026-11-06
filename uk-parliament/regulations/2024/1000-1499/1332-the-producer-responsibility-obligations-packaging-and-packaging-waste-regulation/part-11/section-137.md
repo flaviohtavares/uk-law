@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Transitional, transitory and saving provisions[^key-cf1a9852a4988f6c509c61629cf78440]
+## 137. Transitional, transitory and saving provisions[^c-cf1a9852a4988f6c509c61629cf78440]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 15 (transitional, transitory and saving provisions) has effect.
 
 ## Annotations
 
-[^key-cf1a9852a4988f6c509c61629cf78440]: Commencement: Reg. 137 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-cf1a9852a4988f6c509c61629cf78440]: Commencement: Reg. 137 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

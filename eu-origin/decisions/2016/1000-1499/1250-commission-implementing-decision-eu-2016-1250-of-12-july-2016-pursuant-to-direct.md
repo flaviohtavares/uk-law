@@ -37,35 +37,35 @@ pursuant to Directive 95/46/EC of the European Parliament and of the Council on 
 
 (Text with EEA relevance) (revoked)
 
-[^key-454722433768fc74c815db1c7eda32f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-454722433768fc74c815db1c7eda32f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-454722433768fc74c815db1c7eda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-454722433768fc74c815db1c7eda32f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-454722433768fc74c815db1c7eda32f0]
+## ANNEX I[^c-454722433768fc74c815db1c7eda32f0]
 
-[^key-454722433768fc74c815db1c7eda32f0]**Letter from U.S. Secretary of Commerce Penny Pritzker**
+[^c-454722433768fc74c815db1c7eda32f0]**Letter from U.S. Secretary of Commerce Penny Pritzker**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]Annex 1
+[^c-454722433768fc74c815db1c7eda32f0]Annex 1
 
-[^key-454722433768fc74c815db1c7eda32f0]**Letter from Acting Under Secretary for International Trade Ken Hyatt**
+[^c-454722433768fc74c815db1c7eda32f0]**Letter from Acting Under Secretary for International Trade Ken Hyatt**
 
 The Honorable Věra Jourová
 
@@ -87,7 +87,7 @@ We have worked with the Commission to develop the Privacy Shield to allow organi
 
 While a company's decision to self-certify to this new Framework will be voluntary, once a company publicly commits to the Privacy Shield, its commitment is enforceable under U.S. law by either the Federal Trade Commission or Department of Transportation, depending on which authority has jurisdiction over the Privacy Shield organization.
 
-[^key-454722433768fc74c815db1c7eda32f0]**Enhancements under the Privacy Shield Principles**
+[^c-454722433768fc74c815db1c7eda32f0]**Enhancements under the Privacy Shield Principles**
 
 The resulting Privacy Shield strengthens the protection of privacy by:
 
@@ -102,7 +102,7 @@ The resulting Privacy Shield strengthens the protection of privacy by:
 - requiring organizations to respond expeditiously to complaints regarding compliance with the Principles referred by EU Member State authorities through the Department; and
 - requiring a Privacy Shield organization to make public any relevant Privacy Shield-related sections of any compliance or assessment report submitted to the FTC if it becomes subject to an FTC or court order based on non-compliance.
 
-[^key-454722433768fc74c815db1c7eda32f0]**Administration and Supervision of the Privacy Shield Program by the Department of Commerce**
+[^c-454722433768fc74c815db1c7eda32f0]**Administration and Supervision of the Privacy Shield Program by the Department of Commerce**
 
 The Department reiterates its commitment to maintain and make available to the public an authoritative list of U.S. organizations that have self-certified to the Department and declared their commitment to adhere to the Principles (the ‘Privacy Shield List’). The Department will keep the Privacy Shield List up to date by removing organizations when they voluntarily withdraw, fail to complete the annual re-certification in accordance with the Department's procedures, or are found to persistently fail to comply. The Department will also maintain and make available to the public an authoritative record of U.S. organizations that had previously self-certified to the Department, but that have been removed from the Privacy Shield List, including those that were removed for persistent failure to comply with the Principles. The Department will identify the reason each organization was removed.
 
@@ -172,27 +172,27 @@ Sincerely,
 
 Ken Hyatt
 
-[^key-454722433768fc74c815db1c7eda32f0]Annex 2
+[^c-454722433768fc74c815db1c7eda32f0]Annex 2
 
 **Arbitral Model**
 
-[^key-454722433768fc74c815db1c7eda32f0]ANNEX I
+[^c-454722433768fc74c815db1c7eda32f0]ANNEX I
 
 This Annex I provides the terms under which Privacy Shield organizations are obligated to arbitrate claims, pursuant to the Recourse, Enforcement and Liability Principle. The binding arbitration option described below applies to certain ‘residual’ claims as to data covered by the EU-U.S. Privacy Shield. The purpose of this option is to provide a prompt, independent, and fair mechanism, at the option of individuals, for resolution of claimed violations of the Principles not resolved by any of the other Privacy Shield mechanisms, if any.
 
-[^key-454722433768fc74c815db1c7eda32f0]A.
+[^c-454722433768fc74c815db1c7eda32f0]A.
 
 **Scope**
 
 This arbitration option is available to an individual to determine, for residual claims, whether a Privacy Shield organization has violated its obligations under the Principles as to that individual, and whether any such violation remains fully or partially unremedied. This option is available only for these purposes. This option is not available, for example, with respect to the exceptions to the Principles or with respect to an allegation about the adequacy of the Privacy Shield.
 
-[^key-454722433768fc74c815db1c7eda32f0]B.
+[^c-454722433768fc74c815db1c7eda32f0]B.
 
 **Available Remedies**
 
 Under this arbitration option, the Privacy Shield Panel (consisting of one or three arbitrators, as agreed by the parties) has the authority to impose individual-specific, non-monetary equitable relief (such as access, correction, deletion, or return of the individual's data in question) necessary to remedy the violation of the Principles only with respect to the individual. These are the only powers of the arbitration panel with respect to remedies. In considering remedies, the arbitration panel is required to consider other remedies that already have been imposed by other mechanisms under the Privacy Shield. No damages, costs, fees, or other remedies are available. Each party bears its own attorney's fees.
 
-[^key-454722433768fc74c815db1c7eda32f0]C.
+[^c-454722433768fc74c815db1c7eda32f0]C.
 
 **Pre-Arbitration Requirements**
 
@@ -200,13 +200,13 @@ An individual who decides to invoke this arbitration option must take the follow
 
 This arbitration option may not be invoked if the individual's same claimed violation of the Principles (1) has previously been subject to binding arbitration; (2) was the subject of a final judgment entered in a court action to which the individual was a party; or (3) was previously settled by the parties. In addition, this option may not be invoked if an EU Data Protection Authority (1) has authority under Sections III.5 or III.9 of the Principles; or (2) has the authority to resolve the claimed violation directly with the organization. A DPA's authority to resolve the same claim against an EU data controller does not alone preclude invocation of this arbitration option against a different legal entity not bound by the DPA authority.
 
-[^key-454722433768fc74c815db1c7eda32f0]D.
+[^c-454722433768fc74c815db1c7eda32f0]D.
 
 **Binding Nature of Decisions**
 
 An individual's decision to invoke this binding arbitration option is entirely voluntary. Arbitral decisions will be binding on all parties to the arbitration. Once invoked, the individual forgoes the option to seek relief for the same claimed violation in another forum, except that if non-monetary equitable relief does not fully remedy the claimed violation, the individual's invocation of arbitration will not preclude a claim for damages that is otherwise available in the courts.
 
-[^key-454722433768fc74c815db1c7eda32f0]E.
+[^c-454722433768fc74c815db1c7eda32f0]E.
 
 **Review and Enforcement**
 
@@ -214,7 +214,7 @@ Individuals and Privacy Shield organizations will be able to seek judicial revie
 
 This arbitration option is intended to resolve individual disputes, and arbitral decisions are not intended to function as persuasive or binding precedent in matters involving other parties, including in future arbitrations or in EU or U.S. courts, or FTC proceedings.
 
-[^key-454722433768fc74c815db1c7eda32f0]F.
+[^c-454722433768fc74c815db1c7eda32f0]F.
 
 **The Arbitration Panel**
 
@@ -228,7 +228,7 @@ Arbitrators:
 - ((2)) shall not be subject to any instructions from, or be affiliated with, either party, or any Privacy Shield organization, or the U.S., EU, or any EU Member State or any other governmental authority, public authority, or enforcement authority; and
 - ((3)) must be admitted to practice law in the U.S. and be experts in U.S. privacy law, with expertise in EU data protection law.
 
-[^key-454722433768fc74c815db1c7eda32f0]G.
+[^c-454722433768fc74c815db1c7eda32f0]G.
 
 **Arbitration Procedures**
 
@@ -244,7 +244,7 @@ Consistent with applicable law, within 6 months from the adoption of the adequac
 - 8.. Individual-specific discovery may be permitted if necessary, and such discovery will be treated confidentially by the parties and will only be used in connection with the arbitration.
 - 9.. Arbitrations should be completed within 90 days of the delivery of the Notice to the organization at issue, unless otherwise agreed to by the parties.
 
-[^key-454722433768fc74c815db1c7eda32f0]H.
+[^c-454722433768fc74c815db1c7eda32f0]H.
 
 **Costs**
 
@@ -252,147 +252,147 @@ Arbitrators should take reasonable steps to minimize the costs or fees of the ar
 
 Subject to applicable law, the Department of Commerce will facilitate the establishment of a fund, into which Privacy Shield organizations will be required to pay an annual contribution, based in part on the size of the organization, which will cover the arbitral cost, including arbitrator fees, up to maximum amounts (‘caps’), in consultation with the European Commission. The fund will be managed by a third party, which will report regularly on the operations of the fund. At the annual review, the Department of Commerce and European Commission will review the operation of the fund, including the need to adjust the amount of the contributions or of the caps, and will consider, among other things, the number of arbitrations and the costs and timing of the arbitrations, with the mutual understanding that there will be no excessive financial burden imposed on Privacy Shield organizations. Attorney's fees are not covered by this provision or any fund under this provision.
 
-## ANNEX II — EU-U.S. PRIVACY SHIELD FRAMEWORK PRINCIPLES ISSUED BY THE U.S. DEPARTMENT OF COMMERCE[^key-454722433768fc74c815db1c7eda32f0]
+## ANNEX II — EU-U.S. PRIVACY SHIELD FRAMEWORK PRINCIPLES ISSUED BY THE U.S. DEPARTMENT OF COMMERCE[^c-454722433768fc74c815db1c7eda32f0]
 
-[^key-454722433768fc74c815db1c7eda32f0]I.
+[^c-454722433768fc74c815db1c7eda32f0]I.
 
 OVERVIEW
 
-[^key-454722433768fc74c815db1c7eda32f0]1.
+[^c-454722433768fc74c815db1c7eda32f0]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]2.
+[^c-454722433768fc74c815db1c7eda32f0]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]3.
+[^c-454722433768fc74c815db1c7eda32f0]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]4.
+[^c-454722433768fc74c815db1c7eda32f0]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]5.
+[^c-454722433768fc74c815db1c7eda32f0]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]6.
+[^c-454722433768fc74c815db1c7eda32f0]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]7.
+[^c-454722433768fc74c815db1c7eda32f0]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]8.
+[^c-454722433768fc74c815db1c7eda32f0]8.
 
 Definitions:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]9.
+[^c-454722433768fc74c815db1c7eda32f0]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]II.
+[^c-454722433768fc74c815db1c7eda32f0]II.
 
 PRINCIPLES
 
-[^key-454722433768fc74c815db1c7eda32f0]1.
+[^c-454722433768fc74c815db1c7eda32f0]1.
 
 **Notice**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]2.
+[^c-454722433768fc74c815db1c7eda32f0]2.
 
 **Choice**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]3.
+[^c-454722433768fc74c815db1c7eda32f0]3.
 
 **Accountability For Onward Transfer**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]4.
+[^c-454722433768fc74c815db1c7eda32f0]4.
 
 **Security**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]5.
+[^c-454722433768fc74c815db1c7eda32f0]5.
 
 **Data integrity and purpose limitation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]6.
+[^c-454722433768fc74c815db1c7eda32f0]6.
 
 **Access**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]7.
+[^c-454722433768fc74c815db1c7eda32f0]7.
 
 **Recourse, enforcement and liability**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]III.
+[^c-454722433768fc74c815db1c7eda32f0]III.
 
 SUPPLEMENTAL PRINCIPLES
 
-[^key-454722433768fc74c815db1c7eda32f0]1.
+[^c-454722433768fc74c815db1c7eda32f0]1.
 
 **Sensitive Data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]2.
+[^c-454722433768fc74c815db1c7eda32f0]2.
 
 **Journalistic Exceptions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]3.
+[^c-454722433768fc74c815db1c7eda32f0]3.
 
 **Secondary Liability**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]4.
+[^c-454722433768fc74c815db1c7eda32f0]4.
 
 **Performing Due Diligence and Conducting Audits**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]5.
+[^c-454722433768fc74c815db1c7eda32f0]5.
 
 **The Role of the Data Protection Authorities**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]6.
+[^c-454722433768fc74c815db1c7eda32f0]6.
 
 **Self-Certification**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]7.
+[^c-454722433768fc74c815db1c7eda32f0]7.
 
 **Verification**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]8.
+[^c-454722433768fc74c815db1c7eda32f0]8.
 
 **Access**
 
-[^key-454722433768fc74c815db1c7eda32f0]a.
+[^c-454722433768fc74c815db1c7eda32f0]a.
 
 The Access Principle in Practice
 
@@ -403,28 +403,28 @@ The Access Principle in Practice
 - ii.. Individuals do not have to justify requests for access to their personal data. In responding to individuals' access requests, organizations should first be guided by the concern(s) that led to the requests in the first place. For example, if an access request is vague or broad in scope, an organization may engage the individual in a dialogue so as to better understand the motivation for the request and to locate responsive information. The organization might inquire about which part(s) of the organization the individual interacted with or about the nature of the information or its use that is the subject of the access request.
 - iii.. Consistent with the fundamental nature of access, organizations should always make good faith efforts to provide access. For example, where certain information needs to be protected and can be readily separated from other personal information subject to an access request, the organization should redact the protected information and make available the other information. If an organization determines that access should be restricted in any particular instance, it should provide the individual requesting access with an explanation of why it has made that determination and a contact point for any further inquiries.
 
-[^key-454722433768fc74c815db1c7eda32f0]b.
+[^c-454722433768fc74c815db1c7eda32f0]b.
 
 Burden or Expense of Providing Access
 
 - i.. The right of access to personal data may be restricted in exceptional circumstances where the legitimate rights of persons other than the individual would be violated or where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question. Expense and burden are important factors and should be taken into account but they are not controlling factors in determining whether providing access is reasonable.
 - ii.. For example, if the personal information is used for decisions that will significantly affect the individual (e.g., the denial or grant of important benefits, such as insurance, a mortgage, or a job), then consistent with the other provisions of these Supplemental Principles, the organization would have to disclose that information even if it is relatively difficult or expensive to provide. If the personal information requested is not sensitive or not used for decisions that will significantly affect the individual, but is readily available and inexpensive to provide, an organization would have to provide access to such information.
 
-[^key-454722433768fc74c815db1c7eda32f0]c.
+[^c-454722433768fc74c815db1c7eda32f0]c.
 
 Confidential Commercial Information
 
 - i.. Confidential commercial information is information that an organization has taken steps to protect from disclosure, where disclosure would help a competitor in the market. Organizations may deny or limit access to the extent that granting full access would reveal its own confidential commercial information, such as marketing inferences or classifications generated by the organization, or the confidential commercial information of another that is subject to a contractual obligation of confidentiality.
 - ii.. Where confidential commercial information can be readily separated from other personal information subject to an access request, the organization should redact the confidential commercial information and make available the non-confidential information.
 
-[^key-454722433768fc74c815db1c7eda32f0]d.
+[^c-454722433768fc74c815db1c7eda32f0]d.
 
 Organization of Data Bases
 
 - i.. Access can be provided in the form of disclosure of the relevant personal information by an organization to the individual and does not require access by the individual to an organization's data base.
 - ii.. Access needs to be provided only to the extent that an organization stores the personal information. The Access Principle does not itself create any obligation to retain, maintain, reorganize, or restructure personal information files.
 
-[^key-454722433768fc74c815db1c7eda32f0]e.
+[^c-454722433768fc74c815db1c7eda32f0]e.
 
 When Access May be Restricted
 
@@ -436,7 +436,7 @@ When Access May be Restricted
   - 5.. prejudicing the confidentiality necessary in monitoring, inspection or regulatory functions connected with sound management, or in future or ongoing negotiations involving the organization.
 - ii.. An organization which claims an exception has the burden of demonstrating its necessity, and the reasons for restricting access and a contact point for further inquiries should be given to individuals.
 
-[^key-454722433768fc74c815db1c7eda32f0]f.
+[^c-454722433768fc74c815db1c7eda32f0]f.
 
 Right to Obtain Confirmation and Charging a Fee to Cover the Costs for Providing Access
 
@@ -444,36 +444,36 @@ Right to Obtain Confirmation and Charging a Fee to Cover the Costs for Providing
 - ii.. Charging a fee may be justified, for example, where requests for access are manifestly excessive, in particular because of their repetitive character.
 - iii.. Access may not be refused on cost grounds if the individual offers to pay the costs.
 
-[^key-454722433768fc74c815db1c7eda32f0]g.
+[^c-454722433768fc74c815db1c7eda32f0]g.
 
 Repetitious or Vexatious Requests for Access
 
 An organization may set reasonable limits on the number of times within a given period that access requests from a particular individual will be met. In setting such limitations, an organization should consider such factors as the frequency with which information is updated, the purpose for which the data are used, and the nature of the information.
 
-[^key-454722433768fc74c815db1c7eda32f0]h.
+[^c-454722433768fc74c815db1c7eda32f0]h.
 
 Fraudulent Requests for Access
 
 An organization is not required to provide access unless it is supplied with sufficient information to allow it to confirm the identity of the person making the request.
 
-[^key-454722433768fc74c815db1c7eda32f0]i.
+[^c-454722433768fc74c815db1c7eda32f0]i.
 
 Timeframe for Responses
 
 Organizations should respond to access requests within a reasonable time period, in a reasonable manner, and in a form that is readily intelligible to the individual. An organization that provides information to data subjects at regular intervals may satisfy an individual access request with its regular disclosure if it would not constitute an excessive delay.
 
-[^key-454722433768fc74c815db1c7eda32f0]9.
+[^c-454722433768fc74c815db1c7eda32f0]9.
 
 **Human Resources Data**
 
-[^key-454722433768fc74c815db1c7eda32f0]a.
+[^c-454722433768fc74c815db1c7eda32f0]a.
 
 Coverage by the Privacy Shield
 
 - i.. Where an organization in the EU transfers personal information about its employees (past or present) collected in the context of the employment relationship, to a parent, affiliate, or unaffiliated service provider in the United States participating in the Privacy Shield, the transfer enjoys the benefits of the Privacy Shield. In such cases, the collection of the information and its processing prior to transfer will have been subject to the national laws of the EU country where it was collected, and any conditions for or restrictions on its transfer according to those laws will have to be respected.
 - ii.. The Privacy Shield Principles are relevant only when individually identified or identifiable records are transferred or accessed. Statistical reporting relying on aggregate employment data and containing no personal data or the use of anonymized data does not raise privacy concerns.
 
-[^key-454722433768fc74c815db1c7eda32f0]b.
+[^c-454722433768fc74c815db1c7eda32f0]b.
 
 Application of the Notice and Choice Principles
 
@@ -482,30 +482,30 @@ Application of the Notice and Choice Principles
 - iii.. In addition, employers should make reasonable efforts to accommodate employee privacy preferences. This could include, for example, restricting access to the personal data, anonymizing certain data, or assigning codes or pseudonyms when the actual names are not required for the management purpose at hand.
 - iv.. To the extent and for the period necessary to avoid prejudicing the ability of the organization in making promotions, appointments, or other similar employment decisions, an organization does not need to offer notice and choice.
 
-[^key-454722433768fc74c815db1c7eda32f0]c.
+[^c-454722433768fc74c815db1c7eda32f0]c.
 
 Application of the Access Principle
 
 The Supplemental Principle on Access provides guidance on reasons which may justify denying or limiting access on request in the human resources context. Of course, employers in the European Union must comply with local regulations and ensure that European Union employees have access to such information as is required by law in their home countries, regardless of the location of data processing and storage. The Privacy Shield requires that an organization processing such data in the United States will cooperate in providing such access either directly or through the EU employer.
 
-[^key-454722433768fc74c815db1c7eda32f0]d.
+[^c-454722433768fc74c815db1c7eda32f0]d.
 
 Enforcement
 
 - i.. In so far as personal information is used only in the context of the employment relationship, primary responsibility for the data vis-à-vis the employee remains with the organization in the EU. It follows that, where European employees make complaints about violations of their data protection rights and are not satisfied with the results of internal review, complaint, and appeal procedures (or any applicable grievance procedures under a contract with a trade union), they should be directed to the state or national data protection or labor authority in the jurisdiction where the employees work. This includes cases where the alleged mishandling of their personal information is the responsibility of the U.S. organization that has received the information from the employer and thus involves an alleged breach of the Privacy Shield Principles. This will be the most efficient way to address the often overlapping rights and obligations imposed by local labor law and labor agreements as well as data protection law.
 - ii.. A U.S. organization participating in the Privacy Shield that uses EU human resources data transferred from the European Union in the context of the employment relationship and that wishes such transfers to be covered by the Privacy Shield must therefore commit to cooperate in investigations by and to comply with the advice of competent EU authorities in such cases.
 
-[^key-454722433768fc74c815db1c7eda32f0]e.
+[^c-454722433768fc74c815db1c7eda32f0]e.
 
 Application of the Accountability for Onward Transfer Principle
 
 For occasional employment-related operational needs of the Privacy Shield organization with respect to personal data transferred under the Privacy Shield, such as the booking of a flight, hotel room, or insurance coverage, transfers of personal data of a small number of employees can take place to controllers without application of the Access Principle or entering into a contract with the third-party controller, as otherwise required under the Accountability for Onward Transfer Principle, provided that the Privacy Shield organization has complied with the Notice and Choice Principles.
 
-[^key-454722433768fc74c815db1c7eda32f0]10.
+[^c-454722433768fc74c815db1c7eda32f0]10.
 
 **Obligatory Contracts for Onward Transfers**
 
-[^key-454722433768fc74c815db1c7eda32f0]a.
+[^c-454722433768fc74c815db1c7eda32f0]a.
 
 Data Processing Contracts
 
@@ -516,35 +516,35 @@ Data Processing Contracts
   - 3.. taking into account the nature of the processing, assists the controller in responding to individuals exercising their rights under the Principles.
 - iii.. Because adequate protection is provided by Privacy Shield participants, contracts with Privacy Shield participants for mere processing do not require prior authorization (or such authorization will be granted automatically by the EU Member States), as would be required for contracts with recipients not participating in the Privacy Shield or otherwise not providing adequate protection.
 
-[^key-454722433768fc74c815db1c7eda32f0]b.
+[^c-454722433768fc74c815db1c7eda32f0]b.
 
 Transfers within a Controlled Group of Corporations or Entities
 
 When personal information is transferred between two controllers within a controlled group of corporations or entities, a contract is not always required under the Accountability for Onward Transfer Principle. Data controllers within a controlled group of corporations or entities may base such transfers on other instruments, such as EU Binding Corporate Rules or other intra-group instruments (e.g., compliance and control programs), ensuring the continuity of protection of personal information under the Principles. In case of such transfers, the Privacy Shield organization remains responsible for compliance with the Principles.
 
-[^key-454722433768fc74c815db1c7eda32f0]c.
+[^c-454722433768fc74c815db1c7eda32f0]c.
 
 Transfers between Controllers
 
 For transfers between controllers, the recipient controller need not be a Privacy Shield organization or have an independent recourse mechanism. The Privacy Shield organization must enter into a contract with the recipient third-party controller that provides for the same level of protection as is available under the Privacy Shield, not including the requirement that the third party controller be a Privacy Shield organization or have an independent recourse mechanism, provided it makes available an equivalent mechanism.
 
-[^key-454722433768fc74c815db1c7eda32f0]11.
+[^c-454722433768fc74c815db1c7eda32f0]11.
 
 **Dispute Resolution and Enforcement**
 
-[^key-454722433768fc74c815db1c7eda32f0]a.
+[^c-454722433768fc74c815db1c7eda32f0]a.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]b.
+[^c-454722433768fc74c815db1c7eda32f0]b.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]c.
+[^c-454722433768fc74c815db1c7eda32f0]c.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]d.
+[^c-454722433768fc74c815db1c7eda32f0]d.
 
 Recourse Mechanisms
 
@@ -553,19 +553,19 @@ Recourse Mechanisms
 - iii.. Independent recourse mechanisms must publish an annual report providing aggregate statistics regarding their dispute resolution services. The annual report must include: (1) the total number of Privacy Shield-related complaints received during the reporting year; (2) the types of complaints received; (3) dispute resolution quality measures, such as the length of time taken to process complaints; and (4) the outcomes of the complaints received, notably the number and types of remedies or sanctions imposed.
 - iv.. As set forth in Annex I, an arbitration option is available to an individual to determine, for residual claims, whether a Privacy Shield organization has violated its obligations under the Principles as to that individual, and whether any such violation remains fully or partially unremedied. This option is available only for these purposes. This option is not available, for example, with respect to the exceptions to the Principles or with respect to an allegation about the adequacy of the Privacy Shield. Under this arbitration option, the Privacy Shield Panel (consisting of one or three arbitrators, as agreed by the parties) has the authority to impose individual-specific, non-monetary equitable relief (such as access, correction, deletion, or return of the individual's data in question) necessary to remedy the violation of the Principles only with respect to the individual. Individuals and Privacy Shield organizations will be able to seek judicial review and enforcement of the arbitral decisions pursuant to U.S. law under the Federal Arbitration Act.
 
-[^key-454722433768fc74c815db1c7eda32f0]e.
+[^c-454722433768fc74c815db1c7eda32f0]e.
 
 Remedies and Sanctions
 
 The result of any remedies provided by the dispute resolution body should be that the effects of non-compliance are reversed or corrected by the organization, insofar as feasible, and that future processing by the organization will be in conformity with the Principles and, where appropriate, that processing of the personal data of the individual who brought the complaint will cease. Sanctions need to be rigorous enough to ensure compliance by the organization with the Principles. A range of sanctions of varying degrees of severity will allow dispute resolution bodies to respond appropriately to varying degrees of non-compliance. Sanctions should include both publicity for findings of non-compliance and the requirement to delete data in certain circumstances. Other sanctions could include suspension and removal of a seal, compensation for individuals for losses incurred as a result of non-compliance and injunctive awards. Private sector dispute resolution bodies and self-regulatory bodies must notify failures of Privacy Shield organizations to comply with their rulings to the governmental body with applicable jurisdiction or to the courts, as appropriate, and to notify the Department.
 
-[^key-454722433768fc74c815db1c7eda32f0]f.
+[^c-454722433768fc74c815db1c7eda32f0]f.
 
 FTC Action
 
 The FTC has committed to reviewing on a priority basis referrals alleging non-compliance with the Principles received from: (i) privacy self-regulatory organizations and other independent dispute resolution bodies; (ii) EU Member States; and (iii) the Department, to determine whether Section 5 of the FTC Act prohibiting unfair or deceptive acts or practices in commerce has been violated. If the FTC concludes that it has reason to believe Section 5 has been violated, it may resolve the matter by seeking an administrative cease and desist order prohibiting the challenged practices or by filing a complaint in a federal district court, which if successful could result in a federal court order to same effect. This includes false claims of adherence to the Privacy Shield Principles or participation in the Privacy Shield by organizations, which either are no longer on the Privacy Shield List or have never self-certified to the Department. The FTC may obtain civil penalties for violations of an administrative cease and desist order and may pursue civil or criminal contempt for violation of a federal court order. The FTC will notify the Department of any such actions it takes. The Department encourages other government bodies to notify it of the final disposition of any such referrals or other rulings determining adherence to the Privacy Shield Principles.
 
-[^key-454722433768fc74c815db1c7eda32f0]g.
+[^c-454722433768fc74c815db1c7eda32f0]g.
 
 Persistent Failure to Comply
 
@@ -574,139 +574,139 @@ Persistent Failure to Comply
 - iii.. The Department will remove an organization from the Privacy Shield List in response to any notification it receives of persistent failure to comply, whether it is received from the organization itself, from a privacy self-regulatory body or another independent dispute resolution body, or from a government body, but only after first providing 30 days' notice and an opportunity to respond to the organization that has failed to comply. Accordingly, the Privacy Shield List maintained by the Department will make clear which organizations are assured and which organizations are no longer assured of Privacy Shield benefits.
 - iv.. An organization applying to participate in a self-regulatory body for the purposes of requalifying for the Privacy Shield must provide that body with full information about its prior participation in the Privacy Shield.
 
-[^key-454722433768fc74c815db1c7eda32f0]12.
+[^c-454722433768fc74c815db1c7eda32f0]12.
 
 **Choice — Timing of Opt Out**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]13.
+[^c-454722433768fc74c815db1c7eda32f0]13.
 
 **Travel Information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]14.
+[^c-454722433768fc74c815db1c7eda32f0]14.
 
 **Pharmaceutical and Medical Products**
 
-[^key-454722433768fc74c815db1c7eda32f0]a.
+[^c-454722433768fc74c815db1c7eda32f0]a.
 
 Application of EU Member State Laws or the Privacy Shield Principles
 
 EU Member State law applies to the collection of the personal data and to any processing that takes place prior to the transfer to the United States. The Privacy Shield Principles apply to the data once they have been transferred to the United States. Data used for pharmaceutical research and other purposes should be anonymized when appropriate.
 
-[^key-454722433768fc74c815db1c7eda32f0]b.
+[^c-454722433768fc74c815db1c7eda32f0]b.
 
 Future Scientific Research
 
 - i.. Personal data developed in specific medical or pharmaceutical research studies often play a valuable role in future scientific research. Where personal data collected for one research study are transferred to a U.S. organization in the Privacy Shield, the organization may use the data for a new scientific research activity if appropriate notice and choice have been provided in the first instance. Such notice should provide information about any future specific uses of the data, such as periodic follow-up, related studies, or marketing.
 - ii.. It is understood that not all future uses of the data can be specified, since a new research use could arise from new insights on the original data, new medical discoveries and advances, and public health and regulatory developments. Where appropriate, the notice should therefore include an explanation that personal data may be used in future medical and pharmaceutical research activities that are unanticipated. If the use is not consistent with the general research purpose(s) for which the personal data were originally collected, or to which the individual has consented subsequently, new consent must be obtained.
 
-[^key-454722433768fc74c815db1c7eda32f0]c.
+[^c-454722433768fc74c815db1c7eda32f0]c.
 
 Withdrawal from a Clinical Trial
 
 Participants may decide or be asked to withdraw from a clinical trial at any time. Any personal data collected previous to withdrawal may still be processed along with other data collected as part of the clinical trial, however, if this was made clear to the participant in the notice at the time he or she agreed to participate.
 
-[^key-454722433768fc74c815db1c7eda32f0]d.
+[^c-454722433768fc74c815db1c7eda32f0]d.
 
 Transfers for Regulatory and Supervision Purposes
 
 Pharmaceutical and medical device companies are allowed to provide personal data from clinical trials conducted in the EU to regulators in the United States for regulatory and supervision purposes. Similar transfers are allowed to parties other than regulators, such as company locations and other researchers, consistent with the Principles of Notice and Choice.
 
-[^key-454722433768fc74c815db1c7eda32f0]e.
+[^c-454722433768fc74c815db1c7eda32f0]e.
 
 ‘Blinded’ Studies
 
 - i.. To ensure objectivity in many clinical trials, participants, and often investigators as well, cannot be given access to information about which treatment each participant may be receiving. Doing so would jeopardize the validity of the research study and results. Participants in such clinical trials (referred to as ‘blinded’ studies) do not have to be provided access to the data on their treatment during the trial if this restriction has been explained when the participant entered the trial and the disclosure of such information would jeopardize the integrity of the research effort.
 - ii.. Agreement to participate in the trial under these conditions is a reasonable forgoing of the right of access. Following the conclusion of the trial and analysis of the results, participants should have access to their data if they request it. They should seek it primarily from the physician or other health care provider from whom they received treatment within the clinical trial, or secondarily from the sponsoring organization.
 
-[^key-454722433768fc74c815db1c7eda32f0]f.
+[^c-454722433768fc74c815db1c7eda32f0]f.
 
 Product Safety and Efficacy Monitoring
 
 A pharmaceutical or medical device company does not have to apply the Privacy Shield Principles with respect to the Notice, Choice, Accountability for Onward Transfer, and Access Principles in its product safety and efficacy monitoring activities, including the reporting of adverse events and the tracking of patients/subjects using certain medicines or medical devices, to the extent that adherence to the Principles interferes with compliance with regulatory requirements. This is true both with respect to reports by, for example, health care providers to pharmaceutical and medical device companies, and with respect to reports by pharmaceutical and medical device companies to government agencies like the Food and Drug Administration.
 
-[^key-454722433768fc74c815db1c7eda32f0]g.
+[^c-454722433768fc74c815db1c7eda32f0]g.
 
 Key-coded Data
 
 Invariably, research data are uniquely key-coded at their origin by the principal investigator so as not to reveal the identity of individual data subjects. Pharmaceutical companies sponsoring such research do not receive the key. The unique key code is held only by the researcher, so that he or she can identify the research subject under special circumstances (e.g., if follow-up medical attention is required). A transfer from the EU to the United States of data coded in this way would not constitute a transfer of personal data that would be subject to the Privacy Shield Principles.
 
-[^key-454722433768fc74c815db1c7eda32f0]15.
+[^c-454722433768fc74c815db1c7eda32f0]15.
 
 **Public Record and Publicly Available Information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]16.
+[^c-454722433768fc74c815db1c7eda32f0]16.
 
 **Access Requests by Public Authorities**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]Annex I
+[^c-454722433768fc74c815db1c7eda32f0]Annex I
 
 **Arbitral model**
 
 This Annex I provides the terms under which Privacy Shield organizations are obligated to arbitrate claims, pursuant to the Recourse, Enforcement and Liability Principle. The binding arbitration option described below applies to certain ‘residual’ claims as to data covered by the EU-U.S. Privacy Shield. The purpose of this option is to provide a prompt, independent, and fair mechanism, at the option of individuals, for resolution of claimed violations of the Principles not resolved by any of the other Privacy Shield mechanisms, if any.
 
-[^key-454722433768fc74c815db1c7eda32f0]A.
+[^c-454722433768fc74c815db1c7eda32f0]A.
 
 **Scope**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]B.
+[^c-454722433768fc74c815db1c7eda32f0]B.
 
 **Available Remedies**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]C.
+[^c-454722433768fc74c815db1c7eda32f0]C.
 
 **Pre-Arbitration Requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]D.
+[^c-454722433768fc74c815db1c7eda32f0]D.
 
 **Binding Nature of Decisions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]E.
+[^c-454722433768fc74c815db1c7eda32f0]E.
 
 **Review and Enforcement**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]F.
+[^c-454722433768fc74c815db1c7eda32f0]F.
 
 **The Arbitration Panel**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]G.
+[^c-454722433768fc74c815db1c7eda32f0]G.
 
 **Arbitration Procedures**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]H.
+[^c-454722433768fc74c815db1c7eda32f0]H.
 
 **Costs**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-454722433768fc74c815db1c7eda32f0]
+## ANNEX III[^c-454722433768fc74c815db1c7eda32f0]
 
-[^key-454722433768fc74c815db1c7eda32f0]**Letter from U.S. Secretary of State John Kerry**
+[^c-454722433768fc74c815db1c7eda32f0]**Letter from U.S. Secretary of State John Kerry**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]Annex A
+[^c-454722433768fc74c815db1c7eda32f0]Annex A
 
 **EU-U.S. Privacy Shield Ombudsperson mechanism regarding signals intelligence**
 
@@ -718,37 +718,37 @@ Section 4(d) of PPD-28 directs the Secretary of State to designate a ‘Senior C
 
 This Memorandum describes a new mechanism that the Senior Coordinator will follow to facilitate the processing of requests relating to national security access to data transmitted from the EU to the United States pursuant to the Privacy Shield, standard contractual clauses (SCCs), binding corporate rules (BCRs), ‘Derogations,’ or ‘Possible Future Derogations,’ through established avenues under applicable United States laws and policy, and the response to those requests.
 
-[^key-454722433768fc74c815db1c7eda32f0]1.
+[^c-454722433768fc74c815db1c7eda32f0]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]2.
+[^c-454722433768fc74c815db1c7eda32f0]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]3.
+[^c-454722433768fc74c815db1c7eda32f0]3.
 
 **Submitting Requests.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]4.
+[^c-454722433768fc74c815db1c7eda32f0]4.
 
 **Commitments to Communicate with Submitting EU Individual Complaint Handling Body.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]5.
+[^c-454722433768fc74c815db1c7eda32f0]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]6.
+[^c-454722433768fc74c815db1c7eda32f0]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-454722433768fc74c815db1c7eda32f0]
+## ANNEX IV[^c-454722433768fc74c815db1c7eda32f0]
 
-[^key-454722433768fc74c815db1c7eda32f0]**Letter from Federal Trade Commission Chairwoman Edith Ramirez**
+[^c-454722433768fc74c815db1c7eda32f0]**Letter from Federal Trade Commission Chairwoman Edith Ramirez**
 
 July 7, 2016
 
@@ -776,11 +776,11 @@ After the European Commission raised concerns in November 2013 about the adminis
 
 Notably, we affirm our commitment in four key areas: (1) referral prioritization and investigations; (2) addressing false or deceptive Privacy Shield membership claims; (3) continued order monitoring; and (4) enhanced engagement and enforcement cooperation with EU DPAs. We provide below detailed information about each of these commitments and relevant background about the FTC's role in protecting consumer privacy and enforcing Safe Harbor, as well as the broader privacy landscape in the United States.
 
-[^key-454722433768fc74c815db1c7eda32f0]I.
+[^c-454722433768fc74c815db1c7eda32f0]I.
 
 BACKGROUND
 
-[^key-454722433768fc74c815db1c7eda32f0]A.
+[^c-454722433768fc74c815db1c7eda32f0]A.
 
 **FTC Privacy Enforcement and Policy Work**
 
@@ -796,7 +796,7 @@ The FTC has also pursued numerous policy initiatives aimed at enhancing consumer
 
 The FTC also engages in consumer and business education to enhance the impact of its enforcement and policy development initiatives. The FTC has used a variety of tools— publications, online resources, workshops, and social media—to provide educational materials on a wide range of topics, including mobile apps, children's privacy, and data security. Most recently, the Commission launched its ‘Start With Security’ initiative, which includes new guidance for businesses drawing on lessons learned from the agency's data security cases, as well as a series of workshops across the country. In addition, the FTC has long been a leader in educating consumers about basic computer security. Last year, our OnGuard Online site and its Spanish language counterpart, Alerta en Línea, had more than 5 million page views.
 
-[^key-454722433768fc74c815db1c7eda32f0]B.
+[^c-454722433768fc74c815db1c7eda32f0]B.
 
 **U.S. Legal Protections Benefiting EU Consumers**
 
@@ -810,7 +810,7 @@ The FTC's settlement with TRUSTe is another example. It ensures that consumers, 
 
 The FTC also enforces other targeted laws whose protections extend to non-U.S. consumers, such as the Children's Online Privacy Protection Act (‘COPPA’). Among other things, COPPA requires that operators of child-directed websites and online services, or general audience sites that knowingly collect personal information from children under the age of 13, provide parental notice and obtain verifiable parental consent. U.S.-based websites and services that are subject to COPPA and collect personal information from foreign children are required to comply with COPPA. Foreign-based websites and online services must also comply with COPPA if they are directed to children in the United States, or if they knowingly collect personal information from children in the United States. In addition to the U.S. federal laws enforced by the FTC, certain other federal and state consumer protection and privacy laws may provide additional benefits to EU consumers.
 
-[^key-454722433768fc74c815db1c7eda32f0]C.
+[^c-454722433768fc74c815db1c7eda32f0]C.
 
 **Safe Harbor Enforcement**
 
@@ -820,25 +820,25 @@ The FTC's cases have also focused on false, deceptive, or misleading claims of S
 
 Many of our other Safe Harbor enforcement cases involved organizations that joined the Safe Harbor program but failed to renew their annual certification while they continued to represent themselves as current members. As discussed further below, the FTC also commits to addressing false claims of participation in the Privacy Shield Framework. This strategic enforcement activity will complement the Department of Commerce's increased actions to verify compliance with program requirements for certification and re-certification, its monitoring of effective compliance, including through the use of questionnaires to Framework participants, and its increased efforts to identify false Framework membership claims and misuse of any Framework certification mark.
 
-[^key-454722433768fc74c815db1c7eda32f0]II.
+[^c-454722433768fc74c815db1c7eda32f0]II.
 
 REFERRAL PRIORITIZATION AND INVESTIGATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]III.
+[^c-454722433768fc74c815db1c7eda32f0]III.
 
 ADDRESSING FALSE OR DECEPTIVE PRIVACY SHIELD MEMBERSHIP CLAIMS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]IV.
+[^c-454722433768fc74c815db1c7eda32f0]IV.
 
 ORDER MONITORING
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]V.
+[^c-454722433768fc74c815db1c7eda32f0]V.
 
 ENGAGEMENT WITH EU DPAS AND ENFORCEMENT COOPERATION
 
@@ -850,27 +850,27 @@ Edith Ramirez
 
 Chairwoman
 
-[^key-454722433768fc74c815db1c7eda32f0]Attachment A
+[^c-454722433768fc74c815db1c7eda32f0]Attachment A
 
 **The EU-U.S. Privacy Shield Framework in Context: An Overview of the U.S. Privacy and Security Landscape**
 
 The protections provided by the EU-U.S. Privacy Shield Framework (the ‘Framework’) exist in the context of the broader privacy protections afforded under the U.S. legal system as a whole. First, the U.S. Federal Trade Commission (‘FTC’) has a robust privacy and data security program for U.S. commercial practices that protects consumers worldwide. Second, the landscape of consumer privacy and security protection in the United States has evolved substantially since 2000 when the original U.S.-EU Safe Harbor program was adopted. Since that time, many federal and state privacy and security laws have been enacted, and public and private litigation to enforce privacy rights has increased significantly. The broad scope of U.S. legal protections for consumer privacy and security applicable to commercial data practices complements the protections provided to EU individuals by the new Framework.
 
-[^key-454722433768fc74c815db1c7eda32f0]I.
+[^c-454722433768fc74c815db1c7eda32f0]I.
 
 THE FTC'S GENERAL PRIVACY AND SECURITY ENFORCEMENT PROGRAM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]II.
+[^c-454722433768fc74c815db1c7eda32f0]II.
 
 FEDERAL AND STATE PROTECTIONS FOR CONSUMER PRIVACY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-454722433768fc74c815db1c7eda32f0]
+## ANNEX V[^c-454722433768fc74c815db1c7eda32f0]
 
-[^key-454722433768fc74c815db1c7eda32f0]**Letter from U.S. Secretary of Transportation Anthony Foxx**
+[^c-454722433768fc74c815db1c7eda32f0]**Letter from U.S. Secretary of Transportation Anthony Foxx**
 
 February 19, 2016
 
@@ -894,11 +894,11 @@ The DOT first publicly expressed its commitment to enforcement of the Safe Harbo
 
 Notably, the DOT renews its commitment in the following key areas: (1) prioritization of investigation of alleged Privacy Shield violations; (2) appropriate enforcement action against entities making false or deceptive Privacy Shield certification claims; and (3) monitoring and making public enforcement orders concerning Privacy Shield violations. We provide information about each of these commitments and, for necessary context, pertinent background about the DOT's role in protecting consumer privacy and enforcing the Privacy Shield Framework.
 
-[^key-454722433768fc74c815db1c7eda32f0]I.
+[^c-454722433768fc74c815db1c7eda32f0]I.
 
 BACKGROUND
 
-[^key-454722433768fc74c815db1c7eda32f0]A.
+[^c-454722433768fc74c815db1c7eda32f0]A.
 
 **DOT's Privacy Authority**
 
@@ -906,7 +906,7 @@ The Department is strongly committed to ensuring the privacy of information prov
 
 As such, once a carrier or seller of air transportation publicly commits to the Privacy Shield Framework's privacy principles the Department is able to use the statutory powers of section 41712 to ensure compliance with those principles. Therefore, once a passenger provides information to a carrier or ticket agent that has committed to honoring the Privacy Shield Framework's privacy principles, any failure to do so by the carrier or ticket agent would be a violation of section 41712.
 
-[^key-454722433768fc74c815db1c7eda32f0]B.
+[^c-454722433768fc74c815db1c7eda32f0]B.
 
 **Enforcement Practices**
 
@@ -918,7 +918,7 @@ The Department does not have the authority to award damages or provide pecuniary
 
 To date, the DOT has received relatively few complaints involving alleged privacy violations by ticket agents or airlines. When they arise, they are investigated according to the principles set forth above.
 
-[^key-454722433768fc74c815db1c7eda32f0]C.
+[^c-454722433768fc74c815db1c7eda32f0]C.
 
 **DOT Legal Protections Benefiting EU Consumers**
 
@@ -926,7 +926,7 @@ Under section 41712, the prohibition on unfair or deceptive practices in air tra
 
 The DOT also enforces, with respect to airlines, other targeted laws whose protections extend to non-U.S. consumers such as COPPA. Among other things, COPPA requires that operators of child-directed websites and online services, or general audience sites that knowingly collect personal information from children under 13 provide parental notice and obtain verifiable parental consent. U.S.-based websites and services that are subject to COPPA and collect personal information from foreign children are required to comply with COPPA. Foreign-based websites and online services must also comply with COPPA if they are directed to children in the United States, or if they knowingly collect personal information from children in the United States. To the extent that U.S. or foreign airlines doing business in the United States violate COPPA, the DOT would have jurisdiction to take enforcement action.
 
-[^key-454722433768fc74c815db1c7eda32f0]II.
+[^c-454722433768fc74c815db1c7eda32f0]II.
 
 PRIVACY SHIELD ENFORCEMENT
 
@@ -938,11 +938,11 @@ Anthony R. Foxx
 
 Secretary of Transportation
 
-## ANNEX VI[^key-454722433768fc74c815db1c7eda32f0]
+## ANNEX VI[^c-454722433768fc74c815db1c7eda32f0]
 
-[^key-454722433768fc74c815db1c7eda32f0]**Letter from General Counsel Robert Litt**
+[^c-454722433768fc74c815db1c7eda32f0]**Letter from General Counsel Robert Litt**
 
-[^key-454722433768fc74c815db1c7eda32f0]**Office of the Director of National Intelligence**
+[^c-454722433768fc74c815db1c7eda32f0]**Office of the Director of National Intelligence**
 
 February 22, 2016
 
@@ -970,37 +970,37 @@ Dear Mr Antonipillai and Mr Dean:
 
 Over the last two and a half years, in the context of negotiations for the EU-U.S. Privacy Shield, the United States has provided substantial information about the operation of U.S. Intelligence Community signals intelligence collection activity. This has included information about the governing legal framework, the multi-layered oversight of those activities, the extensive transparency about those activities, and the overall protections for privacy and civil liberties, in order to assist the European Commission in making a determination about the adequacy of those protections as they relate to the national security exception to the Privacy Shield principles. This document summarizes the information that has been provided.
 
-[^key-454722433768fc74c815db1c7eda32f0]I.
+[^c-454722433768fc74c815db1c7eda32f0]I.
 
 PPD-28 AND THE CONDUCT OF U.S. SIGNALS INTELLIGENCE ACTIVITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]II.
+[^c-454722433768fc74c815db1c7eda32f0]II.
 
 FOREIGN INTELLIGENCE SURVEILLANCE ACT — SECTION 702
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]III.
+[^c-454722433768fc74c815db1c7eda32f0]III.
 
 USA FREEDOM ACT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]IV.
+[^c-454722433768fc74c815db1c7eda32f0]IV.
 
 TRANSPARENCY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]V.
+[^c-454722433768fc74c815db1c7eda32f0]V.
 
 REDRESS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]VI.
+[^c-454722433768fc74c815db1c7eda32f0]VI.
 
 CONCLUSION
 
@@ -1010,13 +1010,13 @@ Sincerely,
 
 Robert S. Litt
 
-[^key-454722433768fc74c815db1c7eda32f0]
+[^c-454722433768fc74c815db1c7eda32f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII[^key-454722433768fc74c815db1c7eda32f0]
+## ANNEX VII[^c-454722433768fc74c815db1c7eda32f0]
 
-[^key-454722433768fc74c815db1c7eda32f0]**Letter from Deputy Assistant Attorney General and Counselor for International Affairs Bruce Swartz, U.S. Department of Justice**
+[^c-454722433768fc74c815db1c7eda32f0]**Letter from Deputy Assistant Attorney General and Counselor for International Affairs Bruce Swartz, U.S. Department of Justice**
 
 February 19, 2016
 
@@ -1046,15 +1046,15 @@ This letter provides a brief overview of the primary investigative tools used to
 
 Of particular note with respect to the seizure of data by public authorities is the Fourth Amendment to the United States Constitution, which provides that ‘\[t\]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.’ U.S. Const. amend. IV. As the United States Supreme Court stated in *Berger v. State of New York*, ‘\[t\]he basic purpose of this Amendment, as recognized in countless decisions of this Court, is to safeguard the privacy and security of individuals against arbitrary invasions by government officials.’ 388 U.S. 41, 53 (1967) (*citing Camara v. Mun. Court of San Francisco*, 387 U.S. 523, 528 (1967)). In domestic criminal investigations, the Fourth Amendment generally requires law enforcement officers to obtain a court-issued warrant before conducting a search. See *Katz v. United States*, 389 U.S. 347, 357 (1967). When the warrant requirement does not apply, government activity is subject to a ‘reasonableness’ test under the Fourth Amendment. The Constitution itself, therefore, ensures that the U.S. government does not have limitless, or arbitrary, power to seize private information.
 
-[^key-454722433768fc74c815db1c7eda32f0]**Criminal Law Enforcement Authorities:**
+[^c-454722433768fc74c815db1c7eda32f0]**Criminal Law Enforcement Authorities:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]**Civil and Regulatory Authorities (Public Interest):**
+[^c-454722433768fc74c815db1c7eda32f0]**Civil and Regulatory Authorities (Public Interest):**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454722433768fc74c815db1c7eda32f0]**Conclusion**
+[^c-454722433768fc74c815db1c7eda32f0]**Conclusion**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1066,4 +1066,4 @@ Deputy Assistant Attorney General and Counselor for International Affairs
 
 ## Annotations
 
-[^key-454722433768fc74c815db1c7eda32f0]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [Sch. 3 para. 1(o)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-454722433768fc74c815db1c7eda32f0]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [Sch. 3 para. 1(o)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

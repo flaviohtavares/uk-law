@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Option to defer payment of added pension[^key-f77804e11a4a53d5bea7f75049c79b8f]
+## 83. Option to defer payment of added pension[^c-f77804e11a4a53d5bea7f75049c79b8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f77804e11a4a53d5bea7f75049c79b8f]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2014/1964/regulation/83) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-f77804e11a4a53d5bea7f75049c79b8f]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2014/1964/regulation/83) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

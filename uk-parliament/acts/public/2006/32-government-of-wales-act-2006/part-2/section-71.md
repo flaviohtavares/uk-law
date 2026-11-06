@@ -22,7 +22,7 @@ summary: ''
 
 (1) The persons to whom this section applies may do anything (including the acquisition or disposal of any property or rights) which is calculated to facilitate, or is conducive or incidental to, the exercise of any of their other functions.
 
-(2)[^key-9125c1b875aa253f357814331f72e30e] This section applies to the First Minister and the Counsel General.
+(2)[^c-9125c1b875aa253f357814331f72e30e] This section applies to the First Minister and the Counsel General.
 
 (As regards the Welsh Ministers, see section 58A.)
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c16527071]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-9125c1b875aa253f357814331f72e30e]: Textual amendment: S. 71(2) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/19/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/e)
+[^c-9125c1b875aa253f357814331f72e30e]: Textual amendment: S. 71(2) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/19/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/e)

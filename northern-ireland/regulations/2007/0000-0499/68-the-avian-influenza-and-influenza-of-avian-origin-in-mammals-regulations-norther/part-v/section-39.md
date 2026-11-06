@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Slaughter of poultry in a slaughterhouse where disease is suspected or confirmed[^key-46a8aa56ca8c19ea5c1a8c0ccc64ff1a]
+## 39. Slaughter of poultry in a slaughterhouse where disease is suspected or confirmed[^c-46a8aa56ca8c19ea5c1a8c0ccc64ff1a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The occupier of a slaughterhouse where highly pathogenic avian influenza is susp
 
 ## Annotations
 
-[^key-46a8aa56ca8c19ea5c1a8c0ccc64ff1a]: Commencement: Reg. 39 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-46a8aa56ca8c19ea5c1a8c0ccc64ff1a]: Commencement: Reg. 39 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

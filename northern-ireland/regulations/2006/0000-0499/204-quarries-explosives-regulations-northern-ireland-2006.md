@@ -47,11 +47,11 @@ In accordance with Article 46(1)[^f00002] of that Order, he is giving effect wit
 
 In accordance with Article 46(3) of that Order, the Executive has consulted any bodies which appeared to it to be appropriate.
 
-## 1. Citation and commencement[^key-8971f9bd6b2dd399f53f4f6b48d5e0f9]
+## 1. Citation and commencement[^c-8971f9bd6b2dd399f53f4f6b48d5e0f9]
 
 These Regulations may be cited as the Quarries (Explosives) Regulations (Northern Ireland) 2006 and shall come into operation on 1st August 2006.
 
-## 2. Interpretation[^key-883f58e5fb411cfcee19515170e78271]
+## 2. Interpretation[^c-883f58e5fb411cfcee19515170e78271]
 
 In these Regulations—
 
@@ -68,7 +68,7 @@ In these Regulations—
 
   which is capable by chemical reaction in itself of producing gas at such a temperature and pressure and at such a speed as could cause damage to surroundings or which is designed to produce an effect by heat, light, sound, gas or smoke or a combination of these as a result of non-detonative self-sustaining exothermic chemical reactions;
 - “explosives” means explosive articles or explosive substances;
-- “explosives store” means a building, enclosed area or metal structure where explosives are stored under a licence granted or registration issued under the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006;[^key-5aa1f51629a0470f2eee7781aaa41d46]
+- “explosives store” means a building, enclosed area or metal structure where explosives are stored under a licence granted or registration issued under the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006;[^c-5aa1f51629a0470f2eee7781aaa41d46]
 - “misfire” means an occurrence in relation to the firing of shots where—
   - (a) testing before firing reveals broken continuity which cannot be rectified; or
   - (b) a shot or any part of a shot fails to explode when an attempt is made to fire it;
@@ -90,11 +90,11 @@ In these Regulations—
 - “trainee shotfirer” means a person appointed pursuant to regulation 4(2)(a)(ii) to undergo training in shotfiring operations under the close personal supervision of a shotfirer; and
 - “vehicle” means any mechanically propelled vehicle (including mechanically propelled plant).
 
-## 3. Application[^key-adb6828e0b4ec66e5b60e514d1cd9946]
+## 3. Application[^c-adb6828e0b4ec66e5b60e514d1cd9946]
 
 These Regulations shall apply to the storage, transport and use of explosives at a quarry to which the Quarries Regulations (Northern Ireland) 2006 apply.
 
-## 4. Operator’s duties[^key-49e8bf12b0a8d3441bfc08b42de325f8]
+## 4. Operator’s duties[^c-49e8bf12b0a8d3441bfc08b42de325f8]
 
 (1) The operator shall—
 
@@ -128,7 +128,7 @@ These Regulations shall apply to the storage, transport and use of explosives at
 
 (5) The operator shall ensure, so far as is reasonably practicable, that each shotfiring operation is carried out safely and in accordance with the rules required to be made in pursuance of paragraph (2)(a) and any specification required to be prepared in pursuance of paragraph (2)(b).
 
-## 5. Supervision of shotfiring and trainee shotfirers and records of appointment[^key-45bccb48c183dd320e9f591638210297]
+## 5. Supervision of shotfiring and trainee shotfirers and records of appointment[^c-45bccb48c183dd320e9f591638210297]
 
 (1) The operator shall take all reasonable steps to ensure that—
 
@@ -137,7 +137,7 @@ These Regulations shall apply to the storage, transport and use of explosives at
 
 (2) The operator shall ensure that a record of the appointment at the quarry of any shotfirer or trainee shotfirer is kept at a suitable place until three years after that shotfirer’s employment or trainee shotfirer’s employment at the quarry ends.
 
-## 6. Shotfirer’s duties[^key-88235455d78083759f7daab441660c6a]
+## 6. Shotfirer’s duties[^c-88235455d78083759f7daab441660c6a]
 
 Before a shot is fired, a shotfirer shall—
 
@@ -146,7 +146,7 @@ Before a shot is fired, a shotfirer shall—
 - (c) where appropriate, ensure that the electrical integrity of the shotfiring system or circuit is such as to make a misfire unlikely; and
 - (d) ensure that the shot is fired from a safe place.
 
-## 7. Misfires[^key-91c7484bf94882971e5b31878a781722]
+## 7. Misfires[^c-91c7484bf94882971e5b31878a781722]
 
 In the event of a misfire the operator shall consult the individual appointed under regulation 8(1)(c) of the Quarries Regulations (Northern Ireland) 2006 (if this is not the same person) and shall ensure, so far as is reasonably practicable, that—
 
@@ -155,7 +155,7 @@ In the event of a misfire the operator shall consult the individual appointed un
 - (c) a suitable record is kept of the misfire for at least three years; and
 - (d) appropriate steps are taken to prevent theft of the explosives and detonators or their initiation by an unauthorised person.
 
-## 8. Prohibited activities[^key-3b7f77ba1659512ecc472a4c4c60e4ab]
+## 8. Prohibited activities[^c-3b7f77ba1659512ecc472a4c4c60e4ab]
 
 (1) A person other than a person appointed by the Chief Constable, an inspector appointed by the Health and Safety Executive for Northern Ireland and the Secretary of State as an Explosives Inspector, a person engaged in the transport of explosives to or from the quarry, a shotfirer, a trainee shotfirer, a person authorised to handle explosives at a quarry or a person appointed to be in charge of the explosives store shall not handle explosives at a quarry.
 
@@ -176,7 +176,7 @@ In the event of a misfire the operator shall consult the individual appointed un
 
 and for the purpose of this regulation, a safety fuse shall not be deemed to be a suitable exploder.
 
-## 9. Exemptions[^key-4feea5c32f82b1fc0b6e5641480274cb]
+## 9. Exemptions[^c-4feea5c32f82b1fc0b6e5641480274cb]
 
 (1) Subject to paragraph (2), the Secretary of State may, by a certificate in writing, exempt any quarry, part of a quarry or class of quarries, any person or class of persons or any operation or class of operations from all or any of the prohibitions and requirements of these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a further certificate in writing.
 
@@ -187,11 +187,11 @@ and for the purpose of this regulation, a safety fuse shall not be deemed to be 
 
 he is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it and that the security of explosives or detonators will not be so prejudiced.
 
-## 10. Revocation[^key-8f6107f90fbce1c4b0e98aaa77369f93]
+## 10. Revocation[^c-8f6107f90fbce1c4b0e98aaa77369f93]
 
 The Quarries (Explosives) Regulations (Northern Ireland) 1991[^f00007] are hereby revoked.
 
-## 11. Amendment[^key-dbf2f45b2aa2c3c3977c9d719b57451a]
+## 11. Amendment[^c-dbf2f45b2aa2c3c3977c9d719b57451a]
 
 The Carriage of Explosives Regulations (Northern Ireland) 2006[^f00008] regulation 2(1), for the definition of “quarry” there shall be substituted the following definition—
 
@@ -235,32 +235,32 @@ Northern Ireland Office
 
 [^f00004]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
 
-[^key-8971f9bd6b2dd399f53f4f6b48d5e0f9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-8971f9bd6b2dd399f53f4f6b48d5e0f9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-883f58e5fb411cfcee19515170e78271]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/204/regulation/2) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-883f58e5fb411cfcee19515170e78271]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/204/regulation/2) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-5aa1f51629a0470f2eee7781aaa41d46]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/204/regulation/2) substituted (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 37](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/37)
+[^c-5aa1f51629a0470f2eee7781aaa41d46]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/204/regulation/2) substituted (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 37](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/37)
 
 [^f00006]: Footnote: [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205)
 
-[^key-adb6828e0b4ec66e5b60e514d1cd9946]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/204/regulation/3) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-adb6828e0b4ec66e5b60e514d1cd9946]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/204/regulation/3) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-49e8bf12b0a8d3441bfc08b42de325f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/204/regulation/4) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-49e8bf12b0a8d3441bfc08b42de325f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/204/regulation/4) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-45bccb48c183dd320e9f591638210297]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/204/regulation/5) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-45bccb48c183dd320e9f591638210297]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/204/regulation/5) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-88235455d78083759f7daab441660c6a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/204/regulation/6) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-88235455d78083759f7daab441660c6a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/204/regulation/6) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-91c7484bf94882971e5b31878a781722]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/204/regulation/7) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-91c7484bf94882971e5b31878a781722]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/204/regulation/7) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-3b7f77ba1659512ecc472a4c4c60e4ab]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/204/regulation/8) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-3b7f77ba1659512ecc472a4c4c60e4ab]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/204/regulation/8) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-4feea5c32f82b1fc0b6e5641480274cb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/204/regulation/9) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-4feea5c32f82b1fc0b6e5641480274cb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/204/regulation/9) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
-[^key-8f6107f90fbce1c4b0e98aaa77369f93]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/204/regulation/10) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-8f6107f90fbce1c4b0e98aaa77369f93]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/204/regulation/10) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1991 No. 233](https://www.legislation.gov.uk/nisr/1991/233)
 
-[^key-dbf2f45b2aa2c3c3977c9d719b57451a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/204/regulation/11) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
+[^c-dbf2f45b2aa2c3c3977c9d719b57451a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/204/regulation/11) in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/204/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2006 No. 182](https://www.legislation.gov.uk/nisr/2006/182)

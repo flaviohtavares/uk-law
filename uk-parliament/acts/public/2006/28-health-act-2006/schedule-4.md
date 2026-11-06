@@ -24,13 +24,13 @@ Section 57
 
 ### Status
 
-**1.**[^key-3714e9f28b4abc6c3524ea29a83f6059] (1) The Commission is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+**1.**[^c-3714e9f28b4abc6c3524ea29a83f6059] (1) The Commission is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
 (2) The Commission's property is not to be regarded as property of, or property held on behalf of, the Crown.
 
 ### The Board of the Commission
 
-**2.**[^c16511041][^key-4819ef5077e37382bc78bee9606daf49] The Commission is to consist of the following members—
+**2.**[^c16511041][^c-4819ef5077e37382bc78bee9606daf49] The Commission is to consist of the following members—
 
 - (a) the chairman,
 - (b) the prescribed number of non-executive members,
@@ -39,7 +39,7 @@ Section 57
 
 ### Chairman and non-executive members
 
-**3.**[^c16511051][^key-650adb83c717725a16e2b3a3170e5787] (1) The chairman and non-executive members are to be appointed by the Secretary of State.
+**3.**[^c16511051][^c-650adb83c717725a16e2b3a3170e5787] (1) The chairman and non-executive members are to be appointed by the Secretary of State.
 
 (2) Of the non-executive members at least one (but not more than four) must be persons who are also appointed to be health and social care commissioners under paragraph 10.
 
@@ -50,7 +50,7 @@ Section 57
 
 ### Chief executive
 
-**4.**[^key-746bda8454cb99b99bc722a58d381c10] (1) The chief executive is to be appointed by the chairman and the non-executive members of the Commission.
+**4.**[^c-746bda8454cb99b99bc722a58d381c10] (1) The chief executive is to be appointed by the chairman and the non-executive members of the Commission.
 
 (2) The chief executive must be—
 
@@ -61,7 +61,7 @@ Section 57
 
 ### The executive members
 
-**5.**[^key-91ae271cf3e456b080b7397f42d275b0] (1) The executive members are to be appointed by the chairman and the non-executive members of the Commission.
+**5.**[^c-91ae271cf3e456b080b7397f42d275b0] (1) The executive members are to be appointed by the chairman and the non-executive members of the Commission.
 
 (2) The executive members must be—
 
@@ -72,16 +72,16 @@ Section 57
 
 ### The vice-chairman
 
-**6.**[^key-7d531094b3c6eebeb73b9dbce2929ebc] (1)[^key-401774422713857aa96b4f3e1aba32ad] The members of the Commission may appoint one of the non-executive members to be vice-chairman for such period (not exceeding the remainder of his period of office as member) as they specify on making the appointment.
+**6.**[^c-7d531094b3c6eebeb73b9dbce2929ebc] (1)[^c-401774422713857aa96b4f3e1aba32ad] The members of the Commission may appoint one of the non-executive members to be vice-chairman for such period (not exceeding the remainder of his period of office as member) as they specify on making the appointment.
 
-(2)[^key-6c7af432e63c56b2e16452e9f94d8540] But regulations may—
+(2)[^c-6c7af432e63c56b2e16452e9f94d8540] But regulations may—
 
 - (a) provide that if the chairman's membership is suspended the Secretary of State may direct that the appointment of the vice-chairman under sub-paragraph (1) ceases to have effect;
 - (b) make provision about the appointment by the Secretary of State in those circumstances of another non-executive member to be vice-chairman.
 
 ### Terms of appointment: chairman and non-executive members
 
-**7.**[^c16511081][^key-1535d54472a3e64c88a9229108f491bb] (1) Regulations may make provision as to the terms on which the chairman and non-executive members of the Commission are to be appointed.
+**7.**[^c16511081][^c-1535d54472a3e64c88a9229108f491bb] (1) Regulations may make provision as to the terms on which the chairman and non-executive members of the Commission are to be appointed.
 
 (2) The regulations may in particular make provision as to—
 
@@ -102,7 +102,7 @@ Section 57
 
 ### Terms of appointment: chief executive and executive members
 
-**8.**[^key-9dde921dd07976a444c2623d71d9bb20] (1) The Commission must determine—
+**8.**[^c-9dde921dd07976a444c2623d71d9bb20] (1) The Commission must determine—
 
 - (a) the conditions of service of, and
 - (b) the remuneration and allowances payable to,
@@ -123,7 +123,7 @@ must be determined by agreement between his employer and the Commission.
 
 ### Committees: general
 
-**9.**[^key-cd1c890170044dea73f281920294562d] (1) The Commission may appoint such committees and sub-committees as it thinks appropriate.
+**9.**[^c-cd1c890170044dea73f281920294562d] (1) The Commission may appoint such committees and sub-committees as it thinks appropriate.
 
 (2) A committee or sub-committee may consist of or include persons who are not members of the Commission.
 
@@ -143,7 +143,7 @@ whether or not he is also a member of the Commission.
 
 ### The Health and Social Care Appointments Committee
 
-**10.**[^c16511091][^key-fc3c1ebb33711ee42fae663432dddc89] (1) There is to be a committee of the Commission to be known as the Health and Social Care Appointments Committee.
+**10.**[^c16511091][^c-fc3c1ebb33711ee42fae663432dddc89] (1) There is to be a committee of the Commission to be known as the Health and Social Care Appointments Committee.
 
 (2) The Committee is to discharge on behalf of the Commission—
 
@@ -173,25 +173,25 @@ whether or not he is also a member of the Commission.
 
 ### Proceedings
 
-**11.**[^key-855e3eee056d9988c16733ff30ce95a8] (1) The Commission may make such provision as it thinks fit to regulate—
+**11.**[^c-855e3eee056d9988c16733ff30ce95a8] (1) The Commission may make such provision as it thinks fit to regulate—
 
 - (a) its own proceedings (including quorum), and
 - (b) the procedure (including quorum) of its committees and sub-committees.
 
 (2) Sub-paragraph (1) has effect subject to any directions given by the Secretary of State.
 
-**12.**[^key-336a9a0dc4ed703ff9c8ee183df15df6] On any occasion when both the chairman and the vice-chairman are, for any reason, unable to perform the duties of chairman, the other members of the Commission may appoint one of the non-executive members to act in the place of the chairman.
+**12.**[^c-336a9a0dc4ed703ff9c8ee183df15df6] On any occasion when both the chairman and the vice-chairman are, for any reason, unable to perform the duties of chairman, the other members of the Commission may appoint one of the non-executive members to act in the place of the chairman.
 
-**13.**[^key-92a887b7aec4bfa194161ecdc54fb726] The validity of any proceedings of the Commission, or any of its committees or sub-committees, is not affected by—
+**13.**[^c-92a887b7aec4bfa194161ecdc54fb726] The validity of any proceedings of the Commission, or any of its committees or sub-committees, is not affected by—
 
 - (a) any vacancy in the office of chairman or chief executive or in the membership of the Commission or the committee or sub-committee, or
 - (b) any defect in the appointment of the chairman or the chief executive or a member of the Commission or the committee or sub-committee.
 
-**14.**[^key-4adaa6bda7592d1265dc8d838cb190bb] The Public Bodies (Admission to Meetings) Act 1960 (c. 67) applies to meetings of the Commission.
+**14.**[^c-4adaa6bda7592d1265dc8d838cb190bb] The Public Bodies (Admission to Meetings) Act 1960 (c. 67) applies to meetings of the Commission.
 
 ### Staff
 
-**15.**[^key-7c13f19be950020fc20512b95d93c38d] (1) The Commission may appoint such persons to be employees of the Commission as it thinks fit.
+**15.**[^c-7c13f19be950020fc20512b95d93c38d] (1) The Commission may appoint such persons to be employees of the Commission as it thinks fit.
 
 (2) The Commission may make arrangements for persons to be seconded to the Commission to serve as members of its staff.
 
@@ -199,7 +199,7 @@ whether or not he is also a member of the Commission.
 
 (4) References in this Schedule to members of the Commission's staff are to persons who either are employees of the Commission or have been seconded to it to serve as members of its staff.
 
-**16.**[^key-0dbc0d8a924c37e417aefa4b78f59140] (1) Employees of the Commission are to be appointed on such terms and conditions as the Commission determines.
+**16.**[^c-0dbc0d8a924c37e417aefa4b78f59140] (1) Employees of the Commission are to be appointed on such terms and conditions as the Commission determines.
 
 (2) Without prejudice to its other powers, the Commission may pay, or make provision for the payment of—
 
@@ -208,7 +208,7 @@ whether or not he is also a member of the Commission.
 
 to or in respect of its employees.
 
-**17.**[^key-e52c297382bf66f5339a9a745ec530e3] (1) The Commission may, to such extent as it determines, delegate any of its functions to any members of its staff.
+**17.**[^c-e52c297382bf66f5339a9a745ec530e3] (1) The Commission may, to such extent as it determines, delegate any of its functions to any members of its staff.
 
 (2) Any committee of the Commission may, to such extent as the committee determines, delegate any function conferred on it to any of its sub-committees or any member of the Commission's staff.
 
@@ -216,7 +216,7 @@ to or in respect of its employees.
 
 ### Financing of Commission
 
-**18.**[^key-8451f2272e43f2f92fda9e0d5d6b3a86] (1) The Secretary of State may make—
+**18.**[^c-8451f2272e43f2f92fda9e0d5d6b3a86] (1) The Secretary of State may make—
 
 - (a) such annual payments to the Commission as he thinks appropriate in respect of the performance by it of functions to which sub-paragraph (2) applies, and
 - (b) such other payments to the Commission as he thinks appropriate in respect of the performance by it of functions to which sub-paragraph (3) applies.
@@ -240,13 +240,13 @@ to or in respect of its employees.
 
 as the Secretary of State thinks appropriate.
 
-**19.**[^key-605d36091b8229c09a6c17f2d77f610b] The National Assembly for Wales may make such payments to the Commission as the Assembly thinks appropriate in respect of the performance by the Commission of functions exercisable by virtue of a direction under section 61.
+**19.**[^c-605d36091b8229c09a6c17f2d77f610b] The National Assembly for Wales may make such payments to the Commission as the Assembly thinks appropriate in respect of the performance by the Commission of functions exercisable by virtue of a direction under section 61.
 
-**20.**[^key-15d4e35821bdda627ce871f017bb84a5] (1) The Secretary of State may make loans to the Commission.
+**20.**[^c-15d4e35821bdda627ce871f017bb84a5] (1) The Secretary of State may make loans to the Commission.
 
 (2) A loan under this paragraph may be made on such terms as the Secretary of State thinks appropriate.
 
-**21.**[^c16511101][^key-b9f46e27a992bd62da7eb38eaaf8c0ec] (1) The Commission may charge for providing—
+**21.**[^c16511101][^c-b9f46e27a992bd62da7eb38eaaf8c0ec] (1) The Commission may charge for providing—
 
 - (a) any services under arrangements under section 63(2) or (4),
 - (b) any services under section 64(1) to (3), or
@@ -256,7 +256,7 @@ as the Secretary of State thinks appropriate.
 
 ### Accounts
 
-**22.**[^key-2d3a1696f068f8aee4027dd141be7626] (1) The Commission must keep accounts in such form as the Secretary of State directs.
+**22.**[^c-2d3a1696f068f8aee4027dd141be7626] (1) The Commission must keep accounts in such form as the Secretary of State directs.
 
 (2) The Commission must prepare annual accounts in respect of each financial year in such form as the Secretary of State directs.
 
@@ -276,7 +276,7 @@ as the Secretary of State thinks appropriate.
 
 *Extent: E+W+N.I.*
 
-**23.**[^key-bf718682bf6fdcd2e60f371ae51e39ef] (1) The application of the Commission's seal must be authenticated by the signature of the chairman or another member of the Commission or any other person authorised by the Commission for the purpose.
+**23.**[^c-bf718682bf6fdcd2e60f371ae51e39ef] (1) The application of the Commission's seal must be authenticated by the signature of the chairman or another member of the Commission or any other person authorised by the Commission for the purpose.
 
 (2) A document purporting to be duly executed under the seal of the Commission or to be signed on behalf of the Commission is to be—
 
@@ -287,62 +287,62 @@ as the Secretary of State thinks appropriate.
 
 ## Annotations
 
-[^key-3714e9f28b4abc6c3524ea29a83f6059]: Commencement: Sch. 4 para. 1 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-3714e9f28b4abc6c3524ea29a83f6059]: Commencement: Sch. 4 para. 1 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
 [^c16511041]: Commencement: Sch. 4 para. 2 in force for certain purposes at Royal Assent see s. 83
 
-[^key-4819ef5077e37382bc78bee9606daf49]: Commencement: Sch. 4 para. 2 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-4819ef5077e37382bc78bee9606daf49]: Commencement: Sch. 4 para. 2 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
 [^c16511051]: Commencement: Sch. 4 para. 3 in force for certain purposes at Royal Assent see s. 83
 
-[^key-650adb83c717725a16e2b3a3170e5787]: Commencement: Sch. 4 para. 3 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-650adb83c717725a16e2b3a3170e5787]: Commencement: Sch. 4 para. 3 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-746bda8454cb99b99bc722a58d381c10]: Commencement: Sch. 4 para. 4 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-746bda8454cb99b99bc722a58d381c10]: Commencement: Sch. 4 para. 4 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-91ae271cf3e456b080b7397f42d275b0]: Commencement: Sch. 4 para. 5 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-91ae271cf3e456b080b7397f42d275b0]: Commencement: Sch. 4 para. 5 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-7d531094b3c6eebeb73b9dbce2929ebc]: Commencement: Sch. 4 para. 6 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-7d531094b3c6eebeb73b9dbce2929ebc]: Commencement: Sch. 4 para. 6 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-401774422713857aa96b4f3e1aba32ad]: Textual amendment: Reference in [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/4/paragraph/6/1) inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/8/2) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
+[^c-401774422713857aa96b4f3e1aba32ad]: Textual amendment: Reference in [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/4/paragraph/6/1) inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/8/2) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
 
-[^key-6c7af432e63c56b2e16452e9f94d8540]: Textual amendment: [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/4/paragraph/6/2) inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/8/3) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
+[^c-6c7af432e63c56b2e16452e9f94d8540]: Textual amendment: [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/28/schedule/4/paragraph/6/2) inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/8/3) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
 
 [^c16511081]: Commencement: Sch. 4 para. 7 in force for certain purposes at Royal Assent see s. 83
 
-[^key-1535d54472a3e64c88a9229108f491bb]: Commencement: Sch. 4 para. 7 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-1535d54472a3e64c88a9229108f491bb]: Commencement: Sch. 4 para. 7 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-9dde921dd07976a444c2623d71d9bb20]: Commencement: Sch. 4 para. 8 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-9dde921dd07976a444c2623d71d9bb20]: Commencement: Sch. 4 para. 8 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-cd1c890170044dea73f281920294562d]: Commencement: Sch. 4 para. 9 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-cd1c890170044dea73f281920294562d]: Commencement: Sch. 4 para. 9 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
 [^c16511091]: Commencement: Sch. 4 para. 10 in force for certain purposes at Royal Assent see s. 83
 
-[^key-fc3c1ebb33711ee42fae663432dddc89]: Commencement: Sch. 4 para. 10 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-fc3c1ebb33711ee42fae663432dddc89]: Commencement: Sch. 4 para. 10 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-855e3eee056d9988c16733ff30ce95a8]: Commencement: Sch. 4 para. 11 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-855e3eee056d9988c16733ff30ce95a8]: Commencement: Sch. 4 para. 11 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-336a9a0dc4ed703ff9c8ee183df15df6]: Commencement: Sch. 4 para. 12 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-336a9a0dc4ed703ff9c8ee183df15df6]: Commencement: Sch. 4 para. 12 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-92a887b7aec4bfa194161ecdc54fb726]: Commencement: Sch. 4 para. 13 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-92a887b7aec4bfa194161ecdc54fb726]: Commencement: Sch. 4 para. 13 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-4adaa6bda7592d1265dc8d838cb190bb]: Commencement: Sch. 4 para. 14 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-4adaa6bda7592d1265dc8d838cb190bb]: Commencement: Sch. 4 para. 14 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-7c13f19be950020fc20512b95d93c38d]: Commencement: Sch. 4 para. 15 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-7c13f19be950020fc20512b95d93c38d]: Commencement: Sch. 4 para. 15 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-0dbc0d8a924c37e417aefa4b78f59140]: Commencement: Sch. 4 para. 16 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-0dbc0d8a924c37e417aefa4b78f59140]: Commencement: Sch. 4 para. 16 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-e52c297382bf66f5339a9a745ec530e3]: Commencement: Sch. 4 para. 17 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-e52c297382bf66f5339a9a745ec530e3]: Commencement: Sch. 4 para. 17 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-8451f2272e43f2f92fda9e0d5d6b3a86]: Commencement: Sch. 4 para. 18 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-8451f2272e43f2f92fda9e0d5d6b3a86]: Commencement: Sch. 4 para. 18 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-605d36091b8229c09a6c17f2d77f610b]: Commencement: Sch. 4 para. 19 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-605d36091b8229c09a6c17f2d77f610b]: Commencement: Sch. 4 para. 19 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-15d4e35821bdda627ce871f017bb84a5]: Commencement: Sch. 4 para. 20 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-15d4e35821bdda627ce871f017bb84a5]: Commencement: Sch. 4 para. 20 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
 [^c16511101]: Commencement: Sch. 4 para. 21 in force for certain purposes at Royal Assent see s. 83
 
-[^key-b9f46e27a992bd62da7eb38eaaf8c0ec]: Commencement: Sch. 4 para. 21 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-b9f46e27a992bd62da7eb38eaaf8c0ec]: Commencement: Sch. 4 para. 21 in force at 1.10.2006 in so far as not already in force by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-2d3a1696f068f8aee4027dd141be7626]: Commencement: Sch. 4 para. 22 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-2d3a1696f068f8aee4027dd141be7626]: Commencement: Sch. 4 para. 22 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
 
-[^key-bf718682bf6fdcd2e60f371ae51e39ef]: Commencement: Sch. 4 para. 23 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)
+[^c-bf718682bf6fdcd2e60f371ae51e39ef]: Commencement: Sch. 4 para. 23 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/4/b)

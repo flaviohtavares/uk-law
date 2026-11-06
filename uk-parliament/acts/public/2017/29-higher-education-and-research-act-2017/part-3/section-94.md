@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Financial support: supplementary provision[^key-16743f25294faacd24daee275727ebea]
+## 94. Financial support: supplementary provision[^c-16743f25294faacd24daee275727ebea]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16743f25294faacd24daee275727ebea]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2017/29/section/94) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-16743f25294faacd24daee275727ebea]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2017/29/section/94) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

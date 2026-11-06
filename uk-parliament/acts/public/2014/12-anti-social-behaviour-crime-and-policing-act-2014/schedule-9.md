@@ -24,11 +24,11 @@ Section 148
 
 ### Examining officers
 
-**1.** (1)[^key-5d150715d3caf5e3357d8a06dde3d900][^key-6391b176b3950d3c736014bd3b5e6e2f] Schedule 7 to the Terrorism Act 2000 is amended as follows.
+**1.** (1)[^c-5d150715d3caf5e3357d8a06dde3d900][^c-6391b176b3950d3c736014bd3b5e6e2f] Schedule 7 to the Terrorism Act 2000 is amended as follows.
 
-(2)[^key-c0f19feb9debf2d7707ced5ecd17dd71] In paragraph 1(1)(b), after “officer” there is inserted “ who is designated for the purpose of this Schedule by the Secretary of State ”.
+(2)[^c-c0f19feb9debf2d7707ced5ecd17dd71] In paragraph 1(1)(b), after “officer” there is inserted “ who is designated for the purpose of this Schedule by the Secretary of State ”.
 
-(3)[^key-5d150715d3caf5e3357d8a06dde3d900][^key-6391b176b3950d3c736014bd3b5e6e2f] After paragraph 1 there is inserted—
+(3)[^c-5d150715d3caf5e3357d8a06dde3d900][^c-6391b176b3950d3c736014bd3b5e6e2f] After paragraph 1 there is inserted—
 
 > **Examining officers etc**
 >
@@ -47,7 +47,7 @@ Section 148
 
 ### Time limits on examination without detention and on detention
 
-**2.**[^key-86542346233ae6ebd7925c57bbd3d5a4] (1) Schedule 7 to the Terrorism Act 2000 is amended as follows.
+**2.**[^c-86542346233ae6ebd7925c57bbd3d5a4] (1) Schedule 7 to the Terrorism Act 2000 is amended as follows.
 
 (2) Paragraph 6(4) is repealed.
 
@@ -66,7 +66,7 @@ Section 148
 
 ### Powers to search persons
 
-**3.**[^key-ab0ab7258d1622e465b81ae7e13f5234] In paragraph 8 of Schedule 7 to the Terrorism Act 2000, after sub-paragraph (3) there is inserted—
+**3.**[^c-ab0ab7258d1622e465b81ae7e13f5234] In paragraph 8 of Schedule 7 to the Terrorism Act 2000, after sub-paragraph (3) there is inserted—
 
 > (4) An intimate search of a person may not be carried out under this paragraph.
 >
@@ -91,7 +91,7 @@ Section 148
 
 ### Power to make and retain copies
 
-**4.**[^key-f3ed2547d341639382cc581746b3185c] In Schedule 7 to the Terrorism Act 2000, after paragraph 11 there is inserted—
+**4.**[^c-f3ed2547d341639382cc581746b3185c] In Schedule 7 to the Terrorism Act 2000, after paragraph 11 there is inserted—
 
 > **Power to make and retain copies**
 >
@@ -111,7 +111,7 @@ Section 148
 
 ### Right of person detained under Schedule 7 to have someone informed and to consult a solicitor
 
-**5.**[^key-da16cadcee20def91cf4b3dc2f6718cc] (1) Schedule 8 to the Terrorism Act 2000 is amended as follows.
+**5.**[^c-da16cadcee20def91cf4b3dc2f6718cc] (1) Schedule 8 to the Terrorism Act 2000 is amended as follows.
 
 (2) In paragraph 1(5) (definition of examining officer) for “paragraph” there is substituted “ Schedule ”.
 
@@ -189,7 +189,7 @@ Section 148
 
 ### Biometrics
 
-**6.**[^key-f4873e2920501a476ba4b2bd1651ddbc] (1) Paragraph 10 of Schedule 8 to the Terrorism Act 2000 is amended as follows.
+**6.**[^c-f4873e2920501a476ba4b2bd1651ddbc] (1) Paragraph 10 of Schedule 8 to the Terrorism Act 2000 is amended as follows.
 
 (2) In sub-paragraph (5), for “the detained person only” there is substituted “ a person detained under section 41, but only ”.
 
@@ -197,14 +197,14 @@ Section 148
 
 ### Review of detention under Schedule 7
 
-**7.** (1)[^key-4a52f77aacf2986a03578510e3d2ca42][^key-5f9865458b81262355321d5bf6eae6fb] The Terrorism Act 2000 is amended as follows.
+**7.** (1)[^c-4a52f77aacf2986a03578510e3d2ca42][^c-5f9865458b81262355321d5bf6eae6fb] The Terrorism Act 2000 is amended as follows.
 
-(2)[^key-abb8031b57841fc166b8a82c1b2e06c0] In paragraph 6(3) of Schedule 7 (provisions of Schedule 8 applying to detention under Schedule 7)—
+(2)[^c-abb8031b57841fc166b8a82c1b2e06c0] In paragraph 6(3) of Schedule 7 (provisions of Schedule 8 applying to detention under Schedule 7)—
 
 - (a) for “Part I” there is substituted “ Parts 1 and 1A ”;
 - (b) after “treatment” there is inserted “ and review of detention ”.
 
-(3)[^key-4a52f77aacf2986a03578510e3d2ca42][^key-5f9865458b81262355321d5bf6eae6fb] In Schedule 8, after Part 1 there is inserted—
+(3)[^c-4a52f77aacf2986a03578510e3d2ca42][^c-5f9865458b81262355321d5bf6eae6fb] In Schedule 8, after Part 1 there is inserted—
 
 > **PART 1A — Review of detention under Schedule 7**
 >
@@ -276,7 +276,7 @@ Section 148
 
 ### Codes of practice
 
-**8.**[^key-d11af78222eeb6c370d241874ed42d1b] (1) Schedule 14 to the Terrorism Act 2000 (exercise of powers—codes of practice etc) is amended as follows.
+**8.**[^c-d11af78222eeb6c370d241874ed42d1b] (1) Schedule 14 to the Terrorism Act 2000 (exercise of powers—codes of practice etc) is amended as follows.
 
 (2) In paragraph 1, after “ “**officer**” means” there is inserted “ (subject to paragraph 6A) ”.
 
@@ -291,26 +291,26 @@ Section 148
 
 ## Annotations
 
-[^key-5d150715d3caf5e3357d8a06dde3d900]: Commencement: Sch. 9 para. 1(1)(3) in force at 13.5.2014 for specified purposes by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/21/a)
+[^c-5d150715d3caf5e3357d8a06dde3d900]: Commencement: Sch. 9 para. 1(1)(3) in force at 13.5.2014 for specified purposes by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/21/a)
 
-[^key-6391b176b3950d3c736014bd3b5e6e2f]: Commencement: Sch. 9 para. 1(1)(3) in force at 31.7.2014 in so far as not already in force by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
+[^c-6391b176b3950d3c736014bd3b5e6e2f]: Commencement: Sch. 9 para. 1(1)(3) in force at 31.7.2014 in so far as not already in force by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
 
-[^key-c0f19feb9debf2d7707ced5ecd17dd71]: Commencement: Sch. 9 para. 1(2) in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
+[^c-c0f19feb9debf2d7707ced5ecd17dd71]: Commencement: Sch. 9 para. 1(2) in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
 
-[^key-86542346233ae6ebd7925c57bbd3d5a4]: Commencement: Sch. 9 para. 2 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
+[^c-86542346233ae6ebd7925c57bbd3d5a4]: Commencement: Sch. 9 para. 2 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
 
-[^key-ab0ab7258d1622e465b81ae7e13f5234]: Commencement: Sch. 9 para. 3 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
+[^c-ab0ab7258d1622e465b81ae7e13f5234]: Commencement: Sch. 9 para. 3 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
 
-[^key-f3ed2547d341639382cc581746b3185c]: Commencement: Sch. 9 para. 4 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
+[^c-f3ed2547d341639382cc581746b3185c]: Commencement: Sch. 9 para. 4 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
 
-[^key-da16cadcee20def91cf4b3dc2f6718cc]: Commencement: Sch. 9 para. 5 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
+[^c-da16cadcee20def91cf4b3dc2f6718cc]: Commencement: Sch. 9 para. 5 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
 
-[^key-f4873e2920501a476ba4b2bd1651ddbc]: Commencement: Sch. 9 para. 6 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
+[^c-f4873e2920501a476ba4b2bd1651ddbc]: Commencement: Sch. 9 para. 6 in force at 31.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/3/b)
 
-[^key-4a52f77aacf2986a03578510e3d2ca42]: Commencement: Sch. 9 para. 7(1)(3) in force at 13.5.2014 for specified purposes by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/21/b)
+[^c-4a52f77aacf2986a03578510e3d2ca42]: Commencement: Sch. 9 para. 7(1)(3) in force at 13.5.2014 for specified purposes by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/21/b)
 
-[^key-5f9865458b81262355321d5bf6eae6fb]: Commencement: Sch. 9 para. 7(1)(3) in force at 1.4.2015 in so far as not already in force by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 4](https://www.legislation.gov.uk/uksi/2014/1916/article/4)
+[^c-5f9865458b81262355321d5bf6eae6fb]: Commencement: Sch. 9 para. 7(1)(3) in force at 1.4.2015 in so far as not already in force by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 4](https://www.legislation.gov.uk/uksi/2014/1916/article/4)
 
-[^key-abb8031b57841fc166b8a82c1b2e06c0]: Commencement: Sch. 9 para. 7(2) in force at 1.4.2015 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 4](https://www.legislation.gov.uk/uksi/2014/1916/article/4)
+[^c-abb8031b57841fc166b8a82c1b2e06c0]: Commencement: Sch. 9 para. 7(2) in force at 1.4.2015 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 4](https://www.legislation.gov.uk/uksi/2014/1916/article/4)
 
-[^key-d11af78222eeb6c370d241874ed42d1b]: Commencement: Sch. 9 para. 8 in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/21/c)
+[^c-d11af78222eeb6c370d241874ed42d1b]: Commencement: Sch. 9 para. 8 in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/21/c)

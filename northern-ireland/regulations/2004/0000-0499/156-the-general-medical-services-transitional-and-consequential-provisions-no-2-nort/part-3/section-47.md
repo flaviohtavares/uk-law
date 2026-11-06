@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Sub-contracting[^key-c4f0fbdeac1d722aaf4e6f9490ddcb3f]
+## 47. Sub-contracting[^c-c4f0fbdeac1d722aaf4e6f9490ddcb3f]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ the term of the general medical services contract which gives effect to paragrap
 
 ## Annotations
 
-[^key-c4f0fbdeac1d722aaf4e6f9490ddcb3f]: Commencement: Art. 47 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c4f0fbdeac1d722aaf4e6f9490ddcb3f]: Commencement: Art. 47 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00027]: Footnote: Article 15C was amended by Article 6 of the 2004 Order

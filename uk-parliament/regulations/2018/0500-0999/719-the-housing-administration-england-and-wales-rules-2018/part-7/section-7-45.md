@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.45. Standard contents of notices advertised otherwise than in the Gazette[^key-416617e6645ba0f75aef766ca0bf1054]
+## 7.45. Standard contents of notices advertised otherwise than in the Gazette[^c-416617e6645ba0f75aef766ca0bf1054]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-416617e6645ba0f75aef766ca0bf1054]: Commencement: Rule 7.45 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-416617e6645ba0f75aef766ca0bf1054]: Commencement: Rule 7.45 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

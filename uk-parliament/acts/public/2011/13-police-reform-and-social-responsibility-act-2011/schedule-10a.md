@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 10A — Exercise of PCC functions by elected mayors[^key-44ec5fee7c8c9bb50eda715fcebe6f69]
+## Schedule 10A — Exercise of PCC functions by elected mayors[^c-44ec5fee7c8c9bb50eda715fcebe6f69]
 
 *Extent: E+W*
 
@@ -784,4 +784,4 @@ Section 86 of the Local Government Act 1972 (declaration by local authority of v
 
 ## Annotations
 
-[^key-44ec5fee7c8c9bb50eda715fcebe6f69]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-44ec5fee7c8c9bb50eda715fcebe6f69]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

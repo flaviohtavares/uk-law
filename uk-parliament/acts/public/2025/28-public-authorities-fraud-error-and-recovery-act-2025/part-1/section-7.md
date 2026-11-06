@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Police and Criminal Evidence Act 1984 etc powers[^key-9d9c2174377ace8cab76839fd47fc07c][^key-ce92deae900a4046409575acd2059a8c]
+## 7. Police and Criminal Evidence Act 1984 etc powers[^c-9d9c2174377ace8cab76839fd47fc07c][^c-ce92deae900a4046409575acd2059a8c]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d9c2174377ace8cab76839fd47fc07c]: Commencement: S. 7 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-9d9c2174377ace8cab76839fd47fc07c]: Commencement: S. 7 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ce92deae900a4046409575acd2059a8c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/28/section/7) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-ce92deae900a4046409575acd2059a8c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/28/section/7) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

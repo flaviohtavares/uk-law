@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14ZA. Building safety levy information[^key-d22e21ee49866a78aef67277e5ca372e]
+## 14ZA. Building safety levy information[^c-d22e21ee49866a78aef67277e5ca372e]
 
 *Extent: E+W*
 
@@ -52,10 +52,10 @@ summary: ''
 - (a) the building work to which an application for building control approval with full plans relates, but
 - (b) where the building work is part of a wider development, all the work included in that development.
 
-(5)[^key-a0e8d2d67bb9ee8537ccc44889c0fe35] In paragraph (1)(e), the reference to dwellings does not include a reference to purpose-built student accommodation.
+(5)[^c-a0e8d2d67bb9ee8537ccc44889c0fe35] In paragraph (1)(e), the reference to dwellings does not include a reference to purpose-built student accommodation.
 
 ## Annotations
 
-[^key-d22e21ee49866a78aef67277e5ca372e]: Textual amendment: [Reg. 14ZA](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14ZA) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/1236/regulation/27) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
+[^c-d22e21ee49866a78aef67277e5ca372e]: Textual amendment: [Reg. 14ZA](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14ZA) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/1236/regulation/27) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
 
-[^key-a0e8d2d67bb9ee8537ccc44889c0fe35]: Textual amendment: [Reg. 14ZA(5)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14ZA/5) inserted (E.) (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/9/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/6))
+[^c-a0e8d2d67bb9ee8537ccc44889c0fe35]: Textual amendment: [Reg. 14ZA(5)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14ZA/5) inserted (E.) (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/9/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/6))

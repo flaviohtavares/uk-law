@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Licences[^key-4f4c1b443709ced1643b6e0d8657eebf]
+## 15. Licences[^c-4f4c1b443709ced1643b6e0d8657eebf]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The competent authority must grant and register a licence if—
 
 ## Annotations
 
-[^key-4f4c1b443709ced1643b6e0d8657eebf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2014/951/regulation/15) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-4f4c1b443709ced1643b6e0d8657eebf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2014/951/regulation/15) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

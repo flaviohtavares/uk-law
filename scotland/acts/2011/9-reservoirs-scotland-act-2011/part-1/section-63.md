@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Powers of referee: referral under section 60(1)[^key-e82b5e76091be997011e36bf4fe71876]
+## 63. Powers of referee: referral under section 60(1)[^c-e82b5e76091be997011e36bf4fe71876]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e82b5e76091be997011e36bf4fe71876]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2011/9/section/63) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-e82b5e76091be997011e36bf4fe71876]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2011/9/section/63) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

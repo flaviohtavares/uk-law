@@ -26,9 +26,9 @@ Section 31
 
 #### Crime (International Co-operation) Act 2003 (c. 32)
 
-**1.**[^key-9a516d2407c032771430a0f5c12db0a6] Chapter 1 of Part 3 of the Crime (International Co-operation) Act 2003 (EU Convention on driving disqualifications) is amended as follows.
+**1.**[^c-9a516d2407c032771430a0f5c12db0a6] Chapter 1 of Part 3 of the Crime (International Co-operation) Act 2003 (EU Convention on driving disqualifications) is amended as follows.
 
-**2.**[^key-5177044fe6dc1faa70cd4f9845fce507] (1) Section 54 (road traffic offences in UK: application of section 55) is amended as follows.
+**2.**[^c-5177044fe6dc1faa70cd4f9845fce507] (1) Section 54 (road traffic offences in UK: application of section 55) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -63,7 +63,7 @@ Section 31
 >
 > (7) The Department may by regulations amend Schedule 3A.
 
-**3.**[^key-c88358e570cc2c369acd8d1c0a3b4a03] (1) Section 55 (duty to give notice to foreign authorities of driving disqualification of a non-UK resident) is amended as follows.
+**3.**[^c-c88358e570cc2c369acd8d1c0a3b4a03] (1) Section 55 (duty to give notice to foreign authorities of driving disqualification of a non-UK resident) is amended as follows.
 
 (2) For the heading substitute “ Duty to give notice to Republic of Ireland of UK driving disqualification ”.
 
@@ -76,9 +76,9 @@ Section 31
 - (a) in paragraph (b), for “the State mentioned in subsection (1)” substitute “ the Republic of Ireland ”, and
 - (b) for “the convention on driving disqualifications” substitute “ the specified agreement on driving disqualifications ”.
 
-**4.**[^key-820b70bf8ac708dca45ec375e6f4db97] For the italic heading before section 56 substitute “ Road traffic offences in Republic of Ireland ”.
+**4.**[^c-820b70bf8ac708dca45ec375e6f4db97] For the italic heading before section 56 substitute “ Road traffic offences in Republic of Ireland ”.
 
-**5.**[^key-529c259b0f25378981e1a89b4897b040] (1) Section 56 (road traffic offences in Republic of Ireland: application of section 57) is amended as follows.
+**5.**[^c-529c259b0f25378981e1a89b4897b040] (1) Section 56 (road traffic offences in Republic of Ireland: application of section 57) is amended as follows.
 
 (2) For subsection (2) substitute—
 
@@ -123,7 +123,7 @@ Section 31
 
 > (10) The Secretary of State may by regulations amend Schedule 3B.
 
-**6.**[^key-a8a87d61eb018ee661184e4949740a53] (1) Section 57 (recognition in United Kingdom of foreign driving disqualification) is amended as follows.
+**6.**[^c-a8a87d61eb018ee661184e4949740a53] (1) Section 57 (recognition in United Kingdom of foreign driving disqualification) is amended as follows.
 
 (2) In the heading, for “foreign” substitute “ Republic of Ireland ”.
 
@@ -145,23 +145,23 @@ Section 31
 - (a) for “a State” substitute “ the Republic of Ireland ”, and
 - (b) for “in that State” substitute “ there ”.
 
-**7.**[^key-23b0aa9a0d2315a703bffcb4d0814a38] In section 58(1)(a) and (b) (notice under section 57), for “the foreign disqualification” substitute “ the Republic of Ireland disqualification ”.
+**7.**[^c-23b0aa9a0d2315a703bffcb4d0814a38] In section 58(1)(a) and (b) (notice under section 57), for “the foreign disqualification” substitute “ the Republic of Ireland disqualification ”.
 
-**8.**[^key-524ec3e3ba569e6c507743937f62f5dc] (1) Section 63 (production of licence: Great Britain) is amended as follows.
+**8.**[^c-524ec3e3ba569e6c507743937f62f5dc] (1) Section 63 (production of licence: Great Britain) is amended as follows.
 
 (2) In subsection (4), for “the competent authority of the relevant State” substitute “ the competent authority of the Republic of Ireland or the Department ”.
 
 (3) Omit subsection (5).
 
-**9.**[^key-44d60e8e4a35c677a768008a3c06cee3] (1) Section 64 (production of licence: Northern Ireland) is amended as follows.
+**9.**[^c-44d60e8e4a35c677a768008a3c06cee3] (1) Section 64 (production of licence: Northern Ireland) is amended as follows.
 
 (2) In subsection (4), for “the competent authority of the relevant State” substitute “ the competent authority of the Republic of Ireland or the Secretary of State ”.
 
 (3) Omit subsection (5).
 
-**10.**[^key-24e7b969093937a5574bbae12200acf5] In section 65(3) (production of licence: Community licence holders), for the words from “the same” to the end substitute “ the Republic of Ireland ”.
+**10.**[^c-24e7b969093937a5574bbae12200acf5] In section 65(3) (production of licence: Community licence holders), for the words from “the same” to the end substitute “ the Republic of Ireland ”.
 
-**11.**[^key-274feeaa0581497c41798aa1d225dde0] In section 68 (endorsement of licence: Great Britain), for subsection (1) substitute—
+**11.**[^c-274feeaa0581497c41798aa1d225dde0] In section 68 (endorsement of licence: Great Britain), for subsection (1) substitute—
 
 > (1) This section applies where a person who—
 >
@@ -170,7 +170,7 @@ Section 31
 >
 > is disqualified by virtue of section 57.
 
-**12.**[^key-df64a2a33ce8cef9ab63b6298e2cfdfa] In section 69 (endorsement of licence: Northern Ireland), for subsection (1) substitute—
+**12.**[^c-df64a2a33ce8cef9ab63b6298e2cfdfa] In section 69 (endorsement of licence: Northern Ireland), for subsection (1) substitute—
 
 > (1) This section applies where a person who—
 >
@@ -179,12 +179,12 @@ Section 31
 >
 > is disqualified by virtue of section 57.
 
-**13.**[^key-72dd741af2b12489945cd22a655c7087] In section 70(1) (duty of appropriate Minister to inform competent authority)—
+**13.**[^c-72dd741af2b12489945cd22a655c7087] In section 70(1) (duty of appropriate Minister to inform competent authority)—
 
 - (a) for “any State” substitute “ the Republic of Ireland ”, and
 - (b) for “the convention on driving disqualifications” substitute “ the specified agreement on driving disqualifications ”.
 
-**14.**[^key-3c71c932c33cffd5e52a952149574130] (1) Section 72 (regulations: Great Britain) is amended as follows.
+**14.**[^c-3c71c932c33cffd5e52a952149574130] (1) Section 72 (regulations: Great Britain) is amended as follows.
 
 (2) In subsection (2), at the end insert “ , subject to subsection (2A) ”.
 
@@ -192,7 +192,7 @@ Section 31
 
 > (2A) A statutory instrument containing regulations under section 54(6), 56(10) or 71A may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-**15.**[^key-e40b2f9787e6f6bfca238c78c753d54f] (1) Section 73 (regulations: Northern Ireland) is amended as follows.
+**15.**[^c-e40b2f9787e6f6bfca238c78c753d54f] (1) Section 73 (regulations: Northern Ireland) is amended as follows.
 
 (2) In subsection (2), at the end insert “ , subject to subsection (2A) ”.
 
@@ -200,7 +200,7 @@ Section 31
 
 > (2A) Regulations made under section 54(7) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
-**16.**[^key-02cb3a07fd3691768f68844514e2b07a] (1) Section 74(1) (interpretation) is amended as follows.
+**16.**[^c-02cb3a07fd3691768f68844514e2b07a] (1) Section 74(1) (interpretation) is amended as follows.
 
 (2) For the definition of “central authority” substitute—
 
@@ -226,13 +226,13 @@ Section 31
 >
 > “**Republic of Ireland licence**” means a licence to drive a motor vehicle granted under the law of the Republic of Ireland, including a learner permit.
 
-**17.**[^key-853373abecd3f1d29f62aa157678c844] In section 74(2) (interpretation of references to disqualification for life), for “foreign disqualification” substitute “ Republic of Ireland disqualification ”.
+**17.**[^c-853373abecd3f1d29f62aa157678c844] In section 74(2) (interpretation of references to disqualification for life), for “foreign disqualification” substitute “ Republic of Ireland disqualification ”.
 
-**18.**[^key-427605096a39da330b3105db309a2717] In section 74, at the end insert—
+**18.**[^c-427605096a39da330b3105db309a2717] In section 74, at the end insert—
 
 > (3) For the purposes of this Chapter, an individual is normally resident in, or in a part of, the United Kingdom, in Great Britain, in Northern Ireland or in the Republic of Ireland if his or her normal residence, as defined in Article 12 of Directive [2006/126/EC](https://www.legislation.gov.uk/eudr/2006/126) of the European Parliament and of the Council of 20th December 2006 on driving licences, is there.
 
-**19.**[^key-1cd3031b17eae549c99f791a7a73f077] (1) Schedule 3 (offences for the purposes of section 54) is amended as follows.
+**19.**[^c-1cd3031b17eae549c99f791a7a73f077] (1) Schedule 3 (offences for the purposes of section 54) is amended as follows.
 
 (2) In the heading, at the end insert “ : Great Britain ”.
 
@@ -260,7 +260,7 @@ Section 31
 
 (8) In paragraph 7(a), omit “or Part 1 of Schedule 1 to the Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/1320 (N.I. 10))”.
 
-**20.**[^key-53a064c4f79880ea8bb63662cfd10a61] After Schedule 3 insert—
+**20.**[^c-53a064c4f79880ea8bb63662cfd10a61] After Schedule 3 insert—
 
 > **SCHEDULE 3A — Offences for the purposes of section 54: Northern Ireland**
 >
@@ -298,7 +298,7 @@ Section 31
 > - (a) is mentioned in Part 1 of Schedule 1 to the Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/1320 (N.I. 10)), but
 > - (b) is not an offence mentioned in Part 1 of this Schedule.
 
-**21.**[^key-1c4b51cf973f136f686ae2dcd5de0d51] After Schedule 3A insert—
+**21.**[^c-1c4b51cf973f136f686ae2dcd5de0d51] After Schedule 3A insert—
 
 > **SCHEDULE 3B — Offences for the purposes of section 56: Republic of Ireland**
 >
@@ -321,7 +321,7 @@ Section 31
 
 #### Coroners and Justice Act 2009 (c. 25)
 
-**22.**[^key-b1cf9e9d3bb334b8cc7847f5bac0bb7a] In Schedule 21 to the Coroners and Justice Act 2009 (consequential amendments), omit paragraph 93 (uncommenced amendment of section 54 of the Crime (International Co-operation) Act 2003).
+**22.**[^c-b1cf9e9d3bb334b8cc7847f5bac0bb7a] In Schedule 21 to the Coroners and Justice Act 2009 (consequential amendments), omit paragraph 93 (uncommenced amendment of section 54 of the Crime (International Co-operation) Act 2003).
 
 ### PART 2 — Transition from EU Convention to new agreement
 
@@ -347,7 +347,7 @@ Section 31
 
 #### Application of duties and powers to give notices after the transitional period
 
-**26.**[^key-1e41c351c58832774dd87f6c321937dc] After the end of the transitional period, the Secretary of State and the Department of the Environment in Northern Ireland—
+**26.**[^c-1e41c351c58832774dd87f6c321937dc] After the end of the transitional period, the Secretary of State and the Department of the Environment in Northern Ireland—
 
 - (a) are required to give a notice under section 55 of the 2003 Act (duty to give notice to foreign authorities of driving disqualification of a non-UK resident),
 - (b) are required or permitted to give a notice under section 57 of the 2003 Act (recognition in United Kingdom of foreign driving disqualification), and
@@ -357,54 +357,54 @@ only in a case in which the offence referred to in section 54(1) or 56(1) of the
 
 #### Saving for pre-1 December 2014 cases
 
-**27.**[^key-86a7aae3c1dda605818959c3ced487a9] The amendments made by section 31 and Part 1 of this Schedule do not have effect in relation to a case in which a notice was given to an offender under section 57 of the 2003 Act before 1 December 2014.
+**27.**[^c-86a7aae3c1dda605818959c3ced487a9] The amendments made by section 31 and Part 1 of this Schedule do not have effect in relation to a case in which a notice was given to an offender under section 57 of the 2003 Act before 1 December 2014.
 
 ## Annotations
 
-[^key-9a516d2407c032771430a0f5c12db0a6]: Commencement: Sch. 7 para. 1 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-9a516d2407c032771430a0f5c12db0a6]: Commencement: Sch. 7 para. 1 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-5177044fe6dc1faa70cd4f9845fce507]: Commencement: Sch. 7 para. 2 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-5177044fe6dc1faa70cd4f9845fce507]: Commencement: Sch. 7 para. 2 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-c88358e570cc2c369acd8d1c0a3b4a03]: Commencement: Sch. 7 para. 3 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-c88358e570cc2c369acd8d1c0a3b4a03]: Commencement: Sch. 7 para. 3 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-820b70bf8ac708dca45ec375e6f4db97]: Commencement: Sch. 7 para. 4 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-820b70bf8ac708dca45ec375e6f4db97]: Commencement: Sch. 7 para. 4 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-529c259b0f25378981e1a89b4897b040]: Commencement: Sch. 7 para. 5 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-529c259b0f25378981e1a89b4897b040]: Commencement: Sch. 7 para. 5 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-a8a87d61eb018ee661184e4949740a53]: Commencement: Sch. 7 para. 6 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-a8a87d61eb018ee661184e4949740a53]: Commencement: Sch. 7 para. 6 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-23b0aa9a0d2315a703bffcb4d0814a38]: Commencement: Sch. 7 para. 7 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-23b0aa9a0d2315a703bffcb4d0814a38]: Commencement: Sch. 7 para. 7 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-524ec3e3ba569e6c507743937f62f5dc]: Commencement: Sch. 7 para. 8 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-524ec3e3ba569e6c507743937f62f5dc]: Commencement: Sch. 7 para. 8 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-44d60e8e4a35c677a768008a3c06cee3]: Commencement: Sch. 7 para. 9 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-44d60e8e4a35c677a768008a3c06cee3]: Commencement: Sch. 7 para. 9 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-24e7b969093937a5574bbae12200acf5]: Commencement: Sch. 7 para. 10 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-24e7b969093937a5574bbae12200acf5]: Commencement: Sch. 7 para. 10 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-274feeaa0581497c41798aa1d225dde0]: Commencement: Sch. 7 para. 11 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-274feeaa0581497c41798aa1d225dde0]: Commencement: Sch. 7 para. 11 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-df64a2a33ce8cef9ab63b6298e2cfdfa]: Commencement: Sch. 7 para. 12 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-df64a2a33ce8cef9ab63b6298e2cfdfa]: Commencement: Sch. 7 para. 12 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-72dd741af2b12489945cd22a655c7087]: Commencement: Sch. 7 para. 13 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-72dd741af2b12489945cd22a655c7087]: Commencement: Sch. 7 para. 13 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-3c71c932c33cffd5e52a952149574130]: Commencement: Sch. 7 para. 14 in force at 23.2.2017 by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 2](https://www.legislation.gov.uk/uksi/2017/189/article/2)
+[^c-3c71c932c33cffd5e52a952149574130]: Commencement: Sch. 7 para. 14 in force at 23.2.2017 by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 2](https://www.legislation.gov.uk/uksi/2017/189/article/2)
 
-[^key-e40b2f9787e6f6bfca238c78c753d54f]: Commencement: Sch. 7 para. 15 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-e40b2f9787e6f6bfca238c78c753d54f]: Commencement: Sch. 7 para. 15 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-02cb3a07fd3691768f68844514e2b07a]: Commencement: Sch. 7 para. 16 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-02cb3a07fd3691768f68844514e2b07a]: Commencement: Sch. 7 para. 16 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-853373abecd3f1d29f62aa157678c844]: Commencement: Sch. 7 para. 17 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-853373abecd3f1d29f62aa157678c844]: Commencement: Sch. 7 para. 17 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-427605096a39da330b3105db309a2717]: Commencement: Sch. 7 para. 18 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-427605096a39da330b3105db309a2717]: Commencement: Sch. 7 para. 18 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-1cd3031b17eae549c99f791a7a73f077]: Commencement: Sch. 7 para. 19 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-1cd3031b17eae549c99f791a7a73f077]: Commencement: Sch. 7 para. 19 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-53a064c4f79880ea8bb63662cfd10a61]: Commencement: Sch. 7 para. 20 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-53a064c4f79880ea8bb63662cfd10a61]: Commencement: Sch. 7 para. 20 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-1c4b51cf973f136f686ae2dcd5de0d51]: Commencement: Sch. 7 para. 21 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-1c4b51cf973f136f686ae2dcd5de0d51]: Commencement: Sch. 7 para. 21 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-b1cf9e9d3bb334b8cc7847f5bac0bb7a]: Commencement: Sch. 7 para. 22 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-b1cf9e9d3bb334b8cc7847f5bac0bb7a]: Commencement: Sch. 7 para. 22 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-1e41c351c58832774dd87f6c321937dc]: Commencement: Sch. 7 para. 26 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-1e41c351c58832774dd87f6c321937dc]: Commencement: Sch. 7 para. 26 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
 
-[^key-86a7aae3c1dda605818959c3ced487a9]: Commencement: Sch. 7 para. 27 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)
+[^c-86a7aae3c1dda605818959c3ced487a9]: Commencement: Sch. 7 para. 27 in force in accordance with art. 3(1)(3) of the commencing S.I. by [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/189/article/3/2)

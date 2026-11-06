@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Costs of right to manage claims[^key-5efcc552e719a013de966ba952a2f00e][^key-b2bfc07353935ea2225ad73454e8e8c4]
+## 50. Costs of right to manage claims[^c-5efcc552e719a013de966ba952a2f00e][^c-b2bfc07353935ea2225ad73454e8e8c4]
 
 *Extent: E+W*
 
@@ -93,6 +93,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5efcc552e719a013de966ba952a2f00e]: Commencement: S. 50 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5efcc552e719a013de966ba952a2f00e]: Commencement: S. 50 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-b2bfc07353935ea2225ad73454e8e8c4]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2024/22/section/50) in force at 3.3.2025 by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/b)
+[^c-b2bfc07353935ea2225ad73454e8e8c4]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2024/22/section/50) in force at 3.3.2025 by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Determination of income on a weekly basis[^key-d9081c27fd9b9d6ff06ab0d22219ac7d]
+## 17. Determination of income on a weekly basis[^c-d9081c27fd9b9d6ff06ab0d22219ac7d]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9081c27fd9b9d6ff06ab0d22219ac7d]: Commencement: Reg. 17 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-d9081c27fd9b9d6ff06ab0d22219ac7d]: Commencement: Reg. 17 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

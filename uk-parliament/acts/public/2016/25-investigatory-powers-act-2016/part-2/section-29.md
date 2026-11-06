@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Sources of journalistic information[^key-a63d23d40c6098f5867fb7bf28006c71]
+## 29. Sources of journalistic information[^c-a63d23d40c6098f5867fb7bf28006c71]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a63d23d40c6098f5867fb7bf28006c71]: Commencement: S. 29 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/m)
+[^c-a63d23d40c6098f5867fb7bf28006c71]: Commencement: S. 29 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/m)

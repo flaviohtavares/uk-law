@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Licensing of non-UK digital sound programme services[^key-5c22aad7caffabaacf9f0b5beb3e1e0b][^key-39bc78aee63c4f5c467b1981f2cff14c]
+## 46. Licensing of non-UK digital sound programme services[^c-5c22aad7caffabaacf9f0b5beb3e1e0b][^c-39bc78aee63c4f5c467b1981f2cff14c]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c22aad7caffabaacf9f0b5beb3e1e0b]: Commencement: S. 46 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
+[^c-5c22aad7caffabaacf9f0b5beb3e1e0b]: Commencement: S. 46 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
 
-[^key-39bc78aee63c4f5c467b1981f2cff14c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2024/15/section/46) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/f)
+[^c-39bc78aee63c4f5c467b1981f2cff14c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2024/15/section/46) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/f)

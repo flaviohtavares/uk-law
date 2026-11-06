@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendment of Schedule 5 (local government finance act referendum combination of polls rules)[^key-f0720ac74aa5dc9f1b2c49cfc05d13a6]
+## 54. Amendment of Schedule 5 (local government finance act referendum combination of polls rules)[^c-f0720ac74aa5dc9f1b2c49cfc05d13a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -282,4 +282,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0720ac74aa5dc9f1b2c49cfc05d13a6]: Commencement: Reg. 54 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-f0720ac74aa5dc9f1b2c49cfc05d13a6]: Commencement: Reg. 54 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

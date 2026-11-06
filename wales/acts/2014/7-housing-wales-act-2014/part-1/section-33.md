@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Rent repayment orders: further provision[^key-77296b692c9bcd0952814ff56cd04cc1]
+## 33. Rent repayment orders: further provision[^c-77296b692c9bcd0952814ff56cd04cc1]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ and the period to be taken into account under subsection (6)(a) is restricted ac
 
 ## Annotations
 
-[^key-77296b692c9bcd0952814ff56cd04cc1]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2014/7/section/33) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-77296b692c9bcd0952814ff56cd04cc1]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2014/7/section/33) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

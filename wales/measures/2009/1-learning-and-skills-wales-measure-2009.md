@@ -38,97 +38,97 @@ A Measure of the National Assembly for Wales to make provision about the entitle
 
 **This Measure, passed by the National Assembly for Wales on 17 March 2009 and approved by Her Majesty in Council on 13 May 2009, enacts the following provisions:—**
 
-## PART 1 — Local curriculum for pupils in Key Stage 4[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+## PART 1 — Local curriculum for pupils in Key Stage 4[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 **No longer in force.**
 
-### General[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+### General[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
-#### 1. Interpretation[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Duty to implement general requirements[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 1. Interpretation[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Basic curriculum for every maintained school in Wales[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 2. Duty to implement general requirements[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Formation of local curricula[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
-
-#### 4. Formation of local curricula for pupils in Key Stage 4[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 3. Basic curriculum for every maintained school in Wales[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Local curricula: Welsh language[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+### Formation of local curricula[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
+
+#### 4. Formation of local curricula for pupils in Key Stage 4[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Authorities with more than one local curriculum[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 5. Local curricula: Welsh language[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Entitlements[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
-
-#### 7. Pupils' choices of local curriculum courses[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 6. Authorities with more than one local curriculum[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Pupils' local curriculum entitlements[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+### Entitlements[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
+
+#### 7. Pupils' choices of local curriculum courses[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Head teacher's decision as to entitlement[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 8. Pupils' local curriculum entitlements[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Delivery of local curriculum entitlements[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 9. Head teacher's decision as to entitlement[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Head teacher's decision to remove entitlement[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 10. Delivery of local curriculum entitlements[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Joint-working[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
-
-#### 12. Planning the local curriculum[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 11. Head teacher's decision to remove entitlement[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Delivery of local curriculum entitlements: joint-working[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+### Joint-working[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
+
+#### 12. Planning the local curriculum[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Joint-working: guidance and directions[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 13. Delivery of local curriculum entitlements: joint-working[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplemental[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
-
-#### 15. Power to amend learning domains[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 14. Joint-working: guidance and directions[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Application of local curriculum provisions to children who are not registered pupils[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+### Supplemental[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
+
+#### 15. Power to amend learning domains[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Application of local curriculum provisions to children who are registered pupils of special schools[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 16. Application of local curriculum provisions to children who are not registered pupils[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Local curriculum: directions[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 17. Application of local curriculum provisions to children who are registered pupils of special schools[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Powers to alter or remove requirements for fourth key stage[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 18. Local curriculum: directions[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Regulations and orders: procedure[^key-74ffd0cc99618b95e4a4faed7a7a7e78]
+#### 19. Powers to alter or remove requirements for fourth key stage[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20. Regulations and orders: procedure[^c-74ffd0cc99618b95e4a4faed7a7a7e78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,13 +136,13 @@ A Measure of the National Assembly for Wales to make provision about the entitle
 
 ### General
 
-#### 21. Education and training for persons aged 16 to 18[^key-2f3ceb5be64d7e78e008d95f51d00385]
+#### 21. Education and training for persons aged 16 to 18[^c-2f3ceb5be64d7e78e008d95f51d00385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Formation of local curricula
 
-#### 22. Formation of local curricula for students aged 16 to 18[^key-95ccaf1720fa295c3a5caec6995bc3a8]
+#### 22. Formation of local curricula for students aged 16 to 18[^c-95ccaf1720fa295c3a5caec6995bc3a8]
 
 After section 33 of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -150,7 +150,7 @@ After section 33 of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > **33A. Formation of local curricula for students aged 16 to 18**
 >
-> (1) The Welsh Ministers must form for the area of each local authority[^key-d618412bf2d60a6bea619359a135b2ee] one or more local curricula for students who are above compulsory school age but have not attained the age of nineteen.
+> (1) The Welsh Ministers must form for the area of each local authority[^c-d618412bf2d60a6bea619359a135b2ee] one or more local curricula for students who are above compulsory school age but have not attained the age of nineteen.
 >
 > (2) Each local curriculum must consist of courses of study each of which—
 >
@@ -167,7 +167,7 @@ After section 33 of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > (4) For the purposes of this section, a course of study falls within a particular learning domain if a direction of the Welsh Ministers so provides.
 
-#### 23. Local curricula: Welsh language[^key-5187ff918e1bb6a0f45f059b0a86e5d9]
+#### 23. Local curricula: Welsh language[^c-5187ff918e1bb6a0f45f059b0a86e5d9]
 
 After section 33A of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -175,7 +175,7 @@ After section 33A of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > The Welsh Ministers must exercise their functions in relation to local curricula so as to promote access to and availability of courses of study which are taught through the medium of the Welsh language.
 
-#### 24. Areas with more than one local curriculum[^key-1399c3693affdf562f824e81ba013f9b]
+#### 24. Areas with more than one local curriculum[^c-1399c3693affdf562f824e81ba013f9b]
 
 After section 33B of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -187,7 +187,7 @@ After section 33B of the Learning and Skills Act 2000 (c. 21) insert—
 
 ### Entitlements
 
-#### 25. Determination of a pupil's “relevant school or institution”[^key-97017cf0df24b0097bf1c91561cd7a31]
+#### 25. Determination of a pupil's “relevant school or institution”[^c-97017cf0df24b0097bf1c91561cd7a31]
 
 After section 33C of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -201,7 +201,7 @@ After section 33C of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > (4) This section does not require any person to admit a pupil to a particular school or institution.
 
-#### 26. Pupils' choices of local curriculum courses[^key-7b4a5ddcaa326eceda791bb0c8202fad]
+#### 26. Pupils' choices of local curriculum courses[^c-7b4a5ddcaa326eceda791bb0c8202fad]
 
 After section 33D of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -229,7 +229,7 @@ After section 33D of the Learning and Skills Act 2000 (c. 21) insert—
 >   - (i) where the Welsh Ministers have formed under section 33A a single local curriculum for the local authority area in which the institution is situated, that local curriculum; or
 >   - (ii) where the Welsh Ministers have formed under section 33A more than one local curriculum for the local authority area in which the institution is situated, the local curriculum in respect of which the institution is designated under section 33C(2).
 
-#### 27. Students' local curriculum entitlements[^key-acf4cc83cec6da53e3d569696c74f3ae]
+#### 27. Students' local curriculum entitlements[^c-acf4cc83cec6da53e3d569696c74f3ae]
 
 After section 33E of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -242,7 +242,7 @@ After section 33E of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > (2) Where a person is entitled to follow a course of study, it is for the head teacher or principal of the relevant school or institution to decide upon which date during the entitlement period the course is to begin.
 
-#### 28. Head teacher's or principal's decision as to entitlement[^key-c1cc0cfa572a5b8858d5928b8e37723b][^key-fb5776b1a84dfdfe14a197e5eba75f31]
+#### 28. Head teacher's or principal's decision as to entitlement[^c-c1cc0cfa572a5b8858d5928b8e37723b][^c-fb5776b1a84dfdfe14a197e5eba75f31]
 
 After section 33F of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -274,7 +274,7 @@ After section 33F of the Learning and Skills Act 2000 (c. 21) insert—
 > - (b) add additional paragraphs to that subsection;
 > - (c) amend or omit such additional paragraphs.
 
-#### 29. Delivery of local curriculum entitlements[^key-1aff5aaa750bd55840c87d10e4d6dd25]
+#### 29. Delivery of local curriculum entitlements[^c-1aff5aaa750bd55840c87d10e4d6dd25]
 
 After section 33G of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -282,7 +282,7 @@ After section 33G of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > Where a student is entitled to follow a course of study under section 33F(1), the governing body of the student's relevant school or institution must ensure that during the entitlement period the course is made available to the student by or on behalf of the governing body.
 
-#### 30. Head teacher's or principal's decision to remove entitlement[^key-a8cf2d669309529a50fc7b443800ea8e][^key-4a183cf10f237c235f84702f355000cf]
+#### 30. Head teacher's or principal's decision to remove entitlement[^c-a8cf2d669309529a50fc7b443800ea8e][^c-4a183cf10f237c235f84702f355000cf]
 
 After section 33H of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -312,7 +312,7 @@ After section 33H of the Learning and Skills Act 2000 (c. 21) insert—
 
 ### Joint-working
 
-#### 31. Planning the local curriculum[^key-0fa3ba6d6f4b66ad07aba66470ad8803]
+#### 31. Planning the local curriculum[^c-0fa3ba6d6f4b66ad07aba66470ad8803]
 
 After section 33I of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -333,7 +333,7 @@ After section 33I of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > by the Welsh Ministers as to the exercise of their functions under that subsection.
 
-#### 32. Delivery of local curriculum entitlements: joint-working[^key-e1ac33464f2e9ab17216f6a3361e5b77]
+#### 32. Delivery of local curriculum entitlements: joint-working[^c-e1ac33464f2e9ab17216f6a3361e5b77]
 
 After section 33J of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -367,7 +367,7 @@ After section 33J of the Learning and Skills Act 2000 (c. 21) insert—
 >   - (i) where the Welsh Ministers have formed a single local curriculum for the local authority area in which the institution is situated, that curriculum; or
 >   - (ii) where the Welsh Ministers have formed more than one local curriculum for the local authority area in which the institution is situated, the local curriculum in respect of which the institution is designated under section 33C(2).
 
-#### 33. Joint-working: guidance and directions[^key-cf435f3a0d4ac15b15fe4a64942824d0]
+#### 33. Joint-working: guidance and directions[^c-cf435f3a0d4ac15b15fe4a64942824d0]
 
 After section 33K of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -387,7 +387,7 @@ After section 33K of the Learning and Skills Act 2000 (c. 21) insert—
 
 ### Supplemental
 
-#### 34. Power to amend learning domains[^key-ef1123bcbf47e2a1fdbf1736b0381f76]
+#### 34. Power to amend learning domains[^c-ef1123bcbf47e2a1fdbf1736b0381f76]
 
 After section 33L of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -399,7 +399,7 @@ After section 33L of the Learning and Skills Act 2000 (c. 21) insert—
 > - (b) add additional paragraphs to that subsection;
 > - (c) amend or omit such additional paragraphs.
 
-#### 35. The local curriculum: interpretation[^key-466b0a26680d883351020aff0a98bca8]
+#### 35. The local curriculum: interpretation[^c-466b0a26680d883351020aff0a98bca8]
 
 After section 33M of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -410,7 +410,7 @@ After section 33M of the Learning and Skills Act 2000 (c. 21) insert—
 > - “**academic year**” means the period of 12 months beginning on 1 September;
 > - “**course of study**” means a course of education and training which leads to a qualification or set of qualifications approved under section 99 for the purposes of section 96;
 > - “**entitlement period**” means the period described in section 33E(2);
-> - [^key-b3aa5ae70ac03f6764fa39a4f01f1620]...
+> - [^c-b3aa5ae70ac03f6764fa39a4f01f1620]...
 > - “**institution**” means an institution within the further education sector in Wales unless the institution provides education wholly or mainly for persons with a learning difficulty (within the meaning of section 41);
 > - “local curriculum” and “local curricula” are to be construed in accordance with section 33A;
 > - “**local authority**” means a local authority in Wales;
@@ -423,7 +423,7 @@ After section 33M of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > (2) Unless the context otherwise requires, an expression used in sections 33A to 33N, 33P and 33Q and also the Education Act 1996 is to bear for the purposes of those sections the meaning given to it for the purposes of that Act.
 
-#### 36. Local curriculum: directions[^key-c67447bb4e9d89204ae6dec0be0412a1]
+#### 36. Local curriculum: directions[^c-c67447bb4e9d89204ae6dec0be0412a1]
 
 After section 33N of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -431,7 +431,7 @@ After section 33N of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > Any direction given by the Welsh Ministers under sections 33A(4), 33J(3) and 33L(3) may be varied or revoked by a further direction.
 
-#### 37. Application of local curriculum provisions to students who are registered pupils of special schools or who have learning difficulties[^key-ee001e091cf86429071cee0b59bad85d]
+#### 37. Application of local curriculum provisions to students who are registered pupils of special schools or who have learning difficulties[^c-ee001e091cf86429071cee0b59bad85d]
 
 After section 33O of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -448,7 +448,7 @@ After section 33O of the Learning and Skills Act 2000 (c. 21) insert—
 >   - (i) a registered pupil of a community or foundation special school which is maintained by a local authority in Wales and is not established in a hospital; or
 >   - (ii) receiving the majority of his or her education at an institution which provides education wholly or mainly for persons with a learning difficulty (within the meaning of section 41).
 
-#### 38. Application of local curriculum provisions to institutions within the higher education sector[^key-3b088f438605b566c5d3a0da85f647be]
+#### 38. Application of local curriculum provisions to institutions within the higher education sector[^c-3b088f438605b566c5d3a0da85f647be]
 
 After section 33P of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -460,7 +460,7 @@ After section 33P of the Learning and Skills Act 2000 (c. 21) insert—
 >
 > (3) The regulations may apply those provisions with such modifications as appear to the Welsh Ministers to be necessary or expedient.
 
-#### 39. Regulations and orders: procedure[^key-9472458c6900ac3e2a0bb3e03c87ee9d]
+#### 39. Regulations and orders: procedure[^c-9472458c6900ac3e2a0bb3e03c87ee9d]
 
 After section 152(4) of the Learning and Skills Act 2000 (c. 21) insert—
 
@@ -472,7 +472,7 @@ After section 152(4) of the Learning and Skills Act 2000 (c. 21) insert—
 
 ### Learner support services
 
-#### 40. Provision of services by maintained schools and further education institutions[^key-9a8341862c6c588453741f9b7e13cd4e]
+#### 40. Provision of services by maintained schools and further education institutions[^c-9a8341862c6c588453741f9b7e13cd4e]
 
 (1) The Welsh Ministers may direct a person mentioned in subsection (2)—
 
@@ -516,13 +516,13 @@ After section 152(4) of the Learning and Skills Act 2000 (c. 21) insert—
 - (b) “**institution within the further education sector**” has the same meaning as in the Education Act 1996 (c. 56);
 - (c) “**maintained school**” has the same meaning as in the School Standards and Framework Act 1998 (c. 31).
 
-#### 41. Duties of governing bodies[^key-307823fe959f28f38c428b1f0a322134]
+#### 41. Duties of governing bodies[^c-307823fe959f28f38c428b1f0a322134]
 
 (1) A governing body of a maintained school or institution within the further education sector must comply with a direction given to it under section 40(1).
 
 (2) Action which a governing body takes in pursuance of subsection (1) may relate to a particular class of young person.
 
-#### 42. Amendments to the Learning and Skills Act 2000[^key-4e63655c07eeb8fe2478b6743f79bbb0]
+#### 42. Amendments to the Learning and Skills Act 2000[^c-4e63655c07eeb8fe2478b6743f79bbb0]
 
 (1) The Learning and Skills Act 2000 (c. 21) is amended in accordance with this section.
 
@@ -532,13 +532,13 @@ After section 152(4) of the Learning and Skills Act 2000 (c. 21) insert—
 
 ### Learning Pathways
 
-#### 43. The learning pathway document[^key-cde40caf15cd187529ca8c4f0e5ff623]
+#### 43. The learning pathway document[^c-cde40caf15cd187529ca8c4f0e5ff623]
 
 (1) This section makes provision for a relevant pupil and a relevant student to be provided with a document which records his or her learning pathway (a “learning pathway document”).
 
 (2) In subsection (1), a pupil's or student's “**learning pathway**” means—
 
-- (a) the courses of study (if any) that the pupil or student is entitled to follow under [^key-7ea6285108fef41fe6deca6d19f3aa60]... section 33F(1) of the Learning and Skills Act 2000; and
+- (a) the courses of study (if any) that the pupil or student is entitled to follow under [^c-7ea6285108fef41fe6deca6d19f3aa60]... section 33F(1) of the Learning and Skills Act 2000; and
 - (b) the learner support services (if any) to be provided to a pupil or student by virtue of section 40 of this Measure.
 
 (3) The learning pathway document—
@@ -560,18 +560,18 @@ After section 152(4) of the Learning and Skills Act 2000 (c. 21) insert—
 
 (6) A head teacher of a maintained school and principal of an institution must have regard to any guidance given from time to time by the Welsh Ministers as to the exercise of their functions under this section.
 
-(7)[^key-00a989fb0c069b988b3f9de207ee8e72] The Welsh Ministers must consult the Commission for Tertiary Education and Research before giving guidance under subsection (6).
+(7)[^c-00a989fb0c069b988b3f9de207ee8e72] The Welsh Ministers must consult the Commission for Tertiary Education and Research before giving guidance under subsection (6).
 
-#### 44. Learning pathways: interpretation[^key-f9b2b81ca754374a75f1bb2f9004bfbe]
+#### 44. Learning pathways: interpretation[^c-f9b2b81ca754374a75f1bb2f9004bfbe]
 
 In this section and section 43—
 
 - “**institution**” (“***sefydliad***”) means an institution within the further education sector in Wales, and, in relation to a relevant student, means the institution whose governing body is responsible for providing, or arranging for the provision of, all or the majority of his or her education;
 - “**institution within the further education sector**” (“***sefydliad yn y sector addysg bellach***”) has the same meaning as in the Education Act 1996 (c. 56);
-- “local authority in Wales” (“[^key-4da8e85c8b2829ca4d0d9b8f9326185a] *awdurdod lleol yng Nghymru* ”) has the meaning given by section 579(1) of the Education Act 1996;
+- “local authority in Wales” (“[^c-4da8e85c8b2829ca4d0d9b8f9326185a] *awdurdod lleol yng Nghymru* ”) has the meaning given by section 579(1) of the Education Act 1996;
 - “**maintained school**” (“***ysgol a gynhelir***”) means—
   - (a) any community, foundation or voluntary school maintained by a local authority in Wales, or
-  - (b) any community [^key-4dcf6a9831df2fcfb0eb7d8adb3d511a]... special school which is maintained by a local authority in Wales and is not established in a hospital,
+  - (b) any community [^c-4dcf6a9831df2fcfb0eb7d8adb3d511a]... special school which is maintained by a local authority in Wales and is not established in a hospital,
 
   and, in relation to a relevant pupil, means the maintained school of which he or she is a registered pupil;
 - “**principal**” (“***pennaeth sefydliad***”) means the principal or other head of an institution;
@@ -583,7 +583,7 @@ In this section and section 43—
 
 ### Provision of curriculum information
 
-#### 45. Provision of curriculum information[^key-5c921dc98cdaa0cea699ca60d8e85b74]
+#### 45. Provision of curriculum information[^c-5c921dc98cdaa0cea699ca60d8e85b74]
 
 (1) The Education Act 1997 (c. 44) is amended in accordance with this section.
 
@@ -643,7 +643,7 @@ In this section and section 43—
   - (v) applying for admission to such an institution, offering to admit a person to such an institution, accepting or refusing to accept an application for admission to such an institution, selecting a person for admission to such an institution or determining admissions to such an institution;
   - (vi) in relation to such an institution, a disabled person.
 
-(2) The opinion is that the provision is necessary, desirable or expedient in connection with the operation of the amendments made to the Education Act 2002 (c. 32) and the Learning and Skills Act 2000 (c. 21) by Part 2[^key-836ee0d99497a06c96320a94f4732454] of this Measure.
+(2) The opinion is that the provision is necessary, desirable or expedient in connection with the operation of the amendments made to the Education Act 2002 (c. 32) and the Learning and Skills Act 2000 (c. 21) by Part 2[^c-836ee0d99497a06c96320a94f4732454] of this Measure.
 
 (3) The purposes that may be specified under subsection (1) include
 
@@ -654,7 +654,7 @@ those of making regulations or an order under an enactment.
 - (a) contained in this Measure; or
 - (b) contained in an Act of Parliament or Measure of the National Assembly for Wales passed after the passing of this Measure.
 
-### 47. Minor and consequential amendments[^key-6776d97d34e8d259dd64701cc8bcfd70][^key-f1b33e7a59428fd0c98af5f11364a8e5]
+### 47. Minor and consequential amendments[^c-6776d97d34e8d259dd64701cc8bcfd70][^c-f1b33e7a59428fd0c98af5f11364a8e5]
 
 The Schedule contains minor and consequential amendments.
 
@@ -686,25 +686,25 @@ This Measure may be cited as the Learning and Skills (Wales) Measure 2009.
 
 ### Learning and Skills Act 2000 (c. 21)
 
-**1.**[^key-e1e8762dfb1f703bf366407ffa3111e5] Amend the Learning and Skills Act 2000 as follows.
+**1.**[^c-e1e8762dfb1f703bf366407ffa3111e5] Amend the Learning and Skills Act 2000 as follows.
 
-**2.**[^key-96af21706c55c6c7eed853c1d3118096] In the sections mentioned in paragraph 3 replace each reference to “National Assembly” with “Welsh Ministers”.
+**2.**[^c-96af21706c55c6c7eed853c1d3118096] In the sections mentioned in paragraph 3 replace each reference to “National Assembly” with “Welsh Ministers”.
 
-**3.**[^key-ac92058a41844ab8ac0845d8cbdf06de] The sections are 32(1), 33, 34, 35(2) and (5), 36(1), 37, 38(1), *(affected by repeal, see note)*[^key-b0b0a0704c82a15276ce95a025d7c970] [^key-a56c96bec5ab960e110b00ae4557046e]..., 40 and 41(1). *(affected by repeal, see note)*[^key-b0b0a0704c82a15276ce95a025d7c970]
+**3.**[^c-ac92058a41844ab8ac0845d8cbdf06de] The sections are 32(1), 33, 34, 35(2) and (5), 36(1), 37, 38(1), *(affected by repeal, see note)*[^c-b0b0a0704c82a15276ce95a025d7c970] [^c-a56c96bec5ab960e110b00ae4557046e]..., 40 and 41(1). *(affected by repeal, see note)*[^c-b0b0a0704c82a15276ce95a025d7c970]
 
-**4.**[^key-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b0b0a0704c82a15276ce95a025d7c970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e768377f9e81d8fad263c706533e1753] In section 40(5) replace “its decisions” with “ their decisions ”.
+**9.**[^c-e768377f9e81d8fad263c706533e1753] In section 40(5) replace “its decisions” with “ their decisions ”.
 
-**10.**[^key-b3f9563bd58f78f55a0157721f4da5f6] In section 41—
+**10.**[^c-b3f9563bd58f78f55a0157721f4da5f6] In section 41—
 
 - (a) in subsections (2) to (4) replace—
   - (i) each reference to “National Assembly is” with “ Welsh Ministers are ”;
@@ -713,130 +713,130 @@ This Measure may be cited as the Learning and Skills (Wales) Measure 2009.
 - (b) in subsections (2) and (3) replace each reference to “National Assembly must” with “ Welsh Ministers must ”; and
 - (c) in subsection (4) replace “National Assembly may” with “ Welsh Ministers may ”.
 
-### ...[^key-c946da0383f8350b2cf61a1f4bca0463]
+### ...[^c-c946da0383f8350b2cf61a1f4bca0463]
 
-**11.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-4b9a9417f7caacce3286cead3484b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-ee4f934ed7c0b8ac855b8b8d6783a3eb]
+### ...[^c-ee4f934ed7c0b8ac855b8b8d6783a3eb]
 
-**21.**[^key-f8f6975c6177dbae80cfa2e8f95e80d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-f8f6975c6177dbae80cfa2e8f95e80d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-11b50968b223cb071f1568615261a87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-11b50968b223cb071f1568615261a87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74ffd0cc99618b95e4a4faed7a7a7e78]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/mwa/2009/1/part/1) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 57](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/57) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
+[^c-74ffd0cc99618b95e4a4faed7a7a7e78]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/mwa/2009/1/part/1) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 57](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/57) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-2f3ceb5be64d7e78e008d95f51d00385]: Textual amendment: [S. 21](https://www.legislation.gov.uk/mwa/2009/1/section/21) omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 25(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/25/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xlii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww)
+[^c-2f3ceb5be64d7e78e008d95f51d00385]: Textual amendment: [S. 21](https://www.legislation.gov.uk/mwa/2009/1/section/21) omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 25(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/25/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xlii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww)
 
-[^key-95ccaf1720fa295c3a5caec6995bc3a8]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2009/1/section/22) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/b)
+[^c-95ccaf1720fa295c3a5caec6995bc3a8]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2009/1/section/22) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/b)
 
-[^key-d618412bf2d60a6bea619359a135b2ee]: Textual amendment: Words in Measure substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/1148/article/3/2)
+[^c-d618412bf2d60a6bea619359a135b2ee]: Textual amendment: Words in Measure substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/1148/article/3/2)
 
-[^key-5187ff918e1bb6a0f45f059b0a86e5d9]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2009/1/section/23) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/a)
+[^c-5187ff918e1bb6a0f45f059b0a86e5d9]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2009/1/section/23) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/a)
 
-[^key-1399c3693affdf562f824e81ba013f9b]: Commencement: [S. 24](https://www.legislation.gov.uk/mwa/2009/1/section/24) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(c)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/c)
+[^c-1399c3693affdf562f824e81ba013f9b]: Commencement: [S. 24](https://www.legislation.gov.uk/mwa/2009/1/section/24) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(c)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/c)
 
-[^key-97017cf0df24b0097bf1c91561cd7a31]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2009/1/section/25) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/b)
+[^c-97017cf0df24b0097bf1c91561cd7a31]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2009/1/section/25) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/b)
 
-[^key-7b4a5ddcaa326eceda791bb0c8202fad]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2009/1/section/26) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2](https://www.legislation.gov.uk/wsi/2011/97/article/2)
+[^c-7b4a5ddcaa326eceda791bb0c8202fad]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2009/1/section/26) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2](https://www.legislation.gov.uk/wsi/2011/97/article/2)
 
-[^key-acf4cc83cec6da53e3d569696c74f3ae]: Commencement: [S. 27](https://www.legislation.gov.uk/mwa/2009/1/section/27) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(d)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/d)
+[^c-acf4cc83cec6da53e3d569696c74f3ae]: Commencement: [S. 27](https://www.legislation.gov.uk/mwa/2009/1/section/27) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(d)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/d)
 
-[^key-c1cc0cfa572a5b8858d5928b8e37723b]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2009/1/section/28) in force at 19.1.2011 for specified purposes by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/d)
+[^c-c1cc0cfa572a5b8858d5928b8e37723b]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2009/1/section/28) in force at 19.1.2011 for specified purposes by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/d)
 
-[^key-fb5776b1a84dfdfe14a197e5eba75f31]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2009/1/section/28) in force at 14.2.2011 in so far as not already in force by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(e)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/e)
+[^c-fb5776b1a84dfdfe14a197e5eba75f31]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2009/1/section/28) in force at 14.2.2011 in so far as not already in force by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(e)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/e)
 
-[^key-1aff5aaa750bd55840c87d10e4d6dd25]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2009/1/section/29) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(f)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/f)
+[^c-1aff5aaa750bd55840c87d10e4d6dd25]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2009/1/section/29) in force at 14.2.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(f)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/f)
 
-[^key-a8cf2d669309529a50fc7b443800ea8e]: Commencement: [S. 30](https://www.legislation.gov.uk/mwa/2009/1/section/30) in force at 19.1.2011 for specified purposes by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/e)
+[^c-a8cf2d669309529a50fc7b443800ea8e]: Commencement: [S. 30](https://www.legislation.gov.uk/mwa/2009/1/section/30) in force at 19.1.2011 for specified purposes by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/e)
 
-[^key-4a183cf10f237c235f84702f355000cf]: Commencement: [S. 30](https://www.legislation.gov.uk/mwa/2009/1/section/30) in force at 14.2.2011 in so far as not already in force by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(g)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/g)
+[^c-4a183cf10f237c235f84702f355000cf]: Commencement: [S. 30](https://www.legislation.gov.uk/mwa/2009/1/section/30) in force at 14.2.2011 in so far as not already in force by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(2)(g)](https://www.legislation.gov.uk/wsi/2011/97/article/2/2/g)
 
-[^key-0fa3ba6d6f4b66ad07aba66470ad8803]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2009/1/section/31) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/f)
+[^c-0fa3ba6d6f4b66ad07aba66470ad8803]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2009/1/section/31) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/f)
 
-[^key-e1ac33464f2e9ab17216f6a3361e5b77]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2009/1/section/32) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/g)
+[^c-e1ac33464f2e9ab17216f6a3361e5b77]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2009/1/section/32) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/g)
 
-[^key-cf435f3a0d4ac15b15fe4a64942824d0]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2009/1/section/33) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/h)
+[^c-cf435f3a0d4ac15b15fe4a64942824d0]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2009/1/section/33) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/h)
 
-[^key-ef1123bcbf47e2a1fdbf1736b0381f76]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2009/1/section/34) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/i)
+[^c-ef1123bcbf47e2a1fdbf1736b0381f76]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2009/1/section/34) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/i)
 
-[^key-466b0a26680d883351020aff0a98bca8]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2009/1/section/35) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(j)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/j)
+[^c-466b0a26680d883351020aff0a98bca8]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2009/1/section/35) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(j)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/j)
 
-[^key-b3aa5ae70ac03f6764fa39a4f01f1620]: Textual amendment: Words in [s. 35](https://www.legislation.gov.uk/mwa/2009/1/section/35) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/2)
+[^c-b3aa5ae70ac03f6764fa39a4f01f1620]: Textual amendment: Words in [s. 35](https://www.legislation.gov.uk/mwa/2009/1/section/35) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/2)
 
-[^key-c67447bb4e9d89204ae6dec0be0412a1]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2009/1/section/36) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/k)
+[^c-c67447bb4e9d89204ae6dec0be0412a1]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2009/1/section/36) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/k)
 
-[^key-ee001e091cf86429071cee0b59bad85d]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2009/1/section/37) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(l)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/l)
+[^c-ee001e091cf86429071cee0b59bad85d]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2009/1/section/37) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(l)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/l)
 
-[^key-3b088f438605b566c5d3a0da85f647be]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2009/1/section/38) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/m)
+[^c-3b088f438605b566c5d3a0da85f647be]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2009/1/section/38) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/m)
 
-[^key-9472458c6900ac3e2a0bb3e03c87ee9d]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2009/1/section/39) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(n)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/n)
+[^c-9472458c6900ac3e2a0bb3e03c87ee9d]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2009/1/section/39) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(n)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/n)
 
-[^key-9a8341862c6c588453741f9b7e13cd4e]: Commencement: S. 40 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/k)
+[^c-9a8341862c6c588453741f9b7e13cd4e]: Commencement: S. 40 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/k)
 
-[^key-307823fe959f28f38c428b1f0a322134]: Commencement: S. 41 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/l)
+[^c-307823fe959f28f38c428b1f0a322134]: Commencement: S. 41 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/l)
 
-[^key-4e63655c07eeb8fe2478b6743f79bbb0]: Commencement: S. 42 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/m)
+[^c-4e63655c07eeb8fe2478b6743f79bbb0]: Commencement: S. 42 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/m)
 
-[^key-cde40caf15cd187529ca8c4f0e5ff623]: Commencement: S. 43 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/n)
+[^c-cde40caf15cd187529ca8c4f0e5ff623]: Commencement: S. 43 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/n)
 
-[^key-7ea6285108fef41fe6deca6d19f3aa60]: Textual amendment: Words in [s. 43(2)(a)](https://www.legislation.gov.uk/mwa/2009/1/section/43/2/a) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/3)
+[^c-7ea6285108fef41fe6deca6d19f3aa60]: Textual amendment: Words in [s. 43(2)(a)](https://www.legislation.gov.uk/mwa/2009/1/section/43/2/a) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/3)
 
-[^key-00a989fb0c069b988b3f9de207ee8e72]: Textual amendment: [S. 43(7)](https://www.legislation.gov.uk/mwa/2009/1/section/43/7) inserted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 25(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/25/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xiv)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xiv) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-00a989fb0c069b988b3f9de207ee8e72]: Textual amendment: [S. 43(7)](https://www.legislation.gov.uk/mwa/2009/1/section/43/7) inserted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 25(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/25/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xiv)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xiv) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-f9b2b81ca754374a75f1bb2f9004bfbe]: Commencement: S. 44 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/o)
+[^c-f9b2b81ca754374a75f1bb2f9004bfbe]: Commencement: S. 44 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/o)
 
-[^key-4da8e85c8b2829ca4d0d9b8f9326185a]: Textual amendment: Words in s. 44 inserted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/1148/article/3/3)
+[^c-4da8e85c8b2829ca4d0d9b8f9326185a]: Textual amendment: Words in s. 44 inserted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/1148/article/3/3)
 
-[^key-4dcf6a9831df2fcfb0eb7d8adb3d511a]: Textual amendment: Words in [s. 44](https://www.legislation.gov.uk/mwa/2009/1/section/44) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 26(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/26/2); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-4dcf6a9831df2fcfb0eb7d8adb3d511a]: Textual amendment: Words in [s. 44](https://www.legislation.gov.uk/mwa/2009/1/section/44) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 26(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/26/2); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-5c921dc98cdaa0cea699ca60d8e85b74]: Commencement: S. 45 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/p)
+[^c-5c921dc98cdaa0cea699ca60d8e85b74]: Commencement: S. 45 in force at 7.12.2009 by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/p)
 
-[^key-836ee0d99497a06c96320a94f4732454]: Textual amendment: Word in [s. 46(2)](https://www.legislation.gov.uk/mwa/2009/1/section/46/2) substituted (30.4.2021) by [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 58](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/58) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
+[^c-836ee0d99497a06c96320a94f4732454]: Textual amendment: Word in [s. 46(2)](https://www.legislation.gov.uk/mwa/2009/1/section/46/2) substituted (30.4.2021) by [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 58](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/58) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-6776d97d34e8d259dd64701cc8bcfd70]: Commencement: S. 47 in force at 7.12.2009 for specified purposes by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/q)
+[^c-6776d97d34e8d259dd64701cc8bcfd70]: Commencement: S. 47 in force at 7.12.2009 for specified purposes by [S.I. 2009/3174](https://www.legislation.gov.uk/uksi/2009/3174), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2009/3174/article/2/1/q)
 
-[^key-f1b33e7a59428fd0c98af5f11364a8e5]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2009/1/section/47) in force at 19.1.2011 in so far as not already in force by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(o)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/o)
+[^c-f1b33e7a59428fd0c98af5f11364a8e5]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2009/1/section/47) in force at 19.1.2011 in so far as not already in force by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(o)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/o)
 
-[^key-e1e8762dfb1f703bf366407ffa3111e5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/1) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
+[^c-e1e8762dfb1f703bf366407ffa3111e5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/1) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
 
-[^key-96af21706c55c6c7eed853c1d3118096]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/2) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
+[^c-96af21706c55c6c7eed853c1d3118096]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/2) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
 
-[^key-ac92058a41844ab8ac0845d8cbdf06de]: Commencement: Sch. para. 3 in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2011/97/article/2/1/p)
+[^c-ac92058a41844ab8ac0845d8cbdf06de]: Commencement: Sch. para. 3 in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2011/97/article/2/1/p)
 
-[^key-b0b0a0704c82a15276ce95a025d7c970]: Textual amendment: [Sch. paras. 1-9](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/1) omitted (1.4.2026 for the repeal of Sch. para. 3 for specified purposes and for the repeals of paras. 4-8, otherwise prosp.) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 25(4)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/25/4) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 3(b)(ii)](https://www.legislation.gov.uk/wsi/2026/62/article/3/b/ii)
+[^c-b0b0a0704c82a15276ce95a025d7c970]: Textual amendment: [Sch. paras. 1-9](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/1) omitted (1.4.2026 for the repeal of Sch. para. 3 for specified purposes and for the repeals of paras. 4-8, otherwise prosp.) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 25(4)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/25/4) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 3(b)(ii)](https://www.legislation.gov.uk/wsi/2026/62/article/3/b/ii)
 
-[^key-a56c96bec5ab960e110b00ae4557046e]: Textual amendment: Word in [Sch. para. 3](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/3) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/6); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-a56c96bec5ab960e110b00ae4557046e]: Textual amendment: Word in [Sch. para. 3](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/3) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/6); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-e768377f9e81d8fad263c706533e1753]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/9) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
+[^c-e768377f9e81d8fad263c706533e1753]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/9) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
 
-[^key-b3f9563bd58f78f55a0157721f4da5f6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/10) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
+[^c-b3f9563bd58f78f55a0157721f4da5f6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/10) in force at 19.1.2011 by [S.I. 2011/97](https://www.legislation.gov.uk/wsi/2011/97), [art. 2(1)(p)](https://www.legislation.gov.uk/wsi/2011/97/article/2/1/p)
 
-[^key-c946da0383f8350b2cf61a1f4bca0463]: Textual amendment: [Sch. para. 11 cross-heading](https://www.legislation.gov.uk/mwa/2009/1/schedule/crossheading/education-act-2002-c-32) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 59(a)](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/59/a) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
+[^c-c946da0383f8350b2cf61a1f4bca0463]: Textual amendment: [Sch. para. 11 cross-heading](https://www.legislation.gov.uk/mwa/2009/1/schedule/crossheading/education-act-2002-c-32) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 59(a)](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/59/a) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-4b9a9417f7caacce3286cead3484b08a]: Textual amendment: [Sch. paras. 11-20](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/11) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 59(b)](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/59/b) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
+[^c-4b9a9417f7caacce3286cead3484b08a]: Textual amendment: [Sch. paras. 11-20](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/11) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 59(b)](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/59/b) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-ee4f934ed7c0b8ac855b8b8d6783a3eb]: Textual amendment: [Sch. para. 21 cross-heading](https://www.legislation.gov.uk/mwa/2009/1/schedule/crossheading/government-of-wales-act-2006-c-32) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(4)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/4/a)
+[^c-ee4f934ed7c0b8ac855b8b8d6783a3eb]: Textual amendment: [Sch. para. 21 cross-heading](https://www.legislation.gov.uk/mwa/2009/1/schedule/crossheading/government-of-wales-act-2006-c-32) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(4)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/4/a)
 
-[^key-f8f6975c6177dbae80cfa2e8f95e80d0]: Textual amendment: [Sch. para. 21](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/21) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(4)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/4/b)
+[^c-f8f6975c6177dbae80cfa2e8f95e80d0]: Textual amendment: [Sch. para. 21](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/21) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(4)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/4/b)
 
-[^key-11b50968b223cb071f1568615261a87f]: Textual amendment: [Sch. para. 22](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/22) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(4)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/4/b)
+[^c-11b50968b223cb071f1568615261a87f]: Textual amendment: [Sch. para. 22](https://www.legislation.gov.uk/mwa/2009/1/schedule/paragraph/22) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 11(4)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11/4/b)

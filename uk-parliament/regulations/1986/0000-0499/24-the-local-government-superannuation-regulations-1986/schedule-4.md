@@ -24,7 +24,7 @@ Regulations C5, C6
 
 ### PART I — LUMP SUM PAYMENT
 
-**1.**[^key-ad671386f15c655796bd0fe81c3e724d] The amount to be paid by an employee who has made an election under regulation C5 is—
+**1.**[^c-ad671386f15c655796bd0fe81c3e724d] The amount to be paid by an employee who has made an election under regulation C5 is—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1986/24)
 
@@ -142,7 +142,7 @@ FEMALES
 
 ### PART II — PERIODICAL PAYMENTS
 
-**2.**[^key-53cf709571b7066f0258b17dadc17452] The amount to be paid by way of additional contributions by an employee who has made an election under regulation C6 is—
+**2.**[^c-53cf709571b7066f0258b17dadc17452] The amount to be paid by way of additional contributions by an employee who has made an election under regulation C6 is—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1986/24)
 
@@ -258,7 +258,7 @@ FEMALES
 </tbody>
 </table>
 
-**3.**[^key-145b76bbb1b95903969ff1ea9d157b59] (1) For the purposes of paragraph 2, in relation to any additional contribution falling to be paid by an employee under regulation C6 his remuneration for the time being is, subject to sub-paragraph (2), the remuneration received by him for the interval (being an interval determined under regulation C6(3)(a)) at the end of which the additional contribution falls to be paid.
+**3.**[^c-145b76bbb1b95903969ff1ea9d157b59] (1) For the purposes of paragraph 2, in relation to any additional contribution falling to be paid by an employee under regulation C6 his remuneration for the time being is, subject to sub-paragraph (2), the remuneration received by him for the interval (being an interval determined under regulation C6(3)(a)) at the end of which the additional contribution falls to be paid.
 
 (2) For the purposes of sub-paragraph (1)—
 
@@ -267,8 +267,8 @@ FEMALES
 
 ## Annotations
 
-[^key-ad671386f15c655796bd0fe81c3e724d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/4/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ad671386f15c655796bd0fe81c3e724d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/4/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-53cf709571b7066f0258b17dadc17452]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/4/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-53cf709571b7066f0258b17dadc17452]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/4/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-145b76bbb1b95903969ff1ea9d157b59]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/4/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-145b76bbb1b95903969ff1ea9d157b59]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/4/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

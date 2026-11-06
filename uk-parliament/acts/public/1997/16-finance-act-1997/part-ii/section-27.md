@@ -32,9 +32,9 @@ summary: ''
 - (d) in subsection (5), after “insurer’s” there shall be inserted “ or taxable intermediary’s ”; and
 - (e) in subsection (8)(a), after “premium” there shall be inserted “ or taxable intermediary’s fee ”.
 
-(4)[^key-8f665fe67798d6985d17fd8a23ad8fb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8f665fe67798d6985d17fd8a23ad8fb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-81d9ac7332c3f8fa4b12e5169a6a766a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-81d9ac7332c3f8fa4b12e5169a6a766a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 59 (review of Commissioners’ decisions) in subsection (1) (which specifies the kinds of decision to which the section applies) after paragraph (b) there shall be inserted—
 
@@ -70,14 +70,14 @@ summary: ''
 > - (a) is registered under section 53AA above; or
 > - (b) is liable to be registered under that section.
 
-(11)[^key-4ab6adee8d76110b71af0b16aae91280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-4ab6adee8d76110b71af0b16aae91280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c14706971]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-8f665fe67798d6985d17fd8a23ad8fb6]: Textual amendment: S. 27(4) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/2)
+[^c-8f665fe67798d6985d17fd8a23ad8fb6]: Textual amendment: S. 27(4) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/2)
 
-[^key-81d9ac7332c3f8fa4b12e5169a6a766a]: Textual amendment: S. 27(5) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/2)
+[^c-81d9ac7332c3f8fa4b12e5169a6a766a]: Textual amendment: S. 27(5) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/2)
 
-[^key-4ab6adee8d76110b71af0b16aae91280]: Textual amendment: [S. 27(11)](https://www.legislation.gov.uk/ukpga/1997/16/section/27/11) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-4ab6adee8d76110b71af0b16aae91280]: Textual amendment: [S. 27(11)](https://www.legislation.gov.uk/ukpga/1997/16/section/27/11) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))

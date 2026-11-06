@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Offences relating to a ship’s British connection.[^key-0f7135b6e67df1fdc7c8cdeb7cb69696]
+## 14. Offences relating to a ship’s British connection.[^c-0f7135b6e67df1fdc7c8cdeb7cb69696]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-0f7135b6e67df1fdc7c8cdeb7cb69696]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1995/21/section/14) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-0f7135b6e67df1fdc7c8cdeb7cb69696]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1995/21/section/14) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)

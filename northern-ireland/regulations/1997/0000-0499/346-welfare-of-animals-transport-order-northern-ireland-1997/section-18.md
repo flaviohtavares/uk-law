@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Production of plans[^key-a8cd06a1308e195a724ff0920d21321d]
+## 18. Production of plans[^c-a8cd06a1308e195a724ff0920d21321d]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ as the inspector considers necessary to enable him to ascertain whether the prov
 
 ## Annotations
 
-[^key-a8cd06a1308e195a724ff0920d21321d]: Commencement: Art. 18 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-a8cd06a1308e195a724ff0920d21321d]: Commencement: Art. 18 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

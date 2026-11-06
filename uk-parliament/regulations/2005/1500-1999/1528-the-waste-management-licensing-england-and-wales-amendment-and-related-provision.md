@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Waste Management Licensing (England and Wales)(Amendment and Related Provisions)(No. 2) Regulations 2005 (revoked)[^key-030a0043e6460ac83822388d9ef35fdc]
+The Waste Management Licensing (England and Wales)(Amendment and Related Provisions)(No. 2) Regulations 2005 (revoked)[^c-030a0043e6460ac83822388d9ef35fdc]
 
 Made
 
@@ -44,15 +44,15 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-030a0043e6460ac83822388d9ef35fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-030a0043e6460ac83822388d9ef35fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and territorial application[^key-030a0043e6460ac83822388d9ef35fdc]
+## 1. Citation, commencement and territorial application[^c-030a0043e6460ac83822388d9ef35fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of the Waste Management Licensing (England and Wales)(Amendment and Related Provisions) Regulations 2005[^key-030a0043e6460ac83822388d9ef35fdc]
+## 2. Revocation of the Waste Management Licensing (England and Wales)(Amendment and Related Provisions) Regulations 2005[^c-030a0043e6460ac83822388d9ef35fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,12 +136,12 @@ Coming into force in accordance with regulation 1(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-030a0043e6460ac83822388d9ef35fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-030a0043e6460ac83822388d9ef35fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-030a0043e6460ac83822388d9ef35fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-030a0043e6460ac83822388d9ef35fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-030a0043e6460ac83822388d9ef35fdc]: Textual amendment: Regulations revoked (30.6.2005 for the revocation of regs. 3-22, 1.7.2005 in so far as not already in force) by [The Waste Management Licensing (England and Wales) (Amendment and Related Provisions) (No. 3) Regulations 2005 (S.I. 2005/1728)](https://www.legislation.gov.uk/uksi/2005/1728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/1728/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2005/1728/regulation/2) (with [regs. 19-21](https://www.legislation.gov.uk/uksi/2005/1728/regulation/19))
+[^c-030a0043e6460ac83822388d9ef35fdc]: Textual amendment: Regulations revoked (30.6.2005 for the revocation of regs. 3-22, 1.7.2005 in so far as not already in force) by [The Waste Management Licensing (England and Wales) (Amendment and Related Provisions) (No. 3) Regulations 2005 (S.I. 2005/1728)](https://www.legislation.gov.uk/uksi/2005/1728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/1728/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2005/1728/regulation/2) (with [regs. 19-21](https://www.legislation.gov.uk/uksi/2005/1728/regulation/19))

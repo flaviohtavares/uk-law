@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The Secretary of State may make regulations setting out[^key-342f1c1029098d766ab23714af516e7a] the measures necessary for the application of this Chapter, in particular on:
+The Secretary of State may make regulations setting out[^c-342f1c1029098d766ab23714af516e7a] the measures necessary for the application of this Chapter, in particular on:
 
 - ((a)) the redistribution of exportable quantities which have not been allocated or utilised;
 - ((b)) the method for recalculation of the payment of the export refund when the product code or destination mentioned in a licence is not in conformity with the actual product or destination;
@@ -28,10 +28,10 @@ The Secretary of State may make regulations setting out[^key-342f1c1029098d766ab
 - ((d)) the procedures for, and the amount of, the security to be lodged;
 - ((e)) the application of measures adopted pursuant to Article 202(4).
 
-[^key-f1070d032f1e71840cf5d48daa12f152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1070d032f1e71840cf5d48daa12f152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-342f1c1029098d766ab23714af516e7a]: Textual amendment: Words in [Art. 203](https://www.legislation.gov.uk/eur/2013/1308/article/203) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(14)(a)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-342f1c1029098d766ab23714af516e7a]: Textual amendment: Words in [Art. 203](https://www.legislation.gov.uk/eur/2013/1308/article/203) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(14)(a)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1070d032f1e71840cf5d48daa12f152]: Textual amendment: Words in [Art. 203](https://www.legislation.gov.uk/eur/2013/1308/article/203) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(14)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1070d032f1e71840cf5d48daa12f152]: Textual amendment: Words in [Art. 203](https://www.legislation.gov.uk/eur/2013/1308/article/203) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(14)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

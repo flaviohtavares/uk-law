@@ -31,7 +31,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The Burma (Freezing of Funds and Economic Resources) Regulations 2004 (revoked)[^key-8673e6b193be498439984380d3b1bc35]
+The Burma (Freezing of Funds and Economic Resources) Regulations 2004 (revoked)[^c-8673e6b193be498439984380d3b1bc35]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 5th May 2004
 
-[^key-8673e6b193be498439984380d3b1bc35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8673e6b193be498439984380d3b1bc35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8673e6b193be498439984380d3b1bc35]
+## 1. Citation, commencement and interpretation[^c-8673e6b193be498439984380d3b1bc35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Breaches of the EC Regulation[^key-8673e6b193be498439984380d3b1bc35]
+## 2. Breaches of the EC Regulation[^c-8673e6b193be498439984380d3b1bc35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requests for authorisations etc.[^key-8673e6b193be498439984380d3b1bc35]
+## 3. Requests for authorisations etc.[^c-8673e6b193be498439984380d3b1bc35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information[^key-8673e6b193be498439984380d3b1bc35]
+## 4. Information[^c-8673e6b193be498439984380d3b1bc35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties and proceedings[^key-8673e6b193be498439984380d3b1bc35]
+## 5. Penalties and proceedings[^c-8673e6b193be498439984380d3b1bc35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8673e6b193be498439984380d3b1bc35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8673e6b193be498439984380d3b1bc35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — INFORMATION[^key-8673e6b193be498439984380d3b1bc35]
+## SCHEDULE — INFORMATION[^c-8673e6b193be498439984380d3b1bc35]
 
 Regulation 4
 
-**1.**[^key-8673e6b193be498439984380d3b1bc35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8673e6b193be498439984380d3b1bc35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8673e6b193be498439984380d3b1bc35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8673e6b193be498439984380d3b1bc35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8673e6b193be498439984380d3b1bc35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8673e6b193be498439984380d3b1bc35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8673e6b193be498439984380d3b1bc35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8673e6b193be498439984380d3b1bc35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8673e6b193be498439984380d3b1bc35]: Textual amendment: Regulations revoked (29.6.2005) by [Burma (Financial Sanctions) Regulations 2005 (S.I. 2005/1526)](https://www.legislation.gov.uk/uksi/2005/1526), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1526/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2005/1526/regulation/7/1)
+[^c-8673e6b193be498439984380d3b1bc35]: Textual amendment: Regulations revoked (29.6.2005) by [Burma (Financial Sanctions) Regulations 2005 (S.I. 2005/1526)](https://www.legislation.gov.uk/uksi/2005/1526), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1526/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2005/1526/regulation/7/1)

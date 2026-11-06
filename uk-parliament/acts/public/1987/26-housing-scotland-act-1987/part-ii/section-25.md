@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Priority need for accommodation.[^key-85eec4ef92dad737acdefdebb84a4651]
+## 25. Priority need for accommodation.[^c-85eec4ef92dad737acdefdebb84a4651]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85eec4ef92dad737acdefdebb84a4651]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/1987/26/section/25) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [4](https://www.legislation.gov.uk/ssi/2012/330/article/4)
+[^c-85eec4ef92dad737acdefdebb84a4651]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/1987/26/section/25) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [4](https://www.legislation.gov.uk/ssi/2012/330/article/4)

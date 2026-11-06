@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Short absence[^key-4d9dd8005b804dd670221536bb0f6cfc]
+## 89. Short absence[^c-4d9dd8005b804dd670221536bb0f6cfc]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A claimant is to continue to be entitled to an employment and support allowance 
 
 ## Annotations
 
-[^key-4d9dd8005b804dd670221536bb0f6cfc]: Commencement: [Reg. 89](https://www.legislation.gov.uk/nisr/2016/219/regulation/89) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-4d9dd8005b804dd670221536bb0f6cfc]: Commencement: [Reg. 89](https://www.legislation.gov.uk/nisr/2016/219/regulation/89) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

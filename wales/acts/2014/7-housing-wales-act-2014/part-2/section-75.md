@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-4c2a67ebf020f6339ddd0faccf294ff3] When the duty in section 73 ( duty to help to secure accommodation for homeless applicants) comes to an end in respect of an applicant in the circumstances mentioned in subsection (2) o r (3) of section 74, the local housing authority must secure that suitable accommodation is available for occupation by the applicant if subsection (2) or (3) (of this section) applies.
+(1)[^c-4c2a67ebf020f6339ddd0faccf294ff3] When the duty in section 73 ( duty to help to secure accommodation for homeless applicants) comes to an end in respect of an applicant in the circumstances mentioned in subsection (2) o r (3) of section 74, the local housing authority must secure that suitable accommodation is available for occupation by the applicant if subsection (2) or (3) (of this section) applies.
 
-(2)[^key-4c2a67ebf020f6339ddd0faccf294ff3] This subsection applies where the local housing authority—
+(2)[^c-4c2a67ebf020f6339ddd0faccf294ff3] This subsection applies where the local housing authority—
 
 - (a) is satisfied that the applicant—
   - (i) does not have suitable accommodation available for occupation, or
@@ -31,7 +31,7 @@ summary: ''
 - (c) is satisfied that the applicant has a priority need for accommodation, and
 - (d) if the authority is having regard to whether or not the applicant is homeless intentionally (see section 77), is not satisfied that the applicant became homeless intentionally in the circumstances which gave rise to the application;
 
-(3)[^key-49adacaeeed8ba8f8947db2efcd71158] This subsection applies where the local housing authority is having regard to whether or not the applicant is homeless intentionally and is satisfied that—
+(3)[^c-49adacaeeed8ba8f8947db2efcd71158] This subsection applies where the local housing authority is having regard to whether or not the applicant is homeless intentionally and is satisfied that—
 
 - (a) the applicant became homeless intentionally in the circumstances which gave rise to the application,
 - (b) the applicant—
@@ -48,10 +48,10 @@ summary: ''
   - (i) at any time within the period of 5 years before the day on which the applicant was notified under section 63 that a duty was owed to him or her under this section, and
   - (ii) on the basis that the applicant fell within this subsection.
 
-(4)[^key-4c2a67ebf020f6339ddd0faccf294ff3] For the purpose of subsections (2)(a)(ii) and (3)(b)(ii), the applicant is to be treated as notified on the day the notice is sent or first made available for collection.
+(4)[^c-4c2a67ebf020f6339ddd0faccf294ff3] For the purpose of subsections (2)(a)(ii) and (3)(b)(ii), the applicant is to be treated as notified on the day the notice is sent or first made available for collection.
 
 ## Annotations
 
-[^key-4c2a67ebf020f6339ddd0faccf294ff3]: Commencement: [S. 75(1)](https://www.legislation.gov.uk/anaw/2014/7/section/75/1)[(2)](https://www.legislation.gov.uk/anaw/2014/7/section/75/2)[(4)](https://www.legislation.gov.uk/anaw/2014/7/section/75/4) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 26](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/26) (with [art. 6](https://www.legislation.gov.uk/wsi/2015/1272/article/6))
+[^c-4c2a67ebf020f6339ddd0faccf294ff3]: Commencement: [S. 75(1)](https://www.legislation.gov.uk/anaw/2014/7/section/75/1)[(2)](https://www.legislation.gov.uk/anaw/2014/7/section/75/2)[(4)](https://www.legislation.gov.uk/anaw/2014/7/section/75/4) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 26](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/26) (with [art. 6](https://www.legislation.gov.uk/wsi/2015/1272/article/6))
 
-[^key-49adacaeeed8ba8f8947db2efcd71158]: Commencement: [S. 75(3)](https://www.legislation.gov.uk/anaw/2014/7/section/75/3) in force at 2.12.2019 by [S.I. 2019/1479](https://www.legislation.gov.uk/wsi/2019/1479), [art. 2](https://www.legislation.gov.uk/wsi/2019/1479/article/2)
+[^c-49adacaeeed8ba8f8947db2efcd71158]: Commencement: [S. 75(3)](https://www.legislation.gov.uk/anaw/2014/7/section/75/3) in force at 2.12.2019 by [S.I. 2019/1479](https://www.legislation.gov.uk/wsi/2019/1479), [art. 2](https://www.legislation.gov.uk/wsi/2019/1479/article/2)

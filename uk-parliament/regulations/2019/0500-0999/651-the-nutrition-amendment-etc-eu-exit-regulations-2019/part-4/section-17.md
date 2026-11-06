@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of Regulation [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924)[^key-52378e585b714e62bc53cf84ba8829df]
+## 17. Amendment of Regulation [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924)[^c-52378e585b714e62bc53cf84ba8829df]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
   - (i) for the words from “a derogation” to “Article 25(3)” substitute “ the appropriate authority may by regulations grant a derogation from paragraph 3 ”;
   - (ii) for “national competent authority of a Member State” substitute “ competent authority ”;
   - (iii) for “Commission”, in the first place it appears, substitute “ relevant authorities ”;
-  - (iv) for the final sentence substitute “ The appropriate authority may publish guidelines setting out[^key-3cded93f257aaa94f48c5efd7eeeeac8] the procedure and requirements for applications made by food business operators under this paragraph. ”;
+  - (iv) for the final sentence substitute “ The appropriate authority may publish guidelines setting out[^c-3cded93f257aaa94f48c5efd7eeeeac8] the procedure and requirements for applications made by food business operators under this paragraph. ”;
 - (d) in paragraph 5—
   - (i) omit “the following Community provisions”;
   - (ii) in point (a), for “Directive [89/398/EEC](https://www.legislation.gov.uk/eudr/1989/398) and Directives adopted” substitute “ Regulation (EU) No 609/2013 and other relevant enactments ”;
@@ -62,14 +62,14 @@ summary: ''
     > - (a) for regulations, guidelines, applications or the register of claims in relation to England, the Secretary of State;
     > - (b) for regulations, guidelines, applications or the register of claims in relation to Scotland, the Scottish Ministers;
     > - (c) for regulations, guidelines, applications or the register of claims in relation to Wales, the Welsh Ministers;
-    > - (d)[^key-158c065c75d38ccb6b166ecc79f6627f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    > - (d)[^c-158c065c75d38ccb6b166ecc79f6627f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     >
-    > (9)[^key-4c76ac70a7cf3ae4aaaa224f8adbeb46] The appropriate authority is the Secretary of State if consent is given by:
+    > (9)[^c-4c76ac70a7cf3ae4aaaa224f8adbeb46] The appropriate authority is the Secretary of State if consent is given by:
     >
     > - (a) for regulations, guidelines, applications or the register of claims in relation to Scotland, the Scottish Ministers;
     > - (b) for regulations, guidelines, applications or the register of claims in relation to Wales, the Welsh Ministers;
     >
-    > (10) ‘relevant authorities’ means the Secretary of State, the Scottish Ministers and the Welsh Ministers[^key-d4ee6f2391a4b0718f2b7fbf74356846];
+    > (10) ‘relevant authorities’ means the Secretary of State, the Scottish Ministers and the Welsh Ministers[^c-d4ee6f2391a4b0718f2b7fbf74356846];
     >
     > (11) ‘enactment’ includes any enactment of the types specified in the definition of ‘enactment’ in section 20(1) of the European Union (Withdrawal) Act 2018.
 
@@ -82,7 +82,7 @@ summary: ''
   - (i) for “Directives [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) and [84/450/EEC](https://www.legislation.gov.uk/eudr/1984/450)” substitute “ Regulation (EU) No 1169/2011 and the Business Protection from Misleading Marketing Regulations 2008 [^c23668791] ”;
   - (ii) in point (d), for the words from “Derogations” to the end of that point, substitute—
 
-    > The appropriate authority may by regulations adopt derogations in the case of nutrients for which sufficient quantities cannot be provided by a balanced and varied diet, including the conditions for their application, taking into account the special conditions present in the parts of Great Britain[^key-74ac7e8c48840929b72d37e22c584758] in relation to which the regulations are to be made.
+    > The appropriate authority may by regulations adopt derogations in the case of nutrients for which sufficient quantities cannot be provided by a balanced and varied diet, including the conditions for their application, taking into account the special conditions present in the parts of Great Britain[^c-74ac7e8c48840929b72d37e22c584758] in relation to which the regulations are to be made.
 
     .
 
@@ -161,7 +161,7 @@ summary: ''
 
   > **1A.**
   >
-  > Claims which have been authorised for the purposes of Article 14 before IP completion day[^key-bc7a452c1855db8d71a67eadb4f8cd1d] are to be treated as authorised for use in Great Britain[^key-86af6f4deb8c43995b1ca7da18350497] on and after IP completion day, provided that they continue to meet the general requirements of this Regulation, the specific requirements of Article 14 and any other relevant legislative requirements.
+  > Claims which have been authorised for the purposes of Article 14 before IP completion day[^c-bc7a452c1855db8d71a67eadb4f8cd1d] are to be treated as authorised for use in Great Britain[^c-86af6f4deb8c43995b1ca7da18350497] on and after IP completion day, provided that they continue to meet the general requirements of this Regulation, the specific requirements of Article 14 and any other relevant legislative requirements.
 
   .
 
@@ -173,8 +173,8 @@ summary: ''
   >
   > An application may be made either:
   >
-  > - (a) for authorisation in Great Britain[^key-6099d2f13ff49021c2a7ef742a9d1135]; or
-  > - (b) for authorisation in one of England, Scotland or Wales[^key-2a81d65b2bc9cd0ccef8cf9d06d1df5b] only.
+  > - (a) for authorisation in Great Britain[^c-6099d2f13ff49021c2a7ef742a9d1135]; or
+  > - (b) for authorisation in one of England, Scotland or Wales[^c-2a81d65b2bc9cd0ccef8cf9d06d1df5b] only.
   >
   > **1B.**
   >
@@ -183,7 +183,7 @@ summary: ''
   > - (a) for authorisation in England, the competent authority in England;
   > - (b) for authorisation in Scotland, the competent authority in Scotland;
   > - (c) for authorisation in Wales, the competent authority in Wales;
-  > - (d)[^key-a20ef17e8ee8d99c1d6526d4cccfdb06] for authorisation in Great Britain, any competent authority.
+  > - (d)[^c-a20ef17e8ee8d99c1d6526d4cccfdb06] for authorisation in Great Britain, any competent authority.
 
   ;
 - (b) in paragraph 2—
@@ -198,8 +198,8 @@ summary: ''
 - (c) in paragraph 3, after point (a), insert—
 
   > - (aa) a statement confirming whether the application is for authorisation of the claim for use–
-  >   - (i) in Great Britain[^key-9dd301858adffd987cacd843e5b4466b]; or
-  >   - (ii) in one of England, Scotland or Wales[^key-dde43417f955dbbe7bfffd8392cfdd5b] only;
+  >   - (i) in Great Britain[^c-9dd301858adffd987cacd843e5b4466b]; or
+  >   - (ii) in one of England, Scotland or Wales[^c-dde43417f955dbbe7bfffd8392cfdd5b] only;
 
   ;
 - (d) for paragraph 4 substitute—
@@ -233,19 +233,19 @@ summary: ''
 - (c) in paragraph 3—
   - (i) for the first sub-paragraph substitute—
 
-    > Where the application is made on a Great Britain-wide[^key-c604373386152499fb8d553bdc9e1e14] basis, a decision must be made by:
+    > Where the application is made on a Great Britain-wide[^c-c604373386152499fb8d553bdc9e1e14] basis, a decision must be made by:
     >
     > - (a) the appropriate authority for applications in relation to England, in relation to authorisation of the claim in England;
-    > - (b) the appropriate authority for applications in relation to Scotland, in relation to authorisation of the claim in Scotland; and[^key-926126e51c041dae8491dff0d81c27ac]
-    > - (c) the appropriate authority for applications in relation to Wales, in relation to authorisation of the claim in Wales [^key-da06fc24f2cf9c249e33d9f61f09cc92]...
-    > - (d)[^key-da06fc24f2cf9c249e33d9f61f09cc92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    > - (b) the appropriate authority for applications in relation to Scotland, in relation to authorisation of the claim in Scotland; and[^c-926126e51c041dae8491dff0d81c27ac]
+    > - (c) the appropriate authority for applications in relation to Wales, in relation to authorisation of the claim in Wales [^c-da06fc24f2cf9c249e33d9f61f09cc92]...
+    > - (d)[^c-da06fc24f2cf9c249e33d9f61f09cc92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     >
-    > The appropriate authority for each of England, Scotland and Wales[^key-6cb0be06258ec10c242fb05ddb968866] must consult each other appropriate authority prior to making a decision on the application.
+    > The appropriate authority for each of England, Scotland and Wales[^c-6cb0be06258ec10c242fb05ddb968866] must consult each other appropriate authority prior to making a decision on the application.
 
     ;
   - (ii) after the first sub-paragraph insert—
 
-    > Where the application is made for authorisation in one of England, Scotland or Wales[^key-036a53fadea75d7c5cf969fcdc068763] only, the appropriate authority shall make a decision on the application, having consulted the other relevant authorities.
+    > Where the application is made for authorisation in one of England, Scotland or Wales[^c-036a53fadea75d7c5cf969fcdc068763] only, the appropriate authority shall make a decision on the application, having consulted the other relevant authorities.
 
     ;
   - (iii) in the second sub-paragraph—
@@ -268,8 +268,8 @@ summary: ''
   >
   > The application for this inclusion may be made either:
   >
-  > - (a) for use of the health claim in Great Britain[^key-143262902eb34ce5d9dbc02e6faea8a8]; or
-  > - (b) for use of the health claim in one of England, Scotland or Wales[^key-745289eaa9e0eb829954c67e9ca5c6f2] only.
+  > - (a) for use of the health claim in Great Britain[^c-143262902eb34ce5d9dbc02e6faea8a8]; or
+  > - (b) for use of the health claim in one of England, Scotland or Wales[^c-745289eaa9e0eb829954c67e9ca5c6f2] only.
   >
   > **1B.**
   >
@@ -278,7 +278,7 @@ summary: ''
   > - (a) for use of the health claim in England, the competent authority in England;
   > - (b) for use of the health claim in Scotland, the competent authority in Scotland;
   > - (c) for use of the health claim in Wales, the competent authority in Wales;
-  > - (d)[^key-96dfcc39d031c4208ac017212a0ef9d7] for use of the health claim in Great Britain, any competent authority.
+  > - (d)[^c-96dfcc39d031c4208ac017212a0ef9d7] for use of the health claim in Great Britain, any competent authority.
 
   ;
 - (c) in paragraph 2, for the words from “The application” to “Member State which” substitute “ The competent authority ”;
@@ -291,21 +291,21 @@ summary: ''
 
   > **4.**
   >
-  > Where the application is for the use of the health claim in Great Britain[^key-993e6ea5e47433aef6115a4d7f7b9bbb], within two months of receiving the opinion of the expert committee, a decision must be made by:
+  > Where the application is for the use of the health claim in Great Britain[^c-993e6ea5e47433aef6115a4d7f7b9bbb], within two months of receiving the opinion of the expert committee, a decision must be made by:
   >
   > - (a) the appropriate authority for applications in relation to England, in relation to authorisation of the claim in England;
-  > - (b) the appropriate authority for applications in relation to Scotland, in relation to authorisation of the claim in Scotland; and[^key-9c1726417a50aed6089950987e7d6af6]
-  > - (c) the appropriate authority for applications in relation to Wales, in relation to authorisation of the claim in Wales; [^key-676a0edd6b16b360282f3070118df681]...
-  > - (d)[^key-676a0edd6b16b360282f3070118df681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (b) the appropriate authority for applications in relation to Scotland, in relation to authorisation of the claim in Scotland; and[^c-9c1726417a50aed6089950987e7d6af6]
+  > - (c) the appropriate authority for applications in relation to Wales, in relation to authorisation of the claim in Wales; [^c-676a0edd6b16b360282f3070118df681]...
+  > - (d)[^c-676a0edd6b16b360282f3070118df681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
-  > The appropriate authorities for each of England, Scotland and Wales[^key-102cccc823674ba6398ad5f8ec8eccad] must consult each other prior to making a decision on the application and must take into account the opinion of the expert committee, any relevant enactments and other factors relevant to the matter under consideration.
+  > The appropriate authorities for each of England, Scotland and Wales[^c-102cccc823674ba6398ad5f8ec8eccad] must consult each other prior to making a decision on the application and must take into account the opinion of the expert committee, any relevant enactments and other factors relevant to the matter under consideration.
 
   ;
 - (f) after paragraph 4, insert—
 
   > **4A.**
   >
-  > Where the application is for the use of the health claim in one of England, Scotland or Wales[^key-878f0bfdcdf8561a7ad29e8aeb5de060] only, the appropriate authority must make a decision on the application within two months of receiving the opinion of the expert committee. The appropriate authority must consult the other relevant authorities prior to making such a decision and must take into account the opinion of the expert committee, any relevant enactments and other factors relevant to the matter under consideration.
+  > Where the application is for the use of the health claim in one of England, Scotland or Wales[^c-878f0bfdcdf8561a7ad29e8aeb5de060] only, the appropriate authority must make a decision on the application within two months of receiving the opinion of the expert committee. The appropriate authority must consult the other relevant authorities prior to making such a decision and must take into account the opinion of the expert committee, any relevant enactments and other factors relevant to the matter under consideration.
 
   ;
 - (g) in paragraph 5—
@@ -382,11 +382,11 @@ summary: ''
 >
 > **4.**
 >
-> The Secretary of State must not make regulations under this Regulation which will apply in Scotland or Wales[^key-2df2c7c1d7ae0a1fa5ad6adb14d0e833] without the consent of:
+> The Secretary of State must not make regulations under this Regulation which will apply in Scotland or Wales[^c-2df2c7c1d7ae0a1fa5ad6adb14d0e833] without the consent of:
 >
 > - (a) the Scottish Ministers, in respect of any proposed application in Scotland;
-> - (b) the Welsh Ministers, in respect of any proposed application in Wales[^key-fe22730493f9f50b0a68feb474be4cea]...
-> - (c)[^key-fe22730493f9f50b0a68feb474be4cea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (b) the Welsh Ministers, in respect of any proposed application in Wales[^c-fe22730493f9f50b0a68feb474be4cea]...
+> - (c)[^c-fe22730493f9f50b0a68feb474be4cea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Article 21C — Regulations: Scottish Ministers**
 >
@@ -418,7 +418,7 @@ summary: ''
 >
 > **Article 21E — Regulations: Department of Health**
 >
-> [^key-7059c1cc63dbdaeaefeecabc8b72e598]
+> [^c-7059c1cc63dbdaeaefeecabc8b72e598]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -435,64 +435,64 @@ summary: ''
 
 ## Annotations
 
-[^key-52378e585b714e62bc53cf84ba8829df]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-52378e585b714e62bc53cf84ba8829df]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3cded93f257aaa94f48c5efd7eeeeac8]: Textual amendment: Words in reg. 17(2)(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/a)
+[^c-3cded93f257aaa94f48c5efd7eeeeac8]: Textual amendment: Words in reg. 17(2)(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/a)
 
 [^c23668781]: Marginal citation: OJ L 164, 26.6.2009, p. 45–58.
 
-[^key-158c065c75d38ccb6b166ecc79f6627f]: Textual amendment: Words in reg. 17(3)(b)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/b/i)
+[^c-158c065c75d38ccb6b166ecc79f6627f]: Textual amendment: Words in reg. 17(3)(b)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/b/i)
 
-[^key-4c76ac70a7cf3ae4aaaa224f8adbeb46]: Textual amendment: Words in reg. 17(3)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/b/ii)
+[^c-4c76ac70a7cf3ae4aaaa224f8adbeb46]: Textual amendment: Words in reg. 17(3)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/b/ii)
 
-[^key-d4ee6f2391a4b0718f2b7fbf74356846]: Textual amendment: Words in reg. 17(3)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/b/iii)
+[^c-d4ee6f2391a4b0718f2b7fbf74356846]: Textual amendment: Words in reg. 17(3)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/b/iii)
 
 [^c23668791]: Marginal citation: [S.I. 2008/1276](https://www.legislation.gov.uk/uksi/2008/1276), as amended by [S.I. 2013/783](https://www.legislation.gov.uk/uksi/2013/783) and 2701, 2014/549 and 2015/1630.
 
-[^key-74ac7e8c48840929b72d37e22c584758]: Textual amendment: Words in reg. 17(4)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/c)
+[^c-74ac7e8c48840929b72d37e22c584758]: Textual amendment: Words in reg. 17(4)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/c)
 
-[^key-bc7a452c1855db8d71a67eadb4f8cd1d]: Textual amendment: Words in reg. 17(15)(d) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/d/i)
+[^c-bc7a452c1855db8d71a67eadb4f8cd1d]: Textual amendment: Words in reg. 17(15)(d) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/d/i)
 
-[^key-86af6f4deb8c43995b1ca7da18350497]: Textual amendment: Words in reg. 17(15)(d) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/d/ii)
+[^c-86af6f4deb8c43995b1ca7da18350497]: Textual amendment: Words in reg. 17(15)(d) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/d/ii)
 
-[^key-6099d2f13ff49021c2a7ef742a9d1135]: Textual amendment: Words in reg. 17(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/i/aa)
+[^c-6099d2f13ff49021c2a7ef742a9d1135]: Textual amendment: Words in reg. 17(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/i/aa)
 
-[^key-2a81d65b2bc9cd0ccef8cf9d06d1df5b]: Textual amendment: Words in reg. 17(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/i/bb)
+[^c-2a81d65b2bc9cd0ccef8cf9d06d1df5b]: Textual amendment: Words in reg. 17(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/i/bb)
 
-[^key-a20ef17e8ee8d99c1d6526d4cccfdb06]: Textual amendment: Words in reg. 17(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/i/cc)
+[^c-a20ef17e8ee8d99c1d6526d4cccfdb06]: Textual amendment: Words in reg. 17(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/i/cc)
 
-[^key-9dd301858adffd987cacd843e5b4466b]: Textual amendment: Words in reg. 17(6)(c) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/ii/aa)
+[^c-9dd301858adffd987cacd843e5b4466b]: Textual amendment: Words in reg. 17(6)(c) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/ii/aa)
 
-[^key-dde43417f955dbbe7bfffd8392cfdd5b]: Textual amendment: Words in reg. 17(6)(c) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/ii/bb)
+[^c-dde43417f955dbbe7bfffd8392cfdd5b]: Textual amendment: Words in reg. 17(6)(c) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/e/ii/bb)
 
-[^key-c604373386152499fb8d553bdc9e1e14]: Textual amendment: Words in reg. 17(18)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/aa)
+[^c-c604373386152499fb8d553bdc9e1e14]: Textual amendment: Words in reg. 17(18)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/aa)
 
-[^key-926126e51c041dae8491dff0d81c27ac]: Textual amendment: Word in reg. 17(18)(c)(i) inserted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/bb)
+[^c-926126e51c041dae8491dff0d81c27ac]: Textual amendment: Word in reg. 17(18)(c)(i) inserted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/bb)
 
-[^key-da06fc24f2cf9c249e33d9f61f09cc92]: Textual amendment: Words in reg. 17(18)(c)(i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/cc)
+[^c-da06fc24f2cf9c249e33d9f61f09cc92]: Textual amendment: Words in reg. 17(18)(c)(i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/cc)
 
-[^key-6cb0be06258ec10c242fb05ddb968866]: Textual amendment: Words in reg. 17(18)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(dd)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/dd)
+[^c-6cb0be06258ec10c242fb05ddb968866]: Textual amendment: Words in reg. 17(18)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(i)(dd)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/i/dd)
 
-[^key-036a53fadea75d7c5cf969fcdc068763]: Textual amendment: Words in reg. 17(18)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/ii)
+[^c-036a53fadea75d7c5cf969fcdc068763]: Textual amendment: Words in reg. 17(18)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/f/ii)
 
-[^key-143262902eb34ce5d9dbc02e6faea8a8]: Textual amendment: Words in reg. 17(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/i/aa)
+[^c-143262902eb34ce5d9dbc02e6faea8a8]: Textual amendment: Words in reg. 17(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/i/aa)
 
-[^key-745289eaa9e0eb829954c67e9ca5c6f2]: Textual amendment: Words in reg. 17(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/i/bb)
+[^c-745289eaa9e0eb829954c67e9ca5c6f2]: Textual amendment: Words in reg. 17(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/i/bb)
 
-[^key-96dfcc39d031c4208ac017212a0ef9d7]: Textual amendment: Words in reg. 17(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/i/cc)
+[^c-96dfcc39d031c4208ac017212a0ef9d7]: Textual amendment: Words in reg. 17(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/i/cc)
 
-[^key-993e6ea5e47433aef6115a4d7f7b9bbb]: Textual amendment: Words in reg. 17(19)(e) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/aa)
+[^c-993e6ea5e47433aef6115a4d7f7b9bbb]: Textual amendment: Words in reg. 17(19)(e) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/aa)
 
-[^key-9c1726417a50aed6089950987e7d6af6]: Textual amendment: Word in reg. 17(19)(e) inserted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/bb)
+[^c-9c1726417a50aed6089950987e7d6af6]: Textual amendment: Word in reg. 17(19)(e) inserted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/bb)
 
-[^key-676a0edd6b16b360282f3070118df681]: Textual amendment: Words in reg. 17(19)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/cc)
+[^c-676a0edd6b16b360282f3070118df681]: Textual amendment: Words in reg. 17(19)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/cc)
 
-[^key-102cccc823674ba6398ad5f8ec8eccad]: Textual amendment: Words in reg. 17(19)(e) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/dd)
+[^c-102cccc823674ba6398ad5f8ec8eccad]: Textual amendment: Words in reg. 17(19)(e) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/ii/dd)
 
-[^key-878f0bfdcdf8561a7ad29e8aeb5de060]: Textual amendment: Words in reg. 17(19)(f) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(iii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/iii)
+[^c-878f0bfdcdf8561a7ad29e8aeb5de060]: Textual amendment: Words in reg. 17(19)(f) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(g)(iii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/g/iii)
 
-[^key-2df2c7c1d7ae0a1fa5ad6adb14d0e833]: Textual amendment: Words in reg. 17(23) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(h)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/h/i/aa)
+[^c-2df2c7c1d7ae0a1fa5ad6adb14d0e833]: Textual amendment: Words in reg. 17(23) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(h)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/h/i/aa)
 
-[^key-fe22730493f9f50b0a68feb474be4cea]: Textual amendment: Words in reg. 17(23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(h)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/h/i/bb)
+[^c-fe22730493f9f50b0a68feb474be4cea]: Textual amendment: Words in reg. 17(23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(h)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/h/i/bb)
 
-[^key-7059c1cc63dbdaeaefeecabc8b72e598]: Textual amendment: Words in reg. 17(23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/h/ii)
+[^c-7059c1cc63dbdaeaefeecabc8b72e598]: Textual amendment: Words in reg. 17(23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(2)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/2/h/ii)

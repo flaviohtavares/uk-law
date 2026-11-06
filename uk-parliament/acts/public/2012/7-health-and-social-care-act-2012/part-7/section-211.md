@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Orders regulating social care workers in England: further provision[^key-0de616e35c9c456ce38f8c4cc2d3d0de][^c2191344]
+## 211. Orders regulating social care workers in England: further provision[^c-0de616e35c9c456ce38f8c4cc2d3d0de][^c2191344]
 
 *Extent: E+W*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0de616e35c9c456ce38f8c4cc2d3d0de]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2012/7/section/211) in force at 1.8.2012 in so far as not already in force by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-0de616e35c9c456ce38f8c4cc2d3d0de]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2012/7/section/211) in force at 1.8.2012 in so far as not already in force by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
 [^c2191344]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2012/7/section/211) partly in force; [s. 211](https://www.legislation.gov.uk/ukpga/2012/7/section/211) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

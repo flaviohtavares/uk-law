@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Protective work to buildings[^key-0de75878c4127f31ab88fac20b6443d3]
+## 14. Protective work to buildings[^c-0de75878c4127f31ab88fac20b6443d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-0de75878c4127f31ab88fac20b6443d3]: Commencement: Art. 14 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-0de75878c4127f31ab88fac20b6443d3]: Commencement: Art. 14 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

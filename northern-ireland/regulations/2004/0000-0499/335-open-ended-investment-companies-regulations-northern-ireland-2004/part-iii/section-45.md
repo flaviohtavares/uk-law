@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Shares[^key-faa7968931e08ef5c6d1b8e6f9653f44]
+## 45. Shares[^c-faa7968931e08ef5c6d1b8e6f9653f44]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa7968931e08ef5c6d1b8e6f9653f44]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2004/335/regulation/45) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-faa7968931e08ef5c6d1b8e6f9653f44]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2004/335/regulation/45) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

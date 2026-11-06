@@ -61,8 +61,8 @@ Sub-paragraphs (1) and (3) of paragraph 2 does not apply in relation to—
   - (ii) that container has been opened;
 - (d) food which must be ripened or matured at ambient temperatures, but not when the process of ripening or maturation is completed;
 - (e) raw food intended for further processing (including cooking) before human consumption, but only if that processing, if undertaken correctly, will render that food fit for human consumption;
-- (f) food to which Commission Regulation 543/2008 and Regulation 1308/2013 apply[^key-7cb67d2b29baf491cf5bf4fb43f5a8c7]; and
-- (g) food to which Commission Regulation 589/2008 and Regulation 1308/2013 apply[^key-86d1a26a14a48973a7b3e69c0540cc11].
+- (f) food to which Commission Regulation 543/2008 and Regulation 1308/2013 apply[^c-7cb67d2b29baf491cf5bf4fb43f5a8c7]; and
+- (g) food to which Commission Regulation 589/2008 and Regulation 1308/2013 apply[^c-86d1a26a14a48973a7b3e69c0540cc11].
 
 ### 4. Upward variation of the 8°C temperature by manufacturers etc.
 
@@ -130,29 +130,29 @@ will be guilty of an offence.
 
 In this Schedule—
 
-- “Commission Regulation 543/2008” (“[^key-eb8e9803ec11e4f69694402feb471c25]*Rheoliad y Comisiwn 543/2008*”) means [Commission Regulation (EC) No 543/2008](https://www.legislation.gov.uk/eur/2008/0543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards the marketing standards for poultrymeat;
+- “Commission Regulation 543/2008” (“[^c-eb8e9803ec11e4f69694402feb471c25]*Rheoliad y Comisiwn 543/2008*”) means [Commission Regulation (EC) No 543/2008](https://www.legislation.gov.uk/eur/2008/0543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards the marketing standards for poultrymeat;
 - “Commission Regulation 589/2008” (“[^M_F_3a06045b-5f86-4797-fc24-ebf77546c4d9]*Rheoliad y Comisiwn 589/2008*”) means [Commission Regulation (EC) No 589/2008](https://www.legislation.gov.uk/eur/2008/0589) laying down detailed rules for implementing Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs;
-- [^key-d9bad2d73503c430b8f9c640145e0578]...
-- [^key-d9bad2d73503c430b8f9c640145e0578]...
+- [^c-d9bad2d73503c430b8f9c640145e0578]...
+- [^c-d9bad2d73503c430b8f9c640145e0578]...
 - “**recommended temperature**” (“***tymheredd a argymhellwyd***”) means a specified temperature which has been recommended in accordance with sub-paragraph (1)(a)(i) of paragraph 4; and
 - “Regulation 1308/2013” (“[^M_F_8d3f9855-9ffe-4fb1-e3e8-7a1550b17608]*Rheoliad 1308/2013*”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/eur/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/eur/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/eur/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234);
 - “**shelf life**” (“***oes silff***”) means—
-  - (a) in relation to food for which a date of minimum durability is required in accordance with Article 9(1)(f) of Regulation ([^key-97f2eb1560713b3b7280f529a0c8073c]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required date of minimum durability;
+  - (a) in relation to food for which a date of minimum durability is required in accordance with Article 9(1)(f) of Regulation ([^c-97f2eb1560713b3b7280f529a0c8073c]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required date of minimum durability;
   - (b) in relation to food for which a “use by” date is required in accordance with Article 9(1)(f) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required “use by” date; and
   - (c) in relation to food which is not required to bear an indication of minimum durability or a “use by” date, the period for which the food can be expected to remain fit for sale if it is kept in a manner which is consistent with food safety.
 
 ## Annotations
 
-[^key-7cb67d2b29baf491cf5bf4fb43f5a8c7]: Textual amendment: Words in Sch. 4 para. 3(f) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(a)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/a/i)
+[^c-7cb67d2b29baf491cf5bf4fb43f5a8c7]: Textual amendment: Words in Sch. 4 para. 3(f) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(a)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/a/i)
 
-[^key-86d1a26a14a48973a7b3e69c0540cc11]: Textual amendment: Words in Sch. 4 para. 3(g) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/a/ii)
+[^c-86d1a26a14a48973a7b3e69c0540cc11]: Textual amendment: Words in Sch. 4 para. 3(g) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/a/ii)
 
-[^key-eb8e9803ec11e4f69694402feb471c25]: Textual amendment: Words in Sch. 4 para. 8 inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/b/ii)
+[^c-eb8e9803ec11e4f69694402feb471c25]: Textual amendment: Words in Sch. 4 para. 8 inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/b/ii)
 
 [^M_F_3a06045b-5f86-4797-fc24-ebf77546c4d9]: Textual amendment: Words in Sch. 4 para. 8 inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/b/ii)
 
-[^key-d9bad2d73503c430b8f9c640145e0578]: Textual amendment: Words in Sch. 4 para. 8 omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(b)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/b/i)
+[^c-d9bad2d73503c430b8f9c640145e0578]: Textual amendment: Words in Sch. 4 para. 8 omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(b)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/b/i)
 
 [^M_F_8d3f9855-9ffe-4fb1-e3e8-7a1550b17608]: Textual amendment: Words in Sch. 4 para. 8 inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(8)(b)(ii)(cc)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/8/b/ii)
 
-[^key-97f2eb1560713b3b7280f529a0c8073c]: Textual amendment: Words in Sch. 4 para. 8 substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 41](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/41)
+[^c-97f2eb1560713b3b7280f529a0c8073c]: Textual amendment: Words in Sch. 4 para. 8 substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 41](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/41)

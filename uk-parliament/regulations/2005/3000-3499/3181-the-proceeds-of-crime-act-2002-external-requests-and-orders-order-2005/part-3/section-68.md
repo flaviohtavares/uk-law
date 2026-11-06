@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Conditions for the court to give effect to external orders[^key-e075612d4d1a7e6e8de586f19ae73e20]
+## 68. Conditions for the court to give effect to external orders[^c-e075612d4d1a7e6e8de586f19ae73e20]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e075612d4d1a7e6e8de586f19ae73e20]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2005/3181/article/68) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-e075612d4d1a7e6e8de586f19ae73e20]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2005/3181/article/68) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00047]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 

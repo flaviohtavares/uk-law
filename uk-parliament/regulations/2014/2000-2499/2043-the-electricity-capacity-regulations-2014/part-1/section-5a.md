@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5A. "Interconnector CMU"[^key-9be587871af59a75adc1d5d78a0550ed]
+## 5A. "Interconnector CMU"[^c-9be587871af59a75adc1d5d78a0550ed]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9be587871af59a75adc1d5d78a0550ed]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/5A) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/2)
+[^c-9be587871af59a75adc1d5d78a0550ed]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/5A) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/2)

@@ -44,13 +44,13 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 Regulations 3 and 4 are made with the consent of the Department of Finance[^f00007].
 
-## 1. Citation, commencement and interpretation[^key-f26237fdf85e30f24476160c53842fa1]
+## 1. Citation, commencement and interpretation[^c-f26237fdf85e30f24476160c53842fa1]
 
 (1) These Regulations may be cited as the Universal Credit, Housing Benefit, Employment and Support Allowance and State Pension Credit (Carer’s Allowance Reassessment Capital Disregard) (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 16th July 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the State Pension Credit Regulations[^key-8c5a7761bcf54b24e280ba5154082692]
+## 2. Amendment of the State Pension Credit Regulations[^c-8c5a7761bcf54b24e280ba5154082692]
 
 After paragraph 20AA of Schedule 5 to the State Pension Credit Regulations (Northern Ireland) 2003[^f00009] (income from capital), insert—
 
@@ -58,7 +58,7 @@ After paragraph 20AA of Schedule 5 to the State Pension Credit Regulations (Nort
 
 .
 
-## 3. Amendment of the Housing Benefit Regulations[^key-8d7f1c9a5e0435558e8a8d659482f32a]
+## 3. Amendment of the Housing Benefit Regulations[^c-8d7f1c9a5e0435558e8a8d659482f32a]
 
 After paragraph 9A of Schedule 7 to the Housing Benefit Regulations (Northern Ireland) 2006[^f00011] (capital to be disregarded), insert—
 
@@ -66,7 +66,7 @@ After paragraph 9A of Schedule 7 to the Housing Benefit Regulations (Northern Ir
 
 .
 
-## 4. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-c2e572c263643a824e0c2dbcfb755896]
+## 4. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-c2e572c263643a824e0c2dbcfb755896]
 
 After paragraph 22A of Schedule 7 to the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00012] (capital to be disregarded), insert—
 
@@ -74,7 +74,7 @@ After paragraph 22A of Schedule 7 to the Housing Benefit (Persons who have attai
 
 .
 
-## 5. Amendment of the Employment and Support Allowance Regulations[^key-c205a0729073a434a7d2fc8a27fce7f5]
+## 5. Amendment of the Employment and Support Allowance Regulations[^c-c205a0729073a434a7d2fc8a27fce7f5]
 
 After paragraph 11A of Schedule 9 to the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00013] (capital to be disregarded), insert—
 
@@ -82,7 +82,7 @@ After paragraph 11A of Schedule 9 to the Employment and Support Allowance Regula
 
 .
 
-## 6. Amendment of the Universal Credit Regulations[^key-28b88e6567d42a460f377a4876e1738e]
+## 6. Amendment of the Universal Credit Regulations[^c-28b88e6567d42a460f377a4876e1738e]
 
 After paragraph 18ZA of Schedule 10 to the Universal Credit Regulations (Northern Ireland) 2016[^f00014] (capital to be disregarded), insert—
 
@@ -134,28 +134,28 @@ These Regulations make provision for Northern Ireland only corresponding to prov
 
 [^f00007]: Footnote: See section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-f26237fdf85e30f24476160c53842fa1]: Commencement: Reg. 1 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
+[^c-f26237fdf85e30f24476160c53842fa1]: Commencement: Reg. 1 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8c5a7761bcf54b24e280ba5154082692]: Commencement: Reg. 2 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
+[^c-8c5a7761bcf54b24e280ba5154082692]: Commencement: Reg. 2 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); paragraph 20AA was inserted by Article 10 and paragraph 6(a) of the Schedule to [S.I. 2023/134](https://www.legislation.gov.uk/uksi/2023/134)
 
 [^f00010]: Footnote: https://www.gov.uk/government/publications/review-of-carers-allowance-overpayments/independent-review-of-carers-allowance-overpayments. A printed copy of the report can be obtained from the Department for Work and Pensions at Caxton House, Tothill Street, London, SW1H 9NA.
 
-[^key-8d7f1c9a5e0435558e8a8d659482f32a]: Commencement: Reg. 3 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
+[^c-8d7f1c9a5e0435558e8a8d659482f32a]: Commencement: Reg. 3 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); paragraph 9A was inserted by regulation 5(12)(a) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108)
 
-[^key-c2e572c263643a824e0c2dbcfb755896]: Commencement: Reg. 4 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
+[^c-c2e572c263643a824e0c2dbcfb755896]: Commencement: Reg. 4 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); paragraph 22A was inserted by Article 10 and paragraph 10(a) of the Schedule to [S.I. 2023/134](https://www.legislation.gov.uk/uksi/2023/134)
 
-[^key-c205a0729073a434a7d2fc8a27fce7f5]: Commencement: Reg. 5 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
+[^c-c205a0729073a434a7d2fc8a27fce7f5]: Commencement: Reg. 5 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); to which there are amendments not relevant to these Regulations
 
-[^key-28b88e6567d42a460f377a4876e1738e]: Commencement: Reg. 6 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
+[^c-28b88e6567d42a460f377a4876e1738e]: Commencement: Reg. 6 in operation at 16.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/146/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216); paragraph 18ZA was inserted by Article 10 and paragraph 14(a) of the Schedule to [S.I. 2023/134](https://www.legislation.gov.uk/uksi/2023/134)

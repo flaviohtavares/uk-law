@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.81A. Lodging restricted evidence[^key-7c7d8e2322390e99497b19e05cd3c07a]
+## 3.81A. Lodging restricted evidence[^c-7c7d8e2322390e99497b19e05cd3c07a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c7d8e2322390e99497b19e05cd3c07a]: Textual amendment: Rule 3.81A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(66)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/66) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-7c7d8e2322390e99497b19e05cd3c07a]: Textual amendment: Rule 3.81A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(66)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/66) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

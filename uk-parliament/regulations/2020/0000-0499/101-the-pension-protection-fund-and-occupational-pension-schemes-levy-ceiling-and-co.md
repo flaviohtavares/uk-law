@@ -48,7 +48,7 @@ In accordance with section 178(5) of that Act, the Secretary of State has review
 
 On a review under section 148(2) of the Social Security Administration Act 1992 [^c23972141], the Secretary of State concluded that the general level of earnings obtaining in Great Britain exceeds by 3.6% the general level at the end of the period taken into account for the last such review under that section.
 
-## 1. Citation, commencement and interpretation[^key-cabd99cce0bd1a8769ff6f925684c4eb]
+## 1. Citation, commencement and interpretation[^c-cabd99cce0bd1a8769ff6f925684c4eb]
 
 (1) This Order may be cited as the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2020.
 
@@ -60,19 +60,19 @@ On a review under section 148(2) of the Social Security Administration Act 1992 
 
 (5) In this Order, “**the Act**” means the Pensions Act 2004.
 
-## 2. The earnings percentage[^key-6334726635391fdcf6c8066490f0e419]
+## 2. The earnings percentage[^c-6334726635391fdcf6c8066490f0e419]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The levy ceiling[^key-ade96303457c67e31a94daddef547d48]
+## 3. The levy ceiling[^c-ade96303457c67e31a94daddef547d48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The compensation cap[^key-8eda205efe3e30f29aae74a9b658752e]
+## 4. The compensation cap[^c-8eda205efe3e30f29aae74a9b658752e]
 
 The amount specified for the purposes of paragraph (a) of the definition of “the standard amount” in paragraph 26A(7) of Schedule 7 to the Act (pension compensation provisions – meaning of “the compensation cap”) is £41,461.07.
 
-## 5. Revocation[^key-376b0a62bf71d963f2c521b5b48cfceb]
+## 5. Revocation[^c-376b0a62bf71d963f2c521b5b48cfceb]
 
 The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2019 [^c23972161] is revoked.
 
@@ -108,14 +108,14 @@ This Order amends an existing regulatory regime by a pre-determined formula and 
 
 [^c23972141]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 148(2) was amended by section 37 of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). Paragraph 27(2) of Schedule 7 to the Pensions Act 2004 requires the Secretary of State to make an order increasing the standard amount specified for the purposes of paragraph 26A(7) of that Schedule where on a review under section 148(2) in a tax year, the Secretary of State concludes that the general level of earnings in Great Britain has increased over the relevant period.
 
-[^key-cabd99cce0bd1a8769ff6f925684c4eb]: Commencement: Art. 1 in force at 12.3.2020, see art. 1(2)
+[^c-cabd99cce0bd1a8769ff6f925684c4eb]: Commencement: Art. 1 in force at 12.3.2020, see art. 1(2)
 
-[^key-6334726635391fdcf6c8066490f0e419]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2020/101/article/2) revoked (1.4.2021) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2021 (S.I. 2021/93)](https://www.legislation.gov.uk/uksi/2021/93), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/93/article/1/3), [3](https://www.legislation.gov.uk/uksi/2021/93/article/3)
+[^c-6334726635391fdcf6c8066490f0e419]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2020/101/article/2) revoked (1.4.2021) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2021 (S.I. 2021/93)](https://www.legislation.gov.uk/uksi/2021/93), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/93/article/1/3), [3](https://www.legislation.gov.uk/uksi/2021/93/article/3)
 
-[^key-ade96303457c67e31a94daddef547d48]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/101/article/3) revoked (1.4.2021) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2021 (S.I. 2021/93)](https://www.legislation.gov.uk/uksi/2021/93), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/93/article/1/3), [3](https://www.legislation.gov.uk/uksi/2021/93/article/3)
+[^c-ade96303457c67e31a94daddef547d48]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/101/article/3) revoked (1.4.2021) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2021 (S.I. 2021/93)](https://www.legislation.gov.uk/uksi/2021/93), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/93/article/1/3), [3](https://www.legislation.gov.uk/uksi/2021/93/article/3)
 
-[^key-8eda205efe3e30f29aae74a9b658752e]: Commencement: Art. 4 in force at 1.4.2020, see art. 1(4)
+[^c-8eda205efe3e30f29aae74a9b658752e]: Commencement: Art. 4 in force at 1.4.2020, see art. 1(4)
 
-[^key-376b0a62bf71d963f2c521b5b48cfceb]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/101/article/5) in force at 1.4.2020, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2020/101/article/1/4)
+[^c-376b0a62bf71d963f2c521b5b48cfceb]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/101/article/5) in force at 1.4.2020, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2020/101/article/1/4)
 
 [^c23972161]: Marginal citation: [S.I. 2019/159](https://www.legislation.gov.uk/uksi/2019/159).

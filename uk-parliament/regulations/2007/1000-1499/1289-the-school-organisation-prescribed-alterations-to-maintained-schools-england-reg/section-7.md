@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Land transfers[^key-5cc141e4f1c23f2b2de1b90d8c0ab184]
+## 7. Land transfers[^c-5cc141e4f1c23f2b2de1b90d8c0ab184]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 has effect in relation to the transfer of land where a school changes
 
 ## Annotations
 
-[^key-5cc141e4f1c23f2b2de1b90d8c0ab184]: Commencement: Reg. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-5cc141e4f1c23f2b2de1b90d8c0ab184]: Commencement: Reg. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Energy and carbon report[^key-5672f5e9669c132bd5ffabd95bc526cc]
+## 12B. Energy and carbon report[^c-5672f5e9669c132bd5ffabd95bc526cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -157,7 +157,7 @@ Sections 415, 415A, 416 and 419 apply to LLPs, modified so that they read as fol
 >   - (x) in paragraph 20E(3)(b), for the reference to “this Part of this Schedule”, substitute “Part 7A of Schedule 7 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008”;
 >   - (xi) for paragraph 20E(4), substitute “For the purpose of this paragraph, “quoted company” and “unquoted company” have the meanings given in section 385.”.
 >
-> **416A. Climate-related financial disclosures in the energy and carbon report[^key-59dc510e6453c831fb824300aaceff51]**
+> **416A. Climate-related financial disclosures in the energy and carbon report[^c-59dc510e6453c831fb824300aaceff51]**
 >
 > (1) The energy and carbon report of a large LLP for a financial year must set out climate-related financial disclosures.
 >
@@ -213,6 +213,6 @@ Sections 415, 415A, 416 and 419 apply to LLPs, modified so that they read as fol
 
 ## Annotations
 
-[^key-5672f5e9669c132bd5ffabd95bc526cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2008/1911/part/5A) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/1155/regulation/10)
+[^c-5672f5e9669c132bd5ffabd95bc526cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2008/1911/part/5A) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/1155/regulation/10)
 
-[^key-59dc510e6453c831fb824300aaceff51]: Textual amendment: Words in [reg. 12B](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12B) inserted (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/46/regulation/4)
+[^c-59dc510e6453c831fb824300aaceff51]: Textual amendment: Words in [reg. 12B](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12B) inserted (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/46/regulation/4)

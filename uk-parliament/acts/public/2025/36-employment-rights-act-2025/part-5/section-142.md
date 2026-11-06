@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Offence of obstruction[^key-1c8db0d8e6a7b940e4e59e1490c49f89][^key-d2d073dbeaabf93310b16fa376a21b6d]
+## 142. Offence of obstruction[^c-1c8db0d8e6a7b940e4e59e1490c49f89][^c-d2d073dbeaabf93310b16fa376a21b6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c8db0d8e6a7b940e4e59e1490c49f89]: Commencement: S. 142 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-1c8db0d8e6a7b940e4e59e1490c49f89]: Commencement: S. 142 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d2d073dbeaabf93310b16fa376a21b6d]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2025/36/section/142) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(43)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/43)
+[^c-d2d073dbeaabf93310b16fa376a21b6d]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2025/36/section/142) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(43)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/43)

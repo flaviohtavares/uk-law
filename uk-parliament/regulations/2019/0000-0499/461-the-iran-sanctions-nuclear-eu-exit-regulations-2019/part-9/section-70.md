@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Interpretation of Part 9[^key-2fe1a2d020e5ed03367c62bb5d4b8d55][^key-ef2d4e3226c0237f8e1531fccb8e7296]
+## 70. Interpretation of Part 9[^c-2fe1a2d020e5ed03367c62bb5d4b8d55][^c-ef2d4e3226c0237f8e1531fccb8e7296]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fe1a2d020e5ed03367c62bb5d4b8d55]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-2fe1a2d020e5ed03367c62bb5d4b8d55]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-ef2d4e3226c0237f8e1531fccb8e7296]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2019/461/regulation/70) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef2d4e3226c0237f8e1531fccb8e7296]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2019/461/regulation/70) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

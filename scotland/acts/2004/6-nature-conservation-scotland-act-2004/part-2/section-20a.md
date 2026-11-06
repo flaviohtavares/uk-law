@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20A. Restoration notices[^key-bcaa12f96d13bad715ee638218a37e6c]
+## 20A. Restoration notices[^c-bcaa12f96d13bad715ee638218a37e6c]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcaa12f96d13bad715ee638218a37e6c]: Textual amendment: S. 20A and cross-heading inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(1)(a)](https://www.legislation.gov.uk/asp/2011/6/section/40/1/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
+[^c-bcaa12f96d13bad715ee638218a37e6c]: Textual amendment: S. 20A and cross-heading inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(1)(a)](https://www.legislation.gov.uk/asp/2011/6/section/40/1/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)

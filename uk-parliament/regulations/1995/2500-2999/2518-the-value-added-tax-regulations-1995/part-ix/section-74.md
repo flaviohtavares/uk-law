@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Supplies under Schedule 8, Group 12[^key-8b85bb121079865bc8cf0ee8a0d135df]
+## 74. Supplies under Schedule 8, Group 12[^c-8b85bb121079865bc8cf0ee8a0d135df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b85bb121079865bc8cf0ee8a0d135df]: Textual amendment: [Regs. 73, 74](https://www.legislation.gov.uk/uksi/1995/2518/regulation/73) revoked (1.11.1997) by [The Value Added Tax (Amendment) (No. 4) Regulations 1997 (S.I. 1997/2437)](https://www.legislation.gov.uk/uksi/1997/2437), [regs. 1](https://www.legislation.gov.uk/uksi/1997/2437/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/2437/regulation/2)
+[^c-8b85bb121079865bc8cf0ee8a0d135df]: Textual amendment: [Regs. 73, 74](https://www.legislation.gov.uk/uksi/1995/2518/regulation/73) revoked (1.11.1997) by [The Value Added Tax (Amendment) (No. 4) Regulations 1997 (S.I. 1997/2437)](https://www.legislation.gov.uk/uksi/1997/2437), [regs. 1](https://www.legislation.gov.uk/uksi/1997/2437/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/2437/regulation/2)

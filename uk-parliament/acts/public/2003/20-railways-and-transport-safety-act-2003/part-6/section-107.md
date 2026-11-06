@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Road traffic: testing for drink and drugs[^key-730391a302547e4865cb1941d062c787][^key-3f677cb4e1bc219dce457f1d0763e31f]
+## 107. Road traffic: testing for drink and drugs[^c-730391a302547e4865cb1941d062c787][^c-3f677cb4e1bc219dce457f1d0763e31f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 7 shall have effect.
 
 ## Annotations
 
-[^key-730391a302547e4865cb1941d062c787]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2003/20/section/107) in force at 29.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/827/article/2/a)
+[^c-730391a302547e4865cb1941d062c787]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2003/20/section/107) in force at 29.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/827/article/2/a)
 
-[^key-3f677cb4e1bc219dce457f1d0763e31f]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2003/20/section/107) in force at 30.3.2004 in so far as not already in force by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2004/827/article/3/bb)
+[^c-3f677cb4e1bc219dce457f1d0763e31f]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2003/20/section/107) in force at 30.3.2004 in so far as not already in force by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2004/827/article/3/bb)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 343A. Armed forces covenant report[^key-95b2ac701edc20c3d5e680ceb5b025fc]
+## 343A. Armed forces covenant report[^c-95b2ac701edc20c3d5e680ceb5b025fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

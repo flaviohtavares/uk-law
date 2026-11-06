@@ -29,7 +29,7 @@ summary: ''
 - (e) that a person has been convicted of an offence in respect of a contravention, in connection with the bingo club premises, of any of the provisions of this Part, or of any regulations made under it; or
 - (f) that the premises are not suitable for use as bingo club premises; or
 - (g) that gaming on the bingo club premises has not been properly conducted; or
-- (ga)[^key-096cdb80241aa8d5906aa1b82c9d97d7] that gaming on the bingo club premises has been conducted in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
+- (ga)[^c-096cdb80241aa8d5906aa1b82c9d97d7] that gaming on the bingo club premises has been conducted in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
 - (h) that the bingo club premises have been used for an unlawful purpose or as a resort of persons of known bad character; or
 - (i) [^c20359731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-096cdb80241aa8d5906aa1b82c9d97d7]: Textual amendment: [Art. 72(1)(ga)](https://www.legislation.gov.uk/nisi/1985/1204/article/72/1/ga) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(d)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/d), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-096cdb80241aa8d5906aa1b82c9d97d7]: Textual amendment: [Art. 72(1)(ga)](https://www.legislation.gov.uk/nisi/1985/1204/article/72/1/ga) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(d)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/d), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
 
 [^c20359731]: Textual amendment: [Art. 72(1)(i)](https://www.legislation.gov.uk/nisi/1985/1204/article/72/1/i) repealed (15.11.2010) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(2)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/2), [Sch. 4](https://www.legislation.gov.uk/nisi/2006/1254/schedule/4) (with [art. 62](https://www.legislation.gov.uk/nisi/2006/1254/article/62)); [S.R. 2010/328](https://www.legislation.gov.uk/nisr/2010/328), [art. 2](https://www.legislation.gov.uk/nisr/2010/328/article/2)

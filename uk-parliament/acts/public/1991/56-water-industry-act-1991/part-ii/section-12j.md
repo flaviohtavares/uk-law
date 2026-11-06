@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12J. Modification by the Secretary of State: special administration orders[^key-74c6b52c589fb5aaa45c765d21efd8fe]
+## 12J. Modification by the Secretary of State: special administration orders[^c-74c6b52c589fb5aaa45c765d21efd8fe]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74c6b52c589fb5aaa45c765d21efd8fe]: Textual amendment: Ss. 12J, 12K inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 14](https://www.legislation.gov.uk/ukpga/2025/5/section/14), [17(5)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/c)
+[^c-74c6b52c589fb5aaa45c765d21efd8fe]: Textual amendment: Ss. 12J, 12K inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 14](https://www.legislation.gov.uk/ukpga/2025/5/section/14), [17(5)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/c)

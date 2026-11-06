@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Conditions for High Court to give effect to external request[^key-c23bb6b54fadf3c1ad1e9d0c40178961]
+## 94. Conditions for High Court to give effect to external request[^c-c23bb6b54fadf3c1ad1e9d0c40178961]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) relevant property in Northern Ireland is identified in the external request;
 - (b) a criminal investigation has been started in the country from which the external request was made with regard to an offence, and
-- (c) there are reasonable grounds to suspect[^key-3b18977b96f5f2cb5fc36689ca96c62f] that the alleged offender named in the request has benefited from his criminal conduct.
+- (c) there are reasonable grounds to suspect[^c-3b18977b96f5f2cb5fc36689ca96c62f] that the alleged offender named in the request has benefited from his criminal conduct.
 
 (3) The second condition is that—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c23bb6b54fadf3c1ad1e9d0c40178961]: Commencement: [Art. 94](https://www.legislation.gov.uk/uksi/2005/3181/article/94) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-c23bb6b54fadf3c1ad1e9d0c40178961]: Commencement: [Art. 94](https://www.legislation.gov.uk/uksi/2005/3181/article/94) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-3b18977b96f5f2cb5fc36689ca96c62f]: Textual amendment: Words in [art. 94(2)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/94/2/c) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [21](https://www.legislation.gov.uk/uksi/2016/662/article/21)
+[^c-3b18977b96f5f2cb5fc36689ca96c62f]: Textual amendment: Words in [art. 94(2)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/94/2/c) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [21](https://www.legislation.gov.uk/uksi/2016/662/article/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11A — Stamp duty land tax: claims not included in returns[^key-c7c55ab2dd3eab6001202d64cebc9a35][^key-dc64810d9950ddf051a11a735af68b28][^key-4692d65b9848391a4c24ed56d45d648e][^key-3de89b06c51cf28878b1179efdeb9aea]
+## SCHEDULE 11A — Stamp duty land tax: claims not included in returns[^c-c7c55ab2dd3eab6001202d64cebc9a35][^c-dc64810d9950ddf051a11a735af68b28][^c-4692d65b9848391a4c24ed56d45d648e][^c-3de89b06c51cf28878b1179efdeb9aea]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,11 +53,11 @@ Section 82A
 - (b) where there is an enquiry into the claim, or into an amendment of the claim, the time when the enquiry is completed;
 - (c) where the claim is amended and there is there is no enquiry into the amendment, the time when the Inland Revenue no longer have power to enquire into the amendment.
 
-(3)[^key-f411ac45e4a8b902158333401a816972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f411ac45e4a8b902158333401a816972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f411ac45e4a8b902158333401a816972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f411ac45e4a8b902158333401a816972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-9ed9680d7aafc26dad50303930a52adf] The Commissioners for Her Majesty's Revenue and Customs may by regulations—
+(4A)[^c-9ed9680d7aafc26dad50303930a52adf] The Commissioners for Her Majesty's Revenue and Customs may by regulations—
 
 - (a) provide that the records required to be kept and preserved under this paragraph include, or do not include, records specified in the regulations, and
 - (b) provide that those records include supporting documents so specified.
@@ -70,7 +70,7 @@ Section 82A
 
 (6) No penalty is incurred if the Inland Revenue are satisfied that any facts that they reasonably require to be proved, and that would have been proved by the records, are proved by other documentary evidence provided to them.
 
-### Preservation of information etc[^key-d86233e1847ab20a5d7b3963ab6fc222]
+### Preservation of information etc[^c-d86233e1847ab20a5d7b3963ab6fc222]
 
 **3A.** The duty under paragraph 3 to preserve records may be satisfied—
 
@@ -122,15 +122,15 @@ subject to any conditions or exceptions specified in writing by the Commissioner
 
 ### Notice to produce documents etc for purposes of enquiry
 
-**8.**[^key-ec3fec1ab7b5008afc1bebab4afe9489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ec3fec1ab7b5008afc1bebab4afe9489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Appeal against notice to produce documents etc
 
-**9.**[^key-ec3fec1ab7b5008afc1bebab4afe9489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ec3fec1ab7b5008afc1bebab4afe9489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Penalty for failure to produce documents etc
 
-**10.**[^key-ec3fec1ab7b5008afc1bebab4afe9489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ec3fec1ab7b5008afc1bebab4afe9489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Completion of enquiry
 
@@ -176,7 +176,7 @@ In the case of an enquiry into an amendment of a claim, paragraph (b) applies on
 
 (4)[^M_F_20fde38f-917f-4a1a-9e79-1eb01994a958] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Paragraphs 36A to 37[^M_F_4c481288-9471-45f9-f91c-c0c92e60cb7b] , 44 and 45[^key-579f15d540f95efae1da24c2930be4b0] of Schedule 10 [^key-3f58ec0520e129fdc99b13db2adf7e0c]... applies in relation to an appeal under this paragraph as they apply[^M_F_e51e2c1d-9878-47ad-cf8c-c76d46237e2f] in relation to an appeal under paragraph 35 of that Schedule.
+(5) Paragraphs 36A to 37[^M_F_4c481288-9471-45f9-f91c-c0c92e60cb7b] , 44 and 45[^c-579f15d540f95efae1da24c2930be4b0] of Schedule 10 [^c-3f58ec0520e129fdc99b13db2adf7e0c]... applies in relation to an appeal under this paragraph as they apply[^M_F_e51e2c1d-9878-47ad-cf8c-c76d46237e2f] in relation to an appeal under paragraph 35 of that Schedule.
 
 (6) On an appeal against an amendment made by a closure notice, the tribunal[^M_F_2045cc27-703e-4489-c278-4bf3efe5b688] may vary the amendment appealed against whether or not the variation is to the advantage of the appellant.
 
@@ -188,21 +188,21 @@ In the case of an enquiry into an amendment of a claim, paragraph (b) applies on
 
 ## Annotations
 
-[^key-c7c55ab2dd3eab6001202d64cebc9a35]: Modification: Sch. 11A applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 210(6)(e)](https://www.legislation.gov.uk/ukpga/2013/29/section/210/6/e)
+[^c-c7c55ab2dd3eab6001202d64cebc9a35]: Modification: Sch. 11A applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 210(6)(e)](https://www.legislation.gov.uk/ukpga/2013/29/section/210/6/e)
 
-[^key-dc64810d9950ddf051a11a735af68b28]: Modification: Sch. 11A applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 33 para. 28(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/33/paragraph/28/2)
+[^c-dc64810d9950ddf051a11a735af68b28]: Modification: Sch. 11A applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 33 para. 28(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/33/paragraph/28/2)
 
-[^key-4692d65b9848391a4c24ed56d45d648e]: Modification: Sch. 11A applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 33 para. 31(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/33/paragraph/31/3)
+[^c-4692d65b9848391a4c24ed56d45d648e]: Modification: Sch. 11A applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 33 para. 31(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/33/paragraph/31/3)
 
-[^key-3de89b06c51cf28878b1179efdeb9aea]: Textual amendment: Sch. 11A inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 40](https://www.legislation.gov.uk/ukpga/2004/12/schedule/40)
+[^c-3de89b06c51cf28878b1179efdeb9aea]: Textual amendment: Sch. 11A inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 40](https://www.legislation.gov.uk/ukpga/2004/12/schedule/40)
 
-[^key-f411ac45e4a8b902158333401a816972]: Textual amendment: Sch. 11A para. 3(3)(4) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 13(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/13/2); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-f411ac45e4a8b902158333401a816972]: Textual amendment: Sch. 11A para. 3(3)(4) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 13(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/13/2); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-9ed9680d7aafc26dad50303930a52adf]: Textual amendment: Sch. 11A para. 3(4A)-(4C) inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 13(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/13/3); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-9ed9680d7aafc26dad50303930a52adf]: Textual amendment: Sch. 11A para. 3(4A)-(4C) inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 13(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/13/3); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-d86233e1847ab20a5d7b3963ab6fc222]: Textual amendment: Sch. 11A para. 3A and cross-heading inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 14](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/14); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-d86233e1847ab20a5d7b3963ab6fc222]: Textual amendment: Sch. 11A para. 3A and cross-heading inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 14](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/14); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-ec3fec1ab7b5008afc1bebab4afe9489]: Textual amendment: Sch. 11A paras. 8-10 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(5)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/5) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2009/3054/article/7/3))
+[^c-ec3fec1ab7b5008afc1bebab4afe9489]: Textual amendment: Sch. 11A paras. 8-10 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(5)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/5) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2009/3054/article/7/3))
 
 [^M_F_f0cea951-3577-4a37-fb64-faa40d891a63]: Textual amendment: Word in Sch. 11A para. 12(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), art. 1(2), Sch. 1 para. 398(2)
 
@@ -216,9 +216,9 @@ In the case of an enquiry into an amendment of a claim, paragraph (b) applies on
 
 [^M_F_4c481288-9471-45f9-f91c-c0c92e60cb7b]: Textual amendment: Words in Sch. 11A para. 14(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), art. 1(2), Sch. 1 para. 399(3)(a)
 
-[^key-579f15d540f95efae1da24c2930be4b0]: Textual amendment: Words in Sch. 11A para. 14(5) substituted (with effect in accordance with s. 28(2) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 5(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/5/a)
+[^c-579f15d540f95efae1da24c2930be4b0]: Textual amendment: Words in Sch. 11A para. 14(5) substituted (with effect in accordance with s. 28(2) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 5(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/5/a)
 
-[^key-3f58ec0520e129fdc99b13db2adf7e0c]: Textual amendment: Words in Sch. 11A para. 14(5) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 5(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/5/b)
+[^c-3f58ec0520e129fdc99b13db2adf7e0c]: Textual amendment: Words in Sch. 11A para. 14(5) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 5(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/5/b)
 
 [^M_F_e51e2c1d-9878-47ad-cf8c-c76d46237e2f]: Textual amendment: Words in Sch. 11A para. 14(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), art. 1(2), Sch. 1 para. 399(3)(b)
 

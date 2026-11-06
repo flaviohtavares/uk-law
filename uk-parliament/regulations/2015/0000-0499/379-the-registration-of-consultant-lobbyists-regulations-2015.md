@@ -46,7 +46,7 @@ Coming into force
 
 The Lord President of the Council makes these Regulations in exercise of the powers conferred by sections 4(5), 9(3), 22(2), 23(2) and (3), and 24(2) of the Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014[^f00001].
 
-## 1. Citation, extent and interpretation[^key-1fb949d6897b8cc65bb0bc66e555c18f]
+## 1. Citation, extent and interpretation[^c-1fb949d6897b8cc65bb0bc66e555c18f]
 
 (1) These Regulations may be cited as the Registration of Consultant Lobbyists Regulations 2015.
 
@@ -56,7 +56,7 @@ The Lord President of the Council makes these Regulations in exercise of the pow
 
 (4) These Regulations come into force on 1st April 2015.
 
-## 2. Form of application to be entered in the register[^key-3345df9babe8977bb2fc04c156231e0c]
+## 2. Form of application to be entered in the register[^c-3345df9babe8977bb2fc04c156231e0c]
 
 An application to be entered in the register of consultant lobbyists kept under section 4 (the register) must be made in writing and must contain the following information—
 
@@ -71,11 +71,11 @@ An application to be entered in the register of consultant lobbyists kept under 
   - (ii) if so, where a copy of the code may be inspected; and
 - (f) if the person received payment in the pre-registration quarter[^f00002] to engage in lobbying, the name of the person or persons on whose behalf lobbying was or is to be done.
 
-## 3. Form of information return[^key-8217d6b8d5cc1be31a18d2f665f773f5]
+## 3. Form of information return[^c-8217d6b8d5cc1be31a18d2f665f773f5]
 
 An information return required under section 5(1) (notification of client information and changes) must be made in writing.
 
-## 4. Limitations on duty to supply information[^key-1fb4fd10730c9050fe76937b08d60e0e]
+## 4. Limitations on duty to supply information[^c-1fb4fd10730c9050fe76937b08d60e0e]
 
 (1) The Registrar may not require a person to supply under section 9 (notice to supply information) any information in respect of—
 
@@ -84,15 +84,15 @@ An information return required under section 5(1) (notification of client inform
 
 (2) In this regulation references to the client of a professional legal adviser include references to any person representing such a client.
 
-## 5. Charges[^key-541cb5aaa11aff86f72213ba27f5915f]
+## 5. Charges[^c-541cb5aaa11aff86f72213ba27f5915f]
 
 (1) The charges which may be imposed under section 22(2) (charges) are—
 
 - (a) a charge of £12.50 in respect of processing each application to register;
-- (b) a charge of £12.50 in respect of processing each information return submitted under section 5(1)[^key-4e157d0cb07c8ee39094ef789482875f];
+- (b) a charge of £12.50 in respect of processing each information return submitted under section 5(1)[^c-4e157d0cb07c8ee39094ef789482875f];
 - (c) an annual charge of P per registered consultant lobbyist in connection with the maintenance of the register, where—
-  - (i)[^key-be90e67a5c278f25850f3d1c4a84765c] in the consultant lobbyist’s first year of registration [formula: This is a formula that provides the P is equal to the yearly charge times by the sum of N divded by 365.](https://www.legislation.gov.uk/uksi/2015/379); and
-  - (ii)[^key-be90e67a5c278f25850f3d1c4a84765c] in any other year of registration [formula: P=700](https://www.legislation.gov.uk/uksi/2015/379),
+  - (i)[^c-be90e67a5c278f25850f3d1c4a84765c] in the consultant lobbyist’s first year of registration [formula: This is a formula that provides the P is equal to the yearly charge times by the sum of N divded by 365.](https://www.legislation.gov.uk/uksi/2015/379); and
+  - (ii)[^c-be90e67a5c278f25850f3d1c4a84765c] in any other year of registration [formula: P=700](https://www.legislation.gov.uk/uksi/2015/379),
 
   with N being the number of days remaining until 31st December starting on the day on which the consultant lobbyist is added to the register.
 
@@ -110,7 +110,7 @@ An information return required under section 5(1) (notification of client inform
 
 (5) No refund is due if *R* is equal to or less than zero.
 
-## 6. Supply of information regarding VAT registration[^key-88b028b2fad8b77753537fc6252dffc7]
+## 6. Supply of information regarding VAT registration[^c-88b028b2fad8b77753537fc6252dffc7]
 
 On request from the Registrar, the Commissioners for Her Majesty’s Revenue and Customs may supply the Registrar with—
 
@@ -148,24 +148,24 @@ A regulatory impact assessment has been prepared as to the likely cost and benef
 
 [^f00001]: Footnote: [2014 c.4](https://www.legislation.gov.uk/ukpga/2014/4). “The Minister” is defined in section 25(1) to include the Lord President of the Council.
 
-[^key-1fb949d6897b8cc65bb0bc66e555c18f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/379/regulation/1) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
+[^c-1fb949d6897b8cc65bb0bc66e555c18f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/379/regulation/1) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
 
-[^key-3345df9babe8977bb2fc04c156231e0c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/379/regulation/2) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
+[^c-3345df9babe8977bb2fc04c156231e0c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/379/regulation/2) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
 
 [^f00002]: Footnote: “The pre-registration quarter” is defined in section 4(4) to mean the period of three months ending on the date on which the person applied to be on the register.
 
-[^key-8217d6b8d5cc1be31a18d2f665f773f5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/379/regulation/3) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
+[^c-8217d6b8d5cc1be31a18d2f665f773f5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/379/regulation/3) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
 
-[^key-1fb4fd10730c9050fe76937b08d60e0e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/379/regulation/4) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
+[^c-1fb4fd10730c9050fe76937b08d60e0e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/379/regulation/4) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
 
 [^f00003]: Footnote: “The Tribunal” is defined in section 25(1) to mean either the First-tier Tribunal or in any case where it is determined by or under Tribunal Procedure Rules that the appeal is to be heard by the Upper Tribunal, that tribunal.
 
-[^key-541cb5aaa11aff86f72213ba27f5915f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/379/regulation/5) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
+[^c-541cb5aaa11aff86f72213ba27f5915f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/379/regulation/5) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
 
-[^key-4e157d0cb07c8ee39094ef789482875f]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2015/379/regulation/5/1/b) substituted (28.7.2015) by [The Registration of Consultant Lobbyists (Amendment) Regulations 2015 (S.I. 2015/1477)](https://www.legislation.gov.uk/uksi/2015/1477), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1477/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/1477/regulation/2)
+[^c-4e157d0cb07c8ee39094ef789482875f]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2015/379/regulation/5/1/b) substituted (28.7.2015) by [The Registration of Consultant Lobbyists (Amendment) Regulations 2015 (S.I. 2015/1477)](https://www.legislation.gov.uk/uksi/2015/1477), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1477/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/1477/regulation/2)
 
-[^key-be90e67a5c278f25850f3d1c4a84765c]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2015/379/regulation/5/1/c) substituted (1.1.2016) by [The Registration of Consultant Lobbyists (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1998)](https://www.legislation.gov.uk/uksi/2015/1998), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1998/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/1998/regulation/2)
+[^c-be90e67a5c278f25850f3d1c4a84765c]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2015/379/regulation/5/1/c) substituted (1.1.2016) by [The Registration of Consultant Lobbyists (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1998)](https://www.legislation.gov.uk/uksi/2015/1998), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1998/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/1998/regulation/2)
 
-[^key-88b028b2fad8b77753537fc6252dffc7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/379/regulation/6) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
+[^c-88b028b2fad8b77753537fc6252dffc7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/379/regulation/6) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/379/regulation/1/4)
 
 [^f00004]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Delegation[^key-f5d572869efa30b441fd7b3095158172]
+## 5. Delegation[^c-f5d572869efa30b441fd7b3095158172]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may delegate any functions under these Regulations, inclu
 
 ## Annotations
 
-[^key-f5d572869efa30b441fd7b3095158172]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/19/regulation/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-f5d572869efa30b441fd7b3095158172]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/19/regulation/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

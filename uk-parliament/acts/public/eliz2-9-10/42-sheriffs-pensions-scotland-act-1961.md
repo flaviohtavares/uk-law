@@ -37,7 +37,7 @@ An Act to amend the law with respect to the pensions attributable to the office 
 
 (1)[^c626511] The Treasury may, upon the recommendation of the Secretary of State, grant a pension in accordance with the following provisions of this Act to any person retiring from the office of sheriff or salaried sheriff-substitute who has completed 2 years[^c626512]’ service in that office; and for the purposes of this section “**sheriff**” means a sheriff who is restricted by the terms of his appointment from engaging in private practice.
 
-(1A)[^key-e57c991eece0ab6647badc59b960937f] This Act is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(1A)[^c-e57c991eece0ab6647badc59b960937f] This Act is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c626513]
 
@@ -121,7 +121,7 @@ he shall have a right of appeal to the Secretary of State.
 
 (4) The administrators shall be entitled to appear and be heard on any appeal under this section.
 
-(4A)[^key-fadbed44b120438962b3bd26f8e56a1c] Regulations under subsection (3) are to be made by statutory instrument.
+(4A)[^c-fadbed44b120438962b3bd26f8e56a1c] Regulations under subsection (3) are to be made by statutory instrument.
 
 (4B) A statutory instrument containing regulations under subsection (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -179,7 +179,7 @@ In section fourteen, for the words from “by” to “instalments” there shal
 
 [^c626512]: Textual amendment: Words substituted by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 83(1)(d)](https://www.legislation.gov.uk/ukpga/1990/41/section/83/1/d)
 
-[^key-e57c991eece0ab6647badc59b960937f]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/42/section/1/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/3) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/c)
+[^c-e57c991eece0ab6647badc59b960937f]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/42/section/1/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/3) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/c)
 
 [^c626513]: Textual amendment: S. 1(2) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
@@ -205,7 +205,7 @@ In section fourteen, for the words from “by” to “instalments” there shal
 
 [^c626527]: Textual amendment: S. 9A inserted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 24](https://www.legislation.gov.uk/ukpga/1993/8/section/24), [Sch. 3 Pt. II para. 4](https://www.legislation.gov.uk/ukpga/1993/8/schedule/3/part/II/paragraph/4); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art.2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-fadbed44b120438962b3bd26f8e56a1c]: Textual amendment: S. 9A(4A)-(4B) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-fadbed44b120438962b3bd26f8e56a1c]: Textual amendment: S. 9A(4A)-(4B) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
 
 [^c626528]: Textual amendment: Words in the definition of 'sheriff' in s. 10 repealed (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 31](https://www.legislation.gov.uk/ukpga/1993/8/section/31), [Sch.9](https://www.legislation.gov.uk/ukpga/1993/8/schedule/9); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art.2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 

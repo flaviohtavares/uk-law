@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Power to limit permits under section 19 or 22 to 5 years[^key-c9587f32478379374f9bd84d2f2d7e63]
+## 23A. Power to limit permits under section 19 or 22 to 5 years[^c-c9587f32478379374f9bd84d2f2d7e63]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9587f32478379374f9bd84d2f2d7e63]: Textual amendment: S. 23A inserted (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/60/1), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-c9587f32478379374f9bd84d2f2d7e63]: Textual amendment: S. 23A inserted (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/60/1), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)

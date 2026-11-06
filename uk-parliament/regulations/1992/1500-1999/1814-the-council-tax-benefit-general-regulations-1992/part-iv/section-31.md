@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Income treated as capital[^key-3e29475620b4579eaaed7db601c19b4b]
+## 31. Income treated as capital[^c-3e29475620b4579eaaed7db601c19b4b]
 
 *Extent: E+W+S*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (5) In the case of employment as an employed earner, any advance of earnings or any loan made by the claimant’s employer shall be treated as capital.
 
-(6) Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a payment which is made under the Trusts, the Fund , the Eileen Trust[^key-0a4ca4e3cb5378559137ea1c81ccb8ef] or the Independent Living Funds[^key-09b7b671014bbe9cd991a849579e7456], shall be treated as capital.
+(6) Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a payment which is made under the Trusts, the Fund , the Eileen Trust[^c-0a4ca4e3cb5378559137ea1c81ccb8ef] or the Independent Living Funds[^c-09b7b671014bbe9cd991a849579e7456], shall be treated as capital.
 
 ## Annotations
 
-[^key-3e29475620b4579eaaed7db601c19b4b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1992/1814/regulation/31) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-3e29475620b4579eaaed7db601c19b4b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1992/1814/regulation/31) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-0a4ca4e3cb5378559137ea1c81ccb8ef]: Textual amendment: Words in [reg. 31(6)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/31/6) inserted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(3)(b)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/3/b/made)
+[^c-0a4ca4e3cb5378559137ea1c81ccb8ef]: Textual amendment: Words in [reg. 31(6)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/31/6) inserted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(3)(b)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/3/b/made)
 
-[^key-09b7b671014bbe9cd991a849579e7456]: Textual amendment: Words in [reg. 31(6)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/31/6) substituted (22.4.1993) by [The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/963)](https://www.legislation.gov.uk/uksi/1993/963), [regs. 1](https://www.legislation.gov.uk/uksi/1993/963/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/3/made)[(4)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/4/made)
+[^c-09b7b671014bbe9cd991a849579e7456]: Textual amendment: Words in [reg. 31(6)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/31/6) substituted (22.4.1993) by [The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/963)](https://www.legislation.gov.uk/uksi/1993/963), [regs. 1](https://www.legislation.gov.uk/uksi/1993/963/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/3/made)[(4)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/4/made)

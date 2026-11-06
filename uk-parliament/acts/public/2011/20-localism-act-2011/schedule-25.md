@@ -22,7 +22,7 @@ summary: ''
 
 Section 237
 
-### PART 1 — General power of competence[^key-46456e4144d308fd679d4d506da6fea3]
+### PART 1 — General power of competence[^c-46456e4144d308fd679d4d506da6fea3]
 
 <table>
 <tbody>
@@ -36,7 +36,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 2 — Fire and rescue authorities[^key-b579f611a1984d9bce51766ee5aafe0e][^key-8c53bdfd35008c2c3e14248119c631e9]
+### PART 2 — Fire and rescue authorities[^c-b579f611a1984d9bce51766ee5aafe0e][^c-8c53bdfd35008c2c3e14248119c631e9]
 
 <table>
 <tbody>
@@ -47,14 +47,14 @@ Section 237
 </tbody>
 </table>
 
-### PART 3 — Other authorities[^key-35e886c68795c99c60b2508ac70e99af]
+### PART 3 — Other authorities[^c-35e886c68795c99c60b2508ac70e99af]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Transport Act 1968 (c. 73) | In section 10(1)(xxviii), the words “so far as not required for the purposes of their business”. |
 | Local Government Act 2003 (c. 26) | In section 93(7)(b), the “and” at the end. |
 
-### PART 4 — Local authority governance[^key-b16edebd013a76ce4b60ca079a9392cb][^key-d3c70c860388026982e87dfb3ab78d03][^key-e5217c11540c8ca905a4ca3fb46aec73]
+### PART 4 — Local authority governance[^c-b16edebd013a76ce4b60ca079a9392cb][^c-d3c70c860388026982e87dfb3ab78d03][^c-e5217c11540c8ca905a4ca3fb46aec73]
 
 <table>
 <tbody>
@@ -139,7 +139,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 5 — Standards[^key-27069d7aa78e44e608c93d905585db35][^key-5240946eca10c5cc01966e066bef2fdd][^key-7fb1ba11c7b89d83a13d2008d836142a]
+### PART 5 — Standards[^c-27069d7aa78e44e608c93d905585db35][^c-5240946eca10c5cc01966e066bef2fdd][^c-7fb1ba11c7b89d83a13d2008d836142a]
 
 <table>
 <tbody>
@@ -210,7 +210,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 7 — Petitions[^key-acb105351142d97d033a61a5e2c4bc07][^key-30e8405dd25eba453a49c8dfa5e79616]
+### PART 7 — Petitions[^c-acb105351142d97d033a61a5e2c4bc07][^c-30e8405dd25eba453a49c8dfa5e79616]
 
 <table>
 <tbody>
@@ -231,7 +231,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 9 — Business rate supplements[^key-62c887c2c71b70806f3bf96df52f6152][^key-3a1cf70241c3d8f2d800d7fccde7a654]
+### PART 9 — Business rate supplements[^c-62c887c2c71b70806f3bf96df52f6152][^c-3a1cf70241c3d8f2d800d7fccde7a654]
 
 <table>
 <tbody>
@@ -241,7 +241,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 10 — Non-domestic rates: discretionary relief[^key-27bd8eed51fe227a5de50e41e26ca664][^key-d3b842cb3c864c7524aea8870cb9af34]
+### PART 10 — Non-domestic rates: discretionary relief[^c-27bd8eed51fe227a5de50e41e26ca664][^c-d3b842cb3c864c7524aea8870cb9af34]
 
 <table>
 <tbody>
@@ -257,13 +257,13 @@ Section 237
 </tbody>
 </table>
 
-### PART 11 — Small business rate relief[^key-5b3126aad80ac14718b2f60fbeac2cb1]
+### PART 11 — Small business rate relief[^c-5b3126aad80ac14718b2f60fbeac2cb1]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Local Government Finance Act 1988 (c. 41) | In section 43—<br>- (a) subsection (4B)(a)(i) and (iii), and<br>- (b) subsection (4C). |
 
-### PART 12 — Council tax referendums[^key-cfe8d54c7e3d66e4bc11c0672dd8aca1]
+### PART 12 — Council tax referendums[^c-cfe8d54c7e3d66e4bc11c0672dd8aca1]
 
 <table>
 <tbody>
@@ -284,7 +284,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 13 — Council tax[^key-d4e83f9b46b0c2438b137390fd9bb660]
+### PART 13 — Council tax[^c-d4e83f9b46b0c2438b137390fd9bb660]
 
 <table>
 <tbody>
@@ -379,7 +379,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 18 — Neighbourhood planning[^key-fd3b87261a80784129781786c0d36dee]
+### PART 18 — Neighbourhood planning[^c-fd3b87261a80784129781786c0d36dee]
 
 <table>
 <tbody>
@@ -391,7 +391,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 19 — Unauthorised advertisements and defacement of premises[^key-b841c5e774c3d2a9814d59e28da137eb]
+### PART 19 — Unauthorised advertisements and defacement of premises[^c-b841c5e774c3d2a9814d59e28da137eb]
 
 <table>
 <tbody>
@@ -406,7 +406,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 20 — Abolition of Infrastructure Planning Commission[^key-c85446dd13c7ea9e22b8ae2437736173]
+### PART 20 — Abolition of Infrastructure Planning Commission[^c-c85446dd13c7ea9e22b8ae2437736173]
 
 <table>
 <tbody>
@@ -461,7 +461,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 21 — Nationally significant infrastructure projects[^key-237dd2ff79956fca94876b780e45522a]
+### PART 21 — Nationally significant infrastructure projects[^c-237dd2ff79956fca94876b780e45522a]
 
 <table>
 <tbody>
@@ -489,7 +489,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 23 — Housing tenure[^key-39b7b8b0c02fb78393fd385e2847d3ac]
+### PART 23 — Housing tenure[^c-39b7b8b0c02fb78393fd385e2847d3ac]
 
 <table>
 <tbody>
@@ -515,13 +515,13 @@ Section 237
 </tbody>
 </table>
 
-### PART 25 — Mutual exchange[^key-c3374b663db9c2d666839e502a351d4c]
+### PART 25 — Mutual exchange[^c-c3374b663db9c2d666839e502a351d4c]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Housing and Regeneration Act 2008 (c. 17) | In section 197(2), the word “or” at the end of paragraph (b). |
 
-### PART 26 — Office for Tenants and Social Landlords[^key-dc5bad7d5121d58d8cedcd72f82209e0]
+### PART 26 — Office for Tenants and Social Landlords[^c-dc5bad7d5121d58d8cedcd72f82209e0]
 
 <table>
 <tbody>
@@ -559,7 +559,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 27 — Regulation of social housing[^key-05014f9bbcb731179265994515942674]
+### PART 27 — Regulation of social housing[^c-05014f9bbcb731179265994515942674]
 
 <table>
 <tbody>
@@ -601,13 +601,13 @@ Section 237
 </tbody>
 </table>
 
-### PART 30 — Tenants' deposits[^key-a8d9e8e5652e5ee06bd6c3a6ac4bc163]
+### PART 30 — Tenants' deposits[^c-a8d9e8e5652e5ee06bd6c3a6ac4bc163]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Housing Act 2004 (c. 34) | In section 214(4), the word “also”. |
 
-### PART 31 — London (housing and regeneration)[^key-84b95e719e21ad4aa2b09c24e3b543de][^key-33499cdf74fa4fddf423341d4a946779]
+### PART 31 — London (housing and regeneration)[^c-84b95e719e21ad4aa2b09c24e3b543de][^c-33499cdf74fa4fddf423341d4a946779]
 
 <table>
 <tbody>
@@ -622,7 +622,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 32 — London Development Agency etc[^key-571f6eda2d13bede01ae502c1bd5ab3b]
+### PART 32 — London Development Agency etc[^c-571f6eda2d13bede01ae502c1bd5ab3b]
 
 <table>
 <tbody>
@@ -696,7 +696,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 33 — Greater London Authority governance[^key-8dc3f1e5cf19974592ca68bfb3b0e457]
+### PART 33 — Greater London Authority governance[^c-8dc3f1e5cf19974592ca68bfb3b0e457]
 
 <table>
 <tbody>
@@ -721,7 +721,7 @@ Section 237
 </tbody>
 </table>
 
-### PART 34 — Compensation for compulsory acquisition[^key-f97c3df3d9a903ecb4164d71fb8f923f]
+### PART 34 — Compensation for compulsory acquisition[^c-f97c3df3d9a903ecb4164d71fb8f923f]
 
 <table>
 <tbody>
@@ -743,68 +743,68 @@ Section 237
 
 ## Annotations
 
-[^key-46456e4144d308fd679d4d506da6fea3]: Commencement: [Sch. 25 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/1) in force at 4.4.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1008/article/2/d) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [8](https://www.legislation.gov.uk/uksi/2012/1008/article/8))
+[^c-46456e4144d308fd679d4d506da6fea3]: Commencement: [Sch. 25 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/1) in force at 4.4.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1008/article/2/d) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [8](https://www.legislation.gov.uk/uksi/2012/1008/article/8))
 
-[^key-b579f611a1984d9bce51766ee5aafe0e]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/2) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/411/article/2/f)
+[^c-b579f611a1984d9bce51766ee5aafe0e]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/2) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/411/article/2/f)
 
-[^key-8c53bdfd35008c2c3e14248119c631e9]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/2) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(h)(i)](https://www.legislation.gov.uk/wsi/2012/887/article/2/h/i)
+[^c-8c53bdfd35008c2c3e14248119c631e9]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/2) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(h)(i)](https://www.legislation.gov.uk/wsi/2012/887/article/2/h/i)
 
-[^key-35e886c68795c99c60b2508ac70e99af]: Commencement: [Sch. 25 Pt. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/3) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/411/article/2/g)
+[^c-35e886c68795c99c60b2508ac70e99af]: Commencement: [Sch. 25 Pt. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/3) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/411/article/2/g)
 
-[^key-b16edebd013a76ce4b60ca079a9392cb]: Commencement: [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-b16edebd013a76ce4b60ca079a9392cb]: Commencement: [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-d3c70c860388026982e87dfb3ab78d03]: Commencement: [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4) in force at 9.3.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/628/article/2/c)
+[^c-d3c70c860388026982e87dfb3ab78d03]: Commencement: [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4) in force at 9.3.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/628/article/2/c)
 
-[^key-e5217c11540c8ca905a4ca3fb46aec73]: Commencement: [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4) in force at 4.5.2012 in so far as not already in force by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-e5217c11540c8ca905a4ca3fb46aec73]: Commencement: [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4) in force at 4.5.2012 in so far as not already in force by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
 
-[^key-27069d7aa78e44e608c93d905585db35]: Commencement: [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5) in force at 31.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))
+[^c-27069d7aa78e44e608c93d905585db35]: Commencement: [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5) in force at 31.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))
 
-[^key-5240946eca10c5cc01966e066bef2fdd]: Commencement: (as amended (3.7.2012) by S.I. 2012/1714, art. 2)
+[^c-5240946eca10c5cc01966e066bef2fdd]: Commencement: (as amended (3.7.2012) by S.I. 2012/1714, art. 2)
 
-[^key-7fb1ba11c7b89d83a13d2008d836142a]: Commencement: [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
+[^c-7fb1ba11c7b89d83a13d2008d836142a]: Commencement: [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
 
-[^key-acb105351142d97d033a61a5e2c4bc07]: Commencement: [Sch. 25 Pt. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/7) in force at 1.4.2012 for W. by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 3(c)](https://www.legislation.gov.uk/wsi/2012/887/article/3/c)
+[^c-acb105351142d97d033a61a5e2c4bc07]: Commencement: [Sch. 25 Pt. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/7) in force at 1.4.2012 for W. by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 3(c)](https://www.legislation.gov.uk/wsi/2012/887/article/3/c)
 
-[^key-30e8405dd25eba453a49c8dfa5e79616]: Commencement: [Sch. 25 Pt. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/7) in force at 1.4.2012 for E. by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [10](https://www.legislation.gov.uk/uksi/2012/628/article/10))
+[^c-30e8405dd25eba453a49c8dfa5e79616]: Commencement: [Sch. 25 Pt. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/7) in force at 1.4.2012 for E. by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [10](https://www.legislation.gov.uk/uksi/2012/628/article/10))
 
-[^key-62c887c2c71b70806f3bf96df52f6152]: Commencement: [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) in force at 15.1.2012 for E. by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/57/article/3/c)
+[^c-62c887c2c71b70806f3bf96df52f6152]: Commencement: [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) in force at 15.1.2012 for E. by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/57/article/3/c)
 
-[^key-3a1cf70241c3d8f2d800d7fccde7a654]: Commencement: [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-3a1cf70241c3d8f2d800d7fccde7a654]: Commencement: [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-27bd8eed51fe227a5de50e41e26ca664]: Commencement: [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10) in force at 1.4.2012 for W. by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 3(c)](https://www.legislation.gov.uk/wsi/2012/887/article/3/c)
+[^c-27bd8eed51fe227a5de50e41e26ca664]: Commencement: [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10) in force at 1.4.2012 for W. by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 3(c)](https://www.legislation.gov.uk/wsi/2012/887/article/3/c)
 
-[^key-d3b842cb3c864c7524aea8870cb9af34]: Commencement: [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10) in force at 1.4.2012 for E. by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [10](https://www.legislation.gov.uk/uksi/2012/628/article/10))
+[^c-d3b842cb3c864c7524aea8870cb9af34]: Commencement: [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10) in force at 1.4.2012 for E. by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [10](https://www.legislation.gov.uk/uksi/2012/628/article/10))
 
-[^key-5b3126aad80ac14718b2f60fbeac2cb1]: Commencement: [Sch. 25 Pt. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/11) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-5b3126aad80ac14718b2f60fbeac2cb1]: Commencement: [Sch. 25 Pt. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/11) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-cfe8d54c7e3d66e4bc11c0672dd8aca1]: Commencement: [Sch. 25 Pt. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/12) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-cfe8d54c7e3d66e4bc11c0672dd8aca1]: Commencement: [Sch. 25 Pt. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/12) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-d4e83f9b46b0c2438b137390fd9bb660]: Commencement: [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-d4e83f9b46b0c2438b137390fd9bb660]: Commencement: [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-fd3b87261a80784129781786c0d36dee]: Commencement: [Sch. 25 Pt. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/18) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-fd3b87261a80784129781786c0d36dee]: Commencement: [Sch. 25 Pt. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/18) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
 
-[^key-b841c5e774c3d2a9814d59e28da137eb]: Commencement: [Sch. 25 Pt. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/19) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-b841c5e774c3d2a9814d59e28da137eb]: Commencement: [Sch. 25 Pt. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/19) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
 
-[^key-c85446dd13c7ea9e22b8ae2437736173]: Commencement: [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(b)](https://www.legislation.gov.uk/uksi/2012/628/article/7/b)
+[^c-c85446dd13c7ea9e22b8ae2437736173]: Commencement: [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(b)](https://www.legislation.gov.uk/uksi/2012/628/article/7/b)
 
-[^key-237dd2ff79956fca94876b780e45522a]: Commencement: [Sch. 25 Pt. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/21) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(b)](https://www.legislation.gov.uk/uksi/2012/628/article/7/b)
+[^c-237dd2ff79956fca94876b780e45522a]: Commencement: [Sch. 25 Pt. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/21) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(b)](https://www.legislation.gov.uk/uksi/2012/628/article/7/b)
 
-[^key-39b7b8b0c02fb78393fd385e2847d3ac]: Commencement: [Sch. 25 Pt. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/23) in force at 3.8.2012 by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/2029/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2029/article/5)) (as amended (6.4.2013) by S.I. 2013/797, art. 4)
+[^c-39b7b8b0c02fb78393fd385e2847d3ac]: Commencement: [Sch. 25 Pt. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/23) in force at 3.8.2012 by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/2029/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2029/article/5)) (as amended (6.4.2013) by S.I. 2013/797, art. 4)
 
-[^key-c3374b663db9c2d666839e502a351d4c]: Commencement: [Sch. 25 Pt. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/25) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iv)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iv) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-c3374b663db9c2d666839e502a351d4c]: Commencement: [Sch. 25 Pt. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/25) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iv)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iv) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-dc5bad7d5121d58d8cedcd72f82209e0]: Commencement: [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(j)(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/j/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-dc5bad7d5121d58d8cedcd72f82209e0]: Commencement: [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(j)(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/j/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-05014f9bbcb731179265994515942674]: Commencement: [Sch. 25 Pt. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/27) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(j)(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/j/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-05014f9bbcb731179265994515942674]: Commencement: [Sch. 25 Pt. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/27) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(j)(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/j/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-a8d9e8e5652e5ee06bd6c3a6ac4bc163]: Commencement: [Sch. 25 Pt. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/30) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-a8d9e8e5652e5ee06bd6c3a6ac4bc163]: Commencement: [Sch. 25 Pt. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/30) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
 
-[^key-84b95e719e21ad4aa2b09c24e3b543de]: Commencement: [Sch. 25 Pt. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/31) in force at 1.4.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(j)(ii)](https://www.legislation.gov.uk/uksi/2012/628/article/6/j/ii) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-84b95e719e21ad4aa2b09c24e3b543de]: Commencement: [Sch. 25 Pt. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/31) in force at 1.4.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(j)(ii)](https://www.legislation.gov.uk/uksi/2012/628/article/6/j/ii) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-33499cdf74fa4fddf423341d4a946779]: Commencement: [Sch. 25 Pt. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/31) in force at 7.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/i)
+[^c-33499cdf74fa4fddf423341d4a946779]: Commencement: [Sch. 25 Pt. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/31) in force at 7.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/i)
 
-[^key-571f6eda2d13bede01ae502c1bd5ab3b]: Commencement: [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32) in force at 31.3.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-571f6eda2d13bede01ae502c1bd5ab3b]: Commencement: [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32) in force at 31.3.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
-[^key-8dc3f1e5cf19974592ca68bfb3b0e457]: Commencement: [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-8dc3f1e5cf19974592ca68bfb3b0e457]: Commencement: [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
 
-[^key-f97c3df3d9a903ecb4164d71fb8f923f]: Commencement: [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-f97c3df3d9a903ecb4164d71fb8f923f]: Commencement: [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56D. Notification by local authority or YPLA of possible grounds for intervention[^key-7df217b59fd6851823bc4a53bce1b9db]
+## 56D. Notification by local authority or YPLA of possible grounds for intervention[^c-7df217b59fd6851823bc4a53bce1b9db]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7df217b59fd6851823bc4a53bce1b9db]: Textual amendment: S. 56D repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/29); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-7df217b59fd6851823bc4a53bce1b9db]: Textual amendment: S. 56D repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/29); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Amendment of regulation 8[^key-45d8fd174afd64de332d8ff6056b0f86]
+## 9. Amendment of regulation 8[^c-45d8fd174afd64de332d8ff6056b0f86]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 8 (pre-contract disputes), in paragraph (5)(b), for “the Primary
 
 ## Annotations
 
-[^key-45d8fd174afd64de332d8ff6056b0f86]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/364/regulation/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-45d8fd174afd64de332d8ff6056b0f86]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/364/regulation/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

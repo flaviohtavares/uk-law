@@ -1697,7 +1697,7 @@ Section 25
 
 (4) Subject to sub-paragraphs (2) and (3), in relation to an individual's income and chargeable gains for the tax year 2007-08 or any earlier tax year, section 809L has effect as if the references to a relevant person were to the individual.
 
-(4A)[^key-b0b47c1138121b0900071c583573605b] For the purposes of sub-paragraph (4), section 648(2) to (5) of ITTOIA 2005 (and corresponding earlier enactments) do not apply (so that relevant foreign income which arose under a settlement in the tax year 2007-08 or any earlier tax year is to be treated as income for the tax year in which it arose).
+(4A)[^c-b0b47c1138121b0900071c583573605b] For the purposes of sub-paragraph (4), section 648(2) to (5) of ITTOIA 2005 (and corresponding earlier enactments) do not apply (so that relevant foreign income which arose under a settlement in the tax year 2007-08 or any earlier tax year is to be treated as income for the tax year in which it arose).
 
 (5) “**Money**” has the same meaning as in section 809Y of ITA 2007.
 
@@ -1763,15 +1763,15 @@ sub-paragraphs (2) and (3) apply in relation to the subsequent loan (and for thi
 
 #### Offshore income gains
 
-**92.**[^key-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92.**[^c-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**93.**[^key-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**94.**[^key-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**94.**[^c-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**95.**[^key-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**95.**[^c-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**96.**[^key-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**96.**[^c-5ed92ad11a34f377110253c7ff0abe7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **97.** In section 734 of ITA 2007 (reduction in amount charged: previous capital gains tax charge), after subsection (4) insert—
 
@@ -2562,7 +2562,7 @@ sub-paragraph (3) applies in relation to earlier capital payments before later o
 
 #### Transfers of assets abroad
 
-**161.**[^key-701ca509176c444e64da0f643a246183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**161.**[^c-701ca509176c444e64da0f643a246183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **162.** In section 830(4) of ITTOIA 2005 (meaning of “relevant foreign income”), after paragraph (h) insert
 
@@ -2677,7 +2677,7 @@ sub-paragraph (3) applies in relation to earlier capital payments before later o
 
 **171.** For the purposes of this Part of this Schedule, the market value of any asset is its market value for the purposes of TCGA 1992.
 
-**172.**[^key-96e15449af785b8334c1ba582664364d] (1) Sub-paragraph (2) has effect for the purposes of—
+**172.**[^c-96e15449af785b8334c1ba582664364d] (1) Sub-paragraph (2) has effect for the purposes of—
 
 - paragraphs 100(1)(b), 101(1)(c) and 102(1)(e),
 - paragraph (b) of paragraph 118(3) so far as having effect for the purposes of paragraph 118(1)(d), and
@@ -2691,12 +2691,12 @@ sub-paragraph (3) applies in relation to earlier capital payments before later o
 
 ## Annotations
 
-[^key-b0b47c1138121b0900071c583573605b]: Textual amendment: [Sch. 7 para. 86(4A)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/86/4A) inserted (with effect in accordance with Sch. 27 para. 15(1) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2009/10/schedule/27/paragraph/14)
+[^c-b0b47c1138121b0900071c583573605b]: Textual amendment: [Sch. 7 para. 86(4A)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/86/4A) inserted (with effect in accordance with Sch. 27 para. 15(1) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2009/10/schedule/27/paragraph/14)
 
-[^key-5ed92ad11a34f377110253c7ff0abe7d]: Textual amendment: [Sch. 7 paras. 92-96](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/92) repealed (with effect in accordance with reg. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
+[^c-5ed92ad11a34f377110253c7ff0abe7d]: Textual amendment: [Sch. 7 paras. 92-96](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/92) repealed (with effect in accordance with reg. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
 
 [^M_F_8d6780c3-9663-441a-8a9a-ea5292f73268]: Textual amendment: Sch. 7 paras. 100-102 omitted (retrospective to 6.4.2025 for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/b)
 
-[^key-701ca509176c444e64da0f643a246183]: Textual amendment: [Sch. 7 para. 161](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/161) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 470](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/470)
+[^c-701ca509176c444e64da0f643a246183]: Textual amendment: [Sch. 7 para. 161](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/161) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 470](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/470)
 
-[^key-96e15449af785b8334c1ba582664364d]: Textual amendment: [Sch. 7 para. 172](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/172) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 40](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/40)
+[^c-96e15449af785b8334c1ba582664364d]: Textual amendment: [Sch. 7 para. 172](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/172) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 40](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/40)

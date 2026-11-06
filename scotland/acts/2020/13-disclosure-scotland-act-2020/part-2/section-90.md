@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Meaning of “conviction”[^key-9a6cbd89f2849ae477a9917e8d85c652]
+## 90. Meaning of “conviction”[^c-9a6cbd89f2849ae477a9917e8d85c652]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a6cbd89f2849ae477a9917e8d85c652]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2020/13/section/90) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
+[^c-9a6cbd89f2849ae477a9917e8d85c652]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2020/13/section/90) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)

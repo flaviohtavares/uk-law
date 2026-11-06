@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Refunds[^key-b0c84bb447db9274571b444d4749c728]
+## 130. Refunds[^c-b0c84bb447db9274571b444d4749c728]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ OFCOM may, in such cases as they think fit, refund, in whole or in part, sums wh
 
 ## Annotations
 
-[^key-b0c84bb447db9274571b444d4749c728]: Commencement: Reg. 130 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-b0c84bb447db9274571b444d4749c728]: Commencement: Reg. 130 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

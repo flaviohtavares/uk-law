@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Sections 174 to 177: supplementary[^key-472c9b3a3489d4df3f9c4b60a15e0d0f]
+## 178. Sections 174 to 177: supplementary[^c-472c9b3a3489d4df3f9c4b60a15e0d0f]
 
 *Extent: E+W*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-472c9b3a3489d4df3f9c4b60a15e0d0f]: Commencement: S. 178 in force at 1.11.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2012/2657/article/13))
+[^c-472c9b3a3489d4df3f9c4b60a15e0d0f]: Commencement: S. 178 in force at 1.11.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2012/2657/article/13))

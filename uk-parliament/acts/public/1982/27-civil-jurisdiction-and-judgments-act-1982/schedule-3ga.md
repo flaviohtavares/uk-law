@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3GA — RESERVATIONS AND DECLARATIONS MADE BY THE UNITED KINGDOM IN RELATION TO THE 2007 HAGUE CONVENTION[^key-f05838a017ff0ec99b3b071afbae9f6b]
+## SCHEDULE 3GA — RESERVATIONS AND DECLARATIONS MADE BY THE UNITED KINGDOM IN RELATION TO THE 2007 HAGUE CONVENTION[^c-f05838a017ff0ec99b3b071afbae9f6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,4 +162,4 @@ Furthermore, the United Kingdom of Great Britain and Northern Ireland undertakes
 
 ## Annotations
 
-[^key-f05838a017ff0ec99b3b071afbae9f6b]: Textual amendment: [Sch. 3GA](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3GA) inserted (26.1.2022) by [The Civil Jurisdiction and Judgments (2005 Hague Convention and 2007 Hague Convention) (Amendment) Regulations 2022 (S.I. 2022/77)](https://www.legislation.gov.uk/uksi/2022/77), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/77/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/77/schedule/2)
+[^c-f05838a017ff0ec99b3b071afbae9f6b]: Textual amendment: [Sch. 3GA](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3GA) inserted (26.1.2022) by [The Civil Jurisdiction and Judgments (2005 Hague Convention and 2007 Hague Convention) (Amendment) Regulations 2022 (S.I. 2022/77)](https://www.legislation.gov.uk/uksi/2022/77), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/77/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/77/schedule/2)

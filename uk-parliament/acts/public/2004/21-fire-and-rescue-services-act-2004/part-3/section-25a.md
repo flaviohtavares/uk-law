@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25A. Police and crime plan[^key-86731ad2495eedd36767fe02f034c74c]
+## 25A. Police and crime plan[^c-86731ad2495eedd36767fe02f034c74c]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A fire and rescue authority created by an order under section 4A must, in carryi
 
 ## Annotations
 
-[^key-86731ad2495eedd36767fe02f034c74c]: Textual amendment: S. 25A and crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/10); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-86731ad2495eedd36767fe02f034c74c]: Textual amendment: S. 25A and crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/10); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)

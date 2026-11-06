@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.89. Discounts[^key-7a0c9a7ebfd3b10b4532913a8ee97756]
+## 4.89. Discounts[^c-7a0c9a7ebfd3b10b4532913a8ee97756]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There shall in every case be deducted from the claim all trade and other discoun
 
 ## Annotations
 
-[^key-7a0c9a7ebfd3b10b4532913a8ee97756]: Commencement: [Rule 4.89](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.89) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7a0c9a7ebfd3b10b4532913a8ee97756]: Commencement: [Rule 4.89](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.89) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

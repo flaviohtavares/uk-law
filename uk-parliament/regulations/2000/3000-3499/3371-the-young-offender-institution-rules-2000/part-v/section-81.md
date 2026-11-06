@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The independent monitoring board[^key-2e16962df773483fca451b26193b71f4] for a young offender institution shall satisfy themselves as to the state of the premises, the administration of the institution and the treatment of the inmates.
+(1) The independent monitoring board[^c-2e16962df773483fca451b26193b71f4] for a young offender institution shall satisfy themselves as to the state of the premises, the administration of the institution and the treatment of the inmates.
 
 (2) The board shall inquire into and report upon any matter into which the Secretary of State asks them to inquire.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e16962df773483fca451b26193b71f4]: Textual amendment: Words in [rule 81(1)](https://www.legislation.gov.uk/uksi/2000/3371/rule/81/1) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)
+[^c-2e16962df773483fca451b26193b71f4]: Textual amendment: Words in [rule 81(1)](https://www.legislation.gov.uk/uksi/2000/3371/rule/81/1) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)

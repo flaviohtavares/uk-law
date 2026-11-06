@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement, application and interpretation[^key-3579042dd1c85dbead4b14cbf78a7ce8]
+## 1. Citation, commencement, application and interpretation[^c-3579042dd1c85dbead4b14cbf78a7ce8]
 
 *Extent: E+W*
 
@@ -82,7 +82,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3579042dd1c85dbead4b14cbf78a7ce8]: Commencement: Reg. 1 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-3579042dd1c85dbead4b14cbf78a7ce8]: Commencement: Reg. 1 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00010]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 

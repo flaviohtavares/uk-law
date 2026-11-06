@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Transfer of property[^key-b9ec319041640ee28173111ab405641c]
+## 167. Transfer of property[^c-b9ec319041640ee28173111ab405641c]
 
 *Extent: E+W*
 
 (1) This section applies—
 
-- (a) where a non-profit registered provider which is a registered society[^key-a85a2bd2407dae5b1dab913643127dde] is dissolved in accordance with section 119 or 123 of the Co-operative and Community Benefit Societies Act 2014[^key-cb75de6009eac40e46b385a853579db5], and
+- (a) where a non-profit registered provider which is a registered society[^c-a85a2bd2407dae5b1dab913643127dde] is dissolved in accordance with section 119 or 123 of the Co-operative and Community Benefit Societies Act 2014[^c-cb75de6009eac40e46b385a853579db5], and
 - (b) where a non-profit registered provider which is a registered company is wound up under the Insolvency Act 1986.
 
 (2) Any surplus property that is available after satisfying the registered provider's liabilities shall be transferred—
@@ -36,20 +36,20 @@ summary: ''
 
 (5) This section has effect despite anything in—
 
-- (a)[^key-517170b14d8815c42a7632ff750a4ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-517170b14d8815c42a7632ff750a4ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Insolvency Act 1986,
 - (c) the Companies Act 2006 (c. 46),
-- (ca)[^key-f7ef2c9de0e75da8b7e0dced812d883b] the Co-operative and Community Benefit Societies Act 2014, or
+- (ca)[^c-f7ef2c9de0e75da8b7e0dced812d883b] the Co-operative and Community Benefit Societies Act 2014, or
 - (d) the constitution of a registered provider.
 
 ## Annotations
 
-[^key-b9ec319041640ee28173111ab405641c]: Commencement: S. 167 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-b9ec319041640ee28173111ab405641c]: Commencement: S. 167 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-a85a2bd2407dae5b1dab913643127dde]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), s. 154, [Sch. 4 para. 122](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/122) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-a85a2bd2407dae5b1dab913643127dde]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), s. 154, [Sch. 4 para. 122](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/122) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-cb75de6009eac40e46b385a853579db5]: Textual amendment: Words in s. 167(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 131(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/131/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-cb75de6009eac40e46b385a853579db5]: Textual amendment: Words in s. 167(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 131(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/131/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-517170b14d8815c42a7632ff750a4ee2]: Textual amendment: S. 167(5)(a) omitted (1.8.2014) by virtue of [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/131/3/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-517170b14d8815c42a7632ff750a4ee2]: Textual amendment: S. 167(5)(a) omitted (1.8.2014) by virtue of [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/131/3/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-f7ef2c9de0e75da8b7e0dced812d883b]: Textual amendment: S. 167(5)(ca) inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 131(3)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/131/3/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-f7ef2c9de0e75da8b7e0dced812d883b]: Textual amendment: S. 167(5)(ca) inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 131(3)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/131/3/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2013 (revoked)[^key-207471ecbe52f70279955fb234ca1138]
+The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2013 (revoked)[^c-207471ecbe52f70279955fb234ca1138]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 3rd May 2013
 
-[^key-207471ecbe52f70279955fb234ca1138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207471ecbe52f70279955fb234ca1138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-207471ecbe52f70279955fb234ca1138]
+## 1. Citation and commencement[^c-207471ecbe52f70279955fb234ca1138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Wireless Telegraphy (Licence Charges) Regulations 2011[^key-207471ecbe52f70279955fb234ca1138]
+## 2. Amendment of the Wireless Telegraphy (Licence Charges) Regulations 2011[^c-207471ecbe52f70279955fb234ca1138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 2[^key-207471ecbe52f70279955fb234ca1138]
+## 3. Amendment of Schedule 2[^c-207471ecbe52f70279955fb234ca1138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 9[^key-207471ecbe52f70279955fb234ca1138]
+## 4. Amendment of Schedule 9[^c-207471ecbe52f70279955fb234ca1138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Amendment of Schedule 13[^key-207471ecbe52f70279955fb234ca1138]
+## Amendment of Schedule 13[^c-207471ecbe52f70279955fb234ca1138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-207471ecbe52f70279955fb234ca1138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207471ecbe52f70279955fb234ca1138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-207471ecbe52f70279955fb234ca1138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207471ecbe52f70279955fb234ca1138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-207471ecbe52f70279955fb234ca1138]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/917) revoked (21.10.2020) by [The Wireless Telegraphy (Licence Charges) Regulations 2020 (S.I. 2020/1068)](https://www.legislation.gov.uk/uksi/2020/1068), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1068/schedule/1)
+[^c-207471ecbe52f70279955fb234ca1138]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/917) revoked (21.10.2020) by [The Wireless Telegraphy (Licence Charges) Regulations 2020 (S.I. 2020/1068)](https://www.legislation.gov.uk/uksi/2020/1068), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1068/schedule/1)

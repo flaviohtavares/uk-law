@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Brokering services: non-UK activity relating to military goods and military technology[^key-932ba60b5bc888ab9793b962ebe8ede9][^key-2414f33194afb02f8b44e8672e307799]
+## 27. Brokering services: non-UK activity relating to military goods and military technology[^c-932ba60b5bc888ab9793b962ebe8ede9][^c-2414f33194afb02f8b44e8672e307799]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-932ba60b5bc888ab9793b962ebe8ede9]: Commencement: Reg. 27 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-932ba60b5bc888ab9793b962ebe8ede9]: Commencement: Reg. 27 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-2414f33194afb02f8b44e8672e307799]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/438/regulation/27) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2414f33194afb02f8b44e8672e307799]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/438/regulation/27) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

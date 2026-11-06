@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: S*
 
-**3.4.1.**[^key-860a02382f1f8e92ffdd49619cebf833] In this Part—
+**3.4.1.**[^c-860a02382f1f8e92ffdd49619cebf833] In this Part—
 
 - “the 1894 Act” means the Heritable Securities (Scotland) Act 1894;
 - “the 1970 Act” means the Conveyancing and Feudal Reform (Scotland) Act 1970;
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))
+[^c-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))

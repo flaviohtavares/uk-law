@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Combined authorities and CCAs: allowances for members with special responsibilities[^key-d40af70b1f927466097246b89d48f1a0][^key-b0b3dcf710f30dd9b55a67df4f355be6]
+## 10. Combined authorities and CCAs: allowances for members with special responsibilities[^c-d40af70b1f927466097246b89d48f1a0][^c-b0b3dcf710f30dd9b55a67df4f355be6]
 
 *Extent: E+W*
 
@@ -100,6 +100,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d40af70b1f927466097246b89d48f1a0]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-d40af70b1f927466097246b89d48f1a0]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-b0b3dcf710f30dd9b55a67df4f355be6]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2026/23/section/10) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-b0b3dcf710f30dd9b55a67df4f355be6]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2026/23/section/10) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

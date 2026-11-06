@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307E. Capital receipts under, or after leaving, cash basis[^key-69f0f53c554c07a41dea095914b6603b]
+## 307E. Capital receipts under, or after leaving, cash basis[^c-69f0f53c554c07a41dea095914b6603b]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,7 +104,7 @@ The reference to any other provision of this Part in paragraph (b) includes a re
 
 (20) For the purposes of this section, expenditure is “brought into account under CAA 2001” in calculating the profits of a property business if and to the extent that—
 
-- (a) a capital allowance made under Part 2 of that Act in respect of the expenditure is treated as an expense in calculating those profits (see sections 248 and 250[^key-09bb2a0694d7aaba4ec5259edf305b42] of that Act), or
+- (a) a capital allowance made under Part 2 of that Act in respect of the expenditure is treated as an expense in calculating those profits (see sections 248 and 250[^c-09bb2a0694d7aaba4ec5259edf305b42] of that Act), or
 - (b) qualifying expenditure (within the meaning of Part 2 of CAA 2001) is allocated to a pool for a relevant qualifying activity and is set-off against different disposal receipts.
 
 (21) An amount of qualifying expenditure is “set-off against different disposal receipts” if—
@@ -114,7 +114,7 @@ The reference to any other provision of this Part in paragraph (b) includes a re
 
 (22) For the purposes of subsections (20) and (21), an activity is a “relevant qualifying activity” if—
 
-- (a) it is a qualifying activity mentioned in section 15(1)(b) or (d)[^key-f6d560bb97e75e5d2b53e633c46593db] of CAA 2001 (property business activities), and
+- (a) it is a qualifying activity mentioned in section 15(1)(b) or (d)[^c-f6d560bb97e75e5d2b53e633c46593db] of CAA 2001 (property business activities), and
 - (b) the property business consists of or includes that qualifying activity.
 
 (23) For the purposes of subsection (21), an amount of qualifying expenditure incurred (or treated as incurred) by a person is not to be regarded as not carried forward because the person enters the cash basis.
@@ -133,8 +133,8 @@ The reference to any other provision of this Part in paragraph (b) includes a re
 
 ## Annotations
 
-[^key-69f0f53c554c07a41dea095914b6603b]: Textual amendment: Ss. 307A-307F and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/23)
+[^c-69f0f53c554c07a41dea095914b6603b]: Textual amendment: Ss. 307A-307F and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/23)
 
-[^key-09bb2a0694d7aaba4ec5259edf305b42]: Textual amendment: Words in [s. 307E(20)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/307E/20/a) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/5/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-09bb2a0694d7aaba4ec5259edf305b42]: Textual amendment: Words in [s. 307E(20)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/307E/20/a) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/5/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-f6d560bb97e75e5d2b53e633c46593db]: Textual amendment: Words in [s. 307E(22)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/307E/22/a) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/5/b), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-f6d560bb97e75e5d2b53e633c46593db]: Textual amendment: Words in [s. 307E(22)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/307E/22/a) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/5/b), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

@@ -37,11 +37,11 @@ Made
 
 The Department for Communities[^f00001] makes the following Order in exercise of the powers conferred on it by section 17(3) of the Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022[^f00002].
 
-## 1. Citation[^key-930192b460c09595dad47954f39df421]
+## 1. Citation[^c-930192b460c09595dad47954f39df421]
 
 This Order may be cited as the Betting, Gaming, Lotteries and Amusements (Amendment) (2022 Act) (Commencement No.1) Order (Northern Ireland) 2023.
 
-## 2. Appointed Day[^key-20eaa572a36075be6f6670bf02dff3d0]
+## 2. Appointed Day[^c-20eaa572a36075be6f6670bf02dff3d0]
 
 The day appointed for the coming into operation of the provisions of the Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 specified in the Schedule is 1st October 2023.
 
@@ -53,11 +53,11 @@ Anthony Carleton
 
 A senior officer of the Department for Communities
 
-## SCHEDULE[^key-e4477546128c36b548f31e466ed5c940]
+## SCHEDULE[^c-e4477546128c36b548f31e466ed5c940]
 
 Article 2
 
-[^key-e4477546128c36b548f31e466ed5c940]
+[^c-e4477546128c36b548f31e466ed5c940]
 
 - Provisions of the Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 coming into operation on 1st October 2023.
 
@@ -86,8 +86,8 @@ Finally, this Order appoints 1st October 2023 as the day for the coming into ope
 
 [^f00002]: Footnote: [2022 c.14 (N.I.)](https://www.legislation.gov.uk/nia/2022/14)
 
-[^key-930192b460c09595dad47954f39df421]: Commencement: Art. 1 in operation at made date
+[^c-930192b460c09595dad47954f39df421]: Commencement: Art. 1 in operation at made date
 
-[^key-20eaa572a36075be6f6670bf02dff3d0]: Commencement: Art. 2 in operation at made date
+[^c-20eaa572a36075be6f6670bf02dff3d0]: Commencement: Art. 2 in operation at made date
 
-[^key-e4477546128c36b548f31e466ed5c940]: Commencement: Sch. in operation at made date
+[^c-e4477546128c36b548f31e466ed5c940]: Commencement: Sch. in operation at made date

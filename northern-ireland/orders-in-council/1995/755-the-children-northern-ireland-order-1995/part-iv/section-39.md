@@ -29,7 +29,7 @@ summary: ''
 - (a) where the child is under 16, each of his parents;
 - (b) where he has reached the age of 16, the child himself.
 
-(4) A person shall not be liable to contribute during any period when he is in receipt of universal credit (except in such circumstances as may be prescribed),[^key-de6b3d8aeacfc4116a7a39a4adfe9ca9] of income support, of any element of child tax credit other than the family element, of working tax credit[^c17269771], of an income-based jobseeker's allowance or of an income-related employment and support allowance[^c20586121].
+(4) A person shall not be liable to contribute during any period when he is in receipt of universal credit (except in such circumstances as may be prescribed),[^c-de6b3d8aeacfc4116a7a39a4adfe9ca9] of income support, of any element of child tax credit other than the family element, of working tax credit[^c17269771], of an income-based jobseeker's allowance or of an income-related employment and support allowance[^c20586121].
 
 (5) A person shall not be liable to contribute towards the maintenance of a child in the care of an authority in respect of any period during which the child is allowed by the authority (under Article 27(5)) to live with a parent of his.
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-de6b3d8aeacfc4116a7a39a4adfe9ca9]: Textual amendment: Words in [art. 39(4)](https://www.legislation.gov.uk/nisi/1995/755/article/39/4) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 28(d)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/28/d); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
+[^c-de6b3d8aeacfc4116a7a39a4adfe9ca9]: Textual amendment: Words in [art. 39(4)](https://www.legislation.gov.uk/nisi/1995/755/article/39/4) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 28(d)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/28/d); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
 
 [^c17269771]: Textual amendment: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 

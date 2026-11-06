@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Powers of entry under the Coal Industry Act 1994[^key-49c2a6bfe4640beade4447fc30107af8]
+## SCHEDULE 4 — Powers of entry under the Coal Industry Act 1994[^c-49c2a6bfe4640beade4447fc30107af8]
 
 *Extent: S*
 
@@ -80,4 +80,4 @@ After Schedule 1B to the Coal Industry Act 1994 (c. 21) there is inserted—
 
 ## Annotations
 
-[^key-49c2a6bfe4640beade4447fc30107af8]: Commencement: Sch. 4 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-49c2a6bfe4640beade4447fc30107af8]: Commencement: Sch. 4 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)

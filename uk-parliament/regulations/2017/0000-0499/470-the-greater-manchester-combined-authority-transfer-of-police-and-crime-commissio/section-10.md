@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Amendments to the Police Reform and Social Responsibility Act 2011[^key-f0a6085c28e831539abd6e013ff62f5a]
+## 10. Amendments to the Police Reform and Social Responsibility Act 2011[^c-f0a6085c28e831539abd6e013ff62f5a]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f0a6085c28e831539abd6e013ff62f5a]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/470/article/10) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-f0a6085c28e831539abd6e013ff62f5a]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/470/article/10) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00017]: Footnote: Section 107F was inserted by section 4 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).

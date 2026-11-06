@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Commercial air transport and aerial work – parachuting[^key-e4a966d8480711f6347697cd26c4944f]
+## 202. Commercial air transport and aerial work – parachuting[^c-e4a966d8480711f6347697cd26c4944f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Notwithstanding article 201, a flight is an aerial work flight if it is a flight
 
 ## Annotations
 
-[^key-e4a966d8480711f6347697cd26c4944f]: Commencement: [Art. 202](https://www.legislation.gov.uk/uksi/2013/2870/article/202) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e4a966d8480711f6347697cd26c4944f]: Commencement: [Art. 202](https://www.legislation.gov.uk/uksi/2013/2870/article/202) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Internal emergency response[^key-3f843d6d49329fe2ff53a9df4c358ce9]
+## 30. Internal emergency response[^c-3f843d6d49329fe2ff53a9df4c358ce9]
 
 *Extent: N.I.*
 
@@ -74,7 +74,7 @@ the duty holder shall not send the revised description of those arrangements to 
 
 ## Annotations
 
-[^key-3f843d6d49329fe2ff53a9df4c358ce9]: Commencement: Reg. 30 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-3f843d6d49329fe2ff53a9df4c358ce9]: Commencement: Reg. 30 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00030]: Footnote: The Maritime and Coastguard Agency is an executive agency of the Department for Transport
 

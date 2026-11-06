@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. NRBW to retain registers etc[^key-b8dc88f030cff73662d4ada32d5fd0fa]
+## 58. NRBW to retain registers etc[^c-b8dc88f030cff73662d4ada32d5fd0fa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The NRBW must retain registers and any accompanying records sent to it pursuant 
 
 ## Annotations
 
-[^key-b8dc88f030cff73662d4ada32d5fd0fa]: Textual amendment: Word in reg. 58 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 32(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/32/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b8dc88f030cff73662d4ada32d5fd0fa]: Textual amendment: Word in reg. 58 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 32(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/32/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

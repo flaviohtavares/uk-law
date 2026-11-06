@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 3
 
-### 1. Shops[^key-a71020dbcdf30e2e898d1e224b968cd8]
+### 1. Shops[^c-a71020dbcdf30e2e898d1e224b968cd8]
 
 Use for all or any of the following purposes—
 
@@ -39,7 +39,7 @@ Use for all or any of the following purposes—
 
 where the sale, display or service is to visiting members of the public.
 
-### 2. Financial and professional services[^key-0c68cc80e1a0324494aece7a62b795d3]
+### 2. Financial and professional services[^c-0c68cc80e1a0324494aece7a62b795d3]
 
 Use for the provision of—
 
@@ -49,14 +49,14 @@ Use for the provision of—
 
 where the services are provided principally to visiting members of the public.
 
-### 3. Food and drink[^key-41dd708a56fbb08899c905608b73514c]
+### 3. Food and drink[^c-41dd708a56fbb08899c905608b73514c]
 
 Use for the sale of food or drink for consumption on the premises or of hot food for consumption off the premises.
 
 ## Annotations
 
-[^key-a71020dbcdf30e2e898d1e224b968cd8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/544/schedule/1/paragraph/1) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-a71020dbcdf30e2e898d1e224b968cd8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/544/schedule/1/paragraph/1) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
 
-[^key-0c68cc80e1a0324494aece7a62b795d3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/544/schedule/1/paragraph/2) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-0c68cc80e1a0324494aece7a62b795d3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/544/schedule/1/paragraph/2) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
 
-[^key-41dd708a56fbb08899c905608b73514c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/544/schedule/1/paragraph/3) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-41dd708a56fbb08899c905608b73514c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/544/schedule/1/paragraph/3) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

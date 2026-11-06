@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of section 41[^key-545f2477e8b9014553eef99f6a356db1]
+## 37. Amendment of section 41[^c-545f2477e8b9014553eef99f6a356db1]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ In section 41 (restriction on individuals)—
 
 ## Annotations
 
-[^key-545f2477e8b9014553eef99f6a356db1]: Commencement: Art. 37 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-545f2477e8b9014553eef99f6a356db1]: Commencement: Art. 37 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

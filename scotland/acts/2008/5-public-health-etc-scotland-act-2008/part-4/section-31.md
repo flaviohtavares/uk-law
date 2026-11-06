@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Duty of health boards to give explanation of need for action[^key-583594d12fc5d3e544eb7bb728780083]
+## 31. Duty of health boards to give explanation of need for action[^c-583594d12fc5d3e544eb7bb728780083]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ to the person in relation to whom the action was taken.
 
 ## Annotations
 
-[^key-583594d12fc5d3e544eb7bb728780083]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2008/5/section/31) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-583594d12fc5d3e544eb7bb728780083]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2008/5/section/31) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

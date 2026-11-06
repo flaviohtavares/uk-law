@@ -44,7 +44,7 @@ Coming into force
 
 28th January 2013
 
-[^key-1e13e0b703ce05803fc4481ea976f9e0]The Scottish Ministers make the following Regulations in exercise of the powers in sections 80 and 113(1) and (2) of, and paragraph 1 of Schedule 2 to, the Local Government Finance Act 1992 [^c21437331] and all other powers enabling them to do so.
+[^c-1e13e0b703ce05803fc4481ea976f9e0]The Scottish Ministers make the following Regulations in exercise of the powers in sections 80 and 113(1) and (2) of, and paragraph 1 of Schedule 2 to, the Local Government Finance Act 1992 [^c21437331] and all other powers enabling them to do so.
 
 ## Contents
 
@@ -277,6 +277,6 @@ Part 13 contains transitional provision (regulation 92), savings provision (regu
 
 ## Annotations
 
-[^key-1e13e0b703ce05803fc4481ea976f9e0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/303) revoked (except regs. 2 (in part), 37, 38, sch. 4 paras. 37, 38) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-1e13e0b703ce05803fc4481ea976f9e0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/303) revoked (except regs. 2 (in part), 37, 38, sch. 4 paras. 37, 38) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
 [^c21437331]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of Schedule 13 to the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).

@@ -73,7 +73,7 @@ These Regulations may be cited as the Social Security (Hospital In-Patients) Reg
 (3) Where both the beneficiary and the dependant are in-patients and each has received free in-patient treatment for a period of not less than 52 weeks, the increase shall not be payable unless the beneficiary applies to the Secretary of State to pay the increase on behalf of the beneficiary to—
 
 - (a) the dependant, or
-- (b) some other person who is approved by the Secretary of State and who satisfies the Secretary of State that he will apply the increase for the benefit of a child of the beneficiary[^key-9feefe8ecaa0665175517d82ed8c13fd].
+- (b) some other person who is approved by the Secretary of State and who satisfies the Secretary of State that he will apply the increase for the benefit of a child of the beneficiary[^c-9feefe8ecaa0665175517d82ed8c13fd].
 
 (4) For the purposes of this regulation, a person shall be regarded as receiving or having received free in-patient treatment for any period for which he is or has been maintained free of charge while undergoing medical or other treatment as an in-patient—
 
@@ -148,7 +148,7 @@ In the Social Security (General Benefit) Regulations 1982 [^c1241727], in regula
 
 (6) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) omit paragraph 38 [^c1241741] (transitional resettlement benefit for patients).
 
-## 5. Amendments relating to housing benefit and council tax benefit[^key-b573fac94380d3bff9c126c56cc72cc2]
+## 5. Amendments relating to housing benefit and council tax benefit[^c-b573fac94380d3bff9c126c56cc72cc2]
 
 (1) In regulation 22(5) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 and regulation 12(5) of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 (applicable amounts) in the definition of “patient” for “the Social Security (Hospital In-Patients) Regulations 1975” substitute “ regulation 2(4) and (5) of the Social Security (Hospital In-Patients) Regulations 2005 ”.
 
@@ -187,7 +187,7 @@ In the Social Security (General Benefit) Regulations 1982 [^c1241727], in regula
   - (i) in column (1) insert “ 1A. A claimant who has been a patient for a continuous period of more than 52 weeks. ”, and
   - (ii) in column (2) insert “ 1A. The amount applicable under regulation 86A less any amount applicable by virtue of paragraphs 20F or 20G and 20H, or paragraph 20IA of Schedule 1. ”.
 
-## 7. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-ebc2aaf2209ea3d4829c9d677da3055b]
+## 7. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^c-ebc2aaf2209ea3d4829c9d677da3055b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -310,7 +310,7 @@ A full regulatory impact assessment has not been provided for this instrument as
 
 [^c1241722]: Marginal citation: Part IV provisions for increases in benefit for child dependants were revoked by the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [section 1(3)(e)](https://www.legislation.gov.uk/ukpga/2002/21/section/1/3/e) and Schedule 6, subject to savings and transitional provisions under section 62.
 
-[^key-9feefe8ecaa0665175517d82ed8c13fd]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/2/3/b) substituted (9.4.2006) by [The Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/6), [7](https://www.legislation.gov.uk/uksi/2006/588/regulation/7)
+[^c-9feefe8ecaa0665175517d82ed8c13fd]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/2/3/b) substituted (9.4.2006) by [The Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/6), [7](https://www.legislation.gov.uk/uksi/2006/588/regulation/7)
 
 [^c1241723]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -350,7 +350,7 @@ A full regulatory impact assessment has not been provided for this instrument as
 
 [^c1241741]: Marginal citation: [Paragraph 38](https://www.legislation.gov.uk/uksi/2005/3360/paragraph/38) was added by [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663).
 
-[^key-b573fac94380d3bff9c126c56cc72cc2]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/3360/regulation/5) substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 30(1)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/30/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-b573fac94380d3bff9c126c56cc72cc2]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/3360/regulation/5) substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 30(1)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/30/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1241748]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2005/3360/section/I). 1996/ 207.
 
@@ -362,7 +362,7 @@ A full regulatory impact assessment has not been provided for this instrument as
 
 [^c1241752]: Marginal citation: [Schedule 5A](https://www.legislation.gov.uk/uksi/2005/3360/schedule/5A) was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
-[^key-ebc2aaf2209ea3d4829c9d677da3055b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/3360/regulation/7) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-ebc2aaf2209ea3d4829c9d677da3055b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/3360/regulation/7) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
 [^c1241755]: Marginal citation: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 

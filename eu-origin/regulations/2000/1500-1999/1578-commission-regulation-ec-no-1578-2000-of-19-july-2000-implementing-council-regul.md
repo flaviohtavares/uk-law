@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1578/2000
 
 of 19 July 2000 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the specification of the 2001 ad hoc module on length and patterns of working time (revoked)
 
-[^key-2309a6bc8010c6852e8d289fb347a29a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2309a6bc8010c6852e8d289fb347a29a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-2309a6bc8010c6852e8d289fb347a29a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-2309a6bc8010c6852e8d289fb347a29a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2309a6bc8010c6852e8d289fb347a29a]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2309a6bc8010c6852e8d289fb347a29a]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

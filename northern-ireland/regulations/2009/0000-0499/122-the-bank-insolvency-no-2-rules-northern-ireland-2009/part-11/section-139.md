@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 139. Debts of insolvent company to rank equally[^key-189ee66e60fa08e0ce1f5b0e82d8efe6]
+## 139. Debts of insolvent company to rank equally[^c-189ee66e60fa08e0ce1f5b0e82d8efe6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.190 of the 1991 Rules.
 
 ## Annotations
 
-[^key-189ee66e60fa08e0ce1f5b0e82d8efe6]: Commencement: Rule 139 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-189ee66e60fa08e0ce1f5b0e82d8efe6]: Commencement: Rule 139 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

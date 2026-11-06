@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Power to refuse to consider similar applications[^key-df14e7c410c7a58f83354fe3ee825b59][^key-04cc4a0fbfe8094b0d621dd2760e8e18]
+## 93. Power to refuse to consider similar applications[^c-df14e7c410c7a58f83354fe3ee825b59][^c-04cc4a0fbfe8094b0d621dd2760e8e18]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df14e7c410c7a58f83354fe3ee825b59]: Commencement: S. 93 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-df14e7c410c7a58f83354fe3ee825b59]: Commencement: S. 93 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-04cc4a0fbfe8094b0d621dd2760e8e18]: Commencement: [S. 93](https://www.legislation.gov.uk/asc/2023/3/section/93) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-04cc4a0fbfe8094b0d621dd2760e8e18]: Commencement: [S. 93](https://www.legislation.gov.uk/asc/2023/3/section/93) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

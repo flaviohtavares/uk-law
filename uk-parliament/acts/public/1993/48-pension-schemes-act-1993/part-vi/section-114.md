@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Additional documents for members etc. and Registrar.[^key-7ce0aa34fb4c077ffacb447aa643ca60]
+## 114. Additional documents for members etc. and Registrar.[^c-7ce0aa34fb4c077ffacb447aa643ca60]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ce0aa34fb4c077ffacb447aa643ca60]: Textual amendment: S. 114 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/27), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 7](https://www.legislation.gov.uk/uksi/1997/664/article/7))
+[^c-7ce0aa34fb4c077ffacb447aa643ca60]: Textual amendment: S. 114 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/27), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 7](https://www.legislation.gov.uk/uksi/1997/664/article/7))

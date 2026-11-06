@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 97. Own Funds based on Fixed Overheads[^key-7c130d1aa0319106374f147827bbae04]
+## Article 97. Own Funds based on Fixed Overheads[^c-7c130d1aa0319106374f147827bbae04]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-7c130d1aa0319106374f147827bbae04]: Textual amendment: [Art. 97](https://www.legislation.gov.uk/eur/2013/575/article/97) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/19); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))
+[^c-7c130d1aa0319106374f147827bbae04]: Textual amendment: [Art. 97](https://www.legislation.gov.uk/eur/2013/575/article/97) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/19); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))

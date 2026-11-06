@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59BB. CGT exit charge payment plans[^key-ff13d69b1354d98a9572ee18a22e3b56]
+## 59BB. CGT exit charge payment plans[^c-ff13d69b1354d98a9572ee18a22e3b56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3ZAA contains provision for the payment in instalments of capital gains
 
 ## Annotations
 
-[^key-ff13d69b1354d98a9572ee18a22e3b56]: Textual amendment: S. 59BB inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/1)
+[^c-ff13d69b1354d98a9572ee18a22e3b56]: Textual amendment: S. 59BB inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/1)

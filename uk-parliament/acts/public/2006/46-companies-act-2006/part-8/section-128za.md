@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128ZA. Transitional provision where information kept on central register[^key-b2268031e7ca52b91e4048158f08e4de]
+## 128ZA. Transitional provision where information kept on central register[^c-b2268031e7ca52b91e4048158f08e4de]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2268031e7ca52b91e4048158f08e4de]: Textual amendment: [S. 128ZA](https://www.legislation.gov.uk/ukpga/2006/46/section/128ZA) inserted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/49/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-b2268031e7ca52b91e4048158f08e4de]: Textual amendment: [S. 128ZA](https://www.legislation.gov.uk/ukpga/2006/46/section/128ZA) inserted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/49/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

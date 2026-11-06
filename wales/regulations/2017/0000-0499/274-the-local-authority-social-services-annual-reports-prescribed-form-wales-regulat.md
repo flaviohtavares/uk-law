@@ -45,20 +45,20 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 144A(4) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations:
 
-## 1. Title, commencement and application[^key-f9f8814321fb50faa7a5143c7ddfeebf]
+## 1. Title, commencement and application[^c-f9f8814321fb50faa7a5143c7ddfeebf]
 
 (1) The title of these Regulations is the Local Authority Social Services Annual Reports (Prescribed Form) (Wales) Regulations 2017.
 
 (2) These Regulations come into force on 4 September 2017 and apply in relation to Wales.
 
-## 2. Interpretation[^key-b95f08bc538fec756d3c40e023bfe0ba]
+## 2. Interpretation[^c-b95f08bc538fec756d3c40e023bfe0ba]
 
 In these Regulations—
 
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
 - “annual report” (“*adroddiad blynyddol*”) means the report that a local authority is required to prepare and publish in accordance with section 144A of the Act.
 
-## 3. Form of annual report[^key-6651a0bd9c0e08ddf3acb1399d172196]
+## 3. Form of annual report[^c-6651a0bd9c0e08ddf3acb1399d172196]
 
 The Schedule (which sets out the requirements as to the form of annual reports) has effect.
 
@@ -72,7 +72,7 @@ Minister for Social Services and Public Health under authority of the Cabinet Se
 
 Regulation 3
 
-**1.**[^key-fa3f2874f7ede8caf233310bde205fdf] The information which is required to be included in an annual report must be set out under the following headings—
+**1.**[^c-fa3f2874f7ede8caf233310bde205fdf] The information which is required to be included in an annual report must be set out under the following headings—
 
 Chapter 1: Director’s summary
 
@@ -128,10 +128,10 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4). Section 144A was inserted by section 56(1) of the [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-f9f8814321fb50faa7a5143c7ddfeebf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/274/regulation/1) in force at 4.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/274/regulation/1/2)
+[^c-f9f8814321fb50faa7a5143c7ddfeebf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/274/regulation/1) in force at 4.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/274/regulation/1/2)
 
-[^key-b95f08bc538fec756d3c40e023bfe0ba]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/274/regulation/2) in force at 4.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/274/regulation/1/2)
+[^c-b95f08bc538fec756d3c40e023bfe0ba]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/274/regulation/2) in force at 4.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/274/regulation/1/2)
 
-[^key-6651a0bd9c0e08ddf3acb1399d172196]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/274/regulation/3) in force at 4.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/274/regulation/1/2)
+[^c-6651a0bd9c0e08ddf3acb1399d172196]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/274/regulation/3) in force at 4.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/274/regulation/1/2)
 
-[^key-fa3f2874f7ede8caf233310bde205fdf]: Textual amendment: [Sch. paras. 1-4](https://www.legislation.gov.uk/wsi/2017/274/schedule/paragraph/1) substituted (1.4.2024) by [The Local Authority Social Services Annual Reports (Prescribed Form) (Wales) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1355)](https://www.legislation.gov.uk/wsi/2023/1355), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1355/regulation/1), [3](https://www.legislation.gov.uk/wsi/2023/1355/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2023/1355/regulation/4))
+[^c-fa3f2874f7ede8caf233310bde205fdf]: Textual amendment: [Sch. paras. 1-4](https://www.legislation.gov.uk/wsi/2017/274/schedule/paragraph/1) substituted (1.4.2024) by [The Local Authority Social Services Annual Reports (Prescribed Form) (Wales) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1355)](https://www.legislation.gov.uk/wsi/2023/1355), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1355/regulation/1), [3](https://www.legislation.gov.uk/wsi/2023/1355/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2023/1355/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. Requirement for scheme manager to provide a certificate[^key-64deac84735af89f0d0b76e11e7812cc]
+## 155. Requirement for scheme manager to provide a certificate[^c-64deac84735af89f0d0b76e11e7812cc]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64deac84735af89f0d0b76e11e7812cc]: Commencement: Reg. 155 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-64deac84735af89f0d0b76e11e7812cc]: Commencement: Reg. 155 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

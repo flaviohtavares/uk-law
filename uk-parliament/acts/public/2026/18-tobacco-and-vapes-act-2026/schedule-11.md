@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 11 — Retail licensing scheme in Northern Ireland[^key-f5c9c2f4fc3ebc7194ef3087b531dd5b]
+## Schedule 11 — Retail licensing scheme in Northern Ireland[^c-f5c9c2f4fc3ebc7194ef3087b531dd5b]
 
 *Extent: N.I.*
 
 Section 88(2)
 
-[^key-f5c9c2f4fc3ebc7194ef3087b531dd5b]
+[^c-f5c9c2f4fc3ebc7194ef3087b531dd5b]
 
 In the [Tobacco Retailers Act (Northern Ireland) 2014 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2014/4/contents), after section 26 insert—
 
@@ -110,4 +110,4 @@ In the [Tobacco Retailers Act (Northern Ireland) 2014 (c. 4 (N.I.))](https://www
 
 ## Annotations
 
-[^key-f5c9c2f4fc3ebc7194ef3087b531dd5b]: Commencement: Sch. 11 in force at Royal Assent for specified purposes, see [s. 175(2)(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/8)
+[^c-f5c9c2f4fc3ebc7194ef3087b531dd5b]: Commencement: Sch. 11 in force at Royal Assent for specified purposes, see [s. 175(2)(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/8)

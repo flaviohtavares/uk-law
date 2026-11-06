@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Application to the Isle of Man[^key-1dd390786bfc450fb4683cb9f9854e59]
+## 99. Application to the Isle of Man[^c-1dd390786bfc450fb4683cb9f9854e59]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ In the application of these Regulations to the Isle of Man—
 
 ## Annotations
 
-[^key-1dd390786bfc450fb4683cb9f9854e59]: Commencement: Reg. 99 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-1dd390786bfc450fb4683cb9f9854e59]: Commencement: Reg. 99 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00044]: Footnote: AT 8 of 1998.
 

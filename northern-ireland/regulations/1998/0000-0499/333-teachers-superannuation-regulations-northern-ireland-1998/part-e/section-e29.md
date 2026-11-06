@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E29. Amounts of children’s long-term pensions[^key-5cee0bd669ea8ee2dc316a925c020e35]
+## E29. Amounts of children’s long-term pensions[^c-5cee0bd669ea8ee2dc316a925c020e35]
 
 *Extent: N.I.*
 
@@ -76,4 +76,4 @@ where—
 
 ## Annotations
 
-[^key-5cee0bd669ea8ee2dc316a925c020e35]: Commencement: Reg. E29 in operation at 2.11.1998, see reg. A1
+[^c-5cee0bd669ea8ee2dc316a925c020e35]: Commencement: Reg. E29 in operation at 2.11.1998, see reg. A1

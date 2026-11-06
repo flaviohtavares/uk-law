@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment of article 40[^key-0ceecf8b7f65beedd49e253258e1f953]
+## 35. Amendment of article 40[^c-0ceecf8b7f65beedd49e253258e1f953]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ceecf8b7f65beedd49e253258e1f953]: Commencement: Reg. 35 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-0ceecf8b7f65beedd49e253258e1f953]: Commencement: Reg. 35 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00028]: Footnote: Article 40 was amended by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).

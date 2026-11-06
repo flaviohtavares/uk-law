@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Miners' welfare institute[^key-90ce64830ef181c8989fd20c23316598][^key-2efb90cb4b11a8b8fcdcdcb4f35429f0]
+## 268. Miners' welfare institute[^c-90ce64830ef181c8989fd20c23316598][^c-2efb90cb4b11a8b8fcdcdcb4f35429f0]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ and the group mentioned in subsection (2) must contain both one or more persons 
 
 ## Annotations
 
-[^key-90ce64830ef181c8989fd20c23316598]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2005/19/section/268) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-90ce64830ef181c8989fd20c23316598]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2005/19/section/268) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-2efb90cb4b11a8b8fcdcdcb4f35429f0]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2005/19/section/268) in force at 1.8.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3A)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3A), [Sch. 3A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3A) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/1157, arts. 3(4), 6, Sch. 2)
+[^c-2efb90cb4b11a8b8fcdcdcb4f35429f0]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2005/19/section/268) in force at 1.8.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3A)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3A), [Sch. 3A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3A) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/1157, arts. 3(4), 6, Sch. 2)

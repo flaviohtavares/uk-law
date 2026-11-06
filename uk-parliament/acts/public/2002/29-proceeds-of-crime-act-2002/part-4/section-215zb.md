@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215ZB. Meaning of “UK-connected cryptoasset service provider”[^key-9802e425cd1107b40349057bed526d1a]
+## 215ZB. Meaning of “UK-connected cryptoasset service provider”[^c-9802e425cd1107b40349057bed526d1a]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9802e425cd1107b40349057bed526d1a]: Textual amendment: [Ss. 215ZA](https://www.legislation.gov.uk/ukpga/2002/29/section/215ZA), [215ZB](https://www.legislation.gov.uk/ukpga/2002/29/section/215ZB) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(5)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/5/a), [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/48); [S.R. 2024/82](https://www.legislation.gov.uk/nisr/2024/82), [art. 2](https://www.legislation.gov.uk/nisr/2024/82/article/2)
+[^c-9802e425cd1107b40349057bed526d1a]: Textual amendment: [Ss. 215ZA](https://www.legislation.gov.uk/ukpga/2002/29/section/215ZA), [215ZB](https://www.legislation.gov.uk/ukpga/2002/29/section/215ZB) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(5)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/5/a), [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/48); [S.R. 2024/82](https://www.legislation.gov.uk/nisr/2024/82), [art. 2](https://www.legislation.gov.uk/nisr/2024/82/article/2)

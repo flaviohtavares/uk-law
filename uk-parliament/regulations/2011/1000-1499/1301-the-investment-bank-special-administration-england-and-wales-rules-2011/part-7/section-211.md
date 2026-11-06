@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 211. Administrator deceased[^key-1ca8c4ea898908a24559a3270671469a]
+## 211. Administrator deceased[^c-1ca8c4ea898908a24559a3270671469a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ca8c4ea898908a24559a3270671469a]: Commencement: [Rule 211](https://www.legislation.gov.uk/uksi/2011/1301/rule/211) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-1ca8c4ea898908a24559a3270671469a]: Commencement: [Rule 211](https://www.legislation.gov.uk/uksi/2011/1301/rule/211) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

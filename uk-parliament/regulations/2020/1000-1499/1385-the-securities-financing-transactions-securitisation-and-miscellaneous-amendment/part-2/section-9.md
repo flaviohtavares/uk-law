@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Period during which regulation 6 is to apply[^key-ae33e7b91f19349b5c90083dc45adff6]
+## 9. Period during which regulation 6 is to apply[^c-ae33e7b91f19349b5c90083dc45adff6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae33e7b91f19349b5c90083dc45adff6]: Commencement: Reg. 9 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-ae33e7b91f19349b5c90083dc45adff6]: Commencement: Reg. 9 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

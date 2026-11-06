@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Privileged material[^key-edf5b4068df88e0fde2b0c236b70be92]
+## 85. Privileged material[^c-edf5b4068df88e0fde2b0c236b70be92]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edf5b4068df88e0fde2b0c236b70be92]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2010/16/section/85) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-edf5b4068df88e0fde2b0c236b70be92]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2010/16/section/85) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

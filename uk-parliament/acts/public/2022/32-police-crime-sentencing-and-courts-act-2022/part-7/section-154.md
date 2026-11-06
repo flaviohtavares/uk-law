@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Drug testing requirement[^key-39f2f61b32d0f58e471d399e84aef2de]
+## 154. Drug testing requirement[^c-39f2f61b32d0f58e471d399e84aef2de]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 15 amends the Sentencing Code to make provision for a drug testing requ
 
 ## Annotations
 
-[^key-39f2f61b32d0f58e471d399e84aef2de]: Commencement: S. 154 in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
+[^c-39f2f61b32d0f58e471d399e84aef2de]: Commencement: S. 154 in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)

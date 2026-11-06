@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 260X. Application of Chapter 11 of this Part[^key-19483b2d3af8f38e66b91dd8dd2f7487]
+## 260X. Application of Chapter 11 of this Part[^c-19483b2d3af8f38e66b91dd8dd2f7487]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19483b2d3af8f38e66b91dd8dd2f7487]: Textual amendment: [Pt. 3 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/3/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 51](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/51), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-19483b2d3af8f38e66b91dd8dd2f7487]: Textual amendment: [Pt. 3 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/3/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 51](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/51), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

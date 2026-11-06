@@ -49,7 +49,7 @@ In this Act—
 
 ## Pre-contract and pre-variation information
 
-### 2. Disclosure and representations before contract or variation[^key-b46807e87d2c4bd9ee4f098fe7e4fbe1]
+### 2. Disclosure and representations before contract or variation[^c-b46807e87d2c4bd9ee4f098fe7e4fbe1]
 
 (1) This section makes provision about disclosure and representations by a consumer to an insurer before a consumer insurance contract is entered into or varied.
 
@@ -59,9 +59,9 @@ In this Act—
 
 (4) The duty set out in subsection (2) replaces any duty relating to disclosure or representations by a consumer to an insurer which existed in the same circumstances before this Act applied.
 
-(5)[^key-93da5d7dcb3ca08923dfafc0273c76ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-93da5d7dcb3ca08923dfafc0273c76ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Reasonable care[^key-4d1e3d9515232f15f5cc735378d7302f]
+### 3. Reasonable care[^c-4d1e3d9515232f15f5cc735378d7302f]
 
 (1) Whether or not a consumer has taken reasonable care not to make a misrepresentation is to be determined in the light of all the relevant circumstances.
 
@@ -81,7 +81,7 @@ In this Act—
 
 ## Qualifying misrepresentations
 
-### 4. Qualifying misrepresentations: definition and remedies[^key-b0fbe083944bda723e9b47ccbfdf919b]
+### 4. Qualifying misrepresentations: definition and remedies[^c-b0fbe083944bda723e9b47ccbfdf919b]
 
 (1) An insurer has a remedy against a consumer for a misrepresentation made by the consumer before a consumer insurance contract was entered into or varied only if—
 
@@ -92,7 +92,7 @@ In this Act—
 
 (3) The only such remedies available are set out in Schedule 1.
 
-### 5. Qualifying misrepresentations: classification and presumptions[^key-811121224e509831669ee8048e4bd309]
+### 5. Qualifying misrepresentations: classification and presumptions[^c-811121224e509831669ee8048e4bd309]
 
 (1) For the purposes of this Act, a qualifying misrepresentation (see section 4(2)) is either—
 
@@ -115,7 +115,7 @@ In this Act—
 
 ## Specific issues
 
-### 6. Warranties and representations[^key-d43fc3867fe52346d88a7ba33160c4ee]
+### 6. Warranties and representations[^c-d43fc3867fe52346d88a7ba33160c4ee]
 
 (1) This section applies to representations made by a consumer—
 
@@ -124,7 +124,7 @@ In this Act—
 
 (2) Such a representation is not capable of being converted into a warranty by means of any provision of the consumer insurance contract (or of the terms of the variation), or of any other contract (and whether by declaring the representation to form the basis of the contract or otherwise).
 
-### 7. Group insurance[^key-79ebd5325fd76343ce377d2f2b354c42]
+### 7. Group insurance[^c-79ebd5325fd76343ce377d2f2b354c42]
 
 (1) This section applies where—
 
@@ -146,7 +146,7 @@ In this Act—
 
 (5) Nothing in this section affects any duty owed by A to the insurer, or any remedy which the insurer may have against A for breach of such a duty.
 
-### 8. Insurance on life of another[^key-cd82a9ebdc45ce40b88a1d372e8e5ba5]
+### 8. Insurance on life of another[^c-cd82a9ebdc45ce40b88a1d372e8e5ba5]
 
 (1) This section applies in relation to a consumer insurance contract for life insurance on the life of an individual (“L”) who is not a party to the contract.
 
@@ -155,11 +155,11 @@ In this Act—
 - (a) information provided to the insurer by L is to be treated for the purposes of this Act as if it were provided by the person who is the party to the contract, but
 - (b) in relation to such information, if anything turns on the state of mind, knowledge, circumstances or characteristics of the individual providing the information, it is to be determined by reference to L and not the party to the contract.
 
-### 9. Agents[^key-831dc6461f9cb045b2bdae9cd916a789]
+### 9. Agents[^c-831dc6461f9cb045b2bdae9cd916a789]
 
 Schedule 2 applies for determining, for the purposes of this Act only, whether an agent through whom a consumer insurance contract is effected is the agent of the consumer or of the insurer.
 
-### 10. Contracting out[^key-5a6a85ee2ac5de68bfd1f96bd5ea4a1f]
+### 10. Contracting out[^c-5a6a85ee2ac5de68bfd1f96bd5ea4a1f]
 
 (1) A term of a consumer insurance contract, or of any other contract, which would put the consumer in a worse position as respects the matters mentioned in subsection (2) than the consumer would be in by virtue of the provisions of this Act is to that extent of no effect.
 
@@ -172,11 +172,11 @@ Schedule 2 applies for determining, for the purposes of this Act only, whether a
 
 ## Final provision
 
-### 11. Consequential provision[^key-05a7ac4c9a9c9dcbe29a788a65ffb7cc]
+### 11. Consequential provision[^c-05a7ac4c9a9c9dcbe29a788a65ffb7cc]
 
-(1)[^key-c7f9cfc9b479b67f79a9f3483afc2a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c7f9cfc9b479b67f79a9f3483afc2a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c7f9cfc9b479b67f79a9f3483afc2a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c7f9cfc9b479b67f79a9f3483afc2a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 152 of the Road Traffic Act 1988 (exceptions to duty of insurers to satisfy judgment against persons insured against third-party risks), in subsection (2)—
 
@@ -219,34 +219,34 @@ Section 4(3).
 
 #### General
 
-**1.**[^key-336bb74897a5df84203b4ab52dde24fa] This Part of this Schedule applies in relation to qualifying misrepresentations made in connection with consumer insurance contracts (for variations to them, see Part 2).
+**1.**[^c-336bb74897a5df84203b4ab52dde24fa] This Part of this Schedule applies in relation to qualifying misrepresentations made in connection with consumer insurance contracts (for variations to them, see Part 2).
 
 #### Deliberate or reckless misrepresentations
 
-**2.**[^key-385e904ab7390e083353600682974f13] If a qualifying misrepresentation was deliberate or reckless, the insurer—
+**2.**[^c-385e904ab7390e083353600682974f13] If a qualifying misrepresentation was deliberate or reckless, the insurer—
 
 - (a) may avoid the contract and refuse all claims, and
 - (b) need not return any of the premiums paid, except to the extent (if any) that it would be unfair to the consumer to retain them.
 
 #### Careless misrepresentations—claims
 
-**3.**[^key-0bfdfb8f880872767a19e8f053d18af8] If the qualifying misrepresentation was careless, paragraphs 4 to 8 apply in relation to any claim.
+**3.**[^c-0bfdfb8f880872767a19e8f053d18af8] If the qualifying misrepresentation was careless, paragraphs 4 to 8 apply in relation to any claim.
 
-**4.**[^key-80488c6d2b6f0ffe2df2ad5e899a2d0f] The insurer's remedies are based on what it would have done if the consumer had complied with the duty set out in section 2(2), and paragraphs 5 to 8 are to be read accordingly.
+**4.**[^c-80488c6d2b6f0ffe2df2ad5e899a2d0f] The insurer's remedies are based on what it would have done if the consumer had complied with the duty set out in section 2(2), and paragraphs 5 to 8 are to be read accordingly.
 
-**5.**[^key-74771dd18e6aa82db207b111bfda3632] If the insurer would not have entered into the consumer insurance contract on any terms, the insurer may avoid the contract and refuse all claims, but must return the premiums paid.
+**5.**[^c-74771dd18e6aa82db207b111bfda3632] If the insurer would not have entered into the consumer insurance contract on any terms, the insurer may avoid the contract and refuse all claims, but must return the premiums paid.
 
-**6.**[^key-83ab38ba86eae195d207dc8bb846d7c9] If the insurer would have entered into the consumer insurance contract, but on different terms (excluding terms relating to the premium), the contract is to be treated as if it had been entered into on those different terms if the insurer so requires.
+**6.**[^c-83ab38ba86eae195d207dc8bb846d7c9] If the insurer would have entered into the consumer insurance contract, but on different terms (excluding terms relating to the premium), the contract is to be treated as if it had been entered into on those different terms if the insurer so requires.
 
-**7.**[^key-a70513709634c6c678fe61066f3e67a6] In addition, if the insurer would have entered into the consumer insurance contract (whether the terms relating to matters other than the premium would have been the same or different), but would have charged a higher premium, the insurer may reduce proportionately the amount to be paid on a claim.
+**7.**[^c-a70513709634c6c678fe61066f3e67a6] In addition, if the insurer would have entered into the consumer insurance contract (whether the terms relating to matters other than the premium would have been the same or different), but would have charged a higher premium, the insurer may reduce proportionately the amount to be paid on a claim.
 
-**8.**[^key-0b3ddd32845af9bc3663bc1608a57ba7] “**Reduce proportionately**” means that the insurer need pay on the claim only X% of what it would otherwise have been under an obligation to pay under the terms of the contract (or, if applicable, under the different terms provided for by virtue of paragraph 6), where—
+**8.**[^c-0b3ddd32845af9bc3663bc1608a57ba7] “**Reduce proportionately**” means that the insurer need pay on the claim only X% of what it would otherwise have been under an obligation to pay under the terms of the contract (or, if applicable, under the different terms provided for by virtue of paragraph 6), where—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2012/6)
 
 #### Careless misrepresentations—treatment of contract for the future
 
-**9.**[^key-67c3a97b03ae2456d18e3148440a3c96] (1) This paragraph—
+**9.**[^c-67c3a97b03ae2456d18e3148440a3c96] (1) This paragraph—
 
 - (a) applies if the qualifying misrepresentation was careless, but
 - (b) does not relate to any outstanding claim.
@@ -272,42 +272,42 @@ Section 4(3).
 
 ### Part 2 — Variations
 
-**10.**[^key-2eec6e584ee33cf51007b985fd0f2f35] This Part of this Schedule applies in relation to qualifying misrepresentations made in connection with variations to consumer insurance contracts.
+**10.**[^c-2eec6e584ee33cf51007b985fd0f2f35] This Part of this Schedule applies in relation to qualifying misrepresentations made in connection with variations to consumer insurance contracts.
 
-**11.**[^key-3f164c77cad19a51f34e1f31a51e74f7] If the subject-matter of a variation can reasonably be treated separately from the subject-matter of the rest of the contract, Part 1 of this Schedule applies (with any necessary modifications) in relation to the variation as it applies in relation to a contract.
+**11.**[^c-3f164c77cad19a51f34e1f31a51e74f7] If the subject-matter of a variation can reasonably be treated separately from the subject-matter of the rest of the contract, Part 1 of this Schedule applies (with any necessary modifications) in relation to the variation as it applies in relation to a contract.
 
-**12.**[^key-3e8b1a09c12973f154f1cd4ae0c23181] Otherwise, Part 1 applies (with any necessary modifications) as if the qualifying misrepresentation had been made in relation to the whole contract (for this purpose treated as including the variation) rather than merely in relation to the variation.
+**12.**[^c-3e8b1a09c12973f154f1cd4ae0c23181] Otherwise, Part 1 applies (with any necessary modifications) as if the qualifying misrepresentation had been made in relation to the whole contract (for this purpose treated as including the variation) rather than merely in relation to the variation.
 
 ### Part 3 — Modifications for group insurance
 
-**13.**[^key-956cdf3c42e324903e9ef023506bf264] Part 1 is to be read subject to the following modifications in relation to cover provided for C under a group insurance contract as mentioned in section 7 (and in this Part “A” and “C” mean the same as in that section).
+**13.**[^c-956cdf3c42e324903e9ef023506bf264] Part 1 is to be read subject to the following modifications in relation to cover provided for C under a group insurance contract as mentioned in section 7 (and in this Part “A” and “C” mean the same as in that section).
 
-**14.**[^key-f5226450ffe000efe8bc68e6387698b9] References to the consumer insurance contract (however described) are to that part of the contract which provides for cover for C.
+**14.**[^c-f5226450ffe000efe8bc68e6387698b9] References to the consumer insurance contract (however described) are to that part of the contract which provides for cover for C.
 
-**15.**[^key-673356f91a0fd4e30b520ffe1bbf1bf9] References to claims and premiums are to claims and premiums in relation to that cover.
+**15.**[^c-673356f91a0fd4e30b520ffe1bbf1bf9] References to claims and premiums are to claims and premiums in relation to that cover.
 
-**16.**[^key-1b78c9521bb0d45660556b014ff6ca7e] The reference to the consumer is to be read—
+**16.**[^c-1b78c9521bb0d45660556b014ff6ca7e] The reference to the consumer is to be read—
 
 - (a) in paragraph 2(b), as a reference to whoever paid the premiums, or the part of them that related to the cover for C,
 - (b) in paragraph 9(4) and (6), as a reference to A.
 
 ### Part 4 — Supplementary
 
-**17.**[^key-67027c1784a2fba2d856c7fac435df43] Section 84 of the Marine Insurance Act 1906 (return of premium for failure of consideration) is to be read subject to the provisions of this Schedule in relation to contracts of marine insurance which are consumer insurance contracts.
+**17.**[^c-67027c1784a2fba2d856c7fac435df43] Section 84 of the Marine Insurance Act 1906 (return of premium for failure of consideration) is to be read subject to the provisions of this Schedule in relation to contracts of marine insurance which are consumer insurance contracts.
 
 ## SCHEDULE 2 — Rules for determining status of agents
 
 Section 9.
 
-**1.**[^key-852d6740462bd405140bb5c4e1ca53e4] This Schedule sets out rules for determining, for the purposes of this Act only, whether an agent through whom a consumer insurance contract is effected is acting as the agent of the consumer or of the insurer.
+**1.**[^c-852d6740462bd405140bb5c4e1ca53e4] This Schedule sets out rules for determining, for the purposes of this Act only, whether an agent through whom a consumer insurance contract is effected is acting as the agent of the consumer or of the insurer.
 
-**2.**[^key-e49fc4e3eb82f85bb583f84ac38f112e] The agent is to be taken as the insurer's agent in each of the following cases—
+**2.**[^c-e49fc4e3eb82f85bb583f84ac38f112e] The agent is to be taken as the insurer's agent in each of the following cases—
 
 - (a) when the agent does something in the agent's capacity as the appointed representative of the insurer for the purposes of the Financial Services and Markets Act 2000 (see section 39 of that Act),
 - (b) when the agent collects information from the consumer, if the insurer had given the agent express authority to do so as the insurer's agent,
 - (c) when the agent enters into the contract as the insurer's agent, if the insurer had given the agent express authority to do so.
 
-**3.**[^key-7857d1abe5e478f845297851594b1e30] (1) In any other case, it is to be presumed that the agent is acting as the consumer's agent unless, in the light of all the relevant circumstances, it appears that the agent is acting as the insurer's agent.
+**3.**[^c-7857d1abe5e478f845297851594b1e30] (1) In any other case, it is to be presumed that the agent is acting as the consumer's agent unless, in the light of all the relevant circumstances, it appears that the agent is acting as the insurer's agent.
 
 (2) Some factors which may be relevant are set out below.
 
@@ -326,74 +326,74 @@ Section 9.
 - (e) the insurance in question is marketed under the name of the agent,
 - (f) the insurer asks the agent to solicit the consumer's custom.
 
-**4.**[^key-d75e71a1e4cdb3d3b68af66e6dd65a0e] (1) If it appears to the Treasury that the list of factors in sub-paragraph (3) or (4) of paragraph 3 has become outdated, the Treasury may by order made by statutory instrument bring the list up to date by amending the sub-paragraph so as to add, omit or alter any factor.
+**4.**[^c-d75e71a1e4cdb3d3b68af66e6dd65a0e] (1) If it appears to the Treasury that the list of factors in sub-paragraph (3) or (4) of paragraph 3 has become outdated, the Treasury may by order made by statutory instrument bring the list up to date by amending the sub-paragraph so as to add, omit or alter any factor.
 
 (2) A statutory instrument containing an order under sub-paragraph (1) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
 ## Annotations
 
-[^key-b46807e87d2c4bd9ee4f098fe7e4fbe1]: Commencement: S. 2 in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-b46807e87d2c4bd9ee4f098fe7e4fbe1]: Commencement: S. 2 in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-93da5d7dcb3ca08923dfafc0273c76ff]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2012/6/section/2/5) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2015/4/section/14/4), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [s. 22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))
+[^c-93da5d7dcb3ca08923dfafc0273c76ff]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2012/6/section/2/5) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2015/4/section/14/4), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [s. 22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))
 
-[^key-4d1e3d9515232f15f5cc735378d7302f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/6/section/3) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-4d1e3d9515232f15f5cc735378d7302f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/6/section/3) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-b0fbe083944bda723e9b47ccbfdf919b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/6/section/4) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-b0fbe083944bda723e9b47ccbfdf919b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/6/section/4) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-811121224e509831669ee8048e4bd309]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2012/6/section/5) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-811121224e509831669ee8048e4bd309]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2012/6/section/5) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-d43fc3867fe52346d88a7ba33160c4ee]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/6/section/6) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-d43fc3867fe52346d88a7ba33160c4ee]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/6/section/6) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-79ebd5325fd76343ce377d2f2b354c42]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2012/6/section/7) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-79ebd5325fd76343ce377d2f2b354c42]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2012/6/section/7) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-cd82a9ebdc45ce40b88a1d372e8e5ba5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2012/6/section/8) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-cd82a9ebdc45ce40b88a1d372e8e5ba5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2012/6/section/8) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-831dc6461f9cb045b2bdae9cd916a789]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/6/section/9) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-831dc6461f9cb045b2bdae9cd916a789]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/6/section/9) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-5a6a85ee2ac5de68bfd1f96bd5ea4a1f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/6/section/10) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-5a6a85ee2ac5de68bfd1f96bd5ea4a1f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/6/section/10) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-05a7ac4c9a9c9dcbe29a788a65ffb7cc]: Commencement: S. 11 in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-05a7ac4c9a9c9dcbe29a788a65ffb7cc]: Commencement: S. 11 in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-c7f9cfc9b479b67f79a9f3483afc2a5a]: Textual amendment: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2012/6/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/6/section/11/2) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 21(6)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/6), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [s. 22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))
+[^c-c7f9cfc9b479b67f79a9f3483afc2a5a]: Textual amendment: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2012/6/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/6/section/11/2) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 21(6)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/6), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [s. 22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))
 
-[^key-336bb74897a5df84203b4ab52dde24fa]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/1) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-336bb74897a5df84203b4ab52dde24fa]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/1) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-385e904ab7390e083353600682974f13]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/2) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-385e904ab7390e083353600682974f13]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/2) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-0bfdfb8f880872767a19e8f053d18af8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/3) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-0bfdfb8f880872767a19e8f053d18af8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/3) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-80488c6d2b6f0ffe2df2ad5e899a2d0f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/4) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-80488c6d2b6f0ffe2df2ad5e899a2d0f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/4) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-74771dd18e6aa82db207b111bfda3632]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/5) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-74771dd18e6aa82db207b111bfda3632]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/5) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-83ab38ba86eae195d207dc8bb846d7c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/6) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-83ab38ba86eae195d207dc8bb846d7c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/6) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-a70513709634c6c678fe61066f3e67a6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/7) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-a70513709634c6c678fe61066f3e67a6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/7) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-0b3ddd32845af9bc3663bc1608a57ba7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/8) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-0b3ddd32845af9bc3663bc1608a57ba7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/8) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-67c3a97b03ae2456d18e3148440a3c96]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/9) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-67c3a97b03ae2456d18e3148440a3c96]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/9) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-2eec6e584ee33cf51007b985fd0f2f35]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/10) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-2eec6e584ee33cf51007b985fd0f2f35]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/10) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-3f164c77cad19a51f34e1f31a51e74f7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/11) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-3f164c77cad19a51f34e1f31a51e74f7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/11) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-3e8b1a09c12973f154f1cd4ae0c23181]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/12) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-3e8b1a09c12973f154f1cd4ae0c23181]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/12) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-956cdf3c42e324903e9ef023506bf264]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/13) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-956cdf3c42e324903e9ef023506bf264]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/13) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-f5226450ffe000efe8bc68e6387698b9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/14) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-f5226450ffe000efe8bc68e6387698b9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/14) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-673356f91a0fd4e30b520ffe1bbf1bf9]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/15) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-673356f91a0fd4e30b520ffe1bbf1bf9]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/15) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-1b78c9521bb0d45660556b014ff6ca7e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/16) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-1b78c9521bb0d45660556b014ff6ca7e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/16) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-67027c1784a2fba2d856c7fac435df43]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/17) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-67027c1784a2fba2d856c7fac435df43]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/17) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-852d6740462bd405140bb5c4e1ca53e4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/1) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-852d6740462bd405140bb5c4e1ca53e4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/1) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-e49fc4e3eb82f85bb583f84ac38f112e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/2) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-e49fc4e3eb82f85bb583f84ac38f112e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/2) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-7857d1abe5e478f845297851594b1e30]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/3) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-7857d1abe5e478f845297851594b1e30]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/3) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-d75e71a1e4cdb3d3b68af66e6dd65a0e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/4) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-d75e71a1e4cdb3d3b68af66e6dd65a0e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2012/6/schedule/2/paragraph/4) in force at 6.4.2013 by [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)

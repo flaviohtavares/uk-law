@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26ZA. Onward share transfer instruments[^key-9c00fe72d8cdf51e78902dd34629b477]
+## 26ZA. Onward share transfer instruments[^c-9c00fe72d8cdf51e78902dd34629b477]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c00fe72d8cdf51e78902dd34629b477]: Textual amendment: [S. 26ZA](https://www.legislation.gov.uk/ukpga/2009/1/section/26ZA) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/9/1)
+[^c-9c00fe72d8cdf51e78902dd34629b477]: Textual amendment: [S. 26ZA](https://www.legislation.gov.uk/ukpga/2009/1/section/26ZA) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/9/1)

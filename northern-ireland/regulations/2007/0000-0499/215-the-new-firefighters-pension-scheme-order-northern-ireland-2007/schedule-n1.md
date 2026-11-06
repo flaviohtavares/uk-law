@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## Schedule A1[^key-7b4af04e1a0e79d42814579caa580ab4]
+## Schedule A1[^c-7b4af04e1a0e79d42814579caa580ab4]
 
 *Extent: N.I.*
 
@@ -30,11 +30,11 @@ summary: ''
 
 **4.** Where there has been a permanent material change to the terms and conditions of a firefighter member’s employment which affects his pensionable pay, from the date of that change pensionable pay shall be calculated by reference to the revised amount.
 
-**5.**[^key-bf26171dbf3529911829607f16d05fb9] Pensionable pay in the first column of the Table below does not include payments made to a firefighter member by the Board in respect of any benefits which are pensionable under article 17B(1) of Part 3, but those payments shall be included in his pensionable pay for the purposes of the application of the rate specified in the second column.
+**5.**[^c-bf26171dbf3529911829607f16d05fb9] Pensionable pay in the first column of the Table below does not include payments made to a firefighter member by the Board in respect of any benefits which are pensionable under article 17B(1) of Part 3, but those payments shall be included in his pensionable pay for the purposes of the application of the rate specified in the second column.
 
 | Pensionable Pay | Contribution rate from 1st April 2015 to 31st March 2016 (percentage of pensionable pay) |
 | --- | --- |
-| Up to and including £15,150[^key-972973d12c5ac43bd5bcd988a7c7f07f] | 8.5% |
+| Up to and including £15,150[^c-972973d12c5ac43bd5bcd988a7c7f07f] | 8.5% |
 | More than £15,150 and up to and including £21,210 | 9.4% |
 | More than £21,210 and up to and including £30,300 | 10.4% |
 | More than £30,300 and up to and including £40,400 | 10.9% |
@@ -82,8 +82,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7b4af04e1a0e79d42814579caa580ab4]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/nisr/2007/215/schedule/A1) inserted (1.4.2012) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/162)](https://www.legislation.gov.uk/nisr/2012/162), [arts. 1](https://www.legislation.gov.uk/nisr/2012/162/article/1), [4](https://www.legislation.gov.uk/nisr/2012/162/article/4)
+[^c-7b4af04e1a0e79d42814579caa580ab4]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/nisr/2007/215/schedule/A1) inserted (1.4.2012) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/162)](https://www.legislation.gov.uk/nisr/2012/162), [arts. 1](https://www.legislation.gov.uk/nisr/2012/162/article/1), [4](https://www.legislation.gov.uk/nisr/2012/162/article/4)
 
-[^key-bf26171dbf3529911829607f16d05fb9]: Textual amendment: [Sch. A1 para. 5](https://www.legislation.gov.uk/nisr/2007/215/schedule/A1/paragraph/5) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/13/2)
+[^c-bf26171dbf3529911829607f16d05fb9]: Textual amendment: [Sch. A1 para. 5](https://www.legislation.gov.uk/nisr/2007/215/schedule/A1/paragraph/5) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/13/2)
 
-[^key-972973d12c5ac43bd5bcd988a7c7f07f]: Textual amendment: [Sch. A1 para. 5](https://www.legislation.gov.uk/nisr/2007/215/schedule/A1/paragraph/5) table substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/5)
+[^c-972973d12c5ac43bd5bcd988a7c7f07f]: Textual amendment: [Sch. A1 para. 5](https://www.legislation.gov.uk/nisr/2007/215/schedule/A1/paragraph/5) table substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Electronically tracked stolen goods: search without warrant (armed forces)[^key-5bb5fa8d869ba74e38fa986e3eb6cf03]
+## 172. Electronically tracked stolen goods: search without warrant (armed forces)[^c-5bb5fa8d869ba74e38fa986e3eb6cf03]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,4 +115,4 @@ In the Armed Forces Act 2006, after section 93ZA insert—
 
 ## Annotations
 
-[^key-5bb5fa8d869ba74e38fa986e3eb6cf03]: Commencement: S. 172 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5bb5fa8d869ba74e38fa986e3eb6cf03]: Commencement: S. 172 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

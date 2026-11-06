@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.8. Transmission[^key-470f8c218fa2a5fb1d7338d405a6d676]
+## 5.8. Transmission[^c-470f8c218fa2a5fb1d7338d405a6d676]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ On the grant of an application under rule 5.7, the sheriff clerk shall send to t
 
 ## Annotations
 
-[^key-470f8c218fa2a5fb1d7338d405a6d676]: Commencement: Rule 5.8 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-470f8c218fa2a5fb1d7338d405a6d676]: Commencement: Rule 5.8 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

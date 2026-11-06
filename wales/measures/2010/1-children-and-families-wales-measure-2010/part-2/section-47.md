@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Penalty notices[^key-00966cd15fae93450f49e78c8a97bd2a]
+## 47. Penalty notices[^c-00966cd15fae93450f49e78c8a97bd2a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00966cd15fae93450f49e78c8a97bd2a]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2010/1/section/47) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-00966cd15fae93450f49e78c8a97bd2a]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2010/1/section/47) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Supply of information to the General Teaching Council for Northern Ireland[^key-769c337d21eaba0595ef7ed683eeaec0]
+## 51. Supply of information to the General Teaching Council for Northern Ireland[^c-769c337d21eaba0595ef7ed683eeaec0]
 
 *Extent: E+W*
 
-(1) The Council must on request supply to the General Teaching Council for Northern[^key-ce29cfc23616102a343ba70a05169dba] Ireland the information set out in paragraph (2) below in relation to—
+(1) The Council must on request supply to the General Teaching Council for Northern[^c-ce29cfc23616102a343ba70a05169dba] Ireland the information set out in paragraph (2) below in relation to—
 
 - (a) a registered person; or
 - (b) an unregistered person about whom it maintain records in accordance with these Regulations.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-769c337d21eaba0595ef7ed683eeaec0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2015/140/regulation/51) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-769c337d21eaba0595ef7ed683eeaec0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2015/140/regulation/51) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-ce29cfc23616102a343ba70a05169dba]: Textual amendment: Word in [reg. 51(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/51/1) inserted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2026/51/regulation/4/3)
+[^c-ce29cfc23616102a343ba70a05169dba]: Textual amendment: Word in [reg. 51(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/51/1) inserted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2026/51/regulation/4/3)

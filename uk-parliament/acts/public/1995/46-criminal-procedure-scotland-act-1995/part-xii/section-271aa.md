@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271AA. Using only standard special measures[^key-28ee782cbc9b4e9a95ea3826ae79c0cf]
+## 271AA. Using only standard special measures[^c-28ee782cbc9b4e9a95ea3826ae79c0cf]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28ee782cbc9b4e9a95ea3826ae79c0cf]: Textual amendment: [S. 271AA](https://www.legislation.gov.uk/ukpga/1995/46/section/271AA) inserted (27.6.2025) by [Vulnerable Witnesses (Criminal Evidence) (Scotland) Act 2019 (asp 8)](https://www.legislation.gov.uk/asp/2019/8), [ss. 6(2)](https://www.legislation.gov.uk/asp/2019/8/section/6/2), [12(2)](https://www.legislation.gov.uk/asp/2019/8/section/12/2); [S.S.I. 2025/179](https://www.legislation.gov.uk/ssi/2025/179), [reg. 2](https://www.legislation.gov.uk/ssi/2025/179/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/179/regulation/3))
+[^c-28ee782cbc9b4e9a95ea3826ae79c0cf]: Textual amendment: [S. 271AA](https://www.legislation.gov.uk/ukpga/1995/46/section/271AA) inserted (27.6.2025) by [Vulnerable Witnesses (Criminal Evidence) (Scotland) Act 2019 (asp 8)](https://www.legislation.gov.uk/asp/2019/8), [ss. 6(2)](https://www.legislation.gov.uk/asp/2019/8/section/6/2), [12(2)](https://www.legislation.gov.uk/asp/2019/8/section/12/2); [S.S.I. 2025/179](https://www.legislation.gov.uk/ssi/2025/179), [reg. 2](https://www.legislation.gov.uk/ssi/2025/179/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/179/regulation/3))

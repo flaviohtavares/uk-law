@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Applications without notice[^key-b5089eeadfed3f5fd1474658279d2b89]
+## 39. Applications without notice[^c-b5089eeadfed3f5fd1474658279d2b89]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5089eeadfed3f5fd1474658279d2b89]: Commencement: S. 39 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-b5089eeadfed3f5fd1474658279d2b89]: Commencement: S. 39 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

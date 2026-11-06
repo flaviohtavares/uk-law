@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 526. Prescribed conditions relating to an insurer[^key-9d60e1b9cf95ad2c35c0cb071a383220]
+## 526. Prescribed conditions relating to an insurer[^c-9d60e1b9cf95ad2c35c0cb071a383220]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Regulation 11 of the Personal and Occupational Pension Schemes (Protected Rights
 
 ## Annotations
 
-[^key-9d60e1b9cf95ad2c35c0cb071a383220]: Commencement: Art. 526 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9d60e1b9cf95ad2c35c0cb071a383220]: Commencement: Art. 526 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

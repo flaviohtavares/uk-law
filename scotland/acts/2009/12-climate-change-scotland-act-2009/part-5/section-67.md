@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Non-domestic rates: discounts for energy efficiency etc.[^key-e8575df4fb049543875894e41a11e11a]
+## 67. Non-domestic rates: discounts for energy efficiency etc.[^c-e8575df4fb049543875894e41a11e11a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 153 (power to prescribe amount of non-domestic rate) of the Local Gov
 
 ## Annotations
 
-[^key-e8575df4fb049543875894e41a11e11a]: Commencement: S. 67 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-e8575df4fb049543875894e41a11e11a]: Commencement: S. 67 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Interpretation[^key-82a0b201eb0ac4d7f182e6f0d2c668fa]
+## 112. Interpretation[^c-82a0b201eb0ac4d7f182e6f0d2c668fa]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-82a0b201eb0ac4d7f182e6f0d2c668fa]: Commencement: S. 112 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-82a0b201eb0ac4d7f182e6f0d2c668fa]: Commencement: S. 112 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

@@ -27,7 +27,7 @@ summary: ''
 (3) If the Secretary of State terminates the appointment of a person (“A”) as Settlement Body, the Secretary of State must—
 
 - (a) as soon as reasonably practicable, appoint another person (“B”) to that position; and
-- (b) make arrangements to ensure that any funds held by A under these Regulations or the[^key-418dbbfeec938e97c0b947e9c0189d59] Supplier Payment Regulations are transferred to B.
+- (b) make arrangements to ensure that any funds held by A under these Regulations or the[^c-418dbbfeec938e97c0b947e9c0189d59] Supplier Payment Regulations are transferred to B.
 
 (4) The Secretary of State must give notice to—
 
@@ -39,4 +39,4 @@ of an appointment, or the termination of an appointment, under paragraph (1), (2
 
 ## Annotations
 
-[^key-418dbbfeec938e97c0b947e9c0189d59]: Textual amendment: Words in [reg. 80(3)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/80/3/b) inserted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/10)
+[^c-418dbbfeec938e97c0b947e9c0189d59]: Textual amendment: Words in [reg. 80(3)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/80/3/b) inserted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/10)

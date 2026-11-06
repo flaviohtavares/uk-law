@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288DA. Jury direction relating to lack of communication about offence[^key-dfe47783e8861319d97b97d23baedaa4]
+## 288DA. Jury direction relating to lack of communication about offence[^c-dfe47783e8861319d97b97d23baedaa4]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe47783e8861319d97b97d23baedaa4]: Textual amendment: Ss. 288DA, 288DB and cross-heading inserted (24.4.2017) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 6](https://www.legislation.gov.uk/asp/2016/22/section/6), [45(2)(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/2) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/93/regulation/5))
+[^c-dfe47783e8861319d97b97d23baedaa4]: Textual amendment: Ss. 288DA, 288DB and cross-heading inserted (24.4.2017) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 6](https://www.legislation.gov.uk/asp/2016/22/section/6), [45(2)(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/2) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/93/regulation/5))

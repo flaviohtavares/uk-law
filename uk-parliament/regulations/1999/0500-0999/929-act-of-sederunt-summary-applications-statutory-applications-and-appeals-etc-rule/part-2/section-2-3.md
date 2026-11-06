@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.3. Relief from failure to comply with rules[^key-07ff4f74494c64c0e6d784eeaf977892]
+## 2.3. Relief from failure to comply with rules[^c-07ff4f74494c64c0e6d784eeaf977892]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ff4f74494c64c0e6d784eeaf977892]: Commencement: Rule 2.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-07ff4f74494c64c0e6d784eeaf977892]: Commencement: Rule 2.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

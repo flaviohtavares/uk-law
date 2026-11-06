@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Amendment of regulation 22: Registration of brokers[^key-c25ede8fb6034b809622906b7a2053e2]
+## 39. Amendment of regulation 22: Registration of brokers[^c-c25ede8fb6034b809622906b7a2053e2]
 
 *Extent: N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
   ; and
 - (d) in paragraph (7) after “brokers” insert “or dealers”.
 
-**40.**[^key-44469205b954c8673364d0606d33a0de] For Schedule 3 substitute
+**40.**[^c-44469205b954c8673364d0606d33a0de] For Schedule 3 substitute
 
 > **SCHEDULE 3 — WASTE FRAMEWORK DIRECTIVE**
 >
@@ -375,7 +375,7 @@ summary: ''
 >
 > | \*Operation Code | Description |
 > | --- | --- |
-> | R1 | Use principally as a fuel or other means to generate energy.\*<br>\*This includes incineration facilities dedicated to the processing of municipal solid waste only where their energy efficiency is equal to or greater than (i) 0.60 for installations in operation and permitted in accordance with applicable EU[^key-7f6d050af46dc18a58f2e3c8311fe309] legislation before 1st January 2009; or (ii) 0.65 for other installations. Energy efficiency is calculated according to the formula contained in Annex II of the Waste Framework Directive. |
+> | R1 | Use principally as a fuel or other means to generate energy.\*<br>\*This includes incineration facilities dedicated to the processing of municipal solid waste only where their energy efficiency is equal to or greater than (i) 0.60 for installations in operation and permitted in accordance with applicable EU[^c-7f6d050af46dc18a58f2e3c8311fe309] legislation before 1st January 2009; or (ii) 0.65 for other installations. Energy efficiency is calculated according to the formula contained in Annex II of the Waste Framework Directive. |
 > | R2 | Solvent reclamation/regeneration. |
 > | R3 | Recycling/reclamation of organic substances which are not used as solvents (including composting and other biological transformation processes).\*<br>\* This includes gasification and pyrolisis using the components as chemicals. |
 > | R4 | Recycling/reclamation of metals and metal compounds. |
@@ -447,7 +447,7 @@ summary: ''
 
 .
 
-**41.**[^key-b10417f6fd113a5750c65c5cddcf9fff] For Schedule 4 substitute—
+**41.**[^c-b10417f6fd113a5750c65c5cddcf9fff] For Schedule 4 substitute—
 
 > **SCHEDULE 4 — REGISTRATION OF BROKERS AND DEALERS OF CONTROLLED WASTE**
 >
@@ -704,7 +704,7 @@ summary: ''
 
 .
 
-**42.**[^key-5eb9e698c4d233bed88484bdf2e6f377] In Schedule 5 Part 1—
+**42.**[^c-5eb9e698c4d233bed88484bdf2e6f377] In Schedule 5 Part 1—
 
 (1) in paragraph 1(a) for “Article 4” substitute “Article 13”.
 
@@ -712,9 +712,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c25ede8fb6034b809622906b7a2053e2]: Commencement: Reg. 39 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-c25ede8fb6034b809622906b7a2053e2]: Commencement: Reg. 39 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-44469205b954c8673364d0606d33a0de]: Commencement: Reg. 40 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-44469205b954c8673364d0606d33a0de]: Commencement: Reg. 40 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00029]: Footnote: OJ L 24/11, 29.1.2008
 
@@ -748,7 +748,7 @@ summary: ''
 
 [^f00042]: Footnote: [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300)
 
-[^key-7f6d050af46dc18a58f2e3c8311fe309]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-7f6d050af46dc18a58f2e3c8311fe309]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^f00043]: Footnote: [S.I.1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220) as amended by [S.I. 2006/1252 (N.I. 7)](https://www.legislation.gov.uk/nisi/2006/1252)
 
@@ -764,7 +764,7 @@ summary: ''
 
 [^f00049]: Footnote: OJ No L 102,11.4.2006, p15, as amended by Regulation (EC)No596/2009(OJ No L188,18.7.2009, p14)
 
-[^key-b10417f6fd113a5750c65c5cddcf9fff]: Commencement: Reg. 41 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-b10417f6fd113a5750c65c5cddcf9fff]: Commencement: Reg. 41 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00050]: Footnote: [S.R. 1999 No.362](https://www.legislation.gov.uk/nisr/1999/362)
 
@@ -776,4 +776,4 @@ summary: ''
 
 [^f00054]: Footnote: [S.I.1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
-[^key-5eb9e698c4d233bed88484bdf2e6f377]: Commencement: Reg. 42 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-5eb9e698c4d233bed88484bdf2e6f377]: Commencement: Reg. 42 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)

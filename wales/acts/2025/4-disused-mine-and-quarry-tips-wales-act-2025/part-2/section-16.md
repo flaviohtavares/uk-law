@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Full assessment of unregistered tip[^key-7a9717ab2557db385353592fb69bc569]
+## 16. Full assessment of unregistered tip[^c-7a9717ab2557db385353592fb69bc569]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a9717ab2557db385353592fb69bc569]: Commencement: S. 16 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-7a9717ab2557db385353592fb69bc569]: Commencement: S. 16 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

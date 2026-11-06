@@ -33,7 +33,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Criminal Justice (Electronic Monitoring) (Responsible Person) Order 2016 (revoked)[^key-9f489a2a1b8a4853e865c7e38c1b6823]
+The Criminal Justice (Electronic Monitoring) (Responsible Person) Order 2016 (revoked)[^c-9f489a2a1b8a4853e865c7e38c1b6823]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 10th October 2016
 
-[^key-9f489a2a1b8a4853e865c7e38c1b6823]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f489a2a1b8a4853e865c7e38c1b6823]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9f489a2a1b8a4853e865c7e38c1b6823]
+## 1. Citation and commencement[^c-9f489a2a1b8a4853e865c7e38c1b6823]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Person responsible for monitoring electronic monitoring conditions[^key-9f489a2a1b8a4853e865c7e38c1b6823]
+## 2. Person responsible for monitoring electronic monitoring conditions[^c-9f489a2a1b8a4853e865c7e38c1b6823]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f489a2a1b8a4853e865c7e38c1b6823]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f489a2a1b8a4853e865c7e38c1b6823]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9f489a2a1b8a4853e865c7e38c1b6823]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f489a2a1b8a4853e865c7e38c1b6823]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f489a2a1b8a4853e865c7e38c1b6823]: Textual amendment: Order revoked (1.4.2018) by [The Electronic Monitoring (Responsible Persons) Order 2018 (S.I. 2018/212)](https://www.legislation.gov.uk/uksi/2018/212), [arts. 2](https://www.legislation.gov.uk/uksi/2018/212/article/2), [4(b)](https://www.legislation.gov.uk/uksi/2018/212/article/4/b)
+[^c-9f489a2a1b8a4853e865c7e38c1b6823]: Textual amendment: Order revoked (1.4.2018) by [The Electronic Monitoring (Responsible Persons) Order 2018 (S.I. 2018/212)](https://www.legislation.gov.uk/uksi/2018/212), [arts. 2](https://www.legislation.gov.uk/uksi/2018/212/article/2), [4(b)](https://www.legislation.gov.uk/uksi/2018/212/article/4/b)

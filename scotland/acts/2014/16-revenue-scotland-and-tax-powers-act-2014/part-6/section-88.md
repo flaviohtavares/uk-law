@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Referral of questions to appropriate tribunal during enquiry[^key-d0a920d47b6a688edf5c2e6ab4995dd8]
+## 88. Referral of questions to appropriate tribunal during enquiry[^c-d0a920d47b6a688edf5c2e6ab4995dd8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0a920d47b6a688edf5c2e6ab4995dd8]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/16/section/88) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d0a920d47b6a688edf5c2e6ab4995dd8]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/16/section/88) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

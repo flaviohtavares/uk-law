@@ -50,82 +50,82 @@ In accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00002], t
 
 ## Preliminary
 
-### 1. Citation and commencement[^key-09459e79cc989b6a07334cb89c7e513d]
+### 1. Citation and commencement[^c-09459e79cc989b6a07334cb89c7e513d]
 
 These Rules may be cited as the Trade Marks Rules 2008 and shall come into force on 1st October 2008.
 
-### 2. Interpretation[^key-1768d42d6f9b48d9a8b7e72c6881ac64]
+### 2. Interpretation[^c-1768d42d6f9b48d9a8b7e72c6881ac64]
 
 (1) In these Rules—
 
 - “the Act” means the Trade Marks Act 1994;
-- “[^key-bc87af2d66bbfa303dcf95f6fb737040]**fast track opposition**” means an opposition—
+- “[^c-bc87af2d66bbfa303dcf95f6fb737040]**fast track opposition**” means an opposition—
   - (a) brought solely on grounds under section 5(1) or 5(2) of the Act,
-  - (b) based on no more than 3 earlier trade marks, each of which is registered in the UK or in the EU, or is protected in the UK as an international trade mark (UK)[^key-7a54859a48cc6b5597365e409cbdf27e],
+  - (b) based on no more than 3 earlier trade marks, each of which is registered in the UK or in the EU, or is protected in the UK as an international trade mark (UK)[^c-7a54859a48cc6b5597365e409cbdf27e],
   - (c) where proof of use of the earlier marks can be provided with the notice of opposition, and
   - (d) which the opponent considers may be determined without the need for further evidence and without an oral hearing.
 - “**the Journal**” means the Trade Marks Journal published in accordance with rule 81;
 - “the “**Nice Agreement**” means the Nice Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks of 15th June 1957[^f00003], which was last amended on 28th September 1979;
 - “the “**Nice Classification**” means the system of classification under the Nice Agreement[^f00004];
-- “[^key-b1a872548032e57cc786b8e76ad1215c]**the Office**” means the Patent Office which operates under the name “Intellectual Property Office”;
+- “[^c-b1a872548032e57cc786b8e76ad1215c]**the Office**” means the Patent Office which operates under the name “Intellectual Property Office”;
 - “**send**” includes give;
 - “**specification**” means the statement of goods or services in respect of which a trade mark is registered or proposed to be registered;
 - “**transformation application**” means an application to register a trade mark under the Act where that mark was the subject of an international registration prior to that registration being cancelled.
 
-(2) In these Rules a reference to a section is a reference to that section in the Act , a reference to a schedule is a reference to that schedule to the Act[^key-1fcf03e999aeda0a6ef7292fc6958ef7] and a reference to a form is a reference to that form as published under rule 3.
+(2) In these Rules a reference to a section is a reference to that section in the Act , a reference to a schedule is a reference to that schedule to the Act[^c-1fcf03e999aeda0a6ef7292fc6958ef7] and a reference to a form is a reference to that form as published under rule 3.
 
-(2A)[^key-611c43cf07ffe6bf9f46dcef82443f3e] Terms defined in Part 5 of Schedules 2A and 2B have the same meaning in these Rules.
+(2A)[^c-611c43cf07ffe6bf9f46dcef82443f3e] Terms defined in Part 5 of Schedules 2A and 2B have the same meaning in these Rules.
 
 (3) In these Rules references to the filing of any application, notice or other document, unless the contrary intention appears, are to be construed as references to its being delivered to the registrar at the Office.
 
-### 2A. Comparable trade mark (EU)[^key-6ff01f9193f36f5e28e74c7dc9e5492f]
+### 2A. Comparable trade mark (EU)[^c-6ff01f9193f36f5e28e74c7dc9e5492f]
 
 These Rules apply to a comparable trade mark (EU) as they apply to other registered trade marks.
 
-### 2B. Comparable trade mark (IR)[^key-2a601e2a7735d29e2c376f366e3cbd58]
+### 2B. Comparable trade mark (IR)[^c-2a601e2a7735d29e2c376f366e3cbd58]
 
 These Rules apply to a comparable trade mark (IR) as they apply to other registered trade marks.
 
-### 3. Forms and directions of the registrar; section 66[^key-7a7ef206685ff4b82a1e415b8e6b3d75]
+### 3. Forms and directions of the registrar; section 66[^c-7a7ef206685ff4b82a1e415b8e6b3d75]
 
 (1) Any forms required by the registrar to be used for the purpose of registration of a trade mark or any other proceedings before the registrar under the Act pursuant to section 66 and any directions with respect to their use shall be published on the Office website and any amendment or modification of a form or of the directions with respect to its use shall also be published on the Office website.
 
 (2) Except in relation to Forms TM6 and TM7A a requirement under this rule to use a form as published is satisfied by the use either of a replica of that form or of a form which is acceptable to the registrar and contains the information required by the form as published and complies with any directions as to the use of such a form.
 
-### 4. Requirement as to fees[^key-85e462bd2fefe9a572a064f8dfb9cfe8]
+### 4. Requirement as to fees[^c-85e462bd2fefe9a572a064f8dfb9cfe8]
 
-(1) The fees to be paid in respect of any application, registration or any other matter under the Act and these Rules shall be those (if any) prescribed in relation to such matter [^key-6cbb779038855df3fa5feb1009715c21]....
+(1) The fees to be paid in respect of any application, registration or any other matter under the Act and these Rules shall be those (if any) prescribed in relation to such matter [^c-6cbb779038855df3fa5feb1009715c21]....
 
-(2) Any form required to be filed with the registrar in respect of any specified matter shall be subject to the payment of the fee (if any) prescribed in respect of that matter [^key-42db2942e35241d377864f5a0a92cdc2]....
+(2) Any form required to be filed with the registrar in respect of any specified matter shall be subject to the payment of the fee (if any) prescribed in respect of that matter [^c-42db2942e35241d377864f5a0a92cdc2]....
 
-(3)[^key-8c44a1f9fb3bebed1e24d06a0b20e57d] In this rule, “**prescribed**” means—
+(3)[^c-8c44a1f9fb3bebed1e24d06a0b20e57d] In this rule, “**prescribed**” means—
 
 - (a) in relation to a registered trade mark other than a comparable trade mark (EU), prescribed by rules under section 79 (fees);
 - (b) in relation to a comparable trade mark (EU), prescribed by virtue of regulations under Schedule 4 to the European Union (Withdrawal) Act 2018.
 
-### 4A. Prescribed comparable trade mark (IR) fees[^key-32726623360994ba905da27a2a1f4127]
+### 4A. Prescribed comparable trade mark (IR) fees[^c-32726623360994ba905da27a2a1f4127]
 
 In relation to a comparable trade mark (IR), “prescribed” in rule 4(1) means prescribed by virtue of regulations under Schedule 4 to the European Union (Withdrawal) Act 2018.
 
 ## Application for registration
 
-### 5. Application for registration; section 32 (Form TM3)[^key-5c6d7b2d409e909dbfd65b8a15e659b1]
+### 5. Application for registration; section 32 (Form TM3)[^c-5c6d7b2d409e909dbfd65b8a15e659b1]
 
-(1)[^key-0347811e45cde1feb04e8502bea422ec] An application for the registration of a trade mark (other than a transformation application, which shall be filed on Form TM4) shall be filed on Form TM3 or, where the application is filed in electronic form using the filing system provided on the Office website, on Form e-TM3.
+(1)[^c-0347811e45cde1feb04e8502bea422ec] An application for the registration of a trade mark (other than a transformation application, which shall be filed on Form TM4) shall be filed on Form TM3 or, where the application is filed in electronic form using the filing system provided on the Office website, on Form e-TM3.
 
 (1A) Where an application is filed on Form TM3 (a “standard application”) the application shall be subject to the payment of the standard application fee and such class and series fees as may be appropriate.
 
 (1B) Where an application is filed on Form e-TM3 (an “electronic application”) the application shall be subject to the payment of the e-filed application fee and such class and series fees as may be appropriate, which shall be payable at the time the electronic application is made and if they are not so paid the application shall be subject to the payment of the standard application fee referred to in paragraph (1A) and such class and series fees as may be appropriate.
 
-(2) Subject to paragraph (6)[^key-bedcc5fa2bf950f1e340e0ea18c580fe] where an application is for the registration of a single trade mark, an applicant may request the registrar to undertake an expedited examination of the application.
+(2) Subject to paragraph (6)[^c-bedcc5fa2bf950f1e340e0ea18c580fe] where an application is for the registration of a single trade mark, an applicant may request the registrar to undertake an expedited examination of the application.
 
-(3) A request for expedited examination shall be made on Form e-TM3[^key-df6b20ead7fb8935c537595d402a85f7] and shall be subject to payment of the prescribed fee.
+(3) A request for expedited examination shall be made on Form e-TM3[^c-df6b20ead7fb8935c537595d402a85f7] and shall be subject to payment of the prescribed fee.
 
 (4) Where an applicant makes a request for expedited examination, the application fee and any class fees payable in respect of the application shall be payable at the time the application is made and accordingly rule 13 shall not apply insofar as it relates to the failure of an application to satisfy the requirements of section 32(4).
 
 (5) In this rule and rule 15 a “**request for expedited examination**” means a request that, following an examination under section 37, the registrar notify the applicant within a period of ten business days (as specified in a direction given by the registrar under section 80) beginning on the business day after the date of filing of the application for registration whether or not it appears to the registrar that the requirements for registration are met.
 
-(6)[^key-e4d12788b9acb3a071cbb6c8fb8597c0] The Registrar may at any time—
+(6)[^c-e4d12788b9acb3a071cbb6c8fb8597c0] The Registrar may at any time—
 
 - (a) suspend the right of applicants to file a request for expedited examination under paragraph (2) (“the expedited examination service”) for such period as the registrar deems fit; and
 - (b) resume the expedited examination service.
@@ -135,7 +135,7 @@ In relation to a comparable trade mark (IR), “prescribed” in rule 4(1) means
 - (a) of the date from which the expedited examination service is suspended;
 - (b) of the date upon which the expedited examination service will resume.
 
-### 5A. Application for registration based upon an existing EUTM application; Schedule 2A paragraph 25[^key-7ecb381f8e2171d231828512012bcf17]
+### 5A. Application for registration based upon an existing EUTM application; Schedule 2A paragraph 25[^c-7ecb381f8e2171d231828512012bcf17]
 
 (1) Where an application for registration is made in accordance with paragraph 25 of Schedule 2A, the application for registration under rule 5 must specify—
 
@@ -160,7 +160,7 @@ the application for registration under rule 5 must, in addition, specify the inf
 - (a) the filing date accorded to the existing EUTM application, the representation of the mark and the goods or services covered by the existing EUTM application; and
 - (b) in relation to a priority claim, the date of filing of the overseas application, the country or registering or competent authority, the representation of the mark and the goods or services covered by the overseas application.
 
-### 5B. Application for registration based upon an existing ITM application, existing request for EU extension or transformation application; Schedule 2B paragraph 28, 29 or 33[^key-a351889b4b798f688665265505a368ec]
+### 5B. Application for registration based upon an existing ITM application, existing request for EU extension or transformation application; Schedule 2B paragraph 28, 29 or 33[^c-a351889b4b798f688665265505a368ec]
 
 (1) Where an application for registration is made in accordance with paragraph 28, 29 or 33 of Schedule 2B, the application for registration under rule 5 must specify—
 
@@ -185,7 +185,7 @@ the application for registration under rule 5 must, in addition, specify the inf
 - (a) the date referred to in paragraph (1)(b) in respect of the existing ITM application, existing request for EU extension or transformation application, the representation of the mark and the goods or services covered by that application; and
 - (b) in relation to a priority claim, the date of filing of the overseas application, the country or registering or competent authority, the representation of the mark and the goods or services covered by the overseas application.
 
-### 6. Claim to priority; sections 35 & 36[^key-bc025e5895016afc1f28e3a7c47a19ad]
+### 6. Claim to priority; sections 35 & 36[^c-bc025e5895016afc1f28e3a7c47a19ad]
 
 (1) Where a right to priority is claimed by reason of an application for protection of a trade mark duly filed in a Convention country under section 35 or in another country or territory in respect of which provision corresponding to that made by section 35 is made under section 36 (an “overseas application”), the application for registration under rule 5 shall specify—
 
@@ -195,22 +195,22 @@ the application for registration under rule 5 must, in addition, specify the inf
 
 (2) The registrar may, in any particular case, by notice require the applicant to file, within such period of not less than one month as the notice may specify, such documentary evidence as the registrar may require certifying, or verifying to the satisfaction of the registrar, the date of the filing of the overseas application, the country or registering or competent authority, the representation of the mark and the goods or services covered by the overseas application.
 
-### 7. Classification of goods and services; section 34[^key-2ffc6cf456ac3742dad0c29063dc3ba1]
+### 7. Classification of goods and services; section 34[^c-2ffc6cf456ac3742dad0c29063dc3ba1]
 
 (1) The prescribed system of classification for the purposes of the registration of trade marks is the Nice Classification.
 
 (2) When a trade mark is registered it shall be classified according to the version of the Nice Classification that had effect on the date of application for registration.
 
-### 8. Application may relate to more than one class and shall specify the class (Form TM3A)[^key-4a55d164072a89b8078c0e3f2d48605f]
+### 8. Application may relate to more than one class and shall specify the class (Form TM3A)[^c-4a55d164072a89b8078c0e3f2d48605f]
 
 (1) An application may be made in more than one class of the Nice Classification.
 
 (2) Every application shall specify—
 
 - (a) the class in the Nice Classification to which it relates; and
-- (b) the goods or services which are appropriate to the class and they shall be described with sufficient clarity and precision to enable the registrar and other competent authorities and economic operators, on that sole basis, to determine the extent of the protection sought[^key-19e01b5d689dd59d5343ce0ae8a8e1c0] and to allow them to be classified in the classes in the Nice Classification.
+- (b) the goods or services which are appropriate to the class and they shall be described with sufficient clarity and precision to enable the registrar and other competent authorities and economic operators, on that sole basis, to determine the extent of the protection sought[^c-19e01b5d689dd59d5343ce0ae8a8e1c0] and to allow them to be classified in the classes in the Nice Classification.
 
-(2A)[^key-1b405733aed81555561d236e40a02120] For the purposes of paragraph (2)(b) an application may specify the general indications included in the class headings of the Nice Classification or other general terms provided that they satisfy the requirement that the goods or services be described with sufficient clarity and precision referred to in paragraph (2)(b).
+(2A)[^c-1b405733aed81555561d236e40a02120] For the purposes of paragraph (2)(b) an application may specify the general indications included in the class headings of the Nice Classification or other general terms provided that they satisfy the requirement that the goods or services be described with sufficient clarity and precision referred to in paragraph (2)(b).
 
 (2B) Where the specification contained in the application describes the goods or services using general terms, including the general indications included in the class headings of the Nice Classification, the application shall be treated as including only the goods or services clearly covered by the literal meaning of the term or indication.
 
@@ -218,39 +218,39 @@ the application for registration under rule 5 must, in addition, specify the inf
 
 (4) If the specification contained in the application lists items by reference to a class in the Nice Classification in which they do not fall, the applicant may request, by filing Form TM3A, that the application be amended to include the appropriate class for those items, and upon the payment of such class fee as may be appropriate the registrar shall amend the application accordingly.
 
-(5)[^key-2f01e5b91e0420a1403420d5f2202220] In this rule “**economic operators**” means any person or group of persons which, in the course of trade, manufactures, supplies, imports, exports or otherwise deals in goods or services.
+(5)[^c-2f01e5b91e0420a1403420d5f2202220] In this rule “**economic operators**” means any person or group of persons which, in the course of trade, manufactures, supplies, imports, exports or otherwise deals in goods or services.
 
-### 9. Determination of classification[^key-b88a783f697fdf4e7b6e840ea9cb5823]
+### 9. Determination of classification[^c-b88a783f697fdf4e7b6e840ea9cb5823]
 
 (1) Where an application does not satisfy the requirements of rule 8(2) or (3), the registrar shall send notice to the applicant.
 
 (2) A notice sent under paragraph (1) shall specify a period, of not less than one month, within which the applicant must satisfy those requirements.
 
-(3) Where the applicant fails to satisfy the requirements of rule 8(2) before the expiry of the period specified under paragraph (2), the registrar must reject[^key-56d270ffe307a7d38caaecbe7c2bddb1] the application for registration, insofar as it relates to any goods or services which failed that requirement [^key-18811e6343631b8f266bebcc9914ee65]....
+(3) Where the applicant fails to satisfy the requirements of rule 8(2) before the expiry of the period specified under paragraph (2), the registrar must reject[^c-56d270ffe307a7d38caaecbe7c2bddb1] the application for registration, insofar as it relates to any goods or services which failed that requirement [^c-18811e6343631b8f266bebcc9914ee65]....
 
 (4) Where the applicant fails to satisfy the requirements of rule 8(3) before the expiry of the period specified under paragraph (2), the application for registration shall be treated as abandoned.
 
-### 10. Prohibition on registration of mark consisting of arms; section 4[^key-f5139d7ae9ecbbd409a9f34b4b310826]
+### 10. Prohibition on registration of mark consisting of arms; section 4[^c-f5139d7ae9ecbbd409a9f34b4b310826]
 
 Where having regard to matters coming to the notice of the registrar it appears to the registrar that a representation of any arms or insignia as is referred to in section 4(4) appears in a mark, the registrar shall refuse to accept an application for the registration of the mark unless satisfied that the consent of the person entitled to the arms has been obtained.
 
-### 11. Address for service[^key-99bb882599d2f0546c1bf911c4460d98]
+### 11. Address for service[^c-99bb882599d2f0546c1bf911c4460d98]
 
 (1) For the purposes of any proceedings under the Act or these Rules, an address for service shall be filed by—
 
 - (a) an applicant for the registration of a trade mark;
 - (b) any person who opposes the registration of a trade mark in opposition proceedings;
 - (c) any person who applies for revocation, a declaration of invalidity or rectification under the Act;
-- (d) the proprietor of the registered trade mark who opposes such an application ;[^key-2eb1a07f4a85ebea5094e35d7292dcae]
-- (e)[^key-7f45041281cc51bb2e551c199ba27590] a proprietor of a comparable trade mark (EU) who sends a derogation notice to the registrar under rule 43A.
+- (d) the proprietor of the registered trade mark who opposes such an application ;[^c-2eb1a07f4a85ebea5094e35d7292dcae]
+- (e)[^c-7f45041281cc51bb2e551c199ba27590] a proprietor of a comparable trade mark (EU) who sends a derogation notice to the registrar under rule 43A.
 
 (2) The proprietor of a registered trade mark, or any person who has registered an interest in a registered trade mark, may file an address for service on Form TM33 or, in the case of an assignment of a registered trade mark, on Form TM16.
 
 (3) Where a person has provided an address for service under paragraph (1) or (2), that person may substitute a new address for service by notifying the registrar on Form TM33.
 
-(4)[^key-29f8a467694dce8183afb27d294ac7da] An address for service filed under this Rule shall be an address in the United Kingdom, Gibraltar[^key-223ed37526cfe9cac49c2010682554ba] or the Channel Islands.
+(4)[^c-29f8a467694dce8183afb27d294ac7da] An address for service filed under this Rule shall be an address in the United Kingdom, Gibraltar[^c-223ed37526cfe9cac49c2010682554ba] or the Channel Islands.
 
-### 12. Failure to provide an address for service[^key-fe7f0716f1e1d6a4063618c64969b1d9]
+### 12. Failure to provide an address for service[^c-fe7f0716f1e1d6a4063618c64969b1d9]
 
 (1) Where—
 
@@ -259,7 +259,7 @@ Where having regard to matters coming to the notice of the registrar it appears 
 
 the registrar shall direct that person to file an address for service.
 
-(2) Where a direction has been given under paragraph (1), the person directed shall, before the end of the period of one month beginning immediately after[^key-9335cff8710fcfc8a21a6b682a0eeebe] the date of the direction, file an address for service.
+(2) Where a direction has been given under paragraph (1), the person directed shall, before the end of the period of one month beginning immediately after[^c-9335cff8710fcfc8a21a6b682a0eeebe] the date of the direction, file an address for service.
 
 (3) Paragraph (4) applies where—
 
@@ -273,62 +273,62 @@ and the person has failed to provide an address for service.
 - (a) in the case of an applicant for registration of a trade mark, the application shall be treated as withdrawn;
 - (b) in the case of a person opposing the registration of a trade mark, that person’s opposition shall be treated as withdrawn;
 - (c) in the case of a person applying for revocation, a declaration of invalidity or rectification, that person’s application shall be treated as withdrawn; and
-- (d) in the case of the proprietor opposing such an application, the proprietor shall be deemed to have withdrawn from the proceedings;[^key-6f9aadd87939c5977d0bcddf81ed9409]
-- (e)[^key-9eddf04413a8ef2978d0a33f97afcea8] in the case of the proprietor who sends a derogation notice to the registrar, the registrar must proceed as if the proprietor had not sent a derogation notice.
+- (d) in the case of the proprietor opposing such an application, the proprietor shall be deemed to have withdrawn from the proceedings;[^c-6f9aadd87939c5977d0bcddf81ed9409]
+- (e)[^c-9eddf04413a8ef2978d0a33f97afcea8] in the case of the proprietor who sends a derogation notice to the registrar, the registrar must proceed as if the proprietor had not sent a derogation notice.
 
-(5) In this rule an “**address for service**” means an address which complies with the requirements of rule 11(4) [^key-a59cd40ffcc6c21b308216851fb3f6f1]....
+(5) In this rule an “**address for service**” means an address which complies with the requirements of rule 11(4) [^c-a59cd40ffcc6c21b308216851fb3f6f1]....
 
-### 13. Deficiencies in application; section 32[^key-f143f09b63e87b5213af271d6052f247]
+### 13. Deficiencies in application; section 32[^c-f143f09b63e87b5213af271d6052f247]
 
 (1) Where an application for registration of a trade mark does not satisfy the requirements of section 32(2), (3) or (4) or rule 5(1), the registrar shall send notice to the applicant to remedy the deficiencies or, in the case of section 32(4), the default of payment.
 
-(2) A notice sent under paragraph (1) shall specify a period, of not less than 14 days[^key-3bd4c60bd29298fea7ab28010e0d28b5], within which the applicant must remedy the deficiencies or the default of payment.
+(2) A notice sent under paragraph (1) shall specify a period, of not less than 14 days[^c-3bd4c60bd29298fea7ab28010e0d28b5], within which the applicant must remedy the deficiencies or the default of payment.
 
 (3) Where, before the expiry of the period specified under paragraph (2), the applicant—
 
 - (a) fails to remedy any deficiency notified to the applicant in respect of section 32(2), the application shall be deemed never to have been made; or
 - (b) fails to remedy any deficiency notified to the applicant in respect of section 32(3) or rule 5(1) or fails to make payment as required by section 32(4), the application shall be treated as abandoned.
 
-### 14. Notifying results of search[^key-7ad1759cc9e589814bc6931a0c7d7d30]
+### 14. Notifying results of search[^c-7ad1759cc9e589814bc6931a0c7d7d30]
 
 (1) Where, following any search under article 4 of the Trade Marks (Relative Grounds) Order 2007[^f00005], it appears to the registrar that the requirements for registration mentioned in section 5 are not met, the registrar shall notify this fact to—
 
 - (a) the applicant; and
 - (b) any relevant proprietor.
 
-(2)[^key-a3563aef705f9f8085aade5e3d85a774] In paragraph (1), “**relevant proprietor**” means the proprietor of a registered trade mark or international trade mark (UK) which is an earlier trade mark in relation to which it appears to the registrar that the conditions set out in section 5(1) or (2) obtain but does not include a proprietor who does not wish to be notified and who has notified the registrar to this effect.
+(2)[^c-a3563aef705f9f8085aade5e3d85a774] In paragraph (1), “**relevant proprietor**” means the proprietor of a registered trade mark or international trade mark (UK) which is an earlier trade mark in relation to which it appears to the registrar that the conditions set out in section 5(1) or (2) obtain but does not include a proprietor who does not wish to be notified and who has notified the registrar to this effect.
 
-(3) References in paragraph (2) to the proprietor of a trade mark include a person who has applied for registration of a trade mark which, if registered, would be an earlier trade mark by virtue of section 6(1)(a) or (aa)[^key-1b0185dd9191911a5549bb7866ae5538].
+(3) References in paragraph (2) to the proprietor of a trade mark include a person who has applied for registration of a trade mark which, if registered, would be an earlier trade mark by virtue of section 6(1)(a) or (aa)[^c-1b0185dd9191911a5549bb7866ae5538].
 
-(3A)[^key-88a3de935fe5e2f85f77dcf393d279e7] References in paragraph (2) to the proprietor of a trade mark also include a person who has applied for registration of a trade mark which, if registered, would be an earlier trade mark by virtue of section 6(1)(ab).
+(3A)[^c-88a3de935fe5e2f85f77dcf393d279e7] References in paragraph (2) to the proprietor of a trade mark also include a person who has applied for registration of a trade mark which, if registered, would be an earlier trade mark by virtue of section 6(1)(ab).
 
-(4)[^key-37dcc5fba09fcfcf3ca0011b0d1bb38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-37dcc5fba09fcfcf3ca0011b0d1bb38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-37dcc5fba09fcfcf3ca0011b0d1bb38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-37dcc5fba09fcfcf3ca0011b0d1bb38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-37dcc5fba09fcfcf3ca0011b0d1bb38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-37dcc5fba09fcfcf3ca0011b0d1bb38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Rule 63 shall not apply to any decision made in pursuance of this rule.
 
 (8) No decision made in pursuance of this rule shall be subject to appeal.
 
-### 15. Compliance with request for expedited examination[^key-02167b95047e8f037421fc9ca9a6434d]
+### 15. Compliance with request for expedited examination[^c-02167b95047e8f037421fc9ca9a6434d]
 
 Where the registrar receives a request for expedited examination under rule 5, the date on which the registrar shall be deemed to have notified the applicant whether or not it appears to the registrar that the requirements for registration are met shall be the date on which notice is sent to the applicant.
 
 ## Publication, observations, oppositions and registration
 
-### 16. Publication of application for registration; section 38(1)[^key-01cc82b879c1559eaa3ceb151167ebdf]
+### 16. Publication of application for registration; section 38(1)[^c-01cc82b879c1559eaa3ceb151167ebdf]
 
 An application which has been accepted for registration shall be published in the Journal.
 
-### 17. Opposition proceedings: filing of notice of opposition; section 38(2) (Form TM7)[^key-22dbc707d07200b493f58259c6f73f02]
+### 17. Opposition proceedings: filing of notice of opposition; section 38(2) (Form TM7)[^c-22dbc707d07200b493f58259c6f73f02]
 
-(1) Subject to Rule 17A, any[^key-0ef798a325566ea76c815a350ab8e1c9] notice to the registrar of opposition to the registration, including the statement of the grounds of opposition, shall be filed on Form TM7.
+(1) Subject to Rule 17A, any[^c-0ef798a325566ea76c815a350ab8e1c9] notice to the registrar of opposition to the registration, including the statement of the grounds of opposition, shall be filed on Form TM7.
 
-(2) Unless paragraph (3) applies, the time prescribed for the purposes of section 38(2) shall be the period of two months beginning immediately after[^key-c74a3c07ebfa57f420b41cd43bfc0947] the date on which the application was published.
+(2) Unless paragraph (3) applies, the time prescribed for the purposes of section 38(2) shall be the period of two months beginning immediately after[^c-c74a3c07ebfa57f420b41cd43bfc0947] the date on which the application was published.
 
-(3) This paragraph applies where a request for an extension of time for the filing of Form TM7 has been made on Form TM7A, before the expiry of the period referred to in paragraph (2) and where this paragraph applies, the time prescribed for the purposes of section 38(2) in relation to any person having filed a Form TM7A (or, in the case of a company, any subsidiary or holding company of that company or any other subsidiary of that holding company) shall be the period of three months beginning immediately after[^key-075a29767998b48f9c87ed9c336f76d6] the date on which the application was published.
+(3) This paragraph applies where a request for an extension of time for the filing of Form TM7 has been made on Form TM7A, before the expiry of the period referred to in paragraph (2) and where this paragraph applies, the time prescribed for the purposes of section 38(2) in relation to any person having filed a Form TM7A (or, in the case of a company, any subsidiary or holding company of that company or any other subsidiary of that holding company) shall be the period of three months beginning immediately after[^c-075a29767998b48f9c87ed9c336f76d6] the date on which the application was published.
 
 (4) Where a person makes a request for an extension of time under paragraph (3), Form TM7A shall be filed electronically using the filing system provided on the Office website or by such other means as the registrar may permit.
 
@@ -339,7 +339,7 @@ An application which has been accepted for registration shall be published in th
 - (c) the goods and services in respect of which—
   - (i) that mark is registered, and
   - (ii) the opposition is based; and
-- (d) where the registration procedure for the mark was completed before the start of the period of five years ending with the date of application for registration or, if any, the date of priority[^key-f9c627c4bdd4fbca7abfd232c3df3ac3], a statement detailing whether during the period referred to in section 6A(3)(a) the mark has been put to genuine use in relation to each of the goods and services in respect of which the opposition is based or whether there are proper reasons for non-use (for the purposes of rule 20 this is the “statement of use”).
+- (d) where the registration procedure for the mark was completed before the start of the period of five years ending with the date of application for registration or, if any, the date of priority[^c-f9c627c4bdd4fbca7abfd232c3df3ac3], a statement detailing whether during the period referred to in section 6A(3)(a) the mark has been put to genuine use in relation to each of the goods and services in respect of which the opposition is based or whether there are proper reasons for non-use (for the purposes of rule 20 this is the “statement of use”).
 
 (6) Where the opposition is based on a trade mark in respect of which an application for registration has been made, there shall be included in the statement of the grounds of opposition a representation of that mark and those matters set out in paragraph (5)(a) to (c), with references to registration being construed as references to the application for registration.
 
@@ -349,7 +349,7 @@ An application which has been accepted for registration shall be published in th
 
 (9) In this rule “**subsidiary**” and “**holding company**” have the same meaning as in the Companies Act 2006[^f00006].
 
-### 17A. Opposition proceedings: filing of notice of fast track opposition; section 38(2) (Form TM7F))[^key-60dc022c165269c48d6cba97a43d9bad]
+### 17A. Opposition proceedings: filing of notice of fast track opposition; section 38(2) (Form TM7F))[^c-60dc022c165269c48d6cba97a43d9bad]
 
 (1) A notice to the registrar of fast track opposition to the registration, including the statement of the grounds of opposition, may be filed on Form TM7F.
 
@@ -368,8 +368,8 @@ An application which has been accepted for registration shall be published in th
 - (c) the goods and services in respect of which—
   - (i) that mark is registered, and
   - (ii) the opposition is based;
-- (d) the date of completion of the registration procedure or of granting protection to an international trade mark (UK) [^key-cc42b4bc4b3de596a72ed2b5cca322fd]...; and
-- (e) where the registration or protection procedure for the mark was completed before the start of the period of five years ending with the date of application for registration or, if any, the date of priority[^key-190b0765dfc559696c182aa6cabae40c], a statement detailing whether during the period referred to in section 6A(3)(a) the mark has been put to genuine use in relation to each of the goods and services in respect of which the opposition is based.
+- (d) the date of completion of the registration procedure or of granting protection to an international trade mark (UK) [^c-cc42b4bc4b3de596a72ed2b5cca322fd]...; and
+- (e) where the registration or protection procedure for the mark was completed before the start of the period of five years ending with the date of application for registration or, if any, the date of priority[^c-190b0765dfc559696c182aa6cabae40c], a statement detailing whether during the period referred to in section 6A(3)(a) the mark has been put to genuine use in relation to each of the goods and services in respect of which the opposition is based.
 
 (7) Where the earlier mark is subject to proof of use under section 6A of the Act, the proof of use that the opponent wishes to rely upon shall be provided with the notice of fast track opposition.
 
@@ -377,21 +377,21 @@ An application which has been accepted for registration shall be published in th
 
 (9) In this rule “**subsidiary**” and “**holding company**” have the same meaning as in the Companies Act 2006.
 
-### 18. Opposition proceedings: filing of counter-statement and cooling off period (Forms TM8, TM9c & TM9t)[^key-e1ec64ea6019b4001a9dc23f3a38f3f9]
+### 18. Opposition proceedings: filing of counter-statement and cooling off period (Forms TM8, TM9c & TM9t)[^c-e1ec64ea6019b4001a9dc23f3a38f3f9]
 
 (1) The applicant shall, within the relevant period, file a Form TM8, which shall include a counter-statement.
 
 (2) Where the applicant fails to file a Form TM8 or counter-statement within the relevant period, the application for registration, insofar as it relates to the goods and services in respect of which the opposition is directed, shall, unless the registrar otherwise directs, be treated as abandoned.
 
-(3) Unless either paragraph (4), (5) or (6) applies, the relevant period is the period of two months beginning immediately after the notification date[^key-bd018b8c3b8806c72679a024cd7492f2].
+(3) Unless either paragraph (4), (5) or (6) applies, the relevant period is the period of two months beginning immediately after the notification date[^c-bd018b8c3b8806c72679a024cd7492f2].
 
 (4) This paragraph applies where—
 
 - (a) the applicant and the person opposing the registration agree to an extension of time for the filing of Form TM8;
-- (b) within the period of two months beginning immediately after[^key-4bc94cbefbb46d73fdc0deca620da67c] the notification date, either party files Form TM9c requesting an extension of time for the filing of Form TM8; and
+- (b) within the period of two months beginning immediately after[^c-4bc94cbefbb46d73fdc0deca620da67c] the notification date, either party files Form TM9c requesting an extension of time for the filing of Form TM8; and
 - (c) during the period beginning on the date Form TM9c was filed and ending nine months after the notification date, no notice to continue on Form TM9t is filed by the person opposing the registration and no request for a further extension of time for the filing of Form TM8 is filed on Form TM9e,
 
-and where this paragraph applies the relevant period is the period of nine months beginning immediately after the notification date[^key-54bd8c0945c793a090cd5c3391e4f361].
+and where this paragraph applies the relevant period is the period of nine months beginning immediately after the notification date[^c-54bd8c0945c793a090cd5c3391e4f361].
 
 (5) This paragraph applies where—
 
@@ -399,25 +399,25 @@ and where this paragraph applies the relevant period is the period of nine month
 - (b) during the period referred to in paragraph (4)(c), either party files Form TM9e requesting a further extension of time for the filing of Form TM8 which request includes a statement confirming that the parties are seeking to negotiate a settlement of the opposition proceedings; and
 - (c) the other party agrees to the further extension of time for the filing of Form TM8,
 
-and where this paragraph applies the relevant period is the period of eighteen months beginning immediately after the notification date[^key-b232ab335f5c79aecca44a30bffb937f].
+and where this paragraph applies the relevant period is the period of eighteen months beginning immediately after the notification date[^c-b232ab335f5c79aecca44a30bffb937f].
 
 (6) This paragraph applies where—
 
 - (a) a request for an extension of time for the filing of Form TM8 has been filed on Form TM9c in accordance with paragraph (4)(b); and
 - (b) the person opposing the registration has filed a notice to continue on Form TM9t,
 
-and where this paragraph applies the relevant period shall begin on the notification date and end one month after the date on which Form TM9t was filed or two months beginning immediately[^key-4587c9e281d85d304bde1ddb474ef04c] after the notification date, whichever is the later.
+and where this paragraph applies the relevant period shall begin on the notification date and end one month after the date on which Form TM9t was filed or two months beginning immediately[^c-4587c9e281d85d304bde1ddb474ef04c] after the notification date, whichever is the later.
 
 (7) The registrar shall send a copy of Form TM8 to the person opposing the registration.
 
-### 19. Opposition proceedings: preliminary indication (Form TM53)[^key-ecca0ff72362967b34bb7b294bdee6e0]
+### 19. Opposition proceedings: preliminary indication (Form TM53)[^c-ecca0ff72362967b34bb7b294bdee6e0]
 
 (1) This rule applies if—
 
 - (a) the opposition or part of it is based on the relative grounds of refusal set out in section 5(1) or (2); and
 - (b) the registrar has not indicated to the parties that the registrar thinks that it is inappropriate for this rule to apply.
 
-(1A)[^key-097d48490ece5f0a60ab6cda67958d22] This rule shall not apply to fast track oppositions.
+(1A)[^c-097d48490ece5f0a60ab6cda67958d22] This rule shall not apply to fast track oppositions.
 
 (2) After considering the statement of the grounds of opposition and the counter-statement the registrar shall send notice to the parties (“the preliminary indication”) stating whether it appears to the registrar that—
 
@@ -434,7 +434,7 @@ and where this paragraph applies the relevant period shall begin on the notifica
 
 (7) The registrar need not give reasons for the preliminary indication nor shall the preliminary indication be subject to appeal.
 
-### 20. Opposition proceedings: evidence rounds[^key-52b61cd365d2a5638780bf8b34acc542]
+### 20. Opposition proceedings: evidence rounds[^c-52b61cd365d2a5638780bf8b34acc542]
 
 (1) Where—
 
@@ -459,9 +459,9 @@ the person opposing the registration (“the opposer”) shall file evidence sup
 
 (4) The registrar may, at any time, give leave to either party to file evidence upon such terms as the registrar thinks fit.
 
-(5)[^key-4b360047052393d7b014d8d6817a8d3d] Paragraphs (1)–(3) of this Rule shall not apply to fast track oppositions but paragraph (4) shall apply.
+(5)[^c-4b360047052393d7b014d8d6817a8d3d] Paragraphs (1)–(3) of this Rule shall not apply to fast track oppositions but paragraph (4) shall apply.
 
-### 21. Procedure for intervention[^key-f923be063871aaf593dc5ef171281b96]
+### 21. Procedure for intervention[^c-f923be063871aaf593dc5ef171281b96]
 
 (1) If the opposition or part of it is based on the relative grounds for refusal set out in section 5(1), (2) or (3), any person in paragraph (3) may file an application to the registrar on Form TM27 for leave to intervene and the registrar may, after hearing the parties concerned if so required, refuse such leave or grant leave upon such terms and conditions (including any undertaking as to costs) as the registrar thinks fit.
 
@@ -472,21 +472,21 @@ the person opposing the registration (“the opposer”) shall file evidence sup
 - (a) where the opposition is based on an earlier trade mark, a licensee of that mark; and
 - (b) where the opposition is based on an earlier collective mark or certification mark, an authorised user of that mark.
 
-### 22. Observations on application to be sent to applicant; section 38(3)[^key-0f44caf5ae1866405cca8a87cf51f0e5]
+### 22. Observations on application to be sent to applicant; section 38(3)[^c-0f44caf5ae1866405cca8a87cf51f0e5]
 
 The registrar shall send to the applicant a copy of any document containing observations made under section 38(3).
 
-### 23. Publication of registration; section 40[^key-70b26b969eb26b10d67541177b97592f]
+### 23. Publication of registration; section 40[^c-70b26b969eb26b10d67541177b97592f]
 
 On the registration of the trade mark the registrar shall publish the registration on the Office website, specifying the date upon which the trade mark was entered in the register.
 
 ## Amendment of application
 
-### 24. Amendment of application; section 39 (Form TM21)[^key-a54fab33771db55e1d31d5682b56927f]
+### 24. Amendment of application; section 39 (Form TM21)[^c-a54fab33771db55e1d31d5682b56927f]
 
 A request for an amendment of an application to correct an error or to change the name or address of the applicant or in respect of any amendment requested after publication of the application shall be made on Form TM21.
 
-### 25. Amendment of application after publication; section 39 (Form TM7)[^key-372233210656a49a43889a6edc968108]
+### 25. Amendment of application after publication; section 39 (Form TM7)[^c-372233210656a49a43889a6edc968108]
 
 (1) Where, pursuant to section 39, a request is made for amendment of an application which has been published in the Journal and the amendment affects the representation of the trade mark or the goods or services covered by the application, the amendment or a statement of the effect of the amendment shall also be published in the Journal.
 
@@ -498,14 +498,14 @@ A request for an amendment of an application to correct an error or to change th
   - (i) an application for registration shall be construed as a reference to a request for amendment of an application,
   - (ii) the person opposing the registration shall be construed as a reference to the person objecting to the amendment of an application,
   - (iii) the opposition shall be construed as a reference to the objection;
-- (b) the relevant period, referred to in rule 18(1), shall for these purposes be the period of two months beginning immediately after[^key-78007beba8e02c8af7adcfc269227289] the date upon which the registrar sent a copy of Form TM7 to the applicant; and
+- (b) the relevant period, referred to in rule 18(1), shall for these purposes be the period of two months beginning immediately after[^c-78007beba8e02c8af7adcfc269227289] the date upon which the registrar sent a copy of Form TM7 to the applicant; and
 - (c) rules 18(3) to (6), 20(2) and (3) shall not apply.
 
 ## Division, merger and series of marks
 
-### 26. Division of application; section 41 (Form TM12)[^key-4f0da120be65de8ae560908634961c5e]
+### 26. Division of application; section 41 (Form TM12)[^c-4f0da120be65de8ae560908634961c5e]
 
-(1) At any time before registration an applicant may send to the registrar a request on Form TM12 to divide the specification[^key-3f1c48da49daef0c382e29b34ab71d24] of the application for registration (the original application) into two or more separate applications (divisional applications), indicating for each division the specification of goods or services.
+(1) At any time before registration an applicant may send to the registrar a request on Form TM12 to divide the specification[^c-3f1c48da49daef0c382e29b34ab71d24] of the application for registration (the original application) into two or more separate applications (divisional applications), indicating for each division the specification of goods or services.
 
 (2) Each divisional application shall be treated as a separate application for registration with the same filing date as the original application.
 
@@ -513,7 +513,7 @@ A request for an amendment of an application to correct an error or to change th
 
 (4) Upon division of an original application in respect of which notice has been given to the registrar of particulars relating to the grant of a licence, or a security interest or any right in or under it, the notice and the particulars shall be deemed to apply in relation to each of the applications into which the original application has been divided.
 
-### 26A. Division of registration; section 41 (Form TM12R)[^key-e589cdcb6f97f5c97001d2371b3db03c]
+### 26A. Division of registration; section 41 (Form TM12R)[^c-e589cdcb6f97f5c97001d2371b3db03c]
 
 (1) The proprietor of a trade mark may send to the registrar a request on Form TM12R to divide the specification of the registration (the original registration) into two or more separate trade marks (divisional registrations), indicating for each divisional registration the specification of goods or services.
 
@@ -532,15 +532,15 @@ A request for an amendment of an application to correct an error or to change th
 
 the registrar must enter in the register the same particulars in relation to each of the divisional registrations into which the original registration has been divided.
 
-### 27. Merger of separate applications or registrations; section 41 (Form TM17)[^key-924aeeb5a0d59bce3c9c3f405658ef22]
+### 27. Merger of separate applications or registrations; section 41 (Form TM17)[^c-924aeeb5a0d59bce3c9c3f405658ef22]
 
-(1)[^key-7fb2cf695a72a3aefe776fbddadedf91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7fb2cf695a72a3aefe776fbddadedf91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7fb2cf695a72a3aefe776fbddadedf91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7fb2cf695a72a3aefe776fbddadedf91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The proprietor of two or more registrations of a trade mark , the applications relating to which were filed on the same date,[^key-d453c85776d99529285ccba5a1b8ea9d] may request the registrar on Form TM17 to merge them into a single registration and the registrar shall, if satisfied that the registrations are in respect of the same trade mark, merge them into a single registration.
+(3) The proprietor of two or more registrations of a trade mark , the applications relating to which were filed on the same date,[^c-d453c85776d99529285ccba5a1b8ea9d] may request the registrar on Form TM17 to merge them into a single registration and the registrar shall, if satisfied that the registrations are in respect of the same trade mark, merge them into a single registration.
 
-(3A)[^key-3cb99bace8e2b92ea117bfdb91e51600] No application under paragraph (3) may be granted in respect of the registration of a trade mark which—
+(3A)[^c-3cb99bace8e2b92ea117bfdb91e51600] No application under paragraph (3) may be granted in respect of the registration of a trade mark which—
 
 - (a) is the subject of proceedings for its revocation or invalidation; or
 - (b) is the subject of an international registration within the meaning of article 2 of the Trade Marks (International Registration) Order 2008 which has not become independent of the trade mark as provided for in accordance with Article 6 of the Madrid Protocol.
@@ -551,9 +551,9 @@ the registrar must enter in the register the same particulars in relation to eac
 
 (6) The date of registration of the merged registration shall, where the separate registrations bear different dates of registration, be the latest of those dates.
 
-### 28. Registration of a series of trade marks; section 41 (Form TM12)[^key-40c1b0c06cad38dae3a4d345f0a3b331]
+### 28. Registration of a series of trade marks; section 41 (Form TM12)[^c-40c1b0c06cad38dae3a4d345f0a3b331]
 
-(1)[^key-fab70e735f569b0a0eaa8281f62a5d10] An application may be made in accordance with rule 5 for the registration of a series of trade marks in a single registration provided that the series comprises of no more than six trade marks.
+(1)[^c-fab70e735f569b0a0eaa8281f62a5d10] An application may be made in accordance with rule 5 for the registration of a series of trade marks in a single registration provided that the series comprises of no more than six trade marks.
 
 (1A) Where an application for registration of a series of trade marks comprises three or more trade marks, the application shall be subject to the payment of the prescribed fee for each trade mark in excess of two trade marks.
 
@@ -571,19 +571,19 @@ the registrar must enter in the register the same particulars in relation to eac
 
 ## Collective and certification marks
 
-### 29. Filing of regulations for collective and certification marks; Schedules 1 & 2 (Form TM35)[^key-17e6fb63b966e4301ed16aa57a4579b6]
+### 29. Filing of regulations for collective and certification marks; Schedules 1 & 2 (Form TM35)[^c-17e6fb63b966e4301ed16aa57a4579b6]
 
 Where an application for registration of a collective or certification mark is filed, the applicant shall, within such period of not less than three months as the registrar may specify, file Form TM35 accompanied by a copy of the regulations governing the use of the mark.
 
-### 29A. Filing of regulations for EU collective and certification marks; Schedule 2A, paragraph 4[^key-40d2cf732b2c09d97f82b86ed880871e]
+### 29A. Filing of regulations for EU collective and certification marks; Schedule 2A, paragraph 4[^c-40d2cf732b2c09d97f82b86ed880871e]
 
 Regulations governing the use of a comparable trade mark (EU) which is a collective mark or a certification mark and any translation required to be filed under paragraph 4 of Schedule 2A must be filed within a period of three months following the date of notice from the registrar.
 
-### 29B. Filing of regulations for International collective and certification marks; Schedule 2B, paragraph 4[^key-b79a147288b40b31306d49b50f9825c2]
+### 29B. Filing of regulations for International collective and certification marks; Schedule 2B, paragraph 4[^c-b79a147288b40b31306d49b50f9825c2]
 
 Regulations governing the use of a comparable trade mark (IR) which is a collective mark or a certification mark and any translation required to be filed under paragraph 4 of Schedule 2B must be filed within a period of three months following the date of notice from the registrar.
 
-### 30. Amendment of regulations of collective and certification marks; Schedule 1 paragraph 10 and Schedule 2 paragraph 11 (Forms TM36 & TM7)[^key-f144c6abb81693ada2a25ca6b5175af1]
+### 30. Amendment of regulations of collective and certification marks; Schedule 1 paragraph 10 and Schedule 2 paragraph 11 (Forms TM36 & TM7)[^c-f144c6abb81693ada2a25ca6b5175af1]
 
 (1) An application for the amendment of the regulations governing the use of a registered collective or certification mark shall be filed on Form TM36.
 
@@ -599,10 +599,10 @@ Regulations governing the use of a comparable trade mark (IR) which is a collect
   - (i) the applicant shall be construed as a reference to the proprietor,
   - (ii) an application for registration shall be construed as a reference to an application for the amendment of the regulations,
   - (iii) the person opposing the registration shall be construed as a reference to the person opposing the amendment of the regulations;
-- (b) the relevant period, referred to in rule 18(1), shall for these purposes be the period of two months beginning immediately after[^key-3114dcaf5e9be86b071602109e14fa9d] the date upon which the registrar sent a copy of Form TM7 to the proprietor;
+- (b) the relevant period, referred to in rule 18(1), shall for these purposes be the period of two months beginning immediately after[^c-3114dcaf5e9be86b071602109e14fa9d] the date upon which the registrar sent a copy of Form TM7 to the proprietor;
 - (c) rules 18(3) to (6), 20(2) and (3) shall not apply.
 
-### 31. Registration subject to disclaimer or limitation; section 13[^key-eb94a4a00ac03e25d3f9ae2a324c79a7]
+### 31. Registration subject to disclaimer or limitation; section 13[^c-eb94a4a00ac03e25d3f9ae2a324c79a7]
 
 Where the applicant for registration of a trade mark or the proprietor by notice in writing sent to the registrar—
 
@@ -611,7 +611,7 @@ Where the applicant for registration of a trade mark or the proprietor by notice
 
 the registrar shall make the appropriate entry in the register and publish such disclaimer or limitation.
 
-### 32. Alteration of registered trade marks; section 44 (Forms TM25 & TM7)[^key-f83413dbe8f6ba750cf0426071fe4c78]
+### 32. Alteration of registered trade marks; section 44 (Forms TM25 & TM7)[^c-f83413dbe8f6ba750cf0426071fe4c78]
 
 (1) The proprietor of a registered trade mark may request the registrar on Form TM25 for such alteration of the mark as is permitted under section 44 and following such request the registrar may require evidence as to the circumstances in which the application is made.
 
@@ -626,10 +626,10 @@ the registrar shall make the appropriate entry in the register and publish such 
   - (ii) an application for registration shall be construed as a reference to a request for alteration,
   - (iii) the person opposing the registration shall be construed as a reference to the person objecting to the alteration,
   - (iv) the opposition shall be construed as a reference to the objection;
-- (b) the relevant period, referred to in rule 18(1), shall for these purposes be the period of two months beginning immediately after[^key-ab72bf9213d10a85cad604e022ee87f8] the date upon which the registrar sent a copy of Form TM7 to the proprietor;
+- (b) the relevant period, referred to in rule 18(1), shall for these purposes be the period of two months beginning immediately after[^c-ab72bf9213d10a85cad604e022ee87f8] the date upon which the registrar sent a copy of Form TM7 to the proprietor;
 - (c) rules 18(3) to (6), 20(2) and (3) shall not apply.
 
-### 33. Surrender of registered trade mark; section 45 (Forms TM22 & TM23)[^key-98d405b280f57aab2bc4781742c832b5]
+### 33. Surrender of registered trade mark; section 45 (Forms TM22 & TM23)[^c-98d405b280f57aab2bc4781742c832b5]
 
 (1) Subject to paragraph (2), the proprietor may surrender a registered trade mark, by sending notice to the registrar—
 
@@ -647,19 +647,19 @@ the registrar shall make the appropriate entry in the register and publish such 
 
 ## Renewal and restoration
 
-### 34. Reminder of renewal of registration; section 43[^key-fb994db8d73ad60ba1b209327a9daea7]
+### 34. Reminder of renewal of registration; section 43[^c-fb994db8d73ad60ba1b209327a9daea7]
 
-(1) Subject to paragraph (2) below, at least six months[^key-ac546da397476630734af429cf0c13a9] before the expiration of the last registration of a trade mark, the registrar shall [^key-352df20ceebe1ecc2713b239463b1d9e]... send to the registered proprietor notice of the approaching expiration and inform the proprietor at the same time that the registration may be renewed in the manner described in rule 35.
+(1) Subject to paragraph (2) below, at least six months[^c-ac546da397476630734af429cf0c13a9] before the expiration of the last registration of a trade mark, the registrar shall [^c-352df20ceebe1ecc2713b239463b1d9e]... send to the registered proprietor notice of the approaching expiration and inform the proprietor at the same time that the registration may be renewed in the manner described in rule 35.
 
 (2) If it appears to the registrar that a trade mark may be registered under section 40 at any time within six months before or at any time on or after the date on which renewal would be due (by reference to the date of application for registration), the registrar shall be taken to have complied with paragraph (1) if the registrar sends to the applicant notice to that effect within one month following the date of actual registration.
 
-(2A)[^key-e9b9a248f3fe364ca7809da0fedf1076] The registrar is not subject to any liability by reason of any failure to notify the proprietor in accordance with paragraph (1) and no proceedings lie against any officer of the registrar in respect of any such failure.
+(2A)[^c-e9b9a248f3fe364ca7809da0fedf1076] The registrar is not subject to any liability by reason of any failure to notify the proprietor in accordance with paragraph (1) and no proceedings lie against any officer of the registrar in respect of any such failure.
 
-### 35. Renewal of registration; section 43 (Form TM11)[^key-398084616ec9cd08ead783c0dcfc0961]
+### 35. Renewal of registration; section 43 (Form TM11)[^c-398084616ec9cd08ead783c0dcfc0961]
 
-Renewal of registration shall be effected by filing a request for renewal on Form TM11 at any time within the period of six months ending on the date of the expiration of the registration or following receipt of a notice from the registrar pursuant to rule 34(1)[^key-d4b5e72d495f723b92fc87886e51bb0e].
+Renewal of registration shall be effected by filing a request for renewal on Form TM11 at any time within the period of six months ending on the date of the expiration of the registration or following receipt of a notice from the registrar pursuant to rule 34(1)[^c-d4b5e72d495f723b92fc87886e51bb0e].
 
-### 36. Delayed renewal and removal of registration; section 43 (Form TM11)[^key-fc09ba31cf874209f518db7b631d25a8]
+### 36. Delayed renewal and removal of registration; section 43 (Form TM11)[^c-fc09ba31cf874209f518db7b631d25a8]
 
 (1) If on the expiration of the last registration of a trade mark the renewal fee has not been paid, the registrar shall publish that fact.
 
@@ -671,20 +671,20 @@ Renewal of registration shall be effected by filing a request for renewal on For
 
 (5) The removal of the registration of a trade mark shall be published on the Office website.
 
-### 37. Restoration of registration; section 43 (Form TM13)[^key-d2ce269fad1e4505f6b792a6f740669f]
+### 37. Restoration of registration; section 43 (Form TM13)[^c-d2ce269fad1e4505f6b792a6f740669f]
 
 (1) Where the registrar has removed the mark from the register for failure to renew its registration in accordance with rule 36, the registrar may, following receipt of a request filed on Form TM13 within six months of the date of the removal of the mark accompanied by the appropriate renewal fee and appropriate restoration fee —
 
 - (a) restore the mark to the register; and
 - (b) renew its registration,
 
-if the registrar is satisfied that the failure to renew was unintentional[^key-130e1ac959607df9cb79bc769c2e1777].
+if the registrar is satisfied that the failure to renew was unintentional[^c-130e1ac959607df9cb79bc769c2e1777].
 
-(1A)[^key-787bdbfae3f023b17dfa8d6dc2aeb771] Where a mark is restored to the register, the proprietor of the mark may not bring an action for infringement against a third party who, in good faith, has put goods on the market or supplied services under a sign which is identical with or similar to the mark in respect of the period beginning with the date of expiration of the registration and ending on the date its restoration is published in accordance with paragraph (2).
+(1A)[^c-787bdbfae3f023b17dfa8d6dc2aeb771] Where a mark is restored to the register, the proprietor of the mark may not bring an action for infringement against a third party who, in good faith, has put goods on the market or supplied services under a sign which is identical with or similar to the mark in respect of the period beginning with the date of expiration of the registration and ending on the date its restoration is published in accordance with paragraph (2).
 
 (2) The restoration of the registration, including the date of restoration, shall be published on the Office website.
 
-### 37A. Restoration of a European Union trade mark; Schedule 2A, paragraph 28[^key-d63b333c581a17a234ac2277a0628170]
+### 37A. Restoration of a European Union trade mark; Schedule 2A, paragraph 28[^c-d63b333c581a17a234ac2277a0628170]
 
 A request for the registration of a comparable trade mark (EU) following the restoration of a European Union trade mark under paragraph 28 of Schedule 2A must include—
 
@@ -697,7 +697,7 @@ A request for the registration of a comparable trade mark (EU) following the res
 
 ## Revocation, invalidation and rectification
 
-### 38. Application for revocation (on the grounds of non-use); section 46(1)(a) or (b) (Forms TM8(N) & TM26(N))[^key-7265f2d9677da4ea32d232649d74e1f7]
+### 38. Application for revocation (on the grounds of non-use); section 46(1)(a) or (b) (Forms TM8(N) & TM26(N))[^c-7265f2d9677da4ea32d232649d74e1f7]
 
 (1) An application to the registrar for revocation of a trade mark under section 46, on the grounds set out in section 46(1)(a) or (b), shall be made on Form TM26(N).
 
@@ -715,7 +715,7 @@ A request for the registration of a comparable trade mark (EU) following the res
 
 (8) The registrar may, at any time, give leave to either party to file evidence upon such terms as the registrar thinks fit.
 
-### 39. Application for revocation (on grounds other than non-use); section 46(1)(c) or (d) (Forms TM8 & TM26(O))[^key-fe82bad62ed8f5665772a1e62dcfbd4a]
+### 39. Application for revocation (on grounds other than non-use); section 46(1)(c) or (d) (Forms TM8 & TM26(O))[^c-fe82bad62ed8f5665772a1e62dcfbd4a]
 
 (1) An application to the registrar for revocation of a trade mark under section 46, on the grounds set out in section 46(1)(c) or (d), shall be made on Form TM26(O) and shall include a statement of the grounds on which the application is made and be accompanied by a statement of truth.
 
@@ -725,9 +725,9 @@ A request for the registration of a comparable trade mark (EU) following the res
 
 (4) The registrar shall send a copy of Form TM8 to the applicant.
 
-### 40. Application for revocation (on grounds other than non-use): evidence rounds[^key-5c42b980f724365518d470418588de18]
+### 40. Application for revocation (on grounds other than non-use): evidence rounds[^c-5c42b980f724365518d470418588de18]
 
-(1) Where the proprietor[^key-3e2e7a2b21e8ae760e9c4fd9729a8adc] has filed a Form TM8, the registrar shall specify the periods within which further evidence may be filed by the parties.
+(1) Where the proprietor[^c-3e2e7a2b21e8ae760e9c4fd9729a8adc] has filed a Form TM8, the registrar shall specify the periods within which further evidence may be filed by the parties.
 
 (2) Where the applicant files no further evidence in support of the application the applicant, shall, unless the registrar otherwise directs, be deemed to have withdrawn the application.
 
@@ -735,7 +735,7 @@ A request for the registration of a comparable trade mark (EU) following the res
 
 (4) The registrar may, at any time give leave to either party to file evidence upon such terms as the registrar thinks fit.
 
-### 41. Application for invalidation: filing of application and counter-statement; section 47 (Forms TM8 & TM26(I))[^key-4d0814e3e63b17c00ef27e333181055c]
+### 41. Application for invalidation: filing of application and counter-statement; section 47 (Forms TM8 & TM26(I))[^c-4d0814e3e63b17c00ef27e333181055c]
 
 (1) An application to the registrar for a declaration of invalidity under section 47 shall be filed on Form TM26(I) and shall include a statement of the grounds on which the application is made and be accompanied by a statement of truth.
 
@@ -758,7 +758,7 @@ A request for the registration of a comparable trade mark (EU) following the res
 
 (7) The registrar shall send a copy of Form TM8 to the applicant.
 
-### 42. Application for invalidation: evidence rounds[^key-0602bd35fcb6694995a21ae55dc45226]
+### 42. Application for invalidation: evidence rounds[^c-0602bd35fcb6694995a21ae55dc45226]
 
 (1) Where the proprietor has filed Form TM8, the registrar shall send notice to the applicant inviting the applicant to file evidence in support of the grounds on which the application is made and any submissions and to send a copy to all the other parties.
 
@@ -779,24 +779,24 @@ the applicant shall file evidence supporting the application.
 
 (5) The registrar may, at any time give leave to either party to file evidence upon such terms as the registrar thinks fit.
 
-### 43. Setting aside cancellation of application or revocation or invalidation of registration; (Form TM29)[^key-e1294220b7cce4e4e55c89fe211f1f86]
+### 43. Setting aside cancellation of application or revocation or invalidation of registration; (Form TM29)[^c-e1294220b7cce4e4e55c89fe211f1f86]
 
 (1) This rule applies where—
 
 - (a) an application for registration is treated as abandoned under rule 18(2);
-- (b) the registration of a mark is revoked under rule 38(6) or rule 39(3);[^key-c2b91939e276a7940e800cacb50fe33d]
-- (c) the registration of a mark is declared invalid under rule 41(6) ; or[^key-2acd452391b86fd1b9d4ebbe38f3cfd7]
-- (d)[^key-aa67363313dd3be675231bade90cb242] the registration of a comparable trade mark (EU) is revoked or declared invalid to any extent under rule 43A(6),
+- (b) the registration of a mark is revoked under rule 38(6) or rule 39(3);[^c-c2b91939e276a7940e800cacb50fe33d]
+- (c) the registration of a mark is declared invalid under rule 41(6) ; or[^c-2acd452391b86fd1b9d4ebbe38f3cfd7]
+- (d)[^c-aa67363313dd3be675231bade90cb242] the registration of a comparable trade mark (EU) is revoked or declared invalid to any extent under rule 43A(6),
 
 and the applicant or the proprietor (as the case may be) claims that the decision of the registrar to treat the application as abandoned or revoke the registration of the mark or declare the mark invalid (as the case may be) (“**the original decision**”) should be set aside on the grounds set out in paragraph (3).
 
-(2) Where this rule applies, the applicant or the proprietor shall, within a period of six months beginning immediately after[^key-a4e5975806a544bcd5e8389b86ccb3c1] the date that the application was refused or the register was amended to reflect the revocation or the declaration of invalidity (as the case may be), file an application on Form TM29 to set aside the decision of the registrar and shall include evidence in support of the application and shall , in the cases referred to in paragraph (1)(a) to (c),[^key-57feb1076c1149396291195b40b56a4d] copy the form and the evidence to the other party to the original proceedings under the rules referred to in paragraph (1).
+(2) Where this rule applies, the applicant or the proprietor shall, within a period of six months beginning immediately after[^c-a4e5975806a544bcd5e8389b86ccb3c1] the date that the application was refused or the register was amended to reflect the revocation or the declaration of invalidity (as the case may be), file an application on Form TM29 to set aside the decision of the registrar and shall include evidence in support of the application and shall , in the cases referred to in paragraph (1)(a) to (c),[^c-57feb1076c1149396291195b40b56a4d] copy the form and the evidence to the other party to the original proceedings under the rules referred to in paragraph (1).
 
-(3) Where the applicant or the proprietor demonstrates to the reasonable satisfaction of the registrar that the failure to file Form TM8 or the derogation notice[^key-00226f8f0857a6f0ef34df14da6764ba] within the period specified in the rules referred to in paragraph (1) was due to a failure to receive Form TM7, Form TM26(N), Form TM26(O) ,[^key-14926f30c2685b3f1ec44f5a786fdabd] Form TM26(I) or notification from the registrar under rule 43(4)(b) that the comparable trade mark (EU) will be revoked or declared invalid to the same extent as the corresponding EUTM[^key-4acec11b4251dedeaf48da6ef21e949e] (as the case may be), the original decision may be set aside on such terms and conditions as the registrar thinks fit.
+(3) Where the applicant or the proprietor demonstrates to the reasonable satisfaction of the registrar that the failure to file Form TM8 or the derogation notice[^c-00226f8f0857a6f0ef34df14da6764ba] within the period specified in the rules referred to in paragraph (1) was due to a failure to receive Form TM7, Form TM26(N), Form TM26(O) ,[^c-14926f30c2685b3f1ec44f5a786fdabd] Form TM26(I) or notification from the registrar under rule 43(4)(b) that the comparable trade mark (EU) will be revoked or declared invalid to the same extent as the corresponding EUTM[^c-4acec11b4251dedeaf48da6ef21e949e] (as the case may be), the original decision may be set aside on such terms and conditions as the registrar thinks fit.
 
 (4) In considering whether to set aside the original decision the matters to which the registrar must have regard include whether the person seeking to set aside the decision made an application to do so promptly upon becoming aware of the original decision and any prejudice which may be caused to the other party to the original proceedings if the original decision were to be set aside.
 
-### 43A. Invalidation or revocation of Existing EUTM: Cancellation notice and procedure on application for derogation; Schedule 2A paragraph 21A[^key-7e3088ff63a2794744f8b356277f6956]
+### 43A. Invalidation or revocation of Existing EUTM: Cancellation notice and procedure on application for derogation; Schedule 2A paragraph 21A[^c-7e3088ff63a2794744f8b356277f6956]
 
 (1) A cancellation notice under paragraph 21A of Schedule 2A must—
 
@@ -828,7 +828,7 @@ and the applicant or the proprietor (as the case may be) claims that the decisio
 
 (8) For the purposes of any appeal against a decision referred to in sub-paragraph (7), the date on which the notice is sent must be taken to be the date of the decision. 
 
-### 44. Procedure on application for rectification; section 64 (Form TM26(R))[^key-a5c7e4861bd606cac15f335c552966c8]
+### 44. Procedure on application for rectification; section 64 (Form TM26(R))[^c-a5c7e4861bd606cac15f335c552966c8]
 
 (1) An application for rectification of an error or omission in the register under section 64(1) shall be made on Form TM26(R) together with:
 
@@ -840,7 +840,7 @@ and the applicant or the proprietor (as the case may be) claims that the decisio
 - (a) shall send a copy of the application and the statement, together with any evidence filed, to the proprietor; and
 - (b) may give such direction with regard to the filing of subsequent evidence and upon such terms as the registrar thinks fit.
 
-### 45. Procedure for intervention[^key-ed34cb21246ffc7ed383eed32532a03e]
+### 45. Procedure for intervention[^c-ed34cb21246ffc7ed383eed32532a03e]
 
 (1) Any person, other than the registered proprietor, claiming to have an interest in proceedings on an application under rule 38, 39, 41 or 44, may file an application to the registrar on Form TM27 for leave to intervene, stating the nature of the person’s interest and the registrar may, after hearing the parties concerned if they request a hearing, refuse leave or grant leave upon such terms and conditions (including any undertaking as to costs) as the registrar thinks fit.
 
@@ -848,26 +848,26 @@ and the applicant or the proprietor (as the case may be) claims that the decisio
 
 ## The register
 
-### 46. Form of register; section 63(1)[^key-61e74ee58dd4d891247a5fab74b29ebf]
+### 46. Form of register; section 63(1)[^c-61e74ee58dd4d891247a5fab74b29ebf]
 
 The register required to be maintained by the registrar under section 63(1) need not be kept in documentary form.
 
-### 47. Entry in register of particulars of registered trade marks; section 63(2) (Form TM24)[^key-6ec993c3bcfe17a243a7ad4736b34b0d]
+### 47. Entry in register of particulars of registered trade marks; section 63(2) (Form TM24)[^c-6ec993c3bcfe17a243a7ad4736b34b0d]
 
 In addition to the entries in the register of registered trade marks required to be made by section 63(2)(a), there shall be entered in the register in respect of each trade mark the following particulars—
 
-- (a) the date of registration as determined in accordance with section 40(3) (that is to say, the date of the filing of the application for registration) or, in the case of a comparable trade mark (EU), as determined in accordance with paragraph 1 of Schedule 2A[^key-666219f52468558fba693a6513b0c0f7];
-- (aa)[^key-686cc3da8d0801f2d38705f4a984dd4c] in the case of a comparable trade mark (IR), the date of registration as determined in accordance with paragraph 1 of Schedule 2B
-- (b) the date of completion of the registration procedure (which in the case of a comparable trade mark (EU) is the date of registration of the corresponding EUTM in the EUTM Register)[^key-01bd9a5cb3a60dcec67a2c27d01493bc];
-- (bb)[^key-b22893c226efd04d530f2541a9fcc527] in the case of a comparable trade mark (IR), the date of completion of the registration procedure which is the date of publication by the European Union Intellectual Property Office of the matters referred to in Article 190(2) of the European Union Trade Mark Regulation in respect of the existing IR(EU) from which the comparable trade mark (IR) derives
+- (a) the date of registration as determined in accordance with section 40(3) (that is to say, the date of the filing of the application for registration) or, in the case of a comparable trade mark (EU), as determined in accordance with paragraph 1 of Schedule 2A[^c-666219f52468558fba693a6513b0c0f7];
+- (aa)[^c-686cc3da8d0801f2d38705f4a984dd4c] in the case of a comparable trade mark (IR), the date of registration as determined in accordance with paragraph 1 of Schedule 2B
+- (b) the date of completion of the registration procedure (which in the case of a comparable trade mark (EU) is the date of registration of the corresponding EUTM in the EUTM Register)[^c-01bd9a5cb3a60dcec67a2c27d01493bc];
+- (bb)[^c-b22893c226efd04d530f2541a9fcc527] in the case of a comparable trade mark (IR), the date of completion of the registration procedure which is the date of publication by the European Union Intellectual Property Office of the matters referred to in Article 190(2) of the European Union Trade Mark Regulation in respect of the existing IR(EU) from which the comparable trade mark (IR) derives
 - (c) the priority date (if any) to be accorded pursuant to a claim to a right to priority made under section 35 or 36;
-- (ca)[^key-9719a36788e168153ef3b5a3eca16faa] in the case of a comparable trade mark (EU)—
+- (ca)[^c-9719a36788e168153ef3b5a3eca16faa] in the case of a comparable trade mark (EU)—
   - (i) the priority date (if any) accorded pursuant to a claim of priority filed in respect of the corresponding EUTM pursuant to the European Union Trade Mark Regulation; and
   - (ii) the number of the registered trade mark or international trade mark (UK) from which the corresponding EUTM claimed seniority (if any) and the seniority date;
 - (cb) where the mark is registered pursuant to an application referred to in paragraph 26 of Schedule 2A—
   - (i) the priority date (if any) accorded pursuant to a claim to a right to priority made under paragraph 25(2)(a)(ii) of Schedule 2A; and
   - (ii) the number of the registered trade mark or international trade mark (UK) from which the application claims seniority (if any) and the seniority date;
-- (cc)[^key-9359bc5682b8961c091d7f5644fe3940] in the case of a comparable trade mark (IR)—
+- (cc)[^c-9359bc5682b8961c091d7f5644fe3940] in the case of a comparable trade mark (IR)—
   - (i) the priority date (if any) accorded pursuant to a claim of priority filed in respect of the corresponding (IR) pursuant to Article 4 of the Paris Convention; and
   - (ii) the number of the registered trade mark or international trade mark (UK) from which the corresponding (IR) claimed seniority (if any) and the seniority date;
 - (cd) where the mark is registered pursuant to an application referred to in paragraph 28, 29 or 33 of Schedule 2B—
@@ -887,12 +887,12 @@ In addition to the entries in the register of registered trade marks required to
     - (bb) the date of recordal of the request for extension to the United Kingdom of the international registration under Article 3*ter*,
 
   as the case may be, of the Madrid Protocol;
-- (l)[^key-e503f3fd7e7d587e6e503cb3576753b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-b15a3e0c37d083aaf74f57319ca6d239] where the mark is a collective mark and amended regulations have been accepted by the registrar, that fact, including the date of that entry.
-- (n)[^key-3242aa2bbd2b1d555fe07d5a4f95be10] in the case of a comparable trade mark (EU) an indication that it is derived from an existing EUTM, including the number of the corresponding EUTM, and where the corresponding EUTM is subject to cancellation proceedings, that cancellation is pending.
-- (o)[^key-b637dfaf054f3ecf23adb39d3b083386] in the case of a comparable trade mark (IR) an indication that it is derived from an existing IR(EU), including the number of the international registration to which the existing IR(EU) is subject.
+- (l)[^c-e503f3fd7e7d587e6e503cb3576753b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-b15a3e0c37d083aaf74f57319ca6d239] where the mark is a collective mark and amended regulations have been accepted by the registrar, that fact, including the date of that entry.
+- (n)[^c-3242aa2bbd2b1d555fe07d5a4f95be10] in the case of a comparable trade mark (EU) an indication that it is derived from an existing EUTM, including the number of the corresponding EUTM, and where the corresponding EUTM is subject to cancellation proceedings, that cancellation is pending.
+- (o)[^c-b637dfaf054f3ecf23adb39d3b083386] in the case of a comparable trade mark (IR) an indication that it is derived from an existing IR(EU), including the number of the international registration to which the existing IR(EU) is subject.
 
-### 48. Entry in register of particulars of registrable transactions; section 25[^key-6f57203be731b3cf1983f5b72dfbac29]
+### 48. Entry in register of particulars of registrable transactions; section 25[^c-6f57203be731b3cf1983f5b72dfbac29]
 
 Upon application made to the registrar by such person as is mentioned in section 25(1)(a) or (b) there shall be entered in the register in respect of each trade mark the following particulars of registrable transactions together with the date on which the entry is made —
 
@@ -918,7 +918,7 @@ Upon application made to the registrar by such person as is mentioned in section
   - (iii) where the transfer is in respect of a right in the mark, a description of the right transferred; and
 - (f) in the case of any amendment of the registered particulars relating to a licence under a registered trade mark or a security interest over a registered trade mark or any right in or under it, particulars to reflect such amendment.
 
-### 49. Application to register or give notice of transaction; sections 25 & 27(3) (Form TM16, TM24, TM50 & TM51)[^key-393ecd2a04030db5b84e86abe4c9c9f3]
+### 49. Application to register or give notice of transaction; sections 25 & 27(3) (Form TM16, TM24, TM50 & TM51)[^c-393ecd2a04030db5b84e86abe4c9c9f3]
 
 (1) An application to register particulars of a transaction to which section 25 applies or to give notice to the registrar of particulars of a transaction to which section 27(3) applies shall be made—
 
@@ -937,21 +937,21 @@ or be accompanied by such documentary evidence as suffices to establish the tran
 
 (3) Where an application to give notice to the registrar has been made of particulars relating to an application for registration of a trade mark, upon registration of the trade mark, the registrar shall enter those particulars in the register.
 
-### 50. Public inspection of register; section 63(3)[^key-72b28815930b87bd2183189d87d9ac1f]
+### 50. Public inspection of register; section 63(3)[^c-72b28815930b87bd2183189d87d9ac1f]
 
 (1) The register shall be open for public inspection at the Office during the hours of business of the Office as published in accordance with rule 80.
 
 (2) Where any portion of the register is kept otherwise than in documentary form, the right of inspection is a right to inspect the material on the register.
 
-### 51. Supply of certified copies etc; section 63(3) (Form TM31R)[^key-22ca8c11239cb04b53f4749441d4e8a6]
+### 51. Supply of certified copies etc; section 63(3) (Form TM31R)[^c-22ca8c11239cb04b53f4749441d4e8a6]
 
 The registrar shall supply a certified copy or extract or uncertified copy or extract, as requested on Form TM31R, of any entry in the register.
 
-### 52. Request for change of name or address in register; section 64(4) (Form TM21)[^key-4a806dd3880984756a6c71c6de9bc33b]
+### 52. Request for change of name or address in register; section 64(4) (Form TM21)[^c-4a806dd3880984756a6c71c6de9bc33b]
 
 The registrar shall, on a request made on Form TM21 by the proprietor of a registered trade mark or a licensee or any person having an interest in or charge on a registered trade mark which has been registered under rule 48 (“**the applicant**”), enter a change in the applicant’s name or address as recorded in the register.
 
-### 53. Removal of matter from register; sections 25(5)(b) and 64(5) (Form TM7)[^key-e37919862de99252a06d2f67d9ac72d8]
+### 53. Removal of matter from register; sections 25(5)(b) and 64(5) (Form TM7)[^c-e37919862de99252a06d2f67d9ac72d8]
 
 (1) Where it appears to the registrar that any matter in the register has ceased to have effect, before removing it from the register—
 
@@ -971,7 +971,7 @@ and where such opposition or objections are made, rule 63 shall apply.
 
 ## Change of classification
 
-### 54. Change of classification; sections 65(2) & 76(1)[^key-eff876077d9603ad87ce1bd73ec7c1a7]
+### 54. Change of classification; sections 65(2) & 76(1)[^c-eff876077d9603ad87ce1bd73ec7c1a7]
 
 (1) The registrar may at any time amend an entry in the register which relates to the classification of a registered trade mark so that it accords with the version of the Nice Classification that has effect at that time.
 
@@ -984,7 +984,7 @@ and where such opposition or objections are made, rule 63 shall apply.
 
 (4) Where the proprietor makes written objections within the period specified in paragraph (2)(a), the registrar shall, as soon as practicable after having considered the objections, publish the proposals in the Journal or, where the registrar has amended the proposals, publish the proposals as amended in the Journal; and the registrar’s decision shall be final and not subject to appeal.
 
-### 55. Opposition to proposals; sections 65(3), (5) & 76(1) (Form TM7)[^key-c8ba50470eb0b9859148f04191a6b511]
+### 55. Opposition to proposals; sections 65(3), (5) & 76(1) (Form TM7)[^c-c8ba50470eb0b9859148f04191a6b511]
 
 (1) Any person may, within two months of the date on which the proposals were published under rule 54, give notice to the registrar of opposition to the proposals on Form TM7 which shall include a statement of the grounds of opposition which shall, in particular, indicate why the proposed amendments would be contrary to section 65(3).
 
@@ -992,17 +992,17 @@ and where such opposition or objections are made, rule 63 shall apply.
 
 ## Request for information, inspection of documents and confidentiality
 
-### 56. Request for information; section 67(1) (Form TM31C)[^key-a9bd9417c6f6c23c47ee4de50a3af439]
+### 56. Request for information; section 67(1) (Form TM31C)[^c-a9bd9417c6f6c23c47ee4de50a3af439]
 
 A request for information relating to an application for registration or to a registered trade mark shall be made on Form TM31C.
 
-### 57. Information available before publication; section 67(2)[^key-5f630c4cadf8a07ec68e4f8fb9115155]
+### 57. Information available before publication; section 67(2)[^c-5f630c4cadf8a07ec68e4f8fb9115155]
 
 (1) Before publication of an application for registration the registrar shall make available for inspection by the public the application and any amendments made to it and any particulars contained in a notice given to the registrar under rule 49.
 
 (2) Nothing in section 67(2) relating to publication of information shall be construed as preventing the publication of decisions on cases relating to trade marks decided by the registrar.
 
-### 58. Inspection of documents; sections 67 & 76(1)[^key-8cd6c8c08b3557d0be2a730633f43488]
+### 58. Inspection of documents; sections 67 & 76(1)[^c-8cd6c8c08b3557d0be2a730633f43488]
 
 (1) Subject to paragraphs (2) and (3), the registrar shall permit all documents filed or kept at the Office in relation to a registered mark or, where an application for the registration of a trade mark has been published, in relation to that application, to be inspected.
 
@@ -1024,7 +1024,7 @@ A request for information relating to an application for registration or to a re
 
 (5) No appeal shall lie from a decision of the registrar under paragraph (4) not to make any document or part of a document available for public inspection.
 
-### 59. Confidential documents[^key-a6f56c6a909f23e934036c89a0ef624f]
+### 59. Confidential documents[^c-a6f56c6a909f23e934036c89a0ef624f]
 
 (1) Where a document (other than a form required by the registrar and published in accordance with rule 3) is filed at the Office and the person filing it requests at the time of filing that it or a specified part of it be treated as confidential, giving reasons for the request, the registrar may direct that it or part of it, as the case may be, be treated as confidential, and the document shall not be open to public inspection while the matter is being determined by the registrar.
 
@@ -1038,7 +1038,7 @@ A request for information relating to an application for registration or to a re
 
 ## Agents
 
-### 60. Proof of authorisation of agent may be required; section 82 (Form TM33)[^key-e7837c882767d31abcdd33f7c9982199]
+### 60. Proof of authorisation of agent may be required; section 82 (Form TM33)[^c-e7837c882767d31abcdd33f7c9982199]
 
 (1) Where an agent has been authorised under section 82, the registrar may in a particular case require the personal signature or presence of the agent or the person authorising the agent to act as agent.
 
@@ -1050,7 +1050,7 @@ A request for information relating to an application for registration or to a re
 
 (5) The registrar may by notice in writing require an agent to produce evidence of his authority under section 82.
 
-### 61. Registrar may refuse to deal with certain agents; section 88[^key-ea74f93b160faf666e3863ba112a5f33]
+### 61. Registrar may refuse to deal with certain agents; section 88[^c-ea74f93b160faf666e3863ba112a5f33]
 
 The registrar may refuse to recognise as agent in respect of any business under the Act—
 
@@ -1061,7 +1061,7 @@ The registrar may refuse to recognise as agent in respect of any business under 
 
 ## Proceedings before and decision of registrar, evidence and costs
 
-### 62. General powers of registrar in relation to proceedings[^key-946fda17b3446edfd129629d8dc3fca9]
+### 62. General powers of registrar in relation to proceedings[^c-946fda17b3446edfd129629d8dc3fca9]
 
 (1) Except where the Act or these Rules otherwise provide, the registrar may give such directions as to the management of any proceedings as the registrar thinks fit, and in particular may—
 
@@ -1069,14 +1069,14 @@ The registrar may refuse to recognise as agent in respect of any business under 
 - (b) require a translation of any document;
 - (c) require a party or a party’s legal representative to attend a hearing;
 - (d) hold a hearing by telephone or by using any other method of direct oral communication;
-- (e)[^key-0ba1e2ef5157f81d923889028088d87a] allow a statement of case to be amended, provided that—
+- (e)[^c-0ba1e2ef5157f81d923889028088d87a] allow a statement of case to be amended, provided that—
   - (i) where an application is made to add grounds of opposition other than under subsections 5(1) or (2) of the Act, the application shall be made on Form TM7G; and
   - (ii) in the case of fast track oppositions the registrar may only permit a statement of case to be amended to add additional or alternative earlier registered or protected trade marks as additional grounds of opposition under subsections 5(1) or 5(2) of the Act, provided that the total number of earlier trade marks relied upon may not exceed three;
 - (f) stay the whole, or any part, of the proceedings either generally or until a specified date or event;
-- (g)[^key-e050fffea371f1430e70725f27dc8d38] consolidate proceedings provided that where a fast track opposition is consolidated with other non-fast track proceedings, it shall no longer be treated as a fast track opposition;
+- (g)[^c-e050fffea371f1430e70725f27dc8d38] consolidate proceedings provided that where a fast track opposition is consolidated with other non-fast track proceedings, it shall no longer be treated as a fast track opposition;
 - (h) direct that part of any proceedings be dealt with as separate proceedings;
 - (i) exclude any evidence which the registrar considers to be inadmissible;
-- (j) direct that with effect from the date specified in the direction opposition proceedings which have been commenced on Form TM7F as a fast track opposition but which do not satisfy the criteria for a fast track opposition may continue as if the opposition proceedings were an opposition to the registration commenced under Rule 17 on Form TM7[^key-82568bfc8f32fb90461c11aac5e81a9d]
+- (j) direct that with effect from the date specified in the direction opposition proceedings which have been commenced on Form TM7F as a fast track opposition but which do not satisfy the criteria for a fast track opposition may continue as if the opposition proceedings were an opposition to the registration commenced under Rule 17 on Form TM7[^c-82568bfc8f32fb90461c11aac5e81a9d]
 
 (2) The registrar may control the evidence by giving directions as to—
 
@@ -1090,22 +1090,22 @@ The registrar may refuse to recognise as agent in respect of any business under 
 
 (4) The registrar may at any stage of any proceedings direct that the parties to the proceedings attend a case management conference or pre-hearing review.
 
-(5)[^key-5132ad15151bffd62798b66e0f8f37b9] In the case of a fast track opposition—
+(5)[^c-5132ad15151bffd62798b66e0f8f37b9] In the case of a fast track opposition—
 
 - (a) proceedings shall be held orally only if the Office requests it or if either party to the proceedings requests it and the registrar considers that oral proceedings are necessary to deal with the case justly and at proportionate cost; and
 - (b) the parties shall be given at least fourteen days’ notice beginning on the date on which the notice is sent, of the time when the oral proceedings are to take place unless each party to the proceedings consents to shorter notice.
 
 (6) In the case of a fast track opposition, where no oral hearing is held, the registrar shall give the parties the opportunity to provide arguments in writing before reaching a decision that is adverse to either party.
 
-### 63. Decisions of registrar to be taken after hearing[^key-325c8b174e97c58fbe59f8aad58d6d92]
+### 63. Decisions of registrar to be taken after hearing[^c-325c8b174e97c58fbe59f8aad58d6d92]
 
 (1) Without prejudice to any provisions of the Act or these Rules requiring the registrar to hear any party to proceedings under the Act or these Rules, or to give such party an opportunity to be heard, the registrar shall, before taking any decision on any matter under the Act or these Rules which is or may be adverse to any party to any proceedings, give that party an opportunity to be heard.
 
 (2) The registrar shall give that party at least fourteen days’ notice, beginning on the date on which notice is sent, of the time when the party may be heard unless the party consents to shorter notice.
 
-(3)[^key-0b7a4380b202f3ce3a988d61d05559f1] This Rule shall not apply to fast track opposition proceedings.
+(3)[^c-0b7a4380b202f3ce3a988d61d05559f1] This Rule shall not apply to fast track opposition proceedings.
 
-### 64. Evidence in proceedings before the registrar; section 69[^key-0f278f8c6305f0f780f1be6c1ac5878c]
+### 64. Evidence in proceedings before the registrar; section 69[^c-0f278f8c6305f0f780f1be6c1ac5878c]
 
 (1) Subject to rule 62(2) and as follows, evidence filed in any proceedings under the Act or these Rules may be given—
 
@@ -1130,7 +1130,7 @@ The registrar may refuse to recognise as agent in respect of any business under 
 - (a) it has been received by the registrar; and
 - (b) it has been sent to all other parties to the proceedings.
 
-### 65. Registrar to have power of an official referee; section 69[^key-fdaa23b36836eaebdcdce4e68830e19c]
+### 65. Registrar to have power of an official referee; section 69[^c-fdaa23b36836eaebdcdce4e68830e19c]
 
 The registrar shall have the powers of an official referee of the Supreme Court as regards—
 
@@ -1139,23 +1139,23 @@ The registrar shall have the powers of an official referee of the Supreme Court 
 
 but the registrar shall have no power to punish summarily for contempt.
 
-### 66. Hearings before registrar to be in public[^key-1478b1c41941ff5c3c324dcee843d72a]
+### 66. Hearings before registrar to be in public[^c-1478b1c41941ff5c3c324dcee843d72a]
 
 (1) The hearing before the registrar of any dispute between two or more parties relating to any matter in connection with an application for the registration of a mark or a registered mark shall be in public unless the registrar, after consultation with those parties who appear in person or are represented at the hearing, otherwise directs.
 
-(2)[^key-8f729669f784dee7e26bd2a40d2d5110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8f729669f784dee7e26bd2a40d2d5110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 67. Costs of proceedings; section 68[^key-8a003689c28edf66b26e85b413d26aa2]
+### 67. Costs of proceedings; section 68[^c-8a003689c28edf66b26e85b413d26aa2]
 
 The registrar may, in any proceedings under the Act or these Rules, by order award to any party such costs as the registrar may consider reasonable, and direct how and by what parties they are to be paid.
 
-### 68. Security for costs; section 68[^key-039ce29bb6e65d686b396647570dbeaf]
+### 68. Security for costs; section 68[^c-039ce29bb6e65d686b396647570dbeaf]
 
 (1) The registrar may require any person who is a party in any proceedings under the Act or these Rules to give security for costs in relation to those proceedings; and may also require security for the costs of any appeal from the registrar’s decision.
 
 (2) In default of such security being given, the registrar, in the case of the proceedings before the registrar, or in the case of an appeal, the person appointed under section 76 may treat the party in default as having withdrawn their application, opposition, objection or intervention, as the case may be.
 
-### 69. Decision of registrar (Form TM5)[^key-6a442fe5a0aa59004dd56ae832397447]
+### 69. Decision of registrar (Form TM5)[^c-6a442fe5a0aa59004dd56ae832397447]
 
 (1) The registrar shall send to each party to the proceedings written notice of any decision made in any proceedings before the registrar stating the reasons for that decision and for the purposes of any appeal against that decision, subject to paragraph (2), the date on which the notice is sent shall be taken to be the date of the decision.
 
@@ -1163,29 +1163,29 @@ The registrar may, in any proceedings under the Act or these Rules, by order awa
 
 ## Appeals
 
-### 70. Decisions subject to appeal; section 76(1)[^key-d017cb927d025d81b6fe309ea2819c1f]
+### 70. Decisions subject to appeal; section 76(1)[^c-d017cb927d025d81b6fe309ea2819c1f]
 
 (1) Except as otherwise expressly provided by these Rules an appeal lies from any decision of the registrar made under these Rules relating to a dispute between two or more parties in connection with a trade mark, including a decision which terminates the proceedings as regards one of the parties or a decision awarding costs to any party (“a final decision”) or a decision which is made at any point in the proceedings prior to a final decision (“an interim decision”).
 
 (2) An interim decision (including a decision refusing leave to appeal under this paragraph) may only be appealed against independently of any appeal against a final decision with the leave of the registrar.
 
-### 71. Appeal to person appointed; section 76[^key-a74b5718e86c5fa25cab884b5a78cd3e]
+### 71. Appeal to person appointed; section 76[^c-a74b5718e86c5fa25cab884b5a78cd3e]
 
-(1) Subject to paragraph (1A), notice[^key-49114fd043afd4a8c1093a52f468ef28] of appeal to the person appointed under section 76 shall be filed on Form TM55 which shall include the appellant’s grounds of appeal and his case in support of the appeal.
+(1) Subject to paragraph (1A), notice[^c-49114fd043afd4a8c1093a52f468ef28] of appeal to the person appointed under section 76 shall be filed on Form TM55 which shall include the appellant’s grounds of appeal and his case in support of the appeal.
 
-(1A)[^key-5a8aa64f0f2e20f373735b1c5f7c4d24] Where the appeal arises in proceedings between two or more parties, notice of appeal to the person appointed under section 76 shall be filed on Form TM55P, which shall include the appellant’s grounds of appeal and his case in support of the appeal.
+(1A)[^c-5a8aa64f0f2e20f373735b1c5f7c4d24] Where the appeal arises in proceedings between two or more parties, notice of appeal to the person appointed under section 76 shall be filed on Form TM55P, which shall include the appellant’s grounds of appeal and his case in support of the appeal.
 
-(2)[^key-f6ae8cf511f2f390f7491c45eb8c7999] Forms TM55 or TM55P shall be filed within the period of 28 days beginning immediately after the date of the registrar’s decision which is the subject of the appeal (“**the original decision**”).
+(2)[^c-f6ae8cf511f2f390f7491c45eb8c7999] Forms TM55 or TM55P shall be filed within the period of 28 days beginning immediately after the date of the registrar’s decision which is the subject of the appeal (“**the original decision**”).
 
 (3) The registrar shall send the notice and the statement to the person appointed.
 
-(4) Where any person other than the appellant was a party to the proceedings before the registrar in which the original decision was made (“**the respondent**”), the registrar shall send to the respondent a copy of the notice and the statement and the respondent may, within the period of 21 days beginning immediately after[^key-bf209ccda43b2c6d28e1af824d3a5117] the date on which the notice and statement was sent, file a notice responding to the notice of appeal.
+(4) Where any person other than the appellant was a party to the proceedings before the registrar in which the original decision was made (“**the respondent**”), the registrar shall send to the respondent a copy of the notice and the statement and the respondent may, within the period of 21 days beginning immediately after[^c-bf209ccda43b2c6d28e1af824d3a5117] the date on which the notice and statement was sent, file a notice responding to the notice of appeal.
 
 (5) The respondent’s notice shall specify any grounds on which the respondent considers the original decision should be maintained where these differ from or are additional to the grounds given by the registrar in the original decision.
 
 (6) The registrar shall send a copy of the respondent’s notice to the person appointed and a copy to the appellant.
 
-### 72. Determination whether appeal should be referred to court; section 76(3)[^key-d7c42cb7891ecb978e453c098815a09a]
+### 72. Determination whether appeal should be referred to court; section 76(3)[^c-d7c42cb7891ecb978e453c098815a09a]
 
 (1) Within 28 days of the date on which the notice of appeal is sent to the respondent by the registrar under rule 71(4);
 
@@ -1204,7 +1204,7 @@ may request that the person appointed refer the appeal to the court.
 
 (6) Within 28 days of the date on which a notice is sent under paragraph (5), the person to whom it was sent may make representations as to whether the appeal should be referred to the court.
 
-### 73. Hearing and determination of appeal; section 76(4)[^key-6104f88bc622f81c1cd11a51edc75cef]
+### 73. Hearing and determination of appeal; section 76(4)[^c-6104f88bc622f81c1cd11a51edc75cef]
 
 (1) Where the person appointed does not refer the appeal to the court, the person appointed shall send written notice of the time and place appointed for the oral hearing of the appeal—
 
@@ -1226,7 +1226,7 @@ may request that the person appointed refer the appeal to the court.
 
 ## Correction of irregularities, calculation and extension of time
 
-### 74. Correction of irregularities in procedure[^key-b13831bbfa61d80728183e73d72ef45a]
+### 74. Correction of irregularities in procedure[^c-b13831bbfa61d80728183e73d72ef45a]
 
 (1) Subject to rule 77, the registrar may authorise the rectification of any irregularity in procedure (including the rectification of any document filed) connected with any proceeding or other matter before the registrar or the Office.
 
@@ -1237,7 +1237,7 @@ may request that the person appointed refer the appeal to the court.
 
 as the registrar may direct.
 
-### 75. Interrupted day[^key-0dc606a88c94146631e2e47d596201d7]
+### 75. Interrupted day[^c-0dc606a88c94146631e2e47d596201d7]
 
 (1) The registrar may certify any day as an interrupted day where—
 
@@ -1253,7 +1253,7 @@ as the registrar may direct.
 - “**excluded day**” means a day which is not a business day as specified in a direction given by the registrar under section 80; and
 - “**interrupted day**” means a day which has been certified as such under paragraph (1).
 
-### 76. Delays in communication services[^key-74ea743a8259dc8dd59d60b5522630ef]
+### 76. Delays in communication services[^c-74ea743a8259dc8dd59d60b5522630ef]
 
 (1) The registrar shall extend any time limit in these Rules where the registrar is satisfied that the failure to do something under these Rules was wholly or mainly attributed to a delay in, or failure of, a communication service.
 
@@ -1266,20 +1266,20 @@ as the registrar may direct.
 
 (3) In this rule “**communication service**” means a service by which documents may be sent and delivered and includes post, facsimile, email and courier.
 
-### 77. Alteration of time limits (Form TM9)[^key-091dfd9eae1d27e43adf5bdd4821a2f7]
+### 77. Alteration of time limits (Form TM9)[^c-091dfd9eae1d27e43adf5bdd4821a2f7]
 
 (1) Subject to paragraphs (4) and (5), the registrar may, at the request of the person or party concerned or at the registrar’s own initiative extend a time or period prescribed by these Rules or a time or period specified by the registrar for doing any act and any extension under this paragraph shall be made subject to such conditions as the registrar may direct.
 
 (2) A request for extension under this rule may be made before or after the time or period in question has expired and shall be made—
 
-- (a) where the application for registration has not been published and the request for an extension relates to a time or period other than one specified under rule 13 and[^key-ead2a8dcfad6c114b1ff667886dd7a7d] is made before the time or period in question has expired, in writing; and
+- (a) where the application for registration has not been published and the request for an extension relates to a time or period other than one specified under rule 13 and[^c-ead2a8dcfad6c114b1ff667886dd7a7d] is made before the time or period in question has expired, in writing; and
 - (b) in any other case, on Form TM9.
 
 (3) Where an extension under paragraph (1) is requested in relation to proceedings before the registrar, the party seeking the extension shall send a copy of the request to every other person who is a party to the proceedings.
 
 (4) The registrar shall extend a flexible time limit, except a time or period which applies in relation to proceedings before the registrar or the filing of an appeal to the Appointed Person under rule 71, where—
 
-- (a) the request for extension is made before the end of the period of two months beginning immediately after[^key-ba3df758dca7d563bfca312e8340156d] the date the relevant time or period expired; and
+- (a) the request for extension is made before the end of the period of two months beginning immediately after[^c-ba3df758dca7d563bfca312e8340156d] the date the relevant time or period expired; and
 - (b) no previous request has been made under this paragraph.
 
 (5) A time limit listed in Schedule 1 (whether it has already expired or not) may be extended under paragraph (1) if, and only if—
@@ -1296,25 +1296,25 @@ as the registrar may direct.
 
 ## Filing of documents, hours of business, Trade Marks Journal and translations
 
-### 78. Filing of documents by electronic means[^key-1f3020afe5b7f169725569873cd91a5d]
+### 78. Filing of documents by electronic means[^c-1f3020afe5b7f169725569873cd91a5d]
 
 The registrar may permit as an alternative to the sending by post or delivery of the application, notice or other document in legible form the filing of the application, notice or other document by electronic means subject to such terms or conditions as the registrar may specify either generally by published notice or in any particular case by written notice to the person desiring to file any such documents by such means.
 
-### 79. Electronic communications[^key-c12361039ac80ee98e5f75c587c780c6]
+### 79. Electronic communications[^c-c12361039ac80ee98e5f75c587c780c6]
 
 (1) The delivery using electronic communications to any person by the registrar of any document is deemed to be effected, unless the registrar has otherwise specified, by transmitting an electronic communication containing the document to an address provided or made available to the registrar by that person as an address for the receipt of electronic communications; and unless the contrary is proved such delivery is deemed to be effected immediately upon the transmission of the communication.
 
 (2) In this rule “**electronic communication**” has the same meaning as in the Electronic Communications Act 2000[^f00008].
 
-### 80. Directions on hours of business; section 80[^key-3e36961a2b7139ed9a88337beed343a3]
+### 80. Directions on hours of business; section 80[^c-3e36961a2b7139ed9a88337beed343a3]
 
 Any directions given by the registrar under section 80 specifying the hours of business of the Office and business days of the Office shall be published on the Office website.
 
-### 81. Trade Marks Journal; section 81[^key-d118f242dd52f2c4d51ec36b5ce9478b]
+### 81. Trade Marks Journal; section 81[^c-d118f242dd52f2c4d51ec36b5ce9478b]
 
 The registrar shall publish a journal, entitled “The Trade Marks Journal” containing such information as is required to be published in the Journal under these Rules and such other information as the registrar thinks fit.
 
-### 82. Translations[^key-ff88e30c5d394bf1bfe7c59e0653527a]
+### 82. Translations[^c-ff88e30c5d394bf1bfe7c59e0653527a]
 
 (1) Where any document or part thereof which is in a language other than English is filed or sent to the registrar in pursuance of the Act or these Rules, the registrar may require that there be furnished a translation into English of the document or that part, verified to the satisfaction of the registrar as corresponding to the original text.
 
@@ -1322,7 +1322,7 @@ The registrar shall publish a journal, entitled “The Trade Marks Journal” co
 
 ## Transitional provisions and revocations
 
-### 83. Revocation of previous rules and proceedings commenced under previous rules[^key-e24da0bf4db832883bfe2f20a7741edb]
+### 83. Revocation of previous rules and proceedings commenced under previous rules[^c-e24da0bf4db832883bfe2f20a7741edb]
 
 (1) The instruments set out in Schedule 2 (“the previous rules”) are revoked to the extent specified.
 
@@ -1350,11 +1350,11 @@ Department for Innovation, Universities and Skills
 
 7th July 2008
 
-## SCHEDULE 1 — Extension of time limits[^key-4364c6a244ded2eecab45c87c7c85fe6]
+## SCHEDULE 1 — Extension of time limits[^c-4364c6a244ded2eecab45c87c7c85fe6]
 
 Rule 77
 
-[^key-4364c6a244ded2eecab45c87c7c85fe6]
+[^c-4364c6a244ded2eecab45c87c7c85fe6]
 
 - rule 17(2) (filing notice of opposition)
 - rule 17(3) (filing notice of opposition: request for extension of time)
@@ -1374,7 +1374,7 @@ Rule 77
 - rule 55(1) (opposition to proposals for change of classification)
 - rule 77(4) (period for making a retrospective request to extend a flexible time period).
 
-## SCHEDULE 2 — Revocations[^key-d0b2ea6005d2218ce24a2400007b74c3]
+## SCHEDULE 2 — Revocations[^c-d0b2ea6005d2218ce24a2400007b74c3]
 
 Rule 83
 
@@ -1419,181 +1419,181 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53); the definition of “Council” has been amended by the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), Schedule 8, paragraph 30.
 
-[^key-09459e79cc989b6a07334cb89c7e513d]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-09459e79cc989b6a07334cb89c7e513d]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-1768d42d6f9b48d9a8b7e72c6881ac64]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2008/1797/rule/2) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-1768d42d6f9b48d9a8b7e72c6881ac64]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2008/1797/rule/2) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-bc87af2d66bbfa303dcf95f6fb737040]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1797/article/2/1) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/2)
+[^c-bc87af2d66bbfa303dcf95f6fb737040]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1797/article/2/1) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/2)
 
-[^key-7a54859a48cc6b5597365e409cbdf27e]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2008/1797/rule/2) substituted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a54859a48cc6b5597365e409cbdf27e]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2008/1797/rule/2) substituted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Cmnd 6898.
 
 [^f00004]: Footnote: The current version of the classification is the Ninth Edition which entered into force on 1st January 2007 and is available on the WIPO website.
 
-[^key-b1a872548032e57cc786b8e76ad1215c]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/2/1) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [4](https://www.legislation.gov.uk/uksi/2009/2089/rule/4)
+[^c-b1a872548032e57cc786b8e76ad1215c]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/2/1) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [4](https://www.legislation.gov.uk/uksi/2009/2089/rule/4)
 
-[^key-1fcf03e999aeda0a6ef7292fc6958ef7]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/2/2) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fcf03e999aeda0a6ef7292fc6958ef7]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/2/2) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-611c43cf07ffe6bf9f46dcef82443f3e]: Textual amendment: [Rule 2(2A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/2/2A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-611c43cf07ffe6bf9f46dcef82443f3e]: Textual amendment: [Rule 2(2A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/2/2A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6ff01f9193f36f5e28e74c7dc9e5492f]: Textual amendment: [Rule 2A](https://www.legislation.gov.uk/uksi/2008/1797/rule/2A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ff01f9193f36f5e28e74c7dc9e5492f]: Textual amendment: [Rule 2A](https://www.legislation.gov.uk/uksi/2008/1797/rule/2A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a601e2a7735d29e2c376f366e3cbd58]: Textual amendment: [Rule 2B](https://www.legislation.gov.uk/uksi/2008/1797/rule/2B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a601e2a7735d29e2c376f366e3cbd58]: Textual amendment: [Rule 2B](https://www.legislation.gov.uk/uksi/2008/1797/rule/2B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a7ef206685ff4b82a1e415b8e6b3d75]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2008/1797/rule/3) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-7a7ef206685ff4b82a1e415b8e6b3d75]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2008/1797/rule/3) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-85e462bd2fefe9a572a064f8dfb9cfe8]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2008/1797/rule/4) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-85e462bd2fefe9a572a064f8dfb9cfe8]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2008/1797/rule/4) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-6cbb779038855df3fa5feb1009715c21]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/4/1) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6cbb779038855df3fa5feb1009715c21]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/4/1) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42db2942e35241d377864f5a0a92cdc2]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/4/2) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42db2942e35241d377864f5a0a92cdc2]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/4/2) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c44a1f9fb3bebed1e24d06a0b20e57d]: Textual amendment: [Rule 4(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/4/3) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c44a1f9fb3bebed1e24d06a0b20e57d]: Textual amendment: [Rule 4(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/4/3) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32726623360994ba905da27a2a1f4127]: Textual amendment: [Rule 4A](https://www.legislation.gov.uk/uksi/2008/1797/rule/4A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32726623360994ba905da27a2a1f4127]: Textual amendment: [Rule 4A](https://www.legislation.gov.uk/uksi/2008/1797/rule/4A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5c6d7b2d409e909dbfd65b8a15e659b1]: Commencement: Rule 5 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-5c6d7b2d409e909dbfd65b8a15e659b1]: Commencement: Rule 5 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-0347811e45cde1feb04e8502bea422ec]: Textual amendment: Rule 5(1)-(1B) substituted for rule 5(1) (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/article/2), [5](https://www.legislation.gov.uk/uksi/2009/2089/article/5)
+[^c-0347811e45cde1feb04e8502bea422ec]: Textual amendment: Rule 5(1)-(1B) substituted for rule 5(1) (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/article/2), [5](https://www.legislation.gov.uk/uksi/2009/2089/article/5)
 
-[^key-bedcc5fa2bf950f1e340e0ea18c580fe]: Textual amendment: Words in rule 5(2) inserted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [6](https://www.legislation.gov.uk/uksi/2009/2089/rule/6)
+[^c-bedcc5fa2bf950f1e340e0ea18c580fe]: Textual amendment: Words in rule 5(2) inserted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [6](https://www.legislation.gov.uk/uksi/2009/2089/rule/6)
 
-[^key-df6b20ead7fb8935c537595d402a85f7]: Textual amendment: Words in rule 5(3) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [7](https://www.legislation.gov.uk/uksi/2009/2089/rule/7)
+[^c-df6b20ead7fb8935c537595d402a85f7]: Textual amendment: Words in rule 5(3) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [7](https://www.legislation.gov.uk/uksi/2009/2089/rule/7)
 
-[^key-e4d12788b9acb3a071cbb6c8fb8597c0]: Textual amendment: [Rule 5(6)](https://www.legislation.gov.uk/uksi/2008/1797/rule/5/6)[(7)](https://www.legislation.gov.uk/uksi/2008/1797/rule/5/7) substituted for [rule 5(6)](https://www.legislation.gov.uk/uksi/2008/1797/rule/5/6) (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2018/825/regulation/35) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-e4d12788b9acb3a071cbb6c8fb8597c0]: Textual amendment: [Rule 5(6)](https://www.legislation.gov.uk/uksi/2008/1797/rule/5/6)[(7)](https://www.legislation.gov.uk/uksi/2008/1797/rule/5/7) substituted for [rule 5(6)](https://www.legislation.gov.uk/uksi/2008/1797/rule/5/6) (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2018/825/regulation/35) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-7ecb381f8e2171d231828512012bcf17]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/uksi/2008/1797/rule/5A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ecb381f8e2171d231828512012bcf17]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/uksi/2008/1797/rule/5A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a351889b4b798f688665265505a368ec]: Textual amendment: [Rule 5B](https://www.legislation.gov.uk/uksi/2008/1797/rule/5B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a351889b4b798f688665265505a368ec]: Textual amendment: [Rule 5B](https://www.legislation.gov.uk/uksi/2008/1797/rule/5B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc025e5895016afc1f28e3a7c47a19ad]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2008/1797/rule/6) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-bc025e5895016afc1f28e3a7c47a19ad]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2008/1797/rule/6) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-2ffc6cf456ac3742dad0c29063dc3ba1]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2008/1797/rule/7) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-2ffc6cf456ac3742dad0c29063dc3ba1]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2008/1797/rule/7) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-4a55d164072a89b8078c0e3f2d48605f]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2008/1797/rule/8) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-4a55d164072a89b8078c0e3f2d48605f]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2008/1797/rule/8) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-19e01b5d689dd59d5343ce0ae8a8e1c0]: Textual amendment: Words in [rule 8(2)(b)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/2/b) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [36(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/36/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-19e01b5d689dd59d5343ce0ae8a8e1c0]: Textual amendment: Words in [rule 8(2)(b)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/2/b) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [36(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/36/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-1b405733aed81555561d236e40a02120]: Textual amendment: [Rule 8(2A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/2A)[(2B)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/2B) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [36(3)](https://www.legislation.gov.uk/uksi/2018/825/regulation/36/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-1b405733aed81555561d236e40a02120]: Textual amendment: [Rule 8(2A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/2A)[(2B)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/2B) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [36(3)](https://www.legislation.gov.uk/uksi/2018/825/regulation/36/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-2f01e5b91e0420a1403420d5f2202220]: Textual amendment: [Rule 8(5)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/5) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [36(4)](https://www.legislation.gov.uk/uksi/2018/825/regulation/36/4) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-2f01e5b91e0420a1403420d5f2202220]: Textual amendment: [Rule 8(5)](https://www.legislation.gov.uk/uksi/2008/1797/rule/8/5) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [36(4)](https://www.legislation.gov.uk/uksi/2018/825/regulation/36/4) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-b88a783f697fdf4e7b6e840ea9cb5823]: Commencement: Rule 9 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-b88a783f697fdf4e7b6e840ea9cb5823]: Commencement: Rule 9 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-56d270ffe307a7d38caaecbe7c2bddb1]: Textual amendment: Words in rule 9(3) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [37(a)](https://www.legislation.gov.uk/uksi/2018/825/regulation/37/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-56d270ffe307a7d38caaecbe7c2bddb1]: Textual amendment: Words in rule 9(3) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [37(a)](https://www.legislation.gov.uk/uksi/2018/825/regulation/37/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-18811e6343631b8f266bebcc9914ee65]: Textual amendment: Words in rule 9(3) omitted (14.1.2019) by virtue of [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [37(b)](https://www.legislation.gov.uk/uksi/2018/825/regulation/37/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-18811e6343631b8f266bebcc9914ee65]: Textual amendment: Words in rule 9(3) omitted (14.1.2019) by virtue of [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [37(b)](https://www.legislation.gov.uk/uksi/2018/825/regulation/37/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-f5139d7ae9ecbbd409a9f34b4b310826]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2008/1797/rule/10) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-f5139d7ae9ecbbd409a9f34b4b310826]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2008/1797/rule/10) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-99bb882599d2f0546c1bf911c4460d98]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2008/1797/rule/11) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-99bb882599d2f0546c1bf911c4460d98]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2008/1797/rule/11) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-2eb1a07f4a85ebea5094e35d7292dcae]: Textual amendment: [Rule 11(1)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/1/d) semicolon substituted for full stop by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6/2) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/a))
+[^c-2eb1a07f4a85ebea5094e35d7292dcae]: Textual amendment: [Rule 11(1)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/1/d) semicolon substituted for full stop by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6/2) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/a))
 
-[^key-7f45041281cc51bb2e551c199ba27590]: Textual amendment: [Rule 11(1)(e)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/1/e) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6/3) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/a))
+[^c-7f45041281cc51bb2e551c199ba27590]: Textual amendment: [Rule 11(1)(e)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/1/e) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6/3) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/a))
 
-[^key-29f8a467694dce8183afb27d294ac7da]: Textual amendment: [Rule 11(4)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/4) substituted for [rule 11(4)(5)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/4) (6.4.2009) by [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [12](https://www.legislation.gov.uk/uksi/2009/546/rule/12)
+[^c-29f8a467694dce8183afb27d294ac7da]: Textual amendment: [Rule 11(4)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/4) substituted for [rule 11(4)(5)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/4) (6.4.2009) by [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [12](https://www.legislation.gov.uk/uksi/2009/546/rule/12)
 
-[^key-223ed37526cfe9cac49c2010682554ba]: Textual amendment: Word in [rule 11(4)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/4) substituted (1.1.2021) by [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1317/rule/3) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
+[^c-223ed37526cfe9cac49c2010682554ba]: Textual amendment: Word in [rule 11(4)](https://www.legislation.gov.uk/uksi/2008/1797/rule/11/4) substituted (1.1.2021) by [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1317/rule/3) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
 
-[^key-fe7f0716f1e1d6a4063618c64969b1d9]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2008/1797/rule/12) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-fe7f0716f1e1d6a4063618c64969b1d9]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2008/1797/rule/12) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-9335cff8710fcfc8a21a6b682a0eeebe]: Textual amendment: Words in rule. 12(2) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [4](https://www.legislation.gov.uk/uksi/2013/444/rule/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+[^c-9335cff8710fcfc8a21a6b682a0eeebe]: Textual amendment: Words in rule. 12(2) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [4](https://www.legislation.gov.uk/uksi/2013/444/rule/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
-[^key-6f9aadd87939c5977d0bcddf81ed9409]: Textual amendment: [Rule 12(4)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/12/4/d): semicolon substituted for full stop by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6A(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6A/2) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/b))
+[^c-6f9aadd87939c5977d0bcddf81ed9409]: Textual amendment: [Rule 12(4)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/12/4/d): semicolon substituted for full stop by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6A(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6A/2) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/b))
 
-[^key-9eddf04413a8ef2978d0a33f97afcea8]: Textual amendment: [Rule 12(4)(e)](https://www.legislation.gov.uk/uksi/2008/1797/rule/12/4/e) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6A(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6A/3) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/b))
+[^c-9eddf04413a8ef2978d0a33f97afcea8]: Textual amendment: [Rule 12(4)(e)](https://www.legislation.gov.uk/uksi/2008/1797/rule/12/4/e) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 6A(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6A/3) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/b))
 
-[^key-a59cd40ffcc6c21b308216851fb3f6f1]: Textual amendment: Words in [rule 12(5)](https://www.legislation.gov.uk/uksi/2008/1797/rule/12/5) omitted (6.4.2009) by virtue of [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [13](https://www.legislation.gov.uk/uksi/2009/546/rule/13)
+[^c-a59cd40ffcc6c21b308216851fb3f6f1]: Textual amendment: Words in [rule 12(5)](https://www.legislation.gov.uk/uksi/2008/1797/rule/12/5) omitted (6.4.2009) by virtue of [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [13](https://www.legislation.gov.uk/uksi/2009/546/rule/13)
 
-[^key-f143f09b63e87b5213af271d6052f247]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2008/1797/rule/13) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-f143f09b63e87b5213af271d6052f247]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2008/1797/rule/13) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-3bd4c60bd29298fea7ab28010e0d28b5]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/13/2) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [9](https://www.legislation.gov.uk/uksi/2009/2089/rule/9)
+[^c-3bd4c60bd29298fea7ab28010e0d28b5]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/13/2) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [9](https://www.legislation.gov.uk/uksi/2009/2089/rule/9)
 
-[^key-7ad1759cc9e589814bc6931a0c7d7d30]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2008/1797/rule/14) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-7ad1759cc9e589814bc6931a0c7d7d30]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2008/1797/rule/14) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
 [^f00005]: Footnote: [S.I. 2007/1976](https://www.legislation.gov.uk/uksi/2007/1976)
 
-[^key-a3563aef705f9f8085aade5e3d85a774]: Textual amendment: [Rule 14(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/2) substituted (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/2/a)
+[^c-a3563aef705f9f8085aade5e3d85a774]: Textual amendment: [Rule 14(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/2) substituted (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/2/a)
 
-[^key-1b0185dd9191911a5549bb7866ae5538]: Textual amendment: Words in [rule 14(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/3) substituted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b0185dd9191911a5549bb7866ae5538]: Textual amendment: Words in [rule 14(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/3) substituted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88a3de935fe5e2f85f77dcf393d279e7]: Textual amendment: [Rule 14(3A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/3A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88a3de935fe5e2f85f77dcf393d279e7]: Textual amendment: [Rule 14(3A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/3A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37dcc5fba09fcfcf3ca0011b0d1bb38b]: Textual amendment: [Rule 14(4)-(6)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/4) revoked (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/2/b)
+[^c-37dcc5fba09fcfcf3ca0011b0d1bb38b]: Textual amendment: [Rule 14(4)-(6)](https://www.legislation.gov.uk/uksi/2008/1797/rule/14/4) revoked (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/2/b)
 
-[^key-02167b95047e8f037421fc9ca9a6434d]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2008/1797/rule/15) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-02167b95047e8f037421fc9ca9a6434d]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2008/1797/rule/15) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-01cc82b879c1559eaa3ceb151167ebdf]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2008/1797/rule/16) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-01cc82b879c1559eaa3ceb151167ebdf]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2008/1797/rule/16) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-22dbc707d07200b493f58259c6f73f02]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2008/1797/rule/17) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-22dbc707d07200b493f58259c6f73f02]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2008/1797/rule/17) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-0ef798a325566ea76c815a350ab8e1c9]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2008/1797/article/17/1) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/3)
+[^c-0ef798a325566ea76c815a350ab8e1c9]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2008/1797/article/17/1) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/3)
 
-[^key-c74a3c07ebfa57f420b41cd43bfc0947]: Textual amendment: Words in [rule 17(2)](https://www.legislation.gov.uk/uksi/2008/1797/article/17/2) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-c74a3c07ebfa57f420b41cd43bfc0947]: Textual amendment: Words in [rule 17(2)](https://www.legislation.gov.uk/uksi/2008/1797/article/17/2) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-075a29767998b48f9c87ed9c336f76d6]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2008/1797/article/17/3) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-075a29767998b48f9c87ed9c336f76d6]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2008/1797/article/17/3) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-f9c627c4bdd4fbca7abfd232c3df3ac3]: Textual amendment: Words in [rule 17(5)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/17/5/d) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2018/825/regulation/38) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-f9c627c4bdd4fbca7abfd232c3df3ac3]: Textual amendment: Words in [rule 17(5)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/17/5/d) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2018/825/regulation/38) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
 [^f00006]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-60dc022c165269c48d6cba97a43d9bad]: Textual amendment: [Rule 17A](https://www.legislation.gov.uk/uksi/2008/1797/article/17A) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/4)
+[^c-60dc022c165269c48d6cba97a43d9bad]: Textual amendment: [Rule 17A](https://www.legislation.gov.uk/uksi/2008/1797/article/17A) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/4)
 
-[^key-cc42b4bc4b3de596a72ed2b5cca322fd]: Textual amendment: Words in [rule 17A(6)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/17A/6/d) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc42b4bc4b3de596a72ed2b5cca322fd]: Textual amendment: Words in [rule 17A(6)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/17A/6/d) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-190b0765dfc559696c182aa6cabae40c]: Textual amendment: Words in [rule 17A(6)(e)](https://www.legislation.gov.uk/uksi/2008/1797/rule/17A/6/e) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2018/825/regulation/38) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-190b0765dfc559696c182aa6cabae40c]: Textual amendment: Words in [rule 17A(6)(e)](https://www.legislation.gov.uk/uksi/2008/1797/rule/17A/6/e) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2018/825/regulation/38) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-e1ec64ea6019b4001a9dc23f3a38f3f9]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2008/1797/rule/18) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-e1ec64ea6019b4001a9dc23f3a38f3f9]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2008/1797/rule/18) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-bd018b8c3b8806c72679a024cd7492f2]: Textual amendment: Words in [rule 18(3)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/3) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/444/article/3/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-bd018b8c3b8806c72679a024cd7492f2]: Textual amendment: Words in [rule 18(3)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/3) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/444/article/3/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-4bc94cbefbb46d73fdc0deca620da67c]: Textual amendment: Words in [rule 18(4)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/4/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/444/article/3/3) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-4bc94cbefbb46d73fdc0deca620da67c]: Textual amendment: Words in [rule 18(4)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/4/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/444/article/3/3) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-54bd8c0945c793a090cd5c3391e4f361]: Textual amendment: Words in [rule 18(4)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/4) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/444/article/3/4) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-54bd8c0945c793a090cd5c3391e4f361]: Textual amendment: Words in [rule 18(4)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/4) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/444/article/3/4) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-b232ab335f5c79aecca44a30bffb937f]: Textual amendment: Words in [rule 18(5)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/5) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/444/article/3/5) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-b232ab335f5c79aecca44a30bffb937f]: Textual amendment: Words in [rule 18(5)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/5) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/444/article/3/5) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-4587c9e281d85d304bde1ddb474ef04c]: Textual amendment: Words in [rule 18(6)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/6) inserted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/444/article/3/6) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-4587c9e281d85d304bde1ddb474ef04c]: Textual amendment: Words in [rule 18(6)](https://www.legislation.gov.uk/uksi/2008/1797/article/18/6) inserted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/444/article/3/6) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-ecca0ff72362967b34bb7b294bdee6e0]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2008/1797/rule/19) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-ecca0ff72362967b34bb7b294bdee6e0]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2008/1797/rule/19) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-097d48490ece5f0a60ab6cda67958d22]: Textual amendment: [Rule 19(1A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/19/1A) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/rule/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/2235/rule/2/5)
+[^c-097d48490ece5f0a60ab6cda67958d22]: Textual amendment: [Rule 19(1A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/19/1A) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/rule/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/2235/rule/2/5)
 
-[^key-52b61cd365d2a5638780bf8b34acc542]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2008/1797/rule/20) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-52b61cd365d2a5638780bf8b34acc542]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2008/1797/rule/20) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-4b360047052393d7b014d8d6817a8d3d]: Textual amendment: [Rule 20(5)](https://www.legislation.gov.uk/uksi/2008/1797/article/20/5) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/6)
+[^c-4b360047052393d7b014d8d6817a8d3d]: Textual amendment: [Rule 20(5)](https://www.legislation.gov.uk/uksi/2008/1797/article/20/5) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/6)
 
-[^key-f923be063871aaf593dc5ef171281b96]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2008/1797/rule/21) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-f923be063871aaf593dc5ef171281b96]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2008/1797/rule/21) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-0f44caf5ae1866405cca8a87cf51f0e5]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2008/1797/rule/22) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-0f44caf5ae1866405cca8a87cf51f0e5]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2008/1797/rule/22) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-70b26b969eb26b10d67541177b97592f]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2008/1797/rule/23) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-70b26b969eb26b10d67541177b97592f]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2008/1797/rule/23) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-a54fab33771db55e1d31d5682b56927f]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2008/1797/rule/24) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-a54fab33771db55e1d31d5682b56927f]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2008/1797/rule/24) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-372233210656a49a43889a6edc968108]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2008/1797/rule/25) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-372233210656a49a43889a6edc968108]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2008/1797/rule/25) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-78007beba8e02c8af7adcfc269227289]: Textual amendment: Words in [rule 25(3)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/25/3/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-78007beba8e02c8af7adcfc269227289]: Textual amendment: Words in [rule 25(3)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/25/3/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-4f0da120be65de8ae560908634961c5e]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2008/1797/rule/26) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-4f0da120be65de8ae560908634961c5e]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2008/1797/rule/26) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-3f1c48da49daef0c382e29b34ab71d24]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/26/1) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [10](https://www.legislation.gov.uk/uksi/2009/2089/rule/10)
+[^c-3f1c48da49daef0c382e29b34ab71d24]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/26/1) substituted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [10](https://www.legislation.gov.uk/uksi/2009/2089/rule/10)
 
-[^key-e589cdcb6f97f5c97001d2371b3db03c]: Textual amendment: [Rule 26A](https://www.legislation.gov.uk/uksi/2008/1797/rule/26A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2018/825/regulation/39) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-e589cdcb6f97f5c97001d2371b3db03c]: Textual amendment: [Rule 26A](https://www.legislation.gov.uk/uksi/2008/1797/rule/26A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2018/825/regulation/39) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-924aeeb5a0d59bce3c9c3f405658ef22]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2008/1797/rule/27) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-924aeeb5a0d59bce3c9c3f405658ef22]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2008/1797/rule/27) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-7fb2cf695a72a3aefe776fbddadedf91]: Textual amendment: [Rule 27(1)(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/27/1/2) revoked (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/3/a) (with [rule 4](https://www.legislation.gov.uk/uksi/2012/1003/rule/4))
+[^c-7fb2cf695a72a3aefe776fbddadedf91]: Textual amendment: [Rule 27(1)(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/27/1/2) revoked (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/3/a) (with [rule 4](https://www.legislation.gov.uk/uksi/2012/1003/rule/4))
 
-[^key-d453c85776d99529285ccba5a1b8ea9d]: Textual amendment: Words in [rule 27(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/27/3) inserted (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/3/b) (with [rule 4](https://www.legislation.gov.uk/uksi/2012/1003/rule/4))
+[^c-d453c85776d99529285ccba5a1b8ea9d]: Textual amendment: Words in [rule 27(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/27/3) inserted (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/3/b) (with [rule 4](https://www.legislation.gov.uk/uksi/2012/1003/rule/4))
 
-[^key-3cb99bace8e2b92ea117bfdb91e51600]: Textual amendment: [Rule 27(3A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/27/3A) inserted (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/3/c) (with [rule 4](https://www.legislation.gov.uk/uksi/2012/1003/rule/4))
+[^c-3cb99bace8e2b92ea117bfdb91e51600]: Textual amendment: [Rule 27(3A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/27/3A) inserted (1.10.2012) by [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2012 (S.I. 2012/1003)](https://www.legislation.gov.uk/uksi/2012/1003), [rules 1](https://www.legislation.gov.uk/uksi/2012/1003/rule/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2012/1003/rule/2/3/c) (with [rule 4](https://www.legislation.gov.uk/uksi/2012/1003/rule/4))
 
-[^key-40c1b0c06cad38dae3a4d345f0a3b331]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2008/1797/rule/28) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-40c1b0c06cad38dae3a4d345f0a3b331]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2008/1797/rule/28) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-fab70e735f569b0a0eaa8281f62a5d10]: Textual amendment: Rule 28(1)(1A) substituted for rule 28(1) (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [11](https://www.legislation.gov.uk/uksi/2009/2089/rule/11)
+[^c-fab70e735f569b0a0eaa8281f62a5d10]: Textual amendment: Rule 28(1)(1A) substituted for rule 28(1) (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [11](https://www.legislation.gov.uk/uksi/2009/2089/rule/11)
 
 [^M_F_8451ddaa-0790-40bb-f76a-0ce599af3b62]: Textual amendment: Rule 28(3) omitted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [12](https://www.legislation.gov.uk/uksi/2009/2089/rule/12)
 
@@ -1601,206 +1601,206 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_F_fb9de901-bf3d-4daa-b4a7-3f93812ae8e6]: Textual amendment: Rule 28(7) omitted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/rule/2), [12](https://www.legislation.gov.uk/uksi/2009/2089/rule/12)
 
-[^key-17e6fb63b966e4301ed16aa57a4579b6]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2008/1797/rule/29) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-17e6fb63b966e4301ed16aa57a4579b6]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2008/1797/rule/29) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-40d2cf732b2c09d97f82b86ed880871e]: Textual amendment: [Rule 29A](https://www.legislation.gov.uk/uksi/2008/1797/rule/29A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40d2cf732b2c09d97f82b86ed880871e]: Textual amendment: [Rule 29A](https://www.legislation.gov.uk/uksi/2008/1797/rule/29A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b79a147288b40b31306d49b50f9825c2]: Textual amendment: [Rule 29B](https://www.legislation.gov.uk/uksi/2008/1797/rule/29B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b79a147288b40b31306d49b50f9825c2]: Textual amendment: [Rule 29B](https://www.legislation.gov.uk/uksi/2008/1797/rule/29B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f144c6abb81693ada2a25ca6b5175af1]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2008/1797/rule/30) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-f144c6abb81693ada2a25ca6b5175af1]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2008/1797/rule/30) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-3114dcaf5e9be86b071602109e14fa9d]: Textual amendment: Words in [rule 30(5)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/30/5/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-3114dcaf5e9be86b071602109e14fa9d]: Textual amendment: Words in [rule 30(5)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/30/5/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-eb94a4a00ac03e25d3f9ae2a324c79a7]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2008/1797/rule/31) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-eb94a4a00ac03e25d3f9ae2a324c79a7]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2008/1797/rule/31) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-f83413dbe8f6ba750cf0426071fe4c78]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2008/1797/rule/32) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-f83413dbe8f6ba750cf0426071fe4c78]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2008/1797/rule/32) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-ab72bf9213d10a85cad604e022ee87f8]: Textual amendment: Words in [rule 32(4)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/32/4/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-ab72bf9213d10a85cad604e022ee87f8]: Textual amendment: Words in [rule 32(4)(b)](https://www.legislation.gov.uk/uksi/2008/1797/article/32/4/b) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-98d405b280f57aab2bc4781742c832b5]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2008/1797/rule/33) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-98d405b280f57aab2bc4781742c832b5]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2008/1797/rule/33) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-fb994db8d73ad60ba1b209327a9daea7]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2008/1797/rule/34) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-fb994db8d73ad60ba1b209327a9daea7]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2008/1797/rule/34) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-ac546da397476630734af429cf0c13a9]: Textual amendment: Words in [rule 34(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/34/1) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [40(2)(a)](https://www.legislation.gov.uk/uksi/2018/825/regulation/40/2/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-ac546da397476630734af429cf0c13a9]: Textual amendment: Words in [rule 34(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/34/1) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [40(2)(a)](https://www.legislation.gov.uk/uksi/2018/825/regulation/40/2/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-352df20ceebe1ecc2713b239463b1d9e]: Textual amendment: Words in [rule 34(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/34/1) omitted (14.1.2019) by virtue of [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [40(2)(b)](https://www.legislation.gov.uk/uksi/2018/825/regulation/40/2/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-352df20ceebe1ecc2713b239463b1d9e]: Textual amendment: Words in [rule 34(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/34/1) omitted (14.1.2019) by virtue of [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [40(2)(b)](https://www.legislation.gov.uk/uksi/2018/825/regulation/40/2/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-e9b9a248f3fe364ca7809da0fedf1076]: Textual amendment: [Rule 34(2A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/34/2A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [40(3)](https://www.legislation.gov.uk/uksi/2018/825/regulation/40/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-e9b9a248f3fe364ca7809da0fedf1076]: Textual amendment: [Rule 34(2A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/34/2A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [40(3)](https://www.legislation.gov.uk/uksi/2018/825/regulation/40/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-398084616ec9cd08ead783c0dcfc0961]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2008/1797/rule/35) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-398084616ec9cd08ead783c0dcfc0961]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2008/1797/rule/35) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-d4b5e72d495f723b92fc87886e51bb0e]: Textual amendment: Words in [rule 35](https://www.legislation.gov.uk/uksi/2008/1797/rule/35) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [41](https://www.legislation.gov.uk/uksi/2018/825/regulation/41) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-d4b5e72d495f723b92fc87886e51bb0e]: Textual amendment: Words in [rule 35](https://www.legislation.gov.uk/uksi/2008/1797/rule/35) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [41](https://www.legislation.gov.uk/uksi/2018/825/regulation/41) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-fc09ba31cf874209f518db7b631d25a8]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2008/1797/rule/36) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-fc09ba31cf874209f518db7b631d25a8]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2008/1797/rule/36) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-d2ce269fad1e4505f6b792a6f740669f]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2008/1797/rule/37) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-d2ce269fad1e4505f6b792a6f740669f]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2008/1797/rule/37) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-130e1ac959607df9cb79bc769c2e1777]: Textual amendment: Words in [rule 37(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/37/1) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [42(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/42/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-130e1ac959607df9cb79bc769c2e1777]: Textual amendment: Words in [rule 37(1)](https://www.legislation.gov.uk/uksi/2008/1797/rule/37/1) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [42(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/42/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-787bdbfae3f023b17dfa8d6dc2aeb771]: Textual amendment: [Rule 37(1A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/37/1A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [42(3)](https://www.legislation.gov.uk/uksi/2018/825/regulation/42/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-787bdbfae3f023b17dfa8d6dc2aeb771]: Textual amendment: [Rule 37(1A)](https://www.legislation.gov.uk/uksi/2008/1797/rule/37/1A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [42(3)](https://www.legislation.gov.uk/uksi/2018/825/regulation/42/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-d63b333c581a17a234ac2277a0628170]: Textual amendment: [Rule 37A](https://www.legislation.gov.uk/uksi/2008/1797/rule/37A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d63b333c581a17a234ac2277a0628170]: Textual amendment: [Rule 37A](https://www.legislation.gov.uk/uksi/2008/1797/rule/37A) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7265f2d9677da4ea32d232649d74e1f7]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2008/1797/rule/38) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-7265f2d9677da4ea32d232649d74e1f7]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2008/1797/rule/38) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-fe82bad62ed8f5665772a1e62dcfbd4a]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2008/1797/rule/39) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-fe82bad62ed8f5665772a1e62dcfbd4a]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2008/1797/rule/39) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-5c42b980f724365518d470418588de18]: Commencement: Rule 40 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-5c42b980f724365518d470418588de18]: Commencement: Rule 40 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-3e2e7a2b21e8ae760e9c4fd9729a8adc]: Textual amendment: Word in rule 40(1) substituted (1.10.2008) by [The Trade Marks (Amendment) Rules 2008 (S.I. 2008/2300)](https://www.legislation.gov.uk/uksi/2008/2300), [rules 1](https://www.legislation.gov.uk/uksi/2008/2300/rule/1), [2](https://www.legislation.gov.uk/uksi/2008/2300/rule/2)
+[^c-3e2e7a2b21e8ae760e9c4fd9729a8adc]: Textual amendment: Word in rule 40(1) substituted (1.10.2008) by [The Trade Marks (Amendment) Rules 2008 (S.I. 2008/2300)](https://www.legislation.gov.uk/uksi/2008/2300), [rules 1](https://www.legislation.gov.uk/uksi/2008/2300/rule/1), [2](https://www.legislation.gov.uk/uksi/2008/2300/rule/2)
 
-[^key-4d0814e3e63b17c00ef27e333181055c]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2008/1797/rule/41) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-4d0814e3e63b17c00ef27e333181055c]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2008/1797/rule/41) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-0602bd35fcb6694995a21ae55dc45226]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2008/1797/rule/42) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-0602bd35fcb6694995a21ae55dc45226]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2008/1797/rule/42) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-e1294220b7cce4e4e55c89fe211f1f86]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2008/1797/rule/43) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-e1294220b7cce4e4e55c89fe211f1f86]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2008/1797/rule/43) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-c2b91939e276a7940e800cacb50fe33d]: Textual amendment: [Rule 43(1)(b)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/1/b): semicolon substituted for word by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/2) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-c2b91939e276a7940e800cacb50fe33d]: Textual amendment: [Rule 43(1)(b)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/1/b): semicolon substituted for word by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/2) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-2acd452391b86fd1b9d4ebbe38f3cfd7]: Textual amendment: Word in [rule 43(1)(c)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/1/c) substituted for comma (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/3) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-2acd452391b86fd1b9d4ebbe38f3cfd7]: Textual amendment: Word in [rule 43(1)(c)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/1/c) substituted for comma (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/3) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-aa67363313dd3be675231bade90cb242]: Textual amendment: [Rule 43(1)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/1/d) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/4) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-aa67363313dd3be675231bade90cb242]: Textual amendment: [Rule 43(1)(d)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/1/d) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/4) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-a4e5975806a544bcd5e8389b86ccb3c1]: Textual amendment: Words in [rule 43(2)](https://www.legislation.gov.uk/uksi/2008/1797/article/43/2) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-a4e5975806a544bcd5e8389b86ccb3c1]: Textual amendment: Words in [rule 43(2)](https://www.legislation.gov.uk/uksi/2008/1797/article/43/2) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-57feb1076c1149396291195b40b56a4d]: Textual amendment: Words in [rule 43(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/2) inserted (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(5)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/5) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-57feb1076c1149396291195b40b56a4d]: Textual amendment: Words in [rule 43(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/2) inserted (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(5)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/5) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-00226f8f0857a6f0ef34df14da6764ba]: Textual amendment: Words in [rule 43(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/3) inserted (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(6)(a)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/6/a) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-00226f8f0857a6f0ef34df14da6764ba]: Textual amendment: Words in [rule 43(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/3) inserted (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(6)(a)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/6/a) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-14926f30c2685b3f1ec44f5a786fdabd]: Textual amendment: Word in [rule 43(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/3) substituted (31.12.2020) by virtue of [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(6)(b)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/6/b) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-14926f30c2685b3f1ec44f5a786fdabd]: Textual amendment: Word in [rule 43(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/3) substituted (31.12.2020) by virtue of [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(6)(b)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/6/b) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-4acec11b4251dedeaf48da6ef21e949e]: Textual amendment: Words in [rule 43(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/3) inserted (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(6)(c)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/6/c) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-4acec11b4251dedeaf48da6ef21e949e]: Textual amendment: Words in [rule 43(3)](https://www.legislation.gov.uk/uksi/2008/1797/rule/43/3) inserted (31.12.2020) by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10A(6)(c)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10A/6/c) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-7e3088ff63a2794744f8b356277f6956]: Textual amendment: [Rule 43A](https://www.legislation.gov.uk/uksi/2008/1797/rule/43A) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10B](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10B) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
+[^c-7e3088ff63a2794744f8b356277f6956]: Textual amendment: [Rule 43A](https://www.legislation.gov.uk/uksi/2008/1797/rule/43A) inserted by [S.I. 2019/269](https://www.legislation.gov.uk/uksi/2019/269), [Sch. 4 para. 10B](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/10B) (as inserted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c))
 
-[^key-a5c7e4861bd606cac15f335c552966c8]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2008/1797/rule/44) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-a5c7e4861bd606cac15f335c552966c8]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2008/1797/rule/44) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-ed34cb21246ffc7ed383eed32532a03e]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2008/1797/rule/45) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-ed34cb21246ffc7ed383eed32532a03e]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2008/1797/rule/45) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-61e74ee58dd4d891247a5fab74b29ebf]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2008/1797/rule/46) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-61e74ee58dd4d891247a5fab74b29ebf]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2008/1797/rule/46) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-6ec993c3bcfe17a243a7ad4736b34b0d]: Commencement: Rule 47 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-6ec993c3bcfe17a243a7ad4736b34b0d]: Commencement: Rule 47 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-666219f52468558fba693a6513b0c0f7]: Textual amendment: Words in rule 47(a) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-666219f52468558fba693a6513b0c0f7]: Textual amendment: Words in rule 47(a) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-686cc3da8d0801f2d38705f4a984dd4c]: Textual amendment: Rule 47(aa) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-686cc3da8d0801f2d38705f4a984dd4c]: Textual amendment: Rule 47(aa) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-01bd9a5cb3a60dcec67a2c27d01493bc]: Textual amendment: Words in rule 47(b) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01bd9a5cb3a60dcec67a2c27d01493bc]: Textual amendment: Words in rule 47(b) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b22893c226efd04d530f2541a9fcc527]: Textual amendment: Rule 47(bb) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b22893c226efd04d530f2541a9fcc527]: Textual amendment: Rule 47(bb) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9719a36788e168153ef3b5a3eca16faa]: Textual amendment: Rule 47(ca)(cb) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9719a36788e168153ef3b5a3eca16faa]: Textual amendment: Rule 47(ca)(cb) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9359bc5682b8961c091d7f5644fe3940]: Textual amendment: Rule 47(cc)(cd) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(4)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9359bc5682b8961c091d7f5644fe3940]: Textual amendment: Rule 47(cc)(cd) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(4)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e503f3fd7e7d587e6e503cb3576753b0]: Textual amendment: Rule 47(l) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(5)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e503f3fd7e7d587e6e503cb3576753b0]: Textual amendment: Rule 47(l) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(5)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b15a3e0c37d083aaf74f57319ca6d239]: Textual amendment: Rule 47(m) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2018/825/regulation/43) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-b15a3e0c37d083aaf74f57319ca6d239]: Textual amendment: Rule 47(m) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2018/825/regulation/43) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
 
-[^key-3242aa2bbd2b1d555fe07d5a4f95be10]: Textual amendment: Rule 47(n) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/6) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [reg. 11(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3242aa2bbd2b1d555fe07d5a4f95be10]: Textual amendment: Rule 47(n) inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/6) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [reg. 11(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b637dfaf054f3ecf23adb39d3b083386]: Textual amendment: Rule 47(o) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(5)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b637dfaf054f3ecf23adb39d3b083386]: Textual amendment: Rule 47(o) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 7 para. 8(5)](https://www.legislation.gov.uk/uksi/2019/638/schedule/7/paragraph/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f57203be731b3cf1983f5b72dfbac29]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2008/1797/rule/48) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-6f57203be731b3cf1983f5b72dfbac29]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2008/1797/rule/48) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-393ecd2a04030db5b84e86abe4c9c9f3]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2008/1797/rule/49) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-393ecd2a04030db5b84e86abe4c9c9f3]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2008/1797/rule/49) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-72b28815930b87bd2183189d87d9ac1f]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2008/1797/rule/50) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-72b28815930b87bd2183189d87d9ac1f]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2008/1797/rule/50) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-22ca8c11239cb04b53f4749441d4e8a6]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2008/1797/rule/51) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-22ca8c11239cb04b53f4749441d4e8a6]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2008/1797/rule/51) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-4a806dd3880984756a6c71c6de9bc33b]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2008/1797/rule/52) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-4a806dd3880984756a6c71c6de9bc33b]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2008/1797/rule/52) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-e37919862de99252a06d2f67d9ac72d8]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2008/1797/rule/53) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-e37919862de99252a06d2f67d9ac72d8]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2008/1797/rule/53) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-eff876077d9603ad87ce1bd73ec7c1a7]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2008/1797/rule/54) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-eff876077d9603ad87ce1bd73ec7c1a7]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2008/1797/rule/54) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-c8ba50470eb0b9859148f04191a6b511]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2008/1797/rule/55) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-c8ba50470eb0b9859148f04191a6b511]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2008/1797/rule/55) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-a9bd9417c6f6c23c47ee4de50a3af439]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2008/1797/rule/56) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-a9bd9417c6f6c23c47ee4de50a3af439]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2008/1797/rule/56) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-5f630c4cadf8a07ec68e4f8fb9115155]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2008/1797/rule/57) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-5f630c4cadf8a07ec68e4f8fb9115155]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2008/1797/rule/57) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-8cd6c8c08b3557d0be2a730633f43488]: Commencement: [Rule 58](https://www.legislation.gov.uk/uksi/2008/1797/rule/58) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-8cd6c8c08b3557d0be2a730633f43488]: Commencement: [Rule 58](https://www.legislation.gov.uk/uksi/2008/1797/rule/58) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
 [^f00007]: Footnote: [1938 c.22](https://www.legislation.gov.uk/ukpga/1938/22) (1 and 2 Geo 6).
 
-[^key-a6f56c6a909f23e934036c89a0ef624f]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2008/1797/rule/59) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-a6f56c6a909f23e934036c89a0ef624f]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2008/1797/rule/59) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-e7837c882767d31abcdd33f7c9982199]: Commencement: [Rule 60](https://www.legislation.gov.uk/uksi/2008/1797/rule/60) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-e7837c882767d31abcdd33f7c9982199]: Commencement: [Rule 60](https://www.legislation.gov.uk/uksi/2008/1797/rule/60) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-ea74f93b160faf666e3863ba112a5f33]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2008/1797/rule/61) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-ea74f93b160faf666e3863ba112a5f33]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2008/1797/rule/61) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-946fda17b3446edfd129629d8dc3fca9]: Commencement: Rule 62 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-946fda17b3446edfd129629d8dc3fca9]: Commencement: Rule 62 in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-0ba1e2ef5157f81d923889028088d87a]: Textual amendment: Rule 62(1)(e) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/a)
+[^c-0ba1e2ef5157f81d923889028088d87a]: Textual amendment: Rule 62(1)(e) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/a)
 
-[^key-e050fffea371f1430e70725f27dc8d38]: Textual amendment: Rule 62(1)(g) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/rule/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/b)
+[^c-e050fffea371f1430e70725f27dc8d38]: Textual amendment: Rule 62(1)(g) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/rule/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/b)
 
-[^key-82568bfc8f32fb90461c11aac5e81a9d]: Textual amendment: Rule 62(1)(j) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/c)
+[^c-82568bfc8f32fb90461c11aac5e81a9d]: Textual amendment: Rule 62(1)(j) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/c)
 
-[^key-5132ad15151bffd62798b66e0f8f37b9]: Textual amendment: Rule 62(5)[(6)](https://www.legislation.gov.uk/uksi/2008/1797/article/62/6) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(7)(d)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/d)
+[^c-5132ad15151bffd62798b66e0f8f37b9]: Textual amendment: Rule 62(5)[(6)](https://www.legislation.gov.uk/uksi/2008/1797/article/62/6) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(7)(d)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/7/d)
 
-[^key-325c8b174e97c58fbe59f8aad58d6d92]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2008/1797/rule/63) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-325c8b174e97c58fbe59f8aad58d6d92]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2008/1797/rule/63) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-0b7a4380b202f3ce3a988d61d05559f1]: Textual amendment: [Rule 63(3)](https://www.legislation.gov.uk/uksi/2008/1797/article/63/3) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/8)
+[^c-0b7a4380b202f3ce3a988d61d05559f1]: Textual amendment: [Rule 63(3)](https://www.legislation.gov.uk/uksi/2008/1797/article/63/3) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/8)
 
-[^key-0f278f8c6305f0f780f1be6c1ac5878c]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2008/1797/rule/64) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-0f278f8c6305f0f780f1be6c1ac5878c]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2008/1797/rule/64) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-fdaa23b36836eaebdcdce4e68830e19c]: Commencement: [Rule 65](https://www.legislation.gov.uk/uksi/2008/1797/rule/65) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-fdaa23b36836eaebdcdce4e68830e19c]: Commencement: [Rule 65](https://www.legislation.gov.uk/uksi/2008/1797/rule/65) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-1478b1c41941ff5c3c324dcee843d72a]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2008/1797/rule/66) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-1478b1c41941ff5c3c324dcee843d72a]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2008/1797/rule/66) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-8f729669f784dee7e26bd2a40d2d5110]: Textual amendment: [Rule 66(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/66/2) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 345](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/345)
+[^c-8f729669f784dee7e26bd2a40d2d5110]: Textual amendment: [Rule 66(2)](https://www.legislation.gov.uk/uksi/2008/1797/rule/66/2) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 345](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/345)
 
-[^key-8a003689c28edf66b26e85b413d26aa2]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2008/1797/rule/67) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-8a003689c28edf66b26e85b413d26aa2]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2008/1797/rule/67) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-039ce29bb6e65d686b396647570dbeaf]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2008/1797/rule/68) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-039ce29bb6e65d686b396647570dbeaf]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2008/1797/rule/68) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-6a442fe5a0aa59004dd56ae832397447]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2008/1797/rule/69) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-6a442fe5a0aa59004dd56ae832397447]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2008/1797/rule/69) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-d017cb927d025d81b6fe309ea2819c1f]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2008/1797/rule/70) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-d017cb927d025d81b6fe309ea2819c1f]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2008/1797/rule/70) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-a74b5718e86c5fa25cab884b5a78cd3e]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2008/1797/rule/71) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-a74b5718e86c5fa25cab884b5a78cd3e]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2008/1797/rule/71) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-49114fd043afd4a8c1093a52f468ef28]: Textual amendment: Words in [rule 71(1)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/1) subsituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/9/a)
+[^c-49114fd043afd4a8c1093a52f468ef28]: Textual amendment: Words in [rule 71(1)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/1) subsituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/9/a)
 
-[^key-5a8aa64f0f2e20f373735b1c5f7c4d24]: Textual amendment: [Rule 71(1A)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/1A) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/9/b)
+[^c-5a8aa64f0f2e20f373735b1c5f7c4d24]: Textual amendment: [Rule 71(1A)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/1A) inserted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/9/b)
 
-[^key-f6ae8cf511f2f390f7491c45eb8c7999]: Textual amendment: [Rule 71(2)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/2) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/9/c)
+[^c-f6ae8cf511f2f390f7491c45eb8c7999]: Textual amendment: [Rule 71(2)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/2) substituted (1.10.2013) by [The Trade Marks (Fast Track Opposition) (Amendment) Rules 2013 (S.I. 2013/2235)](https://www.legislation.gov.uk/uksi/2013/2235), [rules 1](https://www.legislation.gov.uk/uksi/2013/2235/article/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2013/2235/article/2/9/c)
 
-[^key-bf209ccda43b2c6d28e1af824d3a5117]: Textual amendment: Words in [rule 71(4)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/4) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-bf209ccda43b2c6d28e1af824d3a5117]: Textual amendment: Words in [rule 71(4)](https://www.legislation.gov.uk/uksi/2008/1797/article/71/4) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-d7c42cb7891ecb978e453c098815a09a]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2008/1797/rule/72) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-d7c42cb7891ecb978e453c098815a09a]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2008/1797/rule/72) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-6104f88bc622f81c1cd11a51edc75cef]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2008/1797/rule/73) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-6104f88bc622f81c1cd11a51edc75cef]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2008/1797/rule/73) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-b13831bbfa61d80728183e73d72ef45a]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2008/1797/rule/74) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-b13831bbfa61d80728183e73d72ef45a]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2008/1797/rule/74) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-0dc606a88c94146631e2e47d596201d7]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2008/1797/rule/75) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-0dc606a88c94146631e2e47d596201d7]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2008/1797/rule/75) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-74ea743a8259dc8dd59d60b5522630ef]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2008/1797/rule/76) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-74ea743a8259dc8dd59d60b5522630ef]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2008/1797/rule/76) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-091dfd9eae1d27e43adf5bdd4821a2f7]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2008/1797/rule/77) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-091dfd9eae1d27e43adf5bdd4821a2f7]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2008/1797/rule/77) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-ead2a8dcfad6c114b1ff667886dd7a7d]: Textual amendment: Words in [rule 77(2)(a)](https://www.legislation.gov.uk/uksi/2008/1797/article/77/2/a) inserted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/article/2), [13](https://www.legislation.gov.uk/uksi/2009/2089/article/13)
+[^c-ead2a8dcfad6c114b1ff667886dd7a7d]: Textual amendment: Words in [rule 77(2)(a)](https://www.legislation.gov.uk/uksi/2008/1797/article/77/2/a) inserted (1.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/article/2), [13](https://www.legislation.gov.uk/uksi/2009/2089/article/13)
 
-[^key-ba3df758dca7d563bfca312e8340156d]: Textual amendment: Words in [rule 77(4)(a)](https://www.legislation.gov.uk/uksi/2008/1797/article/77/4/a) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-ba3df758dca7d563bfca312e8340156d]: Textual amendment: Words in [rule 77(4)(a)](https://www.legislation.gov.uk/uksi/2008/1797/article/77/4/a) substituted (31.3.2013) by [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [4](https://www.legislation.gov.uk/uksi/2013/444/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/444/schedule/1) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-1f3020afe5b7f169725569873cd91a5d]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2008/1797/rule/78) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-1f3020afe5b7f169725569873cd91a5d]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2008/1797/rule/78) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-c12361039ac80ee98e5f75c587c780c6]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2008/1797/rule/79) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-c12361039ac80ee98e5f75c587c780c6]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2008/1797/rule/79) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
 [^f00008]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7)
 
-[^key-3e36961a2b7139ed9a88337beed343a3]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2008/1797/rule/80) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-3e36961a2b7139ed9a88337beed343a3]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2008/1797/rule/80) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-d118f242dd52f2c4d51ec36b5ce9478b]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2008/1797/rule/81) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-d118f242dd52f2c4d51ec36b5ce9478b]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2008/1797/rule/81) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-ff88e30c5d394bf1bfe7c59e0653527a]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2008/1797/rule/82) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-ff88e30c5d394bf1bfe7c59e0653527a]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2008/1797/rule/82) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-e24da0bf4db832883bfe2f20a7741edb]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2008/1797/rule/83) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-e24da0bf4db832883bfe2f20a7741edb]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2008/1797/rule/83) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-4364c6a244ded2eecab45c87c7c85fe6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1797/schedule/1) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-4364c6a244ded2eecab45c87c7c85fe6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1797/schedule/1) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
 
-[^key-d0b2ea6005d2218ce24a2400007b74c3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1797/schedule/2) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)
+[^c-d0b2ea6005d2218ce24a2400007b74c3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1797/schedule/2) in force at 1.10.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/1797/rule/1)

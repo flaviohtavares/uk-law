@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Building warrants[^key-db01aa58e0fbe38803fff513a79175ae]
+## 8. Building warrants[^c-db01aa58e0fbe38803fff513a79175ae]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ as building regulations may specify.
 
 ## Annotations
 
-[^key-db01aa58e0fbe38803fff513a79175ae]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2003/8/section/8) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-db01aa58e0fbe38803fff513a79175ae]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2003/8/section/8) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

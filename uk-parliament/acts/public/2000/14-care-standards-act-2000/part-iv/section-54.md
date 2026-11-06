@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. The Care Council for Wales[^key-d604dff937aa017b7e6686fee36963ef]
+## 54. The Care Council for Wales[^c-d604dff937aa017b7e6686fee36963ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d604dff937aa017b7e6686fee36963ef]: Textual amendment: S. 54 repealed (11.7.2016 for specified purposes, 3.4.2017 in so far as not already in force) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 67(1)](https://www.legislation.gov.uk/anaw/2016/2/section/67/1), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2016/713](https://www.legislation.gov.uk/wsi/2016/713), [art. 2](https://www.legislation.gov.uk/wsi/2016/713/article/2); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-d604dff937aa017b7e6686fee36963ef]: Textual amendment: S. 54 repealed (11.7.2016 for specified purposes, 3.4.2017 in so far as not already in force) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 67(1)](https://www.legislation.gov.uk/anaw/2016/2/section/67/1), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2016/713](https://www.legislation.gov.uk/wsi/2016/713), [art. 2](https://www.legislation.gov.uk/wsi/2016/713/article/2); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

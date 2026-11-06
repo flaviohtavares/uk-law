@@ -31,7 +31,7 @@ of 9 June 1992
 
 laying down common marketing standards for preserved tuna and bonito
 
-[^key-d79b073e6010448b2e96361a877bd018]
+[^c-d79b073e6010448b2e96361a877bd018]
 
 THE COUNCIL OF THE EUROPEAN COMMUNITIES,
 
@@ -59,7 +59,7 @@ Whereas the Commission should have responsibility for the adoption of any techni
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** This Regulation defines the standard governing the marketing of preserved tuna and bonito in the United Kingdom[^key-c804fa119f4965370f838474b27bc8cd].
+**Article 1.** This Regulation defines the standard governing the marketing of preserved tuna and bonito in the United Kingdom[^c-c804fa119f4965370f838474b27bc8cd].
 
 **Article 2.** 1. The trade description of preserved tuna or bonito, as defined in Article 5, shall be reserved for products which satisfy the following conditions:
 
@@ -111,11 +111,11 @@ However, culinary preparations using tuno or bonito flesh entailing disaparance 
 
 2. The trade descriptions of preserved tuna and bonito, as defined in Article 2 (1) (1) and (2) respectively, may under no circumstances associate the words ‘tuna’ and ‘bonito’.
 
-3. Without prejudice to Article 2 and paragraph 2 of this Article, where there is an established trade usage, the type of fish used (tuna or bonito) and the species may appear in the trade description under the name normally used [^key-c1acbe03d7bc31a2dbfed668eb65f888]....
+3. Without prejudice to Article 2 and paragraph 2 of this Article, where there is an established trade usage, the type of fish used (tuna or bonito) and the species may appear in the trade description under the name normally used [^c-c1acbe03d7bc31a2dbfed668eb65f888]....
 
 4. The trade description ‘natural’ may be used only for preserves marketed in the presentations referred to in Article 3 (1) (i) to (iii) and in the covering medium is described in the second indent of Article 4.
 
-**Article 6.** Without prejudice to the [^key-94cd484d395e0187330bce6c96c55330]... provisions referred to in Articles 7 and 8 of Directive 79/112/EEC, the ratio between the weight of the fish contained in the container after sterilization and the net weight expressed in grams shall be at least:
+**Article 6.** Without prejudice to the [^c-94cd484d395e0187330bce6c96c55330]... provisions referred to in Articles 7 and 8 of Directive 79/112/EEC, the ratio between the weight of the fish contained in the container after sterilization and the net weight expressed in grams shall be at least:
 
 - ((a)) in the case of the presentations referred to in Article 3 (1):
   - 70 % in the case of the covering medium referred to in the second indent of Article 4,
@@ -124,11 +124,11 @@ However, culinary preparations using tuno or bonito flesh entailing disaparance 
 
 **Article 7.** The rules laid down by this Regulation shall apply without prejudice to those established by Directive 91/493/EEC.
 
-**Article 8.**[^key-e74811922502fb79877e6e77e28d7368] (1.) A fisheries administration may make regulations in relation to the application of this Regulation.
+**Article 8.**[^c-e74811922502fb79877e6e77e28d7368] (1.) A fisheries administration may make regulations in relation to the application of this Regulation.
 
 (2.) Article 43 of Regulation (EU) No 1379/2013 applies in relation to regulations made under this Article in the same way that it applies to regulations made under that Regulation.
 
-**Article 9.**[^key-1c5f8940422c76bb28a885ee46389e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-1c5f8940422c76bb28a885ee46389e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -176,7 +176,7 @@ BONITO
 
 ## Annotations
 
-[^key-d79b073e6010448b2e96361a877bd018]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-d79b073e6010448b2e96361a877bd018]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ No L 354, 23. 12. 1991, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.354.01.0001.01.ENG).
 
@@ -186,14 +186,14 @@ BONITO
 
 [^f00004]: Footnote: [OJ No L 268, 24. 9. 1991, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.268.01.0015.01.ENG).
 
-[^key-c804fa119f4965370f838474b27bc8cd]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1992/1536/article/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c804fa119f4965370f838474b27bc8cd]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1992/1536/article/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [OJ No L 184, 22. 6. 1988, p. 61](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1988.184.01.0061.01.ENG).
 
-[^key-c1acbe03d7bc31a2dbfed668eb65f888]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/1992/1536/article/5/3) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1acbe03d7bc31a2dbfed668eb65f888]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/1992/1536/article/5/3) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94cd484d395e0187330bce6c96c55330]: Textual amendment: Word in [Art. 6](https://www.legislation.gov.uk/eur/1992/1536/article/6) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(4)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94cd484d395e0187330bce6c96c55330]: Textual amendment: Word in [Art. 6](https://www.legislation.gov.uk/eur/1992/1536/article/6) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(4)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e74811922502fb79877e6e77e28d7368]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/1992/1536/article/8) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/36/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e74811922502fb79877e6e77e28d7368]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/1992/1536/article/8) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/36/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1c5f8940422c76bb28a885ee46389e84]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/1992/1536/article/9) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c5f8940422c76bb28a885ee46389e84]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/1992/1536/article/9) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/2019/739/regulation/23/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

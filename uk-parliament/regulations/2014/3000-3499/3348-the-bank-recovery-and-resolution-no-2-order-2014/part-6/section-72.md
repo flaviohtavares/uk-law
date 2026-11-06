@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Joint decision on impediments to group resolvability and remedial measures[^key-ebcdf8c8407702bd48da39042511716b]
+## 72. Joint decision on impediments to group resolvability and remedial measures[^c-ebcdf8c8407702bd48da39042511716b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebcdf8c8407702bd48da39042511716b]: Textual amendment: [Art. 72](https://www.legislation.gov.uk/uksi/2014/3348/article/72) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 45](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebcdf8c8407702bd48da39042511716b]: Textual amendment: [Art. 72](https://www.legislation.gov.uk/uksi/2014/3348/article/72) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 45](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Notices of underpayment: further provision[^key-3ac8e723f31d279f1447bebfb390dbe8][^key-5c1509dfc6d55c6241e408b2c2c82b59]
+## 106. Notices of underpayment: further provision[^c-3ac8e723f31d279f1447bebfb390dbe8][^c-5c1509dfc6d55c6241e408b2c2c82b59]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ac8e723f31d279f1447bebfb390dbe8]: Commencement: S. 106 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3ac8e723f31d279f1447bebfb390dbe8]: Commencement: S. 106 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5c1509dfc6d55c6241e408b2c2c82b59]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/36/section/106) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(12)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/12/b)
+[^c-5c1509dfc6d55c6241e408b2c2c82b59]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/36/section/106) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(12)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/12/b)

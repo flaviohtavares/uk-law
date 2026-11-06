@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Hospital in-patients[^key-d2517b465d2934e9d3cab6b0d7e14700]
+## 25. Hospital in-patients[^c-d2517b465d2934e9d3cab6b0d7e14700]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2517b465d2934e9d3cab6b0d7e14700]: Textual amendment: Reg. 25 substituted (28.1.2013) by [The Employment and Support Allowance (Amendment) Regulations 2012 (S.I. 2012/3096)](https://www.legislation.gov.uk/uksi/2012/3096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/3/4)
+[^c-d2517b465d2934e9d3cab6b0d7e14700]: Textual amendment: Reg. 25 substituted (28.1.2013) by [The Employment and Support Allowance (Amendment) Regulations 2012 (S.I. 2012/3096)](https://www.legislation.gov.uk/uksi/2012/3096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/3/4)

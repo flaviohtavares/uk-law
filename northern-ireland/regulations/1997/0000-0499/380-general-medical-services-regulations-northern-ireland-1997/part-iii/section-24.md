@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Temporary provision of services[^key-7f967788b0cd0c1c5496fabb3d181af1]
+## 24. Temporary provision of services[^c-7f967788b0cd0c1c5496fabb3d181af1]
 
 *Extent: N.I.*
 
@@ -107,7 +107,7 @@ it shall so notify the Department in writing not less than 30 days, or as soon a
 
 ## Annotations
 
-[^key-7f967788b0cd0c1c5496fabb3d181af1]: Commencement: Reg. 24 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-7f967788b0cd0c1c5496fabb3d181af1]: Commencement: Reg. 24 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00022]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 

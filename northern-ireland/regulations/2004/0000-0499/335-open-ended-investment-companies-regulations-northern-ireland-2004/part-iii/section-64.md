@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Punishment for fraudulent trading[^key-598cbb0e7cdbb3338b438161da80044f]
+## 64. Punishment for fraudulent trading[^c-598cbb0e7cdbb3338b438161da80044f]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-598cbb0e7cdbb3338b438161da80044f]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2004/335/regulation/64) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-598cbb0e7cdbb3338b438161da80044f]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2004/335/regulation/64) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

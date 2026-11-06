@@ -53,17 +53,17 @@ The Secretary of State in exercise of the powers conferred by section 114, 115 a
 
 ### Preliminary
 
-#### 1. Citation and commencement[^key-1d0883b69c65f90b072f5d1832e10b4a]
+#### 1. Citation and commencement[^c-1d0883b69c65f90b072f5d1832e10b4a]
 
 This Order may be cited as the Rivenhall Generating Station Extension Order 2024 and comes into force on 20th December 2024.
 
-#### 2. Interpretation[^key-d510cf1d12e8ec51771aa13c38f6d518]
+#### 2. Interpretation[^c-d510cf1d12e8ec51771aa13c38f6d518]
 
 (1) In this Order, unless the context requires otherwise—
 
 - “**the 1989 Act**” means the Electricity Act 1989[^f00007];
 - “**the 1990 Act**” means the Town and Country Planning Act 1990[^f00008];
-- [^key-e695ccdea3b86acc68e825d7c5394754]...
+- [^c-e695ccdea3b86acc68e825d7c5394754]...
 - “**the 2008 Act**” means the Planning Act 2008[^f00010];
 - “**address**” includes any number or address used for the purposes of electronic transmission;
 - “**approved variation**” means any variation to the TCPA permission granted by the relevant planning authority pursuant to section 73 or section 96A of the 1990 Act, provided such works do not give rise to any materially new or materially different environmental effects to those identified in the environmental information;
@@ -77,11 +77,11 @@ This Order may be cited as the Rivenhall Generating Station Extension Order 2024
 - “**Environmental Statement**” means the document certified as such by the Secretary of State under article 9 (Certification of plans, etc) and submitted with the application including all appendices thereto;
 - “**existing generating station**” means the generating station authorised by the TCPA permission which is being constructed within the area shown edged red on the plan entitled “Existing Generation Station Plan” certified as such by the Secretary of State under article 9 (Certification of plans, etc.);
 - “**extended generating station**” means the existing generating station as modified by the carrying out of the authorised development;
-- [^key-e695ccdea3b86acc68e825d7c5394754]...
+- [^c-e695ccdea3b86acc68e825d7c5394754]...
 - “**maintain**” includes inspect, upkeep, repair, adjust, alter, refurbish, clear, remove or reconstruct, replace and improve, provided such works do not give rise to any materially new or materially different environmental effects to those identified in the environmental information, and any derivative of “**maintain**” is to be construed accordingly;
 - “**Order limits**” means the limits shown on the works plans within which the authorised development may be carried out;
 - “**relevant planning authority**” means Essex County Council and its statutory successors as waste planning authority within the meaning of the 1990 Act;
-- [^key-e695ccdea3b86acc68e825d7c5394754]...
+- [^c-e695ccdea3b86acc68e825d7c5394754]...
 - “**TCPA permission**” means—
   - (a) the planning permission granted by Essex County Council with reference ESS/39/23/BTE dated 26 January 2024; or
   - (b) any planning permission granted by the relevant planning authority pursuant to planning application ESS/02/22/BTE,
@@ -98,29 +98,29 @@ This Order may be cited as the Rivenhall Generating Station Extension Order 2024
 
 ## PART 2 — Principal powers
 
-### 3. Development consent granted by the Order[^key-8c9b9dc0796a40527af6779fb0a76c86]
+### 3. Development consent granted by the Order[^c-8c9b9dc0796a40527af6779fb0a76c86]
 
 Subject to the provisions of this Order, the undertaker is granted development consent for the authorised development to be carried out within the Order limits.
 
-### 4. Authorisation of the operation of the extended generating station[^key-689134520f7dbe88ef8fea134c22527a]
+### 4. Authorisation of the operation of the extended generating station[^c-689134520f7dbe88ef8fea134c22527a]
 
 The undertaker is authorised to operate and use the authorised development for which development consent is granted by this Order as part of the extended generating station.
 
-### 5. Power to maintain the authorised development[^key-7eadba9c09097a96ec4708fadcf889f0]
+### 5. Power to maintain the authorised development[^c-7eadba9c09097a96ec4708fadcf889f0]
 
 The undertaker may at any time maintain the authorised development, except to the extent that this Order provides otherwise.
 
-### 6. Compliance with the TCPA permission and requirements[^key-8d4b524d2b3837d8e4834aa2341efbf8]
+### 6. Compliance with the TCPA permission and requirements[^c-8d4b524d2b3837d8e4834aa2341efbf8]
 
 (1) The TCPA permission and the requirements set out in Schedule 2 of this Order shall apply to the carrying out of the authorised development and to the operation of the extended generating station as if both were authorised by the TCPA permission, and all details, plans or other matters approved by the relevant planning authority pursuant to conditions of the TCPA permission prior to or following the date of this Order shall apply accordingly.
 
 (2) The carrying out of the authorised development and the operation of the extended generation pursuant to this Order will not prevent the carrying out of development pursuant to the TCPA permission.
 
-### 7. Benefit of the Order[^key-8ff424dc51fbbdd50e9c8085f782a455]
+### 7. Benefit of the Order[^c-8ff424dc51fbbdd50e9c8085f782a455]
 
 Subject to article 8 (Consent to transfer benefit of Order), the provisions of this Order have effect solely for the benefit of the undertaker.
 
-### 8. Consent to transfer the benefit of Order[^key-4dc0400e64ef79ea9430c841b4699fb8]
+### 8. Consent to transfer the benefit of Order[^c-4dc0400e64ef79ea9430c841b4699fb8]
 
 (1) Subject to paragraph (3) the undertaker may—
 
@@ -150,7 +150,7 @@ Subject to article 8 (Consent to transfer benefit of Order), the provisions of t
 
 ## PART 3 — Miscellaneous and general
 
-### 9. Certification of plans, etc.[^key-cfa8c0c70fe7c4266edd772710b6a5a4]
+### 9. Certification of plans, etc.[^c-cfa8c0c70fe7c4266edd772710b6a5a4]
 
 (1) The undertaker must, as soon as practicable after the date on which this Order is made, submit to the Secretary of State copies of—
 
@@ -164,13 +164,13 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 10. Arbitration[^key-4d161937aefc654e3b2aca23cafeb798]
+### 10. Arbitration[^c-4d161937aefc654e3b2aca23cafeb798]
 
 (1) Any difference under any provision of this Order, unless otherwise provided for in this Order or agreed in writing between the parties, shall be referred to and settled by a single arbitrator to be agreed between the parties within 14 days of receipt of a notice of arbitration or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the Secretary of State.
 
 (2) Any matter for which the consent or approval of the Secretary of State is required under any provision of this Order shall not be subject to arbitration.
 
-### 11. Service of notices[^key-f68c280d1dcf07f3262bcf61f9174cb7]
+### 11. Service of notices[^c-f68c280d1dcf07f3262bcf61f9174cb7]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -222,7 +222,7 @@ Department for Energy Security and Net Zero
 
 Article 3
 
-### 1. In the County of Essex[^key-f9e97cdcb6233e821a67560ad2a782ba]
+### 1. In the County of Essex[^c-f9e97cdcb6233e821a67560ad2a782ba]
 
 A nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act—
 
@@ -233,11 +233,11 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
 
 Article 3
 
-### 1. Work No. 1 or Work No. 2[^key-5011a8c12f5f323955fae42ed21d8b57]
+### 1. Work No. 1 or Work No. 2[^c-5011a8c12f5f323955fae42ed21d8b57]
 
 The undertaker may only carry out either Work No. 1 or Work No. 2, and having begun either work may not carry out the other.
 
-### 2. Commencement of the authorised development[^key-e34fe622a7faeb12a019cf761c9a2731]
+### 2. Commencement of the authorised development[^c-e34fe622a7faeb12a019cf761c9a2731]
 
 (1) The authorised development must commence within five years of the date on which this Order comes into force.
 
@@ -263,38 +263,38 @@ This Order authorises Indaver Rivenhall Limited (referred to in this Order as th
 
 [^f00006]: Footnote: Section 114 was amended by paragraph 55 of Part 1 of Schedule 13 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Section 115 was amended by paragraph 56 of Part 1 of Schedule 13 and Part 20 of Schedule 25 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 160(2) to (6) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and section 43 of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4). Section 120 was amended by section 140 and paragraph 60 of Part 1 of Schedule 13 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-1d0883b69c65f90b072f5d1832e10b4a]: Commencement: Art. 1 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-1d0883b69c65f90b072f5d1832e10b4a]: Commencement: Art. 1 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-d510cf1d12e8ec51771aa13c38f6d518]: Commencement: Art. 2 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-d510cf1d12e8ec51771aa13c38f6d518]: Commencement: Art. 2 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
 [^f00007]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
 [^f00008]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 56(4) was amended by section 32 of, and paragraph 10(2) of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 106 was substituted, and section 106A inserted, by section 12(1) of the Planning and Compensation Act 1991. Section 206(1) was amended by section 192(8) of, and paragraphs 7 and 11 of Schedule 8 to, the 2008 Act. Sections 272 to 274 and section 279 were amended by section 406(1) of, and paragraph 103 of Schedule 17 to, the Communications Act (c. 21), and section 280 was amended by section 406(1) of, and paragraph 104 of Schedule 17 to, that Act. Sections 272 to 274 were also amended by [S.I. 2011/741](https://www.legislation.gov.uk/uksi/2011/741) and [S.I. 2012/2590](https://www.legislation.gov.uk/uksi/2012/2590). Section 282 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). There are other amendments to the 1990 Act which are not relevant to this Order.
 
-[^key-e695ccdea3b86acc68e825d7c5394754]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/1391/article/2/1) omitted (9.4.2025) by virtue of [The Rivenhall Generating Station Extension (Correction) Order 2025 (S.I. 2025/533)](https://www.legislation.gov.uk/uksi/2025/533), [art. 1](https://www.legislation.gov.uk/uksi/2025/533/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/533/schedule)
+[^c-e695ccdea3b86acc68e825d7c5394754]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/1391/article/2/1) omitted (9.4.2025) by virtue of [The Rivenhall Generating Station Extension (Correction) Order 2025 (S.I. 2025/533)](https://www.legislation.gov.uk/uksi/2025/533), [art. 1](https://www.legislation.gov.uk/uksi/2025/533/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/533/schedule)
 
 [^f00010]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-8c9b9dc0796a40527af6779fb0a76c86]: Commencement: Art. 3 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-8c9b9dc0796a40527af6779fb0a76c86]: Commencement: Art. 3 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-689134520f7dbe88ef8fea134c22527a]: Commencement: Art. 4 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-689134520f7dbe88ef8fea134c22527a]: Commencement: Art. 4 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-7eadba9c09097a96ec4708fadcf889f0]: Commencement: Art. 5 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-7eadba9c09097a96ec4708fadcf889f0]: Commencement: Art. 5 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-8d4b524d2b3837d8e4834aa2341efbf8]: Commencement: Art. 6 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-8d4b524d2b3837d8e4834aa2341efbf8]: Commencement: Art. 6 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-8ff424dc51fbbdd50e9c8085f782a455]: Commencement: Art. 7 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-8ff424dc51fbbdd50e9c8085f782a455]: Commencement: Art. 7 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-4dc0400e64ef79ea9430c841b4699fb8]: Commencement: Art. 8 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-4dc0400e64ef79ea9430c841b4699fb8]: Commencement: Art. 8 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-cfa8c0c70fe7c4266edd772710b6a5a4]: Commencement: Art. 9 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-cfa8c0c70fe7c4266edd772710b6a5a4]: Commencement: Art. 9 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-4d161937aefc654e3b2aca23cafeb798]: Commencement: Art. 10 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-4d161937aefc654e3b2aca23cafeb798]: Commencement: Art. 10 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-f68c280d1dcf07f3262bcf61f9174cb7]: Commencement: Art. 11 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-f68c280d1dcf07f3262bcf61f9174cb7]: Commencement: Art. 11 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-f9e97cdcb6233e821a67560ad2a782ba]: Commencement: Sch. 1 para. 1 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-f9e97cdcb6233e821a67560ad2a782ba]: Commencement: Sch. 1 para. 1 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-5011a8c12f5f323955fae42ed21d8b57]: Commencement: Sch. 2 para. 1 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-5011a8c12f5f323955fae42ed21d8b57]: Commencement: Sch. 2 para. 1 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
 
-[^key-e34fe622a7faeb12a019cf761c9a2731]: Commencement: Sch. 2 para. 2 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)
+[^c-e34fe622a7faeb12a019cf761c9a2731]: Commencement: Sch. 2 para. 2 in force at 20.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1391/article/1)

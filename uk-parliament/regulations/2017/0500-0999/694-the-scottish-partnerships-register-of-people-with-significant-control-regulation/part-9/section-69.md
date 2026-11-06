@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69.[^key-46144ee404d79ee4ce4421bb13c67cc2]
+## 69.[^c-46144ee404d79ee4ce4421bb13c67cc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Sections 1112 (false statements: basic offence) and 1112A (false statements: agg
 
 ## Annotations
 
-[^key-46144ee404d79ee4ce4421bb13c67cc2]: Textual amendment: [Reg. 69](https://www.legislation.gov.uk/uksi/2017/694/regulation/69) substituted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(14)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/14)
+[^c-46144ee404d79ee4ce4421bb13c67cc2]: Textual amendment: [Reg. 69](https://www.legislation.gov.uk/uksi/2017/694/regulation/69) substituted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(14)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/14)

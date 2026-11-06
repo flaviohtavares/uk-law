@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Set-off for enhancement in value of retained land[^key-29f8ad5252736ab2b93b8abb2b8e90ff]
+## 39. Set-off for enhancement in value of retained land[^c-29f8ad5252736ab2b93b8abb2b8e90ff]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-29f8ad5252736ab2b93b8abb2b8e90ff]: Commencement: Art. 39 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-29f8ad5252736ab2b93b8abb2b8e90ff]: Commencement: Art. 39 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

@@ -59,7 +59,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-0a8cd1d80adef931b98d8843edc1a954]This Regulation shall be binding in its entirety and directly applicable in all Member States.
+[^c-0a8cd1d80adef931b98d8843edc1a954]This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Done at Brussels, 20 March 2017.
 
@@ -95,7 +95,7 @@ Jean-Claude Juncker
 
 [^f00002]: Footnote: Commission Delegated Regulation (EU) 2016/364 of 1 July 2015 on the classification of the reaction to fire performance of construction products pursuant to Regulation (EU) No 305/2011 of the European Parliament and of the Council ([OJ L 68, 15.3.2016, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.068.01.0004.01.ENG)).
 
-[^key-0a8cd1d80adef931b98d8843edc1a954]: Modification: [Signature](https://www.legislation.gov.uk/eur/2017/1228/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/7) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(j)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a8cd1d80adef931b98d8843edc1a954]: Modification: [Signature](https://www.legislation.gov.uk/eur/2017/1228/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/7) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(j)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Products delivered in paste or in powder form and used for external and internal covering on walls, columns, partitions, and ceilings. The performance of substrates shall be at least class A2 — s1, d0 and the density shall not be less than 525 kg/m<sup>3</sup>.
 

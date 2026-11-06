@@ -121,7 +121,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 40 — Annual exempt amount](part-1/section-40.md)
 - [Section 41 — Hold-over relief for foreign-controlled companies](part-1/section-41.md)
 
-### PART 2 — Plastic packaging tax[^key-469a62b9d55a3a2abfb4e208c186572b]
+### PART 2 — Plastic packaging tax[^c-469a62b9d55a3a2abfb4e208c186572b]
 
 #### Introductory
 
@@ -263,7 +263,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 ### PART 4 — Miscellaneous and final
 
-#### Freeports and investment zones[^key-3ed8eb133b2ff88d4f8be604035dd2bf]
+#### Freeports and investment zones[^c-3ed8eb133b2ff88d4f8be604035dd2bf]
 
 - [Section 113 — Designation of special tax sites](part-4/section-113.md)
 - [Section 114 — Capital allowances for freeport tax sites](part-4/section-114.md)
@@ -350,6 +350,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)
+[^c-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)
 
-[^key-3ed8eb133b2ff88d4f8be604035dd2bf]: Textual amendment: Words in [s. 113 cross-heading](https://www.legislation.gov.uk/ukpga/2021/26/part/4/crossheading/freeports) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/18)
+[^c-3ed8eb133b2ff88d4f8be604035dd2bf]: Textual amendment: Words in [s. 113 cross-heading](https://www.legislation.gov.uk/ukpga/2021/26/part/4/crossheading/freeports) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/18)

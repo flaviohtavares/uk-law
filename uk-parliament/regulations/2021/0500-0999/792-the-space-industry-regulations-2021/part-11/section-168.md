@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Interpretation[^key-6c77fc493435a5566efb5f632cc665f9]
+## 168. Interpretation[^c-6c77fc493435a5566efb5f632cc665f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ In this Part—
 
 ## Annotations
 
-[^key-6c77fc493435a5566efb5f632cc665f9]: Commencement: Reg. 168 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6c77fc493435a5566efb5f632cc665f9]: Commencement: Reg. 168 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00050]: Footnote: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36).
 

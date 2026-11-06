@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39A. Lump sum test scheme requirements[^key-fe26c1944b28db2f98684f9581e69972]
+## 39A. Lump sum test scheme requirements[^c-fe26c1944b28db2f98684f9581e69972]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe26c1944b28db2f98684f9581e69972]: Textual amendment: Reg. 39A and heading substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/10)
+[^c-fe26c1944b28db2f98684f9581e69972]: Textual amendment: Reg. 39A and heading substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/10)

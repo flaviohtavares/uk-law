@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order (Northern Ireland) 2016 (revoked)[^key-fc94e90e62cbbbd176855c1682e81843]
+The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order (Northern Ireland) 2016 (revoked)[^c-fc94e90e62cbbbd176855c1682e81843]
 
 Made
 
@@ -42,19 +42,19 @@ Coming into operation
 
 1st March 2016
 
-[^key-fc94e90e62cbbbd176855c1682e81843]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc94e90e62cbbbd176855c1682e81843]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fc94e90e62cbbbd176855c1682e81843]
+## 1. Citation and commencement[^c-fc94e90e62cbbbd176855c1682e81843]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-fc94e90e62cbbbd176855c1682e81843]
+## 2. Code of Practice[^c-fc94e90e62cbbbd176855c1682e81843]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc94e90e62cbbbd176855c1682e81843]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc94e90e62cbbbd176855c1682e81843]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -62,13 +62,13 @@ Coming into operation
 
   
 
-- [^key-fc94e90e62cbbbd176855c1682e81843][^key-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-fc94e90e62cbbbd176855c1682e81843][^key-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-fc94e90e62cbbbd176855c1682e81843][^key-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-fc94e90e62cbbbd176855c1682e81843][^key-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-fc94e90e62cbbbd176855c1682e81843][^key-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-fc94e90e62cbbbd176855c1682e81843][^key-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-fc94e90e62cbbbd176855c1682e81843][^c-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-fc94e90e62cbbbd176855c1682e81843][^c-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-fc94e90e62cbbbd176855c1682e81843][^c-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-fc94e90e62cbbbd176855c1682e81843][^c-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-fc94e90e62cbbbd176855c1682e81843][^c-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-fc94e90e62cbbbd176855c1682e81843][^c-fc94e90e62cbbbd176855c1682e81843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc94e90e62cbbbd176855c1682e81843]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/64) revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order (Northern Ireland) 2021 (S.R. 2021/168)](https://www.legislation.gov.uk/nisr/2021/168), [art. 3](https://www.legislation.gov.uk/nisr/2021/168/article/3)
+[^c-fc94e90e62cbbbd176855c1682e81843]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/64) revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order (Northern Ireland) 2021 (S.R. 2021/168)](https://www.legislation.gov.uk/nisr/2021/168), [art. 3](https://www.legislation.gov.uk/nisr/2021/168/article/3)

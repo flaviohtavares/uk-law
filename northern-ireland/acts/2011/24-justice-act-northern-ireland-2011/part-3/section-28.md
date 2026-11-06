@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Reports by Belfast PCSP to joint committee[^key-a4996b03e0fc465f8e6723332ec8f1dc]
+## 28. Reports by Belfast PCSP to joint committee[^c-a4996b03e0fc465f8e6723332ec8f1dc]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4996b03e0fc465f8e6723332ec8f1dc]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2011/24/section/28) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-a4996b03e0fc465f8e6723332ec8f1dc]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2011/24/section/28) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

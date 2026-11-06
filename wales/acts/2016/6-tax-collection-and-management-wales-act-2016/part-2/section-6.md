@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Appointment of elected executive member[^key-c5288a0b2c617c29f81f49dc16c12851]
+## 6. Appointment of elected executive member[^c-c5288a0b2c617c29f81f49dc16c12851]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5288a0b2c617c29f81f49dc16c12851]: Commencement: S. 6 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-c5288a0b2c617c29f81f49dc16c12851]: Commencement: S. 6 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

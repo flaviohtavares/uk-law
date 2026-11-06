@@ -47,9 +47,9 @@ An Act to make provision for, and in connection with, the attainment by Barbados
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667467]
 
-(2)[^key-31265a729be202c13c02ba5663e0ef45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-31265a729be202c13c02ba5663e0ef45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0635124364444697d5be6e9485ae0f49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0635124364444697d5be6e9485ae0f49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of the making, on or after the appointed day, of Orders in Council under the [^c667472]West Indies Act 1962, and for the purposes of the making on or after that day of grants under section 8 of that Act, Barbados shall be treated as not being a colony within the meaning of that Act.
 
@@ -149,9 +149,9 @@ and, until express provision with respect to Barbados is made by an Order in Cou
 
 [^c667467]: Textual amendment: S. 4(1) repealed by [Interpretation Act 1978 (c.30, SIF 115: 1)](https://www.legislation.gov.uk/ukpga/1978/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/30/schedule/3)
 
-[^key-31265a729be202c13c02ba5663e0ef45]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1966/37/section/4/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-31265a729be202c13c02ba5663e0ef45]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1966/37/section/4/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-0635124364444697d5be6e9485ae0f49]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1966/37/section/4/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0635124364444697d5be6e9485ae0f49]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1966/37/section/4/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c667472]: Marginal citation: [1962 c. 19](https://www.legislation.gov.uk/ukpga/1962/19).
 

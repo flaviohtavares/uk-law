@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. “Harm” etc[^key-15bade1dfbd5d2c54fa945343fac53d8]
+## 234. “Harm” etc[^c-15bade1dfbd5d2c54fa945343fac53d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15bade1dfbd5d2c54fa945343fac53d8]: Commencement: S. 234 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-15bade1dfbd5d2c54fa945343fac53d8]: Commencement: S. 234 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

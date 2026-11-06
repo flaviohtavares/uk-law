@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Nominated representatives[^key-575f6c8b260c1614d0c7a130eb10fa1a][^key-2c25dd4583062734de48854d5bd34a5c]
+## 4. Nominated representatives[^c-575f6c8b260c1614d0c7a130eb10fa1a][^c-2c25dd4583062734de48854d5bd34a5c]
 
 *Extent: E+W+N.I.*
 
@@ -49,12 +49,12 @@ summary: ''
 - (a) he is not an adult, or
 - (b) he is of a description prescribed for the purposes of this provision by regulations made by the Secretary of State.
 
-(11)[^key-0e50ec29b76bfa7b00be9b783f82f87e] Where an adult has appointed a person under section 8 of the Human Transplantation (Wales) Act 2013 to represent the adult after death in relation to consent for one or more transplantation activities, the adult is to be treated as also having appointed the person under this section in relation to those activities.
+(11)[^c-0e50ec29b76bfa7b00be9b783f82f87e] Where an adult has appointed a person under section 8 of the Human Transplantation (Wales) Act 2013 to represent the adult after death in relation to consent for one or more transplantation activities, the adult is to be treated as also having appointed the person under this section in relation to those activities.
 
 ## Annotations
 
-[^key-575f6c8b260c1614d0c7a130eb10fa1a]: Commencement: S. 4 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-575f6c8b260c1614d0c7a130eb10fa1a]: Commencement: S. 4 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-2c25dd4583062734de48854d5bd34a5c]: Commencement: S. 4 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-2c25dd4583062734de48854d5bd34a5c]: Commencement: S. 4 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-0e50ec29b76bfa7b00be9b783f82f87e]: Textual amendment: [S. 4(11)](https://www.legislation.gov.uk/ukpga/2004/30/section/4/11) inserted (1.12.2015 coming into force in accordance with art. 1(2)) by [The Human Transplantation (Wales) Act 2013 (Consequential Provision) Order 2015 (S.I. 2015/865)](https://www.legislation.gov.uk/uksi/2015/865), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/865/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/865/article/2/3)
+[^c-0e50ec29b76bfa7b00be9b783f82f87e]: Textual amendment: [S. 4(11)](https://www.legislation.gov.uk/ukpga/2004/30/section/4/11) inserted (1.12.2015 coming into force in accordance with art. 1(2)) by [The Human Transplantation (Wales) Act 2013 (Consequential Provision) Order 2015 (S.I. 2015/865)](https://www.legislation.gov.uk/uksi/2015/865), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/865/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/865/article/2/3)

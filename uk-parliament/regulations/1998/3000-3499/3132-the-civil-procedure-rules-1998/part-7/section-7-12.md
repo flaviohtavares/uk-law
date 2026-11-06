@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.12. Electronic issue of claims[^key-59fffbfd6a8dac26673328cbc8f5033a]
+## 7.12. Electronic issue of claims[^c-59fffbfd6a8dac26673328cbc8f5033a]
 
 *Extent: E+W*
 
-(1) A practice direction may permit or require[^key-ce1c3afdec44c18b890b3a24199654bc] a claimant to start a claim by requesting the issue of a claim form electronically.
+(1) A practice direction may permit or require[^c-ce1c3afdec44c18b890b3a24199654bc] a claimant to start a claim by requesting the issue of a claim form electronically.
 
 (2) The practice direction may, in particular—
 
@@ -36,12 +36,12 @@ summary: ''
 
 (3) The practice direction may disapply or modify these Rules as appropriate in relation to claims started electronically.
 
-[^key-a770f38c70331c61d1af0b2cde6fa669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a770f38c70331c61d1af0b2cde6fa669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59fffbfd6a8dac26673328cbc8f5033a]: Textual amendment: [Rule 7.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.12) inserted (1.2.2004) by [The Civil Procedure (Amendment No. 5) Rules 2003 (S.I. 2003/3361)](https://www.legislation.gov.uk/uksi/2003/3361), [rules 1(a)](https://www.legislation.gov.uk/uksi/2003/3361/rule/1/a), [3](https://www.legislation.gov.uk/uksi/2003/3361/rule/3)
+[^c-59fffbfd6a8dac26673328cbc8f5033a]: Textual amendment: [Rule 7.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.12) inserted (1.2.2004) by [The Civil Procedure (Amendment No. 5) Rules 2003 (S.I. 2003/3361)](https://www.legislation.gov.uk/uksi/2003/3361), [rules 1(a)](https://www.legislation.gov.uk/uksi/2003/3361/rule/1/a), [3](https://www.legislation.gov.uk/uksi/2003/3361/rule/3)
 
-[^key-ce1c3afdec44c18b890b3a24199654bc]: Textual amendment: Words in [rule 7.12(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.12/1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/8/4/a)
+[^c-ce1c3afdec44c18b890b3a24199654bc]: Textual amendment: Words in [rule 7.12(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.12/1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/8/4/a)
 
-[^key-a770f38c70331c61d1af0b2cde6fa669]: Textual amendment: Words in [rule 7.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.12) omitted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/8/4/b)
+[^c-a770f38c70331c61d1af0b2cde6fa669]: Textual amendment: Words in [rule 7.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.12) omitted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/8/4/b)

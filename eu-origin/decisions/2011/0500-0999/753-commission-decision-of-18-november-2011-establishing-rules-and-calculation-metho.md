@@ -37,54 +37,54 @@ establishing rules and calculation methods for verifying compliance with the tar
 
 (2011/753/EU) (revoked)
 
-[^key-ffe9946b50a2a91919bb5f070368ba3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffe9946b50a2a91919bb5f070368ba3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## Article 1. Definitions[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1A. Modification of Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## Article 1A. Modification of Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. General requirements[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## Article 2. General requirements[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Municipal waste[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## Article 3. Municipal waste[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Construction and demolition waste[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## Article 4. Construction and demolition waste[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Progress report for England[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## Article 5. Progress report for England[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Addressees[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## Article 6. Addressees[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffe9946b50a2a91919bb5f070368ba3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffe9946b50a2a91919bb5f070368ba3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## ANNEX I[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## ANNEX II[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-ffe9946b50a2a91919bb5f070368ba3a]
+## ANNEX III[^c-ffe9946b50a2a91919bb5f070368ba3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ffe9946b50a2a91919bb5f070368ba3a]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-ffe9946b50a2a91919bb5f070368ba3a]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

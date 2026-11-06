@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Orders under sections 36 and 41: prosecutor's right of appeal[^key-dbc6543247722f47220d1d671bac9454]
+## 44. Orders under sections 36 and 41: prosecutor's right of appeal[^c-dbc6543247722f47220d1d671bac9454]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbc6543247722f47220d1d671bac9454]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/3/section/44) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-dbc6543247722f47220d1d671bac9454]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/3/section/44) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

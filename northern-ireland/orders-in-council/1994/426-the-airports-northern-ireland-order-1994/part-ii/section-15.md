@@ -28,7 +28,7 @@ summary: ''
 the proceedings which—
 
 - (i) are required under this Part to be taken in connection with the making of a vesting order or (as the case may be) an order under Article 7; and
-- (ii) if applicable, are required by sections 40 to 42 of the Planning Act (Northern Ireland) 2011[^key-e3f74b9ceb57e1026668d448af95cd7d] to be taken for the purpose of planning permission,
+- (ii) if applicable, are required by sections 40 to 42 of the Planning Act (Northern Ireland) 2011[^c-e3f74b9ceb57e1026668d448af95cd7d] to be taken for the purpose of planning permission,
 
 may, where the Department so directs, be taken concurrently, so far as is practicable.
 
@@ -41,4 +41,4 @@ the Department may direct that the two inquiries be held concurrently or combine
 
 ## Annotations
 
-[^key-e3f74b9ceb57e1026668d448af95cd7d]: Textual amendment: Words in art. 15(1)(b)(ii) substituted (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 70](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/70) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-e3f74b9ceb57e1026668d448af95cd7d]: Textual amendment: Words in art. 15(1)(b)(ii) substituted (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 70](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/70) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

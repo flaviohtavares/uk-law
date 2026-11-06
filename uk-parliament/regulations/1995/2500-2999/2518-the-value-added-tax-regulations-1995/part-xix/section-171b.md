@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171B. Timing and method of repayments: special accounting schemes[^key-071b6539c3dc3dc89f9ec44c2fd61bd8][^key-be57a27e8154cb1a0f84d5ddd8881765]
+## 171B. Timing and method of repayments: special accounting schemes[^c-071b6539c3dc3dc89f9ec44c2fd61bd8][^c-be57a27e8154cb1a0f84d5ddd8881765]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-071b6539c3dc3dc89f9ec44c2fd61bd8]: Textual amendment: [Reg. 171B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/171B) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [70](https://www.legislation.gov.uk/uksi/2019/59/regulation/70); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-071b6539c3dc3dc89f9ec44c2fd61bd8]: Textual amendment: [Reg. 171B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/171B) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [70](https://www.legislation.gov.uk/uksi/2019/59/regulation/70); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
+[^c-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))

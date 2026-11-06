@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 147A. Extension of time limits to facilitate conciliation before institution of proceedings[^key-555d1ac39e209f322a4f27d195f5db74]
+## 147A. Extension of time limits to facilitate conciliation before institution of proceedings[^c-555d1ac39e209f322a4f27d195f5db74]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-555d1ac39e209f322a4f27d195f5db74]: Textual amendment: [Art. 147A](https://www.legislation.gov.uk/nisi/1995/1980/article/147A) and cross-heading inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/9); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-555d1ac39e209f322a4f27d195f5db74]: Textual amendment: [Art. 147A](https://www.legislation.gov.uk/nisi/1995/1980/article/147A) and cross-heading inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/9); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

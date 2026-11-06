@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Notices.[^key-28bc5944108b762883855a3bd6b5024f]
+## 43. Notices.[^c-28bc5944108b762883855a3bd6b5024f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any notice or other communication authorised or required to be given by this Par
 
 ## Annotations
 
-[^key-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
+[^c-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))

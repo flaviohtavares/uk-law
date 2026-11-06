@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Short service benefit for scheme member with money purchase benefits[^key-364db493d437bd6beaabf4b6a6a70682]
+## 36. Short service benefit for scheme member with money purchase benefits[^c-364db493d437bd6beaabf4b6a6a70682]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-364db493d437bd6beaabf4b6a6a70682]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/19/section/36) in force at 1.10.2015 by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/134/article/2/3)
+[^c-364db493d437bd6beaabf4b6a6a70682]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/19/section/36) in force at 1.10.2015 by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/134/article/2/3)

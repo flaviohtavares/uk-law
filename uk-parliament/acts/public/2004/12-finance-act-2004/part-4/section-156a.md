@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156A. Cases where application for registration not decided within 6 months[^key-2bfe7f813a8cb83de1e2a6c2aaccb04d]
+## 156A. Cases where application for registration not decided within 6 months[^c-2bfe7f813a8cb83de1e2a6c2aaccb04d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bfe7f813a8cb83de1e2a6c2aaccb04d]: Textual amendment: S. 156A inserted (with effect in accordance with Sch. 7 para. 5(1) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/4), [5(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/5/1)
+[^c-2bfe7f813a8cb83de1e2a6c2aaccb04d]: Textual amendment: S. 156A inserted (with effect in accordance with Sch. 7 para. 5(1) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/4), [5(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/5/1)

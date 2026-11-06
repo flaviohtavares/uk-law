@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Procedure for a school to leave a federation[^key-d2e41f418900dff9334fec4135c303f9]
+## 30. Procedure for a school to leave a federation[^c-d2e41f418900dff9334fec4135c303f9]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2e41f418900dff9334fec4135c303f9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2012/1035/regulation/30) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-d2e41f418900dff9334fec4135c303f9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2012/1035/regulation/30) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

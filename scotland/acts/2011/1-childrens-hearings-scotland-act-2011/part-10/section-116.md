@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Recall: powers where no grounds accepted or established[^key-a869ad1fc2a7f78c951f76ebc511fddc]
+## 116. Recall: powers where no grounds accepted or established[^c-a869ad1fc2a7f78c951f76ebc511fddc]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a869ad1fc2a7f78c951f76ebc511fddc]: Commencement: S. 116 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-a869ad1fc2a7f78c951f76ebc511fddc]: Commencement: S. 116 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

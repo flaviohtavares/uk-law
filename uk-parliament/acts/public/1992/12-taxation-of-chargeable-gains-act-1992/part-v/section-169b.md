@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169B. Gifts to settlor-interested settlements etc[^key-adb2b1c19ff0a47f1655fe768c24f89f]
+## 169B. Gifts to settlor-interested settlements etc[^c-adb2b1c19ff0a47f1655fe768c24f89f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adb2b1c19ff0a47f1655fe768c24f89f]: Textual amendment: Ss. 169B-169G inserted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/4)
+[^c-adb2b1c19ff0a47f1655fe768c24f89f]: Textual amendment: Ss. 169B-169G inserted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/4)

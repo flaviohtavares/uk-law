@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Scheduled Monuments[^key-3951cb2feb7277fd19075c13d0d6918b]
+## 39. Scheduled Monuments[^c-3951cb2feb7277fd19075c13d0d6918b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker is authorised to carry out the works specified in column (2) of S
 
 ## Annotations
 
-[^key-3951cb2feb7277fd19075c13d0d6918b]: Commencement: Art. 39 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-3951cb2feb7277fd19075c13d0d6918b]: Commencement: Art. 39 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

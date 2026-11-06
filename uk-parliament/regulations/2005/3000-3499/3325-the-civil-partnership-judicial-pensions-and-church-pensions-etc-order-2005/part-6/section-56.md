@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**56.**[^key-a351fce48ce523ae1341de3fe9b471be] (1) Section 19 (widows' and widowers' pensions) is amended as follows.
+**56.**[^c-a351fce48ce523ae1341de3fe9b471be] (1) Section 19 (widows' and widowers' pensions) is amended as follows.
 
 (2) For the side-note substitute “Widows', widowers' and surviving civil partners' pensions”.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a351fce48ce523ae1341de3fe9b471be]: Commencement: Art. 56 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-a351fce48ce523ae1341de3fe9b471be]: Commencement: Art. 56 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

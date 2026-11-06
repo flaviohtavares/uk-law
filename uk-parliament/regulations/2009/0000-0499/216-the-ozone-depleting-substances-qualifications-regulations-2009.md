@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Ozone-Depleting Substances (Qualifications) Regulations 2009 (revoked)[^key-ff520cc58b96fe94470868a6205bbc0c]
+The Ozone-Depleting Substances (Qualifications) Regulations 2009 (revoked)[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 Made
 
@@ -46,69 +46,69 @@ Coming into force
 
 9th March 2009
 
-[^key-ff520cc58b96fe94470868a6205bbc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff520cc58b96fe94470868a6205bbc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 1. Citation, commencement and extent[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 2. Interpretation[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meaning of “competent”[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 3. Meaning of “competent”[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Meaning of “relevant work”[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 4. Meaning of “relevant work”[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Qualification and supervision[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 5. Qualification and supervision[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Training[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 6. Training[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement and authorised persons[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 7. Enforcement and authorised persons[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of an authorised person[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 8. Powers of an authorised person[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Miscellaneous offences[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 9. Miscellaneous offences[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Corporate offences[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 10. Corporate offences[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Penalties[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 11. Penalties[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocations[^key-ff520cc58b96fe94470868a6205bbc0c]
+## 12. Revocations[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff520cc58b96fe94470868a6205bbc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff520cc58b96fe94470868a6205bbc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Table of Minimum Qualifications[^key-ff520cc58b96fe94470868a6205bbc0c]
+## SCHEDULE 1 — Table of Minimum Qualifications[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 Regulations 3(a) and 6(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — British Pest Control Association Modules[^key-ff520cc58b96fe94470868a6205bbc0c]
+## SCHEDULE 2 — British Pest Control Association Modules[^c-ff520cc58b96fe94470868a6205bbc0c]
 
 Regulations 3(c) and 5(6)
 
@@ -116,7 +116,7 @@ Regulations 3(c) and 5(6)
 
 **No longer in force.**
 
-[^key-ff520cc58b96fe94470868a6205bbc0c]EXPLANATORY NOTE
+[^c-ff520cc58b96fe94470868a6205bbc0c]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -136,4 +136,4 @@ A full regulatory impact assessment of the effect of the Ozone Depleting Substan
 
 ## Annotations
 
-[^key-ff520cc58b96fe94470868a6205bbc0c]: Textual amendment: Regulations revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), regs 1(2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/1/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))
+[^c-ff520cc58b96fe94470868a6205bbc0c]: Textual amendment: Regulations revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), regs 1(2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/1/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))

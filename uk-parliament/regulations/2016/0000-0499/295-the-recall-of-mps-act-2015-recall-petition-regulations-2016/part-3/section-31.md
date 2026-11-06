@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Refusal to deliver signing sheet: Northern Ireland[^key-1510d78a9e97493ca4d17e6a62f1a85f]
+## 31. Refusal to deliver signing sheet: Northern Ireland[^c-1510d78a9e97493ca4d17e6a62f1a85f]
 
 *Extent: N.I.*
 
 (1) This regulation applies where a petition clerk refuses to deliver a signing sheet under regulation 28(5) (including that paragraph as applied by regulation 29 (signing sheets endorsed by the petition officer) or regulation 30 (tendered signing sheets).
 
-(2) The refusal may be subject to review on a recall petition complaint but, subject to that and to regulation 28(6B)[^key-9b3f48e7cd0accb0e73ad9e742d62eee], is final and may not be questioned in any proceedings whatsoever.
+(2) The refusal may be subject to review on a recall petition complaint but, subject to that and to regulation 28(6B)[^c-9b3f48e7cd0accb0e73ad9e742d62eee], is final and may not be questioned in any proceedings whatsoever.
 
 ## Annotations
 
-[^key-1510d78a9e97493ca4d17e6a62f1a85f]: Commencement: Reg. 31 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-1510d78a9e97493ca4d17e6a62f1a85f]: Commencement: Reg. 31 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-9b3f48e7cd0accb0e73ad9e742d62eee]: Textual amendment: Words in reg. 31(2) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/1116/regulation/21)
+[^c-9b3f48e7cd0accb0e73ad9e742d62eee]: Textual amendment: Words in reg. 31(2) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/1116/regulation/21)

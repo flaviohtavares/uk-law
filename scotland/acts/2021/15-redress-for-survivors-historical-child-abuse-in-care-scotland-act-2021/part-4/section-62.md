@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Review of determination made under section 60[^key-2656e401f57bfc15c7ecbf6b826fc46e]
+## 62. Review of determination made under section 60[^c-2656e401f57bfc15c7ecbf6b826fc46e]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2656e401f57bfc15c7ecbf6b826fc46e]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2021/15/section/62) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-2656e401f57bfc15c7ecbf6b826fc46e]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2021/15/section/62) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

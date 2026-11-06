@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Power to prohibit or restrict flying[^key-51975c4ff982aefda4dbd0475d6edf35]
+## 92. Power to prohibit or restrict flying[^c-51975c4ff982aefda4dbd0475d6edf35]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the Department may make regulations prohibiting, restricting or imposing conditi
 
 ## Annotations
 
-[^key-51975c4ff982aefda4dbd0475d6edf35]: Commencement: [Art. 92](https://www.legislation.gov.uk/uksi/2015/870/article/92) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-51975c4ff982aefda4dbd0475d6edf35]: Commencement: [Art. 92](https://www.legislation.gov.uk/uksi/2015/870/article/92) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

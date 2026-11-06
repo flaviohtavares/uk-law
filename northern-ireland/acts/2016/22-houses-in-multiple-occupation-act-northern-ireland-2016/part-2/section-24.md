@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Variation and revocation: procedure[^key-22f0c475a641f4934ad1ef59a8a849e1]
+## 24. Variation and revocation: procedure[^c-22f0c475a641f4934ad1ef59a8a849e1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule4 makes provision about the procedure for varying or revoking an HMO lic
 
 ## Annotations
 
-[^key-22f0c475a641f4934ad1ef59a8a849e1]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/22/section/24) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-22f0c475a641f4934ad1ef59a8a849e1]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/22/section/24) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

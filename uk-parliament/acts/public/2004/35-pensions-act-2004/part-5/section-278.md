@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Annual increase in rate of certain occupational pensions[^key-aa8073b639114c0c791f1787a7debd67][^key-20ada8a959cb3a62149661d06716b5d6]
+## 278. Annual increase in rate of certain occupational pensions[^c-aa8073b639114c0c791f1787a7debd67][^c-20ada8a959cb3a62149661d06716b5d6]
 
 *Extent: E+W+S*
 
@@ -98,6 +98,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa8073b639114c0c791f1787a7debd67]: Commencement: S. 278 in force at 15.3.2005 for specified purposes by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/695/article/2/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
+[^c-aa8073b639114c0c791f1787a7debd67]: Commencement: S. 278 in force at 15.3.2005 for specified purposes by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/695/article/2/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
 
-[^key-20ada8a959cb3a62149661d06716b5d6]: Commencement: S. 278 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-20ada8a959cb3a62149661d06716b5d6]: Commencement: S. 278 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

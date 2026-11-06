@@ -35,50 +35,50 @@ establishing emergency measures to prevent the introduction into and the spread 
 
 *(notified under document C(2019) 7328)* (revoked)
 
-[^key-537afa958713fcbb00c8e1cdd49ce663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-537afa958713fcbb00c8e1cdd49ce663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-537afa958713fcbb00c8e1cdd49ce663]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Prohibition of introduction and movement within the Union[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 1. Definitions[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Detection or suspected presence of the specified organism[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 2. Prohibition of introduction and movement within the Union[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Surveys of the specified organism in the territories of the Member States[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 3. Detection or suspected presence of the specified organism[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Requirements for the introduction into the Union of the specified plants[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 4. Surveys of the specified organism in the territories of the Member States[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Official checks at introduction into the Union[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 5. Requirements for the introduction into the Union of the specified plants[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Compliance[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 6. Official checks at introduction into the Union[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Date of application[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 7. Compliance[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Date of expiration[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 8. Date of application[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Addressees[^key-537afa958713fcbb00c8e1cdd49ce663]
+## Article 9. Date of expiration[^c-537afa958713fcbb00c8e1cdd49ce663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-537afa958713fcbb00c8e1cdd49ce663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 10. Addressees[^c-537afa958713fcbb00c8e1cdd49ce663]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-537afa958713fcbb00c8e1cdd49ce663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-537afa958713fcbb00c8e1cdd49ce663]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/34) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-537afa958713fcbb00c8e1cdd49ce663]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/34) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

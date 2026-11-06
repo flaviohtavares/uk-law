@@ -64,7 +64,7 @@ and the disposal does not fall within sub-paragraph (1).
 **3.** (1) If a person makes a disposal to which this Schedule applies, the person—
 
 - (a) must make a return in respect of the disposal, and
-- (b) must deliver the return to an officer of Revenue and Customs on or before the 60th[^key-94a0f2377d3125bb29efa25eca108aa0] day following the day of the completion of the disposal.
+- (b) must deliver the return to an officer of Revenue and Customs on or before the 60th[^c-94a0f2377d3125bb29efa25eca108aa0] day following the day of the completion of the disposal.
 
 (2) If—
 
@@ -119,7 +119,7 @@ the person is not required to make or deliver a return under this Schedule in re
 
 (3) A disposal on which a loss accrues is not to be ignored under sub-paragraph (2)(a) if the time at which the disposal is made (as determined under section 28 of TCGA 1992) falls on or before the completion date of the disposal in respect of which the return is made.
 
-(3A)[^key-9c313003cb4e1d6c8ffea2449b34213b] In the case of a disposal to which this Schedule applies as a result of paragraph 1(1)(b) where a proportion of the chargeable gain accruing on the disposal is not a residential property gain, ignore that proportion for the purposes of this paragraph.
+(3A)[^c-9c313003cb4e1d6c8ffea2449b34213b] In the case of a disposal to which this Schedule applies as a result of paragraph 1(1)(b) where a proportion of the chargeable gain accruing on the disposal is not a residential property gain, ignore that proportion for the purposes of this paragraph.
 
 (4) For provision relevant to the operation of this paragraph, see paragraphs 14 and 15 (making of assumptions, reasonable estimates etc).
 
@@ -146,21 +146,21 @@ the person may make and deliver a return under this Schedule in respect of the d
 
 (3) This paragraph does not apply in respect of a disposal if the filing date for the return which the person would otherwise be entitled to make and deliver falls on or after the date mentioned in paragraph 5(1)(a) or (b).
 
-#### Collective investment vehicles to which Sch.5AAA to TCGA 1992 applies[^key-2a8e48148fca023bb2ff05a1e7c85799]
+#### Collective investment vehicles to which Sch.5AAA to TCGA 1992 applies[^c-2a8e48148fca023bb2ff05a1e7c85799]
 
 **10.** (1) A person is not required to make or deliver a return under this Schedule in respect of a disposal if—
 
-- (a) the disposal has an appropriate connection to a collective investment vehicle[^key-2df41548d746cd85955211394b44d7a0] for the purposes of paragraph 6 of Schedule 5AAA to TCGA 1992, and
+- (a) the disposal has an appropriate connection to a collective investment vehicle[^c-2df41548d746cd85955211394b44d7a0] for the purposes of paragraph 6 of Schedule 5AAA to TCGA 1992, and
 - (b) the person would not be liable under paragraph 6 of this Schedule to pay an amount on account of the person's liability to capital gains tax for the tax year concerned.
 
 (2) In determining whether sub-paragraph (1)(b) applies, it is to be assumed that the person is required to make a return under this Schedule in respect of the disposal.
 
-(3)[^key-8906bd0400529d9edc02bf35ab3e22d9] If, by virtue of sub-paragraph (1), a person is not required to make or deliver a return under this Schedule in respect of a disposal, the person is not required to make a claim to obtain relief under section 6(2)(a) or (3)(a) of TIOPA 2010 in respect of the disposal (despite subsection (6) of that section).
+(3)[^c-8906bd0400529d9edc02bf35ab3e22d9] If, by virtue of sub-paragraph (1), a person is not required to make or deliver a return under this Schedule in respect of a disposal, the person is not required to make a claim to obtain relief under section 6(2)(a) or (3)(a) of TIOPA 2010 in respect of the disposal (despite subsection (6) of that section).
 
 **11.** (1) This paragraph applies if—
 
-- (a) an election under paragraph 8 of Schedule 5AAA to TCGA 1992 (election for CIV[^key-51a6ab9ed1944f92b41b6f7bffdd9e42] to be treated as partnership for purposes of Act) has effect in respect of an offshore collective investment vehicle[^key-78a636ccbf2675d2ad075a3e6328413a] (within the meaning of that Schedule),
-- (b) a disposal is made of property that is the subject of or held by the vehicle[^key-7753ed32be874523143d64bb1b1744cd],
+- (a) an election under paragraph 8 of Schedule 5AAA to TCGA 1992 (election for CIV[^c-51a6ab9ed1944f92b41b6f7bffdd9e42] to be treated as partnership for purposes of Act) has effect in respect of an offshore collective investment vehicle[^c-78a636ccbf2675d2ad075a3e6328413a] (within the meaning of that Schedule),
+- (b) a disposal is made of property that is the subject of or held by the vehicle[^c-7753ed32be874523143d64bb1b1744cd],
 - (c) the disposal is made before the day on which this election is made, and
 - (d) a person is required to make a return under this Schedule in respect of the disposal.
 
@@ -168,7 +168,7 @@ the person may make and deliver a return under this Schedule in respect of the d
 
 **12.** (1) This paragraph applies if—
 
-- (a) a disposal is deemed to have been made by a person as a result of paragraph 21 or 22 of Schedule 5AAA to TCGA 1992 (qualifying offshore CIV[^key-b6655e89d0e8aff08528358a80c507f7] etc), and
+- (a) a disposal is deemed to have been made by a person as a result of paragraph 21 or 22 of Schedule 5AAA to TCGA 1992 (qualifying offshore CIV[^c-b6655e89d0e8aff08528358a80c507f7] etc), and
 - (b) the person is required to make a return under this Schedule in respect of the disposal.
 
 (2) If the disposal is one to which paragraph 23 of that Schedule applies (gains treated as accruing when value received)—
@@ -244,7 +244,7 @@ the person may make a reasonable estimate of that matter in the return.
 - (a) must contain information of a description specified by an officer of Revenue and Customs (and different descriptions of information may be specified for different cases), and
 - (b) must include a declaration by the person making it that the return is, to the best of the person's knowledge, correct and complete.
 
-#### Interpretation of “residential property gains”[^key-129f97be61480a1a8315e141cf92d9ba]
+#### Interpretation of “residential property gains”[^c-129f97be61480a1a8315e141cf92d9ba]
 
 **16A.** (1) In this Part of this Schedule “**residential property gain**” means so much of a chargeable gain accruing to a person on a disposal of residential property as, in accordance with paragraph 16B, is attributable to that property.
 
@@ -343,7 +343,7 @@ and, in each case, it is not an institutional building.
 - (g) it is used as a hotel or inn or similar establishment,
 - (h) it is otherwise used, or suitable for use, as an institution that is the sole or main residence of its residents,
 - (i) it falls within—
-  - (i) paragraph 3A or 4[^key-52f969deba1e22b4486257c3ad3a7c04] of Schedule 14 to the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) (buildings in England or Wales occupied by students and managed or controlled by educational establishment etc), or
+  - (i) paragraph 3A or 4[^c-52f969deba1e22b4486257c3ad3a7c04] of Schedule 14 to the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) (buildings in England or Wales occupied by students and managed or controlled by educational establishment etc), or
   - (ii) any provision having effect in Scotland or Northern Ireland that is designated by regulations made by the Treasury as provision corresponding to paragraph 3A or 4 of that Schedule, or
 - (j) it qualifies in accordance with the next sub-paragraph as student accommodation.
 
@@ -425,7 +425,7 @@ the works period does not include that time.
   - (c) in the case of land in Northern Ireland, has the meaning given by Article 2(2) of the [Planning (Northern Ireland) Order 1991](https://www.legislation.gov.uk/nisi/1991/1220), and
   - (d) in the case of land outside the United Kingdom, means permission corresponding to any planning permission in relation to land anywhere in the United Kingdom.
 
-#### Other interpretation[^key-8fab8e4eaa8ece67d29b090724e982f8]
+#### Other interpretation[^c-8fab8e4eaa8ece67d29b090724e982f8]
 
 **17.** (1) In this Part of this Schedule—
 
@@ -434,7 +434,7 @@ the works period does not include that time.
 - “**ordinary tax return**” means a return under section 8 or 8A of TMA 1970,
 - “**pension scheme investments**” means investments held for the purposes of a registered pension scheme or an overseas pension scheme (and expressions used in this definition have the same meaning as they have in section 271(1A) of TCGA 1992),
 - “**premium**” has the meaning given by paragraph 10 of Schedule 8 to TCGA 1992,
-- [^key-73901b212c1986244b2bc571541855c2]... and
+- [^c-73901b212c1986244b2bc571541855c2]... and
 - “**the tax year concerned**”, in relation to a disposal, means the tax year in which the disposal is made.
 
 (2) In this Part of this Schedule the “completion” of a disposal is regarded as occurring—
@@ -680,28 +680,28 @@ any amount which, as a result of the supersession, is payable or repayable under
 
 ## Annotations
 
-[^key-94a0f2377d3125bb29efa25eca108aa0]: Textual amendment: Word in Sch. 2 para. 3(1)(b) substituted (with effect in accordance with s. 23(4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/23/2)
+[^c-94a0f2377d3125bb29efa25eca108aa0]: Textual amendment: Word in Sch. 2 para. 3(1)(b) substituted (with effect in accordance with s. 23(4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/23/2)
 
-[^key-9c313003cb4e1d6c8ffea2449b34213b]: Textual amendment: Sch. 2 para. 7(3A) inserted (with effect in accordance with s. 23(4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/23/3)
+[^c-9c313003cb4e1d6c8ffea2449b34213b]: Textual amendment: Sch. 2 para. 7(3A) inserted (with effect in accordance with s. 23(4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/23/3)
 
-[^key-2a8e48148fca023bb2ff05a1e7c85799]: Textual amendment: Word in Sch. 2 para. 10 cross-heading substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
+[^c-2a8e48148fca023bb2ff05a1e7c85799]: Textual amendment: Word in Sch. 2 para. 10 cross-heading substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
 
-[^key-2df41548d746cd85955211394b44d7a0]: Textual amendment: Word in Sch. 2 para. 10 substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/b/i)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
+[^c-2df41548d746cd85955211394b44d7a0]: Textual amendment: Word in Sch. 2 para. 10 substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/b/i)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
 
-[^key-8906bd0400529d9edc02bf35ab3e22d9]: Textual amendment: Sch. 2 para. 10(3) inserted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/b/ii)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
+[^c-8906bd0400529d9edc02bf35ab3e22d9]: Textual amendment: Sch. 2 para. 10(3) inserted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/b/ii)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
 
-[^key-51a6ab9ed1944f92b41b6f7bffdd9e42]: Textual amendment: Word in Sch. 2 para. 11(1)(a) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/c/i)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
+[^c-51a6ab9ed1944f92b41b6f7bffdd9e42]: Textual amendment: Word in Sch. 2 para. 11(1)(a) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/c/i)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
 
-[^key-78a636ccbf2675d2ad075a3e6328413a]: Textual amendment: Word in Sch. 2 para. 11(1)(a) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/c/ii)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
+[^c-78a636ccbf2675d2ad075a3e6328413a]: Textual amendment: Word in Sch. 2 para. 11(1)(a) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/c/ii)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
 
-[^key-7753ed32be874523143d64bb1b1744cd]: Textual amendment: Words in Sch. 2 para. 11(1)(b) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/d)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
+[^c-7753ed32be874523143d64bb1b1744cd]: Textual amendment: Words in Sch. 2 para. 11(1)(b) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/d)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
 
-[^key-b6655e89d0e8aff08528358a80c507f7]: Textual amendment: Word in Sch. 2 para. 12(1)(a) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/e)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
+[^c-b6655e89d0e8aff08528358a80c507f7]: Textual amendment: Word in Sch. 2 para. 12(1)(a) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 41(3)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/3/e)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/41/5)
 
-[^key-129f97be61480a1a8315e141cf92d9ba]: Textual amendment: Sch. 2 paras. 16A-16H and cross-heading inserted (with effect in accordance with s. 7(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/9/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-129f97be61480a1a8315e141cf92d9ba]: Textual amendment: Sch. 2 paras. 16A-16H and cross-heading inserted (with effect in accordance with s. 7(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/9/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-52f969deba1e22b4486257c3ad3a7c04]: Textual amendment: Words in [Sch. 2 para. 16E(3)(i)(i) and (ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/16E/3/i) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 62(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/5/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/3), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/e)
+[^c-52f969deba1e22b4486257c3ad3a7c04]: Textual amendment: Words in [Sch. 2 para. 16E(3)(i)(i) and (ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/16E/3/i) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 62(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/5/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/3), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/e)
 
-[^key-8fab8e4eaa8ece67d29b090724e982f8]: Textual amendment: Sch. 2 para. 17 cross-heading substituted (with effect in accordance with s. 7(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/9/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-8fab8e4eaa8ece67d29b090724e982f8]: Textual amendment: Sch. 2 para. 17 cross-heading substituted (with effect in accordance with s. 7(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/9/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-73901b212c1986244b2bc571541855c2]: Textual amendment: Words in Sch. 2 para. 17(1) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/9/4) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-73901b212c1986244b2bc571541855c2]: Textual amendment: Words in Sch. 2 para. 17(1) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/9/4) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))

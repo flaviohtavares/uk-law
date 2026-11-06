@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Further amendments relating to byelaws[^key-de55b108cf727518897fa69877c2c433]
+## 135. Further amendments relating to byelaws[^c-de55b108cf727518897fa69877c2c433]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 (further amendments of the law relating to byelaws) has effect.
 
 ## Annotations
 
-[^key-de55b108cf727518897fa69877c2c433]: Commencement: S. 135 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/112/article/2/g)
+[^c-de55b108cf727518897fa69877c2c433]: Commencement: S. 135 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/112/article/2/g)

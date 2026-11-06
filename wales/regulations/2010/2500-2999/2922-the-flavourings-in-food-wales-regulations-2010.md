@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Flavourings in Food (Wales) Regulations 2010 (revoked)[^key-8fe01288b6e43250b86eb4415d498eb4]
+The Flavourings in Food (Wales) Regulations 2010 (revoked)[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 20 January 2011
 
-[^key-8fe01288b6e43250b86eb4415d498eb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8fe01288b6e43250b86eb4415d498eb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 1. Title, application and commencement[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 2. Interpretation[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 3. Offences and penalties[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement authorities[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 4. Enforcement authorities[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 5. Application of various sections of the Food Safety Act 1990[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Condemnation of Food[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 6. Condemnation of Food[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Food Labelling Regulations 1996[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 7. Amendments to the Food Labelling Regulations 1996[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations[^key-8fe01288b6e43250b86eb4415d498eb4]
+## 8. Revocations[^c-8fe01288b6e43250b86eb4415d498eb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8fe01288b6e43250b86eb4415d498eb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8fe01288b6e43250b86eb4415d498eb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8fe01288b6e43250b86eb4415d498eb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8fe01288b6e43250b86eb4415d498eb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8fe01288b6e43250b86eb4415d498eb4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2922) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-8fe01288b6e43250b86eb4415d498eb4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2922) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

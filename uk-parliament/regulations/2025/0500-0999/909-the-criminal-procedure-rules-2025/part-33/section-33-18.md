@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.18. Application for discharge of confiscation order made against an absconder[^key-9f894234b963d7c0d2f12483f5a4e39d]
+## 33.18. Application for discharge of confiscation order made against an absconder[^c-9f894234b963d7c0d2f12483f5a4e39d]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f894234b963d7c0d2f12483f5a4e39d]: Commencement: [Rule 33.18](https://www.legislation.gov.uk/uksi/2025/909/rule/33.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9f894234b963d7c0d2f12483f5a4e39d]: Commencement: [Rule 33.18](https://www.legislation.gov.uk/uksi/2025/909/rule/33.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00808]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).

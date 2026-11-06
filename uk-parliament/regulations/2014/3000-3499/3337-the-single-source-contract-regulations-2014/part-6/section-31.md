@@ -30,7 +30,7 @@ summary: ''
 - (a) for the financial years ending on 31 March 2016 and 31 March 2017, £20,000,000;
 - (b) for subsequent financial years, £50,000,000.
 
-(2A)[^key-611527b17e8ca1899d3f743f3df0d042] In determining the value of a qualifying defence contract for the purposes of this Part, any part of the contract the price of which was determined in accordance with a contract pricing method under which costs are indistinguishable from profits (within the meaning of regulation 22(10)(aa)) is to be disregarded.
+(2A)[^c-611527b17e8ca1899d3f743f3df0d042] In determining the value of a qualifying defence contract for the purposes of this Part, any part of the contract the price of which was determined in accordance with a contract pricing method under which costs are indistinguishable from profits (within the meaning of regulation 22(10)(aa)) is to be disregarded.
 
 (3) The reference in paragraph (1) to the ongoing contract condition being met in relation to a financial year has the meaning given by section 25(5).
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-611527b17e8ca1899d3f743f3df0d042]: Textual amendment: [Reg. 31(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/31/2A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2024/420/regulation/36)
+[^c-611527b17e8ca1899d3f743f3df0d042]: Textual amendment: [Reg. 31(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/31/2A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2024/420/regulation/36)

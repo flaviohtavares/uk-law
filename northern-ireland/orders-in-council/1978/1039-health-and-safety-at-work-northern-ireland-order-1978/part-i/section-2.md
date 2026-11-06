@@ -77,7 +77,7 @@ summary: ''
 
 (3) In this Order any reference to an enforcing authority's field of responsibility is a reference to the field over which that authority's responsibility for the enforcement of any of the relevant statutory provisions extends for the time being.
 
-(4)[^key-99fb7318d20baccfc6319aba0ef03f49] Subject to paragraph (5) for the purposes of this Order—
+(4)[^c-99fb7318d20baccfc6319aba0ef03f49] Subject to paragraph (5) for the purposes of this Order—
 
 - (a) “work” means work as an employee or as a self-employed person;
 - (b) an employee is at work throughout the time when he is in the course of his employment, but not otherwise;[^c17533961]. . .
@@ -101,4 +101,4 @@ summary: ''
 
 [^m00002]: Marginal citation: 1954 c.33
 
-[^key-99fb7318d20baccfc6319aba0ef03f49]: Modification: [Art. 2(4)](https://www.legislation.gov.uk/nisi/1978/1039/article/2/4) extended (21.10.2024) by S.R. 1993/20, reg. 3A(2) (as inserted by [The Personal Protective Equipment at Work (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/161)](https://www.legislation.gov.uk/nisr/2024/161), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/161/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2024/161/regulation/2/4))
+[^c-99fb7318d20baccfc6319aba0ef03f49]: Modification: [Art. 2(4)](https://www.legislation.gov.uk/nisi/1978/1039/article/2/4) extended (21.10.2024) by S.R. 1993/20, reg. 3A(2) (as inserted by [The Personal Protective Equipment at Work (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/161)](https://www.legislation.gov.uk/nisr/2024/161), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/161/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2024/161/regulation/2/4))

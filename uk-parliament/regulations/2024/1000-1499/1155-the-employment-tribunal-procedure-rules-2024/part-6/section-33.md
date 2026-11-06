@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Disclosure of documents and information[^key-82bc682c1249d70154440f681e57e385]
+## 33. Disclosure of documents and information[^c-82bc682c1249d70154440f681e57e385]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Tribunal may order any person in Great Britain to disclose documents or info
 
 ## Annotations
 
-[^key-82bc682c1249d70154440f681e57e385]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2024/1155/rule/33) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-82bc682c1249d70154440f681e57e385]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2024/1155/rule/33) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

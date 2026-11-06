@@ -44,13 +44,13 @@ Section 411.
 **2.**[^c12816321] (1) In the case of any LRT pension scheme, the provision that may be made by order under section 411(1) of this Act includes provision for or in connection with—
 
 - (a) the allocation of assets, rights, liabilities or obligations between different sections of the scheme;
-- (b) securing that the scheme continues to be registered or[^key-677a97fd68d728c996cacbb491ffb64b] approved for the purposes of the relevant enactments, notwithstanding any transfers made by or under this Act or any qualifying transaction.
+- (b) securing that the scheme continues to be registered or[^c-677a97fd68d728c996cacbb491ffb64b] approved for the purposes of the relevant enactments, notwithstanding any transfers made by or under this Act or any qualifying transaction.
 
 (2) In sub-paragraph (1) above—
 
 - “**qualifying transaction**” means any relevant transaction, within the meaning of paragraph 3 below, as a result of which a person is or becomes a protected person for the purposes of that paragraph;
 - “**the relevant enactments**” means—
-  - (a) Part 4 of the Finance Act 2004 (pension schemes[^key-8760c33ffa940ad5a34027645053e80f] etc); and
+  - (a) Part 4 of the Finance Act 2004 (pension schemes[^c-8760c33ffa940ad5a34027645053e80f] etc); and
   - (b) Part III of the [^c12816341]Pension Schemes Act 1993, so far as relating to occupational pension schemes.
 
 ### Protection of pension arrangements of transferred employees
@@ -136,9 +136,9 @@ he may by order make provision requiring the trustees of the scheme or any other
 
 (2) For the purposes of sub-paragraph (1) above, the provisions of section 411 of this Act, and of the other paragraphs of this Schedule, shall apply in relation to an LRT welfare scheme as they apply in relation to a pension scheme, but taking references in those provisions to pensions as references to benefits and construing references to pension rights accordingly.
 
-(3) The Secretary of State may by order amend the articles[^key-7ba0bb5011b012ad6c576dc345c0c1a6] of any company which is the trustee of an LRT welfare scheme for or in connection with permitting directors or shareholders of the company to be persons who are officers or servants of Transport for London or a subsidiary of Transport for London.
+(3) The Secretary of State may by order amend the articles[^c-7ba0bb5011b012ad6c576dc345c0c1a6] of any company which is the trustee of an LRT welfare scheme for or in connection with permitting directors or shareholders of the company to be persons who are officers or servants of Transport for London or a subsidiary of Transport for London.
 
-- In this sub-paragraph “company” means a company as defined in section 1(1) of the Companies Act 2006.[^key-02f110f59f4ba0dbbc45df4d44671154]
+- In this sub-paragraph “company” means a company as defined in section 1(1) of the Companies Act 2006.[^c-02f110f59f4ba0dbbc45df4d44671154]
 
 (4) Any powers—
 
@@ -170,9 +170,9 @@ shall be as valid and effective as if the power had at that time been vested in 
 
 [^c12816321]: Commencement: Sch. 32 para. 2: by virtue of s. 425(2) the Act comes into force at Royal Assent in regards to any power of a Minister of the Crown to make regulations or an order
 
-[^key-677a97fd68d728c996cacbb491ffb64b]: Textual amendment: Words in Sch. 32 para. 2(1)(b) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [14(a)](https://www.legislation.gov.uk/uksi/2006/745/article/14/a)
+[^c-677a97fd68d728c996cacbb491ffb64b]: Textual amendment: Words in Sch. 32 para. 2(1)(b) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [14(a)](https://www.legislation.gov.uk/uksi/2006/745/article/14/a)
 
-[^key-8760c33ffa940ad5a34027645053e80f]: Textual amendment: Words in Sch. 32 para. 2(2) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2006/745/article/14/b)
+[^c-8760c33ffa940ad5a34027645053e80f]: Textual amendment: Words in Sch. 32 para. 2(2) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2006/745/article/14/b)
 
 [^c12816341]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
@@ -186,8 +186,8 @@ shall be as valid and effective as if the power had at that time been vested in 
 
 [^c12816411]: Commencement: Sch. 32 para. 5: by virtue of s. 425(2) the Act comes into force at Royal Assent in regards to any powers of a Minister of the Crown to make regulations or an order
 
-[^key-7ba0bb5011b012ad6c576dc345c0c1a6]: Textual amendment: Word in Sch. 32 para. 5(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(9)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/9/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-7ba0bb5011b012ad6c576dc345c0c1a6]: Textual amendment: Word in Sch. 32 para. 5(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(9)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/9/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-02f110f59f4ba0dbbc45df4d44671154]: Textual amendment: Words in Sch. 32 para. 5(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(9)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/9/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-02f110f59f4ba0dbbc45df4d44671154]: Textual amendment: Words in Sch. 32 para. 5(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(9)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/9/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c12816431]: Marginal citation: [1969 c. 35](https://www.legislation.gov.uk/ukpga/1969/35).

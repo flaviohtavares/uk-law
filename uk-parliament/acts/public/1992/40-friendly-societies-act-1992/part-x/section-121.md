@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any power of the Treasury [^c15389441]. . . to make regulations or an order under this Act is exercisable by statutory instrument.
 
-(2) Any statutory instrument containing such regulations or such an order, other than an order under section 5[^key-0bd6a6bd6b27bf384214b74196a53fd4] above or section 126 below, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2) Any statutory instrument containing such regulations or such an order, other than an order under section 5[^c-0bd6a6bd6b27bf384214b74196a53fd4] above or section 126 below, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (3) Any power conferred by this Act to make such regulations or such an order includes power—
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c15389441]: Textual amendment: Words in [s. 121(1)](https://www.legislation.gov.uk/ukpga/1992/40/section/121/1) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-0bd6a6bd6b27bf384214b74196a53fd4]: Textual amendment: Words in [s. 121(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/121/2) substituted (29.6.2008) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [8](https://www.legislation.gov.uk/uksi/2008/1140/article/8)
+[^c-0bd6a6bd6b27bf384214b74196a53fd4]: Textual amendment: Words in [s. 121(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/121/2) substituted (29.6.2008) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [8](https://www.legislation.gov.uk/uksi/2008/1140/article/8)

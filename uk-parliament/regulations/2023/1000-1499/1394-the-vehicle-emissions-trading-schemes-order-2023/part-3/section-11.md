@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Participants in the CRTS[^key-1356caee490667701dac4cb4a8a78f46]
+## 11. Participants in the CRTS[^c-1356caee490667701dac4cb4a8a78f46]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1356caee490667701dac4cb4a8a78f46]: Commencement: Art. 11 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-1356caee490667701dac4cb4a8a78f46]: Commencement: Art. 11 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

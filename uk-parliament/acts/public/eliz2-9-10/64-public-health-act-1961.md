@@ -162,7 +162,7 @@ A local authority may, on the application of the owner or occupier of any premis
 
 (4) If an appeal is brought under subsection (2) of this section, the local authority shall take no further action in the matter under this section until the appeal is finally determined or withdrawn; and on the hearing of the appeal the court may direct the local authority to take no further action or may permit the local authority to take such steps as the court may direct or may dismiss the appeal.
 
-(5) In this section “**rubbish**” means rubble, waste paper, crockery a00000nd metal, and any other kind of refuse (including organic matter), but does not include any material accumulated for, or in the course of, any business [^key-7ba0d8fbfbbdee89c897642239df6e43]...
+(5) In this section “**rubbish**” means rubble, waste paper, crockery a00000nd metal, and any other kind of refuse (including organic matter), but does not include any material accumulated for, or in the course of, any business [^c-7ba0d8fbfbbdee89c897642239df6e43]...
 
 ### Filthy or verminous premises or articles
 
@@ -192,7 +192,7 @@ A local authority may, on the application of the owner or occupier of any premis
 
 (4) This section shall not affect any notice given under the said section eighty-three before the commencement of this Act.
 
-#### 36. Power to require vacation of premises during fumigation.[^c626830][^key-b431268c00b2728a03f0a64e70043ba0][^key-e068826ced12ca52ee894d7f14b37f35][^key-43ea0effc5fbdf683bbbb9e418293872][^key-7b1d9d85e701a8f698010bb55caf8238][^key-4b8591dae457ca337bc09ad5c5ee2b3f][^key-b7fb798ce810dd815e3168c81e66e37b][^key-4ccfe860e7d96b54fcabcd763bcccd1a][^key-7359cf6e1866ce1269b937d409ab9876][^key-f10f1d11fa65fc2beb06ee87f13914f8][^c626829]
+#### 36. Power to require vacation of premises during fumigation.[^c626830][^c-b431268c00b2728a03f0a64e70043ba0][^c-e068826ced12ca52ee894d7f14b37f35][^c-43ea0effc5fbdf683bbbb9e418293872][^c-7b1d9d85e701a8f698010bb55caf8238][^c-4b8591dae457ca337bc09ad5c5ee2b3f][^c-b7fb798ce810dd815e3168c81e66e37b][^c-4ccfe860e7d96b54fcabcd763bcccd1a][^c-7359cf6e1866ce1269b937d409ab9876][^c-f10f1d11fa65fc2beb06ee87f13914f8][^c626829]
 
 (1) If a local authority serve a notice under subsection (3) of section eighty-three of the [^c626831]Public Health Act 1936 as amended by the last foregoing section, on the owner and occupier of any premises requiring that they shall be allowed to employ gas for the purpose of destroying vermin on the premises—
 
@@ -245,7 +245,7 @@ the medical officer of health or public health inspector may cause the article t
 
 #### 43, 44. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c626835]
 
-#### 45. Attachment of street lamps to buildings.[^c626837][^c626838][^key-e4fcd0092e85af09aa9338325cfc6bef][^key-5577b8e2faea04d938a7076309f2e154][^c626836]
+#### 45. Attachment of street lamps to buildings.[^c626837][^c626838][^c-e4fcd0092e85af09aa9338325cfc6bef][^c-5577b8e2faea04d938a7076309f2e154][^c626836]
 
 (1) Subject to the provisions of this section, a county council, local authority or parish council or parish meeting (hereafter in this section referred to as a “street lighting authority”) may affix to any building such lamps, brackets, pipes, electric lines and apparatus (hereafter in this section referred to as “**attchments**”) as may be required for the purposes of street lighting.
 
@@ -261,7 +261,7 @@ Provided that, where in the opinion of the street lighting authority any such re
 
 (5)[^c626839] Where attachments are affixed to a building under this section, the street lighting authority shall have the right as against any person having an interest in the building to alter or remove them, or to repair or maintain them.
 
-(6)[^c626839] If the owner of a building suffers damage by, or in consequence of, the affixing to the building of any attachments under this section, or by or in consequence of the exercise of the rights conferred by subsection (5) of this section, he shall be entitled to be paid by the street lighting authority compensation to be determined in case of dispute by the Upper Tribunal[^key-ad7aa24695f55d028e7761f9f9c233a8], and, so far as the compensation is properly to be calculated by reference to the depreciation of the value of his interest in the building, Rules 2 to 4 of the Rules set out in section five of the [^c626843]Land Compensation Act 1961 shall apply.
+(6)[^c626839] If the owner of a building suffers damage by, or in consequence of, the affixing to the building of any attachments under this section, or by or in consequence of the exercise of the rights conferred by subsection (5) of this section, he shall be entitled to be paid by the street lighting authority compensation to be determined in case of dispute by the Upper Tribunal[^c-ad7aa24695f55d028e7761f9f9c233a8], and, so far as the compensation is properly to be calculated by reference to the depreciation of the value of his interest in the building, Rules 2 to 4 of the Rules set out in section five of the [^c626843]Land Compensation Act 1961 shall apply.
 
 (7) A street lighting authority shall not do anything under this section which would, to their knowledge, be in contravention of a building preservation order under section twenty-nine of the [^c626844]Town and Country Planning Act 1947.
 
@@ -331,7 +331,7 @@ References in this section to a boating pool so provided shall include reference
 - (a) themselves manage a boating pool provided under this section, making such reasonable charges for its use, or for admission, as they think fit, or
 - (b) let it, or any part of it, for such consideration, and on such terms and conditions, as they think fit.
 
-(4) Where the existence of a boating pool is likely to interfere with any water flowing directly or indirectly out of or into any watercourse which is vested in or controlled[^c626868] by the Environment Agency, the Natural Resources Body for Wales or any[^key-d12760dadb8ddcf821f8addf2489d248] internal drainage board, the local authority or parish council shall before providing a boating pool under this section consult with that Agency, Body or board (as the case may be)[^key-05a76aa441e17c4a2e29401a8414d09e].
+(4) Where the existence of a boating pool is likely to interfere with any water flowing directly or indirectly out of or into any watercourse which is vested in or controlled[^c626868] by the Environment Agency, the Natural Resources Body for Wales or any[^c-d12760dadb8ddcf821f8addf2489d248] internal drainage board, the local authority or parish council shall before providing a boating pool under this section consult with that Agency, Body or board (as the case may be)[^c-05a76aa441e17c4a2e29401a8414d09e].
 
 (5) No power given by this section shall be exercised in such a manner as to contravene any covenant or condition subject to which a gift or lease of a park or pleasure-ground has been accepted or made without the consent of the donor, grantor, lessor or other person or persons entitled in law to the benefit of the covenant or condition.
 
@@ -412,9 +412,9 @@ References in this section to a boating pool so provided shall include reference
 
 ### 72. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c626936]
 
-### 73. Derelict petrol tanks.[^c626940][^c626941][^key-bc382ff72e2c22cc452ec1e737af4609][^key-e348b70e515e22f52d52a064a9168b9d][^key-7e3382ffc804d98746ce3bd39a851dd1][^key-5e8db4a46a65efde85c68a3391049b02][^key-f90b6ec571362762d223491a5e9df25e]
+### 73. Derelict petrol tanks.[^c626940][^c626941][^c-bc382ff72e2c22cc452ec1e737af4609][^c-e348b70e515e22f52d52a064a9168b9d][^c-7e3382ffc804d98746ce3bd39a851dd1][^c-5e8db4a46a65efde85c68a3391049b02][^c-f90b6ec571362762d223491a5e9df25e]
 
-(1) Where a fixed tank or other fixed container which has been used for the storage of petrol[^key-072556effdd13c22bbb93e38db626f76], and is no longer used for that purpose, is kept on any premises, the occupier of the premises shall take all such steps as may be reasonably necessary to prevent danger from the container.
+(1) Where a fixed tank or other fixed container which has been used for the storage of petrol[^c-072556effdd13c22bbb93e38db626f76], and is no longer used for that purpose, is kept on any premises, the occupier of the premises shall take all such steps as may be reasonably necessary to prevent danger from the container.
 
 (2) An officer of the local authority duly authorised by them may, on producing, if so required, some duly authenticated document showing his authority, require the occupier of premises on which there is any tank or other container to which subsection (1) of this section applies to show it to him and permit him to ascertain whether steps have been taken to comply with the provisions of this section.
 
@@ -422,9 +422,9 @@ References in this section to a boating pool so provided shall include reference
 
 (4) The provisions of Part XII of the [^c626942]Public Health Act 1936 with respect to appeals against, and the enforcement of, notices requiring the execution of works shall apply in relation to any notice under subsection (3) of this section, and shall so apply as if this section were contained in that Act.
 
-(5) This section shall apply in relation to premises which are unoccupied with the substitution for the references to the occupier of the premises of references to their owner (as defined in subsection (1) of section three hundred and forty-three of the Public Health Act 1936); and this section shall not apply to premises situated within the jurisdiction of a harbour authority (as defined in section 57 of the Harbours Act 1964[^key-165fd988e0e8e703c4e5377d28edbea0]).
+(5) This section shall apply in relation to premises which are unoccupied with the substitution for the references to the occupier of the premises of references to their owner (as defined in subsection (1) of section three hundred and forty-three of the Public Health Act 1936); and this section shall not apply to premises situated within the jurisdiction of a harbour authority (as defined in section 57 of the Harbours Act 1964[^c-165fd988e0e8e703c4e5377d28edbea0]).
 
-(6)[^key-664dcd37e9bced1f903b2a61916c002a] In this section “petrol” has the meaning given by regulation 2 of the Petroleum (Consolidation) Regulations 2014.
+(6)[^c-664dcd37e9bced1f903b2a61916c002a] In this section “petrol” has the meaning given by regulation 2 of the Petroleum (Consolidation) Regulations 2014.
 
 ### 74. Power to reduce numbers of pigeons and other birds in built-up areas.
 
@@ -451,7 +451,7 @@ References in this section to a boating pool so provided shall include reference
 
 and it shall be the duty of the local authority to enforce byelaws made by them under this section.
 
-(1A)[^key-2ebdcd4c14f73fcc515004cc492c824b] No byelaw may be made under this section which applies to a pleasure fair or rolling skating rink, in so far as the byelaw relates to any matter in relation to which requirements or prohibitions are or could be imposed by or under the Regulatory Reform (Fire Safety) Order 2005.
+(1A)[^c-2ebdcd4c14f73fcc515004cc492c824b] No byelaw may be made under this section which applies to a pleasure fair or rolling skating rink, in so far as the byelaw relates to any matter in relation to which requirements or prohibitions are or could be imposed by or under the Regulatory Reform (Fire Safety) Order 2005.
 
 (2) In this section—
 
@@ -478,11 +478,11 @@ and it shall be the duty of the local authority to enforce byelaws made by them 
 
 (7) Section thirty-eight of the [^c626949]Public Health Acts Amendment Act 1890 (under which byelaws may be made for the prevention of danger from roundabouts, swings and shooting galleries), shall cease to have effect, but any byelaws under that section in force at the commencement of this Act shall continue in force and may be revoked at any time as if they had been made under this section.
 
-(8)[^key-ffc5e3e853ffd137f44c5377cd5e5747] The Secretary of State shall be the confirming authority as respects byelaws made by a local authority in England[^key-5bd5cea73be76b8a5f74ff4e6501ebdd] under this section, and the Secretary of State shall not confirm any byelaws under this section unless he is satisfied that all bodies which appear to him to be representative of the interests of those who carry on pleasure fairs and entertainments to which this section applies have been consulted on the matters dealt with by the byelaw and, in the case of a byelaw made in pursuance of subsection (1)(d) of this section, that the[^c626950] fire and rescue authority under the Fire and Rescue Services Act 2004 for the area to which the byelaw applies have been so consulted.
+(8)[^c-ffc5e3e853ffd137f44c5377cd5e5747] The Secretary of State shall be the confirming authority as respects byelaws made by a local authority in England[^c-5bd5cea73be76b8a5f74ff4e6501ebdd] under this section, and the Secretary of State shall not confirm any byelaws under this section unless he is satisfied that all bodies which appear to him to be representative of the interests of those who carry on pleasure fairs and entertainments to which this section applies have been consulted on the matters dealt with by the byelaw and, in the case of a byelaw made in pursuance of subsection (1)(d) of this section, that the[^c626950] fire and rescue authority under the Fire and Rescue Services Act 2004 for the area to which the byelaw applies have been so consulted.
 
-(8A)[^key-07358f3faa584dd158a7c3c523f66554] Subsection (8) does not apply to byelaws of a class prescribed by regulations under section 236A(1) of the Local Government Act 1972.
+(8A)[^c-07358f3faa584dd158a7c3c523f66554] Subsection (8) does not apply to byelaws of a class prescribed by regulations under section 236A(1) of the Local Government Act 1972.
 
-(9)[^key-dd6d6bc91611db1853fba5f009bd1eab] A local authority in Wales which proposes to make a byelaw under this section must consult the appropriate representative bodies on the matters dealt with by the proposed byelaw.
+(9)[^c-dd6d6bc91611db1853fba5f009bd1eab] A local authority in Wales which proposes to make a byelaw under this section must consult the appropriate representative bodies on the matters dealt with by the proposed byelaw.
 
 (10) For the purposes of subsection (9), “the appropriate representative bodies” are those bodies which appear to the authority to be representative of the interests of those who carry on pleasure fairs and entertainments to which this section applies.
 
@@ -498,7 +498,7 @@ and it shall be the duty of the local authority to enforce byelaws made by them 
 - (b) regulating the use of pleasure boats so as to prevent their navigation in a dangerous manner or without due care and attention or without reasonable consideration for other persons;
 - (c) requiring the use of effectual silencers on pleasure boats propelled by internal combustion engines.
 
-(2) The Secretary of State shall be the confirming authority as respects byelaws made by a local authority in England[^key-564e28e653ee77019c3f0e54bb655496] under this section.
+(2) The Secretary of State shall be the confirming authority as respects byelaws made by a local authority in England[^c-564e28e653ee77019c3f0e54bb655496] under this section.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c626953]
 
@@ -515,9 +515,9 @@ and it shall be the duty of the local authority to enforce byelaws made by them 
 
 (2) Section two hundred and eighty-seven of the [^c626954]Public Health Act 1936 shall have effect as if this section were contained in that Act.
 
-(3) The Minister shall be the confirming authority as respects byelaws made by a local authority in England[^key-d13731d4fb7096e31b2d37b07d500297] under this section.
+(3) The Minister shall be the confirming authority as respects byelaws made by a local authority in England[^c-d13731d4fb7096e31b2d37b07d500297] under this section.
 
-(4)[^key-106c4e2098cf8866f0ab4c86639f9019] Subsection (3) does not apply to byelaws of a class prescribed by regulations under section 236A(1) of the Local Government Act 1972.
+(4)[^c-106c4e2098cf8866f0ab4c86639f9019] Subsection (3) does not apply to byelaws of a class prescribed by regulations under section 236A(1) of the Local Government Act 1972.
 
 ### 78. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c626955]
 
@@ -525,7 +525,7 @@ and it shall be the duty of the local authority to enforce byelaws made by them 
 
 ### 80. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c626957]
 
-### 81. Summary recovery of damages for negligence.[^c626959][^c626960][^key-76fd58429f98cdc6cf2a3fcabd2c3178][^c626958]
+### 81. Summary recovery of damages for negligence.[^c626959][^c626960][^c-76fd58429f98cdc6cf2a3fcabd2c3178][^c626958]
 
 Damages recoverable by a county council, local authority or parish council or parish meeting . . . [^c626961] for damage caused by negligence to any lamp, lamp-post, notice board, fence, rail, post, shelter or other apparatus or equipment provided by them in a street or public place shall, if the amount thereof does not exceed twenty pounds, be recoverable summarily as a civil debt.
 
@@ -579,7 +579,7 @@ There shall be paid out of money provided by Parliament—
 
 (1) This Act may be cited as the Public Health Act 1961.
 
-(2)[^key-abdcfc56f54a6d135538ad110b0cdb65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-abdcfc56f54a6d135538ad110b0cdb65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c626975]
 
@@ -623,14 +623,14 @@ Table
 | --- | --- |
 | A building which is for the time being included in a list published under section 12 of the [^c626997]Ancient Monuments Consolidation and Amendment Act 1913. | The Secretary of State[^c626998] |
 | A building which is included in a list compiled or approved under section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990.[^c626999] | The Secretary of State. |
-| A building which is included in the schedule of monuments maintained under section 3 of the Historic Environment (Wales) Act 2023 or the list of buildings maintained under section 76 of that Act, except—[^key-a0c4168ef20bdac32f7c0668330d6f9c]<br>- (a) a building owned by railway, canal, dock, harbour or inland navigation undertakers,<br>- (b) a building owned by a holder of a licence under section 6 of the [Electricity Act 1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29),<br>- (c) a building owned by a gas transporter (within the meaning given by section 7(1) of the [Gas Act 1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44)), or<br>- (d) a building forming part of an aerodrome. | The Welsh Ministers. |
+| A building which is included in the schedule of monuments maintained under section 3 of the Historic Environment (Wales) Act 2023 or the list of buildings maintained under section 76 of that Act, except—[^c-a0c4168ef20bdac32f7c0668330d6f9c]<br>- (a) a building owned by railway, canal, dock, harbour or inland navigation undertakers,<br>- (b) a building owned by a holder of a licence under section 6 of the [Electricity Act 1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29),<br>- (c) a building owned by a gas transporter (within the meaning given by section 7(1) of the [Gas Act 1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44)), or<br>- (d) a building forming part of an aerodrome. | The Welsh Ministers. |
 | A building owned by railway, canal, dock, harbour or inland navigation undertakers. | The Minister of Transport. |
 | [^c627001]A building owned by electricity or gas undertakers [^M_F_e6babcc7-1932-4d0e-9c9c-191bdbcd72f0].... . .. | The Secretary of State.[^c627002] |
 | A building owned by statutory water undertakers. | The Secretary of State.[^c627003] |
-| A building forming part of an aerodrome licensed under the Civil Aviation Act 1949, or any enactment repealed by that Act , or authorised by a certificate under Commission Regulation ([^key-0eed2c2a680fb66662268be5aa6cdcb6]EU) No 139/2014 of 12 February 2014 laying down requirements and administrative procedures related to aerodromes pursuant to Regulation [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council. | The Board of Trade.[^c627004] |
+| A building forming part of an aerodrome licensed under the Civil Aviation Act 1949, or any enactment repealed by that Act , or authorised by a certificate under Commission Regulation ([^c-0eed2c2a680fb66662268be5aa6cdcb6]EU) No 139/2014 of 12 February 2014 laying down requirements and administrative procedures related to aerodromes pursuant to Regulation [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council. | The Board of Trade.[^c627004] |
 | A building owned by a county council, local authority or parish council or parish meeting who are not the street lighting authority concerned. | The Secretary of State. |
-| A building owned by a development corporation established under the [^c627006]New Towns Act 1946, or the Homes and Communities Agency so far as exercising functions in relation to anything transferred (or to be transferred) to it as mentioned in section 52(1)(a) to (d) of the Housing and Regeneration Act 2008[^key-58c06460246a0fd3d6d5d116fc6ca92b] or the Greater London Authority so far as exercising its new towns and urban development functions.[^key-c899a4912169cc74fd987c133d49ffc3]. | The Secretary of State. |
-| \[[^c627009][^key-69f0b970956edc2046dcc3feca31440c]... | [^key-69f0b970956edc2046dcc3feca31440c]. . . |
+| A building owned by a development corporation established under the [^c627006]New Towns Act 1946, or the Homes and Communities Agency so far as exercising functions in relation to anything transferred (or to be transferred) to it as mentioned in section 52(1)(a) to (d) of the Housing and Regeneration Act 2008[^c-58c06460246a0fd3d6d5d116fc6ca92b] or the Greater London Authority so far as exercising its new towns and urban development functions.[^c-c899a4912169cc74fd987c133d49ffc3]. | The Secretary of State. |
+| \[[^c627009][^c-69f0b970956edc2046dcc3feca31440c]... | [^c-69f0b970956edc2046dcc3feca31440c]. . . |
 
 ## FIFTH SCHEDULE[^c627012][^c627012]
 
@@ -702,7 +702,7 @@ Table
 
 [^c626824]: Textual amendment: Words substituted by [Civic Amenities Act 1967 (c. 69)](https://www.legislation.gov.uk/ukpga/1967/69), [s. 26](https://www.legislation.gov.uk/ukpga/1967/69/section/26)
 
-[^key-7ba0d8fbfbbdee89c897642239df6e43]: Textual amendment: Words in s. 34(5) repealed (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 1](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/1), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
+[^c-7ba0d8fbfbbdee89c897642239df6e43]: Textual amendment: Words in s. 34(5) repealed (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 1](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/1), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
 
 [^c626828]: Modification: The text of s. 35 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -712,23 +712,23 @@ Table
 
     s. 36 modified (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8](https://www.legislation.gov.uk/uksi/1991/2913/article/8), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-b431268c00b2728a03f0a64e70043ba0]: Modification: S. 36 modified (E.) (6.4.2010) by [Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
+[^c-b431268c00b2728a03f0a64e70043ba0]: Modification: S. 36 modified (E.) (6.4.2010) by [Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
 
-[^key-e068826ced12ca52ee894d7f14b37f35]: Modification: S. 36 modified (E.) (6.4.2010) by [Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
+[^c-e068826ced12ca52ee894d7f14b37f35]: Modification: S. 36 modified (E.) (6.4.2010) by [Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
 
-[^key-43ea0effc5fbdf683bbbb9e418293872]: Modification: S. 36 modified (E.) (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
+[^c-43ea0effc5fbdf683bbbb9e418293872]: Modification: S. 36 modified (E.) (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
 
-[^key-7b1d9d85e701a8f698010bb55caf8238]: Modification: S. 36 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-7b1d9d85e701a8f698010bb55caf8238]: Modification: S. 36 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-4b8591dae457ca337bc09ad5c5ee2b3f]: Modification: S. 36 modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-4b8591dae457ca337bc09ad5c5ee2b3f]: Modification: S. 36 modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-b7fb798ce810dd815e3168c81e66e37b]: Modification: S. 36 applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Schs. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-b7fb798ce810dd815e3168c81e66e37b]: Modification: S. 36 applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Schs. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-4ccfe860e7d96b54fcabcd763bcccd1a]: Modification: S. 36 functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-4ccfe860e7d96b54fcabcd763bcccd1a]: Modification: S. 36 functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-7359cf6e1866ce1269b937d409ab9876]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/36) functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-7359cf6e1866ce1269b937d409ab9876]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/36) functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-f10f1d11fa65fc2beb06ee87f13914f8]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/36): functions etc. assigned to the port health authority (E.) (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-f10f1d11fa65fc2beb06ee87f13914f8]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/36): functions etc. assigned to the port health authority (E.) (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
 [^c626829]: Modification: Power to apply conferred by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 68(1)(a)](https://www.legislation.gov.uk/ukpga/1988/50/section/68/1/a)
 
@@ -746,9 +746,9 @@ Table
 
 [^c626838]: Modification: S. 45: functions of the Secretary of State for Transport may be exercised by, or by employees of, such person as may be authorised in that behalf by the Secretary of State for Transport (25.7.1995) by [S.I. 1995/1986](https://www.legislation.gov.uk/uksi/1995/1986), [art. 2](https://www.legislation.gov.uk/uksi/1995/1986/article/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1995/1986/schedule/3/paragraph/5)
 
-[^key-e4fcd0092e85af09aa9338325cfc6bef]: Modification: S. 45 functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 paras. 5(a)](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/5/a)
+[^c-e4fcd0092e85af09aa9338325cfc6bef]: Modification: S. 45 functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 paras. 5(a)](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/5/a)
 
-[^key-5577b8e2faea04d938a7076309f2e154]: Modification: S. 45 modified (18.12.2013) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [ss. 1(3), 3, 4(1)](https://www.legislation.gov.uk/ukla/2013/5/section/4/1)
+[^c-5577b8e2faea04d938a7076309f2e154]: Modification: S. 45 modified (18.12.2013) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [ss. 1(3), 3, 4(1)](https://www.legislation.gov.uk/ukla/2013/5/section/4/1)
 
 [^c626836]: Modification: S. 45 modified by [S.I. 1973/686](https://www.legislation.gov.uk/uksi/1973/686), [art. 3(1)](https://www.legislation.gov.uk/uksi/1973/686/article/3/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1973/686/schedule/3)
 
@@ -760,7 +760,7 @@ Table
 
     S. 45: functions of a local highway authority made exercisable by, or by employees of, such person as may be authorised in that behalf by the local highway authority whose function it is (23.7.1999) by [S.I. 1999/2106](https://www.legislation.gov.uk/uksi/1999/2106), [art. 2 Sch. 3 para. 5(a)](https://www.legislation.gov.uk/uksi/1999/2106/article/2/schedule/3/paragraph/5/a)
 
-[^key-ad7aa24695f55d028e7761f9f9c233a8]: Textual amendment: Words in s. 45(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/45) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-ad7aa24695f55d028e7761f9f9c233a8]: Textual amendment: Words in s. 45(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/45) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c626843]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33)
 
@@ -798,9 +798,9 @@ Table
 
 [^c626868]: Textual amendment: Words in s. 54(4) substituted (1.12.1991) by [Water Consolidation (Consequential provisions) Act 1991 (c. 60, SIF: 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/11/a)
 
-[^key-d12760dadb8ddcf821f8addf2489d248]: Textual amendment: Words in [s. 54(4)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/54/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/27/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d12760dadb8ddcf821f8addf2489d248]: Textual amendment: Words in [s. 54(4)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/54/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/27/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-05a76aa441e17c4a2e29401a8414d09e]: Textual amendment: Words in [s. 54(4)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/54/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 27(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/27/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-05a76aa441e17c4a2e29401a8414d09e]: Textual amendment: Words in [s. 54(4)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/54/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 27(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/27/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c626870]: Marginal citation: [1890 c. 59](https://www.legislation.gov.uk/ukpga/1890/59).
 
@@ -856,23 +856,23 @@ Table
 
     s. 73 modified (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8](https://www.legislation.gov.uk/uksi/1991/2913/article/8), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-bc382ff72e2c22cc452ec1e737af4609]: Modification: S. 73 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-bc382ff72e2c22cc452ec1e737af4609]: Modification: S. 73 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-e348b70e515e22f52d52a064a9168b9d]: Modification: S. 73 applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Schs. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-e348b70e515e22f52d52a064a9168b9d]: Modification: S. 73 applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Schs. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-7e3382ffc804d98746ce3bd39a851dd1]: Modification: S. 73 functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-7e3382ffc804d98746ce3bd39a851dd1]: Modification: S. 73 functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-5e8db4a46a65efde85c68a3391049b02]: Modification: [S. 73](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/73) functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-5e8db4a46a65efde85c68a3391049b02]: Modification: [S. 73](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/73) functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-f90b6ec571362762d223491a5e9df25e]: Modification: [S. 73](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/73): functions etc. assigned to the port health authority (E.) (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-f90b6ec571362762d223491a5e9df25e]: Modification: [S. 73](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/73): functions etc. assigned to the port health authority (E.) (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
-[^key-072556effdd13c22bbb93e38db626f76]: Textual amendment: Word in s. 73(1) substituted (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-072556effdd13c22bbb93e38db626f76]: Textual amendment: Word in s. 73(1) substituted (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
 [^c626942]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
-[^key-165fd988e0e8e703c4e5377d28edbea0]: Textual amendment: Words in s. 73(5) substituted (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3/2) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-165fd988e0e8e703c4e5377d28edbea0]: Textual amendment: Words in s. 73(5) substituted (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3/2) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
-[^key-664dcd37e9bced1f903b2a61916c002a]: Textual amendment: S. 73(6) substituted (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3/3) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-664dcd37e9bced1f903b2a61916c002a]: Textual amendment: S. 73(6) substituted (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3/3) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
 [^c626944]: Marginal citation: [1861 c. 96](https://www.legislation.gov.uk/ukpga/1861/96).
 
@@ -880,7 +880,7 @@ Table
 
 [^c626946]: Textual amendment: S. 75(1)(d) inserted by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [s. 22(1)](https://www.legislation.gov.uk/ukpga/1976/57/section/22/1)
 
-[^key-2ebdcd4c14f73fcc515004cc492c824b]: Textual amendment: S. 75(1A) inserted (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/6) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-2ebdcd4c14f73fcc515004cc492c824b]: Textual amendment: S. 75(1A) inserted (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/6) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
 [^c626947]: Textual amendment: S. 75(4) repealed with saving by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [s. 22(2)](https://www.legislation.gov.uk/ukpga/1976/57/section/22/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/57/schedule/2)
 
@@ -888,27 +888,27 @@ Table
 
 [^c626949]: Marginal citation: [1890 c. 59](https://www.legislation.gov.uk/ukpga/1890/59).
 
-[^key-ffc5e3e853ffd137f44c5377cd5e5747]: Textual amendment: Words in s. 75(8) substituted (7.9.2004 for E. for specified purposes, 1.10.2004 for E. in so far as not already in force, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/16); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-ffc5e3e853ffd137f44c5377cd5e5747]: Textual amendment: Words in s. 75(8) substituted (7.9.2004 for E. for specified purposes, 1.10.2004 for E. in so far as not already in force, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/16); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-5bd5cea73be76b8a5f74ff4e6501ebdd]: Textual amendment: Words in s. 75(8) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/2/a); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-5bd5cea73be76b8a5f74ff4e6501ebdd]: Textual amendment: Words in s. 75(8) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/2/a); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
 [^c626950]: Textual amendment: Words inserted by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [s. 22(3)](https://www.legislation.gov.uk/ukpga/1976/57/section/22/3)
 
-[^key-07358f3faa584dd158a7c3c523f66554]: Textual amendment: [S. 75(8A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/75/8A) inserted (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/4/2)
+[^c-07358f3faa584dd158a7c3c523f66554]: Textual amendment: [S. 75(8A)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/75/8A) inserted (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/4/2)
 
-[^key-dd6d6bc91611db1853fba5f009bd1eab]: Textual amendment: S. 75(9)-(12) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/2/b); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-dd6d6bc91611db1853fba5f009bd1eab]: Textual amendment: S. 75(9)-(12) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/2/b); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
 [^c626952]: Modification: S. 76 extended by [S.I. 1972/971](https://www.legislation.gov.uk/uksi/1972/971) art. 4, Sch. 1
 
-[^key-564e28e653ee77019c3f0e54bb655496]: Textual amendment: Words in s. 76(2) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/3); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-564e28e653ee77019c3f0e54bb655496]: Textual amendment: Words in s. 76(2) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/3); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
 [^c626953]: Textual amendment: S. 76(3) repealed with saving by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [s. 17(5)](https://www.legislation.gov.uk/ukpga/1976/57/section/17/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/57/schedule/2)
 
 [^c626954]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
-[^key-d13731d4fb7096e31b2d37b07d500297]: Textual amendment: Words in s. 77(3) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/4); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-d13731d4fb7096e31b2d37b07d500297]: Textual amendment: Words in s. 77(3) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6/4); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-106c4e2098cf8866f0ab4c86639f9019]: Textual amendment: S. 77(4) inserted (E.) (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/4/3)
+[^c-106c4e2098cf8866f0ab4c86639f9019]: Textual amendment: S. 77(4) inserted (E.) (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/4/3)
 
 [^c626955]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/78) repealed by [Water Act 1981 (c. 12, SIF 130)](https://www.legislation.gov.uk/ukpga/1981/12), [s. 5(2)(4)](https://www.legislation.gov.uk/ukpga/1981/12/section/5/2/4)
 
@@ -922,7 +922,7 @@ Table
 
     [S. 81](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/81): functions of a local highway authority made exercisable by, or by employees of, such person as may be authorised in that behalf by the local highway authority whose function it is (23.7.1999) by [S.I. 1999/2106](https://www.legislation.gov.uk/uksi/1999/2106), [art. 2](https://www.legislation.gov.uk/uksi/1999/2106/article/2), [Sch. 3 para 5(b)](https://www.legislation.gov.uk/uksi/1999/2106/schedule/3/paragraph/5/b)
 
-[^key-76fd58429f98cdc6cf2a3fcabd2c3178]: Modification: [S. 81](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/81) functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 paras. 5(b)](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/5/b)
+[^c-76fd58429f98cdc6cf2a3fcabd2c3178]: Modification: [S. 81](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/81) functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 paras. 5(b)](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/5/b)
 
 [^c626958]: Modification: [S. 81](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/81) extended by [Local Government Act 1966 (c. 42)](https://www.legislation.gov.uk/ukpga/1966/42), [s. 28(4)](https://www.legislation.gov.uk/ukpga/1966/42/section/28/4)
 
@@ -946,7 +946,7 @@ Table
 
 [^c626973]: Marginal citation: [1946 c. 68](https://www.legislation.gov.uk/ukpga/1946/68).
 
-[^key-abdcfc56f54a6d135538ad110b0cdb65]: Textual amendment: [S. 86(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/86/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-abdcfc56f54a6d135538ad110b0cdb65]: Textual amendment: [S. 86(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/section/86/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c626975]: Textual amendment: S. 86(3) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
@@ -968,7 +968,7 @@ Table
 
 [^c626999]: Textual amendment: Entry substituted by virtue of [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/10)
 
-[^key-a0c4168ef20bdac32f7c0668330d6f9c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/schedule/4) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 9](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/9) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-a0c4168ef20bdac32f7c0668330d6f9c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/schedule/4) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 9](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/9) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c627001]: Modification: Entry in table in Sch. 4 amended (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/2/3); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
@@ -978,18 +978,18 @@ Table
 
 [^c627003]: Textual amendment: Words substituted by virtue of (W.) [S.I. 1965/319](https://www.legislation.gov.uk/uksi/1965/319), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1965/319/article/2/1), [10(1)](https://www.legislation.gov.uk/uksi/1965/319/article/10/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1965/319/schedule/1/part/1), (E.) 1970/1681, arts. 2(1), 6(3)
 
-[^key-0eed2c2a680fb66662268be5aa6cdcb6]: Textual amendment: Words in Sch. FOURTH inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/1)
+[^c-0eed2c2a680fb66662268be5aa6cdcb6]: Textual amendment: Words in Sch. FOURTH inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/1)
 
 [^c627004]: Textual amendment: Words substituted by virtue of [S.I. 1966/741](https://www.legislation.gov.uk/uksi/1966/741), [arts. 2](https://www.legislation.gov.uk/uksi/1966/741/article/2), [3(1)](https://www.legislation.gov.uk/uksi/1966/741/article/3/1)
 
 [^c627006]: Marginal citation: [1946 c. 68](https://www.legislation.gov.uk/ukpga/1946/68).
 
-[^key-58c06460246a0fd3d6d5d116fc6ca92b]: Textual amendment: Words in Sch. 4 substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/3); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)[Schs.](https://www.legislation.gov.uk/uksi/2008/3068/schedule))
+[^c-58c06460246a0fd3d6d5d116fc6ca92b]: Textual amendment: Words in Sch. 4 substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/3); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)[Schs.](https://www.legislation.gov.uk/uksi/2008/3068/schedule))
 
-[^key-c899a4912169cc74fd987c133d49ffc3]: Textual amendment: Words in Sch. FOURTH inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/1); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c899a4912169cc74fd987c133d49ffc3]: Textual amendment: Words in Sch. FOURTH inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/1); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
 [^c627009]: Textual amendment: Item inserted by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [Sch. 4 para. 70](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/70)
 
-[^key-69f0b970956edc2046dcc3feca31440c]: Textual amendment: Words in Sch. 4 repealed (12.11.2003) by [Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/1))
+[^c-69f0b970956edc2046dcc3feca31440c]: Textual amendment: Words in Sch. 4 repealed (12.11.2003) by [Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/1))
 
 [^c627012]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/64/schedule/5) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

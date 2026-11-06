@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.4. Verification and filing[^key-c6a13b0e35f98722f48653124fd45b9b]
+## 3.4. Verification and filing[^c-c6a13b0e35f98722f48653124fd45b9b]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a13b0e35f98722f48653124fd45b9b]: Commencement: [Rule 3.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c6a13b0e35f98722f48653124fd45b9b]: Commencement: [Rule 3.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00025]: Marginal citation: \[FORM 3.2\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Power to change National Convener's functions[^key-764b4a25c396384ed3150bc3f333b053]
+## 10. Power to change National Convener's functions[^c-764b4a25c396384ed3150bc3f333b053]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-764b4a25c396384ed3150bc3f333b053]: Commencement: S. 10 in force at 18.4.2011 by [S.S.I. 2011/111](https://www.legislation.gov.uk/ssi/2011/111), [art. 2](https://www.legislation.gov.uk/ssi/2011/111/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/111/schedule)
+[^c-764b4a25c396384ed3150bc3f333b053]: Commencement: S. 10 in force at 18.4.2011 by [S.S.I. 2011/111](https://www.legislation.gov.uk/ssi/2011/111), [art. 2](https://www.legislation.gov.uk/ssi/2011/111/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/111/schedule)

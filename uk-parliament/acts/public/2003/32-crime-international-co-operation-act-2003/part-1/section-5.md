@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. General requirements for effecting Scottish citation etc.[^key-d461ee8e637b500e494255e4fb2d0c92]
+## 5. General requirements for effecting Scottish citation etc.[^c-d461ee8e637b500e494255e4fb2d0c92]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ he must inform the court of that fact, and provide the court with a copy of the 
 
 ## Annotations
 
-[^key-d461ee8e637b500e494255e4fb2d0c92]: Commencement: S. 5 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-d461ee8e637b500e494255e4fb2d0c92]: Commencement: S. 5 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

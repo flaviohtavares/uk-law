@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Requirements that must be met by warrants[^key-c167aa323850aa859e403c0f3896e971]
+## 183. Requirements that must be met by warrants[^c-c167aa323850aa859e403c0f3896e971]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c167aa323850aa859e403c0f3896e971]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2016/25/section/183) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/p)
+[^c-c167aa323850aa859e403c0f3896e971]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2016/25/section/183) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/p)

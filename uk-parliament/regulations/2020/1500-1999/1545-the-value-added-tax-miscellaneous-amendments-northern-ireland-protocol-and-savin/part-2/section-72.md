@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72.[^key-42fbcac1ad9f7bb617345f8bed99662a]
+## 72.[^c-42fbcac1ad9f7bb617345f8bed99662a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Before regulation 132, insert the heading “ Supplies to persons departing from
 
 ## Annotations
 
-[^key-42fbcac1ad9f7bb617345f8bed99662a]: Commencement: Reg. 72 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-42fbcac1ad9f7bb617345f8bed99662a]: Commencement: Reg. 72 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

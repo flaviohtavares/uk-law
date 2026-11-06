@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Mascots[^key-5179f97f2bab27cddf08f4686da18753]
+## 53. Mascots[^c-5179f97f2bab27cddf08f4686da18753]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5179f97f2bab27cddf08f4686da18753]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1986/1078/regulation/53) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-5179f97f2bab27cddf08f4686da18753]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1986/1078/regulation/53) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

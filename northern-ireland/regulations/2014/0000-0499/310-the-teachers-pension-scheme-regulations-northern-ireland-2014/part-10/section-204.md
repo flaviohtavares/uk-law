@@ -27,11 +27,11 @@ summary: ''
 
 (2) The application must—
 
-- (a)[^key-c3da42d221473f4e794daad2615addd6] be made within 12 months after the day on which P enters pensionable service under this scheme;
+- (a)[^c-c3da42d221473f4e794daad2615addd6] be made within 12 months after the day on which P enters pensionable service under this scheme;
 - (b) be by written notice to the Department;
 - (c) specify the pension scheme from which the transfer value will be received; and
 - (d) meet any other conditions the Department requires.
 
 ## Annotations
 
-[^key-c3da42d221473f4e794daad2615addd6]: Modification: [Reg. 204(2)(a)](https://www.legislation.gov.uk/nisr/2014/310/regulation/204/2/a) applied (with modifications) (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/131)](https://www.legislation.gov.uk/nisr/2023/131), [regs. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1), [55](https://www.legislation.gov.uk/nisr/2023/131/regulation/55)
+[^c-c3da42d221473f4e794daad2615addd6]: Modification: [Reg. 204(2)(a)](https://www.legislation.gov.uk/nisr/2014/310/regulation/204/2/a) applied (with modifications) (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/131)](https://www.legislation.gov.uk/nisr/2023/131), [regs. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1), [55](https://www.legislation.gov.uk/nisr/2023/131/regulation/55)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165A. Aviation security requirements[^key-8058846c97280725c24bf366e9698165]
+## 165A. Aviation security requirements[^c-8058846c97280725c24bf366e9698165]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8058846c97280725c24bf366e9698165]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/2013/2870/part/19A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [18](https://www.legislation.gov.uk/uksi/2021/755/article/18)
+[^c-8058846c97280725c24bf366e9698165]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/2013/2870/part/19A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [18](https://www.legislation.gov.uk/uksi/2021/755/article/18)
 
 [^f00008]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

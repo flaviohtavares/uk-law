@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING
 
-The Allocation of Housing Regulations (Northern Ireland) 2004 (revoked)[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]
+The Allocation of Housing Regulations (Northern Ireland) 2004 (revoked)[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]
 
 Made
 
@@ -43,30 +43,30 @@ Coming into operation
 
 1st May 2004
 
-[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]
+## 1. Citation and commencement[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Classes of persons from abroad prescribed under Article 22A(3) who are ineligible persons[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]
+## 2. Classes of persons from abroad prescribed under Article 22A(3) who are ineligible persons[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]
+## 3. Transitional[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation and saving[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]
+## 4. Revocation and saving[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a79c70ef3b6ceb3048ec1d58d69e89e0]: Textual amendment: Regulations revoked (1.11.2006) by [The Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006 (S.R. 2006/397)](https://www.legislation.gov.uk/nisr/2006/397), [reg. 1](https://www.legislation.gov.uk/nisr/2006/397/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/397/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2006/397/regulation/6))
+[^c-a79c70ef3b6ceb3048ec1d58d69e89e0]: Textual amendment: Regulations revoked (1.11.2006) by [The Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006 (S.R. 2006/397)](https://www.legislation.gov.uk/nisr/2006/397), [reg. 1](https://www.legislation.gov.uk/nisr/2006/397/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/397/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2006/397/regulation/6))

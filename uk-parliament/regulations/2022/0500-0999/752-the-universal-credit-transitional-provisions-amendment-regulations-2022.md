@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 172(1) of the Social Security Administration Act 1992[^f00002] the Secretary of State has referred proposals in respect of these Regulations to the Social Security Advisory Committee.
 
-## 1. Citation, commencement, extent and interpretation[^key-123289d915f471301652d413589cef16]
+## 1. Citation, commencement, extent and interpretation[^c-123289d915f471301652d413589cef16]
 
 (1) These Regulations may be cited as the Universal Credit (Transitional Provisions) Amendment Regulations 2022 and come into force on 25th July 2022.
 
@@ -56,15 +56,15 @@ In accordance with section 172(1) of the Social Security Administration Act 1992
 
 (3) In these Regulations “Transitional Provisions Regulations” means the Universal Credit (Transitional Provisions) Regulations 2014[^f00003].
 
-## 2. Abolition of the Secretary of State discretion to determine that claims for universal credit may not be made[^key-4f2375f58bf0fdb1a21f922b0037c648]
+## 2. Abolition of the Secretary of State discretion to determine that claims for universal credit may not be made[^c-4f2375f58bf0fdb1a21f922b0037c648]
 
 Regulation 4 of the Transitional Provisions Regulations (Secretary of State discretion to determine that claims for universal credit may not be made) is revoked.
 
-## 3. Exclusion of claims for certain existing benefits[^key-003855d078813129efffab755cc507e0]
+## 3. Exclusion of claims for certain existing benefits[^c-003855d078813129efffab755cc507e0]
 
 Regulation 6 of the Transitional Provisions Regulations (exclusion of claims for certain existing benefits) is revoked.
 
-## 4. Restriction on claims for housing benefit, income support or a tax credit[^key-adfdf3160d217e5b106b2b4f2884758c]
+## 4. Restriction on claims for housing benefit, income support or a tax credit[^c-adfdf3160d217e5b106b2b4f2884758c]
 
 Before regulation 7 of the Transitional Provisions Regulations (termination of awards of certain existing benefits: new claimant partners) insert—
 
@@ -96,7 +96,7 @@ Before regulation 7 of the Transitional Provisions Regulations (termination of a
 
 .
 
-## 5. Termination of existing benefits – removal of requirement for Secretary of State to determine that the basic conditions are met[^key-345be4432ee86ad8e511418b0e40ef9a]
+## 5. Termination of existing benefits – removal of requirement for Secretary of State to determine that the basic conditions are met[^c-345be4432ee86ad8e511418b0e40ef9a]
 
 (1) The Transitional Provisions Regulations are amended as follows.
 
@@ -125,7 +125,7 @@ Before regulation 7 of the Transitional Provisions Regulations (termination of a
 - (a) at the end of sub-paragraph (a) insert “and”; and
 - (b) omit sub-paragraph (c) and the “and” preceding it.
 
-## 6. Managed migration - persons who claim as a different benefit unit[^key-5b9fa3088390ec51b243babb56f942eb]
+## 6. Managed migration - persons who claim as a different benefit unit[^c-5b9fa3088390ec51b243babb56f942eb]
 
 (1) Regulation 47 of the Transitional Provisions Regulations (notified persons who claim as a different benefit unit) is revoked.
 
@@ -139,7 +139,7 @@ Before regulation 7 of the Transitional Provisions Regulations (termination of a
 
 .
 
-## 7. Managed migration – adjustment to transitional element where other elements increase[^key-b42ba63161cd8583cfd50aae9707108d]
+## 7. Managed migration – adjustment to transitional element where other elements increase[^c-b42ba63161cd8583cfd50aae9707108d]
 
 (1) Regulation 55 (the transitional element – initial amount and adjustment where other elements increase) of the Transitional Provisions Regulations is amended as follows.
 
@@ -153,7 +153,7 @@ Before regulation 7 of the Transitional Provisions Regulations (termination of a
 
 .
 
-## 8. Managed migration – protection for full-time students[^key-ae49ddbd2c329a0b5b6e09bf140d5f1d]
+## 8. Managed migration – protection for full-time students[^c-ae49ddbd2c329a0b5b6e09bf140d5f1d]
 
 In regulation 60 of the Transitional Provisions Regulations (protection for full-time students until course completed) the existing text becomes paragraph (1) and after paragraph (1) insert—
 
@@ -161,15 +161,15 @@ In regulation 60 of the Transitional Provisions Regulations (protection for full
 
 .
 
-## 9. Abolition of discretionary hardship payments[^key-f3cb2ffb6371da8a749e324bb3fc46e1]
+## 9. Abolition of discretionary hardship payments[^c-f3cb2ffb6371da8a749e324bb3fc46e1]
 
 Regulation 64 of the Transitional Provisions Regulations (discretionary hardship payments) is revoked.
 
-## 10. Managed migration - abolition of the limit on number of cases migrated[^key-bfff9cf21bf2283d6f519898f5c6de9e]
+## 10. Managed migration - abolition of the limit on number of cases migrated[^c-bfff9cf21bf2283d6f519898f5c6de9e]
 
 Regulation 2 of the Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (Managed migration pilot: limit on the number of cases migrated)[^f00009] is revoked.
 
-## 11. Consequential amendments[^key-57f2425b5e8040a13ee37be025a30fd1]
+## 11. Consequential amendments[^c-57f2425b5e8040a13ee37be025a30fd1]
 
 The Schedule contains consequential amendments.
 
@@ -187,7 +187,7 @@ At 10.30 a.m. on 4th July 2022
 
 Regulation 11
 
-**1.**[^key-c7dc4afb26123840f0d9ceffd2014475] (1) The Transitional Provisions Regulations are amended as follows.
+**1.**[^c-c7dc4afb26123840f0d9ceffd2014475] (1) The Transitional Provisions Regulations are amended as follows.
 
 (2) In regulation 2 (interpretation) in paragraph (4) omit the reference to “and regulation 47 (notified persons who claim as a different benefit unit)”.
 
@@ -208,15 +208,15 @@ Regulation 11
 
 (9) In regulation 58[^f00014] (qualifying claim – Secretary of State may set later commencement day) omit “or 47(4)”.
 
-**2.**[^key-ee30cea117e794b6b1fbd7765d4431ed] (1) The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013[^f00015] is amended as follows.
+**2.**[^c-ee30cea117e794b6b1fbd7765d4431ed] (1) The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013[^f00015] is amended as follows.
 
 (2) Article 5A (transitional provision where Secretary of State determines that claims for universal credit may not be made: effect on claims for employment and support allowance and jobseeker’s allowance) is revoked.
 
 (3) In article 6 (transitional provision: where the abolition of income-related employment and support allowance and income-based jobseeker’s allowance is treated as not applying) omit paragraph (1)(e)(ii) and the “or” preceding it.
 
-**3.**[^key-79a8acc7654f9d48f1f52dd820406c28] Article 6 of the Welfare Reform Act 2012 (Commencement No. 21 and Transitional and Transitory Provisions) Order 2015[^f00016] is revoked.
+**3.**[^c-79a8acc7654f9d48f1f52dd820406c28] Article 6 of the Welfare Reform Act 2012 (Commencement No. 21 and Transitional and Transitory Provisions) Order 2015[^f00016] is revoked.
 
-**4.**[^key-906e0641030a0b5b5ba1b1135d9009f2] (1) The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions and Commencement No. 21 and 23 and Transitional and Transitory Provisions (Amendment)) Order 2019[^f00017] is amended as follows.
+**4.**[^c-906e0641030a0b5b5ba1b1135d9009f2] (1) The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions and Commencement No. 21 and 23 and Transitional and Transitory Provisions (Amendment)) Order 2019[^f00017] is amended as follows.
 
 (2) In paragraph (3) of article 2 (interpretation) omit “and article 8(2)(b)”.
 
@@ -226,9 +226,9 @@ Regulation 11
 
 (5) Article 8 (transitional provision: where restrictions on claims for universal credit are in place) is revoked.
 
-**5.**[^key-0f4a9bb6bb4f72ecd3ff88e1b0af1c4f] Article 6 of the Welfare Reform Act 2012 (Commencement No. 20 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2014[^f00018] (transitory provision: claims for housing benefit, income support or a tax credit) is revoked.
+**5.**[^c-0f4a9bb6bb4f72ecd3ff88e1b0af1c4f] Article 6 of the Welfare Reform Act 2012 (Commencement No. 20 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2014[^f00018] (transitory provision: claims for housing benefit, income support or a tax credit) is revoked.
 
-**6.**[^key-fdae1352e3b27a6e0360e9e62e73162f] Article 7 of the Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015[^f00019] (transitional provision: claims for housing benefit, income support or a tax credit) is revoked.
+**6.**[^c-fdae1352e3b27a6e0360e9e62e73162f] Article 7 of the Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015[^f00019] (transitional provision: claims for housing benefit, income support or a tax credit) is revoked.
 
 EXPLANATORY NOTE
 
@@ -266,15 +266,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-123289d915f471301652d413589cef16]: Commencement: Reg. 1 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-123289d915f471301652d413589cef16]: Commencement: Reg. 1 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230). The relevant amending instruments are [S.I. 2014/1626](https://www.legislation.gov.uk/uksi/2014/1626), [2014/2887](https://www.legislation.gov.uk/uksi/2014/2887), [2015/1780](https://www.legislation.gov.uk/uksi/2015/1780), [2017/781](https://www.legislation.gov.uk/uksi/2017/781), [2018/65](https://www.legislation.gov.uk/uksi/2018/65), [2019/1152](https://www.legislation.gov.uk/uksi/2019/1152) and [2020/655](https://www.legislation.gov.uk/uksi/2020/655).
 
-[^key-4f2375f58bf0fdb1a21f922b0037c648]: Commencement: Reg. 2 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-4f2375f58bf0fdb1a21f922b0037c648]: Commencement: Reg. 2 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
-[^key-003855d078813129efffab755cc507e0]: Commencement: Reg. 3 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-003855d078813129efffab755cc507e0]: Commencement: Reg. 3 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
-[^key-adfdf3160d217e5b106b2b4f2884758c]: Commencement: Reg. 4 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-adfdf3160d217e5b106b2b4f2884758c]: Commencement: Reg. 4 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2013/381](https://www.legislation.gov.uk/uksi/2013/381). Schedule 1 paragraph 26 was substituted by [S.I. 2020/655](https://www.legislation.gov.uk/uksi/2020/655).
 
@@ -284,25 +284,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: )[S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014).
 
-[^key-345be4432ee86ad8e511418b0e40ef9a]: Commencement: Reg. 5 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-345be4432ee86ad8e511418b0e40ef9a]: Commencement: Reg. 5 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
-[^key-5b9fa3088390ec51b243babb56f942eb]: Commencement: Reg. 6 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-5b9fa3088390ec51b243babb56f942eb]: Commencement: Reg. 6 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
-[^key-b42ba63161cd8583cfd50aae9707108d]: Commencement: Reg. 7 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-b42ba63161cd8583cfd50aae9707108d]: Commencement: Reg. 7 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00008]: Footnote: The LCW element was abolished from 3rd April 2017 by [S.I. 2017/204](https://www.legislation.gov.uk/uksi/2017/204) but is saved for certain claimants by transitional provisions as set out in Schedule 2 to [S.I. 2017/204](https://www.legislation.gov.uk/uksi/2017/204).
 
-[^key-ae49ddbd2c329a0b5b6e09bf140d5f1d]: Commencement: Reg. 8 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-ae49ddbd2c329a0b5b6e09bf140d5f1d]: Commencement: Reg. 8 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
-[^key-f3cb2ffb6371da8a749e324bb3fc46e1]: Commencement: Reg. 9 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-f3cb2ffb6371da8a749e324bb3fc46e1]: Commencement: Reg. 9 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
-[^key-bfff9cf21bf2283d6f519898f5c6de9e]: Commencement: Reg. 10 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-bfff9cf21bf2283d6f519898f5c6de9e]: Commencement: Reg. 10 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152).
 
-[^key-57f2425b5e8040a13ee37be025a30fd1]: Commencement: Reg. 11 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-57f2425b5e8040a13ee37be025a30fd1]: Commencement: Reg. 11 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
-[^key-c7dc4afb26123840f0d9ceffd2014475]: Commencement: Sch. para. 1 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-c7dc4afb26123840f0d9ceffd2014475]: Commencement: Sch. para. 1 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00010]: Footnote: Regulation 8A was inserted by [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65) and amended by [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152).
 
@@ -314,22 +314,22 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00014]: Footnote: Regulation 58 was inserted by [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152).
 
-[^key-ee30cea117e794b6b1fbd7765d4431ed]: Commencement: Sch. para. 2 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-ee30cea117e794b6b1fbd7765d4431ed]: Commencement: Sch. para. 2 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2013/983 (C. 41)](https://www.legislation.gov.uk/uksi/2013/983), as amended by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452), [2014/2321 (C. 99)](https://www.legislation.gov.uk/uksi/2014/2321), [2015/634 (C. 32)](https://www.legislation.gov.uk/uksi/2015/634), [2017/483 (C. 44)](https://www.legislation.gov.uk/uksi/2017/483), [2019/10](https://www.legislation.gov.uk/uksi/2019/10), [2019/27](https://www.legislation.gov.uk/uksi/2019/27), [2019/167 (C. 6)](https://www.legislation.gov.uk/uksi/2019/167) and [2022/302 (C. 12)](https://www.legislation.gov.uk/uksi/2022/302).
 
-[^key-79a8acc7654f9d48f1f52dd820406c28]: Commencement: Sch. para. 3 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-79a8acc7654f9d48f1f52dd820406c28]: Commencement: Sch. para. 3 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2015/33 (C. 4)](https://www.legislation.gov.uk/uksi/2015/33) as amended by [S.I. 2015/634 (C. 32)](https://www.legislation.gov.uk/uksi/2015/634), [2015/740 (C. 39)](https://www.legislation.gov.uk/uksi/2015/740), [2017/483 (C. 44)](https://www.legislation.gov.uk/uksi/2017/483), [2018/138 (C. 13)](https://www.legislation.gov.uk/uksi/2018/138), [2019/10](https://www.legislation.gov.uk/uksi/2019/10), [2019/27](https://www.legislation.gov.uk/uksi/2019/27), [2019/37 (C. 1)](https://www.legislation.gov.uk/uksi/2019/37), [2019/167 (C. 6)](https://www.legislation.gov.uk/uksi/2019/167) and [2022/302 (C. 12)](https://www.legislation.gov.uk/uksi/2022/302).
 
-[^key-906e0641030a0b5b5ba1b1135d9009f2]: Commencement: Sch. para. 4 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-906e0641030a0b5b5ba1b1135d9009f2]: Commencement: Sch. para. 4 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2019/37 (C. 1)](https://www.legislation.gov.uk/uksi/2019/37) as amended by [S.I. 2019/935 (C. 25)](https://www.legislation.gov.uk/uksi/2019/935), [2020/655](https://www.legislation.gov.uk/uksi/2020/655) and [2022/302 (C. 12)](https://www.legislation.gov.uk/uksi/2022/302).
 
-[^key-0f4a9bb6bb4f72ecd3ff88e1b0af1c4f]: Commencement: Sch. para. 5 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-0f4a9bb6bb4f72ecd3ff88e1b0af1c4f]: Commencement: Sch. para. 5 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2014/3094 (C. 133)](https://www.legislation.gov.uk/uksi/2014/3094).
 
-[^key-fdae1352e3b27a6e0360e9e62e73162f]: Commencement: Sch. para. 6 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
+[^c-fdae1352e3b27a6e0360e9e62e73162f]: Commencement: Sch. para. 6 in force at 25.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 2015/634 (C. 32)](https://www.legislation.gov.uk/uksi/2015/634), as amended by [S.I. 2015/740](https://www.legislation.gov.uk/uksi/2015/740), [2017/376](https://www.legislation.gov.uk/uksi/2017/376), [2018/138](https://www.legislation.gov.uk/uksi/2018/138), [2019/10](https://www.legislation.gov.uk/uksi/2019/10), [2019/27](https://www.legislation.gov.uk/uksi/2019/27), [2019/37 (C. 1)](https://www.legislation.gov.uk/uksi/2019/37), [2019/167 (C. 6)](https://www.legislation.gov.uk/uksi/2019/167) and [2022/302 (C. 12)](https://www.legislation.gov.uk/uksi/2022/302).

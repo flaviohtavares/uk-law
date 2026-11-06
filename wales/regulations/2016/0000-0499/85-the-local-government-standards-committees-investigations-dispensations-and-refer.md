@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales by sections 53(11)[^f00001] and (12), 56(5), 73(1), 81(5)[^f00002], 105(1) and (2) and 106 of the Local Government Act 2000[^f00003] and now vested in them[^f00004], make the following Regulations:
 
-## 1. Title, commencement and application[^key-996bd916e2eb997e34188c1a0d74f9bf]
+## 1. Title, commencement and application[^c-996bd916e2eb997e34188c1a0d74f9bf]
 
 (1) The title of these Regulations is the Local Government (Standards Committees, Investigations, Dispensations and Referral) (Wales) (Amendment) Regulations 2016 and they come into force on 1 April 2016.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendments to the Standards Committees (Wales) Regulations 2001[^key-a28dbb7ccb47508f78d581f98ed7acaa]
+## 2. Amendments to the Standards Committees (Wales) Regulations 2001[^c-a28dbb7ccb47508f78d581f98ed7acaa]
 
 (1) The Standards Committees (Wales) Regulations 2001[^f00005] are amended as follows.
 
@@ -188,7 +188,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 >
 > A person who is a member of a standards committee on the date on which the Local Government (Standards Committees, Investigations, Dispensations and Referral) (Wales) (Amendment) Regulations 2016 come into force may, if the relevant authority so determines, continue in office until the date of the next ordinary local government elections, unless that person ceases to be a member of the relevant authority concerned before the date of those elections.
 
-## 3. Amendments to the Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^key-4888d350d708e366411bfe848cb6fe9e]
+## 3. Amendments to the Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^c-4888d350d708e366411bfe848cb6fe9e]
 
 (1) The Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001 are amended as follows.
 
@@ -321,7 +321,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 - (a) for “the deputy president” substitute “a nominated panel member”;
 - (b) for “or deputy president” substitute “or the nominated panel member”.
 
-## 4. Amendments to the Standards Committees (Grant of Dispensations) (Wales) Regulations 2001[^key-b878daaeec5d075d175004a0e5269e69]
+## 4. Amendments to the Standards Committees (Grant of Dispensations) (Wales) Regulations 2001[^c-b878daaeec5d075d175004a0e5269e69]
 
 (1) The Standards Committees (Grant of Dispensations) (Wales) Regulations 2001[^f00009] are amended as follows.
 
@@ -463,9 +463,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: The functions of the National Assembly for Wales under sections 53, 56, 73, 81, 105 and 106 were transferred to the Welsh Ministers under section 162 and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-996bd916e2eb997e34188c1a0d74f9bf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/85/regulation/1) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
+[^c-996bd916e2eb997e34188c1a0d74f9bf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/85/regulation/1) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
 
-[^key-a28dbb7ccb47508f78d581f98ed7acaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/85/regulation/2) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
+[^c-a28dbb7ccb47508f78d581f98ed7acaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/85/regulation/2) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2001/2283 (W. 172)](https://www.legislation.gov.uk/wsi/2001/2283).
 
@@ -475,8 +475,8 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [S.I. 2001/2281 (W. 171)](https://www.legislation.gov.uk/wsi/2001/2281), as amended by these Regulations.
 
-[^key-4888d350d708e366411bfe848cb6fe9e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/85/regulation/3) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
+[^c-4888d350d708e366411bfe848cb6fe9e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/85/regulation/3) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
 
-[^key-b878daaeec5d075d175004a0e5269e69]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/85/regulation/4) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
+[^c-b878daaeec5d075d175004a0e5269e69]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/85/regulation/4) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/85/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2001/2279 (W. 169)](https://www.legislation.gov.uk/wsi/2001/2279).

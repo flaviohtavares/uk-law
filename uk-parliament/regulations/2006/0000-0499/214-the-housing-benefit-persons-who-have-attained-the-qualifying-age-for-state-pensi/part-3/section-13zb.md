@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 13ZB. Change in reckonable rent[^key-c98ea4f114114b88cb076cfce0376ae1]
+## 13ZB. Change in reckonable rent[^c-c98ea4f114114b88cb076cfce0376ae1]
 
 (1) In a case where—
 
@@ -35,4 +35,4 @@ the maximum rent shall be reduced to an amount equal to the reduced reckonable r
 
 ## Annotations
 
-[^key-c98ea4f114114b88cb076cfce0376ae1]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2869/regulation/6)
+[^c-c98ea4f114114b88cb076cfce0376ae1]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2869/regulation/6)

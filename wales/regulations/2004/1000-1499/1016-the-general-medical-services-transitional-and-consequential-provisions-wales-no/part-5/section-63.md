@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Withdrawal of approval of out of hours arrangements under general medical services contracts and default contracts[^key-2ef365fe441babb6ebbfa57de2cf8b79]
+## 63. Withdrawal of approval of out of hours arrangements under general medical services contracts and default contracts[^c-2ef365fe441babb6ebbfa57de2cf8b79]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the withdrawal shall take effect as a withdrawal of approval under the term of t
 
 ## Annotations
 
-[^key-2ef365fe441babb6ebbfa57de2cf8b79]: Commencement: Art. 63 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-2ef365fe441babb6ebbfa57de2cf8b79]: Commencement: Art. 63 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

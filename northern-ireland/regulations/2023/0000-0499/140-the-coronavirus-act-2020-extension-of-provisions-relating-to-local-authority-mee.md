@@ -40,11 +40,11 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020[^f00001].
 
-## 1. Citation[^key-f332f163e39521949cf5996273234f59]
+## 1. Citation[^c-f332f163e39521949cf5996273234f59]
 
 This Order may be cited as the Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Meetings) (No. 3) Order (Northern Ireland) 2023.
 
-## 2. Extension of expiry date[^key-e0ff4697f1a232f38760deb7c56539b1]
+## 2. Extension of expiry date[^c-e0ff4697f1a232f38760deb7c56539b1]
 
 Section 78 of the Coronavirus Act 2020[^f00002] does not expire at the time when it would otherwise expire and expires instead on 24th March 2024.
 
@@ -72,8 +72,8 @@ The Department makes this Order to extend the expiry date of section 78 of the A
 
 [^f00001]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7)
 
-[^key-f332f163e39521949cf5996273234f59]: Commencement: Art. 1 in operation at made date
+[^c-f332f163e39521949cf5996273234f59]: Commencement: Art. 1 in operation at made date
 
-[^key-e0ff4697f1a232f38760deb7c56539b1]: Commencement: Art. 2 in operation at made date
+[^c-e0ff4697f1a232f38760deb7c56539b1]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: As amended by [2021 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2021/8) (section 1(1))

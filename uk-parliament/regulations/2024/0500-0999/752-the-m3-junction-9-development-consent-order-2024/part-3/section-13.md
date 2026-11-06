@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Application of the 1991 Act[^key-1dceaa5d8d6344b625223c6de4df2167]
+## 13. Application of the 1991 Act[^c-1dceaa5d8d6344b625223c6de4df2167]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-1dceaa5d8d6344b625223c6de4df2167]: Commencement: Art. 13 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-1dceaa5d8d6344b625223c6de4df2167]: Commencement: Art. 13 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00032]: Footnote: Section 86(3) defines what highway works are major highway works.
 

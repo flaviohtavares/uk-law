@@ -47,26 +47,26 @@ The Marriage (Northern Ireland) Order 2003[^M_C_84a58f9d-0e58-47d1-ff2f-6545a04c
 
 (2) In this Order—
 
-- “[^key-071d9312bb8aac390f231032bbe8e7ff]2014 Act” means the Immigration Act 2014;
+- “[^c-071d9312bb8aac390f231032bbe8e7ff]2014 Act” means the Immigration Act 2014;
 - “civil marriage” means a marriage solemnised by a person appointed under Article 31;
 - “the Department” means the Department of Finance and Personnel;
 - “district” means a registration district within the meaning of Article 30(1);
-- “governing authority”, in relation to a religious body, has the meaning given by Article 9A;[^key-52b8b7b9ad3740275870f6f0e18b778d]
+- “governing authority”, in relation to a religious body, has the meaning given by Article 9A;[^c-52b8b7b9ad3740275870f6f0e18b778d]
 - “marriage notice” has the meaning given by Article 3(2);
 - “marriage notice book” has the meaning given by Article 4(2);
 - “medical practitioner” means a fully registered person within the meaning of the Medical Act 1983 (c. 54);
 - “officiant” means a person registered under Article 11 or temporarily authorised under Article 14;
 - “prescribed”, except in relation to a fee, means prescribed by regulations and in relation to a fee means prescribed by order under Article 37;
 - “registrar”, except in Article 8, has the meaning given by Article 3(2);
-- “regulations” means , other than in Articles 3A to 3E,[^key-d5afd4950740a132f8a319387eb3118f] regulations made by the Department;
-- “relevant national” means—[^key-6aba55bb386b3f5da286c0da06b34324]
+- “regulations” means , other than in Articles 3A to 3E,[^c-d5afd4950740a132f8a319387eb3118f] regulations made by the Department;
+- “relevant national” means—[^c-6aba55bb386b3f5da286c0da06b34324]
   - (a) a British citizen,
-  - (aa) an Irish citizen, or[^key-c0fba6e9c419333a3068d21f87cdd22c]
+  - (aa) an Irish citizen, or[^c-c0fba6e9c419333a3068d21f87cdd22c]
   - (ab) a person who is not an Irish citizen and who—
     - (i) has leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules within the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020, or
     - (ii) is an applicant for the purposes of regulation 4 of the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (applications which have not been finally determined by the deadline) where the relevant period within the meaning of that regulation has not expired;
-  - (b) [^key-4828fa47752eb36e68d4cb5bf4491ab8]...
-  - (c) [^key-4828fa47752eb36e68d4cb5bf4491ab8]...
+  - (b) [^c-4828fa47752eb36e68d4cb5bf4491ab8]...
+  - (c) [^c-4828fa47752eb36e68d4cb5bf4491ab8]...
 - “religious body” means an organised group of people meeting regularly for common religious worship;
 - “religious marriage” means a marriage solemnised by an officiant;
 - “statutory provision” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33);
@@ -95,7 +95,7 @@ The Marriage (Northern Ireland) Order 2003[^M_C_84a58f9d-0e58-47d1-ff2f-6545a04c
 - (a) in person;
 - (b) to either the registrar referred to in paragraph (2) or such other registrar as may be prescribed.
 
-### 3A. Additional information if party not relevant national[^key-cbf6570a4205978b33d27c636baa6c06]
+### 3A. Additional information if party not relevant national[^c-cbf6570a4205978b33d27c636baa6c06]
 
 (1) This Article applies to a marriage notice given to a registrar in accordance with Article 3 if one, or each, of the parties to the proposed marriage is not a relevant national.
 
@@ -126,7 +126,7 @@ The Marriage (Northern Ireland) Order 2003[^M_C_84a58f9d-0e58-47d1-ff2f-6545a04c
 - (b) if the notice is accompanied by statement D for a party to the proposed marriage, the person may provide the registrar with details of his immigration position in the United Kingdom; and
 - (c) if any such details are provided, the registrar shall record them.
 
-(9)[^key-b3b12080bf72f95b9ec2289a713cc5ca] In this Article and Article 3B—
+(9)[^c-b3b12080bf72f95b9ec2289a713cc5ca] In this Article and Article 3B—
 
 - (a) a reference—
   - (i) to a person having the appropriate immigration status, or
@@ -218,7 +218,7 @@ the registrar shall decide that that party to the proposed marriage is not an ex
 
 (2) In this Order “marriage notice book” means the record kept under paragraph (1).
 
-(2A)[^key-6480b5a09ec6e10fa80482f995f1edaf] But the registrar shall not enter the particulars relating to a marriage in the marriage notice book in a case where any of the following requirements is applicable but not complied with—
+(2A)[^c-6480b5a09ec6e10fa80482f995f1edaf] But the registrar shall not enter the particulars relating to a marriage in the marriage notice book in a case where any of the following requirements is applicable but not complied with—
 
 - (a) a requirement imposed by or under any of the following provisions of this Order—
   - (i) Article 3A(2) to (7);
@@ -284,9 +284,9 @@ as may be specified in guidance issued by the Registrar General.
 
 - (a) that marriage would be void by virtue of Article 18 of the Family Law (Miscellaneous Provisions) (Northern Ireland) Order 1984 (NI 14) (prohibited degrees of relationship);
 - (b) one of the parties is, or both are, already married or a civil partner[^c17055691];
-- (c) one or both of the parties will be under the age of 16 on the date of solemnisation of the intended marriage; or[^key-28421b9150464ff5cd297965a41fd665]
-- (d) one or both of the parties is or are incapable of understanding the nature of a marriage ceremony or of consenting to marriage; [^key-903613d24c97ed047deba86a96af0402]...
-- (e)[^key-903613d24c97ed047deba86a96af0402] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) one or both of the parties will be under the age of 16 on the date of solemnisation of the intended marriage; or[^c-28421b9150464ff5cd297965a41fd665]
+- (d) one or both of the parties is or are incapable of understanding the nature of a marriage ceremony or of consenting to marriage; [^c-903613d24c97ed047deba86a96af0402]...
+- (e)[^c-903613d24c97ed047deba86a96af0402] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) An objection on the ground mentioned in paragraph (6)(d) shall be accompanied by a supporting certificate signed by a medical practitioner.
 
@@ -302,7 +302,7 @@ as may be specified in guidance issued by the Registrar General.
 - (b) during such period as may be prescribed; and
 - (c) to one or both of the parties to the intended marriage.
 
-(3) Subject to paragraphs (4) to (7)[^key-0d28cbb32d40dd3b86eb4cc35c482eac] , a religious marriage may be solemnised only on the date, by the officiant and at the place specified in the marriage schedule.
+(3) Subject to paragraphs (4) to (7)[^c-0d28cbb32d40dd3b86eb4cc35c482eac] , a religious marriage may be solemnised only on the date, by the officiant and at the place specified in the marriage schedule.
 
 (4) Paragraph (3) shall not impose any obligation on an officiant to solemnise a marriage.
 
@@ -310,9 +310,9 @@ as may be specified in guidance issued by the Registrar General.
 
 (6) Regulations may make provision for any case in which for any reason a marriage cannot be solemnised in accordance with the marriage schedule.
 
-(7)[^key-80a75ea3d75c495462e6fb873e36d41a] Paragraph (3), and regulations under paragraph (5) or (6), have effect subject to Article 15(3) to (5).
+(7)[^c-80a75ea3d75c495462e6fb873e36d41a] Paragraph (3), and regulations under paragraph (5) or (6), have effect subject to Article 15(3) to (5).
 
-### 7A. Marriage notice: false information or evidence[^key-18dcb0787e0f727e3dd7efc15242411a]
+### 7A. Marriage notice: false information or evidence[^c-18dcb0787e0f727e3dd7efc15242411a]
 
 (1) A registrar may refuse to complete a marriage schedule under Article 7 (or where one has already been completed, may cancel it) in a case where—
 
@@ -362,11 +362,11 @@ A marriage may be solemnised only by—
 - (a) an officiant; or
 - (b) a person appointed under Article 31.
 
-[^key-7cd29d4346b78abadc509d07eaeb9b7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cd29d4346b78abadc509d07eaeb9b7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Religious marriages
 
-### 9A. Governing authority of a religious body[^key-7ff150bb56f95400e9cf2ee21fa419bd]
+### 9A. Governing authority of a religious body[^c-7ff150bb56f95400e9cf2ee21fa419bd]
 
 (1) In this Order “governing authority”—
 
@@ -386,7 +386,7 @@ A marriage may be solemnised only by—
 
 (1) A religious body may apply to the Registrar General for a member named in the application and aged 21 or over to be registered under Article 11 as empowered to solemnise marriages in Northern Ireland.
 
-(1A)[^key-9a26329839f58be345d73c5743aca11d] The application must state whether it is for the member named in it to be registered under Article 11—
+(1A)[^c-9a26329839f58be345d73c5743aca11d] The application must state whether it is for the member named in it to be registered under Article 11—
 
 - (a) for marriages of parties who are not of the same sex,
 - (b) for marriages of parties who are of the same sex, or
@@ -413,14 +413,14 @@ the application operates as an application for registration additionally for mar
 (2) The Registrar General shall refuse to register a person under Article 11 if he considers that—
 
 - (a) the body making the application is not a religious body;
-- (b) [^key-8cf5618137456350e80e5f8d43d44dcb]...or
+- (b) [^c-8cf5618137456350e80e5f8d43d44dcb]...or
 - (c) the person named in the application is not a fit and proper person to solemnise a marriage.
 
-(2A)[^key-f8599acdc66ef4a78429ae6c54e4b8dc] The Registrar General must refuse to register a member of a religious body under Article 11 for marriages of parties who are not of the same sex if the Registrar General considers that the marriage ceremony used by that body for marriages of that description does not include, or is inconsistent with, an appropriate declaration.
+(2A)[^c-f8599acdc66ef4a78429ae6c54e4b8dc] The Registrar General must refuse to register a member of a religious body under Article 11 for marriages of parties who are not of the same sex if the Registrar General considers that the marriage ceremony used by that body for marriages of that description does not include, or is inconsistent with, an appropriate declaration.
 
 (2B) The Registrar General must refuse to register a member of a religious body under Article 11 for marriages of parties who are of the same sex if the Registrar General considers that the marriage ceremony used by that body for marriages of that description does not include, or is inconsistent with, an appropriate declaration.
 
-(3) In paragraph (2A)[^key-727b23cade2f32665e2bc16f43c0ec4b] an “appropriate declaration” means a declaration by the parties, in the presence of—
+(3) In paragraph (2A)[^c-727b23cade2f32665e2bc16f43c0ec4b] an “appropriate declaration” means a declaration by the parties, in the presence of—
 
 - (a) each other;
 - (b) the officiant; and
@@ -428,7 +428,7 @@ the application operates as an application for registration additionally for mar
 
 that they accept each other as husband and wife.
 
-(3A)[^key-c54c35db9e4527eba969cc37aac82189] In paragraph (2B) an “appropriate declaration” means a declaration by the parties, in the presence of—
+(3A)[^c-c54c35db9e4527eba969cc37aac82189] In paragraph (2B) an “appropriate declaration” means a declaration by the parties, in the presence of—
 
 - (a) each other;
 - (b) the officiant; and
@@ -448,9 +448,9 @@ that they accept each other as husband and husband *or* as wife and wife.
 
 (2) The register kept under this Article shall be open to inspection by members of the public at all reasonable times.
 
-(3) The Registrar General shall register a person in respect of whom an application is made under Article 10, except as provided by paragraphs (1C) and[^key-29baa71cc2594d2f8db1413d03979f65] (2) of that Article.
+(3) The Registrar General shall register a person in respect of whom an application is made under Article 10, except as provided by paragraphs (1C) and[^c-29baa71cc2594d2f8db1413d03979f65] (2) of that Article.
 
-(3A)[^key-eab566957f619920b48218a1760d218a] The registration of a person under this Article must indicate—
+(3A)[^c-eab566957f619920b48218a1760d218a] The registration of a person under this Article must indicate—
 
 - (a) whether the person is, or is not, registered for marriages of parties who are not of the same sex;
 - (b) whether the person is, or is not, registered for marriages of parties who are of the same sex.
@@ -470,8 +470,8 @@ and the Registrar General shall make such amendments of the register as he consi
 
 - (a) that the person has requested the cancellation;
 - (b) that the body which applied for him to be registered has requested the cancellation;
-- (c) that the marriage ceremony used by that body for marriages of parties who are not of the same sex[^key-3bb96c692d11e4d5078fcf55874c5ad9] no longer contains an appropriate declaration within the meaning of Article 10(3);
-- (ca)[^key-ad099046dccc02b4d187ca77989b62f6] that the marriage ceremony used by that body for marriages of parties who are of the same sex no longer contains an appropriate declaration within the meaning of Article 10(3A); or
+- (c) that the marriage ceremony used by that body for marriages of parties who are not of the same sex[^c-3bb96c692d11e4d5078fcf55874c5ad9] no longer contains an appropriate declaration within the meaning of Article 10(3);
+- (ca)[^c-ad099046dccc02b4d187ca77989b62f6] that the marriage ceremony used by that body for marriages of parties who are of the same sex no longer contains an appropriate declaration within the meaning of Article 10(3A); or
 - (d) that the person—
   - (i) has, while registered under Article 11, been convicted of an offence under this Order;
   - (ii) has, for the purpose of profit or gain, carried on a business of solemnising marriages;
@@ -485,7 +485,7 @@ and the Registrar General shall make such amendments of the register as he consi
 - (a) the Registrar General informs him that he has decided not to cancel the registration; or
 - (b) an appeal under Article 13 in respect of his registration has been successful.
 
-(4)[^key-bf546c55b66a7ca4cafd90b48abb4347] Where a person is registered under Article 11—
+(4)[^c-bf546c55b66a7ca4cafd90b48abb4347] Where a person is registered under Article 11—
 
 - (a) for marriages of parties who are not of the same sex, and
 - (b) for marriages of parties who are of the same sex,
@@ -506,7 +506,7 @@ cancellation on the ground mentioned in paragraph (1)(a), (b), (c), (ca) or (d)(
 
 may appeal to the Department not later than 28 days from the day on which he or it receives a notice under this paragraph.
 
-(2A)[^key-1146b02f28b1ccd964016837067b5903] But there is no right of appeal—
+(2A)[^c-1146b02f28b1ccd964016837067b5903] But there is no right of appeal—
 
 - (a) under paragraph (1)(b) where the refusal is under Article 10(1C); or
 - (b) under paragraph (2) in relation to so much of the cancellation as relates to marriages of parties who are of the same sex if—
@@ -527,14 +527,14 @@ may appeal to the Department not later than 28 days from the day on which he or 
 - (a) one or more specified marriages;
 - (b) marriages during a specified period.
 
-(1A)[^key-d559a1f8d559f8cc2a4f4dfe86f39c9d] The Registrar General must not under paragraph (1) authorise a member of a religious body to solemnise marriages of parties who are of the same sex unless the Registrar General—
+(1A)[^c-d559a1f8d559f8cc2a4f4dfe86f39c9d] The Registrar General must not under paragraph (1) authorise a member of a religious body to solemnise marriages of parties who are of the same sex unless the Registrar General—
 
 - (a) has received written notice of the consent of the body’s governing authority to the member solemnising marriages of parties who are of the same sex, and
 - (b) has not received written notice of withdrawal of that consent.
 
 (2) An authorisation under paragraph (1) shall be in writing and subject to any specified conditions.
 
-(2A)[^key-5b38cdf93842bf3a9dbd015b12e522b4] An authorisation under paragraph (1)(b) must state whether it is—
+(2A)[^c-5b38cdf93842bf3a9dbd015b12e522b4] An authorisation under paragraph (1)(b) must state whether it is—
 
 - (a) for marriages of parties who are not of the same sex,
 - (b) for marriages of parties who are of the same sex, or
@@ -567,9 +567,9 @@ then, for so much of the specified period as is on or after 1st September 2020, 
 (2) An officiant shall not solemnise a religious marriage except in accordance with a form of ceremony which—
 
 - (a) is recognised by the religious body of which he is a member; and
-- (b) includes and is in no way inconsistent with an appropriate declaration within the meaning of Article 10(3) or (as the case may be) Article 10(3A)[^key-da7095a4619ff020fedf15c294c4842b] .
+- (b) includes and is in no way inconsistent with an appropriate declaration within the meaning of Article 10(3) or (as the case may be) Article 10(3A)[^c-da7095a4619ff020fedf15c294c4842b] .
 
-(3)[^key-cbc62d07702bd25e77dc4b766a8d0dbf] A person registered under Article 11—
+(3)[^c-cbc62d07702bd25e77dc4b766a8d0dbf] A person registered under Article 11—
 
 - (a) must not solemnise a marriage of parties who are not of the same sex unless registered under Article 11 for marriages of parties who are not of the same sex, and
 - (b) must not solemnise a marriage of parties who are of the same sex unless registered under Article 11 for marriages of parties who are of the same sex.
@@ -606,7 +606,7 @@ then, for so much of the specified period as is on or after 1st September 2020, 
 
 (2) If any party on whom a notice has been served under paragraph (1) fails to comply with the notice, the registrar may serve on that party a second notice in the prescribed form requiring that party to attend personally at his registration office, within eight days from the date of service of the second notice, for the purpose of delivering the marriage schedule to the registrar to enable him to register the marriage.
 
-### 17A. Marriages of same-sex couples: protection from compulsion[^key-d9ab9c9f2ea9e67048e89aa903d9a292]
+### 17A. Marriages of same-sex couples: protection from compulsion[^c-d9ab9c9f2ea9e67048e89aa903d9a292]
 
 (1) A person may not be compelled to take any action in relation to the person—
 
@@ -700,7 +700,7 @@ where the reason for not doing that thing is that the marriage concerned would b
 - (b) the person solemnising the marriage; and
 - (c) two witnesses,
 
-that they accept each other as husband and wife *or[^key-d2c1662eb9b81a1322928d1ce30c79af]* as husband and husband *or* as wife and wife .
+that they accept each other as husband and wife *or[^c-d2c1662eb9b81a1322928d1ce30c79af]* as husband and husband *or* as wife and wife .
 
 ### 20. Registration of civil marriage
 
@@ -737,7 +737,7 @@ that they accept each other as husband and wife *or[^key-d2c1662eb9b81a1322928d1
   - (i) each parent (if any) of the young person who has parental responsibility for him; and
   - (ii) each guardian (if any) of the young person;
 - (b) where a residence order is in force with respect to the young person, the consent of the person or persons with whom he lives, or is to live, as a result of the order (in substitution for the consents mentioned in sub-paragraph (a));
-- (c) where a care order is in force with respect to the young person, the consent of the [^key-a2957b70a09ba8e4bf3e71a73e6abcca]... Health and Social Care trust[^c21805471] designated in the order (in addition to the consents mentioned in sub-paragraph (a));
+- (c) where a care order is in force with respect to the young person, the consent of the [^c-a2957b70a09ba8e4bf3e71a73e6abcca]... Health and Social Care trust[^c21805471] designated in the order (in addition to the consents mentioned in sub-paragraph (a));
 - (d) where neither sub-paragraph (b) nor sub-paragraph (c) applies but a residence order was in force with respect to the young person immediately before he reached the age of 16, the consent of the person or persons with whom he lived, or was to live, as a result of the order (in substitution for the consents mentioned in sub-paragraph (a)).
 
 (3) The relevant consents shall be—
@@ -783,7 +783,7 @@ and without the intervention of a next friend.
 
 ### 25. Commencement of marriage
 
-The parties to a marriage solemnised in accordance with this Order shall be taken to be married to each other when both of them have made a declaration in the presence of each other, the person solemnising the marriage and two witnesses that they accept each other as husband and wife *or[^key-b6a6e1c8cb666a2ddd504d2d8318192e]* as husband and husband *or* as wife and wife .
+The parties to a marriage solemnised in accordance with this Order shall be taken to be married to each other when both of them have made a declaration in the presence of each other, the person solemnising the marriage and two witnesses that they accept each other as husband and wife *or[^c-b6a6e1c8cb666a2ddd504d2d8318192e]* as husband and husband *or* as wife and wife .
 
 ### 26. Validity of registered marriage
 
@@ -799,7 +799,7 @@ The parties to a marriage solemnised in accordance with this Order shall be take
 
 (2) The Registrar General shall cancel the registration of a void marriage or direct the registrar to do so.
 
-(3)[^key-11f23e53e47c94fed0f2cede923aec9a] Paragraph (4) applies in relation to a marriage solemnised before, on or after 13th January 2020 where, before the marriage is solemnised, a full gender recognition certificate has been issued under the Gender Recognition Act 2004 to either or each of the parties.
+(3)[^c-11f23e53e47c94fed0f2cede923aec9a] Paragraph (4) applies in relation to a marriage solemnised before, on or after 13th January 2020 where, before the marriage is solemnised, a full gender recognition certificate has been issued under the Gender Recognition Act 2004 to either or each of the parties.
 
 (4) The Registrar General, after consulting the parties, may—
 
@@ -835,7 +835,7 @@ the marriage notice given by that party shall be accompanied by a statement to w
 (3) In paragraph (2) “responsible authority” means—
 
 - (a) if the person named in the statement is detained in a prison, the governor or other officer in charge of that prison;
-- (b) if the person named in the statement is detained in a hospital or special accommodation, the Health and Social Care trust[^key-67cb1be54fcff79d793d684cac725f82] administering that hospital or the Department of Health, Social Services and Public Safety, respectively;
+- (b) if the person named in the statement is detained in a hospital or special accommodation, the Health and Social Care trust[^c-67cb1be54fcff79d793d684cac725f82] administering that hospital or the Department of Health, Social Services and Public Safety, respectively;
 - (c) if the person named in the statement is detained in a private hospital, the person in charge of that hospital.
 
 (4) After the registrar receives a marriage notice accompanied by a statement to which paragraph (2) applies, he shall notify the Registrar General and shall not complete a marriage schedule unless the Registrar General directs him to proceed under Article 7.
@@ -912,7 +912,7 @@ A person shall, in accordance with such directions as the Registrar General may 
 
 (4) The Registrar General shall cause any document given by him under this Article or Article 36 to be stamped with the seal of the General Register Office, of which judicial notice shall be taken.
 
-(5)[^key-aacdf98156ad1d6e6e2d0ab082808fcc] Regulations may make provision for any person to have access, on payment of the prescribed fee, to any information contained in any marriage registration records.
+(5)[^c-aacdf98156ad1d6e6e2d0ab082808fcc] Regulations may make provision for any person to have access, on payment of the prescribed fee, to any information contained in any marriage registration records.
 
 (6) Regulations under paragraph (5) may provide that the relevant period must have expired in relation to the information.
 
@@ -923,7 +923,7 @@ A person shall, in accordance with such directions as the Registrar General may 
 - (a) to make arrangements with any person for the purpose of providing access to information as mentioned in that paragraph; and
 - (b) for that purpose to transfer information to that person subject to conditions (including conditions as to the making of payments by that person to the Registrar General).
 
-### 35A. Notification of registration[^key-6ce336ff39a346f6fb3cc9aca4b38d3d]
+### 35A. Notification of registration[^c-6ce336ff39a346f6fb3cc9aca4b38d3d]
 
 (1) The Registrar General may notify such persons as the Registrar General considers appropriate of the registration of a marriage.
 
@@ -988,7 +988,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 *Schedule—Repeals*
 
-## SCHEDULE 2 — Modifications if proposed marriage referred under Article 3E[^key-e04e44d917a78b813791fab29969dbb5]
+## SCHEDULE 2 — Modifications if proposed marriage referred under Article 3E[^c-e04e44d917a78b813791fab29969dbb5]
 
 Article 3E(6)
 
@@ -1104,88 +1104,88 @@ the duty under Article 7(1) to complete the marriage schedule arises on the givi
 
 [^c17055641]: Textual amendment: fully exercised by SR 2003/466
 
-[^key-071d9312bb8aac390f231032bbe8e7ff]: Textual amendment: Words in art. 2(2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-071d9312bb8aac390f231032bbe8e7ff]: Textual amendment: Words in art. 2(2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-52b8b7b9ad3740275870f6f0e18b778d]: Textual amendment: Words in art. 2(2) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/4/2)
+[^c-52b8b7b9ad3740275870f6f0e18b778d]: Textual amendment: Words in art. 2(2) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/4/2)
 
-[^key-d5afd4950740a132f8a319387eb3118f]: Textual amendment: Words in art. 2(2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-d5afd4950740a132f8a319387eb3118f]: Textual amendment: Words in art. 2(2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-6aba55bb386b3f5da286c0da06b34324]: Textual amendment: Words in art. 2(2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/2/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-6aba55bb386b3f5da286c0da06b34324]: Textual amendment: Words in art. 2(2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/2/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-c0fba6e9c419333a3068d21f87cdd22c]: Textual amendment: Words in art. 2(2) inserted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/14/2/a) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/7))
+[^c-c0fba6e9c419333a3068d21f87cdd22c]: Textual amendment: Words in art. 2(2) inserted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/14/2/a) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/7))
 
-[^key-4828fa47752eb36e68d4cb5bf4491ab8]: Textual amendment: Words in art. 2(2) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/14/2/b) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/7))
+[^c-4828fa47752eb36e68d4cb5bf4491ab8]: Textual amendment: Words in art. 2(2) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/14/2/b) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/7))
 
-[^key-cbf6570a4205978b33d27c636baa6c06]: Textual amendment: Arts. 3A-3E inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-cbf6570a4205978b33d27c636baa6c06]: Textual amendment: Arts. 3A-3E inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-b3b12080bf72f95b9ec2289a713cc5ca]: Modification: Art. 3A(9) applied (2.3.2015) by [The Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015 (S.I. 2015/404)](https://www.legislation.gov.uk/uksi/2015/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/404/regulation/1/2), [18(4)(a)](https://www.legislation.gov.uk/uksi/2015/404/regulation/18/4/a)
+[^c-b3b12080bf72f95b9ec2289a713cc5ca]: Modification: Art. 3A(9) applied (2.3.2015) by [The Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015 (S.I. 2015/404)](https://www.legislation.gov.uk/uksi/2015/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/404/regulation/1/2), [18(4)(a)](https://www.legislation.gov.uk/uksi/2015/404/regulation/18/4/a)
 
-[^key-6480b5a09ec6e10fa80482f995f1edaf]: Textual amendment: Art. 4(2A)(2B) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/5/1) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-6480b5a09ec6e10fa80482f995f1edaf]: Textual amendment: Art. 4(2A)(2B) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/5/1) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
 [^c17055651]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
 [^c17055691]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-28421b9150464ff5cd297965a41fd665]: Textual amendment: Word in art. 6(6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/3/1/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-28421b9150464ff5cd297965a41fd665]: Textual amendment: Word in art. 6(6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/3/1/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-903613d24c97ed047deba86a96af0402]: Textual amendment: Art. 6(6)(e) and word omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/3/1/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-903613d24c97ed047deba86a96af0402]: Textual amendment: Art. 6(6)(e) and word omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/3/1/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-0d28cbb32d40dd3b86eb4cc35c482eac]: Textual amendment: Word in art. 7(3) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/742/regulation/9/3/a)
+[^c-0d28cbb32d40dd3b86eb4cc35c482eac]: Textual amendment: Word in art. 7(3) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/742/regulation/9/3/a)
 
-[^key-80a75ea3d75c495462e6fb873e36d41a]: Textual amendment: Art. 7(7) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/9/3/b)
+[^c-80a75ea3d75c495462e6fb873e36d41a]: Textual amendment: Art. 7(7) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/9/3/b)
 
-[^key-18dcb0787e0f727e3dd7efc15242411a]: Textual amendment: Art. 7A inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/6/1) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-18dcb0787e0f727e3dd7efc15242411a]: Textual amendment: Art. 7A inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/6/1) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-7cd29d4346b78abadc509d07eaeb9b7d]: Textual amendment: Words in art. 9 omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2020/742/regulation/3/1)
+[^c-7cd29d4346b78abadc509d07eaeb9b7d]: Textual amendment: Words in art. 9 omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2020/742/regulation/3/1)
 
-[^key-7ff150bb56f95400e9cf2ee21fa419bd]: Textual amendment: Art. 9A inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/4/3)
+[^c-7ff150bb56f95400e9cf2ee21fa419bd]: Textual amendment: Art. 9A inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/4/3)
 
-[^key-9a26329839f58be345d73c5743aca11d]: Textual amendment: Art. 10(1A)-(1D) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/5/2)
+[^c-9a26329839f58be345d73c5743aca11d]: Textual amendment: Art. 10(1A)-(1D) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/5/2)
 
-[^key-8cf5618137456350e80e5f8d43d44dcb]: Textual amendment: Art. 10(2)(b) omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/2)
+[^c-8cf5618137456350e80e5f8d43d44dcb]: Textual amendment: Art. 10(2)(b) omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/2)
 
-[^key-f8599acdc66ef4a78429ae6c54e4b8dc]: Textual amendment: Art. 10(2A)(2B) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/3)
+[^c-f8599acdc66ef4a78429ae6c54e4b8dc]: Textual amendment: Art. 10(2A)(2B) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/3)
 
-[^key-727b23cade2f32665e2bc16f43c0ec4b]: Textual amendment: Word in art. 10(3) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/4)
+[^c-727b23cade2f32665e2bc16f43c0ec4b]: Textual amendment: Word in art. 10(3) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/4)
 
-[^key-c54c35db9e4527eba969cc37aac82189]: Textual amendment: Art. 10(3A) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/5)
+[^c-c54c35db9e4527eba969cc37aac82189]: Textual amendment: Art. 10(3A) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/5)
 
-[^key-29baa71cc2594d2f8db1413d03979f65]: Textual amendment: Words in art. 11(3) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/5/3)
+[^c-29baa71cc2594d2f8db1413d03979f65]: Textual amendment: Words in art. 11(3) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/5/3)
 
-[^key-eab566957f619920b48218a1760d218a]: Textual amendment: Art. 11(3A)(3B) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/742/regulation/5/4)
+[^c-eab566957f619920b48218a1760d218a]: Textual amendment: Art. 11(3A)(3B) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/742/regulation/5/4)
 
-[^key-3bb96c692d11e4d5078fcf55874c5ad9]: Textual amendment: Words in art. 12(1)(c) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/2/a)
+[^c-3bb96c692d11e4d5078fcf55874c5ad9]: Textual amendment: Words in art. 12(1)(c) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/2/a)
 
-[^key-ad099046dccc02b4d187ca77989b62f6]: Textual amendment: Art. 12(1)(ca) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/2/b)
+[^c-ad099046dccc02b4d187ca77989b62f6]: Textual amendment: Art. 12(1)(ca) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/2/b)
 
-[^key-bf546c55b66a7ca4cafd90b48abb4347]: Textual amendment: Art. 12(4) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/3)
+[^c-bf546c55b66a7ca4cafd90b48abb4347]: Textual amendment: Art. 12(4) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/3)
 
-[^key-1146b02f28b1ccd964016837067b5903]: Textual amendment: Art. 13(2A) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/4)
+[^c-1146b02f28b1ccd964016837067b5903]: Textual amendment: Art. 13(2A) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/742/regulation/7/4)
 
-[^key-d559a1f8d559f8cc2a4f4dfe86f39c9d]: Textual amendment: Art. 14(1A) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/8/2)
+[^c-d559a1f8d559f8cc2a4f4dfe86f39c9d]: Textual amendment: Art. 14(1A) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/8/2)
 
-[^key-5b38cdf93842bf3a9dbd015b12e522b4]: Textual amendment: Art. 14(2A)-(2D) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/8/3)
+[^c-5b38cdf93842bf3a9dbd015b12e522b4]: Textual amendment: Art. 14(2A)-(2D) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/8/3)
 
-[^key-da7095a4619ff020fedf15c294c4842b]: Textual amendment: Words in art. 15(2)(b) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/6)
+[^c-da7095a4619ff020fedf15c294c4842b]: Textual amendment: Words in art. 15(2)(b) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2020/742/regulation/6/6)
 
-[^key-cbc62d07702bd25e77dc4b766a8d0dbf]: Textual amendment: Art. 15(3)-(5) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/9/2)
+[^c-cbc62d07702bd25e77dc4b766a8d0dbf]: Textual amendment: Art. 15(3)-(5) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/9/2)
 
-[^key-d9ab9c9f2ea9e67048e89aa903d9a292]: Textual amendment: Art. 17A inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/742/regulation/11)
+[^c-d9ab9c9f2ea9e67048e89aa903d9a292]: Textual amendment: Art. 17A inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/742/regulation/11)
 
-[^key-d2c1662eb9b81a1322928d1ce30c79af]: Textual amendment: Words in art. 19(3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1514/regulation/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-d2c1662eb9b81a1322928d1ce30c79af]: Textual amendment: Words in art. 19(3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1514/regulation/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-a2957b70a09ba8e4bf3e71a73e6abcca]: Textual amendment: Words in [art. 22(2)(c)](https://www.legislation.gov.uk/nisi/2003/413/article/22/2/c) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 195(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/195/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a2957b70a09ba8e4bf3e71a73e6abcca]: Textual amendment: Words in [art. 22(2)(c)](https://www.legislation.gov.uk/nisi/2003/413/article/22/2/c) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 195(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/195/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21805471]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(c)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/c) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-b6a6e1c8cb666a2ddd504d2d8318192e]: Textual amendment: Words in art. 25 inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1514/regulation/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-b6a6e1c8cb666a2ddd504d2d8318192e]: Textual amendment: Words in art. 25 inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1514/regulation/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-11f23e53e47c94fed0f2cede923aec9a]: Textual amendment: Art. 27(3)(4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [50(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/50/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-11f23e53e47c94fed0f2cede923aec9a]: Textual amendment: Art. 27(3)(4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [50(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/50/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-67cb1be54fcff79d793d684cac725f82]: Textual amendment: Words in [art. 29(3)(b)](https://www.legislation.gov.uk/nisi/2003/413/article/29/3/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 195(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/195/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-67cb1be54fcff79d793d684cac725f82]: Textual amendment: Words in [art. 29(3)(b)](https://www.legislation.gov.uk/nisi/2003/413/article/29/3/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 195(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/195/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-aacdf98156ad1d6e6e2d0ab082808fcc]: Textual amendment: Art. 35(5)-(8) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 23(1)](https://www.legislation.gov.uk/nia/2011/20/section/23/1), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-aacdf98156ad1d6e6e2d0ab082808fcc]: Textual amendment: Art. 35(5)-(8) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 23(1)](https://www.legislation.gov.uk/nia/2011/20/section/23/1), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-6ce336ff39a346f6fb3cc9aca4b38d3d]: Textual amendment: Art. 35A inserted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 24(1)](https://www.legislation.gov.uk/nia/2011/20/section/24/1), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-6ce336ff39a346f6fb3cc9aca4b38d3d]: Textual amendment: Art. 35A inserted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 24(1)](https://www.legislation.gov.uk/nia/2011/20/section/24/1), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-e04e44d917a78b813791fab29969dbb5]: Textual amendment: Sch. 2 inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-e04e44d917a78b813791fab29969dbb5]: Textual amendment: Sch. 2 inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))

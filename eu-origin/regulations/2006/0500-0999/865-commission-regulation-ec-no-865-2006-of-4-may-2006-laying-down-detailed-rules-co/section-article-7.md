@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Article 4(1) and (2), Article 5(3), (4) and (5) and Article 6 shall apply in the case of decisions on the acceptability of permits and certificates issued by third countries for specimens to be introduced into Great Britain[^key-9485f9411fbc6fd18eed0717d6af1fdc].
+1. Article 4(1) and (2), Article 5(3), (4) and (5) and Article 6 shall apply in the case of decisions on the acceptability of permits and certificates issued by third countries for specimens to be introduced into Great Britain[^c-9485f9411fbc6fd18eed0717d6af1fdc].
 
 2. Where the permits and certificates referred to in paragraph 1 concern specimens of species that are subject to voluntarily fixed export quotas or export quotas allocated by the Conference of the Parties to the Convention, they shall be accepted only if they specify the total number of specimens already exported in the current year, including those covered by the permit in question, and the quota for the species concerned.
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9485f9411fbc6fd18eed0717d6af1fdc]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2006/865/article/7/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/5)
+[^c-9485f9411fbc6fd18eed0717d6af1fdc]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2006/865/article/7/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/5)
 
 [^c000005]: Textual amendment: Inserted by [Commission Regulation (EC) No 100/2008 of 4 February 2008 amending, as regards sample collections and certain formalities relating to the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules for the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2008/100).
 

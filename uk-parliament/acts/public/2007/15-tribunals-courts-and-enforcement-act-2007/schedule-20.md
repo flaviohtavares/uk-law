@@ -37,7 +37,7 @@ Section 108(3)
 
 (2) In the heading to that section after “**bankrupt**” insert “ **or person in respect of whom a debt relief order is made** ”.
 
-**3.**[^key-af2f7df3f1fbcdeea2af29d4916bdac5][^c20876051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-af2f7df3f1fbcdeea2af29d4916bdac5][^c20876051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c20876061] In section 384(2)(meaning of prescribed amount)—
 
@@ -162,7 +162,7 @@ Section 108(3)
 > | 251R(2) | Obtaining property in respect of which money is owed by a person in respect of whom a debt relief order is made. | 1\. On indictment<br>2\. Summary | 7 years or a fine, or both.<br>12 months or the statutory maximum, or both. |  |
 > | 251S(1) | Person in respect of whom a debt relief order is made obtaining credit or engaging in business without disclosing his status or name. | 1\. On indictment<br>2\. Summary | 2 years or a fine, or both.<br>12 months or the statutory maximum, or both. |  |
 
-(4) In the application of those entries in relation to offences committed before 2 May 2022[^key-75ade337bcf00b0a4c9f50ae86b39f80] (limit on magistrates' court powers to impose imprisonment), the references in the fourth column to “12 months” are to be read as references to “6 months”.
+(4) In the application of those entries in relation to offences committed before 2 May 2022[^c-75ade337bcf00b0a4c9f50ae86b39f80] (limit on magistrates' court powers to impose imprisonment), the references in the fourth column to “12 months” are to be read as references to “6 months”.
 
 ### Part 2 — Amendments to other legislation
 
@@ -188,7 +188,7 @@ Section 108(3)
 
 [^c20876041]: Commencement: [Sch. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20) wholly in force at 6.4.2009; [Sch. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20) not in force at Royal Assent see [s. 148(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/2); [Sch. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20) in force for certain purposes at 24.2.2009 and at 6.4.2009 otherwise by [S.I. 2009/382](https://www.legislation.gov.uk/uksi/2009/382), [art. 2](https://www.legislation.gov.uk/uksi/2009/382/article/2)
 
-[^key-af2f7df3f1fbcdeea2af29d4916bdac5]: Textual amendment: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20/paragraph/3) omitted (6.4.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 9(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/9/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-af2f7df3f1fbcdeea2af29d4916bdac5]: Textual amendment: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20/paragraph/3) omitted (6.4.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 9(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/9/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c20876051]: Commencement: Sch. 20 wholly in force at 6.4.2009; Sch. 20 not in force at Royal Assent see s. 148(2); Sch. 20 in force for certain purposes at 24.2.2009 and at 6.4.2009 otherwise by [S.I. 2009/382](https://www.legislation.gov.uk/uksi/2009/382), [art. 2](https://www.legislation.gov.uk/uksi/2009/382/article/2)
 
@@ -216,7 +216,7 @@ Section 108(3)
 
 [^c20876171]: Commencement: Sch. 20 wholly in force at 6.4.2009; Sch. 20 not in force at Royal Assent see s. 148(2); Sch. 20 in force for certain purposes at 24.2.2009 and at 6.4.2009 otherwise by [S.I. 2009/382](https://www.legislation.gov.uk/uksi/2009/382), [art. 2](https://www.legislation.gov.uk/uksi/2009/382/article/2)
 
-[^key-75ade337bcf00b0a4c9f50ae86b39f80]: Textual amendment: Words in [Sch. 20 para. 15(4)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20/paragraph/15/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-75ade337bcf00b0a4c9f50ae86b39f80]: Textual amendment: Words in [Sch. 20 para. 15(4)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20/paragraph/15/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
 [^c20876181]: Commencement: [Sch. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20) wholly in force at 6.4.2009; [Sch. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20) not in force at Royal Assent see [s. 148(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/2); [Sch. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20) in force for certain purposes at 24.2.2009 and at 6.4.2009 otherwise by [S.I. 2009/382](https://www.legislation.gov.uk/uksi/2009/382), [art. 2](https://www.legislation.gov.uk/uksi/2009/382/article/2)
 

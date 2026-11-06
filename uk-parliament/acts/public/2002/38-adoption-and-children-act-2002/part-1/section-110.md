@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Service of notices etc.[^key-a2a3170821edf5af50dc473adb2af781]
+## 110. Service of notices etc.[^c-a2a3170821edf5af50dc473adb2af781]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice or information required to be given by virtue of this Act may be give
 
 ## Annotations
 
-[^key-a2a3170821edf5af50dc473adb2af781]: Commencement: S. 110 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-a2a3170821edf5af50dc473adb2af781]: Commencement: S. 110 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

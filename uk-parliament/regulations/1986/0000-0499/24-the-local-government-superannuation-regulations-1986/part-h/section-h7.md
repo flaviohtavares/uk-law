@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## H7. Gratuities etc. granted by former local authorities[^key-7c87dcdf8cfccf6535b52b12bdae6fef]
+## H7. Gratuities etc. granted by former local authorities[^c-7c87dcdf8cfccf6535b52b12bdae6fef]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ as if the 1974 regulations had not been revoked.
 
 ## Annotations
 
-[^key-7c87dcdf8cfccf6535b52b12bdae6fef]: Commencement: [Reg. H7](https://www.legislation.gov.uk/uksi/1986/24/regulation/H7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7c87dcdf8cfccf6535b52b12bdae6fef]: Commencement: [Reg. H7](https://www.legislation.gov.uk/uksi/1986/24/regulation/H7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

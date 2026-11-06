@@ -36,7 +36,7 @@ summary: ''
 
 (5) Condition D is that the sample—
 
-- (a)[^key-c580e59bdd3c23227f42393e1f429e19] is no larger than the smallest presentation of the product that is available for sale—
+- (a)[^c-c580e59bdd3c23227f42393e1f429e19] is no larger than the smallest presentation of the product that is available for sale—
   - (i) in the case of a medicinal product for sale or supply in Great Britain, in Great Britain, or
   - (ii) in the case of a medicinal product for sale or supply in Northern Ireland, in Northern Ireland;
 - (b) is marked “free medical sample – not for resale” or bears a similar description; and
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c580e59bdd3c23227f42393e1f429e19]: Textual amendment: Reg. 298(5)(a) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 215A](https://www.legislation.gov.uk/uksi/2019/775/regulation/215A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 174](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/174))
+[^c-c580e59bdd3c23227f42393e1f429e19]: Textual amendment: Reg. 298(5)(a) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 215A](https://www.legislation.gov.uk/uksi/2019/775/regulation/215A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 174](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/174))

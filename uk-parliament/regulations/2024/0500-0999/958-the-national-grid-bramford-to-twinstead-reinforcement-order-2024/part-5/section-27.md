@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Temporary use of land for maintaining the authorised development[^key-e58311e98d2d330f6c61a25d92e608c0]
+## 27. Temporary use of land for maintaining the authorised development[^c-e58311e98d2d330f6c61a25d92e608c0]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the requirement to serve not less than 28 days’ notice under paragraph (3) doe
 
 ## Annotations
 
-[^key-e58311e98d2d330f6c61a25d92e608c0]: Commencement: Art. 27 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-e58311e98d2d330f6c61a25d92e608c0]: Commencement: Art. 27 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

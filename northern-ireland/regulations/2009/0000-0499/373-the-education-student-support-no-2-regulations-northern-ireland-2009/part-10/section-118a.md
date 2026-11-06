@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118A. Provision of United Kingdom national insurance number[^key-bff845c72bfddb5753a89fd7ea749509]
+## 118A. Provision of United Kingdom national insurance number[^c-bff845c72bfddb5753a89fd7ea749509]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bff845c72bfddb5753a89fd7ea749509]: Textual amendment: [Reg. 118A](https://www.legislation.gov.uk/nisr/2009/373/regulation/118A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2017/7/regulation/19)
+[^c-bff845c72bfddb5753a89fd7ea749509]: Textual amendment: [Reg. 118A](https://www.legislation.gov.uk/nisr/2009/373/regulation/118A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2017/7/regulation/19)

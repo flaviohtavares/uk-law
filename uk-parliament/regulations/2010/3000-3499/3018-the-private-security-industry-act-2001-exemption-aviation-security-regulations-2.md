@@ -50,22 +50,22 @@ In accordance with section 4(1) of that Act, it appears to the Secretary of Stat
 
 In accordance with section 24(4) of that Act[^f00002], she has consulted the Scottish Ministers, the Department of Justice in Northern Ireland, and the Security Industry Authority.
 
-## 1. Citation and commencement[^key-b11604f305f3cd729eeed9d68a43936b]
+## 1. Citation and commencement[^c-b11604f305f3cd729eeed9d68a43936b]
 
 These Regulations may be cited as the Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2010 and shall come into force on 14th January 2011.
 
-## 2. Interpretation[^key-6c5058da1c88d89734a92d261e512f30]
+## 2. Interpretation[^c-6c5058da1c88d89734a92d261e512f30]
 
 In these Regulations—
 
 - “the 2001 Act” means the Private Security Industry Act 2001;
-- [^key-e308c178f9ccd585e03575f63a15f72a]...
+- [^c-e308c178f9ccd585e03575f63a15f72a]...
 
-## 3. Exemption in respect of aviation security services[^key-e4e57d06024388645dc33d3e94fcab9c]
+## 3. Exemption in respect of aviation security services[^c-e4e57d06024388645dc33d3e94fcab9c]
 
 A person who engages in licensable conduct in the circumstances prescribed in regulation 4 shall not be guilty of an offence under section 3 of the 2001 Act[^f00004] (conduct prohibited without a licence) if he conducts that licensable conduct in those prescribed circumstances.
 
-## 4. Prescribed circumstances[^key-0204f2e17853b49f1cce7f542622ef6c][^key-ff7fc3cc5e6fdba770800465d0ef1a41]
+## 4. Prescribed circumstances[^c-0204f2e17853b49f1cce7f542622ef6c][^c-ff7fc3cc5e6fdba770800465d0ef1a41]
 
 (1) The circumstances prescribed for the purposes of this regulation are those where a person is provided to implement or be responsible for the implementation of screening, access control or other security controls on behalf of—
 
@@ -86,7 +86,7 @@ for purposes to which Part 2 of the Aviation Security Act 1982 (protection of ai
 - “**security control**” means the application of means by which the introduction of prohibited articles may be prevented; and
 - “**security restricted area**” has the meaning given in section 24A of the Aviation Security Act 1982.
 
-## 5. Revocation of the Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2006 and other amending Regulations[^key-718540165e010f39a987019c32d56526]
+## 5. Revocation of the Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2006 and other amending Regulations[^c-718540165e010f39a987019c32d56526]
 
 The following are revoked:
 
@@ -118,21 +118,21 @@ Regulation 5 revokes the Private Security Industry Act 2001 (Exemption) (Aviatio
 
 [^f00002]: Footnote: Section 24(4) was amended by [S.I.2010/976](https://www.legislation.gov.uk/uksi/2010/976).
 
-[^key-b11604f305f3cd729eeed9d68a43936b]: Commencement: Reg. 1 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
+[^c-b11604f305f3cd729eeed9d68a43936b]: Commencement: Reg. 1 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
 
-[^key-6c5058da1c88d89734a92d261e512f30]: Commencement: Reg. 2 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
+[^c-6c5058da1c88d89734a92d261e512f30]: Commencement: Reg. 2 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
 
-[^key-e308c178f9ccd585e03575f63a15f72a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/3018/regulation/2) omitted (1.7.2025) by virtue of [The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2025 (S.I. 2025/664)](https://www.legislation.gov.uk/uksi/2025/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/664/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/664/regulation/2/2)
+[^c-e308c178f9ccd585e03575f63a15f72a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/3018/regulation/2) omitted (1.7.2025) by virtue of [The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2025 (S.I. 2025/664)](https://www.legislation.gov.uk/uksi/2025/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/664/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/664/regulation/2/2)
 
-[^key-e4e57d06024388645dc33d3e94fcab9c]: Commencement: Reg. 3 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
+[^c-e4e57d06024388645dc33d3e94fcab9c]: Commencement: Reg. 3 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
 
 [^f00004]: Footnote: There are amendments to section 4 which are not relevant to these Regulations.
 
-[^key-0204f2e17853b49f1cce7f542622ef6c]: Commencement: Reg. 4 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
+[^c-0204f2e17853b49f1cce7f542622ef6c]: Commencement: Reg. 4 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
 
-[^key-ff7fc3cc5e6fdba770800465d0ef1a41]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/3018/regulation/4) substituted (1.7.2025) by [The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2025 (S.I. 2025/664)](https://www.legislation.gov.uk/uksi/2025/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/664/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/664/regulation/2/3)
+[^c-ff7fc3cc5e6fdba770800465d0ef1a41]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/3018/regulation/4) substituted (1.7.2025) by [The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2025 (S.I. 2025/664)](https://www.legislation.gov.uk/uksi/2025/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/664/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/664/regulation/2/3)
 
-[^key-718540165e010f39a987019c32d56526]: Commencement: Reg. 5 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
+[^c-718540165e010f39a987019c32d56526]: Commencement: Reg. 5 in force at 14.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2006/428](https://www.legislation.gov.uk/uksi/2006/428).
 

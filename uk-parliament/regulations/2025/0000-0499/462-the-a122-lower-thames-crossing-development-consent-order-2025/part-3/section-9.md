@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Application of the 1991 Act[^key-72fb8f40d4b07528541e0227237ab1f3]
+## 9. Application of the 1991 Act[^c-72fb8f40d4b07528541e0227237ab1f3]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-72fb8f40d4b07528541e0227237ab1f3]: Commencement: Art. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-72fb8f40d4b07528541e0227237ab1f3]: Commencement: Art. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00046]: Footnote: Section 64 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to, the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 

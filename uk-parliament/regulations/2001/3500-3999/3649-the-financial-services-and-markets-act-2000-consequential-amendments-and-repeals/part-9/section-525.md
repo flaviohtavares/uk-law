@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 525. Interpretation of the 1996 Regulations[^key-ead8d01696b196d0b252b7009e74c023]
+## 525. Interpretation of the 1996 Regulations[^c-ead8d01696b196d0b252b7009e74c023]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ead8d01696b196d0b252b7009e74c023]: Commencement: Art. 525 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ead8d01696b196d0b252b7009e74c023]: Commencement: Art. 525 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

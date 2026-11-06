@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Meaning of public authority etc. in the Nature Conservation (Scotland) Act 2004[^key-3360b65a9844e0ef65601919f1f5950d][^key-befece70426bea2956d32603e5df7077]
+## 50. Meaning of public authority etc. in the Nature Conservation (Scotland) Act 2004[^c-3360b65a9844e0ef65601919f1f5950d][^c-befece70426bea2956d32603e5df7077]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3360b65a9844e0ef65601919f1f5950d]: Commencement: S. 50 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-3360b65a9844e0ef65601919f1f5950d]: Commencement: S. 50 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-befece70426bea2956d32603e5df7077]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2026/6/section/50) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z5)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z5)
+[^c-befece70426bea2956d32603e5df7077]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2026/6/section/50) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z5)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z5)

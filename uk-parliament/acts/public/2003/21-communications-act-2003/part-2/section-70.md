@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Review of compliance costs: universal service conditions[^key-493b6a18dce9dddcd5d6c0ff0906c17f][^key-fb99e27ddc5841c3a15fa2e2e11c5d91][^key-72ed5dbddfa6b78a0bb599973838dbee]
+## 70. Review of compliance costs: universal service conditions[^c-493b6a18dce9dddcd5d6c0ff0906c17f][^c-fb99e27ddc5841c3a15fa2e2e11c5d91][^c-72ed5dbddfa6b78a0bb599973838dbee]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,8 +53,8 @@ that must be the method of calculation applied on a review under this section.
 
 ## Annotations
 
-[^key-493b6a18dce9dddcd5d6c0ff0906c17f]: Commencement: S. 70 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-493b6a18dce9dddcd5d6c0ff0906c17f]: Commencement: S. 70 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-fb99e27ddc5841c3a15fa2e2e11c5d91]: Commencement: S. 70 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-fb99e27ddc5841c3a15fa2e2e11c5d91]: Commencement: S. 70 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-72ed5dbddfa6b78a0bb599973838dbee]: Textual amendment: S. 70 heading substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/25)
+[^c-72ed5dbddfa6b78a0bb599973838dbee]: Textual amendment: S. 70 heading substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/25)

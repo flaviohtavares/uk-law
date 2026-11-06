@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Transitional provisions for hip, knee and shoulder replacements[^key-ac809f216914815d7426393e2b07718a]
+## 4A. Transitional provisions for hip, knee and shoulder replacements[^c-ac809f216914815d7426393e2b07718a]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac809f216914815d7426393e2b07718a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2002/618/regulation/4A) inserted (1.9.2007) by [The Medical Devices (Amendment) Regulations 2007 (S.I. 2007/400)](https://www.legislation.gov.uk/uksi/2007/400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2007/400/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2007/400/regulation/4)
+[^c-ac809f216914815d7426393e2b07718a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2002/618/regulation/4A) inserted (1.9.2007) by [The Medical Devices (Amendment) Regulations 2007 (S.I. 2007/400)](https://www.legislation.gov.uk/uksi/2007/400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2007/400/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2007/400/regulation/4)

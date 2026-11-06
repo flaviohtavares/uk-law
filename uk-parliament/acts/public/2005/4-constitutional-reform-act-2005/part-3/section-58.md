@@ -28,8 +28,8 @@ summary: ''
 >
 > The Supreme Court.
 
-(3)[^key-ab165e54418eeba2a4802b75bdcace64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ab165e54418eeba2a4802b75bdcace64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab165e54418eeba2a4802b75bdcace64]: Textual amendment: S. 58(3) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2010/976/article/27/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ab165e54418eeba2a4802b75bdcace64]: Textual amendment: S. 58(3) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2010/976/article/27/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

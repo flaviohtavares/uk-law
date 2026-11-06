@@ -55,7 +55,7 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 
 (1) A deposit with the National Savings Bank may be made either as an ordinary deposit or as an investment deposit.
 
-(1A)[^key-ef953d5a2ad46f91e5d62fd3ce932e19] But subsection (1) is subject to any provision made in relation to ordinary accounts or ordinary deposits by regulations under section 2 of this Act made by virtue of section 8(3) of this Act.
+(1A)[^c-ef953d5a2ad46f91e5d62fd3ce932e19] But subsection (1) is subject to any provision made in relation to ordinary accounts or ordinary deposits by regulations under section 2 of this Act made by virtue of section 8(3) of this Act.
 
 (2) Regulations under section 2 of this Act may make different provision with respect to ordinary deposits and with respect to investment deposits and with respect to investment deposits of different descriptions[^c816699], and may prevent the making of an investment deposit or an investment deposit of a particular description[^c816700] unless the person who will be the depositor in respect thereof is also a depositor in respect of ordinary deposits and the sum due to him in respect of those deposits is not less than such amount as may be specified in the regulations.
 
@@ -78,7 +78,7 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 
 (4)[^c816705] Regulations under section 2 of this Act may include any provision that may be included in an order under this section.
 
-### 5. Interest on ordinary deposits.[^c816714][^key-e34fe80d89bdfad0c84e46fdab029c62][^c816713]
+### 5. Interest on ordinary deposits.[^c816714][^c-e34fe80d89bdfad0c84e46fdab029c62][^c816713]
 
 (1) The Director of Savings may, with the consent of the Treasury, from time to time determine the rate or rates at which interest is to be payable on amounts deposited in ordinary accounts or that no interest is to be payable on such amounts, and any such determination in relation to amounts deposited in any ordinary deposit account may be made[^c816715] by reference to any one or more of the following factors, namely—[^c816716]
 
@@ -101,18 +101,18 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 
 (1) Investment deposits shall be received on such terms as to interest, other than terms as to rate of interest, as may from time to time be prescribed and different terms may be prescribed in relation to different descriptions of investment deposits[^c816721].
 
-(2) Interest on investment deposits shall be payable at such rates as the Treasury may from time to time determine[^key-fa1b9715ebf422578d39aa58e1fe0098], and different rates may be so determined in relation to different descriptions of investment deposits and[^c816722] different periods of notice of withdrawal.
+(2) Interest on investment deposits shall be payable at such rates as the Treasury may from time to time determine[^c-fa1b9715ebf422578d39aa58e1fe0098], and different rates may be so determined in relation to different descriptions of investment deposits and[^c816722] different periods of notice of withdrawal.
 
-((2ZA))[^key-5f5be1e5de559b2cde9fc8261aaa6a1d] The Treasury may determine that a rate of interest payable on investment deposits, or investment deposits of a particular description, is to be a rate produced by the operation of a formula involving the movement of an index or indices or any other factor.
+((2ZA))[^c-5f5be1e5de559b2cde9fc8261aaa6a1d] The Treasury may determine that a rate of interest payable on investment deposits, or investment deposits of a particular description, is to be a rate produced by the operation of a formula involving the movement of an index or indices or any other factor.
 
 (2A)[^c816723] Without prejudice to the generality of subsection (2) above, the Treasury may determine, in relation to an account into which investment deposits of any description are made, different rates of interest by reference to any one or more of the following factors, namely—
 
 - (a) the balance of that account at any time or over any period or the aggregate balance of the account and the depositor’s other accounts of the same description, or the depositor’s other investment accounts of any description, at any time or over any period; and
 - (b) the number of withdrawals from that account over any period or the number of withdrawals from that account and the depositor’s other accounts of the same description, or the depositor’s other investment accounts of any description, over any period.
 
-(3) The Director of Savings shall give notice in the London, Edinburgh and Belfast Gazettes of any alteration in a rate of interest payable on investment deposits or investment deposits of a particular description[^c816724](other than one occasioned by the operation of a formula)[^key-5b1acb166f00d69e218ee8856ff0b8ea]; and any such alteration may affect deposits received at or before, as well as after the time the alteration is made.
+(3) The Director of Savings shall give notice in the London, Edinburgh and Belfast Gazettes of any alteration in a rate of interest payable on investment deposits or investment deposits of a particular description[^c816724](other than one occasioned by the operation of a formula)[^c-5b1acb166f00d69e218ee8856ff0b8ea]; and any such alteration may affect deposits received at or before, as well as after the time the alteration is made.
 
-(4)[^key-c4d7b4c40391bff7dd514d41bf4394aa] In the case of an alteration in a rate of interest not affecting deposits received before it is made, any notice of the alteration required to be given by subsection (3) above may be given after the alteration is made.
+(4)[^c-c4d7b4c40391bff7dd514d41bf4394aa] In the case of an alteration in a rate of interest not affecting deposits received before it is made, any notice of the alteration required to be given by subsection (3) above may be given after the alteration is made.
 
 ### 7. Withdrawal of deposits.
 
@@ -128,7 +128,7 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 
 - (a) for prescribing what declaration shall be required from a depositor, other than the Public Trustee, on opening an account in the National Savings Bank;
 - (b)[^c816727] for the giving of statements of accounts or the issuing of depositors’ books and for prescribing the entries to be made in such books;
-- (ba)[^key-5a424a774bb0f4873688ba5ad375d04a] for the issuing of cards for use in making investment deposits or in withdrawing cash from investment accounts (or both) and regulating the use of such cards;
+- (ba)[^c-5a424a774bb0f4873688ba5ad375d04a] for the issuing of cards for use in making investment deposits or in withdrawing cash from investment accounts (or both) and regulating the use of such cards;
 - (c) for the giving of receipts and acknowledgments;
 - (d) for treating entries, receipts , acknowledgements or statements of accounts made or given[^c816728] in pursuance of the regulations as evidence or conclusive evidence of such facts as may be prescribed;
 - (e) for preventing the making of deposits of less than such amount as may be specified in the regulations;
@@ -149,7 +149,7 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 - (c) for directing that any person acting as witness to a nomination shall be disqualified from taking thereunder;
 - (d) for authorising any person named as nominee in any nomination who dies after the death of the nominator but before receiving payment of the sum to be paid to him under the nomination to be treated as a depositor.
 
-(3)[^key-e737c719cc7a4002d14db8758b29f321] Regulations under section 2 of this Act may also make provision—
+(3)[^c-e737c719cc7a4002d14db8758b29f321] Regulations under section 2 of this Act may also make provision—
 
 - (a) prohibiting the opening of ordinary accounts after a prescribed date;
 - (b) prohibiting the opening of investment accounts of a prescribed description after a date prescribed in relation to that description of accounts;
@@ -171,7 +171,7 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 
 (2) Subsection (1) above shall be included among the provisions with respect to which the Treasury may make an order under section 6(1) of the [^c816731]Administration of Estates (Small Payments) Act 1965 substituting for references to £500 references to such higher amount as may be specified in the order.
 
-### 9A. Investment account terms and conditions[^key-04a06c8a3fa34ba5121c236a60be45f0]
+### 9A. Investment account terms and conditions[^c-04a06c8a3fa34ba5121c236a60be45f0]
 
 (1) Any provision which may be made in relation to investment deposits by regulations under section 2 of this Act may, in the case of deposits in investment accounts of any description first made available after the passing of the Finance Act 2003, be included instead in the terms and conditions of the accounts.
 
@@ -179,11 +179,11 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 
 (3) In this section “**terms and conditions**” means terms and conditions set by the Treasury and published by Director of Savings in a manner approved by the Treasury.
 
-### 10. Settlement of disputes.[^key-961f97f2755f2f891da0b5841d15db99]
+### 10. Settlement of disputes.[^c-961f97f2755f2f891da0b5841d15db99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Fees on reference of disputes.[^key-4d05ac650049f7aa45dba0f5650c9566][^c816739]
+### 11. Fees on reference of disputes.[^c-4d05ac650049f7aa45dba0f5650c9566][^c816739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ An Act to consolidate certain enactments relating to the National Savings Bank, 
 - (a) use the information for a purpose other than a permitted purpose;
 - (b) disclose the information to any other person.
 
-(3) Subsection (1) above shall have effect subject to the provisions of section 17(3) of the [^c816746]Taxes Management Act 1970 (which relates to the obtaining of information as to interest paid or credited without deduction of income tax) and of Schedule 36 to the Finance Act 2008 (powers of officers of Revenue and Customs to obtain information and documents and inspect business premises)[^key-7bab2467e792b50b7ca2ffdf0913537c]
+(3) Subsection (1) above shall have effect subject to the provisions of section 17(3) of the [^c816746]Taxes Management Act 1970 (which relates to the obtaining of information as to interest paid or credited without deduction of income tax) and of Schedule 36 to the Finance Act 2008 (powers of officers of Revenue and Customs to obtain information and documents and inspect business premises)[^c-7bab2467e792b50b7ca2ffdf0913537c]
 
 ### 13, 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c816749]
 
@@ -228,7 +228,7 @@ the Director of Savings may cause any amount transferred in pursuance of the arr
 
 (2) The Director of Savings may defray all or any of the expenses of a penny savings bank which has a deposit account with the National Savings Bank.
 
-(3) Subsection (1) above shall have effect without prejudice to the provisions of section 27 of the Co-operative and Community Benefit Societies Act 2014[^key-a9f474ea90defdc578d8e36b2d256ef2] and section 31 of the [^c816753]Industrial and Provident Societies Act (Northern Ireland) 1969 (which deal with the investment powers of registered societies), and subject to—
+(3) Subsection (1) above shall have effect without prejudice to the provisions of section 27 of the Co-operative and Community Benefit Societies Act 2014[^c-a9f474ea90defdc578d8e36b2d256ef2] and section 31 of the [^c816753]Industrial and Provident Societies Act (Northern Ireland) 1969 (which deal with the investment powers of registered societies), and subject to—
 
 - (a) those provisions,
 - (b) the provisions of any regulations under section 2 of this Act, and
@@ -323,7 +323,7 @@ In this Act, unless the context otherwise requires,—
 - “**the Commissioners**” means the National Debt Commissioners;
 - “[^c816775] **interest** ”, in relation to investment deposits, includes any bonus or other payment, whether payable annually or otherwise, which constitutes income derived from the whole or any part of the deposits.
 - “**prescribed**” means prescribed by regulations made under section 2 of this Act;
-- [^key-d40bf42fef2a8e251914edd5737a9164]...
+- [^c-d40bf42fef2a8e251914edd5737a9164]...
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c816777]
 
 ### 28. Repeals and transitional provisions.
@@ -366,7 +366,7 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816698]: Textual amendment: S. 2(2) repealed by [Trustee Savings Banks Act 1985 (c. 58, SIF 110)](https://www.legislation.gov.uk/ukpga/1985/58), [ss. 4(3)(4)](https://www.legislation.gov.uk/ukpga/1985/58/section/4/3/4), [7(3)](https://www.legislation.gov.uk/ukpga/1985/58/section/7/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/58/schedule/4), [S.I](https://www.legislation.gov.uk/ukpga/1985/58/section/I). 1986/1220, art. 2(*b*), Sch. 2
 
-[^key-ef953d5a2ad46f91e5d62fd3ce932e19]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/ukpga/1971/29/section/3/1A) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/2)
+[^c-ef953d5a2ad46f91e5d62fd3ce932e19]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/ukpga/1971/29/section/3/1A) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/2)
 
 [^c816699]: Textual amendment: Words inserted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/2)(*a*)
 
@@ -380,7 +380,7 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816714]: Modification: S. 5 modified (11.02.1991) by [S.I. 1991/72](https://www.legislation.gov.uk/uksi/1991/72), [reg. 2](https://www.legislation.gov.uk/uksi/1991/72/regulation/2) (as substituted by [S.I. 1972/764](https://www.legislation.gov.uk/uksi/1972/764), [reg. 43](https://www.legislation.gov.uk/uksi/1972/764/regulation/43))
 
-[^key-e34fe80d89bdfad0c84e46fdab029c62]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1971/29/section/5) modified (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2015/623/regulation/35)
+[^c-e34fe80d89bdfad0c84e46fdab029c62]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1971/29/section/5) modified (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2015/623/regulation/35)
 
 [^c816713]: Modification: S. 5 modified by [S.I. 1972/764](https://www.legislation.gov.uk/uksi/1972/764), [reg. 43](https://www.legislation.gov.uk/uksi/1972/764/regulation/43) (as substituted by [S.I. 1991/72](https://www.legislation.gov.uk/uksi/1991/72), [reg. 2](https://www.legislation.gov.uk/uksi/1991/72/regulation/2))
 
@@ -398,19 +398,19 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816721]: Textual amendment: Words added by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 5(1)](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/5/1)
 
-[^key-fa1b9715ebf422578d39aa58e1fe0098]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/2) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/4)
+[^c-fa1b9715ebf422578d39aa58e1fe0098]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/2) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/4)
 
 [^c816722]: Textual amendment: Words inserted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 5(2)](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/5/2)
 
-[^key-5f5be1e5de559b2cde9fc8261aaa6a1d]: Textual amendment: [S. 6(2ZA)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/2ZA) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/5)
+[^c-5f5be1e5de559b2cde9fc8261aaa6a1d]: Textual amendment: [S. 6(2ZA)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/2ZA) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/5)
 
 [^c816723]: Textual amendment: S. 6(2A) inserted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 5(3)](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/5/3)
 
 [^c816724]: Textual amendment: Words substituted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 5(4)](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/5/4)
 
-[^key-5b1acb166f00d69e218ee8856ff0b8ea]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/3) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(6)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/6)
+[^c-5b1acb166f00d69e218ee8856ff0b8ea]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/3) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(6)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/6)
 
-[^key-c4d7b4c40391bff7dd514d41bf4394aa]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/4) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/7)
+[^c-c4d7b4c40391bff7dd514d41bf4394aa]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1971/29/section/6/4) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/7)
 
 [^c816725]: Textual amendment: Words substituted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/6)(*a*)
 
@@ -418,11 +418,11 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816727]: Textual amendment: S. 8(1)(*b*) substituted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/7)(*a*)
 
-[^key-5a424a774bb0f4873688ba5ad375d04a]: Textual amendment: S. 8(1)(ba) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(9)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/9)
+[^c-5a424a774bb0f4873688ba5ad375d04a]: Textual amendment: S. 8(1)(ba) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(9)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/9)
 
 [^c816728]: Textual amendment: Words substituted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/7)(*b*)
 
-[^key-e737c719cc7a4002d14db8758b29f321]: Textual amendment: S. 8(3)(4) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(10)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/10)
+[^c-e737c719cc7a4002d14db8758b29f321]: Textual amendment: S. 8(3)(4) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(10)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/10)
 
 [^c816729]: Modification: S. 9(1) has effect by virtue of [S.I. 1984/539](https://www.legislation.gov.uk/uksi/1984/539), [art. 2](https://www.legislation.gov.uk/uksi/1984/539/article/2)(*e*) as if for the reference to £1,500 there were substituted a reference to £5,000
 
@@ -430,11 +430,11 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816731]: Marginal citation: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32).
 
-[^key-04a06c8a3fa34ba5121c236a60be45f0]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/1971/29/section/9A) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(11)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/11)
+[^c-04a06c8a3fa34ba5121c236a60be45f0]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/1971/29/section/9A) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 208(11)](https://www.legislation.gov.uk/ukpga/2003/14/section/208/11)
 
-[^key-961f97f2755f2f891da0b5841d15db99]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1971/29/section/10) repealed (20.7.2005 with effect in accordance with Sch. 11 Pt. 5(2) Note) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
+[^c-961f97f2755f2f891da0b5841d15db99]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1971/29/section/10) repealed (20.7.2005 with effect in accordance with Sch. 11 Pt. 5(2) Note) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
 
-[^key-4d05ac650049f7aa45dba0f5650c9566]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1971/29/section/11) repealed (20.7.2005 with effect in accordance with Sch. 11 Pt. 5(2) Note) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
+[^c-4d05ac650049f7aa45dba0f5650c9566]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1971/29/section/11) repealed (20.7.2005 with effect in accordance with Sch. 11 Pt. 5(2) Note) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
 
 [^c816739]: Modification: S. 11 extended by [S.I. 1984/779](https://www.legislation.gov.uk/uksi/1984/779), [arts. 23(4)](https://www.legislation.gov.uk/uksi/1984/779/article/23/4), [32](https://www.legislation.gov.uk/uksi/1984/779/article/32)
 
@@ -446,7 +446,7 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816746]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-7bab2467e792b50b7ca2ffdf0913537c]: Textual amendment: Words in s. 12(3) substituted (1.4.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 78](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/78) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/404/article/11))
+[^c-7bab2467e792b50b7ca2ffdf0913537c]: Textual amendment: Words in s. 12(3) substituted (1.4.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 78](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/78) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/404/article/11))
 
 [^c816749]: Textual amendment: Ss. 13, 14 repealed by [Trustee Savings Banks Act 1985 (c. 58, SIF 110)](https://www.legislation.gov.uk/ukpga/1985/58), [ss. 4(3)(4)](https://www.legislation.gov.uk/ukpga/1985/58/section/4/3/4), [7(3)](https://www.legislation.gov.uk/ukpga/1985/58/section/7/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/58/schedule/4), and [S.I. 1986/1220](https://www.legislation.gov.uk/uksi/1986/1220), [art. 2](https://www.legislation.gov.uk/uksi/1986/1220/article/2)(*b*), Sch. 2
 
@@ -454,7 +454,7 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816751]: Marginal citation: [1954 c. 62](https://www.legislation.gov.uk/ukpga/1954/62).
 
-[^key-a9f474ea90defdc578d8e36b2d256ef2]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/1971/29/section/16) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-a9f474ea90defdc578d8e36b2d256ef2]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/1971/29/section/16) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c816753]: Marginal citation: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24)
 
@@ -488,7 +488,7 @@ Schedule 2 [image: see source](https://www.legislation.gov.uk/ukpga/1971/29/imag
 
 [^c816775]: Textual amendment: Definition inserted by [Finance Act 1982 (c. 39, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 151](https://www.legislation.gov.uk/ukpga/1982/39/section/151), [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/1982/39/schedule/20/paragraph/8)
 
-[^key-d40bf42fef2a8e251914edd5737a9164]: Textual amendment: Words in s. 27 repealed (20.7.2005 with effect in accordance with Sch. 11 Pt. 5(2) Note) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
+[^c-d40bf42fef2a8e251914edd5737a9164]: Textual amendment: Words in s. 27 repealed (20.7.2005 with effect in accordance with Sch. 11 Pt. 5(2) Note) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
 
 [^c816777]: Textual amendment: Definition of “trustee savings bank” repealed by [Trustee Savings Banks Act 1985 (c. 58, SIF 110)](https://www.legislation.gov.uk/ukpga/1985/58), [ss. 4(3)(4)](https://www.legislation.gov.uk/ukpga/1985/58/section/4/3/4), [7(3)](https://www.legislation.gov.uk/ukpga/1985/58/section/7/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/58/schedule/4), and [S.I. 1986/1220](https://www.legislation.gov.uk/uksi/1986/1220), [art. 2](https://www.legislation.gov.uk/uksi/1986/1220/article/2)(*b*), Sch. 2
 

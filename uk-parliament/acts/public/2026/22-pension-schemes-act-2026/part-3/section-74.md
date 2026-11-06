@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Capital buffer: permitted release to other persons[^key-298454942b7de7c383970a4c9e75f678]
+## 74. Capital buffer: permitted release to other persons[^c-298454942b7de7c383970a4c9e75f678]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ and for the purposes of paragraph (a) the capital adequacy threshold is “excee
 
 ## Annotations
 
-[^key-298454942b7de7c383970a4c9e75f678]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-298454942b7de7c383970a4c9e75f678]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

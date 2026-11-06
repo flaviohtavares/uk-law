@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69B. Functions of the OfS in relation to students’ unions[^key-e8f96183b89ee2adca927205f5a52134]
+## 69B. Functions of the OfS in relation to students’ unions[^c-e8f96183b89ee2adca927205f5a52134]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f96183b89ee2adca927205f5a52134]: Textual amendment: [S. 69B](https://www.legislation.gov.uk/ukpga/2017/29/section/69B) inserted (11.5.2023 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2023/16/section/7/1), [13(1)(a)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3)
+[^c-e8f96183b89ee2adca927205f5a52134]: Textual amendment: [S. 69B](https://www.legislation.gov.uk/ukpga/2017/29/section/69B) inserted (11.5.2023 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2023/16/section/7/1), [13(1)(a)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3)

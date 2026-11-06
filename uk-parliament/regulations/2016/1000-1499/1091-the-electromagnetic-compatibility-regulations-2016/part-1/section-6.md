@@ -26,10 +26,10 @@ Nothing in these Regulations prevents the making available on the market, or the
 
 *Extent: N.I.*
 
-Nothing in these Regulations prevents the making available on the market, or the putting into service in Northern Ireland[^key-1770c81af491ab2457223c4371f1f839], of equipment which is in conformity with Part 2 when the equipment is properly installed, maintained and used for its intended purpose.
+Nothing in these Regulations prevents the making available on the market, or the putting into service in Northern Ireland[^c-1770c81af491ab2457223c4371f1f839], of equipment which is in conformity with Part 2 when the equipment is properly installed, maintained and used for its intended purpose.
 
 ## Annotations
 
 [^M_E_90c8f189-51a4-43bb-f499-97c3d04f4cea]: Extent: This version of this provision extends to England, Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1770c81af491ab2457223c4371f1f839]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2016/1091/regulation/6) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 8 para. 2(6)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/8/paragraph/2/6)
+[^c-1770c81af491ab2457223c4371f1f839]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2016/1091/regulation/6) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 8 para. 2(6)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/8/paragraph/2/6)

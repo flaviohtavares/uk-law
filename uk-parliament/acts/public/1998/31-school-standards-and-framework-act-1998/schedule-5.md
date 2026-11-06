@@ -62,7 +62,7 @@ Section 25.
 
 *Extent: E+W*
 
-**5.** (1) Regulations may make provision as to the procedure to be followed in connection with the reference, under this Part or Part III of this Act or under Part 2 of the Education and Inspections Act 2006[^key-611504837dc7b0f0aa1201fa6a515f22], of matters to adjudicators and their determination of matters so referred.
+**5.** (1) Regulations may make provision as to the procedure to be followed in connection with the reference, under this Part or Part III of this Act or under Part 2 of the Education and Inspections Act 2006[^c-611504837dc7b0f0aa1201fa6a515f22], of matters to adjudicators and their determination of matters so referred.
 
 (2) The regulations may, in particular, make provision—
 
@@ -86,10 +86,10 @@ and any costs payable under any such order shall be subject to taxation in such 
 
 **6.** When taking any decision an adjudicator shall have regard (so far as relevant) to the obligations which, by virtue of—
 
-- (a)[^key-eae032e5f1410c7d0e451cfb27fe7d68][^key-8f1d8feb2b108534a3b7c3e59a15b7e7] section 149 of the Equality Act 2010,
+- (a)[^c-eae032e5f1410c7d0e451cfb27fe7d68][^c-8f1d8feb2b108534a3b7c3e59a15b7e7] section 149 of the Equality Act 2010,
 - (b) Parts 3 and 6 of the Equality Act 2010,
 
-are owed by any local authority[^key-5177265949adaa73e26402711f36dc2e] or governing body which will be affected by the decision.
+are owed by any local authority[^c-5177265949adaa73e26402711f36dc2e] or governing body which will be affected by the decision.
 
 ### Indemnity
 
@@ -107,7 +107,7 @@ are owed by any local authority[^key-5177265949adaa73e26402711f36dc2e] or govern
 
 *Extent: E+W*
 
-**9.** For the purposes of section 5 of the [^c14011551]Parliamentary Commissioner Act 1967 (matters subject to investigation) administrative functions exercisable by any person provided by the Secretary of State under paragraph 4 above shall be taken to be administrative functions of the[^key-fa886ba14fde996e2b545d58577242d3] Department for Education[^key-2e85494d73d2a099b58d2739c483a040].
+**9.** For the purposes of section 5 of the [^c14011551]Parliamentary Commissioner Act 1967 (matters subject to investigation) administrative functions exercisable by any person provided by the Secretary of State under paragraph 4 above shall be taken to be administrative functions of the[^c-fa886ba14fde996e2b545d58577242d3] Department for Education[^c-2e85494d73d2a099b58d2739c483a040].
 
 ### Supervision of Council on Tribunals
 
@@ -121,20 +121,20 @@ are owed by any local authority[^key-5177265949adaa73e26402711f36dc2e] or govern
 
 ## Annotations
 
-[^key-611504837dc7b0f0aa1201fa6a515f22]: Textual amendment: Words in [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/5/1) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/32); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
+[^c-611504837dc7b0f0aa1201fa6a515f22]: Textual amendment: Words in [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/5/1) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/32); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
 
-[^key-eae032e5f1410c7d0e451cfb27fe7d68]: Textual amendment: [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/6/a) substituted (5.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [5](https://www.legislation.gov.uk/uksi/2011/1060/article/5)
+[^c-eae032e5f1410c7d0e451cfb27fe7d68]: Textual amendment: [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/6/a) substituted (5.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [5](https://www.legislation.gov.uk/uksi/2011/1060/article/5)
 
-[^key-8f1d8feb2b108534a3b7c3e59a15b7e7]: Textual amendment: Sch. 5 para. 6(a)(b) substituted for Sch. 5 paras. (6)(a)-(c) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
+[^c-8f1d8feb2b108534a3b7c3e59a15b7e7]: Textual amendment: Sch. 5 para. 6(a)(b) substituted for Sch. 5 paras. (6)(a)-(c) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14011541]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
 [^c14011551]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-fa886ba14fde996e2b545d58577242d3]: Textual amendment: Words in [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/9) substituted (12.12.2007) by [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/7)
+[^c-fa886ba14fde996e2b545d58577242d3]: Textual amendment: Words in [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/9) substituted (12.12.2007) by [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/7)
 
-[^key-2e85494d73d2a099b58d2739c483a040]: Textual amendment: Words in [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/9) substituted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/2)
+[^c-2e85494d73d2a099b58d2739c483a040]: Textual amendment: Words in [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/9) substituted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/2)
 
 [^c14011561]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).

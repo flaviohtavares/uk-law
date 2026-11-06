@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133M. Application of sections 133A and 133B in relation to corporate partner[^key-c98210a82b63e9fb0bbc42a0013b43b0]
+## 133M. Application of sections 133A and 133B in relation to corporate partner[^c-c98210a82b63e9fb0bbc42a0013b43b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) on or after 29 April 1988, and
 - (b) at a time when—
   - (i) the corporate partner is for the purposes of section 133A a banking company, and
-  - (ii)[^key-c277efdc743895090d71c2e38558fc7b] the firm would not (if references in section 133F(2) and (3) to companies included firms) be an excluded company for the purposes of section 133E.
+  - (ii)[^c-c277efdc743895090d71c2e38558fc7b] the firm would not (if references in section 133F(2) and (3) to companies included firms) be an excluded company for the purposes of section 133E.
 
 (6) The disclosure condition in section 133C may be met by a relevant document relating to the liability of the corporate partner (as well as by a relevant document relating to the liability of the firm).
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
+[^c-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
 
-[^key-c277efdc743895090d71c2e38558fc7b]: Textual amendment: S. 133M(5)(b)(ii) substituted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/5)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/6)
+[^c-c277efdc743895090d71c2e38558fc7b]: Textual amendment: S. 133M(5)(b)(ii) substituted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/5)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/6)

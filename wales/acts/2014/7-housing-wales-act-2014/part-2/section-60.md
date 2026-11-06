@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Duty to provide information, advice and assistance in accessing help[^key-11da4fb5ea21214892b895c9dbf7ccf6]
+## 60. Duty to provide information, advice and assistance in accessing help[^c-11da4fb5ea21214892b895c9dbf7ccf6]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11da4fb5ea21214892b895c9dbf7ccf6]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2014/7/section/60) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 11](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/11)
+[^c-11da4fb5ea21214892b895c9dbf7ccf6]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2014/7/section/60) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 11](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/11)

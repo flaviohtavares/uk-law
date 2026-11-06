@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-[^key-3637160f2e48582e66a755e6ac83328c]
+[^c-3637160f2e48582e66a755e6ac83328c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3637160f2e48582e66a755e6ac83328c]: Textual amendment: Pt. 4 Ch. 1 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8) (with [s. 26(9)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/9)[(10)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/10)[(28)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/28)); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/iv) (with savings in S.I. 2004/671, arts. 1(1), 2(3)(4)
+[^c-3637160f2e48582e66a755e6ac83328c]: Textual amendment: Pt. 4 Ch. 1 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8) (with [s. 26(9)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/9)[(10)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/10)[(28)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/28)); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/iv) (with savings in S.I. 2004/671, arts. 1(1), 2(3)(4)

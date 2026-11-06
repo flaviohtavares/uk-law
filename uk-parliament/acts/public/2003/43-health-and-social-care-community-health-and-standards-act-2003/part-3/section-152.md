@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Section 151: supplementary[^key-6bdaa8cd57b830d2caf489a93607ce40][^key-3699171a09d30704cb0444ee830b40ce]
+## 152. Section 151: supplementary[^c-6bdaa8cd57b830d2caf489a93607ce40][^c-3699171a09d30704cb0444ee830b40ce]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ in respect of the same injured person in consequence of the same injury.
 
 ## Annotations
 
-[^key-6bdaa8cd57b830d2caf489a93607ce40]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2003/43/section/152) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
+[^c-6bdaa8cd57b830d2caf489a93607ce40]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2003/43/section/152) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
 
-[^key-3699171a09d30704cb0444ee830b40ce]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2003/43/section/152) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
+[^c-3699171a09d30704cb0444ee830b40ce]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2003/43/section/152) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)

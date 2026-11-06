@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Application of Act to members of transitional classes[^key-c5ad9b2fad648b407405550d50f87016]
+## SCHEDULE 9 — Application of Act to members of transitional classes[^c-c5ad9b2fad648b407405550d50f87016]
 
 *Extent: E+W+S+N.I.*
 
 Section 129.
 
-### Part I — The original transitional class of members of the reserve forces[^key-74be077c859f9197e8de77bdacb38467]
+### Part I — The original transitional class of members of the reserve forces[^c-74be077c859f9197e8de77bdacb38467]
 
-**1.** (1) The original transitional class[^key-e2a408ee1bb834fc9ee912c798daf6ce] consists of persons who—
+**1.** (1) The original transitional class[^c-e2a408ee1bb834fc9ee912c798daf6ce] consists of persons who—
 
 - (a) are members of a reserve force;
 - (b) for the time being fall within paragraph 2 or 3; and
 - (c) have not made an election under paragraph 4.
 
-(2) In this Schedule “**transitional member**” means a member of a reserve force who for the time being is a member of the original transitional class[^key-923bdff509dc127d0e68fbbca05ec749]; and “transitional officer” and “transitional man” shall be construed accordingly.
+(2) In this Schedule “**transitional member**” means a member of a reserve force who for the time being is a member of the original transitional class[^c-923bdff509dc127d0e68fbbca05ec749]; and “transitional officer” and “transitional man” shall be construed accordingly.
 
 (3) In this Part of this Schedule “**the appointed day**” means such day as the Secretary of State may by order made by statutory instrument appoint for the purposes of this Part of this Schedule.
 
@@ -52,7 +52,7 @@ Section 129.
 - (a) joined those services before the appointed day; and
 - (b) has not re-enlisted, re-engaged or extended his service, or become an officer, on or after that day,
 
-may at any time[^key-889ec8caf7ad3202bfe060da0f247ddb] elect not to be a transitional member on his transfer to the reserve.
+may at any time[^c-889ec8caf7ad3202bfe060da0f247ddb] elect not to be a transitional member on his transfer to the reserve.
 
 (3) An election under this paragraph is irrevocable and must be made in the prescribed manner.
 
@@ -62,9 +62,9 @@ may at any time[^key-889ec8caf7ad3202bfe060da0f247ddb] elect not to be a transit
 
 (2) A person in permanent service on recall (whether under the [^c8320451]Reserve Forces Act 1980 or, in the case of an officer, otherwise than under this Act) shall not be regarded for the purposes of this Part of this Schedule as serving in the regular services.
 
-### Part II — Application of Act to members of the original transitional class[^key-125145d5783807e9cd0d4c3dfc480d18]
+### Part II — Application of Act to members of the original transitional class[^c-125145d5783807e9cd0d4c3dfc480d18]
 
-**6.** The provisions of this Act (other than section 129 and this Schedule) apply in relation to members of the original transitional class[^key-e3e82289107486a8cf3007087048ff8a] in accordance with this Part of this Schedule.
+**6.** The provisions of this Act (other than section 129 and this Schedule) apply in relation to members of the original transitional class[^c-e3e82289107486a8cf3007087048ff8a] in accordance with this Part of this Schedule.
 
 **7.** (1) Any reference in this Act to a reserve force, to two or more of the reserve forces or to all the reserve forces shall, unless the context otherwise requires, be construed as a reference to the whole of the force, or of each force, concerned, including any transitional members.
 
@@ -82,7 +82,7 @@ may at any time[^key-889ec8caf7ad3202bfe060da0f247ddb] elect not to be a transit
 
 **10.** Section 22 does not apply to transitional members of a reserve land, air or marine force.
 
-**11.** In the application of section 24 to a transitional member who has entered into a full-time service commitment *(affected by repeal, see note)*[^key-4ba2fec1c7c38b145f74c166779b761f] commitment under that section—
+**11.** In the application of section 24 to a transitional member who has entered into a full-time service commitment *(affected by repeal, see note)*[^c-4ba2fec1c7c38b145f74c166779b761f] commitment under that section—
 
 - (a) for the reference in subsection (7) to permanent service under Part VI there shall be substituted a reference to permanent service on call out under the [^c8320461]Reserve Forces Act 1980 or, as the case may be, under any other call-out obligations of an officer; and
 - (b) for the reference in subsection (8) to training under section 22 there shall (except in the case of a member of a reserve naval force) be substituted a reference to training required under the Reserve Forces Act 1980 or, as the case may be, under any other training obligations of an officer.
@@ -91,7 +91,7 @@ may at any time[^key-889ec8caf7ad3202bfe060da0f247ddb] elect not to be a transit
 
 (2) Transitional members of a reserve force do not lose their status as transitional members by virtue of either becoming special members of the force or (where they continue as ordinary members under section 42) ceasing to be special members of the force.
 
-**12A.**[^key-2a37137e6a734318daa8a2e2163de8cc] In the application of section 28(3)(a) to a special agreement entered into by a transitional member, for the reference to a period not exceeding 12 months there shall be substituted a reference to a period not exceeding 9 months.
+**12A.**[^c-2a37137e6a734318daa8a2e2163de8cc] In the application of section 28(3)(a) to a special agreement entered into by a transitional member, for the reference to a period not exceeding 12 months there shall be substituted a reference to a period not exceeding 9 months.
 
 **13.** In the application of section 31(1) to a special agreement entered into by a transitional member, for the reference in paragraph (d) to permanent service under Part VI there shall be substituted a reference to permanent service under the Reserve Forces Act 1980 or, as the case may be, under any other call-out obligations of an officer.
 
@@ -108,7 +108,7 @@ may at any time[^key-889ec8caf7ad3202bfe060da0f247ddb] elect not to be a transit
 
 **18.** Part VI does not apply to transitional members.
 
-**19.** Regulations under section 78, 83, 84 or 84A[^key-f309fc7043cbdc5b44e0a99af9303e6e] may make provision, in relation to transitional members liable to be called out under—
+**19.** Regulations under section 78, 83, 84 or 84A[^c-f309fc7043cbdc5b44e0a99af9303e6e] may make provision, in relation to transitional members liable to be called out under—
 
 - (a) the Reserve Forces Act 1980, or
 - (b) any other call-out obligations of officers,
@@ -122,13 +122,13 @@ corresponding to the provision which may be made in regulations under that secti
 
 **21.** In the application of section 97(2) to a transitional member, for the reference to section 22 there shall (except in the case of a member of a reserve naval force) be substituted a reference to the corresponding provision of the Reserve Forces Act 1980 or, as the case may be, of any other training obligations of an officer.
 
-**22.**[^key-580a42c07c0a6675ef94d513d400c446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-580a42c07c0a6675ef94d513d400c446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-34ada6e05f890ec48396d0ce81f5fb7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-34ada6e05f890ec48396d0ce81f5fb7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** In the application of section 125 to a transitional member, the reference to permanent service includes a reference to permanent service under the Reserve Forces Act 1980 or, as the case may be, under any other call-out obligations of an officer.
 
-### Part 3 — The second transitional class of members of the reserve forces[^key-0a8d786172eaa54b5424aaaaee8e1971]
+### Part 3 — The second transitional class of members of the reserve forces[^c-0a8d786172eaa54b5424aaaaee8e1971]
 
 **25.** (1) The second transitional class consists of persons who—
 
@@ -196,34 +196,34 @@ may at any time elect not to become a member of the second transitional class on
 
 ## Annotations
 
-[^key-c5ad9b2fad648b407405550d50f87016]: Textual amendment: Words in Sch. 9 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/5) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-c5ad9b2fad648b407405550d50f87016]: Textual amendment: Words in Sch. 9 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/5) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-74be077c859f9197e8de77bdacb38467]: Textual amendment: Words in Sch. 9 Pt. 1 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/2) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-74be077c859f9197e8de77bdacb38467]: Textual amendment: Words in Sch. 9 Pt. 1 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/2) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-e2a408ee1bb834fc9ee912c798daf6ce]: Textual amendment: Words in Sch. 9 para. 1(1) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-e2a408ee1bb834fc9ee912c798daf6ce]: Textual amendment: Words in Sch. 9 para. 1(1) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-923bdff509dc127d0e68fbbca05ec749]: Textual amendment: Words in Sch. 9 para. 1(2) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-923bdff509dc127d0e68fbbca05ec749]: Textual amendment: Words in Sch. 9 para. 1(2) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-889ec8caf7ad3202bfe060da0f247ddb]: Textual amendment: Words in Sch. 9 para. 4(2) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/4) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-889ec8caf7ad3202bfe060da0f247ddb]: Textual amendment: Words in Sch. 9 para. 4(2) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/4) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
 [^c8320451]: Marginal citation: [1980 c.9](https://www.legislation.gov.uk/ukpga/1980/9).
 
-[^key-125145d5783807e9cd0d4c3dfc480d18]: Textual amendment: Words in Sch. 9 Pt. 2 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(5)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/5) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-125145d5783807e9cd0d4c3dfc480d18]: Textual amendment: Words in Sch. 9 Pt. 2 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(5)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/5) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-e3e82289107486a8cf3007087048ff8a]: Textual amendment: Words in Sch. 9 para. 6 substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-e3e82289107486a8cf3007087048ff8a]: Textual amendment: Words in Sch. 9 para. 6 substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-4ba2fec1c7c38b145f74c166779b761f]: Textual amendment: Words in [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/1996/14/schedule/9/paragraph/11) substituted (1.5.2022 for specified purposes) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/6) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/10)); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)
+[^c-4ba2fec1c7c38b145f74c166779b761f]: Textual amendment: Words in [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/1996/14/schedule/9/paragraph/11) substituted (1.5.2022 for specified purposes) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/6) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/35/schedule/2/paragraph/10)); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)
 
 [^c8320461]: Marginal citation: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
-[^key-2a37137e6a734318daa8a2e2163de8cc]: Textual amendment: Sch. 9 para. 12A inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(6)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/6) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-2a37137e6a734318daa8a2e2163de8cc]: Textual amendment: Sch. 9 para. 12A inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(6)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/6) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-f309fc7043cbdc5b44e0a99af9303e6e]: Textual amendment: Words in Sch. 9 para. 19 substituted (5.9.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/9) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)
+[^c-f309fc7043cbdc5b44e0a99af9303e6e]: Textual amendment: Words in Sch. 9 para. 19 substituted (5.9.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/9) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)
 
 [^c8320471]: Marginal citation: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9)
 
-[^key-580a42c07c0a6675ef94d513d400c446]: Textual amendment: Sch. 9 para. 22 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 58](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/58), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-580a42c07c0a6675ef94d513d400c446]: Textual amendment: Sch. 9 para. 22 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 58](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/58), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-34ada6e05f890ec48396d0ce81f5fb7a]: Textual amendment: Sch. 9 para. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 58](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/58), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-34ada6e05f890ec48396d0ce81f5fb7a]: Textual amendment: Sch. 9 para. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 58](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/58), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-0a8d786172eaa54b5424aaaaee8e1971]: Textual amendment: Sch. 9 Pts. 3, 4 inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(7)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/7) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-0a8d786172eaa54b5424aaaaee8e1971]: Textual amendment: Sch. 9 Pts. 3, 4 inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 6 para. 4(7)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4/7) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)

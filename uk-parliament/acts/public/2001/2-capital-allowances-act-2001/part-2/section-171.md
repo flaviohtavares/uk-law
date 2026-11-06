@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Disposal values on cessation of ownership[^key-845a690d2fa93be0d47eb478ad07bdd6]
+## 171. Disposal values on cessation of ownership[^c-845a690d2fa93be0d47eb478ad07bdd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-845a690d2fa93be0d47eb478ad07bdd6]: Modification: S. 171 excluded (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/14/2/a); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-845a690d2fa93be0d47eb478ad07bdd6]: Modification: S. 171 excluded (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/14/2/a); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)

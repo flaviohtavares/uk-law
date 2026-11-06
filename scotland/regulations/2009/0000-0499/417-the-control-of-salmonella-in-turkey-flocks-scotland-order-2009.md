@@ -59,7 +59,7 @@ In this Order—
 - “**flock**” means all turkeys of the same health status kept on the same premises or in the same enclosure and constituting a single epidemiological unit and, in the case of housed turkeys, includes all turkeys sharing the same airspace;
 - “**holding**” means any holding on which one or more turkey flocks are kept or are intended to be kept;
 - “**occupier**” means, in relation to any holding, the person in charge of the holding;
-- “Regulation ([^key-000e706c030ff980caf259b1978dfe03]EU) No 1190/2012” means [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) concerning a Union target for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in flocks of turkeys, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council,
+- “Regulation ([^c-000e706c030ff980caf259b1978dfe03]EU) No 1190/2012” means [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) concerning a Union target for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in flocks of turkeys, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council,
 - “**Regulation 2160/2003**” means Regulation (EC) No. 2160/2003 of the European Parliament and of the Council on the Control of Salmonella and other specified food-borne zoonotic agents [^c19970101], as amended from time to time;
 - “**turkey**” means domestic fowl of the species *meleagris gallopavo* or *meleagris ocellata*; and
 - “**turkey flock**” means a flock of turkeys kept for breeding or fattening purpose.
@@ -68,7 +68,7 @@ In this Order—
 
 The Scottish Ministers are the competent authority for the purposes of—
 
-- (a) Regulation ([^key-309a24ae1b0f623b782413be09d17d6e]EU) No 1190/2012;
+- (a) Regulation ([^c-309a24ae1b0f623b782413be09d17d6e]EU) No 1190/2012;
 - (b) Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of salmonella in poultry [^c19970111], as amended from time to time (“Commission Regulation (EC) No. 1177/2006”); and
 - (c) Regulation 2160/2003.
 
@@ -98,7 +98,7 @@ The occupier of a holding on which one or more turkey flocks are kept must notif
 
 The occupier must carry out the sampling obligations of the operator for turkey flocks in accordance with—
 
-- (a) the Annex to Regulation ([^key-a45b64d447c4148accf32b20f3a12417]EU) No 1190/2012; or
+- (a) the Annex to Regulation ([^c-a45b64d447c4148accf32b20f3a12417]EU) No 1190/2012; or
 - (b) Part C of Annex II to Regulation 2160/2003.
 
 ## 6. Records of samples
@@ -116,7 +116,7 @@ The occupier must carry out the sampling obligations of the operator for turkey 
 
 ## 7. Submission of samples to an approved laboratory
 
-(1) The occupier must, on the day a sample is taken in accordance with Regulation ([^key-469777381a151ac46e16a65ac8c156fd]EU) No 1190/2012 or Regulation 2160/2003, dispatch it by first class post or courier to a laboratory approved by the Scottish Ministers for the purpose of testing for the presence of salmonella.
+(1) The occupier must, on the day a sample is taken in accordance with Regulation ([^c-469777381a151ac46e16a65ac8c156fd]EU) No 1190/2012 or Regulation 2160/2003, dispatch it by first class post or courier to a laboratory approved by the Scottish Ministers for the purpose of testing for the presence of salmonella.
 
 (2) In relation to each sample the occupier must provide the following information–
 
@@ -142,7 +142,7 @@ When turkeys are moved onto or off a holding the occupier must record for each t
 
 ## 9. Duties of the person in charge of a laboratory
 
-Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Regulation ([^key-af6f6f7edb0dec0605dc79b6fd3d3bb7]EU) No 1190/2012.
+Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Regulation ([^c-af6f6f7edb0dec0605dc79b6fd3d3bb7]EU) No 1190/2012.
 
 ## 10. Prohibition on the use of antimicrobials
 
@@ -198,16 +198,16 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c19970081]: Marginal citation: Section 2(2) was amended by paragraph 15(3) of Schedule 8 to the 1998 Act and section 27(1) of the 2006 Act. The function conferred upon the Minister of the Crown under this section, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-000e706c030ff980caf259b1978dfe03]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2009/417/article/2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/2)
+[^c-000e706c030ff980caf259b1978dfe03]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2009/417/article/2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/2)
 
 [^c19970101]: Marginal citation: O.J. No. L 325, 12.12.2003, p.1.
 
-[^key-309a24ae1b0f623b782413be09d17d6e]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/ssi/2009/417/article/3/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/3)
+[^c-309a24ae1b0f623b782413be09d17d6e]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/ssi/2009/417/article/3/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/3)
 
 [^c19970111]: Marginal citation: O.J. No. L 212, 2.8.2006, p.3.
 
-[^key-a45b64d447c4148accf32b20f3a12417]: Textual amendment: Words in [art. 5(a)](https://www.legislation.gov.uk/ssi/2009/417/article/5/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/4)
+[^c-a45b64d447c4148accf32b20f3a12417]: Textual amendment: Words in [art. 5(a)](https://www.legislation.gov.uk/ssi/2009/417/article/5/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/4)
 
-[^key-469777381a151ac46e16a65ac8c156fd]: Textual amendment: Words in art. 7(1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(5)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/5)
+[^c-469777381a151ac46e16a65ac8c156fd]: Textual amendment: Words in art. 7(1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(5)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/5)
 
-[^key-af6f6f7edb0dec0605dc79b6fd3d3bb7]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/ssi/2009/417/article/9) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(6)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/6)
+[^c-af6f6f7edb0dec0605dc79b6fd3d3bb7]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/ssi/2009/417/article/9) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(6)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/6)

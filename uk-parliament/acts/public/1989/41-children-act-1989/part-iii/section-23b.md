@@ -45,7 +45,7 @@ summary: ''
 
 (9) Support under subsection (8) may be in cash.
 
-(10) The Secretary of State[^key-c6aed8b29b26db8eab6d384b57b1fe3b] may by regulations make provision about the meaning of “ **suitable accommodation** ” and in particular about the suitability of landlords or other providers of accommodation.
+(10) The Secretary of State[^c-c6aed8b29b26db8eab6d384b57b1fe3b] may by regulations make provision about the meaning of “ **suitable accommodation** ” and in particular about the suitability of landlords or other providers of accommodation.
 
 (11) If the local authority have lost touch with a relevant child, despite taking reasonable steps to keep in touch, they must without delay—
 
@@ -64,4 +64,4 @@ and while the child is still a relevant child must continue to take such steps u
 
 [^c19937011]: Textual amendment: S. 23B(4)-(7) repealed (1.4.2011 for E., 19.6.2012 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/22/1), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/23/schedule/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(g)(l)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/g); [S.I. 2012/1553](https://www.legislation.gov.uk/wsi/2012/1553), [art. 2(a)(e)](https://www.legislation.gov.uk/wsi/2012/1553/article/2/a/e)
 
-[^key-c6aed8b29b26db8eab6d384b57b1fe3b]: Textual amendment: Words in s. 23B(10) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [75](https://www.legislation.gov.uk/wsi/2016/413/regulation/75)
+[^c-c6aed8b29b26db8eab6d384b57b1fe3b]: Textual amendment: Words in s. 23B(10) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [75](https://www.legislation.gov.uk/wsi/2016/413/regulation/75)

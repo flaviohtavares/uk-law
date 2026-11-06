@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — LIST OF PRESCRIBED MEDICAL CERTIFICATES[^key-6d1d99bb1ab3289d7f98eb12126197e2]
+## SCHEDULE 3 — LIST OF PRESCRIBED MEDICAL CERTIFICATES[^c-6d1d99bb1ab3289d7f98eb12126197e2]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ Regulation 21
 
 ## Annotations
 
-[^key-6d1d99bb1ab3289d7f98eb12126197e2]: Commencement: Sch. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6d1d99bb1ab3289d7f98eb12126197e2]: Commencement: Sch. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00057]: Footnote: [1865 c. 73](https://www.legislation.gov.uk/ukpga/1865/73).
 

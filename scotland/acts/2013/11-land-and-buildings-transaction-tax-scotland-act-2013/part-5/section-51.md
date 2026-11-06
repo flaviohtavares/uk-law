@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Persons acting in a representative capacity etc.[^key-ab0f3c0c47fd98cd29d0f771b34f5865]
+## 51. Persons acting in a representative capacity etc.[^c-ab0f3c0c47fd98cd29d0f771b34f5865]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0f3c0c47fd98cd29d0f771b34f5865]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2013/11/section/51) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-ab0f3c0c47fd98cd29d0f771b34f5865]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2013/11/section/51) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

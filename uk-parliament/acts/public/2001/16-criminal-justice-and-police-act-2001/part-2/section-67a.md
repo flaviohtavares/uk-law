@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Application to Welsh Revenue Authority[^key-ae989813b1a47758c59013f151f6f5e8]
+## 67A. Application to Welsh Revenue Authority[^c-ae989813b1a47758c59013f151f6f5e8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae989813b1a47758c59013f151f6f5e8]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2001/16/section/67A) inserted (E.W.) (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 185(2)](https://www.legislation.gov.uk/anaw/2016/6/section/185/2), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)
+[^c-ae989813b1a47758c59013f151f6f5e8]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2001/16/section/67A) inserted (E.W.) (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 185(2)](https://www.legislation.gov.uk/anaw/2016/6/section/185/2), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)

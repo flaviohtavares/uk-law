@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Regulations about responsible individuals[^key-284f673cc62a3165a6147c24761ab9fb]
+## 28. Regulations about responsible individuals[^c-284f673cc62a3165a6147c24761ab9fb]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-284f673cc62a3165a6147c24761ab9fb]: Commencement: S. 28 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-284f673cc62a3165a6147c24761ab9fb]: Commencement: S. 28 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

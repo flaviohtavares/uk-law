@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Amendment as respects metrication[^key-0eba5fca1a322301746c79a700f0e902]
+## 12. Amendment as respects metrication[^c-0eba5fca1a322301746c79a700f0e902]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In relation to any material to which these Regulations apply the operation of th
 
 ## Annotations
 
-[^key-0eba5fca1a322301746c79a700f0e902]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/2197/regulation/12) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-0eba5fca1a322301746c79a700f0e902]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/2197/regulation/12) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)

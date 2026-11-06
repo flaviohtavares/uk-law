@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 316. Notifications relating to court orders[^key-43932304b95b1ed0fdc41d37f5f64947]
+## 316. Notifications relating to court orders[^c-43932304b95b1ed0fdc41d37f5f64947]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In addition to the information required by rule 313, a notification relating to 
 
 ## Annotations
 
-[^key-43932304b95b1ed0fdc41d37f5f64947]: Commencement: [Rule 316](https://www.legislation.gov.uk/uksi/2011/1301/rule/316) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-43932304b95b1ed0fdc41d37f5f64947]: Commencement: [Rule 316](https://www.legislation.gov.uk/uksi/2011/1301/rule/316) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

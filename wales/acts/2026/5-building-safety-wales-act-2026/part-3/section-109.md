@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Appointment of special measures manager for category 1 building[^key-dd678fb0ab32a76220d26dc405eb0dcf]
+## 109. Appointment of special measures manager for category 1 building[^c-dd678fb0ab32a76220d26dc405eb0dcf]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd678fb0ab32a76220d26dc405eb0dcf]: Commencement: S. 109 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-dd678fb0ab32a76220d26dc405eb0dcf]: Commencement: S. 109 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

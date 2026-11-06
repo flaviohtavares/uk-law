@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Premises used for election purposes[^key-bee3be8bbd2e7aeaac92ec66d1712617]
+## 93. Premises used for election purposes[^c-bee3be8bbd2e7aeaac92ec66d1712617]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Section 98 of the 1983 Act[^f00057] (premises not affected for rates) shall have
 
 ## Annotations
 
-[^key-bee3be8bbd2e7aeaac92ec66d1712617]: Commencement: Art. 93 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-bee3be8bbd2e7aeaac92ec66d1712617]: Commencement: Art. 93 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00057]: Footnote: Section 98 was repealed for England and Wales by the Local Government Finance Act [1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41), section 149 and Schedule 13, Part 1, but that repeal does not extend to Scotland.

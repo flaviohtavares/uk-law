@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Health and safety regulations.[^c7807141][^c7807151][^c7807162][^c7807171][^c20459321][^key-0fe72d9a6077d9cfd7b83aac041509d3]
+## 15. Health and safety regulations.[^c7807141][^c7807151][^c7807162][^c7807171][^c20459321][^c-0fe72d9a6077d9cfd7b83aac041509d3]
 
 *Extent: E+W+S+N.I.*
 
 (1)[^c7807191][^c7807181] Subject to the provisions of section 50, the Secretary of State [^c7807201] . . . shall have power to make regulations under this section for any of the general purposes of this Part (and regulations so made are in this Part referred to as “ **health and safety regulations** ”).
 
-(1A)[^key-9742fc5b4a10007fa4ed182e3faef8b2] In subsection (1), the reference to the general purposes of this Part does not include a reference to any of the following—
+(1A)[^c-9742fc5b4a10007fa4ed182e3faef8b2] In subsection (1), the reference to the general purposes of this Part does not include a reference to any of the following—
 
 - (a) the nuclear safety purposes;
 - (b) the nuclear security purposes;
@@ -31,17 +31,17 @@ summary: ''
 
 (1B) Subsection (1A) does not preclude health and safety regulations from including provision merely because the provision could be made for any of the purposes mentioned in paragraphs (a) to (d) of that subsection.
 
-(2) Without prejudice to the generality of subsection (1)[^key-dbfc994bc10a50ae92a21ef6aec17b33] , health and safety regulations may for any of the general purposes of this Part make provision for any of the purposes mentioned in Schedule 3.
+(2) Without prejudice to the generality of subsection (1)[^c-dbfc994bc10a50ae92a21ef6aec17b33] , health and safety regulations may for any of the general purposes of this Part make provision for any of the purposes mentioned in Schedule 3.
 
 (3) Health and safety regulations—
 
 - (a) may repeal or modify any of the existing statutory provisions;
 - (b) may exclude or modify in relation to any specified class of case any of the provisions of sections 2 to 9 or any of the existing statutory provisions;
-- (c) may , subject to subsection (3A),[^key-1570d855459f1b97854e1c28a669a667] make a specified authority or class of authorities responsible, to such extent as may be specified, for the enforcement of any of the relevant statutory provisions.
+- (c) may , subject to subsection (3A),[^c-1570d855459f1b97854e1c28a669a667] make a specified authority or class of authorities responsible, to such extent as may be specified, for the enforcement of any of the relevant statutory provisions.
 
-(3A)[^key-3a370d6b92c07cc9f336fc243fdf9280] Nothing in this section is to be taken to permit health and safety regulations to make provision about responsibility for the enforcement of any of the relevant statutory provisions as they apply in relation to any GB nuclear site.
+(3A)[^c-3a370d6b92c07cc9f336fc243fdf9280] Nothing in this section is to be taken to permit health and safety regulations to make provision about responsibility for the enforcement of any of the relevant statutory provisions as they apply in relation to any GB nuclear site.
 
-(3B) Subsection (3A) does not prevent health and safety regulations providing for the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d30863e74665eaa344ce86a23cbdfdd2]Office of Rail and Road *(Extent: E+W+S)* to be responsible for the enforcement, in relation to GB nuclear sites, of any of the relevant statutory provisions that are made for the railway safety purposes.
+(3B) Subsection (3A) does not prevent health and safety regulations providing for the Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d30863e74665eaa344ce86a23cbdfdd2]Office of Rail and Road *(Extent: E+W+S)* to be responsible for the enforcement, in relation to GB nuclear sites, of any of the relevant statutory provisions that are made for the railway safety purposes.
 
 (3C) In subsections (3A) and (3B), “ **GB nuclear site** ” has the same meaning as in section 68 of the Energy Act 2013 (nuclear safety purposes).
 
@@ -89,7 +89,7 @@ summary: ''
 
 [^c20459321]: Modification: Ss. 1-59, 80-82 applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
 [^c7807191]: Modification: S. 15(1) extended (E.W.S) (2.2.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 117(3)(6)](https://www.legislation.gov.uk/ukpga/1993/43/section/117/3/6), [150(1)(e)](https://www.legislation.gov.uk/ukpga/1993/43/section/150/1/e); [S.I. 1994/202](https://www.legislation.gov.uk/uksi/1994/202), [art. 2](https://www.legislation.gov.uk/uksi/1994/202/article/2)
 
@@ -97,15 +97,15 @@ summary: ''
 
 [^c7807201]: Textual amendment: Words in S. 15(1) repealed (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(2)](https://www.legislation.gov.uk/uksi/2002/794/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2)(with art. 6)
 
-[^key-9742fc5b4a10007fa4ed182e3faef8b2]: Textual amendment: S. 15(1A)(1B) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-9742fc5b4a10007fa4ed182e3faef8b2]: Textual amendment: S. 15(1A)(1B) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-dbfc994bc10a50ae92a21ef6aec17b33]: Textual amendment: Words in s. 15(2) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-dbfc994bc10a50ae92a21ef6aec17b33]: Textual amendment: Words in s. 15(2) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-1570d855459f1b97854e1c28a669a667]: Textual amendment: Words in s. 15(3)(c) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/4); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-1570d855459f1b97854e1c28a669a667]: Textual amendment: Words in s. 15(3)(c) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/4); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-3a370d6b92c07cc9f336fc243fdf9280]: Textual amendment: S. 15(3A)-(3C) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/5); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-3a370d6b92c07cc9f336fc243fdf9280]: Textual amendment: S. 15(3A)-(3C) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 5(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/5/5); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-d30863e74665eaa344ce86a23cbdfdd2]: Textual amendment: Words in s. 15(3B) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/c/i)
+[^c-d30863e74665eaa344ce86a23cbdfdd2]: Textual amendment: Words in s. 15(3B) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/c/i)
 
 [^c19946491]: Textual amendment: Words in s. 15(4)(a) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 7](https://www.legislation.gov.uk/uksi/2008/960/article/7) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. The tax[^key-5c8c28bfbb686d5d4f39e5a381170113]
+## 1. The tax[^c-5c8c28bfbb686d5d4f39e5a381170113]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c8c28bfbb686d5d4f39e5a381170113]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/11/section/1) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5c8c28bfbb686d5d4f39e5a381170113]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/11/section/1) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

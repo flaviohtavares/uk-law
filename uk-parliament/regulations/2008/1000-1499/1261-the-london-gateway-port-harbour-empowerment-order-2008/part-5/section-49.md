@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Arrangements with Her Majesty’s Revenue and Customs[^key-95f633de3e8b55409d1b978ac5195714]
+## 49. Arrangements with Her Majesty’s Revenue and Customs[^c-95f633de3e8b55409d1b978ac5195714]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Harbour Authority and Her Majesty’s Revenue and Customs may enter into any
 
 ## Annotations
 
-[^key-95f633de3e8b55409d1b978ac5195714]: Commencement: Art. 49 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-95f633de3e8b55409d1b978ac5195714]: Commencement: Art. 49 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

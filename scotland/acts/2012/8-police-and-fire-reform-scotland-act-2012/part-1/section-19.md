@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Constables: functions and jurisdiction[^key-d49a1389fcabe0fc14cd0774b5e93e85]
+## 19. Constables: functions and jurisdiction[^c-d49a1389fcabe0fc14cd0774b5e93e85]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d49a1389fcabe0fc14cd0774b5e93e85]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2012/8/section/19) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-d49a1389fcabe0fc14cd0774b5e93e85]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2012/8/section/19) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

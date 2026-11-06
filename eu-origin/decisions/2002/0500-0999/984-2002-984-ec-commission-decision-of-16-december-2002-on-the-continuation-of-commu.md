@@ -31,10 +31,10 @@ summary: ''
 
 of 16 December 2002 on the continuation of Community comparative trials and tests on seeds and propagating material of gramineae, Triticum aestivum, Vitis vinifera, Brassica napus and Allium ascalonicum under Council Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 92/33/EEC, 2002/54/EC, 2002/55/EC, 2002/56/EC and 2002/57/EC (Text with EEA relevance) (revoked)
 
-[^key-d02f65c508254a9e1aded7505a1e0fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d02f65c508254a9e1aded7505a1e0fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d02f65c508254a9e1aded7505a1e0fda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d02f65c508254a9e1aded7505a1e0fda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d02f65c508254a9e1aded7505a1e0fda]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d02f65c508254a9e1aded7505a1e0fda]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

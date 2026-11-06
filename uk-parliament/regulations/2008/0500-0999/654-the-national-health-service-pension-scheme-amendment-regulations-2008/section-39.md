@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Amendment of regulation L2[^key-df0f5e190d0555dcfa6a22a2e724333f]
+## 39. Amendment of regulation L2[^c-df0f5e190d0555dcfa6a22a2e724333f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ For paragraph (3) of regulation L2 (refund of contributions) substitute—
 
 ## Annotations
 
-[^key-df0f5e190d0555dcfa6a22a2e724333f]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-df0f5e190d0555dcfa6a22a2e724333f]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

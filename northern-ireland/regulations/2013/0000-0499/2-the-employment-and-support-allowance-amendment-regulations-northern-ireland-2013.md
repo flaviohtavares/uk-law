@@ -151,7 +151,7 @@ The Department for Social Development makes the following Regulations in exercis
   > - (b) wearing or using any aid or appliance which is normally, or could reasonably be expected to be, worn or used.
 
   ; and
-- (b)[^key-56d8586dea778df222a8a53b50c20be0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-56d8586dea778df222a8a53b50c20be0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 35(1) [^c21527861] (certain claimants to be treated as having limited capability for work-related activity) for sub-paragraph (b) substitute—
 
@@ -311,7 +311,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^c21527851]: Marginal citation: [Regulation 25](https://www.legislation.gov.uk/nisr/2013/2/regulation/25) was amended by regulation 3(3) of S.R. [2011 No. 76](https://www.legislation.gov.uk/ukcm/2011/76)
 
-[^key-56d8586dea778df222a8a53b50c20be0]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2013/2/regulation/4/2/b) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2013/246/regulation/12), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
+[^c-56d8586dea778df222a8a53b50c20be0]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2013/2/regulation/4/2/b) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2013/246/regulation/12), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
 
 [^c21527861]: Marginal citation: Regulation 35(1) was amended by regulation 3(4) of S.R. [2011 No. 76](https://www.legislation.gov.uk/ukcm/2011/76)
 

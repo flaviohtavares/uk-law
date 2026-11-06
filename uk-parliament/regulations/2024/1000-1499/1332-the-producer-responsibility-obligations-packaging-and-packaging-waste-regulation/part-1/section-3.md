@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Modification of the Waste Directive[^key-4fecc60a708ab5633bebd87a9dd1c6ea][^key-4fecc60a708ab5633bebd87a9dd1c6ea]
+## 3. Modification of the Waste Directive[^c-4fecc60a708ab5633bebd87a9dd1c6ea][^c-4fecc60a708ab5633bebd87a9dd1c6ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fecc60a708ab5633bebd87a9dd1c6ea]: Commencement: Reg. 3 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-4fecc60a708ab5633bebd87a9dd1c6ea]: Commencement: Reg. 3 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)

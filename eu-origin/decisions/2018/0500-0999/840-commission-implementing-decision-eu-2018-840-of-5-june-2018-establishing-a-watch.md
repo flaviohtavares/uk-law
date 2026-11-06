@@ -107,11 +107,11 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** The watch list of substances [^key-3dc3fe334cddc0b7da1644d2d2790614]... monitoring referred to in Article 8b of Directive 2008/105/EC is set out in the Annex to this Decision.
+**Article 1.** The watch list of substances [^c-3dc3fe334cddc0b7da1644d2d2790614]... monitoring referred to in Article 8b of Directive 2008/105/EC is set out in the Annex to this Decision.
 
-**Article 2.**[^key-7f808f2ea03114876dc112d42f7c2b3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7f808f2ea03114876dc112d42f7c2b3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-70f22ddca8356c4556891ebf9370b50b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-70f22ddca8356c4556891ebf9370b50b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 5 June 2018.
 
@@ -121,7 +121,7 @@ Karmenu Vella
 
 *Member of the Commission*
 
-## ANNEX — Watch list of substances for ... monitoring as set out in Article 8b of Directive 2008/105/EC[^key-c9a15f85272419df2dd1813630683325]
+## ANNEX — Watch list of substances for ... monitoring as set out in Article 8b of Directive 2008/105/EC[^c-c9a15f85272419df2dd1813630683325]
 
 <table>
 <tfoot>
@@ -157,13 +157,13 @@ Karmenu Vella
 
 [^f00004]: Footnote: Communication from the Commission to the Council and the European Parliament ‘A European One Health Action Plan against Antimicrobial Resistance (AMR)’, COM(2017) 339 final.
 
-[^key-3dc3fe334cddc0b7da1644d2d2790614]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2018/840/article/1) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3dc3fe334cddc0b7da1644d2d2790614]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2018/840/article/1) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f808f2ea03114876dc112d42f7c2b3f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2018/840/article/2) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f808f2ea03114876dc112d42f7c2b3f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2018/840/article/2) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70f22ddca8356c4556891ebf9370b50b]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2018/840/article/3) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70f22ddca8356c4556891ebf9370b50b]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2018/840/article/3) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9a15f85272419df2dd1813630683325]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eudn/2018/840/annex) heading omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9a15f85272419df2dd1813630683325]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eudn/2018/840/annex) heading omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/26/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: Chemical Abstracts Service
 

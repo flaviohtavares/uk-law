@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Conditions for making adoption orders[^key-dd01d6d2d163661d45f4bd81f815c7f4]
+## 44. Conditions for making adoption orders[^c-dd01d6d2d163661d45f4bd81f815c7f4]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd01d6d2d163661d45f4bd81f815c7f4]: Commencement: S. 44 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-dd01d6d2d163661d45f4bd81f815c7f4]: Commencement: S. 44 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Report on sharing mechanism[^key-09a309059f37e374aade6879765f9080]
+## 47. Report on sharing mechanism[^c-09a309059f37e374aade6879765f9080]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09a309059f37e374aade6879765f9080]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2011/5/section/47) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-09a309059f37e374aade6879765f9080]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2011/5/section/47) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

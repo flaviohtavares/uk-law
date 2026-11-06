@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-A fisheries administration must[^key-f8b95b5ccceb6f7579fec52670c8d9a8] designate the competent national authorities which shall be responsible for:
+A fisheries administration must[^c-f8b95b5ccceb6f7579fec52670c8d9a8] designate the competent national authorities which shall be responsible for:
 
 - ((a)) setting up the system for the attribution of points for serious infringements, as referred to in Article 92(1) of the Control Regulation;
 - ((b)) assigning the appropriate numbers of points to the holder of a fishing licence;
@@ -29,4 +29,4 @@ A fisheries administration must[^key-f8b95b5ccceb6f7579fec52670c8d9a8] designate
 
 ## Annotations
 
-[^key-f8b95b5ccceb6f7579fec52670c8d9a8]: Textual amendment: Words in [Art. 125](https://www.legislation.gov.uk/eur/2011/404/article/125) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(90)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/90); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8b95b5ccceb6f7579fec52670c8d9a8]: Textual amendment: Words in [Art. 125](https://www.legislation.gov.uk/eur/2011/404/article/125) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(90)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/90); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

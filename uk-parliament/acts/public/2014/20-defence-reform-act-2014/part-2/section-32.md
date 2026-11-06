@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Penalty notice[^key-a2261df01694fca7a891844284779459][^key-3e736f3b3e6709b16bb4f408daa3d134]
+## 32. Penalty notice[^c-a2261df01694fca7a891844284779459][^c-3e736f3b3e6709b16bb4f408daa3d134]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2261df01694fca7a891844284779459]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/20/section/32) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(p)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/p)
+[^c-a2261df01694fca7a891844284779459]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/20/section/32) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(p)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/p)
 
-[^key-3e736f3b3e6709b16bb4f408daa3d134]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/20/section/32) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-3e736f3b3e6709b16bb4f408daa3d134]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/20/section/32) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

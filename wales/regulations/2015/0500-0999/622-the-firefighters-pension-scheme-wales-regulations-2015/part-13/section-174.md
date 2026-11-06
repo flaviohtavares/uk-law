@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Late payment of retirement index adjustment[^key-38c3328d05c28865a1050d877fe45712]
+## 174. Late payment of retirement index adjustment[^c-38c3328d05c28865a1050d877fe45712]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires any part of a pension attributable to a re
 
 ## Annotations
 
-[^key-38c3328d05c28865a1050d877fe45712]: Commencement: Reg. 174 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-38c3328d05c28865a1050d877fe45712]: Commencement: Reg. 174 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

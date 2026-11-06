@@ -77,7 +77,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 A Measure which provides that it may be applied to the Islands or either of them in accordance with the Channel Islands (Church Legislation) Measures 1931 and 1957 may instead be applied to the Bailiwicks or either of them (with or without modifications) under any other procedure for doing so which has effect in the Bailiwicks or (as the case may be) in the Bailiwick in question (whether that procedure took effect before or after the passing of this Measure).
 
-## 4. Church representation for Channel Islands[^key-d6b28c3ca8f418a2e3f51de335482711]
+## 4. Church representation for Channel Islands[^c-d6b28c3ca8f418a2e3f51de335482711]
 
 (1) In section 4 of the Channel Islands (Representation) Measure 1931 (qualification of electors), for paragraph (b) substitute—
 
@@ -110,4 +110,4 @@ A Measure which provides that it may be applied to the Islands or either of them
 
 ## Annotations
 
-[^key-d6b28c3ca8f418a2e3f51de335482711]: Commencement: S. 4 in force at the date on which the commencing Order is registered by the Royal Court of Guernsey by virtue of S.I. 2022/1180, [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4)
+[^c-d6b28c3ca8f418a2e3f51de335482711]: Commencement: S. 4 in force at the date on which the commencing Order is registered by the Royal Court of Guernsey by virtue of S.I. 2022/1180, [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4)

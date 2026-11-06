@@ -35,7 +35,7 @@ An Act to make provision to permit the capital surplus of co-operatives, mutuals
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power to restrict use of assets of relevant mutual entities[^key-feb2bd753e84faf4e9b66ed94a04c561]
+## 1. Power to restrict use of assets of relevant mutual entities[^c-feb2bd753e84faf4e9b66ed94a04c561]
 
 (1) The Treasury may by regulations made by statutory instrument make provision for enabling a relevant mutual entity to ensure that—
 
@@ -95,12 +95,12 @@ cannot be used or dealt with except in a case mentioned in subsection (2).
 - “**enactment**” includes an enactment comprised in an Act of the Scottish Parliament;
 - “**prescribed**” means prescribed by regulations under this section.
 
-## 2. Short title[^key-4a0b4f61f3faf576aa6c36e21c5b072f]
+## 2. Short title[^c-4a0b4f61f3faf576aa6c36e21c5b072f]
 
 This Act may be cited as the Co-operatives, Mutuals and Friendly Societies Act 2023.
 
 ## Annotations
 
-[^key-feb2bd753e84faf4e9b66ed94a04c561]: Commencement: S. 1 in force at Royal Assent
+[^c-feb2bd753e84faf4e9b66ed94a04c561]: Commencement: S. 1 in force at Royal Assent
 
-[^key-4a0b4f61f3faf576aa6c36e21c5b072f]: Commencement: S. 2 in force at Royal Assent
+[^c-4a0b4f61f3faf576aa6c36e21c5b072f]: Commencement: S. 2 in force at Royal Assent

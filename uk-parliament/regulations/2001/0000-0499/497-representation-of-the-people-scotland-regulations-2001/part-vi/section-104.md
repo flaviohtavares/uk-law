@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Supply of full register etc. to local constituency parties and restrictions on use[^key-479ea397546d3e87432d5dd7db76dcd8]
+## 104. Supply of full register etc. to local constituency parties and restrictions on use[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ except for electoral purposes or the purposes of electoral registration.
 
 ## Annotations
 
-[^key-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
+[^c-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)

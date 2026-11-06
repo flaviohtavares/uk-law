@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Method of loading by the operator[^key-bfcbab8353bbdc8556368e0f9b127242]
+## 114. Method of loading by the operator[^c-bfcbab8353bbdc8556368e0f9b127242]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The operator of an aircraft in which dangerous goods are to be carried must ensu
 
 ## Annotations
 
-[^key-bfcbab8353bbdc8556368e0f9b127242]: Commencement: [Art. 114](https://www.legislation.gov.uk/uksi/2013/2870/article/114) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-bfcbab8353bbdc8556368e0f9b127242]: Commencement: [Art. 114](https://www.legislation.gov.uk/uksi/2013/2870/article/114) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

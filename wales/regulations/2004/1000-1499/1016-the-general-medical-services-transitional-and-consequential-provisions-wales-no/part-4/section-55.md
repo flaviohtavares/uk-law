@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Representations against assignments[^key-a41d38756ff95b68b5884c3591ccbd15]
+## 55. Representations against assignments[^c-a41d38756ff95b68b5884c3591ccbd15]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a41d38756ff95b68b5884c3591ccbd15]: Commencement: Art. 55 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-a41d38756ff95b68b5884c3591ccbd15]: Commencement: Art. 55 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

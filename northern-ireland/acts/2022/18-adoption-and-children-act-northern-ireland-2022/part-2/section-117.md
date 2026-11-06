@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Article 8 orders: authority foster parents[^key-f23a2b8fde682def46b08295fe6604d7]
+## 117. Article 8 orders: authority foster parents[^c-f23a2b8fde682def46b08295fe6604d7]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In Article 9 of the Children Order (restrictions on making Article 8 orders)—
 
 ## Annotations
 
-[^key-f23a2b8fde682def46b08295fe6604d7]: Commencement: S. 117 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-f23a2b8fde682def46b08295fe6604d7]: Commencement: S. 117 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

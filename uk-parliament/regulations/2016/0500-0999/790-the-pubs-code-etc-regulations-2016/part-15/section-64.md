@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Adjudicator’s determination in relation to UK businesses only[^key-d5698b4e742f6b6d9f2757bfbb439c76]
+## 64. Adjudicator’s determination in relation to UK businesses only[^c-d5698b4e742f6b6d9f2757bfbb439c76]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The Adjudicator may not determine that a person who is a group undertaking in re
 
 ## Annotations
 
-[^key-d5698b4e742f6b6d9f2757bfbb439c76]: Commencement: Reg. 64 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-d5698b4e742f6b6d9f2757bfbb439c76]: Commencement: Reg. 64 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00028]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).

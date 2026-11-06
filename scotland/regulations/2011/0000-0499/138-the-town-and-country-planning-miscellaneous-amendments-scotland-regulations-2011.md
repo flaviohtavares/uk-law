@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 8(1)(b), 16(2)(b), 32, 38A(1), 43, 43A(10), 75B(3), 75F(3), 131, 267, 275 and 275A of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-661389046ee7480a383ca9f710c2c77a]
+## 1. Citation and commencement[^c-661389046ee7480a383ca9f710c2c77a]
 
 (1) These Regulations may be cited as the Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 and come into force in accordance with paragraphs (2) and (3).
 
@@ -52,27 +52,27 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) Regulation 2(5) comes into force on 1st October 2011.
 
-## 2. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^key-10f0ad6c1bf9c49e6d45668eda30228e]
+## 2. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^c-10f0ad6c1bf9c49e6d45668eda30228e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Town and Country Planning (Appeals) (Scotland) Regulations 2008[^key-c0a3d85a00f0dfcb55b9ed8b0e24a40a]
+## 3. Amendment of the Town and Country Planning (Appeals) (Scotland) Regulations 2008[^c-c0a3d85a00f0dfcb55b9ed8b0e24a40a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2008[^key-b4bb74f6c47fde6342ffd1b4e6c4242d]
+## 4. Amendment of the Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2008[^c-b4bb74f6c47fde6342ffd1b4e6c4242d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^key-70dc5b258a78475520320191cfd21d40]
+## 5. Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^c-70dc5b258a78475520320191cfd21d40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Town and Country Planning (Modification and Discharge of Planning Obligations) (Scotland) Regulations 2010[^key-823baec6cafc94bff1453ec9dbf11c3a]
+## 6. Amendment of the Town and Country Planning (Modification and Discharge of Planning Obligations) (Scotland) Regulations 2010[^c-823baec6cafc94bff1453ec9dbf11c3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Town and Country Planning (Modification and Discharge of Good Neighbour Agreement) (Scotland) Regulations 2010[^key-e7da16f99b6d3951bca5cc517ebf7843]
+## 7. Amendment of the Town and Country Planning (Modification and Discharge of Good Neighbour Agreement) (Scotland) Regulations 2010[^c-e7da16f99b6d3951bca5cc517ebf7843]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,16 +104,16 @@ Regulation 5 amends the Town and Country Planning (Development Planning) (Scotla
 
 [^f00001]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Sections 8 and 16, 32, 38A, 43A, 75B, 75F and 275A were inserted by sections 2, 7, 14, 17, 23, 24 and 52 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) (“the 2006 Act”). Sections 43, 267 and 275 were amended by sections 16, 19(5) and (6) and 54(16) respectively of the 2006 Act. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-661389046ee7480a383ca9f710c2c77a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/138/regulation/1) in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2)
+[^c-661389046ee7480a383ca9f710c2c77a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/138/regulation/1) in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2)
 
-[^key-10f0ad6c1bf9c49e6d45668eda30228e]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/138/regulation/2) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))
+[^c-10f0ad6c1bf9c49e6d45668eda30228e]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/138/regulation/2) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))
 
-[^key-c0a3d85a00f0dfcb55b9ed8b0e24a40a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/138/regulation/3) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
+[^c-c0a3d85a00f0dfcb55b9ed8b0e24a40a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/138/regulation/3) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
 
-[^key-b4bb74f6c47fde6342ffd1b4e6c4242d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/138/regulation/4) revoked (30.6.2013) by [The Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/157)](https://www.legislation.gov.uk/ssi/2013/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/157/regulation/1/1), [24(2)(c)](https://www.legislation.gov.uk/ssi/2013/157/regulation/24/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/157/regulation/1/2))
+[^c-b4bb74f6c47fde6342ffd1b4e6c4242d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/138/regulation/4) revoked (30.6.2013) by [The Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/157)](https://www.legislation.gov.uk/ssi/2013/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/157/regulation/1/1), [24(2)(c)](https://www.legislation.gov.uk/ssi/2013/157/regulation/24/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/157/regulation/1/2))
 
-[^key-70dc5b258a78475520320191cfd21d40]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/138/regulation/5) revoked (19.5.2023) by [The Town and Country Planning (Development Planning) (Scotland) Regulations 2023 (S.S.I. 2023/101)](https://www.legislation.gov.uk/ssi/2023/101), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4)
+[^c-70dc5b258a78475520320191cfd21d40]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/138/regulation/5) revoked (19.5.2023) by [The Town and Country Planning (Development Planning) (Scotland) Regulations 2023 (S.S.I. 2023/101)](https://www.legislation.gov.uk/ssi/2023/101), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4)
 
-[^key-823baec6cafc94bff1453ec9dbf11c3a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/138/regulation/6) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
+[^c-823baec6cafc94bff1453ec9dbf11c3a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/138/regulation/6) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
 
-[^key-e7da16f99b6d3951bca5cc517ebf7843]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/138/regulation/7) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
+[^c-e7da16f99b6d3951bca5cc517ebf7843]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/138/regulation/7) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))

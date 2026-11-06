@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Child support[^key-e7f522a679a18ad6092366633ab4760c]
+## 86. Child support[^c-e7f522a679a18ad6092366633ab4760c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7f522a679a18ad6092366633ab4760c]: Textual amendment: Reg. 86 omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/20/4/a)
+[^c-e7f522a679a18ad6092366633ab4760c]: Textual amendment: Reg. 86 omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/20/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 109. Commencement[^key-ab96f7cf296c152919e1881ae3a24a3b]
+## 109. Commencement[^c-ab96f7cf296c152919e1881ae3a24a3b]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab96f7cf296c152919e1881ae3a24a3b]: Commencement: S. 109 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-ab96f7cf296c152919e1881ae3a24a3b]: Commencement: S. 109 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)

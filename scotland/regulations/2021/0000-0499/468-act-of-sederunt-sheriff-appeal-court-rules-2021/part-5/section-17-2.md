@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17.2. Amendment of note of appeal and answers etc.[^key-bc03802b38adf5b41ab6a8e906fb3329]
+## 17.2. Amendment of note of appeal and answers etc.[^c-bc03802b38adf5b41ab6a8e906fb3329]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc03802b38adf5b41ab6a8e906fb3329]: Commencement: Para. 17.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-bc03802b38adf5b41ab6a8e906fb3329]: Commencement: Para. 17.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

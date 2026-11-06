@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Arrest without warrant[^key-8d20a03967e4ba3b4c49be96537b269c]
+## 45. Arrest without warrant[^c-8d20a03967e4ba3b4c49be96537b269c]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Section 24 of the Police and Criminal Evidence Act 1984 [^c24382741] applies in 
 
 ## Annotations
 
-[^key-8d20a03967e4ba3b4c49be96537b269c]: Commencement: Reg. 45 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-8d20a03967e4ba3b4c49be96537b269c]: Commencement: Reg. 45 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
 [^c24382741]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60). Section 24 was substituted by section 110(1) of the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).

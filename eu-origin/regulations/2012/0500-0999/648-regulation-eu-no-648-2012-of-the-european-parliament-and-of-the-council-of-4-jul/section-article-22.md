@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 22. Competent authority[^key-0f321dd81c2f39f1b3f01db87de7eaef]
+## Article 22. Competent authority[^c-0f321dd81c2f39f1b3f01db87de7eaef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The competent authority responsible for carrying out the duties resulting from t
 
 ## Annotations
 
-[^key-0f321dd81c2f39f1b3f01db87de7eaef]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eur/2012/648/article/22) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2019/335/regulation/33) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f321dd81c2f39f1b3f01db87de7eaef]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eur/2012/648/article/22) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2019/335/regulation/33) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

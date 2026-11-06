@@ -35,22 +35,22 @@ approving the conclusion, by the European Commission, of the Agreement on scient
 
 (2013/4/Euratom) (revoked)
 
-[^key-e52e1733b7ece798cc5c1a9a1524db22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e52e1733b7ece798cc5c1a9a1524db22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Sole Article.**[^key-e52e1733b7ece798cc5c1a9a1524db22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-e52e1733b7ece798cc5c1a9a1524db22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e52e1733b7ece798cc5c1a9a1524db22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e52e1733b7ece798cc5c1a9a1524db22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-e52e1733b7ece798cc5c1a9a1524db22]
+## ANNEX[^c-e52e1733b7ece798cc5c1a9a1524db22]
 
-[^key-e52e1733b7ece798cc5c1a9a1524db22]Declaration of the European Commission on behalf of the European Atomic Energy Community
+[^c-e52e1733b7ece798cc5c1a9a1524db22]Declaration of the European Commission on behalf of the European Atomic Energy Community
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e52e1733b7ece798cc5c1a9a1524db22]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-e52e1733b7ece798cc5c1a9a1524db22]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

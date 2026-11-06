@@ -43,17 +43,17 @@ Coming into force
 
 15 December 2025
 
-The Welsh Ministers, in exercise of the powers conferred on them by sections 32(4)(e), (5), 40(5) and (6)(a) to (c), 42(4) and (6), 43, 44(1), (2) and (4), 48(6), 60(2)(d), (4)(d) and (6), 62(3), 129(3)(a), (4)(a) and (b), 140(1) and (2)[^f00001] and 141(2) of the Infrastructure (Wales) Act 2024[^f00002], make the following Regulations.[^key-692b9a7d6b3ee9b71048c978b9e48955]
+The Welsh Ministers, in exercise of the powers conferred on them by sections 32(4)(e), (5), 40(5) and (6)(a) to (c), 42(4) and (6), 43, 44(1), (2) and (4), 48(6), 60(2)(d), (4)(d) and (6), 62(3), 129(3)(a), (4)(a) and (b), 140(1) and (2)[^f00001] and 141(2) of the Infrastructure (Wales) Act 2024[^f00002], make the following Regulations.[^c-692b9a7d6b3ee9b71048c978b9e48955]
 
 ## PART 1 — General
 
-### 1. Title and coming into force[^key-7bf9bc355baf535a06b97a91f0c44531]
+### 1. Title and coming into force[^c-7bf9bc355baf535a06b97a91f0c44531]
 
 (1) The title of these Regulations is the Infrastructure Consent (Examination and Decision) (Procedure) (Wales) Regulations 2025.
 
 (2) These Regulations come into force on 15 December 2025.
 
-### 2. Interpretation and giving notices etc[^key-6a8b05b2fdc5416154599ae2d5d0dae4]
+### 2. Interpretation and giving notices etc[^c-6a8b05b2fdc5416154599ae2d5d0dae4]
 
 (1) In these Regulations—
 
@@ -118,11 +118,11 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 32(
 
 ## PART 2 — The examining authority
 
-### 3. Appointing an examining authority[^key-6666f2df7e57cb6fe053575830e76d37]
+### 3. Appointing an examining authority[^c-6666f2df7e57cb6fe053575830e76d37]
 
 The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act (appointing an examining authority for a valid application) before the end of 7 days beginning with the day after the last day of the representation period.
 
-### 4. Appointing a panel as an examining authority[^key-bef897ab1b1f4abc6f61f859bee7952d]
+### 4. Appointing a panel as an examining authority[^c-bef897ab1b1f4abc6f61f859bee7952d]
 
 (1) If the Welsh Ministers appoint a panel of persons as the examining authority, it must appoint one of its members to chair the panel.
 
@@ -131,7 +131,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 - (a) the matters done by, or in relation to, the panel before that change;
 - (b) the continuing identity of the panel.
 
-### 5. Replacing a panel or person as examining authority[^key-b5ef8fa1d483983d7f9ea55cee01eb1d]
+### 5. Replacing a panel or person as examining authority[^c-b5ef8fa1d483983d7f9ea55cee01eb1d]
 
 (1) The Welsh Ministers may at any time—
 
@@ -142,7 +142,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 
 (2) The replacement examining authority may treat things done by or in relation to the previous examining authority as done, in whole or in part, by or in relation to that new panel.
 
-### 6. Notification of examining authority[^key-5cf10030e9c49c2a199e1f9997940ab3]
+### 6. Notification of examining authority[^c-5cf10030e9c49c2a199e1f9997940ab3]
 
 (1) The Welsh Ministers must ensure that the applicant and the planning authority are notified of the name and contact details of the examining authority appointed—
 
@@ -153,7 +153,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 
 (3) The person who is the examining authority or the chair of the panel who is the examining authority must announce their appointment, name and the means of contacting them at the start of a hearing or local inquiry.
 
-### 7. Allocation of functions by a panel[^key-fd26de16f6d9c2aa555e563b294519c2]
+### 7. Allocation of functions by a panel[^c-fd26de16f6d9c2aa555e563b294519c2]
 
 (1) This regulation applies when a panel is appointed to examine an application.
 
@@ -166,7 +166,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 
 (4) Paragraph (3)(b) is subject to any decision of the panel made on or before the allocation, as to the status of any such findings or conclusions.
 
-### 8. Decision-making by a panel[^key-4d704188c453c4574de455a4486b6692]
+### 8. Decision-making by a panel[^c-4d704188c453c4574de455a4486b6692]
 
 (1) A panel must make decisions in respect of the examination or application by agreement of the majority of its members.
 
@@ -174,7 +174,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 
 ## PART 3 — Preparation for, and managing, examination
 
-### 9. Open floor hearings[^key-bbd07ac775e2de9a0175b14bff5c3883]
+### 9. Open floor hearings[^c-bbd07ac775e2de9a0175b14bff5c3883]
 
 (1) The examining authority must hold an open-floor hearing if one or more persons so request, but this is subject to paragraphs (2) and (3).
 
@@ -182,7 +182,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 
 (3) Paragraph (1) does not apply to a request to the extent that the request relates to representations that are within any description in section 58(1) of the 2024 Act.
 
-### 10. Determination of procedure[^key-b1b22ac5fa492f3704715baac1007cba]
+### 10. Determination of procedure[^c-b1b22ac5fa492f3704715baac1007cba]
 
 (1) The examining authority must exercise its function under section 42(1) of the 2024 Act (determination of procedure) before the end of 28 days beginning with the day after the last day of the representation period, but this is subject to paragraph (2).
 
@@ -191,7 +191,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 - (a) regulation 22 of those Regulations (meeting about examination procedure) applies, and
 - (b) regulation 23 of those Regulations applies as to the date for determination of procedure.
 
-### 11. Timetable for examination[^key-5d541985b4ae28f29ff0f059e12f4a0e]
+### 11. Timetable for examination[^c-5d541985b4ae28f29ff0f059e12f4a0e]
 
 (1) When the examining authority has made a determination of procedure, it must prepare a timetable for the examination of the application.
 
@@ -212,9 +212,9 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 (4) Where an application has been varied under the 2025 Compulsory Acquisition Regulations to include a request to authorise the compulsory acquisition of land, or of an interest in or right over land, this regulation is subject to—
 
 - (a) regulation 24(1) of the 2025 Compulsory Acquisition Regulations (additional requirements as to the timetable), and
-- (b) regulation 24(2) of the 2025 Compulsory Acquisition Regulations[^key-f6c052224abd0c229b17d10644255ef7] (inviting persons to make further representations).
+- (b) regulation 24(2) of the 2025 Compulsory Acquisition Regulations[^c-f6c052224abd0c229b17d10644255ef7] (inviting persons to make further representations).
 
-### 12. Notification of choice of procedure and timetable[^key-47b0e91903c97fd6a75dd6a37f2772eb]
+### 12. Notification of choice of procedure and timetable[^c-47b0e91903c97fd6a75dd6a37f2772eb]
 
 (1) The examining authority must notify the following of any determination of procedure and the timetable or a variation of a timetable—
 
@@ -222,11 +222,11 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 - (b) the planning authority, and
 - (c) any other person who is invited to make further representations.
 
-(2) The examining authority may notify any other person it considers[^key-e9588de1802e3aa25813b74bb0e73a82] appropriate of any determination of procedure and the timetable or a variation of a timetable.
+(2) The examining authority may notify any other person it considers[^c-e9588de1802e3aa25813b74bb0e73a82] appropriate of any determination of procedure and the timetable or a variation of a timetable.
 
 (3) The examining authority must give the notification required by this regulation as soon as reasonably practicable and in any event within the period of 5 working days, beginning with the day after the determination of procedure is made.
 
-### 13. Timing and location of, and participation in, hearing or local inquiry[^key-e6e4ddf1106e4543e988c9220a43be77]
+### 13. Timing and location of, and participation in, hearing or local inquiry[^c-e6e4ddf1106e4543e988c9220a43be77]
 
 (1) This regulation applies where the examining authority determines that an application is to be examined, in whole or in part, at a hearing or local inquiry.
 
@@ -267,7 +267,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 - (c) any person invited to make representations at a hearing or local inquiry, and
 - (d) any other person that the examining authority considers appropriate.
 
-### 14. Publicity for hearing or local inquiry[^key-e18452397c4e8f36ba4976407e02f5df]
+### 14. Publicity for hearing or local inquiry[^c-e18452397c4e8f36ba4976407e02f5df]
 
 (1) This regulation applies where the examining authority determine that an application is to be examined by way of hearing or local inquiry.
 
@@ -297,7 +297,7 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 
 (8) If the application relates to development in the Welsh marine area, references in this regulation to the land to which the application relates are to be read as references to the land in Wales nearest the development to which the application relates.
 
-### 15. Written statements of evidence[^key-3fce8db648e2091416f8a894b79e807e]
+### 15. Written statements of evidence[^c-3fce8db648e2091416f8a894b79e807e]
 
 (1) This regulation applies if any person invited to make further representations at an inquiry proposes to give, or to call another person to give, evidence at the inquiry.
 
@@ -316,23 +316,23 @@ The Welsh Ministers must exercise their duty under section 40(1) of the 2024 Act
 
 (7) In this regulation, “**written statement**” means a statement prepared pursuant to paragraph (2).
 
-### 16. Provision of website[^key-8ba8607339a5f193e469e77bc51e4598]
+### 16. Provision of website[^c-8ba8607339a5f193e469e77bc51e4598]
 
 The Welsh Ministers must provide a website where copies of the application and other documents which are relevant to the examination can be found.
 
-### 17. Advice to the Welsh Ministers[^key-1c5610bc76120abaa58c9cdfe9f542d4]
+### 17. Advice to the Welsh Ministers[^c-1c5610bc76120abaa58c9cdfe9f542d4]
 
 The examining authority may provide advice to the Welsh Ministers on any request to vary an application made under regulation 31 of the 2025 Applications Regulations or under regulation 16 of the 2025 Compulsory Acquisition Regulations.
 
 ## PART 4 — Examination
 
-### 18. Initial written representations[^key-b9551682b764f8a2f8b16bf8e288f9ed]
+### 18. Initial written representations[^c-b9551682b764f8a2f8b16bf8e288f9ed]
 
 (1) The examining authority’s examination of the application is to include consideration of any initial written representations.
 
 (2) The examining authority must ensure that the applicant has the opportunity to comment on any initial written representation relevant to the examination of the application.
 
-### 19. Seeking further written representations[^key-38d2783bf853c42400985770752c6870]
+### 19. Seeking further written representations[^c-38d2783bf853c42400985770752c6870]
 
 (1) The examining authority may request further representations in writing at any time from any interested party.
 
@@ -346,7 +346,7 @@ The examining authority may provide advice to the Welsh Ministers on any request
 
 (6) The examining authority must ensure that a copy of any further written representations is available on the website referred to in regulation 16.
 
-### 20. Conduct of a hearing[^key-ef7f9ac97d2db09c8f352c00aeec6925]
+### 20. Conduct of a hearing[^c-ef7f9ac97d2db09c8f352c00aeec6925]
 
 (1) This regulation applies where the examining authority determines that an application is to be examined, in whole or in part, at a hearing.
 
@@ -382,13 +382,13 @@ The examining authority may provide advice to the Welsh Ministers on any request
 
 (8) A person making closing submissions under paragraph (7)(g) must give them to the examining authority within 7 days beginning with the day after the last day of the hearing.
 
-(9) If the examining authority adjourns a hearing, it[^key-37e6ee184c23be36ef7565505062b19a] must give reasonable notice of the date, time and place of the resumption of the adjourned hearing, unless paragraph (10) applies.
+(9) If the examining authority adjourns a hearing, it[^c-37e6ee184c23be36ef7565505062b19a] must give reasonable notice of the date, time and place of the resumption of the adjourned hearing, unless paragraph (10) applies.
 
 (10) If the examining authority adjourns a hearing and announces at the hearing the date, time and place of the resumption of the adjourned hearing, no further notice is required.
 
 (11) In this regulation, “**closing submissions**” means a summary of the main factual points and the main arguments made by the person submitting them, in relation to an application.
 
-### 21. Conduct of a local inquiry[^key-179de40e0b9146ea364611d2a16dd7cf]
+### 21. Conduct of a local inquiry[^c-179de40e0b9146ea364611d2a16dd7cf]
 
 (1) This regulation applies where the examining authority determines that an application is to be examined, in whole or in part, at a local inquiry.
 
@@ -423,17 +423,17 @@ The examining authority may provide advice to the Welsh Ministers on any request
 
 (9) Any person who is required to leave a local inquiry may submit representations in writing to the examining authority before the close of the inquiry.
 
-(10) If the examining authority adjourns a local inquiry, it[^key-0883e2c00080c4ba094fe3f4e7cd6f7a] must give reasonable notice of the date, time and place of the resumption of the adjourned local inquiry, unless paragraph (11) applies.
+(10) If the examining authority adjourns a local inquiry, it[^c-0883e2c00080c4ba094fe3f4e7cd6f7a] must give reasonable notice of the date, time and place of the resumption of the adjourned local inquiry, unless paragraph (11) applies.
 
 (11) If the examining authority adjourns a local inquiry and announces at that local inquiry the date, time and place of the adjourned local inquiry, no further notice is required.
 
-(12)[^key-3cbfedb7cdd6d72ae126214ebd813924] In this regulation, “**closing submissions**” has the meaning given by regulation 20(11).
+(12)[^c-3cbfedb7cdd6d72ae126214ebd813924] In this regulation, “**closing submissions**” has the meaning given by regulation 20(11).
 
-### 22. Virtual meetings, hearings and local inquiries[^key-ddcfab88e394d43395f5a9515b181346]
+### 22. Virtual meetings, hearings and local inquiries[^c-ddcfab88e394d43395f5a9515b181346]
 
 The examining authority must notify persons who are invited to take part in a meeting, or make representations at a hearing or local inquiry, that takes place remotely, of the arrangements to enable them to do so, as soon as reasonably practicable.
 
-### 23. Broadcasting hearings and local inquiries[^key-eab774521385a06b7d98426567939b78]
+### 23. Broadcasting hearings and local inquiries[^c-eab774521385a06b7d98426567939b78]
 
 (1) The examining authority may arrange for images or sounds of a hearing or local inquiry to be broadcast, for the purpose of enabling persons who are not making representations at a hearing or local inquiry, or any part of it, to watch or listen to the proceedings.
 
@@ -452,7 +452,7 @@ The examining authority must notify persons who are invited to take part in a me
 
 (5) This regulation is subject to any direction under section 48 of the 2024 Act.
 
-### 24. Recording hearings and local inquiries[^key-ad859b11c6c535035d64c9ba0acdb352]
+### 24. Recording hearings and local inquiries[^c-ad859b11c6c535035d64c9ba0acdb352]
 
 (1) The examining authority may arrange for images or sounds of a hearing or local inquiry to be recorded, for the purpose of enabling persons to watch or listen to the proceedings at a later date.
 
@@ -465,7 +465,7 @@ The examining authority must notify persons who are invited to take part in a me
 
 (4) This regulation is subject to any direction under section 48 of the 2024 Act.
 
-### 25. Notification of appointments to assist examining authority[^key-3eb15cf27cf0781ccb615325fcf7bf99]
+### 25. Notification of appointments to assist examining authority[^c-3eb15cf27cf0781ccb615325fcf7bf99]
 
 (1) The examining authority must as soon as reasonably practicable notify all persons who are invited to make further representations of the name—
 
@@ -474,7 +474,7 @@ The examining authority must notify persons who are invited to take part in a me
 
 (2) The examining authority must as soon as reasonably practicable notify all persons who are invited to make further representations of the matters in relation to which any assessor has been appointed to assist.
 
-### 26. Restricting access to evidence at a local inquiry[^key-b15924bb1d728723e90f156355227752]
+### 26. Restricting access to evidence at a local inquiry[^c-b15924bb1d728723e90f156355227752]
 
 (1) Schedule 1 makes provision about—
 
@@ -483,7 +483,7 @@ The examining authority must notify persons who are invited to take part in a me
 
 (2) In relation to evidence specified in a direction under section 48(2) of the 2024 Act, references in these Regulations to the represented person, whether as the “applicant” or as an “interested party” are to be read as including references to a representative appointed under section 48(4) or (5) of the 2024 Act.
 
-### 27. Examination management meetings[^key-b51d1402036078950d26022838bad0f7]
+### 27. Examination management meetings[^c-b51d1402036078950d26022838bad0f7]
 
 (1) The examining authority may hold a meeting at any time before an application is decided, if it considers it appropriate.
 
@@ -512,7 +512,7 @@ The examining authority must notify persons who are invited to take part in a me
 
 (9) In this regulation, “**examination management meeting**” means a meeting held pursuant to paragraph (1).
 
-### 28. Variation of application[^key-66579fd3c34754ad46a8c7efc45aabd9]
+### 28. Variation of application[^c-66579fd3c34754ad46a8c7efc45aabd9]
 
 (1) This regulation applies when the applicant proposes to request a variation of its application, other than—
 
@@ -562,11 +562,11 @@ The examining authority must notify persons who are invited to take part in a me
 
 ## PART 5 — Procedure after written representations, hearing and local inquiry
 
-### 29. Assessor’s report[^key-b3eb5c74438789ba6aa493f94d618ccc]
+### 29. Assessor’s report[^c-b3eb5c74438789ba6aa493f94d618ccc]
 
 Where an assessor has been appointed under section 50 of the 2024 Act, the assessor must make a written report to the examining authority on the matters in respect of which they were appointed to assist the examining authority.
 
-### 30. Proceeding to a report or decision[^key-de0d98571b78e7ee4a8a0ae851daf015]
+### 30. Proceeding to a report or decision[^c-de0d98571b78e7ee4a8a0ae851daf015]
 
 (1) The examining authority may make a report under section 52(2) of the 2024 Act disregarding any further written representations and supporting documents as were submitted after the time limit under regulation 19.
 
@@ -576,7 +576,7 @@ Where an assessor has been appointed under section 50 of the 2024 Act, the asses
 
 (4) The examining authority or the Welsh Ministers (as the case may be) may, after giving the applicant and the planning authority notice of their intention to do so, proceed to a decision even though no further written representations were submitted within the time limit under regulation 19, if it appears to them that they have sufficient material before them to make a recommendation on the merits of the application.
 
-### 31. Application to be decided by the examining authority[^key-cec9b1058edda6279536a9c0306d77d0]
+### 31. Application to be decided by the examining authority[^c-cec9b1058edda6279536a9c0306d77d0]
 
 (1) This regulation applies after the completion of an examination, where an application is to be decided by the examining authority.
 
@@ -607,16 +607,16 @@ Where an assessor has been appointed under section 50 of the 2024 Act, the asses
 (9) The examining authority—
 
 - (a) must re-open a hearing or a local inquiry to examine the new evidence or fact if an interested party so requests under paragraph (7), or
-- (b) may otherwise, if it considers[^key-0ffbe647e28a0d908f58b12b9c960422] it appropriate, re-open a hearing or a local inquiry to examine the new evidence or fact.
+- (b) may otherwise, if it considers[^c-0ffbe647e28a0d908f58b12b9c960422] it appropriate, re-open a hearing or a local inquiry to examine the new evidence or fact.
 
-(10) Where the examining authority re-opens a hearing or a local inquiry, it[^key-f6e4915eb1a3ee4dd62c2482023fd097] must send to the interested parties as soon as reasonably practicable, a written statement of the matters in respect of which further evidence is invited.
+(10) Where the examining authority re-opens a hearing or a local inquiry, it[^c-f6e4915eb1a3ee4dd62c2482023fd097] must send to the interested parties as soon as reasonably practicable, a written statement of the matters in respect of which further evidence is invited.
 
 (11) The examining authority must provide the written statement in paragraph (10) at least—
 
 - (a) 28 days before the first day of any re-opened hearing or local inquiry, if the application relates to EIA development;
 - (b) 21 days before the first day of any re-opened hearing or local inquiry, in any other case.
 
-### 32. Application to be decided by the Welsh Ministers[^key-e894a458b8d2283230660f2513c2c1b3]
+### 32. Application to be decided by the Welsh Ministers[^c-e894a458b8d2283230660f2513c2c1b3]
 
 (1) This regulation applies after the completion of an examination, where an application is to be decided by the Welsh Ministers.
 
@@ -649,25 +649,25 @@ Where an assessor has been appointed under section 50 of the 2024 Act, the asses
 (9) The examining authority—
 
 - (a) must re-open a hearing or a local inquiry to examine the difference, new evidence or fact if an interested party so requests under paragraph (7), or
-- (b) may otherwise, if it considers[^key-95ca6d2a756abab601dbad2c1540b36d] it appropriate, re-open a hearing or a local inquiry to examine the difference, new evidence or fact.
+- (b) may otherwise, if it considers[^c-95ca6d2a756abab601dbad2c1540b36d] it appropriate, re-open a hearing or a local inquiry to examine the difference, new evidence or fact.
 
-(10) Where the examining authority re-opens a hearing or a local inquiry, it[^key-1a3eb80667b4c2bbc00349e9df3310fe] must send to the interested parties as soon as reasonably practicable, a written statement of the matters in respect of which further representations are invited.
+(10) Where the examining authority re-opens a hearing or a local inquiry, it[^c-1a3eb80667b4c2bbc00349e9df3310fe] must send to the interested parties as soon as reasonably practicable, a written statement of the matters in respect of which further representations are invited.
 
 (11) The examining authority must provide the written statement in paragraph (10) at least—
 
 - (a) 28 days before the first day of any re-opened hearing or local inquiry, if the application relates to EIA development;
 - (b) 21 days before the first day of any re-opened hearing or local inquiry, in any other case.
 
-### 33. Direction to re-open the examination[^key-a87297db81378edb859572e1fc5d3294]
+### 33. Direction to re-open the examination[^c-a87297db81378edb859572e1fc5d3294]
 
-Where the examining authority re-opens a hearing or a local inquiry pursuant to a direction by the Welsh Ministers under section 53(1) of the 2024 Act, it[^key-e8b8723b8906c593b0bfca6fe8a3d0a5] must send to the interested parties as soon as reasonably practicable a written statement of the matters in respect of which further evidence is invited.
+Where the examining authority re-opens a hearing or a local inquiry pursuant to a direction by the Welsh Ministers under section 53(1) of the 2024 Act, it[^c-e8b8723b8906c593b0bfca6fe8a3d0a5] must send to the interested parties as soon as reasonably practicable a written statement of the matters in respect of which further evidence is invited.
 
-### 34. Proposal to make materially different order[^key-1dff3bb55ff3b5ec1eeae8f4590d6b56]
+### 34. Proposal to make materially different order[^c-1dff3bb55ff3b5ec1eeae8f4590d6b56]
 
 (1) This regulation applies where the Welsh Ministers propose to make an infrastructure consent order—
 
 - (a) on terms which are in their opinion materially different from those proposed in the application, and
-- (b) whether as a result of a notice under section 60(3)(a) of the 2024 Act[^key-791e766006b6aad361240d057dd1086e] or not.
+- (b) whether as a result of a notice under section 60(3)(a) of the 2024 Act[^c-791e766006b6aad361240d057dd1086e] or not.
 
 (2) The Welsh Ministers must—
 
@@ -675,7 +675,7 @@ Where the examining authority re-opens a hearing or a local inquiry pursuant to 
 - (b) give that person an opportunity of making representations to them about the differences within a time specified in that notice, and
 - (c) consider the representations made during the time specified in that notice, before making a decision on the infrastructure consent order.
 
-### 35. Notice of decisions on an application in relation to Wales[^key-1e5b79f85c44bde94e4e6f559d131a75]
+### 35. Notice of decisions on an application in relation to Wales[^c-1e5b79f85c44bde94e4e6f559d131a75]
 
 (1) This regulation applies in relation to decisions on an application for development in Wales.
 
@@ -685,7 +685,7 @@ Where the examining authority re-opens a hearing or a local inquiry pursuant to 
 
 (4) Where an application includes a request to authorise the compulsory acquisition of land, or of an interest in or right over land, see also regulation 26(2) of the 2025 Compulsory Acquisition Regulations for additional requirements as to notice of decisions.
 
-### 36. Notice of decisions on an application in relation to the Welsh marine area[^key-aa14d642ad520a0d41dde7a2ee819c48]
+### 36. Notice of decisions on an application in relation to the Welsh marine area[^c-aa14d642ad520a0d41dde7a2ee819c48]
 
 (1) This regulation applies in relation to decisions on an application for development in the Welsh marine area.
 
@@ -695,7 +695,7 @@ Where the examining authority re-opens a hearing or a local inquiry pursuant to 
 
 (4) Where an application includes a request to authorise the compulsory acquisition of land, or of an interest in or right over land, see also regulation 26(3) of the 2025 Compulsory Acquisition Regulations for additional requirements as to notice of decisions.
 
-### 37. Notice of reasons for decision on an application in relation to Wales[^key-edd30a2a410b5f9d9c7369a35947851e]
+### 37. Notice of reasons for decision on an application in relation to Wales[^c-edd30a2a410b5f9d9c7369a35947851e]
 
 (1) This regulation applies in relation to a statement prepared under section 62(1) or (2) of the 2024 Act in relation to a decision on an application in relation to Wales.
 
@@ -703,7 +703,7 @@ Where the examining authority re-opens a hearing or a local inquiry pursuant to 
 
 (3) Where an application includes a request to authorise the compulsory acquisition of land, or of an interest in or right over land, see also regulation 27(2) of the 2025 Compulsory Acquisition Regulations for additional requirements as to notice of reasons for decisions.
 
-### 38. Notice of reasons for decision on an application in relation to the Welsh marine area[^key-2d7bec7c3cc697186222dd524dc267db]
+### 38. Notice of reasons for decision on an application in relation to the Welsh marine area[^c-2d7bec7c3cc697186222dd524dc267db]
 
 (1) This regulation applies in relation to a statement prepared under section 62(1) or (2) of the 2024 Act in relation to a decision on an application in relation to the Welsh marine area.
 
@@ -711,7 +711,7 @@ Where the examining authority re-opens a hearing or a local inquiry pursuant to 
 
 (3) Where an application includes a request to authorise the compulsory acquisition of land, or of an interest in or right over land, see also regulation 27(2) of the 2025 Compulsory Acquisition Regulations for additional requirements as to notice of reasons for decisions.
 
-### 39. Procedure following quashing a decision[^key-0cf4cad6b77470ed17f1faadcbeb483c]
+### 39. Procedure following quashing a decision[^c-0cf4cad6b77470ed17f1faadcbeb483c]
 
 (1) This regulation applies where a decision of the examining authority or the Welsh Ministers in respect of an application is quashed by any court.
 
@@ -743,11 +743,11 @@ Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
 
 Regulation 26
 
-### 1. Application of the Planning (National Security Directions and Appointed Representatives) (Wales) Regulations 2006[^key-e8d7393f87adbc82327105af77d01c63]
+### 1. Application of the Planning (National Security Directions and Appointed Representatives) (Wales) Regulations 2006[^c-e8d7393f87adbc82327105af77d01c63]
 
 The Planning (National Security Directions and Appointed Representatives) (Wales) Regulations 2006[^f00010] are amended as follows.
 
-**2.**[^key-42e87c101ac885c0ffd13d8710156fdd] In regulation 2—
+**2.**[^c-42e87c101ac885c0ffd13d8710156fdd] In regulation 2—
 
 - (a) in the appropriate place, insert—
 
@@ -770,7 +770,7 @@ The Planning (National Security Directions and Appointed Representatives) (Wales
 
   > (9) In relation to giving notices and other documents under section 48 of the 2024 Act, see also section 136 of that Act.
 
-**3.**[^key-c7c5748166e9b4d32ceae0cc455e0149] In regulation 3—
+**3.**[^c-c7c5748166e9b4d32ceae0cc455e0149] In regulation 3—
 
 - (a) in paragraph (1), after sub-paragraph (c) insert—
 
@@ -778,21 +778,21 @@ The Planning (National Security Directions and Appointed Representatives) (Wales
   >   - (a) section 48(2) of the 2024 Act;
 
   ;
-- (b) in paragraph (3), [^key-d1e04759691f381e49ef2cc4a0cfa57b]... after sub-paragraph (c) insert—
+- (b) in paragraph (3), [^c-d1e04759691f381e49ef2cc4a0cfa57b]... after sub-paragraph (c) insert—
 
   > - ; or
   >   - (a) section 48(4) or (5) of the 2024 Act;
 
   .
 
-**4.**[^key-1dc0f0b0ee547f9ecedc9dd1eb801d94] In regulation 4(2)(a), after paragraph (iii) insert—
+**4.**[^c-1dc0f0b0ee547f9ecedc9dd1eb801d94] In regulation 4(2)(a), after paragraph (iii) insert—
 
 > - ; or
 >   - (i) section 48 (4) or (5) of the 2024 Act,
 
 .
 
-**5.**[^key-c24fe0039ae3bbf8fdbbb36e1068d28e] In regulation 6(8), in the definition of “major development”, before sub-paragraph (a), insert—
+**5.**[^c-c24fe0039ae3bbf8fdbbb36e1068d28e] In regulation 6(8), in the definition of “major development”, before sub-paragraph (a), insert—
 
 > - (aa) a significant infrastructure project for the purposes of section 1 of the 2024 Act;
 
@@ -802,7 +802,7 @@ The Planning (National Security Directions and Appointed Representatives) (Wales
 
 Regulations 35, 36,37 and 38
 
-**1.**[^key-781223009f2bc726ae1dac2670340518] Persons who must be given notice in relation to an infrastructure consent order affecting Wales are—
+**1.**[^c-781223009f2bc726ae1dac2670340518] Persons who must be given notice in relation to an infrastructure consent order affecting Wales are—
 
 - (a) each—
   - (i) owner, lessee, tenant (whatever the tenancy period) or occupier of the land;
@@ -812,21 +812,21 @@ Regulations 35, 36,37 and 38
     - (bb) to release the land,
 - (b) any person other than one listed in sub-paragraph (a) who might be entitled to make a relevant claim,
 - (c) each adjoining owner or occupier of the land to which the infrastructure consent order relates,
-- (d) each planning authority other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^key-dc6170a06bda127ac38646988b9d0a78] (as the case may be) the person notifying considers appropriate,
-- (e) each community council other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^key-4e2d3db192850261ba49283fe3485f73] (as the case may be) that made representations on the application to which the infrastructure consent order relates, during the representation period,
+- (d) each planning authority other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^c-dc6170a06bda127ac38646988b9d0a78] (as the case may be) the person notifying considers appropriate,
+- (e) each community council other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^c-4e2d3db192850261ba49283fe3485f73] (as the case may be) that made representations on the application to which the infrastructure consent order relates, during the representation period,
 - (f) each Member of the Senedd representing an area affected by the infrastructure consent order,
 - (g) each Member of the House of Commons representing an area affected by the infrastructure consent order, and
 - (h) any other person the person notifying considers appropriate.
 
-**2.**[^key-26c397cff0041beb2f9895a3c3c1f943] Persons who must be given notice in relation to an infrastructure consent order affecting the Welsh marine area are—
+**2.**[^c-26c397cff0041beb2f9895a3c3c1f943] Persons who must be given notice in relation to an infrastructure consent order affecting the Welsh marine area are—
 
-- (a) each planning authority other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^key-b7095378c7acda20df3b875f52c18847] (as the case may be) the person notifying considers appropriate,
-- (b) each community council other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^key-f89d67c236499d9fe60d6adbb4f180f7] (as the case may be) that made representations on the application to which the infrastructure consent order relates, during the representation period,
+- (a) each planning authority other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^c-b7095378c7acda20df3b875f52c18847] (as the case may be) the person notifying considers appropriate,
+- (b) each community council other than one mentioned in section 60(2)(b) or (4)(b) of the 2024 Act[^c-f89d67c236499d9fe60d6adbb4f180f7] (as the case may be) that made representations on the application to which the infrastructure consent order relates, during the representation period,
 - (c) each Member of the Senedd the person notifying considers appropriate,
 - (d) each Member of the House of Commons the person notifying considers appropriate, and
 - (e) any other person the person notifying considers appropriate.
 
-**3.**[^key-1aff751fff08cb71cd90888a7ee73601] In this Schedule—
+**3.**[^c-1aff751fff08cb71cd90888a7ee73601] In this Schedule—
 
 - “**the land**” (“***y tir***”) means—
   - (a) the land to which the infrastructure consent order relates, or
@@ -870,11 +870,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2024 asc. 3](https://www.legislation.gov.uk/asc/2024/3).
 
-[^key-692b9a7d6b3ee9b71048c978b9e48955]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2025/692) applied (with modifications) (15.12.2025) by [The Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025 (S.I. 2025/691)](https://www.legislation.gov.uk/wsi/2025/691), [regs. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1), [25](https://www.legislation.gov.uk/wsi/2025/691/regulation/25) (with [reg. 2](https://www.legislation.gov.uk/wsi/2025/691/regulation/2))
+[^c-692b9a7d6b3ee9b71048c978b9e48955]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2025/692) applied (with modifications) (15.12.2025) by [The Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025 (S.I. 2025/691)](https://www.legislation.gov.uk/wsi/2025/691), [regs. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1), [25](https://www.legislation.gov.uk/wsi/2025/691/regulation/25) (with [reg. 2](https://www.legislation.gov.uk/wsi/2025/691/regulation/2))
 
-[^key-7bf9bc355baf535a06b97a91f0c44531]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/692/regulation/1) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-7bf9bc355baf535a06b97a91f0c44531]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/692/regulation/1) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-6a8b05b2fdc5416154599ae2d5d0dae4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/692/regulation/2) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-6a8b05b2fdc5416154599ae2d5d0dae4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/692/regulation/2) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2025/690 (W. 114)](https://www.legislation.gov.uk/wsi/2025/690).
 
@@ -890,129 +890,129 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00009]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) to which there are amendments not relevant to these Regulations.
 
-[^key-6666f2df7e57cb6fe053575830e76d37]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/692/regulation/3) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-6666f2df7e57cb6fe053575830e76d37]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/692/regulation/3) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-bef897ab1b1f4abc6f61f859bee7952d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/692/regulation/4) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-bef897ab1b1f4abc6f61f859bee7952d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/692/regulation/4) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-b5ef8fa1d483983d7f9ea55cee01eb1d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/692/regulation/5) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-b5ef8fa1d483983d7f9ea55cee01eb1d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/692/regulation/5) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-5cf10030e9c49c2a199e1f9997940ab3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/692/regulation/6) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-5cf10030e9c49c2a199e1f9997940ab3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/692/regulation/6) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-fd26de16f6d9c2aa555e563b294519c2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/692/regulation/7) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-fd26de16f6d9c2aa555e563b294519c2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/692/regulation/7) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-4d704188c453c4574de455a4486b6692]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/692/regulation/8) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-4d704188c453c4574de455a4486b6692]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/692/regulation/8) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-bbd07ac775e2de9a0175b14bff5c3883]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/692/regulation/9) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-bbd07ac775e2de9a0175b14bff5c3883]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/692/regulation/9) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-b1b22ac5fa492f3704715baac1007cba]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/692/regulation/10) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-b1b22ac5fa492f3704715baac1007cba]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/692/regulation/10) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-5d541985b4ae28f29ff0f059e12f4a0e]: Commencement: Reg. 11 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-5d541985b4ae28f29ff0f059e12f4a0e]: Commencement: Reg. 11 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-f6c052224abd0c229b17d10644255ef7]: Textual amendment: Words in reg. 11(4)(b) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/3)
+[^c-f6c052224abd0c229b17d10644255ef7]: Textual amendment: Words in reg. 11(4)(b) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/3)
 
-[^key-47b0e91903c97fd6a75dd6a37f2772eb]: Commencement: Reg. 12 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-47b0e91903c97fd6a75dd6a37f2772eb]: Commencement: Reg. 12 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-e9588de1802e3aa25813b74bb0e73a82]: Textual amendment: Words in reg. 12(2) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/a)
+[^c-e9588de1802e3aa25813b74bb0e73a82]: Textual amendment: Words in reg. 12(2) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/a)
 
-[^key-e6e4ddf1106e4543e988c9220a43be77]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/692/regulation/13) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-e6e4ddf1106e4543e988c9220a43be77]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/692/regulation/13) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-e18452397c4e8f36ba4976407e02f5df]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/692/regulation/14) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-e18452397c4e8f36ba4976407e02f5df]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/692/regulation/14) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-3fce8db648e2091416f8a894b79e807e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/692/regulation/15) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-3fce8db648e2091416f8a894b79e807e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/692/regulation/15) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-8ba8607339a5f193e469e77bc51e4598]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/692/regulation/16) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-8ba8607339a5f193e469e77bc51e4598]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/692/regulation/16) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-1c5610bc76120abaa58c9cdfe9f542d4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/692/regulation/17) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-1c5610bc76120abaa58c9cdfe9f542d4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/692/regulation/17) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-b9551682b764f8a2f8b16bf8e288f9ed]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/692/regulation/18) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-b9551682b764f8a2f8b16bf8e288f9ed]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/692/regulation/18) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-38d2783bf853c42400985770752c6870]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/692/regulation/19) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-38d2783bf853c42400985770752c6870]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/692/regulation/19) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-ef7f9ac97d2db09c8f352c00aeec6925]: Commencement: Reg. 20 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-ef7f9ac97d2db09c8f352c00aeec6925]: Commencement: Reg. 20 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-37e6ee184c23be36ef7565505062b19a]: Textual amendment: Word in [reg. 20(9)](https://www.legislation.gov.uk/wsi/2025/692/regulation/20/9) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/uksi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/4/9/b)
+[^c-37e6ee184c23be36ef7565505062b19a]: Textual amendment: Word in [reg. 20(9)](https://www.legislation.gov.uk/wsi/2025/692/regulation/20/9) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/uksi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/4/9/b)
 
-[^key-179de40e0b9146ea364611d2a16dd7cf]: Commencement: Reg. 21 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-179de40e0b9146ea364611d2a16dd7cf]: Commencement: Reg. 21 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-0883e2c00080c4ba094fe3f4e7cd6f7a]: Textual amendment: Word in reg. 21(10) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
+[^c-0883e2c00080c4ba094fe3f4e7cd6f7a]: Textual amendment: Word in reg. 21(10) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
 
-[^key-3cbfedb7cdd6d72ae126214ebd813924]: Textual amendment: Reg. 21(12) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/5)
+[^c-3cbfedb7cdd6d72ae126214ebd813924]: Textual amendment: Reg. 21(12) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/5)
 
-[^key-ddcfab88e394d43395f5a9515b181346]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/692/regulation/22) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-ddcfab88e394d43395f5a9515b181346]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/692/regulation/22) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-eab774521385a06b7d98426567939b78]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2025/692/regulation/23) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-eab774521385a06b7d98426567939b78]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2025/692/regulation/23) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-ad859b11c6c535035d64c9ba0acdb352]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2025/692/regulation/24) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-ad859b11c6c535035d64c9ba0acdb352]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2025/692/regulation/24) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-3eb15cf27cf0781ccb615325fcf7bf99]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2025/692/regulation/25) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-3eb15cf27cf0781ccb615325fcf7bf99]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2025/692/regulation/25) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-b15924bb1d728723e90f156355227752]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2025/692/regulation/26) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-b15924bb1d728723e90f156355227752]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2025/692/regulation/26) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-b51d1402036078950d26022838bad0f7]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2025/692/regulation/27) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-b51d1402036078950d26022838bad0f7]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2025/692/regulation/27) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-66579fd3c34754ad46a8c7efc45aabd9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2025/692/regulation/28) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-66579fd3c34754ad46a8c7efc45aabd9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2025/692/regulation/28) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-b3eb5c74438789ba6aa493f94d618ccc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2025/692/regulation/29) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-b3eb5c74438789ba6aa493f94d618ccc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2025/692/regulation/29) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-de0d98571b78e7ee4a8a0ae851daf015]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2025/692/regulation/30) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-de0d98571b78e7ee4a8a0ae851daf015]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2025/692/regulation/30) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-cec9b1058edda6279536a9c0306d77d0]: Commencement: Reg. 31 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-cec9b1058edda6279536a9c0306d77d0]: Commencement: Reg. 31 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-0ffbe647e28a0d908f58b12b9c960422]: Textual amendment: Words in reg. 31(9)(b) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/a)
+[^c-0ffbe647e28a0d908f58b12b9c960422]: Textual amendment: Words in reg. 31(9)(b) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/a)
 
-[^key-f6e4915eb1a3ee4dd62c2482023fd097]: Textual amendment: Word in reg. 31(10) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
+[^c-f6e4915eb1a3ee4dd62c2482023fd097]: Textual amendment: Word in reg. 31(10) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
 
-[^key-e894a458b8d2283230660f2513c2c1b3]: Commencement: Reg. 32 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-e894a458b8d2283230660f2513c2c1b3]: Commencement: Reg. 32 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-95ca6d2a756abab601dbad2c1540b36d]: Textual amendment: Words in reg. 32(9)(b) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/a)
+[^c-95ca6d2a756abab601dbad2c1540b36d]: Textual amendment: Words in reg. 32(9)(b) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/a)
 
-[^key-1a3eb80667b4c2bbc00349e9df3310fe]: Textual amendment: Word in reg. 32(10) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
+[^c-1a3eb80667b4c2bbc00349e9df3310fe]: Textual amendment: Word in reg. 32(10) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
 
-[^key-a87297db81378edb859572e1fc5d3294]: Commencement: Reg. 33 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-a87297db81378edb859572e1fc5d3294]: Commencement: Reg. 33 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-e8b8723b8906c593b0bfca6fe8a3d0a5]: Textual amendment: Word in reg. 33 substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
+[^c-e8b8723b8906c593b0bfca6fe8a3d0a5]: Textual amendment: Word in reg. 33 substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/9/b)
 
-[^key-1dff3bb55ff3b5ec1eeae8f4590d6b56]: Commencement: Reg. 34 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-1dff3bb55ff3b5ec1eeae8f4590d6b56]: Commencement: Reg. 34 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-791e766006b6aad361240d057dd1086e]: Textual amendment: Words in [reg. 34(1)(b)](https://www.legislation.gov.uk/wsi/2025/692/regulation/34/1/b) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/uksi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/4/8)
+[^c-791e766006b6aad361240d057dd1086e]: Textual amendment: Words in [reg. 34(1)(b)](https://www.legislation.gov.uk/wsi/2025/692/regulation/34/1/b) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/uksi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/4/8)
 
-[^key-1e5b79f85c44bde94e4e6f559d131a75]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2025/692/regulation/35) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-1e5b79f85c44bde94e4e6f559d131a75]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2025/692/regulation/35) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-aa14d642ad520a0d41dde7a2ee819c48]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2025/692/regulation/36) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-aa14d642ad520a0d41dde7a2ee819c48]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2025/692/regulation/36) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-edd30a2a410b5f9d9c7369a35947851e]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2025/692/regulation/37) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-edd30a2a410b5f9d9c7369a35947851e]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2025/692/regulation/37) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-2d7bec7c3cc697186222dd524dc267db]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2025/692/regulation/38) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-2d7bec7c3cc697186222dd524dc267db]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2025/692/regulation/38) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-0cf4cad6b77470ed17f1faadcbeb483c]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2025/692/regulation/39) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-0cf4cad6b77470ed17f1faadcbeb483c]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2025/692/regulation/39) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-e8d7393f87adbc82327105af77d01c63]: Commencement: Sch. 1 para. 1 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-e8d7393f87adbc82327105af77d01c63]: Commencement: Sch. 1 para. 1 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2006/1387 (W. 137)](https://www.legislation.gov.uk/wsi/2006/1387), amended by [S.I. 2016/56 (W. 26)](https://www.legislation.gov.uk/wsi/2016/56), [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567) and [S.I. 2024/924 (W. 151)](https://www.legislation.gov.uk/wsi/2024/924).
 
-[^key-42e87c101ac885c0ffd13d8710156fdd]: Commencement: Sch. 1 para. 2 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-42e87c101ac885c0ffd13d8710156fdd]: Commencement: Sch. 1 para. 2 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-c7c5748166e9b4d32ceae0cc455e0149]: Commencement: Sch. 1 para. 3 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-c7c5748166e9b4d32ceae0cc455e0149]: Commencement: Sch. 1 para. 3 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-d1e04759691f381e49ef2cc4a0cfa57b]: Textual amendment: Words in Sch. 1 para. 3(b) omitted (14.12.2025) by virtue of [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(10)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/10)
+[^c-d1e04759691f381e49ef2cc4a0cfa57b]: Textual amendment: Words in Sch. 1 para. 3(b) omitted (14.12.2025) by virtue of [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(10)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/10)
 
-[^key-1dc0f0b0ee547f9ecedc9dd1eb801d94]: Commencement: Sch. 1 para. 4 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-1dc0f0b0ee547f9ecedc9dd1eb801d94]: Commencement: Sch. 1 para. 4 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-c24fe0039ae3bbf8fdbbb36e1068d28e]: Commencement: Sch. 1 para. 5 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-c24fe0039ae3bbf8fdbbb36e1068d28e]: Commencement: Sch. 1 para. 5 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-781223009f2bc726ae1dac2670340518]: Commencement: Sch. 2 para. 1 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-781223009f2bc726ae1dac2670340518]: Commencement: Sch. 2 para. 1 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-dc6170a06bda127ac38646988b9d0a78]: Textual amendment: Words in Sch. 2 para. 1(d) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
+[^c-dc6170a06bda127ac38646988b9d0a78]: Textual amendment: Words in Sch. 2 para. 1(d) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
 
-[^key-4e2d3db192850261ba49283fe3485f73]: Textual amendment: Words in Sch. 2 para. 1(e) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
+[^c-4e2d3db192850261ba49283fe3485f73]: Textual amendment: Words in Sch. 2 para. 1(e) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
 
-[^key-26c397cff0041beb2f9895a3c3c1f943]: Commencement: Sch. 2 para. 2 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-26c397cff0041beb2f9895a3c3c1f943]: Commencement: Sch. 2 para. 2 in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
-[^key-b7095378c7acda20df3b875f52c18847]: Textual amendment: Words in Sch. 2 para. 2(a) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
+[^c-b7095378c7acda20df3b875f52c18847]: Textual amendment: Words in Sch. 2 para. 2(a) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
 
-[^key-f89d67c236499d9fe60d6adbb4f180f7]: Textual amendment: Words in Sch. 2 para. 2(b) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
+[^c-f89d67c236499d9fe60d6adbb4f180f7]: Textual amendment: Words in Sch. 2 para. 2(b) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/4/11)
 
-[^key-1aff751fff08cb71cd90888a7ee73601]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/692/schedule/2/paragraph/3) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
+[^c-1aff751fff08cb71cd90888a7ee73601]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/692/schedule/2/paragraph/3) in force at 15.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2)
 
 [^f00011]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 

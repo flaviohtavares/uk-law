@@ -33,7 +33,7 @@ summary: ''
 
 - (a) the Lord Chief Justice has consulted the Lord Chancellor;
 - (b) the person to be appointed is one of the following—
-  - (i) the President of the Business and Property Division[^key-30e62358df3c6d3a0414d0708a55fcda];
+  - (i) the President of the Business and Property Division[^c-30e62358df3c6d3a0414d0708a55fcda];
   - (ii) an ordinary judge of the Court of Appeal.
 
 (5) A person appointed under subsection (2)(b) or (3) holds the office to which he is appointed in accordance with the terms of his appointment.
@@ -46,4 +46,4 @@ summary: ''
 
 [^c19142851]: Textual amendment: S. 62 inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 14](https://www.legislation.gov.uk/ukpga/2005/4/section/14), [Sch. 4 para. 330](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/330); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 
-[^key-30e62358df3c6d3a0414d0708a55fcda]: Textual amendment: Words in [s. 62(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/39/section/62/4/b/i) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 22(2)(b)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/22/2/b)
+[^c-30e62358df3c6d3a0414d0708a55fcda]: Textual amendment: Words in [s. 62(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/39/section/62/4/b/i) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 22(2)(b)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/22/2/b)

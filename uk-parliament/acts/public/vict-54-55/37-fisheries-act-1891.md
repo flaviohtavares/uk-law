@@ -29,7 +29,7 @@ Fisheries Act 1891
 
 1891 c.37
 
-[^key-5ab5b8dbadab26c98148b7030a8c7a5a]An Act to carry into effect an International Declaration respecting the North Sea Fisheries, and to amend the Law relating to Sea Fisheries and Salmon and Freshwater Fisheries.
+[^c-5ab5b8dbadab26c98148b7030a8c7a5a]An Act to carry into effect an International Declaration respecting the North Sea Fisheries, and to amend the Law relating to Sea Fisheries and Salmon and Freshwater Fisheries.
 
 \[21st July 1891\]
 
@@ -75,7 +75,7 @@ Provided that if the Scheduled Declaration ceases to be binding on Her Majesty, 
 
 ## Part IV — General
 
-### 13. Explanation as to power of taking legal proceedings for enforcing Fisheries Acts.[^key-6713ae00f5d4180933d3a23a92f20dca]
+### 13. Explanation as to power of taking legal proceedings for enforcing Fisheries Acts.[^c-6713ae00f5d4180933d3a23a92f20dca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -150,7 +150,7 @@ Done at Brussels, the 2nd May 1891.
 
 ## Annotations
 
-[^key-5ab5b8dbadab26c98148b7030a8c7a5a]: Textual amendment: Act repealed (E.W.N.I.) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [Sch. 23 para. 31(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/31/b)
+[^c-5ab5b8dbadab26c98148b7030a8c7a5a]: Textual amendment: Act repealed (E.W.N.I.) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [Sch. 23 para. 31(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/31/b)
 
 [^c5748661]: Modification: Functions of Board of Trade now exercisable concurrently by Secretary of State: [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537), [art. 2(1)](https://www.legislation.gov.uk/uksi/1970/1537/article/2/1)
 
@@ -182,4 +182,4 @@ Done at Brussels, the 2nd May 1891.
 
 [^c5748991]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/Vict/54-55/37/section/12) repealed by [Salmon and Freshwater Fisheries Act 1923 (c. 16)](https://www.legislation.gov.uk/ukpga/1923/16), [Sch. 5](https://www.legislation.gov.uk/ukpga/1923/16/schedule/5)
 
-[^key-6713ae00f5d4180933d3a23a92f20dca]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Vict/54-55/37/section/13) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 234(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/234/c), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pts. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)[Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
+[^c-6713ae00f5d4180933d3a23a92f20dca]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Vict/54-55/37/section/13) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 234(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/234/c), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pts. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)[Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)

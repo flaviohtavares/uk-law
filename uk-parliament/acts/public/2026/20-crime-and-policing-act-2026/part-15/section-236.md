@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Length of terrorism sentence with fixed licence period: Northern Ireland[^key-fe4eb0c959a7902ea78347bcc6982768]
+## 236. Length of terrorism sentence with fixed licence period: Northern Ireland[^c-fe4eb0c959a7902ea78347bcc6982768]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe4eb0c959a7902ea78347bcc6982768]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/20/section/236) in force at 29.6.2026, see [s. 255(3)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/j)
+[^c-fe4eb0c959a7902ea78347bcc6982768]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/20/section/236) in force at 29.6.2026, see [s. 255(3)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/j)

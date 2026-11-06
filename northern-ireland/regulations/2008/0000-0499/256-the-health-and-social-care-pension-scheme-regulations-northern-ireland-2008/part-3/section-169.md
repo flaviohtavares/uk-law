@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 169. Exercise of options under regulations 165, 167 and 168[^key-5fefe515c55e5ca6de2b390ba7375471]
+## 169. Exercise of options under regulations 165, 167 and 168[^c-5fefe515c55e5ca6de2b390ba7375471]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fefe515c55e5ca6de2b390ba7375471]: Modification: [Regs. 165-172](https://www.legislation.gov.uk/nisr/2008/256/regulation/165) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)
+[^c-5fefe515c55e5ca6de2b390ba7375471]: Modification: [Regs. 165-172](https://www.legislation.gov.uk/nisr/2008/256/regulation/165) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)

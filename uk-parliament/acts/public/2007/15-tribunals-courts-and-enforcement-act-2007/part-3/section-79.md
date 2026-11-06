@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Use of CRAR after end of lease[^key-bc1cfe72b3b0ecc1ba4e747876f7fb4c]
+## 79. Use of CRAR after end of lease[^c-bc1cfe72b3b0ecc1ba4e747876f7fb4c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc1cfe72b3b0ecc1ba4e747876f7fb4c]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2007/15/section/79) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-bc1cfe72b3b0ecc1ba4e747876f7fb4c]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2007/15/section/79) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

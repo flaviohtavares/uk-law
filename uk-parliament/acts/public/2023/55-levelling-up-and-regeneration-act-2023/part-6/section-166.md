@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. EOR regulations: further provision[^key-fc2ad59b9182eefe833480218e572f0d]
+## 166. EOR regulations: further provision[^c-fc2ad59b9182eefe833480218e572f0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,10 +45,10 @@ summary: ''
 - (b) an Act or Measure of Senedd Cymru,
 - (c) an Act of the Scottish Parliament,
 - (d) Northern Ireland legislation, or
-- (e) assimilated direct legislation[^key-c996a7312a3343cae88482bd0f1b6315].
+- (e) assimilated direct legislation[^c-c996a7312a3343cae88482bd0f1b6315].
 
 ## Annotations
 
-[^key-fc2ad59b9182eefe833480218e572f0d]: Commencement: S. 166 in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-fc2ad59b9182eefe833480218e572f0d]: Commencement: S. 166 in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
 
-[^key-c996a7312a3343cae88482bd0f1b6315]: Textual amendment: Words in [s. 166(3)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/166/3/e) substituted (comes into force at the end of 2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 248](https://www.legislation.gov.uk/ukpga/2023/55/section/248), [255(10)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c996a7312a3343cae88482bd0f1b6315]: Textual amendment: Words in [s. 166(3)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/166/3/e) substituted (comes into force at the end of 2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 248](https://www.legislation.gov.uk/ukpga/2023/55/section/248), [255(10)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

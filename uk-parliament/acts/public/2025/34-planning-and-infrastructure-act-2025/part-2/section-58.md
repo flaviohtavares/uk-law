@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Spatial development strategies[^key-a533845c8e97b2ba9b8c10f8a48f3926][^key-674c5166e9851f589c7c99099d506303]
+## 58. Spatial development strategies[^c-a533845c8e97b2ba9b8c10f8a48f3926][^c-674c5166e9851f589c7c99099d506303]
 
 *Extent: E+W*
 
-(1)[^key-a533845c8e97b2ba9b8c10f8a48f3926] Before section 13 of the Planning and Compulsory Purchase Act 2004 insert—
+(1)[^c-a533845c8e97b2ba9b8c10f8a48f3926] Before section 13 of the Planning and Compulsory Purchase Act 2004 insert—
 
 > **Part 1A — Strategic plan-making**
 >
@@ -659,7 +659,7 @@ summary: ''
 - (a) in subsection (2A) (as inserted by section 95(2) of the Levelling-up and Regeneration Act 2023) omit paragraph (b) (and the “and” at the end of paragraph (a));
 - (b) in subsection (2D) (also inserted by section 95(2) of that Act) omit paragraph (b) (and the “but” at the end of paragraph (a)).
 
-(3)[^key-706c536b75fec9c28884bd30751d38d8] Schedule 2 makes minor and consequential amendments in connection with subsection (1).
+(3)[^c-706c536b75fec9c28884bd30751d38d8] Schedule 2 makes minor and consequential amendments in connection with subsection (1).
 
 (4) The Secretary of State may by regulations by statutory instrument make provision that is consequential on subsection (1).
 
@@ -673,8 +673,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a533845c8e97b2ba9b8c10f8a48f3926]: Commencement: S. 58(1) in force at Royal Assent for specified purposes, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-a533845c8e97b2ba9b8c10f8a48f3926]: Commencement: S. 58(1) in force at Royal Assent for specified purposes, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-674c5166e9851f589c7c99099d506303]: Commencement: [S. 58(4)-(8)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/4) in force at 18.2.2026, see [s. 118(2)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/h)
+[^c-674c5166e9851f589c7c99099d506303]: Commencement: [S. 58(4)-(8)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/4) in force at 18.2.2026, see [s. 118(2)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/h)
 
-[^key-706c536b75fec9c28884bd30751d38d8]: Commencement: [S. 58(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/3) in force at 4.11.2026 for specified purposes by [S.I. 2026/1157](https://www.legislation.gov.uk/uksi/2026/1157), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1157/regulation/2/a)
+[^c-706c536b75fec9c28884bd30751d38d8]: Commencement: [S. 58(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/3) in force at 4.11.2026 for specified purposes by [S.I. 2026/1157](https://www.legislation.gov.uk/uksi/2026/1157), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1157/regulation/2/a)

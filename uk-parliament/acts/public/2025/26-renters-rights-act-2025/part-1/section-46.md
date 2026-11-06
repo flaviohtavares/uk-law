@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Amendments of [Renting Homes (Wales) Act 2016](https://www.legislation.gov.uk/anaw/2016/1) regarding discrimination[^key-2bbcbed0fbd6fe00e2b69cba0cdac151][^key-bf6eede7ca1af9f7794055ba580b5752]
+## 46. Amendments of [Renting Homes (Wales) Act 2016](https://www.legislation.gov.uk/anaw/2016/1) regarding discrimination[^c-2bbcbed0fbd6fe00e2b69cba0cdac151][^c-bf6eede7ca1af9f7794055ba580b5752]
 
 *Extent: E+W*
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bbcbed0fbd6fe00e2b69cba0cdac151]: Commencement: S. 46 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-2bbcbed0fbd6fe00e2b69cba0cdac151]: Commencement: S. 46 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-bf6eede7ca1af9f7794055ba580b5752]: Commencement: S. 46 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)
+[^c-bf6eede7ca1af9f7794055ba580b5752]: Commencement: S. 46 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)

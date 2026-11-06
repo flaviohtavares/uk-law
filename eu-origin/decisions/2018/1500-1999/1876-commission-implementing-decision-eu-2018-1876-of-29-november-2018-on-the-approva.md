@@ -111,7 +111,7 @@ The technology used in the MELCO GXi alternator for category N<sub>1</sub> vehic
 
 The eco-innovation code No 24 shall be entered into the type approval documentation where reference is made to this Decision in accordance with Article 11(1) of Implementing Regulation (EU) No 427/2014.
 
-## Article 5. Entry into force[^key-040ac9443f705a58ac3ccc1df7efc778]
+## Article 5. Entry into force[^c-040ac9443f705a58ac3ccc1df7efc778]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -458,7 +458,7 @@ The type approval authority is to certify the CO<sub>2</sub> savings based on me
 
 [^f00010]: Footnote: Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information ([OJ L 199, 28.7.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.199.01.0001.01.ENG)).
 
-[^key-040ac9443f705a58ac3ccc1df7efc778]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2018/1876/article/5) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [33(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/33/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-040ac9443f705a58ac3ccc1df7efc778]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2018/1876/article/5) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [33(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/33/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00011]: Footnote: ISO 8854:2012 Road vehicles – Alternators with regulators – Test methods and general requirements
 

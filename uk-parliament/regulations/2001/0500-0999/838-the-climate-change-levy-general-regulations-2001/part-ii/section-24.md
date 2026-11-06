@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**24.**[^key-ba99946fc614914f7f490c0e9dc3cf87] (1) Where a claimant is given notice in accordance with paragraph (2) he shall, in accordance with such notice, produce to the Commissioners the records that he is required to keep pursuant to regulation 23.
+**24.**[^c-ba99946fc614914f7f490c0e9dc3cf87] (1) Where a claimant is given notice in accordance with paragraph (2) he shall, in accordance with such notice, produce to the Commissioners the records that he is required to keep pursuant to regulation 23.
 
 (2) A notice given for the purposes of paragraph (1) shall—
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba99946fc614914f7f490c0e9dc3cf87]: Commencement: Reg. 24 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-ba99946fc614914f7f490c0e9dc3cf87]: Commencement: Reg. 24 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

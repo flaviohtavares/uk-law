@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Appropriated property: compensation[^key-20669c6d8269f7acce5ac0e4d78d74f1]
+## 26. Appropriated property: compensation[^c-20669c6d8269f7acce5ac0e4d78d74f1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20669c6d8269f7acce5ac0e4d78d74f1]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2017/2/section/26) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-20669c6d8269f7acce5ac0e4d78d74f1]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2017/2/section/26) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

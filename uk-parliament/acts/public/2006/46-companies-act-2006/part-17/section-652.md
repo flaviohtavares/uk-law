@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a company's share capital is reduced a member of the company (past or present) is not liable in respect of any share to any call or contribution exceeding in amount the difference (if any) between—
 
-- (a) the nominal amount of the share as notified to the registrar in the statement of capital delivered under section 644 , 649, 1028A or 1032A of this Act or paragraph 7 of Schedule 4 to the Small Business, Enterprise and Employment Act 2015[^key-1ad966c83ab0b4bc8f94b8de1ed0b0cf], and
+- (a) the nominal amount of the share as notified to the registrar in the statement of capital delivered under section 644 , 649, 1028A or 1032A of this Act or paragraph 7 of Schedule 4 to the Small Business, Enterprise and Employment Act 2015[^c-1ad966c83ab0b4bc8f94b8de1ed0b0cf], and
 - (b) the amount paid on the share or the reduced amount (if any) which is deemed to have been paid on it, as the case may be.
 
 (2) This is subject to section 653 (liability to creditor in case of omission from list).
@@ -35,4 +35,4 @@ summary: ''
 
 [^c19938501]: Commencement: S. 652 wholly in force at 1.10.2009; s. 652 not in force at Royal Assent see s. 1300; s. 652(1)(3) in force for specified purposes at 1.10.2008 by [S.I. 2008/1886](https://www.legislation.gov.uk/uksi/2008/1886), [art. 2](https://www.legislation.gov.uk/uksi/2008/1886/article/2) (with [arts 6](https://www.legislation.gov.uk/uksi/2008/1886/article/6), [7](https://www.legislation.gov.uk/uksi/2008/1886/article/7)); s. 652 in force at 1.10.2009 in so far as not already in force by [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(k)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/k) (with [arts. 5](https://www.legislation.gov.uk/uksi/2008/2860/article/5), [7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (as amended by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18))
 
-[^key-1ad966c83ab0b4bc8f94b8de1ed0b0cf]: Textual amendment: Words in s. 652(1)(a) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/25)
+[^c-1ad966c83ab0b4bc8f94b8de1ed0b0cf]: Textual amendment: Words in s. 652(1)(a) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/25)

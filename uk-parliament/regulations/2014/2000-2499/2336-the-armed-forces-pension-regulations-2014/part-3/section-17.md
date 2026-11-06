@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Deferred membership[^key-19b086f16f12b66a4cbeeb2abd66c531]
+## 17. Deferred membership[^c-19b086f16f12b66a4cbeeb2abd66c531]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person who, on ceasing to be in pensionable service under this scheme, has not
 
 ## Annotations
 
-[^key-19b086f16f12b66a4cbeeb2abd66c531]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2336/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-19b086f16f12b66a4cbeeb2abd66c531]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2336/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

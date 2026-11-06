@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Regulations[^key-2110cc3d492353139f7d64ec3c70f8c3]
+## 100. Regulations[^c-2110cc3d492353139f7d64ec3c70f8c3]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2110cc3d492353139f7d64ec3c70f8c3]: Commencement: S. 100 in force at 28.6.2025, see [s. 103(2)](https://www.legislation.gov.uk/asp/2025/8/section/103/2)
+[^c-2110cc3d492353139f7d64ec3c70f8c3]: Commencement: S. 100 in force at 28.6.2025, see [s. 103(2)](https://www.legislation.gov.uk/asp/2025/8/section/103/2)

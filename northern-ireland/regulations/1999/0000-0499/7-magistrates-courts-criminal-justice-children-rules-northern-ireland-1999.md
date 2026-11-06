@@ -43,7 +43,7 @@ The Lord Chancellor, in exercise of the powers conferred on him by Article 13 of
 
 ## Part I — Citation, Commencement and Interpretation, etc
 
-### 1. Citation, commencement and interpretation[^key-c5126bca060ef7dde2f56224b6ba5e27]
+### 1. Citation, commencement and interpretation[^c-c5126bca060ef7dde2f56224b6ba5e27]
 
 (1) These Rules may be cited as the Magistrates' Courts (Criminal Justice (Children)) Rules (Northern Ireland) 1999 and shall come into operation on 31st January 1999.
 
@@ -57,7 +57,7 @@ The Lord Chancellor, in exercise of the powers conferred on him by Article 13 of
 
 (3) Expressions used in these Rules which are also used in the Order shall be construed in the same way as in that Order.
 
-### 2. Revocation and transitional provisions[^key-189a8a726710bc9db96d805dec9c9aab]
+### 2. Revocation and transitional provisions[^c-189a8a726710bc9db96d805dec9c9aab]
 
 (1) Subject to paragraph (2), the Rules specified in Schedule 2 are hereby revoked to the extent specified in the third column of that Schedule.
 
@@ -71,7 +71,7 @@ The Lord Chancellor, in exercise of the powers conferred on him by Article 13 of
 
 ### A. — General
 
-#### 3. Application of this Part[^key-8ba9dcbe499cec7bd9fbc45ea3e47674]
+#### 3. Application of this Part[^c-8ba9dcbe499cec7bd9fbc45ea3e47674]
 
 (1) Subject to paragraphs (3) and (4), this Part applies where proceedings to which paragraph (2) applies are brought in a court in respect of a child.
 
@@ -87,23 +87,23 @@ The Lord Chancellor, in exercise of the powers conferred on him by Article 13 of
 
 (4) Where the court is conducting a preliminary investigation or inquiry, only Rules 4, 5 and 7(3) shall apply.
 
-#### 4. Right of parent or guardian to conduct case[^key-58ac14ffd31593b4a53757bad4302bfc]
+#### 4. Right of parent or guardian to conduct case[^c-58ac14ffd31593b4a53757bad4302bfc]
 
 (1) The court shall, except where the child is legally represented, allow his parent or guardian to assist him in conducting his defence, including the cross-examination of witnesses for the prosecution.
 
 (2) Where the parent or guardian cannot be found or cannot in the opinion of the court reasonably be required to attend, the court may allow any relative or other responsible person to take the place of the parent or guardian for the purposes of this Part and any reference therein to the parent or guardian shall be taken as a reference to such person.
 
-#### 5. Explanation of proceedings in simple language[^key-41291be230d6ce5585c4eaaf44be3063]
+#### 5. Explanation of proceedings in simple language[^c-41291be230d6ce5585c4eaaf44be3063]
 
 (1) The court shall explain to the child the nature of the proceedings and, where he is charged with an offence, the substance of the charge.
 
 (2) The explanation shall be given in simple language suitable to the child’s age and understanding.
 
-#### 6. Taking plea[^key-410254dc40cc9a14cdedb2f9b489ebdc]
+#### 6. Taking plea[^c-410254dc40cc9a14cdedb2f9b489ebdc]
 
 Subject to the provisions of Article 17 of the Order and to Rule 9, the court shall, after giving an explanation of the charge as required by Rule 4, ask the child whether he admits the charge and where he does so, the court at any time before recording a finding of guilt may allow or advise him to plead not guilty thereto.
 
-#### 7. Evidence in support of charge or application[^key-a6caaef3028fd6546b03d163c4d50457]
+#### 7. Evidence in support of charge or application[^c-a6caaef3028fd6546b03d163c4d50457]
 
 (1) Where—
 
@@ -121,13 +121,13 @@ each witness may at the close of his evidence-in-chief be cross-examined by or o
 
 (3) If in any case where the child is not legally represented or assisted in his defence as provided by Rule 4, the child, instead of asking questions by way of cross-examination, makes assertions, the court shall then put to the witness such questions as it thinks necessary on behalf of the child and may for this purpose question the child in order to bring out or clear up any point arising out of any such assertions.
 
-#### 8. Defendant to be told of right to give evidence and call witnesses[^key-c90fce27a78569891c82e0952d9c1d6e]
+#### 8. Defendant to be told of right to give evidence and call witnesses[^c-c90fce27a78569891c82e0952d9c1d6e]
 
 If it appears to the court, after hearing the evidence in support of the charge or application, that a prima facie case is made out, the child shall, if he is not the applicant and is not legally represented, be told that he may give evidence or address the court, and the evidence of any witnesses shall be heard.
 
 ### B. — Summary Trial of Indictable Offences
 
-#### 9. Procedure for summary trial of indictable offences[^key-b4bad8cb575290f477f19702ad60de3e]
+#### 9. Procedure for summary trial of indictable offences[^c-b4bad8cb575290f477f19702ad60de3e]
 
 (1) Subject to paragraph (2) nothing in these Rules shall affect the provisions of Article 17(3), (4), (5) and (6) of the Order as to the procedure to be adopted where the court decides to deal summarily with an indictable offence under Article 17(1) of the Order.
 
@@ -137,7 +137,7 @@ If it appears to the court, after hearing the evidence in support of the charge 
 
 ### C. — Procedure after Finding
 
-#### 10. Procedure after finding against child[^key-3c3cb50362623f213eb3bbac07131707]
+#### 10. Procedure after finding against child[^c-3c3cb50362623f213eb3bbac07131707]
 
 (1) This Rule applies where—
 
@@ -157,41 +157,41 @@ If it appears to the court, after hearing the evidence in support of the charge 
   - (iii) if the child or his parent or guardian, having been told the substance of any part of any such report, desires to produce evidence with reference thereto, the court, if it thinks that the evidence may be material, shall adjourn the proceedings for the production of further evidence, and shall, if necessary, require the attendance at the adjourned hearing of the person who made the report; and
 - (e) if the court considers it necessary in the interests of the child it may require the parent or guardian or the child, as the case may be, to withdraw from the court.
 
-#### 11. Duty of court to explain manner in which it proposes to deal with case and effect of order[^key-d2d49532543eb4b367513ed092908d82]
+#### 11. Duty of court to explain manner in which it proposes to deal with case and effect of order[^c-d2d49532543eb4b367513ed092908d82]
 
 (1) The court shall, unless it thinks it undesirable to do so, inform the parent or guardian, if present, or any person assisting him in his case, of the manner in which it proposes to deal with the child and allow any of those persons so informed to make representations.
 
 (2) On making any order, the court shall explain the general nature and effect of the order unless it thinks it undesirable to do so.
 
-#### 12. Notice to be given where remand is extended for information under Article 31 of the Order[^key-c82d43d50d7899d56e5c180aae8f84e9]
+#### 12. Notice to be given where remand is extended for information under Article 31 of the Order[^c-c82d43d50d7899d56e5c180aae8f84e9]
 
 Where a child has been remanded, and the period of remand is extended in his absence in accordance with Article 31 of the Order, notice in Form No. 10 in the Schedule shall be given to him, to his parent or guardian and his sureties (if any) of the date at which he will be required to appear before the court.
 
 ### D. — Committal for Trial
 
-#### 13. Preliminary investigations or inquiries[^key-d247fba7accab3f76102d742dd7cdf93]
+#### 13. Preliminary investigations or inquiries[^c-d247fba7accab3f76102d742dd7cdf93]
 
 Nothing in these Rules shall affect the provisions of Part V of the Magistrates' Courts (Northern Ireland) Order 1981 relating to the preliminary investigation or preliminary inquiry of an indictable offence and, accordingly, Rules 25-42 and Rule 51(2) of the principal Rules shall apply to such investigation or, as the case may be, to such inquiry conducted by a youth court.
 
 ### E. — Election for Trial
 
-#### 14. Right to claim trial by jury for certain summary offences[^key-c3a2886b6857bb706b21d4cb134287e9]
+#### 14. Right to claim trial by jury for certain summary offences[^c-c3a2886b6857bb706b21d4cb134287e9]
 
 Nothing in these Rules shall affect the right of a child apparently over the age of 14 to claim trial by jury under Article 29 of the Magistrates' Courts (Northern Ireland) Order 1981 and, accordingly, Rule 24 of the principal Rules shall apply where a child over the age of 14 is charged with an offence to which that Article applies.
 
 ## Part III — Evidence-Television Links and Video Recording
 
-### 15. Evidence through television link where witness will not give evidence otherwise through fear or is a child or is to be cross-examined after admission of video recording[^key-1917c45c67723a0002034d854c475604]
+### 15. Evidence through television link where witness will not give evidence otherwise through fear or is a child or is to be cross-examined after admission of video recording[^c-1917c45c67723a0002034d854c475604]
 
 Rule 149A of the principal Rules shall apply to any application made to the court under Article 81(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00006].
 
-### 16. Video recordings of testimony from a child[^key-85920f210df8d532c9acd3e97d9e13f3]
+### 16. Video recordings of testimony from a child[^c-85920f210df8d532c9acd3e97d9e13f3]
 
 (1) Rule 149AA of the principal Rules shall apply to any application made to the court under Article 81A(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989.
 
 ## Part IV — Order Book
 
-### 17. Separate Order Book for youth court[^key-10fc661243b256f658cd6982f3638577]
+### 17. Separate Order Book for youth court[^c-10fc661243b256f658cd6982f3638577]
 
 (1) Such part of the Order Book required to be kept under Rule 19 of the principal Rules as relates to the proceedings of the youth court shall be kept in a separate book.
 
@@ -199,11 +199,11 @@ Rule 149A of the principal Rules shall apply to any application made to the cour
 
 ## Part V — Miscellaneous
 
-### 18. Summons to or warrant for arrest of parent or guardian[^key-03eb879e306ebe6e18ff62bcffaa8fc4]
+### 18. Summons to or warrant for arrest of parent or guardian[^c-03eb879e306ebe6e18ff62bcffaa8fc4]
 
 Where a child is brought before a court in any proceedings against him or for any other reason, a summons or warrant may be issued to enforce the attendance of a parent or guardian in accordance with Article 15 of the Order, in the same manner as if a complaint were made upon which a summons or warrant could be issued against a defendant under Part V of the Magistrates' Courts (Northern Ireland) Order 1981 and a summons to the child may include a summons to the parent or guardian to enforce his attendance as aforesaid.
 
-### 19. Payment of sum or part thereof where offender ordered to attend at an attendance centre in default of payment[^key-70a4653abc5614891b8a4872031c13a7]
+### 19. Payment of sum or part thereof where offender ordered to attend at an attendance centre in default of payment[^c-70a4653abc5614891b8a4872031c13a7]
 
 (1) Where a child is ordered under Article 37 of the Order to attend at an attendance centre in default of payment of a sum of money, payment may be made—
 
@@ -214,11 +214,11 @@ Where a child is brought before a court in any proceedings against him or for an
 
 (3) The officer in charge of the centre shall, as soon as practicable, pay any money received by him under paragraph (1) to the clerk of petty sessions for the petty sessions district in which the order was made, and shall note the receipt and payment and date thereof in the register kept at the attendance centre.
 
-### 20. Signing of attendance centre orders[^key-f1296ff7ed46c6d77c5ccb1a4bcde401]
+### 20. Signing of attendance centre orders[^c-f1296ff7ed46c6d77c5ccb1a4bcde401]
 
 Every order under Article 37 of the Order that a child attend at an attendance centre shall be signed by a resident magistrate or by the clerk of petty sessions.
 
-### 21. Juvenile Justice Centre Order[^key-17f850610aa8c122ef9e4fe0482b1dd3]
+### 21. Juvenile Justice Centre Order[^c-17f850610aa8c122ef9e4fe0482b1dd3]
 
 (1) Any summons or warrant issued under Article 41 of the Order shall direct the offender to appear or be brought before a youth court acting for the petty sessions district in which the offender resides.
 
@@ -233,7 +233,7 @@ Every order under Article 37 of the Order that a child attend at an attendance c
 
 (5) In this Rule, “appropriate county court division” means the county court division in which is located the place at which the Crown Court sat when the juvenile justice centre order was made.
 
-### 22. Forms[^key-29e190d5267e289fe2e876cbd2923a2b]
+### 22. Forms[^c-29e190d5267e289fe2e876cbd2923a2b]
 
 The Forms in Schedule 1, or forms to the like effect, shall be used in proceedings to which the Order applies and in accordance with these Rules.
 
@@ -241,7 +241,7 @@ Irvine of Lairg, C.
 
 Dated 7th January 1999
 
-## SCHEDULE 1 — FORMS[^key-9f5fecf38323b2415380fca3697eac9c]
+## SCHEDULE 1 — FORMS[^c-9f5fecf38323b2415380fca3697eac9c]
 
 Rule 22
 
@@ -785,7 +785,7 @@ MAGISTRATES' COURTS (NORTHERN IRELAND) ORDER 1981 *(Rules 14 and 143)*
 
 [image: see source](https://www.legislation.gov.uk/nisr/1999/7/images/nisr_19990007_en_050) [image: see source](https://www.legislation.gov.uk/nisr/1999/7/images/nisr_19990007_en_051)
 
-## SCHEDULE 2 — Rules Revoked[^key-6869969127ec4b987b444d09d6f3aecc]
+## SCHEDULE 2 — Rules Revoked[^c-6869969127ec4b987b444d09d6f3aecc]
 
 Rule 2
 
@@ -807,7 +807,7 @@ These Rules revoke and re-enact with amendments the Magistrates' Courts (Childre
 
 [^f00001]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-c5126bca060ef7dde2f56224b6ba5e27]: Commencement: Rule 1 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-c5126bca060ef7dde2f56224b6ba5e27]: Commencement: Rule 1 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
 [^f00002]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34)
 
@@ -815,52 +815,52 @@ These Rules revoke and re-enact with amendments the Magistrates' Courts (Childre
 
 [^f00004]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225); to which the most recent relevant amendments have been made by [S.R. 1989 No. 422](https://www.legislation.gov.uk/nisr/1989/422), [S.R. 1990 No. 426](https://www.legislation.gov.uk/nisr/1990/426), [S.R. 1994 No. 387](https://www.legislation.gov.uk/nisr/1994/387) and [S.R. 1996 No. 126](https://www.legislation.gov.uk/nisr/1996/126)
 
-[^key-189a8a726710bc9db96d805dec9c9aab]: Commencement: Rule 2 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-189a8a726710bc9db96d805dec9c9aab]: Commencement: Rule 2 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-8ba9dcbe499cec7bd9fbc45ea3e47674]: Commencement: Rule 3 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-8ba9dcbe499cec7bd9fbc45ea3e47674]: Commencement: Rule 3 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
 [^f00005]: Footnote: [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160)
 
-[^key-58ac14ffd31593b4a53757bad4302bfc]: Commencement: Rule 4 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-58ac14ffd31593b4a53757bad4302bfc]: Commencement: Rule 4 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-41291be230d6ce5585c4eaaf44be3063]: Commencement: Rule 5 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-41291be230d6ce5585c4eaaf44be3063]: Commencement: Rule 5 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-410254dc40cc9a14cdedb2f9b489ebdc]: Commencement: Rule 6 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-410254dc40cc9a14cdedb2f9b489ebdc]: Commencement: Rule 6 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-a6caaef3028fd6546b03d163c4d50457]: Commencement: Rule 7 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-a6caaef3028fd6546b03d163c4d50457]: Commencement: Rule 7 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-c90fce27a78569891c82e0952d9c1d6e]: Commencement: Rule 8 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-c90fce27a78569891c82e0952d9c1d6e]: Commencement: Rule 8 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-b4bad8cb575290f477f19702ad60de3e]: Commencement: Rule 9 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-b4bad8cb575290f477f19702ad60de3e]: Commencement: Rule 9 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-3c3cb50362623f213eb3bbac07131707]: Commencement: Rule 10 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-3c3cb50362623f213eb3bbac07131707]: Commencement: Rule 10 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-d2d49532543eb4b367513ed092908d82]: Commencement: Rule 11 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-d2d49532543eb4b367513ed092908d82]: Commencement: Rule 11 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-c82d43d50d7899d56e5c180aae8f84e9]: Commencement: Rule 12 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-c82d43d50d7899d56e5c180aae8f84e9]: Commencement: Rule 12 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-d247fba7accab3f76102d742dd7cdf93]: Commencement: Rule 13 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-d247fba7accab3f76102d742dd7cdf93]: Commencement: Rule 13 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-c3a2886b6857bb706b21d4cb134287e9]: Commencement: Rule 14 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-c3a2886b6857bb706b21d4cb134287e9]: Commencement: Rule 14 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-1917c45c67723a0002034d854c475604]: Commencement: Rule 15 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-1917c45c67723a0002034d854c475604]: Commencement: Rule 15 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
 [^f00006]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); to which the most recent relevant amendments were made by [S.I. 1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757) and [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 
-[^key-85920f210df8d532c9acd3e97d9e13f3]: Commencement: Rule 16 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-85920f210df8d532c9acd3e97d9e13f3]: Commencement: Rule 16 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-10fc661243b256f658cd6982f3638577]: Commencement: Rule 17 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-10fc661243b256f658cd6982f3638577]: Commencement: Rule 17 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-03eb879e306ebe6e18ff62bcffaa8fc4]: Commencement: Rule 18 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-03eb879e306ebe6e18ff62bcffaa8fc4]: Commencement: Rule 18 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-70a4653abc5614891b8a4872031c13a7]: Commencement: Rule 19 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-70a4653abc5614891b8a4872031c13a7]: Commencement: Rule 19 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-f1296ff7ed46c6d77c5ccb1a4bcde401]: Commencement: Rule 20 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-f1296ff7ed46c6d77c5ccb1a4bcde401]: Commencement: Rule 20 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-17f850610aa8c122ef9e4fe0482b1dd3]: Commencement: Rule 21 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-17f850610aa8c122ef9e4fe0482b1dd3]: Commencement: Rule 21 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-29e190d5267e289fe2e876cbd2923a2b]: Commencement: Rule 22 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-29e190d5267e289fe2e876cbd2923a2b]: Commencement: Rule 22 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-9f5fecf38323b2415380fca3697eac9c]: Commencement: Sch. 1 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-9f5fecf38323b2415380fca3697eac9c]: Commencement: Sch. 1 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
 
-[^key-6869969127ec4b987b444d09d6f3aecc]: Commencement: Sch. 2 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)
+[^c-6869969127ec4b987b444d09d6f3aecc]: Commencement: Sch. 2 in operation at 31.1.1999, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1999/7/rule/1/1)

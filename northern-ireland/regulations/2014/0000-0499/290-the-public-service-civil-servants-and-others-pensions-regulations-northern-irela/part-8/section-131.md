@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Amount payable on death of deferred member or pensioner member (death out of service)[^key-f9a231349eb37b7a1addab2fa4d70044]
+## 131. Amount payable on death of deferred member or pensioner member (death out of service)[^c-f9a231349eb37b7a1addab2fa4d70044]
 
 *Extent: N.I.*
 
 (1) This regulation applies in relation to a continuous period of pensionable service under this scheme (“period of service”).
 
-(2)[^key-b86cee943792d8249f70deeb2e2af489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b86cee943792d8249f70deeb2e2af489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of this regulation, a person dies out of service if the person—
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) the annual rate of each description of full retirement pension calculated as if the beginning date for that pension were—
   - (i) if P died while a deferred member of the scheme, the date of P’s death; or
   - (ii) if P died while a pensioner member of the scheme, the day P’s pension was deemed to begin for the purposes of section 8(2) (meaning of “pension” and other supplementary provisions) of the 1971 Act[^f00068]; and
-- (b) the amount of any increase in the annual rate of that pension under the 1971 Act payable as at the[^key-ad3f94e838997e5fc14481dfe09bfab3] date of P’s death.
+- (b) the amount of any increase in the annual rate of that pension under the 1971 Act payable as at the[^c-ad3f94e838997e5fc14481dfe09bfab3] date of P’s death.
 
 (6) The calculation in paragraph (5)(a) is carried out without subtracting any early payment reduction.
 
@@ -47,12 +47,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f9a231349eb37b7a1addab2fa4d70044]: Commencement: [Reg. 131](https://www.legislation.gov.uk/nisr/2014/290/regulation/131) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-f9a231349eb37b7a1addab2fa4d70044]: Commencement: [Reg. 131](https://www.legislation.gov.uk/nisr/2014/290/regulation/131) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-b86cee943792d8249f70deeb2e2af489]: Textual amendment: [Reg. 131(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/131/2) omitted (with effect in accordance with of the amending Rule) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [40(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/40/a)
+[^c-b86cee943792d8249f70deeb2e2af489]: Textual amendment: [Reg. 131(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/131/2) omitted (with effect in accordance with of the amending Rule) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [40(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/40/a)
 
 [^f00067]: Footnote: Note: if P is a partial retiree, a lump sum death benefit is payable only under regulation 130 (death in service)
 
 [^f00068]: Footnote: Section 8(2) was amended by the Pensions (Miscellaneous Provisions) (Northern Ireland) Order 1990 ([S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509)) Art.3(5) and the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (1999 N.I. 11)](https://www.legislation.gov.uk/nisi/1999/1220) Art.36(1) and (3)(b). Section 8(2) of the Pensions (Increase) Act (Northern Ireland) 1971 may be applied subject to modifications, adaptations and exceptions as may be specified in regulations under section 5(3) of that Act
 
-[^key-ad3f94e838997e5fc14481dfe09bfab3]: Textual amendment: Words in [reg. 131(5)(b)](https://www.legislation.gov.uk/nisr/2014/290/regulation/131/5/b) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [40(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/40/b)
+[^c-ad3f94e838997e5fc14481dfe09bfab3]: Textual amendment: Words in [reg. 131(5)(b)](https://www.legislation.gov.uk/nisr/2014/290/regulation/131/5/b) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [40(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/40/b)

@@ -25,7 +25,7 @@ summary: ''
 - (a) the investor receives any value (other than an amount of insignificant value) from the CDFI during the 6 year period,
 - (b) the investment or a part of it is held by the investor at the time the value is received and has been held by the investor, as sole beneficial owner, continuously since the investment was made (“the continuing investment”),
 - (c) the receipt is wholly or partly in excess of the permitted level of receipts in respect of the continuing investment, and
-- (d) the amount of that excess [^key-a7e3bc3bdf3786800e2e6d99d9e75140]... is not an amount of insignificant value.
+- (d) the amount of that excess [^c-a7e3bc3bdf3786800e2e6d99d9e75140]... is not an amount of insignificant value.
 
 (2) Any CITR attributable to the continuing investment in respect of any tax year must be withdrawn.
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7e3bc3bdf3786800e2e6d99d9e75140]: Textual amendment: Words in s. 364(1)(d) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 516](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/516), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a7e3bc3bdf3786800e2e6d99d9e75140]: Textual amendment: Words in s. 364(1)(d) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 516](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/516), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

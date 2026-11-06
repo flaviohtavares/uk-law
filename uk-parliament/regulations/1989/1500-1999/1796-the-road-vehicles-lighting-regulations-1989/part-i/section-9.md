@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Exemptions—Vehicles drawn or propelled by hand[^key-0a38a9b99eaea994def08cd43668b2c0]
+## 9. Exemptions—Vehicles drawn or propelled by hand[^c-0a38a9b99eaea994def08cd43668b2c0]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A vehicle drawn or propelled by hand which has an overall width, including any l
 
 ## Annotations
 
-[^key-0a38a9b99eaea994def08cd43668b2c0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/1796/regulation/9) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-0a38a9b99eaea994def08cd43668b2c0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/1796/regulation/9) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

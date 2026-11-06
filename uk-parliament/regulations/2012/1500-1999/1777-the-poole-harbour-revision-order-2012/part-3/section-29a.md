@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29A. Charges other than ship, passenger and goods dues[^key-7c6b4e12d05eb15bd39f6a4efce57b7a]
+## 29A. Charges other than ship, passenger and goods dues[^c-7c6b4e12d05eb15bd39f6a4efce57b7a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c6b4e12d05eb15bd39f6a4efce57b7a]: Textual amendment: [Art. 29A](https://www.legislation.gov.uk/uksi/2012/1777/article/29A) inserted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(4)](https://www.legislation.gov.uk/uksi/2026/724/article/39/4) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-7c6b4e12d05eb15bd39f6a4efce57b7a]: Textual amendment: [Art. 29A](https://www.legislation.gov.uk/uksi/2012/1777/article/29A) inserted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(4)](https://www.legislation.gov.uk/uksi/2026/724/article/39/4) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Appeal against fixing of remuneration[^key-765959d323c1e47895bffaa639ff7e0e]
+## 130. Appeal against fixing of remuneration[^c-765959d323c1e47895bffaa639ff7e0e]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ is insufficient, the administrator may apply to the court for an order increasin
 
 ## Annotations
 
-[^key-765959d323c1e47895bffaa639ff7e0e]: Commencement: Rule 130 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-765959d323c1e47895bffaa639ff7e0e]: Commencement: Rule 130 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

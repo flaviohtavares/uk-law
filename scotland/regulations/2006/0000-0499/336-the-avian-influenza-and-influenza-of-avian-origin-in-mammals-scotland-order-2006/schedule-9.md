@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 9 — Additional measures on premises where influenza virus of avian origin is confirmed[^key-29610b2d03caf2294b91cdc0ab154c0e]
+## Schedule 9 — Additional measures on premises where influenza virus of avian origin is confirmed[^c-29610b2d03caf2294b91cdc0ab154c0e]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ A person must not restock the premises on which mammals have been killed under t
 
 ## Annotations
 
-[^key-29610b2d03caf2294b91cdc0ab154c0e]: Textual amendment: [Schs. 8](https://www.legislation.gov.uk/ssi/2006/336/schedule/8), [9](https://www.legislation.gov.uk/ssi/2006/336/schedule/9) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(12)](https://www.legislation.gov.uk/ssi/2025/108/article/2/12)
+[^c-29610b2d03caf2294b91cdc0ab154c0e]: Textual amendment: [Schs. 8](https://www.legislation.gov.uk/ssi/2006/336/schedule/8), [9](https://www.legislation.gov.uk/ssi/2006/336/schedule/9) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(12)](https://www.legislation.gov.uk/ssi/2025/108/article/2/12)

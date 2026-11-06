@@ -41,7 +41,7 @@ Coming into force
 
 The Secretary of State for Social Security, in exercise of the powers conferred by sections 168(1) and (4), 175(1) to (5), (7) and (9), 181(1) and 182(2) and (3) of the Pension Schemes Act 1993[^c1676690] and sections 89(2), 124(1), 125(3) and 174(2) and (3) of the Pensions Act 1995[^c1676691], and of all other powers enabling him in that behalf, after consulting such persons as he considers appropriate about proposals to make regulation 11 of these Regulations[^c1676692] and after agreement by the Occupational Pensions Board that proposals to make regulation 13 of these Regulations should not be referred to them[^c1676693], by this instrument, which otherwise contains regulations which are consequential upon section 165 of the Pensions Act 1995 and which are made before the end of the period of six months beginning with the coming into force of the enactments under which they are made[^c1676694], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0a5c1b8299baab97db7f3e465f6e37bd]
+## 1. Citation, commencement and interpretation[^c-0a5c1b8299baab97db7f3e465f6e37bd]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Levy) Regulations 1997 and shall come into force on 1st April 1997.
 
@@ -72,14 +72,14 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 - (a) in relation to an occupational pension scheme, any person who—
   - (i) is in pensionable service under the scheme;
-  - (ii) has rights under the scheme by virtue of his pensionable service under the scheme; [^key-233f4af1f690c96e2261d19a40aec256]...
-  - (iii) has rights under the scheme by virtue of having been allowed transfer credits under the scheme; or[^key-fa5689927e86767a0d4a24bf6791db54]
+  - (ii) has rights under the scheme by virtue of his pensionable service under the scheme; [^c-233f4af1f690c96e2261d19a40aec256]...
+  - (iii) has rights under the scheme by virtue of having been allowed transfer credits under the scheme; or[^c-fa5689927e86767a0d4a24bf6791db54]
   - (iv) has pension credit rights under the scheme;
 - (b) in relation to a personal pension scheme, a member of the scheme, including a member who has pension credit rights under the scheme.
 
 other than a member in respect of whom entitlement under the scheme is only for benefits payable on his death;
 
-“pension credit rights” has the meaning given by section 101B of the 1993 Act;[^key-3f75a0bfaaad509122fa36bbc75ad055]
+“pension credit rights” has the meaning given by section 101B of the 1993 Act;[^c-3f75a0bfaaad509122fa36bbc75ad055]
 
 “registrable scheme" means an occupational or a personal pension scheme—
 
@@ -121,7 +121,7 @@ other than a member in respect of whom entitlement under the scheme is only for 
 
 “unallocated assets" means any assets of a scheme which have not been specifically allocated for the provision of benefits to or in respect of members (whether generally or individually).
 
-(3)[^key-ebae414beb1df90eb381912bb3445fa5] These Regulations do not apply to any scheme which is a Republic of Ireland scheme within the meaning of the Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000.
+(3)[^c-ebae414beb1df90eb381912bb3445fa5] These Regulations do not apply to any scheme which is a Republic of Ireland scheme within the meaning of the Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000.
 
 ## 2. The general levy
 
@@ -163,7 +163,7 @@ the general levy shall nevertheless be payable in full for that year.
 
 (3)[^M_F_94506cf1-92fc-4feb-c995-e2a8a9334e3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The compensation levy[^key-857a82c02572c5ed33f35cacb9f5a7c5]
+## 5. The compensation levy[^c-857a82c02572c5ed33f35cacb9f5a7c5]
 
 (1)[^M_F_f2dee241-3738-4b7b-87f0-77d79bd97412] Subject to paragraph (1A), for the purpose of meeting the expenditure of the Compensation Board, the trustees of every registrable occupational pension scheme established by trust, except a scheme to which regulation 3(2)(b) above applies, shall, in respect of each registration year, be liable to pay a levy to the Compensation Board.
 
@@ -187,7 +187,7 @@ the general levy shall nevertheless be payable in full for that year.
 
 the compensation levy shall nevertheless be payable in full for that year.
 
-## 6. Amount of the compensation levy[^key-857a82c02572c5ed33f35cacb9f5a7c5]
+## 6. Amount of the compensation levy[^c-857a82c02572c5ed33f35cacb9f5a7c5]
 
 (1) The amount of the compensation levy payable in respect of each registration year shall be determined by reference to the total membership of a scheme.
 
@@ -195,13 +195,13 @@ the compensation levy shall nevertheless be payable in full for that year.
 
 (3) The Compensation Board shall secure that arrangements are made and implemented for giving notice in writing to the trustees of schemes to which regulation 5(1) applies of the amount of the compensation levy payable per member and that reasonable steps are taken to ascertain the address to which such notice should be sent.
 
-## 7. Payment of the compensation levy[^key-857a82c02572c5ed33f35cacb9f5a7c5]
+## 7. Payment of the compensation levy[^c-857a82c02572c5ed33f35cacb9f5a7c5]
 
 (1) The compensation levy shall[^M_F_4010db07-6174-4df7-8108-4c85eabedcc3]... be payable in advance at the beginning of each registration year and no additional levy or refund shall be payable in respect of any change taking place during that year.
 
 (2)[^M_F_5b6dc556-58cf-42f1-facf-879f174d001f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Waiver of the general levy and the compensation levy[^key-857a82c02572c5ed33f35cacb9f5a7c5]
+## 8. Waiver of the general levy and the compensation levy[^c-857a82c02572c5ed33f35cacb9f5a7c5]
 
 (1) In the case of schemes to which regulations 2(1) and 5(1) apply, payment of the general levy or the compensation levy shall be waived where the trustees confirm in writing to the Registrar that—
 
@@ -395,17 +395,17 @@ An assessment of the compliance cost to business of the measures arising from th
 
 [^c1676694]: Marginal citation: *See* section 185(6) of the Pension Schemes Act 1993 and section 173(5)(a) of the Social Security Administration Act 1992. The requirement in section 185(1) of the Pension Schemes Act 1993 for the Secretary of State to refer proposals to make regulations under section 175 of that Act to the Occupational Pensions Board does not apply to any regulations contained in this instrument which are consequential upon the enactment of section 165 of the Pensions Act 1995 (which substituted the provisions under which those regulations are made).
 
-[^key-0a5c1b8299baab97db7f3e465f6e37bd]: Modification: Reg. 1 applied in part (1.10.2000) by [The Stakeholder Pension Schemes Regulations 2000 (S.I. 2000/1403)](https://www.legislation.gov.uk/uksi/2000/1403) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/2) , [32](https://www.legislation.gov.uk/uksi/2000/1403/regulation/32) , [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2)
+[^c-0a5c1b8299baab97db7f3e465f6e37bd]: Modification: Reg. 1 applied in part (1.10.2000) by [The Stakeholder Pension Schemes Regulations 2000 (S.I. 2000/1403)](https://www.legislation.gov.uk/uksi/2000/1403) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/2) , [32](https://www.legislation.gov.uk/uksi/2000/1403/regulation/32) , [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2)
 
 [^c1676695]: Marginal citation: [S.I. 1995/524](https://www.legislation.gov.uk/uksi/1995/524) .
 
 [^c1676696]: Marginal citation: The Pensions Compensation Board is established under section 78(1) of the Pensions Act 1995.
 
-[^key-233f4af1f690c96e2261d19a40aec256]: Textual amendment: Word in reg. 1(2) deleted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1) , [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/7/2/a/i)
+[^c-233f4af1f690c96e2261d19a40aec256]: Textual amendment: Word in reg. 1(2) deleted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1) , [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/7/2/a/i)
 
-[^key-fa5689927e86767a0d4a24bf6791db54]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1) , [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/7/2/a/ii)
+[^c-fa5689927e86767a0d4a24bf6791db54]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1) , [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/7/2/a/ii)
 
-[^key-3f75a0bfaaad509122fa36bbc75ad055]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1) , [7(2)(b)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/7/2/b)
+[^c-3f75a0bfaaad509122fa36bbc75ad055]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1) , [7(2)(b)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/7/2/b)
 
 [^c1676697]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1) .
 
@@ -415,7 +415,7 @@ An assessment of the compliance cost to business of the measures arising from th
 
 [^M_F_352da13a-d72a-4105-dfe7-6d86575118f5]: Textual amendment: Defn. of “total membership” substituted by reg. 2(2)(b) of S.I. 1998/600 as from 1.4.98.
 
-[^key-ebae414beb1df90eb381912bb3445fa5]: Textual amendment: Reg. 1(3) inserted (31.12.2000) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000 (S.I. 2000/3198)](https://www.legislation.gov.uk/uksi/2000/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/3198/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2000/3198/regulation/12)
+[^c-ebae414beb1df90eb381912bb3445fa5]: Textual amendment: Reg. 1(3) inserted (31.12.2000) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000 (S.I. 2000/3198)](https://www.legislation.gov.uk/uksi/2000/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/3198/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2000/3198/regulation/12)
 
 [^M_F_6a5c3b93-6b48-4877-d96d-cc9db55fa6c1]: Textual amendment: Words inserted into reg. 2(1) by reg. 2(3)(a) of S.I. 1998/600 as from 1.4.98
 
@@ -443,7 +443,7 @@ An assessment of the compliance cost to business of the measures arising from th
 
 [^M_F_94506cf1-92fc-4feb-c995-e2a8a9334e3b]: Textual amendment: Reg. 4(3) omitted by reg. 2(5)(b) of S.I. 1998/600 as from 1.4.98.
 
-[^key-857a82c02572c5ed33f35cacb9f5a7c5]: Modification: Regs. 5-8 applied (1.10.2000) by [The Stakeholder Pension Schemes Regulations 2000 (S.I. 2000/1403)](https://www.legislation.gov.uk/uksi/2000/1403), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2000/1403/regulation/32), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2)
+[^c-857a82c02572c5ed33f35cacb9f5a7c5]: Modification: Regs. 5-8 applied (1.10.2000) by [The Stakeholder Pension Schemes Regulations 2000 (S.I. 2000/1403)](https://www.legislation.gov.uk/uksi/2000/1403), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2000/1403/regulation/32), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2)
 
 [^M_F_f2dee241-3738-4b7b-87f0-77d79bd97412]: Textual amendment: Reg. 5(1) substituted for reg. 5(1)-(1A) by reg. 2(6)(a) of S.I. 1998/600 as from 1.4.98.
 

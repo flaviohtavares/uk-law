@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Power to abolish the Commissioner[^c22567851][^key-2bfb7036f2c099f984766b118d9cd43c]
+## 11. Power to abolish the Commissioner[^c22567851][^c-2bfb7036f2c099f984766b118d9cd43c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c22567851]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/12/section/11) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
 
-[^key-2bfb7036f2c099f984766b118d9cd43c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/12/section/11) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+[^c-2bfb7036f2c099f984766b118d9cd43c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/12/section/11) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

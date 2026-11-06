@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Returns or reports of meetings[^key-822da4450764a79e79c6b70d524eb370]
+## 68. Returns or reports of meetings[^c-822da4450764a79e79c6b70d524eb370]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 274, the notification of a retur
 
 ## Annotations
 
-[^key-822da4450764a79e79c6b70d524eb370]: Commencement: Rule 68 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-822da4450764a79e79c6b70d524eb370]: Commencement: Rule 68 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

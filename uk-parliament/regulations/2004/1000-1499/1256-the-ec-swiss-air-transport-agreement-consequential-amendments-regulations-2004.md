@@ -54,21 +54,21 @@ These Regulations may be cited as the EC/Swiss Air Transport Agreement (Conseque
 In the Civil Aviation Act 1982 [^c5237591] there shall be inserted—
 
 - (a) in section 69A(5)(a), after the words “EEA State”, the words “ or Switzerland ”; and
-- (b)[^key-782070d464feedf888cafcc944388bf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-782070d464feedf888cafcc944388bf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-9b783664b10c4a1a980dd2ec169dd1b7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4.[^key-d6c5b778ac70646593905e1c5e0bee33]
+## 3.[^c-9b783664b10c4a1a980dd2ec169dd1b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-21548f83a2b79117a4c721535eea0be2]
+## 4.[^c-d6c5b778ac70646593905e1c5e0bee33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-3d1426a7d1b43fb93dc99862d616b54d][^key-e63abc62ab4d4eb87f2be39189e8f458]
+## 5.[^c-21548f83a2b79117a4c721535eea0be2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6.[^c-3d1426a7d1b43fb93dc99862d616b54d][^c-e63abc62ab4d4eb87f2be39189e8f458]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,7 +92,7 @@ In the Aeroplane Noise Regulations 1999 [^c5237671] there shall be inserted—
 - (f) in regulation 19(1) after the words “competent authority of” the words “ Switzerland or of ”;
 - (g) in regulation 19(2) after the words “granted by” the words “ Switzerland or ”.
 
-## 10.[^key-d6de5f7fa22ae9c25ce63fc9341c7f08]
+## 10.[^c-d6de5f7fa22ae9c25ce63fc9341c7f08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -138,17 +138,17 @@ Articles 27(2) and 113(1) of the Air Navigation Order 2000 have been amended to 
 
 [^c5237591]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16). Section 69A was added by regulation 21 of the [Licensing of Air Carriers Regulations 1992 (S.I. 1992/2992)](https://www.legislation.gov.uk/uksi/1992/2992).
 
-[^key-782070d464feedf888cafcc944388bf9]: Textual amendment: Reg. 2(b) revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
+[^c-782070d464feedf888cafcc944388bf9]: Textual amendment: Reg. 2(b) revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
 
-[^key-9b783664b10c4a1a980dd2ec169dd1b7]: Textual amendment: Reg. 3 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
+[^c-9b783664b10c4a1a980dd2ec169dd1b7]: Textual amendment: Reg. 3 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
 
-[^key-d6c5b778ac70646593905e1c5e0bee33]: Textual amendment: Reg. 4 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
+[^c-d6c5b778ac70646593905e1c5e0bee33]: Textual amendment: Reg. 4 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
 
-[^key-21548f83a2b79117a4c721535eea0be2]: Textual amendment: Reg. 5 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
+[^c-21548f83a2b79117a4c721535eea0be2]: Textual amendment: Reg. 5 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
 
-[^key-3d1426a7d1b43fb93dc99862d616b54d]: Textual amendment: Reg. 6 revoked (1.1.2007) by [The Airports Slot Allocation Regulations 2006 (S.I. 2006/2665)](https://www.legislation.gov.uk/uksi/2006/2665), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1), [22](https://www.legislation.gov.uk/uksi/2006/2665/regulation/22)
+[^c-3d1426a7d1b43fb93dc99862d616b54d]: Textual amendment: Reg. 6 revoked (1.1.2007) by [The Airports Slot Allocation Regulations 2006 (S.I. 2006/2665)](https://www.legislation.gov.uk/uksi/2006/2665), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1), [22](https://www.legislation.gov.uk/uksi/2006/2665/regulation/22)
 
-[^key-e63abc62ab4d4eb87f2be39189e8f458]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1256/regulation/6) further revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule)
+[^c-e63abc62ab4d4eb87f2be39189e8f458]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1256/regulation/6) further revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule)
 
 [^c5237651]: Marginal citation: [S.I. 1996/2798](https://www.legislation.gov.uk/uksi/1996/2798).
 
@@ -156,4 +156,4 @@ Articles 27(2) and 113(1) of the Air Navigation Order 2000 have been amended to 
 
 [^c5237671]: Marginal citation: [S.I. 1999/1452](https://www.legislation.gov.uk/uksi/1999/1452), amended by [S.I. 1999/2253](https://www.legislation.gov.uk/uksi/1999/2253).
 
-[^key-d6de5f7fa22ae9c25ce63fc9341c7f08]: Textual amendment: Reg. 10 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)
+[^c-d6de5f7fa22ae9c25ce63fc9341c7f08]: Textual amendment: Reg. 10 revoked (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/1)

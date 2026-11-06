@@ -35,12 +35,12 @@ on the position to be taken by the European Union, within the EU-Switzerland Joi
 
 (2011/409/EU) (revoked)
 
-[^key-f2b450726cf31c36053d2157aaf4db3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2b450726cf31c36053d2157aaf4db3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Sole Article.**[^key-f2b450726cf31c36053d2157aaf4db3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-f2b450726cf31c36053d2157aaf4db3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2b450726cf31c36053d2157aaf4db3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2b450726cf31c36053d2157aaf4db3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2b450726cf31c36053d2157aaf4db3b]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2b450726cf31c36053d2157aaf4db3b]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

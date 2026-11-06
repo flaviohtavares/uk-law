@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Requirements, appeals, etc.[^key-e31a7bbf05ab8ae13c459fd465de5153]
+## 40. Requirements, appeals, etc.[^c-e31a7bbf05ab8ae13c459fd465de5153]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e31a7bbf05ab8ae13c459fd465de5153]: Commencement: Art. 40 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-e31a7bbf05ab8ae13c459fd465de5153]: Commencement: Art. 40 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

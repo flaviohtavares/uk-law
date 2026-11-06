@@ -43,7 +43,7 @@ is the minor authority in relation to the school.
 
 (6) In subsection (5) “**the relevant authorities**” means the bodies which, if the two or more constituent areas referred to in subsection (1)(c) were taken separately, would be minor authorities in relation to the school.
 
-(7) References in this section to the area served by a school are references to the area appearing to the local authority[^key-5177265949adaa73e26402711f36dc2e] to be served by the school.
+(7) References in this section to the area served by a school are references to the area appearing to the local authority[^c-5177265949adaa73e26402711f36dc2e] to be served by the school.
 
 ## Annotations
 
@@ -65,4 +65,4 @@ is the minor authority in relation to the school.
 
     S. 141 modified (1.9.1999) by [S.I. 1999/2262](https://www.legislation.gov.uk/uksi/1999/2262), [reg. 32(2)](https://www.legislation.gov.uk/uksi/1999/2262/regulation/32/2).
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))

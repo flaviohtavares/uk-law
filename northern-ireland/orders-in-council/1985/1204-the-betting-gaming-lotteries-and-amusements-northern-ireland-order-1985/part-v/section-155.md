@@ -22,7 +22,7 @@ summary: ''
 
 (1) The person to whom a pleasure permit is granted shall be the person who is, or who proposes to be, the occupier of the premises for which the pleasure permit is sought.
 
-(2) A pleasure permit may be granted to an individual, to a body corporate[^key-2b159beac76671a4534cce6af78e899d] or to 2 or more persons carrying on business in partnership.
+(2) A pleasure permit may be granted to an individual, to a body corporate[^c-2b159beac76671a4534cce6af78e899d] or to 2 or more persons carrying on business in partnership.
 
 (3) In considering the fitness of a person to hold a pleasure permit, a district council shall have regard to the character, reputation and financial standing—
 
@@ -35,4 +35,4 @@ but may also take into consideration any other circumstances appearing to it to 
 
 ## Annotations
 
-[^key-2b159beac76671a4534cce6af78e899d]: Textual amendment: Words in [art. 155(2)](https://www.legislation.gov.uk/nisi/1985/1204/article/155/2) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(5)](https://www.legislation.gov.uk/nia/2022/14/section/11/5), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-2b159beac76671a4534cce6af78e899d]: Textual amendment: Words in [art. 155(2)](https://www.legislation.gov.uk/nisi/1985/1204/article/155/2) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(5)](https://www.legislation.gov.uk/nia/2022/14/section/11/5), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

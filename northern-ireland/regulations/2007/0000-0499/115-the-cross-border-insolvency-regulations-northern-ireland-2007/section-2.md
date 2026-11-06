@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-843f2a8959dfe0de149dcd256a8fbd83]
+## 2. Interpretation[^c-843f2a8959dfe0de149dcd256a8fbd83]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In these Regulations “the UNCITRAL Model Law” means the Model Law on cross-b
 
 ## Annotations
 
-[^key-843f2a8959dfe0de149dcd256a8fbd83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/115/regulation/2) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-843f2a8959dfe0de149dcd256a8fbd83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/115/regulation/2) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)

@@ -31,7 +31,7 @@ summary: ''
 - (a) the maximum number of lotteries that may be promoted on behalf of the same society in any year; and
 - (b) the minimum number of days that must elapse between the dates of any two lotteries promoted on behalf of the same society.
 
-(5) No ticket or chance in a lottery shall be sold at a price exceeding £100[^key-2ecfc38dc4d465343766110c1270410c].
+(5) No ticket or chance in a lottery shall be sold at a price exceeding £100[^c-2ecfc38dc4d465343766110c1270410c].
 
 (6) The price of every ticket or chance shall be the same, and the price of any ticket distributed or sold shall be stated on the ticket.
 
@@ -52,9 +52,9 @@ summary: ''
 (14) The amount of the proceeds of a lottery appropriated on account of expenses (exclusive of prizes) shall not exceed whichever is the less of—
 
 - (a) the expenses actually incurred; or
-- (b)[^key-258de1ee4fb7f14cfa55aff35772fbb4] 20 per cent. of the whole proceeds of the lottery.
+- (b)[^c-258de1ee4fb7f14cfa55aff35772fbb4] 20 per cent. of the whole proceeds of the lottery.
 
-(15)[^key-6da3bb3e16edf210405a751897dba3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-6da3bb3e16edf210405a751897dba3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15A) For the purposes of paragraph (14), the amount of any expenses that are met—
 
@@ -86,8 +86,8 @@ shall be treated as having been appropriated on account of expenses from the pro
 
 [^c17003191]: Textual amendment: [1994 NI 8](https://www.legislation.gov.uk/1994/ni8)
 
-[^key-2ecfc38dc4d465343766110c1270410c]: Textual amendment: Sum in [art. 137(5)](https://www.legislation.gov.uk/nisi/1985/1204/article/137/5) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 10(a)](https://www.legislation.gov.uk/nia/2022/14/section/10/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-2ecfc38dc4d465343766110c1270410c]: Textual amendment: Sum in [art. 137(5)](https://www.legislation.gov.uk/nisi/1985/1204/article/137/5) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 10(a)](https://www.legislation.gov.uk/nia/2022/14/section/10/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-258de1ee4fb7f14cfa55aff35772fbb4]: Textual amendment: [Art. 137(14)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/137/14/b) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 10(b)](https://www.legislation.gov.uk/nia/2022/14/section/10/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-258de1ee4fb7f14cfa55aff35772fbb4]: Textual amendment: [Art. 137(14)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/137/14/b) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 10(b)](https://www.legislation.gov.uk/nia/2022/14/section/10/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-6da3bb3e16edf210405a751897dba3e6]: Textual amendment: [Art. 137(15)](https://www.legislation.gov.uk/nisi/1985/1204/article/137/15) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 10(c)](https://www.legislation.gov.uk/nia/2022/14/section/10/c), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-6da3bb3e16edf210405a751897dba3e6]: Textual amendment: [Art. 137(15)](https://www.legislation.gov.uk/nisi/1985/1204/article/137/15) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 10(c)](https://www.legislation.gov.uk/nia/2022/14/section/10/c), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

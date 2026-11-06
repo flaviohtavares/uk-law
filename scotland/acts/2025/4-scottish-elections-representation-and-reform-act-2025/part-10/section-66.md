@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Five-year plan: devolved Scottish elections and referendums[^key-2b983b4130142252cf79fef1e519043d][^key-d9d22ceb3d5dc8fd137942160393efc7]
+## 66. Five-year plan: devolved Scottish elections and referendums[^c-2b983b4130142252cf79fef1e519043d][^c-d9d22ceb3d5dc8fd137942160393efc7]
 
 *Extent: S*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b983b4130142252cf79fef1e519043d]: Commencement: S. 66 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-2b983b4130142252cf79fef1e519043d]: Commencement: S. 66 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-d9d22ceb3d5dc8fd137942160393efc7]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2025/4/section/66) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-d9d22ceb3d5dc8fd137942160393efc7]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2025/4/section/66) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

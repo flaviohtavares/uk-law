@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX VI — Information to be provided for opening an operator holding account (Article 16)[^key-7fab6f804de2951eb7d43a8a33673a6e]
+## ANNEX VI — Information to be provided for opening an operator holding account (Article 16)[^c-7fab6f804de2951eb7d43a8a33673a6e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]1.
+[^c-7fab6f804de2951eb7d43a8a33673a6e]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]2.
+[^c-7fab6f804de2951eb7d43a8a33673a6e]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]3.
+[^c-7fab6f804de2951eb7d43a8a33673a6e]3.
 
 The information set out in Table VI-I and VI-II of this Annex.
 
@@ -38,4 +38,4 @@ The information set out in Table VI-I and VI-II of this Annex.
 
 ## Annotations
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]: Textual amendment: Annexes 5-7 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/5)
+[^c-7fab6f804de2951eb7d43a8a33673a6e]: Textual amendment: Annexes 5-7 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Reduced fee for dog licences[^key-8617025c5fd2a7bbacd28c39785e76cf]
+## 133. Reduced fee for dog licences[^c-8617025c5fd2a7bbacd28c39785e76cf]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8617025c5fd2a7bbacd28c39785e76cf]: Commencement: [Art. 133](https://www.legislation.gov.uk/nisi/2015/2006/article/133) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/d)
+[^c-8617025c5fd2a7bbacd28c39785e76cf]: Commencement: [Art. 133](https://www.legislation.gov.uk/nisi/2015/2006/article/133) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/d)

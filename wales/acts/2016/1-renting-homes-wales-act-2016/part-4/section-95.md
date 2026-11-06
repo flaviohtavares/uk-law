@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Limits on sections 91 and 92: general[^key-4e0648ccee522d5561100b716a076801][^key-aa43c29737fbb49577a55eefbb49600a]
+## 95. Limits on sections 91 and 92: general[^c-4e0648ccee522d5561100b716a076801][^c-aa43c29737fbb49577a55eefbb49600a]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e0648ccee522d5561100b716a076801]: Commencement: [S. 95](https://www.legislation.gov.uk/anaw/2016/1/section/95) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4e0648ccee522d5561100b716a076801]: Commencement: [S. 95](https://www.legislation.gov.uk/anaw/2016/1/section/95) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-aa43c29737fbb49577a55eefbb49600a]: Modification: [Ss. 95-97](https://www.legislation.gov.uk/anaw/2016/1/section/95) applied (with modifications) (1.12.2022) by 2002 c. 15, Sch. 7 para. 3A(5) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/27/2/b))
+[^c-aa43c29737fbb49577a55eefbb49600a]: Modification: [Ss. 95-97](https://www.legislation.gov.uk/anaw/2016/1/section/95) applied (with modifications) (1.12.2022) by 2002 c. 15, Sch. 7 para. 3A(5) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/27/2/b))

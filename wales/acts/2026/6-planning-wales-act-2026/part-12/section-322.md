@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 322. Statutory undertakers’ power to exclude section 321[^key-c0b8b7be4d3b5511fb22bf9f9e640b98]
+## 322. Statutory undertakers’ power to exclude section 321[^c-c0b8b7be4d3b5511fb22bf9f9e640b98]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0b8b7be4d3b5511fb22bf9f9e640b98]: Commencement: S. 322 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c0b8b7be4d3b5511fb22bf9f9e640b98]: Commencement: S. 322 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

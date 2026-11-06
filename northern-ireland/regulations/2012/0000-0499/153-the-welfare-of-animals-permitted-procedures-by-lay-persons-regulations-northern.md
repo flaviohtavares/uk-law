@@ -50,11 +50,11 @@ In accordance with section 5(6) of that Act, the Department of Agriculture and R
 
 In accordance with section 55(1) of that Act, a draft of this rule has been laid before the Northern Ireland Assembly and approved by a resolution of the Northern Ireland Assembly.
 
-## 1. Citation and commencement[^key-4f8e241a5658a17424d2ea302ba50452]
+## 1. Citation and commencement[^c-4f8e241a5658a17424d2ea302ba50452]
 
 These Regulations may be cited as the Welfare of Animals (Permitted Procedures by Lay Persons) Regulations (Northern Ireland) 2012 and shall come into operation on 2nd April 2012.
 
-## 2. Interpretation[^key-2860ec0e6e1558476cfab718566b18ed]
+## 2. Interpretation[^c-2860ec0e6e1558476cfab718566b18ed]
 
 (1) In these Regulations—
 
@@ -63,7 +63,7 @@ These Regulations may be cited as the Welfare of Animals (Permitted Procedures b
 - “conventionally reared meat chicken” means an animal of the species Gallus gallus that is kept for meat production, other than one—
   - (a) that is on a holding with fewer than 500 such animals or with only breeding stocks of such animals;
   - (b) in relation to which the term “Extensive indoor (barn reared)”, “Free range”, “Traditional free range” or “Free range – total freedom” can be used within the meaning of point (b), (c), (d) or (e) of Annex V to [Commission Regulation (EC) No. 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) laying down detailed rules for the application of Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat[^f00002];
-  - (c) that is organically reared in accordance with Council Regulation [(EC) No. 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products and repealing Regulation [(EEC) No. 2092/91 , as last amended by Council Regulation (EU) No 517/2013](https://www.legislation.gov.uk/european/regulation/1991/2092) [^key-37f6b13556e3becc02f05b6d1655d938][^f00003];
+  - (c) that is organically reared in accordance with Council Regulation [(EC) No. 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products and repealing Regulation [(EEC) No. 2092/91 , as last amended by Council Regulation (EU) No 517/2013](https://www.legislation.gov.uk/european/regulation/1991/2092) [^c-37f6b13556e3becc02f05b6d1655d938][^f00003];
 - “desnooding” means removal of a turkey’s snood;
 - “disbudding” means removal of the horn bud of cattle, goats or sheep;
 - “domestic fowl” means a domesticated member of the species Gallus gallus;
@@ -87,7 +87,7 @@ These Regulations may be cited as the Welfare of Animals (Permitted Procedures b
 - (e) registered medical practitioner or a registered dentist acting in accordance with section 19 of the Veterinary Surgeons Act 1966; and
 - (f) person entitled to carry out a procedure listed in Schedules 1 to 11 under the Veterinary Surgeons (Exemptions) Order 1962[^f00006].
 
-## 3. Requirements when carrying out a permitted procedure[^key-4df0f38939864d13e8c36f0009f38530]
+## 3. Requirements when carrying out a permitted procedure[^c-4df0f38939864d13e8c36f0009f38530]
 
 Section 5(1) and (2) of the Act does not apply to a procedure listed in Schedules 1 to 11 carried out by a lay person, providing it is carried out—
 
@@ -96,7 +96,7 @@ Section 5(1) and (2) of the Act does not apply to a procedure listed in Schedule
 - (c) in hygienic conditions; and
 - (d) in accordance with best practice.
 
-## 4. Performance of prohibited procedures in an emergency[^key-e7d6e447da37b2343ebb8bb678b07581]
+## 4. Performance of prohibited procedures in an emergency[^c-e7d6e447da37b2343ebb8bb678b07581]
 
 (1) Section 5(1) and (2) of the Act does not apply where a prohibited procedure is carried out in an emergency for the purpose of saving the life or relieving the pain of the protected animal.
 
@@ -104,11 +104,11 @@ Section 5(1) and (2) of the Act does not apply to a procedure listed in Schedule
 
 (3) A record shall be kept for 3 years detailing the circumstances and the reason for carrying out the emergency procedure.
 
-## 5. Sampling[^key-e4abe08481959f8667cce1c07559755b]
+## 5. Sampling[^c-e4abe08481959f8667cce1c07559755b]
 
 Subject to regulation 3(b) to (d), section 5(1) and (2) of the Act does not apply to any procedure undertaken by a lay person involving the removal of tissue, hair or feathers from a protected animal for the purposes of genetic analysis.
 
-## 6. Repeals[^key-004ef8fd203799e6f0c181cb2525b745]
+## 6. Repeals[^c-004ef8fd203799e6f0c181cb2525b745]
 
 The Welfare of Livestock (Prohibited Operations) Regulations (Northern Ireland) 1987[^f00007] is repealed.
 
@@ -124,7 +124,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to cattle
 
-#### 1. Identification procedures[^key-8b2188e786ebcaf70fd230d5cd047aeb]
+#### 1. Identification procedures[^c-8b2188e786ebcaf70fd230d5cd047aeb]
 
 (1) Ear notching;
 
@@ -138,7 +138,7 @@ Regulations 2 and 3(a)
 
 (6) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-9d1b9c38d415996aa5c814935e03e067]
+#### 2. Procedures for the control of reproduction[^c-9d1b9c38d415996aa5c814935e03e067]
 
 (1) Artificial insemination;
 
@@ -150,7 +150,7 @@ Regulations 2 and 3(a)
 
 (5) Ovum transplantation, including ovum collection by a non-surgical method.
 
-#### 3. Other management procedures[^key-0ee9aa10f7c2be5503d2328ca734a5cd]
+#### 3. Other management procedures[^c-0ee9aa10f7c2be5503d2328ca734a5cd]
 
 (1) Dehorning;
 
@@ -162,35 +162,35 @@ Regulations 2 and 3(a)
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-#### 4. Castration[^key-3fa1d2bf421eda4920bac396f5236286]
+#### 4. Castration[^c-3fa1d2bf421eda4920bac396f5236286]
 
 When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure shall only be carried out on an animal aged not more than 7 days or by any other means before the age of two months.
 
-#### 5. Embryo collection or transfer by a non-surgical method[^key-97215b856da77b004526bfe0e55bca21]
+#### 5. Embryo collection or transfer by a non-surgical method[^c-97215b856da77b004526bfe0e55bca21]
 
 An anaesthetic shall be administered.
 
-#### 6. Implantation of a subcutaneous contraceptive[^key-db333ea26840ba963c1ce35830c31fa2]
+#### 6. Implantation of a subcutaneous contraceptive[^c-db333ea26840ba963c1ce35830c31fa2]
 
 (1) The procedure may not be carried out on a farmed animal.
 
 (2) The procedure shall only be carried out as part of a conservation breeding programme.
 
-#### 7. Ovum transplantation, including ovum collection by a non-surgical method[^key-56f1382a26c53baff9393f21d846314e]
+#### 7. Ovum transplantation, including ovum collection by a non-surgical method[^c-56f1382a26c53baff9393f21d846314e]
 
 An anaesthetic shall be administered.
 
-#### 8. Dehorning[^key-b8bfcfe82cbc19c087be4de3cf5a63f8]
+#### 8. Dehorning[^c-b8bfcfe82cbc19c087be4de3cf5a63f8]
 
 An anaesthetic shall be administered.
 
-#### 9. Disbudding[^key-5e212f96165c4958c982d37d605b7261]
+#### 9. Disbudding[^c-5e212f96165c4958c982d37d605b7261]
 
 (1) When the method used is chemical cauterisation, the procedure shall only be carried out on an animal aged not more than 7 days.
 
 (2) When any other method is used, such as heated iron, an anaesthetic shall be administered.
 
-#### 10. Removal of supernumerary teats[^key-4cc7501ea3a82ab7bc0fb52c73495d18]
+#### 10. Removal of supernumerary teats[^c-4cc7501ea3a82ab7bc0fb52c73495d18]
 
 (1) The procedure shall only be carried out on an animal that is aged not more than 3 months.
 
@@ -202,7 +202,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to pigs
 
-#### 1. Identification procedures[^key-5432eb54fb87d659d438ca0e5a04649e]
+#### 1. Identification procedures[^c-5432eb54fb87d659d438ca0e5a04649e]
 
 (1) Ear tagging;
 
@@ -212,7 +212,7 @@ Regulations 2 and 3(a)
 
 (4) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-fa77af3661228d3d8de2796b6c0fa9b4]
+#### 2. Procedures for the control of reproduction[^c-fa77af3661228d3d8de2796b6c0fa9b4]
 
 (1) Artificial insemination;
 
@@ -220,7 +220,7 @@ Regulations 2 and 3(a)
 
 (3) Implantation of a subcutaneous contraceptive.
 
-#### 3. Other management procedures[^key-1b2106c0b11791ea58a9210d30feeaee]
+#### 3. Other management procedures[^c-1b2106c0b11791ea58a9210d30feeaee]
 
 (1) Nose ringing;
 
@@ -232,27 +232,27 @@ Regulations 2 and 3(a)
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-#### 4. Castration[^key-2bdaeae96e45ca21f75a42a064df6897]
+#### 4. Castration[^c-2bdaeae96e45ca21f75a42a064df6897]
 
 Castration of pigs aged not more than 7 days by a method not involving the tearing of tissues.
 
-#### 5. Implantation of a subcutaneous contraceptive[^key-ac59961a0df319f7f90aa136ccf3a394]
+#### 5. Implantation of a subcutaneous contraceptive[^c-ac59961a0df319f7f90aa136ccf3a394]
 
 (1) The procedure may not be carried out on a farmed animal;
 
 (2) The procedure shall only be carried out as part of a conservation breeding programme.
 
-#### 6. Nose ringing[^key-c25b11dc71bbad89692c2c097414d62b]
+#### 6. Nose ringing[^c-c25b11dc71bbad89692c2c097414d62b]
 
 The procedure shall only be carried out on an animal that is not kept continuously in an indoor husbandry system.
 
-#### 7. Tail docking[^key-55a2fe0c62d3cb8108d33da3a65b6dc7]
+#### 7. Tail docking[^c-55a2fe0c62d3cb8108d33da3a65b6dc7]
 
 (1) The procedure shall only be carried out where measures to improve environmental conditions or management systems have first been taken to prevent tail-biting, but there is still evidence to show that injury to pigs’ tails by biting has occurred.
 
 (2) Tail docking of pigs aged not more than 7 days may be carried out without an anaesthetic as long as there is quick and complete severance of the part of the tail to be removed.
 
-#### 8. Tooth reduction[^key-1135be3a37de94d8ca30e6deb8a12a13]
+#### 8. Tooth reduction[^c-1135be3a37de94d8ca30e6deb8a12a13]
 
 (1) The procedure shall only be carried out where measures to improve environmental conditions or management systems have first been taken to prevent tail-biting and other vices, but there is still evidence to show that injury to sows’ teats or to other pigs’ ears or tails by biting has occurred.
 
@@ -265,7 +265,7 @@ The procedure shall only be carried out on an animal that is not kept continuous
 
 so as to leave an intact smooth surface.
 
-#### 9. Tusk trimming[^key-59736fbd05272319138402cfe77a34d1]
+#### 9. Tusk trimming[^c-59736fbd05272319138402cfe77a34d1]
 
 (1) The procedure shall only be carried out where there is evidence to show that it is necessary to prevent injury to other animals or for safety reasons.
 
@@ -277,7 +277,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to sheep
 
-#### 1. Identification procedures[^key-ada96b3a42077e0c8e6a15389def3eb1]
+#### 1. Identification procedures[^c-ada96b3a42077e0c8e6a15389def3eb1]
 
 (1) Ear notching;
 
@@ -289,7 +289,7 @@ Regulations 2 and 3(a)
 
 (5) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-00155e8c98686e20921bdd4abfc74cfc]
+#### 2. Procedures for the control of reproduction[^c-00155e8c98686e20921bdd4abfc74cfc]
 
 (1) Artificial insemination;
 
@@ -299,31 +299,31 @@ Regulations 2 and 3(a)
 
 (4) Implantation of a subcutaneous hormone.
 
-#### 3. Other management procedures[^key-74933bd0462c830a8671ae3814a4a9ee]
+#### 3. Other management procedures[^c-74933bd0462c830a8671ae3814a4a9ee]
 
-(....)[^key-dae39c740d732cdb3abcaa72c709b6c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(....)[^c-dae39c740d732cdb3abcaa72c709b6c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1)[^key-589e7156478a4aba431d16270869077f] Tail docking.
+(1)[^c-589e7156478a4aba431d16270869077f] Tail docking.
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-#### 4. Castration[^key-a423c7dca0c27b18bb0d679cc01a8477]
+#### 4. Castration[^c-a423c7dca0c27b18bb0d679cc01a8477]
 
 (1) When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure shall only be carried out on an animal aged not more than 7 days.
 
 (2) When any other method is used it shall only be used up to the age of 3 months.
 
-#### 5. Implantation of a subcutaneous contraceptive[^key-3b0f5af6ece9ecd90b46287c6def8b1b]
+#### 5. Implantation of a subcutaneous contraceptive[^c-3b0f5af6ece9ecd90b46287c6def8b1b]
 
 (1) The procedure may not be carried out on a farmed animal.
 
 (2) The procedure shall only be carried out as part of a conservation breeding programme.
 
-#### 6. Implantation of a subcutaneous hormone[^key-b011cb71af14b6b95c3b52a203527fe1]
+#### 6. Implantation of a subcutaneous hormone[^c-b011cb71af14b6b95c3b52a203527fe1]
 
 This would apply to subcutaneous hormone (or other pharmaceutical product) for modulating seasonal reproductive activity in adult females.
 
-#### 7. Tail docking[^key-cffb4bddddca37ba995f66cba54b1134]
+#### 7. Tail docking[^c-cffb4bddddca37ba995f66cba54b1134]
 
 (1) In all cases, enough of the tail shall be retained to cover the vulva of a female animal or the anus of a male animal.
 
@@ -335,7 +335,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to goats
 
-#### 1. Identification procedures[^key-0572e489dc4fd243ce54c621eebb2357]
+#### 1. Identification procedures[^c-0572e489dc4fd243ce54c621eebb2357]
 
 (1) Ear notching;
 
@@ -347,23 +347,23 @@ Regulations 2 and 3(a)
 
 (5) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-7718c33a71c7e366e6141f4ad637ece3]
+#### 2. Procedures for the control of reproduction[^c-7718c33a71c7e366e6141f4ad637ece3]
 
 (1) Castration;
 
 (2) Implantation of a subcutaneous contraceptive.
 
-#### 3. Other management procedures[^key-805515055d2c9552bcb1ab086a0f74e3][^key-bc3ea4cb4d30295f4507dced5ec7d76e]
+#### 3. Other management procedures[^c-805515055d2c9552bcb1ab086a0f74e3][^c-bc3ea4cb4d30295f4507dced5ec7d76e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-#### 3. Castration[^key-83bf4f992f5e1dd6ac022161ae9bbb40][^key-bed726ad8fc6baa354b62401b3b0c950]
+#### 3. Castration[^c-83bf4f992f5e1dd6ac022161ae9bbb40][^c-bed726ad8fc6baa354b62401b3b0c950]
 
 When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure shall only be carried out on an animal aged not more than 7 days or by any other means before the age of two months.
 
-#### 4. Implantation of a subcutaneous contraceptive[^key-fab670485c2b5a65f228048d57ce503d][^M_F_a363ac8f-fb04-4708-c177-62f7a22649e4]
+#### 4. Implantation of a subcutaneous contraceptive[^c-fab670485c2b5a65f228048d57ce503d][^M_F_a363ac8f-fb04-4708-c177-62f7a22649e4]
 
 (1) The procedure may not be carried out on a farmed animal;
 
@@ -375,7 +375,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to horses
 
-#### 1. Identification procedures[^key-179c2c346759cd0e4864f050c7940ee7]
+#### 1. Identification procedures[^c-179c2c346759cd0e4864f050c7940ee7]
 
 (1) Freeze branding;
 
@@ -383,7 +383,7 @@ Regulations 2 and 3(a)
 
 (3) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-a5eac3afe898cda3c404b69bf7298237]
+#### 2. Procedures for the control of reproduction[^c-a5eac3afe898cda3c404b69bf7298237]
 
 (1) Artificial insemination;
 
@@ -391,7 +391,7 @@ Regulations 2 and 3(a)
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-**3.**[^key-9670a666116369fc710f1590ac477926] There are no associated requirements.
+**3.**[^c-9670a666116369fc710f1590ac477926] There are no associated requirements.
 
 ## SCHEDULE 6 — DEER
 
@@ -399,7 +399,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to deer
 
-#### 1. Identification procedures[^key-c2f58b12e96d753097ed937ea4b92ff3]
+#### 1. Identification procedures[^c-c2f58b12e96d753097ed937ea4b92ff3]
 
 (1) Ear notching;
 
@@ -411,13 +411,13 @@ Regulations 2 and 3(a)
 
 (5) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-7b50d581f78a78828ad800505a5fe29e]
+#### 2. Procedures for the control of reproduction[^c-7b50d581f78a78828ad800505a5fe29e]
 
 Implantation of a subcutaneous contraceptive.
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-#### 3. Implantation of a subcutaneous contraceptive[^key-5398179b8a74badc841f3f9ce5f02670]
+#### 3. Implantation of a subcutaneous contraceptive[^c-5398179b8a74badc841f3f9ce5f02670]
 
 (1) The procedure may not be carried out on farmed deer.
 
@@ -429,7 +429,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to birds
 
-#### 1. Identification procedures[^key-b53f2943189494e213c987f376897f8c]
+#### 1. Identification procedures[^c-b53f2943189494e213c987f376897f8c]
 
 (1) Microchipping;
 
@@ -443,13 +443,13 @@ Regulations 2 and 3(a)
 
 (6) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-f14117d8dab7b9533b7fd5fee724eea8]
+#### 2. Procedures for the control of reproduction[^c-f14117d8dab7b9533b7fd5fee724eea8]
 
 (1) Castration;
 
 (2) Implantation of a subcutaneous contraceptive.
 
-#### 3. Other management procedures[^key-83694a72393ce5b913955d92479cd341]
+#### 3. Other management procedures[^c-83694a72393ce5b913955d92479cd341]
 
 (1) Beak trimming of poultry;
 
@@ -465,32 +465,32 @@ Regulations 2 and 3(a)
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-**4.**[^key-924f91fe51c76b2f86b94722f13e15c4] (1) With the exception of beak trimming (where paragraph 11 applies), no procedure listed in Part I of this Schedule may be performed on—
+**4.**[^c-924f91fe51c76b2f86b94722f13e15c4] (1) With the exception of beak trimming (where paragraph 11 applies), no procedure listed in Part I of this Schedule may be performed on—
 
 - (a) conventionally reared meat chickens; or
 - (b) a laying hen or a chick that is intended to become a laying hen which is kept on an establishment with 350 or more such birds.
 
-#### 5. Neck tagging[^key-fa9ec97c49672af262c8c46606788fd7]
+#### 5. Neck tagging[^c-fa9ec97c49672af262c8c46606788fd7]
 
 The procedure shall only be carried out on farmed ducks and only where performed within 36 hours of hatching for the purposes of a breed improvement programme.
 
-#### 6. Web notching[^key-b552566905e868ab616147adabb3d92c]
+#### 6. Web notching[^c-b552566905e868ab616147adabb3d92c]
 
 The procedure shall only be carried out on farmed ducks and only where performed within 36 hours of hatching for the purposes of a breed improvement programme.
 
-#### 7. Web tagging[^key-8311e1aa2fdb46037cc39278c2ea3af7]
+#### 7. Web tagging[^c-8311e1aa2fdb46037cc39278c2ea3af7]
 
 (1) The procedure shall only be carried out on farmed birds for the purposes of breed improvement programmes or testing for the presence of disease.
 
 (2) The procedure shall only be carried out on birds other than farmed birds for conservation purposes (including education and captive breeding programmes) or for research.
 
-#### 8. Wing tagging[^key-b1b45f40830da42daa5b595807ea7cef]
+#### 8. Wing tagging[^c-b1b45f40830da42daa5b595807ea7cef]
 
 (1) The procedure shall only be carried out on farmed birds for the purposes of breed improvement programmes or testing for the presence of disease.
 
 (2) The procedure shall only be carried out on birds other than farmed birds for conservation purposes (including education and captive breeding programmes) or for research.
 
-#### 9. Castration[^key-841a4b55ded293eb8e41f9c12cc20001]
+#### 9. Castration[^c-841a4b55ded293eb8e41f9c12cc20001]
 
 (1) The procedure may not be carried out on farmed birds.
 
@@ -500,13 +500,13 @@ The procedure shall only be carried out on farmed ducks and only where performed
 
 (4) The procedure must not involve surgery.
 
-#### 10. Implantation of a subcutaneous contraceptive[^key-6964db5a13f46c6fe72b3ff60447fbdc]
+#### 10. Implantation of a subcutaneous contraceptive[^c-6964db5a13f46c6fe72b3ff60447fbdc]
 
 (1) The procedure may not be carried out on farmed birds.
 
 (2) The procedure shall only be carried out as part of a conservation breeding programme.
 
-#### 11. Beak trimming of poultry[^key-ea0e1154e57e6eca08864f41a7b69ea4]
+#### 11. Beak trimming of poultry[^c-ea0e1154e57e6eca08864f41a7b69ea4]
 
 (1) For all poultry the beak trimming procedure shall be performed using a suitable instrument.
 
@@ -535,29 +535,29 @@ The procedure shall only be carried out on farmed ducks and only where performed
 
 (7) In this part “infra-red procedure” means an automated procedure involving exposure of the tip of the beak of a chick to a focused high intensity infra-red beam designed to cause a limited area of tissue damage and subsequent loss of the beak tip.
 
-#### 12. Desnooding[^key-8946cbdbd4c41e8f57756649b501c755]
+#### 12. Desnooding[^c-8946cbdbd4c41e8f57756649b501c755]
 
 (1) Where the turkey is aged not more than 21 days, the procedure may be carried out either by manual pinching-out or with a suitable instrument.
 
 (2) The procedure may not be carried out on a bird that is aged 21 days or over.
 
-#### 13. De-toeing of domestic fowl and turkeys[^key-24ac1e4e9db0925b32854da0774361b7]
+#### 13. De-toeing of domestic fowl and turkeys[^c-24ac1e4e9db0925b32854da0774361b7]
 
 The procedure may not be carried out on a bird that is aged 72 hours or over.
 
-#### 14. Dubbing[^key-550ad00fc7f5046e1dbb196bddbd6e32]
+#### 14. Dubbing[^c-550ad00fc7f5046e1dbb196bddbd6e32]
 
 (1) Dubbing shall be performed using a suitable instrument.
 
 (2) The procedure may not be carried out on a bird that is aged 72 hours or over.
 
-#### 15. Removal of the dependent portion of its wattles[^key-4308a8ff7cdb4830b6d6101204b1e90e]
+#### 15. Removal of the dependent portion of its wattles[^c-4308a8ff7cdb4830b6d6101204b1e90e]
 
 (1) The removal of the dependent portion of its wattles shall be performed using a suitable instrument.
 
 (2) The procedure may not be carried out on a bird that is aged 72 hours or over.
 
-#### 16. Wing pinioning[^key-9d9b4d38bec7150526e6d4a5c0d191b0]
+#### 16. Wing pinioning[^c-9d9b4d38bec7150526e6d4a5c0d191b0]
 
 (1) The procedure may not be carried out on farmed birds.
 
@@ -569,7 +569,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to cats and dogs
 
-#### 1. Identification procedures[^key-febd8cd9a6231c9516c2d647b58470c9]
+#### 1. Identification procedures[^c-febd8cd9a6231c9516c2d647b58470c9]
 
 (1) Insertion of subcutaneous tracking devices;
 
@@ -579,17 +579,17 @@ Regulations 2 and 3(a)
 
 (4) Other methods of identification involving a prohibited procedure required by law and not restricted to being undertaken by a veterinary surgeon.
 
-#### 2. Procedures for the control of reproduction[^key-f93e1c5363894dbdecd637ccff4769bb]
+#### 2. Procedures for the control of reproduction[^c-f93e1c5363894dbdecd637ccff4769bb]
 
 Implantation of a subcutaneous contraceptive.
 
-#### 3. Other management procedures[^key-70f546d1b663625d7d9991bdf2ec45a2]
+#### 3. Other management procedures[^c-70f546d1b663625d7d9991bdf2ec45a2]
 
 Removal of the dew claws of dogs.
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-#### 4. Removal of the dew claws of dogs[^key-bc0004956266bee016deccd76a89cdaf]
+#### 4. Removal of the dew claws of dogs[^c-bc0004956266bee016deccd76a89cdaf]
 
 The procedure shall only be carried out before the pups eyes are open.
 
@@ -599,7 +599,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to fish
 
-#### 1. Identification procedures[^key-23850087ff55512e1e4ff38c38f50048]
+#### 1. Identification procedures[^c-23850087ff55512e1e4ff38c38f50048]
 
 (1) Chemical branding;
 
@@ -613,13 +613,13 @@ Regulations 2 and 3(a)
 
 (6) Externally attached tagging.
 
-#### 2. Other management procedures[^key-7d2380f8893bd5e6abdb77ca3e6422ba]
+#### 2. Other management procedures[^c-7d2380f8893bd5e6abdb77ca3e6422ba]
 
 Removal of fish scales.
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-#### 3. Removal of fish scales[^key-1b6bae6eb066a0af6705c5c77a3211d7]
+#### 3. Removal of fish scales[^c-1b6bae6eb066a0af6705c5c77a3211d7]
 
 The procedure shall only be carried out for the purposes of age determination.
 
@@ -629,17 +629,17 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to reptiles
 
-#### 1. Identification procedures[^key-6e193724109b3bcd1f1129ccd0963a6a]
+#### 1. Identification procedures[^c-6e193724109b3bcd1f1129ccd0963a6a]
 
 Microchipping.
 
-#### 2. Procedures for the control of reproduction[^key-24fb28df0cfcddcc7f9f55fc3678ac56]
+#### 2. Procedures for the control of reproduction[^c-24fb28df0cfcddcc7f9f55fc3678ac56]
 
 Implantation of a subcutaneous contraceptive.
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-**3.**[^key-031dcd696b6f033d4e210ec6c3302016] There are no associated requirements.
+**3.**[^c-031dcd696b6f033d4e210ec6c3302016] There are no associated requirements.
 
 ## SCHEDULE 11 — ANY OTHER KIND OF ANIMAL
 
@@ -647,7 +647,7 @@ Regulations 2 and 3(a)
 
 ### PART I — Part I of this Schedule specifies permitted procedures which may be performed by a lay person in relation to any other kind of animal
 
-#### 1. Identification procedures[^key-98a95eb9c8d5528aafba73526825ea3d]
+#### 1. Identification procedures[^c-98a95eb9c8d5528aafba73526825ea3d]
 
 (1) Microchipping;
 
@@ -655,7 +655,7 @@ Regulations 2 and 3(a)
 
 ### PART II — Part II specifies any additional conditions for a procedure
 
-**2.**[^key-179cbb843bec3860fc7ea89794da9c86] There are no associated requirements.
+**2.**[^c-179cbb843bec3860fc7ea89794da9c86] There are no associated requirements.
 
 EXPLANATORY NOTE
 
@@ -685,13 +685,13 @@ In respect of the beak trimming of laying hens, these Regulations implement para
 
 [^f00001]: Footnote: [2011 c.16 (N.I.)](https://www.legislation.gov.uk/nia/2011/16)
 
-[^key-4f8e241a5658a17424d2ea302ba50452]: Commencement: Reg. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-4f8e241a5658a17424d2ea302ba50452]: Commencement: Reg. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-2860ec0e6e1558476cfab718566b18ed]: Commencement: Reg. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-2860ec0e6e1558476cfab718566b18ed]: Commencement: Reg. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L 157, 17.6.2008, p.46, to which there is a correction not relevant to these Regulations
 
-[^key-37f6b13556e3becc02f05b6d1655d938]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/153/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/2)
+[^c-37f6b13556e3becc02f05b6d1655d938]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/153/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/2)
 
 [^f00003]: Footnote: O.J. No. L 189, 20.7.07, p.1, as amended by Council Regulation (EC No. 967/2008 (O.J. No. L 264, 3.10.2008, p.1)
 
@@ -701,152 +701,152 @@ In respect of the beak trimming of laying hens, these Regulations implement para
 
 [^f00006]: Footnote: [S.I. 1962/2557](https://www.legislation.gov.uk/uksi/1962/2557) relevant amending instruments are [S.I. 1982/1627](https://www.legislation.gov.uk/uksi/1982/1627), [2002/1646](https://www.legislation.gov.uk/uksi/2002/1646)
 
-[^key-4df0f38939864d13e8c36f0009f38530]: Commencement: Reg. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-4df0f38939864d13e8c36f0009f38530]: Commencement: Reg. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-e7d6e447da37b2343ebb8bb678b07581]: Commencement: Reg. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-e7d6e447da37b2343ebb8bb678b07581]: Commencement: Reg. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-e4abe08481959f8667cce1c07559755b]: Commencement: Reg. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-e4abe08481959f8667cce1c07559755b]: Commencement: Reg. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-004ef8fd203799e6f0c181cb2525b745]: Commencement: Reg. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-004ef8fd203799e6f0c181cb2525b745]: Commencement: Reg. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 415](https://www.legislation.gov.uk/nisr/1987/415)
 
-[^key-8b2188e786ebcaf70fd230d5cd047aeb]: Commencement: Sch. 1 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-8b2188e786ebcaf70fd230d5cd047aeb]: Commencement: Sch. 1 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-9d1b9c38d415996aa5c814935e03e067]: Commencement: Sch. 1 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-9d1b9c38d415996aa5c814935e03e067]: Commencement: Sch. 1 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-0ee9aa10f7c2be5503d2328ca734a5cd]: Commencement: Sch. 1 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-0ee9aa10f7c2be5503d2328ca734a5cd]: Commencement: Sch. 1 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-3fa1d2bf421eda4920bac396f5236286]: Commencement: Sch. 1 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-3fa1d2bf421eda4920bac396f5236286]: Commencement: Sch. 1 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-97215b856da77b004526bfe0e55bca21]: Commencement: Sch. 1 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-97215b856da77b004526bfe0e55bca21]: Commencement: Sch. 1 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-db333ea26840ba963c1ce35830c31fa2]: Commencement: Sch. 1 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-db333ea26840ba963c1ce35830c31fa2]: Commencement: Sch. 1 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-56f1382a26c53baff9393f21d846314e]: Commencement: Sch. 1 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-56f1382a26c53baff9393f21d846314e]: Commencement: Sch. 1 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-b8bfcfe82cbc19c087be4de3cf5a63f8]: Commencement: Sch. 1 para. 8 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-b8bfcfe82cbc19c087be4de3cf5a63f8]: Commencement: Sch. 1 para. 8 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-5e212f96165c4958c982d37d605b7261]: Commencement: Sch. 1 para. 9 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-5e212f96165c4958c982d37d605b7261]: Commencement: Sch. 1 para. 9 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-4cc7501ea3a82ab7bc0fb52c73495d18]: Commencement: Sch. 1 para. 10 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-4cc7501ea3a82ab7bc0fb52c73495d18]: Commencement: Sch. 1 para. 10 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-5432eb54fb87d659d438ca0e5a04649e]: Commencement: Sch. 2 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-5432eb54fb87d659d438ca0e5a04649e]: Commencement: Sch. 2 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-fa77af3661228d3d8de2796b6c0fa9b4]: Commencement: Sch. 2 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-fa77af3661228d3d8de2796b6c0fa9b4]: Commencement: Sch. 2 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-1b2106c0b11791ea58a9210d30feeaee]: Commencement: Sch. 2 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-1b2106c0b11791ea58a9210d30feeaee]: Commencement: Sch. 2 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-2bdaeae96e45ca21f75a42a064df6897]: Commencement: Sch. 2 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-2bdaeae96e45ca21f75a42a064df6897]: Commencement: Sch. 2 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-ac59961a0df319f7f90aa136ccf3a394]: Commencement: Sch. 2 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-ac59961a0df319f7f90aa136ccf3a394]: Commencement: Sch. 2 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-c25b11dc71bbad89692c2c097414d62b]: Commencement: Sch. 2 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-c25b11dc71bbad89692c2c097414d62b]: Commencement: Sch. 2 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-55a2fe0c62d3cb8108d33da3a65b6dc7]: Commencement: Sch. 2 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-55a2fe0c62d3cb8108d33da3a65b6dc7]: Commencement: Sch. 2 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-1135be3a37de94d8ca30e6deb8a12a13]: Commencement: Sch. 2 para. 8 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-1135be3a37de94d8ca30e6deb8a12a13]: Commencement: Sch. 2 para. 8 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-59736fbd05272319138402cfe77a34d1]: Commencement: Sch. 2 para. 9 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-59736fbd05272319138402cfe77a34d1]: Commencement: Sch. 2 para. 9 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-ada96b3a42077e0c8e6a15389def3eb1]: Commencement: Sch. 3 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-ada96b3a42077e0c8e6a15389def3eb1]: Commencement: Sch. 3 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-00155e8c98686e20921bdd4abfc74cfc]: Commencement: Sch. 3 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-00155e8c98686e20921bdd4abfc74cfc]: Commencement: Sch. 3 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-74933bd0462c830a8671ae3814a4a9ee]: Commencement: Sch. 3 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-74933bd0462c830a8671ae3814a4a9ee]: Commencement: Sch. 3 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-dae39c740d732cdb3abcaa72c709b6c5]: Textual amendment: [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/nisr/2012/153/schedule/3/paragraph/3/1) omitted (1.1.2013) by virtue of [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/2)
+[^c-dae39c740d732cdb3abcaa72c709b6c5]: Textual amendment: [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/nisr/2012/153/schedule/3/paragraph/3/1) omitted (1.1.2013) by virtue of [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/2)
 
-[^key-589e7156478a4aba431d16270869077f]: Textual amendment: [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nisr/2012/153/schedule/3/paragraph/3/1) renumbered as Sch.3 para. 3(1) (1.1.2013) by [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/2)
+[^c-589e7156478a4aba431d16270869077f]: Textual amendment: [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nisr/2012/153/schedule/3/paragraph/3/1) renumbered as Sch.3 para. 3(1) (1.1.2013) by [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/2)
 
-[^key-a423c7dca0c27b18bb0d679cc01a8477]: Commencement: Sch. 3 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-a423c7dca0c27b18bb0d679cc01a8477]: Commencement: Sch. 3 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-3b0f5af6ece9ecd90b46287c6def8b1b]: Commencement: Sch. 3 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-3b0f5af6ece9ecd90b46287c6def8b1b]: Commencement: Sch. 3 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-b011cb71af14b6b95c3b52a203527fe1]: Commencement: Sch. 3 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-b011cb71af14b6b95c3b52a203527fe1]: Commencement: Sch. 3 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-cffb4bddddca37ba995f66cba54b1134]: Commencement: Sch. 3 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-cffb4bddddca37ba995f66cba54b1134]: Commencement: Sch. 3 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-0572e489dc4fd243ce54c621eebb2357]: Commencement: Sch. 4 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-0572e489dc4fd243ce54c621eebb2357]: Commencement: Sch. 4 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-7718c33a71c7e366e6141f4ad637ece3]: Commencement: Sch. 4 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-7718c33a71c7e366e6141f4ad637ece3]: Commencement: Sch. 4 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-805515055d2c9552bcb1ab086a0f74e3]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2012/153/schedule/4/paragraph/3) omitted (1.1.2013) by virtue of [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/3)
+[^c-805515055d2c9552bcb1ab086a0f74e3]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2012/153/schedule/4/paragraph/3) omitted (1.1.2013) by virtue of [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/3)
 
-[^key-bc3ea4cb4d30295f4507dced5ec7d76e]: Commencement: Sch. 4 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-bc3ea4cb4d30295f4507dced5ec7d76e]: Commencement: Sch. 4 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-83bf4f992f5e1dd6ac022161ae9bbb40]: Commencement: Sch. 4 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-83bf4f992f5e1dd6ac022161ae9bbb40]: Commencement: Sch. 4 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-bed726ad8fc6baa354b62401b3b0c950]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2012/153/schedule/4/paragraph/4) renumbered as Sch. 4 Pt. 2 para. 3 (1.1.2013) by [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/4)
+[^c-bed726ad8fc6baa354b62401b3b0c950]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2012/153/schedule/4/paragraph/4) renumbered as Sch. 4 Pt. 2 para. 3 (1.1.2013) by [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/4)
 
-[^key-fab670485c2b5a65f228048d57ce503d]: Commencement: Sch. 4 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-fab670485c2b5a65f228048d57ce503d]: Commencement: Sch. 4 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
 [^M_F_a363ac8f-fb04-4708-c177-62f7a22649e4]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2012/153/schedule/4/paragraph/4) renumbered as Sch. 4 Pt. 2 para. 4 (1.1.2013) by [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2012/387/regulation/6/4)
 
-[^key-179c2c346759cd0e4864f050c7940ee7]: Commencement: Sch. 5 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-179c2c346759cd0e4864f050c7940ee7]: Commencement: Sch. 5 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-a5eac3afe898cda3c404b69bf7298237]: Commencement: Sch. 5 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-a5eac3afe898cda3c404b69bf7298237]: Commencement: Sch. 5 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-9670a666116369fc710f1590ac477926]: Commencement: Sch. 5 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-9670a666116369fc710f1590ac477926]: Commencement: Sch. 5 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-c2f58b12e96d753097ed937ea4b92ff3]: Commencement: Sch. 6 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-c2f58b12e96d753097ed937ea4b92ff3]: Commencement: Sch. 6 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-7b50d581f78a78828ad800505a5fe29e]: Commencement: Sch. 6 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-7b50d581f78a78828ad800505a5fe29e]: Commencement: Sch. 6 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-5398179b8a74badc841f3f9ce5f02670]: Commencement: Sch. 6 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-5398179b8a74badc841f3f9ce5f02670]: Commencement: Sch. 6 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-b53f2943189494e213c987f376897f8c]: Commencement: Sch. 7 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-b53f2943189494e213c987f376897f8c]: Commencement: Sch. 7 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-f14117d8dab7b9533b7fd5fee724eea8]: Commencement: Sch. 7 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-f14117d8dab7b9533b7fd5fee724eea8]: Commencement: Sch. 7 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-83694a72393ce5b913955d92479cd341]: Commencement: Sch. 7 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-83694a72393ce5b913955d92479cd341]: Commencement: Sch. 7 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-924f91fe51c76b2f86b94722f13e15c4]: Commencement: Sch. 7 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-924f91fe51c76b2f86b94722f13e15c4]: Commencement: Sch. 7 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-fa9ec97c49672af262c8c46606788fd7]: Commencement: Sch. 7 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-fa9ec97c49672af262c8c46606788fd7]: Commencement: Sch. 7 para. 5 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-b552566905e868ab616147adabb3d92c]: Commencement: Sch. 7 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-b552566905e868ab616147adabb3d92c]: Commencement: Sch. 7 para. 6 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-8311e1aa2fdb46037cc39278c2ea3af7]: Commencement: Sch. 7 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-8311e1aa2fdb46037cc39278c2ea3af7]: Commencement: Sch. 7 para. 7 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-b1b45f40830da42daa5b595807ea7cef]: Commencement: Sch. 7 para. 8 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-b1b45f40830da42daa5b595807ea7cef]: Commencement: Sch. 7 para. 8 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-841a4b55ded293eb8e41f9c12cc20001]: Commencement: Sch. 7 para. 9 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-841a4b55ded293eb8e41f9c12cc20001]: Commencement: Sch. 7 para. 9 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-6964db5a13f46c6fe72b3ff60447fbdc]: Commencement: Sch. 7 para. 10 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-6964db5a13f46c6fe72b3ff60447fbdc]: Commencement: Sch. 7 para. 10 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-ea0e1154e57e6eca08864f41a7b69ea4]: Commencement: Sch. 7 para. 11 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-ea0e1154e57e6eca08864f41a7b69ea4]: Commencement: Sch. 7 para. 11 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-8946cbdbd4c41e8f57756649b501c755]: Commencement: Sch. 7 para. 12 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-8946cbdbd4c41e8f57756649b501c755]: Commencement: Sch. 7 para. 12 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-24ac1e4e9db0925b32854da0774361b7]: Commencement: Sch. 7 para. 13 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-24ac1e4e9db0925b32854da0774361b7]: Commencement: Sch. 7 para. 13 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-550ad00fc7f5046e1dbb196bddbd6e32]: Commencement: Sch. 7 para. 14 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-550ad00fc7f5046e1dbb196bddbd6e32]: Commencement: Sch. 7 para. 14 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-4308a8ff7cdb4830b6d6101204b1e90e]: Commencement: Sch. 7 para. 15 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-4308a8ff7cdb4830b6d6101204b1e90e]: Commencement: Sch. 7 para. 15 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-9d9b4d38bec7150526e6d4a5c0d191b0]: Commencement: Sch. 7 para. 16 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-9d9b4d38bec7150526e6d4a5c0d191b0]: Commencement: Sch. 7 para. 16 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-febd8cd9a6231c9516c2d647b58470c9]: Commencement: Sch. 8 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-febd8cd9a6231c9516c2d647b58470c9]: Commencement: Sch. 8 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-f93e1c5363894dbdecd637ccff4769bb]: Commencement: Sch. 8 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-f93e1c5363894dbdecd637ccff4769bb]: Commencement: Sch. 8 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-70f546d1b663625d7d9991bdf2ec45a2]: Commencement: Sch. 8 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-70f546d1b663625d7d9991bdf2ec45a2]: Commencement: Sch. 8 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-bc0004956266bee016deccd76a89cdaf]: Commencement: Sch. 8 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-bc0004956266bee016deccd76a89cdaf]: Commencement: Sch. 8 para. 4 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-23850087ff55512e1e4ff38c38f50048]: Commencement: Sch. 9 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-23850087ff55512e1e4ff38c38f50048]: Commencement: Sch. 9 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-7d2380f8893bd5e6abdb77ca3e6422ba]: Commencement: Sch. 9 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-7d2380f8893bd5e6abdb77ca3e6422ba]: Commencement: Sch. 9 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-1b6bae6eb066a0af6705c5c77a3211d7]: Commencement: Sch. 9 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-1b6bae6eb066a0af6705c5c77a3211d7]: Commencement: Sch. 9 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-6e193724109b3bcd1f1129ccd0963a6a]: Commencement: Sch. 10 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-6e193724109b3bcd1f1129ccd0963a6a]: Commencement: Sch. 10 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-24fb28df0cfcddcc7f9f55fc3678ac56]: Commencement: Sch. 10 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-24fb28df0cfcddcc7f9f55fc3678ac56]: Commencement: Sch. 10 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-031dcd696b6f033d4e210ec6c3302016]: Commencement: Sch. 10 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-031dcd696b6f033d4e210ec6c3302016]: Commencement: Sch. 10 para. 3 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-98a95eb9c8d5528aafba73526825ea3d]: Commencement: Sch. 11 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-98a95eb9c8d5528aafba73526825ea3d]: Commencement: Sch. 11 para. 1 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
 
-[^key-179cbb843bec3860fc7ea89794da9c86]: Commencement: Sch. 11 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)
+[^c-179cbb843bec3860fc7ea89794da9c86]: Commencement: Sch. 11 para. 2 in operation at 2.4.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/153/regulation/1)

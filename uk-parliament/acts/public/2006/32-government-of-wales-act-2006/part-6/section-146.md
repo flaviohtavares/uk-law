@@ -22,7 +22,7 @@ summary: ''
 
 (1) Welsh public records are not public records for the purposes of the Public Records Act 1958 (c. 51).
 
-(2) But that Act has effect in relation to Welsh public records (as if they were public records for the purpose of that Act) until an order under section 147 imposes a duty to preserve them on the Welsh Ministers (or a member of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government).
+(2) But that Act has effect in relation to Welsh public records (as if they were public records for the purpose of that Act) until an order under section 147 imposes a duty to preserve them on the Welsh Ministers (or a member of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government).
 
 (3) Subsection (2) applies to Welsh public records whether or not, apart from subsection (1), they would be public records for the purposes of the Public Records Act 1958.
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c16543101]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))

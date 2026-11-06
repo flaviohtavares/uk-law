@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Amendments of Companies Act 1989[^key-2e8183295fd628f1d3a7cdc8480274b8]
+## 111. Amendments of Companies Act 1989[^c-2e8183295fd628f1d3a7cdc8480274b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8183295fd628f1d3a7cdc8480274b8]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2012/21/section/111) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2e8183295fd628f1d3a7cdc8480274b8]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2012/21/section/111) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

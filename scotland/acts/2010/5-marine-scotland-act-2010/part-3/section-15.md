@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Decisions of public authorities affected by marine plans[^key-114a435e7dc92f45cb718d3d55660e90][^key-08c19e5caf8070bcebcb92281333e667]
+## 15. Decisions of public authorities affected by marine plans[^c-114a435e7dc92f45cb718d3d55660e90][^c-08c19e5caf8070bcebcb92281333e667]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-114a435e7dc92f45cb718d3d55660e90]: Commencement: S. 15 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-114a435e7dc92f45cb718d3d55660e90]: Commencement: S. 15 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
 
-[^key-08c19e5caf8070bcebcb92281333e667]: Modification: S. 15 applied (31.12.2010) by [The Marine (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.I. 2010/2870)](https://www.legislation.gov.uk/uksi/2010/2870), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2870/article/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/2870/article/3/4/a)
+[^c-08c19e5caf8070bcebcb92281333e667]: Modification: S. 15 applied (31.12.2010) by [The Marine (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.I. 2010/2870)](https://www.legislation.gov.uk/uksi/2010/2870), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2870/article/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/2870/article/3/4/a)

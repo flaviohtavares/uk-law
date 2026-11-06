@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. National security vetting procedures[^key-b5f5efd39699a5c46bdb2aa950535b58]
+## 187. National security vetting procedures[^c-b5f5efd39699a5c46bdb2aa950535b58]
 
 *Extent: E+W+S+N.I.*
 
 (1) A licensee must ensure that—
 
 - (a) the security manager has a level of security clearance which would be regarded as appropriate by the Government of the United Kingdom for persons performing such security functions,
-- (b)[^key-89a95aaf399b8897dcb3962be00cd4a7] the individuals mentioned in paragraph (2), as a condition of being engaged, or continuing to be engaged, in carrying out security functions, have obtained—
+- (b)[^c-89a95aaf399b8897dcb3962be00cd4a7] the individuals mentioned in paragraph (2), as a condition of being engaged, or continuing to be engaged, in carrying out security functions, have obtained—
   - (i) an acceptable enhanced criminal record certificate under section 113B(1) of the Police Act 1997, or
   - (ii) an acceptable Level 2 disclosure under the Disclosure (Scotland) Act 2020,
 - (ba) the individuals mentioned in paragraph (2), in any other case, have obtained—
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5f5efd39699a5c46bdb2aa950535b58]: Commencement: Reg. 187 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b5f5efd39699a5c46bdb2aa950535b58]: Commencement: Reg. 187 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-89a95aaf399b8897dcb3962be00cd4a7]: Textual amendment: [Reg. 187(1)(b)](https://www.legislation.gov.uk/uksi/2021/792/regulation/187/1/b)[(ba)](https://www.legislation.gov.uk/uksi/2021/792/regulation/187/1/ba) substituted for [reg. 187(1)(b)](https://www.legislation.gov.uk/uksi/2021/792/regulation/187/1/b) (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/6/2)
+[^c-89a95aaf399b8897dcb3962be00cd4a7]: Textual amendment: [Reg. 187(1)(b)](https://www.legislation.gov.uk/uksi/2021/792/regulation/187/1/b)[(ba)](https://www.legislation.gov.uk/uksi/2021/792/regulation/187/1/ba) substituted for [reg. 187(1)(b)](https://www.legislation.gov.uk/uksi/2021/792/regulation/187/1/b) (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/6/2)

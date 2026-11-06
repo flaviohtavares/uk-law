@@ -26,7 +26,7 @@ summary: ''
 - (b) sets out specific obligations of controllers and processors with respect to security (see section 66);
 - (c) sets out specific obligations of controllers and processors with respect to personal data breaches (see sections 67 and 68);
 - (d) makes provision for the designation, position and tasks of data protection officers (see sections 69 to 71);
-- (e)[^key-f583eaf405e87a78ff32fe446bbd4660] makes provision about codes of conduct (see section 71A).
+- (e)[^c-f583eaf405e87a78ff32fe446bbd4660] makes provision about codes of conduct (see section 71A).
 
 (2) This Chapter applies only in relation to the processing of personal data for a law enforcement purpose.
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^M_I_d69dd7f5-3ead-4b03-f72c-ff3b578ecd5b]: Commencement: S. 55 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-f583eaf405e87a78ff32fe446bbd4660]: Textual amendment: [S. 55(1)(e)](https://www.legislation.gov.uk/ukpga/2018/12/section/55/1/e) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 84(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/84/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)
+[^c-f583eaf405e87a78ff32fe446bbd4660]: Textual amendment: [S. 55(1)(e)](https://www.legislation.gov.uk/ukpga/2018/12/section/55/1/e) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 84(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/84/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)

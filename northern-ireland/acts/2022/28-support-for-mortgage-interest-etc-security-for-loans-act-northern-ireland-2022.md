@@ -35,7 +35,7 @@ An Act to provide for loans under Article 13 of the Welfare Reform and Work (Nor
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Security for loans for mortgage interest etc[^key-c9cb700494a87b99b0951564fdf211ff][^key-c9cb700494a87b99b0951564fdf211ff]
+## 1. Security for loans for mortgage interest etc[^c-c9cb700494a87b99b0951564fdf211ff][^c-c9cb700494a87b99b0951564fdf211ff]
 
 (1) In Article 13 of the Welfare Reform and Work (Northern Ireland) Order 2016 (loans in respect of liability to make owner-occupier payments)—
 
@@ -65,7 +65,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-## 2. Commencement and short title[^key-71148c24bf32ff7ef5359a3b16416cbb][^key-71148c24bf32ff7ef5359a3b16416cbb]
+## 2. Commencement and short title[^c-71148c24bf32ff7ef5359a3b16416cbb][^c-71148c24bf32ff7ef5359a3b16416cbb]
 
 (1) This Act comes into force on the day after the day on which it receives Royal Assent.
 
@@ -73,6 +73,6 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-c9cb700494a87b99b0951564fdf211ff]: Commencement: S. 1 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
+[^c-c9cb700494a87b99b0951564fdf211ff]: Commencement: S. 1 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
 
-[^key-71148c24bf32ff7ef5359a3b16416cbb]: Commencement: S. 2 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
+[^c-71148c24bf32ff7ef5359a3b16416cbb]: Commencement: S. 2 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)

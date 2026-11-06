@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Penalty for failure as respects return of declarations[^key-936019c3fd4111e25991f617657f0140]
+## 51. Penalty for failure as respects return of declarations[^c-936019c3fd4111e25991f617657f0140]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to the provisions of article 53, any candidate or election agent who fai
 
 ## Annotations
 
-[^key-936019c3fd4111e25991f617657f0140]: Commencement: Art. 51 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-936019c3fd4111e25991f617657f0140]: Commencement: Art. 51 in force at 16.12.2015 in accordance with art. 1(1)

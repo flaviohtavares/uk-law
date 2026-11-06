@@ -31,7 +31,7 @@ Ecclesiastical Jurisdiction Measure 1963
 
 A Measure passed by The National Assembly of the Church of England to reform and reconstruct the system of ecclesiastical courts of the Church of England, to replace with new provisions the existing enactments relating to ecclesiastical discipline, to abolish certain obsolete jurisdictions and fees, and for purposes connected therewith.
 
-\[31st July 1963\][^c1021178][^c1021179][^c1021180][^key-7fa59c61b5b0c5d9f6745f422f1ce1ff]
+\[31st July 1963\][^c1021178][^c1021179][^c1021180][^c-7fa59c61b5b0c5d9f6745f422f1ce1ff]
 
 ## Contents
 
@@ -77,15 +77,15 @@ A Measure passed by The National Assembly of the Church of England to reform and
 - [Section 20 — Persons by whom proceedings against an archbishop or bishop may be instituted.](part-iii/section-20.md)
 - [Section 21 — Supplementary provisions in special cases.](part-iii/section-21.md)
 
-### Part IV — Conduct of Proceedings against Priests or Deacons for offences under the Measure not involving Matter of Doctrine, Ritual or Ceremonial.[^key-2299b880b71cceee872bcb79b652d053]
+### Part IV — Conduct of Proceedings against Priests or Deacons for offences under the Measure not involving Matter of Doctrine, Ritual or Ceremonial.[^c-2299b880b71cceee872bcb79b652d053]
 
-#### Scope of Part IV[^key-2299b880b71cceee872bcb79b652d053]
+#### Scope of Part IV[^c-2299b880b71cceee872bcb79b652d053]
 
 **No longer in force.**
 
 - [Section 22 — Scope of Part IV.](part-iv/section-22.md)
 
-#### Procedure under Part IV after Laying of Complaint[^key-2299b880b71cceee872bcb79b652d053]
+#### Procedure under Part IV after Laying of Complaint[^c-2299b880b71cceee872bcb79b652d053]
 
 **No longer in force.**
 
@@ -97,27 +97,27 @@ A Measure passed by The National Assembly of the Church of England to reform and
 - [Section 28 — Conduct of trial under Part IV.](part-iv/section-28.md)
 - [Section 29 — New Trial.](part-iv/section-29.md)
 
-#### Examiners and Assessors[^key-2299b880b71cceee872bcb79b652d053]
+#### Examiners and Assessors[^c-2299b880b71cceee872bcb79b652d053]
 
 **No longer in force.**
 
 - [Section 30 — Constitution of panels of examiners and assessors, &c.](part-iv/section-30.md)
 
-#### Power of Diocesan to pronounce Sentence by Consent[^key-2299b880b71cceee872bcb79b652d053]
+#### Power of Diocesan to pronounce Sentence by Consent[^c-2299b880b71cceee872bcb79b652d053]
 
 **No longer in force.**
 
 - [Section 31 — Power of diocesan to pronounce sentence by consent.](part-iv/section-31.md)
 
-### Part V — Conduct of Proceedings against Bishops for Offences under the Measure not involving Matter of Doctrine, Ritual or Ceremonial[^key-ac95571003798386cc73f8f908c2cbb2]
+### Part V — Conduct of Proceedings against Bishops for Offences under the Measure not involving Matter of Doctrine, Ritual or Ceremonial[^c-ac95571003798386cc73f8f908c2cbb2]
 
-#### Scope of Part V[^key-ac95571003798386cc73f8f908c2cbb2]
+#### Scope of Part V[^c-ac95571003798386cc73f8f908c2cbb2]
 
 **No longer in force.**
 
 - [Section 32 — Scope of Part V.](part-v/section-32.md)
 
-#### Procedure under Part V after Laying of Complaint[^key-ac95571003798386cc73f8f908c2cbb2]
+#### Procedure under Part V after Laying of Complaint[^c-ac95571003798386cc73f8f908c2cbb2]
 
 **No longer in force.**
 
@@ -158,7 +158,7 @@ A Measure passed by The National Assembly of the Church of England to reform and
 - [Section 53 — Restoration on pardon.](part-viii/section-53.md)
 - [Section 54 — Disobedience to censure.](part-viii/section-54.md)
 
-### Part IX — Deprivation consequent upon certain Judgments, Orders or Decrees of Secular Courts[^key-8c72faf6861899b5c22c01d290437951]
+### Part IX — Deprivation consequent upon certain Judgments, Orders or Decrees of Secular Courts[^c-8c72faf6861899b5c22c01d290437951]
 
 - [Section 55 — Deprivation of priest or deacon following certain proceedings in secular courts.](part-ix/section-55.md)
 - [Section 56 — Deprivation of bishop or archbishop following certain proceedings in secular courts.](part-ix/section-56.md)
@@ -223,10 +223,10 @@ SCHEDULES
 
 [^c1021180]: Commencement: Measure not in force at Royal Assent see [s. 88(1)](https://www.legislation.gov.uk/ukcm/1963/1/section/88/1); Measure wholly in force at 1.3.1965
 
-[^key-7fa59c61b5b0c5d9f6745f422f1ce1ff]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/1963/1) applied (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 34(9)](https://www.legislation.gov.uk/ukcm/2011/3/section/34/9), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-7fa59c61b5b0c5d9f6745f422f1ce1ff]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/1963/1) applied (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 34(9)](https://www.legislation.gov.uk/ukcm/2011/3/section/34/9), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-2299b880b71cceee872bcb79b652d053]: Textual amendment: Pt. 4 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-2299b880b71cceee872bcb79b652d053]: Textual amendment: Pt. 4 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-ac95571003798386cc73f8f908c2cbb2]: Textual amendment: Pt. 5 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-ac95571003798386cc73f8f908c2cbb2]: Textual amendment: Pt. 5 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-8c72faf6861899b5c22c01d290437951]: Textual amendment: Pt. 9 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-8c72faf6861899b5c22c01d290437951]: Textual amendment: Pt. 9 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

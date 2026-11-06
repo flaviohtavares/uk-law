@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Commencement[^key-fa8c921b358f9f31fe57a3f6afdb18fc]
+## 108. Commencement[^c-fa8c921b358f9f31fe57a3f6afdb18fc]
 
 *Extent: E+W*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa8c921b358f9f31fe57a3f6afdb18fc]: Commencement: S. 108 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-fa8c921b358f9f31fe57a3f6afdb18fc]: Commencement: S. 108 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)

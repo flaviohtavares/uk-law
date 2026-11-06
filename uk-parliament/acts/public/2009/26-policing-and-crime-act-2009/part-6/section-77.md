@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Provisional arrest[^key-b06a578de37f9f5404c24aeff2d74a35]
+## 77. Provisional arrest[^c-b06a578de37f9f5404c24aeff2d74a35]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b06a578de37f9f5404c24aeff2d74a35]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2009/26/section/77) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(t)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/t) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/3))
+[^c-b06a578de37f9f5404c24aeff2d74a35]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2009/26/section/77) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(t)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/t) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/3))

@@ -65,7 +65,7 @@ summary: ''
 (3) Regulations under—
 
 - (a) section 171C of that Act (modifications of Part 5 in relation to preserved right to buy), or
-- (b)[^key-c2761caa8f145aeae11464dc0b6d0707] section 184 of the Housing and Regeneration Act 2008 (c. 17) (application of that Part in relation to the right to acquire a dwelling in England),
+- (b)[^c-c2761caa8f145aeae11464dc0b6d0707] section 184 of the Housing and Regeneration Act 2008 (c. 17) (application of that Part in relation to the right to acquire a dwelling in England),
 
 may make provision for continuing the effect of a suspension order where the secure tenancy in respect of which the order was made has been replaced by an assured tenancy.
 
@@ -73,4 +73,4 @@ may make provision for continuing the effect of a suspension order where the sec
 
 [^c693755]: Commencement: S. 192 wholly in force at 25.11.2005; s. 192 in force for certain purposes at Royal Assent see s. 270(2)(b); s. 192 in force for E. at 6.6.2005 by [S.I. 2005/1451](https://www.legislation.gov.uk/uksi/2005/1451), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/1451/article/2/b); s. 192 in force for W. at 25.11.2005 by [S.I. 2005/3237](https://www.legislation.gov.uk/uksi/2005/3237), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/3237/article/2/g)
 
-[^key-c2761caa8f145aeae11464dc0b6d0707]: Textual amendment: [S. 192(3)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/192/3/b) substituted (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/2); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-c2761caa8f145aeae11464dc0b6d0707]: Textual amendment: [S. 192(3)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/192/3/b) substituted (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/2); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))

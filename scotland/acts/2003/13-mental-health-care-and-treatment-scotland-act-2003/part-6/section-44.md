@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Short-term detention in hospital[^key-08267a6d235c6384cd0db064cabc9a26][^key-6d5eedaecad5df5e32cee2bf848470ce]
+## 44. Short-term detention in hospital[^c-08267a6d235c6384cd0db064cabc9a26][^c-6d5eedaecad5df5e32cee2bf848470ce]
 
 *Extent: S*
 
@@ -28,17 +28,17 @@ summary: ''
 
 the approved medical practitioner may, before the expiry of the period of 3 days beginning with the completion of the medical examination, grant a short-term detention certificate authorising, if the condition mentioned in subsection (6) below is satisfied, the measures mentioned in subsection (5) below.
 
-(2) The patient falls within this subsection if, immediately before the medical examination mentioned in subsection (1)(a) above is carried out, the patient is subject to[^key-46e479ac812c07f9eb3b3d4f8d14e1b6]—
+(2) The patient falls within this subsection if, immediately before the medical examination mentioned in subsection (1)(a) above is carried out, the patient is subject to[^c-46e479ac812c07f9eb3b3d4f8d14e1b6]—
 
 - (a) a short-term detention certificate;
 - (b) an extension certificate;
 - (c) section 68 of this Act; or
-- (ca)[^key-38fcef2fd3d027404d05eb47774e2dc8] section 113(5) of this Act;
+- (ca)[^c-38fcef2fd3d027404d05eb47774e2dc8] section 113(5) of this Act;
 - (d) a certificate granted under section 114(2) or 115(2) of this Act.
 
 (3) This subsection applies where—
 
-- (a)[^key-e04bff6d793a3e65ff91533bb45af50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e04bff6d793a3e65ff91533bb45af50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the approved medical practitioner considers that it is likely that the conditions mentioned in subsection (4) below are met in respect of the patient;
 - (c) the approved medical practitioner consults a mental health officer; and
 - (d) the mental health officer consents to the grant of a short-term detention certificate.
@@ -67,7 +67,7 @@ the approved medical practitioner may, before the expiry of the period of 3 days
 
 (7) If an approved medical practitioner grants a short-term detention certificate in respect of a patient who, immediately before the certificate is granted, is in hospital, the approved medical practitioner shall, as soon as practicable after granting the certificate, give the certificate to the managers of that hospital.
 
-(8)[^key-565e93a3ff2d633f172d0cf705333054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-565e93a3ff2d633f172d0cf705333054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The short-term detention certificate—
 
@@ -78,22 +78,22 @@ the approved medical practitioner may, before the expiry of the period of 3 days
 
 (11) The approved medical practitioner need not consult a named person as mentioned in subsection (10) above in any case where it is impracticable to do so.
 
-(12)[^key-3026dcabf424ccf851da35c187386af3] In this section and sections 46 to 49 of this Act, a reference to a hospital may be read as a reference to a hospital unit.
+(12)[^c-3026dcabf424ccf851da35c187386af3] In this section and sections 46 to 49 of this Act, a reference to a hospital may be read as a reference to a hospital unit.
 
 (13) For the purposes of subsection (12) above, “**hospital unit**” means any part of a hospital which is treated as a separate unit.
 
 ## Annotations
 
-[^key-08267a6d235c6384cd0db064cabc9a26]: Commencement: S. 44 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-08267a6d235c6384cd0db064cabc9a26]: Commencement: S. 44 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-6d5eedaecad5df5e32cee2bf848470ce]: Commencement: S. 44 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-6d5eedaecad5df5e32cee2bf848470ce]: Commencement: S. 44 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-46e479ac812c07f9eb3b3d4f8d14e1b6]: Textual amendment: Words in s. 44(2) substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(4)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/4)
+[^c-46e479ac812c07f9eb3b3d4f8d14e1b6]: Textual amendment: Words in s. 44(2) substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(4)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/4)
 
-[^key-38fcef2fd3d027404d05eb47774e2dc8]: Textual amendment: S. 44(2)(ca) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 5(2)](https://www.legislation.gov.uk/asp/2015/9/section/5/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-38fcef2fd3d027404d05eb47774e2dc8]: Textual amendment: S. 44(2)(ca) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 5(2)](https://www.legislation.gov.uk/asp/2015/9/section/5/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-e04bff6d793a3e65ff91533bb45af50a]: Textual amendment: S. 44(3)(a) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(3)(b)(i)](https://www.legislation.gov.uk/asp/2015/9/section/29/3/b/i), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-e04bff6d793a3e65ff91533bb45af50a]: Textual amendment: S. 44(3)(a) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(3)(b)(i)](https://www.legislation.gov.uk/asp/2015/9/section/29/3/b/i), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-565e93a3ff2d633f172d0cf705333054]: Textual amendment: S. 44(8) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(3)(b)(ii)](https://www.legislation.gov.uk/asp/2015/9/section/29/3/b/ii), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-565e93a3ff2d633f172d0cf705333054]: Textual amendment: S. 44(8) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(3)(b)(ii)](https://www.legislation.gov.uk/asp/2015/9/section/29/3/b/ii), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-3026dcabf424ccf851da35c187386af3]: Textual amendment: S. 44(12)(13) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 11(3)](https://www.legislation.gov.uk/asp/2015/9/section/11/3), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-3026dcabf424ccf851da35c187386af3]: Textual amendment: S. 44(12)(13) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 11(3)](https://www.legislation.gov.uk/asp/2015/9/section/11/3), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

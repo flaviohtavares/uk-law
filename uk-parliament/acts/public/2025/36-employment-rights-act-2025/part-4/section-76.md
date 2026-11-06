@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Protection against detriment for taking industrial action[^key-5cdc7ff8c0851fa0c663c251ede8a3d6]
+## 76. Protection against detriment for taking industrial action[^c-5cdc7ff8c0851fa0c663c251ede8a3d6]
 
 *Extent: E+W+S*
 
-(1)[^key-5e11ac693ab5a0f0e21bba029e7c758f][^key-6db917337eb313c902a2a7299c75c06b] The Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with subsections (2) and (3).
+(1)[^c-5e11ac693ab5a0f0e21bba029e7c758f][^c-6db917337eb313c902a2a7299c75c06b] The Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with subsections (2) and (3).
 
-(2)[^key-9c01a1733e29bcd4f1e2ad28661a137b][^key-6db917337eb313c902a2a7299c75c06b] In Part 5 (industrial action), after section 236 insert—
+(2)[^c-9c01a1733e29bcd4f1e2ad28661a137b][^c-6db917337eb313c902a2a7299c75c06b] In Part 5 (industrial action), after section 236 insert—
 
 > **Protection against detriment**
 >
@@ -91,20 +91,20 @@ summary: ''
 >
 > (5) Where the tribunal finds that the act or failure complained of was to any extent caused or contributed to by action of the complainant, it must reduce the amount of the compensation by such proportion as it considers just and equitable having regard to that finding.
 
-(3)[^key-ff2cf8079ad7e6d0d1040e06a836fc35] In section 296 (meaning of “**worker**”), in subsection (3), for “and 151(1B)” substitute “, 151(1B) and 236A(8)”.
+(3)[^c-ff2cf8079ad7e6d0d1040e06a836fc35] In section 296 (meaning of “**worker**”), in subsection (3), for “and 151(1B)” substitute “, 151(1B) and 236A(8)”.
 
-(4)[^key-ff2cf8079ad7e6d0d1040e06a836fc35] In section 18 of the Employment Tribunals Act 1996 (conciliation: relevant proceedings), in subsection (1)(a), for “or 192” substitute “, 192 or 236A”.
+(4)[^c-ff2cf8079ad7e6d0d1040e06a836fc35] In section 18 of the Employment Tribunals Act 1996 (conciliation: relevant proceedings), in subsection (1)(a), for “or 192” substitute “, 192 or 236A”.
 
-(5)[^key-ff2cf8079ad7e6d0d1040e06a836fc35] In section 104 of the Employment Rights Act 1996 (unfair dismissal for assertion of statutory rights), in subsection (4)(c), for “and 170” substitute “, 170 and 236A”.
+(5)[^c-ff2cf8079ad7e6d0d1040e06a836fc35] In section 104 of the Employment Rights Act 1996 (unfair dismissal for assertion of statutory rights), in subsection (4)(c), for “and 170” substitute “, 170 and 236A”.
 
 ## Annotations
 
-[^key-5cdc7ff8c0851fa0c663c251ede8a3d6]: Commencement: S. 76 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-5cdc7ff8c0851fa0c663c251ede8a3d6]: Commencement: S. 76 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5e11ac693ab5a0f0e21bba029e7c758f]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(23)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/a)
+[^c-5e11ac693ab5a0f0e21bba029e7c758f]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(23)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/a)
 
-[^key-6db917337eb313c902a2a7299c75c06b]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2) in force at 18.2.2026 in so far as not already in force by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)
+[^c-6db917337eb313c902a2a7299c75c06b]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2) in force at 18.2.2026 in so far as not already in force by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)
 
-[^key-9c01a1733e29bcd4f1e2ad28661a137b]: Commencement: [S. 76(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(23)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/b)
+[^c-9c01a1733e29bcd4f1e2ad28661a137b]: Commencement: [S. 76(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(23)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/b)
 
-[^key-ff2cf8079ad7e6d0d1040e06a836fc35]: Commencement: [S. 76(3)-(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/3) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)
+[^c-ff2cf8079ad7e6d0d1040e06a836fc35]: Commencement: [S. 76(3)-(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/3) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)

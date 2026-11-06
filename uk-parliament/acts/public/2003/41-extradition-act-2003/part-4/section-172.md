@@ -37,7 +37,7 @@ summary: ''
 - (a) the territory in which the Part 1 warrant was issued, in a case where the applicable extradition arrest power is a Part 1 warrant in respect of which a certificate under section 2 has been issued;
 - (b) the territory in which a constable has reasonable grounds for believing that a Part 1 warrant has been or will be issued, in a case where the applicable extradition arrest power is section 5;
 - (c) the territory to which a person’s extradition is requested, in a case where the applicable extradition arrest power is a warrant issued under section 71;
-- (d) the territory in which a person is accused of the commission of an offence or has been convicted of an offence, in a case where the applicable extradition arrest power is a provisional warrant or section 74A.[^key-0f9ff33eba5910477bf27fe0cd72d89c]
+- (d) the territory in which a person is accused of the commission of an offence or has been convicted of an offence, in a case where the applicable extradition arrest power is a provisional warrant or section 74A.[^c-0f9ff33eba5910477bf27fe0cd72d89c]
 
 (5) The applicable extradition arrest power is—
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c2087247]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-0f9ff33eba5910477bf27fe0cd72d89c]: Textual amendment: Words in s. 172(4)(d) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/18); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-0f9ff33eba5910477bf27fe0cd72d89c]: Textual amendment: Words in s. 172(4)(d) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/18); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)

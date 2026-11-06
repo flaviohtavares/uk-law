@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Criminal lifestyle[^key-b90e7fdf8040efee84fd683d6e275dc8][^key-e3634034bab4be7cd4cb838ceea63874][^key-e3634034bab4be7cd4cb838ceea63874]
+## 223. Criminal lifestyle[^c-b90e7fdf8040efee84fd683d6e275dc8][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
@@ -46,16 +46,16 @@ summary: ''
 - (a) benefit from conduct which constitutes the offence;
 - (b) benefit from conduct which constitutes an offence which has been or will be taken into consideration by the court in sentencing the defendant for the offence mentioned in paragraph (a).
 
-(7) The Department of Justice in Northern Ireland[^key-ce789f365d56be77bedcac57c0913f70] may by order amend Schedule 5.
+(7) The Department of Justice in Northern Ireland[^c-ce789f365d56be77bedcac57c0913f70] may by order amend Schedule 5.
 
-(8) The Department of Justice in Northern Ireland[^key-63f6c38b95d0216c8f6c6a71c8f3d10d] may by order vary the amount for the time being specified in subsection (4).
+(8) The Department of Justice in Northern Ireland[^c-63f6c38b95d0216c8f6c6a71c8f3d10d] may by order vary the amount for the time being specified in subsection (4).
 
 ## Annotations
 
-[^key-b90e7fdf8040efee84fd683d6e275dc8]: Commencement: S. 223 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/333/article/8)) (as amended (6.3.2003) by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531), art. 3)
+[^c-b90e7fdf8040efee84fd683d6e275dc8]: Commencement: S. 223 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/333/article/8)) (as amended (6.3.2003) by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531), art. 3)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
-[^key-ce789f365d56be77bedcac57c0913f70]: Textual amendment: Words in s. 223(7) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 51(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/51/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ce789f365d56be77bedcac57c0913f70]: Textual amendment: Words in s. 223(7) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 51(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/51/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-63f6c38b95d0216c8f6c6a71c8f3d10d]: Textual amendment: Words in s. 223(8) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 51(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/51/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-63f6c38b95d0216c8f6c6a71c8f3d10d]: Textual amendment: Words in s. 223(8) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 51(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/51/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

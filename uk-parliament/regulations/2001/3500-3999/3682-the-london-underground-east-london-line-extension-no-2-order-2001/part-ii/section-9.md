@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Access to works[^key-ab1fea67b7b17dc2e42e3ed7fb043bd4]
+## 9. Access to works[^c-ab1fea67b7b17dc2e42e3ed7fb043bd4]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The Company may, for the purposes of the authorised works—
 
 ## Annotations
 
-[^key-ab1fea67b7b17dc2e42e3ed7fb043bd4]: Commencement: Art. 9 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-ab1fea67b7b17dc2e42e3ed7fb043bd4]: Commencement: Art. 9 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

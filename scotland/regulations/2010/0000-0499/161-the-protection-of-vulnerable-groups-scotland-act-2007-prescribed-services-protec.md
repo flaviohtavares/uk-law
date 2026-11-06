@@ -32,7 +32,7 @@ summary: ''
 
 Protection Of Vulnerable Adults
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Prescribed Services) (Protected Adults) Regulations 2010 (revoked)[^key-7ada7555a826f5d83aee3fd8da4e0fe1]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Prescribed Services) (Protected Adults) Regulations 2010 (revoked)[^c-7ada7555a826f5d83aee3fd8da4e0fe1]
 
 Made
 
@@ -44,36 +44,36 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-7ada7555a826f5d83aee3fd8da4e0fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ada7555a826f5d83aee3fd8da4e0fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7ada7555a826f5d83aee3fd8da4e0fe1]
+## 1. Citation and commencement[^c-7ada7555a826f5d83aee3fd8da4e0fe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7ada7555a826f5d83aee3fd8da4e0fe1]
+## 2. Interpretation[^c-7ada7555a826f5d83aee3fd8da4e0fe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed services[^key-7ada7555a826f5d83aee3fd8da4e0fe1]
+## 3. Prescribed services[^c-7ada7555a826f5d83aee3fd8da4e0fe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5A.**[^key-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5A.**[^c-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ada7555a826f5d83aee3fd8da4e0fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ada7555a826f5d83aee3fd8da4e0fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ada7555a826f5d83aee3fd8da4e0fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ada7555a826f5d83aee3fd8da4e0fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ada7555a826f5d83aee3fd8da4e0fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ada7555a826f5d83aee3fd8da4e0fe1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/161) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/1) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-7ada7555a826f5d83aee3fd8da4e0fe1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/161) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/1) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where the premises are a workplace, the responsible person must ensure that any duty imposed by articles 8 to 22B[^key-763f9dadba1d5b5b7c38333f96e44ab9] or by regulations made under article 24 is complied with in respect of those premises.
+(1) Where the premises are a workplace, the responsible person must ensure that any duty imposed by articles 8 to 22B[^c-763f9dadba1d5b5b7c38333f96e44ab9] or by regulations made under article 24 is complied with in respect of those premises.
 
 (2) Where the premises are not a workplace, the responsible person must ensure that any duty imposed by articles 8 to 22B or by regulations made under article 24 is complied with in respect of those premises, so far as the requirements relate to matters within his control.
 
@@ -37,4 +37,4 @@ that person is to be treated, for the purposes of paragraph (3), as being a pers
 
 ## Annotations
 
-[^key-763f9dadba1d5b5b7c38333f96e44ab9]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/uksi/2005/1541/article/5) substituted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/2), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
+[^c-763f9dadba1d5b5b7c38333f96e44ab9]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/uksi/2005/1541/article/5) substituted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/2), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)

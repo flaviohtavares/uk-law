@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.11. Use of deposition at a hearing[^key-275836bbeafb87011f45dedf958fefce]
+## 34.11. Use of deposition at a hearing[^c-275836bbeafb87011f45dedf958fefce]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-275836bbeafb87011f45dedf958fefce]: Commencement: [Rule 34.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-275836bbeafb87011f45dedf958fefce]: Commencement: [Rule 34.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

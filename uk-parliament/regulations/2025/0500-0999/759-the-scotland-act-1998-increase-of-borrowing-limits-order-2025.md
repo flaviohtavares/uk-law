@@ -34,7 +34,7 @@ CONSTITUTIONAL LAW
 
 DEVOLUTION, SCOTLAND
 
-The Scotland Act 1998 (Increase of Borrowing Limits) Order 2025 (revoked)[^key-71b9a25be0700f46a4585108987a98fc]
+The Scotland Act 1998 (Increase of Borrowing Limits) Order 2025 (revoked)[^c-71b9a25be0700f46a4585108987a98fc]
 
 Made
 
@@ -42,28 +42,28 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-71b9a25be0700f46a4585108987a98fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71b9a25be0700f46a4585108987a98fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-71b9a25be0700f46a4585108987a98fc]
+## 1. Citation, commencement and extent[^c-71b9a25be0700f46a4585108987a98fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Scotland Act 1998[^key-71b9a25be0700f46a4585108987a98fc]
+## 2. Amendments to the Scotland Act 1998[^c-71b9a25be0700f46a4585108987a98fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Scotland Act 1998 (Increase of Borrowing Limits) Order 2024[^key-71b9a25be0700f46a4585108987a98fc]
+## 3. Revocation of the Scotland Act 1998 (Increase of Borrowing Limits) Order 2024[^c-71b9a25be0700f46a4585108987a98fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-71b9a25be0700f46a4585108987a98fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71b9a25be0700f46a4585108987a98fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-71b9a25be0700f46a4585108987a98fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71b9a25be0700f46a4585108987a98fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-71b9a25be0700f46a4585108987a98fc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/759) revoked (30.6.2026) by [The Scotland Act 1998 (Increase of Borrowing Limits) Order 2026 (S.I. 2026/713)](https://www.legislation.gov.uk/uksi/2026/713), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/713/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/713/article/3)
+[^c-71b9a25be0700f46a4585108987a98fc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/759) revoked (30.6.2026) by [The Scotland Act 1998 (Increase of Borrowing Limits) Order 2026 (S.I. 2026/713)](https://www.legislation.gov.uk/uksi/2026/713), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/713/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/713/article/3)

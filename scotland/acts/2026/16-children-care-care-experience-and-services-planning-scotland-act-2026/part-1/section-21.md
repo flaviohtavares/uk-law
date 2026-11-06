@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Provision of accommodation for care-experienced persons[^key-fa11d2b26440afd3d884a68b1fd2c6dc]
+## 21. Provision of accommodation for care-experienced persons[^c-fa11d2b26440afd3d884a68b1fd2c6dc]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa11d2b26440afd3d884a68b1fd2c6dc]: Commencement: S. 21 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-fa11d2b26440afd3d884a68b1fd2c6dc]: Commencement: S. 21 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

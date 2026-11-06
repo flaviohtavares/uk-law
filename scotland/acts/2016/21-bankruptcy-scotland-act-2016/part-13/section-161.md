@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 161. Bankruptcy restrictions orders and interim bankruptcy restrictions orders: effect of recall of sequestration[^key-06c1d0279eb489bbc465d57ebe35e221]
+## 161. Bankruptcy restrictions orders and interim bankruptcy restrictions orders: effect of recall of sequestration[^c-06c1d0279eb489bbc465d57ebe35e221]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06c1d0279eb489bbc465d57ebe35e221]: Commencement: [S. 161](https://www.legislation.gov.uk/asp/2016/21/section/161) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-06c1d0279eb489bbc465d57ebe35e221]: Commencement: [S. 161](https://www.legislation.gov.uk/asp/2016/21/section/161) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**11.**[^key-446de562a86b265df9adb3c7f1e6a69a] In rule 17.2(4) (Notice of waiver), for “Under Secretary of State, Home Office, London SW1H 9AT”, substitute “Secretary of State for the Home Department, c/o Extradition Section, Home Office, 5th Floor, Fry Building, 2 Marsham Street, London SW1P 4DF”.
+**11.**[^c-446de562a86b265df9adb3c7f1e6a69a] In rule 17.2(4) (Notice of waiver), for “Under Secretary of State, Home Office, London SW1H 9AT”, substitute “Secretary of State for the Home Department, c/o Extradition Section, Home Office, 5th Floor, Fry Building, 2 Marsham Street, London SW1P 4DF”.
 
 ## Annotations
 
-[^key-446de562a86b265df9adb3c7f1e6a69a]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2009/2087/article/11) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-446de562a86b265df9adb3c7f1e6a69a]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2009/2087/article/11) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

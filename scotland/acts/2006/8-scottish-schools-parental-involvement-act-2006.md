@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Involvement , ambitions , objectives and performance
 
-### 1. Duty of Scottish Ministers and of education authorities to promote involvement of parents in school education etc[^key-a091971e6194973548bab3dfa244f961]
+### 1. Duty of Scottish Ministers and of education authorities to promote involvement of parents in school education etc[^c-a091971e6194973548bab3dfa244f961]
 
 (1) It is the duty of the Scottish Ministers to promote the involvement of the parents of pupils in attendance at public schools in the education provided to those pupils by the schools.
 
@@ -47,7 +47,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Except where the context otherwise requires, in this Act “**education**” means school education and includes such provision as is made by an education authority in fulfilment of their duty under section 1(3)(b) of the Education (Scotland) Act 1980 (c. 44) (duty to secure the provision of adequate facilities for social, cultural and recreative activities and for physical education and training).
 
-### 2. Strategies for parental involvement[^key-604a0aba69e7eef46ab8429c5d20118a]
+### 2. Strategies for parental involvement[^c-604a0aba69e7eef46ab8429c5d20118a]
 
 (1) Each education authority must prepare a document, to be known as their “strategy for parental involvement”, containing their general policies for implementing their duties under sections 1, 5, 11 and 12 (including, without prejudice to that generality, such implementation in the case of any pupil who is a child looked after by a local authority); and the complaints procedure established by the authority under section 15 must be set out in the document.
 
@@ -65,31 +65,31 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (c) any Parent Council established for a school in their area, and
 - (d) any other person who appears to the authority to have an interest in their implementation of those duties or of the duty under section 15(1).
 
-(4A)[^key-d91123f5ed0cd95c2d687d71915ca15d] Each education authority must publish—
+(4A)[^c-d91123f5ed0cd95c2d687d71915ca15d] Each education authority must publish—
 
 - (a) their strategy for parental involvement prepared under subsection (1), and
 - (b) any strategy for parental involvement revised by the authority under subsection (3)(b).
 
-(5)[^key-e66af6f2c51b8612bc0f947fbc4fc585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e66af6f2c51b8612bc0f947fbc4fc585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 5(2) of the Standards in Scotland's Schools etc. Act 2000 (asp 6) (requirement for annual statement of education improvement objectives to include an account of the ways in which the authority will seek to involve a pupil's parents in promoting the education of the pupil), at the beginning of paragraph (a) there is inserted “ (prepared under section 2(1) of the Scottish Schools (Parental Involvement) Act 2006 (asp 8) as part of the authority's strategy for parental involvement) ”.
 
 (7) The reference in subsection (1) to a child who is looked after by a local authority is to be construed in accordance with section 17(6) of the Children (Scotland) Act 1995 (c. 36) (duty of local authority to child looked after by them).
 
-### 2A. Strategy for parental involvement: annual report[^key-8ee219f93a68d3f638faea1074394853]
+### 2A. Strategy for parental involvement: annual report[^c-8ee219f93a68d3f638faea1074394853]
 
 (1) Each education authority must prepare and publish each year a report (an “annual report”) on the activities undertaken by the authority during the relevant period in pursuance of the general policies set out in the authority's strategy for parental involvement.
 
 (2) In subsection (1), “**relevant period**”, in relation to an annual report, means the period of 12 months ending with the day on which the report is published.
 
-### 3. Ambitions and objectives for a school[^key-688a642f43440ee7b7fb85b9f3f7d052]
+### 3. Ambitions and objectives for a school[^c-688a642f43440ee7b7fb85b9f3f7d052]
 
 In section 6(1)(a) of the Standards in Scotland's Schools etc. Act 2000 (asp 6) (which, for the purpose of securing improvement in the quality of education which a school provides, requires the preparation of a development plan for the school)–
 
 - (a) after the words “the objectives” there is inserted “ and strategy for parental involvement ”, and
 - (b) for the words “and sets objectives for the school” there is substituted “ , sets objectives for the school (including objectives as to the involvement of a pupil's parents in the education provided to the pupil and to the school's pupils generally) and contains a statement of the education authority's ambitions for the school ”.
 
-### 4. Review of school performance[^key-bdb84a8338ece042e52a222fba0dbe8d]
+### 4. Review of school performance[^c-bdb84a8338ece042e52a222fba0dbe8d]
 
 In section 7 of the Standards in Scotland's Schools etc. Act 2000 (asp 6) (which provides for the defining of measures and standards of performance as respects the quality of education provided by schools and for the quality of education provided by a school to be reviewed from time to time having regard to those measures and standards), at the end there is added–
 
@@ -99,7 +99,7 @@ In section 7 of the Standards in Scotland's Schools etc. Act 2000 (asp 6) (which
 
 ## Parent Forums and Parent Councils
 
-### 5. Parent Forum and Parent Council[^key-c216c6b60dc8244aabf3fae7586fda10]
+### 5. Parent Forum and Parent Council[^c-c216c6b60dc8244aabf3fae7586fda10]
 
 (1) The parents of the pupils in attendance at a public school constitute (and are collectively to be known as) the “Parent Forum” of the school.
 
@@ -116,25 +116,25 @@ a Parent Council.
 
 ### 6. Scheme for establishment of a Parent Council
 
-(1)[^key-7020922e4803ca51087495ab6537c1f2] For the purposes of section 5(2) and (3)(a) the education authority are to notify in writing the members of the Parent Forum of a public school in their area of the authority's intention to prepare a scheme for the establishment of a Parent Council for the school, inviting them to indicate, within such reasonable period as they are to specify in the notice, a preference as to how the council is to be constituted and what its constitution is to be; and the notice is to suggest alternatives in that regard framed in accordance with such guidance as may be issued by the Scottish Ministers but to state that those alternatives are offered only by way of example.
+(1)[^c-7020922e4803ca51087495ab6537c1f2] For the purposes of section 5(2) and (3)(a) the education authority are to notify in writing the members of the Parent Forum of a public school in their area of the authority's intention to prepare a scheme for the establishment of a Parent Council for the school, inviting them to indicate, within such reasonable period as they are to specify in the notice, a preference as to how the council is to be constituted and what its constitution is to be; and the notice is to suggest alternatives in that regard framed in accordance with such guidance as may be issued by the Scottish Ministers but to state that those alternatives are offered only by way of example.
 
-(2)[^key-7020922e4803ca51087495ab6537c1f2] But notification under subsection (1) is to include an invitation to indicate, instead of any such preference as is mentioned in that subsection, a preference either–
+(2)[^c-7020922e4803ca51087495ab6537c1f2] But notification under subsection (1) is to include an invitation to indicate, instead of any such preference as is mentioned in that subsection, a preference either–
 
 - (a) that no such scheme should be prepared, or
 - (b) that any such scheme prepared should be prepared by a person other than the education authority.
 
-(3)[^key-7020922e4803ca51087495ab6537c1f2] Having regard to such preferences as are indicated by virtue of subsection (1) and in so far as practicable giving effect to the preference of the greatest number of the members responding, the authority are, when the period specified under that subsection has expired, to prepare the scheme, to send a copy of it to each member and to make such arrangements as are necessary to implement it.
+(3)[^c-7020922e4803ca51087495ab6537c1f2] Having regard to such preferences as are indicated by virtue of subsection (1) and in so far as practicable giving effect to the preference of the greatest number of the members responding, the authority are, when the period specified under that subsection has expired, to prepare the scheme, to send a copy of it to each member and to make such arrangements as are necessary to implement it.
 
-(4)[^key-7020922e4803ca51087495ab6537c1f2] But if the preference of the greatest number of the members responding before the period so specified has expired is as mentioned in–
+(4)[^c-7020922e4803ca51087495ab6537c1f2] But if the preference of the greatest number of the members responding before the period so specified has expired is as mentioned in–
 
 - (a) paragraph (a) of subsection (2), subsection (3) is to be disregarded,
 - (b) paragraph (b) of subsection (2), subsection (3) is to be disregarded and provided that the majority of the members so responding and indicating that preference can agree as to which person other than the authority is to prepare such a scheme, that person may proceed to do so and to send a copy of it to each of the members of the Parent Forum, inviting the member in question to indicate, within such reasonable period as the person may specify in the invitation, whether the member agrees that the scheme should be implemented.
 
-(5)[^key-7020922e4803ca51087495ab6537c1f2] If the majority of the members who respond timeously to an invitation under subsection (4)(b) indicate agreement, the person who prepared the scheme may make such arrangements as are necessary to implement the scheme.
+(5)[^c-7020922e4803ca51087495ab6537c1f2] If the majority of the members who respond timeously to an invitation under subsection (4)(b) indicate agreement, the person who prepared the scheme may make such arrangements as are necessary to implement the scheme.
 
-(6)[^key-7020922e4803ca51087495ab6537c1f2] The arrangements mentioned in subsections (3) and (5) must include the preparation of a constitution for the Parent Council.
+(6)[^c-7020922e4803ca51087495ab6537c1f2] The arrangements mentioned in subsections (3) and (5) must include the preparation of a constitution for the Parent Council.
 
-(7)[^key-964257519a0b9de9a7fc52a7b0192021] A Parent Council is established when first constituted by virtue of arrangements made under subsection (3) or (5); and is, as soon as practicable thereafter–
+(7)[^c-964257519a0b9de9a7fc52a7b0192021] A Parent Council is established when first constituted by virtue of arrangements made under subsection (3) or (5); and is, as soon as practicable thereafter–
 
 - (a) to intimate to–
   - (i) the headteacher,
@@ -147,13 +147,13 @@ a Parent Council.
 - (c) if the education authority did not prepare the constitution of the council, to provide the education authority with a copy of that constitution, and
 - (d) to provide the headteacher with a copy of that constitution.
 
-(8)[^key-964257519a0b9de9a7fc52a7b0192021] A Parent Council is to be known as “**the Parent Council**” unless the Parent Forum otherwise determines, in which case it is to be known by whatever name the Parent Forum may specify.
+(8)[^c-964257519a0b9de9a7fc52a7b0192021] A Parent Council is to be known as “**the Parent Council**” unless the Parent Forum otherwise determines, in which case it is to be known by whatever name the Parent Forum may specify.
 
-(9)[^key-964257519a0b9de9a7fc52a7b0192021] Intimation under subsection (7)(a)(ii) or (iv) is to include a note of the functions of the Parent Council under subsection (1) of section 8 and, where applicable, under subsection (2) of that section.
+(9)[^c-964257519a0b9de9a7fc52a7b0192021] Intimation under subsection (7)(a)(ii) or (iv) is to include a note of the functions of the Parent Council under subsection (1) of section 8 and, where applicable, under subsection (2) of that section.
 
-(10)[^key-964257519a0b9de9a7fc52a7b0192021] The preceding provisions of this section are subject to sections 7 and 16(15).
+(10)[^c-964257519a0b9de9a7fc52a7b0192021] The preceding provisions of this section are subject to sections 7 and 16(15).
 
-### 7. Restrictions as to composition and chairing of a Parent Council[^key-254bc69a87d4ec010bf91ecaf4f4836d]
+### 7. Restrictions as to composition and chairing of a Parent Council[^c-254bc69a87d4ec010bf91ecaf4f4836d]
 
 (1) Subject to subsection (2), the members of the Parent Council established for a school must be members of the school's Parent Forum or (but only if and in so far as the constitution of the council so admits) persons who are co-opted to the council by the persons who for the time being are its members.
 
@@ -166,7 +166,7 @@ a Parent Council.
 
 (4) Only a person who is a member of a school's Parent Forum may chair a Parent Council established for that school.
 
-### 8. Functions of a Parent Council[^key-a1bedb19d0866d2af08060eff7ce923c]
+### 8. Functions of a Parent Council[^c-a1bedb19d0866d2af08060eff7ce923c]
 
 (1) The functions of the Parent Council established for a school are–
 
@@ -214,12 +214,12 @@ a Parent Council.
 
 as regards that matter.
 
-(5) But before making representations under paragraph (c) of subsection (4) to His Majesty’s Chief Inspector of Education in Scotland,[^key-23bc47b1fd59a6308f237765b95f318c] the Parent Council—
+(5) But before making representations under paragraph (c) of subsection (4) to His Majesty’s Chief Inspector of Education in Scotland,[^c-23bc47b1fd59a6308f237765b95f318c] the Parent Council—
 
 - (a) must have made those representations under paragraph (b) of that subsection and received a reply under section 11(7)(a), and
 - (b) except in a case where it considers it inappropriate to do so, must have made those representations under paragraph (a) of that subsection and received a reply under section 11(7)(b).
 
-(6) Where by virtue of subsection (5) His Majesty’s Chief Inspector of Education in Scotland receives[^key-7233893df84040f07c9182ffb5c49cdb] representations from a Parent Council , the Chief Inspector is[^key-733892c60e6318233083ddbc3ad98a69] to have regard to those representations (in so far as it is reasonable and practicable to do so) in carrying out the Chief Inspector’s functions and is[^key-62f3e9eae13343e66f7b351df8ed87d2] to reply to the council.
+(6) Where by virtue of subsection (5) His Majesty’s Chief Inspector of Education in Scotland receives[^c-7233893df84040f07c9182ffb5c49cdb] representations from a Parent Council , the Chief Inspector is[^c-733892c60e6318233083ddbc3ad98a69] to have regard to those representations (in so far as it is reasonable and practicable to do so) in carrying out the Chief Inspector’s functions and is[^c-62f3e9eae13343e66f7b351df8ed87d2] to reply to the council.
 
 (7) In subsection (1)(h), “requisite consent”–
 
@@ -260,7 +260,7 @@ is duly complied with.
 
 (16) A Parent Council ceases to exist when the school for which it is established is discontinued or amalgamated with another school.
 
-### 9. Meetings of a Parent Council[^key-878b2a15f1a3d0913668e3a0e8ce852b]
+### 9. Meetings of a Parent Council[^c-878b2a15f1a3d0913668e3a0e8ce852b]
 
 (1) Except in so far as the headteacher of, and the Parent Council established for, a school otherwise agree, the headteacher has both the duty and the right either–
 
@@ -276,7 +276,7 @@ any meeting of that council.
 - (a) members of the council, and
 - (b) a person attending the meeting in accordance with subsection (1).
 
-### 10. Financial powers of a Parent Council[^key-1302ffba41c8d738898036c8d4664f32]
+### 10. Financial powers of a Parent Council[^c-1302ffba41c8d738898036c8d4664f32]
 
 (1) A Parent Council may–
 
@@ -295,7 +295,7 @@ and may expend any sums so received at its discretion.
 
 ## Duties , reports , appointments and complaints
 
-### 11. Duties of education authority and headteacher to a Parent Council etc[^key-5565f3bae41d5f578452dc5290aae413]
+### 11. Duties of education authority and headteacher to a Parent Council etc[^c-5565f3bae41d5f578452dc5290aae413]
 
 .
 
@@ -323,7 +323,7 @@ and may expend any sums so received at its discretion.
 - (a) an education authority receive representations from a Parent Council established for a school in their area, the authority are to have regard to the representations (in so far as it is reasonable and practicable to do so) in carrying out their functions and are to reply to the council, or
 - (b) a school's headteacher receives representations from the Parent Council of the school, the headteacher is to have regard to the representations (in so far as it is reasonable and practicable to do so) in carrying out the duties of that post and is to reply to the council.
 
-### 12. Duties of education authority to parents generally[^key-5aa203b468ab0650edb5dc9c8defaea4]
+### 12. Duties of education authority to parents generally[^c-5aa203b468ab0650edb5dc9c8defaea4]
 
 (1) An education authority are to give advice and information to any parent of a pupil in attendance at a public school in their area when that parent reasonably requests it from them on any matter relating to the education provided to that pupil.
 
@@ -332,7 +332,7 @@ and may expend any sums so received at its discretion.
 - (a) are available to give such advice and information to the parent in question, and
 - (b) in giving it act in a manner consistent with the authority's duties under this Act.
 
-### 13. Headteacher's report to Parent Council, Combined Parent Council or Parent Forum[^key-a4e437bf81e29628d27adfe4ecc4334e]
+### 13. Headteacher's report to Parent Council, Combined Parent Council or Parent Forum[^c-a4e437bf81e29628d27adfe4ecc4334e]
 
 (1) The headteacher of a public school must at least once a year report–
 
@@ -353,7 +353,7 @@ evaluating the performance of the school and stating what the headteacher's obje
 
 (4) The headteacher is to secure that each member of the Parent Forum receives a copy of that summary.
 
-### 14. Procedures for appointment of headteacher or deputy and participation of a Parent Council[^key-75e0819d15f264f450a8098fff8fc7e0][^key-b36182c3751551e70ede22b227006a4c]
+### 14. Procedures for appointment of headteacher or deputy and participation of a Parent Council[^c-75e0819d15f264f450a8098fff8fc7e0][^c-b36182c3751551e70ede22b227006a4c]
 
 (1) An education authority are to inform–
 
@@ -376,7 +376,7 @@ about the authority's procedures (in this section referred to as their “**appo
 - (a) by regulations, impose requirements which an appointment process must satisfy,
 - (b) by notice, require an education authority to make such changes to their appointment process as may be specified in the notice.
 
-### 15. Complaints procedure[^key-b08e1a47be693390cb454c028eb0b42c]
+### 15. Complaints procedure[^c-b08e1a47be693390cb454c028eb0b42c]
 
 (1) An education authority are to establish a procedure by which a person, or someone acting on a person's behalf, may make complaints (or other representations) in relation to the exercise by the authority of, or failure by them to exercise, any of their functions under this Act in respect of the person.
 
@@ -397,28 +397,28 @@ on the authority's proposals in that regard.
 
 ### 16. Establishment etc. of Combined Parent Council
 
-(1)[^key-75dc7785508742315d6f0c093f85f571] With the requisite consent, the members of the Parent Forums of two or more schools in the area of an education authority may decide that a body (to be known as a “**Combined Parent Council**”) should be established for both, or as the case may be all, of the schools (in this section and in section 17 referred to as the “**represented schools**”).
+(1)[^c-75dc7785508742315d6f0c093f85f571] With the requisite consent, the members of the Parent Forums of two or more schools in the area of an education authority may decide that a body (to be known as a “**Combined Parent Council**”) should be established for both, or as the case may be all, of the schools (in this section and in section 17 referred to as the “**represented schools**”).
 
-(2)[^key-75dc7785508742315d6f0c093f85f571] In subsection (1), “requisite consent”–
+(2)[^c-75dc7785508742315d6f0c093f85f571] In subsection (1), “requisite consent”–
 
 - (a) is consent obtained after each member of the Parent Forum in each of the represented schools has been given written notice of the proposed decision with an invitation to the member in question to indicate, within such reasonable time as the proposer may specify in the invitation, whether the member agrees that the decision be taken, and
 - (b) is the consent of, in each of those schools, the majority of such members of the parent forum as respond timeously to that invitation.
 
-(3)[^key-75dc7785508742315d6f0c093f85f571] It is immaterial, for the purposes of this section, whether as respects any of the represented schools a scheme for the establishment of a Parent Council is being, or has been, prepared or a Parent Council has been established.
+(3)[^c-75dc7785508742315d6f0c093f85f571] It is immaterial, for the purposes of this section, whether as respects any of the represented schools a scheme for the establishment of a Parent Council is being, or has been, prepared or a Parent Council has been established.
 
-(4)[^key-75dc7785508742315d6f0c093f85f571] Except that any such Parent Council ceases to exist when the Combined Parent Council is established.
+(4)[^c-75dc7785508742315d6f0c093f85f571] Except that any such Parent Council ceases to exist when the Combined Parent Council is established.
 
-(5)[^key-75dc7785508742315d6f0c093f85f571] Where by virtue of subsection (4) a Parent Council ceases to exist, any property belonging to it passes to the Combined Parent Council.
+(5)[^c-75dc7785508742315d6f0c093f85f571] Where by virtue of subsection (4) a Parent Council ceases to exist, any property belonging to it passes to the Combined Parent Council.
 
-(6)[^key-75dc7785508742315d6f0c093f85f571] If a decision is made under subsection (1), the education authority are–
+(6)[^c-75dc7785508742315d6f0c093f85f571] If a decision is made under subsection (1), the education authority are–
 
 - (a) to prepare a scheme for the establishment, by the Parent Forums, of the Combined Parent Council,
 - (b) to send a copy of that scheme to each of the members of the Parent Forums, and
 - (c) to make such arrangements as are necessary to implement the scheme.
 
-(7)[^key-75dc7785508742315d6f0c093f85f571] The arrangements mentioned in subsection (6)(c) must include the preparation of a constitution for the Combined Parent Council.
+(7)[^c-75dc7785508742315d6f0c093f85f571] The arrangements mentioned in subsection (6)(c) must include the preparation of a constitution for the Combined Parent Council.
 
-(8)[^key-0a8d7efdb0280cb9cf8d1e1282f2d266] A Combined Parent Council is established when first constituted by virtue of arrangements made under subsection (6); and is, as soon as practicable thereafter–
+(8)[^c-0a8d7efdb0280cb9cf8d1e1282f2d266] A Combined Parent Council is established when first constituted by virtue of arrangements made under subsection (6); and is, as soon as practicable thereafter–
 
 - (a) to intimate to–
   - (i) the headteachers of the represented schools,
@@ -430,36 +430,36 @@ on the authority's proposals in that regard.
 - (b) to provide them and the education authority with information as to who the members of the council are and as to how to communicate with it, and
 - (c) to provide each of the headteachers of the represented schools with a copy of that constitution.
 
-(9)[^key-0a8d7efdb0280cb9cf8d1e1282f2d266] The Combined Parent Council is itself to determine the name by which it is to be known.
+(9)[^c-0a8d7efdb0280cb9cf8d1e1282f2d266] The Combined Parent Council is itself to determine the name by which it is to be known.
 
-(10)[^key-0a8d7efdb0280cb9cf8d1e1282f2d266] Intimation under subsection (8)(a)(ii) or (iv) is to include a note of the functions of a Combined Parent Council as set out in section 8(1) and applied by subsection (12) (of this section).
+(10)[^c-0a8d7efdb0280cb9cf8d1e1282f2d266] Intimation under subsection (8)(a)(ii) or (iv) is to include a note of the functions of a Combined Parent Council as set out in section 8(1) and applied by subsection (12) (of this section).
 
-(11)[^key-0a8d7efdb0280cb9cf8d1e1282f2d266] Where one or more of the represented schools is a primary school, intimation under subsection (8)(a)(ii) or (iv) is also to include a note of the functions of a Combined Parent Council as set out in section 8(2) and applied by subsection (12) (of this section).
+(11)[^c-0a8d7efdb0280cb9cf8d1e1282f2d266] Where one or more of the represented schools is a primary school, intimation under subsection (8)(a)(ii) or (iv) is also to include a note of the functions of a Combined Parent Council as set out in section 8(2) and applied by subsection (12) (of this section).
 
-(12)[^key-0a8d7efdb0280cb9cf8d1e1282f2d266] Sections 2(4)(c), 7(1) and (4), 8(1) to (15), 9 to 11 and 14 apply, with the necessary modifications, in relation to a Combined Parent Council and the represented schools, as they apply in relation to a Parent Council and the school for which the Parent Council is established.
+(12)[^c-0a8d7efdb0280cb9cf8d1e1282f2d266] Sections 2(4)(c), 7(1) and (4), 8(1) to (15), 9 to 11 and 14 apply, with the necessary modifications, in relation to a Combined Parent Council and the represented schools, as they apply in relation to a Parent Council and the school for which the Parent Council is established.
 
-(13)[^key-75dc7785508742315d6f0c093f85f571] Subsection (14) applies where a Combined Parent Council is being established and one or more of the represented schools is a denominational school (within the meaning given by section 7(3)).
+(13)[^c-75dc7785508742315d6f0c093f85f571] Subsection (14) applies where a Combined Parent Council is being established and one or more of the represented schools is a denominational school (within the meaning given by section 7(3)).
 
-(14)[^key-75dc7785508742315d6f0c093f85f571] The constitution of the Combined Parent Council must provide for–
+(14)[^c-75dc7785508742315d6f0c093f85f571] The constitution of the Combined Parent Council must provide for–
 
 - (a) the church or denominational body in whose interest a represented school is conducted, or
 - (b) where there is more than one such church or denominational body, each church or body,
 
 to nominate at least one person to be a co-opted member of the council.
 
-(15)[^key-0a8d7efdb0280cb9cf8d1e1282f2d266] Sections 5(3) and 6(1) to (9) cease to apply in relation to any school on the making of a decision under subsection (1) by the members of Parent Forums which include the Parent Forum of the school but apply again to the school (either or both)–
+(15)[^c-0a8d7efdb0280cb9cf8d1e1282f2d266] Sections 5(3) and 6(1) to (9) cease to apply in relation to any school on the making of a decision under subsection (1) by the members of Parent Forums which include the Parent Forum of the school but apply again to the school (either or both)–
 
 - (a) on its withdrawing from the represented schools,
 - (b) on the Combined Parent Council established by virtue of that decision ceasing to exist.
 
-(16)[^key-0a8d7efdb0280cb9cf8d1e1282f2d266] A Combined Parent Council ceases to exist when, by virtue of a school–
+(16)[^c-0a8d7efdb0280cb9cf8d1e1282f2d266] A Combined Parent Council ceases to exist when, by virtue of a school–
 
 - (a) being discontinued or amalgamated with another school, or
 - (b) withdrawing from the represented schools,
 
 the “represented schools” no longer comprise more than one school.
 
-### 17. Withdrawal from represented schools[^key-93ec425384074b885887d8b1606351db]
+### 17. Withdrawal from represented schools[^c-93ec425384074b885887d8b1606351db]
 
 (1) With the requisite consent, the members of the Parent Forum of a school for which a Combined Parent Council is established may decide that the school withdraws from the represented schools.
 
@@ -470,7 +470,7 @@ the “represented schools” no longer comprise more than one school.
 
 ## Miscellaneous and general
 
-### 18. Abolition of School Boards[^key-01d2410e605f1414ed53a3000f3ce8dc]
+### 18. Abolition of School Boards[^c-01d2410e605f1414ed53a3000f3ce8dc]
 
 (1) The School Boards (Scotland) Act 1988 (c. 47) is repealed.
 
@@ -482,7 +482,7 @@ the “represented schools” no longer comprise more than one school.
 
 (5) In section 6(2)(a) of the Standards in Scotland's Schools etc. Act 2000 (persons to be consulted as regards preparation of school development plan), for the words “School Board” substitute “ Parent Council or Combined Parent Council ”.
 
-### 19. Guidance[^key-fad7bcf731ca692b53a96ba3491c3c23]
+### 19. Guidance[^c-fad7bcf731ca692b53a96ba3491c3c23]
 
 (1) The Scottish Ministers must issue guidance–
 
@@ -493,19 +493,19 @@ the “represented schools” no longer comprise more than one school.
 
 (3) Any such authority or council must have regard to any guidance issued to them or it under this section.
 
-### 20. Interpretation[^key-8afdf69a56e8b9f6753b18ff6e8f705a]
+### 20. Interpretation[^c-8afdf69a56e8b9f6753b18ff6e8f705a]
 
 (1) Unless the context otherwise requires, expressions used in this Act and in the Education (Scotland) Act 1980 (c. 44) have the same meaning in this Act as is given to them by section 135 of that Act except that “**pupil**” includes a child who is under school age only if that child is in attendance at a primary school (whether or not in a nursery class in such a school).
 
 (2) In this Act, “**equal opportunities**” and “**equal opportunity requirements**” have the same meanings as in Section L2 of Part II of Schedule 5 to the Scotland Act 1998 (c. 46).
 
-### 21. Transitional provisions etc.[^key-a6d4d80481ebdafeef241b3e082a716b]
+### 21. Transitional provisions etc.[^c-a6d4d80481ebdafeef241b3e082a716b]
 
 (1) The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes, or in consequence, of this Act.
 
 (2) An order under subsection (1) may amend or repeal any enactment (other than any provision of this Act).
 
-### 22. Orders and regulations[^key-a77b7d062e20e2ec1615e1fa0b47ae30]
+### 22. Orders and regulations[^c-a77b7d062e20e2ec1615e1fa0b47ae30]
 
 (1) Any power of the Scottish Ministers to make an order or regulations under this Act is exercisable by statutory instrument.
 
@@ -520,7 +520,7 @@ is not made unless a draft of the instrument has been laid before, and approved 
 
 (4) Without prejudice to section 24(2), an order or regulations under this Act may make different provision for different cases or classes of case and for different purposes.
 
-### 23. Repeals[^key-6047a8998c21b9dd6bb39d79ef48c239][^key-35ad269871a3ca733f0e9b9127e45c6b]
+### 23. Repeals[^c-6047a8998c21b9dd6bb39d79ef48c239][^c-35ad269871a3ca733f0e9b9127e45c6b]
 
 There are repealed, to the extent specified in the second column of the schedule to this Act, the enactments mentioned in that schedule.
 
@@ -530,7 +530,7 @@ There are repealed, to the extent specified in the second column of the schedule
 
 (2) This Act, except this section, comes into force on such day as the Scottish Ministers may by order appoint; but different days may be appointed for different provisions, for different areas, for different purposes or for different cases or classes of case.
 
-## SCHEDULE — REPEALS[^key-fcdbeaeaf6d1e3547947d6e1a4b3aec8][^key-bd8f8f074fec460e4d3324ea5cf24f07]
+## SCHEDULE — REPEALS[^c-fcdbeaeaf6d1e3547947d6e1a4b3aec8][^c-bd8f8f074fec460e4d3324ea5cf24f07]
 
 (introduced by section 23)
 
@@ -546,74 +546,74 @@ There are repealed, to the extent specified in the second column of the schedule
 
 ## Annotations
 
-[^key-a091971e6194973548bab3dfa244f961]: Commencement: S. 1 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(a)](https://www.legislation.gov.uk/ssi/2006/454/article/2/a)
+[^c-a091971e6194973548bab3dfa244f961]: Commencement: S. 1 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(a)](https://www.legislation.gov.uk/ssi/2006/454/article/2/a)
 
-[^key-604a0aba69e7eef46ab8429c5d20118a]: Commencement: S. 2 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-604a0aba69e7eef46ab8429c5d20118a]: Commencement: S. 2 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-d91123f5ed0cd95c2d687d71915ca15d]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/asp/2006/8/section/2/4A) inserted (1.8.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 6(2)(a)](https://www.legislation.gov.uk/asp/2016/8/section/6/2/a), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-d91123f5ed0cd95c2d687d71915ca15d]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/asp/2006/8/section/2/4A) inserted (1.8.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 6(2)(a)](https://www.legislation.gov.uk/asp/2016/8/section/6/2/a), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-e66af6f2c51b8612bc0f947fbc4fc585]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/asp/2006/8/section/2/5) repealed (1.8.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 6(2)(b)](https://www.legislation.gov.uk/asp/2016/8/section/6/2/b), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-e66af6f2c51b8612bc0f947fbc4fc585]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/asp/2006/8/section/2/5) repealed (1.8.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 6(2)(b)](https://www.legislation.gov.uk/asp/2016/8/section/6/2/b), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-8ee219f93a68d3f638faea1074394853]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2006/8/section/2A) inserted (1.8.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 6(3)](https://www.legislation.gov.uk/asp/2016/8/section/6/3), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-8ee219f93a68d3f638faea1074394853]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2006/8/section/2A) inserted (1.8.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 6(3)](https://www.legislation.gov.uk/asp/2016/8/section/6/3), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-688a642f43440ee7b7fb85b9f3f7d052]: Commencement: S. 3 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-688a642f43440ee7b7fb85b9f3f7d052]: Commencement: S. 3 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-bdb84a8338ece042e52a222fba0dbe8d]: Commencement: S. 4 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-bdb84a8338ece042e52a222fba0dbe8d]: Commencement: S. 4 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-c216c6b60dc8244aabf3fae7586fda10]: Commencement: S. 5 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/454/article/2/b)
+[^c-c216c6b60dc8244aabf3fae7586fda10]: Commencement: S. 5 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/454/article/2/b)
 
-[^key-7020922e4803ca51087495ab6537c1f2]: Commencement: S. 6(1)-(6) in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(c)](https://www.legislation.gov.uk/ssi/2006/454/article/2/c)
+[^c-7020922e4803ca51087495ab6537c1f2]: Commencement: S. 6(1)-(6) in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(c)](https://www.legislation.gov.uk/ssi/2006/454/article/2/c)
 
-[^key-964257519a0b9de9a7fc52a7b0192021]: Commencement: S. 6(7)-(10) in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-964257519a0b9de9a7fc52a7b0192021]: Commencement: S. 6(7)-(10) in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-254bc69a87d4ec010bf91ecaf4f4836d]: Commencement: S. 7 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/454/article/2/d)
+[^c-254bc69a87d4ec010bf91ecaf4f4836d]: Commencement: S. 7 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/454/article/2/d)
 
-[^key-a1bedb19d0866d2af08060eff7ce923c]: Commencement: S. 8 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-a1bedb19d0866d2af08060eff7ce923c]: Commencement: S. 8 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-23bc47b1fd59a6308f237765b95f318c]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/asp/2006/8/section/8/5) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-23bc47b1fd59a6308f237765b95f318c]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/asp/2006/8/section/8/5) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-7233893df84040f07c9182ffb5c49cdb]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2006/8/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/b/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-7233893df84040f07c9182ffb5c49cdb]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2006/8/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/b/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-733892c60e6318233083ddbc3ad98a69]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2006/8/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/b/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-733892c60e6318233083ddbc3ad98a69]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2006/8/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/b/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-62f3e9eae13343e66f7b351df8ed87d2]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2006/8/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(b)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/b/iii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-62f3e9eae13343e66f7b351df8ed87d2]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2006/8/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 23(2)(b)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/23/2/b/iii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-878b2a15f1a3d0913668e3a0e8ce852b]: Commencement: S. 9 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-878b2a15f1a3d0913668e3a0e8ce852b]: Commencement: S. 9 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-1302ffba41c8d738898036c8d4664f32]: Commencement: S. 10 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-1302ffba41c8d738898036c8d4664f32]: Commencement: S. 10 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-5565f3bae41d5f578452dc5290aae413]: Commencement: S. 11 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-5565f3bae41d5f578452dc5290aae413]: Commencement: S. 11 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-5aa203b468ab0650edb5dc9c8defaea4]: Commencement: S. 12 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(e)](https://www.legislation.gov.uk/ssi/2006/454/article/2/e)
+[^c-5aa203b468ab0650edb5dc9c8defaea4]: Commencement: S. 12 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(e)](https://www.legislation.gov.uk/ssi/2006/454/article/2/e)
 
-[^key-a4e437bf81e29628d27adfe4ecc4334e]: Commencement: S. 13 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-a4e437bf81e29628d27adfe4ecc4334e]: Commencement: S. 13 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-75e0819d15f264f450a8098fff8fc7e0]: Commencement: S. 14 in force at 5.2.2007 for specified purposes by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1)
+[^c-75e0819d15f264f450a8098fff8fc7e0]: Commencement: S. 14 in force at 5.2.2007 for specified purposes by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1)
 
-[^key-b36182c3751551e70ede22b227006a4c]: Commencement: S. 14 in force at 1.8.2007 in so far as not already in force by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-b36182c3751551e70ede22b227006a4c]: Commencement: S. 14 in force at 1.8.2007 in so far as not already in force by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-b08e1a47be693390cb454c028eb0b42c]: Commencement: S. 15 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-b08e1a47be693390cb454c028eb0b42c]: Commencement: S. 15 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-75dc7785508742315d6f0c093f85f571]: Commencement: S. 16(1)-(7)(13)(14) in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(f)](https://www.legislation.gov.uk/ssi/2006/454/article/2/f)
+[^c-75dc7785508742315d6f0c093f85f571]: Commencement: S. 16(1)-(7)(13)(14) in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(f)](https://www.legislation.gov.uk/ssi/2006/454/article/2/f)
 
-[^key-0a8d7efdb0280cb9cf8d1e1282f2d266]: Commencement: S. 16(8)-(12)(15)(16) in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-0a8d7efdb0280cb9cf8d1e1282f2d266]: Commencement: S. 16(8)-(12)(15)(16) in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-93ec425384074b885887d8b1606351db]: Commencement: S. 17 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-93ec425384074b885887d8b1606351db]: Commencement: S. 17 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-01d2410e605f1414ed53a3000f3ce8dc]: Commencement: S. 18 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-01d2410e605f1414ed53a3000f3ce8dc]: Commencement: S. 18 in force at 1.8.2007 by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-fad7bcf731ca692b53a96ba3491c3c23]: Commencement: S. 19 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(g)](https://www.legislation.gov.uk/ssi/2006/454/article/2/g)
+[^c-fad7bcf731ca692b53a96ba3491c3c23]: Commencement: S. 19 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(g)](https://www.legislation.gov.uk/ssi/2006/454/article/2/g)
 
-[^key-8afdf69a56e8b9f6753b18ff6e8f705a]: Commencement: S. 20 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(h)](https://www.legislation.gov.uk/ssi/2006/454/article/2/h)
+[^c-8afdf69a56e8b9f6753b18ff6e8f705a]: Commencement: S. 20 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(h)](https://www.legislation.gov.uk/ssi/2006/454/article/2/h)
 
-[^key-a6d4d80481ebdafeef241b3e082a716b]: Commencement: S. 21 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(i)](https://www.legislation.gov.uk/ssi/2006/454/article/2/i)
+[^c-a6d4d80481ebdafeef241b3e082a716b]: Commencement: S. 21 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(i)](https://www.legislation.gov.uk/ssi/2006/454/article/2/i)
 
-[^key-a77b7d062e20e2ec1615e1fa0b47ae30]: Commencement: S. 22 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(j)](https://www.legislation.gov.uk/ssi/2006/454/article/2/j)
+[^c-a77b7d062e20e2ec1615e1fa0b47ae30]: Commencement: S. 22 in force at 12.9.2006 by [S.S.I. 2006/454](https://www.legislation.gov.uk/ssi/2006/454), [art. 2(j)](https://www.legislation.gov.uk/ssi/2006/454/article/2/j)
 
-[^key-6047a8998c21b9dd6bb39d79ef48c239]: Commencement: S. 23 in force at 5.2.2007 for specified purposes by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1)
+[^c-6047a8998c21b9dd6bb39d79ef48c239]: Commencement: S. 23 in force at 5.2.2007 for specified purposes by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1)
 
-[^key-35ad269871a3ca733f0e9b9127e45c6b]: Commencement: S. 23 in force at 1.8.2007 in so far as not already in force by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-35ad269871a3ca733f0e9b9127e45c6b]: Commencement: S. 23 in force at 1.8.2007 in so far as not already in force by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-fcdbeaeaf6d1e3547947d6e1a4b3aec8]: Commencement: Sch. in force at 5.2.2007 for specified purposes by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1)
+[^c-fcdbeaeaf6d1e3547947d6e1a4b3aec8]: Commencement: Sch. in force at 5.2.2007 for specified purposes by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1)
 
-[^key-bd8f8f074fec460e4d3324ea5cf24f07]: Commencement: Sch. in force at 1.8.2007 in so far as not already in force by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-bd8f8f074fec460e4d3324ea5cf24f07]: Commencement: Sch. in force at 1.8.2007 in so far as not already in force by [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38C. Power to treat liability as satisfied[^key-9fd0a5742a245ff660725156970c0185]
+## 38C. Power to treat liability as satisfied[^c-9fd0a5742a245ff660725156970c0185]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fd0a5742a245ff660725156970c0185]: Textual amendment: [Art. 38C](https://www.legislation.gov.uk/nisi/1991/2628/article/38C) inserted (26.11.2009 for specified purposes, 25.1.2010 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 22](https://www.legislation.gov.uk/nia/2008/10/section/22), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2009/380](https://www.legislation.gov.uk/nisr/2009/380), [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/380/article/2/1)
+[^c-9fd0a5742a245ff660725156970c0185]: Textual amendment: [Art. 38C](https://www.legislation.gov.uk/nisi/1991/2628/article/38C) inserted (26.11.2009 for specified purposes, 25.1.2010 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 22](https://www.legislation.gov.uk/nia/2008/10/section/22), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2009/380](https://www.legislation.gov.uk/nisr/2009/380), [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/380/article/2/1)

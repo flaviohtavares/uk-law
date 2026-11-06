@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Flat rate deductions for mileage and use of home and adjustment for personal use of business premises (applicants with an award of universal credit)[^key-ef0234eef384559d96493eb2c3a86e79]
+## 54. Flat rate deductions for mileage and use of home and adjustment for personal use of business premises (applicants with an award of universal credit)[^c-ef0234eef384559d96493eb2c3a86e79]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef0234eef384559d96493eb2c3a86e79]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2021/249/regulation/54) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-ef0234eef384559d96493eb2c3a86e79]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2021/249/regulation/54) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00162]: Footnote: See regulation 59 of [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), which was amended by [S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508).

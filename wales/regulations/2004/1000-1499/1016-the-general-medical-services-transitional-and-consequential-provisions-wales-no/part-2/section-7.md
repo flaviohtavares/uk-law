@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Removals from the list of patients who are violent[^key-66e79feee0d7b0a987675c0345f3e0e2]
+## 7. Removals from the list of patients who are violent[^c-66e79feee0d7b0a987675c0345f3e0e2]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-66e79feee0d7b0a987675c0345f3e0e2]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-66e79feee0d7b0a987675c0345f3e0e2]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00018]: Footnote: Paragraph 9A was inserted by [S.I. 1994/633](https://www.legislation.gov.uk/uksi/1994/633) and amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).
 

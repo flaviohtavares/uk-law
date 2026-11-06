@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) It shall be the duty of a local authority, of each of the Ministers and of the appropriate agency[^key-34c812f3e916d2eb43a09127a0019534], in formulating or considering any proposals relating to any functions of a local authority under this Act—
+(1) It shall be the duty of a local authority, of each of the Ministers and of the appropriate agency[^c-34c812f3e916d2eb43a09127a0019534], in formulating or considering any proposals relating to any functions of a local authority under this Act—
 
 - (a) so far as may be consistent—
   - (i) with the purposes of this Act; and
@@ -42,4 +42,4 @@ summary: ''
 
 [^c1415545]: Textual amendment: Ss. 61A-61E inserted (21.09.1994) by [1994 c. 25](https://www.legislation.gov.uk/ukpga/1994/25), [ss. 1](https://www.legislation.gov.uk/ukpga/1994/25/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/1994/25/section/3/2)
 
-[^key-34c812f3e916d2eb43a09127a0019534]: Textual amendment: Words in [s. 61B](https://www.legislation.gov.uk/ukpga/1991/59/section/61B) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 329](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/329) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-34c812f3e916d2eb43a09127a0019534]: Textual amendment: Words in [s. 61B](https://www.legislation.gov.uk/ukpga/1991/59/section/61B) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 329](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/329) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

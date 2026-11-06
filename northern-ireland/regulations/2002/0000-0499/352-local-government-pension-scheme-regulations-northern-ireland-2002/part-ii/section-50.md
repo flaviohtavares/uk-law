@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Dependants of re-employed pensioners[^key-e0c5f97007d9cbafb976ca10352e9dd0]
+## 50. Dependants of re-employed pensioners[^c-e0c5f97007d9cbafb976ca10352e9dd0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0c5f97007d9cbafb976ca10352e9dd0]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/nisr/2002/352/regulation/50) revoked (1.6.2005) by [Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/274)](https://www.legislation.gov.uk/nisr/2005/274), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/274/regulation/1), [27(f)](https://www.legislation.gov.uk/nisr/2005/274/regulation/27), (with [regs. 28](https://www.legislation.gov.uk/nisr/2005/274/regulation/28), [29](https://www.legislation.gov.uk/nisr/2005/274/regulation/29))
+[^c-e0c5f97007d9cbafb976ca10352e9dd0]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/nisr/2002/352/regulation/50) revoked (1.6.2005) by [Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/274)](https://www.legislation.gov.uk/nisr/2005/274), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/274/regulation/1), [27(f)](https://www.legislation.gov.uk/nisr/2005/274/regulation/27), (with [regs. 28](https://www.legislation.gov.uk/nisr/2005/274/regulation/28), [29](https://www.legislation.gov.uk/nisr/2005/274/regulation/29))

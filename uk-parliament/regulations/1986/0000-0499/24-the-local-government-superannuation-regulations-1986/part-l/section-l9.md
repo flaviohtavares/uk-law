@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L9. Retrospective Effect[^key-c6a9dec336557c1210e02d3ba8828d0a]
+## L9. Retrospective Effect[^c-c6a9dec336557c1210e02d3ba8828d0a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a9dec336557c1210e02d3ba8828d0a]: Commencement: [Reg. L9](https://www.legislation.gov.uk/uksi/1986/24/regulation/L9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c6a9dec336557c1210e02d3ba8828d0a]: Commencement: [Reg. L9](https://www.legislation.gov.uk/uksi/1986/24/regulation/L9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

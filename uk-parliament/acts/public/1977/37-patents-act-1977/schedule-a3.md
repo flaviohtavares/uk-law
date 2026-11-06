@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A3 — EUROPEAN PATENT WITH UNITARY EFFECT[^key-24db9ec876b4b6e3c5121ed55c3c6c24]
+## SCHEDULE A3 — EUROPEAN PATENT WITH UNITARY EFFECT[^c-24db9ec876b4b6e3c5121ed55c3c6c24]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ section 60 (meaning of infringement);
 
 section 64 (right to continue use begun before priority date);
 
-sections 70 to 70F (unjustified threats);[^key-c645518a87769b455da6b2f7301e3785]
+sections 70 to 70F (unjustified threats);[^c-c645518a87769b455da6b2f7301e3785]
 
 section 73(2) to (4) (Comptroller’s power to revoke patents on his own initiative);
 
@@ -153,6 +153,6 @@ section 128B (supplementary protection certificates).
 
 ## Annotations
 
-[^key-24db9ec876b4b6e3c5121ed55c3c6c24]: Textual amendment: Schs. A3, A4 inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/388/article/2/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
+[^c-24db9ec876b4b6e3c5121ed55c3c6c24]: Textual amendment: Schs. A3, A4 inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/388/article/2/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
 
-[^key-c645518a87769b455da6b2f7301e3785]: Textual amendment: Words in Sch. A3 para. 2 inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/8), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-c645518a87769b455da6b2f7301e3785]: Textual amendment: Words in Sch. A3 para. 2 inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/8), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

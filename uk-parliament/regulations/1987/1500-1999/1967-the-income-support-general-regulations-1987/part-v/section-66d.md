@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66D. Treatment of loans for specific purposes[^key-75709d5f2bce4176421d2430569f6678]
+## 66D. Treatment of loans for specific purposes[^c-75709d5f2bce4176421d2430569f6678]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A loan under the Education (Student Support) Regulations 2011 or regulations mad
 
 ## Annotations
 
-[^key-75709d5f2bce4176421d2430569f6678]: Textual amendment: [Reg. 66D](https://www.legislation.gov.uk/uksi/1987/1967/regulation/66D) substituted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/341/regulation/2)
+[^c-75709d5f2bce4176421d2430569f6678]: Textual amendment: [Reg. 66D](https://www.legislation.gov.uk/uksi/1987/1967/regulation/66D) substituted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/341/regulation/2)

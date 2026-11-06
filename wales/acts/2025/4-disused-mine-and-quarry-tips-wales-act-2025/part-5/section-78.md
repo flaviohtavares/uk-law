@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Power to make consequential, transitional etc. provision[^key-35205d4ff4b35830a799cbb4aec027da]
+## 78. Power to make consequential, transitional etc. provision[^c-35205d4ff4b35830a799cbb4aec027da]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35205d4ff4b35830a799cbb4aec027da]: Commencement: S. 78 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-35205d4ff4b35830a799cbb4aec027da]: Commencement: S. 78 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

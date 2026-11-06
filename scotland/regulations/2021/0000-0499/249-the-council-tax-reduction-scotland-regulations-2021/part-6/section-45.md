@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Meaning of “earned income”[^key-39ffdb4cd9ff51700d48ac088e770324]
+## 45. Meaning of “earned income”[^c-39ffdb4cd9ff51700d48ac088e770324]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39ffdb4cd9ff51700d48ac088e770324]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2021/249/regulation/45) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-39ffdb4cd9ff51700d48ac088e770324]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2021/249/regulation/45) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -50,7 +50,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## Part 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-159b25063ccf462729223c5a500169c5][^key-9f959fd7014e203516fddacef12a9fb0]
+### 1. Citation and commencement[^c-159b25063ccf462729223c5a500169c5][^c-9f959fd7014e203516fddacef12a9fb0]
 
 (1) These Regulations may be cited as the Customs (Amendment) (EU Exit) Regulations 2020.
 
@@ -58,7 +58,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## Part 2 — Amendments
 
-### 2. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-c27392cbbdf3593deb711514a5a09e30][^key-db8dde327b1b30db4d875b96a7be7a42]
+### 2. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-c27392cbbdf3593deb711514a5a09e30][^c-db8dde327b1b30db4d875b96a7be7a42]
 
 (1) The Customs (Import Duty) (EU Exit) Regulations 2018 [^c24384761] are amended as follows.
 
@@ -213,7 +213,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-### 3. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-c04b96359209eaf424379d53b54a9e40][^key-c7f2e4886e4a618f3dd570bb3c277be1]
+### 3. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-c04b96359209eaf424379d53b54a9e40][^c-c7f2e4886e4a618f3dd570bb3c277be1]
 
 (1) The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c24384931] are amended as follows.
 
@@ -233,7 +233,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-### 4. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^key-98b20a028abb9328a894717267025892][^key-b00e25b950ebb2eaf23632c913d26cd3]
+### 4. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^c-98b20a028abb9328a894717267025892][^c-b00e25b950ebb2eaf23632c913d26cd3]
 
 (1) The Customs (Export) (EU Exit) Regulations 2019 [^c24384951] are amended as follows.
 
@@ -333,7 +333,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-### 5. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^key-a238b6fb382800b30eb05c84e85e4ebe][^key-b61c78f6942ed4e8b9c1d88e4ad01c3b]
+### 5. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^c-a238b6fb382800b30eb05c84e85e4ebe][^c-b61c78f6942ed4e8b9c1d88e4ad01c3b]
 
 (1) The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 [^c24385011] are amended as follows.
 
@@ -352,7 +352,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-### 6. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^key-ced1529da2b7d71a442017a9b719a6f0][^key-cf4324e9bc76dd04a7d7ecd848b524de]
+### 6. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^c-ced1529da2b7d71a442017a9b719a6f0][^c-cf4324e9bc76dd04a7d7ecd848b524de]
 
 (1) The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 [^c24385021] are amended as follows.
 
@@ -377,7 +377,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 - (d) omit paragraphs (4) and (6);
 - (e) in paragraph (5), for “must” substitute “ is deemed to ”.
 
-### 7. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^key-f31ba4c740d6fd5943c2c233bf265d9b][^key-f4a851bb38d595c47c02eada3552f6e5]
+### 7. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^c-f31ba4c740d6fd5943c2c233bf265d9b][^c-f4a851bb38d595c47c02eada3552f6e5]
 
 (1) The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 [^c24385041] are amended as follows.
 
@@ -385,7 +385,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 (3) In paragraphs (6), (9) and (15) of regulation 14 (amendment of the Customs (Export) (EU Exit) Regulations 2018) for “£900” substitute “ £1,500 ” in each place it occurs.
 
-### 8. Amendment of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020[^key-20d9a7aa62239c70a76ad17f589c828a][^key-86cc2ccff55ad01964469c16e6d24b50]
+### 8. Amendment of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020[^c-20d9a7aa62239c70a76ad17f589c828a][^c-86cc2ccff55ad01964469c16e6d24b50]
 
 (1) The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 [^c24385051] are amended as follows.
 
@@ -406,7 +406,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-### 9. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-b372130da71ef5eb429b236c2d62e033][^key-c4f09796cd5d2587146facd4abd26474]
+### 9. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-b372130da71ef5eb429b236c2d62e033][^c-c4f09796cd5d2587146facd4abd26474]
 
 (1) The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003 [^c24385061] is amended as follows.
 
@@ -452,13 +452,13 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24384751]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-159b25063ccf462729223c5a500169c5]: Commencement: Reg. 1 not in force at made date, see reg. 1(2)
+[^c-159b25063ccf462729223c5a500169c5]: Commencement: Reg. 1 not in force at made date, see reg. 1(2)
 
-[^key-9f959fd7014e203516fddacef12a9fb0]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9f959fd7014e203516fddacef12a9fb0]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-c27392cbbdf3593deb711514a5a09e30]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
+[^c-c27392cbbdf3593deb711514a5a09e30]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
 
-[^key-db8dde327b1b30db4d875b96a7be7a42]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-db8dde327b1b30db4d875b96a7be7a42]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24384761]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). Relevant amending instruments are S.I.s 2019/326, 2019/486, 2019/1215, 2019/1346, 2020/1088 and 2020/1234
 
@@ -494,17 +494,17 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24384921]: Marginal citation: [S.I. 2018/1258](https://www.legislation.gov.uk/uksi/2018/1258). Relevant amending instrument is [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486).
 
-[^key-c04b96359209eaf424379d53b54a9e40]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
+[^c-c04b96359209eaf424379d53b54a9e40]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
 
-[^key-c7f2e4886e4a618f3dd570bb3c277be1]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c7f2e4886e4a618f3dd570bb3c277be1]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24384931]: Marginal citation: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249). Relevant amending instruments are S.I.s 2019/486 and 2019/1215.
 
 [^c24384941]: Marginal citation: Regulation 6(4)(a)(ii) is prospectively amended by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-98b20a028abb9328a894717267025892]: Commencement: Reg. 4 not in force at made date, see reg. 1(2)
+[^c-98b20a028abb9328a894717267025892]: Commencement: Reg. 4 not in force at made date, see reg. 1(2)
 
-[^key-b00e25b950ebb2eaf23632c913d26cd3]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b00e25b950ebb2eaf23632c913d26cd3]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24384951]: Marginal citation: [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108). Relevant amending instruments are S.I.s 2019/1215 and 2020/1234.
 
@@ -518,35 +518,35 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24385001]: Marginal citation: See the Taxation (Cross-border Trade) Act 2018, section 21(1).
 
-[^key-a238b6fb382800b30eb05c84e85e4ebe]: Commencement: Reg. 5 not in force at made date, see reg. 1(2)
+[^c-a238b6fb382800b30eb05c84e85e4ebe]: Commencement: Reg. 5 not in force at made date, see reg. 1(2)
 
-[^key-b61c78f6942ed4e8b9c1d88e4ad01c3b]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b61c78f6942ed4e8b9c1d88e4ad01c3b]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24385011]: Marginal citation: [S.I. 2019/385](https://www.legislation.gov.uk/uksi/2019/385). There are amending instruments, but none is relevant.
 
-[^key-ced1529da2b7d71a442017a9b719a6f0]: Commencement: Reg. 6 not in force at made date, see reg. 1(2)
+[^c-ced1529da2b7d71a442017a9b719a6f0]: Commencement: Reg. 6 not in force at made date, see reg. 1(2)
 
-[^key-cf4324e9bc76dd04a7d7ecd848b524de]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-cf4324e9bc76dd04a7d7ecd848b524de]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24385021]: Marginal citation: [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486).
 
 [^c24385031]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248).
 
-[^key-f31ba4c740d6fd5943c2c233bf265d9b]: Commencement: Reg. 7 not in force at made date, see reg. 1(2)
+[^c-f31ba4c740d6fd5943c2c233bf265d9b]: Commencement: Reg. 7 not in force at made date, see reg. 1(2)
 
-[^key-f4a851bb38d595c47c02eada3552f6e5]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-f4a851bb38d595c47c02eada3552f6e5]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24385041]: Marginal citation: [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-20d9a7aa62239c70a76ad17f589c828a]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2)
+[^c-20d9a7aa62239c70a76ad17f589c828a]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2)
 
-[^key-86cc2ccff55ad01964469c16e6d24b50]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-86cc2ccff55ad01964469c16e6d24b50]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24385051]: Marginal citation: [S.I. 2020/1431](https://www.legislation.gov.uk/uksi/2020/1431).
 
-[^key-b372130da71ef5eb429b236c2d62e033]: Commencement: Reg. 9 not in force at made date, see reg. 1(2)
+[^c-b372130da71ef5eb429b236c2d62e033]: Commencement: Reg. 9 not in force at made date, see reg. 1(2)
 
-[^key-c4f09796cd5d2587146facd4abd26474]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c4f09796cd5d2587146facd4abd26474]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24385061]: Marginal citation: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113). Relevant amending instrument is [S.I. 2020/1234](https://www.legislation.gov.uk/uksi/2020/1234). There are other amending instruments, but none is relevant.
 

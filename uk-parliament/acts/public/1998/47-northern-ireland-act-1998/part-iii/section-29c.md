@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29C. Review of functions relating to judicial appointments and removals[^key-21d76355f2e661013184591d895caedd]
+## 29C. Review of functions relating to judicial appointments and removals[^c-21d76355f2e661013184591d895caedd]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Standing orders shall require one of the committees established by virtue of sec
 
 ## Annotations
 
-[^key-21d76355f2e661013184591d895caedd]: Textual amendment: S. 29C inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2009/3/schedule/6/paragraph/1); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-21d76355f2e661013184591d895caedd]: Textual amendment: S. 29C inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2009/3/schedule/6/paragraph/1); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

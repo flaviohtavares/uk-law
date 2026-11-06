@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Withdrawal of petition[^key-585b7b768d550c52bcf9d2e46226fb87]
+## 104. Withdrawal of petition[^c-585b7b768d550c52bcf9d2e46226fb87]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-585b7b768d550c52bcf9d2e46226fb87]: Commencement: Art. 104 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-585b7b768d550c52bcf9d2e46226fb87]: Commencement: Art. 104 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

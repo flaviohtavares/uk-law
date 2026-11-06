@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Referral of cases relating to conduct[^key-6d1320aa4ea473c83c3e5e200becd393]
+## 69. Referral of cases relating to conduct[^c-6d1320aa4ea473c83c3e5e200becd393]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d1320aa4ea473c83c3e5e200becd393]: Commencement: S. 69 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/f)
+[^c-6d1320aa4ea473c83c3e5e200becd393]: Commencement: S. 69 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Issue and conditions of Approval[^key-497cbc4f9612d55533c9b52db8023182]
+## 134. Issue and conditions of Approval[^c-497cbc4f9612d55533c9b52db8023182]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ to secure the safe operation of aircraft of the type or types specified in the a
 
 ## Annotations
 
-[^key-497cbc4f9612d55533c9b52db8023182]: Commencement: [Art. 134](https://www.legislation.gov.uk/uksi/2013/2870/article/134) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-497cbc4f9612d55533c9b52db8023182]: Commencement: [Art. 134](https://www.legislation.gov.uk/uksi/2013/2870/article/134) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

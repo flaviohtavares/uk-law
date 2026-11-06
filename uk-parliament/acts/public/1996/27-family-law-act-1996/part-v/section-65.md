@@ -31,7 +31,7 @@ summary: ''
 
 (4) No order shall be made under section 5(8) unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
 
-(5) This section does not apply [^key-785f0f0acddd667874773f458e7eae35]... to rules of court made, or any power to make rules of court, for the purposes of this Act.
+(5) This section does not apply [^c-785f0f0acddd667874773f458e7eae35]... to rules of court made, or any power to make rules of court, for the purposes of this Act.
 
 ## Annotations
 
@@ -39,4 +39,4 @@ summary: ''
 
     S. 65 power partly exercised (19.10.1998): 1.11.1998 appointed for specified provisions by [S.I. 1998/2572](https://www.legislation.gov.uk/uksi/1998/2572), [art. 3](https://www.legislation.gov.uk/uksi/1998/2572/article/3) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/1998/2572/article/4))
 
-[^key-785f0f0acddd667874773f458e7eae35]: Textual amendment: Words in [s. 65(5)](https://www.legislation.gov.uk/ukpga/1996/27/section/65/5) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/d), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-785f0f0acddd667874773f458e7eae35]: Textual amendment: Words in [s. 65(5)](https://www.legislation.gov.uk/ukpga/1996/27/section/65/5) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/d), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)

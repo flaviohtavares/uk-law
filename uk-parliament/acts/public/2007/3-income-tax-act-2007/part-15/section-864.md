@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-An investment is not a relevant investment if it is a deposit in respect of which a deposit-taker [^key-523686c58eed09dc890a030432acf035]... has issued a qualifying uncertificated eligible debt security unit (see section 986).
+An investment is not a relevant investment if it is a deposit in respect of which a deposit-taker [^c-523686c58eed09dc890a030432acf035]... has issued a qualifying uncertificated eligible debt security unit (see section 986).
 
 ## Annotations
 
-[^key-523686c58eed09dc890a030432acf035]: Textual amendment: Words in s. 864 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/14)
+[^c-523686c58eed09dc890a030432acf035]: Textual amendment: Words in s. 864 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/14)

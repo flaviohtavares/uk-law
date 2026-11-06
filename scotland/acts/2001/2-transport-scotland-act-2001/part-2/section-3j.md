@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3J. Reports on partnership schemes[^key-7fab356574d73010f23c1ed4fcc76d0a][^key-9c57e144c310e4e8000f0a0f750e3a2d]
+## 3J. Reports on partnership schemes[^c-7fab356574d73010f23c1ed4fcc76d0a][^c-9c57e144c310e4e8000f0a0f750e3a2d]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fab356574d73010f23c1ed4fcc76d0a]: Modification: [Ss. 3A-3L](https://www.legislation.gov.uk/asp/2001/2/section/3A): functions exercisable concurrently (5.6.2024) by [The Transport Partnerships (Transfer of Functions) (Scotland) Order 2024 (S.S.I. 2024/161)](https://www.legislation.gov.uk/ssi/2024/161), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/161/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2024/161/article/2)
+[^c-7fab356574d73010f23c1ed4fcc76d0a]: Modification: [Ss. 3A-3L](https://www.legislation.gov.uk/asp/2001/2/section/3A): functions exercisable concurrently (5.6.2024) by [The Transport Partnerships (Transfer of Functions) (Scotland) Order 2024 (S.S.I. 2024/161)](https://www.legislation.gov.uk/ssi/2024/161), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/161/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2024/161/article/2)
 
-[^key-9c57e144c310e4e8000f0a0f750e3a2d]: Textual amendment: Pt. 2 Ch. 1 substituted for ss. 3-12 and cross-heading (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 35(2)](https://www.legislation.gov.uk/asp/2019/17/section/35/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)) (as amended (27.11.2023) by [S.S.I. 2023/347](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/2)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-9c57e144c310e4e8000f0a0f750e3a2d]: Textual amendment: Pt. 2 Ch. 1 substituted for ss. 3-12 and cross-heading (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 35(2)](https://www.legislation.gov.uk/asp/2019/17/section/35/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)) (as amended (27.11.2023) by [S.S.I. 2023/347](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/2)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Protective works to buildings[^key-83a28e81802f616cb7ea75cae1f07f5a]
+## 33. Protective works to buildings[^c-83a28e81802f616cb7ea75cae1f07f5a]
 
 *Extent: E+W*
 
@@ -64,10 +64,10 @@ the undertaker must compensate the owners and occupiers of the building for any 
 - (b) any works the purpose of which is to remedy any damage which has been caused to the building by the construction, operation and maintenance or use of the authorised development; and
 - (c) any works the purpose of which is to secure the safe operation of the authorised development or to prevent or minimise the risk of such operation being disrupted.
 
-(12) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the entry onto, or possession of land under this article, to the same extent as it applies to the compulsory acquisition of land under this Order[^key-eb09b10f6c3f6370ef65294d5130ac3f] by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
+(12) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the entry onto, or possession of land under this article, to the same extent as it applies to the compulsory acquisition of land under this Order[^c-eb09b10f6c3f6370ef65294d5130ac3f] by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
 
 ## Annotations
 
-[^key-83a28e81802f616cb7ea75cae1f07f5a]: Commencement: Art. 33 in force at 1.9.2020, see art. 1
+[^c-83a28e81802f616cb7ea75cae1f07f5a]: Commencement: Art. 33 in force at 1.9.2020, see art. 1
 
-[^key-eb09b10f6c3f6370ef65294d5130ac3f]: Textual amendment: Word in [art. 33(12)](https://www.legislation.gov.uk/uksi/2020/847/article/33/12) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-eb09b10f6c3f6370ef65294d5130ac3f]: Textual amendment: Word in [art. 33(12)](https://www.legislation.gov.uk/uksi/2020/847/article/33/12) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)

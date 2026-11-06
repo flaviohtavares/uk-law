@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Circumstances in which the duty in section 66 ends[^key-71edc2f02858810230db65af5ee65ba7]
+## 67. Circumstances in which the duty in section 66 ends[^c-71edc2f02858810230db65af5ee65ba7]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71edc2f02858810230db65af5ee65ba7]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2014/7/section/67) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 18](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/18)
+[^c-71edc2f02858810230db65af5ee65ba7]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2014/7/section/67) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 18](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/18)

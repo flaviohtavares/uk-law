@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.1. Relief for failure to comply with rules[^key-c78be86d8adbdca1116b5e9d82b99c86]
+## 2.1. Relief for failure to comply with rules[^c-c78be86d8adbdca1116b5e9d82b99c86]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c78be86d8adbdca1116b5e9d82b99c86]: Commencement: Para. 2.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c78be86d8adbdca1116b5e9d82b99c86]: Commencement: Para. 2.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

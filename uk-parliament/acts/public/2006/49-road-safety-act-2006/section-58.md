@@ -24,7 +24,7 @@ summary: ''
 
 (2) In section 105(5) of that Act (regulations: “the relevant provisions of the Road Traffic Offenders Act 1988”), after “34” insert “ , 35 ”.
 
-(3)[^key-36c6c4dd7bc7448f2a33165196fc6fa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-36c6c4dd7bc7448f2a33165196fc6fa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 79(1) of that Act (statements by constables), for “54(3)” substitute “ 54(4) ”.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36c6c4dd7bc7448f2a33165196fc6fa7]: Textual amendment: [S. 58(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/58/3) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-36c6c4dd7bc7448f2a33165196fc6fa7]: Textual amendment: [S. 58(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/58/3) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))

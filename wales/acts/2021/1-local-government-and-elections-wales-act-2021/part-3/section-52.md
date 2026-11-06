@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Annual reports by community councils[^key-a5d8438500f30fce9294aa6793e14912]
+## 52. Annual reports by community councils[^c-a5d8438500f30fce9294aa6793e14912]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5d8438500f30fce9294aa6793e14912]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2021/1/section/52) in force at 1.4.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 5](https://www.legislation.gov.uk/wsi/2021/231/article/5)
+[^c-a5d8438500f30fce9294aa6793e14912]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2021/1/section/52) in force at 1.4.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 5](https://www.legislation.gov.uk/wsi/2021/231/article/5)

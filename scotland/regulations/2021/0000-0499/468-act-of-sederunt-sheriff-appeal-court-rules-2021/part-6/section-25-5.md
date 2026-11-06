@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25.5. Recording of evidence[^key-b4c72adccd218874cefdd8ded3f6366a]
+## 25.5. Recording of evidence[^c-b4c72adccd218874cefdd8ded3f6366a]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4c72adccd218874cefdd8ded3f6366a]: Commencement: Para. 25.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b4c72adccd218874cefdd8ded3f6366a]: Commencement: Para. 25.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

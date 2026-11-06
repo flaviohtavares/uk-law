@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Directions[^key-e64ad1215ef80629f2509494d3f866f4]
+## 48. Directions[^c-e64ad1215ef80629f2509494d3f866f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e64ad1215ef80629f2509494d3f866f4]: Commencement: Reg. 48 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-e64ad1215ef80629f2509494d3f866f4]: Commencement: Reg. 48 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

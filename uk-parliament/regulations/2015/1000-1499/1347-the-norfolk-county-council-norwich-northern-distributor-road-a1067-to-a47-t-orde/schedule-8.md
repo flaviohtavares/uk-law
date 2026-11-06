@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-7d3917bb18fb7b6b9218cbf71a5534f9]
+## SCHEDULE 8 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-7d3917bb18fb7b6b9218cbf71a5534f9]
 
 *Extent: E+W+S*
 
 Article 14
 
-[^key-7d3917bb18fb7b6b9218cbf71a5534f9]
+[^c-7d3917bb18fb7b6b9218cbf71a5534f9]
 
 In relating this Schedule to the corresponding street plans, the lengths of street to be subject to temporary prohibition or restriction of driving or use, as described in column (4) of this Schedule, are given a reference number, preceded by ‘TEMP TR’, commencing with ‘TEMP TR 1’, and that reference appears in column (4) at the end of the described length.
 
@@ -62,4 +62,4 @@ In relating this Schedule to the corresponding street plans, the lengths of stre
 
 ## Annotations
 
-[^key-7d3917bb18fb7b6b9218cbf71a5534f9]: Commencement: Sch. 8 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-7d3917bb18fb7b6b9218cbf71a5534f9]: Commencement: Sch. 8 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

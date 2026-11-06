@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Powers of fire-fighters etc in an emergency etc[^key-a0dbc1778ada32ba53ce38350c7e0b17][^key-e7ae8226a971531e06d640d9e7e28cde][^key-727bc367e4df639f9eb247d985b93420]
+## 44. Powers of fire-fighters etc in an emergency etc[^c-a0dbc1778ada32ba53ce38350c7e0b17][^c-e7ae8226a971531e06d640d9e7e28cde][^c-727bc367e4df639f9eb247d985b93420]
 
 *Extent: E+W*
 
@@ -35,16 +35,16 @@ summary: ''
 - (d) stop and regulate traffic;
 - (e) restrict the access of persons to premises or a place.
 
-(3)[^key-137242ecb0aaad61df76dcc633eb4ee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-137242ecb0aaad61df76dcc633eb4ee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-137242ecb0aaad61df76dcc633eb4ee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-137242ecb0aaad61df76dcc633eb4ee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0dbc1778ada32ba53ce38350c7e0b17]: Commencement: S. 44 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-a0dbc1778ada32ba53ce38350c7e0b17]: Commencement: S. 44 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-e7ae8226a971531e06d640d9e7e28cde]: Commencement: S. 44 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-e7ae8226a971531e06d640d9e7e28cde]: Commencement: S. 44 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-727bc367e4df639f9eb247d985b93420]: Modification: S. 44 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2013/602/article/17/2)
+[^c-727bc367e4df639f9eb247d985b93420]: Modification: S. 44 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2013/602/article/17/2)
 
-[^key-137242ecb0aaad61df76dcc633eb4ee5]: Textual amendment: S. 44(3)(4) repealed (20.2.2007) by [Emergency Workers (Obstruction) Act 2006 (c. 39)](https://www.legislation.gov.uk/ukpga/2006/39), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/39/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/2006/39/section/7/2); [S.I. 2007/153](https://www.legislation.gov.uk/uksi/2007/153), [art. 2](https://www.legislation.gov.uk/uksi/2007/153/article/2); [S.I. 2007/153](https://www.legislation.gov.uk/uksi/2007/153), [art. 2](https://www.legislation.gov.uk/uksi/2007/153/article/2)
+[^c-137242ecb0aaad61df76dcc633eb4ee5]: Textual amendment: S. 44(3)(4) repealed (20.2.2007) by [Emergency Workers (Obstruction) Act 2006 (c. 39)](https://www.legislation.gov.uk/ukpga/2006/39), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/39/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/2006/39/section/7/2); [S.I. 2007/153](https://www.legislation.gov.uk/uksi/2007/153), [art. 2](https://www.legislation.gov.uk/uksi/2007/153/article/2); [S.I. 2007/153](https://www.legislation.gov.uk/uksi/2007/153), [art. 2](https://www.legislation.gov.uk/uksi/2007/153/article/2)

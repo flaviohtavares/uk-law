@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Functions of non-executive directors[^key-dae305735d4317167f9a2801ea7eab9c]
+## 4. Functions of non-executive directors[^c-dae305735d4317167f9a2801ea7eab9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dae305735d4317167f9a2801ea7eab9c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/14/section/4) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/e)
+[^c-dae305735d4317167f9a2801ea7eab9c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/14/section/4) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/e)

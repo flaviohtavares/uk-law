@@ -56,7 +56,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) “**Body of persons**” means a body of persons corporate or unincorporate.
 
-(7A)[^key-2894aad788c51875eac62d4de51aea6e] “**Non-profit making body**” means a body of persons whose activities are not carried on for profit.
+(7A)[^c-2894aad788c51875eac62d4de51aea6e] “**Non-profit making body**” means a body of persons whose activities are not carried on for profit.
 
 (8) “**Payment**” means payment in money or money’s worth.
 
@@ -99,8 +99,8 @@ No surrogacy arrangement is enforceable by or against any of the persons making 
 
 (1) No person shall on a commercial basis do any of the following acts in the United Kingdom, that is—
 
-- (a) initiate [^key-94501bc3d330e6cfd0c29ebfc896d086]... any negotiations with a view to the making of a surrogacy arrangement,
-- (aa)[^key-29dc34850a142dee30e2439fa3ab8d76] take part in any negotiations with a view to the making of a surrogacy arrangement,
+- (a) initiate [^c-94501bc3d330e6cfd0c29ebfc896d086]... any negotiations with a view to the making of a surrogacy arrangement,
+- (aa)[^c-29dc34850a142dee30e2439fa3ab8d76] take part in any negotiations with a view to the making of a surrogacy arrangement,
 - (b) offer or agree to negotiate the making of a surrogacy arrangement, or
 - (c) compile any information with a view to its use in making, or negotiating the making of, surrogacy arrangements;
 
@@ -111,7 +111,7 @@ and no person shall in the United Kingdom knowingly cause another to do any of t
 - (a) for a woman, with a view to becoming a surrogate mother herself, to do any act mentioned in that subsection or to cause such an act to be done, or
 - (b) for any person, with a view to a surrogate mother carrying a child for him, to do such an act or to cause such an act to be done.
 
-(2A)[^key-5471edef2d24deb34b5f793398db1682] A non-profit making body does not contravene subsection (1) merely because—
+(2A)[^c-5471edef2d24deb34b5f793398db1682] A non-profit making body does not contravene subsection (1) merely because—
 
 - (a) the body does an act falling within subsection (1)(a) or (c) in respect of which any reasonable payment is at any time received by it or another, or
 - (b) it does an act falling within subsection (1)(a) or (c) with a view to any reasonable payment being received by it or another in respect of facilitating the making of any surrogacy arrangement.
@@ -150,7 +150,7 @@ the body is guilty of an offence.
 
 For the purposes of this subsection, a payment received by a person connected with a body is to be treated as received by the body.
 
-(5A)[^key-270c60e9f7685a89a25c8813a22a305d] A non-profit making body is not guilty of an offence under subsection (5), in respect of the receipt of any payment described in that subsection, merely because a person acting on behalf of the body takes part in facilitating the making of a surrogacy arrangement.
+(5A)[^c-270c60e9f7685a89a25c8813a22a305d] A non-profit making body is not guilty of an offence under subsection (5), in respect of the receipt of any payment described in that subsection, merely because a person acting on behalf of the body takes part in facilitating the making of a surrogacy arrangement.
 
 (6) In proceedings against a body for an offence under subsection (5) above, it is a defence to prove that the payment concerned was not made in respect of the arrangement mentioned in paragraph (a) of that subsection.
 
@@ -166,7 +166,7 @@ is guilty of an offence if the activity described in subsection (8) below is an 
 - (a) arrangements the making of which is negotiated or facilitated on a commercial basis, or
 - (b) arrangements in the case of which payments are received (or treated for the purposes of subsection (5) above as received) by the body concerned in contravention of subsection (5) above.
 
-(8A)[^key-9d177c186fb4178321a93bc9d0d24f08] A person is not guilty of an offence under subsection (7) if—
+(8A)[^c-9d177c186fb4178321a93bc9d0d24f08] A person is not guilty of an offence under subsection (7) if—
 
 - (a) the body of persons referred to in that subsection is a non-profit making body, and
 - (b) the only activity of that body which falls within subsection (8) is facilitating the making of surrogacy arrangements in the United Kingdom.
@@ -182,17 +182,17 @@ is guilty of an offence if the activity described in subsection (8) below is an 
 - (a) that any person is or may be willing to enter into a surrogacy arrangement or to negotiate or facilitate the making of a surrogacy arrangement, or
 - (b) that any person is looking for a woman willing to become a surrogate mother or for persons wanting a woman to carry a child as a surrogate mother.
 
-(1A)[^key-480d9e47edc8bcd355f5b31b433e809a] This section does not apply to any advertisement placed by, or on behalf of, a non-profit making body if the advertisement relates only to the doing by the body of acts that would not contravene section 2(1) even if done on a commercial basis (within the meaning of section 2).
+(1A)[^c-480d9e47edc8bcd355f5b31b433e809a] This section does not apply to any advertisement placed by, or on behalf of, a non-profit making body if the advertisement relates only to the doing by the body of acts that would not contravene section 2(1) even if done on a commercial basis (within the meaning of section 2).
 
 (2) Where a newspaper or periodical containing an advertisement to which this section applies is published in the United Kingdom, any proprietor, editor or publisher of the newspaper or periodical is guilty of an offence.
 
-(3) Where an advertisement to which this section applies is conveyed by means of an electronic communications network[^key-b87a08813455efb72eadce9342ca4e5e] so as to be seen or heard (or both) in the United Kingdom, any person who in the United Kingdom causes it to be so conveyed knowing it to contain such an indication as is mentioned in subsection (1) above is guilty of an offence.
+(3) Where an advertisement to which this section applies is conveyed by means of an electronic communications network[^c-b87a08813455efb72eadce9342ca4e5e] so as to be seen or heard (or both) in the United Kingdom, any person who in the United Kingdom causes it to be so conveyed knowing it to contain such an indication as is mentioned in subsection (1) above is guilty of an offence.
 
 (4) A person who publishes or causes to be published in the United Kingdom an advertisement to which this section applies (not being an advertisement contained in a newspaper or periodical or conveyed by means of an electronic communications network) is guilty of an offence.
 
 (5) A person who distributes or causes to be distributed in the United Kingdom an advertisement to which this section applies (not being an advertisement contained in a newspaper or periodical published outside the United Kingdom or an advertisement conveyed by means of an electronic communications network) knowing it to contain such an indication as is mentioned in subsection (1) above is guilty of an offence.
 
-(6)[^key-bc7e8fac12551966c638c2e972c89764] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-bc7e8fac12551966c638c2e972c89764] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Offences.
 
@@ -232,7 +232,7 @@ is guilty of an offence if the activity described in subsection (8) below is an 
 
 [^c766754]: Textual amendment: Words substituted by [Human Fertilisation and Embryology Act 1990 (c. 37, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1990/37), [s. 36(2)(a)](https://www.legislation.gov.uk/ukpga/1990/37/section/36/2/a)
 
-[^key-2894aad788c51875eac62d4de51aea6e]: Textual amendment: [S. 1(7A)](https://www.legislation.gov.uk/ukpga/1985/49/section/1/7A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
+[^c-2894aad788c51875eac62d4de51aea6e]: Textual amendment: [S. 1(7A)](https://www.legislation.gov.uk/ukpga/1985/49/section/1/7A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
 
 [^c766755]: Textual amendment: Words repealed by [Human Fertilisation and Embryology Act 1990 (c. 37, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1990/37), [s. 36(2)(b)](https://www.legislation.gov.uk/ukpga/1990/37/section/36/2/b)
 
@@ -244,21 +244,21 @@ is guilty of an offence if the activity described in subsection (8) below is an 
 
 [^c766759]: Textual amendment: S. 1A inserted by [Human Fertilisation and Embryology Act 1990 (c. 37, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1990/37), [s. 36(1)](https://www.legislation.gov.uk/ukpga/1990/37/section/36/1)
 
-[^key-94501bc3d330e6cfd0c29ebfc896d086]: Textual amendment: Words in s. 2(1)(a) omitted (1.10.2009) by virtue of [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(3)(a)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/3/a), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
+[^c-94501bc3d330e6cfd0c29ebfc896d086]: Textual amendment: Words in s. 2(1)(a) omitted (1.10.2009) by virtue of [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(3)(a)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/3/a), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
 
-[^key-29dc34850a142dee30e2439fa3ab8d76]: Textual amendment: S. 2(1)(aa) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/3/b), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
+[^c-29dc34850a142dee30e2439fa3ab8d76]: Textual amendment: S. 2(1)(aa) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/3/b), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
 
-[^key-5471edef2d24deb34b5f793398db1682]: Textual amendment: S. 2(2A)-(2C) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(4)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/4), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
+[^c-5471edef2d24deb34b5f793398db1682]: Textual amendment: S. 2(2A)-(2C) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(4)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/4), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
 
-[^key-270c60e9f7685a89a25c8813a22a305d]: Textual amendment: S. 2(5A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/5), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
+[^c-270c60e9f7685a89a25c8813a22a305d]: Textual amendment: S. 2(5A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/5), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
 
-[^key-9d177c186fb4178321a93bc9d0d24f08]: Textual amendment: S. 2(8A)(8B) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(6)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/6), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
+[^c-9d177c186fb4178321a93bc9d0d24f08]: Textual amendment: S. 2(8A)(8B) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(6)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/6), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
 
-[^key-480d9e47edc8bcd355f5b31b433e809a]: Textual amendment: S. 3(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(7)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/7), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
+[^c-480d9e47edc8bcd355f5b31b433e809a]: Textual amendment: S. 3(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 59(7)](https://www.legislation.gov.uk/ukpga/2008/22/section/59/7), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/r)
 
-[^key-b87a08813455efb72eadce9342ca4e5e]: Textual amendment: Words in s. 3 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 77](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/77) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b87a08813455efb72eadce9342ca4e5e]: Textual amendment: Words in s. 3 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 77](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/77) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-bc7e8fac12551966c638c2e972c89764]: Textual amendment: S. 3(6) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-bc7e8fac12551966c638c2e972c89764]: Textual amendment: S. 3(6) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c766769]: Textual amendment: Words in s. 4(1) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV)
 

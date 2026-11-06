@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 63(2) and (3) of the Planning (Scotland) Act 2019 [^c24451511].
 
-## 1. Citation, commencement and interpretation[^key-1ab5c2bb0365c645380003822906868f]
+## 1. Citation, commencement and interpretation[^c-1ab5c2bb0365c645380003822906868f]
 
 (1) These Regulations may be cited as the Planning (Scotland) Act 2019 (Commencement No. 6 and Transitional Provision) Regulations 2021 and come into force on 1 April 2021.
 
@@ -55,19 +55,19 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**the Act**” means the Planning (Scotland) Act 2019, and
 - “**the 1997 Act**” means the Town and Country Planning (Scotland) Act 1997 [^c24451521].
 
-## 2. Appointed day – material change of use – short term lets[^key-283d5569e6e46f30af3c4af76bb1c0d8]
+## 2. Appointed day – material change of use – short term lets[^c-283d5569e6e46f30af3c4af76bb1c0d8]
 
 The day appointed for the coming into force of section 17 (meaning of development: use of dwellinghouse for short-term lets) of the Act, in so far as not already in force, is 1 April 2021.
 
-## 3. Appointed day – pre-application consultation[^key-2b551f177a5e2e740b3892306998f363]
+## 3. Appointed day – pre-application consultation[^c-2b551f177a5e2e740b3892306998f363]
 
-Subject to regulation 4, the day appointed for the coming into force of section 18(3) (pre-application consultation) of the Act is 1 October 2022[^key-31cbae4687711b8eef1d3288050c47ed].
+Subject to regulation 4, the day appointed for the coming into force of section 18(3) (pre-application consultation) of the Act is 1 October 2022[^c-31cbae4687711b8eef1d3288050c47ed].
 
-## 4. Transitional provision[^key-e287ea66da2c28c5ebb80bb9eacf556f]
+## 4. Transitional provision[^c-e287ea66da2c28c5ebb80bb9eacf556f]
 
-(1) Section 35B(3) (pre-application consultation: compliance) of the 1997 Act applies, as amended by section 18(3) of the Act, in relation to the submission of a relevant application with the modification that the maximum period of 18 months which is to elapse before the relevant application is submitted is to be treated as a reference to the period of 18 months beginning on 1 October 2022[^key-7094c923ebfbf9c8b9b56daec76a15ea] rather than to the period of 18 months after the giving of the proposal of application notice.
+(1) Section 35B(3) (pre-application consultation: compliance) of the 1997 Act applies, as amended by section 18(3) of the Act, in relation to the submission of a relevant application with the modification that the maximum period of 18 months which is to elapse before the relevant application is submitted is to be treated as a reference to the period of 18 months beginning on 1 October 2022[^c-7094c923ebfbf9c8b9b56daec76a15ea] rather than to the period of 18 months after the giving of the proposal of application notice.
 
-(2) In this regulation, “**relevant application**” means an application for planning permission in respect of which the prospective applicant has given a proposal of application notice to the planning authority before 1 October 2022[^key-415023e2888b80c0eae9df62946d8150].
+(2) In this regulation, “**relevant application**” means an application for planning permission in respect of which the prospective applicant has given a proposal of application notice to the planning authority before 1 October 2022[^c-415023e2888b80c0eae9df62946d8150].
 
 AILEEN CAMPBELL
 
@@ -106,18 +106,18 @@ The following provisions of the Planning (Scotland) Act 2019 have been brought i
 
 [^c24451511]: Marginal citation: [2019 asp 13](https://www.legislation.gov.uk/asp/2019/13).
 
-[^key-1ab5c2bb0365c645380003822906868f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/101/regulation/1) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
+[^c-1ab5c2bb0365c645380003822906868f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/101/regulation/1) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
 
 [^c24451521]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Section 35B was introduced into the Town and Country Planning (Scotland) Act 1997 by section 11 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
 
-[^key-283d5569e6e46f30af3c4af76bb1c0d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/101/regulation/2) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
+[^c-283d5569e6e46f30af3c4af76bb1c0d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/101/regulation/2) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
 
-[^key-2b551f177a5e2e740b3892306998f363]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/101/regulation/3) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
+[^c-2b551f177a5e2e740b3892306998f363]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/101/regulation/3) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
 
-[^key-31cbae4687711b8eef1d3288050c47ed]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2021/101/regulation/3) substituted (30.3.2022) by [The Planning (Scotland) Act 2019 (Commencement No. 6 and Transitional Provision) Amendment Regulations 2022 (S.S.I. 2022/67)](https://www.legislation.gov.uk/ssi/2022/67), [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/67/regulation/2/2)
+[^c-31cbae4687711b8eef1d3288050c47ed]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2021/101/regulation/3) substituted (30.3.2022) by [The Planning (Scotland) Act 2019 (Commencement No. 6 and Transitional Provision) Amendment Regulations 2022 (S.S.I. 2022/67)](https://www.legislation.gov.uk/ssi/2022/67), [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/67/regulation/2/2)
 
-[^key-e287ea66da2c28c5ebb80bb9eacf556f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/101/regulation/4) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
+[^c-e287ea66da2c28c5ebb80bb9eacf556f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/101/regulation/4) in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/1/1)
 
-[^key-7094c923ebfbf9c8b9b56daec76a15ea]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/4/1) substituted (30.3.2022) by [The Planning (Scotland) Act 2019 (Commencement No. 6 and Transitional Provision) Amendment Regulations 2022 (S.S.I. 2022/67)](https://www.legislation.gov.uk/ssi/2022/67), [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/67/regulation/2/3/a)
+[^c-7094c923ebfbf9c8b9b56daec76a15ea]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2021/101/regulation/4/1) substituted (30.3.2022) by [The Planning (Scotland) Act 2019 (Commencement No. 6 and Transitional Provision) Amendment Regulations 2022 (S.S.I. 2022/67)](https://www.legislation.gov.uk/ssi/2022/67), [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/67/regulation/2/3/a)
 
-[^key-415023e2888b80c0eae9df62946d8150]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2021/101/regulation/4/2) substituted (30.3.2022) by [The Planning (Scotland) Act 2019 (Commencement No. 6 and Transitional Provision) Amendment Regulations 2022 (S.S.I. 2022/67)](https://www.legislation.gov.uk/ssi/2022/67), [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/67/regulation/2/3/b)
+[^c-415023e2888b80c0eae9df62946d8150]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2021/101/regulation/4/2) substituted (30.3.2022) by [The Planning (Scotland) Act 2019 (Commencement No. 6 and Transitional Provision) Amendment Regulations 2022 (S.S.I. 2022/67)](https://www.legislation.gov.uk/ssi/2022/67), [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/67/regulation/2/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Revocation[^key-556ef00905402ec8f22e64b93013ad98]
+## 2. Revocation[^c-556ef00905402ec8f22e64b93013ad98]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Regulations specified in Schedule 1 are hereby revoked.
 
 ## Annotations
 
-[^key-556ef00905402ec8f22e64b93013ad98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1986/1078/regulation/2) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-556ef00905402ec8f22e64b93013ad98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1986/1078/regulation/2) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

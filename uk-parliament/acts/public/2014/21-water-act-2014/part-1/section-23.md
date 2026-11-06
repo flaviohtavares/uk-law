@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. General duty as regards undue preference in the provision of services[^key-c525d9a8b336ff09872ad4812ff2416b][^key-ac5ac051920c3260c4dad7459b598edf][^key-a43334381cedd6ea28713935daceefdb]
+## 23. General duty as regards undue preference in the provision of services[^c-c525d9a8b336ff09872ad4812ff2416b][^c-ac5ac051920c3260c4dad7459b598edf][^c-a43334381cedd6ea28713935daceefdb]
 
 *Extent: E+W*
 
@@ -30,8 +30,8 @@ In section 2 of the Water Industry Act 1991 (general duties of the Secretary of 
 
 ## Annotations
 
-[^key-c525d9a8b336ff09872ad4812ff2416b]: Commencement: S. 23 in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3320/article/3))
+[^c-c525d9a8b336ff09872ad4812ff2416b]: Commencement: S. 23 in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3320/article/3))
 
-[^key-ac5ac051920c3260c4dad7459b598edf]: Commencement: S. 23 in force at 6.4.2015 for W. for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/773/article/2/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/773/article/6))
+[^c-ac5ac051920c3260c4dad7459b598edf]: Commencement: S. 23 in force at 6.4.2015 for W. for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/773/article/2/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/773/article/6))
 
-[^key-a43334381cedd6ea28713935daceefdb]: Commencement: S. 23 in force at 1.4.2016 for E. in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/465/article/2/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-a43334381cedd6ea28713935daceefdb]: Commencement: S. 23 in force at 1.4.2016 for E. in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/465/article/2/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))

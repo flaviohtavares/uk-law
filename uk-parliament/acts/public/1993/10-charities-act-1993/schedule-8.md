@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Transitional Provisions[^key-c19229d866e13afe36d39b34d22ef788]
+## SCHEDULE 8 — Transitional Provisions[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Section 99(3), (4).
 
-### Part I — Provisions Applying Pending Coming Into Force of Part VI etc.[^key-c19229d866e13afe36d39b34d22ef788]
+### Part I — Provisions Applying Pending Coming Into Force of Part VI etc.[^c-c19229d866e13afe36d39b34d22ef788]
 
-**1.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Provisions Applying Pending Coming Into Force of “Financial Year” Regulations[^key-c19229d866e13afe36d39b34d22ef788]
+### Part II — Provisions Applying Pending Coming Into Force of “Financial Year” Regulations[^c-c19229d866e13afe36d39b34d22ef788]
 
-#### Section 5[^key-c19229d866e13afe36d39b34d22ef788]
+#### Section 5[^c-c19229d866e13afe36d39b34d22ef788]
 
-[^key-c19229d866e13afe36d39b34d22ef788]
+[^c-c19229d866e13afe36d39b34d22ef788]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Sections 74 and 75[^key-c19229d866e13afe36d39b34d22ef788]
+#### Sections 74 and 75[^c-c19229d866e13afe36d39b34d22ef788]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

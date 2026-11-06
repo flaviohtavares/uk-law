@@ -30,7 +30,7 @@ summary: ''
 
 (5) [^c20147631]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-6b9c1a7ee90e12f043f5d469c4749ada] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6b9c1a7ee90e12f043f5d469c4749ada] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7)[^c20147731] This section is without prejudice to the power conferred on the Auditor General for Wales by paragraph 18(3)(b) of Schedule 8 to the Government of Wales Act 2006 (agreement between a person and the Welsh Ministers[^c20212061] etc. to permit the Auditor General to carry out an examination into the discharge of functions by that person) .
 
@@ -40,7 +40,7 @@ summary: ''
 
 [^c20147631]: Textual amendment: S. 145(5) repealed (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [ss. 66](https://www.legislation.gov.uk/ukpga/2004/23/section/66), [72](https://www.legislation.gov.uk/ukpga/2004/23/section/72), [73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 47(1)(2)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/47/1/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/23/schedule/4); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-6b9c1a7ee90e12f043f5d469c4749ada]: Textual amendment: [S. 145(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/145/6) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 54](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/54) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-6b9c1a7ee90e12f043f5d469c4749ada]: Textual amendment: [S. 145(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/145/6) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 54](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/54) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
 [^c20147731]: Textual amendment: S. 145(7) inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [ss. 66](https://www.legislation.gov.uk/ukpga/2004/23/section/66), [73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 47(1)(3)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/47/1/3); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
 

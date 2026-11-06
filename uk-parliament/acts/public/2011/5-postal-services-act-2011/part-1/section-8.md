@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Transfer schemes[^key-b02b9833f6bd3e00bf1a49e625399476]
+## 8. Transfer schemes[^c-b02b9833f6bd3e00bf1a49e625399476]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b02b9833f6bd3e00bf1a49e625399476]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/5/section/8) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b02b9833f6bd3e00bf1a49e625399476]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/5/section/8) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Pensions[^key-7857a6ce84a35d683cffce2073cf740c]
+## 6. Pensions[^c-7857a6ce84a35d683cffce2073cf740c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7857a6ce84a35d683cffce2073cf740c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/20/section/6) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-7857a6ce84a35d683cffce2073cf740c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/20/section/6) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

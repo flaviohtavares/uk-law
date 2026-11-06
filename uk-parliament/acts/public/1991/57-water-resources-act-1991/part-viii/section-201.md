@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 201. Power to require information with respect to abstraction.[^key-beb4824bde4a2e18e657f3ebb52da4c9][^key-194bad99f1c66b1e0531a9011f211bdc]
+## 201. Power to require information with respect to abstraction.[^c-beb4824bde4a2e18e657f3ebb52da4c9][^c-194bad99f1c66b1e0531a9011f211bdc]
 
 *Extent: E+W*
 
-(1) Subject to subsection (2) below, the Secretary of State or the appropriate agency[^key-7290ae0588d46777aeda3443d4530945] may serve on any person a notice requiring that person to furnish him or, as the case may be, it, within a period or at times specified in the notice and in a form and manner so specified, with such information as is reasonably required by the Secretary of State or by the appropriate agency for the purpose of carrying out any of his or, as the case may be, its water resources functions.
+(1) Subject to subsection (2) below, the Secretary of State or the appropriate agency[^c-7290ae0588d46777aeda3443d4530945] may serve on any person a notice requiring that person to furnish him or, as the case may be, it, within a period or at times specified in the notice and in a form and manner so specified, with such information as is reasonably required by the Secretary of State or by the appropriate agency for the purpose of carrying out any of his or, as the case may be, its water resources functions.
 
 (2) The Secretary of State shall have power by regulations to make provision for restricting the information which may be required under subsection (1) above and for determining the form in which the information is to be so required.
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-beb4824bde4a2e18e657f3ebb52da4c9]: Modification: S. 201 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(3)(c)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/3/c), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
+[^c-beb4824bde4a2e18e657f3ebb52da4c9]: Modification: S. 201 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(3)(c)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/3/c), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
 
-[^key-194bad99f1c66b1e0531a9011f211bdc]: Textual amendment: S. 201 substituted (1.4.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 70](https://www.legislation.gov.uk/ukpga/2003/37/section/70), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/968/article/2/k)
+[^c-194bad99f1c66b1e0531a9011f211bdc]: Textual amendment: S. 201 substituted (1.4.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 70](https://www.legislation.gov.uk/ukpga/2003/37/section/70), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/968/article/2/k)
 
-[^key-7290ae0588d46777aeda3443d4530945]: Textual amendment: Words in ss. 199-203 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7290ae0588d46777aeda3443d4530945]: Textual amendment: Words in ss. 199-203 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

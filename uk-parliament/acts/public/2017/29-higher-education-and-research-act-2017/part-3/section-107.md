@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Provision of research services[^key-b05165cec4279b2b9a0f9625b4d5d4bf]
+## 107. Provision of research services[^c-b05165cec4279b2b9a0f9625b4d5d4bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b05165cec4279b2b9a0f9625b4d5d4bf]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2017/29/section/107) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-b05165cec4279b2b9a0f9625b4d5d4bf]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2017/29/section/107) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

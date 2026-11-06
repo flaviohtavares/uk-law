@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Sale of aerosol paint to children[^key-341e4311ab681b0f5bd56df797dc9e7e]
+## 54. Sale of aerosol paint to children[^c-341e4311ab681b0f5bd56df797dc9e7e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-341e4311ab681b0f5bd56df797dc9e7e]: Commencement: S. 54 in force at 31.3.2004 by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2004/690/article/2/a/ii)
+[^c-341e4311ab681b0f5bd56df797dc9e7e]: Commencement: S. 54 in force at 31.3.2004 by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2004/690/article/2/a/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Procedure for requests that a place for a meeting should be specified[^key-fda9b26e8fe1f115d4589f18a607e405]
+## 79. Procedure for requests that a place for a meeting should be specified[^c-fda9b26e8fe1f115d4589f18a607e405]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fda9b26e8fe1f115d4589f18a607e405]: Commencement: Rule 79 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-fda9b26e8fe1f115d4589f18a607e405]: Commencement: Rule 79 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

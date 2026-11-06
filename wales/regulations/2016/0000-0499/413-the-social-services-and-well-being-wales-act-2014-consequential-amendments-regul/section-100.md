@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**100.**[^key-7d0df04a2218e7c9d22e8901361b3438] In section 47 (local authority’s duty to investigate), for subsection (3)(a)[^f00122] substitute—
+**100.**[^c-7d0df04a2218e7c9d22e8901361b3438] In section 47 (local authority’s duty to investigate), for subsection (3)(a)[^f00122] substitute—
 
 > - (a) whether the authority should—
 >   - (i) make any application to court under this Act;
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d0df04a2218e7c9d22e8901361b3438]: Commencement: Reg. 100 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7d0df04a2218e7c9d22e8901361b3438]: Commencement: Reg. 100 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00122]: Footnote: Section 47(3) was amended by the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 69.

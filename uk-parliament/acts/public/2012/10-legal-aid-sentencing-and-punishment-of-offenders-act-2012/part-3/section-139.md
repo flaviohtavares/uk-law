@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Establishment or alteration of rehabilitation periods[^key-f975e90c1d608041c877cf05ce2b43cd]
+## 139. Establishment or alteration of rehabilitation periods[^c-f975e90c1d608041c877cf05ce2b43cd]
 
 *Extent: E+W*
 
-(1)[^key-eaaabe07fc89f363c6a55c97eaa401e5] The Rehabilitation of Offenders Act 1974 is amended as follows.
+(1)[^c-eaaabe07fc89f363c6a55c97eaa401e5] The Rehabilitation of Offenders Act 1974 is amended as follows.
 
 (2) In section 5(1)(b) and (d) (sentences excluded from rehabilitation) for “thirty months” substitute “ forty eight months ”.
 
 (3) In the opening words of section 5(1A) (references to provisions of the Armed Forces Act 2006) for “subsection (1)(d)” substitute “ this section ”.
 
-(4)[^key-eaaabe07fc89f363c6a55c97eaa401e5] For section 5(2) to (11) (rehabilitation periods) substitute—
+(4)[^c-eaaabe07fc89f363c6a55c97eaa401e5] For section 5(2) to (11) (rehabilitation periods) substitute—
 
 > (2) For the purposes of this Act and subject to subsections (3) and (4), the rehabilitation period for a sentence is the period—
 >
@@ -150,6 +150,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f975e90c1d608041c877cf05ce2b43cd]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2012/10/section/139) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/423/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-f975e90c1d608041c877cf05ce2b43cd]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2012/10/section/139) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/423/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-eaaabe07fc89f363c6a55c97eaa401e5]: Modification: [S. 139(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/139/1)[(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/139/4) modified by 1997 c. 50, s. 113(6F) (as inserted (29.5.2013) by [The Police Act 1997 (Criminal Record Certificates: Relevant Matters) (Amendment) (England and Wales) Order 2013 (S.I. 2013/1200)](https://www.legislation.gov.uk/uksi/2013/1200), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1200/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1200/article/4))
+[^c-eaaabe07fc89f363c6a55c97eaa401e5]: Modification: [S. 139(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/139/1)[(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/139/4) modified by 1997 c. 50, s. 113(6F) (as inserted (29.5.2013) by [The Police Act 1997 (Criminal Record Certificates: Relevant Matters) (Amendment) (England and Wales) Order 2013 (S.I. 2013/1200)](https://www.legislation.gov.uk/uksi/2013/1200), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1200/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1200/article/4))

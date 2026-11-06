@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. The Office for Nuclear Regulation[^key-1cbe2aa0a740f5a1c82c891a0fc1d71b]
+## 77. The Office for Nuclear Regulation[^c-1cbe2aa0a740f5a1c82c891a0fc1d71b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cbe2aa0a740f5a1c82c891a0fc1d71b]: Commencement: S. 77 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/251/article/3/b)
+[^c-1cbe2aa0a740f5a1c82c891a0fc1d71b]: Commencement: S. 77 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/251/article/3/b)

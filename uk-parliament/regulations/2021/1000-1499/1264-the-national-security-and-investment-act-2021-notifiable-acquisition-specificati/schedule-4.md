@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Activity - civil nuclear[^key-f83dc6913ac0366ca0a71182ced4b6ba]
+### 1. Activity - civil nuclear[^c-f83dc6913ac0366ca0a71182ced4b6ba]
 
 A qualifying entity carrying on activities that consist of or include any of the following—
 
@@ -36,13 +36,13 @@ A qualifying entity carrying on activities that consist of or include any of the
 - (h) holding sensitive nuclear information as defined in section 77(7) of the Anti-Terrorism, Crime and Security Act 2001[^f00015];
 - (i) being given financial support under section 5 of the Science and Technology Act 1965[^f00016], or under section 93 of the Higher Education and Research Act 2017[^f00017], for or in relation to nuclear reactors (as defined in section 26 of the Nuclear Installations Act 1965).
 
-### 2. Exclusion[^key-30c59046cd727f31fa57ea5734324524]
+### 2. Exclusion[^c-30c59046cd727f31fa57ea5734324524]
 
 Paragraph 1(a) or (b) do not apply where the site to which the nuclear site licence relates is controlled or operated wholly or mainly for defence purposes as defined in section 70(3) of the Energy Act 2013[^f00018].
 
 ## Annotations
 
-[^key-f83dc6913ac0366ca0a71182ced4b6ba]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/4/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-f83dc6913ac0366ca0a71182ced4b6ba]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/4/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00009]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57). Section 3 was substituted by the Energy Act [2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), section 116, Schedule 12, Part 2, paragraphs 16 and 18.
 
@@ -62,6 +62,6 @@ Paragraph 1(a) or (b) do not apply where the site to which the nuclear site lice
 
 [^f00017]: Footnote: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-30c59046cd727f31fa57ea5734324524]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/4/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-30c59046cd727f31fa57ea5734324524]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/4/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00018]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).

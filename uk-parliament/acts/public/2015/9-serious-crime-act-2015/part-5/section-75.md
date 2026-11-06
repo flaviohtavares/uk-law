@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Guidance about female genital mutilation[^key-e46c30b69b1d1b4dade61d49184f17cc]
+## 75. Guidance about female genital mutilation[^c-e46c30b69b1d1b4dade61d49184f17cc]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e46c30b69b1d1b4dade61d49184f17cc]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2015/9/section/75) in force at 31.10.2015 by [S.I. 2015/1809](https://www.legislation.gov.uk/uksi/2015/1809), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1809/regulation/2/b)
+[^c-e46c30b69b1d1b4dade61d49184f17cc]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2015/9/section/75) in force at 31.10.2015 by [S.I. 2015/1809](https://www.legislation.gov.uk/uksi/2015/1809), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1809/regulation/2/b)

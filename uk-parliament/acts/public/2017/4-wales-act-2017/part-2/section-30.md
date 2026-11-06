@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendments of Harbours Act 1964[^key-4dfba915880abf11b6b07e0ebf8e005b]
+## 30. Amendments of Harbours Act 1964[^c-4dfba915880abf11b6b07e0ebf8e005b]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dfba915880abf11b6b07e0ebf8e005b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/4/section/30) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-4dfba915880abf11b6b07e0ebf8e005b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/4/section/30) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

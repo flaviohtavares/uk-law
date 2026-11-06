@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Variation of the terms of a registered charge[^key-427977c14c48f23e08dbce2fd4a17198]
+## 113. Variation of the terms of a registered charge[^c-427977c14c48f23e08dbce2fd4a17198]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-427977c14c48f23e08dbce2fd4a17198]: Textual amendment: Rule 113 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/41) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-427977c14c48f23e08dbce2fd4a17198]: Textual amendment: Rule 113 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/41) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

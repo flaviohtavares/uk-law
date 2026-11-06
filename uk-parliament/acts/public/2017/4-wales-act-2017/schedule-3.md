@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — New Schedule 9A to the Government of Wales Act 2006[^key-f1d00fe67900f9bef0a9d346d583d969]
+## SCHEDULE 3 — New Schedule 9A to the Government of Wales Act 2006[^c-f1d00fe67900f9bef0a9d346d583d969]
 
 *Extent: E+W+S+N.I.*
 
 Section 4
 
-[^key-f1d00fe67900f9bef0a9d346d583d969]
+[^c-f1d00fe67900f9bef0a9d346d583d969]
 
 This Schedule sets out the new Schedule 9A to the Government of Wales Act 2006, to be inserted after Schedule 9 to that Act—
 
@@ -102,4 +102,4 @@ This Schedule sets out the new Schedule 9A to the Government of Wales Act 2006, 
 
 ## Annotations
 
-[^key-f1d00fe67900f9bef0a9d346d583d969]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/4/schedule/3) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/o)
+[^c-f1d00fe67900f9bef0a9d346d583d969]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/4/schedule/3) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/o)

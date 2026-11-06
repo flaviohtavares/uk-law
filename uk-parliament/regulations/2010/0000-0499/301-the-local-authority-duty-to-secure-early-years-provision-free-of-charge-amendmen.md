@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2010 (revoked)[^key-cbdc9d3405571c4113908796c589c35b]
+The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2010 (revoked)[^c-cbdc9d3405571c4113908796c589c35b]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 1st September 2010
 
-[^key-cbdc9d3405571c4113908796c589c35b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbdc9d3405571c4113908796c589c35b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cbdc9d3405571c4113908796c589c35b]
+## 1. Citation and commencement[^c-cbdc9d3405571c4113908796c589c35b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2008[^key-cbdc9d3405571c4113908796c589c35b]
+## 2. Amendment to the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2008[^c-cbdc9d3405571c4113908796c589c35b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cbdc9d3405571c4113908796c589c35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cbdc9d3405571c4113908796c589c35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cbdc9d3405571c4113908796c589c35b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbdc9d3405571c4113908796c589c35b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cbdc9d3405571c4113908796c589c35b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbdc9d3405571c4113908796c589c35b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cbdc9d3405571c4113908796c589c35b]: Textual amendment: Regulations revoked (1.9.2013) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2012 (S.I. 2012/2488)](https://www.legislation.gov.uk/uksi/2012/2488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/5/b)
+[^c-cbdc9d3405571c4113908796c589c35b]: Textual amendment: Regulations revoked (1.9.2013) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2012 (S.I. 2012/2488)](https://www.legislation.gov.uk/uksi/2012/2488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/5/b)

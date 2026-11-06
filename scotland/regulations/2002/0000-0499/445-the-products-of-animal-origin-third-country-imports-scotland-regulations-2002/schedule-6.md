@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — OFFENCE PROVISIONS[^key-773713172fcc412278acac5841935b06]
+## SCHEDULE 6 — OFFENCE PROVISIONS[^c-773713172fcc412278acac5841935b06]
 
 *Extent: S*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulations 56 and 57
 
-### PART I — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS AVAILABLE[^key-773713172fcc412278acac5841935b06]
+### PART I — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS AVAILABLE[^c-773713172fcc412278acac5841935b06]
 
-#### Regulations–[^key-773713172fcc412278acac5841935b06]
+#### Regulations–[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS NOT AVAILABLE[^key-773713172fcc412278acac5841935b06]
+### PART II — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS NOT AVAILABLE[^c-773713172fcc412278acac5841935b06]
 
-#### Regulations–[^key-773713172fcc412278acac5841935b06]
+#### Regulations–[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)
+[^c-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)

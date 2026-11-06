@@ -26,7 +26,7 @@ summary: ''
 
 - (a) stating the grounds of the application,
 - (b) verifying the facts relied on as excepting the State from the immunity conferred by section 1 of the Act, and
-- (c) verifying that the civil bill has been served by being transmitted through the Foreign, Commonwealth and Development Office[^key-ef9baf97992fea45183e0f240b9398e7] to the Ministry of Foreign Affairs of the State, or in such other manner as may have been agreed to by the State, and that the time for serving a notice of intention to defend, as extended by section 12(2) of the Act (by two months) where applicable, has expired.
+- (c) verifying that the civil bill has been served by being transmitted through the Foreign, Commonwealth and Development Office[^c-ef9baf97992fea45183e0f240b9398e7] to the Ministry of Foreign Affairs of the State, or in such other manner as may have been agreed to by the State, and that the time for serving a notice of intention to defend, as extended by section 12(2) of the Act (by two months) where applicable, has expired.
 
 (3) The application may be made ex parte but the district judge hearing the application may direct an application to be issued and served on that State, for which purpose such a direction shall include leave to serve the application and a copy of the affidavit out of the jurisdiction.
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^f00127]: Footnote: [1978 c. 33](https://www.legislation.gov.uk/ukpga/1978/33)
 
-[^key-ef9baf97992fea45183e0f240b9398e7]: Textual amendment: Words in Order 12 rule 8(2)(c) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/9)
+[^c-ef9baf97992fea45183e0f240b9398e7]: Textual amendment: Words in Order 12 rule 8(2)(c) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/9)

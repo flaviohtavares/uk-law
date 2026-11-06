@@ -26,9 +26,9 @@ Section 7
 
 #### Amendments to the Value Added Tax Act 1994
 
-**1.**[^c24416061][^key-414b5f03c6a37eeb0b8572e71fef4a62] VATA 1994 is amended as follows.
+**1.**[^c24416061][^c-414b5f03c6a37eeb0b8572e71fef4a62] VATA 1994 is amended as follows.
 
-**2.**[^c24416071][^key-04d1da8b47a4aa602b4bc8abfaccaa08] After section 5 insert—
+**2.**[^c24416071][^c-04d1da8b47a4aa602b4bc8abfaccaa08] After section 5 insert—
 
 > **5A. Supplies of goods facilitated by online marketplaces: deemed supply**
 >
@@ -55,7 +55,7 @@ Section 7
 >
 > (5) The Commissioners may by regulations substitute a different figure for a figure that is at any time specified in subsection (3)(b).
 
-**3.**[^c24416081][^key-759f1a8d2445f4c95aae24a0ae66c9e3] (1) Section 5A (supplies of goods facilitated by online marketplaces: deemed supply) (inserted by paragraph 2 of this Schedule) is amended as follows.
+**3.**[^c24416081][^c-759f1a8d2445f4c95aae24a0ae66c9e3] (1) Section 5A (supplies of goods facilitated by online marketplaces: deemed supply) (inserted by paragraph 2 of this Schedule) is amended as follows.
 
 (2) In subsection (1), for paragraph (c) substitute—
 
@@ -87,7 +87,7 @@ Section 7
 > - “**relevant period**” means the period of 7 days beginning with the day on which the supply is treated as taking place under section 6 or such longer period as the Commissioners may allow in general or specific directions;
 > - “**VAT registration number**” means the number allocated by the Commissioners to a person registered under this Act.
 
-**4.**[^c24416091][^key-d5544c59cc9c1c46820ae1091d7efa62] (1) Section 7 (place of supply of goods) is amended as follows.
+**4.**[^c24416091][^c-d5544c59cc9c1c46820ae1091d7efa62] (1) Section 7 (place of supply of goods) is amended as follows.
 
 (2) Before subsection (6) insert—
 
@@ -109,7 +109,7 @@ Section 7
 
 > (9A) The Commissioners may by regulations substitute a different figure for a figure that is at any time specified in subsection (5B)(c).
 
-**5.**[^c24416101][^key-0688830d9a604d69e1db8e0b8f74692f] After section 7 insert—
+**5.**[^c24416101][^c-0688830d9a604d69e1db8e0b8f74692f] After section 7 insert—
 
 > **7AA. Reverse charge on goods supplied from abroad**
 >
@@ -130,9 +130,9 @@ Section 7
 >
 > (3) The Commissioners may by regulations substitute a different figure for a figure that is at any time specified in subsection (1)(d).
 
-**6.**[^c24416111][^key-f04a66cd2ff33d365de7c39a8ec0641d] In section 16A(1) (postal packets) omit “(within the meaning of the Postal Services Act 2000)”.
+**6.**[^c24416111][^c-f04a66cd2ff33d365de7c39a8ec0641d] In section 16A(1) (postal packets) omit “(within the meaning of the Postal Services Act 2000)”.
 
-**7.**[^c24416141][^key-b4a2001692e3fe07d417134017bfa9a0] (1) Section 37 (relief from VAT on importation of goods) is amended as follows.
+**7.**[^c24416141][^c-b4a2001692e3fe07d417134017bfa9a0] (1) Section 37 (relief from VAT on importation of goods) is amended as follows.
 
 (2) For the heading, substitute “ VAT on importation of goods: reliefs etc ”.
 
@@ -140,17 +140,17 @@ Section 7
 
 > (A1) No VAT is chargeable on the importation of goods to which section 7(5B) applies.
 
-**8.**[^c24416151][^key-3ae7b21367da426b8d25a98ff3e6b584] In section 77B (joint and several liability: sellers identified as non-compliant by the Commissioners) omit subsections (9) and (12).
+**8.**[^c24416151][^c-3ae7b21367da426b8d25a98ff3e6b584] In section 77B (joint and several liability: sellers identified as non-compliant by the Commissioners) omit subsections (9) and (12).
 
-**9.**[^c24416161][^key-37b4d2b611199709187eea9ab5fcc4c4] In section 77BA (joint and several liability: non-UK sellers in breach of Schedule 1A registration requirement) omit subsection (8).
+**9.**[^c24416161][^c-37b4d2b611199709187eea9ab5fcc4c4] In section 77BA (joint and several liability: non-UK sellers in breach of Schedule 1A registration requirement) omit subsection (8).
 
-**10.**[^c24416171][^key-2966ace7077619ff69e98377b5c4c5a3] In section 77C (joint and several liability under section 77B or 77BA: assessments) omit subsection (9).
+**10.**[^c24416171][^c-2966ace7077619ff69e98377b5c4c5a3] In section 77C (joint and several liability under section 77B or 77BA: assessments) omit subsection (9).
 
-**11.**[^c24416181][^key-822f0c1b9796cf84bae8d4a2ca6e6fad] In section 77D (joint and several liability under section 77B or 77BA: interest) omit subsection (8).
+**11.**[^c24416181][^c-822f0c1b9796cf84bae8d4a2ca6e6fad] In section 77D (joint and several liability under section 77B or 77BA: interest) omit subsection (8).
 
-**12.**[^c24416191][^key-28255a1d6018be706f86093af45c8b8a] In section 77E (display of VAT registration numbers), in subsection (9) omit the definition of “online marketplace” and “operator”.
+**12.**[^c24416191][^c-28255a1d6018be706f86093af45c8b8a] In section 77E (display of VAT registration numbers), in subsection (9) omit the definition of “online marketplace” and “operator”.
 
-**13.**[^c24416201][^key-725d95aad844bba1e104f0965e36266d] After section 77E insert—
+**13.**[^c24416201][^c-725d95aad844bba1e104f0965e36266d] After section 77E insert—
 
 > **Liability of operators of online marketplaces for VAT in cases of deemed supply**
 >
@@ -168,7 +168,7 @@ Section 7
 > - (a) the place of establishment of the person making taxable supplies facilitated by the online marketplace;
 > - (b) the location of the goods at the time of their supply.
 
-**14.**[^c24416211][^key-e411db27d8e2dfbd558f7ba289c840c8] Before section 96 insert—
+**14.**[^c24416211][^c-e411db27d8e2dfbd558f7ba289c840c8] Before section 96 insert—
 
 > **95A. Meaning of “online marketplace” and “operator” etc**
 >
@@ -190,7 +190,7 @@ Section 7
 > - “online marketplace”, and
 > - “operator”.
 
-**15.**[^c24416221][^key-98aaf054736dd68938c4b79823441136] In section 96(1) (other interpretative provisions), at the appropriate places insert—
+**15.**[^c24416221][^c-98aaf054736dd68938c4b79823441136] In section 96(1) (other interpretative provisions), at the appropriate places insert—
 
 > “**postal operator**” means a person who provides—
 >
@@ -203,7 +203,7 @@ Section 7
 
 .
 
-**16.**[^c24416231][^key-dd2e3048415d86208b9b18dd0de7d309] (1) Schedule 8 (zero-rating) is amended as follows.
+**16.**[^c24416231][^c-dd2e3048415d86208b9b18dd0de7d309] (1) Schedule 8 (zero-rating) is amended as follows.
 
 (2) In Part 1 (index to zero-rated supplies of goods and services), at the appropriate place insert—
 
@@ -221,7 +221,7 @@ Section 7
 >
 > **1.** A supply by a person established outside the United Kingdom that is deemed to be a supply to an operator of an online marketplace by virtue of section 5A, provided that the supply does not involve the goods being imported for the purposes of that section.
 
-**17.**[^c24416241][^key-285adc9e7d84f9bb33d68c1b5700b3ce] (1) In Schedule 11 (administration, collection and enforcement), paragraph 6 (record keeping) is amended as follows.
+**17.**[^c24416241][^c-285adc9e7d84f9bb33d68c1b5700b3ce] (1) In Schedule 11 (administration, collection and enforcement), paragraph 6 (record keeping) is amended as follows.
 
 (2) Before sub-paragraph (5) insert—
 
@@ -244,13 +244,13 @@ Section 7
 
 #### Amendment to the Value Added Tax (Imported Goods) Relief Order 1984
 
-**18.**[^c24416251][^key-a45c3a6fcec8900f911d9e60d264478d] In Schedule 2 to the Value Added Tax (Imported Goods) Relief Order 1984 (S.I. 1984/746) (reliefs for goods of certain descriptions), omit Item 8 and Notes (2) and (3) in Group 8 (low value consignment relief).
+**18.**[^c24416251][^c-a45c3a6fcec8900f911d9e60d264478d] In Schedule 2 to the Value Added Tax (Imported Goods) Relief Order 1984 (S.I. 1984/746) (reliefs for goods of certain descriptions), omit Item 8 and Notes (2) and (3) in Group 8 (low value consignment relief).
 
 #### Amendments to the Value Added Tax Regulations 1995
 
-**19.**[^c24416261][^key-a10b4e07798b46ef6f588f2bcdc68ff4] The Value Added Tax Regulations 1995 (S.I. 1995/2518) are amended as follows.
+**19.**[^c24416261][^c-a10b4e07798b46ef6f588f2bcdc68ff4] The Value Added Tax Regulations 1995 (S.I. 1995/2518) are amended as follows.
 
-**20.**[^c24416271][^key-e9b15e463556702465e136fdf6529455] In regulation 13(1) (obligation to supply a VAT invoice), before sub-paragraph (2) insert—
+**20.**[^c24416271][^c-e9b15e463556702465e136fdf6529455] In regulation 13(1) (obligation to supply a VAT invoice), before sub-paragraph (2) insert—
 
 > (1C) Save as otherwise provided in these Regulations, where a registered person makes a taxable supply of goods to a person who is not a taxable person, if—
 >
@@ -259,7 +259,7 @@ Section 7
 >
 > the registered person must provide the other person with a VAT invoice.
 
-**21.**[^c24416281][^key-b08eec8c304314ee4598b57c5f5d71f9] (1) Regulation 13A (electronic invoicing) is amended as follows.
+**21.**[^c24416281][^c-b08eec8c304314ee4598b57c5f5d71f9] (1) Regulation 13A (electronic invoicing) is amended as follows.
 
 (2) In paragraph (1) for “goods or services” substitute “ services or relevant goods ”.
 
@@ -270,7 +270,7 @@ Section 7
 > - (a) the supply of which is deemed to be a supply by an operator of an online marketplace by virtue of section 5A of the Act, or
 > - (b) the place of supply of which is determined by section 7(5B) of the Act.
 
-**22.**[^c24416291][^key-eae8f083f74838e3132a1b75d671d2a5] (1) Regulation 15 (change of rate, credit notes) is amended as follows.
+**22.**[^c24416291][^c-eae8f083f74838e3132a1b75d671d2a5] (1) Regulation 15 (change of rate, credit notes) is amended as follows.
 
 (2) The existing text becomes paragraph (1).
 
@@ -280,7 +280,7 @@ Section 7
 
 > (2) In this regulation, “**relevant supply**” means a supply of goods or services other than a supply of goods to a person who is not a taxable person.
 
-**23.**[^c24416301][^key-46838cf993923ec5137dd92a8b182e37] (1) Regulation 15C (changes in consideration: debit notes and credit notes) is amended as follows.
+**23.**[^c24416301][^c-46838cf993923ec5137dd92a8b182e37] (1) Regulation 15C (changes in consideration: debit notes and credit notes) is amended as follows.
 
 (2) In paragraph (1), at the end insert “ , subject to paragraph (1A) ”.
 
@@ -288,7 +288,7 @@ Section 7
 
 > (1A) This regulation does not apply in relation to a case where the original supply was a supply of goods to a person who was not a taxable person.
 
-**24.**[^c24416311][^key-1d20851166434d4b376d85dcb98427c3] After regulation 16A insert—
+**24.**[^c24416311][^c-1d20851166434d4b376d85dcb98427c3] After regulation 16A insert—
 
 > **Retailers' and simplified invoices: exceptions**
 >
@@ -301,16 +301,16 @@ Section 7
 
 #### Amendments to the Value Added Tax Act 1994
 
-**25.**[^c24416321][^key-7edc03bffa9bc5c1b73a09b65cb96118] VATA 1994 is amended as follows.
+**25.**[^c24416321][^c-7edc03bffa9bc5c1b73a09b65cb96118] VATA 1994 is amended as follows.
 
-**26.**[^c24416331][^key-e34a1bb18b21f9b279a7fbdbc0fa9c89] In section 40A (Northern Ireland Protocol) (inserted by section 3 of this Act), after subsection (2) insert—
+**26.**[^c24416331][^c-e34a1bb18b21f9b279a7fbdbc0fa9c89] In section 40A (Northern Ireland Protocol) (inserted by section 3 of this Act), after subsection (2) insert—
 
 > (3) Schedule 9ZC makes provision, as a result of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement, about the application of this Act in cases involving—
 >
 > - (a) supplies of goods by persons established outside the United Kingdom that are facilitated by online marketplaces, and
 > - (b) the importation of goods of a low value.
 
-**27.**[^c24416341][^key-27640a53fd292a12d8d68d51c66a5be0] (1) Schedule 9ZB (inserted by paragraph 2 of Schedule 2 to this Act) is amended as follows.
+**27.**[^c24416341][^c-27640a53fd292a12d8d68d51c66a5be0] (1) Schedule 9ZB (inserted by paragraph 2 of Schedule 2 to this Act) is amended as follows.
 
 (2) After paragraph 1(8) insert—
 
@@ -322,7 +322,7 @@ Section 7
 
 > (11) Sub-paragraphs (3) and (4) are subject to paragraph 4A of Schedule 9ZC.
 
-**28.**[^c24416351][^key-135dc69073cd14dd7b85283d91217fe5] After that Schedule insert—
+**28.**[^c24416351][^c-135dc69073cd14dd7b85283d91217fe5] After that Schedule insert—
 
 > **SCHEDULE 9ZC — Online sales by overseas persons and low value importations: modifications relating to the Northern Ireland Protocol**
 >
@@ -506,7 +506,7 @@ Section 7
 > > | --- | --- |
 > > | Value added tax | Obligation under paragraph 8 of Schedule 9ZC to VATA 1994 (obligations to notify liability to register and notify matters affecting continuance of registration). |
 
-**29.**[^c24416361][^key-898013d10ceaae087cba5ed8e9e87a7b] (1) Part 1 of Schedule 9ZC (inserted by paragraph 28) is amended as follows.
+**29.**[^c24416361][^c-898013d10ceaae087cba5ed8e9e87a7b] (1) Part 1 of Schedule 9ZC (inserted by paragraph 28) is amended as follows.
 
 (2) After paragraph 1 insert—
 
@@ -538,116 +538,116 @@ Section 7
 
 [^c24416061]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/1) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-414b5f03c6a37eeb0b8572e71fef4a62]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-414b5f03c6a37eeb0b8572e71fef4a62]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416071]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/2) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-04d1da8b47a4aa602b4bc8abfaccaa08]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-04d1da8b47a4aa602b4bc8abfaccaa08]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416081]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/3) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-759f1a8d2445f4c95aae24a0ae66c9e3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-759f1a8d2445f4c95aae24a0ae66c9e3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416091]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/4) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-d5544c59cc9c1c46820ae1091d7efa62]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-d5544c59cc9c1c46820ae1091d7efa62]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416101]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/5) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-0688830d9a604d69e1db8e0b8f74692f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-0688830d9a604d69e1db8e0b8f74692f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416111]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/6) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-f04a66cd2ff33d365de7c39a8ec0641d]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-f04a66cd2ff33d365de7c39a8ec0641d]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416141]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/7) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-b4a2001692e3fe07d417134017bfa9a0]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-b4a2001692e3fe07d417134017bfa9a0]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416151]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/8) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-3ae7b21367da426b8d25a98ff3e6b584]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-3ae7b21367da426b8d25a98ff3e6b584]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416161]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/9) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-37b4d2b611199709187eea9ab5fcc4c4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-37b4d2b611199709187eea9ab5fcc4c4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416171]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/10) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-2966ace7077619ff69e98377b5c4c5a3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-2966ace7077619ff69e98377b5c4c5a3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416181]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/11) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-822f0c1b9796cf84bae8d4a2ca6e6fad]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-822f0c1b9796cf84bae8d4a2ca6e6fad]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416191]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/12) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-28255a1d6018be706f86093af45c8b8a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-28255a1d6018be706f86093af45c8b8a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416201]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/13) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-725d95aad844bba1e104f0965e36266d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/13) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-725d95aad844bba1e104f0965e36266d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/13) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416211]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/14) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-e411db27d8e2dfbd558f7ba289c840c8]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/14) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-e411db27d8e2dfbd558f7ba289c840c8]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/14) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416221]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/15) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-98aaf054736dd68938c4b79823441136]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/15) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-98aaf054736dd68938c4b79823441136]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/15) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416231]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/16) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-dd2e3048415d86208b9b18dd0de7d309]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/16) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-dd2e3048415d86208b9b18dd0de7d309]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/16) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416241]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/17) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-285adc9e7d84f9bb33d68c1b5700b3ce]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/17) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-285adc9e7d84f9bb33d68c1b5700b3ce]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/17) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416251]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/18) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-a45c3a6fcec8900f911d9e60d264478d]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/18) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-a45c3a6fcec8900f911d9e60d264478d]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/18) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416261]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/19) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-a10b4e07798b46ef6f588f2bcdc68ff4]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/19) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-a10b4e07798b46ef6f588f2bcdc68ff4]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/19) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416271]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/20) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-e9b15e463556702465e136fdf6529455]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/20) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-e9b15e463556702465e136fdf6529455]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/20) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416281]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/21) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-b08eec8c304314ee4598b57c5f5d71f9]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/21) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-b08eec8c304314ee4598b57c5f5d71f9]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/21) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416291]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/22) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-eae8f083f74838e3132a1b75d671d2a5]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/22) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-eae8f083f74838e3132a1b75d671d2a5]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/22) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416301]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/23) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-46838cf993923ec5137dd92a8b182e37]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/23) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-46838cf993923ec5137dd92a8b182e37]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/23) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416311]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/24) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-1d20851166434d4b376d85dcb98427c3]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/24) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-1d20851166434d4b376d85dcb98427c3]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/24) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416321]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/25) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-7edc03bffa9bc5c1b73a09b65cb96118]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/25) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-7edc03bffa9bc5c1b73a09b65cb96118]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/25) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416331]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/26) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-e34a1bb18b21f9b279a7fbdbc0fa9c89]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/26) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-e34a1bb18b21f9b279a7fbdbc0fa9c89]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/26) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416341]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/27) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-27640a53fd292a12d8d68d51c66a5be0]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/27) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-27640a53fd292a12d8d68d51c66a5be0]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/27) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416351]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/28) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-135dc69073cd14dd7b85283d91217fe5]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/28) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-135dc69073cd14dd7b85283d91217fe5]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/28) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24416361]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/29) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-898013d10ceaae087cba5ed8e9e87a7b]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/29) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-898013d10ceaae087cba5ed8e9e87a7b]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/29) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

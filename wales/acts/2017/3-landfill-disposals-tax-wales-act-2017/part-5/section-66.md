@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Penalty for failure to comply with other requirements relating to registration[^key-2bf6dba9c45ff110251c72e2d1214dd7]
+## 66. Penalty for failure to comply with other requirements relating to registration[^c-2bf6dba9c45ff110251c72e2d1214dd7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf6dba9c45ff110251c72e2d1214dd7]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2017/3/section/66) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(t)](https://www.legislation.gov.uk/wsi/2018/35/article/2/t)
+[^c-2bf6dba9c45ff110251c72e2d1214dd7]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2017/3/section/66) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(t)](https://www.legislation.gov.uk/wsi/2018/35/article/2/t)

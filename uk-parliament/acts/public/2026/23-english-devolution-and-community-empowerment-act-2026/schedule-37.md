@@ -22,11 +22,11 @@ summary: ''
 
 Section 100
 
-### 1. Introduction[^key-b07974e0d706f1d123ef25405f03c9f3]
+### 1. Introduction[^c-b07974e0d706f1d123ef25405f03c9f3]
 
 The Landlord and Tenant Act 1954 is amended in accordance with this Schedule.
 
-### 2. New Schedules 7A and 7B[^key-18140608d3b270fbb39e199bb6ebb835]
+### 2. New Schedules 7A and 7B[^c-18140608d3b270fbb39e199bb6ebb835]
 
 Before Schedule 8 of the Landlord and Tenant Act 1954 insert—
 
@@ -410,7 +410,7 @@ Before Schedule 8 of the Landlord and Tenant Act 1954 insert—
 > - “**rent determination terms**” has the meaning given in paragraph 6;
 > - “**tenancy renewal arrangement**” has the meaning given in paragraph 3(2).
 
-### 3. Crown application[^key-ee0b8e079aea5d0e724e77969ab4a368]
+### 3. Crown application[^c-ee0b8e079aea5d0e724e77969ab4a368]
 
 In section 56 (application to the Crown), after subsection (6) insert—
 
@@ -418,8 +418,8 @@ In section 56 (application to the Crown), after subsection (6) insert—
 
 ## Annotations
 
-[^key-b07974e0d706f1d123ef25405f03c9f3]: Commencement: Sch. 37 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-b07974e0d706f1d123ef25405f03c9f3]: Commencement: Sch. 37 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-18140608d3b270fbb39e199bb6ebb835]: Commencement: Sch. 37 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-18140608d3b270fbb39e199bb6ebb835]: Commencement: Sch. 37 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-ee0b8e079aea5d0e724e77969ab4a368]: Commencement: Sch. 37 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-ee0b8e079aea5d0e724e77969ab4a368]: Commencement: Sch. 37 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

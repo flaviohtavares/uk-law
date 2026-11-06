@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Trustees’ personal liability for beneficiary’s loss[^key-bc8603027d7d9d7a7b92f83eac455b80]
+## 36. Trustees’ personal liability for beneficiary’s loss[^c-bc8603027d7d9d7a7b92f83eac455b80]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc8603027d7d9d7a7b92f83eac455b80]: Commencement: S. 36 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-bc8603027d7d9d7a7b92f83eac455b80]: Commencement: S. 36 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

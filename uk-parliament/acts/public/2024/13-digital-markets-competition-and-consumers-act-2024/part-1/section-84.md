@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Compliance reports[^key-5f9cde240fd4223cc756ccdb115e9a03][^key-302c597dab495ff49f8d7ab189e6eb81]
+## 84. Compliance reports[^c-5f9cde240fd4223cc756ccdb115e9a03][^c-302c597dab495ff49f8d7ab189e6eb81]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f9cde240fd4223cc756ccdb115e9a03]: Commencement: S. 84 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5f9cde240fd4223cc756ccdb115e9a03]: Commencement: S. 84 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-302c597dab495ff49f8d7ab189e6eb81]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2024/13/section/84) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-302c597dab495ff49f8d7ab189e6eb81]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2024/13/section/84) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

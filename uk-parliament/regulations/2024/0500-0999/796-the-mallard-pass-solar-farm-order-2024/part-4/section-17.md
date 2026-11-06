@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Protective works to buildings[^key-b9d334dc8e1f87cdebfa0c887ef50780]
+## 17. Protective works to buildings[^c-b9d334dc8e1f87cdebfa0c887ef50780]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) Protective works may be carried out—
 
 - (a) at any time before or during the construction of the authorised development;
-- (b) after the completion of the phase[^key-a87289fd35c7697b3df05c4525d1a9f3] of the authorised development in the vicinity of the building at any time up to the end of the period of five years beginning with the date of final commissioning; and
+- (b) after the completion of the phase[^c-a87289fd35c7697b3df05c4525d1a9f3] of the authorised development in the vicinity of the building at any time up to the end of the period of five years beginning with the date of final commissioning; and
 - (c) to facilitate or during decommissioning of any part of the authorised development in the vicinity of the building.
 
 (3) For the purpose of determining how the rights under this article are to be exercised, the undertaker may enter and survey any building falling within paragraph (1) and any land within its curtilage.
@@ -51,7 +51,7 @@ the undertaker must, except in the case of emergency, serve on the owners and oc
 (8) Where—
 
 - (a) protective works are carried out under this article to a building; and
-- (b) within the period of five years beginning with the date of final commissioning it appears protective works are inadequate to protect the building against damage caused by the construction or use of that phase[^key-24bd538e1c55a944ae91b96ab5274373] of the authorised development,
+- (b) within the period of five years beginning with the date of final commissioning it appears protective works are inadequate to protect the building against damage caused by the construction or use of that phase[^c-24bd538e1c55a944ae91b96ab5274373] of the authorised development,
 
 the undertaker must compensate the owners and occupiers of the building for any loss or damage sustained by them.
 
@@ -66,8 +66,8 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-b9d334dc8e1f87cdebfa0c887ef50780]: Commencement: Art. 17 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-b9d334dc8e1f87cdebfa0c887ef50780]: Commencement: Art. 17 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-a87289fd35c7697b3df05c4525d1a9f3]: Textual amendment: Word in [art. 17(2)(b)](https://www.legislation.gov.uk/uksi/2024/796/article/17/2/b) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-a87289fd35c7697b3df05c4525d1a9f3]: Textual amendment: Word in [art. 17(2)(b)](https://www.legislation.gov.uk/uksi/2024/796/article/17/2/b) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
-[^key-24bd538e1c55a944ae91b96ab5274373]: Textual amendment: Word in [art. 17(8)(b)](https://www.legislation.gov.uk/uksi/2024/796/article/17/8/b) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-24bd538e1c55a944ae91b96ab5274373]: Textual amendment: Word in [art. 17(8)(b)](https://www.legislation.gov.uk/uksi/2024/796/article/17/8/b) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

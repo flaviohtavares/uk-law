@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Terms of office for Board members[^key-f94bfa94800c3a99b4376e4b26e9a9f0]
+## 9. Terms of office for Board members[^c-f94bfa94800c3a99b4376e4b26e9a9f0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f94bfa94800c3a99b4376e4b26e9a9f0]: Commencement: Art. 9 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-f94bfa94800c3a99b4376e4b26e9a9f0]: Commencement: Art. 9 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

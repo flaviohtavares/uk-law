@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-de5363027b8a17791a283b02943d2658]
+The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-de5363027b8a17791a283b02943d2658]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 4th July 2002
 
-[^key-de5363027b8a17791a283b02943d2658]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de5363027b8a17791a283b02943d2658]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-de5363027b8a17791a283b02943d2658]
+## 1. Citation and commencement[^c-de5363027b8a17791a283b02943d2658]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Stakeholder Pension Schemes Regulations[^key-de5363027b8a17791a283b02943d2658]
+## 2. Amendment of the Stakeholder Pension Schemes Regulations[^c-de5363027b8a17791a283b02943d2658]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de5363027b8a17791a283b02943d2658]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de5363027b8a17791a283b02943d2658]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de5363027b8a17791a283b02943d2658]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de5363027b8a17791a283b02943d2658]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de5363027b8a17791a283b02943d2658]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/216) revoked (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/110)](https://www.legislation.gov.uk/nisr/2005/110), [regs. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/110/regulation/3)
+[^c-de5363027b8a17791a283b02943d2658]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/216) revoked (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/110)](https://www.legislation.gov.uk/nisr/2005/110), [regs. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/110/regulation/3)

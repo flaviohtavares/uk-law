@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-284c414483f2bc9da8acf2a90cac7b72] In section 109 of the Senior Courts Act 1981[^key-6c542e681f31856a8a554f65458c5ec1] (c. 54) (refusal of grant of probate where inheritance tax unpaid)—
+(1)[^c-284c414483f2bc9da8acf2a90cac7b72] In section 109 of the Senior Courts Act 1981[^c-6c542e681f31856a8a554f65458c5ec1] (c. 54) (refusal of grant of probate where inheritance tax unpaid)—
 
 - (a) for subsection (1) substitute—
 
@@ -40,7 +40,7 @@ summary: ''
   ;
 - (d) subsection (3) shall cease to have effect.
 
-(2)[^key-284c414483f2bc9da8acf2a90cac7b72] In section 42 of the Probate and Legacy Duties Act 1808 (c. 149) (grant of confirmation)—
+(2)[^c-284c414483f2bc9da8acf2a90cac7b72] In section 42 of the Probate and Legacy Duties Act 1808 (c. 149) (grant of confirmation)—
 
 - (a) the existing text shall become subsection (1) of that section;
 - (b) at the beginning of that subsection, for “And” substitute “ Subject to subsection (2) below, ”; and
@@ -48,7 +48,7 @@ summary: ''
 
   > (2) In a case to which regulations under section 256(1)(aa) of the Inheritance Tax Act 1984 (c. 51) apply (excepted estates), it shall not be lawful to grant confirmation such as is mentioned in subsection (1) above except on the production of information or documents in accordance with those regulations.
 
-(3)[^key-284c414483f2bc9da8acf2a90cac7b72] In Article 20 of the Administration of Estates (Northern Ireland) Order 1979 (S.I.1979/1575 (N.I.14)) (inheritance tax accounts)—
+(3)[^c-284c414483f2bc9da8acf2a90cac7b72] In Article 20 of the Administration of Estates (Northern Ireland) Order 1979 (S.I.1979/1575 (N.I.14)) (inheritance tax accounts)—
 
 - (a) for paragraph (1) substitute—
 
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-284c414483f2bc9da8acf2a90cac7b72]: Commencement: S. 294(1)-(3) in force at 1.11.2004 by [S.I. 2004/2571](https://www.legislation.gov.uk/uksi/2004/2571), [art. 2](https://www.legislation.gov.uk/uksi/2004/2571/article/2)
+[^c-284c414483f2bc9da8acf2a90cac7b72]: Commencement: S. 294(1)-(3) in force at 1.11.2004 by [S.I. 2004/2571](https://www.legislation.gov.uk/uksi/2004/2571), [art. 2](https://www.legislation.gov.uk/uksi/2004/2571/article/2)
 
-[^key-6c542e681f31856a8a554f65458c5ec1]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-6c542e681f31856a8a554f65458c5ec1]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c10795151]: Commencement: S. 294(4)-(6) in force at Royal Assent, see s. 294(4)-(6)

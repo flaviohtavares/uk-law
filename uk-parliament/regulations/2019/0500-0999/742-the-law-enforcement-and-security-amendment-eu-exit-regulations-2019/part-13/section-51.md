@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendment of Regulation (EU) No 98/2013[^key-d7a2c4b0aed14ee666e3212bc1d9b200]
+## 51. Amendment of Regulation (EU) No 98/2013[^c-d7a2c4b0aed14ee666e3212bc1d9b200]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
 >
 > This Regulation applies—
 >
-> - (a) [^key-142cbff986d9601818a0d50abdb3cc07]..., in relation to the substances listed in Part 1 (regulated explosives precursors) and Part 3 (reportable explosives precursors) of Schedule 1A to the Poisons Act 1972 [^c23691231], and to mixtures and substances containing them;
-> - (b)[^key-abf4fac111e420c2d549c1e406bd2845] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a) [^c-142cbff986d9601818a0d50abdb3cc07]..., in relation to the substances listed in Part 1 (regulated explosives precursors) and Part 3 (reportable explosives precursors) of Schedule 1A to the Poisons Act 1972 [^c23691231], and to mixtures and substances containing them;
+> - (b)[^c-abf4fac111e420c2d549c1e406bd2845] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **1A.**
 >
-> [^key-20877b4a857a224af1ef924f9261f544]..., any reference in this Regulation to—
+> [^c-20877b4a857a224af1ef924f9261f544]..., any reference in this Regulation to—
 >
 > - (a) “the Annexes” is to be read as a reference to Parts 1 and 3 of Schedule 1A to the Poisons Act 1972;
 > - (b) “Annex I” is to be read as a reference to Part 1 of Schedule 1A to that Act;
@@ -104,24 +104,24 @@ summary: ''
 
 (11) Omit Article 11 (penalties).
 
-(12)[^key-e5bc71e6e8fd094a54fa3c4d32e8df60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-e5bc71e6e8fd094a54fa3c4d32e8df60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13) Omit Articles 12[^key-2b2548dce4c625a4c0894af2940e35a2] to 18.
+(13) Omit Articles 12[^c-2b2548dce4c625a4c0894af2940e35a2] to 18.
 
 (14) In the text following Article 19 (entry into force), omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
 ## Annotations
 
-[^key-d7a2c4b0aed14ee666e3212bc1d9b200]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d7a2c4b0aed14ee666e3212bc1d9b200]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-142cbff986d9601818a0d50abdb3cc07]: Textual amendment: Words in reg. 51(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/a/i)
+[^c-142cbff986d9601818a0d50abdb3cc07]: Textual amendment: Words in reg. 51(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/a/i)
 
 [^c23691231]: Marginal citation: [1972 c. 66](https://www.legislation.gov.uk/ukpga/1972/66). Schedule 1A was inserted by paragraph 16 of Schedule 21 to the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), and Parts 1 and 3 were amended by [S.I. 2018/451](https://www.legislation.gov.uk/uksi/2018/451).
 
-[^key-abf4fac111e420c2d549c1e406bd2845]: Textual amendment: Words in reg. 51(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/a/ii)
+[^c-abf4fac111e420c2d549c1e406bd2845]: Textual amendment: Words in reg. 51(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/a/ii)
 
-[^key-20877b4a857a224af1ef924f9261f544]: Textual amendment: Words in reg. 51(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/a/iii)
+[^c-20877b4a857a224af1ef924f9261f544]: Textual amendment: Words in reg. 51(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/a/iii)
 
-[^key-e5bc71e6e8fd094a54fa3c4d32e8df60]: Textual amendment: Reg. 51(12) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/b)
+[^c-e5bc71e6e8fd094a54fa3c4d32e8df60]: Textual amendment: Reg. 51(12) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/b)
 
-[^key-2b2548dce4c625a4c0894af2940e35a2]: Textual amendment: Word in reg. 51(13) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/c)
+[^c-2b2548dce4c625a4c0894af2940e35a2]: Textual amendment: Word in reg. 51(13) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/3/3/c)

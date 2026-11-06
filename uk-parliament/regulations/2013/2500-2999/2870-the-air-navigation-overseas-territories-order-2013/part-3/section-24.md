@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Certificate of airworthiness to be in force[^key-ef90e0f73a0c5e9ac046c9c0916e38ec]
+## 24. Certificate of airworthiness to be in force[^c-ef90e0f73a0c5e9ac046c9c0916e38ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
 - (a) a glider, flying on a private flight or an aerial work flight which consists of the giving of instruction in flying or the conduct of flying tests in a flying club environment;
 - (b) a balloon flying on a private flight;
 - (c) a kite;
-- (d) an aircraft flying in accordance with a permit to fly or a special flight permit[^key-7a347d6b4d93fa18533795d57dbacbf9] issued by the Governor under article 28.
+- (d) an aircraft flying in accordance with a permit to fly or a special flight permit[^c-7a347d6b4d93fa18533795d57dbacbf9] issued by the Governor under article 28.
 
 (3) In the case of an aircraft registered in the Territory the certificate of airworthiness referred to in paragraph (1) is a certificate issued under article 25.
 
 ## Annotations
 
-[^key-ef90e0f73a0c5e9ac046c9c0916e38ec]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2013/2870/article/24) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ef90e0f73a0c5e9ac046c9c0916e38ec]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2013/2870/article/24) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-7a347d6b4d93fa18533795d57dbacbf9]: Textual amendment: Words in [art. 24(2)(d)](https://www.legislation.gov.uk/uksi/2013/2870/article/24/2/d) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2021/755/article/6/1)
+[^c-7a347d6b4d93fa18533795d57dbacbf9]: Textual amendment: Words in [art. 24(2)(d)](https://www.legislation.gov.uk/uksi/2013/2870/article/24/2/d) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2021/755/article/6/1)

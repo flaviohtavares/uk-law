@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Temporary use of land for carrying out the authorised development[^key-3892c6f3607f7ee6eb51b2b75465bdd9]
+## 34. Temporary use of land for carrying out the authorised development[^c-3892c6f3607f7ee6eb51b2b75465bdd9]
 
 *Extent: E+W+S*
 
@@ -42,8 +42,8 @@ summary: ''
 - (b) restore the land on which any permanent works have been constructed under paragraph (1)(d);
 - (c) remove any ground strengthening works which have been placed on the land to facilitate construction of the authorised development;
 - (d) remove any measures installed over or around statutory undertakers’ apparatus to protect that apparatus from the authorised development;
-- (e) remove or reposition any apparatus installed for or belonging to statutory undertakers ; or[^key-ed8deb9099fbcae65bf097b26f4b3729]
-- (f)[^key-be30f95668d5f59f4b841dfc91b5f34c] remove or reposition necessary mitigation works.
+- (e) remove or reposition any apparatus installed for or belonging to statutory undertakers ; or[^c-ed8deb9099fbcae65bf097b26f4b3729]
+- (f)[^c-be30f95668d5f59f4b841dfc91b5f34c] remove or reposition necessary mitigation works.
 
 (5) The undertaker must pay compensation to the owners and occupiers of land of which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the provisions of this article.
 
@@ -61,13 +61,13 @@ summary: ''
 
 ## Annotations
 
-[^key-3892c6f3607f7ee6eb51b2b75465bdd9]: Commencement: Art. 34 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-3892c6f3607f7ee6eb51b2b75465bdd9]: Commencement: Art. 34 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00072]: Footnote: Section 4 was amended by section 184 and 185 of, and paragraph 2 of Schedule 18 to, the Housing and Planning Act 2016.
 
-[^key-ed8deb9099fbcae65bf097b26f4b3729]: Textual amendment: Word in [art. 34(4)(e)](https://www.legislation.gov.uk/uksi/2022/1070/article/34/4/e) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-ed8deb9099fbcae65bf097b26f4b3729]: Textual amendment: Word in [art. 34(4)(e)](https://www.legislation.gov.uk/uksi/2022/1070/article/34/4/e) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-be30f95668d5f59f4b841dfc91b5f34c]: Textual amendment: [Art. 34(4)(f)](https://www.legislation.gov.uk/uksi/2022/1070/article/34/4/f) inserted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-be30f95668d5f59f4b841dfc91b5f34c]: Textual amendment: [Art. 34(4)(f)](https://www.legislation.gov.uk/uksi/2022/1070/article/34/4/f) inserted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
 [^f00073]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

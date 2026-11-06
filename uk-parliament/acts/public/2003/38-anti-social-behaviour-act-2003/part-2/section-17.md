@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Devolution: Wales[^key-e6d05a829741a2c456c576ffba9fbbad][^key-04562e94c7275ec88c71d1617484a677]
+## 17. Devolution: Wales[^c-e6d05a829741a2c456c576ffba9fbbad][^c-04562e94c7275ec88c71d1617484a677]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1
 
 ## Annotations
 
-[^key-e6d05a829741a2c456c576ffba9fbbad]: Commencement: S. 17 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/vi)
+[^c-e6d05a829741a2c456c576ffba9fbbad]: Commencement: S. 17 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/vi)
 
-[^key-04562e94c7275ec88c71d1617484a677]: Commencement: S. 17 in force at 30.9.2004 for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/iv)
+[^c-04562e94c7275ec88c71d1617484a677]: Commencement: S. 17 in force at 30.9.2004 for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/iv)

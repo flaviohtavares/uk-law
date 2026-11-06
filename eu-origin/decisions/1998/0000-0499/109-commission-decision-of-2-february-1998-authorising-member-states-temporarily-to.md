@@ -35,38 +35,38 @@ authorising Member States temporarily to take emergency measures against the dis
 
 (98/109/EC) (revoked)
 
-[^key-bee189293ee6e70cdb397efeda5b9174]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bee189293ee6e70cdb397efeda5b9174]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-bee189293ee6e70cdb397efeda5b9174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bee189293ee6e70cdb397efeda5b9174]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bee189293ee6e70cdb397efeda5b9174]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-bee189293ee6e70cdb397efeda5b9174]
+## ANNEX[^c-bee189293ee6e70cdb397efeda5b9174]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bee189293ee6e70cdb397efeda5b9174]1.
+[^c-bee189293ee6e70cdb397efeda5b9174]1.
 
 Cut flowers of *orchidaceae* shall have been either,
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bee189293ee6e70cdb397efeda5b9174]2.
+[^c-bee189293ee6e70cdb397efeda5b9174]2.
 
 The cut flowers of *orchidaceae* shall be accompanied by a phytosanitary certificate issued in Thailand in accordance with Articles 7 and 12 of Directive 77/93/EEC, on the basis of the requirements specified under point 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bee189293ee6e70cdb397efeda5b9174]3.
+[^c-bee189293ee6e70cdb397efeda5b9174]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bee189293ee6e70cdb397efeda5b9174]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/6) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-bee189293ee6e70cdb397efeda5b9174]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/6) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

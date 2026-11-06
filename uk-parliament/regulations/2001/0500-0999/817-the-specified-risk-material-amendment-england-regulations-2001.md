@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Specified Risk Material (Amendment) (England) Regulations 2001 (revoked)[^key-388567862d202da7c49980b9df323326]
+The Specified Risk Material (Amendment) (England) Regulations 2001 (revoked)[^c-388567862d202da7c49980b9df323326]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st April 2001
 
-[^key-388567862d202da7c49980b9df323326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-388567862d202da7c49980b9df323326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-388567862d202da7c49980b9df323326]
+## 1. Title, commencement and extent[^c-388567862d202da7c49980b9df323326]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Specified Risk Material Regulations 1997[^key-388567862d202da7c49980b9df323326]
+## 2. Amendment of the Specified Risk Material Regulations 1997[^c-388567862d202da7c49980b9df323326]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-388567862d202da7c49980b9df323326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-388567862d202da7c49980b9df323326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-388567862d202da7c49980b9df323326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-388567862d202da7c49980b9df323326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-388567862d202da7c49980b9df323326]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [regs. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/68/regulation/25), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-388567862d202da7c49980b9df323326]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [regs. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/68/regulation/25), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

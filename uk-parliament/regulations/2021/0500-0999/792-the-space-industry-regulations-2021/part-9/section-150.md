@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Consequential amendments[^key-ff92155356a21f04a2661df478779e83]
+## 150. Consequential amendments[^c-ff92155356a21f04a2661df478779e83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In consequence of the provisions of this Part, the amendments to the Air Navigat
 
 ## Annotations
 
-[^key-ff92155356a21f04a2661df478779e83]: Commencement: Reg. 150 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ff92155356a21f04a2661df478779e83]: Commencement: Reg. 150 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00047]: Footnote: [S.I. 2019/1115](https://www.legislation.gov.uk/uksi/2019/1115).

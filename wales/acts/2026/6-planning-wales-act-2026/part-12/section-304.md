@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 304. Meaning of “operational land”: statutory undertakers generally[^key-4caf4c0fbfc8f39fe3ce23d54bb3db98]
+## 304. Meaning of “operational land”: statutory undertakers generally[^c-4caf4c0fbfc8f39fe3ce23d54bb3db98]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ but does not include land which, in respect of its nature and situation, is comp
 
 ## Annotations
 
-[^key-4caf4c0fbfc8f39fe3ce23d54bb3db98]: Commencement: S. 304 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4caf4c0fbfc8f39fe3ce23d54bb3db98]: Commencement: S. 304 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

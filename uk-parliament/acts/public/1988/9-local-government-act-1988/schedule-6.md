@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — Direct Labour Organisations[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff]
+## SCHEDULE 6 — Direct Labour Organisations[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff]
 
 *Extent: S*
 
@@ -24,56 +24,56 @@ summary: ''
 
 Section 32.
 
-### Local Government, Planning and Land Act 1980 (c. 65)[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff]
+### Local Government, Planning and Land Act 1980 (c. 65)[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff]
 
 *Extent: E+W+S*
 
 *Extent: S*
 
-**1.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**2.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**3.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**4.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**5.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**6.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**7.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**8.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**9.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
-**10.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Local Government (Scotland) Act 1975 (c. 30)[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff]
+### Local Government (Scotland) Act 1975 (c. 30)[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff]
 
 *Extent: E+W+S*
 
-**11.**[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-04fc108d9c5c9c2c9db4bbcf87bf2fff]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/9/schedule/6) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(f)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/f), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/9/schedule/6) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(f)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/f), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)

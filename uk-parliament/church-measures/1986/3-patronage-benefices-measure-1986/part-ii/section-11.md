@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E*
 
-(1) As soon as practicable after the start date specified in the notice under section 7(4) and in any event before the end of the period of six months beginning with that date, one or more meetings of the parochial church council[^key-34ff8651a35e595df61cdf1dd36fd8bc] shall be held for the purposes of—
+(1) As soon as practicable after the start date specified in the notice under section 7(4) and in any event before the end of the period of six months beginning with that date, one or more meetings of the parochial church council[^c-34ff8651a35e595df61cdf1dd36fd8bc] shall be held for the purposes of—
 
 - (a) preparing a statement describing the conditions, needs and traditions of the parish;
 - (b) appointing two lay members of the council to act as representatives of the council in connection with the selection of an incumbent;
 - (c) deciding whether to request the registered patron to consider advertising the vacancy;
 - (d) deciding whether to request a meeting under section 12 of this Measure; [^c922671]. . .
-- (e) deciding whether to request a statement in writing from the bishop describing in relation to the benefice the needs of the diocese and the wider interests of the Church [^key-3574c4307fd53fe31c2f71d067e004c3] ...[^c922672].
-- (f)[^c922673] [^key-11f0f869df6d959c39f9d0b259e9e3fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) deciding whether to request a statement in writing from the bishop describing in relation to the benefice the needs of the diocese and the wider interests of the Church [^c-3574c4307fd53fe31c2f71d067e004c3] ...[^c922672].
+- (f)[^c922673] [^c-11f0f869df6d959c39f9d0b259e9e3fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A meeting of the parochial church council for which subsection (1) above provides shall be convened by the secretary thereof, and no member of that council who is—
 
-- (a) the outgoing incumbent or the spouse[^c922674] or civil partner[^key-8205a153af14dda2fc0cee175f17c3ab] of the outgoing incumbent, or
+- (a) the outgoing incumbent or the spouse[^c922674] or civil partner[^c-8205a153af14dda2fc0cee175f17c3ab] of the outgoing incumbent, or
 - (b) the registered patron, or
 - (c) the representative of the registered patron,
 
@@ -56,18 +56,18 @@ shall be qualified for appointment under subsection (1)(b) above.
 
 ## Annotations
 
-[^key-34ff8651a35e595df61cdf1dd36fd8bc]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukcm/1986/3/section/11/1) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/3/1) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
+[^c-34ff8651a35e595df61cdf1dd36fd8bc]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukcm/1986/3/section/11/1) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/3/1) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
 
 [^c922671]: Textual amendment: Word in s. 11(1)(d) omitted (1.2.1994) by virtue of [1993 Measure No. 2](https://www.legislation.gov.uk/ukcm/1993/2), [s. 10](https://www.legislation.gov.uk/ukcm/1993/2/section/10), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/ukcm/1993/2/schedule/3/paragraph/10/a); [Instrument dated 31.1.1994 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1994-01-31)
 
-[^key-3574c4307fd53fe31c2f71d067e004c3]: Textual amendment: Word in s. 11(1)(e) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-3574c4307fd53fe31c2f71d067e004c3]: Textual amendment: Word in s. 11(1)(e) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
 
 [^c922672]: Textual amendment: Word in s. 11(1)(e) inserted (1.2.1994) by virtue of [1993 Measure No. 2](https://www.legislation.gov.uk/ukcm/1993/2), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/1993/2/section/3/7); [Instrument dated 31.1.1994 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1994-01-31)
 
 [^c922673]: Textual amendment: S. 11(1)(f) inserted (1.2.1994) by virtue of [1993 Measure No. 2](https://www.legislation.gov.uk/ukcm/1993/2), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/1993/2/section/3/7); [Instrument dated 31.1.1994 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1994-01-31)
 
-[^key-11f0f869df6d959c39f9d0b259e9e3fa]: Textual amendment: S. 11(1)(f) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-11f0f869df6d959c39f9d0b259e9e3fa]: Textual amendment: S. 11(1)(f) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
 
 [^c922674]: Textual amendment: Words in s. 11(2)(a) substituted (1.2.1994) by [1993 Measure No. 2](https://www.legislation.gov.uk/ukcm/1993/2), [s. 10](https://www.legislation.gov.uk/ukcm/1993/2/section/10), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/ukcm/1993/2/schedule/3/paragraph/10/b); [Instrument dated 31.1.1994 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1994-01-31)
 
-[^key-8205a153af14dda2fc0cee175f17c3ab]: Textual amendment: Words in s. 11(2)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/3/paragraph/3/2)
+[^c-8205a153af14dda2fc0cee175f17c3ab]: Textual amendment: Words in s. 11(2)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/3/paragraph/3/2)

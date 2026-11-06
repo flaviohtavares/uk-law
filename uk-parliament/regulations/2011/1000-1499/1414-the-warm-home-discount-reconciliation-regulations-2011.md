@@ -50,17 +50,17 @@ The Secretary of State has consulted the Gas and Electricity Markets Authority, 
 
 ## PART 1 — Introduction
 
-### 1. Title and commencement[^key-b54eae1d6d52532bcc06623fbce1f9ad]
+### 1. Title and commencement[^c-b54eae1d6d52532bcc06623fbce1f9ad]
 
 (1) These Regulations may be cited as the Warm Home Discount (Reconciliation) Regulations 2011.
 
 (2) These Regulations come into force on 1 July 2011.
 
-### 1A. Application[^key-68af6d323b0cabacfb3aef5f53d1a7bd]
+### 1A. Application[^c-68af6d323b0cabacfb3aef5f53d1a7bd]
 
-These Regulations apply in relation to scheme years 1 to 11[^key-6aeca89d310809c283aa2cd427e463cd].
+These Regulations apply in relation to scheme years 1 to 11[^c-6aeca89d310809c283aa2cd427e463cd].
 
-### 2. Interpretation[^key-f5eaeb632d66b6839a4a48007de5212f]
+### 2. Interpretation[^c-f5eaeb632d66b6839a4a48007de5212f]
 
 (1) In these Regulations—
 
@@ -69,13 +69,13 @@ These Regulations apply in relation to scheme years 1 to 11[^key-6aeca89d310809c
   - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
   - (b) where an order under section 19 of the Bank of England Act 1998[^f00002] is in force, any equivalent rate determined by the Treasury under that section;
 - “market share”, in relation to a scheme electricity supplier and a scheme year, means—
-  - (a) unless regulation 11 applies, the market share of the supplier, expressed as a percentage—[^key-b868899741c9774a67bad3102c7db734]
+  - (a) unless regulation 11 applies, the market share of the supplier, expressed as a percentage—[^c-b868899741c9774a67bad3102c7db734]
     - as notified by the Authority to the Operator under regulation 4(1)(b); or
     - where the Authority is the Operator, as determined under regulation 4(2A); or
   - (b) if regulation 11 applies, the market share of the supplier, expressed as a percentage, as recalculated by the Operator under regulation 11(6);
-- “the Operator” means—[^key-07c8f408831d85560b39bd47bf05439c]
+- “the Operator” means—[^c-07c8f408831d85560b39bd47bf05439c]
   - (a) in relation to scheme years 1 to 6, the person for the time being appointed by the Secretary of State under regulation 3; and
-  - (b) in relation to scheme years 7 to 11[^key-35083f42380046c542072d2872042368], the Authority;
+  - (b) in relation to scheme years 7 to 11[^c-35083f42380046c542072d2872042368], the Authority;
 - “the Scheme Regulations” means the Warm Home Discount Regulations 2011[^f00003];
 - “working day” means any day other than a Saturday or Sunday or a day which is a bank holiday or public holiday in England and Wales or in Scotland.
 
@@ -89,7 +89,7 @@ These Regulations apply in relation to scheme years 1 to 11[^key-6aeca89d310809c
 - “scheme gas supplier”
 - “scheme year” (and “scheme year” followed by a number).
 
-### 3. Appointment of the Operator[^key-eb60e446c6cfbcc8acb9d4db699d57ef]
+### 3. Appointment of the Operator[^c-eb60e446c6cfbcc8acb9d4db699d57ef]
 
 (1) The Secretary of State must, in relation to each scheme year in which the Secretary of State gives one or more notices under regulation 6 of the Scheme Regulations—
 
@@ -101,11 +101,11 @@ These Regulations apply in relation to scheme years 1 to 11[^key-6aeca89d310809c
 - (a) may terminate the appointment of a person as the Operator; and
 - (b) must, as soon as reasonably practicable after such a termination, appoint another person to be the Operator.
 
-(3)[^key-a708bdb0855616a1d8e8c26d0f721e0d] This regulation does not apply where the Authority is the Operator.
+(3)[^c-a708bdb0855616a1d8e8c26d0f721e0d] This regulation does not apply where the Authority is the Operator.
 
-### 4. Provision of information to the Operator[^key-8cc7a77196d722c9aa53ae641e0d0a8a]
+### 4. Provision of information to the Operator[^c-8cc7a77196d722c9aa53ae641e0d0a8a]
 
-(1) The Authority must, in relation to each scheme year for which a person is appointed under regulation 3[^key-ad56414f9ee0dac54eebaf9acf25ab68] to be the Operator, notify to the Operator—
+(1) The Authority must, in relation to each scheme year for which a person is appointed under regulation 3[^c-ad56414f9ee0dac54eebaf9acf25ab68] to be the Operator, notify to the Operator—
 
 - (a) which licensed electricity suppliers are scheme electricity suppliers in that scheme year;
 - (b) the market share of each scheme electricity supplier as at the preceding 31st December, as determined by the Authority in accordance with paragraph (3).
@@ -115,11 +115,11 @@ These Regulations apply in relation to scheme years 1 to 11[^key-6aeca89d310809c
 - (a) for scheme years 2, 3 and 4, by 1st April in the scheme year if the Authority has been notified of the appointment of the Operator before that date; or
 - (b) in any other case, as soon as reasonably practicable after the date on which the Authority is notified of the appointment of the Operator.
 
-(2A)[^key-8cec637a3c3a05d0abc64b12ff9c0166] The Authority must, in relation to each of[^key-671b96b90e155a3be49abc02af47be15] scheme years 7 to 11[^key-b5d4aaabeee3885f0e436ad324f56f16], determine the market share of each scheme electricity supplier as at the preceding 31st December in accordance with paragraph (3).
+(2A)[^c-8cec637a3c3a05d0abc64b12ff9c0166] The Authority must, in relation to each of[^c-671b96b90e155a3be49abc02af47be15] scheme years 7 to 11[^c-b5d4aaabeee3885f0e436ad324f56f16], determine the market share of each scheme electricity supplier as at the preceding 31st December in accordance with paragraph (3).
 
-(2B) The Authority must make the determination under paragraph (2A) as soon as reasonably practicable after the start of the scheme year[^key-7fb67f9c2243a2fe3c080b0328787950].
+(2B) The Authority must make the determination under paragraph (2A) as soon as reasonably practicable after the start of the scheme year[^c-7fb67f9c2243a2fe3c080b0328787950].
 
-(3) For the purposes of paragraphs (1)(b) and (2A)[^key-09ffbb20608175a8f3d2d4df0e973897], the market share of a scheme electricity supplier (E) is [formula: see source](https://www.legislation.gov.uk/uksi/2011/1414)%, where—
+(3) For the purposes of paragraphs (1)(b) and (2A)[^c-09ffbb20608175a8f3d2d4df0e973897], the market share of a scheme electricity supplier (E) is [formula: see source](https://www.legislation.gov.uk/uksi/2011/1414)%, where—
 
 - (a) X is E’s number of domestic customers, unless sub-paragraph (b) or (c) applies;
 - (b) if E is connected to one or more scheme gas suppliers but not to any other scheme electricity suppliers, X is the combined number of domestic customers of E and its connected scheme gas suppliers;
@@ -135,12 +135,12 @@ These Regulations apply in relation to scheme years 1 to 11[^key-6aeca89d310809c
 
 ## PART 2 — Interim reconciliation
 
-### 5. Direction to carry out interim reconciliation[^key-a04f5aa95d7f35a2280c4eb81f0b790c]
+### 5. Direction to carry out interim reconciliation[^c-a04f5aa95d7f35a2280c4eb81f0b790c]
 
 (1) This regulation applies, in relation to a scheme year, at any time—
 
 - (a) after the Secretary of State has given one or more notices to scheme electricity suppliers under regulation 6 of the Scheme Regulations; and
-- (b) before the Authority has given a notification to the Operator under regulation 7(a) or, in the case of[^key-250489aaafaec69d6f03dff5ecbf5a1c] scheme years 7 to 11[^key-94d8c4e722a7a7261341098eeecb12ca], to any scheme electricity supplier under regulation 7(b).
+- (b) before the Authority has given a notification to the Operator under regulation 7(a) or, in the case of[^c-250489aaafaec69d6f03dff5ecbf5a1c] scheme years 7 to 11[^c-94d8c4e722a7a7261341098eeecb12ca], to any scheme electricity supplier under regulation 7(b).
 
 (2) The Secretary of State may direct the Operator to carry out an interim reconciliation for the scheme year or any part of the scheme year (an “interim reconciliation period”).
 
@@ -166,7 +166,7 @@ These Regulations apply in relation to scheme years 1 to 11[^key-6aeca89d310809c
 - (a) A is the number of persons specified in notices under regulation 6(1) of the Scheme Regulations given to the supplier during the interim reconciliation period; and
 - (b) B is the number of those persons whom, in accordance with regulation 9(5) of the Scheme Regulations, the supplier has within the interim reconciliation period notified the Secretary of State are not core group customers or the supplier is unable to identify as core group customers.
 
-### 6. Calculation of interim reconciliation payments[^key-fae2b004f4873318a96ae55b49463b30]
+### 6. Calculation of interim reconciliation payments[^c-fae2b004f4873318a96ae55b49463b30]
 
 (1) If the Operator is given a direction under regulation 5, the Operator must calculate the amount to be received or paid by each scheme electricity supplier in accordance with paragraphs (2) and (3).
 
@@ -187,23 +187,23 @@ where—
 
 ## PART 3 — Final reconciliation
 
-### 7. Notification of amounts of rebates provided[^key-464049b4a1eb4e8451ef9cd56c2e1da2]
+### 7. Notification of amounts of rebates provided[^c-464049b4a1eb4e8451ef9cd56c2e1da2]
 
 As soon as reasonably practicable after the end of a scheme year the Authority must—
 
-- (a) if the Authority is not the Operator,[^key-4391a7b8b5d546d4ea4fcbad5f8ce28b] notify to the Operator—
+- (a) if the Authority is not the Operator,[^c-4391a7b8b5d546d4ea4fcbad5f8ce28b] notify to the Operator—
   - (i) the total amount of rebates provided to domestic customers in the scheme year, or treated as being provided in the scheme year, under Part 3 of the Scheme Regulations by each scheme electricity supplier (as determined by the Authority in accordance with regulation 29(1)(a) of the Scheme Regulations); and
   - (ii) the sum of the amounts so determined for all scheme electricity suppliers; and
-- (b)[^key-2e4e74b4570fd91c4df36cf79c65c862] notify to each scheme electricity supplier—
+- (b)[^c-2e4e74b4570fd91c4df36cf79c65c862] notify to each scheme electricity supplier—
   - (i) the total amount of rebates provided to domestic customers in the scheme year, or treated as being provided in the scheme year, under Part 3 of the Scheme Regulations by that scheme electricity supplier (as determined by the Authority in accordance with regulation 29(1)(a) of the Scheme Regulations); and
   - (ii) the sum of the amounts so determined for all scheme electricity suppliers.
 
-### 7A. The number of undelivered rebates[^key-8e19328fc20bd3f6f963fa7e86b38b18]
+### 7A. The number of undelivered rebates[^c-8e19328fc20bd3f6f963fa7e86b38b18]
 
 (1) This regulation applies—
 
 - (a) in relation to scheme year 6 unless, before the commencement date, the Authority has given a notification to the Operator under regulation 7(a) for that scheme year; and
-- (b) in relation to scheme years 7 to 11[^key-9d9798039cfa4f8290cc76872a7693b4].
+- (b) in relation to scheme years 7 to 11[^c-9d9798039cfa4f8290cc76872a7693b4].
 
 (2) If the Authority is not the Operator, the Authority must notify to the Operator, in respect of each scheme electricity supplier, the number of undelivered rebates provided, or treated as being provided, in the scheme year by the supplier.
 
@@ -223,16 +223,16 @@ As soon as reasonably practicable after the end of a scheme year the Authority m
   - (a) provided to a customer by tendering payment of the amount of the prescribed rebate to the customer, where the customer has not accepted that payment; or
   - (b) provided to a customer who pre-pays for electricity or gas with credit in the amount of the prescribed rebate against the cost of future electricity or gas use, where the customer has not accepted that credit.
 
-### 8. Calculation of final reconciliation payments[^key-5dacc9e3b3de088858fd40e038663f7c]
+### 8. Calculation of final reconciliation payments[^c-5dacc9e3b3de088858fd40e038663f7c]
 
-(1) Subject to paragraphs (1A) and (1B),[^key-de3e9a06cd8692e448612049e1cbe51e] when the Operator receives a notification under regulation 7, the Operator must calculate the amount to be received or paid by each scheme electricity supplier in accordance with paragraphs (2) and (3).
+(1) Subject to paragraphs (1A) and (1B),[^c-de3e9a06cd8692e448612049e1cbe51e] when the Operator receives a notification under regulation 7, the Operator must calculate the amount to be received or paid by each scheme electricity supplier in accordance with paragraphs (2) and (3).
 
-(1A)[^key-e09f91b4ffaf9b43ac1737ce983d67bf] In the case of scheme year 6, if regulation 7A applies in relation to the scheme year, the calculation referred to in paragraph (1) must be made as soon as reasonably practicable after the Operator has received—
+(1A)[^c-e09f91b4ffaf9b43ac1737ce983d67bf] In the case of scheme year 6, if regulation 7A applies in relation to the scheme year, the calculation referred to in paragraph (1) must be made as soon as reasonably practicable after the Operator has received—
 
 - (a) a notification under regulation 7(a); and
 - (b) a notification under regulation 7A(2) in respect of each scheme electricity supplier.
 
-(1B) In the case of scheme years 7 to 11[^key-d83cd8a72c8b7aa43676ae68dae82114], the calculation referred to in paragraph (1) must be made as soon as reasonably practicable after—
+(1B) In the case of scheme years 7 to 11[^c-d83cd8a72c8b7aa43676ae68dae82114], the calculation referred to in paragraph (1) must be made as soon as reasonably practicable after—
 
 - (a) the Authority has given a notification under regulation 7(b) to each scheme electricity supplier; and
 - (b) every scheme electricity supplier has complied with regulation 9(7) of the Scheme Regulations for the scheme year, or the Authority has made an estimate under regulation 7A(4) in respect of each scheme electricity supplier that has not so complied.
@@ -243,7 +243,7 @@ As soon as reasonably practicable after the end of a scheme year the Authority m
 
 (4) For the purposes of this regulation—
 
-- (a)[^key-0ecde702cd1744319f44333a985703e6] a scheme electricity supplier’s contribution for a scheme year is—
+- (a)[^c-0ecde702cd1744319f44333a985703e6] a scheme electricity supplier’s contribution for a scheme year is—
   - (i) where regulation 7A applies in relation to the scheme year, [formula: see source](https://www.legislation.gov.uk/uksi/2011/1414);
   - (ii) in any other case, A,
 
@@ -255,27 +255,27 @@ As soon as reasonably practicable after the end of a scheme year the Authority m
 - (b) a scheme electricity supplier’s adjusted contribution for a scheme year is the supplier’s contribution adjusted by—
   - (i) adding the amounts of any interim reconciliation payments made by the supplier; and
   - (ii) subtracting the amounts of any interim reconciliation payments received by the supplier;
-- (c) a scheme electricity supplier’s market share contribution for a scheme year is M% of the amount notified to the Operator under regulation 7(a)(ii) or notified to that supplier under regulation 7(b)(ii), as the case may be[^key-0eb414358e23a0b2f9101b7cb2c52ace], where M is that supplier’s market share.
+- (c) a scheme electricity supplier’s market share contribution for a scheme year is M% of the amount notified to the Operator under regulation 7(a)(ii) or notified to that supplier under regulation 7(b)(ii), as the case may be[^c-0eb414358e23a0b2f9101b7cb2c52ace], where M is that supplier’s market share.
 
 ## PART 4 — General
 
-### 9. Interim and final reconciliation: payments[^key-dda96345704f37944d037e4689d4fbb6]
+### 9. Interim and final reconciliation: payments[^c-dda96345704f37944d037e4689d4fbb6]
 
 (1) After the Operator carries out an interim reconciliation under Part 2 or a final reconciliation under Part 3, it must give notice—
 
 - (a) to each scheme electricity supplier which is liable to make or entitled to receive a payment, of—
   - (i) the amount of that payment (“the specified amount”); and
   - (ii) the supplier’s market share, as used in carrying out the reconciliation; and
-- (b)[^key-c1e1187d89603e22b7ce16e78b142c6a] to each scheme electricity supplier which is liable to make a payment, of the date by which the payment is to be made, which must be not less than 3 working days from the date on which the notice is given;
+- (b)[^c-c1e1187d89603e22b7ce16e78b142c6a] to each scheme electricity supplier which is liable to make a payment, of the date by which the payment is to be made, which must be not less than 3 working days from the date on which the notice is given;
 - (c) to each scheme electricity supplier which is entitled to receive a payment, of the date on which the payment is to be made, which must be not more than 10 working days after the date specified under sub-paragraph (b) (or if, under sub-paragraph (b), different dates are specified to different scheme electricity suppliers, not more than 10 working days after the latest of those dates).
 
-(2)[^key-8510ef7647b45fb166aa3919be571adf] A scheme electricity supplier which is given a notice that it is liable to make a payment must pay the specified amount to the Operator by the date specified in the notice.
+(2)[^c-8510ef7647b45fb166aa3919be571adf] A scheme electricity supplier which is given a notice that it is liable to make a payment must pay the specified amount to the Operator by the date specified in the notice.
 
 (3) The Operator must, subject to regulation 10(4), pay the specified amount to a scheme electricity supplier which is given a notice that it is entitled to receive a payment by the date specified in the notice.
 
-(4)[^key-f732da0ef475130f71f02fa481727242] Where the Authority is the Operator, it must maintain a fund into which payments by scheme electricity suppliers and from which payments by the Operator under these Regulations are to be made.
+(4)[^c-f732da0ef475130f71f02fa481727242] Where the Authority is the Operator, it must maintain a fund into which payments by scheme electricity suppliers and from which payments by the Operator under these Regulations are to be made.
 
-### 10. Mutualisation[^key-72adff9890c6a717086197afea7ee530]
+### 10. Mutualisation[^c-72adff9890c6a717086197afea7ee530]
 
 (1) This regulation applies if one or more scheme electricity suppliers fail to make the whole or part of a reconciliation payment to the Operator by the date on which it is due.
 
@@ -303,16 +303,16 @@ As soon as reasonably practicable after the end of a scheme year the Authority m
 - “defaulting supplier” means a scheme electricity supplier which has failed to make the whole or part of a reconciliation payment to the Operator by the date on which it is due;
 - “unpaid amount” means an amount which a defaulting supplier has failed to pay by the date on which it is due.
 
-### 11. Termination of supply licence[^key-471135d371685f1da4d840e37b070a55]
+### 11. Termination of supply licence[^c-471135d371685f1da4d840e37b070a55]
 
-(1) This regulation applies in relation to a scheme year if, between the date on which the Authority gives the Operator a notification under regulation 4(1) and the date on which the Authority gives the Operator a notification under regulation 7(a)[^key-b67b5266f9d0ccc8613b0a078adbd65b], the electricity supply licence of a scheme electricity supplier (E) is terminated.
+(1) This regulation applies in relation to a scheme year if, between the date on which the Authority gives the Operator a notification under regulation 4(1) and the date on which the Authority gives the Operator a notification under regulation 7(a)[^c-b67b5266f9d0ccc8613b0a078adbd65b], the electricity supply licence of a scheme electricity supplier (E) is terminated.
 
-(1A)[^key-763ef2b6031ca220f47dba1f4c071608] This regulation also applies in relation to a scheme year if—
+(1A)[^c-763ef2b6031ca220f47dba1f4c071608] This regulation also applies in relation to a scheme year if—
 
 - (a) the Authority is the Operator in relation to the scheme year; and
 - (b) between the date on which the Authority makes a determination under regulation 4(2A) and the date on which the Authority gives a notification under regulation 7(b), the electricity supply licence of a scheme electricity supplier (E) is terminated.
 
-(2) Where the Authority is not the Operator,[^key-c9aeafc77e41584a984b7a470f91fe23] the Authority must as soon as practicable notify the Operator of the termination of E’s licence.
+(2) Where the Authority is not the Operator,[^c-c9aeafc77e41584a984b7a470f91fe23] the Authority must as soon as practicable notify the Operator of the termination of E’s licence.
 
 (3) E is not to be treated as a scheme electricity supplier for the purposes of any of the following events which takes place after the termination of its licence—
 
@@ -325,7 +325,7 @@ As soon as reasonably practicable after the end of a scheme year the Authority m
 - (a) to the extent that the amount is unpaid, E remains subject to that entitlement or liability notwithstanding the termination of its licence; and
 - (b) in relation to E, the determination upon the interim reconciliation is to be treated as final.
 
-(5) Paragraph (6)[^key-dcd459775d90886a06d5aa6f0ffe1b19] applies for the purposes of any event mentioned in paragraph (3) which takes places after the termination of E’s licence.
+(5) Paragraph (6)[^c-dcd459775d90886a06d5aa6f0ffe1b19] applies for the purposes of any event mentioned in paragraph (3) which takes places after the termination of E’s licence.
 
 (6) The Operator must recalculate the market share of each remaining scheme electricity supplier in accordance with the formula—
 
@@ -334,8 +334,8 @@ As soon as reasonably practicable after the end of a scheme year the Authority m
 where—
 
 - M2 is the supplier’s recalculated market share;
-- M1 is the supplier’s market share as notified to the Operator under regulation 4(1)(b) or as determined by the Authority under regulation 4(2A), as the case may be[^key-da13b27336aa846739e2c0cc6f5998ca];
-- E1 is E’s market share as notified to the Operator under regulation 4(1)(b) or as determined by the Authority under regulation 4(2A), as the case may be[^key-b4a2cbf0167aee071a732409987cecb2].
+- M1 is the supplier’s market share as notified to the Operator under regulation 4(1)(b) or as determined by the Authority under regulation 4(2A), as the case may be[^c-da13b27336aa846739e2c0cc6f5998ca];
+- E1 is E’s market share as notified to the Operator under regulation 4(1)(b) or as determined by the Authority under regulation 4(2A), as the case may be[^c-b4a2cbf0167aee071a732409987cecb2].
 
 (7) If, before the termination of E’s licence, E received an interim reconciliation payment in relation to the scheme year (£P)—
 
@@ -353,7 +353,7 @@ where—
 - (b) it is surrendered by the licensee; or
 - (c) it expires by effluxion of time.
 
-### 12. Interest on late payments[^key-d746a607ddbbed4d45c8be00c1aa1a66]
+### 12. Interest on late payments[^c-d746a607ddbbed4d45c8be00c1aa1a66]
 
 (1) A scheme electricity supplier which fails to make the whole or part of a payment under these Regulations by the date on which it is due must pay interest (“late payment interest”) calculated in accordance with paragraph (2) on the unpaid amount from the date on which the payment falls due to the date on which it is paid.
 
@@ -363,7 +363,7 @@ where—
 
 (4) Where a scheme electricity supplier pays late payment interest to the Operator, the Operator must distribute the amount of the late payment interest among all other scheme electricity suppliers in proportion to their market shares.
 
-### 13. Interest accrued by the Operator[^key-df7e0097c6ab04ec86067cd7ac45e138]
+### 13. Interest accrued by the Operator[^c-df7e0097c6ab04ec86067cd7ac45e138]
 
 (1) The Operator must distribute to scheme electricity suppliers in proportion to their market shares the amount of any interest accrued by the Operator on payments made to it by scheme electricity suppliers under these Regulations.
 
@@ -372,9 +372,9 @@ where—
 - (a) must, if it has accrued any interest, make a distribution under paragraph (1) in each year from scheme year 2 onwards at the same time as it makes final reconciliation payments; and
 - (b) may make additional distributions at such times as it determines.
 
-### 14. Appeals against errors in determinations[^key-29b4f7d4df008b5d740fbb0980ee89a1]
+### 14. Appeals against errors in determinations[^c-29b4f7d4df008b5d740fbb0980ee89a1]
 
-(A1)[^key-c589e4bba59bef2e36ef67207cf51e46] This regulation applies where the Authority is not the Operator.
+(A1)[^c-c589e4bba59bef2e36ef67207cf51e46] This regulation applies where the Authority is not the Operator.
 
 (1) Subject to paragraphs (8) and (9), a scheme electricity supplier may appeal to the Secretary of State against a determination by the Operator—
 
@@ -419,30 +419,30 @@ on the ground that the Operator has made an error in its determination.
 - “the Balancing and Settlement Code” means the code for governance of electricity balancing and settlement in Great Britain which is maintained in accordance with the conditions of licences granted under section 6(1) of the Electricity Act 1989[^f00004]; and
 - “BSC Company” has the same meaning as in the Balancing and Settlement Code.
 
-### 15. Make-right amounts[^key-b2516440f657746967fc448c10288153]
+### 15. Make-right amounts[^c-b2516440f657746967fc448c10288153]
 
 (1) This regulation applies if, in relation to the Operator’s determination on an interim or final reconciliation or a mutualisation—
 
-- (a) where the Authority is not the Operator,[^key-4f3b7849e1d8f25a18ada656e6aa3009] the Operator substitutes a different determination in accordance with a direction of the Secretary of State upon an appeal; or
-- (b) where the Authority is not the Operator,[^key-5c2adbf74757f3461ca93202cc396a21] a person established or appointed to resolve disputes under arrangements mentioned in regulation 14(7) determines that an error has been made in the determination; or
+- (a) where the Authority is not the Operator,[^c-4f3b7849e1d8f25a18ada656e6aa3009] the Operator substitutes a different determination in accordance with a direction of the Secretary of State upon an appeal; or
+- (b) where the Authority is not the Operator,[^c-5c2adbf74757f3461ca93202cc396a21] a person established or appointed to resolve disputes under arrangements mentioned in regulation 14(7) determines that an error has been made in the determination; or
 - (c) the Operator, on its own initiative, identifies that an error has been made in the determination.
 
 (2) The Operator must calculate the amount (“the make-right amount”) that each scheme electricity supplier is liable to pay, or is entitled to receive (having regard to payments already made or received) to give effect to the substituted determination or to correct the error.
 
-(3) The make-right amount is , subject to the application of paragraph (3B),[^key-be465fa2d4112bed55b6e343c64218a1] the sum of—
+(3) The make-right amount is , subject to the application of paragraph (3B),[^c-be465fa2d4112bed55b6e343c64218a1] the sum of—
 
 - (a) the difference between the amount already paid or received by the scheme electricity supplier, and the amount which the supplier would have been liable to pay or entitled to receive if the error had not been made; and
 - (b) interest on that amount from the date of the payment or receipt, calculated at a rate of two percentage points above the Bank of England base rate.
 
-(3A)[^key-8dd441e4c1b8159f74d842b96b55e0c9] Paragraph (3B) applies if, upon calculating each scheme electricity supplier’s make-right amount in accordance with paragraph (3), there is a difference between the total of the make-right amounts which suppliers are liable to pay and the total of the make-right amounts which suppliers are entitled to receive (an “imbalance”).
+(3A)[^c-8dd441e4c1b8159f74d842b96b55e0c9] Paragraph (3B) applies if, upon calculating each scheme electricity supplier’s make-right amount in accordance with paragraph (3), there is a difference between the total of the make-right amounts which suppliers are liable to pay and the total of the make-right amounts which suppliers are entitled to receive (an “imbalance”).
 
 (3B) Where this paragraph applies, the Operator must adjust each scheme electricity supplier’s make-right amount by a percentage of the amount of the imbalance equal to that supplier’s market share, so that the total of the make-right amounts which suppliers are liable to pay is equal to the total of the make-right amounts which suppliers are entitled to receive.
 
 (4) Regulation 9 applies in relation to payments under this regulation as it does in relation to payments upon an interim or final reconciliation.
 
-### 16. Non-performance of obligations[^key-38b1b6f629efe5a2cd4c5f71569765cf]
+### 16. Non-performance of obligations[^c-38b1b6f629efe5a2cd4c5f71569765cf]
 
-(A1)[^key-b2b030162d46b84231cc7d29a80f09d9] This regulation applies where the Authority is not the Operator.
+(A1)[^c-b2b030162d46b84231cc7d29a80f09d9] This regulation applies where the Authority is not the Operator.
 
 (1) If the Operator fails to carry out any obligation under these Regulations, any scheme electricity supplier affected by that failure may appeal to the Secretary of State.
 
@@ -480,116 +480,116 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2010 c.27](https://www.legislation.gov.uk/ukpga/2010/27).
 
-[^key-b54eae1d6d52532bcc06623fbce1f9ad]: Commencement: Reg. 1 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-b54eae1d6d52532bcc06623fbce1f9ad]: Commencement: Reg. 1 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-68af6d323b0cabacfb3aef5f53d1a7bd]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1A) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/847/regulation/2)
+[^c-68af6d323b0cabacfb3aef5f53d1a7bd]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1A) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/847/regulation/2)
 
-[^key-6aeca89d310809c283aa2cd427e463cd]: Textual amendment: Words in [reg. 1A](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/2)
+[^c-6aeca89d310809c283aa2cd427e463cd]: Textual amendment: Words in [reg. 1A](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/2)
 
-[^key-f5eaeb632d66b6839a4a48007de5212f]: Commencement: Reg. 2 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-f5eaeb632d66b6839a4a48007de5212f]: Commencement: Reg. 2 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
 [^f00002]: Footnote: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-b868899741c9774a67bad3102c7db734]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/1414/regulation/2) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/3/a)
+[^c-b868899741c9774a67bad3102c7db734]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/1414/regulation/2) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/3/a)
 
-[^key-07c8f408831d85560b39bd47bf05439c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/1414/regulation/2) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/3/b)
+[^c-07c8f408831d85560b39bd47bf05439c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/1414/regulation/2) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/3/b)
 
-[^key-35083f42380046c542072d2872042368]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/2/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/3)
+[^c-35083f42380046c542072d2872042368]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/2/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/3)
 
 [^f00003]: Footnote: [S.I. 2011/1033](https://www.legislation.gov.uk/uksi/2011/1033).
 
-[^key-eb60e446c6cfbcc8acb9d4db699d57ef]: Commencement: Reg. 3 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-eb60e446c6cfbcc8acb9d4db699d57ef]: Commencement: Reg. 3 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-a708bdb0855616a1d8e8c26d0f721e0d]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/3/3) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/847/regulation/4)
+[^c-a708bdb0855616a1d8e8c26d0f721e0d]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/3/3) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/847/regulation/4)
 
-[^key-8cc7a77196d722c9aa53ae641e0d0a8a]: Commencement: Reg. 4 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-8cc7a77196d722c9aa53ae641e0d0a8a]: Commencement: Reg. 4 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-ad56414f9ee0dac54eebaf9acf25ab68]: Textual amendment: Words in reg. 4(1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/5/a)
+[^c-ad56414f9ee0dac54eebaf9acf25ab68]: Textual amendment: Words in reg. 4(1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/5/a)
 
-[^key-8cec637a3c3a05d0abc64b12ff9c0166]: Textual amendment: Reg. 4(2A)(2B) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/5/b)
+[^c-8cec637a3c3a05d0abc64b12ff9c0166]: Textual amendment: Reg. 4(2A)(2B) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/5/b)
 
-[^key-671b96b90e155a3be49abc02af47be15]: Textual amendment: Words in [reg. 4(2A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/4/2A) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [29(4)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/29/4/a)
+[^c-671b96b90e155a3be49abc02af47be15]: Textual amendment: Words in [reg. 4(2A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/4/2A) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [29(4)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/29/4/a)
 
-[^key-b5d4aaabeee3885f0e436ad324f56f16]: Textual amendment: Words in [reg. 4(2A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/4/2A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(4)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/4)
+[^c-b5d4aaabeee3885f0e436ad324f56f16]: Textual amendment: Words in [reg. 4(2A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/4/2A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(4)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/4)
 
-[^key-7fb67f9c2243a2fe3c080b0328787950]: Textual amendment: Words in [reg. 4(2B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/4/2B) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [29(4)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/29/4/b)
+[^c-7fb67f9c2243a2fe3c080b0328787950]: Textual amendment: Words in [reg. 4(2B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/4/2B) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [29(4)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/29/4/b)
 
-[^key-09ffbb20608175a8f3d2d4df0e973897]: Textual amendment: Words in reg. 4(3) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2017/847/regulation/5/c)
+[^c-09ffbb20608175a8f3d2d4df0e973897]: Textual amendment: Words in reg. 4(3) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2017/847/regulation/5/c)
 
-[^key-a04f5aa95d7f35a2280c4eb81f0b790c]: Commencement: Reg. 5 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-a04f5aa95d7f35a2280c4eb81f0b790c]: Commencement: Reg. 5 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-250489aaafaec69d6f03dff5ecbf5a1c]: Textual amendment: Words in reg. 5(1)(b) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/847/regulation/6)
+[^c-250489aaafaec69d6f03dff5ecbf5a1c]: Textual amendment: Words in reg. 5(1)(b) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/847/regulation/6)
 
-[^key-94d8c4e722a7a7261341098eeecb12ca]: Textual amendment: Words in reg. 5(1)(b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/5)
+[^c-94d8c4e722a7a7261341098eeecb12ca]: Textual amendment: Words in reg. 5(1)(b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/5)
 
-[^key-fae2b004f4873318a96ae55b49463b30]: Commencement: Reg. 6 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-fae2b004f4873318a96ae55b49463b30]: Commencement: Reg. 6 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-464049b4a1eb4e8451ef9cd56c2e1da2]: Commencement: Reg. 7 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-464049b4a1eb4e8451ef9cd56c2e1da2]: Commencement: Reg. 7 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-4391a7b8b5d546d4ea4fcbad5f8ce28b]: Textual amendment: Words in [reg. 7(a)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7/a) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/7/a)
+[^c-4391a7b8b5d546d4ea4fcbad5f8ce28b]: Textual amendment: Words in [reg. 7(a)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7/a) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/7/a)
 
-[^key-2e4e74b4570fd91c4df36cf79c65c862]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7/b) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/7/b)
+[^c-2e4e74b4570fd91c4df36cf79c65c862]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7/b) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/7/b)
 
-[^key-8e19328fc20bd3f6f963fa7e86b38b18]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7A) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/847/regulation/8)
+[^c-8e19328fc20bd3f6f963fa7e86b38b18]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7A) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/847/regulation/8)
 
-[^key-9d9798039cfa4f8290cc76872a7693b4]: Textual amendment: Words in [reg. 7A(1)(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7A/1/b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(6)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/6)
+[^c-9d9798039cfa4f8290cc76872a7693b4]: Textual amendment: Words in [reg. 7A(1)(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/7A/1/b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(6)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/6)
 
-[^key-5dacc9e3b3de088858fd40e038663f7c]: Commencement: Reg. 8 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-5dacc9e3b3de088858fd40e038663f7c]: Commencement: Reg. 8 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-de3e9a06cd8692e448612049e1cbe51e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/2)
+[^c-de3e9a06cd8692e448612049e1cbe51e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/2)
 
-[^key-e09f91b4ffaf9b43ac1737ce983d67bf]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1A)[(1B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1B) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/3)
+[^c-e09f91b4ffaf9b43ac1737ce983d67bf]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1A)[(1B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1B) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/3)
 
-[^key-d83cd8a72c8b7aa43676ae68dae82114]: Textual amendment: Words in [reg. 8(1B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1B) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(7)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/7)
+[^c-d83cd8a72c8b7aa43676ae68dae82114]: Textual amendment: Words in [reg. 8(1B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/1B) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [23(7)](https://www.legislation.gov.uk/uksi/2021/667/regulation/23/7)
 
-[^key-0ecde702cd1744319f44333a985703e6]: Textual amendment: [Reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/4/a) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/4/a)
+[^c-0ecde702cd1744319f44333a985703e6]: Textual amendment: [Reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/4/a) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/4/a)
 
-[^key-0eb414358e23a0b2f9101b7cb2c52ace]: Textual amendment: Words in [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/4/c) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/4/b)
+[^c-0eb414358e23a0b2f9101b7cb2c52ace]: Textual amendment: Words in [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/8/4/c) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/9/4/b)
 
-[^key-dda96345704f37944d037e4689d4fbb6]: Commencement: Reg. 9 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-dda96345704f37944d037e4689d4fbb6]: Commencement: Reg. 9 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-c1e1187d89603e22b7ce16e78b142c6a]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/9/1/b) substituted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/2/2)
+[^c-c1e1187d89603e22b7ce16e78b142c6a]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/9/1/b) substituted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/2/2)
 
-[^key-8510ef7647b45fb166aa3919be571adf]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/9/2) substituted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/519/regulation/2/3)
+[^c-8510ef7647b45fb166aa3919be571adf]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/9/2) substituted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/519/regulation/2/3)
 
-[^key-f732da0ef475130f71f02fa481727242]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/9/4) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2017/847/regulation/10)
+[^c-f732da0ef475130f71f02fa481727242]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/9/4) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2017/847/regulation/10)
 
-[^key-72adff9890c6a717086197afea7ee530]: Commencement: Reg. 10 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-72adff9890c6a717086197afea7ee530]: Commencement: Reg. 10 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-471135d371685f1da4d840e37b070a55]: Commencement: Reg. 11 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-471135d371685f1da4d840e37b070a55]: Commencement: Reg. 11 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-b67b5266f9d0ccc8613b0a078adbd65b]: Textual amendment: Words in reg. 11(1) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/a)
+[^c-b67b5266f9d0ccc8613b0a078adbd65b]: Textual amendment: Words in reg. 11(1) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/a)
 
-[^key-763ef2b6031ca220f47dba1f4c071608]: Textual amendment: Reg. 11(1A) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/b)
+[^c-763ef2b6031ca220f47dba1f4c071608]: Textual amendment: Reg. 11(1A) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/b)
 
-[^key-c9aeafc77e41584a984b7a470f91fe23]: Textual amendment: Words in reg. 11(2) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/c)
+[^c-c9aeafc77e41584a984b7a470f91fe23]: Textual amendment: Words in reg. 11(2) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/c)
 
-[^key-dcd459775d90886a06d5aa6f0ffe1b19]: Textual amendment: Words in reg. 11(5) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/d)
+[^c-dcd459775d90886a06d5aa6f0ffe1b19]: Textual amendment: Words in reg. 11(5) substituted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/d)
 
-[^key-da13b27336aa846739e2c0cc6f5998ca]: Textual amendment: Words in reg. 11(6) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(e)(i)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/e/i)
+[^c-da13b27336aa846739e2c0cc6f5998ca]: Textual amendment: Words in reg. 11(6) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(e)(i)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/e/i)
 
-[^key-b4a2cbf0167aee071a732409987cecb2]: Textual amendment: Words in reg. 11(6) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/e/ii)
+[^c-b4a2cbf0167aee071a732409987cecb2]: Textual amendment: Words in reg. 11(6) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2017/847/regulation/11/e/ii)
 
-[^key-d746a607ddbbed4d45c8be00c1aa1a66]: Commencement: Reg. 12 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-d746a607ddbbed4d45c8be00c1aa1a66]: Commencement: Reg. 12 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-df7e0097c6ab04ec86067cd7ac45e138]: Commencement: Reg. 13 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-df7e0097c6ab04ec86067cd7ac45e138]: Commencement: Reg. 13 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-29b4f7d4df008b5d740fbb0980ee89a1]: Commencement: Reg. 14 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-29b4f7d4df008b5d740fbb0980ee89a1]: Commencement: Reg. 14 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-c589e4bba59bef2e36ef67207cf51e46]: Textual amendment: [Reg. 14(A1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/14/A1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2017/847/regulation/12)
+[^c-c589e4bba59bef2e36ef67207cf51e46]: Textual amendment: [Reg. 14(A1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/14/A1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2017/847/regulation/12)
 
 [^f00004]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and subsection (1) of section 6 was amended by sections 136(1), 145(1) and (5) and 197(9) of, and Part 1 of Schedule 23 to, the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-b2516440f657746967fc448c10288153]: Commencement: Reg. 15 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-b2516440f657746967fc448c10288153]: Commencement: Reg. 15 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-4f3b7849e1d8f25a18ada656e6aa3009]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/1/a) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/13/a)
+[^c-4f3b7849e1d8f25a18ada656e6aa3009]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/1/a) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2017/847/regulation/13/a)
 
-[^key-5c2adbf74757f3461ca93202cc396a21]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/1/b) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/13/b)
+[^c-5c2adbf74757f3461ca93202cc396a21]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/1/b) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2017/847/regulation/13/b)
 
-[^key-be465fa2d4112bed55b6e343c64218a1]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/3) inserted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/3/2)
+[^c-be465fa2d4112bed55b6e343c64218a1]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/3) inserted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/3/2)
 
-[^key-8dd441e4c1b8159f74d842b96b55e0c9]: Textual amendment: [Reg. 15(3A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/3A)[(3B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/3B) inserted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/519/regulation/3/3)
+[^c-8dd441e4c1b8159f74d842b96b55e0c9]: Textual amendment: [Reg. 15(3A)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/3A)[(3B)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/15/3B) inserted (6.4.2013) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2013 (S.I. 2013/519)](https://www.legislation.gov.uk/uksi/2013/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/519/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/519/regulation/3/3)
 
-[^key-38b1b6f629efe5a2cd4c5f71569765cf]: Commencement: Reg. 16 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
+[^c-38b1b6f629efe5a2cd4c5f71569765cf]: Commencement: Reg. 16 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/1/2)
 
-[^key-b2b030162d46b84231cc7d29a80f09d9]: Textual amendment: [Reg. 16(A1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/16/A1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2017/847/regulation/14)
+[^c-b2b030162d46b84231cc7d29a80f09d9]: Textual amendment: [Reg. 16(A1)](https://www.legislation.gov.uk/uksi/2011/1414/regulation/16/A1) inserted (16.9.2017) by [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2017 (S.I. 2017/847)](https://www.legislation.gov.uk/uksi/2017/847), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/847/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2017/847/regulation/14)

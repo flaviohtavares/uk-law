@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Amnesty for certain improvements by tenant[^key-8f7524c877147c204ffd821485f16edc]
+## 112. Amnesty for certain improvements by tenant[^c-8f7524c877147c204ffd821485f16edc]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (2) A “relevant improvement” is a Part 1, Part 2 or Part 3 improvement completed before the beginning of the amnesty period.
 
-(3) In this Chapter the “**amnesty period**” means the period of 3 years and 6 months[^key-7b21b91539921dc8965c3d6f0a25f2ff] beginning with the day on which this section comes into force.
+(3) In this Chapter the “**amnesty period**” means the period of 3 years and 6 months[^c-7b21b91539921dc8965c3d6f0a25f2ff] beginning with the day on which this section comes into force.
 
 (4) A tenant may give notice of the relevant improvement to the landlord in accordance with section 114.
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f7524c877147c204ffd821485f16edc]: Commencement: S. 112 in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/20/regulation/3))
+[^c-8f7524c877147c204ffd821485f16edc]: Commencement: S. 112 in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/20/regulation/3))
 
-[^key-7b21b91539921dc8965c3d6f0a25f2ff]: Textual amendment: Words in s. 112(3) inserted (12.6.2020) by [The Land Reform (Scotland) Act 2016 (Supplementary Provision) (Coronavirus) Regulations 2020 (S.S.I. 2020/174)](https://www.legislation.gov.uk/ssi/2020/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/174/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2020/174/regulation/2)
+[^c-7b21b91539921dc8965c3d6f0a25f2ff]: Textual amendment: Words in s. 112(3) inserted (12.6.2020) by [The Land Reform (Scotland) Act 2016 (Supplementary Provision) (Coronavirus) Regulations 2020 (S.S.I. 2020/174)](https://www.legislation.gov.uk/ssi/2020/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/174/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2020/174/regulation/2)

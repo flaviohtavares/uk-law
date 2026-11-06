@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Cash options.[^key-e6b5b2e3073ebc3bf616521175d27175]
+## 152. Cash options.[^c-e6b5b2e3073ebc3bf616521175d27175]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6b5b2e3073ebc3bf616521175d27175]: Textual amendment: [S. 152](https://www.legislation.gov.uk/ukpga/1984/51/section/152) omitted (with application in accordance with s. 71 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/10), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-e6b5b2e3073ebc3bf616521175d27175]: Textual amendment: [S. 152](https://www.legislation.gov.uk/ukpga/1984/51/section/152) omitted (with application in accordance with s. 71 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/10), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

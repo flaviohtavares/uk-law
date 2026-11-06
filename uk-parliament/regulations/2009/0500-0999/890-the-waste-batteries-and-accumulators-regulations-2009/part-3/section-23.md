@@ -25,7 +25,7 @@ summary: ''
 - (a) 2009; and
 - (b) each relevant compliance period.
 
-(1A)[^key-a0a573999a26164e1756878ba5303bf0] For the purposes of paragraph (1), the total amount of portable batteries placed on the market for the first time in the United Kingdom does not include any portable batteries and accumulators that have left the United Kingdom before being sold to end users.
+(1A)[^c-a0a573999a26164e1756878ba5303bf0] For the purposes of paragraph (1), the total amount of portable batteries placed on the market for the first time in the United Kingdom does not include any portable batteries and accumulators that have left the United Kingdom before being sold to end users.
 
 (2) The information must—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a573999a26164e1756878ba5303bf0]: Textual amendment: Reg. 23(1A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(7)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/7) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a0a573999a26164e1756878ba5303bf0]: Textual amendment: Reg. 23(1A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(7)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/7) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

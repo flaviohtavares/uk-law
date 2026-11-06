@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Rights under or over streets[^key-b6d54493c7a1fadc4b9baddee1884895]
+## 23. Rights under or over streets[^c-b6d54493c7a1fadc4b9baddee1884895]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6d54493c7a1fadc4b9baddee1884895]: Commencement: Art. 23 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-b6d54493c7a1fadc4b9baddee1884895]: Commencement: Art. 23 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

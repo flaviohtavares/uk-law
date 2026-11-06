@@ -36,11 +36,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — Governance arrangements
 
-### CHAPTER 1 — Governing bodies[^key-35c8491230f6f85f8e448b6dd200ad47]
+### CHAPTER 1 — Governing bodies[^c-35c8491230f6f85f8e448b6dd200ad47]
 
 #### Senior lay member of governing body
 
-##### 1. Position of senior lay member[^key-9adfb4337a68c19b763df62199a165e0]
+##### 1. Position of senior lay member[^c-9adfb4337a68c19b763df62199a165e0]
 
 (1) The governing body of a higher education institution is to include the position of senior lay member (however the institution chooses to name the position).
 
@@ -56,7 +56,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Subsections (2) and (3) are subject to section 2.
 
-##### 2. Interaction with role of rector[^key-fa7482c78e9fadc93b1590fe790cd441]
+##### 2. Interaction with role of rector[^c-fa7482c78e9fadc93b1590fe790cd441]
 
 (1) Subsection (2) applies in the case of a higher education institution at which there is a rector who has functions under section 4 of the 1858 Act and section 5(5) of the 1889 Act (each of which contains provision relating to the role of the rector at an older university).
 
@@ -67,7 +67,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**the 1858 Act**” means the Universities (Scotland) Act 1858,
 - “**the 1889 Act**” means the Universities (Scotland) Act 1889.
 
-##### 3. Relevant criteria and process[^key-9cbde29a9bf2e5b1f57a8aaa4899d470]
+##### 3. Relevant criteria and process[^c-9cbde29a9bf2e5b1f57a8aaa4899d470]
 
 (1) Whenever a vacancy arises in the position of senior lay member of the governing body of a higher education institution, the governing body must delegate to a committee the responsibility of—
 
@@ -97,7 +97,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Rules made by the governing body of the institution may contain provision about the process for filling the position of senior lay member of the governing body (subject to sections 4 to 8).
 
-##### 4. Advertisement and application[^key-3fce46470d6defce8c46384e9f915c4f]
+##### 4. Advertisement and application[^c-3fce46470d6defce8c46384e9f915c4f]
 
 (1) A current or upcoming vacancy in the position of senior lay member of the governing body of a higher education institution is to be advertised widely by the governing body, in a manner suitable for bringing the vacancy to the attention of a broad range of persons.
 
@@ -111,7 +111,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (iii) that reimbursement is offered of expenses incurred in connection with attending an interview or campaigning in an election for the position,
   - (iv) that remuneration and allowances are available in connection with the holding of the position.
 
-##### 5. Interview of certain applicants[^key-0475b6e3bf2e6268f0c090ea3876c8b8]
+##### 5. Interview of certain applicants[^c-0475b6e3bf2e6268f0c090ea3876c8b8]
 
 (1) If—
 
@@ -124,7 +124,7 @@ the applicant must be invited to an interview conducted by the committee.
 
 (3) The governing body of the institution is to offer every applicant for the position reimbursement of reasonable expenses that are incurred by the applicant in attending such an interview.
 
-##### 6. When election to be arranged[^key-b8e1476e856032d5d315e291ce8b1fa7]
+##### 6. When election to be arranged[^c-b8e1476e856032d5d315e291ce8b1fa7]
 
 (1) An election for the position of senior lay member of the governing body of a higher education institution must be arranged by the governing body if more than one applicant—
 
@@ -138,7 +138,7 @@ the applicant must be invited to an interview conducted by the committee.
 
 (3) The governing body of the institution is to offer every candidate in the election reimbursement of reasonable expenses that are incurred by the candidate in campaigning in the election (up to the limit per candidate that is fixed by the governing body).
 
-##### 7. Election franchise and result[^key-3bc4b1e3a302e9a03f5537059bff5005]
+##### 7. Election franchise and result[^c-3bc4b1e3a302e9a03f5537059bff5005]
 
 (1) These persons are entitled to vote in an election under section 6 for the position of senior lay member of the governing body of a higher education institution—
 
@@ -154,7 +154,7 @@ the applicant must be invited to an interview conducted by the committee.
 
 (5) In the event of a tie between two or more candidates for the highest number of votes cast, the election is won by whichever of them is deemed to be the winner in accordance with rules made by the governing body of the institution.
 
-##### 8. Appointment and tenure[^key-520bbe28e0dd69c9cf90fd97c0966f00]
+##### 8. Appointment and tenure[^c-520bbe28e0dd69c9cf90fd97c0966f00]
 
 (1) The winning candidate in an election under section 6 for the position of senior lay member of the governing body of a higher education institution is to be appointed to the position by the governing body.
 
@@ -162,7 +162,7 @@ the applicant must be invited to an interview conducted by the committee.
 
 (3) The position cannot be filled otherwise than by an appointment made by virtue of this section.
 
-##### 9. Remuneration and conditions[^key-aae67577e2ae0263572835aeac98234d]
+##### 9. Remuneration and conditions[^c-aae67577e2ae0263572835aeac98234d]
 
 (1) The governing body of a higher education institution is, on the request of a person appointed to the position of senior lay member of the governing body, to pay such remuneration and allowances to the person as the governing body considers to be reasonable (which are to be commensurate with the nature and amount of the work done by the person in the capacity as senior lay member).
 
@@ -172,7 +172,7 @@ the applicant must be invited to an interview conducted by the committee.
 
 #### Membership of governing body
 
-##### 10. Composition of governing body[^key-8f0aa603b15a0cbe36a1522c01168d68]
+##### 10. Composition of governing body[^c-8f0aa603b15a0cbe36a1522c01168d68]
 
 (1) The membership of the governing body of a higher education institution is to be composed of—
 
@@ -190,7 +190,7 @@ the applicant must be invited to an interview conducted by the committee.
 - (a) is recognised by the institution in relation to the category of staff, as described in section 178(3) of the Trade Union and Labour Relations (Consolidation) Act 1992, or
 - (b) otherwise appears to the institution to be representative of the category of staff, having regard to all relevant factors.
 
-##### 11. Elections to governing body[^key-f7b3c212db11f76db428234346b0f7dd]
+##### 11. Elections to governing body[^c-f7b3c212db11f76db428234346b0f7dd]
 
 (1) This section applies in relation to an election of members to the governing body of a higher education institution for the purpose of paragraph (b) of section 10(1).
 
@@ -206,7 +206,7 @@ the applicant must be invited to an interview conducted by the committee.
 
 (4) Where the number of eligible candidates in a category is equal to or fewer than the number of vacancies in that category, those candidates are deemed to be elected.
 
-##### 12. Nominations to governing body[^key-4f362e5e2a92307b1a4a846b62e3e705]
+##### 12. Nominations to governing body[^c-4f362e5e2a92307b1a4a846b62e3e705]
 
 (1) This section applies in relation to a nomination of members to the governing body of a higher education institution for the purpose of each of paragraphs (c) to (e) of section 10(1).
 
@@ -222,7 +222,7 @@ the applicant must be invited to an interview conducted by the committee.
 - (a) with a right of nomination under the proposed rules, and
 - (b) affected by the proposed rules or (as the case may be) modification.
 
-##### 13. Resignation or removal from body[^key-abb428a9e2aa861d6704519037b12f13]
+##### 13. Resignation or removal from body[^c-abb428a9e2aa861d6704519037b12f13]
 
 (1) Rules made by the governing body of a higher education institution may contain provision about the procedure for the resignation or removal of—
 
@@ -244,16 +244,16 @@ the applicant must be invited to an interview conducted by the committee.
 
 (4) Provision under subsection (1)(a) need not be the same as provision under subsection (1)(b).
 
-##### 14. Validity of body's proceedings[^key-000ea7a9b18db778dbc05bddf1e03372]
+##### 14. Validity of body's proceedings[^c-000ea7a9b18db778dbc05bddf1e03372]
 
 The validity of any proceedings of the governing body is not affected by any—
 
 - (a) vacancy in membership (or category of membership),
 - (b) defect in the appointment of a member.
 
-### CHAPTER 2 — Academic boards[^key-55ad78efc75796d9f174307da604311b]
+### CHAPTER 2 — Academic boards[^c-55ad78efc75796d9f174307da604311b]
 
-#### 15. Composition of academic board[^key-d1c4a69c0442a13159768a793b6a589b]
+#### 15. Composition of academic board[^c-d1c4a69c0442a13159768a793b6a589b]
 
 (1) The membership of the academic board of a higher education institution is to be composed of—
 
@@ -273,7 +273,7 @@ The validity of any proceedings of the governing body is not affected by any—
 
 (3) Despite subsection (2)(b), the academic board is not required to have more than 30 members who fall within subsection (1)(d).
 
-#### 16. Elections to academic board[^key-fe34984dace5c76809349aa48b4027b8]
+#### 16. Elections to academic board[^c-fe34984dace5c76809349aa48b4027b8]
 
 (1) This section applies in relation to an election of members to the academic board of a higher education institution for the purpose of each of paragraphs (c) and (d) of section 15(1).
 
@@ -286,7 +286,7 @@ The validity of any proceedings of the governing body is not affected by any—
 
 (4) Where the number of eligible candidates in a category is equal to or fewer than the number of vacancies in that category, those candidates are deemed to be elected.
 
-#### 17. Validity of board's proceedings[^key-d11425b571b9eb2ca34de8a9bd4b7d06]
+#### 17. Validity of board's proceedings[^c-d11425b571b9eb2ca34de8a9bd4b7d06]
 
 The validity of any proceedings of the academic board is not affected by any—
 
@@ -295,7 +295,7 @@ The validity of any proceedings of the academic board is not affected by any—
 
 ### CHAPTER 3 — key definitions
 
-#### 18. Meaning of higher education institution[^key-3a6535404fb45e471ba194b26defd445]
+#### 18. Meaning of higher education institution[^c-3a6535404fb45e471ba194b26defd445]
 
 (1) In this Part, “**higher education institution**” has the same meaning as in the Further and Higher Education (Scotland) Act 2005 except that it—
 
@@ -306,7 +306,7 @@ The validity of any proceedings of the academic board is not affected by any—
 
 (3) Regulations under subsection (2) are subject to the negative procedure.
 
-#### 19. Meaning of governing document[^key-76ca0967b17d6564febc7135985dbe4e]
+#### 19. Meaning of governing document[^c-76ca0967b17d6564febc7135985dbe4e]
 
 (1) In this Part, “governing document”—
 
@@ -323,11 +323,11 @@ The validity of any proceedings of the academic board is not affected by any—
 - “**older university**” is to be construed in accordance with section 16(1) of the Universities (Scotland) Act 1966,
 - “**registered company**” means a company registered under the Companies Acts as defined in section 2 of the Companies Act 2006.
 
-#### 20. Meaning of governing body[^key-7ac56aa654eabf905c3c7208bef29191]
+#### 20. Meaning of governing body[^c-7ac56aa654eabf905c3c7208bef29191]
 
 In this Part, “**governing body**” has the same meaning as in Part II of the Further and Higher Education (Scotland) Act 1992.
 
-#### 21. Meaning of academic board[^key-2482285db5f11e4770d7eaf5d0c9f587]
+#### 21. Meaning of academic board[^c-2482285db5f11e4770d7eaf5d0c9f587]
 
 (1) In this Part, “**academic board**” in relation to an institution means the body which—
 
@@ -336,13 +336,13 @@ In this Part, “**governing body**” has the same meaning as in Part II of the
 
 (2) For the avoidance of doubt, the body described by subsection (1) is the one sometimes known as the Senate, Senatus or Senatus Academicus.
 
-#### 22. References to students[^key-9a3eeab5d08cfffe20c72eb6e7bb760c]
+#### 22. References to students[^c-9a3eeab5d08cfffe20c72eb6e7bb760c]
 
 In this Act, a reference to the students of a higher education institution includes all persons holding sabbatical office in a students' association of the institution (whether or not they remain as students of the institution during their period of office).
 
 ## PART 2 — Academic freedom
 
-### 23. Upholding academic freedom[^key-65e1b2162d25fd3241ce1bd276254fb3]
+### 23. Upholding academic freedom[^c-65e1b2162d25fd3241ce1bd276254fb3]
 
 (1) The Further and Higher Education (Scotland) Act 2005 is amended as follows.
 
@@ -380,7 +380,7 @@ In this Act, a reference to the students of a higher education institution inclu
 
 ### Ancillary and consequential
 
-#### 24. Ancillary regulations[^key-27c26e0dfb82b052683b2d41e7ce757e]
+#### 24. Ancillary regulations[^c-27c26e0dfb82b052683b2d41e7ce757e]
 
 (1) The Scottish Ministers may by regulations make such supplemental, incidental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes of or in connection with this Act.
 
@@ -389,7 +389,7 @@ In this Act, a reference to the students of a higher education institution inclu
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act (including this Act),
 - (b) otherwise, are subject to the negative procedure.
 
-#### 25. Consequential modifications[^key-f5cdd0520a51990af6efbe503d85272b]
+#### 25. Consequential modifications[^c-f5cdd0520a51990af6efbe503d85272b]
 
 The schedule makes consequential modifications.
 
@@ -416,7 +416,7 @@ The short title of this Act is the Higher Education Governance (Scotland) Act 20
 
 ### The Universities (Scotland) Act 1858
 
-**1.**[^key-c86cddc9feedeafa932d919ca2ef84b4] (1) The Universities (Scotland) Act 1858 is amended as follows.
+**1.**[^c-c86cddc9feedeafa932d919ca2ef84b4] (1) The Universities (Scotland) Act 1858 is amended as follows.
 
 (2) In section 4 (university courts to be constituted), the words “consist of the members and” are repealed.
 
@@ -427,7 +427,7 @@ The short title of this Act is the Higher Education Governance (Scotland) Act 20
 
 ### The Universities (Scotland) Act 1889
 
-**2.**[^key-4b3230cb4f38066f0ffe2a13fb68b39e] (1) The Universities (Scotland) Act 1889 is amended as follows.
+**2.**[^c-4b3230cb4f38066f0ffe2a13fb68b39e] (1) The Universities (Scotland) Act 1889 is amended as follows.
 
 (2) In section 5 (which makes provision about University Courts)—
 
@@ -442,7 +442,7 @@ The short title of this Act is the Higher Education Governance (Scotland) Act 20
 
 ### The Universities (Scotland) Act 1966
 
-**3.**[^key-348e2fad46a28df0e6b7a4b4f1603995] (1) The Universities (Scotland) Act 1966 is amended as follows.
+**3.**[^c-348e2fad46a28df0e6b7a4b4f1603995] (1) The Universities (Scotland) Act 1966 is amended as follows.
 
 (2) In section 2 (constitution of university courts)—
 
@@ -470,62 +470,62 @@ The short title of this Act is the Higher Education Governance (Scotland) Act 20
 
 ## Annotations
 
-[^key-35c8491230f6f85f8e448b6dd200ad47]: Modification: Pt. 1 Ch. 1 applied by [S.I. 1993/557](https://www.legislation.gov.uk/uksi/1993/557), art. 3(2)(2A), Sch. 1 Pt. B paras. (6), (7) (as substituted (15.9.2018) by [The Edinburgh Napier University Amendment Order of Council 2018 (S.S.I. 2018/170)](https://www.legislation.gov.uk/ssi/2018/170), [arts. 1](https://www.legislation.gov.uk/ssi/2018/170/article/1), [4(a)](https://www.legislation.gov.uk/ssi/2018/170/article/4/a), [6(a)(b)](https://www.legislation.gov.uk/ssi/2018/170/article/6/a/b) (with [art. 8](https://www.legislation.gov.uk/ssi/2018/170/article/8)))
+[^c-35c8491230f6f85f8e448b6dd200ad47]: Modification: Pt. 1 Ch. 1 applied by [S.I. 1993/557](https://www.legislation.gov.uk/uksi/1993/557), art. 3(2)(2A), Sch. 1 Pt. B paras. (6), (7) (as substituted (15.9.2018) by [The Edinburgh Napier University Amendment Order of Council 2018 (S.S.I. 2018/170)](https://www.legislation.gov.uk/ssi/2018/170), [arts. 1](https://www.legislation.gov.uk/ssi/2018/170/article/1), [4(a)](https://www.legislation.gov.uk/ssi/2018/170/article/4/a), [6(a)(b)](https://www.legislation.gov.uk/ssi/2018/170/article/6/a/b) (with [art. 8](https://www.legislation.gov.uk/ssi/2018/170/article/8)))
 
-[^key-9adfb4337a68c19b763df62199a165e0]: Commencement: S. 1 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-9adfb4337a68c19b763df62199a165e0]: Commencement: S. 1 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-fa7482c78e9fadc93b1590fe790cd441]: Commencement: S. 2 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-fa7482c78e9fadc93b1590fe790cd441]: Commencement: S. 2 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-9cbde29a9bf2e5b1f57a8aaa4899d470]: Commencement: S. 3 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
+[^c-9cbde29a9bf2e5b1f57a8aaa4899d470]: Commencement: S. 3 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
 
-[^key-3fce46470d6defce8c46384e9f915c4f]: Commencement: S. 4 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
+[^c-3fce46470d6defce8c46384e9f915c4f]: Commencement: S. 4 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
 
-[^key-0475b6e3bf2e6268f0c090ea3876c8b8]: Commencement: S. 5 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3), [4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
+[^c-0475b6e3bf2e6268f0c090ea3876c8b8]: Commencement: S. 5 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3), [4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
 
-[^key-b8e1476e856032d5d315e291ce8b1fa7]: Commencement: S. 6 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
+[^c-b8e1476e856032d5d315e291ce8b1fa7]: Commencement: S. 6 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
 
-[^key-3bc4b1e3a302e9a03f5537059bff5005]: Commencement: S. 7 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
+[^c-3bc4b1e3a302e9a03f5537059bff5005]: Commencement: S. 7 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
 
-[^key-520bbe28e0dd69c9cf90fd97c0966f00]: Commencement: S. 8 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
+[^c-520bbe28e0dd69c9cf90fd97c0966f00]: Commencement: S. 8 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
 
-[^key-aae67577e2ae0263572835aeac98234d]: Commencement: S. 9 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
+[^c-aae67577e2ae0263572835aeac98234d]: Commencement: S. 9 in force at 30.6.2017 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/382/regulation/3))
 
-[^key-8f0aa603b15a0cbe36a1522c01168d68]: Commencement: S. 10 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2016/382/regulation/5))
+[^c-8f0aa603b15a0cbe36a1522c01168d68]: Commencement: S. 10 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2016/382/regulation/5))
 
-[^key-f7b3c212db11f76db428234346b0f7dd]: Commencement: S. 11 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-f7b3c212db11f76db428234346b0f7dd]: Commencement: S. 11 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-4f362e5e2a92307b1a4a846b62e3e705]: Commencement: S. 12 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-4f362e5e2a92307b1a4a846b62e3e705]: Commencement: S. 12 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-abb428a9e2aa861d6704519037b12f13]: Commencement: S. 13 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-abb428a9e2aa861d6704519037b12f13]: Commencement: S. 13 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-000ea7a9b18db778dbc05bddf1e03372]: Commencement: S. 14 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-000ea7a9b18db778dbc05bddf1e03372]: Commencement: S. 14 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-55ad78efc75796d9f174307da604311b]: Modification: Pt. 1 Ch. 2 applied by [S.I. 1993/557](https://www.legislation.gov.uk/uksi/1993/557), [art. 6(1)](https://www.legislation.gov.uk/uksi/1993/557/article/6/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/557/schedule/1) Pt. B para. (10) (as substituted (15.9.2018) by [The Edinburgh Napier University Amendment Order of Council 2018 (S.S.I. 2018/170)](https://www.legislation.gov.uk/ssi/2018/170), [arts. 1](https://www.legislation.gov.uk/ssi/2018/170/article/1), [5(a)](https://www.legislation.gov.uk/ssi/2018/170/article/5/a), [6(c)](https://www.legislation.gov.uk/ssi/2018/170/article/6/c))
+[^c-55ad78efc75796d9f174307da604311b]: Modification: Pt. 1 Ch. 2 applied by [S.I. 1993/557](https://www.legislation.gov.uk/uksi/1993/557), [art. 6(1)](https://www.legislation.gov.uk/uksi/1993/557/article/6/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/557/schedule/1) Pt. B para. (10) (as substituted (15.9.2018) by [The Edinburgh Napier University Amendment Order of Council 2018 (S.S.I. 2018/170)](https://www.legislation.gov.uk/ssi/2018/170), [arts. 1](https://www.legislation.gov.uk/ssi/2018/170/article/1), [5(a)](https://www.legislation.gov.uk/ssi/2018/170/article/5/a), [6(c)](https://www.legislation.gov.uk/ssi/2018/170/article/6/c))
 
-[^key-d1c4a69c0442a13159768a793b6a589b]: Commencement: S. 15 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 6](https://www.legislation.gov.uk/ssi/2016/382/regulation/6))
+[^c-d1c4a69c0442a13159768a793b6a589b]: Commencement: S. 15 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 6](https://www.legislation.gov.uk/ssi/2016/382/regulation/6))
 
-[^key-fe34984dace5c76809349aa48b4027b8]: Commencement: S. 16 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-fe34984dace5c76809349aa48b4027b8]: Commencement: S. 16 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-d11425b571b9eb2ca34de8a9bd4b7d06]: Commencement: S. 17 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-d11425b571b9eb2ca34de8a9bd4b7d06]: Commencement: S. 17 in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-3a6535404fb45e471ba194b26defd445]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/15/section/18) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-3a6535404fb45e471ba194b26defd445]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/15/section/18) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-76ca0967b17d6564febc7135985dbe4e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/15/section/19) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-76ca0967b17d6564febc7135985dbe4e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/15/section/19) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-7ac56aa654eabf905c3c7208bef29191]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/15/section/20) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-7ac56aa654eabf905c3c7208bef29191]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/15/section/20) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-2482285db5f11e4770d7eaf5d0c9f587]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/15/section/21) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-2482285db5f11e4770d7eaf5d0c9f587]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/15/section/21) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-9a3eeab5d08cfffe20c72eb6e7bb760c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/15/section/22) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-9a3eeab5d08cfffe20c72eb6e7bb760c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/15/section/22) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-65e1b2162d25fd3241ce1bd276254fb3]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/15/section/23) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-65e1b2162d25fd3241ce1bd276254fb3]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/15/section/23) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-27c26e0dfb82b052683b2d41e7ce757e]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/15/section/24) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-27c26e0dfb82b052683b2d41e7ce757e]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/15/section/24) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-f5cdd0520a51990af6efbe503d85272b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/15/section/25) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-f5cdd0520a51990af6efbe503d85272b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/15/section/25) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-c86cddc9feedeafa932d919ca2ef84b4]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/1) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))
+[^c-c86cddc9feedeafa932d919ca2ef84b4]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/1) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))
 
-[^key-4b3230cb4f38066f0ffe2a13fb68b39e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-4b3230cb4f38066f0ffe2a13fb68b39e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-348e2fad46a28df0e6b7a4b4f1603995]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [regs. 5(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/5/4), [6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))
+[^c-348e2fad46a28df0e6b7a4b4f1603995]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3) in force at 30.12.2016 by [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [regs. 5(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/5/4), [6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))

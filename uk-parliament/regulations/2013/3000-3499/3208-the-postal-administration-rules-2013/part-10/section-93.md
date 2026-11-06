@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Notification to Registrar of Companies[^key-4c9946bd1ec77db680e061ea93a57f26]
+## 93. Notification to Registrar of Companies[^c-4c9946bd1ec77db680e061ea93a57f26]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The replacement or additional postal administrator shall send notice of the appo
 
 ## Annotations
 
-[^key-4c9946bd1ec77db680e061ea93a57f26]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2013/3208/rule/93) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-4c9946bd1ec77db680e061ea93a57f26]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2013/3208/rule/93) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

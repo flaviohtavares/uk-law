@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Correction of orders[^key-d148c729f9d0514629e7b20f502f3aa5]
+## 20. Correction of orders[^c-d148c729f9d0514629e7b20f502f3aa5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the Secretary of State may rectify the mistake by order under this section.
 
 ## Annotations
 
-[^key-d148c729f9d0514629e7b20f502f3aa5]: Commencement: S. 20 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-d148c729f9d0514629e7b20f502f3aa5]: Commencement: S. 20 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

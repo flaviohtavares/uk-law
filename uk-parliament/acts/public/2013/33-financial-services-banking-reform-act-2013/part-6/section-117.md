@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Powers of court[^key-10bf3c7504f9d7f3796f5cf3a93b4043]
+## 117. Powers of court[^c-10bf3c7504f9d7f3796f5cf3a93b4043]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10bf3c7504f9d7f3796f5cf3a93b4043]: Commencement: S. 117 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-10bf3c7504f9d7f3796f5cf3a93b4043]: Commencement: S. 117 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)

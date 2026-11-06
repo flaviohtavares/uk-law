@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Overview of EDPs[^key-edfda09799c368ad57187b500dd320b1][^key-104e53423291930ffee3ed7a5371aad1]
+## 59. Overview of EDPs[^c-edfda09799c368ad57187b500dd320b1][^c-104e53423291930ffee3ed7a5371aad1]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edfda09799c368ad57187b500dd320b1]: Commencement: S. 59 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-edfda09799c368ad57187b500dd320b1]: Commencement: S. 59 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-104e53423291930ffee3ed7a5371aad1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/34/section/59) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/a)
+[^c-104e53423291930ffee3ed7a5371aad1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/34/section/59) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/a)

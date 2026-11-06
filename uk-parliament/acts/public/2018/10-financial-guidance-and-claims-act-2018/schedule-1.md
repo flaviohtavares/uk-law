@@ -24,7 +24,7 @@ Section 1
 
 ### Status
 
-**1.**[^key-8c331a229c1f8dbe54b7ffe9149a324f] (1) The single financial guidance body is not to be regarded—
+**1.**[^c-8c331a229c1f8dbe54b7ffe9149a324f] (1) The single financial guidance body is not to be regarded—
 
 - (a) as a servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
@@ -33,7 +33,7 @@ Section 1
 
 ### Members: general
 
-**2.**[^key-7c86c2d28193d2d0cb3eb9270d4bf1e4] (1) The single financial guidance body is to consist of—
+**2.**[^c-7c86c2d28193d2d0cb3eb9270d4bf1e4] (1) The single financial guidance body is to consist of—
 
 - (a) a chair (who is to be a non-executive member of the body) appointed by the Secretary of State,
 - (b) other non-executive members appointed by the Secretary of State, and
@@ -43,7 +43,7 @@ Section 1
 
 ### Non-executive members: tenure
 
-**3.**[^key-57ddf657fc900d3ad7982e9ebead98ad] (1) The non-executive members hold and vacate office in accordance with the terms of their appointment (subject to this Schedule).
+**3.**[^c-57ddf657fc900d3ad7982e9ebead98ad] (1) The non-executive members hold and vacate office in accordance with the terms of their appointment (subject to this Schedule).
 
 (2) A non-executive member may resign by notice in writing to the Secretary of State.
 
@@ -60,7 +60,7 @@ Section 1
 
 ### Non-executive members: conflicts of interest
 
-**4.**[^key-d96c15fcd750508d2507d1a5ad4bd6b4] (1) Before appointing a person to be a non-executive member, the Secretary of State must be satisfied that the person does not have a conflict of interest.
+**4.**[^c-d96c15fcd750508d2507d1a5ad4bd6b4] (1) Before appointing a person to be a non-executive member, the Secretary of State must be satisfied that the person does not have a conflict of interest.
 
 (2) A non-executive member, or a person the Secretary of State proposes to appoint as a non-executive member, must provide the Secretary of State with such information as the Secretary of State requires from the person in order to determine whether the person has a conflict of interest (whether for the purposes of sub-paragraph (1) or paragraph 3(3)(a)).
 
@@ -68,7 +68,7 @@ Section 1
 
 ### Non-executive members: remuneration etc
 
-**5.**[^key-19c7f2b540e66f14bf3e8b83d573125c] (1) The single financial guidance body may—
+**5.**[^c-19c7f2b540e66f14bf3e8b83d573125c] (1) The single financial guidance body may—
 
 - (a) pay to the non-executive members such remuneration, and
 - (b) pay to or in respect of the non-executive members such sums by way of or in respect of allowances and gratuities,
@@ -84,7 +84,7 @@ the single financial guidance body may make a payment to the person of such amou
 
 ### Executive members: appointment
 
-**6.**[^key-68d382844854bca2d11f4547b1586f2e] (1) Before the date on which the single financial guidance body first starts to provide services to members of the public, the Secretary of State must appoint—
+**6.**[^c-68d382844854bca2d11f4547b1586f2e] (1) Before the date on which the single financial guidance body first starts to provide services to members of the public, the Secretary of State must appoint—
 
 - (a) a person to be the chief executive of the single financial guidance body, and
 - (b) other persons to be the executive members of the body.
@@ -93,7 +93,7 @@ the single financial guidance body may make a payment to the person of such amou
 
 ### Executive members: terms and conditions
 
-**7.**[^key-492c5d98919143ac2c02ada15749daff] (1) The executive members are to be employees of the single financial guidance body.
+**7.**[^c-492c5d98919143ac2c02ada15749daff] (1) The executive members are to be employees of the single financial guidance body.
 
 (2) Executive members appointed under paragraph 6(1) are to be employed by the single financial guidance body on such terms and conditions, including those as to remuneration, as the Secretary of State may determine.
 
@@ -108,11 +108,11 @@ as the body may determine, with the approval of the Secretary of State.
 
 ### Other staff: appointment, terms and conditions
 
-**8.**[^key-63b03c97d5b58ab9a084c0ae5130e857] The single financial guidance body may appoint other employees on such terms and conditions, including those as to remuneration and pension arrangements, as the single financial guidance body may determine.
+**8.**[^c-63b03c97d5b58ab9a084c0ae5130e857] The single financial guidance body may appoint other employees on such terms and conditions, including those as to remuneration and pension arrangements, as the single financial guidance body may determine.
 
 ### Committees
 
-**9.**[^key-573719150be0242cd40358dd589aef5c] (1) The single financial guidance body may—
+**9.**[^c-573719150be0242cd40358dd589aef5c] (1) The single financial guidance body may—
 
 - (a) establish a committee for the purpose of discharging any of its functions, and
 - (b) establish a committee for the purpose of giving advice to the body about matters relating to the discharge of its functions.
@@ -131,7 +131,7 @@ as the body may determine, with the approval of the Secretary of State.
 
 ### Delegation
 
-**10.**[^key-21398f4dd7b830567898c484f2d0d766] (1) The single financial guidance body may delegate any function conferred on it to—
+**10.**[^c-21398f4dd7b830567898c484f2d0d766] (1) The single financial guidance body may delegate any function conferred on it to—
 
 - (a) a committee,
 - (b) a member, or
@@ -146,7 +146,7 @@ as the body may determine, with the approval of the Secretary of State.
 
 ### Procedure etc
 
-**11.**[^key-a7763a5be7af94eae19b79594a8c20de] (1) The single financial guidance body may regulate its own procedures (including quorum) and the procedures of its committees and sub-committees.
+**11.**[^c-a7763a5be7af94eae19b79594a8c20de] (1) The single financial guidance body may regulate its own procedures (including quorum) and the procedures of its committees and sub-committees.
 
 (2) The single financial guidance body's procedures must include arrangements for dealing with conflicts of interests of members, employees and members of committees and sub-committees, which must oblige a person who has or may have a conflict of interest—
 
@@ -165,11 +165,11 @@ For the meaning of “conflict of interest” in this Schedule, see paragraph 4(
 
 ### Validity of acts
 
-**12.**[^key-3984f21c9b9ce611b3d4ffc29ff5af16] A defect in appointment does not affect the validity of things done by a member of the single financial guidance body.
+**12.**[^c-3984f21c9b9ce611b3d4ffc29ff5af16] A defect in appointment does not affect the validity of things done by a member of the single financial guidance body.
 
 ### Authentication of seal
 
-**13.**[^key-a0d06f16aaaf945180d95e6de529895a] (1) The application of the single financial guidance body's seal must be authenticated by the signature of—
+**13.**[^c-a0d06f16aaaf945180d95e6de529895a] (1) The application of the single financial guidance body's seal must be authenticated by the signature of—
 
 - (a) a member of the single financial guidance body, or
 - (b) some other person who has been authorised by the single financial guidance body for that purpose (whether generally or specifically).
@@ -180,7 +180,7 @@ For the meaning of “conflict of interest” in this Schedule, see paragraph 4(
 
 ### Reports and accounts
 
-**14.**[^key-11cd8425e540ca70740bad74925212a5] (1) As soon as reasonably practicable after the end of each financial year, the single financial guidance body must send to the Secretary of State a report on the exercise of the single financial guidance body's functions during that year.
+**14.**[^c-11cd8425e540ca70740bad74925212a5] (1) As soon as reasonably practicable after the end of each financial year, the single financial guidance body must send to the Secretary of State a report on the exercise of the single financial guidance body's functions during that year.
 
 (2) The report must include—
 
@@ -217,30 +217,30 @@ within the time period directed by the Secretary of State.
 
 ## Annotations
 
-[^key-8c331a229c1f8dbe54b7ffe9149a324f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/1) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-8c331a229c1f8dbe54b7ffe9149a324f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/1) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-7c86c2d28193d2d0cb3eb9270d4bf1e4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/2) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-7c86c2d28193d2d0cb3eb9270d4bf1e4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/2) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-57ddf657fc900d3ad7982e9ebead98ad]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/3) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-57ddf657fc900d3ad7982e9ebead98ad]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/3) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-d96c15fcd750508d2507d1a5ad4bd6b4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/4) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-d96c15fcd750508d2507d1a5ad4bd6b4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/4) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-19c7f2b540e66f14bf3e8b83d573125c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/5) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-19c7f2b540e66f14bf3e8b83d573125c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/5) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-68d382844854bca2d11f4547b1586f2e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/6) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-68d382844854bca2d11f4547b1586f2e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/6) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-492c5d98919143ac2c02ada15749daff]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/7) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-492c5d98919143ac2c02ada15749daff]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/7) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-63b03c97d5b58ab9a084c0ae5130e857]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/8) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-63b03c97d5b58ab9a084c0ae5130e857]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/8) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-573719150be0242cd40358dd589aef5c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/9) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-573719150be0242cd40358dd589aef5c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/9) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-21398f4dd7b830567898c484f2d0d766]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/10) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-21398f4dd7b830567898c484f2d0d766]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/10) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-a7763a5be7af94eae19b79594a8c20de]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/11) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-a7763a5be7af94eae19b79594a8c20de]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/11) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-3984f21c9b9ce611b3d4ffc29ff5af16]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/12) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-3984f21c9b9ce611b3d4ffc29ff5af16]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/12) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-a0d06f16aaaf945180d95e6de529895a]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/13) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-a0d06f16aaaf945180d95e6de529895a]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/13) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
 
-[^key-11cd8425e540ca70740bad74925212a5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/14) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)
+[^c-11cd8425e540ca70740bad74925212a5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/10/schedule/1/paragraph/14) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/o)

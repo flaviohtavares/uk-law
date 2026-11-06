@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Public bodies etc[^key-28d841d34afa335b1bd698ffb2af1e5f]
+## 16. Public bodies etc[^c-28d841d34afa335b1bd698ffb2af1e5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 19 (which makes amendments relating to public bodies etc) has effect.
 
 ## Annotations
 
-[^key-28d841d34afa335b1bd698ffb2af1e5f]: Commencement: Art. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-28d841d34afa335b1bd698ffb2af1e5f]: Commencement: Art. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

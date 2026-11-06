@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Consequential provision[^key-3a5eba4f544591756653126f701ed4ef]
+## 33. Consequential provision[^c-3a5eba4f544591756653126f701ed4ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a5eba4f544591756653126f701ed4ef]: Commencement: S. 33 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-3a5eba4f544591756653126f701ed4ef]: Commencement: S. 33 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

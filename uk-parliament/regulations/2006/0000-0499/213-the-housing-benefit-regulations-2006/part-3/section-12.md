@@ -35,14 +35,14 @@ summary: ''
 
 (2) A rent rebate or, as the case may be, a rent allowance shall not be payable in respect of the following periodical payments—
 
-- (a) payments under a long tenancy except a shared ownership tenancy[^key-7e09fe52005744d1d7a581a69ce50e88]...;
+- (a) payments under a long tenancy except a shared ownership tenancy[^c-7e09fe52005744d1d7a581a69ce50e88]...;
 - (b) payments under a co-ownership scheme;
 - (c) payments by an owner;
 - (d) payments under a hire purchase, credit sale or conditional sale agreement except to the extent the conditional sale agreement is in respect of land; and
 - (e) payments by a Crown tenant.
-- (f)[^key-bf55c2551fd46708adc72100958eec5c] payments by a person in respect of a dwelling where his partner is an owner of that dwelling.
+- (f)[^c-bf55c2551fd46708adc72100958eec5c] payments by a person in respect of a dwelling where his partner is an owner of that dwelling.
 
-(2A)[^key-b1e20924765d92561ecc0f5109a174dd] Where a reduction in any of the payments listed in paragraph (1) for which a person would otherwise be liable is applied by a provider of social housing under an approved tenant incentive scheme, for the purposes of paragraph (1) the amount of the payment is to be treated as if no such reduction has been applied.
+(2A)[^c-b1e20924765d92561ecc0f5109a174dd] Where a reduction in any of the payments listed in paragraph (1) for which a person would otherwise be liable is applied by a provider of social housing under an approved tenant incentive scheme, for the purposes of paragraph (1) the amount of the payment is to be treated as if no such reduction has been applied.
 
 (2B) For the purposes of paragraph (2A)—
 
@@ -59,27 +59,27 @@ summary: ''
   - (b) a body which is registered in the register maintained by the Scottish Housing Regulator under the Housing (Scotland) Act 2010;
 - “social housing” has the meaning given in section 68 of the Housing and Regeneration Act 2008.
 
-(3) Subject to paragraphs (4), (5) and (7), the amount of a person's eligible rent shall be— *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
+(3) Subject to paragraphs (4), (5) and (7), the amount of a person's eligible rent shall be— *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
 
-- (a) the maximum rent where a maximum rent has been, or falls to be, determined in accordance with regulations 13 (maximum rent); or *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
-- (b) except where sub-paragraph (a) applies, the aggregate of such payments specified in paragraph (1) as that person is liable to pay less— *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
-  - (i) except where he is separately liable for charges for water, sewerage or allied environmental services, an amount determined in accordance with paragraph (6); *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
-  - (ii (affected by repeal, see note))[^key-6ba63a79ff9c3cd8645304b6e56ecb5d] where payments include service charges which are wholly or partly ineligible, an amount in respect of the ineligible charges determined in accordance with Schedule 1; and *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
-  - (iii (affected by repeal, see note))[^key-6ba63a79ff9c3cd8645304b6e56ecb5d] where he is liable to make payments in respect of any service charges to which paragraph (1)(e) does not apply, but to which paragraph 3 (2) of Part 1 of Schedule 1 (unreasonably low service charges) applies in the particular circumstances, an amount in respect of such charges determined in accordance with paragraph 3(2) of Part 1 of Schedule 1. *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
+- (a) the maximum rent where a maximum rent has been, or falls to be, determined in accordance with regulations 13 (maximum rent); or *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
+- (b) except where sub-paragraph (a) applies, the aggregate of such payments specified in paragraph (1) as that person is liable to pay less— *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
+  - (i) except where he is separately liable for charges for water, sewerage or allied environmental services, an amount determined in accordance with paragraph (6); *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
+  - (ii (affected by repeal, see note))[^c-6ba63a79ff9c3cd8645304b6e56ecb5d] where payments include service charges which are wholly or partly ineligible, an amount in respect of the ineligible charges determined in accordance with Schedule 1; and *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
+  - (iii (affected by repeal, see note))[^c-6ba63a79ff9c3cd8645304b6e56ecb5d] where he is liable to make payments in respect of any service charges to which paragraph (1)(e) does not apply, but to which paragraph 3 (2) of Part 1 of Schedule 1 (unreasonably low service charges) applies in the particular circumstances, an amount in respect of such charges determined in accordance with paragraph 3(2) of Part 1 of Schedule 1. *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
 
-(4) Where the payments specified in paragraph (1) are payable in respect of accommodation which consists partly of residential accommodation and partly of other accommodation, only such proportion thereof as is referable to the residential accommodation shall count as eligible rent for the purposes of these Regulations. *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
+(4) Where the payments specified in paragraph (1) are payable in respect of accommodation which consists partly of residential accommodation and partly of other accommodation, only such proportion thereof as is referable to the residential accommodation shall count as eligible rent for the purposes of these Regulations. *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
 
-(5) Where more than one person is liable to make payments in respect of a dwelling, the payments specified in paragraph (1) shall be apportioned for the purpose of calculating the eligible rent for each such person having regard to all the circumstances, in particular, the number of such persons and the proportion of rent paid by each such person. *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
+(5) Where more than one person is liable to make payments in respect of a dwelling, the payments specified in paragraph (1) shall be apportioned for the purpose of calculating the eligible rent for each such person having regard to all the circumstances, in particular, the number of such persons and the proportion of rent paid by each such person. *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
 
-(6) The amount of the deduction referred to in paragraph (3) shall be— *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
+(6) The amount of the deduction referred to in paragraph (3) shall be— *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
 
-- (a) except in a case to which sub-paragraph (c) applies, if the dwelling occupied by the claimant is a self-contained unit, the amount of the charges; *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
-- (b) in any other case except one to which sub-paragraph (c) applies, the proportion of those charges in respect of the self-contained unit which is obtained by dividing the area of the dwelling occupied by the claimant by the area of the self-contained unit of which it forms part; *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
-- (c) where the charges vary in accordance with the amount of water actually used, the amount which the appropriate authority considers to be fairly attributable to water, and sewerage services, having regard to the actual or estimated consumption of the claimant. *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
+- (a) except in a case to which sub-paragraph (c) applies, if the dwelling occupied by the claimant is a self-contained unit, the amount of the charges; *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
+- (b) in any other case except one to which sub-paragraph (c) applies, the proportion of those charges in respect of the self-contained unit which is obtained by dividing the area of the dwelling occupied by the claimant by the area of the self-contained unit of which it forms part; *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
+- (c) where the charges vary in accordance with the amount of water actually used, the amount which the appropriate authority considers to be fairly attributable to water, and sewerage services, having regard to the actual or estimated consumption of the claimant. *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
 
-(7) In any case where it appears to the authority that in the particular circumstances of that case the eligible rent as determined in accordance with the preceding paragraphs of this regulation is greater than it is reasonable to meet by way of housing benefit, the eligible rent shall be such lesser sum as seems to that authority to be an appropriate rent in that particular case. *(affected by repeal, see note)*[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]
+(7) In any case where it appears to the authority that in the particular circumstances of that case the eligible rent as determined in accordance with the preceding paragraphs of this regulation is greater than it is reasonable to meet by way of housing benefit, the eligible rent shall be such lesser sum as seems to that authority to be an appropriate rent in that particular case. *(affected by repeal, see note)*[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]
 
-(8) In this regulation, regulation 12B (eligible rent)[^key-c74ff3968c428ce2fef4bc32d9452274] and Schedule 1 (ineligible service charges)—
+(8) In this regulation, regulation 12B (eligible rent)[^c-c74ff3968c428ce2fef4bc32d9452274] and Schedule 1 (ineligible service charges)—
 
 - “**service charges**” means periodical payments for services, whether or not under the same agreement as that under which the dwelling is occupied, or whether or not such a charge is specified as separate from or separately identified within other payments made by the occupier in respect of the dwelling; and
 - “**services**” means services performed or facilities (including the use of furniture) provided for, or rights made available to, the occupier of a dwelling.
@@ -90,12 +90,12 @@ summary: ''
 
 [^c15407091]: Marginal citation: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44).
 
-[^key-7e09fe52005744d1d7a581a69ce50e88]: Textual amendment: Words in reg. 12(2)(a) omitted (1.10.2007) by virtue of [The Housing Benefit (Amendment) Regulations 2007 (S.I. 2007/1356)](https://www.legislation.gov.uk/uksi/2007/1356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/2/4/a)
+[^c-7e09fe52005744d1d7a581a69ce50e88]: Textual amendment: Words in reg. 12(2)(a) omitted (1.10.2007) by virtue of [The Housing Benefit (Amendment) Regulations 2007 (S.I. 2007/1356)](https://www.legislation.gov.uk/uksi/2007/1356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/2/4/a)
 
-[^key-bf55c2551fd46708adc72100958eec5c]: Textual amendment: Reg. 12(2)(f) inserted (1.10.2007) by [The Housing Benefit (Amendment) Regulations 2007 (S.I. 2007/1356)](https://www.legislation.gov.uk/uksi/2007/1356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/2/4/b)
+[^c-bf55c2551fd46708adc72100958eec5c]: Textual amendment: Reg. 12(2)(f) inserted (1.10.2007) by [The Housing Benefit (Amendment) Regulations 2007 (S.I. 2007/1356)](https://www.legislation.gov.uk/uksi/2007/1356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/2/4/b)
 
-[^key-b1e20924765d92561ecc0f5109a174dd]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2006/213/regulation/12/2A)[(2B)](https://www.legislation.gov.uk/uksi/2006/213/regulation/12/2B) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/20/2)
+[^c-b1e20924765d92561ecc0f5109a174dd]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2006/213/regulation/12/2A)[(2B)](https://www.legislation.gov.uk/uksi/2006/213/regulation/12/2B) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/20/2)
 
-[^key-6ba63a79ff9c3cd8645304b6e56ecb5d]: Textual amendment: Reg. 12(3)-(7) omitted (7.4.2008) by virtue of [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [4(4)(a)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/4/4/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-6ba63a79ff9c3cd8645304b6e56ecb5d]: Textual amendment: Reg. 12(3)-(7) omitted (7.4.2008) by virtue of [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [4(4)(a)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/4/4/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^key-c74ff3968c428ce2fef4bc32d9452274]: Textual amendment: Words in reg. 12(8) inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [4(4)(b)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/4/4/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-c74ff3968c428ce2fef4bc32d9452274]: Textual amendment: Words in reg. 12(8) inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [4(4)(b)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/4/4/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))

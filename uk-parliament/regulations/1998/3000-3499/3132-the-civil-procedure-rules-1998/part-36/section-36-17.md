@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.17. Costs consequences following judgment[^key-e9908447b00f164a4af1faf75a60688f]
+## 36.17. Costs consequences following judgment[^c-e9908447b00f164a4af1faf75a60688f]
 
 *Extent: E+W*
 
-(1) Subject to rule 36.24[^key-9998896198b61cfe7fcedd9b3b1df17a], this rule applies where upon judgment being entered—
+(1) Subject to rule 36.24[^c-9998896198b61cfe7fcedd9b3b1df17a], this rule applies where upon judgment being entered—
 
 - (a) a claimant fails to obtain a judgment more advantageous than a defendant’s Part 36 offer; or
 - (b) judgment against the defendant is at least as advantageous to the claimant as the proposals contained in a claimant’s Part 36 offer.
 
-[^key-8502a0e716cf04a516cd9a231d08297d]...
+[^c-8502a0e716cf04a516cd9a231d08297d]...
 
 (2) For the purposes of paragraph (1), in relation to any money claim or money element of a claim, “more advantageous” means better in money terms by any amount, however small, and “at least as advantageous” shall be construed accordingly.
 
@@ -64,16 +64,16 @@ summary: ''
 - (b) which has been changed so that its terms are less advantageous to the offeree where the offeree has beaten the less advantageous offer;
 - (c) made less than 21 days before trial, unless the court has abridged the relevant period.
 
-(8) Paragraph (3) does not apply to a soft tissue injury claim to which rule 36.24[^key-85be2933853f04bbd975154ba244e444] applies.
+(8) Paragraph (3) does not apply to a soft tissue injury claim to which rule 36.24[^c-85be2933853f04bbd975154ba244e444] applies.
 
 (Rule 44.2 requires the court to consider an offer to settle that does not have the costs consequences set out in this Section in deciding what order to make about costs.)
 
 ## Annotations
 
-[^key-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
+[^c-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
 
-[^key-9998896198b61cfe7fcedd9b3b1df17a]: Textual amendment: Word in rule 36.17(1) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(7)(a)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/7/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-9998896198b61cfe7fcedd9b3b1df17a]: Textual amendment: Word in rule 36.17(1) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(7)(a)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/7/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-8502a0e716cf04a516cd9a231d08297d]: Textual amendment: Words in rule 36.17 omitted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/7/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8502a0e716cf04a516cd9a231d08297d]: Textual amendment: Words in rule 36.17 omitted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/7/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-85be2933853f04bbd975154ba244e444]: Textual amendment: Word in rule 36.17(8) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2023/788/rule/19/3)
+[^c-85be2933853f04bbd975154ba244e444]: Textual amendment: Word in rule 36.17(8) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2023/788/rule/19/3)

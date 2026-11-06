@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Coming into force[^key-10bb85f0346bba8adf6e8c2a6f2c152b]
+## 147. Coming into force[^c-10bb85f0346bba8adf6e8c2a6f2c152b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10bb85f0346bba8adf6e8c2a6f2c152b]: Commencement: S. 147 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-10bb85f0346bba8adf6e8c2a6f2c152b]: Commencement: S. 147 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

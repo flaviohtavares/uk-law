@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14 — REVOCATIONS[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+## SCHEDULE 14 — REVOCATIONS[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 63(1)
 
 ## Annotations
 
-[^key-1fe9fc272f3e84b7214ed18975b3c1be]: Textual amendment: Regulations revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
+[^c-1fe9fc272f3e84b7214ed18975b3c1be]: Textual amendment: Regulations revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)

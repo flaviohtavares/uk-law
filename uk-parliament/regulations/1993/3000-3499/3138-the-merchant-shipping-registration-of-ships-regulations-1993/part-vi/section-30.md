@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Names[^key-cf6ebf6c1119f19e2b47208b51bfad17]
+## 30. Names[^c-cf6ebf6c1119f19e2b47208b51bfad17]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf6ebf6c1119f19e2b47208b51bfad17]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1993/3138/regulation/30) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-cf6ebf6c1119f19e2b47208b51bfad17]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1993/3138/regulation/30) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

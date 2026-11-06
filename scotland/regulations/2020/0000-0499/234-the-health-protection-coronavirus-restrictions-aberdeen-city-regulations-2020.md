@@ -54,34 +54,34 @@ The Scottish Ministers consider that the restrictions and requirements imposed b
 
 In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by, a resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and application[^key-00396b3d4a72e580479d1eb508ed351a]
+## 1. Citation, commencement and application[^c-00396b3d4a72e580479d1eb508ed351a]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, Restrictions) (Aberdeen City) Regulations 2020 and come into force at 5.00 p.m. on 5 August 2020.
 
 (2) These Regulations apply in Scotland.
 
-## 2. Meaning of “the protected area”[^key-3add0e5775389abfb0aa1e30dfcfb18a]
+## 2. Meaning of “the protected area”[^c-3add0e5775389abfb0aa1e30dfcfb18a]
 
 In these Regulations, “**the protected area**” means the area comprising the local government area of Aberdeen City [^c24256931].
 
-## 3. Interpretation: general[^key-9bc088f435519ee7ff38f79e2f8bdd2e]
+## 3. Interpretation: general[^c-9bc088f435519ee7ff38f79e2f8bdd2e]
 
 In these Regulations “**constable**” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012 [^c24256941].
 
-## 4. The review of need for requirements and restrictions[^key-b55e7583ebbef8f9f50f3e1f66102999]
+## 4. The review of need for requirements and restrictions[^c-b55e7583ebbef8f9f50f3e1f66102999]
 
 (1) The Scottish Ministers must review the need for the requirements and restrictions imposed by these Regulations at least once every 7 days with the first review being carried out by 12 August 2020.
 
 (2) As soon as the Scottish Ministers consider that any requirement or restriction set out in these Regulations is no longer necessary to prevent, protect against, control or provide a public health response to the incidence or spread of infection in Scotland with coronavirus, the Scottish Ministers must revoke that requirement.
 
-## 5. Requirement to close premises and businesses[^key-e6347d8c9be8ff91fbe49dca786a39a2]
+## 5. Requirement to close premises and businesses[^c-e6347d8c9be8ff91fbe49dca786a39a2]
 
 (1) A person responsible for carrying on a business in the protected area which is listed in the schedule must—
 
 - (a) close any premises, or part of the premises, in the protected area in which food or drink is sold for consumption on those premises, and
 - (b) cease selling food or drink for consumption on its premises in the protected area.
 
-(1A)[^key-a173e1bcdc0974eb46868ec45cba4170] Paragraph (1) does not prevent a business taking preparatory steps, while the premises remain closed to members of the public, in pursuance of the requirement in regulation 4(1) of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020 (requirement to take measures to minimise risk of exposure to coronavirus).
+(1A)[^c-a173e1bcdc0974eb46868ec45cba4170] Paragraph (1) does not prevent a business taking preparatory steps, while the premises remain closed to members of the public, in pursuance of the requirement in regulation 4(1) of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020 (requirement to take measures to minimise risk of exposure to coronavirus).
 
 (2) For the purposes of paragraph (1), food or drink sold by a hotel or other accommodation as part of room service is not to be treated as being sold for consumption on its premises.
 
@@ -89,7 +89,7 @@ In these Regulations “**constable**” has the meaning given by section 99(1) 
 
 (4) If a business listed in the schedule (“business A”) forms part of a larger business (“business B”), the person responsible for carrying on business B complies with the requirement in paragraph (1) if it closes down business A.
 
-## 5A. Requirement to close premises and businesses: casinos[^key-d289c2ecc911f39d9b96570d1d264447]
+## 5A. Requirement to close premises and businesses: casinos[^c-d289c2ecc911f39d9b96570d1d264447]
 
 (1) A person responsible for carrying on a casino business in the protected area must not carry on that business in the protected area.
 
@@ -97,7 +97,7 @@ In these Regulations “**constable**” has the meaning given by section 99(1) 
 
 (3) If a business described in paragraph (1) (“business A”) forms part of a larger business (“business B”), the person responsible for carrying on business B complies with the requirement in paragraph (1) if it closes down business A.
 
-## 6. Enforcement of requirements[^key-c1dc892fe15017a7ef9311a3d4120320]
+## 6. Enforcement of requirements[^c-c1dc892fe15017a7ef9311a3d4120320]
 
 (1) A relevant person may take such action as is necessary to enforce any requirement imposed by these Regulations.
 
@@ -109,15 +109,15 @@ In these Regulations “**constable**” has the meaning given by section 99(1) 
 (3) For the purposes of this regulation, a “*relevant person”* means—
 
 - (a) a constable, or
-- (b) [^key-e1a4600e685d7f4a1cf89561b7f6b1aa]... a person designated by a local authority for the purposes of this regulation.
+- (b) [^c-e1a4600e685d7f4a1cf89561b7f6b1aa]... a person designated by a local authority for the purposes of this regulation.
 
-(4)[^key-3230e51135b031e4ad815914a1647d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3230e51135b031e4ad815914a1647d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of this regulation references to a requirement include references to a restriction.
 
-## 7. Offences and penalties[^key-40c7ef0410dfe5734f6512b1f5a9aba8]
+## 7. Offences and penalties[^c-40c7ef0410dfe5734f6512b1f5a9aba8]
 
-(1) A person who contravenes a requirement in regulation 5 or 5A[^key-7e879ea5b71ac6264f663b85a2c1706a] commits an offence.
+(1) A person who contravenes a requirement in regulation 5 or 5A[^c-7e879ea5b71ac6264f663b85a2c1706a] commits an offence.
 
 (2) A person who obstructs any person carrying out a function under these Regulations commits an offence.
 
@@ -143,7 +143,7 @@ the officer (as well as the body corporate) commits the offence and is liable to
 - (c) in the case of a partnership other than a limited liability partnership, a partner,
 - (d) in the case of another body or association, a person who is concerned in the management or control of its affairs.
 
-## 8. Fixed penalty notices[^key-2a0d0f1020b524768fc95c69de289c32]
+## 8. Fixed penalty notices[^c-2a0d0f1020b524768fc95c69de289c32]
 
 (1) A constable may issue a fixed penalty notice to a person that the constable reasonably believes—
 
@@ -186,9 +186,9 @@ are the same as those that apply to a fixed penalty notice given under section 1
   - (i) the reference to *“by virtue of section 131(5) of the Antisocial Behaviour etc. (Scotland) Act 2004”* is to be construed as a reference to that section as modified by this paragraph, and
   - (ii) the reference to *“a fixed penalty notice given under section 129 (fixed penalty notices) of that Act”* is to be construed as a reference to section 129 of the Antisocial Behaviour etc. (Scotland) Act 2004 as modified by this paragraph.
 
-## 9. Expiry[^key-83e1fd6c2ee54b170352877eb608f3ec]
+## 9. Expiry[^c-83e1fd6c2ee54b170352877eb608f3ec]
 
-(1) These Regulations expire at midnight on Tuesday 25 August.[^key-b839e35583e8ca2da9138925c01436eb]
+(1) These Regulations expire at midnight on Tuesday 25 August.[^c-b839e35583e8ca2da9138925c01436eb]
 
 (2) This regulation does not affect the validity of anything done pursuant to these Regulations before they expire.
 
@@ -204,9 +204,9 @@ Edinburgh
 
 Regulation 5
 
-**1.**[^key-30b52b25619ef3fe03b13787a2fbefac] Restaurants, other than a restaurant or dining room in a hotel open exclusively for the use of hotel residents or staff.
+**1.**[^c-30b52b25619ef3fe03b13787a2fbefac] Restaurants, other than a restaurant or dining room in a hotel open exclusively for the use of hotel residents or staff.
 
-**2.**[^key-8198fc427889249c6e7b371008d34dd8] (1) Cafes, including workplace canteens (subject to sub-paragraph (2)), but not including—
+**2.**[^c-8198fc427889249c6e7b371008d34dd8] (1) Cafes, including workplace canteens (subject to sub-paragraph (2)), but not including—
 
 - (a) cafes or canteens at a hospital, care home or school,
 - (b) canteens at a prison or an establishment intended for use for naval, military or air force purposes or for the purposes of the Department of the Secretary of State responsible for defence,
@@ -217,11 +217,11 @@ Regulation 5
 - (a) there is no practical alternative for staff at that workplace to obtain food, and
 - (b) so far as reasonably possible, a distance of two metres can be maintained between any person using the canteen.
 
-**3.**[^key-3e9c689e138ced76e9f5c41014e13d51] Bars, including bars in hotels or members' clubs.
+**3.**[^c-3e9c689e138ced76e9f5c41014e13d51] Bars, including bars in hotels or members' clubs.
 
-**4.**[^key-c31d855c46f3e5858160314f64908455] Public houses.
+**4.**[^c-c31d855c46f3e5858160314f64908455] Public houses.
 
-**5.**[^key-f4d1f3bd6d742d0d4b649fc3880453c9] Bingo halls.
+**5.**[^c-f4d1f3bd6d742d0d4b649fc3880453c9] Bingo halls.
 
 **6.** Bowling alleys or amusement arcades.
 
@@ -241,50 +241,50 @@ No impact assessment has been prepared for these Regulations.
 
 [^c24256921]: Marginal citation: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-00396b3d4a72e580479d1eb508ed351a]: Commencement: Reg. 1 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-00396b3d4a72e580479d1eb508ed351a]: Commencement: Reg. 1 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-3add0e5775389abfb0aa1e30dfcfb18a]: Commencement: Reg. 2 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-3add0e5775389abfb0aa1e30dfcfb18a]: Commencement: Reg. 2 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
 [^c24256931]: Marginal citation: The boundaries of Aberdeen City are mered by Ordnance Survey, in accordance with section 1, paragraph 1 of Part 1 of schedule 1 and paragraph 1 of Part 2 of schedule 1 of the Local Government etc. (Scotland) Act 1994. The local government area “City of Aberdeen” was changed to “Aberdeen City” by resolution under section 23 of the Local Government etc. (Scotland) Act 1973 (inserted by paragraph 92 of Schedule 13 to the Local Government etc. (Scotland) Act 1994) at a special meeting convened on 9th May 1995.
 
-[^key-9bc088f435519ee7ff38f79e2f8bdd2e]: Commencement: Reg. 3 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-9bc088f435519ee7ff38f79e2f8bdd2e]: Commencement: Reg. 3 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
 [^c24256941]: Marginal citation: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-b55e7583ebbef8f9f50f3e1f66102999]: Commencement: Reg. 4 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-b55e7583ebbef8f9f50f3e1f66102999]: Commencement: Reg. 4 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-e6347d8c9be8ff91fbe49dca786a39a2]: Commencement: Reg. 5 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-e6347d8c9be8ff91fbe49dca786a39a2]: Commencement: Reg. 5 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-a173e1bcdc0974eb46868ec45cba4170]: Textual amendment: Reg. 5(1A) inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/2)
+[^c-a173e1bcdc0974eb46868ec45cba4170]: Textual amendment: Reg. 5(1A) inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/2)
 
-[^key-d289c2ecc911f39d9b96570d1d264447]: Textual amendment: Reg. 5A inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/3)
+[^c-d289c2ecc911f39d9b96570d1d264447]: Textual amendment: Reg. 5A inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/3)
 
-[^key-c1dc892fe15017a7ef9311a3d4120320]: Commencement: Reg. 6 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-c1dc892fe15017a7ef9311a3d4120320]: Commencement: Reg. 6 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-e1a4600e685d7f4a1cf89561b7f6b1aa]: Textual amendment: Words in reg. 6(3)(b) revoked (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/4/a)
+[^c-e1a4600e685d7f4a1cf89561b7f6b1aa]: Textual amendment: Words in reg. 6(3)(b) revoked (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/4/a)
 
-[^key-3230e51135b031e4ad815914a1647d2b]: Textual amendment: Reg. 6(4) omitted (24.8.2020) by virtue of [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/4/b)
+[^c-3230e51135b031e4ad815914a1647d2b]: Textual amendment: Reg. 6(4) omitted (24.8.2020) by virtue of [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/4/b)
 
-[^key-40c7ef0410dfe5734f6512b1f5a9aba8]: Commencement: Reg. 7 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-40c7ef0410dfe5734f6512b1f5a9aba8]: Commencement: Reg. 7 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-7e879ea5b71ac6264f663b85a2c1706a]: Textual amendment: Words in reg. 7(1) inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/5)
+[^c-7e879ea5b71ac6264f663b85a2c1706a]: Textual amendment: Words in reg. 7(1) inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/5)
 
-[^key-2a0d0f1020b524768fc95c69de289c32]: Commencement: Reg. 8 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-2a0d0f1020b524768fc95c69de289c32]: Commencement: Reg. 8 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
 [^c24256951]: Marginal citation: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
 
 [^c24256961]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-83e1fd6c2ee54b170352877eb608f3ec]: Commencement: Reg. 9 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-83e1fd6c2ee54b170352877eb608f3ec]: Commencement: Reg. 9 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-b839e35583e8ca2da9138925c01436eb]: Textual amendment: Words in reg. 9(1) substituted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/7)
+[^c-b839e35583e8ca2da9138925c01436eb]: Textual amendment: Words in reg. 9(1) substituted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/7)
 
-[^key-30b52b25619ef3fe03b13787a2fbefac]: Commencement: Sch. para. 1 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-30b52b25619ef3fe03b13787a2fbefac]: Commencement: Sch. para. 1 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-8198fc427889249c6e7b371008d34dd8]: Commencement: Sch. para. 2 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-8198fc427889249c6e7b371008d34dd8]: Commencement: Sch. para. 2 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-3e9c689e138ced76e9f5c41014e13d51]: Commencement: Sch. para. 3 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-3e9c689e138ced76e9f5c41014e13d51]: Commencement: Sch. para. 3 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-c31d855c46f3e5858160314f64908455]: Commencement: Sch. para. 4 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
+[^c-c31d855c46f3e5858160314f64908455]: Commencement: Sch. para. 4 in force at 5.8.2020 at 5.00 p.m., see reg. 1(1)
 
-[^key-f4d1f3bd6d742d0d4b649fc3880453c9]: Textual amendment: Sch. paras. 5-8 inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/6)
+[^c-f4d1f3bd6d742d0d4b649fc3880453c9]: Textual amendment: Sch. paras. 5-8 inserted (24.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Aberdeen City) Amendment Regulations 2020 (S.S.I. 2020/253)](https://www.legislation.gov.uk/ssi/2020/253), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/253/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/253/regulation/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Principal councils' duty to publish constitution and constitution guide[^key-af9493cfc4c6ef95a9af1a2e0f9ed9d0]
+## 45. Principal councils' duty to publish constitution and constitution guide[^c-af9493cfc4c6ef95a9af1a2e0f9ed9d0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af9493cfc4c6ef95a9af1a2e0f9ed9d0]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2021/1/section/45) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(e)](https://www.legislation.gov.uk/wsi/2021/231/article/6/e)
+[^c-af9493cfc4c6ef95a9af1a2e0f9ed9d0]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2021/1/section/45) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(e)](https://www.legislation.gov.uk/wsi/2021/231/article/6/e)

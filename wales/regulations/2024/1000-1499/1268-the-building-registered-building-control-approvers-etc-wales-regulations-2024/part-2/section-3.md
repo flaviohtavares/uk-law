@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Independence of approvers[^key-340999cfae4078df3f9f26add32da122]
+## 3. Independence of approvers[^c-340999cfae4078df3f9f26add32da122]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-340999cfae4078df3f9f26add32da122]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/1268/regulation/3) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-340999cfae4078df3f9f26add32da122]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/1268/regulation/3) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

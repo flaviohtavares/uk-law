@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Application of rules in this Part[^key-cee76577afd995e652f46e5522360167]
+## 114. Application of rules in this Part[^c-cee76577afd995e652f46e5522360167]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The rules in this Part apply only in relation to the liquidation committee estab
 
 ## Annotations
 
-[^key-cee76577afd995e652f46e5522360167]: Commencement: Rule 114 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-cee76577afd995e652f46e5522360167]: Commencement: Rule 114 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

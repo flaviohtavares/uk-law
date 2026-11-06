@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-f4b9c40735925b3538f7b011bb9e42b3]
+## 93. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-f4b9c40735925b3538f7b011bb9e42b3]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ In regulation 2(1) (interpretation) (as amended by regulations 86 and 89 of thes
   - (ii) at the end of paragraph (a)(iii), for “or” substitute “and”;
   - (iii) omit paragraph (a)(iv).
 
-**94.**[^key-5195e7c0049162c60d958250f1d3544d] In regulation 7 (as substituted by regulation 91 of these Regulations)—
+**94.**[^c-5195e7c0049162c60d958250f1d3544d] In regulation 7 (as substituted by regulation 91 of these Regulations)—
 
 - (a) in paragraph (2)(j), after “the student” insert “or the student’s spouse, civil partner or parent”;
 - (b) in paragraph (2)(k), after “the student” insert “or the student’s spouse, civil partner or parent”.
 
-**95.**[^key-e3e4abceacae91ff35f73a1fb4c87fd2] In Part 2 of Schedule 1 (eligible students: categories)—
+**95.**[^c-e3e4abceacae91ff35f73a1fb4c87fd2] In Part 2 of Schedule 1 (eligible students: categories)—
 
 - (a) in paragraph 5A (as amended by regulation 90(9) of these Regulations)—
   - (i) for the heading substitute—
@@ -99,10 +99,10 @@ In regulation 2(1) (interpretation) (as amended by regulations 86 and 89 of thes
 
 ## Annotations
 
-[^key-f4b9c40735925b3538f7b011bb9e42b3]: Commencement: Reg. 93 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-f4b9c40735925b3538f7b011bb9e42b3]: Commencement: Reg. 93 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-5195e7c0049162c60d958250f1d3544d]: Commencement: Reg. 94 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-5195e7c0049162c60d958250f1d3544d]: Commencement: Reg. 94 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-e3e4abceacae91ff35f73a1fb4c87fd2]: Commencement: Reg. 95 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-e3e4abceacae91ff35f73a1fb4c87fd2]: Commencement: Reg. 95 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00075]: Footnote: Paragraph 5C was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

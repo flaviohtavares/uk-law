@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Inspection of premises etc.[^key-56ff53ea5087fd74dfa7ac9565474775][^key-8a60bb2653d3f064f73ac7c5e367f020]
+## 15. Inspection of premises etc.[^c-56ff53ea5087fd74dfa7ac9565474775][^c-8a60bb2653d3f064f73ac7c5e367f020]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ relating to the discharge of any of its functions in relation to adoption which 
 
 ## Annotations
 
-[^key-56ff53ea5087fd74dfa7ac9565474775]: Commencement: S. 15 in force at 30.12.2005 for W. by [S.I. 2005/3112](https://www.legislation.gov.uk/uksi/2005/3112), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/3112/article/2/d)
+[^c-56ff53ea5087fd74dfa7ac9565474775]: Commencement: S. 15 in force at 30.12.2005 for W. by [S.I. 2005/3112](https://www.legislation.gov.uk/uksi/2005/3112), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/3112/article/2/d)
 
-[^key-8a60bb2653d3f064f73ac7c5e367f020]: Commencement: S. 15 in force at 30.12.2005 for E. by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/2213/article/3/i) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-8a60bb2653d3f064f73ac7c5e367f020]: Commencement: S. 15 in force at 30.12.2005 for E. by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/2213/article/3/i) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

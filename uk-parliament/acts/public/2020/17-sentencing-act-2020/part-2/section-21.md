@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Power of Crown Court on committal for sentence of offender under section 14, 15 or 18[^key-ba741d2467f55b58e2f9bba1788752a5]
+## 21. Power of Crown Court on committal for sentence of offender under section 14, 15 or 18[^c-ba741d2467f55b58e2f9bba1788752a5]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ This does not apply to any duty imposed on a magistrates' court by section 25(1)
 
 ## Annotations
 
-[^key-ba741d2467f55b58e2f9bba1788752a5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/17/section/21) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ba741d2467f55b58e2f9bba1788752a5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/17/section/21) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

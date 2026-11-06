@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69N. Members wishing to forgo payments[^key-88e9afcb47af4993c9f0217ab16abf83]
+## 69N. Members wishing to forgo payments[^c-88e9afcb47af4993c9f0217ab16abf83]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88e9afcb47af4993c9f0217ab16abf83]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/anaw/2013/4/part/5A) inserted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 57(2)](https://www.legislation.gov.uk/asc/2024/5/section/57/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/c)
+[^c-88e9afcb47af4993c9f0217ab16abf83]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/anaw/2013/4/part/5A) inserted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 57(2)](https://www.legislation.gov.uk/asc/2024/5/section/57/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/c)

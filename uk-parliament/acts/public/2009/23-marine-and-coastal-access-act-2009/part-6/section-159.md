@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Power of Secretary of State to amend or revoke byelaws[^c2007927][^key-4a7949744846989c9227f5ed1e5cd0b7]
+## 159. Power of Secretary of State to amend or revoke byelaws[^c2007927][^c-4a7949744846989c9227f5ed1e5cd0b7]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c2007927]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2009/23/section/159) partly in force; [s. 159](https://www.legislation.gov.uk/ukpga/2009/23/section/159) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-4a7949744846989c9227f5ed1e5cd0b7]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2009/23/section/159) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-4a7949744846989c9227f5ed1e5cd0b7]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2009/23/section/159) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)

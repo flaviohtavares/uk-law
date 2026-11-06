@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX X — ADDITIONALITY[^key-0c2c4dbd244f5879225a62298b2180b7]
+## ANNEX X — ADDITIONALITY[^c-0c2c4dbd244f5879225a62298b2180b7]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]1.
+[^c-0c2c4dbd244f5879225a62298b2180b7]1.
 
 PUBLIC OR EQUIVALENT STRUCTURAL EXPENDITURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]2.
+[^c-0c2c4dbd244f5879225a62298b2180b7]2.
 
 VERIFICATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]3.
+[^c-0c2c4dbd244f5879225a62298b2180b7]3.
 
 FINANCIAL CORRECTION RATES FOLLOWING EX POST VERIFICATION
 
@@ -42,4 +42,4 @@ FINANCIAL CORRECTION RATES FOLLOWING EX POST VERIFICATION
 
 ## Annotations
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]: Textual amendment: Annexes 6-10 omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/785/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c2c4dbd244f5879225a62298b2180b7]: Textual amendment: Annexes 6-10 omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/785/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

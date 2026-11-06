@@ -24,19 +24,19 @@ summary: ''
 
 ### Money or money's worth
 
-**1.**[^key-ab59d150ce7769e24db9a64ea235353e] The chargeable consideration for a transaction is, except as otherwise provided, any consideration in money or money's worth given for the subject-matter of the transaction, directly or indirectly, by the buyer or a person connected with the buyer.
+**1.**[^c-ab59d150ce7769e24db9a64ea235353e] The chargeable consideration for a transaction is, except as otherwise provided, any consideration in money or money's worth given for the subject-matter of the transaction, directly or indirectly, by the buyer or a person connected with the buyer.
 
 ### Value added tax
 
-**2.**[^key-9a3175a449733a75858f54a419aa6593] The chargeable consideration for a transaction includes any value added tax chargeable in respect of the transaction, other than value added tax chargeable by virtue of an option to tax any land under Part 1 of schedule 10 to the Value Added Tax Act 1994 (c.23) made after the effective date of the transaction.
+**2.**[^c-9a3175a449733a75858f54a419aa6593] The chargeable consideration for a transaction includes any value added tax chargeable in respect of the transaction, other than value added tax chargeable by virtue of an option to tax any land under Part 1 of schedule 10 to the Value Added Tax Act 1994 (c.23) made after the effective date of the transaction.
 
 ### Postponed consideration
 
-**3.**[^key-9633ac847f69dd02b0c92c2b0f84c453] The amount or value of the chargeable consideration for a transaction is to be determined without any discount for postponement of the right to receive it or any part of it.
+**3.**[^c-9633ac847f69dd02b0c92c2b0f84c453] The amount or value of the chargeable consideration for a transaction is to be determined without any discount for postponement of the right to receive it or any part of it.
 
 ### Just and reasonable apportionment
 
-**4.**[^key-c00eac6feca5f1943a5fc38031a9bff4] (1) For the purposes of this Act consideration attributable—
+**4.**[^c-c00eac6feca5f1943a5fc38031a9bff4] (1) For the purposes of this Act consideration attributable—
 
 - (a) to two or more land transactions, or
 - (b) in part to a land transaction and in part to another matter, or
@@ -53,7 +53,7 @@ is to be apportioned on a just and reasonable basis.
 
 ### Exchanges
 
-**5.**[^key-6db078779bb0dff3956c4ec1f934f212] (1) This paragraph applies to determine the chargeable consideration where one or more land transactions are entered into by a person as buyer (alone or jointly) wholly or partly in consideration of one or more other land transactions being entered into by that person (alone or jointly) as seller.
+**5.**[^c-6db078779bb0dff3956c4ec1f934f212] (1) This paragraph applies to determine the chargeable consideration where one or more land transactions are entered into by a person as buyer (alone or jointly) wholly or partly in consideration of one or more other land transactions being entered into by that person (alone or jointly) as seller.
 
 (2) In this paragraph—
 
@@ -96,11 +96,11 @@ TMV is the total market value of the subject-matter of all the relevant acquisit
 
 ### Partition etc.: disregard of existing interest
 
-**6.**[^key-883e6358bda0449d65cdf2b101e3fa35] In the case of a land transaction giving effect to a partition or division of a chargeable interest to which persons are jointly entitled, the share of the interest held by the buyer immediately before the partition or division does not count as chargeable consideration.
+**6.**[^c-883e6358bda0449d65cdf2b101e3fa35] In the case of a land transaction giving effect to a partition or division of a chargeable interest to which persons are jointly entitled, the share of the interest held by the buyer immediately before the partition or division does not count as chargeable consideration.
 
 ### Valuation of non-monetary consideration
 
-**7.**[^key-d1796db4ed45128627be8a5cee0b28a2] Except as otherwise expressly provided, the value of any chargeable consideration for a land transaction, other than—
+**7.**[^c-d1796db4ed45128627be8a5cee0b28a2] Except as otherwise expressly provided, the value of any chargeable consideration for a land transaction, other than—
 
 - (a) money (whether in sterling or another currency), or
 - (b) debt as defined for the purposes of paragraph 8 (debt as consideration),
@@ -109,7 +109,7 @@ is to be taken to be its market value at the effective date of the transaction.
 
 ### Debt as consideration
 
-**8.**[^key-8dd1db4db60e04b61d80d5a5deab3051] (1) Where the chargeable consideration for a land transaction consists in whole or in part of—
+**8.**[^c-8dd1db4db60e04b61d80d5a5deab3051] (1) Where the chargeable consideration for a land transaction consists in whole or in part of—
 
 - (a) the satisfaction or release of a debt due to the buyer or owed by the seller, or
 - (b) the assumption of existing debt by the buyer,
@@ -140,7 +140,7 @@ the amount of secured debt assumed is to be determined as if the amount of that 
 
 ### Cases where conditions for exemption not fully met
 
-**9.**[^key-fb0f0b10fe6333730900196ec096302c] (1) Where a land transaction would be an exempt transaction under paragraph 6 of schedule 1 (assents and appropriations by personal representative) but for sub-paragraph (2) of that paragraph (cases where person acquiring property gives consideration for it), the chargeable consideration for the transaction does not include the amount of any secured debt assumed.
+**9.**[^c-fb0f0b10fe6333730900196ec096302c] (1) Where a land transaction would be an exempt transaction under paragraph 6 of schedule 1 (assents and appropriations by personal representative) but for sub-paragraph (2) of that paragraph (cases where person acquiring property gives consideration for it), the chargeable consideration for the transaction does not include the amount of any secured debt assumed.
 
 (2) In this paragraph, “**secured debt**” has the same meaning as in paragraph 6(4) of schedule 1.
 
@@ -148,13 +148,13 @@ the amount of secured debt assumed is to be determined as if the amount of that 
 
 ### Conversion of amounts in foreign currency
 
-**10.**[^key-99c0846a20307fc64a7d90c1267d5c0d] (1) References in this Act to the amount or value of the consideration for a transaction are to its amount or value in sterling.
+**10.**[^c-99c0846a20307fc64a7d90c1267d5c0d] (1) References in this Act to the amount or value of the consideration for a transaction are to its amount or value in sterling.
 
 (2) For the purposes of this Act the sterling equivalent of an amount expressed in another currency is to be ascertained by reference to the London closing exchange rate on the effective date of the transaction (unless the parties have used a different rate for the purposes of the transaction).
 
 ### Carrying out of works
 
-**11.**[^key-79aaca3e940db149621d5d886066709a] (1) Where the whole or part of the consideration for a land transaction consists of the carrying out of works of construction, improvement or repair of a building or other works to enhance the value of land, then—
+**11.**[^c-79aaca3e940db149621d5d886066709a] (1) Where the whole or part of the consideration for a land transaction consists of the carrying out of works of construction, improvement or repair of a building or other works to enhance the value of land, then—
 
 - (a) to the extent that the conditions specified in sub-paragraph (2) are met, the value of the works does not count as chargeable consideration, and
 - (b) to the extent that those conditions are not met, the value of the works is to be taken into account as chargeable consideration.
@@ -176,21 +176,21 @@ the amount of secured debt assumed is to be determined as if the amount of that 
 
 ### Provision of services
 
-**12.**[^key-a1b71f3f894a1b6d70291075f217cd75] (1) Where the whole or part of the consideration for a land transaction consists of the provision of services (other than the carrying out of works to which paragraph 11 applies), the value of that consideration is to be taken to be the amount that would have to be paid in the open market to obtain those services.
+**12.**[^c-a1b71f3f894a1b6d70291075f217cd75] (1) Where the whole or part of the consideration for a land transaction consists of the provision of services (other than the carrying out of works to which paragraph 11 applies), the value of that consideration is to be taken to be the amount that would have to be paid in the open market to obtain those services.
 
 (2) This paragraph is subject to paragraph 17 (arrangements involving public or educational bodies).
 
 ### Land transaction entered into by reason of employment
 
-**13.**[^key-22f47e72bfc7b4fd153b927953b1c0b5] Where a land transaction is entered into by reason of the buyer's employment, or that of a person connected with the buyer, the consideration for the transaction is to be taken to be not less than the market value of the subject-matter of the transaction as at the effective date of the transaction.
+**13.**[^c-22f47e72bfc7b4fd153b927953b1c0b5] Where a land transaction is entered into by reason of the buyer's employment, or that of a person connected with the buyer, the consideration for the transaction is to be taken to be not less than the market value of the subject-matter of the transaction as at the effective date of the transaction.
 
 ### Indemnity given by buyer
 
-**14.**[^key-e5bde8b3204df818723c59ed9b81d30b] Where the buyer agrees to indemnify the seller in respect of liability to a third party arising from breach of an obligation owed by the seller in relation to the land that is the subject of the transaction, neither the agreement nor any payment made in pursuance of it counts as chargeable consideration.
+**14.**[^c-e5bde8b3204df818723c59ed9b81d30b] Where the buyer agrees to indemnify the seller in respect of liability to a third party arising from breach of an obligation owed by the seller in relation to the land that is the subject of the transaction, neither the agreement nor any payment made in pursuance of it counts as chargeable consideration.
 
 ### Buyer bearing inheritance tax liability
 
-**15.**[^key-a976b068d3c23e28fedbdddac973f7f5] Where—
+**15.**[^c-a976b068d3c23e28fedbdddac973f7f5] Where—
 
 - (a) there is a land transaction that is—
   - (i) a transfer of value within section 3 of the Inheritance Tax Act 1984 (c.51) (transfers of value), or
@@ -201,11 +201,11 @@ the buyer's liability, agreement or payment does not count as chargeable conside
 
 ### Buyer bearing capital gains tax liability
 
-**16.**[^key-5fe0c43156e918949820ffcb9c603679] (1) Where—
+**16.**[^c-5fe0c43156e918949820ffcb9c603679] (1) Where—
 
 - (a) there is a land transaction under which the chargeable interest in question—
   - (i) is acquired otherwise than by a bargain made at arm's length, or
-  - (ii) is treated by section 18 of the Taxation of Chargeable Gains Act 1992[^key-51ea7e6a6f3821ba269b442db8d097dc] (c.12) (connected persons) as so acquired, and
+  - (ii) is treated by section 18 of the Taxation of Chargeable Gains Act 1992[^c-51ea7e6a6f3821ba269b442db8d097dc] (c.12) (connected persons) as so acquired, and
 - (b) the buyer is or becomes liable to pay, or does in fact pay, any capital gains tax due in respect of the corresponding disposal of the chargeable interest,
 
 the buyer's liability or payment does not count as chargeable consideration for the transaction.
@@ -214,7 +214,7 @@ the buyer's liability or payment does not count as chargeable consideration for 
 
 ### Arrangements involving public or educational bodies
 
-**17.**[^key-c0e4c65218653c13f73654891f347133] (1) This paragraph applies in any case where arrangements are entered into under which—
+**17.**[^c-c0e4c65218653c13f73654891f347133] (1) This paragraph applies in any case where arrangements are entered into under which—
 
 - (a) there is a transfer of the ownership, or the grant or assignation of a lease, of land by a qualifying body (A) to a non-qualifying body (B) (“the main transfer”),
 - (b) in consideration (whether in whole or in part) of the main transfer there is a grant by B to A of a lease or sub-lease of the whole, or substantially the whole, of that land (“the leaseback”),
@@ -227,7 +227,7 @@ whether or not there is also a transfer of the ownership, or the grant or assign
 
 - (a) public bodies within paragraph 4 of schedule 16,
 - (b) grant-aided schools within the meaning of section 135(1) of the Education (Scotland) Act 1980 (c.44), and
-- (c)[^key-b3d815cce5f6cdf1c6700bc17795080e] any post-16 education body within the meaning of section 35(1) of the Further and Higher Education (Scotland) Act [2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6) .
+- (c)[^c-b3d815cce5f6cdf1c6700bc17795080e] any post-16 education body within the meaning of section 35(1) of the Further and Higher Education (Scotland) Act [2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6) .
 
 (3) The Scottish Ministers may, by order, modify sub-paragraph (2) so as to—
 
@@ -251,40 +251,40 @@ whether or not there is also a transfer of the ownership, or the grant or assign
 
 ## Annotations
 
-[^key-ab59d150ce7769e24db9a64ea235353e]: Commencement: Sch. 2 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-ab59d150ce7769e24db9a64ea235353e]: Commencement: Sch. 2 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9a3175a449733a75858f54a419aa6593]: Commencement: Sch. 2 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9a3175a449733a75858f54a419aa6593]: Commencement: Sch. 2 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9633ac847f69dd02b0c92c2b0f84c453]: Commencement: Sch. 2 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9633ac847f69dd02b0c92c2b0f84c453]: Commencement: Sch. 2 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-c00eac6feca5f1943a5fc38031a9bff4]: Commencement: Sch. 2 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c00eac6feca5f1943a5fc38031a9bff4]: Commencement: Sch. 2 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-6db078779bb0dff3956c4ec1f934f212]: Commencement: Sch. 2 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-6db078779bb0dff3956c4ec1f934f212]: Commencement: Sch. 2 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-883e6358bda0449d65cdf2b101e3fa35]: Commencement: Sch. 2 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-883e6358bda0449d65cdf2b101e3fa35]: Commencement: Sch. 2 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d1796db4ed45128627be8a5cee0b28a2]: Commencement: Sch. 2 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d1796db4ed45128627be8a5cee0b28a2]: Commencement: Sch. 2 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8dd1db4db60e04b61d80d5a5deab3051]: Commencement: Sch. 2 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8dd1db4db60e04b61d80d5a5deab3051]: Commencement: Sch. 2 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-fb0f0b10fe6333730900196ec096302c]: Commencement: Sch. 2 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-fb0f0b10fe6333730900196ec096302c]: Commencement: Sch. 2 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-99c0846a20307fc64a7d90c1267d5c0d]: Commencement: Sch. 2 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-99c0846a20307fc64a7d90c1267d5c0d]: Commencement: Sch. 2 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-79aaca3e940db149621d5d886066709a]: Commencement: Sch. 2 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-79aaca3e940db149621d5d886066709a]: Commencement: Sch. 2 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-a1b71f3f894a1b6d70291075f217cd75]: Commencement: Sch. 2 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a1b71f3f894a1b6d70291075f217cd75]: Commencement: Sch. 2 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-22f47e72bfc7b4fd153b927953b1c0b5]: Commencement: Sch. 2 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-22f47e72bfc7b4fd153b927953b1c0b5]: Commencement: Sch. 2 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-e5bde8b3204df818723c59ed9b81d30b]: Commencement: Sch. 2 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-e5bde8b3204df818723c59ed9b81d30b]: Commencement: Sch. 2 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-a976b068d3c23e28fedbdddac973f7f5]: Commencement: Sch. 2 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a976b068d3c23e28fedbdddac973f7f5]: Commencement: Sch. 2 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5fe0c43156e918949820ffcb9c603679]: Commencement: Sch. 2 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5fe0c43156e918949820ffcb9c603679]: Commencement: Sch. 2 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-51ea7e6a6f3821ba269b442db8d097dc]: Textual amendment: Word in Sch. 2 para. 16(1)(a)(ii) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(18)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/18) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-51ea7e6a6f3821ba269b442db8d097dc]: Textual amendment: Word in Sch. 2 para. 16(1)(a)(ii) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(18)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/18) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-c0e4c65218653c13f73654891f347133]: Commencement: Sch. 2 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c0e4c65218653c13f73654891f347133]: Commencement: Sch. 2 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-b3d815cce5f6cdf1c6700bc17795080e]: Textual amendment: Sch. 2 para. 17(2)(c) substituted (1.4.2015) by [The Land and Buildings Transaction Tax (Qualifying Public or Educational Bodies) (Scotland) Amendment Order 2014 (S.S.I. 2014/351)](https://www.legislation.gov.uk/ssi/2014/351), [arts. 1](https://www.legislation.gov.uk/ssi/2014/351/article/1), [2](https://www.legislation.gov.uk/ssi/2014/351/article/2)
+[^c-b3d815cce5f6cdf1c6700bc17795080e]: Textual amendment: Sch. 2 para. 17(2)(c) substituted (1.4.2015) by [The Land and Buildings Transaction Tax (Qualifying Public or Educational Bodies) (Scotland) Amendment Order 2014 (S.S.I. 2014/351)](https://www.legislation.gov.uk/ssi/2014/351), [arts. 1](https://www.legislation.gov.uk/ssi/2014/351/article/1), [2](https://www.legislation.gov.uk/ssi/2014/351/article/2)

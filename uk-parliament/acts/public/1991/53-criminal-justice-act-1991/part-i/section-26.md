@@ -38,7 +38,7 @@ summary: ''
 - (a) in paragraph (a), for the words “three months” there shall be substituted the words “six months”; and
 - (b) in paragraph (b), for the words “five years” there shall be substituted the words “seven years”.
 
-(5)[^key-c6d5af076e68afcf8bbcbf005d9faac0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c6d5af076e68afcf8bbcbf005d9faac0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c13767271]: Marginal citation: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45).
 
-[^key-c6d5af076e68afcf8bbcbf005d9faac0]: Textual amendment: S. 26(5) repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/f), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-c6d5af076e68afcf8bbcbf005d9faac0]: Textual amendment: S. 26(5) repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/f), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)

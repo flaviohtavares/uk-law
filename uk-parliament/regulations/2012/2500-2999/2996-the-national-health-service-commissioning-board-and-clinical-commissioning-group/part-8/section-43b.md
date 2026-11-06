@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43B. Transitional provision: enforcement[^key-a97223b671027547c9c1850a63469800]
+## 43B. Transitional provision: enforcement[^c-a97223b671027547c9c1850a63469800]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ as though it were an investigation commenced on or after that date under section
 
 ## Annotations
 
-[^key-a97223b671027547c9c1850a63469800]: Textual amendment: [Regs. 43A](https://www.legislation.gov.uk/uksi/2012/2996/regulation/43A), [43B](https://www.legislation.gov.uk/uksi/2012/2996/regulation/43B) inserted (1.1.2024) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1105)](https://www.legislation.gov.uk/uksi/2023/1105), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/2/6)
+[^c-a97223b671027547c9c1850a63469800]: Textual amendment: [Regs. 43A](https://www.legislation.gov.uk/uksi/2012/2996/regulation/43A), [43B](https://www.legislation.gov.uk/uksi/2012/2996/regulation/43B) inserted (1.1.2024) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1105)](https://www.legislation.gov.uk/uksi/2023/1105), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/2/6)

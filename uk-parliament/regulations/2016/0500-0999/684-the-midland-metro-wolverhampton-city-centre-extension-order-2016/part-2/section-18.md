@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Level crossings[^key-2d3a96b4aaca75688ed4cbbad669d1b8]
+## 18. Level crossings[^c-2d3a96b4aaca75688ed4cbbad669d1b8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d3a96b4aaca75688ed4cbbad669d1b8]: Commencement: Art. 18 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-2d3a96b4aaca75688ed4cbbad669d1b8]: Commencement: Art. 18 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

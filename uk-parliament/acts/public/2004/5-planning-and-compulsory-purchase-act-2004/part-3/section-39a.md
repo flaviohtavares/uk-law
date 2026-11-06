@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39A. Power to require assistance with certain plan making[^key-58401a89e1a202354dd9b83f75cff788]
+## 39A. Power to require assistance with certain plan making[^c-58401a89e1a202354dd9b83f75cff788]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58401a89e1a202354dd9b83f75cff788]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/2004/5/section/39A) and cross-heading inserted (3.3.2026 for the purpose of making regulations, 25.3.2026 except for the words “or Part 2 of this Act” in s. 39A(5)(b)) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 100](https://www.legislation.gov.uk/ukpga/2023/55/section/100), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [regs. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2), [3(e)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/e) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-58401a89e1a202354dd9b83f75cff788]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/2004/5/section/39A) and cross-heading inserted (3.3.2026 for the purpose of making regulations, 25.3.2026 except for the words “or Part 2 of this Act” in s. 39A(5)(b)) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 100](https://www.legislation.gov.uk/ukpga/2023/55/section/100), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [regs. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2), [3(e)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/e) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

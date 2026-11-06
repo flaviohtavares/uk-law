@@ -37,11 +37,11 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 
 (Text with EEA relevance) (revoked)
 
-[^key-43f3a016c6a6fbb2247738e537d82965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43f3a016c6a6fbb2247738e537d82965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### CHAPTER I — SCOPE AND DEFINITIONS[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER I — SCOPE AND DEFINITIONS[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 3 — Amendment of certain definitions](section-article-3.md)
 - [Section Article 4 — Regulatory status of products](section-article-4.md)
 
-### CHAPTER II — MAKING AVAILABLE ON THE MARKET AND PUTTING INTO SERVICE OF DEVICES, OBLIGATIONS OF ECONOMIC OPERATORS, REPROCESSING, CE MARKING, FREE MOVEMENT[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER II — MAKING AVAILABLE ON THE MARKET AND PUTTING INTO SERVICE OF DEVICES, OBLIGATIONS OF ECONOMIC OPERATORS, REPROCESSING, CE MARKING, FREE MOVEMENT[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 23 — Parts and components](section-article-23.md)
 - [Section Article 24 — Free movement](section-article-24.md)
 
-### CHAPTER III — IDENTIFICATION AND TRACEABILITY OF DEVICES, REGISTRATION OF DEVICES AND OF ECONOMIC OPERATORS, SUMMARY OF SAFETY AND CLINICAL PERFORMANCE, EUROPEAN DATABASE ON MEDICAL DEVICES[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER III — IDENTIFICATION AND TRACEABILITY OF DEVICES, REGISTRATION OF DEVICES AND OF ECONOMIC OPERATORS, SUMMARY OF SAFETY AND CLINICAL PERFORMANCE, EUROPEAN DATABASE ON MEDICAL DEVICES[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 33 — European database on medical devices](section-article-33.md)
 - [Section Article 34 — Functionality of Eudamed](section-article-34.md)
 
-### CHAPTER IV — NOTIFIED BODIES[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER IV — NOTIFIED BODIES[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,13 +119,13 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 49 — Coordination of notified bodies](section-article-49.md)
 - [Section Article 50 — List of standard fees](section-article-50.md)
 
-### CHAPTER V — CLASSIFICATION AND CONFORMITY ASSESSMENT[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER V — CLASSIFICATION AND CONFORMITY ASSESSMENT[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Classification[^key-43f3a016c6a6fbb2247738e537d82965]
+#### SECTION 1 — Classification[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,7 +133,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 
 - [Section Article 51 — Classification of devices](section-article-51.md)
 
-#### SECTION 2 — Conformity assessment[^key-43f3a016c6a6fbb2247738e537d82965]
+#### SECTION 2 — Conformity assessment[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,7 +149,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 59 — Derogation from the conformity assessment procedures](section-article-59.md)
 - [Section Article 60 — Certificate of free sale](section-article-60.md)
 
-### CHAPTER VI — CLINICAL EVALUATION AND CLINICAL INVESTIGATIONS[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER VI — CLINICAL EVALUATION AND CLINICAL INVESTIGATIONS[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -178,13 +178,13 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 81 — Implementing acts](section-article-81.md)
 - [Section Article 82 — Requirements regarding other clinical investigations](section-article-82.md)
 
-### CHAPTER VII — POST-MARKET SURVEILLANCE, VIGILANCE AND MARKET SURVEILLANCE[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER VII — POST-MARKET SURVEILLANCE, VIGILANCE AND MARKET SURVEILLANCE[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Post-market surveillance[^key-43f3a016c6a6fbb2247738e537d82965]
+#### SECTION 1 — Post-market surveillance[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -195,7 +195,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 85 — Post-market surveillance report](section-article-85.md)
 - [Section Article 86 — Periodic safety update report](section-article-86.md)
 
-#### SECTION 2 — Vigilance[^key-43f3a016c6a6fbb2247738e537d82965]
+#### SECTION 2 — Vigilance[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -208,7 +208,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 91 — Implementing acts](section-article-91.md)
 - [Section Article 92 — Electronic system on vigilance and on post-market surveillance](section-article-92.md)
 
-#### SECTION 3 — Market surveillance[^key-43f3a016c6a6fbb2247738e537d82965]
+#### SECTION 3 — Market surveillance[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -223,7 +223,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 99 — Good administrative practice](section-article-99.md)
 - [Section Article 100 — Electronic system on market surveillance](section-article-100.md)
 
-### CHAPTER VIII — COOPERATION BETWEEN MEMBER STATES, MEDICAL DEVICE COORDINATION GROUP, EXPERT LABORATORIES, EXPERT PANELS AND DEVICE REGISTERS[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER VIII — COOPERATION BETWEEN MEMBER STATES, MEDICAL DEVICE COORDINATION GROUP, EXPERT LABORATORIES, EXPERT PANELS AND DEVICE REGISTERS[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -238,7 +238,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 107 — Conflict of interests](section-article-107.md)
 - [Section Article 108 — Device registers and databanks](section-article-108.md)
 
-### CHAPTER IX — CONFIDENTIALITY, DATA PROTECTION, FUNDING AND PENALTIES[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER IX — CONFIDENTIALITY, DATA PROTECTION, FUNDING AND PENALTIES[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -250,7 +250,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 - [Section Article 112 — Funding of activities related to designation and monitoring of notified bodies](section-article-112.md)
 - [Section Article 113 — Penalties](section-article-113.md)
 
-### CHAPTER X — FINAL PROVISIONS[^key-43f3a016c6a6fbb2247738e537d82965]
+### CHAPTER X — FINAL PROVISIONS[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
@@ -271,7 +271,7 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 
 **No longer in force.**
 
-[^key-43f3a016c6a6fbb2247738e537d82965]ANNEXES
+[^c-43f3a016c6a6fbb2247738e537d82965]ANNEXES
 
 - [ANNEX I](schedule-annex-i.md)
 - [ANNEX II](schedule-annex-ii.md)
@@ -295,8 +295,8 @@ on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/20
 
 **No longer in force.**
 
-[^key-43f3a016c6a6fbb2247738e537d82965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43f3a016c6a6fbb2247738e537d82965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43f3a016c6a6fbb2247738e537d82965]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4O](https://www.legislation.gov.uk/uksi/2002/618/regulation/4O) (with savings and transitional provisions for N.I. in [reg. 3ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/3ZA)) (as amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) and by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2); and as amended (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4), [32](https://www.legislation.gov.uk/uksi/2021/905/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-43f3a016c6a6fbb2247738e537d82965]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4O](https://www.legislation.gov.uk/uksi/2002/618/regulation/4O) (with savings and transitional provisions for N.I. in [reg. 3ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/3ZA)) (as amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) and by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2); and as amended (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4), [32](https://www.legislation.gov.uk/uksi/2021/905/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

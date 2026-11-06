@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^key-1a9a327c4355a2c0e30c865621f6e160]
+## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^c-1a9a327c4355a2c0e30c865621f6e160]
 
 *Extent: E+W+S*
 
 Article 36
 
-[^key-1a9a327c4355a2c0e30c865621f6e160]
+[^c-1a9a327c4355a2c0e30c865621f6e160]
 
 The Book of Reference listed below—
 
@@ -34,7 +34,7 @@ Table 11
 | 4.3 Option B v2 (addendum) | Addendum to the Book of Reference Option B Version 2 |
 | 4.3 Option B v 3 (addendum) | Addendum to the Book of Reference -<br>Option B Version 3 |
 
-[^key-1a9a327c4355a2c0e30c865621f6e160]
+[^c-1a9a327c4355a2c0e30c865621f6e160]
 
 The Land Plans listed below—
 
@@ -57,7 +57,7 @@ Table 12
 | 2.2.12 | Sheet 12 Option B v1 |
 | 2.2.13 | Sheet 13 Option B v1 |
 
-[^key-1a9a327c4355a2c0e30c865621f6e160]
+[^c-1a9a327c4355a2c0e30c865621f6e160]
 
 The Works Plans listed below—
 
@@ -80,7 +80,7 @@ Table 13
 | 2.3.12 | Sheet 12 Option B v0 |
 | 2.3.13 | Sheet 13 Option B v0 |
 
-[^key-1a9a327c4355a2c0e30c865621f6e160]
+[^c-1a9a327c4355a2c0e30c865621f6e160]
 
 The Access and Rights of Way Plans listed below—
 
@@ -103,7 +103,7 @@ Table 14
 | 2.4.12 | Sheet 12 Option B v0 |
 | 2.4.13 | Sheet 13 Option B v0 |
 
-[^key-1a9a327c4355a2c0e30c865621f6e160]
+[^c-1a9a327c4355a2c0e30c865621f6e160]
 
 The Crown Land Plans listed below—
 
@@ -116,7 +116,7 @@ Table 15
 | 2.5.2 | Sheet 2 Option B v0 |
 | 2.5.3 | Sheet 3 Option B v0 |
 
-[^key-1a9a327c4355a2c0e30c865621f6e160]
+[^c-1a9a327c4355a2c0e30c865621f6e160]
 
 The additional documents listed below—
 
@@ -132,4 +132,4 @@ Table 16
 
 ## Annotations
 
-[^key-1a9a327c4355a2c0e30c865621f6e160]: Commencement: Sch. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-1a9a327c4355a2c0e30c865621f6e160]: Commencement: Sch. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

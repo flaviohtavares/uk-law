@@ -26,23 +26,23 @@ Section 134.
 
 **1.** In section 24(2) of the Taxes Act 1988 (presumption as to sums being paid by way of premium unless the contrary is shown) for “is” there shall be substituted “ can be ”.
 
-**2.**[^key-904f4806811f55d48351684ba5e1cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-904f4806811f55d48351684ba5e1cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-61997986a7de0b9ddef2a05c07c598b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-61997986a7de0b9ddef2a05c07c598b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In section 74(1)(j) of the Taxes Act 1988 (Case I or II of Schedule D: no deduction in respect of debts), in sub-paragraph (i) (deduction allowed for a bad debt proved to be such) the words “proved to be such” shall cease to have effect.
 
-**5.**[^key-c05552eb3e4d0ac6deefcede95fbe36f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c05552eb3e4d0ac6deefcede95fbe36f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-bf0560676e546f784d44c9af4a52adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** In section 186(10) of the Taxes Act 1988 (value of the proceeds of certain disposals)—
 
@@ -53,7 +53,7 @@ Section 134.
   ; and
 - (b) in paragraph (c) for “that sub-paragraph” there shall be substituted “ that subsection ”.
 
-**12.**[^key-b5c484800438e8efaabef7aade061ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b5c484800438e8efaabef7aade061ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** In section 257 of the Taxes Act 1988 (personal allowance)—
 
@@ -66,7 +66,7 @@ the words “proves that he” shall cease to have effect.
 
 (2)[^c14617681] In subsection (1) (claimant entitled to reduction if he proves that he is a married man whose wife is living with him) for the words from the beginning to “he is” there shall be substituted “ If the claimant is, for the whole or any part of the year of assessment, ”.
 
-(3)[^key-f9acbcf95c8ee7d3713949874a164413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f9acbcf95c8ee7d3713949874a164413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.**[^c14617691] In section 257E(1) of the Taxes Act 1988 (claimant entitled to relief if his wife lives with him and he proves that for the year 1989-90 he was entitled as described in paragraph (a) or (b))—
 
@@ -109,23 +109,23 @@ the words “proves that he” shall cease to have effect.
 
 **21.** In section 278(2) of the Taxes Act 1988 (bar on relief for non-residents not to apply to an individual who satisfies the Board that he or she is a Commonwealth citizen etc) the words “satisfies the Board that he or she” shall cease to have effect.
 
-**22.**[^key-230defce35c169cc6313b2d8e5aa4514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-230defce35c169cc6313b2d8e5aa4514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-712e9cb616f30c535dbf59480078673c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-712e9cb616f30c535dbf59480078673c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** In section 381(4) of the Taxes Act 1988 (no relief unless it is shown that trade was on a commercial basis) the words “it is shown that” shall cease to have effect.
 
 **25.** (1) In section 384 of the Taxes Act 1988 (restrictions on right of set-off) in subsection (1) (no relief unless it is shown that trade was on a commercial basis and with a view to the realisation of profits) the words “it is shown that” shall cease to have effect.
 
-(2)[^key-868d69552ff10ec98bb0d0b73fb1ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-868d69552ff10ec98bb0d0b73fb1ee65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-03744622423edd5457d539881527f019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.**[^c14617771] In section 503(6) of the Taxes Act 1988 (apportionments where a letting relates only in part to holiday accommodation) for “appear to the inspector, or on appeal the Commissioners, to be” there shall be substituted “ are ”.
 
@@ -141,27 +141,27 @@ the words “proves that he” shall cease to have effect.
 **32.** In section 582(2)(b) of the Taxes Act 1988 (cases where retention of funding bonds is impracticable)—
 
 - (a) the words “the Board are satisfied that” shall cease to have effect; and
-- (b)[^key-9c2551bee60d5a490949ed206e1ff7f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9c2551bee60d5a490949ed206e1ff7f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-46145bad702844f691e22863f3e10dbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-46145bad702844f691e22863f3e10dbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-1a881112c1b2f68814e504def938e4a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-1a881112c1b2f68814e504def938e4a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-cd76363bd8579b731b64e7c458b6cedf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-cd76363bd8579b731b64e7c458b6cedf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-e21274d324824c0bec6492ed668fdebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-e21274d324824c0bec6492ed668fdebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-a86243944b2d1f7023710b1ee2a50fa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-a86243944b2d1f7023710b1ee2a50fa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-297603bc494720084e5581a2daaf16e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-297603bc494720084e5581a2daaf16e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-b2ae43fe13a3a15fbc19fd16cdb59564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-b2ae43fe13a3a15fbc19fd16cdb59564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **40.**[^c14617781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-785df58eae830787adc389421eef6028] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-785df58eae830787adc389421eef6028] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-4b09d842df80157257bab48d4f102c98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-4b09d842df80157257bab48d4f102c98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **43.** In Schedule 21 to the Taxes Act 1988 (tax relief in connection with schemes for rationalizing industry and other redundancy schemes), paragraph 3 (no relief in respect of payments under schemes unless certain amounts are shown) shall cease to have effect.
 
@@ -178,8 +178,8 @@ the words “proves that he” shall cease to have effect.
 **47.** In each of—
 
 - (a) subsections (5) and (6) of section 30 of the Gains Act (consideration to be increased or reduced by such amount as appears to the inspector etc to be just and reasonable),
-- (b)[^key-ac7f5ebbf0e5ca964437d1c818aaa174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ac7f5ebbf0e5ca964437d1c818aaa174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ac7f5ebbf0e5ca964437d1c818aaa174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ac7f5ebbf0e5ca964437d1c818aaa174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 for “appears to the inspector, or on appeal the Commissioners concerned, to be” there shall be substituted “ is ”.
 
@@ -236,7 +236,7 @@ shall cease to have effect.
 
 **61.** In section 226 of the Gains Act (relief in respect of private residence occupied by dependent relative before 6th April 1988) subsection (5) (power of inspector, before granting a claim for relief under that section, to require claimant to show that granting the claim will not preclude relief to claimant’s wife or husband) shall cease to have effect.
 
-**62.**[^key-f78727d098772a92a0b0445c34a37e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-f78727d098772a92a0b0445c34a37e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **63.** (1) In section 271 of the Gains Act (miscellaneous exemptions) in subsections (1)(g) and (2), for “such extent as the Board are satisfied” there shall be substituted “ the extent ”.
 
@@ -288,19 +288,19 @@ shall cease to have effect.
 
 ## Annotations
 
-[^key-904f4806811f55d48351684ba5e1cf8a]: Textual amendment: Sch. 20 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-904f4806811f55d48351684ba5e1cf8a]: Textual amendment: Sch. 20 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-61997986a7de0b9ddef2a05c07c598b5]: Textual amendment: Sch. 20 para. 3 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-61997986a7de0b9ddef2a05c07c598b5]: Textual amendment: Sch. 20 para. 3 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-c05552eb3e4d0ac6deefcede95fbe36f]: Textual amendment: Sch. 20 para. 5 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-c05552eb3e4d0ac6deefcede95fbe36f]: Textual amendment: Sch. 20 para. 5 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-bf0560676e546f784d44c9af4a52adc7]: Textual amendment: Sch. 20 paras. 6-10 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-bf0560676e546f784d44c9af4a52adc7]: Textual amendment: Sch. 20 paras. 6-10 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-b5c484800438e8efaabef7aade061ace]: Textual amendment: Sch. 20 para. 12 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-b5c484800438e8efaabef7aade061ace]: Textual amendment: Sch. 20 para. 12 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c14617681]: Textual amendment: Sch. 20 para. 14(2) repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. III(3), Note 2 of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/3)
 
-[^key-f9acbcf95c8ee7d3713949874a164413]: Textual amendment: Sch. 20 para. 14(3) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(g)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/g)
+[^c-f9acbcf95c8ee7d3713949874a164413]: Textual amendment: Sch. 20 para. 14(3) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(g)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/g)
 
 [^c14617691]: Textual amendment: Sch. 20 para. 15 repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. III(3), Note 2 of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/3)
 
@@ -310,45 +310,45 @@ shall cease to have effect.
 
 [^c14617721]: Textual amendment: Sch. 20 para. 18 repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. III(4), Note of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(4)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/4)
 
-[^key-230defce35c169cc6313b2d8e5aa4514]: Textual amendment: Sch. 20 para. 22 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-230defce35c169cc6313b2d8e5aa4514]: Textual amendment: Sch. 20 para. 22 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-712e9cb616f30c535dbf59480078673c]: Textual amendment: Sch. 20 para. 23 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-712e9cb616f30c535dbf59480078673c]: Textual amendment: Sch. 20 para. 23 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-868d69552ff10ec98bb0d0b73fb1ee65]: Textual amendment: Sch. 20 para. 25(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-868d69552ff10ec98bb0d0b73fb1ee65]: Textual amendment: Sch. 20 para. 25(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-03744622423edd5457d539881527f019]: Textual amendment: Sch. 20 paras. 26-29 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-03744622423edd5457d539881527f019]: Textual amendment: Sch. 20 paras. 26-29 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14617771]: Textual amendment: Sch. 20 para. 30 repealed (31.7.1998 with effect as mentioned in [s. 38(2)(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/38/2/3) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(4)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/4), Note
 
-[^key-9c2551bee60d5a490949ed206e1ff7f6]: Textual amendment: Sch. 20 para. 32(b) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-9c2551bee60d5a490949ed206e1ff7f6]: Textual amendment: Sch. 20 para. 32(b) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-46145bad702844f691e22863f3e10dbf]: Textual amendment: Sch. 20 para. 33 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-46145bad702844f691e22863f3e10dbf]: Textual amendment: Sch. 20 para. 33 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-1a881112c1b2f68814e504def938e4a1]: Textual amendment: Sch. 20 para. 34 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-1a881112c1b2f68814e504def938e4a1]: Textual amendment: Sch. 20 para. 34 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-cd76363bd8579b731b64e7c458b6cedf]: Textual amendment: Sch. 20 para. 35 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-cd76363bd8579b731b64e7c458b6cedf]: Textual amendment: Sch. 20 para. 35 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-e21274d324824c0bec6492ed668fdebe]: Textual amendment: Sch. 20 para. 36 omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(g)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/g/i)
+[^c-e21274d324824c0bec6492ed668fdebe]: Textual amendment: Sch. 20 para. 36 omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(g)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/g/i)
 
-[^key-a86243944b2d1f7023710b1ee2a50fa4]: Textual amendment: Sch. 20 para. 37 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a86243944b2d1f7023710b1ee2a50fa4]: Textual amendment: Sch. 20 para. 37 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-297603bc494720084e5581a2daaf16e1]: Textual amendment: [Sch. 20 para. 38](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/38) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-297603bc494720084e5581a2daaf16e1]: Textual amendment: [Sch. 20 para. 38](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/38) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-b2ae43fe13a3a15fbc19fd16cdb59564]: Textual amendment: Sch. 20 para. 39 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-b2ae43fe13a3a15fbc19fd16cdb59564]: Textual amendment: Sch. 20 para. 39 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c14617781]: Textual amendment: Sch. 20 para. 40 repealed (28.7.2000 with effect as mentioned in [s. 59](https://www.legislation.gov.uk/ukpga/2000/17/section/59) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. II(3)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/3) Note
 
-[^key-785df58eae830787adc389421eef6028]: Textual amendment: Sch. 20 para. 41 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-785df58eae830787adc389421eef6028]: Textual amendment: Sch. 20 para. 41 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-4b09d842df80157257bab48d4f102c98]: Textual amendment: Sch. 20 para. 42 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-4b09d842df80157257bab48d4f102c98]: Textual amendment: Sch. 20 para. 42 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c14617801]: Textual amendment: Sch. 20 para. 44 repealed (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 
 [^c14617811]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-ac7f5ebbf0e5ca964437d1c818aaa174]: Textual amendment: [Sch. 20 para. 47(b)(c)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/47/b/c) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/a)
+[^c-ac7f5ebbf0e5ca964437d1c818aaa174]: Textual amendment: [Sch. 20 para. 47(b)(c)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/47/b/c) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/a)
 
-[^key-f78727d098772a92a0b0445c34a37e64]: Textual amendment: Sch. 20 para. 62 repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/a), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-f78727d098772a92a0b0445c34a37e64]: Textual amendment: Sch. 20 para. 62 repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/a), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
 [^c14617821]: Textual amendment: Sch. 20 para. 66 repealed (31.7.1998 with effect as mentioned in Sch. 27 Pt. III(31), Note of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)
 

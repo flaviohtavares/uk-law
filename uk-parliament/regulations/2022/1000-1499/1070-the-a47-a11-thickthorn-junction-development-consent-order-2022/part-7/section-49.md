@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Certification of documents, etc.[^key-1ef2734d3d029dd994dc7ce41c4d496c]
+## 49. Certification of documents, etc.[^c-1ef2734d3d029dd994dc7ce41c4d496c]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ef2734d3d029dd994dc7ce41c4d496c]: Commencement: Art. 49 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-1ef2734d3d029dd994dc7ce41c4d496c]: Commencement: Art. 49 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

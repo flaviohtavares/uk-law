@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Inquests, investigations and inquiries[^key-be115cbc8f24695b0567ed1108bca369]
+## 44. Inquests, investigations and inquiries[^c-be115cbc8f24695b0567ed1108bca369]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be115cbc8f24695b0567ed1108bca369]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/41/section/44) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-be115cbc8f24695b0567ed1108bca369]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/41/section/44) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

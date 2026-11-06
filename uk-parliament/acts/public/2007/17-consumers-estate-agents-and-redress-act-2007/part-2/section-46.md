@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Supply of information to consumers[^key-ec8901defb45cd4a5a1968f371f18d77]
+## 46. Supply of information to consumers[^c-ec8901defb45cd4a5a1968f371f18d77]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec8901defb45cd4a5a1968f371f18d77]: Commencement: S. 46 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-ec8901defb45cd4a5a1968f371f18d77]: Commencement: S. 46 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)

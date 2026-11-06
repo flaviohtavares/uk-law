@@ -29,15 +29,15 @@ Petroleum (Transfer of Licences) Act 1936 (repealed)
 
 1936 c.27
 
-[^key-943b5b8d8c841184092a980649b3cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-943b5b8d8c841184092a980649b3cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Transfer of petroleum-spirit licences.[^key-943b5b8d8c841184092a980649b3cac6]
+## 1. Transfer of petroleum-spirit licences.[^c-943b5b8d8c841184092a980649b3cac6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, citation and construction.[^key-943b5b8d8c841184092a980649b3cac6]
+## 2. Short title, citation and construction.[^c-943b5b8d8c841184092a980649b3cac6]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Petroleum (Transfer of Licences) Act 1936 (repealed)
 
 ## Annotations
 
-[^key-943b5b8d8c841184092a980649b3cac6]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/27) repealed (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-943b5b8d8c841184092a980649b3cac6]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/27) repealed (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))

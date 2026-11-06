@@ -37,7 +37,7 @@ Made
 
 The Secretary of State and the Welsh Ministers make the following Order in exercise of the powers conferred by sections 91(1) and 94(3) of the Water Act 2014[^f00001].
 
-## 1. Citation and interpretation[^key-b409b6fb4329032c1a143b155bdd6e30]
+## 1. Citation and interpretation[^c-b409b6fb4329032c1a143b155bdd6e30]
 
 (1) This Order may be cited as the Water Act 2014 (Commencement No. 5 and Transitional Provisions) Order 2015.
 
@@ -46,7 +46,7 @@ The Secretary of State and the Welsh Ministers make the following Order in exerc
 - “the 1991 Act” means the Water Industry Act 1991[^f00002];
 - “the 2014 Act” means the Water Act 2014.
 
-## 2. Provisions of the 2014 Act coming into force on 18th December 2015[^key-933972f87fa61a9c4412e7c485690fae]
+## 2. Provisions of the 2014 Act coming into force on 18th December 2015[^c-933972f87fa61a9c4412e7c485690fae]
 
 The following provisions of the 2014 Act come into force on 18th December 2015—
 
@@ -68,7 +68,7 @@ The following provisions of the 2014 Act come into force on 18th December 2015�
   - (iii) paragraph 147; and
   - (iv) paragraph 143 so far as it relates to sub-paragraph (iii).
 
-## 3. Provisions of the 2014 Act coming into force on 1st January 2016[^key-1ebc2fcbf6f32e6e3688b7c7c0667075]
+## 3. Provisions of the 2014 Act coming into force on 1st January 2016[^c-1ebc2fcbf6f32e6e3688b7c7c0667075]
 
 The following provisions of the 2014 Act come into force on 1st January 2016—
 
@@ -91,11 +91,11 @@ The following provisions of the 2014 Act come into force on 1st January 2016—
   - (vii) paragraphs 16 to 18; and
   - (viii) paragraph 2 so far as it relates to sub-paragraphs (i) to (vii).
 
-## 4. Transitional provisions[^key-74bd1def46471988df90343586be04e0]
+## 4. Transitional provisions[^c-74bd1def46471988df90343586be04e0]
 
 (1) Despite the commencement of section 1 of the 2014 Act in relation to section 17A(5) of the 1991 Act, the general authorisation given by the Secretary of State to the Authority under section 17A(1) of the 1991 Act continues to have effect in relation to an old water supply licence, until the old water supply licence has been withdrawn or replaced with a new water supply licence.
 
-(2)[^key-3375e3587ae4591f8fa864bdbca7ff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3375e3587ae4591f8fa864bdbca7ff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Guidance issued by the Authority under section 17D(3) of the 1991 Act[^f00007] on estimates of the quantity of water to be supplied to any premises applies to a new water supply licensee so far as its licence relates to the use of the supply system of a wholly or mainly Welsh undertaker as it currently applies to an old water supply licensee.
 
@@ -195,11 +195,11 @@ The following provisions of the 2014 Act have been or will be brought into force
 
 [^f00001]: Footnote: [2014 c.21](https://www.legislation.gov.uk/ukpga/2014/21). The power in section 94(3) to appoint a day on which the remaining provisions of the 2014 Act come into force is vested in the “appropriate authority”. Section 94(6) provides that the appropriate authority is the Secretary of State except as stated in the table in Schedule 12.
 
-[^key-b409b6fb4329032c1a143b155bdd6e30]: Commencement: Art. 1 coming into force at made date
+[^c-b409b6fb4329032c1a143b155bdd6e30]: Commencement: Art. 1 coming into force at made date
 
 [^f00002]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-933972f87fa61a9c4412e7c485690fae]: Commencement: Art. 2 coming into force at made date
+[^c-933972f87fa61a9c4412e7c485690fae]: Commencement: Art. 2 coming into force at made date
 
 [^f00003]: Footnote: The Secretary of State is the appropriate authority for the purposes of section 10 in relation to wholly or mainly English undertakers and the Welsh Ministers are the appropriate authority in relation to wholly or mainly Welsh undertakers.
 
@@ -207,13 +207,13 @@ The following provisions of the 2014 Act have been or will be brought into force
 
 [^f00005]: Footnote: The Welsh Ministers are the appropriate authority for the purposes of section 22 in relation to wholly or mainly Welsh undertakers, (see section 94(2)(e) as regards commencement in relation to wholly or mainly English undertakers).
 
-[^key-1ebc2fcbf6f32e6e3688b7c7c0667075]: Commencement: Art. 3 coming into force at made date
+[^c-1ebc2fcbf6f32e6e3688b7c7c0667075]: Commencement: Art. 3 coming into force at made date
 
 [^f00006]: Footnote: Section 17A of the 1991 Act was inserted by paragraph 2 of Schedule 4 to the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-74bd1def46471988df90343586be04e0]: Commencement: Art. 4 coming into force at made date
+[^c-74bd1def46471988df90343586be04e0]: Commencement: Art. 4 coming into force at made date
 
-[^key-3375e3587ae4591f8fa864bdbca7ff4c]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2015/1938/article/4/2) revoked (1.4.2016) by [The Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016 (S.I. 2016/465)](https://www.legislation.gov.uk/uksi/2016/465), [Sch. 2 para. 6(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/2/paragraph/6/d)
+[^c-3375e3587ae4591f8fa864bdbca7ff4c]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2015/1938/article/4/2) revoked (1.4.2016) by [The Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016 (S.I. 2016/465)](https://www.legislation.gov.uk/uksi/2016/465), [Sch. 2 para. 6(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/2/paragraph/6/d)
 
 [^f00007]: Footnote: Section 17D of the 1991 Act was inserted by paragraph 2 of Schedule 4 to the Water Act 2003.
 

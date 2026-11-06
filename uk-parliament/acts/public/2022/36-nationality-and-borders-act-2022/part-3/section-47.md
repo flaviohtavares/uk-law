@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Prisoners liable to removal from the United Kingdom[^key-42cccbefc27c55cfd80e71d6766e8fe9][^key-88429cc9cc491ebc34ff4aac0cd47c06]
+## 47. Prisoners liable to removal from the United Kingdom[^c-42cccbefc27c55cfd80e71d6766e8fe9][^c-88429cc9cc491ebc34ff4aac0cd47c06]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42cccbefc27c55cfd80e71d6766e8fe9]: Commencement: S. 47 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-42cccbefc27c55cfd80e71d6766e8fe9]: Commencement: S. 47 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-88429cc9cc491ebc34ff4aac0cd47c06]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/36/section/47) in force at 28.6.2022 for E.W. by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))
+[^c-88429cc9cc491ebc34ff4aac0cd47c06]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/36/section/47) in force at 28.6.2022 for E.W. by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))

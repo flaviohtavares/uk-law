@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Bail appeals[^key-2a4a377c3f58606b2856724ec5dd3ced]
+## 122. Bail appeals[^c-2a4a377c3f58606b2856724ec5dd3ced]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a4a377c3f58606b2856724ec5dd3ced]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2014/18/section/122) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/247/article/7))
+[^c-2a4a377c3f58606b2856724ec5dd3ced]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2014/18/section/122) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/247/article/7))

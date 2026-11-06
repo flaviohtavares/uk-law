@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Registered pension scheme return[^key-42ab9b62a4fc2c1f3909d640f9ca06bc]
+## 250. Registered pension scheme return[^c-42ab9b62a4fc2c1f3909d640f9ca06bc]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5bc3353052992e9f34113a5638f0d7a4] The Inland Revenue may, in relation to any tax year, by notice require the scheme administrator of a registered pension scheme—
+(1)[^c-5bc3353052992e9f34113a5638f0d7a4] The Inland Revenue may, in relation to any tax year, by notice require the scheme administrator of a registered pension scheme—
 
 - (a) to make and deliver to the Inland Revenue a return containing any information reasonably required by the notice, and
 - (b) to deliver with the return any accounts, statements or other documents relating to information contained in the return which may reasonably be required by the notice.
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42ab9b62a4fc2c1f3909d640f9ca06bc]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-42ab9b62a4fc2c1f3909d640f9ca06bc]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-5bc3353052992e9f34113a5638f0d7a4]: Modification: S. 250(1) modified (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/569/schedule/3/part/1)
+[^c-5bc3353052992e9f34113a5638f0d7a4]: Modification: S. 250(1) modified (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/569/schedule/3/part/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**48A.**[^M_I_c841441a-bd08-4b5f-b155-2f371c151474][^key-9371503b53595afa29ee1eabb0af6728] After section 95 insert—
+**48A.**[^M_I_c841441a-bd08-4b5f-b155-2f371c151474][^c-9371503b53595afa29ee1eabb0af6728] After section 95 insert—
 
 > **Transferred EU merger commitments**
 >
@@ -96,4 +96,4 @@ summary: ''
 
 [^M_I_c841441a-bd08-4b5f-b155-2f371c151474]: Commencement: Reg. 48A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9371503b53595afa29ee1eabb0af6728]: Textual amendment: Reg. 48A inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/1343/regulation/8)
+[^c-9371503b53595afa29ee1eabb0af6728]: Textual amendment: Reg. 48A inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/1343/regulation/8)

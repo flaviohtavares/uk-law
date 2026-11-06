@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73B. Determinations[^key-e369a44735d7fcfb1e037c4c2fba7a56][^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]
+## 73B. Determinations[^c-e369a44735d7fcfb1e037c4c2fba7a56][^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e369a44735d7fcfb1e037c4c2fba7a56]: Textual amendment: [Reg. 73B](https://www.legislation.gov.uk/nisr/2006/405/regulation/73B) substituted (7.11.2016) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2016/375/regulation/2/2)
+[^c-e369a44735d7fcfb1e037c4c2fba7a56]: Textual amendment: [Reg. 73B](https://www.legislation.gov.uk/nisr/2006/405/regulation/73B) substituted (7.11.2016) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2016/375/regulation/2/2)
 
-[^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)
+[^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)

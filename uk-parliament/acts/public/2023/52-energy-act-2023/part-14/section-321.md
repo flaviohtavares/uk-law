@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 321. Secretary of State directions and guidance[^key-7b3af8b8b189083b00ef72687481c366]
+## 321. Secretary of State directions and guidance[^c-7b3af8b8b189083b00ef72687481c366]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b3af8b8b189083b00ef72687481c366]: Commencement: S. 321 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-7b3af8b8b189083b00ef72687481c366]: Commencement: S. 321 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

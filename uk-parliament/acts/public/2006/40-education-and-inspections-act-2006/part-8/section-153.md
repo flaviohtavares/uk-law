@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Use of information[^key-42d4079368b105aecef31c3dd191c694]
+## 153. Use of information[^c-42d4079368b105aecef31c3dd191c694]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Information obtained by the Chief Inspector in connection with any of his functi
 
 ## Annotations
 
-[^key-42d4079368b105aecef31c3dd191c694]: Commencement: S. 153 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-42d4079368b105aecef31c3dd191c694]: Commencement: S. 153 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

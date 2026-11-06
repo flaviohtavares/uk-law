@@ -24,11 +24,11 @@ Section 116
 
 ### Penalties for failure to furnish particulars etc
 
-**1.**[^key-117e330c0b68249eced630795861f4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-117e330c0b68249eced630795861f4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Charge on settlor with interest in settlement etc: supplementary provisions
 
-**2.**[^key-e8fbea87c5fd8a38000e87bf65eb0702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e8fbea87c5fd8a38000e87bf65eb0702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Relief for gifts of business assets
 
@@ -42,7 +42,7 @@ Section 116
 
 .
 
-(4)[^key-f68aa89e37911d37f70169ada96bae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f68aa89e37911d37f70169ada96bae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (10) (deduction to be allowed in computing chargeable gain on subsequent disposal by transferee, where disposal by transferor is chargeable transfer for inheritance tax purposes) for “after 13th March 1989, in respect of which a claim is made under this section,” substitute “ in relation to which subsection (4) above applies ”.
 
@@ -305,7 +305,7 @@ Section 116
 
 ### Application of taper relief
 
-**8.**[^key-663db0b90a0ca00f1eb9a37a00a83c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-663db0b90a0ca00f1eb9a37a00a83c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Relief for gifts of business assets
 
@@ -324,11 +324,11 @@ Section 116
 
 (3) The amendments in paragraphs 2(3) and 6(2) of this Schedule have effect in relation to any notice given in respect of the year 2004-05 or any subsequent year of assessment.
 
-(4) The amendments in paragraphs 3(2), 4, 5(2), 6(3), 7(2)[^key-921021dec9dd572ad6cb676614a06f98]... and 9(2) of this Schedule have effect in relation to disposals on or after 10th December 2003 (whenever any earlier disposal as mentioned in section 169B(3)(b) or 169C(3)(b) was made).
+(4) The amendments in paragraphs 3(2), 4, 5(2), 6(3), 7(2)[^c-921021dec9dd572ad6cb676614a06f98]... and 9(2) of this Schedule have effect in relation to disposals on or after 10th December 2003 (whenever any earlier disposal as mentioned in section 169B(3)(b) or 169C(3)(b) was made).
 
 (5) The amendment in paragraph 3(3) of this Schedule has effect in relation to disposals on or after 21st October 2003.
 
-(6)[^key-52bc12fa4b465e1a7e7278a5f63617f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-52bc12fa4b465e1a7e7278a5f63617f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The amendment in paragraph 3(5) of this Schedule has effect in relation to disposals on or after 10th December 2003.
 
@@ -338,14 +338,14 @@ Section 116
 
 ## Annotations
 
-[^key-117e330c0b68249eced630795861f4e3]: Textual amendment: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/1) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(j)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/j)
+[^c-117e330c0b68249eced630795861f4e3]: Textual amendment: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/1) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(j)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/j)
 
-[^key-e8fbea87c5fd8a38000e87bf65eb0702]: Textual amendment: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/2) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/g)
+[^c-e8fbea87c5fd8a38000e87bf65eb0702]: Textual amendment: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/2) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/g)
 
-[^key-f68aa89e37911d37f70169ada96bae06]: Textual amendment: [Sch. 21 para. 3(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/3/4) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/i)
+[^c-f68aa89e37911d37f70169ada96bae06]: Textual amendment: [Sch. 21 para. 3(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/3/4) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/i)
 
-[^key-663db0b90a0ca00f1eb9a37a00a83c2f]: Textual amendment: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/8) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/i)
+[^c-663db0b90a0ca00f1eb9a37a00a83c2f]: Textual amendment: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/8) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/i)
 
-[^key-921021dec9dd572ad6cb676614a06f98]: Textual amendment: Word in [Sch. 21 para. 10(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/10/4) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/ii)
+[^c-921021dec9dd572ad6cb676614a06f98]: Textual amendment: Word in [Sch. 21 para. 10(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/10/4) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/ii)
 
-[^key-52bc12fa4b465e1a7e7278a5f63617f5]: Textual amendment: [Sch. 21 para. 10(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/10/6) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/ii)
+[^c-52bc12fa4b465e1a7e7278a5f63617f5]: Textual amendment: [Sch. 21 para. 10(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/10/6) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(g)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/g/ii)

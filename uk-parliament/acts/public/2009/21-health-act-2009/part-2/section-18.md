@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Trust special administrators: consequential amendments[^key-cc6252b6d536ac3125b310817157e627]
+## 18. Trust special administrators: consequential amendments[^c-cc6252b6d536ac3125b310817157e627]
 
 *Extent: E+W*
 
 (1) The National Health Service Act 2006 (c. 41) is amended as follows.
 
-(2)[^key-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8dc0296262da7813804bebdf8c07bb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 242 (public involvement and consultation), at the end insert—
 
@@ -53,14 +53,14 @@ summary: ''
 
 (10) In paragraph 28(3) of Schedule 4 (NHS trusts established under section 25), after “as a matter of urgency” insert “ or where the order is made following the publication of a final report under section 65I(3) ”.
 
-(11)[^key-f16ac65942e7fa97af5ff3ab2221e710] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-f16ac65942e7fa97af5ff3ab2221e710] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In section 206(1) of the National Health Service (Wales) Act 2006 (c. 42) (interpretation), in the definition of “NHS trust”, at the end insert “ (including a body that becomes a National Health Service trust by virtue of an order made under section 52D(1) or 65E(1) of that Act) ”.
 
 ## Annotations
 
-[^key-cc6252b6d536ac3125b310817157e627]: Commencement: S. 18 in force at 15.2.2010 for specified purposes by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/30/article/3/b)
+[^c-cc6252b6d536ac3125b310817157e627]: Commencement: S. 18 in force at 15.2.2010 for specified purposes by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/30/article/3/b)
 
-[^key-8dc0296262da7813804bebdf8c07bb92]: Textual amendment: S. 18(2)-(6) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 173(2)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/173/2/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-8dc0296262da7813804bebdf8c07bb92]: Textual amendment: S. 18(2)-(6) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 173(2)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/173/2/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
 
-[^key-f16ac65942e7fa97af5ff3ab2221e710]: Textual amendment: [S. 18(11)](https://www.legislation.gov.uk/ukpga/2009/21/section/18/11) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 173(2)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/173/2/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-f16ac65942e7fa97af5ff3ab2221e710]: Textual amendment: [S. 18(11)](https://www.legislation.gov.uk/ukpga/2009/21/section/18/11) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 173(2)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/173/2/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Procedure for orders under section 101[^key-34ebd17b18e528277e98a4ce67440c37]
+## 102. Procedure for orders under section 101[^c-34ebd17b18e528277e98a4ce67440c37]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ as appear to the Secretary of State likely to be affected by the proposals.
 
 ## Annotations
 
-[^key-34ebd17b18e528277e98a4ce67440c37]: Commencement: S. 102 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-34ebd17b18e528277e98a4ce67440c37]: Commencement: S. 102 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

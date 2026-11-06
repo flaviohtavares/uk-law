@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Dangerous flying.[^key-cf9d83983e310733fdf003869627e538]
+## 81. Dangerous flying.[^c-cf9d83983e310733fdf003869627e538]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf9d83983e310733fdf003869627e538]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/1982/16/section/81) repealed (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/106/1), [110(3)(e)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/e) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-cf9d83983e310733fdf003869627e538]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/1982/16/section/81) repealed (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/106/1), [110(3)(e)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/e) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))

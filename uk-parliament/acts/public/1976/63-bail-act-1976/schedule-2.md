@@ -113,7 +113,7 @@ Section 12.
 
 *Extent: E+W*
 
-**33.**[^key-977444d4f673dccc552c23ac370ed8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-977444d4f673dccc552c23ac370ed8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Justice Act 1967[^c8004721]
 
@@ -207,7 +207,7 @@ and subsection (6) shall be omitted.
 
 [^c8004711]: Marginal citation: [1965 c. 45](https://www.legislation.gov.uk/ukpga/1965/45).
 
-[^key-977444d4f673dccc552c23ac370ed8df]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/1976/63/schedule/2/paragraph/33) repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+[^c-977444d4f673dccc552c23ac370ed8df]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/1976/63/schedule/2/paragraph/33) repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
 
 [^c8004721]: Marginal citation: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
 

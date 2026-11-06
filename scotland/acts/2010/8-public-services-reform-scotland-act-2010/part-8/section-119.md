@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Complaints handling procedures[^key-c91a0d1ed021986d8491ee227f67ea96]
+## 119. Complaints handling procedures[^c-c91a0d1ed021986d8491ee227f67ea96]
 
 *Extent: S*
 
@@ -144,4 +144,4 @@ In the Scottish Public Services Ombudsman Act 2002 (asp 11), after section 16 in
 
 ## Annotations
 
-[^key-c91a0d1ed021986d8491ee227f67ea96]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2010/8/section/119) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-c91a0d1ed021986d8491ee227f67ea96]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2010/8/section/119) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

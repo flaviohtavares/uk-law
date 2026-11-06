@@ -22,7 +22,7 @@ summary: ''
 
 (1) No person may sell water which is bottled or labelled as “spring water”, “dŵr ffynnon”, or its equivalent in any other language, if it—
 
-- (a)[^key-2d85fb16774d06ae08e7988eb941ccf6] is bottled—
+- (a)[^c-2d85fb16774d06ae08e7988eb941ccf6] is bottled—
   - (i) in Wales, in contravention of regulation 14(1); or
   - (ii) otherwise than in Wales, in contravention of the requirements as described in regulation 14(1);
 - (b) has been subjected—
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d85fb16774d06ae08e7988eb941ccf6]: Textual amendment: Reg. 18(1)(a)-(c) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2017/935/regulation/7)
+[^c-2d85fb16774d06ae08e7988eb941ccf6]: Textual amendment: Reg. 18(1)(a)-(c) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2017/935/regulation/7)

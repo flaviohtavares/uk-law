@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Repayment of any excess interim amendments payments[^key-202a81372ace93075775132de039016d]
+## 70. Repayment of any excess interim amendments payments[^c-202a81372ace93075775132de039016d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-202a81372ace93075775132de039016d]: Commencement: Reg. 70 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-202a81372ace93075775132de039016d]: Commencement: Reg. 70 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

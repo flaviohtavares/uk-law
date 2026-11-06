@@ -64,13 +64,13 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 - “**the Act**” means the Food Safety Act 1990;
 - “**authorised officer**” means a person authorised by an enforcement authority (within the meaning of the Act) for the purposes of these Regulations;
-- [^key-d31ee0dacf40422c9edc2f3af63fbfb1]...
-- [^key-e3e1df09d1521c2bbf2c2f7ea01eb4de]...
+- [^c-d31ee0dacf40422c9edc2f3af63fbfb1]...
+- [^c-e3e1df09d1521c2bbf2c2f7ea01eb4de]...
 - “**Commission Regulation**” means Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry;
 - “**food authority**” means a council constituted under section 2 of the Local Government (Scotland) Act 1994 [^c23252841];
 - “**food business operator**” has the meaning given in point 3 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
-- [^key-4e14892204aacde9ecb5386533bb8b9a]...
-- [^key-a8455c8ab4fc14a0e5fe10929f849d5e]...
+- [^c-4e14892204aacde9ecb5386533bb8b9a]...
+- [^c-a8455c8ab4fc14a0e5fe10929f849d5e]...
 
 (2) Except as otherwise provided, any reference in these Regulations to an Article is a reference to an Article of the Commission Regulation.
 
@@ -114,12 +114,12 @@ These Regulations are enforced by—
 
 (2) The provisions of the Act specified in the first column of the table in Part 2 of the Schedule apply with the modifications specified in the second column of that table for the purposes of these Regulations.
 
-## 8. Transitional provision: withdrawal from the EU[^key-c104c3ff9ad7abba9132e41778782772]
+## 8. Transitional provision: withdrawal from the EU[^c-c104c3ff9ad7abba9132e41778782772]
 
 (1) A person is not considered to have failed to comply with the second sub-paragraph of Article 5(1), Article 6 or Article 7 of the Commission Regulation if—
 
-- (a) the alleged failure relates to a product that was placed on the market before the last day of the period beginning on 27 May 2021 and ending on 31 December 2023[^key-122c2e83a3c06d8c13a9c857b7235b76], and
-- (b) the matter constituting the alleged failure to comply would not have constituted a failure to comply with the Commission Regulation as that Regulation had effect immediately before 30 September 2022[^key-7f98f5e1adad26e92500b25730a57b33].
+- (a) the alleged failure relates to a product that was placed on the market before the last day of the period beginning on 27 May 2021 and ending on 31 December 2023[^c-122c2e83a3c06d8c13a9c857b7235b76], and
+- (b) the matter constituting the alleged failure to comply would not have constituted a failure to comply with the Commission Regulation as that Regulation had effect immediately before 30 September 2022[^c-7f98f5e1adad26e92500b25730a57b33].
 
 (2) Products to which paragraph (1) applies may continue to be marketed until stocks are exhausted.
 
@@ -195,25 +195,25 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^c23252831]: Marginal citation: OJ L 31, 1.2.2002, p.1, last amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ L 188, 18.7.2009, p.14).
 
-[^key-d31ee0dacf40422c9edc2f3af63fbfb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/a)
+[^c-d31ee0dacf40422c9edc2f3af63fbfb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/a)
 
-[^key-e3e1df09d1521c2bbf2c2f7ea01eb4de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/b)
+[^c-e3e1df09d1521c2bbf2c2f7ea01eb4de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/b)
 
 [^c23252841]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [paragraph 232(1)](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/232/1).
 
-[^key-4e14892204aacde9ecb5386533bb8b9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(c)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/c)
+[^c-4e14892204aacde9ecb5386533bb8b9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(c)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/c)
 
-[^key-a8455c8ab4fc14a0e5fe10929f849d5e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(d)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/d)
+[^c-a8455c8ab4fc14a0e5fe10929f849d5e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(d)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/d)
 
 [^c23252861]: Marginal citation: OJ L 139, 30.4.2004, p 55, last amended by Commission Regulation (EU) No 1137/2014 (OJ L 307, 28.10.2014, p.28).
 
 [^c23252871]: Marginal citation: [Section 32(5)](https://www.legislation.gov.uk/ssi/2016/84/section/32/5) and (6) were amended by the [Criminal Justice and Police Act 2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), [Schedule 2](https://www.legislation.gov.uk/ukpga/2001/16/schedule/2), [paragraph 18](https://www.legislation.gov.uk/ukpga/2001/16/paragraph/18).
 
-[^key-c104c3ff9ad7abba9132e41778782772]: Textual amendment: Reg. 8 inserted (27.5.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Regulations 2021 (S.S.I. 2021/66)](https://www.legislation.gov.uk/ssi/2021/66), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/66/regulation/1/4), [4(2)](https://www.legislation.gov.uk/ssi/2021/66/regulation/4/2) (as amended by [S.S.I. 2021/109](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4)[(4)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4))
+[^c-c104c3ff9ad7abba9132e41778782772]: Textual amendment: Reg. 8 inserted (27.5.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Regulations 2021 (S.S.I. 2021/66)](https://www.legislation.gov.uk/ssi/2021/66), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/66/regulation/1/4), [4(2)](https://www.legislation.gov.uk/ssi/2021/66/regulation/4/2) (as amended by [S.S.I. 2021/109](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4)[(4)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4))
 
-[^key-122c2e83a3c06d8c13a9c857b7235b76]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/ssi/2016/84/regulation/8/1/a) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2022/265/regulation/14/a)
+[^c-122c2e83a3c06d8c13a9c857b7235b76]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/ssi/2016/84/regulation/8/1/a) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2022/265/regulation/14/a)
 
-[^key-7f98f5e1adad26e92500b25730a57b33]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/ssi/2016/84/regulation/8/1/b) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2022/265/regulation/14/b)
+[^c-7f98f5e1adad26e92500b25730a57b33]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/ssi/2016/84/regulation/8/1/b) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2022/265/regulation/14/b)
 
 [^c23252881]: Marginal citation: [Section 2(1)](https://www.legislation.gov.uk/ssi/2016/84/section/2/1) was amended by the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), [Schedule 5](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5), [paragraph 8](https://www.legislation.gov.uk/ukpga/1999/28/paragraph/8).
 

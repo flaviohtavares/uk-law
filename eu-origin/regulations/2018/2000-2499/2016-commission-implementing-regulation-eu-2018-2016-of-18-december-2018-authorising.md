@@ -35,20 +35,20 @@ authorising the placing on the market of decorticated grains of *Digitaria exili
 
 (Text with EEA relevance) (revoked)
 
-[^key-04f0f80bd19f17e0a988ef127aec6e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04f0f80bd19f17e0a988ef127aec6e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-04f0f80bd19f17e0a988ef127aec6e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-04f0f80bd19f17e0a988ef127aec6e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-04f0f80bd19f17e0a988ef127aec6e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-04f0f80bd19f17e0a988ef127aec6e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-04f0f80bd19f17e0a988ef127aec6e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-04f0f80bd19f17e0a988ef127aec6e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04f0f80bd19f17e0a988ef127aec6e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04f0f80bd19f17e0a988ef127aec6e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-04f0f80bd19f17e0a988ef127aec6e9f]
+## ANNEX[^c-04f0f80bd19f17e0a988ef127aec6e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-04f0f80bd19f17e0a988ef127aec6e9f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 22](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/22) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-04f0f80bd19f17e0a988ef127aec6e9f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 22](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/22) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Offshore works: abandonment or decay[^key-08855d09f0e99070eeb5ff4a8dea597e]
+## 34. Offshore works: abandonment or decay[^c-08855d09f0e99070eeb5ff4a8dea597e]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08855d09f0e99070eeb5ff4a8dea597e]: Commencement: Art. 34 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-08855d09f0e99070eeb5ff4a8dea597e]: Commencement: Art. 34 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

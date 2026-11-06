@@ -44,11 +44,11 @@ The Department of the Environment, in exercise of the powers conferred by sectio
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-65d75139fb8acb6273a058113ded1ab5]
+### 1. Citation and commencement[^c-65d75139fb8acb6273a058113ded1ab5]
 
 These Regulations may be cited as the Taxi Drivers’ Licences Regulations (Northern Ireland) 2014 and shall come into operation on 31<sup>st</sup> October 2014.
 
-### 2. Interpretation[^key-6aaa5efd0172380bd225185421d29b29]
+### 2. Interpretation[^c-6aaa5efd0172380bd225185421d29b29]
 
 In these Regulations—
 
@@ -61,14 +61,14 @@ In these Regulations—
 
 ## PART 2 — Taxi driver’s licences
 
-### 3. Application Fee[^key-2e209bb341f726a08b9c7e23d9b0fe7b]
+### 3. Application Fee[^c-2e209bb341f726a08b9c7e23d9b0fe7b]
 
 An application for a taxi driver’s licence shall be accompanied by—
 
 - (a) in the case of a first taxi driver’s licence, a fee of £140; or
 - (b) in the case of a renewal of a taxi driver’s licence, a fee of £105.
 
-### 4. Grant of a taxi driver’s licence[^key-7670e1c34dbfc60bdc17edfed0a5a5ec]
+### 4. Grant of a taxi driver’s licence[^c-7670e1c34dbfc60bdc17edfed0a5a5ec]
 
 (1) Subject to regulation 21 and section 23 of the Act, the Department shall grant a taxi driver’s licence to a person where on application—
 
@@ -92,13 +92,13 @@ Table
 | 1<sup>st</sup> September 2019 – 31<sup>st</sup> August 2020 | 28 Hours |
 | 1<sup>st</sup> September 2020 onwards | 35 Hours (within 5 years immediately preceding the date of application for a taxi driver’s licence) |
 
-### 5. Grant of a duplicate taxi driver’s licence to replace lost, stolen, defaced or destroyed taxi driver’s licence[^key-15e90eea33f7f7989168cd5ae3b3de76]
+### 5. Grant of a duplicate taxi driver’s licence to replace lost, stolen, defaced or destroyed taxi driver’s licence[^c-15e90eea33f7f7989168cd5ae3b3de76]
 
 (1) If the holder of a taxi driver’s licence satisfies the Department that the taxi driver’s licence has been lost, stolen, accidentally defaced or destroyed, the Department shall grant to them a duplicate taxi driver’s licence for the remainder of the period for which the original was granted, on payment of a fee of £19.00.
 
 (2) In the case of the loss or theft of a taxi driver’s licence, if at any time after the issue of a duplicate taxi driver’s licence the original taxi driver’s licence is found, the taxi driver’s licence holder shall return it to the Department or to a police station.
 
-### 6. Conditions of taxi driver’s licence[^key-ea4e00cd097225392a6f4130d8f93f82]
+### 6. Conditions of taxi driver’s licence[^c-ea4e00cd097225392a6f4130d8f93f82]
 
 (1) If the holder of a taxi driver’s licence changes their address, they shall communicate particulars of the change to the Department.
 
@@ -108,7 +108,7 @@ Table
 
 ## PART 3 — Tests
 
-### 7. Nature and order of tests[^key-eb67dd96a156c455902793b1aae877d9]
+### 7. Nature and order of tests[^c-eb67dd96a156c455902793b1aae877d9]
 
 (1) The test of competence to drive a taxi shall be in two parts and shall consist of—
 
@@ -120,7 +120,7 @@ Table
 - (a) pass the taxi theory test before they take the practical test; and
 - (b) shall not be entitled to apply for an appointment for a practical test until they have been furnished with a valid taxi theory test pass certificate.
 
-### 8. Content of tests[^key-03b3b25fcd968ecfed992ec341d63f04]
+### 8. Content of tests[^c-03b3b25fcd968ecfed992ec341d63f04]
 
 (1) The taxi theory test shall consist of—
 
@@ -136,7 +136,7 @@ Table
 
 (4) The candidate shall, during the practical test, allow to travel in the vehicle the examiner and any person authorised by the Department to attend the test for the purposes of supervising it or otherwise.
 
-### 9. Passing the tests[^key-4305a205ab5bb39cf310b05082fe4794]
+### 9. Passing the tests[^c-4305a205ab5bb39cf310b05082fe4794]
 
 (1) A person shall be treated as having passed the taxi theory test if they satisfy the person conducting the test—
 
@@ -145,7 +145,7 @@ Table
 
 (2) A person shall be treated as having passed the practical test if they satisfy the examiner of their ability to drive safely and to comply with the specified requirements set out in Schedule 1.
 
-### 10. Applications for a taxi theory test[^key-f42c041610b0aa24bc02d5c7d8168bbc]
+### 10. Applications for a taxi theory test[^c-f42c041610b0aa24bc02d5c7d8168bbc]
 
 (1) An applicant wishing to take a taxi theory test shall—
 
@@ -158,11 +158,11 @@ Table
 
 (3) An applicant may have only one appointment at a time.
 
-### 11. Fee for a taxi theory test[^key-59878688f821283f7a045b84a3982e0f]
+### 11. Fee for a taxi theory test[^c-59878688f821283f7a045b84a3982e0f]
 
 The fee payable on application to the Department for a taxi theory test shall be £34.00.
 
-### 12. Applications for a practical test[^key-a8c16bfc0c0b1a6470d0e6e97746caa2]
+### 12. Applications for a practical test[^c-a8c16bfc0c0b1a6470d0e6e97746caa2]
 
 (1) An applicant wishing to take a practical test shall—
 
@@ -175,14 +175,14 @@ The fee payable on application to the Department for a taxi theory test shall be
 
 (3) An applicant may have only one appointment at a time.
 
-### 13. Fee for a practical test[^key-e5036fbd2a4ea5fa7e281f0b1b098863]
+### 13. Fee for a practical test[^c-e5036fbd2a4ea5fa7e281f0b1b098863]
 
 The fee payable on application to the Department for a practical test is—
 
-- (a) £70.00[^key-f006cdca9f6c3a28dfaf3da8203f968b] where a test commences at any time between 8.30am and 4.30pm during the days Monday to Friday, and:
-- (b) £109.00[^key-a3bb115884858d04f77bee22cc2bdbd6] where a test commences at any other time.
+- (a) £70.00[^c-f006cdca9f6c3a28dfaf3da8203f968b] where a test commences at any time between 8.30am and 4.30pm during the days Monday to Friday, and:
+- (b) £109.00[^c-a3bb115884858d04f77bee22cc2bdbd6] where a test commences at any other time.
 
-### 14. Cancellation of tests and refund of fees[^key-0123867ba09519141310abb374912642]
+### 14. Cancellation of tests and refund of fees[^c-0123867ba09519141310abb374912642]
 
 (1) For the purposes of cancelling an appointment for—
 
@@ -198,7 +198,7 @@ The fee payable on application to the Department for a practical test is—
 
 (3) In this regulation “exceptional circumstances” means an accident, a fire, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts thereof).
 
-### 15. Evidence of result of taxi theory test[^key-dc9cb8dbd4fec5e5c3204aba0013aa92]
+### 15. Evidence of result of taxi theory test[^c-dc9cb8dbd4fec5e5c3204aba0013aa92]
 
 (1) A person conducting the taxi theory test shall furnish—
 
@@ -220,7 +220,7 @@ whichever is the earlier.
 
 (6) A taxi theory test pass certificate is invalid if the person to whom it is issued is at that time ineligible, by virtue of a provision contained in the Act or these Regulations, to take the taxi theory test to which the certificate relates.
 
-### 16. Evidence of result of practical test[^key-a28e8a94e5db2064c318d9baa79780f6]
+### 16. Evidence of result of practical test[^c-a28e8a94e5db2064c318d9baa79780f6]
 
 (1) Subject to paragraph (2), the examiner shall furnish—
 
@@ -234,7 +234,7 @@ whichever is the earlier.
 - (a) the person to whom it is issued is at that time ineligible, by virtue of a provision contained in the Act or these Regulations, to take the test to which the certificate relates; or
 - (b) at the time when it is issued, the examiner is unaware that the theory test pass certificate produced in accordance with regulation 17(1)(b)(ii) is invalid by virtue of regulation 15(4).
 
-### 17. Production of a vehicle for practical tests, etc.[^key-3599bb6518763f72e682b84c12b030ba]
+### 17. Production of a vehicle for practical tests, etc.[^c-3599bb6518763f72e682b84c12b030ba]
 
 (1) A person submitting themselves for a practical test shall—
 
@@ -257,7 +257,7 @@ whichever is the earlier.
 - (h) have an appropriate head restraint for the front passenger seat; and
 - (i) have a suitable rear view mirror fitted for use by the examiner (a mirror fitted to the sun visor is not acceptable).
 
-### 18. Further requirements at taxi theory test[^key-4d203866539dd070a5ad927d0626ced9]
+### 18. Further requirements at taxi theory test[^c-4d203866539dd070a5ad927d0626ced9]
 
 (1) A person submitting themselves for a taxi theory test shall—
 
@@ -272,7 +272,7 @@ whichever is the earlier.
 - (b) a current licence to drive a category B vehicle granted under the corresponding law in force in Great Britain; or
 - (c) a current community licence by which a person is authorised to drive a Category B vehicle in Northern Ireland.
 
-### 19. Refusal to conduct a taxi theory test[^key-4286b68428c0d0fa9c1d630e3c712852]
+### 19. Refusal to conduct a taxi theory test[^c-4286b68428c0d0fa9c1d630e3c712852]
 
 (1) Subject to paragraph (2), where a person submitting themselves for a taxi theory test fails to satisfy the person conducting it that they have complied with any requirement imposed by regulation 18 the test will not proceed.
 
@@ -284,7 +284,7 @@ whichever is the earlier.
 - (b) the test candidate having reading difficulties; or
 - (c) the test candidate being physically disabled.
 
-### 20. Refusal to conduct a practical test[^key-b6df42ddedbb9e10d7e1f5925012d636]
+### 20. Refusal to conduct a practical test[^c-b6df42ddedbb9e10d7e1f5925012d636]
 
 (1) Subject to paragraph (2), where a person submitting themselves for a practical test fails to satisfy the examiner that they have complied with any requirement imposed by regulation 17, the examiner must refuse to conduct the test.
 
@@ -292,7 +292,7 @@ whichever is the earlier.
 
 ## PART 4 — Supplementary
 
-### 21. Disabilities[^key-f683b355f6c4f483a91cc6d938efd640]
+### 21. Disabilities[^c-f683b355f6c4f483a91cc6d938efd640]
 
 (1) The Department shall not grant a taxi driver’s licence if the applicant suffers from—
 
@@ -362,7 +362,7 @@ whichever is the earlier.
   - (iv) “unprovoked seizure” means a seizure which is not a provoked seizure;
 - (b) in relation to diabetes “severe hypoglycaemia” has the same meaning as in regulation 50(7) of the 1996 Regulations.
 
-### 22. Transitional provisions[^key-cc22864830665d0f70d7bfe39ed8dbdc]
+### 22. Transitional provisions[^c-cc22864830665d0f70d7bfe39ed8dbdc]
 
 (1) A current taxi driver’s licence granted under Article 79A of the 1981 Order shall be treated as a taxi driver’s licence granted under Article 23 of the Act until such times as the licence expires, is suspended, or revoked.
 
@@ -384,33 +384,33 @@ Department of the Environment
 
 Regulation 7(1)(b)
 
-### 1. A. Vehicle safety checks and emergency situations[^key-91c7bfcd7c92e60a907f24eccd5d5949]
+### 1. A. Vehicle safety checks and emergency situations[^c-91c7bfcd7c92e60a907f24eccd5d5949]
 
 The candidate will be asked five “show me/tell me” questions on vehicle safety checks and emergency situations.
 
-**2.**[^key-724d4b6a7387c8ca85976c8c2b42d523] For the purposes of paragraph 1 the list of components on which questions will be asked is as follows: safety systems, seats, seatbelts, tyres, steering, brakes, fluids (e.g. engine oil, coolant and windscreen washer fluid), lights reflectors, direction indicators and audible warning device.
+**2.**[^c-724d4b6a7387c8ca85976c8c2b42d523] For the purposes of paragraph 1 the list of components on which questions will be asked is as follows: safety systems, seats, seatbelts, tyres, steering, brakes, fluids (e.g. engine oil, coolant and windscreen washer fluid), lights reflectors, direction indicators and audible warning device.
 
-**3.**[^key-fe690b052f15b7edd755c1dda0b59cf5] For the purposes of paragraph 1 the list of emergency situations on which questions will be asked is as follows: dealing with fires, knowledge of fire extinguishers, dealing with emergency situations, including when on a motorway, safety of passengers in emergency situations, dealing with collisions in a correct, safe and legal manner, preparation for and driving in very cold weather and security of the vehicle and its contents.
+**3.**[^c-fe690b052f15b7edd755c1dda0b59cf5] For the purposes of paragraph 1 the list of emergency situations on which questions will be asked is as follows: dealing with fires, knowledge of fire extinguishers, dealing with emergency situations, including when on a motorway, safety of passengers in emergency situations, dealing with collisions in a correct, safe and legal manner, preparation for and driving in very cold weather and security of the vehicle and its contents.
 
-### 1. B. Preparation to drive[^key-848dec681b7e4ce1807f436fed361fa8]
+### 1. B. Preparation to drive[^c-848dec681b7e4ce1807f436fed361fa8]
 
 Adjust the seat as necessary to obtain a correct seating position.
 
-**2.**[^key-414d673feeec7e836c1a28c53dcad220] Adjust rear view mirrors, head restraints and seat belts.
+**2.**[^c-414d673feeec7e836c1a28c53dcad220] Adjust rear view mirrors, head restraints and seat belts.
 
-**3.**[^key-4186c219c1d7f8b4eb6e080cc5b40ade] Check that the doors are closed.
+**3.**[^c-4186c219c1d7f8b4eb6e080cc5b40ade] Check that the doors are closed.
 
-### 1. C. Technical control of the vehicle[^key-088b3de04e3c7b299bca4d047b17cf4c]
+### 1. C. Technical control of the vehicle[^c-088b3de04e3c7b299bca4d047b17cf4c]
 
 Start the engine and move off smoothly (uphill and downhill as well as on flat).
 
-**2.**[^key-b2cd3e7390775414fa5c74c56fefcc95] Accelerate to a suitable speed while maintaining a straight course, including during gear changes.
+**2.**[^c-b2cd3e7390775414fa5c74c56fefcc95] Accelerate to a suitable speed while maintaining a straight course, including during gear changes.
 
-**3.**[^key-e1299d651d175290ba46c3221e53a05b] Adjust speed to negotiate left or right turns at junctions, possibly in restricted spaces, while maintaining control of the vehicle.
+**3.**[^c-e1299d651d175290ba46c3221e53a05b] Adjust speed to negotiate left or right turns at junctions, possibly in restricted spaces, while maintaining control of the vehicle.
 
-**4.**[^key-0c18ab49678e3fa2d149d5e6fb95f7cf] Brake accurately to stop, if need be by performing an emergency stop.
+**4.**[^c-0c18ab49678e3fa2d149d5e6fb95f7cf] Brake accurately to stop, if need be by performing an emergency stop.
 
-**5.**[^key-1e0e2466c0f74c1c4429fc9012a62c8b] Perform any two of the following manoeuvres—
+**5.**[^c-1e0e2466c0f74c1c4429fc9012a62c8b] Perform any two of the following manoeuvres—
 
 - (a) reverse in a straight line and reverse left round a corner while keeping in the correct traffic lane;
 - (b) reverse in a straight line and reverse right round a corner while keeping in the correct traffic lane;
@@ -418,53 +418,53 @@ Start the engine and move off smoothly (uphill and downhill as well as on flat).
 - (d) park the vehicle and leave a parking space (parallel, oblique or right angle) both forwards and in reverse, on the flat, uphill and downhill;
 - (e) turn the vehicle to face in the opposite direction by driving it forward (a “U-turn”).
 
-### 1. D. Behaviour in traffic[^key-91ca67ba8ac3aa45a166558027664340]
+### 1. D. Behaviour in traffic[^c-91ca67ba8ac3aa45a166558027664340]
 
 Observe (including the use of rear-view mirrors) road alignment, markings, signs and potential or actual risks.
 
-**2.**[^key-04b8a36ed9c4803e07947a64d4a8caa9] Communicate with other road users using the authorised means.
+**2.**[^c-04b8a36ed9c4803e07947a64d4a8caa9] Communicate with other road users using the authorised means.
 
-**3.**[^key-263e40bd653b068099d83b5fa1db0b89] React appropriately in actual risk situations.
+**3.**[^c-263e40bd653b068099d83b5fa1db0b89] React appropriately in actual risk situations.
 
-**4.**[^key-9e594dba6058217b32658e9ef2307cf4] Comply with road traffic regulations and the instruction of the police, traffic wardens, etc.
+**4.**[^c-9e594dba6058217b32658e9ef2307cf4] Comply with road traffic regulations and the instruction of the police, traffic wardens, etc.
 
-**5.**[^key-8ae1560e7e25eacae4a31c5495b3a488] Move off from the kerb and/or a parking space.
+**5.**[^c-8ae1560e7e25eacae4a31c5495b3a488] Move off from the kerb and/or a parking space.
 
-**6.**[^key-c0119eafa8c47c36b53b4648b3efe90e] Drive with the vehicle correctly positioned on the road, adjusting speed to traffic conditions and the line of the road.
+**6.**[^c-c0119eafa8c47c36b53b4648b3efe90e] Drive with the vehicle correctly positioned on the road, adjusting speed to traffic conditions and the line of the road.
 
-**7.**[^key-8d9ce221eb2b0d38ced76722ccf9ccfc] Keep the right distance between vehicles.
+**7.**[^c-8d9ce221eb2b0d38ced76722ccf9ccfc] Keep the right distance between vehicles.
 
-**8.**[^key-bac04ecf469ff74692e6b9b17cd19ef2] Change lanes.
+**8.**[^c-bac04ecf469ff74692e6b9b17cd19ef2] Change lanes.
 
-**9.**[^key-504daa4512d4bea0519f87e1c67c75e3] Pass parked or stationary vehicles and obstacles.
+**9.**[^c-504daa4512d4bea0519f87e1c67c75e3] Pass parked or stationary vehicles and obstacles.
 
-**10.**[^key-c20bd3970d558a101fb0b4b6616dbf6c] Approach and cross junctions.
+**10.**[^c-c20bd3970d558a101fb0b4b6616dbf6c] Approach and cross junctions.
 
-**11.**[^key-07e7ed11ef654b821582e0d07c13636d] Turn right and left at junctions or to leave the carriageway.
+**11.**[^c-07e7ed11ef654b821582e0d07c13636d] Turn right and left at junctions or to leave the carriageway.
 
-**12.**[^key-f68f12cf9c5aeb5018da3357aa9b1d0c] Where the opportunity arises—
+**12.**[^c-f68f12cf9c5aeb5018da3357aa9b1d0c] Where the opportunity arises—
 
 - (a) pass oncoming vehicles, including in confined spaces;
 - (b) overtake in various situations; and
 - (c) approach and cross level-crossings.
 
-### 1. E. Alighting from vehicle[^key-d6ccd44ff4a1c2e7c370de5b51e9e3b6]
+### 1. E. Alighting from vehicle[^c-d6ccd44ff4a1c2e7c370de5b51e9e3b6]
 
 Take all precautions necessary when alighting.
 
-### 1. F. Independent driving[^key-a57b881b2e36e37494d261cf0b924362]
+### 1. F. Independent driving[^c-a57b881b2e36e37494d261cf0b924362]
 
 Drive independently of directions from the examiner for a period or periods during the test in a safe, legal and competent manner.
 
-### 1. G. Eco-safe driving (advisory test element)[^key-e57f1c51ec1514b4ff0bdd48b1b70a78]
+### 1. G. Eco-safe driving (advisory test element)[^c-e57f1c51ec1514b4ff0bdd48b1b70a78]
 
 Drive in a safe and fuel efficient manner demonstrating competence in vehicle control and planning.
 
-## SCHEDULE 2 — Specified matters for taxi theory test[^key-9146b7512d243b3cd5848618035e65fc]
+## SCHEDULE 2 — Specified matters for taxi theory test[^c-9146b7512d243b3cd5848618035e65fc]
 
 Regulation 8(1)(a)
 
-[^key-9146b7512d243b3cd5848618035e65fc]The taxi theory test shall consist of a theoretical examination, in which the candidate is required to answer from their own knowledge, on all or any of the following subjects—
+[^c-9146b7512d243b3cd5848618035e65fc]The taxi theory test shall consist of a theoretical examination, in which the candidate is required to answer from their own knowledge, on all or any of the following subjects—
 
 - (a) Road procedure, eco driving and the environment;
 - (b) Traffic signs & signals, vulnerable road users & mechanical knowledge;
@@ -475,13 +475,13 @@ Regulation 8(1)(a)
 
 Regulations 15 and 16
 
-### PART 1 — Taxi theory test pass certificate[^key-44e600723e6140aab35752b88da9ffcb]
+### PART 1 — Taxi theory test pass certificate[^c-44e600723e6140aab35752b88da9ffcb]
 
-### PART 2 — Taxi theory test failure statement[^key-cbde02e95da198314ee852c029a2b578]
+### PART 2 — Taxi theory test failure statement[^c-cbde02e95da198314ee852c029a2b578]
 
-### PART 3 — Practical test pass certificate[^key-cf433b9a4d667ecfc6f9bf78598e84f0]
+### PART 3 — Practical test pass certificate[^c-cf433b9a4d667ecfc6f9bf78598e84f0]
 
-### PART 4 — Practical test failure statement[^key-ed92885ff6022df55496199d2c65be6d]
+### PART 4 — Practical test failure statement[^c-ed92885ff6022df55496199d2c65be6d]
 
 EXPLANATORY NOTE
 
@@ -511,120 +511,120 @@ A Regulatory Impact Assessment and Explanatory Memorandum has been prepared and 
 
 [^f00001]: Footnote: [2008 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2008/4)
 
-[^key-65d75139fb8acb6273a058113ded1ab5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-65d75139fb8acb6273a058113ded1ab5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-6aaa5efd0172380bd225185421d29b29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/239/regulation/2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-6aaa5efd0172380bd225185421d29b29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/239/regulation/2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1996 No.542](https://www.legislation.gov.uk/nisr/1996/542)
 
-[^key-2e209bb341f726a08b9c7e23d9b0fe7b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/239/regulation/3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-2e209bb341f726a08b9c7e23d9b0fe7b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/239/regulation/3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-7670e1c34dbfc60bdc17edfed0a5a5ec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2014/239/regulation/4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-7670e1c34dbfc60bdc17edfed0a5a5ec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2014/239/regulation/4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-15e90eea33f7f7989168cd5ae3b3de76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/239/regulation/5) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-15e90eea33f7f7989168cd5ae3b3de76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/239/regulation/5) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-ea4e00cd097225392a6f4130d8f93f82]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/239/regulation/6) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-ea4e00cd097225392a6f4130d8f93f82]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/239/regulation/6) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
 
-[^key-eb67dd96a156c455902793b1aae877d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/239/regulation/7) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-eb67dd96a156c455902793b1aae877d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/239/regulation/7) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-03b3b25fcd968ecfed992ec341d63f04]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/239/regulation/8) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-03b3b25fcd968ecfed992ec341d63f04]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/239/regulation/8) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-4305a205ab5bb39cf310b05082fe4794]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/239/regulation/9) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-4305a205ab5bb39cf310b05082fe4794]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/239/regulation/9) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-f42c041610b0aa24bc02d5c7d8168bbc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/239/regulation/10) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-f42c041610b0aa24bc02d5c7d8168bbc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/239/regulation/10) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-59878688f821283f7a045b84a3982e0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/239/regulation/11) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-59878688f821283f7a045b84a3982e0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/239/regulation/11) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-a8c16bfc0c0b1a6470d0e6e97746caa2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2014/239/regulation/12) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-a8c16bfc0c0b1a6470d0e6e97746caa2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2014/239/regulation/12) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-e5036fbd2a4ea5fa7e281f0b1b098863]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2014/239/regulation/13) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-e5036fbd2a4ea5fa7e281f0b1b098863]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2014/239/regulation/13) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-f006cdca9f6c3a28dfaf3da8203f968b]: Textual amendment: Sum in [reg. 13(a)](https://www.legislation.gov.uk/nisr/2014/239/regulation/13/a) substituted (1.10.2023) by [The Taxi Drivers’ Licences (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/123)](https://www.legislation.gov.uk/nisr/2023/123), [regs. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2023/123/regulation/2/a)
+[^c-f006cdca9f6c3a28dfaf3da8203f968b]: Textual amendment: Sum in [reg. 13(a)](https://www.legislation.gov.uk/nisr/2014/239/regulation/13/a) substituted (1.10.2023) by [The Taxi Drivers’ Licences (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/123)](https://www.legislation.gov.uk/nisr/2023/123), [regs. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2023/123/regulation/2/a)
 
-[^key-a3bb115884858d04f77bee22cc2bdbd6]: Textual amendment: Sum in [reg. 13(b)](https://www.legislation.gov.uk/nisr/2014/239/regulation/13/b) substituted (1.10.2023) by [The Taxi Drivers’ Licences (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/123)](https://www.legislation.gov.uk/nisr/2023/123), [regs. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2023/123/regulation/2/b)
+[^c-a3bb115884858d04f77bee22cc2bdbd6]: Textual amendment: Sum in [reg. 13(b)](https://www.legislation.gov.uk/nisr/2014/239/regulation/13/b) substituted (1.10.2023) by [The Taxi Drivers’ Licences (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/123)](https://www.legislation.gov.uk/nisr/2023/123), [regs. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2023/123/regulation/2/b)
 
-[^key-0123867ba09519141310abb374912642]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2014/239/regulation/14) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-0123867ba09519141310abb374912642]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2014/239/regulation/14) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-dc9cb8dbd4fec5e5c3204aba0013aa92]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2014/239/regulation/15) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-dc9cb8dbd4fec5e5c3204aba0013aa92]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2014/239/regulation/15) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-a28e8a94e5db2064c318d9baa79780f6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2014/239/regulation/16) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-a28e8a94e5db2064c318d9baa79780f6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2014/239/regulation/16) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-3599bb6518763f72e682b84c12b030ba]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2014/239/regulation/17) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-3599bb6518763f72e682b84c12b030ba]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2014/239/regulation/17) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
 [^f00005]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-4d203866539dd070a5ad927d0626ced9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2014/239/regulation/18) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-4d203866539dd070a5ad927d0626ced9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2014/239/regulation/18) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-4286b68428c0d0fa9c1d630e3c712852]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2014/239/regulation/19) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-4286b68428c0d0fa9c1d630e3c712852]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2014/239/regulation/19) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-b6df42ddedbb9e10d7e1f5925012d636]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2014/239/regulation/20) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-b6df42ddedbb9e10d7e1f5925012d636]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2014/239/regulation/20) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-f683b355f6c4f483a91cc6d938efd640]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2014/239/regulation/21) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-f683b355f6c4f483a91cc6d938efd640]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2014/239/regulation/21) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-cc22864830665d0f70d7bfe39ed8dbdc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2014/239/regulation/22) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-cc22864830665d0f70d7bfe39ed8dbdc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2014/239/regulation/22) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-91c7bfcd7c92e60a907f24eccd5d5949]: Commencement: [Sch. 1 Matter A para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-91c7bfcd7c92e60a907f24eccd5d5949]: Commencement: [Sch. 1 Matter A para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-724d4b6a7387c8ca85976c8c2b42d523]: Commencement: [Sch. 1 Matter A para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-724d4b6a7387c8ca85976c8c2b42d523]: Commencement: [Sch. 1 Matter A para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-fe690b052f15b7edd755c1dda0b59cf5]: Commencement: [Sch. 1 Matter A para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-fe690b052f15b7edd755c1dda0b59cf5]: Commencement: [Sch. 1 Matter A para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-848dec681b7e4ce1807f436fed361fa8]: Commencement: [Sch. 1 Matter B para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-848dec681b7e4ce1807f436fed361fa8]: Commencement: [Sch. 1 Matter B para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-414d673feeec7e836c1a28c53dcad220]: Commencement: [Sch. 1 Matter B para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-414d673feeec7e836c1a28c53dcad220]: Commencement: [Sch. 1 Matter B para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-4186c219c1d7f8b4eb6e080cc5b40ade]: Commencement: [Sch. 1 Matter B para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-4186c219c1d7f8b4eb6e080cc5b40ade]: Commencement: [Sch. 1 Matter B para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-088b3de04e3c7b299bca4d047b17cf4c]: Commencement: [Sch. 1 Matter C para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-088b3de04e3c7b299bca4d047b17cf4c]: Commencement: [Sch. 1 Matter C para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-b2cd3e7390775414fa5c74c56fefcc95]: Commencement: [Sch. 1 Matter C para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-b2cd3e7390775414fa5c74c56fefcc95]: Commencement: [Sch. 1 Matter C para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-e1299d651d175290ba46c3221e53a05b]: Commencement: [Sch. 1 Matter C para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-e1299d651d175290ba46c3221e53a05b]: Commencement: [Sch. 1 Matter C para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-0c18ab49678e3fa2d149d5e6fb95f7cf]: Commencement: [Sch. 1 Matter C para. 4](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/4n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-0c18ab49678e3fa2d149d5e6fb95f7cf]: Commencement: [Sch. 1 Matter C para. 4](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/4n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-1e0e2466c0f74c1c4429fc9012a62c8b]: Commencement: [Sch. 1 Matter C para. 5](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/5n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-1e0e2466c0f74c1c4429fc9012a62c8b]: Commencement: [Sch. 1 Matter C para. 5](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/5n1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-91ca67ba8ac3aa45a166558027664340]: Commencement: [Sch. 1 Matter D para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-91ca67ba8ac3aa45a166558027664340]: Commencement: [Sch. 1 Matter D para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-04b8a36ed9c4803e07947a64d4a8caa9]: Commencement: [Sch. 1 Matter D para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-04b8a36ed9c4803e07947a64d4a8caa9]: Commencement: [Sch. 1 Matter D para. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/2n4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-263e40bd653b068099d83b5fa1db0b89]: Commencement: [Sch. 1 Matter D para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-263e40bd653b068099d83b5fa1db0b89]: Commencement: [Sch. 1 Matter D para. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/3n4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-9e594dba6058217b32658e9ef2307cf4]: Commencement: [Sch. 1 Matter D para. 4](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/4n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-9e594dba6058217b32658e9ef2307cf4]: Commencement: [Sch. 1 Matter D para. 4](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/4n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-8ae1560e7e25eacae4a31c5495b3a488]: Commencement: [Sch. 1 Matter D para. 5](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/5n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-8ae1560e7e25eacae4a31c5495b3a488]: Commencement: [Sch. 1 Matter D para. 5](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/5n2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-c0119eafa8c47c36b53b4648b3efe90e]: Commencement: [Sch. 1 Matter D para. 6](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/6) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-c0119eafa8c47c36b53b4648b3efe90e]: Commencement: [Sch. 1 Matter D para. 6](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/6) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-8d9ce221eb2b0d38ced76722ccf9ccfc]: Commencement: [Sch. 1 Matter D para. 7](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/7) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-8d9ce221eb2b0d38ced76722ccf9ccfc]: Commencement: [Sch. 1 Matter D para. 7](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/7) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-bac04ecf469ff74692e6b9b17cd19ef2]: Commencement: [Sch. 1 Matter D para. 8](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/8) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-bac04ecf469ff74692e6b9b17cd19ef2]: Commencement: [Sch. 1 Matter D para. 8](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/8) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-504daa4512d4bea0519f87e1c67c75e3]: Commencement: [Sch. 1 Matter D para. 9](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/9) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-504daa4512d4bea0519f87e1c67c75e3]: Commencement: [Sch. 1 Matter D para. 9](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/9) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-c20bd3970d558a101fb0b4b6616dbf6c]: Commencement: [Sch. 1 Matter D para. 10](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/10) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-c20bd3970d558a101fb0b4b6616dbf6c]: Commencement: [Sch. 1 Matter D para. 10](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/10) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-07e7ed11ef654b821582e0d07c13636d]: Commencement: [Sch. 1 Matter D para. 11](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/11) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-07e7ed11ef654b821582e0d07c13636d]: Commencement: [Sch. 1 Matter D para. 11](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/11) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-f68f12cf9c5aeb5018da3357aa9b1d0c]: Commencement: [Sch. 1 Matter D para. 12](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/12) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-f68f12cf9c5aeb5018da3357aa9b1d0c]: Commencement: [Sch. 1 Matter D para. 12](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/12) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-d6ccd44ff4a1c2e7c370de5b51e9e3b6]: Commencement: [Sch. 1 Matter E para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n5) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-d6ccd44ff4a1c2e7c370de5b51e9e3b6]: Commencement: [Sch. 1 Matter E para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n5) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-a57b881b2e36e37494d261cf0b924362]: Commencement: [Sch. 1 Matter F para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n6) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-a57b881b2e36e37494d261cf0b924362]: Commencement: [Sch. 1 Matter F para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n6) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-e57f1c51ec1514b4ff0bdd48b1b70a78]: Commencement: [Sch. 1 Matter G para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n7) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-e57f1c51ec1514b4ff0bdd48b1b70a78]: Commencement: [Sch. 1 Matter G para. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/1/paragraph/1n7) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-9146b7512d243b3cd5848618035e65fc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-9146b7512d243b3cd5848618035e65fc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-44e600723e6140aab35752b88da9ffcb]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-44e600723e6140aab35752b88da9ffcb]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/1) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-cbde02e95da198314ee852c029a2b578]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-cbde02e95da198314ee852c029a2b578]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/2) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-cf433b9a4d667ecfc6f9bf78598e84f0]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-cf433b9a4d667ecfc6f9bf78598e84f0]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/3) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
 
-[^key-ed92885ff6022df55496199d2c65be6d]: Commencement: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)
+[^c-ed92885ff6022df55496199d2c65be6d]: Commencement: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/nisr/2014/239/schedule/3/part/4) in operation at 31.10.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/239/regulation/1)

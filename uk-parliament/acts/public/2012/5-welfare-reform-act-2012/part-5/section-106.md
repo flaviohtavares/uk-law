@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Deduction from earnings: other cases[^key-7a48c5647ad1ad447c4db961508839d2]
+## 106. Deduction from earnings: other cases[^c-7a48c5647ad1ad447c4db961508839d2]
 
 *Extent: E+W+S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a48c5647ad1ad447c4db961508839d2]: Commencement: S. 106 in force at 1.7.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/c)
+[^c-7a48c5647ad1ad447c4db961508839d2]: Commencement: S. 106 in force at 1.7.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/c)

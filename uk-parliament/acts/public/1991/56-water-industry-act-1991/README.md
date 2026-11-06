@@ -33,7 +33,7 @@ An Act to consolidate enactments relating to the supply of water and the provisi
 
 \[25th July 1991\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c13216161][^c13216171][^c13216141][^c13216151][^c13216111][^c13216121][^c19749391][^c20078681][^c19885211][^c19892701][^M_C_d47012e5-6ae7-42e0-a268-ac9d17c7cd7b][^key-8b35694fc16b4f9a1b5f308c984c77dc][^M_C_7c9e46e5-fbe0-455e-86d6-1d59c035c376][^M_C_69f6ffd4-9f4f-4788-be4d-64ecdec857ed][^key-4997e2cae3c460dff77faea88b43a291]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c13216161][^c13216171][^c13216141][^c13216151][^c13216111][^c13216121][^c19749391][^c20078681][^c19885211][^c19892701][^M_C_d47012e5-6ae7-42e0-a268-ac9d17c7cd7b][^c-8b35694fc16b4f9a1b5f308c984c77dc][^M_C_7c9e46e5-fbe0-455e-86d6-1d59c035c376][^M_C_69f6ffd4-9f4f-4788-be4d-64ecdec857ed][^c-4997e2cae3c460dff77faea88b43a291]
 
 ## Contents
 
@@ -78,7 +78,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 11 — Power to impose conditions.](part-ii/section-11.md)
 - [Section 12 — Determinations under conditions of appointment.](part-ii/section-12.md)
 
-##### Modification of appointment conditions: England[^key-81e4211560e1d1d6de14fbc2a7b4eacb][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
+##### Modification of appointment conditions: England[^c-81e4211560e1d1d6de14fbc2a7b4eacb][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
 
 - [Section 12A — Modification by the Authority](part-ii/section-12a.md)
 - [Section 12B — Modification of conditions of appointment: early effective date](part-ii/section-12b.md)
@@ -92,7 +92,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 12J — Modification by the Secretary of State: special administration orders](part-ii/section-12j.md)
 - [Section 12K — Modifications under section 12J: procedural requirements](part-ii/section-12k.md)
 
-##### Modification of appointment conditions: Wales[^key-fd222f23aa5ea815f7abc20e0afd7acd][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
+##### Modification of appointment conditions: Wales[^c-fd222f23aa5ea815f7abc20e0afd7acd][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
 
 *Extent: E+W*
 
@@ -107,13 +107,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 16C — Modification by the Welsh Ministers: special administration orders](part-ii/section-16c.md)
 - [Section 16D — Modifications under section 16C: procedural requirements](part-ii/section-16d.md)
 
-##### Modification of appointment conditions: England and Wales[^key-a89f8bdb73191be8b8a20198b1e863f8][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
+##### Modification of appointment conditions: England and Wales[^c-a89f8bdb73191be8b8a20198b1e863f8][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
 
 *Extent: E+W*
 
 - [Section 17 — Modification by order under other enactments.](part-ii/section-17.md)
 
-#### CHAPTER 1A — Water supply licences and sewerage licences[^key-5d9cff2f2600e1fd120ed1aa4403841c][^key-fefe68b9c823e3775c44a2127623105b][^M_C_4cbdeae5-e136-4598-9815-1e447d187870][^key-0f41f6d7594dacc196fcc59790352357][^c19901781][^key-3caa8b1dcc311c364ddb9378f1d6c4c2]
+#### CHAPTER 1A — Water supply licences and sewerage licences[^c-5d9cff2f2600e1fd120ed1aa4403841c][^c-fefe68b9c823e3775c44a2127623105b][^M_C_4cbdeae5-e136-4598-9815-1e447d187870][^c-0f41f6d7594dacc196fcc59790352357][^c19901781][^c-3caa8b1dcc311c364ddb9378f1d6c4c2]
 
 *Extent: E+W*
 
@@ -241,14 +241,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 34 — Application of provisions of Enterprise Act 2002](part-ii/section-34.md)
 - [Section 35 — Construction of merger provisions.](part-ii/section-35.md)
 
-##### Remuneration and governance[^key-488f8e11c5d50b842238e2b6ed05b7b0][^c20149321]
+##### Remuneration and governance[^c-488f8e11c5d50b842238e2b6ed05b7b0][^c20149321]
 
 - [Section 35A — Remuneration and standards of performance](part-ii/section-35a.md)
 - [Section 35B — Rules about remuneration and governance](part-ii/section-35b.md)
 - [Section 35C — Rules under section 35B: procedure](part-ii/section-35c.md)
 - [Section 35D — Rules under section 35B: minor or urgent variations](part-ii/section-35d.md)
 
-##### Financial transparency[^key-31d126d4461da630caaca5cc976b7826]
+##### Financial transparency[^c-31d126d4461da630caaca5cc976b7826]
 
 - [Section 35E — Authority to secure publication of financial overview](part-ii/section-35e.md)
 
@@ -256,7 +256,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 36 — Interpretation of Part II.](part-ii/section-36.md)
 
-### Part 2A — Regulation of provision of infrastructure[^key-f1c61a726dbbf5e9fed948ec95459976]
+### Part 2A — Regulation of provision of infrastructure[^c-f1c61a726dbbf5e9fed948ec95459976]
 
 *Extent: E+W+S+N.I.*
 
@@ -268,11 +268,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 36F — Cross-border infrastructure projects](part-2a/section-36f.md)
 - [Section 36G — Regulations: procedure](part-2a/section-36g.md)
 
-### Part III — WATER SUPPLY[^c13217851][^c13217861][^key-f32aa8da0dc8a3c5d726c0bb5a9b2f3e][^key-bb1ed306cbb17b3e6b8ff65e442f95ee][^key-6f0bf9cd38e49c5feb21d9458a7f94e4]
+### Part III — WATER SUPPLY[^c13217851][^c13217861][^c-f32aa8da0dc8a3c5d726c0bb5a9b2f3e][^c-bb1ed306cbb17b3e6b8ff65e442f95ee][^c-6f0bf9cd38e49c5feb21d9458a7f94e4]
 
 *Extent: E+W*
 
-#### chapter I — GENERAL DUTIES OF WATER UNDERTAKERS etc[^key-db241ba4c42c8b6e447c5ac3a78cba82]
+#### chapter I — GENERAL DUTIES OF WATER UNDERTAKERS etc[^c-db241ba4c42c8b6e447c5ac3a78cba82]
 
 *Extent: E+W*
 
@@ -366,7 +366,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 62 — Disconnections at request of customer.](part-iii/section-62.md)
 - [Section 63 — General duties of undertakers with respect to disconnections.](part-iii/section-63.md)
 
-##### Supply by water supply licensee etc[^c19800321][^key-5fc14cb6b045de14a6ab2ab8be9455dc]
+##### Supply by water supply licensee etc[^c19800321][^c-5fc14cb6b045de14a6ab2ab8be9455dc]
 
 *Extent: E+W*
 
@@ -387,11 +387,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 65 — Duties of undertakers as respects constancy and pressure.](part-iii/section-65.md)
 - [Section 66 — Requirements by undertaker for maintaining pressure.](part-iii/section-66.md)
 
-#### CHAPTER 2A — Supply duties etc: water supply licensees[^key-974f6e885f56dcdc9ef28d6d1c45f9e0][^c19901941][^key-85d13c0878349b979aef627000cd07cf]
+#### CHAPTER 2A — Supply duties etc: water supply licensees[^c-974f6e885f56dcdc9ef28d6d1c45f9e0][^c19901941][^c-85d13c0878349b979aef627000cd07cf]
 
 *Extent: E+W*
 
-##### Duties of undertakers to supply water supply licensees etc[^key-85d13c0878349b979aef627000cd07cf][^c19901941]
+##### Duties of undertakers to supply water supply licensees etc[^c-85d13c0878349b979aef627000cd07cf][^c19901941]
 
 *Extent: E+W*
 
@@ -426,7 +426,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 67 — Standards of wholesomeness.](part-iii/section-67.md)
 
-##### General obligations of undertakers and water supply licensees[^c19800711][^key-b02772c18f740463fb91db05ed679cf3]
+##### General obligations of undertakers and water supply licensees[^c19800711][^c-b02772c18f740463fb91db05ed679cf3]
 
 *Extent: E+W*
 
@@ -460,7 +460,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 84 — Local authority rights of entry etc.](part-iii/section-84.md)
 - [Section 85 — Local authority power to obtain information for the purposes of functions under Chapter III.](part-iii/section-85.md)
 
-##### Drinking Water Inspectorate[^key-5708ed834230716edc4efbaa31b9865c]
+##### Drinking Water Inspectorate[^c-5708ed834230716edc4efbaa31b9865c]
 
 *Extent: E+W*
 
@@ -471,7 +471,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 86A — Procedure for dealing with complaints.](part-iii/section-86a.md)
 
-#### CHAPTER IV — FLUORIDATION[^key-7be2f793cbc549f70befa3416a0f1b6f]
+#### CHAPTER IV — FLUORIDATION[^c-7be2f793cbc549f70befa3416a0f1b6f]
 
 *Extent: E+W*
 
@@ -521,7 +521,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W*
 
-#### chapter I — GENERAL FUNCTIONS OF SEWERAGE UNDERTAKERS etc[^key-f90dc35e8b58ec45a6931a2447d77806]
+#### chapter I — GENERAL FUNCTIONS OF SEWERAGE UNDERTAKERS etc[^c-f90dc35e8b58ec45a6931a2447d77806]
 
 *Extent: E+W*
 
@@ -631,7 +631,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 110I — Rules under section 110F: minor or urgent revisions](part-iv/section-110i.md)
 - [Section 110J — Rules under section 110F: guidance](part-iv/section-110j.md)
 
-##### Provision of sewerage services by sewerage licensees etc[^key-e7ab4d41335e4fe91a1207581abd3913]
+##### Provision of sewerage services by sewerage licensees etc[^c-e7ab4d41335e4fe91a1207581abd3913]
 
 - [Section 110K — Provision by sewerage licensee](part-iv/section-110k.md)
 - [Section 110L — Interim duty: sewerage undertakers and sewerage licensees](part-iv/section-110l.md)
@@ -646,7 +646,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 113 — Power to alter drainage system of premises in area.](part-iv/section-113.md)
 - [Section 114 — Power to investigate defective drain or sewer.](part-iv/section-114.md)
 
-##### Sustainable drainage[^key-eac8bdc87543f5437a95961735260a88]
+##### Sustainable drainage[^c-eac8bdc87543f5437a95961735260a88]
 
 - [Section 114A — Drainage systems relieving public sewers](part-iv/section-114a.md)
 
@@ -663,11 +663,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 117 — Interpretation of Chapter II.](part-iv/section-117.md)
 
-#### Chapter 2A — Duties relating to sewerage services: sewerage licensees[^key-eb41592ca9d875d98e1b4af2769214b1][^key-d73d32580ee7418f6f65b50c4546197f]
+#### Chapter 2A — Duties relating to sewerage services: sewerage licensees[^c-eb41592ca9d875d98e1b4af2769214b1][^c-d73d32580ee7418f6f65b50c4546197f]
 
 *Extent: E+W*
 
-##### Duties of sewerage undertakers as regards enabling the provision of sewerage services[^key-d73d32580ee7418f6f65b50c4546197f]
+##### Duties of sewerage undertakers as regards enabling the provision of sewerage services[^c-d73d32580ee7418f6f65b50c4546197f]
 
 - [Section 117A — Use of undertaker's sewerage system](part-iv/section-117a.md)
 - [Section 117B — Matter dealt with by sewerage undertaker](part-iv/section-117b.md)
@@ -685,7 +685,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 117N — Designation of strategic sewerage provision](part-iv/section-117n.md)
 - [Section 117O — Designation of collective strategic sewerage provision](part-iv/section-117o.md)
 
-##### Offences[^key-d73d32580ee7418f6f65b50c4546197f]
+##### Offences[^c-d73d32580ee7418f6f65b50c4546197f]
 
 *Extent: E+W*
 
@@ -694,7 +694,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 117R — Sections 117P and 117Q: exemptions](part-iv/section-117r.md)
 - [Section 117S — Section 117R: supplementary](part-iv/section-117s.md)
 
-#### CHAPTER III — TRADE EFFLUENT[^c13219761][^key-e133afb0b2a7944daa676512ac258849][^key-d5e1161e643cd31e0d9ba511932768bb]
+#### CHAPTER III — TRADE EFFLUENT[^c13219761][^c-e133afb0b2a7944daa676512ac258849][^c-d5e1161e643cd31e0d9ba511932768bb]
 
 *Extent: E+W*
 
@@ -750,7 +750,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 141 — Interpretation of Chapter III.](part-iv/section-141.md)
 
-#### CHAPTER 4 — Storm overflows[^key-eae41505e805d44977b06719313e1b02]
+#### CHAPTER 4 — Storm overflows[^c-eae41505e805d44977b06719313e1b02]
 
 - [Section 141A — Storm overflow discharge reduction plan](part-iv/section-141a.md)
 - [Section 141B — Progress reports on storm overflow discharge reduction plan](part-iv/section-141b.md)
@@ -783,14 +783,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 143E — Rules under section 143B: guidance](part-v/section-143e.md)
 - [Section 144 — Liability of occupiers etc. for charges.](part-v/section-144.md)
 
-##### Rules about undertakers' charges[^key-7b7d9e18afca32aa3fb9845353bacfa8]
+##### Rules about undertakers' charges[^c-7b7d9e18afca32aa3fb9845353bacfa8]
 
 - [Section 144ZA — Rules about charges for connections etc](part-v/section-144za.md)
 - [Section 144ZB — Rules under section 144ZA: procedure](part-v/section-144zb.md)
 - [Section 144ZC — Rules under section 144ZA: minor or urgent revisions](part-v/section-144zc.md)
 - [Section 144ZD — Rules under section 144ZA: guidance](part-v/section-144zd.md)
 
-##### General guidance on charges[^key-3d31df64e8825865ebcf4cfd9d36860b]
+##### General guidance on charges[^c-3d31df64e8825865ebcf4cfd9d36860b]
 
 *Extent: E+W*
 
@@ -959,7 +959,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 204 — Provision of information to sewerage undertakers with respect to trade effluent discharges.](part-vii/section-204.md)
 - [Section 205 — Exchange of metering information between undertakers.](part-vii/section-205.md)
 
-#### Pollution incident reduction plans[^key-ff944838e3c2e5b57ad4a8dbe4aae30d]
+#### Pollution incident reduction plans[^c-ff944838e3c2e5b57ad4a8dbe4aae30d]
 
 - [Section 205A — Duty to prepare and publish plans](part-vii/section-205a.md)
 - [Section 205B — Implementation reports](part-vii/section-205b.md)
@@ -975,11 +975,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 207 — Provision of false information.](part-vii/section-207.md)
 
-### Part 7A — Further provision about regulation[^key-cf903621de5e1513a80183aecb9d1634]
+### Part 7A — Further provision about regulation[^c-cf903621de5e1513a80183aecb9d1634]
 
 *Extent: E+W+S+N.I.*
 
-#### Appeals relating to revisions of codes[^key-cf903621de5e1513a80183aecb9d1634]
+#### Appeals relating to revisions of codes[^c-cf903621de5e1513a80183aecb9d1634]
 
 - [Section 207A — Appeals to the CMA](part-7a/section-207a.md)
 - [Section 207B — Procedure on appeals](part-7a/section-207b.md)
@@ -1084,33 +1084,33 @@ SCHEDULES
 
 [^M_C_d47012e5-6ae7-42e0-a268-ac9d17c7cd7b]: Modification: Act: references to the Director General of Water Services (“the Director”, “him”, “he”) have effect as references to the Water Services Regulation Authority (“the Authority”, ”it”) (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)
 
-[^key-8b35694fc16b4f9a1b5f308c984c77dc]: Modification: Act applied (8.8.2017) by [The Wrexham Gas Fired Generating Station Order 2017 (S.I. 2017/766)](https://www.legislation.gov.uk/uksi/2017/766), [Sch. 9 para. 34](https://www.legislation.gov.uk/uksi/2017/766/schedule/9/paragraph/34)
+[^c-8b35694fc16b4f9a1b5f308c984c77dc]: Modification: Act applied (8.8.2017) by [The Wrexham Gas Fired Generating Station Order 2017 (S.I. 2017/766)](https://www.legislation.gov.uk/uksi/2017/766), [Sch. 9 para. 34](https://www.legislation.gov.uk/uksi/2017/766/schedule/9/paragraph/34)
 
 [^M_C_7c9e46e5-fbe0-455e-86d6-1d59c035c376]: Modification: Act applied (Isles of Scilly) (with modifications) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [4](https://www.legislation.gov.uk/uksi/2019/1259/article/4) (as amended (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [art. 6](https://www.legislation.gov.uk/uksi/2020/214/article/6))
 
 [^M_C_69f6ffd4-9f4f-4788-be4d-64ecdec857ed]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-4997e2cae3c460dff77faea88b43a291]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/56): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-4997e2cae3c460dff77faea88b43a291]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/56): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
 [^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]: Textual amendment: Words in Act substituted (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)
 
-[^key-81e4211560e1d1d6de14fbc2a7b4eacb]: Textual amendment: Ss. 12A-12I and cross-heading inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
+[^c-81e4211560e1d1d6de14fbc2a7b4eacb]: Textual amendment: Ss. 12A-12I and cross-heading inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
 
-[^key-fd222f23aa5ea815f7abc20e0afd7acd]: Textual amendment: S. 13 cross-heading substituted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
+[^c-fd222f23aa5ea815f7abc20e0afd7acd]: Textual amendment: S. 13 cross-heading substituted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
 
-[^key-a89f8bdb73191be8b8a20198b1e863f8]: Textual amendment: [S. 17 cross-heading](https://www.legislation.gov.uk/ukpga/1991/56/part/II/chapter/I/crossheading/modification-of-appointment-conditions) inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/5), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
+[^c-a89f8bdb73191be8b8a20198b1e863f8]: Textual amendment: [S. 17 cross-heading](https://www.legislation.gov.uk/ukpga/1991/56/part/II/chapter/I/crossheading/modification-of-appointment-conditions) inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/5), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
 
-[^key-5d9cff2f2600e1fd120ed1aa4403841c]: Modification: Pt. 2 Ch. 1A applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/3/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-5d9cff2f2600e1fd120ed1aa4403841c]: Modification: Pt. 2 Ch. 1A applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/3/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
-[^key-fefe68b9c823e3775c44a2127623105b]: Modification: Pt. 2 Ch. 1A applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-fefe68b9c823e3775c44a2127623105b]: Modification: Pt. 2 Ch. 1A applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^M_C_4cbdeae5-e136-4598-9815-1e447d187870]: Modification: Pt. 2 Ch. 1A applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/4) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c)) (as amended (10.1.2015) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2015 (S.I. 2015/22)](https://www.legislation.gov.uk/uksi/2015/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/22/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/22/regulation/3))
 
-[^key-0f41f6d7594dacc196fcc59790352357]: Modification: Pt. 2 Ch. 1A modified (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/3/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-0f41f6d7594dacc196fcc59790352357]: Modification: Pt. 2 Ch. 1A modified (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/3/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c19901781]: Textual amendment: Pt. 2 Ch. 1A inserted (1.4.2004 for specified provisions and purposes and 1.8.2005 for further specified provisions and purposes and 1.10.2005 for further specified provisions and 1.12.2005 otherwise) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 56](https://www.legislation.gov.uk/ukpga/2003/37/section/56), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/4/paragraph/2); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/641/article/3/l), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/641/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/968/article/3/b) (with savings in [art. 4](https://www.legislation.gov.uk/uksi/2005/968/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/968/schedule/1), [2](https://www.legislation.gov.uk/uksi/2005/968/schedule/2)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(h)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/h), [3(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/a) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/5))
 
-[^key-3caa8b1dcc311c364ddb9378f1d6c4c2]: Textual amendment: Pt. 2 Ch. 1A heading substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/9); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-3caa8b1dcc311c364ddb9378f1d6c4c2]: Textual amendment: Pt. 2 Ch. 1A heading substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/9); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
 [^c19768381]: Textual amendment: Ss. 22A-22F and preceding cross-heading inserted (1.10.2004 for specified purposes and otherwise 1.4.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/48/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/e) (with savings in [art. 4](https://www.legislation.gov.uk/uksi/2004/2528/article/4)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/i) (with savings in [art. 4](https://www.legislation.gov.uk/uksi/2005/968/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/968/schedule/1), [2](https://www.legislation.gov.uk/uksi/2005/968/schedule/2))
 
@@ -1120,47 +1120,47 @@ SCHEDULES
 
 [^c19917871]: Textual amendment: Ss. 30ZA, 30ZB and preceding cross-heading inserted (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/43/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/c) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/2/paragraph/8))
 
-[^key-488f8e11c5d50b842238e2b6ed05b7b0]: Textual amendment: [S. 35A cross-heading](https://www.legislation.gov.uk/ukpga/1991/56/part/II/chapter/III/crossheading/disclosure-of-arrangements-for-remuneration) substituted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/5/section/1/2), [17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/b)
+[^c-488f8e11c5d50b842238e2b6ed05b7b0]: Textual amendment: [S. 35A cross-heading](https://www.legislation.gov.uk/ukpga/1991/56/part/II/chapter/III/crossheading/disclosure-of-arrangements-for-remuneration) substituted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/5/section/1/2), [17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/b)
 
 [^c20149321]: Textual amendment: S. 35A and preceding cross-heading inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2003/37/section/50), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/g)
 
-[^key-31d126d4461da630caaca5cc976b7826]: Textual amendment: [S. 35E](https://www.legislation.gov.uk/ukpga/1991/56/section/35E) and cross-heading inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/5/section/2), [17(2)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/c)
+[^c-31d126d4461da630caaca5cc976b7826]: Textual amendment: [S. 35E](https://www.legislation.gov.uk/ukpga/1991/56/section/35E) and cross-heading inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/5/section/2), [17(2)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/c)
 
-[^key-f1c61a726dbbf5e9fed948ec95459976]: Textual amendment: Pt. 2A inserted (1.10.2010 for specified purposes) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/35/1), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-f1c61a726dbbf5e9fed948ec95459976]: Textual amendment: Pt. 2A inserted (1.10.2010 for specified purposes) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/35/1), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
 [^c13217851]: Modification: Part III: definition of "consumer" applied (01.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 176(7)](https://www.legislation.gov.uk/ukpga/1991/57/section/176/7), [225(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2).
 
 [^c13217861]: Modification: Part III: definition of "water fittings" applied (01.12.1991) by [Statutory Water Companies Act 1991 (c. 58, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/58), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/1991/58/section/15/1), [17(2)](https://www.legislation.gov.uk/ukpga/1991/58/section/17/2).
 
-[^key-f32aa8da0dc8a3c5d726c0bb5a9b2f3e]: Modification: Pt. 3 modified (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-f32aa8da0dc8a3c5d726c0bb5a9b2f3e]: Modification: Pt. 3 modified (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-bb1ed306cbb17b3e6b8ff65e442f95ee]: Modification: Pt. 3 functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-bb1ed306cbb17b3e6b8ff65e442f95ee]: Modification: Pt. 3 functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-6f0bf9cd38e49c5feb21d9458a7f94e4]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1991/56/part/3): functions etc. assigned to the Port Health Authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-6f0bf9cd38e49c5feb21d9458a7f94e4]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1991/56/part/3): functions etc. assigned to the Port Health Authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-db241ba4c42c8b6e447c5ac3a78cba82]: Textual amendment: Word in Pt. 3 Ch. 1 heading inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/46); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-db241ba4c42c8b6e447c5ac3a78cba82]: Textual amendment: Word in Pt. 3 Ch. 1 heading inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/46); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
 [^c19800051]: Textual amendment: Ss. 51A-51E and preceding cross-heading inserted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 92(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/92/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/641/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/641/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3))
 
 [^c19800321]: Textual amendment: Ss. 63AA-63AC and preceding cross-heading inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/17); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-5fc14cb6b045de14a6ab2ab8be9455dc]: Textual amendment: Words in s. 63AA cross-heading substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 62](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/62); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-5fc14cb6b045de14a6ab2ab8be9455dc]: Textual amendment: Words in s. 63AA cross-heading substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 62](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/62); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-974f6e885f56dcdc9ef28d6d1c45f9e0]: Modification: Pt. 3 Ch. 2A applied (3.10.2016) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) Regulations 2016 (S.I. 2016/744)](https://www.legislation.gov.uk/uksi/2016/744), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/744/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2016/744/regulation/38)
+[^c-974f6e885f56dcdc9ef28d6d1c45f9e0]: Modification: Pt. 3 Ch. 2A applied (3.10.2016) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) Regulations 2016 (S.I. 2016/744)](https://www.legislation.gov.uk/uksi/2016/744), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/744/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2016/744/regulation/38)
 
 [^c19901941]: Textual amendment: Pt. 3 Ch. 2A inserted (1.4.2004 for specified provisions and purposes and 1.12.2005 otherwise) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 56](https://www.legislation.gov.uk/ukpga/2003/37/section/56), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/4/paragraph/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/641/article/3/l), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/641/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/a) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/2/paragraph/8))
 
-[^key-85d13c0878349b979aef627000cd07cf]: Textual amendment: S. 66A-66C and cross-heading substituted (1.4.2017 for the substitution of ss. 66A, 66AA, 66C) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/1); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/i) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6), [12](https://www.legislation.gov.uk/uksi/2017/462/article/12))
+[^c-85d13c0878349b979aef627000cd07cf]: Textual amendment: S. 66A-66C and cross-heading substituted (1.4.2017 for the substitution of ss. 66A, 66AA, 66C) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/1); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/i) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6), [12](https://www.legislation.gov.uk/uksi/2017/462/article/12))
 
 [^c19800711]: Textual amendment: Words in s. 68 cross-heading inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 18(8)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/18/8); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-b02772c18f740463fb91db05ed679cf3]: Textual amendment: Words in s. 68 cross-heading substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/66); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-b02772c18f740463fb91db05ed679cf3]: Textual amendment: Words in s. 68 cross-heading substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/66); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-5708ed834230716edc4efbaa31b9865c]: Textual amendment: [S. 86 cross-heading](https://www.legislation.gov.uk/ukpga/1991/56/part/III/chapter/III/crossheading/assessors-for-the-enforcement-of-water-quality) substituted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2025/5/section/12/2), [17(2)(h)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/h)
+[^c-5708ed834230716edc4efbaa31b9865c]: Textual amendment: [S. 86 cross-heading](https://www.legislation.gov.uk/ukpga/1991/56/part/III/chapter/III/crossheading/assessors-for-the-enforcement-of-water-quality) substituted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2025/5/section/12/2), [17(2)(h)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/h)
 
 [^c14001061]: Textual amendment: [S. 86A](https://www.legislation.gov.uk/ukpga/1991/56/section/86A) inserted (1.7.1992) by [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), [s. 29](https://www.legislation.gov.uk/ukpga/1992/43/section/29); Competition and Service (Utilities) Act 1992 (Commencement No. 1) Order 1992, art. 3, Sch. Pt. I
 
-[^key-7be2f793cbc549f70befa3416a0f1b6f]: Modification: Pt. 3 Ch. 4 modified (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/37/1), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7be2f793cbc549f70befa3416a0f1b6f]: Modification: Pt. 3 Ch. 4 modified (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/37/1), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c13218821]: Textual amendment: Part IIIA (ss. 93A-93D) inserted (1.2.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 102](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/102) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 2](https://www.legislation.gov.uk/uksi/1996/186/article/2)
 
@@ -1168,19 +1168,19 @@ SCHEDULES
 
 [^c13218841]: Modification: Pt. IV saved (1.12.1991) by [Statutory Water Companies Act 1991 (c. 58, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/58), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1991/58/section/1/4), [17(2)](https://www.legislation.gov.uk/ukpga/1991/58/section/17/2).
 
-[^key-f90dc35e8b58ec45a6931a2447d77806]: Textual amendment: Word in Pt. 4 Ch. 1 heading inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/84); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-f90dc35e8b58ec45a6931a2447d77806]: Textual amendment: Word in Pt. 4 Ch. 1 heading inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/84); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
 [^c13219331]: Textual amendment: Cross heading and s. 101A inserted (1.2.1996 for specified purposes and otherwise 1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 103](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/103) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [arts. 2](https://www.legislation.gov.uk/uksi/1996/186/article/2), [3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-e7ab4d41335e4fe91a1207581abd3913]: Textual amendment: Ss. 110K-110O and cross-heading inserted (6.3.2017 for the insertion of s. 110K, 1.4.2017 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/58/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/58/article/3/2)); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(g)](https://www.legislation.gov.uk/uksi/2017/462/article/3/g)
+[^c-e7ab4d41335e4fe91a1207581abd3913]: Textual amendment: Ss. 110K-110O and cross-heading inserted (6.3.2017 for the insertion of s. 110K, 1.4.2017 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/58/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/58/article/3/2)); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(g)](https://www.legislation.gov.uk/uksi/2017/462/article/3/g)
 
-[^key-eac8bdc87543f5437a95961735260a88]: Textual amendment: S. 114A and cross-heading inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/1), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
+[^c-eac8bdc87543f5437a95961735260a88]: Textual amendment: S. 114A and cross-heading inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/1), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
 
 [^c13219731]: Textual amendment: S. 116A inserted (1.7.1992) by Competition and Service (Utilities) Act [1992 c. 43](https://www.legislation.gov.uk/ukpga/1992/43), [s.33](https://www.legislation.gov.uk/ukpga/1992/43/section/33); Competition and Service (Utilities) Act 1992 (Commencement No. 1) Order 1992, art. 3, Sch. Pt.I
 
-[^key-eb41592ca9d875d98e1b4af2769214b1]: Modification: Pt. 4 Ch. 2A applied (with modifications) (3.10.2016) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) Regulations 2016 (S.I. 2016/744)](https://www.legislation.gov.uk/uksi/2016/744), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/744/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2016/744/regulation/53)
+[^c-eb41592ca9d875d98e1b4af2769214b1]: Modification: Pt. 4 Ch. 2A applied (with modifications) (3.10.2016) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) Regulations 2016 (S.I. 2016/744)](https://www.legislation.gov.uk/uksi/2016/744), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/744/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2016/744/regulation/53)
 
-[^key-d73d32580ee7418f6f65b50c4546197f]: Textual amendment: Pt. 4 Ch. 2A inserted (1.9.2015 for the insertion of s. 117G (except s. 117G(2)(e)(7)), 1.9.2015 for the insertion of s. 117K (except s. 117K(2)(e)(8)), 1.4.2016 for the insertion of ss. 117G(2)(e), 117P(4), 117R, 117S, 1.9.2016 for the insertion of ss. 117I for specified purposes, 117J, 117K(2)(e)(8), 117L, 30.3.2017 for the insertion of s. 117G so far as not already in force and ss. 117F, 117H) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/4); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/773/article/3/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/773/article/5)); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/e); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [arts. 2(k)](https://www.legislation.gov.uk/uksi/2016/465/article/2/k), [3(f)](https://www.legislation.gov.uk/uksi/2016/465/article/3/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 16](https://www.legislation.gov.uk/uksi/2017/462/article/16)); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/462/article/2/d)
+[^c-d73d32580ee7418f6f65b50c4546197f]: Textual amendment: Pt. 4 Ch. 2A inserted (1.9.2015 for the insertion of s. 117G (except s. 117G(2)(e)(7)), 1.9.2015 for the insertion of s. 117K (except s. 117K(2)(e)(8)), 1.4.2016 for the insertion of ss. 117G(2)(e), 117P(4), 117R, 117S, 1.9.2016 for the insertion of ss. 117I for specified purposes, 117J, 117K(2)(e)(8), 117L, 30.3.2017 for the insertion of s. 117G so far as not already in force and ss. 117F, 117H) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/4); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/773/article/3/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/773/article/5)); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/e); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [arts. 2(k)](https://www.legislation.gov.uk/uksi/2016/465/article/2/k), [3(f)](https://www.legislation.gov.uk/uksi/2016/465/article/3/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 16](https://www.legislation.gov.uk/uksi/2017/462/article/16)); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/462/article/2/d)
 
 [^c13219761]: Modification: Pt. 4 Ch. 3 (ss. 118-141) amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 40](https://www.legislation.gov.uk/ukpga/1993/12/section/40), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 3 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/I/paragraph/8) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46)).
 
@@ -1188,15 +1188,15 @@ SCHEDULES
 
     Pt. 4 Ch. 3 (ss. 118-141): transfer of functions (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1995/25/section/2/2/b) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-e133afb0b2a7944daa676512ac258849]: Modification: Pt. 4 Ch. 3 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-e133afb0b2a7944daa676512ac258849]: Modification: Pt. 4 Ch. 3 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-d5e1161e643cd31e0d9ba511932768bb]: Modification: Pt. 4 Ch. 3 modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with regs. 1(3), 77-79, Sch. 4)
+[^c-d5e1161e643cd31e0d9ba511932768bb]: Modification: Pt. 4 Ch. 3 modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with regs. 1(3), 77-79, Sch. 4)
 
-[^key-eae41505e805d44977b06719313e1b02]: Textual amendment: Pt. 4 Ch. 4 inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/80/1), [147(2)(j)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/j) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-eae41505e805d44977b06719313e1b02]: Textual amendment: Pt. 4 Ch. 4 inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/80/1), [147(2)(j)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/j) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-7b7d9e18afca32aa3fb9845353bacfa8]: Textual amendment: [Ss. 144ZA-144ZD](https://www.legislation.gov.uk/ukpga/1991/56/section/144ZA) and cross-heading inserted (6.4.2015 for the insertion of s. 144ZD, 15.7.2015 for the insertion of s. 144ZB for specified purposes, 1.4.2016 for E. in so far as not already in force, 15.12.2017 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 17](https://www.legislation.gov.uk/ukpga/2014/21/section/17), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/b); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5)); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/465/article/2/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by S.I. 2017/462, art. 16); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/a)
+[^c-7b7d9e18afca32aa3fb9845353bacfa8]: Textual amendment: [Ss. 144ZA-144ZD](https://www.legislation.gov.uk/ukpga/1991/56/section/144ZA) and cross-heading inserted (6.4.2015 for the insertion of s. 144ZD, 15.7.2015 for the insertion of s. 144ZB for specified purposes, 1.4.2016 for E. in so far as not already in force, 15.12.2017 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 17](https://www.legislation.gov.uk/ukpga/2014/21/section/17), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/b); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5)); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/465/article/2/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by S.I. 2017/462, art. 16); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/a)
 
-[^key-3d31df64e8825865ebcf4cfd9d36860b]: Textual amendment: [Ss. 144ZE](https://www.legislation.gov.uk/ukpga/1991/56/section/144ZE), [144ZF](https://www.legislation.gov.uk/ukpga/1991/56/section/144ZF) inserted (1.1.2015 for W. for specified purposes, 6.4.2015 for W. for specified purposes, 1.4.2016 for E. in so far as not already in force, 15.12.2017 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 38](https://www.legislation.gov.uk/ukpga/2014/21/section/38), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3320/article/3)); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/773/article/6)); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(h)](https://www.legislation.gov.uk/uksi/2016/465/article/2/h) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by S.I. 2017/462, art. 16); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/b)
+[^c-3d31df64e8825865ebcf4cfd9d36860b]: Textual amendment: [Ss. 144ZE](https://www.legislation.gov.uk/ukpga/1991/56/section/144ZE), [144ZF](https://www.legislation.gov.uk/ukpga/1991/56/section/144ZF) inserted (1.1.2015 for W. for specified purposes, 6.4.2015 for W. for specified purposes, 1.4.2016 for E. in so far as not already in force, 15.12.2017 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 38](https://www.legislation.gov.uk/ukpga/2014/21/section/38), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3320/article/3)); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/773/article/6)); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(h)](https://www.legislation.gov.uk/uksi/2016/465/article/2/h) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by S.I. 2017/462, art. 16); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/b)
 
 [^c13220571]: Textual amendment: S. 144A and crossheading preceding it inserted (1.4.2000) by [1999 c. 9](https://www.legislation.gov.uk/ukpga/1999/9), [s. 6](https://www.legislation.gov.uk/ukpga/1999/9/section/6); [S.I. 1999/3440](https://www.legislation.gov.uk/uksi/1999/3440), [art. 3](https://www.legislation.gov.uk/uksi/1999/3440/article/3)
 
@@ -1206,6 +1206,6 @@ SCHEDULES
 
 [^c13220851]: Modification: Part VI: saved (01.12.1991) by [Statutory Water Companies Act 1991 (c. 58, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/58), [ss. 1(4)(5)](https://www.legislation.gov.uk/ukpga/1991/58/section/1/4/5), [17(2)](https://www.legislation.gov.uk/ukpga/1991/58/section/17/2)
 
-[^key-ff944838e3c2e5b57ad4a8dbe4aae30d]: Textual amendment: [Ss. 205A-205C](https://www.legislation.gov.uk/ukpga/1991/56/section/205A) and cross-heading inserted (23.6.2025 for E., 1.9.2025 for W.) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3), [17(3)(a)(4)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/a/4/a); [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/a); [S.I. 2025/936](https://www.legislation.gov.uk/uksi/2025/936), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/936/regulation/2/a)
+[^c-ff944838e3c2e5b57ad4a8dbe4aae30d]: Textual amendment: [Ss. 205A-205C](https://www.legislation.gov.uk/ukpga/1991/56/section/205A) and cross-heading inserted (23.6.2025 for E., 1.9.2025 for W.) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3), [17(3)(a)(4)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/a/4/a); [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/a); [S.I. 2025/936](https://www.legislation.gov.uk/uksi/2025/936), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/936/regulation/2/a)
 
-[^key-cf903621de5e1513a80183aecb9d1634]: Textual amendment: Pt. 7A inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/37/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/465/article/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-cf903621de5e1513a80183aecb9d1634]: Textual amendment: Pt. 7A inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/37/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/465/article/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Transfer of cases to new rules[^key-6ed419bfb83d17ed83ecd08489347412][^key-5717933834be10b1312a9b532e4c1b85]
+## 11. Transfer of cases to new rules[^c-6ed419bfb83d17ed83ecd08489347412][^c-5717933834be10b1312a9b532e4c1b85]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 (which makes provision for, and in connection with, enabling the Depa
 
 ## Annotations
 
-[^key-6ed419bfb83d17ed83ecd08489347412]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2008/10/section/11) in operation at 18.6.2014 for specified purposes by [S.R. 2014/175](https://www.legislation.gov.uk/nisr/2014/175), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/175/article/2/a)
+[^c-6ed419bfb83d17ed83ecd08489347412]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2008/10/section/11) in operation at 18.6.2014 for specified purposes by [S.R. 2014/175](https://www.legislation.gov.uk/nisr/2014/175), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/175/article/2/a)
 
-[^key-5717933834be10b1312a9b532e4c1b85]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2008/10/section/11) in operation at 30.6.2014 in so far as not already in operation by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), [art. 2](https://www.legislation.gov.uk/nisr/2014/194/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2014/194/article/3))
+[^c-5717933834be10b1312a9b532e4c1b85]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2008/10/section/11) in operation at 30.6.2014 in so far as not already in operation by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), [art. 2](https://www.legislation.gov.uk/nisr/2014/194/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2014/194/article/3))

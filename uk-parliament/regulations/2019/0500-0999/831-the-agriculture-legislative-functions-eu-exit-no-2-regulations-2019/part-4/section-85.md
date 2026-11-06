@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85.[^key-a2552ece5bbd2f99346dd265cd3f7f96]
+## 85.[^c-a2552ece5bbd2f99346dd265cd3f7f96]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 28(6), for the words from “Commission, in” to “implementing” 
 
 ## Annotations
 
-[^key-a2552ece5bbd2f99346dd265cd3f7f96]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-a2552ece5bbd2f99346dd265cd3f7f96]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)

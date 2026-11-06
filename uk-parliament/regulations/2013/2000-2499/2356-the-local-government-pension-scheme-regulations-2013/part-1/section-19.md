@@ -32,8 +32,8 @@ summary: ''
 - (d) continues as an active member in another employment held concurrently with the employment in which that person has ceased to be an active member; or
 - (e) is an active member and dies in service.
 
-(2) Where paragraph (1)(b)[^key-1897417a7be58b8907df16ac6ed7da89] applies the Scheme employer may direct payment out of the appropriate fund of a sum equal to all or part of the member's contributions to the member, the member's spouse, civil partner, cohabiting partner or any of the member's dependents.
+(2) Where paragraph (1)(b)[^c-1897417a7be58b8907df16ac6ed7da89] applies the Scheme employer may direct payment out of the appropriate fund of a sum equal to all or part of the member's contributions to the member, the member's spouse, civil partner, cohabiting partner or any of the member's dependents.
 
 ## Annotations
 
-[^key-1897417a7be58b8907df16ac6ed7da89]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/19/2) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/755/regulation/9)
+[^c-1897417a7be58b8907df16ac6ed7da89]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/19/2) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/755/regulation/9)

@@ -48,15 +48,15 @@ In accordance with sections 277(11) and 309(4) of and paragraphs 1(12) and 7(10)
 
 In accordance with sections 244(9), 277(12) and 309(5) of and paragraphs 1(13) and 7(11) of Schedule 12 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-6297556df821c7c035b20dd0c37b1f0d]
+## 1. Citation and commencement[^c-6297556df821c7c035b20dd0c37b1f0d]
 
 This Order may be cited as the Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 and comes into force on the day after the day on which it is made.
 
-## 2. Amendment of the Local Digital Television Programme Services Order 2012[^key-467aedc243570894f1f381c30763cf7f]
+## 2. Amendment of the Local Digital Television Programme Services Order 2012[^c-467aedc243570894f1f381c30763cf7f]
 
 The Schedule to the Local Digital Television Programme Services Order 2012 is amended as follows.
 
-**3.**[^key-0068a3ceb908c328c51be8743ca45f5e] In Part 1 (modifications of the Broadcasting Act 1996[^f00003]), in paragraph 10, in the section 19(3A) treated as inserted—
+**3.**[^c-0068a3ceb908c328c51be8743ca45f5e] In Part 1 (modifications of the Broadcasting Act 1996[^f00003]), in paragraph 10, in the section 19(3A) treated as inserted—
 
 - (a) at the end of paragraph (i), omit “and”;
 - (b) after paragraph (j) insert—
@@ -65,19 +65,19 @@ The Schedule to the Local Digital Television Programme Services Order 2012 is am
   >
   > - (k) where the licence holder is a producer within the meaning of article 3 of the Broadcasting (Independent Productions) Order 1991[^f00004], the licence holder provides OFCOM with such information as OFCOM may reasonably require for the purpose of determining whether the licence holder is an independent producer within the meaning of article 3(4) of that Order.
 
-**4.**[^key-93aeccef558afeb4fd6405ef5ceab68e] In Part 2 (modifications of Part 3 of the Communications Act 2003), after paragraph 13 insert—
+**4.**[^c-93aeccef558afeb4fd6405ef5ceab68e] In Part 2 (modifications of Part 3 of the Communications Act 2003), after paragraph 13 insert—
 
 > **13A.** Part 3 has effect as if section 309 (quotas for independent programmes) were omitted.
 
-## 5. Amendment of the Broadcasting (Independent Productions) Order 1991[^key-6570bfcffae55510690b5d4c58278b57]
+## 5. Amendment of the Broadcasting (Independent Productions) Order 1991[^c-6570bfcffae55510690b5d4c58278b57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6570bfcffae55510690b5d4c58278b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6570bfcffae55510690b5d4c58278b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6570bfcffae55510690b5d4c58278b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6570bfcffae55510690b5d4c58278b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6570bfcffae55510690b5d4c58278b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6570bfcffae55510690b5d4c58278b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Jeremy Hunt
 
@@ -119,16 +119,16 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [S.I. 2012/292](https://www.legislation.gov.uk/uksi/2012/292).
 
-[^key-6297556df821c7c035b20dd0c37b1f0d]: Commencement: Art. 1 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
+[^c-6297556df821c7c035b20dd0c37b1f0d]: Commencement: Art. 1 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
 
-[^key-467aedc243570894f1f381c30763cf7f]: Commencement: Art. 2 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
+[^c-467aedc243570894f1f381c30763cf7f]: Commencement: Art. 2 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
 
-[^key-0068a3ceb908c328c51be8743ca45f5e]: Commencement: Art. 3 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
+[^c-0068a3ceb908c328c51be8743ca45f5e]: Commencement: Art. 3 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
 
 [^f00003]: Footnote: [1996 c.55](https://www.legislation.gov.uk/ukpga/1996/55).
 
 [^f00004]: Footnote: [S.I. 1991/1408](https://www.legislation.gov.uk/uksi/1991/1408), as amended by [S.I. 1995/1925](https://www.legislation.gov.uk/uksi/1995/1925) and [S.I. 2003/1672](https://www.legislation.gov.uk/uksi/2003/1672). That Order has effect as if it were made under sections 277 and 309 of and paragraphs 1 and 7 of Schedule 12 to the Communications Act 2003, by virtue of paragraph 34 of Schedule 18 to that Act.
 
-[^key-93aeccef558afeb4fd6405ef5ceab68e]: Commencement: Art. 4 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
+[^c-93aeccef558afeb4fd6405ef5ceab68e]: Commencement: Art. 4 in force at 12.7.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1)
 
-[^key-6570bfcffae55510690b5d4c58278b57]: Textual amendment: Arts. 5-8 revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(e)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/e)
+[^c-6570bfcffae55510690b5d4c58278b57]: Textual amendment: Arts. 5-8 revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(e)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/e)

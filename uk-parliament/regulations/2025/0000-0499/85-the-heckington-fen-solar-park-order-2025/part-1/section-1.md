@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-d9c49942de03f56695abfacb679bf420]
+## 1. Citation and commencement[^c-d9c49942de03f56695abfacb679bf420]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Heckington Fen Solar Park Order 2025 and comes in
 
 ## Annotations
 
-[^key-d9c49942de03f56695abfacb679bf420]: Commencement: Art. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-d9c49942de03f56695abfacb679bf420]: Commencement: Art. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

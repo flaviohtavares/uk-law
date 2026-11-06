@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Note of variation of lease etc on register[^key-8b34c70f14efe31f1262ec1b8b5af4d4]
+## 78. Note of variation of lease etc on register[^c-8b34c70f14efe31f1262ec1b8b5af4d4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b34c70f14efe31f1262ec1b8b5af4d4]: Textual amendment: Rule 78 revoked (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/26) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-8b34c70f14efe31f1262ec1b8b5af4d4]: Textual amendment: Rule 78 revoked (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/26) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

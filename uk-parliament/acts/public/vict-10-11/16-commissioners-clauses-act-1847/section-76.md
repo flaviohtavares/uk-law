@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Register of mortgages to be kept and to be open to inspection.[^c5651601][^key-c4d52245715f88bc14a0966c315f706b][^key-c932cb2e4a669a8a1e5790c03ad24649]
+## 76. Register of mortgages to be kept and to be open to inspection.[^c5651601][^c-c4d52245715f88bc14a0966c315f706b][^c-c932cb2e4a669a8a1e5790c03ad24649]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ A register of mortgages or assignations in security shall be kept by the clerk t
 
     [S. 76](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/76) incorporated (E.W.S) (18.6.2001) by [S.I. 2001/2185](https://www.legislation.gov.uk/uksi/2001/2185), [art. 2](https://www.legislation.gov.uk/uksi/2001/2185/article/2)
 
-[^key-c4d52245715f88bc14a0966c315f706b]: Modification: Ss. 69-83 incorporated (E.W.S.) (1.6.2009) by [Berwick Upon Tweed Harbour Revision (Constitution) Order 2009 (S.I. 2009/1231)](https://www.legislation.gov.uk/uksi/2009/1231), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1231/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1231/article/2)
+[^c-c4d52245715f88bc14a0966c315f706b]: Modification: Ss. 69-83 incorporated (E.W.S.) (1.6.2009) by [Berwick Upon Tweed Harbour Revision (Constitution) Order 2009 (S.I. 2009/1231)](https://www.legislation.gov.uk/uksi/2009/1231), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1231/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1231/article/2)
 
-[^key-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

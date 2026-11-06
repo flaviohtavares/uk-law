@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24C. Application of section 25 in relation to decrofting directions[^key-a87550a71aa14afb50d24a8d7c76649b]
+## 24C. Application of section 25 in relation to decrofting directions[^c-a87550a71aa14afb50d24a8d7c76649b]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a87550a71aa14afb50d24a8d7c76649b]: Textual amendment: Ss. 24A-24D inserted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 1(2)](https://www.legislation.gov.uk/asp/2013/10/section/1/2), [3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6) (with [s. 5](https://www.legislation.gov.uk/asp/2013/10/section/5))
+[^c-a87550a71aa14afb50d24a8d7c76649b]: Textual amendment: Ss. 24A-24D inserted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 1(2)](https://www.legislation.gov.uk/asp/2013/10/section/1/2), [3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6) (with [s. 5](https://www.legislation.gov.uk/asp/2013/10/section/5))

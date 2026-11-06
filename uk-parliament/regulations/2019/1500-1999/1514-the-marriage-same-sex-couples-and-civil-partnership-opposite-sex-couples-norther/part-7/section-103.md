@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005[^key-b6dcad8c8c508ce8904a786c1cd0153f]
+## 103. Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005[^c-b6dcad8c8c508ce8904a786c1cd0153f]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In regulation 1(2) of the Pension Protection Fund (Compensation) Regulations (No
 
 ## Annotations
 
-[^key-b6dcad8c8c508ce8904a786c1cd0153f]: Commencement: Reg. 103 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-b6dcad8c8c508ce8904a786c1cd0153f]: Commencement: Reg. 103 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00166]: Footnote: [S.R. (N.I.) 2005/149](https://www.legislation.gov.uk/nisr/2005/149). In regulation 1(2), the definition of “relevant partner” was inserted by [S.R. (N.I.) 2005/357](https://www.legislation.gov.uk/nisr/2005/357) and substituted by [S.R. (N.I.) 2006/155](https://www.legislation.gov.uk/nisr/2006/155).

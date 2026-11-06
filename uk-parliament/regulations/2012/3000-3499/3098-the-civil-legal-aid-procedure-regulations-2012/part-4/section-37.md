@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-9e4e5f5646e2e05f5cc5bbf1d24f9913] When the Director makes a determination that an individual qualifies for Licensed Work, the Director must—
+(1)[^c-9e4e5f5646e2e05f5cc5bbf1d24f9913] When the Director makes a determination that an individual qualifies for Licensed Work, the Director must—
 
 - (a) issue a certificate recording the determination and send the certificate to the provider; and
 - (b) send a copy of the certificate to the individual.
@@ -31,7 +31,7 @@ summary: ''
   - (i) the individual;
   - (ii) where an application was made on behalf of a child or protected party, the person who is acting on behalf of the child or protected party; and
   - (iii) the provider;
-- (b) the date of the determination and, if different, the date on which the determination had effect[^key-32d4b11f8fa78511b7d3ad78eb9c176d];
+- (b) the date of the determination and, if different, the date on which the determination had effect[^c-32d4b11f8fa78511b7d3ad78eb9c176d];
 - (c) the form of civil legal services to which the determination relates;
 - (d) the matter in relation to which the civil legal services are to be available;
 - (e) the proceedings to which the determination relates;
@@ -60,12 +60,12 @@ summary: ''
 - (a) the amended certificate to the provider; and
 - (b) a copy of the amended certificate to the individual.
 
-(8) Where the Director withdraws a determination, the Director must withdraw the certificate recording that determination and (except where the provider, acting under an authorisation on behalf of the Director, has withdrawn the determination)[^key-fe7ecb005054c417efa99b2b5fd537c2] notify the provider.
+(8) Where the Director withdraws a determination, the Director must withdraw the certificate recording that determination and (except where the provider, acting under an authorisation on behalf of the Director, has withdrawn the determination)[^c-fe7ecb005054c417efa99b2b5fd537c2] notify the provider.
 
 ## Annotations
 
-[^key-9e4e5f5646e2e05f5cc5bbf1d24f9913]: Textual amendment: Reg. 37(1) substituted (23.6.2026) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2026 (S.I. 2026/573)](https://www.legislation.gov.uk/uksi/2026/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/573/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/573/regulation/2/2)
+[^c-9e4e5f5646e2e05f5cc5bbf1d24f9913]: Textual amendment: Reg. 37(1) substituted (23.6.2026) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2026 (S.I. 2026/573)](https://www.legislation.gov.uk/uksi/2026/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/573/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/573/regulation/2/2)
 
-[^key-32d4b11f8fa78511b7d3ad78eb9c176d]: Textual amendment: Words in reg. 37(2)(b) inserted (20.2.2019) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2019 (S.I. 2019/130)](https://www.legislation.gov.uk/uksi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/130/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/130/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/130/regulation/3))
+[^c-32d4b11f8fa78511b7d3ad78eb9c176d]: Textual amendment: Words in reg. 37(2)(b) inserted (20.2.2019) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2019 (S.I. 2019/130)](https://www.legislation.gov.uk/uksi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/130/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/130/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/130/regulation/3))
 
-[^key-fe7ecb005054c417efa99b2b5fd537c2]: Textual amendment: Words in reg. 37(8) inserted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))
+[^c-fe7ecb005054c417efa99b2b5fd537c2]: Textual amendment: Words in reg. 37(8) inserted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))

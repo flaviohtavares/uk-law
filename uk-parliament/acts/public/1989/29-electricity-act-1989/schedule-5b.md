@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5B — Reimbursement of persons who have met expenses[^key-b3a73e0b41f7a6751b7cdd76fdbe5fb4]
+## SCHEDULE 5B — Reimbursement of persons who have met expenses[^c-b3a73e0b41f7a6751b7cdd76fdbe5fb4]
 
 *Extent: E+W+S*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a73e0b41f7a6751b7cdd76fdbe5fb4]: Textual amendment: Sch. 5B inserted (E.W.S.) (6.4.2017) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/52/3), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2017/108](https://www.legislation.gov.uk/uksi/2017/108), [reg. 2](https://www.legislation.gov.uk/uksi/2017/108/regulation/2)
+[^c-b3a73e0b41f7a6751b7cdd76fdbe5fb4]: Textual amendment: Sch. 5B inserted (E.W.S.) (6.4.2017) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/52/3), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2017/108](https://www.legislation.gov.uk/uksi/2017/108), [reg. 2](https://www.legislation.gov.uk/uksi/2017/108/regulation/2)

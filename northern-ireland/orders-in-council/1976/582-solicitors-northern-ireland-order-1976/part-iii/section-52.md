@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Effect, notice and recording of orders of Disciplinary Committee[^key-69d04278d232d46015e0b20a983c5f3e][^key-1a13fd50ab8852b3b2236c76167abbc9]
+## 52. Effect, notice and recording of orders of Disciplinary Committee[^c-69d04278d232d46015e0b20a983c5f3e][^c-1a13fd50ab8852b3b2236c76167abbc9]
 
 *Extent: N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 - (a) under Article 51(1)(b) imposing a fine on a solicitor;
 - (b) under Article 51(1)(j), (k) or (l);
-- (c) under Article 51(3); [^key-48d7de752fa2f50094c7d23694379d45]...
-- (d)[^key-48d7de752fa2f50094c7d23694379d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) under Article 51(3); [^c-48d7de752fa2f50094c7d23694379d45]...
+- (d)[^c-48d7de752fa2f50094c7d23694379d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 , the registrar, if so required in writing by the Society or by any other party in whose favour the order was so made, shall lodge a duly authenticated copy of the order with the Registrar of the Court of Judicature[^c21337511], who shall forthwith cause such copy to be filed; and thereupon the order shall be of the like effect as a judgment of the High Court and enforceable accordingly.
 
@@ -59,15 +59,15 @@ a copy of the entry shall be furnished only—
 
 ## Annotations
 
-[^key-69d04278d232d46015e0b20a983c5f3e]: Modification: [Art. 52](https://www.legislation.gov.uk/nisi/1976/582/article/52) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ff)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ff)
+[^c-69d04278d232d46015e0b20a983c5f3e]: Modification: [Art. 52](https://www.legislation.gov.uk/nisi/1976/582/article/52) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ff)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ff)
 
-[^key-1a13fd50ab8852b3b2236c76167abbc9]: Modification: [Art. 52](https://www.legislation.gov.uk/nisi/1976/582/article/52) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
+[^c-1a13fd50ab8852b3b2236c76167abbc9]: Modification: [Art. 52](https://www.legislation.gov.uk/nisi/1976/582/article/52) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
 
 [^c17114801]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)
 
 [^c21337501]: Textual amendment: Words in [art. 52(1)](https://www.legislation.gov.uk/nisi/1976/582/article/52/1) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-48d7de752fa2f50094c7d23694379d45]: Textual amendment: [Art. 52(2)(d)](https://www.legislation.gov.uk/nisi/1976/582/article/52/2/d) and word repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(8)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/8), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-48d7de752fa2f50094c7d23694379d45]: Textual amendment: [Art. 52(2)(d)](https://www.legislation.gov.uk/nisi/1976/582/article/52/2/d) and word repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(8)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/8), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^c21337511]: Textual amendment: Words in [art. 52(2)](https://www.legislation.gov.uk/nisi/1976/582/article/52/2) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 

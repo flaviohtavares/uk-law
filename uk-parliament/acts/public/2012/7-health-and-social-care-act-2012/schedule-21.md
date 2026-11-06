@@ -24,53 +24,53 @@ Section 297
 
 ### National Health Service (Scotland) Act 1978 (c. 29)
 
-**1.**[^key-0e8ef3756caaec82b3064a6eae73f570][^key-8131c0accb61fda776e91512ddee7ab0] The National Health Service (Scotland) Act 1978 is amended as follows.
+**1.**[^c-0e8ef3756caaec82b3064a6eae73f570][^c-8131c0accb61fda776e91512ddee7ab0] The National Health Service (Scotland) Act 1978 is amended as follows.
 
 **2.** (1) Section 17A (NHS contracts) is amended as follows.
 
-(2)[^key-6a88dc6fa2f2d76b87297ce940c634ca] In subsection (1), in paragraph (b) for “(q)” substitute “(s)”.
+(2)[^c-6a88dc6fa2f2d76b87297ce940c634ca] In subsection (1), in paragraph (b) for “(q)” substitute “(s)”.
 
 (3) In subsection (2)—
 
-- (a)[^key-806347f15288f3a7ef3d3949a2168f98] after paragraph (c) insert —
+- (a)[^c-806347f15288f3a7ef3d3949a2168f98] after paragraph (c) insert —
 
   > - (ca) the Scottish Ministers;
 
   ,
-- (b)[^key-806347f15288f3a7ef3d3949a2168f98] for paragraph (f) substitute—
+- (b)[^c-806347f15288f3a7ef3d3949a2168f98] for paragraph (f) substitute—
 
   > - (f) Local Health Boards established under section 11 of the National Health Service (Wales) Act 2006;
 
   ,
-- (c)[^key-806347f15288f3a7ef3d3949a2168f98] for paragraph (ff) substitute—
+- (c)[^c-806347f15288f3a7ef3d3949a2168f98] for paragraph (ff) substitute—
 
   > - (fa) Special Health Authorities established under section 28 of the National Health Service Act 2006;
   > - (fb) Special Health Authorities established under section 22 of the National Health Service (Wales) Act 2006;
 
   ,
-- (d)[^key-6a88dc6fa2f2d76b87297ce940c634ca] omit paragraph (h),
-- (e)[^key-806347f15288f3a7ef3d3949a2168f98] before paragraph (k) insert—
+- (d)[^c-6a88dc6fa2f2d76b87297ce940c634ca] omit paragraph (h),
+- (e)[^c-806347f15288f3a7ef3d3949a2168f98] before paragraph (k) insert—
 
   > - (ja) the National Health Service Commissioning Board;
   > - (jb) clinical commissioning groups established under section 14D of the National Health Service Act 2006;
 
   ,
 - (f) in paragraph (k), for “section 5 of the National Health Service and Community Care Act 1990” substitute “section 18 of the National Health Service (Wales) Act 2006”,
-- (g)[^key-6a88dc6fa2f2d76b87297ce940c634ca] omit paragraph (ka),
-- (h)[^key-806347f15288f3a7ef3d3949a2168f98] after paragraph (m) insert—
+- (g)[^c-6a88dc6fa2f2d76b87297ce940c634ca] omit paragraph (ka),
+- (h)[^c-806347f15288f3a7ef3d3949a2168f98] after paragraph (m) insert—
 
   > - (ma) the Welsh Ministers;
 
   ,
-- (i)[^key-6a88dc6fa2f2d76b87297ce940c634ca] after paragraph (p) omit the “and,”,
-- (j)[^key-6a88dc6fa2f2d76b87297ce940c634ca] after paragraph (q) insert—
+- (i)[^c-6a88dc6fa2f2d76b87297ce940c634ca] after paragraph (p) omit the “and,”,
+- (j)[^c-6a88dc6fa2f2d76b87297ce940c634ca] after paragraph (q) insert—
 
   > - (r) the National Institute for Health and Care Excellence; and
   > - (s) the Health and Social Care Information Centre,
 
   .
 
-(4)[^key-6a88dc6fa2f2d76b87297ce940c634ca] After subsection (10) insert—
+(4)[^c-6a88dc6fa2f2d76b87297ce940c634ca] After subsection (10) insert—
 
 > (11) Subsection (12) applies where a person mentioned in subsection (2)(fa), (ja), (jb), (m), (r) or (s) is a party or prospective party to an arrangement or proposed arrangement which—
 >
@@ -105,7 +105,7 @@ Section 297
 > - (a) paragraph 1(2) of Schedule 2 to the National Health Service (Consequential Provisions) Act 2006, or
 > - (b) the power under section 28 of the National Health Service Act 2006 and the power under section 22 of the National Health Service (Wales) Act 2006 being exercised together.
 
-**3.**[^key-79b078926f2ef64f07b2a2e85476b2b8] (1) Section 17C (personal medical or dental services) is amended as follows.
+**3.**[^c-79b078926f2ef64f07b2a2e85476b2b8] (1) Section 17C (personal medical or dental services) is amended as follows.
 
 (2) In subsection (5)—
 
@@ -124,16 +124,16 @@ Section 297
 
 **4.** In section 17D (persons with whom agreements under section 17C may be made), in subsection (2), in paragraph (b) of the definition of “NHS employee”—
 
-- (a)[^key-30695f9f2ddd59be8695a0da0cf23d94] in sub-paragraph (ii) omit “a Primary Care Trust or”,
+- (a)[^c-30695f9f2ddd59be8695a0da0cf23d94] in sub-paragraph (ii) omit “a Primary Care Trust or”,
 - (b) in sub-paragraph (iii)—
   - (i) after “NHS trust” insert “within the meaning of the National Health Service Act (Wales) 2006”, and
-- (c)[^key-30695f9f2ddd59be8695a0da0cf23d94] omit the words from “and in this paragraph” to the end.
+- (c)[^c-30695f9f2ddd59be8695a0da0cf23d94] omit the words from “and in this paragraph” to the end.
 
 ### National Health Service Act 2006 (c. 41)
 
-**5.**[^key-fdd3eededa1d97ceae8e23e49837d604][^key-d1e3b158a2a5913f4564b02693132632] The National Health Service Act 2006 is amended as follows.
+**5.**[^c-fdd3eededa1d97ceae8e23e49837d604][^c-d1e3b158a2a5913f4564b02693132632] The National Health Service Act 2006 is amended as follows.
 
-**6.**[^key-2808ab42c6ae6daacf8fef40bcdcca72] In section 9 (NHS contracts), in subsection (4)—
+**6.**[^c-2808ab42c6ae6daacf8fef40bcdcca72] In section 9 (NHS contracts), in subsection (4)—
 
 - (a) after paragraph (f) insert—
 
@@ -147,7 +147,7 @@ Section 297
 
   .
 
-**7.**[^key-7458a042005c610c6c9a1c2f22ac6440] After section 10 (provision about NHS contracts entered into by a body in Northern Ireland) insert—
+**7.**[^c-7458a042005c610c6c9a1c2f22ac6440] After section 10 (provision about NHS contracts entered into by a body in Northern Ireland) insert—
 
 > **10A. Provision for bodies in Scotland**
 >
@@ -212,41 +212,41 @@ Section 297
 
 (3) Until the commencement of section 34 of this Act, subsection (1) of section 68 of the National Health Service Act 2006 has effect as if it included a reference to Primary Care Trusts.
 
-**11.**[^key-0e71355a5934ae2e225f7d183c3233cc] In section 78 (directed partnership arrangements), in subsection (3)—
+**11.**[^c-0e71355a5934ae2e225f7d183c3233cc] In section 78 (directed partnership arrangements), in subsection (3)—
 
 - (a) in paragraph (c) after “NHS trusts” insert “established under section 25”, and
 - (b) omit paragraph (d).
 
 ### National Health Service (Wales) Act 2006 (c. 42)
 
-**12.**[^key-32418241fe302cdea7f2b29663e17244][^key-c8761815601f269db5de6bd3f9f526f5] The National Health Service (Wales) Act 2006 is amended as follows.
+**12.**[^c-32418241fe302cdea7f2b29663e17244][^c-c8761815601f269db5de6bd3f9f526f5] The National Health Service (Wales) Act 2006 is amended as follows.
 
 **Not yet in force.**
 
 **13.** In section 7 (NHS contracts), in subsection (4)—
 
-- (a)[^key-bf78a62358e5f7fa8e073a2042ff3fae] omit paragraph (a),
-- (b)[^key-bf78a62358e5f7fa8e073a2042ff3fae] omit paragraph (b),
-- (c)[^key-b8c7cf1b459c3eea08a468d4778219fc] before paragraph (c) insert—
+- (a)[^c-bf78a62358e5f7fa8e073a2042ff3fae] omit paragraph (a),
+- (b)[^c-bf78a62358e5f7fa8e073a2042ff3fae] omit paragraph (b),
+- (c)[^c-b8c7cf1b459c3eea08a468d4778219fc] before paragraph (c) insert—
 
   > - (ba) the National Health Service Commissioning Board,
   > - (bb) a clinical commissioning group,
 
   ,
-- (d)[^key-b8c7cf1b459c3eea08a468d4778219fc] after paragraph (f) insert—
+- (d)[^c-b8c7cf1b459c3eea08a468d4778219fc] after paragraph (f) insert—
 
   > - (fa) a Special Health Board constituted under that section,
 
   ,
-- (e)[^key-b8c7cf1b459c3eea08a468d4778219fc] omit paragraph (j), and
-- (f)[^key-b8c7cf1b459c3eea08a468d4778219fc] after paragraph (n) insert—
+- (e)[^c-b8c7cf1b459c3eea08a468d4778219fc] omit paragraph (j), and
+- (f)[^c-b8c7cf1b459c3eea08a468d4778219fc] after paragraph (n) insert—
 
   > - (na) the Scottish Ministers,
   > - (nb) Healthcare Improvement Scotland,
 
   .
 
-**14.**[^key-350a1c4b33c0c710738a918023986794] After section 8 insert—
+**14.**[^c-350a1c4b33c0c710738a918023986794] After section 8 insert—
 
 > **8A. Provision for bodies in Scotland**
 >
@@ -275,9 +275,9 @@ Section 297
 > - (a) paragraph 1(2) of Schedule 2 to the National Health Service (Consequential Provisions) Act 2006, or
 > - (b) the power under section 28 of the National Health Service Act 2006 and the power under section 22 of the National Health Service (Wales) Act 2006 being exercised together.
 
-**15.**[^key-248898382fddc436a2719e290373b8b0] In section 10 (Welsh Ministers' arrangements with other bodies), in subsection (4) omit paragraph (b).
+**15.**[^c-248898382fddc436a2719e290373b8b0] In section 10 (Welsh Ministers' arrangements with other bodies), in subsection (4) omit paragraph (b).
 
-**16.**[^key-9c9b32f3e87259eec9c139a5e626c25e] In section 13 (exercise of Local Health Board functions), in subsection (3)—
+**16.**[^c-9c9b32f3e87259eec9c139a5e626c25e] In section 13 (exercise of Local Health Board functions), in subsection (3)—
 
 - (a) omit paragraph (a), and
 - (b) before paragraph (b) insert—
@@ -287,7 +287,7 @@ Section 297
 
   .
 
-**17.**[^key-6b549fbd8735ef10672ebad1527e2cb6] In section 17 (plans for improving health etc), in subsection (6)—
+**17.**[^c-6b549fbd8735ef10672ebad1527e2cb6] In section 17 (plans for improving health etc), in subsection (6)—
 
 - (a) in paragraph (g)—
   - (i) after “between” insert “the National Health Service Commissioning Board, clinical commissioning groups,”,
@@ -300,29 +300,29 @@ Section 297
   - (iii) omit “Primary Care Trusts”, and
   - (iv) for “section 24 of the National Health Service Act 2006 (c. 41)” substitute “joint health and wellbeing strategies under section 116A of the Local Government and Public Involvement in Health Act 2007”.
 
-**18.**[^key-bc658576be9964f08492ee8e09e51f17] In section 22 (special health authorities), omit subsection (6).
+**18.**[^c-bc658576be9964f08492ee8e09e51f17] In section 22 (special health authorities), omit subsection (6).
 
-**19.**[^key-5f0d3ecd1db6067b20eae835c6467031] In section 26 (intervention orders), in subsection (1) after “other than” insert “the National Health Service Commissioning Board, clinical commissioning groups and”.
+**19.**[^c-5f0d3ecd1db6067b20eae835c6467031] In section 26 (intervention orders), in subsection (1) after “other than” insert “the National Health Service Commissioning Board, clinical commissioning groups and”.
 
-**20.**[^key-2cf8935c51c64f03995cceded5d900d8] In section 27 (effect of intervention orders), in subsection (1)—
+**20.**[^c-2cf8935c51c64f03995cceded5d900d8] In section 27 (effect of intervention orders), in subsection (1)—
 
 - (a) omit “Strategic Health Authority,” in each place it occurs, and
 - (b) omit “Primary Care Trust,” in each place it occurs.
 
-**21.**[^key-d9af01d7cf8d3e808961a99b1ef71122] In section 28 (default powers), in subsection (1) after “other than” insert “the National Health Service Commissioning Board, clinical commissioning groups and”.
+**21.**[^c-d9af01d7cf8d3e808961a99b1ef71122] In section 28 (default powers), in subsection (1) after “other than” insert “the National Health Service Commissioning Board, clinical commissioning groups and”.
 
-**22.**[^key-cb3f65a7e6e58d676aacaa71cd217803] In section 34 (power of local authorities to make payments), in subsection (1)—
+**22.**[^c-cb3f65a7e6e58d676aacaa71cd217803] In section 34 (power of local authorities to make payments), in subsection (1)—
 
 - (a) after “payments to” insert “the National Health Service Commissioning Board, a clinical commissioning group”,
 - (b) omit “a Strategic Health Authority,”, and
 - (c) omit “a Primary Care Trust”.
 
-**23.**[^key-97222f942e134f171907212225634363] In section 36 (directed partnership arrangements), in subsection (3)—
+**23.**[^c-97222f942e134f171907212225634363] In section 36 (directed partnership arrangements), in subsection (3)—
 
 - (a) omit paragraph (a), and
 - (b) omit paragraph (b).
 
-**24.**[^key-2b5430374b813b50a0cdc71ea1e7ce8b] (1) Section 38 (supply of goods and services by the Welsh Ministers) is amended as follows.
+**24.**[^c-2b5430374b813b50a0cdc71ea1e7ce8b] (1) Section 38 (supply of goods and services by the Welsh Ministers) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -333,32 +333,32 @@ Section 297
 
 (4) In subsection (7), in paragraph (d) omit “, Primary Care Trusts”.
 
-**25.**[^key-c1e4df274c2a10a5f333e26cb7b9eb65] In section 39 (conditions of supply under section 38), in subsection (3), omit “Primary Care Trusts,”.
+**25.**[^c-c1e4df274c2a10a5f333e26cb7b9eb65] In section 39 (conditions of supply under section 38), in subsection (3), omit “Primary Care Trusts,”.
 
-**26.**[^key-7cce8f6862ab5894b3a1e20ea885fd05] In section 41 (duty to provide primary medical services), omit subsection (4).
+**26.**[^c-7cce8f6862ab5894b3a1e20ea885fd05] In section 41 (duty to provide primary medical services), omit subsection (4).
 
-**27.**[^key-ac7d5c0204e063ba1dc0a0ac142a415a] (1) Section 51 (persons with whom agreements for provision of primary medical services may be made) is amended as follows.
-
-(2) In subsection (1)(g), omit “Primary Care Trust or”.
-
-(3) In subsection (3), in paragraph (b) of the definition of “NHS employee”, omit “Primary Care Trust or”.
-
-**28.**[^key-e72af66083efd94e60edf5daf90d2fcd] In section 56 (primary dental services), omit subsection (4).
-
-**29.**[^key-0a9456136ad411f9cfd0de020cb35bb9] (1) Section 65 (persons with whom agreements for provision of primary dental services may be made) is amended as follows.
+**27.**[^c-ac7d5c0204e063ba1dc0a0ac142a415a] (1) Section 51 (persons with whom agreements for provision of primary medical services may be made) is amended as follows.
 
 (2) In subsection (1)(g), omit “Primary Care Trust or”.
 
 (3) In subsection (3), in paragraph (b) of the definition of “NHS employee”, omit “Primary Care Trust or”.
 
-**30.**[^key-f3fdb341667bc8c88f9e359d3fc9a9f2] In section 106 (provision about regulations under section 105), in subsection (2)—
+**28.**[^c-e72af66083efd94e60edf5daf90d2fcd] In section 56 (primary dental services), omit subsection (4).
+
+**29.**[^c-0a9456136ad411f9cfd0de020cb35bb9] (1) Section 65 (persons with whom agreements for provision of primary dental services may be made) is amended as follows.
+
+(2) In subsection (1)(g), omit “Primary Care Trust or”.
+
+(3) In subsection (3), in paragraph (b) of the definition of “NHS employee”, omit “Primary Care Trust or”.
+
+**30.**[^c-f3fdb341667bc8c88f9e359d3fc9a9f2] In section 106 (provision about regulations under section 105), in subsection (2)—
 
 - (a) omit paragraph (e), and
 - (b) after paragraph (e) insert—
 
   > - (f) a list corresponding to a list mentioned in any of paragraphs (a) to (d) prepared by the National Health Service Commissioning Board under or by virtue of the National Health Service Act 2006,
 
-**31.**[^key-020153d08b77571b87988aee5396a058] (1) Section 115 (national disqualification) is amended as follows.
+**31.**[^c-020153d08b77571b87988aee5396a058] (1) Section 115 (national disqualification) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -378,16 +378,16 @@ Section 297
   - (i) omit “and each Primary Care Trust”, and
   - (ii) after “included” insert “, and the National Health Service Commissioning Board,”.
 
-**32.**[^key-ce864e0a850c5d62de7b967040a013d7] In section 131 (payment of travelling expenses), in paragraph (c) omit “, and, in such cases as may be prescribed, to a Primary Care Trust,”.
+**32.**[^c-ce864e0a850c5d62de7b967040a013d7] In section 131 (payment of travelling expenses), in paragraph (c) omit “, and, in such cases as may be prescribed, to a Primary Care Trust,”.
 
-**33.**[^key-aef0cea839be9fa04a6654b878aefff6] In section 144 (persons and bodies about which provision is made), in subsection (2) for “section 22(6)” substitute “section 206(1)”.
+**33.**[^c-aef0cea839be9fa04a6654b878aefff6] In section 144 (persons and bodies about which provision is made), in subsection (2) for “section 22(6)” substitute “section 206(1)”.
 
-**34.**[^key-3624321a4e5c58f9f094c1c819e10050] In section 161 (transfers of trust property), in subsection (2)(c)—
+**34.**[^c-3624321a4e5c58f9f094c1c819e10050] In section 161 (transfers of trust property), in subsection (2)(c)—
 
-- (a)[^key-553b8d23bcd73fc55ea5567836e2b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-553b8d23bcd73fc55ea5567836e2b08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit “a Primary Care Trust,”
 
-**35.**[^key-36c55b42726f00e2a6c8f899b0fdd38b] (1) Section 162 (transfer of functions and property to or from special trustees) is amended as follows.
+**35.**[^c-36c55b42726f00e2a6c8f899b0fdd38b] (1) Section 162 (transfer of functions and property to or from special trustees) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -396,15 +396,15 @@ Section 297
 
 (3) In subsection (3)(a)—
 
-- (a)[^key-0082b1be76bb5f41010c57c6f39b3d4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0082b1be76bb5f41010c57c6f39b3d4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit “a Primary Care Trust,”.
 
-**36.**[^key-ea6b8c15e0dde9132503301724ca73b7] In section 181 (payment for medical examination before application for admission to hospital under the Mental Health Act), in subsection (2)(b)—
+**36.**[^c-ea6b8c15e0dde9132503301724ca73b7] In section 181 (payment for medical examination before application for admission to hospital under the Mental Health Act), in subsection (2)(b)—
 
 - (a) omit “a Primary Care Trust,”, and
 - (b) before “NHS trust” insert “an”.
 
-**37.**[^key-61428bd3a9e3e926738cda87520e3965] In section 197 (university clinical teaching and research), in subsection (2)(a)—
+**37.**[^c-61428bd3a9e3e926738cda87520e3965] In section 197 (university clinical teaching and research), in subsection (2)(a)—
 
 - (a) after “exercisable by” insert “the National Health Service Commissioning Board,”,
 - (b) after “a” insert “clinical commissioning group,”,
@@ -413,12 +413,12 @@ Section 297
 
 **38.** (1) In section 206 (interpretation), in subsection (1)—
 
-- (a)[^key-d628106abddb1984ce87ec3682f23b5b] before the definition of “dental practitioner” insert—
+- (a)[^c-d628106abddb1984ce87ec3682f23b5b] before the definition of “dental practitioner” insert—
 
   > “**clinical commissioning group**” means a body established under section 14D of the National Health Service Act 2006,
 
   ,
-- (b)[^key-d628106abddb1984ce87ec3682f23b5b] after the definition of “modifications” insert—
+- (b)[^c-d628106abddb1984ce87ec3682f23b5b] after the definition of “modifications” insert—
 
   > “**NHS body**” means—
   >
@@ -428,18 +428,18 @@ Section 297
   > - (d) a Local Health Board,
   > - (e) the National Health Service Commissioning Board, and
   > - (f) a clinical commissioning group.
-- (c)[^key-3669172aa8e6716f1129b7f8bad5cd56] omit the definition of “Primary Care Trust”, and
-- (d)[^key-3669172aa8e6716f1129b7f8bad5cd56] omit the definition of “Strategic Health Authority”.
+- (c)[^c-3669172aa8e6716f1129b7f8bad5cd56] omit the definition of “Primary Care Trust”, and
+- (d)[^c-3669172aa8e6716f1129b7f8bad5cd56] omit the definition of “Strategic Health Authority”.
 
-(2)[^key-d628106abddb1984ce87ec3682f23b5b] Until the commencement of section 34 of this Act, the definition of “NHS body” in section 206(1) of the National Health Service (Wales) Act 2006 has effect as if it included a reference to a Primary Care Trust.
+(2)[^c-d628106abddb1984ce87ec3682f23b5b] Until the commencement of section 34 of this Act, the definition of “NHS body” in section 206(1) of the National Health Service (Wales) Act 2006 has effect as if it included a reference to a Primary Care Trust.
 
-**39.**[^key-c309dbed1db66d33a931c12237a7f812] In Schedule 2 (Local Health Boards), in paragraph 9—
+**39.**[^c-c309dbed1db66d33a931c12237a7f812] In Schedule 2 (Local Health Boards), in paragraph 9—
 
 - (a) omit “Strategic Health Authorities and”,
 - (b) omit “under paragraph 7(8) of Schedule 2 to the National Health Service Act 2006 (c. 41) and”, and
 - (c) for “that Act” substitute “the National Health Service Act 2006”.
 
-**40.**[^key-8780fe429b477ea806f5ddc1ea028f54] (1) Schedule 3 (NHS trusts) is amended as follows.
+**40.**[^c-8780fe429b477ea806f5ddc1ea028f54] (1) Schedule 3 (NHS trusts) is amended as follows.
 
 (2) In paragraph 5(1)(f) omit “Primary Care Trust,”.
 
@@ -478,7 +478,7 @@ Section 297
 - (a) omit “Strategic Health Authority,”, and
 - (b) omit “Primary Care Trust,”.
 
-**41.**[^key-730adf19e5a3442fe3967d61831f7264] (1) Schedule 5 (Special Health Authorities) is amended as follows.
+**41.**[^c-730adf19e5a3442fe3967d61831f7264] (1) Schedule 5 (Special Health Authorities) is amended as follows.
 
 (2) In paragraph 3—
 
@@ -491,7 +491,7 @@ Section 297
 
 (3) In paragraph 13, for “a Strategic Health Authority” substitute “the National Health Service Commissioning Board”.
 
-**42.**[^key-bbce863abe40c2fe0e53e8f3ecf9dbe1] (1) Schedule 10 (further provision about Community Health Councils) is amended as follows.
+**42.**[^c-bbce863abe40c2fe0e53e8f3ecf9dbe1] (1) Schedule 10 (further provision about Community Health Councils) is amended as follows.
 
 (2) In paragraph 2—
 
@@ -505,15 +505,15 @@ Section 297
 
 ### Health and Personal Social Services (Northern Ireland) Order 1991 (No. 194 (N.I. 1))
 
-**43.** (1)[^key-2ee88ea57df7e9c341cbb33d53fff5d3][^key-c167146a6c58404eb12c0f8863904fe0] Article 8 of the Health and Personal Social Services (Northern Ireland) Order 1991 (health and social services contracts) is amended as follows.
+**43.** (1)[^c-2ee88ea57df7e9c341cbb33d53fff5d3][^c-c167146a6c58404eb12c0f8863904fe0] Article 8 of the Health and Personal Social Services (Northern Ireland) Order 1991 (health and social services contracts) is amended as follows.
 
 (2) In paragraph (2)—
 
 - (a) in sub-paragraph (g)—
-  - (i)[^key-6e9830e8b20465596da8d0bd9f93891b] omit paragraph (i),
-  - (ii)[^key-6e9830e8b20465596da8d0bd9f93891b] omit paragraph (ii), and
+  - (i)[^c-6e9830e8b20465596da8d0bd9f93891b] omit paragraph (i),
+  - (ii)[^c-6e9830e8b20465596da8d0bd9f93891b] omit paragraph (ii), and
   - (iii) omit paragraph (iii),
-- (b)[^key-621675a6957636c3217ea51529f6deef] after that sub-paragraph insert—
+- (b)[^c-621675a6957636c3217ea51529f6deef] after that sub-paragraph insert—
 
   > - (ga) the National Health Service Commissioning Board;
   > - (gb) clinical commissioning groups established under section 14D of the National Health Service Act 2006;
@@ -523,128 +523,128 @@ Section 297
   > - (gf) NHS trusts established under section 18 of that Act;
 
   ,
-- (c)[^key-1e86ecebe74a0ce1b263352260f79b2d] in sub-paragraph (h) after paragraph (i) insert—
+- (c)[^c-1e86ecebe74a0ce1b263352260f79b2d] in sub-paragraph (h) after paragraph (i) insert—
 
   > - (ia) Special Health Boards;
 
   ,
-- (d)[^key-1e86ecebe74a0ce1b263352260f79b2d] after sub-paragraph (h) insert—
+- (d)[^c-1e86ecebe74a0ce1b263352260f79b2d] after sub-paragraph (h) insert—
 
   > - (ha) Healthcare Improvement Scotland,
 
   ,
-- (e)[^key-1e86ecebe74a0ce1b263352260f79b2d] omit sub-paragraph (i), and
-- (f)[^key-6e9830e8b20465596da8d0bd9f93891b] before sub-paragraph (j) insert—
+- (e)[^c-1e86ecebe74a0ce1b263352260f79b2d] omit sub-paragraph (i), and
+- (f)[^c-6e9830e8b20465596da8d0bd9f93891b] before sub-paragraph (j) insert—
 
   > - (ia) the National Institute for Health and Care Excellence;
   > - (ib) the Health and Social Care Information Centre;
 
   .
 
-(3)[^key-1e86ecebe74a0ce1b263352260f79b2d] In paragraph (10) for “paragraph 2(g), (h), (i) or (j)” substitute “any of sub-paragraphs (g) to (gf), (h), (ha), (ia), (ib) and (j) of paragraph (2)”.
+(3)[^c-1e86ecebe74a0ce1b263352260f79b2d] In paragraph (10) for “paragraph 2(g), (h), (i) or (j)” substitute “any of sub-paragraphs (g) to (gf), (h), (ha), (ia), (ib) and (j) of paragraph (2)”.
 
 ## Annotations
 
-[^key-0e8ef3756caaec82b3064a6eae73f570]: Commencement: Sch. 21 para. 1 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-0e8ef3756caaec82b3064a6eae73f570]: Commencement: Sch. 21 para. 1 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-8131c0accb61fda776e91512ddee7ab0]: Commencement: Sch. 21 para. 1 in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8131c0accb61fda776e91512ddee7ab0]: Commencement: Sch. 21 para. 1 in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-6a88dc6fa2f2d76b87297ce940c634ca]: Commencement: Sch. 21 para. 2(2)(3)(d)(g)(i)(j)(4) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6a88dc6fa2f2d76b87297ce940c634ca]: Commencement: Sch. 21 para. 2(2)(3)(d)(g)(i)(j)(4) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-806347f15288f3a7ef3d3949a2168f98]: Commencement: Sch. 21 para. 2(3)(a)-(c)(e)(h) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-806347f15288f3a7ef3d3949a2168f98]: Commencement: Sch. 21 para. 2(3)(a)-(c)(e)(h) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-79b078926f2ef64f07b2a2e85476b2b8]: Commencement: Sch. 21 para. 3 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-79b078926f2ef64f07b2a2e85476b2b8]: Commencement: Sch. 21 para. 3 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-30695f9f2ddd59be8695a0da0cf23d94]: Commencement: Sch. 21 para. 4(a)(c) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/160/article/3), [7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-30695f9f2ddd59be8695a0da0cf23d94]: Commencement: Sch. 21 para. 4(a)(c) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/160/article/3), [7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-fdd3eededa1d97ceae8e23e49837d604]: Commencement: Sch. 21 para. 5 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-fdd3eededa1d97ceae8e23e49837d604]: Commencement: Sch. 21 para. 5 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-d1e3b158a2a5913f4564b02693132632]: Commencement: Sch. 21 para. 5 in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d1e3b158a2a5913f4564b02693132632]: Commencement: Sch. 21 para. 5 in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-2808ab42c6ae6daacf8fef40bcdcca72]: Commencement: Sch. 21 para. 6 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-2808ab42c6ae6daacf8fef40bcdcca72]: Commencement: Sch. 21 para. 6 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-7458a042005c610c6c9a1c2f22ac6440]: Commencement: Sch. 21 para. 7 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7458a042005c610c6c9a1c2f22ac6440]: Commencement: Sch. 21 para. 7 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-0e71355a5934ae2e225f7d183c3233cc]: Commencement: Sch. 21 para. 11 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-0e71355a5934ae2e225f7d183c3233cc]: Commencement: Sch. 21 para. 11 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-32418241fe302cdea7f2b29663e17244]: Commencement: Sch. 21 para. 12 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-32418241fe302cdea7f2b29663e17244]: Commencement: Sch. 21 para. 12 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-c8761815601f269db5de6bd3f9f526f5]: Commencement: Sch. 21 para. 12 in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c8761815601f269db5de6bd3f9f526f5]: Commencement: Sch. 21 para. 12 in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-bf78a62358e5f7fa8e073a2042ff3fae]: Commencement: Sch. 21 para. 13(a)(b) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-bf78a62358e5f7fa8e073a2042ff3fae]: Commencement: Sch. 21 para. 13(a)(b) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-b8c7cf1b459c3eea08a468d4778219fc]: Commencement: Sch. 21 para. 13(c)-(f) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-b8c7cf1b459c3eea08a468d4778219fc]: Commencement: Sch. 21 para. 13(c)-(f) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-350a1c4b33c0c710738a918023986794]: Commencement: Sch. 21 para. 14 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-350a1c4b33c0c710738a918023986794]: Commencement: Sch. 21 para. 14 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-248898382fddc436a2719e290373b8b0]: Commencement: Sch. 21 para. 15 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-248898382fddc436a2719e290373b8b0]: Commencement: Sch. 21 para. 15 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-9c9b32f3e87259eec9c139a5e626c25e]: Commencement: Sch. 21 para. 16 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9c9b32f3e87259eec9c139a5e626c25e]: Commencement: Sch. 21 para. 16 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-6b549fbd8735ef10672ebad1527e2cb6]: Commencement: Sch. 21 para. 17 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6b549fbd8735ef10672ebad1527e2cb6]: Commencement: Sch. 21 para. 17 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-bc658576be9964f08492ee8e09e51f17]: Commencement: Sch. 21 para. 18 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-bc658576be9964f08492ee8e09e51f17]: Commencement: Sch. 21 para. 18 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-5f0d3ecd1db6067b20eae835c6467031]: Commencement: Sch. 21 para. 19 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-5f0d3ecd1db6067b20eae835c6467031]: Commencement: Sch. 21 para. 19 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-2cf8935c51c64f03995cceded5d900d8]: Commencement: Sch. 21 para. 20 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-2cf8935c51c64f03995cceded5d900d8]: Commencement: Sch. 21 para. 20 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-d9af01d7cf8d3e808961a99b1ef71122]: Commencement: Sch. 21 para. 21 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-d9af01d7cf8d3e808961a99b1ef71122]: Commencement: Sch. 21 para. 21 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-cb3f65a7e6e58d676aacaa71cd217803]: Commencement: Sch. 21 para. 22 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-cb3f65a7e6e58d676aacaa71cd217803]: Commencement: Sch. 21 para. 22 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-97222f942e134f171907212225634363]: Commencement: Sch. 21 para. 23 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-97222f942e134f171907212225634363]: Commencement: Sch. 21 para. 23 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-2b5430374b813b50a0cdc71ea1e7ce8b]: Commencement: Sch. 21 para. 24 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-2b5430374b813b50a0cdc71ea1e7ce8b]: Commencement: Sch. 21 para. 24 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c1e4df274c2a10a5f333e26cb7b9eb65]: Commencement: Sch. 21 para. 25 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c1e4df274c2a10a5f333e26cb7b9eb65]: Commencement: Sch. 21 para. 25 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-7cce8f6862ab5894b3a1e20ea885fd05]: Commencement: Sch. 21 para. 26 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7cce8f6862ab5894b3a1e20ea885fd05]: Commencement: Sch. 21 para. 26 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-ac7d5c0204e063ba1dc0a0ac142a415a]: Commencement: Sch. 21 para. 27 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-ac7d5c0204e063ba1dc0a0ac142a415a]: Commencement: Sch. 21 para. 27 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-e72af66083efd94e60edf5daf90d2fcd]: Commencement: Sch. 21 para. 28 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-e72af66083efd94e60edf5daf90d2fcd]: Commencement: Sch. 21 para. 28 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-0a9456136ad411f9cfd0de020cb35bb9]: Commencement: Sch. 21 para. 29 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-0a9456136ad411f9cfd0de020cb35bb9]: Commencement: Sch. 21 para. 29 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-f3fdb341667bc8c88f9e359d3fc9a9f2]: Commencement: Sch. 21 para. 30 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f3fdb341667bc8c88f9e359d3fc9a9f2]: Commencement: Sch. 21 para. 30 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-020153d08b77571b87988aee5396a058]: Commencement: Sch. 21 para. 31 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-020153d08b77571b87988aee5396a058]: Commencement: Sch. 21 para. 31 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-ce864e0a850c5d62de7b967040a013d7]: Commencement: Sch. 21 para. 32 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-ce864e0a850c5d62de7b967040a013d7]: Commencement: Sch. 21 para. 32 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-aef0cea839be9fa04a6654b878aefff6]: Commencement: Sch. 21 para. 33 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-aef0cea839be9fa04a6654b878aefff6]: Commencement: Sch. 21 para. 33 in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-3624321a4e5c58f9f094c1c819e10050]: Commencement: Sch. 21 para. 34 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3624321a4e5c58f9f094c1c819e10050]: Commencement: Sch. 21 para. 34 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-553b8d23bcd73fc55ea5567836e2b08a]: Textual amendment: [Sch. 21 para. 34(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/34/a) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/16/b); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-553b8d23bcd73fc55ea5567836e2b08a]: Textual amendment: [Sch. 21 para. 34(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/34/a) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/16/b); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-36c55b42726f00e2a6c8f899b0fdd38b]: Commencement: Sch. 21 para. 35 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-36c55b42726f00e2a6c8f899b0fdd38b]: Commencement: Sch. 21 para. 35 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-0082b1be76bb5f41010c57c6f39b3d4a]: Textual amendment: [Sch. 21 para. 35(3)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/35/3/a) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/16/b); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-0082b1be76bb5f41010c57c6f39b3d4a]: Textual amendment: [Sch. 21 para. 35(3)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/35/3/a) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/16/b); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-ea6b8c15e0dde9132503301724ca73b7]: Commencement: Sch. 21 para. 36 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-ea6b8c15e0dde9132503301724ca73b7]: Commencement: Sch. 21 para. 36 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-61428bd3a9e3e926738cda87520e3965]: Commencement: Sch. 21 para. 37 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-61428bd3a9e3e926738cda87520e3965]: Commencement: Sch. 21 para. 37 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-d628106abddb1984ce87ec3682f23b5b]: Commencement: Sch. 21 para. 38(1)(a)(b)(2) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4) (with [art. 13](https://www.legislation.gov.uk/uksi/2012/2657/article/13))
+[^c-d628106abddb1984ce87ec3682f23b5b]: Commencement: Sch. 21 para. 38(1)(a)(b)(2) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4) (with [art. 13](https://www.legislation.gov.uk/uksi/2012/2657/article/13))
 
-[^key-3669172aa8e6716f1129b7f8bad5cd56]: Commencement: Sch. 21 para. 38(1)(c)(d) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3669172aa8e6716f1129b7f8bad5cd56]: Commencement: Sch. 21 para. 38(1)(c)(d) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c309dbed1db66d33a931c12237a7f812]: Commencement: Sch. 21 para. 39 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c309dbed1db66d33a931c12237a7f812]: Commencement: Sch. 21 para. 39 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-8780fe429b477ea806f5ddc1ea028f54]: Commencement: Sch. 21 para. 40 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8780fe429b477ea806f5ddc1ea028f54]: Commencement: Sch. 21 para. 40 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-730adf19e5a3442fe3967d61831f7264]: Commencement: Sch. 21 para. 41 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-730adf19e5a3442fe3967d61831f7264]: Commencement: Sch. 21 para. 41 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-bbce863abe40c2fe0e53e8f3ecf9dbe1]: Commencement: Sch. 21 para. 42 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-bbce863abe40c2fe0e53e8f3ecf9dbe1]: Commencement: Sch. 21 para. 42 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-2ee88ea57df7e9c341cbb33d53fff5d3]: Commencement: Sch. 21 para. 43(1) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-2ee88ea57df7e9c341cbb33d53fff5d3]: Commencement: Sch. 21 para. 43(1) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-c167146a6c58404eb12c0f8863904fe0]: Commencement: Sch. 21 para. 43(1) in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c167146a6c58404eb12c0f8863904fe0]: Commencement: Sch. 21 para. 43(1) in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-6e9830e8b20465596da8d0bd9f93891b]: Commencement: Sch. 21 para. 43(2)(a)(i)(ii)(f) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6e9830e8b20465596da8d0bd9f93891b]: Commencement: Sch. 21 para. 43(2)(a)(i)(ii)(f) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-621675a6957636c3217ea51529f6deef]: Commencement: Sch. 21 para. 43(2)(b) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-621675a6957636c3217ea51529f6deef]: Commencement: Sch. 21 para. 43(2)(b) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-1e86ecebe74a0ce1b263352260f79b2d]: Commencement: Sch. 21 para. 43(2)(c)-(e)(3) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4) (with [art. 14](https://www.legislation.gov.uk/uksi/2012/2657/article/14))
+[^c-1e86ecebe74a0ce1b263352260f79b2d]: Commencement: Sch. 21 para. 43(2)(c)-(e)(3) in force at 1.2.2013 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4) (with [art. 14](https://www.legislation.gov.uk/uksi/2012/2657/article/14))

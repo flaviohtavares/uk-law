@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Nominee’s report on debtor’s proposal[^key-1cce9f7288e2928b494f43ef95a4baab]
+## 63. Nominee’s report on debtor’s proposal[^c-1cce9f7288e2928b494f43ef95a4baab]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cce9f7288e2928b494f43ef95a4baab]: Commencement: S. 63 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1cce9f7288e2928b494f43ef95a4baab]: Commencement: S. 63 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

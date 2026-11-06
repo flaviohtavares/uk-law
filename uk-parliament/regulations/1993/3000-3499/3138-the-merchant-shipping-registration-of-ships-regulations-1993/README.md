@@ -188,7 +188,7 @@ The Secretary of State for Transport, in exercise of the powers conferred on him
 - [Section 86 — Notification to foreign registries by Registrar](part-x/section-86.md)
 - [Section 87 — Closure of bareboat charter ship’s registration by the Registrar](part-x/section-87.md)
 
-### PART 10A — BAREBOAT CHARTER-OUT[^key-40aa6408905daf1d4c29c47a3896521c]
+### PART 10A — BAREBOAT CHARTER-OUT[^c-40aa6408905daf1d4c29c47a3896521c]
 
 - [Section 87A — Suspension from the Register](part-10a/section-87a.md)
 - [Section 87B — Suspension under a Certificate of Permission](part-10a/section-87b.md)
@@ -291,7 +291,7 @@ Department of Transport
 
 The Regulations provide for the registration of merchant ships, fishing vessels and small ships in accordance with the Merchant Shipping (Registration, etc.) Act 1993.
 
-The Regulations determine who are qualified to register such ships in the United Kingdom (and thus meet the United Kingdom’s EU obligations[^key-1ffc99f01dd1a395217ac55751a1c6e2] under the two cases R v. Secretary of State for Transport, ex parte Factortame (Case C.221/89) and Commission v. United Kingdom (Case c.246/89)).They also provide for the necessary British connection in certain cases where the owner is not resident in the United Kingdom.
+The Regulations determine who are qualified to register such ships in the United Kingdom (and thus meet the United Kingdom’s EU obligations[^c-1ffc99f01dd1a395217ac55751a1c6e2] under the two cases R v. Secretary of State for Transport, ex parte Factortame (Case C.221/89) and Commission v. United Kingdom (Case c.246/89)).They also provide for the necessary British connection in certain cases where the owner is not resident in the United Kingdom.
 
 The Regulations provide for methods of application and renewal for registration, and for registration of transfers and mortgages.They lay down requirements as to naming, measurement and marking.They provide for refusal or termination of registration in certain cases; and for provisional registration.
 
@@ -305,6 +305,6 @@ A compliance cost assessment has been prepared and copies can be obtained from t
 
 [^f00001]: Footnote: [1993 c. 22](https://www.legislation.gov.uk/ukpga/1993/22).
 
-[^key-40aa6408905daf1d4c29c47a3896521c]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/1993/3138/part/10A) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/509/regulation/23)
+[^c-40aa6408905daf1d4c29c47a3896521c]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/1993/3138/part/10A) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/509/regulation/23)
 
-[^key-1ffc99f01dd1a395217ac55751a1c6e2]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-1ffc99f01dd1a395217ac55751a1c6e2]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)

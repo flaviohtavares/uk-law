@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. First-tier Tribunal's duty to report unregistered landlords[^key-4c53b726df136bf970924ad70ebcd662]
+## 72. First-tier Tribunal's duty to report unregistered landlords[^c-4c53b726df136bf970924ad70ebcd662]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c53b726df136bf970924ad70ebcd662]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/19/section/72) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-4c53b726df136bf970924ad70ebcd662]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/19/section/72) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

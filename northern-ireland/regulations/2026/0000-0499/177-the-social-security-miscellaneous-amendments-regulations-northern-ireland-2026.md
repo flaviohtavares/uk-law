@@ -46,13 +46,13 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 Regulations 4 and 5 are made with the consent of the Department of Finance[^f00009].
 
-## 1. Citation, commencement and interpretation[^key-26362bf7b2f450d4d1ee6aebdc7e4dbb]
+## 1. Citation, commencement and interpretation[^c-26362bf7b2f450d4d1ee6aebdc7e4dbb]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 and come into operation on 30th October 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Recovery of Benefits) Regulations[^key-56a7220e985c9a0140f1285fb228f11d]
+## 2. Amendment of the Social Security (Recovery of Benefits) Regulations[^c-56a7220e985c9a0140f1285fb228f11d]
 
 In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997 (exempted trusts and payments)[^f00011] after sub-paragraph (u) insert—
 
@@ -60,7 +60,7 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 
 .
 
-## 3. Amendment of the State Pension Credit Regulations[^key-4dbde328f8f78e0b08de51a12226450b]
+## 3. Amendment of the State Pension Credit Regulations[^c-4dbde328f8f78e0b08de51a12226450b]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00013] are amended in accordance with paragraphs (2) to (5).
 
@@ -90,7 +90,7 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 - (a) in sub-paragraph (1A)[^f00018] after “LGBT Financial Recognition Scheme payment” insert “, Mother and Baby Scheme payment”;
 - (b) in each of sub-paragraphs (2) to (5) and (6)[^f00019] after “an LGBT Financial Recognition Scheme payment” insert “, a Mother and Baby Scheme payment”.
 
-## 4. Amendment of the Housing Benefit Regulations[^key-c796680b529f402a364e80f65265f64b]
+## 4. Amendment of the Housing Benefit Regulations[^c-c796680b529f402a364e80f65265f64b]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00020] are amended in accordance with paragraphs (2) to (8).
 
@@ -137,7 +137,7 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 - (a) in sub-paragraph (1A)[^f00028] after “LGBT Financial Recognition Scheme payment” insert “, Mother and Baby Scheme payment”;
 - (b) in each of sub-paragraphs (2) to (5) and (6)[^f00029] after “an LGBT Financial Recognition Scheme payment” insert “, a Mother and Baby Scheme payment”.
 
-## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-b17c31dd951629a25366cf7a4b6e18fb]
+## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-b17c31dd951629a25366cf7a4b6e18fb]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00030] are amended in accordance with paragraphs (2) to (4).
 
@@ -161,7 +161,7 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 - (a) in sub-paragraph (1A)[^f00033] after “LGBT Financial Recognition Scheme payment” insert “, Mother and Baby Scheme payment”;
 - (b) in each of sub-paragraphs (2) to (5) and (6)[^f00034] after “an LGBT Financial Recognition Scheme payment” insert “, a Mother and Baby Scheme payment”.
 
-## 6. Amendment of the Employment and Support Allowance Regulations[^key-44eeac32665aefcbeccbfdaad316e377]
+## 6. Amendment of the Employment and Support Allowance Regulations[^c-44eeac32665aefcbeccbfdaad316e377]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00035] are amended in accordance with paragraphs (2) to (8).
 
@@ -208,7 +208,7 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 - (a) in sub-paragraph (1A)[^f00043] after “LGBT Financial Recognition Scheme payment” insert “, Mother and Baby Scheme payment”;
 - (b) in each of sub-paragraphs (2) to (5) and (6)[^f00044] after “an LGBT Financial Recognition Scheme payment” insert “, a Mother and Baby Scheme payment”.
 
-## 7. Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations[^key-6f079486acdea0a403ae9b6a1b96cbdf]
+## 7. Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations[^c-6f079486acdea0a403ae9b6a1b96cbdf]
 
 In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008 (exempted trusts and payments)[^f00045], after sub-paragraph (r) insert—
 
@@ -216,7 +216,7 @@ In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payme
 
 .
 
-## 8. Amendment of the Universal Credit Regulations[^key-d86adc517ba0d3a06d52d880eaf3b037]
+## 8. Amendment of the Universal Credit Regulations[^c-d86adc517ba0d3a06d52d880eaf3b037]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016[^f00046] are amended in accordance with paragraphs (2) and (3).
 
@@ -228,7 +228,7 @@ In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payme
 
 .
 
-## 9. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-7f85b5735a6ce5ccce44a8154df4cb22]
+## 9. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-7f85b5735a6ce5ccce44a8154df4cb22]
 
 (1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00047] are amended in accordance with paragraph (2).
 
@@ -254,11 +254,11 @@ In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payme
 
   .
 
-## 10. Amendment of the Social Security (Overpayments and Recovery) Regulations[^key-172312c8a19c9f01d286bc9396386691]
+## 10. Amendment of the Social Security (Overpayments and Recovery) Regulations[^c-172312c8a19c9f01d286bc9396386691]
 
 In regulation 14(2)(a) of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (recovery by deduction from state pension credit)[^f00049] for “25 per cent” substitute “40 per cent”.
 
-## 11. Amendment of the Personal Independence Payment (Transitional Provisions) Regulations[^key-da0025510839063a35a4c00513282919]
+## 11. Amendment of the Personal Independence Payment (Transitional Provisions) Regulations[^c-da0025510839063a35a4c00513282919]
 
 (1) The Personal Independence Payment (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00050] are amended in accordance with paragraphs (2) and (3).
 
@@ -341,17 +341,17 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00009]: Footnote: See section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 N.I. 8))](https://www.legislation.gov.uk/nisi/1993/1579); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-26362bf7b2f450d4d1ee6aebdc7e4dbb]: Commencement: Reg. 1 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-26362bf7b2f450d4d1ee6aebdc7e4dbb]: Commencement: Reg. 1 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-56a7220e985c9a0140f1285fb228f11d]: Commencement: Reg. 2 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-56a7220e985c9a0140f1285fb228f11d]: Commencement: Reg. 2 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1997 No. 429](https://www.legislation.gov.uk/nisr/1997/429); relevant amending instrument is [S.R. 2025 No. 24](https://www.legislation.gov.uk/nisr/2025/24). Sub-paragraph (u) was inserted by regulation 9(2) of [S.R. 2023 No. 97](https://www.legislation.gov.uk/nisr/2023/97)
 
 [^f00012]: Footnote: Number 20 of 2023 of the Acts of the Oireachtas of the Republic of Ireland
 
-[^key-4dbde328f8f78e0b08de51a12226450b]: Commencement: Reg. 3 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-4dbde328f8f78e0b08de51a12226450b]: Commencement: Reg. 3 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213), S.R. 2005 Nos. [536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357), S.R. 2017 Nos. [205](https://www.legislation.gov.uk/nisr/2017/205) and [219](https://www.legislation.gov.uk/nisr/2017/219), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345), S.R. 2023 Nos. [97](https://www.legislation.gov.uk/nisr/2023/97) and [184](https://www.legislation.gov.uk/nisr/2023/184) and S.R. 2025 Nos. [24](https://www.legislation.gov.uk/nisr/2025/24), [122](https://www.legislation.gov.uk/nisr/2025/122) and [136](https://www.legislation.gov.uk/nisr/2025/136)
 
@@ -367,7 +367,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00019]: Footnote: Sub-paragraphs (2) to (5) and (6) were amended by [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345), [S.R. 2023 No. 97](https://www.legislation.gov.uk/nisr/2023/97) and S.R. 2025 Nos. [24](https://www.legislation.gov.uk/nisr/2025/24) and [122](https://www.legislation.gov.uk/nisr/2025/122). Sub-paragraphs (2) to (5) were also amended by [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69)
 
-[^key-c796680b529f402a364e80f65265f64b]: Commencement: Reg. 4 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-c796680b529f402a364e80f65265f64b]: Commencement: Reg. 4 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Instruments are [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428), [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357), [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021), [S.R. 2016 No. 228](https://www.legislation.gov.uk/nisr/2016/228), S.R. 2017 Nos. [205](https://www.legislation.gov.uk/nisr/2017/205) and [219](https://www.legislation.gov.uk/nisr/2017/219), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345), [S.I. 2021/786](https://www.legislation.gov.uk/uksi/2021/786), [S.I. 2022/177](https://www.legislation.gov.uk/uksi/2022/177), S.R. 2023 Nos. [97](https://www.legislation.gov.uk/nisr/2023/97) and [184](https://www.legislation.gov.uk/nisr/2023/184), [S.I. 2024/919](https://www.legislation.gov.uk/uksi/2024/919) and S.R. 2025 Nos. [24](https://www.legislation.gov.uk/nisr/2025/24) and [122](https://www.legislation.gov.uk/nisr/2025/122)
 
@@ -389,7 +389,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00029]: Footnote: Sub-paragraphs (2) to (5) and (6) were amended by regulation 8(5)(g) of [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), regulation 5(12)(b)(iii) and (iv) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), regulation 5(8)(a)(ii) of [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345), regulation 5(8)(b) of [S.R. 2023 No. 97](https://www.legislation.gov.uk/nisr/2023/97), regulation 6(8)(b) of [S.R. 2025 No. 24](https://www.legislation.gov.uk/nisr/2025/24) and regulation 5(8)(b) of [S.R. 2025 No. 122](https://www.legislation.gov.uk/nisr/2025/122)
 
-[^key-b17c31dd951629a25366cf7a4b6e18fb]: Commencement: Reg. 5 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-b17c31dd951629a25366cf7a4b6e18fb]: Commencement: Reg. 5 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are S.R. 2010 Nos. [69](https://www.legislation.gov.uk/nisr/2010/69) and [103](https://www.legislation.gov.uk/nisr/2010/103), [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357), S.R. 2017 Nos. [205](https://www.legislation.gov.uk/nisr/2017/205) and [219](https://www.legislation.gov.uk/nisr/2017/219), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345) and S.R. 2023 Nos. [97](https://www.legislation.gov.uk/nisr/2023/97) and [184](https://www.legislation.gov.uk/nisr/2023/184) and S.R. 2025 Nos. [24](https://www.legislation.gov.uk/nisr/2025/24) and [122](https://www.legislation.gov.uk/nisr/2025/122)
 
@@ -401,7 +401,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00034]: Footnote: Sub-paragraphs (2) to (5) were amended by [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69). Sub-paragraphs (2) to (6) were amended by [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345), [S.R. 2023 No. 97](https://www.legislation.gov.uk/nisr/2023/97) and S.R. 2025 Nos. [24](https://www.legislation.gov.uk/nisr/2025/24) and [122](https://www.legislation.gov.uk/nisr/2025/122)
 
-[^key-44eeac32665aefcbeccbfdaad316e377]: Commencement: Reg. 6 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-44eeac32665aefcbeccbfdaad316e377]: Commencement: Reg. 6 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00035]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); relevant amending Regulations are [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357), S.R. 2017 Nos. [205](https://www.legislation.gov.uk/nisr/2017/205) and [219](https://www.legislation.gov.uk/nisr/2017/219), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345), S.R. 2023 Nos. [97](https://www.legislation.gov.uk/nisr/2023/97) and [184](https://www.legislation.gov.uk/nisr/2023/184) and S.R. 2025 Nos. [24](https://www.legislation.gov.uk/nisr/2025/24) and [122](https://www.legislation.gov.uk/nisr/2025/122)
 
@@ -423,24 +423,24 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00044]: Footnote: Sub-paragraphs (2) to (5) were amended by [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345) and [S.R. 2023 No. 97](https://www.legislation.gov.uk/nisr/2023/97). Sub-paragraphs (2) to (6) were amended by [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and S.R. 2025 Nos. [24](https://www.legislation.gov.uk/nisr/2025/24) and [122](https://www.legislation.gov.uk/nisr/2025/122)
 
-[^key-6f079486acdea0a403ae9b6a1b96cbdf]: Commencement: Reg. 7 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-6f079486acdea0a403ae9b6a1b96cbdf]: Commencement: Reg. 7 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00045]: Footnote: [S.R. 2008 No. 355](https://www.legislation.gov.uk/nisr/2008/355); relevant amending instrument is [S.R. 2025 No. 24](https://www.legislation.gov.uk/nisr/2025/24). Sub-paragraph (r) was inserted by regulation 10(2) of [S.R. 2023 No. 97](https://www.legislation.gov.uk/nisr/2023/97)
 
-[^key-d86adc517ba0d3a06d52d880eaf3b037]: Commencement: Reg. 8 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-d86adc517ba0d3a06d52d880eaf3b037]: Commencement: Reg. 8 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00046]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-7f85b5735a6ce5ccce44a8154df4cb22]: Commencement: Reg. 9 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-7f85b5735a6ce5ccce44a8154df4cb22]: Commencement: Reg. 9 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00047]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226)
 
 [^f00048]: Footnote: [S.R. 2017 No. 146](https://www.legislation.gov.uk/nisr/2017/146)
 
-[^key-172312c8a19c9f01d286bc9396386691]: Commencement: Reg. 10 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-172312c8a19c9f01d286bc9396386691]: Commencement: Reg. 10 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00049]: Footnote: [S.R. 2016 No. 224](https://www.legislation.gov.uk/nisr/2016/224)
 
-[^key-da0025510839063a35a4c00513282919]: Commencement: Reg. 11 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
+[^c-da0025510839063a35a4c00513282919]: Commencement: Reg. 11 in operation at 30.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1)
 
 [^f00050]: Footnote: [S.R. 2016 No. 227](https://www.legislation.gov.uk/nisr/2016/227)

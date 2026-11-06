@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^key-cb32a945350b4e111f850f563bdfe601]
+## 111. The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^c-cb32a945350b4e111f850f563bdfe601]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In regulation 2(1) of the Town and Country Planning (Environmental Impact Assess
 
 ## Annotations
 
-[^key-cb32a945350b4e111f850f563bdfe601]: Commencement: [Reg. 111](https://www.legislation.gov.uk/wsi/2024/924/regulation/111) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-cb32a945350b4e111f850f563bdfe601]: Commencement: [Reg. 111](https://www.legislation.gov.uk/wsi/2024/924/regulation/111) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00052]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567), to which there are amendments not relevant to these Regulations

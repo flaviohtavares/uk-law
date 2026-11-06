@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Removal centre rules.[^c11434761][^key-f208b085b08c42694c553b87e7228453]
+## 153. Removal centre rules.[^c11434761][^c-f208b085b08c42694c553b87e7228453]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c11434761]: Commencement: S. 153 wholly in force at 2.4.2001; S. 153 not in force at Royal Assent; s. 153 in force for certain purposes at 1.8.2000 by [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule); S. 153 in force so far as not already in force at 2.4.2001 by [S.I. 2001/239](https://www.legislation.gov.uk/uksi/2001/239), [art. 2](https://www.legislation.gov.uk/uksi/2001/239/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/239/schedule)
 
-[^key-f208b085b08c42694c553b87e7228453]: Textual amendment: Words in s. 153 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(f)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/f), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-f208b085b08c42694c553b87e7228453]: Textual amendment: Words in s. 153 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(f)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/f), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)

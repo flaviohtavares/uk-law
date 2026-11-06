@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**4.**[^key-a0f2f7d69cba19c0e4aeb47ae6fc0537] In the italic heading before section 6 for “*Widows' and Children’s Pensions*” substitute “*Widows', Surviving Civil Partners' and Children’s Pensions*”.
+**4.**[^c-a0f2f7d69cba19c0e4aeb47ae6fc0537] In the italic heading before section 6 for “*Widows' and Children’s Pensions*” substitute “*Widows', Surviving Civil Partners' and Children’s Pensions*”.
 
 ## Annotations
 
-[^key-a0f2f7d69cba19c0e4aeb47ae6fc0537]: Commencement: Art. 4 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-a0f2f7d69cba19c0e4aeb47ae6fc0537]: Commencement: Art. 4 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

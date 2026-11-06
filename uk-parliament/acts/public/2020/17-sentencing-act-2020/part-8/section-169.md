@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Driving disqualification orders: interpretation[^key-2f033eb1e786a4aec57fb83d3f337377]
+## 169. Driving disqualification orders: interpretation[^c-2f033eb1e786a4aec57fb83d3f337377]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-2f033eb1e786a4aec57fb83d3f337377]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2020/17/section/169) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2f033eb1e786a4aec57fb83d3f337377]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2020/17/section/169) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

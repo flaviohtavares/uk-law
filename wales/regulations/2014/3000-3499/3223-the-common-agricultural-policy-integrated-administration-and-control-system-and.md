@@ -88,12 +88,12 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 - “**area-related aid schemes**” (“***cynlluniau cymorth ar sail arwynebedd***”) has the meaning given by point (20) of the second sub-paragraph of Article 2(1) of the Horizontal Delegated Regulation;
 - “**authorised person**” (“***person awdurdodedig***”) means any person who is authorised by the Welsh Ministers, either generally or specifically, to act in relation to matters arising under these Regulations;
 - “**beneficiary**” (“***buddiolwr***”), unless the context otherwise requires, has the meaning given by sub-paragraph (2) of Article 2(1) of the Horizontal Delegated Regulation except that in Part 3 and Schedule 1 it means a beneficiary to whom Article 91 of the Horizontal Regulation applies;
-- “[^key-59aeee08b32e2cd4fcdbad64e4e6e484]**direct payments**” (“***taliadau uniongyrchol***”) has the meaning given by Article 1 of the Direct Payments Regulation;
+- “[^c-59aeee08b32e2cd4fcdbad64e4e6e484]**direct payments**” (“***taliadau uniongyrchol***”) has the meaning given by Article 1 of the Direct Payments Regulation;
 - “**farmer**” (“***ffermwr***”) has the meaning given by Article 4(1)(a) of the Direct Payments Regulation;
 - “**non-compliance**” (“***methiant i gydymffurfio***”) has the meaning given by point (2)(b) of the second sub-paragraph of Article 2(1) of the Horizontal Delegated Regulation;
 - “**single application**” (“***cais sengl***”) means an application for direct payments in relation to area-related aid schemes.
 
-(1A)[^key-339650c619bc735e2c08eb2bd8d6c54d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-339650c619bc735e2c08eb2bd8d6c54d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Other terms used in these Regulations that are also used in any of the European Regulations have the meaning they bear in those Regulations.
 
@@ -103,7 +103,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 ### 3. Applications
 
-(1)[^key-47fe30cb20dd5d5b03bb994bfefeed8d] For the purposes of Article 13(1) of the Horizontal Implementing Regulation and Article 12 of the Horizontal Delegated Regulation, the final date on which a single application, aid application or payment claim may be submitted to the Welsh Ministers is 15<sup>th</sup> May or, if 15<sup>th</sup> May is a Saturday, Sunday, Bank Holiday or other public holiday, the next working day.
+(1)[^c-47fe30cb20dd5d5b03bb994bfefeed8d] For the purposes of Article 13(1) of the Horizontal Implementing Regulation and Article 12 of the Horizontal Delegated Regulation, the final date on which a single application, aid application or payment claim may be submitted to the Welsh Ministers is 15<sup>th</sup> May or, if 15<sup>th</sup> May is a Saturday, Sunday, Bank Holiday or other public holiday, the next working day.
 
 (2) In paragraph (1)—
 
@@ -122,14 +122,14 @@ For the purposes of Article 72(1) of the Horizontal Regulation, the minimum size
 (2) In any legal proceedings brought pursuant to paragraph (1), a certificate of the Welsh Ministers which—
 
 - (a) sets out the London interbank offered rate (LIBOR) applicable during a specified period; and
-- (b)[^key-db1c679edc22b9c494781642bd862ef7] includes a statement by the Welsh Ministers of the rate for that period;
+- (b)[^c-db1c679edc22b9c494781642bd862ef7] includes a statement by the Welsh Ministers of the rate for that period;
 - (c) is evidence of the rate applicable during that period.
 
-(3)[^key-1bb659559347eed54cfe9f4ecc7a3505] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1bb659559347eed54cfe9f4ecc7a3505] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Interest
 
-(1) Interest may be charged in respect of each day of the period referred to in Article 7(2) of the Horizontal Implementing Regulation and for this purpose the rate of interest applicable on any day is one percentage point above the sterling three month London interbank offered rate (LIBOR) on the first working day of each calendar month[^key-b7e2487d31f45d49f129ae585c3c690b].
+(1) Interest may be charged in respect of each day of the period referred to in Article 7(2) of the Horizontal Implementing Regulation and for this purpose the rate of interest applicable on any day is one percentage point above the sterling three month London interbank offered rate (LIBOR) on the first working day of each calendar month[^c-b7e2487d31f45d49f129ae585c3c690b].
 
 ### 7. Powers of entry
 
@@ -160,7 +160,7 @@ For the purposes of Article 72(1) of the Horizontal Regulation, the minimum size
 
 (6) A warrant is valid for three months.
 
-(7)[^key-c161d542ff0852b81cae8114bd1f3299] An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other persons as the authorised person considers necessary for any purpose mentioned in paragraph (1).
+(7)[^c-c161d542ff0852b81cae8114bd1f3299] An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other persons as the authorised person considers necessary for any purpose mentioned in paragraph (1).
 
 (8) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before entry.
 
@@ -181,7 +181,7 @@ For the purposes of Article 72(1) of the Horizontal Regulation, the minimum size
 
 (2) An authorised person who enters any land or premises under a power under other legislation may exercise any of the powers specified in this regulation for the purposes of enforcing these Regulations.
 
-(3)[^key-fad6ae13564750478819e6f02eecf033] Paragraph (1) applies in relation to a person referred to in regulation 7(7) when such a person is acting under the instruction of an authorised person, as if such person were an authorised person.
+(3)[^c-fad6ae13564750478819e6f02eecf033] Paragraph (1) applies in relation to a person referred to in regulation 7(7) when such a person is acting under the instruction of an authorised person, as if such person were an authorised person.
 
 ### 9. Assistance to authorised persons
 
@@ -360,9 +360,9 @@ The abstraction of water for irrigation purposes must comply with section 24 (Re
 
 ### 3. Protection of groundwater
 
-(1) A beneficiary must not cause, or knowingly permit, a groundwater activity except under and to the extent authorised by an environmental permit in accordance with regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-b5f2b0a0631b58fc55bcb323bd1d36c0].
+(1) A beneficiary must not cause, or knowingly permit, a groundwater activity except under and to the extent authorised by an environmental permit in accordance with regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-b5f2b0a0631b58fc55bcb323bd1d36c0].
 
-(2) A beneficiary must comply with the requirements relating to groundwater activities in accordance with regulation regulation 35(2)[^key-74b4257d24e51b2ab641e1b8b4db1a21] of, and Schedule 22 to, the Environmental Permitting (England and Wales) Regulations 2016.
+(2) A beneficiary must comply with the requirements relating to groundwater activities in accordance with regulation regulation 35(2)[^c-74b4257d24e51b2ab641e1b8b4db1a21] of, and Schedule 22 to, the Environmental Permitting (England and Wales) Regulations 2016.
 
 (3) For the purposes of this paragraph—
 
@@ -371,7 +371,7 @@ The abstraction of water for irrigation purposes must comply with section 24 (Re
 
 ### 4. Minimum soil cover
 
-(1) A beneficiary must protect all soil by ensuring that all land is covered by crops, stubbles, residues or other vegetation at all times, except where establishing such cover would conflict with[^key-961e11433c25802ecbc9ff2f9745538b] any of the requirements of paragraph 5.
+(1) A beneficiary must protect all soil by ensuring that all land is covered by crops, stubbles, residues or other vegetation at all times, except where establishing such cover would conflict with[^c-961e11433c25802ecbc9ff2f9745538b] any of the requirements of paragraph 5.
 
 (2) Where land has been harvested using a combine harvester, forage harvester or mower, a beneficiary must ensure that, throughout the period beginning with the first day after harvest and ending on the first day of March in the following year, one of the following conditions is met on that land at all times—
 
@@ -387,7 +387,7 @@ The abstraction of water for irrigation purposes must comply with section 24 (Re
 - (a) not allow, on any land, poaching and rutting to occur at a level which causes soil erosion down slope or off-site to a watercourse or road; and
 - (b) either chisel-plough or install sediment fencing, to limit soil erosion if it is not possible to sow a cover crop on land which has been late harvested or where a forage or root crop has been grazed out.
 
-(2)[^key-2ac8b74cb966f90aeb209b3faa50683e] Where site specific conditions minimise risk of soil erosion and where a beneficiary leaves land without a covering of crops, stubbles, residues or other vegetation post cultivation, a beneficiary must:
+(2)[^c-2ac8b74cb966f90aeb209b3faa50683e] Where site specific conditions minimise risk of soil erosion and where a beneficiary leaves land without a covering of crops, stubbles, residues or other vegetation post cultivation, a beneficiary must:
 
 - (a) leave a rough surface cover; and
 - (b) not allow soil erosion down slope or off-site; and
@@ -459,7 +459,7 @@ other than in accordance with the restrictions and requirements set out in Sched
 
 except under and in accordance with a licence granted pursuant to regulation 7 of the Heather and Grass etc. Burning (Wales) Regulations 2008 [^c22310921].
 
-### 10. Environmental impact assessment[^key-6c7ece067c4fc95a74a2657c788de56a]
+### 10. Environmental impact assessment[^c-6c7ece067c4fc95a74a2657c788de56a]
 
 (1) A beneficiary must not commence or carry out a project on semi-natural and/or uncultivated land or a restructuring project in breach of regulation 4 or 8 of the EIA (Agriculture) Regulations.
 
@@ -487,7 +487,7 @@ except under and in accordance with a licence granted pursuant to regulation 7 o
 
 ### 12. Retention of landscape features - scheduled monuments
 
-(1) Subject to sub-paragraph (3), a beneficiary must not, without consent under section 13 of the Historic Environment (Wales) Act 2023[^key-84c55da6fbeff9de70185e22f5f1bd7c], execute any of the following works—
+(1) Subject to sub-paragraph (3), a beneficiary must not, without consent under section 13 of the Historic Environment (Wales) Act 2023[^c-84c55da6fbeff9de70185e22f5f1bd7c], execute any of the following works—
 
 - (a) any works resulting in the demolition or destruction of, or any damage to, a scheduled monument;
 - (b) any works for the purpose of removing or repairing a scheduled monument or any part of it;
@@ -502,7 +502,7 @@ except under and in accordance with a licence granted pursuant to regulation 7 o
 - (b) in relation to works prohibited under sub-paragraph (1)(a) or (c), that beneficiary did not know and had no reason to believe that the monument was within the area affected by the works or, as the case may be, that it was a scheduled monument; and
 - (c) in relation to any works under sub-paragraph (1) or (2), the works were urgently necessary in the interests of safety or health and that notice in writing of the need for the works was given to the Welsh Ministers as soon as reasonably practicable.
 
-(4)[^key-400f666c380d7822f076f7ef1dd2c4a6] In this paragraph, “**scheduled monument**” has the meaning given to it in section 3(7) of the Historic Environment (Wales) Act 2023 and “**scheduled monument consent**” is to be construed in accordance with section 13 of that Act.
+(4)[^c-400f666c380d7822f076f7ef1dd2c4a6] In this paragraph, “**scheduled monument**” has the meaning given to it in section 3(7) of the Historic Environment (Wales) Act 2023 and “**scheduled monument consent**” is to be construed in accordance with section 13 of that Act.
 
 ### 13. Retention of other landscape features
 
@@ -677,23 +677,23 @@ A Regulatory Impact Assessment has been prepared, of the effects of these Regula
 
 [^c22310791]: Marginal citation: OJ No. L 277, 21.10.2005, p. 1, as last amended by Regulation (EU) No 1312/2011 of the European Parliament and of the Council (OJ No. L 339, 21,12,20111, p. 1).
 
-[^key-59aeee08b32e2cd4fcdbad64e4e6e484]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/104)](https://www.legislation.gov.uk/wsi/2020/104), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/104/regulation/2/2/a)
+[^c-59aeee08b32e2cd4fcdbad64e4e6e484]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/104)](https://www.legislation.gov.uk/wsi/2020/104), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/104/regulation/2/2/a)
 
-[^key-339650c619bc735e2c08eb2bd8d6c54d]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/2/1A) omitted (31.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/a), [10(2)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/10/2)
+[^c-339650c619bc735e2c08eb2bd8d6c54d]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/2/1A) omitted (31.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/a), [10(2)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/10/2)
 
-[^key-47fe30cb20dd5d5b03bb994bfefeed8d]: Modification: Reg. 3(1) modified (30.4.2020) by [The Common Agricultural Policy (Payments to Farmers) (Coronavirus) (Wales) Regulations 2020 (S.I. 2020/473)](https://www.legislation.gov.uk/wsi/2020/473), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/473/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/473/regulation/4)
+[^c-47fe30cb20dd5d5b03bb994bfefeed8d]: Modification: Reg. 3(1) modified (30.4.2020) by [The Common Agricultural Policy (Payments to Farmers) (Coronavirus) (Wales) Regulations 2020 (S.I. 2020/473)](https://www.legislation.gov.uk/wsi/2020/473), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/473/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/473/regulation/4)
 
 [^c22310801]: Marginal citation: [1971, c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-db1c679edc22b9c494781642bd862ef7]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/5/2/b) substituted (31.12.2020) by [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/a), [10(3)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/10/3/a)
+[^c-db1c679edc22b9c494781642bd862ef7]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/5/2/b) substituted (31.12.2020) by [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/a), [10(3)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/10/3/a)
 
-[^key-1bb659559347eed54cfe9f4ecc7a3505]: Textual amendment: Reg. 5(3) omitted (31.12.2020) by virtue of The Direct Payments to [Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/uksi/2020/1556), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1556/regulation/1/2/a), [10(3)(b)](https://www.legislation.gov.uk/uksi/2020/1556/regulation/10/3/b)
+[^c-1bb659559347eed54cfe9f4ecc7a3505]: Textual amendment: Reg. 5(3) omitted (31.12.2020) by virtue of The Direct Payments to [Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/uksi/2020/1556), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1556/regulation/1/2/a), [10(3)(b)](https://www.legislation.gov.uk/uksi/2020/1556/regulation/10/3/b)
 
-[^key-b7e2487d31f45d49f129ae585c3c690b]: Textual amendment: Words in reg. 6 substituted (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/wsi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3), [3(2)](https://www.legislation.gov.uk/wsi/2016/217/regulation/3/2)
+[^c-b7e2487d31f45d49f129ae585c3c690b]: Textual amendment: Words in reg. 6 substituted (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/wsi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3), [3(2)](https://www.legislation.gov.uk/wsi/2016/217/regulation/3/2)
 
-[^key-c161d542ff0852b81cae8114bd1f3299]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/7/7) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/688/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c161d542ff0852b81cae8114bd1f3299]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/7/7) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/688/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fad6ae13564750478819e6f02eecf033]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/8/3) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2019/688/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fad6ae13564750478819e6f02eecf033]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/wsi/2014/3223/regulation/8/3) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2019/688/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22310811]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) were repealed by the [Magistrates' Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, Part 2, paragraph 19; subsection (4) was amended by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71, and Schedule 10.
 
@@ -711,13 +711,13 @@ A Regulatory Impact Assessment has been prepared, of the effects of these Regula
 
 [^c22310881]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). Section 24(1) was amended by section 120 of, and paragraph 128 of Schedule 22 to, the Environment Act 1995 and article 4(1) of, and paragraph 270(a) of Schedule 2(1) to, the Natural Resources Body for Wales (Functions) Order 2013.
 
-[^key-b5f2b0a0631b58fc55bcb323bd1d36c0]: Textual amendment: Words in Sch. 1 para. 3 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 75(a)(i)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/75/a/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-b5f2b0a0631b58fc55bcb323bd1d36c0]: Textual amendment: Words in Sch. 1 para. 3 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 75(a)(i)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/75/a/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-74b4257d24e51b2ab641e1b8b4db1a21]: Textual amendment: Words in Sch. 1 para. 3(2) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 75(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/75/a/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-74b4257d24e51b2ab641e1b8b4db1a21]: Textual amendment: Words in Sch. 1 para. 3(2) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 75(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/75/a/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-961e11433c25802ecbc9ff2f9745538b]: Textual amendment: Words in Sch. 1 para. 4(1) substituted (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/wsi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/3/3)
+[^c-961e11433c25802ecbc9ff2f9745538b]: Textual amendment: Words in Sch. 1 para. 4(1) substituted (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/wsi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/3/3)
 
-[^key-2ac8b74cb966f90aeb209b3faa50683e]: Textual amendment: Sch. 1 para. 5(2)(3) substituted for Sch. 1 para. 5(2) (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/wsi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3), [3(4)](https://www.legislation.gov.uk/wsi/2016/217/regulation/3/4)
+[^c-2ac8b74cb966f90aeb209b3faa50683e]: Textual amendment: Sch. 1 para. 5(2)(3) substituted for Sch. 1 para. 5(2) (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/wsi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3), [3(4)](https://www.legislation.gov.uk/wsi/2016/217/regulation/3/4)
 
 [^c22310901]: Marginal citation: [S.I. 1993/1366](https://www.legislation.gov.uk/uksi/1993/1366).
 
@@ -725,13 +725,13 @@ A Regulatory Impact Assessment has been prepared, of the effects of these Regula
 
 [^c22310921]: Marginal citation: [S.I. 2008/1081](https://www.legislation.gov.uk/uksi/2008/1081) (W. 115).
 
-[^key-6c7ece067c4fc95a74a2657c788de56a]: Textual amendment: Sch. 1 para. 10 substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017 (S.I. 2017/565)](https://www.legislation.gov.uk/wsi/2017/565), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3), [34](https://www.legislation.gov.uk/wsi/2017/565/regulation/34) (with [reg. 3](https://www.legislation.gov.uk/wsi/2017/565/regulation/3))
+[^c-6c7ece067c4fc95a74a2657c788de56a]: Textual amendment: Sch. 1 para. 10 substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017 (S.I. 2017/565)](https://www.legislation.gov.uk/wsi/2017/565), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3), [34](https://www.legislation.gov.uk/wsi/2017/565/regulation/34) (with [reg. 3](https://www.legislation.gov.uk/wsi/2017/565/regulation/3))
 
 [^c22310941]: Marginal citation: [S.I. 1999/2228](https://www.legislation.gov.uk/uksi/1999/2228). Regulation 2(1) was amended by article 4(2) of, and paragraph 99(2) of Schedule 4 to, the Natural Resources Body for Wales (Functions) Order 2013 ([S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90)). There are other amendments but none which are relevant.
 
-[^key-84c55da6fbeff9de70185e22f5f1bd7c]: Textual amendment: Words in [Sch. 1 para. 12(1)](https://www.legislation.gov.uk/wsi/2014/3223/schedule/1/paragraph/12/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [63(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/63/a)
+[^c-84c55da6fbeff9de70185e22f5f1bd7c]: Textual amendment: Words in [Sch. 1 para. 12(1)](https://www.legislation.gov.uk/wsi/2014/3223/schedule/1/paragraph/12/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [63(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/63/a)
 
-[^key-400f666c380d7822f076f7ef1dd2c4a6]: Textual amendment: [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/wsi/2014/3223/schedule/1/paragraph/12/4) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [63(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/63/c)
+[^c-400f666c380d7822f076f7ef1dd2c4a6]: Textual amendment: [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/wsi/2014/3223/schedule/1/paragraph/12/4) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [63(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/63/c)
 
 [^c22310961]: Marginal citation: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160). There are amendments, none of which are relevant.
 

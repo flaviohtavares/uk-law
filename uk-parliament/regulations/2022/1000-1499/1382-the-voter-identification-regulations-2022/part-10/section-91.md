@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Amendment of regulation 144 (forms)[^key-1ac0491861d380be3f339cf0671426fa]
+## 91. Amendment of regulation 144 (forms)[^c-1ac0491861d380be3f339cf0671426fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 144 (forms)—
 
 ## Annotations
 
-[^key-1ac0491861d380be3f339cf0671426fa]: Commencement: Reg. 91 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-1ac0491861d380be3f339cf0671426fa]: Commencement: Reg. 91 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00067]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).

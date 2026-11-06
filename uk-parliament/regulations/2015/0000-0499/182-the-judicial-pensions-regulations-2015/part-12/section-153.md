@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Forfeiture: relevant monetary obligations and relevant monetary losses[^key-7668d68d0794e8002ada08d69cb7fabb]
+## 153. Forfeiture: relevant monetary obligations and relevant monetary losses[^c-7668d68d0794e8002ada08d69cb7fabb]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,16 +42,16 @@ summary: ''
 - “relevant monetary obligation” means a monetary obligation which—
   - (a) was incurred to the Crown or P’s employer (if different);
   - (b) was incurred after P became an active member of this scheme;
-  - (c) arose out of P’s criminal or fraudulent[^key-1e27a5661b4a8a4747bd6c6328a7ee14] act or omission; and
+  - (c) arose out of P’s criminal or fraudulent[^c-1e27a5661b4a8a4747bd6c6328a7ee14] act or omission; and
   - (d) arose out of or was connected with service in a qualifying judicial office in respect of which P is a member of this scheme.
 - “relevant monetary loss” means a monetary loss which—
   - (a) was caused to this scheme; and
-  - (b) arose as a result of P’s criminal or fraudulent[^key-697318259bd89f88813c8fa71299c6bc] act or omission.
+  - (b) arose as a result of P’s criminal or fraudulent[^c-697318259bd89f88813c8fa71299c6bc] act or omission.
 
 ## Annotations
 
-[^key-7668d68d0794e8002ada08d69cb7fabb]: Commencement: [Reg. 153](https://www.legislation.gov.uk/uksi/2015/182/regulation/153) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-7668d68d0794e8002ada08d69cb7fabb]: Commencement: [Reg. 153](https://www.legislation.gov.uk/uksi/2015/182/regulation/153) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-1e27a5661b4a8a4747bd6c6328a7ee14]: Textual amendment: Words in [reg. 153(5)](https://www.legislation.gov.uk/uksi/2015/182/regulation/153/5) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [15(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/15/a)
+[^c-1e27a5661b4a8a4747bd6c6328a7ee14]: Textual amendment: Words in [reg. 153(5)](https://www.legislation.gov.uk/uksi/2015/182/regulation/153/5) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [15(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/15/a)
 
-[^key-697318259bd89f88813c8fa71299c6bc]: Textual amendment: Words in [reg. 153(5)](https://www.legislation.gov.uk/uksi/2015/182/regulation/153/5) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/15/b)
+[^c-697318259bd89f88813c8fa71299c6bc]: Textual amendment: Words in [reg. 153(5)](https://www.legislation.gov.uk/uksi/2015/182/regulation/153/5) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/15/b)

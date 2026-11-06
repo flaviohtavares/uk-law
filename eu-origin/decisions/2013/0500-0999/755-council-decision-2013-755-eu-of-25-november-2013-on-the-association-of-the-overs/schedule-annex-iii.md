@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX III — UNION FINANCIAL ASSISTANCE: LOANS FROM THE EIB’S OWN RESOURCES[^key-c95bff0682d91636b7e74b32bac558c9]
+## ANNEX III — UNION FINANCIAL ASSISTANCE: LOANS FROM THE EIB’S OWN RESOURCES[^c-c95bff0682d91636b7e74b32bac558c9]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Article 1. Amount[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 1. Amount[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 2. EIB[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 2. EIB[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Conditions for foreign exchange transfer[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 3. Conditions for foreign exchange transfer[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

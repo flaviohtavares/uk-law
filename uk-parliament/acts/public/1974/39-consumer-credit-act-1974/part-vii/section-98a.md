@@ -37,7 +37,7 @@ summary: ''
 
 (5) Subsection (4)(a) and (b) does not apply where giving the notice—
 
-- (a) is prohibited by an assimilated[^key-d3790710c061ded74227b5968b0e3489][^key-75f1b8e43b65bce5983336ecc0eff1a2] obligation, or
+- (a) is prohibited by an assimilated[^c-d3790710c061ded74227b5968b0e3489][^c-75f1b8e43b65bce5983336ecc0eff1a2] obligation, or
 - (b) would, or would be likely to, prejudice—
   - (i) the prevention or detection of crime,
   - (ii) the apprehension or prosecution of offenders, or
@@ -61,6 +61,6 @@ summary: ''
 
 [^c20969671]: Textual amendment: S. 98A inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 38](https://www.legislation.gov.uk/uksi/2010/1010/regulation/38), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 
-[^key-d3790710c061ded74227b5968b0e3489]: Textual amendment: Words in [s. 98A(5)(a)](https://www.legislation.gov.uk/ukpga/1974/39/section/98A/5/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/9/2/a)
+[^c-d3790710c061ded74227b5968b0e3489]: Textual amendment: Words in [s. 98A(5)(a)](https://www.legislation.gov.uk/ukpga/1974/39/section/98A/5/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/9/2/a)
 
-[^key-75f1b8e43b65bce5983336ecc0eff1a2]: Textual amendment: Words in [s. 98A(5)(a)](https://www.legislation.gov.uk/ukpga/1974/39/section/98A/5/a) substituted (31.1.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75f1b8e43b65bce5983336ecc0eff1a2]: Textual amendment: Words in [s. 98A(5)(a)](https://www.legislation.gov.uk/ukpga/1974/39/section/98A/5/a) substituted (31.1.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

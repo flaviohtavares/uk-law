@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Shipper’s responsibilities[^key-bc39699ec15bf62c4c2dce747d8a5811]
+## 116. Shipper’s responsibilities[^c-bc39699ec15bf62c4c2dce747d8a5811]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Before consigning any goods for carriage by air the shipper must ensure that—
 
 ## Annotations
 
-[^key-bc39699ec15bf62c4c2dce747d8a5811]: Commencement: [Art. 116](https://www.legislation.gov.uk/uksi/2013/2870/article/116) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-bc39699ec15bf62c4c2dce747d8a5811]: Commencement: [Art. 116](https://www.legislation.gov.uk/uksi/2013/2870/article/116) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -33,14 +33,14 @@ of 19 November 2018
 
 approving the conclusion, by the European Commission, of the Agreement between the European Atomic Energy Community (Euratom) and the Korean Peninsula Energy Development Organisation (KEDO) (revoked)
 
-[^key-728ec213ff6f85d85bbef3579e047ce4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-728ec213ff6f85d85bbef3579e047ce4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Sole article.**[^key-728ec213ff6f85d85bbef3579e047ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole article.**[^c-728ec213ff6f85d85bbef3579e047ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-728ec213ff6f85d85bbef3579e047ce4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-728ec213ff6f85d85bbef3579e047ce4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-728ec213ff6f85d85bbef3579e047ce4]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-728ec213ff6f85d85bbef3579e047ce4]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

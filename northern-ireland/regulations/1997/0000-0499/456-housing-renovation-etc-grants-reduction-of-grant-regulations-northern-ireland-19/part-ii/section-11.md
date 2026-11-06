@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Reduction in amount of grant[^key-f444ee21852147ba57fd2765d70fd0e3]
+## 11. Reduction in amount of grant[^c-f444ee21852147ba57fd2765d70fd0e3]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ The amount of any grant which may be paid in respect of an application shall, if
 
 ## Annotations
 
-[^key-f444ee21852147ba57fd2765d70fd0e3]: Commencement: Reg. 11 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-f444ee21852147ba57fd2765d70fd0e3]: Commencement: Reg. 11 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

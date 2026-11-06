@@ -41,19 +41,19 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”), and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-1b97c81a5cdeffc505d93ca3dcdf07d4]
+## 1. Citation and commencement[^c-1b97c81a5cdeffc505d93ca3dcdf07d4]
 
 This Order may be cited as the Offshore Installations (Safety Zones) Order 2007 and shall come into force on 31st January 2007.
 
-## 2. Establishment of safety zones[^key-0da73992e1b6c80b316176b31d222705]
+## 2. Establishment of safety zones[^c-0da73992e1b6c80b316176b31d222705]
 
 A safety zone is established around each installation specified in column 1 of Schedule 1 (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of Schedule 1.
 
-## 3. Amendment to the Offshore Installations (Safety Zones) Order 1997[^key-0a8e7f2f64da733dc50e21839a93ba77]
+## 3. Amendment to the Offshore Installations (Safety Zones) Order 1997[^c-0a8e7f2f64da733dc50e21839a93ba77]
 
 In the Schedule to the Offshore Installations (Safety Zones) Order 1997[^f00002] the entry relating to Brent South Subsea Wellhead shall be omitted.
 
-## 4. Amendment to the Offshore Installations (Safety Zones) (No. 2) Order 2003[^key-6f692c6bbb5483d93328a0365d1a59a3]
+## 4. Amendment to the Offshore Installations (Safety Zones) (No. 2) Order 2003[^c-6f692c6bbb5483d93328a0365d1a59a3]
 
 In the Schedule to the Offshore Installations (Safety Zones) (No.2) Order 2003[^f00003] the entries relating to the installations specified in Schedule 2 shall be omitted.
 
@@ -67,7 +67,7 @@ Department for Work and Pensions
 
 10th January 2007
 
-## SCHEDULE 1 — SAFETY ZONES[^key-15b745a40ea116347f26b7ae3d9a452b]
+## SCHEDULE 1 — SAFETY ZONES[^c-15b745a40ea116347f26b7ae3d9a452b]
 
 Article 2
 
@@ -75,10 +75,10 @@ Article 2
 | --- | --- | --- |
 | Affleck Production Manifold, Block 30/19a, Affleck Field | 56° 26.55’ | 02° 42.07’ E |
 | Minke Well WSG84, Block 44/24a, Minke Field | 54° 15.24’ | 02° 44.59’ E |
-| [^key-d1d09bee7ec38bbdf8f48dccc17101b4]. . . | [^key-d1d09bee7ec38bbdf8f48dccc17101b4]. . . | [^key-d1d09bee7ec38bbdf8f48dccc17101b4]. . . |
+| [^c-d1d09bee7ec38bbdf8f48dccc17101b4]. . . | [^c-d1d09bee7ec38bbdf8f48dccc17101b4]. . . | [^c-d1d09bee7ec38bbdf8f48dccc17101b4]. . . |
 | Maria Manifold, Block 16/29a, Maria Field | 58° 01.65’ | 01° 42.88’E |
 
-## SCHEDULE 2 — AMENDMENTS[^key-5f7a41bb1d01ad3228853baf5097deaa]
+## SCHEDULE 2 — AMENDMENTS[^c-5f7a41bb1d01ad3228853baf5097deaa]
 
 Article 4
 
@@ -101,20 +101,20 @@ This Order also amends the Offshore Installations (Safety Zones) Order 1997 ([S.
 
 [^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-1b97c81a5cdeffc505d93ca3dcdf07d4]: Commencement: Art. 1 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
+[^c-1b97c81a5cdeffc505d93ca3dcdf07d4]: Commencement: Art. 1 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
 
-[^key-0da73992e1b6c80b316176b31d222705]: Commencement: Art. 2 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
+[^c-0da73992e1b6c80b316176b31d222705]: Commencement: Art. 2 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
 
-[^key-0a8e7f2f64da733dc50e21839a93ba77]: Commencement: Art. 3 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
+[^c-0a8e7f2f64da733dc50e21839a93ba77]: Commencement: Art. 3 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
 
 [^f00002]: Footnote: [S.I. 1997/735](https://www.legislation.gov.uk/uksi/1997/735).
 
-[^key-6f692c6bbb5483d93328a0365d1a59a3]: Commencement: Art. 4 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
+[^c-6f692c6bbb5483d93328a0365d1a59a3]: Commencement: Art. 4 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
 
 [^f00003]: Footnote: [S.I. 2003/1710](https://www.legislation.gov.uk/uksi/2003/1710).
 
-[^key-15b745a40ea116347f26b7ae3d9a452b]: Commencement: Sch. 1 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
+[^c-15b745a40ea116347f26b7ae3d9a452b]: Commencement: Sch. 1 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
 
-[^key-d1d09bee7ec38bbdf8f48dccc17101b4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/41/schedule/1) omitted (21.8.2019) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2019 (S.I. 2019/1166)](https://www.legislation.gov.uk/uksi/2019/1166), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1166/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1166/article/3)
+[^c-d1d09bee7ec38bbdf8f48dccc17101b4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/41/schedule/1) omitted (21.8.2019) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2019 (S.I. 2019/1166)](https://www.legislation.gov.uk/uksi/2019/1166), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1166/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1166/article/3)
 
-[^key-5f7a41bb1d01ad3228853baf5097deaa]: Commencement: Sch. 2 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)
+[^c-5f7a41bb1d01ad3228853baf5097deaa]: Commencement: Sch. 2 in force at 31.1.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Modification of the Waste Directive[^key-dcd05dc231f27ab138b33e00299f13d7]
+## 2B. Modification of the Waste Directive[^c-dcd05dc231f27ab138b33e00299f13d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-6d9349e9ebb32017182c1ff59641896a] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-6d9349e9ebb32017182c1ff59641896a] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any relevant guidance published by the national authority or the appropriate authority.
 
   ;
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcd05dc231f27ab138b33e00299f13d7]: Textual amendment: Regs. 2A-2C inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [19(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/19/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), as amended by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/b), [11(12)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/i), [11(12)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/ii), [11(12)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/iii), [11(12)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/d/i), [11(12)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/d/ii)
+[^c-dcd05dc231f27ab138b33e00299f13d7]: Textual amendment: Regs. 2A-2C inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [19(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/19/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), as amended by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/b), [11(12)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/i), [11(12)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/ii), [11(12)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/iii), [11(12)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/d/i), [11(12)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/d/ii)
 
-[^key-6d9349e9ebb32017182c1ff59641896a]: Textual amendment: Words in [reg. 2B(5)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/2B/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 30(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/30/a)
+[^c-6d9349e9ebb32017182c1ff59641896a]: Textual amendment: Words in [reg. 2B(5)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/2B/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 30(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/30/a)

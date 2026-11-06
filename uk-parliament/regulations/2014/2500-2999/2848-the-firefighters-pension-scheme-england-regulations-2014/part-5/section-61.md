@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Early payment reduction[^key-83baeb1b51cd9b46d648b74fb018a482]
+## 61. Early payment reduction[^c-83baeb1b51cd9b46d648b74fb018a482]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83baeb1b51cd9b46d648b74fb018a482]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2014/2848/regulation/61) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-83baeb1b51cd9b46d648b74fb018a482]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2014/2848/regulation/61) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

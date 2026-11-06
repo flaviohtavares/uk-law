@@ -62,7 +62,7 @@ Articles 10(7), 13(18) and 15(7).
 - (c) the charges payable before the order comes into operation;
 - (d) the charges payable after the order comes into operation.
 
-**8.**[^key-e2d51c4b98644192f5192f46a4584942] Paragraphs 1 to 7 apply in relation to orders under Article 13 made by a district council as they apply in relation to orders under that Article made by the Department, but with the substitution for references to the Department of references to the council.
+**8.**[^c-e2d51c4b98644192f5192f46a4584942] Paragraphs 1 to 7 apply in relation to orders under Article 13 made by a district council as they apply in relation to orders under that Article made by the Department, but with the substitution for references to the Department of references to the council.
 
 ## Annotations
 
@@ -74,4 +74,4 @@ Articles 10(7), 13(18) and 15(7).
 
 [^c17053421]: Textual amendment: [2005 NI 14](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-e2d51c4b98644192f5192f46a4584942]: Textual amendment: Sch. 4 para. 8 inserted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4(5)](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4/5)
+[^c-e2d51c4b98644192f5192f46a4584942]: Textual amendment: Sch. 4 para. 8 inserted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4(5)](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4/5)

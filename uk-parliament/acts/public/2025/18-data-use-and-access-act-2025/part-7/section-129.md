@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. The eIDAS Regulation[^key-ee163bff1d249a32337fb5720cec6079][^key-dede191a8dd3d0534798e66ccd1fda70]
+## 129. The eIDAS Regulation[^c-ee163bff1d249a32337fb5720cec6079][^c-dede191a8dd3d0534798e66ccd1fda70]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In sections 130 to 134, “**the eIDAS Regulation**” means [Regulation (EU) No
 
 ## Annotations
 
-[^key-ee163bff1d249a32337fb5720cec6079]: Commencement: S. 129 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-ee163bff1d249a32337fb5720cec6079]: Commencement: S. 129 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-dede191a8dd3d0534798e66ccd1fda70]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2025/18/section/129) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/t)
+[^c-dede191a8dd3d0534798e66ccd1fda70]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2025/18/section/129) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/t)

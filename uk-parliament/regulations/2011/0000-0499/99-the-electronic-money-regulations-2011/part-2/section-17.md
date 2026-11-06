@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Duty to notify changes[^key-8a2a392b313bba9513c470b5cb04809f]
+## 17. Duty to notify changes[^c-8a2a392b313bba9513c470b5cb04809f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the applicant must provide the Authority with details of the change, the complet
 
 ## Annotations
 
-[^key-8a2a392b313bba9513c470b5cb04809f]: Modification: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/99/regulation/17) excluded (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/7/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))
+[^c-8a2a392b313bba9513c470b5cb04809f]: Modification: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/99/regulation/17) excluded (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/7/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 188. Court file[^key-04ceefe1160a616b1f0d84393e218ce7]
+## 188. Court file[^c-04ceefe1160a616b1f0d84393e218ce7]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ may be made without notice to any other party, but the court may direct that not
 
 ## Annotations
 
-[^key-04ceefe1160a616b1f0d84393e218ce7]: Commencement: [Rule 188](https://www.legislation.gov.uk/nisr/2026/11/rule/188) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-04ceefe1160a616b1f0d84393e218ce7]: Commencement: [Rule 188](https://www.legislation.gov.uk/nisr/2026/11/rule/188) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

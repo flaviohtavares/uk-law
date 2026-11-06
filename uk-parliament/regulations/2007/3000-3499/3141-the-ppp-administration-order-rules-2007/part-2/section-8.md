@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Service of petition[^key-1c3dd4e970345452e32b1bc388285f1f]
+## 8. Service of petition[^c-1c3dd4e970345452e32b1bc388285f1f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c3dd4e970345452e32b1bc388285f1f]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2007/3141/rule/8) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-1c3dd4e970345452e32b1bc388285f1f]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2007/3141/rule/8) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

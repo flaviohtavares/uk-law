@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Status of bank administrator[^key-f66ad64fc06bfdcc7f8a03cbdcaaf86f]
+## 146. Status of bank administrator[^c-f66ad64fc06bfdcc7f8a03cbdcaaf86f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A bank administrator is an officer of the court.
 
 ## Annotations
 
-[^key-f66ad64fc06bfdcc7f8a03cbdcaaf86f]: Commencement: S. 146 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-f66ad64fc06bfdcc7f8a03cbdcaaf86f]: Commencement: S. 146 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

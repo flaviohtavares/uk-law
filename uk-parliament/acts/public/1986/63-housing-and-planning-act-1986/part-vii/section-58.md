@@ -27,7 +27,7 @@ summary: ''
 - [^c11872871]. . .
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11872861];
 - Part V (opencast coal);
-- in Part VI (miscellaneous provisions), sections 40 to 49, 54 and 55, Part I of Schedule 9, [^key-34558e1cd5b6ae7ed85fff57da9f0218]... Part I of Schedule 11 and Part III of Schedule 12;
+- in Part VI (miscellaneous provisions), sections 40 to 49, 54 and 55, Part I of Schedule 9, [^c-34558e1cd5b6ae7ed85fff57da9f0218]... Part I of Schedule 11 and Part III of Schedule 12;
 - this Part.
 
 (2) The following provisions of this Act extend to Scotland—
@@ -37,7 +37,7 @@ summary: ''
 - [^c11872871]. . .
 - [^c11872891]. . .
 - Part V (opencast coal), except so far as it repeals enactments which extend to England and Wales only;
-- in Part VI (miscellaneous provisions), sections 50 to 55, [^c11872891]. . ., [^key-360534d96933a882f42a447a8e8a70b6]... and Part IV of Schedule 12;
+- in Part VI (miscellaneous provisions), sections 50 to 55, [^c11872891]. . ., [^c-360534d96933a882f42a447a8e8a70b6]... and Part IV of Schedule 12;
 - this Part.
 
 (3) The following provisions of this Act extend to Northern Ireland—
@@ -51,8 +51,8 @@ summary: ''
 
 [^c11872871]: Textual amendment: Words in s. 58(1)(2) repealed (24.9.1996) by [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53), [ss. 147](https://www.legislation.gov.uk/ukpga/1996/53/section/147), [150(2)](https://www.legislation.gov.uk/ukpga/1996/53/section/150/2), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1996/53/schedule/3/part/III)
 
-[^key-34558e1cd5b6ae7ed85fff57da9f0218]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/ukpga/1986/63/section/58/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-34558e1cd5b6ae7ed85fff57da9f0218]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/ukpga/1986/63/section/58/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c11872891]: Textual amendment: Words in s. 58(2) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
-[^key-360534d96933a882f42a447a8e8a70b6]: Textual amendment: Words in [s. 58(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/58/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-360534d96933a882f42a447a8e8a70b6]: Textual amendment: Words in [s. 58(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/58/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

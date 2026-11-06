@@ -44,20 +44,20 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-1f40f136354227cdf474c20d713e917c]
+## 1. Citation and commencement[^c-1f40f136354227cdf474c20d713e917c]
 
 These Regulations may be cited as the Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 and come into force on the later of exit day or the day after the day on which they are made.
 
-## 2. Amendment of Commission Delegated Regulation (EU) 906/2014[^key-ce25f976e651edcbffb75bf4a9d32508]
+## 2. Amendment of Commission Delegated Regulation (EU) 906/2014[^c-ce25f976e651edcbffb75bf4a9d32508]
 
 (1) Commission Delegated Regulation No 906/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to public intervention expenditure is amended as follows.
 
-(2) In Article 1, for “the European Agricultural Guarantee Fund (EAGF)” substitute “ [^key-dabab8cfc433a5b6e1124e2bda52fdda]... CMO support ”;
+(2) In Article 1, for “the European Agricultural Guarantee Fund (EAGF)” substitute “ [^c-dabab8cfc433a5b6e1124e2bda52fdda]... CMO support ”;
 
 (3) In Article 3—
 
 - (a) in paragraph 1—
-  - (i) for “the EAGF” substitute “ [^key-527b1c6d0c21850efd1ba649979db524]... CMO support ”;
+  - (i) for “the EAGF” substitute “ [^c-527b1c6d0c21850efd1ba649979db524]... CMO support ”;
   - (ii) omit points (a) to (d);
 - (b) in paragraph 2—
   - (i) omit the first subparagraph;
@@ -65,7 +65,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (4) In Article 4—
 
-- (a)[^key-0ab4b7c2695b3fd7b159cc2852010049] omit paragraph 3;
+- (a)[^c-0ab4b7c2695b3fd7b159cc2852010049] omit paragraph 3;
 - (b) omit paragraph 4;
 - (c) in paragraph 6, omit the second subparagraph;
 - (d) omit paragraph 8.
@@ -74,7 +74,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (6) Omit Annexes 1 to 3.
 
-(6A)[^key-7d0fcb2ba1847fc0c1778cc63d4c545d] In Annex 4, for “Article 7 of the Regulation (EU) No 1308/2013” substitute “ Article 1a of Regulation (EU) No 1370/2013 ”.
+(6A)[^c-7d0fcb2ba1847fc0c1778cc63d4c545d] In Annex 4, for “Article 7 of the Regulation (EU) No 1308/2013” substitute “ Article 1a of Regulation (EU) No 1370/2013 ”.
 
 (7) In Annex 5—
 
@@ -98,28 +98,28 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 - (a) in point (b)—
   - (i) in the first subparagraph—
     - (aa) for “Member State of storage” substitute “ United Kingdom ”;
-    - (aaa)[^key-4a869582896056a0b7feefb3acee8f3d] for “Article 7 of Regulation (EU) No 1308/2013” substitute “ Article 1a of Regulation (EU) No 1370/2013 ”;
+    - (aaa)[^c-4a869582896056a0b7feefb3acee8f3d] for “Article 7 of Regulation (EU) No 1308/2013” substitute “ Article 1a of Regulation (EU) No 1370/2013 ”;
     - (bb) for “Member State” substitute “ relevant authority who owns the product ”;
   - (ii) in the second subparagraph—
     - (aa) for “Member State” substitute “ relevant authority who owns the product. ”;
     - (bb) omit the words from “on the basis” to “the Commission”;
-  - (iii)[^key-a908c8b0c55b7bac04b48658faa9bea8] in the third subparagraph—
-    - (aa) for “the EAGF”, in both places it occurs, substitute “ [^key-981d4d933433fd418ae30a6ac422c085]... CMO support ”;
+  - (iii)[^c-a908c8b0c55b7bac04b48658faa9bea8] in the third subparagraph—
+    - (aa) for “the EAGF”, in both places it occurs, substitute “ [^c-981d4d933433fd418ae30a6ac422c085]... CMO support ”;
     - (bb) for “Article 7 of Regulation (EU) No 1308/2013” substitute “ Article 1a of Regulation (EU) No 1370/2013 ”;
 - (b) in point (c), for “Union legislation” substitute “ the law applying in the constituent nation ”.
 
 (9) In Annex 7—
 
 - (a) in paragraph 1, for “Union rules provide” substitute “ sectoral agricultural legislation provides ”;
-- (b)[^key-b909135cadc48951e7c2f23e59255b0a] in paragraph 2—
+- (b)[^c-b909135cadc48951e7c2f23e59255b0a] in paragraph 2—
   - (i) in point (a), for “Article 7 of Regulation (EU) No 1308/2013” substitute “ Article 1a of Regulation (EU) No 1370/2013 ”;
   - (ii) in points (b) and (d), omit “of the Commission”.
 
 (10) Omit Annex 8.
 
-## 3. Amendment of Commission Delegated Regulation (EU) 907/2014[^key-882b299b052e7d5915f31ae3acf0ea24]
+## 3. Amendment of Commission Delegated Regulation (EU) 907/2014[^c-882b299b052e7d5915f31ae3acf0ea24]
 
-(1) Commission Delegated Regulation (EU) No 907/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro is amended , insofar as it relates to common organisation of the markets and rural development measures[^key-d8f76068249934ac3ce20757e5e85c88] as follows.
+(1) Commission Delegated Regulation (EU) No 907/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro is amended , insofar as it relates to common organisation of the markets and rural development measures[^c-d8f76068249934ac3ce20757e5e85c88] as follows.
 
 (2) Omit Articles 1 and 2.
 
@@ -138,12 +138,12 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 (5) In Article 11—
 
 - (a) in paragraph 1—
-  - (i) for “EAGF” substitute “ [^key-f75e2fb50149ee2660161d0caaf91947]... CMO support ”;
+  - (i) for “EAGF” substitute “ [^c-f75e2fb50149ee2660161d0caaf91947]... CMO support ”;
   - (ii) for “Member States which have not adopted the euro” substitute “ the relevant authority may choose to express it in either euro or sterling and ”;
   - (iii) omit the words from “For the clearance decisions referred in Article 51” to the end;
 - (b) omit paragraph 2.
 
-(6) Omit Articles 12 , 13 and 14[^key-5119f9831de6400040d281fbebc3fc99].
+(6) Omit Articles 12 , 13 and 14[^c-5119f9831de6400040d281fbebc3fc99].
 
 (7) In Article 15, omit the second paragraph.
 
@@ -154,7 +154,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 - (a) in paragraph 1, after “euro” insert “ or sterling ”;
 - (b) in paragraph 2—
   - (i) omit “If the security is accepted in a Member State which has not adopted the euro”;
-  - (ii) for “the applicable[^key-81de3077b1a232c8ebb6aa93e869bff9] national currency”, substitute “ sterling ”;
+  - (ii) for “the applicable[^c-81de3077b1a232c8ebb6aa93e869bff9] national currency”, substitute “ sterling ”;
   - (iii) in the last sentence, after “euro” insert “ or sterling ”.
 
 (10) In Article 21—
@@ -168,7 +168,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 - (a) in paragraph 3, in the second subparagraph, in point (b), for “Union” substitute “ United Kingdom ”;
 - (b) in paragraph 4, in the second subparagraph, for “Union” substitute “ United Kingdom ”;
-- (c) in paragraph 5, for “the applicable[^key-c5fa007d99ecf6dcdbd52c5d123ce3d7] national currency”, substitute “ sterling ”.
+- (c) in paragraph 5, for “the applicable[^c-c5fa007d99ecf6dcdbd52c5d123ce3d7] national currency”, substitute “ sterling ”.
 
 (12) In Article 24—
 
@@ -206,9 +206,9 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (23) Omit Article 41.
 
-(24)[^key-de2e705d1c9d04245bc03f861227592d] In Article 45, omit the second paragraph.
+(24)[^c-de2e705d1c9d04245bc03f861227592d] In Article 45, omit the second paragraph.
 
-(24A)[^key-f0afc4ad30ee510943a61ae26682ea41] After Article 45 omit the words from “This Regulation” to “States.
+(24A)[^c-f0afc4ad30ee510943a61ae26682ea41] After Article 45 omit the words from “This Regulation” to “States.
 
 (25) Omit Annex 1.
 
@@ -229,11 +229,11 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 - (c) in section 5, for “Article 104 of Regulation (EU) No 1306/2013 substitute “ sectoral agricultural legislation ”;
 - (d) in section 6, for “Article 104 of Regulation (EU) No 1306/2013” for the clearance of accounts procedures, without prejudice to the relevant national provisions” substitute “ sectoral agricultural legislation including the exercise of existing or repatriated powers, and without prejudice to any other provisions ”.
 
-(28) Omit Annexes 5 and 6[^key-2350d91343ff11ed674c87dd0de87f8b].
+(28) Omit Annexes 5 and 6[^c-2350d91343ff11ed674c87dd0de87f8b].
 
-## 4. Amendment of Commission Implementing Regulation (EU) 908/2014[^key-569ee9cea4e33ef6fa4ef8b62f246ce0]
+## 4. Amendment of Commission Implementing Regulation (EU) 908/2014[^c-569ee9cea4e33ef6fa4ef8b62f246ce0]
 
-(1) Commission Implementing Regulation 908/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency is amended , insofar as it relates to common organisation of the markets and rural development measures[^key-d7f4707628d13a07a199cbbf509bfe02] as follows:
+(1) Commission Implementing Regulation 908/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency is amended , insofar as it relates to common organisation of the markets and rural development measures[^c-d7f4707628d13a07a199cbbf509bfe02] as follows:
 
 (2) Omit Articles 1 to 3.
 
@@ -267,18 +267,18 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 - (a) in paragraph 1—
   - (i) for “assigned revenue declared” substitute “ declared revenue ”;
-  - (ii) in the second subparagraph, for “EAGF budget” substitute “ [^key-75d0f57fabea27e3289b332b67a9a9a6]... CMO support ”;
+  - (ii) in the second subparagraph, for “EAGF budget” substitute “ [^c-75d0f57fabea27e3289b332b67a9a9a6]... CMO support ”;
   - (iii) omit the third subparagraph;
 - (b) in paragraph 2, for “assigned revenue” substitute “ declared revenue ”;
 - (c) in paragraph 3, omit the first subparagraph;
-- (d) in paragraph 5, for “the EAGF” substitute “ [^key-de6770fc49b120a70a3cbd9b5f5a8d30]... CMO support ”;
+- (d) in paragraph 5, for “the EAGF” substitute “ [^c-de6770fc49b120a70a3cbd9b5f5a8d30]... CMO support ”;
 - (e) omit paragraph 6.
 
 (8) In Article 12, in paragraph 2, in the second subparagraph, omit point (a).
 
 (9) Omit Articles 13 to 15.
 
-(10)[^key-e4625b7673a6b391b5bcbef169f351e0] Omit Article 16(1)(b).
+(10)[^c-e4625b7673a6b391b5bcbef169f351e0] Omit Article 16(1)(b).
 
 (11) In Article 17—
 
@@ -290,7 +290,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (ii) in point (c) for “the Union rules” substitute “ any provision ”;
   - (iii) in point (d)—
     - (aa) for “Union rules provide” substitute “ sectoral agricultural legislation provides ”;
-    - (bb) for “EAGF” substitute “ [^key-b3772f6de4072e7e3eda5a60a2a60e94]... CMO support ”;
+    - (bb) for “EAGF” substitute “ [^c-b3772f6de4072e7e3eda5a60a2a60e94]... CMO support ”;
 - (c) omit paragraph 3.
 
 (12) In Article 18, in paragraph 1, in point (b), omit “, where such costs are not covered by standard amounts”.
@@ -386,7 +386,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 (29) In Article 57—
 
 - (a) in paragraph 1, in point (b), for “Funds” substitute “ agricultural support ”;
-- (b)[^key-5ed68338b4f98d3ea03114cab3212837] in paragraph 2, for the words from “expressed” to the end substitute “ to be expressed in sterling ”;
+- (b)[^c-5ed68338b4f98d3ea03114cab3212837] in paragraph 2, for the words from “expressed” to the end substitute “ to be expressed in sterling ”;
 - (c) in paragraph 3, for “Member States” substitute “ A relevant authority ”.
 
 (30) In Article 58, for “Member State” substitute “ relevant authority ”.
@@ -408,25 +408,25 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (i) for “Member States” substitute “ The relevant authorities ”;
   - (ii) for “inform the Commission” substitute “ keep records ”.
 
-(35)[^key-da57a0b0e629ef67e520d5bd23aa06fd] Omit Articles 63 and 64.
+(35)[^c-da57a0b0e629ef67e520d5bd23aa06fd] Omit Articles 63 and 64.
 
-(35A)[^key-77836b8766d1b23460818858357f41bc] After Article 64, omit the words from “This Regulation” to “States.”.
+(35A)[^c-77836b8766d1b23460818858357f41bc] After Article 64, omit the words from “This Regulation” to “States.”.
 
 (36) Omit Annexes 1 to 10.
 
 (37) In Annex 11—
 
-- (a) in Sheet A, in paragraph 1 for “EAGF” substitute “ [^key-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
+- (a) in Sheet A, in paragraph 1 for “EAGF” substitute “ [^c-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
 - (b) in Sheet B—
-  - (i) in the sub-title for “EAGF” substitute “ [^key-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
+  - (i) in the sub-title for “EAGF” substitute “ [^c-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
   - (ii) in the second sub-title omit “EAGF”;
-  - (iii) in the table, for “EAGF”, in each place it occurs, substitute “ [^key-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
+  - (iii) in the table, for “EAGF”, in each place it occurs, substitute “ [^c-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
 - (c) in Sheet C—
   - (i) for “Commission” substitute “ Accounting Officer ”;
-  - (ii) in the table, for “EAGF” substitute “ [^key-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
+  - (ii) in the table, for “EAGF” substitute “ [^c-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”;
 - (d) in Sheet D—
   - (i) in the first paragraph omit “EAGF”;
-  - (ii) in the table for “EAGF” substitute “ [^key-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”.
+  - (ii) in the table for “EAGF” substitute “ [^c-f1247478aa7d8e4fc7c4726f24a19b48]... CMO support ”.
 
 (38) In Annex 12—
 
@@ -434,63 +434,63 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (i) in paragraph 3, for “Commission”, substitute “ relevant accounting officer ”;
   - (ii) omit paragraph 6.
 - (b) in Part 2—
-  - (i) in Sheet B, for “EAGF”, in each place it occurs, substitute “ [^key-fa006e6def0c1ed2322738aa886349e7]... CMO support ”;
+  - (i) in Sheet B, for “EAGF”, in each place it occurs, substitute “ [^c-fa006e6def0c1ed2322738aa886349e7]... CMO support ”;
   - (ii) in Sheet C—
-    - (aa) in the sub-title, for “EAGF”, in both places it occurs, substitute “ [^key-fa006e6def0c1ed2322738aa886349e7]... CMO support ”;
-    - (bb) in the table, for “EAGF” substitute “ [^key-2da5cf154d986588ec648d3a949ed0a9]... CMO support ”.
+    - (aa) in the sub-title, for “EAGF”, in both places it occurs, substitute “ [^c-fa006e6def0c1ed2322738aa886349e7]... CMO support ”;
+    - (bb) in the table, for “EAGF” substitute “ [^c-2da5cf154d986588ec648d3a949ed0a9]... CMO support ”.
 
-(39)[^key-e9d5801e65bb4885f697d8fe71743ed8] In Annex 13, omit paragraphs 1, 5 and 6.
+(39)[^c-e9d5801e65bb4885f697d8fe71743ed8] In Annex 13, omit paragraphs 1, 5 and 6.
 
-## 5. Amendment of Commission Implementing Regulation (EU) 809/2014[^key-3b77aa76d925b1d3b5b32f6c3e427bb0]
+## 5. Amendment of Commission Implementing Regulation (EU) 809/2014[^c-3b77aa76d925b1d3b5b32f6c3e427bb0]
 
-(1) Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance is amended , insofar as it relates to common organisation of the markets and rural development measures[^key-b75f3104ce783b2ca6133441ebba03c5] as follows.
+(1) Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance is amended , insofar as it relates to common organisation of the markets and rural development measures[^c-b75f3104ce783b2ca6133441ebba03c5] as follows.
 
 (2) In Article 1—
 
 - (a) in the first paragraph—
   - (i) omit point (a);
   - (ii) in point (b), for “Member States”, substitute “ relevant authority ”;
-  - (iii) omit points (f) and (g)[^key-ccb1a504eb0fcdd8fe1cb4e1b30d0f84];
-  - (iiia)[^key-2db69d8769e2489bd534833e1b5722ad] in point (h), omit “aid applications and”;
+  - (iii) omit points (f) and (g)[^c-ccb1a504eb0fcdd8fe1cb4e1b30d0f84];
+  - (iiia)[^c-2db69d8769e2489bd534833e1b5722ad] in point (h), omit “aid applications and”;
   - (iiib) in point (j), omit “as well as of unduly allocated payment entitlements”;
-  - (iv)[^key-cd55196beaf7ebf6461fb52ed34bb88b] for point (m) substitute—
+  - (iv)[^c-cd55196beaf7ebf6461fb52ed34bb88b] for point (m) substitute—
 
     > - (m) payment claims, including the final date for the submission of applications, requirements as to the minimum amount of information to be included in applications and provisions which allow a relevant authority to apply simplified procedures;
 
     ;
-  - (v)[^key-cd600f93e943e8fd94a0ed4ab4b368cd] in point (n), omit “aid application or”.
+  - (v)[^c-cd600f93e943e8fd94a0ed4ab4b368cd] in point (n), omit “aid application or”.
 
 (3) In Article 2—
 
 - (a) in paragraph 1—
-  - (ai)[^key-9161ee50f6a98fdd28c5de4b16ac862b] omit “aid schemes and”;
+  - (ai)[^c-9161ee50f6a98fdd28c5de4b16ac862b] omit “aid schemes and”;
   - (i) for “, within a Member State,” substitute “ a relevant authority has ”;
   - (ii) after “more than one paying agency” omit “is”;
-  - (iia)[^key-d6ca9199a07d608762f1c0ae66c2a3eb] omit “direct payments and”;
+  - (iia)[^c-d6ca9199a07d608762f1c0ae66c2a3eb] omit “direct payments and”;
   - (iii) for “Member State” substitute “ relevant authority ”;
-  - (iv)[^key-630c2a1cd1e72edc49e2a2e74fcb0765] omit “aid applications,”;
+  - (iv)[^c-630c2a1cd1e72edc49e2a2e74fcb0765] omit “aid applications,”;
 - (b) in paragraph 2, for “Member State” substitute “ relevant authority ”.
 
-(4)[^key-7d79696718c96a5c37156c3563435285] In Article 3, in paragraph 1—
+(4)[^c-7d79696718c96a5c37156c3563435285] In Article 3, in paragraph 1—
 
 - (a) in the first subparagraph, omit “aid application,”;
 - (b) in the second subparagraph, in both places it occurs, for “Member State” substitute “ relevant authority ”.
 
-(4A)[^key-570e08ee933f519ffec27ace2a1a889a] In Article 4, for “Aid applications, applications” substitute “ Applications ”.
+(4A)[^c-570e08ee933f519ffec27ace2a1a889a] In Article 4, for “Aid applications, applications” substitute “ Applications ”.
 
-(5 (Extent: E.) (affected by repeal, see note))[^key-aee86d0767a998962f3d0af817e2f3a4][^key-4e6f58145b8972972f5a3fbf4f316b7e] In Article 5— *(Extent: E.)* *(affected by repeal, see note)*[^key-aee86d0767a998962f3d0af817e2f3a4]
+(5 (Extent: E.) (affected by repeal, see note))[^c-aee86d0767a998962f3d0af817e2f3a4][^c-4e6f58145b8972972f5a3fbf4f316b7e] In Article 5— *(Extent: E.)* *(affected by repeal, see note)*[^c-aee86d0767a998962f3d0af817e2f3a4]
 
-- (a (Extent: E.) (affected by repeal, see note))[^key-aee86d0767a998962f3d0af817e2f3a4] in the first paragraph, omit “direct payment schemes or”; *(Extent: E.)* *(affected by repeal, see note)*[^key-aee86d0767a998962f3d0af817e2f3a4]
-- (b (Extent: E.) (affected by repeal, see note))[^key-aee86d0767a998962f3d0af817e2f3a4] in the second paragraph, for “Union or national law” substitute *(Extent: E.)* *(affected by repeal, see note)*[^key-aee86d0767a998962f3d0af817e2f3a4] “ the law applying in the constituent nation ” *(Extent: E.)* *(affected by repeal, see note)*[^key-aee86d0767a998962f3d0af817e2f3a4]. *(Extent: E.)* *(affected by repeal, see note)*[^key-aee86d0767a998962f3d0af817e2f3a4]
+- (a (Extent: E.) (affected by repeal, see note))[^c-aee86d0767a998962f3d0af817e2f3a4] in the first paragraph, omit “direct payment schemes or”; *(Extent: E.)* *(affected by repeal, see note)*[^c-aee86d0767a998962f3d0af817e2f3a4]
+- (b (Extent: E.) (affected by repeal, see note))[^c-aee86d0767a998962f3d0af817e2f3a4] in the second paragraph, for “Union or national law” substitute *(Extent: E.)* *(affected by repeal, see note)*[^c-aee86d0767a998962f3d0af817e2f3a4] “ the law applying in the constituent nation ” *(Extent: E.)* *(affected by repeal, see note)*[^c-aee86d0767a998962f3d0af817e2f3a4]. *(Extent: E.)* *(affected by repeal, see note)*[^c-aee86d0767a998962f3d0af817e2f3a4]
 
-(6)[^key-0de80d2d867ab7b5ba622153a2d620cd] In Article 6—
+(6)[^c-0de80d2d867ab7b5ba622153a2d620cd] In Article 6—
 
 - (a) omit paragraph 1;
 - (b) in paragraph 2—
   - (i) omit the words from “each”, in the first place it occurs, to “and for”;
   - (ii) omit point (f);
 - (c) omit paragraph 3;
-- (d (Extent: E.) (affected by repeal, see note))[^key-0940a25d2d959e29ae9b43b22ebf7eb3] in paragraph 4, for “paragraph 3” substitute *(Extent: E.)* *(affected by repeal, see note)*[^key-0940a25d2d959e29ae9b43b22ebf7eb3] “ paragraph 2 ” *(Extent: E.)* *(affected by repeal, see note)*[^key-0940a25d2d959e29ae9b43b22ebf7eb3]. *(Extent: E.)* *(affected by repeal, see note)*[^key-0940a25d2d959e29ae9b43b22ebf7eb3]
+- (d (Extent: E.) (affected by repeal, see note))[^c-0940a25d2d959e29ae9b43b22ebf7eb3] in paragraph 4, for “paragraph 3” substitute *(Extent: E.)* *(affected by repeal, see note)*[^c-0940a25d2d959e29ae9b43b22ebf7eb3] “ paragraph 2 ” *(Extent: E.)* *(affected by repeal, see note)*[^c-0940a25d2d959e29ae9b43b22ebf7eb3]. *(Extent: E.)* *(affected by repeal, see note)*[^c-0940a25d2d959e29ae9b43b22ebf7eb3]
 
 (7) In Article 7, in paragraph 2, in the second subparagraph—
 
@@ -509,7 +509,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (10) In Article 11—
 
-- (a)[^key-8d58ff64fbe5f64f4c943ec0a8ec87b2] in paragraph 1—
+- (a)[^c-8d58ff64fbe5f64f4c943ec0a8ec87b2] in paragraph 1—
   - (i) for “No 1305/2013,” substitute “ No 1305/2013 and ”;
   - (ii) omit “and (EU) No 1307/2013”;
   - (iii) in points (b) and (c), omit “direct payment scheme or” in each place it occurs;
@@ -524,7 +524,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (vi) omit “aid applications and”;
   - (vii) for “Member State” substitute “ The relevant authority ”;
 - (c) in paragraph 3, omit “aid application or”;
-- (ca)[^key-8ada623669a690684ae97991056f1fbd] in paragraph 4—
+- (ca)[^c-8ada623669a690684ae97991056f1fbd] in paragraph 4—
   - (i) for “Member States”—
     - (aa) in the first place it occurs, substitute “ the relevant authority ”;
     - (bb) in the second place it occurs, substitute “ The relevant authority ”;
@@ -535,21 +535,21 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (11) In Article 12—
 
-- (a) in paragraph 1, for “Member States decide[^key-5758960e5461bc2ed4c7661ff4545953]” substitute “ the relevant authority decides[^key-a35ebf85fc9c2a337f9fbaf77f86bf61]”;
+- (a) in paragraph 1, for “Member States decide[^c-5758960e5461bc2ed4c7661ff4545953]” substitute “ the relevant authority decides[^c-a35ebf85fc9c2a337f9fbaf77f86bf61]”;
 - (b) in paragraph 3, for “Member States” substitute “ The relevant authority ”.
 
 (12) In Article 13—
 
 - (a) in paragraph 1—
   - (i) for “Member States” substitute “ The relevant authority ”;
-  - (ia)[^key-d07a95b6ca88c7e2af4b6f9574a29979] omit “, aid applications”;
+  - (ia)[^c-d07a95b6ca88c7e2af4b6f9574a29979] omit “, aid applications”;
   - (ii) omit the words from “However, Estonia, Latvia” to “15 June.”;
-  - (iii)[^key-9d009ca36c14966f7d6050ff89d3931a] in the second subparagraph—
+  - (iii)[^c-9d009ca36c14966f7d6050ff89d3931a] in the second subparagraph—
     - (aa) for “Member States” substitute “ the relevant authority ”;
     - (bb) omit “aid and/or”;
 - (b) omit paragraph 2.
 
-(13)[^key-35fea04cda25388f996899bf5fc76f88] In Article 14—
+(13)[^c-35fea04cda25388f996899bf5fc76f88] In Article 14—
 
 - (a) in paragraph 1—
   - (i) in points (b) and (g), omit “direct payment schemes and/or” in both places it occurs;
@@ -562,7 +562,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 - (b) in paragraph 4, for “Member States” substitute “ the relevant authority ”;
 - (c) in paragraph 5, for “Member States” substitute “ The relevant authority ”.
 
-(15)[^key-a723341983d85d55b24cd8f39d850c60] In Article 15—
+(15)[^c-a723341983d85d55b24cd8f39d850c60] In Article 15—
 
 - (a) in paragraph 1, in the first subparagraph—
   - (i) omit “or individual payment entitlements”;
@@ -578,12 +578,12 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (ii) in the second and third subparagraphs, for “Member States”, in each place it occurs, substitute “ the relevant authority ”;
   - (iii) in the third subparagraph, omit the words from “the payment for agricultural practices beneficial” to “Regulation (EU) No 1307/2013 or”;
 
-(15A)[^key-772de7e7dec638ae5e4c4929952c0765] In Article 16, omit the words from “, in particular” to “No 1307/2013,”.
+(15A)[^c-772de7e7dec638ae5e4c4929952c0765] In Article 16, omit the words from “, in particular” to “No 1307/2013,”.
 
 (16) In Article 17—
 
 - (a) in paragraph 2, omit points (a) and (b);
-- (b)[^key-789d1beb1e8d8873588ec9f53e4f5653] in paragraph 4—
+- (b)[^c-789d1beb1e8d8873588ec9f53e4f5653] in paragraph 4—
   - (i) in the first subparagraph, omit “basic payment scheme, the single area payment scheme and/or”;
   - (ii) in the second subparagraph, omit the last sentence.
 - (c) in paragraph 5, for the first and second subparagraphs substitute—
@@ -594,15 +594,15 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
   ;
 - (d) in paragraph 6, omit the third subparagraph;
-- (e)[^key-fc49fb42593ea4ff28fefe4d5cf471c8] omit paragraphs 7 to 9.
+- (e)[^c-fc49fb42593ea4ff28fefe4d5cf471c8] omit paragraphs 7 to 9.
 
-(17) Omit Articles 18 to 20[^key-ccd769b205884a212897311ef4879d1b].
+(17) Omit Articles 18 to 20[^c-ccd769b205884a212897311ef4879d1b].
 
-(18)[^key-cf1b37538899908f9b01cecb075ee30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-cf1b37538899908f9b01cecb075ee30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (19) In Article 21—
 
-- (a)[^key-6dfabf438ef62c5928d30bf7f6c72e9f] in paragraph 1—
+- (a)[^c-6dfabf438ef62c5928d30bf7f6c72e9f] in paragraph 1—
   - (i) for the words from “livestock aid application” to “that Regulation” substitute “ payment claim under animal related support measures as defined in point (14) of the second subparagraph of Article 2(1) of Delegated Regulation (EU) No 640/2014 ”;
   - (ii) omit “aid and/or”;
   - (iii) in point (c), omit “a livestock aid application or”;
@@ -614,7 +614,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (i) for “Member States” substitute “ A relevant authority ”;
   - (ii) omit “livestock aid application or”;
 - (c) in paragraph 4—
-  - (i)[^key-74f351cee97475415e917ab9b1fc3e58] in the first subparagraph—
+  - (i)[^c-74f351cee97475415e917ab9b1fc3e58] in the first subparagraph—
     - (aa) for “Member States” substitute “ A relevant authority ”;
     - (bb) omit “livestock aid application or”;
     - (cc) omit “aid schemes or”;
@@ -630,11 +630,11 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (iii) in the third subparagraph, for “Member States” substitute “ the relevant authority ”;
 - (e) in paragraph 5, for “Member States” substitute “ A relevant authority ”.
 
-(20)[^key-c9046650e9d823fe20e53b8847a3995c] Omit Article 22.
+(20)[^c-c9046650e9d823fe20e53b8847a3995c] Omit Article 22.
 
-(21)[^key-6931597f9b72b87c9546b72ac8be6513] Omit Article 23.
+(21)[^c-6931597f9b72b87c9546b72ac8be6513] Omit Article 23.
 
-(22)[^key-26bf91a45aaa4912926e93b57935ebd4] In Article 24—
+(22)[^c-26bf91a45aaa4912926e93b57935ebd4] In Article 24—
 
 - (a) in paragraph 1—
   - (i) in point (a), omit “aid application,”;
@@ -664,11 +664,11 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 (25) In Article 28—
 
 - (a) in paragraph 1, in point (b) omit “Union”;
-- (b (Extent: E.) (affected by repeal, see note))[^key-f9e656f8fac41c1fbead89a447b18842][^key-818f79e3c70d2cf60292b423de60d341] in paragraph 2— *(Extent: E.)* *(affected by repeal, see note)*[^key-f9e656f8fac41c1fbead89a447b18842]
-  - (i (Extent: E.) (affected by repeal, see note))[^key-f9e656f8fac41c1fbead89a447b18842] omit “animal aid schemes and”; *(Extent: E.)* *(affected by repeal, see note)*[^key-f9e656f8fac41c1fbead89a447b18842]
-  - (ii (Extent: E.) (affected by repeal, see note))[^key-f9e656f8fac41c1fbead89a447b18842] for “Member States” substitute *(Extent: E.)* *(affected by repeal, see note)*[^key-f9e656f8fac41c1fbead89a447b18842] “ a relevant authority ” *(Extent: E.)* *(affected by repeal, see note)*[^key-f9e656f8fac41c1fbead89a447b18842]. *(Extent: E.)* *(affected by repeal, see note)*[^key-f9e656f8fac41c1fbead89a447b18842]
+- (b (Extent: E.) (affected by repeal, see note))[^c-f9e656f8fac41c1fbead89a447b18842][^c-818f79e3c70d2cf60292b423de60d341] in paragraph 2— *(Extent: E.)* *(affected by repeal, see note)*[^c-f9e656f8fac41c1fbead89a447b18842]
+  - (i (Extent: E.) (affected by repeal, see note))[^c-f9e656f8fac41c1fbead89a447b18842] omit “animal aid schemes and”; *(Extent: E.)* *(affected by repeal, see note)*[^c-f9e656f8fac41c1fbead89a447b18842]
+  - (ii (Extent: E.) (affected by repeal, see note))[^c-f9e656f8fac41c1fbead89a447b18842] for “Member States” substitute *(Extent: E.)* *(affected by repeal, see note)*[^c-f9e656f8fac41c1fbead89a447b18842] “ a relevant authority ” *(Extent: E.)* *(affected by repeal, see note)*[^c-f9e656f8fac41c1fbead89a447b18842]. *(Extent: E.)* *(affected by repeal, see note)*[^c-f9e656f8fac41c1fbead89a447b18842]
 
-(26)[^key-08e567301de83b77cb06d7f66d9e6b5a] In Article 29—
+(26)[^c-08e567301de83b77cb06d7f66d9e6b5a] In Article 29—
 
 - (a) in paragraph 1—
   - (i) in point (a), omit “and Annex VI to Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/eur/2009/73),”;
@@ -694,11 +694,11 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (i) for “Member States” substitute “ relevant authority ”;
   - (ii) in the third subparagraph, for “Member State” substitute “ relevant authority ”.
 
-(29A)[^key-96666f54c92965219e26bef134e47027] Omit Article 33.
+(29A)[^c-96666f54c92965219e26bef134e47027] Omit Article 33.
 
 (29B) In Article 33a, omit “aid scheme or” in each place it occurs.
 
-(30)[^key-da5913b140500ef715bcd92e039b310e] In Article 34—
+(30)[^c-da5913b140500ef715bcd92e039b310e] In Article 34—
 
 - (a) omit paragraph 2;
 - (b) in paragraph 3—
@@ -738,19 +738,19 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (33) In Article 38—
 
-- (za)[^key-bf39512cafe37401853e36fbf0f9ce1a] in paragraph 1—
+- (za)[^c-bf39512cafe37401853e36fbf0f9ce1a] in paragraph 1—
   - (i) for “an aid application or” substitute “ a ”;
   - (ii) omit “area-related aid schemes or”;
 - (a) in paragraph 2, for “at Union level” substitute “ in the relevant constituent nation ”;
 - (b) in paragraph 4, in the third subparagraph, for “Member States” substitute “ the relevant authority ”;
-- (c)[^key-7b8b4ee54cbc8e8f91db1ca4df15a8c7] omit paragraph 6;
+- (c)[^c-7b8b4ee54cbc8e8f91db1ca4df15a8c7] omit paragraph 6;
 - (d) in paragraph 8, omit “or the single area payment scheme”;
 - (e) in paragraph 9—
   - (i) for “paragraphs 1 to 8”, where those words appear for the first time, substitute “ this Article ”;
   - (ii) omit “paragraphs 1 to 8 of”;
   - (iii) omit “aid or”.
 
-(34)[^key-023b0ae858c2e4ecf845807930d3882b] In Article 39—
+(34)[^c-023b0ae858c2e4ecf845807930d3882b] In Article 39—
 
 - (a) in paragraph 1—
   - (i) for “an aid application or” substitute “ a ”;
@@ -778,7 +778,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (38) In Article 41—
 
-- (za)[^key-6af04b60e8e38b4c769d88731ee72fcb] in paragraph 1—
+- (za)[^c-6af04b60e8e38b4c769d88731ee72fcb] in paragraph 1—
   - (i) in point (a) and (f), omit “aid schemes or” in both places it occurs;
   - (ii) in point (a), omit “, the aid applications”;
   - (iii) in point (h), omit “aid schemes,”;
@@ -787,7 +787,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (ii) in the second subparagraph, for “Member State”, in both places it occurs, substitute “ relevant authority ”;
   - (iii) in the third subparagraph for “Member States” substitute “ relevant authority ”.
 
-(39)[^key-e4aae6993689902b3eebb4977b52c475] In Article 42—
+(39)[^c-e4aae6993689902b3eebb4977b52c475] In Article 42—
 
 - (a) in paragraph 1—
   - (i) in the first subparagraph—
@@ -806,7 +806,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (40) In Article 43—
 
-- (za)[^key-cf34dfa16a0623b4a3de06f396abae2c] in paragraph 1—
+- (za)[^c-cf34dfa16a0623b4a3de06f396abae2c] in paragraph 1—
   - (i) in point (a)—
     - (aa) omit “animal aid schemes and/or”;
     - (bb) omit “livestock aid applications and/or”;
@@ -814,7 +814,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 - (a) in paragraph 2, for “Member States make” substitute “ the relevant authority makes ”;
 - (b) in paragraph 3, for “Member States carry” substitute “ the relevant authority carries ”.
 
-(40A)[^key-b5957f71d718343a90d606b6c07c5eb9] Omit Article 44.
+(40A)[^c-b5957f71d718343a90d606b6c07c5eb9] Omit Article 44.
 
 (41) In Article 47, in paragraph 1, for “Member States” substitute “ The relevant authority ”.
 
@@ -822,7 +822,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 - (a) in paragraph 2, for “Union or national law” substitute “ the law applying in the constituent nation ”;
 - (b) in paragraph 4, for “Union or national schemes” substitute “ schemes in the constituent nations ”.
-- (c)[^key-31548f337c9d6df3c5ccfe7df5d32837] in paragraph 6, for “Article 38(1)(b)” substitute “ Article 38(1) ”.
+- (c)[^c-31548f337c9d6df3c5ccfe7df5d32837] in paragraph 6, for “Article 38(1)(b)” substitute “ Article 38(1) ”.
 
 (43) In Article 49, in paragraph 1, for “Member States” substitute “ The relevant authority ”.
 
@@ -839,7 +839,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
     - (bb) omit “by the Commission”;
   - (iii) in the third subparagraph, for “Member States” substitute “ the relevant authority ”.
 
-(45)[^key-85f9395a66cb9db45dc656d5eac1b62a] In Article 51—
+(45)[^c-85f9395a66cb9db45dc656d5eac1b62a] In Article 51—
 
 - (a) in paragraph 1, for “an EAFRD” substitute “ rural development ”;
 - (b) in paragraph 5, for “Article 38(1)(b)” substitute “ Article 38(1) ”.
@@ -857,101 +857,101 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (50) In Article 62, in the heading, for “Member State” substitute “ relevant authorities ”.
 
-(51 (Extent: E.) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883][^key-abc3650f668fe8f10e8aa2138cf83c8e] In Article 64— *(Extent: E.)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(51 (Extent: E.) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883][^c-abc3650f668fe8f10e8aa2138cf83c8e] In Article 64— *(Extent: E.)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-- (a (Extent: E.) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in point (a), omit “national”; *(Extent: E.)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (b (Extent: E.) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in point (d), omit the words from “and the maintenance of permanent pasture” to the end. *(Extent: E.)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+- (a (Extent: E.) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in point (a), omit “national”; *(Extent: E.)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (b (Extent: E.) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in point (d), omit the words from “and the maintenance of permanent pasture” to the end. *(Extent: E.)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(52 (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] In Article 65, in paragraphs 1 and 2, for “Member States”, in both places it occurs, substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(52 (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] In Article 65, in paragraphs 1 and 2, for “Member States”, in both places it occurs, substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(53 (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] In Article 67, in paragraph 2— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(53 (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] In Article 67, in paragraph 2— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (b (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+- (a (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (b (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(54 (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] In Article 68— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(54 (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] In Article 68— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-7df541303c7e8a02129e12c15a35aba5][^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 1— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (i (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] for the first subparagraph substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+- (a (Extent: E) (affected by repeal, see note))[^c-7df541303c7e8a02129e12c15a35aba5][^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 1— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (i (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] for the first subparagraph substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-    > **1 (Extent: E) (affected by repeal, see note).[^key-1b3d15a42c821b99e700e00f2cc73883]**
+    > **1 (Extent: E) (affected by repeal, see note).[^c-1b3d15a42c821b99e700e00f2cc73883]**
     >
-    > The competent control authority shall, with regard to the requirements and standards for which it is responsible, carry out on-the-spot checks on at least 1% of the total number of the beneficiaries receiving annual premia referred to in Article 92 of Regulation (EU) No 1306/2013 and the other beneficiaries receiving direct payment support. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+    > The competent control authority shall, with regard to the requirements and standards for which it is responsible, carry out on-the-spot checks on at least 1% of the total number of the beneficiaries receiving annual premia referred to in Article 92 of Regulation (EU) No 1306/2013 and the other beneficiaries receiving direct payment support. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-    ; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in the fourth subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (b (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 2— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (i (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in the first subparagraph, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in the second subparagraph, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (c (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 5, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+    ; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in the fourth subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (b (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 2— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (i (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in the first subparagraph, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in the second subparagraph, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (c (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 5, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(55 (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883][^key-eb02b4e3f7ff51376df0ad970be5eeb6] In Article 69— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(55 (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883][^c-eb02b4e3f7ff51376df0ad970be5eeb6] In Article 69— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 1, in the third subparagraph, for “A Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (b (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 5, omit the last sentence; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (c (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+- (a (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 1, in the third subparagraph, for “A Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (b (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 5, omit the last sentence; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (c (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-  > **6 (Extent: E) (affected by repeal, see note).[^key-1b3d15a42c821b99e700e00f2cc73883]**
+  > **6 (Extent: E) (affected by repeal, see note).[^c-1b3d15a42c821b99e700e00f2cc73883]**
   >
-  > By way of derogation from Article 68(1), the samples of beneficiaries to be checked on the spot may be selected at the minimum rate of 1% of the beneficiaries receiving annual premia under Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+  > By way of derogation from Article 68(1), the samples of beneficiaries to be checked on the spot may be selected at the minimum rate of 1% of the beneficiaries receiving annual premia under Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-  ; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+  ; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(55A (Extent: E) (affected by repeal, see note))[^key-8197baeed75c86bf4921340231cbac93][^key-1b3d15a42c821b99e700e00f2cc73883] In Article 70a, in paragraph 3— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(55A (Extent: E) (affected by repeal, see note))[^c-8197baeed75c86bf4921340231cbac93][^c-1b3d15a42c821b99e700e00f2cc73883] In Article 70a, in paragraph 3— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] omit “direct payment schemes,”; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (b (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] for “Articles 30, 31, 32 and 68 for on-the-spot checks of direct payments schemes,” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ Articles 32 and 68 for on-the-spot checks of ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+- (a (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] omit “direct payment schemes,”; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (b (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] for “Articles 30, 31, 32 and 68 for on-the-spot checks of direct payments schemes,” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ Articles 32 and 68 for on-the-spot checks of ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(55B (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] Omit Article 70b. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(55B (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] Omit Article 70b. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(56 (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] In Article 71— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(56 (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] In Article 71— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 1, in the fourth subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (b (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 2, in the third subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (c (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 4, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (d (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 5, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (e (Extent: E) (affected by repeal, see note))[^key-d88a27f06ba5329295cbd5e2f654062d][^key-1b3d15a42c821b99e700e00f2cc73883] in paragraph 6— *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (i (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] omit “aid applications, and/or”; *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] omit the words from “or, as regards to the applications” to the end. *(Extent: E)* *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+- (a (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 1, in the fourth subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (b (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 2, in the third subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (c (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 4, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (d (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 5, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (e (Extent: E) (affected by repeal, see note))[^c-d88a27f06ba5329295cbd5e2f654062d][^c-1b3d15a42c821b99e700e00f2cc73883] in paragraph 6— *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (i (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] omit “aid applications, and/or”; *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] omit the words from “or, as regards to the applications” to the end. *(Extent: E)* *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-(57) In Article 72, in paragraph 4, in the third subparagraph, for “a Member State” substitute *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883].
+(57) In Article 72, in paragraph 4, in the third subparagraph, for “a Member State” substitute *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883].
 
-(58)[^key-1593c3821bb94f4d9bcd757e8e92e864] In Article 73— *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
+(58)[^c-1593c3821bb94f4d9bcd757e8e92e864] In Article 73— *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
 
-- (a) in paragraph 1— *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (i) for the words from “different schemes listed” to “Member States”, in the first place it occurs, substitute *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ measures referred to in Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013, the relevant authority ” *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883];
-  - (ii (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] for “Member States”, in the second place it occurs, substitute *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ The relevant authority ” *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883];
-- (b) in paragraph 4— *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (i) in point (a), omit “aid applications or”; *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (ii (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] omit point (b) and the preceding “and/or”; *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-  - (iii (affected by repeal, see note))[^key-1b3d15a42c821b99e700e00f2cc73883] omit the second subparagraph; *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883]
-- (c) in paragraph 5, for “Member States” substitute *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(affected by repeal, see note)*[^key-1b3d15a42c821b99e700e00f2cc73883].
+- (a) in paragraph 1— *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (i) for the words from “different schemes listed” to “Member States”, in the first place it occurs, substitute *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ measures referred to in Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013, the relevant authority ” *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883];
+  - (ii (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] for “Member States”, in the second place it occurs, substitute *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ The relevant authority ” *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883];
+- (b) in paragraph 4— *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (i) in point (a), omit “aid applications or”; *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (ii (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] omit point (b) and the preceding “and/or”; *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+  - (iii (affected by repeal, see note))[^c-1b3d15a42c821b99e700e00f2cc73883] omit the second subparagraph; *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883]
+- (c) in paragraph 5, for “Member States” substitute *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883] “ the relevant authority ” *(affected by repeal, see note)*[^c-1b3d15a42c821b99e700e00f2cc73883].
 
-(59)[^key-da4d3dbc6422d7bf9bc5ed757b1a7417] Omit Article 76.
+(59)[^c-da4d3dbc6422d7bf9bc5ed757b1a7417] Omit Article 76.
 
-## 6. Amendment of Commission Delegated Regulation (EU) 640/2014[^key-5209475e7df92c24f69420b74cab7e4e]
+## 6. Amendment of Commission Delegated Regulation (EU) 640/2014[^c-5209475e7df92c24f69420b74cab7e4e]
 
-(1) Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance is amended , for the purposes of common organisation of the markets and rural development measures[^key-0bc8577ea35a2cf4e90b1f9a2d35d37d] as follows.
+(1) Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance is amended , for the purposes of common organisation of the markets and rural development measures[^c-0bc8577ea35a2cf4e90b1f9a2d35d37d] as follows.
 
-(1A)[^key-e052fb3cf81af8e693bec70cff676796] In Article 1, omit points (g) and (m).
+(1A)[^c-e052fb3cf81af8e693bec70cff676796] In Article 1, omit points (g) and (m).
 
 (2) In Article 2—
 
-- (za)[^key-d980147f801737801f8fc4f4f68da52b] in paragraph 1, in the first subparagraph, omit “in Article 4(1) of Regulation (EU) No 1307/2013 and”;
+- (za)[^c-d980147f801737801f8fc4f4f68da52b] in paragraph 1, in the first subparagraph, omit “in Article 4(1) of Regulation (EU) No 1307/2013 and”;
 - (a) in paragraph 1, in the second subparagraph—
-  - (ai (Extent: E.) (affected by repeal, see note))[^key-2cdcf72e556d536c4c19e98ea693a98f][^key-2692bf3ecfaf84cb2d8713d1834d3031] in point (1), omit the words from “a farmer” to “that Regulation, *(Extent: E.)* *(affected by repeal, see note)*[^key-2cdcf72e556d536c4c19e98ea693a98f]
-  - (i (Extent: E.) (affected by repeal, see note))[^key-311c1b1302ec652708a075ce615506c7] in point (2), in sub-point (b)— *(Extent: E.)* *(affected by repeal, see note)*[^key-311c1b1302ec652708a075ce615506c7]
-    - (aa (Extent: E.) (affected by repeal, see note))[^key-311c1b1302ec652708a075ce615506c7] for “Union legislation” substitute *(Extent: E.)* *(affected by repeal, see note)*[^key-311c1b1302ec652708a075ce615506c7] “ the law applying in the constituent nation ” *(Extent: E.)* *(affected by repeal, see note)*[^key-311c1b1302ec652708a075ce615506c7]; *(Extent: E.)* *(affected by repeal, see note)*[^key-311c1b1302ec652708a075ce615506c7]
-    - (bb (Extent: E.) (affected by repeal, see note))[^key-311c1b1302ec652708a075ce615506c7] omit “by the Member States”; *(Extent: E.)* *(affected by repeal, see note)*[^key-311c1b1302ec652708a075ce615506c7]
-    - (cc (Extent: E.) (affected by repeal, see note))[^key-311c1b1302ec652708a075ce615506c7] omit from the words “, or with the maintenance” to the end; *(Extent: E.)* *(affected by repeal, see note)*[^key-311c1b1302ec652708a075ce615506c7]
+  - (ai (Extent: E.) (affected by repeal, see note))[^c-2cdcf72e556d536c4c19e98ea693a98f][^c-2692bf3ecfaf84cb2d8713d1834d3031] in point (1), omit the words from “a farmer” to “that Regulation, *(Extent: E.)* *(affected by repeal, see note)*[^c-2cdcf72e556d536c4c19e98ea693a98f]
+  - (i (Extent: E.) (affected by repeal, see note))[^c-311c1b1302ec652708a075ce615506c7] in point (2), in sub-point (b)— *(Extent: E.)* *(affected by repeal, see note)*[^c-311c1b1302ec652708a075ce615506c7]
+    - (aa (Extent: E.) (affected by repeal, see note))[^c-311c1b1302ec652708a075ce615506c7] for “Union legislation” substitute *(Extent: E.)* *(affected by repeal, see note)*[^c-311c1b1302ec652708a075ce615506c7] “ the law applying in the constituent nation ” *(Extent: E.)* *(affected by repeal, see note)*[^c-311c1b1302ec652708a075ce615506c7]; *(Extent: E.)* *(affected by repeal, see note)*[^c-311c1b1302ec652708a075ce615506c7]
+    - (bb (Extent: E.) (affected by repeal, see note))[^c-311c1b1302ec652708a075ce615506c7] omit “by the Member States”; *(Extent: E.)* *(affected by repeal, see note)*[^c-311c1b1302ec652708a075ce615506c7]
+    - (cc (Extent: E.) (affected by repeal, see note))[^c-311c1b1302ec652708a075ce615506c7] omit from the words “, or with the maintenance” to the end; *(Extent: E.)* *(affected by repeal, see note)*[^c-311c1b1302ec652708a075ce615506c7]
   - (ii) in point (4), for “national authorities” substitute “ relevant authority ”;
   - (iii) in point (6), omit “and 40”;
-  - (iiia)[^key-000202ec76578d92382fbd5f37aa1d0a] omit points (13) and (15);
+  - (iiia)[^c-000202ec76578d92382fbd5f37aa1d0a] omit points (13) and (15);
   - (iiib) in point (16), omit the words from “subject”, in the first place it occurs, to “scheme or”;
   - (iiic) in point (17), omit “the aid under the animal aid scheme or”;
   - (iiid) in point (18), omit point (a);
-  - (iv)[^key-0111389dfca1fbafe6102ab05c736e96] omit point (20);
-  - (iva)[^key-0d699a3feb3df7169bee5fe8d2dcc1f1] omit point (22);
+  - (iv)[^c-0111389dfca1fbafe6102ab05c736e96] omit point (20);
+  - (iva)[^c-0d699a3feb3df7169bee5fe8d2dcc1f1] omit point (22);
   - (ivb) in point (23), omit point (a) and the “or” which follows it;
   - (v) in point (26) for “Member States” substitute “ relevant authority ”;
 - (b) in paragraph 2, in the second subparagraph—
@@ -960,21 +960,21 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (3) In Article 3, for “national law”, substitute “ the law applying in the constituent nation ”.
 
-(4)[^key-abe1c8246cdba9ca6667507d35eb8956] In Article 4, in paragraph 1—
+(4)[^c-abe1c8246cdba9ca6667507d35eb8956] In Article 4, in paragraph 1—
 
 - (a) omit the first subparagraph;
 - (b) in the third subparagraph, for “Member States” substitute “ the relevant authority ”.
 
 (5) In Article 5—
 
-- (a)[^key-caf18cfecc32b0fd521a17db4c64be1e] in paragraph 1—
+- (a)[^c-caf18cfecc32b0fd521a17db4c64be1e] in paragraph 1—
   - (i) in the first subparagraph, omit the words from “areas” to “No 1307/2013 and”;
   - (ii) in the second subparagraph, for “Member States” substitute “ The relevant authority ”;
 - (b) in paragraph 2—
   - (i) for “Member States”, in the first place it occurs, substitute “ The relevant authority ”;
   - (ii) for “Member States”, in the second place it occurs, substitute “ the relevant authority ”;
-  - (iia)[^key-58ce23f14b7660b3737fdd944d4fb1e9] omit point (a);
-  - (iii)[^key-2042e5bea723670d1eb3a5944bf646aa] omit point (c);
+  - (iia)[^c-58ce23f14b7660b3737fdd944d4fb1e9] omit point (a);
+  - (iii)[^c-2042e5bea723670d1eb3a5944bf646aa] omit point (c);
   - (iv) in point (d)—
     - (aa) for “2000 areas,” substitute “ 2000 areas and ”;
     - (bb) omit the words from “, agricultural land authorised” to “Article 48 of that Regulation”;
@@ -982,7 +982,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 - (d) in paragraph 4, for “Member States”, substitute “ the relevant authority ”;
 - (e) in paragraph 5, for “Member State”, substitute “ relevant authority ”.
 
-(6)[^key-2da8366314073a5f3f68ee2b59fc6b90] Omit Article 6.
+(6)[^c-2da8366314073a5f3f68ee2b59fc6b90] Omit Article 6.
 
 (7) Omit Article 7.
 
@@ -998,11 +998,11 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (i) in the second subparagraph—
     - (aa) for “Member States”, substitute “ the relevant authority ”;
     - (bb) omit “and notified”;
-  - (ii) in the third subparagraph, for “Member State”, substitute “ [^key-aac2766d53baec08d36c7a7583083404]... relevant authority ”.
+  - (ii) in the third subparagraph, for “Member State”, substitute “ [^c-aac2766d53baec08d36c7a7583083404]... relevant authority ”.
 
-(9) In Article 10, in paragraph 1, for “Member States”, substitute “ the[^key-c75be4520e045f1af2f59ef9c530a3c9] relevant authority ”.
+(9) In Article 10, in paragraph 1, for “Member States”, substitute “ the[^c-c75be4520e045f1af2f59ef9c530a3c9] relevant authority ”.
 
-(9A)[^key-148edbb547dd632c37ef0acbad3b4a4a] In Article 12—
+(9A)[^c-148edbb547dd632c37ef0acbad3b4a4a] In Article 12—
 
 - (a) in the first subparagraph—
   - (i) for the words from the beginning to “where” substitute “ Where ”;
@@ -1018,14 +1018,14 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (ii) in the second subparagraph, for “Member States” substitute “ relevant authority ”;
 - (b) in paragraph 3, for “the Commission on the basis of Article 78(b) of Regulation (EU) No 1306/2013” substitute “ Article 13 of Regulation (EU) No 809/2014 ”.
 
-(12)[^key-79479feffd30bfdd028b7387336af5d4] Omit Article 14.
+(12)[^c-79479feffd30bfdd028b7387336af5d4] Omit Article 14.
 
-(13)[^key-847525b9b04d5fb879d35bc47e47a338] In Article 16—
+(13)[^c-847525b9b04d5fb879d35bc47e47a338] In Article 16—
 
 - (a) in paragraph 1, in the first subparagraph, omit “area-related direct payments and/or”;
 - (b) omit paragraph 3.
 
-(14)[^key-955ef57626784a8db70a40ec76a0d79f] In Article 17—
+(14)[^c-955ef57626784a8db70a40ec76a0d79f] In Article 17—
 
 - (a) in paragraph 1—
   - (i) omit points (a) to (d);
@@ -1035,7 +1035,7 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (ii) omit “aid scheme or”;
   - (ii) omit “aid schemes or”.
 
-(15)[^key-54176e70c035589a6c30be4b3531b798] In Article 18—
+(15)[^c-54176e70c035589a6c30be4b3531b798] In Article 18—
 
 - (a) omit paragraphs 1 to 4;
 - (b) in paragraph 5—
@@ -1047,40 +1047,40 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
   - (iii) omit the words from “the total area declared for payment under the direct” to “No 1307/2013 or”;
 - (d) omit paragraph 7.
 
-(15A)[^key-c56ac2ad349885beb6a2f57ff0cf825c] In Article 19—
+(15A)[^c-c56ac2ad349885beb6a2f57ff0cf825c] In Article 19—
 
 - (a) in paragraph 1, in the first subparagraph, omit “aid schemes or”;
 - (b) omit “aid or” in each place it occurs.
 
-(16)[^key-33bba9147063e5a5202bb48ad385fc91] In Article 19a—
+(16)[^c-33bba9147063e5a5202bb48ad385fc91] In Article 19a—
 
 - (a) in the heading, omit the words from “the basic” to “small farmers scheme”;
 - (b) in paragraph 1, omit the words from “the aid schemes” to “Regulation (EU) No 1307/2013 and”;
 - (c) in paragraphs 2 and 3, omit “aid scheme or” in both places it occurs.
 
-(17)[^key-e47073fa53513d5f7014767954e64a2c] Omit Articles 20 to 29.
+(17)[^c-e47073fa53513d5f7014767954e64a2c] Omit Articles 20 to 29.
 
-(18)[^key-498542c34a9b1895c85ef93e170551b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-498542c34a9b1895c85ef93e170551b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (19) In Article 30—
 
-- (za)[^key-6bff4d6e2429e85892d7571486c3b5a7] in paragraph 1—
+- (za)[^c-6bff4d6e2429e85892d7571486c3b5a7] in paragraph 1—
   - (i) omit “aid or”;
   - (ii) omit “in the aid application or”;
 - (a) in paragraph 2—
-  - (ai)[^key-ab30863b39e4bd0210fc0f2f0bf59a90] omit “in the aid application or”;
+  - (ai)[^c-ab30863b39e4bd0210fc0f2f0bf59a90] omit “in the aid application or”;
   - (bi) omit “aid or”;
   - (ci) omit “application or”;
   - (i) for “Member State”, substitute “ relevant authority ”;
   - (ii) omit “by the Commission”;
-  - (iii)[^key-773e57b32b9fdb2cd86372c9bb30587f] omit “applications or”;
-- (aa)[^key-b572906326f092314784b46618438671] in paragraph 3—
+  - (iii)[^c-773e57b32b9fdb2cd86372c9bb30587f] omit “applications or”;
+- (aa)[^c-b572906326f092314784b46618438671] in paragraph 3—
   - (i) for “an aid application or” substitute “ a ”;
   - (ii) omit “aid or”;
 - (b) in paragraph 3a, for “Member State” substitute “ relevant authority ”.
-- (c)[^key-2bb16bc427d2709e1b3b4813c744b7a4] in paragraph 4(c), for the words from “other than that” to “aid scheme or” substitute “ under the ”.
+- (c)[^c-2bb16bc427d2709e1b3b4813c744b7a4] in paragraph 4(c), for the words from “other than that” to “aid scheme or” substitute “ under the ”.
 
-(20)[^key-94873d7006486754da52dbe61f26c957] In Article 31—
+(20)[^c-94873d7006486754da52dbe61f26c957] In Article 31—
 
 - (a) in paragraph 1—
   - (i) omit the words from “in respect” to “aid scheme or”, in the first place it occurs;
@@ -1107,13 +1107,13 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 - (a) in paragraph 1—
   - (i) for “Member States”, substitute “ The relevant authority ”;
   - (ii) omit “national”;
-  - (iii)[^key-6e168cbbc7b041877188a552e9cc2465] omit “aid or”;
+  - (iii)[^c-6e168cbbc7b041877188a552e9cc2465] omit “aid or”;
 - (b) in paragraph 2—
   - (i) omit “the Commission on the basis of”;
   - (ii) for “Member State”, substitute “ relevant authority ”;
-  - (iii) for “national legislation[^key-52db132633dc597f530b1a54d1316df9] ” substitute “ the law applying in the constituent nation ”.
+  - (iii) for “national legislation[^c-52db132633dc597f530b1a54d1316df9] ” substitute “ the law applying in the constituent nation ”.
 
-(21A)[^key-f5fb2cec599ac1a2b94b17d5fb4ba52b] In Article 34, omit “aid application or”.
+(21A)[^c-f5fb2cec599ac1a2b94b17d5fb4ba52b] In Article 34, omit “aid application or”.
 
 (22) In Article 35—
 
@@ -1124,13 +1124,13 @@ These Regulations may be cited as the Common Agricultural Policy (Financing, Man
 
 (24) Omit Article 37.
 
-(25 (Extent: E) (affected by repeal, see note))[^key-9d9b88af151726966951212cfa7336e1] In Article 39, in paragraphs 2 and 3, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-9d9b88af151726966951212cfa7336e1] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-9d9b88af151726966951212cfa7336e1]. *(Extent: E)* *(affected by repeal, see note)*[^key-9d9b88af151726966951212cfa7336e1]
+(25 (Extent: E) (affected by repeal, see note))[^c-9d9b88af151726966951212cfa7336e1] In Article 39, in paragraphs 2 and 3, for “Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-9d9b88af151726966951212cfa7336e1] “ relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-9d9b88af151726966951212cfa7336e1]. *(Extent: E)* *(affected by repeal, see note)*[^c-9d9b88af151726966951212cfa7336e1]
 
-(26 (Extent: E.) (affected by repeal, see note))[^key-9d9b88af151726966951212cfa7336e1] In Article 41, omit “by the Commission”. *(Extent: E.)* *(affected by repeal, see note)*[^key-9d9b88af151726966951212cfa7336e1]
+(26 (Extent: E.) (affected by repeal, see note))[^c-9d9b88af151726966951212cfa7336e1] In Article 41, omit “by the Commission”. *(Extent: E.)* *(affected by repeal, see note)*[^c-9d9b88af151726966951212cfa7336e1]
 
-(27)[^key-365b6c6c554d3e68b9edc0b2fb6c5fdc] Omit Articles 42 to 44.
+(27)[^c-365b6c6c554d3e68b9edc0b2fb6c5fdc] Omit Articles 42 to 44.
 
-## 7. Revocation of EU Regulations[^key-3d3c509e66cc513e5fe7dad61f4ecdc1]
+## 7. Revocation of EU Regulations[^c-3d3c509e66cc513e5fe7dad61f4ecdc1]
 
 The following Regulations are revoked—
 
@@ -1158,252 +1158,252 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24488531]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-1f40f136354227cdf474c20d713e917c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1f40f136354227cdf474c20d713e917c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ce25f976e651edcbffb75bf4a9d32508]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ce25f976e651edcbffb75bf4a9d32508]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-dabab8cfc433a5b6e1124e2bda52fdda]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5)
+[^c-dabab8cfc433a5b6e1124e2bda52fdda]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5)
 
-[^key-527b1c6d0c21850efd1ba649979db524]: Textual amendment: Words in [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/3/a/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5)
+[^c-527b1c6d0c21850efd1ba649979db524]: Textual amendment: Words in [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/3/a/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5)
 
-[^key-0ab4b7c2695b3fd7b159cc2852010049]: Textual amendment: [Reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/4/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ab4b7c2695b3fd7b159cc2852010049]: Textual amendment: [Reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/4/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d0fcb2ba1847fc0c1778cc63d4c545d]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/6A) inserted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d0fcb2ba1847fc0c1778cc63d4c545d]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/6A) inserted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a869582896056a0b7feefb3acee8f3d]: Textual amendment: [Reg. 2(8)(a)(i)(aaa)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/8/a/i/aaa) inserted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a869582896056a0b7feefb3acee8f3d]: Textual amendment: [Reg. 2(8)(a)(i)(aaa)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/8/a/i/aaa) inserted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a908c8b0c55b7bac04b48658faa9bea8]: Textual amendment: [Reg. 2(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/8/a/iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a908c8b0c55b7bac04b48658faa9bea8]: Textual amendment: [Reg. 2(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/8/a/iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-981d4d933433fd418ae30a6ac422c085]: Textual amendment: Words in [reg. 2(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/8/a/iii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5)
+[^c-981d4d933433fd418ae30a6ac422c085]: Textual amendment: Words in [reg. 2(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/8/a/iii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5)
 
-[^key-b909135cadc48951e7c2f23e59255b0a]: Textual amendment: [Reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/9/b) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b909135cadc48951e7c2f23e59255b0a]: Textual amendment: [Reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2019/765/regulation/2/9/b) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-882b299b052e7d5915f31ae3acf0ea24]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-882b299b052e7d5915f31ae3acf0ea24]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d8f76068249934ac3ce20757e5e85c88]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/2)
+[^c-d8f76068249934ac3ce20757e5e85c88]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/2)
 
-[^key-f75e2fb50149ee2660161d0caaf91947]: Textual amendment: Words in [reg. 3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/5/a/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/3)
+[^c-f75e2fb50149ee2660161d0caaf91947]: Textual amendment: Words in [reg. 3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/5/a/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/3)
 
-[^key-5119f9831de6400040d281fbebc3fc99]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/6) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/4)
+[^c-5119f9831de6400040d281fbebc3fc99]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/6) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/4)
 
-[^key-81de3077b1a232c8ebb6aa93e869bff9]: Textual amendment: Words in [reg. 3(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/9/b/ii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/5)
+[^c-81de3077b1a232c8ebb6aa93e869bff9]: Textual amendment: Words in [reg. 3(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/9/b/ii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/5)
 
-[^key-c5fa007d99ecf6dcdbd52c5d123ce3d7]: Textual amendment: Words in [reg. 3(11)(c)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/11/c) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/5)
+[^c-c5fa007d99ecf6dcdbd52c5d123ce3d7]: Textual amendment: Words in [reg. 3(11)(c)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/11/c) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/5)
 
-[^key-de2e705d1c9d04245bc03f861227592d]: Textual amendment: [Reg. 3(24)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/24) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(6)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/6)
+[^c-de2e705d1c9d04245bc03f861227592d]: Textual amendment: [Reg. 3(24)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/24) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(6)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/6)
 
-[^key-f0afc4ad30ee510943a61ae26682ea41]: Textual amendment: [Reg. 3(24A)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/24A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/7)
+[^c-f0afc4ad30ee510943a61ae26682ea41]: Textual amendment: [Reg. 3(24A)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/24A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/7)
 
-[^key-2350d91343ff11ed674c87dd0de87f8b]: Textual amendment: Words in [reg. 3(28)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/28) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/8)
+[^c-2350d91343ff11ed674c87dd0de87f8b]: Textual amendment: Words in [reg. 3(28)](https://www.legislation.gov.uk/uksi/2019/765/regulation/3/28) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [6(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6/8)
 
-[^key-569ee9cea4e33ef6fa4ef8b62f246ce0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-569ee9cea4e33ef6fa4ef8b62f246ce0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d7f4707628d13a07a199cbbf509bfe02]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/2)
+[^c-d7f4707628d13a07a199cbbf509bfe02]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/2)
 
-[^key-75d0f57fabea27e3289b332b67a9a9a6]: Textual amendment: Words in [reg. 4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/7/a/ii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/3)
+[^c-75d0f57fabea27e3289b332b67a9a9a6]: Textual amendment: Words in [reg. 4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/7/a/ii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/3)
 
-[^key-de6770fc49b120a70a3cbd9b5f5a8d30]: Textual amendment: Words in [reg. 4(7)(d)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/7/d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/3)
+[^c-de6770fc49b120a70a3cbd9b5f5a8d30]: Textual amendment: Words in [reg. 4(7)(d)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/7/d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/3)
 
-[^key-e4625b7673a6b391b5bcbef169f351e0]: Textual amendment: [Reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/10) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4625b7673a6b391b5bcbef169f351e0]: Textual amendment: [Reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/10) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b3772f6de4072e7e3eda5a60a2a60e94]: Textual amendment: Words in [reg. 4(11)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/11/b/iii/bb) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/3)
+[^c-b3772f6de4072e7e3eda5a60a2a60e94]: Textual amendment: Words in [reg. 4(11)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/11/b/iii/bb) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/3)
 
-[^key-5ed68338b4f98d3ea03114cab3212837]: Textual amendment: [Reg. 4(29)(b)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/29/b) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/4)
+[^c-5ed68338b4f98d3ea03114cab3212837]: Textual amendment: [Reg. 4(29)(b)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/29/b) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/4)
 
-[^key-da57a0b0e629ef67e520d5bd23aa06fd]: Textual amendment: [Reg. 4(35)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/35) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/5)
+[^c-da57a0b0e629ef67e520d5bd23aa06fd]: Textual amendment: [Reg. 4(35)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/35) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/5)
 
-[^key-77836b8766d1b23460818858357f41bc]: Textual amendment: [Reg. 4(35A)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/35A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(6)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/6)
+[^c-77836b8766d1b23460818858357f41bc]: Textual amendment: [Reg. 4(35A)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/35A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(6)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/6)
 
-[^key-f1247478aa7d8e4fc7c4726f24a19b48]: Textual amendment: Words in [reg. 4(37)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/37) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/7)
+[^c-f1247478aa7d8e4fc7c4726f24a19b48]: Textual amendment: Words in [reg. 4(37)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/37) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/7)
 
-[^key-fa006e6def0c1ed2322738aa886349e7]: Textual amendment: Words in [reg. 4(38)(b)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/38/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(8)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/8/a)
+[^c-fa006e6def0c1ed2322738aa886349e7]: Textual amendment: Words in [reg. 4(38)(b)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/38/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(8)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/8/a)
 
-[^key-2da5cf154d986588ec648d3a949ed0a9]: Textual amendment: Words in [reg. 4(38)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/38/b/ii/bb) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(8)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/8/b)
+[^c-2da5cf154d986588ec648d3a949ed0a9]: Textual amendment: Words in [reg. 4(38)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/38/b/ii/bb) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(8)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/8/b)
 
-[^key-e9d5801e65bb4885f697d8fe71743ed8]: Textual amendment: [Reg. 4(39)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/39) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(9)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/9)
+[^c-e9d5801e65bb4885f697d8fe71743ed8]: Textual amendment: [Reg. 4(39)](https://www.legislation.gov.uk/uksi/2019/765/regulation/4/39) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [7(9)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7/9)
 
-[^key-3b77aa76d925b1d3b5b32f6c3e427bb0]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3b77aa76d925b1d3b5b32f6c3e427bb0]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b75f3104ce783b2ca6133441ebba03c5]: Textual amendment: Words in reg. 5(1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/2)
+[^c-b75f3104ce783b2ca6133441ebba03c5]: Textual amendment: Words in reg. 5(1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/2)
 
-[^key-ccb1a504eb0fcdd8fe1cb4e1b30d0f84]: Textual amendment: Words in reg. 5(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/a)
+[^c-ccb1a504eb0fcdd8fe1cb4e1b30d0f84]: Textual amendment: Words in reg. 5(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/a)
 
-[^key-2db69d8769e2489bd534833e1b5722ad]: Textual amendment: Reg. 5(2)(a)(iiia)[(iiib)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/2/iiib) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/b)
+[^c-2db69d8769e2489bd534833e1b5722ad]: Textual amendment: Reg. 5(2)(a)(iiia)[(iiib)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/2/iiib) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/b)
 
-[^key-cd55196beaf7ebf6461fb52ed34bb88b]: Textual amendment: Reg. 5(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/c)
+[^c-cd55196beaf7ebf6461fb52ed34bb88b]: Textual amendment: Reg. 5(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/c)
 
-[^key-cd600f93e943e8fd94a0ed4ab4b368cd]: Textual amendment: Reg. 5(2)(a)(v) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(d)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/d)
+[^c-cd600f93e943e8fd94a0ed4ab4b368cd]: Textual amendment: Reg. 5(2)(a)(v) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(3)(d)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/3/d)
 
-[^key-9161ee50f6a98fdd28c5de4b16ac862b]: Textual amendment: Reg. 5(3)(a)(ai) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(4)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/4/a)
+[^c-9161ee50f6a98fdd28c5de4b16ac862b]: Textual amendment: Reg. 5(3)(a)(ai) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(4)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/4/a)
 
-[^key-d6ca9199a07d608762f1c0ae66c2a3eb]: Textual amendment: Reg. 5(3)(a)(iia) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(4)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/4/b)
+[^c-d6ca9199a07d608762f1c0ae66c2a3eb]: Textual amendment: Reg. 5(3)(a)(iia) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(4)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/4/b)
 
-[^key-630c2a1cd1e72edc49e2a2e74fcb0765]: Textual amendment: Reg. 5(3)(a)(iv) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(4)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/4/c)
+[^c-630c2a1cd1e72edc49e2a2e74fcb0765]: Textual amendment: Reg. 5(3)(a)(iv) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(4)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/4/c)
 
-[^key-7d79696718c96a5c37156c3563435285]: Textual amendment: Reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/5)
+[^c-7d79696718c96a5c37156c3563435285]: Textual amendment: Reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/5)
 
-[^key-570e08ee933f519ffec27ace2a1a889a]: Textual amendment: Reg. 5(4A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(6)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/6)
+[^c-570e08ee933f519ffec27ace2a1a889a]: Textual amendment: Reg. 5(4A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(6)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/6)
 
-[^key-aee86d0767a998962f3d0af817e2f3a4]: Textual amendment: Reg. 5(5) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg.](https://www.legislation.gov.uk/uksi/2023/816/regulation), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-aee86d0767a998962f3d0af817e2f3a4]: Textual amendment: Reg. 5(5) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg.](https://www.legislation.gov.uk/uksi/2023/816/regulation), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-4e6f58145b8972972f5a3fbf4f316b7e]: Textual amendment: Reg. 5(5) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/7)
+[^c-4e6f58145b8972972f5a3fbf4f316b7e]: Textual amendment: Reg. 5(5) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/7)
 
-[^key-0de80d2d867ab7b5ba622153a2d620cd]: Textual amendment: Reg. 5(6) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/8)
+[^c-0de80d2d867ab7b5ba622153a2d620cd]: Textual amendment: Reg. 5(6) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/8)
 
-[^key-0940a25d2d959e29ae9b43b22ebf7eb3]: Textual amendment: Reg. 5(6)(d) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-0940a25d2d959e29ae9b43b22ebf7eb3]: Textual amendment: Reg. 5(6)(d) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-8d58ff64fbe5f64f4c943ec0a8ec87b2]: Textual amendment: Reg. 5(10)(a)-(c) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(9)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/9/a)
+[^c-8d58ff64fbe5f64f4c943ec0a8ec87b2]: Textual amendment: Reg. 5(10)(a)-(c) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(9)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/9/a)
 
-[^key-8ada623669a690684ae97991056f1fbd]: Textual amendment: Reg. 5(10)(ca) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(9)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/9/b)
+[^c-8ada623669a690684ae97991056f1fbd]: Textual amendment: Reg. 5(10)(ca) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(9)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/9/b)
 
-[^key-5758960e5461bc2ed4c7661ff4545953]: Textual amendment: Word in reg. 5(11)(a) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(10)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/10/a)
+[^c-5758960e5461bc2ed4c7661ff4545953]: Textual amendment: Word in reg. 5(11)(a) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(10)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/10/a)
 
-[^key-a35ebf85fc9c2a337f9fbaf77f86bf61]: Textual amendment: Word in reg. 5(11)(a) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(10)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/10/b)
+[^c-a35ebf85fc9c2a337f9fbaf77f86bf61]: Textual amendment: Word in reg. 5(11)(a) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(10)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/10/b)
 
-[^key-d07a95b6ca88c7e2af4b6f9574a29979]: Textual amendment: Reg. 5(12)(a)[(ia)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/12/ia) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(11)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/11/a)
+[^c-d07a95b6ca88c7e2af4b6f9574a29979]: Textual amendment: Reg. 5(12)(a)[(ia)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/12/ia) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(11)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/11/a)
 
-[^key-9d009ca36c14966f7d6050ff89d3931a]: Textual amendment: Reg. 5(12)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(11)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/11/b)
+[^c-9d009ca36c14966f7d6050ff89d3931a]: Textual amendment: Reg. 5(12)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(11)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/11/b)
 
-[^key-35fea04cda25388f996899bf5fc76f88]: Textual amendment: Reg. 5(13) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(12)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/12)
+[^c-35fea04cda25388f996899bf5fc76f88]: Textual amendment: Reg. 5(13) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(12)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/12)
 
-[^key-a723341983d85d55b24cd8f39d850c60]: Textual amendment: Reg. 5(15) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(13)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/13)
+[^c-a723341983d85d55b24cd8f39d850c60]: Textual amendment: Reg. 5(15) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(13)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/13)
 
-[^key-772de7e7dec638ae5e4c4929952c0765]: Textual amendment: Reg. 5(15A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(14)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/14)
+[^c-772de7e7dec638ae5e4c4929952c0765]: Textual amendment: Reg. 5(15A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(14)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/14)
 
-[^key-789d1beb1e8d8873588ec9f53e4f5653]: Textual amendment: Reg. 5(16)(b)-(d) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(15)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/15/a)
+[^c-789d1beb1e8d8873588ec9f53e4f5653]: Textual amendment: Reg. 5(16)(b)-(d) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(15)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/15/a)
 
-[^key-fc49fb42593ea4ff28fefe4d5cf471c8]: Textual amendment: Reg. 5(16)(e) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(15)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/15/b)
+[^c-fc49fb42593ea4ff28fefe4d5cf471c8]: Textual amendment: Reg. 5(16)(e) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(15)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/15/b)
 
-[^key-ccd769b205884a212897311ef4879d1b]: Textual amendment: Words in reg. 5(17) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(16)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/16)
+[^c-ccd769b205884a212897311ef4879d1b]: Textual amendment: Words in reg. 5(17) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(16)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/16)
 
-[^key-cf1b37538899908f9b01cecb075ee30d]: Textual amendment: Reg. 5(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(17)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/17)
+[^c-cf1b37538899908f9b01cecb075ee30d]: Textual amendment: Reg. 5(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(17)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/17)
 
-[^key-6dfabf438ef62c5928d30bf7f6c72e9f]: Textual amendment: Reg. 5(19)(a)(ab)(b) substituted for reg. 5(19)(a)(b) (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(18)(i)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/18/i)
+[^c-6dfabf438ef62c5928d30bf7f6c72e9f]: Textual amendment: Reg. 5(19)(a)(ab)(b) substituted for reg. 5(19)(a)(b) (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(18)(i)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/18/i)
 
-[^key-74f351cee97475415e917ab9b1fc3e58]: Textual amendment: Reg. 5(19)(c)(i)-(iii) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(18)(ii)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/18/ii)
+[^c-74f351cee97475415e917ab9b1fc3e58]: Textual amendment: Reg. 5(19)(c)(i)-(iii) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(18)(ii)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/18/ii)
 
-[^key-c9046650e9d823fe20e53b8847a3995c]: Textual amendment: Reg. 5(20) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(19)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/19)
+[^c-c9046650e9d823fe20e53b8847a3995c]: Textual amendment: Reg. 5(20) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(19)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/19)
 
-[^key-6931597f9b72b87c9546b72ac8be6513]: Textual amendment: Reg. 5(21) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(19)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/19)
+[^c-6931597f9b72b87c9546b72ac8be6513]: Textual amendment: Reg. 5(21) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(19)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/19)
 
-[^key-26bf91a45aaa4912926e93b57935ebd4]: Textual amendment: Reg. 5(22)-(24) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(20)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/20)
+[^c-26bf91a45aaa4912926e93b57935ebd4]: Textual amendment: Reg. 5(22)-(24) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(20)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/20)
 
-[^key-f9e656f8fac41c1fbead89a447b18842]: Textual amendment: Reg. 5(25)(b) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-f9e656f8fac41c1fbead89a447b18842]: Textual amendment: Reg. 5(25)(b) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-818f79e3c70d2cf60292b423de60d341]: Textual amendment: Reg. 5(25)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(21)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/21)
+[^c-818f79e3c70d2cf60292b423de60d341]: Textual amendment: Reg. 5(25)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(21)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/21)
 
-[^key-08e567301de83b77cb06d7f66d9e6b5a]: Textual amendment: Reg. 5(26)-(28) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(22)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/22)
+[^c-08e567301de83b77cb06d7f66d9e6b5a]: Textual amendment: Reg. 5(26)-(28) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(22)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/22)
 
-[^key-96666f54c92965219e26bef134e47027]: Textual amendment: Reg. 5(29A)(29B) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(23)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/23)
+[^c-96666f54c92965219e26bef134e47027]: Textual amendment: Reg. 5(29A)(29B) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(23)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/23)
 
-[^key-da5913b140500ef715bcd92e039b310e]: Textual amendment: Reg. 5(30)-(32) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(24)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/24)
+[^c-da5913b140500ef715bcd92e039b310e]: Textual amendment: Reg. 5(30)-(32) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(24)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/24)
 
-[^key-bf39512cafe37401853e36fbf0f9ce1a]: Textual amendment: Reg. 5(33)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(25)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/25/a)
+[^c-bf39512cafe37401853e36fbf0f9ce1a]: Textual amendment: Reg. 5(33)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(25)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/25/a)
 
-[^key-7b8b4ee54cbc8e8f91db1ca4df15a8c7]: Textual amendment: Reg. 5(33)(c)-(e) substituted for [reg. 5(33)(c)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/33/c) (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(25)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/25/b)
+[^c-7b8b4ee54cbc8e8f91db1ca4df15a8c7]: Textual amendment: Reg. 5(33)(c)-(e) substituted for [reg. 5(33)(c)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/33/c) (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(25)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/25/b)
 
-[^key-023b0ae858c2e4ecf845807930d3882b]: Textual amendment: Reg. 5(34)-(36) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(26)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/26)
+[^c-023b0ae858c2e4ecf845807930d3882b]: Textual amendment: Reg. 5(34)-(36) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(26)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/26)
 
-[^key-6af04b60e8e38b4c769d88731ee72fcb]: Textual amendment: Reg. 5(38)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(27)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/27)
+[^c-6af04b60e8e38b4c769d88731ee72fcb]: Textual amendment: Reg. 5(38)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(27)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/27)
 
-[^key-e4aae6993689902b3eebb4977b52c475]: Textual amendment: Reg. 5(39) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(28)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/28)
+[^c-e4aae6993689902b3eebb4977b52c475]: Textual amendment: Reg. 5(39) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(28)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/28)
 
-[^key-cf34dfa16a0623b4a3de06f396abae2c]: Textual amendment: Reg. 5(40)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(29)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/29)
+[^c-cf34dfa16a0623b4a3de06f396abae2c]: Textual amendment: Reg. 5(40)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(29)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/29)
 
-[^key-b5957f71d718343a90d606b6c07c5eb9]: Textual amendment: Reg. 5(40A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(30)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/30)
+[^c-b5957f71d718343a90d606b6c07c5eb9]: Textual amendment: Reg. 5(40A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(30)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/30)
 
-[^key-31548f337c9d6df3c5ccfe7df5d32837]: Textual amendment: Reg. 5(42)(c) inserted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31548f337c9d6df3c5ccfe7df5d32837]: Textual amendment: Reg. 5(42)(c) inserted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85f9395a66cb9db45dc656d5eac1b62a]: Textual amendment: Reg. 5(45) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85f9395a66cb9db45dc656d5eac1b62a]: Textual amendment: Reg. 5(45) substituted (31.12.2020 immediately before IP completion day) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b3d15a42c821b99e700e00f2cc73883]: Textual amendment: Reg. 5(51)-(58) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-1b3d15a42c821b99e700e00f2cc73883]: Textual amendment: Reg. 5(51)-(58) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-abc3650f668fe8f10e8aa2138cf83c8e]: Textual amendment: Reg. 5(51) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(31)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/31)
+[^c-abc3650f668fe8f10e8aa2138cf83c8e]: Textual amendment: Reg. 5(51) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(31)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/31)
 
-[^key-7df541303c7e8a02129e12c15a35aba5]: Textual amendment: Reg. 5(54)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(32)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/32)
+[^c-7df541303c7e8a02129e12c15a35aba5]: Textual amendment: Reg. 5(54)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(32)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/32)
 
-[^key-eb02b4e3f7ff51376df0ad970be5eeb6]: Textual amendment: Reg. 5(55) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(33)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/33)
+[^c-eb02b4e3f7ff51376df0ad970be5eeb6]: Textual amendment: Reg. 5(55) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(33)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/33)
 
-[^key-8197baeed75c86bf4921340231cbac93]: Textual amendment: Reg. 5(55A)[(55B)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/55B) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(34)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/34)
+[^c-8197baeed75c86bf4921340231cbac93]: Textual amendment: Reg. 5(55A)[(55B)](https://www.legislation.gov.uk/uksi/2019/765/regulation/5/55B) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(34)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/34)
 
-[^key-d88a27f06ba5329295cbd5e2f654062d]: Textual amendment: Reg. 5(56)(e) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(35)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/35)
+[^c-d88a27f06ba5329295cbd5e2f654062d]: Textual amendment: Reg. 5(56)(e) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(35)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/35)
 
-[^key-1593c3821bb94f4d9bcd757e8e92e864]: Textual amendment: Reg. 5(58) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(36)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/36)
+[^c-1593c3821bb94f4d9bcd757e8e92e864]: Textual amendment: Reg. 5(58) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(36)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/36)
 
-[^key-da4d3dbc6422d7bf9bc5ed757b1a7417]: Textual amendment: Reg. 5(59) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(37)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/37)
+[^c-da4d3dbc6422d7bf9bc5ed757b1a7417]: Textual amendment: Reg. 5(59) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [8(37)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/37)
 
-[^key-5209475e7df92c24f69420b74cab7e4e]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5209475e7df92c24f69420b74cab7e4e]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0bc8577ea35a2cf4e90b1f9a2d35d37d]: Textual amendment: Words in reg. 6(1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/2)
+[^c-0bc8577ea35a2cf4e90b1f9a2d35d37d]: Textual amendment: Words in reg. 6(1) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/2)
 
-[^key-e052fb3cf81af8e693bec70cff676796]: Textual amendment: Reg. 6(1A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/3)
+[^c-e052fb3cf81af8e693bec70cff676796]: Textual amendment: Reg. 6(1A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/3)
 
-[^key-d980147f801737801f8fc4f4f68da52b]: Textual amendment: Reg. 6(2)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/a)
+[^c-d980147f801737801f8fc4f4f68da52b]: Textual amendment: Reg. 6(2)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/a)
 
-[^key-2cdcf72e556d536c4c19e98ea693a98f]: Textual amendment: Reg. 6(2)(a)(ai) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-2cdcf72e556d536c4c19e98ea693a98f]: Textual amendment: Reg. 6(2)(a)(ai) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-2692bf3ecfaf84cb2d8713d1834d3031]: Textual amendment: Reg. 6(2)(a)(ai) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/b)
+[^c-2692bf3ecfaf84cb2d8713d1834d3031]: Textual amendment: Reg. 6(2)(a)(ai) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/b)
 
-[^key-311c1b1302ec652708a075ce615506c7]: Textual amendment: Reg. 6(2)(a)(i) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-311c1b1302ec652708a075ce615506c7]: Textual amendment: Reg. 6(2)(a)(i) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-000202ec76578d92382fbd5f37aa1d0a]: Textual amendment: Reg. 6(2)(iiia)-(iiid) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/c)
+[^c-000202ec76578d92382fbd5f37aa1d0a]: Textual amendment: Reg. 6(2)(iiia)-(iiid) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/c)
 
-[^key-0111389dfca1fbafe6102ab05c736e96]: Textual amendment: Reg. 6(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(d)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/d)
+[^c-0111389dfca1fbafe6102ab05c736e96]: Textual amendment: Reg. 6(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(d)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/d)
 
-[^key-0d699a3feb3df7169bee5fe8d2dcc1f1]: Textual amendment: Reg. 6(2)(a)(iva)(ivb) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(e)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/e)
+[^c-0d699a3feb3df7169bee5fe8d2dcc1f1]: Textual amendment: Reg. 6(2)(a)(iva)(ivb) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(4)(e)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/e)
 
-[^key-abe1c8246cdba9ca6667507d35eb8956]: Textual amendment: Reg. 6(4) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/5)
+[^c-abe1c8246cdba9ca6667507d35eb8956]: Textual amendment: Reg. 6(4) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/5)
 
-[^key-caf18cfecc32b0fd521a17db4c64be1e]: Textual amendment: Reg. 6(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(6)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/6/a)
+[^c-caf18cfecc32b0fd521a17db4c64be1e]: Textual amendment: Reg. 6(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(6)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/6/a)
 
-[^key-58ce23f14b7660b3737fdd944d4fb1e9]: Textual amendment: Reg. 6(5)(b)(iia) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/6/b/i)
+[^c-58ce23f14b7660b3737fdd944d4fb1e9]: Textual amendment: Reg. 6(5)(b)(iia) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/6/b/i)
 
-[^key-2042e5bea723670d1eb3a5944bf646aa]: Textual amendment: Reg. 6(5)(b)(iii)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/6/b/ii)
+[^c-2042e5bea723670d1eb3a5944bf646aa]: Textual amendment: Reg. 6(5)(b)(iii)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/6/b/ii)
 
-[^key-2da8366314073a5f3f68ee2b59fc6b90]: Textual amendment: Reg. 6(6)(7) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/7)
+[^c-2da8366314073a5f3f68ee2b59fc6b90]: Textual amendment: Reg. 6(6)(7) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/7)
 
-[^key-aac2766d53baec08d36c7a7583083404]: Textual amendment: Word in reg. 6(8)(b)(ii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/8)
+[^c-aac2766d53baec08d36c7a7583083404]: Textual amendment: Word in reg. 6(8)(b)(ii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/8)
 
-[^key-c75be4520e045f1af2f59ef9c530a3c9]: Textual amendment: Word in reg. 6(9) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(9)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/9)
+[^c-c75be4520e045f1af2f59ef9c530a3c9]: Textual amendment: Word in reg. 6(9) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(9)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/9)
 
-[^key-148edbb547dd632c37ef0acbad3b4a4a]: Textual amendment: Reg. 6(9A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(10)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/10)
+[^c-148edbb547dd632c37ef0acbad3b4a4a]: Textual amendment: Reg. 6(9A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(10)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/10)
 
-[^key-79479feffd30bfdd028b7387336af5d4]: Textual amendment: Reg. 6(12) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(11)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/11)
+[^c-79479feffd30bfdd028b7387336af5d4]: Textual amendment: Reg. 6(12) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(11)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/11)
 
-[^key-847525b9b04d5fb879d35bc47e47a338]: Textual amendment: Reg. 6(13) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(12)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/12)
+[^c-847525b9b04d5fb879d35bc47e47a338]: Textual amendment: Reg. 6(13) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(12)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/12)
 
-[^key-955ef57626784a8db70a40ec76a0d79f]: Textual amendment: Reg. 6(14) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(13)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/13)
+[^c-955ef57626784a8db70a40ec76a0d79f]: Textual amendment: Reg. 6(14) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(13)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/13)
 
-[^key-54176e70c035589a6c30be4b3531b798]: Textual amendment: Reg. 6(15) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(14)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/14)
+[^c-54176e70c035589a6c30be4b3531b798]: Textual amendment: Reg. 6(15) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(14)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/14)
 
-[^key-c56ac2ad349885beb6a2f57ff0cf825c]: Textual amendment: Reg. 6(15A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/15)
+[^c-c56ac2ad349885beb6a2f57ff0cf825c]: Textual amendment: Reg. 6(15A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/15)
 
-[^key-33bba9147063e5a5202bb48ad385fc91]: Textual amendment: Reg. 6(16) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(16)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/16)
+[^c-33bba9147063e5a5202bb48ad385fc91]: Textual amendment: Reg. 6(16) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(16)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/16)
 
-[^key-e47073fa53513d5f7014767954e64a2c]: Textual amendment: Reg. 6(17) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(17)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/17)
+[^c-e47073fa53513d5f7014767954e64a2c]: Textual amendment: Reg. 6(17) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(17)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/17)
 
-[^key-498542c34a9b1895c85ef93e170551b4]: Textual amendment: Reg. 6(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(18)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/18)
+[^c-498542c34a9b1895c85ef93e170551b4]: Textual amendment: Reg. 6(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(18)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/18)
 
-[^key-6bff4d6e2429e85892d7571486c3b5a7]: Textual amendment: Reg. 6(19)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/a)
+[^c-6bff4d6e2429e85892d7571486c3b5a7]: Textual amendment: Reg. 6(19)(za) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/a)
 
-[^key-ab30863b39e4bd0210fc0f2f0bf59a90]: Textual amendment: Reg. 6(19)(a)(ai)-(ci) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b), [9(19)(b)(aa)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/9/19/b/aa)
+[^c-ab30863b39e4bd0210fc0f2f0bf59a90]: Textual amendment: Reg. 6(19)(a)(ai)-(ci) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b), [9(19)(b)(aa)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/9/19/b/aa)
 
-[^key-773e57b32b9fdb2cd86372c9bb30587f]: Textual amendment: Reg. 6(19)(a)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/b)[(bb)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/bb)
+[^c-773e57b32b9fdb2cd86372c9bb30587f]: Textual amendment: Reg. 6(19)(a)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/b)[(bb)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/bb)
 
-[^key-b572906326f092314784b46618438671]: Textual amendment: Reg. 6(19)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/c)
+[^c-b572906326f092314784b46618438671]: Textual amendment: Reg. 6(19)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/c)
 
-[^key-2bb16bc427d2709e1b3b4813c744b7a4]: Textual amendment: Reg. 6(19)(c) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(d)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/d)
+[^c-2bb16bc427d2709e1b3b4813c744b7a4]: Textual amendment: Reg. 6(19)(c) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(19)(d)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/19/d)
 
-[^key-94873d7006486754da52dbe61f26c957]: Textual amendment: Reg. 6(20) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(20)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/20)
+[^c-94873d7006486754da52dbe61f26c957]: Textual amendment: Reg. 6(20) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(20)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/20)
 
-[^key-6e168cbbc7b041877188a552e9cc2465]: Textual amendment: Reg. 6(21)(a)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(21)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/21/a)
+[^c-6e168cbbc7b041877188a552e9cc2465]: Textual amendment: Reg. 6(21)(a)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(21)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/21/a)
 
-[^key-52db132633dc597f530b1a54d1316df9]: Textual amendment: Word in reg. 6(21)(b)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(21)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/21/b)
+[^c-52db132633dc597f530b1a54d1316df9]: Textual amendment: Word in reg. 6(21)(b)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(21)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/21/b)
 
-[^key-f5fb2cec599ac1a2b94b17d5fb4ba52b]: Textual amendment: Reg. 6(21A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(22)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/22)
+[^c-f5fb2cec599ac1a2b94b17d5fb4ba52b]: Textual amendment: Reg. 6(21A) inserted (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(22)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/22)
 
-[^key-9d9b88af151726966951212cfa7336e1]: Textual amendment: Reg. 6(25)(26) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-9d9b88af151726966951212cfa7336e1]: Textual amendment: Reg. 6(25)(26) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-365b6c6c554d3e68b9edc0b2fb6c5fdc]: Textual amendment: Reg. 6(27) substituted for (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(23)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/23)
+[^c-365b6c6c554d3e68b9edc0b2fb6c5fdc]: Textual amendment: Reg. 6(27) substituted for (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [9(23)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/23)
 
-[^key-3d3c509e66cc513e5fe7dad61f4ecdc1]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3d3c509e66cc513e5fe7dad61f4ecdc1]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

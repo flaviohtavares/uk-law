@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Prize fund interest rate changes and changes in the scale of prizes[^key-5850d36cd0a1f75542fed328c715eb7f]
+## 12. Prize fund interest rate changes and changes in the scale of prizes[^c-5850d36cd0a1f75542fed328c715eb7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5850d36cd0a1f75542fed328c715eb7f]: Commencement: Reg. 12 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-5850d36cd0a1f75542fed328c715eb7f]: Commencement: Reg. 12 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

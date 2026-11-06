@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 120. Calculation of amount of transfer payment under regulation 119[^key-0d4f5d20b4da3e5e3ca9b709d316a34b]
+## 120. Calculation of amount of transfer payment under regulation 119[^c-0d4f5d20b4da3e5e3ca9b709d316a34b]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d4f5d20b4da3e5e3ca9b709d316a34b]: Commencement: Reg. 120 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-0d4f5d20b4da3e5e3ca9b709d316a34b]: Commencement: Reg. 120 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

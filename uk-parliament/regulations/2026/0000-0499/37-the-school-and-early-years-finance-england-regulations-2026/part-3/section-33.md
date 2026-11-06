@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Special arrangements for pupils in maintained nursery schools and nursery classes and for children receiving relevant early years provision and community early years provision[^key-1879d33a3b01d47a0e247df42dac88dc]
+## 33. Special arrangements for pupils in maintained nursery schools and nursery classes and for children receiving relevant early years provision and community early years provision[^c-1879d33a3b01d47a0e247df42dac88dc]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ a local authority may take into account in its formula the number of places it w
 
 ## Annotations
 
-[^key-1879d33a3b01d47a0e247df42dac88dc]: Commencement: Reg. 33 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-1879d33a3b01d47a0e247df42dac88dc]: Commencement: Reg. 33 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00080]: Footnote: Section 17 was amended by section 4 of, and paragraph 108(a) of Schedule 2 to, the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), section 7(1) and (2) of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 47 of, and paragraphs 15 and 16 of Schedule 3 to, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), section 116(1) of the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 53(1) of the 2004 Act, section 28(1) of, and paragraph 6(1) and (2) of Schedule 3 to, the 2007 Act, sections 8(2), 24 and 42 of, and paragraph 1 of Schedule 1, and Schedule 4 to, the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 31 of, and paragraph 1(a) of Schedule 2 to, the 2012 Act and by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413); Section 17 will also be amended by sections 9(3)(b) and 58(1) of, and Part 1 of Schedule 7 to, the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24) and section 147 of, and Part 1 of Schedule 14 to, the 2012 Act on a date to be appointed.

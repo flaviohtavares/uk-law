@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX VIII[^key-e6044a547f3e91679218d5ee77f388ae]
+## ANNEX VIII[^c-e6044a547f3e91679218d5ee77f388ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6044a547f3e91679218d5ee77f388ae]: Textual amendment: [Annexes 7](https://www.legislation.gov.uk/eur/2017/1485/annex/7), [8](https://www.legislation.gov.uk/eur/2017/1485/annex/8) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/131) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6044a547f3e91679218d5ee77f388ae]: Textual amendment: [Annexes 7](https://www.legislation.gov.uk/eur/2017/1485/annex/7), [8](https://www.legislation.gov.uk/eur/2017/1485/annex/8) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/131) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

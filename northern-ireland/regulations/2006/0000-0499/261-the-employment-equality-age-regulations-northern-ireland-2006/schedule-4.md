@@ -24,7 +24,7 @@ Regulation 49
 
 ### PART 1 — Validity and revision of contracts
 
-**1.**[^key-7831359f408e4e961f539cd09d4f2d3a] (1) A term of a contract is void where—
+**1.**[^c-7831359f408e4e961f539cd09d4f2d3a] (1) A term of a contract is void where—
 
 - (a) the making of the contract is, by reason of the inclusion of the term, unlawful by virtue of these Regulations;
 - (b) it is included in furtherance of an act which is unlawful by virtue of these Regulations; or
@@ -34,9 +34,9 @@ Regulation 49
 
 (3) A term in a contract which purports to exclude or limit any provision of these Regulations is unenforceable by any person in whose favour the term would operate apart from this paragraph.
 
-(4)[^key-48c1b59889a847ca229c1cd1e3b2ca19] Sub-paragraphs (1), (2) and (3) shall apply whether the contract was entered into before or after the date on which any term of the contract became unlawful by virtue of these Regulations, but in the case of a contract made before the date on which a term became unlawful, those sub-paragraphs do not apply to that term in relation to any period before that date.
+(4)[^c-48c1b59889a847ca229c1cd1e3b2ca19] Sub-paragraphs (1), (2) and (3) shall apply whether the contract was entered into before or after the date on which any term of the contract became unlawful by virtue of these Regulations, but in the case of a contract made before the date on which a term became unlawful, those sub-paragraphs do not apply to that term in relation to any period before that date.
 
-**2.**[^key-2c87ccf834bfef28cb3531e66c240d7e] (1) Paragraph 1(3) does not apply—
+**2.**[^c-2c87ccf834bfef28cb3531e66c240d7e] (1) Paragraph 1(3) does not apply—
 
 - (a) to a contract settling a complaint to which regulation 41(1) (jurisdiction of industrial tribunals) applies where the contract is made with the assistance of the Labour Relations Agency;
 - (b) to a contract settling a complaint to which regulation 41(1) applies if the conditions regulating compromise contracts under this Schedule are satisfied in relation to the contract; or
@@ -79,18 +79,18 @@ Regulation 49
   - (ii) the agreement is to submit it to arbitration in accordance with the scheme, but
 - (b) shall be regarded as neither being nor including such a contract in any other case.
 
-**3.**[^key-5eb3688f1189c842f0e2ce873456241e] (1) On the application of a person interested in a contract to which paragraph 1(1) or (2) applies, a county court may make such order as it thinks fit for—
+**3.**[^c-5eb3688f1189c842f0e2ce873456241e] (1) On the application of a person interested in a contract to which paragraph 1(1) or (2) applies, a county court may make such order as it thinks fit for—
 
 - (a) removing or modifying any term rendered void by paragraph 1(1), or
 - (b) removing or modifying any term made unenforceable by paragraph 1(2);
 
 but such an order shall not be made unless all persons affected have been given notice in writing of the application (except where under county court rules notice may be dispensed with) and have been afforded an opportunity to make representations to the court.
 
-(2) An order under sub-paragraph (1) may include provision as respects any period before the making of the order (but after the date on which the inclusion of any term which is the subject of the order becomes unlawful by virtue of these Regulations)[^key-1e65cd7320d99b46812e3f95b606c5e6] .
+(2) An order under sub-paragraph (1) may include provision as respects any period before the making of the order (but after the date on which the inclusion of any term which is the subject of the order becomes unlawful by virtue of these Regulations)[^c-1e65cd7320d99b46812e3f95b606c5e6] .
 
 ### PART 2 — Collective agreements and rules of undertakings
 
-**4.**[^key-5305e22e6866fe1510423ab731fa8409] (1) This Part of this Schedule applies to—
+**4.**[^c-5305e22e6866fe1510423ab731fa8409] (1) This Part of this Schedule applies to—
 
 - (a) any term of a collective agreement, including an agreement which was not intended, or is presumed not to have been intended, to be a legally enforceable contract;
 - (b) any rule made by an employer for application to all or any of the persons who are employed by him or who apply to be, or are, considered by him for employment;
@@ -104,16 +104,16 @@ but such an order shall not be made unless all persons affected have been given 
 - (b) the term or rule is included or made in furtherance of an act which is unlawful by virtue of these Regulations; or
 - (c) the term or rule provides for the doing of an act which is unlawful by virtue of these Regulations.
 
-(3)[^key-c5381a4058f76fc1bafbcdad96b2250f] Sub-paragraph (2) shall apply whether the agreement was entered into, or the rule made, before or after the date on which any term of the agreement or rule became unlawful by virtue of these Regulations; but in the case of an agreement entered into, or a rule made, before the date on which a term, or rule, became unlawful, that sub-paragraph does not apply to that term or rule in relation to any period before that date.
+(3)[^c-c5381a4058f76fc1bafbcdad96b2250f] Sub-paragraph (2) shall apply whether the agreement was entered into, or the rule made, before or after the date on which any term of the agreement or rule became unlawful by virtue of these Regulations; but in the case of an agreement entered into, or a rule made, before the date on which a term, or rule, became unlawful, that sub-paragraph does not apply to that term or rule in relation to any period before that date.
 
-**5.**[^key-5594f60df1650255853ba58218645d8e] A person to whom this paragraph applies may present a complaint to an industrial tribunal that a term or rule is void by virtue of paragraph 4 if he has reason to believe—
+**5.**[^c-5594f60df1650255853ba58218645d8e] A person to whom this paragraph applies may present a complaint to an industrial tribunal that a term or rule is void by virtue of paragraph 4 if he has reason to believe—
 
 - (a) that the term or rule may at some future time have effect in relation to him; and
 - (b) where he alleges that it is void by virtue of paragraph 4(2)(c), that—
   - (i) an act for the doing of which it provides, may at some time be done in relation to him, and
   - (ii) the act would be unlawful by virtue of these Regulations if done in relation to him in present circumstances.
 
-**6.**[^key-3106aa22a6aa24c1c8d1774a890bb1e3] In the case of a complaint about—
+**6.**[^c-3106aa22a6aa24c1c8d1774a890bb1e3] In the case of a complaint about—
 
 - (a) a term of a collective agreement made by or on behalf of—
   - (i) an employer,
@@ -123,57 +123,57 @@ but such an order shall not be made unless all persons affected have been given 
 
 paragraph 5 applies to any person who is, or is genuinely and actively seeking to become, one of his employees.
 
-**7.**[^key-cfdad443efee38ab675c05b5f79ffa71] In the case of a complaint about a rule made by an organisation or body to which paragraph 4(1)(c) applies, paragraph 5 applies to any person—
+**7.**[^c-cfdad443efee38ab675c05b5f79ffa71] In the case of a complaint about a rule made by an organisation or body to which paragraph 4(1)(c) applies, paragraph 5 applies to any person—
 
 - (a) who is, or is genuinely and actively seeking to become, a member of the organisation or body;
 - (b) on whom the organisation or body has conferred a professional or trade qualification (within the meaning of regulation 20) which the organisation or body has power to confer; or
 - (c) who is genuinely and actively seeking such a professional or trade qualification which the organisation or body has power to confer.
 
-**8.**[^key-a8f30956b9da55c663d46c7d44a98aae] (1) When an industrial tribunal finds that a complaint presented to it under paragraph 5 is well-founded the tribunal shall make an order declaring that the term or rule is void.
+**8.**[^c-a8f30956b9da55c663d46c7d44a98aae] (1) When an industrial tribunal finds that a complaint presented to it under paragraph 5 is well-founded the tribunal shall make an order declaring that the term or rule is void.
 
-(2) An order under sub-paragraph (1) may include provision as respects any period before the making of the order (but after the date on which the inclusion of the term or rule became unlawful by virtue of these Regulations)[^key-0617b8932f27662c74b38fcf770e04c9] .
+(2) An order under sub-paragraph (1) may include provision as respects any period before the making of the order (but after the date on which the inclusion of the term or rule became unlawful by virtue of these Regulations)[^c-0617b8932f27662c74b38fcf770e04c9] .
 
-**9.**[^key-f0e116725c077a684557a64e176f8181] The avoidance by virtue of paragraph 4(2) of any term or rule which provides for any person to be discriminated against shall be without prejudice to the following rights (except in so far as they enable any person to require another person to be treated less favourably than himself), namely—
+**9.**[^c-f0e116725c077a684557a64e176f8181] The avoidance by virtue of paragraph 4(2) of any term or rule which provides for any person to be discriminated against shall be without prejudice to the following rights (except in so far as they enable any person to require another person to be treated less favourably than himself), namely—
 
 - (a) such of the rights of the person to be discriminated against; and
 - (b) such of the rights of any person who will be treated more favourably in direct or indirect consequence of the discrimination,
 
 as are conferred by or in respect of a contract made or modified wholly or partly in pursuance of, or by reference to, that term or rule.
 
-**10.**[^key-208b15e8eb5ef5ba34bb04a99be361eb] In this Schedule “collective agreement” means any agreement relating to one or more of the matters mentioned in Article 96(1) of the Industrial Relations (Northern Ireland) Order 1992[^f00052] (meaning of trade dispute), being an agreement made by or on behalf of one or more employers or one or more organisations of employers or associations of such organisations with one or more organisations of workers or associations of such organisations.
+**10.**[^c-208b15e8eb5ef5ba34bb04a99be361eb] In this Schedule “collective agreement” means any agreement relating to one or more of the matters mentioned in Article 96(1) of the Industrial Relations (Northern Ireland) Order 1992[^f00052] (meaning of trade dispute), being an agreement made by or on behalf of one or more employers or one or more organisations of employers or associations of such organisations with one or more organisations of workers or associations of such organisations.
 
 ## Annotations
 
-[^key-7831359f408e4e961f539cd09d4f2d3a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-7831359f408e4e961f539cd09d4f2d3a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-48c1b59889a847ca229c1cd1e3b2ca19]: Textual amendment: [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/1/4) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/a)
+[^c-48c1b59889a847ca229c1cd1e3b2ca19]: Textual amendment: [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/1/4) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/a)
 
-[^key-2c87ccf834bfef28cb3531e66c240d7e]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-2c87ccf834bfef28cb3531e66c240d7e]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00050]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
 [^f00051]: Footnote: Article 84A was inserted by Article 8 of the Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998 (S.I. [1998/1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265))
 
-[^key-5eb3688f1189c842f0e2ce873456241e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-5eb3688f1189c842f0e2ce873456241e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-1e65cd7320d99b46812e3f95b606c5e6]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/3/2) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/b)
+[^c-1e65cd7320d99b46812e3f95b606c5e6]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/3/2) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/b)
 
-[^key-5305e22e6866fe1510423ab731fa8409]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-5305e22e6866fe1510423ab731fa8409]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-c5381a4058f76fc1bafbcdad96b2250f]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/4/3) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/c)
+[^c-c5381a4058f76fc1bafbcdad96b2250f]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/4/3) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/c)
 
-[^key-5594f60df1650255853ba58218645d8e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-5594f60df1650255853ba58218645d8e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-3106aa22a6aa24c1c8d1774a890bb1e3]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-3106aa22a6aa24c1c8d1774a890bb1e3]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-cfdad443efee38ab675c05b5f79ffa71]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-cfdad443efee38ab675c05b5f79ffa71]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-a8f30956b9da55c663d46c7d44a98aae]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-a8f30956b9da55c663d46c7d44a98aae]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-0617b8932f27662c74b38fcf770e04c9]: Textual amendment: Words in [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/8/2) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(d)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/d)
+[^c-0617b8932f27662c74b38fcf770e04c9]: Textual amendment: Words in [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/8/2) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(7)(d)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/7/d)
 
-[^key-f0e116725c077a684557a64e176f8181]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-f0e116725c077a684557a64e176f8181]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-208b15e8eb5ef5ba34bb04a99be361eb]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/10) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-208b15e8eb5ef5ba34bb04a99be361eb]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2006/261/schedule/4/paragraph/10) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00052]: Footnote: For the purposes of the 1992 Order, the term “collective agreement” is defined in Article 2(2) of that Order

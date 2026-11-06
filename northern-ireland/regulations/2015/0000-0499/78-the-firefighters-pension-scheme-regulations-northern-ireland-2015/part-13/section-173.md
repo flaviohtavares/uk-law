@@ -48,7 +48,7 @@ so much of any pension as has been withdrawn under this regulation.
   - (b) is liable to lead to serious loss of confidence in the public service;
 - “**relevant offence**” means—
   - (a) offences of treason,
-  - (b) offences under the Official Secrets Acts 1911 to 1989 [^c22394561] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-79f1c159883fd46edc42d35818779f4e] for which the member has been sentenced on the same occasion—
+  - (b) offences under the Official Secrets Acts 1911 to 1989 [^c22394561] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-79f1c159883fd46edc42d35818779f4e] for which the member has been sentenced on the same occasion—
     - (i) to a term of imprisonment of at least 10 years,
     - (ii) to two or more consecutive terms amounting in the aggregate to at least 10 years, or
   - (c) offences—
@@ -61,4 +61,4 @@ so much of any pension as has been withdrawn under this regulation.
 
 [^c22394561]: Marginal citation: [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6), see [section 16(2)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-79f1c159883fd46edc42d35818779f4e]: Textual amendment: Words in [reg. 173(5)](https://www.legislation.gov.uk/nisr/2015/78/regulation/173/5) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 41(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/41/2)
+[^c-79f1c159883fd46edc42d35818779f4e]: Textual amendment: Words in [reg. 173(5)](https://www.legislation.gov.uk/nisr/2015/78/regulation/173/5) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 41(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/41/2)

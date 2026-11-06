@@ -31,7 +31,7 @@ summary: ''
 
 CRIMINAL LAW, ENGLAND AND WALES, CRIMINAL LAW, NORTHERN IRELAND, CRIMINAL LAW, SCOTLAND
 
-The Zimbabwe (Freezing of Funds, other Financial Assets or Economic Resources) Regulations 2002 (revoked)[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]
+The Zimbabwe (Freezing of Funds, other Financial Assets or Economic Resources) Regulations 2002 (revoked)[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]
 
 Made
 
@@ -45,50 +45,50 @@ Coming into force
 
 27th March 2002
 
-[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]
+## 1. Citation, commencement and interpretation[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Breaches of the EC Regulation[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]
+## 2. Breaches of the EC Regulation[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requests for authorisations etc[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]
+## 3. Requests for authorisations etc[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]
+## 4. Information[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties and proceedings[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]
+## 5. Penalties and proceedings[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Provided that this paragraph shall not prevent the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of such an offence, or the remand in custody or on bail of any person charged with such an offence, notwithstanding that the necessary consent to the institution of proceedings for the offence has not been obtained.
 
-[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — INFORMATION[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]
+## SCHEDULE — INFORMATION[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]
 
 Regulation 4
 
-**1.**[^key-223aab5d677bdc1bb5dfffbb8be3ea5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-223aab5d677bdc1bb5dfffbb8be3ea5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-223aab5d677bdc1bb5dfffbb8be3ea5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-223aab5d677bdc1bb5dfffbb8be3ea5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-223aab5d677bdc1bb5dfffbb8be3ea5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-223aab5d677bdc1bb5dfffbb8be3ea5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-223aab5d677bdc1bb5dfffbb8be3ea5f]: Textual amendment: Regulations revoked (24.4.2009) by [The Zimbabwe (Financial Sanctions) Regulations 2009 (S.I. 2009/847)](https://www.legislation.gov.uk/uksi/2009/847), [regs. 1 (1)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/a), [17(a)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/847/regulation/1/2))
+[^c-223aab5d677bdc1bb5dfffbb8be3ea5f]: Textual amendment: Regulations revoked (24.4.2009) by [The Zimbabwe (Financial Sanctions) Regulations 2009 (S.I. 2009/847)](https://www.legislation.gov.uk/uksi/2009/847), [regs. 1 (1)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/a), [17(a)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/847/regulation/1/2))

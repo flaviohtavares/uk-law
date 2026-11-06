@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Nursing and Midwifery Student Allowances (Scotland) Regulations 2007 (revoked)[^key-e25766de475dad6042cd28ad3160c4d9]
+The Nursing and Midwifery Student Allowances (Scotland) Regulations 2007 (revoked)[^c-e25766de475dad6042cd28ad3160c4d9]
 
 Made
 
@@ -46,78 +46,78 @@ Coming into force
 
 1st August 2007
 
-[^key-e25766de475dad6042cd28ad3160c4d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e25766de475dad6042cd28ad3160c4d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e25766de475dad6042cd28ad3160c4d9]
+## 1. Citation and commencement[^c-e25766de475dad6042cd28ad3160c4d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e25766de475dad6042cd28ad3160c4d9]
+## 2. Interpretation[^c-e25766de475dad6042cd28ad3160c4d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons eligible for allowance[^key-e25766de475dad6042cd28ad3160c4d9]
+## 3. Persons eligible for allowance[^c-e25766de475dad6042cd28ad3160c4d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount of allowances[^key-e25766de475dad6042cd28ad3160c4d9]
+## 4. Amount of allowances[^c-e25766de475dad6042cd28ad3160c4d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Conditions and requirements of allowances[^key-e25766de475dad6042cd28ad3160c4d9]
+## 5. Conditions and requirements of allowances[^c-e25766de475dad6042cd28ad3160c4d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Method of payment[^key-e25766de475dad6042cd28ad3160c4d9]
+## 6. Method of payment[^c-e25766de475dad6042cd28ad3160c4d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e25766de475dad6042cd28ad3160c4d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e25766de475dad6042cd28ad3160c4d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PERSONS ELIGIBLE FOR ALLOWANCES[^key-e25766de475dad6042cd28ad3160c4d9]
+## SCHEDULE 1 — PERSONS ELIGIBLE FOR ALLOWANCES[^c-e25766de475dad6042cd28ad3160c4d9]
 
 Regulation 3(1)(b)
 
-**1.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ORDINARY RESIDENCE[^key-e25766de475dad6042cd28ad3160c4d9]
+## SCHEDULE 2 — ORDINARY RESIDENCE[^c-e25766de475dad6042cd28ad3160c4d9]
 
 Regulation 3(2)
 
-**1.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e25766de475dad6042cd28ad3160c4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e25766de475dad6042cd28ad3160c4d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e25766de475dad6042cd28ad3160c4d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e25766de475dad6042cd28ad3160c4d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2007/151) revoked (1.8.2022) by [The Student Support (Scotland) Regulations 2022 (S.S.I. 2022/157)](https://www.legislation.gov.uk/ssi/2022/157), [reg. 1](https://www.legislation.gov.uk/ssi/2022/157/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2022/157/schedule/5)
+[^c-e25766de475dad6042cd28ad3160c4d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2007/151) revoked (1.8.2022) by [The Student Support (Scotland) Regulations 2022 (S.S.I. 2022/157)](https://www.legislation.gov.uk/ssi/2022/157), [reg. 1](https://www.legislation.gov.uk/ssi/2022/157/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2022/157/schedule/5)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

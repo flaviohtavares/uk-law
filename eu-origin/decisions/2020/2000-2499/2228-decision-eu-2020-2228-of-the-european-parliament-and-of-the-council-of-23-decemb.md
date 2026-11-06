@@ -33,50 +33,50 @@ of 23 December 2020
 
 on a European Year of Rail (2021) (revoked)
 
-[^key-cbf00d794b766bd4ded8008c46bbadaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbf00d794b766bd4ded8008c46bbadaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 1. Subject matter[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Objectives[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 2. Objectives[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Content of measures[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 3. Content of measures[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Coordination at Member State level[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 4. Coordination at Member State level[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Coordination at Union level[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 5. Coordination at Union level[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. International cooperation[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 6. International cooperation[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Monitoring and evaluation[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 7. Monitoring and evaluation[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## Article 8. Entry into force[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cbf00d794b766bd4ded8008c46bbadaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbf00d794b766bd4ded8008c46bbadaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — PARTNERSHIPS AND EVENTS[^key-cbf00d794b766bd4ded8008c46bbadaa]
+## ANNEX — PARTNERSHIPS AND EVENTS[^c-cbf00d794b766bd4ded8008c46bbadaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cbf00d794b766bd4ded8008c46bbadaa]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-cbf00d794b766bd4ded8008c46bbadaa]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

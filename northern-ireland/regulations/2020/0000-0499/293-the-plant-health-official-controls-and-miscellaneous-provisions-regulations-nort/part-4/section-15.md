@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Notices in relation to controlled plant pests or prohibited material[^key-651dd524b7b4cc0de6f0dbe6b4373ccd]
+## 15. Notices in relation to controlled plant pests or prohibited material[^c-651dd524b7b4cc0de6f0dbe6b4373ccd]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-651dd524b7b4cc0de6f0dbe6b4373ccd]: Commencement: Reg. 15 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-651dd524b7b4cc0de6f0dbe6b4373ccd]: Commencement: Reg. 15 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

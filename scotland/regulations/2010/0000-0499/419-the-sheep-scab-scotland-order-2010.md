@@ -46,7 +46,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 ## PART 1 — INTRODUCTORY PROVISIONS
 
-### 1. Citation, commencement, extent and application[^key-a14f4922bb911194e3948f6cb96b59e9]
+### 1. Citation, commencement, extent and application[^c-a14f4922bb911194e3948f6cb96b59e9]
 
 This Order—
 
@@ -55,26 +55,26 @@ This Order—
 - (c) extends to Scotland only; and
 - (d) does not apply in the local government area of the Shetland Islands[^f00002].
 
-### 2. Interpretation[^key-b54937c70b91620eb7bdbb8c7206c88e]
+### 2. Interpretation[^c-b54937c70b91620eb7bdbb8c7206c88e]
 
 (1) In this Order, unless the context otherwise requires—
 
 - “affected” means affected or suspected of being affected with sheep scab;
-- “[^key-1d0fbe16ca3784e621aec40d910b3d1f]**authorised veterinary inspector**” means a veterinary inspector appointed by the Scottish Ministers to receive information about affected sheep and carcases;
+- “[^c-1d0fbe16ca3784e621aec40d910b3d1f]**authorised veterinary inspector**” means a veterinary inspector appointed by the Scottish Ministers to receive information about affected sheep and carcases;
 - “carcase” means the carcase of a sheep, and includes part of a carcase and the meat, bones, hide, skin, fleece, wool, hoofs, horns, offal, or other part of a sheep, separately or otherwise, or any portion thereof;
 - “clearance notice” means a notice within the meaning of article 8;
 - “common land” means land grazed in common;
-- [^key-b804d238113d945852d144840ee79f97]...
+- [^c-b804d238113d945852d144840ee79f97]...
 - “market” means a market, fairground, sale-yard or other place where sheep are commonly exposed for sale, or any place where sheep are gathered together for the purpose of selection or grading for sale;
 - “place of exhibition” means a place at which exhibitions or shows of sheep are held;
 - “premises” includes any land, building or other place;
 - “sheep scab” means an infestation of psoroptic or sarcoptic mites;
-- “treatment” means treatment with a product for the treatment of sheep scab which may be placed on the market under the Veterinary Medicines Regulations 2013[^key-6a3c447a27e0c9c616a59206dd6f7ccc]; and “treat” and “treated” are to be construed accordingly; and
+- “treatment” means treatment with a product for the treatment of sheep scab which may be placed on the market under the Veterinary Medicines Regulations 2013[^c-6a3c447a27e0c9c616a59206dd6f7ccc]; and “treat” and “treated” are to be construed accordingly; and
 - “veterinary surgeon” means a person registered in the register of veterinary surgeons, or in the supplementary veterinary register, kept under the Veterinary Surgeons Act 1966[^f00004].
 
 (2) Any reference in this Order to anything done in writing or produced in electronic form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000[^f00005] which has been recorded and is consequently capable of being reproduced.
 
-### 3. Licences and notices[^key-9d59f4c4c8a5054c16be944cea438b1d]
+### 3. Licences and notices[^c-9d59f4c4c8a5054c16be944cea438b1d]
 
 (1) Licences issued or notices given under this Order—
 
@@ -91,17 +91,17 @@ This Order—
 
 ## PART 2 — NOTIFICATION, MOVEMENT RESTRICTIONS AND VETERINARY ENQUIRY
 
-### 4. Notification of sheep scab or suspected sheep scab[^key-27b17bc62f189a566fd4349b0757d8f0]
+### 4. Notification of sheep scab or suspected sheep scab[^c-27b17bc62f189a566fd4349b0757d8f0]
 
-(1) A person who has possession of, or is in charge of, any sheep or carcase which the person knows or suspects has sheep scab must as soon as possible notify an authorised veterinary inspector[^key-dadc1cf24007cd9e5c812c6fa3ebb2ee] of that knowledge or suspicion.
+(1) A person who has possession of, or is in charge of, any sheep or carcase which the person knows or suspects has sheep scab must as soon as possible notify an authorised veterinary inspector[^c-dadc1cf24007cd9e5c812c6fa3ebb2ee] of that knowledge or suspicion.
 
 (2) A veterinary surgeon who examines any sheep or carcase which he or she knows or suspects has sheep scab must as soon as possible notify an authorised veterinary inspector of that knowledge or suspicion.
 
-(3) When notice is given under paragraph (1) by a person other than the owner or (if different) the keeper of the affected sheep or affected carcase, the authorised veterinary inspector[^key-0282a3562d33f0c8bda704ccac620def] must, in so far as it is reasonably practicable to do so and[^key-184294020e6b49281c98a47758796079] as soon as possible inform the owner or (if different) the keeper of the affected sheep or affected carcase that notification has been made.
+(3) When notice is given under paragraph (1) by a person other than the owner or (if different) the keeper of the affected sheep or affected carcase, the authorised veterinary inspector[^c-0282a3562d33f0c8bda704ccac620def] must, in so far as it is reasonably practicable to do so and[^c-184294020e6b49281c98a47758796079] as soon as possible inform the owner or (if different) the keeper of the affected sheep or affected carcase that notification has been made.
 
 (4) When notice is given under paragraph (2) the veterinary surgeon must as soon as possible inform the owner or (if different) the keeper of the affected sheep or affected carcase that notification has been made.
 
-### 5. Restrictions on the movement of sheep[^key-8b47b6c5ced8363f101a9275c52af7a0]
+### 5. Restrictions on the movement of sheep[^c-8b47b6c5ced8363f101a9275c52af7a0]
 
 (1) Paragraphs (2) and (3)—
 
@@ -135,9 +135,9 @@ This Order—
 - (a) from the owner or (if different) the keeper of the sheep, written confirmation that—
   - (i) all affected sheep on the premises have been treated, all affected carcases have been disposed of and 16 days have elapsed since last disposal or treatment; or
   - (ii) all sheep on the premises have been treated with a treatment that provides at least 16 days’ residual protection against re-infestation with sheep scab and all affected carcases have been disposed of; or
-- (b)[^key-f9a5394c2d82b4beafa8d9a6c702c89f] from a veterinary surgeon, written confirmation that in the veterinary surgeon’s opinion there are no affected sheep or affected carcases on the premises.
+- (b)[^c-f9a5394c2d82b4beafa8d9a6c702c89f] from a veterinary surgeon, written confirmation that in the veterinary surgeon’s opinion there are no affected sheep or affected carcases on the premises.
 
-### 6. Service of notice requiring veterinary enquiry[^key-40d8d3fb132757fdb4b7c69c43ee37d4]
+### 6. Service of notice requiring veterinary enquiry[^c-40d8d3fb132757fdb4b7c69c43ee37d4]
 
 (1) Where an inspector knows or suspects that there are (or there have been within the previous 16 days) on premises (other than common land, a market or place of exhibition) sheep or carcases which have sheep scab, the inspector may serve a notice on the owner or (if different) the keeper of any sheep on the premises requiring that person to arrange for a veterinary surgeon to carry out a veterinary enquiry to establish whether there are on the premises sheep or carcases which have sheep scab.
 
@@ -159,7 +159,7 @@ This Order—
 - (b) for slaughter; or
 - (c) under the authority of a licence issued by an inspector.
 
-(6) When the owner or (if different) the keeper of the affected sheep elects to treat any sheep, he or she must treat the sheep as soon as possible and, within 2 weeks of the date of treatment, send to an authorised veterinary inspector[^key-253398f46f925d634e969b8311804102] written confirmation that the sheep have been treated, stating—
+(6) When the owner or (if different) the keeper of the affected sheep elects to treat any sheep, he or she must treat the sheep as soon as possible and, within 2 weeks of the date of treatment, send to an authorised veterinary inspector[^c-253398f46f925d634e969b8311804102] written confirmation that the sheep have been treated, stating—
 
 - (a) the date of treatment;
 - (b) the number of sheep treated; and
@@ -170,9 +170,9 @@ This Order—
 - (a) from the owner or (if different) the keeper of the sheep, written confirmation that—
   - (i) all affected sheep on the premises have been treated, all affected carcases have been disposed of and 16 days have elapsed since last disposal or treatment; or
   - (ii) all sheep on the premises have been treated with a treatment that provides at least 16 days’ residual protection against re-infestation with sheep scab and all affected carcases have been disposed of; or
-- (b)[^key-26884ced1e90e5a47ea781c9d685a048] from a veterinary surgeon, written confirmation that in the veterinary surgeon’s opinion there are no affected sheep or affected carcases on the premises.
+- (b)[^c-26884ced1e90e5a47ea781c9d685a048] from a veterinary surgeon, written confirmation that in the veterinary surgeon’s opinion there are no affected sheep or affected carcases on the premises.
 
-### 7. Removal of affected sheep from markets or places of exhibition, and cleansing of such premises[^key-53b29e6c2fd8e952a930dd8348e33e1f]
+### 7. Removal of affected sheep from markets or places of exhibition, and cleansing of such premises[^c-53b29e6c2fd8e952a930dd8348e33e1f]
 
 (1) Where an inspector knows or suspects that there are sheep which have sheep scab at a market or place of exhibition, the inspector may serve a notice on the owner or (if different) the keeper of the affected sheep, requiring the owner or (if different) the keeper of the affected sheep—
 
@@ -186,7 +186,7 @@ This Order—
 
 ## PART 3 — CLEARANCE OF SHEEP FROM COMMON LAND
 
-### 8. Clearance notices[^key-ea5ac86255e1a9cc41488613aec56252]
+### 8. Clearance notices[^c-ea5ac86255e1a9cc41488613aec56252]
 
 (1) If an inspector knows or suspects that there are on common land sheep which have sheep scab, the inspector may publish a notice requiring all persons keeping sheep on the land specified in the notice to move those sheep off that land before the date specified in the notice.
 
@@ -196,7 +196,7 @@ This Order—
 - (b) may require that the sheep be treated; and
 - (c) may provide that, at least 48 hours before any treatment for sheep scab is carried out, the owner or (if different) the keeper of the sheep must notify the inspector of the time and place that the treatment will be carried out.
 
-### 9. Movement of sheep after date specified in the notice[^key-a5d312375f27c008f00a11711541372e]
+### 9. Movement of sheep after date specified in the notice[^c-a5d312375f27c008f00a11711541372e]
 
 (1) A person must not move sheep onto land specified in a clearance notice for 3 days from the date specified in the notice.
 
@@ -215,7 +215,7 @@ This Order—
 - (a) it has received the information detailed in paragraph (2)(b); and
 - (b) if the movement is within 16 days of the date on which the land was cleared, it is satisfied that the sheep have been treated in such a way that they will not be infested or reinfested with psoroptic or sarcoptic mites remaining on the land.
 
-### 10. Seizure of sheep by local authority[^key-f634749c3f1a573077e8b825983b1086]
+### 10. Seizure of sheep by local authority[^c-f634749c3f1a573077e8b825983b1086]
 
 (1) A local authority may seize and detain—
 
@@ -239,7 +239,7 @@ This Order—
 
 ## PART 4 — GENERAL
 
-### 11. Slaughter of affected sheep[^key-d10d3075e5cad5a0b28d35c0ce50075e]
+### 11. Slaughter of affected sheep[^c-d10d3075e5cad5a0b28d35c0ce50075e]
 
 When affected sheep are to be slaughtered—
 
@@ -248,7 +248,7 @@ When affected sheep are to be slaughtered—
   - (ii) separately from other sheep; and
 - (b) the occupier of the slaughterhouse must ensure that the sheep are slaughtered as soon as possible (and in any event no later than 72 hours) after their arrival at the slaughterhouse.
 
-### 12. Marking of sheep[^key-546fbc355ecf29a30243c616072a23c6]
+### 12. Marking of sheep[^c-546fbc355ecf29a30243c616072a23c6]
 
 (1) An inspector may, for the purposes of identification, mark any sheep or carcase when exercising powers under this Order.
 
@@ -256,7 +256,7 @@ When affected sheep are to be slaughtered—
 
 (3) A person must not alter, remove, obliterate, deface or otherwise interfere with any mark or identification applied in accordance with paragraph (1) or (2).
 
-### 13. Cleansing of premises[^key-86995b3d19b657c261d178974819785c]
+### 13. Cleansing of premises[^c-86995b3d19b657c261d178974819785c]
 
 Where within the previous 16 days there have been on premises any affected sheep or affected carcases, an inspector may serve a notice on the owner or (if different) the occupier of the premises requiring that person to cleanse—
 
@@ -265,7 +265,7 @@ Where within the previous 16 days there have been on premises any affected sheep
 
 by such date as may be specified in the notice.
 
-### 14. Inspectors’ powers[^key-1d3704e1d273c0cf0ee2e45800a8cd01]
+### 14. Inspectors’ powers[^c-1d3704e1d273c0cf0ee2e45800a8cd01]
 
 (1) An inspector may, on producing a duly authenticated authorisation if required to do so, enter any premises (excluding any premises used only as a private dwellinghouse) at any reasonable hour for the purpose of ensuring that the provisions of this Order are being complied with.
 
@@ -281,7 +281,7 @@ by such date as may be specified in the notice.
 
 (3) An inspector may issue, amend, suspend and revoke licences and notices in the execution of this Order.
 
-### 15. Inspectors’ powers in cases of default[^key-8eb6bd36f899607d1709218acd6d83fa]
+### 15. Inspectors’ powers in cases of default[^c-8eb6bd36f899607d1709218acd6d83fa]
 
 (1) Where a person fails to comply with a requirement of this Order, a licence issued or notice given under it, an inspector may take any steps which the inspector considers necessary—
 
@@ -290,7 +290,7 @@ by such date as may be specified in the notice.
 
 (2) The person in default must reimburse any reasonable expenses incurred by the local authority or the Scottish Ministers in taking such steps.
 
-### 16. Offences by bodies corporate[^key-88baa3f84fb874737f3761711a03c04d]
+### 16. Offences by bodies corporate[^c-88baa3f84fb874737f3761711a03c04d]
 
 (1) Where an offence under the Animal Health Act 1981[^f00006] is committed—
 
@@ -309,25 +309,25 @@ the individual as well as the offender is guilty of the offence and is liable to
 - (b) in relation to a Scottish partnership, a partner; or
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 17. Enforcement[^key-b35d44da1a8d1b5ae3bb59735913e113]
+### 17. Enforcement[^c-b35d44da1a8d1b5ae3bb59735913e113]
 
 (1) Subject to paragraph (2), this Order is enforced by the local authority.
 
 (2) The Scottish Ministers may, in relation to particular cases or cases of a particular description, as they may direct, enforce this Order in place of the local authority.
 
-### 18. Reasonable assistance[^key-b369998bc6cbdbbc491b7a5a4ea3bbb5]
+### 18. Reasonable assistance[^c-b369998bc6cbdbbc491b7a5a4ea3bbb5]
 
 Any person required to give reasonable assistance or information to a person acting in the execution of this Order for the performance of the latter person’s functions under it, must do so without delay.
 
-### 19. False information[^key-6e9a298672177aafb7b87f1c1b90fa92]
+### 19. False information[^c-6e9a298672177aafb7b87f1c1b90fa92]
 
 A person must not furnish information which that person knows to be false or misleading to a person acting in the execution of this Order.
 
-### 20. Revocation[^key-7b6563a204114d15c000a753c91be431]
+### 20. Revocation[^c-7b6563a204114d15c000a753c91be431]
 
 The Sheep Scab Order 1997[^f00007] is revoked.
 
-### 21. Transitional provisions[^key-e6fd7375210682a1cc28747aac3717f0]
+### 21. Transitional provisions[^c-e6fd7375210682a1cc28747aac3717f0]
 
 Notwithstanding article 20 (revocation), the Sheep Scab Order 1997 continues to have effect in relation to—
 
@@ -388,76 +388,76 @@ No business regulatory impact assessment has been prepared for these Regulations
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22) (“the 1981 Act”). Section 8 was amended by paragraph 1 of Schedule 2 to the Animal Health and Welfare (Scotland) Act [2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11). Powers to make orders under these sections were originally conferred on “the Ministers”, as defined in section 86(1) of the 1981 Act. The functions of the Ministers were, insofar as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-a14f4922bb911194e3948f6cb96b59e9]: Commencement: Art. 1 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-a14f4922bb911194e3948f6cb96b59e9]: Commencement: Art. 1 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
 [^f00002]: Footnote: The local government area of the Shetland Islands comprises the area of Shetland Islands Council as set out in section 1(2) of, and Schedule 1 to, the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). See also the Sheep Scab (Shetland Islands) Order 2003 ([S.S.I. 2003/202](https://www.legislation.gov.uk/ssi/2003/202)).
 
-[^key-b54937c70b91620eb7bdbb8c7206c88e]: Commencement: Art. 2 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-b54937c70b91620eb7bdbb8c7206c88e]: Commencement: Art. 2 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-1d0fbe16ca3784e621aec40d910b3d1f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/419/article/2/1) inserted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/26/2/b)
+[^c-1d0fbe16ca3784e621aec40d910b3d1f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/419/article/2/1) inserted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/26/2/b)
 
-[^key-b804d238113d945852d144840ee79f97]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/419/article/2/1) omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/26/2/a)
+[^c-b804d238113d945852d144840ee79f97]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/419/article/2/1) omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/26/2/a)
 
-[^key-6a3c447a27e0c9c616a59206dd6f7ccc]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/419/article/2/1) substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [11](https://www.legislation.gov.uk/ssi/2019/71/regulation/11)
+[^c-6a3c447a27e0c9c616a59206dd6f7ccc]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/419/article/2/1) substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [11](https://www.legislation.gov.uk/ssi/2019/71/regulation/11)
 
 [^f00004]: Footnote: [1966 c.36](https://www.legislation.gov.uk/ukpga/1966/36), as amended by the Veterinary Surgeons’ Qualifications (European Recognition) Regulations 2008 ([S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824)).
 
 [^f00005]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by the Communications Act [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21), section 406 and Schedule 17 paragraph 158.
 
-[^key-9d59f4c4c8a5054c16be944cea438b1d]: Commencement: Art. 3 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-9d59f4c4c8a5054c16be944cea438b1d]: Commencement: Art. 3 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-27b17bc62f189a566fd4349b0757d8f0]: Commencement: Art. 4 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-27b17bc62f189a566fd4349b0757d8f0]: Commencement: Art. 4 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-dadc1cf24007cd9e5c812c6fa3ebb2ee]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/ssi/2010/419/article/4/1)[(2)](https://www.legislation.gov.uk/ssi/2010/419/article/4/2) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(3)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/26/3/a)
+[^c-dadc1cf24007cd9e5c812c6fa3ebb2ee]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/ssi/2010/419/article/4/1)[(2)](https://www.legislation.gov.uk/ssi/2010/419/article/4/2) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(3)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/26/3/a)
 
-[^key-0282a3562d33f0c8bda704ccac620def]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/ssi/2010/419/article/4/3) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(4)](https://www.legislation.gov.uk/ssi/2013/173/article/26/4)
+[^c-0282a3562d33f0c8bda704ccac620def]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/ssi/2010/419/article/4/3) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(4)](https://www.legislation.gov.uk/ssi/2013/173/article/26/4)
 
-[^key-184294020e6b49281c98a47758796079]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/ssi/2010/419/article/4/3) substituted (14.3.2011) by [The Sheep Scab (Scotland) Amendment Order 2011 (S.S.I. 2011/77)](https://www.legislation.gov.uk/ssi/2011/77), [arts. 1](https://www.legislation.gov.uk/ssi/2011/77/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/77/article/2/2)
+[^c-184294020e6b49281c98a47758796079]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/ssi/2010/419/article/4/3) substituted (14.3.2011) by [The Sheep Scab (Scotland) Amendment Order 2011 (S.S.I. 2011/77)](https://www.legislation.gov.uk/ssi/2011/77), [arts. 1](https://www.legislation.gov.uk/ssi/2011/77/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/77/article/2/2)
 
-[^key-8b47b6c5ced8363f101a9275c52af7a0]: Commencement: Art. 5 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-8b47b6c5ced8363f101a9275c52af7a0]: Commencement: Art. 5 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
 [^M_F_c22fa8dc-d940-403f-a4b6-06eb206c1372]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/ssi/2010/419/article/6/6) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(3)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/26/3/c)
 
 [^M_F_a1b28a60-7c1a-4525-e670-3dcc8c137c59]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/ssi/2010/419/article/6/6) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(3)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/26/3/c)
 
-[^key-f9a5394c2d82b4beafa8d9a6c702c89f]: Textual amendment: [Art. 5(6)(b)](https://www.legislation.gov.uk/ssi/2010/419/article/5/6/b) substituted (14.3.2011) by [The Sheep Scab (Scotland) Amendment Order 2011 (S.S.I. 2011/77)](https://www.legislation.gov.uk/ssi/2011/77), [arts. 1](https://www.legislation.gov.uk/ssi/2011/77/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/77/article/2/3)
+[^c-f9a5394c2d82b4beafa8d9a6c702c89f]: Textual amendment: [Art. 5(6)(b)](https://www.legislation.gov.uk/ssi/2010/419/article/5/6/b) substituted (14.3.2011) by [The Sheep Scab (Scotland) Amendment Order 2011 (S.S.I. 2011/77)](https://www.legislation.gov.uk/ssi/2011/77), [arts. 1](https://www.legislation.gov.uk/ssi/2011/77/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/77/article/2/3)
 
-[^key-40d8d3fb132757fdb4b7c69c43ee37d4]: Commencement: Art. 6 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-40d8d3fb132757fdb4b7c69c43ee37d4]: Commencement: Art. 6 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-253398f46f925d634e969b8311804102]: Textual amendment: Words in [art. 6(6)](https://www.legislation.gov.uk/ssi/2010/419/article/6/6)[(7)](https://www.legislation.gov.uk/ssi/2010/419/article/6/7) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(3)(c)](https://www.legislation.gov.uk/ssi/2013/173/article/26/3/c)
+[^c-253398f46f925d634e969b8311804102]: Textual amendment: Words in [art. 6(6)](https://www.legislation.gov.uk/ssi/2010/419/article/6/6)[(7)](https://www.legislation.gov.uk/ssi/2010/419/article/6/7) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [26(3)(c)](https://www.legislation.gov.uk/ssi/2013/173/article/26/3/c)
 
-[^key-26884ced1e90e5a47ea781c9d685a048]: Textual amendment: [Art. 6(7)(b)](https://www.legislation.gov.uk/ssi/2010/419/article/6/7/b) substituted (14.3.2011) by [The Sheep Scab (Scotland) Amendment Order 2011 (S.S.I. 2011/77)](https://www.legislation.gov.uk/ssi/2011/77), [arts. 1](https://www.legislation.gov.uk/ssi/2011/77/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/77/article/2/4)
+[^c-26884ced1e90e5a47ea781c9d685a048]: Textual amendment: [Art. 6(7)(b)](https://www.legislation.gov.uk/ssi/2010/419/article/6/7/b) substituted (14.3.2011) by [The Sheep Scab (Scotland) Amendment Order 2011 (S.S.I. 2011/77)](https://www.legislation.gov.uk/ssi/2011/77), [arts. 1](https://www.legislation.gov.uk/ssi/2011/77/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/77/article/2/4)
 
-[^key-53b29e6c2fd8e952a930dd8348e33e1f]: Commencement: Art. 7 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-53b29e6c2fd8e952a930dd8348e33e1f]: Commencement: Art. 7 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-ea5ac86255e1a9cc41488613aec56252]: Commencement: Art. 8 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-ea5ac86255e1a9cc41488613aec56252]: Commencement: Art. 8 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-a5d312375f27c008f00a11711541372e]: Commencement: Art. 9 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-a5d312375f27c008f00a11711541372e]: Commencement: Art. 9 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-f634749c3f1a573077e8b825983b1086]: Commencement: Art. 10 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-f634749c3f1a573077e8b825983b1086]: Commencement: Art. 10 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-d10d3075e5cad5a0b28d35c0ce50075e]: Commencement: Art. 11 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-d10d3075e5cad5a0b28d35c0ce50075e]: Commencement: Art. 11 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-546fbc355ecf29a30243c616072a23c6]: Commencement: Art. 12 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-546fbc355ecf29a30243c616072a23c6]: Commencement: Art. 12 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-86995b3d19b657c261d178974819785c]: Commencement: Art. 13 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-86995b3d19b657c261d178974819785c]: Commencement: Art. 13 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-1d3704e1d273c0cf0ee2e45800a8cd01]: Commencement: Art. 14 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-1d3704e1d273c0cf0ee2e45800a8cd01]: Commencement: Art. 14 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-8eb6bd36f899607d1709218acd6d83fa]: Commencement: Art. 15 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-8eb6bd36f899607d1709218acd6d83fa]: Commencement: Art. 15 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-88baa3f84fb874737f3761711a03c04d]: Commencement: Art. 16 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-88baa3f84fb874737f3761711a03c04d]: Commencement: Art. 16 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
 [^f00006]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-b35d44da1a8d1b5ae3bb59735913e113]: Commencement: Art. 17 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-b35d44da1a8d1b5ae3bb59735913e113]: Commencement: Art. 17 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-b369998bc6cbdbbc491b7a5a4ea3bbb5]: Commencement: Art. 18 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-b369998bc6cbdbbc491b7a5a4ea3bbb5]: Commencement: Art. 18 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-6e9a298672177aafb7b87f1c1b90fa92]: Commencement: Art. 19 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-6e9a298672177aafb7b87f1c1b90fa92]: Commencement: Art. 19 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
-[^key-7b6563a204114d15c000a753c91be431]: Commencement: Art. 20 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-7b6563a204114d15c000a753c91be431]: Commencement: Art. 20 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
 
 [^f00007]: Footnote: [S.I. 1997/968](https://www.legislation.gov.uk/uksi/1997/968).
 
-[^key-e6fd7375210682a1cc28747aac3717f0]: Commencement: Art. 21 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)
+[^c-e6fd7375210682a1cc28747aac3717f0]: Commencement: Art. 21 in force at 17.12.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/419/article/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-1603ae5085a83785a796eb94fb02bc91]
+## 1. Citation and commencement[^c-1603ae5085a83785a796eb94fb02bc91]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the International Organisations (Immunities and Privi
 
 ## Annotations
 
-[^key-1603ae5085a83785a796eb94fb02bc91]: Commencement: Art. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-1603ae5085a83785a796eb94fb02bc91]: Commencement: Art. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)

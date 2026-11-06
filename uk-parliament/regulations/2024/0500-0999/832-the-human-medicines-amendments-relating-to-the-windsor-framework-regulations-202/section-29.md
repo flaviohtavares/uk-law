@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Amendment to regulation 50E[^key-70c4ca5acaa64bca47fbef9bf875df28]
+## 29. Amendment to regulation 50E[^c-70c4ca5acaa64bca47fbef9bf875df28]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 50E (application for paediatric use marketing authorisation)[^f000
 
 ## Annotations
 
-[^key-70c4ca5acaa64bca47fbef9bf875df28]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2024/832/regulation/29) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-70c4ca5acaa64bca47fbef9bf875df28]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2024/832/regulation/29) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00040]: Footnote: Regulation 50E was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

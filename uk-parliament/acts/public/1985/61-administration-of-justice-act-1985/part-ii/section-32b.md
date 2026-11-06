@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. CLC practitioner services bodies[^key-f44610931810ad28cf78f73e9b392e00]
+## 32B. CLC practitioner services bodies[^c-f44610931810ad28cf78f73e9b392e00]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ are satisfied.
 
 ## Annotations
 
-[^key-f44610931810ad28cf78f73e9b392e00]: Textual amendment: [S. 32B](https://www.legislation.gov.uk/ukpga/1985/61/section/32B) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 86(8)](https://www.legislation.gov.uk/ukpga/2015/20/section/86/8), [115(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)
+[^c-f44610931810ad28cf78f73e9b392e00]: Textual amendment: [S. 32B](https://www.legislation.gov.uk/ukpga/1985/61/section/32B) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 86(8)](https://www.legislation.gov.uk/ukpga/2015/20/section/86/8), [115(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)

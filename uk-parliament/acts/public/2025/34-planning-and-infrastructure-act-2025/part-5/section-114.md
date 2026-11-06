@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. New powers to appoint an inspector[^key-3b4b240fa89707cc19a30cbf2fe1d4a6]
+## 114. New powers to appoint an inspector[^c-3b4b240fa89707cc19a30cbf2fe1d4a6]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b4b240fa89707cc19a30cbf2fe1d4a6]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/34/section/114) in force at 18.2.2026, see [s. 118(5)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/h)
+[^c-3b4b240fa89707cc19a30cbf2fe1d4a6]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/34/section/114) in force at 18.2.2026, see [s. 118(5)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/h)

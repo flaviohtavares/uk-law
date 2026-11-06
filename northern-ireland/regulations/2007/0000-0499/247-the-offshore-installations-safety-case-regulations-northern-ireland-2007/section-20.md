@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Review and revision of verification schemes[^key-e796d944f6478bdd7c8b3acba49c9e34]
+## 20. Review and revision of verification schemes[^c-e796d944f6478bdd7c8b3acba49c9e34]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The duty holder shall ensure that, as often as may be appropriate—
 
 ## Annotations
 
-[^key-e796d944f6478bdd7c8b3acba49c9e34]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2007/247/regulation/20) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-e796d944f6478bdd7c8b3acba49c9e34]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2007/247/regulation/20) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

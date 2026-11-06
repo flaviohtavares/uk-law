@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Offences in relation to enforcement officers[^key-2b1b7b2ba57913a365cf1fae19920395]
+## 48. Offences in relation to enforcement officers[^c-2b1b7b2ba57913a365cf1fae19920395]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b1b7b2ba57913a365cf1fae19920395]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/2/section/48) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-2b1b7b2ba57913a365cf1fae19920395]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/2/section/48) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

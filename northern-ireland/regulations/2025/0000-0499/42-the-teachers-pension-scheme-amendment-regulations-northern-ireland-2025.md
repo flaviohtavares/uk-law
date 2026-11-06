@@ -50,11 +50,11 @@ In accordance with section 22(2)(b) of the Public Service Pensions Act (Northern
 
 In accordance with section 3(5) of the Public Service Pensions Act (Northern Ireland) 2014, these Regulations are made with the consent of the Department of Finance.
 
-## 1. Citation and commencement[^key-541a974f79be1622b074b683d522ae9c]
+## 1. Citation and commencement[^c-541a974f79be1622b074b683d522ae9c]
 
 These Regulations may be cited as the Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 1st April 2025.
 
-## 2. Amendment of the Teachers’ Pension Scheme Regulations (Northern Ireland) 2014[^key-e534f05517f2a67c54f8d1d3d50b8c91]
+## 2. Amendment of the Teachers’ Pension Scheme Regulations (Northern Ireland) 2014[^c-e534f05517f2a67c54f8d1d3d50b8c91]
 
 (1) The Teachers’ Pension Scheme Regulations (Northern Ireland) 2014[^f00002] are amended in accordance with paragraph (2).
 
@@ -103,8 +103,8 @@ Regulation 2 makes changes to members’ contribution rates in the table in regu
 
 [^f00001]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(12) and (13) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-541a974f79be1622b074b683d522ae9c]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/42/regulation/1)
+[^c-541a974f79be1622b074b683d522ae9c]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/42/regulation/1)
 
-[^key-e534f05517f2a67c54f8d1d3d50b8c91]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/42/regulation/1)
+[^c-e534f05517f2a67c54f8d1d3d50b8c91]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/42/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2014 No. 310](https://www.legislation.gov.uk/nisr/2014/310).

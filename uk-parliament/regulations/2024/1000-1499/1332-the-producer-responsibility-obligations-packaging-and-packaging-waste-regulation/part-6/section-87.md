@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Determination of registration applications[^key-d836a7540b07e5433e530d6ffc90ed60]
+## 87. Determination of registration applications[^c-d836a7540b07e5433e530d6ffc90ed60]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ and must otherwise be refused.
 
 ## Annotations
 
-[^key-d836a7540b07e5433e530d6ffc90ed60]: Commencement: Reg. 87 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d836a7540b07e5433e530d6ffc90ed60]: Commencement: Reg. 87 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

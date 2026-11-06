@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Information-sharing in relation to provision of overnight care etc.[^key-8de9fdc24aa5d8e2c4b9c610481913a8]
+## 120. Information-sharing in relation to provision of overnight care etc.[^c-8de9fdc24aa5d8e2c4b9c610481913a8]
 
 *Extent: N.I.*
 
@@ -57,10 +57,10 @@ summary: ''
 - “**the Housing Executive**” means the Northern Ireland Housing Executive;
 - “**relevant body**” means—
   - (a) a Health and Social Care trust;
-  - (b) [^key-2fb7311dc4d7e8c90bee6812ae0151f3]...
+  - (b) [^c-2fb7311dc4d7e8c90bee6812ae0151f3]...
 
 ## Annotations
 
-[^key-8de9fdc24aa5d8e2c4b9c610481913a8]: Commencement: [Art. 120](https://www.legislation.gov.uk/nisi/2015/2006/article/120) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(e)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/e)
+[^c-8de9fdc24aa5d8e2c4b9c610481913a8]: Commencement: [Art. 120](https://www.legislation.gov.uk/nisi/2015/2006/article/120) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(e)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/e)
 
-[^key-2fb7311dc4d7e8c90bee6812ae0151f3]: Textual amendment: Words in [art. 120(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/120/8) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 249](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/249); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2fb7311dc4d7e8c90bee6812ae0151f3]: Textual amendment: Words in [art. 120(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/120/8) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 249](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/249); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

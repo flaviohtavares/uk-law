@@ -44,7 +44,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part I — Introduction
 
-### 1. Citation, commencement and interpretation[^key-ed6a75db5e18808386f92ced72d08367]
+### 1. Citation, commencement and interpretation[^c-ed6a75db5e18808386f92ced72d08367]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -70,7 +70,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part II — Advisers
 
-### 2. Article 47(3): prescribed functions[^key-3fe6e784b840fefd8332a4b96689ae6c]
+### 2. Article 47(3): prescribed functions[^c-3fe6e784b840fefd8332a4b96689ae6c]
 
 For the purposes of Article 47(3)(*a*) (reliance not to be placed on skill or judgement of any person appointed otherwise than by the trustees or managers) the prescribed functions are—
 
@@ -78,7 +78,7 @@ For the purposes of Article 47(3)(*a*) (reliance not to be placed on skill or ju
 - (b) the provision of advice on financial questions relating to the funding of, and assets of, the scheme and on questions in respect of probabilities relating to mortality and other contingencies, and any other matter relating to the actuarial affairs of the scheme;
 - (c) the custody of cash, securities and any other documents of title to scheme assets.
 
-### 3. Professional advisers' requirements: exceptions[^key-5c329ef3d2b0b341ea1634b80c332a16]
+### 3. Professional advisers' requirements: exceptions[^c-5c329ef3d2b0b341ea1634b80c332a16]
 
 (1) Article 47(1)(*a*) (for every occupational pension scheme there shall be an individual, or a firm, appointed by the trustees or managers as auditor) shall not apply to—
 
@@ -116,7 +116,7 @@ For the purposes of Article 47(3)(*a*) (reliance not to be placed on skill or ju
 
 (4) Article 47(3) (reliance not to be placed on the skill or judgement of any person appointed otherwise than by the trustees or managers) shall not apply to schemes mentioned in paragraph (1)(*a*) to (*g*), (*i*) and (*j*).
 
-### 4. Qualifications and experience or approval required for appointment as auditor or actuary[^key-b7231908108d3c3675b7c44fbe20adf2]
+### 4. Qualifications and experience or approval required for appointment as auditor or actuary[^c-b7231908108d3c3675b7c44fbe20adf2]
 
 (1) For the purposes of Article 47(5)(*b*) (specification of qualifications and experience, or approval, required for appointment as professional adviser) the qualifications and experience, or approval, required for appointment as—
 
@@ -135,7 +135,7 @@ For the purposes of Article 47(3)(*a*) (reliance not to be placed on skill or ju
 - (c) he is an employer in relation to the scheme; or
 - (d) he is, by virtue of Article 30 of the Companies (Northern Ireland) Order 1990, ineligible to audit the accounts of a company which is an employer in relation to the scheme.
 
-### 5. Manner and terms of appointment and removal of professional advisers[^key-f8666d665014be1260dec3e93a4b3096]
+### 5. Manner and terms of appointment and removal of professional advisers[^c-f8666d665014be1260dec3e93a4b3096]
 
 (1) An appointment of a professional adviser shall be made in writing (“the notice of appointment”) and shall specify—
 
@@ -178,7 +178,7 @@ the trustees or managers shall appoint a replacement auditor or actuary (as the 
 
 (11) This regulation shall not apply in the case of an appointment of a person as a professional adviser to a scheme which falls within the descriptions referred to in regulation 3(1)(*b*) to (*g*) and (*i*).
 
-### 6. Duty to disclose information[^key-b94482bad3faa6a4f6322d7bdde6124f]
+### 6. Duty to disclose information[^c-b94482bad3faa6a4f6322d7bdde6124f]
 
 (1) It shall be the duty of any person—
 
@@ -198,7 +198,7 @@ the trustees or managers shall appoint a replacement auditor or actuary (as the 
 
 ### CHAPTER I — Trustees: General
 
-#### 7. Ineligibility to act as actuary or auditor: exceptions[^key-81385927e909e9f62778f28cad12ae43]
+#### 7. Ineligibility to act as actuary or auditor: exceptions[^c-81385927e909e9f62778f28cad12ae43]
 
 For the purposes of Article 27(3) (ineligibility of trustees and connected and associated persons to act as an auditor or actuary of the scheme: exceptions for persons of a prescribed class or description) the prescribed class or description is—
 
@@ -210,17 +210,17 @@ For the purposes of Article 27(3) (ineligibility of trustees and connected and a
     and who would be ineligible under Article 27(1) to be the actuary merely because he is an associate of the company which is the trustee of the scheme by virtue of Article 4(4), (6) and (7) of the Insolvency (Northern Ireland) Order 1989[^f00014];
 - (c) any person who would be ineligible under Article 27(1) to act as the auditor or the actuary merely because he falls within the description of associate as specified in Article 4(3) of the Insolvency (Northern Ireland) Order 1989.
 
-#### 8. Meaning of trustee of a trust scheme[^key-7b80f1a2a0b044a924cebf3c472536cf]
+#### 8. Meaning of trustee of a trust scheme[^c-7b80f1a2a0b044a924cebf3c472536cf]
 
 For the purposes of Article 27(5) (references in Articles 27 and 28 to a trustee of a trust scheme do not include a trustee or a trustee of a scheme falling within a prescribed class or description) the prescribed class or description is any pensioneer trustee.
 
 ### CHAPTER II — Functions of Trustees
 
-#### 9. Requirement to give notice of occasion when specified number of trustees must be present for decision: exception[^key-4397af1fa6de2abfd60e4181f64d015b]
+#### 9. Requirement to give notice of occasion when specified number of trustees must be present for decision: exception[^c-4397af1fa6de2abfd60e4181f64d015b]
 
 For the purposes of Article 32(2)(*b*) (notice of any occasions at which decisions may be taken by a majority to be given to each trustee unless the occasion falls within a prescribed class or description) the prescribed class or description is an occasion on which it is necessary as a matter of urgency to make a decision.
 
-#### 10. Manner of, and time for giving, notice of occasion when specified number of trustees must be present for decision[^key-c773013f96d1b7287943499961390f4d]
+#### 10. Manner of, and time for giving, notice of occasion when specified number of trustees must be present for decision[^c-c773013f96d1b7287943499961390f4d]
 
 For the purposes of Article 32(3) (notice to be given in a prescribed manner and not later than the beginning of a prescribed period) the prescribed manner and period are that the notice of the occasion must, unless the trustees agree otherwise—
 
@@ -229,7 +229,7 @@ For the purposes of Article 32(3) (notice to be given in a prescribed manner and
 
 ### CHAPTER III — Receipts, Payments and Records
 
-#### 11. Requirement for money to be kept by trustees: exception[^key-35d1c65c56fe47cabb41e618397fddca]
+#### 11. Requirement for money to be kept by trustees: exception[^c-35d1c65c56fe47cabb41e618397fddca]
 
 (1) For the purposes of Article 49(1) (trustees of any trust scheme must, except in any prescribed circumstances, keep money received in a separate account at an institution authorised under the Banking Act 1987) the prescribed circumstances are—
 
@@ -244,7 +244,7 @@ For the purposes of Article 32(3) (notice to be given in a prescribed manner and
 - (b) amount of money paid out of the account, the date of withdrawal and to whom that payment was made; and
 - (c) interest earned on the account of each scheme in respect of which money is deposited.
 
-#### 12. Requirement for trustees to keep books and records[^key-1d28456b8f56d17673815a32dec412a6]
+#### 12. Requirement for trustees to keep books and records[^c-1d28456b8f56d17673815a32dec412a6]
 
 (1) Trustees of any trust scheme shall keep—
 
@@ -263,7 +263,7 @@ For the purposes of Article 32(3) (notice to be given in a prescribed manner and
 
 (2) This regulation shall not apply in the case of a trust scheme which falls within the descriptions referred to in regulation 3(1)(*c*), (*f*), (*g*) and (*i*).
 
-#### 13. Records of trustees' meetings[^key-7aa62be684aceeed17d92e2d118440da]
+#### 13. Records of trustees' meetings[^c-7aa62be684aceeed17d92e2d118440da]
 
 (1) For the purposes of Article 49(4) (books and records to be kept in a prescribed form and manner) the prescribed form and manner in the case of records of the meetings of trustees of any trust scheme, is that the record must be in writing and state—
 
@@ -276,29 +276,29 @@ For the purposes of Article 32(3) (notice to be given in a prescribed manner and
 
 (2) This regulation shall not apply in the case of a trust scheme which falls within the descriptions referred to in regulation 3(1), (*c*), (*f*) and (*i*).
 
-#### 14. Period for which books and records must be kept[^key-e7faeb68f943863846b4e2b8b38a1df3]
+#### 14. Period for which books and records must be kept[^c-e7faeb68f943863846b4e2b8b38a1df3]
 
 The books and records referred to in regulations 12 and 13 shall be kept by the trustees for at least 6 years from the end of the scheme year to which they relate.
 
-#### 15. Employer to make payments of benefits into a separate account[^key-3a9221e70392cd9c1df0e257ea6caba1]
+#### 15. Employer to make payments of benefits into a separate account[^c-3a9221e70392cd9c1df0e257ea6caba1]
 
 An employer is required, in cases where payments of benefits to members of trust schemes are made by him, to make into a separate account kept by him at an institution authorised under the Banking Act 1987, any payment of benefit which has not been made to a member within 2 business days after the date of receipt by the employer.
 
-#### 16. Prescribed time in which an employer must make payments to trustees or managers[^key-e4e5082fec8f560f7aad6fba27b97491]
+#### 16. Prescribed time in which an employer must make payments to trustees or managers[^c-e4e5082fec8f560f7aad6fba27b97491]
 
 For the purposes of Article 49(8)(*b*) (amount deducted from earnings to be paid to the trustees or managers of the scheme within a prescribed period) the prescribed period is 14 days commencing on the day after the end of the month in which the amount is deducted from the earnings in question.
 
 ## Part IV — Money Purchase Schemes
 
-### 17. Requirement to secure a payment schedule: exception[^key-7a383867a10a2261dcb61f9a25db2a01]
+### 17. Requirement to secure a payment schedule: exception[^c-7a383867a10a2261dcb61f9a25db2a01]
 
 For the purposes of Article 85(1) (requirement for occupational pension schemes which are money purchase schemes to secure and maintain a payment schedule unless the scheme falls within a prescribed class or description) the prescribed class or description is a money purchase scheme which falls within the descriptions referred to in regulation 3(1)(*c*), (*d*) and (*f*) to (*h*).
 
-### 18. Amounts to be shown in a payment schedule[^key-e190a0491eb6a6c140cdfd8ba5a386ab]
+### 18. Amounts to be shown in a payment schedule[^c-e190a0491eb6a6c140cdfd8ba5a386ab]
 
 For the purposes of Article 85(2)(*b*) (payment schedule to show such other amounts payable towards the scheme as may be prescribed) the prescribed amounts are amounts payable towards the scheme by the employer in respect of expenses likely to be incurred in the scheme year.
 
-### 19. Requirements which a payment schedule must satisfy[^key-84f7c2553c973eff1e85f056dec80c7e]
+### 19. Requirements which a payment schedule must satisfy[^c-84f7c2553c973eff1e85f056dec80c7e]
 
 (1) For the purposes of Article 85(3) (payment schedule for a scheme must satisfy prescribed requirements) the prescribed requirements are that—
 
@@ -309,14 +309,14 @@ For the purposes of Article 85(2)(*b*) (payment schedule to show such other amou
 
 (2) In the case where an insurance premium is payable, the payment schedule need not contain separate entries for identifying the contributions payable by or on behalf of the employer and the active members of the scheme in respect of that premium.
 
-### 20. Period within which notice must be given[^key-45788e167614b3cbf93f1c64b669fb6a]
+### 20. Period within which notice must be given[^c-45788e167614b3cbf93f1c64b669fb6a]
 
 For the purposes of Article 86(1) (trustees or managers must give notice, where any amounts payable in accordance with the payment schedule have not been paid on or before the due date, within a prescribed period) the prescribed period is, in the case where—
 
 - (a) notice is to be given to the Authority, 30 days from the due date;
 - (b) notice is to be given to a member, 90 days from the due date.
 
-### 21. Circumstances where notice of non-payment of any amount payable to a scheme need not be given[^key-211d5ff863a979827d4084d500a9c751]
+### 21. Circumstances where notice of non-payment of any amount payable to a scheme need not be given[^c-211d5ff863a979827d4084d500a9c751]
 
 (1) Notwithstanding regulation 20(*b*), where an amount, payable in accordance with the payment schedule, has been paid not later than 60 days after the due date, notice of non-payment in respect of that amount on or before the due date need not be given to the members of the scheme.
 
@@ -350,7 +350,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-ed6a75db5e18808386f92ced72d08367]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-ed6a75db5e18808386f92ced72d08367]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
 [^f00002]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
@@ -360,9 +360,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3fe6e784b840fefd8332a4b96689ae6c]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-3fe6e784b840fefd8332a4b96689ae6c]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-5c329ef3d2b0b341ea1634b80c332a16]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-5c329ef3d2b0b341ea1634b80c332a16]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
 [^f00006]: Footnote: [1963 c. xxxii](https://www.legislation.gov.uk/ukla/1963/32)
 
@@ -376,48 +376,48 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00011]: Footnote: [S.I. 1988/724](https://www.legislation.gov.uk/uksi/1988/724)
 
-[^key-b7231908108d3c3675b7c44fbe20adf2]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-b7231908108d3c3675b7c44fbe20adf2]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
 [^f00013]: Footnote: *See* Article 27 of the Pensions (Northern Ireland) Order 1995 which provides that a trustee of a trust scheme, and any person connected with, or an associate of, such a trustee, is ineligible to act as an auditor. *See also* regulation 7 of these Regulations
 
-[^key-f8666d665014be1260dec3e93a4b3096]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-f8666d665014be1260dec3e93a4b3096]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-b94482bad3faa6a4f6322d7bdde6124f]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-b94482bad3faa6a4f6322d7bdde6124f]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-81385927e909e9f62778f28cad12ae43]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-81385927e909e9f62778f28cad12ae43]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-7b80f1a2a0b044a924cebf3c472536cf]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-7b80f1a2a0b044a924cebf3c472536cf]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-4397af1fa6de2abfd60e4181f64d015b]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-4397af1fa6de2abfd60e4181f64d015b]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-c773013f96d1b7287943499961390f4d]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-c773013f96d1b7287943499961390f4d]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-35d1c65c56fe47cabb41e618397fddca]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-35d1c65c56fe47cabb41e618397fddca]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
 [^f00015]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
 
-[^key-1d28456b8f56d17673815a32dec412a6]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-1d28456b8f56d17673815a32dec412a6]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
 [^f00016]: Footnote: Section 28A was inserted by Article 143(1) of the Pensions (Northern Ireland) Order 1995
 
-[^key-7aa62be684aceeed17d92e2d118440da]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-7aa62be684aceeed17d92e2d118440da]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-e7faeb68f943863846b4e2b8b38a1df3]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-e7faeb68f943863846b4e2b8b38a1df3]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-3a9221e70392cd9c1df0e257ea6caba1]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-3a9221e70392cd9c1df0e257ea6caba1]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-e4e5082fec8f560f7aad6fba27b97491]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-e4e5082fec8f560f7aad6fba27b97491]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-7a383867a10a2261dcb61f9a25db2a01]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-7a383867a10a2261dcb61f9a25db2a01]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-e190a0491eb6a6c140cdfd8ba5a386ab]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-e190a0491eb6a6c140cdfd8ba5a386ab]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-84f7c2553c973eff1e85f056dec80c7e]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-84f7c2553c973eff1e85f056dec80c7e]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-45788e167614b3cbf93f1c64b669fb6a]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-45788e167614b3cbf93f1c64b669fb6a]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
 
-[^key-211d5ff863a979827d4084d500a9c751]: Commencement: Reg. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)
+[^c-211d5ff863a979827d4084d500a9c751]: Commencement: Reg. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/94/regulation/1/1)

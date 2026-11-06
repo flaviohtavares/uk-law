@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by sections 59, 60, 61, 74, 108(2A), (3C), (5) and (6) and 333(7) and (8) of the Town and Country Planning Act 1990[^f00001].
 
-## 1. Citation, commencement and extent[^key-bf072e184d9269eb6ef452510fbed5ac]
+## 1. Citation, commencement and extent[^c-bf072e184d9269eb6ef452510fbed5ac]
 
 This Order—
 
@@ -54,11 +54,11 @@ This Order—
 - (b) comes into force on 21st May 2024, and
 - (c) extends to England and Wales.
 
-## 2. Amendment of Schedule 2 to the Town and Country Planning (General Permitted Development) (England) Order 2015[^key-ee09b7ca953c04e24dfde30073334e2f]
+## 2. Amendment of Schedule 2 to the Town and Country Planning (General Permitted Development) (England) Order 2015[^c-ee09b7ca953c04e24dfde30073334e2f]
 
 Schedule 2 (permitted development rights) to the Town and Country Planning (General Permitted Development) (England) Order 2015[^f00002] is amended in accordance with articles 3 to 8.
 
-## 3. Amendment of Class Q of Part 3[^key-4cf45e15d675ab4b2f04d9147f48cd75]
+## 3. Amendment of Class Q of Part 3[^c-4cf45e15d675ab4b2f04d9147f48cd75]
 
 For Class Q (agricultural buildings to dwellinghouses) of Part 3 (changes of use) substitute—
 
@@ -165,7 +165,7 @@ For Class Q (agricultural buildings to dwellinghouses) of Part 3 (changes of use
 
 .
 
-## 4. Amendment of Class R of Part 3[^key-25da2525d412d00edf3ae9c7d454b488]
+## 4. Amendment of Class R of Part 3[^c-25da2525d412d00edf3ae9c7d454b488]
 
 (1) Class R (agricultural buildings to a flexible commercial use) of Part 3 (changes of use) is amended as follows.
 
@@ -197,7 +197,7 @@ For Class Q (agricultural buildings to dwellinghouses) of Part 3 (changes of use
 
 .
 
-## 5. Amendment of Class W of Part 3[^key-980d15d5db4bf53e940b38f4e8b0abb5]
+## 5. Amendment of Class W of Part 3[^c-980d15d5db4bf53e940b38f4e8b0abb5]
 
 (1) Paragraph W (procedure for applications for prior approval under Part 3) of Part 3 (changes of use) is amended as follows.
 
@@ -218,13 +218,13 @@ For Class Q (agricultural buildings to dwellinghouses) of Part 3 (changes of use
 
 .
 
-## 6. Amendment of Class X of Part 3[^key-25a70a6b0e17cff47ea41b48d027a5db]
+## 6. Amendment of Class X of Part 3[^c-25a70a6b0e17cff47ea41b48d027a5db]
 
 (1) Paragraph X (interpretation of Part 3) of Part 3 (changes of use) is amended as follows.
 
 (2) In the definition of “curtilage”, in the opening words, omit “Q,”.
 
-## 7. Amendment of Class A of Part 6[^key-9d4014b28428bbb1d66e9d369d637a82]
+## 7. Amendment of Class A of Part 6[^c-9d4014b28428bbb1d66e9d369d637a82]
 
 (1) Paragraph A.1 (development not permitted) of Class A (agricultural development on units of 5 hectares or more) of Part 6 (agricultural and forestry) is amended as follows.
 
@@ -244,7 +244,7 @@ For Class Q (agricultural buildings to dwellinghouses) of Part 3 (changes of use
 
 .
 
-## 8. Amendment of Class B of Part 6[^key-f3d9668dc0116d13847bf66bdb5cb2f4]
+## 8. Amendment of Class B of Part 6[^c-f3d9668dc0116d13847bf66bdb5cb2f4]
 
 (1) Class B (agricultural development on units of less than 5 hectares) of Part 6 (agricultural and forestry) is amended as follows.
 
@@ -264,7 +264,7 @@ For Class Q (agricultural buildings to dwellinghouses) of Part 3 (changes of use
 - (a) in sub-paragraph (b), for “20%” substitute “25%”;
 - (b) in sub-paragraph (g), for “1,000 square metres” substitute “1,250 square metres”.
 
-## 9. Consequential amendment of the Town and Country Planning (Compensation) (England) Regulations 2015[^key-c6a6114b2e28344c846c67673ec032df]
+## 9. Consequential amendment of the Town and Country Planning (Compensation) (England) Regulations 2015[^c-c6a6114b2e28344c846c67673ec032df]
 
 (1) The Town and Country Planning (Compensation) (England) Regulations 2015[^f00004] are amended as follows.
 
@@ -274,7 +274,7 @@ For Class Q (agricultural buildings to dwellinghouses) of Part 3 (changes of use
 
 .
 
-## 10. Transitional provision[^key-f030e9689cc61b9717136b3014f05df2]
+## 10. Transitional provision[^c-f030e9689cc61b9717136b3014f05df2]
 
 (1) Paragraph (2) applies where development (“previously permitted development under Class Q”)—
 
@@ -356,28 +356,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Amendments have been made to section 59 which are not relevant to this Order. Section 60 was amended by section 4(1) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and section 152 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). Section 108(2A) and (3C) was inserted by section 189 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) (“**the 2008 Act**”) and amended by [S.I. 2012/210](https://www.legislation.gov.uk/uksi/2012/210) and paragraph 29(5), (6) and (7) of Schedule 12 to the 2016 Act; section 108(6) was inserted by section 189 of the 2008 Act and [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281). Amendments have been made to section 333 which are not relevant to this Order.
 
-[^key-bf072e184d9269eb6ef452510fbed5ac]: Commencement: Art. 1 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-bf072e184d9269eb6ef452510fbed5ac]: Commencement: Art. 1 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
-[^key-ee09b7ca953c04e24dfde30073334e2f]: Commencement: Art. 2 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-ee09b7ca953c04e24dfde30073334e2f]: Commencement: Art. 2 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
 [^f00002]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596), amended by [S.I. 2016/332](https://www.legislation.gov.uk/uksi/2016/332), [2016/765](https://www.legislation.gov.uk/uksi/2016/765), [2016/772](https://www.legislation.gov.uk/uksi/2016/772), [2016/1040](https://www.legislation.gov.uk/uksi/2016/1040), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2017/391](https://www.legislation.gov.uk/uksi/2017/391), [2017/571](https://www.legislation.gov.uk/uksi/2017/571), [2017/619](https://www.legislation.gov.uk/uksi/2017/619), [2017/1011](https://www.legislation.gov.uk/uksi/2017/1011), [2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [2018/119](https://www.legislation.gov.uk/uksi/2018/119), [2018/343](https://www.legislation.gov.uk/uksi/2018/343), [2018/695](https://www.legislation.gov.uk/uksi/2018/695), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/330](https://www.legislation.gov.uk/uksi/2020/330), [2020/412](https://www.legislation.gov.uk/uksi/2020/412), [2020/632](https://www.legislation.gov.uk/uksi/2020/632), [2020/755](https://www.legislation.gov.uk/uksi/2020/755), [2020/756](https://www.legislation.gov.uk/uksi/2020/756), [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243), [2020/1459](https://www.legislation.gov.uk/uksi/2020/1459), [2021/428](https://www.legislation.gov.uk/uksi/2021/428), [2021/467](https://www.legislation.gov.uk/uksi/2021/467), [2021/814](https://www.legislation.gov.uk/uksi/2021/814), [2021/1464](https://www.legislation.gov.uk/uksi/2021/1464), [2022/278](https://www.legislation.gov.uk/uksi/2022/278), [2023/747](https://www.legislation.gov.uk/uksi/2023/747), [2023/1279](https://www.legislation.gov.uk/uksi/2023/1279) and [2024/141](https://www.legislation.gov.uk/uksi/2024/141).
 
-[^key-4cf45e15d675ab4b2f04d9147f48cd75]: Commencement: Art. 3 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-4cf45e15d675ab4b2f04d9147f48cd75]: Commencement: Art. 3 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
 [^f00003]: Footnote: “Technical housing standards — nationally described space standard” — https://www.gov.uk/government/publications/technical-housing-standards-nationally-described-space-standard. A copy can be inspected at the Planning Directorate, the Department for Levelling Up, Housing and Communities, 2 Marsham Street, London SW1P 4DF.
 
-[^key-25da2525d412d00edf3ae9c7d454b488]: Commencement: Art. 4 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-25da2525d412d00edf3ae9c7d454b488]: Commencement: Art. 4 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
-[^key-980d15d5db4bf53e940b38f4e8b0abb5]: Commencement: Art. 5 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-980d15d5db4bf53e940b38f4e8b0abb5]: Commencement: Art. 5 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
-[^key-25a70a6b0e17cff47ea41b48d027a5db]: Commencement: Art. 6 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-25a70a6b0e17cff47ea41b48d027a5db]: Commencement: Art. 6 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
-[^key-9d4014b28428bbb1d66e9d369d637a82]: Commencement: Art. 7 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-9d4014b28428bbb1d66e9d369d637a82]: Commencement: Art. 7 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
-[^key-f3d9668dc0116d13847bf66bdb5cb2f4]: Commencement: Art. 8 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-f3d9668dc0116d13847bf66bdb5cb2f4]: Commencement: Art. 8 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
-[^key-c6a6114b2e28344c846c67673ec032df]: Commencement: Art. 9 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-c6a6114b2e28344c846c67673ec032df]: Commencement: Art. 9 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
 
 [^f00004]: Footnote: [S.I. 2015/598](https://www.legislation.gov.uk/uksi/2015/598). Regulation 2 has been amended by [S.I. 2016/331](https://www.legislation.gov.uk/uksi/2016/331), [2017/392](https://www.legislation.gov.uk/uksi/2017/392), [2017/620](https://www.legislation.gov.uk/uksi/2017/620), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/632](https://www.legislation.gov.uk/uksi/2020/632), [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243), [2021/428](https://www.legislation.gov.uk/uksi/2021/428), [2021/814](https://www.legislation.gov.uk/uksi/2021/814), [2021/1464](https://www.legislation.gov.uk/uksi/2021/1464) and [2023/747](https://www.legislation.gov.uk/uksi/2023/747).
 
-[^key-f030e9689cc61b9717136b3014f05df2]: Commencement: Art. 10 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)
+[^c-f030e9689cc61b9717136b3014f05df2]: Commencement: Art. 10 in force at 21.5.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b)

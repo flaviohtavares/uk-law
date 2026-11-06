@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Carry-over of disputes between default and general medical services contracts[^key-3fe77a1e345ccc91e1e74d64ed349ae3]
+## 51. Carry-over of disputes between default and general medical services contracts[^c-3fe77a1e345ccc91e1e74d64ed349ae3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the adjudicator shall in determining the dispute consider the relevance of his o
 
 ## Annotations
 
-[^key-3fe77a1e345ccc91e1e74d64ed349ae3]: Commencement: Art. 51 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-3fe77a1e345ccc91e1e74d64ed349ae3]: Commencement: Art. 51 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

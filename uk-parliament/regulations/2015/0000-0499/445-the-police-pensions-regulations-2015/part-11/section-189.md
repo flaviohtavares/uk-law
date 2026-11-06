@@ -28,7 +28,7 @@ summary: ''
   - (i) the pension scheme from which the transfer payment is to be made; and
   - (ii) the anticipated amount of the transfer payment;
 - (b) must meet any other conditions the scheme manager requires; and
-- (c)[^key-44693104f618524846fe055e54a41a8f] subject to paragraph (3), must be made during the period of 12 months beginning with P's first day of eligible service.
+- (c)[^c-44693104f618524846fe055e54a41a8f] subject to paragraph (3), must be made during the period of 12 months beginning with P's first day of eligible service.
 
 (3) The scheme manager may treat a transfer payment request as having been made earlier than it was if the scheme manager considers it reasonable to do so in the circumstances.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44693104f618524846fe055e54a41a8f]: Modification: [Reg. 189(2)(c)](https://www.legislation.gov.uk/uksi/2015/445/regulation/189/2/c) applied (with modifications) (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [43](https://www.legislation.gov.uk/uksi/2023/831/regulation/43)
+[^c-44693104f618524846fe055e54a41a8f]: Modification: [Reg. 189(2)(c)](https://www.legislation.gov.uk/uksi/2015/445/regulation/189/2/c) applied (with modifications) (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [43](https://www.legislation.gov.uk/uksi/2023/831/regulation/43)

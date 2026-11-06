@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Supplementary regulation-making powers[^key-4f1a012c4213941fe1662cfdcff1914a]
+## 30. Supplementary regulation-making powers[^c-4f1a012c4213941fe1662cfdcff1914a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 1 contains supplementary regulation-making powers.
 
 ## Annotations
 
-[^key-4f1a012c4213941fe1662cfdcff1914a]: Commencement: S. 30 in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
+[^c-4f1a012c4213941fe1662cfdcff1914a]: Commencement: S. 30 in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)

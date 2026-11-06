@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Power to issue charging notice without issuing preliminary notice[^key-b25de19b07cd7e13dcd9996eaff74ba6]
+## 50. Power to issue charging notice without issuing preliminary notice[^c-b25de19b07cd7e13dcd9996eaff74ba6]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b25de19b07cd7e13dcd9996eaff74ba6]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2017/3/section/50) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-b25de19b07cd7e13dcd9996eaff74ba6]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2017/3/section/50) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

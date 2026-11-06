@@ -57,7 +57,7 @@ summary: ''
 
 - (a) the consideration for an allotment does not include any amount standing to the credit of any of the company's reserve accounts, or of its profit and loss account, that has been applied in paying up (to any extent) any of the shares allotted or any premium on those shares; and
 - (b) “**arrangement**” means any agreement, scheme or arrangement, (including an arrangement sanctioned in accordance with—
-  - (i) Part 26 or 26A[^key-0fb9df3f2d93b6bd36ebf906cad24758] of this Act (arrangements and reconstructions), or
+  - (i) Part 26 or 26A[^c-0fb9df3f2d93b6bd36ebf906cad24758] of this Act (arrangements and reconstructions), or
   - (ii) section 110 of the Insolvency Act 1986 (c. 45) or Article 96 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) (liquidator in winding up accepting shares as consideration for sale of company's property)).
 
 ## Annotations
@@ -68,4 +68,4 @@ summary: ''
 
 [^c21177231]: Modification: Ss. 90-96 applied (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/3)
 
-[^key-0fb9df3f2d93b6bd36ebf906cad24758]: Textual amendment: Words in [s. 93(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2006/46/section/93/7/b/i) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 32](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/32) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-0fb9df3f2d93b6bd36ebf906cad24758]: Textual amendment: Words in [s. 93(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2006/46/section/93/7/b/i) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 32](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/32) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3AC. Information to assist preparation of National Planning Framework[^key-6a5d84a78e2c66091f9a86595914a276][^key-62500c5d6522b23f8c30631f53e6ac84]
+## 3AC. Information to assist preparation of National Planning Framework[^c-6a5d84a78e2c66091f9a86595914a276][^c-62500c5d6522b23f8c30631f53e6ac84]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a5d84a78e2c66091f9a86595914a276]: Textual amendment: [Ss. 3AA-3AC](https://www.legislation.gov.uk/ukpga/1997/8/section/3AA) inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 2(11)](https://www.legislation.gov.uk/asp/2019/13/section/2/11), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-6a5d84a78e2c66091f9a86595914a276]: Textual amendment: [Ss. 3AA-3AC](https://www.legislation.gov.uk/ukpga/1997/8/section/3AA) inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 2(11)](https://www.legislation.gov.uk/asp/2019/13/section/2/11), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch](https://www.legislation.gov.uk/ssi/2019/314/schedule)
 
-[^key-62500c5d6522b23f8c30631f53e6ac84]: Textual amendment: Pt. 1A inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 1](https://www.legislation.gov.uk/asp/2006/17/section/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-62500c5d6522b23f8c30631f53e6ac84]: Textual amendment: Pt. 1A inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 1](https://www.legislation.gov.uk/asp/2006/17/section/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

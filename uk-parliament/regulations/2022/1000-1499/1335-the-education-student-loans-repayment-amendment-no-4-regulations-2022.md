@@ -61,16 +61,16 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 *Extent: E+W*
 
-### 1. Citation[^key-70f05a050b23faa26a8de6e5b6b58b50]
+### 1. Citation[^c-70f05a050b23faa26a8de6e5b6b58b50]
 
 These Regulations may be cited as the Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022.
 
-### 2. Commencement[^key-c9cc7387c4b2562ab7ec47ae87638aca]
+### 2. Commencement[^c-c9cc7387c4b2562ab7ec47ae87638aca]
 
 (1) The following provisions come into force on 16th January 2023—
 
 - (a) this Part;
-- (aa)[^key-d987c50fc55acc8672ab88730a3380fe] regulation 4;
+- (aa)[^c-d987c50fc55acc8672ab88730a3380fe] regulation 4;
 - (b) regulation 22;
 - (c) regulation 25(13) and (15);
 - (d) regulation 27(4) and (5);
@@ -78,17 +78,17 @@ These Regulations may be cited as the Education (Student Loans) (Repayment) (Ame
 
 (2) The remainder of these Regulations come into force on 6th April 2023.
 
-### 3. Extent[^key-3e8fb03679a5a20356080030a30d15f0]
+### 3. Extent[^c-3e8fb03679a5a20356080030a30d15f0]
 
 These Regulations extend to England and Wales subject to the following—
 
-- (a) this Part and regulations 4,[^key-ae0e6520fc3bd8646f2c9804b1434980] 6[^key-d611580e90a4287057ae7423513053d9]... and 65 also extend to Northern Ireland and Scotland;
-- (aa)[^key-9b7e811a33f06fcfd6e8e2354aaae8e8] regulation 11, insofar as it relates to regulations 8B and 8C of the Education (Student Loans) (Repayment) Regulations 2009, also extends to Northern Ireland and Scotland;
+- (a) this Part and regulations 4,[^c-ae0e6520fc3bd8646f2c9804b1434980] 6[^c-d611580e90a4287057ae7423513053d9]... and 65 also extend to Northern Ireland and Scotland;
+- (aa)[^c-9b7e811a33f06fcfd6e8e2354aaae8e8] regulation 11, insofar as it relates to regulations 8B and 8C of the Education (Student Loans) (Repayment) Regulations 2009, also extends to Northern Ireland and Scotland;
 - (b) an amendment or revocation made by these Regulations has the same extent as the provision amended or revoked.
 
 ## PART 2 — Amendment of the Education (Student Loans) (Repayment) Regulations 2009
 
-### 4. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^key-b78f350188ccdc1664dd1da0cbc86eb6]
+### 4. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^c-b78f350188ccdc1664dd1da0cbc86eb6]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ The Education (Student Loans) (Repayment) Regulations 2009[^f00005] are amended 
 
 ### Amendment of Part 1 (general)
 
-#### 5. Amendments to regulation 3 (interpretation)[^key-c58d6d18f6ac49ca10385a7ec618a58d]
+#### 5. Amendments to regulation 3 (interpretation)[^c-c58d6d18f6ac49ca10385a7ec618a58d]
 
 *Extent: E+W*
 
@@ -238,7 +238,7 @@ The Education (Student Loans) (Repayment) Regulations 2009[^f00005] are amended 
 
 (2) Omit regulation 3(2).
 
-#### 6. Insertion of regulations 3A to 3E (interpretation provisions)[^key-784c62456eb06562f61e1c4f6ec5dfc5]
+#### 6. Insertion of regulations 3A to 3E (interpretation provisions)[^c-784c62456eb06562f61e1c4f6ec5dfc5]
 
 After regulation 3 (interpretation) insert—
 
@@ -417,7 +417,7 @@ After regulation 3 (interpretation) insert—
 
 .
 
-#### 7. Amendments to regulation 4 (application: general)[^key-ac8725b035395b21bac015c052126862]
+#### 7. Amendments to regulation 4 (application: general)[^c-ac8725b035395b21bac015c052126862]
 
 *Extent: E+W*
 
@@ -453,7 +453,7 @@ After regulation 3 (interpretation) insert—
 
 .
 
-#### 8. Amendments to regulation 5 (Wales)[^key-ec0a25d613cdb14e8cb25ce04ef788ed]
+#### 8. Amendments to regulation 5 (Wales)[^c-ec0a25d613cdb14e8cb25ce04ef788ed]
 
 *Extent: E+W*
 
@@ -464,13 +464,13 @@ After regulation 3 (interpretation) insert—
 - (a) for “any student loan or postgraduate degree loan” substitute “a loan”;
 - (b) after “apply” insert “in relation to the loan”.
 
-#### 9. Omission of regulation 6 (Scotland)[^key-122110eeb0a988524945554d85ea2af5]
+#### 9. Omission of regulation 6 (Scotland)[^c-122110eeb0a988524945554d85ea2af5]
 
 *Extent: E+W*
 
 Omit regulation 6.
 
-#### 10. Amendments to regulation 7 (application to transferred loans in England and Wales)[^key-c305257c628c5a78766dcb9cf32b183a]
+#### 10. Amendments to regulation 7 (application to transferred loans in England and Wales)[^c-c305257c628c5a78766dcb9cf32b183a]
 
 *Extent: E+W*
 
@@ -479,7 +479,7 @@ In regulation 7(1), omit the definitions of—
 - (a) “postgraduate degree loan”;
 - (b) “student loan”.
 
-#### 11. Insertion of regulations 8A to 8C (preliminary provisions)[^key-95c5291bc5e499fa9bfd58826bc7996c]
+#### 11. Insertion of regulations 8A to 8C (preliminary provisions)[^c-95c5291bc5e499fa9bfd58826bc7996c]
 
 After regulation 8 (service by post or electronic communication) insert—
 
@@ -536,13 +536,13 @@ After regulation 8 (service by post or electronic communication) insert—
 
 ### Amendment of Part 2 (provisions applicable to all repayments)
 
-#### 12. Substitution of heading to Part 2[^key-32b9fc110456fadc19329fd25d2ad7b5]
+#### 12. Substitution of heading to Part 2[^c-32b9fc110456fadc19329fd25d2ad7b5]
 
 *Extent: E+W*
 
 For the heading to Part 2 substitute “Repayments: general”.
 
-#### 13. Amendments to regulation 9 (interpretation)[^key-0c9d889c58efe328ee32c3776cf36753]
+#### 13. Amendments to regulation 9 (interpretation)[^c-0c9d889c58efe328ee32c3776cf36753]
 
 *Extent: E+W*
 
@@ -566,7 +566,7 @@ For the heading to Part 2 substitute “Repayments: general”.
   ;
 - (d) omit the definition of “Student Support Regulations”.
 
-#### 14. Amendments to regulation 14 (interest and penalties)[^key-4a9e72509255aaa69d1cdd0cf33247c7]
+#### 14. Amendments to regulation 14 (interest and penalties)[^c-4a9e72509255aaa69d1cdd0cf33247c7]
 
 *Extent: E+W*
 
@@ -578,7 +578,7 @@ For the heading to Part 2 substitute “Repayments: general”.
 
 .
 
-#### 15. Amendments to regulation 15 (timing of repayments: general)[^key-33b5ce1c11aa91010eea2cf1959c3ce6]
+#### 15. Amendments to regulation 15 (timing of repayments: general)[^c-33b5ce1c11aa91010eea2cf1959c3ce6]
 
 *Extent: E+W*
 
@@ -649,7 +649,7 @@ For the heading to Part 2 substitute “Repayments: general”.
 
 (14) In regulation 15(7), omit “or postgraduate degree loan”.
 
-#### 16. Amendments to regulation 16 (timing of repayment: teachers and eligible teachers)[^key-b13d0d6d58d8d9da02e31dee682dcb60]
+#### 16. Amendments to regulation 16 (timing of repayment: teachers and eligible teachers)[^c-b13d0d6d58d8d9da02e31dee682dcb60]
 
 *Extent: E+W*
 
@@ -680,13 +680,13 @@ For the heading to Part 2 substitute “Repayments: general”.
 
 (5) Omit regulation 16(4), (5) and (6).
 
-#### 17. Amendment to regulation 18 (direct debit repayment)[^key-5674cf0f45325b4a3111480007c173b3]
+#### 17. Amendment to regulation 18 (direct debit repayment)[^c-5674cf0f45325b4a3111480007c173b3]
 
 *Extent: E+W*
 
 In regulation 18(1)(a), omit “or a postgraduate degree loan”.
 
-#### 18. Amendments to regulation 18A (division of repayment)[^key-d45e32db6c2e1cbdc73d52032e98e1af]
+#### 18. Amendments to regulation 18A (division of repayment)[^c-d45e32db6c2e1cbdc73d52032e98e1af]
 
 *Extent: E+W*
 
@@ -715,7 +715,7 @@ In regulation 18(1)(a), omit “or a postgraduate degree loan”.
 - (a) for “to (1C)” substitute “and (1A)”;
 - (b) omit “in regulation 29(7), 29(8) and 29(8B)”.
 
-#### 19. Amendments to regulation 19 (cancellation)[^key-021d3c379973a27ed2ee25a56945decc]
+#### 19. Amendments to regulation 19 (cancellation)[^c-021d3c379973a27ed2ee25a56945decc]
 
 *Extent: E+W*
 
@@ -787,7 +787,7 @@ In regulation 18(1)(a), omit “or a postgraduate degree loan”.
 
 .
 
-#### 20. Amendments to regulation 20 (refunds)[^key-2219262fd3bc463739056b3728792176]
+#### 20. Amendments to regulation 20 (refunds)[^c-2219262fd3bc463739056b3728792176]
 
 *Extent: E+W*
 
@@ -837,7 +837,7 @@ In regulation 18(1)(a), omit “or a postgraduate degree loan”.
 
 (7) Omit regulation 20(5).
 
-#### 21. Amendments to regulation 20A (excess payments: more than one loan)[^key-1e58dcdab663a90970140a0b2506b459]
+#### 21. Amendments to regulation 20A (excess payments: more than one loan)[^c-1e58dcdab663a90970140a0b2506b459]
 
 *Extent: E+W*
 
@@ -868,7 +868,7 @@ In regulation 18(1)(a), omit “or a postgraduate degree loan”.
 
   .
 
-#### 22. Insertion of regulation 20B (interest rate not to exceed prevailing market rate)[^key-89e82fe3f4e0298aa7e3ce6587de0b2b]
+#### 22. Insertion of regulation 20B (interest rate not to exceed prevailing market rate)[^c-89e82fe3f4e0298aa7e3ce6587de0b2b]
 
 After regulation 20A (excess payments: more than one loan) insert—
 
@@ -896,7 +896,7 @@ After regulation 20A (excess payments: more than one loan) insert—
 
 .
 
-#### 23. Amendments to regulation 20B (interest rate not to exceed prevailing market rate)[^key-96fc85b4793c2c9fda34b3dc775d5007]
+#### 23. Amendments to regulation 20B (interest rate not to exceed prevailing market rate)[^c-96fc85b4793c2c9fda34b3dc775d5007]
 
 *Extent: E+W*
 
@@ -904,7 +904,7 @@ After regulation 20A (excess payments: more than one loan) insert—
 
 (2) In regulation 20B(3), in the definition of “interest rate”, for “21A or 21B” substitute “21A, 21B or 21C”.
 
-#### 24. Amendments to regulation 21 (interest rate on the loans)[^key-7233f38cd8f8bf10dc2dd062ece5d20c]
+#### 24. Amendments to regulation 21 (interest rate on the loans)[^c-7233f38cd8f8bf10dc2dd062ece5d20c]
 
 *Extent: E+W*
 
@@ -927,15 +927,15 @@ After regulation 20A (excess payments: more than one loan) insert—
 
 (6) In regulation 21(6) and (7), for “student loans” substitute “plan 1 loans”.
 
-#### 25. Amendments to regulation 21A (interest rate on post-2012 student loans)[^key-b139da06653409cb8d562ec1d3a77c63][^key-fe2450e38b0922ecc892b2605112f8e5]
+#### 25. Amendments to regulation 21A (interest rate on post-2012 student loans)[^c-b139da06653409cb8d562ec1d3a77c63][^c-fe2450e38b0922ecc892b2605112f8e5]
 
 *Extent: E+W*
 
-(1)[^key-b139da06653409cb8d562ec1d3a77c63] In the heading to regulation 21A, for “post-2012 student loans” substitute “plan 2 loans”.
+(1)[^c-b139da06653409cb8d562ec1d3a77c63] In the heading to regulation 21A, for “post-2012 student loans” substitute “plan 2 loans”.
 
-(2)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(1), for “post-2012 student loans” substitute “plan 2 loans”.
+(2)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(1), for “post-2012 student loans” substitute “plan 2 loans”.
 
-(3)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2)—
+(3)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2)—
 
 - (a) in the words before sub-paragraph (a)—
   - (i) omit “(3),”;
@@ -943,9 +943,9 @@ After regulation 20A (excess payments: more than one loan) insert—
 - (b) in sub-paragraph (b), for “borrower to whom Part 3 or 4 applies” substitute “domestic borrower”;
 - (c) in sub-paragraphs (c) and (d), for “a borrower for whom Part 5 applies” substitute “an overseas borrower”.
 
-(4)[^key-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(2ZA).
+(4)[^c-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(2ZA).
 
-(5)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2A)—
+(5)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2A)—
 
 - (a) in the words before sub-paragraph (a)—
   - (i) for “student loan” substitute “loan”;
@@ -953,34 +953,34 @@ After regulation 20A (excess payments: more than one loan) insert—
 - (b) in sub-paragraph (a), for “borrower to whom Part 3 or 4 applies and also applied” substitute “domestic borrower who was a domestic borrower”;
 - (c) in sub-paragraphs (b) and (c), for “a borrower for whom Part 5 applies” substitute “an overseas borrower”.
 
-(6)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2B)(b), for “student loan” substitute “loan”.
+(6)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2B)(b), for “student loan” substitute “loan”.
 
-(7)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2C)—
+(7)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2C)—
 
 - (a) for “student loan” substitute “loan”;
 - (b) for “post-2012 student loans bear” substitute “the loan bears”.
 
-(8)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2D), omit “post-2012 student”.
+(8)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2D), omit “post-2012 student”.
 
-(9)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2E) and (2F), omit “post-2012 student”.
+(9)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(2E) and (2F), omit “post-2012 student”.
 
-(10)[^key-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(3).
+(10)[^c-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(3).
 
-(11)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(4), for “post-2012 student loans bear” substitute “their loan bears”.
+(11)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(4), for “post-2012 student loans bear” substitute “their loan bears”.
 
-(12)[^key-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(8), for “post-2012 student loans” substitute “plan 2 loans”.
+(12)[^c-b139da06653409cb8d562ec1d3a77c63] In regulation 21A(8), for “post-2012 student loans” substitute “plan 2 loans”.
 
-(13)[^key-fe2450e38b0922ecc892b2605112f8e5] Omit regulation 21A(8A) and (8B).
+(13)[^c-fe2450e38b0922ecc892b2605112f8e5] Omit regulation 21A(8A) and (8B).
 
-(14)[^key-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(9).
+(14)[^c-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(9).
 
-(15)[^key-fe2450e38b0922ecc892b2605112f8e5] After regulation 21A(11) insert—
+(15)[^c-fe2450e38b0922ecc892b2605112f8e5] After regulation 21A(11) insert—
 
 > (11A) This regulation is subject to regulation 20B (interest rate not to exceed prevailing market rate).
 
 .
 
-(16)[^key-b139da06653409cb8d562ec1d3a77c63] For regulation 21A(11A) substitute—
+(16)[^c-b139da06653409cb8d562ec1d3a77c63] For regulation 21A(11A) substitute—
 
 > (11A) This regulation is subject to the following—
 >
@@ -989,7 +989,7 @@ After regulation 20A (excess payments: more than one loan) insert—
 
 .
 
-(17)[^key-b139da06653409cb8d562ec1d3a77c63] After regulation 21A(11A) insert—
+(17)[^c-b139da06653409cb8d562ec1d3a77c63] After regulation 21A(11A) insert—
 
 > (11B) In this regulation—
 >
@@ -998,9 +998,9 @@ After regulation 20A (excess payments: more than one loan) insert—
 
 .
 
-(18)[^key-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(12), (12A), (13), (13A), (14) and (15).
+(18)[^c-b139da06653409cb8d562ec1d3a77c63] Omit regulation 21A(12), (12A), (13), (13A), (14) and (15).
 
-#### 26. Insertion of regulations 21AA and 21AB (interest thresholds for plan 2 loans)[^key-464e030006064bfb8aaf53983246a15c]
+#### 26. Insertion of regulations 21AA and 21AB (interest thresholds for plan 2 loans)[^c-464e030006064bfb8aaf53983246a15c]
 
 After regulation 21A (interest rate on plan 2 loans) insert—
 
@@ -1029,34 +1029,34 @@ After regulation 21A (interest rate on plan 2 loans) insert—
 
 .
 
-#### 27. Amendments to regulation 21B (interest rate on postgraduate degree loans)[^key-d813dbf076409497c717adb71c25106d][^key-d2ecc9133fa9f866b8af08e9c506ea8c]
+#### 27. Amendments to regulation 21B (interest rate on postgraduate degree loans)[^c-d813dbf076409497c717adb71c25106d][^c-d2ecc9133fa9f866b8af08e9c506ea8c]
 
 *Extent: E+W*
 
-(1)[^key-d813dbf076409497c717adb71c25106d] In the heading to regulation 21B, for “postgraduate degree loans” substitute “plan 3 loans”.
+(1)[^c-d813dbf076409497c717adb71c25106d] In the heading to regulation 21B, for “postgraduate degree loans” substitute “plan 3 loans”.
 
-(2)[^key-d813dbf076409497c717adb71c25106d] In regulation 21B(1)—
+(2)[^c-d813dbf076409497c717adb71c25106d] In regulation 21B(1)—
 
 - (a) for “postgraduate degree loan” substitute “plan 3 loan”;
 - (b) for “RPI” substitute “the standard interest rate”.
 
-(3)[^key-d813dbf076409497c717adb71c25106d] For regulation 21B(2) substitute—
+(3)[^c-d813dbf076409497c717adb71c25106d] For regulation 21B(2) substitute—
 
 > (2) Interest accrues beginning with the day on which any part of the loan is paid.
 
 .
 
-(4)[^key-d2ecc9133fa9f866b8af08e9c506ea8c] After regulation 21B(4) insert—
+(4)[^c-d2ecc9133fa9f866b8af08e9c506ea8c] After regulation 21B(4) insert—
 
 > (4ZA) This regulation is subject to regulation 20B (interest rate not to exceed prevailing market rate).
 
 .
 
-(5)[^key-d2ecc9133fa9f866b8af08e9c506ea8c] Omit regulation 21B(4A) and (4B).
+(5)[^c-d2ecc9133fa9f866b8af08e9c506ea8c] Omit regulation 21B(4A) and (4B).
 
-(6)[^key-d813dbf076409497c717adb71c25106d] Omit regulation 21B(5).
+(6)[^c-d813dbf076409497c717adb71c25106d] Omit regulation 21B(5).
 
-#### 28. Insertion of regulation 21C (interest on plan 5 loans)[^key-806e406862a10c942741c5b17b8ed433]
+#### 28. Insertion of regulation 21C (interest on plan 5 loans)[^c-806e406862a10c942741c5b17b8ed433]
 
 After regulation 21B insert—
 
@@ -1075,13 +1075,13 @@ After regulation 21B insert—
 
 .
 
-#### 29. Amendment to regulation 24 (penalties and penalty notices)[^key-d242f91cb471c2762ceeaf6b3a8e6677]
+#### 29. Amendment to regulation 24 (penalties and penalty notices)[^c-d242f91cb471c2762ceeaf6b3a8e6677]
 
 *Extent: E+W*
 
 In regulation 24(7), for “and” substitute “and, if in relation to a plan 1, 2, 3 or 5 loan,”.
 
-#### 30. Amendments to regulation 25 (costs and expenses)[^key-84a4f3935e737ed89292c84fe7ebf531]
+#### 30. Amendments to regulation 25 (costs and expenses)[^c-84a4f3935e737ed89292c84fe7ebf531]
 
 *Extent: E+W*
 
@@ -1090,7 +1090,7 @@ In regulation 25(3)—
 - (a) for “and” substitute “and, if in relation to a plan 1, 2, 3 or 5 loan,”;
 - (b) for “student loan or the postgraduate degree loan” substitute “loan”.
 
-#### 31. Amendment to regulation 27 (foreclosure)[^key-06459c1c080bc20a721f6cf32de465a1]
+#### 31. Amendment to regulation 27 (foreclosure)[^c-06459c1c080bc20a721f6cf32de465a1]
 
 *Extent: E+W*
 
@@ -1100,11 +1100,11 @@ In regulation 27, omit “or the postgraduate degree loan”.
 
 *Extent: E+W*
 
-#### 32. Amendment to regulation 28 (repayments of student loans and postgraduate degree loans by persons required to submit a tax return)[^key-70c1ff4e99bbd3867b3ddf2532f4b120]
+#### 32. Amendment to regulation 28 (repayments of student loans and postgraduate degree loans by persons required to submit a tax return)[^c-70c1ff4e99bbd3867b3ddf2532f4b120]
 
 In the heading to regulation 28, omit “and postgraduate degree loans”.
 
-#### 33. Amendments to regulation 29 (time for and amount of repayments)[^key-430a85b04333b19366552b986165caf0]
+#### 33. Amendments to regulation 29 (time for and amount of repayments)[^c-430a85b04333b19366552b986165caf0]
 
 (1) In regulation 29(1), omit “or a postgraduate degree loan”.
 
@@ -1135,11 +1135,11 @@ In the heading to regulation 28, omit “and postgraduate degree loans”.
 
 (7) Omit regulation 29(6) to (10).
 
-#### 34. Amendment to regulation 36 (late payment penalties)[^key-6ba219be91e9b42622a7cfa41743e27f]
+#### 34. Amendment to regulation 36 (late payment penalties)[^c-6ba219be91e9b42622a7cfa41743e27f]
 
 Omit regulation 36(a) (including the “and” that follows it).
 
-#### 35. Amendments to regulation 40 (penalties)[^key-b7ac6c02ba4b136941633fe39e7fe1ab]
+#### 35. Amendments to regulation 40 (penalties)[^c-b7ac6c02ba4b136941633fe39e7fe1ab]
 
 (1) In regulation 40(1)(a), omit “for the tax year 2010–11 or any subsequent tax year”.
 
@@ -1151,7 +1151,7 @@ Omit regulation 36(a) (including the “and” that follows it).
 
 *Extent: E+W*
 
-#### 36. Amendments to regulation 41 (interpretation)[^key-9bab41f1ba981b075d9e1b0d232baa71]
+#### 36. Amendments to regulation 41 (interpretation)[^c-9bab41f1ba981b075d9e1b0d232baa71]
 
 (1) In the heading to regulation 41, after “Interpretation” insert “of Part 4”.
 
@@ -1162,15 +1162,15 @@ Omit regulation 36(a) (including the “and” that follows it).
 - (c) in the definition of “non-Real Time Information employer”, for “one within regulation 41A” substitute “a Real Time Information employer”;
 - (d) in the definition of “Real Time Information employer”, for “regulation 41A” substitute “regulation 2A of the PAYE Regulations”.
 
-#### 37. Omission of regulation 41A (real time information employers)[^key-8a635aba63a15f1854368ed1822037cc]
+#### 37. Omission of regulation 41A (real time information employers)[^c-8a635aba63a15f1854368ed1822037cc]
 
 Omit regulation 41A.
 
-#### 38. Amendment to regulation 42 (repayment of student loans or postgraduate degree loans by employees)[^key-3dc82fe50fe32a84d469807372a0709c]
+#### 38. Amendment to regulation 42 (repayment of student loans or postgraduate degree loans by employees)[^c-3dc82fe50fe32a84d469807372a0709c]
 
 In the heading to regulation 42, omit “or postgraduate degree loans”.
 
-#### 39. Substitution of regulation 43 (new employee to declare repayments liability)[^key-5a936e10b0c6f4cad81a86cca39a047f]
+#### 39. Substitution of regulation 43 (new employee to declare repayments liability)[^c-5a936e10b0c6f4cad81a86cca39a047f]
 
 For regulation 43 (commencement of employment with a non-Real Time Information employer) substitute—
 
@@ -1188,11 +1188,11 @@ For regulation 43 (commencement of employment with a non-Real Time Information e
 
 .
 
-#### 40. Omission of regulation 43A (commencement of employment with a Real Time Information employer)[^key-7a4f7257cd8a4091459ccd42e0c44ab1]
+#### 40. Omission of regulation 43A (commencement of employment with a Real Time Information employer)[^c-7a4f7257cd8a4091459ccd42e0c44ab1]
 
 Omit regulation 43A.
 
-#### 41. Amendments to regulation 44 (amount of repayments)[^key-cc180ed304962215a5129b9de30f33ff]
+#### 41. Amendments to regulation 44 (amount of repayments)[^c-cc180ed304962215a5129b9de30f33ff]
 
 (1) In regulation 44(1)—
 
@@ -1217,7 +1217,7 @@ Omit regulation 43A.
 
 > (7) The default threshold is whichever repayment threshold for a plan 1, 2, 4 or 5 loan is the lowest repayment threshold.
 
-#### 42. Amendments to regulation 50 (deductions of repayments)[^key-277b62f8a81ea8c870123b2065dad9ae]
+#### 42. Amendments to regulation 50 (deductions of repayments)[^c-277b62f8a81ea8c870123b2065dad9ae]
 
 (1) In regulation 50(1)—
 
@@ -1238,11 +1238,11 @@ Omit regulation 43A.
 
 (4) Omit regulation 50(9).
 
-#### 43. Amendments to regulation 55 (notice and certificate when repayments deducted not paid)[^key-de92026753cc1cb3ba59673cd5e9a5f6]
+#### 43. Amendments to regulation 55 (notice and certificate when repayments deducted not paid)[^c-de92026753cc1cb3ba59673cd5e9a5f6]
 
 In regulation 55(1), (2), (4), (5) and (6), omit “student loan or postgraduate degree loan”.
 
-#### 44. Amendments to regulation 56 (notice of specified amount and certificate when repayments not deducted)[^key-c61ee3d7cacc525e1363e37c6dec8749]
+#### 44. Amendments to regulation 56 (notice of specified amount and certificate when repayments not deducted)[^c-c61ee3d7cacc525e1363e37c6dec8749]
 
 (1) In regulation 56(1), omit “student loan or postgraduate degree loan”.
 
@@ -1252,41 +1252,41 @@ In regulation 55(1), (2), (4), (5) and (6), omit “student loan or postgraduate
 
 (4) In regulation 56(6)(a) and (11), for “student loan repayments or postgraduate degree loan repayments” substitute “repayments”.
 
-#### 45. Amendment to regulation 57 (recovery of payments deducted through the income tax system)[^key-db8e8591de7b7361758d86d9cb2045e9]
+#### 45. Amendment to regulation 57 (recovery of payments deducted through the income tax system)[^c-db8e8591de7b7361758d86d9cb2045e9]
 
 In regulation 57(2), for “student loan repayments, postgraduate degree loan repayments” substitute “repayments”.
 
-#### 46. Amendments to regulation 59 (returns by employers)[^key-c995b09abeb31dc8f5e6e0dbfaa8eef2]
+#### 46. Amendments to regulation 59 (returns by employers)[^c-c995b09abeb31dc8f5e6e0dbfaa8eef2]
 
 (1) In regulation 59(7), for “section 566(1) of the 1988 Act” substitute “section 70(1)(a) or 71 of the Finance Act 2004[^f00032]”.
 
 (2) In regulation 59(9), omit “student loan or postgraduate degree loan”.
 
-#### 47. Amendments to regulation 59B (real time returns of information about payments of earnings)[^key-7b99f8b09db4d1b3ce7009d16b3789f9]
+#### 47. Amendments to regulation 59B (real time returns of information about payments of earnings)[^c-7b99f8b09db4d1b3ce7009d16b3789f9]
 
 (1) In regulation 59B(1), omit “but this is subject to paragraph (1A)”.
 
 (2) Omit regulation 59B(1A) to (1E).
 
-#### 48. Amendments to regulation 59E (exceptions to regulation 59B)[^key-3f5d76b2afcbd20dc5eaec3f8a2e532f]
+#### 48. Amendments to regulation 59E (exceptions to regulation 59B)[^c-3f5d76b2afcbd20dc5eaec3f8a2e532f]
 
 (1) Omit regulation 59E(2A).
 
 (2) In regulation 59E(3), for “On and after 6 April 2014, the” substitute “The”.
 
-#### 49. Amendment to regulation 59G (failure to make a return under regulation 59B or 59E)[^key-2b8b4cdfa2ca8be67a6b2e31d9bc7e75]
+#### 49. Amendment to regulation 59G (failure to make a return under regulation 59B or 59E)[^c-2b8b4cdfa2ca8be67a6b2e31d9bc7e75]
 
 Omit regulation 59G(5).
 
-#### 50. Amendment to regulation 60 (inspection of employers’ records)[^key-12c74318ce4498da9a269c96ab3d2694]
+#### 50. Amendment to regulation 60 (inspection of employers’ records)[^c-12c74318ce4498da9a269c96ab3d2694]
 
 In regulation 60(4)(a), omit “student loan or postgraduate degree loan”.
 
-#### 51. Amendment to regulation 61 (powers to obtain information)[^key-3e8203ed543c443c0bb5cdd32c7e7403]
+#### 51. Amendment to regulation 61 (powers to obtain information)[^c-3e8203ed543c443c0bb5cdd32c7e7403]
 
 In regulation 61(2)(b), omit “student loan or postgraduate degree loan”.
 
-#### 52. Amendments to section 67 (cessation of employment)[^key-196c59c319319733e2c77c0db6bd1cbd]
+#### 52. Amendments to section 67 (cessation of employment)[^c-196c59c319319733e2c77c0db6bd1cbd]
 
 In regulation 67—
 
@@ -1296,7 +1296,7 @@ In regulation 67—
   - (ii) omit “or any postgraduate degree loan”;
 - (c) in paragraph (c), for “(where any of paragraph (a), (b), or (ba) apply)” substitute “if paragraph (a) or (ba) apply,”.
 
-#### 53. Amendment to regulation 68 (penalties)[^key-a9546f69cbf42b7c0ad823be86d63d08]
+#### 53. Amendment to regulation 68 (penalties)[^c-a9546f69cbf42b7c0ad823be86d63d08]
 
 In regulation 68(3), omit “student loan or postgraduate degree loan”.
 
@@ -1304,11 +1304,11 @@ In regulation 68(3), omit “student loan or postgraduate degree loan”.
 
 *Extent: E+W*
 
-#### 54. Amendment to the heading to Part 5[^key-f8a33001bf744a5cc7711fec9440b86a]
+#### 54. Amendment to the heading to Part 5[^c-f8a33001bf744a5cc7711fec9440b86a]
 
 In the heading to Part 5, after “Repayment” insert “of plan 1, 2, 3 and 5 loans”.
 
-#### 55. Amendments to regulation 71 (interpretation)[^key-d534e19d9981a7b29bf9d956a5f20dff]
+#### 55. Amendments to regulation 71 (interpretation)[^c-d534e19d9981a7b29bf9d956a5f20dff]
 
 (1) In the heading to regulation 71, after “Interpretation” insert “of Part 5”.
 
@@ -1321,13 +1321,13 @@ In the heading to Part 5, after “Repayment” insert “of plan 1, 2, 3 and 5 
   ;
 - (b) omit the definition of “residence”.
 
-#### 56. Amendments to regulation 73 (notice of liability to make repayments)[^key-3ff5da28746149c31ee597a3e8e4f16a]
+#### 56. Amendments to regulation 73 (notice of liability to make repayments)[^c-3ff5da28746149c31ee597a3e8e4f16a]
 
 (1) In regulation 73(1), for “any student loan or any postgraduate degree loan” substitute “a plan 1, 2, 3 or 5 loan”.
 
 (2) In regulation 73(2), for “a student loan or any postgraduate degree loan” substitute “the loan”.
 
-#### 57. Amendments to regulation 74 (repayment by fixed instalments)[^key-ba7ad5521263c1a99329fa792fd09db5]
+#### 57. Amendments to regulation 74 (repayment by fixed instalments)[^c-ba7ad5521263c1a99329fa792fd09db5]
 
 (1) The existing text of regulation 74 is renumbered as paragraph (1).
 
@@ -1347,7 +1347,7 @@ In the heading to Part 5, after “Repayment” insert “of plan 1, 2, 3 and 5 
 
 .
 
-#### 58. Insertion of regulation 74A (how to calculate fixed instalment rate)[^key-8cf3ad037af9146ebbdc828f00c7742d]
+#### 58. Insertion of regulation 74A (how to calculate fixed instalment rate)[^c-8cf3ad037af9146ebbdc828f00c7742d]
 
 After regulation 74 (repayment by fixed instalments) insert—
 
@@ -1373,7 +1373,7 @@ After regulation 74 (repayment by fixed instalments) insert—
 
 .
 
-#### 59. Amendments to regulation 75 (repayment by income-related instalments)[^key-9a399779d25c240e5810d4c6fe02dcb4]
+#### 59. Amendments to regulation 75 (repayment by income-related instalments)[^c-9a399779d25c240e5810d4c6fe02dcb4]
 
 (1) In regulation 75(4)—
 
@@ -1387,7 +1387,7 @@ After regulation 74 (repayment by fixed instalments) insert—
 - (a) for “(4)” substitute “(4)(b)”;
 - (b) for “due by—” to the end substitute “under paragraph (4)(a)”.
 
-#### 60. Insertion of regulation 75A (how to calculate applicable threshold)[^key-e289a10224aa756fb9f609612e99e8f2]
+#### 60. Insertion of regulation 75A (how to calculate applicable threshold)[^c-e289a10224aa756fb9f609612e99e8f2]
 
 After regulation 75 (repayment by income-related instalments) insert—
 
@@ -1402,11 +1402,11 @@ After regulation 75 (repayment by income-related instalments) insert—
 
 .
 
-#### 61. Omission of regulation 76 (calculation of fixed instalment and applicable threshold)[^key-abecbab37d094fb84e35f2b643f0c9a6]
+#### 61. Omission of regulation 76 (calculation of fixed instalment and applicable threshold)[^c-abecbab37d094fb84e35f2b643f0c9a6]
 
 Omit regulation 76.
 
-#### 62. Amendments to regulation 77 (application to cease repayment by instalments)[^key-d960a234f855affbcea449b5c2f87f8d]
+#### 62. Amendments to regulation 77 (application to cease repayment by instalments)[^c-d960a234f855affbcea449b5c2f87f8d]
 
 In regulation 77(1)—
 
@@ -1417,11 +1417,11 @@ In regulation 77(1)—
 
 *Extent: E+W*
 
-#### 63. Amendment to heading to Part 6[^key-16b6de23dc573782c253ee4e6d83626e]
+#### 63. Amendment to heading to Part 6[^c-16b6de23dc573782c253ee4e6d83626e]
 
 In the heading to Part 6, after “Insolvency” insert “in relation to plan 1, 2, 3 and 5 loans”.
 
-#### 64. Amendments to regulation 80 (effect of borrower insolvency on student loans and postgraduate degree loans)[^key-ba4b4bc37e29156399cba9accb01b827]
+#### 64. Amendments to regulation 80 (effect of borrower insolvency on student loans and postgraduate degree loans)[^c-ba4b4bc37e29156399cba9accb01b827]
 
 (1) In the heading to regulation 80, omit “on student loans and postgraduate degree loans”.
 
@@ -1449,7 +1449,7 @@ In the heading to Part 6, after “Insolvency” insert “in relation to plan 1
 
 ### Insertion of Schedule 1A (repayment thresholds)
 
-#### 65. Insertion of Schedule 1A (repayment thresholds)[^key-c99e52e01a30cd5f802c398d9eb5e326]
+#### 65. Insertion of Schedule 1A (repayment thresholds)[^c-c99e52e01a30cd5f802c398d9eb5e326]
 
 After Schedule 1 (revocations) insert—
 
@@ -1506,7 +1506,7 @@ After Schedule 1 (revocations) insert—
 
 *Extent: E+W*
 
-### 66. Revocations on 16th January 2023[^key-085414f84cd477c3de4da1d0433cd667]
+### 66. Revocations on 16th January 2023[^c-085414f84cd477c3de4da1d0433cd667]
 
 The enactments cited in the table are revoked.
 
@@ -1518,7 +1518,7 @@ The enactments cited in the table are revoked.
 | The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations 2022 | [S.I. 2022/889](https://www.legislation.gov.uk/uksi/2022/889) |
 | The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2022 | [S.I. 2022/1151](https://www.legislation.gov.uk/uksi/2022/1151) |
 
-### 67. Revocations on 6th April 2023[^key-3f52bebf7b50e575752def87fad39dd0]
+### 67. Revocations on 6th April 2023[^c-3f52bebf7b50e575752def87fad39dd0]
 
 The enactments cited in the table are revoked.
 
@@ -1649,25 +1649,25 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00004]: Footnote: The functions of the Secretary of State under section 22(1), (2)(g), (3)(a) to (d) and (4)(b) in relation to Wales were transferred to the National Assembly for Wales by section 44(1) of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8). The functions of the Secretary of State under section 42(6) in relation to Wales were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). The aforementioned functions of the National Assembly for Wales were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). The National Assembly for Wales was renamed Senedd Cymru or the Welsh Parliament by section 2 of the Senedd and Elections (Wales) Act 2020 (anaw 1).
 
-[^key-70f05a050b23faa26a8de6e5b6b58b50]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1335/regulation/1) in force at 16.1.2023, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/a)
+[^c-70f05a050b23faa26a8de6e5b6b58b50]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1335/regulation/1) in force at 16.1.2023, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/a)
 
-[^key-c9cc7387c4b2562ab7ec47ae87638aca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2) in force at 16.1.2023, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/a)
+[^c-c9cc7387c4b2562ab7ec47ae87638aca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2) in force at 16.1.2023, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/a)
 
-[^key-d987c50fc55acc8672ab88730a3380fe]: Textual amendment: [Reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/aa) inserted (15.1.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/1392)](https://www.legislation.gov.uk/uksi/2022/1392), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1392/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2022/1392/regulation/3)
+[^c-d987c50fc55acc8672ab88730a3380fe]: Textual amendment: [Reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/aa) inserted (15.1.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/1392)](https://www.legislation.gov.uk/uksi/2022/1392), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1392/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2022/1392/regulation/3)
 
-[^key-3e8fb03679a5a20356080030a30d15f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3) in force at 16.1.2023, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/a)
+[^c-3e8fb03679a5a20356080030a30d15f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3) in force at 16.1.2023, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/a)
 
-[^key-ae0e6520fc3bd8646f2c9804b1434980]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3/a) substituted (15.1.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/1392)](https://www.legislation.gov.uk/uksi/2022/1392), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1392/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2022/1392/regulation/4)
+[^c-ae0e6520fc3bd8646f2c9804b1434980]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3/a) substituted (15.1.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/1392)](https://www.legislation.gov.uk/uksi/2022/1392), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1392/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2022/1392/regulation/4)
 
-[^key-d611580e90a4287057ae7423513053d9]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3/a) omitted (1.6.2023) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521)](https://www.legislation.gov.uk/uksi/2023/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/521/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/521/regulation/3/2)
+[^c-d611580e90a4287057ae7423513053d9]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3/a) omitted (1.6.2023) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521)](https://www.legislation.gov.uk/uksi/2023/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/521/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/521/regulation/3/2)
 
-[^key-9b7e811a33f06fcfd6e8e2354aaae8e8]: Textual amendment: [Reg. 3(aa)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3/aa) inserted (1.6.2023) by [The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521)](https://www.legislation.gov.uk/uksi/2023/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/521/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/521/regulation/3/3)
+[^c-9b7e811a33f06fcfd6e8e2354aaae8e8]: Textual amendment: [Reg. 3(aa)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/3/aa) inserted (1.6.2023) by [The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521)](https://www.legislation.gov.uk/uksi/2023/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/521/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/521/regulation/3/3)
 
-[^key-b78f350188ccdc1664dd1da0cbc86eb6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1335/regulation/4) in force at 16.1.2023, see [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/aa) (as inserted by [S.I. 2022/1392](https://www.legislation.gov.uk/uksi/2022/1392), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1392/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2022/1392/regulation/3))
+[^c-b78f350188ccdc1664dd1da0cbc86eb6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1335/regulation/4) in force at 16.1.2023, see [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/aa) (as inserted by [S.I. 2022/1392](https://www.legislation.gov.uk/uksi/2022/1392), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1392/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2022/1392/regulation/3))
 
 [^f00005]: Footnote: [S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470), amended by [S.I. 2010/661](https://www.legislation.gov.uk/uksi/2010/661), [1010](https://www.legislation.gov.uk/uksi/2010/1010), [2011/784](https://www.legislation.gov.uk/uksi/2011/784), [2012/836](https://www.legislation.gov.uk/uksi/2012/836), [1309](https://www.legislation.gov.uk/uksi/2012/1309), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [591](https://www.legislation.gov.uk/uksi/2013/591), [607](https://www.legislation.gov.uk/uksi/2013/607), [1881](https://www.legislation.gov.uk/uksi/2013/1881), [2014/651](https://www.legislation.gov.uk/uksi/2014/651), [2017/831](https://www.legislation.gov.uk/uksi/2017/831), [2018/284](https://www.legislation.gov.uk/uksi/2018/284), [599](https://www.legislation.gov.uk/uksi/2018/599), [810](https://www.legislation.gov.uk/uksi/2018/810), [2019/189](https://www.legislation.gov.uk/uksi/2019/189), [2021/191](https://www.legislation.gov.uk/uksi/2021/191), [677](https://www.legislation.gov.uk/uksi/2021/677), [1005](https://www.legislation.gov.uk/uksi/2021/1005), [1378](https://www.legislation.gov.uk/uksi/2021/1378), [2022/301](https://www.legislation.gov.uk/uksi/2022/301), [889](https://www.legislation.gov.uk/uksi/2022/889) and [1151](https://www.legislation.gov.uk/uksi/2022/1151).
 
-[^key-c58d6d18f6ac49ca10385a7ec618a58d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1335/regulation/5) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-c58d6d18f6ac49ca10385a7ec618a58d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1335/regulation/5) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00006]: Footnote: [S.S.I. 2000/110](https://www.legislation.gov.uk/ssi/2000/110), amended by [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and [S.S.I. 2000/200](https://www.legislation.gov.uk/ssi/2000/200), [2001/227](https://www.legislation.gov.uk/ssi/2001/227), [2005/314](https://www.legislation.gov.uk/ssi/2005/314), [2006/326](https://www.legislation.gov.uk/ssi/2006/326), [2007/159](https://www.legislation.gov.uk/ssi/2007/159), [2009/102](https://www.legislation.gov.uk/ssi/2009/102), [2012/22](https://www.legislation.gov.uk/ssi/2012/22), [2013/65](https://www.legislation.gov.uk/ssi/2013/65), [80](https://www.legislation.gov.uk/ssi/2013/80), [142](https://www.legislation.gov.uk/ssi/2013/142), [2016/82](https://www.legislation.gov.uk/ssi/2016/82), [2018/307](https://www.legislation.gov.uk/ssi/2018/307), [2019/70](https://www.legislation.gov.uk/ssi/2019/70), [2021/8](https://www.legislation.gov.uk/ssi/2021/8), [73](https://www.legislation.gov.uk/ssi/2021/73) and [2022/31](https://www.legislation.gov.uk/ssi/2022/31).
 
@@ -1675,7 +1675,7 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00008]: Footnote: The percentage increase is published at https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czbh/.
 
-[^key-784c62456eb06562f61e1c4f6ec5dfc5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/1335/regulation/6) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-784c62456eb06562f61e1c4f6ec5dfc5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/1335/regulation/6) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00009]: Footnote: Regulation 3(1) of the Education (Student Loans) (Repayment) Regulations 2009 defines “the 2011 Support Regulations” as the Education (Student Support) Regulations 2011 ([S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986)).
 
@@ -1693,87 +1693,87 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00016]: Footnote: If the Scottish Ministers so determine, the Authority must notify His Majesty’s Revenue and Customs and the borrower (see regulation 15(3)).
 
-[^key-ac8725b035395b21bac015c052126862]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/1335/regulation/7) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-ac8725b035395b21bac015c052126862]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/1335/regulation/7) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00017]: Footnote: [S.I. 2000/944](https://www.legislation.gov.uk/uksi/2000/944), amended by [S.I. 2001/971](https://www.legislation.gov.uk/uksi/2001/971), [2002/2087](https://www.legislation.gov.uk/uksi/2002/2087), [2004/1175](https://www.legislation.gov.uk/uksi/2004/1175), [2752](https://www.legislation.gov.uk/uksi/2004/2752), [2005/2690](https://www.legislation.gov.uk/uksi/2005/2690), [2006/745](https://www.legislation.gov.uk/uksi/2006/745), [2009](https://www.legislation.gov.uk/uksi/2006/2009), [2007/1983](https://www.legislation.gov.uk/uksi/2007/1983), [3509 (W. 308)](https://www.legislation.gov.uk/wsi/2007/3509), [2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [2715](https://www.legislation.gov.uk/uksi/2008/2715), [2009/56](https://www.legislation.gov.uk/uksi/2009/56); revoked on 6th April 2009 by [S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470).
 
-[^key-ec0a25d613cdb14e8cb25ce04ef788ed]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/1335/regulation/8) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-ec0a25d613cdb14e8cb25ce04ef788ed]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/1335/regulation/8) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-122110eeb0a988524945554d85ea2af5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/1335/regulation/9) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-122110eeb0a988524945554d85ea2af5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/1335/regulation/9) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-c305257c628c5a78766dcb9cf32b183a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/1335/regulation/10) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-c305257c628c5a78766dcb9cf32b183a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/1335/regulation/10) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-95c5291bc5e499fa9bfd58826bc7996c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/1335/regulation/11) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-95c5291bc5e499fa9bfd58826bc7996c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/1335/regulation/11) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00018]: Footnote: The world development indicator is published at https://data.worldbank.org/indicator/PA.NUS.PPPC.RF.
 
 [^f00019]: Footnote: The percentage increase is published at https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czbh/.
 
-[^key-32b9fc110456fadc19329fd25d2ad7b5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/1335/regulation/12) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-32b9fc110456fadc19329fd25d2ad7b5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/1335/regulation/12) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-0c9d889c58efe328ee32c3776cf36753]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/1335/regulation/13) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-0c9d889c58efe328ee32c3776cf36753]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/1335/regulation/13) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00020]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881); other amending instruments are not relevant.
 
 [^f00021]: Footnote: The total charge for credit rules are published as part of the FCA Handbook, which is published at https://www.handbook.fca.org.uk/handbook.
 
-[^key-4a9e72509255aaa69d1cdd0cf33247c7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/1335/regulation/14) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-4a9e72509255aaa69d1cdd0cf33247c7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/1335/regulation/14) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00022]: Footnote: The application of repayments in relation to a plan 4 loan is determined in accordance with regulation 6 of the 2000 (Scotland) Regulations.
 
-[^key-33b5ce1c11aa91010eea2cf1959c3ce6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/1335/regulation/15) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-33b5ce1c11aa91010eea2cf1959c3ce6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/1335/regulation/15) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00023]: Footnote: The timing of repayments in relation to a plan 4 loan is determined in accordance with regulation 7 of the 2000 (Scotland) Regulations.
 
-[^key-b13d0d6d58d8d9da02e31dee682dcb60]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/1335/regulation/16) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-b13d0d6d58d8d9da02e31dee682dcb60]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/1335/regulation/16) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-5674cf0f45325b4a3111480007c173b3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/1335/regulation/17) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-5674cf0f45325b4a3111480007c173b3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/1335/regulation/17) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-d45e32db6c2e1cbdc73d52032e98e1af]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/1335/regulation/18) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-d45e32db6c2e1cbdc73d52032e98e1af]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/1335/regulation/18) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00024]: Footnote: The repayment of a plan 3 loan is additional to, and concurrent with, the repayment of a plan 1, 2, 4 or 5 loan (see regulation 29(3A), 44(2A) or 75(4A)).
 
-[^key-021d3c379973a27ed2ee25a56945decc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/1335/regulation/19) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-021d3c379973a27ed2ee25a56945decc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/1335/regulation/19) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00025]: Footnote: The cancellation of a plan 4 loan is determined in accordance with regulation 8 of the 2000 (Scotland) Regulations.
 
-[^key-2219262fd3bc463739056b3728792176]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/1335/regulation/20) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-2219262fd3bc463739056b3728792176]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/1335/regulation/20) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00026]: Footnote: A refund in relation to a plan 4 loan is determined in accordance with regulation 9 of the 2000 (Scotland) Regulations.
 
-[^key-1e58dcdab663a90970140a0b2506b459]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2022/1335/regulation/21) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-1e58dcdab663a90970140a0b2506b459]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2022/1335/regulation/21) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-89e82fe3f4e0298aa7e3ce6587de0b2b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/1335/regulation/22) in force at 16.1.2023, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/b)
+[^c-89e82fe3f4e0298aa7e3ce6587de0b2b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/1335/regulation/22) in force at 16.1.2023, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/b)
 
 [^f00027]: Footnote: The rate at which a student loan (other than a post-2012 student loan) bears interest is limited by regulation 21(2). The rate at which a Scottish student loan bears interest is determined in accordance with regulations made under the Education (Scotland) Act 1980.
 
-[^key-96fc85b4793c2c9fda34b3dc775d5007]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/1335/regulation/23) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-96fc85b4793c2c9fda34b3dc775d5007]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/1335/regulation/23) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00028]: Footnote: The rate at which a plan 1 loan bears interest is limited by regulation 21(2). The rate at which a plan 4 loan bears interest is determined in accordance with regulations made under the Education (Scotland) Act 1980.
 
-[^key-7233f38cd8f8bf10dc2dd062ece5d20c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2022/1335/regulation/24) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-7233f38cd8f8bf10dc2dd062ece5d20c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2022/1335/regulation/24) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-b139da06653409cb8d562ec1d3a77c63]: Commencement: [Reg. 25(1)-(12)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/1), [(14)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/14), [(16)-(18)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/16) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-b139da06653409cb8d562ec1d3a77c63]: Commencement: [Reg. 25(1)-(12)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/1), [(14)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/14), [(16)-(18)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/16) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-fe2450e38b0922ecc892b2605112f8e5]: Commencement: [Reg. 25(13)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/13)[(15)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/15) in force at 16.1.2023, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/c)
+[^c-fe2450e38b0922ecc892b2605112f8e5]: Commencement: [Reg. 25(13)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/13)[(15)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/25/15) in force at 16.1.2023, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/c)
 
-[^key-464e030006064bfb8aaf53983246a15c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2022/1335/regulation/26) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-464e030006064bfb8aaf53983246a15c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2022/1335/regulation/26) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-d813dbf076409497c717adb71c25106d]: Commencement: [Reg. 27(1)-(3)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/1), [(6)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/6) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-d813dbf076409497c717adb71c25106d]: Commencement: [Reg. 27(1)-(3)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/1), [(6)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/6) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-d2ecc9133fa9f866b8af08e9c506ea8c]: Commencement: [Reg. 27(4)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/4)[(5)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/5) in force at 16.1.2023, see [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/d)
+[^c-d2ecc9133fa9f866b8af08e9c506ea8c]: Commencement: [Reg. 27(4)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/4)[(5)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/27/5) in force at 16.1.2023, see [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/d)
 
-[^key-806e406862a10c942741c5b17b8ed433]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2022/1335/regulation/28) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-806e406862a10c942741c5b17b8ed433]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2022/1335/regulation/28) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-d242f91cb471c2762ceeaf6b3a8e6677]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2022/1335/regulation/29) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-d242f91cb471c2762ceeaf6b3a8e6677]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2022/1335/regulation/29) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-84a4f3935e737ed89292c84fe7ebf531]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2022/1335/regulation/30) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-84a4f3935e737ed89292c84fe7ebf531]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2022/1335/regulation/30) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-06459c1c080bc20a721f6cf32de465a1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2022/1335/regulation/31) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-06459c1c080bc20a721f6cf32de465a1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2022/1335/regulation/31) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-70c1ff4e99bbd3867b3ddf2532f4b120]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2022/1335/regulation/32) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-70c1ff4e99bbd3867b3ddf2532f4b120]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2022/1335/regulation/32) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-430a85b04333b19366552b986165caf0]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2022/1335/regulation/33) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-430a85b04333b19366552b986165caf0]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2022/1335/regulation/33) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00029]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
@@ -1781,76 +1781,76 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00031]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-6ba219be91e9b42622a7cfa41743e27f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2022/1335/regulation/34) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-6ba219be91e9b42622a7cfa41743e27f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2022/1335/regulation/34) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-b7ac6c02ba4b136941633fe39e7fe1ab]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2022/1335/regulation/35) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-b7ac6c02ba4b136941633fe39e7fe1ab]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2022/1335/regulation/35) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-9bab41f1ba981b075d9e1b0d232baa71]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2022/1335/regulation/36) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-9bab41f1ba981b075d9e1b0d232baa71]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2022/1335/regulation/36) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-8a635aba63a15f1854368ed1822037cc]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2022/1335/regulation/37) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-8a635aba63a15f1854368ed1822037cc]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2022/1335/regulation/37) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-3dc82fe50fe32a84d469807372a0709c]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2022/1335/regulation/38) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-3dc82fe50fe32a84d469807372a0709c]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2022/1335/regulation/38) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-5a936e10b0c6f4cad81a86cca39a047f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2022/1335/regulation/39) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-5a936e10b0c6f4cad81a86cca39a047f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2022/1335/regulation/39) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-7a4f7257cd8a4091459ccd42e0c44ab1]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2022/1335/regulation/40) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-7a4f7257cd8a4091459ccd42e0c44ab1]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2022/1335/regulation/40) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-cc180ed304962215a5129b9de30f33ff]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2022/1335/regulation/41) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-cc180ed304962215a5129b9de30f33ff]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2022/1335/regulation/41) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-277b62f8a81ea8c870123b2065dad9ae]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2022/1335/regulation/42) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-277b62f8a81ea8c870123b2065dad9ae]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2022/1335/regulation/42) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-de92026753cc1cb3ba59673cd5e9a5f6]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2022/1335/regulation/43) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-de92026753cc1cb3ba59673cd5e9a5f6]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2022/1335/regulation/43) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-c61ee3d7cacc525e1363e37c6dec8749]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2022/1335/regulation/44) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-c61ee3d7cacc525e1363e37c6dec8749]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2022/1335/regulation/44) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-db8e8591de7b7361758d86d9cb2045e9]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2022/1335/regulation/45) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-db8e8591de7b7361758d86d9cb2045e9]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2022/1335/regulation/45) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-c995b09abeb31dc8f5e6e0dbfaa8eef2]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2022/1335/regulation/46) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-c995b09abeb31dc8f5e6e0dbfaa8eef2]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2022/1335/regulation/46) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00032]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 71 was amended by Part 1 of Schedule 3 to the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4).
 
-[^key-7b99f8b09db4d1b3ce7009d16b3789f9]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2022/1335/regulation/47) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-7b99f8b09db4d1b3ce7009d16b3789f9]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2022/1335/regulation/47) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-3f5d76b2afcbd20dc5eaec3f8a2e532f]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2022/1335/regulation/48) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-3f5d76b2afcbd20dc5eaec3f8a2e532f]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2022/1335/regulation/48) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-2b8b4cdfa2ca8be67a6b2e31d9bc7e75]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2022/1335/regulation/49) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-2b8b4cdfa2ca8be67a6b2e31d9bc7e75]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2022/1335/regulation/49) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-12c74318ce4498da9a269c96ab3d2694]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2022/1335/regulation/50) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-12c74318ce4498da9a269c96ab3d2694]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2022/1335/regulation/50) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-3e8203ed543c443c0bb5cdd32c7e7403]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2022/1335/regulation/51) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-3e8203ed543c443c0bb5cdd32c7e7403]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2022/1335/regulation/51) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-196c59c319319733e2c77c0db6bd1cbd]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2022/1335/regulation/52) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-196c59c319319733e2c77c0db6bd1cbd]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2022/1335/regulation/52) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-a9546f69cbf42b7c0ad823be86d63d08]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2022/1335/regulation/53) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-a9546f69cbf42b7c0ad823be86d63d08]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2022/1335/regulation/53) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-f8a33001bf744a5cc7711fec9440b86a]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2022/1335/regulation/54) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-f8a33001bf744a5cc7711fec9440b86a]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2022/1335/regulation/54) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-d534e19d9981a7b29bf9d956a5f20dff]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2022/1335/regulation/55) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-d534e19d9981a7b29bf9d956a5f20dff]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2022/1335/regulation/55) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-3ff5da28746149c31ee597a3e8e4f16a]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2022/1335/regulation/56) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-3ff5da28746149c31ee597a3e8e4f16a]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2022/1335/regulation/56) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-ba7ad5521263c1a99329fa792fd09db5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2022/1335/regulation/57) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-ba7ad5521263c1a99329fa792fd09db5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2022/1335/regulation/57) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-8cf3ad037af9146ebbdc828f00c7742d]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2022/1335/regulation/58) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-8cf3ad037af9146ebbdc828f00c7742d]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2022/1335/regulation/58) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00033]: Footnote: The median salary for graduates is published at https://explore-education-statistics.service.gov.uk/find-statistics/graduate-labour-markets. Data published in a given calendar year is used to calculate the fixed instalment rate for the financial year beginning in the following calendar year.
 
-[^key-9a399779d25c240e5810d4c6fe02dcb4]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2022/1335/regulation/59) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-9a399779d25c240e5810d4c6fe02dcb4]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2022/1335/regulation/59) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-e289a10224aa756fb9f609612e99e8f2]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2022/1335/regulation/60) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-e289a10224aa756fb9f609612e99e8f2]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2022/1335/regulation/60) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-abecbab37d094fb84e35f2b643f0c9a6]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2022/1335/regulation/61) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-abecbab37d094fb84e35f2b643f0c9a6]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2022/1335/regulation/61) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-d960a234f855affbcea449b5c2f87f8d]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2022/1335/regulation/62) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-d960a234f855affbcea449b5c2f87f8d]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2022/1335/regulation/62) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-16b6de23dc573782c253ee4e6d83626e]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2022/1335/regulation/63) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-16b6de23dc573782c253ee4e6d83626e]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2022/1335/regulation/63) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-ba4b4bc37e29156399cba9accb01b827]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2022/1335/regulation/64) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-ba4b4bc37e29156399cba9accb01b827]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2022/1335/regulation/64) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
-[^key-c99e52e01a30cd5f802c398d9eb5e326]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2022/1335/regulation/65) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-c99e52e01a30cd5f802c398d9eb5e326]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2022/1335/regulation/65) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
 
 [^f00034]: Footnote: A borrower is not required to repay any part of a plan 5 loan on or before 5th April 2026 (see regulation 15(2BA)).
 
-[^key-085414f84cd477c3de4da1d0433cd667]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2022/1335/regulation/66) in force at 16.1.2023, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/e)
+[^c-085414f84cd477c3de4da1d0433cd667]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2022/1335/regulation/66) in force at 16.1.2023, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/e)
 
-[^key-3f52bebf7b50e575752def87fad39dd0]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2022/1335/regulation/67) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)
+[^c-3f52bebf7b50e575752def87fad39dd0]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2022/1335/regulation/67) in force at 6.4.2023, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2)

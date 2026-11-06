@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Review of earnings trigger and qualifying earnings band[^key-5e7f912526c574ec9946e0be122ff791]
+## 9. Review of earnings trigger and qualifying earnings band[^c-5e7f912526c574ec9946e0be122ff791]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e7f912526c574ec9946e0be122ff791]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2012/3/section/9) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/d)
+[^c-5e7f912526c574ec9946e0be122ff791]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2012/3/section/9) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/d)

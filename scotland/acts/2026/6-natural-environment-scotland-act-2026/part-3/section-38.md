@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Liability for taking or killing stray farmed deer[^key-7e48570bf0e547dff2a19d9d717c2083]
+## 38. Liability for taking or killing stray farmed deer[^c-7e48570bf0e547dff2a19d9d717c2083]
 
 *Extent: S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e48570bf0e547dff2a19d9d717c2083]: Commencement: S. 38 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-7e48570bf0e547dff2a19d9d717c2083]: Commencement: S. 38 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

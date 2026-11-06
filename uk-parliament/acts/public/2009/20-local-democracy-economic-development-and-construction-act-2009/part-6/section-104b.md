@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104B. Associate members of a combined authority[^key-2f967f86fff17c403a8ce8c14c0519b6]
+## 104B. Associate members of a combined authority[^c-2f967f86fff17c403a8ce8c14c0519b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f967f86fff17c403a8ce8c14c0519b6]: Textual amendment.
+[^c-2f967f86fff17c403a8ce8c14c0519b6]: Textual amendment.

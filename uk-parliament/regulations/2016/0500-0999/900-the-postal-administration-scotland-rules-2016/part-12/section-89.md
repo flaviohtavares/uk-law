@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Validity of proceedings[^key-a858b285f6c659eee46ca48f17d03f1b]
+## 89. Validity of proceedings[^c-a858b285f6c659eee46ca48f17d03f1b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where in accordance with the 1986 Act or these Rules a meeting of creditors or o
 
 ## Annotations
 
-[^key-a858b285f6c659eee46ca48f17d03f1b]: Commencement: Rule 89 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-a858b285f6c659eee46ca48f17d03f1b]: Commencement: Rule 89 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

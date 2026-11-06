@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Payments to members etc.[^key-bea34f1830b8cce0bfe3f6e1e1cbbb5a]
+## 122. Payments to members etc.[^c-bea34f1830b8cce0bfe3f6e1e1cbbb5a]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) are in accordance with the constitution of the registered provider making the payment (“the payer”), and
 - (b) are made to a registered provider which is a subsidiary or associate of the payer.
 
-(5A)[^key-31ac610ece63148835ec8cb0559cda02] Class 4 is payments which—
+(5A)[^c-31ac610ece63148835ec8cb0559cda02] Class 4 is payments which—
 
 - (a) are in accordance with the constitution of the registered provider,
 - (b) are paid for the benefit of tenants of the provider, and
@@ -57,12 +57,12 @@ summary: ''
 - “ **long-leasehold interest** ”, in relation to a dwelling, means the lessee's interest under a lease of the dwelling granted, for a premium, for a term certain exceeding 21 years;
 - “ **acquiring** ”, in relation to a long-leasehold interest in a dwelling, includes acquiring by grant and acquiring by assignment.
 
-(6) If a registered provider[^key-2f2a5185f8e764b2a30f6d754584b6ae] contravenes this section—
+(6) If a registered provider[^c-2f2a5185f8e764b2a30f6d754584b6ae] contravenes this section—
 
 - (a) it may recover the wrongful gift or payment as a debt from the recipient, and
 - (b) the regulator may require it to take action to recover the gift or payment.
 
-(7)[^key-6030876d23d3d26e720bf950a4fa6c1b] The Secretary of State may by order amend this section for the purpose of—
+(7)[^c-6030876d23d3d26e720bf950a4fa6c1b] The Secretary of State may by order amend this section for the purpose of—
 
 - (a) adding to the permitted classes, or
 - (b) modifying or removing a permitted class added by order under this subsection.
@@ -75,10 +75,10 @@ summary: ''
 
 ## Annotations
 
-[^key-bea34f1830b8cce0bfe3f6e1e1cbbb5a]: Commencement: S. 122 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-bea34f1830b8cce0bfe3f6e1e1cbbb5a]: Commencement: S. 122 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-31ac610ece63148835ec8cb0559cda02]: Textual amendment: S. 122(5A)(5B) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 177](https://www.legislation.gov.uk/ukpga/2011/20/section/177), [240(1)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/j)
+[^c-31ac610ece63148835ec8cb0559cda02]: Textual amendment: S. 122(5A)(5B) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 177](https://www.legislation.gov.uk/ukpga/2011/20/section/177), [240(1)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/j)
 
-[^key-2f2a5185f8e764b2a30f6d754584b6ae]: Textual amendment: Words in [s. 122(6)](https://www.legislation.gov.uk/ukpga/2008/17/section/122/6) substituted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/11); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(ii)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/ii)
+[^c-2f2a5185f8e764b2a30f6d754584b6ae]: Textual amendment: Words in [s. 122(6)](https://www.legislation.gov.uk/ukpga/2008/17/section/122/6) substituted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/11); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(ii)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/ii)
 
-[^key-6030876d23d3d26e720bf950a4fa6c1b]: Textual amendment: S. 122(7)(8) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/17/paragraph/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-6030876d23d3d26e720bf950a4fa6c1b]: Textual amendment: S. 122(7)(8) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/17/paragraph/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

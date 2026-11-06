@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Delegation of issuing permits or authorisations[^key-38d4cee84f13a3833056b18c71d88188]
+## 93. Delegation of issuing permits or authorisations[^c-38d4cee84f13a3833056b18c71d88188]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38d4cee84f13a3833056b18c71d88188]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/5/section/93) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-38d4cee84f13a3833056b18c71d88188]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/5/section/93) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

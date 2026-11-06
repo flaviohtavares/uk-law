@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Medical examination of groups[^key-878984ff2beb065b53f0df98faab62c1]
+## 36. Medical examination of groups[^c-878984ff2beb065b53f0df98faab62c1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the board may apply under section 33(2) for an order in relation to all of the p
 
 ## Annotations
 
-[^key-878984ff2beb065b53f0df98faab62c1]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2008/5/section/36) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-878984ff2beb065b53f0df98faab62c1]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2008/5/section/36) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

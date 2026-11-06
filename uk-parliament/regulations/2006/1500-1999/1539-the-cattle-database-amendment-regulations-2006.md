@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Cattle Database (Amendment) Regulations 2006 (revoked)[^key-79df6da3d6a4db1119eb2de5ad57343b]
+The Cattle Database (Amendment) Regulations 2006 (revoked)[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 Made
 
@@ -48,48 +48,48 @@ Coming into force
 
 15th June 2006
 
-[^key-c9f34ee931866c0e3f72b9d561d097d5][^key-4fb3451329bd05ebfd0318f6c7e62e24][^key-79df6da3d6a4db1119eb2de5ad57343b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9f34ee931866c0e3f72b9d561d097d5][^c-4fb3451329bd05ebfd0318f6c7e62e24][^c-79df6da3d6a4db1119eb2de5ad57343b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-79df6da3d6a4db1119eb2de5ad57343b]
+## 1. Title and commencement[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Cattle Database Regulations 1998[^key-79df6da3d6a4db1119eb2de5ad57343b]
+## 2. Amendments to the Cattle Database Regulations 1998[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 2[^key-79df6da3d6a4db1119eb2de5ad57343b]
+## 3. Amendment to regulation 2[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 6[^key-79df6da3d6a4db1119eb2de5ad57343b]
+## 4. Amendment to regulation 6[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 8[^key-79df6da3d6a4db1119eb2de5ad57343b]
+## 5. Amendment to regulation 8[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to regulation 12[^key-79df6da3d6a4db1119eb2de5ad57343b]
+## 6. Amendment to regulation 12[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. The National Assembly for Wales (Transfer of Functions) Order 2000[^key-79df6da3d6a4db1119eb2de5ad57343b]
+## 7. The National Assembly for Wales (Transfer of Functions) Order 2000[^c-79df6da3d6a4db1119eb2de5ad57343b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79df6da3d6a4db1119eb2de5ad57343b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79df6da3d6a4db1119eb2de5ad57343b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-79df6da3d6a4db1119eb2de5ad57343b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79df6da3d6a4db1119eb2de5ad57343b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79df6da3d6a4db1119eb2de5ad57343b]: Textual amendment: Regulations revoked (E.) (6.4.2007) by [The Cattle Identification Regulations 2007 (S.I. 2007/529)](https://www.legislation.gov.uk/uksi/2007/529), [regs. 1](https://www.legislation.gov.uk/uksi/2007/529/regulation/1), [17(j)](https://www.legislation.gov.uk/uksi/2007/529/regulation/17/j)
+[^c-79df6da3d6a4db1119eb2de5ad57343b]: Textual amendment: Regulations revoked (E.) (6.4.2007) by [The Cattle Identification Regulations 2007 (S.I. 2007/529)](https://www.legislation.gov.uk/uksi/2007/529), [regs. 1](https://www.legislation.gov.uk/uksi/2007/529/regulation/1), [17(j)](https://www.legislation.gov.uk/uksi/2007/529/regulation/17/j)
 
-[^key-c9f34ee931866c0e3f72b9d561d097d5]: Textual amendment: Regulations revoked (W.) (6.4.2007) by [The Cattle Identification (Wales) Regulations 2007 (S.I. 2007/842)](https://www.legislation.gov.uk/uksi/2007/842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/842/regulation/1), [17(j)](https://www.legislation.gov.uk/uksi/2007/842/regulation/17/j)
+[^c-c9f34ee931866c0e3f72b9d561d097d5]: Textual amendment: Regulations revoked (W.) (6.4.2007) by [The Cattle Identification (Wales) Regulations 2007 (S.I. 2007/842)](https://www.legislation.gov.uk/uksi/2007/842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/842/regulation/1), [17(j)](https://www.legislation.gov.uk/uksi/2007/842/regulation/17/j)
 
-[^key-4fb3451329bd05ebfd0318f6c7e62e24]: Textual amendment: Regulations revoked (S.) (6.4.2007) by [The Cattle Identification (Scotland) Regulations 2007 (S.S.I. 2007/174)](https://www.legislation.gov.uk/ssi/2007/174), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/174/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2007/174/schedule/5)
+[^c-4fb3451329bd05ebfd0318f6c7e62e24]: Textual amendment: Regulations revoked (S.) (6.4.2007) by [The Cattle Identification (Scotland) Regulations 2007 (S.S.I. 2007/174)](https://www.legislation.gov.uk/ssi/2007/174), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/174/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2007/174/schedule/5)

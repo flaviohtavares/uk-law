@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Amendment Regulations 2019 (revoked)[^key-2f5d93e294c17bd8d671284cc95d662d]
+The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Amendment Regulations 2019 (revoked)[^c-2f5d93e294c17bd8d671284cc95d662d]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 31st March 2019
 
-[^key-2f5d93e294c17bd8d671284cc95d662d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f5d93e294c17bd8d671284cc95d662d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2f5d93e294c17bd8d671284cc95d662d]
+## 1. Citation and commencement[^c-2f5d93e294c17bd8d671284cc95d662d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019[^key-2f5d93e294c17bd8d671284cc95d662d]
+## 2. Amendment of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019[^c-2f5d93e294c17bd8d671284cc95d662d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f5d93e294c17bd8d671284cc95d662d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f5d93e294c17bd8d671284cc95d662d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f5d93e294c17bd8d671284cc95d662d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f5d93e294c17bd8d671284cc95d662d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f5d93e294c17bd8d671284cc95d662d]: Textual amendment: Regulations revoked (1.4.2022) by The Non-[Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022 (S.S.I. 2022/49)](https://www.legislation.gov.uk/ssi/2022/49), [regs. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1), [13(1)(b)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/1/b) (with [reg. 13(2)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/2))
+[^c-2f5d93e294c17bd8d671284cc95d662d]: Textual amendment: Regulations revoked (1.4.2022) by The Non-[Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022 (S.S.I. 2022/49)](https://www.legislation.gov.uk/ssi/2022/49), [regs. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1), [13(1)(b)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/1/b) (with [reg. 13(2)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/2))

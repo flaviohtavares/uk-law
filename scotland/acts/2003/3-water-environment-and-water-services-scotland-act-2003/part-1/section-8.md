@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Monitoring[^key-e2a87d44be9bcb2099442864ee4218a4]
+## 8. Monitoring[^c-e2a87d44be9bcb2099442864ee4218a4]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2a87d44be9bcb2099442864ee4218a4]: Commencement: S. 8 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)
+[^c-e2a87d44be9bcb2099442864ee4218a4]: Commencement: S. 8 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)

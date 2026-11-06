@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. No alteration of North-South co-operation[^key-0622ed593f52acef9e44a7e5fe5c98a4]
+## 24. No alteration of North-South co-operation[^c-0622ed593f52acef9e44a7e5fe5c98a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In section 10 of the European Union (Withdrawal) Act 2018 (continuation of North
 
 ## Annotations
 
-[^key-0622ed593f52acef9e44a7e5fe5c98a4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2020/1/section/24) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/c)
+[^c-0622ed593f52acef9e44a7e5fe5c98a4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2020/1/section/24) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/c)

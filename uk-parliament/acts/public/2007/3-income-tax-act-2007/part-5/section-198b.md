@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198B. Excluded activities: subsidised generation of heat and subsidised production of gas or fuel[^key-d4508b75a14e1f4c0bdd0b9acada1c6e]
+## 198B. Excluded activities: subsidised generation of heat and subsidised production of gas or fuel[^c-d4508b75a14e1f4c0bdd0b9acada1c6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4508b75a14e1f4c0bdd0b9acada1c6e]: Textual amendment: [S. 198B](https://www.legislation.gov.uk/ukpga/2007/3/section/198B) omitted (with effect in accordance with s. 28(5) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 28(3)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/28/3/c)
+[^c-d4508b75a14e1f4c0bdd0b9acada1c6e]: Textual amendment: [S. 198B](https://www.legislation.gov.uk/ukpga/2007/3/section/198B) omitted (with effect in accordance with s. 28(5) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 28(3)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/28/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Surcharge for failure to comply with an information notice[^key-8208282cbca0ad129abd8d0ccaefd741]
+## 86. Surcharge for failure to comply with an information notice[^c-8208282cbca0ad129abd8d0ccaefd741]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8208282cbca0ad129abd8d0ccaefd741]: Commencement: Reg. 86 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-8208282cbca0ad129abd8d0ccaefd741]: Commencement: Reg. 86 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

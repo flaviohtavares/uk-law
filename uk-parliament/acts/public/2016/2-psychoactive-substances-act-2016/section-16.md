@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Further provision about giving notices under sections 13 to 15[^key-59b04ad91842179e9759c72074d290ce]
+## 16. Further provision about giving notices under sections 13 to 15[^c-59b04ad91842179e9759c72074d290ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59b04ad91842179e9759c72074d290ce]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/2/section/16) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-59b04ad91842179e9759c72074d290ce]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/2/section/16) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

@@ -31,7 +31,7 @@ summary: ''
 
 SUPREME COURT OF ENGLAND AND WALES
 
-The European Parliamentary Election Petition (Amendment) Rules 1999 (revoked)[^key-1c1b50615768100af15b1bb6881d9127]
+The European Parliamentary Election Petition (Amendment) Rules 1999 (revoked)[^c-1c1b50615768100af15b1bb6881d9127]
 
 Made
 
@@ -45,38 +45,38 @@ Coming into force
 
 10th June 1999
 
-[^key-1c1b50615768100af15b1bb6881d9127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c1b50615768100af15b1bb6881d9127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1c1b50615768100af15b1bb6881d9127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1c1b50615768100af15b1bb6881d9127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c1b50615768100af15b1bb6881d9127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1c1b50615768100af15b1bb6881d9127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c1b50615768100af15b1bb6881d9127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1c1b50615768100af15b1bb6881d9127]: Textual amendment: Rules revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-1c1b50615768100af15b1bb6881d9127]: Textual amendment: Rules revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

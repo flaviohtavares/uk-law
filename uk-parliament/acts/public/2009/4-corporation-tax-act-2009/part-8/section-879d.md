@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 879D. Pre-FA 2019 relevant asset: the first case[^key-c843c63cb5d1d091ee6d4ea36461be9f]
+## 879D. Pre-FA 2019 relevant asset: the first case[^c-c843c63cb5d1d091ee6d4ea36461be9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of this Chapter a relevant asset of a company is a pre-FA 2019 
 
 ## Annotations
 
-[^key-c843c63cb5d1d091ee6d4ea36461be9f]: Textual amendment: Pt. 8 Ch. 15A inserted (with effect in accordance with Sch. 9 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2019/1/schedule/9/paragraph/6)
+[^c-c843c63cb5d1d091ee6d4ea36461be9f]: Textual amendment: Pt. 8 Ch. 15A inserted (with effect in accordance with Sch. 9 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2019/1/schedule/9/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Determination of an adequate amount to remove the injury[^key-3541e01c3bfc409c2cf672b426777593]
+## 36. Determination of an adequate amount to remove the injury[^c-3541e01c3bfc409c2cf672b426777593]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3541e01c3bfc409c2cf672b426777593]: Commencement: Reg. 36 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-3541e01c3bfc409c2cf672b426777593]: Commencement: Reg. 36 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

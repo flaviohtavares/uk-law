@@ -34,7 +34,7 @@ This S.S.I. has been made in consequence of a defect in [S.S.I. 2012/353](https:
 
 Rating And Valuation
 
-The Non-Domestic Rates (Levying) (Scotland) Amendment Regulations 2013 (revoked)[^key-f144ebe602065d83b19f815c18247630]
+The Non-Domestic Rates (Levying) (Scotland) Amendment Regulations 2013 (revoked)[^c-f144ebe602065d83b19f815c18247630]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 31st March 2013
 
-[^key-f144ebe602065d83b19f815c18247630]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f144ebe602065d83b19f815c18247630]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f144ebe602065d83b19f815c18247630]
+## 1. Citation and commencement[^c-f144ebe602065d83b19f815c18247630]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Non-Domestic Rates (Levying) (Scotland) (No. 3) Regulations 2012[^key-f144ebe602065d83b19f815c18247630]
+## 2. Amendment of the Non-Domestic Rates (Levying) (Scotland) (No. 3) Regulations 2012[^c-f144ebe602065d83b19f815c18247630]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f144ebe602065d83b19f815c18247630]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f144ebe602065d83b19f815c18247630]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f144ebe602065d83b19f815c18247630]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f144ebe602065d83b19f815c18247630]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f144ebe602065d83b19f815c18247630]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/34) revoked (1.4.2014) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2014 (S.S.I. 2014/30)](https://www.legislation.gov.uk/ssi/2014/30), [regs. 1](https://www.legislation.gov.uk/ssi/2014/30/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2014/30/regulation/6) (with [regs. 5](https://www.legislation.gov.uk/ssi/2014/30/regulation/5), [6(3)](https://www.legislation.gov.uk/ssi/2014/30/regulation/6))
+[^c-f144ebe602065d83b19f815c18247630]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/34) revoked (1.4.2014) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2014 (S.S.I. 2014/30)](https://www.legislation.gov.uk/ssi/2014/30), [regs. 1](https://www.legislation.gov.uk/ssi/2014/30/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2014/30/regulation/6) (with [regs. 5](https://www.legislation.gov.uk/ssi/2014/30/regulation/5), [6(3)](https://www.legislation.gov.uk/ssi/2014/30/regulation/6))

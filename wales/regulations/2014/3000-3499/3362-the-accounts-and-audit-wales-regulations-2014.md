@@ -49,7 +49,7 @@ In accordance with section 39(2) of the Public Audit (Wales) Act 2004, the Welsh
 
 ## PART 1 — Introductory
 
-### 1. Title, commencement and application[^key-0f3d75361b21668594fd360c6e1e7c02]
+### 1. Title, commencement and application[^c-0f3d75361b21668594fd360c6e1e7c02]
 
 (1) The title of these Regulations is the Accounts and Audit (Wales) Regulations 2014 and they come into force on 31 March 2015.
 
@@ -61,11 +61,11 @@ In accordance with section 39(2) of the Public Audit (Wales) Act 2004, the Welsh
 - (b) regulations 3 and 4 apply to internal drainage boards and port health authorities;
 - (c) regulations 7(3) to 13 apply to larger relevant bodies;
 - (d) regulations 14 to 18 apply to smaller relevant bodies;
-- (e) regulations 19 , 20 and 20A[^key-403c1c902186a943caac733813dad511] apply to the particular relevant bodies mentioned in Part 6;
+- (e) regulations 19 , 20 and 20A[^c-403c1c902186a943caac733813dad511] apply to the particular relevant bodies mentioned in Part 6;
 - (f) regulations 5 to 28 apply, with all necessary modifications, to the accounts of an officer whose accounts are required to be audited by section 38 of the 2004 Act (audit of accounts of officers); and
 - (g) regulation 29 applies to county councils and county borough councils.
 
-### 2. Interpretation[^key-a8671319b8d137103cbf9e3fa26cb63a]
+### 2. Interpretation[^c-a8671319b8d137103cbf9e3fa26cb63a]
 
 (1) In these Regulations—
 
@@ -73,15 +73,15 @@ In accordance with section 39(2) of the Public Audit (Wales) Act 2004, the Welsh
 - “the 1989 Act” (“*Deddf 1989*”) means the Local Government and Housing Act 1989[^f00005];
 - “the 2003 Act” (“*Deddf 2003*”) means the Local Government Act 2003;
 - “the 2004 Act” (“*Deddf 2004*”) means the Public Audit (Wales) Act 2004;
-- “the 2021 Act” (“[^key-44864a8dec51ccc38bde87c39a8ce8af]*Deddf 2021*”) means the Local Government and Elections (Wales) Act 2021;
+- “the 2021 Act” (“[^c-44864a8dec51ccc38bde87c39a8ce8af]*Deddf 2021*”) means the Local Government and Elections (Wales) Act 2021;
 - “auditor” (“*archwilydd*”) means—
   - (a) a person whose appointment continues to have effect by virtue of the Public Audit (Wales) Act 2013, Schedule 3, paragraph 2(2)[^f00006];
   - (b) otherwise, the Auditor General for Wales;
 - “conservation board” (“*bwrdd cadwraeth*”) means a board established under section 86 of the Countryside and Rights of Way Act 2000[^f00007];
-- “corporate joint committee” (“[^key-1ea75efe919584b9e28daa9af2f48c4d]*cyd-bwyllgor corfforedig*”) means a corporate joint committee established by regulations made under Part 5 of the 2021 Act;
+- “corporate joint committee” (“[^c-1ea75efe919584b9e28daa9af2f48c4d]*cyd-bwyllgor corfforedig*”) means a corporate joint committee established by regulations made under Part 5 of the 2021 Act;
 - “fire and rescue authority” (“*awdurdod tân ac achub*”) means an authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004[^f00008] or a scheme to which section 4 of that Act applies;
 - “internal drainage board” (“*bwrdd draenio mewnol*”) means an internal drainage board for an internal drainage district wholly in Wales;
-- “joint committee” (“*cyd-bwyllgor*”) means a joint committee of two or more local authorities but does not include a corporate joint committee[^key-fb0dd8fd2f2863f1be615c2b7cb8feda];
+- “joint committee” (“*cyd-bwyllgor*”) means a joint committee of two or more local authorities but does not include a corporate joint committee[^c-fb0dd8fd2f2863f1be615c2b7cb8feda];
 - “larger relevant body” (“*corff perthnasol mwy*”) means—
   - (a) a county or county borough council;
   - (b) a fire and rescue authority;
@@ -89,13 +89,13 @@ In accordance with section 39(2) of the Public Audit (Wales) Act 2004, the Welsh
   - (d) a police and crime commissioner;
   - (e) a chief constable; or
   - (f) a body which is listed in the definition of “smaller relevant body” in this regulation but which does not meet the qualifying condition;
-- [^key-1cb8af857a7ee03dfdc9c3cca56ecaa3]...
+- [^c-1cb8af857a7ee03dfdc9c3cca56ecaa3]...
 - “port health authority” (“*awdurdod iechyd porthladd*”) means a port health authority for a port health district wholly in Wales;
 - “qualifying condition” (“*amod cymhwyso*”) means that the relevant body’s gross income or gross expenditure (whichever is higher) is not more than £2,500,000;
 - “relevant body” (“*corff perthnasol*”) means (as appropriate) a larger relevant body or a smaller relevant body;
 - “smaller relevant body” (“*corff perthnasol llai*”) means a body—
   - (a) which is—
-    - (zi) a corporate joint committee;[^key-52537d256cd84e63fd617d7d18ee3cca]
+    - (zi) a corporate joint committee;[^c-52537d256cd84e63fd617d7d18ee3cca]
     - (i) a community council;
     - (ii) a committee of a county or county borough council (including a joint committee);
     - (iii) a port health authority;
@@ -122,11 +122,11 @@ or, if no person is so responsible, the person who is responsible for keeping th
 
 ## PART 2 — Specification of Bodies and Proper Practices
 
-### 3. Specification of internal drainage boards and port health authorities[^key-42b598ddf6af2ea43ef3107001955a1e]
+### 3. Specification of internal drainage boards and port health authorities[^c-42b598ddf6af2ea43ef3107001955a1e]
 
 Internal drainage boards and port health authorities are specified for the purposes of section 23(1) of the 2003 Act (local authority) but only in relation to section 21 (accounting practices) of that Act.
 
-### 4. Proper practices[^key-49125209b78b29bd8f76e5321515bd18]
+### 4. Proper practices[^c-49125209b78b29bd8f76e5321515bd18]
 
 For the purposes of section 21(2) of the 2003 Act (accounting practices)—
 
@@ -135,7 +135,7 @@ For the purposes of section 21(2) of the 2003 Act (accounting practices)—
 
 ## PART 3 — Financial Management and Internal Control
 
-### 5. Responsibility for internal control and financial management[^key-40d05a67bf47db8cd93a0be09e085b62]
+### 5. Responsibility for internal control and financial management[^c-40d05a67bf47db8cd93a0be09e085b62]
 
 (1) The relevant body must ensure that there is a sound system of internal control which facilitates the effective exercise of that body’s functions and which includes—
 
@@ -156,7 +156,7 @@ For the purposes of section 21(2) of the 2003 Act (accounting practices)—
 - (a) any statement of accounts which it is obliged to prepare in accordance with regulation 8; or
 - (b) any accounting statement which it is obliged to prepared in accordance with regulation 14.
 
-### 6. Accounting records and control systems[^key-15b52f211580dcba98b8bbee3f9c9d05]
+### 6. Accounting records and control systems[^c-15b52f211580dcba98b8bbee3f9c9d05]
 
 (1) The responsible financial officer of a relevant body must determine on behalf of the body, after consideration, when relevant, of proper practices, its—
 
@@ -180,7 +180,7 @@ and that officer must ensure that the accounting control systems determined by t
 - (c) procedures to ensure that uncollectable amounts, including bad debts, are not written off except with the approval of the responsible financial officer, or such member of that person’s staff as is nominated for this purpose, and that the approval is shown in the accounting records; and
 - (d) measures to ensure that risk is appropriately managed.
 
-### 7. Internal audit[^key-76adc6002e78432732e28a813b9e84f4]
+### 7. Internal audit[^c-76adc6002e78432732e28a813b9e84f4]
 
 (1) A relevant body must maintain an adequate and effective system of internal audit of its accounting records and of its system of internal control.
 
@@ -195,17 +195,17 @@ and that officer must ensure that the accounting control systems determined by t
 
 ## PART 4 — Published Accounts and Audit – Larger Relevant Bodies
 
-### 8. Statement of accounts[^key-7402697f4cb52e17d4a61d049f0163c9]
+### 8. Statement of accounts[^c-7402697f4cb52e17d4a61d049f0163c9]
 
 (1) A larger relevant body must prepare for each year a statement of accounts in accordance with these Regulations and proper practices and the statement must include such of the following accounting statements as are relevant to the functions of the body—
 
 - (a) housing revenue account;
 - (b) firefighters’ pension fund;
-- (c) any other statements relating to each and every other fund in relation to which the body is required by any statutory provision to keep a separate account , except accounts for pension funds administered in accordance with the Local Government Pension Scheme Regulations 2013[^key-76eb46301cadcbc7aa8a32eaa84e1876].
+- (c) any other statements relating to each and every other fund in relation to which the body is required by any statutory provision to keep a separate account , except accounts for pension funds administered in accordance with the Local Government Pension Scheme Regulations 2013[^c-76eb46301cadcbc7aa8a32eaa84e1876].
 
 (2) Where a county council or a county borough council is required by section 74 (duty to keep housing revenue account) of the 1989 Act[^f00013] to maintain a Housing Revenue Account the statement of accounts required by paragraph (1) must include a note prepared in accordance with proper practices in relation to any Major Repairs Allowance grant paid to the county council or county borough council under section 31 of the 2003 Act detailing income and expenditure and any balance on any account used to record the grant.
 
-### 9. Declaration of remuneration[^key-1be01081d672be632677e26c766734d7]
+### 9. Declaration of remuneration[^c-1be01081d672be632677e26c766734d7]
 
 (1) The statement of accounts required by regulation 8(1) must be accompanied by the notes referred to in paragraphs (2) to (4).
 
@@ -236,8 +236,8 @@ in respect of their employment by the relevant body or in their capacity as a po
 (8) In this regulation—
 
 - “chief executive” (“*prif weithredwr*”) means—
-  - (a) in the case of a relevant body which is a [^key-567980a4e50f42107512a007a3ff864b]... fire and rescue authority or National Park authority, the head of the body’s paid service designated under section 4(1) of the 1989 Act;
-  - (aa) in the case of a relevant body which is a county council or county borough council, the chief executive appointed under section 54 of the 2021 Act;[^key-5d1efc1ac6c1dca51c9a8c68a5f02612]
+  - (a) in the case of a relevant body which is a [^c-567980a4e50f42107512a007a3ff864b]... fire and rescue authority or National Park authority, the head of the body’s paid service designated under section 4(1) of the 1989 Act;
+  - (aa) in the case of a relevant body which is a county council or county borough council, the chief executive appointed under section 54 of the 2021 Act;[^c-5d1efc1ac6c1dca51c9a8c68a5f02612]
   - (b) in the case of a relevant body which is a chief constable, the chief constable;
   - (c) in the case of a relevant body which is a police and crime commissioner, the chief executive appointed by the commissioner under Schedule 1 to the Police Reform and Social Responsibility Act 2011[^f00015];
   - (d) in the case of any other relevant body, the highest ranking employee;
@@ -257,7 +257,7 @@ in respect of their employment by the relevant body or in their capacity as a po
 - “remuneration” (“*tâl*”) means all amounts paid to or receivable by a person, and includes sums due by way of expenses allowance (so far as those sums are chargeable to United Kingdom income tax), and the estimated money value of any other benefits received by an employee otherwise than in cash;
 - “senior employee” (“*cyflogai hŷn*”) means an employee whose salary is £150,000 or more per year, or an employee whose salary is £60,000 or more per year who falls within at least one of the following categories—
   - (a) a person employed by a relevant body to which section 2 (politically restricted posts) of the 1989 Act[^f00026] applies who—
-    - (i) in the case of a relevant body other than a county council or county borough council, has been designated as head of paid service under section 4 of that Act, and in the case of a county council or county borough council, has been appointed as chief executive under section 54 of the 2021 Act;[^key-75fc66c8c96032787ef838eb97c61325]
+    - (i) in the case of a relevant body other than a county council or county borough council, has been designated as head of paid service under section 4 of that Act, and in the case of a county council or county borough council, has been appointed as chief executive under section 54 of the 2021 Act;[^c-75fc66c8c96032787ef838eb97c61325]
     - (ii) is a statutory chief officer within the meaning of section 2(6) of that Act; or
     - (iii) is a non-statutory chief officer within the meaning of section 2(7) of that Act;
   - (b) the person who is the head of staff for any relevant body to which section 4 of the 1989 Act does not apply; or
@@ -266,11 +266,11 @@ in respect of their employment by the relevant body or in their capacity as a po
 
 (9) The sums of £60,000 and £150,000 in this regulation are to be reduced pro rata for an employee or officer who is employed or engaged on a temporary or part-time basis.
 
-### 10. Signing, approval and publication of statement of accounts[^key-0d63004a652cd8a4c477757175f3e8e4]
+### 10. Signing, approval and publication of statement of accounts[^c-0d63004a652cd8a4c477757175f3e8e4]
 
-(1) The responsible financial officer of a larger relevant body must, no later than 31 May[^key-211354dd9d83b9a737512e018e0512cf] immediately following the end of a year, sign and date the statement of accounts, and certify that it presents a true and fair view of the financial position of the body at the end of the year to which it relates and of that body’s income and expenditure for that year.
+(1) The responsible financial officer of a larger relevant body must, no later than 31 May[^c-211354dd9d83b9a737512e018e0512cf] immediately following the end of a year, sign and date the statement of accounts, and certify that it presents a true and fair view of the financial position of the body at the end of the year to which it relates and of that body’s income and expenditure for that year.
 
-(2) A larger relevant body must, no later than 31 July[^key-3668f8f7b16862ff9a5c8a77f474f278] in the year immediately following the end of the year to which the statement relates—
+(2) A larger relevant body must, no later than 31 July[^c-3668f8f7b16862ff9a5c8a77f474f278] in the year immediately following the end of the year to which the statement relates—
 
 - (a) consider either by way of a committee or by the members meeting as a whole the statement of accounts;
 - (b) following that consideration, approve the statement of accounts by a resolution of that committee or meeting;
@@ -292,9 +292,9 @@ in respect of their employment by the relevant body or in their capacity as a po
 
 (8) A larger relevant body must keep copies of the documents mentioned in paragraph (2)(d) for purchase by any person on payment of a reasonable sum.
 
-(9)[^key-8a9b1ef14035beb010bc2b616117b122] In its application to a corporate joint committee, paragraph (2) is to be read as if the references to a “committee” were references to a sub-committee.
+(9)[^c-8a9b1ef14035beb010bc2b616117b122] In its application to a corporate joint committee, paragraph (2) is to be read as if the references to a “committee” were references to a sub-committee.
 
-### 10A. Modifications for the year ending on 31 March 2018[^key-1fa89284c6a0af61823d0dbab6c4f033]
+### 10A. Modifications for the year ending on 31 March 2018[^c-1fa89284c6a0af61823d0dbab6c4f033]
 
 In relation to the year ending on 31 March 2018, regulation 10 applies with the following modifications—
 
@@ -310,13 +310,13 @@ In relation to the year ending on 31 March 2018, regulation 10 applies with the 
 - (a) paragraph (1) is to be read as if for “31 May” there were substituted “15 June”;
 - (b) paragraph (2) is to be read as if for “31 July” there were substituted “15 September”.
 
-### 11. Procedure for public inspection of accounts[^key-5fb6dc72d9093e70335923d8ad69e574]
+### 11. Procedure for public inspection of accounts[^c-5fb6dc72d9093e70335923d8ad69e574]
 
 The procedure for public inspection of accounts for a larger relevant body, referred to in regulation 22, is that it must make the documents referred to in that regulation available for public inspection for 20 working days before the date appointed by the auditor under regulation 21.
 
-### 12. Notice of public rights[^key-722ba2ffa0586cb42a1cb3ccfe394b60]
+### 12. Notice of public rights[^c-722ba2ffa0586cb42a1cb3ccfe394b60]
 
-(1) The procedure for a larger relevant body to give notice of public rights, referred to in regulation 24, is that, not later than 14 days before the commencement of the period during which the accounts and other documents are made available in pursuance of regulation 11, the body must display on its website and in at least one conspicuous place in its area a notice containing[^key-ab1eef72ec0d6e2854702a2810d3b553] the matters set out in paragraph (2).
+(1) The procedure for a larger relevant body to give notice of public rights, referred to in regulation 24, is that, not later than 14 days before the commencement of the period during which the accounts and other documents are made available in pursuance of regulation 11, the body must display on its website and in at least one conspicuous place in its area a notice containing[^c-ab1eef72ec0d6e2854702a2810d3b553] the matters set out in paragraph (2).
 
 (2) The matters referred to in paragraph (1) are—
 
@@ -328,9 +328,9 @@ The procedure for public inspection of accounts for a larger relevant body, refe
 
 (3) A larger relevant body must on giving notice under paragraph (1) notify the auditor immediately in writing that a notice has been given.
 
-### 13. Notice of conclusion of audit[^key-162d28e9086192b7029927ee0e63318a]
+### 13. Notice of conclusion of audit[^c-162d28e9086192b7029927ee0e63318a]
 
-As soon as reasonably possible after conclusion of an audit, a larger relevant body must display on its website and in at least one conspicuous place in its area a notice[^key-80ad0760d6ce397af7eea9df3324c860] stating that the audit has been concluded and that the statement of accounts is available for inspection by local government electors and including—
+As soon as reasonably possible after conclusion of an audit, a larger relevant body must display on its website and in at least one conspicuous place in its area a notice[^c-80ad0760d6ce397af7eea9df3324c860] stating that the audit has been concluded and that the statement of accounts is available for inspection by local government electors and including—
 
 - (a) a statement of the rights conferred on local government electors by section 29 (inspection of statements of accounts and Auditor General for Wales’ reports)[^f00032] of the 2004 Act;
 - (b) the address at which and the hours during which those rights may be exercised; and
@@ -338,11 +338,11 @@ As soon as reasonably possible after conclusion of an audit, a larger relevant b
 
 ## PART 5 — Published Accounts and Audit – Smaller Relevant Bodies
 
-### 14. Accounting statements[^key-838010f03face855e1c3439f6802cae7]
+### 14. Accounting statements[^c-838010f03face855e1c3439f6802cae7]
 
 A smaller relevant body must prepare for each year accounting statements in accordance with these Regulations and proper practices.
 
-### 15. Signing, approval and publication of accounting statements[^key-140078e1be5164ec9743b7df17a9b164]
+### 15. Signing, approval and publication of accounting statements[^c-140078e1be5164ec9743b7df17a9b164]
 
 (1) Before the approval referred to in in paragraph (2) is given, the responsible financial officer of a relevant body must—
 
@@ -368,11 +368,11 @@ A smaller relevant body must prepare for each year accounting statements in acco
 - (a) publish the accounting statements by means other than solely by reference in the minutes of meetings, together with—
   - (i) any certificate, opinion, or report issued, given or made by the auditor under sections 23(2) and 33 of the 2004 Act, or
   - (ii) if the publication takes place prior to the conclusion of the audit and no such opinion has been given, together with a declaration and explanation of the fact that at the date of publication the auditor has given no opinion; or
-- (b) display a notice containing the documents mentioned in sub-paragraph (a) in at least one conspicuous place[^key-85cefe584a1adf8f656f7c649cf9a2e9] in the area of the body for a period of at least 14 days.
+- (b) display a notice containing the documents mentioned in sub-paragraph (a) in at least one conspicuous place[^c-85cefe584a1adf8f656f7c649cf9a2e9] in the area of the body for a period of at least 14 days.
 
 (6) A smaller relevant body must keep copies of the documents mentioned in paragraph (5)(a) for purchase by any person on payment of a reasonable sum.
 
-### 15A. Modifications for committees of county or county borough councils[^key-fb1d8b81f46a9c5eb8c67662e1319bd2]
+### 15A. Modifications for committees of county or county borough councils[^c-fb1d8b81f46a9c5eb8c67662e1319bd2]
 
 (1) The modifications set out in this regulation have effect in relation to the accounts of a committee of a county or county borough council (including a joint committee).
 
@@ -386,13 +386,13 @@ A smaller relevant body must prepare for each year accounting statements in acco
 - (a) paragraph (2) is to be read as if for “30 June” there were substituted “31 May”;
 - (b) paragraph (5) is to be read as if for “30 September” there were substituted “31 July”.
 
-### 16. Procedure for public inspection of accounts[^key-7c4a70845fa94e95979d238285c5b379]
+### 16. Procedure for public inspection of accounts[^c-7c4a70845fa94e95979d238285c5b379]
 
 The procedure for public inspection of accounts for a smaller relevant body, referred to in regulation 22, is that the body must make the documents mentioned in that regulation available for public inspection on reasonable notice, during a period of 20 working days before the date appointed by the auditor under regulation 21.
 
-### 17. Notice of public rights[^key-20017d035ed1d520414138a8f96963a8]
+### 17. Notice of public rights[^c-20017d035ed1d520414138a8f96963a8]
 
-(1) The procedure for a smaller relevant body to give notice of public rights, referred to in regulation 24, is that it must display, in at least one conspicuous place[^key-75191fe67529806c43c0b71d9d4be013] in the area of the body for a period of at least 14 days immediately prior to the period during which the accounts and other documents are made available under regulation 16, a notice containing the matters set out in paragraph (2).
+(1) The procedure for a smaller relevant body to give notice of public rights, referred to in regulation 24, is that it must display, in at least one conspicuous place[^c-75191fe67529806c43c0b71d9d4be013] in the area of the body for a period of at least 14 days immediately prior to the period during which the accounts and other documents are made available under regulation 16, a notice containing the matters set out in paragraph (2).
 
 (2) The matters referred to in paragraph (1) are—
 
@@ -404,9 +404,9 @@ The procedure for public inspection of accounts for a smaller relevant body, ref
 
 (3) A smaller relevant body must on displaying a notice under paragraph (1) notify the auditor immediately in writing that a notice has been displayed.
 
-### 18. Notice of conclusion of audit[^key-5b6bee81e1672dd80f22a5227fd88824]
+### 18. Notice of conclusion of audit[^c-5b6bee81e1672dd80f22a5227fd88824]
 
-As soon as reasonably possible after conclusion of an audit, a smaller relevant body must display a notice in at least one conspicuous place[^key-16928cdb97314c9a49f69dd07fedb5f4] in the area of the body for a period of at least 14 days stating that the audit has been completed and that the last approved relevant accounting statements required by these Regulations and auditor’s report are available for inspection by local government electors on reasonable notice and including—
+As soon as reasonably possible after conclusion of an audit, a smaller relevant body must display a notice in at least one conspicuous place[^c-16928cdb97314c9a49f69dd07fedb5f4] in the area of the body for a period of at least 14 days stating that the audit has been completed and that the last approved relevant accounting statements required by these Regulations and auditor’s report are available for inspection by local government electors on reasonable notice and including—
 
 - (a) a statement of the rights conferred on local government electors by section 29 (inspection of statements of accounts and auditors’ reports) of the 2004 Act;
 - (b) details of the manner in which notice should be given of an intention to exercise the right of inspection; and
@@ -414,11 +414,11 @@ As soon as reasonably possible after conclusion of an audit, a smaller relevant 
 
 ## PART 6 — Particular Relevant Bodies
 
-### 19. Internal drainage boards[^key-03957b5a9d41968ca07bae4ae02949b3]
+### 19. Internal drainage boards[^c-03957b5a9d41968ca07bae4ae02949b3]
 
 An internal drainage board must charge to a revenue account an amount equal to the payments and contributions statutorily payable for that year under an arrangement accounted for as a defined benefit pension plan or as other long-term employee benefits (as defined in accordance with proper practices in relation to accounts).
 
-### 20. Joint committees etc.[^key-230d63c0047b89bab69df4425ba610bc]
+### 20. Joint committees etc.[^c-230d63c0047b89bab69df4425ba610bc]
 
 (1) Any joint committee, fire and rescue authority or National Park authority to which these Regulations apply must deposit with each constituent authority—
 
@@ -427,7 +427,7 @@ An internal drainage board must charge to a revenue account an amount equal to t
 
 (2) In this regulation “constituent authority” (“*awdurdod cyfansoddol*”) means any county council, county borough or community council for the time being entitled to appoint members of the committee or authority in question and in relation to a National Park authority it includes the Welsh Ministers.
 
-### 20A. Corporate joint committees[^key-24a262fdf6a2bcf7ad9d53c59c425489]
+### 20A. Corporate joint committees[^c-24a262fdf6a2bcf7ad9d53c59c425489]
 
 (1) A corporate joint committee must deposit with each constituent authority—
 
@@ -443,55 +443,55 @@ An internal drainage board must charge to a revenue account an amount equal to t
 
 ## PART 7 — Audit Procedure
 
-### 21. Appointment of date for the exercise of rights of electors[^key-fea3d059936ae299123cebbfa3504f8e]
+### 21. Appointment of date for the exercise of rights of electors[^c-fea3d059936ae299123cebbfa3504f8e]
 
 The auditor must, for the purpose of the exercise of rights under sections 30(2) (inspection of documents and questions at audit) and 31(1) (right to make objections at audit) of the 2004 Act, appoint a date on or after which those rights may be exercised, and must notify that date to the relevant body concerned.
 
-### 22. Public inspection of accounts[^key-55a9a44ab15d20e54be9604b04ed7dc4]
+### 22. Public inspection of accounts[^c-55a9a44ab15d20e54be9604b04ed7dc4]
 
 A relevant body notified under regulation 21 must make the accounts and other documents mentioned in section 30 (inspection of documents and questions at audit) of the 2004 Act available in accordance with the procedure specified for larger relevant bodies in regulation 11, or for smaller relevant bodies in regulation 16, as appropriate.
 
-### 23. Alteration of accounts[^key-9af38bb5dc218416dc0c812a48b9eab6]
+### 23. Alteration of accounts[^c-9af38bb5dc218416dc0c812a48b9eab6]
 
 Except with the consent of the auditor, accounts and other documents must not be altered after the date on which they are first made available for inspection in pursuance of either regulation 11 or regulation 16.
 
-### 24. Notice of public rights[^key-b4fc7af37f3d52f97902b60a11d3107c]
+### 24. Notice of public rights[^c-b4fc7af37f3d52f97902b60a11d3107c]
 
 A relevant body must give notice of public rights in accordance with the procedure specified for larger relevant bodies in regulation 12, or for smaller relevant bodies in regulation 17.
 
-### 25. Written notice of objection[^key-9fcf64ee99335261e5b0cd166695fd8c]
+### 25. Written notice of objection[^c-9fcf64ee99335261e5b0cd166695fd8c]
 
 Any written notice of an objection given in pursuance of section 31(2) of the 2004 Act must state the facts on which the local government elector relies, and contain, so far as possible—
 
 - (a) particulars of any item of account which is alleged to be contrary to law, and
 - (b) particulars of any matter in respect of which it is proposed that the auditor could make a report under section 22 (immediate and other reports in the public interest)[^f00033] of that Act.
 
-### 26. Notice of conclusion of audit[^key-64f31468ad0f9ef9438070f8fa8b3920]
+### 26. Notice of conclusion of audit[^c-64f31468ad0f9ef9438070f8fa8b3920]
 
 A relevant body must give notice of conclusion of audit in accordance with the procedure specified for larger relevant bodies in regulation 13, or for smaller relevant bodies in regulation 18, as appropriate.
 
-### 27. Publication of annual audit letter[^key-afe7360b2b14bad53d3355e6a00946c5]
+### 27. Publication of annual audit letter[^c-afe7360b2b14bad53d3355e6a00946c5]
 
 As soon as reasonably possible after it is received, a local government body must—
 
 - (a) publish the annual audit letter received from the auditor; and
 - (b) make copies available for purchase by any person on payment of such sum as the relevant body may reasonably require.
 
-### 28. Extraordinary audit[^key-d95d8addb0fa11c86ac3637861c477c5]
+### 28. Extraordinary audit[^c-d95d8addb0fa11c86ac3637861c477c5]
 
-(1)[^key-d72b0ca925f03423fca549b9ee69e441] Where, under section 37 of the 2004 Act, the Auditor General for Wales holds an extraordinary audit of accounts of a relevant body, the body must display a notice on its website and in at least one conspicuous place in the area of the body, concerning the right of any local government elector for the area to which the accounts relate to make objections to any of those accounts.
+(1)[^c-d72b0ca925f03423fca549b9ee69e441] Where, under section 37 of the 2004 Act, the Auditor General for Wales holds an extraordinary audit of accounts of a relevant body, the body must display a notice on its website and in at least one conspicuous place in the area of the body, concerning the right of any local government elector for the area to which the accounts relate to make objections to any of those accounts.
 
 (2) Where the auditor referred to in paragraph (1) is the Auditor General for Wales, the reference to the Auditor General directing an auditor to hold an extraordinary audit is to be read as the Auditor General for Wales holding an extraordinary audit.
 
 ## PART 8 — Amendments and Revocations
 
-### 29. Amendment to the Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^key-2545eba29465547db28d0d80aad0d50b]
+### 29. Amendment to the Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^c-2545eba29465547db28d0d80aad0d50b]
 
 (1) Schedule 1 (functions not to be the responsibility of an authority’s executive) to the Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^f00035] is amended as follows.
 
 (2) For the entry in column 2 of paragraph 1 of Part I (Miscellaneous functions) there is substituted “Regulations made under section 39 of the Public Audit (Wales) Act [2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23)”.
 
-### 30. Revocation and saving of instruments[^key-af6d47ebefcefeb4f025ac1a62bf25d1]
+### 30. Revocation and saving of instruments[^c-af6d47ebefcefeb4f025ac1a62bf25d1]
 
 (1) Subject to paragraph (2) the following instruments are revoked—
 
@@ -542,31 +542,31 @@ Part 8 concerns amendments and revocations. Regulation 29 amends the Local Autho
 
 [^f00003]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23); section 39 was amended by the [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), Schedule 4, paragraphs 20 and 44. Section 58 was amended by that Act, Schedule 4, paragraphs 20 and 58.
 
-[^key-0f3d75361b21668594fd360c6e1e7c02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-0f3d75361b21668594fd360c6e1e7c02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-403c1c902186a943caac733813dad511]: Textual amendment: Words in [reg. 1(3)(e)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/3/e) substituted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/2)
+[^c-403c1c902186a943caac733813dad511]: Textual amendment: Words in [reg. 1(3)(e)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/3/e) substituted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/2)
 
-[^key-a8671319b8d137103cbf9e3fa26cb63a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-a8671319b8d137103cbf9e3fa26cb63a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
 [^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00005]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-44864a8dec51ccc38bde87c39a8ce8af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/a)
+[^c-44864a8dec51ccc38bde87c39a8ce8af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/a)
 
 [^f00006]: Footnote: [2013 anaw 3](https://www.legislation.gov.uk/anaw/2013/3). Paragraph 2(2) of Schedule 3 (read with [S.I. 2013/1466 (W. 138) (C. 56))](https://www.legislation.gov.uk/wsi/2013/1466) provides that where, immediately before 1 April 2014, an appointment of an auditor has effect under section 13 of the Public Audit (Wales) Act 2004, that appointment continues to have effect until the end of the period for which the appointment was made (subject to any earlier termination).
 
 [^f00007]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-1ea75efe919584b9e28daa9af2f48c4d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/b)
+[^c-1ea75efe919584b9e28daa9af2f48c4d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/b)
 
 [^f00008]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-fb0dd8fd2f2863f1be615c2b7cb8feda]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/c)
+[^c-fb0dd8fd2f2863f1be615c2b7cb8feda]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/c)
 
-[^key-1cb8af857a7ee03dfdc9c3cca56ecaa3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2018/91/regulation/3)
+[^c-1cb8af857a7ee03dfdc9c3cca56ecaa3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2018/91/regulation/3)
 
-[^key-52537d256cd84e63fd617d7d18ee3cca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/d)
+[^c-52537d256cd84e63fd617d7d18ee3cca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/2/1) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/3/d)
 
 [^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
@@ -576,29 +576,29 @@ Part 8 concerns amendments and revocations. Regulation 29 amends the Local Autho
 
 [^f00012]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 114 was amended by the [Local Government and Housing Act 1989 (c .42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 66; the Police and Magistrates’ Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29), Schedule 4, paragraph 34; the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50), Schedule 6, paragraph 28; the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), Schedule 6, paragraphs 45 and 48; [S.I. 2002/808](https://www.legislation.gov.uk/uksi/2002/808); the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16, paragraphs 180 and 188; and the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), Schedule 25, Part 32.
 
-[^key-42b598ddf6af2ea43ef3107001955a1e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2014/3362/regulation/3) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-42b598ddf6af2ea43ef3107001955a1e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2014/3362/regulation/3) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-49125209b78b29bd8f76e5321515bd18]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2014/3362/regulation/4) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-49125209b78b29bd8f76e5321515bd18]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2014/3362/regulation/4) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-40d05a67bf47db8cd93a0be09e085b62]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/3362/regulation/5) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-40d05a67bf47db8cd93a0be09e085b62]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/3362/regulation/5) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-15b52f211580dcba98b8bbee3f9c9d05]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/3362/regulation/6) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-15b52f211580dcba98b8bbee3f9c9d05]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/3362/regulation/6) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-76adc6002e78432732e28a813b9e84f4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/3362/regulation/7) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-76adc6002e78432732e28a813b9e84f4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/3362/regulation/7) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-7402697f4cb52e17d4a61d049f0163c9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2014/3362/regulation/8) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-7402697f4cb52e17d4a61d049f0163c9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2014/3362/regulation/8) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-76eb46301cadcbc7aa8a32eaa84e1876]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/8/1/c) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2018/91/regulation/4)
+[^c-76eb46301cadcbc7aa8a32eaa84e1876]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/8/1/c) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2018/91/regulation/4)
 
 [^f00013]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42); section 74 was amended by the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), Schedule 18, paragraph 24(2).
 
-[^key-1be01081d672be632677e26c766734d7]: Commencement: Reg. 9 in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-1be01081d672be632677e26c766734d7]: Commencement: Reg. 9 in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527); relevant amending instruments are [S.I. 2006/3449](https://www.legislation.gov.uk/uksi/2006/3449), [2011/3026](https://www.legislation.gov.uk/uksi/2011/3026), and [2012/192](https://www.legislation.gov.uk/uksi/2012/192) and [2712](https://www.legislation.gov.uk/uksi/2012/2712).
 
-[^key-567980a4e50f42107512a007a3ff864b]: Textual amendment: Words in reg. 9(8) omitted (5.5.2022) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/7/2/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-567980a4e50f42107512a007a3ff864b]: Textual amendment: Words in reg. 9(8) omitted (5.5.2022) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/7/2/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-5d1efc1ac6c1dca51c9a8c68a5f02612]: Textual amendment: Words in reg. 9(8) inserted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/7/2/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-5d1efc1ac6c1dca51c9a8c68a5f02612]: Textual amendment: Words in reg. 9(8) inserted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/7/2/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
 [^f00015]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
@@ -624,87 +624,87 @@ Part 8 concerns amendments and revocations. Regulation 29 amends the Local Autho
 
 [^f00026]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42). Section 2 was amended by the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 95; [S.I. 2002/808 (W. 89)](https://www.legislation.gov.uk/wsi/2002/808); the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), Schedule 2, paragraph 3; the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 2; the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), section 203(1); the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), sections 30(1) and (2) and 146(1); [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158); the [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), section 21; and the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 5, paragraph 57.
 
-[^key-75fc66c8c96032787ef838eb97c61325]: Textual amendment: Words in reg. 9(8) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2022/355/regulation/7/3) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-75fc66c8c96032787ef838eb97c61325]: Textual amendment: Words in reg. 9(8) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2022/355/regulation/7/3) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-0d63004a652cd8a4c477757175f3e8e4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-0d63004a652cd8a4c477757175f3e8e4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-211354dd9d83b9a737512e018e0512cf]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/wsi/2018/91/regulation/5/1/a)
+[^c-211354dd9d83b9a737512e018e0512cf]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/wsi/2018/91/regulation/5/1/a)
 
-[^key-3668f8f7b16862ff9a5c8a77f474f278]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10/2) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/wsi/2018/91/regulation/5/1/b)
+[^c-3668f8f7b16862ff9a5c8a77f474f278]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10/2) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/wsi/2018/91/regulation/5/1/b)
 
 [^f00028]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23); section 23(2) was amended by the [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), Schedule 4, paragraphs 20 and 28.
 
 [^f00029]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23); section 33(2) was amended by the [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), Schedule 4, paragraphs 20 and 38.
 
-[^key-8a9b1ef14035beb010bc2b616117b122]: Textual amendment: [Reg. 10(9)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10/9) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/4)
+[^c-8a9b1ef14035beb010bc2b616117b122]: Textual amendment: [Reg. 10(9)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10/9) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/4)
 
-[^key-1fa89284c6a0af61823d0dbab6c4f033]: Textual amendment: [Regs. 10A](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10A), [10B](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10B) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/5/2)
+[^c-1fa89284c6a0af61823d0dbab6c4f033]: Textual amendment: [Regs. 10A](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10A), [10B](https://www.legislation.gov.uk/wsi/2014/3362/regulation/10B) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/5/2)
 
-[^key-5fb6dc72d9093e70335923d8ad69e574]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2014/3362/regulation/11) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-5fb6dc72d9093e70335923d8ad69e574]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2014/3362/regulation/11) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-722ba2ffa0586cb42a1cb3ccfe394b60]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2014/3362/regulation/12) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-722ba2ffa0586cb42a1cb3ccfe394b60]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2014/3362/regulation/12) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-ab1eef72ec0d6e2854702a2810d3b553]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/12/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2018/91/regulation/6)
+[^c-ab1eef72ec0d6e2854702a2810d3b553]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/12/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2018/91/regulation/6)
 
 [^f00030]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23); section 30 was amended by the [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), Schedule 4, paragraphs 20 and 35.
 
 [^f00031]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23); section 31 was amended by the [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), Schedule 4, paragraphs 20 and 36.
 
-[^key-162d28e9086192b7029927ee0e63318a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2014/3362/regulation/13) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-162d28e9086192b7029927ee0e63318a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2014/3362/regulation/13) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-80ad0760d6ce397af7eea9df3324c860]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2014/3362/regulation/13) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2018/91/regulation/7)
+[^c-80ad0760d6ce397af7eea9df3324c860]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2014/3362/regulation/13) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2018/91/regulation/7)
 
 [^f00032]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23); section 29 was amended by the [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), Schedule 4, paragraphs 20 and 34.
 
-[^key-838010f03face855e1c3439f6802cae7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2014/3362/regulation/14) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-838010f03face855e1c3439f6802cae7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2014/3362/regulation/14) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-140078e1be5164ec9743b7df17a9b164]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2014/3362/regulation/15) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-140078e1be5164ec9743b7df17a9b164]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2014/3362/regulation/15) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-85cefe584a1adf8f656f7c649cf9a2e9]: Textual amendment: Words in [reg. 15(5)(b)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/15/5/b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [8(1)](https://www.legislation.gov.uk/wsi/2018/91/regulation/8/1)
+[^c-85cefe584a1adf8f656f7c649cf9a2e9]: Textual amendment: Words in [reg. 15(5)(b)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/15/5/b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [8(1)](https://www.legislation.gov.uk/wsi/2018/91/regulation/8/1)
 
-[^key-fb1d8b81f46a9c5eb8c67662e1319bd2]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/wsi/2014/3362/regulation/15A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/8/2)
+[^c-fb1d8b81f46a9c5eb8c67662e1319bd2]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/wsi/2014/3362/regulation/15A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/8/2)
 
-[^key-7c4a70845fa94e95979d238285c5b379]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2014/3362/regulation/16) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-7c4a70845fa94e95979d238285c5b379]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2014/3362/regulation/16) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-20017d035ed1d520414138a8f96963a8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2014/3362/regulation/17) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-20017d035ed1d520414138a8f96963a8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2014/3362/regulation/17) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-75191fe67529806c43c0b71d9d4be013]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/17/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/91/regulation/9)
+[^c-75191fe67529806c43c0b71d9d4be013]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/17/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/91/regulation/9)
 
-[^key-5b6bee81e1672dd80f22a5227fd88824]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2014/3362/regulation/18) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-5b6bee81e1672dd80f22a5227fd88824]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2014/3362/regulation/18) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-16928cdb97314c9a49f69dd07fedb5f4]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/wsi/2014/3362/regulation/18) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2018/91/regulation/10)
+[^c-16928cdb97314c9a49f69dd07fedb5f4]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/wsi/2014/3362/regulation/18) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2018/91/regulation/10)
 
-[^key-03957b5a9d41968ca07bae4ae02949b3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2014/3362/regulation/19) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-03957b5a9d41968ca07bae4ae02949b3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2014/3362/regulation/19) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-230d63c0047b89bab69df4425ba610bc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2014/3362/regulation/20) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-230d63c0047b89bab69df4425ba610bc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2014/3362/regulation/20) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-24a262fdf6a2bcf7ad9d53c59c425489]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/wsi/2014/3362/regulation/20A) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/5)
+[^c-24a262fdf6a2bcf7ad9d53c59c425489]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/wsi/2014/3362/regulation/20A) inserted (8.4.2021) by [The Accounts and Audit (Wales) (Amendment) Regulations 2021 (S.I. 2021/344)](https://www.legislation.gov.uk/wsi/2021/344), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/344/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/344/regulation/2/5)
 
-[^key-fea3d059936ae299123cebbfa3504f8e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2014/3362/regulation/21) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-fea3d059936ae299123cebbfa3504f8e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2014/3362/regulation/21) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-55a9a44ab15d20e54be9604b04ed7dc4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2014/3362/regulation/22) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-55a9a44ab15d20e54be9604b04ed7dc4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2014/3362/regulation/22) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-9af38bb5dc218416dc0c812a48b9eab6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2014/3362/regulation/23) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-9af38bb5dc218416dc0c812a48b9eab6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2014/3362/regulation/23) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-b4fc7af37f3d52f97902b60a11d3107c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2014/3362/regulation/24) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-b4fc7af37f3d52f97902b60a11d3107c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2014/3362/regulation/24) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-9fcf64ee99335261e5b0cd166695fd8c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2014/3362/regulation/25) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-9fcf64ee99335261e5b0cd166695fd8c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2014/3362/regulation/25) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
 [^f00033]: Footnote: [2004 c .23](https://www.legislation.gov.uk/ukpga/2004/23); section 22(2) was amended by the [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), Schedule 4, paragraphs 20 and 27.
 
-[^key-64f31468ad0f9ef9438070f8fa8b3920]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2014/3362/regulation/26) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-64f31468ad0f9ef9438070f8fa8b3920]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2014/3362/regulation/26) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-afe7360b2b14bad53d3355e6a00946c5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2014/3362/regulation/27) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-afe7360b2b14bad53d3355e6a00946c5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2014/3362/regulation/27) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-d95d8addb0fa11c86ac3637861c477c5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2014/3362/regulation/28) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-d95d8addb0fa11c86ac3637861c477c5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2014/3362/regulation/28) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
-[^key-d72b0ca925f03423fca549b9ee69e441]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/28/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2018/91/regulation/11)
+[^c-d72b0ca925f03423fca549b9ee69e441]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/28/1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Accounts and Audit (Wales) (Amendment) Regulations 2018 (S.I. 2018/91)](https://www.legislation.gov.uk/wsi/2018/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/91/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2018/91/regulation/11)
 
-[^key-2545eba29465547db28d0d80aad0d50b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2014/3362/regulation/29) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-2545eba29465547db28d0d80aad0d50b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2014/3362/regulation/29) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
 [^f00035]: Footnote: [S.I. 2007/399 (W. 45)](https://www.legislation.gov.uk/wsi/2007/399), amended by [S.I. 2008/1430](https://www.legislation.gov.uk/uksi/2008/1430), [2009/2983 (W. 260)](https://www.legislation.gov.uk/wsi/2009/2983), [2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)/ and [2013/2902 (W. 281)](https://www.legislation.gov.uk/wsi/2013/2902) and [3005 (W. 297)](https://www.legislation.gov.uk/wsi/2013/3005).
 
-[^key-af6d47ebefcefeb4f025ac1a62bf25d1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2014/3362/regulation/30) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
+[^c-af6d47ebefcefeb4f025ac1a62bf25d1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2014/3362/regulation/30) in force at 31.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/3362/regulation/1/1)
 
 [^f00036]: Footnote: [S.I. 2005/368 (W. 34)](https://www.legislation.gov.uk/wsi/2005/368).
 

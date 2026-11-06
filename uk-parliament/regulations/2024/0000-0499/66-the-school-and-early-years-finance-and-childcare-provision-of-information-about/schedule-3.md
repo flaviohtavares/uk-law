@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — MINIMUM FUNDING GUARANTEE[^key-6e293e5cbca83103ea9104dfccb01cc9]
+## SCHEDULE 3 — MINIMUM FUNDING GUARANTEE[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulation 27
 
-**1.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)
+[^c-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)

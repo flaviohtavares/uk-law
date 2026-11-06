@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.38-CVL. Expenses of statement of affairs[^key-64a246a14e4d117eccccb806cd3c29dc]
+## 4.38-CVL. Expenses of statement of affairs[^c-64a246a14e4d117eccccb806cd3c29dc]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ Any such payment is an expense of the liquidation.
 
 ## Annotations
 
-[^key-64a246a14e4d117eccccb806cd3c29dc]: Commencement: [Rule 4.38CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.38CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-64a246a14e4d117eccccb806cd3c29dc]: Commencement: [Rule 4.38CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.38CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

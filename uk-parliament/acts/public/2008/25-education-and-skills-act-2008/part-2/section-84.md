@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Exercise of travel functions by local authorities in England: duty to have regard to religion or belief of persons of sixth form age[^key-783f0ed492fbc11589d0afa948602f45][^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
+## 84. Exercise of travel functions by local authorities in England: duty to have regard to religion or belief of persons of sixth form age[^c-783f0ed492fbc11589d0afa948602f45][^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In section 509AD of the Education Act 1996 (LEAs in England: duty to have regard
 
 ## Annotations
 
-[^key-783f0ed492fbc11589d0afa948602f45]: Commencement: S. 84 in force at 7.3.2009 by [S.I. 2009/387](https://www.legislation.gov.uk/uksi/2009/387), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/387/article/3/1) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2009/387/article/3/3))
+[^c-783f0ed492fbc11589d0afa948602f45]: Commencement: S. 84 in force at 7.3.2009 by [S.I. 2009/387](https://www.legislation.gov.uk/uksi/2009/387), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/387/article/3/1) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2009/387/article/3/3))
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

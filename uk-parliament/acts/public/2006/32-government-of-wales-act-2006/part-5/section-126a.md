@@ -46,14 +46,14 @@ summary: ''
 
 (8) An order under subsection (2) is to be made by statutory instrument.
 
-(9) A statutory instrument containing an order under that subsection is subject to annulment in pursuance of a resolution of the Senedd[^key-a4e05e988ff88484f35e1c307f7be439].
+(9) A statutory instrument containing an order under that subsection is subject to annulment in pursuance of a resolution of the Senedd[^c-a4e05e988ff88484f35e1c307f7be439].
 
-(10) But subsection (9) does not apply if a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, the Senedd[^key-113e9be1b1122dd0bc2cf5791be61dba].
+(10) But subsection (9) does not apply if a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, the Senedd[^c-113e9be1b1122dd0bc2cf5791be61dba].
 
 ## Annotations
 
 [^c20937571]: Textual amendment: S. 126A inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/44/2), [52(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/52/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
 
-[^key-a4e05e988ff88484f35e1c307f7be439]: Textual amendment: Word in s. 126A(9) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(6)(a)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/6/a)
+[^c-a4e05e988ff88484f35e1c307f7be439]: Textual amendment: Word in s. 126A(9) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(6)(a)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/6/a)
 
-[^key-113e9be1b1122dd0bc2cf5791be61dba]: Textual amendment: Word in s. 126A(10) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(6)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/6/b)
+[^c-113e9be1b1122dd0bc2cf5791be61dba]: Textual amendment: Word in s. 126A(10) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(6)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/6/b)

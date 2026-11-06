@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Repeal of Naval Medical Compassionate Fund Act 1915[^key-f72b71e757346851e9cb72e729a5a465]
+## 27. Repeal of Naval Medical Compassionate Fund Act 1915[^c-f72b71e757346851e9cb72e729a5a465]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Naval Medical Compassionate Fund Act 1915 ceases to have effect.
 
 ## Annotations
 
-[^key-f72b71e757346851e9cb72e729a5a465]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/18/section/27) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-f72b71e757346851e9cb72e729a5a465]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/18/section/27) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

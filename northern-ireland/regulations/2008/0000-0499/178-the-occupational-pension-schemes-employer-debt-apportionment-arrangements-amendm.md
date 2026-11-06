@@ -43,11 +43,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 68(2)(e), 75(5), 75A(1) to (8) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-386a12eca9d3f8ab231f59f8f962c026]
+## 1. Citation and commencement[^c-386a12eca9d3f8ab231f59f8f962c026]
 
 These Regulations may be cited as the Occupational Pension Schemes (Employer Debt: Apportionment Arrangements) (Amendment) Regulations (Northern Ireland) 2008 and shall come into operation on 18th April 2008.
 
-## 2. Amendment of the Occupational Pension Schemes (Employer Debt) Regulations[^key-2204f66b86f00b82418ded89f6859b6d]
+## 2. Amendment of the Occupational Pension Schemes (Employer Debt) Regulations[^c-2204f66b86f00b82418ded89f6859b6d]
 
 (1) The Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005[^f00003] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -69,7 +69,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Employer Deb
 
 .
 
-(4)[^key-8c48276c951fec47c3c4682b8d6b064c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8c48276c951fec47c3c4682b8d6b064c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph 1(l)(ii) of Schedule 1A[^f00007] (withdrawal arrangements and approved withdrawal arrangements)—
 
@@ -108,9 +108,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-386a12eca9d3f8ab231f59f8f962c026]: Commencement: Reg. 1 in operation at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/178/regulation/1)
+[^c-386a12eca9d3f8ab231f59f8f962c026]: Commencement: Reg. 1 in operation at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/178/regulation/1)
 
-[^key-2204f66b86f00b82418ded89f6859b6d]: Commencement: Reg. 2 in operation at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/178/regulation/1)
+[^c-2204f66b86f00b82418ded89f6859b6d]: Commencement: Reg. 2 in operation at 18.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/178/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168); relevant amending Regulations are [S.R. 2008 No. 132](https://www.legislation.gov.uk/nisr/2008/132)
 
@@ -118,6 +118,6 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00005]: Footnote: Regulation 7A was substituted by regulation 8 of [S.R. 2008 No. 132](https://www.legislation.gov.uk/nisr/2008/132)
 
-[^key-8c48276c951fec47c3c4682b8d6b064c]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2008/178/regulation/2/4) revoked (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://www.legislation.gov.uk/nisr/2010/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/111/regulation/1/1), [25(b)](https://www.legislation.gov.uk/nisr/2010/111/regulation/25/b)
+[^c-8c48276c951fec47c3c4682b8d6b064c]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2008/178/regulation/2/4) revoked (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://www.legislation.gov.uk/nisr/2010/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/111/regulation/1/1), [25(b)](https://www.legislation.gov.uk/nisr/2010/111/regulation/25/b)
 
 [^f00007]: Footnote: Schedule 1A was substituted by Schedule 2 to [S.R. 2008 No. 132](https://www.legislation.gov.uk/nisr/2008/132)

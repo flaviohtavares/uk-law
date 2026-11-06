@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Acceptance of temporary residents[^key-4e8541929b15d62d49d83d18bdf9fd36]
+## 11. Acceptance of temporary residents[^c-4e8541929b15d62d49d83d18bdf9fd36]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4e8541929b15d62d49d83d18bdf9fd36]: Commencement: Art. 11 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-4e8541929b15d62d49d83d18bdf9fd36]: Commencement: Art. 11 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00022]: Footnote: Paragraph 7 was amended by [S.I. 1998/682](https://www.legislation.gov.uk/uksi/1998/682).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186A.[^key-30c1d4283620127107a5c91ba8cc9e5d]
+## 186A.[^c-30c1d4283620127107a5c91ba8cc9e5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The licensing authority must collaborate with the World Health Organisation in m
 
 ## Annotations
 
-[^key-30c1d4283620127107a5c91ba8cc9e5d]: Textual amendment: [Reg. 186A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/186A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [146](https://www.legislation.gov.uk/uksi/2019/775/regulation/146); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30c1d4283620127107a5c91ba8cc9e5d]: Textual amendment: [Reg. 186A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/186A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [146](https://www.legislation.gov.uk/uksi/2019/775/regulation/146); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

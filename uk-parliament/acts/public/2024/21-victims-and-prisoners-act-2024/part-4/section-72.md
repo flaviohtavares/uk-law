@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Application of certain Convention rights in prisoner release cases[^key-7bee16663883bda117f80b9e30b79170]
+## 72. Application of certain Convention rights in prisoner release cases[^c-7bee16663883bda117f80b9e30b79170]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bee16663883bda117f80b9e30b79170]: Commencement: S. 72 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-7bee16663883bda117f80b9e30b79170]: Commencement: S. 72 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

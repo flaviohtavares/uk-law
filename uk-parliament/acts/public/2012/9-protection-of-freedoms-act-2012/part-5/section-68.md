@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Abolition of controlled activity[^key-3014f0fe8b8dc35fc29ab9d5362657f4]
+## 68. Abolition of controlled activity[^c-3014f0fe8b8dc35fc29ab9d5362657f4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Omit sections 21 to 23 of the Safeguarding Vulnerable Groups Act 2006 (controlle
 
 ## Annotations
 
-[^key-3014f0fe8b8dc35fc29ab9d5362657f4]: Commencement: S. 68 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/e)
+[^c-3014f0fe8b8dc35fc29ab9d5362657f4]: Commencement: S. 68 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/e)

@@ -34,7 +34,7 @@ summary: ''
 - (c) Article 134 applies,
 - (cc) Article 135 applies in relation to time off under Article 85A;
 - (d) Article 135C applies;
-- (dd)[^key-62f83f340c5a9d27ba8847ce458b8d9d] Article 135D applies;
+- (dd)[^c-62f83f340c5a9d27ba8847ce458b8d9d] Article 135D applies;
 - (e) Article 137(1) and (3) applies, or
 - (f) Article 137(1) and (5) applies.
 
@@ -74,4 +74,4 @@ summary: ''
 
 [^c17626071]: Textual amendment: SR 1998/386
 
-[^key-62f83f340c5a9d27ba8847ce458b8d9d]: Textual amendment: [Art. 144(2)(dd)](https://www.legislation.gov.uk/nisi/1996/1919/article/144/2/dd) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(7)](https://www.legislation.gov.uk/nia/2008/13/section/57/7), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-62f83f340c5a9d27ba8847ce458b8d9d]: Textual amendment: [Art. 144(2)(dd)](https://www.legislation.gov.uk/nisi/1996/1919/article/144/2/dd) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(7)](https://www.legislation.gov.uk/nia/2008/13/section/57/7), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

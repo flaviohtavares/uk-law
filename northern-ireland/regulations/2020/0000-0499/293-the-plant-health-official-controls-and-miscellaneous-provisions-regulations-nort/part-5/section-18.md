@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Temporary national measures relating to plant health[^key-88febe07cc0698bd8f034070a67b3123]
+## 18. Temporary national measures relating to plant health[^c-88febe07cc0698bd8f034070a67b3123]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 contains additional temporary measures to prevent the entry of certai
 
 ## Annotations
 
-[^key-88febe07cc0698bd8f034070a67b3123]: Commencement: Reg. 18 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-88febe07cc0698bd8f034070a67b3123]: Commencement: Reg. 18 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

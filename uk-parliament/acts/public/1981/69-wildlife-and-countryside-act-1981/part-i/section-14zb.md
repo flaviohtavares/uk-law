@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14ZB. Codes of practice in connection with species which are non-native or included in Schedule 9[^c19473681][^key-d31eb7ecabee0787fac67325e53b4d76]
+## 14ZB. Codes of practice in connection with species which are non-native or included in Schedule 9[^c19473681][^c-d31eb7ecabee0787fac67325e53b4d76]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c19473681]: Textual amendment: S. 14ZB inserted (E.W.) (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 51](https://www.legislation.gov.uk/ukpga/2006/16/section/51), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-d31eb7ecabee0787fac67325e53b4d76]: Textual amendment: Words in s. 14ZB heading substituted (5.3.2015 for E.) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/25/4), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)
+[^c-d31eb7ecabee0787fac67325e53b4d76]: Textual amendment: Words in s. 14ZB heading substituted (5.3.2015 for E.) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/25/4), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)

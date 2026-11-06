@@ -53,14 +53,14 @@ The title of this Order is the Pigs (Records, Identification and Movement) (Wale
 
 In this Order—
 
-- “AHDB” means Agricultural and Horticultural Development Board;[^key-27d4ee67255412ef92bf57823d25bd95]
-- [^key-380d695d66d31d3a7db729bee8047d38]...
+- “AHDB” means Agricultural and Horticultural Development Board;[^c-27d4ee67255412ef92bf57823d25bd95]
+- [^c-380d695d66d31d3a7db729bee8047d38]...
 - “**CPH number**” (“***rhif CPH***”) means the county parish holding number assigned to a holding by the Welsh Ministers;
 - “**herdmark**” (“***marc cenfaint***”) means an alphanumeric code issued by the Welsh Ministers under article 4(2);
 - “**holding**” (“***daliad***”) means any establishment, construction or, in the case of an open air farm, any place in which pigs are held, kept or handled;
 - “**identification mark**” (“***marc adnabod***”) means an eartag or tattoo which complies with article 6;
 - “**keeper**” (“***ceidwad***”) means any person having care and control of pigs, whether on a temporary or permanent basis, but does not include a person who only transports pigs;
-- [^key-e947498885c1d374ae797a18d2c88eb6]...
+- [^c-e947498885c1d374ae797a18d2c88eb6]...
 
 ### 3. Notifications etc
 
@@ -133,7 +133,7 @@ In this Order—
 
 - (a) to a market;
 - (b) to a slaughterhouse;
-- (c) for the purposes of [^key-c55eb247cea29c320ca668883b46e82a]... export; or
+- (c) for the purposes of [^c-c55eb247cea29c320ca668883b46e82a]... export; or
 - (d) to a show.
 
 ### 9. Additional identification requirements for movements of pigs to shows, porcine semen centres etc.
@@ -148,7 +148,7 @@ unless it is marked in accordance with article 7 or with a herdmark that include
 
 ### 10. Additional requirements for export
 
-No person may move a pig off a holding for the purposes of [^key-32ffad20814e46003f650d0e1a2e0dc1]... export unless it has an ear tag or tattoo in either case bearing the letters “UK” followed by a herdmark and a unique individual identification number.
+No person may move a pig off a holding for the purposes of [^c-32ffad20814e46003f650d0e1a2e0dc1]... export unless it has an ear tag or tattoo in either case bearing the letters “UK” followed by a herdmark and a unique individual identification number.
 
 ### 11. Identification of pigs moved onto a holding from outside the European Union
 
@@ -167,7 +167,7 @@ No person may move a pig off a holding for the purposes of [^key-32ffad20814e460
 
 ### 12. Movement of pigs other than movements to markets or collection centres
 
-(1) Subject to articles 13, 14, 15 and 16(2) keepers, other than markets, must notify AHDB[^key-6aaf0fc4d30ed12259ed71d7645befb3] of all movements of pigs from their holdings before those movements take place.
+(1) Subject to articles 13, 14, 15 and 16(2) keepers, other than markets, must notify AHDB[^c-6aaf0fc4d30ed12259ed71d7645befb3] of all movements of pigs from their holdings before those movements take place.
 
 (2) Keepers may notify AHDB electronically by entering the following information onto the AHDB movement recording system—
 
@@ -176,7 +176,7 @@ No person may move a pig off a holding for the purposes of [^key-32ffad20814e460
 - (c) the number of pigs being moved;
 - (d) the identification mark of each pig moved, and in the case of a movement specified in article 9 or 10 that must include the unique individual identification number required by those articles.
 
-(3) If a keeper does not notify AHDB electronically they must provide the information listed in paragraph (2) by telephone or in writing to AHDB[^key-188ded9412b7e1e1f7aa6c4b2eafdcdc] and may not move those pigs until they have received a document from AHDB recording that information.
+(3) If a keeper does not notify AHDB electronically they must provide the information listed in paragraph (2) by telephone or in writing to AHDB[^c-188ded9412b7e1e1f7aa6c4b2eafdcdc] and may not move those pigs until they have received a document from AHDB recording that information.
 
 (4) When AHDB receives notification of movement information under paragraph (3) it must, within one working day of receipt excluding weekends, send the keeper sufficient copies of a document recording that information to enable the keeper, and any transporter and the keeper at the holding of destination to meet their recording obligations.
 
@@ -341,21 +341,21 @@ A regulatory impact assessment of the effects this Order will have on the costs 
 
 [^c21120531]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). The functions of “the Ministers” so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). The functions of a Minister of the Crown so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by virtue of [S.I. 2004/3044](https://www.legislation.gov.uk/uksi/2004/3044). Section 162 of, and Schedule 11 to, the Government of Wales Act [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32), vest these functions in the Welsh Ministers.
 
-[^key-27d4ee67255412ef92bf57823d25bd95]: Textual amendment: Words in art. 2 inserted (30.6.2018) by [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2018/632/article/1/3), [2(2)(c)](https://www.legislation.gov.uk/wsi/2018/632/article/2/2/c)
+[^c-27d4ee67255412ef92bf57823d25bd95]: Textual amendment: Words in art. 2 inserted (30.6.2018) by [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2018/632/article/1/3), [2(2)(c)](https://www.legislation.gov.uk/wsi/2018/632/article/2/2/c)
 
-[^key-380d695d66d31d3a7db729bee8047d38]: Textual amendment: Words in art. 2 omitted (30.6.2018) by virtue of [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2018/632/article/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2018/632/article/2/2/a)
+[^c-380d695d66d31d3a7db729bee8047d38]: Textual amendment: Words in art. 2 omitted (30.6.2018) by virtue of [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2018/632/article/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2018/632/article/2/2/a)
 
-[^key-e947498885c1d374ae797a18d2c88eb6]: Textual amendment: Words in art. 2 omitted (30.6.2018) by virtue of [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2018/632/article/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2018/632/article/2/2/b)
+[^c-e947498885c1d374ae797a18d2c88eb6]: Textual amendment: Words in art. 2 omitted (30.6.2018) by virtue of [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2018/632/article/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2018/632/article/2/2/b)
 
 [^c21120541]: Marginal citation: [S.I. 2003/1966](https://www.legislation.gov.uk/uksi/2003/1966) (W.211).
 
-[^key-c55eb247cea29c320ca668883b46e82a]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/wsi/2011/2830/article/8/2/c) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c55eb247cea29c320ca668883b46e82a]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/wsi/2011/2830/article/8/2/c) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32ffad20814e46003f650d0e1a2e0dc1]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/wsi/2011/2830/article/10) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/92/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32ffad20814e46003f650d0e1a2e0dc1]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/wsi/2011/2830/article/10) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/92/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6aaf0fc4d30ed12259ed71d7645befb3]: Textual amendment: Word in Order substituted (30.6.2018) by [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [art. 2(3)](https://www.legislation.gov.uk/wsi/2018/632/article/2/3)
+[^c-6aaf0fc4d30ed12259ed71d7645befb3]: Textual amendment: Word in Order substituted (30.6.2018) by [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [art. 2(3)](https://www.legislation.gov.uk/wsi/2018/632/article/2/3)
 
-[^key-188ded9412b7e1e1f7aa6c4b2eafdcdc]: Textual amendment: Word in Order substituted (30.6.2018) by [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [art. 2(4)](https://www.legislation.gov.uk/wsi/2018/632/article/2/4)
+[^c-188ded9412b7e1e1f7aa6c4b2eafdcdc]: Textual amendment: Word in Order substituted (30.6.2018) by [The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (S.I. 2018/632)](https://www.legislation.gov.uk/wsi/2018/632), [art. 2(4)](https://www.legislation.gov.uk/wsi/2018/632/article/2/4)
 
 [^c21120551]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80) to which there are amendments not relevant to this Order.
 

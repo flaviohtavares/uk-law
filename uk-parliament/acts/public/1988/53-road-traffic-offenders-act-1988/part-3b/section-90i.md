@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90I. Further provision about regulations under this Part[^key-3c7eae2abd1034c00bd690149804cb22]
+## 90I. Further provision about regulations under this Part[^c-3c7eae2abd1034c00bd690149804cb22]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c7eae2abd1034c00bd690149804cb22]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1988/53/part/3B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/89/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)
+[^c-3c7eae2abd1034c00bd690149804cb22]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1988/53/part/3B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/89/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)

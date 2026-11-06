@@ -59,9 +59,9 @@ The Welsh Ministers in exercise of the powers conferred by section 30(1) of the 
 
 (1) The maximum amount for the net Welsh emissions account for 2020 is 27% lower than the baseline.
 
-(2) The maximum amount for the net Welsh emissions account for 2030 is 63%[^key-b31251106abe76ac1a7d18d00c142c32] lower than the baseline.
+(2) The maximum amount for the net Welsh emissions account for 2030 is 63%[^c-b31251106abe76ac1a7d18d00c142c32] lower than the baseline.
 
-(3) The maximum amount for the net Welsh emissions account for 2040 is 89%[^key-d902ffa5373e824377b9be555a4425c4] lower than the baseline.
+(3) The maximum amount for the net Welsh emissions account for 2040 is 89%[^c-d902ffa5373e824377b9be555a4425c4] lower than the baseline.
 
 Lesley Griffiths
 
@@ -89,6 +89,6 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23532821]: Marginal citation: The Committee on Climate Change is the relevant advisory body to the Welsh Ministers by virtue of section 44(3), of the 2016 Act.
 
-[^key-b31251106abe76ac1a7d18d00c142c32]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/1304/regulation/2/2) substituted (19.3.2021) by [The Climate Change (Interim Emissions Targets) (Wales) (Amendment) Regulations 2021 (S.I. 2021/338)](https://www.legislation.gov.uk/wsi/2021/338), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/338/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/338/regulation/2/2)
+[^c-b31251106abe76ac1a7d18d00c142c32]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/1304/regulation/2/2) substituted (19.3.2021) by [The Climate Change (Interim Emissions Targets) (Wales) (Amendment) Regulations 2021 (S.I. 2021/338)](https://www.legislation.gov.uk/wsi/2021/338), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/338/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/338/regulation/2/2)
 
-[^key-d902ffa5373e824377b9be555a4425c4]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/wsi/2018/1304/regulation/2/3) substituted (19.3.2021) by [The Climate Change (Interim Emissions Targets) (Wales) (Amendment) Regulations 2021 (S.I. 2021/338)](https://www.legislation.gov.uk/wsi/2021/338), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/338/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/338/regulation/2/3)
+[^c-d902ffa5373e824377b9be555a4425c4]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/wsi/2018/1304/regulation/2/3) substituted (19.3.2021) by [The Climate Change (Interim Emissions Targets) (Wales) (Amendment) Regulations 2021 (S.I. 2021/338)](https://www.legislation.gov.uk/wsi/2021/338), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/338/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/338/regulation/2/3)

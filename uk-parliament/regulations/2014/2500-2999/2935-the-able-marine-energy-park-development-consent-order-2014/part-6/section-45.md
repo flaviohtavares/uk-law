@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Felling or lopping of trees[^key-12be8d2684ae661169f2df13923e9035]
+## 45. Felling or lopping of trees[^c-12be8d2684ae661169f2df13923e9035]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12be8d2684ae661169f2df13923e9035]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2014/2935/article/45) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-12be8d2684ae661169f2df13923e9035]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2014/2935/article/45) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

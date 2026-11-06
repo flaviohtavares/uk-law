@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Compensation orders: interpretation[^key-7cae779b48936f20d464c0bf864ac403]
+## 145. Compensation orders: interpretation[^c-7cae779b48936f20d464c0bf864ac403]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For this purpose, “**offence**” includes an offence taken into consideration
 
 ## Annotations
 
-[^key-7cae779b48936f20d464c0bf864ac403]: Commencement: S. 145 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7cae779b48936f20d464c0bf864ac403]: Commencement: S. 145 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

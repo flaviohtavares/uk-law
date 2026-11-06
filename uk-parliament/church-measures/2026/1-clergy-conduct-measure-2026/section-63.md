@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 63. Costs and fees[^key-4cefddad3d182621a6a6f13e6a2ff304]
+## 63. Costs and fees[^c-4cefddad3d182621a6a6f13e6a2ff304]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cefddad3d182621a6a6f13e6a2ff304]: Commencement: S. 63 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-4cefddad3d182621a6a6f13e6a2ff304]: Commencement: S. 63 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

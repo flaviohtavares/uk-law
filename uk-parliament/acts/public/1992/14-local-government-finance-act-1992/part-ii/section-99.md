@@ -45,7 +45,7 @@ summary: ''
 - [^c12080941]...
 - “**rateable value**” shall be construed in accordance with the provisions of section 6 of the 1956 Act;
 - “**resident**”, in relation to any dwelling, means an individual who has attained the age of 18 years and has his sole or main residence in the dwelling; and cognate expressions shall be construed accordingly;
-- [^key-f6ddda025486a12eaa75dbf2264e7801]...
+- [^c-f6ddda025486a12eaa75dbf2264e7801]...
 - [^c12080941]...
 
 (2) In this Part and sections 107 to 112 below and in any other enactment, whether passed or made before or after the passing of this Act, and unless the context otherwise requires—
@@ -91,7 +91,7 @@ and cognate expressions shall be construed accordingly.
 
 [^c12081031]: Marginal citation: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 
-[^key-f6ddda025486a12eaa75dbf2264e7801]: Textual amendment: Words in [s. 99(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/99/1) repealed (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 8(6)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/8/6) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-f6ddda025486a12eaa75dbf2264e7801]: Textual amendment: Words in [s. 99(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/99/1) repealed (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 8(6)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/8/6) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c12081081]: Textual amendment: [S. 99(2)(a)(ii)(iii)(c)(d)](https://www.legislation.gov.uk/ukpga/1992/14/section/99/2/a/ii/iii/c/d) repealed (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Permanent stopping up of streets and private means of access[^key-23f9bfa3c0f119ed3edc8ad8a7d1708c]
+## 10. Permanent stopping up of streets and private means of access[^c-23f9bfa3c0f119ed3edc8ad8a7d1708c]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-23f9bfa3c0f119ed3edc8ad8a7d1708c]: Commencement: Art. 10 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-23f9bfa3c0f119ed3edc8ad8a7d1708c]: Commencement: Art. 10 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00065]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 53(3)(a) was amended by section 51 of, and paragraph 1(1) and (3) of Schedule 5 to, the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).
 

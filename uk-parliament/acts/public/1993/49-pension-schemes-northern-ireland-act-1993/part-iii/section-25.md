@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. The pension and annuity requirements.[^key-dd3b9e59094589a41867ca5f920c5e8d]
+## 25. The pension and annuity requirements.[^c-dd3b9e59094589a41867ca5f920c5e8d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd3b9e59094589a41867ca5f920c5e8d]: Textual amendment: Ss. 24-25 repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 11](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/11), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-dd3b9e59094589a41867ca5f920c5e8d]: Textual amendment: Ss. 24-25 repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 11](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/11), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)

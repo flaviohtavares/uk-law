@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.15A. Charge for copy documents[^key-66e85240a168c46e25bf2fe27bca1bdd]
+## 12.15A. Charge for copy documents[^c-66e85240a168c46e25bf2fe27bca1bdd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the responsible insolvency practitioner or the official receiver is reques
 
 ## Annotations
 
-[^key-66e85240a168c46e25bf2fe27bca1bdd]: Textual amendment: [Rule 12.15A](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.15A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 150](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/150)
+[^c-66e85240a168c46e25bf2fe27bca1bdd]: Textual amendment: [Rule 12.15A](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.15A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 150](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/150)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 32
 
-### PART 1 — OPTION A - LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-b27e6dab5a561351cef938aec4fba29a]
+### PART 1 — OPTION A - LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-b27e6dab5a561351cef938aec4fba29a]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of land shown on land plan* | *(3)*<br>*Purpose for which temporary possession may be taken* | *(4)*<br>*Part of the authorised development* |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Article 32
 | Borough of North Lincolnshire | 5-54 | Facilitating construction and carrying out the authorised development; carrying out the authorised development; access for carrying out the authorised development. | Work Nos. 10 and 13 |
 | Borough of North Lincolnshire | 4-72, 5-1 | Laying of hardstanding; Facilitating construction and carrying out the authorised development. | Work Nos. 5 and 14 |
 
-### PART 2 — OPTION B - LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-a4d6043e3baf6d0108533f458c845b78]
+### PART 2 — OPTION B - LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-a4d6043e3baf6d0108533f458c845b78]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of land shown on land plan* | *(3)*<br>*Purpose for which temporary possession may be taken* | *(4)*<br>*Part of the authorised development* |
 | --- | --- | --- | --- |
@@ -46,6 +46,6 @@ Article 32
 
 ## Annotations
 
-[^key-b27e6dab5a561351cef938aec4fba29a]: Commencement: Sch. 12 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-b27e6dab5a561351cef938aec4fba29a]: Commencement: Sch. 12 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-a4d6043e3baf6d0108533f458c845b78]: Commencement: Sch. 12 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-a4d6043e3baf6d0108533f458c845b78]: Commencement: Sch. 12 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

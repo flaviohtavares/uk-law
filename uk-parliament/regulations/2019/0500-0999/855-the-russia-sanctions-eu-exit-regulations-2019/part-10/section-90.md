@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Maritime enforcement officers[^key-1d9f0994a521ac8c53425b96d3739645]
+## 90. Maritime enforcement officers[^c-1d9f0994a521ac8c53425b96d3739645]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1d9f0994a521ac8c53425b96d3739645]: Commencement: Reg. 90 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-1d9f0994a521ac8c53425b96d3739645]: Commencement: Reg. 90 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23949391]: Marginal citation: [1987 c.4](https://www.legislation.gov.uk/ukpga/1987/4). Section 1 was amended by; paragraph 41 of Schedule 7 to the [Police Act 1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16); paragraph 16 of Schedule 4 to the [Police (Northern Ireland) Act 1998 (c.32)](https://www.legislation.gov.uk/ukpga/1998/32); section 78(2) of the [Police (Northern Ireland) Act 2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32); section 79(3) of the [Police Reform Act 2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30); and by [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Company representation[^key-728942b87e119749a41c77297254bf60]
+## 143. Company representation[^c-728942b87e119749a41c77297254bf60]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-728942b87e119749a41c77297254bf60]: Commencement: [Rule 143](https://www.legislation.gov.uk/uksi/2013/3208/rule/143) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-728942b87e119749a41c77297254bf60]: Commencement: [Rule 143](https://www.legislation.gov.uk/uksi/2013/3208/rule/143) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

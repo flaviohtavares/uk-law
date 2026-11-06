@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment of the Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No.2) Order 2010[^key-1e03e9a5ef3853df76db2fe0c7ef141f]
+## 35. Amendment of the Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No.2) Order 2010[^c-1e03e9a5ef3853df76db2fe0c7ef141f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No.2)
 
 ## Annotations
 
-[^key-1e03e9a5ef3853df76db2fe0c7ef141f]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-1e03e9a5ef3853df76db2fe0c7ef141f]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2010/832](https://www.legislation.gov.uk/uksi/2010/832).

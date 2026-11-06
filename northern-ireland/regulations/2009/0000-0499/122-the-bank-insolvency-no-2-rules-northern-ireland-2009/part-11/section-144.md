@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 144. Final distribution[^key-fe2034ba52e28b3062eff845c1aa229a]
+## 144. Final distribution[^c-fe2034ba52e28b3062eff845c1aa229a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe2034ba52e28b3062eff845c1aa229a]: Commencement: Rule 144 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-fe2034ba52e28b3062eff845c1aa229a]: Commencement: Rule 144 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

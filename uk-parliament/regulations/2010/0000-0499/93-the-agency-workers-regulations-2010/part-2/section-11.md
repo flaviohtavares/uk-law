@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Calculating the minimum amount of pay[^key-88b0e7f04127454ef274afa0825d4bc9]
+## 11. Calculating the minimum amount of pay[^c-88b0e7f04127454ef274afa0825d4bc9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88b0e7f04127454ef274afa0825d4bc9]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/93/regulation/11) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-88b0e7f04127454ef274afa0825d4bc9]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/93/regulation/11) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

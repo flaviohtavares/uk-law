@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Costs incurred in relation to Tribunal proceedings etc[^key-8caab767f7f3cba667580ee221601ee6][^key-e042107a1dc6361561d57a201860336d]
+## 36. Costs incurred in relation to Tribunal proceedings etc[^c-8caab767f7f3cba667580ee221601ee6][^c-e042107a1dc6361561d57a201860336d]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ After section 324 of the Charities Act 2011 insert—
 
 ## Annotations
 
-[^key-8caab767f7f3cba667580ee221601ee6]: Commencement: S. 36 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-8caab767f7f3cba667580ee221601ee6]: Commencement: S. 36 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-e042107a1dc6361561d57a201860336d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/6/section/36) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/8)
+[^c-e042107a1dc6361561d57a201860336d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/6/section/36) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/8)

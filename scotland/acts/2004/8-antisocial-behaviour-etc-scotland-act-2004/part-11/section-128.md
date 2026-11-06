@@ -39,8 +39,8 @@ summary: ''
   | Section 50(2) of the Civic Government (Scotland) Act 1982 (c. 45) | Being drunk in a public place in charge of a child |
   | Section 54(1) of the Civic Government (Scotland) Act 1982 (c. 45) | Persisting, to annoyance of others, in playing musical instruments, singing, playing radios etc. on being required to stop |
   | Section 52(1) of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) | Vandalism |
-  | Section 38(1) of the Criminal Justice and Licensing (Scotland) Act[^key-6517772b9124a75d65d575dbcdb4b019] [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) | Threatening or abusive behaviour |
-  | [^key-eeadfa75def38cb9a2893b34877a8818]. . . | [^key-eeadfa75def38cb9a2893b34877a8818]. . . |
+  | Section 38(1) of the Criminal Justice and Licensing (Scotland) Act[^c-6517772b9124a75d65d575dbcdb4b019] [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) | Threatening or abusive behaviour |
+  | [^c-eeadfa75def38cb9a2893b34877a8818]. . . | [^c-eeadfa75def38cb9a2893b34877a8818]. . . |
 
   **Part 2**
 
@@ -67,6 +67,6 @@ summary: ''
 
 [^c21023421]: Textual amendment: Entries in s. 128 Table Pt. 1 substituted (5.00 a.m. on 1.9.2009 with effect as mentioned in art. 1(2) of the amending S.S.I.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2009/248/article/2/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/10)
 
-[^key-6517772b9124a75d65d575dbcdb4b019]: Textual amendment: Words in s. 128 Table Pt. 1 inserted (26.3.2026) by [The Antisocial Behaviour (Fixed Penalty Offences) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/163)](https://www.legislation.gov.uk/ssi/2026/163), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/163/article/1/1), [2](https://www.legislation.gov.uk/ssi/2026/163/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2026/163/article/4))
+[^c-6517772b9124a75d65d575dbcdb4b019]: Textual amendment: Words in s. 128 Table Pt. 1 inserted (26.3.2026) by [The Antisocial Behaviour (Fixed Penalty Offences) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/163)](https://www.legislation.gov.uk/ssi/2026/163), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/163/article/1/1), [2](https://www.legislation.gov.uk/ssi/2026/163/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2026/163/article/4))
 
-[^key-eeadfa75def38cb9a2893b34877a8818]: Textual amendment: Pt. 1 entry repealed (20.4.2018) by [Offensive Behaviour at Football and Threatening Communications (Repeal) (Scotland) Act 2018 (asp 7)](https://www.legislation.gov.uk/asp/2018/7), [ss. 4](https://www.legislation.gov.uk/asp/2018/7/section/4), [6](https://www.legislation.gov.uk/asp/2018/7/section/6) (with [s. 3](https://www.legislation.gov.uk/asp/2018/7/section/3))
+[^c-eeadfa75def38cb9a2893b34877a8818]: Textual amendment: Pt. 1 entry repealed (20.4.2018) by [Offensive Behaviour at Football and Threatening Communications (Repeal) (Scotland) Act 2018 (asp 7)](https://www.legislation.gov.uk/asp/2018/7), [ss. 4](https://www.legislation.gov.uk/asp/2018/7/section/4), [6](https://www.legislation.gov.uk/asp/2018/7/section/6) (with [s. 3](https://www.legislation.gov.uk/asp/2018/7/section/3))

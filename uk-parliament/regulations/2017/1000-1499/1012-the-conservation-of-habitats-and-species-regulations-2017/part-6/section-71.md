@@ -59,7 +59,7 @@ summary: ''
 
 (9) In a non-metropolitan county in England the function of reviewing any such planning permission is to be exercised by the district planning authority unless it relates to a county matter (within the meaning of paragraph 1 of Schedule 1 to the TCPA 1990 [^c23344131]), in which case it is exercisable by the county planning authority.
 
-(10)[^key-7559410fa2270af7cc34d5798e321cc2] See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
+(10)[^c-7559410fa2270af7cc34d5798e321cc2] See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
 ## Annotations
 
@@ -73,4 +73,4 @@ summary: ''
 
 [^c23344131]: Marginal citation: Paragraph 1 of Schedule 1 was amended by the Planning and Compensation Act 1991, Schedule 1, paragraph 13.
 
-[^key-7559410fa2270af7cc34d5798e321cc2]: Textual amendment: Reg. 71(10) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-7559410fa2270af7cc34d5798e321cc2]: Textual amendment: Reg. 71(10) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

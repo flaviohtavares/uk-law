@@ -48,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by sections 151(4), 
 
 In accordance with section 173(1)(a) of the Social Security Administration Act 1992 [^c24048661], it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee.
 
-## 1. Citation and commencement[^key-ee26e38e97329088c7e8d6dac6ab9184]
+## 1. Citation and commencement[^c-ee26e38e97329088c7e8d6dac6ab9184]
 
 These Regulations may be cited as the Statutory Sick Pay (General) (Coronavirus Amendment) (No. 2) Regulations 2020 and come into force on 17th March 2020.
 
-## 2. Amendment of the Statutory Sick Pay (General) Regulations 1982[^key-5e0048d6545f78a6f679a63e09af8ff2]
+## 2. Amendment of the Statutory Sick Pay (General) Regulations 1982[^c-5e0048d6545f78a6f679a63e09af8ff2]
 
 (1) Regulation 2 of the Statutory Sick Pay (General) Regulations 1982 [^c24048671] is amended as follows.
 
@@ -65,7 +65,7 @@ These Regulations may be cited as the Statutory Sick Pay (General) (Coronavirus 
 
 > “**coronavirus**” means severe acute respiratory syndrome coronavirus 2.
 
-## 3. Expiry[^key-8bb954376144e8a9d29418f307326a68][^key-15159d96c2fe37daf0a72eb44d954292]
+## 3. Expiry[^c-8bb954376144e8a9d29418f307326a68][^c-15159d96c2fe37daf0a72eb44d954292]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,12 +95,12 @@ No regulatory impact assessment has been produced for these Regulations in view 
 
 [^c24048661]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-ee26e38e97329088c7e8d6dac6ab9184]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/304/regulation/1) in force at 17.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/304/regulation/1)
+[^c-ee26e38e97329088c7e8d6dac6ab9184]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/304/regulation/1) in force at 17.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/304/regulation/1)
 
-[^key-5e0048d6545f78a6f679a63e09af8ff2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/304/regulation/2) in force at 17.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/304/regulation/1)
+[^c-5e0048d6545f78a6f679a63e09af8ff2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/304/regulation/2) in force at 17.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/304/regulation/1)
 
 [^c24048671]: Marginal citation: [S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894). Paragraph (1)(c) was inserted by [S.I. 2020/287](https://www.legislation.gov.uk/uksi/2020/287).
 
-[^key-8bb954376144e8a9d29418f307326a68]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/304/regulation/3) omitted (28.3.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations 2020 (S.I. 2020/374)](https://www.legislation.gov.uk/uksi/2020/374), [regs. 1](https://www.legislation.gov.uk/uksi/2020/374/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/374/regulation/5)
+[^c-8bb954376144e8a9d29418f307326a68]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/304/regulation/3) omitted (28.3.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations 2020 (S.I. 2020/374)](https://www.legislation.gov.uk/uksi/2020/374), [regs. 1](https://www.legislation.gov.uk/uksi/2020/374/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/374/regulation/5)
 
-[^key-15159d96c2fe37daf0a72eb44d954292]: Commencement: Reg. 3 in force at 17.3.2020, see reg. 1
+[^c-15159d96c2fe37daf0a72eb44d954292]: Commencement: Reg. 3 in force at 17.3.2020, see reg. 1

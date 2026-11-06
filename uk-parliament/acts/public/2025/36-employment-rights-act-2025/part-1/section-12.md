@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Statutory sick pay in Northern Ireland: removal of waiting period[^key-7a9cfca13640f26429ee23feeaeaf52e][^key-cbd77de2e2bdb48e258587c28ede858f]
+## 12. Statutory sick pay in Northern Ireland: removal of waiting period[^c-7a9cfca13640f26429ee23feeaeaf52e][^c-cbd77de2e2bdb48e258587c28ede858f]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a9cfca13640f26429ee23feeaeaf52e]: Commencement: S. 12 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7a9cfca13640f26429ee23feeaeaf52e]: Commencement: S. 12 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-cbd77de2e2bdb48e258587c28ede858f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/36/section/12) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))
+[^c-cbd77de2e2bdb48e258587c28ede858f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/36/section/12) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214H. Reimbursement in respect of a recapitalisation payment[^key-2b52916063ddf283fbd61fee68c9f419]
+## 214H. Reimbursement in respect of a recapitalisation payment[^c-2b52916063ddf283fbd61fee68c9f419]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b52916063ddf283fbd61fee68c9f419]: Textual amendment: S. 214H inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 4](https://www.legislation.gov.uk/ukpga/2025/15/section/4), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/d)
+[^c-2b52916063ddf283fbd61fee68c9f419]: Textual amendment: S. 214H inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 4](https://www.legislation.gov.uk/ukpga/2025/15/section/4), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/d)

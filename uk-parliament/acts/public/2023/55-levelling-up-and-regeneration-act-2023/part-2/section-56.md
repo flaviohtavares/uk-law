@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Consequential amendments[^key-4d1dacae5d27795591d0565adffe6038]
+## 56. Consequential amendments[^c-4d1dacae5d27795591d0565adffe6038]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 (combined county authorities: consequential amendments) has effect.
 
 ## Annotations
 
-[^key-4d1dacae5d27795591d0565adffe6038]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/55/section/56) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-4d1dacae5d27795591d0565adffe6038]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/55/section/56) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Powers of British Transport Police Force[^key-d25b2e6737c328e26741f154c991be6d]
+## 22. Powers of British Transport Police Force[^c-d25b2e6737c328e26741f154c991be6d]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d25b2e6737c328e26741f154c991be6d]: Commencement: S. 22 in force at 12.4.2015, see s. 57(3)
+[^c-d25b2e6737c328e26741f154c991be6d]: Commencement: S. 22 in force at 12.4.2015, see s. 57(3)

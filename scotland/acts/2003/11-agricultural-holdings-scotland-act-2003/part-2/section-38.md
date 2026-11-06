@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Referral of certain matters by Lands Tribunal to Land Court[^key-dc0a64b2f8838e8e2a7461ab5898c13b]
+## 38. Referral of certain matters by Lands Tribunal to Land Court[^c-dc0a64b2f8838e8e2a7461ab5898c13b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where, in an appeal before the Lands Tribunal under section 37, an issue of law 
 
 ## Annotations
 
-[^key-dc0a64b2f8838e8e2a7461ab5898c13b]: Commencement: S. 38 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-dc0a64b2f8838e8e2a7461ab5898c13b]: Commencement: S. 38 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

@@ -53,19 +53,19 @@ These Regulations may be cited as the Employment Rights (Northern Ireland) Order
 (1) In these Regulations—
 
 - “**the 1996 Order**” means the Employment Rights (Northern Ireland) Order 1996;
-- “Coronavirus Job Retention Scheme” means the scheme of that name established by the Coronavirus Act 2020 Functions of Her Majesty’s Revenue and Customs (Coronavirus Job Retention Scheme) Direction, given by the Treasury under sections 71 and 76 of the Coronavirus Act 2020 on 15th April 2020, as modified from time to time by further Directions given by the Treasury under those sections, to provide for claims to be made in respect of E in relation to any period ending on or before[^key-38c1e74b8a62fa4b0a0524e401948ce3] 30th September[^key-d9200ce786a35464538704de3b221580] 2021;
+- “Coronavirus Job Retention Scheme” means the scheme of that name established by the Coronavirus Act 2020 Functions of Her Majesty’s Revenue and Customs (Coronavirus Job Retention Scheme) Direction, given by the Treasury under sections 71 and 76 of the Coronavirus Act 2020 on 15th April 2020, as modified from time to time by further Directions given by the Treasury under those sections, to provide for claims to be made in respect of E in relation to any period ending on or before[^c-38c1e74b8a62fa4b0a0524e401948ce3] 30th September[^c-d9200ce786a35464538704de3b221580] 2021;
 - “**E**” has the meaning given in regulation 3(1);
-- [^key-a0e742db8ab2dbfbce7e70742e8f8c2e]...
-- “**flexibly-furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^key-28da73ef9b88a33cdabc46aecff50d34];
-- “**furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^key-9af8543457ec33a737f23dce23259b42] ;
+- [^c-a0e742db8ab2dbfbce7e70742e8f8c2e]...
+- “**flexibly-furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^c-28da73ef9b88a33cdabc46aecff50d34];
+- “**furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^c-9af8543457ec33a737f23dce23259b42] ;
 - “**furloughed hours**”, in relation to E, means those hours that E does not work as the result of an instruction given by their employer for the purposes of the Coronavirus Job Retention Scheme;
 - “**the relevant date**”, in relation to E—
   - (a) means the calculation date [^c24262151], in any case where—
     - (i) E's working hours under their contract of employment changed, on or after the date on which E became furloughed but before the calculation date, and
     - (ii) at the time that change was made, its contractual effect was that the change in working hours was to continue when E ceased to be furloughed or flexibly-furloughed, and
   - (b) in any other case, means the date immediately before the date on which E became furloughed;
-- [^key-12668473799cf21926d7b0846ab81a24]...
-- [^key-c9f98a040ed41d492260c28aee0d5a9e]...
+- [^c-12668473799cf21926d7b0846ab81a24]...
+- [^c-c9f98a040ed41d492260c28aee0d5a9e]...
 
 (2) Except in this paragraph and paragraph (1), any reference in these Regulations to an employee who is, or has been, “furloughed” is to an employee who is, or has been, a furloughed employee or a flexibly-furloughed employee.
 
@@ -89,7 +89,7 @@ These Regulations may be cited as the Employment Rights (Northern Ireland) Order
 
 (2) These Regulations only apply—
 
-- (a) in a case where regulation 4 applies, where the calculation date is on or before 30th September[^key-188aae2e980859679e3cc542a18e9460] 2021; or
+- (a) in a case where regulation 4 applies, where the calculation date is on or before 30th September[^c-188aae2e980859679e3cc542a18e9460] 2021; or
 - (b) in a case where regulation 5, 6 or 8 applies, where the relevant period, within the meaning given in regulation 5, 6 or 8 (as the case may be) includes a week when E was furloughed.
 
 (3) For the purposes of paragraph (1), “**the date of termination**” means the date on which termination of E's contract of employment takes effect.
@@ -190,7 +190,7 @@ that remuneration is taken into account as if the work had been done in such hou
 (4) For the purposes of paragraph (3)(b)—
 
 - (a) “**reference salary**” has the meaning given in the Coronavirus Job Retention Scheme [^c24262181], and
-- (b) “**scheme cap**” means the amount of —[^key-73fe4c1449d7c6d64b3bbeaacd685fff]
+- (b) “**scheme cap**” means the amount of —[^c-73fe4c1449d7c6d64b3bbeaacd685fff]
   - (i) £2,500 per month (or the appropriate pro-rata), or
   - (ii) £576.92 per week,
 
@@ -257,28 +257,28 @@ No impact assessment has been prepared for these Regulations.
 
 [^c24262111]: Marginal citation: The functions of the Department of Economic Development under the Employment Rights (Northern Ireland) Order 1996 were transferred to the Department of Higher and Further Education, Training and Employment by S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481), [Article 4(b)](https://www.legislation.gov.uk/ukcm/1999/481/article/4/b) and Schedule 2, Part II. The Department of Higher and Further Education, Training and Employment was renamed the Department for Employment and Learning by [2001 c. 15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15), [section 1(1)](https://www.legislation.gov.uk/nia/2001/15/section/1/1), and following the dissolution of that department by the [Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5), [section 1(10)](https://www.legislation.gov.uk/nia/2016/5/section/1/10), its functions under the Employment Rights (Northern Ireland) Order 1996 were transferred to the Department for the Economy by S.R. [2016 No. 76](https://www.legislation.gov.uk/ukcm/2016/76), [Article 6(1)(c)](https://www.legislation.gov.uk/ukcm/2016/76/article/6/1/c).
 
-[^key-38c1e74b8a62fa4b0a0524e401948ce3]: Textual amendment: Words in reg. 2(1) substituted (27.11.2020) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/a)
+[^c-38c1e74b8a62fa4b0a0524e401948ce3]: Textual amendment: Words in reg. 2(1) substituted (27.11.2020) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/a)
 
-[^key-d9200ce786a35464538704de3b221580]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2020/178/regulation/2/1) substituted (30.4.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/112)](https://www.legislation.gov.uk/nisr/2021/112), [regs. 1](https://www.legislation.gov.uk/nisr/2021/112/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/112/regulation/3)
+[^c-d9200ce786a35464538704de3b221580]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2020/178/regulation/2/1) substituted (30.4.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/112)](https://www.legislation.gov.uk/nisr/2021/112), [regs. 1](https://www.legislation.gov.uk/nisr/2021/112/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/112/regulation/3)
 
-[^key-a0e742db8ab2dbfbce7e70742e8f8c2e]: Textual amendment: Words in reg. 2(1) omitted (27.11.2020) by virtue of [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/b)
+[^c-a0e742db8ab2dbfbce7e70742e8f8c2e]: Textual amendment: Words in reg. 2(1) omitted (27.11.2020) by virtue of [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/b)
 
-[^key-28da73ef9b88a33cdabc46aecff50d34]: Textual amendment: Words in reg. 2(1) substituted (27.11.2020) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/c)
+[^c-28da73ef9b88a33cdabc46aecff50d34]: Textual amendment: Words in reg. 2(1) substituted (27.11.2020) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/c)
 
-[^key-9af8543457ec33a737f23dce23259b42]: Textual amendment: Words in reg. 2(1) substituted (27.11.2020) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/d)
+[^c-9af8543457ec33a737f23dce23259b42]: Textual amendment: Words in reg. 2(1) substituted (27.11.2020) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/d)
 
 [^c24262151]: Marginal citation: See Articles 21(2), 22(1) to 22(6) of the 1996 Order for the meaning of “the calculation date”.
 
-[^key-12668473799cf21926d7b0846ab81a24]: Textual amendment: Words in reg. 2(1) omitted (27.11.2020) by virtue of [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/e)
+[^c-12668473799cf21926d7b0846ab81a24]: Textual amendment: Words in reg. 2(1) omitted (27.11.2020) by virtue of [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/e)
 
-[^key-c9f98a040ed41d492260c28aee0d5a9e]: Textual amendment: Words in reg. 2(1) omitted (27.11.2020) by virtue of [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/f)
+[^c-c9f98a040ed41d492260c28aee0d5a9e]: Textual amendment: Words in reg. 2(1) omitted (27.11.2020) by virtue of [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/281)](https://www.legislation.gov.uk/nisr/2020/281), [regs. 1](https://www.legislation.gov.uk/nisr/2020/281/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2020/281/regulation/3/f)
 
 [^c24262161]: Marginal citation: See Article 2(3) of the 1996 Order for the definition of a “week”.
 
-[^key-188aae2e980859679e3cc542a18e9460]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2020/178/regulation/3/2/a) substituted (30.4.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/112)](https://www.legislation.gov.uk/nisr/2021/112), [regs. 1](https://www.legislation.gov.uk/nisr/2021/112/regulation/1), [4](https://www.legislation.gov.uk/nisr/2021/112/regulation/4)
+[^c-188aae2e980859679e3cc542a18e9460]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2020/178/regulation/3/2/a) substituted (30.4.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/112)](https://www.legislation.gov.uk/nisr/2021/112), [regs. 1](https://www.legislation.gov.uk/nisr/2021/112/regulation/1), [4](https://www.legislation.gov.uk/nisr/2021/112/regulation/4)
 
 [^c24262181]: Marginal citation: For an explanation of the relevant calculation of reference salary in relation to the period ending with 30th June 2020, see paragraph 7 of the Schedule to the second CJRS Direction (in particular paragraph 7.2); and in relation to the period beginning with 1st July 2020 and ending with 31st October 2020, see paragraphs 18, 19.1, and 20.1 of the Schedule to the third CJRS Direction.
 
-[^key-73fe4c1449d7c6d64b3bbeaacd685fff]: Textual amendment: [Reg. 8(4)(b)](https://www.legislation.gov.uk/nisr/2020/178/regulation/8/4/b) substituted (30.4.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/112)](https://www.legislation.gov.uk/nisr/2021/112), [regs. 1](https://www.legislation.gov.uk/nisr/2021/112/regulation/1), [5](https://www.legislation.gov.uk/nisr/2021/112/regulation/5)
+[^c-73fe4c1449d7c6d64b3bbeaacd685fff]: Textual amendment: [Reg. 8(4)(b)](https://www.legislation.gov.uk/nisr/2020/178/regulation/8/4/b) substituted (30.4.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/112)](https://www.legislation.gov.uk/nisr/2021/112), [regs. 1](https://www.legislation.gov.uk/nisr/2021/112/regulation/1), [5](https://www.legislation.gov.uk/nisr/2021/112/regulation/5)
 
 [^c24262201]: Marginal citation: [Article 23(1)](https://www.legislation.gov.uk/nisr/2020/178/article/23/1) was amended by Articles 1(1), 3 and the Schedule (with Article 4) of the Employment Rights (Increase in Limits) Order (Northern Ireland) 2020 (S.R. [2020 No. 42](https://www.legislation.gov.uk/ukcm/2020/42)) and by [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836) and [S.I. 2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902).

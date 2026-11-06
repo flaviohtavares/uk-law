@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Amendment to the Child Support (Collection and Enforcement) Regulations 1992[^key-2c5ad68745b83f004d7e496a0b81ab2d]
+## 25. Amendment to the Child Support (Collection and Enforcement) Regulations 1992[^c-2c5ad68745b83f004d7e496a0b81ab2d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 25AB(1) of the Child Support (Collection and Enforcement) Regulati
 
 ## Annotations
 
-[^key-2c5ad68745b83f004d7e496a0b81ab2d]: Commencement: Art. 25 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-2c5ad68745b83f004d7e496a0b81ab2d]: Commencement: Art. 25 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00010]: Footnote: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989). Relevant amending instruments are [S.I. 2009/1815](https://www.legislation.gov.uk/uksi/2009/1815) and [2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).

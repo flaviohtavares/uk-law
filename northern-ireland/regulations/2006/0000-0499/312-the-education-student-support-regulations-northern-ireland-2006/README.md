@@ -43,7 +43,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — GENERAL (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 1 (affected by repeal, see note) — GENERAL (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -51,7 +51,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Revocation, savings and transitional provisions](part-1/section-3.md)
 
-### PART 2 (affected by repeal, see note) — ELIGIBILITY (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 2 (affected by repeal, see note) — ELIGIBILITY (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -60,7 +60,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 6 — Period of eligibility](part-2/section-6.md)
 - [Section 7 — Transfer of status](part-2/section-7.md)
 
-### PART 3 (affected by repeal, see note) — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 3 (affected by repeal, see note) — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -72,7 +72,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 
 *Extent: N.I.*
 
-#### CHAPTER 1 (affected by repeal, see note) — TYPES OF FEE SUPPORT AVAILABLE (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 1 (affected by repeal, see note) — TYPES OF FEE SUPPORT AVAILABLE (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -107,14 +107,14 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 28 — Amount of the grant for fees for a course that is provided at a private institution on behalf of a publicly-funded institution](part-4/section-28.md)
 - [Section 29 — Amount of the grant for fees for a course at a private institution](part-4/section-29.md)
 
-#### CHAPTER 4 (affected by repeal, see note) — FEE CONTRIBUTION LOANS FOR OLD SYSTEM STUDENTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 4 (affected by repeal, see note) — FEE CONTRIBUTION LOANS FOR OLD SYSTEM STUDENTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 30 — Availability of fee contribution loans to old system students](part-4/section-30.md)
 - [Section 31 — Amount of the fee contribution loan](part-4/section-31.md)
 
-#### CHAPTER 5 (affected by repeal, see note) — INTERPRETATION OF PART 4 (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 5 (affected by repeal, see note) — INTERPRETATION OF PART 4 (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -122,24 +122,24 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 33 — Bursary year, ordinary duration, preliminary course, qualifying year of study and standard academic year](part-4/section-33.md)
 - [Section 34 — Miscellaneous](part-4/section-34.md)
 
-### PART 5 (affected by repeal, see note) — GRANTS FOR LIVING AND OTHER COSTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 5 (affected by repeal, see note) — GRANTS FOR LIVING AND OTHER COSTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
-#### CHAPTER 1 (affected by repeal, see note) — TYPES OF GRANTS AVAILABLE (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 1 (affected by repeal, see note) — TYPES OF GRANTS AVAILABLE (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 35 — New system students](part-5/section-35.md)
 - [Section 36 — Old system students](part-5/section-36.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 37 — General qualifying conditions for grants for living and other costs](part-5/section-37.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — DISABLED STUDENTS' ALLOWANCES (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 3 (affected by repeal, see note) — DISABLED STUDENTS' ALLOWANCES (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -147,7 +147,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 39 — Amount of the disabled students' allowance](part-5/section-39.md)
 - [Section 40 — Grants for students who have left care](part-5/section-40.md)
 
-#### CHAPTER 4 (affected by repeal, see note) — GRANTS FOR DEPENDANTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 4 (affected by repeal, see note) — GRANTS FOR DEPENDANTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -158,45 +158,45 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 45 — Grants for dependants - calculations](part-5/section-45.md)
 - [Section 46 — Interpretation of Chapter 4](part-5/section-46.md)
 
-#### CHAPTER 5 (affected by repeal, see note) — GRANTS FOR TRAVEL (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 5 (affected by repeal, see note) — GRANTS FOR TRAVEL (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 47 — Qualifying conditions for the grant for travel](part-5/section-47.md)
 - [Section 48 — Amount of the grant for travel](part-5/section-48.md)
 
-#### CHAPTER 6 (affected by repeal, see note) — MAINTENANCE GRANTS FOR NEW SYSTEM STUDENTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 6 (affected by repeal, see note) — MAINTENANCE GRANTS FOR NEW SYSTEM STUDENTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 49 — Qualifying conditions for the maintenance grant](part-5/section-49.md)
 - [Section 50 — Amount of the maintenance grant](part-5/section-50.md)
 
-#### CHAPTER 7 (affected by repeal, see note) — SPECIAL SUPPORT GRANTS FOR NEW SYSTEM STUDENTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 7 (affected by repeal, see note) — SPECIAL SUPPORT GRANTS FOR NEW SYSTEM STUDENTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 51 — Qualifying conditions for the special support grant](part-5/section-51.md)
 - [Section 52 — Amount of the special support grant](part-5/section-52.md)
 
-#### CHAPTER 8 (affected by repeal, see note) — HIGHER EDUCATION BURSARIES FOR OLD SYSTEM STUDENTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 8 (affected by repeal, see note) — HIGHER EDUCATION BURSARIES FOR OLD SYSTEM STUDENTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 53 — Qualifying conditions for and amounts of the higher education bursary](part-5/section-53.md)
 
-### PART 6 (affected by repeal, see note) — LOANS FOR LIVING COSTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 6 (affected by repeal, see note) — LOANS FOR LIVING COSTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
-#### CHAPTER 1 (affected by repeal, see note) — QUALIFYING CONDITIONS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 1 (affected by repeal, see note) — QUALIFYING CONDITIONS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 54 — Qualifying conditions for the loan for living costs – new system students](part-6/section-54.md)
 - [Section 55 — Qualifying conditions for the loan for living costs – old system students](part-6/section-55.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — MAXIMUM AMOUNTS OF LOANS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 2 (affected by repeal, see note) — MAXIMUM AMOUNTS OF LOANS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -206,13 +206,13 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 59 — Old system students with full entitlement](part-6/section-59.md)
 - [Section 60 — Old and new system students with reduced entitlement](part-6/section-60.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — COLLEGE FEE LOANS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 3 (affected by repeal, see note) — COLLEGE FEE LOANS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 61 — College fee loans](part-6/section-61.md)
 
-#### CHAPTER 4 (affected by repeal, see note) — MISCELLANEOUS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+#### CHAPTER 4 (affected by repeal, see note) — MISCELLANEOUS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -227,14 +227,14 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 70 — Categories of student](part-6/section-70.md)
 - [Section 71 — Interpretation of Part 6](part-6/section-71.md)
 
-### PART 7 (affected by repeal, see note) — INTEREST AND INSOLVENCY (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 7 (affected by repeal, see note) — INTEREST AND INSOLVENCY (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
 - [Section 72 — Interest](part-7/section-72.md)
 - [Section 73 — Insolvency](part-7/section-73.md)
 
-### PART 8 (affected by repeal, see note) — FINANCIAL ASSESSMENT (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 8 (affected by repeal, see note) — FINANCIAL ASSESSMENT (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -244,7 +244,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 77 — Order of application](part-8/section-77.md)
 - [Section 78 — Application of contribution to loan for living costs](part-8/section-78.md)
 
-### PART 9 (affected by repeal, see note) — PAYMENTS (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 9 (affected by repeal, see note) — PAYMENTS (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -255,7 +255,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 83 — Payment of bursaries and grants for living and other costs and loans for living costs - general provisions](part-9/section-83.md)
 - [Section 84 — Overpayments](part-9/section-84.md)
 
-### PART 10 (affected by repeal, see note) — SUPPORT FOR PART-TIME COURSES (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 10 (affected by repeal, see note) — SUPPORT FOR PART-TIME COURSES (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -276,7 +276,7 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 - [Section 99 — Payment of grants for fees](part-10/section-99.md)
 - [Section 100 — Overpayments](part-10/section-100.md)
 
-### PART 11 (affected by repeal, see note) — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES (affected by repeal, see note)[^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+### PART 11 (affected by repeal, see note) — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES (affected by repeal, see note)[^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
@@ -347,4 +347,4 @@ Regulation 61 and Schedule 5 introduce a new form of support namely a loan in re
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)*see* Article 5(b) and Schedule 3 Part II
 
-[^key-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))
+[^c-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))

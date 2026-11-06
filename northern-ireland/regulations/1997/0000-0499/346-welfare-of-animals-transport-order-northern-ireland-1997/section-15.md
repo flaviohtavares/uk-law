@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Exceptions[^key-259a8a99f185122fbadb369b070007c7]
+## 15. Exceptions[^c-259a8a99f185122fbadb369b070007c7]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ then the following provisions shall not apply—
 
 ## Annotations
 
-[^key-259a8a99f185122fbadb369b070007c7]: Commencement: Art. 15 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-259a8a99f185122fbadb369b070007c7]: Commencement: Art. 15 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

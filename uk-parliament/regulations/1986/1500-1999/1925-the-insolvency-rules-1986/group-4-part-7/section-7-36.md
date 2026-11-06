@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.36. Costs of officers charged with execution of writs or other process[^key-c5eaab65272188f4ce7782597f0c6150][^key-2b0be2db136ad6e9ce72ace15ec52a80]
+## 7.36. Costs of officers charged with execution of writs or other process[^c-c5eaab65272188f4ce7782597f0c6150][^c-2b0be2db136ad6e9ce72ace15ec52a80]
 
 *Extent: E+W*
 
-(1) Where an enforcement officer, or other officer, charged with execution of the writ or other process[^key-32fe4e137acea25b783265499e52a4ff]—
+(1) Where an enforcement officer, or other officer, charged with execution of the writ or other process[^c-32fe4e137acea25b783265499e52a4ff]—
 
 - (a) is required under section 184(2) or 346(2) to deliver up goods or money, or
 - (b) has under section 184(3) or 346(3) deducted costs from the proceeds of an execution or money paid to him, the responsible insolvency practitioner may require in writing that the amount of the enforcement officer’s or other officer's bill of costs be decided by detailed assessment.
 
 (2) Where such a requirement is made, Rule 7.35(4) applies.
 
-(3) Where, in the case of a deduction under paragraph (1)(b), any amount deducted is disallowed at the conclusion of the detailed assessment proceedings, the enforcement officer[^key-53ca97cd018438bcc05fd924453686ff] shall forthwith pay a sum equal to that disallowed to the insolvency practitioner for the benefit of the insolvent estate.
+(3) Where, in the case of a deduction under paragraph (1)(b), any amount deducted is disallowed at the conclusion of the detailed assessment proceedings, the enforcement officer[^c-53ca97cd018438bcc05fd924453686ff] shall forthwith pay a sum equal to that disallowed to the insolvency practitioner for the benefit of the insolvent estate.
 
 ## Annotations
 
-[^key-c5eaab65272188f4ce7782597f0c6150]: Textual amendment: Pt. 7 Ch. 6 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/3)
+[^c-c5eaab65272188f4ce7782597f0c6150]: Textual amendment: Pt. 7 Ch. 6 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/3)
 
-[^key-2b0be2db136ad6e9ce72ace15ec52a80]: Textual amendment: Words in rule 7.36 heading substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [42(a)](https://www.legislation.gov.uk/uksi/2005/527/rule/42/a)
+[^c-2b0be2db136ad6e9ce72ace15ec52a80]: Textual amendment: Words in rule 7.36 heading substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [42(a)](https://www.legislation.gov.uk/uksi/2005/527/rule/42/a)
 
-[^key-32fe4e137acea25b783265499e52a4ff]: Textual amendment: Words in rule 7.36(1) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [42(b)](https://www.legislation.gov.uk/uksi/2005/527/rule/42/b)
+[^c-32fe4e137acea25b783265499e52a4ff]: Textual amendment: Words in rule 7.36(1) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [42(b)](https://www.legislation.gov.uk/uksi/2005/527/rule/42/b)
 
-[^key-53ca97cd018438bcc05fd924453686ff]: Textual amendment: Words in rule 7.36(3) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [42(c)](https://www.legislation.gov.uk/uksi/2005/527/rule/42/c)
+[^c-53ca97cd018438bcc05fd924453686ff]: Textual amendment: Words in rule 7.36(3) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [42(c)](https://www.legislation.gov.uk/uksi/2005/527/rule/42/c)

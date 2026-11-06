@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Management of health and safety and control of major accident hazards[^key-0f59920fc372455a0535d6d1aaccbfd2]
+## 12. Management of health and safety and control of major accident hazards[^c-0f59920fc372455a0535d6d1aaccbfd2]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f59920fc372455a0535d6d1aaccbfd2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/247/regulation/12) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-0f59920fc372455a0535d6d1aaccbfd2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/247/regulation/12) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

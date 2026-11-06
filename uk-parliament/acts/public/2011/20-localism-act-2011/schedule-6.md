@@ -24,9 +24,9 @@ Section 72
 
 ### Local Government Finance Act 1992 (c. 14)
 
-**1.**[^key-0f65981178c33d34a7aaf49756ffb238] The Local Government Finance Act 1992 is amended as follows.
+**1.**[^c-0f65981178c33d34a7aaf49756ffb238] The Local Government Finance Act 1992 is amended as follows.
 
-**2.**[^key-220d1d31b25647a9eddc0645d1dc449b] (1) Section 31 (substituted amounts) is amended as follows.
+**2.**[^c-220d1d31b25647a9eddc0645d1dc449b] (1) Section 31 (substituted amounts) is amended as follows.
 
 (2) In subsection (1) for the “or” at the end of paragraph (a) substitute—
 
@@ -47,11 +47,11 @@ Section 72
 > - (a) subsection (4A) or (5) above does not apply, or
 > - (b) that subsection applies with modifications.
 
-**3.**[^key-46797af9eea9a363a9d5e0ee3146138e] In section 42(1) (substituted precepts) before “52J” insert “ 52ZU, ”.
+**3.**[^c-46797af9eea9a363a9d5e0ee3146138e] In section 42(1) (substituted precepts) before “52J” insert “ 52ZU, ”.
 
-**4.**[^key-2d6ad5170ff0c4bf26cd64e301d862cf] In section 52A (interpretation of Chapter 4A) in each of paragraphs (a) and (b) after “authority” insert “ in Wales ”.
+**4.**[^c-2d6ad5170ff0c4bf26cd64e301d862cf] In section 52A (interpretation of Chapter 4A) in each of paragraphs (a) and (b) after “authority” insert “ in Wales ”.
 
-**5.**[^key-86d7bd64798575e44c43519d45ce3053] (1) Section 52B (power to designate authorities) is amended as follows.
+**5.**[^c-86d7bd64798575e44c43519d45ce3053] (1) Section 52B (power to designate authorities) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -75,7 +75,7 @@ Section 72
 
 (7) In subsection (8) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**6.**[^key-1523d10265a0a53b8fee60b7993ae656] (1) Section 52C (alternative notional amounts) is amended as follows.
+**6.**[^c-1523d10265a0a53b8fee60b7993ae656] (1) Section 52C (alternative notional amounts) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -91,7 +91,7 @@ Section 72
 
 (4) In subsection (4) for “House of Commons” substitute “ National Assembly for Wales ”.
 
-**7.**[^key-89c2bcb1633c1a6af785e7b3ad673d6b] (1) Section 52D (designation or nomination) is amended as follows.
+**7.**[^c-89c2bcb1633c1a6af785e7b3ad673d6b] (1) Section 52D (designation or nomination) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State's” substitute “Welsh Ministers'”.
 
@@ -99,7 +99,7 @@ Section 72
 
 (4) In subsection (3) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**8.**[^key-211a91bebcb2c57bbefb412bdd490df4] (1) Section 52E (designation) is amended as follows.
+**8.**[^c-211a91bebcb2c57bbefb412bdd490df4] (1) Section 52E (designation) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State designates” substitute “ Welsh Ministers designate ”.
 
@@ -112,7 +112,7 @@ Section 72
 
 (4) In subsection (5) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**9.**[^key-6d17f3391e8b8b9e49394eb32123eea7] (1) Section 52F (challenge of maximum amount) is amended as follows.
+**9.**[^c-6d17f3391e8b8b9e49394eb32123eea7] (1) Section 52F (challenge of maximum amount) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” substitute “ Welsh Ministers ”.
 
@@ -154,7 +154,7 @@ Section 72
 - (a) for “Secretary of State proceeds” substitute “ Welsh Ministers proceed ”, and
 - (b) for “he” substitute “ they ”.
 
-**10.**[^key-d24f275ab8df135a31a5f034c49db804] (1) Section 52G (acceptance of maximum amount) is amended as follows.
+**10.**[^c-d24f275ab8df135a31a5f034c49db804] (1) Section 52G (acceptance of maximum amount) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” substitute “ Welsh Ministers ”.
 
@@ -168,7 +168,7 @@ Section 72
 - (a) for “he serves” substitute “ they serve ”, and
 - (b) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**11.**[^key-e54d3b9418a211069196c3e6d8665e5b] (1) Section 52H (no challenge or acceptance) is amended as follows.
+**11.**[^c-e54d3b9418a211069196c3e6d8665e5b] (1) Section 52H (no challenge or acceptance) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” substitute “ Welsh Ministers ”.
 
@@ -183,9 +183,9 @@ Section 72
 - (a) for “he serves” substitute “ they serve ”, and
 - (b) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**12.**[^key-d7db86509c85b4be8ff029069531a134] In section 52I(5)(a) (duty of designated billing authority) for “general” substitute “ council ”.
+**12.**[^c-d7db86509c85b4be8ff029069531a134] In section 52I(5)(a) (duty of designated billing authority) for “general” substitute “ council ”.
 
-**13.**[^key-61361a9f5e2d7c71bed193ca3d39cd99] (1) Section 52J (duty of designated precepting authority) is amended as follows.
+**13.**[^c-61361a9f5e2d7c71bed193ca3d39cd99] (1) Section 52J (duty of designated precepting authority) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -198,7 +198,7 @@ Section 72
 
 (5) Omit subsections (8) to (10).
 
-**14.**[^key-2947ecd8029e51b5badf809397a7b497] (1) Section 52K (failure to substitute) is amended as follows.
+**14.**[^c-2947ecd8029e51b5badf809397a7b497] (1) Section 52K (failure to substitute) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -213,7 +213,7 @@ Section 72
 
 (4) In subsection (4)(b) omit “52I or”.
 
-**15.**[^key-647bfdb1c3cd3ec2f6b355003e44a1f9] (1) Section 52L (nomination) is amended as follows.
+**15.**[^c-647bfdb1c3cd3ec2f6b355003e44a1f9] (1) Section 52L (nomination) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State nominates” substitute “ Welsh Ministers nominate ”.
 
@@ -228,7 +228,7 @@ Section 72
 - (a) for “he intends” substitute “ they intend ”, and
 - (b) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**16.**[^key-703430b6c2d07ab34cded4d014bce01a] (1) Section 52M (designation after nomination) is amended as follows.
+**16.**[^c-703430b6c2d07ab34cded4d014bce01a] (1) Section 52M (designation after nomination) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -258,7 +258,7 @@ Section 72
 
 (7) In subsection (8) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**17.**[^key-fc53577f2f2bb13647c9340791c54f6a] (1) Section 52N (no designation after nomination) is amended as follows.
+**17.**[^c-fc53577f2f2bb13647c9340791c54f6a] (1) Section 52N (no designation after nomination) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -288,7 +288,7 @@ Section 72
   - (i) for “he receives” substitute “ they receive ”, and
   - (ii) for “his” substitute “ their ”.
 
-**18.**[^key-97a1d9cf1bb1e529b4666264f6cf6f96] (1) Section 52P (designation after previous designation) is amended as follows.
+**18.**[^c-97a1d9cf1bb1e529b4666264f6cf6f96] (1) Section 52P (designation after previous designation) is amended as follows.
 
 (2) In subsection (1)(a) for “Secretary of State designates” substitute “ Welsh Ministers designate ”.
 
@@ -318,7 +318,7 @@ Section 72
 
 (8) In subsection (10) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**19.**[^key-69e4f8bbf604d278e946372b7f40f1a8] (1) Section 52Q (challenge of maximum amount) is amended as follows.
+**19.**[^c-69e4f8bbf604d278e946372b7f40f1a8] (1) Section 52Q (challenge of maximum amount) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” in each of paragraphs (a) and (b) substitute “ Welsh Ministers ”.
 
@@ -350,7 +350,7 @@ Section 72
 
 (10) In subsection (9) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**20.**[^key-eeef44802eaa31e94d27cfeea4bb76a8] (1) Section 52R (acceptance of maximum amount) is amended as follows.
+**20.**[^c-eeef44802eaa31e94d27cfeea4bb76a8] (1) Section 52R (acceptance of maximum amount) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” in each of paragraphs (a) and (b) substitute “ Welsh Ministers ”.
 
@@ -364,7 +364,7 @@ Section 72
 - (a) for “he serves” substitute “ they serve ”, and
 - (b) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**21.**[^key-5a4d7683bae936ab7de74432ff632592] (1) Section 52S (no challenge or acceptance) is amended as follows.
+**21.**[^c-5a4d7683bae936ab7de74432ff632592] (1) Section 52S (no challenge or acceptance) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” in each of paragraphs (a) and (b) substitute “ Welsh Ministers ”.
 
@@ -379,9 +379,9 @@ Section 72
 - (a) for “he serves” substitute “ they serve ”, and
 - (b) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**22.**[^key-d1117c97d225cd63cb955d94bbbdc09a] In section 52T(7)(a) (duty of designated billing authority) for “general” substitute “ council ”.
+**22.**[^c-d1117c97d225cd63cb955d94bbbdc09a] In section 52T(7)(a) (duty of designated billing authority) for “general” substitute “ council ”.
 
-**23.**[^key-668c0aaad8c4a7ce0e9ec5d2392aa1ba] (1) Section 52U (duty of designated precepting authority) is amended as follows.
+**23.**[^c-668c0aaad8c4a7ce0e9ec5d2392aa1ba] (1) Section 52U (duty of designated precepting authority) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -400,7 +400,7 @@ Section 72
 
 (8) Omit subsections (11) to (13).
 
-**24.**[^key-9e965e0d407330b99a9c50a35e70beb5] (1) Section 52V (failure to make or substitute calculation) is amended as follows.
+**24.**[^c-9e965e0d407330b99a9c50a35e70beb5] (1) Section 52V (failure to make or substitute calculation) is amended as follows.
 
 (2) For subsection (3) substitute—
 
@@ -410,13 +410,13 @@ Section 72
 
 (3) In subsection (5)(b) omit “52T or”.
 
-**25.**[^key-bc4882368526949eae4af9051606bd52] (1) Section 52W (meaning of budget requirement) is amended as follows.
+**25.**[^c-bc4882368526949eae4af9051606bd52] (1) Section 52W (meaning of budget requirement) is amended as follows.
 
 (2) In subsection (1) omit “other than the Greater London Authority”.
 
 (3) Omit subsection (2).
 
-**26.**[^key-8468a2ee7926d3e4347a15886e05f84c] (1) Section 52X (calculations to be net of precepts) is amended as follows.
+**26.**[^c-8468a2ee7926d3e4347a15886e05f84c] (1) Section 52X (calculations to be net of precepts) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -429,7 +429,7 @@ Section 72
 
 (4) In subsection (7) for “House of Commons” substitute “ National Assembly for Wales ”.
 
-**27.**[^key-5861218f8096e6a8bde595c33a0398f7] (1) Section 52Y (information for purposes of Chapter 4A) is amended as follows.
+**27.**[^c-5861218f8096e6a8bde595c33a0398f7] (1) Section 52Y (information for purposes of Chapter 4A) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” substitute “ Welsh Ministers ”.
 
@@ -455,39 +455,39 @@ Section 72
 - (b) for “Secretary of State” substitute “ Welsh Ministers ”, and
 - (c) for “him” substitute “ them ”.
 
-**28.**[^key-d20c837362ac077ff12490706c728cf6] Omit section 52Z (separate administration of Chapter 4A for England and Wales).
+**28.**[^c-d20c837362ac077ff12490706c728cf6] Omit section 52Z (separate administration of Chapter 4A for England and Wales).
 
-**29.**[^key-b74557204b053ea35e030fd8516c9ca4] In section 66(2)(c) (matters that may not be questioned except by an application for judicial review)—
-
-- (a) before “52I” insert “ 52ZF, ”, and
-- (b) before “52J” insert “ 52ZJ, ”.
-
-**30.**[^key-6c7b173ccabf125144a1f40edf8d6ab2] In section 67(2)(b) (functions to be discharged only by authority)—
+**29.**[^c-b74557204b053ea35e030fd8516c9ca4] In section 66(2)(c) (matters that may not be questioned except by an application for judicial review)—
 
 - (a) before “52I” insert “ 52ZF, ”, and
 - (b) before “52J” insert “ 52ZJ, ”.
 
-**31.**[^key-fdf5fcf0a3ac839ddf08130cfde1f5f3] In section 106(2)(a) (council tax: restrictions on voting) after “IV” insert “ , 4ZA ”.
+**30.**[^c-6c7b173ccabf125144a1f40edf8d6ab2] In section 67(2)(b) (functions to be discharged only by authority)—
 
-**32.**[^key-3238ae9efc8420b6dd5e8592c0ed880d] In section 113(3) (orders and regulations to be subject to annulment by either House of Parliament, except in certain cases) after “except in the case of” insert “ regulations under section 52ZQ above or ”.
+- (a) before “52I” insert “ 52ZF, ”, and
+- (b) before “52J” insert “ 52ZJ, ”.
+
+**31.**[^c-fdf5fcf0a3ac839ddf08130cfde1f5f3] In section 106(2)(a) (council tax: restrictions on voting) after “IV” insert “ , 4ZA ”.
+
+**32.**[^c-3238ae9efc8420b6dd5e8592c0ed880d] In section 113(3) (orders and regulations to be subject to annulment by either House of Parliament, except in certain cases) after “except in the case of” insert “ regulations under section 52ZQ above or ”.
 
 ### Police Act 1996 (c. 16)
 
-**33.**[^key-1f7bf7b898e0b1ce4b45429132bf6e34] In section 41(2) of the Police Act 1996 (direction as to minimum budget) after “Chapter” insert “ 4ZA or ”.
+**33.**[^c-1f7bf7b898e0b1ce4b45429132bf6e34] In section 41(2) of the Police Act 1996 (direction as to minimum budget) after “Chapter” insert “ 4ZA or ”.
 
 ### Greater London Authority Act 1999 (c. 29)
 
-**34.**[^key-be160e30ef39b073fcef6da970c97427] The Greater London Authority Act 1999 is amended as follows.
+**34.**[^c-be160e30ef39b073fcef6da970c97427] The Greater London Authority Act 1999 is amended as follows.
 
-**35.**[^key-1cfef7028f5383123bba66e8331f8025] In section 95 (minimum budget for Metropolitan Police Authority) after subsection (3) insert—
+**35.**[^c-1cfef7028f5383123bba66e8331f8025] In section 95 (minimum budget for Metropolitan Police Authority) after subsection (3) insert—
 
 > (3A) The power exercisable by virtue of subsection (2) above, and any direction given under that power, are subject to any limitation imposed under Chapter 4ZA of Part 1 of the Local Government Finance Act 1992 (council tax referendums).
 
-**36.**[^key-711583da0424920f08bed2a35bb76a93] In section 96 (provisions supplementary to section 95) after subsection (6) insert—
+**36.**[^c-711583da0424920f08bed2a35bb76a93] In section 96 (provisions supplementary to section 95) after subsection (6) insert—
 
 > (7) Subsections (5) and (6) above are subject to section 95(3A) (which provides that directions under that section are subject to the limitations imposed by the provisions about council tax referendums in Chapter 4ZA of Part 1 of the Local Government Finance Act 1992).
 
-**37.**[^key-21c1f1c7c4ede6be29314a11b23fed08] (1) Schedule 6 (procedure for determining the authority's consolidated budget requirement) is amended as follows.
+**37.**[^c-21c1f1c7c4ede6be29314a11b23fed08] (1) Schedule 6 (procedure for determining the authority's consolidated budget requirement) is amended as follows.
 
 (2) In paragraph 1 after sub-paragraph (4) insert—
 
@@ -580,7 +580,7 @@ Section 72
 >
 > **9A.** If the Assembly fails to comply with paragraph 8C above, the draft substitute consolidated budget presented to the Assembly in accordance with paragraph 6A above shall be the Authority's substitute consolidated budget for the year.
 
-**38.**[^key-e419a63c7ddf632e8a4409283e6c2321] (1) Schedule 7 (procedure for making of substitute calculations by the Authority) is amended as follows.
+**38.**[^c-e419a63c7ddf632e8a4409283e6c2321] (1) Schedule 7 (procedure for making of substitute calculations by the Authority) is amended as follows.
 
 (2) In paragraph 3(1) for “52K or 52V” substitute “ 52ZW ”.
 
@@ -588,78 +588,78 @@ Section 72
 
 ## Annotations
 
-[^key-0f65981178c33d34a7aaf49756ffb238]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/1) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-0f65981178c33d34a7aaf49756ffb238]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/1) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-220d1d31b25647a9eddc0645d1dc449b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/2) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-220d1d31b25647a9eddc0645d1dc449b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/2) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-46797af9eea9a363a9d5e0ee3146138e]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/3) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-46797af9eea9a363a9d5e0ee3146138e]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/3) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-2d6ad5170ff0c4bf26cd64e301d862cf]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/4) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-2d6ad5170ff0c4bf26cd64e301d862cf]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/4) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-86d7bd64798575e44c43519d45ce3053]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/5) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-86d7bd64798575e44c43519d45ce3053]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/5) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-1523d10265a0a53b8fee60b7993ae656]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/6) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-1523d10265a0a53b8fee60b7993ae656]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/6) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-89c2bcb1633c1a6af785e7b3ad673d6b]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/7) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-89c2bcb1633c1a6af785e7b3ad673d6b]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/7) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-211a91bebcb2c57bbefb412bdd490df4]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/8) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-211a91bebcb2c57bbefb412bdd490df4]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/8) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-6d17f3391e8b8b9e49394eb32123eea7]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/9) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-6d17f3391e8b8b9e49394eb32123eea7]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/9) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-d24f275ab8df135a31a5f034c49db804]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/10) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-d24f275ab8df135a31a5f034c49db804]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/10) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-e54d3b9418a211069196c3e6d8665e5b]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/11) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-e54d3b9418a211069196c3e6d8665e5b]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/11) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-d7db86509c85b4be8ff029069531a134]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/12) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-d7db86509c85b4be8ff029069531a134]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/12) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-61361a9f5e2d7c71bed193ca3d39cd99]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/13) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-61361a9f5e2d7c71bed193ca3d39cd99]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/13) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-2947ecd8029e51b5badf809397a7b497]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/14) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-2947ecd8029e51b5badf809397a7b497]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/14) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-647bfdb1c3cd3ec2f6b355003e44a1f9]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/15) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-647bfdb1c3cd3ec2f6b355003e44a1f9]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/15) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-703430b6c2d07ab34cded4d014bce01a]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/16) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-703430b6c2d07ab34cded4d014bce01a]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/16) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-fc53577f2f2bb13647c9340791c54f6a]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/17) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-fc53577f2f2bb13647c9340791c54f6a]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/17) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-97a1d9cf1bb1e529b4666264f6cf6f96]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/18) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-97a1d9cf1bb1e529b4666264f6cf6f96]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/18) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-69e4f8bbf604d278e946372b7f40f1a8]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/19) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-69e4f8bbf604d278e946372b7f40f1a8]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/19) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-eeef44802eaa31e94d27cfeea4bb76a8]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/20) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-eeef44802eaa31e94d27cfeea4bb76a8]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/20) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-5a4d7683bae936ab7de74432ff632592]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/21) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-5a4d7683bae936ab7de74432ff632592]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/21) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-d1117c97d225cd63cb955d94bbbdc09a]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/22) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-d1117c97d225cd63cb955d94bbbdc09a]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/22) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-668c0aaad8c4a7ce0e9ec5d2392aa1ba]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/23) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-668c0aaad8c4a7ce0e9ec5d2392aa1ba]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/23) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-9e965e0d407330b99a9c50a35e70beb5]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/24) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-9e965e0d407330b99a9c50a35e70beb5]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/24) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-bc4882368526949eae4af9051606bd52]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/25) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-bc4882368526949eae4af9051606bd52]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/25) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-8468a2ee7926d3e4347a15886e05f84c]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/26) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-8468a2ee7926d3e4347a15886e05f84c]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/26) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-5861218f8096e6a8bde595c33a0398f7]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/27) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-5861218f8096e6a8bde595c33a0398f7]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/27) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-d20c837362ac077ff12490706c728cf6]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/28) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-d20c837362ac077ff12490706c728cf6]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/28) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-b74557204b053ea35e030fd8516c9ca4]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/29) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-b74557204b053ea35e030fd8516c9ca4]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/29) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-6c7b173ccabf125144a1f40edf8d6ab2]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/30) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-6c7b173ccabf125144a1f40edf8d6ab2]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/30) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-fdf5fcf0a3ac839ddf08130cfde1f5f3]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/31) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-fdf5fcf0a3ac839ddf08130cfde1f5f3]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/31) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-3238ae9efc8420b6dd5e8592c0ed880d]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/32) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-3238ae9efc8420b6dd5e8592c0ed880d]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/32) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-1f7bf7b898e0b1ce4b45429132bf6e34]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/33) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-1f7bf7b898e0b1ce4b45429132bf6e34]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/33) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-be160e30ef39b073fcef6da970c97427]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/34) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-be160e30ef39b073fcef6da970c97427]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/34) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-1cfef7028f5383123bba66e8331f8025]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/35) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-1cfef7028f5383123bba66e8331f8025]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/35) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-711583da0424920f08bed2a35bb76a93]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/36) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-711583da0424920f08bed2a35bb76a93]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/36) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-21c1f1c7c4ede6be29314a11b23fed08]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/37) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-21c1f1c7c4ede6be29314a11b23fed08]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/37) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-e419a63c7ddf632e8a4409283e6c2321]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/38) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-e419a63c7ddf632e8a4409283e6c2321]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/38) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

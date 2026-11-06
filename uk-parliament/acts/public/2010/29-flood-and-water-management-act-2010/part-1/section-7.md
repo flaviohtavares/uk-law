@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. National flood and coastal erosion risk management strategy: England[^key-55a7180339ce17ad02d3905091f92850]
+## 7. National flood and coastal erosion risk management strategy: England[^c-55a7180339ce17ad02d3905091f92850]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55a7180339ce17ad02d3905091f92850]: Commencement: S. 7 in force at 1.10.2010 for E. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-55a7180339ce17ad02d3905091f92850]: Commencement: S. 7 in force at 1.10.2010 for E. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

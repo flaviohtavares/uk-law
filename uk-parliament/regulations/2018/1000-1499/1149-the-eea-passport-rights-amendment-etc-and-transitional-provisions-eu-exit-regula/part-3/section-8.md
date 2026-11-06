@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Deemed permission under Part 4A of the Financial Services and Markets Act 2000[^key-9b1151eb3870e8a7bed92ea24ee1ec81]
+## 8. Deemed permission under Part 4A of the Financial Services and Markets Act 2000[^c-9b1151eb3870e8a7bed92ea24ee1ec81]
 
 *Extent: E+W+S+N.I.*
 
 (1) A person to whom this regulation applies shall be treated as if the person has permission to carry on a regulated activity in the United Kingdom under Part 4A of the 2000 Act.
 
-(2) The regulated activity a person is permitted to carry on by virtue of this regulation is one which, immediately before IP completion day[^key-f504d1f7e21aa1541ee628352e685ec9], the person is authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act.
+(2) The regulated activity a person is permitted to carry on by virtue of this regulation is one which, immediately before IP completion day[^c-f504d1f7e21aa1541ee628352e685ec9], the person is authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act.
 
 (3) Reference in an enactment to a person with permission under Part 4A of the 2000 Act (however expressed) is to be read, unless the contrary intention appears, as including a person treated as having permission to carry on a regulated activity under that Part by virtue of this regulation.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b1151eb3870e8a7bed92ea24ee1ec81]: Modification: Reg. 8 applied (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/1)[(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b1151eb3870e8a7bed92ea24ee1ec81]: Modification: Reg. 8 applied (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/1)[(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f504d1f7e21aa1541ee628352e685ec9]: Textual amendment: Words in reg. 8 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/d)
+[^c-f504d1f7e21aa1541ee628352e685ec9]: Textual amendment: Words in reg. 8 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/d)

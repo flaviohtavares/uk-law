@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Establishment of deferred member’s account[^key-b7fd0fcc50a04d73bfd1b13c57733dd7]
+## 55. Establishment of deferred member’s account[^c-b7fd0fcc50a04d73bfd1b13c57733dd7]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7fd0fcc50a04d73bfd1b13c57733dd7]: Commencement: Reg. 55 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b7fd0fcc50a04d73bfd1b13c57733dd7]: Commencement: Reg. 55 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

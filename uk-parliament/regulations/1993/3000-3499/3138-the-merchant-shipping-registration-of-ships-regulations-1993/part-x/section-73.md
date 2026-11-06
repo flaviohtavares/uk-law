@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Qualification and entitlement for registration of bareboat charter ships other than fishing vessels[^key-5ede66551fb2193dba2d277988c1c12a]
+## 73. Qualification and entitlement for registration of bareboat charter ships other than fishing vessels[^c-5ede66551fb2193dba2d277988c1c12a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The persons qualified to be the owners of British ships by virtue of regulation 
 
 ## Annotations
 
-[^key-5ede66551fb2193dba2d277988c1c12a]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1993/3138/regulation/73) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-5ede66551fb2193dba2d277988c1c12a]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1993/3138/regulation/73) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

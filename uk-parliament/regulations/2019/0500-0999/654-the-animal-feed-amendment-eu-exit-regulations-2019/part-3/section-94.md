@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94.[^key-3845544d49227bd0c6a96ce9d6a94c44]
+## 94.[^c-3845544d49227bd0c6a96ce9d6a94c44]
 
 *Extent: E+W+S+N.I.*
 
 In Article 2—
 
-- (a)[^key-3e223fcffc45a76fec0ab76a91a017fa] in paragraph 1, for “the Community” substitute “ Great Britain ”;
+- (a)[^c-3e223fcffc45a76fec0ab76a91a017fa] in paragraph 1, for “the Community” substitute “ Great Britain ”;
 - (b) in paragraph 2, omit “Community”.
 
 ## Annotations
 
-[^key-3845544d49227bd0c6a96ce9d6a94c44]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3845544d49227bd0c6a96ce9d6a94c44]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3e223fcffc45a76fec0ab76a91a017fa]: Textual amendment: Reg. 94(a) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(17)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/17)
+[^c-3e223fcffc45a76fec0ab76a91a017fa]: Textual amendment: Reg. 94(a) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(17)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/17)

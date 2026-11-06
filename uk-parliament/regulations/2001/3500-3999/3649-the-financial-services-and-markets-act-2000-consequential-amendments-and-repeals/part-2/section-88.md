@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Power of Treasury and Secretary of State to make further provision for purposes of Part 7[^key-fb903eb8aea0cb546ad86cb2f7dbed5e]
+## 88. Power of Treasury and Secretary of State to make further provision for purposes of Part 7[^c-fb903eb8aea0cb546ad86cb2f7dbed5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ After subsection (3) of section 185 of the Companies Act 1989 (power of Treasury
 
 ## Annotations
 
-[^key-fb903eb8aea0cb546ad86cb2f7dbed5e]: Commencement: Art. 88 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fb903eb8aea0cb546ad86cb2f7dbed5e]: Commencement: Art. 88 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

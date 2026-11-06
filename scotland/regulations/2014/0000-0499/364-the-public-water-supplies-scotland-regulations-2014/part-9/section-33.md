@@ -25,12 +25,12 @@ summary: ''
 (2) A substance or product which, at the time of its application or introduction—
 
 - (a) bears an appropriate CE marking in accordance with Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/eudr/1989/106) [^c22302661]; or
-- (b) conforms to an appropriate British Standard or some other appropriate standard [^key-12d660a99699a67fd18f94ee2765c90c]... which provides an equivalent level of protection and performance,
+- (b) conforms to an appropriate British Standard or some other appropriate standard [^c-12d660a99699a67fd18f94ee2765c90c]... which provides an equivalent level of protection and performance,
 
 may be applied or introduced, notwithstanding that none of the requirements of paragraph (3) is satisfied; but only if its application or introduction complies with—
 
-- (i) such conditions of use restricting the dosing concentration as for the time being apply in relation to that substance or product pursuant to a direction of the Scottish Ministers given to Scottish Water (in exercise of powers under section 56(3) of the Water Industry (Scotland) Act 2002 [^c22302691]) [^key-54ac8aed41f609d9d2f73101d44cf31d]...
-- (ii)[^key-54ac8aed41f609d9d2f73101d44cf31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) such conditions of use restricting the dosing concentration as for the time being apply in relation to that substance or product pursuant to a direction of the Scottish Ministers given to Scottish Water (in exercise of powers under section 56(3) of the Water Industry (Scotland) Act 2002 [^c22302691]) [^c-54ac8aed41f609d9d2f73101d44cf31d]...
+- (ii)[^c-54ac8aed41f609d9d2f73101d44cf31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The requirements of this paragraph are—
 
@@ -78,8 +78,8 @@ but, unless they are satisfied that it is necessary to do so in the interests of
 
 [^c22302661]: Marginal citation: OJ L 88, 4.4.2011, p.5.
 
-[^key-12d660a99699a67fd18f94ee2765c90c]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/ssi/2014/364/regulation/33/2/b) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [15(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/15/a)
+[^c-12d660a99699a67fd18f94ee2765c90c]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/ssi/2014/364/regulation/33/2/b) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [15(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/15/a)
 
 [^c22302691]: Marginal citation: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 
-[^key-54ac8aed41f609d9d2f73101d44cf31d]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/ssi/2014/364/regulation/33/2/b/i) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [15(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/15/b)
+[^c-54ac8aed41f609d9d2f73101d44cf31d]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/ssi/2014/364/regulation/33/2/b/i) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [15(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/15/b)

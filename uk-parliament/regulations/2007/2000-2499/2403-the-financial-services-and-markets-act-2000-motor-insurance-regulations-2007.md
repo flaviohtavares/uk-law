@@ -32,7 +32,7 @@ summary: ''
 
 financial services and markets
 
-The Financial Services and Markets Act 2000 (Motor Insurance) Regulations 2007 (revoked)[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]
+The Financial Services and Markets Act 2000 (Motor Insurance) Regulations 2007 (revoked)[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 5th September 2007
 
-[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]
+## 1. Citation and commencement[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Financial Services and Markets Act 2000[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]
+## 2. Amendment of the Financial Services and Markets Act 2000[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2001[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]
+## 3. Amendment of the Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2001[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0629dce8ab1dc3b7ea0156abcdaeb3e5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/2403) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-0629dce8ab1dc3b7ea0156abcdaeb3e5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/2403) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

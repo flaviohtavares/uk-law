@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Enforcement of the right[^key-6e10cc5e958ca40bf7cf24ddaa3284ef]
+## 56. Enforcement of the right[^c-6e10cc5e958ca40bf7cf24ddaa3284ef]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ any compensation awarded under Article 72 of the Employment Rights Order by virt
 
 ## Annotations
 
-[^key-6e10cc5e958ca40bf7cf24ddaa3284ef]: Commencement: S. 56 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-6e10cc5e958ca40bf7cf24ddaa3284ef]: Commencement: S. 56 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

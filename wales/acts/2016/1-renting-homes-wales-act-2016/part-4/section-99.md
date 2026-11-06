@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Rights of permitted occupiers to enforce Chapter[^key-a963b2a80c028e1d7bf5c328db7dc423]
+## 99. Rights of permitted occupiers to enforce Chapter[^c-a963b2a80c028e1d7bf5c328db7dc423]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a963b2a80c028e1d7bf5c328db7dc423]: Commencement: [S. 99](https://www.legislation.gov.uk/anaw/2016/1/section/99) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a963b2a80c028e1d7bf5c328db7dc423]: Commencement: [S. 99](https://www.legislation.gov.uk/anaw/2016/1/section/99) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

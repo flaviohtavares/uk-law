@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. Application of Chapter[^key-96f8acfa4f2d725f609551e2a6da0047]
+## 148. Application of Chapter[^c-96f8acfa4f2d725f609551e2a6da0047]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The rules in this Chapter apply to applications in connection with section 176A 
 
 ## Annotations
 
-[^key-96f8acfa4f2d725f609551e2a6da0047]: Commencement: Rule 148 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-96f8acfa4f2d725f609551e2a6da0047]: Commencement: Rule 148 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Extension of general powers of trustees[^key-c8ce485fa3bafdaa8f2913cdd67eb664]
+## 93. Extension of general powers of trustees[^c-c8ce485fa3bafdaa8f2913cdd67eb664]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8ce485fa3bafdaa8f2913cdd67eb664]: Commencement: S. 93 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-c8ce485fa3bafdaa8f2913cdd67eb664]: Commencement: S. 93 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)

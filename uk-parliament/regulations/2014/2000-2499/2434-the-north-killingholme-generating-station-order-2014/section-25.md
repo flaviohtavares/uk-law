@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Temporary use of land for carrying out the authorised development[^key-7b3660cc95c685e9cdaf76aef46b31e5]
+## 25. Temporary use of land for carrying out the authorised development[^c-7b3660cc95c685e9cdaf76aef46b31e5]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b3660cc95c685e9cdaf76aef46b31e5]: Commencement: Art. 25 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-7b3660cc95c685e9cdaf76aef46b31e5]: Commencement: Art. 25 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

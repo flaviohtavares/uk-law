@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Abandoned tips[^key-b5b64e360602c546911e1a130de5abe8]
+## 67. Abandoned tips[^c-b5b64e360602c546911e1a130de5abe8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b64e360602c546911e1a130de5abe8]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2016/427/regulation/67) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-b5b64e360602c546911e1a130de5abe8]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2016/427/regulation/67) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

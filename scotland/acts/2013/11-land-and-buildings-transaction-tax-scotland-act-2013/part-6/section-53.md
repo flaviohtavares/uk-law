@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Application of this Act to licences[^key-e4d2a5a1fb576610eb86897b01b70015]
+## 53. Application of this Act to licences[^c-e4d2a5a1fb576610eb86897b01b70015]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4d2a5a1fb576610eb86897b01b70015]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2013/11/section/53) in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
+[^c-e4d2a5a1fb576610eb86897b01b70015]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2013/11/section/53) in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)

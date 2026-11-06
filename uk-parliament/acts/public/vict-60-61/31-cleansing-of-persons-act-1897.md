@@ -29,7 +29,7 @@ Cleansing of Persons Act 1897
 
 1897 c.31
 
-An Act to permit Local Authorities to provide Cleansing and Disinfection for Persons infested with Vermin.[^c576815][^c576814][^key-d4516736c85612f83d0ee5f4768605c3]
+An Act to permit Local Authorities to provide Cleansing and Disinfection for Persons infested with Vermin.[^c576815][^c576814][^c-d4516736c85612f83d0ee5f4768605c3]
 
 \[6th August 1897\]
 
@@ -65,7 +65,7 @@ This Act may be cited as the Cleansing of Persons Act 1897.
 
 [^c576814]: Textual amendment: Act repealed (E.W.) by [Public Health Act 1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49), [s. 346](https://www.legislation.gov.uk/ukpga/1936/49/section/346), [Sch. 3 Pt. V](https://www.legislation.gov.uk/ukpga/1936/49/schedule/3/part/V) and [Public Health (London) Act 1936 (c. 50)](https://www.legislation.gov.uk/ukpga/1936/50), [Sch. 7](https://www.legislation.gov.uk/ukpga/1936/50/schedule/7)
 
-[^key-d4516736c85612f83d0ee5f4768605c3]: Textual amendment: Act repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [ss. 126(2)](https://www.legislation.gov.uk/asp/2008/5/section/126/2), [127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-d4516736c85612f83d0ee5f4768605c3]: Textual amendment: Act repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [ss. 126(2)](https://www.legislation.gov.uk/asp/2008/5/section/126/2), [127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c576816]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 

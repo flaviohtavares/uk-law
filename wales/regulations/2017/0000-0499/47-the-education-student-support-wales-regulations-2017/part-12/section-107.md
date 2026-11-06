@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Payment of grants for fees in respect of designated part-time courses beginning before 1 September 2014[^key-1ad901d3534a5c1645c73ac7aee2e455]
+## 107. Payment of grants for fees in respect of designated part-time courses beginning before 1 September 2014[^c-1ad901d3534a5c1645c73ac7aee2e455]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ad901d3534a5c1645c73ac7aee2e455]: Commencement: Reg. 107 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-1ad901d3534a5c1645c73ac7aee2e455]: Commencement: Reg. 107 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

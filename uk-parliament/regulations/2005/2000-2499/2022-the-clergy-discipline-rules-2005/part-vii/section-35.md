@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 35. Witness statements for use at a hearing before a tribunal[^key-113f142be0b6d257d68b7c334272a3b0]
+## 35. Witness statements for use at a hearing before a tribunal[^c-113f142be0b6d257d68b7c334272a3b0]
 
 *Extent: E*
 
@@ -35,7 +35,7 @@ summary: ''
 
 and shall be dated and signed by the witness.
 
-(4) A party wishing to rely on a witness statement at the hearing of the allegation of misconduct[^key-9fa5312579bd14b50320514937645f2e] shall call the witness to give oral evidence unless—
+(4) A party wishing to rely on a witness statement at the hearing of the allegation of misconduct[^c-9fa5312579bd14b50320514937645f2e] shall call the witness to give oral evidence unless—
 
 - (a) the parties agree that the witness statement may be put in evidence, or
 - (b) the witness has died, is too ill to attend or is overseas, or
@@ -59,6 +59,6 @@ the other party may put the witness statement in evidence without calling the wi
 
 ## Annotations
 
-[^key-113f142be0b6d257d68b7c334272a3b0]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2005/2022/rule/35) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-113f142be0b6d257d68b7c334272a3b0]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2005/2022/rule/35) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-9fa5312579bd14b50320514937645f2e]: Textual amendment: Words in [rule 35(4)](https://www.legislation.gov.uk/uksi/2005/2022/rule/35/4) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-9fa5312579bd14b50320514937645f2e]: Textual amendment: Words in [rule 35(4)](https://www.legislation.gov.uk/uksi/2005/2022/rule/35/4) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)

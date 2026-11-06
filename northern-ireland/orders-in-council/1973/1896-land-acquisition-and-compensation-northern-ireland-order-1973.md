@@ -27,9 +27,9 @@ summary: ''
 
 1973 No. 1896 (N.I. 21)
 
-[^key-9409ef0ac9737c1711fca39ae1a7ff0d]
+[^c-9409ef0ac9737c1711fca39ae1a7ff0d]
 
-Land Acquisition and Compensation (Northern Ireland) Order 1973[^key-fd60afd839108134104193a1a9143390]
+Land Acquisition and Compensation (Northern Ireland) Order 1973[^c-fd60afd839108134104193a1a9143390]
 
 \[13th November 1973\]
 
@@ -57,7 +57,7 @@ Land Acquisition and Compensation (Northern Ireland) Order 1973[^key-fd60afd8391
 - “cycle track” means a way constituting or comprised in a road, being a way over which the public have the following, but no other, rights of way, that is to say, a right of way on pedal cycles with or without a right of way on foot;
 - “disturbance payment” has the meaning assigned to it by Article 37(1);
 - “dwelling” means a building or part of a building occupied or (if not occupied) last occupied or intended to be occupied as a private dwelling and (except in Article 30) includes any garden, yard, outhouses and appurtenances belonging to or usually enjoyed with that building or part;
-- [^key-b5e119b6e037f795220337819b54f27b]...
+- [^c-b5e119b6e037f795220337819b54f27b]...
 - “home loss payment” has the meaning assigned to it by Article 30(1);
 - \[[^c16835221] “housing association” has the meaning assigned to it by Article 114 of the Housing (Northern Ireland) Order 1981 [^m00004];\]
 - “Housing Executive” means the Northern Ireland Housing Executive;
@@ -312,15 +312,15 @@ and the reference in paragraph (2) to depreciation that would not have been caus
 
 ### 13. Mortgages, trusts for sale and settlements
 
-(1)[^key-66dd1b5b977cee0c9433374935a1e019][^key-ad33a885cf24fee8c30d882e9309843d] Where an interest is subject to a mortgage—
+(1)[^c-66dd1b5b977cee0c9433374935a1e019][^c-ad33a885cf24fee8c30d882e9309843d] Where an interest is subject to a mortgage—
 
 - (a) a claim may be made by any mortgagee of the interest as if he were the person entitled to that interest but without prejudice to the making of a claim by that person;
 - (b) no compensation shall by payable in respect of the interest of the mortgagee (as distinct from the interest which is subject to the mortgage);
 - (c) any compensation which is payable in respect of the interest which is subject to the mortgage shall be paid to the mortgagee or, if there is more than one mortgagee, to the first mortgagee and shall in either case be applied by him as if it were proceeds of sale.
 
-(2)[^key-66dd1b5b977cee0c9433374935a1e019][^key-ad33a885cf24fee8c30d882e9309843d] Where the interest is held on trust for sale the compensation shall be dealt with as if it were proceeds of sale arising under the trust.
+(2)[^c-66dd1b5b977cee0c9433374935a1e019][^c-ad33a885cf24fee8c30d882e9309843d] Where the interest is held on trust for sale the compensation shall be dealt with as if it were proceeds of sale arising under the trust.
 
-(3)[^key-66dd1b5b977cee0c9433374935a1e019][^key-ad33a885cf24fee8c30d882e9309843d] Where the interest is settled land for the purposes of the Settled Land Acts 1882 to 1890 the compensation shall be treated as capital money arising under those Acts.
+(3)[^c-66dd1b5b977cee0c9433374935a1e019][^c-ad33a885cf24fee8c30d882e9309843d] Where the interest is settled land for the purposes of the Settled Land Acts 1882 to 1890 the compensation shall be treated as capital money arising under those Acts.
 
 (4) Where an interest in land is vested in trustees (other than a sole tenant for life within the meaning of the Settled Land Acts 1882 to 1890) and a person beneficially entitled (whether directly or derivatively) under the trusts is entitled or permitted by reason of his interest to occupy the land, Article 5 shall have effect as if occupation by that person were occupation by the trustees in right of the interest vested in them.
 
@@ -688,7 +688,7 @@ and references in this paragraph and paragraph (3A) to a dwelling include a refe
 
 (7) In this Article “caravan site” means land on which a caravan is stationed for the purpose of human habitation and land which is used in conjunction with land on which a caravan is so stationed.
 
-### Other loss payments[^key-11f6c1a1fb559c29b12f1ac02bdc7764]
+### Other loss payments[^c-11f6c1a1fb559c29b12f1ac02bdc7764]
 
 #### 33A. Basic loss payment
 
@@ -716,7 +716,7 @@ and references in this paragraph and paragraph (3A) to a dwelling include a refe
 
 (7) If rule (5) in Article 6(1) of the Land Compensation (Northern Ireland) Order 1982 (equivalent reinstatement) applies for the purpose of assessing the amount of compensation the value of the interest is nil.
 
-#### 33B. Occupier's loss payment: agricultural land[^key-f8ce26a3fd315f945591860aaffa63ae]
+#### 33B. Occupier's loss payment: agricultural land[^c-f8ce26a3fd315f945591860aaffa63ae]
 
 (1) This Article applies to a person if—
 
@@ -788,7 +788,7 @@ and references in this paragraph and paragraph (3A) to a dwelling include a refe
 
 (11) The gross floor space must be measured externally.
 
-#### 33D. Claims[^key-fe8d9107a7d7bc8454647f52f917967c]
+#### 33D. Claims[^c-fe8d9107a7d7bc8454647f52f917967c]
 
 (1) This Article applies for the purposes of Articles 33A to 33C.
 
@@ -888,19 +888,19 @@ and references in this paragraph and paragraph (3A) to a dwelling include a refe
 
 ### Farm loss payments
 
-#### 34. Right to farm loss payment where person displaced from agricultural unit[^key-66c2dcb1e9da1eacc0d7a7e3586c3fd4]
+#### 34. Right to farm loss payment where person displaced from agricultural unit[^c-66c2dcb1e9da1eacc0d7a7e3586c3fd4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Amount of farm loss payment[^key-66c2dcb1e9da1eacc0d7a7e3586c3fd4]
+#### 35. Amount of farm loss payment[^c-66c2dcb1e9da1eacc0d7a7e3586c3fd4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 36. Supplementary provisions about farm loss payments[^key-66c2dcb1e9da1eacc0d7a7e3586c3fd4]
+#### 36. Supplementary provisions about farm loss payments[^c-66c2dcb1e9da1eacc0d7a7e3586c3fd4]
 
 **No longer in force.**
 
@@ -997,7 +997,7 @@ for making those modifications, the amount of the disturbance payment shall incl
 
 ### Other payments
 
-#### 39. Payments for certain Housing Executive tenants[^c16836411][^key-6574c82aa8d6532ad344274cea3f004d]
+#### 39. Payments for certain Housing Executive tenants[^c16836411][^c-6574c82aa8d6532ad344274cea3f004d]
 
 (1) Where the tenant of a dwelling provided by the Housing Executive moves to another dwelling, whether or not that dwelling also belongs to the Housing Executive[^c16836421], the Housing Executive—
 
@@ -1073,7 +1073,7 @@ and a person shall not be treated as displaced in consequence of any housing ord
 
 the Housing Executive for the purposes of that Article may advance money to him for the purpose of enabling him to acquire or construct the other dwelling.
 
-(2)[^key-09ad29c864327e1e4c4c2375e8a53018] The power conferred by this Article shall be exercisable subject to such conditions as may be approved by the Ministry of Development[^c16836531] and the following provisions shall apply with respect to any advance made in the exercise of that power.
+(2)[^c-09ad29c864327e1e4c4c2375e8a53018] The power conferred by this Article shall be exercisable subject to such conditions as may be approved by the Ministry of Development[^c16836531] and the following provisions shall apply with respect to any advance made in the exercise of that power.
 
 (3) The advance shall be made—
 
@@ -1103,7 +1103,7 @@ the Housing Executive for the purposes of that Article may advance money to him 
 
 (1) Where the Housing Executive provides or secures the provision of accommodation for any person in pursuance of paragraph (1)( *a*) or ( *c*) of Article 40, then, the displacing authority shall make to the Housing Executive periodical payments or, if the Housing Executive so requires, a lump sum payment, by way of indemnity against any net loss incurred by the Housing Executive in respect of the provision of that accommodation.
 
-(2)[^key-f8ea61cea8b594e5f71a380995293057] The Ministry of Development[^c16836541] may—
+(2)[^c-f8ea61cea8b594e5f71a380995293057] The Ministry of Development[^c16836541] may—
 
 - (a) for the purposes of paragraph (1) determine a method to be used generally in calculating net losses incurred by the Housing Executive;
 - (b) for the purposes of that paragraph, determine the net loss incurred by the Housing Executive in any particular case;
@@ -1155,7 +1155,7 @@ the compensation payable to that person in respect of the compulsory acquisition
 
 - (a) as if paragraph (1)( *a*) required—
   - (i) each shareholder, other than a minority shareholder, to be an individual who has attained the age of sixty on the date there mentioned; and
-  - (ii) each minority shareholder to be an individual who either has attained that age on that date or is the spouse or civil partner[^key-9c757bc54b84e1181e845b30e78a288a] of a shareholder who has attained that age on that date; and
+  - (ii) each minority shareholder to be an individual who either has attained that age on that date or is the spouse or civil partner[^c-9c757bc54b84e1181e845b30e78a288a] of a shareholder who has attained that age on that date; and
 - (b) as if the undertaking mentioned in paragraph (3)( *b*) were required to be given both by the company and by each shareholder.
 
 (7) This Article shall apply in relation to any disturbance payment assessed in accordance with Article 38(1)( *b*) as it applies in relation to the compensation mentioned in paragraph (1), and shall so apply subject to the necessary modifications and as if references to the giving up of possession of land to the acquiring authority in consequence of its compulsory acquisition were references to displacement as mentioned in Article 37.
@@ -1390,9 +1390,9 @@ Article 65(3).
 
 ## Annotations
 
-[^key-9409ef0ac9737c1711fca39ae1a7ff0d]: Modification: Order (except arts. 39, 42(2), 43(2)): transfer of functions (8.5.2016) from Department of the Environment to Department for Infrastructure by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9409ef0ac9737c1711fca39ae1a7ff0d]: Modification: Order (except arts. 39, 42(2), 43(2)): transfer of functions (8.5.2016) from Department of the Environment to Department for Infrastructure by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-fd60afd839108134104193a1a9143390]: Modification: Order construed as one with 2016 c. 28 (N.I.) (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016 (c. 28 (N.I.))](https://www.legislation.gov.uk/nia/2016/28), [s. 5](https://www.legislation.gov.uk/nia/2016/28/section/5) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
+[^c-fd60afd839108134104193a1a9143390]: Modification: Order construed as one with 2016 c. 28 (N.I.) (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016 (c. 28 (N.I.))](https://www.legislation.gov.uk/nia/2016/28), [s. 5](https://www.legislation.gov.uk/nia/2016/28/section/5) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
 
 [^m00001]: Marginal citation: 1954 c.33
 
@@ -1402,7 +1402,7 @@ Article 65(3).
 
 [^c16835201]: Textual amendment: [1994 NI 1](https://www.legislation.gov.uk/nisi/1994)
 
-[^key-b5e119b6e037f795220337819b54f27b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1973/1896/article/2/2) repealed (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 6(a)](https://www.legislation.gov.uk/nia/2016/28/section/6/a), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
+[^c-b5e119b6e037f795220337819b54f27b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1973/1896/article/2/2) repealed (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 6(a)](https://www.legislation.gov.uk/nia/2016/28/section/6/a), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
 
 [^c16835221]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
@@ -1448,9 +1448,9 @@ Article 65(3).
 
 [^c16835471]: Textual amendment: i.e. 13.12.1973
 
-[^key-66dd1b5b977cee0c9433374935a1e019]: Modification: [Art. 13(1)-(3)](https://www.legislation.gov.uk/nisi/1973/1896/article/13/1) applied by 2003 c. 21, Sch. 3A para. 84(6) (as inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/2)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b))
+[^c-66dd1b5b977cee0c9433374935a1e019]: Modification: [Art. 13(1)-(3)](https://www.legislation.gov.uk/nisi/1973/1896/article/13/1) applied by 2003 c. 21, Sch. 3A para. 84(6) (as inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/2)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b))
 
-[^key-ad33a885cf24fee8c30d882e9309843d]: Modification: [Art. 13(1)-(3)](https://www.legislation.gov.uk/nisi/1973/1896/article/13/1) applied (by S.I. 1996/725 (N.I.), art. 18B 18C (as inserted) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/64/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6)))
+[^c-ad33a885cf24fee8c30d882e9309843d]: Modification: [Art. 13(1)-(3)](https://www.legislation.gov.uk/nisi/1973/1896/article/13/1) applied (by S.I. 1996/725 (N.I.), art. 18B 18C (as inserted) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/64/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6)))
 
 [^m00014]: Marginal citation: 1971 c.7
 
@@ -1512,13 +1512,13 @@ Article 65(3).
 
 [^c16836111]: Textual amendment: [1992 NI 8](https://www.legislation.gov.uk/nisi/1992)
 
-[^key-11f6c1a1fb559c29b12f1ac02bdc7764]: Textual amendment: Art. 33A and preceding cross-heading inserted (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 1](https://www.legislation.gov.uk/nia/2016/28/section/1), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
+[^c-11f6c1a1fb559c29b12f1ac02bdc7764]: Textual amendment: Art. 33A and preceding cross-heading inserted (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 1](https://www.legislation.gov.uk/nia/2016/28/section/1), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
 
-[^key-f8ce26a3fd315f945591860aaffa63ae]: Textual amendment: Arts. 33B-33C inserted (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 2](https://www.legislation.gov.uk/nia/2016/28/section/2), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
+[^c-f8ce26a3fd315f945591860aaffa63ae]: Textual amendment: Arts. 33B-33C inserted (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 2](https://www.legislation.gov.uk/nia/2016/28/section/2), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
 
-[^key-fe8d9107a7d7bc8454647f52f917967c]: Textual amendment: Arts. 33D-33I inserted (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 3](https://www.legislation.gov.uk/nia/2016/28/section/3), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
+[^c-fe8d9107a7d7bc8454647f52f917967c]: Textual amendment: Arts. 33D-33I inserted (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 3](https://www.legislation.gov.uk/nia/2016/28/section/3), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
 
-[^key-66c2dcb1e9da1eacc0d7a7e3586c3fd4]: Textual amendment: [Arts. 34-36](https://www.legislation.gov.uk/nisi/1973/1896/article/34) repealed (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 6(b)](https://www.legislation.gov.uk/nia/2016/28/section/6/b), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
+[^c-66c2dcb1e9da1eacc0d7a7e3586c3fd4]: Textual amendment: [Arts. 34-36](https://www.legislation.gov.uk/nisi/1973/1896/article/34) repealed (13.5.2016) by [Land Acquisition and Compensation (Amendment) Act (NorthernIreland) 2016 (c. 28)](https://www.legislation.gov.uk/nia/2016/28), [ss. 6(b)](https://www.legislation.gov.uk/nia/2016/28/section/6/b), [7(2)](https://www.legislation.gov.uk/nia/2016/28/section/7/2) (with [s. 7(3)](https://www.legislation.gov.uk/nia/2016/28/section/7/3))
 
 [^c16836251]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
@@ -1540,7 +1540,7 @@ Article 65(3).
 
 [^c16836411]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-6574c82aa8d6532ad344274cea3f004d]: Modification: Art. 39: transfer of functions (8.5.2016) from Department of the Environment to Department for Communities by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6574c82aa8d6532ad344274cea3f004d]: Modification: Art. 39: transfer of functions (8.5.2016) from Department of the Environment to Department for Communities by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c16836421]: Textual amendment: [1983 NI 15](https://www.legislation.gov.uk/nisi/1983)
 
@@ -1558,11 +1558,11 @@ Article 65(3).
 
 [^c16836521]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-09ad29c864327e1e4c4c2375e8a53018]: Modification: Art. 42(2): transfer of functions (8.5.2016) from Department of the Environment to Department for Communities by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-09ad29c864327e1e4c4c2375e8a53018]: Modification: Art. 42(2): transfer of functions (8.5.2016) from Department of the Environment to Department for Communities by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c16836531]: Textual amendment: Now D/Env., SRO (NI) 1973/504; [1976 NI 6](https://www.legislation.gov.uk/nisi/1976)
 
-[^key-f8ea61cea8b594e5f71a380995293057]: Modification: Art. 43(2): transfer of functions (8.5.2016) from Department of the Environment to Department for Communities by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f8ea61cea8b594e5f71a380995293057]: Modification: Art. 43(2): transfer of functions (8.5.2016) from Department of the Environment to Department for Communities by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c16836541]: Textual amendment: Now D/Env., SRO (NI) 1973/504; [1976 NI 6](https://www.legislation.gov.uk/nisi/1976)
 
@@ -1574,7 +1574,7 @@ Article 65(3).
 
 [^c16836601]: Textual amendment: [1981 NI 16](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-9c757bc54b84e1181e845b30e78a288a]: Textual amendment: Words in [art. 47(6)(a)(ii)](https://www.legislation.gov.uk/nisi/1973/1896/article/47/6/a/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [131](https://www.legislation.gov.uk/uksi/2019/1514/regulation/131) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-9c757bc54b84e1181e845b30e78a288a]: Textual amendment: Words in [art. 47(6)(a)(ii)](https://www.legislation.gov.uk/nisi/1973/1896/article/47/6/a/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [131](https://www.legislation.gov.uk/uksi/2019/1514/regulation/131) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16836661]: Textual amendment: Rep. with saving [1982 NI 9](https://www.legislation.gov.uk/1982/ni9)
 

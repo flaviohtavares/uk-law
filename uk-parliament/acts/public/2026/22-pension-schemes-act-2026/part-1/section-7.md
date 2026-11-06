@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendments of 2013 Act relating to scheme regulations[^key-bd66e94a3e35601e938ffa21104a5937]
+## 7. Amendments of 2013 Act relating to scheme regulations[^c-bd66e94a3e35601e938ffa21104a5937]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd66e94a3e35601e938ffa21104a5937]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/22/section/7) in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-bd66e94a3e35601e938ffa21104a5937]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/22/section/7) in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

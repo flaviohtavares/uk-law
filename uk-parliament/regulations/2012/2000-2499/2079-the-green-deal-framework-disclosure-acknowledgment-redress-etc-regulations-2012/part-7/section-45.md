@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Intended transfers of ownership[^key-6bbe0113c1320502e09d5648a012ec25]
+## 45. Intended transfers of ownership[^c-6bbe0113c1320502e09d5648a012ec25]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Regulation 46 applies in relation to a green deal property where—
 
 ## Annotations
 
-[^key-6bbe0113c1320502e09d5648a012ec25]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2012/2079/regulation/45) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-6bbe0113c1320502e09d5648a012ec25]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2012/2079/regulation/45) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

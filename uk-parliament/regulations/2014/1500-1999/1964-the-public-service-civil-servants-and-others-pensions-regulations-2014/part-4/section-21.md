@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. When does an option in take effect[^key-0dbc8df8e46f958899eaa1e829b9c484]
+## 21. When does an option in take effect[^c-0dbc8df8e46f958899eaa1e829b9c484]
 
 *Extent: E+W+S+N.I.*
 
 (1) If P opts into this scheme in relation to service in a scheme employment for which P has a partnership pension account—
 
-- (a)[^key-84cc3cdf0adb8c46586a964f6749bec6] P becomes an active member of this scheme in relation to that service on the first day of the first pay period—
+- (a)[^c-84cc3cdf0adb8c46586a964f6749bec6] P becomes an active member of this scheme in relation to that service on the first day of the first pay period—
   - (i) after the period of two months beginning with the date on which the option is exercised; or
   - (ii) after any shorter period the scheme manager considers appropriate; and
 - (b) immediately before that date, P’s partnership pension account is closed.
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0dbc8df8e46f958899eaa1e829b9c484]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/1964/regulation/21) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-0dbc8df8e46f958899eaa1e829b9c484]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/1964/regulation/21) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-84cc3cdf0adb8c46586a964f6749bec6]: Textual amendment: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/21/1/a) substituted (with effect from 1.4.2018) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2018/537/regulation/6)
+[^c-84cc3cdf0adb8c46586a964f6749bec6]: Textual amendment: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/21/1/a) substituted (with effect from 1.4.2018) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2018/537/regulation/6)

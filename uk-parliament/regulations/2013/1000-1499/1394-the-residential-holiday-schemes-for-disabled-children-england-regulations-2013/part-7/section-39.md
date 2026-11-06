@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Transitional Provisions[^key-46f82a188cf725b7a98558baf2fba717]
+## 39. Transitional Provisions[^c-46f82a188cf725b7a98558baf2fba717]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The transitional provisions in Schedule 10 apply.
 
 ## Annotations
 
-[^key-46f82a188cf725b7a98558baf2fba717]: Commencement: Reg. 39 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-46f82a188cf725b7a98558baf2fba717]: Commencement: Reg. 39 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

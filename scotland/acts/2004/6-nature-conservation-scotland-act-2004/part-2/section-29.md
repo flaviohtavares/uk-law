@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Proposals for land management orders[^key-c85c29f5c02b386702274bc63ede3f4a][^key-99b362b56cc9ba95cdfacfa5fb68b659][^key-99b362b56cc9ba95cdfacfa5fb68b659]
+## 29. Proposals for land management orders[^c-c85c29f5c02b386702274bc63ede3f4a][^c-99b362b56cc9ba95cdfacfa5fb68b659][^c-99b362b56cc9ba95cdfacfa5fb68b659]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ SNH may propose to the Scottish Ministers that they make a land management order
 
 ## Annotations
 
-[^key-c85c29f5c02b386702274bc63ede3f4a]: Commencement: S. 29 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-c85c29f5c02b386702274bc63ede3f4a]: Commencement: S. 29 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-99b362b56cc9ba95cdfacfa5fb68b659]: Modification: Pt. 2 Ch. 3 applied (with modifications) by S.I. 1994/2716, regs. 19, 21 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-99b362b56cc9ba95cdfacfa5fb68b659]: Modification: Pt. 2 Ch. 3 applied (with modifications) by S.I. 1994/2716, regs. 19, 21 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

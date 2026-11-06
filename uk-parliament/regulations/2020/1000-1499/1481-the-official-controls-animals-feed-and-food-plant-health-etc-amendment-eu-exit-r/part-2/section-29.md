@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Amendments to the Annexes[^key-ded75d69511de5a071a9c309378b9a4b]
+## 29. Amendments to the Annexes[^c-ded75d69511de5a071a9c309378b9a4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -163,7 +163,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ded75d69511de5a071a9c309378b9a4b]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-ded75d69511de5a071a9c309378b9a4b]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368801]: Marginal citation: [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482).
 

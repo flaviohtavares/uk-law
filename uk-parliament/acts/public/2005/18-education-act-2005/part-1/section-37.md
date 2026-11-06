@@ -29,8 +29,8 @@ summary: ''
   - (i) that special measures are required to be taken in relation to the school, or
   - (ii) that the school requires significant improvement.
 
-(2) Where this subsection applies, the Chief Inspector must without delay give the Assembly and the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] notice in writing stating that the case falls within paragraph (a) or (b) of subsection (1).
+(2) Where this subsection applies, the Chief Inspector must without delay give the Assembly and the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] notice in writing stating that the case falls within paragraph (a) or (b) of subsection (1).
 
 ## Annotations
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

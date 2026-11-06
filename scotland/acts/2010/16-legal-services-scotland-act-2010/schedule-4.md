@@ -24,14 +24,14 @@ summary: ''
 
 ### Application
 
-**1.**[^key-8f26c194be2722025b58193903b9d1c5][^key-83a70b7de603ca84363f8b7a62217a8f] This schedule applies where the Scottish Ministers are satisfied that an approved regulator has failed to—
+**1.**[^c-8f26c194be2722025b58193903b9d1c5][^c-83a70b7de603ca84363f8b7a62217a8f] This schedule applies where the Scottish Ministers are satisfied that an approved regulator has failed to—
 
 - (a) adhere to its internal governance arrangements (including, in particular, those relating to the independent and effective exercise of its regulatory functions), or
 - (b) comply with a direction given in accordance with schedule 2.
 
 ### Power to impose penalty
 
-**2.**[^key-8de6d9ec6b24c50d3ed26ddb9d9560c1][^key-9e2b7ab882585b1d34e8aba4650a5709] (1) The Scottish Ministers may impose on the approved regulator a penalty, in respect of a failure mentioned in paragraph 1, of an amount not exceeding the prescribed maximum.
+**2.**[^c-8de6d9ec6b24c50d3ed26ddb9d9560c1][^c-9e2b7ab882585b1d34e8aba4650a5709] (1) The Scottish Ministers may impose on the approved regulator a penalty, in respect of a failure mentioned in paragraph 1, of an amount not exceeding the prescribed maximum.
 
 (2) Here, the prescribed maximum is the maximum amount that is prescribed in regulations made by the Scottish Ministers for the purpose of this paragraph.
 
@@ -39,7 +39,7 @@ summary: ''
 
 ### Amount of penalty
 
-**3.**[^key-3ac5c33c2a12171d3172d45bb278e021][^key-a8da71b0abf407ecebf08d819767b2dd] (1) When considering the appropriate amount of a penalty to be imposed under paragraph 2, the Scottish Ministers must have regard to—
+**3.**[^c-3ac5c33c2a12171d3172d45bb278e021][^c-a8da71b0abf407ecebf08d819767b2dd] (1) When considering the appropriate amount of a penalty to be imposed under paragraph 2, the Scottish Ministers must have regard to—
 
 - (a) the seriousness of the failure,
 - (b) the nature of the failure in other respects.
@@ -56,7 +56,7 @@ summary: ''
 
 ### Notice of intention
 
-**4.**[^key-e7a9fa0dea3989b9bddeb0c449c285ce][^key-5efdca16ce306c0ea04ef103a2fe8d7c] (1) Before imposing a financial penalty, the Scottish Ministers must give the approved regulator a notice (a “notice of intention”) of their intention to do so.
+**4.**[^c-e7a9fa0dea3989b9bddeb0c449c285ce][^c-5efdca16ce306c0ea04ef103a2fe8d7c] (1) Before imposing a financial penalty, the Scottish Ministers must give the approved regulator a notice (a “notice of intention”) of their intention to do so.
 
 (2) The notice of intention must—
 
@@ -69,7 +69,7 @@ summary: ''
 
 ### Consultation
 
-**5.**[^key-31a5dbd5226bcba00a89445b0ab26d67][^key-560cd43b90cbe7f7eeebf69e859d71e7] (1) The approved regulator has 28 days beginning with the date of receipt of the notice of intention (or such longer period as the approved regulator and the Scottish Ministers may agree) to make representations to the Scottish Ministers about the proposed penalty.
+**5.**[^c-31a5dbd5226bcba00a89445b0ab26d67][^c-560cd43b90cbe7f7eeebf69e859d71e7] (1) The approved regulator has 28 days beginning with the date of receipt of the notice of intention (or such longer period as the approved regulator and the Scottish Ministers may agree) to make representations to the Scottish Ministers about the proposed penalty.
 
 (2) The Scottish Ministers must—
 
@@ -83,7 +83,7 @@ summary: ''
 
 ### Decision
 
-**6.**[^key-30ace708a9a6ce31d553946dbcb27a49][^key-f51e8dbe3219d431b315633a5fe5b446] (1) The Scottish Ministers must have regard to any representations made to them by the approved regulator, and any consultee under paragraph 5(3), when deciding whether to proceed with imposing the penalty.
+**6.**[^c-30ace708a9a6ce31d553946dbcb27a49][^c-f51e8dbe3219d431b315633a5fe5b446] (1) The Scottish Ministers must have regard to any representations made to them by the approved regulator, and any consultee under paragraph 5(3), when deciding whether to proceed with imposing the penalty.
 
 (2) The Scottish Ministers must—
 
@@ -111,7 +111,7 @@ summary: ''
 
 ### Variation of penalty
 
-**7.**[^key-a941b782633cbb8285d5b6d6f63d787d][^key-275981ff3a1ffbcc6cd1f6d47b2edf35] (1) The Scottish Ministers may, on an application from an approved regulator received within 21 days beginning with the day on which the decision notice is given to the approved regulator—
+**7.**[^c-a941b782633cbb8285d5b6d6f63d787d][^c-275981ff3a1ffbcc6cd1f6d47b2edf35] (1) The Scottish Ministers may, on an application from an approved regulator received within 21 days beginning with the day on which the decision notice is given to the approved regulator—
 
 - (a) vary the date by which the penalty requires to be paid,
 - (b) allow for the penalty to be paid by—
@@ -122,7 +122,7 @@ summary: ''
 
 ### Appeal
 
-**8.**[^key-faff66c0cda254848f6ab186ffa070fe][^key-d1c081f25f0db841a9c30726509d9a2c] (1) An approved regulator on which a financial penalty is imposed under paragraph 2 may appeal to the Court of Session against the penalty on one or more of the appeal grounds.
+**8.**[^c-faff66c0cda254848f6ab186ffa070fe][^c-d1c081f25f0db841a9c30726509d9a2c] (1) An approved regulator on which a financial penalty is imposed under paragraph 2 may appeal to the Court of Session against the penalty on one or more of the appeal grounds.
 
 (2) On an appeal under this paragraph—
 
@@ -133,7 +133,7 @@ summary: ''
 
 ### Appeal grounds
 
-**9.**[^key-e3cdb0818c7098e538673910187f9758][^key-9bd1ce909b03229fed248f0a69750a0c] The grounds for an appeal under paragraph 8 are—
+**9.**[^c-e3cdb0818c7098e538673910187f9758][^c-9bd1ce909b03229fed248f0a69750a0c] The grounds for an appeal under paragraph 8 are—
 
 - (a) that, in the circumstances of the case—
   - (i) it was not appropriate to impose the penalty, or
@@ -148,7 +148,7 @@ summary: ''
 
 ### Time for appeal
 
-**10.**[^key-c230b39980e4bbe32a13e3d29d7aaf79][^key-2ba3bfda9ded928350533f3de56c6c37] (1) An appeal under paragraph 8 is to be made—
+**10.**[^c-c230b39980e4bbe32a13e3d29d7aaf79][^c-2ba3bfda9ded928350533f3de56c6c37] (1) An appeal under paragraph 8 is to be made—
 
 - (a) within the 3 months beginning with the day on which the decision notice is given to the approved regulator, or
 - (b) where the ground of appeal is referable to something done under paragraph 7(1), within the 3 months beginning with the day on which the approved regulator is notified of the thing done.
@@ -157,13 +157,13 @@ summary: ''
 
 ### Interest
 
-**11.**[^key-3c8dbfd829fc5dd928181fc94644c279][^key-acd3e05e1bcfd16fd26121380af34ec8] (1) If the whole or part of a penalty is not paid as required in accordance with this schedule the unpaid amount carries interest at the prescribed rate.
+**11.**[^c-3c8dbfd829fc5dd928181fc94644c279][^c-acd3e05e1bcfd16fd26121380af34ec8] (1) If the whole or part of a penalty is not paid as required in accordance with this schedule the unpaid amount carries interest at the prescribed rate.
 
 (2) Here, the prescribed rate is the rate that is prescribed in regulations made by the Scottish Ministers for the purpose of this paragraph.
 
 ### Default
 
-**12.**[^key-4f995cd83426d517457771398a7e0702][^key-b831ea7b54f959fdaa1a1e7efe77910d] (1) Sub-paragraph (2) applies where the whole or part of a penalty is not paid as required in accordance with this schedule.
+**12.**[^c-4f995cd83426d517457771398a7e0702][^c-b831ea7b54f959fdaa1a1e7efe77910d] (1) Sub-paragraph (2) applies where the whole or part of a penalty is not paid as required in accordance with this schedule.
 
 (2) The Scottish Ministers may recover from the approved regulator, as a debt due to them—
 
@@ -172,50 +172,50 @@ summary: ''
 
 ## Annotations
 
-[^key-8f26c194be2722025b58193903b9d1c5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/1) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-8f26c194be2722025b58193903b9d1c5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/1) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-83a70b7de603ca84363f8b7a62217a8f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/1) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-83a70b7de603ca84363f8b7a62217a8f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/1) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-8de6d9ec6b24c50d3ed26ddb9d9560c1]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/2) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-8de6d9ec6b24c50d3ed26ddb9d9560c1]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/2) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-9e2b7ab882585b1d34e8aba4650a5709]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/2) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-9e2b7ab882585b1d34e8aba4650a5709]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/2) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-3ac5c33c2a12171d3172d45bb278e021]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/3) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-3ac5c33c2a12171d3172d45bb278e021]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/3) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-a8da71b0abf407ecebf08d819767b2dd]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/3) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-a8da71b0abf407ecebf08d819767b2dd]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/3) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-e7a9fa0dea3989b9bddeb0c449c285ce]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/4) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-e7a9fa0dea3989b9bddeb0c449c285ce]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/4) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-5efdca16ce306c0ea04ef103a2fe8d7c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/4) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-5efdca16ce306c0ea04ef103a2fe8d7c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/4) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-31a5dbd5226bcba00a89445b0ab26d67]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/5) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-31a5dbd5226bcba00a89445b0ab26d67]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/5) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-560cd43b90cbe7f7eeebf69e859d71e7]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/5) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-560cd43b90cbe7f7eeebf69e859d71e7]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/5) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-30ace708a9a6ce31d553946dbcb27a49]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/6) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-30ace708a9a6ce31d553946dbcb27a49]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/6) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-f51e8dbe3219d431b315633a5fe5b446]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/6) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-f51e8dbe3219d431b315633a5fe5b446]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/6) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-a941b782633cbb8285d5b6d6f63d787d]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/7) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-a941b782633cbb8285d5b6d6f63d787d]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/7) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-275981ff3a1ffbcc6cd1f6d47b2edf35]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/7) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-275981ff3a1ffbcc6cd1f6d47b2edf35]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/7) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-faff66c0cda254848f6ab186ffa070fe]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/8) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-faff66c0cda254848f6ab186ffa070fe]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/8) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-d1c081f25f0db841a9c30726509d9a2c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/8) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-d1c081f25f0db841a9c30726509d9a2c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/8) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-e3cdb0818c7098e538673910187f9758]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/9) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-e3cdb0818c7098e538673910187f9758]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/9) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-9bd1ce909b03229fed248f0a69750a0c]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/9) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-9bd1ce909b03229fed248f0a69750a0c]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/9) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-c230b39980e4bbe32a13e3d29d7aaf79]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/10) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-c230b39980e4bbe32a13e3d29d7aaf79]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/10) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-2ba3bfda9ded928350533f3de56c6c37]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/10) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-2ba3bfda9ded928350533f3de56c6c37]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/10) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-3c8dbfd829fc5dd928181fc94644c279]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/11) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-3c8dbfd829fc5dd928181fc94644c279]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/11) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-acd3e05e1bcfd16fd26121380af34ec8]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/11) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-acd3e05e1bcfd16fd26121380af34ec8]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/11) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-4f995cd83426d517457771398a7e0702]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/12) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-4f995cd83426d517457771398a7e0702]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/12) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-b831ea7b54f959fdaa1a1e7efe77910d]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/12) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-b831ea7b54f959fdaa1a1e7efe77910d]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/16/schedule/4/paragraph/12) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

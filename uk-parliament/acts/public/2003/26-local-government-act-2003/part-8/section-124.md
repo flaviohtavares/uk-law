@@ -27,11 +27,11 @@ In this Act—
   - (b) in relation to Wales, the National Assembly for Wales;
 - “**best value authority**” means an authority or body which is a best value authority for the purposes of Part 1 of the Local Government Act 1999 (c. 27);
 - “**financial year**” means a period of 12 months beginning with 1st April;
-- [^key-0a2a1dbb8979e694640251d1990ba142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-bfe9d0a058e14a168cc3972d9d1f03dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-0a2a1dbb8979e694640251d1990ba142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-bfe9d0a058e14a168cc3972d9d1f03dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a2a1dbb8979e694640251d1990ba142]: Textual amendment: Words in s. 124 repealed (1.10.2009) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2007/28/schedule/16/paragraph/12), [18 Pt. 17](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/17); [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 6(d)(iii)](https://www.legislation.gov.uk/uksi/2008/3110/article/6/d/iii)
+[^c-0a2a1dbb8979e694640251d1990ba142]: Textual amendment: Words in s. 124 repealed (1.10.2009) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2007/28/schedule/16/paragraph/12), [18 Pt. 17](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/17); [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 6(d)(iii)](https://www.legislation.gov.uk/uksi/2008/3110/article/6/d/iii)
 
-[^key-bfe9d0a058e14a168cc3972d9d1f03dd]: Textual amendment: Words in s. 124 omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [5(8)](https://www.legislation.gov.uk/wsi/2021/296/regulation/5/8)
+[^c-bfe9d0a058e14a168cc3972d9d1f03dd]: Textual amendment: Words in s. 124 omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [5(8)](https://www.legislation.gov.uk/wsi/2021/296/regulation/5/8)

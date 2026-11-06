@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Designation of a person by name under a designation power[^key-d6c8466f285f6d378dd1eae23274c53f][^key-c586c72b2628e63a17ba496d6d5a231d]
+## 11. Designation of a person by name under a designation power[^c-d6c8466f285f6d378dd1eae23274c53f][^c-c586c72b2628e63a17ba496d6d5a231d]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies to regulations under section 1 which authorise an appropriate Minister (“**the Minister**”) to designate persons by name.
 
-(1A)[^key-bda34fedf34980f15b7930233ceea61d] The regulations must contain provision for the Minister to be able to choose whether to designate a person under—
+(1A)[^c-bda34fedf34980f15b7930233ceea61d] The regulations must contain provision for the Minister to be able to choose whether to designate a person under—
 
 - (a) the standard procedure, or
 - (b) the urgent procedure.
 
-(2)[^key-193f3d56025ebff7480b910df4383292] The regulations must provide that under the standard procedure the Minister is prohibited from designating a person by name except where condition A is met.
+(2)[^c-193f3d56025ebff7480b910df4383292] The regulations must provide that under the standard procedure the Minister is prohibited from designating a person by name except where condition A is met.
 
 (2A) Condition A is that the Minister has reasonable grounds to suspect that that person is an involved person (see subsection (3)).
 
@@ -71,9 +71,9 @@ summary: ''
 - (a) being “owned or controlled directly or indirectly by” another person, and
 - (b) being “associated with” another person.
 
-(7) The regulations must, in relation to any case where the Minister designates a person by name under the standard procedure[^key-456e007f0571edba6420d60311d39a0a], require the information given under the provision made under section 10(3) to include a statement of reasons.
+(7) The regulations must, in relation to any case where the Minister designates a person by name under the standard procedure[^c-456e007f0571edba6420d60311d39a0a], require the information given under the provision made under section 10(3) to include a statement of reasons.
 
-(7A)[^key-de48c4aeac0f1c3bdc20d300fe481438] The regulations must, in relation to any case where the Minister designates a person by name under the urgent procedure, require the information given under the provision made under section 10(3) to include a statement—
+(7A)[^c-de48c4aeac0f1c3bdc20d300fe481438] The regulations must, in relation to any case where the Minister designates a person by name under the urgent procedure, require the information given under the provision made under section 10(3) to include a statement—
 
 - (a) that the designation is made under the urgent procedure,
 - (b) identifying the relevant provision by reference to which the Minister considers that condition B is met in relation to the person, and
@@ -84,7 +84,7 @@ summary: ''
 - (a) in a case where the designation ceases to have effect, take such steps as are reasonably practicable to inform the person that the designation has ceased to have effect, or
 - (b) in any other case, take such steps as are reasonably practicable to give the designated person a statement of reasons.
 
-(8) In subsections (7) and (7A)[^key-c11a7391d92142005c63601dfc726e04] a “**statement of reasons**” means a brief statement of the matters that the Minister knows, or has reasonable grounds to suspect, in relation to that person —[^key-1c8690952c1d65dbd654d1d58597c7e3]
+(8) In subsections (7) and (7A)[^c-c11a7391d92142005c63601dfc726e04] a “**statement of reasons**” means a brief statement of the matters that the Minister knows, or has reasonable grounds to suspect, in relation to that person —[^c-1c8690952c1d65dbd654d1d58597c7e3]
 
 - (a) in the case of a designation under the standard procedure, which have led the Minister to make the designation, and
 - (b) in the case of a designation under the urgent procedure, as a result of which the designation does not cease to have effect at the end of the period mentioned in subsection (2B)(b) or (2C) (as the case may be).
@@ -99,18 +99,18 @@ summary: ''
 
 ## Annotations
 
-[^key-d6c8466f285f6d378dd1eae23274c53f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/13/section/11) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-d6c8466f285f6d378dd1eae23274c53f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/13/section/11) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
 
-[^key-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-bda34fedf34980f15b7930233ceea61d]: Textual amendment: [S. 11(1A)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/1A) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/2), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-bda34fedf34980f15b7930233ceea61d]: Textual amendment: [S. 11(1A)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/1A) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/2), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-193f3d56025ebff7480b910df4383292]: Textual amendment: [S. 11(2)-(2F)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/2) substituted for [s. 11(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/2) (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/3), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-193f3d56025ebff7480b910df4383292]: Textual amendment: [S. 11(2)-(2F)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/2) substituted for [s. 11(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/2) (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/3), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-456e007f0571edba6420d60311d39a0a]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/7) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(4)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/4), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-456e007f0571edba6420d60311d39a0a]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/7) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(4)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/4), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-de48c4aeac0f1c3bdc20d300fe481438]: Textual amendment: [S. 11(7A)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/7B) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(5)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/5), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-de48c4aeac0f1c3bdc20d300fe481438]: Textual amendment: [S. 11(7A)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/7B) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(5)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/5), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-c11a7391d92142005c63601dfc726e04]: Textual amendment: Words in [s. 11(8)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/8) substituted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(6)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/6/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-c11a7391d92142005c63601dfc726e04]: Textual amendment: Words in [s. 11(8)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/8) substituted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(6)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/6/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-1c8690952c1d65dbd654d1d58597c7e3]: Textual amendment: [S. 11(8)(a)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/8/a)[(b)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/8/b) substituted for words (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(6)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/6/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-1c8690952c1d65dbd654d1d58597c7e3]: Textual amendment: [S. 11(8)(a)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/8/a)[(b)](https://www.legislation.gov.uk/ukpga/2018/13/section/11/8/b) substituted for words (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 58(6)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/58/6/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

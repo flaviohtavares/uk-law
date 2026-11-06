@@ -35,145 +35,145 @@ on implementing Regulation (EC) No 1177/2003 of the European Parliament and of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-17eb3da2b9447611bc6539f744597249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17eb3da2b9447611bc6539f744597249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-17eb3da2b9447611bc6539f744597249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-17eb3da2b9447611bc6539f744597249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-17eb3da2b9447611bc6539f744597249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-17eb3da2b9447611bc6539f744597249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17eb3da2b9447611bc6539f744597249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-17eb3da2b9447611bc6539f744597249]
+## ANNEX[^c-17eb3da2b9447611bc6539f744597249]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249]1.
+[^c-17eb3da2b9447611bc6539f744597249]1.
 
 Units
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249]2.
+[^c-17eb3da2b9447611bc6539f744597249]2.
 
 Modes of data collection
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249]3.
+[^c-17eb3da2b9447611bc6539f744597249]3.
 
 Reference periods
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249]4.
+[^c-17eb3da2b9447611bc6539f744597249]4.
 
 Definitions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](1)
+[^c-17eb3da2b9447611bc6539f744597249](1)
 
 Amounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](a)
+[^c-17eb3da2b9447611bc6539f744597249](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](2)
+[^c-17eb3da2b9447611bc6539f744597249](2)
 
 Bank account
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](a)
+[^c-17eb3da2b9447611bc6539f744597249](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](b)
+[^c-17eb3da2b9447611bc6539f744597249](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](3)
+[^c-17eb3da2b9447611bc6539f744597249](3)
 
 Credit/store cards
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](a)
+[^c-17eb3da2b9447611bc6539f744597249](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](b)
+[^c-17eb3da2b9447611bc6539f744597249](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](c)
+[^c-17eb3da2b9447611bc6539f744597249](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](4)
+[^c-17eb3da2b9447611bc6539f744597249](4)
 
 Source of credit and loans
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](a)
+[^c-17eb3da2b9447611bc6539f744597249](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](5)
+[^c-17eb3da2b9447611bc6539f744597249](5)
 
 Arrears
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](a)
+[^c-17eb3da2b9447611bc6539f744597249](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](b)
+[^c-17eb3da2b9447611bc6539f744597249](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](c)
+[^c-17eb3da2b9447611bc6539f744597249](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](d)
+[^c-17eb3da2b9447611bc6539f744597249](d)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](e)
+[^c-17eb3da2b9447611bc6539f744597249](e)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](6)
+[^c-17eb3da2b9447611bc6539f744597249](6)
 
 Drop in income
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](a)
+[^c-17eb3da2b9447611bc6539f744597249](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](7)
+[^c-17eb3da2b9447611bc6539f744597249](7)
 
 Financial exclusion
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](a)
+[^c-17eb3da2b9447611bc6539f744597249](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249](b)
+[^c-17eb3da2b9447611bc6539f744597249](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17eb3da2b9447611bc6539f744597249]5.
+[^c-17eb3da2b9447611bc6539f744597249]5.
 
 Transmission of data to Eurostat
 
@@ -181,4 +181,4 @@ Transmission of data to Eurostat
 
 ## Annotations
 
-[^key-17eb3da2b9447611bc6539f744597249]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 95](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/95); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17eb3da2b9447611bc6539f744597249]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 95](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/95); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

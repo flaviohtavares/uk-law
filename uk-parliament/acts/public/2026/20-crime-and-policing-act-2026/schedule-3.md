@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3 — LPB case reviews: supplementary provision[^key-bd9f7e1a1841deeb067119534fd92f6e]
+## Schedule 3 — LPB case reviews: supplementary provision[^c-bd9f7e1a1841deeb067119534fd92f6e]
 
 *Extent: E+W*
 
@@ -111,4 +111,4 @@ This is the Schedule to be inserted after [Schedule 4](https://www.legislation.g
 
 ## Annotations
 
-[^key-bd9f7e1a1841deeb067119534fd92f6e]: Commencement: Sch. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bd9f7e1a1841deeb067119534fd92f6e]: Commencement: Sch. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

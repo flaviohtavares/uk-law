@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Application of Part 1 of the 1965 Act[^key-53189a8ed9a4721d534ddeb65b19f6e3]
+## 22. Application of Part 1 of the 1965 Act[^c-53189a8ed9a4721d534ddeb65b19f6e3]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53189a8ed9a4721d534ddeb65b19f6e3]: Commencement: Art. 22 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-53189a8ed9a4721d534ddeb65b19f6e3]: Commencement: Art. 22 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00026]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

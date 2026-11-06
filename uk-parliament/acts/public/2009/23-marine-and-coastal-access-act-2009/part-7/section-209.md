@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Register of licences[^key-56d13a2f72a1e5eb2ae522f90ac0c213]
+## 209. Register of licences[^c-56d13a2f72a1e5eb2ae522f90ac0c213]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ After section 4 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (licensing pow
 
 ## Annotations
 
-[^key-56d13a2f72a1e5eb2ae522f90ac0c213]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2009/23/section/209) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-56d13a2f72a1e5eb2ae522f90ac0c213]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2009/23/section/209) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

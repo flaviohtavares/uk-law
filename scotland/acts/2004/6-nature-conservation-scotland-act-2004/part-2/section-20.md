@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Byelaws[^key-765bd6a4431545a34eadf73e26a12d31]
+## 20. Byelaws[^c-765bd6a4431545a34eadf73e26a12d31]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-765bd6a4431545a34eadf73e26a12d31]: Commencement: S. 20 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-765bd6a4431545a34eadf73e26a12d31]: Commencement: S. 20 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

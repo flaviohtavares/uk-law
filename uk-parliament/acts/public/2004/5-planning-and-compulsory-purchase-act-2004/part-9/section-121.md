@@ -34,7 +34,7 @@ summary: ''
 
 (3) And the Secretary of State must not make an order which relates to section 91 unless he first consults and has the agreement of the Scottish Ministers.
 
-(3A)[^key-565cff769fec6b52257b61c759244ee8] Subsections (1) and (2) are subject to subsection (3B).
+(3A)[^c-565cff769fec6b52257b61c759244ee8] Subsections (1) and (2) are subject to subsection (3B).
 
 (3B) Section 43 (power to decline to determine applications) (so far as not in force on the day on which paragraph 7 of Schedule 7 of the Planning Act 2008 comes into force) comes into force on such day as may be appointed by order made by—
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-565cff769fec6b52257b61c759244ee8]: Textual amendment: S. 121(3A)(3B) inserted (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/29/schedule/7/paragraph/7) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))
+[^c-565cff769fec6b52257b61c759244ee8]: Textual amendment: S. 121(3A)(3B) inserted (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/29/schedule/7/paragraph/7) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))

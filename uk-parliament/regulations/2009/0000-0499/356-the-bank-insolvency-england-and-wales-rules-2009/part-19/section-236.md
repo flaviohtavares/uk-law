@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 236. Use of proxies at meetings[^key-715fd18dfdde9ef463c6982cb4818698]
+## 236. Use of proxies at meetings[^c-715fd18dfdde9ef463c6982cb4818698]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.3 of the 1986 Rules. Ignore paragraph (2).
 
 ## Annotations
 
-[^key-715fd18dfdde9ef463c6982cb4818698]: Commencement: Rule 236 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-715fd18dfdde9ef463c6982cb4818698]: Commencement: Rule 236 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

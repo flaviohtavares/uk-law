@@ -23,7 +23,7 @@ summary: ''
 (1) The Department may make grants or loans to any body or person for the purposes of or in connection with—
 
 - (a) carrying out an air quality review;
-- (b) carrying out an assessment under Article 11 [^key-5e5e74432965828a95d61a4483188edd]...;
+- (b) carrying out an assessment under Article 11 [^c-5e5e74432965828a95d61a4483188edd]...;
 - (c) preparing and implementing an action plan; and
 - (d) the assessment or management of the quality of air.
 
@@ -36,4 +36,4 @@ as may be determined by the Department.
 
 ## Annotations
 
-[^key-5e5e74432965828a95d61a4483188edd]: Textual amendment: Words in art. 18(1)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(3)](https://www.legislation.gov.uk/nia/2016/13/section/18/3), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)
+[^c-5e5e74432965828a95d61a4483188edd]: Textual amendment: Words in art. 18(1)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(3)](https://www.legislation.gov.uk/nia/2016/13/section/18/3), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)

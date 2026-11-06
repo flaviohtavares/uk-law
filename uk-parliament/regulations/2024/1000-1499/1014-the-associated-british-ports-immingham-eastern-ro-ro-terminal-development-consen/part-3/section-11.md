@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Time limit for exercise of powers of compulsory acquisition[^key-9a1aa70a11afbfa65c7251dc0652d523]
+## 11. Time limit for exercise of powers of compulsory acquisition[^c-9a1aa70a11afbfa65c7251dc0652d523]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ in relation to any part of the Order land.
 
 ## Annotations
 
-[^key-9a1aa70a11afbfa65c7251dc0652d523]: Commencement: Art. 11 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-9a1aa70a11afbfa65c7251dc0652d523]: Commencement: Art. 11 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

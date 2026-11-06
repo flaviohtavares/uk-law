@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Extent[^key-be67b855018a5ff3599a4604cd4f7015]
+## 2. Extent[^c-be67b855018a5ff3599a4604cd4f7015]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be67b855018a5ff3599a4604cd4f7015]: Commencement: Reg. 2 in force at 31.12.2020 immediately before the coming into force of regulation 2(1) of the Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020, see reg. 1(3)
+[^c-be67b855018a5ff3599a4604cd4f7015]: Commencement: Reg. 2 in force at 31.12.2020 immediately before the coming into force of regulation 2(1) of the Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020, see reg. 1(3)

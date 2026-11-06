@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42C. Recovery of Overpayments[^key-b430676e018ee20ce77da71e6bf3fd59]
+## 42C. Recovery of Overpayments[^c-b430676e018ee20ce77da71e6bf3fd59]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where an amount is owed to the Secretary of State under article 42B(2), that amo
 
 ## Annotations
 
-[^key-b430676e018ee20ce77da71e6bf3fd59]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2011/517/part/5A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [43](https://www.legislation.gov.uk/uksi/2023/998/regulation/43)
+[^c-b430676e018ee20ce77da71e6bf3fd59]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2011/517/part/5A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [43](https://www.legislation.gov.uk/uksi/2023/998/regulation/43)

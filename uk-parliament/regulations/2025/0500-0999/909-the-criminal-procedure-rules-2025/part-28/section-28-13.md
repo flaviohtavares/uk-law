@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.13. Sentencing, etc. after committal to the Crown Court[^key-4359b34c58803263131818d6b37d02d6]
+## 28.13. Sentencing, etc. after committal to the Crown Court[^c-4359b34c58803263131818d6b37d02d6]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4359b34c58803263131818d6b37d02d6]: Commencement: [Rule 28.13](https://www.legislation.gov.uk/uksi/2025/909/rule/28.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4359b34c58803263131818d6b37d02d6]: Commencement: [Rule 28.13](https://www.legislation.gov.uk/uksi/2025/909/rule/28.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00692]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17); section 19 was amended by section 46 of, and paragraph 26 of Schedule 13 to, the Counter-Terrorism and Sentencing Act [2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11).
 

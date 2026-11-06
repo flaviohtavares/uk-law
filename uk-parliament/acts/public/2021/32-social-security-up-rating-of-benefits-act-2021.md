@@ -36,7 +36,7 @@ An Act to make provision relating to the up-rating of certain social security be
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Up-rating of state pension and certain other benefits following review in tax year 2021-22[^key-1cf0ced1416e6d533114bfb6dcc64c9a]
+## 1. Up-rating of state pension and certain other benefits following review in tax year 2021-22[^c-1cf0ced1416e6d533114bfb6dcc64c9a]
 
 (1) In relation to the tax year ending with 5 April 2022, the amounts referred to in subsection (1) of section 150A of the Social Security Administration Act 1992 (annual up-rating of basic pension etc and standard minimum guarantee) are to be reviewed as if that subsection required a review by reference to the general level of prices obtaining in Great Britain (instead of the general level of earnings obtaining in Great Britain).
 
@@ -64,7 +64,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (d) in subsection (4), after “(2)” there were inserted “or (2A)”;
 - (e) in subsection (8), for “earnings” there were substituted “prices”.
 
-## 2. Extent, commencement and short title[^key-db51e1c684092ca8434a643e07ee92d8]
+## 2. Extent, commencement and short title[^c-db51e1c684092ca8434a643e07ee92d8]
 
 (1) This Act extends to England and Wales and Scotland only.
 
@@ -74,6 +74,6 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-1cf0ced1416e6d533114bfb6dcc64c9a]: Commencement: S. 1 in force at 17.11.2021, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2021/32/section/2/2)
+[^c-1cf0ced1416e6d533114bfb6dcc64c9a]: Commencement: S. 1 in force at 17.11.2021, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2021/32/section/2/2)
 
-[^key-db51e1c684092ca8434a643e07ee92d8]: Commencement: S. 2 in force at 17.11.2021, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2021/32/section/2/2)
+[^c-db51e1c684092ca8434a643e07ee92d8]: Commencement: S. 2 in force at 17.11.2021, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2021/32/section/2/2)

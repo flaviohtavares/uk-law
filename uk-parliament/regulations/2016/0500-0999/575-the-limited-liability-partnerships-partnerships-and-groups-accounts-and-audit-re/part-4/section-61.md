@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amendments to Schedule 4 (general interpretation)[^key-7fd0d9accd0555b2749535ea9dfdd3df]
+## 61. Amendments to Schedule 4 (general interpretation)[^c-7fd0d9accd0555b2749535ea9dfdd3df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In paragraph 2(1) of Schedule 4 (definitions of financial instruments), for the 
 
 ## Annotations
 
-[^key-7fd0d9accd0555b2749535ea9dfdd3df]: Commencement: Reg. 61 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-7fd0d9accd0555b2749535ea9dfdd3df]: Commencement: Reg. 61 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00047]: Footnote: OJ No L 182, 29.6.13, p. 19, as last amended by Council [Directive 2014/102/EU](https://www.legislation.gov.uk/european/directive/2014/0102).
 

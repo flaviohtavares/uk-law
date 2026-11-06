@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92A. Convertible securities etc: debtor relationships[^key-d363a52d55d59c235cdd74fcd0a198ea]
+## 92A. Convertible securities etc: debtor relationships[^c-d363a52d55d59c235cdd74fcd0a198ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d363a52d55d59c235cdd74fcd0a198ea]: Textual amendment: S. 92A repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/10), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-d363a52d55d59c235cdd74fcd0a198ea]: Textual amendment: S. 92A repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/10), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)

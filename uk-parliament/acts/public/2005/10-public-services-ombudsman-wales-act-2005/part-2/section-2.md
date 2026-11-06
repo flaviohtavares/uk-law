@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Ombudsman may investigate a complaint under this Part[^key-56bca8ff8ff6cd7e2a476d5a5ac3353a] in respect of a matter if—
+(1) The Ombudsman may investigate a complaint under this Part[^c-56bca8ff8ff6cd7e2a476d5a5ac3353a] in respect of a matter if—
 
 - (a) the complaint has been duly made or referred to him, and
 - (b) the matter is one which he is entitled to investigate under sections 7 to 11.
@@ -35,7 +35,7 @@ summary: ''
 - (a) it is referred to him by a listed authority, and
 - (b) the requirements of section 6 are met in respect of it.
 
-(4) The Ombudsman may investigate a complaint under this Part[^key-cb9b5bcf2b11f621ee01fdcc98a36eae] in respect of a matter even if the requirements of section 5(1) or (as the case may be) section 6(1)(b) or (d) are not met in respect of the complaint, if—
+(4) The Ombudsman may investigate a complaint under this Part[^c-cb9b5bcf2b11f621ee01fdcc98a36eae] in respect of a matter even if the requirements of section 5(1) or (as the case may be) section 6(1)(b) or (d) are not met in respect of the complaint, if—
 
 - (a) the matter is one which he is entitled to investigate under sections 7 to 11, and
 - (b) he thinks it reasonable to do so.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56bca8ff8ff6cd7e2a476d5a5ac3353a]: Textual amendment: Words in s. 2(1) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/15/a); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-56bca8ff8ff6cd7e2a476d5a5ac3353a]: Textual amendment: Words in s. 2(1) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/15/a); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-cb9b5bcf2b11f621ee01fdcc98a36eae]: Textual amendment: Words in s. 2(4) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/15/b); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-cb9b5bcf2b11f621ee01fdcc98a36eae]: Textual amendment: Words in s. 2(4) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/15/b); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

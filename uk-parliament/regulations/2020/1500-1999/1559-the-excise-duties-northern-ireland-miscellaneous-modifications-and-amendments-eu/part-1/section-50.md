@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**50.**[^key-4fd3bcf4949be05cb0d07f4a92f692e0] In regulation 52—
+**50.**[^c-4fd3bcf4949be05cb0d07f4a92f692e0] In regulation 52—
 
 - (a) in paragraph (1)—
   - (i) for “another” substitute “an EU”;
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fd3bcf4949be05cb0d07f4a92f692e0]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-4fd3bcf4949be05cb0d07f4a92f692e0]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

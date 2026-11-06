@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**9.**[^key-b89420cddca67eaf1f389580aa11c73f] (1) Section 10 (children’s pension: rate and mode of payment) is amended as follows.
+**9.**[^c-b89420cddca67eaf1f389580aa11c73f] (1) Section 10 (children’s pension: rate and mode of payment) is amended as follows.
 
 (2) In subsection (2), for “or widower”, in both places, substitute “, widower or surviving civil partner”.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b89420cddca67eaf1f389580aa11c73f]: Commencement: Art. 9 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-b89420cddca67eaf1f389580aa11c73f]: Commencement: Art. 9 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

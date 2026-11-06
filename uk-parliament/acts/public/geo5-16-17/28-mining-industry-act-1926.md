@@ -47,7 +47,7 @@ An Act to make provision for facilitating the working of minerals and the better
 
 ## Part VI — Miscellaneous and General
 
-### 20. Power of coal-mining companies to establish profit sharing schemes.[^key-d74613c90b98da3d5bb0013c05d7c26a]
+### 20. Power of coal-mining companies to establish profit sharing schemes.[^c-d74613c90b98da3d5bb0013c05d7c26a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,9 +55,9 @@ An Act to make provision for facilitating the working of minerals and the better
 
 ### 22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5876841]
 
-### 23. Facilities to be given to United Kingdom Research and Innovation.[^c5877541][^key-3165ea6c0bee72bee9d498a1abc40e66]
+### 23. Facilities to be given to United Kingdom Research and Innovation.[^c5877541][^c-3165ea6c0bee72bee9d498a1abc40e66]
 
-(1) Before any person sinks, for the purpose of searching for or getting any minerals, a shaft or borehole intended to reach a depth of more than 30.480 metres[^c5877561] below the surface, he shall give to United Kingdom Research and Innovation[^key-b79adb82ae0d058b809cf519887b85cd] (hereinafter referred to as “UKRI[^M_F_12aab045-761f-43e2-aa12-6ceb7647c878]”) notice in writing of his intention to do so, and any person who for such a purpose sinks any such shaft or borehole shall keep a journal thereof, and shall retain for a period of not less than six months such specimens of the strata passed through as may have been obtained in the course of the sinking thereof, either as cores or fragments, and shall allow UKRI, or any officer appointed by them, to have free access at all reasonable times to any such shaft, borehole or core, to inspect and take copies of the journals of such shafts or boreholes, to inspect all specimens so obtained and kept, and to take representative specimens of any such cores.
+(1) Before any person sinks, for the purpose of searching for or getting any minerals, a shaft or borehole intended to reach a depth of more than 30.480 metres[^c5877561] below the surface, he shall give to United Kingdom Research and Innovation[^c-b79adb82ae0d058b809cf519887b85cd] (hereinafter referred to as “UKRI[^M_F_12aab045-761f-43e2-aa12-6ceb7647c878]”) notice in writing of his intention to do so, and any person who for such a purpose sinks any such shaft or borehole shall keep a journal thereof, and shall retain for a period of not less than six months such specimens of the strata passed through as may have been obtained in the course of the sinking thereof, either as cores or fragments, and shall allow UKRI, or any officer appointed by them, to have free access at all reasonable times to any such shaft, borehole or core, to inspect and take copies of the journals of such shafts or boreholes, to inspect all specimens so obtained and kept, and to take representative specimens of any such cores.
 
 (2) If the person sinking any such shaft or borehole as aforesaid gives notice in writing to UKRI requiring them to treat as confidential any copies of journals or specimens so taken by UKRI or by any officer appointed by them, UKRI shall not allow those copies or specimens to be published or shown to any person not being an officer of UKRI, except with the consent of the person sinking such shaft or borehole:
 
@@ -67,7 +67,7 @@ Provided that, if at any time UKRI give notice to any person from whom such cons
 
 (4) If any person sinking any shaft or borehole, or the owner, [^c5877681]... or manager of any mine fails to comply with any obligation imposed on him by the foregoing provisions of this section, he shall, in respect of each offence, be liable on summary conviction to a fine not exceeding [^c5877971]level 3 on the standard scale[^c5877731].
 
-(5)[^c5877741] Any officer appointed by UKRI[^key-d06878c7163638b12a6e986f567d19b4] shall have the same rights as to the production and inspection of plans, sections and drawings which, by or by virtue of the [^c5877761]Mines and Quarries Act 1954, are required to be kept, as are by that Act conferred on inspectors, and that Act shall apply accordingly.
+(5)[^c5877741] Any officer appointed by UKRI[^c-d06878c7163638b12a6e986f567d19b4] shall have the same rights as to the production and inspection of plans, sections and drawings which, by or by virtue of the [^c5877761]Mines and Quarries Act 1954, are required to be kept, as are by that Act conferred on inspectors, and that Act shall apply accordingly.
 
 (6)[^c5877771] In subsection (1) above, the expression “**minerals**” includes petroleum within the meaning of Part I of the Petroleum Act 1998.
 
@@ -99,7 +99,7 @@ Provided that, if at any time UKRI give notice to any person from whom such cons
 
 [^c5876821]: Textual amendment: [Ss 19](https://www.legislation.gov.uk/ukpga/Geo5/16-17/28/section/19) repealed by [Statute Law Revision Act 1953 (2 & 3 Eliz. 2 c. 5)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/5)
 
-[^key-d74613c90b98da3d5bb0013c05d7c26a]: Textual amendment: S. 20 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 6(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/6/1) (with [Sch. 23 para. 6(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/6/2))
+[^c-d74613c90b98da3d5bb0013c05d7c26a]: Textual amendment: S. 20 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 6(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/6/1) (with [Sch. 23 para. 6(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/6/2))
 
 [^c5876831]: Textual amendment: S. 21 repealed by [Mines and Quarries Act 1954 (c. 70)](https://www.legislation.gov.uk/ukpga/1954/70), [Sch. 5](https://www.legislation.gov.uk/ukpga/1954/70/schedule/5)
 
@@ -107,11 +107,11 @@ Provided that, if at any time UKRI give notice to any person from whom such cons
 
 [^c5877541]: Modification: Definition of “minerals” explained by [Petroleum (Production) Act 1934 (c. 36)](https://www.legislation.gov.uk/ukpga/1934/36), [s. 9](https://www.legislation.gov.uk/ukpga/1934/36/section/9)
 
-[^key-3165ea6c0bee72bee9d498a1abc40e66]: Textual amendment: Words in s. 23 heading substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 2(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/2/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 28)
+[^c-3165ea6c0bee72bee9d498a1abc40e66]: Textual amendment: Words in s. 23 heading substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 2(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/2/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 28)
 
 [^c5877561]: Textual amendment: Words in s. 23(1) substituted (1.1.1995) by [S.I. 1991/2531](https://www.legislation.gov.uk/uksi/1991/2531), [art. 2](https://www.legislation.gov.uk/uksi/1991/2531/article/2).
 
-[^key-b79adb82ae0d058b809cf519887b85cd]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/Geo5/16-17/28/section/23/1) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 2(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/2/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 28)
+[^c-b79adb82ae0d058b809cf519887b85cd]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/Geo5/16-17/28/section/23/1) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 2(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/2/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 28)
 
 [^M_F_12aab045-761f-43e2-aa12-6ceb7647c878]: Textual amendment: Words in s. 23(1)-(3) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 2(c)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/2/c); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 28)
 
@@ -127,7 +127,7 @@ Provided that, if at any time UKRI give notice to any person from whom such cons
 
 [^c5877741]: Textual amendment: S. 23(5) substituted by [Mines and Quarries Act 1954 (c. 70)](https://www.legislation.gov.uk/ukpga/1954/70), [Sch. 4](https://www.legislation.gov.uk/ukpga/1954/70/schedule/4)
 
-[^key-d06878c7163638b12a6e986f567d19b4]: Textual amendment: Words in s. 23(5) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 2(c)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/2/c); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 28)
+[^c-d06878c7163638b12a6e986f567d19b4]: Textual amendment: Words in s. 23(5) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 2(c)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/2/c); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 28)
 
 [^c5877761]: Marginal citation: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.27. Production of accounts and records to Secretary of State[^key-92db07597fdaaf40bf376b1c97fd6206]
+## 1.27. Production of accounts and records to Secretary of State[^c-92db07597fdaaf40bf376b1c97fd6206]
 
 *Extent: E+W*
 
-(1) The Secretary of State may at any time during the course of the voluntary arrangement or after its completion or termination[^key-22e82d216927c08a38b6af2a09d560e9] require the supervisor to produce for inspection—
+(1) The Secretary of State may at any time during the course of the voluntary arrangement or after its completion or termination[^c-22e82d216927c08a38b6af2a09d560e9] require the supervisor to produce for inspection—
 
 - (a) his records and accounts in respect of the arrangement, and
 - (b) copies of abstracts and reports prepared in compliance with Rule 1.26.
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92db07597fdaaf40bf376b1c97fd6206]: Commencement: Rule 1.27 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-92db07597fdaaf40bf376b1c97fd6206]: Commencement: Rule 1.27 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-22e82d216927c08a38b6af2a09d560e9]: Textual amendment: Words in rule 1.27(1) inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/17) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-22e82d216927c08a38b6af2a09d560e9]: Textual amendment: Words in rule 1.27(1) inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/17) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Monetary penalties: interest[^key-a45fe9a2d5ad762187ee93332ba28a45]
+## 40. Monetary penalties: interest[^c-a45fe9a2d5ad762187ee93332ba28a45]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a45fe9a2d5ad762187ee93332ba28a45]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2015/5/section/40) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-a45fe9a2d5ad762187ee93332ba28a45]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2015/5/section/40) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

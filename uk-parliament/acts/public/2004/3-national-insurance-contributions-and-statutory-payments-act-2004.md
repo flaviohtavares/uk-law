@@ -219,7 +219,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-(1)[^key-ed82d8bfc12605476b7e0f5f2c99ce3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ed82d8bfc12605476b7e0f5f2c99ce3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 121B(1) of that Act (time limit for compliance with certificate of non-payment of contributions, etc in Scotland), for “30 days” substitute “ 14 days ”.
 
@@ -606,7 +606,7 @@ Section 12
 
 ## Annotations
 
-[^key-ed82d8bfc12605476b7e0f5f2c99ce3f]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2004/3/section/5/1) omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 11(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/11/c); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
+[^c-ed82d8bfc12605476b7e0f5f2c99ce3f]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2004/3/section/5/1) omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 11(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/11/c); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
 
 [^c2167723]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/3/section/9) wholly in force at 6.4.2005; [s. 9](https://www.legislation.gov.uk/ukpga/2004/3/section/9) not in force at Royal Assent, see [s. 13](https://www.legislation.gov.uk/ukpga/2004/3/section/13); [s. 9(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/3/section/9/1) in force at 1.1.2005 and s. 9(4)(5) in force at 6.4.2005 by [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [arts. 3(a)](https://www.legislation.gov.uk/uksi/2004/1943/article/3/a), [4(c)](https://www.legislation.gov.uk/uksi/2004/1943/article/4/c)
 

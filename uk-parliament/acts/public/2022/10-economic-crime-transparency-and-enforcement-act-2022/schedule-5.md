@@ -22,15 +22,15 @@ summary: ''
 
 Section 33(3)
 
-**1.**[^key-e10ffd977924c2dfe1b20ba490c24afa][^key-a9623f25446a7692feab16f025287758] The Land Registration Act (Northern Ireland) 1970 is amended as follows.
+**1.**[^c-e10ffd977924c2dfe1b20ba490c24afa][^c-a9623f25446a7692feab16f025287758] The Land Registration Act (Northern Ireland) 1970 is amended as follows.
 
-**2.**[^key-e316071f4b52446987cf7b812114c274][^key-e26f9556fc708c335347cd0565163273] After section 61 insert—
+**2.**[^c-e316071f4b52446987cf7b812114c274][^c-e26f9556fc708c335347cd0565163273] After section 61 insert—
 
 > **61A. Overseas entities**
 >
 > Schedule 8A is about the ownership of registered land by overseas entities and about registrable dispositions made by them.
 
-**3.**[^key-3a2a008d19a6ba0a4920752728ecce4c][^key-668f644ec4c26c443232f20c7e7ced8c] After Schedule 8 insert—
+**3.**[^c-3a2a008d19a6ba0a4920752728ecce4c][^c-668f644ec4c26c443232f20c7e7ced8c] After Schedule 8 insert—
 
 > **SCHEDULE 8A — Overseas entities**
 >
@@ -151,14 +151,14 @@ Section 33(3)
 
 ## Annotations
 
-[^key-e10ffd977924c2dfe1b20ba490c24afa]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-e10ffd977924c2dfe1b20ba490c24afa]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-a9623f25446a7692feab16f025287758]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/1) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-a9623f25446a7692feab16f025287758]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/1) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-e316071f4b52446987cf7b812114c274]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-e316071f4b52446987cf7b812114c274]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-e26f9556fc708c335347cd0565163273]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/2) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-e26f9556fc708c335347cd0565163273]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/2) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-3a2a008d19a6ba0a4920752728ecce4c]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-3a2a008d19a6ba0a4920752728ecce4c]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-668f644ec4c26c443232f20c7e7ced8c]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/3) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-668f644ec4c26c443232f20c7e7ced8c]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/3) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

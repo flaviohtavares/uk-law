@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E21. Supplementary death grants[^key-4d8c88c51275faf072101553da4ea94a]
+## E21. Supplementary death grants[^c-4d8c88c51275faf072101553da4ea94a]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ a supplementary death grant equal to that deficiency shall be paid.
 
 ## Annotations
 
-[^key-4d8c88c51275faf072101553da4ea94a]: Commencement: Reg. E21 in operation at 2.11.1998, see reg. A1
+[^c-4d8c88c51275faf072101553da4ea94a]: Commencement: Reg. E21 in operation at 2.11.1998, see reg. A1

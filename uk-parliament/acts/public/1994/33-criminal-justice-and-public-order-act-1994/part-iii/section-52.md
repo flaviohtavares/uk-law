@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Section 9 of the Senior Courts Act 1981[^key-8246b0d25f6690507f4750cfa0d1c97f] (which provides for certain judges to act on request in courts other than that to which they were appointed) shall have effect with the amendments specified in subsections (2) to (5) below.
+(1) Section 9 of the Senior Courts Act 1981[^c-8246b0d25f6690507f4750cfa0d1c97f] (which provides for certain judges to act on request in courts other than that to which they were appointed) shall have effect with the amendments specified in subsections (2) to (5) below.
 
 (2) In subsection (1)—
 
@@ -52,7 +52,7 @@ summary: ''
 
   .
 
-(8)[^key-2c88d89cce9618108c5c0fa5045863f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-2c88d89cce9618108c5c0fa5045863f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) After the section 56A of the Senior Courts Act 1981 inserted by subsection (8) above there shall be inserted the following section—
 
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8246b0d25f6690507f4750cfa0d1c97f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-8246b0d25f6690507f4750cfa0d1c97f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c13102321]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 
-[^key-2c88d89cce9618108c5c0fa5045863f8]: Textual amendment: [S. 52(8)](https://www.legislation.gov.uk/ukpga/1994/33/section/52/8) repealed (6.4.2011) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/c)
+[^c-2c88d89cce9618108c5c0fa5045863f8]: Textual amendment: [S. 52(8)](https://www.legislation.gov.uk/ukpga/1994/33/section/52/8) repealed (6.4.2011) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.10. Disqualification from dividend[^key-0f6d8de1f4ebbecf3da96a24e4d15b07]
+## 11.10. Disqualification from dividend[^c-0f6d8de1f4ebbecf3da96a24e4d15b07]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a creditor contravenes any provision of the Act or the Rules relating to the 
 
 ## Annotations
 
-[^key-0f6d8de1f4ebbecf3da96a24e4d15b07]: Commencement: [Rule 11.10](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.10) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0f6d8de1f4ebbecf3da96a24e4d15b07]: Commencement: [Rule 11.10](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.10) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Disapplication and modification of byelaws[^key-ced203f755576bdc5fd95deb39f1cd9a]
+## 55. Disapplication and modification of byelaws[^c-ced203f755576bdc5fd95deb39f1cd9a]
 
 *Extent: E+W*
 
@@ -31,11 +31,11 @@ summary: ''
 (3) Where any person notifies the undertaker in writing that anything done or proposed to be done by the undertaker or by virtue of this Order would amount to a contravention of a statutory provision of local application, the undertaker must as soon as reasonably practicable, and at any rate within 14 days of receipt of the notice, respond in writing setting out—
 
 - (a) whether the undertaker agrees that the action taken or proposed does or would contravene the provision of local application;
-- (b) if the undertaker does agree, the grounds (if any) on which the undertaker believes that the provision is excluded [^key-10aa343eafbf54f09b57f21d4dc209b8]... by this article; and
+- (b) if the undertaker does agree, the grounds (if any) on which the undertaker believes that the provision is excluded [^c-10aa343eafbf54f09b57f21d4dc209b8]... by this article; and
 - (c) the extent of that exclusion.
 
 ## Annotations
 
-[^key-ced203f755576bdc5fd95deb39f1cd9a]: Commencement: Art. 55 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-ced203f755576bdc5fd95deb39f1cd9a]: Commencement: Art. 55 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-10aa343eafbf54f09b57f21d4dc209b8]: Textual amendment: Word in art. 55(3)(b) omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-10aa343eafbf54f09b57f21d4dc209b8]: Textual amendment: Word in art. 55(3)(b) omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

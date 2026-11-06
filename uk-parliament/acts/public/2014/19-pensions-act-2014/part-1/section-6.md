@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Recalculation and backdating of transitional rate in special cases[^key-2c0387742c49e06a96f8e84ac571f33b]
+## 6. Recalculation and backdating of transitional rate in special cases[^c-2c0387742c49e06a96f8e84ac571f33b]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c0387742c49e06a96f8e84ac571f33b]: Commencement: S. 6 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-2c0387742c49e06a96f8e84ac571f33b]: Commencement: S. 6 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

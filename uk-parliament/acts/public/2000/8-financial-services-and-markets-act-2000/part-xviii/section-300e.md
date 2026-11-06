@@ -27,12 +27,12 @@ summary: ''
 
 (2) For the purposes of those sections a variation of a proposal is treated as a new proposal.
 
-(3) Those sections do not apply to an overseas investment exchange , overseas clearing house[^key-9d17e944a9bcd3c69499d566bf237123] , recognised central counterparty or recognised CSD[^key-f7c58e8c5d8050aeab7887fbabbfd15a].
+(3) Those sections do not apply to an overseas investment exchange , overseas clearing house[^c-9d17e944a9bcd3c69499d566bf237123] , recognised central counterparty or recognised CSD[^c-f7c58e8c5d8050aeab7887fbabbfd15a].
 
 ## Annotations
 
 [^c2077187]: Textual amendment: Ss. 300B-300E inserted (20.12.2006) by [Investment Exchanges and Clearing Houses Act 2006 (c. 55)](https://www.legislation.gov.uk/ukpga/2006/55), [ss. 2](https://www.legislation.gov.uk/ukpga/2006/55/section/2), [3](https://www.legislation.gov.uk/ukpga/2006/55/section/3), [5(2)](https://www.legislation.gov.uk/ukpga/2006/55/section/5/2) (with [s. 5(3)](https://www.legislation.gov.uk/ukpga/2006/55/section/5/3))
 
-[^key-9d17e944a9bcd3c69499d566bf237123]: Textual amendment: Words in s. 300E(3) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2013/504/regulation/3/13) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-9d17e944a9bcd3c69499d566bf237123]: Textual amendment: Words in s. 300E(3) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2013/504/regulation/3/13) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
 
-[^key-f7c58e8c5d8050aeab7887fbabbfd15a]: Textual amendment: Words in s. 300E(3) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(26)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/26) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-f7c58e8c5d8050aeab7887fbabbfd15a]: Textual amendment: Words in s. 300E(3) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(26)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/26) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

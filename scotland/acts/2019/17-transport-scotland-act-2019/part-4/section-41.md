@@ -60,8 +60,8 @@ summary: ''
 
 (4) The italic heading immediately preceding section 28 becomes “ *Ticketing arrangements* ”.
 
-(5)[^key-559a90988a04dc7f90c31d8a1d6e6207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-559a90988a04dc7f90c31d8a1d6e6207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-559a90988a04dc7f90c31d8a1d6e6207]: Textual amendment: [S. 41(5)](https://www.legislation.gov.uk/asp/2019/17/section/41/5) omitted (27.11.2023) by virtue of [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/4)
+[^c-559a90988a04dc7f90c31d8a1d6e6207]: Textual amendment: [S. 41(5)](https://www.legislation.gov.uk/asp/2019/17/section/41/5) omitted (27.11.2023) by virtue of [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/4)

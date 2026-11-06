@@ -24,7 +24,7 @@ Sections 3 and 4.
 
 **1.** (1)[^c10749221] A claim for the allowance of any expenditure allowable under section 3 or 4 of this Act for an oil field may be made to the Board under this Schedule by the participator who incurred it (instead of under Schedule 5 to this Act by the responsible person for that field) if the participator satisfies the Board that, for reasons of trade secrecy, it would be unreasonable for him to have to provide the responsible person with the information necessary for the making of a claim under that Schedule.
 
-(2)[^c10749231] A claim by a participator under this Schedule for the allowance of any such expenditure incurred by him must, subject to the provisions of this Part of this Act, be made in a claim or claims for the claim period in which the expenditure is incurred, but may not be made before the determination of the field or more than 4 years[^key-62efacdcebce578fc2aa3c819a5e06e9] after the end of the claim period in which the expenditure is incurred.
+(2)[^c10749231] A claim by a participator under this Schedule for the allowance of any such expenditure incurred by him must, subject to the provisions of this Part of this Act, be made in a claim or claims for the claim period in which the expenditure is incurred, but may not be made before the determination of the field or more than 4 years[^c-62efacdcebce578fc2aa3c819a5e06e9] after the end of the claim period in which the expenditure is incurred.
 
 (3) A claim by a participator under this Schedule for the allowance of any such expenditure incurred by him before he became a participator in the field must be made in a claim for the claim period in which he became a participator.
 
@@ -46,12 +46,12 @@ Table
 | 5(1) | Omit paragraph (b). |
 | 5(3) |  |
 | 5(4) | For the reference to all or any of the participators substitute a reference to the participator by whom the claim is made. |
-| 5(5)[^key-853df9a5f06556e48f5b33f0885790e3] | — |
+| 5(5)[^c-853df9a5f06556e48f5b33f0885790e3] | — |
 | 6(1) |  |
 | 6(3) | Omit the reference to paragraph 6(2). |
 | 7 |  |
 | 8 |  |
-| 9 | [^key-3789d65f10858c68deb79bced48eb3e1]. . . |
+| 9 | [^c-3789d65f10858c68deb79bced48eb3e1]. . . |
 
 ## Annotations
 
@@ -61,10 +61,10 @@ Table
 
 [^c10749231]: Modification: [See Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 135(1)](https://www.legislation.gov.uk/ukpga/1982/39/section/135/1)(*c*) in relation to any case where oil was won before the date of determination
 
-[^key-62efacdcebce578fc2aa3c819a5e06e9]: Textual amendment: Words in [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/6/paragraph/1/2) substituted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 25(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/25/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
+[^c-62efacdcebce578fc2aa3c819a5e06e9]: Textual amendment: Words in [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/6/paragraph/1/2) substituted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 25(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/25/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
 
 [^c10749251]: Textual amendment: Sch. 6 para. 2: entries inserted (27.7.1999 with application in relation to chargeable period ending on or after 30.6.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 102(5)(8)](https://www.legislation.gov.uk/ukpga/1999/16/section/102/5/8)
 
-[^key-853df9a5f06556e48f5b33f0885790e3]: Textual amendment: Word in Sch. 6 para. 2 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 83(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/83/2)
+[^c-853df9a5f06556e48f5b33f0885790e3]: Textual amendment: Word in Sch. 6 para. 2 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 83(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/83/2)
 
-[^key-3789d65f10858c68deb79bced48eb3e1]: Textual amendment: Words in Sch. 6 para. 2 omitted (1.4.2011) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 25(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/25/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
+[^c-3789d65f10858c68deb79bced48eb3e1]: Textual amendment: Words in Sch. 6 para. 2 omitted (1.4.2011) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 25(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/25/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)

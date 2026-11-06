@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 464. European Banking Committee[^key-ec6ea7ff86a13d16665044f81c2e8a64]
+## Article 464. European Banking Committee[^c-ec6ea7ff86a13d16665044f81c2e8a64]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec6ea7ff86a13d16665044f81c2e8a64]: Textual amendment: [Art. 464](https://www.legislation.gov.uk/eur/2013/575/article/464) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [204](https://www.legislation.gov.uk/uksi/2018/1401/regulation/204) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec6ea7ff86a13d16665044f81c2e8a64]: Textual amendment: [Art. 464](https://www.legislation.gov.uk/eur/2013/575/article/464) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [204](https://www.legislation.gov.uk/uksi/2018/1401/regulation/204) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

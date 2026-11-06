@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Wales[^key-76142bc1097d0fd2e141c0f6f27eb9e0]
+## 58. Wales[^c-76142bc1097d0fd2e141c0f6f27eb9e0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76142bc1097d0fd2e141c0f6f27eb9e0]: Commencement: S. 58 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-76142bc1097d0fd2e141c0f6f27eb9e0]: Commencement: S. 58 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)

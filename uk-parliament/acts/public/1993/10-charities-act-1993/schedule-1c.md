@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1C — Appeals and applications to ... Tribunal[^key-c19229d866e13afe36d39b34d22ef788]
+## SCHEDULE 1C — Appeals and applications to ... Tribunal[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Section 2A(4)
 
-### Appeals: general[^key-c19229d866e13afe36d39b34d22ef788]
+### Appeals: general[^c-c19229d866e13afe36d39b34d22ef788]
 
-**1.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appeals: orders under section 9[^key-c19229d866e13afe36d39b34d22ef788]
+### Appeals: orders under section 9[^c-c19229d866e13afe36d39b34d22ef788]
 
-**2.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Reviewable matters[^key-c19229d866e13afe36d39b34d22ef788]
+### Reviewable matters[^c-c19229d866e13afe36d39b34d22ef788]
 
-**3.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Reviews[^key-c19229d866e13afe36d39b34d22ef788]
+### Reviews[^c-c19229d866e13afe36d39b34d22ef788]
 
-**4.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation: remission of matters to Commission[^key-c19229d866e13afe36d39b34d22ef788]
+### Interpretation: remission of matters to Commission[^c-c19229d866e13afe36d39b34d22ef788]
 
-**5.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to amend Table etc.[^key-c19229d866e13afe36d39b34d22ef788]
+### Power to amend Table etc.[^c-c19229d866e13afe36d39b34d22ef788]
 
-**6.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 389. Claim to carry back deficit[^key-4e5eac5855cfaed5973f003d77485d79]
+## 389. Claim to carry back deficit[^c-4e5eac5855cfaed5973f003d77485d79]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The claim amount reduces the company's available profits in the most recent accounting period of the company, before any remainder reduces those in the next most recent accounting period and then those in the next most recent accounting period.
 
-(2A)[^key-f49a5c0ca35e0a68b82a34f1b1d78291] If any of the claim amount is carried back in accordance with this section to an accounting period, the amount which is so carried back is to be left out of account for the purpose of applying section 93 of FA 2012 in the case of that period.
+(2A)[^c-f49a5c0ca35e0a68b82a34f1b1d78291] If any of the claim amount is carried back in accordance with this section to an accounting period, the amount which is so carried back is to be left out of account for the purpose of applying section 93 of FA 2012 in the case of that period.
 
 (3) For the meaning of “available profits”, see section 390.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-f49a5c0ca35e0a68b82a34f1b1d78291]: Textual amendment: S. 389(2A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 153](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/153)
+[^c-f49a5c0ca35e0a68b82a34f1b1d78291]: Textual amendment: S. 389(2A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 153](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/153)

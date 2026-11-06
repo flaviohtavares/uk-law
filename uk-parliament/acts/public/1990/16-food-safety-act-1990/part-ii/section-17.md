@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Enforcement of EU provisions.[^M_E_5c6e66b8-a962-4ad0-898f-ffcb71aa268a][^key-359760d8ae21732919a8329ddd35dde0]
+## 17. Enforcement of EU provisions.[^M_E_5c6e66b8-a962-4ad0-898f-ffcb71aa268a][^c-359760d8ae21732919a8329ddd35dde0]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 [^M_E_5c6e66b8-a962-4ad0-898f-ffcb71aa268a]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-359760d8ae21732919a8329ddd35dde0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-359760d8ae21732919a8329ddd35dde0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c10203481]: Textual amendment: Words in s. 17(1)(2) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/8) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 

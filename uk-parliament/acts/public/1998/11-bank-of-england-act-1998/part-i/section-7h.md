@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7H. Restriction on disclosing information[^key-88e422d2100cef61e64a7ddd4c01d44c]
+## 7H. Restriction on disclosing information[^c-88e422d2100cef61e64a7ddd4c01d44c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 353A of the Financial Services and Markets Act 2000 (FCA not to disclose
 
 ## Annotations
 
-[^key-88e422d2100cef61e64a7ddd4c01d44c]: Textual amendment: Ss. 7D-7H inserted (6.7.2016 for the insertion of ss. 7D, 7E, 7G, 7H, 1.3.2017 in so far as not already in force) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 11](https://www.legislation.gov.uk/ukpga/2016/14/section/11), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/l); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/b)
+[^c-88e422d2100cef61e64a7ddd4c01d44c]: Textual amendment: Ss. 7D-7H inserted (6.7.2016 for the insertion of ss. 7D, 7E, 7G, 7H, 1.3.2017 in so far as not already in force) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 11](https://www.legislation.gov.uk/ukpga/2016/14/section/11), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/l); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/b)

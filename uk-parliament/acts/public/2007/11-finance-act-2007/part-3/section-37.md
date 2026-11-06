@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Temporary increase in first-year capital allowances for small enterprises[^key-86e7487ac346ae29f0f9a698ae14d963]
+## 37. Temporary increase in first-year capital allowances for small enterprises[^c-86e7487ac346ae29f0f9a698ae14d963]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86e7487ac346ae29f0f9a698ae14d963]: Textual amendment: S. 37 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(4)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/4/c)
+[^c-86e7487ac346ae29f0f9a698ae14d963]: Textual amendment: S. 37 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(4)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/4/c)

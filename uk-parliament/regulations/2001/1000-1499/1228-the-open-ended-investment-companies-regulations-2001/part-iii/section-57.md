@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Execution of documents: England and Wales or Northern Ireland[^key-f0078bf6f34aebd1dd7f3f4a878d51f1]
+## 57. Execution of documents: England and Wales or Northern Ireland[^c-f0078bf6f34aebd1dd7f3f4a878d51f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f0078bf6f34aebd1dd7f3f4a878d51f1]: Textual amendment: Words in reg. 57 heading inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/18) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-f0078bf6f34aebd1dd7f3f4a878d51f1]: Textual amendment: Words in reg. 57 heading inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/18) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
 [^M_F_3b73cc91-3647-46c5-eff9-7e510ac1964b]: Textual amendment: Words in reg. 57(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/18) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

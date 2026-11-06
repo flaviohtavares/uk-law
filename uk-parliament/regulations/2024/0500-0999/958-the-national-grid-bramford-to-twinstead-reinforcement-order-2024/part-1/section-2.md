@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-881cd19c708211cbb659dcd42a2a372d]
+## 2. Interpretation[^c-881cd19c708211cbb659dcd42a2a372d]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 - “**2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016[^f00014];
 - “**access, rights of way and public rights of navigation plans**” means the plans listed in Part 1 of Schedule 2 (plans) and certified under article 56 (certification of documents), and references to a particular access, rights of way and public rights of navigation plan are to be construed accordingly;
 - “**archaeological framework strategy**” means the document of that description (document 7.9), certified by the Secretary of State as the archaeological framework strategy for the purposes of this Order under article 56 (certification of documents), identifying steps to mitigate predicted effects on archaeology, geo-archaeology, palaeo-environmental and historic landscape heritage assets during construction of the authorised development;
-- “**authorised development**” means the development described in Schedule 1 (authorised development), and any other development[^key-185ac2c8fe1e35ac197a2bbd826c62e5] authorised by this Order, which is development within the meaning of section 32 of the 2008 Act;
+- “**authorised development**” means the development described in Schedule 1 (authorised development), and any other development[^c-185ac2c8fe1e35ac197a2bbd826c62e5] authorised by this Order, which is development within the meaning of section 32 of the 2008 Act;
 - “bank holiday” means a bank holiday in England and Wales under section 1 of the Banking and Financial Dealings Act 1971[^f00015];
 - “**book of reference**” means the book of reference (document 4.3 (F)) certified under article 56 (certification of documents) by the Secretary of State as the book of reference for the purposes of this Order;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
@@ -103,7 +103,7 @@ summary: ''
 
 ## Annotations
 
-[^key-881cd19c708211cbb659dcd42a2a372d]: Commencement: Art. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-881cd19c708211cbb659dcd42a2a372d]: Commencement: Art. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00005]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -125,7 +125,7 @@ summary: ''
 
 [^f00014]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
-[^key-185ac2c8fe1e35ac197a2bbd826c62e5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/958/article/2/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-185ac2c8fe1e35ac197a2bbd826c62e5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/958/article/2/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
 [^f00015]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 

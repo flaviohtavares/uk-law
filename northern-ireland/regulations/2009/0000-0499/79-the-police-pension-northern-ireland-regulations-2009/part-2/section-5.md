@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Pension contributions payable by police officers[^key-d27d422b9a096d554b12967eaef1f668]
+## 5. Pension contributions payable by police officers[^c-d27d422b9a096d554b12967eaef1f668]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ and does not include any bonus, weighting or other payment payable to the police
 
 ## Annotations
 
-[^key-d27d422b9a096d554b12967eaef1f668]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/79/regulation/5) substituted (1.4.2014) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve Pensions (Amendment) Regulations 2014 (S.R. 2014/19)](https://www.legislation.gov.uk/nisr/2014/19), [regs. 1](https://www.legislation.gov.uk/nisr/2014/19/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/19/regulation/3)
+[^c-d27d422b9a096d554b12967eaef1f668]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/79/regulation/5) substituted (1.4.2014) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve Pensions (Amendment) Regulations 2014 (S.R. 2014/19)](https://www.legislation.gov.uk/nisr/2014/19), [regs. 1](https://www.legislation.gov.uk/nisr/2014/19/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/19/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — Land in which only new rights etc, may be acquired[^key-9c939d1d8c792d891c3188192a1863bd]
+## SCHEDULE 7 — Land in which only new rights etc, may be acquired[^c-9c939d1d8c792d891c3188192a1863bd]
 
 *Extent: E+W+S*
 
@@ -160,12 +160,12 @@ Article 25
 </tbody>
 </table>
 
-[^key-db72041971ccfb2a697fea4f5354b98e][^M_F_c2e62836-52a5-4d76-b62a-e18c5140e30d]
+[^c-db72041971ccfb2a697fea4f5354b98e][^M_F_c2e62836-52a5-4d76-b62a-e18c5140e30d]
 
 ## Annotations
 
-[^key-9c939d1d8c792d891c3188192a1863bd]: Commencement: Sch. 7 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-9c939d1d8c792d891c3188192a1863bd]: Commencement: Sch. 7 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-db72041971ccfb2a697fea4f5354b98e]: Textual amendment: Comma in [Sch. 7](https://www.legislation.gov.uk/uksi/2014/1873/schedule/7) inserted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)
+[^c-db72041971ccfb2a697fea4f5354b98e]: Textual amendment: Comma in [Sch. 7](https://www.legislation.gov.uk/uksi/2014/1873/schedule/7) inserted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)
 
 [^M_F_c2e62836-52a5-4d76-b62a-e18c5140e30d]: Textual amendment: Word in [Sch. 7](https://www.legislation.gov.uk/uksi/2014/1873/schedule/7) inserted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)

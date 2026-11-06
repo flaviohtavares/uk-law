@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c6083251] For the purposes of this Part of this Act and of any byelaws or regulations[^key-7d1f17b7a376fb5f933a8dd87decca70] made thereunder—
+(1)[^c6083251] For the purposes of this Part of this Act and of any byelaws or regulations[^c-7d1f17b7a376fb5f933a8dd87decca70] made thereunder—
 
 - The expression “[^c6083271]**child**” means—
   - (a) [^c6083281]in relation to England and Wales, a person who is not over compulsory school age (construed in accordance with section 8 of the Education Act 1996)[^c6083291]
@@ -39,7 +39,7 @@ summary: ''
 
 [^c6083251]: Textual amendment: Existing provisions of s. 30, as amended are constituted as s. 30(1) by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1989/38/section/10/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/paragraph/8)
 
-[^key-7d1f17b7a376fb5f933a8dd87decca70]: Textual amendment: Words in s. 30(1) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 28(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/28/5), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-7d1f17b7a376fb5f933a8dd87decca70]: Textual amendment: Words in s. 30(1) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 28(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/28/5), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
 [^c6083271]: Textual amendment: Words inserted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1989/38/section/10/2), [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/paragraph/8/a)
 

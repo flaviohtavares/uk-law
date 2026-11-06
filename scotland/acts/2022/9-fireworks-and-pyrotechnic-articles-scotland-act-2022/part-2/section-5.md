@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Supply of fireworks to unlicensed persons[^key-b1410147976028921f6fd8670ef5e40b]
+## 5. Supply of fireworks to unlicensed persons[^c-b1410147976028921f6fd8670ef5e40b]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1410147976028921f6fd8670ef5e40b]: Commencement: S. 5 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-b1410147976028921f6fd8670ef5e40b]: Commencement: S. 5 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

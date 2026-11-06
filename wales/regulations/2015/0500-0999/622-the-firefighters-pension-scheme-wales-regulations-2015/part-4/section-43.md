@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Amount of pension for a scheme year[^key-8101f5d01e7a5f828919c2950680723a]
+## 43. Amount of pension for a scheme year[^c-8101f5d01e7a5f828919c2950680723a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8101f5d01e7a5f828919c2950680723a]: Commencement: Reg. 43 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-8101f5d01e7a5f828919c2950680723a]: Commencement: Reg. 43 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

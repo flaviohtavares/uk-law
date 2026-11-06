@@ -33,27 +33,27 @@ of 10 November 2015
 
 approving the conclusion, by the European Commission, of the amendments to Protocols 1 and 2 to the Agreement between the United Kingdom, the European Atomic Energy Community and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean (revoked)
 
-[^key-f7132e556fa5ed09babb6f06b93d76d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7132e556fa5ed09babb6f06b93d76d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f7132e556fa5ed09babb6f06b93d76d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f7132e556fa5ed09babb6f06b93d76d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f7132e556fa5ed09babb6f06b93d76d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f7132e556fa5ed09babb6f06b93d76d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f7132e556fa5ed09babb6f06b93d76d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7132e556fa5ed09babb6f06b93d76d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-f7132e556fa5ed09babb6f06b93d76d5]
+## ANNEX[^c-f7132e556fa5ed09babb6f06b93d76d5]
 
-[^key-f7132e556fa5ed09babb6f06b93d76d5]I.
+[^c-f7132e556fa5ed09babb6f06b93d76d5]I.
 
 Paragraph I of Protocol 1 to the Agreement between the United Kingdom, the European Atomic Energy Community and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean (‘the Safeguards Agreement’) is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f7132e556fa5ed09babb6f06b93d76d5]II.
+[^c-f7132e556fa5ed09babb6f06b93d76d5]II.
 
 Paragraph I of Protocol 2 to the Safeguards Agreement is replaced by the following:
 
@@ -61,4 +61,4 @@ Paragraph I of Protocol 2 to the Safeguards Agreement is replaced by the followi
 
 ## Annotations
 
-[^key-f7132e556fa5ed09babb6f06b93d76d5]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-f7132e556fa5ed09babb6f06b93d76d5]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

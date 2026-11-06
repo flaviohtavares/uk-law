@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.23. Costs consequences of acceptance of a Part 36 offer[^key-65df0a8e092cf17e56b32ea56bc940fe][^key-e9908447b00f164a4af1faf75a60688f]
+## 36.23. Costs consequences of acceptance of a Part 36 offer[^c-65df0a8e092cf17e56b32ea56bc940fe][^c-e9908447b00f164a4af1faf75a60688f]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ the defendant is entitled to the fixed costs applicable to that stage.
 
 ## Annotations
 
-[^key-65df0a8e092cf17e56b32ea56bc940fe]: Textual amendment: Pt. 36 Section 2 inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(10)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/10) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-65df0a8e092cf17e56b32ea56bc940fe]: Textual amendment: Pt. 36 Section 2 inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(10)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/10) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
+[^c-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))

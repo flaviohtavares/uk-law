@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Chapter 1: interpretation[^key-176ad385fe2d338001f5b7a1bd3ae503]
+## 56. Chapter 1: interpretation[^c-176ad385fe2d338001f5b7a1bd3ae503]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-176ad385fe2d338001f5b7a1bd3ae503]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/52/section/56) in force at Royal Assent, see [s. 334(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/i)
+[^c-176ad385fe2d338001f5b7a1bd3ae503]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/52/section/56) in force at Royal Assent, see [s. 334(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/i)

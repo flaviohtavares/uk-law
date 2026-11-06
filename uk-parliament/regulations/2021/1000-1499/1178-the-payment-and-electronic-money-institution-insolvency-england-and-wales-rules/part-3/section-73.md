@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Quorum[^key-c50ca545483257d7b135834322da738f]
+## 73. Quorum[^c-c50ca545483257d7b135834322da738f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A meeting of the creditors’ committee is duly constituted if due notice of it 
 
 ## Annotations
 
-[^key-c50ca545483257d7b135834322da738f]: Commencement: Rule 73 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c50ca545483257d7b135834322da738f]: Commencement: Rule 73 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

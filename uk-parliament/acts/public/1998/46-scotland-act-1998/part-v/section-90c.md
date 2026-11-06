@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90C. Renewable electricity incentive schemes: consultation[^key-c447f463952ebd6e81e90585c6f05d5c]
+## 90C. Renewable electricity incentive schemes: consultation[^c-c447f463952ebd6e81e90585c6f05d5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c447f463952ebd6e81e90585c6f05d5c]: Textual amendment: S. 90C and cross-heading inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 61](https://www.legislation.gov.uk/ukpga/2016/11/section/61), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-c447f463952ebd6e81e90585c6f05d5c]: Textual amendment: S. 90C and cross-heading inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 61](https://www.legislation.gov.uk/ukpga/2016/11/section/61), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 89. Recovery of overpayments from prescribed benefits[^key-5c8e32207acc0397f4581bdc1d411e0c]
+## 89. Recovery of overpayments from prescribed benefits[^c-5c8e32207acc0397f4581bdc1d411e0c]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5c8e32207acc0397f4581bdc1d411e0c]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/1988/1890/regulation/89) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-5c8e32207acc0397f4581bdc1d411e0c]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/1988/1890/regulation/89) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00061]: Footnote: O.J. No. L149, 5.7.1971; Regulations No. 1408/71 and No. 574/72 were restated in amended form in Regulation No. 2001/83 (O.J. No. L230, 22.8.1983) and further amended by Council Regulation [(EEC) No. 1660/85](https://www.legislation.gov.uk/european/regulation/1985/1660) (O.J. No. L160, 20.6.1985), Council Regulation (EEC) No. 1 1661/85 (O.J. No. L160, 20.6.1985) and Commission Regulation [(EEC) No. 513/86](https://www.legislation.gov.uk/european/regulation/1986/0513) (O.J. No. L57, 28.2.1986).
 

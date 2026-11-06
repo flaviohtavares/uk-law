@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Flight crew licence requirements – exception to act as flight radiotelephony operator[^key-b2348187099cf296f0ad14169f14128a]
+## 46. Flight crew licence requirements – exception to act as flight radiotelephony operator[^c-b2348187099cf296f0ad14169f14128a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person may act as a flight radiotelephony operator within the Territory withou
 
 ## Annotations
 
-[^key-b2348187099cf296f0ad14169f14128a]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2013/2870/article/46) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-b2348187099cf296f0ad14169f14128a]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2013/2870/article/46) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

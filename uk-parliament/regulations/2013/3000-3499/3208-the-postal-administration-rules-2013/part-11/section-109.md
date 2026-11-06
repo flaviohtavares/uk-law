@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Procedure following order for transfer[^key-af73f902c96499c854d1e6fe43b48dd2]
+## 109. Procedure following order for transfer[^c-af73f902c96499c854d1e6fe43b48dd2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af73f902c96499c854d1e6fe43b48dd2]: Commencement: [Rule 109](https://www.legislation.gov.uk/uksi/2013/3208/rule/109) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-af73f902c96499c854d1e6fe43b48dd2]: Commencement: [Rule 109](https://www.legislation.gov.uk/uksi/2013/3208/rule/109) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

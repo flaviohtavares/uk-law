@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Exemptions—Military vehicles[^key-62426b7b8390ca3a188171ce6b34602c]
+## 7. Exemptions—Military vehicles[^c-62426b7b8390ca3a188171ce6b34602c]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62426b7b8390ca3a188171ce6b34602c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1796/regulation/7) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-62426b7b8390ca3a188171ce6b34602c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1796/regulation/7) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^f00014]: Footnote: [1958 c. 7](https://www.legislation.gov.uk/ukpga/1958/7) (7 and 8 Eliz 2).

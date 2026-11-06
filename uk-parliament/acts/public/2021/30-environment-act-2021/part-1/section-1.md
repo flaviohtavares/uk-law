@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Environmental targets[^key-55afd5a4177b0879dd15c39344beb22f][^key-f261d9a7cdd65cd733fe5a8b83aef4eb]
+## 1. Environmental targets[^c-55afd5a4177b0879dd15c39344beb22f][^c-f261d9a7cdd65cd733fe5a8b83aef4eb]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55afd5a4177b0879dd15c39344beb22f]: Commencement: S. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-55afd5a4177b0879dd15c39344beb22f]: Commencement: S. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f261d9a7cdd65cd733fe5a8b83aef4eb]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/30/section/1) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)
+[^c-f261d9a7cdd65cd733fe5a8b83aef4eb]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/30/section/1) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)

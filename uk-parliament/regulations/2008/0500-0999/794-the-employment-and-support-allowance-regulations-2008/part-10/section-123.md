@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 123. Period over which payments other than periodical payments are to be taken into account[^key-cfb43ea41f70919034fad27831537086]
+## 123. Period over which payments other than periodical payments are to be taken into account[^c-cfb43ea41f70919034fad27831537086]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 (3) The amount is the aggregate of £2 and—
 
-- (a) the amount of employment and support allowance that would be payable had no payment been made. [^key-ee1137cbb175ef63f79265f65bfd457f]...
-- (b)[^key-ee1137cbb175ef63f79265f65bfd457f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the amount of employment and support allowance that would be payable had no payment been made. [^c-ee1137cbb175ef63f79265f65bfd457f]...
+- (b)[^c-ee1137cbb175ef63f79265f65bfd457f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This paragraph applies in a case where a liable relative makes a periodical payment and a non-periodical payment concurrently and the weekly amount of the periodical payment (as calculated in accordance with regulation 124) is less than B.
 
@@ -53,7 +53,7 @@ the amount of the non-periodical payment;
 
 B
 
-the aggregate of £2 and the amount of employment and support allowance that would be payable had the periodical payment not been made [^key-71ab1286d552903f482571bc930e76c7]...;
+the aggregate of £2 and the amount of employment and support allowance that would be payable had the periodical payment not been made [^c-71ab1286d552903f482571bc930e76c7]...;
 
 C
 
@@ -69,8 +69,8 @@ the weekly amount of any subsequent periodical payment.
 
 ## Annotations
 
-[^key-cfb43ea41f70919034fad27831537086]: Textual amendment: Reg. 123 substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [20(9)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/20/9)
+[^c-cfb43ea41f70919034fad27831537086]: Textual amendment: Reg. 123 substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [20(9)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/20/9)
 
-[^key-ee1137cbb175ef63f79265f65bfd457f]: Textual amendment: Reg. 123(3)(b) and word omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(13)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/13/a)
+[^c-ee1137cbb175ef63f79265f65bfd457f]: Textual amendment: Reg. 123(3)(b) and word omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(13)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/13/a)
 
-[^key-71ab1286d552903f482571bc930e76c7]: Textual amendment: Words in reg. 123(10) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(13)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/13/b)
+[^c-71ab1286d552903f482571bc930e76c7]: Textual amendment: Words in reg. 123(10) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(13)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/13/b)

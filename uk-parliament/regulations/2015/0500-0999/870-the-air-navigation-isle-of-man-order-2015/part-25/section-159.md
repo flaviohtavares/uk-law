@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Certificates, authorisations, approvals and permissions[^key-e1a9187a9deeafb9d295f5fa0c48a727]
+## 159. Certificates, authorisations, approvals and permissions[^c-e1a9187a9deeafb9d295f5fa0c48a727]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Wherever in this Order there is provision for the issue or grant of a certificat
 
 ## Annotations
 
-[^key-e1a9187a9deeafb9d295f5fa0c48a727]: Commencement: [Art. 159](https://www.legislation.gov.uk/uksi/2015/870/article/159) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-e1a9187a9deeafb9d295f5fa0c48a727]: Commencement: [Art. 159](https://www.legislation.gov.uk/uksi/2015/870/article/159) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

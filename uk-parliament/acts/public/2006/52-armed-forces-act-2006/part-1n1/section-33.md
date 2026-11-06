@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Dangerous flying etc[^key-bb6ead389887002ba33487e6f37ac657][^key-22ac6c549800dcd3df1a0cdb27e007e7]
+## 33. Dangerous flying etc[^c-bb6ead389887002ba33487e6f37ac657][^c-22ac6c549800dcd3df1a0cdb27e007e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ that causes or is likely to cause loss of life or injury to any person.
 
 ## Annotations
 
-[^key-bb6ead389887002ba33487e6f37ac657]: Commencement: S. 33 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-bb6ead389887002ba33487e6f37ac657]: Commencement: S. 33 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-22ac6c549800dcd3df1a0cdb27e007e7]: Commencement: S. 33 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-22ac6c549800dcd3df1a0cdb27e007e7]: Commencement: S. 33 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

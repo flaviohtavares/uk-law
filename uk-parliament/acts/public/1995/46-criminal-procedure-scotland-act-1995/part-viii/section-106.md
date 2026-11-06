@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Right of appeal.[^c14470171][^c16055251][^key-c885f9a516f764f20c98b3dfb024cb2c][^key-98bf0a85d845907c24c8be88493aef84][^key-49bda2ba35bd1a07538f45ba16aa0af0]
+## 106. Right of appeal.[^c14470171][^c16055251][^c-c885f9a516f764f20c98b3dfb024cb2c][^c-98bf0a85d845907c24c8be88493aef84][^c-49bda2ba35bd1a07538f45ba16aa0af0]
 
 *Extent: S*
 
@@ -30,13 +30,13 @@ summary: ''
 - (d)[^c20909181] against any drug treatment and testing order;
 - (dza) against any disposal under section 227ZC(7)(a) to (c) or (e) or (8)(a) of this Act;
 - (da)[^c14470211] against any decision to remit made under section 49(1)(a) of this Act;
-- (db)[^key-820972deee2b2ee7cf52cd371b104574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (dc)[^key-820972deee2b2ee7cf52cd371b104574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (db)[^c-820972deee2b2ee7cf52cd371b104574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (dc)[^c-820972deee2b2ee7cf52cd371b104574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) against any order deferring sentence; or
 - (f) against
   - (i)[^c18925931] both such conviction and, subject to subsection (2) below, such sentence or disposal or order.
-  - (ii)[^key-6637b3986f6bd3b9381e7ce12ed9ee75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-6637b3986f6bd3b9381e7ce12ed9ee75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-6637b3986f6bd3b9381e7ce12ed9ee75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-6637b3986f6bd3b9381e7ce12ed9ee75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) There shall be no appeal against any sentence fixed by law.
 
@@ -88,11 +88,11 @@ it may not found an appeal unless there is a reasonable explanation as to why th
 
     S. 106 extended (11.3.2005) by [Prevention of Terrorism Act 2005 (c. 2)](https://www.legislation.gov.uk/ukpga/2005/2), [s. 12(5)(c)](https://www.legislation.gov.uk/ukpga/2005/2/section/12/5/c)
 
-[^key-c885f9a516f764f20c98b3dfb024cb2c]: Modification: S. 106 extended (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/3/paragraph/4/3/c) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-c885f9a516f764f20c98b3dfb024cb2c]: Modification: S. 106 extended (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/3/paragraph/4/3/c) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
 
-[^key-98bf0a85d845907c24c8be88493aef84]: Modification: [S. 106](https://www.legislation.gov.uk/ukpga/1995/46/section/106) extended (12.2.2015) by [Counter Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/3/c)
+[^c-98bf0a85d845907c24c8be88493aef84]: Modification: [S. 106](https://www.legislation.gov.uk/ukpga/1995/46/section/106) extended (12.2.2015) by [Counter Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/3/c)
 
-[^key-49bda2ba35bd1a07538f45ba16aa0af0]: Modification: [S. 106](https://www.legislation.gov.uk/ukpga/1995/46/section/106) extended (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/3/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-49bda2ba35bd1a07538f45ba16aa0af0]: Modification: [S. 106](https://www.legislation.gov.uk/ukpga/1995/46/section/106) extended (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/3/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
 [^c18926021]: Textual amendment: S. 106(1)(ba) inserted (19.6.2006 for certain purpose and otherwise prosp.) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 1(2)](https://www.legislation.gov.uk/asp/2003/7/section/1/2), [89](https://www.legislation.gov.uk/asp/2003/7/section/89), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/asp/2003/7/schedule/1/paragraph/2/4); [S.S.I. 2006/332](https://www.legislation.gov.uk/ssi/2006/332), [art. 2](https://www.legislation.gov.uk/ssi/2006/332/article/2)
 
@@ -104,10 +104,10 @@ it may not found an appeal unless there is a reasonable explanation as to why th
 
 [^c14470211]: Textual amendment: S. 106(1)(da) inserted (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 23(b)](https://www.legislation.gov.uk/ukpga/1997/48/section/23/b); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4) , [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5))
 
-[^key-820972deee2b2ee7cf52cd371b104574]: Textual amendment: S. 106(1)(db) (dc) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 14(a)](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/14/a) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2011/157/article/5/1))
+[^c-820972deee2b2ee7cf52cd371b104574]: Textual amendment: S. 106(1)(db) (dc) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 14(a)](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/14/a) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2011/157/article/5/1))
 
 [^c18925931]: Textual amendment: Words in s. 106(1)(f) become s. 106(1)(f)(i) (10.1.2005) by virtue of [Protection of Children (Scotland) Act 2003 (asp 5)](https://www.legislation.gov.uk/asp/2003/5), [ss. 16(2)(b)](https://www.legislation.gov.uk/asp/2003/5/section/16/2/b), [22(2)](https://www.legislation.gov.uk/asp/2003/5/section/22/2); [S.S.I. 2004/522](https://www.legislation.gov.uk/ssi/2004/522), [art. 2](https://www.legislation.gov.uk/ssi/2004/522/article/2)
 
-[^key-6637b3986f6bd3b9381e7ce12ed9ee75]: Textual amendment: S. 106(1)(f)(ii) (iii) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 14(b)](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/14/b) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2011/157/article/5/1))
+[^c-6637b3986f6bd3b9381e7ce12ed9ee75]: Textual amendment: S. 106(1)(f)(ii) (iii) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 14(b)](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/14/b) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2011/157/article/5/1))
 
 [^c14470221]: Textual amendment: S. 106(3)-(3D) substituted (1.8.1997) for s. 106(3) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 17(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/17/1); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4) , [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5))

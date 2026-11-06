@@ -46,11 +46,11 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-2a90bb9a7df6adf53aca7bebaf746cf8]
+### 1. Citation and commencement[^c-2a90bb9a7df6adf53aca7bebaf746cf8]
 
 These Regulations may be cited as the Fair Employment (Monitoring) Regulations (Northern Ireland) 1999 and shall come into operation on 1st January 2001.
 
-### 2. Interpretation[^key-f658fbcbe456a2635f3190d2fe9e714e]
+### 2. Interpretation[^c-f658fbcbe456a2635f3190d2fe9e714e]
 
 (1) In these Regulations—
 
@@ -72,19 +72,19 @@ These Regulations may be cited as the Fair Employment (Monitoring) Regulations (
 
 and “promotee” shall be construed accordingly.
 
-### 3. Revocation[^key-b172515e30ee93d11e25ca72a2bd8891]
+### 3. Revocation[^c-b172515e30ee93d11e25ca72a2bd8891]
 
 (1) Subject to paragraph (2), the Fair Employment (Monitoring) Regulations (Northern Ireland) 1989[^f00004] and the Fair Employment (Monitoring) (Amendment) Regulations (Northern Ireland) 1991[^f00005] are hereby revoked.
 
 (2) The Regulations referred to in paragraph (1) shall continue to apply in relation to any monitoring return prepared for any year beginning before 1st January 2001 as if these Regulations had not been made.
 
-### 4. Application[^key-8fd32132ac43ae89b4d579a134e8644b]
+### 4. Application[^c-8fd32132ac43ae89b4d579a134e8644b]
 
 These Regulations shall apply in relation to any monitoring return prepared for any year beginning on or after 1st January 2001.
 
 ## PART II — MONITORING RETURNS
 
-### 5. Prescribed information[^key-119a3709229b1dd86f8b6cc72732cd34]
+### 5. Prescribed information[^c-119a3709229b1dd86f8b6cc72732cd34]
 
 (1) For the purposes of Article 52(1)(a) a monitoring return shall, subject to paragraph (4), contain the information about employees prescribed by—
 
@@ -97,7 +97,7 @@ These Regulations shall apply in relation to any monitoring return prepared for 
 
 (4) Paragraphs (1)(b), (2) and (3) shall not have effect in relation to the first monitoring return prepared in respect of any registered concern.
 
-### 6. Date or period to which prescribed information relates[^key-1cc76d26f3c843bea42176210ad16e53]
+### 6. Date or period to which prescribed information relates[^c-1cc76d26f3c843bea42176210ad16e53]
 
 (1) The prescribed information about employees in a registered concern shall relate to the first day of the year for which the monitoring return containing the information is to be prepared.
 
@@ -109,7 +109,7 @@ These Regulations shall apply in relation to any monitoring return prepared for 
 
 (5) For the avoidance of doubt, it is hereby declared that nothing in paragraph (2) shall require an employer to include in any monitoring return information about a person who was not an employee on the day prescribed by paragraph (1) in relation to that return.
 
-### 7. Period within which prescribed information shall be obtained[^key-6db03e818cddab65df2f592f9a1790a5]
+### 7. Period within which prescribed information shall be obtained[^c-6db03e818cddab65df2f592f9a1790a5]
 
 (1) The prescribed information insofar as it relates to each employee in a registered concern shall be obtained—
 
@@ -120,7 +120,7 @@ These Regulations shall apply in relation to any monitoring return prepared for 
 
 (3) In this regulation, “obtain” means obtain in accordance with these Regulations.
 
-### 8. Principal method of making a determination in respect of employees[^key-eb83c8020b4c822e59a8bcea4f0c10fe]
+### 8. Principal method of making a determination in respect of employees[^c-eb83c8020b4c822e59a8bcea4f0c10fe]
 
 (1) For the purposes of preparing a monitoring return in respect of a registered concern, an employer shall, subject to paragraph (2)—
 
@@ -134,14 +134,14 @@ These Regulations shall apply in relation to any monitoring return prepared for 
 
 he shall continue to treat the employee as belonging to that community for the purposes of preparing any subsequent monitoring return in respect of the concern and, accordingly, paragraph (1) shall not apply to such an employee in relation to that subsequent return.
 
-### 9. Principal method of making a determination in respect of applicants[^key-1c662d46670ec82d1aaf59d89d5aed46]
+### 9. Principal method of making a determination in respect of applicants[^c-1c662d46670ec82d1aaf59d89d5aed46]
 
 For the purposes of preparing a monitoring return in respect of a registered concern an employer shall—
 
 - (a) determine the community to which he will treat each applicant for employment in the concern as belonging by using the principal method prescribed by Part II of Schedule 2; and
 - (b) subject to regulation 11(2), where the use of that method does not enable him to treat any such applicant as belonging to a particular community, treat him as if the community to which he belongs cannot be determined.
 
-### 10. Determinations in respect of former employees[^key-9f7e53979bb41b80440ab5dd10be040a]
+### 10. Determinations in respect of former employees[^c-9f7e53979bb41b80440ab5dd10be040a]
 
 (1) For the purposes of preparing a monitoring return in respect of a registered concern to which Article 52(3) or (4) applies, an employer shall treat—
 
@@ -164,7 +164,7 @@ then the employer shall, for that purpose, treat the former employee as belongin
 
 then the employer shall, for that purpose, treat the former employee as belonging to the relevant community.
 
-### 11. Residuary methods of making a determination[^key-30e4788005ea554cbc6abf340ca2169f]
+### 11. Residuary methods of making a determination[^c-30e4788005ea554cbc6abf340ca2169f]
 
 (1) Where an employee in a registered concern who, but for this paragraph, would fall within regulation 8(1)(b) has provided his employer, in writing, with any relevant information about himself then, notwithstanding that sub-paragraph, the employer may for the purposes of preparing a monitoring return in relation to that concern—
 
@@ -188,7 +188,7 @@ then the employer shall, for that purpose, treat the former employee as belongin
 
 (4) Schedule 3 shall have effect for the purposes of this regulation.
 
-### 12. Disclosure to employees[^key-a55a4d16624fe8655aef3d3d7d288489]
+### 12. Disclosure to employees[^c-a55a4d16624fe8655aef3d3d7d288489]
 
 (1) An employer shall, not less than two weeks before serving a monitoring return on the Commission, give to each employee to whom this regulation applies a notice in writing which discloses to the employee—
 
@@ -202,7 +202,7 @@ as the case may be.
 - (a) as belonging to a particular community under regulation 8(1)(a); or
 - (b) under regulation 8(1)(b) as if the community to which he belongs cannot be determined.
 
-### 13. Correcting inaccuracies[^key-d081308dbe730dfbbe24c1502a585f6f]
+### 13. Correcting inaccuracies[^c-d081308dbe730dfbbe24c1502a585f6f]
 
 (1) Where it appears to an employee in a registered concern to whom a notice has been given under regulation 12(1) that, from the terms of that notice, the employer in the concern has incorrectly treated the employee under regulation 8(1)—
 
@@ -220,7 +220,7 @@ for the purposes of any monitoring return, the employer shall, for the purposes 
 
 (3) Under this regulation a reference to the way in which an employee was treated for the purposes of any monitoring return under regulation 8(1) includes a reference to such treatment by the methods prescribed in that regulation as applied in compliance with any direction given under regulation 14.
 
-### 14. Directions by the Commission[^key-7ec466ba0e68ccfceede3dda7ecfdd07]
+### 14. Directions by the Commission[^c-7ec466ba0e68ccfceede3dda7ecfdd07]
 
 Where the Commission directs the employer of a registered concern to apply the methods prescribed by regulation 8(1) or 11(1) for making a determination in the case of an employee in a manner different from that authorized or required by those regulations, then so long as the direction remains in force—
 
@@ -231,7 +231,7 @@ Where the Commission directs the employer of a registered concern to apply the m
 
   for the purposes of preparing any monitoring return.
 
-### 15. Interpretation of Part II[^key-4011e4cc555c21631d3cd3bc19e52a89]
+### 15. Interpretation of Part II[^c-4011e4cc555c21631d3cd3bc19e52a89]
 
 In this Part—
 
@@ -243,7 +243,7 @@ In this Part—
 
 ## PART III — OBTAINING AND RETAINING MONITORING INFORMATION AND OFFENCES
 
-### 16. Confidentiality of monitoring information[^key-73f788a8c1568e1f49109ffee2da7573]
+### 16. Confidentiality of monitoring information[^c-73f788a8c1568e1f49109ffee2da7573]
 
 (1) This regulation applies to—
 
@@ -278,7 +278,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (5) It is a defence for a person charged with an offence under paragraph (2) to show that before the disclosure in question was made he had also obtained the information otherwise than in his capacity as an employee in the concern of the employer.
 
-### 17. Records about employees and offences in respect of those records[^key-a9ecf0363722c1c78b06db4854e55001]
+### 17. Records about employees and offences in respect of those records[^c-a9ecf0363722c1c78b06db4854e55001]
 
 (1) An employer in a registered concern shall retain—
 
@@ -289,7 +289,7 @@ until the expiration of three years from the date on which the person to whom th
 
 (2) Any person who, without reasonable excuse, fails to comply with the requirements of this regulation shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 18. Information about applicants and offences in respect of that information[^key-1be224248a880d3ecf6f4ce14217a563]
+### 18. Information about applicants and offences in respect of that information[^c-1be224248a880d3ecf6f4ce14217a563]
 
 (1) An employer in a registered concern shall, for the purposes of Article 54(1), seek to obtain from each applicant for employment in the concern, his surname and other names and his address.
 
@@ -311,11 +311,11 @@ until the expiration of three years from the date of the application of the pers
 
 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 19. Offence of employer serving a return not in accordance with Regulations[^key-0c421627cbe002d53b3b421c0e79495d]
+### 19. Offence of employer serving a return not in accordance with Regulations[^c-0c421627cbe002d53b3b421c0e79495d]
 
 An employer who, without reasonable excuse, serves on the Commission a monitoring return which is not prepared in accordance with these Regulations or does not contain the prescribed information shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £10,000.
 
-### 20. Offence of giving and including in returns false information[^key-f0ad755ea06eff61655fa6fbd0f691a1]
+### 20. Offence of giving and including in returns false information[^c-f0ad755ea06eff61655fa6fbd0f691a1]
 
 If a person—
 
@@ -324,7 +324,7 @@ If a person—
 
 he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 21. Interpretation of Part III[^key-9d2d724e3aa03fa62c0e0bc6ae11e846]
+### 21. Interpretation of Part III[^c-9d2d724e3aa03fa62c0e0bc6ae11e846]
 
 In this Part—
 
@@ -343,7 +343,7 @@ Regulation 5
 
 ### PART I — INFORMATION ABOUT EMPLOYEES
 
-**1.**[^key-23ec086295bab4fea0d5862af1580647] In respect of each registered concern, the following information about employees is prescribed—
+**1.**[^c-23ec086295bab4fea0d5862af1580647] In respect of each registered concern, the following information about employees is prescribed—
 
 - (a) whether the concern is one to which Article 52(3) or (4) has applied at any time since the start of the year;
 - (b) the address of each premises on or from which, on the date of the monitoring return in question, the activities of the employees of the concern were carried on;
@@ -451,11 +451,11 @@ Regulation 5
 - (g) the number of male appointees (other than apprentices), the number of male apprentices, the number of female appointees (other than apprentices) and the number of female apprentices whom the employer has treated as Roman Catholic under and in accordance with these Regulations and whose employment is classified under each of the major groups of the Standard Occupational Classification referred to in paragraph 1(g); and
 - (h) the number of male appointees (other than apprentices), the number of male apprentices, the number of female appointees (other than apprentices) and the number of female apprentices whom the employer has treated as if the community to which they belong cannot be determined under and in accordance with these Regulations and whose employment is classified under each of the major groups of the Standard Occupational Classification referred to in paragraph 1(g).
 
-**3.**[^key-8a20b1b449576ffc70707cd30aecd18c] For the purposes of paragraph 2(f) to (h) a person’s employment shall be taken to be that in which he commenced employment in the concern.
+**3.**[^c-8a20b1b449576ffc70707cd30aecd18c] For the purposes of paragraph 2(f) to (h) a person’s employment shall be taken to be that in which he commenced employment in the concern.
 
 ### PART II — INFORMATION ABOUT PROMOTEES
 
-**4.**[^key-c9f37108413ee516381ff88b422d7f79] In respect of each registered concern to which Article 52(3) or (4) applies, the following information about promotees is prescribed—
+**4.**[^c-c9f37108413ee516381ff88b422d7f79] In respect of each registered concern to which Article 52(3) or (4) applies, the following information about promotees is prescribed—
 
 - (a) the total number of promotees;
 - (b) the number of promotees who are—
@@ -478,7 +478,7 @@ Regulation 5
 
 ### PART III — INFORMATION ABOUT APPLICANTS FOR EMPLOYMENT
 
-**5.**[^key-19c9168dd727172bee9f5532762ed0d4] In respect of each registered concern the following information about applicants for employment is prescribed—
+**5.**[^c-19c9168dd727172bee9f5532762ed0d4] In respect of each registered concern the following information about applicants for employment is prescribed—
 
 - (a) the total number of applicants for employment in the concern;
 - (b) the number of applicants for employment who are—
@@ -499,11 +499,11 @@ Regulation 5
 - (f) the number of male applicants for employment and the number of female applicants for employment whom the employer has treated as Roman Catholic under and in accordance with these Regulations and who have applied for vacancies classified under each of the major groups of the Standard Occupational Classification referred to in paragraph 1(g); and
 - (g) the number of male applicants for employment and the number of female applicants for employment whom the employer has treated as if the community to which they belong cannot be determined under and in accordance with these Regulations and who have applied for vacancies classified under each of the major groups of the Standard Occupational Classification referred to in paragraph 1(g).
 
-**6.**[^key-283094b0c5f858737b3d64476d2c86c4] For the purposes of paragraph 5(e) to (g), where an applicant for employment applies for more than one vacancy in a registered concern, the vacancy for which he applied shall be taken to be the first vacancy for which he applied in the period to which information about such an applicant must relate by virtue of regulation 6(3).
+**6.**[^c-283094b0c5f858737b3d64476d2c86c4] For the purposes of paragraph 5(e) to (g), where an applicant for employment applies for more than one vacancy in a registered concern, the vacancy for which he applied shall be taken to be the first vacancy for which he applied in the period to which information about such an applicant must relate by virtue of regulation 6(3).
 
 ### PART IV — INFORMATION ABOUT FORMER EMPLOYEES
 
-**7.**[^key-e650c62c7567a81fee63934540fbcae7] In respect of each registered concern to which Article 52(3) or (4) applies, the following information about former employees is prescribed—
+**7.**[^c-e650c62c7567a81fee63934540fbcae7] In respect of each registered concern to which Article 52(3) or (4) applies, the following information about former employees is prescribed—
 
 - (a) the total number of former employees of the concern;
 - (b) the number of former employees who are—
@@ -529,7 +529,7 @@ Regulation 5
 - (h) the number of male former employees (other than former apprentices), the number of male former apprentices, the number of female former employees (other than former apprentices) and the number of female former apprentices whom the employer has treated as Roman Catholic under and in accordance with these Regulations and whose employment is classified under each of the major groups of the Standard Occupational Classification referred to in paragraph 1(g); and
 - (i) the number of male former employees (other than former apprentices), the number of male former apprentices, the number of female former employees (other than former apprentices) and the number of female former apprentices whom the employer has treated as if the community to which they belong cannot be determined under and in accordance with these Regulations and whose employment is classified under each of the major groups of the Standard Occupational Classification referred to in paragraph 1(g).
 
-**8.**[^key-ebc8415fca9c54e70fdbbef90957bf5d] For the purposes of paragraph 7(g) to (i) a person’s employment shall be taken to be that on his last day of employment in the concern.
+**8.**[^c-ebc8415fca9c54e70fdbbef90957bf5d] For the purposes of paragraph 7(g) to (i) a person’s employment shall be taken to be that on his last day of employment in the concern.
 
 ## SCHEDULE 2
 
@@ -537,13 +537,13 @@ Regulation 8(1) and 9(a)
 
 ### PART I — PRINCIPAL METHOD OF DETERMINING THE COMMUNITY TO WHICH EMPLOYEES BELONG
 
-**1.**[^key-9c2ee203303a554c7567443efe59f588] Where the employer has a written statement made by an employee that he is Protestant or that he is Roman Catholic, the employer shall treat him as belonging to that community.
+**1.**[^c-9c2ee203303a554c7567443efe59f588] Where the employer has a written statement made by an employee that he is Protestant or that he is Roman Catholic, the employer shall treat him as belonging to that community.
 
-**2.**[^key-75d7a5a5802a39e79c928fa74ed15823] Where the employer does not have such a statement from an employee he shall ask that employee in writing whether he is Protestant or Roman Catholic or whether he is neither Protestant nor Roman Catholic.
+**2.**[^c-75d7a5a5802a39e79c928fa74ed15823] Where the employer does not have such a statement from an employee he shall ask that employee in writing whether he is Protestant or Roman Catholic or whether he is neither Protestant nor Roman Catholic.
 
-**3.**[^key-47f731916f0fda0da93235f59814bc19] Where in response to such a question, the employee makes a statement in writing that he is Protestant or that he is Roman Catholic, the employer shall treat him as belonging to that community.
+**3.**[^c-47f731916f0fda0da93235f59814bc19] Where in response to such a question, the employee makes a statement in writing that he is Protestant or that he is Roman Catholic, the employer shall treat him as belonging to that community.
 
-**4.**[^key-2744568cfe42e42a809f8ead399618fb] Where the employer has no such statement from the employee as is mentioned in paragraph 1 and the employee, in response to the question asked under paragraph 2—
+**4.**[^c-2744568cfe42e42a809f8ead399618fb] Where the employer has no such statement from the employee as is mentioned in paragraph 1 and the employee, in response to the question asked under paragraph 2—
 
 - (a) fails to make a written statement; or
 - (b) states in writing that he is neither Protestant or Roman Catholic;
@@ -552,16 +552,16 @@ he shall make no determination in respect of that employee under the method pres
 
 ### PART II — PRINCIPAL METHOD OF DETERMINING THE COMMUNITY TO WHICH APPLICANTS BELONG
 
-**5.**[^key-c854456c47620be1b344cc659a2f6d2e] (1) The employer shall, in writing, ask each applicant whether he is Protestant or Roman Catholic or whether he is neither Protestant nor Roman Catholic.
+**5.**[^c-c854456c47620be1b344cc659a2f6d2e] (1) The employer shall, in writing, ask each applicant whether he is Protestant or Roman Catholic or whether he is neither Protestant nor Roman Catholic.
 
 (2) The question referred to in sub-paragraph (1) shall be—
 
 - (a) included on or sent with any application form supplied by the employer for the purpose of the application; or
 - (b) sent to the applicant separately by post and accompanied by a pre-paid envelope addressed to the employer.
 
-**6.**[^key-98732763a3eb6047ad6b7f04c86136b6] Where in response to the question put to him under paragraph 5, the applicant sends to the employer a statement in writing that he is Protestant or that he is Roman Catholic, the employer shall treat him as belonging to that community.
+**6.**[^c-98732763a3eb6047ad6b7f04c86136b6] Where in response to the question put to him under paragraph 5, the applicant sends to the employer a statement in writing that he is Protestant or that he is Roman Catholic, the employer shall treat him as belonging to that community.
 
-**7.**[^key-653bb2bd06cedc90cad8543b7bef4f26] Where in response to the question asked under paragraph 5, the applicant—
+**7.**[^c-653bb2bd06cedc90cad8543b7bef4f26] Where in response to the question asked under paragraph 5, the applicant—
 
 - (a) fails to send the employer a written statement; or
 - (b) sends him a written statement that he is neither Protestant nor Roman Catholic,
@@ -572,7 +572,7 @@ the employer shall make no determination in respect of that applicant under the 
 
 Regulation 11(4)
 
-**1.**[^key-ec7832642567fbcc829949e37a37e777] For the purposes of regulation 11(1) to (3)—
+**1.**[^c-ec7832642567fbcc829949e37a37e777] For the purposes of regulation 11(1) to (3)—
 
 - (a) a person’s surname or other names will tend to show that he has a connection with a particular community if it is considerably more likely that a person belonging to that community would have such names than a person belonging to the other community;
 - (b) a person’s address will tend to show that he has a connection with a particular community if it is considerably more likely that a person belonging to that community would reside at that address than a person belonging to the other community;
@@ -586,7 +586,7 @@ Regulation 11(4)
   - (ii) has a connection with the Roman Catholic community in Northern Ireland if the referee so nominated is a clergyman of the Roman Catholic Church;
 - (i) the occupation as a teacher in a particular school of a referee nominated by any person will tend to show that the person nominating him has a connection with a particular community if it is considerably more likely that a person belonging to that community would nominate a referee who was a teacher in that school than a person belonging to the other community.
 
-**2.**[^key-46d45282d5ebe30edbeace8ba1d5b00f] For the purposes of regulation 11(1)(b) and (2)(b), where any of the relevant information about a person tends to show a connection between that person and a particular community, the less probable it is that that information would tend to show that connection in the case of a person who does not belong to that community, the stronger shall that connection be regarded.
+**2.**[^c-46d45282d5ebe30edbeace8ba1d5b00f] For the purposes of regulation 11(1)(b) and (2)(b), where any of the relevant information about a person tends to show a connection between that person and a particular community, the less probable it is that that information would tend to show that connection in the case of a person who does not belong to that community, the stronger shall that connection be regarded.
 
 (This note is not part of the Regulations.)
 
@@ -654,92 +654,92 @@ The Standard Occupational Classification mentioned in paragraph 1(g) of Schedule
 
 [^f00001]: Footnote: [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162); for definition of “Department” *see* Article 2(2) and for definition of “prescribed” see Articles 52(10) and 54(3)
 
-[^key-2a90bb9a7df6adf53aca7bebaf746cf8]: Commencement: Reg. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-2a90bb9a7df6adf53aca7bebaf746cf8]: Commencement: Reg. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-f658fbcbe456a2635f3190d2fe9e714e]: Commencement: Reg. 2 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-f658fbcbe456a2635f3190d2fe9e714e]: Commencement: Reg. 2 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1989 No. 475](https://www.legislation.gov.uk/nisr/1989/475) as last amended by [S.R. 1998 No. 424](https://www.legislation.gov.uk/nisr/1998/424); see also [S.R. 1999 No. 82](https://www.legislation.gov.uk/nisr/1999/82)
 
 [^f00003]: Footnote: [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
 
-[^key-b172515e30ee93d11e25ca72a2bd8891]: Commencement: Reg. 3 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-b172515e30ee93d11e25ca72a2bd8891]: Commencement: Reg. 3 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1989 No. 436](https://www.legislation.gov.uk/nisr/1989/436); *see* also [S.R. 1999 No. 82](https://www.legislation.gov.uk/nisr/1999/82)
 
 [^f00005]: Footnote: [S.R. 1991 No. 324](https://www.legislation.gov.uk/nisr/1991/324)
 
-[^key-8fd32132ac43ae89b4d579a134e8644b]: Commencement: Reg. 4 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-8fd32132ac43ae89b4d579a134e8644b]: Commencement: Reg. 4 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-119a3709229b1dd86f8b6cc72732cd34]: Commencement: Reg. 5 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-119a3709229b1dd86f8b6cc72732cd34]: Commencement: Reg. 5 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-1cc76d26f3c843bea42176210ad16e53]: Commencement: Reg. 6 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-1cc76d26f3c843bea42176210ad16e53]: Commencement: Reg. 6 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-6db03e818cddab65df2f592f9a1790a5]: Commencement: Reg. 7 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-6db03e818cddab65df2f592f9a1790a5]: Commencement: Reg. 7 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-eb83c8020b4c822e59a8bcea4f0c10fe]: Commencement: Reg. 8 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-eb83c8020b4c822e59a8bcea4f0c10fe]: Commencement: Reg. 8 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
 [^f00006]: Footnote: [1989 c. 32](https://www.legislation.gov.uk/ukpga/1989/32)
 
-[^key-1c662d46670ec82d1aaf59d89d5aed46]: Commencement: Reg. 9 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-1c662d46670ec82d1aaf59d89d5aed46]: Commencement: Reg. 9 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-9f7e53979bb41b80440ab5dd10be040a]: Commencement: Reg. 10 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-9f7e53979bb41b80440ab5dd10be040a]: Commencement: Reg. 10 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-30e4788005ea554cbc6abf340ca2169f]: Commencement: Reg. 11 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-30e4788005ea554cbc6abf340ca2169f]: Commencement: Reg. 11 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-a55a4d16624fe8655aef3d3d7d288489]: Commencement: Reg. 12 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-a55a4d16624fe8655aef3d3d7d288489]: Commencement: Reg. 12 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-d081308dbe730dfbbe24c1502a585f6f]: Commencement: Reg. 13 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-d081308dbe730dfbbe24c1502a585f6f]: Commencement: Reg. 13 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-7ec466ba0e68ccfceede3dda7ecfdd07]: Commencement: Reg. 14 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-7ec466ba0e68ccfceede3dda7ecfdd07]: Commencement: Reg. 14 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-4011e4cc555c21631d3cd3bc19e52a89]: Commencement: Reg. 15 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-4011e4cc555c21631d3cd3bc19e52a89]: Commencement: Reg. 15 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-73f788a8c1568e1f49109ffee2da7573]: Commencement: Reg. 16 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-73f788a8c1568e1f49109ffee2da7573]: Commencement: Reg. 16 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)
 
 [^f00009]: Footnote: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
-[^key-a9ecf0363722c1c78b06db4854e55001]: Commencement: Reg. 17 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-a9ecf0363722c1c78b06db4854e55001]: Commencement: Reg. 17 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-1be224248a880d3ecf6f4ce14217a563]: Commencement: Reg. 18 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-1be224248a880d3ecf6f4ce14217a563]: Commencement: Reg. 18 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-0c421627cbe002d53b3b421c0e79495d]: Commencement: Reg. 19 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-0c421627cbe002d53b3b421c0e79495d]: Commencement: Reg. 19 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-f0ad755ea06eff61655fa6fbd0f691a1]: Commencement: Reg. 20 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-f0ad755ea06eff61655fa6fbd0f691a1]: Commencement: Reg. 20 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-9d2d724e3aa03fa62c0e0bc6ae11e846]: Commencement: Reg. 21 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-9d2d724e3aa03fa62c0e0bc6ae11e846]: Commencement: Reg. 21 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-23ec086295bab4fea0d5862af1580647]: Commencement: Sch. 1 para. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-23ec086295bab4fea0d5862af1580647]: Commencement: Sch. 1 para. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-8a20b1b449576ffc70707cd30aecd18c]: Commencement: Sch. 1 para. 3 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-8a20b1b449576ffc70707cd30aecd18c]: Commencement: Sch. 1 para. 3 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-c9f37108413ee516381ff88b422d7f79]: Commencement: Sch. 1 para. 4 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-c9f37108413ee516381ff88b422d7f79]: Commencement: Sch. 1 para. 4 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-19c9168dd727172bee9f5532762ed0d4]: Commencement: Sch. 1 para. 5 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-19c9168dd727172bee9f5532762ed0d4]: Commencement: Sch. 1 para. 5 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-283094b0c5f858737b3d64476d2c86c4]: Commencement: Sch. 1 para. 6 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-283094b0c5f858737b3d64476d2c86c4]: Commencement: Sch. 1 para. 6 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-e650c62c7567a81fee63934540fbcae7]: Commencement: Sch. 1 para. 7 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-e650c62c7567a81fee63934540fbcae7]: Commencement: Sch. 1 para. 7 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-ebc8415fca9c54e70fdbbef90957bf5d]: Commencement: Sch. 1 para. 8 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-ebc8415fca9c54e70fdbbef90957bf5d]: Commencement: Sch. 1 para. 8 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-9c2ee203303a554c7567443efe59f588]: Commencement: Sch. 2 para. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-9c2ee203303a554c7567443efe59f588]: Commencement: Sch. 2 para. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-75d7a5a5802a39e79c928fa74ed15823]: Commencement: Sch. 2 para. 2 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-75d7a5a5802a39e79c928fa74ed15823]: Commencement: Sch. 2 para. 2 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-47f731916f0fda0da93235f59814bc19]: Commencement: Sch. 2 para. 3 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-47f731916f0fda0da93235f59814bc19]: Commencement: Sch. 2 para. 3 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-2744568cfe42e42a809f8ead399618fb]: Commencement: Sch. 2 para. 4 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-2744568cfe42e42a809f8ead399618fb]: Commencement: Sch. 2 para. 4 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-c854456c47620be1b344cc659a2f6d2e]: Commencement: Sch. 2 para. 5 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-c854456c47620be1b344cc659a2f6d2e]: Commencement: Sch. 2 para. 5 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-98732763a3eb6047ad6b7f04c86136b6]: Commencement: Sch. 2 para. 6 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-98732763a3eb6047ad6b7f04c86136b6]: Commencement: Sch. 2 para. 6 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-653bb2bd06cedc90cad8543b7bef4f26]: Commencement: Sch. 2 para. 7 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-653bb2bd06cedc90cad8543b7bef4f26]: Commencement: Sch. 2 para. 7 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-ec7832642567fbcc829949e37a37e777]: Commencement: Sch. 3 para. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-ec7832642567fbcc829949e37a37e777]: Commencement: Sch. 3 para. 1 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
 
-[^key-46d45282d5ebe30edbeace8ba1d5b00f]: Commencement: Sch. 3 para. 2 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)
+[^c-46d45282d5ebe30edbeace8ba1d5b00f]: Commencement: Sch. 3 para. 2 in operation at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/148/regulation/1)

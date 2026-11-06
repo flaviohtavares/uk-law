@@ -22,7 +22,7 @@ summary: ''
 
 (1) The appropriate regulator must assess the recovery plan within six months beginning with the date on which it receives the plan.
 
-(2)[^key-d3cc67fdbd162603214e6364ed771092] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d3cc67fdbd162603214e6364ed771092] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The appropriate regulator must—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3cc67fdbd162603214e6364ed771092]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/12/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3cc67fdbd162603214e6364ed771092]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/12/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

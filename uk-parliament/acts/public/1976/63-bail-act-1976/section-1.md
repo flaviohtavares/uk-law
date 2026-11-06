@@ -23,7 +23,7 @@ summary: ''
 (1) In this Act “**bail in criminal proceedings**” means—
 
 - (a) bail grantable in or in connection with proceedings for an offence to a person who is accused or convicted of the offence, or
-- (b) bail grantable in connection with an offence to a person who is under arrest for the offence or for whose arrest for the offence a warrant (endorsed for bail) is being issued., or[^key-bf15118a9c44f20bf9c59b9ae8b1b4f4]
+- (b) bail grantable in connection with an offence to a person who is under arrest for the offence or for whose arrest for the offence a warrant (endorsed for bail) is being issued., or[^c-bf15118a9c44f20bf9c59b9ae8b1b4f4]
 - (c) bail grantable in connection with extradition proceedings in respect of an offence.
 
 (2) In this Act “ **bail**” means bail grantable under the law (including common law) for the time being in force.
@@ -45,6 +45,6 @@ summary: ''
 
 [^c8001741]: Extent: For extent of s. 1 see s. 13(3)(4)
 
-[^key-bf15118a9c44f20bf9c59b9ae8b1b4f4]: Textual amendment: [S. 1(1)(c)](https://www.legislation.gov.uk/ukpga/1976/63/section/1/1/c) and word inserted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 198(2)](https://www.legislation.gov.uk/ukpga/2003/41/section/198/2), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/3103/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3103/article/4)) (as amended (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+[^c-bf15118a9c44f20bf9c59b9ae8b1b4f4]: Textual amendment: [S. 1(1)(c)](https://www.legislation.gov.uk/ukpga/1976/63/section/1/1/c) and word inserted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 198(2)](https://www.legislation.gov.uk/ukpga/2003/41/section/198/2), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/3103/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3103/article/4)) (as amended (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
 
 [^c8001751]: Textual amendment: S. 1(4) repealed (10.4.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/3), [Sch.11](https://www.legislation.gov.uk/ukpga/1994/33/schedule/11); [S.I. 1995/721](https://www.legislation.gov.uk/uksi/1995/721), [art. 2](https://www.legislation.gov.uk/uksi/1995/721/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/721/schedule) AppendixB

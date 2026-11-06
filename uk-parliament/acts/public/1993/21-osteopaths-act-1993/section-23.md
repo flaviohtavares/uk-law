@@ -29,7 +29,7 @@ summary: ''
 
 (3) Any condition in a conditions of practice order under this section shall be imposed so as to have effect for a period specified in the order.
 
-(4) At any time while a conditions of practice order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^key-ca380a13e2624a84bc61cd501c8ab282] , the Committee may (whether or not of its own motion)—
+(4) At any time while a conditions of practice order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^c-ca380a13e2624a84bc61cd501c8ab282] , the Committee may (whether or not of its own motion)—
 
 - (a) extend, or further extend, the period for which the order has effect; or
 - (b) make a suspension order with respect to the osteopath concerned.
@@ -40,7 +40,7 @@ summary: ''
 - (b) replace the order with a conditions of practice order having effect for the remainder of the period of suspension; or
 - (c) make a conditions of practice order with which the osteopath must comply if he resumes the practice of osteopathy after the end of his period of suspension.
 
-(6) On the application of the osteopath with respect to whom a conditions of practice order or a suspension order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^key-138a2289851734da805e8606b5f2455b] , the Committee may—
+(6) On the application of the osteopath with respect to whom a conditions of practice order or a suspension order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^c-138a2289851734da805e8606b5f2455b] , the Committee may—
 
 - (a) revoke the order;
 - (b) vary the order by reducing the period for which it has effect; or
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca380a13e2624a84bc61cd501c8ab282]: Textual amendment: Words in s. 23(4)(5) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
+[^c-ca380a13e2624a84bc61cd501c8ab282]: Textual amendment: Words in s. 23(4)(5) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
 
-[^key-138a2289851734da805e8606b5f2455b]: Textual amendment: Words in s. 23(6) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
+[^c-138a2289851734da805e8606b5f2455b]: Textual amendment: Words in s. 23(6) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. NHS Continuing Healthcare assessments: England[^key-10a3a378b5cf5f5c54e10f6d1015f50a]
+## 14. NHS Continuing Healthcare assessments: England[^c-10a3a378b5cf5f5c54e10f6d1015f50a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10a3a378b5cf5f5c54e10f6d1015f50a]: Textual amendment: S. 14 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-10a3a378b5cf5f5c54e10f6d1015f50a]: Textual amendment: S. 14 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Seal licence conditions[^key-46b4b3061e6533df1fb845e29e46586a]
+## 112. Seal licence conditions[^c-46b4b3061e6533df1fb845e29e46586a]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46b4b3061e6533df1fb845e29e46586a]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/5/section/112) in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/230/article/3/a)
+[^c-46b4b3061e6533df1fb845e29e46586a]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/5/section/112) in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/230/article/3/a)

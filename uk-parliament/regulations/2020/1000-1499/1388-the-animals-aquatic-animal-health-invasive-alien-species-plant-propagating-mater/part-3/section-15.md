@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. [Commission Regulation (EU) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576)[^key-5384510531262249f3f0d710e36579d0]
+## 15. [Commission Regulation (EU) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576)[^c-5384510531262249f3f0d710e36579d0]
 
 *Extent: E+W+S*
 
@@ -295,7 +295,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5384510531262249f3f0d710e36579d0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1388/regulation/15) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-5384510531262249f3f0d710e36579d0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1388/regulation/15) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00038]: Footnote: EUR 2013/576.
 

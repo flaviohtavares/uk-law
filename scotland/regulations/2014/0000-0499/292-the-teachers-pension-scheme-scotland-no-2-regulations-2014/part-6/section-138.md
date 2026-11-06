@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Supplementary death grant payable on death of pensioner member[^key-f80d2ab1966645c82f18b92de1898f3e]
+## 138. Supplementary death grant payable on death of pensioner member[^c-f80d2ab1966645c82f18b92de1898f3e]
 
 *Extent: S*
 
-(1) A death grant may be payable[^key-0b1bf16536bcac5d100f3ff13210ddb2] under this regulation (“supplementary death grant”) if—
+(1) A death grant may be payable[^c-0b1bf16536bcac5d100f3ff13210ddb2] under this regulation (“supplementary death grant”) if—
 
 - (a) a member (D) dies as a pensioner member; and
 - (b) AR is greater than AP.
@@ -34,6 +34,6 @@ where—
 
 ## Annotations
 
-[^key-f80d2ab1966645c82f18b92de1898f3e]: Commencement: [Reg. 138](https://www.legislation.gov.uk/ssi/2014/292/regulation/138) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-f80d2ab1966645c82f18b92de1898f3e]: Commencement: [Reg. 138](https://www.legislation.gov.uk/ssi/2014/292/regulation/138) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-0b1bf16536bcac5d100f3ff13210ddb2]: Textual amendment: Words in [reg. 138(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/138/1) substituted (with effect from 1.4.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Amendment Regulations 2017 (S.S.I. 2017/454)](https://www.legislation.gov.uk/ssi/2017/454), [regs. 1](https://www.legislation.gov.uk/ssi/2017/454/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/454/regulation/2/2)
+[^c-0b1bf16536bcac5d100f3ff13210ddb2]: Textual amendment: Words in [reg. 138(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/138/1) substituted (with effect from 1.4.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Amendment Regulations 2017 (S.S.I. 2017/454)](https://www.legislation.gov.uk/ssi/2017/454), [regs. 1](https://www.legislation.gov.uk/ssi/2017/454/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/454/regulation/2/2)

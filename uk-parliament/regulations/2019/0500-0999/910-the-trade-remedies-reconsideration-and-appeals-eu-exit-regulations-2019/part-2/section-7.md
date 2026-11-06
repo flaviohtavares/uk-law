@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. The use of information and facts available to the TRA from secondary sources[^key-70145c7d328a8142a04655974be8c1e0][^key-333ceee7677b54ba200f65d1451d4bad]
+## 7. The use of information and facts available to the TRA from secondary sources[^c-70145c7d328a8142a04655974be8c1e0][^c-333ceee7677b54ba200f65d1451d4bad]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70145c7d328a8142a04655974be8c1e0]: Commencement: Reg. 7 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-70145c7d328a8142a04655974be8c1e0]: Commencement: Reg. 7 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
 
-[^key-333ceee7677b54ba200f65d1451d4bad]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/910/regulation/7) modified (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2022/113/regulation/7/3/b), [18](https://www.legislation.gov.uk/uksi/2022/113/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))
+[^c-333ceee7677b54ba200f65d1451d4bad]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/910/regulation/7) modified (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2022/113/regulation/7/3/b), [18](https://www.legislation.gov.uk/uksi/2022/113/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))

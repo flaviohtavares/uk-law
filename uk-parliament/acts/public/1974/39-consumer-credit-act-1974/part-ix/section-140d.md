@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140D. Advice and information[^key-ff0e0af9a6c2490c40269ebc75facbd0]
+## 140D. Advice and information[^c-ff0e0af9a6c2490c40269ebc75facbd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff0e0af9a6c2490c40269ebc75facbd0]: Textual amendment: S. 140D omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(40)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/40)
+[^c-ff0e0af9a6c2490c40269ebc75facbd0]: Textual amendment: S. 140D omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(40)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/40)

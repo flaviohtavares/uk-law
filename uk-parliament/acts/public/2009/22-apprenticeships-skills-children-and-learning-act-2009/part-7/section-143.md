@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Effect of order specifying minimum requirements[^key-496f02c09d03672e81222e2c004cc60e]
+## 143. Effect of order specifying minimum requirements[^c-496f02c09d03672e81222e2c004cc60e]
 
 *Extent: E+W+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-496f02c09d03672e81222e2c004cc60e]: Commencement: S. 143 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-496f02c09d03672e81222e2c004cc60e]: Commencement: S. 143 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

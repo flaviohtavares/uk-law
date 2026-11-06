@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Publication of schemes[^key-fead5d2e9b165a11ce2d3356751236fc]
+## 46. Publication of schemes[^c-fead5d2e9b165a11ce2d3356751236fc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fead5d2e9b165a11ce2d3356751236fc]: Commencement: Reg. 46 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-fead5d2e9b165a11ce2d3356751236fc]: Commencement: Reg. 46 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

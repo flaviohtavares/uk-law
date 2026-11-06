@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The court by or before which a person is convicted of an offence under section 8[^key-70ca3be9e0c6a982e8f0392edde594b1] may order the destruction of an animal in relation to which the offence was committed on grounds other than the interests of the animal.
+(1) The court by or before which a person is convicted of an offence under section 8[^c-70ca3be9e0c6a982e8f0392edde594b1] may order the destruction of an animal in relation to which the offence was committed on grounds other than the interests of the animal.
 
 (2) A court may not make an order under subsection (1) unless—
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70ca3be9e0c6a982e8f0392edde594b1]: Textual amendment: Word in [s. 37(1)](https://www.legislation.gov.uk/nia/2011/16/section/37/1) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(6)(b)](https://www.legislation.gov.uk/nia/2016/21/section/48/6/b), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)
+[^c-70ca3be9e0c6a982e8f0392edde594b1]: Textual amendment: Word in [s. 37(1)](https://www.legislation.gov.uk/nia/2011/16/section/37/1) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(6)(b)](https://www.legislation.gov.uk/nia/2016/21/section/48/6/b), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)

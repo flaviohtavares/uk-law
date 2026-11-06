@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110B. Direction that assumptions are not to apply[^key-8feebb16e434cd860cedd9f31f864664]
+## 110B. Direction that assumptions are not to apply[^c-8feebb16e434cd860cedd9f31f864664]
 
 *Extent: E+W+S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8feebb16e434cd860cedd9f31f864664]: Textual amendment: [Regs. 110A-110C](https://www.legislation.gov.uk/uksi/2017/1012/regulation/110A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/16) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-8feebb16e434cd860cedd9f31f864664]: Textual amendment: [Regs. 110A-110C](https://www.legislation.gov.uk/uksi/2017/1012/regulation/110A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/16) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

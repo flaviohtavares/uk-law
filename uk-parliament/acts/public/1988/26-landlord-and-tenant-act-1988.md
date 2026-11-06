@@ -33,7 +33,7 @@ An Act to make new provision for imposing statutory duties in connection with co
 
 [^c8034701]\[29th July 1988\]
 
-[^c8034711][^c8034721]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-2c5692844d8bfaaa4753ee2dcad74013][^key-5b4a18ebd08736c631da06f6b39d0b7d]
+[^c8034711][^c8034721]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-2c5692844d8bfaaa4753ee2dcad74013][^c-5b4a18ebd08736c631da06f6b39d0b7d]
 
 ## 1. Qualified duty to consent to assigning, underletting etc. of premises.[^c8034731]
 
@@ -138,7 +138,7 @@ A claim that a person has broken any duty under this Act may be made the subject
 - (a) served in any manner provided in the tenancy, and
 - (b) in respect of any matter for which the tenancy makes no provision, served in any manner provided by section 23 of the [^c8034781]Landlord and Tenant Act 1927.
 
-(3) This Act does not apply to a secure tenancy (defined in section 79 of the [^c8034791]Housing Act 1985) or to an introductory tenancy (within the meaning of Chapter I of Part V of the Housing Act 1996)[^c8034801] or to an occupation contract (within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1)) *(Extent: W)*[^key-13e7a2ef1e480ddeaa48d197f7cccce2].
+(3) This Act does not apply to a secure tenancy (defined in section 79 of the [^c8034791]Housing Act 1985) or to an introductory tenancy (within the meaning of Chapter I of Part V of the Housing Act 1996)[^c8034801] or to an occupation contract (within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1)) *(Extent: W)*[^c-13e7a2ef1e480ddeaa48d197f7cccce2].
 
 (4) This Act applies only to applications for consent or approval served after its coming into force.
 
@@ -162,9 +162,9 @@ This Act binds the Crown; but as regards the Crown’s liability in tort shall n
 
 [^c8034721]: Modification: Act modified (*prosp.*) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/13)
 
-[^key-2c5692844d8bfaaa4753ee2dcad74013]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/26) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/13); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/669/article/2/a)
+[^c-2c5692844d8bfaaa4753ee2dcad74013]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/26) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/13); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/669/article/2/a)
 
-[^key-5b4a18ebd08736c631da06f6b39d0b7d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/26) excluded (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 3(1)(d)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/3/1/d); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
+[^c-5b4a18ebd08736c631da06f6b39d0b7d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/26) excluded (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 3(1)(d)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/3/1/d); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
 
 [^c8034731]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1988/26/section/1) restricted (1.1.1996) by [1927 c. 36](https://www.legislation.gov.uk/ukpga/1927/36), [s. 19(1A)](https://www.legislation.gov.uk/ukpga/1927/36/section/19/1A) (as inserted (1.1.1996) by [1995 c. 30](https://www.legislation.gov.uk/ukpga/1995/30), [s. 22](https://www.legislation.gov.uk/ukpga/1995/30/section/22) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1995/30/section/2/2), [26(1)](https://www.legislation.gov.uk/ukpga/1995/30/section/26/1)); [S.I. 1995/2963](https://www.legislation.gov.uk/uksi/1995/2963), [art. 2](https://www.legislation.gov.uk/uksi/1995/2963/article/2)
 
@@ -176,6 +176,6 @@ This Act binds the Crown; but as regards the Crown’s liability in tort shall n
 
 [^c8034801]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1988/26/section/5/3) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/5)
 
-[^key-13e7a2ef1e480ddeaa48d197f7cccce2]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1988/26/section/5/3) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [17(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/17/2)
+[^c-13e7a2ef1e480ddeaa48d197f7cccce2]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1988/26/section/5/3) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [17(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/17/2)
 
 [^c8034811]: Marginal citation: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103A. Proprietor which is body corporate etc.[^key-53e7558bf694a83b6d52ce7fa5181950]
+## 103A. Proprietor which is body corporate etc.[^c-53e7558bf694a83b6d52ce7fa5181950]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53e7558bf694a83b6d52ce7fa5181950]: Textual amendment: [Ss. 103A-103B](https://www.legislation.gov.uk/ukpga/1980/44/section/103A) inserted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 7](https://www.legislation.gov.uk/asp/2004/12/section/7), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))
+[^c-53e7558bf694a83b6d52ce7fa5181950]: Textual amendment: [Ss. 103A-103B](https://www.legislation.gov.uk/ukpga/1980/44/section/103A) inserted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 7](https://www.legislation.gov.uk/asp/2004/12/section/7), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))

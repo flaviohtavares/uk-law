@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4AA. Limited liability partnerships[^key-ee927493d1accf6f620d09205c9ce0fd]
+## 4AA. Limited liability partnerships[^c-ee927493d1accf6f620d09205c9ce0fd]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) prescribe how earnings in respect of E's employed earner employment with the limited liability partnership are to be determined (including what constitutes such earnings);
 - (c) provide that such earnings are to be treated as being paid to or for the benefit of E at prescribed times.
 
-(2) Regulations under subsection (1) may modify the definition of “employee” or “employer” in section 163, 171, 171ZJ , 171ZS[^key-f0ac72653d6f3583cabb9aae20eefff8] , 171ZZ14 or 171ZZ24[^key-36db704759407936c0a028f268137a90] below as the Treasury consider appropriate to take account of any provision falling within subsection (1)(a) to (c).
+(2) Regulations under subsection (1) may modify the definition of “employee” or “employer” in section 163, 171, 171ZJ , 171ZS[^c-f0ac72653d6f3583cabb9aae20eefff8] , 171ZZ14 or 171ZZ24[^c-36db704759407936c0a028f268137a90] below as the Treasury consider appropriate to take account of any provision falling within subsection (1)(a) to (c).
 
 (3) If—
 
@@ -45,8 +45,8 @@ the Treasury may by regulations make that provision.
 
 ## Annotations
 
-[^key-ee927493d1accf6f620d09205c9ce0fd]: Textual amendment: S. 4AA inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/2)
+[^c-ee927493d1accf6f620d09205c9ce0fd]: Textual amendment: S. 4AA inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/2)
 
-[^key-f0ac72653d6f3583cabb9aae20eefff8]: Textual amendment: Words in s. 4AA(2) substituted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/12); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-f0ac72653d6f3583cabb9aae20eefff8]: Textual amendment: Words in s. 4AA(2) substituted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/12); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-36db704759407936c0a028f268137a90]: Textual amendment: Words in s. 4AA(2) substituted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/12); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-36db704759407936c0a028f268137a90]: Textual amendment: Words in s. 4AA(2) substituted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/12); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1C — Annual exempt amount in cases involving settled property[^key-c23eb31a699845d43863d099aca4ea55]
+## SCHEDULE 1C — Annual exempt amount in cases involving settled property[^c-c23eb31a699845d43863d099aca4ea55]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (3) For the definitions of those expressions, see paragraphs 3 and 7 respectively.
 
-(4) In this Schedule any reference to the application of section 1K in relation to an individual for a tax year is to its application in relation to an individual to whom subsection (6) of that section does not apply.[^key-cb90902ad83232ba614823a4395f6452]
+(4) In this Schedule any reference to the application of section 1K in relation to an individual for a tax year is to its application in relation to an individual to whom subsection (6) of that section does not apply.[^c-cb90902ad83232ba614823a4395f6452]
 
 ### Settlements for the benefit of disabled persons
 
@@ -164,6 +164,6 @@ sub-paragraphs (2)(b) and (3)(b) have effect by reference to the largest group.
 
 ## Annotations
 
-[^key-c23eb31a699845d43863d099aca4ea55]: Textual amendment: [Sch. 1C](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1C) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/16)
+[^c-c23eb31a699845d43863d099aca4ea55]: Textual amendment: [Sch. 1C](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1C) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/16)
 
-[^key-cb90902ad83232ba614823a4395f6452]: Textual amendment: Words in [Sch. 1C para. 1(4)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1C/paragraph/1/4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(9)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/9/11)
+[^c-cb90902ad83232ba614823a4395f6452]: Textual amendment: Words in [Sch. 1C para. 1(4)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/1C/paragraph/1/4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(9)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/9/11)

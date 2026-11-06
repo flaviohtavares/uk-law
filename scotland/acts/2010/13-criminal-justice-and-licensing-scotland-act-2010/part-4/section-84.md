@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Admissibility of prior statements of witnesses: abolition of competence test[^key-e7e6d4f5b0ceb0596cbad32af3f85f15]
+## 84. Admissibility of prior statements of witnesses: abolition of competence test[^c-e7e6d4f5b0ceb0596cbad32af3f85f15]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7e6d4f5b0ceb0596cbad32af3f85f15]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2010/13/section/84) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-e7e6d4f5b0ceb0596cbad32af3f85f15]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2010/13/section/84) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

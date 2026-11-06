@@ -32,7 +32,7 @@ Each miscellaneous additive for which specific purity criteria are specified or 
 
 except in so far as those specific purity criteria provide otherwise or in the case of E 957 Thaumatin.
 
-### E 170(i). Calcium carbonate[^key-4ca7f8e328b6242f58f98a7c787dc829]
+### E 170(i). Calcium carbonate[^c-4ca7f8e328b6242f58f98a7c787dc829]
 
 |  |  |
 | --- | --- |
@@ -44,71 +44,71 @@ except in so far as those specific purity criteria provide otherwise or in the c
 | Lead | Not more than 20 mg per kg. |
 | Other inorganic impurities | Not more than 100 mg per kg of any of the following substances, namely antimony, copper, chromium, zinc or barium sulphate, or more than 200 mg per kg of any combination of those substances. |
 
-### E 200. Sorbic acid[^key-5b81e096ae499107c102116a3a4375b6]
+### E 200. Sorbic acid[^c-5b81e096ae499107c102116a3a4375b6]
 
-### E 202. Potassium sorbate[^key-6ea14c57fa358e02666898d0b74fd455]
+### E 202. Potassium sorbate[^c-6ea14c57fa358e02666898d0b74fd455]
 
-### E 203. Calcium sorbate[^key-5c56f3c4d3d6b7c675245de33debe338]
+### E 203. Calcium sorbate[^c-5c56f3c4d3d6b7c675245de33debe338]
 
-### E 210. Benzoic acid[^key-6dbe5ad696ffa3beda0742ea0a25d20e]
+### E 210. Benzoic acid[^c-6dbe5ad696ffa3beda0742ea0a25d20e]
 
-### E 211. Sodium benzoate[^key-16d94e85a5769c083733590978367a57]
+### E 211. Sodium benzoate[^c-16d94e85a5769c083733590978367a57]
 
-### E 212. Potassium benzoate[^key-7e461b3d12aef1c53ea8780e59b64391]
+### E 212. Potassium benzoate[^c-7e461b3d12aef1c53ea8780e59b64391]
 
-### E 213. Calcium benzoate[^key-095dd647da490b0cdecb9b2afd2dc52c]
+### E 213. Calcium benzoate[^c-095dd647da490b0cdecb9b2afd2dc52c]
 
-### E 214. Ethyl p-hydroxybenzoate[^key-480cad5b8a13c1b8a3f84c2fae31fc77]
+### E 214. Ethyl p-hydroxybenzoate[^c-480cad5b8a13c1b8a3f84c2fae31fc77]
 
 |  |  |
 | --- | --- |
 | Synonyms | Ethyl 4-hydroxybenzoate<br>Ethyl ester of *p*-hydroxybenzoic acid |
 
-### E 215. Sodium ethyl p-hydroxybenzoate[^key-6e49050cae24d4f570e6088ea2115d09]
+### E 215. Sodium ethyl p-hydroxybenzoate[^c-6e49050cae24d4f570e6088ea2115d09]
 
 |  |  |
 | --- | --- |
 | Synonyms | Ethyl 4-hydroxybenzoate, sodium salt<br>Sodium ethyl *para-*hydroxybenzoate |
 
-### E 216. Propyl p-hydroxybenzoate[^key-8dd180d563788782004cabfbadf975d4]
+### E 216. Propyl p-hydroxybenzoate[^c-8dd180d563788782004cabfbadf975d4]
 
 |  |  |
 | --- | --- |
 | Synonyms | Propyl 4-hydroxybenzoate<br>Propyl *para-*hydroxybenzoate *n*-propyl *p*-hydroxybenzoate |
 
-### E 217. Sodium propyl p-hydroxybenzoate[^key-ce11283f903d9933297f1ee70be8d0ca]
+### E 217. Sodium propyl p-hydroxybenzoate[^c-ce11283f903d9933297f1ee70be8d0ca]
 
 |  |  |
 | --- | --- |
 | Synonyms | Propyl 4-hydroxybenzoate, sodium salt<br>Sodium propyl *para-*hydroxybenzoate<br>Sodium *n*-propyl *p-*hydroxybenzoate |
 
-### E 218. Methyl p-hydroxybenzoate[^key-5286e05e6402c7ae55500643143e06ca]
+### E 218. Methyl p-hydroxybenzoate[^c-5286e05e6402c7ae55500643143e06ca]
 
 |  |  |
 | --- | --- |
 | Synonyms | Methyl 4-hydroxybenzoate<br>Methyl *para-*hydroxybenzoate |
 
-### E 219. Sodium methyl p-hydroxybenzoate[^key-9693f02a9af0dd17387dcd00422632d1]
+### E 219. Sodium methyl p-hydroxybenzoate[^c-9693f02a9af0dd17387dcd00422632d1]
 
 |  |  |
 | --- | --- |
 | Synonyms | Methyl 4-hydroxybenzoate, sodium salt<br>Sodium methyl *para-*hydroxybenzoate |
 
-### E 220. Sulphur dioxide[^key-dc4f62d0179a677487aebad854cf6566]
+### E 220. Sulphur dioxide[^c-dc4f62d0179a677487aebad854cf6566]
 
-### E 221. Sodium sulphite (anhydrous or heptahydrate)[^key-f5dedf067f738c48fc7a742c55af0465]
+### E 221. Sodium sulphite (anhydrous or heptahydrate)[^c-f5dedf067f738c48fc7a742c55af0465]
 
-### E 222. Sodium hydrogen sulphite[^key-3779c4bd4ac9e00935adf96ca5ab2da3]
+### E 222. Sodium hydrogen sulphite[^c-3779c4bd4ac9e00935adf96ca5ab2da3]
 
 |  |  |
 | --- | --- |
 | Synonym | Acid sodium sulphite |
 
-### E 223. Sodium metabisulphite[^key-f0bfd51bc16d23bdc36f09a29e9af51e]
+### E 223. Sodium metabisulphite[^c-f0bfd51bc16d23bdc36f09a29e9af51e]
 
 - the appropriate specific purity criteria contained in Council Directive [65/66/EEC](https://www.legislation.gov.uk/european/directive/1965/0066) as amended by Council Directive [67/428/EEC](https://www.legislation.gov.uk/european/directive/1967/0428) and Council Directive [76/463/EEC](https://www.legislation.gov.uk/european/directive/1976/0463).
 
-### E 224. Potassium metabisulphite[^key-9367ce968278552924bcea871e34eb89]
+### E 224. Potassium metabisulphite[^c-9367ce968278552924bcea871e34eb89]
 
 <table>
 <tbody>
@@ -116,13 +116,13 @@ except in so far as those specific purity criteria provide otherwise or in the c
 </tbody>
 </table>
 
-### E 226. Calcium sulphite[^key-6262cc2fe4c1f7c2de36144228149511]
+### E 226. Calcium sulphite[^c-6262cc2fe4c1f7c2de36144228149511]
 
-### E 227. Calcium hydrogen sulphite[^key-3a32134dfa36ba0fe05c8eb1d712e78b]
+### E 227. Calcium hydrogen sulphite[^c-3a32134dfa36ba0fe05c8eb1d712e78b]
 
 - the appropriate specific purity criteria contained in Council Directive [65/66/EEC](https://www.legislation.gov.uk/european/directive/1965/0066) as amended by Council Directive [76/463/EEC](https://www.legislation.gov.uk/european/directive/1976/0463).
 
-### E 228. Potassium hydrogen sulphite[^key-1adfaf9f1736e337e02b248abecba9d4]
+### E 228. Potassium hydrogen sulphite[^c-1adfaf9f1736e337e02b248abecba9d4]
 
 <table>
 <tbody>
@@ -133,21 +133,21 @@ except in so far as those specific purity criteria provide otherwise or in the c
 
 [^f00051]
 
-### E 230. Biphenyl, diphenyl[^key-d0dd95155130d01caae63dce272af65c]
+### E 230. Biphenyl, diphenyl[^c-d0dd95155130d01caae63dce272af65c]
 
-### E 231. Orthophenyl phenol[^key-c76770b9b159aaedddd1feda5177de1c]
+### E 231. Orthophenyl phenol[^c-c76770b9b159aaedddd1feda5177de1c]
 
 |  |  |
 | --- | --- |
 | Synonym | 2-Hydroxybiphenyl |
 
-### E 232. Sodium orthophenyl phenol[^key-fd599dcee3a07f7c08c1147dd9f79e21]
+### E 232. Sodium orthophenyl phenol[^c-fd599dcee3a07f7c08c1147dd9f79e21]
 
 |  |  |
 | --- | --- |
 | Synonyms | Sodium biphenyl-2-yl-oxide<br>Sodium orthophenylphenate |
 
-### E 233. Thiabendazole[^key-e05f3d0fd79c9642912e7232fd590c0d]
+### E 233. Thiabendazole[^c-e05f3d0fd79c9642912e7232fd590c0d]
 
 <table>
 <tbody>
@@ -156,7 +156,7 @@ except in so far as those specific purity criteria provide otherwise or in the c
 </tbody>
 </table>
 
-### E 234. Nisin[^key-e2ff4b9562ee57cd730e1971e4ea7980]
+### E 234. Nisin[^c-e2ff4b9562ee57cd730e1971e4ea7980]
 
 <table>
 <tbody>
@@ -164,33 +164,33 @@ except in so far as those specific purity criteria provide otherwise or in the c
 </tbody>
 </table>
 
-### E 239. Hexamethylene tetramine[^key-4bb0b9f49a11bdee6e26b7b12ab5c2b0]
+### E 239. Hexamethylene tetramine[^c-4bb0b9f49a11bdee6e26b7b12ab5c2b0]
 
 |  |  |
 | --- | --- |
 | Synonym | Hexamine |
 
-### E 249. Potassium nitrite[^key-44370ad6eae31ec748017e6adff026ca]
+### E 249. Potassium nitrite[^c-44370ad6eae31ec748017e6adff026ca]
 
 - the appropriate specific purity criteria contained in Council Directive [65/66/EEC](https://www.legislation.gov.uk/european/directive/1965/0066) as amended by Council Directive [76/463/EEC](https://www.legislation.gov.uk/european/directive/1976/0463).
 - In the case of:—
 
-### E 250. Sodium nitrite[^key-dc650a8d88199bc7170a03bf7f355557]
+### E 250. Sodium nitrite[^c-dc650a8d88199bc7170a03bf7f355557]
 
-### E 251. Sodium nitrate[^key-7eb81940c8064d26a5b72e655e49f821]
+### E 251. Sodium nitrate[^c-7eb81940c8064d26a5b72e655e49f821]
 
-### E 252. Potassium nitrate[^key-230c6c26ed87f4666a40ea6f913cb562]
+### E 252. Potassium nitrate[^c-230c6c26ed87f4666a40ea6f913cb562]
 
 - the appropriate specific purity criteria contained in Council Directive [65/66/EEC](https://www.legislation.gov.uk/european/directive/1965/0066) as amended by Council Directive [67/428/EEC](https://www.legislation.gov.uk/european/directive/1967/0428) and Council Directive [76/463/EEC](https://www.legislation.gov.uk/european/directive/1976/0463).
 - In the case of:—
 
-### E 260. Acetic acid[^key-a22d655d616a143d55da73004a3521b7]
+### E 260. Acetic acid[^c-a22d655d616a143d55da73004a3521b7]
 
-### E 261. Potassium acetate[^key-c643211bf18f5b7c1ae1a6f3a15b90af]
+### E 261. Potassium acetate[^c-c643211bf18f5b7c1ae1a6f3a15b90af]
 
 - the appropriate specific purity criteria contained in Council Directive [65/66/EEC](https://www.legislation.gov.uk/european/directive/1965/0066).
 
-### E 262(i). Sodium acetate[^key-928321698068964efabd40fe79e82165]
+### E 262(i). Sodium acetate[^c-928321698068964efabd40fe79e82165]
 
 ### Sodium acetate, anhydrous
 
@@ -202,17 +202,17 @@ The criteria in the monograph for sodium acetate contained in the Food Chemicals
 
 In the case of:—
 
-### E 262(ii). Sodium diacetate[^key-a24829cb765efe18c96364175ff3a662]
+### E 262(ii). Sodium diacetate[^c-a24829cb765efe18c96364175ff3a662]
 
 |  |  |
 | --- | --- |
 | Synonym | Sodium hydrogen diacetate |
 
-### E 263. Calcium acetate[^key-1be061349de5574cdd9eb1c6ecfd1eb2]
+### E 263. Calcium acetate[^c-1be061349de5574cdd9eb1c6ecfd1eb2]
 
 - the appropriate specific purity criteria contained in Council Directive [65/66/EEC](https://www.legislation.gov.uk/european/directive/1965/0066).
 
-### E 270. Lactic acid[^key-c7f08fe9f2b1c3be50dd7f90715144d5]
+### E 270. Lactic acid[^c-c7f08fe9f2b1c3be50dd7f90715144d5]
 
 <table>
 <tbody>
@@ -220,15 +220,15 @@ In the case of:—
 </tbody>
 </table>
 
-### E 280. Propionic acid[^key-6678bae46239d101100ec49c52dce823]
+### E 280. Propionic acid[^c-6678bae46239d101100ec49c52dce823]
 
-### E 281. Sodium propionate[^key-5f490b880ca3873445d142b3278fde2c]
+### E 281. Sodium propionate[^c-5f490b880ca3873445d142b3278fde2c]
 
-### E 282. Calcium propionate[^key-a8c6a6f21f30bea5d7572b1ce14edc4b]
+### E 282. Calcium propionate[^c-a8c6a6f21f30bea5d7572b1ce14edc4b]
 
 - the appropriate specific purity criteria contained in Council Directive [65/66/EEC](https://www.legislation.gov.uk/european/directive/1965/0066) as amended by Council Directive [67/428/EEC](https://www.legislation.gov.uk/european/directive/1967/0428) and Council Directive [76/463/EEC](https://www.legislation.gov.uk/european/directive/1976/0463).
 
-### E 283. Potassium propionate[^key-fe7a7cba9e5e3e4d53ec3b0a8926105d]
+### E 283. Potassium propionate[^c-fe7a7cba9e5e3e4d53ec3b0a8926105d]
 
 <table>
 <tbody>
@@ -236,7 +236,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 290. Carbon dioxide[^key-0d5981f9feed8887d7eade54012be697]
+### E 290. Carbon dioxide[^c-0d5981f9feed8887d7eade54012be697]
 
 <table>
 <tbody>
@@ -244,7 +244,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 296. Malic acid[^key-9d39e5ec6c3d3154f460c75425a6d835]
+### E 296. Malic acid[^c-9d39e5ec6c3d3154f460c75425a6d835]
 
 <table>
 <tbody>
@@ -256,7 +256,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 297. Fumaric acid[^key-88d1c23c65df7a2679d6552aca1a4171]
+### E 297. Fumaric acid[^c-88d1c23c65df7a2679d6552aca1a4171]
 
 <table>
 <tbody>
@@ -264,145 +264,145 @@ In the case of:—
 </tbody>
 </table>
 
-### E 300. Ascorbic acid[^key-ce1b33b1ff8b4decacd07951212de4b7]
+### E 300. Ascorbic acid[^c-ce1b33b1ff8b4decacd07951212de4b7]
 
-### E 301. Sodium ascorbate[^key-546411bdc5fd6fa6a8a3868312841ed4]
+### E 301. Sodium ascorbate[^c-546411bdc5fd6fa6a8a3868312841ed4]
 
-### E 302. Calcium ascorbate[^key-ed707240dec3c8376ebfd167a6d27dd4]
+### E 302. Calcium ascorbate[^c-ed707240dec3c8376ebfd167a6d27dd4]
 
-### E 304. Fatty acid esters of ascorbic acid[^key-ddd1fa72ff9d62a42de6a155acac31ae]
+### E 304. Fatty acid esters of ascorbic acid[^c-ddd1fa72ff9d62a42de6a155acac31ae]
 
-### E 304(i). Ascorbyl palmitate[^key-337deb368fb52f93559e2d0d5326d9f4]
+### E 304(i). Ascorbyl palmitate[^c-337deb368fb52f93559e2d0d5326d9f4]
 
-### E 306. Tocopherol-rich extract[^key-8153d7d24f94180b8d4cf9df7460f68a]
+### E 306. Tocopherol-rich extract[^c-8153d7d24f94180b8d4cf9df7460f68a]
 
-### E 307. Alpha-tocopherol[^key-e21745ced14831feafd6f5b7935e0f61]
+### E 307. Alpha-tocopherol[^c-e21745ced14831feafd6f5b7935e0f61]
 
-### E 308. Gamma-tocopherol[^key-2d1510d3168559820f966c08df000075]
+### E 308. Gamma-tocopherol[^c-2d1510d3168559820f966c08df000075]
 
-### E 309. Delta-tocopherol[^key-be6a7a3401f9d37437a9b87c45737a62]
+### E 309. Delta-tocopherol[^c-be6a7a3401f9d37437a9b87c45737a62]
 
-### E 310. Propyl gallate[^key-0887e007babe1a5005cac0e5d9d68c1c]
+### E 310. Propyl gallate[^c-0887e007babe1a5005cac0e5d9d68c1c]
 
-### E 311. Octyl gallate[^key-e05e1ae0963401c5737a519030779c05]
+### E 311. Octyl gallate[^c-e05e1ae0963401c5737a519030779c05]
 
-### E 312. Dodecyl gallate[^key-5f5f7dfeb36db083b6e8b9b62272a6c8]
+### E 312. Dodecyl gallate[^c-5f5f7dfeb36db083b6e8b9b62272a6c8]
 
-### E 320. Butylated hydroxyanisole (BHA)[^key-1e75c2e95c200e14f815ed7dc1be9a9b]
+### E 320. Butylated hydroxyanisole (BHA)[^c-1e75c2e95c200e14f815ed7dc1be9a9b]
 
-### E 321. Butylated hydroxytoluene (BHT)[^key-c4d83ed5a3c91b02fe5dd4d6093b81e1]
+### E 321. Butylated hydroxytoluene (BHT)[^c-c4d83ed5a3c91b02fe5dd4d6093b81e1]
 
 - the appropriate specific purity criteria contained in Council Directive [78/664/EEC](https://www.legislation.gov.uk/european/directive/1978/0664)[^f00052].
 
-### E 322. Lecithins[^key-cca0e7c19494a6f9502e2e06ac6e698a]
+### E 322. Lecithins[^c-cca0e7c19494a6f9502e2e06ac6e698a]
 
 - The specific purity criteria for lecithins contained in Council Directive [78/664/EEC](https://www.legislation.gov.uk/european/directive/1978/0664) as amended by Article 1.2 of Council Directive [82/712/EEC](https://www.legislation.gov.uk/european/directive/1982/0712)[^f00053].
 
 In the case of:—
 
-### E 325. Sodium lactate[^key-19f0f7fd4a46ad6fd324366decf51201]
+### E 325. Sodium lactate[^c-19f0f7fd4a46ad6fd324366decf51201]
 
-### E 326. Potassium lactate[^key-925a744ea03e8eb149ba5f2041ae5130]
+### E 326. Potassium lactate[^c-925a744ea03e8eb149ba5f2041ae5130]
 
-### E 327. Calcium lactate[^key-3a92a3a689015d6fdd253ccc01358bc0]
+### E 327. Calcium lactate[^c-3a92a3a689015d6fdd253ccc01358bc0]
 
-### E 330. Citric acid[^key-b8ecb86ca7af38ca6849439f8a03fd71]
+### E 330. Citric acid[^c-b8ecb86ca7af38ca6849439f8a03fd71]
 
-### E 331(i). Monosodium citrate[^key-b5f11dc919da7666bf90c85d2a8d3e22]
+### E 331(i). Monosodium citrate[^c-b5f11dc919da7666bf90c85d2a8d3e22]
 
 |  |  |
 | --- | --- |
 | Synonym | Sodium dihydrogen citrate |
 
-### E 331(ii). Disodium citrate[^key-3ca3a370291e5e8143f8b974c2c3ba8d]
+### E 331(ii). Disodium citrate[^c-3ca3a370291e5e8143f8b974c2c3ba8d]
 
-### E 331(iii). Trisodium citrate[^key-c65a4ec6435e9bf8b36b2334b8502d6c]
+### E 331(iii). Trisodium citrate[^c-c65a4ec6435e9bf8b36b2334b8502d6c]
 
-### E 332(i). Monopotassium citrate[^key-fcb6ce1cf132094fb8e081c325659b97]
+### E 332(i). Monopotassium citrate[^c-fcb6ce1cf132094fb8e081c325659b97]
 
 |  |  |
 | --- | --- |
 | Synonym | Potassium dihydrogen citrate |
 
-### E 332(ii). Tripotassium citrate[^key-3a0a9b22e0bc9ecb1c8885a1f3118675]
+### E 332(ii). Tripotassium citrate[^c-3a0a9b22e0bc9ecb1c8885a1f3118675]
 
-### E 333(i). Monocalcium citrate[^key-2d82e18974c2d0f20770d96218c2c394]
+### E 333(i). Monocalcium citrate[^c-2d82e18974c2d0f20770d96218c2c394]
 
-### E 333(ii). Dicalcium citrate[^key-fbde0dffc8364878708e05ff0e47b85f]
+### E 333(ii). Dicalcium citrate[^c-fbde0dffc8364878708e05ff0e47b85f]
 
-### E 333(iii). Tricalcium citrate[^key-199b11c14f7cd8458b0f92a984f5f070]
+### E 333(iii). Tricalcium citrate[^c-199b11c14f7cd8458b0f92a984f5f070]
 
-### E 334. L-(+)-Tartaric acid[^key-cb7a1d104294ae891296df862ccb1180]
+### E 334. L-(+)-Tartaric acid[^c-cb7a1d104294ae891296df862ccb1180]
 
-### E 335(i). Monosodium L-(+)-tartrate[^key-629e73718f8963339a79039eda625bfd]
+### E 335(i). Monosodium L-(+)-tartrate[^c-629e73718f8963339a79039eda625bfd]
 
-### E 335(ii). Disodium L-(+)-tartrate[^key-6840823d467e6b9589ea5bd9f7d9ccab]
+### E 335(ii). Disodium L-(+)-tartrate[^c-6840823d467e6b9589ea5bd9f7d9ccab]
 
-### E 336(i). Monopotassium L-(+)-tartrate[^key-22c4ada1faeaffd8f55a9218dcaba625]
+### E 336(i). Monopotassium L-(+)-tartrate[^c-22c4ada1faeaffd8f55a9218dcaba625]
 
-### E336(ii). Dipotassium L-(+)-tartrate[^key-43eb95eb33026662bb83d8a97b732090]
+### E336(ii). Dipotassium L-(+)-tartrate[^c-43eb95eb33026662bb83d8a97b732090]
 
-### E 337. Sodium potassium L-(+)-tartrate[^key-52c243ad42cc78b9039396fe32f6afe6]
+### E 337. Sodium potassium L-(+)-tartrate[^c-52c243ad42cc78b9039396fe32f6afe6]
 
 |  |  |
 | --- | --- |
 | Synonym | Potassium sodium tartrate |
 
-### E 338. Phosphoric acid[^key-a0252e364603b592486dd2c5e931349b]
+### E 338. Phosphoric acid[^c-a0252e364603b592486dd2c5e931349b]
 
 |  |  |
 | --- | --- |
 | Synonym | Orthophosphoric acid |
 
-### E 339(i). Monosodium phosphate[^key-ce3982fc1104c96f1757089e4d8484e2]
+### E 339(i). Monosodium phosphate[^c-ce3982fc1104c96f1757089e4d8484e2]
 
 |  |  |
 | --- | --- |
 | Synonym | Monosodium orthophosphate |
 
-### E 339(ii). Disodium phosphate[^key-684ec57d0e3f9fd21864f7faa8e7035a]
+### E 339(ii). Disodium phosphate[^c-684ec57d0e3f9fd21864f7faa8e7035a]
 
 |  |  |
 | --- | --- |
 | Synonym | Disodium orthophosphate Disodium hydrogen orthophosphate |
 
-### E 339(iii). Trisodium phosphate[^key-6e72e66c67ac155255369460bea3b5b5]
+### E 339(iii). Trisodium phosphate[^c-6e72e66c67ac155255369460bea3b5b5]
 
 |  |  |
 | --- | --- |
 | Synonym | Trisodium orthophosphate |
 
-### E 340(i). Monopotassium phosphate[^key-ac9956ebe37baf38ed645c087be60fbc]
+### E 340(i). Monopotassium phosphate[^c-ac9956ebe37baf38ed645c087be60fbc]
 
 |  |  |
 | --- | --- |
 | Synonyms | Monodipotassium orthophosphate Potassium dihydrogen orthophosphate |
 
-### E 340(ii). Dipotassium phosphate[^key-d9ded60f41114fa378944c91db924f52]
+### E 340(ii). Dipotassium phosphate[^c-d9ded60f41114fa378944c91db924f52]
 
 |  |  |
 | --- | --- |
 | Synonyms | Dipotassium orthophosphate Dipotassium hydrogen orthophosphate |
 
-### E 340(iii). Tripotassium phosphate[^key-1a22f9275c856c4cd917987a16133069]
+### E 340(iii). Tripotassium phosphate[^c-1a22f9275c856c4cd917987a16133069]
 
 |  |  |
 | --- | --- |
 | Synonym | Tripotassium orthophosphate |
 
-### E 341(i). Monocalcium phosphate[^key-53a8446b0b106d7df7e64b93729d38c2]
+### E 341(i). Monocalcium phosphate[^c-53a8446b0b106d7df7e64b93729d38c2]
 
 |  |  |
 | --- | --- |
 | Synonyms | Monocalcium orthophosphate Calcium tetrahydrogen diorthophosphate |
 
-### E 341(ii). Dicalcium phosphate[^key-28748181ec8f47afbb25111aef139f46]
+### E 341(ii). Dicalcium phosphate[^c-28748181ec8f47afbb25111aef139f46]
 
 |  |  |
 | --- | --- |
 | Synonyms | Dicalcium orthophosphate Calcium hydrogen orthophosphate |
 
-### E 340(iii). Tricalcium phosphate[^key-cea6159a90fb8b960c496d4e92a2cd19]
+### E 340(iii). Tricalcium phosphate[^c-cea6159a90fb8b960c496d4e92a2cd19]
 
 |  |  |
 | --- | --- |
@@ -410,7 +410,7 @@ In the case of:—
 
 - the appropriate specific purity criteria contained in Council Directive [78/664/EEC](https://www.legislation.gov.uk/european/directive/1978/0664).
 
-### E 350(i). Sodium malate[^key-66a0ecfce0b4866aaa238a2b9612600d]
+### E 350(i). Sodium malate[^c-66a0ecfce0b4866aaa238a2b9612600d]
 
 |  |  |
 | --- | --- |
@@ -418,7 +418,7 @@ In the case of:—
 | Content | Not less than 59.5 per centum of C<sub>4</sub>H<sub>4</sub>O<sub>5</sub>Na<sub>2</sub>. |
 | Maleic acid | Not more than 0.05 per centum calculated on the C<sub>4</sub>H<sub>4</sub>O<sub>5</sub>Na<sub>2</sub> content. |
 
-### E 350(ii). Sodium hydrogen malate[^key-ab4ac14e5aec09f5a1918a47ccc0dcfa]
+### E 350(ii). Sodium hydrogen malate[^c-ab4ac14e5aec09f5a1918a47ccc0dcfa]
 
 |  |  |
 | --- | --- |
@@ -427,7 +427,7 @@ In the case of:—
 | Volatile matter | Not more than 2 per centum (determined by drying at 110°C for 3 hours) |
 | Maleic acid | Not more than 0.05 per centum. |
 
-### E 351. Potassium malate[^key-58c01476e92b9c8a75e5fd81c7942d5f]
+### E 351. Potassium malate[^c-58c01476e92b9c8a75e5fd81c7942d5f]
 
 |  |  |
 | --- | --- |
@@ -435,7 +435,7 @@ In the case of:—
 | Content | Not less than 59.5 per centum of C<sub>4</sub>H<sub>4</sub>O<sub>5</sub>K<sub>2</sub> |
 | Maleic acid | Not more than 0.05 per centum calculated on the C<sub>4</sub>H<sub>4</sub>O<sub>5</sub>K<sub>2</sub> content. |
 
-### E 352(i). Calcium malate[^key-37a5b460c43f92f07f47da78e5ee358f]
+### E 352(i). Calcium malate[^c-37a5b460c43f92f07f47da78e5ee358f]
 
 |  |  |
 | --- | --- |
@@ -445,7 +445,7 @@ In the case of:—
 | Maleic acid | Not more than 0.05 per centum. |
 | Fluoride | Not more than 30 mg per kg on a volatile matter-free basis |
 
-### E 352(ii). Calcium hydrogen malate[^key-06c5f5f2e921b232d472a5d17725080c]
+### E 352(ii). Calcium hydrogen malate[^c-06c5f5f2e921b232d472a5d17725080c]
 
 |  |  |
 | --- | --- |
@@ -455,7 +455,7 @@ In the case of:—
 | Maleic acid | Not more than 0.05 per centum. |
 | Fluoride | Not more than 30 mg per kg on a volatile matter-free basis |
 
-### E 353. Metatartaric acid[^key-9a52047b1f371189d7119f1b2817ab43]
+### E 353. Metatartaric acid[^c-9a52047b1f371189d7119f1b2817ab43]
 
 |  |  |
 | --- | --- |
@@ -467,7 +467,7 @@ In the case of:—
 | Matter insoluble in water (at about 20°C) | Not more than 2.5 per centum (insoluble matter weighed after drying for 3 hours at 70°C in a vacuum oven). |
 | Pyruvic acid | Not more than 0.5 per centum. |
 
-### E 355. Adipic acid[^key-c559c2a80c72c50bb1cdfc1777e0cb66]
+### E 355. Adipic acid[^c-c559c2a80c72c50bb1cdfc1777e0cb66]
 
 <table>
 <tbody>
@@ -475,7 +475,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 363. Succinic acid[^key-2544977c88902654725d9f58009f004e]
+### E 363. Succinic acid[^c-2544977c88902654725d9f58009f004e]
 
 <table>
 <tbody>
@@ -483,7 +483,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 380. Triammonium citrate[^key-42888c5ec5c48110786ade912c351e64]
+### E 380. Triammonium citrate[^c-42888c5ec5c48110786ade912c351e64]
 
 <table>
 <tbody>
@@ -492,7 +492,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 385. Calcium disodium ethylenediamine — N N N'N' — tetra-acetate[^key-8a502152e606e44c129deea4f07ad674]
+### E 385. Calcium disodium ethylenediamine — N N N'N' — tetra-acetate[^c-8a502152e606e44c129deea4f07ad674]
 
 <table>
 <tbody>
@@ -501,23 +501,23 @@ In the case of:—
 </tbody>
 </table>
 
-### E 400. Alginic acid[^key-82cebe2a3eacfd88c25fe74173d8f2ce]
+### E 400. Alginic acid[^c-82cebe2a3eacfd88c25fe74173d8f2ce]
 
-### E 401. Sodium alginate[^key-2d5911b8d373a77585b72c4caa36e256]
+### E 401. Sodium alginate[^c-2d5911b8d373a77585b72c4caa36e256]
 
-### E 402. Potassium alginate[^key-1e37b0575578b1ff36b7da61ea972ceb]
+### E 402. Potassium alginate[^c-1e37b0575578b1ff36b7da61ea972ceb]
 
-### E 403. Ammonium alginate[^key-bb035271a55064d112174337e695aa9c]
+### E 403. Ammonium alginate[^c-bb035271a55064d112174337e695aa9c]
 
-### E 404. Calcium alginate[^key-8b38064abfd9bc634ae62b41abdbcc4f]
+### E 404. Calcium alginate[^c-8b38064abfd9bc634ae62b41abdbcc4f]
 
-### E 405. Propane-1,2-diol alginate[^key-e4d8b3468674c357039fd64873b03138]
+### E 405. Propane-1,2-diol alginate[^c-e4d8b3468674c357039fd64873b03138]
 
 |  |  |
 | --- | --- |
 | Synonym | Propylene glycol alginate |
 
-### E 406. Agar[^key-25c2132a965ec81614d955538fa697b8]
+### E 406. Agar[^c-25c2132a965ec81614d955538fa697b8]
 
 <table>
 <tbody>
@@ -525,7 +525,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 407. Carrageenan[^key-9e65a7ebfec60493d142dd0e92b20e27]
+### E 407. Carrageenan[^c-9e65a7ebfec60493d142dd0e92b20e27]
 
 <table>
 <tbody>
@@ -535,23 +535,23 @@ In the case of:—
 
 [^f00056]
 
-### E 410. Locust bean gum[^key-15ddb0996615b3808a4f927eb81ae9a6]
+### E 410. Locust bean gum[^c-15ddb0996615b3808a4f927eb81ae9a6]
 
 |  |  |
 | --- | --- |
 | Synonym | Carob gum |
 
-### E 412. Guar gum[^key-c31605fc91bc524a5cc049221ffc2d65]
+### E 412. Guar gum[^c-c31605fc91bc524a5cc049221ffc2d65]
 
-### E 413. Tragacanth[^key-35a9d90d7f7485007b384a07d3b9742b]
+### E 413. Tragacanth[^c-35a9d90d7f7485007b384a07d3b9742b]
 
-### E 414. Acacia[^key-8623a6277a6e5634bf5dcbd74402ba00]
+### E 414. Acacia[^c-8623a6277a6e5634bf5dcbd74402ba00]
 
 |  |  |
 | --- | --- |
 | Synonym | Gum arabic |
 
-### E 415. Xanthan gum[^key-6db29145f766a1145deb6dc3fae1ce5f]
+### E 415. Xanthan gum[^c-6db29145f766a1145deb6dc3fae1ce5f]
 
 <table>
 <tbody>
@@ -559,7 +559,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 416. Karaya gum[^key-69464ac91debf98b220b250c99d0c1c6]
+### E 416. Karaya gum[^c-69464ac91debf98b220b250c99d0c1c6]
 
 <table>
 <tbody>
@@ -568,15 +568,15 @@ In the case of:—
 </tbody>
 </table>
 
-### E 420(i). Sorbitol[^key-c5fdde41bbdfde971644dcf118efc2e0]
+### E 420(i). Sorbitol[^c-c5fdde41bbdfde971644dcf118efc2e0]
 
-### E 420(ii). Sorbitol syrup[^key-3addbb9cc16bdad0e417ca3fbdc75c79]
+### E 420(ii). Sorbitol syrup[^c-3addbb9cc16bdad0e417ca3fbdc75c79]
 
-### E 421. Mannitol[^key-9142ef75d8c476d0346525c8fabbaf85]
+### E 421. Mannitol[^c-9142ef75d8c476d0346525c8fabbaf85]
 
 - the appropriate specific purity criteria contained in Commission Directive [95/31/EC](https://www.legislation.gov.uk/european/directive/1995/0031)[^f00057].
 
-### E 422. Glycerol[^key-8e4c7734fc5762f224cba00fa37b813f]
+### E 422. Glycerol[^c-8e4c7734fc5762f224cba00fa37b813f]
 
 <table>
 <tbody>
@@ -584,7 +584,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 432. Polyoxyethylene (20) sorbitan monolaurate[^key-d465c46b0c16c396643bbcc84ec50108]
+### E 432. Polyoxyethylene (20) sorbitan monolaurate[^c-d465c46b0c16c396643bbcc84ec50108]
 
 <table>
 <tbody>
@@ -593,7 +593,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 433. Polyoxyethylene (20) sorbitan monooleate[^key-b914b6fd319e72816301330c1fecfcfe]
+### E 433. Polyoxyethylene (20) sorbitan monooleate[^c-b914b6fd319e72816301330c1fecfcfe]
 
 <table>
 <tbody>
@@ -602,7 +602,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 434. Polyoxyethylene (20) sorbitan monopalmitate[^key-1c52ecd2e6f2b604d366219f1f35b89c]
+### E 434. Polyoxyethylene (20) sorbitan monopalmitate[^c-1c52ecd2e6f2b604d366219f1f35b89c]
 
 <table>
 <tbody>
@@ -611,7 +611,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 435. Polyoxyethylene (20) sorbitan monostearate[^key-e94341fec808a91ac10647df04fbae1a]
+### E 435. Polyoxyethylene (20) sorbitan monostearate[^c-e94341fec808a91ac10647df04fbae1a]
 
 <table>
 <tbody>
@@ -620,7 +620,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 436. Polyoxyethylene (20) sorbitan tristearate[^key-d0838124aa1d2e12f36096e629c820dd]
+### E 436. Polyoxyethylene (20) sorbitan tristearate[^c-d0838124aa1d2e12f36096e629c820dd]
 
 <table>
 <tbody>
@@ -629,13 +629,13 @@ In the case of:—
 </tbody>
 </table>
 
-### E 440(i). Pectin[^key-9f630ef1e11e6ce64601782a1b7d2ef0]
+### E 440(i). Pectin[^c-9f630ef1e11e6ce64601782a1b7d2ef0]
 
-### E 440(ii). Amidated pectin[^key-75b559d101545677d6da0a5cdbd968ed]
+### E 440(ii). Amidated pectin[^c-75b559d101545677d6da0a5cdbd968ed]
 
 - the appropriate specific purity criteria contained in Council Directive [78/663/EEC](https://www.legislation.gov.uk/european/directive/1978/0663).
 
-### E 442. Ammonium phosphatides[^key-470e5c740775df9161226a74ef783832]
+### E 442. Ammonium phosphatides[^c-470e5c740775df9161226a74ef783832]
 
 |  |  |
 | --- | --- |
@@ -646,17 +646,17 @@ In the case of:—
 | Ammonium nitrogen | Not less than 1.2 per centum and not more than 1.5 per centum. |
 | Arsenic | Not more than 5 mg per kg. |
 
-### E 450(i). Disodium diphosphate[^key-ec231cb7f86fbeebf5ca3b48c3f5ae77]
+### E 450(i). Disodium diphosphate[^c-ec231cb7f86fbeebf5ca3b48c3f5ae77]
 
-### E 450(ii). Trisodium diphosphate[^key-98a853966569bbae2cae6e07748e171f]
+### E 450(ii). Trisodium diphosphate[^c-98a853966569bbae2cae6e07748e171f]
 
-### E 450(iii). Tetrasodium diphosphate[^key-28d5a0ee3deb1fdac4467e84d40526ce]
+### E 450(iii). Tetrasodium diphosphate[^c-28d5a0ee3deb1fdac4467e84d40526ce]
 
-### E 450(v). Tetrapotassium diphosphate[^key-f1c0f4493faa38556941c50bfe686448]
+### E 450(v). Tetrapotassium diphosphate[^c-f1c0f4493faa38556941c50bfe686448]
 
 - the appropriate specific purity criteria contained in Council Directive [78/663/EEC](https://www.legislation.gov.uk/european/directive/1978/0663).
 
-### E 450(vi). Dicalcium diphosphate[^key-aa21e480af026004289c5338bd07f3c3]
+### E 450(vi). Dicalcium diphosphate[^c-aa21e480af026004289c5338bd07f3c3]
 
 <table>
 <tbody>
@@ -665,17 +665,17 @@ In the case of:—
 </tbody>
 </table>
 
-### E 451(i). Pentasodium triphosphate[^key-d298d4a5a4dc131e8a2e64e9967071be]
+### E 451(i). Pentasodium triphosphate[^c-d298d4a5a4dc131e8a2e64e9967071be]
 
-### E 451(ii). Pentapotassium triphosphate[^key-16e62805df24f5601f811cc9730cffc5]
+### E 451(ii). Pentapotassium triphosphate[^c-16e62805df24f5601f811cc9730cffc5]
 
-### E 452(i). Sodium polyphosphate[^key-925d82de10de0d26cccbb18531fb162d]
+### E 452(i). Sodium polyphosphate[^c-925d82de10de0d26cccbb18531fb162d]
 
-### E 452(ii). Potassium polyphosphate[^key-541ba987c9894f41c4231f0e14347bc4]
+### E 452(ii). Potassium polyphosphate[^c-541ba987c9894f41c4231f0e14347bc4]
 
 - the appropriate specific purity criteria contained in Council Directive [78/663/EEC](https://www.legislation.gov.uk/european/directive/1978/0663).
 
-### E 452(iv). Calcium polyphosphates[^key-2c3308f78935554f202ea85df18854a7]
+### E 452(iv). Calcium polyphosphates[^c-2c3308f78935554f202ea85df18854a7]
 
 |  |  |
 | --- | --- |
@@ -685,7 +685,7 @@ In the case of:—
 | Cyclic phosphate | Not more than 8 per centum calculated on the P<sub>2</sub>O<sub>5</sub> content. |
 | Fluoride | Not more than 15 mg per kg calculated on the P<sub>2</sub>O<sub>5</sub> content. |
 
-### E 460(i). Microcrystalline cellulose[^key-3bce3b63d0f87186125c7f6f8c8b9d26]
+### E 460(i). Microcrystalline cellulose[^c-3bce3b63d0f87186125c7f6f8c8b9d26]
 
 <table>
 <tbody>
@@ -693,7 +693,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 460(ii). Powdered cellulose[^key-a186d7e2041c2a8cc481d48666d13a3a]
+### E 460(ii). Powdered cellulose[^c-a186d7e2041c2a8cc481d48666d13a3a]
 
 <table>
 <tbody>
@@ -702,19 +702,19 @@ In the case of:—
 </tbody>
 </table>
 
-### E 461. Methylcellulose[^key-904a3003ad04265bc4caceb13be97756]
+### E 461. Methylcellulose[^c-904a3003ad04265bc4caceb13be97756]
 
-### E 463. Hydroxypropylcellulose[^key-177b48a68947bbcaf2b2647b15822c17]
+### E 463. Hydroxypropylcellulose[^c-177b48a68947bbcaf2b2647b15822c17]
 
-### E 464. Hydroxypropylmethylcellulose[^key-34da6e29da4b85d05695625a99b54c03]
+### E 464. Hydroxypropylmethylcellulose[^c-34da6e29da4b85d05695625a99b54c03]
 
-### E 465. Ethylmethylcellulose[^key-18c9bfb79e51f73e84b91b64ac9b13b1]
+### E 465. Ethylmethylcellulose[^c-18c9bfb79e51f73e84b91b64ac9b13b1]
 
 |  |  |
 | --- | --- |
 | Synonym | Methylethylcellulose |
 
-### E 466. Carboxymethylcellulose[^key-54c3ec042dab5897aca0a013b748e653]
+### E 466. Carboxymethylcellulose[^c-54c3ec042dab5897aca0a013b748e653]
 
 <table>
 <tbody>
@@ -723,41 +723,41 @@ In the case of:—
 </tbody>
 </table>
 
-### E 470a. Sodium, potassium and calcium salts of fatty acids[^key-79003934913f5b7e25ffeacea067c900]
+### E 470a. Sodium, potassium and calcium salts of fatty acids[^c-79003934913f5b7e25ffeacea067c900]
 
-### E 471. Mono- and diglycerides of fatty acids[^key-f19c0475f61207bedcc45c86ff874695]
+### E 471. Mono- and diglycerides of fatty acids[^c-f19c0475f61207bedcc45c86ff874695]
 
-### E 472(a). Acetic acid esters of mono- and diglycerides of fatty acids[^key-3b9682edd119a13d29a8efc41b286f59]
+### E 472(a). Acetic acid esters of mono- and diglycerides of fatty acids[^c-3b9682edd119a13d29a8efc41b286f59]
 
 |  |  |
 | --- | --- |
 | Synonym | Acetylated mono- and diglycerides |
 
-### E 472(b). Lactic acid esters of mono- and diglycerides of fatty acids[^key-ca6f24cbbefc0929775eb2de6471b6d1]
+### E 472(b). Lactic acid esters of mono- and diglycerides of fatty acids[^c-ca6f24cbbefc0929775eb2de6471b6d1]
 
 |  |  |
 | --- | --- |
 | Synonyms | Lactylated mono- and diglycerides<br>Lactoglycerides |
 
-### E 472(c). Citric acid esters of mono- and diglycerides of fatty acids[^key-a89680b4ab10563c9c025ecb4cbba99d]
+### E 472(c). Citric acid esters of mono- and diglycerides of fatty acids[^c-a89680b4ab10563c9c025ecb4cbba99d]
 
 |  |  |
 | --- | --- |
 | Synonym | Citroglycerides |
 
-### E 472(d). Tartaric acid esters of mono- and diglycerides of fatty acids[^key-7b672fc943207343a4fa9d422c415688]
+### E 472(d). Tartaric acid esters of mono- and diglycerides of fatty acids[^c-7b672fc943207343a4fa9d422c415688]
 
-### E 472(e). Mono-and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids[^key-abc6714b4f6042f51aa54b63a882d506]
+### E 472(e). Mono-and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids[^c-abc6714b4f6042f51aa54b63a882d506]
 
 |  |  |
 | --- | --- |
 | Synonym | Mono- and diacetyl tartaric acid esters of mono-and diglycerides |
 
-### E 472(f). Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids[^key-2277d60e2b15daf2f28b8c5bf8454411]
+### E 472(f). Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids[^c-2277d60e2b15daf2f28b8c5bf8454411]
 
 - the appropriate specific purity criteria contained in Council Directive [78/663/EEC](https://www.legislation.gov.uk/european/directive/1978/0663).
 
-### E 473. Sucrose esters of fatty acids[^key-81f527b4184d280bab6ca6ee2dd2ecdc]
+### E 473. Sucrose esters of fatty acids[^c-81f527b4184d280bab6ca6ee2dd2ecdc]
 
 <table>
 <tbody>
@@ -767,7 +767,7 @@ In the case of:—
 
 [^f00058]
 
-### E 474. Sucroglycerides[^key-a60b864f253c6cfbd25174d5ade7e7c3]
+### E 474. Sucroglycerides[^c-a60b864f253c6cfbd25174d5ade7e7c3]
 
 <table>
 <tbody>
@@ -775,7 +775,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 475. Polyglycerol esters of fatty acids[^key-f8357e6ec7ba1af14b95eed77b0791f9]
+### E 475. Polyglycerol esters of fatty acids[^c-f8357e6ec7ba1af14b95eed77b0791f9]
 
 <table>
 <tbody>
@@ -783,7 +783,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 476. Polyglycerol polyricinoleate[^key-6e8d2f75fc267fad79fceb9cdd3637d0]
+### E 476. Polyglycerol polyricinoleate[^c-6e8d2f75fc267fad79fceb9cdd3637d0]
 
 |  |  |
 | --- | --- |
@@ -794,7 +794,7 @@ In the case of:—
 | Iodine value | Not less than 72 and not more than 103 (Wijs). |
 | Acid value | Not more than 6 mg KOH per g. |
 
-### E 477. Propane-1,2-diol esters of fatty acids[^key-3aad711fa3a37f340bcfa5e1086964b3]
+### E 477. Propane-1,2-diol esters of fatty acids[^c-3aad711fa3a37f340bcfa5e1086964b3]
 
 <table>
 <tbody>
@@ -803,15 +803,15 @@ In the case of:—
 </tbody>
 </table>
 
-### E 481. Sodium stearoyl-2-lactylate[^key-cf6d43b7cb912820f05caa653162469a]
+### E 481. Sodium stearoyl-2-lactylate[^c-cf6d43b7cb912820f05caa653162469a]
 
-### E 482. Calcium stearoyl-2-lactylate[^key-eed4d2735635ea386aeee36e257507ce]
+### E 482. Calcium stearoyl-2-lactylate[^c-eed4d2735635ea386aeee36e257507ce]
 
-### E 483. Stearyl tartrate[^key-bd401d8ce75e6c1af4924682069c22c9]
+### E 483. Stearyl tartrate[^c-bd401d8ce75e6c1af4924682069c22c9]
 
 - the appropriate specific purity criteria contained in Council Directive [78/663/EEC](https://www.legislation.gov.uk/european/directive/1978/0663).
 
-### E 491. Sorbitan monostearate[^key-6019a6d72d196b7010a0c1f9b63ae9b3]
+### E 491. Sorbitan monostearate[^c-6019a6d72d196b7010a0c1f9b63ae9b3]
 
 <table>
 <tbody>
@@ -819,7 +819,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 492. Sorbitan tristearate[^key-cd1e62e0d08cd87e6ccc2ddd94ea90a6]
+### E 492. Sorbitan tristearate[^c-cd1e62e0d08cd87e6ccc2ddd94ea90a6]
 
 <table>
 <tbody>
@@ -827,7 +827,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 493. Sorbitan monolaurate[^key-7d4d41a1e8c5fc0a76e6de7820b950f8]
+### E 493. Sorbitan monolaurate[^c-7d4d41a1e8c5fc0a76e6de7820b950f8]
 
 <table>
 <tbody>
@@ -835,7 +835,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 494. Sorbitan monooleate[^key-c66d799b93d8ceb443e5bb5100a7efc0]
+### E 494. Sorbitan monooleate[^c-c66d799b93d8ceb443e5bb5100a7efc0]
 
 <table>
 <tbody>
@@ -843,7 +843,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 495. Sorbitan monopalmitate[^key-eb322e9ddb2d36f176eaa71da693188c]
+### E 495. Sorbitan monopalmitate[^c-eb322e9ddb2d36f176eaa71da693188c]
 
 <table>
 <tbody>
@@ -851,7 +851,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 500(i). Sodium carbonate[^key-42c9c2b0cadfbe40e7ab768d9502bcbc]
+### E 500(i). Sodium carbonate[^c-42c9c2b0cadfbe40e7ab768d9502bcbc]
 
 |  |  |
 | --- | --- |
@@ -863,7 +863,7 @@ In the case of:—
 | Chloride | Not more than 0.4 per centum on a volatile matter-free basis |
 | Iron | Not more than 40 mg per kg on a volatile matter-free basis. |
 
-### E 500(ii). Sodium hydrogen carbonate[^key-6b57f1dd42db5435357e0e4f1c93ea90]
+### E 500(ii). Sodium hydrogen carbonate[^c-6b57f1dd42db5435357e0e4f1c93ea90]
 
 <table>
 <tbody>
@@ -872,7 +872,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 500(iii). Sodium sesquicarbonate[^key-cde95df3a07483ddeb6dfa5eefa05abf]
+### E 500(iii). Sodium sesquicarbonate[^c-cde95df3a07483ddeb6dfa5eefa05abf]
 
 <table>
 <tbody>
@@ -880,7 +880,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 501(i). Potassium carbonate[^key-202568d33473f27f94445ebc38a22992]
+### E 501(i). Potassium carbonate[^c-202568d33473f27f94445ebc38a22992]
 
 |  |  |
 | --- | --- |
@@ -888,7 +888,7 @@ In the case of:—
 | Content | Not less than 98 per centum K<sub>2</sub>CO<sub>3</sub> on a volatile matter-free basis. |
 | Volatile matter | - Not more than:<br>  - 2 per centum for the non-hydrated substance;<br>  - 18 per centum for the hydrated substance; (determined by drying at 180°C for 4 hours) |
 
-### E 501(ii). Potassium hydrogen carbonate[^key-eaa82654bf134019450df10aec4ce0fb]
+### E 501(ii). Potassium hydrogen carbonate[^c-eaa82654bf134019450df10aec4ce0fb]
 
 <table>
 <tbody>
@@ -897,7 +897,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 503(i). Ammonium carbonate[^key-defb1267f6415b798a9c39244d43bb87]
+### E 503(i). Ammonium carbonate[^c-defb1267f6415b798a9c39244d43bb87]
 
 <table>
 <tbody>
@@ -905,7 +905,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 503(ii). Ammonium hydrogen carbonate[^key-1da46480e6ebb141398ca2bb7c565e30]
+### E 503(ii). Ammonium hydrogen carbonate[^c-1da46480e6ebb141398ca2bb7c565e30]
 
 <table>
 <tbody>
@@ -914,7 +914,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 504. Magnesium carbonates[^key-a72a3147f886844ca80c3e9b4b2d628f]
+### E 504. Magnesium carbonates[^c-a72a3147f886844ca80c3e9b4b2d628f]
 
 ### Magnesium carbonate, heavy
 
@@ -932,7 +932,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 507. Hydrochloric acid[^key-afbd88721d059eeacc81f146c7dec77a]
+### E 507. Hydrochloric acid[^c-afbd88721d059eeacc81f146c7dec77a]
 
 <table>
 <tbody>
@@ -940,7 +940,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 508. Potassium chloride[^key-be14a60f3e15c44ba5cbb8eafaa41ac9]
+### E 508. Potassium chloride[^c-be14a60f3e15c44ba5cbb8eafaa41ac9]
 
 <table>
 <tbody>
@@ -948,7 +948,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 509. Calcium chloride[^key-37821e3e8b7ec81566817c6eedcc9faf]
+### E 509. Calcium chloride[^c-37821e3e8b7ec81566817c6eedcc9faf]
 
 ### Calcium chloride, anhydrous
 
@@ -967,7 +967,7 @@ In the case of:—
 | Magnesium and alkali salts | Not more than 2 per centum, determined by the method in the monograph for calcium chloride contained in the Food Chemicals Codex 1972 at page 123 except that the weight of the residue shall not exceed 10 mg. |
 | Fluoride | Not more than 40 mg per kg on an anhydrous basis. |
 
-### E 513. Sulphuric acid[^key-fd98d5d3136f6897bf0cdc2222df1a6a]
+### E 513. Sulphuric acid[^c-fd98d5d3136f6897bf0cdc2222df1a6a]
 
 <table>
 <tbody>
@@ -975,7 +975,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 514(i). Sodium sulphate[^key-ac812c58f00db377aa858e42cc68c618]
+### E 514(i). Sodium sulphate[^c-ac812c58f00db377aa858e42cc68c618]
 
 <table>
 <tbody>
@@ -983,7 +983,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 515(i). Potassium sulphate[^key-6dd3eca4e723c22d8e017b91168ecf7c]
+### E 515(i). Potassium sulphate[^c-6dd3eca4e723c22d8e017b91168ecf7c]
 
 <table>
 <tbody>
@@ -991,7 +991,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 516. Calcium sulphate[^key-25d60e4a9df3ce5c6ecdae8ce6c58d47]
+### E 516. Calcium sulphate[^c-25d60e4a9df3ce5c6ecdae8ce6c58d47]
 
 <table>
 <tbody>
@@ -999,7 +999,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 522. Aluminium potassium sulphate[^key-9ff8266e3155d4a5cd97cb33e7bfc7b9]
+### E 522. Aluminium potassium sulphate[^c-9ff8266e3155d4a5cd97cb33e7bfc7b9]
 
 <table>
 <tbody>
@@ -1008,7 +1008,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 524. Sodium hydroxide[^key-1a4e91d3d61ccd19fd24dcfeea744797]
+### E 524. Sodium hydroxide[^c-1a4e91d3d61ccd19fd24dcfeea744797]
 
 <table>
 <tbody>
@@ -1016,7 +1016,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 525. Potassium hydroxide[^key-4a8671391d2af019dabb608d1eb070ba]
+### E 525. Potassium hydroxide[^c-4a8671391d2af019dabb608d1eb070ba]
 
 <table>
 <tbody>
@@ -1024,7 +1024,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 526. Calcium hydroxide[^key-0d7d15e42eb86615503b9c0a3dd94420]
+### E 526. Calcium hydroxide[^c-0d7d15e42eb86615503b9c0a3dd94420]
 
 |  |  |
 | --- | --- |
@@ -1037,7 +1037,7 @@ In the case of:—
 | Sulphate | Not more than 0.35 per centum. |
 | Fluoride | Not more than 50 mg per kg. |
 
-### E 527. Ammonium hydroxide[^key-af718f1efecb35a14546d7c48d911e40]
+### E 527. Ammonium hydroxide[^c-af718f1efecb35a14546d7c48d911e40]
 
 <table>
 <tbody>
@@ -1045,7 +1045,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 528. Magnesium hydroxide[^key-09e02aa3cd3426df44404108ee05175f]
+### E 528. Magnesium hydroxide[^c-09e02aa3cd3426df44404108ee05175f]
 
 <table>
 <tbody>
@@ -1053,7 +1053,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 529. Calcium oxide[^key-0c93dbffef9150da16be66fc9a3c8691]
+### E 529. Calcium oxide[^c-0c93dbffef9150da16be66fc9a3c8691]
 
 <table>
 <tbody>
@@ -1061,7 +1061,7 @@ In the case of:—
 </tbody>
 </table>
 
-### E 530. Magnesium oxide[^key-4e47332bcd4e60d47693034e0103d018]
+### E 530. Magnesium oxide[^c-4e47332bcd4e60d47693034e0103d018]
 
 ### Magnesium oxide, heavy
 
@@ -1097,7 +1097,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 535. Sodium ferrocyanide[^key-c8790523f6f6f48ee4e0f7ce770ef092]
+### E 535. Sodium ferrocyanide[^c-c8790523f6f6f48ee4e0f7ce770ef092]
 
 <table>
 <tbody>
@@ -1106,7 +1106,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 536. Potassium ferrocyanide[^key-4a61565c84030bed24d83f75cf71055e]
+### E 536. Potassium ferrocyanide[^c-4a61565c84030bed24d83f75cf71055e]
 
 |  |  |
 | --- | --- |
@@ -1118,7 +1118,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Chloride | Not more than 0.1 per centum. |
 | Sulphate | Not more than 0.1 per centum. |
 
-### E 541. Sodium aluminium phosphate, acidic[^key-9780cc89d1eef5c5cd83cdce3f871da8]
+### E 541. Sodium aluminium phosphate, acidic[^c-9780cc89d1eef5c5cd83cdce3f871da8]
 
 <table>
 <tbody>
@@ -1126,7 +1126,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 551. Silicon dioxide[^key-00fa508cb94f0c3f5fbd5d56ff4769a2]
+### E 551. Silicon dioxide[^c-00fa508cb94f0c3f5fbd5d56ff4769a2]
 
 |  |  |
 | --- | --- |
@@ -1137,7 +1137,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Loss on ignition | Not more than 13 per centum (determined by ignition at 1000°C to constant weight). |
 | Soluble ionisable salts (expressed as Na<sub>2</sub>SO<sub>4</sub>) | Not more than 5 per centum. |
 
-### E 552. Calcium silicate[^key-61116e756f42cf997c4fc9bd7adb939f]
+### E 552. Calcium silicate[^c-61116e756f42cf997c4fc9bd7adb939f]
 
 |  |  |
 | --- | --- |
@@ -1150,7 +1150,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Volatile matter | Not more than 6 per centum (determined by drying at 105°C for 2 hours). |
 | Loss on ignition | Not less than 7 per centum and not more than 14 per centum (determined by ignition at 1000°C to constant weight). |
 
-### E 553a(i). Magnesium silicate[^key-c34aa82dcf0b37772acf716e04ca2b7c]
+### E 553a(i). Magnesium silicate[^c-c34aa82dcf0b37772acf716e04ca2b7c]
 
 <table>
 <tbody>
@@ -1158,7 +1158,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 553a(ii). Magnesium trisilicate[^key-199dfb5eac819884882ce69e2c7e867b]
+### E 553a(ii). Magnesium trisilicate[^c-199dfb5eac819884882ce69e2c7e867b]
 
 <table>
 <tbody>
@@ -1166,7 +1166,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 553b. Talc[^key-8548d334da8528969740a90fdedd0290]
+### E 553b. Talc[^c-8548d334da8528969740a90fdedd0290]
 
 <table>
 <tbody>
@@ -1175,7 +1175,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 554. Sodium aluminium silicate[^key-30b814287fc7e9c5082293caa23bf723]
+### E 554. Sodium aluminium silicate[^c-30b814287fc7e9c5082293caa23bf723]
 
 |  |  |
 | --- | --- |
@@ -1188,7 +1188,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Volatile matter | Not more than 8 per centum (determined by drying at 105°C for 2 hours) |
 | Loss on ignition | Not less than 10 per centum and not more than 14 per centum (determined by ignition at 1000°C to constant weight). |
 
-### E 556. Calcium aluminium silicate[^key-f7262573116d7c48137dd377de650403]
+### E 556. Calcium aluminium silicate[^c-f7262573116d7c48137dd377de650403]
 
 |  |  |
 | --- | --- |
@@ -1202,7 +1202,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Volatile matter | Not more than 10 per centum (determined by drying at 105°C for 2 hours). |
 | Loss on ignition | Not less than 14 per centum and not more than 18 per centum (determined by ignition at 1000°C to constant weight). |
 
-### E 559. Aluminium silicate (Kaolin)[^key-4f2863f51152cd041859278fd123fd5b]
+### E 559. Aluminium silicate (Kaolin)[^c-4f2863f51152cd041859278fd123fd5b]
 
 ### Kaolin, heavy
 
@@ -1220,7 +1220,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 575. Glucono-delta-lactone[^key-25b9d75c742f8af1c02e8e400518fb42]
+### E 575. Glucono-delta-lactone[^c-25b9d75c742f8af1c02e8e400518fb42]
 
 <table>
 <tbody>
@@ -1229,7 +1229,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 576. Sodium gluconate[^key-bd0491334125e32276d41535fa28387f]
+### E 576. Sodium gluconate[^c-bd0491334125e32276d41535fa28387f]
 
 <table>
 <tbody>
@@ -1237,7 +1237,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 577. Potassium gluconate[^key-26d56ee3a0203df7c3e7c54a1368dbf2]
+### E 577. Potassium gluconate[^c-26d56ee3a0203df7c3e7c54a1368dbf2]
 
 |  |  |
 | --- | --- |
@@ -1247,7 +1247,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Volatile matter | Not more than 3 per centum (determined by drying in a vacuum at 105°C for 4 hours). |
 | Reducing substances (expressed as glucose) | Not more than 0.5 per centum. |
 
-### E 578. Calcium gluconate[^key-f453a1dc0c692fc3e15b32d82000fb23]
+### E 578. Calcium gluconate[^c-f453a1dc0c692fc3e15b32d82000fb23]
 
 <table>
 <tbody>
@@ -1255,7 +1255,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 621. Monosodium glutamate[^key-c12f7ece93124092475f19d4c197d19a]
+### E 621. Monosodium glutamate[^c-c12f7ece93124092475f19d4c197d19a]
 
 <table>
 <tbody>
@@ -1265,7 +1265,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 627. Disodium guanylate[^key-d8d4412973156fd4d8ab92366f79000f]
+### E 627. Disodium guanylate[^c-d8d4412973156fd4d8ab92366f79000f]
 
 <table>
 <tbody>
@@ -1275,7 +1275,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 631. Disodium inosinate[^key-a71398c2720db33702eb20d6f136eba3]
+### E 631. Disodium inosinate[^c-a71398c2720db33702eb20d6f136eba3]
 
 <table>
 <tbody>
@@ -1285,7 +1285,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 635. Disodium 5' -ribonucleotides[^key-31e707e8d1f4c61451b90832dead7a9b]
+### E 635. Disodium 5' -ribonucleotides[^c-31e707e8d1f4c61451b90832dead7a9b]
 
 |  |  |
 | --- | --- |
@@ -1297,7 +1297,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Amino acids | Place 5 ml of a 0.1% (weight/volume) solution in a test tube. Add 1 ml of a 2% (weight/volume) solution of ninhydrin and heat for 3 minutes; no blue colour is produced. |
 | Other nucleotides | The paper chromatogram obtained when sodium 5' -ribonucleotide is analysed using the procedure described for “other nucleotides” in the monograph for disodium guanylate contained in the Food Chemicals Codex 1981 at page 105 shall show no spots other than those for guanosine 5' -(disodium phosphate) and inosine 5' -(disodium phosphate). |
 
-### E 640. Glycine[^key-b0934729c07233056ede1707e426c264]
+### E 640. Glycine[^c-b0934729c07233056ede1707e426c264]
 
 <table>
 <tbody>
@@ -1305,7 +1305,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 900. Dimethylpolysiloxane[^key-61b95d74e4471edf4b3409bca0c9a5a1]
+### E 900. Dimethylpolysiloxane[^c-61b95d74e4471edf4b3409bca0c9a5a1]
 
 |  |  |
 | --- | --- |
@@ -1320,7 +1320,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 | Viscosity (25°C) | Not less than 300 and not more than 1050 centistokes. |
 | Relative density d 20°C 4°C | Not less than 0.960 and not more than 0.980. |
 
-### E 901. Beeswax, white and yellow[^key-a9618aea5775ef61e8627485181a56b3]
+### E 901. Beeswax, white and yellow[^c-a9618aea5775ef61e8627485181a56b3]
 
 ### Beeswax, white
 
@@ -1338,7 +1338,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 903. Carnauba wax[^key-ed5f5b9b50dcd99f45fef42fa6013d51]
+### E 903. Carnauba wax[^c-ed5f5b9b50dcd99f45fef42fa6013d51]
 
 <table>
 <tbody>
@@ -1346,7 +1346,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 904. Shellac[^key-7848c123c5ff495330bc5b7bbeeeb759]
+### E 904. Shellac[^c-7848c123c5ff495330bc5b7bbeeeb759]
 
 <table>
 <tbody>
@@ -1354,7 +1354,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 941. Nitrogen[^key-9ce73d912642c163533f677c5822e9ef]
+### E 941. Nitrogen[^c-9ce73d912642c163533f677c5822e9ef]
 
 <table>
 <tbody>
@@ -1362,7 +1362,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 942. Nitrous oxide[^key-0fe0fff85d505f20bd4e2cb372f90b5b]
+### E 942. Nitrous oxide[^c-0fe0fff85d505f20bd4e2cb372f90b5b]
 
 <table>
 <tbody>
@@ -1370,7 +1370,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 948. Oxygen[^key-439bbf80326fb05f8e741df515f534e8]
+### E 948. Oxygen[^c-439bbf80326fb05f8e741df515f534e8]
 
 <table>
 <tbody>
@@ -1378,27 +1378,27 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 950. Acesulfame potassium[^key-5e77fd7ce2c478f1d08768d9d0d190a7]
+### E 950. Acesulfame potassium[^c-5e77fd7ce2c478f1d08768d9d0d190a7]
 
-### E 951. Aspartame[^key-e6737b9b3e7d62c909852959fa1b0c84]
+### E 951. Aspartame[^c-e6737b9b3e7d62c909852959fa1b0c84]
 
-### E 953. Isomalt[^key-9d006fc2d89113036c040701632353a2]
+### E 953. Isomalt[^c-9d006fc2d89113036c040701632353a2]
 
-### E 957. Thaumatin[^key-2ab7bd2ce7fdc4cdafdbe0f762846197]
+### E 957. Thaumatin[^c-2ab7bd2ce7fdc4cdafdbe0f762846197]
 
-### E 959. Neohesperidine DC[^key-bfc6c31a99d87c0dc452d5f661e0fd4f]
+### E 959. Neohesperidine DC[^c-bfc6c31a99d87c0dc452d5f661e0fd4f]
 
-### E 965(i). Maltitol[^key-70a4a47a9dd41e1aa18dc5de59b26ba4]
+### E 965(i). Maltitol[^c-70a4a47a9dd41e1aa18dc5de59b26ba4]
 
-### E 965(ii). Maltitol syrup[^key-806df7073b216e28bf7ef24f06e462af]
+### E 965(ii). Maltitol syrup[^c-806df7073b216e28bf7ef24f06e462af]
 
-### E 966. Lactitol[^key-003ca9a2f37797f6a9497cec9e3f5f84]
+### E 966. Lactitol[^c-003ca9a2f37797f6a9497cec9e3f5f84]
 
-### E 967. Xylitol[^key-1e540fceb20bbce658aa41d1a4099d64]
+### E 967. Xylitol[^c-1e540fceb20bbce658aa41d1a4099d64]
 
 - the appropriate specific purity criteria contained in Commission Directive [95/31/EEC](https://www.legislation.gov.uk/european/directive/1995/0031).
 
-### E 999. Extract of Quillaia[^key-dad5b7f802144f8db41a43700cf3c4e3]
+### E 999. Extract of Quillaia[^c-dad5b7f802144f8db41a43700cf3c4e3]
 
 <table>
 <tbody>
@@ -1406,7 +1406,7 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 </tbody>
 </table>
 
-### E 1200. Polydextrose[^key-aaf961ce0e0dcd8a198b00f38882b562]
+### E 1200. Polydextrose[^c-aaf961ce0e0dcd8a198b00f38882b562]
 
 |  |  |
 | --- | --- |
@@ -1431,460 +1431,460 @@ Dilute acetic acid: contains not less than 11.5 per centum weight/volume and not
 
 ## Annotations
 
-[^key-4ca7f8e328b6242f58f98a7c787dc829]: Commencement: Sch. 5 para. En1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-4ca7f8e328b6242f58f98a7c787dc829]: Commencement: Sch. 5 para. En1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-5b81e096ae499107c102116a3a4375b6]: Commencement: Sch. 5 para. E200 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-5b81e096ae499107c102116a3a4375b6]: Commencement: Sch. 5 para. E200 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6ea14c57fa358e02666898d0b74fd455]: Commencement: Sch. 5 para. E202 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6ea14c57fa358e02666898d0b74fd455]: Commencement: Sch. 5 para. E202 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-5c56f3c4d3d6b7c675245de33debe338]: Commencement: Sch. 5 para. E203 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-5c56f3c4d3d6b7c675245de33debe338]: Commencement: Sch. 5 para. E203 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6dbe5ad696ffa3beda0742ea0a25d20e]: Commencement: Sch. 5 para. E210 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6dbe5ad696ffa3beda0742ea0a25d20e]: Commencement: Sch. 5 para. E210 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-16d94e85a5769c083733590978367a57]: Commencement: Sch. 5 para. E211 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-16d94e85a5769c083733590978367a57]: Commencement: Sch. 5 para. E211 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-7e461b3d12aef1c53ea8780e59b64391]: Commencement: Sch. 5 para. E212 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-7e461b3d12aef1c53ea8780e59b64391]: Commencement: Sch. 5 para. E212 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-095dd647da490b0cdecb9b2afd2dc52c]: Commencement: Sch. 5 para. E213 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-095dd647da490b0cdecb9b2afd2dc52c]: Commencement: Sch. 5 para. E213 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-480cad5b8a13c1b8a3f84c2fae31fc77]: Commencement: Sch. 5 para. E214 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-480cad5b8a13c1b8a3f84c2fae31fc77]: Commencement: Sch. 5 para. E214 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6e49050cae24d4f570e6088ea2115d09]: Commencement: Sch. 5 para. E215 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6e49050cae24d4f570e6088ea2115d09]: Commencement: Sch. 5 para. E215 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-8dd180d563788782004cabfbadf975d4]: Commencement: Sch. 5 para. E216 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-8dd180d563788782004cabfbadf975d4]: Commencement: Sch. 5 para. E216 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ce11283f903d9933297f1ee70be8d0ca]: Commencement: Sch. 5 para. E217 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ce11283f903d9933297f1ee70be8d0ca]: Commencement: Sch. 5 para. E217 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-5286e05e6402c7ae55500643143e06ca]: Commencement: Sch. 5 para. E218 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-5286e05e6402c7ae55500643143e06ca]: Commencement: Sch. 5 para. E218 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9693f02a9af0dd17387dcd00422632d1]: Commencement: Sch. 5 para. E219 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9693f02a9af0dd17387dcd00422632d1]: Commencement: Sch. 5 para. E219 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-dc4f62d0179a677487aebad854cf6566]: Commencement: Sch. 5 para. E220 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-dc4f62d0179a677487aebad854cf6566]: Commencement: Sch. 5 para. E220 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-f5dedf067f738c48fc7a742c55af0465]: Commencement: Sch. 5 para. E221 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-f5dedf067f738c48fc7a742c55af0465]: Commencement: Sch. 5 para. E221 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3779c4bd4ac9e00935adf96ca5ab2da3]: Commencement: Sch. 5 para. E222 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3779c4bd4ac9e00935adf96ca5ab2da3]: Commencement: Sch. 5 para. E222 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-f0bfd51bc16d23bdc36f09a29e9af51e]: Commencement: Sch. 5 para. E223 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-f0bfd51bc16d23bdc36f09a29e9af51e]: Commencement: Sch. 5 para. E223 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9367ce968278552924bcea871e34eb89]: Commencement: Sch. 5 para. E224 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9367ce968278552924bcea871e34eb89]: Commencement: Sch. 5 para. E224 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6262cc2fe4c1f7c2de36144228149511]: Commencement: Sch. 5 para. E226 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6262cc2fe4c1f7c2de36144228149511]: Commencement: Sch. 5 para. E226 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3a32134dfa36ba0fe05c8eb1d712e78b]: Commencement: Sch. 5 para. E227 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3a32134dfa36ba0fe05c8eb1d712e78b]: Commencement: Sch. 5 para. E227 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1adfaf9f1736e337e02b248abecba9d4]: Commencement: Sch. 5 para. E228 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1adfaf9f1736e337e02b248abecba9d4]: Commencement: Sch. 5 para. E228 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00051]: Footnote: O.J. No. L352, 13.12.86, p. 45
 
-[^key-d0dd95155130d01caae63dce272af65c]: Commencement: Sch. 5 para. E230 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-d0dd95155130d01caae63dce272af65c]: Commencement: Sch. 5 para. E230 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c76770b9b159aaedddd1feda5177de1c]: Commencement: Sch. 5 para. E231 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c76770b9b159aaedddd1feda5177de1c]: Commencement: Sch. 5 para. E231 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-fd599dcee3a07f7c08c1147dd9f79e21]: Commencement: Sch. 5 para. E232 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-fd599dcee3a07f7c08c1147dd9f79e21]: Commencement: Sch. 5 para. E232 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-e05f3d0fd79c9642912e7232fd590c0d]: Commencement: Sch. 5 para. E233 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e05f3d0fd79c9642912e7232fd590c0d]: Commencement: Sch. 5 para. E233 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-e2ff4b9562ee57cd730e1971e4ea7980]: Commencement: Sch. 5 para. E234 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e2ff4b9562ee57cd730e1971e4ea7980]: Commencement: Sch. 5 para. E234 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-4bb0b9f49a11bdee6e26b7b12ab5c2b0]: Commencement: Sch. 5 para. E239 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-4bb0b9f49a11bdee6e26b7b12ab5c2b0]: Commencement: Sch. 5 para. E239 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-44370ad6eae31ec748017e6adff026ca]: Commencement: Sch. 5 para. E249 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-44370ad6eae31ec748017e6adff026ca]: Commencement: Sch. 5 para. E249 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-dc650a8d88199bc7170a03bf7f355557]: Commencement: Sch. 5 para. E250 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-dc650a8d88199bc7170a03bf7f355557]: Commencement: Sch. 5 para. E250 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-7eb81940c8064d26a5b72e655e49f821]: Commencement: Sch. 5 para. E251 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-7eb81940c8064d26a5b72e655e49f821]: Commencement: Sch. 5 para. E251 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-230c6c26ed87f4666a40ea6f913cb562]: Commencement: Sch. 5 para. E252 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-230c6c26ed87f4666a40ea6f913cb562]: Commencement: Sch. 5 para. E252 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a22d655d616a143d55da73004a3521b7]: Commencement: Sch. 5 para. E260 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a22d655d616a143d55da73004a3521b7]: Commencement: Sch. 5 para. E260 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c643211bf18f5b7c1ae1a6f3a15b90af]: Commencement: Sch. 5 para. E261 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c643211bf18f5b7c1ae1a6f3a15b90af]: Commencement: Sch. 5 para. E261 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-928321698068964efabd40fe79e82165]: Commencement: Sch. 5 para. En2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-928321698068964efabd40fe79e82165]: Commencement: Sch. 5 para. En2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a24829cb765efe18c96364175ff3a662]: Commencement: Sch. 5 para. En3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a24829cb765efe18c96364175ff3a662]: Commencement: Sch. 5 para. En3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1be061349de5574cdd9eb1c6ecfd1eb2]: Commencement: Sch. 5 para. E263 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1be061349de5574cdd9eb1c6ecfd1eb2]: Commencement: Sch. 5 para. E263 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c7f08fe9f2b1c3be50dd7f90715144d5]: Commencement: Sch. 5 para. E270 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c7f08fe9f2b1c3be50dd7f90715144d5]: Commencement: Sch. 5 para. E270 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6678bae46239d101100ec49c52dce823]: Commencement: Sch. 5 para. E280 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6678bae46239d101100ec49c52dce823]: Commencement: Sch. 5 para. E280 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-5f490b880ca3873445d142b3278fde2c]: Commencement: Sch. 5 para. E281 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-5f490b880ca3873445d142b3278fde2c]: Commencement: Sch. 5 para. E281 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a8c6a6f21f30bea5d7572b1ce14edc4b]: Commencement: Sch. 5 para. E282 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a8c6a6f21f30bea5d7572b1ce14edc4b]: Commencement: Sch. 5 para. E282 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-fe7a7cba9e5e3e4d53ec3b0a8926105d]: Commencement: Sch. 5 para. E283 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-fe7a7cba9e5e3e4d53ec3b0a8926105d]: Commencement: Sch. 5 para. E283 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-0d5981f9feed8887d7eade54012be697]: Commencement: Sch. 5 para. E290 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-0d5981f9feed8887d7eade54012be697]: Commencement: Sch. 5 para. E290 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9d39e5ec6c3d3154f460c75425a6d835]: Commencement: Sch. 5 para. E296 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9d39e5ec6c3d3154f460c75425a6d835]: Commencement: Sch. 5 para. E296 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-88d1c23c65df7a2679d6552aca1a4171]: Commencement: Sch. 5 para. E297 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-88d1c23c65df7a2679d6552aca1a4171]: Commencement: Sch. 5 para. E297 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ce1b33b1ff8b4decacd07951212de4b7]: Commencement: Sch. 5 para. E300 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ce1b33b1ff8b4decacd07951212de4b7]: Commencement: Sch. 5 para. E300 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-546411bdc5fd6fa6a8a3868312841ed4]: Commencement: Sch. 5 para. E301 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-546411bdc5fd6fa6a8a3868312841ed4]: Commencement: Sch. 5 para. E301 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ed707240dec3c8376ebfd167a6d27dd4]: Commencement: Sch. 5 para. E302 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ed707240dec3c8376ebfd167a6d27dd4]: Commencement: Sch. 5 para. E302 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ddd1fa72ff9d62a42de6a155acac31ae]: Commencement: Sch. 5 para. E304 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ddd1fa72ff9d62a42de6a155acac31ae]: Commencement: Sch. 5 para. E304 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-337deb368fb52f93559e2d0d5326d9f4]: Commencement: Sch. 5 para. En4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-337deb368fb52f93559e2d0d5326d9f4]: Commencement: Sch. 5 para. En4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-8153d7d24f94180b8d4cf9df7460f68a]: Commencement: Sch. 5 para. E306 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-8153d7d24f94180b8d4cf9df7460f68a]: Commencement: Sch. 5 para. E306 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-e21745ced14831feafd6f5b7935e0f61]: Commencement: Sch. 5 para. E307 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e21745ced14831feafd6f5b7935e0f61]: Commencement: Sch. 5 para. E307 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-2d1510d3168559820f966c08df000075]: Commencement: Sch. 5 para. E308 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-2d1510d3168559820f966c08df000075]: Commencement: Sch. 5 para. E308 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-be6a7a3401f9d37437a9b87c45737a62]: Commencement: Sch. 5 para. E309 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-be6a7a3401f9d37437a9b87c45737a62]: Commencement: Sch. 5 para. E309 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-0887e007babe1a5005cac0e5d9d68c1c]: Commencement: Sch. 5 para. E310 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-0887e007babe1a5005cac0e5d9d68c1c]: Commencement: Sch. 5 para. E310 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-e05e1ae0963401c5737a519030779c05]: Commencement: Sch. 5 para. E311 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e05e1ae0963401c5737a519030779c05]: Commencement: Sch. 5 para. E311 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-5f5f7dfeb36db083b6e8b9b62272a6c8]: Commencement: Sch. 5 para. E312 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-5f5f7dfeb36db083b6e8b9b62272a6c8]: Commencement: Sch. 5 para. E312 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1e75c2e95c200e14f815ed7dc1be9a9b]: Commencement: Sch. 5 para. E320 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1e75c2e95c200e14f815ed7dc1be9a9b]: Commencement: Sch. 5 para. E320 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c4d83ed5a3c91b02fe5dd4d6093b81e1]: Commencement: Sch. 5 para. E321 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c4d83ed5a3c91b02fe5dd4d6093b81e1]: Commencement: Sch. 5 para. E321 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00052]: Footnote: O.J. No. L223, 14.8.78, p. 30
 
-[^key-cca0e7c19494a6f9502e2e06ac6e698a]: Commencement: Sch. 5 para. E322 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-cca0e7c19494a6f9502e2e06ac6e698a]: Commencement: Sch. 5 para. E322 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00053]: Footnote: O.J. No. L297, 23.10.82, p. 31
 
-[^key-19f0f7fd4a46ad6fd324366decf51201]: Commencement: Sch. 5 para. E325 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-19f0f7fd4a46ad6fd324366decf51201]: Commencement: Sch. 5 para. E325 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-925a744ea03e8eb149ba5f2041ae5130]: Commencement: Sch. 5 para. E326 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-925a744ea03e8eb149ba5f2041ae5130]: Commencement: Sch. 5 para. E326 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3a92a3a689015d6fdd253ccc01358bc0]: Commencement: Sch. 5 para. E327 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3a92a3a689015d6fdd253ccc01358bc0]: Commencement: Sch. 5 para. E327 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-b8ecb86ca7af38ca6849439f8a03fd71]: Commencement: Sch. 5 para. E330 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-b8ecb86ca7af38ca6849439f8a03fd71]: Commencement: Sch. 5 para. E330 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-b5f11dc919da7666bf90c85d2a8d3e22]: Commencement: Sch. 5 para. En5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-b5f11dc919da7666bf90c85d2a8d3e22]: Commencement: Sch. 5 para. En5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3ca3a370291e5e8143f8b974c2c3ba8d]: Commencement: Sch. 5 para. En6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3ca3a370291e5e8143f8b974c2c3ba8d]: Commencement: Sch. 5 para. En6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c65a4ec6435e9bf8b36b2334b8502d6c]: Commencement: Sch. 5 para. En7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c65a4ec6435e9bf8b36b2334b8502d6c]: Commencement: Sch. 5 para. En7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-fcb6ce1cf132094fb8e081c325659b97]: Commencement: Sch. 5 para. En8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-fcb6ce1cf132094fb8e081c325659b97]: Commencement: Sch. 5 para. En8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3a0a9b22e0bc9ecb1c8885a1f3118675]: Commencement: Sch. 5 para. En9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3a0a9b22e0bc9ecb1c8885a1f3118675]: Commencement: Sch. 5 para. En9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-2d82e18974c2d0f20770d96218c2c394]: Commencement: Sch. 5 para. En10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-2d82e18974c2d0f20770d96218c2c394]: Commencement: Sch. 5 para. En10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-fbde0dffc8364878708e05ff0e47b85f]: Commencement: Sch. 5 para. En11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-fbde0dffc8364878708e05ff0e47b85f]: Commencement: Sch. 5 para. En11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-199b11c14f7cd8458b0f92a984f5f070]: Commencement: Sch. 5 para. En12 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-199b11c14f7cd8458b0f92a984f5f070]: Commencement: Sch. 5 para. En12 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-cb7a1d104294ae891296df862ccb1180]: Commencement: Sch. 5 para. E334 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-cb7a1d104294ae891296df862ccb1180]: Commencement: Sch. 5 para. E334 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-629e73718f8963339a79039eda625bfd]: Commencement: Sch. 5 para. En13 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-629e73718f8963339a79039eda625bfd]: Commencement: Sch. 5 para. En13 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6840823d467e6b9589ea5bd9f7d9ccab]: Commencement: Sch. 5 para. En14 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6840823d467e6b9589ea5bd9f7d9ccab]: Commencement: Sch. 5 para. En14 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-22c4ada1faeaffd8f55a9218dcaba625]: Commencement: Sch. 5 para. En15 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-22c4ada1faeaffd8f55a9218dcaba625]: Commencement: Sch. 5 para. En15 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-43eb95eb33026662bb83d8a97b732090]: Commencement: Sch. 5 para. E336 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-43eb95eb33026662bb83d8a97b732090]: Commencement: Sch. 5 para. E336 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-52c243ad42cc78b9039396fe32f6afe6]: Commencement: Sch. 5 para. E337 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-52c243ad42cc78b9039396fe32f6afe6]: Commencement: Sch. 5 para. E337 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a0252e364603b592486dd2c5e931349b]: Commencement: Sch. 5 para. E338 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a0252e364603b592486dd2c5e931349b]: Commencement: Sch. 5 para. E338 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ce3982fc1104c96f1757089e4d8484e2]: Commencement: Sch. 5 para. En16 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ce3982fc1104c96f1757089e4d8484e2]: Commencement: Sch. 5 para. En16 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-684ec57d0e3f9fd21864f7faa8e7035a]: Commencement: Sch. 5 para. En17 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-684ec57d0e3f9fd21864f7faa8e7035a]: Commencement: Sch. 5 para. En17 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6e72e66c67ac155255369460bea3b5b5]: Commencement: Sch. 5 para. En18 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6e72e66c67ac155255369460bea3b5b5]: Commencement: Sch. 5 para. En18 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ac9956ebe37baf38ed645c087be60fbc]: Commencement: Sch. 5 para. En19 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ac9956ebe37baf38ed645c087be60fbc]: Commencement: Sch. 5 para. En19 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-d9ded60f41114fa378944c91db924f52]: Commencement: Sch. 5 para. En20 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-d9ded60f41114fa378944c91db924f52]: Commencement: Sch. 5 para. En20 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1a22f9275c856c4cd917987a16133069]: Commencement: Sch. 5 para. En21 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1a22f9275c856c4cd917987a16133069]: Commencement: Sch. 5 para. En21 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-53a8446b0b106d7df7e64b93729d38c2]: Commencement: Sch. 5 para. En22 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-53a8446b0b106d7df7e64b93729d38c2]: Commencement: Sch. 5 para. En22 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-28748181ec8f47afbb25111aef139f46]: Commencement: Sch. 5 para. En23 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-28748181ec8f47afbb25111aef139f46]: Commencement: Sch. 5 para. En23 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-cea6159a90fb8b960c496d4e92a2cd19]: Commencement: Sch. 5 para. En24 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-cea6159a90fb8b960c496d4e92a2cd19]: Commencement: Sch. 5 para. En24 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-66a0ecfce0b4866aaa238a2b9612600d]: Commencement: Sch. 5 para. En25 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-66a0ecfce0b4866aaa238a2b9612600d]: Commencement: Sch. 5 para. En25 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ab4ac14e5aec09f5a1918a47ccc0dcfa]: Commencement: Sch. 5 para. En26 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ab4ac14e5aec09f5a1918a47ccc0dcfa]: Commencement: Sch. 5 para. En26 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-58c01476e92b9c8a75e5fd81c7942d5f]: Commencement: Sch. 5 para. E351 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-58c01476e92b9c8a75e5fd81c7942d5f]: Commencement: Sch. 5 para. E351 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-37a5b460c43f92f07f47da78e5ee358f]: Commencement: Sch. 5 para. En27 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-37a5b460c43f92f07f47da78e5ee358f]: Commencement: Sch. 5 para. En27 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-06c5f5f2e921b232d472a5d17725080c]: Commencement: Sch. 5 para. En28 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-06c5f5f2e921b232d472a5d17725080c]: Commencement: Sch. 5 para. En28 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9a52047b1f371189d7119f1b2817ab43]: Commencement: Sch. 5 para. E353 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9a52047b1f371189d7119f1b2817ab43]: Commencement: Sch. 5 para. E353 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c559c2a80c72c50bb1cdfc1777e0cb66]: Commencement: Sch. 5 para. E355 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c559c2a80c72c50bb1cdfc1777e0cb66]: Commencement: Sch. 5 para. E355 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-2544977c88902654725d9f58009f004e]: Commencement: Sch. 5 para. E363 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-2544977c88902654725d9f58009f004e]: Commencement: Sch. 5 para. E363 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-42888c5ec5c48110786ade912c351e64]: Commencement: Sch. 5 para. E380 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-42888c5ec5c48110786ade912c351e64]: Commencement: Sch. 5 para. E380 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-8a502152e606e44c129deea4f07ad674]: Commencement: Sch. 5 para. E385 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-8a502152e606e44c129deea4f07ad674]: Commencement: Sch. 5 para. E385 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-82cebe2a3eacfd88c25fe74173d8f2ce]: Commencement: Sch. 5 para. E400 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-82cebe2a3eacfd88c25fe74173d8f2ce]: Commencement: Sch. 5 para. E400 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-2d5911b8d373a77585b72c4caa36e256]: Commencement: Sch. 5 para. E401 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-2d5911b8d373a77585b72c4caa36e256]: Commencement: Sch. 5 para. E401 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1e37b0575578b1ff36b7da61ea972ceb]: Commencement: Sch. 5 para. E402 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1e37b0575578b1ff36b7da61ea972ceb]: Commencement: Sch. 5 para. E402 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-bb035271a55064d112174337e695aa9c]: Commencement: Sch. 5 para. E403 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-bb035271a55064d112174337e695aa9c]: Commencement: Sch. 5 para. E403 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-8b38064abfd9bc634ae62b41abdbcc4f]: Commencement: Sch. 5 para. E404 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-8b38064abfd9bc634ae62b41abdbcc4f]: Commencement: Sch. 5 para. E404 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-e4d8b3468674c357039fd64873b03138]: Commencement: Sch. 5 para. E405 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e4d8b3468674c357039fd64873b03138]: Commencement: Sch. 5 para. E405 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-25c2132a965ec81614d955538fa697b8]: Commencement: Sch. 5 para. E406 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-25c2132a965ec81614d955538fa697b8]: Commencement: Sch. 5 para. E406 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9e65a7ebfec60493d142dd0e92b20e27]: Commencement: Sch. 5 para. E407 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9e65a7ebfec60493d142dd0e92b20e27]: Commencement: Sch. 5 para. E407 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00056]: Footnote: O.J. No. L326, 24.11.90, p. 58
 
-[^key-15ddb0996615b3808a4f927eb81ae9a6]: Commencement: Sch. 5 para. E410 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-15ddb0996615b3808a4f927eb81ae9a6]: Commencement: Sch. 5 para. E410 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c31605fc91bc524a5cc049221ffc2d65]: Commencement: Sch. 5 para. E412 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c31605fc91bc524a5cc049221ffc2d65]: Commencement: Sch. 5 para. E412 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-35a9d90d7f7485007b384a07d3b9742b]: Commencement: Sch. 5 para. E413 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-35a9d90d7f7485007b384a07d3b9742b]: Commencement: Sch. 5 para. E413 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-8623a6277a6e5634bf5dcbd74402ba00]: Commencement: Sch. 5 para. E414 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-8623a6277a6e5634bf5dcbd74402ba00]: Commencement: Sch. 5 para. E414 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6db29145f766a1145deb6dc3fae1ce5f]: Commencement: Sch. 5 para. E415 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6db29145f766a1145deb6dc3fae1ce5f]: Commencement: Sch. 5 para. E415 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-69464ac91debf98b220b250c99d0c1c6]: Commencement: Sch. 5 para. E416 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-69464ac91debf98b220b250c99d0c1c6]: Commencement: Sch. 5 para. E416 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c5fdde41bbdfde971644dcf118efc2e0]: Commencement: Sch. 5 para. En29 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c5fdde41bbdfde971644dcf118efc2e0]: Commencement: Sch. 5 para. En29 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3addbb9cc16bdad0e417ca3fbdc75c79]: Commencement: Sch. 5 para. En30 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3addbb9cc16bdad0e417ca3fbdc75c79]: Commencement: Sch. 5 para. En30 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9142ef75d8c476d0346525c8fabbaf85]: Commencement: Sch. 5 para. E421 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9142ef75d8c476d0346525c8fabbaf85]: Commencement: Sch. 5 para. E421 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00057]: Footnote: O.J. No. L178, 28.7.95, p. 1
 
-[^key-8e4c7734fc5762f224cba00fa37b813f]: Commencement: Sch. 5 para. E422 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-8e4c7734fc5762f224cba00fa37b813f]: Commencement: Sch. 5 para. E422 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-d465c46b0c16c396643bbcc84ec50108]: Commencement: Sch. 5 para. E432 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-d465c46b0c16c396643bbcc84ec50108]: Commencement: Sch. 5 para. E432 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-b914b6fd319e72816301330c1fecfcfe]: Commencement: Sch. 5 para. E433 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-b914b6fd319e72816301330c1fecfcfe]: Commencement: Sch. 5 para. E433 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1c52ecd2e6f2b604d366219f1f35b89c]: Commencement: Sch. 5 para. E434 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1c52ecd2e6f2b604d366219f1f35b89c]: Commencement: Sch. 5 para. E434 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-e94341fec808a91ac10647df04fbae1a]: Commencement: Sch. 5 para. E435 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e94341fec808a91ac10647df04fbae1a]: Commencement: Sch. 5 para. E435 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-d0838124aa1d2e12f36096e629c820dd]: Commencement: Sch. 5 para. E436 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-d0838124aa1d2e12f36096e629c820dd]: Commencement: Sch. 5 para. E436 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9f630ef1e11e6ce64601782a1b7d2ef0]: Commencement: Sch. 5 para. En31 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9f630ef1e11e6ce64601782a1b7d2ef0]: Commencement: Sch. 5 para. En31 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-75b559d101545677d6da0a5cdbd968ed]: Commencement: Sch. 5 para. En32 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-75b559d101545677d6da0a5cdbd968ed]: Commencement: Sch. 5 para. En32 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-470e5c740775df9161226a74ef783832]: Commencement: Sch. 5 para. E442 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-470e5c740775df9161226a74ef783832]: Commencement: Sch. 5 para. E442 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ec231cb7f86fbeebf5ca3b48c3f5ae77]: Commencement: Sch. 5 para. En33 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ec231cb7f86fbeebf5ca3b48c3f5ae77]: Commencement: Sch. 5 para. En33 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-98a853966569bbae2cae6e07748e171f]: Commencement: Sch. 5 para. En34 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-98a853966569bbae2cae6e07748e171f]: Commencement: Sch. 5 para. En34 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-28d5a0ee3deb1fdac4467e84d40526ce]: Commencement: Sch. 5 para. En35 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-28d5a0ee3deb1fdac4467e84d40526ce]: Commencement: Sch. 5 para. En35 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-f1c0f4493faa38556941c50bfe686448]: Commencement: Sch. 5 para. En36 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-f1c0f4493faa38556941c50bfe686448]: Commencement: Sch. 5 para. En36 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-aa21e480af026004289c5338bd07f3c3]: Commencement: Sch. 5 para. En37 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-aa21e480af026004289c5338bd07f3c3]: Commencement: Sch. 5 para. En37 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-d298d4a5a4dc131e8a2e64e9967071be]: Commencement: Sch. 5 para. En38 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-d298d4a5a4dc131e8a2e64e9967071be]: Commencement: Sch. 5 para. En38 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-16e62805df24f5601f811cc9730cffc5]: Commencement: Sch. 5 para. En39 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-16e62805df24f5601f811cc9730cffc5]: Commencement: Sch. 5 para. En39 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-925d82de10de0d26cccbb18531fb162d]: Commencement: Sch. 5 para. En40 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-925d82de10de0d26cccbb18531fb162d]: Commencement: Sch. 5 para. En40 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-541ba987c9894f41c4231f0e14347bc4]: Commencement: Sch. 5 para. En41 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-541ba987c9894f41c4231f0e14347bc4]: Commencement: Sch. 5 para. En41 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-2c3308f78935554f202ea85df18854a7]: Commencement: Sch. 5 para. En42 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-2c3308f78935554f202ea85df18854a7]: Commencement: Sch. 5 para. En42 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3bce3b63d0f87186125c7f6f8c8b9d26]: Commencement: Sch. 5 para. En43 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3bce3b63d0f87186125c7f6f8c8b9d26]: Commencement: Sch. 5 para. En43 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a186d7e2041c2a8cc481d48666d13a3a]: Commencement: Sch. 5 para. En44 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a186d7e2041c2a8cc481d48666d13a3a]: Commencement: Sch. 5 para. En44 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-904a3003ad04265bc4caceb13be97756]: Commencement: Sch. 5 para. E461 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-904a3003ad04265bc4caceb13be97756]: Commencement: Sch. 5 para. E461 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-177b48a68947bbcaf2b2647b15822c17]: Commencement: Sch. 5 para. E463 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-177b48a68947bbcaf2b2647b15822c17]: Commencement: Sch. 5 para. E463 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-34da6e29da4b85d05695625a99b54c03]: Commencement: Sch. 5 para. E464 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-34da6e29da4b85d05695625a99b54c03]: Commencement: Sch. 5 para. E464 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-18c9bfb79e51f73e84b91b64ac9b13b1]: Commencement: Sch. 5 para. E465 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-18c9bfb79e51f73e84b91b64ac9b13b1]: Commencement: Sch. 5 para. E465 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-54c3ec042dab5897aca0a013b748e653]: Commencement: Sch. 5 para. E466 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-54c3ec042dab5897aca0a013b748e653]: Commencement: Sch. 5 para. E466 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-79003934913f5b7e25ffeacea067c900]: Commencement: Sch. 5 para. E470a in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-79003934913f5b7e25ffeacea067c900]: Commencement: Sch. 5 para. E470a in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-f19c0475f61207bedcc45c86ff874695]: Commencement: Sch. 5 para. E471 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-f19c0475f61207bedcc45c86ff874695]: Commencement: Sch. 5 para. E471 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3b9682edd119a13d29a8efc41b286f59]: Commencement: Sch. 5 para. En45 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3b9682edd119a13d29a8efc41b286f59]: Commencement: Sch. 5 para. En45 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ca6f24cbbefc0929775eb2de6471b6d1]: Commencement: Sch. 5 para. En46 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ca6f24cbbefc0929775eb2de6471b6d1]: Commencement: Sch. 5 para. En46 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a89680b4ab10563c9c025ecb4cbba99d]: Commencement: Sch. 5 para. En47 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a89680b4ab10563c9c025ecb4cbba99d]: Commencement: Sch. 5 para. En47 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-7b672fc943207343a4fa9d422c415688]: Commencement: Sch. 5 para. En48 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-7b672fc943207343a4fa9d422c415688]: Commencement: Sch. 5 para. En48 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-abc6714b4f6042f51aa54b63a882d506]: Commencement: Sch. 5 para. En49 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-abc6714b4f6042f51aa54b63a882d506]: Commencement: Sch. 5 para. En49 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-2277d60e2b15daf2f28b8c5bf8454411]: Commencement: Sch. 5 para. En50 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-2277d60e2b15daf2f28b8c5bf8454411]: Commencement: Sch. 5 para. En50 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-81f527b4184d280bab6ca6ee2dd2ecdc]: Commencement: Sch. 5 para. E473 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-81f527b4184d280bab6ca6ee2dd2ecdc]: Commencement: Sch. 5 para. E473 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00058]: Footnote: O.J. No. L55, 29.2.92, p. 96
 
-[^key-a60b864f253c6cfbd25174d5ade7e7c3]: Commencement: Sch. 5 para. E474 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a60b864f253c6cfbd25174d5ade7e7c3]: Commencement: Sch. 5 para. E474 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-f8357e6ec7ba1af14b95eed77b0791f9]: Commencement: Sch. 5 para. E475 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-f8357e6ec7ba1af14b95eed77b0791f9]: Commencement: Sch. 5 para. E475 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6e8d2f75fc267fad79fceb9cdd3637d0]: Commencement: Sch. 5 para. E476 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6e8d2f75fc267fad79fceb9cdd3637d0]: Commencement: Sch. 5 para. E476 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-3aad711fa3a37f340bcfa5e1086964b3]: Commencement: Sch. 5 para. E477 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-3aad711fa3a37f340bcfa5e1086964b3]: Commencement: Sch. 5 para. E477 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-cf6d43b7cb912820f05caa653162469a]: Commencement: Sch. 5 para. E481 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-cf6d43b7cb912820f05caa653162469a]: Commencement: Sch. 5 para. E481 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-eed4d2735635ea386aeee36e257507ce]: Commencement: Sch. 5 para. E482 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-eed4d2735635ea386aeee36e257507ce]: Commencement: Sch. 5 para. E482 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-bd401d8ce75e6c1af4924682069c22c9]: Commencement: Sch. 5 para. E483 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-bd401d8ce75e6c1af4924682069c22c9]: Commencement: Sch. 5 para. E483 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6019a6d72d196b7010a0c1f9b63ae9b3]: Commencement: Sch. 5 para. E491 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6019a6d72d196b7010a0c1f9b63ae9b3]: Commencement: Sch. 5 para. E491 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-cd1e62e0d08cd87e6ccc2ddd94ea90a6]: Commencement: Sch. 5 para. E492 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-cd1e62e0d08cd87e6ccc2ddd94ea90a6]: Commencement: Sch. 5 para. E492 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-7d4d41a1e8c5fc0a76e6de7820b950f8]: Commencement: Sch. 5 para. E493 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-7d4d41a1e8c5fc0a76e6de7820b950f8]: Commencement: Sch. 5 para. E493 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c66d799b93d8ceb443e5bb5100a7efc0]: Commencement: Sch. 5 para. E494 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c66d799b93d8ceb443e5bb5100a7efc0]: Commencement: Sch. 5 para. E494 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-eb322e9ddb2d36f176eaa71da693188c]: Commencement: Sch. 5 para. E495 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-eb322e9ddb2d36f176eaa71da693188c]: Commencement: Sch. 5 para. E495 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-42c9c2b0cadfbe40e7ab768d9502bcbc]: Commencement: Sch. 5 para. En51 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-42c9c2b0cadfbe40e7ab768d9502bcbc]: Commencement: Sch. 5 para. En51 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6b57f1dd42db5435357e0e4f1c93ea90]: Commencement: Sch. 5 para. En52 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6b57f1dd42db5435357e0e4f1c93ea90]: Commencement: Sch. 5 para. En52 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-cde95df3a07483ddeb6dfa5eefa05abf]: Commencement: Sch. 5 para. En53 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-cde95df3a07483ddeb6dfa5eefa05abf]: Commencement: Sch. 5 para. En53 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-202568d33473f27f94445ebc38a22992]: Commencement: Sch. 5 para. En54 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-202568d33473f27f94445ebc38a22992]: Commencement: Sch. 5 para. En54 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-eaa82654bf134019450df10aec4ce0fb]: Commencement: Sch. 5 para. En55 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-eaa82654bf134019450df10aec4ce0fb]: Commencement: Sch. 5 para. En55 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-defb1267f6415b798a9c39244d43bb87]: Commencement: Sch. 5 para. En56 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-defb1267f6415b798a9c39244d43bb87]: Commencement: Sch. 5 para. En56 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1da46480e6ebb141398ca2bb7c565e30]: Commencement: Sch. 5 para. En57 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1da46480e6ebb141398ca2bb7c565e30]: Commencement: Sch. 5 para. En57 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a72a3147f886844ca80c3e9b4b2d628f]: Commencement: Sch. 5 para. E504 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a72a3147f886844ca80c3e9b4b2d628f]: Commencement: Sch. 5 para. E504 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-afbd88721d059eeacc81f146c7dec77a]: Commencement: Sch. 5 para. E507 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-afbd88721d059eeacc81f146c7dec77a]: Commencement: Sch. 5 para. E507 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-be14a60f3e15c44ba5cbb8eafaa41ac9]: Commencement: Sch. 5 para. E508 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-be14a60f3e15c44ba5cbb8eafaa41ac9]: Commencement: Sch. 5 para. E508 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-37821e3e8b7ec81566817c6eedcc9faf]: Commencement: Sch. 5 para. E509 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-37821e3e8b7ec81566817c6eedcc9faf]: Commencement: Sch. 5 para. E509 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-fd98d5d3136f6897bf0cdc2222df1a6a]: Commencement: Sch. 5 para. E513 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-fd98d5d3136f6897bf0cdc2222df1a6a]: Commencement: Sch. 5 para. E513 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ac812c58f00db377aa858e42cc68c618]: Commencement: Sch. 5 para. En58 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ac812c58f00db377aa858e42cc68c618]: Commencement: Sch. 5 para. En58 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-6dd3eca4e723c22d8e017b91168ecf7c]: Commencement: Sch. 5 para. En59 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-6dd3eca4e723c22d8e017b91168ecf7c]: Commencement: Sch. 5 para. En59 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-25d60e4a9df3ce5c6ecdae8ce6c58d47]: Commencement: Sch. 5 para. E516 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-25d60e4a9df3ce5c6ecdae8ce6c58d47]: Commencement: Sch. 5 para. E516 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9ff8266e3155d4a5cd97cb33e7bfc7b9]: Commencement: Sch. 5 para. E522 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9ff8266e3155d4a5cd97cb33e7bfc7b9]: Commencement: Sch. 5 para. E522 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1a4e91d3d61ccd19fd24dcfeea744797]: Commencement: Sch. 5 para. E524 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1a4e91d3d61ccd19fd24dcfeea744797]: Commencement: Sch. 5 para. E524 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-4a8671391d2af019dabb608d1eb070ba]: Commencement: Sch. 5 para. E525 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-4a8671391d2af019dabb608d1eb070ba]: Commencement: Sch. 5 para. E525 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-0d7d15e42eb86615503b9c0a3dd94420]: Commencement: Sch. 5 para. E526 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-0d7d15e42eb86615503b9c0a3dd94420]: Commencement: Sch. 5 para. E526 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-af718f1efecb35a14546d7c48d911e40]: Commencement: Sch. 5 para. E527 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-af718f1efecb35a14546d7c48d911e40]: Commencement: Sch. 5 para. E527 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-09e02aa3cd3426df44404108ee05175f]: Commencement: Sch. 5 para. E528 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-09e02aa3cd3426df44404108ee05175f]: Commencement: Sch. 5 para. E528 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-0c93dbffef9150da16be66fc9a3c8691]: Commencement: Sch. 5 para. E529 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-0c93dbffef9150da16be66fc9a3c8691]: Commencement: Sch. 5 para. E529 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-4e47332bcd4e60d47693034e0103d018]: Commencement: Sch. 5 para. E530 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-4e47332bcd4e60d47693034e0103d018]: Commencement: Sch. 5 para. E530 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c8790523f6f6f48ee4e0f7ce770ef092]: Commencement: Sch. 5 para. E535 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c8790523f6f6f48ee4e0f7ce770ef092]: Commencement: Sch. 5 para. E535 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-4a61565c84030bed24d83f75cf71055e]: Commencement: Sch. 5 para. E536 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-4a61565c84030bed24d83f75cf71055e]: Commencement: Sch. 5 para. E536 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9780cc89d1eef5c5cd83cdce3f871da8]: Commencement: Sch. 5 para. E541 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9780cc89d1eef5c5cd83cdce3f871da8]: Commencement: Sch. 5 para. E541 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-00fa508cb94f0c3f5fbd5d56ff4769a2]: Commencement: Sch. 5 para. E551 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-00fa508cb94f0c3f5fbd5d56ff4769a2]: Commencement: Sch. 5 para. E551 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-61116e756f42cf997c4fc9bd7adb939f]: Commencement: Sch. 5 para. E552 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-61116e756f42cf997c4fc9bd7adb939f]: Commencement: Sch. 5 para. E552 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c34aa82dcf0b37772acf716e04ca2b7c]: Commencement: Sch. 5 para. En60 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c34aa82dcf0b37772acf716e04ca2b7c]: Commencement: Sch. 5 para. En60 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-199dfb5eac819884882ce69e2c7e867b]: Commencement: Sch. 5 para. En61 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-199dfb5eac819884882ce69e2c7e867b]: Commencement: Sch. 5 para. En61 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-8548d334da8528969740a90fdedd0290]: Commencement: Sch. 5 para. E553b in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-8548d334da8528969740a90fdedd0290]: Commencement: Sch. 5 para. E553b in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-30b814287fc7e9c5082293caa23bf723]: Commencement: Sch. 5 para. E554 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-30b814287fc7e9c5082293caa23bf723]: Commencement: Sch. 5 para. E554 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-f7262573116d7c48137dd377de650403]: Commencement: Sch. 5 para. E556 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-f7262573116d7c48137dd377de650403]: Commencement: Sch. 5 para. E556 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-4f2863f51152cd041859278fd123fd5b]: Commencement: Sch. 5 para. E559 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-4f2863f51152cd041859278fd123fd5b]: Commencement: Sch. 5 para. E559 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-25b9d75c742f8af1c02e8e400518fb42]: Commencement: Sch. 5 para. E575 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-25b9d75c742f8af1c02e8e400518fb42]: Commencement: Sch. 5 para. E575 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-bd0491334125e32276d41535fa28387f]: Commencement: Sch. 5 para. E576 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-bd0491334125e32276d41535fa28387f]: Commencement: Sch. 5 para. E576 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-26d56ee3a0203df7c3e7c54a1368dbf2]: Commencement: Sch. 5 para. E577 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-26d56ee3a0203df7c3e7c54a1368dbf2]: Commencement: Sch. 5 para. E577 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-f453a1dc0c692fc3e15b32d82000fb23]: Commencement: Sch. 5 para. E578 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-f453a1dc0c692fc3e15b32d82000fb23]: Commencement: Sch. 5 para. E578 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-c12f7ece93124092475f19d4c197d19a]: Commencement: Sch. 5 para. E621 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c12f7ece93124092475f19d4c197d19a]: Commencement: Sch. 5 para. E621 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-d8d4412973156fd4d8ab92366f79000f]: Commencement: Sch. 5 para. E627 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-d8d4412973156fd4d8ab92366f79000f]: Commencement: Sch. 5 para. E627 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a71398c2720db33702eb20d6f136eba3]: Commencement: Sch. 5 para. E631 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a71398c2720db33702eb20d6f136eba3]: Commencement: Sch. 5 para. E631 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-31e707e8d1f4c61451b90832dead7a9b]: Commencement: Sch. 5 para. E635 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-31e707e8d1f4c61451b90832dead7a9b]: Commencement: Sch. 5 para. E635 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-b0934729c07233056ede1707e426c264]: Commencement: Sch. 5 para. E640 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-b0934729c07233056ede1707e426c264]: Commencement: Sch. 5 para. E640 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-61b95d74e4471edf4b3409bca0c9a5a1]: Commencement: Sch. 5 para. E900 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-61b95d74e4471edf4b3409bca0c9a5a1]: Commencement: Sch. 5 para. E900 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a9618aea5775ef61e8627485181a56b3]: Commencement: Sch. 5 para. E901 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a9618aea5775ef61e8627485181a56b3]: Commencement: Sch. 5 para. E901 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-ed5f5b9b50dcd99f45fef42fa6013d51]: Commencement: Sch. 5 para. E903 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ed5f5b9b50dcd99f45fef42fa6013d51]: Commencement: Sch. 5 para. E903 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-7848c123c5ff495330bc5b7bbeeeb759]: Commencement: Sch. 5 para. E904 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-7848c123c5ff495330bc5b7bbeeeb759]: Commencement: Sch. 5 para. E904 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9ce73d912642c163533f677c5822e9ef]: Commencement: Sch. 5 para. E941 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9ce73d912642c163533f677c5822e9ef]: Commencement: Sch. 5 para. E941 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-0fe0fff85d505f20bd4e2cb372f90b5b]: Commencement: Sch. 5 para. E942 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-0fe0fff85d505f20bd4e2cb372f90b5b]: Commencement: Sch. 5 para. E942 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-439bbf80326fb05f8e741df515f534e8]: Commencement: Sch. 5 para. E948 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-439bbf80326fb05f8e741df515f534e8]: Commencement: Sch. 5 para. E948 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-5e77fd7ce2c478f1d08768d9d0d190a7]: Commencement: Sch. 5 para. E950 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-5e77fd7ce2c478f1d08768d9d0d190a7]: Commencement: Sch. 5 para. E950 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-e6737b9b3e7d62c909852959fa1b0c84]: Commencement: Sch. 5 para. E951 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e6737b9b3e7d62c909852959fa1b0c84]: Commencement: Sch. 5 para. E951 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-9d006fc2d89113036c040701632353a2]: Commencement: Sch. 5 para. E953 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9d006fc2d89113036c040701632353a2]: Commencement: Sch. 5 para. E953 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-2ab7bd2ce7fdc4cdafdbe0f762846197]: Commencement: Sch. 5 para. E957 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-2ab7bd2ce7fdc4cdafdbe0f762846197]: Commencement: Sch. 5 para. E957 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-bfc6c31a99d87c0dc452d5f661e0fd4f]: Commencement: Sch. 5 para. E959 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-bfc6c31a99d87c0dc452d5f661e0fd4f]: Commencement: Sch. 5 para. E959 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-70a4a47a9dd41e1aa18dc5de59b26ba4]: Commencement: Sch. 5 para. En62 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-70a4a47a9dd41e1aa18dc5de59b26ba4]: Commencement: Sch. 5 para. En62 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-806df7073b216e28bf7ef24f06e462af]: Commencement: Sch. 5 para. En63 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-806df7073b216e28bf7ef24f06e462af]: Commencement: Sch. 5 para. En63 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-003ca9a2f37797f6a9497cec9e3f5f84]: Commencement: Sch. 5 para. E966 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-003ca9a2f37797f6a9497cec9e3f5f84]: Commencement: Sch. 5 para. E966 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1e540fceb20bbce658aa41d1a4099d64]: Commencement: Sch. 5 para. E967 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1e540fceb20bbce658aa41d1a4099d64]: Commencement: Sch. 5 para. E967 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-dad5b7f802144f8db41a43700cf3c4e3]: Commencement: Sch. 5 para. E999 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-dad5b7f802144f8db41a43700cf3c4e3]: Commencement: Sch. 5 para. E999 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-aaf961ce0e0dcd8a198b00f38882b562]: Commencement: Sch. 5 para. E1200 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-aaf961ce0e0dcd8a198b00f38882b562]: Commencement: Sch. 5 para. E1200 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

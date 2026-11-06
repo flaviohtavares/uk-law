@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Secretary of State’s power to hold inquiries.[^key-0968d2229ea9229b8b9e687d238a73dd]
+## 56. Secretary of State’s power to hold inquiries.[^c-0968d2229ea9229b8b9e687d238a73dd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0968d2229ea9229b8b9e687d238a73dd]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1995/23/section/56) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-0968d2229ea9229b8b9e687d238a73dd]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1995/23/section/56) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

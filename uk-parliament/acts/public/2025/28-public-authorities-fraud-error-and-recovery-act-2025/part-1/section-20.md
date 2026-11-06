@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Joint accounts[^key-b225431e652f88980cd791c2d21c60a7][^key-fb3359230a507ac988115e703152fad4]
+## 20. Joint accounts[^c-b225431e652f88980cd791c2d21c60a7][^c-fb3359230a507ac988115e703152fad4]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ where “N” is the number of account holders.
 
 ## Annotations
 
-[^key-b225431e652f88980cd791c2d21c60a7]: Commencement: S. 20 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-b225431e652f88980cd791c2d21c60a7]: Commencement: S. 20 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-fb3359230a507ac988115e703152fad4]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/28/section/20) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-fb3359230a507ac988115e703152fad4]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/28/section/20) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

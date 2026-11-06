@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Persons transferred as judges and members of the First-tier Tribunal and Upper Tribunal[^key-97584b81c5283b8f896d19ee91618fce]
+## SCHEDULE 2 — Persons transferred as judges and members of the First-tier Tribunal and Upper Tribunal[^c-97584b81c5283b8f896d19ee91618fce]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ Table 5: Members becoming transferred-in other members of the Upper Tribunal
 
 ## Annotations
 
-[^key-97584b81c5283b8f896d19ee91618fce]: Commencement: Sch. 2 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-97584b81c5283b8f896d19ee91618fce]: Commencement: Sch. 2 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)

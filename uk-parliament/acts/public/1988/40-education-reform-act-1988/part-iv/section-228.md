@@ -28,7 +28,7 @@ summary: ''
 (2) Where in the case of any institution to which this section applies—
 
 - (a) the Secretary of State proposes to make to the body conducting the institution grants under regulations made under section 485 of the Education Act 1996[^c12681361]; and
-- (b) any land or other property of a local authority[^key-dd8a5cd1b7a66756b606dd2897e7636c] is for the time being used or held, or any subsisting rights or liabilities of such an authority were acquired or incurred, for the purposes of the institution;
+- (b) any land or other property of a local authority[^c-dd8a5cd1b7a66756b606dd2897e7636c] is for the time being used or held, or any subsisting rights or liabilities of such an authority were acquired or incurred, for the purposes of the institution;
 
 the Secretary of State may by order designate the institution for the purposes of this section.
 
@@ -58,4 +58,4 @@ the Secretary of State may by order designate the institution for the purposes o
 
 [^c12681361]: Textual amendment: Words in s. 228(2)(a) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 37 Pt. I para.79](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/79) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)

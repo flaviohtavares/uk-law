@@ -30,7 +30,7 @@ summary: ''
 
 TERMS AND CONDITIONS OF EMPLOYMENT
 
-Employment Rights (Increase of Limits) Order (Northern Ireland) 1998 (revoked)[^key-baca5212fd5857121765cc6d7e5e29b6]
+Employment Rights (Increase of Limits) Order (Northern Ireland) 1998 (revoked)[^c-baca5212fd5857121765cc6d7e5e29b6]
 
 Made
 
@@ -40,35 +40,35 @@ Coming into operation
 
 1st April 1998
 
-[^key-baca5212fd5857121765cc6d7e5e29b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-baca5212fd5857121765cc6d7e5e29b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-baca5212fd5857121765cc6d7e5e29b6]
+## 1. Citation and commencement[^c-baca5212fd5857121765cc6d7e5e29b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-baca5212fd5857121765cc6d7e5e29b6]
+## 2. Interpretation[^c-baca5212fd5857121765cc6d7e5e29b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-baca5212fd5857121765cc6d7e5e29b6]
+## 3. Increase of limits[^c-baca5212fd5857121765cc6d7e5e29b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-baca5212fd5857121765cc6d7e5e29b6]
+## 4. Transitional provisions[^c-baca5212fd5857121765cc6d7e5e29b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-baca5212fd5857121765cc6d7e5e29b6]
+## 5. Revocation[^c-baca5212fd5857121765cc6d7e5e29b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-baca5212fd5857121765cc6d7e5e29b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-baca5212fd5857121765cc6d7e5e29b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Table of Increase of Limits[^key-baca5212fd5857121765cc6d7e5e29b6]
+## SCHEDULE — Table of Increase of Limits[^c-baca5212fd5857121765cc6d7e5e29b6]
 
 Article 3
 
@@ -76,8 +76,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-baca5212fd5857121765cc6d7e5e29b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-baca5212fd5857121765cc6d7e5e29b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-baca5212fd5857121765cc6d7e5e29b6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/130) revoked (5.3.2000) by [Employment Rights (Increase of Limits) Order (Northern Ireland) 2000 (S.R. 2000/6)](https://www.legislation.gov.uk/nisr/2000/6), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1), [2](https://www.legislation.gov.uk/nisr/2000/6/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2000/6/article/4))
+[^c-baca5212fd5857121765cc6d7e5e29b6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/130) revoked (5.3.2000) by [Employment Rights (Increase of Limits) Order (Northern Ireland) 2000 (S.R. 2000/6)](https://www.legislation.gov.uk/nisr/2000/6), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1), [2](https://www.legislation.gov.uk/nisr/2000/6/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2000/6/article/4))

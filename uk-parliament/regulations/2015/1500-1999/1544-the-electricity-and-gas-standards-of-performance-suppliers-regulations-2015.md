@@ -51,7 +51,7 @@ In accordance with section 33BAA(1)(c) and (4) of the Gas Act and section 40B(1)
 
 The Secretary of State has consented to the making of these Regulations in accordance with sections 33A(2), 33AA(2) and 33AB(5) of the Gas Act and sections 39(1), 39A(1) and 39B(5) of the Electricity Act.
 
-## 1. Citation, commencement, transitional and savings provisions[^key-fafef262c3960c8709502a639cd0fc02]
+## 1. Citation, commencement, transitional and savings provisions[^c-fafef262c3960c8709502a639cd0fc02]
 
 (1) These Regulations may be cited as the Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 and come into force on 1st January 2016.
 
@@ -74,7 +74,7 @@ continues to apply, as applicable.
 
 (5) For the purposes of paragraph (2)(d), “customer” has the meaning given in regulation 7(2).
 
-## 2. General interpretation[^key-a1c92d978bdf6065dcad27fb94099f6f]
+## 2. General interpretation[^c-a1c92d978bdf6065dcad27fb94099f6f]
 
 (1) In these Regulations—
 
@@ -85,24 +85,24 @@ continues to apply, as applicable.
 - “domestic premises” means premises at which a supply of gas or electricity is taken or to be taken wholly or mainly for domestic purposes;
 - “Electricity Act” means the Electricity Act 1989[^f00009];
 - “electricity meter” means a meter which conforms to the requirements of paragraph 2 of Schedule 7 to the Electricity Act;
-- “[^key-12c781baaa7c6014351fb5b1817beab2]**first-time smart meter appointment**” means the first appointment where a supplier is to attend for the purpose of installing a smart meter at a customer’s premises;
+- “[^c-12c781baaa7c6014351fb5b1817beab2]**first-time smart meter appointment**” means the first appointment where a supplier is to attend for the purpose of installing a smart meter at a customer’s premises;
 - “Gas Act” means the Gas Act 1986[^f00010];
 - “gas meter” means a meter which conforms to the requirements of section 17(1)[^f00011] of the Gas Act;
-- “individual standard of performance” means one of the standards of performance a supplier is required to meet under regulations 3 to 6D;[^key-08a98d0c634bc3d3f767ac1d9aaac66c]
-- “[^key-564e4b8f5e5616214278a57fa6300998]**in-home display**” means a device which is associated with or ancillary to a smart meter in a customer’s premises that is designed to display accurate real-time information about that customer’s energy consumption including tariff or expenditure information;
+- “individual standard of performance” means one of the standards of performance a supplier is required to meet under regulations 3 to 6D;[^c-08a98d0c634bc3d3f767ac1d9aaac66c]
+- “[^c-564e4b8f5e5616214278a57fa6300998]**in-home display**” means a device which is associated with or ancillary to a smart meter in a customer’s premises that is designed to display accurate real-time information about that customer’s energy consumption including tariff or expenditure information;
 - “make a payment” includes crediting the account of a customer for charges incurred or to be incurred in respect of the supply of gas or electricity;
 - “meter” means a gas meter or an electricity meter;
 - “micro-business customer” means a customer (other than a domestic customer), which is a “relevant consumer” (in respect of premises other than domestic premises) for the purposes of article 2(1) of the Gas and Electricity Regulated Providers (Redress Scheme) Order 2008[^f00012];
-- “new supplier” means a supplier who has[^key-f6e698330d823f57e9fa986b6cd18a8e] , or will have,[^key-7305293a62bed9df7d923398884718db] responsibility for the supply of electricity or gas to the customer after the transfer of the customer from the old supplier to the new supplier;
+- “new supplier” means a supplier who has[^c-f6e698330d823f57e9fa986b6cd18a8e] , or will have,[^c-7305293a62bed9df7d923398884718db] responsibility for the supply of electricity or gas to the customer after the transfer of the customer from the old supplier to the new supplier;
 - “old supplier” means a supplier who had responsibility for the supply of electricity or gas to the customer prior to the transfer of the customer to the new supplier;
-- “prepayment meter” means any meter operating in a mode that requires a customer to pay for the consumption of gas or electricity through that meter in advance of that consumption;[^key-9a8347d2e2492b2bff44313aa706640f]
-- “[^key-5755e797434d4c8ab083d03bee6b1360]**Smart Energy Code**” means the document of that title required to be maintained and in force pursuant to a smart meter communication licence;
+- “prepayment meter” means any meter operating in a mode that requires a customer to pay for the consumption of gas or electricity through that meter in advance of that consumption;[^c-9a8347d2e2492b2bff44313aa706640f]
+- “[^c-5755e797434d4c8ab083d03bee6b1360]**Smart Energy Code**” means the document of that title required to be maintained and in force pursuant to a smart meter communication licence;
 - “**smart meter**” means an electricity meter or a gas meter that meets the minimum requirements of any version of the gas smart metering equipment (GSME) technical specifications or electricity smart metering equipment (ESME) technical specifications that are contained within Schedule 9 of the Smart Energy Code, as modified from time to time in accordance with the Secretary of State’s power under section 88(1)(e) of the Energy Act 2008 or through the process outlined in section D of the Smart Energy Code;
 - “**smart meter communication service**” means a service provided by a person under a licence granted by the Authority under section 7AB(1) of the Gas Act and section 6(1)(f) of the Electricity Act, or by the Secretary of State under section 7AB(2) of the Gas Act and section 6(1A) of the Electricity Act (“a smart meter communication licence”);
 - “standard payment” has the meaning given in regulation 8(2);
 - “supplier” means a gas supplier or an electricity supplier;
-- “supplier transfer” means in relation to any domestic premises at which a supplier is supplying gas or electricity, the transfer of responsibility for the supply of gas or electricity to a new supplier;[^key-c71766c11b3e21f9a28b852926701780]
-- “last resort supply direction” means a direction given by the Authority to a supplier to take over responsibility for the supply of electricity or gas to customers of a failed supplier;[^key-b17fabd4fba3bbb947ffe1f9594bfeb1]
+- “supplier transfer” means in relation to any domestic premises at which a supplier is supplying gas or electricity, the transfer of responsibility for the supply of gas or electricity to a new supplier;[^c-c71766c11b3e21f9a28b852926701780]
+- “last resort supply direction” means a direction given by the Authority to a supplier to take over responsibility for the supply of electricity or gas to customers of a failed supplier;[^c-b17fabd4fba3bbb947ffe1f9594bfeb1]
 - “valid contract” means a contract for the supply of electricity or gas by the supplier to the customer—
   - (a) that has been entered into by the customer;
   - (b) that relates to the premises for which the transfer has been made; and
@@ -115,7 +115,7 @@ continues to apply, as applicable.
 - (a) where more than one person is a customer (however defined for the purposes of any provision of these Regulations to which this paragraph applies) in respect of a particular premises by virtue of receiving a shared supply of gas or electricity through a shared meter, the supplier discharges its obligations in respect of all of those customers, so far as those obligations arise in relation to those premises, by fulfilling its obligations to any one of those customers; and
 - (b) any reference to a customer (however defined for the purposes of any provision of these Regulations to which this paragraph applies) includes any person who the supplier reasonably believes has authority to represent the customer (except where the reference to a customer relates to the entitlement to any payment due from a supplier under these Regulations).
 
-## 3. Appointments[^key-d36fb2ce413a1434f88128431ce79788]
+## 3. Appointments[^c-d36fb2ce413a1434f88128431ce79788]
 
 (1) This regulation applies where—
 
@@ -123,7 +123,7 @@ continues to apply, as applicable.
 - (b) the visit is in connection with activities that the supplier is required or authorised to carry out under its licence; and
 - (c) the visit either requires access to the customer’s premises to be afforded to the supplier’s representative, or is a visit for which it would otherwise be reasonable to expect the customer to be present.
 
-(1A)[^key-ff149526b14958d2d21c41da8a23744a] This regulation does not apply where the request in paragraph (1) is for a first-time smart meter appointment; and—
+(1A)[^c-ff149526b14958d2d21c41da8a23744a] This regulation does not apply where the request in paragraph (1) is for a first-time smart meter appointment; and—
 
 - (a) a supplier reasonably concludes that it would not be possible to successfully install a smart meter at the customer’s premises;
 - (b) a supplier reasonably concludes that they would not receive remote meter readings from the smart meter, either using the means provided by a smart meter communication service or otherwise; or
@@ -138,12 +138,12 @@ continues to apply, as applicable.
   - (i) no more than 4 hours long; and
   - (ii) during working hours.
 
-(4) Subject to paragraph (4A), in[^key-4bc4b35933c9af90bd702c7bb2b3fa7b] paragraph (3), reference to “within a reasonable time” means within a reasonable time of—
+(4) Subject to paragraph (4A), in[^c-4bc4b35933c9af90bd702c7bb2b3fa7b] paragraph (3), reference to “within a reasonable time” means within a reasonable time of—
 
 - (a) a request made by the supplier or the customer under paragraph (1)(a); or
 - (b) a request to rearrange the appointment by the customer or the supplier.
 
-(4A)[^key-86f2e12e7f1d63005c592d3e0f5c5fb3] Where the appointment is for a first-time smart meter appointment, reference to “within a reasonable time” in paragraph (3)(a) means on a date that is within the period of 30 working days, or 60 working days for micro-business customers, beginning with—
+(4A)[^c-86f2e12e7f1d63005c592d3e0f5c5fb3] Where the appointment is for a first-time smart meter appointment, reference to “within a reasonable time” in paragraph (3)(a) means on a date that is within the period of 30 working days, or 60 working days for micro-business customers, beginning with—
 
 - (a) the date on which the customer requests the appointment; or
 - (b) the date on which the supplier or the customer requests to rearrange the appointment.
@@ -169,11 +169,11 @@ continues to apply, as applicable.
 - (a) any cancellation or requested rearrangement by the customer; or
 - (b) any rearrangement by the supplier (and any such rearrangement must be in accordance with paragraph (7) where it occurs less than 1 working day prior to the date of the appointment).
 
-(9) In keeping the appointment in accordance with paragraph (8), including where the supplier attends an appointment for the purpose of installing a smart meter,[^key-963bd63058ad62b6d2f8c416071bdfcc] the supplier must ensure that whoever represents it for that purpose possesses the necessary skills, experience and resources to fulfil the purpose of the appointment as the supplier reasonably understands it.
+(9) In keeping the appointment in accordance with paragraph (8), including where the supplier attends an appointment for the purpose of installing a smart meter,[^c-963bd63058ad62b6d2f8c416071bdfcc] the supplier must ensure that whoever represents it for that purpose possesses the necessary skills, experience and resources to fulfil the purpose of the appointment as the supplier reasonably understands it.
 
 (10) In this regulation, “customer” includes micro-business customer.
 
-## 4. Faulty meters[^key-70f66941c004b9d49e78da9ceb0aff1e]
+## 4. Faulty meters[^c-70f66941c004b9d49e78da9ceb0aff1e]
 
 (1) This regulation applies where—
 
@@ -208,10 +208,10 @@ continues to apply, as applicable.
   - (b) ensure that the customer is receiving the supply referred to in paragraph (1) through a meter operating within the margins of error;
 - “margins of error” means—
   - (a) in relation to a gas meter, the standards or margins of error prescribed in the Gas (Meters) Regulations 1983[^f00014] or the Measuring Instruments (Gas Meters) Regulations 2006[^f00015], as applicable; or
-  - (b) in relation to an electricity meter, the prescribed margins of error or the agreed margins of error as defined by paragraph 13 of Schedule 7 to the Electricity Act or regulation 28(2)(b) of, and paragraph 15 of Schedule 1 to, the Measuring Instruments (Active Electrical Energy Meters) Regulations 2006[^f00016], as applicable; [^key-fd3dbf13ffe141818a7b24314e6886a8]...
-- [^key-fd3dbf13ffe141818a7b24314e6886a8]...
+  - (b) in relation to an electricity meter, the prescribed margins of error or the agreed margins of error as defined by paragraph 13 of Schedule 7 to the Electricity Act or regulation 28(2)(b) of, and paragraph 15 of Schedule 1 to, the Measuring Instruments (Active Electrical Energy Meters) Regulations 2006[^f00016], as applicable; [^c-fd3dbf13ffe141818a7b24314e6886a8]...
+- [^c-fd3dbf13ffe141818a7b24314e6886a8]...
 
-## 5. Faulty prepayment meters[^key-425aa01f8d06c16c16d9417e8de9098a]
+## 5. Faulty prepayment meters[^c-425aa01f8d06c16c16d9417e8de9098a]
 
 (1) This regulation applies where—
 
@@ -258,10 +258,10 @@ of receiving a notification under paragraph (1).
   - (b) restore the faulty meter to being a working meter; or
   - (c) replace the faulty meter with a working meter;
 - “faulty” in relation to a prepayment meter, means a meter which is not operating so as to permit a supply of gas or electricity to be given to a customer’s premises in the manner for which that prepayment meter was designed;
-- [^key-d45f6a2334a7cca2f2b54f0cede79e30]... and
+- [^c-d45f6a2334a7cca2f2b54f0cede79e30]... and
 - “working” in relation to a prepayment meter, means a meter which is operating so as to permit a supply of gas or electricity to be given to a customer’s premises in the manner for which that prepayment meter was designed.
 
-## 5A. Investigation of smart meters not operating as intended[^key-92bb5eaca765974becef367101f3d06d]
+## 5A. Investigation of smart meters not operating as intended[^c-92bb5eaca765974becef367101f3d06d]
 
 (1) This regulation applies where a customer notifies their supplier that the customer considers that their smart meter or in-home display is not operating as intended.
 
@@ -284,7 +284,7 @@ of receiving a notification under paragraph (1).
   - (c) the in-home display is not displaying accurate real-time information about the customer’s energy consumption, including tariff or expenditure information; or
   - (d) in the case of a smart meter intended to operate as a prepayment meter, the customer is unable to pay remotely in advance for the consumption of gas or electricity through that meter.
 
-## 6. Reconnection[^key-35213dd80e36cabf5de2984d6d7cf7b5]
+## 6. Reconnection[^c-35213dd80e36cabf5de2984d6d7cf7b5]
 
 (1) This regulation applies where a supplier has disconnected the supply of gas or electricity to a customer’s premises as a result of any non-payment of gas or electricity charges by the customer and—
 
@@ -300,7 +300,7 @@ of receiving a notification under paragraph (1).
 
 (4) For the purposes of paragraph (3), where the events referred to in paragraph (1)(a) or (b) occur outside working hours, the period of time within which the individual standard of performance must be completed begins to run at the commencement of the next following period of working hours.
 
-## 6ZA. Obligation to complete a supplier transfer[^key-5929af5b887d4d4f4769c0f9d6283619]
+## 6ZA. Obligation to complete a supplier transfer[^c-5929af5b887d4d4f4769c0f9d6283619]
 
 (1) This regulation applies where a customer requests a supplier transfer.
 
@@ -312,17 +312,17 @@ of receiving a notification under paragraph (1).
 
 (3) Where this regulation applies the new supplier must complete the supplier transfer—
 
-- (a)[^key-038df70677da3504f289d23e973135f2] where the customer has requested that the new supplier begin the supply before the end of the cooling off period, within the period of 5 working days beginning with the day of receipt by the new supplier of sufficient information to—
+- (a)[^c-038df70677da3504f289d23e973135f2] where the customer has requested that the new supplier begin the supply before the end of the cooling off period, within the period of 5 working days beginning with the day of receipt by the new supplier of sufficient information to—
   - (i) confirm the supplier transfer relates to the customer who requested it, and
   - (ii) identify the meter point or meter points to which the supplier transfer request relates;
-- (b) where the customer has requested a supplier transfer takes place[^key-8991536920beec6ba2c38fa729ea6955] on a date after the end of the period referred to in sub-paragraph (a), on the date requested; [^key-d213be633e05e5d81b687986969c2d64]...
-- (c) where the customer has existing debt on a prepayment meter and the new supplier agrees to be assigned that debt, within the period of 15 working days beginning with the day of that assignment being agreed between the old and new supplier, but no later than 32 working days from receipt by the new supplier of the information in sub-paragraph (a)(i) and (ii) or,[^key-9350fca8a2c50e191181d8dd687a063a]
+- (b) where the customer has requested a supplier transfer takes place[^c-8991536920beec6ba2c38fa729ea6955] on a date after the end of the period referred to in sub-paragraph (a), on the date requested; [^c-d213be633e05e5d81b687986969c2d64]...
+- (c) where the customer has existing debt on a prepayment meter and the new supplier agrees to be assigned that debt, within the period of 15 working days beginning with the day of that assignment being agreed between the old and new supplier, but no later than 32 working days from receipt by the new supplier of the information in sub-paragraph (a)(i) and (ii) or,[^c-9350fca8a2c50e191181d8dd687a063a]
 - (d) where the customer has not requested that the new supplier begin the supply before the end of the cooling off period, within the period of 5 working days beginning with the day on which the latest of the following events occurs—
   - (i) receipt by the new supplier of sufficient information to confirm the supplier transfer relates to the customer who requested it,
   - (ii) receipt by the new supplier of sufficient information to identify the meter point or meter points to which the supplier transfer request relates, and
   - (iii) expiry of the period of 14 days beginning with the day on which the customer and new supplier entered into the contract.
 
-(4)[^key-8820a81f7817369b961cc9cf4867cdc0] In this regulation—
+(4)[^c-8820a81f7817369b961cc9cf4867cdc0] In this regulation—
 
 - (a) where the customer enters into a contract with the new supplier after 5pm on a working day, a reference to “5 working days” is to be read as “6 working days”; and
 - (b) “**cooling off period**” means the period of time after entering into a contract with a new supplier within which that customer may cancel the contract in accordance with any relevant contractual term or applicable statutory provision.
@@ -337,7 +337,7 @@ of receiving a notification under paragraph (1).
 
 (4) For the purposes of this regulation, failure to meet the standard of performance in paragraph (3) is determined when the old supplier and the new supplier have agreed that the customer has been transferred without a valid contract.
 
-## 6A. Identification of erroneous transfers[^key-7dd8e111283db3ac730f00a39fce45aa]
+## 6A. Identification of erroneous transfers[^c-7dd8e111283db3ac730f00a39fce45aa]
 
 (1) This regulation applies where a customer notifies their old supplier or their new supplier that the customer believes that they have been transferred without a valid contract with the new supplier.
 
@@ -374,7 +374,7 @@ of receiving a notification under paragraph (1).
 
 (3) Where paragraph (1) applies, the old supplier must within 21 working days of the agreement referred to in paragraph (1)(b), re-register the customer with the old supplier.
 
-## 6CA. Provision of a final bill[^key-508d6cbfb8be18818c1c3509a9f793c1]
+## 6CA. Provision of a final bill[^c-508d6cbfb8be18818c1c3509a9f793c1]
 
 (1) This regulation applies where a supplier no longer has responsibility for the supply of electricity or gas to the customer where—
 
@@ -408,7 +408,7 @@ of receiving a notification under paragraph (1).
 
 - “corrected final bill” means any final bill issued that makes corrections to the previously issued final bill.
 
-## 7. Distributed payments[^key-45da525b6f567d221496c5c7ad51dad9]
+## 7. Distributed payments[^c-45da525b6f567d221496c5c7ad51dad9]
 
 (1) When a supplier receives a distributed payment for onward transmission to the supplier’s customer, the supplier must relay the distributed payment to that customer within 10 working days of receipt of the distributed payment.
 
@@ -423,18 +423,18 @@ of receiving a notification under paragraph (1).
     - (i) in fulfilment of an obligation imposed on it by regulations made under section 39A[^f00020] of the Electricity Act; or
     - (ii) following a determination by the Authority under section 39B of the Electricity Act.
 
-## 8. Suppliers’ payment obligations[^key-50330ab3e22b9026093327cc4f625e85]
+## 8. Suppliers’ payment obligations[^c-50330ab3e22b9026093327cc4f625e85]
 
-(1)[^key-6c339c2948a97e1bc7b38182633ef116] A supplier must meet each individual standard of performance set out in regulations 3 to 6D.
+(1)[^c-6c339c2948a97e1bc7b38182633ef116] A supplier must meet each individual standard of performance set out in regulations 3 to 6D.
 
-(2) If a supplier fails to meet any individual standard of performance it must, for each such failure, make a payment of £40[^key-44935d822cb67e7f5cd20de0629dfb10] (a “standard payment”) to the customer who is affected by the failure within 10 working days of the supplier’s initial failure to achieve the relevant individual standard of performance.
+(2) If a supplier fails to meet any individual standard of performance it must, for each such failure, make a payment of £40[^c-44935d822cb67e7f5cd20de0629dfb10] (a “standard payment”) to the customer who is affected by the failure within 10 working days of the supplier’s initial failure to achieve the relevant individual standard of performance.
 
 (3) If a supplier—
 
 - (a) fails to make a standard payment in accordance with paragraph (2); or
 - (b) fails to relay a distributed payment in accordance with regulation 7(1),
 
-it must, for each such failure, make a payment of £40[^key-e78d3feaa6d4c954c03edc5642b4b594] (an “additional standard payment”) to the customer who is affected by the failure within 10 working days of that failure.
+it must, for each such failure, make a payment of £40[^c-e78d3feaa6d4c954c03edc5642b4b594] (an “additional standard payment”) to the customer who is affected by the failure within 10 working days of that failure.
 
 (4) The obligation to make an additional standard payment under paragraph (3) is additional to the obligation to make a standard payment under paragraph (2) or relay a distributed payment under regulation 7(1).
 
@@ -448,10 +448,10 @@ it must, for each such failure, make a payment of £40[^key-e78d3feaa6d4c954c03e
 
 (9) In this regulation, “customer”—
 
-- (a) includes micro-business customer in the application of this regulation to an individual standard of performance in regulation 3 (appointments) and regulation 5A (investigation of smart meters not operating as intended) except for the purposes of paragraph (c) of the definition of “not operating as intended”[^key-39aed895f5e10ed72ae83ab8ddb32cea]; and
+- (a) includes micro-business customer in the application of this regulation to an individual standard of performance in regulation 3 (appointments) and regulation 5A (investigation of smart meters not operating as intended) except for the purposes of paragraph (c) of the definition of “not operating as intended”[^c-39aed895f5e10ed72ae83ab8ddb32cea]; and
 - (b) means, in the application of this regulation to any failure of a supplier to relay a distributed payment under regulation 7 (distributed payments), any person who is supplied or requires to be supplied with gas conveyed through pipes or electricity at premises which that person owns or occupies.
 
-## 9. Exemptions and limitations to supplier payment obligations[^key-98b5e91616d9bffb248efd0dd00d6f53]
+## 9. Exemptions and limitations to supplier payment obligations[^c-98b5e91616d9bffb248efd0dd00d6f53]
 
 (1) Where a supplier’s failure to meet an individual standard of performance is continuing, a supplier is not required to make more than one standard payment under regulation 8(2) in respect of that failure.
 
@@ -462,7 +462,7 @@ it must, for each such failure, make a payment of £40[^key-e78d3feaa6d4c954c03e
 - (a) there is a genuine dispute between the supplier and the customer as to whether the supplier is obliged to make the standard payment or the additional standard payment;
 - (b) the customer notifies the supplier that the customer does not wish the supplier to take any action, or any further action, in relation to the matter and the notification occurs before the time when the supplier would have failed to meet the individual standard of performance had the notification in question not occurred;
 - (c) the supplier reasonably considers that the following matters are frivolous or vexatious—
-  - (i)[^key-c01158cc5fad4b05bd7dd8e4ca9ff49a] the notification given by the customer to the supplier under regulation 4(1), 5(1) or 6A(1); or
+  - (i)[^c-c01158cc5fad4b05bd7dd8e4ca9ff49a] the notification given by the customer to the supplier under regulation 4(1), 5(1) or 6A(1); or
   - (ii) the request made by the customer under regulation 3(1);
 - (d) the customer has—
   - (i) committed an offence under paragraph 10 or 11 of Schedule 2B to the Gas Act[^f00021] or under paragraph 6 of Schedule 6 to, or paragraph 11 of Schedule 7 to, the Electricity Act[^f00022]; or
@@ -497,12 +497,12 @@ it must, for each such failure, make a payment of £40[^key-e78d3feaa6d4c954c03e
 
 (7) A supplier is not obliged to make a standard payment following a failure to meet any individual standard of performance set out in regulation 4 (faulty meters) or 5 (faulty prepayment meters) if it is necessary to attend the customer’s premises in order to achieve the standard of performance and the customer has asked the supplier not to do so.
 
-(7A)[^key-a08eb1cd8079b27abfcfbd84dd38eee8] A supplier is not obliged to make a standard payment following failure to meet the individual standard of performance under regulation (6B)(3)(a) or (6B)(3)(b), where the supplier can demonstrate that the written confirmation or written statement was sent within a reasonable time to meet the individual standard of performance but—
+(7A)[^c-a08eb1cd8079b27abfcfbd84dd38eee8] A supplier is not obliged to make a standard payment following failure to meet the individual standard of performance under regulation (6B)(3)(a) or (6B)(3)(b), where the supplier can demonstrate that the written confirmation or written statement was sent within a reasonable time to meet the individual standard of performance but—
 
 - (a) the customer provided the supplier with an inaccurate or incomplete postal address, where the written confirmation or written statement is to be sent by post; or
 - (b) the customer provided the supplier with incomplete or inaccurate details for receipt where the written confirmation or written statement is to be sent by electronic communication.
 
-(7AA)[^key-d2d0ff9f8f84d258365a80a775931d09] A supplier is not obliged to make a standard payment following failure to meet the individual standard of performance under regulation 6ZB, where—
+(7AA)[^c-d2d0ff9f8f84d258365a80a775931d09] A supplier is not obliged to make a standard payment following failure to meet the individual standard of performance under regulation 6ZB, where—
 
 - (a) a customer has withdrawn a request for a supplier transfer after the supplier transfer has completed —
   - (i) in accordance with any term in the contract between the new supplier and the customer, or
@@ -538,12 +538,12 @@ it must, for each such failure, make a payment of £40[^key-e78d3feaa6d4c954c03e
 
 - “contravention time” means the time at which, if this regulation did not apply, the supplier would become liable to make the standard payment or additional standard payment to the customer;
 - “customer”—
-  - (a) includes micro-business customer in the application of this regulation to an individual standard of performance in regulation 3 (appointments) and regulation 5A (investigation of smart meters not operating as intended) except for the purposes of paragraph (c) of the definition of “not operating as intended”[^key-f28a9dc2f6ad66a3490194d60cacc632]; and
+  - (a) includes micro-business customer in the application of this regulation to an individual standard of performance in regulation 3 (appointments) and regulation 5A (investigation of smart meters not operating as intended) except for the purposes of paragraph (c) of the definition of “not operating as intended”[^c-f28a9dc2f6ad66a3490194d60cacc632]; and
   - (b) means, in the application of this regulation to any failure of a supplier to relay a distributed payment under regulation 7 (distributed payments), any person who is supplied or requires to be supplied with gas conveyed through pipes or electricity at premises which that person owns or occupies; and
 
   a “genuine dispute” does not exist between the supplier and the customer as to whether the supplier is obliged to make a standard payment or an additional standard payment, unless the supplier believes, on reasonable grounds, that it is not obliged to make the standard payment or the additional standard payment.
 
-## 10. Statement of obligations[^key-a92127c7ff6b0d083a54642eb6f24df3]
+## 10. Statement of obligations[^c-a92127c7ff6b0d083a54642eb6f24df3]
 
 (1) Whenever circumstances arise to which any individual standard of performance applies in relation to a customer, the supplier must notify the customer promptly of the applicable individual standard of performance.
 
@@ -578,11 +578,11 @@ it must, for each such failure, make a payment of £40[^key-e78d3feaa6d4c954c03e
 - “distributor request” means a request from an electricity distributor to a supplier that the supplier forward a copy of that distributor’s current notice of electricity interruption and restoration standards to one or more identified customers of the supplier; and
 - “notice of electricity interruption and restoration standards” means a notice prepared by an electricity distributor describing the standards of performance applying to electricity distributors which are prescribed under section 39A of the Electricity Act and which relate to supply interruption and restoration.
 
-## 11. Dispute resolution[^key-2c0a1dcacfd358529eb1e9f4a75d78eb]
+## 11. Dispute resolution[^c-2c0a1dcacfd358529eb1e9f4a75d78eb]
 
 The Schedule (standards of performance – practice and procedure for determinations) sets out the practice to be followed in connection with the determination of any dispute under section 33A of the Gas Act, section 39 of the Electricity Act, or any provision of these Regulations, which is referred to the Authority for determination under section 33AB(1) of the Gas Act or section 39B(1) of the Electricity Act.
 
-## 12. Amendment of the Gas (Standards of Performance) Regulations 2005[^key-2567b8ead57566ab3c1c1e786e4b93dc]
+## 12. Amendment of the Gas (Standards of Performance) Regulations 2005[^c-2567b8ead57566ab3c1c1e786e4b93dc]
 
 The Gas (Standards of Performance) Regulations 2005[^f00028] are amended as follows—
 
@@ -597,7 +597,7 @@ The Gas (Standards of Performance) Regulations 2005[^f00028] are amended as foll
 - (e) for the heading of Schedule 1, Part 1 (Prescribed periods and prescribed sums applicable to all gas suppliers and gas transporters), substitute “Prescribed Periods and Prescribed Sums Applicable to all Gas Transporters”; and
 - (f) in Schedule 1, Part 1, omit the entries in the table in relation to regulations 4(2), (4)(a) and (4)(b), 5(3), 6(2) and (3) and 12(3).
 
-## 13. Amendment of the Gas (Standards of Performance) (Amendment) Regulations 2008[^key-358b5f50663e691effbdb874a969dcf2]
+## 13. Amendment of the Gas (Standards of Performance) (Amendment) Regulations 2008[^c-358b5f50663e691effbdb874a969dcf2]
 
 The Gas (Standards of Performance) (Amendment) Regulations 2008[^f00030] are amended as follows—
 
@@ -605,7 +605,7 @@ The Gas (Standards of Performance) (Amendment) Regulations 2008[^f00030] are ame
 - (b) omit regulation 11; and
 - (c) in regulation 12(2), omit the entries in the table in relation to regulations 4(2), (4)(a) and (4)(b), 5(3), 6(2) and (3) and 12(3) of the Gas (Standards of Performance) Regulations 2005.
 
-## 14. Amendment of the Electricity (Standards of Performance) Regulations 2015[^key-b95dcd559650f446eadb249396919780]
+## 14. Amendment of the Electricity (Standards of Performance) Regulations 2015[^c-b95dcd559650f446eadb249396919780]
 
 The Electricity (Standards of Performance) Regulations 2015[^f00031] are amended as follows—
 
@@ -644,24 +644,24 @@ Department of Energy and Climate Change
 
 Regulation 11
 
-### 1. Determination of disputes[^key-d864595aa68065faa46e4ace6dc89374]
+### 1. Determination of disputes[^c-d864595aa68065faa46e4ace6dc89374]
 
 (1) This Schedule applies where a dispute to which regulation 11 applies has arisen between a supplier and a customer.
 
 (2) A dispute to which this Schedule applies—
 
-- (a) may be referred to the Authority by any party or, with the agreement of any party, by Citizens Advice , Citizens Advice Scotland or Consumer Scotland[^key-57f47fecba817b078e49be1bf8d4991d]; and
+- (a) may be referred to the Authority by any party or, with the agreement of any party, by Citizens Advice , Citizens Advice Scotland or Consumer Scotland[^c-57f47fecba817b078e49be1bf8d4991d]; and
 - (b) on such reference, must be determined by order made by the Authority.
 
 (3) In making an order under this Schedule, the Authority must include in the order the reasons for reaching its decision with respect to a dispute.
 
-### 2. Timetable for the determination of individual disputes[^key-09ce4088517e198a81f0241edad36893]
+### 2. Timetable for the determination of individual disputes[^c-09ce4088517e198a81f0241edad36893]
 
 (1) The Authority must determine a dispute to which this Schedule applies before the end of 80 working days from the date when the dispute was referred to the Authority.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which a dispute may be determined may be extended with the consent of the referring party or parties.
 
-### 3. Procedure for the determination of individual disputes[^key-96d5d9a3743e7e638bc0b9e2a2bd15ce]
+### 3. Procedure for the determination of individual disputes[^c-96d5d9a3743e7e638bc0b9e2a2bd15ce]
 
 (1) Where an individual dispute is referred to the Authority, the Authority must, at the outset, send to the parties a notice of procedure for the determination of the dispute.
 
@@ -689,19 +689,19 @@ Regulation 11
 
 (9) The Authority must, upon receipt of any notification under sub-paragraph (8), make the necessary adjustments to the final determination statement and then publish that statement on its website in accordance with sub-paragraph (2)(d).
 
-### 4. Determination of multiple disputes[^key-27113dc49ab84cce72b2d20f405cccf5]
+### 4. Determination of multiple disputes[^c-27113dc49ab84cce72b2d20f405cccf5]
 
 (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a “consolidated group”) similar or related disputes for the purposes of determining those disputes.
 
 (2) A determination made by the Authority in respect of a consolidated group applies to each individual dispute in that group.
 
-### 5. Timetable for determination of multiple disputes[^key-39b8b62fbb2c168e2a1432e5f249b54d]
+### 5. Timetable for determination of multiple disputes[^c-39b8b62fbb2c168e2a1432e5f249b54d]
 
 (1) The Authority, when determining disputes falling within a consolidated group, must determine those disputes before the end of 6 months from the date when they were consolidated into that group under paragraph 4.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which disputes falling within a consolidated group may be determined may be extended by notice to the representatives of any such group nominated under paragraph 10.
 
-### 6. Procedure for the determination of multiple disputes[^key-362d71209fcf9ed7c5bd6059b7274964]
+### 6. Procedure for the determination of multiple disputes[^c-362d71209fcf9ed7c5bd6059b7274964]
 
 (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, the Authority must send to the parties a notice of procedure for the determination of the dispute.
 
@@ -742,7 +742,7 @@ Regulation 11
 
 (14) The Authority must, upon receipt of any notification under sub-paragraph (13), make the necessary adjustments to the final determination statement and then publish that statement on its website in accordance with sub-paragraph (2)(d).
 
-### 7. Written statements[^key-8c1b0f68454ef994511cd5909edda74a]
+### 7. Written statements[^c-8c1b0f68454ef994511cd5909edda74a]
 
 (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
 
@@ -752,7 +752,7 @@ Regulation 11
 
 (4) The Authority may make copies of a document produced to it under this paragraph.
 
-### 8. Production of documents and other evidence[^key-744e8ae7b09e5c056f22f091997a884d]
+### 8. Production of documents and other evidence[^c-744e8ae7b09e5c056f22f091997a884d]
 
 (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
 
@@ -765,7 +765,7 @@ Regulation 11
 
 (4) The Authority may make copies of a document produced to it under this paragraph.
 
-### 9. Oral hearings[^key-1dc95c0ae7c743e0b7d5912e24ed470d]
+### 9. Oral hearings[^c-1dc95c0ae7c743e0b7d5912e24ed470d]
 
 (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
 
@@ -780,13 +780,13 @@ Regulation 11
 
 (5) No person is to be compelled under this paragraph to give evidence that they could not be compelled to give in civil proceedings in the High Court or Court of Session.
 
-### 10. Customer representatives for multiple disputes[^key-731465e26ad2768db2fd269b656b02f6]
+### 10. Customer representatives for multiple disputes[^c-731465e26ad2768db2fd269b656b02f6]
 
 (1) Where disputes are consolidated into categories under paragraph 4, the Authority must nominate one or more customers to be representatives of each consolidated group.
 
 (2) A customer nominated to be a representative of a consolidated group under this paragraph may only become a representative if they consent to do so.
 
-### 11. Collection of information in multiple disputes[^key-4904dc2e75f44dda17bcd250b62cfaef]
+### 11. Collection of information in multiple disputes[^c-4904dc2e75f44dda17bcd250b62cfaef]
 
 (1) The Authority may by notice ask any customer who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
 
@@ -794,21 +794,21 @@ Regulation 11
 
 (3) No person is to be compelled under this paragraph to produce information with respect to any matter about which they could not be compelled to give evidence in civil proceedings in the High Court or Court of Session.
 
-### 12. Payments to customers[^key-af6727ccdd6fc48996b20e691b799df3]
+### 12. Payments to customers[^c-af6727ccdd6fc48996b20e691b799df3]
 
 An order determining a dispute does not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
 
-### 13. Set-off[^key-5d48f9f4a2d3fcc0cf601ee59a2efca6]
+### 13. Set-off[^c-5d48f9f4a2d3fcc0cf601ee59a2efca6]
 
 Where a dispute is determined by an order requiring a supplier to make a payment to the customer and the supplier fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the supplier.
 
-### 14. Costs[^key-856236f6f9a622d67eb54de1e8ce3a8a]
+### 14. Costs[^c-856236f6f9a622d67eb54de1e8ce3a8a]
 
 (1) An order determining a dispute may include a provision requiring the supplier or the customer to pay a sum in respect of the costs or expenses incurred by the Authority.
 
 (2) In including in an order under sub-paragraph (1) any such provision as to costs, the Authority must have regard to the conduct and means of the parties and any other relevant circumstances.
 
-### 15. Interpretation[^key-8427e599382dc124e88c422512ef9bee]
+### 15. Interpretation[^c-8427e599382dc124e88c422512ef9bee]
 
 In the application of this Schedule to a dispute, “customer” has the same meaning that it has in relation to the provision of these Regulations to which the dispute relates.
 
@@ -850,7 +850,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00005]: Footnote: Section 40B was inserted by section 56 of the Utilities Act 2000 and amended by paragraph 5 of Schedule 1 to [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631).
 
-[^key-fafef262c3960c8709502a639cd0fc02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-fafef262c3960c8709502a639cd0fc02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2015/699](https://www.legislation.gov.uk/uksi/2015/699).
 
@@ -858,47 +858,47 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00008]: Footnote: The standards of overall performance determined by the Authority in December 2001 under section 33B of the Gas Act 1986 and the standards of overall performance determined by the Authority in September 2002 under section 40 of the Electricity Act 1989 were revoked by the Gas and Electricity Markets Authority with effect from 1st January 2016, subject to regulation 1(4) of these Regulations. Details of where those standards of overall performance can be viewed are provided in the Explanatory Note to these Regulations.
 
-[^key-a1c92d978bdf6065dcad27fb94099f6f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-a1c92d978bdf6065dcad27fb94099f6f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00009]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-12c781baaa7c6014351fb5b1817beab2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/73/regulation/3/2)
+[^c-12c781baaa7c6014351fb5b1817beab2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/73/regulation/3/2)
 
 [^f00010]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44).
 
 [^f00011]: Footnote: Section 17 was substituted by paragraph 13 of Schedule 3 to the Gas Act 1995; there are other amendments not relevant to these Regulations.
 
-[^key-08a98d0c634bc3d3f767ac1d9aaac66c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) substituted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/2/1)
+[^c-08a98d0c634bc3d3f767ac1d9aaac66c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) substituted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/2/1)
 
-[^key-564e4b8f5e5616214278a57fa6300998]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/73/regulation/3/3)
+[^c-564e4b8f5e5616214278a57fa6300998]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/73/regulation/3/3)
 
 [^f00012]: Footnote: [S.I. 2008/2268](https://www.legislation.gov.uk/uksi/2008/2268), as amended by [S.I. 2014/2378](https://www.legislation.gov.uk/uksi/2014/2378).
 
-[^key-f6e698330d823f57e9fa986b6cd18a8e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/218/regulation/2/2)
+[^c-f6e698330d823f57e9fa986b6cd18a8e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/218/regulation/2/2)
 
-[^key-7305293a62bed9df7d923398884718db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/116/regulation/2/a)
+[^c-7305293a62bed9df7d923398884718db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/116/regulation/2/a)
 
-[^key-9a8347d2e2492b2bff44313aa706640f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/116/regulation/2/b)
+[^c-9a8347d2e2492b2bff44313aa706640f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/116/regulation/2/b)
 
-[^key-5755e797434d4c8ab083d03bee6b1360]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2026/73/regulation/3/4)
+[^c-5755e797434d4c8ab083d03bee6b1360]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2026/73/regulation/3/4)
 
-[^key-c71766c11b3e21f9a28b852926701780]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/116/regulation/2/c)
+[^c-c71766c11b3e21f9a28b852926701780]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/116/regulation/2/c)
 
-[^key-b17fabd4fba3bbb947ffe1f9594bfeb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/218/regulation/2/3)
+[^c-b17fabd4fba3bbb947ffe1f9594bfeb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/2/1) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/218/regulation/2/3)
 
 [^f00013]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-d36fb2ce413a1434f88128431ce79788]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-d36fb2ce413a1434f88128431ce79788]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-ff149526b14958d2d21c41da8a23744a]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/1A) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/2)
+[^c-ff149526b14958d2d21c41da8a23744a]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/1A) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/2)
 
-[^key-4bc4b35933c9af90bd702c7bb2b3fa7b]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/4) substituted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/3)
+[^c-4bc4b35933c9af90bd702c7bb2b3fa7b]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/4) substituted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/3)
 
-[^key-86f2e12e7f1d63005c592d3e0f5c5fb3]: Textual amendment: [Reg. 3(4A)-(4C)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/4A) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/4)
+[^c-86f2e12e7f1d63005c592d3e0f5c5fb3]: Textual amendment: [Reg. 3(4A)-(4C)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/4A) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/4)
 
-[^key-963bd63058ad62b6d2f8c416071bdfcc]: Textual amendment: Words in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/9) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/5)
+[^c-963bd63058ad62b6d2f8c416071bdfcc]: Textual amendment: Words in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/3/9) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2026/73/regulation/4/5)
 
-[^key-70f66941c004b9d49e78da9ceb0aff1e]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-70f66941c004b9d49e78da9ceb0aff1e]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 1983/684](https://www.legislation.gov.uk/uksi/1983/684), amended by [S.I. 1991/1471](https://www.legislation.gov.uk/uksi/1991/1471), [1993/1521](https://www.legislation.gov.uk/uksi/1993/1521) and [1995/1251](https://www.legislation.gov.uk/uksi/1995/1251).
 
@@ -906,55 +906,55 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00016]: Footnote: [S.I. 2006/1679](https://www.legislation.gov.uk/uksi/2006/1679), amended by [S.I. 2010/2881](https://www.legislation.gov.uk/uksi/2010/2881).
 
-[^key-fd3dbf13ffe141818a7b24314e6886a8]: Textual amendment: Words in reg. 4(6) omitted (1.5.2020) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/116/regulation/3)
+[^c-fd3dbf13ffe141818a7b24314e6886a8]: Textual amendment: Words in reg. 4(6) omitted (1.5.2020) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/116/regulation/3)
 
-[^key-425aa01f8d06c16c16d9417e8de9098a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1544/regulation/5) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-425aa01f8d06c16c16d9417e8de9098a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1544/regulation/5) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-d45f6a2334a7cca2f2b54f0cede79e30]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/5/7) omitted (1.5.2020) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/116/regulation/4)
+[^c-d45f6a2334a7cca2f2b54f0cede79e30]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/5/7) omitted (1.5.2020) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/116/regulation/4)
 
-[^key-92bb5eaca765974becef367101f3d06d]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2015/1544/regulation/5A) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/73/regulation/5)
+[^c-92bb5eaca765974becef367101f3d06d]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2015/1544/regulation/5A) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/73/regulation/5)
 
-[^key-35213dd80e36cabf5de2984d6d7cf7b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1544/regulation/6) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-35213dd80e36cabf5de2984d6d7cf7b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1544/regulation/6) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00017]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44); section 7A was inserted by section 6(1) of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45) and amended by section 3(2) of and paragraph 2 of Schedule 6 and Schedule 8 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and section 149(7) of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
 [^f00018]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 6 was amended by section 30 of the Utilities Act 2000, sections 89, 136 and 145of, paragraph 5 of Schedule 19 and Part 1 of Schedule 23 to the Energy Act 2004, paragraph 2 of Schedule 8 to the Climate Change Act [2008 (c.27)](https://www.legislation.gov.uk/ukpga/2008/27), paragraph 3 of Schedule 1 to the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
-[^key-5929af5b887d4d4f4769c0f9d6283619]: Textual amendment: Regs. 6ZA, 6ZB inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/116/regulation/5)
+[^c-5929af5b887d4d4f4769c0f9d6283619]: Textual amendment: Regs. 6ZA, 6ZB inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/116/regulation/5)
 
-[^key-038df70677da3504f289d23e973135f2]: Textual amendment: Reg. 6ZA(3)(a) substituted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
+[^c-038df70677da3504f289d23e973135f2]: Textual amendment: Reg. 6ZA(3)(a) substituted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
 
-[^key-8991536920beec6ba2c38fa729ea6955]: Textual amendment: Word in reg. 6ZA(3)(b) substituted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
+[^c-8991536920beec6ba2c38fa729ea6955]: Textual amendment: Word in reg. 6ZA(3)(b) substituted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
 
-[^key-d213be633e05e5d81b687986969c2d64]: Textual amendment: Word in reg. 6ZA(3)(b) omitted (1.4.2024) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
+[^c-d213be633e05e5d81b687986969c2d64]: Textual amendment: Word in reg. 6ZA(3)(b) omitted (1.4.2024) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
 
-[^key-9350fca8a2c50e191181d8dd687a063a]: Textual amendment: Reg. 6ZA(3)(d) and word inserted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
+[^c-9350fca8a2c50e191181d8dd687a063a]: Textual amendment: Reg. 6ZA(3)(d) and word inserted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
 
-[^key-8820a81f7817369b961cc9cf4867cdc0]: Textual amendment: Reg. 6ZA(4) inserted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
+[^c-8820a81f7817369b961cc9cf4867cdc0]: Textual amendment: Reg. 6ZA(4) inserted (1.4.2024) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024 (S.I. 2024/108)](https://www.legislation.gov.uk/uksi/2024/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/108/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2024/108/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/108/regulation/3))
 
-[^key-7dd8e111283db3ac730f00a39fce45aa]: Textual amendment: [Regs. 6A-6D](https://www.legislation.gov.uk/uksi/2015/1544/regulation/6A) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/218/regulation/3)
+[^c-7dd8e111283db3ac730f00a39fce45aa]: Textual amendment: [Regs. 6A-6D](https://www.legislation.gov.uk/uksi/2015/1544/regulation/6A) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/218/regulation/3)
 
-[^key-508d6cbfb8be18818c1c3509a9f793c1]: Textual amendment: [Reg. 6CA](https://www.legislation.gov.uk/uksi/2015/1544/regulation/6CA) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/116/regulation/6)
+[^c-508d6cbfb8be18818c1c3509a9f793c1]: Textual amendment: [Reg. 6CA](https://www.legislation.gov.uk/uksi/2015/1544/regulation/6CA) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/116/regulation/6)
 
-[^key-45da525b6f567d221496c5c7ad51dad9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1544/regulation/7) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-45da525b6f567d221496c5c7ad51dad9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1544/regulation/7) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00019]: Footnote: Section 33AA was inserted by section 90(2) of the Utilities Act 2000.
 
 [^f00020]: Footnote: Section 39A was inserted by section 54(2) of the Utilities Act 2000.
 
-[^key-50330ab3e22b9026093327cc4f625e85]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1544/regulation/8) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-50330ab3e22b9026093327cc4f625e85]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1544/regulation/8) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-6c339c2948a97e1bc7b38182633ef116]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/8/1) substituted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/218/regulation/4)
+[^c-6c339c2948a97e1bc7b38182633ef116]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/8/1) substituted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/218/regulation/4)
 
-[^key-44935d822cb67e7f5cd20de0629dfb10]: Textual amendment: Sum in reg. 8(2) substituted (2.1.2025) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1166)](https://www.legislation.gov.uk/uksi/2024/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1166/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1166/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/1166/regulation/3))
+[^c-44935d822cb67e7f5cd20de0629dfb10]: Textual amendment: Sum in reg. 8(2) substituted (2.1.2025) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1166)](https://www.legislation.gov.uk/uksi/2024/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1166/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1166/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/1166/regulation/3))
 
-[^key-e78d3feaa6d4c954c03edc5642b4b594]: Textual amendment: Sum in reg. 8(3) substituted (2.1.2025) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1166)](https://www.legislation.gov.uk/uksi/2024/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1166/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1166/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/1166/regulation/3))
+[^c-e78d3feaa6d4c954c03edc5642b4b594]: Textual amendment: Sum in reg. 8(3) substituted (2.1.2025) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1166)](https://www.legislation.gov.uk/uksi/2024/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1166/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1166/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/1166/regulation/3))
 
-[^key-39aed895f5e10ed72ae83ab8ddb32cea]: Textual amendment: Words in [reg. 8(9)(a)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/8/9/a) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/73/regulation/6)
+[^c-39aed895f5e10ed72ae83ab8ddb32cea]: Textual amendment: Words in [reg. 8(9)(a)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/8/9/a) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/73/regulation/6)
 
-[^key-98b5e91616d9bffb248efd0dd00d6f53]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-98b5e91616d9bffb248efd0dd00d6f53]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-c01158cc5fad4b05bd7dd8e4ca9ff49a]: Textual amendment: [Reg. 9(3)(c)(i)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/3/c/i) substituted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/5/1)
+[^c-c01158cc5fad4b05bd7dd8e4ca9ff49a]: Textual amendment: [Reg. 9(3)(c)(i)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/3/c/i) substituted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/5/1)
 
 [^f00021]: Footnote: Schedule 2B was inserted by section 9(2) of, and Schedule 2 to, the Gas Act 1995.
 
@@ -966,62 +966,62 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00025]: Footnote: Paragraph 2 of Schedule 6 was amended by section 24 of the Energy Act 2011.
 
-[^key-a08eb1cd8079b27abfcfbd84dd38eee8]: Textual amendment: [Reg. 9(7A)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/7A)[(7B)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/7B) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/218/regulation/5/2)
+[^c-a08eb1cd8079b27abfcfbd84dd38eee8]: Textual amendment: [Reg. 9(7A)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/7A)[(7B)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/7B) inserted (1.5.2019) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2019 (S.I. 2019/218)](https://www.legislation.gov.uk/uksi/2019/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/218/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/218/regulation/5/2)
 
-[^key-d2d0ff9f8f84d258365a80a775931d09]: Textual amendment: [Reg. 9(7AA)-(7AC)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/7AA) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/116/regulation/7)
+[^c-d2d0ff9f8f84d258365a80a775931d09]: Textual amendment: [Reg. 9(7AA)-(7AC)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/7AA) inserted (1.5.2020) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2020 (S.I. 2020/116)](https://www.legislation.gov.uk/uksi/2020/116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/116/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/116/regulation/7)
 
-[^key-f28a9dc2f6ad66a3490194d60cacc632]: Textual amendment: Words in [reg. 9(8)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/8) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/73/regulation/7)
+[^c-f28a9dc2f6ad66a3490194d60cacc632]: Textual amendment: Words in [reg. 9(8)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/9/8) inserted (23.2.2026) by [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026 (S.I. 2026/73)](https://www.legislation.gov.uk/uksi/2026/73), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/73/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/73/regulation/7)
 
-[^key-a92127c7ff6b0d083a54642eb6f24df3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1544/regulation/10) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-a92127c7ff6b0d083a54642eb6f24df3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1544/regulation/10) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00026]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44); section 33BA was inserted by section 91 of the Utilities Act 2000.
 
 [^f00027]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 40A was inserted by section 55 of the Utilities Act 2000.
 
-[^key-2c0a1dcacfd358529eb1e9f4a75d78eb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1544/regulation/11) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-2c0a1dcacfd358529eb1e9f4a75d78eb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1544/regulation/11) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-2567b8ead57566ab3c1c1e786e4b93dc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-2567b8ead57566ab3c1c1e786e4b93dc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 2005/1135](https://www.legislation.gov.uk/uksi/2005/1135), amended by [S.I. 2008/696](https://www.legislation.gov.uk/uksi/2008/696).
 
 [^f00029]: Footnote: The definition of “relevant operator” was substituted by [S.I. 2008/696](https://www.legislation.gov.uk/uksi/2008/696).
 
-[^key-358b5f50663e691effbdb874a969dcf2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1544/regulation/13) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-358b5f50663e691effbdb874a969dcf2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1544/regulation/13) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2008/696](https://www.legislation.gov.uk/uksi/2008/696).
 
-[^key-b95dcd559650f446eadb249396919780]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-b95dcd559650f446eadb249396919780]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 2015/699](https://www.legislation.gov.uk/uksi/2015/699).
 
-[^key-d864595aa68065faa46e4ace6dc89374]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/1) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-d864595aa68065faa46e4ace6dc89374]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/1) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-57f47fecba817b078e49be1bf8d4991d]: Textual amendment: Words in [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/1/2/a) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/11/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
+[^c-57f47fecba817b078e49be1bf8d4991d]: Textual amendment: Words in [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/1/2/a) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/11/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
 
-[^key-09ce4088517e198a81f0241edad36893]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/2) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-09ce4088517e198a81f0241edad36893]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/2) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-96d5d9a3743e7e638bc0b9e2a2bd15ce]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/3) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-96d5d9a3743e7e638bc0b9e2a2bd15ce]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/3) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-27113dc49ab84cce72b2d20f405cccf5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/4) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-27113dc49ab84cce72b2d20f405cccf5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/4) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-39b8b62fbb2c168e2a1432e5f249b54d]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/5) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-39b8b62fbb2c168e2a1432e5f249b54d]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/5) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-362d71209fcf9ed7c5bd6059b7274964]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/6) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-362d71209fcf9ed7c5bd6059b7274964]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/6) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-8c1b0f68454ef994511cd5909edda74a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/7) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-8c1b0f68454ef994511cd5909edda74a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/7) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-744e8ae7b09e5c056f22f091997a884d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/8) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-744e8ae7b09e5c056f22f091997a884d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/8) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-1dc95c0ae7c743e0b7d5912e24ed470d]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/9) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-1dc95c0ae7c743e0b7d5912e24ed470d]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/9) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-731465e26ad2768db2fd269b656b02f6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/10) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-731465e26ad2768db2fd269b656b02f6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/10) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-4904dc2e75f44dda17bcd250b62cfaef]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/11) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-4904dc2e75f44dda17bcd250b62cfaef]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/11) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-af6727ccdd6fc48996b20e691b799df3]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/12) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-af6727ccdd6fc48996b20e691b799df3]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/12) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-5d48f9f4a2d3fcc0cf601ee59a2efca6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/13) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-5d48f9f4a2d3fcc0cf601ee59a2efca6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/13) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-856236f6f9a622d67eb54de1e8ce3a8a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/14) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-856236f6f9a622d67eb54de1e8ce3a8a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/14) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
 
-[^key-8427e599382dc124e88c422512ef9bee]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/15) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)
+[^c-8427e599382dc124e88c422512ef9bee]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/1544/schedule/paragraph/15) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Proposals to change a school's category[^key-dadd6ffe2f92230fecf95732eebb3deb]
+## 45. Proposals to change a school's category[^c-dadd6ffe2f92230fecf95732eebb3deb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dadd6ffe2f92230fecf95732eebb3deb]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2013/1/section/45) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-dadd6ffe2f92230fecf95732eebb3deb]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2013/1/section/45) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

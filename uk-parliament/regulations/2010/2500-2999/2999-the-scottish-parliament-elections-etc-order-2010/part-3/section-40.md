@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Expenses incurred otherwise than for election purposes[^key-3c191c39200660ea8b5fa2e2448fc598]
+## 40. Expenses incurred otherwise than for election purposes[^c-3c191c39200660ea8b5fa2e2448fc598]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c191c39200660ea8b5fa2e2448fc598]: Commencement: Art. 40 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3c191c39200660ea8b5fa2e2448fc598]: Commencement: Art. 40 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

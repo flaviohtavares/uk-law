@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6A. Matters which may be investigated: healthcare whistleblowing[^key-90dcd65dc0921f83694d4b803d4c71ba]
+## 6A. Matters which may be investigated: healthcare whistleblowing[^c-90dcd65dc0921f83694d4b803d4c71ba]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90dcd65dc0921f83694d4b803d4c71ba]: Textual amendment: [Ss. 6A](https://www.legislation.gov.uk/asp/2002/11/section/6A), [6B](https://www.legislation.gov.uk/asp/2002/11/section/6B) inserted (8.1.2020) by [The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5)](https://www.legislation.gov.uk/ssi/2020/5), [arts. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/5/article/3/2)
+[^c-90dcd65dc0921f83694d4b803d4c71ba]: Textual amendment: [Ss. 6A](https://www.legislation.gov.uk/asp/2002/11/section/6A), [6B](https://www.legislation.gov.uk/asp/2002/11/section/6B) inserted (8.1.2020) by [The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5)](https://www.legislation.gov.uk/ssi/2020/5), [arts. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/5/article/3/2)

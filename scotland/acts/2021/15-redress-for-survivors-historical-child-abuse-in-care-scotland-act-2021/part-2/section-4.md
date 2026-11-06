@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Status[^key-cfa8941819f51b3e92f44f3910084d0c]
+## 4. Status[^c-cfa8941819f51b3e92f44f3910084d0c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfa8941819f51b3e92f44f3910084d0c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/15/section/4) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-cfa8941819f51b3e92f44f3910084d0c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/15/section/4) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

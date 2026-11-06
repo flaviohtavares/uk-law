@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Regulatory committee: convener, sub-committees and minutes[^key-ebc6bc039959fa620c6efcd2af07266b][^key-25a1d543d8cddc9dc4688cc4cb7b6632]
+## 11. Regulatory committee: convener, sub-committees and minutes[^c-ebc6bc039959fa620c6efcd2af07266b][^c-25a1d543d8cddc9dc4688cc4cb7b6632]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc6bc039959fa620c6efcd2af07266b]: Commencement: S. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-ebc6bc039959fa620c6efcd2af07266b]: Commencement: S. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-25a1d543d8cddc9dc4688cc4cb7b6632]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/8/section/11) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-25a1d543d8cddc9dc4688cc4cb7b6632]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/8/section/11) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

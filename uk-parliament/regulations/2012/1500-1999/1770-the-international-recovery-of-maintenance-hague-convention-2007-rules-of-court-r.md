@@ -54,7 +54,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 (3) Regulations 3 to 7 extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendments to the Magistrates' Courts Act 1980[^key-efa7d012a58b2a3fdda4bcbe3b7e48e2]
+## 2. Amendments to the Magistrates' Courts Act 1980[^c-efa7d012a58b2a3fdda4bcbe3b7e48e2]
 
 *Extent: E+W*
 
@@ -133,7 +133,7 @@ Regulations 2 to 6 extend the scope of existing powers to make rules of court ne
 
 [^c21306831]: Marginal citation: [The European Communities (Designation) (No.2) Order 2008 (S.I.2008/1792)](https://www.legislation.gov.uk/uksi/2008/1792). Under section 57 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of the functions in relation to the implementation of obligations under Community law in respect of those devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by the Secretary of State as regards Scotland. Implementation of obligations under Community law in respect of devolved matters is itself a devolved matter in Northern Ireland. However, the designation of the Secretary of State under the European Communities (Designation) (No.2) Order 2008 in relation to private international law remains exercisable in relation to Northern Ireland. This is despite the designation of Northern Ireland Departments in relation to that matter by virtue of the [European Communities (Designation) (No.5) Order 2010 (S.I.2010/2690)](https://www.legislation.gov.uk/uksi/2010/2690) as that designation does not restrict the scope of other designations.
 
-[^key-efa7d012a58b2a3fdda4bcbe3b7e48e2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1770/regulation/2) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [134](https://www.legislation.gov.uk/uksi/2014/879/article/134)
+[^c-efa7d012a58b2a3fdda4bcbe3b7e48e2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1770/regulation/2) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [134](https://www.legislation.gov.uk/uksi/2014/879/article/134)
 
 [^c21306861]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27).
 

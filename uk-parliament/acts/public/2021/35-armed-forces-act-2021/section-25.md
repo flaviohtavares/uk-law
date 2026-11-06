@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Extent in the United Kingdom[^key-c0876bf62215a171785039032d9927f5]
+## 25. Extent in the United Kingdom[^c-c0876bf62215a171785039032d9927f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0876bf62215a171785039032d9927f5]: Commencement: S. 25 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)
+[^c-c0876bf62215a171785039032d9927f5]: Commencement: S. 25 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)

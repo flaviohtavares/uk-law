@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76E. Applications under section 62A: determination by Secretary of State[^key-5b76aed25bf17f9d2fdc9f61c41c6bed]
+## 76E. Applications under section 62A: determination by Secretary of State[^c-5b76aed25bf17f9d2fdc9f61c41c6bed]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b76aed25bf17f9d2fdc9f61c41c6bed]: Textual amendment: Ss. 76C-76E inserted (9.5.2013 for E. for specified purposes, 1.10.2013 for specified purposes, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); S.I. 2014/1531, art. 2
+[^c-5b76aed25bf17f9d2fdc9f61c41c6bed]: Textual amendment: Ss. 76C-76E inserted (9.5.2013 for E. for specified purposes, 1.10.2013 for specified purposes, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); S.I. 2014/1531, art. 2

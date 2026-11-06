@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Modification of offences and penalties related to fishing[^key-aa54f4b0c3f49226cd7f95fa900194f7]
+## 43. Modification of offences and penalties related to fishing[^c-aa54f4b0c3f49226cd7f95fa900194f7]
 
 *Extent: S*
 
@@ -118,4 +118,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa54f4b0c3f49226cd7f95fa900194f7]: Commencement: S. 43 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-aa54f4b0c3f49226cd7f95fa900194f7]: Commencement: S. 43 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Insertion of Schedule 4A[^key-6fa1834a5d29dbedb68e01fc61323ca9]
+## SCHEDULE 3 — Insertion of Schedule 4A[^c-6fa1834a5d29dbedb68e01fc61323ca9]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,4 +150,4 @@ After Schedule 4 insert—
 
 ## Annotations
 
-[^key-6fa1834a5d29dbedb68e01fc61323ca9]: Commencement: Sch. 3 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-6fa1834a5d29dbedb68e01fc61323ca9]: Commencement: Sch. 3 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Content of application[^key-a16191a6d1eb24758de6a342739b086d]
+## 6. Content of application[^c-a16191a6d1eb24758de6a342739b086d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ An application for a special administration order must state—
 
 ## Annotations
 
-[^key-a16191a6d1eb24758de6a342739b086d]: Commencement: Rule 6 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a16191a6d1eb24758de6a342739b086d]: Commencement: Rule 6 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

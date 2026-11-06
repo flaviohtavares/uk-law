@@ -31,7 +31,7 @@ summary: ''
 
 COUNTRYSIDE, ENGLAND
 
-The Access to the Countryside (Correction of Provisional and Conclusive Maps) (England) Regulations 2003 (revoked)[^key-1a01f94d53077e46739850bd81a286d4]
+The Access to the Countryside (Correction of Provisional and Conclusive Maps) (England) Regulations 2003 (revoked)[^c-1a01f94d53077e46739850bd81a286d4]
 
 Made
 
@@ -45,66 +45,66 @@ Coming into force
 
 21st July 2003
 
-[^key-1a01f94d53077e46739850bd81a286d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a01f94d53077e46739850bd81a286d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-1a01f94d53077e46739850bd81a286d4]
+## 1. Citation, commencement and application[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1a01f94d53077e46739850bd81a286d4]
+## 2. Interpretation[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Correction of provisional maps[^key-1a01f94d53077e46739850bd81a286d4]
+## 3. Correction of provisional maps[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Correction of conclusive maps[^key-1a01f94d53077e46739850bd81a286d4]
+## 4. Correction of conclusive maps[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Time limits for correction of provisional and conclusive maps[^key-1a01f94d53077e46739850bd81a286d4]
+## 5. Time limits for correction of provisional and conclusive maps[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Informing the public of the correction of maps[^key-1a01f94d53077e46739850bd81a286d4]
+## 6. Informing the public of the correction of maps[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Informing specified persons of the correction of maps[^key-1a01f94d53077e46739850bd81a286d4]
+## 7. Informing specified persons of the correction of maps[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Supply of modified reduced scale maps to certain bodies and to members of the public[^key-1a01f94d53077e46739850bd81a286d4]
+## 8. Supply of modified reduced scale maps to certain bodies and to members of the public[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Modifications to reduced scale maps available for inspection and deposited with authorities[^key-1a01f94d53077e46739850bd81a286d4]
+## 9. Modifications to reduced scale maps available for inspection and deposited with authorities[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Time limit for appeals against provisional maps[^key-1a01f94d53077e46739850bd81a286d4]
+## 10. Time limit for appeals against provisional maps[^c-1a01f94d53077e46739850bd81a286d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a01f94d53077e46739850bd81a286d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a01f94d53077e46739850bd81a286d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PERSONS TO BE SENT MODIFIED REDUCED SCALE MAPS[^key-1a01f94d53077e46739850bd81a286d4]
+## SCHEDULE — PERSONS TO BE SENT MODIFIED REDUCED SCALE MAPS[^c-1a01f94d53077e46739850bd81a286d4]
 
 Regulation 8
 
-**1.**[^key-1a01f94d53077e46739850bd81a286d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1a01f94d53077e46739850bd81a286d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1a01f94d53077e46739850bd81a286d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1a01f94d53077e46739850bd81a286d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a01f94d53077e46739850bd81a286d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a01f94d53077e46739850bd81a286d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a01f94d53077e46739850bd81a286d4]: Textual amendment: Regulations revoked (1.10.2013) by [The Access to the Countryside (Maps) (England) Regulations 2013 (S.I. 2013/1798)](https://www.legislation.gov.uk/uksi/2013/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/6/d)
+[^c-1a01f94d53077e46739850bd81a286d4]: Textual amendment: Regulations revoked (1.10.2013) by [The Access to the Countryside (Maps) (England) Regulations 2013 (S.I. 2013/1798)](https://www.legislation.gov.uk/uksi/2013/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/6/d)

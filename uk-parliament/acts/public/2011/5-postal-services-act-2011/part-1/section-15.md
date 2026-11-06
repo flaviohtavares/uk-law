@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Part 1: general interpretation[^key-178d01550fe3641dc0b2437d773f27a0]
+## 15. Part 1: general interpretation[^c-178d01550fe3641dc0b2437d773f27a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-178d01550fe3641dc0b2437d773f27a0]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/5/section/15) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-178d01550fe3641dc0b2437d773f27a0]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/5/section/15) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

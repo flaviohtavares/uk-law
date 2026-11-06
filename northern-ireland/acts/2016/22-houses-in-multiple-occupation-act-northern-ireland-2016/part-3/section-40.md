@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Discharge of disqualification orders[^key-612785526fbcc9d1bc2eb45ccb71cfa1]
+## 40. Discharge of disqualification orders[^c-612785526fbcc9d1bc2eb45ccb71cfa1]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-612785526fbcc9d1bc2eb45ccb71cfa1]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/22/section/40) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-612785526fbcc9d1bc2eb45ccb71cfa1]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/22/section/40) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

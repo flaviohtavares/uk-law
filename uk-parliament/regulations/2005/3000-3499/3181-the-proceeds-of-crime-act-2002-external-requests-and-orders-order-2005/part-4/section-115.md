@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Powers of enforcement receivers in respect of external orders for the recovery of specified property[^key-f6ea471a91ecb096b3cce90df9882f42]
+## 115. Powers of enforcement receivers in respect of external orders for the recovery of specified property[^c-f6ea471a91ecb096b3cce90df9882f42]
 
 *Extent: E+W+S+N.I.*
 
-(1) If the court appoints a receiver under article 113, it may act under this article on the application of the relevant Director [^key-7dd5376b3d0282ec1f8a3cdd7a3db74c]... where the external order is for the recovery of property specified in the order (“the specified property”).
+(1) If the court appoints a receiver under article 113, it may act under this article on the application of the relevant Director [^c-7dd5376b3d0282ec1f8a3cdd7a3db74c]... where the external order is for the recovery of property specified in the order (“the specified property”).
 
 (2) The court may by order confer on the receiver the following powers in relation to the specified property—
 
@@ -58,7 +58,7 @@ summary: ''
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(7A)[^key-3784524db276ea49330d3aa5333a0d90] Paragraph (7), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
+(7A)[^c-3784524db276ea49330d3aa5333a0d90] Paragraph (7), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
 
 - (a) is perishable; or
 - (b) ought to be disposed of before its value diminishes.
@@ -73,8 +73,8 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-f6ea471a91ecb096b3cce90df9882f42]: Commencement: [Art. 115](https://www.legislation.gov.uk/uksi/2005/3181/article/115) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-f6ea471a91ecb096b3cce90df9882f42]: Commencement: [Art. 115](https://www.legislation.gov.uk/uksi/2005/3181/article/115) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-7dd5376b3d0282ec1f8a3cdd7a3db74c]: Textual amendment: Words in [art. 115(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/115/1) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(26)(a)](https://www.legislation.gov.uk/uksi/2008/302/article/2/26/a)
+[^c-7dd5376b3d0282ec1f8a3cdd7a3db74c]: Textual amendment: Words in [art. 115(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/115/1) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(26)(a)](https://www.legislation.gov.uk/uksi/2008/302/article/2/26/a)
 
-[^key-3784524db276ea49330d3aa5333a0d90]: Textual amendment: [Art. 115(7A)](https://www.legislation.gov.uk/uksi/2005/3181/article/115/7A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(26)(b)](https://www.legislation.gov.uk/uksi/2008/302/article/2/26/b)
+[^c-3784524db276ea49330d3aa5333a0d90]: Textual amendment: [Art. 115(7A)](https://www.legislation.gov.uk/uksi/2005/3181/article/115/7A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(26)(b)](https://www.legislation.gov.uk/uksi/2008/302/article/2/26/b)

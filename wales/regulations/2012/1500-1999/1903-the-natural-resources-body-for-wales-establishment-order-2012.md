@@ -56,13 +56,13 @@ In accordance with section 19(4) of the Act, the draft of this Order so laid has
 
 ## PART 1 — — PRELIMINARY
 
-### 1. Title and commencement[^key-645128eaed7a521d14bad30b0735c9f9]
+### 1. Title and commencement[^c-645128eaed7a521d14bad30b0735c9f9]
 
 (1) The title of this Order is the Natural Resources Body for Wales (Establishment) Order 2012.
 
 (2) This Order comes into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-799fbc506f89966fd26504cd501d697c]
+### 2. Interpretation[^c-799fbc506f89966fd26504cd501d697c]
 
 In this Order—
 
@@ -73,13 +73,13 @@ In this Order—
 
 ## PART 2 — — ESTABLISHMENT AND GENERAL FUNCTIONS
 
-### 3. The Body[^key-2fc676b6c79b3c1892da2736a2337c41]
+### 3. The Body[^c-2fc676b6c79b3c1892da2736a2337c41]
 
 (1) There is to be a body corporate to be known as the Natural Resources Body for Wales or Corff Adnoddau Naturiol Cymru (referred to in this Order as “the Body”).
 
 (2) The Schedule contains further provisions about the Body.
 
-### 4. General purpose[^key-1da5f99bcda4b0ffb8626ae94761e585]
+### 4. General purpose[^c-1da5f99bcda4b0ffb8626ae94761e585]
 
 (1) The Body must—
 
@@ -93,13 +93,13 @@ in the exercise of its functions, so far as consistent with their proper exercis
 - “**principles of sustainable management of natural resources**” (“***egwyddorion rheoli cynaliadwy ar adnoddau naturiol***”) has the meaning given by section 4 of the Environment (Wales) Act 2016;
 - “**sustainable management of natural resources**” (“***rheoli cynaliadwy ar adnoddau naturiol***”) has the meaning given by section 3 of the Environment (Wales) Act 2016.
 
-### 5. Guidance with respect to the Body’s general purpose[^key-a46b5c215d4fef780e301ec1b66dd9b4][^key-39d29b114b7be99ada94397d60e60a25]
+### 5. Guidance with respect to the Body’s general purpose[^c-a46b5c215d4fef780e301ec1b66dd9b4][^c-39d29b114b7be99ada94397d60e60a25]
 
-(1) The Welsh Ministers may give guidance to the Body with respect to the manner in which it should exercise its functions so as to give effect to its general purpose in article 4[^key-f06fd1bbf4aad649dfe69820b10733cb].
+(1) The Welsh Ministers may give guidance to the Body with respect to the manner in which it should exercise its functions so as to give effect to its general purpose in article 4[^c-f06fd1bbf4aad649dfe69820b10733cb].
 
 (2) In preparing any guidance under paragraph (1), the Welsh Ministers must have regard to the Body’s responsibilities and resources.
 
-(3) In discharging its general purpose in article 4[^key-914255508e8563af500cf70a96da32ce], the Body must have regard to guidance given under this article.
+(3) In discharging its general purpose in article 4[^c-914255508e8563af500cf70a96da32ce], the Body must have regard to guidance given under this article.
 
 (4) Before giving guidance to the Body under this article, the Welsh Ministers must consult the Body and such other bodies or persons as the Welsh Ministers consider appropriate.
 
@@ -107,7 +107,7 @@ in the exercise of its functions, so far as consistent with their proper exercis
 
 (6) The power to give guidance under this article includes power to vary or revoke it.
 
-### 5A. Nature conservation duties[^key-e10991c9f4eff6dbb7b62a252e31e48b]
+### 5A. Nature conservation duties[^c-e10991c9f4eff6dbb7b62a252e31e48b]
 
 (1) The Body must exercise its functions so as to further nature conservation and the conservation and enhancement of natural beauty and amenity.
 
@@ -117,7 +117,7 @@ in the exercise of its functions, so far as consistent with their proper exercis
 
 (4) Section 1(3A) of the Forestry Act 1967 makes provision about the balance between nature conservation and other matters which the Body must endeavour to achieve in exercising its functions under that Act.
 
-**5B.**[^key-ddc26ceb0808d247280b4a8f08116b0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5B.**[^c-ddc26ceb0808d247280b4a8f08116b0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5C. Access and recreation duties
 
@@ -140,7 +140,7 @@ In exercising its functions, the Body must have regard to—
 - (a) the desirability of protecting and conserving buildings, structures, sites and objects of archaeological, architectural, engineering or historic interest;
 - (b) the desirability of maintaining the availability to the public of any facility for visiting or inspecting any such building, structure, site or object, so far as consistent with sub-paragraph (a) and article 5A.
 
-### 5E. Duties relating to well-being[^key-490290222bca546c87ed31644f12aa95]
+### 5E. Duties relating to well-being[^c-490290222bca546c87ed31644f12aa95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -198,32 +198,32 @@ In exercising its functions, the Body must have regard to—
 - (a) for regulating the reasonable use of facilities provided under article 5H, and
 - (b) in relation to any matter described in section 41(3) of the Countryside Act 1968.
 
-### 6. Initial functions of the Body[^key-d211544f713a997d13ca0809f8f928a2]
+### 6. Initial functions of the Body[^c-d211544f713a997d13ca0809f8f928a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2e27ddfb2e577f92fdaa34e1480580b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2e27ddfb2e577f92fdaa34e1480580b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. General duty of the Body to have regard to costs and benefits in exercising powers[^key-e7006bf88b14885aabf0857ea54e8956]
+### 8. General duty of the Body to have regard to costs and benefits in exercising powers[^c-e7006bf88b14885aabf0857ea54e8956]
 
 (1) In considering whether or not to exercise any power conferred upon it by or under any enactment, the Body must take into account the likely costs and benefits of the exercise or non-exercise of that power.
 
 (2) In deciding the manner in which to exercise any such power, the Body must take into account the likely costs and benefits of its exercise in the manner in question.
 
-(3) The duties in paragraphs (1) and (2) do not apply if[^key-79af1749bc60945994662707618d6ae7], or to the extent that, it is unreasonable for the Body to be subject to them in view of the nature or purpose of the power or in the circumstances of the particular case.
+(3) The duties in paragraphs (1) and (2) do not apply if[^c-79af1749bc60945994662707618d6ae7], or to the extent that, it is unreasonable for the Body to be subject to them in view of the nature or purpose of the power or in the circumstances of the particular case.
 
 (4) But those duties do not affect the Body’s obligation to discharge any duties, comply with any requirements, or pursue any objectives, imposed upon or given to it by any enactment other than this article.
 
-(5)[^key-1d08029ad294b7b236d5c37dc116f24c] For the purposes of this article, costs include costs—
+(5)[^c-1d08029ad294b7b236d5c37dc116f24c] For the purposes of this article, costs include costs—
 
 - (a) to any person; and
 - (b) to the environment.
 
-### 8A. Cooperation with the Environment Agency[^key-f951cda615149477c983e79dc18684a6]
+### 8A. Cooperation with the Environment Agency[^c-f951cda615149477c983e79dc18684a6]
 
 The Body must cooperate with the Environment Agency, and coordinate its activities with those of the Environment Agency, as may be appropriate in the circumstances.
 
-### 9. General incidental function of the Body[^key-dceaca054cb08ca8707171232054ffe7]
+### 9. General incidental function of the Body[^c-dceaca054cb08ca8707171232054ffe7]
 
 (1) The Body may do anything that appears to it to be conducive or incidental to the discharge of its functions.
 
@@ -231,10 +231,10 @@ The Body must cooperate with the Environment Agency, and coordinate its activiti
 
 - (a) enter into agreements;
 - (b) acquire or dispose of property and carry out such engineering or building operations as it considers appropriate;
-- (c) subject to the approval of the Welsh Ministers, form or participate in the forming of[^key-7313d48f6454a97d1b878b588a829485] bodies corporate or acquire or dispose of interests in bodies corporate;
+- (c) subject to the approval of the Welsh Ministers, form or participate in the forming of[^c-7313d48f6454a97d1b878b588a829485] bodies corporate or acquire or dispose of interests in bodies corporate;
 - (d) form charitable trusts;
-- (da)[^key-10465ce87b47dc517469c2753c7c5af3] act, or appoint a person to act, as an officer of a body corporate or as a trustee of a charitable trust;
-- (e) accept gifts or contributions[^key-c0fb0314f53ee116782e8e83a2642f3e];
+- (da)[^c-10465ce87b47dc517469c2753c7c5af3] act, or appoint a person to act, as an officer of a body corporate or as a trustee of a charitable trust;
+- (e) accept gifts or contributions[^c-c0fb0314f53ee116782e8e83a2642f3e];
 - (f) invest money.
 
 (3) In this article “engineering or building operations” (“*gwaith peirianyddol neu waith adeiladu*”), without prejudice to the generality of that expression, includes—
@@ -242,19 +242,19 @@ The Body must cooperate with the Environment Agency, and coordinate its activiti
 - (a) the construction, alteration, improvement, maintenance or demolition of any building or structure or of any reservoir, watercourse, dam, weir, well, borehole or other works, and
 - (b) the installation, modification or removal of any machinery or apparatus.
 
-### 9A. Power to enter into agreements with local authorities and public bodies[^key-35c3ac5450d2f8c5d08376bf48a2b636]
+### 9A. Power to enter into agreements with local authorities and public bodies[^c-35c3ac5450d2f8c5d08376bf48a2b636]
 
 (1) Without prejudice to the generality of the powers conferred by article 9, the Body is to be treated as both a local authority and a public body for the purposes of the provisions of the Local Authorities (Goods and Services) Act 1970, except section 2(2).
 
 (2) But the Body may not, under section 1 of that Act, make arrangements which could be made under section 28(1) of the Public Bodies Act 2011.
 
-### 10. Advice and assistance to Welsh Ministers[^key-b816f857e3999cff2c5f1a5a6ddb7ec4]
+### 10. Advice and assistance to Welsh Ministers[^c-b816f857e3999cff2c5f1a5a6ddb7ec4]
 
-(1)[^key-4c0eb18e954b7c241dddbd448acbc205] The Body must provide the Welsh Ministers with such advice and assistance as they may request.
+(1)[^c-4c0eb18e954b7c241dddbd448acbc205] The Body must provide the Welsh Ministers with such advice and assistance as they may request.
 
-(2)[^key-7380e8b64a4ad4858059b222fcb78346] The Body may advise the Welsh Ministers on the development and implementation of policies for or in relation to any matter in respect of which the Body exercises functions, whether or not it has been requested to do so.
+(2)[^c-7380e8b64a4ad4858059b222fcb78346] The Body may advise the Welsh Ministers on the development and implementation of policies for or in relation to any matter in respect of which the Body exercises functions, whether or not it has been requested to do so.
 
-### 10A. Advice and assistance to others[^key-42a504aebfad2bbd1c9a182b80932a99]
+### 10A. Advice and assistance to others[^c-42a504aebfad2bbd1c9a182b80932a99]
 
 (1) The Body may provide advice or assistance, including training facilities, to any person on any matter in which the Body has knowledge, skill or experience.
 
@@ -285,7 +285,7 @@ as is practicable and reasonable in the circumstances.
 
 (6) The Body may give financial assistance under this article only with the consent of the Welsh Ministers (which may be specific or general) or in accordance with arrangements approved by them.
 
-### 10C. Research and experimental schemes[^key-7d06777c435dc898256dd88454419da4]
+### 10C. Research and experimental schemes[^c-7d06777c435dc898256dd88454419da4]
 
 (1) The Body may make arrangements for the carrying out (whether by the Body or by other persons) of research and experimental schemes that are relevant to the exercise of its functions.
 
@@ -312,18 +312,18 @@ The functions conferred by articles 10 to 10C are exercisable in relation to Wal
 
 (3) A person so authorised is entitled to prosecute in such proceedings even though that person is not a barrister or solicitor.
 
-### 11. Directions[^key-2abcfc2c9a0b60e4e42cc616d3a22d74][^key-0ea99d6ba351ba5d1a35c2426cfb796e]
+### 11. Directions[^c-2abcfc2c9a0b60e4e42cc616d3a22d74][^c-0ea99d6ba351ba5d1a35c2426cfb796e]
 
 (1) The Welsh Ministers may give the Body general or specific directions as to the exercise of its functions.
 
-(2)[^key-e4e0ec7ecc624a2c7d45a718f5104215] The power in paragraph (1) may also be exercised by the Secretary of State for the purpose of directing the Body as to the exercise of its relevant transferred functions, where the direction—
+(2)[^c-e4e0ec7ecc624a2c7d45a718f5104215] The power in paragraph (1) may also be exercised by the Secretary of State for the purpose of directing the Body as to the exercise of its relevant transferred functions, where the direction—
 
 - (a) would have any effect in England; or
 - (b) relates to water resources management, water supply, rivers or other watercourses, control of pollution of water resources, sewerage or land drainage, and would have any effect in the catchment areas of the rivers Dee, Wye and Severn.
 
-(3) The Welsh Ministers or the Secretary of State may give the Body general or specific directions for—[^key-1660f486d84624cd2b53e8d58608d398]
+(3) The Welsh Ministers or the Secretary of State may give the Body general or specific directions for—[^c-1660f486d84624cd2b53e8d58608d398]
 
-- (a) securing that any assimilated[^key-29756dd88b0bc1185e79b4c953c8f611] obligation is met, or
+- (a) securing that any assimilated[^c-29756dd88b0bc1185e79b4c953c8f611] obligation is met, or
 - (b) the implementation of any international obligation of the United Kingdom.
 
 (4) Except in an emergency, the power to give a direction under this article may be exercised only after consultation with the Body.
@@ -346,26 +346,26 @@ but this is subject to paragraph (9).
 - (a) a function of the Environment Agency was exercisable before 1 April 2013 whether or not the enactment conferring it had come into force before that date; but
 - (b) a function is only a relevant transferred function when the enactment conferring the function has come into force.
 
-(10)[^key-709067ecc3a717c5e062b5ce13c833d8] In this article, “the catchment areas of the rivers Dee, Wye and Severn” (“*dalgylchoedd afonydd Dyfrdwy, Gwy a Hafren*”) has the meaning given by article 1(3) of the National Assembly for Wales (Transfer of Functions) Order 1999.
+(10)[^c-709067ecc3a717c5e062b5ce13c833d8] In this article, “the catchment areas of the rivers Dee, Wye and Severn” (“*dalgylchoedd afonydd Dyfrdwy, Gwy a Hafren*”) has the meaning given by article 1(3) of the National Assembly for Wales (Transfer of Functions) Order 1999.
 
-### 11A. Further provisions about directions[^key-2d639f80175c690f33ea0a33e2bdc49d][^key-60f2a500a4fab5fa7e589676b43d6862]
+### 11A. Further provisions about directions[^c-2d639f80175c690f33ea0a33e2bdc49d][^c-60f2a500a4fab5fa7e589676b43d6862]
 
 (1) A direction under article 11 must be in writing.
 
 (2) The Welsh Ministers or the Secretary of State (as the case may be) must publish any direction given to the Body—
 
 - (a) under article 11;
-- (b)[^key-20ee7a751dfbb0a1ef9e6dd7a7193e07] under any other enactment for the purpose of—
-  - (i) securing that any assimilated[^key-c9e101e1424e9e6b0a398261a8a61e48] obligation is met, or
+- (b)[^c-20ee7a751dfbb0a1ef9e6dd7a7193e07] under any other enactment for the purpose of—
+  - (i) securing that any assimilated[^c-c9e101e1424e9e6b0a398261a8a61e48] obligation is met, or
   - (ii) the implementation of any international obligation of the United Kingdom,
 
 as soon as reasonably practicable after giving the direction, and must make copies available on request.
 
 (3) The power to give directions under article 11 includes power to vary or revoke the directions.
 
-(4)[^key-97df2c12a2f02466242557a0620931b5] Paragraph (4A) applies if the Welsh Ministers or the Secretary of State vary or revoke any direction given to the Body (whether under article 11 or under any other enactment) for the purpose of—
+(4)[^c-97df2c12a2f02466242557a0620931b5] Paragraph (4A) applies if the Welsh Ministers or the Secretary of State vary or revoke any direction given to the Body (whether under article 11 or under any other enactment) for the purpose of—
 
-- (a) securing that any assimilated[^key-2371e81a239da399abab82b8a9fe7ad5] obligation is met, or
+- (a) securing that any assimilated[^c-2371e81a239da399abab82b8a9fe7ad5] obligation is met, or
 - (b) the implementation of any international obligation of the United Kingdom.
 
 (4A) Where this paragraph applies, the person making the variation or revocation must—
@@ -384,15 +384,15 @@ the person making the determination is bound by any direction given to the Body 
 
 ## PART 3 — — FINANCIAL MATTERS
 
-### 12. Grants[^key-fb6228461fdd53e2c26eef1799a798d4]
+### 12. Grants[^c-fb6228461fdd53e2c26eef1799a798d4]
 
 (1) The Welsh Ministers may make grants to the Body.
 
 (2) A grant under this article may be made subject to conditions.
 
-(3)[^key-125b4029056c1f3751bb28ceafce7233] The conditions which may be imposed include, without limitation, conditions as to the use of the money for the purposes of the Joint Nature Conservation Committee.
+(3)[^c-125b4029056c1f3751bb28ceafce7233] The conditions which may be imposed include, without limitation, conditions as to the use of the money for the purposes of the Joint Nature Conservation Committee.
 
-### 12A. Power to charge[^key-ade19a0b39850ea60e7607688e18bc66]
+### 12A. Power to charge[^c-ade19a0b39850ea60e7607688e18bc66]
 
 (1) The Body may—
 
@@ -403,7 +403,7 @@ the person making the determination is bound by any direction given to the Body 
 
 (3) The powers conferred by this article are subject to any specific restriction on charging by the Body in particular cases or categories of case contained in this or any other enactment.
 
-### 13. General financial duties[^key-e4cdcdb1a8f0e03a08cd6583cb697e00]
+### 13. General financial duties[^c-e4cdcdb1a8f0e03a08cd6583cb697e00]
 
 (1) The Welsh Ministers may determine the financial duties of the Body.
 
@@ -426,15 +426,15 @@ the person making the determination is bound by any direction given to the Body 
 
 (7) The Welsh Ministers must consult the Body before giving a direction under paragraph (5) or (6).
 
-(8)[^key-3a645f052d1dc1eef0a331a83776e212] This article is subject to section 118 of the Water Resources Act 1991.
+(8)[^c-3a645f052d1dc1eef0a331a83776e212] This article is subject to section 118 of the Water Resources Act 1991.
 
-### 13A. Forestry income[^key-9155bdafce35ccecf4e852f46202675b]
+### 13A. Forestry income[^c-9155bdafce35ccecf4e852f46202675b]
 
 (1) The Body must spend all sums which it receives in respect of the sale or other disposal of timber or other forest products on the exercise of its functions relating to forestry, forests, woods and woodland industries.
 
 (2) This article is subject to any determination or direction made by the Welsh Ministers under article 13.
 
-### 14. Borrowing powers[^key-21cf374f13a97e357594172cfc4f5b49]
+### 14. Borrowing powers[^c-21cf374f13a97e357594172cfc4f5b49]
 
 (1) The Body may borrow in accordance with the following provisions of this article, but not otherwise.
 
@@ -447,7 +447,7 @@ the person making the determination is bound by any direction given to the Body 
 
 (4) Consent under paragraph (3)(b) may be granted subject to conditions.
 
-### 15. Welsh Ministers' guarantees of the Body’s borrowing[^key-a9854b21f1fcffb2401399f84464884f]
+### 15. Welsh Ministers' guarantees of the Body’s borrowing[^c-a9854b21f1fcffb2401399f84464884f]
 
 (1) The Welsh Ministers may guarantee, in such manner and on such conditions as they think fit, the repayment of the principal of, the payment of interest on, and the discharge of any other financial obligation in connection with, any sum which the Body borrows from any person.
 
@@ -456,7 +456,7 @@ the person making the determination is bound by any direction given to the Body 
 - (a) payments of such amounts as they direct in or towards repayment of the sums so paid out, and
 - (b) payments of interest, at such rate as they direct, on what is outstanding for the time being in respect of sums so paid out.
 
-## PART 4 — — INFORMATION ABOUT PERMITTING DECISIONS[^key-c1124527341484999ed4b1c2c433fe62]
+## PART 4 — — INFORMATION ABOUT PERMITTING DECISIONS[^c-c1124527341484999ed4b1c2c433fe62]
 
 ### 16. Interpretation
 
@@ -516,17 +516,17 @@ Minister for Environment and Sustainable Development, one of the Welsh Ministers
 
 Article 3
 
-### A1. Interpretation[^key-da5780a162bee4a492e2a2ccf0dbebb9]
+### A1. Interpretation[^c-da5780a162bee4a492e2a2ccf0dbebb9]
 
 In this Schedule, references to employees of the Body include persons seconded to the Body.
 
-### 1. Status[^key-455404b4519c6b4f4ad0ca78c7121563]
+### 1. Status[^c-455404b4519c6b4f4ad0ca78c7121563]
 
 (1) The Body is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
-(2) Subject to paragraph 1A, property[^key-6e12ec68ed516d48e5e997f54ab61c9f] of the Body is not to be regarded as property of or property held on behalf of the Crown.
+(2) Subject to paragraph 1A, property[^c-6e12ec68ed516d48e5e997f54ab61c9f] of the Body is not to be regarded as property of or property held on behalf of the Crown.
 
-### 1A. Status in relation to nature reserves[^key-af856b543ad06e16c1cdffa90951221e]
+### 1A. Status in relation to nature reserves[^c-af856b543ad06e16c1cdffa90951221e]
 
 (1) This paragraph applies to land in which the Body has an interest and which is managed as a nature reserve.
 
@@ -534,14 +534,14 @@ In this Schedule, references to employees of the Body include persons seconded t
 
 (3) An interest in land includes any estate in land and any right over land, whether the right is exercisable by virtue of the ownership of an interest in land or by virtue of a licence or agreement.
 
-### 2. Membership[^key-e152c09dc819da3ad89dae752edbea1e]
+### 2. Membership[^c-e152c09dc819da3ad89dae752edbea1e]
 
 (1) The Body is to consist of—
 
 - (a) a chairperson appointed by the Welsh Ministers;
 - (b) not fewer than 5 nor more than 11 other members appointed by the Welsh Ministers;
 - (c) the chief executive (see paragraph 13); and
-- (d) not [^key-3be4d24ba15a3615379d1850d7427623]... more than 4 other members appointed by the Body.
+- (d) not [^c-3be4d24ba15a3615379d1850d7427623]... more than 4 other members appointed by the Body.
 
 (2) In the case of the initial appointments to the Body, appointments under sub-paragraph (1)(d) are to be made by the members appointed under sub-paragraph (1)(a) to (c), and the expression “the Body” (“*y Corff*”) is to be interpreted accordingly.
 
@@ -556,24 +556,24 @@ In this Schedule, references to employees of the Body include persons seconded t
 - (a) appointing a person who has experience of, and has shown some capacity in, some matter relevant to the exercise of the Body’s functions, and
 - (b) securing that a variety of skills and experience is available among the members.
 
-### 3. Further provisions relating to initial membership[^key-0acbcb47e00fdc191dd3710e0abc6ace]
+### 3. Further provisions relating to initial membership[^c-0acbcb47e00fdc191dd3710e0abc6ace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b35f1a0b8ccaba6774587ab44ed0dd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b35f1a0b8ccaba6774587ab44ed0dd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Tenure of office[^key-da44ccbf434c0be3c46848e04ad742a4]
+### 5. Tenure of office[^c-da44ccbf434c0be3c46848e04ad742a4]
 
-Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
+Subject to [^c-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 
 - (a) a member holds and vacates office in accordance with the terms of the member’s nomination or appointment;
 - (b) a deputy chairperson holds and vacates that office in accordance with the terms of that appointment.
 
-**6.**[^key-c6679f1ba80d7d4516272e6ce4b99c75] (1) A person may resign from office as a non-executive member, or as deputy chairperson, by giving written notice to the Welsh Ministers.
+**6.**[^c-c6679f1ba80d7d4516272e6ce4b99c75] (1) A person may resign from office as a non-executive member, or as deputy chairperson, by giving written notice to the Welsh Ministers.
 
 (2) A person may resign from office as an executive member by giving written notice to the Body.
 
-**7.**[^key-b4d04fd867ade9dca11e9ca9501933ac] (1) The Welsh Ministers may remove a person from office as a non-executive member, or as deputy chairperson, by notice in writing.
+**7.**[^c-b4d04fd867ade9dca11e9ca9501933ac] (1) The Welsh Ministers may remove a person from office as a non-executive member, or as deputy chairperson, by notice in writing.
 
 (2) The Body may remove a person from office as an executive member by notice in writing.
 
@@ -585,35 +585,35 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 - (d) in the opinion of the person giving the notice, is unfit to continue the appointment because of misconduct; or
 - (e) in the opinion of the person giving the notice, is otherwise unable, unfit or unwilling to carry out the member’s functions.
 
-**8.**[^key-c6f3b51aee6a95a9c63a085f44724cdd] (1) A person ceases to be deputy chairperson upon ceasing to be a member.
+**8.**[^c-c6f3b51aee6a95a9c63a085f44724cdd] (1) A person ceases to be deputy chairperson upon ceasing to be a member.
 
 (2) A person ceases to be a non-executive member upon becoming an employee of the Body.
 
 (3) A person ceases to be an executive member upon ceasing to be an employee of the Body.
 
-**9.**[^key-389bd00f1b0308d85940c77703e57b9e] (1) A person who ceases to be a member, and a member who ceases to be deputy chairperson, may be reappointed to that office.
+**9.**[^c-389bd00f1b0308d85940c77703e57b9e] (1) A person who ceases to be a member, and a member who ceases to be deputy chairperson, may be reappointed to that office.
 
 (2) But a person who has been removed from office on the ground of misconduct set out in paragraph 7(3)(d) may not be reappointed.
 
-### 10. Remuneration and pensions etc of members[^key-fa99a82a13198138fe20d2da8a916276]
+### 10. Remuneration and pensions etc of members[^c-fa99a82a13198138fe20d2da8a916276]
 
 (1) The Body must pay the non-executive members and any deputy chairperson such remuneration and allowances as the Welsh Ministers may determine.
 
 (2) The Welsh Ministers may make different determinations under this article in different cases.
 
-**11.**[^key-35e3f20de9ea21fb8f28be56b7697a19] The Body must—
+**11.**[^c-35e3f20de9ea21fb8f28be56b7697a19] The Body must—
 
 - (a) pay such pensions or gratuities to or in respect of any non-executive member or former non-executive member as the Welsh Ministers may determine;
 - (b) pay such sums as the Welsh Ministers may determine towards provision for the payment of pensions or gratuities to or in respect of any non-executive member or former non-executive member.
 
-**12.**[^key-3973685b8d77ace5b483f41b1248dda1] (1) This article applies if—
+**12.**[^c-3973685b8d77ace5b483f41b1248dda1] (1) This article applies if—
 
 - (a) a person ceases to be a non-executive member, and
 - (b) it appears to the Welsh Ministers that there are special circumstances which make it appropriate for the person to receive compensation.
 
 (2) The Welsh Ministers may require the Body to pay the person such amount of compensation as the Welsh Ministers may determine.
 
-### 13. Staff[^key-5f4492a55fa2b720c073b12fd1441a67]
+### 13. Staff[^c-5f4492a55fa2b720c073b12fd1441a67]
 
 (1) The Body must appoint a person to be chief executive.
 
@@ -623,18 +623,18 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 
 (4) The Body may appoint other employees.
 
-**14.**[^key-3707b95f079a23eca6ea596ec2bb1a5a] (1) The Body may pay its employees such remuneration and allowances as it determines.
+**14.**[^c-3707b95f079a23eca6ea596ec2bb1a5a] (1) The Body may pay its employees such remuneration and allowances as it determines.
 
 (2) The Body may only make a determination under this paragraph with the approval of the Welsh Ministers.
 
-**15.**[^key-eedeefc0e5aa5344d82440ddc32dd79a] (1) The Body may—
+**15.**[^c-eedeefc0e5aa5344d82440ddc32dd79a] (1) The Body may—
 
 - (a) pay such pensions or gratuities as it determines to or in respect of any employee or former employee, and
 - (b) pay such sums as it determines towards provision for the payment of pensions or gratuities to or in respect of any employee or former employee.
 
 (2) The Body may only make a determination under this paragraph with the approval of the Welsh Ministers.
 
-### 16. Procedure[^key-592b718592e663967292e1489c6e9f04]
+### 16. Procedure[^c-592b718592e663967292e1489c6e9f04]
 
 (1) The Body may determine its own procedure (including quorum) and that of its committees and sub-committees.
 
@@ -642,12 +642,12 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 
 (3) But if a determination under this paragraph provides for a quorum for any meeting, the quorum cannot be met unless a majority of the members present are non-executive members.
 
-**17.**[^key-c8b231a48080b8bdb3ce6ed1c85ff225] No proceeding of the Body or of any committee or sub-committee is invalidated by—
+**17.**[^c-c8b231a48080b8bdb3ce6ed1c85ff225] No proceeding of the Body or of any committee or sub-committee is invalidated by—
 
 - (a) a vacancy in the office of chairperson, or
 - (b) any defect in the appointment of any member.
 
-### 18. Delegation of functions[^key-421889bd9703cc1521a6272182dca72a]
+### 18. Delegation of functions[^c-421889bd9703cc1521a6272182dca72a]
 
 (1) The Body may authorise a committee, sub-committee, member or employee of the Body to exercise any of the Body’s functions.
 
@@ -661,7 +661,7 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 
 (6) The preceding provisions of this paragraph do not prevent the Body (or the committee or sub-committee, as the case may be) from exercising the function in question itself.
 
-### 19. Membership of committees and sub-committees[^key-c8344c02316acb1512d6b5f02cd0b9b3]
+### 19. Membership of committees and sub-committees[^c-c8344c02316acb1512d6b5f02cd0b9b3]
 
 (1) A committee or sub-committee may include persons who are not members of the Body.
 
@@ -670,7 +670,7 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 - (a) is a member of a committee or sub-committee, but
 - (b) is not a member or employee of the Body.
 
-### 20. Application of seal and proof of documents[^key-1c228ae27d07a1667e4ed65128431353]
+### 20. Application of seal and proof of documents[^c-1c228ae27d07a1667e4ed65128431353]
 
 (1) The application of the Body’s seal must be authenticated by the signature of—
 
@@ -682,7 +682,7 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 - (a) is to be received in evidence, and
 - (b) is to be treated as so executed unless the contrary is shown.
 
-### 21. Corporate Plan[^key-f71faed001b9e2a92c226bd658b88f3f]
+### 21. Corporate Plan[^c-f71faed001b9e2a92c226bd658b88f3f]
 
 (1) Before the beginning of each financial year, the Body must—
 
@@ -694,7 +694,7 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 - (a) “financial year” (“*blwyddyn ariannol*”) means a period of 12 months ending with 31 March, and
 - (b) the Body’s first financial year is the period of 12 months ending with the second 31 March after the Body is established.
 
-### 22. Annual report[^key-eee05ffca8426a6ea1b3d0f2c8480cd8]
+### 22. Annual report[^c-eee05ffca8426a6ea1b3d0f2c8480cd8]
 
 (1) For each financial year, the Body must—
 
@@ -708,7 +708,7 @@ Subject to [^key-a092888bd8bb02b73ca8fff3ae705051]... paragraphs 6 to 8—
 - (a) the period beginning with the day on which the Body is established and ending with the next 31 March, or
 - (b) such other period, not exceeding 2 years, as the Welsh Ministers may direct.
 
-### 23. Accounts[^key-d3eb126490a1c919cd33f155cd024392]
+### 23. Accounts[^c-d3eb126490a1c919cd33f155cd024392]
 
 (1) For each financial year, the Body must—
 
@@ -732,7 +732,7 @@ in accordance with directions given by the Welsh Ministers.
 - (b) provide a copy of the certified statement of accounts together with his or her report on it to the Body; and
 - (c) no later than 4 months after the statement of accounts is submitted, lay before the National Assembly for Wales a copy of the certified statement of accounts and report.
 
-### 24. Information[^key-689d0678c9c81ae3f42675786d0a1808]
+### 24. Information[^c-689d0678c9c81ae3f42675786d0a1808]
 
 (1) The Body must provide the Welsh Ministers with any information they require relating to the Body’s property or to the discharge or proposed discharge of its functions.
 
@@ -761,156 +761,156 @@ The Order vests a number of functions regarding the Body in the Welsh Ministers,
 
 [^f00001]: Footnote: [2011 c. 24](https://www.legislation.gov.uk/ukpga/2011/24).
 
-[^key-645128eaed7a521d14bad30b0735c9f9]: Commencement: Art. 1 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-645128eaed7a521d14bad30b0735c9f9]: Commencement: Art. 1 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-799fbc506f89966fd26504cd501d697c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/wsi/2012/1903/article/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-799fbc506f89966fd26504cd501d697c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/wsi/2012/1903/article/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2fc676b6c79b3c1892da2736a2337c41]: Commencement: Art. 3 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-2fc676b6c79b3c1892da2736a2337c41]: Commencement: Art. 3 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-1da5f99bcda4b0ffb8626ae94761e585]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/wsi/2012/1903/article/4) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(2)](https://www.legislation.gov.uk/anaw/2016/3/section/5/2), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-1da5f99bcda4b0ffb8626ae94761e585]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/wsi/2012/1903/article/4) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(2)](https://www.legislation.gov.uk/anaw/2016/3/section/5/2), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
-[^key-a46b5c215d4fef780e301ec1b66dd9b4]: Commencement: Art. 5 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-a46b5c215d4fef780e301ec1b66dd9b4]: Commencement: Art. 5 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-39d29b114b7be99ada94397d60e60a25]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/wsi/2012/1903/article/5) heading inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(3)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/5/3/a), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-39d29b114b7be99ada94397d60e60a25]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/wsi/2012/1903/article/5) heading inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(3)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/5/3/a), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
-[^key-f06fd1bbf4aad649dfe69820b10733cb]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2012/1903/article/5/1) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/5/3/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-f06fd1bbf4aad649dfe69820b10733cb]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2012/1903/article/5/1) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/5/3/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
-[^key-914255508e8563af500cf70a96da32ce]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/5/3) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/5/3/c), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-914255508e8563af500cf70a96da32ce]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/5/3) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/5/3/c), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
-[^key-e10991c9f4eff6dbb7b62a252e31e48b]: Textual amendment: [Arts. 5A-5J](https://www.legislation.gov.uk/wsi/2012/1903/article/5A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e10991c9f4eff6dbb7b62a252e31e48b]: Textual amendment: [Arts. 5A-5J](https://www.legislation.gov.uk/wsi/2012/1903/article/5A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ddc26ceb0808d247280b4a8f08116b0c]: Textual amendment: [Art. 5B](https://www.legislation.gov.uk/wsi/2012/1903/article/5B) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(4)](https://www.legislation.gov.uk/anaw/2016/3/section/5/4), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-ddc26ceb0808d247280b4a8f08116b0c]: Textual amendment: [Art. 5B](https://www.legislation.gov.uk/wsi/2012/1903/article/5B) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(4)](https://www.legislation.gov.uk/anaw/2016/3/section/5/4), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
-[^key-490290222bca546c87ed31644f12aa95]: Textual amendment: [Art. 5E](https://www.legislation.gov.uk/wsi/2012/1903/article/5E) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(4)](https://www.legislation.gov.uk/anaw/2016/3/section/5/4), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-490290222bca546c87ed31644f12aa95]: Textual amendment: [Art. 5E](https://www.legislation.gov.uk/wsi/2012/1903/article/5E) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 5(4)](https://www.legislation.gov.uk/anaw/2016/3/section/5/4), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
-[^key-d211544f713a997d13ca0809f8f928a2]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/wsi/2012/1903/article/6) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d211544f713a997d13ca0809f8f928a2]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/wsi/2012/1903/article/6) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2e27ddfb2e577f92fdaa34e1480580b0]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/wsi/2012/1903/article/7) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2e27ddfb2e577f92fdaa34e1480580b0]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/wsi/2012/1903/article/7) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-e7006bf88b14885aabf0857ea54e8956]: Commencement: Art. 8 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-e7006bf88b14885aabf0857ea54e8956]: Commencement: Art. 8 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-79af1749bc60945994662707618d6ae7]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/8/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/6/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-79af1749bc60945994662707618d6ae7]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/8/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/6/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1d08029ad294b7b236d5c37dc116f24c]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/wsi/2012/1903/article/8/5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/6/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1d08029ad294b7b236d5c37dc116f24c]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/wsi/2012/1903/article/8/5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/6/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f951cda615149477c983e79dc18684a6]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/wsi/2012/1903/article/8A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/7) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f951cda615149477c983e79dc18684a6]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/wsi/2012/1903/article/8A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/7) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-dceaca054cb08ca8707171232054ffe7]: Commencement: Art. 9 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-dceaca054cb08ca8707171232054ffe7]: Commencement: Art. 9 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-7313d48f6454a97d1b878b588a829485]: Textual amendment: Words in [art. 9(2)(c)](https://www.legislation.gov.uk/wsi/2012/1903/article/9/2/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/8/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7313d48f6454a97d1b878b588a829485]: Textual amendment: Words in [art. 9(2)(c)](https://www.legislation.gov.uk/wsi/2012/1903/article/9/2/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/8/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-10465ce87b47dc517469c2753c7c5af3]: Textual amendment: [Art. 9(2)(da)](https://www.legislation.gov.uk/wsi/2012/1903/article/9/2/da) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/8/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-10465ce87b47dc517469c2753c7c5af3]: Textual amendment: [Art. 9(2)(da)](https://www.legislation.gov.uk/wsi/2012/1903/article/9/2/da) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/8/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c0fb0314f53ee116782e8e83a2642f3e]: Textual amendment: Words in [art. 9(2)(e)](https://www.legislation.gov.uk/wsi/2012/1903/article/9/2/e) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/8/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c0fb0314f53ee116782e8e83a2642f3e]: Textual amendment: Words in [art. 9(2)(e)](https://www.legislation.gov.uk/wsi/2012/1903/article/9/2/e) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/8/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-35c3ac5450d2f8c5d08376bf48a2b636]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/wsi/2012/1903/article/9A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/9) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-35c3ac5450d2f8c5d08376bf48a2b636]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/wsi/2012/1903/article/9A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/9) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b816f857e3999cff2c5f1a5a6ddb7ec4]: Commencement: Art. 10 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-b816f857e3999cff2c5f1a5a6ddb7ec4]: Commencement: Art. 10 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-4c0eb18e954b7c241dddbd448acbc205]: Textual amendment: Art. 10 renumbered as art. 10(1) (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/755/schedule/1/paragraph/10/2) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-4c0eb18e954b7c241dddbd448acbc205]: Textual amendment: Art. 10 renumbered as art. 10(1) (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/755/schedule/1/paragraph/10/2) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
-[^key-7380e8b64a4ad4858059b222fcb78346]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/10/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/10/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7380e8b64a4ad4858059b222fcb78346]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/10/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/10/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-42a504aebfad2bbd1c9a182b80932a99]: Textual amendment: [Arts. 10A-10E](https://www.legislation.gov.uk/wsi/2012/1903/article/10A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/11) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-42a504aebfad2bbd1c9a182b80932a99]: Textual amendment: [Arts. 10A-10E](https://www.legislation.gov.uk/wsi/2012/1903/article/10A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/11) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7d06777c435dc898256dd88454419da4]: Textual amendment: [Art. 10C](https://www.legislation.gov.uk/wsi/2012/1903/article/10C) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 23](https://www.legislation.gov.uk/anaw/2016/3/section/23), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a) (with [s. 27](https://www.legislation.gov.uk/anaw/2016/3/section/27))
+[^c-7d06777c435dc898256dd88454419da4]: Textual amendment: [Art. 10C](https://www.legislation.gov.uk/wsi/2012/1903/article/10C) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 23](https://www.legislation.gov.uk/anaw/2016/3/section/23), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a) (with [s. 27](https://www.legislation.gov.uk/anaw/2016/3/section/27))
 
-[^key-2abcfc2c9a0b60e4e42cc616d3a22d74]: Commencement: Art. 11 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-2abcfc2c9a0b60e4e42cc616d3a22d74]: Commencement: Art. 11 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-0ea99d6ba351ba5d1a35c2426cfb796e]: Modification: [Art. 11](https://www.legislation.gov.uk/wsi/2012/1903/article/11) applied (with modifications) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [36(3)](https://www.legislation.gov.uk/uksi/2017/407/regulation/36/3) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-0ea99d6ba351ba5d1a35c2426cfb796e]: Modification: [Art. 11](https://www.legislation.gov.uk/wsi/2012/1903/article/11) applied (with modifications) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [36(3)](https://www.legislation.gov.uk/uksi/2017/407/regulation/36/3) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-e4e0ec7ecc624a2c7d45a718f5104215]: Textual amendment: [Art. 11(2)-(9)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/2) substituted for art. 11(2)-(4) (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/12) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e4e0ec7ecc624a2c7d45a718f5104215]: Textual amendment: [Art. 11(2)-(9)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/2) substituted for art. 11(2)-(4) (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/12) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1660f486d84624cd2b53e8d58608d398]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/3) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/2/2)
+[^c-1660f486d84624cd2b53e8d58608d398]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/3) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/2/2)
 
-[^key-29756dd88b0bc1185e79b4c953c8f611]: Textual amendment: Word in [art. 11(3)(a)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [15(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/15/2)
+[^c-29756dd88b0bc1185e79b4c953c8f611]: Textual amendment: Word in [art. 11(3)(a)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [15(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/15/2)
 
-[^key-709067ecc3a717c5e062b5ce13c833d8]: Textual amendment: [Art. 11(10)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/10) inserted (18.7.2013) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/31/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-709067ecc3a717c5e062b5ce13c833d8]: Textual amendment: [Art. 11(10)](https://www.legislation.gov.uk/wsi/2012/1903/article/11/10) inserted (18.7.2013) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/31/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
-[^key-2d639f80175c690f33ea0a33e2bdc49d]: Modification: [Art. 11A](https://www.legislation.gov.uk/wsi/2012/1903/article/11A) applied (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [36(4)](https://www.legislation.gov.uk/uksi/2017/407/regulation/36/4) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-2d639f80175c690f33ea0a33e2bdc49d]: Modification: [Art. 11A](https://www.legislation.gov.uk/wsi/2012/1903/article/11A) applied (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [36(4)](https://www.legislation.gov.uk/uksi/2017/407/regulation/36/4) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-60f2a500a4fab5fa7e589676b43d6862]: Textual amendment: [Art. 11A](https://www.legislation.gov.uk/wsi/2012/1903/article/11A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/13) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-60f2a500a4fab5fa7e589676b43d6862]: Textual amendment: [Art. 11A](https://www.legislation.gov.uk/wsi/2012/1903/article/11A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/13) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-20ee7a751dfbb0a1ef9e6dd7a7193e07]: Textual amendment: [Art. 11A(2)(b)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/2/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/2/3)
+[^c-20ee7a751dfbb0a1ef9e6dd7a7193e07]: Textual amendment: [Art. 11A(2)(b)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/2/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/2/3)
 
-[^key-c9e101e1424e9e6b0a398261a8a61e48]: Textual amendment: Word in [art. 11A(2)(b)(i)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/2/b/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/15/3/a)
+[^c-c9e101e1424e9e6b0a398261a8a61e48]: Textual amendment: Word in [art. 11A(2)(b)(i)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/2/b/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/15/3/a)
 
-[^key-97df2c12a2f02466242557a0620931b5]: Textual amendment: [Art. 11A(4)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4)[(4A)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4A) substituted for [art. 11A(4)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4) (31.12.2020) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/2/4)
+[^c-97df2c12a2f02466242557a0620931b5]: Textual amendment: [Art. 11A(4)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4)[(4A)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4A) substituted for [art. 11A(4)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4) (31.12.2020) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/2/4)
 
-[^key-2371e81a239da399abab82b8a9fe7ad5]: Textual amendment: Word in [art. 11A(4)(a)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/15/3/b)
+[^c-2371e81a239da399abab82b8a9fe7ad5]: Textual amendment: Word in [art. 11A(4)(a)](https://www.legislation.gov.uk/wsi/2012/1903/article/11A/4/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/15/3/b)
 
-[^key-fb6228461fdd53e2c26eef1799a798d4]: Commencement: Art. 12 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-fb6228461fdd53e2c26eef1799a798d4]: Commencement: Art. 12 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-125b4029056c1f3751bb28ceafce7233]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/12/3) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/14) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-125b4029056c1f3751bb28ceafce7233]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/wsi/2012/1903/article/12/3) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/14) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ade19a0b39850ea60e7607688e18bc66]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/wsi/2012/1903/article/12A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/15) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ade19a0b39850ea60e7607688e18bc66]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/wsi/2012/1903/article/12A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/15) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-e4cdcdb1a8f0e03a08cd6583cb697e00]: Commencement: Art. 13 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-e4cdcdb1a8f0e03a08cd6583cb697e00]: Commencement: Art. 13 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-3a645f052d1dc1eef0a331a83776e212]: Textual amendment: [Art. 13(8)](https://www.legislation.gov.uk/wsi/2012/1903/article/13/8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/16) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3a645f052d1dc1eef0a331a83776e212]: Textual amendment: [Art. 13(8)](https://www.legislation.gov.uk/wsi/2012/1903/article/13/8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/16) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9155bdafce35ccecf4e852f46202675b]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/wsi/2012/1903/article/13A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/17) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9155bdafce35ccecf4e852f46202675b]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/wsi/2012/1903/article/13A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/17) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-21cf374f13a97e357594172cfc4f5b49]: Commencement: Art. 14 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-21cf374f13a97e357594172cfc4f5b49]: Commencement: Art. 14 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-a9854b21f1fcffb2401399f84464884f]: Commencement: Art. 15 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-a9854b21f1fcffb2401399f84464884f]: Commencement: Art. 15 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-c1124527341484999ed4b1c2c433fe62]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2012/1903/part/4) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/18) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c1124527341484999ed4b1c2c433fe62]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2012/1903/part/4) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/18) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-da5780a162bee4a492e2a2ccf0dbebb9]: Textual amendment: Sch. para. A1 inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2013/755/schedule/1/paragraph/19/2) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-da5780a162bee4a492e2a2ccf0dbebb9]: Textual amendment: Sch. para. A1 inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2013/755/schedule/1/paragraph/19/2) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
-[^key-455404b4519c6b4f4ad0ca78c7121563]: Commencement: Sch. para. 1 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-455404b4519c6b4f4ad0ca78c7121563]: Commencement: Sch. para. 1 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-6e12ec68ed516d48e5e997f54ab61c9f]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/1/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6e12ec68ed516d48e5e997f54ab61c9f]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/1/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-af856b543ad06e16c1cdffa90951221e]: Textual amendment: Sch. para. 1A inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/uksi/2013/755/schedule/1/paragraph/19/4) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-af856b543ad06e16c1cdffa90951221e]: Textual amendment: Sch. para. 1A inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/uksi/2013/755/schedule/1/paragraph/19/4) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
-[^key-e152c09dc819da3ad89dae752edbea1e]: Commencement: Sch. para. 2 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-e152c09dc819da3ad89dae752edbea1e]: Commencement: Sch. para. 2 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-3be4d24ba15a3615379d1850d7427623]: Textual amendment: Words in [Sch. para. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/2/1/d) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(5)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3be4d24ba15a3615379d1850d7427623]: Textual amendment: Words in [Sch. para. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/2/1/d) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(5)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-0acbcb47e00fdc191dd3710e0abc6ace]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/3) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/6) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0acbcb47e00fdc191dd3710e0abc6ace]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/3) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/6) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b35f1a0b8ccaba6774587ab44ed0dd7a]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/4) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/6) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b35f1a0b8ccaba6774587ab44ed0dd7a]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/4) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/6) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-da44ccbf434c0be3c46848e04ad742a4]: Commencement: Sch. para. 5 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-da44ccbf434c0be3c46848e04ad742a4]: Commencement: Sch. para. 5 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-a092888bd8bb02b73ca8fff3ae705051]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/5) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(7)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/7) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a092888bd8bb02b73ca8fff3ae705051]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/wsi/2012/1903/schedule/paragraph/5) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 1 para. 19(7)](https://www.legislation.gov.uk/wsi/2013/755/schedule/1/paragraph/19/7) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c6679f1ba80d7d4516272e6ce4b99c75]: Commencement: Sch. para. 6 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-c6679f1ba80d7d4516272e6ce4b99c75]: Commencement: Sch. para. 6 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-b4d04fd867ade9dca11e9ca9501933ac]: Commencement: Sch. para. 7 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-b4d04fd867ade9dca11e9ca9501933ac]: Commencement: Sch. para. 7 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-c6f3b51aee6a95a9c63a085f44724cdd]: Commencement: Sch. para. 8 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-c6f3b51aee6a95a9c63a085f44724cdd]: Commencement: Sch. para. 8 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-389bd00f1b0308d85940c77703e57b9e]: Commencement: Sch. para. 9 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-389bd00f1b0308d85940c77703e57b9e]: Commencement: Sch. para. 9 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-fa99a82a13198138fe20d2da8a916276]: Commencement: Sch. para. 10 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-fa99a82a13198138fe20d2da8a916276]: Commencement: Sch. para. 10 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-35e3f20de9ea21fb8f28be56b7697a19]: Commencement: Sch. para. 11 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-35e3f20de9ea21fb8f28be56b7697a19]: Commencement: Sch. para. 11 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-3973685b8d77ace5b483f41b1248dda1]: Commencement: Sch. para. 12 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-3973685b8d77ace5b483f41b1248dda1]: Commencement: Sch. para. 12 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-5f4492a55fa2b720c073b12fd1441a67]: Commencement: Sch. para. 13 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-5f4492a55fa2b720c073b12fd1441a67]: Commencement: Sch. para. 13 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-3707b95f079a23eca6ea596ec2bb1a5a]: Commencement: Sch. para. 14 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-3707b95f079a23eca6ea596ec2bb1a5a]: Commencement: Sch. para. 14 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-eedeefc0e5aa5344d82440ddc32dd79a]: Commencement: Sch. para. 15 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-eedeefc0e5aa5344d82440ddc32dd79a]: Commencement: Sch. para. 15 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-592b718592e663967292e1489c6e9f04]: Commencement: Sch. para. 16 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-592b718592e663967292e1489c6e9f04]: Commencement: Sch. para. 16 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-c8b231a48080b8bdb3ce6ed1c85ff225]: Commencement: Sch. para. 17 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-c8b231a48080b8bdb3ce6ed1c85ff225]: Commencement: Sch. para. 17 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-421889bd9703cc1521a6272182dca72a]: Commencement: Sch. para. 18 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-421889bd9703cc1521a6272182dca72a]: Commencement: Sch. para. 18 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-c8344c02316acb1512d6b5f02cd0b9b3]: Commencement: Sch. para. 19 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-c8344c02316acb1512d6b5f02cd0b9b3]: Commencement: Sch. para. 19 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-1c228ae27d07a1667e4ed65128431353]: Commencement: Sch. para. 20 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-1c228ae27d07a1667e4ed65128431353]: Commencement: Sch. para. 20 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-f71faed001b9e2a92c226bd658b88f3f]: Commencement: Sch. para. 21 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-f71faed001b9e2a92c226bd658b88f3f]: Commencement: Sch. para. 21 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-eee05ffca8426a6ea1b3d0f2c8480cd8]: Commencement: Sch. para. 22 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-eee05ffca8426a6ea1b3d0f2c8480cd8]: Commencement: Sch. para. 22 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-d3eb126490a1c919cd33f155cd024392]: Commencement: Sch. para. 23 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-d3eb126490a1c919cd33f155cd024392]: Commencement: Sch. para. 23 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
 
-[^key-689d0678c9c81ae3f42675786d0a1808]: Commencement: Sch. para. 24 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)
+[^c-689d0678c9c81ae3f42675786d0a1808]: Commencement: Sch. para. 24 in force at 19.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2012/1903/article/1/2)

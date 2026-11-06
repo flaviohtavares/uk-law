@@ -50,7 +50,7 @@ but Her Majesty may by Order in Council direct that those references shall also 
 
 ## 2. Prohibition of catching or treating whales within United Kingdom waters.
 
-It shall be unlawful for any ship to be used within the coastal waters of the United Kingdom for taking or treating whales, and if any ship is so used, the master shall be liable on summary conviction, or on conviction on indictment, to a fine[^key-39d639013f1ff4a5be2e5a0323138d05][^c6064421].
+It shall be unlawful for any ship to be used within the coastal waters of the United Kingdom for taking or treating whales, and if any ship is so used, the master shall be liable on summary conviction, or on conviction on indictment, to a fine[^c-39d639013f1ff4a5be2e5a0323138d05][^c6064421].
 
 ## 3. Protection for certain classes of whales.
 
@@ -60,7 +60,7 @@ It shall be unlawful for any ship to be used within the coastal waters of the Un
 - (b) an immature whale, or
 - (c) a female whale which is accompanied by a calf,
 
-that person and the master and (subject to the following provisions of this Act) the owner and the charterer (if any) of the ship shall each be on summary conviction, or on conviction on indictment, to a fine[^key-b3962bdf5c1130ea88fa933777096e5c].
+that person and the master and (subject to the following provisions of this Act) the owner and the charterer (if any) of the ship shall each be on summary conviction, or on conviction on indictment, to a fine[^c-b3962bdf5c1130ea88fa933777096e5c].
 
 (2) For the purposes of this section a whale of any description shall be deemed to be immature if it is of less than such length as may be prescribed in relation to whales of that description:
 
@@ -78,7 +78,7 @@ Provided that the length prescribed for the purposes of this section in relation
 
 (1) Without prejudice to the provisions of the last foregoing section, it shall be unlawful for any British ship to which this Act applies to be used outside the coastal waters of the United Kingdom for taking or treating whales, or for any factory situate in Great Britain to be used for treating whales, unless the owner or the charterer of the ship, or the occupier of the factory, is the holder of a licence in force under this Act authorising the ship or the factory, as the case may be, to be so used.
 
-(2) If any ship or factory is used for taking or treating whales in contravention of this section, the master and (subject to the following provisions of this Act) the owner and the charterer (if any) of the ship, or the manager and (subject as aforesaid) the occupier of the factory, as the case may be, shall each be liable, in respect of each whale taken or treated in contravention of on summary conviction, or on conviction on indictment, to a fine[^key-d979d8879933032f902f81ceed1c3792].
+(2) If any ship or factory is used for taking or treating whales in contravention of this section, the master and (subject to the following provisions of this Act) the owner and the charterer (if any) of the ship, or the manager and (subject as aforesaid) the occupier of the factory, as the case may be, shall each be liable, in respect of each whale taken or treated in contravention of on summary conviction, or on conviction on indictment, to a fine[^c-d979d8879933032f902f81ceed1c3792].
 
 ## 5. Grant of licences.
 
@@ -124,7 +124,7 @@ and any conditions attached to such a licence as aforesaid for the purpose of pr
 
 (6) The licensing authority may refuse to grant a licence under this Act in respect of a ship or factory until the authority are satisfied, from an inspection of the ship or factory or by such other evidence as they may require, that any condition affecting the structure or equipment of the ship or factory which it is proposed to attach to the licence has been complied with.
 
-(7) If any condition attached to a licence under this Act is contravened or not complied with, then, in the case of a licence granted in respect of a ship, the master and (subject to the following provisions of this Act) the owner and the charterer, if any, of the ship, or, in the case of a licence granted in respect of a factory, the manager and (subject as aforesaid) the occupier of the factory, shall each be liable on summary conviction, or on conviction on indictment, to a fine;[^key-493363e70f126af381e629d28e51a384][^c6064571]; and the court by whom the offender is convicted may, if the court think fit, cancel any licence granted under this Act to the offender, being a licence which is for the time being in force in respect of the ship or factory, as the case may be, and that licence shall thereupon cease to be in force.
+(7) If any condition attached to a licence under this Act is contravened or not complied with, then, in the case of a licence granted in respect of a ship, the master and (subject to the following provisions of this Act) the owner and the charterer, if any, of the ship, or, in the case of a licence granted in respect of a factory, the manager and (subject as aforesaid) the occupier of the factory, shall each be liable on summary conviction, or on conviction on indictment, to a fine;[^c-493363e70f126af381e629d28e51a384][^c6064571]; and the court by whom the offender is convicted may, if the court think fit, cancel any licence granted under this Act to the offender, being a licence which is for the time being in force in respect of the ship or factory, as the case may be, and that licence shall thereupon cease to be in force.
 
 (8) Without prejudice to the provisions of the last foregoing subsection, if any person fails to keep any record in accordance with the conditions attached to a licence under this Act or knowingly makes in any record which he is required by such conditions to keep, a statement false in any material particular, he shall be liable on summary conviction to a fine not exceeding[^c6064581] the statutory maximum[^c6064591] or on conviction on indictment to a fine.
 
@@ -181,7 +181,7 @@ and any conditions attached to such a licence as aforesaid for the purpose of pr
 
 A whale fishery inspector shall, in respect of each day during which he is provided in pursuance of this subsection with subsistence and accommodation on board a ship, pay to the master of the ship such sum as may be prescribed by regulations made by the licensing authority with the approval of the Treasury.
 
-(3) Every person who without reasonable excuse[^c6064661] refuses to produce to a whale fishery inspector any document which he is required under this section to produce, or without reasonable excuse refuses to answer, or answers falsely, any inquiry duly made of him by such an inspector, or otherwise wilfully obstructs[^c6064681], or without reasonable excuse refuses facilities to, such an inspector in the discharge of his functions under this section, shall be liable on summary conviction, or on conviction on indictment, to a fine[^key-de59e6bd7f274d78edaaeacc52e4c21c].
+(3) Every person who without reasonable excuse[^c6064661] refuses to produce to a whale fishery inspector any document which he is required under this section to produce, or without reasonable excuse refuses to answer, or answers falsely, any inquiry duly made of him by such an inspector, or otherwise wilfully obstructs[^c6064681], or without reasonable excuse refuses facilities to, such an inspector in the discharge of his functions under this section, shall be liable on summary conviction, or on conviction on indictment, to a fine[^c-de59e6bd7f274d78edaaeacc52e4c21c].
 
 (4) In this section the expression “**whale fishery inspector**” means—
 
@@ -360,17 +360,17 @@ Section 3.
 
 [^c6064401]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. VI](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/VI)
 
-[^key-39d639013f1ff4a5be2e5a0323138d05]: Textual amendment: Words in s. 2 substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-39d639013f1ff4a5be2e5a0323138d05]: Textual amendment: Words in s. 2 substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c6064421]: Textual amendment: Words substituted by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 35(3)](https://www.legislation.gov.uk/ukpga/1981/29/section/35/3)
 
 [^c6064431]: Textual amendment: Words inserted by [Sea Fish Industry Act 1938 (c. 30)](https://www.legislation.gov.uk/ukpga/1938/30), [s. 43](https://www.legislation.gov.uk/ukpga/1938/30/section/43)(*a*)
 
-[^key-b3962bdf5c1130ea88fa933777096e5c]: Textual amendment: Words in s. 3(1) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-b3962bdf5c1130ea88fa933777096e5c]: Textual amendment: Words in s. 3(1) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c6064451]: Textual amendment: S. 3(3)(*e*) inserted by [Sea Fish Industry Act 1938 (c. 30)](https://www.legislation.gov.uk/ukpga/1938/30), [s. 43](https://www.legislation.gov.uk/ukpga/1938/30/section/43)(*a*)
 
-[^key-d979d8879933032f902f81ceed1c3792]: Textual amendment: Words in s. 4(2) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-d979d8879933032f902f81ceed1c3792]: Textual amendment: Words in s. 4(2) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c6064471]: Textual amendment: Words added by [Sea Fish Industry Act 1938 (c. 30)](https://www.legislation.gov.uk/ukpga/1938/30), [s. 44](https://www.legislation.gov.uk/ukpga/1938/30/section/44)
 
@@ -382,7 +382,7 @@ Section 3.
 
 [^c6064561]: Textual amendment: S. 6(4) substituted by [Sea Fish Industry Act 1938 (c. 30)](https://www.legislation.gov.uk/ukpga/1938/30), [s. 45(3)](https://www.legislation.gov.uk/ukpga/1938/30/section/45/3)
 
-[^key-493363e70f126af381e629d28e51a384]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/Geo5/24-25/49/section/6/7) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-493363e70f126af381e629d28e51a384]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/Geo5/24-25/49/section/6/7) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c6064571]: Textual amendment: Words substituted by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 35(4)](https://www.legislation.gov.uk/ukpga/1981/29/section/35/4)
 
@@ -406,7 +406,7 @@ Section 3.
 
 [^c6064681]: Textual amendment: Words substituted by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 35(6)](https://www.legislation.gov.uk/ukpga/1981/29/section/35/6)(*a*)
 
-[^key-de59e6bd7f274d78edaaeacc52e4c21c]: Textual amendment: Words in s. 8(3) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-de59e6bd7f274d78edaaeacc52e4c21c]: Textual amendment: Words in s. 8(3) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 2(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/2/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c6064751]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only.
 

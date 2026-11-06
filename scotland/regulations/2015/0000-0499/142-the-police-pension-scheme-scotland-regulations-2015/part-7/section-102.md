@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Entitlement to enhanced upper tier ill-health pension following claim for payment[^key-b90c2b420475e4ca8cca81fcd371672b]
+## 102. Entitlement to enhanced upper tier ill-health pension following claim for payment[^c-b90c2b420475e4ca8cca81fcd371672b]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b90c2b420475e4ca8cca81fcd371672b]: Commencement: Reg. 102 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b90c2b420475e4ca8cca81fcd371672b]: Commencement: Reg. 102 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

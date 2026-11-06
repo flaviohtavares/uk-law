@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Duty to maintain list[^key-160aae2e78ef20a4121b9785db5f7317]
+## 111. Duty to maintain list[^c-160aae2e78ef20a4121b9785db5f7317]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-160aae2e78ef20a4121b9785db5f7317]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2015/6/section/111) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 12](https://www.legislation.gov.uk/ssi/2017/458/article/12))
+[^c-160aae2e78ef20a4121b9785db5f7317]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2015/6/section/111) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 12](https://www.legislation.gov.uk/ssi/2017/458/article/12))

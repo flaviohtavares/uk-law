@@ -43,7 +43,7 @@ Coming into force
 
 12th November 1999
 
-The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by the following sections of the Road Traffic Act 1988[^c16598241], namely sections 88(5) and (6)[^c16598251], 89(1A), (2A), (3), (4), (5), (5A), (6), (7), (9) and (10)[^c16598261], 89A(3) and (5)[^c16598271], 91, 92(2) and (4)[^c16598281], 94(4) and (5)[^c16598291], 97(1), (1A), (3), (3A), (3B) and (4)[^c16598301], 98(2) and (4)[^c16598311], 99(1) and (1A)[^c16598321], 99A(3), (4) and (6)[^c16598331], 101(2) and (3), 105(1), (2), (3) and (4)[^c16598341], 108(1)[^c16598351], 114(1)[^c16598361], 115(1) and (3)[^c16598371], 115A(1)[^c16598381], 117(2A)[^c16598391], 118(4), 120, 121[^c16598401], 122[^c16598411], 164(2)[^c16598421], 183(6)[^c16598431] and 192(1)[^c16598441], after consulting with representative organisations in accordance with section 195(2) of the Road Traffic Act 1988 and, in the case of regulations 14, 30 and 35, with the approval of the Treasury[^c16598451], hereby makes the following Regulations:[^key-458c755b094cdf3d6f78f8af51757e22][^key-1aacb077605533207f450ef0248c2a89]
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by the following sections of the Road Traffic Act 1988[^c16598241], namely sections 88(5) and (6)[^c16598251], 89(1A), (2A), (3), (4), (5), (5A), (6), (7), (9) and (10)[^c16598261], 89A(3) and (5)[^c16598271], 91, 92(2) and (4)[^c16598281], 94(4) and (5)[^c16598291], 97(1), (1A), (3), (3A), (3B) and (4)[^c16598301], 98(2) and (4)[^c16598311], 99(1) and (1A)[^c16598321], 99A(3), (4) and (6)[^c16598331], 101(2) and (3), 105(1), (2), (3) and (4)[^c16598341], 108(1)[^c16598351], 114(1)[^c16598361], 115(1) and (3)[^c16598371], 115A(1)[^c16598381], 117(2A)[^c16598391], 118(4), 120, 121[^c16598401], 122[^c16598411], 164(2)[^c16598421], 183(6)[^c16598431] and 192(1)[^c16598441], after consulting with representative organisations in accordance with section 195(2) of the Road Traffic Act 1988 and, in the case of regulations 14, 30 and 35, with the approval of the Treasury[^c16598451], hereby makes the following Regulations:[^c-458c755b094cdf3d6f78f8af51757e22][^c-1aacb077605533207f450ef0248c2a89]
 
 ## Contents
 
@@ -272,7 +272,7 @@ The Secretary of State for the Environment, Transport and the Regions, in exerci
 - [Section 82 — Northern Ireland licences](part-vii/section-82.md)
 - [Section 83 — Statement of date of birth](part-vii/section-83.md)
 
-#### Review[^key-6ce8f8cdde7fa636e77b869ecca9ca8c]
+#### Review[^c-6ce8f8cdde7fa636e77b869ecca9ca8c]
 
 - [Section 84 — Review](part-vii/section-84.md)
 - [Section a](section-a.md)
@@ -380,8 +380,8 @@ In addition, some provisions in Parts II, III and V have been rearranged and som
 
 [^c16598451]: Textual amendment: See section 105(4) of the Road Traffic Act 1988.
 
-[^key-458c755b094cdf3d6f78f8af51757e22]: Modification: Regulations modified (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), 35(1)(2), [Sch. 5 para. 43](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/43)
+[^c-458c755b094cdf3d6f78f8af51757e22]: Modification: Regulations modified (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), 35(1)(2), [Sch. 5 para. 43](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/43)
 
-[^key-1aacb077605533207f450ef0248c2a89]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/2864) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/43)
+[^c-1aacb077605533207f450ef0248c2a89]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/2864) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/43)
 
-[^key-6ce8f8cdde7fa636e77b869ecca9ca8c]: Textual amendment: [Reg. 84](https://www.legislation.gov.uk/uksi/1999/2864/regulation/84) and cross-heading added (4.1.2016) by [The Road Traffic Offenders Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2015 (S.I. 2015/2004)](https://www.legislation.gov.uk/uksi/2015/2004), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2004/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/2004/regulation/3/3)
+[^c-6ce8f8cdde7fa636e77b869ecca9ca8c]: Textual amendment: [Reg. 84](https://www.legislation.gov.uk/uksi/1999/2864/regulation/84) and cross-heading added (4.1.2016) by [The Road Traffic Offenders Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2015 (S.I. 2015/2004)](https://www.legislation.gov.uk/uksi/2015/2004), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2004/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/2004/regulation/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. Use of CIL: funding infrastructure[^key-7b0e2820e0798956bbd2aca71a0e8425]
+## 173. Use of CIL: funding infrastructure[^c-7b0e2820e0798956bbd2aca71a0e8425]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b0e2820e0798956bbd2aca71a0e8425]: Commencement: S. 173 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7b0e2820e0798956bbd2aca71a0e8425]: Commencement: S. 173 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

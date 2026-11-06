@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Scottish partnerships[^M_I_04e2f293-e92e-4abe-8154-781283039bfb][^key-7289d85daec8ee61aa3f65edfb739ee3]
+## 133. Scottish partnerships[^M_I_04e2f293-e92e-4abe-8154-781283039bfb][^c-7289d85daec8ee61aa3f65edfb739ee3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_04e2f293-e92e-4abe-8154-781283039bfb]: Commencement: S. 133 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 2
 
-[^key-7289d85daec8ee61aa3f65edfb739ee3]: Commencement: S. 133 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-7289d85daec8ee61aa3f65edfb739ee3]: Commencement: S. 133 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Procedure for making regulations under this Chapter[^key-23b7934573b422ec59aa5c1c9f8b4055]
+## 105. Procedure for making regulations under this Chapter[^c-23b7934573b422ec59aa5c1c9f8b4055]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23b7934573b422ec59aa5c1c9f8b4055]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/1/section/105) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-23b7934573b422ec59aa5c1c9f8b4055]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/1/section/105) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

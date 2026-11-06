@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Features of products[^key-b1cbcd5d7537d0783459017cc5ff8f91]
+## 95. Features of products[^c-b1cbcd5d7537d0783459017cc5ff8f91]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1cbcd5d7537d0783459017cc5ff8f91]: Commencement: S. 95 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-b1cbcd5d7537d0783459017cc5ff8f91]: Commencement: S. 95 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

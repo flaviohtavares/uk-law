@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Education (Non-Maintained Special Schools) (England) (Amendment) Regulations 2015 (revoked)[^key-4bcc302b937d8f1a4c7fa2bdfba05947]
+The Education (Non-Maintained Special Schools) (England) (Amendment) Regulations 2015 (revoked)[^c-4bcc302b937d8f1a4c7fa2bdfba05947]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 20th March 2015
 
-[^key-4bcc302b937d8f1a4c7fa2bdfba05947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bcc302b937d8f1a4c7fa2bdfba05947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-4bcc302b937d8f1a4c7fa2bdfba05947]
+## 1. Citation, commencement and application[^c-4bcc302b937d8f1a4c7fa2bdfba05947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-4bcc302b937d8f1a4c7fa2bdfba05947]
+## 2. Amendments[^c-4bcc302b937d8f1a4c7fa2bdfba05947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4bcc302b937d8f1a4c7fa2bdfba05947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4bcc302b937d8f1a4c7fa2bdfba05947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4bcc302b937d8f1a4c7fa2bdfba05947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4bcc302b937d8f1a4c7fa2bdfba05947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bcc302b937d8f1a4c7fa2bdfba05947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bcc302b937d8f1a4c7fa2bdfba05947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4bcc302b937d8f1a4c7fa2bdfba05947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bcc302b937d8f1a4c7fa2bdfba05947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4bcc302b937d8f1a4c7fa2bdfba05947]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/387) revoked (1.9.2015) by [The Non-Maintained Special Schools (England) Regulations 2015 (S.I. 2015/728)](https://www.legislation.gov.uk/uksi/2015/728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/728/regulation/8)
+[^c-4bcc302b937d8f1a4c7fa2bdfba05947]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/387) revoked (1.9.2015) by [The Non-Maintained Special Schools (England) Regulations 2015 (S.I. 2015/728)](https://www.legislation.gov.uk/uksi/2015/728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/728/regulation/8)

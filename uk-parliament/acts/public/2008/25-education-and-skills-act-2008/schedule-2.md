@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Repeals and revocations[^c1952895][^key-c785fbcee856ae3070ff7deb296c3309][^key-f90d3f64ecedf4322195477f4bdc567c][^key-8f7d4785881c1c992216bcf9a0a734d8][^key-906fb2e1c305363838f797f5ff46054b][^key-c536378222150804b54488cb4de94cad][^key-d545fe6fbeb733e4d2218b34bc5ba883][^key-6453f8adba4c5bfce4393fce21950262][^key-48221738128a56b4f048fb23098162f4]
+## SCHEDULE 2 — Repeals and revocations[^c1952895][^c-c785fbcee856ae3070ff7deb296c3309][^c-f90d3f64ecedf4322195477f4bdc567c][^c-8f7d4785881c1c992216bcf9a0a734d8][^c-906fb2e1c305363838f797f5ff46054b][^c-c536378222150804b54488cb4de94cad][^c-d545fe6fbeb733e4d2218b34bc5ba883][^c-6453f8adba4c5bfce4393fce21950262][^c-48221738128a56b4f048fb23098162f4]
 
 *Extent: E+W*
 
@@ -42,18 +42,18 @@ Section 169
 
 [^c1952895]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) partly in force; [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force for certain purposes at Royal Assent see [s. 173(1)(h)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/1/h)
 
-[^key-c785fbcee856ae3070ff7deb296c3309]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 2.12.2008 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/e)
+[^c-c785fbcee856ae3070ff7deb296c3309]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 2.12.2008 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/e)
 
-[^key-f90d3f64ecedf4322195477f4bdc567c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 26.1.2009 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h)
+[^c-f90d3f64ecedf4322195477f4bdc567c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 26.1.2009 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h)
 
-[^key-8f7d4785881c1c992216bcf9a0a734d8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 26.1.2009 for specified purposes for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(f)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6))
+[^c-8f7d4785881c1c992216bcf9a0a734d8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 26.1.2009 for specified purposes for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(f)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6))
 
-[^key-906fb2e1c305363838f797f5ff46054b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/wsi/2009/784), [art. 3(e)](https://www.legislation.gov.uk/wsi/2009/784/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2009/784/article/4))
+[^c-906fb2e1c305363838f797f5ff46054b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/wsi/2009/784), [art. 3(e)](https://www.legislation.gov.uk/wsi/2009/784/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2009/784/article/4))
 
-[^key-c536378222150804b54488cb4de94cad]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 1.9.2009 for specified purposes by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/1606/article/6))
+[^c-c536378222150804b54488cb4de94cad]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 1.9.2009 for specified purposes by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/1606/article/6))
 
-[^key-d545fe6fbeb733e4d2218b34bc5ba883]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 1.9.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 3](https://www.legislation.gov.uk/uksi/2009/1513/article/3)
+[^c-d545fe6fbeb733e4d2218b34bc5ba883]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 1.9.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 3](https://www.legislation.gov.uk/uksi/2009/1513/article/3)
 
-[^key-6453f8adba4c5bfce4393fce21950262]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 30.3.2010 for specified purposes by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/c)
+[^c-6453f8adba4c5bfce4393fce21950262]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 30.3.2010 for specified purposes by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/c)
 
-[^key-48221738128a56b4f048fb23098162f4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 5.1.2015 for specified purposes by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa)
+[^c-48221738128a56b4f048fb23098162f4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) in force at 5.1.2015 for specified purposes by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa)

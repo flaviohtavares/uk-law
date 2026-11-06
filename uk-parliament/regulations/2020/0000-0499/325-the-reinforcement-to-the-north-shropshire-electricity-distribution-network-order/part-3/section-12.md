@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Traffic regulation[^key-7a219712170e51f7510bc0bdf3d807d9]
+## 12. Traffic regulation[^c-7a219712170e51f7510bc0bdf3d807d9]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a219712170e51f7510bc0bdf3d807d9]: Commencement: Art. 12 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-7a219712170e51f7510bc0bdf3d807d9]: Commencement: Art. 12 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030471]: Marginal citation: Relevant amendments to section 32 were made by the 1991 Act section 168(1), Schedule 8, paragraph 39.
 

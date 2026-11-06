@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Closure and re-establishment of active member’s account[^key-19d13e7df54a69aa6c92c657a37111d5]
+## 37. Closure and re-establishment of active member’s account[^c-19d13e7df54a69aa6c92c657a37111d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19d13e7df54a69aa6c92c657a37111d5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/2848/regulation/37) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-19d13e7df54a69aa6c92c657a37111d5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/2848/regulation/37) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

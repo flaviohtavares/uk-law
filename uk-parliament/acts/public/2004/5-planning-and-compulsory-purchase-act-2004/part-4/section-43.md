@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-0d6ad54a8ea17deb79165d19dc7d71b6][^key-a24e01cecd1ea53695c6fdd6a0d7c856] For section 70A of the principal Act (power of local planning authority to decline to determine application) there are substituted the following sections—
+(1)[^c-0d6ad54a8ea17deb79165d19dc7d71b6][^c-a24e01cecd1ea53695c6fdd6a0d7c856] For section 70A of the principal Act (power of local planning authority to decline to determine application) there are substituted the following sections—
 
 > **70A. Power to decline to determine subsequent application**
 >
@@ -81,9 +81,9 @@ summary: ''
 > - (a) the period prescribed by the development order for the determination of the application, or
 > - (b) such longer period as the applicant and the authority have agreed for the determination of the application.
 
-(2)[^key-302386e23337bfbf24e9628f4c1b665c] In section 78(2)(aa) of that Act after “70A” there is inserted “ or 70B ”.
+(2)[^c-302386e23337bfbf24e9628f4c1b665c] In section 78(2)(aa) of that Act after “70A” there is inserted “ or 70B ”.
 
-(3)[^key-0d6ad54a8ea17deb79165d19dc7d71b6][^key-46decb2a1527e244593da6d303b1c1e6] After section 81 of the listed buildings Act (authorities with functions under the Act) there are inserted the following sections—
+(3)[^c-0d6ad54a8ea17deb79165d19dc7d71b6][^c-46decb2a1527e244593da6d303b1c1e6] After section 81 of the listed buildings Act (authorities with functions under the Act) there are inserted the following sections—
 
 > **Power to decline to determine application**
 >
@@ -152,23 +152,23 @@ summary: ''
 
 (4) Section 20(2) of that Act (appeals) is amended as follows—
 
-- (a)[^key-e0756b21d2cc644b873e421319a11466] for “neither” there is substituted “ done none of the following ”;
-- (b)[^key-0d6ad54a8ea17deb79165d19dc7d71b6][^key-46decb2a1527e244593da6d303b1c1e6] after paragraph (a) for “nor” there is substituted—
+- (a)[^c-e0756b21d2cc644b873e421319a11466] for “neither” there is substituted “ done none of the following ”;
+- (b)[^c-0d6ad54a8ea17deb79165d19dc7d71b6][^c-46decb2a1527e244593da6d303b1c1e6] after paragraph (a) for “nor” there is substituted—
 
   > - (aa) given notice to the applicant that they have exercised their power under section 81A or 81B to decline to determine the application;
 
   .
 
-(5)[^key-e0756b21d2cc644b873e421319a11466] This section has effect only in relation to applications made under the principal Act or the listed buildings Act which are received by the local planning authority after this section comes into force.
+(5)[^c-e0756b21d2cc644b873e421319a11466] This section has effect only in relation to applications made under the principal Act or the listed buildings Act which are received by the local planning authority after this section comes into force.
 
 ## Annotations
 
-[^key-0d6ad54a8ea17deb79165d19dc7d71b6]: Commencement: S. 43(1)(3)(4)(b) in force at 24.8.2005 for specified purposes for E. by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/a)
+[^c-0d6ad54a8ea17deb79165d19dc7d71b6]: Commencement: S. 43(1)(3)(4)(b) in force at 24.8.2005 for specified purposes for E. by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/a)
 
-[^key-a24e01cecd1ea53695c6fdd6a0d7c856]: Commencement: S. 43(1) in force at 6.4.2009 for E. so far as not already in force by [S.I. 2009/384](https://www.legislation.gov.uk/uksi/2009/384), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/384/article/2/a)
+[^c-a24e01cecd1ea53695c6fdd6a0d7c856]: Commencement: S. 43(1) in force at 6.4.2009 for E. so far as not already in force by [S.I. 2009/384](https://www.legislation.gov.uk/uksi/2009/384), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/384/article/2/a)
 
-[^key-302386e23337bfbf24e9628f4c1b665c]: Commencement: S. 43(2) in force at 6.4.2009 for E. by [S.I. 2009/384](https://www.legislation.gov.uk/uksi/2009/384), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/384/article/2/b)
+[^c-302386e23337bfbf24e9628f4c1b665c]: Commencement: S. 43(2) in force at 6.4.2009 for E. by [S.I. 2009/384](https://www.legislation.gov.uk/uksi/2009/384), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/384/article/2/b)
 
-[^key-46decb2a1527e244593da6d303b1c1e6]: Commencement: S. 43(3)(4)(b) in force at 6.4.2009 for E. so far as not already in force by [S.I. 2009/384](https://www.legislation.gov.uk/uksi/2009/384), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/384/article/2/c)
+[^c-46decb2a1527e244593da6d303b1c1e6]: Commencement: S. 43(3)(4)(b) in force at 6.4.2009 for E. so far as not already in force by [S.I. 2009/384](https://www.legislation.gov.uk/uksi/2009/384), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/384/article/2/c)
 
-[^key-e0756b21d2cc644b873e421319a11466]: Commencement: S. 43(4)(a)(5) in force at 24.8.2005 for E. by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/a)
+[^c-e0756b21d2cc644b873e421319a11466]: Commencement: S. 43(4)(a)(5) in force at 24.8.2005 for E. by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/a)

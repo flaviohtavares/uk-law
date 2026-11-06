@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred on it by section 2(5) of, and paragraphs 5 and 22 to the Schedule to, the Health and Personal Social Services Act (Northern Ireland) 2002[^f00001] and of all other powers enabling it in that behalf hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-7203e95a405bd9017cd2c4d46940c1f6]
+## 1. Citation, commencement and interpretation[^c-7203e95a405bd9017cd2c4d46940c1f6]
 
 (1) These regulations may be cited as the Northern Ireland Practice and Education Council for Nursing and Midwifery (Appointments and Procedure) Regulations (Northern Ireland) 2002 and shall come into operation on 27th January 2003.
 
@@ -50,12 +50,12 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - “the Act” means the Health and Personal Social Services Act (Northern Ireland) 2002;
 - “the chairman” means the chairman of the Council;
 - “the Council” means the Northern Ireland Practice and Education Council for Nursing and Midwifery established under section 2(1) of the Act;
-- “[^key-bf8fe9dc5f06fe70eb4440ec3c61c067]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
-- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^key-2cab450c064c39e1a1f1575518d165d3]
+- “[^c-bf8fe9dc5f06fe70eb4440ec3c61c067]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^c-2cab450c064c39e1a1f1575518d165d3]
 - “member” means a member of the Council other than the chairman and chief executive of the Council;
 - “public body” means a body established by a statutory provision.
 
-## 2. Appointments[^key-9e562b6c106cd34f3cf5851e8e6c7b60]
+## 2. Appointments[^c-9e562b6c106cd34f3cf5851e8e6c7b60]
 
 (1) The Council shall consist of–
 
@@ -67,7 +67,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (3) The Council shall consist of 40% of non-executive members who are not registered under Article 5 of the Nursing and Midwifery Order 2001 or were not registered under section 7 of the Nurses, Midwives and Health Visitors Act 1997[^f00003].
 
-## 3. Terms of Appointment[^key-ca84c3e113f80fa7cb2ea94830122e39]
+## 3. Terms of Appointment[^c-ca84c3e113f80fa7cb2ea94830122e39]
 
 (1) The chairman shall be appointed for a period not exceeding 4 years.
 
@@ -81,13 +81,13 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (6) The Department may instead of re-appointing the chairman or a member on the expiration of their term of office, extend their appointment for such a further period as may appear reasonable in the particular circumstances; but the period by which the appointment is extended must not exceed 4 years.
 
-## 4. Disqualification for appointment[^key-f05e469282d7c39d03f924179958e452]
+## 4. Disqualification for appointment[^c-f05e469282d7c39d03f924179958e452]
 
 (1) The following persons are disqualified for appointment as chairman or as a member of the Council–
 
 - (a) a person who within 5 years of the day his appointment would otherwise have taken effect, has been convicted whether in the United Kingdom or elsewhere of any offence and has had passed on him a sentence of imprisonment (whether suspended or not) for a period of not less than three months without the option of a fine;
-- (b)[^key-4c1fb6dbaa4ffde0494208bb4b630d8d] a person who is the subject of a bankruptcy restrictions order
-- (ba)[^key-915b87163f8e31a3920f48f72dd74d34] a person who is the subject of a debt relief restrictions order;
+- (b)[^c-4c1fb6dbaa4ffde0494208bb4b630d8d] a person who is the subject of a bankruptcy restrictions order
+- (ba)[^c-915b87163f8e31a3920f48f72dd74d34] a person who is the subject of a debt relief restrictions order;
 - (c) a person who has been fairly dismissed, other than by reasons of redundancy from any paid employment with a public body;
 - (d) a person whose appointment as the Chairman or Member or Director of any public body which employs nurses or midwives has been terminated on the grounds that:
   - (i) it was not in the interests of, or conducive to the good management, of that body that he should continue to hold office;
@@ -106,9 +106,9 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
   - (i) any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom;
   - (ii) any sentence of imprisonment passed by such a court on a person who at the time of the sentence was passed was under 21 years of age.
 
-(3)[^key-d817db03e3dcb2618499485f90b20fd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d817db03e3dcb2618499485f90b20fd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d817db03e3dcb2618499485f90b20fd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d817db03e3dcb2618499485f90b20fd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subject to paragraph (6), a person who is disqualified under paragraph 1(c) may, after the expiry of 2 years beginning on the date on which he was dismissed, apply in writing to the Department to remove that disqualification and the Department may direct that that disqualification shall cease.
 
@@ -124,10 +124,10 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - (d) a person who is registered as a member of a profession to which the Professions Supplementary to Medicine Act 1960 extends[^f00007];
 - (e) a registered osteopath as defined by section 41 of the Osteopaths Act 1993[^f00008];
 - (f) a registered chiropractor as defined by section 43 of the Chiropractors Act 1994[^f00009];
-- (g) a person registered under Part I of the Health and Personal Social Services Act (Northern Ireland) 2001[^f00010] ;[^key-7edd620957b6ad026d992cb3a7043d24]
+- (g) a person registered under Part I of the Health and Personal Social Services Act (Northern Ireland) 2001[^f00010] ;[^c-7edd620957b6ad026d992cb3a7043d24]
 - (h) a person registered under the Anaesthesia Associates and Physician Associates Order 2024.
 
-## 5. Resignations[^key-b4cf823f749cee4e77b0711274911e7c]
+## 5. Resignations[^c-b4cf823f749cee4e77b0711274911e7c]
 
 (1) The chairman or a member may resign his office at any time during his term of office by giving not less than 30 days notice in writing to the Department of his intention to do so.
 
@@ -139,7 +139,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (5) In the case of a member who during his term of office is appointed chairman, the terms on which he was appointed a member shall cease to apply on the date which his appointment as chairman takes effect.
 
-## 6. Termination of tenure of office of chairman and members[^key-bad88c140fb0b5b80caf6cefaeb761c4]
+## 6. Termination of tenure of office of chairman and members[^c-bad88c140fb0b5b80caf6cefaeb761c4]
 
 (1) The Department–
 
@@ -158,9 +158,9 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (5) Where a person has been appointed chairman or a member and it comes to the notice of the Department that at the time of the appointment he was disqualified for appointment under regulation 4, it shall forthwith declare that the person in question was not duly appointed and notify him in writing to that effect; and upon receipt of such notification, his appointment shall be terminated and he shall cease to act as such chairman or member.
 
-(6) A person who, after his appointment as chairman or as a member becomes the subject of a bankruptcy restrictions order[^key-2f8792a6dbe8767674422fbdb90bf120] or a debt relief restrictions order[^key-aefe6a02cd7f9d2ccfcbb705bf8c5f5b], shall give notice in writing of the fact to the Department.
+(6) A person who, after his appointment as chairman or as a member becomes the subject of a bankruptcy restrictions order[^c-2f8792a6dbe8767674422fbdb90bf120] or a debt relief restrictions order[^c-aefe6a02cd7f9d2ccfcbb705bf8c5f5b], shall give notice in writing of the fact to the Department.
 
-## 7. Appointment of deputy chairman[^key-5941275fd758dd3d0e60361bc1ed14d0]
+## 7. Appointment of deputy chairman[^c-5941275fd758dd3d0e60361bc1ed14d0]
 
 (1) Subject to paragraph (2), the chairman and members of the Council may appoint one of their numbers to the deputy chairman for such period, not exceeding the remainder of his term of office as a member, as they may specify on appointing him.
 
@@ -170,7 +170,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 ## Committees, meetings and procedures
 
-### 8. Appointment of committees and sub-committees[^key-5079662f097037d1d95ec7b35f5d5f8d]
+### 8. Appointment of committees and sub-committees[^c-5079662f097037d1d95ec7b35f5d5f8d]
 
 (1) Subject to any directions given to it by the Department, the Council may and if so directed by the Department shall appoint committees of the Council.
 
@@ -180,7 +180,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (4) Regulations 4 and 6 shall apply to appointments to committees and sub-committees and to the termination of those appointments as they apply to appointments to the Council and to the termination of those appointments.
 
-### 9. Meetings and proceedings[^key-253f38ff3f8aa4a399ece77aa5d5b4dc]
+### 9. Meetings and proceedings[^c-253f38ff3f8aa4a399ece77aa5d5b4dc]
 
 (1) The meetings and proceedings shall be conducted in accordance with the provisions set out in the Schedule and with Standing Orders made under paragraph (2).
 
@@ -188,7 +188,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (3) The proceedings of the Council shall not be invalidated by any defect in the appointment of a member.
 
-### 10. Disclosure of pecuniary interest and exclusion of chairman and members in proceedings on account of pecuniary interest[^key-f50ccd9fe89bed0d20808ec2e11063e0]
+### 10. Disclosure of pecuniary interest and exclusion of chairman and members in proceedings on account of pecuniary interest[^c-f50ccd9fe89bed0d20808ec2e11063e0]
 
 (1) Subject to the following provisions of this regulation, if the chairman or a member of the Council has a pecuniary interest, direct or indirect, in any contract, proposed contract or other matter and is present at any meeting of the Council at which the contract, proposed contract or other matter is the subject of consideration, he shall at the meeting and as soon as practicable after its meeting, disclose his interest and shall not take part in the consideration or discussion of the contract or other matter or vote on any question with respect to it.
 
@@ -201,7 +201,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - (a) he, or a nominee of his, is a director of a company or other body, not being a public body, with which the contract was made or is proposed to be made or which has a direct pecuniary interest in the other matter under consideration; or
 - (b) he is a partner of, or is in the employment of, a person with whom the contract was made or who has a direct pecuniary interest in the other matter under consideration;
 
-and in the case of two people who are spouses, or civil partners, of each other and who are living together, the interest of one of them[^key-a4c2708af4ad01a6440d7c1bd7d07379] shall, if known to the other, be deemed for the purpose of this regulation to be also an interest of the other.
+and in the case of two people who are spouses, or civil partners, of each other and who are living together, the interest of one of them[^c-a4c2708af4ad01a6440d7c1bd7d07379] shall, if known to the other, be deemed for the purpose of this regulation to be also an interest of the other.
 
 (5) Neither the chairman nor a member shall be treated as having a pecuniary interest in any contract, proposed contract or other matter by reason only–
 
@@ -237,9 +237,9 @@ Department of Health, Social Services and Public Safety
 
 Regulation 9(1)
 
-**1.**[^key-879cf8bf3d02c9f44556729388b510ef] The first meeting of the Council shall be held on such day and at such place as may be fixed by the chairman, and he shall be responsible for convening the meeting.
+**1.**[^c-879cf8bf3d02c9f44556729388b510ef] The first meeting of the Council shall be held on such day and at such place as may be fixed by the chairman, and he shall be responsible for convening the meeting.
 
-**2.**[^key-5e1157f6867c475b2c595e9b088e84ce] (1) The chairman may call a meeting of the Council at any time.
+**2.**[^c-5e1157f6867c475b2c595e9b088e84ce] (1) The chairman may call a meeting of the Council at any time.
 
 (2) If a requisition for a meeting, signed by at least 4 other members, is presented to the chairman, and the chairman either–
 
@@ -259,17 +259,17 @@ shall be delivered to each member, or sent by post to his last known address, at
 
 (5) In the case of a meeting called under sub-paragraph (2) by members, those members shall sign the notice and no business other than that specified in the notice shall be transacted at the meeting.
 
-**3.**[^key-bf1f310c3a193d2559666870e215e2c6] (1) At any meeting of the Council the chairman or, in his absence, the deputy chairman (if there is one and he is present) shall preside.
+**3.**[^c-bf1f310c3a193d2559666870e215e2c6] (1) At any meeting of the Council the chairman or, in his absence, the deputy chairman (if there is one and he is present) shall preside.
 
 (2) If the chairman and deputy chairman are both absent, such other member present as the other members present shall choose for the purpose shall preside.
 
-**4.**[^key-a04e1954fd5dfb8a207738695c4f434d] (1) At any meeting of the Council the quorum shall be one third (rounded to a whole number, of the appointed members, including the chairman and chief executive).
+**4.**[^c-a04e1954fd5dfb8a207738695c4f434d] (1) At any meeting of the Council the quorum shall be one third (rounded to a whole number, of the appointed members, including the chairman and chief executive).
 
 (2) Where the Council is considering the appointment of a Chief Executive, the Council is not quorate unless the chairman is present.
 
-**5.**[^key-b632256cce87db5cfa3091849e2c6faf] Every question at a meeting shall be determined by a majority of votes of the Council membership present and competent to vote on the question and, in the case of an equality of votes, the chairman or, in his absence, the person presiding at the meeting shall have a second vote.
+**5.**[^c-b632256cce87db5cfa3091849e2c6faf] Every question at a meeting shall be determined by a majority of votes of the Council membership present and competent to vote on the question and, in the case of an equality of votes, the chairman or, in his absence, the person presiding at the meeting shall have a second vote.
 
-**6.**[^key-8a2ac82987d40347c7c10a322e3f53ed] (1) The minutes of the proceedings of a meeting shall be drawn up and shall be signed at the ensuing meeting by the person presiding at that next meeting.
+**6.**[^c-8a2ac82987d40347c7c10a322e3f53ed] (1) The minutes of the proceedings of a meeting shall be drawn up and shall be signed at the ensuing meeting by the person presiding at that next meeting.
 
 (2) The names of the members present at a meeting shall be recorded in the minutes.
 
@@ -283,31 +283,31 @@ These Regulations do not impose a charge on businesses.
 
 [^f00001]: Footnote: [2002 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2002/9)
 
-[^key-7203e95a405bd9017cd2c4d46940c1f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/386/regulation/1) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-7203e95a405bd9017cd2c4d46940c1f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/386/regulation/1) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-bf8fe9dc5f06fe70eb4440ec3c61c067]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 29](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/29)
+[^c-bf8fe9dc5f06fe70eb4440ec3c61c067]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 29](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/29)
 
-[^key-2cab450c064c39e1a1f1575518d165d3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 35(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/35/2)
+[^c-2cab450c064c39e1a1f1575518d165d3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 35(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/35/2)
 
-[^key-9e562b6c106cd34f3cf5851e8e6c7b60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/386/regulation/2) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-9e562b6c106cd34f3cf5851e8e6c7b60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/386/regulation/2) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [2001/253](https://www.legislation.gov.uk/uksi/2001/253)
 
 [^f00003]: Footnote: [1997 c. 24](https://www.legislation.gov.uk/ukpga/1997/24)
 
-[^key-ca84c3e113f80fa7cb2ea94830122e39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/386/regulation/3) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-ca84c3e113f80fa7cb2ea94830122e39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/386/regulation/3) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-f05e469282d7c39d03f924179958e452]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/386/regulation/4) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-f05e469282d7c39d03f924179958e452]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/386/regulation/4) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-4c1fb6dbaa4ffde0494208bb4b630d8d]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/1/b) substituted (13.5.2008) by [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/nisr/2008/94/schedule/paragraph/11/2/a)
+[^c-4c1fb6dbaa4ffde0494208bb4b630d8d]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/1/b) substituted (13.5.2008) by [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/nisr/2008/94/schedule/paragraph/11/2/a)
 
-[^key-915b87163f8e31a3920f48f72dd74d34]: Textual amendment: [Reg. 4(1)(ba)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/1/ba) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 35(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/35/3)
+[^c-915b87163f8e31a3920f48f72dd74d34]: Textual amendment: [Reg. 4(1)(ba)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/1/ba) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 35(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/35/3)
 
 [^f00004]: Footnote: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14)
 
 [^f00005]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14)
 
-[^key-d817db03e3dcb2618499485f90b20fd1]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/4) omitted (13.5.2008) by virtue of [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. para. 11(2)(b)](https://www.legislation.gov.uk/nisr/2008/94/schedule/paragraph/11/2/b)
+[^c-d817db03e3dcb2618499485f90b20fd1]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/4) omitted (13.5.2008) by virtue of [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. para. 11(2)(b)](https://www.legislation.gov.uk/nisr/2008/94/schedule/paragraph/11/2/b)
 
 [^f00006]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44)
 
@@ -319,34 +319,34 @@ These Regulations do not impose a charge on businesses.
 
 [^f00010]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-7edd620957b6ad026d992cb3a7043d24]: Textual amendment: [Reg. 4(8)(h)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/8/h) and semicolon inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/10)
+[^c-7edd620957b6ad026d992cb3a7043d24]: Textual amendment: [Reg. 4(8)(h)](https://www.legislation.gov.uk/nisr/2002/386/regulation/4/8/h) and semicolon inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/10)
 
-[^key-b4cf823f749cee4e77b0711274911e7c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/386/regulation/5) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-b4cf823f749cee4e77b0711274911e7c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/386/regulation/5) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-bad88c140fb0b5b80caf6cefaeb761c4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/386/regulation/6) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-bad88c140fb0b5b80caf6cefaeb761c4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/386/regulation/6) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-2f8792a6dbe8767674422fbdb90bf120]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2002/386/regulation/6/6) substituted (13.5.2008) by [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. para. 11(3)](https://www.legislation.gov.uk/nisr/2008/94/schedule/paragraph/11/3)
+[^c-2f8792a6dbe8767674422fbdb90bf120]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2002/386/regulation/6/6) substituted (13.5.2008) by [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. para. 11(3)](https://www.legislation.gov.uk/nisr/2008/94/schedule/paragraph/11/3)
 
-[^key-aefe6a02cd7f9d2ccfcbb705bf8c5f5b]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2002/386/regulation/6/6) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 35(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/35/4)
+[^c-aefe6a02cd7f9d2ccfcbb705bf8c5f5b]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2002/386/regulation/6/6) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 35(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/35/4)
 
-[^key-5941275fd758dd3d0e60361bc1ed14d0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/386/regulation/7) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-5941275fd758dd3d0e60361bc1ed14d0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/386/regulation/7) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-5079662f097037d1d95ec7b35f5d5f8d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/386/regulation/8) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-5079662f097037d1d95ec7b35f5d5f8d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/386/regulation/8) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-253f38ff3f8aa4a399ece77aa5d5b4dc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/386/regulation/9) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-253f38ff3f8aa4a399ece77aa5d5b4dc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/386/regulation/9) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-f50ccd9fe89bed0d20808ec2e11063e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/386/regulation/10) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-f50ccd9fe89bed0d20808ec2e11063e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/386/regulation/10) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-a4c2708af4ad01a6440d7c1bd7d07379]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2002/386/regulation/10/4) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [154](https://www.legislation.gov.uk/uksi/2019/1514/regulation/154) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-a4c2708af4ad01a6440d7c1bd7d07379]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2002/386/regulation/10/4) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [154](https://www.legislation.gov.uk/uksi/2019/1514/regulation/154) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-879cf8bf3d02c9f44556729388b510ef]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/1) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-879cf8bf3d02c9f44556729388b510ef]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/1) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-5e1157f6867c475b2c595e9b088e84ce]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/2) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-5e1157f6867c475b2c595e9b088e84ce]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/2) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-bf1f310c3a193d2559666870e215e2c6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/3) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-bf1f310c3a193d2559666870e215e2c6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/3) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-a04e1954fd5dfb8a207738695c4f434d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/4) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-a04e1954fd5dfb8a207738695c4f434d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/4) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-b632256cce87db5cfa3091849e2c6faf]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/5) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-b632256cce87db5cfa3091849e2c6faf]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/5) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
 
-[^key-8a2ac82987d40347c7c10a322e3f53ed]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/6) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)
+[^c-8a2ac82987d40347c7c10a322e3f53ed]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2002/386/schedule/paragraph/6) in operation at 27.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/386/regulation/1/1)

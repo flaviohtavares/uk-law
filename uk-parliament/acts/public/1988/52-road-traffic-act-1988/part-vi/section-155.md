@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Deposits.[^key-65b1fbf8588ff24467d958701105ff31]
+## 155. Deposits.[^c-65b1fbf8588ff24467d958701105ff31]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65b1fbf8588ff24467d958701105ff31]: Textual amendment: S. 155 omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/18) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-65b1fbf8588ff24467d958701105ff31]: Textual amendment: S. 155 omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/18) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))

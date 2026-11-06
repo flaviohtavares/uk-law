@@ -44,7 +44,7 @@ Coming into force in accordance with Rule 1(2)
 
 The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the following Rules in exercise of the powers conferred by section 144 of the Magistrates’ Courts Act 1980[^f00001] and section 18(2) and (3) of the Anti-Social Behaviour, Crime and Policing Act 2014[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-49d76570b41bdda0cd9cb1839e5cc616]
+## 1. Citation, commencement and interpretation[^c-49d76570b41bdda0cd9cb1839e5cc616]
 
 (1) These Rules may be cited as the Magistrates’ Courts (Injunctions: Anti-Social Behaviour) Rules 2015.
 
@@ -59,11 +59,11 @@ The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the f
 - (e) “original applicant” has the meaning given in paragraph 1(2) of Schedule 2 to the 2014 Act;
 - (f) “Part 1 injunction” means an injunction under Part 1 of the 2014 Act.
 
-## 2. Applications to be by complaint[^key-58e60fb19e6c7cd131bed4035923e68a]
+## 2. Applications to be by complaint[^c-58e60fb19e6c7cd131bed4035923e68a]
 
 An application to which these rules apply must be made by way of complaint in writing.
 
-## 3. Applications for injunctions[^key-033c71b763ca3ef61a0c0cc241d26c92]
+## 3. Applications for injunctions[^c-033c71b763ca3ef61a0c0cc241d26c92]
 
 (1) An application to a youth court for a Part 1 injunction must—
 
@@ -80,14 +80,14 @@ An application to which these rules apply must be made by way of complaint in wr
 - (a) the respondent personally; and
 - (b) the parent or guardian mentioned in paragraph (2)(b) personally, or by posting it to or leaving it at that parent or guardian’s address.
 
-## 4. Interim Part 1 injunctions[^key-1e6f15b325dbbfd5f95c2ffc8147293c]
+## 4. Interim Part 1 injunctions[^c-1e6f15b325dbbfd5f95c2ffc8147293c]
 
 An interim Part 1 injunction which is made on an application made without notice—
 
 - (a) must be served on the respondent personally as soon as practicable; and
 - (b) will not take effect until it has been so served.
 
-## 5. Part 1 injunction containing provisions to which a power of arrest is attached[^key-ca618c0864d00fb0a8ca187af2251e4e]
+## 5. Part 1 injunction containing provisions to which a power of arrest is attached[^c-ca618c0864d00fb0a8ca187af2251e4e]
 
 (1) In this rule, “relevant provision” means a provision of a Part 1 injunction to which a power of arrest is attached.
 
@@ -103,7 +103,7 @@ An interim Part 1 injunction which is made on an application made without notice
 - (a) immediately inform any police station to which a copy of the relevant provisions was delivered under paragraph (2)(b); and
 - (b) deliver a copy of the order to any police station so informed.
 
-## 6. Application to vary or discharge a Part 1 injunction[^key-d954d7fbd60f4868fd742095e81869a4]
+## 6. Application to vary or discharge a Part 1 injunction[^c-d954d7fbd60f4868fd742095e81869a4]
 
 (1) An application under section 8(1) to vary or discharge a Part 1 injunction must be made to the court which granted the injunction.
 
@@ -114,13 +114,13 @@ An interim Part 1 injunction which is made on an application made without notice
   - (ii) if the application is to vary the injunction, the variation which is sought; and
 - (b) where the application is made by the person on whose application the injunction was granted, include a statement that the consultation requirement under section 14(3) has been complied with.
 
-## 7. Application for warrant of arrest[^key-34a775b6bcb21403565231c8bbb59ae5]
+## 7. Application for warrant of arrest[^c-34a775b6bcb21403565231c8bbb59ae5]
 
 (1) An application for a warrant of arrest under section 10(1) must be substantiated on oath.
 
 (2) Such an application may be made without notice.
 
-## 8. Proceedings following arrest under the 2014 Act[^key-622b89d24f844ab809ece07023dacec3]
+## 8. Proceedings following arrest under the 2014 Act[^c-622b89d24f844ab809ece07023dacec3]
 
 (1) This rule applies where a person under the age of 18 is arrested pursuant to—
 
@@ -139,32 +139,32 @@ An interim Part 1 injunction which is made on an application made without notice
 
 (4) An application under paragraph 1(2) of Schedule 2 may be made even if the arrested person is not dealt with within the period in paragraph (3)(a) of this rule.
 
-## 9. Recognizance[^key-cbfa268cc73c42c9d0cec336393d64d8]
+## 9. Recognizance[^c-cbfa268cc73c42c9d0cec336393d64d8]
 
 Where, in accordance with paragraph 2(3)(b) of Schedule 1, the court fixes the amount of any recognizance with a view to it being taken subsequently, the recognizance may be taken by—
 
 - (a) a District Judge (Magistrates’ Court);
 - (b) a justice of the peace;
-- (c) a person nominated by the Lord Chancellor who is authorised to exercise functions under section 28(1) of the Courts Act 2003[^key-9841ba95d155eeaa5125d16c8d61bfa9]; or
+- (c) a person nominated by the Lord Chancellor who is authorised to exercise functions under section 28(1) of the Courts Act 2003[^c-9841ba95d155eeaa5125d16c8d61bfa9]; or
 - (d) a police officer of the rank of inspector or above, or in charge of a police station,
 
 with the same consequences as if it had been entered into before the court.
 
-## 10. Application for supervision order or detention order[^key-ba01654081ddda05bbce2a74c5a68932]
+## 10. Application for supervision order or detention order[^c-ba01654081ddda05bbce2a74c5a68932]
 
 An application under paragraph 1(2) of Schedule 2 must—
 
 - (a) be supported by evidence of the breach of any provisions of the injunction which is alleged; and
 - (b) include a statement that the consultation required by paragraph 1(3) of Schedule 2 has been undertaken.
 
-## 11. Non-compliance with supervision order[^key-798dae5f5d34f2c48852eda019afad7f]
+## 11. Non-compliance with supervision order[^c-798dae5f5d34f2c48852eda019afad7f]
 
 An application under paragraph 12(2) of Schedule 2 must—
 
 - (a) be supported by evidence of the failure to comply with provisions of the supervision order which is alleged; and
 - (b) include a statement that the consultation required by paragraph 12(3) of Schedule 2 has been undertaken.
 
-## 12. Application to amend or revoke a supervision order[^key-7a6b3c4a0b4648a9411edfb2b50c4c07]
+## 12. Application to amend or revoke a supervision order[^c-7a6b3c4a0b4648a9411edfb2b50c4c07]
 
 (1) An application under paragraph 8(1) of Schedule 2 must state the new period which it is proposed to have substituted for that specified in the supervision order.
 
@@ -178,14 +178,14 @@ An application under paragraph 12(2) of Schedule 2 must—
 - (a) the reasons why it is in the interests of justice for the order to be revoked or (as the case may be) amended by removing any requirement from it; and
 - (b) if the application is made by the original applicant, a statement that the consultation required by paragraph 10(5) of Schedule 2 has been undertaken.
 
-## 13. Application to revoke a detention order[^key-f6fee735e36a328f9f45cd655a3ab260]
+## 13. Application to revoke a detention order[^c-f6fee735e36a328f9f45cd655a3ab260]
 
 An application under paragraph 15(1) of Schedule 2 must include—
 
 - (a) the reasons why it is in the interests of justice for the order to be revoked; and
 - (b) if the application is made by the injunction applicant, a statement that the consultation required by paragraph 15(5) or (6) (as applicable) of Schedule 2 has been undertaken.
 
-## 14. Applications for which court’s consent is required[^key-2aedf29de7520f658cf036a7eee04efa]
+## 14. Applications for which court’s consent is required[^c-2aedf29de7520f658cf036a7eee04efa]
 
 (1) Where the consent of the court is required by section 8(4), or paragraph 10(4) or 15(4) of Schedule 2, for the making of a further application, the application for consent must include—
 
@@ -197,7 +197,7 @@ An application under paragraph 15(1) of Schedule 2 must include—
 - (a) may be given by a court comprising a single justice; but
 - (b) may not be refused without the applicant having been given an opportunity to make oral representations.
 
-## 15. Application for permission for an application for a Part 1 injunction against a person aged 18 or over[^key-5271cf372df7f7cd7c14a684dc363544]
+## 15. Application for permission for an application for a Part 1 injunction against a person aged 18 or over[^c-5271cf372df7f7cd7c14a684dc363544]
 
 (1) A youth court may, on application, give permission for an application for a Part 1 injunction against a person aged 18 or over to be made to the youth court if the conditions in section 18(2)(a) and (b) are fulfilled.
 
@@ -206,7 +206,7 @@ An application under paragraph 15(1) of Schedule 2 must include—
 - (a) in relation to the condition in section 18(2)(a), details of the application which has been made, or is to be made, for a Part 1 injunction against a person aged under 18; and
 - (b) in relation to the condition in section 18(2)(b), a statement of the reasons why it is in the interests of justice for the applications to be heard together.
 
-## 16. Respondent attaining age of 18 after commencement of proceedings[^key-38c1f54ac44220cf0832fb46249e6a4e]
+## 16. Respondent attaining age of 18 after commencement of proceedings[^c-38c1f54ac44220cf0832fb46249e6a4e]
 
 (1) Where a respondent attains the age of 18 after the commencement of proceedings under Part 1 of the 2014 Act, the proceedings must remain in a youth court, subject to paragraphs (2) and (3).
 
@@ -258,36 +258,36 @@ No forms are prescribed for applications. The Rules provide for all applications
 
 [^f00002]: Footnote: [2014 c. 12](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-49d76570b41bdda0cd9cb1839e5cc616]: Commencement: Rule 1 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-49d76570b41bdda0cd9cb1839e5cc616]: Commencement: Rule 1 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-58e60fb19e6c7cd131bed4035923e68a]: Commencement: Rule 2 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-58e60fb19e6c7cd131bed4035923e68a]: Commencement: Rule 2 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-033c71b763ca3ef61a0c0cc241d26c92]: Commencement: Rule 3 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-033c71b763ca3ef61a0c0cc241d26c92]: Commencement: Rule 3 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-1e6f15b325dbbfd5f95c2ffc8147293c]: Commencement: Rule 4 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-1e6f15b325dbbfd5f95c2ffc8147293c]: Commencement: Rule 4 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-ca618c0864d00fb0a8ca187af2251e4e]: Commencement: Rule 5 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-ca618c0864d00fb0a8ca187af2251e4e]: Commencement: Rule 5 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-d954d7fbd60f4868fd742095e81869a4]: Commencement: Rule 6 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-d954d7fbd60f4868fd742095e81869a4]: Commencement: Rule 6 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-34a775b6bcb21403565231c8bbb59ae5]: Commencement: Rule 7 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-34a775b6bcb21403565231c8bbb59ae5]: Commencement: Rule 7 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-622b89d24f844ab809ece07023dacec3]: Commencement: Rule 8 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-622b89d24f844ab809ece07023dacec3]: Commencement: Rule 8 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-cbfa268cc73c42c9d0cec336393d64d8]: Commencement: Rule 9 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-cbfa268cc73c42c9d0cec336393d64d8]: Commencement: Rule 9 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-9841ba95d155eeaa5125d16c8d61bfa9]: Textual amendment: Words in [rule 9(c)](https://www.legislation.gov.uk/uksi/2015/423/rule/9/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-9841ba95d155eeaa5125d16c8d61bfa9]: Textual amendment: Words in [rule 9(c)](https://www.legislation.gov.uk/uksi/2015/423/rule/9/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-ba01654081ddda05bbce2a74c5a68932]: Commencement: Rule 10 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-ba01654081ddda05bbce2a74c5a68932]: Commencement: Rule 10 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-798dae5f5d34f2c48852eda019afad7f]: Commencement: Rule 11 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-798dae5f5d34f2c48852eda019afad7f]: Commencement: Rule 11 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-7a6b3c4a0b4648a9411edfb2b50c4c07]: Commencement: Rule 12 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-7a6b3c4a0b4648a9411edfb2b50c4c07]: Commencement: Rule 12 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-f6fee735e36a328f9f45cd655a3ab260]: Commencement: Rule 13 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-f6fee735e36a328f9f45cd655a3ab260]: Commencement: Rule 13 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-2aedf29de7520f658cf036a7eee04efa]: Commencement: Rule 14 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-2aedf29de7520f658cf036a7eee04efa]: Commencement: Rule 14 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-5271cf372df7f7cd7c14a684dc363544]: Commencement: Rule 15 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-5271cf372df7f7cd7c14a684dc363544]: Commencement: Rule 15 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
 
-[^key-38c1f54ac44220cf0832fb46249e6a4e]: Commencement: Rule 16 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)
+[^c-38c1f54ac44220cf0832fb46249e6a4e]: Commencement: Rule 16 comes into force in accordance with [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/423/rule/1/2)

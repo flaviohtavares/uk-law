@@ -32,7 +32,7 @@ summary: ''
 - (b) Rules M1(3)(d), M5(4) to (8) and M6(1)(b), (2) and (7) were omitted,
 - (c) Rule M8 was disapplied in relation to the PCC,
 - (d) Rules M14 to M42 were omitted, and
-- (e) despite Rule M1(2)(b) and (3), every residentiary canon of the cathedral and other clerk in Holy Orders , and any lay residentiary canon of the cathedral,[^key-96c3df8e24a8520e6a13d5ded76a5c3c] holding office in the cathedral were entitled to attend any annual or special parochial church meeting of the parish and to take part in its proceedings, whether or not the canon or other clerk , or lay residentiary canon,[^key-3618b6a61f13c06041b716bb0c71cb28] is resident in the parish.
+- (e) despite Rule M1(2)(b) and (3), every residentiary canon of the cathedral and other clerk in Holy Orders , and any lay residentiary canon of the cathedral,[^c-96c3df8e24a8520e6a13d5ded76a5c3c] holding office in the cathedral were entitled to attend any annual or special parochial church meeting of the parish and to take part in its proceedings, whether or not the canon or other clerk , or lay residentiary canon,[^c-3618b6a61f13c06041b716bb0c71cb28] is resident in the parish.
 
 (4) In its application to the parish concerned, the Parochial Church Councils (Powers) Measure 1956 has effect as if—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96c3df8e24a8520e6a13d5ded76a5c3c]: Textual amendment: Words in [s. 40(3)(e)](https://www.legislation.gov.uk/ukcm/2021/2/section/40/3/e) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 24(a)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24/a)
+[^c-96c3df8e24a8520e6a13d5ded76a5c3c]: Textual amendment: Words in [s. 40(3)(e)](https://www.legislation.gov.uk/ukcm/2021/2/section/40/3/e) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 24(a)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24/a)
 
-[^key-3618b6a61f13c06041b716bb0c71cb28]: Textual amendment: Words in [s. 40(3)(e)](https://www.legislation.gov.uk/ukcm/2021/2/section/40/3/e) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 24(b)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24/b)
+[^c-3618b6a61f13c06041b716bb0c71cb28]: Textual amendment: Words in [s. 40(3)(e)](https://www.legislation.gov.uk/ukcm/2021/2/section/40/3/e) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 24(b)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24/b)

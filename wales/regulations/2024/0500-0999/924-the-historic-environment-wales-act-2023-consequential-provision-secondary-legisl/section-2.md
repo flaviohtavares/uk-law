@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. ...[^key-c8ec5a21c7e728081bde908a093a280c][^key-c8ec5a21c7e728081bde908a093a280c]
+## 2. ...[^c-c8ec5a21c7e728081bde908a093a280c][^c-c8ec5a21c7e728081bde908a093a280c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8ec5a21c7e728081bde908a093a280c]: Textual amendment: Reg. 2 and cross-heading omitted (31.12.2024) by virtue of [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2024/1258/regulation/10)
+[^c-c8ec5a21c7e728081bde908a093a280c]: Textual amendment: Reg. 2 and cross-heading omitted (31.12.2024) by virtue of [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2024/1258/regulation/10)

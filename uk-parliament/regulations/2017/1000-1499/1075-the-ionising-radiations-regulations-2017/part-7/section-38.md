@@ -36,7 +36,7 @@ from any requirement or prohibition imposed by these Regulations and any such ex
 it is satisfied that—
 
 - (c) the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it; and
-- (d) compliance with the fundamental radiation protection provisions underlying regulations 9(1) and (2)(a), 12, 13(1), 17(1) and (3), 20(1), 21(1), 22(1), and[^key-2aa17f3a9c1855fc622e39d63f235df2] 25(2)[^key-dc7a731d62a44034924fd1ebf0ddd682]... will be achieved.
+- (d) compliance with the fundamental radiation protection provisions underlying regulations 9(1) and (2)(a), 12, 13(1), 17(1) and (3), 20(1), 21(1), 22(1), and[^c-2aa17f3a9c1855fc622e39d63f235df2] 25(2)[^c-dc7a731d62a44034924fd1ebf0ddd682]... will be achieved.
 
 (3) In this regulation, “**appropriate authority**” means—
 
@@ -45,6 +45,6 @@ it is satisfied that—
 
 ## Annotations
 
-[^key-2aa17f3a9c1855fc622e39d63f235df2]: Textual amendment: Word in [reg. 38(2)(d)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/38/2/d) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(6)(a)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/6/a)
+[^c-2aa17f3a9c1855fc622e39d63f235df2]: Textual amendment: Word in [reg. 38(2)(d)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/38/2/d) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(6)(a)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/6/a)
 
-[^key-dc7a731d62a44034924fd1ebf0ddd682]: Textual amendment: Words in [reg. 38(2)(d)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/38/2/d) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(6)(b)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/6/b)
+[^c-dc7a731d62a44034924fd1ebf0ddd682]: Textual amendment: Words in [reg. 38(2)(d)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/38/2/d) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(6)(b)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/6/b)

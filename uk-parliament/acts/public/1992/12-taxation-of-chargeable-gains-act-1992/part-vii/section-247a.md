@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247A. Provisional application of section 247.[^key-e7ad3b4c4354b638ea16a0b6c49090fd]
+## 247A. Provisional application of section 247.[^c-e7ad3b4c4354b638ea16a0b6c49090fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7ad3b4c4354b638ea16a0b6c49090fd]: Textual amendment: S. 247A inserted (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(6)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/6)
+[^c-e7ad3b4c4354b638ea16a0b6c49090fd]: Textual amendment: S. 247A inserted (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(6)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/6)

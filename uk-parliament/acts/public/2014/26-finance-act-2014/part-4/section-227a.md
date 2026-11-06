@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227A. Group relief claims after accelerated payment notices[^key-38e26ce9fd201ddb1441cfffcc65585a]
+## 227A. Group relief claims after accelerated payment notices[^c-38e26ce9fd201ddb1441cfffcc65585a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38e26ce9fd201ddb1441cfffcc65585a]: Textual amendment: S. 227A and cross-heading inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/9)
+[^c-38e26ce9fd201ddb1441cfffcc65585a]: Textual amendment: S. 227A and cross-heading inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/9)

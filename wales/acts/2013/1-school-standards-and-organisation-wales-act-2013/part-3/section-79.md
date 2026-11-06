@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Prohibition on local authorities establishing schools in England[^key-9110b123c94c687fc4981de3e9e6c020]
+## 79. Prohibition on local authorities establishing schools in England[^c-9110b123c94c687fc4981de3e9e6c020]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No proposals may be made for the establishment of a school in England which is p
 
 ## Annotations
 
-[^key-9110b123c94c687fc4981de3e9e6c020]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2013/1/section/79) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-9110b123c94c687fc4981de3e9e6c020]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2013/1/section/79) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

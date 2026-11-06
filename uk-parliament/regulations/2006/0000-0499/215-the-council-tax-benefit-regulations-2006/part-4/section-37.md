@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 37. Calculation of capital in the United Kingdom[^key-60e384c89ca64213fcd52ee17b842a79]
+## 37. Calculation of capital in the United Kingdom[^c-60e384c89ca64213fcd52ee17b842a79]
 
 Capital which a claimant possesses in the United Kingdom shall be calculated at its current market or surrender value less—
 
@@ -23,4 +23,4 @@ Capital which a claimant possesses in the United Kingdom shall be calculated at 
 
 ## Annotations
 
-[^key-60e384c89ca64213fcd52ee17b842a79]: Textual amendment: Reg. 37 substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [13(7)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/13/7)
+[^c-60e384c89ca64213fcd52ee17b842a79]: Textual amendment: Reg. 37 substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [13(7)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/13/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Events to be notified to the Panel[^key-80931edb57c3ce12398d60ee0be01395]
+## 14. Events to be notified to the Panel[^c-80931edb57c3ce12398d60ee0be01395]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In the Children Act 2004, after section 16B (inserted by section 13), insert—
 
 ## Annotations
 
-[^key-80931edb57c3ce12398d60ee0be01395]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/16/section/14) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/c)
+[^c-80931edb57c3ce12398d60ee0be01395]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/16/section/14) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/c)

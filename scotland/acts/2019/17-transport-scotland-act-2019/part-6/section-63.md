@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Disposal of removed motor vehicles[^key-e2d2f33c50a2c1c0b6f88eb84f38ab90]
+## 63. Disposal of removed motor vehicles[^c-e2d2f33c50a2c1c0b6f88eb84f38ab90]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2d2f33c50a2c1c0b6f88eb84f38ab90]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2019/17/section/63) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-e2d2f33c50a2c1c0b6f88eb84f38ab90]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2019/17/section/63) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 31. Land subject to rent etc.[^key-df68e9b7a196e66f9429515481497c96]
+## 31. Land subject to rent etc.[^c-df68e9b7a196e66f9429515481497c96]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df68e9b7a196e66f9429515481497c96]: Commencement: [S. 31](https://www.legislation.gov.uk/ukcm/2018/8/section/31) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-df68e9b7a196e66f9429515481497c96]: Commencement: [S. 31](https://www.legislation.gov.uk/ukcm/2018/8/section/31) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

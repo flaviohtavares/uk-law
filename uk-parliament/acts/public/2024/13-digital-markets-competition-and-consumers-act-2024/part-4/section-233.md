@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Rights of redress: further provision[^key-197154fc70a30a3c2a262685b34ce1e4][^key-23e39a25495a0a44e5aa89f8fdc6b65a]
+## 233. Rights of redress: further provision[^c-197154fc70a30a3c2a262685b34ce1e4][^c-23e39a25495a0a44e5aa89f8fdc6b65a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-197154fc70a30a3c2a262685b34ce1e4]: Commencement: S. 233 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-197154fc70a30a3c2a262685b34ce1e4]: Commencement: S. 233 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-23e39a25495a0a44e5aa89f8fdc6b65a]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2024/13/section/233) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-23e39a25495a0a44e5aa89f8fdc6b65a]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2024/13/section/233) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

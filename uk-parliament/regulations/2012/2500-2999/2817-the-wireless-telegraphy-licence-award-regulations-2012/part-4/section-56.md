@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Incomplete or defective primary bid form[^key-1fed89ecc46e1684046979c16d8db38f]
+## 56. Incomplete or defective primary bid form[^c-1fed89ecc46e1684046979c16d8db38f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fed89ecc46e1684046979c16d8db38f]: Commencement: Reg. 56 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-1fed89ecc46e1684046979c16d8db38f]: Commencement: Reg. 56 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

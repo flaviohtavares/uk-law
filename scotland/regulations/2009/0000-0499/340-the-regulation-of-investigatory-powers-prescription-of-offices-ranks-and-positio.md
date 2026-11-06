@@ -32,7 +32,7 @@ summary: ''
 
 Investigatory Powers
 
-The Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) (Scotland) Amendment Order 2009 (revoked)[^key-3af55608d055836260125401d0da8262]
+The Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) (Scotland) Amendment Order 2009 (revoked)[^c-3af55608d055836260125401d0da8262]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 30th November 2009
 
-[^key-3af55608d055836260125401d0da8262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3af55608d055836260125401d0da8262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3af55608d055836260125401d0da8262]
+## 1. Citation and commencement[^c-3af55608d055836260125401d0da8262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) (Scotland) Order 2000[^key-3af55608d055836260125401d0da8262]
+## 2. Amendment of the Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) (Scotland) Order 2000[^c-3af55608d055836260125401d0da8262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-3af55608d055836260125401d0da8262]
+## 3. Revocation[^c-3af55608d055836260125401d0da8262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3af55608d055836260125401d0da8262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3af55608d055836260125401d0da8262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3af55608d055836260125401d0da8262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3af55608d055836260125401d0da8262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3af55608d055836260125401d0da8262]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/340) revoked (29.11.2010) by [The Regulation of Investigatory Powers (Prescription of Offices, etc. and Specification of Public Authorities) (Scotland) Order 2010 (S.S.I. 2010/350)](https://www.legislation.gov.uk/ssi/2010/350), [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/350/article/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2010/350/schedule/2)
+[^c-3af55608d055836260125401d0da8262]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/340) revoked (29.11.2010) by [The Regulation of Investigatory Powers (Prescription of Offices, etc. and Specification of Public Authorities) (Scotland) Order 2010 (S.S.I. 2010/350)](https://www.legislation.gov.uk/ssi/2010/350), [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/350/article/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2010/350/schedule/2)

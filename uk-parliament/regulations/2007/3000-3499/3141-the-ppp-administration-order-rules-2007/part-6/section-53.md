@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Court records[^key-ba3d2e71074072916d9e77cbd7196de0]
+## 53. Court records[^c-ba3d2e71074072916d9e77cbd7196de0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court shall keep records of all PPP administration proceedings, and shall ca
 
 ## Annotations
 
-[^key-ba3d2e71074072916d9e77cbd7196de0]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2007/3141/rule/53) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-ba3d2e71074072916d9e77cbd7196de0]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2007/3141/rule/53) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

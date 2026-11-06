@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Scheme contributors[^key-ead51600a7d2d5c9fcc90386eaa224ad]
+## 14. Scheme contributors[^c-ead51600a7d2d5c9fcc90386eaa224ad]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ are not to be taken as evidence of anything relevant to the determination of any
 
 ## Annotations
 
-[^key-ead51600a7d2d5c9fcc90386eaa224ad]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/15/section/14) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-ead51600a7d2d5c9fcc90386eaa224ad]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/15/section/14) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

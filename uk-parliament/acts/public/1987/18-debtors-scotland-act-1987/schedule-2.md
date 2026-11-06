@@ -22,7 +22,7 @@ summary: ''
 
 Section 49.
 
-TABLE A: DEDUCTIONS FROM WEEKLY EARNINGS[^key-a56f79479f966fc73010b8d36b778de9]
+TABLE A: DEDUCTIONS FROM WEEKLY EARNINGS[^c-a56f79479f966fc73010b8d36b778de9]
 
 <table>
 <thead>
@@ -42,7 +42,7 @@ TABLE A: DEDUCTIONS FROM WEEKLY EARNINGS[^key-a56f79479f966fc73010b8d36b778de9]
 
 [^f01000]
 
-TABLE B: DEDUCTIONS FROM MONTHLY EARNINGS[^key-b316f995c1a9fd5db9e4f636b10fa48d]
+TABLE B: DEDUCTIONS FROM MONTHLY EARNINGS[^c-b316f995c1a9fd5db9e4f636b10fa48d]
 
 <table>
 <thead>
@@ -62,7 +62,7 @@ TABLE B: DEDUCTIONS FROM MONTHLY EARNINGS[^key-b316f995c1a9fd5db9e4f636b10fa48d]
 
 [^f01001]
 
-TABLE C: DEDUCTIONS FROM DAILY EARNINGS[^key-607d0b2e6284387123b10f91b0b19a76]
+TABLE C: DEDUCTIONS FROM DAILY EARNINGS[^c-607d0b2e6284387123b10f91b0b19a76]
 
 <table>
 <thead>
@@ -84,20 +84,20 @@ TABLE C: DEDUCTIONS FROM DAILY EARNINGS[^key-607d0b2e6284387123b10f91b0b19a76]
 
 ## Annotations
 
-[^key-a56f79479f966fc73010b8d36b778de9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/18/schedule/2) Table A substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [reg. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2024/293/schedule)
+[^c-a56f79479f966fc73010b8d36b778de9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/18/schedule/2) Table A substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [reg. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2024/293/schedule)
 
-[^f01000]: Footnote: (1)[^key-a56f79479f966fc73010b8d36b778de9]
-
-    When applying a percentage the calculation should be done to two decimal places of a penny and the result rounded to the nearest whole penny, with an exact half penny being rounded down.
-
-[^key-b316f995c1a9fd5db9e4f636b10fa48d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/18/schedule/2) Table B substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [reg. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2024/293/schedule)
-
-[^f01001]: Footnote: (1)[^key-b316f995c1a9fd5db9e4f636b10fa48d]
+[^f01000]: Footnote: (1)[^c-a56f79479f966fc73010b8d36b778de9]
 
     When applying a percentage the calculation should be done to two decimal places of a penny and the result rounded to the nearest whole penny, with an exact half penny being rounded down.
 
-[^key-607d0b2e6284387123b10f91b0b19a76]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/18/schedule/2) Table C substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [reg. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2024/293/schedule)
+[^c-b316f995c1a9fd5db9e4f636b10fa48d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/18/schedule/2) Table B substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [reg. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2024/293/schedule)
 
-[^f01002]: Footnote: (1)[^key-607d0b2e6284387123b10f91b0b19a76]
+[^f01001]: Footnote: (1)[^c-b316f995c1a9fd5db9e4f636b10fa48d]
+
+    When applying a percentage the calculation should be done to two decimal places of a penny and the result rounded to the nearest whole penny, with an exact half penny being rounded down.
+
+[^c-607d0b2e6284387123b10f91b0b19a76]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/18/schedule/2) Table C substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [reg. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2024/293/schedule)
+
+[^f01002]: Footnote: (1)[^c-607d0b2e6284387123b10f91b0b19a76]
 
     When applying a percentage the calculation should be done to two decimal places of a penny and the result rounded to the nearest whole penny, with an exact half penny being rounded down.

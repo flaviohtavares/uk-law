@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Notional capital[^key-b64364cb255d1d0add7d0f881357fda1]
+## 37. Notional capital[^c-b64364cb255d1d0add7d0f881357fda1]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ any capital which would have become available to the relevant person upon applic
 
 ## Annotations
 
-[^key-b64364cb255d1d0add7d0f881357fda1]: Commencement: Reg. 37 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-b64364cb255d1d0add7d0f881357fda1]: Commencement: Reg. 37 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

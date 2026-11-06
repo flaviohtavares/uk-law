@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Compensation for loss or damage caused by stop notice[^key-0852327ef29dadf8e5d69ec3456fb47f]
+## 152. Compensation for loss or damage caused by stop notice[^c-0852327ef29dadf8e5d69ec3456fb47f]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0852327ef29dadf8e5d69ec3456fb47f]: Commencement: S. 152 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0852327ef29dadf8e5d69ec3456fb47f]: Commencement: S. 152 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

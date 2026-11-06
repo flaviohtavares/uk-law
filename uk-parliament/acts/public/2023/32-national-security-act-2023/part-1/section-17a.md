@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Supporting a designated body[^key-e826a7a7c945d8a9a3d636c947af286e]
+## 17A. Supporting a designated body[^c-e826a7a7c945d8a9a3d636c947af286e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e826a7a7c945d8a9a3d636c947af286e]: Textual amendment: [Ss. 17A-17C](https://www.legislation.gov.uk/ukpga/2023/32/section/17A) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/2/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-e826a7a7c945d8a9a3d636c947af286e]: Textual amendment: [Ss. 17A-17C](https://www.legislation.gov.uk/ukpga/2023/32/section/17A) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/2/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)

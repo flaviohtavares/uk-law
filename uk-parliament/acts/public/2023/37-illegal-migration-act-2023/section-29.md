@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Disapplication of modern slavery provisions[^key-db2cda1ceee420b4bc9cb45f2b402350]
+## 29. Disapplication of modern slavery provisions[^c-db2cda1ceee420b4bc9cb45f2b402350]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db2cda1ceee420b4bc9cb45f2b402350]: Commencement: S. 29 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)
+[^c-db2cda1ceee420b4bc9cb45f2b402350]: Commencement: S. 29 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)

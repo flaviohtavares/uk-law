@@ -121,7 +121,7 @@ and for his transfer in custody to the place where he is liable to be detained u
 (5) In this paragraph “**prisoner**” means—
 
 - (a) a person serving a sentence in a prison or other institution to which the Prison Act 1952 (c. 52), the Prisons (Scotland) Act 1989 or the Prisons Act (Northern Ireland) 1953 applies, or
-- (b) a person serving a sentence of service detention (within the meaning of the Armed Forces Act 2006)[^key-b4a7ff87dd6b219e9e1883ee6d6f42bd] or imprisonment imposed by a service court.
+- (b) a person serving a sentence of service detention (within the meaning of the Armed Forces Act 2006)[^c-b4a7ff87dd6b219e9e1883ee6d6f42bd] or imprisonment imposed by a service court.
 
 #### 6. Power to suspend or revoke other orders
 
@@ -245,7 +245,7 @@ the court may make any order necessary to enable the person to be delivered up u
 
 ## Annotations
 
-[^key-b4a7ff87dd6b219e9e1883ee6d6f42bd]: Textual amendment: Words in Sch. 2 para. 5(5)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 191](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/191); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b4a7ff87dd6b219e9e1883ee6d6f42bd]: Textual amendment: Words in Sch. 2 para. 5(5)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 191](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/191); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c18070561]: Textual amendment: [Sch. 2 Pt. 2 para. 7](https://www.legislation.gov.uk/ukpga/2001/17/schedule/2/part/2/paragraph/7) substituted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 219](https://www.legislation.gov.uk/ukpga/2003/41/section/219), [Sch. 3 para. 13(1)(2)](https://www.legislation.gov.uk/ukpga/2003/41/schedule/3/paragraph/13/1/2); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Registration for students[^key-2f76445df049ef795e7b5fa0c946b94e]
+## 9. Registration for students[^c-2f76445df049ef795e7b5fa0c946b94e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ After section 8, insert—
 
 ## Annotations
 
-[^key-2f76445df049ef795e7b5fa0c946b94e]: Commencement: Art. 9 comes into force in accordance with art. 1(3)-(6)
+[^c-2f76445df049ef795e7b5fa0c946b94e]: Commencement: Art. 9 comes into force in accordance with art. 1(3)-(6)

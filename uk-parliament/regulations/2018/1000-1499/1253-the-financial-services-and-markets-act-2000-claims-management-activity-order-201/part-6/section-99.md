@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 99. Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-cc98c7fc2e6c19f192b56cc48e72ebce][^key-d8947143344d37b75e855dce5ec9f4d5]
+## 99. Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-cc98c7fc2e6c19f192b56cc48e72ebce][^c-d8947143344d37b75e855dce5ec9f4d5]
 
 *Extent: E+W+S*
 
@@ -39,9 +39,9 @@ summary: ''
 
 ## Annotations
 
-[^key-cc98c7fc2e6c19f192b56cc48e72ebce]: Commencement: Art. 99 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-cc98c7fc2e6c19f192b56cc48e72ebce]: Commencement: Art. 99 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-d8947143344d37b75e855dce5ec9f4d5]: Commencement: [Art. 99](https://www.legislation.gov.uk/uksi/2018/1253/article/99) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-d8947143344d37b75e855dce5ec9f4d5]: Commencement: [Art. 99](https://www.legislation.gov.uk/uksi/2018/1253/article/99) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00138]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), as amended by [S.I. 2009/2877](https://www.legislation.gov.uk/uksi/2009/2877) and [2012/916](https://www.legislation.gov.uk/uksi/2012/916). There are other amendments, but they are not relevant.
 

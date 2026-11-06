@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 225. Appeal against a decision of the Department[^key-bdbca3b98e960108f706cff709fa937e]
+## 225. Appeal against a decision of the Department[^c-bdbca3b98e960108f706cff709fa937e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdbca3b98e960108f706cff709fa937e]: Commencement: Rule 225 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-bdbca3b98e960108f706cff709fa937e]: Commencement: Rule 225 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

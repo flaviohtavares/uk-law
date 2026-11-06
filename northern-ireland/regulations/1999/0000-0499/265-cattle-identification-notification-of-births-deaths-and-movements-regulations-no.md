@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of Agriculture, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6fc507edc3992c748a99994573db8b47]
+## 1. Citation and commencement[^c-6fc507edc3992c748a99994573db8b47]
 
 (1) These Regulations may be cited as the Cattle Identification (Notification of Births, Deaths and Movements) Regulations (Northern Ireland) 1999 and shall come into operation on 26th July 1999.
 
@@ -52,7 +52,7 @@ The Department of Agriculture, being a Department designated[^f00001] for the pu
 
 (3) These Regulations shall, insofar as they relate to the duty to notify the movement or death of an animal, apply in the case of any such movement or death on or after 26th July 1999.
 
-## 2. Interpretation[^key-df5ceb67f721dbb46abeccf555d28ce8]
+## 2. Interpretation[^c-df5ceb67f721dbb46abeccf555d28ce8]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
@@ -68,24 +68,24 @@ The Department of Agriculture, being a Department designated[^f00001] for the pu
 - “notification document” means the pre-printed document supplied by the Department to the keepers of animals for use in the notification of the birth, movement or death of those animals in accordance with these Regulations; and
 - “premises” includes any place, installation, vehicle, ship, vessel, boat, craft, hovercraft or aircraft in which animals or carcases may be held or kept.
 
-## 3. Competent authority[^key-cd680c483bf47de3d6dfca74c7b94e4f]
+## 3. Competent authority[^c-cd680c483bf47de3d6dfca74c7b94e4f]
 
 The Department shall be the competent authority to which reports shall be made in accordance with the second indent of Article 7.1 of the Council Regulation.
 
-## 4. Address for notification[^key-35136b25f193a60065c840f3a0237fdb]
+## 4. Address for notification[^c-35136b25f193a60065c840f3a0237fdb]
 
 Where these Regulations require the keeper of an animal to deliver a notification document to the Department that document shall be—
 
 - (a) given by the keeper personally to an inspector; or
 - (b) sent to the Divisional Veterinary Office of the Department for the area in which the animal is kept.
 
-## 5. Offences[^key-02eca8d4434a65af8a9d4f601a4f04f2]
+## 5. Offences[^c-02eca8d4434a65af8a9d4f601a4f04f2]
 
 (1) Any person who fails to comply with the requirement to notify the birth, movement or death of any animal in accordance with the second indent of Article 7.1 of the Council Regulation in the manner provided for in, and within the time limits specified by, these Regulations shall be guilty of an offence.
 
 (2) Any person who knowingly or recklessly provides information which he knows or believes to be false in any notification sent by him under these Regulations, shall be guilty of an offence.
 
-## 6. Notification of birth[^key-398243859c0a39c0a066b36187749b16]
+## 6. Notification of birth[^c-398243859c0a39c0a066b36187749b16]
 
 (1) The notification of the birth of an animal in accordance with the second indent of Article 7.1 of the Council Regulation shall be by a notification document delivered to the Department by the keeper of the animal in accordance with Article 6.3 of the Commission Regulation.
 
@@ -93,7 +93,7 @@ Where these Regulations require the keeper of an animal to deliver a notificatio
 
 (3) Each notification document delivered in accordance with this regulation shall be signed and dated by the keeper who sent it.
 
-## 7. Notification of cattle movement[^key-27b5963a0f14171806873006d4683728]
+## 7. Notification of cattle movement[^c-27b5963a0f14171806873006d4683728]
 
 (1) Subject to regulation 9, the notification of movement of cattle in accordance with the second indent of Article 7.1 of the Council Regulation shall be by the keeper either—
 
@@ -116,7 +116,7 @@ and delivering that document to the Department in accordance with paragraph (2).
 
 (5) Any person who fails to comply with any requirement imposed on him by or under paragraph (4) shall be guilty of an offence.
 
-## 8. Notification of death[^key-580992068faded9693a0bfc47609c348]
+## 8. Notification of death[^c-580992068faded9693a0bfc47609c348]
 
 (1) The notification of the death of an animal in accordance with the second indent of Article 7.1 of the Council Regulation and Article 6.3 of the Commission Regulation shall be by the keeper correctly completing a notification document with the details of the death of the animal and delivering it to the Department within 7 days in accordance with Article 6.4 of the Council Regulation.
 
@@ -127,7 +127,7 @@ and delivering that document to the Department in accordance with paragraph (2).
 - (c) the date and manner of the animal’s death; and
 - (d) the details of the manner and place in which the animal’s carcase has been buried or destroyed.
 
-## 9. Electronic notification[^key-b4cb1ed4b4b1346023396a4bf3f76ecb]
+## 9. Electronic notification[^c-b4cb1ed4b4b1346023396a4bf3f76ecb]
 
 (1) The Department may authorise any person to notify movement of an animal for the purposes of regulation 7 by electronic means.
 
@@ -144,11 +144,11 @@ and delivering that document to the Department in accordance with paragraph (2).
 
 (6) For the purposes of paragraph (4), a person has a “legitimate interest” in acquiring information under that paragraph if it is relevant to his business or profession or, in the case of a charity, consumer organisation or similar body, to that body’s particular interest.
 
-## 10. Charging for information[^key-f41385d8f7c038d1ef8fad3a252a5617]
+## 10. Charging for information[^c-f41385d8f7c038d1ef8fad3a252a5617]
 
 The Department may make a reasonable charge (up to and including the full economic cost) for the provision of information which is stored in the database required by Article 5 of the Council Regulation and which is provided in accordance with the second paragraph of Article 3 of that Regulation.
 
-## 11. Powers of inspectors[^key-c1e8e9f5ed46b5543cf9e5fcd6d62886]
+## 11. Powers of inspectors[^c-c1e8e9f5ed46b5543cf9e5fcd6d62886]
 
 (1) An inspector shall, on producing, if required to do so, some duly authenticated document showing his authority, have the right at all reasonable hours to enter any land or premises (other than domestic premises not being used in connection with any purpose to which these Regulations relate) for the purposes of ascertaining whether there is or has been any contravention of these Regulations.
 
@@ -161,13 +161,13 @@ The Department may make a reasonable charge (up to and including the full econom
 - (e) where records are kept by means of a computer, may require the records to be produced in a form in which they may be taken away; and
 - (f) take with him a representative of the European Commission acting for the purposes of the Council Regulation or any other person he considers necessary for the enforcement of these Regulations.
 
-## 12. Powers to restrict movements[^key-2599292838ac6a52e908720cc2f174e4]
+## 12. Powers to restrict movements[^c-2599292838ac6a52e908720cc2f174e4]
 
 (1) In accordance with the second paragraph of Article 21 of the Council Regulation, an officer of the Department may serve a notice on a keeper of animals on a holding restricting the movement of all of those animals, or such of them as may be specified in the notice, to or from the holding if he is satisfied that this is necessary for the proper enforcement of that Regulation.
 
 (2) Any person who fails to comply with a notice served under paragraph (1) shall be guilty of an offence.
 
-## 13. Obstruction[^key-94eeb98eeebb985bebf29833a3a167ae]
+## 13. Obstruction[^c-94eeb98eeebb985bebf29833a3a167ae]
 
 (1) A person shall not—
 
@@ -179,7 +179,7 @@ and any person who contravenes or fails to comply with this regulation shall be 
 
 (2) Nothing in paragraph (1)(b) above shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
 
-## 14. Penalties[^key-a6f7c7d9dd698c9b253d229482a3ccac]
+## 14. Penalties[^c-a6f7c7d9dd698c9b253d229482a3ccac]
 
 (1) A person guilty of an offence under regulation 13(1)(a) or (b) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
 
@@ -188,7 +188,7 @@ and any person who contravenes or fails to comply with this regulation shall be 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or to both;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-## 15. Revocation[^key-3ed787096ee0411dfa89c35b14900e00]
+## 15. Revocation[^c-3ed787096ee0411dfa89c35b14900e00]
 
 Sub-paragraph (d) of regulation 3(1) of the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998[^f00008] is hereby revoked.
 
@@ -219,9 +219,9 @@ Breach of regulation 13(1)(a) or (b) (obstruction) is punishable by a fine of le
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-6fc507edc3992c748a99994573db8b47]: Commencement: Reg. 1 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-6fc507edc3992c748a99994573db8b47]: Commencement: Reg. 1 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-df5ceb67f721dbb46abeccf555d28ce8]: Commencement: Reg. 2 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-df5ceb67f721dbb46abeccf555d28ce8]: Commencement: Reg. 2 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -229,34 +229,34 @@ Breach of regulation 13(1)(a) or (b) (obstruction) is punishable by a fine of le
 
 [^f00005]: Footnote: O.J. No. L117, 7.5.97, p. 1
 
-[^key-cd680c483bf47de3d6dfca74c7b94e4f]: Commencement: Reg. 3 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-cd680c483bf47de3d6dfca74c7b94e4f]: Commencement: Reg. 3 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-35136b25f193a60065c840f3a0237fdb]: Commencement: Reg. 4 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-35136b25f193a60065c840f3a0237fdb]: Commencement: Reg. 4 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-02eca8d4434a65af8a9d4f601a4f04f2]: Commencement: Reg. 5 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-02eca8d4434a65af8a9d4f601a4f04f2]: Commencement: Reg. 5 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-398243859c0a39c0a066b36187749b16]: Commencement: Reg. 6 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-398243859c0a39c0a066b36187749b16]: Commencement: Reg. 6 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279)
 
-[^key-27b5963a0f14171806873006d4683728]: Commencement: Reg. 7 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-27b5963a0f14171806873006d4683728]: Commencement: Reg. 7 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-580992068faded9693a0bfc47609c348]: Commencement: Reg. 8 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-580992068faded9693a0bfc47609c348]: Commencement: Reg. 8 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. & O. (N.I.) 1964 No. 31](https://www.legislation.gov.uk/nisro/1964/31) as amended by [S.R. 1981 No. 348](https://www.legislation.gov.uk/nisr/1981/348), [S.R. 1986 No. 48](https://www.legislation.gov.uk/nisr/1986/48), [S.R. 1994 No. 216](https://www.legislation.gov.uk/nisr/1994/216), [S.R. 1996 No. 9](https://www.legislation.gov.uk/nisr/1996/9) and [S.R. 1996 No. 240](https://www.legislation.gov.uk/nisr/1996/240)
 
-[^key-b4cb1ed4b4b1346023396a4bf3f76ecb]: Commencement: Reg. 9 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-b4cb1ed4b4b1346023396a4bf3f76ecb]: Commencement: Reg. 9 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-f41385d8f7c038d1ef8fad3a252a5617]: Commencement: Reg. 10 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-f41385d8f7c038d1ef8fad3a252a5617]: Commencement: Reg. 10 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-c1e8e9f5ed46b5543cf9e5fcd6d62886]: Commencement: Reg. 11 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-c1e8e9f5ed46b5543cf9e5fcd6d62886]: Commencement: Reg. 11 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-2599292838ac6a52e908720cc2f174e4]: Commencement: Reg. 12 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-2599292838ac6a52e908720cc2f174e4]: Commencement: Reg. 12 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-94eeb98eeebb985bebf29833a3a167ae]: Commencement: Reg. 13 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-94eeb98eeebb985bebf29833a3a167ae]: Commencement: Reg. 13 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-a6f7c7d9dd698c9b253d229482a3ccac]: Commencement: Reg. 14 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-a6f7c7d9dd698c9b253d229482a3ccac]: Commencement: Reg. 14 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
-[^key-3ed787096ee0411dfa89c35b14900e00]: Commencement: Reg. 15 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
+[^c-3ed787096ee0411dfa89c35b14900e00]: Commencement: Reg. 15 in operation at 26.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/265/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1998 No. 27](https://www.legislation.gov.uk/nisr/1998/27)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Victims' Advisory Panel[^key-ddef2f41555409cab7fa03b1246630ed]
+## 55. Victims' Advisory Panel[^c-ddef2f41555409cab7fa03b1246630ed]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddef2f41555409cab7fa03b1246630ed]: Textual amendment: S. 55 and cross-heading repealed (5.11.2013) by [The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/2/b)
+[^c-ddef2f41555409cab7fa03b1246630ed]: Textual amendment: S. 55 and cross-heading repealed (5.11.2013) by [The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/2/b)

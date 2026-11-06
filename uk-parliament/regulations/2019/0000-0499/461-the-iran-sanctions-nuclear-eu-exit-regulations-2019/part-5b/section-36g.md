@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36G. Prohibition on port entry[^key-5bd0749f2d2e767bee5d86d7ac3dabe0]
+## 36G. Prohibition on port entry[^c-5bd0749f2d2e767bee5d86d7ac3dabe0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bd0749f2d2e767bee5d86d7ac3dabe0]: Textual amendment: [Pts. 5A](https://www.legislation.gov.uk/uksi/2019/461/part/5A), [5B](https://www.legislation.gov.uk/uksi/2019/461/part/5B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/983/regulation/8)
+[^c-5bd0749f2d2e767bee5d86d7ac3dabe0]: Textual amendment: [Pts. 5A](https://www.legislation.gov.uk/uksi/2019/461/part/5A), [5B](https://www.legislation.gov.uk/uksi/2019/461/part/5B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/983/regulation/8)

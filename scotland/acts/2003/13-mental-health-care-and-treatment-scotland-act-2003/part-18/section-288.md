@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 288. Payments to persons in hospital to meet personal expenses[^key-72e1e394ad484817e07411ff81b5a530]
+## 288. Payments to persons in hospital to meet personal expenses[^c-72e1e394ad484817e07411ff81b5a530]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72e1e394ad484817e07411ff81b5a530]: Commencement: S. 288 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-72e1e394ad484817e07411ff81b5a530]: Commencement: S. 288 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

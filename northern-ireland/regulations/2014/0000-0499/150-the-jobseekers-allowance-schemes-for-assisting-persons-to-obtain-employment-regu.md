@@ -125,11 +125,11 @@ A claimant who fails to comply with any requirement notified under regulation 5 
 
 ### 9. Good cause
 
-(1)[^key-172ef76a98b742a9e82871720bd02e7f] A claimant who fails to participate in the Scheme must show good cause for that failure within 5 working days of the date on which the Department notifies the claimant of the failure. *(affected by repeal, see note)*[^key-172ef76a98b742a9e82871720bd02e7f]
+(1)[^c-172ef76a98b742a9e82871720bd02e7f] A claimant who fails to participate in the Scheme must show good cause for that failure within 5 working days of the date on which the Department notifies the claimant of the failure. *(affected by repeal, see note)*[^c-172ef76a98b742a9e82871720bd02e7f]
 
-(2) The Department must determine whether the claimant has failed to participate in the Scheme and, if so, whether the claimant has shown good cause for the failure. *(affected by repeal, see note)*[^key-172ef76a98b742a9e82871720bd02e7f]
+(2) The Department must determine whether the claimant has failed to participate in the Scheme and, if so, whether the claimant has shown good cause for the failure. *(affected by repeal, see note)*[^c-172ef76a98b742a9e82871720bd02e7f]
 
-(3) In deciding whether the claimant has shown good cause for the failure, the Department must take account of all the circumstances of the case, including in particular the claimant's physical or mental health or condition. *(affected by repeal, see note)*[^key-172ef76a98b742a9e82871720bd02e7f]
+(3) In deciding whether the claimant has shown good cause for the failure, the Department must take account of all the circumstances of the case, including in particular the claimant's physical or mental health or condition. *(affected by repeal, see note)*[^c-172ef76a98b742a9e82871720bd02e7f]
 
 ### 10. Consequences of failure to participate in the Scheme
 
@@ -407,8 +407,8 @@ whichever is later.
 (2) The functions are any function under—
 
 - (a) regulation 5 (requirement to participate and notification);
-- (b) regulation 6(3)(a) (notice that requirement to participate ceases); and *(affected by repeal, see note)*[^key-3ea0fa44d4cfc84f70b216d6264c9145]
-- (c) regulation 10(8)(b) and (11) (requirements and notices after failures). *(affected by repeal, see note)*[^key-3ea0fa44d4cfc84f70b216d6264c9145]
+- (b) regulation 6(3)(a) (notice that requirement to participate ceases); and *(affected by repeal, see note)*[^c-3ea0fa44d4cfc84f70b216d6264c9145]
+- (c) regulation 10(8)(b) and (11) (requirements and notices after failures). *(affected by repeal, see note)*[^c-3ea0fa44d4cfc84f70b216d6264c9145]
 
 Sealed with the Official Seal of the Department for Social Development on 30th May 2014
 
@@ -498,7 +498,7 @@ In so far as these Regulations are required, for the purposes of regulations 13(
 
 [^c22113291]: Marginal citation: See Article 19A(10) of the Order for the meaning of the “jobseeking conditions”
 
-[^key-172ef76a98b742a9e82871720bd02e7f]: Textual amendment: Reg. 9 omitted (for specified purposes and with effect in accordance with reg. 1(1) of the amending Rule) by virtue of [The Jobseekers Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/241)](https://www.legislation.gov.uk/nisr/2016/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2016/241/regulation/6/3/a)
+[^c-172ef76a98b742a9e82871720bd02e7f]: Textual amendment: Reg. 9 omitted (for specified purposes and with effect in accordance with reg. 1(1) of the amending Rule) by virtue of [The Jobseekers Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/241)](https://www.legislation.gov.uk/nisr/2016/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2016/241/regulation/6/3/a)
 
 [^c22113301]: Marginal citation: S.R. [1987 No. 465](https://www.legislation.gov.uk/ukcm/1987/465); [regulation 26A](https://www.legislation.gov.uk/nisr/2014/150/regulation/26A) was inserted by regulation 2(14) of S.R. [1996 No. 354](https://www.legislation.gov.uk/ukcm/1996/354) and amended by regulation 3(4) of S.R. [2000 No. 215](https://www.legislation.gov.uk/ukcm/2000/215)
 
@@ -572,4 +572,4 @@ In so far as these Regulations are required, for the purposes of regulations 13(
 
 [^c22113651]: Marginal citation: S.R. [2008 No. 280](https://www.legislation.gov.uk/ukcm/2008/280)
 
-[^key-3ea0fa44d4cfc84f70b216d6264c9145]: Textual amendment: [Reg. 22(2)(c)](https://www.legislation.gov.uk/nisr/2014/150/regulation/22/2/c) and preceding word omitted (for specified purposes and with effect in accordance with reg. 1(1) of the amending Rule) by virtue of [The Jobseekers Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/241)](https://www.legislation.gov.uk/nisr/2016/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2016/241/regulation/6/3/b)
+[^c-3ea0fa44d4cfc84f70b216d6264c9145]: Textual amendment: [Reg. 22(2)(c)](https://www.legislation.gov.uk/nisr/2014/150/regulation/22/2/c) and preceding word omitted (for specified purposes and with effect in accordance with reg. 1(1) of the amending Rule) by virtue of [The Jobseekers Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/241)](https://www.legislation.gov.uk/nisr/2016/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2016/241/regulation/6/3/b)

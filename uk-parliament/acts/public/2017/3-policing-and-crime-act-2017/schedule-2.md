@@ -26,9 +26,9 @@ Section 9
 
 *Extent: E+W*
 
-**1.**[^c22723001][^key-377868daa9e9a18181c1d1c07aac9075] The Greater London Authority Act 1999 is amended as follows.
+**1.**[^c22723001][^c-377868daa9e9a18181c1d1c07aac9075] The Greater London Authority Act 1999 is amended as follows.
 
-**2.**[^c22723011][^key-5b4e326e8ed588b8bf918846d5b6dbad] In section 21 (disqualification from being the Mayor or an Assembly member) after subsection (1) insert—
+**2.**[^c22723011][^c-5b4e326e8ed588b8bf918846d5b6dbad] In section 21 (disqualification from being the Mayor or an Assembly member) after subsection (1) insert—
 
 > (1A) Subsection (1)(a) does not prevent a person appointed under section 67(1)(b) as the Deputy Mayor for Fire, or appointed under section 67(1)(b) and designated as the Deputy Mayor for Fire, from being elected as or being an Assembly member.
 
@@ -42,7 +42,7 @@ Section 9
 
 (3) Omit subsections (7) and (8).
 
-**5.**[^c22723041][^key-04a9b3073c22e7e70b90f740ff9f3dd4] (1) Section 60A (confirmation hearings etc for specified appointments by the Mayor) is amended as follows.
+**5.**[^c22723041][^c-04a9b3073c22e7e70b90f740ff9f3dd4] (1) Section 60A (confirmation hearings etc for specified appointments by the Mayor) is amended as follows.
 
 (2) In subsection (3) (offices to which section 60A applies)—
 
@@ -67,13 +67,13 @@ Section 9
 
 (3) Omit subsections (12) and (13).
 
-**7.**[^c22723061][^key-1453ea045452798594930f86e64ada7c] In section 67(1)(b) (power of Mayor to appoint ten members of staff in addition to the Mayor's political advisers) for “ten” substitute “ eleven ”.
+**7.**[^c22723061][^c-1453ea045452798594930f86e64ada7c] In section 67(1)(b) (power of Mayor to appoint ten members of staff in addition to the Mayor's political advisers) for “ten” substitute “ eleven ”.
 
-**8.**[^c22723071][^key-83fa2adc85a5ef3e2ccb8a660313b1a3] In section 68 (disqualification and political restriction) after subsection (3) insert—
+**8.**[^c22723071][^c-83fa2adc85a5ef3e2ccb8a660313b1a3] In section 68 (disqualification and political restriction) after subsection (3) insert—
 
 > (3A) Subsections (1) and (2) above do not prevent a person appointed under section 67(1)(b) as the Deputy Mayor for Fire, or appointed under section 67(1)(b) and designated as the Deputy Mayor for Fire, from becoming or remaining a member of the Assembly or any other local authority within the meaning of sections 1, 2 and 3A of the Local Government and Housing Act 1989.
 
-**9.**[^c22723081][^key-28867704ddda9e13cba508bb85759389] In section 70 (terms and conditions of employment) after subsection (7) insert—
+**9.**[^c22723081][^c-28867704ddda9e13cba508bb85759389] In section 70 (terms and conditions of employment) after subsection (7) insert—
 
 > (7A) Subsection (3) does not prevent—
 >
@@ -82,7 +82,7 @@ Section 9
 >
 > from being required to perform any work or services as an Assembly member.
 
-**10.**[^c22723091][^key-896cd26e2579619ebfe3891a7ea04455][^key-c27406769f770c458f57a2b22d33ddf1][^M_I_9c6cecf2-e649-4ab3-baf9-38220a65d2be] After Part 6 insert—
+**10.**[^c22723091][^c-896cd26e2579619ebfe3891a7ea04455][^c-c27406769f770c458f57a2b22d33ddf1][^M_I_9c6cecf2-e649-4ab3-baf9-38220a65d2be] After Part 6 insert—
 
 > **Part 6A — The London Fire Commissioner**
 >
@@ -344,7 +344,7 @@ Section 9
 
 .
 
-**14.**[^c22723131][^key-5ca20bba9a154f9f617e21c72a92986d] (1) Schedule 4A (confirmation hearings etc for specified appointments) is amended as follows.
+**14.**[^c22723131][^c-5ca20bba9a154f9f617e21c72a92986d] (1) Schedule 4A (confirmation hearings etc for specified appointments) is amended as follows.
 
 (2) In paragraph 1 after sub-paragraph (7) insert—
 
@@ -383,7 +383,7 @@ Section 9
 >
 > (5) For that purpose, the Assembly makes that decision by the required majority if at least two-thirds of the votes given in making that decision are votes in favour of making that decision.
 
-**15.**[^c22723141][^key-b7301135958707af5979b067c9f73ff9][^M_I_8a4f1a99-373b-4e42-9b64-7ac88a40fe16] After Schedule 27 insert—
+**15.**[^c22723141][^c-b7301135958707af5979b067c9f73ff9][^M_I_8a4f1a99-373b-4e42-9b64-7ac88a40fe16] After Schedule 27 insert—
 
 > **Schedule 27A — The London Fire Commissioner**
 >
@@ -524,7 +524,7 @@ Section 9
 
 #### Local Government Act 1972 (c. 70)
 
-**35.**[^c22723341][^key-877828a9cced79a597e39986da1eafda] The Local Government Act 1972 is amended as follows.
+**35.**[^c22723341][^c-877828a9cced79a597e39986da1eafda] The Local Government Act 1972 is amended as follows.
 
 **36.**[^c22723351][^M_I_f69c5d59-f705-48f6-d10b-578477c72496] In section 70 (restriction on promotion of Bills for changing local government areas etc) for subsection (2) substitute—
 
@@ -562,7 +562,7 @@ Section 9
 
 > (4) This section shall have effect as if any reference to a local authority included a reference to the London Fire Commissioner.
 
-**43.**[^c22723421][^key-4bb8036f78ad29ccabba4db015c6074f][^M_I_bb570027-f320-4811-df26-401fa5c5dd67] (1) Section 146A (application of miscellaneous provisions about local authorities to other authorities) is amended as follows.
+**43.**[^c22723421][^c-4bb8036f78ad29ccabba4db015c6074f][^M_I_bb570027-f320-4811-df26-401fa5c5dd67] (1) Section 146A (application of miscellaneous provisions about local authorities to other authorities) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -789,9 +789,9 @@ Section 9
 
 *Extent: E+W+S*
 
-**85.**[^c22723841][^key-6711ae58c35015911e70df3af8ab85ad] The Local Government and Housing Act 1989 is amended as follows.
+**85.**[^c22723841][^c-6711ae58c35015911e70df3af8ab85ad] The Local Government and Housing Act 1989 is amended as follows.
 
-**86.**[^c22723851][^key-708d69c6289ea734a61dd148d1b0b69d] In section 1(9) (meaning of politically restricted post under a local authority) for “and every member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004” (as inserted by paragraph 61 of Schedule 1) substitute “every member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 and every member of staff of the London Fire Commissioner”.
+**86.**[^c22723851][^c-708d69c6289ea734a61dd148d1b0b69d] In section 1(9) (meaning of politically restricted post under a local authority) for “and every member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004” (as inserted by paragraph 61 of Schedule 1) substitute “every member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 and every member of staff of the London Fire Commissioner”.
 
 **87.**[^c22723861][^M_I_2c5edcd0-81a6-452e-fd0a-fe2409bdc1da] (1) Section 4 (designation and reports of head of paid service) is amended as follows.
 
@@ -823,11 +823,11 @@ Section 9
 
 (4) In subsection (8) in paragraph (a) of the definition of “relevant authority” for “and a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004” (as inserted by paragraph 63(4) of Schedule 1) substitute “, a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 and the London Fire Commissioner”.
 
-**89.**[^c22723881] (1)[^key-54aef3aba33d05928f76d306af83eabb] Section 21 (interpretation of Part 1) is amended as follows.
+**89.**[^c22723881] (1)[^c-54aef3aba33d05928f76d306af83eabb] Section 21 (interpretation of Part 1) is amended as follows.
 
 (2)[^M_I_dab6a7cf-0095-4fd5-89fe-65e148f23de4] In subsection (1)(i) omit “or the London Fire and Emergency Planning Authority”.
 
-(3)[^key-42e6e7215326c17d1b67613ad048e89a] After subsection (1B) (as inserted by paragraph 64 of Schedule 1) insert—
+(3)[^c-42e6e7215326c17d1b67613ad048e89a] After subsection (1B) (as inserted by paragraph 64 of Schedule 1) insert—
 
 > (1C) In the following provisions of this Part references to a local authority include the London Fire Commissioner—
 >
@@ -1047,11 +1047,11 @@ Section 9
 
 [^c22723001]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/1) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-377868daa9e9a18181c1d1c07aac9075]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/1) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-377868daa9e9a18181c1d1c07aac9075]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/1) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
 [^c22723011]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/2) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5b4e326e8ed588b8bf918846d5b6dbad]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/2) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-5b4e326e8ed588b8bf918846d5b6dbad]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/2) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
 [^c22723021]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/3) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
@@ -1063,7 +1063,7 @@ Section 9
 
 [^c22723041]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/5) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-04a9b3073c22e7e70b90f740ff9f3dd4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/5) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-04a9b3073c22e7e70b90f740ff9f3dd4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/5) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
 [^c22723051]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/6) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
@@ -1071,21 +1071,21 @@ Section 9
 
 [^c22723061]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/7) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1453ea045452798594930f86e64ada7c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/7) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-1453ea045452798594930f86e64ada7c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/7) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
 [^c22723071]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/8) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-83fa2adc85a5ef3e2ccb8a660313b1a3]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/8) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-83fa2adc85a5ef3e2ccb8a660313b1a3]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/8) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
 [^c22723081]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/9) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-28867704ddda9e13cba508bb85759389]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/9) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-28867704ddda9e13cba508bb85759389]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/9) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
 [^c22723091]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/10) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-896cd26e2579619ebfe3891a7ea04455]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/10) in force at 1.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/ii)
+[^c-896cd26e2579619ebfe3891a7ea04455]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/10) in force at 1.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/ii)
 
-[^key-c27406769f770c458f57a2b22d33ddf1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/10) in force at 22.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/b)[(c)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/c)[(2)](https://www.legislation.gov.uk/uksi/2018/227/article/3/2)
+[^c-c27406769f770c458f57a2b22d33ddf1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/10) in force at 22.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/b)[(c)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/c)[(2)](https://www.legislation.gov.uk/uksi/2018/227/article/3/2)
 
 [^M_I_9c6cecf2-e649-4ab3-baf9-38220a65d2be]: Commencement: Sch. 2 para. 10 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
@@ -1103,11 +1103,11 @@ Section 9
 
 [^c22723131]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/14) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5ca20bba9a154f9f617e21c72a92986d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/14) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-5ca20bba9a154f9f617e21c72a92986d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/14) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
 [^c22723141]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/15) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b7301135958707af5979b067c9f73ff9]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/15) in force at 1.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/iii)
+[^c-b7301135958707af5979b067c9f73ff9]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/15) in force at 1.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/iii)
 
 [^M_I_8a4f1a99-373b-4e42-9b64-7ac88a40fe16]: Commencement: Sch. 2 para. 15 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
@@ -1189,7 +1189,7 @@ Section 9
 
 [^c22723341]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/35) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-877828a9cced79a597e39986da1eafda]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/35) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/i)
+[^c-877828a9cced79a597e39986da1eafda]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/35) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/i)
 
 [^c22723351]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/36) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
@@ -1221,7 +1221,7 @@ Section 9
 
 [^c22723421]: Commencement: Sch. 2 para. 43 in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4bb8036f78ad29ccabba4db015c6074f]: Commencement: Sch. 2 para. 43(1)(2)(b) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/i)
+[^c-4bb8036f78ad29ccabba4db015c6074f]: Commencement: Sch. 2 para. 43(1)(2)(b) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/i)
 
 [^M_I_bb570027-f320-4811-df26-401fa5c5dd67]: Commencement: Sch. 2 para. 43(2)(a)(3)(4) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
@@ -1391,11 +1391,11 @@ Section 9
 
 [^c22723841]: Commencement: [Sch. 2 para. 85](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/85) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6711ae58c35015911e70df3af8ab85ad]: Commencement: [Sch. 2 para. 85](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/85) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/ii)
+[^c-6711ae58c35015911e70df3af8ab85ad]: Commencement: [Sch. 2 para. 85](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/85) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/ii)
 
 [^c22723851]: Commencement: [Sch. 2 para. 86](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/86) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-708d69c6289ea734a61dd148d1b0b69d]: Commencement: [Sch. 2 para. 86](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/86) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/4/c/i)
+[^c-708d69c6289ea734a61dd148d1b0b69d]: Commencement: [Sch. 2 para. 86](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/86) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/4/c/i)
 
 [^c22723861]: Commencement: [Sch. 2 para. 87](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/87) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
@@ -1407,11 +1407,11 @@ Section 9
 
 [^c22723881]: Commencement: [Sch. 2 para. 89](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/89) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-54aef3aba33d05928f76d306af83eabb]: Commencement: [Sch. 2 para. 89(1)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/89/1) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/ii)
+[^c-54aef3aba33d05928f76d306af83eabb]: Commencement: [Sch. 2 para. 89(1)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/89/1) in force at 22.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/ii)
 
 [^M_I_dab6a7cf-0095-4fd5-89fe-65e148f23de4]: Commencement: Sch. 2 para. 89(2) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-42e6e7215326c17d1b67613ad048e89a]: Commencement: [Sch. 2 para. 89(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/89/3) in force at 22.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/iii)
+[^c-42e6e7215326c17d1b67613ad048e89a]: Commencement: [Sch. 2 para. 89(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/89/3) in force at 22.3.2018 for specified purposes by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 3(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/d/iii)
 
 [^c22723891]: Commencement: [Sch. 2 para. 90](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/90) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 

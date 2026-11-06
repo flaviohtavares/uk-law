@@ -42,7 +42,7 @@ and every officer of such a prison who performs custodial duties shall be a pris
 
 (5) The contractor and any sub-contractor of his shall each be under a duty to do all that he reasonably can (whether by giving directions to the officers of the prison or otherwise) to facilitate the exercise by the controller of all such functions as are mentioned in or conferred by subsection (4) above.
 
-(6)[^key-cdf7fdaa0c87b5ba556dd043592c70fb] The director must designate one or more medical officers for the prison.
+(6)[^c-cdf7fdaa0c87b5ba556dd043592c70fb] The director must designate one or more medical officers for the prison.
 
 (7) A person may be designated as a medical officer for the prison only if the person is a registered medical practitioner performing primary medical services for prisoners at the prison under the National Health Service (Scotland) Act 1978 (c.29).
 
@@ -54,4 +54,4 @@ and every officer of such a prison who performs custodial duties shall be a pris
 
 [^c13104321]: Textual amendment: Words in s. 107(4) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 115(4)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/115/4/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
 
-[^key-cdf7fdaa0c87b5ba556dd043592c70fb]: Textual amendment: [S. 107(6)](https://www.legislation.gov.uk/ukpga/1994/33/section/107/6)[(7)](https://www.legislation.gov.uk/ukpga/1994/33/section/107/7) substituted for s. 107(6)-(8) (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 110(3)](https://www.legislation.gov.uk/asp/2010/13/section/110/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)
+[^c-cdf7fdaa0c87b5ba556dd043592c70fb]: Textual amendment: [S. 107(6)](https://www.legislation.gov.uk/ukpga/1994/33/section/107/6)[(7)](https://www.legislation.gov.uk/ukpga/1994/33/section/107/7) substituted for s. 107(6)-(8) (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 110(3)](https://www.legislation.gov.uk/asp/2010/13/section/110/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)

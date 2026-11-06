@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32M. Interpretation of sections 32 to 32M[^key-874d0cf502973c159148a6c55bbf79a8]
+## 32M. Interpretation of sections 32 to 32M[^c-874d0cf502973c159148a6c55bbf79a8]
 
 *Extent: E+W+S*
 
-(1) In this section and sections 32 to 32LM[^key-ccd889c1d1c62c147d37cd773845bc73]—
+(1) In this section and sections 32 to 32LM[^c-ccd889c1d1c62c147d37cd773845bc73]—
 
-- “[^key-2e9fc69ec6c2b13d9a01a63eee8b6898]**accredited**”, in relation to an onshore wind generating station, means accredited by the Authority as a generating station which is capable of generating electricity from renewable sources; and “accredit” and “accreditation” are to be construed accordingly;
+- “[^c-2e9fc69ec6c2b13d9a01a63eee8b6898]**accredited**”, in relation to an onshore wind generating station, means accredited by the Authority as a generating station which is capable of generating electricity from renewable sources; and “accredit” and “accreditation” are to be construed accordingly;
 - “**additional capacity**”, in relation to an onshore wind generating station, means any generating capacity which does not form part of the original capacity of the station;
 - “**banding provision**” is to be construed in accordance with section 32D(3);
-- “bioliquid” has the meaning given by Article 2(h) of Directive[^key-94a155543461243e127cd5f751e6f2ce] [2009/28/EC](https://www.legislation.gov.uk/european/directive/2009/0028) of the European Parliament and of the Council on the promotion of the use of energy from renewable sources;
+- “bioliquid” has the meaning given by Article 2(h) of Directive[^c-94a155543461243e127cd5f751e6f2ce] [2009/28/EC](https://www.legislation.gov.uk/european/directive/2009/0028) of the European Parliament and of the Council on the promotion of the use of energy from renewable sources;
 - “**commissioned**”, in relation to an onshore wind generating station, means having completed such procedures and tests in relation to the station as constitute, at the time they are undertaken, the usual industry standards and practices for commissioning that type of generating station in order to demonstrate that it is capable of commercial operation
 - “**fossil fuel**” means—
   - (a) coal,
@@ -66,9 +66,9 @@ summary: ''
 - “**the renewables obligation**” is to be construed in accordance with section 32(4);
 - “**renewables obligation certificate**” is to be construed in accordance with section 32B;
 - “**renewables obligation order**” is to be construed in accordance with section 32;
-- “[^key-1d182829a90cba55421b28df7dd1ef0c]**renewables obligation closure order**” is to be construed in accordance with section 32LA;
+- “[^c-1d182829a90cba55421b28df7dd1ef0c]**renewables obligation closure order**” is to be construed in accordance with section 32LA;
 - “**renewable sources**” means sources of energy other than fossil fuel or nuclear fuel, but includes waste of which not more than a specified proportion is waste which is, or is derived from, fossil fuel;
-- “**specified**”, in relation to a renewables obligation order or a renewables obligation closure order[^key-4a090f72b88b50bebf3ef3b6cf582253], means specified in the order.
+- “**specified**”, in relation to a renewables obligation order or a renewables obligation closure order[^c-4a090f72b88b50bebf3ef3b6cf582253], means specified in the order.
 
 (2) For the purposes of the definition of “renewable sources”, a renewables obligation order may make provision—
 
@@ -96,7 +96,7 @@ summary: ''
 - (a) by virtue of this subsection, for those purposes, or
 - (b) if no provision has been made by virtue of paragraph (a), for the general or residual purposes of that Act.
 
-(7) A renewables obligation order may make provision, for the purposes of sections 32 to 32LM[^key-ee78015770f0db7715c76d88912fa488], about the circumstances in which electricity is to be regarded as having been supplied—
+(7) A renewables obligation order may make provision, for the purposes of sections 32 to 32LM[^c-ee78015770f0db7715c76d88912fa488], about the circumstances in which electricity is to be regarded as having been supplied—
 
 - (a) to customers in Great Britain;
 - (b) to customers in the relevant part of Great Britain;
@@ -104,16 +104,16 @@ summary: ''
 
 ## Annotations
 
-[^key-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)
+[^c-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)
 
-[^key-ccd889c1d1c62c147d37cd773845bc73]: Textual amendment: Word in [s. 32M(1)](https://www.legislation.gov.uk/ukpga/1989/29/section/32M/1) substituted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/section/81/3/a), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
+[^c-ccd889c1d1c62c147d37cd773845bc73]: Textual amendment: Word in [s. 32M(1)](https://www.legislation.gov.uk/ukpga/1989/29/section/32M/1) substituted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/section/81/3/a), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
 
-[^key-2e9fc69ec6c2b13d9a01a63eee8b6898]: Textual amendment: Words in s. 32M inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 80(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/80/3/b), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
+[^c-2e9fc69ec6c2b13d9a01a63eee8b6898]: Textual amendment: Words in s. 32M inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 80(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/80/3/b), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
 
-[^key-94a155543461243e127cd5f751e6f2ce]: Textual amendment: S. 32M(1) words inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order 2011 (S.I. 2011/984)](https://www.legislation.gov.uk/uksi/2011/984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/984/article/1/1), [2](https://www.legislation.gov.uk/uksi/2011/984/article/2)
+[^c-94a155543461243e127cd5f751e6f2ce]: Textual amendment: S. 32M(1) words inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order 2011 (S.I. 2011/984)](https://www.legislation.gov.uk/uksi/2011/984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/984/article/1/1), [2](https://www.legislation.gov.uk/uksi/2011/984/article/2)
 
-[^key-1d182829a90cba55421b28df7dd1ef0c]: Textual amendment: Words in s. 32M(1) inserted (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 55(2)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/55/2/b), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
+[^c-1d182829a90cba55421b28df7dd1ef0c]: Textual amendment: Words in s. 32M(1) inserted (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 55(2)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/55/2/b), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
 
-[^key-4a090f72b88b50bebf3ef3b6cf582253]: Textual amendment: Words in s. 32M(1) inserted (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 55(2)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/55/2/c), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
+[^c-4a090f72b88b50bebf3ef3b6cf582253]: Textual amendment: Words in s. 32M(1) inserted (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 55(2)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/55/2/c), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
 
-[^key-ee78015770f0db7715c76d88912fa488]: Textual amendment: Word in s. 32M(7) substituted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 81(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/81/3/b), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
+[^c-ee78015770f0db7715c76d88912fa488]: Textual amendment: Word in s. 32M(7) substituted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 81(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/81/3/b), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22A. Persons by whom safe road use test may be conducted[^key-047c0a03d12a51b3598b22a006428b5d]
+## 22A. Persons by whom safe road use test may be conducted[^c-047c0a03d12a51b3598b22a006428b5d]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-047c0a03d12a51b3598b22a006428b5d]: Textual amendment: Regs. 22A-22B inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2010/1203/regulation/7)
+[^c-047c0a03d12a51b3598b22a006428b5d]: Textual amendment: Regs. 22A-22B inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2010/1203/regulation/7)

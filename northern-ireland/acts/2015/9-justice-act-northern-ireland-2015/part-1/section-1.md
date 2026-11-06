@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Single jurisdiction: abolition of county court divisions and petty sessions districts[^key-8b63d789357e7b9c3dc47a0c85adf6b2]
+## 1. Single jurisdiction: abolition of county court divisions and petty sessions districts[^c-8b63d789357e7b9c3dc47a0c85adf6b2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b63d789357e7b9c3dc47a0c85adf6b2]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2015/9/section/1) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-8b63d789357e7b9c3dc47a0c85adf6b2]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2015/9/section/1) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

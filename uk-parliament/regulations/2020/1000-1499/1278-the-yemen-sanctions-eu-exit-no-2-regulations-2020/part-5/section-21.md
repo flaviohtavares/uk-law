@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Supply and delivery of military goods[^key-f7da57e9b644e934cd05208bd9bdc5e5][^key-1f223e5a98921b77da1a4c09984e7173]
+## 21. Supply and delivery of military goods[^c-f7da57e9b644e934cd05208bd9bdc5e5][^c-1f223e5a98921b77da1a4c09984e7173]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7da57e9b644e934cd05208bd9bdc5e5]: Commencement: Reg. 21 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-f7da57e9b644e934cd05208bd9bdc5e5]: Commencement: Reg. 21 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-1f223e5a98921b77da1a4c09984e7173]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1278/regulation/21) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-1f223e5a98921b77da1a4c09984e7173]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1278/regulation/21) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

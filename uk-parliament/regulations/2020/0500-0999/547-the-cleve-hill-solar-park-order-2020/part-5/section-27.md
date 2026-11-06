@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Recovery of costs of new connections[^key-68a2de28b000631f81d0e6de1dbf74a3]
+## 27. Recovery of costs of new connections[^c-68a2de28b000631f81d0e6de1dbf74a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-68a2de28b000631f81d0e6de1dbf74a3]: Commencement: Art. 27 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-68a2de28b000631f81d0e6de1dbf74a3]: Commencement: Art. 27 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
 [^c24507941]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)

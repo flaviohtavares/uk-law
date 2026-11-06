@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Hazardous waste: England and Wales[^key-918545fe2cac8c1d05b40f23ac448b32][^key-21d436bba9fa45cffd0c3add03181434][^key-c485928a6e90877629f639329cd672fc]
+## 60. Hazardous waste: England and Wales[^c-918545fe2cac8c1d05b40f23ac448b32][^c-21d436bba9fa45cffd0c3add03181434][^c-c485928a6e90877629f639329cd672fc]
 
 *Extent: E+W*
 
@@ -132,8 +132,8 @@ summary: ''
 
 ## Annotations
 
-[^key-918545fe2cac8c1d05b40f23ac448b32]: Commencement: S. 60 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)-(5)
+[^c-918545fe2cac8c1d05b40f23ac448b32]: Commencement: S. 60 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)-(5)
 
-[^key-21d436bba9fa45cffd0c3add03181434]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/30/section/60) in force at 24.1.2022 for E. by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/j)
+[^c-21d436bba9fa45cffd0c3add03181434]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/30/section/60) in force at 24.1.2022 for E. by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/j)
 
-[^key-c485928a6e90877629f639329cd672fc]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/30/section/60) in force at 7.3.2022 for W. by [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/b)
+[^c-c485928a6e90877629f639329cd672fc]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/30/section/60) in force at 7.3.2022 for W. by [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/b)

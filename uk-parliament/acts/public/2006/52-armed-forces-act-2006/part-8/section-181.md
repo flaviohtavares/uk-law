@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Breach, revocation or amendment of service community order[^key-4d48b9c2017c79d86304fa022f077088]
+## 181. Breach, revocation or amendment of service community order[^c-4d48b9c2017c79d86304fa022f077088]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 .
 
-(3)[^key-168ab8e784374f1b25ed429971717f7c] Part 1 has effect as if, after paragraph 5, the following paragraph were inserted—
+(3)[^c-168ab8e784374f1b25ed429971717f7c] Part 1 has effect as if, after paragraph 5, the following paragraph were inserted—
 
 > **Re-sentencing powers**
 >
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d48b9c2017c79d86304fa022f077088]: Textual amendment: S. 181 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/6) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4d48b9c2017c79d86304fa022f077088]: Textual amendment: S. 181 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/6) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-168ab8e784374f1b25ed429971717f7c]: Modification: [S. 181(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/181/3) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [s. 5(9)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/9)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-168ab8e784374f1b25ed429971717f7c]: Modification: [S. 181(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/181/3) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [s. 5(9)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/9)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)

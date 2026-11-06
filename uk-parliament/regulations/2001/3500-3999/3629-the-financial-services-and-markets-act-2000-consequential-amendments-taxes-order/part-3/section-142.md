@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Miscellaneous amendments[^key-47ab38c2a7fc8be0e30a02719ae21109]
+## 142. Miscellaneous amendments[^c-47ab38c2a7fc8be0e30a02719ae21109]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ In the following regulations of the Insurance Companies (Overseas Life Assurance
 
 ## Annotations
 
-[^key-47ab38c2a7fc8be0e30a02719ae21109]: Commencement: Art. 142 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-47ab38c2a7fc8be0e30a02719ae21109]: Commencement: Art. 142 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00134]: Footnote: Regulation 2(1) was relevantly amended by regulation 3(2) and (4) of S.I. [1999/2839](https://www.legislation.gov.uk/uksi/1999/2839).
 

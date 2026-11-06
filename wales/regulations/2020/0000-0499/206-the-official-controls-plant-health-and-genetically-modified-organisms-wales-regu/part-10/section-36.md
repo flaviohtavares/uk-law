@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Miscellaneous provisions as to notices[^key-c61b8d0140c3cf86d93b015490f96eb6]
+## 36. Miscellaneous provisions as to notices[^c-c61b8d0140c3cf86d93b015490f96eb6]
 
 *Extent: E+W*
 
-(1) This regulation applies to any notice given by a plant health inspector under these Regulations, other than a notice given under regulation 33(4) or Schedule 4A[^key-56e2a5411c12f4bd1d8a6a846fc6199f].
+(1) This regulation applies to any notice given by a plant health inspector under these Regulations, other than a notice given under regulation 33(4) or Schedule 4A[^c-56e2a5411c12f4bd1d8a6a846fc6199f].
 
 (2) The notice may—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c61b8d0140c3cf86d93b015490f96eb6]: Commencement: Reg. 36 in force at 27.3.2020, see reg. 1
+[^c-c61b8d0140c3cf86d93b015490f96eb6]: Commencement: Reg. 36 in force at 27.3.2020, see reg. 1
 
-[^key-56e2a5411c12f4bd1d8a6a846fc6199f]: Textual amendment: Words in reg. 36(1) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/3)
+[^c-56e2a5411c12f4bd1d8a6a846fc6199f]: Textual amendment: Words in reg. 36(1) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/3)

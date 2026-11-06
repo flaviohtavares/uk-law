@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Question to be asked in referendum[^key-ff6b9de6a27cf2347a202952f25cc419]
+## 3. Question to be asked in referendum[^c-ff6b9de6a27cf2347a202952f25cc419]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where the proposals in relation to which a referendum is to be held involve—
 
 ## Annotations
 
-[^key-ff6b9de6a27cf2347a202952f25cc419]: Commencement: Reg. 3 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-ff6b9de6a27cf2347a202952f25cc419]: Commencement: Reg. 3 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

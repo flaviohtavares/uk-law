@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — Status of footpaths created or improved[^key-43292a0357c8f28d7ee1f7a07288f61c]
+## SCHEDULE 7 — Status of footpaths created or improved[^c-43292a0357c8f28d7ee1f7a07288f61c]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ Article 16
 
 ## Annotations
 
-[^key-43292a0357c8f28d7ee1f7a07288f61c]: Commencement: Sch. 7 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-43292a0357c8f28d7ee1f7a07288f61c]: Commencement: Sch. 7 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

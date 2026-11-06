@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Enforcement of section 84[^key-0c5cf76ea2bbe65358822520143bce63]
+## 85. Enforcement of section 84[^c-0c5cf76ea2bbe65358822520143bce63]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5cf76ea2bbe65358822520143bce63]: Commencement: S. 85 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-0c5cf76ea2bbe65358822520143bce63]: Commencement: S. 85 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

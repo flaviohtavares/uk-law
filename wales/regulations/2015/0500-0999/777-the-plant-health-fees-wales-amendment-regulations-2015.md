@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Fees) (Wales) (Amendment) Regulations 2015 (revoked)[^key-56a7c94f8f710986db23b7ebfc19b148]
+The Plant Health (Fees) (Wales) (Amendment) Regulations 2015 (revoked)[^c-56a7c94f8f710986db23b7ebfc19b148]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 9 April 2015
 
-[^key-56a7c94f8f710986db23b7ebfc19b148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56a7c94f8f710986db23b7ebfc19b148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-56a7c94f8f710986db23b7ebfc19b148]
+## 1. Title, application and commencement[^c-56a7c94f8f710986db23b7ebfc19b148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Fees) (Wales) Regulations 2014[^key-56a7c94f8f710986db23b7ebfc19b148]
+## 2. Amendment of the Plant Health (Fees) (Wales) Regulations 2014[^c-56a7c94f8f710986db23b7ebfc19b148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 2(3)[^key-56a7c94f8f710986db23b7ebfc19b148]
+## 3. Regulation 2(3)[^c-56a7c94f8f710986db23b7ebfc19b148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Schedule 2[^key-56a7c94f8f710986db23b7ebfc19b148]
+## 4. Schedule 2[^c-56a7c94f8f710986db23b7ebfc19b148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56a7c94f8f710986db23b7ebfc19b148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56a7c94f8f710986db23b7ebfc19b148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-56a7c94f8f710986db23b7ebfc19b148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56a7c94f8f710986db23b7ebfc19b148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56a7c94f8f710986db23b7ebfc19b148]: Textual amendment: Regulations revoked (10.12.2018) by [The Plant Health etc. (Fees) (Wales) Regulations 2018 (S.I. 2018/1179)](https://www.legislation.gov.uk/uksi/2018/1179), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1179/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2018/1179/schedule/6)
+[^c-56a7c94f8f710986db23b7ebfc19b148]: Textual amendment: Regulations revoked (10.12.2018) by [The Plant Health etc. (Fees) (Wales) Regulations 2018 (S.I. 2018/1179)](https://www.legislation.gov.uk/uksi/2018/1179), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1179/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2018/1179/schedule/6)

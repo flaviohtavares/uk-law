@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 464. Revocation of the 1994 Regulations[^key-accae4704010203e667bd74be159bb93]
+## 464. Revocation of the 1994 Regulations[^c-accae4704010203e667bd74be159bb93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Friendly Societies (Insurance Business) Regulations 1994 are revoked.
 
 ## Annotations
 
-[^key-accae4704010203e667bd74be159bb93]: Commencement: Art. 464 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-accae4704010203e667bd74be159bb93]: Commencement: Art. 464 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

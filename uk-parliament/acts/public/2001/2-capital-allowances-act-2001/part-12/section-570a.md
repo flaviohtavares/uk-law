@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 570A. Avoidance affecting proceeds of balancing event[^key-a0e9221a13a0f56e1bca6882fe918b20]
+## 570A. Avoidance affecting proceeds of balancing event[^c-a0e9221a13a0f56e1bca6882fe918b20]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where an event occurs in relation to an asset (a “ **balancing event** ”) as a result of which a balancing allowance would (but for this section) fall to be made to a person (“the taxpayer”) under Part [^key-22365deaea1050b005a940352eecb4fe]..., 3A[^key-93b44dece17701467e9ca47ecc9a77f0] [^key-22365deaea1050b005a940352eecb4fe]... [^key-88c536fa232196d2c680b4e2399f534f]... 5 or 10.
+(1) This section applies where an event occurs in relation to an asset (a “ **balancing event** ”) as a result of which a balancing allowance would (but for this section) fall to be made to a person (“the taxpayer”) under Part [^c-22365deaea1050b005a940352eecb4fe]..., 3A[^c-93b44dece17701467e9ca47ecc9a77f0] [^c-22365deaea1050b005a940352eecb4fe]... [^c-88c536fa232196d2c680b4e2399f534f]... 5 or 10.
 
 (2) The taxpayer is not entitled to any balancing allowance if, as a result of a tax avoidance scheme, the amount to be brought into account as the proceeds from the event is less than it would otherwise have been.
 
@@ -35,10 +35,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a0e9221a13a0f56e1bca6882fe918b20]: Textual amendment: S. 570A and cross-heading inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) , [s. 164(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/1) (with [s. 164(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/2) )
+[^c-a0e9221a13a0f56e1bca6882fe918b20]: Textual amendment: S. 570A and cross-heading inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) , [s. 164(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/1) (with [s. 164(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/2) )
 
-[^key-22365deaea1050b005a940352eecb4fe]: Textual amendment: Word in s. 570A(1) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/17)
+[^c-22365deaea1050b005a940352eecb4fe]: Textual amendment: Word in s. 570A(1) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/17)
 
-[^key-93b44dece17701467e9ca47ecc9a77f0]: Textual amendment: Word in s. 570A(1) inserted (with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/9); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-93b44dece17701467e9ca47ecc9a77f0]: Textual amendment: Word in s. 570A(1) inserted (with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/9); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-88c536fa232196d2c680b4e2399f534f]: Textual amendment: Word in s. 570A(1) omitted (with effect in accordance with Sch. 39 para. 40 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 38(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/38/6) (with [Sch. 39 paras. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))
+[^c-88c536fa232196d2c680b4e2399f534f]: Textual amendment: Word in s. 570A(1) omitted (with effect in accordance with Sch. 39 para. 40 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 38(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/38/6) (with [Sch. 39 paras. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))

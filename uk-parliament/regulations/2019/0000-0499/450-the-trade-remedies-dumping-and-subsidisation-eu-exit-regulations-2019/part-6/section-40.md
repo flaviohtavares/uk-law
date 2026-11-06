@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. General provisions[^key-dbb1c5cbbd39c7a620cf9417f3037861]
+## 40. General provisions[^c-dbb1c5cbbd39c7a620cf9417f3037861]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb1c5cbbd39c7a620cf9417f3037861]: Commencement: Reg. 40 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-dbb1c5cbbd39c7a620cf9417f3037861]: Commencement: Reg. 40 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

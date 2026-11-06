@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.2. Exercise of court’s powers to which this Part applies[^key-8521a4d4a60d83a35eee9c421d6b430e]
+## 6.2. Exercise of court’s powers to which this Part applies[^c-8521a4d4a60d83a35eee9c421d6b430e]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8521a4d4a60d83a35eee9c421d6b430e]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/uksi/2025/909/rule/6.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8521a4d4a60d83a35eee9c421d6b430e]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/uksi/2025/909/rule/6.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00234]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 121 was amended by paragraph 16 of Schedule 8 to the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), paragraph 237 of Schedule 8 and Schedule 10 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), paragraph 99 of Schedule 10 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 49 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2) and paragraph 56 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).

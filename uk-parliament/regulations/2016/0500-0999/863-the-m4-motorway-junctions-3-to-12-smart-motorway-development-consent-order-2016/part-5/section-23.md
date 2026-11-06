@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Private rights over land[^key-f00ef2ce9a3f005f86a354d721dc30ac]
+## 23. Private rights over land[^c-f00ef2ce9a3f005f86a354d721dc30ac]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-f00ef2ce9a3f005f86a354d721dc30ac]: Commencement: Art. 23 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-f00ef2ce9a3f005f86a354d721dc30ac]: Commencement: Art. 23 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

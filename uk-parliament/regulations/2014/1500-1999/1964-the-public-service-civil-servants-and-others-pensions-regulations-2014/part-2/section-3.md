@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Establishment and scope[^key-642a9b53fd861074c1a5d152f8afcc7b]
+## 3. Establishment and scope[^c-642a9b53fd861074c1a5d152f8afcc7b]
 
 *Extent: E+W+S+N.I.*
 
 (1) A scheme is established for the payment of pensions and other benefits to or in respect of—
 
 - (a) civil servants[^f00037]; and
-- (b)[^key-ea7ba1f29d501120ff540d3920f31b0a] persons to whom this scheme may potentially relate by virtue of paragraph (2) and in respect of whom the Minister makes a determination under section 25(5) of the Act.
+- (b)[^c-ea7ba1f29d501120ff540d3920f31b0a] persons to whom this scheme may potentially relate by virtue of paragraph (2) and in respect of whom the Minister makes a determination under section 25(5) of the Act.
 
 (2) This scheme may potentially relate to the following persons—
 
@@ -42,11 +42,11 @@ summary: ''
 
 ## Annotations
 
-[^key-642a9b53fd861074c1a5d152f8afcc7b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1964/regulation/3) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-642a9b53fd861074c1a5d152f8afcc7b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1964/regulation/3) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00037]: Footnote: See paragraph 1 of Schedule 1 to the Act for the meaning of “civil servants”.
 
-[^key-ea7ba1f29d501120ff540d3920f31b0a]: Modification: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/3/1/b) modified (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/6/3), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-ea7ba1f29d501120ff540d3920f31b0a]: Modification: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/3/1/b) modified (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/6/3), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
 [^f00038]: Footnote: Schedule 1 was last amended by [S.I. 2014/555](https://www.legislation.gov.uk/uksi/2014/555).
 

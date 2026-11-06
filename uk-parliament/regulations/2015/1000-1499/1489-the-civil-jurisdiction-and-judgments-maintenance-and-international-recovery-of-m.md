@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Justice, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to private international law[^f00002], makes articles 1 to 4 of the following Order in exercise of the power under section 2(2) of that Act, and the Lord Chancellor makes article 5 of the following Order in exercise of the power under section 59 of the Crime and Courts Act 2013[^f00003]:
 
-## 1. Citation, extent and commencement[^key-41571c8e29f2ce4abc8947812c29bbc4]
+## 1. Citation, extent and commencement[^c-41571c8e29f2ce4abc8947812c29bbc4]
 
 (1) This Order may be cited as the Civil Jurisdiction and Judgments (Maintenance) and International Recovery of Maintenance (Hague Convention 2007 etc) (Amendment) Order 2015.
 
@@ -54,14 +54,14 @@ The Secretary of State for Justice, being a Minister designated for the purposes
 
 (3) This Order comes into force on 31st July 2015.
 
-## 2. Interpretation[^key-9e29e5bfedd13de19b2eee3d84942d5e]
+## 2. Interpretation[^c-9e29e5bfedd13de19b2eee3d84942d5e]
 
 In this Order—
 
 - “the 2011 Regulations” means the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011[^f00004]; and
 - “the 2012 Regulations” means the International Recovery of Maintenance (Hague Convention 2007 etc) Regulations 2012[^f00005].
 
-## 3. Amendment of Schedule 1 to the 2011 Regulations[^key-9d26be7ff98c5fa7e29fb9767b39292d]
+## 3. Amendment of Schedule 1 to the 2011 Regulations[^c-9d26be7ff98c5fa7e29fb9767b39292d]
 
 In paragraph 11 of Schedule 1 to the 2011 Regulations (establishment and modification of maintenance under the Maintenance Regulation)[^f00006]—
 
@@ -89,7 +89,7 @@ In paragraph 11 of Schedule 1 to the 2011 Regulations (establishment and modific
 
     .
 
-## 4. Amendment of Schedule 1 to the 2012 Regulations[^key-907993b3b80aeda011c46f860ecaf333]
+## 4. Amendment of Schedule 1 to the 2012 Regulations[^c-907993b3b80aeda011c46f860ecaf333]
 
 In paragraph 7 of Schedule 1 to the 2012 Regulations[^f00007] (applications for establishment or modification of maintenance in England and Wales)—
 
@@ -100,7 +100,7 @@ In paragraph 7 of Schedule 1 to the 2012 Regulations[^f00007] (applications for 
     - (aa) for “another Designated Family Judge area” substitute “the area covered by another Maintenance Enforcement Business Centre”; and
     - (bb) after “family court in” insert “the Maintenance Enforcement Business Centre for”.
 
-## 5. Amendment of Schedule 2 to the 2012 Regulations[^key-b71fd0a9c991474faaa07af4e178eb41]
+## 5. Amendment of Schedule 2 to the 2012 Regulations[^c-b71fd0a9c991474faaa07af4e178eb41]
 
 In paragraph 2 of Schedule 2 to the 2012 Regulations[^f00008] (interpretation), in the definition of “the creditor” for “where there is in force an order that the sum or sums of maintenance be paid to the designated officer of a magistrates’ court, that officer.” substitute “an officer of the family court, where the sum or sums of maintenance must be paid to the family court;”.
 
@@ -146,22 +146,22 @@ No impact assessment has been produced for this instrument because no, or minima
 
 [^f00003]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-41571c8e29f2ce4abc8947812c29bbc4]: Commencement: Art. 1 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
+[^c-41571c8e29f2ce4abc8947812c29bbc4]: Commencement: Art. 1 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
 
-[^key-9e29e5bfedd13de19b2eee3d84942d5e]: Commencement: Art. 2 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
+[^c-9e29e5bfedd13de19b2eee3d84942d5e]: Commencement: Art. 2 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
 
 [^f00004]: Footnote: [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
 [^f00005]: Footnote: [S.I. 2012/2814](https://www.legislation.gov.uk/uksi/2012/2814).
 
-[^key-9d26be7ff98c5fa7e29fb9767b39292d]: Commencement: Art. 3 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
+[^c-9d26be7ff98c5fa7e29fb9767b39292d]: Commencement: Art. 3 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
 
 [^f00006]: Footnote: Amended by [S.I. 2012/2814](https://www.legislation.gov.uk/uksi/2012/2814) and [2014/879](https://www.legislation.gov.uk/uksi/2014/879).
 
-[^key-907993b3b80aeda011c46f860ecaf333]: Commencement: Art. 4 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
+[^c-907993b3b80aeda011c46f860ecaf333]: Commencement: Art. 4 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
 
 [^f00007]: Footnote: Amended by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879).
 
-[^key-b71fd0a9c991474faaa07af4e178eb41]: Commencement: Art. 5 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
+[^c-b71fd0a9c991474faaa07af4e178eb41]: Commencement: Art. 5 in force at 31.7.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3)
 
 [^f00008]: Footnote: Amended by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879).

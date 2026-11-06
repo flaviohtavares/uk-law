@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.2. Meaning of ‘witness’ and ‘live link’[^key-f3ba0932fb7048fba85204f374f645e7]
+## 18.2. Meaning of ‘witness’ and ‘live link’[^c-f3ba0932fb7048fba85204f374f645e7]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In this Part—
 
 ## Annotations
 
-[^key-f3ba0932fb7048fba85204f374f645e7]: Commencement: [Rule 18.2](https://www.legislation.gov.uk/uksi/2025/909/rule/18.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f3ba0932fb7048fba85204f374f645e7]: Commencement: [Rule 18.2](https://www.legislation.gov.uk/uksi/2025/909/rule/18.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00444]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).

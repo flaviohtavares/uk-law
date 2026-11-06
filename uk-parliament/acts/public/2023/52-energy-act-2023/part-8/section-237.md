@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Interpretation of Chapter 2[^key-c17f5970750a9ea2339c3be74b09b383]
+## 237. Interpretation of Chapter 2[^c-c17f5970750a9ea2339c3be74b09b383]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-c17f5970750a9ea2339c3be74b09b383]: Commencement: S. 237 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c17f5970750a9ea2339c3be74b09b383]: Commencement: S. 237 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

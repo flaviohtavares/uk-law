@@ -26,7 +26,7 @@ Regulations C3(2), (3), (4) (and (6), C7(6), C15(1), D3(1) and (2) and E3(4), Sc
 
 ### Part I — Method A
 
-**1.**[^key-1266b0711bdcdc368ef03b5f3d517b2a] (1) In this Part—
+**1.**[^c-1266b0711bdcdc368ef03b5f3d517b2a] (1) In this Part—
 
 - “the contribution period” means the period specified under regulation C3(9)(*c*).
 - “the past period” means the period specified under regulation C3(9)(*a*);
@@ -39,7 +39,7 @@ Regulations C3(2), (3), (4) (and (6), C7(6), C15(1), D3(1) and (2) and E3(4), Sc
 - (a) he shall be treated as being in full-time pensionable employment; and
 - (b) his contributable salary is the notional salary described in regulation C6(7) or, as the case may be, regulation C7(4).
 
-**2.**[^key-167266fc25c88d3e5cbf98382705744e] (1) contribution period shall be one of not less than one year, and begins on the first day of the month following the expiry of a period of one month from the date of acceptance of the election by the Department.
+**2.**[^c-167266fc25c88d3e5cbf98382705744e] (1) contribution period shall be one of not less than one year, and begins on the first day of the month following the expiry of a period of one month from the date of acceptance of the election by the Department.
 
 (2) The contribution period and the past period shall be such that
 
@@ -50,7 +50,7 @@ where—
 - A is the rate at which the additional contributions are payable; and
 - B is the rate at which he pays other contributions under Part C (except any treated for the purposes of regulation G2 as employer’s contributions) or towards the provision of a pension otherwise than under these Regulations.
 
-**3.**[^key-3955172faab37b2451656a018ea601e7] Subject to paragraphs 4 and 5, the rate at which the additional contributions are payable is the percentage ascertained from Table 1 of his contributable salary for the time being.
+**3.**[^c-3955172faab37b2451656a018ea601e7] Subject to paragraphs 4 and 5, the rate at which the additional contributions are payable is the percentage ascertained from Table 1 of his contributable salary for the time being.
 
 **TABLE 1**
 
@@ -107,7 +107,7 @@ where—
 </tbody>
 </table>
 
-**4.**[^key-362d3778c32eb6ee40baccd7ad9dedfa] (1) At any time during the contribution period the person may, subject to paragraph 2, by giving written notice to the Department elect to shorten it or, if he has already made one or more such elections, to shorten it further.
+**4.**[^c-362d3778c32eb6ee40baccd7ad9dedfa] (1) At any time during the contribution period the person may, subject to paragraph 2, by giving written notice to the Department elect to shorten it or, if he has already made one or more such elections, to shorten it further.
 
 (2) An election under this paragraph—
 
@@ -128,7 +128,7 @@ where—
   - D is the number of years in the contribution period up to the effective date; and
   - E is the number of years in the contribution period.
 
-**5.**[^key-fc5c328ef34d9e64d12dd94bf018d6e7] (1) At any time during the contribution period the person may by giving written notice to the Department elect to reduce the rate at which the additional contributions are payable.
+**5.**[^c-fc5c328ef34d9e64d12dd94bf018d6e7] (1) At any time during the contribution period the person may by giving written notice to the Department elect to reduce the rate at which the additional contributions are payable.
 
 (2) An election under this paragraph shall specify whether the reduced rate is to be paid—
 
@@ -142,7 +142,7 @@ where—
 
 (4) Calculations relating to any change in the amount of reckonable service to which the person will become entitled, or to any change in the contribution period, resulting from an election under the paragraph shall be made on an actuarial basis.
 
-**6.**[^key-19a572811533e45259cd918a66e4f4ba] (1) Where—
+**6.**[^c-19a572811533e45259cd918a66e4f4ba] (1) Where—
 
 - (a) the person is in pensionable employment at the end of the contribution period;
 - (b) the principal election has not ceased to have effect under paragraph 7; and
@@ -152,7 +152,7 @@ he may at any time before he becomes entitled to payment of retirement benefits 
 
 (2) The additional lump sum contribution referred to in this paragraph is such sum as would be payable under Part II in order to count as reckonable service a period equivalent to the difference between the length of reckonable service arising from the contribution period and the length of such service if the person had been in full-time employment throughout the contribution period.
 
-**7.**[^key-d23b299ef67467c9f1415dc469c8424b] (1) Subject to sub-paragraph (2), if the person—
+**7.**[^c-d23b299ef67467c9f1415dc469c8424b] (1) Subject to sub-paragraph (2), if the person—
 
 - (a) before the end of the contribution period ceases to be in pensionable employment; and
 - (b) does not again enter pensionable employment within one month and before becoming entitled to retirement benefits,
@@ -168,7 +168,7 @@ by giving written notice to the Department make an election under paragraph 8 or
 
 (3) If the payment referred to in paragraph 8, or, as the case may be, paragraph 9 is not made within the period allowed in sub-paragraph (2) the election shall cease to have effect.
 
-**8.**[^key-bb85c8ba4a792b1c0d14ec4357882fa6] (1) An election under this paragraph may be made when the person has been in full-time pensionable employment throughout the contribution period.
+**8.**[^c-bb85c8ba4a792b1c0d14ec4357882fa6] (1) An election under this paragraph may be made when the person has been in full-time pensionable employment throughout the contribution period.
 
 (2) An election under this paragraph is an election to complete the payment of additional contributions (so that paragraph 2 of Schedule 7 shall apply) by making a lump sum payment which shall be determined in accordance with sub-paragraph (3), (4) or (6) as the case may be.
 
@@ -207,7 +207,7 @@ TABLE 2
 | 9 | 8.156 |
 | 10 | 8.965 |
 
-**9.**[^key-780f2914c8738e5c0f5ff97dc4f675b9] (1) An election under this paragraph may be made where the person has been in part-time pensionable employment at any time during the contribution period.
+**9.**[^c-780f2914c8738e5c0f5ff97dc4f675b9] (1) An election under this paragraph may be made where the person has been in part-time pensionable employment at any time during the contribution period.
 
 (2) An election under this paragraph may be either—
 
@@ -233,11 +233,11 @@ in each case by making a lump sum payment.
 
 (6) An election under this paragraph shall state whether it is an election under head (*a*), under head (*b*) or under head (*c*) of sub-paragraph (2).
 
-**10.**[^key-3980a0884cde6a0129f3f02970477687] Where paragraph 7 has become applicable and the person is entitled to a retirement lump sum which is smaller than the payment he could elect to make under that paragraph, he may instead elect, in the same way and during the same period, to make a payment under this paragraph of a lump sum equal to the retirement lump sum (so that paragraph 7 of Schedule 7 will apply accordingly).
+**10.**[^c-3980a0884cde6a0129f3f02970477687] Where paragraph 7 has become applicable and the person is entitled to a retirement lump sum which is smaller than the payment he could elect to make under that paragraph, he may instead elect, in the same way and during the same period, to make a payment under this paragraph of a lump sum equal to the retirement lump sum (so that paragraph 7 of Schedule 7 will apply accordingly).
 
-**11.**[^key-a1e3a033241b59bfeb00f17c52f430a2] Any retirement lump sum to which the person is entitled may, subject to paragraph 12(2)(*d*), be set off in whole or part against any payment to be made under paragraph 8, 9 or 10.
+**11.**[^c-a1e3a033241b59bfeb00f17c52f430a2] Any retirement lump sum to which the person is entitled may, subject to paragraph 12(2)(*d*), be set off in whole or part against any payment to be made under paragraph 8, 9 or 10.
 
-**12.**[^key-2fc7269d4a06a521bfb147749d2631f7] (1) This paragraph applies—
+**12.**[^c-2fc7269d4a06a521bfb147749d2631f7] (1) This paragraph applies—
 
 - (a) where paragraph 7 has become applicable because the person died while in pensionable employment; or
 - (b) where he dies within 3 months after ceasing to be in pensionable employment without having made an election under paragraph 8 or 9,
@@ -253,7 +253,7 @@ and another person (“the pensioner”) is entitled under regulation E26 to a l
 
 ### Part II — Method B
 
-**13.**[^key-ca341ebb23fc837ffa366c0d5e5076f2] (1) Subject to paragraphs 14 to 16, the additional contributions consist of a lump sum of
+**13.**[^c-ca341ebb23fc837ffa366c0d5e5076f2] (1) Subject to paragraphs 14 to 16, the additional contributions consist of a lump sum of
 
 [formula: see source](https://www.legislation.gov.uk/nisr/1998/333)
 
@@ -313,7 +313,7 @@ TABLE 3
 
 (2) If the lump sum is not paid within one month after the date on which the election was accepted the election ceases to have effect.
 
-**14.**[^key-52b83c85f18cf08df071148c692d5684] (1) Subject to paragraphs 15 and 16 and paragraph 16(3) of Schedule 9, this paragraph applies where the person’s contributable salary was reduced (whether in consequence of a change of post or otherwise) within—
+**14.**[^c-52b83c85f18cf08df071148c692d5684] (1) Subject to paragraphs 15 and 16 and paragraph 16(3) of Schedule 9, this paragraph applies where the person’s contributable salary was reduced (whether in consequence of a change of post or otherwise) within—
 
 - (a) the year; or
 - (b) if when notice of the election was given he had attained the age of 57, the period of 3 years,
@@ -322,40 +322,40 @@ ending immediately before the date on which notice of the election was given.
 
 (2) Where this paragraph applies, paragraph 13 has effect with the substitution as “B” of the annual rate of the contributable salary that would have been payable at that date if he had continued to be employed in the same post and on the same terms.
 
-**15.**[^key-10bedd6b0e4b67ffa25b3ff7925938ba] Where notice of the election is received on or after the date of receipt of the application for payment of retirement benefits, paragraph 13 has effect with the substitution as “B” of the person’s average salary.
+**15.**[^c-10bedd6b0e4b67ffa25b3ff7925938ba] Where notice of the election is received on or after the date of receipt of the application for payment of retirement benefits, paragraph 13 has effect with the substitution as “B” of the person’s average salary.
 
-**16.**[^key-4853cb63d125cbdf6ee92c5a5c1b26d9] Where notice of the election is received when the person is in part-time employment, the references in paragraphs 13 and 14 to contributable salary shall be construed as references to that which would have been payable if the person had at all material times been in comparable full-time employment.
+**16.**[^c-4853cb63d125cbdf6ee92c5a5c1b26d9] Where notice of the election is received when the person is in part-time employment, the references in paragraphs 13 and 14 to contributable salary shall be construed as references to that which would have been payable if the person had at all material times been in comparable full-time employment.
 
 ## Annotations
 
-[^key-1266b0711bdcdc368ef03b5f3d517b2a]: Commencement: Sch. 4 para. 1 in operation at 2.11.1998, see reg. A1
+[^c-1266b0711bdcdc368ef03b5f3d517b2a]: Commencement: Sch. 4 para. 1 in operation at 2.11.1998, see reg. A1
 
-[^key-167266fc25c88d3e5cbf98382705744e]: Commencement: Sch. 4 para. 2 in operation at 2.11.1998, see reg. A1
+[^c-167266fc25c88d3e5cbf98382705744e]: Commencement: Sch. 4 para. 2 in operation at 2.11.1998, see reg. A1
 
-[^key-3955172faab37b2451656a018ea601e7]: Commencement: Sch. 4 para. 3 in operation at 2.11.1998, see reg. A1
+[^c-3955172faab37b2451656a018ea601e7]: Commencement: Sch. 4 para. 3 in operation at 2.11.1998, see reg. A1
 
-[^key-362d3778c32eb6ee40baccd7ad9dedfa]: Commencement: Sch. 4 para. 4 in operation at 2.11.1998, see reg. A1
+[^c-362d3778c32eb6ee40baccd7ad9dedfa]: Commencement: Sch. 4 para. 4 in operation at 2.11.1998, see reg. A1
 
-[^key-fc5c328ef34d9e64d12dd94bf018d6e7]: Commencement: Sch. 4 para. 5 in operation at 2.11.1998, see reg. A1
+[^c-fc5c328ef34d9e64d12dd94bf018d6e7]: Commencement: Sch. 4 para. 5 in operation at 2.11.1998, see reg. A1
 
-[^key-19a572811533e45259cd918a66e4f4ba]: Commencement: Sch. 4 para. 6 in operation at 2.11.1998, see reg. A1
+[^c-19a572811533e45259cd918a66e4f4ba]: Commencement: Sch. 4 para. 6 in operation at 2.11.1998, see reg. A1
 
-[^key-d23b299ef67467c9f1415dc469c8424b]: Commencement: Sch. 4 para. 7 in operation at 2.11.1998, see reg. A1
+[^c-d23b299ef67467c9f1415dc469c8424b]: Commencement: Sch. 4 para. 7 in operation at 2.11.1998, see reg. A1
 
-[^key-bb85c8ba4a792b1c0d14ec4357882fa6]: Commencement: Sch. 4 para. 8 in operation at 2.11.1998, see reg. A1
+[^c-bb85c8ba4a792b1c0d14ec4357882fa6]: Commencement: Sch. 4 para. 8 in operation at 2.11.1998, see reg. A1
 
-[^key-780f2914c8738e5c0f5ff97dc4f675b9]: Commencement: Sch. 4 para. 9 in operation at 2.11.1998, see reg. A1
+[^c-780f2914c8738e5c0f5ff97dc4f675b9]: Commencement: Sch. 4 para. 9 in operation at 2.11.1998, see reg. A1
 
-[^key-3980a0884cde6a0129f3f02970477687]: Commencement: Sch. 4 para. 10 in operation at 2.11.1998, see reg. A1
+[^c-3980a0884cde6a0129f3f02970477687]: Commencement: Sch. 4 para. 10 in operation at 2.11.1998, see reg. A1
 
-[^key-a1e3a033241b59bfeb00f17c52f430a2]: Commencement: Sch. 4 para. 11 in operation at 2.11.1998, see reg. A1
+[^c-a1e3a033241b59bfeb00f17c52f430a2]: Commencement: Sch. 4 para. 11 in operation at 2.11.1998, see reg. A1
 
-[^key-2fc7269d4a06a521bfb147749d2631f7]: Commencement: Sch. 4 para. 12 in operation at 2.11.1998, see reg. A1
+[^c-2fc7269d4a06a521bfb147749d2631f7]: Commencement: Sch. 4 para. 12 in operation at 2.11.1998, see reg. A1
 
-[^key-ca341ebb23fc837ffa366c0d5e5076f2]: Commencement: Sch. 4 para. 13 in operation at 2.11.1998, see reg. A1
+[^c-ca341ebb23fc837ffa366c0d5e5076f2]: Commencement: Sch. 4 para. 13 in operation at 2.11.1998, see reg. A1
 
-[^key-52b83c85f18cf08df071148c692d5684]: Commencement: Sch. 4 para. 14 in operation at 2.11.1998, see reg. A1
+[^c-52b83c85f18cf08df071148c692d5684]: Commencement: Sch. 4 para. 14 in operation at 2.11.1998, see reg. A1
 
-[^key-10bedd6b0e4b67ffa25b3ff7925938ba]: Commencement: Sch. 4 para. 15 in operation at 2.11.1998, see reg. A1
+[^c-10bedd6b0e4b67ffa25b3ff7925938ba]: Commencement: Sch. 4 para. 15 in operation at 2.11.1998, see reg. A1
 
-[^key-4853cb63d125cbdf6ee92c5a5c1b26d9]: Commencement: Sch. 4 para. 16 in operation at 2.11.1998, see reg. A1
+[^c-4853cb63d125cbdf6ee92c5a5c1b26d9]: Commencement: Sch. 4 para. 16 in operation at 2.11.1998, see reg. A1

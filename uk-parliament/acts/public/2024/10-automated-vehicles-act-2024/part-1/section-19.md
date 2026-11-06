@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Notices requiring individual attendance[^key-90005f19d72a76332e7d11fe6d1bb79e]
+## 19. Notices requiring individual attendance[^c-90005f19d72a76332e7d11fe6d1bb79e]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90005f19d72a76332e7d11fe6d1bb79e]: Commencement: S. 19 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-90005f19d72a76332e7d11fe6d1bb79e]: Commencement: S. 19 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

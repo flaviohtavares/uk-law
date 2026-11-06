@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Producer obligations: further provision[^key-88fe87e466eb363a2ef6eb007af8540e][^key-b78733477eac0cc3c2dd0b4ebebefa9c]
+## 11. Producer obligations: further provision[^c-88fe87e466eb363a2ef6eb007af8540e][^c-b78733477eac0cc3c2dd0b4ebebefa9c]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88fe87e466eb363a2ef6eb007af8540e]: Commencement: Reg. 11 in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4)
+[^c-88fe87e466eb363a2ef6eb007af8540e]: Commencement: Reg. 11 in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4)
 
-[^key-b78733477eac0cc3c2dd0b4ebebefa9c]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/154/regulation/11) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [12](https://www.legislation.gov.uk/ssi/2025/188/regulation/12)
+[^c-b78733477eac0cc3c2dd0b4ebebefa9c]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/154/regulation/11) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [12](https://www.legislation.gov.uk/ssi/2025/188/regulation/12)

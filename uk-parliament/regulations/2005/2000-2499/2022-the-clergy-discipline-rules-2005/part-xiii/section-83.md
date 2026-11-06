@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England.
 
-## 83. Conditional deferment of a allegation against a bishop or archbishop[^key-f0eb69ef43f73de9c82e2f0d0196c982][^key-2f76ef3f58ec9423031d1f82fa81c9ba]
+## 83. Conditional deferment of a allegation against a bishop or archbishop[^c-f0eb69ef43f73de9c82e2f0d0196c982][^c-2f76ef3f58ec9423031d1f82fa81c9ba]
 
 *Extent: E*
 
 (1) Where the respondent is a bishop or archbishop and has consented in writing to a conditional deferment, the archbishop or the other archbishop, as the case may be, shall within 21 days send—
 
 - (a) to the complainant and the respondent a copy of the determination to impose a conditional deferment, and
-- (b) to the registrar of the province of the respondent a copy of the determination, the allegation of misconduct[^key-cbe860143468b80bcccf9b2f13fc83db] with evidence in support, and the respondent’s answer, if any, with evidence in support, and the provincial registrar shall maintain a record of the conditional deferment for such period not exceeding five years as the archbishop or other archbishop may determine;
+- (b) to the registrar of the province of the respondent a copy of the determination, the allegation of misconduct[^c-cbe860143468b80bcccf9b2f13fc83db] with evidence in support, and the respondent’s answer, if any, with evidence in support, and the provincial registrar shall maintain a record of the conditional deferment for such period not exceeding five years as the archbishop or other archbishop may determine;
 
 and form 6 and rule 24(b) shall be adapted accordingly by omitting reference to notification to the archbishop.
 
@@ -31,8 +31,8 @@ and form 6 and rule 24(b) shall be adapted accordingly by omitting reference to 
 
 ## Annotations
 
-[^key-f0eb69ef43f73de9c82e2f0d0196c982]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2005/2022/rule/83) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-f0eb69ef43f73de9c82e2f0d0196c982]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2005/2022/rule/83) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-2f76ef3f58ec9423031d1f82fa81c9ba]: Textual amendment: Word in [rule 83](https://www.legislation.gov.uk/uksi/2005/2022/rule/83) title substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-2f76ef3f58ec9423031d1f82fa81c9ba]: Textual amendment: Word in [rule 83](https://www.legislation.gov.uk/uksi/2005/2022/rule/83) title substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
 
-[^key-cbe860143468b80bcccf9b2f13fc83db]: Textual amendment: Words in [rule 83(1)(b)](https://www.legislation.gov.uk/uksi/2005/2022/rule/83/1/b) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-cbe860143468b80bcccf9b2f13fc83db]: Textual amendment: Words in [rule 83(1)(b)](https://www.legislation.gov.uk/uksi/2005/2022/rule/83/1/b) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)

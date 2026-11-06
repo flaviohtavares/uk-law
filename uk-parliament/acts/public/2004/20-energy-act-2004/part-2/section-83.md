@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Sustainable development[^key-d15f4f95f8d44299ad9c09f9b5afe791]
+## 83. Sustainable development[^c-d15f4f95f8d44299ad9c09f9b5afe791]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In each of section 4AA of the Gas Act 1986 (c. 44) and section 3A of the 1989 Ac
 
 ## Annotations
 
-[^key-d15f4f95f8d44299ad9c09f9b5afe791]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2004/20/section/83) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-d15f4f95f8d44299ad9c09f9b5afe791]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2004/20/section/83) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

@@ -66,10 +66,10 @@ on every person on whom that undertaker would have been required to serve the ap
 - (a) is being made immediately before the transfer date; and
 - (b) is (disregarding this Article) authorised by Article 226.
 
-(10) For the purposes of this Article the relevant departments are DAERA and the Department[^key-1681e75fedea4ec09818e67d2556fce4] .
+(10) For the purposes of this Article the relevant departments are DAERA and the Department[^c-1681e75fedea4ec09818e67d2556fce4] .
 
 ## Annotations
 
 [^c20603901]: Commencement: Art. 227 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-1681e75fedea4ec09818e67d2556fce4]: Textual amendment: Words in [art. 227(10)](https://www.legislation.gov.uk/nisi/2006/3336/article/227/10) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 78](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/78) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-1681e75fedea4ec09818e67d2556fce4]: Textual amendment: Words in [art. 227(10)](https://www.legislation.gov.uk/nisi/2006/3336/article/227/10) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 78](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/78) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

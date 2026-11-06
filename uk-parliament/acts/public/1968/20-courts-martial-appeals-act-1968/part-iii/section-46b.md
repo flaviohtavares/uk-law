@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46B. Costs: application to Appeal Court by accused[^key-e84af86628fe9bffac1cd0ab9dcd2f87]
+## 46B. Costs: application to Appeal Court by accused[^c-e84af86628fe9bffac1cd0ab9dcd2f87]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Where the Appeal Court dismiss an application for leave to appeal to the Supreme
 
 ## Annotations
 
-[^key-e84af86628fe9bffac1cd0ab9dcd2f87]: Textual amendment: Ss. 46A, 46B inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/10) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)
+[^c-e84af86628fe9bffac1cd0ab9dcd2f87]: Textual amendment: Ss. 46A, 46B inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/10) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)

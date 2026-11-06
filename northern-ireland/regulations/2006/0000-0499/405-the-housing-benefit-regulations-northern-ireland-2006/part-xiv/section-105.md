@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Interpretation[^key-93a193f2da39c758e51e4772f7540dc4]
+## 105. Interpretation[^c-93a193f2da39c758e51e4772f7540dc4]
 
 *Extent: N.I.*
 
-In this Section[^key-e8d0a54047f07b7e82d0a07f6524518a]—
+In this Section[^c-e8d0a54047f07b7e82d0a07f6524518a]—
 
 - “**the notice**” means the notice prescribed in regulation 107(1)(b);
 - “**relevant information**” means such information as is prescribed in regulation 108;
@@ -29,8 +29,8 @@ In this Section[^key-e8d0a54047f07b7e82d0a07f6524518a]—
 
 ## Annotations
 
-[^key-93a193f2da39c758e51e4772f7540dc4]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2006/405/regulation/105) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-93a193f2da39c758e51e4772f7540dc4]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2006/405/regulation/105) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-e8d0a54047f07b7e82d0a07f6524518a]: Textual amendment: Word in [reg. 105](https://www.legislation.gov.uk/nisr/2006/405/regulation/105) substituted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/3)
+[^c-e8d0a54047f07b7e82d0a07f6524518a]: Textual amendment: Word in [reg. 105](https://www.legislation.gov.uk/nisr/2006/405/regulation/105) substituted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/3)
 
 [^f00152]: Footnote: Section 119A was inserted by Article 10 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997

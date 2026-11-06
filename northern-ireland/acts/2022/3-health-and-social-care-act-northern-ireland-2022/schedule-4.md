@@ -24,7 +24,7 @@ Section 6.
 
 ### PART 1 — Accounts and reports of the Regional Board
 
-**1.**[^key-cad4207aaece9ad6a5bee91289bc2962] (1) The Department must make arrangements for—
+**1.**[^c-cad4207aaece9ad6a5bee91289bc2962] (1) The Department must make arrangements for—
 
 - (a) a statement of accounts; and
 - (b) a report,
@@ -62,7 +62,7 @@ as the Department consider appropriate.
 
 #### General provision
 
-**2.**[^key-cd88f5a24f0fd27717aa0aeedf29cd55][^key-6e5d27d3097e8b97a4d0f4a657e44366] (1) In any statutory provision or statutory document, any reference to the Regional Board, in relation to any time after the dissolution date, is to be read as a reference to the Department.
+**2.**[^c-cd88f5a24f0fd27717aa0aeedf29cd55][^c-6e5d27d3097e8b97a4d0f4a657e44366] (1) In any statutory provision or statutory document, any reference to the Regional Board, in relation to any time after the dissolution date, is to be read as a reference to the Department.
 
 (2) Anything which was done before the dissolution date by or in relation to the Regional Board, if in effect immediately before that day, is to continue to have effect to the same extent and subject to the same provisions as if it had been done by, or in relation to the Department.
 
@@ -79,7 +79,7 @@ as the Department consider appropriate.
 
 #### Specific provision
 
-**3.**[^key-8430ce03ead7768144b587bd6d5c887f][^key-17f657e441538256ad7240375acdb849] (1) This paragraph applies to any authorisation under Article 3(1) of the 1994 Order that is in effect on the day on which the repeal of that Article comes into operation and provides for an HSC trust to exercise any function other than a social care and children function (within the meaning of Article 10A of the 1991 Order).
+**3.**[^c-8430ce03ead7768144b587bd6d5c887f][^c-17f657e441538256ad7240375acdb849] (1) This paragraph applies to any authorisation under Article 3(1) of the 1994 Order that is in effect on the day on which the repeal of that Article comes into operation and provides for an HSC trust to exercise any function other than a social care and children function (within the meaning of Article 10A of the 1991 Order).
 
 (2) The authorisation has effect after that day, so far as it relates to that function, as if it were a delegation direction under Article 10B(1) of the 1991 Order.
 
@@ -95,11 +95,11 @@ as the Department consider appropriate.
 
 (6) Any reference in any statutory provision or statutory document to an authorisation under Article 3(1) of the 1994 Order is to be read as, or as including, a reference to a delegation direction under Article 10B(1) of the 1991 Order.
 
-**4.**[^key-195f05746e8ec977c41009c0f4590e32][^key-147a81bf4addeeb9d0b7312c36747d71] (1) This paragraph applies to any direction that was given under Article 57C(1) of the 1972 Order and is in force on the date on which paragraph 25 of Schedule 1 comes into operation.
+**4.**[^c-195f05746e8ec977c41009c0f4590e32][^c-147a81bf4addeeb9d0b7312c36747d71] (1) This paragraph applies to any direction that was given under Article 57C(1) of the 1972 Order and is in force on the date on which paragraph 25 of Schedule 1 comes into operation.
 
 (2) Any direction to which this paragraph applies is to continue in force after that date (unless revoked) as if it were a scheme made under that Article as amended by paragraph 25 of Schedule 1.
 
-**5.**[^key-4bab7a8316f627c4d798b939fc3f810e][^key-87a291ef1910af928e454e11989980f4] (1) This paragraph applies to any scheme that was made under an order under Schedule 9 to the 1972 Order and is in force on the date on which paragraph 51 of Schedule 1 comes into operation.
+**5.**[^c-4bab7a8316f627c4d798b939fc3f810e][^c-87a291ef1910af928e454e11989980f4] (1) This paragraph applies to any scheme that was made under an order under Schedule 9 to the 1972 Order and is in force on the date on which paragraph 51 of Schedule 1 comes into operation.
 
 (2) Any scheme to which this paragraph applies is to continue in force after that date as if it were a scheme provided for in regulations made by the Department under paragraph 1A of Schedule 9 to the 1972 Order.
 
@@ -107,20 +107,20 @@ as the Department consider appropriate.
 
 ## Annotations
 
-[^key-cad4207aaece9ad6a5bee91289bc2962]: Commencement: Sch. 4 para. 1 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-cad4207aaece9ad6a5bee91289bc2962]: Commencement: Sch. 4 para. 1 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
 
-[^key-cd88f5a24f0fd27717aa0aeedf29cd55]: Commencement: Sch. 4 para. 2 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
+[^c-cd88f5a24f0fd27717aa0aeedf29cd55]: Commencement: Sch. 4 para. 2 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
 
-[^key-6e5d27d3097e8b97a4d0f4a657e44366]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/2) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)
+[^c-6e5d27d3097e8b97a4d0f4a657e44366]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/2) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)
 
-[^key-8430ce03ead7768144b587bd6d5c887f]: Commencement: Sch. 4 para. 3 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
+[^c-8430ce03ead7768144b587bd6d5c887f]: Commencement: Sch. 4 para. 3 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
 
-[^key-17f657e441538256ad7240375acdb849]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/3) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)
+[^c-17f657e441538256ad7240375acdb849]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/3) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)
 
-[^key-195f05746e8ec977c41009c0f4590e32]: Commencement: Sch. 4 para. 4 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
+[^c-195f05746e8ec977c41009c0f4590e32]: Commencement: Sch. 4 para. 4 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
 
-[^key-147a81bf4addeeb9d0b7312c36747d71]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/4) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)
+[^c-147a81bf4addeeb9d0b7312c36747d71]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/4) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)
 
-[^key-4bab7a8316f627c4d798b939fc3f810e]: Commencement: Sch. 4 para. 5 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
+[^c-4bab7a8316f627c4d798b939fc3f810e]: Commencement: Sch. 4 para. 5 not in operation at Royal Assent, see [s. 8(1)(d)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/d)
 
-[^key-87a291ef1910af928e454e11989980f4]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/5) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)
+[^c-87a291ef1910af928e454e11989980f4]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/5) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/102/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Prescribed requirements for tests[^key-9b7c3060cda8ca843e4c6220d3348a7b]
+## 5. Prescribed requirements for tests[^c-9b7c3060cda8ca843e4c6220d3348a7b]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b7c3060cda8ca843e4c6220d3348a7b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/1478/regulation/5) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-9b7c3060cda8ca843e4c6220d3348a7b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/1478/regulation/5) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

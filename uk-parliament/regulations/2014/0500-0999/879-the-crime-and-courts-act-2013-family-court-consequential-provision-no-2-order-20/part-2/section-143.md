@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**143.**[^key-3915642ecd42d1ca16b73067f2c1e2ee] In paragraph 3—
+**143.**[^c-3915642ecd42d1ca16b73067f2c1e2ee] In paragraph 3—
 
 - (a) for sub-paragraph (2), substitute—
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3915642ecd42d1ca16b73067f2c1e2ee]: Commencement: Art. 143 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-3915642ecd42d1ca16b73067f2c1e2ee]: Commencement: Art. 143 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

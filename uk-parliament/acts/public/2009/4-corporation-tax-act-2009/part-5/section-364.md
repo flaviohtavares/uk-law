@@ -41,14 +41,14 @@ summary: ''
 - (c) reduce claims for group relief where debits within paragraph (a) for earlier group accounting periods exceed reductions within paragraph (b) (see section 368), and
 - (d) provide for such claims to be carried forward where they exceed such debits (see section 369).
 
-(4) In this Chapter “**release debit**” means a debit in respect of a release of liability under a relevant consortium creditor relationship, and[^key-6e907a9f25df95ff7872251925f840ed]
+(4) In this Chapter “**release debit**” means a debit in respect of a release of liability under a relevant consortium creditor relationship, and[^c-6e907a9f25df95ff7872251925f840ed]
 
 “**group relief**” means—
 
 - (a) group relief under Part 5 of CTA 2010 (see section 97(2) of that Act), and
 - (b) group relief for carried-forward losses under Part 5A of CTA 2010 (see section 188AA(4) of that Act).
 
-(5) If section 143[^key-1b6f46f17a607222b86e02206ec632d3], 144 or 188DH[^key-b983d65619f8ee63cd0349f8f67646e2] of CTA 2010 (which limit the amount of group relief to be given in certain cases involving a consortium) applies, effect must be given to that section before effect is given to this Chapter.
+(5) If section 143[^c-1b6f46f17a607222b86e02206ec632d3], 144 or 188DH[^c-b983d65619f8ee63cd0349f8f67646e2] of CTA 2010 (which limit the amount of group relief to be given in certain cases involving a consortium) applies, effect must be given to that section before effect is given to this Chapter.
 
 (6) Expressions defined in this section have the same meaning in the other provisions of this Chapter, and sections 370 and 371 also apply for the interpretation of this Chapter.
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6e907a9f25df95ff7872251925f840ed]: Textual amendment: Words in s. 364(4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 130(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/130/2)
+[^c-6e907a9f25df95ff7872251925f840ed]: Textual amendment: Words in s. 364(4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 130(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/130/2)
 
-[^key-1b6f46f17a607222b86e02206ec632d3]: Textual amendment: Words in s. 364(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 608](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/608) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1b6f46f17a607222b86e02206ec632d3]: Textual amendment: Words in s. 364(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 608](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/608) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-b983d65619f8ee63cd0349f8f67646e2]: Textual amendment: Words in s. 364(5) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 130(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/130/3)
+[^c-b983d65619f8ee63cd0349f8f67646e2]: Textual amendment: Words in s. 364(5) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 130(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/130/3)

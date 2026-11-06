@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.5. Judicial continuity[^key-c80a9f507a07b4df01ca563fc198cdbe]
+## 2.5. Judicial continuity[^c-c80a9f507a07b4df01ca563fc198cdbe]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Where possible, the same sheriff is to—
 
 ## Annotations
 
-[^key-c80a9f507a07b4df01ca563fc198cdbe]: Commencement: [Rule 2.5](https://www.legislation.gov.uk/ssi/2017/103/rule/2.5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-c80a9f507a07b4df01ca563fc198cdbe]: Commencement: [Rule 2.5](https://www.legislation.gov.uk/ssi/2017/103/rule/2.5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

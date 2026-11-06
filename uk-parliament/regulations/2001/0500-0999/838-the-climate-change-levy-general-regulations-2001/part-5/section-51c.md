@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**51C.**[^key-803aa9fa3f649411679cf9cd7eb6114a] (1) The relevant Authority must neither certify electricity nor issue a CHP LEC as respects any electricity under any of the following circumstances.
+**51C.**[^c-803aa9fa3f649411679cf9cd7eb6114a] (1) The relevant Authority must neither certify electricity nor issue a CHP LEC as respects any electricity under any of the following circumstances.
 
 (2) The first circumstance is where the quantity of electricity in question is less than 1 MWh.
 
@@ -39,10 +39,10 @@ summary: ''
 - (e) any authorised person not, on request, being granted access to any premises at any reasonable time to take updated readings from any relevant electricity meter;
 - (f) the operator having been notified of an assessment to a civil penalty or to penalty interest in relation to an event subject to this Part or Schedule 2 and, irrespective of any relevant review or appeal, that amount being unrecovered (for assessments, see paragraphs 106 and 111 of the Act; for review and appeal, see Part XI of the Act);
 - (g) any one or more of sub-paragraphs (a) to (e) not being satisfied within such time as the relevant Authority considers reasonable for the purpose in question;
-- (h)[^key-688ffc15024b6b99b9bbfc9f951216b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-688ffc15024b6b99b9bbfc9f951216b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)
+[^c-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)
 
-[^key-688ffc15024b6b99b9bbfc9f951216b7]: Textual amendment: [Reg. 51C(4)(h)](https://www.legislation.gov.uk/uksi/2001/838/regulation/51C/4/h) omitted (22.7.2005) by virtue of [The Climate Change Levy (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1716)](https://www.legislation.gov.uk/uksi/2005/1716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1716/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2005/1716/regulation/7/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2005/1716/regulation/6))
+[^c-688ffc15024b6b99b9bbfc9f951216b7]: Textual amendment: [Reg. 51C(4)(h)](https://www.legislation.gov.uk/uksi/2001/838/regulation/51C/4/h) omitted (22.7.2005) by virtue of [The Climate Change Levy (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1716)](https://www.legislation.gov.uk/uksi/2005/1716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1716/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2005/1716/regulation/7/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2005/1716/regulation/6))

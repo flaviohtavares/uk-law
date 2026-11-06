@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Right of suspects to have access to a solicitor[^key-35f4b3efb1a19986247341b9b9bf80ce]
+## 15A. Right of suspects to have access to a solicitor[^c-35f4b3efb1a19986247341b9b9bf80ce]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35f4b3efb1a19986247341b9b9bf80ce]: Textual amendment: Ss. 14-17A repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 27(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/27/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [7](https://www.legislation.gov.uk/ssi/2017/345/article/7))
+[^c-35f4b3efb1a19986247341b9b9bf80ce]: Textual amendment: Ss. 14-17A repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 27(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/27/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [7](https://www.legislation.gov.uk/ssi/2017/345/article/7))

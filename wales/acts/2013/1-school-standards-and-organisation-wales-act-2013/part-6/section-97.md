@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Orders and regulations[^key-eff88f74e40008576e8c61dc21a64f7e][^key-6cd1254c6b7c8c447a4697928f49d784]
+## 97. Orders and regulations[^c-eff88f74e40008576e8c61dc21a64f7e][^c-6cd1254c6b7c8c447a4697928f49d784]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eff88f74e40008576e8c61dc21a64f7e]: Commencement: [S. 97](https://www.legislation.gov.uk/anaw/2013/1/section/97) in force at 26.4.2013 for specified purposes by [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [art. 2(c)](https://www.legislation.gov.uk/wsi/2013/1000/article/2/c)
+[^c-eff88f74e40008576e8c61dc21a64f7e]: Commencement: [S. 97](https://www.legislation.gov.uk/anaw/2013/1/section/97) in force at 26.4.2013 for specified purposes by [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [art. 2(c)](https://www.legislation.gov.uk/wsi/2013/1000/article/2/c)
 
-[^key-6cd1254c6b7c8c447a4697928f49d784]: Commencement: [S. 97](https://www.legislation.gov.uk/anaw/2013/1/section/97) in force at 4.5.2013 in so far as not already in force by [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1000/article/3/a)
+[^c-6cd1254c6b7c8c447a4697928f49d784]: Commencement: [S. 97](https://www.legislation.gov.uk/anaw/2013/1/section/97) in force at 4.5.2013 in so far as not already in force by [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1000/article/3/a)

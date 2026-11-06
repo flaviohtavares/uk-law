@@ -56,15 +56,15 @@ These Regulations make provision for a purpose mentioned in section 2(2) of that
 
 The Secretary of State and the Welsh Ministers (the Welsh Ministers acting only in relation to Wales) make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00004].
 
-## 1. Citation and commencement[^key-73d6e23aa5dd5f6a5032871d85a1afe2]
+## 1. Citation and commencement[^c-73d6e23aa5dd5f6a5032871d85a1afe2]
 
 These Regulations may be cited as the Seeds (National Lists of Varieties) (Amendment) Regulations 2009; they come into force on 30th June 2009.
 
-## 2. Amendment[^key-98e0e37d9fdadd347010900bf0d0b130]
+## 2. Amendment[^c-98e0e37d9fdadd347010900bf0d0b130]
 
 The Seeds (National Lists of Varieties) Regulations 2001[^f00005] are amended as follows.
 
-## 3. Regulation 2 (interpretation)[^key-eb709365a6e8cb6c00187f8387428bd7]
+## 3. Regulation 2 (interpretation)[^c-eb709365a6e8cb6c00187f8387428bd7]
 
 In regulation 2(1)—
 
@@ -81,7 +81,7 @@ In regulation 2(1)—
 
   .
 
-## 4. Regulation 5 (acceptance of plant varieties)[^key-eac2c72cb753f7c918befeb96ef0a7d7]
+## 4. Regulation 5 (acceptance of plant varieties)[^c-eac2c72cb753f7c918befeb96ef0a7d7]
 
 (1) Regulation 5 is amended in accordance with this regulation.
 
@@ -117,7 +117,7 @@ In regulation 2(1)—
 
 .
 
-## 5. Regulation 6 (naming of plant varieties)[^key-14f66a2d8b6b8e6860587eccceae182c]
+## 5. Regulation 6 (naming of plant varieties)[^c-14f66a2d8b6b8e6860587eccceae182c]
 
 (1) In regulation 6(1), after “A name of a plant variety” insert “, other than a conservation variety,”.
 
@@ -127,7 +127,7 @@ In regulation 2(1)—
 
 .
 
-## 6. Regulation 7 (maintainers of plant varieties)[^key-3ec68a33f4efe740bb60590b69f3c580]
+## 6. Regulation 7 (maintainers of plant varieties)[^c-3ec68a33f4efe740bb60590b69f3c580]
 
 (1) In regulation 7(1), at the end insert—
 
@@ -141,7 +141,7 @@ In regulation 2(1)—
 
 .
 
-## 7. Regulation 12 (maintenance of accepted plant varieties)[^key-863bfa2638706fafbb6535a9b9fbe9da]
+## 7. Regulation 12 (maintenance of accepted plant varieties)[^c-863bfa2638706fafbb6535a9b9fbe9da]
 
 After regulation 12(2), insert—
 
@@ -149,7 +149,7 @@ After regulation 12(2), insert—
 
 .
 
-## 8. Schedule 2 (distinctness, stability and sufficient uniformity)[^key-dfe96c9f8d3572e86f9210e1e4be780e]
+## 8. Schedule 2 (distinctness, stability and sufficient uniformity)[^c-dfe96c9f8d3572e86f9210e1e4be780e]
 
 (1) In Part I of Schedule 2, after paragraph 1 insert—
 
@@ -209,26 +209,26 @@ An impact assessment of the effect of that this instrument will have on the cost
 
 [^f00004]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-73d6e23aa5dd5f6a5032871d85a1afe2]: Commencement: Reg. 1 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-73d6e23aa5dd5f6a5032871d85a1afe2]: Commencement: Reg. 1 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
-[^key-98e0e37d9fdadd347010900bf0d0b130]: Commencement: Reg. 2 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-98e0e37d9fdadd347010900bf0d0b130]: Commencement: Reg. 2 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), as amended by [S.I. 2004/2949](https://www.legislation.gov.uk/uksi/2004/2949) and [2007/1871](https://www.legislation.gov.uk/uksi/2007/1871). There are further amendments in relation to Scotland which are not relevant to this instrument.
 
-[^key-eb709365a6e8cb6c00187f8387428bd7]: Commencement: Reg. 3 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-eb709365a6e8cb6c00187f8387428bd7]: Commencement: Reg. 3 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
-[^key-eac2c72cb753f7c918befeb96ef0a7d7]: Commencement: Reg. 4 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-eac2c72cb753f7c918befeb96ef0a7d7]: Commencement: Reg. 4 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
 [^f00006]: Footnote: OJ No L 227, 1.9.94, p 1; as last amended by Council Regulation [(EC) No 15/2008](https://www.legislation.gov.uk/european/regulation/2008/0015) (OJ No L 8, 11.1.2008, p 2).
 
 [^f00007]: Footnote: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66).
 
-[^key-14f66a2d8b6b8e6860587eccceae182c]: Commencement: Reg. 5 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-14f66a2d8b6b8e6860587eccceae182c]: Commencement: Reg. 5 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
-[^key-3ec68a33f4efe740bb60590b69f3c580]: Commencement: Reg. 6 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-3ec68a33f4efe740bb60590b69f3c580]: Commencement: Reg. 6 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
-[^key-863bfa2638706fafbb6535a9b9fbe9da]: Commencement: Reg. 7 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-863bfa2638706fafbb6535a9b9fbe9da]: Commencement: Reg. 7 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
-[^key-dfe96c9f8d3572e86f9210e1e4be780e]: Commencement: Reg. 8 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
+[^c-dfe96c9f8d3572e86f9210e1e4be780e]: Commencement: Reg. 8 in force at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1273/regulation/1)
 
 [^f00008]: Footnote: OJ No L 254, 8.10.03, p 7; last amended by Commission Directive [2007/48/EC](https://www.legislation.gov.uk/european/directive/2007/0048) (OJ No L 195, 27.7.07, p 29).

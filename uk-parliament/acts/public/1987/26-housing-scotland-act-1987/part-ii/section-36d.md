@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36D. Power of relevant bodies to share information[^key-222e63e00c79ff3eaac646e9f36f9e01]
+## 36D. Power of relevant bodies to share information[^c-222e63e00c79ff3eaac646e9f36f9e01]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A relevant body may share information with any other relevant body for the purpo
 
 ## Annotations
 
-[^key-222e63e00c79ff3eaac646e9f36f9e01]: Textual amendment: Ss. 36A-36E and cross-heading inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(9)](https://www.legislation.gov.uk/asp/2025/13/section/52/9), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-222e63e00c79ff3eaac646e9f36f9e01]: Textual amendment: Ss. 36A-36E and cross-heading inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(9)](https://www.legislation.gov.uk/asp/2025/13/section/52/9), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

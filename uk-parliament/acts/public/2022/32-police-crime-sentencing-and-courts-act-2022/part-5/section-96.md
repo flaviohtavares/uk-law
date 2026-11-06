@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Minor and consequential amendments[^key-7ff69a355d5d557e49ee83fc6e203ac1][^key-f961fca40c55c5206ae07d5bf796b6ab]
+## 96. Minor and consequential amendments[^c-7ff69a355d5d557e49ee83fc6e203ac1][^c-f961fca40c55c5206ae07d5bf796b6ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 10 contains minor and consequential amendments.
 
 ## Annotations
 
-[^key-7ff69a355d5d557e49ee83fc6e203ac1]: Commencement: S. 96 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-7ff69a355d5d557e49ee83fc6e203ac1]: Commencement: S. 96 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-f961fca40c55c5206ae07d5bf796b6ab]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2022/32/section/96) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-f961fca40c55c5206ae07d5bf796b6ab]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2022/32/section/96) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

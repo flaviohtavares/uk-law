@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Amendments of the Universities and College Estates Act 1925[^key-4e91a3ef5b1b7262c10692d85e0e141c][^key-310b4e696442e8e08762b833e51cf50b]
+## 24. Amendments of the Universities and College Estates Act 1925[^c-4e91a3ef5b1b7262c10692d85e0e141c][^c-310b4e696442e8e08762b833e51cf50b]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e91a3ef5b1b7262c10692d85e0e141c]: Commencement: S. 24 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-4e91a3ef5b1b7262c10692d85e0e141c]: Commencement: S. 24 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-310b4e696442e8e08762b833e51cf50b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/6/section/24) in force at 19.5.2025 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/2)
+[^c-310b4e696442e8e08762b833e51cf50b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/6/section/24) in force at 19.5.2025 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/2)

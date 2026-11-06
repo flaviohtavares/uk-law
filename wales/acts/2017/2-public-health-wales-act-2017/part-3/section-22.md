@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Supplementary provision about powers of entry[^key-32dd0a33f6777fb3ed0d855da5e685f0]
+## 22. Supplementary provision about powers of entry[^c-32dd0a33f6777fb3ed0d855da5e685f0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32dd0a33f6777fb3ed0d855da5e685f0]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2017/2/section/22) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-32dd0a33f6777fb3ed0d855da5e685f0]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2017/2/section/22) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

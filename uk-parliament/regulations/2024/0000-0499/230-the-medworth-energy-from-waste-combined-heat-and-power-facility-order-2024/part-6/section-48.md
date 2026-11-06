@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Modification of the section 106 agreement relating to land[^key-5b3f2a58279ed17997543d89ff4957ed]
+## 48. Modification of the section 106 agreement relating to land[^c-5b3f2a58279ed17997543d89ff4957ed]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b3f2a58279ed17997543d89ff4957ed]: Commencement: Art. 48 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-5b3f2a58279ed17997543d89ff4957ed]: Commencement: Art. 48 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

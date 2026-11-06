@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. The register of approved wholesalers[^M_I_e47cc424-e535-45a1-956e-1b7b9ce77e64][^key-3eadc972befe32968356ba3b7e5a4cd5]
+## 101. The register of approved wholesalers[^M_I_e47cc424-e535-45a1-956e-1b7b9ce77e64][^c-3eadc972befe32968356ba3b7e5a4cd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_I_e47cc424-e535-45a1-956e-1b7b9ce77e64]: Commencement: S. 101 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-3eadc972befe32968356ba3b7e5a4cd5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2023/30/section/101) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-3eadc972befe32968356ba3b7e5a4cd5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2023/30/section/101) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

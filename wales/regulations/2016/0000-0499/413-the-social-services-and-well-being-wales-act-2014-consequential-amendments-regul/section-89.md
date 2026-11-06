@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**89.**[^key-1be0d661810a8ad201b4d68a5e4d6f3a] Omit section 25C(2)[^f00107] (referred cases, regulations in respect of Wales).
+**89.**[^c-1be0d661810a8ad201b4d68a5e4d6f3a] Omit section 25C(2)[^f00107] (referred cases, regulations in respect of Wales).
 
 ## Annotations
 
-[^key-1be0d661810a8ad201b4d68a5e4d6f3a]: Commencement: Reg. 89 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-1be0d661810a8ad201b4d68a5e4d6f3a]: Commencement: Reg. 89 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00107]: Footnote: Section 25C was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 10(2).

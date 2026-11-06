@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Consent for absence from croft[^key-c83aba3c21f1342c22f7fc1ee4201a60]
+## 35. Consent for absence from croft[^c-c83aba3c21f1342c22f7fc1ee4201a60]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ After section 21A of the 1993 Act insert—
 
 ## Annotations
 
-[^key-c83aba3c21f1342c22f7fc1ee4201a60]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2010/14/section/35) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-c83aba3c21f1342c22f7fc1ee4201a60]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2010/14/section/35) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

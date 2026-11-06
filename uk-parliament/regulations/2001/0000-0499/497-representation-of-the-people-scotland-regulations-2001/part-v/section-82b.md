@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82B. Rejection of postal voting documents handed in to the returning officer[^key-4cf483036eaff9e5c211bbe7dcc83a44]
+## 82B. Rejection of postal voting documents handed in to the returning officer[^c-4cf483036eaff9e5c211bbe7dcc83a44]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cf483036eaff9e5c211bbe7dcc83a44]: Textual amendment: [Regs. 82A-82E](https://www.legislation.gov.uk/uksi/2001/497/regulation/82A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/3/8)
+[^c-4cf483036eaff9e5c211bbe7dcc83a44]: Textual amendment: [Regs. 82A-82E](https://www.legislation.gov.uk/uksi/2001/497/regulation/82A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/3/8)

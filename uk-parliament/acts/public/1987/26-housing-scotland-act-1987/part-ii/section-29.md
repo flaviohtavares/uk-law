@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Interim duty to accommodate ....[^key-9be0a6b5628240563ffdc6a79efa4ca3]
+## 29. Interim duty to accommodate ....[^c-9be0a6b5628240563ffdc6a79efa4ca3]
 
 *Extent: S*
 
@@ -24,11 +24,11 @@ summary: ''
 
 - (a)[^c12770621] pending any decision which they may make as a result of their inquiries under section 28.
 - (b)[^c12770631][^c12770641] where the applicant has, under section 35A, requested a review of a decision of the authority, until they have notified him in accordance with section 35B of the decision reached on review.
-- (c)[^key-3cace1e1d518a30fc6736a5abc256627] where, by virtue of a decision referred to in paragraph (a) or (b), the authority have a duty under section 31 to secure that accommodation of a particular description becomes available for the applicant’s occupation, until such accommodation becomes available.
+- (c)[^c-3cace1e1d518a30fc6736a5abc256627] where, by virtue of a decision referred to in paragraph (a) or (b), the authority have a duty under section 31 to secure that accommodation of a particular description becomes available for the applicant’s occupation, until such accommodation becomes available.
 
 (2) This duty arises irrespective of any local connection which an applicant may have with the district of another local authority.
 
-(3)[^key-0939371bbef8a93c57119ff36d8cf013] In subsection (1), “accommodation”, in the first place where the expression occurs, does not include accommodation of such description as the Scottish Ministers may, by order made by statutory instrument, specify.
+(3)[^c-0939371bbef8a93c57119ff36d8cf013] In subsection (1), “accommodation”, in the first place where the expression occurs, does not include accommodation of such description as the Scottish Ministers may, by order made by statutory instrument, specify.
 
 (4) Such an order may—
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9be0a6b5628240563ffdc6a79efa4ca3]: Textual amendment: Words in s. 29 heading omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [6](https://www.legislation.gov.uk/ssi/2012/330/article/6)
+[^c-9be0a6b5628240563ffdc6a79efa4ca3]: Textual amendment: Words in s. 29 heading omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [6](https://www.legislation.gov.uk/ssi/2012/330/article/6)
 
 [^c12770611]: Textual amendment: Words in s. 29(1) repealed (30.9.2002) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 3(2)](https://www.legislation.gov.uk/asp/2001/10/section/3/2); [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 3](https://www.legislation.gov.uk/ssi/2002/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2002/321/schedule) (subject to transitional provisions and savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2002/321/article/3))
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c12770641]: Textual amendment: S. 29(1)(b) inserted (1.4.2002) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 4(1)(b)](https://www.legislation.gov.uk/asp/2001/10/section/4/1/b); [S.S.I. 2002/168](https://www.legislation.gov.uk/ssi/2002/168), [art. 2](https://www.legislation.gov.uk/ssi/2002/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/168/schedule) (subject to transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/ssi/2002/168/article/3))
 
-[^key-3cace1e1d518a30fc6736a5abc256627]: Textual amendment: S. 29(1)(c) inserted (30.1.2004) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 9(1)(a)](https://www.legislation.gov.uk/asp/2003/10/section/9/1/a), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+[^c-3cace1e1d518a30fc6736a5abc256627]: Textual amendment: S. 29(1)(c) inserted (30.1.2004) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 9(1)(a)](https://www.legislation.gov.uk/asp/2003/10/section/9/1/a), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
 
-[^key-0939371bbef8a93c57119ff36d8cf013]: Textual amendment: S. 29(3)-(5) inserted (30.1.2004) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 9(1)(b)](https://www.legislation.gov.uk/asp/2003/10/section/9/1/b), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+[^c-0939371bbef8a93c57119ff36d8cf013]: Textual amendment: S. 29(3)-(5) inserted (30.1.2004) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 9(1)(b)](https://www.legislation.gov.uk/asp/2003/10/section/9/1/b), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)

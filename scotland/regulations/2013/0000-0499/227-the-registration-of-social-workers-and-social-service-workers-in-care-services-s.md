@@ -90,7 +90,7 @@ These Regulations may be cited as the Registration of Social Workers and Social 
 
 (1) A social worker may only work in a care service if that social worker is registered.
 
-(2) A social worker must apply for registration before the expiry of a period of 3 months[^key-929cbec6df5607a976ba6104d4a3878a] after starting work as a social worker in a care service.
+(2) A social worker must apply for registration before the expiry of a period of 3 months[^c-929cbec6df5607a976ba6104d4a3878a] after starting work as a social worker in a care service.
 
 (3) Paragraph (1) does not apply to a social worker—
 
@@ -111,7 +111,7 @@ whichever event occurs first.
 
 (1) A social service worker may only work in a care service if that worker is registered.
 
-(2) A social service worker must apply for registration before the expiry of a period of 3 months[^key-8fa774b714222e8feaf0f20cc8c670c2] after starting work as a social service worker in a care service.
+(2) A social service worker must apply for registration before the expiry of a period of 3 months[^c-8fa774b714222e8feaf0f20cc8c670c2] after starting work as a social service worker in a care service.
 
 (3) Paragraph (1) does not apply to a social service worker—
 
@@ -126,19 +126,19 @@ whichever event occurs first.
 
 (6) In the case of a social service worker who has been the subject of a restoration order, the six month period mentioned in paragraph (3)(a) commences on the date on which the restoration order has effect.
 
-(7) In the case of a social service worker of a description specified in column 1 of Table A in the Schedule[^key-ec89f34f715e7fa6f78f733b188dd538] who works in such a role on the coming into force of these Regulations—
+(7) In the case of a social service worker of a description specified in column 1 of Table A in the Schedule[^c-ec89f34f715e7fa6f78f733b188dd538] who works in such a role on the coming into force of these Regulations—
 
 - (a) paragraph (1) does not apply until the date specified in the corresponding entry in column 2 of Table A in the Schedule;
 - (b) that worker must be registered by that date; and
 - (c) paragraphs (2), (3), (5) and (6) do not apply.
 
-(7A)[^key-439058130934b6914478a52c6b36997f] In the case of a social service worker of a description specified in column 1 of Table B in the Schedule who works in such a role on the date specified in column 2 of Table B in the Schedule—
+(7A)[^c-439058130934b6914478a52c6b36997f] In the case of a social service worker of a description specified in column 1 of Table B in the Schedule who works in such a role on the date specified in column 2 of Table B in the Schedule—
 
 - (a) paragraph (1) does not apply until the date specified in the corresponding entry in column 3 of Table B in the Schedule;
 - (b) that worker must be registered by the date specified in column 3 of Table B in the Schedule; and
 - (c) paragraphs (2), (3), (5) and (6) do not apply.
 
-(7B)[^key-5b6288f75d932db2ae76037b165e20c6] In the case of a social service worker of a description specified in column 1 of Table C in the Schedule who works in such a role on the date specified in column 2 of Table C in the Schedule—
+(7B)[^c-5b6288f75d932db2ae76037b165e20c6] In the case of a social service worker of a description specified in column 1 of Table C in the Schedule who works in such a role on the date specified in column 2 of Table C in the Schedule—
 
 - (a) paragraph (1) does not apply until the date specified in the corresponding entry in column 3 of Table C in the Schedule;
 - (b) that worker must be registered by the date specified in column 3 of Table C in the Schedule; and
@@ -200,9 +200,9 @@ Edinburgh
 
 Regulation 5(7)
 
-Table A[^key-2587cdfac13573c201cc3f04dd8b2885]
+Table A[^c-2587cdfac13573c201cc3f04dd8b2885]
 
-Dates of mandatory registration for certain social service workers[^key-be68f754f48282af9960bd34e6722b8a]
+Dates of mandatory registration for certain social service workers[^c-be68f754f48282af9960bd34e6722b8a]
 
 <table>
 <tfoot>
@@ -218,7 +218,7 @@ Dates of mandatory registration for certain social service workers[^key-be68f754
 </tbody>
 </table>
 
-Table B[^key-3ab4a3bf4128ad29986126892e0f8eff]
+Table B[^c-3ab4a3bf4128ad29986126892e0f8eff]
 
 Dates of mandatory registration for certain social service workers
 
@@ -227,7 +227,7 @@ Dates of mandatory registration for certain social service workers
 | Supervisor in a care at home service | 30th June 2014 | 30th June 2017 |
 | Supervisor in a housing support service | 30th June 2014 | 30th June 2017 |
 
-Table C[^key-7183cc57381ece7bfabcba9c1fb9b1c5]
+Table C[^c-7183cc57381ece7bfabcba9c1fb9b1c5]
 
 Dates of mandatory registration for certain social service workers
 
@@ -272,17 +272,17 @@ Regulation 8 revokes the 2009 Regulations, and regulation 9 provides transitiona
 
 [^c21848081]: Marginal citation: [Section 77](https://www.legislation.gov.uk/ssi/2013/227/section/77) was substituted by [S.S.I. 2011/211](https://www.legislation.gov.uk/ssi/2011/211).
 
-[^key-929cbec6df5607a976ba6104d4a3878a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2013/227/regulation/4/2) substituted (3.6.2024) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024 (S.S.I. 2024/142)](https://www.legislation.gov.uk/ssi/2024/142), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/142/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/142/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/142/regulation/3))
+[^c-929cbec6df5607a976ba6104d4a3878a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2013/227/regulation/4/2) substituted (3.6.2024) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024 (S.S.I. 2024/142)](https://www.legislation.gov.uk/ssi/2024/142), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/142/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/142/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/142/regulation/3))
 
 [^c21848091]: Marginal citation: [S.S.I. 2005/432](https://www.legislation.gov.uk/ssi/2005/432).
 
-[^key-8fa774b714222e8feaf0f20cc8c670c2]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2013/227/regulation/5/2) substituted (3.6.2024) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024 (S.S.I. 2024/142)](https://www.legislation.gov.uk/ssi/2024/142), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/142/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/142/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/142/regulation/3))
+[^c-8fa774b714222e8feaf0f20cc8c670c2]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2013/227/regulation/5/2) substituted (3.6.2024) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024 (S.S.I. 2024/142)](https://www.legislation.gov.uk/ssi/2024/142), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/142/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/142/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/142/regulation/3))
 
-[^key-ec89f34f715e7fa6f78f733b188dd538]: Textual amendment: Words in reg. 5(7) substituted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/2)
+[^c-ec89f34f715e7fa6f78f733b188dd538]: Textual amendment: Words in reg. 5(7) substituted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/2)
 
-[^key-439058130934b6914478a52c6b36997f]: Textual amendment: Reg. 5(7A) inserted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/3)
+[^c-439058130934b6914478a52c6b36997f]: Textual amendment: Reg. 5(7A) inserted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/3)
 
-[^key-5b6288f75d932db2ae76037b165e20c6]: Textual amendment: Reg. 5(7B) inserted (2.10.2017) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2017 (S.S.I. 2017/193)](https://www.legislation.gov.uk/ssi/2017/193), [regs. 1](https://www.legislation.gov.uk/ssi/2017/193/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/193/regulation/2/2)
+[^c-5b6288f75d932db2ae76037b165e20c6]: Textual amendment: Reg. 5(7B) inserted (2.10.2017) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2017 (S.S.I. 2017/193)](https://www.legislation.gov.uk/ssi/2017/193), [regs. 1](https://www.legislation.gov.uk/ssi/2017/193/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/193/regulation/2/2)
 
 [^c21848101]: Marginal citation: “Day care of children” is defined in paragraph 13 of schedule 12 to the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
 
@@ -292,10 +292,10 @@ Regulation 8 revokes the 2009 Regulations, and regulation 9 provides transitiona
 
 [^c21848131]: Marginal citation: [S.S.I. 2009/118](https://www.legislation.gov.uk/ssi/2009/118) as amended by [S.S.I. 2009/349](https://www.legislation.gov.uk/ssi/2009/349) and 2010/443.
 
-[^key-2587cdfac13573c201cc3f04dd8b2885]: Textual amendment: Sch. Table A: Table renumbered as Table A (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/4/a)
+[^c-2587cdfac13573c201cc3f04dd8b2885]: Textual amendment: Sch. Table A: Table renumbered as Table A (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/4/a)
 
-[^key-be68f754f48282af9960bd34e6722b8a]: Textual amendment: Words in sch. substituted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/4/b)
+[^c-be68f754f48282af9960bd34e6722b8a]: Textual amendment: Words in sch. substituted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/4/b)
 
-[^key-3ab4a3bf4128ad29986126892e0f8eff]: Textual amendment: Sch. Table B inserted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/4/c)
+[^c-3ab4a3bf4128ad29986126892e0f8eff]: Textual amendment: Sch. Table B inserted (30.6.2014) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2014 (S.S.I. 2014/192)](https://www.legislation.gov.uk/ssi/2014/192), [regs. 1](https://www.legislation.gov.uk/ssi/2014/192/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2014/192/regulation/2/4/c)
 
-[^key-7183cc57381ece7bfabcba9c1fb9b1c5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/227/schedule) Table C inserted (2.10.2017) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2017 (S.S.I. 2017/193)](https://www.legislation.gov.uk/ssi/2017/193), [regs. 1](https://www.legislation.gov.uk/ssi/2017/193/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/193/regulation/2/3)
+[^c-7183cc57381ece7bfabcba9c1fb9b1c5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/227/schedule) Table C inserted (2.10.2017) by [The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2017 (S.S.I. 2017/193)](https://www.legislation.gov.uk/ssi/2017/193), [regs. 1](https://www.legislation.gov.uk/ssi/2017/193/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/193/regulation/2/3)

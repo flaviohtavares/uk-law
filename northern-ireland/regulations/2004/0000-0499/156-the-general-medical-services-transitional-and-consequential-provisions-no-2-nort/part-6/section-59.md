@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Interpretation of this Part[^key-91accc0cb6ddd7022714be95c779180f]
+## 59. Interpretation of this Part[^c-91accc0cb6ddd7022714be95c779180f]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ In this Part –
 
 ## Annotations
 
-[^key-91accc0cb6ddd7022714be95c779180f]: Commencement: Art. 59 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-91accc0cb6ddd7022714be95c779180f]: Commencement: Art. 59 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00028]: Footnote: Paragraph 20(2) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

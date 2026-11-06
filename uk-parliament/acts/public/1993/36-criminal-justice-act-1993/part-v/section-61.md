@@ -23,7 +23,7 @@ summary: ''
 (1) An individual guilty of insider dealing shall be liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding six months or to both; or
-- (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding ten years[^key-187b7e9115b79211f836169c8fc3ef6d] or to both.
+- (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding ten years[^c-187b7e9115b79211f836169c8fc3ef6d] or to both.
 
 (2) Proceedings for offences under this Part shall not be instituted in England and Wales except by or with the consent of—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-187b7e9115b79211f836169c8fc3ef6d]: Textual amendment: Words in [s. 61(1)(b)](https://www.legislation.gov.uk/ukpga/1993/36/section/61/1/b) substituted (1.11.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2021/22/section/31/1), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 31(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/31/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/31/4)); [S.I. 2021/1173](https://www.legislation.gov.uk/uksi/2021/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1173/regulation/2)
+[^c-187b7e9115b79211f836169c8fc3ef6d]: Textual amendment: Words in [s. 61(1)(b)](https://www.legislation.gov.uk/ukpga/1993/36/section/61/1/b) substituted (1.11.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2021/22/section/31/1), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 31(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/31/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/31/4)); [S.I. 2021/1173](https://www.legislation.gov.uk/uksi/2021/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1173/regulation/2)

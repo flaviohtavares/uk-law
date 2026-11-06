@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Cooling off period following mandatory referral[^key-de102d701cc92e20bfcbac07f3188ce9][^key-58ce1badb7f1ebaac5bdfb8fe924374f]
+## 54. Cooling off period following mandatory referral[^c-de102d701cc92e20bfcbac07f3188ce9][^c-58ce1badb7f1ebaac5bdfb8fe924374f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de102d701cc92e20bfcbac07f3188ce9]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-de102d701cc92e20bfcbac07f3188ce9]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-58ce1badb7f1ebaac5bdfb8fe924374f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/23/section/54) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-58ce1badb7f1ebaac5bdfb8fe924374f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/23/section/54) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

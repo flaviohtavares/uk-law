@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — REPEALS[^key-f3ce3a482ee612c5786b374e29a3fbc7]
+## SCHEDULE 7 — REPEALS[^c-f3ce3a482ee612c5786b374e29a3fbc7]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ Section 253.
 
 ## Annotations
 
-[^key-f3ce3a482ee612c5786b374e29a3fbc7]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) in operation at 1.4.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-f3ce3a482ee612c5786b374e29a3fbc7]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) in operation at 1.4.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)

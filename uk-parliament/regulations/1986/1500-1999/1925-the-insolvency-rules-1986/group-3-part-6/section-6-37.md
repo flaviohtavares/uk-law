@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.37. Preliminary[^key-2de95ed67de21e94552f53a6ab0aa601]
+## 6.37. Preliminary[^c-2de95ed67de21e94552f53a6ab0aa601]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2de95ed67de21e94552f53a6ab0aa601]: Commencement: Rule 6.37 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2de95ed67de21e94552f53a6ab0aa601]: Commencement: Rule 6.37 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00142]: Marginal citation: \[FORM 6.27\]

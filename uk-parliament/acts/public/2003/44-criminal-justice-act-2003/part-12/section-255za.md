@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255ZA. Offence of remaining unlawfully at large after recall[^key-6f9f5e1fa8ed2c31c7ee97a0ec7a1926]
+## 255ZA. Offence of remaining unlawfully at large after recall[^c-6f9f5e1fa8ed2c31c7ee97a0ec7a1926]
 
 *Extent: E+W*
 
@@ -44,18 +44,18 @@ summary: ''
 (5) A person who is guilty of an offence under this section is liable—
 
 - (a) on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine (or both);
-- (b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-26ca84c597a9247e306035381b8b1fe8] or a fine (or both).
+- (b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-26ca84c597a9247e306035381b8b1fe8] or a fine (or both).
 
-(6) In relation to an offence committed before 2 May 2022[^key-33681fb1bfe434f51c24b1d99f04b1e6], the reference in subsection (5)(b) to the general limit in a magistrates’ court[^key-a14bfeac8b7a63530062837b475fec2b] is to be read as a reference to 6 months.
+(6) In relation to an offence committed before 2 May 2022[^c-33681fb1bfe434f51c24b1d99f04b1e6], the reference in subsection (5)(b) to the general limit in a magistrates’ court[^c-a14bfeac8b7a63530062837b475fec2b] is to be read as a reference to 6 months.
 
 (7) In relation to an offence committed before section 85 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 comes into force, the reference in subsection (5)(b) to a fine is to be read as a reference to a fine not exceeding the statutory maximum.
 
 ## Annotations
 
-[^key-6f9f5e1fa8ed2c31c7ee97a0ec7a1926]: Textual amendment: S. 255ZA inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/12/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/12/3)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/8)
+[^c-6f9f5e1fa8ed2c31c7ee97a0ec7a1926]: Textual amendment: S. 255ZA inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/12/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/12/3)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/8)
 
-[^key-26ca84c597a9247e306035381b8b1fe8]: Textual amendment: Words in [s. 255ZA(5)(b)](https://www.legislation.gov.uk/ukpga/2003/44/section/255ZA/5/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-26ca84c597a9247e306035381b8b1fe8]: Textual amendment: Words in [s. 255ZA(5)(b)](https://www.legislation.gov.uk/ukpga/2003/44/section/255ZA/5/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-33681fb1bfe434f51c24b1d99f04b1e6]: Textual amendment: Words in [s. 255ZA(6)](https://www.legislation.gov.uk/ukpga/2003/44/section/255ZA/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-33681fb1bfe434f51c24b1d99f04b1e6]: Textual amendment: Words in [s. 255ZA(6)](https://www.legislation.gov.uk/ukpga/2003/44/section/255ZA/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-a14bfeac8b7a63530062837b475fec2b]: Textual amendment: Words in [s. 255ZA(6)](https://www.legislation.gov.uk/ukpga/2003/44/section/255ZA/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-a14bfeac8b7a63530062837b475fec2b]: Textual amendment: Words in [s. 255ZA(6)](https://www.legislation.gov.uk/ukpga/2003/44/section/255ZA/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

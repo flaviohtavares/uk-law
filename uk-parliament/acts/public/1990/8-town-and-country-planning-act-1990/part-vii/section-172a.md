@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172A. Assurance as regards prosecution for person served with notice[^key-0ccf00a6b5136404e5364de8bb493b8b]
+## 172A. Assurance as regards prosecution for person served with notice[^c-0ccf00a6b5136404e5364de8bb493b8b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ccf00a6b5136404e5364de8bb493b8b]: Textual amendment: S. 172A inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 125](https://www.legislation.gov.uk/ukpga/2011/20/section/125), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-0ccf00a6b5136404e5364de8bb493b8b]: Textual amendment: S. 172A inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 125](https://www.legislation.gov.uk/ukpga/2011/20/section/125), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)

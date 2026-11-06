@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^key-ed03fd42295d6de102902f3bd5b8b907]
+## 24. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-ed03fd42295d6de102902f3bd5b8b907]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed03fd42295d6de102902f3bd5b8b907]: Commencement: Art. 24 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-ed03fd42295d6de102902f3bd5b8b907]: Commencement: Art. 24 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Title, commencement and extent[^key-751dda96e901e1c2de3ab14f532a1199]
+## 1. Title, commencement and extent[^c-751dda96e901e1c2de3ab14f532a1199]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-751dda96e901e1c2de3ab14f532a1199]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/859/article/1) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-751dda96e901e1c2de3ab14f532a1199]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/859/article/1) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
 [^f00002]: Footnote: “the appointed day” is defined in section 3(1) of the Northern Ireland Act 1998.

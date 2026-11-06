@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253A. Qualifications[^key-a022d5ac66ab19111224fcb49dc677d7]
+## 253A. Qualifications[^c-a022d5ac66ab19111224fcb49dc677d7]
 
 *Extent: E+W+N.I.*
 
@@ -47,11 +47,11 @@ summary: ''
 
 - “**information collator**” means any body which, for the purposes of or in connection with functions of the Secretary of State or the Welsh Ministers, is responsible for collating or checking information relating to regulated qualifications or relevant qualifications;
 - “**regulated qualification**” has the meaning given by section 130(1);
-- “**relevant qualification**” has the meaning given to “qualification” by section 56 of the Qualifications Wales Act 2015[^key-5f5018a3b58ab5be3f75c3f5fe765cd9] ;
+- “**relevant qualification**” has the meaning given to “qualification” by section 56 of the Qualifications Wales Act 2015[^c-5f5018a3b58ab5be3f75c3f5fe765cd9] ;
 - “**student information**” means information (whether obtained under this section or otherwise) relating to an individual who is seeking or has sought to obtain, or has obtained, a regulated qualification or a relevant qualification
 
 ## Annotations
 
-[^key-a022d5ac66ab19111224fcb49dc677d7]: Textual amendment: S. 253A and preceding crossheading inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/79/1), [164(3)(f)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/f)
+[^c-a022d5ac66ab19111224fcb49dc677d7]: Textual amendment: S. 253A and preceding crossheading inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/79/1), [164(3)(f)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/f)
 
-[^key-5f5018a3b58ab5be3f75c3f5fe765cd9]: Textual amendment: Words in s. 253A(6) substituted (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/9/2); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-5f5018a3b58ab5be3f75c3f5fe765cd9]: Textual amendment: Words in s. 253A(6) substituted (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/9/2); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Tax requirements to prevail over requirements of section 31.[^key-80b57d0a993fa738d532be5f5477cc60]
+## 33. Tax requirements to prevail over requirements of section 31.[^c-80b57d0a993fa738d532be5f5477cc60]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80b57d0a993fa738d532be5f5477cc60]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/1993/48/section/33) omitted (6.4.2015) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/c), [9(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/9/3)
+[^c-80b57d0a993fa738d532be5f5477cc60]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/1993/48/section/33) omitted (6.4.2015) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/c), [9(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/9/3)

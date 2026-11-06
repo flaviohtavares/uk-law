@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraph 3(4) of schedule 3 to that Act they have consulted the Lord President.
 
-## 1. Citation, commencement and interpretation[^key-abee9c89ce6b1773094175cc855f2a40]
+## 1. Citation, commencement and interpretation[^c-abee9c89ce6b1773094175cc855f2a40]
 
 (1) These Regulations may be cited as the Scottish Courts and Tribunals Service (Procedure for Appointment of Members) Regulations 2015 and come into force on 16th March 2015.
 
@@ -57,7 +57,7 @@ In accordance with paragraph 3(4) of schedule 3 to that Act they have consulted 
 - “the 2008 Act” means the Judiciary and Courts (Scotland) Act 2008;
 - “the 2014 Act” means the Courts Reform (Scotland) Act 2014[^f00002].
 
-## 2. Selection for appointment[^key-1efe50858298e731bf634ef703cc0dc6]
+## 2. Selection for appointment[^c-1efe50858298e731bf634ef703cc0dc6]
 
 (1) The members of the Scottish Courts and Tribunals Service[^f00003] listed in paragraph 2(2)(e) and (f) and (3)(a), (b) and (d) of schedule 3 to the 2008 Act shall be selected for appointment by a panel appointed by the Lord President.
 
@@ -65,7 +65,7 @@ In accordance with paragraph 3(4) of schedule 3 to that Act they have consulted 
 
 (3) The Lord President shall invite applications to be made to the panel by—
 
-- (a) notifying all sheriffs and summary sheriffs[^key-b16597cb2c7309d29935f7b93520f2fa] of a vacancy for a member listed in paragraph 2(2)(e) of schedule 3 to the 2008 Act;
+- (a) notifying all sheriffs and summary sheriffs[^c-b16597cb2c7309d29935f7b93520f2fa] of a vacancy for a member listed in paragraph 2(2)(e) of schedule 3 to the 2008 Act;
 - (b) notifying all justices of the peace of a vacancy for a member listed in paragraph 2(2)(f) of schedule 3 to the 2008 Act;
 - (c) notifying the Faculty of Advocates of a vacancy for a member listed in paragraph 2(3)(a) of schedule 3 to the 2008 Act;
 - (d) notifying the Law Society of Scotland of a vacancy for a member listed in paragraph 2(3)(b) of schedule 3 to the 2008 Act;
@@ -84,7 +84,7 @@ In accordance with paragraph 3(4) of schedule 3 to that Act they have consulted 
 
 (9) Where the panel selects for appointment more persons than are required to be appointed in each category of membership they shall notify the Lord President of their order of preference for appointment.
 
-## 3. Nomination for appointment[^key-ce24c827345edcbb61250173b64c2989]
+## 3. Nomination for appointment[^c-ce24c827345edcbb61250173b64c2989]
 
 (1) The Lord President shall notify—
 
@@ -95,7 +95,7 @@ In accordance with paragraph 3(4) of schedule 3 to that Act they have consulted 
 
 (3) Persons holding the position of Chamber President in the First-tier Tribunal for Scotland and, where relevant, persons holding an office mentioned in paragraph 3(4) of Schedule 4 to the 2014 Act, may nominate themselves or others for appointment as the member listed in paragraph 2(2)(g) of schedule 3 to the 2008 Act.
 
-## 4. Revocation[^key-809842bb69b656dfd541cae8b4b1f8c8]
+## 4. Revocation[^c-809842bb69b656dfd541cae8b4b1f8c8]
 
 The Scottish Court Service (Procedure for Appointment of Members) Regulations 2009[^f00005] are revoked.
 
@@ -123,20 +123,20 @@ Regulation 3 governs the nomination of the remaining members of the SCTS, namely
 
 [^f00001]: Footnote: [2008 asp 6](https://www.legislation.gov.uk/asp/2008/6); relevantly amended by section 130 of, and paragraph 1 of schedule 4 to, the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18) (“the 2014 Act”), subject to the transitional provision in paragraph 3 of that schedule.
 
-[^key-abee9c89ce6b1773094175cc855f2a40]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/53/regulation/1) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
+[^c-abee9c89ce6b1773094175cc855f2a40]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/53/regulation/1) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-1efe50858298e731bf634ef703cc0dc6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/53/regulation/2) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
+[^c-1efe50858298e731bf634ef703cc0dc6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/53/regulation/2) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
 
 [^f00003]: Footnote: The Scottish Courts Service is renamed as the Scottish Courts and Tribunals Service by section 130(1) of the 2014 Act. By virtue of section 130(4) of that Act, any reference in an enactment to the Scottish Court Service is, unless the contrary intention appears, to be construed as a reference to the Scottish Courts and Tribunals Service. The Courts Reform (Scotland) Act 2014 (Commencement No. 1) Order 2015 ([S.S.I. 2015/012](https://www.legislation.gov.uk/ssi/2015/12)) commenced section 130 of, and parts of paragraphs 1 and 3 of schedule 4 to, the 2014 Act, for the purpose of enabling the making of regulations under paragraph 3 of schedule 3 to the 2008 Act, and the nomination of a member in accordance with such regulations.
 
-[^key-b16597cb2c7309d29935f7b93520f2fa]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2015/53/regulation/2/3/a) inserted (27.4.2020) by [The Scottish Courts and Tribunals Service (Procedure for Appointment of Members) Amendment Regulations 2020 (S.S.I. 2020/112)](https://www.legislation.gov.uk/ssi/2020/112), [regs. 1](https://www.legislation.gov.uk/ssi/2020/112/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/112/regulation/2)
+[^c-b16597cb2c7309d29935f7b93520f2fa]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2015/53/regulation/2/3/a) inserted (27.4.2020) by [The Scottish Courts and Tribunals Service (Procedure for Appointment of Members) Amendment Regulations 2020 (S.S.I. 2020/112)](https://www.legislation.gov.uk/ssi/2020/112), [regs. 1](https://www.legislation.gov.uk/ssi/2020/112/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/112/regulation/2)
 
-[^key-ce24c827345edcbb61250173b64c2989]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/53/regulation/3) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
+[^c-ce24c827345edcbb61250173b64c2989]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/53/regulation/3) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
 
 [^f00004]: Footnote: The office of Chamber President in the First-tier Tribunal for Scotland (“Chamber President”) is created, prospectively, by section 21 of the Tribunals (Scotland) Act [2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10) (“the Tribunals Act”). Paragraph 1(8)(c) of schedule 4 to the 2014 Act inserts new paragraph 2(2)(g) of schedule 3 to the Judiciary and Courts (Scotland) Act 2008 (“the 2008 Act”), providing for one Chamber President to be appointed as a member of the Scottish Courts and Tribunals Service. Paragraph 3 of schedule 4 to the 2014 Act makes transitional provision. Paragraph (3)(1) provides (among other things) that until all of the functions of a tribunal listed in sub-paragraph (2) are transferred to the Scottish Tribunals by virtue of section 28 of the Tribunals Act, section 61A of the 2008 Act (as inserted by section 130(2) of the 2014 Act) applies in relation to that tribunal as it applies in relation to the Scottish Tribunals. Paragraph 3(3) of schedule 4 to the 2014 Act provides that paragraph 2(2)(g) of schedule 3 to the 2008 Act applies as if the reference to the position of Chamber President includes a reference to an office mentioned in paragraph 3(4) of schedule 4 to the 2014 Act in relation to a tribunal, for so long as section 61A of the 2008 Act applies, by virtue of paragraph 3(1), to that tribunal. The offices mentioned in paragraph 3(4) of schedule 4 to the 2014 Act are: President of the Lands Tribunal for Scotland; President of the Private Rented Housing Panel; President of the Mental Health Tribunal for Scotland; President of the Additional Support Needs Tribunals for Scotland; and, President of the Tax Tribunals.
 
-[^key-809842bb69b656dfd541cae8b4b1f8c8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/53/regulation/4) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
+[^c-809842bb69b656dfd541cae8b4b1f8c8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/53/regulation/4) in force at 16.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/53/regulation/1/1)
 
 [^f00005]: Footnote: [S.S.I. 2009/303](https://www.legislation.gov.uk/ssi/2009/303).

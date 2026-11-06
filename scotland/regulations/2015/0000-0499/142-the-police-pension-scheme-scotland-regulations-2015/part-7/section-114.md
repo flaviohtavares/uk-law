@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Option to commute part of pension[^key-0149365385a93bc27d92964509b9ef07]
+## 114. Option to commute part of pension[^c-0149365385a93bc27d92964509b9ef07]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0149365385a93bc27d92964509b9ef07]: Commencement: Reg. 114 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0149365385a93bc27d92964509b9ef07]: Commencement: Reg. 114 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

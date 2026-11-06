@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Registered social landlords in Wales[^key-8d5def5ef8d5c311499cca9c3421ead3]
+## 166. Registered social landlords in Wales[^c-8d5def5ef8d5c311499cca9c3421ead3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ After section 145C of the Government of Wales Act 1998 (c. 38) insert—
 
 ## Annotations
 
-[^key-8d5def5ef8d5c311499cca9c3421ead3]: Commencement: S. 166 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/g)
+[^c-8d5def5ef8d5c311499cca9c3421ead3]: Commencement: S. 166 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Persons subject to immigration control: referral or assessment by local authority etc[^key-150a593eaf4278bdcb893d7484c4c96c][^key-65fc3801c314286a02d5f787ad85629d]
+## 50. Persons subject to immigration control: referral or assessment by local authority etc[^c-150a593eaf4278bdcb893d7484c4c96c][^c-65fc3801c314286a02d5f787ad85629d]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ But this is subject to section 54(5) (decision of Tribunal to be binding on Secr
 
 ## Annotations
 
-[^key-150a593eaf4278bdcb893d7484c4c96c]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 87(4)(e)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/e)
+[^c-150a593eaf4278bdcb893d7484c4c96c]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 87(4)(e)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/e)
 
-[^key-65fc3801c314286a02d5f787ad85629d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/36/section/50) in force at 31.3.2023 in so far as not already in force by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/283/regulation/4))
+[^c-65fc3801c314286a02d5f787ad85629d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/36/section/50) in force at 31.3.2023 in so far as not already in force by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/283/regulation/4))

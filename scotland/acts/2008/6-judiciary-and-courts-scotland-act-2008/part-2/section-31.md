@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Judicial Complaints Reviewer: tenure etc.[^key-a599829c46abc2d9e2a687f92bd7390e]
+## 31. Judicial Complaints Reviewer: tenure etc.[^c-a599829c46abc2d9e2a687f92bd7390e]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ the Scottish Ministers may, by notice in writing, remove the Judicial Complaints
 
 ## Annotations
 
-[^key-a599829c46abc2d9e2a687f92bd7390e]: Commencement: S. 31 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-a599829c46abc2d9e2a687f92bd7390e]: Commencement: S. 31 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)

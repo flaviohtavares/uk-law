@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Notification of major accident etc.[^key-ff8c7f55acfa90f50353dca630b377ea]
+## 33. Notification of major accident etc.[^c-ff8c7f55acfa90f50353dca630b377ea]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff8c7f55acfa90f50353dca630b377ea]: Commencement: Reg. 33 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-ff8c7f55acfa90f50353dca630b377ea]: Commencement: Reg. 33 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

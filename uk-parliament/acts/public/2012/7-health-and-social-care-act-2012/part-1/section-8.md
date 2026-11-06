@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Secretary of State's duty as to reporting on and reviewing treatment of providers[^key-bfb6f3d2f150d48a506e2f64a384b8b3]
+## 8. Secretary of State's duty as to reporting on and reviewing treatment of providers[^c-bfb6f3d2f150d48a506e2f64a384b8b3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ After section 1F of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-bfb6f3d2f150d48a506e2f64a384b8b3]: Commencement: S. 8 in force at 1.6.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)
+[^c-bfb6f3d2f150d48a506e2f64a384b8b3]: Commencement: S. 8 in force at 1.6.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Acts causing or likely to result in damage to listed buildings.[^c12917271][^c21496521][^key-8d57c6d49b21d0f06f33eb21d21583c1][^key-9ff4664a27928dfcd8e407e55cb187b0]
+## 59. Acts causing or likely to result in damage to listed buildings.[^c12917271][^c21496521][^c-8d57c6d49b21d0f06f33eb21d21583c1][^c-9ff4664a27928dfcd8e407e55cb187b0]
 
 *Extent: E+W*
 
@@ -42,9 +42,9 @@ summary: ''
 
 [^c21496521]: Modification: S. 59 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 16(1)](https://www.legislation.gov.uk/ukpga/2008/18/section/16/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/3)
 
-[^key-8d57c6d49b21d0f06f33eb21d21583c1]: Modification: [S. 59](https://www.legislation.gov.uk/ukpga/1990/9/section/59) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/18/paragraph/3)
+[^c-8d57c6d49b21d0f06f33eb21d21583c1]: Modification: [S. 59](https://www.legislation.gov.uk/ukpga/1990/9/section/59) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/18/paragraph/3)
 
-[^key-9ff4664a27928dfcd8e407e55cb187b0]: Modification: [S. 59](https://www.legislation.gov.uk/ukpga/1990/9/section/59) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/18/paragraph/3)
+[^c-9ff4664a27928dfcd8e407e55cb187b0]: Modification: [S. 59](https://www.legislation.gov.uk/ukpga/1990/9/section/59) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/18/paragraph/3)
 
 [^c21497651]: Textual amendment: S. 59(3)(c) and preceding word inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2008/29/section/36), [248(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/248/1), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/40) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 

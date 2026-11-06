@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 16 — Local listed building consent orders: procedure[^c2181356][^key-39942da383107ebed33551b0298dbf19]
+## SCHEDULE 16 — Local listed building consent orders: procedure[^c2181356][^c-39942da383107ebed33551b0298dbf19]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ In the Planning (Listed Buildings and Conservation Areas) Act 1990, after Schedu
 
 [^c2181356]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/16) partly in force; [sch. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/16) in force for specified purposes at Royal Assent, see [s.103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-39942da383107ebed33551b0298dbf19]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/16) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/416/article/3/d)
+[^c-39942da383107ebed33551b0298dbf19]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/16) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/416/article/3/d)

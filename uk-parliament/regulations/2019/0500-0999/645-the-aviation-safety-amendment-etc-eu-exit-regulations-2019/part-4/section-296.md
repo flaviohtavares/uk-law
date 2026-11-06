@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296. Amendment of Articles 5 to 7 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-7d5915230a31903f29bb1c3ee04f32d1]
+## 296. Amendment of Articles 5 to 7 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-7d5915230a31903f29bb1c3ee04f32d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Omit the following—
 
 ## Annotations
 
-[^key-7d5915230a31903f29bb1c3ee04f32d1]: Commencement: Reg. 296 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7d5915230a31903f29bb1c3ee04f32d1]: Commencement: Reg. 296 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

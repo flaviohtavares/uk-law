@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Provision of information[^key-e14042f286eb6902f17ca9aa9b95774a][^key-8709bb7288c08b4803aea3202b5fe2a2]
+## 24. Provision of information[^c-e14042f286eb6902f17ca9aa9b95774a][^c-8709bb7288c08b4803aea3202b5fe2a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,6 +100,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e14042f286eb6902f17ca9aa9b95774a]: Commencement: S. 24 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-e14042f286eb6902f17ca9aa9b95774a]: Commencement: S. 24 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-8709bb7288c08b4803aea3202b5fe2a2]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2024/15/section/24) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/d)
+[^c-8709bb7288c08b4803aea3202b5fe2a2]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2024/15/section/24) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/d)

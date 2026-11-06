@@ -70,7 +70,7 @@ In this Order “**the Act**” means the Tobacco Products Duty Act 1979.
   - (i) inserted into cigarette-paper tubes, or
   - (ii) wrapped in cigarette paper.
 
-(2) References to cigarettes in the Act include products consisting in whole or in part of substances other than tobacco that otherwise conform to a description in paragraph (1) above [^key-def2953093c3d56ad32b43d89fdecde2]....
+(2) References to cigarettes in the Act include products consisting in whole or in part of substances other than tobacco that otherwise conform to a description in paragraph (1) above [^c-def2953093c3d56ad32b43d89fdecde2]....
 
 ## 5. Cigars
 
@@ -80,7 +80,7 @@ References to cigars in the Act include any product that is described in the Sch
 
 (1) References to hand-rolling tobacco in the Act include any product that would, but for the reference to hand-rolling tobacco in article 7(1) below, be other smoking tobacco and—
 
-- (a) in which more than 25% by weight of the tobacco particles have a cut width of less than 1.5 millimetres[^key-6c44a2f00646e2f5c320d0aecc41a55e], or
+- (a) in which more than 25% by weight of the tobacco particles have a cut width of less than 1.5 millimetres[^c-6c44a2f00646e2f5c320d0aecc41a55e], or
 - (b) that is sold or intended to be sold for making into cigarettes by hand, or
 - (c) that is of a kind used for making into cigarettes by hand.
 
@@ -96,9 +96,9 @@ References to cigars in the Act include any product that is described in the Sch
 - (a) tobacco that has been cut or otherwise split, twisted or pressed into blocks, and is capable of being smoked without further industrial processing, or
 - (b) tobacco refuse put up for retail sale that can be smoked.
 
-(2) References to other smoking tobacco in the Act include products consisting in whole or in part of substances other than tobacco that otherwise conform to a description in paragraph (1) above [^key-c627583d8c70fe9ad4cffbf82d96005e]....
+(2) References to other smoking tobacco in the Act include products consisting in whole or in part of substances other than tobacco that otherwise conform to a description in paragraph (1) above [^c-c627583d8c70fe9ad4cffbf82d96005e]....
 
-(3)[^key-466ff02721b5b74f1dc49d39cde41d07] For the purposes of paragraph (1), “tobacco refuse” means the remnants of tobacco leaves and the by-products of the processing of tobacco or the manufacture of tobacco products.
+(3)[^c-466ff02721b5b74f1dc49d39cde41d07] For the purposes of paragraph (1), “tobacco refuse” means the remnants of tobacco leaves and the by-products of the processing of tobacco or the manufacture of tobacco products.
 
 ## 8. Chewing tobacco
 
@@ -110,7 +110,7 @@ References to cigars in the Act include any product that is described in the Sch
 
 (2) References to chewing tobacco in the Act include any product prepared for chewing that does not include tobacco but consists in whole or in part of a substitute for tobacco, except for such a product that is intended solely as an aid to persons to give up smoking.
 
-## 9. Tobacco for heating[^key-fe90bd59989ec5ed7215e22d62fced34]
+## 9. Tobacco for heating[^c-fe90bd59989ec5ed7215e22d62fced34]
 
 (1) References to tobacco for heating in the Act include any product that—
 
@@ -131,13 +131,13 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 article 5
 
-**1.**[^key-d3d1756f6a1bbc41bbbcdfeef2e6a088] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d3d1756f6a1bbc41bbbcdfeef2e6a088] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** *Cigars with an outer wrapper of natural tobacco*. Cigars falling within this description include cigars containing a mixture of tobacco and other substances; provided that they have an outer wrapper of natural tobacco. A cigar containing only substances other than tobacco does not fall within this description.
 
-**3.**[^key-194428f98b6bebc567e9c3f857efe3c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-194428f98b6bebc567e9c3f857efe3c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** *Cigars with a threshed blend filler and with an outer wrapper that has the normal colour of a cigar*. The outer wrapper must be made of reconstituted tobacco and must cover the cigar in full, including where appropriate the filter, but not (in the case of cigars with a mouthpiece) the mouthpiece. If the filler is held together with a binder, the binder may be made of a material other than tobacco or reconstituted tobacco. Each cigar must have a unit weight (excluding the weight of any filter or mouthpiece) of not less than 2.3 grams and not more than 10 grams.[^key-6a1a35f9856a798a18c3a95ada8b21d3] The circumference over at least one third of the length of the cigar must not be less than 34 mm. A cigar containing only substances other than tobacco does not fall within this description.
+**4.** *Cigars with a threshed blend filler and with an outer wrapper that has the normal colour of a cigar*. The outer wrapper must be made of reconstituted tobacco and must cover the cigar in full, including where appropriate the filter, but not (in the case of cigars with a mouthpiece) the mouthpiece. If the filler is held together with a binder, the binder may be made of a material other than tobacco or reconstituted tobacco. Each cigar must have a unit weight (excluding the weight of any filter or mouthpiece) of not less than 2.3 grams and not more than 10 grams.[^c-6a1a35f9856a798a18c3a95ada8b21d3] The circumference over at least one third of the length of the cigar must not be less than 34 mm. A cigar containing only substances other than tobacco does not fall within this description.
 
 **5.** A product that is described as a cigarillo but falls within one of the above descriptions is a cigar.
 
@@ -171,18 +171,18 @@ Products that do not contain any tobacco are excluded from the description of ci
 
 [^c5048771]: Marginal citation: [S.I. 1977/1979](https://www.legislation.gov.uk/uksi/1977/1979).
 
-[^key-def2953093c3d56ad32b43d89fdecde2]: Textual amendment: Words in art. 4(2) omitted (1.1.2014) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2013 (S.I. 2013/2721)](https://www.legislation.gov.uk/uksi/2013/2721), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2721/article/3/1)
+[^c-def2953093c3d56ad32b43d89fdecde2]: Textual amendment: Words in art. 4(2) omitted (1.1.2014) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2013 (S.I. 2013/2721)](https://www.legislation.gov.uk/uksi/2013/2721), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2721/article/3/1)
 
-[^key-6c44a2f00646e2f5c320d0aecc41a55e]: Textual amendment: Words in art. 6(1)(a) substituted (1.1.2011) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/2)
+[^c-6c44a2f00646e2f5c320d0aecc41a55e]: Textual amendment: Words in art. 6(1)(a) substituted (1.1.2011) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/2)
 
-[^key-c627583d8c70fe9ad4cffbf82d96005e]: Textual amendment: Words in art. 7(2) omitted (1.1.2014) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2013 (S.I. 2013/2721)](https://www.legislation.gov.uk/uksi/2013/2721), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2721/article/3/2)
+[^c-c627583d8c70fe9ad4cffbf82d96005e]: Textual amendment: Words in art. 7(2) omitted (1.1.2014) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2013 (S.I. 2013/2721)](https://www.legislation.gov.uk/uksi/2013/2721), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2721/article/3/2)
 
-[^key-466ff02721b5b74f1dc49d39cde41d07]: Textual amendment: Art. 7(3) added (1.1.2011) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/3)
+[^c-466ff02721b5b74f1dc49d39cde41d07]: Textual amendment: Art. 7(3) added (1.1.2011) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/3)
 
-[^key-fe90bd59989ec5ed7215e22d62fced34]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2003/1471/article/9) inserted (1.7.2019) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2019 (S.I. 2019/953)](https://www.legislation.gov.uk/uksi/2019/953), [arts. 1](https://www.legislation.gov.uk/uksi/2019/953/article/1), [2](https://www.legislation.gov.uk/uksi/2019/953/article/2)
+[^c-fe90bd59989ec5ed7215e22d62fced34]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2003/1471/article/9) inserted (1.7.2019) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2019 (S.I. 2019/953)](https://www.legislation.gov.uk/uksi/2019/953), [arts. 1](https://www.legislation.gov.uk/uksi/2019/953/article/1), [2](https://www.legislation.gov.uk/uksi/2019/953/article/2)
 
-[^key-d3d1756f6a1bbc41bbbcdfeef2e6a088]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1471/schedule/paragraph/1) omitted (1.1.2011) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/4/a)
+[^c-d3d1756f6a1bbc41bbbcdfeef2e6a088]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1471/schedule/paragraph/1) omitted (1.1.2011) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/4/a)
 
-[^key-194428f98b6bebc567e9c3f857efe3c0]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/1471/schedule/paragraph/3) omitted (1.1.2011) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/4/b)
+[^c-194428f98b6bebc567e9c3f857efe3c0]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/1471/schedule/paragraph/3) omitted (1.1.2011) by virtue of [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/4/b)
 
-[^key-6a1a35f9856a798a18c3a95ada8b21d3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/1471/schedule/paragraph/4) substituted (1.1.2011) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/4/c)
+[^c-6a1a35f9856a798a18c3a95ada8b21d3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/1471/schedule/paragraph/4) substituted (1.1.2011) by [The Tobacco Products (Descriptions of Products) (Amendment) Order 2010 (S.I. 2010/2852)](https://www.legislation.gov.uk/uksi/2010/2852), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2852/article/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2010/2852/article/2/4/c)

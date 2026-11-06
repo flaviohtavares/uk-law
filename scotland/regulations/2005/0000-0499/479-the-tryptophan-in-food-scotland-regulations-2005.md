@@ -46,19 +46,19 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16(1)(a) and (f), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and of all other powers enabling them in that behalf, having had regard in accordance with section 48(4A)[^f00002] of that Act to relevant advice given by the Food Standards Agency and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-7c59636a19e6d59e45a9509118fac30b]
+## 1. Citation, commencement and extent[^c-7c59636a19e6d59e45a9509118fac30b]
 
 (1) These Regulations may be cited as the Tryptophan in Food (Scotland) Regulations 2005 and shall come into force on 11th November 2005.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-3515ba92761bfa78e3e5355188440216]
+## 2. Interpretation[^c-3515ba92761bfa78e3e5355188440216]
 
 (1) In these Regulations–
 
 - “the Act” means the Food Safety Act 1990;
 - “appropriate medical certificate” means a certificate in writing, given by a registered medical practitioner, that a person requires food to which tryptophan has been added to treat a condition from which a registered medical practitioner has diagnosed that person to be suffering;
-- “[^key-407af88ecaa7bdf2850484a668333455]**Regulation 953/2009**” means Commission Regulation [(EC) No. 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) on substances that may be added for specific nutritional purposes in foods for particular nutritional uses;
+- “[^c-407af88ecaa7bdf2850484a668333455]**Regulation 953/2009**” means Commission Regulation [(EC) No. 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) on substances that may be added for specific nutritional purposes in foods for particular nutritional uses;
 - “dose form” means a form such as capsules, pastilles, tablets, pills, and other similar forms, sachets of powder, ampoules of liquids, drop dispensing bottles, and other similar forms of liquids or powders designed to be taken in measured small unit quantities;
 - “European Pharmacopoeia” means the European Pharmacopoeia, 5th Edition (2004) published by the European Directorate for the Quality of Medicines;
 - “food supplement” means any food the purpose of which is to supplement the normal diet and which–
@@ -77,13 +77,13 @@ The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16
 
 and references in regulations 4 and 5 to food containing tryptophan do not include cases where that tryptophan only occurs naturally in the food or an ingredient of the food.
 
-(3)[^key-28fab1123072b3c4e9c700653d1413b9] The reference in regulation 5(2) to the Annex to Regulation 953/2009 is a reference to that Annex as amended from time to time.
+(3)[^c-28fab1123072b3c4e9c700653d1413b9] The reference in regulation 5(2) to the Annex to Regulation 953/2009 is a reference to that Annex as amended from time to time.
 
-## 3. Presumption[^key-6c618b8064db9a591b3720c85aa00418]
+## 3. Presumption[^c-6c618b8064db9a591b3720c85aa00418]
 
 Where any requirements of these Regulations are contravened in respect of any food and that food is part of a batch, lot or consignment of food of the same class or description, it shall be presumed, until the contrary is proved, that all of the food in that batch, lot or consignment fails to comply with those requirements.
 
-## 4. Prohibitions[^key-493eb4309dbbe33770c3d664b22e650b]
+## 4. Prohibitions[^c-493eb4309dbbe33770c3d664b22e650b]
 
 Subject to regulation 5, no person shall–
 
@@ -91,7 +91,7 @@ Subject to regulation 5, no person shall–
 - (b) sell, or offer for sale, food containing tryptophan; or
 - (c) expose for sale food containing tryptophan.
 
-## 5. Exceptions from prohibitions[^key-480d0f7cc72e7d40cf18d3d551e1d94b]
+## 5. Exceptions from prohibitions[^c-480d0f7cc72e7d40cf18d3d551e1d94b]
 
 (1) Food containing tryptophan may be sold or offered for sale–
 
@@ -107,7 +107,7 @@ to a person in respect of whom there is an appropriate medical certificate or to
 
 - (a) laevorotatory tryptophan added to any infant formula or follow-on formula;
 - (b) laevorotatory tryptophan added to any processed cereal-based foods or baby foods; or
-- (c)[^key-03f2e8de522064c9e6bd5a4c63caa353] laevorotatory tryptophan, its sodium, potassium, calcium or magnesium salts or its hydrochloride, added in compliance with Regulation 953/2009 to any food for a particular nutritional use referred to in the Annex to that Regulation;
+- (c)[^c-03f2e8de522064c9e6bd5a4c63caa353] laevorotatory tryptophan, its sodium, potassium, calcium or magnesium salts or its hydrochloride, added in compliance with Regulation 953/2009 to any food for a particular nutritional use referred to in the Annex to that Regulation;
 
 if that added substance complies with the purity criteria specified for that substance in the European Pharmacopoeia.
 
@@ -116,17 +116,17 @@ if that added substance complies with the purity criteria specified for that sub
 - (a) the laevorotatory tryptophan complies with the purity criteria specified for that substance in the European Pharmacopoeia; and
 - (b) the recommended daily dose for that food supplement does not exceed 220 mg.
 
-## 6. Offences and penalty[^key-a11c5b72fea0fe1503a9afd18717d260]
+## 6. Offences and penalty[^c-a11c5b72fea0fe1503a9afd18717d260]
 
 (1) Subject to paragraph (2), a person who contravenes regulation 4 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) A pharmacist or a person acting in the course of the activities of a hospital who contravenes or fails to comply with regulation 4(b) by reason only that a document purporting to be the appropriate medical certificate is not genuine does not commit an offence if, having exercised all due diligence, that pharmacist or person has reasonable cause to believe that the document was an appropriate medical certificate.
 
-## 7. Enforcement[^key-f18f85122969a9309658d92f9f7ca9d6]
+## 7. Enforcement[^c-f18f85122969a9309658d92f9f7ca9d6]
 
 Each food authority shall enforce and execute the provisions of these Regulations in its area.
 
-## 8. Application of various provisions of the Act[^key-a757609ffc7b8a7d9e0ff0947051b46c]
+## 8. Application of various provisions of the Act[^c-a757609ffc7b8a7d9e0ff0947051b46c]
 
 The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof shall be construed as a reference to these Regulations–
 
@@ -141,11 +141,11 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (i) section 36A (offences by Scottish partnerships)[^f00010]; and
 - (j) section 44 (protection of officers acting in good faith).
 
-## 9. Condemnation of food[^key-f165c67b9d01cece7192991cd0cd2c61]
+## 9. Condemnation of food[^c-f165c67b9d01cece7192991cd0cd2c61]
 
 Where any food is certified by a food analyst to an authorised officer as being food which it is an offence under these Regulations to sell, that food shall be treated for the purposes of section 9 of the Act (inspection and seizure of suspected food)[^f00011] as failing to comply with food safety requirements.
 
-## 10. Revocations[^key-3c9b18038d8110793d9b97da31bc2982]
+## 10. Revocations[^c-3c9b18038d8110793d9b97da31bc2982]
 
 (1) The Tryptophan in Food (Scotland) Regulations 1990[^f00012] are revoked.
 
@@ -193,11 +193,11 @@ A Regulatory Impact Assessment which includes an assessment of the effect which 
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1, as last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4).
 
-[^key-7c59636a19e6d59e45a9509118fac30b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/479/regulation/1) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-7c59636a19e6d59e45a9509118fac30b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/479/regulation/1) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
-[^key-3515ba92761bfa78e3e5355188440216]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/479/regulation/2) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-3515ba92761bfa78e3e5355188440216]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/479/regulation/2) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
-[^key-407af88ecaa7bdf2850484a668333455]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/2/1) substituted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2009/427/regulation/5/2/a)
+[^c-407af88ecaa7bdf2850484a668333455]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/2/1) substituted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2009/427/regulation/5/2/a)
 
 [^f00007]: Footnote: S.I. [1995/77](https://www.legislation.gov.uk/uksi/1995/77), to which there are amendments not relevant to these Regulations.
 
@@ -205,29 +205,29 @@ A Regulatory Impact Assessment which includes an assessment of the effect which 
 
 [^f00009]: Footnote: [S.S.I. 2004/8](https://www.legislation.gov.uk/ssi/2004/8).
 
-[^key-28fab1123072b3c4e9c700653d1413b9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2005/479/regulation/2/3) inserted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2009/427/regulation/5/2/b)
+[^c-28fab1123072b3c4e9c700653d1413b9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2005/479/regulation/2/3) inserted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2009/427/regulation/5/2/b)
 
-[^key-6c618b8064db9a591b3720c85aa00418]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2005/479/regulation/3) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-6c618b8064db9a591b3720c85aa00418]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2005/479/regulation/3) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
-[^key-493eb4309dbbe33770c3d664b22e650b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/479/regulation/4) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-493eb4309dbbe33770c3d664b22e650b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/479/regulation/4) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
-[^key-480d0f7cc72e7d40cf18d3d551e1d94b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/479/regulation/5) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-480d0f7cc72e7d40cf18d3d551e1d94b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/479/regulation/5) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
-[^key-03f2e8de522064c9e6bd5a4c63caa353]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/ssi/2005/479/regulation/5/2/c) substituted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2009/427/regulation/5/3)
+[^c-03f2e8de522064c9e6bd5a4c63caa353]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/ssi/2005/479/regulation/5/2/c) substituted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2009/427/regulation/5/3)
 
-[^key-a11c5b72fea0fe1503a9afd18717d260]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/479/regulation/6) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-a11c5b72fea0fe1503a9afd18717d260]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/479/regulation/6) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
-[^key-f18f85122969a9309658d92f9f7ca9d6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/479/regulation/7) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-f18f85122969a9309658d92f9f7ca9d6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/479/regulation/7) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
-[^key-a757609ffc7b8a7d9e0ff0947051b46c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/479/regulation/8) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-a757609ffc7b8a7d9e0ff0947051b46c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/479/regulation/8) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
 [^f00010]: Footnote: Section 36A was inserted by the 1999 Act, section 40(1) and Schedule 5, paragraph 16.
 
-[^key-f165c67b9d01cece7192991cd0cd2c61]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/479/regulation/9) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-f165c67b9d01cece7192991cd0cd2c61]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/479/regulation/9) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
 [^f00011]: Footnote: Section 9 was amended by S.I. [2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
-[^key-3c9b18038d8110793d9b97da31bc2982]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2005/479/regulation/10) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
+[^c-3c9b18038d8110793d9b97da31bc2982]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2005/479/regulation/10) in force at 11.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1990/1792](https://www.legislation.gov.uk/uksi/1990/1792), relevantly amended by [S.S.I. 2002/397](https://www.legislation.gov.uk/ssi/2002/397) and [2004/8](https://www.legislation.gov.uk/ssi/2004/8).
 

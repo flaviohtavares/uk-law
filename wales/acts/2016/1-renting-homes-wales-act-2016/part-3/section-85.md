@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Application to court relating to consent[^key-68235c2b7d3ba2243222327fefc8eb23]
+## 85. Application to court relating to consent[^c-68235c2b7d3ba2243222327fefc8eb23]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68235c2b7d3ba2243222327fefc8eb23]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2016/1/section/85) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-68235c2b7d3ba2243222327fefc8eb23]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2016/1/section/85) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

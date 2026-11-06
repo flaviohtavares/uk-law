@@ -44,7 +44,7 @@ at 6.00 p.m. on 7th August 2020
 
 Coming into operation in accordance with regulation 1
 
-[^key-6e2f1a1a27a9ce3d2dacce89144cfaa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e2f1a1a27a9ce3d2dacce89144cfaa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -68,12 +68,12 @@ Coming into operation in accordance with regulation 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e2f1a1a27a9ce3d2dacce89144cfaa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e2f1a1a27a9ce3d2dacce89144cfaa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e2f1a1a27a9ce3d2dacce89144cfaa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e2f1a1a27a9ce3d2dacce89144cfaa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e2f1a1a27a9ce3d2dacce89144cfaa3]: Textual amendment: Regulations revoked (9.4.2021) by [The Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021 (S.R. 2021/93)](https://www.legislation.gov.uk/nisr/2021/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/93/regulation/1/1), [29(b)](https://www.legislation.gov.uk/nisr/2021/93/regulation/29/b) (with [reg. 31](https://www.legislation.gov.uk/nisr/2021/93/regulation/31))
+[^c-6e2f1a1a27a9ce3d2dacce89144cfaa3]: Textual amendment: Regulations revoked (9.4.2021) by [The Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021 (S.R. 2021/93)](https://www.legislation.gov.uk/nisr/2021/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/93/regulation/1/1), [29(b)](https://www.legislation.gov.uk/nisr/2021/93/regulation/29/b) (with [reg. 31](https://www.legislation.gov.uk/nisr/2021/93/regulation/31))

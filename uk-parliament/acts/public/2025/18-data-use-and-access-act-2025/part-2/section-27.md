@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Introductory[^key-93ed441b513cfbf6fa4e0a2f0477a735][^key-d72696026f969e631220e93319301761]
+## 27. Introductory[^c-93ed441b513cfbf6fa4e0a2f0477a735][^c-d72696026f969e631220e93319301761]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93ed441b513cfbf6fa4e0a2f0477a735]: Commencement: S. 27 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-93ed441b513cfbf6fa4e0a2f0477a735]: Commencement: S. 27 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-d72696026f969e631220e93319301761]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/18/section/27) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-d72696026f969e631220e93319301761]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/18/section/27) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

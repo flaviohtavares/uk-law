@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsections (2), (4) and (5) below[^c13606671] and to[^key-875ebd49ab4bd40fb6ec59d16d7a1e2c] section 8D and[^key-a68baa5dfad3423ddeb1b32323a850c5] Schedule 1A the tax charged on the value transferred by a chargeable transfer made by any transferor shall be charged at the following rate or rates, that is to say—
+(1) Subject to subsections (2), (4) and (5) below[^c13606671] and to[^c-875ebd49ab4bd40fb6ec59d16d7a1e2c] section 8D and[^c-a68baa5dfad3423ddeb1b32323a850c5] Schedule 1A the tax charged on the value transferred by a chargeable transfer made by any transferor shall be charged at the following rate or rates, that is to say—
 
 - (a) if the transfer is the first chargeable transfer made by that transferor in the period of seven years[^c13606681] ending with the date of the transfer, at the rate or rates applicable to that value under the . . . [^c13606691] Table in Schedule 1 to this Act;
 - (b) in any other case, at the rate or rates applicable under that Table to such part of the aggregate of—
@@ -46,9 +46,9 @@ summary: ''
 
 [^c13606671]: Textual amendment: Finance Act 1986 Sch. 19, para. 2(1)(a),*with effect from* 18*March* 1986.
 
-[^key-875ebd49ab4bd40fb6ec59d16d7a1e2c]: Textual amendment: Words in s. 7(1) inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/3)
+[^c-875ebd49ab4bd40fb6ec59d16d7a1e2c]: Textual amendment: Words in s. 7(1) inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/3)
 
-[^key-a68baa5dfad3423ddeb1b32323a850c5]: Textual amendment: Words in s. 7(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/2)
+[^c-a68baa5dfad3423ddeb1b32323a850c5]: Textual amendment: Words in s. 7(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/2)
 
 [^c13606681]: Textual amendment: Finance Act 1986 Sch. 19, para. 2(1)(b),*with effect from* 18*March* 1986.*Originally*
 

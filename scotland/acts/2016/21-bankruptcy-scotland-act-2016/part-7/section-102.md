@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Orders under section 101[^key-0ed84071d0bacbb297fbbc5da4572a1a]
+## 102. Orders under section 101[^c-0ed84071d0bacbb297fbbc5da4572a1a]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ is equal to the restoration amount.
 
 ## Annotations
 
-[^key-0ed84071d0bacbb297fbbc5da4572a1a]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2016/21/section/102) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0ed84071d0bacbb297fbbc5da4572a1a]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2016/21/section/102) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

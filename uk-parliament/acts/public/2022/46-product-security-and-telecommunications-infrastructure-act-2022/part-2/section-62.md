@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Rent under tenancies conferring code rights: Northern Ireland[^key-ca49c80510d81eb8ac8a549b25d6d6c4][^key-bc9700a53d0699cfc54aef84c48830be]
+## 62. Rent under tenancies conferring code rights: Northern Ireland[^c-ca49c80510d81eb8ac8a549b25d6d6c4][^c-bc9700a53d0699cfc54aef84c48830be]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca49c80510d81eb8ac8a549b25d6d6c4]: Commencement: S. 62 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-ca49c80510d81eb8ac8a549b25d6d6c4]: Commencement: S. 62 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-bc9700a53d0699cfc54aef84c48830be]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/46/section/62) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/b) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
+[^c-bc9700a53d0699cfc54aef84c48830be]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/46/section/62) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/b) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))

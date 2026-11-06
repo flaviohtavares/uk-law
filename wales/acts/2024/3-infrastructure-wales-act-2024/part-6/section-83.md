@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Deemed consent under a marine licence[^key-4364c304d1c23e80fb03aaf0f3534cac][^key-4f58b9b2135cf8a3b1ae2c8a17b3aeec]
+## 83. Deemed consent under a marine licence[^c-4364c304d1c23e80fb03aaf0f3534cac][^c-4f58b9b2135cf8a3b1ae2c8a17b3aeec]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4364c304d1c23e80fb03aaf0f3534cac]: Commencement: S. 83 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-4364c304d1c23e80fb03aaf0f3534cac]: Commencement: S. 83 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-4f58b9b2135cf8a3b1ae2c8a17b3aeec]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2024/3/section/83) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-4f58b9b2135cf8a3b1ae2c8a17b3aeec]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2024/3/section/83) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

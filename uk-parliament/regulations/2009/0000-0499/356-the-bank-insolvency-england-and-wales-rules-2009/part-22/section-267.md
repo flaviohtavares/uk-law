@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 267. Insolvency practitioner’s security[^key-efbbf37364b3c4f19b0b2169e76e635e]
+## 267. Insolvency practitioner’s security[^c-efbbf37364b3c4f19b0b2169e76e635e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efbbf37364b3c4f19b0b2169e76e635e]: Commencement: Rule 267 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-efbbf37364b3c4f19b0b2169e76e635e]: Commencement: Rule 267 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

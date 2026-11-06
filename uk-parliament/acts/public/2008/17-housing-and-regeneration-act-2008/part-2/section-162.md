@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Company: winding up[^key-fcb3b6f40d434ada99bc3089316ced71]
+## 162. Company: winding up[^c-fcb3b6f40d434ada99bc3089316ced71]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb3b6f40d434ada99bc3089316ced71]: Textual amendment: S. 162 omitted (5.7.2018) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/6/paragraph/7); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/c)
+[^c-fcb3b6f40d434ada99bc3089316ced71]: Textual amendment: S. 162 omitted (5.7.2018) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/6/paragraph/7); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/c)

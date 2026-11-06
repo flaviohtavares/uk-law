@@ -47,7 +47,7 @@ Add (applying that section) the amount of any payments and benefits received by 
 
   *Step 5*
 
-  Deduct any contributions made in the year for the benefit of the worker by the intermediary to a registered pension scheme[^key-6ad1dbec97c69dcae8091f300b8b88b9] that if made by an employer for the benefit of an employee would not be chargeable to income tax as income of the employee.
+  Deduct any contributions made in the year for the benefit of the worker by the intermediary to a registered pension scheme[^c-6ad1dbec97c69dcae8091f300b8b88b9] that if made by an employer for the benefit of an employee would not be chargeable to income tax as income of the employee.
 
   This does not apply to excess contributions made and later repaid.
 
@@ -69,7 +69,7 @@ Add (applying that section) the amount of any payments and benefits received by 
 
 (1A)[^M_F_780f493d-3e94-4009-eac3-bcf0fd760cc1] For the purposes of step 1 of subsection (1), any payment or benefit which is employment income of the worker by virtue of section 863G(4) of ITTOIA 2005 (salaried members of limited liability partnerships: anti-avoidance) is to be ignored.
 
-(2) If section 61 of the Finance Act 2004[^key-91cb0e9f21af42fb77d1bc32bd322652] applies (sub-contractors in the construction industry: payments to be made under deduction), the intermediary is treated for the purposes of step 1 of subsection (1) as receiving the amount that would have been received had no deduction been made under that section.
+(2) If section 61 of the Finance Act 2004[^c-91cb0e9f21af42fb77d1bc32bd322652] applies (sub-contractors in the construction industry: payments to be made under deduction), the intermediary is treated for the purposes of step 1 of subsection (1) as receiving the amount that would have been received had no deduction been made under that section.
 
 (3) In step 3 of subsection (1), the reference to expenses met by the intermediary includes—
 
@@ -100,8 +100,8 @@ Add (applying that section) the amount of any payments and benefits received by 
 
 ## Annotations
 
-[^key-6ad1dbec97c69dcae8091f300b8b88b9]: Textual amendment: Words in s. 54(1) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 56](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/56) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-6ad1dbec97c69dcae8091f300b8b88b9]: Textual amendment: Words in s. 54(1) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 56](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/56) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^M_F_780f493d-3e94-4009-eac3-bcf0fd760cc1]: Textual amendment: S. 54(1A) inserted (retrospective to 6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/5), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
 
-[^key-91cb0e9f21af42fb77d1bc32bd322652]: Textual amendment: Words in s. 54(2) substituted (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 12 para. 17(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/12/paragraph/17/2)
+[^c-91cb0e9f21af42fb77d1bc32bd322652]: Textual amendment: Words in s. 54(2) substituted (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 12 para. 17(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/12/paragraph/17/2)

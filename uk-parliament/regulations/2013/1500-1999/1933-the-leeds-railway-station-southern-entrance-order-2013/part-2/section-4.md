@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Power to construct and maintain works[^key-dd2c75881247579c514c188e72337426]
+## 4. Power to construct and maintain works[^c-dd2c75881247579c514c188e72337426]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dd2c75881247579c514c188e72337426]: Commencement: Art. 4 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-dd2c75881247579c514c188e72337426]: Commencement: Art. 4 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
 
 [^f00013]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

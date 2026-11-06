@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**161.**[^key-b7def921ff267280ded4e6011609fe3d][^key-0911a405094a7113ee95c34b80e274d4] The part of the Elms ward of the community of Magor with Undy shown hatched on Map 113—
+**161.**[^c-b7def921ff267280ded4e6011609fe3d][^c-0911a405094a7113ee95c34b80e274d4] The part of the Elms ward of the community of Magor with Undy shown hatched on Map 113—
 
 - (a) is transferred to the community of Rogiet;
 - (b) forms part of the electoral ward of Rogiet.
 
 ## Annotations
 
-[^key-b7def921ff267280ded4e6011609fe3d]: Commencement: Art. 161 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-b7def921ff267280ded4e6011609fe3d]: Commencement: Art. 161 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-0911a405094a7113ee95c34b80e274d4]: Commencement: [Art. 161](https://www.legislation.gov.uk/wsi/2021/1227/article/161) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-0911a405094a7113ee95c34b80e274d4]: Commencement: [Art. 161](https://www.legislation.gov.uk/wsi/2021/1227/article/161) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

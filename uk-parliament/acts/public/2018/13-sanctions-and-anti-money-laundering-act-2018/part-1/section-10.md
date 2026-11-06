@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Designation powers: general[^key-64179b1be7256a8963a4ca101cd87439][^key-c586c72b2628e63a17ba496d6d5a231d]
+## 10. Designation powers: general[^c-64179b1be7256a8963a4ca101cd87439][^c-c586c72b2628e63a17ba496d6d5a231d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ that Minister must without delay take such steps as are reasonably practicable t
 
 ## Annotations
 
-[^key-64179b1be7256a8963a4ca101cd87439]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/13/section/10) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-64179b1be7256a8963a4ca101cd87439]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/13/section/10) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
 
-[^key-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

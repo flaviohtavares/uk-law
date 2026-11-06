@@ -24,7 +24,7 @@ Section 103
 
 ### Part 1 — Trusted flaggers
 
-#### 1. Duty to designate trusted flagger[^key-94f79fb7095fa9bbfa6de7a4af82c30d][^key-160f031481b75f4161822a7ab3c4899f]
+#### 1. Duty to designate trusted flagger[^c-94f79fb7095fa9bbfa6de7a4af82c30d][^c-160f031481b75f4161822a7ab3c4899f]
 
 (1) The Secretary of State may by regulations designate persons as suitable to make intimate image reports to—
 
@@ -46,7 +46,7 @@ for the purpose of assisting the providers to make judgments about whether conte
 
 (5) Terms used in sub-paragraph (2)(a) and in section 66B of the Sexual Offences Act 2003 have the same meaning in sub-paragraph (2)(a) as in section 66B.
 
-#### 2. Duties to report intimate image content to trusted flagger[^key-6ae2028c49ae684957fa69eafdf39135][^key-2738cf4d9dca77888d57cfcb6327af61]
+#### 2. Duties to report intimate image content to trusted flagger[^c-6ae2028c49ae684957fa69eafdf39135][^c-2738cf4d9dca77888d57cfcb6327af61]
 
 (1) The Secretary of State may by regulations amend the Online Safety Act 2023 for, or in connection with, the imposition on providers of regulated services of duties relating to the provision of intimate image information to a person designated under paragraph 1.
 
@@ -58,7 +58,7 @@ for the purpose of assisting the providers to make judgments about whether conte
 
 ### Part 2 — The intimate image register
 
-#### 3. The intimate image register[^key-7f1d130298b4badfa88a80a77cfd3c87][^key-36774276c230679e3a3ad80b473ea10c]
+#### 3. The intimate image register[^c-7f1d130298b4badfa88a80a77cfd3c87][^c-36774276c230679e3a3ad80b473ea10c]
 
 (1) The Secretary of State may by regulations make provision for or in connection with a register of intimate image material (the “intimate image register”).
 
@@ -69,7 +69,7 @@ for the purpose of assisting the providers to make judgments about whether conte
 
 (3) In this Part of this Schedule “**intimate image content**” has the meaning given by section 59 of the Online Safety Act 2023, except that section 59 applies as if subsections (13) and (14) (“intimate image content” on user-to-user services limited to user-generated content) were omitted.
 
-#### 4. The registrar[^key-1448b99762be54783ca63d1b8f0b54b0][^key-6b923aa0c39467bbc74ab6ddf13107c7]
+#### 4. The registrar[^c-1448b99762be54783ca63d1b8f0b54b0][^c-6b923aa0c39467bbc74ab6ddf13107c7]
 
 (1) The regulations may provide for the intimate image register to be maintained by—
 
@@ -84,7 +84,7 @@ for the purpose of assisting the providers to make judgments about whether conte
 
 (3) The person who maintains the intimate image register is referred to in this Schedule as the registrar.
 
-#### 5. Operation of intimate image register[^key-440d5b5b1c9f85d5ca3da71822a976ff][^key-b230a260593c7e93944372ef91f89d77]
+#### 5. Operation of intimate image register[^c-440d5b5b1c9f85d5ca3da71822a976ff][^c-b230a260593c7e93944372ef91f89d77]
 
 The regulations may make provision about—
 
@@ -99,7 +99,7 @@ The regulations may make provision about—
 
   for purposes specified in the regulations.
 
-#### 6. Payment of fees to registrar[^key-8f0dade064e723e13921c1dd3d321eae][^key-f124678a3e3319d76ff2dbfe1cc47ad3]
+#### 6. Payment of fees to registrar[^c-8f0dade064e723e13921c1dd3d321eae][^c-f124678a3e3319d76ff2dbfe1cc47ad3]
 
 (1) The regulations may require providers of internet services and internet access services to pay fees to the registrar, as a means of recovering the costs incurred by the registrar in exercising functions under the regulations.
 
@@ -108,7 +108,7 @@ The regulations may make provision about—
 - (a) for fees to be paid in respect of specified periods;
 - (b) for different fees to be payable by different providers.
 
-#### 7. Duties of providers of internet services and internet access services[^key-f4ca19f071e0abcbae04a23979dee640][^key-853cb5dbf861a2a84edbf5e364103f37]
+#### 7. Duties of providers of internet services and internet access services[^c-f4ca19f071e0abcbae04a23979dee640][^c-853cb5dbf861a2a84edbf5e364103f37]
 
 (1) The regulations may make provision for or in connection with imposing on providers of internet services duties relating to—
 
@@ -125,7 +125,7 @@ The regulations may make provision about—
 - (a) make provision about how a provider is to make judgments about whether material is intimate image material (which may in particular include provision similar to section 192(5) and (6) of the Online Safety Act 2023);
 - (b) require intimate image information to be provided in a particular form (for example, a hash code).
 
-#### 8. Enforcement[^key-94d43ca47f507f46bf8fb493d55e3b43][^key-f3372e12735f27bd6dc89a89e928253a]
+#### 8. Enforcement[^c-94d43ca47f507f46bf8fb493d55e3b43][^c-f3372e12735f27bd6dc89a89e928253a]
 
 (1) The regulations may make provision for or in connection with the enforcement of requirements imposed on providers of internet services and internet access services (“providers”) by or under the regulations.
 
@@ -154,7 +154,7 @@ The regulations may make provision about—
 - (a) must make provision for appeals against the imposition of a monetary penalty and the issue of a compliance notice (if they provide for those things);
 - (b) may make provision for appeals against other decisions of an enforcement authority.
 
-#### 9. Payment of fees to enforcement authority[^key-274c4e62104b1f7a541eb2f033fa1925][^key-b283baf433206c2efc96f9bca8f942cf]
+#### 9. Payment of fees to enforcement authority[^c-274c4e62104b1f7a541eb2f033fa1925][^c-b283baf433206c2efc96f9bca8f942cf]
 
 (1) The regulations may require providers of internet services and internet access services to pay fees to enforcement authorities, as a means of recovering the costs incurred by enforcement authorities in exercising their functions under the regulations.
 
@@ -163,7 +163,7 @@ The regulations may make provision about—
 - (a) for fees to be paid in respect of specified periods;
 - (b) for different fees to be payable by different providers.
 
-#### 10. Guidance[^key-94c6d84464038bdc9c706f8d2b8a66da][^key-a1a37faf17b38652ee106cb844b14b22]
+#### 10. Guidance[^c-94c6d84464038bdc9c706f8d2b8a66da][^c-a1a37faf17b38652ee106cb844b14b22]
 
 The regulations may provide for the issue of guidance by—
 
@@ -171,7 +171,7 @@ The regulations may provide for the issue of guidance by—
 - (b) enforcement authorities;
 - (c) the Secretary of State.
 
-#### 11. Duties of OFCOM[^key-6ee84450ae6b45862189c9a1c6a4cb7c][^key-5011982c733bb6f82da71f9403870a87]
+#### 11. Duties of OFCOM[^c-6ee84450ae6b45862189c9a1c6a4cb7c][^c-5011982c733bb6f82da71f9403870a87]
 
 The regulations may require OFCOM to have regard to the intimate image register when—
 
@@ -182,7 +182,7 @@ and the regulations may amend that Act or that Regulation for or in connection w
 
 ### Part 3 — Intimate image register: power to amend Online Safety Act 2023
 
-**12.**[^key-60b387979a5d9d1dd4242792fb294c73][^key-e70c84abea21db61538d95a975a8da84] (1) The Secretary of State may by regulations amend the Online Safety Act 2023 for or in connection with the imposition on providers of regulated services of duties relating to—
+**12.**[^c-60b387979a5d9d1dd4242792fb294c73][^c-e70c84abea21db61538d95a975a8da84] (1) The Secretary of State may by regulations amend the Online Safety Act 2023 for or in connection with the imposition on providers of regulated services of duties relating to—
 
 - (a) the provision of intimate image information to the registrar;
 - (b) taking down content recorded on the intimate image register;
@@ -196,7 +196,7 @@ and the regulations may amend that Act or that Regulation for or in connection w
 
 ### Part 4 — Supplementary provision
 
-#### 13. Extra-territoriality[^key-a06ee22599ad9bfd408a3a7fe0d190de][^key-ebe1e4386c16a63830174761843baef0]
+#### 13. Extra-territoriality[^c-a06ee22599ad9bfd408a3a7fe0d190de][^c-ebe1e4386c16a63830174761843baef0]
 
 (1) References in this Schedule to an internet service include an internet service provided from outside the United Kingdom—
 
@@ -208,7 +208,7 @@ and the regulations may amend that Act or that Regulation for or in connection w
 - (a) where the user is an individual, the individual is in the United Kingdom;
 - (b) where the user is an entity, the entity is incorporated or formed under the law of any part of the United Kingdom.
 
-#### 14. Interpretation[^key-3d4501021362af93f9e0dec5384a539d][^key-d9bcfab5769d54ab881ff226da1489f7]
+#### 14. Interpretation[^c-3d4501021362af93f9e0dec5384a539d][^c-d9bcfab5769d54ab881ff226da1489f7]
 
 (1) This paragraph applies for the interpretation of this Schedule.
 
@@ -233,58 +233,58 @@ and the regulations may amend that Act or that Regulation for or in connection w
 
 ## Annotations
 
-[^key-94f79fb7095fa9bbfa6de7a4af82c30d]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-94f79fb7095fa9bbfa6de7a4af82c30d]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-160f031481b75f4161822a7ab3c4899f]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/1) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-160f031481b75f4161822a7ab3c4899f]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/1) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-6ae2028c49ae684957fa69eafdf39135]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6ae2028c49ae684957fa69eafdf39135]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2738cf4d9dca77888d57cfcb6327af61]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/2) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-2738cf4d9dca77888d57cfcb6327af61]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/2) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-7f1d130298b4badfa88a80a77cfd3c87]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7f1d130298b4badfa88a80a77cfd3c87]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-36774276c230679e3a3ad80b473ea10c]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/3) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-36774276c230679e3a3ad80b473ea10c]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/3) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-1448b99762be54783ca63d1b8f0b54b0]: Commencement: Sch. 14 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1448b99762be54783ca63d1b8f0b54b0]: Commencement: Sch. 14 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6b923aa0c39467bbc74ab6ddf13107c7]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/4) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-6b923aa0c39467bbc74ab6ddf13107c7]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/4) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-440d5b5b1c9f85d5ca3da71822a976ff]: Commencement: Sch. 14 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-440d5b5b1c9f85d5ca3da71822a976ff]: Commencement: Sch. 14 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b230a260593c7e93944372ef91f89d77]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/5) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-b230a260593c7e93944372ef91f89d77]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/5) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-8f0dade064e723e13921c1dd3d321eae]: Commencement: Sch. 14 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8f0dade064e723e13921c1dd3d321eae]: Commencement: Sch. 14 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f124678a3e3319d76ff2dbfe1cc47ad3]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/6) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-f124678a3e3319d76ff2dbfe1cc47ad3]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/6) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-f4ca19f071e0abcbae04a23979dee640]: Commencement: Sch. 14 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f4ca19f071e0abcbae04a23979dee640]: Commencement: Sch. 14 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-853cb5dbf861a2a84edbf5e364103f37]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-853cb5dbf861a2a84edbf5e364103f37]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-94d43ca47f507f46bf8fb493d55e3b43]: Commencement: Sch. 14 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-94d43ca47f507f46bf8fb493d55e3b43]: Commencement: Sch. 14 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f3372e12735f27bd6dc89a89e928253a]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/8) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-f3372e12735f27bd6dc89a89e928253a]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/8) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-274c4e62104b1f7a541eb2f033fa1925]: Commencement: Sch. 14 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-274c4e62104b1f7a541eb2f033fa1925]: Commencement: Sch. 14 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b283baf433206c2efc96f9bca8f942cf]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/9) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-b283baf433206c2efc96f9bca8f942cf]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/9) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-94c6d84464038bdc9c706f8d2b8a66da]: Commencement: Sch. 14 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-94c6d84464038bdc9c706f8d2b8a66da]: Commencement: Sch. 14 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a1a37faf17b38652ee106cb844b14b22]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/10) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-a1a37faf17b38652ee106cb844b14b22]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/10) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-6ee84450ae6b45862189c9a1c6a4cb7c]: Commencement: Sch. 14 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6ee84450ae6b45862189c9a1c6a4cb7c]: Commencement: Sch. 14 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5011982c733bb6f82da71f9403870a87]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/11) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-5011982c733bb6f82da71f9403870a87]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/11) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-60b387979a5d9d1dd4242792fb294c73]: Commencement: Sch. 14 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-60b387979a5d9d1dd4242792fb294c73]: Commencement: Sch. 14 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e70c84abea21db61538d95a975a8da84]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/12) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-e70c84abea21db61538d95a975a8da84]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/12) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-a06ee22599ad9bfd408a3a7fe0d190de]: Commencement: Sch. 14 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a06ee22599ad9bfd408a3a7fe0d190de]: Commencement: Sch. 14 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ebe1e4386c16a63830174761843baef0]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/13) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-ebe1e4386c16a63830174761843baef0]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/13) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-3d4501021362af93f9e0dec5384a539d]: Commencement: Sch. 14 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-3d4501021362af93f9e0dec5384a539d]: Commencement: Sch. 14 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d9bcfab5769d54ab881ff226da1489f7]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/14) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-d9bcfab5769d54ab881ff226da1489f7]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/14) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Register of apprenticeship frameworks[^key-e30aec5b694bc0af566389287749e8b8]
+## 118. Register of apprenticeship frameworks[^c-e30aec5b694bc0af566389287749e8b8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e30aec5b694bc0af566389287749e8b8]: Commencement: S. 118 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-e30aec5b694bc0af566389287749e8b8]: Commencement: S. 118 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

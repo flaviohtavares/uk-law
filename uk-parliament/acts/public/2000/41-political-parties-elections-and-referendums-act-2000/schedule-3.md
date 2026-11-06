@@ -24,35 +24,35 @@ summary: ''
 
 Section 16.
 
-### Part I — Amendments of Parliamentary Constituencies Act 1986[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+### Part I — Amendments of Parliamentary Constituencies Act 1986[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-#### Preliminary[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+#### Preliminary[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-**1.**[^key-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Duty to keep under review, and report on, parliamentary representation[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+#### Duty to keep under review, and report on, parliamentary representation[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-**2.**[^key-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Functions of Boundary Committees[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+#### Functions of Boundary Committees[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-**3.**[^key-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Implementation of Commission’s reports[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+#### Implementation of Commission’s reports[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-**4.**[^key-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Notices relating to proposed reports or recommendations[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+#### Notices relating to proposed reports or recommendations[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-**5.**[^key-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Local inquiries[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+#### Local inquiries[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-**6.**[^key-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Rules for redistribution of seats[^key-cbe5b331543ee4c7c427ce8934ca4bfc]
+#### Rules for redistribution of seats[^c-cbe5b331543ee4c7c427ce8934ca4bfc]
 
-**7.**[^key-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cbe5b331543ee4c7c427ce8934ca4bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Amendments of other Acts
 
@@ -96,7 +96,7 @@ Section 16.
 
 ## Annotations
 
-[^key-cbe5b331543ee4c7c427ce8934ca4bfc]: Textual amendment: Sch. 3 Pt. I repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 61(3)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/61/3/d), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j/hh)
+[^c-cbe5b331543ee4c7c427ce8934ca4bfc]: Textual amendment: Sch. 3 Pt. I repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 61(3)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/61/3/d), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j/hh)
 
 [^c20096921]: Textual amendment: Sch. 3 paras. 8-16 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) -- see ss. 46, 161(1)(4)(5) of the amending Act.
 

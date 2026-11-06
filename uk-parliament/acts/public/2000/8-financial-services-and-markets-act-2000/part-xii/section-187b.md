@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187B. Assessment: consultation by FCA with PRA[^key-318ec0096345ff2d20218bd124dffaf9][^c2081646]
+## 187B. Assessment: consultation by FCA with PRA[^c-318ec0096345ff2d20218bd124dffaf9][^c2081646]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-318ec0096345ff2d20218bd124dffaf9]: Textual amendment: Ss. 187A-187C inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/6), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-318ec0096345ff2d20218bd124dffaf9]: Textual amendment: Ss. 187A-187C inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/6), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2081646]: Textual amendment: Ss. 178-191G and cross-headings substituted (21.3.2009) for ss. 178-191 and cross-headings by [The Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534), [reg. 3](https://www.legislation.gov.uk/uksi/2009/534/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/534/schedule/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2009/534/regulation/8))

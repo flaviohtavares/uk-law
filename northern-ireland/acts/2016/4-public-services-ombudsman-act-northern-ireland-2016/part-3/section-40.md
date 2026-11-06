@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Submission of description of complaints handling procedure: general[^key-61d19e68ba91715805c2d21d6e6f3140]
+## 40. Submission of description of complaints handling procedure: general[^c-61d19e68ba91715805c2d21d6e6f3140]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61d19e68ba91715805c2d21d6e6f3140]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/4/section/40) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-61d19e68ba91715805c2d21d6e6f3140]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/4/section/40) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

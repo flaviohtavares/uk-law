@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Heritable security in succession of creditor in the security[^key-0bd3def9f0159e4bd131fdc6f747755e]
+## 117. Heritable security in succession of creditor in the security[^c-0bd3def9f0159e4bd131fdc6f747755e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the succession of the creditor in a heritable security, the security shall be
 
 ## Annotations
 
-[^key-0bd3def9f0159e4bd131fdc6f747755e]: Textual amendment: S. 117 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 8(15)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/8/15) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-0bd3def9f0159e4bd131fdc6f747755e]: Textual amendment: S. 117 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 8(15)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/8/15) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

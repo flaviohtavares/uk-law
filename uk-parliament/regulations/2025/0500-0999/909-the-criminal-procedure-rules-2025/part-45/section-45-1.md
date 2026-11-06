@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.1. When this Part applies[^key-e445b5af7b2be67e175b466d207933e3]
+## 45.1. When this Part applies[^c-e445b5af7b2be67e175b466d207933e3]
 
 *Extent: E+W*
 
@@ -91,7 +91,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e445b5af7b2be67e175b466d207933e3]: Commencement: [Rule 45.1](https://www.legislation.gov.uk/uksi/2025/909/rule/45.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e445b5af7b2be67e175b466d207933e3]: Commencement: [Rule 45.1](https://www.legislation.gov.uk/uksi/2025/909/rule/45.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01037]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23).
 

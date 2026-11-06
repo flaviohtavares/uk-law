@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Investigations: supplementary[^key-a597407e19d123f262d837f324683699][^key-817e4c7cfb3cf1154dfba7791d56d0e7]
+## 51. Investigations: supplementary[^c-a597407e19d123f262d837f324683699][^c-817e4c7cfb3cf1154dfba7791d56d0e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a597407e19d123f262d837f324683699]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/22/section/51) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/c)
+[^c-a597407e19d123f262d837f324683699]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/22/section/51) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/c)
 
-[^key-817e4c7cfb3cf1154dfba7791d56d0e7]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/22/section/51) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/d)
+[^c-817e4c7cfb3cf1154dfba7791d56d0e7]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/22/section/51) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/d)

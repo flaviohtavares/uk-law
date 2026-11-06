@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Alternative Investment Fund Managers (Amendment) Regulations 2018 (revoked)[^key-a574c4ff547999a5af6e5ea3b43f9284]
+The Alternative Investment Fund Managers (Amendment) Regulations 2018 (revoked)[^c-a574c4ff547999a5af6e5ea3b43f9284]
 
 Made
 
@@ -44,30 +44,30 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-a574c4ff547999a5af6e5ea3b43f9284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a574c4ff547999a5af6e5ea3b43f9284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a574c4ff547999a5af6e5ea3b43f9284]
+## 1. Citation and commencement[^c-a574c4ff547999a5af6e5ea3b43f9284]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Alternative Investment Fund Managers Regulations 2013[^key-a574c4ff547999a5af6e5ea3b43f9284]
+## 2. Amendments to the Alternative Investment Fund Managers Regulations 2013[^c-a574c4ff547999a5af6e5ea3b43f9284]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013[^key-a574c4ff547999a5af6e5ea3b43f9284]
+## 3. Amendments to the Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013[^c-a574c4ff547999a5af6e5ea3b43f9284]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-a574c4ff547999a5af6e5ea3b43f9284]
+## 4. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-a574c4ff547999a5af6e5ea3b43f9284]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a574c4ff547999a5af6e5ea3b43f9284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a574c4ff547999a5af6e5ea3b43f9284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a574c4ff547999a5af6e5ea3b43f9284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a574c4ff547999a5af6e5ea3b43f9284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a574c4ff547999a5af6e5ea3b43f9284]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/134) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-a574c4ff547999a5af6e5ea3b43f9284]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/134) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

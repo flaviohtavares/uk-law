@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Application of accounting standards to securitisation companies[^key-af9325edc7263221a485e49c91e8cb50]
+## 83. Application of accounting standards to securitisation companies[^c-af9325edc7263221a485e49c91e8cb50]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-7ba1371166266d0093b34b52ed2d433c] For the purposes of the Corporation Tax Acts as they apply to a securitisation company in relation to a period of account—
+(1)[^c-7ba1371166266d0093b34b52ed2d433c] For the purposes of the Corporation Tax Acts as they apply to a securitisation company in relation to a period of account—
 
 - (a) beginning on or after 1st January 2005, and
-- (b) (subject to subsection (7A)(a))[^key-45a12c0a11256dbfe2e7e33c1b8c7aa2] ending before 1st January 2008[^c22798091],
+- (b) (subject to subsection (7A)(a))[^c-45a12c0a11256dbfe2e7e33c1b8c7aa2] ending before 1st January 2008[^c22798091],
 
 generally accepted accounting practice shall be taken to be UK generally accepted accounting practice as it applied for a period of account ending on 31st December 2004.
 
@@ -75,7 +75,7 @@ as defined below.
 
   one or more companies carrying on a business of banking.
 
-(7A)[^key-5e7b9887824ddf9da97421db7ed93c23] The Treasury may by regulations—
+(7A)[^c-5e7b9887824ddf9da97421db7ed93c23] The Treasury may by regulations—
 
 - (a) make provision for subsection (1) to apply in relation to periods of account ending on or after 1st January 2008 but before a date specified by the regulations, and
 - (b) make provision modifying any provision of, or made under, the Corporation Tax Acts in relation to the first period of account of securitisation companies in the case of which subsection (1) does not apply (whether by virtue of that subsection itself or regulations under paragraph (a)).
@@ -88,7 +88,7 @@ as defined below.
 
 (8) In this section—
 
-- “**asset**” includes any option, future or contract for differences as defined for the purposes of Part 7 of CTA 2009 (derivative contracts) (see sections 580, 581 and 582 of that Act)[^key-a022d2c28b81c4ada383a45d7efd6566];
+- “**asset**” includes any option, future or contract for differences as defined for the purposes of Part 7 of CTA 2009 (derivative contracts) (see sections 580, 581 and 582 of that Act)[^c-a022d2c28b81c4ada383a45d7efd6566];
 - “**capital market investment**” and “**capital market arrangement**” have the same meaning as in section 72B(1) of the Insolvency Act 1986 (c. 45) (see paragraphs 1, 2 and 3 of Schedule 2A to that Act);
 - “**company**” includes a partnership;
 - “**financial asset**” has the meaning it has for accounting purposes; and
@@ -98,11 +98,11 @@ as defined below.
 
 ## Annotations
 
-[^key-af9325edc7263221a485e49c91e8cb50]: Modification: S. 83 excluded (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Taxation of Securitisation Companies Regulations 2006 (S.I. 2006/3296)](https://www.legislation.gov.uk/uksi/2006/3296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3296/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2006/3296/regulation/21)
+[^c-af9325edc7263221a485e49c91e8cb50]: Modification: S. 83 excluded (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Taxation of Securitisation Companies Regulations 2006 (S.I. 2006/3296)](https://www.legislation.gov.uk/uksi/2006/3296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3296/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2006/3296/regulation/21)
 
-[^key-7ba1371166266d0093b34b52ed2d433c]: Modification: S. 83(1) applied (27.12.2007) by [The Securitisation Companies (Application of Section 83(1) of the Finance Act 2005: Accounting Standards) Regulations 2007 (S.I. 2007/3338)](https://www.legislation.gov.uk/uksi/2007/3338), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3338/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/3338/regulation/2)
+[^c-7ba1371166266d0093b34b52ed2d433c]: Modification: S. 83(1) applied (27.12.2007) by [The Securitisation Companies (Application of Section 83(1) of the Finance Act 2005: Accounting Standards) Regulations 2007 (S.I. 2007/3338)](https://www.legislation.gov.uk/uksi/2007/3338), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3338/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/3338/regulation/2)
 
-[^key-45a12c0a11256dbfe2e7e33c1b8c7aa2]: Textual amendment: Words in s. 83(1)(b) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/59/2)
+[^c-45a12c0a11256dbfe2e7e33c1b8c7aa2]: Textual amendment: Words in s. 83(1)(b) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/59/2)
 
 [^c22798091]: Textual amendment: Words in s. 83(1)(b) substituted (retrospectively) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 101(2)(6)](https://www.legislation.gov.uk/ukpga/2006/25/section/101/2/6) (with [s. 101(7)-(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/101/7))
 
@@ -114,6 +114,6 @@ as defined below.
 
 [^c22798171]: Textual amendment: Words in s. 83(5)(b) inserted (retrospectively) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 101(4)(b)(6)](https://www.legislation.gov.uk/ukpga/2006/25/section/101/4/b/6) (with [s. 101(7)-(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/101/7))
 
-[^key-5e7b9887824ddf9da97421db7ed93c23]: Textual amendment: S. 83(7A)(7B) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 59(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/59/3)
+[^c-5e7b9887824ddf9da97421db7ed93c23]: Textual amendment: S. 83(7A)(7B) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 59(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/59/3)
 
-[^key-a022d2c28b81c4ada383a45d7efd6566]: Textual amendment: Words in s. 83(8) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 662](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/662) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a022d2c28b81c4ada383a45d7efd6566]: Textual amendment: Words in s. 83(8) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 662](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/662) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

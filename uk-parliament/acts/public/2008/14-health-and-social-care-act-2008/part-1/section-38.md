@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Provision of copies of registers[^c1942177][^key-775fed991372f02d0bdb1f2d28765cf5][^key-1e11af1cf39d68cc0dc00334943e4e45]
+## 38. Provision of copies of registers[^c1942177][^c-775fed991372f02d0bdb1f2d28765cf5][^c-1e11af1cf39d68cc0dc00334943e4e45]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c1942177]: Commencement: S. 38 partly in force; S. 38 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-775fed991372f02d0bdb1f2d28765cf5]: Commencement: S. 38 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/15)
+[^c-775fed991372f02d0bdb1f2d28765cf5]: Commencement: S. 38 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/15)
 
-[^key-1e11af1cf39d68cc0dc00334943e4e45]: Commencement: S. 38 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/25) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-1e11af1cf39d68cc0dc00334943e4e45]: Commencement: S. 38 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/25) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))

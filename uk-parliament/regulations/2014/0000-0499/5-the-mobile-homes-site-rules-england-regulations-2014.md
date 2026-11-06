@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by subsection 1(2)(e), subsection 1(9)(a), section 2C, subsections (3), (6) and (7) of section 2D of, and paragraphs 7B(7), 7C, 8B(7) and 8C of Chapter 2 of Part 1 of Schedule 1 to, the Mobile Homes Act 1983[^f00001], makes the following Regulations:
 
-## 1. Application, citation and commencement[^key-c363a47ad0aed03a8f5cb025f502798d]
+## 1. Application, citation and commencement[^c-c363a47ad0aed03a8f5cb025f502798d]
 
 These Regulations, which apply in relation to England only, may be cited as the Mobile Homes (Site Rules) (England) Regulations 2014 and come into force on 4<sup>th</sup> February 2014.
 
-## 2. Interpretation[^key-353010b4b9a3813bba17acdf7da68e9b]
+## 2. Interpretation[^c-353010b4b9a3813bba17acdf7da68e9b]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - “proposal notice” means the notice required by regulation 8;
 - “the 1983 Act” means the Mobile Homes Act 1983.
 
-## 3. Service of documents[^key-c329dc6925a78546920288b7d84bf60d]
+## 3. Service of documents[^c-c329dc6925a78546920288b7d84bf60d]
 
 (1) The documents referred to in regulation 8, 9, 10, 13 and 17 must be—
 
@@ -76,7 +76,7 @@ In these Regulations—
   - (i) before 4.30pm, on that day; or
   - (ii) at or after 4.30pm, on the next day after that day.
 
-## 4. Matters prescribed for the purposes of section 2C(2)(b) of the 1983 Act[^key-eacd7051edf1faf9cd55f67bf3339e0d]
+## 4. Matters prescribed for the purposes of section 2C(2)(b) of the 1983 Act[^c-eacd7051edf1faf9cd55f67bf3339e0d]
 
 (1) The matters prescribed for the purposes of section 2C(2)(b) are the matters set out in paragraph (2).
 
@@ -85,15 +85,15 @@ In these Regulations—
 - (a) to ensure that acceptable standards are maintained on the site, which will be of general benefit to occupiers; or
 - (b) to promote and maintain community cohesion on the site.
 
-## 5. Matters prescribed for the purposes of section 2C(8) of the 1983 Act[^key-18ed6dd29a2e2346de6aa2072fc16f0b]
+## 5. Matters prescribed for the purposes of section 2C(8) of the 1983 Act[^c-18ed6dd29a2e2346de6aa2072fc16f0b]
 
 A site rule is of no effect in so far as it makes provision in relation to any of the matters prescribed in Schedule 5 to these Regulations.
 
-## 6. Prescribed procedure[^key-5c78227f9aa498bb62683ddb001bce43]
+## 6. Prescribed procedure[^c-5c78227f9aa498bb62683ddb001bce43]
 
 Regulations 7 to 9 prescribe the procedure for making, varying or deleting site rules[^f00003] for the purposes of subsections (2), (5), (6) and (7) of section 2C of the 1983 Act.
 
-## 7. Requirement to consult on a proposal[^key-1d2c14cdb8f0ac3f0079d89eda9d5fd0]
+## 7. Requirement to consult on a proposal[^c-1d2c14cdb8f0ac3f0079d89eda9d5fd0]
 
 An owner must, in relation to the protected site concerned, consult—
 
@@ -102,7 +102,7 @@ An owner must, in relation to the protected site concerned, consult—
 
 on a proposal in accordance with regulations 8 and 9.
 
-## 8. Notification of proposal[^key-752492a2bea6db62f03925b8b337df9c]
+## 8. Notification of proposal[^c-752492a2bea6db62f03925b8b337df9c]
 
 (1) The owner must notify each consultee of a proposal, by issuing a proposal notice (“the proposal notice”).
 
@@ -123,7 +123,7 @@ on a proposal in accordance with regulations 8 and 9.
 
 (4) The proposal notice may contain more than one proposal, and in such cases, this regulation and regulations 9 to 17 shall apply in relation to those proposals collectively as if they were a single proposal.
 
-## 9. Owner’s response to the consultation[^key-6c7c053b51921c1ce2d91c191d361397]
+## 9. Owner’s response to the consultation[^c-6c7c053b51921c1ce2d91c191d361397]
 
 (1) Within 21 days of the last consultation day, the owner, having taken into account any representations received from consultees, must—
 
@@ -142,7 +142,7 @@ on a proposal in accordance with regulations 8 and 9.
 
 (3) Where a proposal is modified as a result of the consultation, the reference to “the proposal” in regulation 10 is to be read as a reference to the proposal as modified.
 
-## 10. Right to appeal to tribunal in relation to the owner’s decision[^key-2fa69ee5bf26f0f73b825dadab973dbd]
+## 10. Right to appeal to tribunal in relation to the owner’s decision[^c-2fa69ee5bf26f0f73b825dadab973dbd]
 
 (1) Within 21 days of receipt of the consultation response document a consultee may appeal to a tribunal[^f00004] on one or more of the grounds specified in paragraph (2).
 
@@ -155,9 +155,9 @@ on a proposal in accordance with regulations 8 and 9.
   - (ii) the size, layout, character, services or amenities of the site; or
   - (iii) the terms of any planning permission or conditions of the site licence.
 
-(3) Where a consultee makes an appeal under this regulation, the consultee must notify the owner of the appeal in writing [^key-d27a49c674b6708f218bd68c65f151f1]... within the 21 day period referred to in paragraph (1) above.
+(3) Where a consultee makes an appeal under this regulation, the consultee must notify the owner of the appeal in writing [^c-d27a49c674b6708f218bd68c65f151f1]... within the 21 day period referred to in paragraph (1) above.
 
-## 11. Appeal procedure[^key-8fd4b1483e8aee8e0c59e120a078e009]
+## 11. Appeal procedure[^c-8fd4b1483e8aee8e0c59e120a078e009]
 
 On determining an appeal under regulation 10 the tribunal may—
 
@@ -166,7 +166,7 @@ On determining an appeal under regulation 10 the tribunal may—
 - (c) substitute the owner’s decision with its own decision; or
 - (d) where the owner has failed to comply with the procedure set out in regulations 7 to 9, order the owner to comply with regulations 7 to 9 (as appropriate), within such time as may be specified by the tribunal.
 
-## 12. Deposit of site rules or deletion notice[^key-3572b7341ca26dacf303fb3bc99e6dc8]
+## 12. Deposit of site rules or deletion notice[^c-3572b7341ca26dacf303fb3bc99e6dc8]
 
 (1) Where an owner has decided to implement new site rules or the variation or deletion of site rules, subject to paragraph (2), the owner must deposit the site rules or deletion notice with the local authority no sooner than 28 days after service of the consultation response document but no later than 42 days after service of the consultation response document.
 
@@ -180,7 +180,7 @@ On determining an appeal under regulation 10 the tribunal may—
 
 (4) A deposit required to be made by virtue of this section must be accompanied by a fee of such amount as the local authority may determine.
 
-## 13. Notification of deposit[^key-7f5e42843bf021602e279a5ea54ea242]
+## 13. Notification of deposit[^c-7f5e42843bf021602e279a5ea54ea242]
 
 (1) The owner must notify every occupier and any qualifying residents’ association in writing of a deposit within 7 days of the deposit being made.
 
@@ -192,13 +192,13 @@ On determining an appeal under regulation 10 the tribunal may—
 - (d) be accompanied by a copy of the site rules, if any, as deposited; and
 - (e) be in the appropriate form set out in Schedule 3 or 4 as appropriate, or in a form substantially to the like effect.
 
-## 14. Date on which new rule, rule as varied or deletion comes into force[^key-ac8c5af17dc07111e5b4f168ef12e94a]
+## 14. Date on which new rule, rule as varied or deletion comes into force[^c-ac8c5af17dc07111e5b4f168ef12e94a]
 
 (1) The site rules deposited and any deletions shall come into force at the end of the period of 21 days beginning with the date of service of the notification of the deposit under regulation 13.
 
 (2) Where it is proposed that a site rule is varied or deleted in accordance with paragraph 2C(5) or paragraph 2C(6) of the 1983 Act, the site rules in force prior to the consultation under regulations 7 to 9 shall continue to have effect until the new site rules or deletions come into force in accordance with paragraph (1).
 
-## 15. Rules made by the owner prior to the commencement of the Mobile Homes Act 2013[^key-36f5f1bf26a0f36689f5ad543adb7c54]
+## 15. Rules made by the owner prior to the commencement of the Mobile Homes Act 2013[^c-36f5f1bf26a0f36689f5ad543adb7c54]
 
 The period after which any rules made by the owner prior to the commencement of the Mobile Homes Act 2013 shall cease to have effect is—
 
@@ -206,7 +206,7 @@ The period after which any rules made by the owner prior to the commencement of 
 - (b) where site rules come into force in accordance with regulation 14 of these Regulations, prior to the end of the period prescribed in sub-paragraph (a), the period ending with the coming into force of the site rules; or
 - (c) where an appeal under regulation 10 remains outstanding at the end of the period prescribed in sub-paragraph (a), the period ending with the coming into force of the site rules in accordance with regulation 14, following the disposal, determination or abandonment of the appeal.
 
-## 16. Local authority registers of site rules[^key-ef082789500de0dffd68d18120012b8f]
+## 16. Local authority registers of site rules[^c-ef082789500de0dffd68d18120012b8f]
 
 (1) A local authority must—
 
@@ -215,7 +215,7 @@ The period after which any rules made by the owner prior to the commencement of 
 
 (2) The register shall be open to inspection by members of the public at the offices of the local authority during normal working hours.
 
-## 17. Right to appeal to tribunal in relation to a deposit[^key-f84166d1bd49a71e5fceecd007a44205]
+## 17. Right to appeal to tribunal in relation to a deposit[^c-f84166d1bd49a71e5fceecd007a44205]
 
 (1) An occupier and any qualifying residents’ association may appeal to the tribunal in relation to a deposit, on the grounds specified in paragraph (2).
 
@@ -227,7 +227,7 @@ The period after which any rules made by the owner prior to the commencement of 
 
 (5) Where a deposit is made under sub-paragraph 4, the owner must notify every occupier and any qualifying residents’ association in writing of the deposit in accordance with regulation 13 and the site rules as deposited and any deletions shall come into force at the end of the period prescribed in accordance with regulation 14.
 
-## 18. Amendment of the Mobile Homes (Written Statement) (England) Regulations 2011[^key-d3921a2855b5d0a506e1dd12e7a072cc][^f00005]
+## 18. Amendment of the Mobile Homes (Written Statement) (England) Regulations 2011[^c-d3921a2855b5d0a506e1dd12e7a072cc][^f00005]
 
 (1) The Mobile Homes (Written Statement) (England) Regulations 2011 are amended as follows—
 
@@ -249,7 +249,7 @@ The period after which any rules made by the owner prior to the commencement of 
 
   .
 
-## 19. Amendment of the Mobile Homes (Selling and Gifting) (England) Regulations 2013[^key-1e7a8920ce87b594968b964b99d5f70f][^f00006]
+## 19. Amendment of the Mobile Homes (Selling and Gifting) (England) Regulations 2013[^c-1e7a8920ce87b594968b964b99d5f70f][^f00006]
 
 (1) In regulation 2 of the Mobile Homes (Selling and Gifting) (England) Regulations 2013 (Interpretation), at the appropriate place insert—
 
@@ -275,25 +275,25 @@ Department for Communities and Local Government
 
 6th January 2014
 
-## SCHEDULE 1 — Form of proposal notice[^key-7710218044c79c8d363cfe743290ae5a]
+## SCHEDULE 1 — Form of proposal notice[^c-7710218044c79c8d363cfe743290ae5a]
 
 Regulation 8
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/5/images/uksi_20140005_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2014/5/images/uksi_20140005_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2014/5/images/uksi_20140005_en_003)
 
-## SCHEDULE 2 — Form of consultation response document[^key-e15d0d888182e65b46ba785e4040ff75]
+## SCHEDULE 2 — Form of consultation response document[^c-e15d0d888182e65b46ba785e4040ff75]
 
 Regulation 9
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/5/images/uksi_20140005_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2014/5/images/uksi_20140005_en_005)
 
-## SCHEDULE 3 — Form of notification of deposit of site rules[^key-8423139fabc6aae94234b27695590ef4]
+## SCHEDULE 3 — Form of notification of deposit of site rules[^c-8423139fabc6aae94234b27695590ef4]
 
 Regulation 13
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/5/images/uksi_20140005_en_006)
 
-## SCHEDULE 4 — Form of notification of deposit of deletion notice[^key-7868bd6f00224f6ef68995bb7f97101a]
+## SCHEDULE 4 — Form of notification of deposit of deletion notice[^c-7868bd6f00224f6ef68995bb7f97101a]
 
 Regulation 13
 
@@ -305,7 +305,7 @@ Regulation 5
 
 The matters set out in paragraphs 1 and 2 are prescribed matters for the purposes of section 2C(8). (Site rules or rules such as are mentioned in section 2C(3) of the 1983 Act are of no effect in so far as they make provision in relation to the prescribed matters.)
 
-### 1. Matters relating to the sale or gift of a mobile home[^key-f4fcf0e7d69f93e6b087e41bf33a5f61]
+### 1. Matters relating to the sale or gift of a mobile home[^c-f4fcf0e7d69f93e6b087e41bf33a5f61]
 
 (1) The matters are—
 
@@ -334,7 +334,7 @@ The matters set out in paragraphs 1 and 2 are prescribed matters for the purpose
 
 (3) In sub-paragraphs (c), (d), (e), (f) and (h) of paragraph 1(1) references to selling a mobile home include a reference to marketing, advertising or offering the mobile home for sale.
 
-### 2. Other matters[^key-38b6925b313b213c704e6332bd00e9c5]
+### 2. Other matters[^c-38b6925b313b213c704e6332bd00e9c5]
 
 The matters are—
 
@@ -354,9 +354,9 @@ The matters are—
 - (n) whether the site rules may be changed other than by the procedure set out in regulations 7 to 13 of these regulations;
 - (o) whether the site rules may purport to threaten eviction for failure to comply with the site rules.
 
-**3.**[^key-1cd4cf3d54649bc13a11c1f8c6ee5a49] Sub-paragraph 2(a) of this Schedule shall not prevent an owner from exercising discretion to grant an occupier a right in order to accommodate that occupier’s disability.
+**3.**[^c-1cd4cf3d54649bc13a11c1f8c6ee5a49] Sub-paragraph 2(a) of this Schedule shall not prevent an owner from exercising discretion to grant an occupier a right in order to accommodate that occupier’s disability.
 
-**4.**[^key-895333f211a14c57132738e767aca76c] (1) Where—
+**4.**[^c-895333f211a14c57132738e767aca76c] (1) Where—
 
 - (a) prior to the deposit of a site rule, the occupier of a site enjoyed a benefit; and
 - (b) the effect of the coming into force of the deposited site rule is that the enjoyment of the benefit by the occupier will be in breach of the deposited site rule;
@@ -401,70 +401,70 @@ Regulation 19 makes a consequential amendment to the Mobile Homes (Selling and G
 
 [^f00001]: Footnote: [1983 c.34](https://www.legislation.gov.uk/ukpga/1983/34). Subsection 1(2)(e) amended in relation to Wales by the Mobile Homes (Wales) Act 2013, section 58(1), Schedule 4, paragraph 4(1), 2(a). Sections 2C and 2D were inserted into the 1983 Act by section 9 of the Mobile Homes Act 2013 and paragraphs 7B(7), 7C, 8B(7) and 8C of Chapter 2 of Part 1 of Schedule 1 were inserted into the 1983 Act by section 10 of the Mobile Homes Act 2013.
 
-[^key-c363a47ad0aed03a8f5cb025f502798d]: Commencement: Reg. 1 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-c363a47ad0aed03a8f5cb025f502798d]: Commencement: Reg. 1 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-353010b4b9a3813bba17acdf7da68e9b]: Commencement: Reg. 2 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-353010b4b9a3813bba17acdf7da68e9b]: Commencement: Reg. 2 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
 [^f00002]: Footnote: [2013 c.14](https://www.legislation.gov.uk/ukpga/2013/14).
 
-[^key-c329dc6925a78546920288b7d84bf60d]: Commencement: Reg. 3 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-c329dc6925a78546920288b7d84bf60d]: Commencement: Reg. 3 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-eacd7051edf1faf9cd55f67bf3339e0d]: Commencement: Reg. 4 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-eacd7051edf1faf9cd55f67bf3339e0d]: Commencement: Reg. 4 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-18ed6dd29a2e2346de6aa2072fc16f0b]: Commencement: Reg. 5 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-18ed6dd29a2e2346de6aa2072fc16f0b]: Commencement: Reg. 5 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-5c78227f9aa498bb62683ddb001bce43]: Commencement: Reg. 6 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-5c78227f9aa498bb62683ddb001bce43]: Commencement: Reg. 6 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
 [^f00003]: Footnote: Site rules are the rules as referred to in section 2C(2) of the 1983 Act, made by the owner in accordance with the procedure prescribed by these regulations, which relate to the management and conduct of the site, or such other matters as may be prescribed (see regulation 4).
 
-[^key-1d2c14cdb8f0ac3f0079d89eda9d5fd0]: Commencement: Reg. 7 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-1d2c14cdb8f0ac3f0079d89eda9d5fd0]: Commencement: Reg. 7 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-752492a2bea6db62f03925b8b337df9c]: Commencement: Reg. 8 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-752492a2bea6db62f03925b8b337df9c]: Commencement: Reg. 8 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-6c7c053b51921c1ce2d91c191d361397]: Commencement: Reg. 9 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-6c7c053b51921c1ce2d91c191d361397]: Commencement: Reg. 9 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-2fa69ee5bf26f0f73b825dadab973dbd]: Commencement: Reg. 10 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-2fa69ee5bf26f0f73b825dadab973dbd]: Commencement: Reg. 10 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
 [^f00004]: Footnote: As defined by section 5 of the 1983 Act.
 
-[^key-d27a49c674b6708f218bd68c65f151f1]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2014/5/regulation/10/3) omitted (19.12.2014) by virtue of [The Mobile Homes (Site Rules) (England) (Amendment) Regulations 2014 (S.I. 2014/3073)](https://www.legislation.gov.uk/uksi/2014/3073), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3073/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3073/regulation/2/2)
+[^c-d27a49c674b6708f218bd68c65f151f1]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2014/5/regulation/10/3) omitted (19.12.2014) by virtue of [The Mobile Homes (Site Rules) (England) (Amendment) Regulations 2014 (S.I. 2014/3073)](https://www.legislation.gov.uk/uksi/2014/3073), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3073/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3073/regulation/2/2)
 
-[^key-8fd4b1483e8aee8e0c59e120a078e009]: Commencement: Reg. 11 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-8fd4b1483e8aee8e0c59e120a078e009]: Commencement: Reg. 11 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-3572b7341ca26dacf303fb3bc99e6dc8]: Commencement: Reg. 12 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-3572b7341ca26dacf303fb3bc99e6dc8]: Commencement: Reg. 12 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-7f5e42843bf021602e279a5ea54ea242]: Commencement: Reg. 13 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-7f5e42843bf021602e279a5ea54ea242]: Commencement: Reg. 13 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-ac8c5af17dc07111e5b4f168ef12e94a]: Commencement: Reg. 14 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-ac8c5af17dc07111e5b4f168ef12e94a]: Commencement: Reg. 14 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-36f5f1bf26a0f36689f5ad543adb7c54]: Commencement: Reg. 15 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-36f5f1bf26a0f36689f5ad543adb7c54]: Commencement: Reg. 15 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-ef082789500de0dffd68d18120012b8f]: Commencement: Reg. 16 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-ef082789500de0dffd68d18120012b8f]: Commencement: Reg. 16 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-f84166d1bd49a71e5fceecd007a44205]: Commencement: Reg. 17 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-f84166d1bd49a71e5fceecd007a44205]: Commencement: Reg. 17 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-d3921a2855b5d0a506e1dd12e7a072cc]: Commencement: Reg. 18 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-d3921a2855b5d0a506e1dd12e7a072cc]: Commencement: Reg. 18 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2011/1006](https://www.legislation.gov.uk/uksi/2011/1006).
 
-[^key-1e7a8920ce87b594968b964b99d5f70f]: Commencement: Reg. 19 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-1e7a8920ce87b594968b964b99d5f70f]: Commencement: Reg. 19 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2013/981](https://www.legislation.gov.uk/uksi/2013/981).
 
 [^f00007]: Footnote: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-7710218044c79c8d363cfe743290ae5a]: Commencement: Sch. 1 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-7710218044c79c8d363cfe743290ae5a]: Commencement: Sch. 1 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-e15d0d888182e65b46ba785e4040ff75]: Commencement: Sch. 2 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-e15d0d888182e65b46ba785e4040ff75]: Commencement: Sch. 2 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-8423139fabc6aae94234b27695590ef4]: Commencement: Sch. 3 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-8423139fabc6aae94234b27695590ef4]: Commencement: Sch. 3 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-7868bd6f00224f6ef68995bb7f97101a]: Commencement: Sch. 4 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-7868bd6f00224f6ef68995bb7f97101a]: Commencement: Sch. 4 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-f4fcf0e7d69f93e6b087e41bf33a5f61]: Commencement: Sch. 5 para. 1 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-f4fcf0e7d69f93e6b087e41bf33a5f61]: Commencement: Sch. 5 para. 1 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-38b6925b313b213c704e6332bd00e9c5]: Commencement: Sch. 5 para. 2 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-38b6925b313b213c704e6332bd00e9c5]: Commencement: Sch. 5 para. 2 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-1cd4cf3d54649bc13a11c1f8c6ee5a49]: Commencement: Sch. 5 para. 3 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-1cd4cf3d54649bc13a11c1f8c6ee5a49]: Commencement: Sch. 5 para. 3 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
 
-[^key-895333f211a14c57132738e767aca76c]: Commencement: Sch. 5 para. 4 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)
+[^c-895333f211a14c57132738e767aca76c]: Commencement: Sch. 5 para. 4 in force at 4.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1)

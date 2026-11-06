@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-f3bc534cbf800ebfd26a72969bad43df]
+## 2. Interpretation[^c-f3bc534cbf800ebfd26a72969bad43df]
 
 *Extent: N.I.*
 
@@ -135,7 +135,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f3bc534cbf800ebfd26a72969bad43df]: Commencement: Reg. 2 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-f3bc534cbf800ebfd26a72969bad43df]: Commencement: Reg. 2 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Articles 107A and 107B were inserted by Article 3 of the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836))
 

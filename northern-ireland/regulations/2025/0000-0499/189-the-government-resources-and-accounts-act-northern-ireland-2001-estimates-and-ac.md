@@ -44,11 +44,11 @@ The Department of Finance [^f00001], in exercise of the powers conferred by sect
 
 In accordance with section 8A(5) of the Act the Department of Finance have consulted, where they think it appropriate, with the Treasury.
 
-## 1. Title and commencement[^key-256567955e90bef849c8aad9650a0ef9]
+## 1. Title and commencement[^c-256567955e90bef849c8aad9650a0ef9]
 
 This Order may be cited as the Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2025 and shall come into operation on 31st December 2025.
 
-## 2. Amendments to the principal Order[^key-7439fcbf4afaec6b648fe2098ef8f8e3]
+## 2. Amendments to the principal Order[^c-7439fcbf4afaec6b648fe2098ef8f8e3]
 
 The Principal Order is amended as follows:
 
@@ -64,7 +64,7 @@ A senior officer of the
 
 Department of Finance
 
-## SCHEDULE — DESIGNATED BODIES FOR 2025-26[^key-969ab4977e4fdfb7d5f591269708576e]
+## SCHEDULE — DESIGNATED BODIES FOR 2025-26[^c-969ab4977e4fdfb7d5f591269708576e]
 
 Article 2
 
@@ -408,10 +408,10 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00002]: Footnote: [2001 (c.6)](https://www.legislation.gov.uk/ukpga/2001/6) (NI), sections 8A and 8B were inserted by the Financial Reporting (Department and Public Bodies) Act (Northern Ireland) [2022 (c.8)](https://www.legislation.gov.uk/ukpga/2022/8)
 
-[^key-256567955e90bef849c8aad9650a0ef9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1) in operation at 31.12.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1)
+[^c-256567955e90bef849c8aad9650a0ef9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1) in operation at 31.12.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1)
 
-[^key-7439fcbf4afaec6b648fe2098ef8f8e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/189/article/2) in operation at 31.12.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1)
+[^c-7439fcbf4afaec6b648fe2098ef8f8e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/189/article/2) in operation at 31.12.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1)
 
 [^f00003]: Footnote: [2025 No. 50](https://www.legislation.gov.uk/nisr/2025/50)
 
-[^key-969ab4977e4fdfb7d5f591269708576e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2025/189/schedule) in operation at 31.12.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1)
+[^c-969ab4977e4fdfb7d5f591269708576e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2025/189/schedule) in operation at 31.12.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/189/article/1)

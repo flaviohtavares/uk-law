@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — JURISDICTION IN APPEALS ON CLAIMS[^key-aeb46a804405d4f3ea9a4fe1cfa46fdf]
+## SCHEDULE 2 — JURISDICTION IN APPEALS ON CLAIMS[^c-aeb46a804405d4f3ea9a4fe1cfa46fdf]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Appeal from inspector[^key-aeb46a804405d4f3ea9a4fe1cfa46fdf]
+### Appeal from inspector[^c-aeb46a804405d4f3ea9a4fe1cfa46fdf]
 
-**1.**[^key-aeb46a804405d4f3ea9a4fe1cfa46fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aeb46a804405d4f3ea9a4fe1cfa46fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aeb46a804405d4f3ea9a4fe1cfa46fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aeb46a804405d4f3ea9a4fe1cfa46fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplemental[^key-aeb46a804405d4f3ea9a4fe1cfa46fdf]
+### Supplemental[^c-aeb46a804405d4f3ea9a4fe1cfa46fdf]
 
-**3.**[^key-aeb46a804405d4f3ea9a4fe1cfa46fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aeb46a804405d4f3ea9a4fe1cfa46fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aeb46a804405d4f3ea9a4fe1cfa46fdf]: Textual amendment: Sch. 2 repealed (with effect in accordance with Sch. 22 para. 12 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/1996/8/schedule/22/paragraph/6), [Sch. 41 Pt. 5(12)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/12)
+[^c-aeb46a804405d4f3ea9a4fe1cfa46fdf]: Textual amendment: Sch. 2 repealed (with effect in accordance with Sch. 22 para. 12 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/1996/8/schedule/22/paragraph/6), [Sch. 41 Pt. 5(12)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Survey of tidal works[^key-7b6845be4ab7b5efa6dcd643cee544f3]
+## 19. Survey of tidal works[^c-7b6845be4ab7b5efa6dcd643cee544f3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If the Secretary of State or A.B. Ports deems it expedient, the Secretary of Sta
 
 ## Annotations
 
-[^key-7b6845be4ab7b5efa6dcd643cee544f3]: Commencement: Art. 19 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-7b6845be4ab7b5efa6dcd643cee544f3]: Commencement: Art. 19 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1055. Registered societies : interest and share dividends[^key-ad7683fb5c709cdfc902dd63b3c661ed]
+## 1055. Registered societies : interest and share dividends[^c-ad7683fb5c709cdfc902dd63b3c661ed]
 
 *Extent: E+W+S+N.I.*
 
-(1) Interest paid by a registered society[^key-fd736539906f7078d5ee647f5d1fe68c] in respect of a mortgage, loan, loan stock or deposit is not a distribution for corporation tax purposes.
+(1) Interest paid by a registered society[^c-fd736539906f7078d5ee647f5d1fe68c] in respect of a mortgage, loan, loan stock or deposit is not a distribution for corporation tax purposes.
 
 (2) If any dividend, bonus, interest or other sum—
 
@@ -37,6 +37,6 @@ it is not a distribution for corporation tax purposes.
 
 ## Annotations
 
-[^key-ad7683fb5c709cdfc902dd63b3c661ed]: Textual amendment: Words in [s. 1055 heading](https://www.legislation.gov.uk/ukpga/2010/4/part/23/chapter/3/crossheading/industrial-and-provident-society-payments) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 166](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/166) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-ad7683fb5c709cdfc902dd63b3c661ed]: Textual amendment: Words in [s. 1055 heading](https://www.legislation.gov.uk/ukpga/2010/4/part/23/chapter/3/crossheading/industrial-and-provident-society-payments) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 166](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/166) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-fd736539906f7078d5ee647f5d1fe68c]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [Sch. 4 para. 156](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/156) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-fd736539906f7078d5ee647f5d1fe68c]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [Sch. 4 para. 156](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/156) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

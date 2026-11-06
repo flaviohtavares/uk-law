@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 255. Assignment of right to dividend[^key-92a6dacf5b598e040127c40e204d861c]
+## 255. Assignment of right to dividend[^c-92a6dacf5b598e040127c40e204d861c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 11.11 of the 1991 Rules.
 
 ## Annotations
 
-[^key-92a6dacf5b598e040127c40e204d861c]: Commencement: Rule 255 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-92a6dacf5b598e040127c40e204d861c]: Commencement: Rule 255 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

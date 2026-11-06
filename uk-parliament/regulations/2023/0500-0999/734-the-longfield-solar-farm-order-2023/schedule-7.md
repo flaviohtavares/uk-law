@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-c6d1cb8d9c40f4e8393e0d3090a3eb9d]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-c6d1cb8d9c40f4e8393e0d3090a3eb9d]
 
 | (1)<br>Area | (2)<br>Street | (3)<br>Description of means of access |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ Article 12
 | Braintree District Council | Private Track | The provision of a permanent means of access to the authorised development from the southern side of the private track between the points marked AC-J9 and AC-J10 on sheet 9 of the streets, access and rights of way plans. |
 | Braintree District Council | Private Track | The provision of a permanent means of access to the authorised development from the western side of the private track between the points marked AC-J11 and AC-J12 on sheet 9 of the streets, access and rights of way plans. |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS[^key-8aa66ba279cf32f8592e53e8e22739be]
+### PART 2 — TEMPORARY MEANS OF ACCESS[^c-8aa66ba279cf32f8592e53e8e22739be]
 
 | (1)<br>Area | (2)<br>Street | (3)<br>Description of means of access |
 | --- | --- | --- |
@@ -66,6 +66,6 @@ Article 12
 
 ## Annotations
 
-[^key-c6d1cb8d9c40f4e8393e0d3090a3eb9d]: Commencement: Sch. 7 Pt. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-c6d1cb8d9c40f4e8393e0d3090a3eb9d]: Commencement: Sch. 7 Pt. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-8aa66ba279cf32f8592e53e8e22739be]: Commencement: Sch. 7 Pt. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-8aa66ba279cf32f8592e53e8e22739be]: Commencement: Sch. 7 Pt. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

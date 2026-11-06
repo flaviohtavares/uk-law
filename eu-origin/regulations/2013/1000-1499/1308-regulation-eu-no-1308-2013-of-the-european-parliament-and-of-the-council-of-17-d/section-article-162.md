@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 162. Interbranch organisations in the olive oil and table olives and tobacco sectors[^key-ea4f512d292ede28e58dfba395e2c8db]
+## Article 162. Interbranch organisations in the olive oil and table olives and tobacco sectors[^c-ea4f512d292ede28e58dfba395e2c8db]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea4f512d292ede28e58dfba395e2c8db]: Textual amendment: [Art. 162](https://www.legislation.gov.uk/eur/2013/1308/article/162) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/828/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea4f512d292ede28e58dfba395e2c8db]: Textual amendment: [Art. 162](https://www.legislation.gov.uk/eur/2013/1308/article/162) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/828/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

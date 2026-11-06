@@ -44,15 +44,15 @@ Coming into operation
 
 The Department for the Economy[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 7(c) and 10 of the Employer’s Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-22f7ee8ba32686e0ec230cb7fc83f69e]
+## 1. Citation and commencement[^c-22f7ee8ba32686e0ec230cb7fc83f69e]
 
 These Regulations may be cited as the Employer’s Liability (Compulsory Insurance) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 1st December 2026.
 
-## 2. Amendment of the Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999[^key-61120628395e332082229dd6286e960b]
+## 2. Amendment of the Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999[^c-61120628395e332082229dd6286e960b]
 
 For Schedule 2 to the Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999[^f00004] substitute the Schedule set out in the Schedule to these Regulations.
 
-## 3. Revocation[^key-a3515db44fd01e906c45e212f38529de]
+## 3. Revocation[^c-a3515db44fd01e906c45e212f38529de]
 
 The Employer’s Liability (Compulsory Insurance) (Amendment) Regulations (Northern Ireland) 2022[^f00005] are revoked.
 
@@ -64,7 +64,7 @@ Minister of the
 
 Department for the Economy
 
-## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 2 TO THE EMPLOYER’S LIABILITY (COMPULSORY INSURANCE) REGULATIONS (NORTHERN IRELAND) 1999[^key-fdb3d9ebeb5a07ccc5d3e064fe8a2fc8]
+## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 2 TO THE EMPLOYER’S LIABILITY (COMPULSORY INSURANCE) REGULATIONS (NORTHERN IRELAND) 1999[^c-fdb3d9ebeb5a07ccc5d3e064fe8a2fc8]
 
 Regulation 2
 
@@ -187,17 +187,17 @@ These Regulations add the Northern Ireland Climate Commissioner, the Children’
 
 [^f00003]: Footnote: [S.R. & O. (N. I.) No. 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504), Article 6 and Schedule 3
 
-[^key-22f7ee8ba32686e0ec230cb7fc83f69e]: Commencement: Reg. 1 in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
+[^c-22f7ee8ba32686e0ec230cb7fc83f69e]: Commencement: Reg. 1 in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
 
-[^key-61120628395e332082229dd6286e960b]: Commencement: Reg. 2 in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
+[^c-61120628395e332082229dd6286e960b]: Commencement: Reg. 2 in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1999 No. 448](https://www.legislation.gov.uk/nisr/1999/448)
 
-[^key-a3515db44fd01e906c45e212f38529de]: Commencement: Reg. 3 in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
+[^c-a3515db44fd01e906c45e212f38529de]: Commencement: Reg. 3 in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2022 No. 101](https://www.legislation.gov.uk/nisr/2022/101)
 
-[^key-fdb3d9ebeb5a07ccc5d3e064fe8a2fc8]: Commencement: Sch. in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
+[^c-fdb3d9ebeb5a07ccc5d3e064fe8a2fc8]: Commencement: Sch. in operation at 1.12.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/183/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 

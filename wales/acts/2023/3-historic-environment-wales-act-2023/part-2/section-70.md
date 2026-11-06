@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Compensation for damage caused by exercise of certain powers under this Part[^key-b1130afa870d8441efe59d27a97ab651][^key-f556d474c1ba01c6054669f2bed0b439]
+## 70. Compensation for damage caused by exercise of certain powers under this Part[^c-b1130afa870d8441efe59d27a97ab651][^c-f556d474c1ba01c6054669f2bed0b439]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1130afa870d8441efe59d27a97ab651]: Commencement: S. 70 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b1130afa870d8441efe59d27a97ab651]: Commencement: S. 70 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f556d474c1ba01c6054669f2bed0b439]: Commencement: [S. 70](https://www.legislation.gov.uk/asc/2023/3/section/70) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-f556d474c1ba01c6054669f2bed0b439]: Commencement: [S. 70](https://www.legislation.gov.uk/asc/2023/3/section/70) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

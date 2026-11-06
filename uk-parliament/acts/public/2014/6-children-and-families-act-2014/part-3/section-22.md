@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Identifying children and young people with special educational needs and disabilities[^key-40771619017ca264072601b5d163e1ad]
+## 22. Identifying children and young people with special educational needs and disabilities[^c-40771619017ca264072601b5d163e1ad]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A local authority in England must exercise its functions with a view to securing
 
 ## Annotations
 
-[^key-40771619017ca264072601b5d163e1ad]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/6/section/22) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-40771619017ca264072601b5d163e1ad]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/6/section/22) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

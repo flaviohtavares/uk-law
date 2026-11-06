@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Students becoming eligible in the course of an academic year[^key-2a987ceddd3e2040b465957cfa0377d8]
+## 150. Students becoming eligible in the course of an academic year[^c-2a987ceddd3e2040b465957cfa0377d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a987ceddd3e2040b465957cfa0377d8]: Commencement: Reg. 150 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-2a987ceddd3e2040b465957cfa0377d8]: Commencement: Reg. 150 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

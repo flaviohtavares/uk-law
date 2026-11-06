@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Adjustment of terminology[^key-ad040d0c7a13d1ade3df24d7f2e4c0a7]
+## 96. Adjustment of terminology[^c-ad040d0c7a13d1ade3df24d7f2e4c0a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad040d0c7a13d1ade3df24d7f2e4c0a7]: Commencement: S. 96 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-ad040d0c7a13d1ade3df24d7f2e4c0a7]: Commencement: S. 96 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

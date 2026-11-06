@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Calculation of income other than earnings[^key-ceea6c98f6fe5e7dcc21a381613fce62]
+## 103. Calculation of income other than earnings[^c-ceea6c98f6fe5e7dcc21a381613fce62]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ceea6c98f6fe5e7dcc21a381613fce62]: Commencement: Reg. 103 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-ceea6c98f6fe5e7dcc21a381613fce62]: Commencement: Reg. 103 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00097]: Footnote: Copies of the rules relating to the earnings top-up scheme are available from the Department of Social Security, B2B, 9th Floor, The Adelphi, John Adam Street, London WC2N 6HT
 

@@ -27,10 +27,10 @@ summary: ''
 - (a) determine the matter, or
 - (b) order that it be determined by such means and upon such terms as the court may specify.
 
-(3) Subsection (1) has effect subject to any order of the court under section 24(4) or 25(3)[^key-c9e39a0e7ac8eefbdea174c90d88343b] (order as to entitlement to fees or expenses in case of removal or resignation of arbitrator).
+(3) Subsection (1) has effect subject to any order of the court under section 24(4) or 25(3)[^c-c9e39a0e7ac8eefbdea174c90d88343b] (order as to entitlement to fees or expenses in case of removal or resignation of arbitrator).
 
 (4) Nothing in this section affects any right of the arbitrator to payment of his fees and expenses.
 
 ## Annotations
 
-[^key-c9e39a0e7ac8eefbdea174c90d88343b]: Textual amendment: Word in s. 64(3) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2025/4/section/4/4/b), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-c9e39a0e7ac8eefbdea174c90d88343b]: Textual amendment: Word in s. 64(3) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2025/4/section/4/4/b), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

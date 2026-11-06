@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Procedure for offences by unincorporated bodies[^key-c83d6185b746129955ec26278ce5fd85][^key-dca200efabba8b33b82624007c3e6f7b]
+## 59. Procedure for offences by unincorporated bodies[^c-c83d6185b746129955ec26278ce5fd85][^c-dca200efabba8b33b82624007c3e6f7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c83d6185b746129955ec26278ce5fd85]: Commencement: Reg. 59 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-c83d6185b746129955ec26278ce5fd85]: Commencement: Reg. 59 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-dca200efabba8b33b82624007c3e6f7b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2019/461/regulation/59) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dca200efabba8b33b82624007c3e6f7b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2019/461/regulation/59) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23622101]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86) as amended by the [Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), [section 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1) and Schedule 1, Part 17. Other amendments have been made to section 33 that are not relevant to these Regulations.
 

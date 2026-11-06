@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.218. Report of official receiver[^key-31f89b24f57db92ccb7670eda9ce0a92]
+## 6.218. Report of official receiver[^c-31f89b24f57db92ccb7670eda9ce0a92]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ If he gives notice under this paragraph, he shall send copies of it, not less th
 
 ## Annotations
 
-[^key-31f89b24f57db92ccb7670eda9ce0a92]: Commencement: [Rule 6.218](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.218) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-31f89b24f57db92ccb7670eda9ce0a92]: Commencement: [Rule 6.218](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.218) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00196]: Marginal citation: \[FORM 6.75\]

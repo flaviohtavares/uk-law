@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Meaning of “relevant disposal” etc in section 95[^c2116508][^key-5b4c53f87e586fa68bc49a6d0d29880d]
+## 96. Meaning of “relevant disposal” etc in section 95[^c2116508][^c-5b4c53f87e586fa68bc49a6d0d29880d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c2116508]: Commencement: S. 96 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-5b4c53f87e586fa68bc49a6d0d29880d]: Commencement: S. 96 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-5b4c53f87e586fa68bc49a6d0d29880d]: Commencement: S. 96 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

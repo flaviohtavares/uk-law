@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124C. Approval of code about the initial obligations[^key-17fae0155d73447ced1620d8fc22af46]
+## 124C. Approval of code about the initial obligations[^c-17fae0155d73447ced1620d8fc22af46]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ with effect from the date given in the order, and must do so if the code ceases 
 
 ## Annotations
 
-[^key-17fae0155d73447ced1620d8fc22af46]: Textual amendment: S. 124C inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 5](https://www.legislation.gov.uk/ukpga/2010/24/section/5), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)
+[^c-17fae0155d73447ced1620d8fc22af46]: Textual amendment: S. 124C inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 5](https://www.legislation.gov.uk/ukpga/2010/24/section/5), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)

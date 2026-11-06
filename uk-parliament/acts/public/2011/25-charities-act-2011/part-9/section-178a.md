@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178A. Case A: specified offences[^key-f873ae1f9e3ca1f972ccad9f0a0d098d]
+## 178A. Case A: specified offences[^c-f873ae1f9e3ca1f972ccad9f0a0d098d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f873ae1f9e3ca1f972ccad9f0a0d098d]: Textual amendment: S. 178A inserted (1.2.2018 for specified purposes, 1.8.2018 in so far as not already in force) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2016/4/section/9/7), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4) (as amended (9.11.2016) by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), art. 1(2), Sch. 25(2)(dd) (with art. 12); [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [regs. 2](https://www.legislation.gov.uk/uksi/2018/47/regulation/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/47/regulation/4))
+[^c-f873ae1f9e3ca1f972ccad9f0a0d098d]: Textual amendment: S. 178A inserted (1.2.2018 for specified purposes, 1.8.2018 in so far as not already in force) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2016/4/section/9/7), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4) (as amended (9.11.2016) by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), art. 1(2), Sch. 25(2)(dd) (with art. 12); [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [regs. 2](https://www.legislation.gov.uk/uksi/2018/47/regulation/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/47/regulation/4))

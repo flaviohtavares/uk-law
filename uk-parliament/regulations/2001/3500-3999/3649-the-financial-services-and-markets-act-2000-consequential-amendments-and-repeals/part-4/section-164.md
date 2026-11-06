@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Restriction on disclosure of information[^key-174778fff36356abd9668c3f29a9b3d3]
+## 164. Restriction on disclosure of information[^c-174778fff36356abd9668c3f29a9b3d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-174778fff36356abd9668c3f29a9b3d3]: Commencement: Art. 164 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-174778fff36356abd9668c3f29a9b3d3]: Commencement: Art. 164 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

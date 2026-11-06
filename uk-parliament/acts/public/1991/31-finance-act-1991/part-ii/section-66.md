@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Restriction on setting ACT against liability to corporation tax on profits from oil extraction activities etc.[^key-d47cc2b48939c3295c5a01e6933bd526]
+## 66. Restriction on setting ACT against liability to corporation tax on profits from oil extraction activities etc.[^c-d47cc2b48939c3295c5a01e6933bd526]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47cc2b48939c3295c5a01e6933bd526]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/1991/31/section/66) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-d47cc2b48939c3295c5a01e6933bd526]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/1991/31/section/66) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

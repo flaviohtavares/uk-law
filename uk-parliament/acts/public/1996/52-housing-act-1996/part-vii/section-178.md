@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Meaning of associated person.[^key-8840b794bbf4a6bea8e55366104e16d7]
+## 178. Meaning of associated person.[^c-8840b794bbf4a6bea8e55366104e16d7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8840b794bbf4a6bea8e55366104e16d7]: Textual amendment: [S. 178](https://www.legislation.gov.uk/ukpga/1996/52/section/178) omitted (5.7.2021) by virtue of [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2021/17/section/78/3), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/1))
+[^c-8840b794bbf4a6bea8e55366104e16d7]: Textual amendment: [S. 178](https://www.legislation.gov.uk/ukpga/1996/52/section/178) omitted (5.7.2021) by virtue of [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2021/17/section/78/3), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/1))

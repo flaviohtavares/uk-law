@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**164.**[^key-c7fdf760bf313eb991438cf21a8d4b7e] (1) In section 122(4) of the Immigration and Asylum Act 1999[^f00172] (meaning of “assistance”)—
+**164.**[^c-c7fdf760bf313eb991438cf21a8d4b7e] (1) In section 122(4) of the Immigration and Asylum Act 1999[^f00172] (meaning of “assistance”)—
 
 - (a) at the end of paragraph (b) omit “or”;
 - (b) at the end of paragraph (c) omit the full stop and insert “or”;
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7fdf760bf313eb991438cf21a8d4b7e]: Commencement: Reg. 164 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-c7fdf760bf313eb991438cf21a8d4b7e]: Commencement: Reg. 164 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00172]: Footnote: Section 122 was substituted by the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), section 47.

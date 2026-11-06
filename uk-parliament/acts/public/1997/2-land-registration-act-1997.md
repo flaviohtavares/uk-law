@@ -37,19 +37,19 @@ An Act to amend the Land Registration Act 1925.
 
 ## Registration
 
-### 1. Compulsory first registration.[^key-0e6721a63a5ae1e1703b6838ea0887df]
+### 1. Compulsory first registration.[^c-0e6721a63a5ae1e1703b6838ea0887df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Indemnity
 
-### 2. Indemnity for errors or omissions in the register.[^key-0e6721a63a5ae1e1703b6838ea0887df]
+### 2. Indemnity for errors or omissions in the register.[^c-0e6721a63a5ae1e1703b6838ea0887df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Fees
 
-### 3. Registration fees.[^key-0e6721a63a5ae1e1703b6838ea0887df]
+### 3. Registration fees.[^c-0e6721a63a5ae1e1703b6838ea0887df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -75,9 +75,9 @@ come into force on such day as the Lord Chancellor may appoint by order made by 
 
 (3) Otherwise this Act comes into force at the end of the period of two months beginning with the day on which it is passed.
 
-(4)[^key-ad3d101a0960877513c087c5b2f79d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ad3d101a0960877513c087c5b2f79d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ad3d101a0960877513c087c5b2f79d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ad3d101a0960877513c087c5b2f79d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) An order under subsection (2) above may contain such transitional provisions and savings as the Lord Chancellor considers appropriate in connection with the order.
 
@@ -93,25 +93,25 @@ Section 4(1).
 
 #### Land Registration Act 1925 (c. 21)
 
-**1.**[^key-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Land Registration and Land Charges Act 1971 (c. 54)
 
-**2.**[^key-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Land Charges Act 1972 (c. 61)
 
-**3.**[^key-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Housing Act 1985 (c. 68)
 
-**4.**[^key-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Charities Act 1993 (c. 10)
 
-**6.**[^key-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-96c5091551e5f2c382146a0616aaadb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Agriculture Act 1993 (c. 37)
 
@@ -169,7 +169,7 @@ Section 4(2)
 
 [^c2844641]: Commencement: Act not in force at Royal Assent see [s. 5(2)(3)](https://www.legislation.gov.uk/ukpga/1997/2/section/5/2/3); Act wholly in force at 1.4.1998
 
-[^key-0e6721a63a5ae1e1703b6838ea0887df]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/ukpga/1997/2/section/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-0e6721a63a5ae1e1703b6838ea0887df]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/ukpga/1997/2/section/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c2844701]: Commencement: S. 4 wholly in force: s. 4(1)(2) partly in force at 27.4.1997, see s. 5(2) and wholly in force at 1.4.1998 by [S.I. 1997/3036](https://www.legislation.gov.uk/uksi/1997/3036), [arts. 2](https://www.legislation.gov.uk/uksi/1997/3036/article/2), [3](https://www.legislation.gov.uk/uksi/1997/3036/article/3)
 
@@ -177,8 +177,8 @@ Section 4(2)
 
 [^c2844721]: Subordinate legislation: S. 5(2): s. 5(2) power fully exercised (9.12.1997) by [S.I.1997/3036](https://www.legislation.gov.uk/uksi/1997/3036)
 
-[^key-ad3d101a0960877513c087c5b2f79d9b]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/1997/2/section/5/4)[(5)](https://www.legislation.gov.uk/ukpga/1997/2/section/5/5) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-ad3d101a0960877513c087c5b2f79d9b]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/1997/2/section/5/4)[(5)](https://www.legislation.gov.uk/ukpga/1997/2/section/5/5) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c2844731]: Modification: Sch. 1 Pt. I restricted (1.4.1998) by [S. I. 1997/3036](https://www.legislation.gov.uk/uksi/1997/3036), [art.3](https://www.legislation.gov.uk/uksi/1997/3036/article/3)
 
-[^key-96c5091551e5f2c382146a0616aaadb4]: Textual amendment: [Sch. 1 paras. 1-6](https://www.legislation.gov.uk/ukpga/1997/2/schedule/1/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-96c5091551e5f2c382146a0616aaadb4]: Textual amendment: [Sch. 1 paras. 1-6](https://www.legislation.gov.uk/ukpga/1997/2/schedule/1/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)

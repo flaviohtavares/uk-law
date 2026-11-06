@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Authorised officers: offences[^key-b68ea4d2c0902156bec8cce01e6f15fd][^key-c07552cae01c025300835499883bf754]
+## 23. Authorised officers: offences[^c-b68ea4d2c0902156bec8cce01e6f15fd][^c-c07552cae01c025300835499883bf754]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b68ea4d2c0902156bec8cce01e6f15fd]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-b68ea4d2c0902156bec8cce01e6f15fd]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-c07552cae01c025300835499883bf754]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/30/section/23) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(h)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/h)
+[^c-c07552cae01c025300835499883bf754]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/30/section/23) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(h)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/h)

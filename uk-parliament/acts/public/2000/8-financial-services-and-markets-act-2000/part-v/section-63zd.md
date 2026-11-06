@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63ZD. Statement of policy relating to conditional approval and variation[^key-c958405a29025646082fca6be2941a6e]
+## 63ZD. Statement of policy relating to conditional approval and variation[^c-c958405a29025646082fca6be2941a6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c958405a29025646082fca6be2941a6e]: Textual amendment: Ss. 63ZD, 63ZE inserted (25.7.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 27](https://www.legislation.gov.uk/ukpga/2013/33/section/27), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/b)
+[^c-c958405a29025646082fca6be2941a6e]: Textual amendment: Ss. 63ZD, 63ZE inserted (25.7.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 27](https://www.legislation.gov.uk/ukpga/2013/33/section/27), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/b)

@@ -37,7 +37,7 @@ An Act to amend the Law respecting the Payment of Naval and Greenwich Hospital P
 
 This Act may be cited as the Naval Pensions Act, 1884.
 
-## 2. Application to Greenwich Hospital pensions of 28 & 29 Vict. cc. 73, 111, 124.[^key-3e4d4a6a21e73d12ad1389fb8ed58910]
+## 2. Application to Greenwich Hospital pensions of 28 & 29 Vict. cc. 73, 111, 124.[^c-3e4d4a6a21e73d12ad1389fb8ed58910]
 
 Any reference in the [^c572992]Naval and Marine Pay and Pensions Act, 1865, the [^c572993]Navy and Marines (Property of Deceased) Act, 1865 or section 356 of the Armed Forces Act 2006 . . . [^c572995], to a pension or a naval pension, or to money payable by the Admiralty, shall be construed to include a naval pension and a Greenwich Hospital pension, gratuity, and allowance, within the meaning of the Greenwich Hospital Acts, 1865 to 1883, and any sum due on account of such a pension, gratuity, or allowance.
 
@@ -59,7 +59,7 @@ Any reference in the [^c572992]Naval and Marine Pay and Pensions Act, 1865, the 
 
 [^c572984]: Commencement: Act wholly in force at Royal Assent
 
-[^key-3e4d4a6a21e73d12ad1389fb8ed58910]: Textual amendment: Words in s. 2 substituted (28.3.2009 for specified purposes and 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/4); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
+[^c-3e4d4a6a21e73d12ad1389fb8ed58910]: Textual amendment: Words in s. 2 substituted (28.3.2009 for specified purposes and 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/4); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
 
 [^c572992]: Marginal citation: [1865 c. 73](https://www.legislation.gov.uk/ukpga/1865/73).
 

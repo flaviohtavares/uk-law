@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Rights of appeal[^key-c8e2994c25fb458736a5c26eaf716e23]
+## 162. Rights of appeal[^c-c8e2994c25fb458736a5c26eaf716e23]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) an information notice;
 - (b) an assessment notice;
-- (ba)[^key-0ef61c79a2caa1fceea57dd634375af5] an interview notice;
+- (ba)[^c-0ef61c79a2caa1fceea57dd634375af5] an interview notice;
 - (c) an enforcement notice;
 - (d) a penalty notice;
 - (e) a penalty variation notice.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8e2994c25fb458736a5c26eaf716e23]: Commencement: S. 162 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
+[^c-c8e2994c25fb458736a5c26eaf716e23]: Commencement: S. 162 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
 
-[^key-0ef61c79a2caa1fceea57dd634375af5]: Textual amendment: S. 162(1)(ba) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
+[^c-0ef61c79a2caa1fceea57dd634375af5]: Textual amendment: S. 162(1)(ba) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)

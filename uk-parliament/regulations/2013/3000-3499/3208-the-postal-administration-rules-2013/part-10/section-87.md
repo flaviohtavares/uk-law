@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Application to court to remove postal administrator from office[^key-36bba1957642c03818352d634852a37f]
+## 87. Application to court to remove postal administrator from office[^c-36bba1957642c03818352d634852a37f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36bba1957642c03818352d634852a37f]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2013/3208/rule/87) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-36bba1957642c03818352d634852a37f]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2013/3208/rule/87) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

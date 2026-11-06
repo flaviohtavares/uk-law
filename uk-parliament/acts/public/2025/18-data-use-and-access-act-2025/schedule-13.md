@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 13 — Privacy and electronic communications: Commissioner’s enforcement powers[^key-68cb04392ae6b208883c169cb954886e][^key-41b5d5f0de951a3fe0135b18fc70650d]
+## Schedule 13 — Privacy and electronic communications: Commissioner’s enforcement powers[^c-68cb04392ae6b208883c169cb954886e][^c-41b5d5f0de951a3fe0135b18fc70650d]
 
 *Extent: E+W+S+N.I.*
 
 Section 115
 
-[^key-41b5d5f0de951a3fe0135b18fc70650d]
+[^c-41b5d5f0de951a3fe0135b18fc70650d]
 
 This is the Schedule to be substituted for Schedule 1 to the PEC Regulations—
 
@@ -380,6 +380,6 @@ This is the Schedule to be substituted for Schedule 1 to the PEC Regulations—
 
 ## Annotations
 
-[^key-68cb04392ae6b208883c169cb954886e]: Commencement: Sch. 13 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-68cb04392ae6b208883c169cb954886e]: Commencement: Sch. 13 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-41b5d5f0de951a3fe0135b18fc70650d]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2025/18/schedule/13) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z14)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z14) (with [regs. 8-11](https://www.legislation.gov.uk/uksi/2026/82/regulation/8))
+[^c-41b5d5f0de951a3fe0135b18fc70650d]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2025/18/schedule/13) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z14)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z14) (with [regs. 8-11](https://www.legislation.gov.uk/uksi/2026/82/regulation/8))

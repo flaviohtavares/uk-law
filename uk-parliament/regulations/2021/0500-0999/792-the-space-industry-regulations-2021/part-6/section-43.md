@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Relevant agreements[^key-8c18cf8158186cf8b2daa93b3b276619]
+## 43. Relevant agreements[^c-8c18cf8158186cf8b2daa93b3b276619]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and provide a copy of such agreement to the regulator.
 
 ## Annotations
 
-[^key-8c18cf8158186cf8b2daa93b3b276619]: Commencement: Reg. 43 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8c18cf8158186cf8b2daa93b3b276619]: Commencement: Reg. 43 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

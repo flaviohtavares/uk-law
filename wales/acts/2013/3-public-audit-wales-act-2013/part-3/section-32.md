@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Interpretation[^key-a47c531ace577bf1435b0bb0b058297b]
+## 32. Interpretation[^c-a47c531ace577bf1435b0bb0b058297b]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In this Act—
 
 ## Annotations
 
-[^key-a47c531ace577bf1435b0bb0b058297b]: Commencement: S. 32 in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(s)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/s)
+[^c-a47c531ace577bf1435b0bb0b058297b]: Commencement: S. 32 in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(s)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/s)

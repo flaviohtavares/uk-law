@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Arrangements under section 107 of the National Health Service Act 2006[^key-e0435fc457580e7d4c67c958d8d6222b][^c2191341]
+## 204. Arrangements under section 107 of the National Health Service Act 2006[^c-e0435fc457580e7d4c67c958d8d6222b][^c2191341]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0435fc457580e7d4c67c958d8d6222b]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2012/7/section/204) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-e0435fc457580e7d4c67c958d8d6222b]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2012/7/section/204) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191341]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2012/7/section/204) partly in force; [s. 204](https://www.legislation.gov.uk/ukpga/2012/7/section/204) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

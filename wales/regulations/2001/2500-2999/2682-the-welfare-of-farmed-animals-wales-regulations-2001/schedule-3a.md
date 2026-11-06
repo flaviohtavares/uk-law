@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3A — NON-CAGE SYSTEMS[^key-ab3e42ab2d5d40b81837a91256498f37]
+## SCHEDULE 3A — NON-CAGE SYSTEMS[^c-ab3e42ab2d5d40b81837a91256498f37]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab3e42ab2d5d40b81837a91256498f37]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3A) inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/wsi/2002/1898/schedule)
+[^c-ab3e42ab2d5d40b81837a91256498f37]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3A) inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/wsi/2002/1898/schedule)

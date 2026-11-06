@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendments of broadcasting legislation: UK’s withdrawal from EU[^key-f1c17a0eed5a0caa596a6fd1eddd10e4][^key-ea9fc80c237c9c823eb173025f7bb5d5]
+## 51. Amendments of broadcasting legislation: UK’s withdrawal from EU[^c-f1c17a0eed5a0caa596a6fd1eddd10e4][^c-ea9fc80c237c9c823eb173025f7bb5d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 12 contains amendments of the Broadcasting Act 1990, the Broadcasting A
 
 ## Annotations
 
-[^key-f1c17a0eed5a0caa596a6fd1eddd10e4]: Commencement: S. 51 not in force at Royal Assent, see [s. 55(3)(h)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/h)
+[^c-f1c17a0eed5a0caa596a6fd1eddd10e4]: Commencement: S. 51 not in force at Royal Assent, see [s. 55(3)(h)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/h)
 
-[^key-ea9fc80c237c9c823eb173025f7bb5d5]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2024/15/section/51) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/u)
+[^c-ea9fc80c237c9c823eb173025f7bb5d5]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2024/15/section/51) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/u)

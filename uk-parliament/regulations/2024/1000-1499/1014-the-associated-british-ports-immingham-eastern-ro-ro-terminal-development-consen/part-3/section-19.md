@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Set-off for enhancement in value of retained land[^key-c552a1285821655e587d422c1ce2fa77]
+## 19. Set-off for enhancement in value of retained land[^c-c552a1285821655e587d422c1ce2fa77]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-c552a1285821655e587d422c1ce2fa77]: Commencement: Art. 19 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-c552a1285821655e587d422c1ce2fa77]: Commencement: Art. 19 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

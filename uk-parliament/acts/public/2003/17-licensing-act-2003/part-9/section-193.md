@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-679d1fd9e7302b24e3ebca426d8593cc] In this Act—
+(1)[^c-679d1fd9e7302b24e3ebca426d8593cc] In this Act—
 
 - “**beer**” has the same meaning as in the Alcoholic Liquor Duties Act 1979 (c. 4);
 - “**cider**” has the same meaning as in that Act;
@@ -48,11 +48,11 @@ summary: ''
 
 For the purposes of references in this Act to the prevention of illegal working in licensed premises, a person is working illegally if by doing that work at that time the person is committing an offence under section 24B of the Immigration Act 1971.
 
-(2)[^key-5baf26db8acccc2df13dd1098371b3ca] For the purposes of references in this Act to the prevention of illegal working in licensed premises, a person is working illegally if by doing that work at that time the person is committing an offence under section 24B of the Immigration Act 1971.
+(2)[^c-5baf26db8acccc2df13dd1098371b3ca] For the purposes of references in this Act to the prevention of illegal working in licensed premises, a person is working illegally if by doing that work at that time the person is committing an offence under section 24B of the Immigration Act 1971.
 
 ## Annotations
 
-[^key-679d1fd9e7302b24e3ebca426d8593cc]: Textual amendment: S. 193 renumbered as s. 193(1) (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 30(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/30/2); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-679d1fd9e7302b24e3ebca426d8593cc]: Textual amendment: S. 193 renumbered as s. 193(1) (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 30(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/30/2); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
 [^c21007171]: Textual amendment: S. 193: definition of "community premises" inserted (29.7.2009) by [The Legislative Reform (Supervision of Alcohol Sales in Church and Village Halls &c.) Order 2009 (S.I. 2009/1724)](https://www.legislation.gov.uk/uksi/2009/1724), [art. 6(1)(a)](https://www.legislation.gov.uk/uksi/2009/1724/article/6/1/a)
 
@@ -60,4 +60,4 @@ For the purposes of references in this Act to the prevention of illegal working 
 
 [^c21007211]: Textual amendment: S. 193: definition of "relevant electronic facility" inserted (28.12.2009) by [The Provision of Services Regulations 2009 (S.I. 2009/2999)](https://www.legislation.gov.uk/uksi/2009/2999), [reg. 49(14)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/49/14) (with [regs. 2](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2), [5](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5))
 
-[^key-5baf26db8acccc2df13dd1098371b3ca]: Textual amendment: S. 193(2) inserted (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 30(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/30/3); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-5baf26db8acccc2df13dd1098371b3ca]: Textual amendment: S. 193(2) inserted (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 30(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/30/3); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)

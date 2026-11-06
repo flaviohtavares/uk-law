@@ -54,14 +54,14 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(
 
 (1) This Order may be cited as the Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007.
 
-(2) The following provisions come into operation on such day or days as the Department of Justice[^key-a4b39f40413e317d3913e6cbd02e701d] may by order appoint—
+(2) The following provisions come into operation on such day or days as the Department of Justice[^c-a4b39f40413e317d3913e6cbd02e701d] may by order appoint—
 
 - (a) Article 6 (with Schedule 4);
-- (b) Article 12; and[^key-6f68968035f77cb3198b780e0e8f35c1]
-- (c)[^key-32e203a6f03b6db49d12d301e9103b92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) Article 12; and[^c-6f68968035f77cb3198b780e0e8f35c1]
+- (c)[^c-32e203a6f03b6db49d12d301e9103b92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) Schedule 5, except in so far as it relates to paragraphs 2, 6, 7, 10, 13, 15 and 18 of the inserted Schedule 2A to the 2003 Act.
 
-(2A)[^key-30a7c312e06c01002f27e9eab01499ba] Article 13 comes into operation on such day as the Secretary of State may by order appoint.
+(2A)[^c-30a7c312e06c01002f27e9eab01499ba] Article 13 comes into operation on such day as the Secretary of State may by order appoint.
 
 (3) The other provisions of this Order come into operation one month after the day on which it is made.
 
@@ -320,7 +320,7 @@ for “section 46(5)” substitute “ section 46(5) to (5F) ”.
 
 ## Police powers.
 
-### 12. Closure of roads, etc.[^key-231360d7be7a70c3d259d06d00c26565]
+### 12. Closure of roads, etc.[^c-231360d7be7a70c3d259d06d00c26565]
 
 (1) If a constable considers it immediately necessary for the preservation of the peace or the maintenance of order, he may—
 
@@ -829,17 +829,17 @@ This Order amends the law relating to the powers of designated police support st
 
 ## Annotations
 
-[^key-a4b39f40413e317d3913e6cbd02e701d]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/2/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-a4b39f40413e317d3913e6cbd02e701d]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/2/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-6f68968035f77cb3198b780e0e8f35c1]: Textual amendment: Word in [art. 1(2)(b)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2/b) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/2/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-6f68968035f77cb3198b780e0e8f35c1]: Textual amendment: Word in [art. 1(2)(b)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2/b) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/2/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-32e203a6f03b6db49d12d301e9103b92]: Textual amendment: [Art. 1(2)(c)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2/c) omitted (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(2)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/2/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-32e203a6f03b6db49d12d301e9103b92]: Textual amendment: [Art. 1(2)(c)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2/c) omitted (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(2)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/2/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-30a7c312e06c01002f27e9eab01499ba]: Textual amendment: [Art. 1(2A)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2A) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/3) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-30a7c312e06c01002f27e9eab01499ba]: Textual amendment: [Art. 1(2A)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2A) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2012/2595/article/15/3) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
 [^c21466521]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/nisi/2007/912/article/6/1) never in operation, repealed (12.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/112/2), [116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
 
-[^key-231360d7be7a70c3d259d06d00c26565]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisi/2007/912/article/12) in operation at 25.3.2013 by [S.R. 2013/75](https://www.legislation.gov.uk/nisr/2013/75), [art. 2](https://www.legislation.gov.uk/nisr/2013/75/article/2)
+[^c-231360d7be7a70c3d259d06d00c26565]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisi/2007/912/article/12) in operation at 25.3.2013 by [S.R. 2013/75](https://www.legislation.gov.uk/nisr/2013/75), [art. 2](https://www.legislation.gov.uk/nisr/2013/75/article/2)
 
 [^c21466551]: Textual amendment: [Sch. 4 para. 1(2)-(4)](https://www.legislation.gov.uk/nisi/2007/912/schedule/4/paragraph/1/2) never in operation, repealed (12.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/112/2), [116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
 

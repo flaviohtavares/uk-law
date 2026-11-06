@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.16. Attendance by company officers[^key-0a881054320e7fa044a6546b59407d53]
+## 1.16. Attendance by company officers[^c-0a881054320e7fa044a6546b59407d53]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a881054320e7fa044a6546b59407d53]: Commencement: [Rule 1.16](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.16) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0a881054320e7fa044a6546b59407d53]: Commencement: [Rule 1.16](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.16) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — Persons Disregarded for Purposes of Discount : England[^key-51e02c7423b97011230d3d821287f067]
+## SCHEDULE 1 — Persons Disregarded for Purposes of Discount : England[^c-51e02c7423b97011230d3d821287f067]
 
 *Extent: E+W*
 
@@ -28,20 +28,20 @@ Sections 11(5) and 79(5).
 
 **1.** (1) A person shall be disregarded for the purposes of discount on a particular day if on the day—
 
-- (a) he is detained in a prison, a hospital or any other place by virtue of an order or award[^key-f6976f9bc06cfbe2b5b203702c0807f0] to which sub-paragraph (2) below applies;
+- (a) he is detained in a prison, a hospital or any other place by virtue of an order or award[^c-f6976f9bc06cfbe2b5b203702c0807f0] to which sub-paragraph (2) below applies;
 - (b) he is detained under paragraph 2 of Schedule 3 to the [^c12081961]Immigration Act 1971 (deportation);
 - (c) he is detained under Part II or section 46, 47, 48 or 136 of the [^c12081971]Mental Health Act 1983; or
 - (d) he is detained under Parts 5, 6 and 7 or sections 136 or 297 of the Mental Health (Care and Treatment)(Scotland) Act 2003 or sections 52D or 52M or the Criminal Procedure (Scotland) Act 1995;[^c18858871]
 
-(2)[^key-4119be7ee4a2f56e9e2a2a0cc623d523] This sub-paragraph applies to—
+(2)[^c-4119be7ee4a2f56e9e2a2a0cc623d523] This sub-paragraph applies to—
 
 - (a) an order of a court in the United Kingdom;
 - (b) an order or award (whether or not of a court) made (anywhere) in proceedings in respect of a service offence within the meaning of the Armed Forces Act 2006.
 
 (3) If a person—
 
-- (a) is temporarily discharged under section 28 of the [^c12082001]Prison Act 1952, or temporarily released under rules under section 47(5) of that Act; [^key-5e313d1475c62bb63017570dacc33e85]...
-- (aa)[^key-c1fd37f39c4e65385f87056f57541511] is temporarily released under rules under section 300 of the Armed Forces Act 2006; or
+- (a) is temporarily discharged under section 28 of the [^c12082001]Prison Act 1952, or temporarily released under rules under section 47(5) of that Act; [^c-5e313d1475c62bb63017570dacc33e85]...
+- (aa)[^c-c1fd37f39c4e65385f87056f57541511] is temporarily released under rules under section 300 of the Armed Forces Act 2006; or
 - (b) is temporarily discharged under section 27 of the [^c12082011]Prisons (Scotland) Act 1989, or temporarily released under rules under section 39(6) of that Act,
 
 for the purposes of sub-paragraph (1) above he shall be treated as detained.
@@ -56,7 +56,7 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 
 (6) The Secretary of State may by order provide that a person shall be disregarded for the purposes of discount on a particular day if—
 
-- (a) on the day he is in service custody; and[^key-3d73d1990dc9eebec4f11ca53dc59b59]
+- (a) on the day he is in service custody; and[^c-3d73d1990dc9eebec4f11ca53dc59b59]
 - (b) such conditions as may be prescribed by the order are fulfilled.
 
 ### The severely mentally impaired
@@ -109,7 +109,7 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 (2) In this paragraph “**hospital**” means—
 
 - (a) a health service hospital within the meaning of the [^c12082221]National Health Service Act 2006, the National Health Service (Wales) Act 2006[^c18859861] or section 108(1) (interpretation) of the [^c12082231]National Health Service (Scotland) Act 1978; and
-- (b) a military, air-force or naval unit or establishment at or in which medical or surgical treatment is provided for persons subject to service law within the meaning of the Armed Forces Act 2006.[^key-ca3a477fcfd51c1bf8e1c53cd2d314ee]
+- (b) a military, air-force or naval unit or establishment at or in which medical or surgical treatment is provided for persons subject to service law within the meaning of the Armed Forces Act 2006.[^c-ca3a477fcfd51c1bf8e1c53cd2d314ee]
 
 (3) The Secretary of State may by order substitute another definition for the definition in sub-paragraph (2) above as for the time being effective for the purposes of this paragraph.
 
@@ -126,10 +126,10 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 
 - “**care home**” means—
   - (a) a care home within the meaning of the Care Standards Act 2000; or
-  - (b) a building or part of a building in which accommodation is provided for an adult under Part 4 of the Social Services and Well-being (Wales) Act 2014;[^key-1c95244a302d57263408cd48c33c6e4a] or[^key-afcf02091d79b9a5e96e00e46264c7db]
+  - (b) a building or part of a building in which accommodation is provided for an adult under Part 4 of the Social Services and Well-being (Wales) Act 2014;[^c-1c95244a302d57263408cd48c33c6e4a] or[^c-afcf02091d79b9a5e96e00e46264c7db]
   - (c) a building or part of a building in which accommodation is provided under Part 1 of the Care Act 2014;
 - “**hostel**” means anything which falls within any definition of hostel for the time being prescribed by order made by the Secretary of State under this sub-paragraph;
-- “independent hospital”—[^key-dd2d09a17018b76d1e58f5e2c27ac533]
+- “independent hospital”—[^c-dd2d09a17018b76d1e58f5e2c27ac533]
   - (a) in relation to England, means a hospital as defined by section 275 of the National Health Service Act 2006 that is not a health service hospital as defined by that section; and
   - (b) in relation to Wales, has the same meaning as in the Care Standards Act 2000.
 
@@ -204,13 +204,13 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 - (a) on the day he falls within such description as may be prescribed; and
 - (b) such conditions as may be prescribed are fulfilled.
 
-**12.**[^key-3983f751a05a32f2e4a9df633611b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3983f751a05a32f2e4a9df633611b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51e02c7423b97011230d3d821287f067]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1) heading inserted (1.4.2026) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(11)(a)](https://www.legislation.gov.uk/asc/2024/6/section/18/11/a), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-51e02c7423b97011230d3d821287f067]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1) heading inserted (1.4.2026) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(11)(a)](https://www.legislation.gov.uk/asc/2024/6/section/18/11/a), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
 
-[^key-f6976f9bc06cfbe2b5b203702c0807f0]: Textual amendment: Words in Sch. 1 para. 1(1)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f6976f9bc06cfbe2b5b203702c0807f0]: Textual amendment: Words in Sch. 1 para. 1(1)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c12081961]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -218,13 +218,13 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 
 [^c18858871]: Textual amendment: Words in Sch. 1 para. 1(1)(d) substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [Sch. 1 para. 22(2)(a)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/22/2/a)
 
-[^key-4119be7ee4a2f56e9e2a2a0cc623d523]: Textual amendment: Sch. 1 para. 1(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4119be7ee4a2f56e9e2a2a0cc623d523]: Textual amendment: Sch. 1 para. 1(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c12082001]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
-[^key-5e313d1475c62bb63017570dacc33e85]: Textual amendment: Word in Sch. 1 para. 1(3)(a) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/c), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5e313d1475c62bb63017570dacc33e85]: Textual amendment: Word in Sch. 1 para. 1(3)(a) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/c), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-c1fd37f39c4e65385f87056f57541511]: Textual amendment: Sch. 1 para. 1(3)(aa) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/c); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c1fd37f39c4e65385f87056f57541511]: Textual amendment: Sch. 1 para. 1(3)(aa) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/c); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c12082011]: Marginal citation: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
 
@@ -234,7 +234,7 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 
 [^c12082041]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
 
-[^key-3d73d1990dc9eebec4f11ca53dc59b59]: Textual amendment: Words in Sch. 1 para. 1(6)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(d)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/d); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3d73d1990dc9eebec4f11ca53dc59b59]: Textual amendment: Words in Sch. 1 para. 1(6)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(2)(d)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/2/d); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c12082211]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -244,7 +244,7 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 
 [^c12082231]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
-[^key-ca3a477fcfd51c1bf8e1c53cd2d314ee]: Textual amendment: Words in Sch. 1 para. 6(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(3)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/3); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ca3a477fcfd51c1bf8e1c53cd2d314ee]: Textual amendment: Words in Sch. 1 para. 6(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 123(3)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/123/3); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c12082271]: Textual amendment: Words in Sch. 1 para. 7(1)(a) substituted (1.4.2002 for E.W.) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 4 para. 20(a)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/20/a); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/a) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of that [S.I](https://www.legislation.gov.uk/uksi/2001/4150/section/I). and [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493) by virtue of [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/2) as amended by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/d) (subject to [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 
@@ -252,11 +252,11 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 
 [^c12082291]: Textual amendment: Sch. 1 para. 7(2) substituted (1.4.2002 for E.W.) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 4 para. 20(c)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/20/c); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/a) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of that [S.I](https://www.legislation.gov.uk/uksi/2001/4150/section/I). and [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493) by virtue of [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/2) as amended by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/d) (subject to [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 
-[^key-1c95244a302d57263408cd48c33c6e4a]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [141(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/141/b)
+[^c-1c95244a302d57263408cd48c33c6e4a]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [141(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/141/b)
 
-[^key-afcf02091d79b9a5e96e00e46264c7db]: Textual amendment: Words in Sch. 1 para. 7(2) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/55) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+[^c-afcf02091d79b9a5e96e00e46264c7db]: Textual amendment: Words in Sch. 1 para. 7(2) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/55) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
 
-[^key-dd2d09a17018b76d1e58f5e2c27ac533]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/813/article/1/1), [9](https://www.legislation.gov.uk/uksi/2010/813/article/9)
+[^c-dd2d09a17018b76d1e58f5e2c27ac533]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/813/article/1/1), [9](https://www.legislation.gov.uk/uksi/2010/813/article/9)
 
 [^c12082311]: Textual amendment: Words in Sch. 1 para. 7(3) substituted (1.4.2002 for E.W.) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 4 para. 20(d)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/20/d); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/a) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of that [S.I](https://www.legislation.gov.uk/uksi/2001/4150/section/I). and [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493) by virtue of [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/2) as amended by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/d) (subject to [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 
@@ -282,4 +282,4 @@ for the purposes of sub-paragraph (1) above he shall be treated as detained.
 
 [^c12082451]: Textual amendment: Words in Sch. 1 para. 8(4) substituted (S.) (1.4.2002) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [s. 79](https://www.legislation.gov.uk/asp/2001/8/section/79), [Sch. 3 para. 18(d)(ii)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/18/d/ii); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-3983f751a05a32f2e4a9df633611b5f4]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1/paragraph/12) omitted (1.4.2026) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(11)(b)](https://www.legislation.gov.uk/asc/2024/6/section/18/11/b), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-3983f751a05a32f2e4a9df633611b5f4]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1/paragraph/12) omitted (1.4.2026) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(11)(b)](https://www.legislation.gov.uk/asc/2024/6/section/18/11/b), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 170. Electronic delivery by administrator[^key-aabcece2a166af86565d4d833e773840]
+## 170. Electronic delivery by administrator[^c-aabcece2a166af86565d4d833e773840]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aabcece2a166af86565d4d833e773840]: Commencement: Rule 170 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-aabcece2a166af86565d4d833e773840]: Commencement: Rule 170 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

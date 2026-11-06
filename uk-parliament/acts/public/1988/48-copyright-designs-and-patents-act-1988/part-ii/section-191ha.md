@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191HA. Assignment of performer’s property rights in a sound recording[^key-c8449ee76bca04f113c2ee73df28ecc5]
+## 191HA. Assignment of performer’s property rights in a sound recording[^c-c8449ee76bca04f113c2ee73df28ecc5]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where a performer has by an agreement[^key-fdbc9b3ca38bbc636862e2a449414dae] assigned the following rights concerning a sound recording to the producer of the sound recording—
+(1) This section applies where a performer has by an agreement[^c-fdbc9b3ca38bbc636862e2a449414dae] assigned the following rights concerning a sound recording to the producer of the sound recording—
 
 - (a) reproduction, distribution and making available rights, or
 - (b) performer’s property rights.
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8449ee76bca04f113c2ee73df28ecc5]: Textual amendment: Ss. 191HA-191HB inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/1782/regulation/9) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
+[^c-c8449ee76bca04f113c2ee73df28ecc5]: Textual amendment: Ss. 191HA-191HB inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/1782/regulation/9) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
 
-[^key-fdbc9b3ca38bbc636862e2a449414dae]: Textual amendment: Words in s. 191HA(1) inserted (6.4.2014) by [The Copyright and Duration of Rights in Performances (Amendment) Regulations 2014 (S.I. 2014/434)](https://www.legislation.gov.uk/uksi/2014/434), [regs. 1](https://www.legislation.gov.uk/uksi/2014/434/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/434/regulation/2)
+[^c-fdbc9b3ca38bbc636862e2a449414dae]: Textual amendment: Words in s. 191HA(1) inserted (6.4.2014) by [The Copyright and Duration of Rights in Performances (Amendment) Regulations 2014 (S.I. 2014/434)](https://www.legislation.gov.uk/uksi/2014/434), [regs. 1](https://www.legislation.gov.uk/uksi/2014/434/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/434/regulation/2)

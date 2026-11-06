@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Process for permission[^key-c011c5ee536b9aacf30a202635a08f49]
+## 55. Process for permission[^c-c011c5ee536b9aacf30a202635a08f49]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c011c5ee536b9aacf30a202635a08f49]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/10/section/55) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-c011c5ee536b9aacf30a202635a08f49]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/10/section/55) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

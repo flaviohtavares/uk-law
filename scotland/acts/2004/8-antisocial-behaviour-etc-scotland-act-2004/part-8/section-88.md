@@ -31,12 +31,12 @@ summary: ''
 
 (2) The registered person shall, as soon as practicable after appointing the person, give notice in writing to the local authority of the appointment.
 
-(2A)[^key-4bc9c7959a1eea9b7e2db525a69563a7] Subject to subsections (2B) and (2C), the notice shall be accompanied by such fee as the local authority may determine.
+(2A)[^c-4bc9c7959a1eea9b7e2db525a69563a7] Subject to subsections (2B) and (2C), the notice shall be accompanied by such fee as the local authority may determine.
 
 (2B) No fee shall be payable under subsection (2A) if, when the notice is given—
 
-- (a) the person appointed is entered in the register as a relevant person; [^key-eef70de9eaa47632db23ef3be76e9feb]...
-- (b) another relevant person's entry in the register states that the person appointed acts for the other relevant person.,or[^key-c0699bfe597ba893511a3a718209befb]
+- (a) the person appointed is entered in the register as a relevant person; [^c-eef70de9eaa47632db23ef3be76e9feb]...
+- (b) another relevant person's entry in the register states that the person appointed acts for the other relevant person.,or[^c-c0699bfe597ba893511a3a718209befb]
 - (c) the person appointed is a registered letting agent.
 
 (2C) The Scottish Ministers may by regulations prescribe for the purposes of subsection (2A)—
@@ -47,12 +47,12 @@ summary: ''
 
 (3) The local authority shall, as soon as practicable after being given notice under subsection (2), determine whether the condition in subsection (4) is satisfied in relation to the person appointed.
 
-(4)[^key-cee7c3c05d937ddd99ef98df3b7ac7e6] The condition is that either—
+(4)[^c-cee7c3c05d937ddd99ef98df3b7ac7e6] The condition is that either—
 
 - (a) the person is a registered letting agent, or
 - (b) in the case of a person who is not a registered letting agent, the person is a fit and proper person to act for the registered person in relation to a lease or occupancy arrangement such as is mentioned in subsection (1)(b).
 
-(5) Subsections (2) to (5) of section 85 shall apply for the purposes of subsection (4)(b)[^key-47cdfbfa89a34e8220ce1f1a714c1624] as those subsections apply for the purposes of subsection (1) of that section.
+(5) Subsections (2) to (5) of section 85 shall apply for the purposes of subsection (4)(b)[^c-47cdfbfa89a34e8220ce1f1a714c1624] as those subsections apply for the purposes of subsection (1) of that section.
 
 (6) If the local authority determines that the condition in subsection (4) is satisfied—
 
@@ -63,7 +63,7 @@ summary: ''
 
 (8) If the local authority determines that the condition in subsection (4) is not satisfied, the authority shall remove the registered person from the register.
 
-(9)[^key-3d390841261c241442768fec334aae15] A registered person is guilty of an offence who, without reasonable excuse—
+(9)[^c-3d390841261c241442768fec334aae15] A registered person is guilty of an offence who, without reasonable excuse—
 
 - (a) in giving notice under subsection (2), specifies information which is false in a material particular; or
 - (b) fails to comply with subsection (2).
@@ -72,14 +72,14 @@ summary: ''
 
 ## Annotations
 
-[^key-4bc9c7959a1eea9b7e2db525a69563a7]: Textual amendment: S. 88(2A)-(2C) inserted (31.8.2011 for specified purposes, 1.7.2012 in so far as not already in force) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 4(a)](https://www.legislation.gov.uk/asp/2011/14/section/4/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/150/article/2/2)
+[^c-4bc9c7959a1eea9b7e2db525a69563a7]: Textual amendment: S. 88(2A)-(2C) inserted (31.8.2011 for specified purposes, 1.7.2012 in so far as not already in force) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 4(a)](https://www.legislation.gov.uk/asp/2011/14/section/4/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/150/article/2/2)
 
-[^key-eef70de9eaa47632db23ef3be76e9feb]: Textual amendment: Word in [s. 88(2B)(a)](https://www.legislation.gov.uk/asp/2004/8/section/88/2B/a) repealed (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(a)(i)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/a/i), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-eef70de9eaa47632db23ef3be76e9feb]: Textual amendment: Word in [s. 88(2B)(a)](https://www.legislation.gov.uk/asp/2004/8/section/88/2B/a) repealed (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(a)(i)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/a/i), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-c0699bfe597ba893511a3a718209befb]: Textual amendment: [S. 88(2B)(c)](https://www.legislation.gov.uk/asp/2004/8/section/88/2B/c) and word inserted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(a)(ii)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/a/ii), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-c0699bfe597ba893511a3a718209befb]: Textual amendment: [S. 88(2B)(c)](https://www.legislation.gov.uk/asp/2004/8/section/88/2B/c) and word inserted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(a)(ii)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/a/ii), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-cee7c3c05d937ddd99ef98df3b7ac7e6]: Textual amendment: [S. 88(4)](https://www.legislation.gov.uk/asp/2004/8/section/88/4) substituted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-cee7c3c05d937ddd99ef98df3b7ac7e6]: Textual amendment: [S. 88(4)](https://www.legislation.gov.uk/asp/2004/8/section/88/4) substituted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-47cdfbfa89a34e8220ce1f1a714c1624]: Textual amendment: Word in [s. 88(5)](https://www.legislation.gov.uk/asp/2004/8/section/88/5) substituted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(c)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/c), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-47cdfbfa89a34e8220ce1f1a714c1624]: Textual amendment: Word in [s. 88(5)](https://www.legislation.gov.uk/asp/2004/8/section/88/5) substituted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(2)(c)](https://www.legislation.gov.uk/asp/2014/14/section/60/2/c), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-3d390841261c241442768fec334aae15]: Textual amendment: S. 88(9)(10) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 4(b)](https://www.legislation.gov.uk/asp/2011/14/section/4/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-3d390841261c241442768fec334aae15]: Textual amendment: S. 88(9)(10) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 4(b)](https://www.legislation.gov.uk/asp/2011/14/section/4/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)

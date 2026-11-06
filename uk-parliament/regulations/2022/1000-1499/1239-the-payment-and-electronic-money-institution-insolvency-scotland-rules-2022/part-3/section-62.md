@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Action where person excluded[^key-3802d9f9807d5d1ceedfb419804b3dc6]
+## 62. Action where person excluded[^c-3802d9f9807d5d1ceedfb419804b3dc6]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3802d9f9807d5d1ceedfb419804b3dc6]: Commencement: Rule 62 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-3802d9f9807d5d1ceedfb419804b3dc6]: Commencement: Rule 62 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Automatic re-enrolment[^key-422e45db47a71eafc91668f03838d7f2]
+## 22. Automatic re-enrolment[^c-422e45db47a71eafc91668f03838d7f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-422e45db47a71eafc91668f03838d7f2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/1964/regulation/22) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-422e45db47a71eafc91668f03838d7f2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/1964/regulation/22) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00050]: Footnote: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30). Section 5 was amended by the Pensions Act [2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) sections 4(2), (3) and (4), 5(3) and (4) and 6(3).

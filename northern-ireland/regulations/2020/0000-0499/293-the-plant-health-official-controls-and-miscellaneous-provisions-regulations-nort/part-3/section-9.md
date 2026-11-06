@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Consignments not correctly presented for official controls[^key-d894a0be7054c416e27969c6e47cba1b]
+## 9. Consignments not correctly presented for official controls[^c-d894a0be7054c416e27969c6e47cba1b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a plant health inspector suspects or is aware that a controlled consignmen
 
 ## Annotations
 
-[^key-d894a0be7054c416e27969c6e47cba1b]: Commencement: Reg. 9 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-d894a0be7054c416e27969c6e47cba1b]: Commencement: Reg. 9 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

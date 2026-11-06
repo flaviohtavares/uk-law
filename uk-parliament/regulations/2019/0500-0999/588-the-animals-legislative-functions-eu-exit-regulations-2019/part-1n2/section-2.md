@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/eur/1997/1255) concerning Community criteria for control posts and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/eudr/1991/628)[^key-83511aca13d51b32b4bba84c2fa414cb]
+## 2. Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/eur/1997/1255) concerning Community criteria for control posts and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/eudr/1991/628)[^c-83511aca13d51b32b4bba84c2fa414cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 > - (a) for regulations applying in relation to England, the Secretary of State;
 > - (b) for regulations applying in relation to Wales, the Welsh Ministers;
 > - (c) for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (d)[^key-04bfe0050ffbf047ca8432d571fc0ea3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-04bfe0050ffbf047ca8432d571fc0ea3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **2.**
 >
@@ -47,7 +47,7 @@ summary: ''
 >
 > - (a) for regulations applying in relation to Wales, the Welsh Ministers;
 > - (b) for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (c)[^key-eb4d87fb42f0bef43a96fa8d7e1f3bb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-eb4d87fb42f0bef43a96fa8d7e1f3bb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
@@ -70,7 +70,7 @@ summary: ''
 >
 > For regulations made under this Regulation by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23643771].
 >
-> **3.[^key-86790f9eefa05dea384677388a652249]**
+> **3.[^c-86790f9eefa05dea384677388a652249]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -86,7 +86,7 @@ summary: ''
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-86790f9eefa05dea384677388a652249]**
+> **7.[^c-86790f9eefa05dea384677388a652249]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -108,12 +108,12 @@ summary: ''
 
 ## Annotations
 
-[^key-83511aca13d51b32b4bba84c2fa414cb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-83511aca13d51b32b4bba84c2fa414cb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-04bfe0050ffbf047ca8432d571fc0ea3]: Textual amendment: Words in reg. 2(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/2/a/i)
+[^c-04bfe0050ffbf047ca8432d571fc0ea3]: Textual amendment: Words in reg. 2(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/2/a/i)
 
-[^key-eb4d87fb42f0bef43a96fa8d7e1f3bb2]: Textual amendment: Words in reg. 2(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/2/a/ii)
+[^c-eb4d87fb42f0bef43a96fa8d7e1f3bb2]: Textual amendment: Words in reg. 2(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/2/a/ii)
 
 [^c23643771]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-86790f9eefa05dea384677388a652249]: Textual amendment: Words in reg. 2(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/2/b)
+[^c-86790f9eefa05dea384677388a652249]: Textual amendment: Words in reg. 2(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/2/b)

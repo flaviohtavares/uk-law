@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Remuneration of certain office-holders[^key-aaad1dbf1849c37ea5823610bee7c001]
+## 9. Remuneration of certain office-holders[^c-aaad1dbf1849c37ea5823610bee7c001]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The remuneration, allowances and other benefits payable to persons holding the o
 
 ## Annotations
 
-[^key-aaad1dbf1849c37ea5823610bee7c001]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/1751/article/9) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-aaad1dbf1849c37ea5823610bee7c001]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/1751/article/9) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Governance of requirements and protection of interests relating to highway works[^key-1f5a9f149af84725ca45a9fcdd25e8d9]
+## 42. Governance of requirements and protection of interests relating to highway works[^c-1f5a9f149af84725ca45a9fcdd25e8d9]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f5a9f149af84725ca45a9fcdd25e8d9]: Commencement: Art. 42 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-1f5a9f149af84725ca45a9fcdd25e8d9]: Commencement: Art. 42 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

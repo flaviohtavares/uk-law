@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Offences[^key-262dc0ae2fae34d22d4fb5c6e2b2abe0]
+## 26. Offences[^c-262dc0ae2fae34d22d4fb5c6e2b2abe0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 makes provision about offences.
 
 ## Annotations
 
-[^key-262dc0ae2fae34d22d4fb5c6e2b2abe0]: Commencement: Art. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-262dc0ae2fae34d22d4fb5c6e2b2abe0]: Commencement: Art. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

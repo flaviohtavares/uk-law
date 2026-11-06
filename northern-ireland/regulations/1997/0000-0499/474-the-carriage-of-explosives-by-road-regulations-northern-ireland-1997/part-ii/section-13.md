@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Limits on quantities[^key-d9626dd455c6c5ae87700be9882777cb]
+## 13. Limits on quantities[^c-d9626dd455c6c5ae87700be9882777cb]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ and, in order to comply with paragraph (1)(*a*), the vehicle needs to satisfy a 
 
 ## Annotations
 
-[^key-d9626dd455c6c5ae87700be9882777cb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1997/474/regulation/13) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-d9626dd455c6c5ae87700be9882777cb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1997/474/regulation/13) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

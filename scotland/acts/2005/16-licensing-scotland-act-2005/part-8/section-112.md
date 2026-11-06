@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Obtaining of alcohol by or for a drunk person[^key-a69ff44fc6da012eb47f4d4a0b532f50]
+## 112. Obtaining of alcohol by or for a drunk person[^c-a69ff44fc6da012eb47f4d4a0b532f50]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a69ff44fc6da012eb47f4d4a0b532f50]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2005/16/section/112) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-a69ff44fc6da012eb47f4d4a0b532f50]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2005/16/section/112) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

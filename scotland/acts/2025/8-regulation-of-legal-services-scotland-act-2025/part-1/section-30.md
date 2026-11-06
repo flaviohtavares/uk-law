@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Surrender of rights[^key-e2d5726544e27f6054bf317422679309][^key-6e151b9ea729923e7e2522856ecedcac]
+## 30. Surrender of rights[^c-e2d5726544e27f6054bf317422679309][^c-6e151b9ea729923e7e2522856ecedcac]
 
 *Extent: S*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2d5726544e27f6054bf317422679309]: Commencement: S. 30 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e2d5726544e27f6054bf317422679309]: Commencement: S. 30 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-6e151b9ea729923e7e2522856ecedcac]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2025/8/section/30) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-6e151b9ea729923e7e2522856ecedcac]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2025/8/section/30) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

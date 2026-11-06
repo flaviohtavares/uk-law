@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c14516441]An employment tribunal[^c14516451] shall not consider a complaint under section 146 unless it is presented—
 
-- (a) before the end of the period of six[^key-7a115555511759f937e6031ba8ec73d1] months beginning with the date of the act or failure to which the complaint relates or, where that act or failure is part of a series of similar acts or failures (or both) the last of them[^c14516461], or
+- (a) before the end of the period of six[^c-7a115555511759f937e6031ba8ec73d1] months beginning with the date of the act or failure to which the complaint relates or, where that act or failure is part of a series of similar acts or failures (or both) the last of them[^c14516461], or
 - (b) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period, within such further period as it considers reasonable.
 
 (2)[^c14516471] For the purposes of subsection (1)—
@@ -35,7 +35,7 @@ summary: ''
 - (a) when he does an act inconsistent with doing the failed act, or
 - (b) if he has done no such inconsistent act, when the period expires within which he might reasonably have been expected to do the failed act if it was to be done.
 
-(4)[^key-843d70b0985b328812004f0e45433c55] Section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (1)(a).
+(4)[^c-843d70b0985b328812004f0e45433c55] Section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (1)(a).
 
 ## Annotations
 
@@ -51,10 +51,10 @@ summary: ''
 
 [^c14516451]: Textual amendment: Words in s. 147(1) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-7a115555511759f937e6031ba8ec73d1]: Textual amendment: Word in [s. 147(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/147/1/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(8)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/8); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-7a115555511759f937e6031ba8ec73d1]: Textual amendment: Word in [s. 147(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/147/1/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(8)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/8); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
 [^c14516461]: Textual amendment: Words in [s. 147(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/147/1/a) substituted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 2](https://www.legislation.gov.uk/ukpga/1999/26/section/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/2/paragraph/3/3); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/1))
 
 [^c14516471]: Textual amendment: [S. 147(2)(3)](https://www.legislation.gov.uk/ukpga/1992/52/section/147/2/3) inserted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 2](https://www.legislation.gov.uk/ukpga/1999/26/section/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/2/paragraph/3/4); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/1))
 
-[^key-843d70b0985b328812004f0e45433c55]: Textual amendment: [S. 147(4)](https://www.legislation.gov.uk/ukpga/1992/52/section/147/4) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/8); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
+[^c-843d70b0985b328812004f0e45433c55]: Textual amendment: [S. 147(4)](https://www.legislation.gov.uk/ukpga/1992/52/section/147/4) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/8); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)

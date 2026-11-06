@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Variation and withdrawal of enforcement notice[^key-3ecc35160e7ca2d9b7516e981b528f31][^key-6e2920ca0585911a86f3e873fd30c73c]
+## 125. Variation and withdrawal of enforcement notice[^c-3ecc35160e7ca2d9b7516e981b528f31][^c-6e2920ca0585911a86f3e873fd30c73c]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ecc35160e7ca2d9b7516e981b528f31]: Commencement: S. 125 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-3ecc35160e7ca2d9b7516e981b528f31]: Commencement: S. 125 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-6e2920ca0585911a86f3e873fd30c73c]: Commencement: [S. 125](https://www.legislation.gov.uk/asc/2023/3/section/125) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-6e2920ca0585911a86f3e873fd30c73c]: Commencement: [S. 125](https://www.legislation.gov.uk/asc/2023/3/section/125) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

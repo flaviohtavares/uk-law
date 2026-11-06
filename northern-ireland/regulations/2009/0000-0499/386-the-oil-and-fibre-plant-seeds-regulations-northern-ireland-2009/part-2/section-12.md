@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Lodging of seed test reports[^key-45d1715a7199bf2b1aec70fef0e7802c]
+## 12. Lodging of seed test reports[^c-45d1715a7199bf2b1aec70fef0e7802c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45d1715a7199bf2b1aec70fef0e7802c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/386) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(d)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/d)
+[^c-45d1715a7199bf2b1aec70fef0e7802c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/386) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(d)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/d)

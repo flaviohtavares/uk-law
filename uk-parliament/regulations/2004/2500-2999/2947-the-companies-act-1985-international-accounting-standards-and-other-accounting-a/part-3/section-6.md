@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Content of auditors' report[^key-0b0fe0d1c095ecd0fdac4934cd11b906]
+## 6. Content of auditors' report[^c-0b0fe0d1c095ecd0fdac4934cd11b906]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b0fe0d1c095ecd0fdac4934cd11b906]: Commencement: Reg. 6 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-0b0fe0d1c095ecd0fdac4934cd11b906]: Commencement: Reg. 6 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00005]: Footnote: Section 235 was substituted by section 9 of the Companies Act 1989, and amended by regulation 4 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).

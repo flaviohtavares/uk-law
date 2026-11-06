@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Power to protect certain interests[^M_I_8769dded-6c0b-4118-a43b-65aa92d47ce8][^key-20de6eb6853d8d0a8a21e16754a94443]
+## 48. Power to protect certain interests[^M_I_8769dded-6c0b-4118-a43b-65aa92d47ce8][^c-20de6eb6853d8d0a8a21e16754a94443]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^M_I_8769dded-6c0b-4118-a43b-65aa92d47ce8]: Commencement: S. 48 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-20de6eb6853d8d0a8a21e16754a94443]: Commencement: S. 48 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-20de6eb6853d8d0a8a21e16754a94443]: Commencement: S. 48 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

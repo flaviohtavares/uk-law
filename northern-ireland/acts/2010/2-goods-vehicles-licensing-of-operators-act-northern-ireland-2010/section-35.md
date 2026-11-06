@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Rights of appeal in connection with operators' licences[^key-ec086f5a467ba64126b510b9c5195140]
+## 35. Rights of appeal in connection with operators' licences[^c-ec086f5a467ba64126b510b9c5195140]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ may appeal to the Upper Tribunal against the refusal of the application.
 
 ## Annotations
 
-[^key-ec086f5a467ba64126b510b9c5195140]: Commencement: S. 35 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-ec086f5a467ba64126b510b9c5195140]: Commencement: S. 35 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

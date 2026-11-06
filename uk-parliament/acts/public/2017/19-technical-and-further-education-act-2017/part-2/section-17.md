@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Education administration order[^key-c2947e3b06576ec24828cce17e7abfc7]
+## 17. Education administration order[^c-c2947e3b06576ec24828cce17e7abfc7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2947e3b06576ec24828cce17e7abfc7]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/19/section/17) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-c2947e3b06576ec24828cce17e7abfc7]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/19/section/17) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Certification to civil courts[^key-01d62d96ad4e865633b4f3fbdffff161][^key-7b45f8f9aad0ed099af654bfb17bf5a8]
+## 311. Certification to civil courts[^c-01d62d96ad4e865633b4f3fbdffff161][^c-7b45f8f9aad0ed099af654bfb17bf5a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ may deal with him in any way in which it could deal with him if the offence had 
 
 ## Annotations
 
-[^key-01d62d96ad4e865633b4f3fbdffff161]: Commencement: S. 311 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-01d62d96ad4e865633b4f3fbdffff161]: Commencement: S. 311 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-7b45f8f9aad0ed099af654bfb17bf5a8]: Commencement: S. 311 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7b45f8f9aad0ed099af654bfb17bf5a8]: Commencement: S. 311 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

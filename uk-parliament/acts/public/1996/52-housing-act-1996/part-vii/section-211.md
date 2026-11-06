@@ -28,7 +28,7 @@ summary: ''
 (2) If the authority have become subject to a duty towards the applicant under—
 
 - section 188 (interim duty to accommodate),
-- section 189B (initial duty owed to all eligible persons who are homeless),[^key-4577ce4ee7d03772aefe6eed614a5641]
+- section 189B (initial duty owed to all eligible persons who are homeless),[^c-4577ce4ee7d03772aefe6eed614a5641]
 - section 190, 193 or 195 (duties to persons found to be homeless or threatened with homelessness), or
 - section 200 (duties to applicant whose case is considered for referral or referred),
 
@@ -49,4 +49,4 @@ then, whether or not they are still subject to such a duty, they shall take reas
 
 [^c13154691]: Modification: Ss. 183-218 modified (3.4.1997) by [S.I. 1997/797](https://www.legislation.gov.uk/uksi/1997/797), [art.2(1)](https://www.legislation.gov.uk/uksi/1997/797/article/2/1)
 
-[^key-4577ce4ee7d03772aefe6eed614a5641]: Textual amendment: Words in s. 211(2) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(12)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/12), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-4577ce4ee7d03772aefe6eed614a5641]: Textual amendment: Words in s. 211(2) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(12)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/12), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))

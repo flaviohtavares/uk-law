@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Restriction on availability of powers: penalties[^key-1e3d1025f2c2e24b1fc821c4dac98585][^key-e2761111f05090c9d1ef19181b051b21]
+## 14. Restriction on availability of powers: penalties[^c-1e3d1025f2c2e24b1fc821c4dac98585][^c-e2761111f05090c9d1ef19181b051b21]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The Minister may exercise the powers in Chapter 4 to recover an amount due in re
 
 ## Annotations
 
-[^key-1e3d1025f2c2e24b1fc821c4dac98585]: Commencement: S. 14 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-1e3d1025f2c2e24b1fc821c4dac98585]: Commencement: S. 14 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-e2761111f05090c9d1ef19181b051b21]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/28/section/14) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-e2761111f05090c9d1ef19181b051b21]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/28/section/14) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 29 — Repeals and revocations for England and Wales[^key-6608009181844eeef579e9188272ce4f]
+## SCHEDULE 29 — Repeals and revocations for England and Wales[^c-6608009181844eeef579e9188272ce4f]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ Section 413
 
 ## Annotations
 
-[^key-6608009181844eeef579e9188272ce4f]: Commencement: Sch. 29 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6608009181844eeef579e9188272ce4f]: Commencement: Sch. 29 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Revocation of Commission Implementing Decision 2017/759[^key-2bb82f6dab05c99ac20704b77783f6ba]
+## 106. Revocation of Commission Implementing Decision 2017/759[^c-2bb82f6dab05c99ac20704b77783f6ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2017/759 of 28 April 2017 on the common pr
 
 ## Annotations
 
-[^key-2bb82f6dab05c99ac20704b77783f6ba]: Commencement: Reg. 106 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2bb82f6dab05c99ac20704b77783f6ba]: Commencement: Reg. 106 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

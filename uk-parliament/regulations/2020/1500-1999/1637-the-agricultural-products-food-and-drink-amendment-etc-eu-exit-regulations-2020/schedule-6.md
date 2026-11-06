@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 23
 
-### PART 1 — Article 14: new paragraphs 3 to 3n and 4 to 6[^key-772389824c2f92de7d2b7578f26b8af3]
+### PART 1 — Article 14: new paragraphs 3 to 3n and 4 to 6[^c-772389824c2f92de7d2b7578f26b8af3]
 
 > **3.** Where the Secretary of State publishes a decision notice relating to a decision of the Secretary of State to approve an amendment to a product specification for a designation of origin, geographical indication or traditional speciality guaranteed that is not minor and the amendment includes a change that affects the information recorded in the relevant register pursuant to paragraph 1 or 2, as relevant, the Secretary of State must, as soon as possible after the notice period relating to the decision notice has expired:
 >
@@ -72,7 +72,7 @@ Regulation 23
 >
 > **6.** In this Article a reference to ‘the information recorded in the relevant register pursuant to paragraph 1 or 2’ means the information recorded in Great Britain's PDOs and PGIs Register pursuant to paragraph 1 or Great Britain's TSG Register pursuant to paragraph 2, as relevant, or, where that information has been amended, that information as amended from time to time.
 
-### PART 2 — New Articles 14a and 14b[^key-384ce9bc8068bdc55f9965f623ac523e]
+### PART 2 — New Articles 14a and 14b[^c-384ce9bc8068bdc55f9965f623ac523e]
 
 > **Article 14a — Register: established protected designations of origin and established protected geographical indications**
 >
@@ -130,6 +130,6 @@ Regulation 23
 
 ## Annotations
 
-[^key-772389824c2f92de7d2b7578f26b8af3]: Commencement: Sch. 6 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-772389824c2f92de7d2b7578f26b8af3]: Commencement: Sch. 6 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-384ce9bc8068bdc55f9965f623ac523e]: Commencement: Sch. 6 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-384ce9bc8068bdc55f9965f623ac523e]: Commencement: Sch. 6 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)

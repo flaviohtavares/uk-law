@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c18733841][^key-6b3a797c6a7f3f0eea287795b6b3e3cd] References in this Part to controlled waters are references to waters of any of the following classes—
+(1)[^c18733841][^c-6b3a797c6a7f3f0eea287795b6b3e3cd] References in this Part to controlled waters are references to waters of any of the following classes—
 
 - (a) relevant territorial waters, that is to say, subject to subsection (4) below, the waters which extend seaward for three miles from the baselines from which the breadth of the territorial sea adjacent to England and Wales is measured;
 - (b) coastal waters, that is to say, any waters which are within the area which extends landward from those baselines as far as—
@@ -65,6 +65,6 @@ and, accordingly, in this Part “**coastal waters**”, “**controlled waters*
 
     [S. 104(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/104/1) modified (12.6.1997) by [S.I. 1997/1332](https://www.legislation.gov.uk/uksi/1997/1332), [reg. 6(2)](https://www.legislation.gov.uk/uksi/1997/1332/regulation/6/2)
 
-[^key-6b3a797c6a7f3f0eea287795b6b3e3cd]: Modification: [S. 104(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/104/1) modified (1.6.2003 for E.) by [Bathing Waters (Classification) (England) Regulations 2003 (S.I. 2003/1238)](https://www.legislation.gov.uk/uksi/2003/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1238/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/1238/regulation/2/1)
+[^c-6b3a797c6a7f3f0eea287795b6b3e3cd]: Modification: [S. 104(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/104/1) modified (1.6.2003 for E.) by [Bathing Waters (Classification) (England) Regulations 2003 (S.I. 2003/1238)](https://www.legislation.gov.uk/uksi/2003/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1238/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/1238/regulation/2/1)
 
 [^c18733851]: Modification: [S. 104(1)(c)](https://www.legislation.gov.uk/ukpga/1991/57/section/104/1/c) applied (with modifications) (6.1.1997) by [S.I. 1996/3001](https://www.legislation.gov.uk/uksi/1996/3001), [reg. 7(2)](https://www.legislation.gov.uk/uksi/1996/3001/regulation/7/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Sheriff principal's power to fix sittings of sheriff courts[^key-f45aabd57d78590a678bb5d4b72c17bd]
+## 28. Sheriff principal's power to fix sittings of sheriff courts[^c-f45aabd57d78590a678bb5d4b72c17bd]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f45aabd57d78590a678bb5d4b72c17bd]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/18/section/28) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-f45aabd57d78590a678bb5d4b72c17bd]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/18/section/28) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

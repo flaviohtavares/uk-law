@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4A — Information required from investors making an investor application[^key-8d645629ed9bfe9d6ed0ffe1e7f917b3]
+## SCHEDULE 4A — Information required from investors making an investor application[^c-8d645629ed9bfe9d6ed0ffe1e7f917b3]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Regulation 22A(2)(a)
 
 ## Annotations
 
-[^key-8d645629ed9bfe9d6ed0ffe1e7f917b3]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2014/928/schedule/4A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [40](https://www.legislation.gov.uk/uksi/2018/610/regulation/40)
+[^c-8d645629ed9bfe9d6ed0ffe1e7f917b3]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2014/928/schedule/4A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [40](https://www.legislation.gov.uk/uksi/2018/610/regulation/40)

@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2016 (revoked)[^key-0548a07aa46f4f317023d702b0cf093d]
+The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2016 (revoked)[^c-0548a07aa46f4f317023d702b0cf093d]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 1st April 2016
 
-[^key-0548a07aa46f4f317023d702b0cf093d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0548a07aa46f4f317023d702b0cf093d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0548a07aa46f4f317023d702b0cf093d]
+## 1. Citation and commencement[^c-0548a07aa46f4f317023d702b0cf093d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of rural areas[^key-0548a07aa46f4f317023d702b0cf093d]
+## 2. Designation of rural areas[^c-0548a07aa46f4f317023d702b0cf093d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-0548a07aa46f4f317023d702b0cf093d]
+## 3. Revocation[^c-0548a07aa46f4f317023d702b0cf093d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0548a07aa46f4f317023d702b0cf093d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0548a07aa46f4f317023d702b0cf093d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-0548a07aa46f4f317023d702b0cf093d]
+## SCHEDULE[^c-0548a07aa46f4f317023d702b0cf093d]
 
 Article 2
 
@@ -70,8 +70,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-0548a07aa46f4f317023d702b0cf093d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0548a07aa46f4f317023d702b0cf093d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0548a07aa46f4f317023d702b0cf093d]: Textual amendment: Order revoked (24.8.2020) by [The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2020 (S.R. 2020/160)](https://www.legislation.gov.uk/nisr/2020/160), [arts. 1](https://www.legislation.gov.uk/nisr/2020/160/article/1), [3](https://www.legislation.gov.uk/nisr/2020/160/article/3)
+[^c-0548a07aa46f4f317023d702b0cf093d]: Textual amendment: Order revoked (24.8.2020) by [The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2020 (S.R. 2020/160)](https://www.legislation.gov.uk/nisr/2020/160), [arts. 1](https://www.legislation.gov.uk/nisr/2020/160/article/1), [3](https://www.legislation.gov.uk/nisr/2020/160/article/3)

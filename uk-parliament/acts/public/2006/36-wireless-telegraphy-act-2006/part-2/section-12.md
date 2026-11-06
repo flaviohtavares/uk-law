@@ -39,9 +39,9 @@ the sums described in subsection (2).
 
 (4) On the grant of a licence in respect of which sums will or may subsequently become payable under regulations under this section, OFCOM may require such security to be given, by way of deposit or otherwise, for the payment of those sums as they think fit.
 
-(5) Regulations under this section do not apply in relation to a licence granted in accordance with regulations under section 14, but this is subject to subsection (6).[^key-8c6ade34b1e19b4d2418f0338f6c29d2]
+(5) Regulations under this section do not apply in relation to a licence granted in accordance with regulations under section 14, but this is subject to subsection (6).[^c-8c6ade34b1e19b4d2418f0338f6c29d2]
 
-(6)[^key-3ebb6925fd2541c10c0d91e5d05ac1ce] Regulations under or for the purposes of subsection (1)(b), so far as it relates to payments during the term of a licence, may be made so as to apply in relation to a licence granted in accordance with regulations under section 14, but only in the following cases—
+(6)[^c-3ebb6925fd2541c10c0d91e5d05ac1ce] Regulations under or for the purposes of subsection (1)(b), so far as it relates to payments during the term of a licence, may be made so as to apply in relation to a licence granted in accordance with regulations under section 14, but only in the following cases—
 
 - (a) where provision included in the licence with the consent of the holder of the licence provides for the regulations to apply;
 - (b) where the licence includes terms restricting the exercise by OFCOM of their power to revoke the licence before the end of a period and that period has expired;
@@ -60,6 +60,6 @@ the sums described in subsection (2).
 
 ## Annotations
 
-[^key-8c6ade34b1e19b4d2418f0338f6c29d2]: Textual amendment: Words in s. 12(5) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/38/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-8c6ade34b1e19b4d2418f0338f6c29d2]: Textual amendment: Words in s. 12(5) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/38/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-3ebb6925fd2541c10c0d91e5d05ac1ce]: Textual amendment: S. 12(6)-(9) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/38/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-3ebb6925fd2541c10c0d91e5d05ac1ce]: Textual amendment: S. 12(6)-(9) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/38/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

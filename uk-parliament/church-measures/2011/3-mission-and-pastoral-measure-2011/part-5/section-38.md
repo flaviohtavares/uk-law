@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 38. Designation, selection and admission of certain incumbents[^key-82e630161dfb32785346cd2988e9f4fe]
+## 38. Designation, selection and admission of certain incumbents[^c-82e630161dfb32785346cd2988e9f4fe]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82e630161dfb32785346cd2988e9f4fe]: Commencement: S. 38 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-82e630161dfb32785346cd2988e9f4fe]: Commencement: S. 38 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

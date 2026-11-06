@@ -26,7 +26,7 @@ summary: ''
 - (b) sensitive information relating to the supervisory functions is appropriately handled within the organisation;
 - (c) they employ only persons with appropriate qualifications, integrity and professional skills to carry out the supervisory functions;
 - (d) contravention of a relevant requirement by a relevant person they are responsible for supervising renders that person liable to effective, proportionate and dissuasive disciplinary measures under their rules;
-- (e)[^key-59fe76600120b3cd2d2b2f7fe9f1a773] potential conflicts of interest within the organisation are appropriately handled.
+- (e)[^c-59fe76600120b3cd2d2b2f7fe9f1a773] potential conflicts of interest within the organisation are appropriately handled.
 
 (2) Self-regulatory organisations must—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59fe76600120b3cd2d2b2f7fe9f1a773]: Textual amendment: Reg. 49(1)(e) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/3)
+[^c-59fe76600120b3cd2d2b2f7fe9f1a773]: Textual amendment: Reg. 49(1)(e) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/3)

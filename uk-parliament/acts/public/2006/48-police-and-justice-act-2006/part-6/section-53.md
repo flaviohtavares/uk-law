@@ -90,10 +90,10 @@ come into force in accordance with provision made by order by the National Assem
 
 - (a) a Welsh county council or county borough council;
 - (b) a registered social landlord on the register maintained by the National Assembly for Wales;
-- (c)[^key-3c96bd147dc3f83c5d5a8235f62cb235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3c96bd147dc3f83c5d5a8235f62cb235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) The provision that may (by virtue of section 49(3)(c)) be made in an order under this section bringing section 4 into force includes provision prescribing modifications of Part 1 of the Local Government Act 1999 (c. 27) in its application to police authorities.
 
 ## Annotations
 
-[^key-3c96bd147dc3f83c5d5a8235f62cb235]: Textual amendment: S. 53(9)(c) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/13)
+[^c-3c96bd147dc3f83c5d5a8235f62cb235]: Textual amendment: S. 53(9)(c) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/13)

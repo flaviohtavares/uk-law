@@ -1288,7 +1288,7 @@ The references in sections 1044(2A)(b) and 1045(2A)(b) of CTA 2009 (inserted by 
 
 (3) Subsections (2) to (7) of section 1045ZA of CTA 2009, as inserted by paragraph 6(6), determine whether a company meets the R&D intensity condition in an accounting period for the purposes of sub-paragraph (1)(b).
 
-(4)[^key-03ff3b4fd3a70d598fab44bd36a2b80e] But that section is to be read for the purposes of sub-paragraph (3) as if—
+(4)[^c-03ff3b4fd3a70d598fab44bd36a2b80e] But that section is to be read for the purposes of sub-paragraph (3) as if—
 
 - (a) in subsections (2) and (3), for “30%” there were substituted “40%”;
 - (b) in subsection (7), for paragraph (b) there were substituted—
@@ -1329,4 +1329,4 @@ The references in sections 1044(2A)(b) and 1045(2A)(b) of CTA 2009 (inserted by 
 
 [^M_P_ac94cca8-fef9-421a-ba46-2426ae07bc5a]: Subordinate legislation: Sch 1 para. 16: 1.4.2024 appointed for the purposes of Sch. 1 para. 16 by [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
 
-[^key-03ff3b4fd3a70d598fab44bd36a2b80e]: Textual amendment: [Sch. 1 para. 21(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/21/4) substituted (retrospectively) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 30(1)(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/30/1)
+[^c-03ff3b4fd3a70d598fab44bd36a2b80e]: Textual amendment: [Sch. 1 para. 21(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/21/4) substituted (retrospectively) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 30(1)(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/30/1)

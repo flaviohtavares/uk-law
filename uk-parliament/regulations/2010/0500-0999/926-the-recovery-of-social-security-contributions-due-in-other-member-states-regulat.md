@@ -74,7 +74,7 @@ In these Regulations—
 
 ## 4. Interest for late payment of claims
 
-(1) A claim corresponding to a claim for outstanding Class 1, 1A, 1B or 4 national insurance contributions carries interest in respect of the principal amount and any penalty claimed at the rate applicable to the corresponding claim under—[^key-b24531172a84ae5c0798efbd54a95a3a]
+(1) A claim corresponding to a claim for outstanding Class 1, 1A, 1B or 4 national insurance contributions carries interest in respect of the principal amount and any penalty claimed at the rate applicable to the corresponding claim under—[^c-b24531172a84ae5c0798efbd54a95a3a]
 
 - (a) section 178 of the Finance Act 1989 for the purposes of Class 1, 1A and 1B national insurance contributions, or
 - (b) sections 101 and 103 of the Finance Act 2009 for the purposes of Class 4 national insurance contributions,
@@ -127,6 +127,6 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c20222281]: Marginal citation: [Section 2(2)](https://www.legislation.gov.uk/uksi/2010/926/section/2/2) of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) defines officers of Revenue and Customs.
 
-[^key-b24531172a84ae5c0798efbd54a95a3a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2010/926/regulation/4/1) substituted (31.10.2011) by [The Finance Act 2009, Sections 101 to 103 (Income Tax Self Assessment) (Appointed Days and Transitional and Consequential Provisions) Order 2011 (S.I. 2011/701)](https://www.legislation.gov.uk/uksi/2011/701), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/701/article/1/2), [11](https://www.legislation.gov.uk/uksi/2011/701/article/11)
+[^c-b24531172a84ae5c0798efbd54a95a3a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2010/926/regulation/4/1) substituted (31.10.2011) by [The Finance Act 2009, Sections 101 to 103 (Income Tax Self Assessment) (Appointed Days and Transitional and Consequential Provisions) Order 2011 (S.I. 2011/701)](https://www.legislation.gov.uk/uksi/2011/701), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/701/article/1/2), [11](https://www.legislation.gov.uk/uksi/2011/701/article/11)
 
 [^c20222301]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).

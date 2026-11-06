@@ -54,7 +54,7 @@ In this Order–
 
 - “the Act" means the Local Government Finance Act 1992;
 - “charitable" shall be construed in the same way as if it were contained in the Income Tax Acts;
-- “[^key-aa84924e05edbe98391be104c7fe7d1d]**close relative**” means any of the following—
+- “[^c-aa84924e05edbe98391be104c7fe7d1d]**close relative**” means any of the following—
   - (a) a spouse,
   - (b) a civil partner,
   - (c) an unmarried partner,
@@ -67,17 +67,17 @@ In this Order–
   - (j) a grandparent,
   - (k) the spouse, civil partner, or unmarried partner of any of the persons mentioned at (d) to (j).
 - “the last occupation day" with respect to an unoccupied dwelling means the day on which the dwelling concerned was last occupied, save that where a dwelling which was unoccupied becomes occupied on any day and becomes unoccupied again at the expiry of a period of less than 6 weeks beginning with that day, for the purpose of determining the last occupation day (and only for that purpose) the dwelling shall be treated as having remained unoccupied during that period;
-- “major repair work” includes structural repair work;[^key-5ee72f8ca00b3267f8b6f540f1016bb3]
+- “major repair work” includes structural repair work;[^c-5ee72f8ca00b3267f8b6f540f1016bb3]
 - “personal care" includes the provision of appropriate help with physical and social needs;
 - “qualifying person" means a person who would be liable (either solely or jointly and severally with another person or persons) for council tax in respect of the dwelling concerned, but for the provisions of this Order;
 - “registered housing association" has the same meaning as it has for the purposes of the Housing Associations Act 1985 [^c16764661];
-- “registered social landlord” has the meaning given in section 111 of the Housing (Scotland) Act 2001;[^key-ed32424f7dc09a956652f8159f6670aa]
+- “registered social landlord” has the meaning given in section 111 of the Housing (Scotland) Act 2001;[^c-ed32424f7dc09a956652f8159f6670aa]
 - “relevant person" means a person who–
   - (a) is disregarded for the purposes of discount by virtue of paragraph 1, 6, 7 or 8 of Schedule 1 to the Act;
   - (b) has his sole or main residence in a place (other than the dwelling concerned or a place referred to in paragraph 6(1), 7(1)(a) or 8(1)(a) of that Schedule) for the purpose of receiving personal care which he requires by reason of old age, disablement, illness, past or present alcohol or drug dependence or past or present mental disorder; or
   - (c) has his sole or main residence in a place (other than the dwelling concerned) for the purpose of providing, or better providing, personal care for a person who requires such care by reason of old age, disablement, illness, past or present alcohol or drug dependence or past or present mental disorder;
 - “student" has the same meaning as in paragraph 4(2) of Schedule 1 to the Act [^c16764671];
-- “[^key-4c1787ba1d7f62a81afb0061b92afbe7]**unmarried partner**” means the other member of a couple consisting of two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners;
+- “[^c-4c1787ba1d7f62a81afb0061b92afbe7]**unmarried partner**” means the other member of a couple consisting of two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners;
 - “valuation list" means a list maintained by a local assessor under section 84 of the Act [^c16764681].
 
 ## 3. Exempt dwellings
@@ -111,7 +111,7 @@ An unoccupied and unfurnished dwelling in respect of which–
 - (a) less than 6 months have elapsed since the effective date for the first entry in the valuation list; and
 - (b) there was no entry in the valuation roll immediately prior to that effective date.
 
-### 2. Dwellings under repair[^key-92c6ba9ddb8faad1254a0df3a821ef25]
+### 2. Dwellings under repair[^c-92c6ba9ddb8faad1254a0df3a821ef25]
 
 An unoccupied dwelling–
 
@@ -135,7 +135,7 @@ An unoccupied dwelling–
 A dwelling–
 
 - (a) which is both unoccupied and unfurnished; and
-- (b) in respect of which less than 6 months have elapsed since the end of the last period of 3 months[^key-adc13e351c73cb060a7d48436a709c99] or more throughout which it was continually occupied [^key-5a49bbaf7a162c681199fbd93113705e]....
+- (b) in respect of which less than 6 months have elapsed since the end of the last period of 3 months[^c-adc13e351c73cb060a7d48436a709c99] or more throughout which it was continually occupied [^c-5a49bbaf7a162c681199fbd93113705e]....
 
 ### 5. Dwellings last occupied by persons living or detained elsewhere
 
@@ -164,7 +164,7 @@ A dwelling–
 
 A dwelling which–
 
-- (a) is owned by a local authority , a registered social landlord[^key-ca4c876dca15a0669428f012c7e331af] or Scottish Homes; and
+- (a) is owned by a local authority , a registered social landlord[^c-ca4c876dca15a0669428f012c7e331af] or Scottish Homes; and
 - (b) is kept unoccupied with a view to having it demolished.
 
 ### 9. Dwellings for occupation by ministers
@@ -181,11 +181,11 @@ A dwelling which–
 - (a) is occupied by at least one person who is–
   - (i) a student;
   - (ii) a student’s spouse or dependent, being in either case a person who is not a British citizen and who is prevented by the terms of his leave to enter or remain in the United Kingdom from taking paid employment or from claiming benefits;
-  - (iii) a person disregarded for the purposes of discount in terms of paragraph 2 of Schedule 1 to the Act or[^key-88ada4a15042d334a6eadcf11dcb3378] paragraph 3 or 6[^key-a1dfbfe900b6b5706bb2d4cd3d967ab4] of the Schedule to the Council Tax (Discounts) (Scotland) Regulations 1992 [^c16764701]; or
+  - (iii) a person disregarded for the purposes of discount in terms of paragraph 2 of Schedule 1 to the Act or[^c-88ada4a15042d334a6eadcf11dcb3378] paragraph 3 or 6[^c-a1dfbfe900b6b5706bb2d4cd3d967ab4] of the Schedule to the Council Tax (Discounts) (Scotland) Regulations 1992 [^c16764701]; or
   - (iv) a person under the age of 18 years; and
 - (b) is not the sole or main residence of any person other than a person described in sub-paragraph (a)(i) to (iv) above.
 
-**11.** An unoccupied dwelling[^key-8c8b545da65351681b0b64f390effbde]–
+**11.** An unoccupied dwelling[^c-8c8b545da65351681b0b64f390effbde]–
 
 - (a) which is not the sole or main residence of any person other than a student or a person falling within paragraph 10(a)(ii) above;
 - (b) which, when last occupied, was occupied by at least one student; and
@@ -273,7 +273,7 @@ A dwelling which is occupied only by one or more persons who are disregarded for
 
 A dwelling falling within the scope of regulation 2(1) of the Council Tax (Dwellings) (Scotland) Regulations 1997 [^c16764761].
 
-### 25. Prescribed housing support services accommodation[^key-7280b5dfa5232ce5e3dce34436d94395]
+### 25. Prescribed housing support services accommodation[^c-7280b5dfa5232ce5e3dce34436d94395]
 
 (1) A dwelling that meets all of the requirements in sub paragraph (2).
 
@@ -291,9 +291,9 @@ A dwelling falling within the scope of regulation 2(1) of the Council Tax (Dwell
 (4) For the purposes of sub-paragraphs (2) and (3)–
 
 - “prescribed housing support service” has the same meaning as in section 91(8) of the Housing (Scotland) Act 2001 (grants for housing support services); and
-- “registered” means that Social Care and Social Work Improvement Scotland has granted an application for registration of a prescribed housing support service under section 60 of the Public Services Reform (Scotland) Act 2010 (grant or refusal of registration).[^key-474f24822c151b3312937bf8ecd37b32]
+- “registered” means that Social Care and Social Work Improvement Scotland has granted an application for registration of a prescribed housing support service under section 60 of the Public Services Reform (Scotland) Act 2010 (grant or refusal of registration).[^c-474f24822c151b3312937bf8ecd37b32]
 
-### 26. Persons formally residing in Ukraine[^key-868fddbf0193442f82fbb96dd32e0e81]
+### 26. Persons formally residing in Ukraine[^c-868fddbf0193442f82fbb96dd32e0e81]
 
 A dwelling which—
 
@@ -306,7 +306,7 @@ A dwelling which—
   - (i) a person described in sub-paragraph (a), or
   - (ii) a person falling within paragraph 10(a) (dwellings occupied by students, etc.).
 
-### 27. Persons entering the United Kingdom under resettlement or relocation schemes[^key-bab87fd9c55205532d5449619b8f13d9]
+### 27. Persons entering the United Kingdom under resettlement or relocation schemes[^c-bab87fd9c55205532d5449619b8f13d9]
 
 A dwelling which—
 
@@ -356,37 +356,37 @@ The Council Tax (Exempt Dwellings) (Scotland) Order 1992 (“the 1992 Order") ma
 
 [^c16764651]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-aa84924e05edbe98391be104c7fe7d1d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2025) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2025 (S.S.I. 2025/56)](https://www.legislation.gov.uk/ssi/2025/56), [arts. 1](https://www.legislation.gov.uk/ssi/2025/56/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/56/article/2/2/a)
+[^c-aa84924e05edbe98391be104c7fe7d1d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2025) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2025 (S.S.I. 2025/56)](https://www.legislation.gov.uk/ssi/2025/56), [arts. 1](https://www.legislation.gov.uk/ssi/2025/56/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/56/article/2/2/a)
 
-[^key-5ee72f8ca00b3267f8b6f540f1016bb3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2000) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment (No. 2) Order 1999 (S.S.I. 1999/140)](https://www.legislation.gov.uk/ssi/1999/140), [arts. 1](https://www.legislation.gov.uk/ssi/1999/140/article/1), [2(2)](https://www.legislation.gov.uk/ssi/1999/140/article/2/2)
+[^c-5ee72f8ca00b3267f8b6f540f1016bb3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2000) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment (No. 2) Order 1999 (S.S.I. 1999/140)](https://www.legislation.gov.uk/ssi/1999/140), [arts. 1](https://www.legislation.gov.uk/ssi/1999/140/article/1), [2(2)](https://www.legislation.gov.uk/ssi/1999/140/article/2/2)
 
 [^c16764661]: Marginal citation: [1985 c.69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-ed32424f7dc09a956652f8159f6670aa]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2002) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2002 (S.S.I. 2002/101)](https://www.legislation.gov.uk/ssi/2002/101), [arts. 1](https://www.legislation.gov.uk/ssi/2002/101/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/101/article/2/2)
+[^c-ed32424f7dc09a956652f8159f6670aa]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2002) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2002 (S.S.I. 2002/101)](https://www.legislation.gov.uk/ssi/2002/101), [arts. 1](https://www.legislation.gov.uk/ssi/2002/101/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/101/article/2/2)
 
 [^c16764671]: Marginal citation: See article 6 of [S.I. 1992/1408](https://www.legislation.gov.uk/uksi/1992/1408).
 
-[^key-4c1787ba1d7f62a81afb0061b92afbe7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2025) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2025 (S.S.I. 2025/56)](https://www.legislation.gov.uk/ssi/2025/56), [arts. 1](https://www.legislation.gov.uk/ssi/2025/56/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/56/article/2/2/b)
+[^c-4c1787ba1d7f62a81afb0061b92afbe7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1997/728/article/2) inserted (1.4.2025) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2025 (S.S.I. 2025/56)](https://www.legislation.gov.uk/ssi/2025/56), [arts. 1](https://www.legislation.gov.uk/ssi/2025/56/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/56/article/2/2/b)
 
 [^c16764681]: Marginal citation: [Section 84](https://www.legislation.gov.uk/uksi/1997/728/section/84) was amended by the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [Schedule 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13), [paragraph 176(6)](https://www.legislation.gov.uk/ukpga/1994/39/paragraph/176/6) and Schedule 14.
 
 [^c16764691]: Marginal citation: [S.I. 1992/1332](https://www.legislation.gov.uk/uksi/1992/1332), as amended by [S.I. 1992/3290](https://www.legislation.gov.uk/uksi/1992/3290).
 
-[^key-92c6ba9ddb8faad1254a0df3a821ef25]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/2) substituted (1.4.2000) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment (No. 2) Order 1999 (S.S.I. 1999/140)](https://www.legislation.gov.uk/ssi/1999/140), [arts. 1](https://www.legislation.gov.uk/ssi/1999/140/article/1), [2(3)](https://www.legislation.gov.uk/ssi/1999/140/article/2/3)
+[^c-92c6ba9ddb8faad1254a0df3a821ef25]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/2) substituted (1.4.2000) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment (No. 2) Order 1999 (S.S.I. 1999/140)](https://www.legislation.gov.uk/ssi/1999/140), [arts. 1](https://www.legislation.gov.uk/ssi/1999/140/article/1), [2(3)](https://www.legislation.gov.uk/ssi/1999/140/article/2/3)
 
-[^key-adc13e351c73cb060a7d48436a709c99]: Textual amendment: Words in [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/4/b) substituted (1.4.2013) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2012 (S.S.I. 2012/339)](https://www.legislation.gov.uk/ssi/2012/339), [arts. 1](https://www.legislation.gov.uk/ssi/2012/339/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2012/339/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/339/article/3))
+[^c-adc13e351c73cb060a7d48436a709c99]: Textual amendment: Words in [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/4/b) substituted (1.4.2013) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2012 (S.S.I. 2012/339)](https://www.legislation.gov.uk/ssi/2012/339), [arts. 1](https://www.legislation.gov.uk/ssi/2012/339/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2012/339/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/339/article/3))
 
-[^key-5a49bbaf7a162c681199fbd93113705e]: Textual amendment: Words in [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/4/b) omitted (1.4.2013) by virtue of [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2012 (S.S.I. 2012/339)](https://www.legislation.gov.uk/ssi/2012/339), [arts. 1](https://www.legislation.gov.uk/ssi/2012/339/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2012/339/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/339/article/3))
+[^c-5a49bbaf7a162c681199fbd93113705e]: Textual amendment: Words in [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/4/b) omitted (1.4.2013) by virtue of [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2012 (S.S.I. 2012/339)](https://www.legislation.gov.uk/ssi/2012/339), [arts. 1](https://www.legislation.gov.uk/ssi/2012/339/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2012/339/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/339/article/3))
 
-[^key-ca4c876dca15a0669428f012c7e331af]: Textual amendment: Words in [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/8/a) inserted (1.4.2002) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2002 (S.S.I. 2002/101)](https://www.legislation.gov.uk/ssi/2002/101), [arts. 1](https://www.legislation.gov.uk/ssi/2002/101/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2002/101/article/2/3)
+[^c-ca4c876dca15a0669428f012c7e331af]: Textual amendment: Words in [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/8/a) inserted (1.4.2002) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2002 (S.S.I. 2002/101)](https://www.legislation.gov.uk/ssi/2002/101), [arts. 1](https://www.legislation.gov.uk/ssi/2002/101/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2002/101/article/2/3)
 
-[^key-88ada4a15042d334a6eadcf11dcb3378]: Textual amendment: Words in [Sch. 1 para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/10/a/iii) inserted (1.4.1999) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 1999 (S.I. 1999/757)](https://www.legislation.gov.uk/uksi/1999/757), [arts. 1](https://www.legislation.gov.uk/uksi/1999/757/article/1), [2](https://www.legislation.gov.uk/uksi/1999/757/article/2)
+[^c-88ada4a15042d334a6eadcf11dcb3378]: Textual amendment: Words in [Sch. 1 para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/10/a/iii) inserted (1.4.1999) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 1999 (S.I. 1999/757)](https://www.legislation.gov.uk/uksi/1999/757), [arts. 1](https://www.legislation.gov.uk/uksi/1999/757/article/1), [2](https://www.legislation.gov.uk/uksi/1999/757/article/2)
 
-[^key-a1dfbfe900b6b5706bb2d4cd3d967ab4]: Textual amendment: Words in [Sch. 1 para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/10/a/iii) substituted (1.4.2018) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2018 (S.S.I. 2018/45)](https://www.legislation.gov.uk/ssi/2018/45), [arts. 1](https://www.legislation.gov.uk/ssi/2018/45/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/45/article/2/2)
+[^c-a1dfbfe900b6b5706bb2d4cd3d967ab4]: Textual amendment: Words in [Sch. 1 para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/10/a/iii) substituted (1.4.2018) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2018 (S.S.I. 2018/45)](https://www.legislation.gov.uk/ssi/2018/45), [arts. 1](https://www.legislation.gov.uk/ssi/2018/45/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/45/article/2/2)
 
 [^c16764701]: Marginal citation: [S.I. 1992/1409](https://www.legislation.gov.uk/uksi/1992/1409), to which there are amendments not relevant to this Order.
 
-[^key-8c8b545da65351681b0b64f390effbde]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/11) substituted (1.4.1998) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 1998 (S.I. 1998/561)](https://www.legislation.gov.uk/uksi/1998/561), [arts. 1](https://www.legislation.gov.uk/uksi/1998/561/article/1), [2](https://www.legislation.gov.uk/uksi/1998/561/article/2)
+[^c-8c8b545da65351681b0b64f390effbde]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/11) substituted (1.4.1998) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 1998 (S.I. 1998/561)](https://www.legislation.gov.uk/uksi/1998/561), [arts. 1](https://www.legislation.gov.uk/uksi/1998/561/article/1), [2](https://www.legislation.gov.uk/uksi/1998/561/article/2)
 
 [^c16764711]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26).
 
@@ -400,10 +400,10 @@ The Council Tax (Exempt Dwellings) (Scotland) Order 1992 (“the 1992 Order") ma
 
 [^c16764761]: Marginal citation: [S.I. 1997/673](https://www.legislation.gov.uk/uksi/1997/673).
 
-[^key-7280b5dfa5232ce5e3dce34436d94395]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/25) substituted (1.4.2007) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2007 (S.S.I. 2007/215)](https://www.legislation.gov.uk/ssi/2007/215), [arts. 1](https://www.legislation.gov.uk/ssi/2007/215/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2007/215/article/2/2)
+[^c-7280b5dfa5232ce5e3dce34436d94395]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/25) substituted (1.4.2007) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2007 (S.S.I. 2007/215)](https://www.legislation.gov.uk/ssi/2007/215), [arts. 1](https://www.legislation.gov.uk/ssi/2007/215/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2007/215/article/2/2)
 
-[^key-474f24822c151b3312937bf8ecd37b32]: Textual amendment: Words in [Sch. 1 para. 25(4)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/25/4) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 22](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/22)
+[^c-474f24822c151b3312937bf8ecd37b32]: Textual amendment: Words in [Sch. 1 para. 25(4)](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/25/4) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 22](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/22)
 
-[^key-868fddbf0193442f82fbb96dd32e0e81]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/26) substituted (1.4.2025) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2025 (S.S.I. 2025/56)](https://www.legislation.gov.uk/ssi/2025/56), [arts. 1](https://www.legislation.gov.uk/ssi/2025/56/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/56/article/2/3)
+[^c-868fddbf0193442f82fbb96dd32e0e81]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/26) substituted (1.4.2025) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2025 (S.S.I. 2025/56)](https://www.legislation.gov.uk/ssi/2025/56), [arts. 1](https://www.legislation.gov.uk/ssi/2025/56/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/56/article/2/3)
 
-[^key-bab87fd9c55205532d5449619b8f13d9]: Textual amendment: [Sch. 1 paras. 27-29](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/27) inserted (1.4.2023) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2023 (S.S.I. 2023/36)](https://www.legislation.gov.uk/ssi/2023/36), [arts. 1](https://www.legislation.gov.uk/ssi/2023/36/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/36/article/2/3)
+[^c-bab87fd9c55205532d5449619b8f13d9]: Textual amendment: [Sch. 1 paras. 27-29](https://www.legislation.gov.uk/uksi/1997/728/schedule/1/paragraph/27) inserted (1.4.2023) by [The Council Tax (Exempt Dwellings) (Scotland) Amendment Order 2023 (S.S.I. 2023/36)](https://www.legislation.gov.uk/ssi/2023/36), [arts. 1](https://www.legislation.gov.uk/ssi/2023/36/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/36/article/2/3)

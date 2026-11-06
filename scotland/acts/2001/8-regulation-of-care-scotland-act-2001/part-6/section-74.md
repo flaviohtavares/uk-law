@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Amendment of Children (Scotland) Act 1995: “place of safety"[^key-1e33d42961389e0c0b80808f5ec690b8]
+## 74. Amendment of Children (Scotland) Act 1995: “place of safety"[^c-1e33d42961389e0c0b80808f5ec690b8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e33d42961389e0c0b80808f5ec690b8]: Textual amendment: [S. 74](https://www.legislation.gov.uk/asp/2001/8/section/74) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-1e33d42961389e0c0b80808f5ec690b8]: Textual amendment: [S. 74](https://www.legislation.gov.uk/asp/2001/8/section/74) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)

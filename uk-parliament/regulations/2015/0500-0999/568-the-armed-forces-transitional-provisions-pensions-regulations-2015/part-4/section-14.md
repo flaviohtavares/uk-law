@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendment of the Armed Forces Early Departure Payments Scheme 2005[^key-92cd9b5a91ea82eb52dc05eea0de408a]
+## 14. Amendment of the Armed Forces Early Departure Payments Scheme 2005[^c-92cd9b5a91ea82eb52dc05eea0de408a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Armed Forces Early Departure Payments Scheme 2005[^f00017] is amended accord
 
 ## Annotations
 
-[^key-92cd9b5a91ea82eb52dc05eea0de408a]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-92cd9b5a91ea82eb52dc05eea0de408a]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00017]: Footnote: The rules of this scheme are established in the Armed Forces Early Departure Payments Scheme Order 2005.

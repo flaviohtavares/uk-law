@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Consumption of alcohol in breach of prohibition in order[^key-2cba2bc0352e0678afca1556956d478e][^key-d08d3994df6512b34decbca49f42fcad]
+## 63. Consumption of alcohol in breach of prohibition in order[^c-2cba2bc0352e0678afca1556956d478e][^c-d08d3994df6512b34decbca49f42fcad]
 
 *Extent: E+W*
 
 (1) This section applies where a constable or an authorised person reasonably believes that a person (P)—
 
-- (a) is or has been consuming alcohol in breach of a prohibition in a public spaces protection order or an expedited order[^key-375b778703f1b5414b36a26ed73c210f], or
+- (a) is or has been consuming alcohol in breach of a prohibition in a public spaces protection order or an expedited order[^c-375b778703f1b5414b36a26ed73c210f], or
 - (b) intends to consume alcohol in circumstances in which doing so would be a breach of such a prohibition.
 
-In this section “**authorised person**” means a person authorised for the purposes of this section by the local authority that made the [^key-ebc1ac8ca4b58735bc9ae40eee85569b]... order (or authorised by virtue of section 69(1)).
+In this section “**authorised person**” means a person authorised for the purposes of this section by the local authority that made the [^c-ebc1ac8ca4b58735bc9ae40eee85569b]... order (or authorised by virtue of section 69(1)).
 
 (2) The constable or authorised person may require P—
 
@@ -45,10 +45,10 @@ In this section “**authorised person**” means a person authorised for the pu
 
 ## Annotations
 
-[^key-2cba2bc0352e0678afca1556956d478e]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2014/12/section/63) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-2cba2bc0352e0678afca1556956d478e]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2014/12/section/63) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-d08d3994df6512b34decbca49f42fcad]: Modification: [S. 63](https://www.legislation.gov.uk/ukpga/2014/12/section/63) extended by 2002 c. 30, Sch. 4 para. 5 (as substituted (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 69(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/69/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c))
+[^c-d08d3994df6512b34decbca49f42fcad]: Modification: [S. 63](https://www.legislation.gov.uk/ukpga/2014/12/section/63) extended by 2002 c. 30, Sch. 4 para. 5 (as substituted (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 69(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/69/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c))
 
-[^key-375b778703f1b5414b36a26ed73c210f]: Textual amendment: Words in [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/63/1/a) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/8/a); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-375b778703f1b5414b36a26ed73c210f]: Textual amendment: Words in [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/63/1/a) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/8/a); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
 
-[^key-ebc1ac8ca4b58735bc9ae40eee85569b]: Textual amendment: Words in [s. 63(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/63/1) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/8/b); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-ebc1ac8ca4b58735bc9ae40eee85569b]: Textual amendment: Words in [s. 63(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/63/1) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/8/b); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

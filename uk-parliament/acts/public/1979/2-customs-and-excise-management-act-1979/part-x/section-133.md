@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-4f0812e8b723a875cb3f644b16dc3772] This section applies in relation to any claim for drawback for the purposes of any excise duty.
+(A1)[^c-4f0812e8b723a875cb3f644b16dc3772] This section applies in relation to any claim for drawback for the purposes of any excise duty.
 
 (1) Any claim for drawback shall be made in such form and manner and contain such particulars as the Commissioners may direct.
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4f0812e8b723a875cb3f644b16dc3772]: Textual amendment: [S. 133(A1)](https://www.legislation.gov.uk/ukpga/1979/2/section/133/A1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/100) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4f0812e8b723a875cb3f644b16dc3772]: Textual amendment: [S. 133(A1)](https://www.legislation.gov.uk/ukpga/1979/2/section/133/A1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/100) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c14779521]: Textual amendment: Words in s. 133(2) substituted (24.7.2002) [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/21/1/a)
 

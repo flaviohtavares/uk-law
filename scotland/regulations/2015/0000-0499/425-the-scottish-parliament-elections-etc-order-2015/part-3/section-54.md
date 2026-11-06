@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Court’s power to require information from election agent or sub-agent[^key-e7982bb3f3b61ceb5213b056debb0c1b]
+## 54. Court’s power to require information from election agent or sub-agent[^c-e7982bb3f3b61ceb5213b056debb0c1b]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ as the court considers just, within such time, to such person and in such manner
 
 ## Annotations
 
-[^key-e7982bb3f3b61ceb5213b056debb0c1b]: Commencement: Art. 54 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e7982bb3f3b61ceb5213b056debb0c1b]: Commencement: Art. 54 in force at 16.12.2015 in accordance with art. 1(1)

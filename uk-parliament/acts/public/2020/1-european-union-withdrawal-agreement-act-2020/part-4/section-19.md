@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Powers corresponding to section 18 involving devolved authorities[^key-0b0c99ab963f0784d5a7390c919ede8b]
+## 19. Powers corresponding to section 18 involving devolved authorities[^c-0b0c99ab963f0784d5a7390c919ede8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,4 +104,4 @@ After Part 1A of Schedule 2 to the European Union (Withdrawal) Act 2018 (corresp
 
 ## Annotations
 
-[^key-0b0c99ab963f0784d5a7390c919ede8b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2020/1/section/19) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/h)
+[^c-0b0c99ab963f0784d5a7390c919ede8b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2020/1/section/19) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/h)

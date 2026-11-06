@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Notice of liability to capital gains tax.[^key-b3a992bc06071420e98da4c1752a83ad]
+## 122. Notice of liability to capital gains tax.[^c-b3a992bc06071420e98da4c1752a83ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a992bc06071420e98da4c1752a83ad]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/1988/39/section/122) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-b3a992bc06071420e98da4c1752a83ad]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/1988/39/section/122) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

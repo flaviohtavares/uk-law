@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Corporate parenting responsibilities[^key-3c37699f6a69ec099952a81efeda2d3e]
+## 58. Corporate parenting responsibilities[^c-3c37699f6a69ec099952a81efeda2d3e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c37699f6a69ec099952a81efeda2d3e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/8/section/58) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-3c37699f6a69ec099952a81efeda2d3e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/8/section/58) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

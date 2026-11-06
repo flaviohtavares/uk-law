@@ -22,7 +22,7 @@ summary: ''
 
 Article 38
 
-### 1. Primary objective[^key-3ce938ac29c0418af85d3c62d1ebe8e7]
+### 1. Primary objective[^c-3ce938ac29c0418af85d3c62d1ebe8e7]
 
 (1) The primary objective of these Arbitration Rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the Arbitrator is appointed pursuant to article 38 (arbitration) of the Order.
 
@@ -30,7 +30,7 @@ Article 38
 
 (3) The Arbitration is deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-2cc68731604544140a08e8e867016fac]
+### 2. Time periods[^c-2cc68731604544140a08e8e867016fac]
 
 (1) All time periods in these Arbitration Rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -39,7 +39,7 @@ Article 38
 - (a) the date the Arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the Arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-8955e86c5e1dd21423161958ddfacb3f]
+### 3. Timetable[^c-8955e86c5e1dd21423161958ddfacb3f]
 
 (1) The timetable for the Arbitration is set out in sub–paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 38
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-3ee69581725d6dc9aff3426f3bd96468]
+### 4. Procedure[^c-3ee69581725d6dc9aff3426f3bd96468]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. No single pleading is to exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -90,7 +90,7 @@ Article 38
 
 (11) The Arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given are proportionate to the issues in dispute and the time available to the Arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-734905fad92772a377b61139b5e2f9b3]
+### 5. Arbitrator’s powers[^c-734905fad92772a377b61139b5e2f9b3]
 
 (1) The Arbitrator has all the powers of the Arbitration Act 1996[^f00061], including the non-mandatory sections, save where modified by these Rules.
 
@@ -103,7 +103,7 @@ Article 38
 
 (4) On the date the award is made, the Arbitrator must notify the parties that the award is completed, signed and dated, and that it is to be issued to the parties on receipt of cleared funds for the Arbitrator’s fees and expenses.
 
-### 6. Costs[^key-cd0f4a8184346e0c78ec174cbe243a78]
+### 6. Costs[^c-cd0f4a8184346e0c78ec174cbe243a78]
 
 (1) The costs of the Arbitration must include the fees and expenses of the Arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the Arbitration.
 
@@ -113,7 +113,7 @@ Article 38
 
 (4) The Arbitrator must award recoverable costs on the general principle that costs follow the event, having regard to all material circumstances, including such matters as exaggerated claims and/or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-967dbd4875b1f21b5e0a7681ddcc319e]
+### 7. Confidentiality[^c-967dbd4875b1f21b5e0a7681ddcc319e]
 
 (1) Subject to sub-paragraphs (2), (3) and (4), any arbitration hearing and documentation shall be open to and accessible by the public.
 
@@ -125,18 +125,18 @@ Article 38
 
 ## Annotations
 
-[^key-3ce938ac29c0418af85d3c62d1ebe8e7]: Commencement: Sch. 15 para. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-3ce938ac29c0418af85d3c62d1ebe8e7]: Commencement: Sch. 15 para. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-2cc68731604544140a08e8e867016fac]: Commencement: Sch. 15 para. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-2cc68731604544140a08e8e867016fac]: Commencement: Sch. 15 para. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-8955e86c5e1dd21423161958ddfacb3f]: Commencement: Sch. 15 para. 3 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-8955e86c5e1dd21423161958ddfacb3f]: Commencement: Sch. 15 para. 3 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-3ee69581725d6dc9aff3426f3bd96468]: Commencement: Sch. 15 para. 4 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-3ee69581725d6dc9aff3426f3bd96468]: Commencement: Sch. 15 para. 4 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-734905fad92772a377b61139b5e2f9b3]: Commencement: Sch. 15 para. 5 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-734905fad92772a377b61139b5e2f9b3]: Commencement: Sch. 15 para. 5 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
 [^f00061]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-cd0f4a8184346e0c78ec174cbe243a78]: Commencement: Sch. 15 para. 6 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-cd0f4a8184346e0c78ec174cbe243a78]: Commencement: Sch. 15 para. 6 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-967dbd4875b1f21b5e0a7681ddcc319e]: Commencement: Sch. 15 para. 7 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-967dbd4875b1f21b5e0a7681ddcc319e]: Commencement: Sch. 15 para. 7 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

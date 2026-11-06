@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-[^key-5d30c1084aa795a3526634eafad50b3a]The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 3 and Transitional and Saving Provisions) Order 2021 (revoked)
+[^c-5d30c1084aa795a3526634eafad50b3a]The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 3 and Transitional and Saving Provisions) Order 2021 (revoked)
 
 Made
 
@@ -41,88 +41,88 @@ Made
 
 **No longer in force.**
 
-## 1. Title and interpretation[^key-5d30c1084aa795a3526634eafad50b3a]
+## 1. Title and interpretation[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Meaning of identified special educational needs[^key-5d30c1084aa795a3526634eafad50b3a]
+## 2. Meaning of identified special educational needs[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provisions coming into force on 1 September 2021[^key-5d30c1084aa795a3526634eafad50b3a]
+## 3. Provisions coming into force on 1 September 2021[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Saving provision[^key-5d30c1084aa795a3526634eafad50b3a]
+## 4. Saving provision[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. IDP notice[^key-5d30c1084aa795a3526634eafad50b3a]
+## 5. IDP notice[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. No needs notice[^key-5d30c1084aa795a3526634eafad50b3a]
+## 6. No needs notice[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Effect of IDP notice[^key-5d30c1084aa795a3526634eafad50b3a]
+## 7. Effect of IDP notice[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Effect of no needs notice[^key-5d30c1084aa795a3526634eafad50b3a]
+## 8. Effect of no needs notice[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Duty to give a notice[^key-5d30c1084aa795a3526634eafad50b3a]
+## 9. Duty to give a notice[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-5d30c1084aa795a3526634eafad50b3a]
+## 10.[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-5d30c1084aa795a3526634eafad50b3a]
+## 11.[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Right to request an IDP notice or a no needs notice[^key-5d30c1084aa795a3526634eafad50b3a]
+## 12. Right to request an IDP notice or a no needs notice[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Time for giving an individual development plan[^key-5d30c1084aa795a3526634eafad50b3a]
+## 13. Time for giving an individual development plan[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Notice not given[^key-5d30c1084aa795a3526634eafad50b3a]
+## 14. Notice not given[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-5d30c1084aa795a3526634eafad50b3a]
+## 15.[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-5d30c1084aa795a3526634eafad50b3a]
+## 16.[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16A.**[^key-5d30c1084aa795a3526634eafad50b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16A.**[^c-5d30c1084aa795a3526634eafad50b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16B.**[^key-5d30c1084aa795a3526634eafad50b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16B.**[^c-5d30c1084aa795a3526634eafad50b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16C.**[^key-5d30c1084aa795a3526634eafad50b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16C.**[^c-5d30c1084aa795a3526634eafad50b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Regard to special educational provision provided before IDP notice[^key-5d30c1084aa795a3526634eafad50b3a]
+## 17. Regard to special educational provision provided before IDP notice[^c-5d30c1084aa795a3526634eafad50b3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d30c1084aa795a3526634eafad50b3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d30c1084aa795a3526634eafad50b3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d30c1084aa795a3526634eafad50b3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d30c1084aa795a3526634eafad50b3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5d30c1084aa795a3526634eafad50b3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d30c1084aa795a3526634eafad50b3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d30c1084aa795a3526634eafad50b3a]: Textual amendment: Order revoked (12.8.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Order No. 2 and Revocation of Commencement Order No. 3 and Commencement Order No. 4) Order 2021 (S.I. 2021/938)](https://www.legislation.gov.uk/wsi/2021/938), [art. 3](https://www.legislation.gov.uk/wsi/2021/938/article/3)
+[^c-5d30c1084aa795a3526634eafad50b3a]: Textual amendment: Order revoked (12.8.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Order No. 2 and Revocation of Commencement Order No. 3 and Commencement Order No. 4) Order 2021 (S.I. 2021/938)](https://www.legislation.gov.uk/wsi/2021/938), [art. 3](https://www.legislation.gov.uk/wsi/2021/938/article/3)

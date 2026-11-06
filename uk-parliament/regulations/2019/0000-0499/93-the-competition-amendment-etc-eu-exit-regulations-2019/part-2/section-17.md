@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17.[^key-7a12e85dbd12332ecf404d664d8f17da]
+## 17.[^c-7a12e85dbd12332ecf404d664d8f17da]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 49C(11) [^c23882801], for the definition of â€œinfringement decisionâ
 
 ## Annotations
 
-[^key-7a12e85dbd12332ecf404d664d8f17da]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-7a12e85dbd12332ecf404d664d8f17da]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882801]: Marginal citation: Section 49C was inserted by paragraphs 1 and 12 of Schedule 8 to the Consumer Rights Act 2015.

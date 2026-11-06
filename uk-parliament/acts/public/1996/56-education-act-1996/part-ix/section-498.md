@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 498. Powers where no properly constituted governing body.[^c15251871][^c15251881][^key-56f00ec6623f3f267774f7282c90b477]
+## 498. Powers where no properly constituted governing body.[^c15251871][^c15251881][^c-56f00ec6623f3f267774f7282c90b477]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^c15251881]: Modification: S. 498 modified (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 44(7)](https://www.legislation.gov.uk/ukpga/1998/31/section/44/7) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-56f00ec6623f3f267774f7282c90b477]: Modification: Ss. 495-498 modified (1.4.2003 for E.; 31.10.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 34(7)](https://www.legislation.gov.uk/ukpga/2002/32/section/34/7), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); S.I. 2005/2910, art. 4, Sch.
+[^c-56f00ec6623f3f267774f7282c90b477]: Modification: Ss. 495-498 modified (1.4.2003 for E.; 31.10.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 34(7)](https://www.legislation.gov.uk/ukpga/2002/32/section/34/7), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); S.I. 2005/2910, art. 4, Sch.
 
 [^c15251891]: Textual amendment: S. 498(2) substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para.131](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/131) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1).

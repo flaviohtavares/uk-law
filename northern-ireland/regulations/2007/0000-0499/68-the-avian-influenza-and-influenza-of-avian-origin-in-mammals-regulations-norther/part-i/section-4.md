@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Declarations, licences, notices and designations[^key-2f3b8e7962e2f9a19f4ab023a4faa8cc]
+## 4. Declarations, licences, notices and designations[^c-2f3b8e7962e2f9a19f4ab023a4faa8cc]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f3b8e7962e2f9a19f4ab023a4faa8cc]: Commencement: Reg. 4 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-2f3b8e7962e2f9a19f4ab023a4faa8cc]: Commencement: Reg. 4 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

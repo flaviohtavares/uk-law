@@ -39,7 +39,7 @@ An Act to amend and consolidate the Law relating to Copyright.
 
 ### Delivery of Books to Libraries
 
-#### 15. Delivery of copies to British Museum and other libraries.[^key-83b8aac5eeef48d22c6bbcc7949bb3a8]
+#### 15. Delivery of copies to British Museum and other libraries.[^c-83b8aac5eeef48d22c6bbcc7949bb3a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -75,7 +75,7 @@ An Act to amend and consolidate the Law relating to Copyright.
 
 [^c579478]: Textual amendment: [Ss. 1–14](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/1), [16–33](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/16), [35](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/35), [36](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/36), [Schs. 1](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/schedule/1), [2](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/schedule/2) repealed by [Copyright Act 1956 (c. 74)](https://www.legislation.gov.uk/ukpga/1956/74), [Schs. 7–9](https://www.legislation.gov.uk/ukpga/1956/74/schedule/7)
 
-[^key-83b8aac5eeef48d22c6bbcc7949bb3a8]: Textual amendment: S. 15 repealed (1.2.2004) by [Legal Deposit Libraries Act 2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28), [s. 16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1), [Sch.](https://www.legislation.gov.uk/ukpga/2003/28/schedule) (with [s. 16(4)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/4)); [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-83b8aac5eeef48d22c6bbcc7949bb3a8]: Textual amendment: S. 15 repealed (1.2.2004) by [Legal Deposit Libraries Act 2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28), [s. 16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1), [Sch.](https://www.legislation.gov.uk/ukpga/2003/28/schedule) (with [s. 16(4)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/4)); [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c579489]: Textual amendment: [Ss. 1–14](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/1), [16–33](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/16), [35](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/35), [36](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/section/36), [Schs. 1](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/schedule/1), [2](https://www.legislation.gov.uk/ukpga/Geo5/1-2/46/schedule/2) repealed by [Copyright Act 1956 (c. 74)](https://www.legislation.gov.uk/ukpga/1956/74), [Schs. 7–9](https://www.legislation.gov.uk/ukpga/1956/74/schedule/7)
 

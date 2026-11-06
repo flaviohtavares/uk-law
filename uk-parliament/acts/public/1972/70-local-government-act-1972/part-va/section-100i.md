@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100I. Exempt information and power to vary Schedule 12A.[^M_C_b837d7a8-d81c-4628-f577-3799bf0947fa][^c15100471][^key-ddf07148ac2fc0a214db014bf8e4ba99][^c15100461][^c15100081]
+## 100I. Exempt information and power to vary Schedule 12A.[^M_C_b837d7a8-d81c-4628-f577-3799bf0947fa][^c15100471][^c-ddf07148ac2fc0a214db014bf8e4ba99][^c15100461][^c15100081]
 
 *Extent: E+W*
 
-(1)[^c19641311][^c20519981][^c20527101][^key-a62249156875f02ab5b1e4901c29247a] In relation to principal councils in England,[^c18889071]the descriptions of information which are, for the purposes of this Part, exempt information are those for the time being specified in Part I of Schedule 12A to this Act, but subject to any qualifications contained in Part II of that Schedule; and Part III has effect for the interpretation of Parts 1 to 3 of that Schedule[^c18889211].
+(1)[^c19641311][^c20519981][^c20527101][^c-a62249156875f02ab5b1e4901c29247a] In relation to principal councils in England,[^c18889071]the descriptions of information which are, for the purposes of this Part, exempt information are those for the time being specified in Part I of Schedule 12A to this Act, but subject to any qualifications contained in Part II of that Schedule; and Part III has effect for the interpretation of Parts 1 to 3 of that Schedule[^c18889211].
 
 (1A)[^c18889291] In relation to principal councils in Wales, the descriptions of information which are, for the purposes of this Part, exempt information are those for the time being specified in Part 4 of Schedule 12A to this Act, but subject to any qualifications contained in Part 5 of that Schedule; and Part 6 has effect for the interpretation of Parts 4 to 6 of that Schedule.
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c15100471]: Modification: S. 100I applied (with modifications) (W.) (28.7.2001) by [S.I. 2001/2283](https://www.legislation.gov.uk/uksi/2001/2283), [regs. 26](https://www.legislation.gov.uk/uksi/2001/2283/regulation/26), [27](https://www.legislation.gov.uk/uksi/2001/2283/regulation/27)
 
-[^key-ddf07148ac2fc0a214db014bf8e4ba99]: Modification: Sch. 12A paras. 1-11 applied (with modifications) (5.7.2011) by [The South East Lincolnshire Joint Strategic Planning Committee Order 2011 (S.I. 2011/1455)](https://www.legislation.gov.uk/uksi/2011/1455), [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1), [Sch. para. 7(1)(c)](https://www.legislation.gov.uk/uksi/2011/1455/schedule/paragraph/7/1/c)
+[^c-ddf07148ac2fc0a214db014bf8e4ba99]: Modification: Sch. 12A paras. 1-11 applied (with modifications) (5.7.2011) by [The South East Lincolnshire Joint Strategic Planning Committee Order 2011 (S.I. 2011/1455)](https://www.legislation.gov.uk/uksi/2011/1455), [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1), [Sch. para. 7(1)(c)](https://www.legislation.gov.uk/uksi/2011/1455/schedule/paragraph/7/1/c)
 
 [^c15100461]: Textual amendment: Pt. VA (ss. 100A–100K) inserted by [Local Government (Access to Information) Act 1985 (c. 43, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1985/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1985/43/section/1/1)
 
@@ -53,7 +53,7 @@ summary: ''
 
 [^c20527101]: Modification: S. 100I(1) applied (with modifications) (12.10.2009) by [The Central Lincolnshire Joint Strategic Planning Committee Order 2009 (S.I. 2009/2467)](https://www.legislation.gov.uk/uksi/2009/2467), [art. 9](https://www.legislation.gov.uk/uksi/2009/2467/article/9), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/7/b)
 
-[^key-a62249156875f02ab5b1e4901c29247a]: Modification: S. 100I(1) applied (with modifications) (1.4.2015) by [The Local Audit (Auditor Panel) Regulations 2014 (S.I. 2014/3224)](https://www.legislation.gov.uk/uksi/2014/3224), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/9/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/3))
+[^c-a62249156875f02ab5b1e4901c29247a]: Modification: S. 100I(1) applied (with modifications) (1.4.2015) by [The Local Audit (Auditor Panel) Regulations 2014 (S.I. 2014/3224)](https://www.legislation.gov.uk/uksi/2014/3224), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/9/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/3))
 
 [^c18889071]: Textual amendment: Words in s. 100I(1) inserted (1.3.2006) by The Local Government (Access to Information) (Variation) Order 2006 ([S.I. 2006/88](https://www.legislation.gov.uk/uksi/2006/88), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/88/article/3/2)
 

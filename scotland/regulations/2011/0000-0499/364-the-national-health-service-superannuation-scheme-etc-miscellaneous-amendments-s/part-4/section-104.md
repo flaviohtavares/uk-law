@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Amendment of regulation 2[^key-a3bd85c935532b1819f6aec032fb7132]
+## 104. Amendment of regulation 2[^c-a3bd85c935532b1819f6aec032fb7132]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ In regulation 2 (interpretation), in paragraph (1)—
 
 ## Annotations
 
-[^key-a3bd85c935532b1819f6aec032fb7132]: Commencement: [Reg. 104](https://www.legislation.gov.uk/ssi/2011/364/regulation/104) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-a3bd85c935532b1819f6aec032fb7132]: Commencement: [Reg. 104](https://www.legislation.gov.uk/ssi/2011/364/regulation/104) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
 
 [^f00008]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208).

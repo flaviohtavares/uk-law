@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 389. Powers to enter Crown land[^key-26bb6f47ccf335edef9c22af26840c96]
+## 389. Powers to enter Crown land[^c-26bb6f47ccf335edef9c22af26840c96]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26bb6f47ccf335edef9c22af26840c96]: Commencement: S. 389 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-26bb6f47ccf335edef9c22af26840c96]: Commencement: S. 389 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

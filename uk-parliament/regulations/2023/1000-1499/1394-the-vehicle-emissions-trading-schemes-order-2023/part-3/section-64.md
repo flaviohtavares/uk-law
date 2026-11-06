@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Participants in the VCTS[^key-18490e9ebed884d80e374cd3698f1747]
+## 64. Participants in the VCTS[^c-18490e9ebed884d80e374cd3698f1747]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18490e9ebed884d80e374cd3698f1747]: Commencement: Art. 64 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-18490e9ebed884d80e374cd3698f1747]: Commencement: Art. 64 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

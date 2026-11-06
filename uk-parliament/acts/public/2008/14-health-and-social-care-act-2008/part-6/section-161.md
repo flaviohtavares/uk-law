@@ -24,7 +24,7 @@ summary: ''
 
 (2) Regulations made by the Department of Health, Social Services and Public Safety in Northern Ireland under section 120 and orders made by that Department under section 170(3) are to be made by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
 
-(3) Any power to make orders or regulations mentioned in subsection (1) or (2) and (subject to section 82(2A))[^key-80d40545411935f7e6951b170b223317] any power of the Secretary of State to give directions under this Act—
+(3) Any power to make orders or regulations mentioned in subsection (1) or (2) and (subject to section 82(2A))[^c-80d40545411935f7e6951b170b223317] any power of the Secretary of State to give directions under this Act—
 
 - (a) may be exercised either in relation to all cases to which the power extends, or in relation to all cases subject to specified exceptions, or in relation to any specified cases or classes of case,
 - (b) may be exercised so as to make, as respects the cases in relation to which it is exercised—
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80d40545411935f7e6951b170b223317]: Textual amendment: Words in s. 161(3) inserted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 294(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/294/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-80d40545411935f7e6951b170b223317]: Textual amendment: Words in s. 161(3) inserted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 294(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/294/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)

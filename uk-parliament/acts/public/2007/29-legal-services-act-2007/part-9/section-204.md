@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 204. Orders, regulations and rules[^c20071231][^key-e257fd49dab36d4f53d21c86e42fb77f]
+## 204. Orders, regulations and rules[^c20071231][^c-e257fd49dab36d4f53d21c86e42fb77f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ under or by virtue of this Act.
 
 [^c20071231]: Commencement: S. 204 partly in force; s. 204 not in force at Royal Assent see s. 211; s. 204(1)(3)(4)(a) in force at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(g)](https://www.legislation.gov.uk/uksi/2008/222/article/2/g)
 
-[^key-e257fd49dab36d4f53d21c86e42fb77f]: Modification: [S. 204](https://www.legislation.gov.uk/ukpga/2007/29/section/204) extended to S. and N.I. in accordance with the amending provision (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(5)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/5), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-e257fd49dab36d4f53d21c86e42fb77f]: Modification: [S. 204](https://www.legislation.gov.uk/ukpga/2007/29/section/204) extended to S. and N.I. in accordance with the amending provision (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(5)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/5), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)

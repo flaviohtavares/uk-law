@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Duty of responsible bodies to make annual return[^key-3dbe65a95d78e0b98076182849bd0a27][^key-ae1c8d0875ecdddbbec3afcbf39f69c5]
+## 136. Duty of responsible bodies to make annual return[^c-3dbe65a95d78e0b98076182849bd0a27][^c-ae1c8d0875ecdddbbec3afcbf39f69c5]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ are such period and date as the Secretary of State may direct.
 
 ## Annotations
 
-[^key-3dbe65a95d78e0b98076182849bd0a27]: Commencement: S. 136 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-3dbe65a95d78e0b98076182849bd0a27]: Commencement: S. 136 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-ae1c8d0875ecdddbbec3afcbf39f69c5]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2021/30/section/136) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-ae1c8d0875ecdddbbec3afcbf39f69c5]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2021/30/section/136) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

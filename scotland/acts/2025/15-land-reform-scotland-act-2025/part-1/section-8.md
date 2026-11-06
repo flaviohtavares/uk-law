@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Functions of the Land Commissioners: natural capital markets[^key-920a972c9326af96b8e488451bde0a9f][^key-1034755f1894b0ae31d209e5c0d2fb53]
+## 8. Functions of the Land Commissioners: natural capital markets[^c-920a972c9326af96b8e488451bde0a9f][^c-1034755f1894b0ae31d209e5c0d2fb53]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-920a972c9326af96b8e488451bde0a9f]: Commencement: S. 8 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-920a972c9326af96b8e488451bde0a9f]: Commencement: S. 8 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-1034755f1894b0ae31d209e5c0d2fb53]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/15/section/8) in force at 16.3.2026 by [S.S.I. 2026/119](https://www.legislation.gov.uk/ssi/2026/119), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/2/a)
+[^c-1034755f1894b0ae31d209e5c0d2fb53]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/15/section/8) in force at 16.3.2026 by [S.S.I. 2026/119](https://www.legislation.gov.uk/ssi/2026/119), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/2/a)

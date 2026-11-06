@@ -74,7 +74,7 @@ summary: ''
 
 (4) Expressions used in both these Regulations and the WFD and not otherwise defined in these Regulations have the same meaning for the purposes of these Regulations as they do for the purposes of the WFD.
 
-(5)[^key-948291e7faf097b66d6318c5b322be48] For the purposes of these Regulations, references to the WFD, GWD and EQSD, or to a provision of one of them, are to be read in accordance with Schedule 5.
+(5)[^c-948291e7faf097b66d6318c5b322be48] For the purposes of these Regulations, references to the WFD, GWD and EQSD, or to a provision of one of them, are to be read in accordance with Schedule 5.
 
 ## Annotations
 
@@ -94,4 +94,4 @@ summary: ''
 
 [^c23020361]: Marginal citation: OJ No L 330, 5.12.1998, p32, as last amended by Commission Directive (EU) 2015/1787 (OJ No L 260, 7.10.2015, p6).
 
-[^key-948291e7faf097b66d6318c5b322be48]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2017/407/regulation/2/5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-948291e7faf097b66d6318c5b322be48]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2017/407/regulation/2/5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

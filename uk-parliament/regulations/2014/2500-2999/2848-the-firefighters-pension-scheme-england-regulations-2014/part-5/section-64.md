@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Annual rate of retirement pension after exercise of partial retirement option[^key-6bf47c9700a7461d6f36313825ce8aec]
+## 64. Annual rate of retirement pension after exercise of partial retirement option[^c-6bf47c9700a7461d6f36313825ce8aec]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bf47c9700a7461d6f36313825ce8aec]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/2848/regulation/64) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-6bf47c9700a7461d6f36313825ce8aec]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/2848/regulation/64) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

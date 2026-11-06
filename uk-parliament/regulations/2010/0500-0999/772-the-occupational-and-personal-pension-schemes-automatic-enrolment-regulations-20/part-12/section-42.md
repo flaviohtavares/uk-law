@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Modification of test scheme standard: final salary lump sum accruals[^key-baa1a7e55e58b2e6dcdb26a8b914eb50]
+## 42. Modification of test scheme standard: final salary lump sum accruals[^c-baa1a7e55e58b2e6dcdb26a8b914eb50]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baa1a7e55e58b2e6dcdb26a8b914eb50]: Textual amendment: Regs. 41 42 revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [36](https://www.legislation.gov.uk/uksi/2012/215/regulation/36)
+[^c-baa1a7e55e58b2e6dcdb26a8b914eb50]: Textual amendment: Regs. 41 42 revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [36](https://www.legislation.gov.uk/uksi/2012/215/regulation/36)

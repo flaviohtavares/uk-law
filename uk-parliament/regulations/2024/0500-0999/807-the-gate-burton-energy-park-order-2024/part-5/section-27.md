@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Temporary use of land for constructing the authorised development[^key-63503d4f145526c5412b45d1f9fa3062]
+## 27. Temporary use of land for constructing the authorised development[^c-63503d4f145526c5412b45d1f9fa3062]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ summary: ''
 
 (11) Nothing in this article precludes the undertaker from—
 
-- (a) creating and acquiring new rights or imposing restrictions over any part of the Order land identified in Schedule 9 (land[^key-9b3da5b2894e39597efdf8466affb95b] in which only new rights etc. may be acquired); or
+- (a) creating and acquiring new rights or imposing restrictions over any part of the Order land identified in Schedule 9 (land[^c-9b3da5b2894e39597efdf8466affb95b] in which only new rights etc. may be acquired); or
 - (b) acquiring any part of the subsoil of (or rights in the subsoil of) that land under article 23 (acquisition of subsoil only) or any part of the subsoil of or airspace over that land under article 26 (rights under or over streets).
 
 (12) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land under this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63503d4f145526c5412b45d1f9fa3062]: Commencement: Art. 27 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-63503d4f145526c5412b45d1f9fa3062]: Commencement: Art. 27 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-9b3da5b2894e39597efdf8466affb95b]: Textual amendment: Words in [art. 27(11)(a)](https://www.legislation.gov.uk/uksi/2024/807/article/27/11/a) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-9b3da5b2894e39597efdf8466affb95b]: Textual amendment: Words in [art. 27(11)(a)](https://www.legislation.gov.uk/uksi/2024/807/article/27/11/a) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)

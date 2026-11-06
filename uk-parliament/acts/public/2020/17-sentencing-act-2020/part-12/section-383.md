@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 383. Power of Crown Court to allow time for payment, or payment by instalments, of costs and compensation[^key-68d3f4ce9d88594381f50744475c9c7d]
+## 383. Power of Crown Court to allow time for payment, or payment by instalments, of costs and compensation[^c-68d3f4ce9d88594381f50744475c9c7d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the Crown Court makes an order mentioned in Part 1 of Schedule 9 to the Ad
 
 ## Annotations
 
-[^key-68d3f4ce9d88594381f50744475c9c7d]: Commencement: S. 383 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-68d3f4ce9d88594381f50744475c9c7d]: Commencement: S. 383 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

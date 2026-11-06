@@ -39,13 +39,13 @@ Coming into force in accordance with Article 1
 
 The Secretary of State in exercise of the powers conferred by section 319 of the Town and Country Planning Act 1990[^f00001], section 92 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00002] and section 116 of the Planning and Compulsory Purchase Act 2004[^f00003], and after consultation with the Council of the Isles of Scilly, makes the following Order:
 
-## 1. Citation and commencement[^key-66c8b877c5c8d343ab2ff06601d265c7]
+## 1. Citation and commencement[^c-66c8b877c5c8d343ab2ff06601d265c7]
 
 (1) This Order may be cited as the Town and Country Planning (Isles of Scilly) Order 2013 and, subject to paragraph (2), comes into force on 2nd October 2013.
 
 (2) The references to the Listed Buildings Act in Article 3 shall, from the day on which amendments are made to that Act by the commencement of sections 60 and 61 of, and Schedule 16 to, and paragraphs 7 to 11 and 14 to 20 of Schedule 17 to (and section 63 of so far as it relates to those paragraphs), the Enterprise and Regulatory Reform Act 2013[^f00004], have effect as references to the Listed Buildings Act as so amended.
 
-## 2. Interpretation[^key-2f07b8ef992660fe5d7b28194057af18]
+## 2. Interpretation[^c-2f07b8ef992660fe5d7b28194057af18]
 
 In this Order—
 
@@ -55,15 +55,15 @@ In this Order—
 - “the Council” means the Council of the Isles of Scilly; and
 - “the Listed Buildings Act” means the Planning (Listed Buildings and Conservation Areas) Act 1990.
 
-## 3. Application of provisions of the Listed Buildings Act to the Isles of Scilly[^key-fed09b13b364378c995b2687d06dfd2c]
+## 3. Application of provisions of the Listed Buildings Act to the Isles of Scilly[^c-fed09b13b364378c995b2687d06dfd2c]
 
 All the provisions of the Listed Buildings Act specified in section 92(2) and (3) of that Act shall apply to the Isles of Scilly as if those Isles were a separate county, subject to the modifications specified in Schedule 1 to this Order.
 
-## 4. Exercise of planning functions under the 1990 Act and the 2004 Act[^key-85c5642d5f664ee26b8585278bdc3363]
+## 4. Exercise of planning functions under the 1990 Act and the 2004 Act[^c-85c5642d5f664ee26b8585278bdc3363]
 
-The Council shall exercise for the Isles of Scilly all functions under the 1990 Act and Part 2 and section 39A[^key-02645b650bdda9646770f8a66a9f5b6c] of the 2004 Act exercisable by a local planning authority or a mineral planning authority or a minerals and waste planning authority[^key-baf8c8ae19d13fbdf3df16d5e4200f13] for their respective areas in England, subject to the exceptions, adaptations and modifications specified in Schedule 2 to this Order.
+The Council shall exercise for the Isles of Scilly all functions under the 1990 Act and Part 2 and section 39A[^c-02645b650bdda9646770f8a66a9f5b6c] of the 2004 Act exercisable by a local planning authority or a mineral planning authority or a minerals and waste planning authority[^c-baf8c8ae19d13fbdf3df16d5e4200f13] for their respective areas in England, subject to the exceptions, adaptations and modifications specified in Schedule 2 to this Order.
 
-## 5. Revocations, savings and transitional provisions[^key-f264d01bfb7531ffce76948187b03aa3]
+## 5. Revocations, savings and transitional provisions[^c-f264d01bfb7531ffce76948187b03aa3]
 
 (1) The Planning (Listed Buildings and Conservation Areas) (Isles of Scilly) Order 1990[^f00006] is revoked.
 
@@ -92,13 +92,13 @@ Department for Communities and Local Government
 
 Article 3
 
-**1.**[^key-dfb3fa68577c0b0fc21646209f56ce41] Any reference to the local planning authority shall include a reference to the Council.
+**1.**[^c-dfb3fa68577c0b0fc21646209f56ce41] Any reference to the local planning authority shall include a reference to the Council.
 
-**2.**[^key-6ba900551507fabe8db087b0ec9fd01a] Any reference to the council of a county shall include a reference to the Council.
+**2.**[^c-6ba900551507fabe8db087b0ec9fd01a] Any reference to the council of a county shall include a reference to the Council.
 
-**3.**[^key-819e139f4e18c52593ebeb9c469979be] Any reference to a district shall include a reference to the Isles, and any reference to the council of a district shall include a reference to the Council.
+**3.**[^c-819e139f4e18c52593ebeb9c469979be] Any reference to a district shall include a reference to the Isles, and any reference to the council of a district shall include a reference to the Council.
 
-**4.**[^key-457b1b7941dc58fed0d10de77b4fe773] Any requirement as to—
+**4.**[^c-457b1b7941dc58fed0d10de77b4fe773] Any requirement as to—
 
 - (a) consultation between a local planning authority or the council of a county, and the council of a district, or
 - (b) as to the giving of notice by one such authority or council to another,
@@ -109,15 +109,15 @@ shall not apply.
 
 Article 4
 
-**1.**[^key-26d16d89811b4d79f4f359dc0f04b354] Any reference to a local planning authority, except in paragraph 7(1) of Schedule 1 to the 1990 Act, or to a mineral planning authority or a minerals and waste planning authority[^key-0aec23fdc8396709e841e673d4b8c206], shall include a reference to the Council.
+**1.**[^c-26d16d89811b4d79f4f359dc0f04b354] Any reference to a local planning authority, except in paragraph 7(1) of Schedule 1 to the 1990 Act, or to a mineral planning authority or a minerals and waste planning authority[^c-0aec23fdc8396709e841e673d4b8c206], shall include a reference to the Council.
 
-**2.**[^key-292930731469041bc9981c9112be2756] Any reference to the council of a county shall include a reference to the Council.
+**2.**[^c-292930731469041bc9981c9112be2756] Any reference to the council of a county shall include a reference to the Council.
 
-**3.**[^key-0d489c1aa5f3ab8a52e941202cdc3bb2] Any reference to a district shall include a reference to the Isles of Scilly, and any reference to the council of a district shall include a reference to the Council.
+**3.**[^c-0d489c1aa5f3ab8a52e941202cdc3bb2] Any reference to a district shall include a reference to the Isles of Scilly, and any reference to the council of a district shall include a reference to the Council.
 
-**4.**[^key-e16383686d8c012aaa8ba79d1bbea3e6] Any requirement as to—
+**4.**[^c-e16383686d8c012aaa8ba79d1bbea3e6] Any requirement as to—
 
-- (a) consultation between a local planning authority or a mineral planning authority or a minerals and waste planning authority[^key-d884f0761d6cb1e70d539a9bff486f8a] or the council of a county, and the council of a district;
+- (a) consultation between a local planning authority or a mineral planning authority or a minerals and waste planning authority[^c-d884f0761d6cb1e70d539a9bff486f8a] or the council of a county, and the council of a district;
 - (b) consultation between the council of a county, and a local planning authority; or
 - (c) the giving of notice by any body mentioned in sub-paragraphs (a) or (b) to any other such body,
 
@@ -145,23 +145,23 @@ The Isles of Scilly are defined by, and the Council of the Isles of Scilly is co
 
 [^f00003]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-66c8b877c5c8d343ab2ff06601d265c7]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2148/article/1) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-66c8b877c5c8d343ab2ff06601d265c7]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2148/article/1) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
 [^f00004]: Footnote: [2013 c. 24](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-2f07b8ef992660fe5d7b28194057af18]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2148/article/2) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-2f07b8ef992660fe5d7b28194057af18]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2148/article/2) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
 [^f00005]: Footnote: [S.I. 2005/2085](https://www.legislation.gov.uk/uksi/2005/2085).
 
-[^key-fed09b13b364378c995b2687d06dfd2c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2148/article/3) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-fed09b13b364378c995b2687d06dfd2c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2148/article/3) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-85c5642d5f664ee26b8585278bdc3363]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2148/article/4) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-85c5642d5f664ee26b8585278bdc3363]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2148/article/4) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-02645b650bdda9646770f8a66a9f5b6c]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2013/2148/article/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/2/a)
+[^c-02645b650bdda9646770f8a66a9f5b6c]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2013/2148/article/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/2/a)
 
-[^key-baf8c8ae19d13fbdf3df16d5e4200f13]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2013/2148/article/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/2/b)
+[^c-baf8c8ae19d13fbdf3df16d5e4200f13]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2013/2148/article/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/2/b)
 
-[^key-f264d01bfb7531ffce76948187b03aa3]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/2148/article/5) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-f264d01bfb7531ffce76948187b03aa3]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/2148/article/5) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
 [^f00006]: Footnote: [S.I. 1990/2237](https://www.legislation.gov.uk/uksi/1990/2237).
 
@@ -171,22 +171,22 @@ The Isles of Scilly are defined by, and the Council of the Isles of Scilly is co
 
 [^f00009]: Footnote: [1983 c. 47](https://www.legislation.gov.uk/ukpga/1983/47).
 
-[^key-dfb3fa68577c0b0fc21646209f56ce41]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/1) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-dfb3fa68577c0b0fc21646209f56ce41]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/1) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-6ba900551507fabe8db087b0ec9fd01a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/2) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-6ba900551507fabe8db087b0ec9fd01a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/2) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-819e139f4e18c52593ebeb9c469979be]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/3) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-819e139f4e18c52593ebeb9c469979be]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/3) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-457b1b7941dc58fed0d10de77b4fe773]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/4) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-457b1b7941dc58fed0d10de77b4fe773]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1/paragraph/4) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-26d16d89811b4d79f4f359dc0f04b354]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/1) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-26d16d89811b4d79f4f359dc0f04b354]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/1) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-0aec23fdc8396709e841e673d4b8c206]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/3)
+[^c-0aec23fdc8396709e841e673d4b8c206]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/3)
 
-[^key-292930731469041bc9981c9112be2756]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/2) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-292930731469041bc9981c9112be2756]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/2) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-0d489c1aa5f3ab8a52e941202cdc3bb2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/3) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-0d489c1aa5f3ab8a52e941202cdc3bb2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/3) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-e16383686d8c012aaa8ba79d1bbea3e6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/4) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
+[^c-e16383686d8c012aaa8ba79d1bbea3e6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/4) in force at 22.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1)
 
-[^key-d884f0761d6cb1e70d539a9bff486f8a]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/3)
+[^c-d884f0761d6cb1e70d539a9bff486f8a]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/2148/schedule/2/paragraph/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2026/170/regulation/14/3)

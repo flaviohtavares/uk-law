@@ -31,10 +31,10 @@ summary: ''
 
 of 14 November 2005 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the United States of America on matters related to trade in wine (revoked)
 
-[^key-1f09fd67a0b52cc05850248528ae5c47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f09fd67a0b52cc05850248528ae5c47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1f09fd67a0b52cc05850248528ae5c47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1f09fd67a0b52cc05850248528ae5c47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f09fd67a0b52cc05850248528ae5c47]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f09fd67a0b52cc05850248528ae5c47]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

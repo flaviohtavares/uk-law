@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123.[^key-2436afba8fc50b24bea9ea6d8f6349b2]
+## 123.[^c-2436afba8fc50b24bea9ea6d8f6349b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In Schedule A1 (application of taper relief), in paragraph 15 —
 
 ## Annotations
 
-[^key-2436afba8fc50b24bea9ea6d8f6349b2]: Commencement: Reg. 123 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-2436afba8fc50b24bea9ea6d8f6349b2]: Commencement: Reg. 123 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

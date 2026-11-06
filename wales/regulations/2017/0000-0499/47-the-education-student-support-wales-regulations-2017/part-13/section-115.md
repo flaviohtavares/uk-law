@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Applications for support[^key-993b851aafeafcc83391ebc66963bb44]
+## 115. Applications for support[^c-993b851aafeafcc83391ebc66963bb44]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-993b851aafeafcc83391ebc66963bb44]: Commencement: Reg. 115 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-993b851aafeafcc83391ebc66963bb44]: Commencement: Reg. 115 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

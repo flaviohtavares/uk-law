@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Amendment of schedule 3 (register)[^key-111da5ea48827ee0531d50447dbc9f64]
+## 37. Amendment of schedule 3 (register)[^c-111da5ea48827ee0531d50447dbc9f64]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ In schedule 3 (register)—
 
 ## Annotations
 
-[^key-111da5ea48827ee0531d50447dbc9f64]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2025/165/regulation/37) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-111da5ea48827ee0531d50447dbc9f64]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2025/165/regulation/37) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

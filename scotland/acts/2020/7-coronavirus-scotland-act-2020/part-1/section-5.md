@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Justice[^key-3398c49f1fd36cae7687988f9989986b]
+## 5. Justice[^c-3398c49f1fd36cae7687988f9989986b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3398c49f1fd36cae7687988f9989986b]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2020/7/section/5) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1) (with saving in [S.S.I. 2022/261](https://www.legislation.gov.uk/ssi/2022/261), [regs. 1](https://www.legislation.gov.uk/ssi/2022/261/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/261/regulation/3))
+[^c-3398c49f1fd36cae7687988f9989986b]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2020/7/section/5) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1) (with saving in [S.S.I. 2022/261](https://www.legislation.gov.uk/ssi/2022/261), [regs. 1](https://www.legislation.gov.uk/ssi/2022/261/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/261/regulation/3))

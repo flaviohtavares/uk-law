@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Notification requirements: changes[^key-3966c95a4a04681b918941ed5ebba503]
+## 109. Notification requirements: changes[^c-3966c95a4a04681b918941ed5ebba503]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ as it applies to the determination of the period of 3 days mentioned in section 
 
 ## Annotations
 
-[^key-3966c95a4a04681b918941ed5ebba503]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2008/4/section/109) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(l)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/l)
+[^c-3966c95a4a04681b918941ed5ebba503]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2008/4/section/109) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(l)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/l)

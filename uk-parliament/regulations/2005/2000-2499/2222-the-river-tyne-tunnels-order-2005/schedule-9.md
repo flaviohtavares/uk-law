@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-**1.**[^key-3f488ecebc970b446c790cb582bc32bf] In this Schedule—
+**1.**[^c-3f488ecebc970b446c790cb582bc32bf] In this Schedule—
 
 - “construction” includes execution, placing, alteration and reconstruction and “constructed” has a corresponding meaning;
 - “plans” includes sections, drawings, particulars and schedules of construction;
@@ -31,7 +31,7 @@ Article 45
 
 ### Tidal works
 
-**2.**[^key-57a416e49e94555782a7a1aa6c623017] (1) A tidal work shall not be constructed, altered, replaced or re-laid except in accordance with plans approved by the Secretary of State and subject to any conditions and restrictions imposed by him before the work is begun.
+**2.**[^c-57a416e49e94555782a7a1aa6c623017] (1) A tidal work shall not be constructed, altered, replaced or re-laid except in accordance with plans approved by the Secretary of State and subject to any conditions and restrictions imposed by him before the work is begun.
 
 (2) If a tidal work is constructed, altered, replaced or re-laid in contravention of this paragraph or of any condition or restriction imposed under this paragraph—
 
@@ -48,7 +48,7 @@ Article 45
 
 ### Damage etc. to works
 
-**3.**[^key-d556dc5b80392b7ca6601c5baed1a77a] (1) In case of damage to or destruction or decay of a tidal work, or any part of a tidal work, the undertaker shall as soon as reasonably practicable—
+**3.**[^c-d556dc5b80392b7ca6601c5baed1a77a] (1) In case of damage to or destruction or decay of a tidal work, or any part of a tidal work, the undertaker shall as soon as reasonably practicable—
 
 - (a) give notice to Trinity House and the Port Authority, and
 - (b) lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House may direct.
@@ -57,7 +57,7 @@ Article 45
 
 ### Abandonment etc. of structures
 
-**4.**[^key-57d3921e429dd1e9765e9a70173b8b52] (1) Where a tidal work is abandoned, or allowed to fall into decay, the Secretary of State may by notice in writing require the undertaker at its own expense—
+**4.**[^c-57d3921e429dd1e9765e9a70173b8b52] (1) Where a tidal work is abandoned, or allowed to fall into decay, the Secretary of State may by notice in writing require the undertaker at its own expense—
 
 - (a) to repair and restore the work, or any part of it, or
 - (b) to remove the work and restore the site to its former condition or so near its former condition as is acceptable to him.
@@ -73,11 +73,11 @@ the Secretary of State may include that part of the work, or any portion of it, 
 
 ### Surveys etc.
 
-**5.**[^key-4f16b1501318f8b1c44c710915f48ef5] The Secretary of State may, if he considers it expedient, order a survey and examination of any tidal work.
+**5.**[^c-4f16b1501318f8b1c44c710915f48ef5] The Secretary of State may, if he considers it expedient, order a survey and examination of any tidal work.
 
 ### Offences
 
-**6.**[^key-7d7b8b7a7a3a76d36eb7518c1c84471a] (1) Where the undertaker is guilty of an offence under paragraph 3 it shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+**6.**[^c-7d7b8b7a7a3a76d36eb7518c1c84471a] (1) Where the undertaker is guilty of an offence under paragraph 3 it shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (2) In proceedings for any such offence it shall be a defence for the undertaker to show that it took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -85,20 +85,20 @@ the Secretary of State may include that part of the work, or any portion of it, 
 
 ### Expenses
 
-**7.**[^key-38c6f891c60430b68340739e9de6413a] The Secretary of State shall be entitled to recover from the undertaker any expenditure incurred by him under paragraphs 2(2)(d) or 2(3) or 4(3) or on a survey and examination under paragraphs 2(4) or 5.
+**7.**[^c-38c6f891c60430b68340739e9de6413a] The Secretary of State shall be entitled to recover from the undertaker any expenditure incurred by him under paragraphs 2(2)(d) or 2(3) or 4(3) or on a survey and examination under paragraphs 2(4) or 5.
 
 ## Annotations
 
-[^key-3f488ecebc970b446c790cb582bc32bf]: Commencement: Sch. 9 para. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-3f488ecebc970b446c790cb582bc32bf]: Commencement: Sch. 9 para. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-57a416e49e94555782a7a1aa6c623017]: Commencement: Sch. 9 para. 2 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-57a416e49e94555782a7a1aa6c623017]: Commencement: Sch. 9 para. 2 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-d556dc5b80392b7ca6601c5baed1a77a]: Commencement: Sch. 9 para. 3 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-d556dc5b80392b7ca6601c5baed1a77a]: Commencement: Sch. 9 para. 3 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-57d3921e429dd1e9765e9a70173b8b52]: Commencement: Sch. 9 para. 4 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-57d3921e429dd1e9765e9a70173b8b52]: Commencement: Sch. 9 para. 4 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-4f16b1501318f8b1c44c710915f48ef5]: Commencement: Sch. 9 para. 5 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-4f16b1501318f8b1c44c710915f48ef5]: Commencement: Sch. 9 para. 5 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-7d7b8b7a7a3a76d36eb7518c1c84471a]: Commencement: Sch. 9 para. 6 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-7d7b8b7a7a3a76d36eb7518c1c84471a]: Commencement: Sch. 9 para. 6 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-38c6f891c60430b68340739e9de6413a]: Commencement: Sch. 9 para. 7 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-38c6f891c60430b68340739e9de6413a]: Commencement: Sch. 9 para. 7 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Foyle Area and Carlingford Area (Close Seasons for Angling) (Amendment) Regulations 2004 (revoked)[^key-48e66de80179796b59b5b0c8863a1ff0]
+Foyle Area and Carlingford Area (Close Seasons for Angling) (Amendment) Regulations 2004 (revoked)[^c-48e66de80179796b59b5b0c8863a1ff0]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 13th September 2004
 
-[^key-48e66de80179796b59b5b0c8863a1ff0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48e66de80179796b59b5b0c8863a1ff0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-48e66de80179796b59b5b0c8863a1ff0]
+## 1. Citation and commencement[^c-48e66de80179796b59b5b0c8863a1ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Foyle Area and Carlingford Area (Close Seasons for Angling) Regulations 2001[^key-48e66de80179796b59b5b0c8863a1ff0]
+## 2. Amendment of the Foyle Area and Carlingford Area (Close Seasons for Angling) Regulations 2001[^c-48e66de80179796b59b5b0c8863a1ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48e66de80179796b59b5b0c8863a1ff0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48e66de80179796b59b5b0c8863a1ff0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48e66de80179796b59b5b0c8863a1ff0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48e66de80179796b59b5b0c8863a1ff0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48e66de80179796b59b5b0c8863a1ff0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/383) revoked (18.8.2005) by [The Foyle Area and Carlingford Area (Close Seasons for Angling) (Amendment) Regulations 2005 (S.R. 2005/400)](https://www.legislation.gov.uk/nisr/2005/400), [regs. 1](https://www.legislation.gov.uk/nisr/2005/400/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/400/regulation/3)
+[^c-48e66de80179796b59b5b0c8863a1ff0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/383) revoked (18.8.2005) by [The Foyle Area and Carlingford Area (Close Seasons for Angling) (Amendment) Regulations 2005 (S.R. 2005/400)](https://www.legislation.gov.uk/nisr/2005/400), [regs. 1](https://www.legislation.gov.uk/nisr/2005/400/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/400/regulation/3)

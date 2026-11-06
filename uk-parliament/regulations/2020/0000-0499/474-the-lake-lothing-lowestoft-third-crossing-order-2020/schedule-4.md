@@ -22,7 +22,7 @@ summary: ''
 
 Article 10
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-39283e0d90b68fd141ad8f0ad813b043]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-39283e0d90b68fd141ad8f0ad813b043]
 
 <table>
 <tbody>
@@ -39,9 +39,9 @@ Article 10
 </tbody>
 </table>
 
-[^key-caefbfc4c8b58f83ddfb8736b28cff38]
+[^c-caefbfc4c8b58f83ddfb8736b28cff38]
 
-### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-c2807a4e17131b26e513a2b3aa239d33]
+### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-c2807a4e17131b26e513a2b3aa239d33]
 
 <table>
 <tbody>
@@ -78,7 +78,7 @@ Article 10
 </tbody>
 </table>
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-084aacdc28576bfd0f0fb040cef2baf6]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-084aacdc28576bfd0f0fb040cef2baf6]
 
 <table>
 <tbody>
@@ -96,10 +96,10 @@ Article 10
 
 ## Annotations
 
-[^key-39283e0d90b68fd141ad8f0ad813b043]: Commencement: Sch. 4 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-39283e0d90b68fd141ad8f0ad813b043]: Commencement: Sch. 4 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-caefbfc4c8b58f83ddfb8736b28cff38]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2020/474/schedule/4/part/1) inserted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/7)
+[^c-caefbfc4c8b58f83ddfb8736b28cff38]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2020/474/schedule/4/part/1) inserted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/7)
 
-[^key-c2807a4e17131b26e513a2b3aa239d33]: Commencement: Sch. 4 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-c2807a4e17131b26e513a2b3aa239d33]: Commencement: Sch. 4 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-084aacdc28576bfd0f0fb040cef2baf6]: Commencement: Sch. 4 Pt. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-084aacdc28576bfd0f0fb040cef2baf6]: Commencement: Sch. 4 Pt. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act:
 
-## 1. Citation and commencement[^key-1c929732ea12158a200065db8d085d6d][^key-e678f4bfa09509c58c5d90326990d6cd]
+## 1. Citation and commencement[^c-1c929732ea12158a200065db8d085d6d][^c-e678f4bfa09509c58c5d90326990d6cd]
 
 (1) This Order may be cited as the Hertfordshire (Electoral Changes) Order 2015.
 
@@ -63,24 +63,24 @@ The Commission makes the following Order in exercise of the power conferred by s
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2017;
 - (b) for all other purposes, on the ordinary day of election of councillors in 2018.
 
-(5) Articles 4, 5, [^key-5b11feb22f72aa027f9ed608c2155191]... 8, 9 and 13 come into force—
+(5) Articles 4, 5, [^c-5b11feb22f72aa027f9ed608c2155191]... 8, 9 and 13 come into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2018;
 - (b) for all other purposes, on the ordinary day of election of councillors in 2019.
 
-(6)[^key-71411d646330fca33a7c9c59ef009193] Article 6 comes into force—
+(6)[^c-71411d646330fca33a7c9c59ef009193] Article 6 comes into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2021;
 - (b) for all other purposes, on the ordinary day of election of councillors in 2022.
 
-## 2. Interpretation[^key-2bf73459f2920589d3b1be2e30878843][^key-7010ab3de4078d50641edd64980b4e8b]
+## 2. Interpretation[^c-2bf73459f2920589d3b1be2e30878843][^c-7010ab3de4078d50641edd64980b4e8b]
 
 In this Order—
 
 - “map” means the map marked “Map referred to in the Hertfordshire (Electoral Changes) Order 2015”, prints of which are available for inspection at the principal office of the Local Government Boundary Commission for England;
 - “ordinary day of election of councillors” has the meaning given by section 37 of the Representation of the People Act 1983[^f00003].
 
-## 3. Electoral divisions of the county of Hertfordshire and number of councillors[^key-45f0672179a5673eb7e2ec7478d3f85d][^key-395a31343304680ce6b48a8027f30700]
+## 3. Electoral divisions of the county of Hertfordshire and number of councillors[^c-45f0672179a5673eb7e2ec7478d3f85d][^c-395a31343304680ce6b48a8027f30700]
 
 (1) The existing electoral divisions of the county of Hertfordshire are abolished.
 
@@ -92,7 +92,7 @@ In this Order—
 
 (5) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 4. Wards of the parish of Abbots Langley and number of councillors[^key-162e432f0ba71c2429379769602cf5db][^key-facf79d8ead7603c15bc6939fc91ce83]
+## 4. Wards of the parish of Abbots Langley and number of councillors[^c-162e432f0ba71c2429379769602cf5db][^c-facf79d8ead7603c15bc6939fc91ce83]
 
 (1) The existing wards of the parish of Abbots Langley are abolished.
 
@@ -102,7 +102,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 1 in Schedule 2.
 
-## 5. Wards of the parish of Berkhamsted and number of councillors[^key-c0c76ed5b84e1578e1a4fd1bb2b6352e][^key-021f6c0dd86aeda7f57d51ca374e88e8]
+## 5. Wards of the parish of Berkhamsted and number of councillors[^c-c0c76ed5b84e1578e1a4fd1bb2b6352e][^c-021f6c0dd86aeda7f57d51ca374e88e8]
 
 (1) The existing wards of the parish of Berkhamsted are abolished.
 
@@ -112,7 +112,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 2 in Schedule 2.
 
-## 6. Wards of the parish of Chorleywood and number of councillors[^key-e5063c2588b13f1a99c932fe439c3338][^key-6531077ea55325109a79b3b8dbb5f1fc]
+## 6. Wards of the parish of Chorleywood and number of councillors[^c-e5063c2588b13f1a99c932fe439c3338][^c-6531077ea55325109a79b3b8dbb5f1fc]
 
 (1) The existing wards of the parish of Chorleywood are abolished.
 
@@ -122,7 +122,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 3 in Schedule 2.
 
-## 7. Wards of the parish of Colney Heath and number of councillors[^key-689a3a97097d10a98bcea8d3e9b23212][^key-f5f626d79c1831e04b7044f2a3a6a234]
+## 7. Wards of the parish of Colney Heath and number of councillors[^c-689a3a97097d10a98bcea8d3e9b23212][^c-f5f626d79c1831e04b7044f2a3a6a234]
 
 (1) The existing wards of the parish of Colney Heath are abolished.
 
@@ -132,7 +132,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 4 in Schedule 2.
 
-## 8. Wards of the parish of Elstree & Borehamwood and number of councillors[^key-f6279371352449761ef733524ceec4f6][^key-8a933b35037d8b3dd6c938cd2ec814fd]
+## 8. Wards of the parish of Elstree & Borehamwood and number of councillors[^c-f6279371352449761ef733524ceec4f6][^c-8a933b35037d8b3dd6c938cd2ec814fd]
 
 (1) The existing wards of the parish of Elstree & Borehamwood are abolished.
 
@@ -142,7 +142,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 5 in Schedule 2.
 
-## 9. Wards of the parish of Hatfield and number of councillors[^key-f10640ce26f62200e4543546b629ef5b][^key-09bb10e10f73f19045d594e980948651]
+## 9. Wards of the parish of Hatfield and number of councillors[^c-f10640ce26f62200e4543546b629ef5b][^c-09bb10e10f73f19045d594e980948651]
 
 (1) The existing wards of the parish of Hatfield are abolished.
 
@@ -152,7 +152,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 6 in Schedule 2.
 
-## 10. Wards of the parish of Royston and number of councillors[^key-fa50068e00b77ab80bf22d673d455ffd][^key-f88fdb99ab7095ed856cf8289999cfeb]
+## 10. Wards of the parish of Royston and number of councillors[^c-fa50068e00b77ab80bf22d673d455ffd][^c-f88fdb99ab7095ed856cf8289999cfeb]
 
 (1) The existing wards of the parish of Royston are abolished.
 
@@ -162,7 +162,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 7 in Schedule 2.
 
-## 11. Wards of the parish of St Michael and number of councillors[^key-776f6a2c8daf8503ea55f620c2f02e1f][^key-e44666a08aca81c08315b5969d797749]
+## 11. Wards of the parish of St Michael and number of councillors[^c-776f6a2c8daf8503ea55f620c2f02e1f][^c-e44666a08aca81c08315b5969d797749]
 
 (1) The parish of St Michael is divided into two parish wards, each listed by name in the first column of table 8 in Schedule 2.
 
@@ -170,7 +170,7 @@ In this Order—
 
 (3) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 8 in Schedule 2.
 
-## 12. Wards of the parish of Sandridge and number of councillors[^key-03cdd1800fc7e46c6dbf5831483cb200][^key-9b24f233e0812abfa1979494f8d530a8]
+## 12. Wards of the parish of Sandridge and number of councillors[^c-03cdd1800fc7e46c6dbf5831483cb200][^c-9b24f233e0812abfa1979494f8d530a8]
 
 (1) The existing wards of the parish of Sandridge are abolished.
 
@@ -180,7 +180,7 @@ In this Order—
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 9 in Schedule 2.
 
-## 13. Wards of the parish of Watford Rural and number of councillors[^key-f4fff40dc9cfe5eec4fb5da8e6ae2cd5][^key-81e8a61cd667a54c07c690b55d6b4b43]
+## 13. Wards of the parish of Watford Rural and number of councillors[^c-f4fff40dc9cfe5eec4fb5da8e6ae2cd5][^c-81e8a61cd667a54c07c690b55d6b4b43]
 
 (1) The existing wards of the parish of Watford Rural are abolished.
 
@@ -200,7 +200,7 @@ Local Government Boundary Commission for England
 
 Date 5th November 2015
 
-## SCHEDULE 1 — Names of county electoral divisions[^key-2f996c5cacc72797e49e40351ee3d47a][^key-d36f5f90f3ac49613c5d29ffd1ed0206]
+## SCHEDULE 1 — Names of county electoral divisions[^c-2f996c5cacc72797e49e40351ee3d47a][^c-d36f5f90f3ac49613c5d29ffd1ed0206]
 
 Article 3
 
@@ -296,7 +296,7 @@ In Broxbourne Borough
 | Welwyn |
 | Welwyn Garden City South |
 
-## SCHEDULE 2 — Names of parish wards and number of councillors[^key-2965f83d9734f26670fb2ab773179900][^key-6e157bd726f5d46367939c9bbd990128]
+## SCHEDULE 2 — Names of parish wards and number of councillors[^c-2965f83d9734f26670fb2ab773179900][^c-6e157bd726f5d46367939c9bbd990128]
 
 Articles 4 to 13
 
@@ -377,7 +377,7 @@ Wards of the parish of Hatfield and number of councillors
 
 Table 7
 
-Wards of the parish of Royston and number of councillors[^key-5f7d03d4d7afd7f9ff261555e38ad056]
+Wards of the parish of Royston and number of councillors[^c-5f7d03d4d7afd7f9ff261555e38ad056]
 
 | (1) Name of parish ward | (2) Number of councillors |
 | --- | --- |
@@ -438,70 +438,70 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-1c929732ea12158a200065db8d085d6d]: Commencement: Art. 1 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
+[^c-1c929732ea12158a200065db8d085d6d]: Commencement: Art. 1 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
 
-[^key-e678f4bfa09509c58c5d90326990d6cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1873/article/1) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
+[^c-e678f4bfa09509c58c5d90326990d6cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1873/article/1) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
 
-[^key-5b11feb22f72aa027f9ed608c2155191]: Textual amendment: Word in [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5) omitted (4.12.2018) by virtue of [The Hertfordshire (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1284)](https://www.legislation.gov.uk/uksi/2018/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1284/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1284/article/2/a)
+[^c-5b11feb22f72aa027f9ed608c2155191]: Textual amendment: Word in [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5) omitted (4.12.2018) by virtue of [The Hertfordshire (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1284)](https://www.legislation.gov.uk/uksi/2018/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1284/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1284/article/2/a)
 
-[^key-71411d646330fca33a7c9c59ef009193]: Textual amendment: [Art. 1(6)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/6) inserted (4.12.2018) by [The Hertfordshire (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1284)](https://www.legislation.gov.uk/uksi/2018/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1284/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1284/article/2/b)
+[^c-71411d646330fca33a7c9c59ef009193]: Textual amendment: [Art. 1(6)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/6) inserted (4.12.2018) by [The Hertfordshire (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1284)](https://www.legislation.gov.uk/uksi/2018/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1284/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1284/article/2/b)
 
-[^key-2bf73459f2920589d3b1be2e30878843]: Commencement: Art. 2 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
+[^c-2bf73459f2920589d3b1be2e30878843]: Commencement: Art. 2 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
 
-[^key-7010ab3de4078d50641edd64980b4e8b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1873/article/2) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
+[^c-7010ab3de4078d50641edd64980b4e8b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1873/article/2) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
 
 [^f00003]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2); section 37 has been amended by section 18(2) of the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29) and section 60(1) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-45f0672179a5673eb7e2ec7478d3f85d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1873/article/3) in force at 15.10.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/a)
+[^c-45f0672179a5673eb7e2ec7478d3f85d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1873/article/3) in force at 15.10.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/a)
 
-[^key-395a31343304680ce6b48a8027f30700]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1873/article/3) in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/3/b)
+[^c-395a31343304680ce6b48a8027f30700]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1873/article/3) in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/3/b)
 
-[^key-162e432f0ba71c2429379769602cf5db]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1873/article/4) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+[^c-162e432f0ba71c2429379769602cf5db]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1873/article/4) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
 
-[^key-facf79d8ead7603c15bc6939fc91ce83]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1873/article/4) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+[^c-facf79d8ead7603c15bc6939fc91ce83]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1873/article/4) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
 
-[^key-c0c76ed5b84e1578e1a4fd1bb2b6352e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1873/article/5) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+[^c-c0c76ed5b84e1578e1a4fd1bb2b6352e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1873/article/5) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
 
-[^key-021f6c0dd86aeda7f57d51ca374e88e8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1873/article/5) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+[^c-021f6c0dd86aeda7f57d51ca374e88e8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1873/article/5) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
 
-[^key-e5063c2588b13f1a99c932fe439c3338]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1873/article/6) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+[^c-e5063c2588b13f1a99c932fe439c3338]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1873/article/6) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
 
-[^key-6531077ea55325109a79b3b8dbb5f1fc]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1873/article/6) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+[^c-6531077ea55325109a79b3b8dbb5f1fc]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1873/article/6) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
 
-[^key-689a3a97097d10a98bcea8d3e9b23212]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1873/article/7) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
+[^c-689a3a97097d10a98bcea8d3e9b23212]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1873/article/7) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
 
-[^key-f5f626d79c1831e04b7044f2a3a6a234]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1873/article/7) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
+[^c-f5f626d79c1831e04b7044f2a3a6a234]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1873/article/7) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
 
-[^key-f6279371352449761ef733524ceec4f6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1873/article/8) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+[^c-f6279371352449761ef733524ceec4f6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1873/article/8) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
 
-[^key-8a933b35037d8b3dd6c938cd2ec814fd]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1873/article/8) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+[^c-8a933b35037d8b3dd6c938cd2ec814fd]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1873/article/8) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
 
-[^key-f10640ce26f62200e4543546b629ef5b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/1873/article/9) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+[^c-f10640ce26f62200e4543546b629ef5b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/1873/article/9) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
 
-[^key-09bb10e10f73f19045d594e980948651]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/1873/article/9) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+[^c-09bb10e10f73f19045d594e980948651]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/1873/article/9) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
 
-[^key-fa50068e00b77ab80bf22d673d455ffd]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/1873/article/10) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
+[^c-fa50068e00b77ab80bf22d673d455ffd]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/1873/article/10) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
 
-[^key-f88fdb99ab7095ed856cf8289999cfeb]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/1873/article/10) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
+[^c-f88fdb99ab7095ed856cf8289999cfeb]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/1873/article/10) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
 
-[^key-776f6a2c8daf8503ea55f620c2f02e1f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/1873/article/11) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
+[^c-776f6a2c8daf8503ea55f620c2f02e1f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/1873/article/11) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
 
-[^key-e44666a08aca81c08315b5969d797749]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/1873/article/11) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
+[^c-e44666a08aca81c08315b5969d797749]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/1873/article/11) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
 
-[^key-03cdd1800fc7e46c6dbf5831483cb200]: Commencement: Art. 12 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
+[^c-03cdd1800fc7e46c6dbf5831483cb200]: Commencement: Art. 12 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
 
-[^key-9b24f233e0812abfa1979494f8d530a8]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2015/1873/article/12) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
+[^c-9b24f233e0812abfa1979494f8d530a8]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2015/1873/article/12) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
 
-[^key-f4fff40dc9cfe5eec4fb5da8e6ae2cd5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/1873/article/13) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+[^c-f4fff40dc9cfe5eec4fb5da8e6ae2cd5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/1873/article/13) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
 
-[^key-81e8a61cd667a54c07c690b55d6b4b43]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/1873/article/13) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+[^c-81e8a61cd667a54c07c690b55d6b4b43]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/1873/article/13) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
 
-[^key-2f996c5cacc72797e49e40351ee3d47a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1873/schedule/1) in force at 15.10.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/a)
+[^c-2f996c5cacc72797e49e40351ee3d47a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1873/schedule/1) in force at 15.10.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/a)
 
-[^key-d36f5f90f3ac49613c5d29ffd1ed0206]: Commencement: Sch. 1 in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/b)
+[^c-d36f5f90f3ac49613c5d29ffd1ed0206]: Commencement: Sch. 1 in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/b)
 
-[^key-2965f83d9734f26670fb2ab773179900]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+[^c-2965f83d9734f26670fb2ab773179900]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
 
-[^key-6e157bd726f5d46367939c9bbd990128]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+[^c-6e157bd726f5d46367939c9bbd990128]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
 
-[^key-5f7d03d4d7afd7f9ff261555e38ad056]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) Table 7 substituted (27.1.2017) by [The Hertfordshire (Electoral Changes) (Amendment) Order 2017 (S.I. 2017/76)](https://www.legislation.gov.uk/uksi/2017/76), [arts. 1](https://www.legislation.gov.uk/uksi/2017/76/article/1), [2](https://www.legislation.gov.uk/uksi/2017/76/article/2)
+[^c-5f7d03d4d7afd7f9ff261555e38ad056]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) Table 7 substituted (27.1.2017) by [The Hertfordshire (Electoral Changes) (Amendment) Order 2017 (S.I. 2017/76)](https://www.legislation.gov.uk/uksi/2017/76), [arts. 1](https://www.legislation.gov.uk/uksi/2017/76/article/1), [2](https://www.legislation.gov.uk/uksi/2017/76/article/2)

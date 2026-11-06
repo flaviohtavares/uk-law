@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Outcome of a section 26 review[^key-e82e6990923802432ca29e0dddca0a2e]
+## 27. Outcome of a section 26 review[^c-e82e6990923802432ca29e0dddca0a2e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e82e6990923802432ca29e0dddca0a2e]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/15/section/27) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-e82e6990923802432ca29e0dddca0a2e]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/15/section/27) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

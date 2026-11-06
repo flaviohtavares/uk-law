@@ -36,56 +36,56 @@ of 19 December 1991
 
 on the establishment of a Community survey of industrial production (revoked)
 
-[^key-6d139068ca6e1fa3175e884fd75fcfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d139068ca6e1fa3175e884fd75fcfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. General[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 1. General[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Survey field and characteristics[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 2. Survey field and characteristics[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Representativeness[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 3. Representativeness[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Survey periods[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 4. Survey periods[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Collection of data[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 5. Collection of data[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Processing of results[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 6. Processing of results[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transmission of results[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 7. Transmission of results[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Transitional period[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 8. Transitional period[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Committee[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 9. Committee[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Committee procedure[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 10. Committee procedure[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-6d139068ca6e1fa3175e884fd75fcfd1]
+## Article 11. Entry into force[^c-6d139068ca6e1fa3175e884fd75fcfd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d139068ca6e1fa3175e884fd75fcfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d139068ca6e1fa3175e884fd75fcfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d139068ca6e1fa3175e884fd75fcfd1]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/9)
+[^c-6d139068ca6e1fa3175e884fd75fcfd1]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/9)

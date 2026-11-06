@@ -52,71 +52,71 @@ For all other purposes
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to medicinal products, in exercise of the powers conferred by the said section 2(2), and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 1. Citation, commencement and interpretation[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Abolition of the Medicines Commission[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 2. Abolition of the Medicines Commission[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Establishment of the Commission on Human Medicines[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 3. Establishment of the Commission on Human Medicines[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of the Commission on Human Medicines[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 4. Functions of the Commission on Human Medicines[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of section 4 of the Act[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 5. Amendment of section 4 of the Act[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of section 5 of the Act[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 6. Amendment of section 5 of the Act[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Provisions relating to Commission on Human Medicines and other committees[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 7. Provisions relating to Commission on Human Medicines and other committees[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Consequential and other amendments to the Act[^key-a6618ff6ed9488a5c4abf0edcaddbf53]
+## 8. Consequential and other amendments to the Act[^c-a6618ff6ed9488a5c4abf0edcaddbf53]
 
 The amendments to the Act set out in Schedule 1 shall have effect.
 
-## 9. Consequential and other amendments to the Marketing Authorisation Regulations[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 9. Consequential and other amendments to the Marketing Authorisation Regulations[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments to other enactments[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 10. Amendments to other enactments[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 11. Revocations[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Transfer of properties, rights and liabilities[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## 12. Transfer of properties, rights and liabilities[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
@@ -136,33 +136,33 @@ Department of Health
 
 Regulation 8
 
-**1.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b52e43fad6f72a48ae3b08ac7c0221c0] (1) Section 62 of the Act (prohibition of sale, supply, or importation, of certain medicinal products) shall be amended as follows.
+**12.**[^c-b52e43fad6f72a48ae3b08ac7c0221c0] (1) Section 62 of the Act (prohibition of sale, supply, or importation, of certain medicinal products) shall be amended as follows.
 
-(2)[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (5), for “Commission” (at each place where it occurs) substitute “appropriate committee”.
 
@@ -177,37 +177,37 @@ Regulation 8
 
 .
 
-**13.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CONSEQUENTIAL AND OTHER AMENDMENTS TO THE MARKETING AUTHORISATION REGULATIONS[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## SCHEDULE 2 — CONSEQUENTIAL AND OTHER AMENDMENTS TO THE MARKETING AUTHORISATION REGULATIONS[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 Regulation 9
 
-**1.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ed1c8bf6d94dd75e868c86ec709ebb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — AMENDMENTS TO OTHER ENACTMENTS[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+## SCHEDULE 3 — AMENDMENTS TO OTHER ENACTMENTS[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 **No longer in force.**
 
 Regulation 10
 
-### 1. The House of Commons Disqualification Act 1975[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+### 1. The House of Commons Disqualification Act 1975[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Northern Ireland Assembly Disqualification Act 1975[^key-ed1c8bf6d94dd75e868c86ec709ebb54]
+### 2. The Northern Ireland Assembly Disqualification Act 1975[^c-ed1c8bf6d94dd75e868c86ec709ebb54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -233,11 +233,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-ed1c8bf6d94dd75e868c86ec709ebb54]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1094) revoked (except for reg. 8 , Sch. 1 para. 12(1)(4)(5)) (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-ed1c8bf6d94dd75e868c86ec709ebb54]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1094) revoked (except for reg. 8 , Sch. 1 para. 12(1)(4)(5)) (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-a6618ff6ed9488a5c4abf0edcaddbf53]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1094/regulation/8) in force at 30.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/1/1)
+[^c-a6618ff6ed9488a5c4abf0edcaddbf53]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1094/regulation/8) in force at 30.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/1/1)
 
-[^key-b52e43fad6f72a48ae3b08ac7c0221c0]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2005/1094/schedule/1/paragraph/12) in force at 30.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/1/1)
+[^c-b52e43fad6f72a48ae3b08ac7c0221c0]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2005/1094/schedule/1/paragraph/12) in force at 30.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/1/1)
 
 [^f00016]: Footnote: OJ L311, 28.11.2001, p.67.
 

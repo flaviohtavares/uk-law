@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Applications for authorisation[^key-f8ba2688919e5579fe6fd8a0b046c0af]
+## 3. Applications for authorisation[^c-f8ba2688919e5579fe6fd8a0b046c0af]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8ba2688919e5579fe6fd8a0b046c0af]: Commencement: Art. 3 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-f8ba2688919e5579fe6fd8a0b046c0af]: Commencement: Art. 3 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00012]: Footnote: Such an application is made under the Lloyd’s Underwriting Agents' Byelaw (No. 4 of 1984)

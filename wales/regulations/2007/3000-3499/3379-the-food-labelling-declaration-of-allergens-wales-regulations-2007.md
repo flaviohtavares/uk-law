@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food Labelling (Declaration of Allergens) (Wales) Regulations 2007 (revoked)[^key-e9c3b350aa1c3231aa3aa18a471625d4]
+The Food Labelling (Declaration of Allergens) (Wales) Regulations 2007 (revoked)[^c-e9c3b350aa1c3231aa3aa18a471625d4]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 23 December 2007
 
-[^key-e9c3b350aa1c3231aa3aa18a471625d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c3b350aa1c3231aa3aa18a471625d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-e9c3b350aa1c3231aa3aa18a471625d4]
+## 1. Title, application and commencement[^c-e9c3b350aa1c3231aa3aa18a471625d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-e9c3b350aa1c3231aa3aa18a471625d4]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-e9c3b350aa1c3231aa3aa18a471625d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c3b350aa1c3231aa3aa18a471625d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c3b350aa1c3231aa3aa18a471625d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e9c3b350aa1c3231aa3aa18a471625d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c3b350aa1c3231aa3aa18a471625d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9c3b350aa1c3231aa3aa18a471625d4]: Textual amendment: Regulations revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Wales) Regulations 2008 (S.I. 2008/1268)](https://www.legislation.gov.uk/uksi/2008/1268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1268/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2008/1268/regulation/3)
+[^c-e9c3b350aa1c3231aa3aa18a471625d4]: Textual amendment: Regulations revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Wales) Regulations 2008 (S.I. 2008/1268)](https://www.legislation.gov.uk/uksi/2008/1268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1268/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2008/1268/regulation/3)

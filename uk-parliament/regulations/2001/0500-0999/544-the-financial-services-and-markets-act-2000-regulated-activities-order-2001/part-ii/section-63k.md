@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63K. Arranging administration by authorised person[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]
+## 63K. Arranging administration by authorised person[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person who is not an authorised person does not carry on an activity of the ki
 
 ## Annotations
 
-[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]: Textual amendment: Pt. 2 Ch. 15C inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [17](https://www.legislation.gov.uk/uksi/2009/1342/article/17)
+[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]: Textual amendment: Pt. 2 Ch. 15C inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [17](https://www.legislation.gov.uk/uksi/2009/1342/article/17)

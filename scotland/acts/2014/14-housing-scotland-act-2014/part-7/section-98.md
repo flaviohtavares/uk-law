@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Registered social landlord becoming a subsidiary of another body[^key-39a889265b99f1bce078060c89f635ae]
+## 98. Registered social landlord becoming a subsidiary of another body[^c-39a889265b99f1bce078060c89f635ae]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39a889265b99f1bce078060c89f635ae]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2014/14/section/98) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/264/article/3))
+[^c-39a889265b99f1bce078060c89f635ae]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2014/14/section/98) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/264/article/3))

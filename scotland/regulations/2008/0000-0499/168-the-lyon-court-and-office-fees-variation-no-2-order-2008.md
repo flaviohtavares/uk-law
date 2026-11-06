@@ -32,7 +32,7 @@ summary: ''
 
 ARMORIAL BEARINGS, ENSIGNS AND FLAGS
 
-The Lyon Court and Office Fees (Variation) (No. 2) Order 2008 (revoked)[^key-07476eb58650ec54a2f06dabed78c36f]
+The Lyon Court and Office Fees (Variation) (No. 2) Order 2008 (revoked)[^c-07476eb58650ec54a2f06dabed78c36f]
 
 Made
 
@@ -44,27 +44,27 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1(1)
 
-[^key-07476eb58650ec54a2f06dabed78c36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07476eb58650ec54a2f06dabed78c36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-07476eb58650ec54a2f06dabed78c36f]
+## 1. Citation, commencement and interpretation[^c-07476eb58650ec54a2f06dabed78c36f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Variation of fees[^key-07476eb58650ec54a2f06dabed78c36f]
+## 2. Variation of fees[^c-07476eb58650ec54a2f06dabed78c36f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-07476eb58650ec54a2f06dabed78c36f]
+## 3.[^c-07476eb58650ec54a2f06dabed78c36f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-07476eb58650ec54a2f06dabed78c36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07476eb58650ec54a2f06dabed78c36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-07476eb58650ec54a2f06dabed78c36f]
+## SCHEDULE[^c-07476eb58650ec54a2f06dabed78c36f]
 
 Articles 2 and 3
 
@@ -72,8 +72,8 @@ Articles 2 and 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-07476eb58650ec54a2f06dabed78c36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07476eb58650ec54a2f06dabed78c36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07476eb58650ec54a2f06dabed78c36f]: Textual amendment: Order revoked (1.1.2017) by [The Lyon Court and Office Fees (Variation) (Devolved Functions) Order 2016 (S.S.I. 2016/390)](https://www.legislation.gov.uk/ssi/2016/390), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/390/article/1), [3](https://www.legislation.gov.uk/ssi/2016/390/article/3)
+[^c-07476eb58650ec54a2f06dabed78c36f]: Textual amendment: Order revoked (1.1.2017) by [The Lyon Court and Office Fees (Variation) (Devolved Functions) Order 2016 (S.S.I. 2016/390)](https://www.legislation.gov.uk/ssi/2016/390), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/390/article/1), [3](https://www.legislation.gov.uk/ssi/2016/390/article/3)

@@ -24,11 +24,11 @@ Section 129
 
 ### PART 1 — Amendments of Financial Services and Markets Act 2000
 
-**1.**[^key-4904e33c119c476e26ade74f762bbd3c] Part 16A of FSMA 2000 (consumer protection and competition) is amended as follows.
+**1.**[^c-4904e33c119c476e26ade74f762bbd3c] Part 16A of FSMA 2000 (consumer protection and competition) is amended as follows.
 
-**2.**[^key-dce3f6f87e57e7c194af7dea67a5634a] Omit section 234H (power of FCA to make request to Office of Fair Trading).
+**2.**[^c-dce3f6f87e57e7c194af7dea67a5634a] Omit section 234H (power of FCA to make request to Office of Fair Trading).
 
-**3.**[^key-a558bd0eecf581b4c905d73810458366][^key-17f2cec1f476da8102ea4c4315b47ada][^key-f876806df1a1efe09762879462f8d515] After section 234H insert—
+**3.**[^c-a558bd0eecf581b4c905d73810458366][^c-17f2cec1f476da8102ea4c4315b47ada][^c-f876806df1a1efe09762879462f8d515] After section 234H insert—
 
 > **234I. The FCA's functions under Part 4 of the Enterprise Act 2002**
 >
@@ -141,19 +141,19 @@ Section 129
 >
 > (2) No objection is to be taken to anything done under the Competition Act 1998 or Part 4 of the Enterprise Act 2002 by or in relation to the FCA on the ground that it should have been done by or in relation to the CMA.
 
-**4.**[^key-71620c4fbd0486591c15c0484d7e1597] In section 3I of FSMA 2000 (power of PRA to require FCA to refrain from specified action), in subsection (3)(a), after “55I” insert “ , a power conferred on it by sections 234I to 234M ”.
+**4.**[^c-71620c4fbd0486591c15c0484d7e1597] In section 3I of FSMA 2000 (power of PRA to require FCA to refrain from specified action), in subsection (3)(a), after “55I” insert “ , a power conferred on it by sections 234I to 234M ”.
 
-**5.**[^key-a91c4b1971c4ded3aa5ecb1a0eba5e06] In section 348 of FSMA 2000 (restrictions on disclosure of confidential information by FCA, PRA etc), after subsection (6) insert—
+**5.**[^c-a91c4b1971c4ded3aa5ecb1a0eba5e06] In section 348 of FSMA 2000 (restrictions on disclosure of confidential information by FCA, PRA etc), after subsection (6) insert—
 
 > (7) Nothing in this section applies to information received by a primary recipient for the purposes of, or in the discharge of, any functions of the FCA under the Competition Act 1998 or the Enterprise Act 2002 by virtue of Part 16A of this Act.
 >
 > (For provision about the disclosure of such information, see Part 9 of the Enterprise Act 2002.)
 
-**6.**[^key-3ce88fd4d0d49fdf7e45b8486b9fe16e] In section 354A of FSMA 2000 (FCA's duty to co-operate with others), after subsection (2) insert—
+**6.**[^c-3ce88fd4d0d49fdf7e45b8486b9fe16e] In section 354A of FSMA 2000 (FCA's duty to co-operate with others), after subsection (2) insert—
 
 > (2A) Subsection (1) does not apply in relation to the Competition and Markets Authority in a case where the FCA has made a reference under section 131 of the Enterprise Act 2002 as a result of section 234I (but see section 234L).
 
-**7.**[^key-666b407b1966f4e833c06dd92f45f05f] (1) Schedule 1ZA to FSMA 2000 (the Financial Conduct Authority) is amended as follows.
+**7.**[^c-666b407b1966f4e833c06dd92f45f05f] (1) Schedule 1ZA to FSMA 2000 (the Financial Conduct Authority) is amended as follows.
 
 (2) In paragraph 8 (arrangements for discharging functions), after sub-paragraph (4) insert—
 
@@ -167,19 +167,19 @@ Section 129
 
 #### Company Directors Disqualification Act 1986
 
-**8.**[^key-7df6ad7b779ffaa276238658f019aa6a] In section 9E of the Company Directors Disqualification Act 1986 (interpretation of sections 9A to 9D), in subsection (2), after paragraph (g) insert—
+**8.**[^c-7df6ad7b779ffaa276238658f019aa6a] In section 9E of the Company Directors Disqualification Act 1986 (interpretation of sections 9A to 9D), in subsection (2), after paragraph (g) insert—
 
 > - (h) the Financial Conduct Authority.
 
 #### Competition Act 1998
 
-**9.**[^key-c74b2b6221aef0529d85499743baf179][^key-9e6eb4b61e9aec582a85cbe2fceb6dcb] In section 54 of the Competition Act 1998 (regulators), in subsection (1), after paragraph (i) insert—
+**9.**[^c-c74b2b6221aef0529d85499743baf179][^c-9e6eb4b61e9aec582a85cbe2fceb6dcb] In section 54 of the Competition Act 1998 (regulators), in subsection (1), after paragraph (i) insert—
 
 > - (j) the Financial Conduct Authority.
 
 #### Enterprise Act 2002
 
-**10.**[^key-af7a18e25b15191fea31dd250093cde7] (1) Section 136 of the Enterprise Act 2002 (investigations and reports on market investigation references) is amended as follows.
+**10.**[^c-af7a18e25b15191fea31dd250093cde7] (1) Section 136 of the Enterprise Act 2002 (investigations and reports on market investigation references) is amended as follows.
 
 (2) In subsection (7), after paragraph (e) insert—
 
@@ -191,42 +191,42 @@ Section 129
 
 #### Enterprise and Regulatory Reform Act 2013
 
-**11.**[^key-bc0dbdd9f5370ca6ac4fd25212c35bef] In section 52(4) of the Enterprise and Regulatory Reform Act 2013 (power to remove concurrent competition functions of sectoral regulators), after paragraph (g) insert—
+**11.**[^c-bc0dbdd9f5370ca6ac4fd25212c35bef] In section 52(4) of the Enterprise and Regulatory Reform Act 2013 (power to remove concurrent competition functions of sectoral regulators), after paragraph (g) insert—
 
 > - (h) the Financial Conduct Authority.
 
-**12.**[^key-07cef307bcd6718610750708b982ed48] In Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority), in paragraph 16 (concurrency report), at the end of sub-paragraph (7) insert—
+**12.**[^c-07cef307bcd6718610750708b982ed48] In Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority), in paragraph 16 (concurrency report), at the end of sub-paragraph (7) insert—
 
 > - (i) the Financial Conduct Authority.
 
 ## Annotations
 
-[^key-4904e33c119c476e26ade74f762bbd3c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/1) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-4904e33c119c476e26ade74f762bbd3c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/1) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-dce3f6f87e57e7c194af7dea67a5634a]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/2) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-dce3f6f87e57e7c194af7dea67a5634a]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/2) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-a558bd0eecf581b4c905d73810458366]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3) in force at 1.11.2014 for specified purposes by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(aa)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/aa)[(i)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/i)
+[^c-a558bd0eecf581b4c905d73810458366]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3) in force at 1.11.2014 for specified purposes by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(aa)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/aa)[(i)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/i)
 
-[^key-17f2cec1f476da8102ea4c4315b47ada]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3) in force at 1.11.2014 for specified purposes by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(aa)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/aa)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
+[^c-17f2cec1f476da8102ea4c4315b47ada]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3) in force at 1.11.2014 for specified purposes by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(aa)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/aa)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
 
-[^key-f876806df1a1efe09762879462f8d515]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3) in force at 1.4.2015 in so far as not already in force by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-f876806df1a1efe09762879462f8d515]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3) in force at 1.4.2015 in so far as not already in force by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-71620c4fbd0486591c15c0484d7e1597]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/4) in force at 1.11.2014 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
+[^c-71620c4fbd0486591c15c0484d7e1597]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/4) in force at 1.11.2014 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
 
-[^key-a91c4b1971c4ded3aa5ecb1a0eba5e06]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/5) in force at 1.11.2014 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
+[^c-a91c4b1971c4ded3aa5ecb1a0eba5e06]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/5) in force at 1.11.2014 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
 
-[^key-3ce88fd4d0d49fdf7e45b8486b9fe16e]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/6) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-3ce88fd4d0d49fdf7e45b8486b9fe16e]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/6) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-666b407b1966f4e833c06dd92f45f05f]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/7) in force at 1.11.2014 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
+[^c-666b407b1966f4e833c06dd92f45f05f]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/7) in force at 1.11.2014 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/ii)
 
-[^key-7df6ad7b779ffaa276238658f019aa6a]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/8) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-7df6ad7b779ffaa276238658f019aa6a]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/8) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-c74b2b6221aef0529d85499743baf179]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/9) in force at 1.11.2014 for specified purposes by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(i)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/i)
+[^c-c74b2b6221aef0529d85499743baf179]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/9) in force at 1.11.2014 for specified purposes by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 2(b)(bb)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/bb)[(i)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/i)
 
-[^key-9e6eb4b61e9aec582a85cbe2fceb6dcb]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/9) in force at 1.4.2015 in so far as not already in force by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-9e6eb4b61e9aec582a85cbe2fceb6dcb]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/9) in force at 1.4.2015 in so far as not already in force by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-af7a18e25b15191fea31dd250093cde7]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/10) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-af7a18e25b15191fea31dd250093cde7]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/10) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-bc0dbdd9f5370ca6ac4fd25212c35bef]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/11) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-bc0dbdd9f5370ca6ac4fd25212c35bef]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/11) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
 
-[^key-07cef307bcd6718610750708b982ed48]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/12) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-07cef307bcd6718610750708b982ed48]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/12) in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)

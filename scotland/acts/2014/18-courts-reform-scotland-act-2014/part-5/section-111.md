@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Sheriff Appeal Court's powers of disposal in appeals[^key-ab95c938eca4c81dca442bd504da9f60]
+## 111. Sheriff Appeal Court's powers of disposal in appeals[^c-ab95c938eca4c81dca442bd504da9f60]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab95c938eca4c81dca442bd504da9f60]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2014/18/section/111) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-ab95c938eca4c81dca442bd504da9f60]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2014/18/section/111) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

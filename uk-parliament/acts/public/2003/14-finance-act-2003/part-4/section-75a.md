@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Anti-avoidance[^key-17c7a06113a1f4d4bb2656f8933a4a3b]
+## 75A. Anti-avoidance[^c-17c7a06113a1f4d4bb2656f8933a4a3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 (5) The chargeable consideration on the notional transaction mentioned in subsections (1)(c) and (4)(b) is the largest amount (or aggregate amount)—
 
 - (a) given by or on behalf of any one person by way of consideration for the scheme transactions, or
-- (b) received by or on behalf of V (or a person connected with V within the meaning of section 1122 of the Corporation Tax Act 2010[^key-18c6286e90f62fbfe419b308504d6f5b]) by way of consideration for the scheme transactions.
+- (b) received by or on behalf of V (or a person connected with V within the meaning of section 1122 of the Corporation Tax Act 2010[^c-18c6286e90f62fbfe419b308504d6f5b]) by way of consideration for the scheme transactions.
 
 (6) The effective date of the notional transaction is—
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17c7a06113a1f4d4bb2656f8933a4a3b]: Textual amendment: Ss. 75A-75C inserted (with effect in accordance with s. 71(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/1) (with [s. 71(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/3))
+[^c-17c7a06113a1f4d4bb2656f8933a4a3b]: Textual amendment: Ss. 75A-75C inserted (with effect in accordance with s. 71(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/1) (with [s. 71(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/71/3))
 
-[^key-18c6286e90f62fbfe419b308504d6f5b]: Textual amendment: Words in s. 75A(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 407](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/407) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-18c6286e90f62fbfe419b308504d6f5b]: Textual amendment: Words in s. 75A(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 407](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/407) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

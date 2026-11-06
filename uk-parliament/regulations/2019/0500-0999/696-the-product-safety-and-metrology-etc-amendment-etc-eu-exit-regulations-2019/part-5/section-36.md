@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765)[^key-78ecf41dadbf8cc6a9ab755b3fe82f4f]
+## 36. Amendment of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765)[^c-78ecf41dadbf8cc6a9ab755b3fe82f4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 33 contains amendment of Regulation [(EC) No 765/2008](https://www.legi
 
 ## Annotations
 
-[^key-78ecf41dadbf8cc6a9ab755b3fe82f4f]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-78ecf41dadbf8cc6a9ab755b3fe82f4f]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

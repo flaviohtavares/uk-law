@@ -58,33 +58,33 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 These Regulations may be cited as the Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) (EU Exit) Regulations 2018 and come into force on exit day.
 
-### 2. Interpretation[^key-f8b3da8ec3da6214bfde032f870daa80]
+### 2. Interpretation[^c-f8b3da8ec3da6214bfde032f870daa80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — The rights etc deriving from the 2005 Hague Convention[^key-d107ccb12c23264f70ce8fc40a03890c]
+## PART 2 — The rights etc deriving from the 2005 Hague Convention[^c-d107ccb12c23264f70ce8fc40a03890c]
 
 **No longer in force.**
 
-### 3. Rights etc deriving from the 2005 Hague Convention[^key-d107ccb12c23264f70ce8fc40a03890c]
+### 3. Rights etc deriving from the 2005 Hague Convention[^c-d107ccb12c23264f70ce8fc40a03890c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Choice of court agreements concluded before exit day[^key-d107ccb12c23264f70ce8fc40a03890c]
+### 4. Choice of court agreements concluded before exit day[^c-d107ccb12c23264f70ce8fc40a03890c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Choice of court agreements concluded before the 2005 Hague Convention again enters into force for the United Kingdom[^key-d107ccb12c23264f70ce8fc40a03890c]
+### 5. Choice of court agreements concluded before the 2005 Hague Convention again enters into force for the United Kingdom[^c-d107ccb12c23264f70ce8fc40a03890c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Choice of court agreements concluded after the 2005 Hague Convention again enters into force for the United Kingdom[^key-d107ccb12c23264f70ce8fc40a03890c]
+### 6. Choice of court agreements concluded after the 2005 Hague Convention again enters into force for the United Kingdom[^c-d107ccb12c23264f70ce8fc40a03890c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — ... Amendment of primary ... legislation[^key-d0517ec944c0f99c11262d3607480a36][^key-aae58ee9471509dc6e5b3bdf0ae1569d]
+## PART 3 — ... Amendment of primary ... legislation[^c-d0517ec944c0f99c11262d3607480a36][^c-aae58ee9471509dc6e5b3bdf0ae1569d]
 
-### 7. Primary and subordinate legislation referring to the 2005 Hague Convention[^key-fbfca8daf3e5106ca77eaf2488bf37b7]
+### 7. Primary and subordinate legislation referring to the 2005 Hague Convention[^c-fbfca8daf3e5106ca77eaf2488bf37b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,15 +133,15 @@ An impact assessment on the effect that this instrument will have on the costs o
 
 [^c23426161]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1124/regulation/1) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f8b3da8ec3da6214bfde032f870daa80]: Textual amendment: Reg. 2 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/2)
+[^c-f8b3da8ec3da6214bfde032f870daa80]: Textual amendment: Reg. 2 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/2)
 
-[^key-d107ccb12c23264f70ce8fc40a03890c]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2018/1124/part/2) omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/3)
+[^c-d107ccb12c23264f70ce8fc40a03890c]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2018/1124/part/2) omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/3)
 
-[^key-d0517ec944c0f99c11262d3607480a36]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1124/part/3) heading omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/4/a/i)
+[^c-d0517ec944c0f99c11262d3607480a36]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1124/part/3) heading omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/4/a/i)
 
-[^key-aae58ee9471509dc6e5b3bdf0ae1569d]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1124/part/3) heading omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/4/a/ii)
+[^c-aae58ee9471509dc6e5b3bdf0ae1569d]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1124/part/3) heading omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/4/a/ii)
 
-[^key-fbfca8daf3e5106ca77eaf2488bf37b7]: Textual amendment: Reg. 7 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/4/b)
+[^c-fbfca8daf3e5106ca77eaf2488bf37b7]: Textual amendment: Reg. 7 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/3/4/b)
 
 [^c23426231]: Commencement: Reg. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 

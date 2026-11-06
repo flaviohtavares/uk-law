@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Transitional provision in relation to the National Health Service (Injury Benefits) Regulations 1995[^key-7b23368c9ec4e5ed4e598b4a78dce967]
+## 90. Transitional provision in relation to the National Health Service (Injury Benefits) Regulations 1995[^c-7b23368c9ec4e5ed4e598b4a78dce967]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Notwithstanding the amendments made to the National Health Service (Injury Benef
 
 ## Annotations
 
-[^key-7b23368c9ec4e5ed4e598b4a78dce967]: Commencement: Art. 90 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-7b23368c9ec4e5ed4e598b4a78dce967]: Commencement: Art. 90 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

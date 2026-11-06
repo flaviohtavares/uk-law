@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### 1. Interpretation[^key-c9218ae774c2b7f658f03afa113a2131]
+### 1. Interpretation[^c-c9218ae774c2b7f658f03afa113a2131]
 
 In this Schedule—
 
@@ -38,4 +38,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-c9218ae774c2b7f658f03afa113a2131]: Commencement: Sch. 4 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-c9218ae774c2b7f658f03afa113a2131]: Commencement: Sch. 4 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

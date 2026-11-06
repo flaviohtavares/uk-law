@@ -24,7 +24,7 @@ Articles 7, 8, 33 and 55
 
 ### Apparatus of statutory undertakers, etc., on land acquired
 
-**1.**[^key-d5f44676827ed386bb5a04328755663c] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by the undertaker under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
+**1.**[^c-d5f44676827ed386bb5a04328755663c] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by the undertaker under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -46,7 +46,7 @@ shall be entitled to recover from the undertaker compensation in respect of expe
 
 ### Apparatus of statutory undertakers, etc., in stopped up streets
 
-**2.**[^key-e1944c8a73674cc51fbe04e88adfaf04] (1) Where a street is stopped up under article 8 (stopping up of streets), any statutory utility whose apparatus is under, in, upon, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-e1944c8a73674cc51fbe04e88adfaf04] (1) Where a street is stopped up under article 8 (stopping up of streets), any statutory utility whose apparatus is under, in, upon, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) Where a street is stopped up under article 8 (stopping up of streets), any statutory utility whose apparatus is under, in, upon, over, along or across the street may, and if reasonably requested to do so by the undertaker shall—
 
@@ -85,7 +85,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### Railway and navigation undertakings
 
-**3.**[^key-63f62ba9c6fa3e90cec6d1c05059b760] (1) Subject to the following provisions of this paragraph, the powers under article 7 (power to execute street works) to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the 1980 Act) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority except with the consent of the undertakers or authority.
+**3.**[^c-63f62ba9c6fa3e90cec6d1c05059b760] (1) Subject to the following provisions of this paragraph, the powers under article 7 (power to execute street works) to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the 1980 Act) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority except with the consent of the undertakers or authority.
 
 (2) Sub-paragraph (1) shall not apply to the carrying out under this Order of emergency works, within the meaning of Part 3 of the 1991 Act.
 
@@ -95,12 +95,12 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-d5f44676827ed386bb5a04328755663c]: Commencement: Sch. 9 para. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-d5f44676827ed386bb5a04328755663c]: Commencement: Sch. 9 para. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00036]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00037]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-e1944c8a73674cc51fbe04e88adfaf04]: Commencement: Sch. 9 para. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-e1944c8a73674cc51fbe04e88adfaf04]: Commencement: Sch. 9 para. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-63f62ba9c6fa3e90cec6d1c05059b760]: Commencement: Sch. 9 para. 3 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-63f62ba9c6fa3e90cec6d1c05059b760]: Commencement: Sch. 9 para. 3 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

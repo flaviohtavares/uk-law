@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32T. Relevant permanent sites: breach of licence conditions[^key-231a426d5264589732293766d9299b57]
+## 32T. Relevant permanent sites: breach of licence conditions[^c-231a426d5264589732293766d9299b57]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-231a426d5264589732293766d9299b57]: Textual amendment: Ss. 32R-32T and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 74](https://www.legislation.gov.uk/asp/2014/14/section/74), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-231a426d5264589732293766d9299b57]: Textual amendment: Ss. 32R-32T and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 74](https://www.legislation.gov.uk/asp/2014/14/section/74), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

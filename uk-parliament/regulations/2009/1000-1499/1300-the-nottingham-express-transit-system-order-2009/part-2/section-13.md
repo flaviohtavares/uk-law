@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Access to works[^key-267b1ae2d522468a88a55703454ba0ff]
+## 13. Access to works[^c-267b1ae2d522468a88a55703454ba0ff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The promoter may, for the purposes of the construction, operation or maintenance
 
 ## Annotations
 
-[^key-267b1ae2d522468a88a55703454ba0ff]: Commencement: Art. 13 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-267b1ae2d522468a88a55703454ba0ff]: Commencement: Art. 13 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

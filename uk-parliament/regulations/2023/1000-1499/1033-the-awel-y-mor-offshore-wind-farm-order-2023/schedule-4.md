@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Rights of way to be temporarily stopped up or restricted[^key-44e566021bcd08c5ccc484ef8fda89b3]
+## SCHEDULE 4 — Rights of way to be temporarily stopped up or restricted[^c-44e566021bcd08c5ccc484ef8fda89b3]
 
 *Extent: E+W*
 
 Article 11
 
-[^key-44e566021bcd08c5ccc484ef8fda89b3]
+[^c-44e566021bcd08c5ccc484ef8fda89b3]
 
 In the County of Denbighshire:
 
@@ -46,4 +46,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-44e566021bcd08c5ccc484ef8fda89b3]: Commencement: Sch. 4 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-44e566021bcd08c5ccc484ef8fda89b3]: Commencement: Sch. 4 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

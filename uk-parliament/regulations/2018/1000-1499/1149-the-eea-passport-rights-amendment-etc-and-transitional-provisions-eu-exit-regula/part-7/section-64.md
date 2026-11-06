@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Disapplication of supervision, etc., requirements[^key-b5f78a3d74a4b31a6b80bf62ba4b642c]
+## 64. Disapplication of supervision, etc., requirements[^c-b5f78a3d74a4b31a6b80bf62ba4b642c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 1L(2) and (3) of the 2000 Act (supervision, monitoring and enforcement) 
 
 ## Annotations
 
-[^key-b5f78a3d74a4b31a6b80bf62ba4b642c]: Textual amendment: Pt. 7 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3)
+[^c-b5f78a3d74a4b31a6b80bf62ba4b642c]: Textual amendment: Pt. 7 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3)

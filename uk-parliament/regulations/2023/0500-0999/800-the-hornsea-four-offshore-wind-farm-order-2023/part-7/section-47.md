@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Service of notices[^key-02636bb6fe285e7b0bd3bc9e66283ce6]
+## 47. Service of notices[^c-02636bb6fe285e7b0bd3bc9e66283ce6]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) For the purposes of section 7 of the Interpretation Act 1978[^f00046] (references to service by post) as it applies for the purposes of this article, the proper address of any person in relation to the service on that person of a notice or document under paragraph (1) is, if that person has given an address for service, that address and otherwise—
 
-- (a) in the case of the secretary or[^key-662aa733fa8eba1b47a8801665055f1e] clerk of that body corporate, the registered or principal office of that body; and
+- (a) in the case of the secretary or[^c-662aa733fa8eba1b47a8801665055f1e] clerk of that body corporate, the registered or principal office of that body; and
 - (b) in any other case, the last known address of that person at that time of service.
 
 (4) Where for the purposes of this Order a notice or other document is required or authorised to be served on a person as having an interest in, or as the occupier of, land and the name or address of that person cannot be ascertained after reasonable enquiry, the notice may be served by—
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-02636bb6fe285e7b0bd3bc9e66283ce6]: Commencement: Art. 47 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-02636bb6fe285e7b0bd3bc9e66283ce6]: Commencement: Art. 47 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
 [^f00046]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). Section 7 was amended by paragraph 19 of Schedule 10 to the Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-662aa733fa8eba1b47a8801665055f1e]: Textual amendment: Words in art. 47(3)(a) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-662aa733fa8eba1b47a8801665055f1e]: Textual amendment: Words in art. 47(3)(a) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

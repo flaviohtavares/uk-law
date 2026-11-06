@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Grant of full certificate where other civil partner consents after interim certificate issued[^key-e0e27abb4038aa8ca0bb777944762210]
+## 27. Grant of full certificate where other civil partner consents after interim certificate issued[^c-e0e27abb4038aa8ca0bb777944762210]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the italic heading before section 4A, after “married” insert “or a civi
 
 ## Annotations
 
-[^key-e0e27abb4038aa8ca0bb777944762210]: Commencement: Reg. 27 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-e0e27abb4038aa8ca0bb777944762210]: Commencement: Reg. 27 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)

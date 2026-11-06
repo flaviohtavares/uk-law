@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14B. Determination of code in respect of high income child benefit charge[^key-41722f67cfd13899f8dcebc4f49b1198]
+## 14B. Determination of code in respect of high income child benefit charge[^c-41722f67cfd13899f8dcebc4f49b1198]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ HMRC may determine a code, if and to the extent that the payee does not object, 
 
 ## Annotations
 
-[^key-41722f67cfd13899f8dcebc4f49b1198]: Textual amendment: [Reg. 14B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14B) inserted (with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/521/regulation/3)
+[^c-41722f67cfd13899f8dcebc4f49b1198]: Textual amendment: [Reg. 14B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14B) inserted (with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/521/regulation/3)

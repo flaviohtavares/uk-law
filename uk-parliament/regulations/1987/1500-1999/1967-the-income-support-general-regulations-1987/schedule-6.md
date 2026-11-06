@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 20(2) paragraph 5 of Schedule 5
 
-### ...[^key-8bfac3afe59ff51056fc82847d7d4a63]
+### ...[^c-8bfac3afe59ff51056fc82847d7d4a63]
 
 |  |
 | --- |
 
 ## Annotations
 
-[^key-8bfac3afe59ff51056fc82847d7d4a63]: Textual amendment: Sch. 6 omitted (10.4.1989) by virtue of [The Income Support (General) Amendment No. 4 Regulations 1988 (S.I. 1988/1445)](https://www.legislation.gov.uk/uksi/1988/1445), [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1988/1445/regulation/1/1/c), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1988/1445/schedule/1/paragraph/10) (with [reg. 28](https://www.legislation.gov.uk/uksi/1988/1445/regulation/28))
+[^c-8bfac3afe59ff51056fc82847d7d4a63]: Textual amendment: Sch. 6 omitted (10.4.1989) by virtue of [The Income Support (General) Amendment No. 4 Regulations 1988 (S.I. 1988/1445)](https://www.legislation.gov.uk/uksi/1988/1445), [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1988/1445/regulation/1/1/c), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1988/1445/schedule/1/paragraph/10) (with [reg. 28](https://www.legislation.gov.uk/uksi/1988/1445/regulation/28))

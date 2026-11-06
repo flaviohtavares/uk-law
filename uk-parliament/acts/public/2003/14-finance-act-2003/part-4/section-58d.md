@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58D. Transfers involving multiple dwellings[^key-e3b1b511876edd8be33d18c16df1e3f9]
+## 58D. Transfers involving multiple dwellings[^c-e3b1b511876edd8be33d18c16df1e3f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b1b511876edd8be33d18c16df1e3f9]: Textual amendment: S. 58D inserted (with effect in accordance with Sch. 22 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/22/paragraph/2)
+[^c-e3b1b511876edd8be33d18c16df1e3f9]: Textual amendment: S. 58D inserted (with effect in accordance with Sch. 22 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/22/paragraph/2)

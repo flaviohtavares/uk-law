@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Bovine Products (Restriction on Placing on the Market) (Wales) (No.2) Regulations 2005 (revoked)[^key-4efea162c9bb9f96795f8f3d9544797d]
+The Bovine Products (Restriction on Placing on the Market) (Wales) (No.2) Regulations 2005 (revoked)[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 Made
 
@@ -41,62 +41,62 @@ Coming into force
 
 1 January 2006
 
-[^key-4efea162c9bb9f96795f8f3d9544797d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4efea162c9bb9f96795f8f3d9544797d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 1. Title, application and commencement[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 2. Interpretation[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on placing on the market of certain products derived from older bovine animals[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 3. Prohibition on placing on the market of certain products derived from older bovine animals[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of various provisions of the Food Safety Act 1990[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 4. Application of various provisions of the Food Safety Act 1990[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Inspection and seizure of suspected products[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 5. Inspection and seizure of suspected products[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 6. Offences and penalties[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 7. Enforcement[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Animal By-Products (Identification) Regulations 1995[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 8. Amendment of the Animal By-Products (Identification) Regulations 1995[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation[^key-4efea162c9bb9f96795f8f3d9544797d]
+## 9. Revocation[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4efea162c9bb9f96795f8f3d9544797d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4efea162c9bb9f96795f8f3d9544797d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^key-4efea162c9bb9f96795f8f3d9544797d]
+## THE SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 Regulation 2(1)
 
-[^key-4efea162c9bb9f96795f8f3d9544797d]
+[^c-4efea162c9bb9f96795f8f3d9544797d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4efea162c9bb9f96795f8f3d9544797d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4efea162c9bb9f96795f8f3d9544797d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4efea162c9bb9f96795f8f3d9544797d]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1/c), [21(b)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21/b)
+[^c-4efea162c9bb9f96795f8f3d9544797d]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1/c), [21(b)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21/b)

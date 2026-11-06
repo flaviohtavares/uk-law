@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Regulations[^key-f1c61a726dbbf5e9fed948ec95459976]
+## 36A. Regulations[^c-f1c61a726dbbf5e9fed948ec95459976]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c61a726dbbf5e9fed948ec95459976]: Textual amendment: Pt. 2A inserted (1.10.2010 for specified purposes) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/35/1), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-f1c61a726dbbf5e9fed948ec95459976]: Textual amendment: Pt. 2A inserted (1.10.2010 for specified purposes) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/35/1), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

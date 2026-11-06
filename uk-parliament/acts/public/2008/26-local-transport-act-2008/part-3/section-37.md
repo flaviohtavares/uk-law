@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Variation or revocation of scheme[^key-5c684d948c00d0fc996769cce883affb]
+## 37. Variation or revocation of scheme[^c-5c684d948c00d0fc996769cce883affb]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c684d948c00d0fc996769cce883affb]: Commencement: S. 37 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-5c684d948c00d0fc996769cce883affb]: Commencement: S. 37 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Council executives[^key-a8e3818f02a1c6254a4d3a54e2be597c]
+## 21. Council executives[^c-a8e3818f02a1c6254a4d3a54e2be597c]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e3818f02a1c6254a4d3a54e2be597c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2014/8/section/21) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-a8e3818f02a1c6254a4d3a54e2be597c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2014/8/section/21) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

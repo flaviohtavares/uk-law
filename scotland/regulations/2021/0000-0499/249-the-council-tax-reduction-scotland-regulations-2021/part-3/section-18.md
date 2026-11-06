@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Temporary absence from Great Britain[^key-e201863c501ed980b155835f276517e6]
+## 18. Temporary absence from Great Britain[^c-e201863c501ed980b155835f276517e6]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e201863c501ed980b155835f276517e6]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/249/regulation/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-e201863c501ed980b155835f276517e6]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/249/regulation/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Determination of applications[^key-bfa3723e401d39399739cbe9a30bf50c]
+## 36. Determination of applications[^c-bfa3723e401d39399739cbe9a30bf50c]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfa3723e401d39399739cbe9a30bf50c]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2021/15/section/36) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-bfa3723e401d39399739cbe9a30bf50c]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2021/15/section/36) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

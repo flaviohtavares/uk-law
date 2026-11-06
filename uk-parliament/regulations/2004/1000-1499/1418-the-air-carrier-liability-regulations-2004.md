@@ -50,7 +50,7 @@ The Secretary of State for Transport, being a Minister designated [^c5241731] fo
 
 These Regulations may be cited as the Air Carrier Liability Regulations 2004 and shall come into force on 28th June 2004.
 
-## 2. Interpretation[^key-34acf2f94be8fd684da656946d8fc1b3]
+## 2. Interpretation[^c-34acf2f94be8fd684da656946d8fc1b3]
 
 In these Regulations—
 
@@ -59,7 +59,7 @@ In these Regulations—
 
 ## 3. Enforcement of Articles 3a and 6 of the Council Regulation
 
-(1) A UK air carrier[^key-9252a9fada5ab850a6d8d97eedd45323] that fails to make available the tariff required by Article 3a of the Council Regulation shall be guilty of an offence unless it proves that the failure to do so occurred without its consent or connivance and that it exercised all due diligence to prevent the failure.
+(1) A UK air carrier[^c-9252a9fada5ab850a6d8d97eedd45323] that fails to make available the tariff required by Article 3a of the Council Regulation shall be guilty of an offence unless it proves that the failure to do so occurred without its consent or connivance and that it exercised all due diligence to prevent the failure.
 
 (2) An air carrier that fails to comply with the requirements imposed on it by paragraphs 1 or 2 of Article 6 of the Council Regulation shall be guilty of an offence unless it proves that the failure to do so occurred without its consent or connivance and that it exercised all due diligence to prevent the failure.
 
@@ -67,7 +67,7 @@ In these Regulations—
 
 (1) A person guilty of an offence under these Regulations shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-0efb78547b161fbf5c576a92db104843], and
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-0efb78547b161fbf5c576a92db104843], and
 - (b) on conviction on indictment, to a fine.
 
 (2) Where an offence under these Regulations has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate or any such person who was purporting to act in such capacity, he, as well as the body corporate, shall be guilty of an offence and be liable to be proceeded against and punished accordingly.
@@ -117,11 +117,11 @@ It revokes the Air Carrier Liability Order 1998. (Article 6)
 
 [^c5241741]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-34acf2f94be8fd684da656946d8fc1b3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1418/regulation/2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34acf2f94be8fd684da656946d8fc1b3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1418/regulation/2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9252a9fada5ab850a6d8d97eedd45323]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1418/regulation/3/1) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9252a9fada5ab850a6d8d97eedd45323]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1418/regulation/3/1) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0efb78547b161fbf5c576a92db104843]: Textual amendment: Words in reg. 4 substituted (23.8.2004) by [The Air Carrier Liability (No. 2) Regulations 2004 (S.I. 2004/1974)](https://www.legislation.gov.uk/uksi/2004/1974), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1974/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/1974/regulation/3)
+[^c-0efb78547b161fbf5c576a92db104843]: Textual amendment: Words in reg. 4 substituted (23.8.2004) by [The Air Carrier Liability (No. 2) Regulations 2004 (S.I. 2004/1974)](https://www.legislation.gov.uk/uksi/2004/1974), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1974/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/1974/regulation/3)
 
 [^c5241761]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27). The definition of “the Council Regulation” in section 14 of the Carriage by Air Act 1961 was inserted by [S.I. 1998/1751](https://www.legislation.gov.uk/uksi/1998/1751) and revised by [S.I. 2002/263](https://www.legislation.gov.uk/uksi/2002/263).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Quorum at meeting of creditors[^key-c97f820fbac2ac97a6d0d82f5964a561]
+## 157. Quorum at meeting of creditors[^c-c97f820fbac2ac97a6d0d82f5964a561]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the meeting shall not commence until at least the expiry of 15 minutes after the
 
 ## Annotations
 
-[^key-c97f820fbac2ac97a6d0d82f5964a561]: Commencement: Rule 157 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-c97f820fbac2ac97a6d0d82f5964a561]: Commencement: Rule 157 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

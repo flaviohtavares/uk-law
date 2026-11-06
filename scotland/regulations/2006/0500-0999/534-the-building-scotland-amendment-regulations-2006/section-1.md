@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-2fb04da49253501a3c5b942bc0022183]
+## 1. Citation and commencement[^c-2fb04da49253501a3c5b942bc0022183]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ These Regulations may be cited as the Building (Scotland) Amendment Regulations 
 
 ## Annotations
 
-[^key-2fb04da49253501a3c5b942bc0022183]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)
+[^c-2fb04da49253501a3c5b942bc0022183]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)

@@ -34,7 +34,7 @@ This Statutory Instrument rectifies omissions in [S.I. 2016/378](https://www.leg
 
 United Nations
 
-The North Korea and Iran (United Nations Sanctions) (Amendment) Order 2016 (revoked)[^key-8408a87e31df936b4e037ef12e3808f9]
+The North Korea and Iran (United Nations Sanctions) (Amendment) Order 2016 (revoked)[^c-8408a87e31df936b4e037ef12e3808f9]
 
 Made
 
@@ -48,61 +48,61 @@ Coming into force
 
 14th December 2016
 
-[^key-8408a87e31df936b4e037ef12e3808f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8408a87e31df936b4e037ef12e3808f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-8408a87e31df936b4e037ef12e3808f9]
+## 1. Citation, commencement, interpretation and extent[^c-8408a87e31df936b4e037ef12e3808f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the North Korea Order[^key-8408a87e31df936b4e037ef12e3808f9]
+## 2. Amendment of the North Korea Order[^c-8408a87e31df936b4e037ef12e3808f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of the Iran Order[^key-8408a87e31df936b4e037ef12e3808f9]
+## 20. Amendment of the Iran Order[^c-8408a87e31df936b4e037ef12e3808f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-8408a87e31df936b4e037ef12e3808f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8408a87e31df936b4e037ef12e3808f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8408a87e31df936b4e037ef12e3808f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -110,4 +110,4 @@ Coming into force
 
 ## Annotations
 
-[^key-8408a87e31df936b4e037ef12e3808f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1119) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(g)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/g); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-8408a87e31df936b4e037ef12e3808f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1119) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(g)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/g); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

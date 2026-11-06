@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Requirements for voluntary provision and agreement[^key-bbab064b2aa379156b9647ef2d42325d][^key-9bdd4f0d77eba36f140feb042cb38cfe]
+## 39. Requirements for voluntary provision and agreement[^c-bbab064b2aa379156b9647ef2d42325d][^c-9bdd4f0d77eba36f140feb042cb38cfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ only if the requirements of this section have been met.
 
 ## Annotations
 
-[^key-bbab064b2aa379156b9647ef2d42325d]: Commencement: S. 39 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-bbab064b2aa379156b9647ef2d42325d]: Commencement: S. 39 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9bdd4f0d77eba36f140feb042cb38cfe]: Commencement: S. 39 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/c)
+[^c-9bdd4f0d77eba36f140feb042cb38cfe]: Commencement: S. 39 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/c)

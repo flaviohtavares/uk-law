@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Contribution orders[^key-8707d3cfcb13b33efb0fa3e87fb77d3c]
+## 48. Contribution orders[^c-8707d3cfcb13b33efb0fa3e87fb77d3c]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8707d3cfcb13b33efb0fa3e87fb77d3c]: Commencement: S. 48 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-8707d3cfcb13b33efb0fa3e87fb77d3c]: Commencement: S. 48 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

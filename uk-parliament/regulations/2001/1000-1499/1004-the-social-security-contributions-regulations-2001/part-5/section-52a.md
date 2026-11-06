@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Return of contributions paid in excess of maxima prescribed in regulation 21[^key-eb145fb2591ccc98bfad047f0c3e1772]
+## 52A. Return of contributions paid in excess of maxima prescribed in regulation 21[^c-eb145fb2591ccc98bfad047f0c3e1772]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ This regulation is subject to regulations 51, 52 and 57.
 
 (2) If this regulation applies, an application may be made to the Board, in writing or in such form and by such means of electronic communications as may be approved for the return of so much of the payment of contributions as exceeds the maximum determined in accordance with regulation 21 in the particular case.
 
-(3) On the making of an application under paragraph (2) the Board shall, subject to the following provisions of this regulation, return so much of the contributions actually paid by the earner[^key-548184b5d29d95340cbb443eda0ad162] as exceeds the maximum determined in accordance with regulation 21 in the particular case.
+(3) On the making of an application under paragraph (2) the Board shall, subject to the following provisions of this regulation, return so much of the contributions actually paid by the earner[^c-548184b5d29d95340cbb443eda0ad162] as exceeds the maximum determined in accordance with regulation 21 in the particular case.
 
 (4) Paragraph (3) does not require the return of—
 
@@ -37,15 +37,15 @@ This regulation is subject to regulations 51, 52 and 57.
 
 - (a) primary Class 1 contributions at the reduced rate;
 - (b) Class 2 contributions;
-- (c) primary Class 1 contributions at the main primary percentage.[^key-e2b5acffe1e3d7e5582de36dd16d7e13]
-- (d)[^key-190031649f665d883ed66d240ba12c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-190031649f665d883ed66d240ba12c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) primary Class 1 contributions at the main primary percentage.[^c-e2b5acffe1e3d7e5582de36dd16d7e13]
+- (d)[^c-190031649f665d883ed66d240ba12c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-190031649f665d883ed66d240ba12c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-5e4f4e856065e8e3904118c49efaecf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5e4f4e856065e8e3904118c49efaecf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-5e4f4e856065e8e3904118c49efaecf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5e4f4e856065e8e3904118c49efaecf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-5e4f4e856065e8e3904118c49efaecf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5e4f4e856065e8e3904118c49efaecf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Contributions paid by a secondary contributor on behalf of any person in excess of the amount specified in regulation 21—
 
@@ -56,12 +56,12 @@ This regulation is subject to regulations 51, 52 and 57.
 
 ## Annotations
 
-[^key-eb145fb2591ccc98bfad047f0c3e1772]: Textual amendment: Regs. 52 52A substituted for reg. 52 (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2004/770/regulation/12)
+[^c-eb145fb2591ccc98bfad047f0c3e1772]: Textual amendment: Regs. 52 52A substituted for reg. 52 (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2004/770/regulation/12)
 
-[^key-548184b5d29d95340cbb443eda0ad162]: Textual amendment: Words in reg. 52A(3) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/a) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-548184b5d29d95340cbb443eda0ad162]: Textual amendment: Words in reg. 52A(3) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/a) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
 
-[^key-e2b5acffe1e3d7e5582de36dd16d7e13]: Textual amendment: Reg. 52A(5)(c) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-e2b5acffe1e3d7e5582de36dd16d7e13]: Textual amendment: Reg. 52A(5)(c) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
 
-[^key-190031649f665d883ed66d240ba12c8c]: Textual amendment: Reg. 52A(5)(d)(e) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/c) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-190031649f665d883ed66d240ba12c8c]: Textual amendment: Reg. 52A(5)(d)(e) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/c) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
 
-[^key-5e4f4e856065e8e3904118c49efaecf9]: Textual amendment: [Regs. 52A(6)-(8)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/52A/6) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/d) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-5e4f4e856065e8e3904118c49efaecf9]: Textual amendment: [Regs. 52A(6)-(8)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/52A/6) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2016/352/regulation/13/d) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))

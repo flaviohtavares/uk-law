@@ -136,15 +136,15 @@ Sections 334, 336 and 338.
 
 **18.** Omit Schedule 3 (supplementary provisions about authorisation).
 
-### Part IV — Industrial and Provident Societies[^key-652362cc236cb91b203a2652eb09a908]
+### Part IV — Industrial and Provident Societies[^c-652362cc236cb91b203a2652eb09a908]
 
 **No longer in force.**
 
-#### The Industrial and Provident Societies Act 1965 (c.12)[^key-652362cc236cb91b203a2652eb09a908]
+#### The Industrial and Provident Societies Act 1965 (c.12)[^c-652362cc236cb91b203a2652eb09a908]
 
-**19.**[^key-652362cc236cb91b203a2652eb09a908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-652362cc236cb91b203a2652eb09a908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-652362cc236cb91b203a2652eb09a908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-652362cc236cb91b203a2652eb09a908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part V — Credit Unions
 
@@ -166,4 +166,4 @@ Sections 334, 336 and 338.
 
 [^c1709972]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-652362cc236cb91b203a2652eb09a908]: Textual amendment: [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/8/schedule/18/part/IV) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-652362cc236cb91b203a2652eb09a908]: Textual amendment: [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/8/schedule/18/part/IV) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

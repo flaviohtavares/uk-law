@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Deemed licences under Marine and Coastal Access Act 2009[^key-192deb5224b0725e7878642985d999aa]
+## 39. Deemed licences under Marine and Coastal Access Act 2009[^c-192deb5224b0725e7878642985d999aa]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ The following marine licences set out in Schedules 8 to 11 are deemed to have be
 
 ## Annotations
 
-[^key-192deb5224b0725e7878642985d999aa]: Commencement: Art. 39 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-192deb5224b0725e7878642985d999aa]: Commencement: Art. 39 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Class 4 contributions: partnerships[^key-768ab33fd4f4f654df760033bbe93898]
+## 18A. Class 4 contributions: partnerships[^c-768ab33fd4f4f654df760033bbe93898]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ as they consider appropriate to take account of the passing or making of a provi
 
 ## Annotations
 
-[^key-768ab33fd4f4f654df760033bbe93898]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/ukpga/1992/4/section/18A) inserted (13.5.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2014/7/section/13/2)[(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/13/7)
+[^c-768ab33fd4f4f654df760033bbe93898]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/ukpga/1992/4/section/18A) inserted (13.5.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2014/7/section/13/2)[(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/13/7)

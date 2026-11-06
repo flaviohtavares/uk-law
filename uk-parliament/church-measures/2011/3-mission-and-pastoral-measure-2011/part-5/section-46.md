@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 46. Provisions as to patronage[^key-f89b08242bbbec7d6a33c6421ca99c1f]
+## 46. Provisions as to patronage[^c-f89b08242bbbec7d6a33c6421ca99c1f]
 
 *Extent: E*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f89b08242bbbec7d6a33c6421ca99c1f]: Commencement: S. 46 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-f89b08242bbbec7d6a33c6421ca99c1f]: Commencement: S. 46 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

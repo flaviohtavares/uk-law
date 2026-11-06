@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Substitution of regulation 3[^key-9ae5e02cf8915acf4ae0713435c8285c]
+## 4. Substitution of regulation 3[^c-9ae5e02cf8915acf4ae0713435c8285c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ For regulation 3 (conditions: introductory), substitute—
 
 ## Annotations
 
-[^key-9ae5e02cf8915acf4ae0713435c8285c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/364/regulation/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-9ae5e02cf8915acf4ae0713435c8285c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/364/regulation/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

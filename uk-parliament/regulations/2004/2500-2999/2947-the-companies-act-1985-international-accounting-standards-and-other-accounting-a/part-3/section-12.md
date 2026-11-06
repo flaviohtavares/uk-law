@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Participating interest no longer required to be subsidiary undertaking[^key-da93fa67368a274e7bcc0496f04d83e7]
+## 12. Participating interest no longer required to be subsidiary undertaking[^c-da93fa67368a274e7bcc0496f04d83e7]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-da93fa67368a274e7bcc0496f04d83e7]: Commencement: Reg. 12 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-da93fa67368a274e7bcc0496f04d83e7]: Commencement: Reg. 12 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00011]: Footnote: Section 258 was substituted by section 21(1) of the Companies Act 1989.
 

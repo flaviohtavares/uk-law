@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Ukraine (European Union Financial Sanctions) (No.3) (Amendment No.2) Regulations 2014 (revoked)[^key-cd8726cfe8b8ebdb20cda8e105af8fe9]
+The Ukraine (European Union Financial Sanctions) (No.3) (Amendment No.2) Regulations 2014 (revoked)[^c-cd8726cfe8b8ebdb20cda8e105af8fe9]
 
 Made
 
@@ -46,21 +46,21 @@ Coming into force
 
 at 4.30 p.m. on 8th December 2014
 
-[^key-cd8726cfe8b8ebdb20cda8e105af8fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd8726cfe8b8ebdb20cda8e105af8fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cd8726cfe8b8ebdb20cda8e105af8fe9]
+## 1. Citation and commencement[^c-cd8726cfe8b8ebdb20cda8e105af8fe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Ukraine (European Union Financial Sanctions) (No.3) Regulations 2014[^key-cd8726cfe8b8ebdb20cda8e105af8fe9]
+## 2. Amendments to the Ukraine (European Union Financial Sanctions) (No.3) Regulations 2014[^c-cd8726cfe8b8ebdb20cda8e105af8fe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cd8726cfe8b8ebdb20cda8e105af8fe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cd8726cfe8b8ebdb20cda8e105af8fe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd8726cfe8b8ebdb20cda8e105af8fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd8726cfe8b8ebdb20cda8e105af8fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -68,4 +68,4 @@ at 4.30 p.m. on 8th December 2014
 
 ## Annotations
 
-[^key-cd8726cfe8b8ebdb20cda8e105af8fe9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3230) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [13(f)](https://www.legislation.gov.uk/uksi/2020/590/regulation/13/f); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-cd8726cfe8b8ebdb20cda8e105af8fe9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3230) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [13(f)](https://www.legislation.gov.uk/uksi/2020/590/regulation/13/f); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

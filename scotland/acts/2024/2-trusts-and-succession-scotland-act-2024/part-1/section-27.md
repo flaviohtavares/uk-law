@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Apportionment: disapplication of certain rules[^key-bb29295044ec89a289019d80532749f6]
+## 27. Apportionment: disapplication of certain rules[^c-bb29295044ec89a289019d80532749f6]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb29295044ec89a289019d80532749f6]: Commencement: S. 27 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-bb29295044ec89a289019d80532749f6]: Commencement: S. 27 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

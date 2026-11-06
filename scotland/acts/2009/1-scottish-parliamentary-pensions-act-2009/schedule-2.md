@@ -56,7 +56,7 @@ summary: ''
 
   where “A” is the number of complete continuous years for which the individual has been an MSP (up to a maximum of 12).
 
-(2) When determining “A”, any period during which the individual to whom the grant is payable was a dual mandate MSP is to be reduced by the same proportion as the individual's MSP salary was reduced during that period by virtue of section 82[^key-e69f04b84db8f5715bf24adddf43c185] of the Scotland Act 1998 (c. 46)).
+(2) When determining “A”, any period during which the individual to whom the grant is payable was a dual mandate MSP is to be reduced by the same proportion as the individual's MSP salary was reduced during that period by virtue of section 82[^c-e69f04b84db8f5715bf24adddf43c185] of the Scotland Act 1998 (c. 46)).
 
 (3) Sub-paragraph (2) does not apply in relation to any period—
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e69f04b84db8f5715bf24adddf43c185]: Textual amendment: Word in sch. 2 para. 3(2) substituted (20.3.2026) by [The Scottish Elections (Representation and Reform) Act 2025 (Consequential Provision) Regulations 2026 (S.S.I. 2026/151)](https://www.legislation.gov.uk/ssi/2026/151), [regs. 1](https://www.legislation.gov.uk/ssi/2026/151/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/151/regulation/2/3)
+[^c-e69f04b84db8f5715bf24adddf43c185]: Textual amendment: Word in sch. 2 para. 3(2) substituted (20.3.2026) by [The Scottish Elections (Representation and Reform) Act 2025 (Consequential Provision) Regulations 2026 (S.S.I. 2026/151)](https://www.legislation.gov.uk/ssi/2026/151), [regs. 1](https://www.legislation.gov.uk/ssi/2026/151/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/151/regulation/2/3)

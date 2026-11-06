@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304. Amendment of Article 11a of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-baaa42c3bf53307864d5d838ef9e093d]
+## 304. Amendment of Article 11a of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-baaa42c3bf53307864d5d838ef9e093d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baaa42c3bf53307864d5d838ef9e093d]: Textual amendment: Reg. 304 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [32](https://www.legislation.gov.uk/uksi/2020/1116/regulation/32)
+[^c-baaa42c3bf53307864d5d838ef9e093d]: Textual amendment: Reg. 304 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [32](https://www.legislation.gov.uk/uksi/2020/1116/regulation/32)

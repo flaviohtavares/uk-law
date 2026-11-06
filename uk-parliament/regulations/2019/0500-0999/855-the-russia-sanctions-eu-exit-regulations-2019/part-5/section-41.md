@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Supply and delivery of energy-related goods[^key-382c756a683275e2960ca732d3401919]
+## 41. Supply and delivery of energy-related goods[^c-382c756a683275e2960ca732d3401919]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-382c756a683275e2960ca732d3401919]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/855/regulation/41) substituted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/850/regulation/5)
+[^c-382c756a683275e2960ca732d3401919]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/855/regulation/41) substituted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/850/regulation/5)

@@ -22,7 +22,7 @@ summary: ''
 
 1. Tangible assets within the meaning of item 10 under the heading 'Assets' in Article 4 of Directive 86/635/EEC shall be assigned a risk weight of 100 %.
 
-2. Prepayments and accrued income for which an institution is unable to determine the counterparty in accordance with Directive[^key-fa6b8af559efb4e9e2c7bc0d4df3ce66] [86/635/EEC](https://www.legislation.gov.uk/eudr/1986/635) UK law, shall be assigned a risk weight of 100 %.
+2. Prepayments and accrued income for which an institution is unable to determine the counterparty in accordance with Directive[^c-fa6b8af559efb4e9e2c7bc0d4df3ce66] [86/635/EEC](https://www.legislation.gov.uk/eudr/1986/635) UK law, shall be assigned a risk weight of 100 %.
 
 3. Cash items in the process of collection shall be assigned a 20 % risk weight. Cash in hand and equivalent cash items shall be assigned a 0 % risk weight.
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-fa6b8af559efb4e9e2c7bc0d4df3ce66]: Textual amendment: Words in [Art. 134(2)](https://www.legislation.gov.uk/eur/2013/575/article/134/2) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [125](https://www.legislation.gov.uk/uksi/2018/1401/regulation/125) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa6b8af559efb4e9e2c7bc0d4df3ce66]: Textual amendment: Words in [Art. 134(2)](https://www.legislation.gov.uk/eur/2013/575/article/134/2) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [125](https://www.legislation.gov.uk/uksi/2018/1401/regulation/125) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Substituted by [Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms](https://www.legislation.gov.uk/eur/2017/2401).

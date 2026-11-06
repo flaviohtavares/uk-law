@@ -29,7 +29,7 @@ In this Schedule—
 - “**AP beneficiary**” means—
   - (a) in the case of an election under paragraph 2(1), the person who makes the election, and
   - (b) in the case of an election under paragraph 2(2) or (3), the employee or former employee for whose benefit the election is made;
-- “**dependant's election**” means an election under paragraph 2, the notice of which states (in accordance with sub-paragraph (5)(b) of that paragraph) that the election is for an additional pension for both the AP beneficiary and the AP beneficiary's spouse, civil partner, surviving qualifying partner[^key-91d06ea3547e91271440ad9ca45506f1] or surviving nominated beneficiary;
+- “**dependant's election**” means an election under paragraph 2, the notice of which states (in accordance with sub-paragraph (5)(b) of that paragraph) that the election is for an additional pension for both the AP beneficiary and the AP beneficiary's spouse, civil partner, surviving qualifying partner[^c-91d06ea3547e91271440ad9ca45506f1] or surviving nominated beneficiary;
 - “**financial year**” means the 12 months ending with 31st March;
 - “**lump sum election**” means an election under paragraph 2 which is not a monthly contribution election;
 - “**monthly contribution election**” means an election under paragraph 2, the notice of which states (in accordance with sub-paragraph (6)(b) of that paragraph) that contributions are to be paid in monthly payments;
@@ -57,7 +57,7 @@ may, with the consent of the former employee, elect to pay contributions (as a l
 (5) The notice must—
 
 - (a) state the amount in respect of which the election is made, which must be a multiple of £250 or of such other sum as may be determined by the Secretary of State from time to time;
-- (b) state whether the election is for an additional pension solely for the AP beneficiary or for both the AP beneficiary and the AP beneficiary's spouse, civil partner, surviving qualifying partner[^key-785cdde776fed81b071b0dbe0bcfdc95] or surviving nominated beneficiary;
+- (b) state whether the election is for an additional pension solely for the AP beneficiary or for both the AP beneficiary and the AP beneficiary's spouse, civil partner, surviving qualifying partner[^c-785cdde776fed81b071b0dbe0bcfdc95] or surviving nominated beneficiary;
 - (c) contain such further information as may be specified by the Secretary of State; and
 - (d) be accompanied by a declaration by the AP beneficiary that the AP beneficiary is in normal health.
 
@@ -81,9 +81,9 @@ may, with the consent of the former employee, elect to pay contributions (as a l
 
 (3) The maximum amount for a subsequent financial year is such amount as may be determined by the Treasury for that financial year in accordance with sub-paragraph (9).
 
-(4)[^key-f56dbde987f9788efa0f3b2766f21276] But if no maximum amount has been determined for that financial year under sub-paragraph (3), the maximum amount for that financial year is the maximum amount for the financial year before that financial year (“the previous financial year”) increased by the amount by which it would have been increased if it had been an official pension within the meaning of section 5(1) of PIA 1971 beginning, and first qualifying for increases under that Act, on the first day of the previous financial year.
+(4)[^c-f56dbde987f9788efa0f3b2766f21276] But if no maximum amount has been determined for that financial year under sub-paragraph (3), the maximum amount for that financial year is the maximum amount for the financial year before that financial year (“the previous financial year”) increased by the amount by which it would have been increased if it had been an official pension within the meaning of section 5(1) of PIA 1971 beginning, and first qualifying for increases under that Act, on the first day of the previous financial year.
 
-(6) The uprated amount in relation to a previous election , rounded to the nearest £100,[^key-67c42735fa7477b473954938369f6cc4] is—
+(6) The uprated amount in relation to a previous election , rounded to the nearest £100,[^c-67c42735fa7477b473954938369f6cc4] is—
 
 - (a) the amount stated in the notice multiplied by the factor mentioned in sub-paragraph (8) if that factor is greater than 1,
 - (b) where the AP beneficiary is credited with an amount in respect of the election in accordance with paragraph 7, 8 or 9, that amount multiplied by the factor mentioned in sub-paragraph (8) if that factor is greater than 1, or
@@ -95,7 +95,7 @@ may, with the consent of the former employee, elect to pay contributions (as a l
 - (b) where the AP beneficiary is credited with an amount in respect of the election in accordance with paragraph 7, 8 or 9, that amount, or
 - (c) where the AP beneficiary was previously credited with an amount in respect of the election in accordance with paragraph 10, an amount determined by the Secretary of State having regard to the contributions paid and any contributions treated as paid under paragraph 10(6).
 
-(8)[^key-1b9279d79df9178ef1ffdb3f768f480c] The factor is CPI1/CPI2, where—
+(8)[^c-1b9279d79df9178ef1ffdb3f768f480c] The factor is CPI1/CPI2, where—
 
 - (a) CPI1 is the consumer prices index for February in the financial year before the year in which notice of the new election is given to the Secretary of State, and
 - (b) CPI2 is the consumer prices index for February in the financial year before the year which includes the start date for the previous election.
@@ -104,7 +104,7 @@ may, with the consent of the former employee, elect to pay contributions (as a l
 
 ### 4. Determination of contributions
 
-(1) The Secretary of State is from time to time to[^key-4153923ff4ff033597f633175aa0394e] determine the amount of the lump sum (in the case of a lump sum election) and the monthly payments (in the case of a monthly contribution election) to be paid as contributions for a given amount in respect of which an election is made.
+(1) The Secretary of State is from time to time to[^c-4153923ff4ff033597f633175aa0394e] determine the amount of the lump sum (in the case of a lump sum election) and the monthly payments (in the case of a monthly contribution election) to be paid as contributions for a given amount in respect of which an election is made.
 
 (2) The amounts must be such that they reflect the cost of payment of pension—
 
@@ -219,10 +219,10 @@ may, with the consent of the former employee, elect to pay contributions (as a l
 
 (3) Where the AP beneficiary dies before the end of the refund period—
 
-- (a) the monthly payments must be repaid to each person who in consequence of that death would be entitled to receive payment were the monthly payments a death grant falling within regulation 82[^key-e1264d2fe1d365507524836e5c0f0d3f], and
-- (b) no person covered by paragraph (a) is to[^key-4bdd08f7f548d714c42e564942fe242d] be credited with an amount in respect of the election.
+- (a) the monthly payments must be repaid to each person who in consequence of that death would be entitled to receive payment were the monthly payments a death grant falling within regulation 82[^c-e1264d2fe1d365507524836e5c0f0d3f], and
+- (b) no person covered by paragraph (a) is to[^c-4bdd08f7f548d714c42e564942fe242d] be credited with an amount in respect of the election.
 
-(4) Where the AP beneficiary dies after the end of the refund period, each person covered by sub-paragraph (3)(a)[^key-146ddef722f20d751a9001abd8d41f7d] is to be credited with—
+(4) Where the AP beneficiary dies after the end of the refund period, each person covered by sub-paragraph (3)(a)[^c-146ddef722f20d751a9001abd8d41f7d] is to be credited with—
 
 - (a) if the declaration required by paragraph 2(5)(d) was made in good faith, the amount stated in the notice of the election, or
 - (b) if that declaration was not made in good faith, an amount determined by the Secretary of State having regard to the contributions paid.
@@ -233,20 +233,20 @@ The Secretary of State must take advice from the scheme actuary before determini
 
 ## Annotations
 
-[^key-91d06ea3547e91271440ad9ca45506f1]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/1) substituted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [15(a)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/15/a)
+[^c-91d06ea3547e91271440ad9ca45506f1]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/1) substituted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [15(a)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/15/a)
 
-[^key-785cdde776fed81b071b0dbe0bcfdc95]: Textual amendment: Words in [Sch. 4 para. 2(5)(b)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/2/5/b) substituted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/15/b)
+[^c-785cdde776fed81b071b0dbe0bcfdc95]: Textual amendment: Words in [Sch. 4 para. 2(5)(b)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/2/5/b) substituted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/15/b)
 
-[^key-f56dbde987f9788efa0f3b2766f21276]: Textual amendment: [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/4) substituted for [Sch. 4](https://www.legislation.gov.uk/uksi/2010/990/schedule/4) [para. 3(4)(5)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/4) (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/12/2)
+[^c-f56dbde987f9788efa0f3b2766f21276]: Textual amendment: [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/4) substituted for [Sch. 4](https://www.legislation.gov.uk/uksi/2010/990/schedule/4) [para. 3(4)(5)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/4) (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/12/2)
 
-[^key-67c42735fa7477b473954938369f6cc4]: Textual amendment: Words in [Sch. 4 para. 3(6)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/6) inserted (1.4.2012) by [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [12](https://www.legislation.gov.uk/uksi/2012/673/regulation/12)
+[^c-67c42735fa7477b473954938369f6cc4]: Textual amendment: Words in [Sch. 4 para. 3(6)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/6) inserted (1.4.2012) by [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [12](https://www.legislation.gov.uk/uksi/2012/673/regulation/12)
 
-[^key-1b9279d79df9178ef1ffdb3f768f480c]: Textual amendment: [Sch. 4 para. 3(8)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/8) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/12/3)
+[^c-1b9279d79df9178ef1ffdb3f768f480c]: Textual amendment: [Sch. 4 para. 3(8)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/3/8) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/12/3)
 
-[^key-4153923ff4ff033597f633175aa0394e]: Textual amendment: Word in [Sch. 4 para. 4(1)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/4/1) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [24(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/24/a)
+[^c-4153923ff4ff033597f633175aa0394e]: Textual amendment: Word in [Sch. 4 para. 4(1)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/4/1) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [24(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/24/a)
 
-[^key-e1264d2fe1d365507524836e5c0f0d3f]: Textual amendment: Words in [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/11/3/a) substituted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2021/805/regulation/11/2)
+[^c-e1264d2fe1d365507524836e5c0f0d3f]: Textual amendment: Words in [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/11/3/a) substituted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2021/805/regulation/11/2)
 
-[^key-4bdd08f7f548d714c42e564942fe242d]: Textual amendment: Words in [Sch. 4 para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/11/3/b) substituted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/805/regulation/11/3)
+[^c-4bdd08f7f548d714c42e564942fe242d]: Textual amendment: Words in [Sch. 4 para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/11/3/b) substituted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/805/regulation/11/3)
 
-[^key-146ddef722f20d751a9001abd8d41f7d]: Textual amendment: Words in [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/11/4) substituted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2021/805/regulation/11/4)
+[^c-146ddef722f20d751a9001abd8d41f7d]: Textual amendment: Words in [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/uksi/2010/990/schedule/4/paragraph/11/4) substituted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2021/805/regulation/11/4)

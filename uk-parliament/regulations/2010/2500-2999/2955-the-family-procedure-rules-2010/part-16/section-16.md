@@ -72,29 +72,29 @@ proceedings—
 
 *Extent: E+W*
 
-(1) Except in proceedings under section 55A of the 1986 Act and without[^key-f7d50f445aba3d56e096ae1d93850bf9] prejudice to rule [^key-d0cbc3a858255e9fd3e3dc004403dfad]... 16.6, the court must appoint a children's guardian for a child who is the subject of proceedings, which are not proceedings of a type referred to in rule 16.3(1), if—
+(1) Except in proceedings under section 55A of the 1986 Act and without[^c-f7d50f445aba3d56e096ae1d93850bf9] prejudice to rule [^c-d0cbc3a858255e9fd3e3dc004403dfad]... 16.6, the court must appoint a children's guardian for a child who is the subject of proceedings, which are not proceedings of a type referred to in rule 16.3(1), if—
 
 - (a) the child is an applicant in the proceedings;
 - (b) a provision in these rules provides for the child to be a party to the proceedings; or
 - (c) the court has made the child a party in accordance with rule16.2.
 
-(1A)[^key-144a6d998c4c7c8c0bc422a9b08f399b] Without prejudice to rule 16.6, in proceedings under section 55A of the 1986 Act, the court must appoint a children’s guardian for a child where—
+(1A)[^c-144a6d998c4c7c8c0bc422a9b08f399b] Without prejudice to rule 16.6, in proceedings under section 55A of the 1986 Act, the court must appoint a children’s guardian for a child where—
 
 - (a) the court has made the child a party in accordance with rule 16.2; and
 - (b) the child is the person whose parentage is in dispute in those proceedings.
 
-(2) The provisions of Chapter 7 of this Part apply where the appointment of a children's guardian is required in accordance with paragraph (1) or paragraph (1A)[^key-e747601ee3c00aa13034098e790eed8c]. (“children's guardian” is defined in rule 2.3.)
+(2) The provisions of Chapter 7 of this Part apply where the appointment of a children's guardian is required in accordance with paragraph (1) or paragraph (1A)[^c-e747601ee3c00aa13034098e790eed8c]. (“children's guardian” is defined in rule 2.3.)
 
 ## 16.5. Requirement for a litigation friend
 
 *Extent: E+W*
 
-(1) Except in proceedings under section 55A of the 1986 Act and without[^key-27e1ca40404bb005d5c900027726ace1] prejudice to rule 16.6, where a child is—
+(1) Except in proceedings under section 55A of the 1986 Act and without[^c-27e1ca40404bb005d5c900027726ace1] prejudice to rule 16.6, where a child is—
 
 - (a) a party to proceedings; but
 - (b) not the subject of those proceedings,
 
-(1A)[^key-41abc45c9de4c9be90130da3e67bbeca] Without prejudice to rule 16.6, where a child is—
+(1A)[^c-41abc45c9de4c9be90130da3e67bbeca] Without prejudice to rule 16.6, where a child is—
 
 - (a) a party to proceedings under section 55A of the 1986 Act; but
 - (b) not the person whose parentage is in dispute in those proceedings,
@@ -103,7 +103,7 @@ the child must have a litigation friend to conduct proceedings on the child’s 
 
 the child must have a litigation friend to conduct proceedings on the child's behalf.
 
-(2) The provisions of Chapter 5 of this Part apply where a litigation friend is required in accordance with paragraph (1) or paragraph (1A)[^key-e650efc18cb73c345a20677500177f6e].
+(2) The provisions of Chapter 5 of this Part apply where a litigation friend is required in accordance with paragraph (1) or paragraph (1A)[^c-e650efc18cb73c345a20677500177f6e].
 
 ## 16.6. Circumstances in which a child does not need a children's guardian or litigation friend
 
@@ -112,9 +112,9 @@ the child must have a litigation friend to conduct proceedings on the child's be
 (1) Subject to paragraph (2), a child may conduct proceedings without a children's guardian or litigation friend where the proceedings are proceedings—
 
 - (a) under the 1989 Act;
-- (b) to which Part 11 (applications under Part 4A of the Family Law Act 1996 or Part 1 of Schedule 2 to the Female Genital Mutilation Act 2003[^key-a3008c904d9574a0272887d6bf215576]) or Part 14 (applications in adoption, placement and related proceedings) of these rules apply; [^key-daf56af86d4d3b698a553978a07e69fc]...
-- (c) relating to the exercise of the court's inherent jurisdiction with respect to children; or[^key-1071acffc9166434bdc67927a45c9c99]
-- (d)[^key-f46656c0a83717b6983bee6cdcd7bb83] under section 55A of the 1986 Act,
+- (b) to which Part 11 (applications under Part 4A of the Family Law Act 1996 or Part 1 of Schedule 2 to the Female Genital Mutilation Act 2003[^c-a3008c904d9574a0272887d6bf215576]) or Part 14 (applications in adoption, placement and related proceedings) of these rules apply; [^c-daf56af86d4d3b698a553978a07e69fc]...
+- (c) relating to the exercise of the court's inherent jurisdiction with respect to children; or[^c-1071acffc9166434bdc67927a45c9c99]
+- (d)[^c-f46656c0a83717b6983bee6cdcd7bb83] under section 55A of the 1986 Act,
 
 and one of the conditions set out in paragraph (3) is satisfied.
 
@@ -554,7 +554,7 @@ In proceedings to which Part 13 applies, the court will appoint a parental order
 
 (2) The parental order reporter must—
 
-- (a)[^key-335864662738db529aad324d8e28261d] investigate in the case of a parental order under—
+- (a)[^c-335864662738db529aad324d8e28261d] investigate in the case of a parental order under—
   - (i) section 54(1) of the 2008 Act, the matters set out in section 54(1) to (8) of that Act;
   - (ii) section 54A(1) of the 2008 Act, the matters set out in section 54A(1) to (7) of that Act;
 - (b) so far as the parental order reporter considers necessary, investigate any matter contained in the application form or other matter which appears relevant to the making of the parental order; and
@@ -570,7 +570,7 @@ In proceedings to which Part 13 applies, the court will appoint a parental order
 
 *Extent: E+W*
 
-(1) In specified proceedings (except where paragraph (2) applies),[^key-0f1837d58f33f64ab592598b851d9f73] adoption proceedings or proceedings for a section 84 order or a section 89 order, no person may be appointed as a children's guardian, reporting officer or children and family reporter who—
+(1) In specified proceedings (except where paragraph (2) applies),[^c-0f1837d58f33f64ab592598b851d9f73] adoption proceedings or proceedings for a section 84 order or a section 89 order, no person may be appointed as a children's guardian, reporting officer or children and family reporter who—
 
 - (a) is a member, officer or servant of a local authority which is a party to the proceedings;
 - (b) is, or has been, a member, officer or servant of a local authority or voluntary organisation who has been directly concerned in that capacity in arrangements relating to the care, accommodation or welfare of the child during the 5 years prior to the start of the proceedings; or
@@ -595,9 +595,9 @@ The same person may be appointed to act as one or more of the following—
 (1) This rule applies when—
 
 - (a) an officer of the Service or a Welsh family proceedings officer is acting under a duty in accordance with—
-  - (i) section 11E(7) of the 1989 Act [^c20648811] (providing the court with information as to the making of an[^key-f5e057e28ad94910adaad6c0e6f7fc62] activity direction or an activity condition);
-  - (ii) section 11G(2) of the 1989 Act [^c20648821] (monitoring compliance with an[^key-2d680dd49b732b6ffa5444cb307d35a5] activity direction or an activity condition);
-  - (iii) section 11H(2) of the 1989 Act [^c20648831] (monitoring compliance with a child arrangements[^key-16aba55754e62b473d35fe45bf32d2a6] order);
+  - (i) section 11E(7) of the 1989 Act [^c20648811] (providing the court with information as to the making of an[^c-f5e057e28ad94910adaad6c0e6f7fc62] activity direction or an activity condition);
+  - (ii) section 11G(2) of the 1989 Act [^c20648821] (monitoring compliance with an[^c-2d680dd49b732b6ffa5444cb307d35a5] activity direction or an activity condition);
+  - (iii) section 11H(2) of the 1989 Act [^c20648831] (monitoring compliance with a child arrangements[^c-16aba55754e62b473d35fe45bf32d2a6] order);
   - (iv) section 11L(5) of the 1989 Act (providing the court with information as to the making of an enforcement order);
   - (v) section 11M(1) of the 1989 Act (monitoring compliance with an enforcement order);
   - (vi) section 16(6) of the 1989 Act [^c20648841] (providing a report to the court in accordance with a direction in a family assistance order); and
@@ -606,7 +606,7 @@ The same person may be appointed to act as one or more of the following—
 
 (2) In this rule,—
 
-- (a) “**[^key-cb09c13788eab0d656ee864fdfc7c2ba]... activity direction**”, “**[^key-cb09c13788eab0d656ee864fdfc7c2ba]... activity condition**” and “**enforcement order**” have the meanings given in rule 12.2; and
+- (a) “**[^c-cb09c13788eab0d656ee864fdfc7c2ba]... activity direction**”, “**[^c-cb09c13788eab0d656ee864fdfc7c2ba]... activity condition**” and “**enforcement order**” have the meanings given in rule 12.2; and
 - (b) references to “the officer” are to the officer of the Service, Welsh family proceedings officer or local authority officer referred to in paragraph (1).
 
 (3) In exercising the duties referred to in paragraph (1), the officer must have regard to the principle set out in section 1(2) of the 1989 Act and the matters set out in section 1(3)(a) to (f) of the 1989 Act as if for the word “court” in that section there were substituted the words “officer of the Service, Welsh family proceedings officer or local authority officer”.
@@ -617,7 +617,7 @@ The same person may be appointed to act as one or more of the following—
 
 *Extent: E+W*
 
-(1) This rule applies where a person who was the child's children's guardian, litigation friend or legal representative in the proceedings in which a child arrangements[^key-c07f4bfc9dd1ddf35d745cebd476127f] order was made has been notified of an application for an enforcement order or for a financial compensation order as required by Practice Direction 12C.
+(1) This rule applies where a person who was the child's children's guardian, litigation friend or legal representative in the proceedings in which a child arrangements[^c-c07f4bfc9dd1ddf35d745cebd476127f] order was made has been notified of an application for an enforcement order or for a financial compensation order as required by Practice Direction 12C.
 
 (2) The person who has been notified of the application must—
 
@@ -628,48 +628,48 @@ The same person may be appointed to act as one or more of the following—
 
 ## Annotations
 
-[^key-f7d50f445aba3d56e096ae1d93850bf9]: Textual amendment: Words in [rule 16.4(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/1) substituted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/901/rule/5/a) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-f7d50f445aba3d56e096ae1d93850bf9]: Textual amendment: Words in [rule 16.4(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/1) substituted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/901/rule/5/a) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-d0cbc3a858255e9fd3e3dc004403dfad]: Textual amendment: Words in [rule 16.4(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/1) omitted (5.1.2026) by virtue of [The Family Procedure (Amendment) Rules 2025 (S.I. 2025/1242)](https://www.legislation.gov.uk/uksi/2025/1242), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/1242/rule/1/3/a), [3](https://www.legislation.gov.uk/uksi/2025/1242/rule/3)
+[^c-d0cbc3a858255e9fd3e3dc004403dfad]: Textual amendment: Words in [rule 16.4(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/1) omitted (5.1.2026) by virtue of [The Family Procedure (Amendment) Rules 2025 (S.I. 2025/1242)](https://www.legislation.gov.uk/uksi/2025/1242), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/1242/rule/1/3/a), [3](https://www.legislation.gov.uk/uksi/2025/1242/rule/3)
 
-[^key-144a6d998c4c7c8c0bc422a9b08f399b]: Textual amendment: [Rule 16.4(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/1A) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/5/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-144a6d998c4c7c8c0bc422a9b08f399b]: Textual amendment: [Rule 16.4(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/1A) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/5/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-e747601ee3c00aa13034098e790eed8c]: Textual amendment: Words in [rule 16.4(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/2) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [5(c)](https://www.legislation.gov.uk/uksi/2016/901/rule/5/c) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-e747601ee3c00aa13034098e790eed8c]: Textual amendment: Words in [rule 16.4(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.4/2) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [5(c)](https://www.legislation.gov.uk/uksi/2016/901/rule/5/c) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-27e1ca40404bb005d5c900027726ace1]: Textual amendment: Words in [rule 16.5(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.5/1) substituted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/901/rule/6/a) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-27e1ca40404bb005d5c900027726ace1]: Textual amendment: Words in [rule 16.5(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.5/1) substituted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/901/rule/6/a) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-41abc45c9de4c9be90130da3e67bbeca]: Textual amendment: [Rule 16.5(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.5/1A) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/6/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-41abc45c9de4c9be90130da3e67bbeca]: Textual amendment: [Rule 16.5(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.5/1A) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/6/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-e650efc18cb73c345a20677500177f6e]: Textual amendment: Words in [rule 16.5(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.5/2) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [6(c)](https://www.legislation.gov.uk/uksi/2016/901/rule/6/c) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-e650efc18cb73c345a20677500177f6e]: Textual amendment: Words in [rule 16.5(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.5/2) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [6(c)](https://www.legislation.gov.uk/uksi/2016/901/rule/6/c) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-a3008c904d9574a0272887d6bf215576]: Textual amendment: Words in [rule 16.6(1)(b)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/b) inserted (6.4.2017) by [The Family Procedure (Amendment) Rules 2017 (S.I. 2017/413)](https://www.legislation.gov.uk/uksi/2017/413), [rules 1](https://www.legislation.gov.uk/uksi/2017/413/rule/1), [5](https://www.legislation.gov.uk/uksi/2017/413/rule/5)
+[^c-a3008c904d9574a0272887d6bf215576]: Textual amendment: Words in [rule 16.6(1)(b)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/b) inserted (6.4.2017) by [The Family Procedure (Amendment) Rules 2017 (S.I. 2017/413)](https://www.legislation.gov.uk/uksi/2017/413), [rules 1](https://www.legislation.gov.uk/uksi/2017/413/rule/1), [5](https://www.legislation.gov.uk/uksi/2017/413/rule/5)
 
-[^key-daf56af86d4d3b698a553978a07e69fc]: Textual amendment: Word in [rule 16.6(1)(b)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/b) omitted (3.10.2016) by virtue of [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/901/rule/7/a) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-daf56af86d4d3b698a553978a07e69fc]: Textual amendment: Word in [rule 16.6(1)(b)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/b) omitted (3.10.2016) by virtue of [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/901/rule/7/a) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-1071acffc9166434bdc67927a45c9c99]: Textual amendment: Word in [rule 16.6(1)(c)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/c) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [7(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/7/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-1071acffc9166434bdc67927a45c9c99]: Textual amendment: Word in [rule 16.6(1)(c)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/c) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [7(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/7/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-f46656c0a83717b6983bee6cdcd7bb83]: Textual amendment: [Rule 16.6(1)(d)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/d) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [7(c)](https://www.legislation.gov.uk/uksi/2016/901/rule/7/c) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-f46656c0a83717b6983bee6cdcd7bb83]: Textual amendment: [Rule 16.6(1)(d)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.6/1/d) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [7(c)](https://www.legislation.gov.uk/uksi/2016/901/rule/7/c) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-335864662738db529aad324d8e28261d]: Textual amendment: [Rule 16.35(2)(a)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.35/2/a) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/6)
+[^c-335864662738db529aad324d8e28261d]: Textual amendment: [Rule 16.35(2)(a)](https://www.legislation.gov.uk/uksi/2010/2955/rule/16.35/2/a) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/6)
 
-[^key-0f1837d58f33f64ab592598b851d9f73]: Textual amendment: Words in rule 16.36(1) inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [23](https://www.legislation.gov.uk/uksi/2012/679/rule/23) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
+[^c-0f1837d58f33f64ab592598b851d9f73]: Textual amendment: Words in rule 16.36(1) inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [23](https://www.legislation.gov.uk/uksi/2012/679/rule/23) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
 
 [^c20648811]: Marginal citation: [Section 11E](https://www.legislation.gov.uk/uksi/2010/2955/section/11E) was inserted by section 1 of the Children and Adoption Act 2006.
 
-[^key-f5e057e28ad94910adaad6c0e6f7fc62]: Textual amendment: Word in rule 16.38(1)(a)(i) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [40(a)](https://www.legislation.gov.uk/uksi/2014/843/rule/40/a)
+[^c-f5e057e28ad94910adaad6c0e6f7fc62]: Textual amendment: Word in rule 16.38(1)(a)(i) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [40(a)](https://www.legislation.gov.uk/uksi/2014/843/rule/40/a)
 
 [^c20648821]: Marginal citation: [Section 11G](https://www.legislation.gov.uk/uksi/2010/2955/section/11G) was inserted by section 1 of the Children and Adoption Act 2006.
 
-[^key-2d680dd49b732b6ffa5444cb307d35a5]: Textual amendment: Word in rule 16.38(1)(a)(ii) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [40(b)](https://www.legislation.gov.uk/uksi/2014/843/rule/40/b)
+[^c-2d680dd49b732b6ffa5444cb307d35a5]: Textual amendment: Word in rule 16.38(1)(a)(ii) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [40(b)](https://www.legislation.gov.uk/uksi/2014/843/rule/40/b)
 
 [^c20648831]: Marginal citation: [Section 11H](https://www.legislation.gov.uk/uksi/2010/2955/section/11H) was inserted by section 1 of the Children and Adoption Act 2006.
 
-[^key-16aba55754e62b473d35fe45bf32d2a6]: Textual amendment: Words in rule 16.38(1)(a)(iii) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [40(c)](https://www.legislation.gov.uk/uksi/2014/843/rule/40/c)
+[^c-16aba55754e62b473d35fe45bf32d2a6]: Textual amendment: Words in rule 16.38(1)(a)(iii) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [40(c)](https://www.legislation.gov.uk/uksi/2014/843/rule/40/c)
 
 [^c20648841]: Marginal citation: [Section 16(6)](https://www.legislation.gov.uk/uksi/2010/2955/section/16/6) was amended by section 6(1) and (5) of the Children and Adoption Act 2006.
 
 [^c20648851]: Marginal citation: [Section 16A](https://www.legislation.gov.uk/uksi/2010/2955/section/16A) was inserted by section 7 of the Children and Adoption Act 2006.
 
-[^key-cb09c13788eab0d656ee864fdfc7c2ba]: Textual amendment: Word in rule 16.38(2)(a) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [41](https://www.legislation.gov.uk/uksi/2014/843/rule/41)
+[^c-cb09c13788eab0d656ee864fdfc7c2ba]: Textual amendment: Word in rule 16.38(2)(a) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [41](https://www.legislation.gov.uk/uksi/2014/843/rule/41)
 
-[^key-c07f4bfc9dd1ddf35d745cebd476127f]: Textual amendment: Words in rule 16.39(1) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [42](https://www.legislation.gov.uk/uksi/2014/843/rule/42)
+[^c-c07f4bfc9dd1ddf35d745cebd476127f]: Textual amendment: Words in rule 16.39(1) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [42](https://www.legislation.gov.uk/uksi/2014/843/rule/42)

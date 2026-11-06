@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Saving for highway authorities[^key-4813b393266775e5331ab894b29ae22a]
+## 47. Saving for highway authorities[^c-4813b393266775e5331ab894b29ae22a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order affects any power of a highway authority to widen, alter, 
 
 ## Annotations
 
-[^key-4813b393266775e5331ab894b29ae22a]: Commencement: Art. 47 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-4813b393266775e5331ab894b29ae22a]: Commencement: Art. 47 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

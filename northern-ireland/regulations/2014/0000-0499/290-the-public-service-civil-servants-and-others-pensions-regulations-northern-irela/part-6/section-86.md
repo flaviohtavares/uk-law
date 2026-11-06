@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Allocation Election[^key-61ccf2c5de6f8598f11b62fb792bbbca]
+## 86. Allocation Election[^c-61ccf2c5de6f8598f11b62fb792bbbca]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61ccf2c5de6f8598f11b62fb792bbbca]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2014/290/regulation/86) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-61ccf2c5de6f8598f11b62fb792bbbca]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2014/290/regulation/86) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

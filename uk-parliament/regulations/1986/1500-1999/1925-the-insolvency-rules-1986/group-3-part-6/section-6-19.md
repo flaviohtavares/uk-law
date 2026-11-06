@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.19. Petition against two or more debtors[^key-ebecfbc7f422fcaf422e980294a54ae5]
+## 6.19. Petition against two or more debtors[^c-ebecfbc7f422fcaf422e980294a54ae5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebecfbc7f422fcaf422e980294a54ae5]: Textual amendment: [Rule 6.19](https://www.legislation.gov.uk/uksi/1986/1925/article/6.19) omitted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 97](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/97)
+[^c-ebecfbc7f422fcaf422e980294a54ae5]: Textual amendment: [Rule 6.19](https://www.legislation.gov.uk/uksi/1986/1925/article/6.19) omitted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 97](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/97)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Amendment of Part 1[^key-b1a51ffdf9dc7675873301b8e203c143]
+## 9. Amendment of Part 1[^c-b1a51ffdf9dc7675873301b8e203c143]
 
 *Extent: N.I.*
 
@@ -34,13 +34,13 @@ In Rule 1.01 (Scope of this Part; interpretation)—
 
 (2) Omit paragraph (4).
 
-**10.**[^key-c8bbe6ce146e809ebf07a71be1e79ef5] In Rule 1.03 (Contents of proposal) in paragraph (2), after sub-paragraph (m) insert—
+**10.**[^c-c8bbe6ce146e809ebf07a71be1e79ef5] In Rule 1.03 (Contents of proposal) in paragraph (2), after sub-paragraph (m) insert—
 
 > - (ma) whether a moratorium is, or has been, in force for the company under Part 1A of the Order and, if so, the date that moratorium came into force and, (if applicable), the date it ended;
 
 .
 
-**11.**[^key-e097a92678159e6db2cc9fc7ffa23fa6] In Rule 1.05 (Statement of affairs)—
+**11.**[^c-e097a92678159e6db2cc9fc7ffa23fa6] In Rule 1.05 (Statement of affairs)—
 
 (1) In paragraph (2) after “those already given in the directors’ proposal)” insert “and, in addition, where paragraph (2B) applies the information specified in that paragraph”.
 
@@ -57,16 +57,16 @@ In Rule 1.01 (Scope of this Part; interpretation)—
 
 .
 
-**12.**[^key-e1724271c46fb2dc42865ba6e98a8994] Omit chapter 9 of Part 1.
+**12.**[^c-e1724271c46fb2dc42865ba6e98a8994] Omit chapter 9 of Part 1.
 
 ## Annotations
 
-[^key-b1a51ffdf9dc7675873301b8e203c143]: Commencement: Rule 9 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-b1a51ffdf9dc7675873301b8e203c143]: Commencement: Rule 9 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-c8bbe6ce146e809ebf07a71be1e79ef5]: Commencement: Rule 10 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-c8bbe6ce146e809ebf07a71be1e79ef5]: Commencement: Rule 10 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-e097a92678159e6db2cc9fc7ffa23fa6]: Commencement: Rule 11 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-e097a92678159e6db2cc9fc7ffa23fa6]: Commencement: Rule 11 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
 [^f00017]: Footnote: Article 148A was inserted by paragraph 17 of Schedule 7 to the Corporate Insolvency and Governance Act [2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
-[^key-e1724271c46fb2dc42865ba6e98a8994]: Commencement: Rule 12 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-e1724271c46fb2dc42865ba6e98a8994]: Commencement: Rule 12 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Money laundering: form and manner of disclosures[^key-8bc655f819e3015b773b9e4ddeac0d9e]
+## 105. Money laundering: form and manner of disclosures[^c-8bc655f819e3015b773b9e4ddeac0d9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bc655f819e3015b773b9e4ddeac0d9e]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2005/15/section/105) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)
+[^c-8bc655f819e3015b773b9e4ddeac0d9e]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2005/15/section/105) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)

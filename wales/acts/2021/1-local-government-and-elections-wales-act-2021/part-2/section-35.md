@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Power to amend or modify this Chapter[^key-8ab0ef9f1f87365bb0b0ce30781e40b7]
+## 35. Power to amend or modify this Chapter[^c-8ab0ef9f1f87365bb0b0ce30781e40b7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ab0ef9f1f87365bb0b0ce30781e40b7]: Commencement: S. 35 in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/231/article/2/c)
+[^c-8ab0ef9f1f87365bb0b0ce30781e40b7]: Commencement: S. 35 in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/231/article/2/c)

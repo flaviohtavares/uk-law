@@ -64,7 +64,7 @@ This rule contains only regulations made under, by virtue of, or consequential u
 (1) In these Regulations—
 
 - “**the Order**” means the Welfare Reform and Work (Northern Ireland) Order 2016;
-- “alternative finance arrangements” has the meaning given in paragraph 5(4) of Schedule 1 to these Regulations;[^key-4cab35d4788937d719cec422513c35f6]
+- “alternative finance arrangements” has the meaning given in paragraph 5(4) of Schedule 1 to these Regulations;[^c-4cab35d4788937d719cec422513c35f6]
 - “**alternative finance payments**” has the meaning in paragraph 5(3) of Schedule 1 (meaning of owner occupier payments) to these Regulations;
 - “**applicable amount**” means—
   - (a) in the case of employment and support allowance, the claimants weekly applicable amount under regulations 67 to 70 of the ESA Regulations [^c22849521] (prescribed amounts);
@@ -81,7 +81,7 @@ This rule contains only regulations made under, by virtue of, or consequential u
   - (d) in the case of state pension credit, in regulation 1(2) of the SPC Regulations [^c22849571] (citation, commencement and interpretation);
 - “**child**” means a person under the age of 16;
 - “**claimant**” means a single claimant or each of joint claimants;
-- “ **Claims and Payments Regulations[^key-c453fb628d71c31fcd8c02f60c61105a]** ” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22849581];
+- “ **Claims and Payments Regulations[^c-c453fb628d71c31fcd8c02f60c61105a]** ” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22849581];
 - “**close relative**” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or, if any of the preceding persons is one member of a couple, the other member of that couple;
 - “**couple**” means—
   - (a) two people who are married to, or civil partners of, each other and are members of the same household;
@@ -107,7 +107,7 @@ This rule contains only regulations made under, by virtue of, or consequential u
   - (c) in the case of jobseeker's allowance, Part VIII of the JSA Regulations (income and capital);
   - (d) in the case of state pension credit, Part III of the SPC Regulations (income);
 - “**IS Regulations**” means the Income Support (General) Regulations (Northern Ireland) 1987 [^c22849681];
-- “joint claimants”—[^key-5a0630e17666a6a36d5276aecda83aa3]
+- “joint claimants”—[^c-5a0630e17666a6a36d5276aecda83aa3]
   - (a) in the case of jobseeker’s allowance means—
     - (i) members of a joint-claim couple who have jointly made a claim for, and are entitled to, income-based jobseeker’s allowance; or
     - (ii) members of a joint-claim couple who have made a claim for, but are not entitled to, such a benefit by reason only that they have income —
@@ -118,7 +118,7 @@ This rule contains only regulations made under, by virtue of, or consequential u
 - “**JSA Regulations**” means the Jobseeker's Allowance Regulations (Northern Ireland) 1996 [^c22849701];
 - “**leasehold estate**” has the meaning given in section 94 of the Land Registration Act (Northern Ireland 1970;
 - “**legacy benefit**” means income-related employment and support allowance, income support or income-based jobseeker's allowance;
-- “**legacy benefit claimant**” means a claimant who is entitled to , or is treated as entitled to,[^key-383faccf614948d6d9659dba64bf5364] a legacy benefit;
+- “**legacy benefit claimant**” means a claimant who is entitled to , or is treated as entitled to,[^c-383faccf614948d6d9659dba64bf5364] a legacy benefit;
 - “**legal owner**” means in the case of unregistered land, the owner of an estate in fee simple absolute, a fee farm grant or the owner of a leasehold estate and in the case of registered land, the person registered as full owner;
 - “**loan agreement**” means an agreement entered into by a single claimant and his or her partner (if any), or each joint claimant, and the Department, which sets out the terms and conditions upon which the loan payments are made to the claimant;
 - “**loan payments**” means one or more payments, calculated under regulation 10 (calculation of each loan payment), in respect of a claimant's liability to make owner-occupier payments in respect of the relevant accommodation;
@@ -142,7 +142,7 @@ This rule contains only regulations made under, by virtue of, or consequential u
   - (a) in the case of a legacy benefit or state pension credit, a loan which qualifies under paragraph 2(2) or (4) of Schedule 1 to these Regulations (meaning of owner-occupier payments);
   - (b) in the case of universal credit, a loan which qualifies under paragraph 5(2) of Schedule 1 to these Regulations;
 - “**qualifying period**” means a period of—
-  - (a) 3[^key-825b4e6a30308f0e58ebfa376338bbc0] consecutive assessment periods in which a claimant has been entitled to universal credit;
+  - (a) 3[^c-825b4e6a30308f0e58ebfa376338bbc0] consecutive assessment periods in which a claimant has been entitled to universal credit;
   - (b) 39 consecutive weeks in which a claimant—
     - (i) has been entitled to a legacy benefit, or
     - (ii) is treated as having been entitled to such a benefit under—
@@ -155,15 +155,15 @@ This rule contains only regulations made under, by virtue of, or consequential u
   - (c) in the case of universal credit, in regulation 6 of the UC Regulations (meaning of “qualifying young person”);
 - “**relevant accommodation**” means the accommodation which the claimant occupies, or is treated as occupying, as the claimant's home under Schedule 3 (circumstances in which a claimant is, or is to be, treated as occupying accommodation);
 - “relevant date”, apart from in regulation 21 (transition from legacy benefit to universal credit), means the first date with respect to which a claimant's liability to make owner-occupier payments is met by a loan payment;
-- “single claimant” means —[^key-cbdac66b141ecd7a7c86e65e8ee23502]
+- “single claimant” means —[^c-cbdac66b141ecd7a7c86e65e8ee23502]
   - (a) an individual who has made a claim for, and is entitled to, a qualifying benefit;
   - (b) an individual who has made a claim for, but is not entitled to, a legacy benefit or state pension credit by reason only that the individual has, or, if the individual is a member of a couple, they have, income—
     - (i) equal to or exceeding the applicable amount, but
     - (ii) less than the sum of that applicable amount and the amount of a loan payment applicable to the individual;
 - “**single person**” means an individual who is not a member of a couple;
-- “**SPC claimant**” means a claimant who is entitled to , or is treated as entitled to,[^key-2452df81eecba2916cf551df8f3b2791] state pension credit;
+- “**SPC claimant**” means a claimant who is entitled to , or is treated as entitled to,[^c-2452df81eecba2916cf551df8f3b2791] state pension credit;
 - “**SPC Regulations**” means the State Pension Credit Regulations (Northern Ireland) 2003 [^c22849781];
-- “**transitional end day**” has the meaning given in regulations 19(1) (transitional provision: loan offer made before 6th April 2018), 19A(1) and (5) (transitional provision: loan offer made on or after 6th April 2018) and 20(2) (transitional provision: persons who lack capacity or may lack capacity identified before 6th April 2018)[^key-b8d88a8413f2e303e7d795165b3ea6d5] ;
+- “**transitional end day**” has the meaning given in regulations 19(1) (transitional provision: loan offer made before 6th April 2018), 19A(1) and (5) (transitional provision: loan offer made on or after 6th April 2018) and 20(2) (transitional provision: persons who lack capacity or may lack capacity identified before 6th April 2018)[^c-b8d88a8413f2e303e7d795165b3ea6d5] ;
 - “**Transitional Provisions Regulations**” means the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 [^c22849791];
 - “**UC claimant**” means a claimant who is entitled to universal credit;
 - “**UC Regulations**” means the Universal Credit Regulations (Northern Ireland) 2016;
@@ -172,7 +172,7 @@ This rule contains only regulations made under, by virtue of, or consequential u
 (2) For the purposes of these Regulations, a reference to—
 
 - (a) entitlement to a qualifying benefit is to be read as a reference to entitlement as determined under the ESA Regulations, IS Regulations, JSA Regulations, SPC Regulations and UC Regulations;
-- (aa)[^key-a6169301d38b1a9e9c090733ad38af80] a person being treated as entitled to a qualifying benefit is to be read as a reference to a person who satisfies paragraph (a)(ii) of the definition of “joint claimants” or paragraph (b) of the definition of “single claimant”, except in the definition of “qualifying period”, regulation 21(5)(b) and paragraph 3 of Schedule 1;
+- (aa)[^c-a6169301d38b1a9e9c090733ad38af80] a person being treated as entitled to a qualifying benefit is to be read as a reference to a person who satisfies paragraph (a)(ii) of the definition of “joint claimants” or paragraph (b) of the definition of “single claimant”, except in the definition of “qualifying period”, regulation 21(5)(b) and paragraph 3 of Schedule 1;
 - (b) the claimant's family or to being a member of the claimant's family means a reference to the claimant's partner and any child or qualifying young person who is the responsibility of the claimant or the claimant's partner, where that child or qualifying young person is a member of the claimant's household;
 - (c) a person being responsible for a child or qualifying young person is to be read as a reference to a person being treated as responsible for a child or qualifying young person in the circumstances specified in—
   - (i) in the case of employment and support allowance, regulation 156(10) of the ESA Regulations (circumstances in which a person is to be treated as being or not being a member of the household),
@@ -196,14 +196,14 @@ This rule contains only regulations made under, by virtue of, or consequential u
 
 ## 3. The offer of loan payments
 
-(1) The Department may make an offer of loan payments to a claimant in respect of any owner-occupier payments the claimant is, or is to be treated as, [^key-9087a8cf70ba1339b5256535d1232dfd]... liable to make in respect of the accommodation which the claimant is, or is to be treated as, occupying as the claimant's home[^key-a28f0f19c31423a614a1251fd6637a09]....
+(1) The Department may make an offer of loan payments to a claimant in respect of any owner-occupier payments the claimant is, or is to be treated as, [^c-9087a8cf70ba1339b5256535d1232dfd]... liable to make in respect of the accommodation which the claimant is, or is to be treated as, occupying as the claimant's home[^c-a28f0f19c31423a614a1251fd6637a09]....
 
 (2) For the purposes of paragraph (1)—
 
 - (a) owner-occupier payments are—
   - (i) in the case of a legacy benefit claimant or SPC claimant, payments within the meaning of Part 1 (legacy benefit claimants and SPC claimants) of Schedule 1 (meaning of owner-occupier payments),
   - (ii) in the case of a UC claimant, payments within the meaning of Part 2 (UC claimants) of Schedule 1;
-- (b) the circumstances in which a claimant is, or is to be treated as, [^key-db795d9ad2b08e2b6aa78fa8b3198576]... liable to make owner-occupier payments are—
+- (b) the circumstances in which a claimant is, or is to be treated as, [^c-db795d9ad2b08e2b6aa78fa8b3198576]... liable to make owner-occupier payments are—
   - (i) in the case of a legacy benefit claimant or SPC claimant, the circumstances specified in Part 1 (legacy benefit claimants and SPC claimants) of Schedule 2 (circumstances in which claimant is, or is to be treated as, liable to make owner-occupier payments),
   - (ii) in the case of a UC claimant, the circumstances specified in Part 2 (UC claimants) of Schedule 2;
 - (c) the circumstances in which a claimant is, or is to be treated as, occupying accommodation as the claimant's home are—
@@ -212,7 +212,7 @@ This rule contains only regulations made under, by virtue of, or consequential u
 
 (3) Where the liability for owner-occupier payments is shared with a person not in the benefit unit, the claimant shall be, or shall be treated as, liable to make owner-occupier payments by reference to the appropriate proportion of the payments for which the claimant is responsible.
 
-(4)[^key-6873ff3a38af91d35cf0eea700b42a6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6873ff3a38af91d35cf0eea700b42a6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Acceptance of loan payments offer
 
@@ -227,7 +227,7 @@ The offer of loan payments is accepted where the Department has received the loa
 
 (2) The conditions are—
 
-- (a) where all of the legal owners are within the benefit unit, each legal owner has executed a mortgage[^key-05baca171e2780c1f07185bc316143a9] in favour of the Department in respect of the relevant accommodation;
+- (a) where all of the legal owners are within the benefit unit, each legal owner has executed a mortgage[^c-05baca171e2780c1f07185bc316143a9] in favour of the Department in respect of the relevant accommodation;
 - (b) the Department has obtained the written consent referred to in paragraph (3); and
 - (c) the information condition in regulation 6 (information condition) is met within the period of 6 months ending with the day on which the loan payments offer is accepted.
 
@@ -249,23 +249,23 @@ The offer of loan payments is accepted where the Department has received the loa
 Each loan payment shall be made—
 
 - (a) in the case of a UC claimant, at monthly intervals in arrears; and
-- (b)[^key-35dd1b221f285a9c04e8b6d6adabc6c7] in the case of a legacy benefit claimant or SPC claimant, at 4 weekly intervals in arrears.
+- (b)[^c-35dd1b221f285a9c04e8b6d6adabc6c7] in the case of a legacy benefit claimant or SPC claimant, at 4 weekly intervals in arrears.
 
 ## 8. Period covered by loan payments
 
 (1) The period in respect of which the loan payments shall be made shall begin on the later of—
 
 - (a) 6th April 2018;
-- (b) in the case of a UC claimant , except where sub-paragraph (ba) or (bb) applies,[^key-97b68e61f549a6a2408cf05e1dedaccb] or legacy benefit claimant, the day after the day on which the qualifying period ends;
-- (ba)[^key-53c6e94c528a048945d304cbcdb111d3] in the case of a couple where one member is an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple;
+- (b) in the case of a UC claimant , except where sub-paragraph (ba) or (bb) applies,[^c-97b68e61f549a6a2408cf05e1dedaccb] or legacy benefit claimant, the day after the day on which the qualifying period ends;
+- (ba)[^c-53c6e94c528a048945d304cbcdb111d3] in the case of a couple where one member is an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple;
 - (bb) in the case of a couple where one member was formerly an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple, if the first day of that entitlement is within the period of one month beginning with the day on which the entitlement to state pension credit ended;
-- (c)[^key-9fc1158715bcc46dacc3162843cdd08c] in the case of an SPC claimant (who is not in a couple)[^key-d4bf86545b5473e77727393becafa0a4], the first day of entitlement to state pension credit;
+- (c)[^c-9fc1158715bcc46dacc3162843cdd08c] in the case of an SPC claimant (who is not in a couple)[^c-d4bf86545b5473e77727393becafa0a4], the first day of entitlement to state pension credit;
 - (d) the transitional end day.
-- (e)[^key-65976aeaca9ffa80b10e73685e558a8f] a date requested by the claimant.
+- (e)[^c-65976aeaca9ffa80b10e73685e558a8f] a date requested by the claimant.
 
-(2)[^key-d9820aa309f0e571c5db88452ae30cc1] If the day referred to in sub-paragraphs (a), (b), (c) and (e) of paragraph (1)[^key-2b28e7bdbaea52b52c45390bb7d6e5a7] is not the first day of the claimant’s benefit week, in the case of a legacy benefit claimant or SPC claimant, or assessment period, in the case of a UC claimant, the day referred to shall be the first day of the first benefit week or first assessment period that begins after that date.
+(2)[^c-d9820aa309f0e571c5db88452ae30cc1] If the day referred to in sub-paragraphs (a), (b), (c) and (e) of paragraph (1)[^c-2b28e7bdbaea52b52c45390bb7d6e5a7] is not the first day of the claimant’s benefit week, in the case of a legacy benefit claimant or SPC claimant, or assessment period, in the case of a UC claimant, the day referred to shall be the first day of the first benefit week or first assessment period that begins after that date.
 
-(3)[^key-28023dcd97202a4d691ceb9da39fcc4c] In this regulation, “**couple**” means a couple entitled to universal credit as joint claimants under regulation 3(1)(a) of the UC Regulations.
+(3)[^c-28023dcd97202a4d691ceb9da39fcc4c] In this regulation, “**couple**” means a couple entitled to universal credit as joint claimants under regulation 3(1)(a) of the UC Regulations.
 
 ## 9. Duration of loan payments
 
@@ -275,11 +275,11 @@ Each loan payment shall be made—
 
 (3) The circumstances are that—
 
-- (a) the claimant ceases to be entitled to , or treated as entitled to,[^key-1ad2d048dd68cd25abe7c1ba0d300549] a qualifying benefit;
+- (a) the claimant ceases to be entitled to , or treated as entitled to,[^c-1ad2d048dd68cd25abe7c1ba0d300549] a qualifying benefit;
 - (b) the claimant ceases to be, or to be treated as, liable to make owner-occupier payments under Schedule 2 (circumstances in which a claimant is, or is to be treated as, liable to make owner-occupier payments);
 - (c) the claimant ceases to be, or to be treated as, occupying the relevant accommodation under Schedule 3 (circumstances in which a claimant is, or is to be, treated as occupying accommodation);
 - (d) the loan agreement is terminated in accordance with its terms;
-- (e)[^key-51e19923352163bf8e1afab3ee48a213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-51e19923352163bf8e1afab3ee48a213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Department shall make the loan payments direct to the claimant for the period specified in paragraph (6) if—
 
@@ -295,13 +295,13 @@ Each loan payment shall be made—
 
 (6) The period specified is the period of 4 weeks commencing with the day on which the relevant person is first engaged in remunerative work.
 
-(7)[^key-987d59ab056b2e0704cd476770f1d08b] If a legacy benefit claimant ceases to be entitled to, or treated as entitled to, a legacy benefit (“the old entitlement”) but becomes entitled, or treated as entitled, again to the benefit (“the new entitlement”) within the period of 52 weeks beginning with the day on which the claimant ceased to be entitled, or treated as entitled, to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
+(7)[^c-987d59ab056b2e0704cd476770f1d08b] If a legacy benefit claimant ceases to be entitled to, or treated as entitled to, a legacy benefit (“the old entitlement”) but becomes entitled, or treated as entitled, again to the benefit (“the new entitlement”) within the period of 52 weeks beginning with the day on which the claimant ceased to be entitled, or treated as entitled, to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
 
 (8) If a UC claimant ceases to be entitled to universal credit (“the old entitlement”) but becomes entitled again to universal credit (“the new entitlement”) within the period of 6 months beginning with the day on which the claimant ceased to be entitled to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
 
 ## 10. Calculation of each loan payment
 
-Subject to any deduction under regulation 14 (non-dependant deductions) or 14A (insurance payment deduction)[^key-7c821dfc2f001e3c7022b6088b98880b] , each loan payment shall be the aggregate of the amounts resulting from regulations 11 (calculation in respect of qualifying loans) and 12 (calculation in respect of alternative finance payments).
+Subject to any deduction under regulation 14 (non-dependant deductions) or 14A (insurance payment deduction)[^c-7c821dfc2f001e3c7022b6088b98880b] , each loan payment shall be the aggregate of the amounts resulting from regulations 11 (calculation in respect of qualifying loans) and 12 (calculation in respect of alternative finance payments).
 
 ## 11. Calculation in respect of qualifying loans
 
@@ -417,7 +417,7 @@ The result is the amount to be included in each loan payment for owner-occupier 
 - (a) on the first anniversary of the relevant date; and
 - (b) in respect of any variation after the first anniversary, on the next anniversary which follows the date of the variation.
 
-(5) In respect of an existing claimant, the Department shall recalculate the amount for the time being owing in connection with alternative finance arrangements[^key-57a54792d964a4f61ea9d6ecc28c3db3] on the anniversary of the date on which the claimant's qualifying benefit first included an amount for owner-occupier payments.
+(5) In respect of an existing claimant, the Department shall recalculate the amount for the time being owing in connection with alternative finance arrangements[^c-57a54792d964a4f61ea9d6ecc28c3db3] on the anniversary of the date on which the claimant's qualifying benefit first included an amount for owner-occupier payments.
 
 ## 13. Standard rate to be applied under regulations 11 and 12
 
@@ -481,7 +481,7 @@ where—
 
 The result is the amount of the non-dependant deduction to be made from each loan payment in the case of a legacy benefit claimant or SPC claimant.
 
-## 14A. Insurance payment deduction[^key-e537a6104b8790cdae0fd628d39bb51d]
+## 14A. Insurance payment deduction[^c-e537a6104b8790cdae0fd628d39bb51d]
 
 (1) In the case of a legacy benefit claimant or UC claimant, where the claimant or the claimant’s partner is in receipt of a payment under a policy of insurance taken out to insure against the risk of being unable to maintain owner-occupier payments within the meaning of Schedule 1, a deduction from the loan payment calculated under regulation 10 (calculation of each loan payment) shall be made equal to the amount received in respect of owner-occupier payments.
 
@@ -493,9 +493,9 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 - (a) the day on which the loan payments and accrued interest are repaid in full;
 - (b) the event referred to in regulation 16(1)(c).
-- (c)[^key-bcc563bf862dcbd1c41afb0a6f4b45ba] where the conditions in paragraph (1A) are met, the day on which the Department sends a completion statement to the claimant.
+- (c)[^c-bcc563bf862dcbd1c41afb0a6f4b45ba] where the conditions in paragraph (1A) are met, the day on which the Department sends a completion statement to the claimant.
 
-(1A)[^key-3d9855e02bd21d1da9a3da4afe62d299] The conditions are—
+(1A)[^c-3d9855e02bd21d1da9a3da4afe62d299] The conditions are—
 
 - (a) the claimant requests a completion statement from the Department in order to repay all of the outstanding amount in accordance with regulation 16(6) and (7) (repayment); and
 - (b) the outstanding amount is paid within 30 days beginning with the day on which the completion statement is sent by the Department to the claimant.
@@ -508,7 +508,7 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 (4) For the purposes of this regulation and regulation 16 (repayment), the outstanding amount is the sum of the loan payments and interest which has been charged under paragraph (1).
 
-(4A)[^key-50609cacd7a344f746956d3cd37f4a04] For the purposes of this regulation, a “completion statement” means a written statement setting out the outstanding amount owed by the claimant to the Department.
+(4A)[^c-50609cacd7a344f746956d3cd37f4a04] For the purposes of this regulation, a “completion statement” means a written statement setting out the outstanding amount owed by the claimant to the Department.
 
 (5) The interest rate referred to in paragraph (3) is the weighted average interest rate on conventional gilts specified in the most recent report published before the start of the relevant period by the Office for Budget Responsibility under section 4(3) of the Budget Responsibility and National Audit Act 2011 [^c22850001] (main duty of office).
 
@@ -523,7 +523,7 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 - (a) the relevant accommodation is sold;
 - (b) legal title in the relevant accommodation is transferred, assigned or otherwise disposed of, unless paragraph (3) applies;
-- (c)[^key-539282843d6c195b09879411a8a7822a] in the case of—
+- (c)[^c-539282843d6c195b09879411a8a7822a] in the case of—
   - (i) a claimant who is the sole legal owner of the relevant accommodation or the legal owner of the accommodation with someone other than a partner, the claimant’s death,
   - (ii) a claimant with a partner who is the sole legal owner of the relevant accommodation or the legal owner of the accommodation with someone other than the claimant, the partner’s death, or
   - (iii) a claimant and partner who are both legal owners (whether or not with anyone else) of the relevant accommodation, the death of the last member of the couple.
@@ -536,7 +536,7 @@ The result is the amount of the non-dependant deduction to be made from each loa
 (3) This paragraph applies where legal title is transferred to—
 
 - (a) the claimant's partner, following the death of the claimant, where the partner is in occupation of the relevant accommodation; or
-- (aa)[^key-d7ce0dd1dfc5bbf2e340523126910445] the claimant, following the death of the claimant’s partner, where the claimant is in occupation of the relevant accommodation; or
+- (aa)[^c-d7ce0dd1dfc5bbf2e340523126910445] the claimant, following the death of the claimant’s partner, where the claimant is in occupation of the relevant accommodation; or
 - (b) the claimant, from a former spouse or civil partner, under a court order or an agreement for maintenance where the claimant is in occupation of the relevant accommodation.
 
 (4) Where there is insufficient equity available in the relevant accommodation to discharge the outstanding amount and—
@@ -564,7 +564,7 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 (4) Schedule 4 (direct payments to qualifying lenders) has effect in relation to payments made under paragraph (1).
 
-## 18. Consequential amendments[^key-9c639017d812e3cd31b4d4b24c2fabd0]
+## 18. Consequential amendments[^c-9c639017d812e3cd31b4d4b24c2fabd0]
 
 (1) Subject to paragraph (2) and regulations 19, 19A and 20, the amendments in Schedule 5 have effect.
 
@@ -572,7 +572,7 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 (3) In this regulation, the “substantive Regulations” means the ESA Regulations, IS Regulations, JSA Regulations, SPC Regulations and UC Regulations.
 
-## 19. Transitional provision: loan offer made before 6th April 2018[^key-809053bdf52b6aec40f71bcf79fde594]
+## 19. Transitional provision: loan offer made before 6th April 2018[^c-809053bdf52b6aec40f71bcf79fde594]
 
 (1) Subject to regulation 20 (transitional provision: persons who lack capacity or may lack capacity identified before 6th April 2018), in relation to an existing claimant in a case where the loan payments offer date occurs before 6th April 2018, the amendments made by Schedule 5 (consequential amendments) shall be treated as though they did not have effect until the earlier of the following days (where that day occurs after 6th April 2018) (“the transitional end day”)—
 
@@ -684,8 +684,8 @@ The result is the amount of the non-dependant deduction to be made from each loa
 (1) Paragraph (3) applies where—
 
 - (a) an award of universal credit is made to a claimant who—
-  - (i) was entitled to , or was treated as entitled to,[^key-53f37b7f8fc3e3075fff99e97a726d8b] a legacy benefit (a “relevant award”) at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made (or would have been so entitled were it not for termination of that award by virtue of an order made under Article 2(2) of the Welfare Reform (Northern Ireland) Order 2015 [^c22850041] or the effect of the Transitional Provisions Regulations, or
-  - (ii) was at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made, the partner of a person (“P”) who was at that time entitled to , or treated as entitled to,[^key-65cd38568c3ce952ed30a744de2459ce] a relevant award, where the award of universal credit is not a joint award to the claimant and P;
+  - (i) was entitled to , or was treated as entitled to,[^c-53f37b7f8fc3e3075fff99e97a726d8b] a legacy benefit (a “relevant award”) at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made (or would have been so entitled were it not for termination of that award by virtue of an order made under Article 2(2) of the Welfare Reform (Northern Ireland) Order 2015 [^c22850041] or the effect of the Transitional Provisions Regulations, or
+  - (ii) was at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made, the partner of a person (“P”) who was at that time entitled to , or treated as entitled to,[^c-65cd38568c3ce952ed30a744de2459ce] a relevant award, where the award of universal credit is not a joint award to the claimant and P;
 - (b) on the relevant date—
   - (i) the relevant award included an amount in respect of housing costs under—
     - (aa) paragraphs 15 to 17 of Schedule 3 to the IS Regulations [^c22850051];
@@ -696,9 +696,9 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 (2) In this regulation, the “**relevant date**” means—
 
-- (a) where paragraph (1)(a)(i) applies and the claimant was not entitled to , or treated as entitled to,[^key-5d2074b28042112dd6e6b8492206f849] the relevant award on the date on which the claim for universal credit was made or treated as made, the date on which the relevant award terminated;
-- (b) where paragraph (1)(a)(i) applies, the claimant is not a new claimant partner and he or she was entitled to , or treated as entitled to,[^key-536faf7441d97ef245f2ac9332ba7c01] the relevant award on the date on which the claim for universal credit was made, that date;
-- (c) where paragraph (1)(a)(i) applies, the claimant is a new claimant partner and he or she was entitled to , or treated as entitled to,[^key-86c88b2710e51c5bdd252774052a6846] the relevant award on the date on which the claim for universal credit was treated as made, that date;
+- (a) where paragraph (1)(a)(i) applies and the claimant was not entitled to , or treated as entitled to,[^c-5d2074b28042112dd6e6b8492206f849] the relevant award on the date on which the claim for universal credit was made or treated as made, the date on which the relevant award terminated;
+- (b) where paragraph (1)(a)(i) applies, the claimant is not a new claimant partner and he or she was entitled to , or treated as entitled to,[^c-536faf7441d97ef245f2ac9332ba7c01] the relevant award on the date on which the claim for universal credit was made, that date;
+- (c) where paragraph (1)(a)(i) applies, the claimant is a new claimant partner and he or she was entitled to , or treated as entitled to,[^c-86c88b2710e51c5bdd252774052a6846] the relevant award on the date on which the claim for universal credit was treated as made, that date;
 - (d) where paragraph (1)(a)(ii) applies, the date on which the claimant ceased to be the partner of P or, if earlier, the date on which the relevant award terminated.
 
 (3) Where this paragraph applies, regulation 8(1)(b) (period covered by loan payments) does not apply.
@@ -817,7 +817,7 @@ then the amount of the loan to which sub-paragraph (1) applies is the amount (if
 
 (5) Loans taken out during the relevant period shall qualify as loans under paragraph 2(2) or (4), where a claimant satisfies any of the conditions specified in sub-paragraphs (6), (8) and (9), but—
 
-- (a) where the claimant satisfies the condition in sub-paragraph (6), the amount of each loan payment calculated under regulation 10 (calculation of each loan payment)[^key-2fe4ef2d6de06d0b1b862d28240a3244] shall be subject to the additional limitation imposed by sub-paragraph (7); and
+- (a) where the claimant satisfies the condition in sub-paragraph (6), the amount of each loan payment calculated under regulation 10 (calculation of each loan payment)[^c-2fe4ef2d6de06d0b1b862d28240a3244] shall be subject to the additional limitation imposed by sub-paragraph (7); and
 - (b) where the claimant satisfies the conditions in more than one of these sub-paragraphs, only one sub-paragraph shall apply in the claimant's case, which shall be the one most favourable to the claimant.
 
 (6) The first condition is that—
@@ -828,7 +828,7 @@ then the amount of the loan to which sub-paragraph (1) applies is the amount (if
 (7) Where the condition in sub-paragraph (6) is satisfied, the amount of the loans which qualify shall initially not exceed the aggregate of—
 
 - (a) the housing benefit entitlement referred to in sub-paragraph (6)(b); and
-- (b) any amount included in the applicable amount of the claimant or a member of the claimant's family relating to housing costs[^key-999948166cf9c927e114cdee01fdcf44] in that week,
+- (b) any amount included in the applicable amount of the claimant or a member of the claimant's family relating to housing costs[^c-999948166cf9c927e114cdee01fdcf44] in that week,
 
 and shall be increased subsequently only to the extent that it is necessary to take account of any increase in the standard rate under regulation 13 (standard rate to be applied under regulations 11 and 12) arising after the date of acquisition.
 
@@ -1110,7 +1110,7 @@ the claimant is to be treated as occupying as the claimant's home the accommodat
 
 #### 15. Living in other accommodation due to fear of violence
 
-(1) Sub-paragraphs (2) and (3) apply[^key-ba05d522b54b2eb5ce3d73e4e2035ae5] applies where—
+(1) Sub-paragraphs (2) and (3) apply[^c-ba05d522b54b2eb5ce3d73e4e2035ae5] applies where—
 
 - (a) a claimant is occupying accommodation (“the other accommodation”) other than the accommodation which the claimant occupies as the claimant's home (“the home accommodation”);
 - (b) it is unreasonable to expect the claimant to return to the home accommodation on account of the claimant's reasonable fear of violence in the home, or by a former partner, against the claimant or any child or qualifying young person for whom the claimant is responsible; and
@@ -1121,7 +1121,7 @@ the claimant is to be treated as occupying as the claimant's home the accommodat
 - (a) the claimant is liable to make payments in respect of both the other accommodation and the home accommodation; and
 - (b) it is reasonable to make loan payments in respect of both the home accommodation and the other accommodation.
 
-(3) Where the claimant is liable to make owner-occupier[^key-9876d3c09c7256da7b2766bfb4a6dc94] payments in respect of one accommodation only, the claimant is to be treated as occupying that accommodation as the claimant's home but only if it is reasonable to make loan payments in respect of that accommodation.
+(3) Where the claimant is liable to make owner-occupier[^c-9876d3c09c7256da7b2766bfb4a6dc94] payments in respect of one accommodation only, the claimant is to be treated as occupying that accommodation as the claimant's home but only if it is reasonable to make loan payments in respect of that accommodation.
 
 (4) No claimant may be treated as occupying both the home accommodation and the other accommodation under this paragraph for more than 12 months.
 
@@ -1156,15 +1156,15 @@ Regulation 17
 
 ### 1. Direct payments
 
-Each loan payment made to a qualifying lender directly under regulation 17(1) (direct payments to qualifying lenders) shall be the amount calculated under paragraph 2 [^key-0095bc726c90b52415115db36385cfb8]... of this Schedule.
+Each loan payment made to a qualifying lender directly under regulation 17(1) (direct payments to qualifying lenders) shall be the amount calculated under paragraph 2 [^c-0095bc726c90b52415115db36385cfb8]... of this Schedule.
 
-### 2. Determining the amount to be paid to a qualifying lender: one or more qualifying loans[^key-006b3f77d00cff50b84d783502f788e4]
+### 2. Determining the amount to be paid to a qualifying lender: one or more qualifying loans[^c-006b3f77d00cff50b84d783502f788e4]
 
 (1) Where one qualifying loan or alternative finance arrangement has been provided to a claimant by a qualifying lender, the amount that is to be paid direct to that lender is the amount of each loan payment.
 
 (2) Where more than one qualifying loan or alternative finance arrangement has been provided to a claimant by a qualifying lender, the amount that is to be paid direct to that lender is the amount of each loan payment in respect of each of those loans or alternative finance arrangements added together.
 
-### 3. Determining the amount to be paid to a qualifying lender: more than one qualifying loan[^key-249d9da4529522dc03ee6bff081ed50b]
+### 3. Determining the amount to be paid to a qualifying lender: more than one qualifying loan[^c-249d9da4529522dc03ee6bff081ed50b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1195,7 +1195,7 @@ the qualifying lender must apply the amount of excess in accordance with sub-par
   - (i) in respect of the loan or alternative finance arrangement referred to in sub-paragraph (3)(a), the principal sum or any other sum payable by the claimant to that lender, or
   - (ii) in respect of any other loan or alternative finance arrangement, any sum payable by the claimant to that lender where the liability to pay that sum is not already discharged.
 
-### 6. Fees payable by qualifying lenders[^key-02770a10007edece2fb6c21718d68384]
+### 6. Fees payable by qualifying lenders[^c-02770a10007edece2fb6c21718d68384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1270,7 +1270,7 @@ in the circumstances specified in sub-paragraphs (2), (3) and (6).
 
 Regulation 18
 
-### PART 1 — General[^key-a3889516b37479f4f3a5a4c6abceaeaa]
+### PART 1 — General[^c-a3889516b37479f4f3a5a4c6abceaeaa]
 
 **1.** The IS Regulations are amended as follows—
 
@@ -1321,7 +1321,7 @@ Regulation 18
     > (2A) Where a non-dependant deduction is being made under the Loans for Mortgage Interest Regulations (Northern Ireland) 2017, the amount of the deduction under sub-paragraph (1) or (2) is to be reduced by an amount equal to that non-dependant deduction.
 
     .
-- (e)[^key-2dd43f4aead129348e683a4c0ce5a8c6] in Schedule 9—
+- (e)[^c-2dd43f4aead129348e683a4c0ce5a8c6] in Schedule 9—
   - (i) for paragraph 29 substitute—
 
     > **29.** Any payment received under an insurance policy taken out to insure against the risk of being unable to maintain repayments on a loan which qualifies under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (legacy benefit claimants and SPC claimants) and used to meet such repayments.
@@ -1397,7 +1397,7 @@ Regulation 18
 
     ; and
   - (xv) in paragraph 18 [^c22850541] omit sub-paragraph (2).
-- (g)[^key-08a6d962cf6df7d05de7c446a43bf9e0] in Schedule 6—
+- (g)[^c-08a6d962cf6df7d05de7c446a43bf9e0] in Schedule 6—
   - (i) for paragraph 30 substitute—
 
     > **30.** Any payment received under an insurance policy taken out to insure against the risk of being unable to maintain repayments on a loan which qualifies under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (legacy benefit claimants and SPC claimants) and used to meet such repayments.
@@ -1499,7 +1499,7 @@ Regulation 18
 
     ; and
   - (xii) in paragraph 20 [^c22850711] omit sub-paragraph (2).
-- (d)[^key-3e158d20719ee2fb94896b9940f5d536] in Schedule 8—
+- (d)[^c-3e158d20719ee2fb94896b9940f5d536] in Schedule 8—
   - (i) for paragraph 30 substitute—
 
     > **30.** Any payment received under an insurance policy taken out to insure against the risk of being unable to maintain repayments on a loan which qualifies under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (legacy benefit claimants and SPC claimants) and used to meet such repayments.
@@ -1552,7 +1552,7 @@ Regulation 18
 - (b) in head (ii) for “paragraphs 16 to 18 of Schedule 6” substitute “ paragraph 18 of Schedule 6 ”; and
 - (c) in head (iii) for “paragraphs 15 to 17 of Schedule 3” substitute “ paragraph 17 of Schedule 3 ”.
 
-**7.**[^key-c3f1aa390beaf5175746c7964b615d18] The Claims and Payments Regulations are amended as follows—
+**7.**[^c-c3f1aa390beaf5175746c7964b615d18] The Claims and Payments Regulations are amended as follows—
 
 - (a) omit regulations 34ZA and 34ZB;
 - (b) in regulation 34A(1) omit “Except as provided for in regulation 34ZA and Schedule 8B,”;
@@ -1800,7 +1800,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22849511]: Marginal citation: [Article 4](https://www.legislation.gov.uk/nisr/2017/176/article/4) was amended by Article 4 of the Welfare Reform and Work (Northern Ireland) Order 2016. Functions under or for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and the Jobseekers (Northern Ireland) Order 1995 are vested in the Department for Communities by virtue of Article 8(b) of S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481) and section 1(7) of the [Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-4cab35d4788937d719cec422513c35f6]: Textual amendment: Words in reg. 2(1) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/a)
+[^c-4cab35d4788937d719cec422513c35f6]: Textual amendment: Words in reg. 2(1) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/a)
 
 [^c22849521]: Marginal citation: S.R. [2008 No. 280](https://www.legislation.gov.uk/ukcm/2008/280); regulation 67 was amended by regulation 3(4)(a) of S.R. [2010 No. 6](https://www.legislation.gov.uk/ukcm/2010/6). Regulation 68 was amended by regulation 3(4)(b) of S.R. [2010 No. 6](https://www.legislation.gov.uk/ukcm/2010/6). Regulation 69 was amended by regulation 5(2) of S.R. [2010 No.58](https://www.legislation.gov.uk/ukcm/2010/58). Regulation 70 was amended by regulation 7(a) of S.R. [2009 No. 68](https://www.legislation.gov.uk/ukcm/2009/68), [regulation 7](https://www.legislation.gov.uk/ukcm/2009/68/regulation/7) of S.R. [2012 No. 280](https://www.legislation.gov.uk/ukcm/2012/280), [regulation 11(22)](https://www.legislation.gov.uk/ukcm/2012/280/regulation/11/22) of S.R. [2013 No. 246](https://www.legislation.gov.uk/ukcm/2013/246) and regulation 7 of S.R. [2014 No. 133](https://www.legislation.gov.uk/ukcm/2014/133).
 
@@ -1814,7 +1814,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22849571]: Marginal citation: The definition for “benefit week” was substituted by regulation 3(2) of S.R. [2009 No. 409](https://www.legislation.gov.uk/ukcm/2009/409).
 
-[^key-c453fb628d71c31fcd8c02f60c61105a]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/b)
+[^c-c453fb628d71c31fcd8c02f60c61105a]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/b)
 
 [^c22849581]: Marginal citation: S.R. [1987 No. 465](https://www.legislation.gov.uk/ukcm/1987/465).
 
@@ -1838,19 +1838,19 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22849681]: Marginal citation: The Regulations have been modified in their application to certain claimants by S.R. [2008 No. 503](https://www.legislation.gov.uk/ukcm/2008/503) as amended by S.R. [2009 No. 426](https://www.legislation.gov.uk/ukcm/2009/426).
 
-[^key-5a0630e17666a6a36d5276aecda83aa3]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/c)
+[^c-5a0630e17666a6a36d5276aecda83aa3]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/c)
 
 [^c22849691]: Marginal citation: Article 3(4) was amended by paragraph 3(4)(b) of Schedule 7 to the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147) and paragraph 131 of Schedule 24 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
 [^c22849701]: Marginal citation: The Regulations have been modified in their application to certain claimants by S.R. [2008 No. 503](https://www.legislation.gov.uk/ukcm/2008/503) as amended by S.R. [2009 No. 426](https://www.legislation.gov.uk/ukcm/2009/426).
 
-[^key-383faccf614948d6d9659dba64bf5364]: Textual amendment: Words in reg. 2(1) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/d)
+[^c-383faccf614948d6d9659dba64bf5364]: Textual amendment: Words in reg. 2(1) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/d)
 
 [^c22849711]: Marginal citation: S.R. [2008 No. 503](https://www.legislation.gov.uk/ukcm/2008/503).
 
 [^c22849721]: Marginal citation: Regulation 3 was amended by Regulation 2(c) and paragraph 2(b) of Schedule 1 to S.R. [1989 No. 139](https://www.legislation.gov.uk/ukcm/1989/139), [regulation 2](https://www.legislation.gov.uk/ukcm/1989/139/regulation/2) of S.R. [1989 No. 395](https://www.legislation.gov.uk/ukcm/1989/395), [regulation 2](https://www.legislation.gov.uk/ukcm/1989/395/regulation/2) of S.R. [1990 No. 346](https://www.legislation.gov.uk/ukcm/1990/346), [regulation 2](https://www.legislation.gov.uk/ukcm/1990/346/regulation/2) of S.R. [1991 No. 474](https://www.legislation.gov.uk/ukcm/1991/474), [paragraph 1(b)](https://www.legislation.gov.uk/ukcm/1991/474/paragraph/1/b) of Schedule 12 to S.R. [1994 No. 65](https://www.legislation.gov.uk/ukcm/1994/65), [regulation 2](https://www.legislation.gov.uk/ukcm/1994/65/regulation/2) of S.R. [1994 No. 474](https://www.legislation.gov.uk/ukcm/1994/474) and regulation 2(3) of S.R. [1995 No. 86](https://www.legislation.gov.uk/ukcm/1995/86).
 
-[^key-825b4e6a30308f0e58ebfa376338bbc0]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/176/regulation/2/1) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/2)
+[^c-825b4e6a30308f0e58ebfa376338bbc0]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/176/regulation/2/1) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/2)
 
 [^c22849731]: Marginal citation: Schedule 3 was substituted by regulation 2 of S.R. [1995 No. 301](https://www.legislation.gov.uk/ukcm/1995/301), [paragraph 14](https://www.legislation.gov.uk/ukcm/1995/301/paragraph/14) was amended by regulation 2(3)(i) of S.R. [1995 No. 434](https://www.legislation.gov.uk/ukcm/1995/434), [regulation 24(b)](https://www.legislation.gov.uk/ukcm/1995/434/regulation/24/b) of S.R. [1996 No. 199](https://www.legislation.gov.uk/ukcm/1996/199), [regulation 5(10)(b)](https://www.legislation.gov.uk/ukcm/1996/199/regulation/5/10/b) of S.R. [1996 No. 405](https://www.legislation.gov.uk/ukcm/1996/405), [regulation 16(3)](https://www.legislation.gov.uk/ukcm/1996/405/regulation/16/3) of S.R. [1997 No. 541](https://www.legislation.gov.uk/ukcm/1997/541), [regulation 3(5)](https://www.legislation.gov.uk/ukcm/1997/541/regulation/3/5) of S.R. [1998 No. 182](https://www.legislation.gov.uk/ukcm/1998/182), [regulation 8(4)(b)](https://www.legislation.gov.uk/ukcm/1998/182/regulation/8/4/b) of S.R. [1998 No. 324](https://www.legislation.gov.uk/ukcm/1998/324), [regulation 3](https://www.legislation.gov.uk/ukcm/1998/324/regulation/3) of S.R. [1999 No. 107](https://www.legislation.gov.uk/ukcm/1999/107), [regulation 2(1)](https://www.legislation.gov.uk/ukcm/1999/107/regulation/2/1) of S.R. [1999 No. 315](https://www.legislation.gov.uk/ukcm/1999/315), [Article 7(11)(b)(i)](https://www.legislation.gov.uk/ukcm/1999/315/article/7/11/b/i) and (ii) of S.R. [1999 No. 472](https://www.legislation.gov.uk/ukcm/1999/472) (C. 36), regulation 3(5) of S.R. [2000 No. 241](https://www.legislation.gov.uk/ukcm/2000/241), [regulation 6](https://www.legislation.gov.uk/ukcm/2000/241/regulation/6) of S.R. [2001 No. 78](https://www.legislation.gov.uk/ukcm/2001/78), [regulation 12(b)(ii)(bb)](https://www.legislation.gov.uk/ukcm/2001/78/regulation/12/b/ii/bb) and (iv) of S.R. [2001 No. 151](https://www.legislation.gov.uk/ukcm/2001/151), [regulation 24(6)(d)](https://www.legislation.gov.uk/ukcm/2001/151/regulation/24/6/d) of S.R. [2003 No. 191](https://www.legislation.gov.uk/ukcm/2003/191), [regulation 2(7)](https://www.legislation.gov.uk/ukcm/2003/191/regulation/2/7) of S.R. [2005 No. 424](https://www.legislation.gov.uk/ukcm/2005/424), [regulation 5(6)(b)](https://www.legislation.gov.uk/ukcm/2005/424/regulation/5/6/b) of S.R. [2006 No. 359](https://www.legislation.gov.uk/ukcm/2006/359), [regulation 2(9)(b)(ii)](https://www.legislation.gov.uk/ukcm/2006/359/regulation/2/9/b/ii) and (15) of S.R. [2008 No. 112](https://www.legislation.gov.uk/ukcm/2008/112), [regulation 2(8)(b)](https://www.legislation.gov.uk/ukcm/2008/112/regulation/2/8/b) of S.R. 2008 no. 248, regulation 12(11) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286), [regulation 3(7)](https://www.legislation.gov.uk/ukcm/2008/286/regulation/3/7) of S.R. [2011 No. 135](https://www.legislation.gov.uk/ukcm/2011/135) and regulation 2(2)(i) of S.R. [2016 No. 44](https://www.legislation.gov.uk/ukcm/2016/44).
 
@@ -1862,17 +1862,17 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22849771]: Marginal citation: Regulation 4A was inserted by regulation 4(5) of S.R. [2017 No. 1](https://www.legislation.gov.uk/ukcm/2017/1).
 
-[^key-cbdac66b141ecd7a7c86e65e8ee23502]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/e)
+[^c-cbdac66b141ecd7a7c86e65e8ee23502]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/e)
 
-[^key-2452df81eecba2916cf551df8f3b2791]: Textual amendment: Words in reg. 2(1) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/f)
+[^c-2452df81eecba2916cf551df8f3b2791]: Textual amendment: Words in reg. 2(1) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/f)
 
 [^c22849781]: Marginal citation: The Regulations have been modified in their application to certain claimants by S.R. [2008 No. 503](https://www.legislation.gov.uk/ukcm/2008/503), as amended by S.R. [2009 No. 426](https://www.legislation.gov.uk/ukcm/2009/426).
 
-[^key-b8d88a8413f2e303e7d795165b3ea6d5]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/g)
+[^c-b8d88a8413f2e303e7d795165b3ea6d5]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/g)
 
 [^c22849791]: Marginal citation: S.R. [2016 No. 226](https://www.legislation.gov.uk/ukcm/2016/226).
 
-[^key-a6169301d38b1a9e9c090733ad38af80]: Textual amendment: Reg. 2(2)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(h)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/h)
+[^c-a6169301d38b1a9e9c090733ad38af80]: Textual amendment: Reg. 2(2)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(2)(h)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/2/h)
 
 [^c22849801]: Marginal citation: S.R. [1987 No. 459](https://www.legislation.gov.uk/ukcm/1987/459); regulation 15 was amended by regulation 4(5) of S.R. [1993 No. 373](https://www.legislation.gov.uk/ukcm/1993/373) and paragraph 3 of Schedule 1 to S.R. [2003 No. 1](https://www.legislation.gov.uk/ukcm/2003/1).
 
@@ -1896,43 +1896,43 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22849901]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33); section 39(2) was modified by the Pensions (Northern Ireland) Order [2005 No. 255](https://www.legislation.gov.uk/ukcm/2005/255) (N.I. 1).
 
-[^key-9087a8cf70ba1339b5256535d1232dfd]: Textual amendment: Word in reg. 3(1) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/3/a)
+[^c-9087a8cf70ba1339b5256535d1232dfd]: Textual amendment: Word in reg. 3(1) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/3/a)
 
-[^key-a28f0f19c31423a614a1251fd6637a09]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2017/176/regulation/3/1) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/3/a)
+[^c-a28f0f19c31423a614a1251fd6637a09]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2017/176/regulation/3/1) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/3/a)
 
-[^key-db795d9ad2b08e2b6aa78fa8b3198576]: Textual amendment: Word in reg. 3(2)(b) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/3/b)
+[^c-db795d9ad2b08e2b6aa78fa8b3198576]: Textual amendment: Word in reg. 3(2)(b) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/3/b)
 
-[^key-6873ff3a38af91d35cf0eea700b42a6c]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/176/regulation/3/4) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/3/b)
+[^c-6873ff3a38af91d35cf0eea700b42a6c]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/176/regulation/3/4) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/3/b)
 
-[^key-05baca171e2780c1f07185bc316143a9]: Textual amendment: Word in reg. 5(2)(a) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/4)
+[^c-05baca171e2780c1f07185bc316143a9]: Textual amendment: Word in reg. 5(2)(a) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/4)
 
-[^key-35dd1b221f285a9c04e8b6d6adabc6c7]: Textual amendment: Reg. 7(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/5)
+[^c-35dd1b221f285a9c04e8b6d6adabc6c7]: Textual amendment: Reg. 7(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/5)
 
-[^key-97b68e61f549a6a2408cf05e1dedaccb]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/b) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/a/i)
+[^c-97b68e61f549a6a2408cf05e1dedaccb]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/b) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/a/i)
 
-[^key-53c6e94c528a048945d304cbcdb111d3]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/bb) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/a/ii)
+[^c-53c6e94c528a048945d304cbcdb111d3]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/bb) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/a/ii)
 
-[^key-9fc1158715bcc46dacc3162843cdd08c]: Textual amendment: Reg. 8(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/6/a)
+[^c-9fc1158715bcc46dacc3162843cdd08c]: Textual amendment: Reg. 8(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/6/a)
 
-[^key-d4bf86545b5473e77727393becafa0a4]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/c) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/a/iii)
+[^c-d4bf86545b5473e77727393becafa0a4]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/1/c) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/a/iii)
 
-[^key-65976aeaca9ffa80b10e73685e558a8f]: Textual amendment: Reg. 8(1)(e) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/6/b)
+[^c-65976aeaca9ffa80b10e73685e558a8f]: Textual amendment: Reg. 8(1)(e) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/6/b)
 
-[^key-d9820aa309f0e571c5db88452ae30cc1]: Textual amendment: Reg. 8(2) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/6/c)
+[^c-d9820aa309f0e571c5db88452ae30cc1]: Textual amendment: Reg. 8(2) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/6/c)
 
-[^key-2b28e7bdbaea52b52c45390bb7d6e5a7]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/2) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/b)
+[^c-2b28e7bdbaea52b52c45390bb7d6e5a7]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/2) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/b)
 
-[^key-28023dcd97202a4d691ceb9da39fcc4c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/3) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/c)
+[^c-28023dcd97202a4d691ceb9da39fcc4c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2017/176/regulation/8/3) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/4/c)
 
-[^key-1ad2d048dd68cd25abe7c1ba0d300549]: Textual amendment: Words in reg. 9(3)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/7/a)
+[^c-1ad2d048dd68cd25abe7c1ba0d300549]: Textual amendment: Words in reg. 9(3)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/7/a)
 
-[^key-51e19923352163bf8e1afab3ee48a213]: Textual amendment: [Reg. 9(3)(e)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/3/e) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/5/a)
+[^c-51e19923352163bf8e1afab3ee48a213]: Textual amendment: [Reg. 9(3)(e)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/3/e) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/5/a)
 
-[^key-987d59ab056b2e0704cd476770f1d08b]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/7)[(8)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/8) substituted for [reg. 9(7)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/7) (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/5/b)
+[^c-987d59ab056b2e0704cd476770f1d08b]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/7)[(8)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/8) substituted for [reg. 9(7)](https://www.legislation.gov.uk/nisr/2017/176/regulation/9/7) (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/31)](https://www.legislation.gov.uk/nisr/2023/31), [regs. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2023/31/regulation/2/5/b)
 
-[^key-7c821dfc2f001e3c7022b6088b98880b]: Textual amendment: Words in reg. 10 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/8)
+[^c-7c821dfc2f001e3c7022b6088b98880b]: Textual amendment: Words in reg. 10 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/8)
 
-[^key-57a54792d964a4f61ea9d6ecc28c3db3]: Textual amendment: Words in reg. 12(5) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(9)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/9)
+[^c-57a54792d964a4f61ea9d6ecc28c3db3]: Textual amendment: Words in reg. 12(5) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(9)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/9)
 
 [^c22849921]: Marginal citation: S.R. [1987 No. 459](https://www.legislation.gov.uk/ukcm/1987/459); paragraph 17 was amended by regulation 5 and paragraph 1(4)(a) of Schedule 2 to S.R. [2006 No. 407](https://www.legislation.gov.uk/ukcm/2006/407).
 
@@ -1950,39 +1950,39 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22849991]: Marginal citation: Paragraph 14 was amended by regulation 23(7)(c) of S.R. [2003 No. 191](https://www.legislation.gov.uk/ukcm/2003/191), [regulation 7(2)](https://www.legislation.gov.uk/ukcm/2003/191/regulation/7/2) of S.R. [2003 No. 261](https://www.legislation.gov.uk/ukcm/2003/261), [regulation 6(5)(b)](https://www.legislation.gov.uk/ukcm/2003/261/regulation/6/5/b) of S.R. [2004 No. 394](https://www.legislation.gov.uk/ukcm/2004/394), [regulation 7(4)(b)](https://www.legislation.gov.uk/ukcm/2004/394/regulation/7/4/b) of S.R. [2005 No. 580](https://www.legislation.gov.uk/ukcm/2005/580), [regulation 14(5)](https://www.legislation.gov.uk/ukcm/2005/580/regulation/14/5) of S.R. [2006 No. 359](https://www.legislation.gov.uk/ukcm/2006/359), [regulation 5](https://www.legislation.gov.uk/ukcm/2006/359/regulation/5) and paragraph 11(4)(c) of Schedule 2 to S.R. [2006 No. 407](https://www.legislation.gov.uk/ukcm/2006/407), [regulation 30(8)(e)](https://www.legislation.gov.uk/ukcm/2006/407/regulation/30/8/e) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286), [regulation 5(3)(b)](https://www.legislation.gov.uk/ukcm/2008/286/regulation/5/3/b) and (c) of S.R. [2008 No. 428](https://www.legislation.gov.uk/ukcm/2008/428), [regulation 6(3)(b)](https://www.legislation.gov.uk/ukcm/2008/428/regulation/6/3/b) of S.R. [2010 No. 69](https://www.legislation.gov.uk/ukcm/2010/69), [regulation 14(5)](https://www.legislation.gov.uk/ukcm/2010/69/regulation/14/5) of S.R. [2011 No. 357](https://www.legislation.gov.uk/ukcm/2011/357), [regulation 5](https://www.legislation.gov.uk/ukcm/2011/357/regulation/5) of S.R. [2013 No. 67](https://www.legislation.gov.uk/ukcm/2013/67), [regulation 23(5)(b) to (d)](https://www.legislation.gov.uk/ukcm/2013/67/regulation/23/5/b) of [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021), [regulation 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/3021/regulation/4/3/b) of S.R. [2014 No. 275](https://www.legislation.gov.uk/ukcm/2014/275), [regulation 25(5)(b)](https://www.legislation.gov.uk/ukcm/2014/275/regulation/25/5/b) of S.R. [2016 No. 228](https://www.legislation.gov.uk/ukcm/2016/228) and Article 25(4) of S.R. [2017 No. 56](https://www.legislation.gov.uk/ukcm/2017/56).
 
-[^key-e537a6104b8790cdae0fd628d39bb51d]: Textual amendment: Reg. 14A inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(10)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/10)
+[^c-e537a6104b8790cdae0fd628d39bb51d]: Textual amendment: Reg. 14A inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(10)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/10)
 
-[^key-bcc563bf862dcbd1c41afb0a6f4b45ba]: Textual amendment: Reg. 15(1)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/11/a)
+[^c-bcc563bf862dcbd1c41afb0a6f4b45ba]: Textual amendment: Reg. 15(1)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/11/a)
 
-[^key-3d9855e02bd21d1da9a3da4afe62d299]: Textual amendment: Reg. 15(1A)(1B) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/11/b)
+[^c-3d9855e02bd21d1da9a3da4afe62d299]: Textual amendment: Reg. 15(1A)(1B) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/11/b)
 
-[^key-50609cacd7a344f746956d3cd37f4a04]: Textual amendment: Reg. 15(4A) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(11)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/11/c)
+[^c-50609cacd7a344f746956d3cd37f4a04]: Textual amendment: Reg. 15(4A) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(11)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/11/c)
 
 [^c22850001]: Marginal citation: [2011 c. 4](https://www.legislation.gov.uk/ukpga/2011/4).
 
-[^key-539282843d6c195b09879411a8a7822a]: Textual amendment: Reg. 16(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/12/a)
+[^c-539282843d6c195b09879411a8a7822a]: Textual amendment: Reg. 16(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/12/a)
 
-[^key-d7ce0dd1dfc5bbf2e340523126910445]: Textual amendment: Reg. 16(3)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/12/b)
+[^c-d7ce0dd1dfc5bbf2e340523126910445]: Textual amendment: Reg. 16(3)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/12/b)
 
-[^key-9c639017d812e3cd31b4d4b24c2fabd0]: Textual amendment: Reg. 18 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(13)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/13)
+[^c-9c639017d812e3cd31b4d4b24c2fabd0]: Textual amendment: Reg. 18 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(13)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/13)
 
-[^key-809053bdf52b6aec40f71bcf79fde594]: Textual amendment: Regs. 19, 19A, 20 substituted (6.4.2018) for regs. 19, 20 by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(14)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/14)
+[^c-809053bdf52b6aec40f71bcf79fde594]: Textual amendment: Regs. 19, 19A, 20 substituted (6.4.2018) for regs. 19, 20 by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(14)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/14)
 
-[^key-53f37b7f8fc3e3075fff99e97a726d8b]: Textual amendment: Words in [reg. 21(1)(a)(i)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/1/a/i) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(a)(i)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/a/i)
+[^c-53f37b7f8fc3e3075fff99e97a726d8b]: Textual amendment: Words in [reg. 21(1)(a)(i)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/1/a/i) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(a)(i)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/a/i)
 
 [^c22850041]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-65cd38568c3ce952ed30a744de2459ce]: Textual amendment: Words in [reg. 21(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/1/a/ii) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/a/ii)
+[^c-65cd38568c3ce952ed30a744de2459ce]: Textual amendment: Words in [reg. 21(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/1/a/ii) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/a/ii)
 
 [^c22850051]: Marginal citation: S.R. [1987 No. 459](https://www.legislation.gov.uk/ukcm/1987/459); paragraph 16 was amended by regulation 2(8)(c) of S.R. [2008 No. 248](https://www.legislation.gov.uk/ukcm/2008/248). Paragraph 17 was amended by regulation 5 and paragraph 1(4)(a) of Schedule 2 to S.R. [2016 No. 407](https://www.legislation.gov.uk/ukcm/2016/407).
 
 [^c22850061]: Marginal citation: S.R. [1996 No. 198](https://www.legislation.gov.uk/ukcm/1996/198); paragraph 15 was amended by regulation 4(8)(c) of S.R. [2008 No. 428](https://www.legislation.gov.uk/ukcm/2008/428). Paragraph 16 was amended by regulation 5 and paragraph 4(4)(a) of Schedule 2 to S.R. [2006 No. 407](https://www.legislation.gov.uk/ukcm/2006/407).
 
-[^key-5d2074b28042112dd6e6b8492206f849]: Textual amendment: Words in [reg. 21(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/2/a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(b)(i)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/b/i)
+[^c-5d2074b28042112dd6e6b8492206f849]: Textual amendment: Words in [reg. 21(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/2/a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(b)(i)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/b/i)
 
-[^key-536faf7441d97ef245f2ac9332ba7c01]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/2/b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(b)(ii)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/b/ii)
+[^c-536faf7441d97ef245f2ac9332ba7c01]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/2/b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(b)(ii)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/b/ii)
 
-[^key-86c88b2710e51c5bdd252774052a6846]: Textual amendment: Words in [reg. 21(2)(c)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/2/c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(b)(iii)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/b/iii)
+[^c-86c88b2710e51c5bdd252774052a6846]: Textual amendment: Words in [reg. 21(2)(c)](https://www.legislation.gov.uk/nisr/2017/176/regulation/21/2/c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(15)(b)(iii)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/15/b/iii)
 
 [^c22850071]: Marginal citation: Paragraph 8(1) was amended by regulation 2(3)(f)(i) of S.R. [1995 No. 434](https://www.legislation.gov.uk/ukcm/1995/434) and regulation 2(2)(d)(ii) of S.R. [2016 No. 44](https://www.legislation.gov.uk/ukcm/2016/44).
 
@@ -1994,9 +1994,9 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22850111]: Marginal citation: Regulation 75(1)(a) is substituted by regulation 2(9)(a)(ii) of S.R. [2016 No. 241](https://www.legislation.gov.uk/ukcm/2016/241).
 
-[^key-2fe4ef2d6de06d0b1b862d28240a3244]: Textual amendment: Words in [Sch. 1 para. 3(5)(a)](https://www.legislation.gov.uk/nisr/2017/176/schedule/1/paragraph/3/5/a) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(16)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/16/a)
+[^c-2fe4ef2d6de06d0b1b862d28240a3244]: Textual amendment: Words in [Sch. 1 para. 3(5)(a)](https://www.legislation.gov.uk/nisr/2017/176/schedule/1/paragraph/3/5/a) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(16)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/16/a)
 
-[^key-999948166cf9c927e114cdee01fdcf44]: Textual amendment: Words in [Sch. 1 para. 3(7)(b)](https://www.legislation.gov.uk/nisr/2017/176/schedule/1/paragraph/3/7/b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(16)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/16/b)
+[^c-999948166cf9c927e114cdee01fdcf44]: Textual amendment: Words in [Sch. 1 para. 3(7)(b)](https://www.legislation.gov.uk/nisr/2017/176/schedule/1/paragraph/3/7/b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(16)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/16/b)
 
 [^c22850121]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); [Part 10A](https://www.legislation.gov.uk/nisr/2017/176/part/10A) was inserted by section 365 of, and Part 1 of Schedule 2 to, the [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8).
 
@@ -2018,23 +2018,23 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22850211]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21); [section 9](https://www.legislation.gov.uk/nisr/2017/176/section/9) is amended by section 13 of the [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7).
 
-[^key-ba05d522b54b2eb5ce3d73e4e2035ae5]: Textual amendment: Words in [Sch. 3 para. 15(1)](https://www.legislation.gov.uk/nisr/2017/176/schedule/3/paragraph/15/1) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/28)](https://www.legislation.gov.uk/nisr/2021/28), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/28/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/28/regulation/2/a)
+[^c-ba05d522b54b2eb5ce3d73e4e2035ae5]: Textual amendment: Words in [Sch. 3 para. 15(1)](https://www.legislation.gov.uk/nisr/2017/176/schedule/3/paragraph/15/1) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/28)](https://www.legislation.gov.uk/nisr/2021/28), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/28/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/28/regulation/2/a)
 
-[^key-9876d3c09c7256da7b2766bfb4a6dc94]: Textual amendment: Word in [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/nisr/2017/176/schedule/3/paragraph/15/3) inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/28)](https://www.legislation.gov.uk/nisr/2021/28), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/28/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/28/regulation/2/b)
+[^c-9876d3c09c7256da7b2766bfb4a6dc94]: Textual amendment: Word in [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/nisr/2017/176/schedule/3/paragraph/15/3) inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/28)](https://www.legislation.gov.uk/nisr/2021/28), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/28/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/28/regulation/2/b)
 
-[^key-0095bc726c90b52415115db36385cfb8]: Textual amendment: Words in Sch. 4 para. 1 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/17/a)
+[^c-0095bc726c90b52415115db36385cfb8]: Textual amendment: Words in Sch. 4 para. 1 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/17/a)
 
-[^key-006b3f77d00cff50b84d783502f788e4]: Textual amendment: Sch. 4 para. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/17/b)
+[^c-006b3f77d00cff50b84d783502f788e4]: Textual amendment: Sch. 4 para. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/17/b)
 
-[^key-249d9da4529522dc03ee6bff081ed50b]: Textual amendment: Sch. 4 para. 3 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(17)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/17/c)
+[^c-249d9da4529522dc03ee6bff081ed50b]: Textual amendment: Sch. 4 para. 3 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(17)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/17/c)
 
 [^M_F_c757e48c-a9fc-48c3-ffe9-d0d9e51f7ae2]: Textual amendment: Sch. 4 para. 5(3)(a)(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [2(17)(d)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/17/d)
 
-[^key-02770a10007edece2fb6c21718d68384]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2017/176/schedule/4/paragraph/6) omitted (3.8.2020) by virtue of [The Loans for Mortgage Interest (Transaction Fee) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/125)](https://www.legislation.gov.uk/nisr/2020/125), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/125/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2020/125/regulation/2)
+[^c-02770a10007edece2fb6c21718d68384]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2017/176/schedule/4/paragraph/6) omitted (3.8.2020) by virtue of [The Loans for Mortgage Interest (Transaction Fee) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/125)](https://www.legislation.gov.uk/nisr/2020/125), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/125/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2020/125/regulation/2)
 
 [^c22850221]: Marginal citation: S.R. [2016 No. 220](https://www.legislation.gov.uk/ukcm/2016/220).
 
-[^key-a3889516b37479f4f3a5a4c6abceaeaa]: Textual amendment: Words in Sch. 5 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/a)
+[^c-a3889516b37479f4f3a5a4c6abceaeaa]: Textual amendment: Words in Sch. 5 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(a)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/a)
 
 [^c22850231]: Marginal citation: S.R. [1989 No. 459](https://www.legislation.gov.uk/ukcm/1989/459); regulation 6(5) was amended by regulation 2(2) of S.R. [2007 No. 475](https://www.legislation.gov.uk/ukcm/2007/475) and regulation 12(3) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286).
 
@@ -2062,7 +2062,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22850351]: Marginal citation: Paragraph 18 was amended by regulation 2(3)(j)(ii) and (iii) of S.R. [1995 No. 434](https://www.legislation.gov.uk/ukcm/1995/434), [regulation 3(b)](https://www.legislation.gov.uk/ukcm/1995/434/regulation/3/b) of S.R. [1997 No. 3](https://www.legislation.gov.uk/ukcm/1997/3), [regulation 3](https://www.legislation.gov.uk/ukcm/1997/3/regulation/3) of SR. [1997 No. 165](https://www.legislation.gov.uk/ukcm/1997/165), [Article 7(2)](https://www.legislation.gov.uk/ukcm/1997/165/article/7/2) of S.R. [1999 No. 472](https://www.legislation.gov.uk/ukcm/1999/472) (C. 36), regulation 3(4) of S.R. [2003 No. 261](https://www.legislation.gov.uk/ukcm/2003/261), [regulation 4(b)(i)](https://www.legislation.gov.uk/ukcm/2003/261/regulation/4/b/i) and (ii)(bb) of S.R. [2004 No. 394](https://www.legislation.gov.uk/ukcm/2004/394), [regulation 3(4)](https://www.legislation.gov.uk/ukcm/2004/394/regulation/3/4) of S.R. [2005 No. 580](https://www.legislation.gov.uk/ukcm/2005/580), [regulation 5](https://www.legislation.gov.uk/ukcm/2005/580/regulation/5) and paragraph 1(4)(b) of Schedule 2 to S.R. [2006 No. 407](https://www.legislation.gov.uk/ukcm/2006/407), [regulation 12(11)(g)](https://www.legislation.gov.uk/ukcm/2006/407/regulation/12/11/g) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286), [regulation 2(5)(e)](https://www.legislation.gov.uk/ukcm/2008/286/regulation/2/5/e) and (8)(d) of S.R. [2008 No. 428](https://www.legislation.gov.uk/ukcm/2008/428), [regulation 2(3)(e)](https://www.legislation.gov.uk/ukcm/2008/428/regulation/2/3/e) and (7)(d) of S.R. [2010 No. 69](https://www.legislation.gov.uk/ukcm/2010/69), [regulation 7(5)(c)](https://www.legislation.gov.uk/ukcm/2010/69/regulation/7/5/c) of S.R. [2011 No. 357](https://www.legislation.gov.uk/ukcm/2011/357), [regulation 2(3)](https://www.legislation.gov.uk/ukcm/2011/357/regulation/2/3) of S.R. [2013 No. 67](https://www.legislation.gov.uk/ukcm/2013/67), [regulation 14(6)](https://www.legislation.gov.uk/ukcm/2013/67/regulation/14/6) of [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021), [regulation 2(3)](https://www.legislation.gov.uk/uksi/2013/3021/regulation/2/3) of S.R. [2014 No. 275](https://www.legislation.gov.uk/ukcm/2014/275), [regulation 2(3)(b)(v)](https://www.legislation.gov.uk/ukcm/2014/275/regulation/2/3/b/v) of S.R. [2016 No. 110](https://www.legislation.gov.uk/ukcm/2016/110) and regulation 11(6) of S.R. [2016 No. 228](https://www.legislation.gov.uk/ukcm/2016/228).
 
-[^key-2dd43f4aead129348e683a4c0ce5a8c6]: Textual amendment: Sch. 5 para. 1(e) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/b)
+[^c-2dd43f4aead129348e683a4c0ce5a8c6]: Textual amendment: Sch. 5 para. 1(e) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(b)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/b)
 
 [^c22850361]: Marginal citation: S.R. [1996 No. 198](https://www.legislation.gov.uk/ukcm/1996/198); regulation 83 was amended by paragraph 4 of Part 2 of the Schedule to S.R. [2002 No. 132](https://www.legislation.gov.uk/ukcm/2002/132), [paragraph 2(a)](https://www.legislation.gov.uk/ukcm/2002/132/paragraph/2/a) of Schedule 2 to S.R. [2003 No. 195](https://www.legislation.gov.uk/ukcm/2003/195), [regulation 4(3)](https://www.legislation.gov.uk/ukcm/2003/195/regulation/4/3) of S.R. [2003 No. 267](https://www.legislation.gov.uk/ukcm/2003/267) and regulation 3(3)(a) of S.R. [2010 No. 6](https://www.legislation.gov.uk/ukcm/2010/6).
 
@@ -2102,7 +2102,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22850541]: Marginal citation: Paragraph 18 was amended by regulation 29(7) of S.R. [1996 No. 358](https://www.legislation.gov.uk/ukcm/1996/358), [regulation 19(25)(g)](https://www.legislation.gov.uk/ukcm/1996/358/regulation/19/25/g) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286) and regulation 3(2)(i) of S.R. [2016 No. 44](https://www.legislation.gov.uk/ukcm/2016/44).
 
-[^key-08a6d962cf6df7d05de7c446a43bf9e0]: Textual amendment: Sch. 5 para. 2(g) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/c)
+[^c-08a6d962cf6df7d05de7c446a43bf9e0]: Textual amendment: Sch. 5 para. 2(g) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(c)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/c)
 
 [^c22850551]: Marginal citation: S.R. [2003 No. 28](https://www.legislation.gov.uk/ukcm/2003/28); paragraph 1 was amended by regulation 4(a) of S.R. [2004 No. 461](https://www.legislation.gov.uk/ukcm/2004/461), [regulation 7(4)(a)](https://www.legislation.gov.uk/ukcm/2004/461/regulation/7/4/a) of S.R. [2005 No. 580](https://www.legislation.gov.uk/ukcm/2005/580), [regulation 5(4)](https://www.legislation.gov.uk/ukcm/2005/580/regulation/5/4) of S.R. [2006 No. 97](https://www.legislation.gov.uk/ukcm/2006/97), [regulation 5(4)](https://www.legislation.gov.uk/ukcm/2006/97/regulation/5/4) of S.R. [2006 No. 128](https://www.legislation.gov.uk/ukcm/2006/128), [regulation 30(8)(a)](https://www.legislation.gov.uk/ukcm/2006/128/regulation/30/8/a) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286), [regulation 23(5)(a)](https://www.legislation.gov.uk/ukcm/2008/286/regulation/23/5/a) of [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021), [regulation 4(3)(a)](https://www.legislation.gov.uk/uksi/2013/3021/regulation/4/3/a) of S.R. [2014 No. 275](https://www.legislation.gov.uk/ukcm/2014/275), [regulation 6](https://www.legislation.gov.uk/ukcm/2014/275/regulation/6) of S.R. [2016 No. 175](https://www.legislation.gov.uk/ukcm/2016/175), [regulation 25(5)(a)](https://www.legislation.gov.uk/ukcm/2016/175/regulation/25/5/a) of S.R. [2016 No. 228](https://www.legislation.gov.uk/ukcm/2016/228) and paragraph 5(3)(a) of Schedule 1 to S.R. [2017 No. 51](https://www.legislation.gov.uk/ukcm/2017/51).
 
@@ -2138,10 +2138,10 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c22850711]: Marginal citation: Paragraph 20 was amended by regulation 4(2) of S.R. [2016 No. 44](https://www.legislation.gov.uk/ukcm/2016/44).
 
-[^key-3e158d20719ee2fb94896b9940f5d536]: Textual amendment: Sch. 5 para. 4(d) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(d)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/d)
+[^c-3e158d20719ee2fb94896b9940f5d536]: Textual amendment: Sch. 5 para. 4(d) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(d)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/d)
 
 [^c22850721]: Marginal citation: Regulation 66 was amended by Article 28(3) of S.R. [2017 No. 66](https://www.legislation.gov.uk/ukcm/2017/66).
 
 [^c22850731]: Marginal citation: S.R. [2016 No. 226](https://www.legislation.gov.uk/ukcm/2016/226).
 
-[^key-c3f1aa390beaf5175746c7964b615d18]: Textual amendment: Sch. 5 paras. 7-12 added (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e)
+[^c-c3f1aa390beaf5175746c7964b615d18]: Textual amendment: Sch. 5 paras. 7-12 added (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e)

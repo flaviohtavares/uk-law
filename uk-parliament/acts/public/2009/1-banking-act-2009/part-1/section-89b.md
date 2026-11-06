@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89B. Application to recognised central counterparties[^key-e897d6f8d601e9c6840770143f9f347c]
+## 89B. Application to recognised central counterparties[^c-e897d6f8d601e9c6840770143f9f347c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e897d6f8d601e9c6840770143f9f347c]: Textual amendment: [S. 89B-89G and cross-heading](https://www.legislation.gov.uk/ukpga/2009/1/part/1/crossheading/uk-clearing-houses) omitted (31.12.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 162(6)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/162/6); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2023/1382/regulation/14))
+[^c-e897d6f8d601e9c6840770143f9f347c]: Textual amendment: [S. 89B-89G and cross-heading](https://www.legislation.gov.uk/ukpga/2009/1/part/1/crossheading/uk-clearing-houses) omitted (31.12.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 162(6)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/162/6); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2023/1382/regulation/14))

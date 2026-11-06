@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 73. Amendment and withdrawal of claim[^key-fa4662a5e1fb21143776a886f1fb791e]
+## 73. Amendment and withdrawal of claim[^c-fa4662a5e1fb21143776a886f1fb791e]
 
 (1) A person who has made a claim may amend it at any time before a decision has been made on it by a notice in writing delivered or sent to the designated office.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa4662a5e1fb21143776a886f1fb791e]: Textual amendment: Reg. 73 substituted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/4/7)
+[^c-fa4662a5e1fb21143776a886f1fb791e]: Textual amendment: Reg. 73 substituted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/4/7)

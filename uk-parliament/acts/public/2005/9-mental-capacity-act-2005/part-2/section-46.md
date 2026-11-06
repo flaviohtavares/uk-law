@@ -30,11 +30,11 @@ summary: ''
 (2)[^c2089909] To be nominated, a judge must be—
 
 - (a) the President of the Family Division,
-- (b) the President of the Business and Property Division[^key-094a205d3e7e37c701e2a84dd68f8405],
+- (b) the President of the Business and Property Division[^c-094a205d3e7e37c701e2a84dd68f8405],
 - (c) a puisne judge of the High Court,
-- (d) a circuit judge, [^key-660a17683be88cc8d19479983c1f3228]...
+- (d) a circuit judge, [^c-660a17683be88cc8d19479983c1f3228]...
 - (e) a district judge.
-- (f)[^key-298dc32efff1da6b300e3600a42f8a82] a District Judge (Magistrates' Courts),
+- (f)[^c-298dc32efff1da6b300e3600a42f8a82] a District Judge (Magistrates' Courts),
 - (g) a judge of the First-tier Tribunal, or of the Upper Tribunal, by virtue of appointment under paragraph 1(1) of Schedule 2 or 3 to the Tribunals, Courts and Enforcement Act 2007,
 - (h) a transferred-in judge of the First-tier Tribunal or of the Upper Tribunal (see section 31(2) of that Act),
 - (i) a deputy judge of the Upper Tribunal (whether under paragraph 7 of Schedule 3 to, or section 31(2) of, that Act),
@@ -58,7 +58,7 @@ summary: ''
 - (a) appoint one of the judges nominated by virtue of subsection (2)(a) to (c) to be President of the Court of Protection, and
 - (b) appoint another of those judges to be Vice-President of the Court of Protection.
 
-(4) The Lord Chief Justice, after consulting the Lord Chancellor,[^c2089913][^c2089913] must appoint one of the judges nominated by virtue of subsection (2)(d) to (q)[^key-dd66fc67bd6fc844ffc1f25549091409] to be Senior Judge of the Court of Protection, having such administrative functions in relation to the court as the Lord Chancellor , after consulting the Lord Chief Justice,[^c2089917][^c2089917] may direct.
+(4) The Lord Chief Justice, after consulting the Lord Chancellor,[^c2089913][^c2089913] must appoint one of the judges nominated by virtue of subsection (2)(d) to (q)[^c-dd66fc67bd6fc844ffc1f25549091409] to be Senior Judge of the Court of Protection, having such administrative functions in relation to the court as the Lord Chancellor , after consulting the Lord Chief Justice,[^c2089917][^c2089917] may direct.
 
 ## Annotations
 
@@ -66,16 +66,16 @@ summary: ''
 
 [^c2089909]: Textual amendment: S. 46(1)(b) substituted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016)](https://www.legislation.gov.uk/uksi/2006/1016), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1016/article/2), [Sch. 1 para. 33(3)](https://www.legislation.gov.uk/uksi/2006/1016/schedule/1/paragraph/33/3)
 
-[^key-094a205d3e7e37c701e2a84dd68f8405]: Textual amendment: Words in [s. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2005/9/section/46/2/b) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/24)
+[^c-094a205d3e7e37c701e2a84dd68f8405]: Textual amendment: Words in [s. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2005/9/section/46/2/b) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/24)
 
-[^key-660a17683be88cc8d19479983c1f3228]: Textual amendment: Word in s. 46(2)(d) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-660a17683be88cc8d19479983c1f3228]: Textual amendment: Word in s. 46(2)(d) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-298dc32efff1da6b300e3600a42f8a82]: Textual amendment: S. 46(2)(f)-(w) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-298dc32efff1da6b300e3600a42f8a82]: Textual amendment: S. 46(2)(f)-(w) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
 [^c2089911]: Textual amendment: Words in s. 46(3) substituted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016)](https://www.legislation.gov.uk/uksi/2006/1016), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1016/article/2), [Sch. 1 para. 33(4)](https://www.legislation.gov.uk/uksi/2006/1016/schedule/1/paragraph/33/4)
 
 [^c2089913]: Textual amendment: Words in s. 46(4) substituted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016)](https://www.legislation.gov.uk/uksi/2006/1016), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1016/article/2), [Sch. 1 para. 33(5)(a)](https://www.legislation.gov.uk/uksi/2006/1016/schedule/1/paragraph/33/5/a)
 
-[^key-dd66fc67bd6fc844ffc1f25549091409]: Textual amendment: Words in s. 46(4) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5/4); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-dd66fc67bd6fc844ffc1f25549091409]: Textual amendment: Words in s. 46(4) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5/4); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
 [^c2089917]: Textual amendment: Words in s. 46(4) inserted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016)](https://www.legislation.gov.uk/uksi/2006/1016), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1016/article/2), [Sch. 1 para. 33(5)(b)](https://www.legislation.gov.uk/uksi/2006/1016/schedule/1/paragraph/33/5/b)

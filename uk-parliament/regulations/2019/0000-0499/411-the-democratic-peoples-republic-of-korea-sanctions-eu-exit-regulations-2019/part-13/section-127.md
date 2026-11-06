@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Article 20 of the Export Control Order 2008[^key-0ac187b99dc957eda4e577ce6a21d82e][^key-7f9ca11cd57c405b503f7fd6df267d6c]
+## 127. Article 20 of the Export Control Order 2008[^c-0ac187b99dc957eda4e577ce6a21d82e][^c-7f9ca11cd57c405b503f7fd6df267d6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Article 20 of the Export Control Order 2008 (embargoed destinations) is not to b
 
 ## Annotations
 
-[^key-0ac187b99dc957eda4e577ce6a21d82e]: Commencement: Reg. 127 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-0ac187b99dc957eda4e577ce6a21d82e]: Commencement: Reg. 127 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-7f9ca11cd57c405b503f7fd6df267d6c]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2019/411/regulation/127) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f9ca11cd57c405b503f7fd6df267d6c]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2019/411/regulation/127) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

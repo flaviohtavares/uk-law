@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73B. Communications made by legal professionals[^key-f11698a7cd0ad40f9f946fbec67d6282]
+## 73B. Communications made by legal professionals[^c-f11698a7cd0ad40f9f946fbec67d6282]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f11698a7cd0ad40f9f946fbec67d6282]: Textual amendment: Pt. 6A inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1253/article/36)
+[^c-f11698a7cd0ad40f9f946fbec67d6282]: Textual amendment: Pt. 6A inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1253/article/36)

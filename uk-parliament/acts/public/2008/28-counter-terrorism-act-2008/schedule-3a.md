@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Notification requirements: financial information and information about identification documents[^key-713d495d9c4d7979f1d49d08ea8ad785]
+## SCHEDULE 3A — Notification requirements: financial information and information about identification documents[^c-713d495d9c4d7979f1d49d08ea8ad785]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ Section 47
 
 ## Annotations
 
-[^key-713d495d9c4d7979f1d49d08ea8ad785]: Textual amendment: Sch. 3A inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2019/3/schedule/1) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-713d495d9c4d7979f1d49d08ea8ad785]: Textual amendment: Sch. 3A inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2019/3/schedule/1) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))

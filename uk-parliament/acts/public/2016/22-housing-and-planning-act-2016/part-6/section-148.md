@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Costs of independent examinations held by Secretary of State[^key-1f133f44c0976220ace82ca199e0e5fb]
+## 148. Costs of independent examinations held by Secretary of State[^c-1f133f44c0976220ace82ca199e0e5fb]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f133f44c0976220ace82ca199e0e5fb]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2016/22/section/148) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/f)
+[^c-1f133f44c0976220ace82ca199e0e5fb]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2016/22/section/148) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/f)

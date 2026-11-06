@@ -22,7 +22,7 @@ summary: ''
 
 Article 36
 
-### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^key-2be62ba267982d4e8be1e3414d69f76f]
+### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^c-2be62ba267982d4e8be1e3414d69f76f]
 
 | (1) Plan | (2) Important Hedgerow | (3) Work |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ Article 36
 | Figure 2.09c of the Important Hedgerows Plan | H41 north | Removal of  60m  of H41 along Coton Road within the required visibility splay |
 | Figure 2.09c of the Important Hedgerows Plan | H50 north | Removal of  120m  of H50 along Coton Road within the required visibility splay |
 
-### PART 2 — REMOVAL OF HEDGEROWS[^key-b1fd687dbacaa2f4caa1ea00a13949d3]
+### PART 2 — REMOVAL OF HEDGEROWS[^c-b1fd687dbacaa2f4caa1ea00a13949d3]
 
 | (1) Plan | (2) Hedgerow | (3) Work |
 | --- | --- | --- |
@@ -48,6 +48,6 @@ Article 36
 
 ## Annotations
 
-[^key-2be62ba267982d4e8be1e3414d69f76f]: Commencement: Sch. 9 Pt. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-2be62ba267982d4e8be1e3414d69f76f]: Commencement: Sch. 9 Pt. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-b1fd687dbacaa2f4caa1ea00a13949d3]: Commencement: Sch. 9 Pt. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-b1fd687dbacaa2f4caa1ea00a13949d3]: Commencement: Sch. 9 Pt. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

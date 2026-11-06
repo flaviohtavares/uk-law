@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Exercise of network management authority functions[^key-d0e6ec0e6308cb563abc0ef4bd32ba68][^key-40b4a322b722989f211cc6008b6a6868][^key-39a306d7c8497e48e96e824161c16186]
+## 25. Exercise of network management authority functions[^c-d0e6ec0e6308cb563abc0ef4bd32ba68][^c-40b4a322b722989f211cc6008b6a6868][^c-39a306d7c8497e48e96e824161c16186]
 
 *Extent: E+W*
 
 (1) This section explains the general powers which may be conferred by an intervention order under section 21(5)(d) and the duty which may be imposed under section 21(6).
 
-(2) The order may authorise or require the traffic director to take over from the network management[^key-0678bec89d6d6ad908571c1871e68128] authority the exercise of any specified function.
+(2) The order may authorise or require the traffic director to take over from the network management[^c-0678bec89d6d6ad908571c1871e68128] authority the exercise of any specified function.
 
 (3) The order may specify any function of the authority (whether or not conferred in their capacity as a traffic authority) the exercise of which appears to the appropriate national authority to be capable of contributing to, or interfering with, the achievement of the traffic director's objectives.
 
@@ -35,10 +35,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d0e6ec0e6308cb563abc0ef4bd32ba68]: Commencement: S. 25 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
+[^c-d0e6ec0e6308cb563abc0ef4bd32ba68]: Commencement: S. 25 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
 
-[^key-40b4a322b722989f211cc6008b6a6868]: Commencement: S. 25 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)
+[^c-40b4a322b722989f211cc6008b6a6868]: Commencement: S. 25 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)
 
-[^key-39a306d7c8497e48e96e824161c16186]: Textual amendment: Words in s. 25 heading substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 144(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/144/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-39a306d7c8497e48e96e824161c16186]: Textual amendment: Words in s. 25 heading substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 144(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/144/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-0678bec89d6d6ad908571c1871e68128]: Textual amendment: Words in s. 25(2) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 144(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/144/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-0678bec89d6d6ad908571c1871e68128]: Textual amendment: Words in s. 25(2) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 144(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/144/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

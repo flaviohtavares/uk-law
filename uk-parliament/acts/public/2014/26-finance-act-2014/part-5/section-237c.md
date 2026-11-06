@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237C. When a conduct notice given under section 237A(8) is “provisional”[^key-1c71f6f626f0c3ea23ab5c68b4d234b4]
+## 237C. When a conduct notice given under section 237A(8) is “provisional”[^c-1c71f6f626f0c3ea23ab5c68b4d234b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c71f6f626f0c3ea23ab5c68b4d234b4]: Textual amendment: Ss. 237A-237D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/2)
+[^c-1c71f6f626f0c3ea23ab5c68b4d234b4]: Textual amendment: Ss. 237A-237D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/2)

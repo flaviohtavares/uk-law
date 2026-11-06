@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z13. Supply and delivery of gold from Russia[^key-dec9cc7a311e18bd62973ee8b143486f][^key-876278a10227d7e24a62920f4473f2c1]
+## 46Z13. Supply and delivery of gold from Russia[^c-dec9cc7a311e18bd62973ee8b143486f][^c-876278a10227d7e24a62920f4473f2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dec9cc7a311e18bd62973ee8b143486f]: Textual amendment: [Reg. 46Z13](https://www.legislation.gov.uk/uksi/2019/855/regulation/46Z13) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/440/regulation/7/1)
+[^c-dec9cc7a311e18bd62973ee8b143486f]: Textual amendment: [Reg. 46Z13](https://www.legislation.gov.uk/uksi/2019/855/regulation/46Z13) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/440/regulation/7/1)
 
-[^key-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)
+[^c-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)

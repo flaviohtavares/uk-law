@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Authorisations[^key-7d468fede1650c00e55241c995c8a88b]
+## 4. Authorisations[^c-7d468fede1650c00e55241c995c8a88b]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Nothing in these Regulations limits a power of the Secretary of State, the Scott
 
 ## Annotations
 
-[^key-7d468fede1650c00e55241c995c8a88b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7d468fede1650c00e55241c995c8a88b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00014]: Footnote: For the transfer of functions applicable to authorisations in Scotland and Wales, see [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750) (in relation to Scotland) and [S.I 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) (in relation to Wales).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22A. Decisions invoking health or safety: notification, reasons and review[^key-21bb7aee9299b229eec5b9c0ee4861bb]
+## 22A. Decisions invoking health or safety: notification, reasons and review[^c-21bb7aee9299b229eec5b9c0ee4861bb]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21bb7aee9299b229eec5b9c0ee4861bb]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1974/7/part/2A) inserted (26.5.2015) by [Local Government (Review of Decisions) Act 2015 (c. 22)](https://www.legislation.gov.uk/ukpga/2015/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/22/section/1), [4(2)](https://www.legislation.gov.uk/ukpga/2015/22/section/4/2)
+[^c-21bb7aee9299b229eec5b9c0ee4861bb]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1974/7/part/2A) inserted (26.5.2015) by [Local Government (Review of Decisions) Act 2015 (c. 22)](https://www.legislation.gov.uk/ukpga/2015/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/22/section/1), [4(2)](https://www.legislation.gov.uk/ukpga/2015/22/section/4/2)

@@ -61,7 +61,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 2.** The present Decision shall apply from 1 January 1995.
 
-**Article 3.**[^key-85f693e670b31f3ff1d38d2f31850530] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-85f693e670b31f3ff1d38d2f31850530] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -71,4 +71,4 @@ HAS ADOPTED THIS DECISION:
 
 [^c000001]: Textual amendment: Deleted by [Commission Decision of 22 October 2010 amending Decision 93/152/EEC laying down the criteria for vaccines to be used against Newcastle disease in the context of routine vaccination programmes (notified under document C(2010) 7109) (Text with EEA relevance) (2010/633/EU)](https://www.legislation.gov.uk/eudn/2010/633).
 
-[^key-85f693e670b31f3ff1d38d2f31850530]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1993/152/article/3) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1410/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85f693e670b31f3ff1d38d2f31850530]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1993/152/article/3) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1410/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Meaning of “reference banks”[^key-933ee0f89fb5d439504f4437c4920d55]
+## 239. Meaning of “reference banks”[^c-933ee0f89fb5d439504f4437c4920d55]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-933ee0f89fb5d439504f4437c4920d55]: Commencement: Art. 239 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-933ee0f89fb5d439504f4437c4920d55]: Commencement: Art. 239 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00168]: Footnote: Regulation E31A was substituted by the Teachers' Superannuation (Scotland) Amendment Regulations 1999 ([S.I. 1999/446 (S. 30)](https://www.legislation.gov.uk/uksi/1999/446)), regulation 15.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100A. Prohibition on excluding future accruals etc[^key-1be391151cf8b56e9d85b3e55b608957]
+## 100A. Prohibition on excluding future accruals etc[^c-1be391151cf8b56e9d85b3e55b608957]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Except as mentioned in sections 96(4) and 101G(4), a pension scheme may not cont
 
 ## Annotations
 
-[^key-1be391151cf8b56e9d85b3e55b608957]: Textual amendment: [Ss. 100A-100D](https://www.legislation.gov.uk/ukpga/1993/48/section/100A) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/14) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-1be391151cf8b56e9d85b3e55b608957]: Textual amendment: [Ss. 100A-100D](https://www.legislation.gov.uk/ukpga/1993/48/section/100A) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/14) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

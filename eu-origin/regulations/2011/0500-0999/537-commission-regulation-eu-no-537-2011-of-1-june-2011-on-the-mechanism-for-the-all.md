@@ -61,7 +61,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall apply from 1 January 2011.
 
-[^key-ad4917203148c7061a7913333a94438e]...
+[^c-ad4917203148c7061a7913333a94438e]...
 
 Done at Brussels, 1 June 2011.
 
@@ -79,7 +79,7 @@ José Manuel Barroso
 
 Each undertaking for which production or import of controlled substances for essential laboratory and analytical uses was licensed in the years 2007 to 2009 receives a quota corresponding to the quantity requested in its declaration referred to in Article 10(5) of Regulation (EC) No 1005/2009, but which shall not exceed 130 % of the annual average of the calculated level of controlled substances licensed for this undertaking in the years 2007 to 2009.
 
-The sum of these allocations is subtracted from 13.6[^key-6f155d744e07451a0b3c3bc2c7102c72] ODP tonnes to determine the quantity to be allocated to new undertakings (quantity for allocation in Phase 1).
+The sum of these allocations is subtracted from 13.6[^c-6f155d744e07451a0b3c3bc2c7102c72] ODP tonnes to determine the quantity to be allocated to new undertakings (quantity for allocation in Phase 1).
 
 2\.
 
@@ -103,6 +103,6 @@ Phase 2 is repeated analogously until the remaining quantity for allocation in t
 
 [^f00001]: Footnote: [OJ L 286, 31.10.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.286.01.0001.01.ENG).
 
-[^key-ad4917203148c7061a7913333a94438e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/537/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [33(a)](https://www.legislation.gov.uk/uksi/2019/583/regulation/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad4917203148c7061a7913333a94438e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/537/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [33(a)](https://www.legislation.gov.uk/uksi/2019/583/regulation/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f155d744e07451a0b3c3bc2c7102c72]: Textual amendment: Word in [Annex para. 1](https://www.legislation.gov.uk/eur/2011/537/annex/paragraph/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [33(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f155d744e07451a0b3c3bc2c7102c72]: Textual amendment: Word in [Annex para. 1](https://www.legislation.gov.uk/eur/2011/537/annex/paragraph/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [33(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

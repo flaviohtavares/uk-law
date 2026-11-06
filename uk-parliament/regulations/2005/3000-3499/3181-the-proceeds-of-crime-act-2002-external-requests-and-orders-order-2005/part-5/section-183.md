@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Associated and joint property: default of agreement[^key-a22507116b435a50b3f621de99231455]
+## 183. Associated and joint property: default of agreement[^c-a22507116b435a50b3f621de99231455]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,10 +51,10 @@ a recovery order making any provision by virtue of paragraph (2) or (3) may requ
 
 (6) The amount of compensation to be paid under paragraph (5) is the amount the court thinks reasonable, having regard to the person’s loss and to any other relevant circumstances.
 
-(7)[^key-7a02af33632ad2b446cb819d2cf5419a] In subsection (5) the reference to the enforcement authority is, in the case of an enforcement authority in relation to England and Wales or Northern Ireland, a reference to the enforcement authority which obtained the property freezing order or interim receiving order concerned.
+(7)[^c-7a02af33632ad2b446cb819d2cf5419a] In subsection (5) the reference to the enforcement authority is, in the case of an enforcement authority in relation to England and Wales or Northern Ireland, a reference to the enforcement authority which obtained the property freezing order or interim receiving order concerned.
 
 ## Annotations
 
-[^key-a22507116b435a50b3f621de99231455]: Commencement: [Art. 183](https://www.legislation.gov.uk/uksi/2005/3181/article/183) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-a22507116b435a50b3f621de99231455]: Commencement: [Art. 183](https://www.legislation.gov.uk/uksi/2005/3181/article/183) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-7a02af33632ad2b446cb819d2cf5419a]: Textual amendment: [Art. 183(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/183/7) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(38)](https://www.legislation.gov.uk/uksi/2008/302/article/2/38)
+[^c-7a02af33632ad2b446cb819d2cf5419a]: Textual amendment: [Art. 183(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/183/7) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(38)](https://www.legislation.gov.uk/uksi/2008/302/article/2/38)

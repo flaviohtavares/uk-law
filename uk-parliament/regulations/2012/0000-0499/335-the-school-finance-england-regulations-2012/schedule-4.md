@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^key-8f5353b0e750e0fc8548b321db33ebfc]
+## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 19
 
-### 1. Primary and secondary schools[^key-8f5353b0e750e0fc8548b321db33ebfc]
+### 1. Primary and secondary schools[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Special schools[^key-8f5353b0e750e0fc8548b321db33ebfc]
+### 5. Special schools[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8f5353b0e750e0fc8548b321db33ebfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f5353b0e750e0fc8548b321db33ebfc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/335) revoked (1.4.2014) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [reg. 2](https://www.legislation.gov.uk/uksi/2013/3104/regulation/2)
+[^c-8f5353b0e750e0fc8548b321db33ebfc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/335) revoked (1.4.2014) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [reg. 2](https://www.legislation.gov.uk/uksi/2013/3104/regulation/2)

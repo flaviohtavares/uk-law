@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Applications for development consent: local impact reports and representations[^key-2efc5dd38613d1e1f6554025dc539976][^key-57367ee19e1f3e850a14e4f2f14a363e]
+## 8. Applications for development consent: local impact reports and representations[^c-2efc5dd38613d1e1f6554025dc539976][^c-57367ee19e1f3e850a14e4f2f14a363e]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2efc5dd38613d1e1f6554025dc539976]: Commencement: S. 8 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
+[^c-2efc5dd38613d1e1f6554025dc539976]: Commencement: S. 8 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
 
-[^key-57367ee19e1f3e850a14e4f2f14a363e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/34/section/8) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/e)
+[^c-57367ee19e1f3e850a14e4f2f14a363e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/34/section/8) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/e)

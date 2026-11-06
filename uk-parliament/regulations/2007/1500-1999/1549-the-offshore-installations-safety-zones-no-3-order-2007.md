@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”), and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-340753cdfffca278f73933953a8fcb1f]
+## 1. Citation and commencement[^c-340753cdfffca278f73933953a8fcb1f]
 
 This Order may be cited as the Offshore Installations (Safety Zones) (No.3) Order 2007 and shall come into force on 15th June 2007.
 
-## 2. Establishment of safety zones[^key-273525d2ba2d34311517b55422fa2643]
+## 2. Establishment of safety zones[^c-273525d2ba2d34311517b55422fa2643]
 
 A safety zone is established around each installation specified in column 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -59,13 +59,13 @@ Department for Work and Pensions
 
 25th May 2007
 
-## SCHEDULE — SAFETY ZONES[^key-4dacb3efdc643834f4beda9cdf8051a3]
+## SCHEDULE — SAFETY ZONES[^c-4dacb3efdc643834f4beda9cdf8051a3]
 
 Article 2
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude North* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
-| [^key-b55ebed56a2e395ecd995b18d159feb6]. . . | [^key-b55ebed56a2e395ecd995b18d159feb6]. . . | [^key-b55ebed56a2e395ecd995b18d159feb6]. . . |
+| [^c-b55ebed56a2e395ecd995b18d159feb6]. . . | [^c-b55ebed56a2e395ecd995b18d159feb6]. . . | [^c-b55ebed56a2e395ecd995b18d159feb6]. . . |
 | East Davy, Block 53/5B-7, Davy Field | 52° 59.004’ | 02° 58.435’ E |
 
 EXPLANATORY NOTE
@@ -80,10 +80,10 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-340753cdfffca278f73933953a8fcb1f]: Commencement: Art. 1 in force at 15.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1549/article/1)
+[^c-340753cdfffca278f73933953a8fcb1f]: Commencement: Art. 1 in force at 15.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1549/article/1)
 
-[^key-273525d2ba2d34311517b55422fa2643]: Commencement: Art. 2 in force at 15.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1549/article/1)
+[^c-273525d2ba2d34311517b55422fa2643]: Commencement: Art. 2 in force at 15.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1549/article/1)
 
-[^key-4dacb3efdc643834f4beda9cdf8051a3]: Commencement: Sch. in force at 15.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1549/article/1)
+[^c-4dacb3efdc643834f4beda9cdf8051a3]: Commencement: Sch. in force at 15.6.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1549/article/1)
 
-[^key-b55ebed56a2e395ecd995b18d159feb6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/1549/schedule) omitted (29.12.2025) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2025 (S.I. 2025/1291)](https://www.legislation.gov.uk/uksi/2025/1291), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/4/2)
+[^c-b55ebed56a2e395ecd995b18d159feb6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/1549/schedule) omitted (29.12.2025) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2025 (S.I. 2025/1291)](https://www.legislation.gov.uk/uksi/2025/1291), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/4/2)

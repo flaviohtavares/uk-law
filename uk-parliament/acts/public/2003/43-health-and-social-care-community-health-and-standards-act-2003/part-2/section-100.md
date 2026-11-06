@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Power to require information[^key-d590b310fdfdf319f916e313f31b748d]
+## 100. Power to require information[^c-d590b310fdfdf319f916e313f31b748d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d590b310fdfdf319f916e313f31b748d]: Textual amendment: Pt. 2 Ch. 6 repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/18); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))
+[^c-d590b310fdfdf319f916e313f31b748d]: Textual amendment: Pt. 2 Ch. 6 repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/18); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))

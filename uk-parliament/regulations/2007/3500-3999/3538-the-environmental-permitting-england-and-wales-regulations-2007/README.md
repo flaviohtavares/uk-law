@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Environmental Permitting (England and Wales) Regulations 2007 (revoked)[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+The Environmental Permitting (England and Wales) Regulations 2007 (revoked)[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 Made
 
@@ -42,11 +42,11 @@ Coming into force
 
 6th April 2008
 
-[^key-4ad98ce386a488f02e2210ec9e21b3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ad98ce386a488f02e2210ec9e21b3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### PART 1 — General[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -63,20 +63,20 @@ Coming into force
 - [Section 9 — Interpretation: relevant function](part-1/section-9.md)
 - [Section 10 — Giving notices, notifications and directions, and the submission of forms](part-1/section-10.md)
 
-### PART 2 — Environmental Permits[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### PART 2 — Environmental Permits[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Application of these Regulations to the Crown and requirement for an environmental permit[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+#### CHAPTER 1 — Application of these Regulations to the Crown and requirement for an environmental permit[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 **No longer in force.**
 
 - [Section 11 — Application of these Regulations to the Crown](part-2/section-11.md)
 - [Section 12 — Requirement for an environmental permit](part-2/section-12.md)
 
-#### CHAPTER 2 — Grant of an environmental permit[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+#### CHAPTER 2 — Grant of an environmental permit[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 18 — Consolidation of an environmental permit](part-2/section-18.md)
 - [Section 19 — Subsistence of an environmental permit](part-2/section-19.md)
 
-#### CHAPTER 3 — Variation, transfer, revocation and surrender of an environmental permit[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+#### CHAPTER 3 — Variation, transfer, revocation and surrender of an environmental permit[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 **No longer in force.**
 
@@ -99,7 +99,7 @@ Coming into force
 - [Section 24 — Notification of the surrender of an environmental permit](part-2/section-24.md)
 - [Section 25 — Application to surrender an environmental permit](part-2/section-25.md)
 
-#### CHAPTER 4 — Standard rules[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+#### CHAPTER 4 — Standard rules[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 **No longer in force.**
 
@@ -109,13 +109,13 @@ Coming into force
 - [Section 29 — Revocation of standard rules](part-2/section-29.md)
 - [Section 30 — Variation of an environmental permit: revocation of standard rules](part-2/section-30.md)
 
-#### CHAPTER 5 — Appeals in relation to environmental permits[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+#### CHAPTER 5 — Appeals in relation to environmental permits[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 **No longer in force.**
 
 - [Section 31 — Appeals to an appropriate authority](part-2/section-31.md)
 
-### PART 3 — Discharge of functions in relation to a regulated facility[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### PART 3 — Discharge of functions in relation to a regulated facility[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -126,7 +126,7 @@ Coming into force
 - [Section 34 — Review of environmental permits and inspection of regulated facilities](part-3/section-34.md)
 - [Section 35 — Provision in relation to types of regulated facility](part-3/section-35.md)
 
-### PART 4 — Enforcement and offences[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### PART 4 — Enforcement and offences[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -142,7 +142,7 @@ Coming into force
 - [Section 43 — Admissibility of evidence](part-4/section-43.md)
 - [Section 44 — Power of court to order cause of offence to be remedied](part-4/section-44.md)
 
-### PART 5 — Public Registers[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### PART 5 — Public Registers[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -161,7 +161,7 @@ Coming into force
 - [Section 55 — Reconsideration of confidentiality](part-5/section-55.md)
 - [Section 56 — Directions of the appropriate authority in relation to confidentiality](part-5/section-56.md)
 
-### PART 6 — Powers and functions of the regulator and the appropriate authority[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### PART 6 — Powers and functions of the regulator and the appropriate authority[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -178,7 +178,7 @@ Coming into force
 - [Section 65 — Fees and charges in relation to local authorities](part-6/section-65.md)
 - [Section 66 — Plans relating to emissions](part-6/section-66.md)
 
-### PART 7 — Miscellaneous and transitional provision, savings, consequential amendments, revocations and repeals[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### PART 7 — Miscellaneous and transitional provision, savings, consequential amendments, revocations and repeals[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -225,12 +225,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-4ad98ce386a488f02e2210ec9e21b3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ad98ce386a488f02e2210ec9e21b3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-4ad98ce386a488f02e2210ec9e21b3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ad98ce386a488f02e2210ec9e21b3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

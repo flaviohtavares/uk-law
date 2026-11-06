@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any jurisdiction conferred on the court by any provision of Part I of this Act shall be exercised by the county court.
 
-(2)[^c319037] Any jurisdiction conferred on the court by any provision of Part II of this Act or conferred on the tribunal by Part I of the [^c319038]Landlord and Tenant Act 1927, shall, subject to the provisions of this section, be exercised,—by the High Court or[^c319039] the county court[^key-42cced55a9a5e666a90c77ba8436d434].
+(2)[^c319037] Any jurisdiction conferred on the court by any provision of Part II of this Act or conferred on the tribunal by Part I of the [^c319038]Landlord and Tenant Act 1927, shall, subject to the provisions of this section, be exercised,—by the High Court or[^c319039] the county court[^c-42cced55a9a5e666a90c77ba8436d434].
 
 (3)[^c319040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -46,7 +46,7 @@ summary: ''
 
 (8)[^c319045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) Nothing in this section shall prejudice the operation of section 41 of the County Courts Act 1984[^c319046] (which relates to the removal into the High Court of proceedings commenced in the county court[^key-f720af4e23f6aff02225253adc1e722f]).
+(9) Nothing in this section shall prejudice the operation of section 41 of the County Courts Act 1984[^c319046] (which relates to the removal into the High Court of proceedings commenced in the county court[^c-f720af4e23f6aff02225253adc1e722f]).
 
 (10)[^c319047] In accordance with the foregoing provisions of this section, for section twenty-one of the Landlord and Tenant Act, 1927, there shall be substituted the following section—
 
@@ -66,7 +66,7 @@ summary: ''
 
 [^c319039]: Textual amendment: In s. 63(2) by virtue of [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch](https://www.legislation.gov.uk/uksi/1991/724/schedule)edule, paras. (a)(b) are omitted and words substituted
 
-[^key-42cced55a9a5e666a90c77ba8436d434]: Textual amendment: Words in s. 63(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-42cced55a9a5e666a90c77ba8436d434]: Textual amendment: Words in s. 63(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c319040]: Textual amendment: S. 63(3) omitted by virtue of [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch](https://www.legislation.gov.uk/uksi/1991/724/schedule)edule
 
@@ -82,6 +82,6 @@ summary: ''
 
 [^c319046]: Textual amendment: Words in s. 63(9) substituted by virtue of [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch](https://www.legislation.gov.uk/uksi/1991/724/schedule)edule
 
-[^key-f720af4e23f6aff02225253adc1e722f]: Textual amendment: Words in s. 63(9) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f720af4e23f6aff02225253adc1e722f]: Textual amendment: Words in s. 63(9) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c319047]: Modification: The text of s. 63(10) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

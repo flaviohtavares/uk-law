@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.5. Fixing or confirming the trial date and giving directions[^key-73731b5822eb9af660a1bddc2426b7b4]
+## 28.5. Fixing or confirming the trial date and giving directions[^c-73731b5822eb9af660a1bddc2426b7b4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73731b5822eb9af660a1bddc2426b7b4]: Textual amendment: Pt. 28 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/572/schedule/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-73731b5822eb9af660a1bddc2426b7b4]: Textual amendment: Pt. 28 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/572/schedule/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))

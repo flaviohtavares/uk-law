@@ -38,7 +38,7 @@ includes oil falling within subsection (1)(a) above.
 
 (3A) Any expenditure allowable under section 3 of this Act for the field by virtue of any of paragraphs (a) to (c) of section 3(1) of this Act shall be a proportion of what it would otherwise have been.
 
-(3B) The proportion mentioned in subsection (3A) above is that which, according to estimates submitted to the OGA[^key-a9b4dadf023a33456e05af38f8c3af88] after the end of June 1975 and approved by it[^key-77aadea1100d71cd4b5afa3b148a9d2e] as reasonable, the field’s original reserves of oil exclusive of oil falling within subsection (1)(a) above bear to the field’s original reserves of oil inclusive of oil so falling.
+(3B) The proportion mentioned in subsection (3A) above is that which, according to estimates submitted to the OGA[^c-a9b4dadf023a33456e05af38f8c3af88] after the end of June 1975 and approved by it[^c-77aadea1100d71cd4b5afa3b148a9d2e] as reasonable, the field’s original reserves of oil exclusive of oil falling within subsection (1)(a) above bear to the field’s original reserves of oil inclusive of oil so falling.
 
 (3C) Until estimates have been submitted and approved for the purpose of subsection (3B) above, the expenditure allowable for the field under section 3 of this Act by virtue of section 3(1)(a), (b) or (c) of this Act shall be deemed to be nil.
 
@@ -99,8 +99,8 @@ includes oil falling within subsection (1)(a) above.
 
 [^c10743361]: Textual amendment: S. 10(3)-(3H) substituted (11.5.2001 with effect as mentioned in [s. 103(2)](https://www.legislation.gov.uk/ukpga/2001/9/section/103/2) of the amending Act) for s. 10(3) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 103(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/103/1)
 
-[^key-a9b4dadf023a33456e05af38f8c3af88]: Textual amendment: Word in [s. 10(3B)](https://www.legislation.gov.uk/ukpga/1975/22/section/10/3B) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/5/a)
+[^c-a9b4dadf023a33456e05af38f8c3af88]: Textual amendment: Word in [s. 10(3B)](https://www.legislation.gov.uk/ukpga/1975/22/section/10/3B) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/5/a)
 
-[^key-77aadea1100d71cd4b5afa3b148a9d2e]: Textual amendment: Word in [s. 10(3B)](https://www.legislation.gov.uk/ukpga/1975/22/section/10/3B) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/5/b)
+[^c-77aadea1100d71cd4b5afa3b148a9d2e]: Textual amendment: Word in [s. 10(3B)](https://www.legislation.gov.uk/ukpga/1975/22/section/10/3B) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/5/b)
 
 [^c10743371]: Textual amendment: Words substituted by [Finance (No. 2) Act 1979 (c. 47)](https://www.legislation.gov.uk/ukpga/1979/47), [s. 21(3)](https://www.legislation.gov.uk/ukpga/1979/47/section/21/3) deemed to have taken effect on 1 January 1979

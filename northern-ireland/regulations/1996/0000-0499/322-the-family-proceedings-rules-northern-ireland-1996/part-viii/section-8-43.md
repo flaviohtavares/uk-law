@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8.43. Application for non-recognition of a judgment under the Jurisdiction and Recognition of Judgments Regulations[^key-2d8ca8801bcacb40ed52bb9d478b8744]
+## 8.43. Application for non-recognition of a judgment under the Jurisdiction and Recognition of Judgments Regulations[^c-2d8ca8801bcacb40ed52bb9d478b8744]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d8ca8801bcacb40ed52bb9d478b8744]: Textual amendment: [Rule 8.43](https://www.legislation.gov.uk/nisr/1996/322/rule/8.43) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(21)](https://www.legislation.gov.uk/nisr/2019/235/article/2/21) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d8ca8801bcacb40ed52bb9d478b8744]: Textual amendment: [Rule 8.43](https://www.legislation.gov.uk/nisr/1996/322/rule/8.43) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(21)](https://www.legislation.gov.uk/nisr/2019/235/article/2/21) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

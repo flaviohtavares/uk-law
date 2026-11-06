@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31AA. Taxpayer's right to query simple assessment[^key-f708c98650e7c81bfd3f17176b8aebe7][^key-d0fddfb7eadd90c6e9d9364a7c371fb3]
+## 31AA. Taxpayer's right to query simple assessment[^c-f708c98650e7c81bfd3f17176b8aebe7][^c-d0fddfb7eadd90c6e9d9364a7c371fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,6 @@ whether as part of the querying process under this section or otherwise.
 
 ## Annotations
 
-[^key-f708c98650e7c81bfd3f17176b8aebe7]: Textual amendment: S. 31AA inserted (with effect in accordance with s. 167(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/23/paragraph/6)
+[^c-f708c98650e7c81bfd3f17176b8aebe7]: Textual amendment: S. 31AA inserted (with effect in accordance with s. 167(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/23/paragraph/6)
 
-[^key-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)
+[^c-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)

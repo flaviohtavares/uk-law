@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Miscellaneous provisions as to notices[^key-5a075126e72ab41b59fa1e075439d25f]
+## 38. Miscellaneous provisions as to notices[^c-5a075126e72ab41b59fa1e075439d25f]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a075126e72ab41b59fa1e075439d25f]: Commencement: Reg. 38 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-5a075126e72ab41b59fa1e075439d25f]: Commencement: Reg. 38 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

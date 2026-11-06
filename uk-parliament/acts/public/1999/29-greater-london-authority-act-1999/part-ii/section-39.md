@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Exercise of functions by joint committees.[^key-f64f0ea934a507b10813827a6662c409]
+## 39. Exercise of functions by joint committees.[^c-f64f0ea934a507b10813827a6662c409]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ the Mayor and those authorities may enter into arrangements under section 101(5)
 
 ## Annotations
 
-[^key-f64f0ea934a507b10813827a6662c409]: Modification: Ss. 38-39 excluded (19.6.2008) by [The European Regional Development Fund (London Operational Programme) (Implementation) Regulations 2008 (S.I. 2008/1342)](https://www.legislation.gov.uk/uksi/2008/1342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1342/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/1342/regulation/7/2)
+[^c-f64f0ea934a507b10813827a6662c409]: Modification: Ss. 38-39 excluded (19.6.2008) by [The European Regional Development Fund (London Operational Programme) (Implementation) Regulations 2008 (S.I. 2008/1342)](https://www.legislation.gov.uk/uksi/2008/1342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1342/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/1342/regulation/7/2)
 
 [^c12800501]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

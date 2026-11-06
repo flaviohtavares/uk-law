@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.42. Supply of documents from court records[^key-3f86842355d34aa4d5956f765a154102]
+## 33.42. Supply of documents from court records[^c-3f86842355d34aa4d5956f765a154102]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f86842355d34aa4d5956f765a154102]: Commencement: [Rule 33.42](https://www.legislation.gov.uk/uksi/2025/909/rule/33.42) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3f86842355d34aa4d5956f765a154102]: Commencement: [Rule 33.42](https://www.legislation.gov.uk/uksi/2025/909/rule/33.42) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

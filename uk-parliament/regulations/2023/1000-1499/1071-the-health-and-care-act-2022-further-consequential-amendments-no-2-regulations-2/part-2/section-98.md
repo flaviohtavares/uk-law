@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Amendment of Child Safeguarding Practice Review and Relevant Agency (England) Regulations 2018[^key-6756e6b84be8940775b888c6235636a5]
+## 98. Amendment of Child Safeguarding Practice Review and Relevant Agency (England) Regulations 2018[^c-6756e6b84be8940775b888c6235636a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6756e6b84be8940775b888c6235636a5]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2023/1071/regulation/98) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-6756e6b84be8940775b888c6235636a5]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2023/1071/regulation/98) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00079]: Footnote: [S.I. 2018/789](https://www.legislation.gov.uk/uksi/2018/789).

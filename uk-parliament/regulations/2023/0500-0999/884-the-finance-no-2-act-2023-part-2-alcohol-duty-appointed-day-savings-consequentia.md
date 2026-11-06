@@ -37,7 +37,7 @@ Made
 
 The Commissioners for His Majesty’s Revenue and Customs make these Regulations in exercise of the powers conferred by section 120 of the Finance (No. 2) Act 2023[^f00001].
 
-## 1. Citation and interpretation[^key-a5823687372463bf542f8c7c521f61e5]
+## 1. Citation and interpretation[^c-a5823687372463bf542f8c7c521f61e5]
 
 (1) These Regulations may be cited as the Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023.
 
@@ -48,7 +48,7 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 - “**AP(ED)R 2023**” means the Alcoholic Products (Excise Duty) Regulations 2023[^f00003];
 - “**CEMA**” means the Customs and Excise Management Act 1979[^f00004].
 
-## 2. Appointed day[^key-a5eee39c95afe7ca213c97236be2848f]
+## 2. Appointed day[^c-a5eee39c95afe7ca213c97236be2848f]
 
 (1) The day appointed for the coming into force of the following provisions of Part 2 of the Act, so far as not already in force, is 1st August 2023—
 
@@ -64,9 +64,9 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 - (j) section 114 (minor and consequential amendments) and Part 1 of Schedule 13 (alcohol duty: minor and consequential amendments);
 - (k) sections 115 (temporary provision: wine) and 116 (temporary provision: cider).
 
-## 3. Savings provisions[^key-2d860aa91d0f539b1b0ba47017b842d0]
+## 3. Savings provisions[^c-2d860aa91d0f539b1b0ba47017b842d0]
 
-(1)[^key-dd71712673bb414726b9a4d8011ed3fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dd71712673bb414726b9a4d8011ed3fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Paragraph 3 of Schedule 5 (decisions subject to review and appeal) to the Finance Act 1994[^f00023] continues to have effect in relation to the cases specified in paragraph (3) as if the amendments made by section 108 (reviews and appeals) of the Act were not made.
 
@@ -79,31 +79,31 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 
 (4) For the purposes of paragraph 3 of Schedule 5 to the Finance Act 1994, as saved by this regulation, references to “made-wine” are to be read as references to “other fermented product”.
 
-## 4. Consequential modifications – ALDA[^key-82eca24c14a33c61faf8917ee7bc0f62][^key-2faf2c40280679bee2886b0ad2c722a7]
+## 4. Consequential modifications – ALDA[^c-82eca24c14a33c61faf8917ee7bc0f62][^c-2faf2c40280679bee2886b0ad2c722a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential modifications – CEMA[^key-8dfd0d2d88f37705d2a7a268b3227e31][^key-e6c19936db5440c0bd52c0952f552629]
+## 5. Consequential modifications – CEMA[^c-8dfd0d2d88f37705d2a7a268b3227e31][^c-e6c19936db5440c0bd52c0952f552629]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential modifications – the Act[^key-38b0dc9cb64619d0b00875d04ae27443][^key-49aa414f2258069c14400749594a6eb3]
+## 6. Consequential modifications – the Act[^c-38b0dc9cb64619d0b00875d04ae27443][^c-49aa414f2258069c14400749594a6eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential modifications – the Beer Regulations 1993[^key-f59e8254a1ceb10377b70a968f64649c][^key-93ece4caa1ef506e94b5fb31331fea0b]
+## 7. Consequential modifications – the Beer Regulations 1993[^c-f59e8254a1ceb10377b70a968f64649c][^c-93ece4caa1ef506e94b5fb31331fea0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Consequential modifications – AP(ED)R 2023[^key-e616e61d6131846a7de1c790b9ac307f][^key-b7ad38a6c8d9fdcacd9f4d1475e881a5]
+## 8. Consequential modifications – AP(ED)R 2023[^c-e616e61d6131846a7de1c790b9ac307f][^c-b7ad38a6c8d9fdcacd9f4d1475e881a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provisions – approvals[^key-b016dd230a950c8064ca88c98bbbc0c5][^key-7ca6f7b9ac1182a93d52e6feadba6e44]
+## 9. Transitional provisions – approvals[^c-b016dd230a950c8064ca88c98bbbc0c5][^c-7ca6f7b9ac1182a93d52e6feadba6e44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provisions – alcohol duty[^key-e368a8d3dabcfe2315a64fe4142234cb]
+## 10. Transitional provisions – alcohol duty[^c-e368a8d3dabcfe2315a64fe4142234cb]
 
 (1) This regulation applies to an alcoholic product[^f00028] —
 
@@ -125,11 +125,11 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
   - other fermented product, excise duty chargeable under section 55 (made-wine: charge of excise duty) of ALDA;
   - cider, excise duty chargeable under section 62 (cider: charge of excise duty) of ALDA.
 
-## 11. Revocations[^key-3a27f88cca0310ed99e0e0d9eef36401]
+## 11. Revocations[^c-3a27f88cca0310ed99e0e0d9eef36401]
 
 The Alcoholic Liquor Duties (Beer-based Beverages) Order 1994[^f00032] is revoked.
 
-## 12. Consequential amendments[^key-ab76561f728c6cd17e5d06e0a01d6600]
+## 12. Consequential amendments[^c-ab76561f728c6cd17e5d06e0a01d6600]
 
 The provisions mentioned in the Schedule are amended as described in the Schedule.
 
@@ -145,7 +145,7 @@ Two of the Commissioners for His Majesty’s Revenue and Customs
 
 Regulation 12
 
-### 1. The Duty-Free Supplies for the Royal Navy Regulations 1954[^key-811399ca91186a0e3281f0b42293d91c]
+### 1. The Duty-Free Supplies for the Royal Navy Regulations 1954[^c-811399ca91186a0e3281f0b42293d91c]
 
 (1) The Duty-Free Supplies for the Royal Navy Regulations 1954[^f00033] are amended as follows.
 
@@ -160,11 +160,11 @@ Regulation 12
 
 .
 
-### 2. The Cider and Perry (Exemption from Registration) Order 1976[^key-d4b00e53d8c4ee5b0a9db50d03f57f9f]
+### 2. The Cider and Perry (Exemption from Registration) Order 1976[^c-d4b00e53d8c4ee5b0a9db50d03f57f9f]
 
 In Article 1(2) of the Cider and Perry (Exemption from Registration) Order 1976[^f00034], in the definition of “cider”, for “(or perry) as defined in section 2(8) of the Finance Act 1976” substitute “as defined in paragraph 5 of Schedule 6 (categories of alcoholic products: interpretation) to the Finance (No. 2) Act 2023”.
 
-### 3. The Excise Warehousing (Etc.) Regulations 1988[^key-520a2f5c09916c341a88e6d8152f494c]
+### 3. The Excise Warehousing (Etc.) Regulations 1988[^c-520a2f5c09916c341a88e6d8152f494c]
 
 (1) The Excise Warehousing (Etc.) Regulations 1988[^f00035] are amended in accordance with sub-paragraphs (2) to (6).
 
@@ -186,7 +186,7 @@ In Article 1(2) of the Cider and Perry (Exemption from Registration) Order 1976[
 
 (7) The amendments made by sub-paragraphs (2) to (6) apply to the Excise Warehousing (Etc.) Regulations 1988 as they apply in Northern Ireland by virtue of regulation 100 of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^f00036].
 
-### 4. The Cider and Perry Regulations 1989[^key-ff969c260717e1a49ed6b85ef4e08998]
+### 4. The Cider and Perry Regulations 1989[^c-ff969c260717e1a49ed6b85ef4e08998]
 
 (1) The Cider and Perry Regulations 1989[^f00037] are amended as follows.
 
@@ -233,7 +233,7 @@ In Article 1(2) of the Cider and Perry (Exemption from Registration) Order 1976[
 
 (5) In regulation 14(b) (production) for “made-wine” substitute “other fermented product”.
 
-### 5. The Wine and Made-wine Regulations 1989[^key-6ffca1ae1c6b34b0f9c191d7e8379dbe]
+### 5. The Wine and Made-wine Regulations 1989[^c-6ffca1ae1c6b34b0f9c191d7e8379dbe]
 
 (1) The Wine and Made-wine Regulations 1989[^f00038] are amended as follows.
 
@@ -281,11 +281,11 @@ In Article 1(2) of the Cider and Perry (Exemption from Registration) Order 1976[
 
 (4) Omit regulation 24 (grower’s domestic consumption relief).
 
-### 6. The Spirits Regulations 1991[^key-5abf1e8cbad16b8280ec78480f0e7270]
+### 6. The Spirits Regulations 1991[^c-5abf1e8cbad16b8280ec78480f0e7270]
 
 In the Spirits Regulations 1991[^f00039] omit regulations 7 (rectifiers and compounders: entry of premises and plant), 18 (ascertainment of strength of spirits), 19 (ascertainment of volume of spirits) and 20 (application of regulations 18 and 19).
 
-### 7. The Beer Regulations 1993[^key-fdcc82052ad461486ca630589f478985]
+### 7. The Beer Regulations 1993[^c-fdcc82052ad461486ca630589f478985]
 
 (1) The Beer Regulations 1993[^f00040] are amended as follows.
 
@@ -315,13 +315,13 @@ In the Spirits Regulations 1991[^f00039] omit regulations 7 (rectifiers and comp
 
 (3) Omit regulations 8 (when the production of beer begins and when it is completed), 16 to 18 (rate of duty, the amount of beer in any container and the strength of the beer), 22 to 25 (mixing, addition of substances, dilution of beer and protection of the revenue derived from excise duty on beer) and Schedules 4 to 6 (method of determining the strength of beer, particulars of the additions of substances record and the tolerance requirements).
 
-### 8. The Travellers’ Allowances Order 1994[^key-bac40359e939007bd75e2ef4c5e54357]
+### 8. The Travellers’ Allowances Order 1994[^c-bac40359e939007bd75e2ef4c5e54357]
 
 (1) The Travellers’ Allowances Order 1994[^f00041] is amended as follows.
 
 (2) In Article 1A (interpretation) for “the Alcoholic Liquor Duties Act 1979” substitute “Part 2 of the Finance (No. 2) Act 2023”.
 
-### 9. The Denatured Alcohol Regulations 2005[^key-ef7522a6acb84d593590fc51ed329438]
+### 9. The Denatured Alcohol Regulations 2005[^c-ef7522a6acb84d593590fc51ed329438]
 
 (1) The Denatured Alcohol Regulations 2005[^f00042] are amended in accordance with sub-paragraphs (2) to (5).
 
@@ -358,11 +358,11 @@ In the Spirits Regulations 1991[^f00039] omit regulations 7 (rectifiers and comp
 
 (6) The amendments made by sub-paragraphs (2) to (5) apply to the Denatured Alcohol Regulations 2005 as they apply in Northern Ireland by virtue of regulation 100 of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020.
 
-### 10. The Duty Stamps Regulations 2006[^key-f122111d8df46ac2da69d2985b96168a]
+### 10. The Duty Stamps Regulations 2006[^c-f122111d8df46ac2da69d2985b96168a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. The Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^key-f2d9983d2730a2a6563d2d30226085e4]
+### 11. The Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^c-f2d9983d2730a2a6563d2d30226085e4]
 
 (1) The Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^f00045] are amended in accordance with sub-paragraphs (2) to (8).
 
@@ -417,7 +417,7 @@ In the Spirits Regulations 1991[^f00039] omit regulations 7 (rectifiers and comp
 
 (9) The amendments made by sub-paragraph (3) and (6) apply to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 as they apply in Northern Ireland by virtue of regulation 2 of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^f00046].
 
-### 12. The Wholesaling of Controlled Liquor Regulations 2015[^key-50beeb654198d8d99fed5fdc9c9f1595]
+### 12. The Wholesaling of Controlled Liquor Regulations 2015[^c-50beeb654198d8d99fed5fdc9c9f1595]
 
 (1) The Wholesaling of Controlled Liquor Regulations 2015[^f00047] are amended as follows.
 
@@ -464,7 +464,7 @@ In the Spirits Regulations 1991[^f00039] omit regulations 7 (rectifiers and comp
 - (c) in paragraphs (4), (5) and (6), for “88F”, in each place it occurs, substitute “103”;
 - (d) in paragraph (4) for “liquor” substitute “alcoholic products”.
 
-### 13. The Excise Duties (Removal of Alcoholic Liquor to Northern Ireland and Miscellaneous Amendments) Regulations 2021[^key-c5e257b0ac99303a0d475025cad78a87]
+### 13. The Excise Duties (Removal of Alcoholic Liquor to Northern Ireland and Miscellaneous Amendments) Regulations 2021[^c-c5e257b0ac99303a0d475025cad78a87]
 
 (1) The Excise Duties (Removal of Alcoholic Liquor to Northern Ireland and Miscellaneous Amendments) Regulations 2021[^f00048] are amended as follows.
 
@@ -530,7 +530,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30).
 
-[^key-a5823687372463bf542f8c7c521f61e5]: Commencement: Reg. 1 in force at made date
+[^c-a5823687372463bf542f8c7c521f61e5]: Commencement: Reg. 1 in force at made date
 
 [^f00002]: Footnote: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
@@ -538,39 +538,39 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00004]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-a5eee39c95afe7ca213c97236be2848f]: Commencement: Reg. 2 in force at made date
+[^c-a5eee39c95afe7ca213c97236be2848f]: Commencement: Reg. 2 in force at made date
 
-[^key-2d860aa91d0f539b1b0ba47017b842d0]: Commencement: Reg. 3 in force at made date
+[^c-2d860aa91d0f539b1b0ba47017b842d0]: Commencement: Reg. 3 in force at made date
 
-[^key-dd71712673bb414726b9a4d8011ed3fb]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/1) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/a)
+[^c-dd71712673bb414726b9a4d8011ed3fb]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/1) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/a)
 
 [^f00023]: Footnote: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9). Paragraph 3 was amended by paragraph 8 of Schedule 2 and paragraph 1 of Schedule 29 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraph 17(2) of Schedule 3 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), paragraph 1 of Schedule 29 to the Finance Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), paragraph 1 of Schedule 26 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), paragraphs 2(3) and (4), 3, 4, 5 and 6 of Schedule 42 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), section 187(2)(d) of, and paragraph 52(2) of Schedule 39 to, the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) and section 54(7) of the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11).
 
-[^key-82eca24c14a33c61faf8917ee7bc0f62]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/884/regulation/4) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/b)
+[^c-82eca24c14a33c61faf8917ee7bc0f62]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/884/regulation/4) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/b)
 
-[^key-2faf2c40280679bee2886b0ad2c722a7]: Commencement: Reg. 4 in force at made date
+[^c-2faf2c40280679bee2886b0ad2c722a7]: Commencement: Reg. 4 in force at made date
 
-[^key-8dfd0d2d88f37705d2a7a268b3227e31]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/884/regulation/5) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(c)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/c)
+[^c-8dfd0d2d88f37705d2a7a268b3227e31]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/884/regulation/5) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(c)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/c)
 
-[^key-e6c19936db5440c0bd52c0952f552629]: Commencement: Reg. 5 in force at made date
+[^c-e6c19936db5440c0bd52c0952f552629]: Commencement: Reg. 5 in force at made date
 
-[^key-38b0dc9cb64619d0b00875d04ae27443]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(d)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/d)
+[^c-38b0dc9cb64619d0b00875d04ae27443]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(d)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/d)
 
-[^key-49aa414f2258069c14400749594a6eb3]: Commencement: Reg. 6 in force at made date
+[^c-49aa414f2258069c14400749594a6eb3]: Commencement: Reg. 6 in force at made date
 
-[^key-f59e8254a1ceb10377b70a968f64649c]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/884/regulation/7) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(e)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/e)
+[^c-f59e8254a1ceb10377b70a968f64649c]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/884/regulation/7) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(e)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/e)
 
-[^key-93ece4caa1ef506e94b5fb31331fea0b]: Commencement: Reg. 7 in force at made date
+[^c-93ece4caa1ef506e94b5fb31331fea0b]: Commencement: Reg. 7 in force at made date
 
-[^key-e616e61d6131846a7de1c790b9ac307f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/884/regulation/8) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(f)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/f)
+[^c-e616e61d6131846a7de1c790b9ac307f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/884/regulation/8) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(f)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/f)
 
-[^key-b7ad38a6c8d9fdcacd9f4d1475e881a5]: Commencement: Reg. 8 in force at made date
+[^c-b7ad38a6c8d9fdcacd9f4d1475e881a5]: Commencement: Reg. 8 in force at made date
 
-[^key-b016dd230a950c8064ca88c98bbbc0c5]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/884/regulation/9) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(g)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/g)
+[^c-b016dd230a950c8064ca88c98bbbc0c5]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/884/regulation/9) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 11(2)(g)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/11/2/g)
 
-[^key-7ca6f7b9ac1182a93d52e6feadba6e44]: Commencement: Reg. 9 in force at made date
+[^c-7ca6f7b9ac1182a93d52e6feadba6e44]: Commencement: Reg. 9 in force at made date
 
-[^key-e368a8d3dabcfe2315a64fe4142234cb]: Commencement: Reg. 10 in force at made date
+[^c-e368a8d3dabcfe2315a64fe4142234cb]: Commencement: Reg. 10 in force at made date
 
 [^f00028]: Footnote: “Alcoholic product” is defined in section 44 (meaning of “**alcoholic product**”) of the Act.
 
@@ -580,62 +580,62 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00031]: Footnote: “Discounted rate” is defined in section 54(2) (small producer relief: discounted rates) of the Act.
 
-[^key-3a27f88cca0310ed99e0e0d9eef36401]: Commencement: Reg. 11 in force at made date
+[^c-3a27f88cca0310ed99e0e0d9eef36401]: Commencement: Reg. 11 in force at made date
 
 [^f00032]: Footnote: [S.I. 1994/2904](https://www.legislation.gov.uk/uksi/1994/2904).
 
-[^key-ab76561f728c6cd17e5d06e0a01d6600]: Commencement: Reg. 12 in force at made date
+[^c-ab76561f728c6cd17e5d06e0a01d6600]: Commencement: Reg. 12 in force at made date
 
-[^key-811399ca91186a0e3281f0b42293d91c]: Commencement: Sch. para. 1 in force at made date
+[^c-811399ca91186a0e3281f0b42293d91c]: Commencement: Sch. para. 1 in force at made date
 
 [^f00033]: Footnote: [S.I. 1954/1406](https://www.legislation.gov.uk/uksi/1954/1406).
 
-[^key-d4b00e53d8c4ee5b0a9db50d03f57f9f]: Commencement: Sch. para. 2 in force at made date
+[^c-d4b00e53d8c4ee5b0a9db50d03f57f9f]: Commencement: Sch. para. 2 in force at made date
 
 [^f00034]: Footnote: [S.I. 1976/1206](https://www.legislation.gov.uk/uksi/1976/1206), to which there are amendments not relevant to these Regulations.
 
-[^key-520a2f5c09916c341a88e6d8152f494c]: Commencement: Sch. para. 3 in force at made date
+[^c-520a2f5c09916c341a88e6d8152f494c]: Commencement: Sch. para. 3 in force at made date
 
 [^f00035]: Footnote: [S.I. 1988/809](https://www.legislation.gov.uk/uksi/1988/809), amended by [S.I. 2002/501](https://www.legislation.gov.uk/uksi/2002/501); there are other amending instruments but none is relevant.
 
 [^f00036]: Footnote: [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), to which there are amendments not relevant to this Regulation.
 
-[^key-ff969c260717e1a49ed6b85ef4e08998]: Commencement: Sch. para. 4 in force at made date
+[^c-ff969c260717e1a49ed6b85ef4e08998]: Commencement: Sch. para. 4 in force at made date
 
 [^f00037]: Footnote: [S.I. 1989/1355](https://www.legislation.gov.uk/uksi/1989/1355), amended by [S.I. 2000/3213](https://www.legislation.gov.uk/uksi/2000/3213), [2001/2449](https://www.legislation.gov.uk/uksi/2001/2449), [2006/1058](https://www.legislation.gov.uk/uksi/2006/1058) and [2008/1885](https://www.legislation.gov.uk/uksi/2008/1885).
 
-[^key-6ffca1ae1c6b34b0f9c191d7e8379dbe]: Commencement: Sch. para. 5 in force at made date
+[^c-6ffca1ae1c6b34b0f9c191d7e8379dbe]: Commencement: Sch. para. 5 in force at made date
 
 [^f00038]: Footnote: [S.I. 1989/1356](https://www.legislation.gov.uk/uksi/1989/1356), amended by [S.I. 1996/2752](https://www.legislation.gov.uk/uksi/1996/2752), [1997/658](https://www.legislation.gov.uk/uksi/1997/658), [2006/1058](https://www.legislation.gov.uk/uksi/2006/1058), [2007/4](https://www.legislation.gov.uk/uksi/2007/4), [2008/1885](https://www.legislation.gov.uk/uksi/2008/1885) and [2010/593](https://www.legislation.gov.uk/uksi/2010/593); there are other amending instruments but none is relevant.
 
-[^key-5abf1e8cbad16b8280ec78480f0e7270]: Commencement: Sch. para. 6 in force at made date
+[^c-5abf1e8cbad16b8280ec78480f0e7270]: Commencement: Sch. para. 6 in force at made date
 
 [^f00039]: Footnote: [S.I. 1991/2564](https://www.legislation.gov.uk/uksi/1991/2564), amended by [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524), [2006/1058](https://www.legislation.gov.uk/uksi/2006/1058), [2013/1229](https://www.legislation.gov.uk/uksi/2013/1229), [2019/15](https://www.legislation.gov.uk/uksi/2019/15); there are other amending instruments but none is relevant.
 
-[^key-fdcc82052ad461486ca630589f478985]: Commencement: Sch. para. 7 in force at made date
+[^c-fdcc82052ad461486ca630589f478985]: Commencement: Sch. para. 7 in force at made date
 
 [^f00040]: Footnote: [S.I. 1993/1228](https://www.legislation.gov.uk/uksi/1993/1228), amended by [S.I. 2000/3213](https://www.legislation.gov.uk/uksi/2000/3213), [2006/1058](https://www.legislation.gov.uk/uksi/2006/1058) and [2011/1795](https://www.legislation.gov.uk/uksi/2011/1795); there are other amending instruments but none is relevant.
 
-[^key-bac40359e939007bd75e2ef4c5e54357]: Commencement: Sch. para. 8 in force at made date
+[^c-bac40359e939007bd75e2ef4c5e54357]: Commencement: Sch. para. 8 in force at made date
 
 [^f00041]: Footnote: [S.I. 1994/955](https://www.legislation.gov.uk/uksi/1994/955), amended by [S.I. 2020/1412](https://www.legislation.gov.uk/uksi/2020/1412); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-ef7522a6acb84d593590fc51ed329438]: Commencement: Sch. para. 9 in force at made date
+[^c-ef7522a6acb84d593590fc51ed329438]: Commencement: Sch. para. 9 in force at made date
 
 [^f00042]: Footnote: [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524), to which there are amendments not relevant to these Regulations.
 
-[^key-f122111d8df46ac2da69d2985b96168a]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/10) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(j)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/j)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-f122111d8df46ac2da69d2985b96168a]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/10) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(j)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/j)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-f2d9983d2730a2a6563d2d30226085e4]: Commencement: Sch. para. 11 in force at made date
+[^c-f2d9983d2730a2a6563d2d30226085e4]: Commencement: Sch. para. 11 in force at made date
 
 [^f00045]: Footnote: [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593), amended by [S.I. 2011/2225](https://www.legislation.gov.uk/uksi/2011/2225), [2012/2786](https://www.legislation.gov.uk/uksi/2012/2786), [2019/13](https://www.legislation.gov.uk/uksi/2019/13) and [2021/1156](https://www.legislation.gov.uk/uksi/2021/1156); there are other amending instruments but none is relevant.
 
 [^f00046]: Footnote: [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), amended by [S.I. 2023/64](https://www.legislation.gov.uk/uksi/2023/64).
 
-[^key-50beeb654198d8d99fed5fdc9c9f1595]: Commencement: Sch. para. 12 in force at made date
+[^c-50beeb654198d8d99fed5fdc9c9f1595]: Commencement: Sch. para. 12 in force at made date
 
 [^f00047]: Footnote: [S.I. 2015/1516](https://www.legislation.gov.uk/uksi/2015/1516), amended by [S.I. 2015/1921](https://www.legislation.gov.uk/uksi/2015/1921);. there are other amending instruments but none is relevant.
 
-[^key-c5e257b0ac99303a0d475025cad78a87]: Commencement: Sch. para. 13 in force at made date
+[^c-c5e257b0ac99303a0d475025cad78a87]: Commencement: Sch. para. 13 in force at made date
 
 [^f00048]: Footnote: [S.I. 2021/1282](https://www.legislation.gov.uk/uksi/2021/1282).

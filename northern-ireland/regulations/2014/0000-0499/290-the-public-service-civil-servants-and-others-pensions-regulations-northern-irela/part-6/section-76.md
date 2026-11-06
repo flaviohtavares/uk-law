@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Annual rate of ill-health pension[^key-e64ccfc708ff55bde9e2c395436b4f74][^key-8f3c1c1d368a4c8f532f8011933370fe]
+## 76. Annual rate of ill-health pension[^c-e64ccfc708ff55bde9e2c395436b4f74][^c-8f3c1c1d368a4c8f532f8011933370fe]
 
 *Extent: N.I.*
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e64ccfc708ff55bde9e2c395436b4f74]: Commencement: [Reg. 76](https://www.legislation.gov.uk/nisr/2014/290/regulation/76) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e64ccfc708ff55bde9e2c395436b4f74]: Commencement: [Reg. 76](https://www.legislation.gov.uk/nisr/2014/290/regulation/76) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-8f3c1c1d368a4c8f532f8011933370fe]: Textual amendment: Word in [reg. 76](https://www.legislation.gov.uk/nisr/2014/290/regulation/76) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2022/67/regulation/25)
+[^c-8f3c1c1d368a4c8f532f8011933370fe]: Textual amendment: Word in [reg. 76](https://www.legislation.gov.uk/nisr/2014/290/regulation/76) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2022/67/regulation/25)
 
 [^f00054]: Footnote: Regulation 35 provides for the calculation of an amount of accrued earned pension. This amount forms the basis for determining the amount of full retirement earned pension under regulation 52. The annual rate of full retirement earned pension in relation to active members is calculated under regulation 61

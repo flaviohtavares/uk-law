@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Restriction, suspension or withdrawal of approval[^M_E_a571a19f-8ad5-4ca4-bf81-85a708f306c2][^key-7537dfde85ab4442663edc660fa640ef]
+## 59. Restriction, suspension or withdrawal of approval[^M_E_a571a19f-8ad5-4ca4-bf81-85a708f306c2][^c-7537dfde85ab4442663edc660fa640ef]
 
 *Extent: E+W+S*
 
@@ -54,7 +54,7 @@ the Secretary of State must restrict, suspend or withdraw the body's status as a
 
 [^M_E_a571a19f-8ad5-4ca4-bf81-85a708f306c2]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7537dfde85ab4442663edc660fa640ef]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/737/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/36) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), Sch. 1 para. 1(q)(v)(vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7537dfde85ab4442663edc660fa640ef]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/737/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/36) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), Sch. 1 para. 1(q)(v)(vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_NI_2b9ec69d-0342-d16c-f2f9-b2752bdffa16]: Commencement: Reg. 59 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 

@@ -36,7 +36,7 @@ summary: ''
 - “**the Dentists Act**” means the Dentists Act 1984 [^c5103791];
 - “**the Medical Act**” means the Medical Act 1983 [^c5103801];
 - “**the Nurses, Midwives and Health Visitors Act**” means the Nurses, Midwives and Health Visitors Act 1997 [^c5103811];
-- [^key-b2c0447c8947a16d9385b4694d2bfe09]...
+- [^c-b2c0447c8947a16d9385b4694d2bfe09]...
 - “**the Health Professions Order**” means the Health Professions Order 2001 [^c5103831];
 - “**the Nursing and Midwifery Order**” means the Nursing and Midwifery Order 2001 [^c5103841].
 
@@ -54,7 +54,7 @@ summary: ''
 
 [^c5103811]: Marginal citation: [1997 c. 24](https://www.legislation.gov.uk/ukpga/1997/24). The Act has been partially repealed by [S.I. 2001/1985](https://www.legislation.gov.uk/uksi/2001/1985) and [2002/1167](https://www.legislation.gov.uk/uksi/2002/1167).
 
-[^key-b2c0447c8947a16d9385b4694d2bfe09]: Textual amendment: Words in reg. 1(2) omitted (30.3.2007 as notified in the Belfast, Edinburgh and London Gazettes dated 23.3.2007) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/289/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2007/289/article/1/3), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/32/a)
+[^c-b2c0447c8947a16d9385b4694d2bfe09]: Textual amendment: Words in reg. 1(2) omitted (30.3.2007 as notified in the Belfast, Edinburgh and London Gazettes dated 23.3.2007) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/289/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2007/289/article/1/3), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/32/a)
 
 [^c5103831]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Constitution: membership and voting[^key-fa5a3d90dfd53efa2d893f0df1ec8e22]
+## 90. Constitution: membership and voting[^c-fa5a3d90dfd53efa2d893f0df1ec8e22]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa5a3d90dfd53efa2d893f0df1ec8e22]: Commencement: S. 90 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-fa5a3d90dfd53efa2d893f0df1ec8e22]: Commencement: S. 90 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)

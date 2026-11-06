@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Licensing Boards[^key-8c50771f1aa1cbd37183714f0e61ac19]
+## 5. Licensing Boards[^c-8c50771f1aa1cbd37183714f0e61ac19]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c50771f1aa1cbd37183714f0e61ac19]: Commencement: S. 5 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-8c50771f1aa1cbd37183714f0e61ac19]: Commencement: S. 5 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51ZA. Power of housing ombudsman to issue guidance to scheme members[^key-677beb15f14b9ef755e8db9929f1d52f]
+## 51ZA. Power of housing ombudsman to issue guidance to scheme members[^c-677beb15f14b9ef755e8db9929f1d52f]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-677beb15f14b9ef755e8db9929f1d52f]: Textual amendment: [S. 51ZA](https://www.legislation.gov.uk/ukpga/1996/52/section/51ZA) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/41/3), [46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)
+[^c-677beb15f14b9ef755e8db9929f1d52f]: Textual amendment: [S. 51ZA](https://www.legislation.gov.uk/ukpga/1996/52/section/51ZA) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/41/3), [46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)

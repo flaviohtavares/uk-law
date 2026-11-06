@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Compulsory acquisition of rights[^key-af4ee918ec42accce0f3594257033ff9]
+## 21. Compulsory acquisition of rights[^c-af4ee918ec42accce0f3594257033ff9]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) This article is subject to article 28 (temporary use of land by National Grid) and article 29 (temporary use of land by UK Power Networks).
 
-(3) Subject to section 8 of the 1965 Act (other provisions as to divided land) as modified[^key-7aa463d1fef3c9e07131b0fac4bef133] by [^key-0671ab841c9dbb28039ee7b5a6257e90]... Schedule 10 to this Order (modification of compensation and compulsory purchase enactments for creation of new rights) where the undertaker acquires a right over land or imposes a restriction under paragraph (1) the undertaker is not required to acquire a greater interest in that land.
+(3) Subject to section 8 of the 1965 Act (other provisions as to divided land) as modified[^c-7aa463d1fef3c9e07131b0fac4bef133] by [^c-0671ab841c9dbb28039ee7b5a6257e90]... Schedule 10 to this Order (modification of compensation and compulsory purchase enactments for creation of new rights) where the undertaker acquires a right over land or imposes a restriction under paragraph (1) the undertaker is not required to acquire a greater interest in that land.
 
 (4) Schedule 10 to this Order has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right or the imposition of a restriction.
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-af4ee918ec42accce0f3594257033ff9]: Commencement: Art. 21 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-af4ee918ec42accce0f3594257033ff9]: Commencement: Art. 21 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-7aa463d1fef3c9e07131b0fac4bef133]: Textual amendment: Word in [art. 21(3)](https://www.legislation.gov.uk/uksi/2017/817/article/21/3) substituted (8.5.2018) by [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)
+[^c-7aa463d1fef3c9e07131b0fac4bef133]: Textual amendment: Word in [art. 21(3)](https://www.legislation.gov.uk/uksi/2017/817/article/21/3) substituted (8.5.2018) by [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)
 
-[^key-0671ab841c9dbb28039ee7b5a6257e90]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2017/817/article/21/3) omitted (8.5.2018) by virtue of [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)
+[^c-0671ab841c9dbb28039ee7b5a6257e90]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2017/817/article/21/3) omitted (8.5.2018) by virtue of [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)

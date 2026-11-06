@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Technical assistance relating to certain goods and technology[^key-3f97101b57b2c7b402f151adc5fb801e][^key-d690f2d5f4084ddc0bb68e0beacc72e3][^key-42651f4bf322f5308c6a72d113f34789]
+## 25. Technical assistance relating to certain goods and technology[^c-3f97101b57b2c7b402f151adc5fb801e][^c-d690f2d5f4084ddc0bb68e0beacc72e3][^c-42651f4bf322f5308c6a72d113f34789]
 
 *Extent: E+W+S+N.I.*
 
-(1) A person must not directly or indirectly provide technical assistance relating to goods or technology to which this paragraph applies[^key-ee61c28cc78e90865b3b65d7bba726bd] —
+(1) A person must not directly or indirectly provide technical assistance relating to goods or technology to which this paragraph applies[^c-ee61c28cc78e90865b3b65d7bba726bd] —
 
 - (a) to a person connected with Belarus, or
 - (b) for use in Belarus.
 
-(1A)[^key-a15396467dfcb28f356eac2355ff9846] Paragraph (1) applies to—
+(1A)[^c-a15396467dfcb28f356eac2355ff9846] Paragraph (1) applies to—
 
-- (a)[^key-b265fe91500e85261d4f28a47fe02921] chemical and biological weapons-related goods and chemical and biological weapons-related technology;
+- (a)[^c-b265fe91500e85261d4f28a47fe02921] chemical and biological weapons-related goods and chemical and biological weapons-related technology;
 - (b) critical-industry goods and critical-industry technology;
 - (c) dual-use goods and dual-use technology;
 - (d) interception and monitoring goods and interception and monitoring technology;
@@ -46,14 +46,14 @@ summary: ''
 
 ## Annotations
 
-[^key-3f97101b57b2c7b402f151adc5fb801e]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-3f97101b57b2c7b402f151adc5fb801e]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-d690f2d5f4084ddc0bb68e0beacc72e3]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d690f2d5f4084ddc0bb68e0beacc72e3]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42651f4bf322f5308c6a72d113f34789]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2019/600/regulation/25) heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(f)(i)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/f/i)
+[^c-42651f4bf322f5308c6a72d113f34789]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2019/600/regulation/25) heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(f)(i)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/f/i)
 
-[^key-ee61c28cc78e90865b3b65d7bba726bd]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2019/600/regulation/25/1) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(f)(ii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/f/ii)
+[^c-ee61c28cc78e90865b3b65d7bba726bd]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2019/600/regulation/25/1) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(f)(ii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/f/ii)
 
-[^key-a15396467dfcb28f356eac2355ff9846]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/uksi/2019/600/regulation/25/1A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(f)(iii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/f/iii)
+[^c-a15396467dfcb28f356eac2355ff9846]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/uksi/2019/600/regulation/25/1A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(f)(iii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/f/iii)
 
-[^key-b265fe91500e85261d4f28a47fe02921]: Textual amendment: [Reg. 25(1A)(a)-(i)](https://www.legislation.gov.uk/uksi/2019/600/regulation/25/1A/a) substituted for reg. 25(1A)(a)-(g) (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2023/616/regulation/8/e)
+[^c-b265fe91500e85261d4f28a47fe02921]: Textual amendment: [Reg. 25(1A)(a)-(i)](https://www.legislation.gov.uk/uksi/2019/600/regulation/25/1A/a) substituted for reg. 25(1A)(a)-(g) (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2023/616/regulation/8/e)

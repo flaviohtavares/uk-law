@@ -128,12 +128,12 @@ This subsection applies to any church, chapel, meeting place, church hall, chape
 
 #### 22. Complaints regarding omissions from the valuation roll.
 
-(1) Any person interested may complain to the First-tier Tribunal for Scotland[^key-9228cd34d18c562ff25e87a21cb67b04] for a valuation area (which terms in this section have the same meaning as in the [^c3268581]Valuation and Rating (Scotland) Act 1956) to the effect—
+(1) Any person interested may complain to the First-tier Tribunal for Scotland[^c-9228cd34d18c562ff25e87a21cb67b04] for a valuation area (which terms in this section have the same meaning as in the [^c3268581]Valuation and Rating (Scotland) Act 1956) to the effect—
 
 - (a)[^c3268591] that particular lands and heritages are not included in the valuation roll for that area and that they ought to be so included; or[^c3268601]
 - (b) that lands and heritages consisting of a pitch for a caravan have been treated as part of a single unit of lands and heritages by virtue of section 3(1) of the Rating (Caravan Sites) Act 1976 and ought to be separately entered in such valuation roll;
 
-[^key-872f020279149a597f7bde17830ff9f7]...
+[^c-872f020279149a597f7bde17830ff9f7]...
 
 (2) After hearing a complaint under this section the First-tier Tribunal for Scotland may dismiss it or may direct that such entry be made in the Valuation roll as respects the lands and heritages concerned as may be specified in the direction.
 
@@ -141,17 +141,17 @@ This subsection applies to any church, chapel, meeting place, church hall, chape
 
 #### 23. Amendment of section 7 of the Valuation of Lands (Scotland) Amendment Act 1879.
 
-(1) Any application for a stated case under section 7 of the [^c3268631]Valuation of Lands (Scotland) Amendment Act 1879 may be made in writing within the prescribed period from the date of the decision of the Valuation Appeal Committee or the First-tier Tribunal for Scotland[^key-ce61384825a87841bc7db404b8fed736], or if the decision was made in the absence of any party intending to make such an application, within the prescribed period from the date of receipt by him of the notification of the decision, and accordingly in the said section 7 the words “and shall then declare himself dissatisfied with such determination” shall cease to have effect.
+(1) Any application for a stated case under section 7 of the [^c3268631]Valuation of Lands (Scotland) Amendment Act 1879 may be made in writing within the prescribed period from the date of the decision of the Valuation Appeal Committee or the First-tier Tribunal for Scotland[^c-ce61384825a87841bc7db404b8fed736], or if the decision was made in the absence of any party intending to make such an application, within the prescribed period from the date of receipt by him of the notification of the decision, and accordingly in the said section 7 the words “and shall then declare himself dissatisfied with such determination” shall cease to have effect.
 
 (2) In this section “**the prescribed period**” means the period for the time being prescribed by virtue of section 6 of the [^c3268641]Rating and Valuation (Scotland) Act 1952 within which grounds of appeal relating to a stated case under the said section 7 may be lodged.
 
 ### Rating of unoccupied property
 
-#### 24. Unoccupied lands and heritages.[^key-3f88dfc8a5d324b2d80b924e1305c910]
+#### 24. Unoccupied lands and heritages.[^c-3f88dfc8a5d324b2d80b924e1305c910]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24ZA. Liability of owners of unoccupied lands and heritages[^key-92e5c52f38fdf991ada5a5165521e8c8]
+#### 24ZA. Liability of owners of unoccupied lands and heritages[^c-92e5c52f38fdf991ada5a5165521e8c8]
 
 (1) If any lands and heritages included in the valuation roll have no occupier, the owner is liable to pay the amount of the non-domestic rate which would otherwise have been payable by the occupier.
 
@@ -177,7 +177,7 @@ This subsection applies to any church, chapel, meeting place, church hall, chape
 - (a) the date on which lands and heritages the rateable value of which has been apportioned under subsection (1) above became partly occupied;
 - (b) the commencement of the financial year in which the request under that subsection relating to those lands and heritages was made,
 
-until whichever of the events specified in subsection (3) below first occurs, the value apportioned to the occupied part of the lands and heritages shall [^key-0d4a6f7dca024f9422a56e648c7c3d65]... be treated for rating purposes as if it were the rateable value ascribed to the lands and heritages in the valuation roll.
+until whichever of the events specified in subsection (3) below first occurs, the value apportioned to the occupied part of the lands and heritages shall [^c-0d4a6f7dca024f9422a56e648c7c3d65]... be treated for rating purposes as if it were the rateable value ascribed to the lands and heritages in the valuation roll.
 
 (3) The events mentioned in subsection (2) above are—
 
@@ -186,30 +186,30 @@ until whichever of the events specified in subsection (3) below first occurs, th
 - (c) a further apportionment of the value of the lands and heritages taking effect under subsection (1) above;
 - (d) the lands and heritages to which the apportionment relates becoming completely unoccupied.
 
-(4)[^key-fd93ff58f585df7f299f7b5972b5dbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fd93ff58f585df7f299f7b5972b5dbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Notwithstanding paragraph (b) of subsection (3) above, if it appears to the rating authority that the part of the lands and heritages which was unoccupied at the date of an apportionment of the rateable value thereof under subsection (1) above has continued after the end of the financial year referred to in that paragraph to be unoccupied but will remain so for a short time only, the authority may direct that the apportionment shall continue to have effect for the next financial year; and subsections (2) and (3)(a), (c) and (d)[^key-1965805e446f6388eb48fdbf77521c74] above shall have effect in relation to that year accordingly.
+(5) Notwithstanding paragraph (b) of subsection (3) above, if it appears to the rating authority that the part of the lands and heritages which was unoccupied at the date of an apportionment of the rateable value thereof under subsection (1) above has continued after the end of the financial year referred to in that paragraph to be unoccupied but will remain so for a short time only, the authority may direct that the apportionment shall continue to have effect for the next financial year; and subsections (2) and (3)(a), (c) and (d)[^c-1965805e446f6388eb48fdbf77521c74] above shall have effect in relation to that year accordingly.
 
-(6)[^key-fc6a28e20d28a46031a7fa9b17eaf047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fc6a28e20d28a46031a7fa9b17eaf047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this section “ **financial year** ” has the meaning assigned to it by section 96(5) of the [^c3268751] Local Government (Scotland) Act 1973.
 
 #### 24B. Certain lands and heritages to be treated as unoccupied.[^c3268761]
 
-(1) For the purposes of section 24A[^key-10a2e6fbaffa0614e46c317026506755] of this Act, a part of lands and heritages[^key-a4d8197018d99f9230a7400a4010db70] shall be treated as unoccupied if, apart from this section, the part[^key-b7d5f934075a5effb87818c11d542b54] would fall to be treated as occupied by reason only of there being kept on the part[^key-9a63bdb212cce1c0d2beb8282728be73] plant, machinery or equipment—
+(1) For the purposes of section 24A[^c-10a2e6fbaffa0614e46c317026506755] of this Act, a part of lands and heritages[^c-a4d8197018d99f9230a7400a4010db70] shall be treated as unoccupied if, apart from this section, the part[^c-b7d5f934075a5effb87818c11d542b54] would fall to be treated as occupied by reason only of there being kept on the part[^c-9a63bdb212cce1c0d2beb8282728be73] plant, machinery or equipment—
 
-- (a) which was last used on the part of the lands and heritages when it was[^key-7ac8d27d3564a6a97cde727e5d70749d] last in use; or
-- (b) which is intended for use on the part[^key-a2b1692e083d8279872a46d68febe71e].
+- (a) which was last used on the part of the lands and heritages when it was[^c-7ac8d27d3564a6a97cde727e5d70749d] last in use; or
+- (b) which is intended for use on the part[^c-a2b1692e083d8279872a46d68febe71e].
 
-(2)[^key-f4877f1d302874991b2134ebb72967c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f4877f1d302874991b2134ebb72967c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f4877f1d302874991b2134ebb72967c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f4877f1d302874991b2134ebb72967c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f4877f1d302874991b2134ebb72967c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f4877f1d302874991b2134ebb72967c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Newly erected, altered etc. buildings: completion notices.[^key-07270c39250c18c7a7b5567f17d531ae]
+#### 25. Newly erected, altered etc. buildings: completion notices.[^c-07270c39250c18c7a7b5567f17d531ae]
 
-(1) The provisions of Schedule 3 to this Act shall have effect, for the purposes of any scheme under section 3A of the Local Government (Financial Provisions etc.) (Scotland) Act 1962 which provides for the rates leviable in respect of lands and heritages to be reduced or remitted by virtue of the lands and heritages being unoccupied[^key-01671d12a6fcb99c12f7a7607b7eec03], with respect to [^c3268851]. . . the treatment of newly erected and altered buildings and the other matters there mentioned.
+(1) The provisions of Schedule 3 to this Act shall have effect, for the purposes of any scheme under section 3A of the Local Government (Financial Provisions etc.) (Scotland) Act 1962 which provides for the rates leviable in respect of lands and heritages to be reduced or remitted by virtue of the lands and heritages being unoccupied[^c-01671d12a6fcb99c12f7a7607b7eec03], with respect to [^c3268851]. . . the treatment of newly erected and altered buildings and the other matters there mentioned.
 
 (2)[^c3268861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -250,7 +250,7 @@ Every rating authority may, on the application of any person liable to pay any r
 
 #### 36, 37. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c3269181]
 
-#### 38. Amendment of section 187 of the Local Government (Scotland) Act 1947.[^key-37c2a854aec40e9bf395ef41ddb14cac]
+#### 38. Amendment of section 187 of the Local Government (Scotland) Act 1947.[^c-37c2a854aec40e9bf395ef41ddb14cac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -274,7 +274,7 @@ A local authority within the meaning of the Town and Country Planning (Scotland)
 
 #### 43. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c3269281]
 
-#### 44. Game Licences.[^key-b14d14e3f15119080f205285e8145d03]
+#### 44. Game Licences.[^c-b14d14e3f15119080f205285e8145d03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -548,7 +548,7 @@ Section 25.
 
 ### Completion of newly erected or constructed buildings
 
-**2.** For the purposes of any scheme under section 3A of the Local Government (Financial Provisions etc.) (Scotland) Act 1962 which provides for the rates leviable in respect of lands and heritages to be reduced or remitted by virtue of the lands and heritages being unoccupied[^key-c91f2d745b1e6decb8da582bfb29d7ad], a newly erected building which is not occupied on the date determined under the following provisions of this Schedule as the date on which the erection of the building is completed shall be deemed to become unoccupied on that date.
+**2.** For the purposes of any scheme under section 3A of the Local Government (Financial Provisions etc.) (Scotland) Act 1962 which provides for the rates leviable in respect of lands and heritages to be reduced or remitted by virtue of the lands and heritages being unoccupied[^c-c91f2d745b1e6decb8da582bfb29d7ad], a newly erected building which is not occupied on the date determined under the following provisions of this Schedule as the date on which the erection of the building is completed shall be deemed to become unoccupied on that date.
 
 **3.** (1) Where a rating authority is of opinion—
 
@@ -572,7 +572,7 @@ Section 25.
 
 **4.** In the case of a building to which work remains to be done of a kind which is customarily done to a building of the type in question after the erection of the building has been substantially completed, it shall be assumed for the purposes of paragraph 3 of this Schedule that the erection of the building has been or can reasonably be expected to be completed at the expiration of such period, beginning with the date of its completion apart from the work, as is reasonably required for carrying out the work.
 
-**5.** Where by reason of the structural alteration of any building [^c3270611]... lands and heritages become or become part of different lands and heritages, the [^c3270611]... lands and heritages shall be deemed for the purposes of this Schedule to have ceased to exist on the date (as determined in pursuance of the foregoing provisions of this Schedule) of the completion of the structural alteration and, in particular, to have been omitted on that date from any valuation roll in which they were then included; but nothing in this paragraph shall be construed as affecting any liability for rates [^key-c38291ddb8932d879500d9ccc2b1bbce]... in respect of the lands and heritages for any period before that date.
+**5.** Where by reason of the structural alteration of any building [^c3270611]... lands and heritages become or become part of different lands and heritages, the [^c3270611]... lands and heritages shall be deemed for the purposes of this Schedule to have ceased to exist on the date (as determined in pursuance of the foregoing provisions of this Schedule) of the completion of the structural alteration and, in particular, to have been omitted on that date from any valuation roll in which they were then included; but nothing in this paragraph shall be construed as affecting any liability for rates [^c-c38291ddb8932d879500d9ccc2b1bbce]... in respect of the lands and heritages for any period before that date.
 
 ### Supplemental
 
@@ -636,7 +636,7 @@ Section 42.
 </tbody>
 </table>
 
-[^key-a8da5504fd5ae208d85c222b3d68d3a2][^c3271121][^key-a8da5504fd5ae208d85c222b3d68d3a2][^key-a8da5504fd5ae208d85c222b3d68d3a2][^c3271121][^c3271151][^c3271181][^c3271191][^c3271201][^c3271201][^c3271201][^c3271231][^c3271241][^c3271251][^c3271261][^c3271251][^c3271191][^c3271191][^c3271301][^c3271311][^c3271251][^c3271251][^c3271251][^c3271261][^c3271361][^c3271371][^c19016251][^c3271401][^c3271411][^c3271421][^c3271251][^c3271251]
+[^c-a8da5504fd5ae208d85c222b3d68d3a2][^c3271121][^c-a8da5504fd5ae208d85c222b3d68d3a2][^c-a8da5504fd5ae208d85c222b3d68d3a2][^c3271121][^c3271151][^c3271181][^c3271191][^c3271201][^c3271201][^c3271201][^c3271231][^c3271241][^c3271251][^c3271261][^c3271251][^c3271191][^c3271191][^c3271301][^c3271311][^c3271251][^c3271251][^c3271251][^c3271261][^c3271361][^c3271371][^c19016251][^c3271401][^c3271411][^c3271421][^c3271251][^c3271251]
 
 ## SCHEDULE 5 — Consequential Amendments
 
@@ -738,7 +738,7 @@ Section 48.
 
 [^c3268571]: Modification: The text of ss. 13 para. (*b*), 21, 48(1), Sch. 5 paras. 2, 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-9228cd34d18c562ff25e87a21cb67b04]: Textual amendment: Words in [s. 22](https://www.legislation.gov.uk/ukpga/1966/51/section/22) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/4/2/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-9228cd34d18c562ff25e87a21cb67b04]: Textual amendment: Words in [s. 22](https://www.legislation.gov.uk/ukpga/1966/51/section/22) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/4/2/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c3268581]: Marginal citation: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60).
 
@@ -746,51 +746,51 @@ Section 48.
 
 [^c3268601]: Textual amendment: Words inserted by virtue of [Rating (Caravan Sites) Act 1976 (c. 15)](https://www.legislation.gov.uk/ukpga/1976/15), [s. 3(8)](https://www.legislation.gov.uk/ukpga/1976/15/section/3/8) which provided that s. 22 should have effect as if that insertion were made after the words “so included”
 
-[^key-872f020279149a597f7bde17830ff9f7]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/22/1) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/4/2/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-872f020279149a597f7bde17830ff9f7]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/22/1) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/4/2/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c3268621]: Marginal citation: [1879 c. 42](https://www.legislation.gov.uk/ukpga/1879/42).
 
 [^c3268631]: Marginal citation: [1879 c. 42](https://www.legislation.gov.uk/ukpga/1879/42).
 
-[^key-ce61384825a87841bc7db404b8fed736]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/23/1) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/4/3) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-ce61384825a87841bc7db404b8fed736]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/23/1) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/4/3) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c3268641]: Marginal citation: [1952 c. 47](https://www.legislation.gov.uk/ukpga/1952/47).
 
-[^key-3f88dfc8a5d324b2d80b924e1305c910]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1966/51/section/24) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(2)](https://www.legislation.gov.uk/asp/2020/4/section/19/2), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
+[^c-3f88dfc8a5d324b2d80b924e1305c910]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1966/51/section/24) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(2)](https://www.legislation.gov.uk/asp/2020/4/section/19/2), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
 
-[^key-92e5c52f38fdf991ada5a5165521e8c8]: Textual amendment: [S. 24ZA](https://www.legislation.gov.uk/ukpga/1966/51/section/24ZA) inserted (8.1.2026 with effect from 1.4.2023) by [Non-Domestic Rates (Liability for Unoccupied Properties) (Scotland) Act 2026 (asp 1)](https://www.legislation.gov.uk/asp/2026/1), [ss. 1(2)](https://www.legislation.gov.uk/asp/2026/1/section/1/2)[(5)](https://www.legislation.gov.uk/asp/2026/1/section/1/5), [3](https://www.legislation.gov.uk/asp/2026/1/section/3)
+[^c-92e5c52f38fdf991ada5a5165521e8c8]: Textual amendment: [S. 24ZA](https://www.legislation.gov.uk/ukpga/1966/51/section/24ZA) inserted (8.1.2026 with effect from 1.4.2023) by [Non-Domestic Rates (Liability for Unoccupied Properties) (Scotland) Act 2026 (asp 1)](https://www.legislation.gov.uk/asp/2026/1), [ss. 1(2)](https://www.legislation.gov.uk/asp/2026/1/section/1/2)[(5)](https://www.legislation.gov.uk/asp/2026/1/section/1/5), [3](https://www.legislation.gov.uk/asp/2026/1/section/3)
 
 [^c3268741]: Textual amendment: S. 24A inserted (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 155](https://www.legislation.gov.uk/ukpga/1994/39/section/155); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(a)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/3150/schedule/1)
 
-[^key-0d4a6f7dca024f9422a56e648c7c3d65]: Textual amendment: Words in [s. 24A(2)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/2) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(a)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
+[^c-0d4a6f7dca024f9422a56e648c7c3d65]: Textual amendment: Words in [s. 24A(2)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/2) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(a)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
 
-[^key-fd93ff58f585df7f299f7b5972b5dbae]: Textual amendment: [S. 24A(4)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/4) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(b)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
+[^c-fd93ff58f585df7f299f7b5972b5dbae]: Textual amendment: [S. 24A(4)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/4) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(b)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
 
-[^key-1965805e446f6388eb48fdbf77521c74]: Textual amendment: Words in [s. 24A(5)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/5) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(c)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/c), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-1965805e446f6388eb48fdbf77521c74]: Textual amendment: Words in [s. 24A(5)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/5) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(c)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/c), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-fc6a28e20d28a46031a7fa9b17eaf047]: Textual amendment: [S. 24A(6)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/6) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(d)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/d), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
+[^c-fc6a28e20d28a46031a7fa9b17eaf047]: Textual amendment: [S. 24A(6)](https://www.legislation.gov.uk/ukpga/1966/51/section/24A/6) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(3)(d)](https://www.legislation.gov.uk/asp/2020/4/section/19/3/d), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
 
 [^c3268751]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
 [^c3268761]: Textual amendment: S. 24B inserted (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 155](https://www.legislation.gov.uk/ukpga/1994/39/section/155); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(a)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/3150/schedule/1)
 
-[^key-10a2e6fbaffa0614e46c317026506755]: Textual amendment: Words in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(i)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/i), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-10a2e6fbaffa0614e46c317026506755]: Textual amendment: Words in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(i)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/i), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-a4d8197018d99f9230a7400a4010db70]: Textual amendment: Words in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(ii)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/ii), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-a4d8197018d99f9230a7400a4010db70]: Textual amendment: Words in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(ii)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/ii), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-b7d5f934075a5effb87818c11d542b54]: Textual amendment: Words in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(iii)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/iii), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-b7d5f934075a5effb87818c11d542b54]: Textual amendment: Words in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(iii)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/iii), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-9a63bdb212cce1c0d2beb8282728be73]: Textual amendment: Word in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(iv)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/iv), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-9a63bdb212cce1c0d2beb8282728be73]: Textual amendment: Word in [s. 24B(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(iv)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/iv), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-7ac8d27d3564a6a97cde727e5d70749d]: Textual amendment: Words in [s. 24B(1)(a)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1/a) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(v)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/v), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-7ac8d27d3564a6a97cde727e5d70749d]: Textual amendment: Words in [s. 24B(1)(a)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1/a) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(v)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/v), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-a2b1692e083d8279872a46d68febe71e]: Textual amendment: Word in [s. 24B(1)(b)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1/b) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(vi)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/vi), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-a2b1692e083d8279872a46d68febe71e]: Textual amendment: Word in [s. 24B(1)(b)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/1/b) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(a)(vi)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/a/vi), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-f4877f1d302874991b2134ebb72967c4]: Textual amendment: [S. 24B(2)-(4)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/2) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(b)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
+[^c-f4877f1d302874991b2134ebb72967c4]: Textual amendment: [S. 24B(2)-(4)](https://www.legislation.gov.uk/ukpga/1966/51/section/24B/2) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(4)(b)](https://www.legislation.gov.uk/asp/2020/4/section/19/4/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
 
-[^key-07270c39250c18c7a7b5567f17d531ae]: Textual amendment: [S. 25 heading](https://www.legislation.gov.uk/ukpga/1966/51/part/II/crossheading/rating-of-unoccupied-property) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(6)](https://www.legislation.gov.uk/asp/2020/4/section/19/6), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-07270c39250c18c7a7b5567f17d531ae]: Textual amendment: [S. 25 heading](https://www.legislation.gov.uk/ukpga/1966/51/part/II/crossheading/rating-of-unoccupied-property) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(6)](https://www.legislation.gov.uk/asp/2020/4/section/19/6), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
-[^key-01671d12a6fcb99c12f7a7607b7eec03]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/25/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(5)](https://www.legislation.gov.uk/asp/2020/4/section/19/5), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-01671d12a6fcb99c12f7a7607b7eec03]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/ukpga/1966/51/section/25/1) substituted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(5)](https://www.legislation.gov.uk/asp/2020/4/section/19/5), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
 [^c3268851]: Textual amendment: Words in s. 25(1) repealed (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1/2), [Sch. 13 para. 67(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/67/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(c)(iv)(d)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/c/iv/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/3150/schedule/2)
 
@@ -828,7 +828,7 @@ Section 48.
 
 [^c3269181]: Textual amendment: Ss. 11(3), 36, 37, 39, Sch. 5 paras. 1, 4 repealed by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
-[^key-37c2a854aec40e9bf395ef41ddb14cac]: Textual amendment: S. 38 repealed (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-37c2a854aec40e9bf395ef41ddb14cac]: Textual amendment: S. 38 repealed (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
 [^c3269211]: Textual amendment: Ss. 11(3), 36, 37, 39, Sch. 5 paras. 1, 4 repealed by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
@@ -842,7 +842,7 @@ Section 48.
 
 [^c3269281]: Textual amendment: S. 43 repealed by [Local Government Act 1988 (c. 9, SIF, 81:1)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 41](https://www.legislation.gov.uk/ukpga/1988/9/section/41), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1988/9/schedule/7/part/IV)
 
-[^key-b14d14e3f15119080f205285e8145d03]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1966/51/section/44) repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
+[^c-b14d14e3f15119080f205285e8145d03]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1966/51/section/44) repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
 
 [^c3269731]: Modification: S. 46(1) applied by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1975/30/section/6/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1975/30/schedule/1/paragraph/1)
 
@@ -944,7 +944,7 @@ Section 48.
 
 [^c3270521]: Textual amendment: Sch. 3 para. 1 repealed (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(d)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/3150/schedule/2)
 
-[^key-c91f2d745b1e6decb8da582bfb29d7ad]: Textual amendment: Words in [sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1966/51/schedule/3/paragraph/2) substituted (1.4.2023) by Non-[Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(7)(a)](https://www.legislation.gov.uk/asp/2020/4/section/19/7/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
+[^c-c91f2d745b1e6decb8da582bfb29d7ad]: Textual amendment: Words in [sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1966/51/schedule/3/paragraph/2) substituted (1.4.2023) by Non-[Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(7)(a)](https://www.legislation.gov.uk/asp/2020/4/section/19/7/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2)
 
 [^c3270571]: Textual amendment: Words in Sch. 3 para. 3(1) repealed (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(d)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/3150/schedule/2)
 
@@ -954,7 +954,7 @@ Section 48.
 
 [^c3270611]: Textual amendment: Word in Sch. 3 para. 5 repealed (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(d)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/3150/schedule/2)
 
-[^key-c38291ddb8932d879500d9ccc2b1bbce]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1966/51/schedule/3/paragraph/5) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(7)(b)](https://www.legislation.gov.uk/asp/2020/4/section/19/7/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
+[^c-c38291ddb8932d879500d9ccc2b1bbce]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1966/51/schedule/3/paragraph/5) repealed (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 19(7)(b)](https://www.legislation.gov.uk/asp/2020/4/section/19/7/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
 
 [^c3270651]: Textual amendment: Sch. 3 para. 6 repealed (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(d)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/3150/schedule/2)
 
@@ -966,7 +966,7 @@ Section 48.
 
 [^c3270741]: Textual amendment: Ss. 42(1), 48(2), Sch. 4 Pt. I, Sch. 6 repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-a8da5504fd5ae208d85c222b3d68d3a2]: Textual amendment: Sch. 4 Pt. II entries repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
+[^c-a8da5504fd5ae208d85c222b3d68d3a2]: Textual amendment: Sch. 4 Pt. II entries repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
 
 [^c3271121]: Textual amendment: Entries 2, 4 repealed by [Consumer Credit Act 1974 (c. 39)](https://www.legislation.gov.uk/ukpga/1974/39), [s. 192(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/192/4), [Sch. 5](https://www.legislation.gov.uk/ukpga/1974/39/schedule/5)
 

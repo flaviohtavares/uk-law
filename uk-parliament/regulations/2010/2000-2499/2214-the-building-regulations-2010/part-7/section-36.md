@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Water efficiency of new dwellings[^M_E_67e8b45b-1e5f-4c5b-bbb0-6b85cd4db1e5][^key-53db4b5fec6962d863cba79099834baa]
+## 36. Water efficiency of new dwellings[^M_E_67e8b45b-1e5f-4c5b-bbb0-6b85cd4db1e5][^c-53db4b5fec6962d863cba79099834baa]
 
 *Extent: E*
 
@@ -60,7 +60,7 @@ as measured in either case in accordance with a methodology approved by the Wels
 
 [^M_E_67e8b45b-1e5f-4c5b-bbb0-6b85cd4db1e5]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-53db4b5fec6962d863cba79099834baa]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/uksi/2010/2214/regulation/36) substituted (E., but only in relation to excepted energy buildings in W.) (1.10.2015) by [The Building Regulations &c. (Amendment) Regulations 2015 (S.I. 2015/767)](https://www.legislation.gov.uk/uksi/2015/767), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/b), [2(8)](https://www.legislation.gov.uk/uksi/2015/767/regulation/2/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2015/767/regulation/4)) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]
+[^c-53db4b5fec6962d863cba79099834baa]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/uksi/2010/2214/regulation/36) substituted (E., but only in relation to excepted energy buildings in W.) (1.10.2015) by [The Building Regulations &c. (Amendment) Regulations 2015 (S.I. 2015/767)](https://www.legislation.gov.uk/uksi/2015/767), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/b), [2(8)](https://www.legislation.gov.uk/uksi/2015/767/regulation/2/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2015/767/regulation/4)) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]
 
 [^M_E_1ec819ca-52c8-4371-8546-f3b5aeb6d7fd]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 

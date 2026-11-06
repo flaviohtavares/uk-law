@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Matters applicant must take into account for the risk assessment[^key-14a0b2e5aff1dee5d979351028399ad5]
+## SCHEDULE 2 — Matters applicant must take into account for the risk assessment[^c-14a0b2e5aff1dee5d979351028399ad5]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 32
 
-[^key-14a0b2e5aff1dee5d979351028399ad5]The applicant must consider all hazards that could cause a human occupant to experience or undergo any of the following—
+[^c-14a0b2e5aff1dee5d979351028399ad5]The applicant must consider all hazards that could cause a human occupant to experience or undergo any of the following—
 
 - (a) disorientation;
 - (b) acceleration;
@@ -37,4 +37,4 @@ Regulation 32
 
 ## Annotations
 
-[^key-14a0b2e5aff1dee5d979351028399ad5]: Commencement: Sch. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-14a0b2e5aff1dee5d979351028399ad5]: Commencement: Sch. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

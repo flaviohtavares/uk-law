@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. International obligations[^key-44badc988da02b5f23cda50763b0586d]
+## 12. International obligations[^c-44badc988da02b5f23cda50763b0586d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44badc988da02b5f23cda50763b0586d]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/3755/regulation/12) omitted (27.3.2019) by virtue of [The Uncertificated Securities (Amendment and EU Exit) Regulations 2019 (S.I. 2019/679)](https://www.legislation.gov.uk/uksi/2019/679), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2019/679/regulation/4/7) (with [regs. 10-12](https://www.legislation.gov.uk/uksi/2019/679/regulation/10))
+[^c-44badc988da02b5f23cda50763b0586d]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/3755/regulation/12) omitted (27.3.2019) by virtue of [The Uncertificated Securities (Amendment and EU Exit) Regulations 2019 (S.I. 2019/679)](https://www.legislation.gov.uk/uksi/2019/679), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2019/679/regulation/4/7) (with [regs. 10-12](https://www.legislation.gov.uk/uksi/2019/679/regulation/10))

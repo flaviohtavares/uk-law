@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 281. Correspondence of certain persons detained in hospital[^key-8938e097a8d53fc078010dab64254716][^key-989d37c23f7a8ba50a223aac237a51a5]
+## 281. Correspondence of certain persons detained in hospital[^c-8938e097a8d53fc078010dab64254716][^c-989d37c23f7a8ba50a223aac237a51a5]
 
 *Extent: S*
 
@@ -56,7 +56,7 @@ may, where subsection (2) or (3) below applies, be withheld from the relevant ca
 - (j) the managers of the hospital in which the specified person is detained;
 - (k) a Health Board;
 - (l) a Special Health Board;
-- (la)[^key-d32578cd8e29e9c40983849ece754c80] Healthcare Improvement Scotland;
+- (la)[^c-d32578cd8e29e9c40983849ece754c80] Healthcare Improvement Scotland;
 - (m) a National Health Service trust;
 - (n) any person who, to the knowledge of the managers of the hospital in which the specified person is detained, is providing independent advocacy services to the specified person under section 259 of this Act;
 - (o) any legally qualified person instructed by the specified person to act as the specified person’s legal adviser;
@@ -91,8 +91,8 @@ may be withheld from the specified person by the managers of the hospital in whi
 
 ## Annotations
 
-[^key-8938e097a8d53fc078010dab64254716]: Commencement: S. 281 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-8938e097a8d53fc078010dab64254716]: Commencement: S. 281 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-989d37c23f7a8ba50a223aac237a51a5]: Commencement: S. 281 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-989d37c23f7a8ba50a223aac237a51a5]: Commencement: S. 281 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-d32578cd8e29e9c40983849ece754c80]: Textual amendment: S. 281(5)(la) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/3)
+[^c-d32578cd8e29e9c40983849ece754c80]: Textual amendment: S. 281(5)(la) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/3)

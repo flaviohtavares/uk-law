@@ -46,11 +46,11 @@ The Secretary of State believes that the organisation to be added to Schedule 2 
 
 In accordance with section 123(4)(a) of that Act, a draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-862d71920f5db9869624e32b8f5331c5]
+## 1. Citation and commencement[^c-862d71920f5db9869624e32b8f5331c5]
 
 This Order may be cited as the Terrorism Act 2000 (Proscribed Organisations) (Amendment) (No. 2) Order 2012 and comes into force on the day after the day on which it is made.
 
-## 2. Proscribed organisations[^key-2678a4f9cb4c31b7884d7900fbed4740]
+## 2. Proscribed organisations[^c-2678a4f9cb4c31b7884d7900fbed4740]
 
 In Schedule 2 to the Terrorism Act 2000 (proscribed organisations)[^f00002], after the entry for Indian Mujahideen insert the following entry –
 
@@ -78,8 +78,8 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11); relevant amendments to section 3 were made by sections 21 and 22 of the Terrorism Act [2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11).
 
-[^key-862d71920f5db9869624e32b8f5331c5]: Commencement: Art. 1 in force at 23.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2937/article/1)
+[^c-862d71920f5db9869624e32b8f5331c5]: Commencement: Art. 1 in force at 23.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2937/article/1)
 
-[^key-2678a4f9cb4c31b7884d7900fbed4740]: Commencement: Art. 2 in force at 23.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2937/article/1)
+[^c-2678a4f9cb4c31b7884d7900fbed4740]: Commencement: Art. 2 in force at 23.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2937/article/1)
 
 [^f00002]: Footnote: Schedule 2 has been amended by [S.I. 2001/1261](https://www.legislation.gov.uk/uksi/2001/1261), [S.I. 2002/2724](https://www.legislation.gov.uk/uksi/2002/2724), [S.I. 2005/2892](https://www.legislation.gov.uk/uksi/2005/2892), [S.I. 2006/2016](https://www.legislation.gov.uk/uksi/2006/2016), [S.I. 2007/2184](https://www.legislation.gov.uk/uksi/2007/2184), [S.I. 2008/1645](https://www.legislation.gov.uk/uksi/2008/1645), [S.I. 2008/1931](https://www.legislation.gov.uk/uksi/2008/1931), [S.I. 2010/611](https://www.legislation.gov.uk/uksi/2010/611), [S.I. 2011/108](https://www.legislation.gov.uk/uksi/2011/108) and [S.I. 2012/1771](https://www.legislation.gov.uk/uksi/2012/1771).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18.3. Arrangements for peremptory hearing[^key-188eaed06ca352dfd8b5e3d8dd641389]
+## 18.3. Arrangements for peremptory hearing[^c-188eaed06ca352dfd8b5e3d8dd641389]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-188eaed06ca352dfd8b5e3d8dd641389]: Commencement: Para. 18.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-188eaed06ca352dfd8b5e3d8dd641389]: Commencement: Para. 18.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

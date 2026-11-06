@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Residence: persons remanded in custody etc.[^c14478791][^c14478802][^key-ac0705d4741e19fd7f5017cd2c53ae7d][^c14478781]
+## 7A. Residence: persons remanded in custody etc.[^c14478791][^c14478802][^c-ac0705d4741e19fd7f5017cd2c53ae7d][^c14478781]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) the end of the period of 12 months beginning with the date when the entry in the register first takes effect, or
 - (aa)[^c19386821] the registration officer determines in accordance with regulations that the person was not entitled to be registered, or
-- (ab)[^key-93a44a96fb0321288fa4a8ac17b95770] the registration officer determines in accordance with regulations that the person was registered as the result of an application under section 10ZC made by some other person or that the person's entry has been altered as the result of an application under section 10ZD made by some other person, or
+- (ab)[^c-93a44a96fb0321288fa4a8ac17b95770] the registration officer determines in accordance with regulations that the person was registered as the result of an application under section 10ZC made by some other person or that the person's entry has been altered as the result of an application under section 10ZD made by some other person, or
 - (b) another entry made in respect of him in any register of electors takes effect (whether or not in pursuance of an application made by virtue of subsection (2)),
 
 whichever first occurs.
@@ -57,13 +57,13 @@ whichever first occurs.
 
 [^c14478802]: Modification: S. 7A applied (with modifications) (9.4.2001) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1184/schedule/part/I) (as substituted (17.3.2009) by [S.I. 2009/726](https://www.legislation.gov.uk/uksi/2009/726), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/726/regulation/1/1), [2(3)(4)](https://www.legislation.gov.uk/uksi/2009/726/regulation/2/3/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/726/schedule))
 
-[^key-ac0705d4741e19fd7f5017cd2c53ae7d]: Modification: S. 7A applied (with modifications) (S.) (8.8.2013) by [Scottish Independence Referendum (Franchise) Act 2013 (asp 13)](https://www.legislation.gov.uk/asp/2013/13), [ss. 6](https://www.legislation.gov.uk/asp/2013/13/section/6), [13(1)](https://www.legislation.gov.uk/asp/2013/13/section/13/1), [sch. 1 Pts. 1](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/1), [2](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/2) (with [s. 13(2)](https://www.legislation.gov.uk/asp/2013/13/section/13/2))
+[^c-ac0705d4741e19fd7f5017cd2c53ae7d]: Modification: S. 7A applied (with modifications) (S.) (8.8.2013) by [Scottish Independence Referendum (Franchise) Act 2013 (asp 13)](https://www.legislation.gov.uk/asp/2013/13), [ss. 6](https://www.legislation.gov.uk/asp/2013/13/section/6), [13(1)](https://www.legislation.gov.uk/asp/2013/13/section/13/1), [sch. 1 Pts. 1](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/1), [2](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/2) (with [s. 13(2)](https://www.legislation.gov.uk/asp/2013/13/section/13/2))
 
 [^c14478781]: Textual amendment: S. 7A inserted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 5](https://www.legislation.gov.uk/ukpga/2000/2/section/5); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
 [^c19386821]: Textual amendment: S. 7A(3)(aa) inserted (1.1.2007 for E.W.S. and 14.5.2008 for N.I) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/12/2), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14/a) (subject to transitional provisions and savings in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1316/article/2), [3](https://www.legislation.gov.uk/uksi/2008/1316/article/3)
 
-[^key-93a44a96fb0321288fa4a8ac17b95770]: Textual amendment: S. 7A(3)(ab) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
+[^c-93a44a96fb0321288fa4a8ac17b95770]: Textual amendment: S. 7A(3)(ab) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
 
 [^c14478811]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 

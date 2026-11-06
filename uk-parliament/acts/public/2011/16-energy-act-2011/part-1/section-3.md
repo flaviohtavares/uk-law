@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Framework regulations[^key-139b4b5f824bbb11fa3f837e2cf0f7ae]
+## 3. Framework regulations[^c-139b4b5f824bbb11fa3f837e2cf0f7ae]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139b4b5f824bbb11fa3f837e2cf0f7ae]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/16/section/3) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/i)
+[^c-139b4b5f824bbb11fa3f837e2cf0f7ae]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/16/section/3) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/i)

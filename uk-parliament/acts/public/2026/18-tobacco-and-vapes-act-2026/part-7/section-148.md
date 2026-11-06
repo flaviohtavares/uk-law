@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. No-smoking premises in Scotland[^key-ddd987428511377a8d36e8bc472bb5a5]
+## 148. No-smoking premises in Scotland[^c-ddd987428511377a8d36e8bc472bb5a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddd987428511377a8d36e8bc472bb5a5]: Commencement: S. 148 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-ddd987428511377a8d36e8bc472bb5a5]: Commencement: S. 148 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)

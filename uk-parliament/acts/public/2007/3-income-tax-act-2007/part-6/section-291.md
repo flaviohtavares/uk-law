@@ -22,16 +22,16 @@ summary: ''
 
 (1) The requirement of this section, at any time on or after the issue of the relevant holding, is that a qualifying company (whether or not the same such company at every such time) must have been carrying on a qualifying activity at all times from the issue of the holding to the time in question.
 
-(2) Carrying on a qualifying trade[^key-bc695effe54a4cb9c7a3743d51f92de6] is a qualifying activity.
+(2) Carrying on a qualifying trade[^c-bc695effe54a4cb9c7a3743d51f92de6] is a qualifying activity.
 
-(3) Preparing to carry on a qualifying trade is a qualifying activity if, at the time when the relevant holding was issued, the trade was intended to be carried on [^key-b4c81335cbb41d6b9b2a7fa0e697cac5]... by a qualifying company.
+(3) Preparing to carry on a qualifying trade is a qualifying activity if, at the time when the relevant holding was issued, the trade was intended to be carried on [^c-b4c81335cbb41d6b9b2a7fa0e697cac5]... by a qualifying company.
 
 This is subject to subsections (4) and (5).
 
 (4) The requirement of this section is not capable of being met by virtue of subsection (3) at any time after the end of the period of two years beginning with the issue of the relevant holding unless—
 
 - (a) the intended trade was begun to be carried on by a qualifying company before the end of that period, and
-- (b) at all times since the end of that period, a qualifying company (whether or not the same such company at every such time) has been carrying on a qualifying trade [^key-c8ca8d65ee9b7e4f3f028038dc580f5b]....
+- (b) at all times since the end of that period, a qualifying company (whether or not the same such company at every such time) has been carrying on a qualifying trade [^c-c8ca8d65ee9b7e4f3f028038dc580f5b]....
 
 (5) The requirement of this section is also not capable of being met by virtue of subsection (3) at any time after the abandonment, within the period mentioned in subsection (4), of the intention in question.
 
@@ -43,8 +43,8 @@ This is subject to subsections (4) and (5).
 
 ## Annotations
 
-[^key-bc695effe54a4cb9c7a3743d51f92de6]: Textual amendment: Words in s. 291(2) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(10)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/10/a); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-bc695effe54a4cb9c7a3743d51f92de6]: Textual amendment: Words in s. 291(2) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(10)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/10/a); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
 
-[^key-b4c81335cbb41d6b9b2a7fa0e697cac5]: Textual amendment: Words in s. 291(3) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(10)(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/10/b); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-b4c81335cbb41d6b9b2a7fa0e697cac5]: Textual amendment: Words in s. 291(3) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(10)(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/10/b); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
 
-[^key-c8ca8d65ee9b7e4f3f028038dc580f5b]: Textual amendment: Words in s. 291(4)(b) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(10)(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/10/c); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-c8ca8d65ee9b7e4f3f028038dc580f5b]: Textual amendment: Words in s. 291(4)(b) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(10)(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/10/c); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

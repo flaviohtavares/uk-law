@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Duty to remove services from supplementary notes[^key-ab28217668eed69726862f8fe2ff7bbe][^key-da68c610e6f1cbe949e863d4ed27e836]
+## 44. Duty to remove services from supplementary notes[^c-ab28217668eed69726862f8fe2ff7bbe][^c-da68c610e6f1cbe949e863d4ed27e836]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab28217668eed69726862f8fe2ff7bbe]: Commencement: S. 44 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-ab28217668eed69726862f8fe2ff7bbe]: Commencement: S. 44 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-da68c610e6f1cbe949e863d4ed27e836]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/18/section/44) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-da68c610e6f1cbe949e863d4ed27e836]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/18/section/44) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

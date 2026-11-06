@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Monitoring and enforcement by Pensions Regulator[^key-b50b1ed81cd71901a82c207dc5fd5977]
+## 36A. Monitoring and enforcement by Pensions Regulator[^c-b50b1ed81cd71901a82c207dc5fd5977]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b50b1ed81cd71901a82c207dc5fd5977]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2024/102/regulation/36A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/9)
+[^c-b50b1ed81cd71901a82c207dc5fd5977]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2024/102/regulation/36A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/9)

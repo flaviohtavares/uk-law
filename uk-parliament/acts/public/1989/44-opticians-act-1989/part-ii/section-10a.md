@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Indemnity arrangements for individual registrants and persons applying for their name to be registered[^key-373c5a350a18042eca7aef332b07957d]
+## 10A. Indemnity arrangements for individual registrants and persons applying for their name to be registered[^c-373c5a350a18042eca7aef332b07957d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,10 +62,10 @@ summary: ''
 - (b) this section; and
 - (c) any rules made under section 7, 11A or 11B(6) which apply to that person’s case.
 
-(11)[^key-042fbc56395f4203454dd2a631796bd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-042fbc56395f4203454dd2a631796bd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-373c5a350a18042eca7aef332b07957d]: Textual amendment: S. 10A substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/7) (with [Sch. 3 paras. 6-9](https://www.legislation.gov.uk/uksi/2014/1887/schedule/3/paragraph/6))
+[^c-373c5a350a18042eca7aef332b07957d]: Textual amendment: S. 10A substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/7) (with [Sch. 3 paras. 6-9](https://www.legislation.gov.uk/uksi/2014/1887/schedule/3/paragraph/6))
 
-[^key-042fbc56395f4203454dd2a631796bd7]: Textual amendment: S. 10A(11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/6) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-042fbc56395f4203454dd2a631796bd7]: Textual amendment: S. 10A(11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/6) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

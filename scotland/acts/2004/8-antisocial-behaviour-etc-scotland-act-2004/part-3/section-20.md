@@ -34,7 +34,7 @@ summary: ''
 (3) An authorisation may be withdrawn by—
 
 - (a) the senior police officer who gave it; or
-- (b) any police officer [^key-0f732e7717427a8f8b8070bdee95ac23]... whose rank is the same as or higher than that of the senior police officer mentioned in paragraph (a).
+- (b) any police officer [^c-0f732e7717427a8f8b8070bdee95ac23]... whose rank is the same as or higher than that of the senior police officer mentioned in paragraph (a).
 
 (4) Before withdrawing, under subsection (3), an authorisation, the police officer who proposes to withdraw the authorisation shall ensure that any local authority whose area includes the whole or part of the relevant locality is consulted.
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f732e7717427a8f8b8070bdee95ac23]: Textual amendment: Words in [s. 20(3)(b)](https://www.legislation.gov.uk/asp/2004/8/section/20/3/b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-0f732e7717427a8f8b8070bdee95ac23]: Textual amendment: Words in [s. 20(3)(b)](https://www.legislation.gov.uk/asp/2004/8/section/20/3/b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

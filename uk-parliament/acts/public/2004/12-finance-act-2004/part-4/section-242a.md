@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242A. Meaning of “non-UK registered scheme”[^key-f5ddc233ae75a5a85948b6e17a343094]
+## 242A. Meaning of “non-UK registered scheme”[^c-f5ddc233ae75a5a85948b6e17a343094]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter “**non-UK registered scheme**” means a registered pension sc
 
 ## Annotations
 
-[^key-f5ddc233ae75a5a85948b6e17a343094]: Textual amendment: Pt. 4 Ch. 5A inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/14)
+[^c-f5ddc233ae75a5a85948b6e17a343094]: Textual amendment: Pt. 4 Ch. 5A inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/14)

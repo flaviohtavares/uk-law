@@ -25,7 +25,7 @@ summary: ''
 (2) “**Legal representation**” means the provision of civil legal services, other than acting as a mediator or arbitrator, to an individual or legal person [^c21489491] in particular proceedings where that individual or legal person—
 
 - (a) is a party to those proceedings;
-- (aa)[^key-f0e1e48accb6b1eac5ff8c746d26baf2] is a separated child within the meaning given in paragraph 31A of Part 1 of Schedule 1 to the Act and those proceedings concern a relevant application falling within paragraph 31A(2)(a) of Part 1 of Schedule 1 to the Act;
+- (aa)[^c-f0e1e48accb6b1eac5ff8c746d26baf2] is a separated child within the meaning given in paragraph 31A of Part 1 of Schedule 1 to the Act and those proceedings concern a relevant application falling within paragraph 31A(2)(a) of Part 1 of Schedule 1 to the Act;
 - (b) wishes to be joined as a party to those proceedings; or
 - (c) is contemplating issuing those proceedings.
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c21489491]: Marginal citation: Paragraph 1 of Schedule 3 to the Act provides that in that Schedule “**legal person**” means a person other than an individual.
 
-[^key-f0e1e48accb6b1eac5ff8c746d26baf2]: Textual amendment: [Reg. 9(2)(aa)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/9/2/aa) inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/1396/article/3/2)
+[^c-f0e1e48accb6b1eac5ff8c746d26baf2]: Textual amendment: [Reg. 9(2)(aa)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/9/2/aa) inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/1396/article/3/2)

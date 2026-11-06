@@ -25,11 +25,11 @@ summary: ''
 (2) The conditions are that—
 
 - (a) he needs help of a kind which they can give under this section or section 24B; and
-- (b) in the case of a person to whom section 24(1A) applies, or to whom section 24(1B) applies and[^c18795981] who was not being looked after by any local authority or local authority in Wales[^key-0dbddbcfcc145b2ac1a3b2ad12f7b45b], they are satisfied that the person by whom he was being looked after does not have the necessary facilities for advising or befriending him.
+- (b) in the case of a person to whom section 24(1A) applies, or to whom section 24(1B) applies and[^c18795981] who was not being looked after by any local authority or local authority in Wales[^c-0dbddbcfcc145b2ac1a3b2ad12f7b45b], they are satisfied that the person by whom he was being looked after does not have the necessary facilities for advising or befriending him.
 
 (3) If the conditions are satisfied—
 
-- (a) they shall advise and befriend him if he is a person to whom section 24(1A) applies, or he is a person to whom section 24(1B) applies and[^c18795991] he was being looked after by a local authority (without subsequently being looked after by a local authority in Wales)[^key-cb06eb37494d617df6e95de9221ef3f5] or was accommodated by or on behalf of a voluntary organisation; and
+- (a) they shall advise and befriend him if he is a person to whom section 24(1A) applies, or he is a person to whom section 24(1B) applies and[^c18795991] he was being looked after by a local authority (without subsequently being looked after by a local authority in Wales)[^c-cb06eb37494d617df6e95de9221ef3f5] or was accommodated by or on behalf of a voluntary organisation; and
 - (b) in any other case they may do so.
 
 (4) Where as a result of this section a local authority are under a duty, or are empowered, to advise and befriend a person, they may also give him assistance.
@@ -49,10 +49,10 @@ summary: ''
 
 [^c18795981]: Textual amendment: Words in s. 24A(2)(b) inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 61(a)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/61/a) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-0dbddbcfcc145b2ac1a3b2ad12f7b45b]: Textual amendment: Words in s. 24A(2)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [82(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/82/a)
+[^c-0dbddbcfcc145b2ac1a3b2ad12f7b45b]: Textual amendment: Words in s. 24A(2)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [82(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/82/a)
 
 [^c18795991]: Textual amendment: Words in s. 24A(3)(a) inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 61(b)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/61/b) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-cb06eb37494d617df6e95de9221ef3f5]: Textual amendment: Words in s. 24A(3)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [82(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/82/b)
+[^c-cb06eb37494d617df6e95de9221ef3f5]: Textual amendment: Words in s. 24A(3)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [82(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/82/b)
 
 [^c15162351]: Textual amendment: Words in s. 24A(5) substituted (7.11.2002) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 116(3)](https://www.legislation.gov.uk/ukpga/2002/38/section/116/3), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6))

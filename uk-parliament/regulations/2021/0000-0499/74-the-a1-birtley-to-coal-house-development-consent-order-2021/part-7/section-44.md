@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Certification of documents, etc.[^key-7acdf8f9dce293fdaf55e65fb82fe511]
+## 44. Certification of documents, etc.[^c-7acdf8f9dce293fdaf55e65fb82fe511]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7acdf8f9dce293fdaf55e65fb82fe511]: Commencement: Art. 44 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-7acdf8f9dce293fdaf55e65fb82fe511]: Commencement: Art. 44 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

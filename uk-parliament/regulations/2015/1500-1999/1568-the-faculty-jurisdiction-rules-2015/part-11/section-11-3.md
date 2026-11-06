@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 11.3. Time and place of hearing[^key-d56c0d1061bdde4853b72ceda6ed7cfe]
+## 11.3. Time and place of hearing[^c-d56c0d1061bdde4853b72ceda6ed7cfe]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d56c0d1061bdde4853b72ceda6ed7cfe]: Commencement: [Rule 11.3](https://www.legislation.gov.uk/uksi/2015/1568/article/11.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-d56c0d1061bdde4853b72ceda6ed7cfe]: Commencement: [Rule 11.3](https://www.legislation.gov.uk/uksi/2015/1568/article/11.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -26,7 +26,7 @@ summary: ''
 
 ### Part 1 — Regulatory framework
 
-#### 1. Regulatory objectives and professional principles[^key-f6891eda202b2be3803bcc8c036c83e8]
+#### 1. Regulatory objectives and professional principles[^c-f6891eda202b2be3803bcc8c036c83e8]
 
 (1) The 2007 Act is amended as follows.
 
@@ -41,7 +41,7 @@ summary: ''
 
   .
 
-**2.**[^key-091bb73900790dc0100ddb5b56157905] (1) The 2010 Act is amended as follows.
+**2.**[^c-091bb73900790dc0100ddb5b56157905] (1) The 2010 Act is amended as follows.
 
 (2) Section 1 (regulatory objectives) is repealed.
 
@@ -90,7 +90,7 @@ summary: ''
 
 .
 
-#### 3. New regulators[^key-dc4fc2ff36337f5684d0c1b23b2b414b]
+#### 3. New regulators[^c-dc4fc2ff36337f5684d0c1b23b2b414b]
 
 (1) The 1980 Act is amended as follows.
 
@@ -106,7 +106,7 @@ summary: ''
 
 .
 
-**4.**[^key-628e70c889d484119e72daa964ade5da] (1) The Legal Aid (Scotland) Act 1986 is amended as follows.
+**4.**[^c-628e70c889d484119e72daa964ade5da] (1) The Legal Aid (Scotland) Act 1986 is amended as follows.
 
 (2) In section 12A (register of advice organisations), in subsection (2), for paragraph (d) substitute—
 
@@ -114,7 +114,7 @@ summary: ''
 
 .
 
-**5.**[^key-5166aff7f30bfb7b2eaa3e624e7063fd] (1) The 2010 Act is amended as follows.
+**5.**[^c-5166aff7f30bfb7b2eaa3e624e7063fd] (1) The 2010 Act is amended as follows.
 
 (2) In section 48 (eligibility criteria), in subsection (5), for paragraph (c) substitute—
 
@@ -134,7 +134,7 @@ summary: ''
 
 (6) In schedule 9 (index of expressions used), in the entry relating to “litigation practitioner”, in the first column, for “litigation practitioner” substitute “authorised legal services provider”.
 
-**6.**[^key-35050158dd593e658c1874a514e5c083] (1) The Courts Reform (Scotland) Act 2014 is amended as follows.
+**6.**[^c-35050158dd593e658c1874a514e5c083] (1) The Courts Reform (Scotland) Act 2014 is amended as follows.
 
 (2) In section 95 (key defined terms), in subsection (4), for paragraph (c) substitute—
 
@@ -154,7 +154,7 @@ summary: ''
 
 .
 
-**7.**[^key-e916f292db984555fe5709dcbd144a59] (1) The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 is amended as follows.
+**7.**[^c-e916f292db984555fe5709dcbd144a59] (1) The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 is amended as follows.
 
 (2) In section 36 (power to regulate procedure etc.), in subsection (2), in paragraph (e), for sub-paragraph (ii) substitute—
 
@@ -162,7 +162,7 @@ summary: ''
 
 .
 
-#### 8. Renaming etc. of Association of Commercial Attorneys[^key-4b380c6c0a362b90e10a89d3de2f3698]
+#### 8. Renaming etc. of Association of Commercial Attorneys[^c-4b380c6c0a362b90e10a89d3de2f3698]
 
 In the schedule of the Licensed Legal Services (Specification of Regulated Professions) (Scotland) Regulations 2012 ([S.S.I. 2012/213](https://www.legislation.gov.uk/ssi/2012/213)), in the table—
 
@@ -171,7 +171,7 @@ In the schedule of the Licensed Legal Services (Specification of Regulated Profe
 
 ### Part 2 — Modification of the 1980 Act in relation to complaints
 
-#### 9. Conduct complaints suggesting unsatisfactory professional conduct[^key-810b1efd4e87993ba3e036db100502a8]
+#### 9. Conduct complaints suggesting unsatisfactory professional conduct[^c-810b1efd4e87993ba3e036db100502a8]
 
 (1) The 1980 Act is amended as follows.
 
@@ -469,7 +469,7 @@ In the schedule of the Licensed Legal Services (Specification of Regulated Profe
 
 .
 
-#### 10. Regulatory complaints[^key-214025512494b824e8ea46d9f18657a4]
+#### 10. Regulatory complaints[^c-214025512494b824e8ea46d9f18657a4]
 
 (1) The 1980 Act is amended as follows.
 
@@ -815,7 +815,7 @@ In the schedule of the Licensed Legal Services (Specification of Regulated Profe
   ,
 - (b) in paragraph 23, in the opening words, after “section 42ZD(1)” insert “, section 42E(7) or (8)”.
 
-#### 11. Procedure relating to complaints[^key-32f1965a129d089ae3d3f1c3e2ed456b]
+#### 11. Procedure relating to complaints[^c-32f1965a129d089ae3d3f1c3e2ed456b]
 
 After section 42C (powers to examine documents and demand explanations in connection with complaints) of the 1980 Act insert—
 
@@ -840,7 +840,7 @@ After section 42C (powers to examine documents and demand explanations in connec
 
 .
 
-#### 12. Publication of decisions[^key-9a11c55078b41d9d35c19957efe2c4fb]
+#### 12. Publication of decisions[^c-9a11c55078b41d9d35c19957efe2c4fb]
 
 (1) Schedule 4 of the 1980 Act (constitution, procedure and powers of Tribunal) is amended as follows.
 
@@ -868,7 +868,7 @@ After section 42C (powers to examine documents and demand explanations in connec
 
 .
 
-#### 13. Other modifications[^key-eb15b59c150848ad5ce7548014e27766]
+#### 13. Other modifications[^c-eb15b59c150848ad5ce7548014e27766]
 
 (1) The 1980 Act is amended as follows.
 
@@ -884,11 +884,11 @@ After section 42C (powers to examine documents and demand explanations in connec
 
 ### Part 3 — Modification of other enactments in relation to complaints
 
-#### 14. Legal Aid (Scotland) Act 1986[^key-65ddf1a2d7aa24402dad9738d61ea827]
+#### 14. Legal Aid (Scotland) Act 1986[^c-65ddf1a2d7aa24402dad9738d61ea827]
 
 In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of information), in subsection (2)(b), the words “or 15(5)(a)” are repealed.
 
-#### 15. Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^key-de59dd9d14df51e9f9c52e01bfb723fa]
+#### 15. Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^c-de59dd9d14df51e9f9c52e01bfb723fa]
 
 (1) The 1990 Act is amended as follows.
 
@@ -1090,7 +1090,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 - (a) “15” substitute “15A, 16A”,
 - (b) for “, (10), (11) or (12)” substitute “or (10)”.
 
-#### 16. Legal Profession and Legal Aid (Scotland) Act 2007[^key-b4fb5cf1dc36e781dceefccb57e582f7]
+#### 16. Legal Profession and Legal Aid (Scotland) Act 2007[^c-b4fb5cf1dc36e781dceefccb57e582f7]
 
 (1) The 2007 Act is amended as follows.
 
@@ -1310,7 +1310,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
   ,
 - (c) the title to the schedule becomes “FURTHER POWERS OF RELEVANT PROFESSIONAL ORGANISATIONS UNDER SECTIONS 48 AND 48A”.
 
-#### 17. Legal Services (Scotland) Act 2010[^key-815a2c744a02d8aba5b9f0fb9e59d8fe]
+#### 17. Legal Services (Scotland) Act 2010[^c-815a2c744a02d8aba5b9f0fb9e59d8fe]
 
 (1) The 2010 Act is amended as follows.
 
@@ -1351,7 +1351,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
 ### Part 4 — Miscellaneous modifications of the 1980 Act etc.
 
-#### 18. The roll and other registers[^key-77efb4aac038b658beb0e455a794187c]
+#### 18. The roll and other registers[^c-77efb4aac038b658beb0e455a794187c]
 
 (1) The 1980 Act is amended as follows.
 
@@ -1448,7 +1448,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 - (a) in paragraph 18, for the words from “shall” to the end of the paragraph substitute “must be accessible to, and searchable by, the public, free of charge, by such electronic means as the Council consider appropriate.”,
 - (b) in paragraph 18A, for the words from “open” to the end of the paragraph substitute “accessible to, and searchable by, the public, free of charge, by such electronic means as the Council consider appropriate.”.
 
-**19.**[^key-e10791a3330a20e776aee73e349bdfbd] (1) The 1990 Act is amended as follows.
+**19.**[^c-e10791a3330a20e776aee73e349bdfbd] (1) The 1990 Act is amended as follows.
 
 (2) In section 17 (conveyancing practitioners)—
 
@@ -1478,7 +1478,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
   .
 
-#### 20. Restoration of name to roll: appeals[^key-da3389892faa0e6de0d9d3238e3bcbe6]
+#### 20. Restoration of name to roll: appeals[^c-da3389892faa0e6de0d9d3238e3bcbe6]
 
 (1) The 1980 Act is amended as follows.
 
@@ -1521,7 +1521,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
   .
 
-#### 21. Restoration of name to register of European lawyers: appeals[^key-ed8184eb1bb1fce6b245cb7bd90c47f2]
+#### 21. Restoration of name to register of European lawyers: appeals[^c-ed8184eb1bb1fce6b245cb7bd90c47f2]
 
 (1) The 1980 Act is amended as follows.
 
@@ -1543,7 +1543,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
 (3) In section 52 (procedure on complaints and appeals to Tribunal), in subsection (2)(aa), after “section” insert “10(1B), 12D(2A),”.
 
-#### 22. Restoration of name to register of foreign lawyers: appeals[^key-0bae993fe32a9ec8ae244ea2aa1ad943]
+#### 22. Restoration of name to register of foreign lawyers: appeals[^c-0bae993fe32a9ec8ae244ea2aa1ad943]
 
 (1) The 1980 Act is amended as follows.
 
@@ -1562,7 +1562,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
 .
 
-#### 23. Restoration of name to roll or register: expenses[^key-b1cb6a15a9aa099ed8e5fe22fe5d393c]
+#### 23. Restoration of name to roll or register: expenses[^c-b1cb6a15a9aa099ed8e5fe22fe5d393c]
 
 (1) The 1980 Act is amended as follows.
 
@@ -1582,7 +1582,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
   .
 
-#### 24. Practising certificates[^key-f1e2bfdc638f4e319ded7399eef0ac8e]
+#### 24. Practising certificates[^c-f1e2bfdc638f4e319ded7399eef0ac8e]
 
 (1) The 1980 Act is amended as follows.
 
@@ -1735,7 +1735,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
 .
 
-#### 25. Registration certificates[^key-8c887108244e4a4a6c9623bf38ebc7db]
+#### 25. Registration certificates[^c-8c887108244e4a4a6c9623bf38ebc7db]
 
 (1) The 1980 Act is amended as follows.
 
@@ -1886,7 +1886,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
   ,
 - (i) the title of section 24G becomes “**Further provisions relating to suspension from practice as registered European lawyer**”.
 
-#### 26. Powers where excessive fees etc. charged[^key-d3ffba92665115f5c7a593c8b299de37]
+#### 26. Powers where excessive fees etc. charged[^c-d3ffba92665115f5c7a593c8b299de37]
 
 (1) Section 39A of the 1980 Act (powers where excessive fees etc. charged) is amended as follows.
 
@@ -1921,7 +1921,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
 .
 
-#### 27. Powers where failure to comply with rules[^key-86613afe975bf278e0040bc76ac66e9f]
+#### 27. Powers where failure to comply with rules[^c-86613afe975bf278e0040bc76ac66e9f]
 
 (1) Section 40 of the 1980 Act (power where failure to comply with accounts rules etc.) is amended as follows.
 
@@ -1958,7 +1958,7 @@ In section 34 of the Legal Aid (Scotland) Act 1986 (confidentiality of informati
 
 (5) In subsection (3), after “certificate” insert “or a decision under subsection (1A) or (2) to restore a solicitor’s practising certificate subject to conditions”.
 
-#### 28. Previous findings of record[^key-1d0028a5035658b43b9574835636cfc3]
+#### 28. Previous findings of record[^c-1d0028a5035658b43b9574835636cfc3]
 
 After section 42E of the 1980 Act (powers relating to regulatory complaints) as inserted by this Act insert—
 
@@ -1981,7 +1981,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 .
 
-#### 29. The Client Protection Fund[^key-7a1e88972afd8d127bcedd11953ad000]
+#### 29. The Client Protection Fund[^c-7a1e88972afd8d127bcedd11953ad000]
 
 (1) The 1980 Act is amended as follows.
 
@@ -2029,7 +2029,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 - (q) in paragraph 4(4), for “Guarantee Fund” in both places it occurs substitute “Client Protection Fund”,
 - (r) the title of Part 1 becomes “The Client Protection Fund”.
 
-**30.**[^key-2057eb3f646552978ee94b4ea4a12508] (1) The 2007 Act is amended as follows.
+**30.**[^c-2057eb3f646552978ee94b4ea4a12508] (1) The 2007 Act is amended as follows.
 
 (2) In section 39 (monitoring effectiveness of guarantee funds etc.)—
 
@@ -2040,7 +2040,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
   - (ii) in paragraph (c), for “Guarantee” substitute “Client Protection”,
 - (b) the title of section 39 becomes “**Monitoring effectiveness of funds etc.**”.
 
-**31.**[^key-403bf2619959892ce9a6f095e6f2bd66] (1) The 2010 Act is amended as follows.
+**31.**[^c-403bf2619959892ce9a6f095e6f2bd66] (1) The 2010 Act is amended as follows.
 
 (2) In section 24 (choice of arrangements)—
 
@@ -2065,7 +2065,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 (6) In section 34 (steps open to Society), in subsection (4)(a), for “Guarantee” substitute “Client Protection”.
 
-#### 32. Investment business certificates[^key-c412f17113d40601999bc3195b88d59a]
+#### 32. Investment business certificates[^c-c412f17113d40601999bc3195b88d59a]
 
 (1) The 1980 Act is amended as follows.
 
@@ -2094,7 +2094,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 (4) In schedule 4 (constitution, procedure and powers of Tribunal), in paragraph 16(h), for “an investment business certificate” substitute “a licence to carry on incidental financial business”.
 
-#### 33. Appeals from decisions of Tribunal[^key-068fe71e421c5645ac0b7af3b837218d]
+#### 33. Appeals from decisions of Tribunal[^c-068fe71e421c5645ac0b7af3b837218d]
 
 (1) Section 54 of the 1980 Act (appeals from decisions of Tribunal) is amended as follows.
 
@@ -2118,7 +2118,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 .
 
-#### 34. Constitution of Tribunal[^key-e54f1725cda209b67c4c89124f0b94ea]
+#### 34. Constitution of Tribunal[^c-e54f1725cda209b67c4c89124f0b94ea]
 
 (1) Schedule 4 of the 1980 Act (constitution, procedure and powers of Tribunal) is amended as follows.
 
@@ -2174,7 +2174,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 (8) In paragraph 14, for “chairman” substitute “Chair”.
 
-#### 35. Procedure of Tribunal[^key-25a1996f63df7dc1de617c0043ba2e68]
+#### 35. Procedure of Tribunal[^c-25a1996f63df7dc1de617c0043ba2e68]
 
 (1) The 1980 Act is amended as follows.
 
@@ -2208,7 +2208,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 .
 
-#### 36. Communicating and giving effect to Tribunal decisions[^key-2d0da1e521ee7425addefb90252d53ac]
+#### 36. Communicating and giving effect to Tribunal decisions[^c-2d0da1e521ee7425addefb90252d53ac]
 
 (1) The 1980 Act is amended as follows.
 
@@ -2254,7 +2254,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 (3) In section 53, in subsection (5), the words “terms and” are repealed.
 
-#### 37. Appeal against decision of Tribunal to dismiss before enquiry[^key-0da9be83c5aba087f20106b189f6210a]
+#### 37. Appeal against decision of Tribunal to dismiss before enquiry[^c-0da9be83c5aba087f20106b189f6210a]
 
 (1) The 1980 Act is amended as follows.
 
@@ -2272,7 +2272,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 .
 
-#### 38. Finality of decisions[^key-85b6bdafba2dfd0f4b17dc0a8925b6da]
+#### 38. Finality of decisions[^c-85b6bdafba2dfd0f4b17dc0a8925b6da]
 
 (1) The 1980 Act is amended as follows.
 
@@ -2306,7 +2306,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 .
 
-#### 39. Other modifications[^key-2112e54b80fa38b27b2640ef4e3268ef]
+#### 39. Other modifications[^c-2112e54b80fa38b27b2640ef4e3268ef]
 
 (1) The 1980 Act is amended as follows.
 
@@ -2422,7 +2422,7 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 ### Part 5 — Miscellaneous modifications of other enactments
 
-#### 40. Freedom of information[^key-dd56b10956096996061db3317105d279]
+#### 40. Freedom of information[^c-dd56b10956096996061db3317105d279]
 
 (1) The Freedom of Information (Scotland) Act 2002 is amended as follows.
 
@@ -2432,11 +2432,11 @@ After section 42E of the 1980 Act (powers relating to regulatory complaints) as 
 
 .
 
-#### 41. Removal of special provision for confirmation agents and will writers etc.[^key-a09bcf4a1e3ebe0dc8cea04ac99ff1be]
+#### 41. Removal of special provision for confirmation agents and will writers etc.[^c-a09bcf4a1e3ebe0dc8cea04ac99ff1be]
 
 In the 2007 Act, Part 2B (special provision for confirmation agents and will writers) is repealed.
 
-**42.**[^key-2497034b6136d9b9321d2c283ee8f039] (1) The 2010 Act is amended as follows.
+**42.**[^c-2497034b6136d9b9321d2c283ee8f039] (1) The 2010 Act is amended as follows.
 
 (2) In section 48(5) (eligibility criteria)—
 
@@ -2470,9 +2470,9 @@ In the 2007 Act, Part 2B (special provision for confirmation agents and will wri
 - (d) “regulatory scheme (of approving body)”,
 - (e) “will writer and will writing services”.
 
-**43.**[^key-e9fe1934f176441d6c25aa7b7df3de4a] In the Enterprise and Regulatory Reform Act 2013, in schedule 6 (regulatory repeals etc: minor and consequential amendments), paragraphs 198 to 200 are repealed.
+**43.**[^c-e9fe1934f176441d6c25aa7b7df3de4a] In the Enterprise and Regulatory Reform Act 2013, in schedule 6 (regulatory repeals etc: minor and consequential amendments), paragraphs 198 to 200 are repealed.
 
-#### 44. Civil enforcement of certain offences[^key-a4143af9d3678b0a0d9b3996b1cdebd6]
+#### 44. Civil enforcement of certain offences[^c-a4143af9d3678b0a0d9b3996b1cdebd6]
 
 After section 63A of the 1980 Act (inserted by paragraph 39(17)) insert—
 
@@ -2494,7 +2494,7 @@ After section 63A of the 1980 Act (inserted by paragraph 39(17)) insert—
 
 .
 
-**45.**[^key-e0b79c9ab674c902d9fe0ce69c38cea2] After section 74 of the 2010 Act insert—
+**45.**[^c-e0b79c9ab674c902d9fe0ce69c38cea2] After section 74 of the 2010 Act insert—
 
 > **74A. Civil enforcement in relation to certain offences**
 >
@@ -2518,7 +2518,7 @@ After section 63A of the 1980 Act (inserted by paragraph 39(17)) insert—
 
 .
 
-#### 46. Disclosure requirements in connection with new offences[^key-f9edf5186016d9d5ebf9e36615eb281f]
+#### 46. Disclosure requirements in connection with new offences[^c-f9edf5186016d9d5ebf9e36615eb281f]
 
 (1) The Disclosure (Scotland) Act 2020 is amended as follows.
 
@@ -2547,7 +2547,7 @@ After section 63A of the 1980 Act (inserted by paragraph 39(17)) insert—
   ,
 - (b) paragraph 60 (solicitors) and the heading immediately preceding it are repealed.
 
-**47.**[^key-3628a226727262d64372948608f074db] (1) The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 ([S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50)) is amended as follows.
+**47.**[^c-3628a226727262d64372948608f074db] (1) The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 ([S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50)) is amended as follows.
 
 (2) In schedule A1 (offences which must be disclosed subject to exceptions)—
 
@@ -2576,96 +2576,96 @@ After section 63A of the 1980 Act (inserted by paragraph 39(17)) insert—
 
 ## Annotations
 
-[^key-f6891eda202b2be3803bcc8c036c83e8]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f6891eda202b2be3803bcc8c036c83e8]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-091bb73900790dc0100ddb5b56157905]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-091bb73900790dc0100ddb5b56157905]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-dc4fc2ff36337f5684d0c1b23b2b414b]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-dc4fc2ff36337f5684d0c1b23b2b414b]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-628e70c889d484119e72daa964ade5da]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-628e70c889d484119e72daa964ade5da]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-5166aff7f30bfb7b2eaa3e624e7063fd]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5166aff7f30bfb7b2eaa3e624e7063fd]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-35050158dd593e658c1874a514e5c083]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-35050158dd593e658c1874a514e5c083]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e916f292db984555fe5709dcbd144a59]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e916f292db984555fe5709dcbd144a59]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-4b380c6c0a362b90e10a89d3de2f3698]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-4b380c6c0a362b90e10a89d3de2f3698]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-810b1efd4e87993ba3e036db100502a8]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-810b1efd4e87993ba3e036db100502a8]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-214025512494b824e8ea46d9f18657a4]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-214025512494b824e8ea46d9f18657a4]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-32f1965a129d089ae3d3f1c3e2ed456b]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-32f1965a129d089ae3d3f1c3e2ed456b]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-9a11c55078b41d9d35c19957efe2c4fb]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-9a11c55078b41d9d35c19957efe2c4fb]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-eb15b59c150848ad5ce7548014e27766]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-eb15b59c150848ad5ce7548014e27766]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-65ddf1a2d7aa24402dad9738d61ea827]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-65ddf1a2d7aa24402dad9738d61ea827]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-de59dd9d14df51e9f9c52e01bfb723fa]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-de59dd9d14df51e9f9c52e01bfb723fa]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-b4fb5cf1dc36e781dceefccb57e582f7]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-b4fb5cf1dc36e781dceefccb57e582f7]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-815a2c744a02d8aba5b9f0fb9e59d8fe]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-815a2c744a02d8aba5b9f0fb9e59d8fe]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-77efb4aac038b658beb0e455a794187c]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-77efb4aac038b658beb0e455a794187c]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e10791a3330a20e776aee73e349bdfbd]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e10791a3330a20e776aee73e349bdfbd]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-da3389892faa0e6de0d9d3238e3bcbe6]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-da3389892faa0e6de0d9d3238e3bcbe6]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-ed8184eb1bb1fce6b245cb7bd90c47f2]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-ed8184eb1bb1fce6b245cb7bd90c47f2]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-0bae993fe32a9ec8ae244ea2aa1ad943]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0bae993fe32a9ec8ae244ea2aa1ad943]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-b1cb6a15a9aa099ed8e5fe22fe5d393c]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-b1cb6a15a9aa099ed8e5fe22fe5d393c]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-f1e2bfdc638f4e319ded7399eef0ac8e]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f1e2bfdc638f4e319ded7399eef0ac8e]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-8c887108244e4a4a6c9623bf38ebc7db]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-8c887108244e4a4a6c9623bf38ebc7db]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d3ffba92665115f5c7a593c8b299de37]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d3ffba92665115f5c7a593c8b299de37]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-86613afe975bf278e0040bc76ac66e9f]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-86613afe975bf278e0040bc76ac66e9f]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-1d0028a5035658b43b9574835636cfc3]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-1d0028a5035658b43b9574835636cfc3]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-7a1e88972afd8d127bcedd11953ad000]: Commencement: Sch. 3 para. 29 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-7a1e88972afd8d127bcedd11953ad000]: Commencement: Sch. 3 para. 29 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-2057eb3f646552978ee94b4ea4a12508]: Commencement: Sch. 3 para. 30 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2057eb3f646552978ee94b4ea4a12508]: Commencement: Sch. 3 para. 30 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-403bf2619959892ce9a6f095e6f2bd66]: Commencement: Sch. 3 para. 31 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-403bf2619959892ce9a6f095e6f2bd66]: Commencement: Sch. 3 para. 31 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-c412f17113d40601999bc3195b88d59a]: Commencement: Sch. 3 para. 32 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c412f17113d40601999bc3195b88d59a]: Commencement: Sch. 3 para. 32 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-068fe71e421c5645ac0b7af3b837218d]: Commencement: Sch. 3 para. 33 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-068fe71e421c5645ac0b7af3b837218d]: Commencement: Sch. 3 para. 33 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e54f1725cda209b67c4c89124f0b94ea]: Commencement: Sch. 3 para. 34 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e54f1725cda209b67c4c89124f0b94ea]: Commencement: Sch. 3 para. 34 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-25a1996f63df7dc1de617c0043ba2e68]: Commencement: Sch. 3 para. 35 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-25a1996f63df7dc1de617c0043ba2e68]: Commencement: Sch. 3 para. 35 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-2d0da1e521ee7425addefb90252d53ac]: Commencement: Sch. 3 para. 36 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2d0da1e521ee7425addefb90252d53ac]: Commencement: Sch. 3 para. 36 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-0da9be83c5aba087f20106b189f6210a]: Commencement: Sch. 3 para. 37 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0da9be83c5aba087f20106b189f6210a]: Commencement: Sch. 3 para. 37 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-85b6bdafba2dfd0f4b17dc0a8925b6da]: Commencement: Sch. 3 para. 38 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-85b6bdafba2dfd0f4b17dc0a8925b6da]: Commencement: Sch. 3 para. 38 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-2112e54b80fa38b27b2640ef4e3268ef]: Commencement: Sch. 3 para. 39 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2112e54b80fa38b27b2640ef4e3268ef]: Commencement: Sch. 3 para. 39 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-dd56b10956096996061db3317105d279]: Commencement: Sch. 3 para. 40 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-dd56b10956096996061db3317105d279]: Commencement: Sch. 3 para. 40 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a09bcf4a1e3ebe0dc8cea04ac99ff1be]: Commencement: Sch. 3 para. 41 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-a09bcf4a1e3ebe0dc8cea04ac99ff1be]: Commencement: Sch. 3 para. 41 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-2497034b6136d9b9321d2c283ee8f039]: Commencement: Sch. 3 para. 42 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2497034b6136d9b9321d2c283ee8f039]: Commencement: Sch. 3 para. 42 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e9fe1934f176441d6c25aa7b7df3de4a]: Commencement: Sch. 3 para. 43 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e9fe1934f176441d6c25aa7b7df3de4a]: Commencement: Sch. 3 para. 43 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a4143af9d3678b0a0d9b3996b1cdebd6]: Commencement: Sch. 3 para. 44 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-a4143af9d3678b0a0d9b3996b1cdebd6]: Commencement: Sch. 3 para. 44 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e0b79c9ab674c902d9fe0ce69c38cea2]: Commencement: Sch. 3 para. 45 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e0b79c9ab674c902d9fe0ce69c38cea2]: Commencement: Sch. 3 para. 45 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-f9edf5186016d9d5ebf9e36615eb281f]: Commencement: Sch. 3 para. 46 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f9edf5186016d9d5ebf9e36615eb281f]: Commencement: Sch. 3 para. 46 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-3628a226727262d64372948608f074db]: Commencement: Sch. 3 para. 47 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-3628a226727262d64372948608f074db]: Commencement: Sch. 3 para. 47 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

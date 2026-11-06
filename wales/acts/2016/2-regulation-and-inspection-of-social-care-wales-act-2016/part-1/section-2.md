@@ -22,26 +22,26 @@ summary: ''
 
 (1) In this Act, “**regulated service**” means—
 
-- (a)[^key-b37702ae1d2eeeb8f4a331d0ca14951e] a care home service,
-- (b)[^key-b37702ae1d2eeeb8f4a331d0ca14951e] a secure accommodation service,
-- (c)[^key-b37702ae1d2eeeb8f4a331d0ca14951e] a residential family centre service,
-- (d)[^key-4989515fbbd4e0be34b0a5c7e49cb7dd] an adoption service,
-- (e)[^key-4989515fbbd4e0be34b0a5c7e49cb7dd] a fostering service,
-- (f)[^key-4989515fbbd4e0be34b0a5c7e49cb7dd] an adult placement service,
-- (g)[^key-4989515fbbd4e0be34b0a5c7e49cb7dd] an advocacy service,
+- (a)[^c-b37702ae1d2eeeb8f4a331d0ca14951e] a care home service,
+- (b)[^c-b37702ae1d2eeeb8f4a331d0ca14951e] a secure accommodation service,
+- (c)[^c-b37702ae1d2eeeb8f4a331d0ca14951e] a residential family centre service,
+- (d)[^c-4989515fbbd4e0be34b0a5c7e49cb7dd] an adoption service,
+- (e)[^c-4989515fbbd4e0be34b0a5c7e49cb7dd] a fostering service,
+- (f)[^c-4989515fbbd4e0be34b0a5c7e49cb7dd] an adult placement service,
+- (g)[^c-4989515fbbd4e0be34b0a5c7e49cb7dd] an advocacy service,
 - (h) a domiciliary support service, and
 - (i) any other service comprising the provision of care and support in Wales as may be prescribed.
 
-(2)[^key-3b9304bd83a6070cff4d6a225c756483] Schedule 1 makes further provision about the meaning of terms used in subsection (1).
+(2)[^c-3b9304bd83a6070cff4d6a225c756483] Schedule 1 makes further provision about the meaning of terms used in subsection (1).
 
-(3)[^key-b37702ae1d2eeeb8f4a331d0ca14951e] The Welsh Ministers may by regulations prescribe things which, despite Schedule 1, are not to be treated as regulated services for the purposes of this Act.
+(3)[^c-b37702ae1d2eeeb8f4a331d0ca14951e] The Welsh Ministers may by regulations prescribe things which, despite Schedule 1, are not to be treated as regulated services for the purposes of this Act.
 
-(4)[^key-b37702ae1d2eeeb8f4a331d0ca14951e] Before making regulations under this section the Welsh Ministers must consult such persons as they think appropriate.
+(4)[^c-b37702ae1d2eeeb8f4a331d0ca14951e] Before making regulations under this section the Welsh Ministers must consult such persons as they think appropriate.
 
 ## Annotations
 
-[^key-b37702ae1d2eeeb8f4a331d0ca14951e]: Commencement: S. 2(1)(a)-(c)(h)(i)(3)(4) in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/b)
+[^c-b37702ae1d2eeeb8f4a331d0ca14951e]: Commencement: S. 2(1)(a)-(c)(h)(i)(3)(4) in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/b)
 
-[^key-4989515fbbd4e0be34b0a5c7e49cb7dd]: Commencement: S. 2(1)(d)-(g) in force at 29.4.2019 by [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(a)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/a)
+[^c-4989515fbbd4e0be34b0a5c7e49cb7dd]: Commencement: S. 2(1)(d)-(g) in force at 29.4.2019 by [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(a)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/a)
 
-[^key-3b9304bd83a6070cff4d6a225c756483]: Commencement: S. 2(2) in force at 2.4.2018 for specified purposes by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/b)
+[^c-3b9304bd83a6070cff4d6a225c756483]: Commencement: S. 2(2) in force at 2.4.2018 for specified purposes by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/b)

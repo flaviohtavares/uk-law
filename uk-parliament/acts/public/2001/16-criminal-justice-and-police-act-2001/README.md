@@ -67,7 +67,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 9 — Registration of sums payable in default](part-1/section-9.md)
 - [Section 10 — Enforcement of fines](part-1/section-10.md)
 
-##### Orders and regulations[^key-cdf4e5179aced881abd7db004a13196c]
+##### Orders and regulations[^c-cdf4e5179aced881abd7db004a13196c]
 
 - [Section 10A — Orders and regulations under Chapter 1](part-1/section-10a.md)
 
@@ -168,7 +168,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 48 — Extension to older children](part-1/section-48.md)
 - [Section 49 — Power for police to make schemes](part-1/section-49.md)
 
-### Part 2 — Powers of seizure[^key-a5266092ba5cd71ffcecb758ddbcd1ae][^c17727871]
+### Part 2 — Powers of seizure[^c-a5266092ba5cd71ffcecb758ddbcd1ae][^c17727871]
 
 #### Additional powers of seizure
 
@@ -390,9 +390,9 @@ SCHEDULES
 
 [^c19427341]: Modification: Pt. 1 Ch. 1 modified (26.12.2004) by [The Penalties for Disorderly Behaviour (Amendment of Minimum Age) Order 2004 (S.I. 2004/3166)](https://www.legislation.gov.uk/uksi/2004/3166), [art. 6](https://www.legislation.gov.uk/uksi/2004/3166/article/6)
 
-[^key-cdf4e5179aced881abd7db004a13196c]: Textual amendment: S. 10A and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/11); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-cdf4e5179aced881abd7db004a13196c]: Textual amendment: S. 10A and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/11); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
 
-[^key-a5266092ba5cd71ffcecb758ddbcd1ae]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/16/part/2) applied (with modifications) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/2) (with [regs. 4-8](https://www.legislation.gov.uk/wsi/2018/400/regulation/4))
+[^c-a5266092ba5cd71ffcecb758ddbcd1ae]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/16/part/2) applied (with modifications) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/2) (with [regs. 4-8](https://www.legislation.gov.uk/wsi/2018/400/regulation/4))
 
 [^c17727871]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/16/part/2) extended (2.12.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 38](https://www.legislation.gov.uk/ukpga/2002/30/section/38), [Sch. 4 para. 24(a)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/4/paragraph/24/a); [S.I. 2002/2750](https://www.legislation.gov.uk/uksi/2002/2750), [art. 2](https://www.legislation.gov.uk/uksi/2002/2750/article/2)
 

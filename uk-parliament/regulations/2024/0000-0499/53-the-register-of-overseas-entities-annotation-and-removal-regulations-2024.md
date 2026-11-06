@@ -46,17 +46,17 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-4e4134f1ce04e8fa310af5166f25ce76]
+### 1. Citation, commencement and extent[^c-4e4134f1ce04e8fa310af5166f25ce76]
 
 (1) These Regulations may be cited as the Register of Overseas Entities (Annotation and Removal) Regulations 2024.
 
-(2) These Regulations come into force on 4th March 2024[^key-9e8d41c1fcc15ed4272c0efc5979e7d3].
+(2) These Regulations come into force on 4th March 2024[^c-9e8d41c1fcc15ed4272c0efc5979e7d3].
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
 ## Part 2 — Annotations
 
-### 2. Annotations[^key-349a1e94dd412b94493a77d4e79e38fd]
+### 2. Annotations[^c-349a1e94dd412b94493a77d4e79e38fd]
 
 (1) Where it appears to the registrar that material on the register is misleading or confusing, the registrar may place a note in the register containing such information as appears to the registrar to be necessary to remedy, as far as possible, the misleading or confusing nature of the material.
 
@@ -64,7 +64,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 3 — Removal of registered material
 
-### 3. Interpretation[^key-4b06f99096d739a29e70087ef8ae9071]
+### 3. Interpretation[^c-4b06f99096d739a29e70087ef8ae9071]
 
 In this Part—
 
@@ -72,7 +72,7 @@ In this Part—
 - “**application for removal**” means an application made in accordance with regulation 5;
 - “**the specified material**” has the meaning given in regulation 5(2)(c).
 
-### 4. Removal of material on registrar’s own motion[^key-cef99bad62a5a3ec039372ea01e581ba]
+### 4. Removal of material on registrar’s own motion[^c-cef99bad62a5a3ec039372ea01e581ba]
 
 (1) Before or as soon as reasonably practicable after removing material contained in the register on the registrar’s own motion pursuant to section 28(1) and (2)(a) of the 2022 Act, the registrar must give notice of the removal to such persons as the registrar considers appropriate.
 
@@ -82,7 +82,7 @@ In this Part—
 - (b) what material the registrar intends to remove, or has removed, and on what grounds, and
 - (c) where the material is, or was, in the register.
 
-### 5. Removal of material on application[^key-f5ef1f280ce185c1c6700d8d8292fa6c]
+### 5. Removal of material on application[^c-f5ef1f280ce185c1c6700d8d8292fa6c]
 
 (1) An application for removal of material from the register can be made by any person.
 
@@ -105,7 +105,7 @@ In this Part—
 - (c) email address, and
 - (d) a description of any current or past connection the applicant has or had with the registered overseas entity.
 
-### 6. Rejection of application for removal[^key-8f80ff87cec87d74c94831909b5ed714]
+### 6. Rejection of application for removal[^c-8f80ff87cec87d74c94831909b5ed714]
 
 (1) This regulation applies where an application for removal has been delivered to the registrar and all of the specified material is material that the registrar—
 
@@ -114,7 +114,7 @@ In this Part—
 
 (2) The registrar must reject the application and give a notice stating it is rejected to the applicant and to any other person the registrar considers appropriate.
 
-### 7. Notice of decision to remove material[^key-90b14eec4e5ee46549de1cb63a95d2fb]
+### 7. Notice of decision to remove material[^c-90b14eec4e5ee46549de1cb63a95d2fb]
 
 (1) This regulation applies where an application for removal has been delivered to the registrar and the registrar—
 
@@ -130,7 +130,7 @@ In this Part—
 - (b) what specified material the registrar intends to remove, or has removed, and on what grounds, and
 - (c) where that material is, or was, in the register.
 
-### 8. Notice of intention to remove material[^key-bf797d12387e625682a853ded0740922]
+### 8. Notice of intention to remove material[^c-bf797d12387e625682a853ded0740922]
 
 (1) This regulation applies where an application for removal has been delivered to the registrar and the registrar—
 
@@ -151,7 +151,7 @@ In this Part—
 
 (4) If the registrar gives more than one notice in respect of the same application for removal, the date stated under paragraph (3)(f) must be the same in each notice.
 
-### 9. Objection to removal of material[^key-846405cb12cb9d53fd2d35ad8cadf9ae]
+### 9. Objection to removal of material[^c-846405cb12cb9d53fd2d35ad8cadf9ae]
 
 (1) Where a notice has been given under regulation 8 following an application for removal, the registrar must determine the application as soon as reasonably practicable after the end of the period for objecting.
 
@@ -171,7 +171,7 @@ In this Part—
 
 (6) A notice given under paragraph (4) must be accompanied by any information in writing which the person wishes to rely on in advancing their objection.
 
-### 10. Notice of outcome of application for removal[^key-a0236c739b7eba185cc2bdb6f723c1ea]
+### 10. Notice of outcome of application for removal[^c-a0236c739b7eba185cc2bdb6f723c1ea]
 
 (1) As soon as reasonably practicable after determining an application for removal to which regulation 8 applies, the registrar must notify the outcome of the application for removal to—
 
@@ -186,7 +186,7 @@ In this Part—
 - (c) where any removed specified material was, or where any specified material which the registrar intends to remove is, in the register, and
 - (d) if the registrar has decided not to remove some or all of the specified material, on what grounds.
 
-### 11. Revocation and transitional provision[^key-3a0b696dc125baa4c731734bddabb738]
+### 11. Revocation and transitional provision[^c-3a0b696dc125baa4c731734bddabb738]
 
 (1) Regulations 4 to 6 of the Register of Overseas Entities (Definition of Foreign Limited Partner, Protection and Rectification) Regulations 2023[^f00002] (“**the 2023 Regulations**”) are revoked.
 
@@ -231,28 +231,28 @@ A full Impact Assessment has not been prepared for this instrument.
 
 [^f00001]: Footnote: [2022 c. 10](https://www.legislation.gov.uk/ukpga/2022/10). Section 28A was inserted by section 170 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-4e4134f1ce04e8fa310af5166f25ce76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/53/regulation/1) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-4e4134f1ce04e8fa310af5166f25ce76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/53/regulation/1) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-9e8d41c1fcc15ed4272c0efc5979e7d3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(1)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/1)
+[^c-9e8d41c1fcc15ed4272c0efc5979e7d3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(1)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/1)
 
-[^key-349a1e94dd412b94493a77d4e79e38fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/53/regulation/2) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-349a1e94dd412b94493a77d4e79e38fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/53/regulation/2) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-4b06f99096d739a29e70087ef8ae9071]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/53/regulation/3) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-4b06f99096d739a29e70087ef8ae9071]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/53/regulation/3) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-cef99bad62a5a3ec039372ea01e581ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/53/regulation/4) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-cef99bad62a5a3ec039372ea01e581ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/53/regulation/4) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-f5ef1f280ce185c1c6700d8d8292fa6c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/53/regulation/5) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-f5ef1f280ce185c1c6700d8d8292fa6c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/53/regulation/5) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-8f80ff87cec87d74c94831909b5ed714]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/53/regulation/6) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-8f80ff87cec87d74c94831909b5ed714]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/53/regulation/6) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-90b14eec4e5ee46549de1cb63a95d2fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/53/regulation/7) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-90b14eec4e5ee46549de1cb63a95d2fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/53/regulation/7) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-bf797d12387e625682a853ded0740922]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/53/regulation/8) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-bf797d12387e625682a853ded0740922]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/53/regulation/8) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-846405cb12cb9d53fd2d35ad8cadf9ae]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/53/regulation/9) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-846405cb12cb9d53fd2d35ad8cadf9ae]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/53/regulation/9) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-a0236c739b7eba185cc2bdb6f723c1ea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/53/regulation/10) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-a0236c739b7eba185cc2bdb6f723c1ea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/53/regulation/10) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
-[^key-3a0b696dc125baa4c731734bddabb738]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/53/regulation/11) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
+[^c-3a0b696dc125baa4c731734bddabb738]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/53/regulation/11) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/53/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2023/534](https://www.legislation.gov.uk/uksi/2023/534).

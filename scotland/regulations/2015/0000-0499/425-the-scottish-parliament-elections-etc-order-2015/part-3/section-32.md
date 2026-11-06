@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Appointment of election agent[^key-e4762fc99e3270ca5779cb7181c825b3]
+## 32. Appointment of election agent[^c-e4762fc99e3270ca5779cb7181c825b3]
 
 *Extent: S*
 
@@ -51,16 +51,16 @@ but the appointment, whether the election agent appointed be a candidate or not,
 
 shall be of no effect under this article unless it is made and signed by that person or is accompanied by a written declaration of acceptance signed by that person.
 
-(8) Upon the name and address of an election agent being declared to the appropriate returning officer the appropriate returning officer shall forthwith give public notice of that name and address , unless a request is made by the election agent under paragraph (9)[^key-b238745d7b6395e5ab1fbd901ce8c205].
+(8) Upon the name and address of an election agent being declared to the appropriate returning officer the appropriate returning officer shall forthwith give public notice of that name and address , unless a request is made by the election agent under paragraph (9)[^c-b238745d7b6395e5ab1fbd901ce8c205].
 
-(9)[^key-b5ccc40e82b3e917adfd3514dc427208] A declaration under article 32(1) may include a request by the election agent that any public notice of their address is to a correspondence address rather than their home address.
+(9)[^c-b5ccc40e82b3e917adfd3514dc427208] A declaration under article 32(1) may include a request by the election agent that any public notice of their address is to a correspondence address rather than their home address.
 
 (10) A request under paragraph (9) must be granted by the returning officer where an alternative correspondence address has been provided.
 
 ## Annotations
 
-[^key-e4762fc99e3270ca5779cb7181c825b3]: Commencement: Art. 32 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e4762fc99e3270ca5779cb7181c825b3]: Commencement: Art. 32 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-b238745d7b6395e5ab1fbd901ce8c205]: Textual amendment: Words in art. 32(8) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/37/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-b238745d7b6395e5ab1fbd901ce8c205]: Textual amendment: Words in art. 32(8) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/37/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
-[^key-b5ccc40e82b3e917adfd3514dc427208]: Textual amendment: Art. 32(9)(10) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/37/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-b5ccc40e82b3e917adfd3514dc427208]: Textual amendment: Art. 32(9)(10) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 37(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/37/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

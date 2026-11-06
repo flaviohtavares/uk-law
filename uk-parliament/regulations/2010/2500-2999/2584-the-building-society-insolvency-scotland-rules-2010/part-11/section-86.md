@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Termination of appointment[^key-55f258fa3e80cb8b396e6d96ddbd4426]
+## 86. Termination of appointment[^c-55f258fa3e80cb8b396e6d96ddbd4426]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.73 of the 1986 Rules.
 
 ## Annotations
 
-[^key-55f258fa3e80cb8b396e6d96ddbd4426]: Commencement: Rule 86 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-55f258fa3e80cb8b396e6d96ddbd4426]: Commencement: Rule 86 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

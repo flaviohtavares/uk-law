@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Discrimination relating to children or benefits status: English language[^key-d4a85c0628e357fa04a14cee49837ff7][^key-0c2ee0ead47a07854b89ef053f7dbcd0]
+## 44. Discrimination relating to children or benefits status: English language[^c-d4a85c0628e357fa04a14cee49837ff7][^c-0c2ee0ead47a07854b89ef053f7dbcd0]
 
 *Extent: E+W*
 
@@ -219,6 +219,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4a85c0628e357fa04a14cee49837ff7]: Commencement: S. 44 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-d4a85c0628e357fa04a14cee49837ff7]: Commencement: S. 44 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-0c2ee0ead47a07854b89ef053f7dbcd0]: Commencement: S. 44 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-0c2ee0ead47a07854b89ef053f7dbcd0]: Commencement: S. 44 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)

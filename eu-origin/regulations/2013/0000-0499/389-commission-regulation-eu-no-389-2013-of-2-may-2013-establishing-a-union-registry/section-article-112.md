@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 112. Interruption of operation[^key-e39d075f5e1adb5618d10d79642f7dae]
+## Article 112. Interruption of operation[^c-e39d075f5e1adb5618d10d79642f7dae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e39d075f5e1adb5618d10d79642f7dae]: Textual amendment: [Art. 112](https://www.legislation.gov.uk/eur/2013/389/article/112) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(18)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/18)
+[^c-e39d075f5e1adb5618d10d79642f7dae]: Textual amendment: [Art. 112](https://www.legislation.gov.uk/eur/2013/389/article/112) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(18)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/18)

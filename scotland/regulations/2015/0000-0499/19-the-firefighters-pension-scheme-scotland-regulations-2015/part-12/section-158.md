@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Payments for persons incapable of managing their affairs[^key-4a61b78aa49535bb4e77f589ebc31413]
+## 158. Payments for persons incapable of managing their affairs[^c-4a61b78aa49535bb4e77f589ebc31413]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If it appears to the scheme manager that a person other than an eligible child i
 
 ## Annotations
 
-[^key-4a61b78aa49535bb4e77f589ebc31413]: Commencement: [Reg. 158](https://www.legislation.gov.uk/ssi/2015/19/regulation/158) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-4a61b78aa49535bb4e77f589ebc31413]: Commencement: [Reg. 158](https://www.legislation.gov.uk/ssi/2015/19/regulation/158) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

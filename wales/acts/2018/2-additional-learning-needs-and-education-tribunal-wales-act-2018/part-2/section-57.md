@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Abolition of approval of non-maintained special schools in Wales[^key-835963f3f5d914890e93ea8c436b66b0]
+## 57. Abolition of approval of non-maintained special schools in Wales[^c-835963f3f5d914890e93ea8c436b66b0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-835963f3f5d914890e93ea8c436b66b0]: Commencement: S. 57 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(e)](https://www.legislation.gov.uk/wsi/2021/373/article/8/e)
+[^c-835963f3f5d914890e93ea8c436b66b0]: Commencement: S. 57 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(e)](https://www.legislation.gov.uk/wsi/2021/373/article/8/e)

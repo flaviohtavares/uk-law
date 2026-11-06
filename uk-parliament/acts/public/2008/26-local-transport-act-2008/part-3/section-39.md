@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Exemption from s.132 for specific variations directed by Transport Tribunal[^key-4fa9f3d00088cfe96b7160634dff5c67]
+## 39. Exemption from s.132 for specific variations directed by Transport Tribunal[^c-4fa9f3d00088cfe96b7160634dff5c67]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ After section 132A of the TA 2000 insert—
 
 ## Annotations
 
-[^key-4fa9f3d00088cfe96b7160634dff5c67]: Commencement: S. 39 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-4fa9f3d00088cfe96b7160634dff5c67]: Commencement: S. 39 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

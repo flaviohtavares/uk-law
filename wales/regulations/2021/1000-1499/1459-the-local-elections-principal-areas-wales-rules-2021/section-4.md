@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Section 22(3)(a) of the Political Parties, Elections and Referendums Act 2000: use of “Annibynnol”[^key-d98f16b7b1b95e567046e5b85b1cf988][^M_C_54cce426-3dd1-4b1c-de6f-1d5d43eebd9c]
+## 4. Section 22(3)(a) of the Political Parties, Elections and Referendums Act 2000: use of “Annibynnol”[^c-d98f16b7b1b95e567046e5b85b1cf988][^M_C_54cce426-3dd1-4b1c-de6f-1d5d43eebd9c]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ For the purposes of section 22(3)(a) of the Political Parties, Elections and Ref
 
 ## Annotations
 
-[^key-d98f16b7b1b95e567046e5b85b1cf988]: Commencement: Rule 4 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-d98f16b7b1b95e567046e5b85b1cf988]: Commencement: Rule 4 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
 [^M_C_54cce426-3dd1-4b1c-de6f-1d5d43eebd9c]: Modification: Rule 4 applied (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/uksi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/864/article/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2025/864/schedule/3/paragraph/22) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/864/article/1/4))
 

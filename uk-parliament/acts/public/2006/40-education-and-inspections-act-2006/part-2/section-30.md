@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendments relating to school organisation[^key-488e93e740c5dbd0ef54979723d8448e]
+## 30. Amendments relating to school organisation[^c-488e93e740c5dbd0ef54979723d8448e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 contains amendments relating to school organisation.
 
 ## Annotations
 
-[^key-488e93e740c5dbd0ef54979723d8448e]: Commencement: S. 30 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(g)](https://www.legislation.gov.uk/uksi/2007/935/article/7/g)
+[^c-488e93e740c5dbd0ef54979723d8448e]: Commencement: S. 30 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(g)](https://www.legislation.gov.uk/uksi/2007/935/article/7/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.5. Use at trial of witness statements which have been served[^key-a43beeb7be70d2ea0ff8c9301e89c513]
+## 32.5. Use at trial of witness statements which have been served[^c-a43beeb7be70d2ea0ff8c9301e89c513]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ any other party may put the witness statement in as hearsay evidence.
 
 ## Annotations
 
-[^key-a43beeb7be70d2ea0ff8c9301e89c513]: Commencement: [Rule 32.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-a43beeb7be70d2ea0ff8c9301e89c513]: Commencement: [Rule 32.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

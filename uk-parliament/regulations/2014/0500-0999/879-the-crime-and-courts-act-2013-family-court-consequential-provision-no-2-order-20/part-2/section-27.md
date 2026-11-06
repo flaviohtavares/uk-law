@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Amendment to the Child Support (Maintenance Arrangements and Jurisdiction) Regulations 1992[^key-237fe5cb3c9629195dd2177aae167a69]
+## 27. Amendment to the Child Support (Maintenance Arrangements and Jurisdiction) Regulations 1992[^c-237fe5cb3c9629195dd2177aae167a69]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In regulations 5(4)(a) and 6(2)(a) of the Child Support (Maintenance Arrangement
 
 ## Annotations
 
-[^key-237fe5cb3c9629195dd2177aae167a69]: Commencement: Art. 27 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-237fe5cb3c9629195dd2177aae167a69]: Commencement: Art. 27 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00012]: Footnote: [S.I. 1992/2645](https://www.legislation.gov.uk/uksi/1992/2645). Relevant amending instruments are [S.I 2001/161](https://www.legislation.gov.uk/ukpga/2001/161) and [2005/617](https://www.legislation.gov.uk/ukpga/2005/617).

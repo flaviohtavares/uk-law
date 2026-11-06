@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Seizure of carcases etc.[^key-ce99f00c83c01c6750ef942c886173a5]
+## 8. Seizure of carcases etc.[^c-ce99f00c83c01c6750ef942c886173a5]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ After section 36 of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-ce99f00c83c01c6750ef942c886173a5]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2006/11/section/8) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-ce99f00c83c01c6750ef942c886173a5]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2006/11/section/8) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

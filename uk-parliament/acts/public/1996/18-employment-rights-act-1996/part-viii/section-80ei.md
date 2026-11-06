@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80EI. Chapter 5: supplemental[^key-f2f67382e57dfab54c8872a427de32dc]
+## 80EI. Chapter 5: supplemental[^c-f2f67382e57dfab54c8872a427de32dc]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ and regulations may, in particular, make special provision regarding the applica
 
 ## Annotations
 
-[^key-f2f67382e57dfab54c8872a427de32dc]: Textual amendment: Pt. 8 Ch. 5 inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/2); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-f2f67382e57dfab54c8872a427de32dc]: Textual amendment: Pt. 8 Ch. 5 inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/2); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)

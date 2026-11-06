@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Procedure
 
-The Mutual Recognition of Criminal Financial Penalties in the European Union (Scotland) (No. 1) Order 2014 (revoked)[^key-1e434517bbfc1ee292df68145d833d7e]
+The Mutual Recognition of Criminal Financial Penalties in the European Union (Scotland) (No. 1) Order 2014 (revoked)[^c-1e434517bbfc1ee292df68145d833d7e]
 
 Made
 
@@ -42,31 +42,31 @@ Coming into force
 
 1st December 2014
 
-[^key-1e434517bbfc1ee292df68145d833d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e434517bbfc1ee292df68145d833d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1e434517bbfc1ee292df68145d833d7e]
+## 1. Citation and commencement[^c-1e434517bbfc1ee292df68145d833d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Criminal Procedure (Scotland) Act 1995[^key-1e434517bbfc1ee292df68145d833d7e]
+## 2. Amendment of the Criminal Procedure (Scotland) Act 1995[^c-1e434517bbfc1ee292df68145d833d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1e434517bbfc1ee292df68145d833d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e434517bbfc1ee292df68145d833d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e434517bbfc1ee292df68145d833d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -74,4 +74,4 @@ Coming into force
 
 ## Annotations
 
-[^key-1e434517bbfc1ee292df68145d833d7e]: Textual amendment: Order revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [reg. 5(c)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/c)
+[^c-1e434517bbfc1ee292df68145d833d7e]: Textual amendment: Order revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [reg. 5(c)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/c)

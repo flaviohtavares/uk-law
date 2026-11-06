@@ -55,8 +55,8 @@ any of the regulations listed in regulation 69(1)(a) to (i).
 
 shall be evidence of the facts stated.
 
-(10) In paragraph (9)[^key-9f7552cefea66d7d61be28ee1ae476b7], “**chief finance officer**” means the person having responsibility for the financial affairs of the Agency.
+(10) In paragraph (9)[^c-9f7552cefea66d7d61be28ee1ae476b7], “**chief finance officer**” means the person having responsibility for the financial affairs of the Agency.
 
 ## Annotations
 
-[^key-9f7552cefea66d7d61be28ee1ae476b7]: Textual amendment: Word in reg. 70(10) substituted (6.4.2009) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2009 (S.I. 2009/507)](https://www.legislation.gov.uk/uksi/2009/507), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c), [16](https://www.legislation.gov.uk/uksi/2009/507/regulation/16)
+[^c-9f7552cefea66d7d61be28ee1ae476b7]: Textual amendment: Word in reg. 70(10) substituted (6.4.2009) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2009 (S.I. 2009/507)](https://www.legislation.gov.uk/uksi/2009/507), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c), [16](https://www.legislation.gov.uk/uksi/2009/507/regulation/16)

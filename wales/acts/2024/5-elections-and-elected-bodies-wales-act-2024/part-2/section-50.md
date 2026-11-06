@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Directions to pause reviews[^key-7984e2a54bef04cb6e3e835a09f0f9df]
+## 50. Directions to pause reviews[^c-7984e2a54bef04cb6e3e835a09f0f9df]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7984e2a54bef04cb6e3e835a09f0f9df]: Commencement: [S. 50](https://www.legislation.gov.uk/asc/2024/5/section/50) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-7984e2a54bef04cb6e3e835a09f0f9df]: Commencement: [S. 50](https://www.legislation.gov.uk/asc/2024/5/section/50) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

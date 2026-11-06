@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Reports by Department[^key-3e2517217b0d51602002c8d4fc62790c]
+## 125. Reports by Department[^c-3e2517217b0d51602002c8d4fc62790c]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ In Article 76 of the Social Security (Northern Ireland) Order 1998 (reports by D
 
 ## Annotations
 
-[^key-3e2517217b0d51602002c8d4fc62790c]: Commencement: [Art. 125](https://www.legislation.gov.uk/nisi/2015/2006/article/125) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(j)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/j)
+[^c-3e2517217b0d51602002c8d4fc62790c]: Commencement: [Art. 125](https://www.legislation.gov.uk/nisi/2015/2006/article/125) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(j)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — ENACTMENTS WHERE AFTER “HEALTH AUTHORITY”, “HEALTH AUTHORITIES” OR “HEALTH AUTHORITY'S” THERE IS INSERTED “OR PRIMARY CARE TRUST”, “OR PRIMARY CARE TRUSTS” OR “OR PRIMARY CARE TRUST'S”[^key-9b17428a56689e13b309ca7a247af086]
+## SCHEDULE 5 — ENACTMENTS WHERE AFTER “HEALTH AUTHORITY”, “HEALTH AUTHORITIES” OR “HEALTH AUTHORITY'S” THERE IS INSERTED “OR PRIMARY CARE TRUST”, “OR PRIMARY CARE TRUSTS” OR “OR PRIMARY CARE TRUST'S”[^c-9b17428a56689e13b309ca7a247af086]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ Regulation 8
 
 ## Annotations
 
-[^key-9b17428a56689e13b309ca7a247af086]: Commencement: Sch. 5 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-9b17428a56689e13b309ca7a247af086]: Commencement: Sch. 5 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00163]: Footnote: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615) amended by [S.I. 1991/2284](https://www.legislation.gov.uk/uksi/1991/2284) and [2001/2931](https://www.legislation.gov.uk/uksi/2001/2931).
 

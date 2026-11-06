@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13A. Eligible rent[^key-d43277c64475d53c42499e02ecb28fd8]
+## 13A. Eligible rent[^c-d43277c64475d53c42499e02ecb28fd8]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d43277c64475d53c42499e02ecb28fd8]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/406/regulation/13A) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/6)
+[^c-d43277c64475d53c42499e02ecb28fd8]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/406/regulation/13A) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/6)

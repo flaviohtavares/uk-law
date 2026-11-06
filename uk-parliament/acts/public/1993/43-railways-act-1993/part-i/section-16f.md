@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) If the Office of Rail and Road[^key-c8ccc8d6a9d494f854c27df22a677932] does not consider it right to give a direction under section 16A above in the terms applied for (or to reject the application), it[^c19297251] may give a direction under that section in modified terms.
+(1) If the Office of Rail and Road[^c-c8ccc8d6a9d494f854c27df22a677932] does not consider it right to give a direction under section 16A above in the terms applied for (or to reject the application), it[^c19297251] may give a direction under that section in modified terms.
 
 (2) The Office of Rail and Road may include supplementary provisions in any direction under section 16A above, including (in particular)—
 
@@ -51,7 +51,7 @@ any such amount as it considers appropriate in respect of costs incurred in conn
 
 [^c14099401]: Textual amendment: S. 16F inserted (15.10.2005) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 223](https://www.legislation.gov.uk/ukpga/2000/38/section/223), [275(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/275/1); [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
 
-[^key-c8ccc8d6a9d494f854c27df22a677932]: Textual amendment: Words in s. 16F substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(u)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/u)
+[^c-c8ccc8d6a9d494f854c27df22a677932]: Textual amendment: Words in s. 16F substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(u)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/u)
 
 [^c19297251]: Textual amendment: S. 16F: word in prospectively inserted section substituted (5.7.2004) by virtue of [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(b) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 

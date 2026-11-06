@@ -94,7 +94,7 @@ as it has effect in relation to revenue traders, but with the modifications ment
 
 ### Application of Chapter II
 
-**6.** An appeal which relates to duty shall not be entertained under section 16 of this Act at any time if any return for an accounting period to which the appeal relates[^key-abb247e7db3ef7067ba267af295620c3] which the appellant is required by regulations made by virtue of section 38 of this Act to make has not at that time been made.
+**6.** An appeal which relates to duty shall not be entertained under section 16 of this Act at any time if any return for an accounting period to which the appeal relates[^c-abb247e7db3ef7067ba267af295620c3] which the appellant is required by regulations made by virtue of section 38 of this Act to make has not at that time been made.
 
 ### Interest payable to Commissioners
 
@@ -121,7 +121,7 @@ the whole of the amount paid shall carry interest at the rate applicable under s
 - (a) it is found that the whole or any part of the duty was due from him, and
 - (b) the amount due, or any part of that amount, has not been paid and no cash security has been given for it,
 
-that amount or, as the case may be, that part of it shall carry interest at the rate applicable under section 197 of the Finance Act 1996[^key-a971149dea868e1c274a4cdf66e66c70] from the reckonable date until payment.
+that amount or, as the case may be, that part of it shall carry interest at the rate applicable under section 197 of the Finance Act 1996[^c-a971149dea868e1c274a4cdf66e66c70] from the reckonable date until payment.
 
 (2) In sub-paragraph (1) above, “**cash security**” means such adequate security as enables the Commissioners to place the amount in question on deposit.
 
@@ -195,19 +195,19 @@ shall be sufficient evidence of that fact until the contrary is proved.
 
 ### Preferential debt
 
-**13.** (1)[^key-8cc196cdddc37ceef9b10568c054a974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.** (1)[^c-8cc196cdddc37ceef9b10568c054a974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8cc196cdddc37ceef9b10568c054a974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8cc196cdddc37ceef9b10568c054a974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In Schedule 4 to the *(Extent: N.I.)* *(affected by repeal, see note)*[^key-8e29345f7d49bf1059614ae5df467f26] [^c14458621]Insolvency (Northern Ireland) Order 1989 (categories of preferential debts) in Category 2 (debts due to Customs and Excise) after paragraph 5B there shall be inserted— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-8e29345f7d49bf1059614ae5df467f26]
+(3) In Schedule 4 to the *(Extent: N.I.)* *(affected by repeal, see note)*[^c-8e29345f7d49bf1059614ae5df467f26] [^c14458621]Insolvency (Northern Ireland) Order 1989 (categories of preferential debts) in Category 2 (debts due to Customs and Excise) after paragraph 5B there shall be inserted— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-8e29345f7d49bf1059614ae5df467f26]
 
-> **5C (Extent: N.I.) (affected by repeal, see note).**[^key-8e29345f7d49bf1059614ae5df467f26] Any amount which is due by way of air passenger duty from the debtor at the relevant date and which became due within the period of six months next before that date. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-8e29345f7d49bf1059614ae5df467f26]
+> **5C (Extent: N.I.) (affected by repeal, see note).**[^c-8e29345f7d49bf1059614ae5df467f26] Any amount which is due by way of air passenger duty from the debtor at the relevant date and which became due within the period of six months next before that date. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-8e29345f7d49bf1059614ae5df467f26]
 
 ## Annotations
 
 [^c14458341]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-abb247e7db3ef7067ba267af295620c3]: Textual amendment: Words in Sch. 6 para. 6 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 209(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/209/2)
+[^c-abb247e7db3ef7067ba267af295620c3]: Textual amendment: Words in Sch. 6 para. 6 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 209(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/209/2)
 
 [^c14458361]: Modification: Sch. 6 para. 7: power to amend conferred (29.4.1996 with effect as mentioned in [s. 197(7)](https://www.legislation.gov.uk/ukpga/1996/8/section/197/7) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 197(1)(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/197/1/2); [S.I. 1997/1015](https://www.legislation.gov.uk/uksi/1997/1015), [art. 2](https://www.legislation.gov.uk/uksi/1997/1015/article/2)
 
@@ -215,7 +215,7 @@ shall be sufficient evidence of that fact until the contrary is proved.
 
 [^c14458391]: Marginal citation: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61).
 
-[^key-a971149dea868e1c274a4cdf66e66c70]: Textual amendment: Words in Sch. 6 para. 8(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 209(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/209/3) (with [Sch. 3 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/9/2/c))
+[^c-a971149dea868e1c274a4cdf66e66c70]: Textual amendment: Words in Sch. 6 para. 8(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 209(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/209/3) (with [Sch. 3 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/9/2/c))
 
 [^c14458551]: Textual amendment: Sch. 6 para. 9 repealed (1.11.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [ss. 15](https://www.legislation.gov.uk/ukpga/2001/9/section/15), [110](https://www.legislation.gov.uk/ukpga/2001/9/section/110), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/20), [Sch. 33 Pt. I(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/I/4), Note; [S.I. 2001/3300](https://www.legislation.gov.uk/uksi/2001/3300), [art. 2](https://www.legislation.gov.uk/uksi/2001/3300/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/3300/article/3))
 
@@ -227,8 +227,8 @@ shall be sufficient evidence of that fact until the contrary is proved.
 
 [^c14458591]: Textual amendment: Sch. 6: Cross-heading and para. 11A inserted (1.5.1995 with application as mentioned in [s. 16(4)](https://www.legislation.gov.uk/ukpga/1995/4/section/16/4) of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/16/1) (with Sch. 8 paras. 55(2) 57(1))
 
-[^key-8cc196cdddc37ceef9b10568c054a974]: Textual amendment: Sch. 6 para. 13(1)(2) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-8cc196cdddc37ceef9b10568c054a974]: Textual amendment: Sch. 6 para. 13(1)(2) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-8e29345f7d49bf1059614ae5df467f26]: Textual amendment: Sch. 6 para. 13(3) repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
+[^c-8e29345f7d49bf1059614ae5df467f26]: Textual amendment: Sch. 6 para. 13(3) repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
 
 [^c14458621]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)

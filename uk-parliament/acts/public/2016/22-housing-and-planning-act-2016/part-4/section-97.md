@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Objective 1: normal administration[^key-02782713c57e32167b26a4d6321ffa73]
+## 97. Objective 1: normal administration[^c-02782713c57e32167b26a4d6321ffa73]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02782713c57e32167b26a4d6321ffa73]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2016/22/section/97) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-02782713c57e32167b26a4d6321ffa73]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2016/22/section/97) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

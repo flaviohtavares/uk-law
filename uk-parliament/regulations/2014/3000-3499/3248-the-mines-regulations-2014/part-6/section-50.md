@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Emergency routes and emergency doors[^key-a8151eabc9b4b70b60bc5d0c6bf62a50]
+## 50. Emergency routes and emergency doors[^c-a8151eabc9b4b70b60bc5d0c6bf62a50]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8151eabc9b4b70b60bc5d0c6bf62a50]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/3248/regulation/50) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-a8151eabc9b4b70b60bc5d0c6bf62a50]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/3248/regulation/50) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

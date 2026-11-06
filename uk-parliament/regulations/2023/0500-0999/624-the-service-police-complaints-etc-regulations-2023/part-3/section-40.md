@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Suspension of investigation or other procedure[^key-2731e767d0cb9a9a976f45f7dc6c9618]
+## 40. Suspension of investigation or other procedure[^c-2731e767d0cb9a9a976f45f7dc6c9618]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2731e767d0cb9a9a976f45f7dc6c9618]: Commencement: Reg. 40 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-2731e767d0cb9a9a976f45f7dc6c9618]: Commencement: Reg. 40 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

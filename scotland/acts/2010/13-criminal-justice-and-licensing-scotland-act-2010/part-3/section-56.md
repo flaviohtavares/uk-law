@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Grant of warrants for execution by constables and police members of SCDEA[^key-72ce7b2e71d453dd9b68afcad897f027][^key-9c416cab09c2eb6b5328319d3bdeb700]
+## 56. Grant of warrants for execution by constables and police members of SCDEA[^c-72ce7b2e71d453dd9b68afcad897f027][^c-9c416cab09c2eb6b5328319d3bdeb700]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72ce7b2e71d453dd9b68afcad897f027]: Textual amendment: [S. 56](https://www.legislation.gov.uk/asp/2010/13/section/56) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-72ce7b2e71d453dd9b68afcad897f027]: Textual amendment: [S. 56](https://www.legislation.gov.uk/asp/2010/13/section/56) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-9c416cab09c2eb6b5328319d3bdeb700]: Commencement: S. 56 in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-9c416cab09c2eb6b5328319d3bdeb700]: Commencement: S. 56 in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

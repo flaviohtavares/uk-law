@@ -24,13 +24,13 @@ Article 9
 
 ### Firearms (Northern Ireland) Order 2004
 
-**1.**[^key-05f5a2b64164595b62df7350eb436080] Amend the Firearms (Northern Ireland) Order 2004[^f00249] as follows.
+**1.**[^c-05f5a2b64164595b62df7350eb436080] Amend the Firearms (Northern Ireland) Order 2004[^f00249] as follows.
 
-**2.**[^key-c975d2084f751c79a212f2df9cbd3118] In Article 2(2) (definitions), at the appropriate place, insert—
+**2.**[^c-c975d2084f751c79a212f2df9cbd3118] In Article 2(2) (definitions), at the appropriate place, insert—
 
 - “the Minister of Justice” means the Minister in charge of the Department of Justice;”.
 
-**3.**[^key-4dff3fa2c4c92410c44d756260dea76a] In each of the following provisions for “Secretary of State” (wherever occurring) substitute “Department of Justice”—
+**3.**[^c-4dff3fa2c4c92410c44d756260dea76a] In each of the following provisions for “Secretary of State” (wherever occurring) substitute “Department of Justice”—
 
 - (a) Article 2(7) (interpretation: ceasing to be a firearm);
 - (b) Article 8(3) (content and duration of firearms certificates);
@@ -41,7 +41,7 @@ Article 9
 - (g) Article 77(2)(b) (persons in the service of the Crown in right of Her Majesty’s government in Northern Ireland);
 - (h) paragraphs 2(1), (3), (4) and (6), 3 and 4 of Schedule 2 (firearms and ammunition in museums).
 
-**4.**[^key-5e1d90e48700b7a5807c58f0e9ebac79] (1) Amend Article 48 (prohibition of movement of firearms and ammunition) as follows.
+**4.**[^c-5e1d90e48700b7a5807c58f0e9ebac79] (1) Amend Article 48 (prohibition of movement of firearms and ammunition) as follows.
 
 (2) In paragraphs (1) and (2) for “Secretary of State” substitute “appropriate authority”.
 
@@ -52,7 +52,7 @@ Article 9
 > - (a) in relation to prohibited weapons and prohibited ammunition, the Secretary of State;
 > - (b) in relation to any other firearms or ammunition, the Department of Justice.
 
-**5.**[^key-706713a98affda391c3658ce1d563eaf] (1) Amend Article 63 (prohibition of possession etc. of firearm by certain persons) as follows.
+**5.**[^c-706713a98affda391c3658ce1d563eaf] (1) Amend Article 63 (prohibition of possession etc. of firearm by certain persons) as follows.
 
 (2) In paragraph (4) for “Secretary of State” substitute “Minister of Justice”.
 
@@ -70,13 +70,13 @@ Article 9
 >
 > (7C) Where an application is referred to the Minister of Justice under paragraph (7A)(c), the Minister may remove the prohibition or refuse the application.
 
-**6.**[^key-61372fa5be51f9404dfa18119e4655d7] In Article 71(1)(b) (power by order to exclude application of minimum sentence under Article 70 to those under 18) for “he” substitute “the Department of Justice”.
+**6.**[^c-61372fa5be51f9404dfa18119e4655d7] In Article 71(1)(b) (power by order to exclude application of minimum sentence under Article 70 to those under 18) for “he” substitute “the Department of Justice”.
 
-**7.**[^key-33bf6f749fac20b59cdeb127633da51e] (1) Amend Article 72 (forfeiture and disposal of firearms) as follows.
+**7.**[^c-33bf6f749fac20b59cdeb127633da51e] (1) Amend Article 72 (forfeiture and disposal of firearms) as follows.
 
 (2) In paragraph (1)(a) for “Secretary of State” substitute “Minister of Justice”.
 
-**8.**[^key-4744dc7b48a4726147aac2ab649bca12] (1) Amend Article 74 (appeal from decision of Chief Constable) as follows.
+**8.**[^c-4744dc7b48a4726147aac2ab649bca12] (1) Amend Article 74 (appeal from decision of Chief Constable) as follows.
 
 (2) In paragraph (1) for “Secretary of State” substitute “relevant authority”.
 
@@ -105,12 +105,12 @@ Article 9
 - (a) if the relevant authority is determined to be the Secretary of State, must proceed to determine the appeal;
 - (b) if not, must refer the appeal to the Department of Justice for determination.
 
-**9.**[^key-74cd25192640c9361441304f7fe4ccba] In Article 75 (fees)—
+**9.**[^c-74cd25192640c9361441304f7fe4ccba] In Article 75 (fees)—
 
 - (a) in paragraph (3) for “Treasury” substitute “Department of Finance and Personnel”; and
 - (b) omit paragraph (4).
 
-**10.**[^key-ab34a81d89b1a2a04c06aeffe00cfb5a] (1) For Article 80 (regulations and orders) substitute—
+**10.**[^c-ab34a81d89b1a2a04c06aeffe00cfb5a] (1) For Article 80 (regulations and orders) substitute—
 
 > **80. Regulations and orders**
 >
@@ -134,7 +134,7 @@ Article 9
 
 (2) Any regulations in effect under Article 80(1) immediately before the coming into force of this Order continue in effect as if made by the Department of Justice under Article 80(1) (as inserted by sub-paragraph (1) above) and any functions of the Secretary of State under those regulations are transferred to the Department of Justice.
 
-**11.**[^key-9c84551f1341c74d751749d7c054c9a3] (1) Amend Article 81 (saving and transitional provisions) as follows.
+**11.**[^c-9c84551f1341c74d751749d7c054c9a3] (1) Amend Article 81 (saving and transitional provisions) as follows.
 
 (2) After paragraph (2) insert—
 
@@ -145,7 +145,7 @@ Article 9
 - (a) omit “, 8(3)”;
 - (b) after “Schedule 2” insert “(as applied by paragraph 3A(4) of that Schedule)”.
 
-**12.**[^key-1c1c224148dbf4d1a7a6f6311add4f43] (1) Amend Schedule 2 (firearms and ammunition in museums) as follows.
+**12.**[^c-1c1c224148dbf4d1a7a6f6311add4f43] (1) Amend Schedule 2 (firearms and ammunition in museums) as follows.
 
 (2) In paragraph 2—
 
@@ -187,16 +187,16 @@ Article 9
 
 (8) Any other licence in force under Schedule 2 immediately before the coming into force of this Order continues in force ignoring any amendments of Schedule 2 made by this Order and paragraph 13 below.
 
-**13.**[^key-6327d0c2957192df7b88d27466ddefc0] In Schedule 6 (fees)—
+**13.**[^c-6327d0c2957192df7b88d27466ddefc0] In Schedule 6 (fees)—
 
 - (a) in paragraph 5 after “licence” insert “by the Department of Justice”;
 - (b) in paragraph 6 after “licence” insert “granted by the Department of Justice”.
 
 ### Violent Crime Reduction Act 2006
 
-**14.**[^key-b043e943b507c3d2c1ea55c937bcd6f0] Amend Schedule 2 to the Violent Crime Reduction Act 2006[^f00251] (weapons etc.: corresponding provisions for Northern Ireland) as follows.
+**14.**[^c-b043e943b507c3d2c1ea55c937bcd6f0] Amend Schedule 2 to the Violent Crime Reduction Act 2006[^f00251] (weapons etc.: corresponding provisions for Northern Ireland) as follows.
 
-**15.**[^key-282c2ec6fb0215bb579c52230a6b7a7d] (1) Amend paragraph 4 (manufacture, import and sale of realistic imitation firearms) as follows.
+**15.**[^c-282c2ec6fb0215bb579c52230a6b7a7d] (1) Amend paragraph 4 (manufacture, import and sale of realistic imitation firearms) as follows.
 
 (2) After sub-paragraph (2) insert—
 
@@ -224,7 +224,7 @@ Article 9
 >
 > (4C) Regulations under sub-paragraph (2A) shall be subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954[^f00253]).
 
-**16.**[^key-81f0fa6715df508b93e378d0c88115d1] (1) Amend paragraph 5 (defences to offence under paragraph 4) as follows.
+**16.**[^c-81f0fa6715df508b93e378d0c88115d1] (1) Amend paragraph 5 (defences to offence under paragraph 4) as follows.
 
 (2) In sub-paragraph (2)(e) for “Secretary of State” substitute “appropriate authority”.
 
@@ -247,7 +247,7 @@ Article 9
 >
 > (4C) Regulations made by the Department of Justice under this paragraph shall be subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954[^f00254]).
 
-**17.**[^key-c896a5c335c1f6b4ae6049bab33ac653] (1) Amend paragraph 6 (meaning of “realistic imitation firearm”) as follows.
+**17.**[^c-c896a5c335c1f6b4ae6049bab33ac653] (1) Amend paragraph 6 (meaning of “realistic imitation firearm”) as follows.
 
 (2) In sub-paragraph (4) for “Secretary of State” substitute “appropriate authority”.
 
@@ -268,7 +268,7 @@ Article 9
 >
 > (4D) Regulations made by the Department of Justice under this paragraph shall be subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).
 
-**18.**[^key-981a433cfd0be89154662e89ea805f37] (1) Amend paragraph 7 (specification for imitation firearms) as follows.
+**18.**[^c-981a433cfd0be89154662e89ea805f37] (1) Amend paragraph 7 (specification for imitation firearms) as follows.
 
 (2) Before sub-paragraph (1) insert—
 
@@ -305,53 +305,53 @@ Article 9
 
 ## Annotations
 
-[^key-05f5a2b64164595b62df7350eb436080]: Commencement: Sch. 11 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-05f5a2b64164595b62df7350eb436080]: Commencement: Sch. 11 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00249]: Footnote: [S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702), as amended by [S.I. 2005/1966 (N.I. 16)](https://www.legislation.gov.uk/nisi/2005/1966). There are other amendments of that Order, but none are relevant.
 
-[^key-c975d2084f751c79a212f2df9cbd3118]: Commencement: Sch. 11 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c975d2084f751c79a212f2df9cbd3118]: Commencement: Sch. 11 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-4dff3fa2c4c92410c44d756260dea76a]: Commencement: Sch. 11 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4dff3fa2c4c92410c44d756260dea76a]: Commencement: Sch. 11 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-5e1d90e48700b7a5807c58f0e9ebac79]: Commencement: Sch. 11 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-5e1d90e48700b7a5807c58f0e9ebac79]: Commencement: Sch. 11 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-706713a98affda391c3658ce1d563eaf]: Commencement: Sch. 11 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-706713a98affda391c3658ce1d563eaf]: Commencement: Sch. 11 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-61372fa5be51f9404dfa18119e4655d7]: Commencement: Sch. 11 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-61372fa5be51f9404dfa18119e4655d7]: Commencement: Sch. 11 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-33bf6f749fac20b59cdeb127633da51e]: Commencement: Sch. 11 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-33bf6f749fac20b59cdeb127633da51e]: Commencement: Sch. 11 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-4744dc7b48a4726147aac2ab649bca12]: Commencement: Sch. 11 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4744dc7b48a4726147aac2ab649bca12]: Commencement: Sch. 11 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-74cd25192640c9361441304f7fe4ccba]: Commencement: Sch. 11 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-74cd25192640c9361441304f7fe4ccba]: Commencement: Sch. 11 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-ab34a81d89b1a2a04c06aeffe00cfb5a]: Commencement: Sch. 11 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ab34a81d89b1a2a04c06aeffe00cfb5a]: Commencement: Sch. 11 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00250]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-9c84551f1341c74d751749d7c054c9a3]: Commencement: Sch. 11 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9c84551f1341c74d751749d7c054c9a3]: Commencement: Sch. 11 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-1c1c224148dbf4d1a7a6f6311add4f43]: Commencement: Sch. 11 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-1c1c224148dbf4d1a7a6f6311add4f43]: Commencement: Sch. 11 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-6327d0c2957192df7b88d27466ddefc0]: Commencement: Sch. 11 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6327d0c2957192df7b88d27466ddefc0]: Commencement: Sch. 11 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-b043e943b507c3d2c1ea55c937bcd6f0]: Commencement: Sch. 11 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b043e943b507c3d2c1ea55c937bcd6f0]: Commencement: Sch. 11 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00251]: Footnote: [2006 c. 38](https://www.legislation.gov.uk/ukpga/2006/38), to which there are amendments not relevant to this Order.
 
-[^key-282c2ec6fb0215bb579c52230a6b7a7d]: Commencement: Sch. 11 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-282c2ec6fb0215bb579c52230a6b7a7d]: Commencement: Sch. 11 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00252]: Footnote: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
 [^f00253]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) was amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-81f0fa6715df508b93e378d0c88115d1]: Commencement: Sch. 11 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-81f0fa6715df508b93e378d0c88115d1]: Commencement: Sch. 11 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00254]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) was amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-c896a5c335c1f6b4ae6049bab33ac653]: Commencement: Sch. 11 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c896a5c335c1f6b4ae6049bab33ac653]: Commencement: Sch. 11 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-981a433cfd0be89154662e89ea805f37]: Commencement: Sch. 11 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-981a433cfd0be89154662e89ea805f37]: Commencement: Sch. 11 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00255]: Footnote: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 

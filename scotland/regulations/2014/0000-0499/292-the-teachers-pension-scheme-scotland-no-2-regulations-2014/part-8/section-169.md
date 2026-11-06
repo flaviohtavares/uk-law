@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 169. Evidence of continuing entitlement to benefit[^key-b4e3286c1dd2b9ce7a39ef2fc97928a8]
+## 169. Evidence of continuing entitlement to benefit[^c-b4e3286c1dd2b9ce7a39ef2fc97928a8]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4e3286c1dd2b9ce7a39ef2fc97928a8]: Commencement: [Reg. 169](https://www.legislation.gov.uk/ssi/2014/292/regulation/169) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-b4e3286c1dd2b9ce7a39ef2fc97928a8]: Commencement: [Reg. 169](https://www.legislation.gov.uk/ssi/2014/292/regulation/169) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

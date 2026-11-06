@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.2. Service of appeal notice[^key-c7e11777a770fc526f349df8608b58c9]
+## 40.2. Service of appeal notice[^c-c7e11777a770fc526f349df8608b58c9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e11777a770fc526f349df8608b58c9]: Commencement: [Rule 40.2](https://www.legislation.gov.uk/uksi/2025/909/rule/40.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c7e11777a770fc526f349df8608b58c9]: Commencement: [Rule 40.2](https://www.legislation.gov.uk/uksi/2025/909/rule/40.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

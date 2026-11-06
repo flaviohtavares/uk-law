@@ -65,12 +65,12 @@ Applications for approval of compartments must be made on the forms provided by 
 
 (1) An inspector may, for any purpose relating to this Order—
 
-- (a) enter any premises approved[^key-3437aa3cdb07d41fc04d688696d16811] as a compartment under this Order and any administrative site which contains records relevant to the approval[^key-add52a98d6fa95a83050e1957c4ebc64] of a site as a compartment;
+- (a) enter any premises approved[^c-3437aa3cdb07d41fc04d688696d16811] as a compartment under this Order and any administrative site which contains records relevant to the approval[^c-add52a98d6fa95a83050e1957c4ebc64] of a site as a compartment;
 - (b) require the keeper to produce or copy any document or record;
 - (c) remove and retain a copy of any document or record;
 - (d) have access to, and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with records;
 - (e) where a record is kept by means of a computer, require the record to be produced in a form which may be taken away;
-- (f) be accompanied by [^key-fb32a14f8b25dc72a93a3e34e2362c09]... any people or things the inspector considers necessary.
+- (f) be accompanied by [^c-fb32a14f8b25dc72a93a3e34e2362c09]... any people or things the inspector considers necessary.
 
 (2) A person required to do anything by an inspector acting under paragraph (1) must, unless they have reasonable cause, do so without delay.
 
@@ -108,8 +108,8 @@ A full impact assessment has not been prepared for this instrument as no impact 
 
 [^c20101281]: Marginal citation: OJ No L 181, 14.7.2009, p 16.
 
-[^key-3437aa3cdb07d41fc04d688696d16811]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/35/a)
+[^c-3437aa3cdb07d41fc04d688696d16811]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/35/a)
 
-[^key-add52a98d6fa95a83050e1957c4ebc64]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/35/b)
+[^c-add52a98d6fa95a83050e1957c4ebc64]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/35/b)
 
-[^key-fb32a14f8b25dc72a93a3e34e2362c09]: Textual amendment: Words in [art. 4(1)(f)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/f) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1406/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb32a14f8b25dc72a93a3e34e2362c09]: Textual amendment: Words in [art. 4(1)(f)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/f) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1406/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

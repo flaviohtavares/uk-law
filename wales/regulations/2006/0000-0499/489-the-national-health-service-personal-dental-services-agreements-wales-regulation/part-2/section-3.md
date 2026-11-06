@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Conditions: introductory[^key-ba70ded5fe79b88f794f1770fcefdb1b]
+## 3. Conditions: introductory[^c-ba70ded5fe79b88f794f1770fcefdb1b]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ are met.
 
 ## Annotations
 
-[^key-ba70ded5fe79b88f794f1770fcefdb1b]: Commencement: Reg. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-ba70ded5fe79b88f794f1770fcefdb1b]: Commencement: Reg. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00031]: Footnote: A “qualifying body” is defined in section 28D(2) of the Act.

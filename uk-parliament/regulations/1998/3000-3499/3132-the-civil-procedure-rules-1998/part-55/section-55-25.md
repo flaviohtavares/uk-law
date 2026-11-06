@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.25. Hearing of the application[^key-7f5468e2198be4b63f1b69338a07f362][^key-6d372728ca614d30331c2a6aa037d325]
+## 55.25. Hearing of the application[^c-7f5468e2198be4b63f1b69338a07f362][^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
   - (i) the conditions set out in rule 55.21(1) are satisfied; and
   - (ii) any undertakings given by the claimant as a condition of making the order are adequate.
 
-(3) An IPO will be in the form set out in Practice Direction 55A[^key-3135ac34c53f9a2299c914f661bb1abf] and will require the defendant to vacate the premises specified in the claim form within 24 hours of the service of the order.
+(3) An IPO will be in the form set out in Practice Direction 55A[^c-3135ac34c53f9a2299c914f661bb1abf] and will require the defendant to vacate the premises specified in the claim form within 24 hours of the service of the order.
 
 (4) On making an IPO the court will set a date for the hearing of the claim for possession which will be not less than 7 days after the date on which the IPO is made.
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7f5468e2198be4b63f1b69338a07f362]: Textual amendment: [Pt. 55](https://www.legislation.gov.uk/uksi/1998/3132/part/55) Section 3 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2058/schedule/3/part/II)
+[^c-7f5468e2198be4b63f1b69338a07f362]: Textual amendment: [Pt. 55](https://www.legislation.gov.uk/uksi/1998/3132/part/55) Section 3 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2058/schedule/3/part/II)
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
-[^key-3135ac34c53f9a2299c914f661bb1abf]: Textual amendment: Words in [rule 55.25(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.25/3) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [30(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/30/b)
+[^c-3135ac34c53f9a2299c914f661bb1abf]: Textual amendment: Words in [rule 55.25(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.25/3) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [30(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/30/b)

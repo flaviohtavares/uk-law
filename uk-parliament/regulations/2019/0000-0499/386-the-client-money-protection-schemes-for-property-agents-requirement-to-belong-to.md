@@ -42,37 +42,37 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 214(2)(j) of that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and application[^key-da4979e99bc5886018916c10d0a8f4aa]
+## 1. Citation, commencement and application[^c-da4979e99bc5886018916c10d0a8f4aa]
 
 (1) These Regulations may be cited as the Client Money Protection Schemes for Property Agents (Requirement to Belong to a Scheme etc.) Regulations 2019.
 
 (2) These Regulations come into force on 1st April 2019.
 
-## 2. Interpretation[^key-40785eb81d9347d0ec00ca5df630b7d2]
+## 2. Interpretation[^c-40785eb81d9347d0ec00ca5df630b7d2]
 
 In these Regulations—
 
 - “**approved or designated client money protection scheme**” means a client money protection scheme that has been approved or designated for the purpose of these Regulations by the Secretary of State under regulations made under section 134 of the Housing and Planning Act 2016;
 - “**client money**” means money—
-  - (a) received by a property agent [^c23618531] in the course of English letting agency work within the meaning of section 54 of the Housing and Planning Act 2016 or English property management[^key-995ed31af3f1a28277b3fd5a0cd5731a] work within the meaning of section 55 of that Act; and
-  - (b) held on behalf of another person, but does not include money held in accordance with an authorised tenancy deposit scheme within the meaning of Chapter 4 of Part 6 of the Housing Act 2004 (see section 212 of that Act);[^key-bad6d470324713214644f6478f86f311]
-- “**regulated property agent**” means a person who is required to be a member of a client money protection scheme under regulation 3;[^key-b4b5d1ff1fb2b2f003197e98218a8663]
+  - (a) received by a property agent [^c23618531] in the course of English letting agency work within the meaning of section 54 of the Housing and Planning Act 2016 or English property management[^c-995ed31af3f1a28277b3fd5a0cd5731a] work within the meaning of section 55 of that Act; and
+  - (b) held on behalf of another person, but does not include money held in accordance with an authorised tenancy deposit scheme within the meaning of Chapter 4 of Part 6 of the Housing Act 2004 (see section 212 of that Act);[^c-bad6d470324713214644f6478f86f311]
+- “**regulated property agent**” means a person who is required to be a member of a client money protection scheme under regulation 3;[^c-b4b5d1ff1fb2b2f003197e98218a8663]
 - “**scheme administrator**” has the same meaning as in the scheme approval regulations (see regulation 2 of those regulations); and
 - “**scheme approval regulations**” means the Client Money Protection Schemes for Property Agents (Approval and Designation of Schemes) Regulations 2018.
 
-## 3. Requirement to belong to a client money protection scheme[^key-4b1dd7565a26fead7c48d65475532b1c]
+## 3. Requirement to belong to a client money protection scheme[^c-4b1dd7565a26fead7c48d65475532b1c]
 
 (1) A property agent who holds client money must be a member of an approved or designated client money protection scheme.
 
-(2)[^key-8a2f04576610a50d55e728210ad9899a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8a2f04576610a50d55e728210ad9899a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transparency requirements[^key-62c6c296bfba41533f854e125454d13e]
+## 4. Transparency requirements[^c-62c6c296bfba41533f854e125454d13e]
 
-(A1)[^key-178018a4ad30ebb029a9fd635872e8ac] Paragraph (1) applies if the scheme administrator of an approved or designated client money protection scheme provides a certificate under regulation 8(1) of the scheme approval regulations to a regulated property agent.
+(A1)[^c-178018a4ad30ebb029a9fd635872e8ac] Paragraph (1) applies if the scheme administrator of an approved or designated client money protection scheme provides a certificate under regulation 8(1) of the scheme approval regulations to a regulated property agent.
 
-(1) The[^key-3776f971f7390d066109a4ee9a7ce99f] regulated property agent must—
+(1) The[^c-3776f971f7390d066109a4ee9a7ce99f] regulated property agent must—
 
-- (a)[^key-e5e87e1e512a7dae548cad05651fd3bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e5e87e1e512a7dae548cad05651fd3bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) display the certificate—
   - (i) at each of the agent's premises in England at which the agent deals face-to-face with persons using or proposing to use the agent's services as a property agent; and
   - (ii) at a place in each of those premises where the certificate is likely to be seen by such persons;
@@ -97,11 +97,11 @@ In these Regulations—
   - (c) any person, not falling within sub-paragraph (a) or (b), from whom the agent is likely to receive client money; and
 - “**established client**” means a person who is a client on the day on which the event mentioned in paragraph (2) occurs.
 
-## 5. Enforcement[^key-88ed2a4860067f8ead7d07eb01a5d9b5]
+## 5. Enforcement[^c-88ed2a4860067f8ead7d07eb01a5d9b5]
 
-(1) It is the duty of every local authority in England [^c23618541] to enforce the requirements of regulations 3 and 4 in its area [^key-3751798210a0724542a10fc7bfbe9a1a]... .
+(1) It is the duty of every local authority in England [^c23618541] to enforce the requirements of regulations 3 and 4 in its area [^c-3751798210a0724542a10fc7bfbe9a1a]... .
 
-(1A)[^key-7bbbe640b6485b47651b3ff7acbe6ef5] Paragraph (1) is subject to—
+(1A)[^c-7bbbe640b6485b47651b3ff7acbe6ef5] Paragraph (1) is subject to—
 
 - (a) regulation 8(3), and
 - (b) section 26 of the Tenant Fees Act 2019.
@@ -111,9 +111,9 @@ In these Regulations—
 - (a) the agent has premises; or
 - (b) housing is situated in relation to which the property agent's English letting agency work [^c23618551] or English property management work([^c23618561]) is undertaken.
 
-(3) A local authority in England must have regard to any guidance given by the Secretary of State or the lead enforcement authority (if not the Secretary of State)[^key-f645431d7cd987a651651a5fcbecd90c] about the exercise of its functions under these Regulations.
+(3) A local authority in England must have regard to any guidance given by the Secretary of State or the lead enforcement authority (if not the Secretary of State)[^c-f645431d7cd987a651651a5fcbecd90c] about the exercise of its functions under these Regulations.
 
-## 6. Penalty for breach of the requirement to belong to a client money protection scheme[^key-f3bff5fd7679248609ee222a81e9851a]
+## 6. Penalty for breach of the requirement to belong to a client money protection scheme[^c-f3bff5fd7679248609ee222a81e9851a]
 
 (1) Where a local authority in England is satisfied beyond reasonable doubt that a property agent has breached regulation 3, the authority may impose a financial penalty in respect of the breach.
 
@@ -122,7 +122,7 @@ In these Regulations—
 - (a) may be of such amount as the authority imposing it determines; but
 - (b) must not exceed £30,000.
 
-## 7. Penalty for breach of the transparency requirements[^key-be8dac219f6522c184e8a3a3f6fbde0b]
+## 7. Penalty for breach of the transparency requirements[^c-be8dac219f6522c184e8a3a3f6fbde0b]
 
 (1) Where a local authority in England is satisfied beyond reasonable doubt that a property agent has breached regulation 4, the authority may impose a financial penalty in respect of the breach.
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 (3) Paragraph (1) does not apply in relation to a breach of regulation 4(1) if the agent has taken all reasonable steps to obtain a copy of a certificate confirming the agent's membership of the approved or designated client money protection scheme and the scheme administrator has not provided it.
 
-## 8. Enforcement outside an authority's area[^key-aa9a4c280cd2cfdf4bed3d1fdfa78c9d]
+## 8. Enforcement outside an authority's area[^c-aa9a4c280cd2cfdf4bed3d1fdfa78c9d]
 
 (1) A local authority in England may impose a financial penalty under these Regulations in respect of a breach of a requirement under regulation 3 or 4 which occurs outside that authority's area (as well as in respect of a breach which occurs within that local authority's area).
 
@@ -141,7 +141,7 @@ In these Regulations—
 
 (3) On receipt of a notification under paragraph (2) LA2 is relieved of its duty under paragraph (1) of regulation 5 in relation to the breach of the requirement referred to in the notice.
 
-## 9. Further provision about financial penalties[^key-f0e7b202fd4b1730a8870f1523a299fb]
+## 9. Further provision about financial penalties[^c-f0e7b202fd4b1730a8870f1523a299fb]
 
 (1) Only one penalty may be imposed on the same property agent in respect of the same breach, subject to paragraph (2).
 
@@ -155,7 +155,7 @@ In these Regulations—
 - “**relevant period**” means the period of 28 days beginning with the day after that on which the final notice in respect of the previous penalty for the breach was served; where
 - “**final notice**” has the meaning given by paragraph 3(2) of the Schedule to these Regulations.
 
-## 10. Procedure for and appeals against financial penalties[^key-f1821479080eff9b40fd3c89e42bd0eb]
+## 10. Procedure for and appeals against financial penalties[^c-f1821479080eff9b40fd3c89e42bd0eb]
 
 The Schedule to these Regulations (procedure for and appeals against financial penalties) has effect.
 
@@ -171,7 +171,7 @@ Ministry for Housing, Communities and Local Government
 
 Regulation 10
 
-### 1. Notice of intent[^key-ecad18d32b5a8f4e3e88ccf1b3fa5d86]
+### 1. Notice of intent[^c-ecad18d32b5a8f4e3e88ccf1b3fa5d86]
 
 (1) Before imposing a financial penalty on a property agent for a breach of regulation 3 or 4, a local authority must serve a notice on the agent of its intention to do so (a “notice of intent”).
 
@@ -188,11 +188,11 @@ Regulation 10
 - (b) the reasons for proposing to impose the penalty; and
 - (c) information about the right to make representations under paragraph 2.
 
-### 2. Right to make representations[^key-19f168ec1d2899fd8d0bba17486914e1]
+### 2. Right to make representations[^c-19f168ec1d2899fd8d0bba17486914e1]
 
 The property agent may, within the period of 28 days beginning with the day after that on which the notice of intent was served, make written representations to the local authority about the proposal to impose a financial penalty on the agent.
 
-### 3. Final notice[^key-e1c67626da661f52f025ec62bd5e1373]
+### 3. Final notice[^c-e1c67626da661f52f025ec62bd5e1373]
 
 (1) After the end of the period mentioned in paragraph 2 the local authority must—
 
@@ -212,7 +212,7 @@ The property agent may, within the period of 28 days beginning with the day afte
 - (e) information about rights of appeal; and
 - (f) the consequences of failure to comply with the notice.
 
-### 4. Withdrawal or amendment of notice[^key-ad6443f20eaeee886c40cc1c0838ef3d]
+### 4. Withdrawal or amendment of notice[^c-ad6443f20eaeee886c40cc1c0838ef3d]
 
 (1) A local authority may at any time—
 
@@ -221,7 +221,7 @@ The property agent may, within the period of 28 days beginning with the day afte
 
 (2) The power in sub-paragraph (1) is to be exercised by giving notice in writing to the property agent on whom the notice was served.
 
-### 5. Appeals[^key-661edf1164de4f214495c8686595a5dc]
+### 5. Appeals[^c-661edf1164de4f214495c8686595a5dc]
 
 (1) A property agent on whom a final notice is served may appeal to the First-tier Tribunal against—
 
@@ -244,7 +244,7 @@ The property agent may, within the period of 28 days beginning with the day afte
 - (a) £30,000, in respect of a breach of regulation 3; or
 - (b) £5,000, in respect of a breach of regulation 4.
 
-### 6. Recovery of financial penalty[^key-5166a26be193acec3ea1db94017596c3]
+### 6. Recovery of financial penalty[^c-5166a26be193acec3ea1db94017596c3]
 
 (1) This paragraph applies if a property agent does not pay the whole or any part of a financial penalty which, in accordance with this Schedule, the agent is liable to pay.
 
@@ -261,7 +261,7 @@ is conclusive evidence of that fact.
 
 (5) In this paragraph “**chief finance officer**” has the same meaning as in section 5 of the Local Government and Housing Act 1989 [^c23618571].
 
-### 7. Proceeds of financial penalties[^key-e4c0b4ccd154fc160a4977167e068b4c]
+### 7. Proceeds of financial penalties[^c-e4c0b4ccd154fc160a4977167e068b4c]
 
 (1) Where a local authority imposes a financial penalty under these Regulations, it may apply the proceeds to meet the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out any of its enforcement functions in relation to the private rented sector.
 
@@ -303,69 +303,69 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23618521]: Marginal citation: [2016 c.22](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-da4979e99bc5886018916c10d0a8f4aa]: Commencement: Reg. 1 in force at 1.4.2019, see reg. 1(2)
+[^c-da4979e99bc5886018916c10d0a8f4aa]: Commencement: Reg. 1 in force at 1.4.2019, see reg. 1(2)
 
-[^key-40785eb81d9347d0ec00ca5df630b7d2]: Commencement: Reg. 2 in force at 1.4.2019, see reg. 1(2)
+[^c-40785eb81d9347d0ec00ca5df630b7d2]: Commencement: Reg. 2 in force at 1.4.2019, see reg. 1(2)
 
 [^c23618531]: Marginal citation: See section 133(4) of the Housing and Planning Act 2016 for the definition of property agent.
 
-[^key-995ed31af3f1a28277b3fd5a0cd5731a]: Textual amendment: Word in reg. 2 substituted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/2/a/i), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-995ed31af3f1a28277b3fd5a0cd5731a]: Textual amendment: Word in reg. 2 substituted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/2/a/i), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
-[^key-bad6d470324713214644f6478f86f311]: Textual amendment: Words in reg. 2 substituted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/2/a/ii), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-bad6d470324713214644f6478f86f311]: Textual amendment: Words in reg. 2 substituted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/2/a/ii), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
-[^key-b4b5d1ff1fb2b2f003197e98218a8663]: Textual amendment: Words in reg. 2 inserted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/2/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-b4b5d1ff1fb2b2f003197e98218a8663]: Textual amendment: Words in reg. 2 inserted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/2/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
-[^key-4b1dd7565a26fead7c48d65475532b1c]: Commencement: Reg. 3 in force at 1.4.2019, see reg. 1(2)
+[^c-4b1dd7565a26fead7c48d65475532b1c]: Commencement: Reg. 3 in force at 1.4.2019, see reg. 1(2)
 
-[^key-8a2f04576610a50d55e728210ad9899a]: Textual amendment: Reg. 3(2) omitted (1.4.2019) by virtue of [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/3), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-8a2f04576610a50d55e728210ad9899a]: Textual amendment: Reg. 3(2) omitted (1.4.2019) by virtue of [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/3), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
-[^key-62c6c296bfba41533f854e125454d13e]: Commencement: Reg. 4 in force at 1.4.2019, see reg. 1(2)
+[^c-62c6c296bfba41533f854e125454d13e]: Commencement: Reg. 4 in force at 1.4.2019, see reg. 1(2)
 
-[^key-178018a4ad30ebb029a9fd635872e8ac]: Textual amendment: Reg. 4(A1) inserted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/4/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-178018a4ad30ebb029a9fd635872e8ac]: Textual amendment: Reg. 4(A1) inserted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/4/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
-[^key-3776f971f7390d066109a4ee9a7ce99f]: Textual amendment: Word in reg. 4(1) substituted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/4/b/i), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-3776f971f7390d066109a4ee9a7ce99f]: Textual amendment: Word in reg. 4(1) substituted (1.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/4/b/i), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
-[^key-e5e87e1e512a7dae548cad05651fd3bb]: Textual amendment: Reg. 4(1)(a) omitted (1.4.2019) by virtue of [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/4/b/ii), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-e5e87e1e512a7dae548cad05651fd3bb]: Textual amendment: Reg. 4(1)(a) omitted (1.4.2019) by virtue of [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 23(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/4/b/ii), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 23(5)](https://www.legislation.gov.uk/ukpga/2019/4/section/23/5)); [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
-[^key-88ed2a4860067f8ead7d07eb01a5d9b5]: Commencement: Reg. 5 in force at 1.4.2019, see reg. 1(2)
+[^c-88ed2a4860067f8ead7d07eb01a5d9b5]: Commencement: Reg. 5 in force at 1.4.2019, see reg. 1(2)
 
 [^c23618541]: Marginal citation: See section 135(5) of the Housing and Planning Act 2016 for the definition of local authority in England.
 
-[^key-3751798210a0724542a10fc7bfbe9a1a]: Textual amendment: Words in reg. 5(1) omitted (15.4.2019) by virtue of [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(6)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/6/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/7)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
+[^c-3751798210a0724542a10fc7bfbe9a1a]: Textual amendment: Words in reg. 5(1) omitted (15.4.2019) by virtue of [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(6)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/6/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/7)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
 
-[^key-7bbbe640b6485b47651b3ff7acbe6ef5]: Textual amendment: Reg. 5(1A) inserted (15.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(6)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/6/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/7)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
+[^c-7bbbe640b6485b47651b3ff7acbe6ef5]: Textual amendment: Reg. 5(1A) inserted (15.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(6)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/6/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/7)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
 
 [^c23618551]: Marginal citation: See section 54(5) of the Housing and Planning Act 2016 for the definition of English letting agency work.
 
 [^c23618561]: Marginal citation: See section 55(3) of the Housing and Planning Act 2016 for the definition of English property management work.
 
-[^key-f645431d7cd987a651651a5fcbecd90c]: Textual amendment: Words in reg. 5(3) inserted (15.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(6)(c)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/6/c), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/7)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
+[^c-f645431d7cd987a651651a5fcbecd90c]: Textual amendment: Words in reg. 5(3) inserted (15.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(6)(c)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/6/c), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/7)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
 
-[^key-f3bff5fd7679248609ee222a81e9851a]: Commencement: Reg. 6 in force at 1.4.2019, see reg. 1(2)
+[^c-f3bff5fd7679248609ee222a81e9851a]: Commencement: Reg. 6 in force at 1.4.2019, see reg. 1(2)
 
-[^key-be8dac219f6522c184e8a3a3f6fbde0b]: Commencement: Reg. 7 in force at 1.4.2019, see reg. 1(2)
+[^c-be8dac219f6522c184e8a3a3f6fbde0b]: Commencement: Reg. 7 in force at 1.4.2019, see reg. 1(2)
 
-[^key-aa9a4c280cd2cfdf4bed3d1fdfa78c9d]: Commencement: Reg. 8 in force at 1.4.2019, see reg. 1(2)
+[^c-aa9a4c280cd2cfdf4bed3d1fdfa78c9d]: Commencement: Reg. 8 in force at 1.4.2019, see reg. 1(2)
 
-[^key-f0e7b202fd4b1730a8870f1523a299fb]: Commencement: Reg. 9 in force at 1.4.2019, see reg. 1(2)
+[^c-f0e7b202fd4b1730a8870f1523a299fb]: Commencement: Reg. 9 in force at 1.4.2019, see reg. 1(2)
 
-[^key-f1821479080eff9b40fd3c89e42bd0eb]: Commencement: Reg. 10 in force at 1.4.2019, see reg. 1(2)
+[^c-f1821479080eff9b40fd3c89e42bd0eb]: Commencement: Reg. 10 in force at 1.4.2019, see reg. 1(2)
 
-[^key-ecad18d32b5a8f4e3e88ccf1b3fa5d86]: Commencement: Sch. para. 1 in force at 1.4.2019, see reg. 1(2)
+[^c-ecad18d32b5a8f4e3e88ccf1b3fa5d86]: Commencement: Sch. para. 1 in force at 1.4.2019, see reg. 1(2)
 
-[^key-19f168ec1d2899fd8d0bba17486914e1]: Commencement: Sch. para. 2 in force at 1.4.2019, see reg. 1(2)
+[^c-19f168ec1d2899fd8d0bba17486914e1]: Commencement: Sch. para. 2 in force at 1.4.2019, see reg. 1(2)
 
-[^key-e1c67626da661f52f025ec62bd5e1373]: Commencement: Sch. para. 3 in force at 1.4.2019, see reg. 1(2)
+[^c-e1c67626da661f52f025ec62bd5e1373]: Commencement: Sch. para. 3 in force at 1.4.2019, see reg. 1(2)
 
-[^key-ad6443f20eaeee886c40cc1c0838ef3d]: Commencement: Sch. para. 4 in force at 1.4.2019, see reg. 1(2)
+[^c-ad6443f20eaeee886c40cc1c0838ef3d]: Commencement: Sch. para. 4 in force at 1.4.2019, see reg. 1(2)
 
-[^key-661edf1164de4f214495c8686595a5dc]: Commencement: Sch. para. 5 in force at 1.4.2019, see reg. 1(2)
+[^c-661edf1164de4f214495c8686595a5dc]: Commencement: Sch. para. 5 in force at 1.4.2019, see reg. 1(2)
 
-[^key-5166a26be193acec3ea1db94017596c3]: Commencement: Sch. para. 6 in force at 1.4.2019, see reg. 1(2)
+[^c-5166a26be193acec3ea1db94017596c3]: Commencement: Sch. para. 6 in force at 1.4.2019, see reg. 1(2)
 
 [^c23618571]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-e4c0b4ccd154fc160a4977167e068b4c]: Commencement: Sch. para. 7 in force at 1.4.2019, see reg. 1(2)
+[^c-e4c0b4ccd154fc160a4977167e068b4c]: Commencement: Sch. para. 7 in force at 1.4.2019, see reg. 1(2)
 
 [^c23618581]: Marginal citation: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34).
 

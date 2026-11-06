@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Power to disclose information about complaints: Commission[^key-6e763a35ab23718b52eab16a849aaf97]
+## 73. Power to disclose information about complaints: Commission[^c-6e763a35ab23718b52eab16a849aaf97]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e763a35ab23718b52eab16a849aaf97]: Commencement: S. 73 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-6e763a35ab23718b52eab16a849aaf97]: Commencement: S. 73 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

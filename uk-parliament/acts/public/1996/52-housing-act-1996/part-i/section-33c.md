@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33C (Extent: W). Consultation (Extent: W)[^key-0bb67fd24e8f5609f10bc1adbfc075e4]
+## 33C (Extent: W). Consultation (Extent: W)[^c-0bb67fd24e8f5609f10bc1adbfc075e4]
 
 *Extent: E+W*
 
-Before setting *(Extent: W)* , revising or withdrawing[^key-f26028971d5d4fee71a251edd4cff979] *(Extent: W)* standards under section 33A, or issuing, revising or withdrawing guidance under section 33B, the Welsh Ministers must consult - *(Extent: W)*
+Before setting *(Extent: W)* , revising or withdrawing[^c-f26028971d5d4fee71a251edd4cff979] *(Extent: W)* standards under section 33A, or issuing, revising or withdrawing guidance under section 33B, the Welsh Ministers must consult - *(Extent: W)*
 
 - (a (Extent: W)) one or more bodies appearing to them to represent the interests of registered social landlords, *(Extent: W)*
 - (b (Extent: W)) one or more bodies appearing to them to represent the interests of tenants, and *(Extent: W)*
@@ -28,6 +28,6 @@ Before setting *(Extent: W)* , revising or withdrawing[^key-f26028971d5d4fee71a2
 
 ## Annotations
 
-[^key-0bb67fd24e8f5609f10bc1adbfc075e4]: Textual amendment: S. 33C inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 37](https://www.legislation.gov.uk/mwa/2011/5/section/37), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/c)
+[^c-0bb67fd24e8f5609f10bc1adbfc075e4]: Textual amendment: S. 33C inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 37](https://www.legislation.gov.uk/mwa/2011/5/section/37), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/c)
 
-[^key-f26028971d5d4fee71a251edd4cff979]: Textual amendment: Words in s. 33C inserted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 28(4)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/28/4); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-f26028971d5d4fee71a251edd4cff979]: Textual amendment: Words in s. 33C inserted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 28(4)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/28/4); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Calculation of income[^key-1105cb29ee3df5b5d6a9f859f989ff50]
+## 13. Calculation of income[^c-1105cb29ee3df5b5d6a9f859f989ff50]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1105cb29ee3df5b5d6a9f859f989ff50]: Commencement: Reg. 13 in force at 1.4.2015 in accordance with reg. 1
+[^c-1105cb29ee3df5b5d6a9f859f989ff50]: Commencement: Reg. 13 in force at 1.4.2015 in accordance with reg. 1

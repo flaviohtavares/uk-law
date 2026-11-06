@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 553A. Effect of repurchase on certain existing tenancies (Wales)[^key-25a3e145a550b4405f7945e01ebef998]
+## 553A. Effect of repurchase on certain existing tenancies (Wales)[^c-25a3e145a550b4405f7945e01ebef998]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ the tenancy shall not, on or after the acquisition, become a secure contract unl
 
 ## Annotations
 
-[^key-25a3e145a550b4405f7945e01ebef998]: Textual amendment: [S. 553A](https://www.legislation.gov.uk/ukpga/1985/68/section/553A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [11(22)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/11/22) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 2](https://www.legislation.gov.uk/uksi/2022/1172/regulation/2), [11](https://www.legislation.gov.uk/uksi/2022/1172/regulation/11), [12](https://www.legislation.gov.uk/uksi/2022/1172/regulation/12), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-25a3e145a550b4405f7945e01ebef998]: Textual amendment: [S. 553A](https://www.legislation.gov.uk/ukpga/1985/68/section/553A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [11(22)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/11/22) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 2](https://www.legislation.gov.uk/uksi/2022/1172/regulation/2), [11](https://www.legislation.gov.uk/uksi/2022/1172/regulation/11), [12](https://www.legislation.gov.uk/uksi/2022/1172/regulation/12), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))

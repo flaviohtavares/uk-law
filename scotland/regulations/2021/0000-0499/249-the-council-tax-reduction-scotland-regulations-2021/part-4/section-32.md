@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Alternative means of notifying changes of circumstances[^key-160e847f4daa0b23d28fc78298cd7733]
+## 32. Alternative means of notifying changes of circumstances[^c-160e847f4daa0b23d28fc78298cd7733]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a change of circumstances described in regulation 31(1) (duty to notify ch
 
 ## Annotations
 
-[^key-160e847f4daa0b23d28fc78298cd7733]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2021/249/regulation/32) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-160e847f4daa0b23d28fc78298cd7733]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2021/249/regulation/32) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

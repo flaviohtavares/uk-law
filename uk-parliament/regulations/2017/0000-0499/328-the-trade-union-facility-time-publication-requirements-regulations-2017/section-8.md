@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Requirement to publish information[^key-c548a17e6742c38e907e2f6381feaa99]
+## 8. Requirement to publish information[^c-c548a17e6742c38e907e2f6381feaa99]
 
 *Extent: E+W+S*
 
@@ -55,7 +55,7 @@ to the extent it has employees within those categories.
 
 ## Annotations
 
-[^key-c548a17e6742c38e907e2f6381feaa99]: Commencement: Reg. 8 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-c548a17e6742c38e907e2f6381feaa99]: Commencement: Reg. 8 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
 
 [^f00006]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 35(2) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) so that “local authority” was substituted for “local education authority” (see Schedule 2, Part 1, paragraph 11(2)). For the meaning of “local authority” as used in section 35(2), see section 212(1) of the 2002 Act (as amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, Part 1, paragraph 11(12)) and section 579(1) of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) (as amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), article 3(2)(b)).
 

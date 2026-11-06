@@ -48,7 +48,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and application[^key-1bac15a48443860f2ec709414850d99f]
+### 1. Citation, commencement and application[^c-1bac15a48443860f2ec709414850d99f]
 
 (1) These Regulations may be cited as The Air Quality (Domestic Solid Fuels Standards) (England) Regulations 2020.
 
@@ -59,7 +59,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 (3) These Regulations apply in relation to England only.
 
-### 2. Interpretation[^key-a7b2ec07d64563fd3c05c6bb26b4cfb7]
+### 2. Interpretation[^c-a7b2ec07d64563fd3c05c6bb26b4cfb7]
 
 (1) In these Regulations—
 
@@ -83,7 +83,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ## PART 2 — Supply of wood in units less than two cubic metres
 
-### 3. Interpretation: Part 2[^key-7f66200e6fc81676674d605f2c42e0bd]
+### 3. Interpretation: Part 2[^c-7f66200e6fc81676674d605f2c42e0bd]
 
 In this Part—
 
@@ -93,7 +93,7 @@ In this Part—
   - (a) for the purposes of combustion in domestic premises in England;
   - (b) in a unit, whether comprising one piece of wood or more, the volume of which is less than two cubic metres.
 
-### 4. Prohibition on the supply of a relevant unit of wood[^key-0fcf93b742640be58cad4dca813145f2]
+### 4. Prohibition on the supply of a relevant unit of wood[^c-0fcf93b742640be58cad4dca813145f2]
 
 (1) A person must not supply a relevant unit of wood if the wood is not authorised wood.
 
@@ -113,7 +113,7 @@ In this Part—
   - (a) the name of the person who obtained the certificate from the approved wood certification body in respect of the relevant unit of wood in question; and
   - (b) the number of the certificate issued by the approved wood certification body under regulation 5(5).
 
-### 5. Appointment and functions of an approved wood certification body[^key-d9227eb63281f7182bdd2b2883077f14]
+### 5. Appointment and functions of an approved wood certification body[^c-d9227eb63281f7182bdd2b2883077f14]
 
 (1) The Secretary of State must appoint at least one person to be an approved wood certification body for the purposes of this Part.
 
@@ -139,7 +139,7 @@ In this Part—
 
 as referred to in the firewood fuel specification BS EN ISO 17225-5.
 
-### 6. Exemption for small foresters[^key-724d6a2ed9d7a0092c0779f24738fdf1]
+### 6. Exemption for small foresters[^c-724d6a2ed9d7a0092c0779f24738fdf1]
 
 (1) In its application to a supplier who is a small forester, regulation 4 has effect only after the end of 12 months beginning with 1st May 2021.
 
@@ -149,14 +149,14 @@ as referred to in the firewood fuel specification BS EN ISO 17225-5.
 
 ## PART 3 — Supply of wood in units of two cubic metres or more
 
-### 7. Interpretation: Part 3[^key-33d02045f8b338c86ecb6b6521891640]
+### 7. Interpretation: Part 3[^c-33d02045f8b338c86ecb6b6521891640]
 
 In this Part, “relevant amount of wood” means an amount of wood to be supplied—
 
 - (a) for the purposes of combustion in domestic premises in England;
 - (b) in a unit, whether comprising one piece of wood or more, the volume of which is two cubic metres or more.
 
-### 8. Prohibition on the supply of a relevant amount of wood without a notice[^key-e66164b7f0bfaad7f5e87dd17e182cc4]
+### 8. Prohibition on the supply of a relevant amount of wood without a notice[^c-e66164b7f0bfaad7f5e87dd17e182cc4]
 
 (1) A person must not supply a relevant amount of wood unless the wood is accompanied by a notice comprising the words specified in Schedule 2.
 
@@ -164,7 +164,7 @@ In this Part, “relevant amount of wood” means an amount of wood to be suppli
 
 ## PART 4 — Supply of manufactured solid fuels
 
-### 9. Interpretation: Part 4[^key-d2388528a7e42c332d1e8cb7ea98d988]
+### 9. Interpretation: Part 4[^c-d2388528a7e42c332d1e8cb7ea98d988]
 
 (1) In this Part—
 
@@ -185,7 +185,7 @@ In this Part, “relevant amount of wood” means an amount of wood to be suppli
   - (a) the name of the person who obtained the certificate from the approved manufactured solid fuel certification body in respect of the manufactured solid fuel in question;
   - (b) the number of the certificate provided by the approved manufactured solid fuel certification body under regulation 11.
 
-### 10. Prohibition on the supply of certain manufactured solid fuels[^key-4d21bcb954a3f9394c9efb1573bffdd8]
+### 10. Prohibition on the supply of certain manufactured solid fuels[^c-4d21bcb954a3f9394c9efb1573bffdd8]
 
 (1) A person must not supply a manufactured solid fuel that is not an authorised fuel.
 
@@ -198,7 +198,7 @@ In this Part, “relevant amount of wood” means an amount of wood to be suppli
 
 (4) A person who contravenes any of the prohibitions in paragraphs (1) to (3) commits an offence and is liable on summary conviction to a fine.
 
-### 11. Appointment and functions of an approved manufactured solid fuel certification body[^key-ca9f532dbaca79b722aa3368a51820f6]
+### 11. Appointment and functions of an approved manufactured solid fuel certification body[^c-ca9f532dbaca79b722aa3368a51820f6]
 
 (1) The Secretary of State must appoint at least one person to be an approved manufactured solid fuel certification body for the purposes of this Part.
 
@@ -226,7 +226,7 @@ In this Part, “relevant amount of wood” means an amount of wood to be suppli
 - (a) a sulphur content of 2% or more calculated on an ash-free dry basis; and
 - (b) the emission of smoke at a rate of five grams or more an hour.
 
-### 12. List of manufactured solid fuels specified by the Secretary of State[^key-e1cf104d953916a2465c7ef3bdd12cdc]
+### 12. List of manufactured solid fuels specified by the Secretary of State[^c-e1cf104d953916a2465c7ef3bdd12cdc]
 
 (1) The Secretary of State must publish and maintain a list of authorised fuels for the purposes of this Part.
 
@@ -234,7 +234,7 @@ In this Part, “relevant amount of wood” means an amount of wood to be suppli
 
 ## PART 5 — Coal
 
-### 13. Interpretation: Part 5[^key-ae271dc6c30a7e4026f67b79b0cf0141]
+### 13. Interpretation: Part 5[^c-ae271dc6c30a7e4026f67b79b0cf0141]
 
 In this Part—
 
@@ -243,7 +243,7 @@ In this Part—
 - “loose coal” means bituminous coal supplied for the purposes of combustion in domestic premises sold otherwise than in a securely closed container;
 - “pre-packed” means packaged in a securely closed container intended for supply.
 
-### 14. Prohibition on the supply of bituminous coal[^key-b4e4c01b55fb5973fcc8c4a8b38d1466]
+### 14. Prohibition on the supply of bituminous coal[^c-b4e4c01b55fb5973fcc8c4a8b38d1466]
 
 (1) A person must not supply bituminous coal that is pre-packed, unless the coal is exempt coal.
 
@@ -251,13 +251,13 @@ In this Part—
 
 (3) A person guilty of an offence under paragraph (1) or (2) is liable on summary conviction to a fine.
 
-### 15. Transitional provision[^key-111b466afa583d95dd30f0c5c00b4b87]
+### 15. Transitional provision[^c-111b466afa583d95dd30f0c5c00b4b87]
 
 Nothing in this Part applies for the 24-month period beginning with 1st May 2021 in respect of the supply of loose coal directly to a consumer by a person who on that day is a member of the Approved Coal Merchant Scheme[^f00011].
 
 ## PART 6 — Enforcement
 
-### 16. Enforcement body[^key-55b0106f4366d07b11a06d22b65fd2b1]
+### 16. Enforcement body[^c-55b0106f4366d07b11a06d22b65fd2b1]
 
 (1) These Regulations are to be enforced by the relevant local authority.
 
@@ -278,7 +278,7 @@ Nothing in this Part applies for the 24-month period beginning with 1st May 2021
 
 (4) A local authority may appoint an officer to discharge its enforcement functions under these Regulations.
 
-### 17. Powers of enforcement[^key-fea95e1f7b412af838b147421968b64e]
+### 17. Powers of enforcement[^c-fea95e1f7b412af838b147421968b64e]
 
 (1) An officer of a relevant local authority may, for the purposes of enforcing these Regulations—
 
@@ -307,13 +307,13 @@ Nothing in this Part applies for the 24-month period beginning with 1st May 2021
 - (a) “the data protection legislation” has the same meaning as in the Data Protection Act 2018[^f00012] (see section 3 of that Act);
 - (b) “premises” means premises other than those used wholly or mainly as a private dwelling.
 
-### 18. Fixed penalties[^key-424fc5646b324900d23be6bf7c845fdb]
+### 18. Fixed penalties[^c-424fc5646b324900d23be6bf7c845fdb]
 
 (1) An officer of a relevant local authority who has reason to believe that a person has committed an offence under these Regulations may issue that person a penalty notice in respect of the offence.
 
 (2) A penalty notice is a notice offering a person the opportunity to discharge any liability to conviction for the offence to which the notice relates by paying a penalty in accordance with this Part.
 
-### 19. Contents of a penalty notice[^key-b919a97db105876d714facb0611ca28b]
+### 19. Contents of a penalty notice[^c-b919a97db105876d714facb0611ca28b]
 
 (1) A penalty notice must—
 
@@ -334,7 +334,7 @@ Nothing in this Part applies for the 24-month period beginning with 1st May 2021
 - (a) inform the person to whom it is issued of that person’s right to be tried for the alleged offence; and
 - (b) explain how that right may be exercised.
 
-### 20. Amount of penalty and period for payment[^key-afa6c310bd352ac379cdcd3c658e2905]
+### 20. Amount of penalty and period for payment[^c-afa6c310bd352ac379cdcd3c658e2905]
 
 (1) The penalty is £300 in respect of the offence in respect of which the penalty notice was issued.
 
@@ -342,7 +342,7 @@ Nothing in this Part applies for the 24-month period beginning with 1st May 2021
 
 (3) An unpaid fixed penalty may be enforced by a local authority as a fine, a civil debt or as if it were a sum payable under a county court order.
 
-### 21. Effect of notice and payment[^key-6e1f4bc8e251029c4f7056505070e191]
+### 21. Effect of notice and payment[^c-6e1f4bc8e251029c4f7056505070e191]
 
 (1) Proceedings for the offence in respect of which a penalty notice is given may not be brought before the end of the period for payment of the penalty mentioned in regulation 20(2).
 
@@ -352,7 +352,7 @@ Nothing in this Part applies for the 24-month period beginning with 1st May 2021
 
 (4) If proceedings have been brought pursuant to a request under regulation 22, but then the penalty is paid as mentioned in paragraph 20(1), those proceedings may not be continued.
 
-### 22. Trial[^key-accbda07d971b2e45fb9004373bca027]
+### 22. Trial[^c-accbda07d971b2e45fb9004373bca027]
 
 (1) If the person to whom a penalty notice has been given asks to be tried for the alleged offence, or fails to pay a penalty before the end of the period for payment mentioned in regulation 19(2), proceedings may be brought against that person.
 
@@ -361,7 +361,7 @@ Nothing in this Part applies for the 24-month period beginning with 1st May 2021
 - (a) by notice given to the relevant local authority before the end of the period for payment of the penalty;
 - (b) in the manner specified in the penalty notice.
 
-### 23. Withdrawal of notices[^key-16ed5714950f9640dcc75ae6b14dcb74]
+### 23. Withdrawal of notices[^c-16ed5714950f9640dcc75ae6b14dcb74]
 
 (1) This regulation applies if a relevant local authority considers that a penalty notice which an authorised officer acting on its behalf has given to a person (“P”) ought not to have been given.
 
@@ -372,13 +372,13 @@ Nothing in this Part applies for the 24-month period beginning with 1st May 2021
 - (a) it must repay any amount which has been paid by way of penalty in pursuance of the penalty notice; and
 - (b) no proceedings may be brought or continued against P for the offence in question.
 
-### 24. Recovery by local authority of the reasonable costs of enforcing these Regulations[^key-ffb23a28388f3851de4fe95b0295ae4c]
+### 24. Recovery by local authority of the reasonable costs of enforcing these Regulations[^c-ffb23a28388f3851de4fe95b0295ae4c]
 
 A local authority may recover the expenses reasonably incurred by it in enforcing these Regulations from a person in respect of whom it has taken any action under these Regulations.
 
 ## PART 7 — Review
 
-### 25. Review[^key-991bfcb3f585bc87b40c930b3590d3a1]
+### 25. Review[^c-991bfcb3f585bc87b40c930b3590d3a1]
 
 (1) The Secretary of State must from time to time—
 
@@ -406,27 +406,27 @@ Department for Environment, Food and Rural Affairs
 
 7th October 2020
 
-## SCHEDULE 1 — Form of logo[^key-6e6777c3960652251d6e003d1491b3cb]
+## SCHEDULE 1 — Form of logo[^c-6e6777c3960652251d6e003d1491b3cb]
 
 Regulations 4, 5, 10, 11
 
-[^key-6e6777c3960652251d6e003d1491b3cb]
+[^c-6e6777c3960652251d6e003d1491b3cb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2020/1095/images/uksi_20201095_en_001)
 
-## SCHEDULE 2 — Form of words in respect of wood sold in volumes of two cubic metres or more[^key-9ca5cfcf732c4cc86d309ff27e64e74b]
+## SCHEDULE 2 — Form of words in respect of wood sold in volumes of two cubic metres or more[^c-9ca5cfcf732c4cc86d309ff27e64e74b]
 
 Regulation 8
 
-[^key-9ca5cfcf732c4cc86d309ff27e64e74b]
+[^c-9ca5cfcf732c4cc86d309ff27e64e74b]
 
 This wood is not suitable for burning until it has been dried. You should not burn wood until it has a moisture content of 20% or less.
 
-[^key-9ca5cfcf732c4cc86d309ff27e64e74b]
+[^c-9ca5cfcf732c4cc86d309ff27e64e74b]
 
 Wet wood contains moisture which creates smoke and harmful particulates when burnt. As well as being harmful to your health and the environment, this can damage your stove and chimney and is an inefficient way to heat your home. Dry it in a sunny, well-aired space for at least two years, keeping rain off in the winter.
 
-[^key-9ca5cfcf732c4cc86d309ff27e64e74b]
+[^c-9ca5cfcf732c4cc86d309ff27e64e74b]
 
 Radial cracks and bark that comes off easily suggests wood that is ready for burning. Test the wood when you think it is ready for burning, ideally with a moisture meter. First calibrate the meter and then measure a freshly split surface to get the best reading.
 
@@ -462,37 +462,37 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: The Environment Agency was established by section 1 of the 1995 Act.
 
-[^key-1bac15a48443860f2ec709414850d99f]: Commencement: Reg. 1 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-1bac15a48443860f2ec709414850d99f]: Commencement: Reg. 1 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-a7b2ec07d64563fd3c05c6bb26b4cfb7]: Commencement: Reg. 2 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-a7b2ec07d64563fd3c05c6bb26b4cfb7]: Commencement: Reg. 2 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-7f66200e6fc81676674d605f2c42e0bd]: Commencement: Reg. 3 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-7f66200e6fc81676674d605f2c42e0bd]: Commencement: Reg. 3 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-0fcf93b742640be58cad4dca813145f2]: Commencement: Reg. 4 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-0fcf93b742640be58cad4dca813145f2]: Commencement: Reg. 4 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-d9227eb63281f7182bdd2b2883077f14]: Commencement: Reg. 5 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-d9227eb63281f7182bdd2b2883077f14]: Commencement: Reg. 5 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
 [^f00005]: Footnote: The standards are available for purchase from https://www.iso.org/home.html, or https://shop.bsigroup.com (as the case may be) and are available for inspection the offices of the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF.
 
-[^key-724d6a2ed9d7a0092c0779f24738fdf1]: Commencement: Reg. 6 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-724d6a2ed9d7a0092c0779f24738fdf1]: Commencement: Reg. 6 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-33d02045f8b338c86ecb6b6521891640]: Commencement: Reg. 7 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-33d02045f8b338c86ecb6b6521891640]: Commencement: Reg. 7 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-e66164b7f0bfaad7f5e87dd17e182cc4]: Commencement: Reg. 8 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-e66164b7f0bfaad7f5e87dd17e182cc4]: Commencement: Reg. 8 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-d2388528a7e42c332d1e8cb7ea98d988]: Commencement: Reg. 9 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-d2388528a7e42c332d1e8cb7ea98d988]: Commencement: Reg. 9 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-4d21bcb954a3f9394c9efb1573bffdd8]: Commencement: Reg. 10 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-4d21bcb954a3f9394c9efb1573bffdd8]: Commencement: Reg. 10 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-ca9f532dbaca79b722aa3368a51820f6]: Commencement: Reg. 11 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-ca9f532dbaca79b722aa3368a51820f6]: Commencement: Reg. 11 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
 [^f00006]: Footnote: The standards are available for purchase from https://www.iso.org/home.html, or https://shop.bsigroup.com (as the case may be) and are available for inspection at the offices of the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF
 
 [^f00007]: Footnote: [1993 c 11](https://www.legislation.gov.uk/ukpga/1993/11); section 20(5ZA) to (5ZC) was inserted by section 15(2) of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-e1cf104d953916a2465c7ef3bdd12cdc]: Commencement: Reg. 12 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-e1cf104d953916a2465c7ef3bdd12cdc]: Commencement: Reg. 12 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-ae271dc6c30a7e4026f67b79b0cf0141]: Commencement: Reg. 13 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-ae271dc6c30a7e4026f67b79b0cf0141]: Commencement: Reg. 13 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
 [^f00008]: Footnote: Information relating to Combined Nomenclature (CN) is available at https://ec.europa.eu/taxation\_customs/business/calculation-customs-duties/what-is-common-customs-tariff/combined-nomenclature\_en as that information applies on the day that these Regulations come into force, and is also available for inspection from the offices of the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF.
 
@@ -500,36 +500,36 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00010]: Footnote: [1861 c. 40](https://www.legislation.gov.uk/ukpga/1861/40) (24 and 25 Vict).
 
-[^key-b4e4c01b55fb5973fcc8c4a8b38d1466]: Commencement: Reg. 14 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-b4e4c01b55fb5973fcc8c4a8b38d1466]: Commencement: Reg. 14 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-111b466afa583d95dd30f0c5c00b4b87]: Commencement: Reg. 15 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-111b466afa583d95dd30f0c5c00b4b87]: Commencement: Reg. 15 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
 [^f00011]: Footnote: Details of the Approved Coal Merchant Scheme may be obtained from the Approved Coal Merchant Scheme, 95 High Street, Clay Cross, Derbyshire, S45 9DZ and are available for inspection from the offices of the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF.
 
-[^key-55b0106f4366d07b11a06d22b65fd2b1]: Commencement: Reg. 16 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-55b0106f4366d07b11a06d22b65fd2b1]: Commencement: Reg. 16 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-fea95e1f7b412af838b147421968b64e]: Commencement: Reg. 17 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-fea95e1f7b412af838b147421968b64e]: Commencement: Reg. 17 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
 [^f00012]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-424fc5646b324900d23be6bf7c845fdb]: Commencement: Reg. 18 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-424fc5646b324900d23be6bf7c845fdb]: Commencement: Reg. 18 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-b919a97db105876d714facb0611ca28b]: Commencement: Reg. 19 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-b919a97db105876d714facb0611ca28b]: Commencement: Reg. 19 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-afa6c310bd352ac379cdcd3c658e2905]: Commencement: Reg. 20 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-afa6c310bd352ac379cdcd3c658e2905]: Commencement: Reg. 20 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-6e1f4bc8e251029c4f7056505070e191]: Commencement: Reg. 21 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-6e1f4bc8e251029c4f7056505070e191]: Commencement: Reg. 21 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-accbda07d971b2e45fb9004373bca027]: Commencement: Reg. 22 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-accbda07d971b2e45fb9004373bca027]: Commencement: Reg. 22 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-16ed5714950f9640dcc75ae6b14dcb74]: Commencement: Reg. 23 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-16ed5714950f9640dcc75ae6b14dcb74]: Commencement: Reg. 23 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-ffb23a28388f3851de4fe95b0295ae4c]: Commencement: Reg. 24 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-ffb23a28388f3851de4fe95b0295ae4c]: Commencement: Reg. 24 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-991bfcb3f585bc87b40c930b3590d3a1]: Commencement: Reg. 25 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-991bfcb3f585bc87b40c930b3590d3a1]: Commencement: Reg. 25 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
 [^f00013]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-6e6777c3960652251d6e003d1491b3cb]: Commencement: Sch. 1 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-6e6777c3960652251d6e003d1491b3cb]: Commencement: Sch. 1 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
 
-[^key-9ca5cfcf732c4cc86d309ff27e64e74b]: Commencement: Sch. 2 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)
+[^c-9ca5cfcf732c4cc86d309ff27e64e74b]: Commencement: Sch. 2 in force at 8.10.2020 for specified purposes and 1.5.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1095/regulation/1/2)

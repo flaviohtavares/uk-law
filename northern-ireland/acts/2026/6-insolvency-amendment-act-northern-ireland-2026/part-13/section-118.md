@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Interpretation[^key-cbf3a179a120dce6f75e8b949cde8863][^key-2ee64cd39d6a2f63e3bea4cd8275a803]
+## 118. Interpretation[^c-cbf3a179a120dce6f75e8b949cde8863][^c-2ee64cd39d6a2f63e3bea4cd8275a803]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In this Act—
 
 ## Annotations
 
-[^key-cbf3a179a120dce6f75e8b949cde8863]: Commencement: S. 118 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
+[^c-cbf3a179a120dce6f75e8b949cde8863]: Commencement: S. 118 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
 
-[^key-2ee64cd39d6a2f63e3bea4cd8275a803]: Commencement: [S. 118](https://www.legislation.gov.uk/nia/2026/6/section/118) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
+[^c-2ee64cd39d6a2f63e3bea4cd8275a803]: Commencement: [S. 118](https://www.legislation.gov.uk/nia/2026/6/section/118) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)

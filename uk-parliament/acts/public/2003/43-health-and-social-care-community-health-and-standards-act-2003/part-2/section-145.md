@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Co-operation between Assembly and CHAI[^key-79d3a1c91964aaf3b1896a0ea0c96b23]
+## 145. Co-operation between Assembly and CHAI[^c-79d3a1c91964aaf3b1896a0ea0c96b23]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79d3a1c91964aaf3b1896a0ea0c96b23]: Textual amendment: S. 145 repealed (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/50), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(t)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/t), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36)
+[^c-79d3a1c91964aaf3b1896a0ea0c96b23]: Textual amendment: S. 145 repealed (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/50), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(t)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/t), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36)

@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Animal By-Products (Wales) Regulations 2006 (revoked)[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+The Animal By-Products (Wales) Regulations 2006 (revoked)[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 12 May 2006
 
-[^key-067d2c522da0f319ff85f9f9c1b2b39e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-067d2c522da0f319ff85f9f9c1b2b39e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 1 — Introduction[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Approvals, etc.](part-1/section-3.md)
 
-### PART 2 — Collection, transportation, storage, handling, processing and disposal of animal by-products[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 2 — Collection, transportation, storage, handling, processing and disposal of animal by-products[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 **No longer in force.**
 
@@ -67,7 +67,7 @@ Coming into force
 - [Section 7 — Mixing mammalian and non-mammalian by-products](part-2/section-7.md)
 - [Section 8 — Collection, transportation and storage](part-2/section-8.md)
 
-### PART 3 — Restrictions on access to animal by-products and their use[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 3 — Restrictions on access to animal by-products and their use[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 **No longer in force.**
 
@@ -76,7 +76,7 @@ Coming into force
 - [Section 11 — Access to catering waste and other animal by-products](part-3/section-11.md)
 - [Section 12 — Pasture land](part-3/section-12.md)
 
-### PART 4 — Approved premises and the competent authority[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 4 — Approved premises and the competent authority[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 **No longer in force.**
 
@@ -90,7 +90,7 @@ Coming into force
 - [Section 20 — Samples sent to laboratories](part-4/section-20.md)
 - [Section 21 — Laboratories](part-4/section-21.md)
 
-### PART 5 — Placing animal by-products and processed products on the market[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 5 — Placing animal by-products and processed products on the market[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 **No longer in force.**
 
@@ -98,7 +98,7 @@ Coming into force
 - [Section 23 — Placing on the market of petfood, dogchews and technical products](part-5/section-23.md)
 - [Section 24 — Placing on the market of compost or digestion residues for use on agricultural land](part-5/section-24.md)
 
-### PART 6 — Derogations[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 6 — Derogations[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 **No longer in force.**
 
@@ -110,7 +110,7 @@ Coming into force
 - [Section 30 — Burial in the event of a disease outbreak](part-6/section-30.md)
 - [Section 31 — Burning and burial of bees and apiculture products](part-6/section-31.md)
 
-### PART 7 — Records[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 7 — Records[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 **No longer in force.**
 
@@ -123,7 +123,7 @@ Coming into force
 - [Section 38 — Records for approved laboratories](part-7/section-38.md)
 - [Section 39 — Records to be kept for consignments of compost or digestion residue](part-7/section-39.md)
 
-### PART 8 — Administration and enforcement[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART 8 — Administration and enforcement[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 **No longer in force.**
 
@@ -150,14 +150,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-067d2c522da0f319ff85f9f9c1b2b39e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-067d2c522da0f319ff85f9f9c1b2b39e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-067d2c522da0f319ff85f9f9c1b2b39e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-067d2c522da0f319ff85f9f9c1b2b39e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)
+[^c-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)

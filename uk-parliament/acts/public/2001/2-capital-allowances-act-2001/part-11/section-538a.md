@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 538A. Buildings and structures[^key-cc689b25e935bdcc7497e7638fc3efee]
+## 538A. Buildings and structures[^c-cc689b25e935bdcc7497e7638fc3efee]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,12 +33,12 @@ summary: ''
 (3) C is to be treated for the purposes of allowances under Part 2A as if—
 
 - (a) the contribution were expenditure incurred by C on the construction or acquisition of the building or structure,
-- (b)[^key-fd21466daa3d1490caec0253a0b87b89] the building or structure were brought into qualifying use, for the purposes of the allowance in relation to the contribution, on—
+- (b)[^c-fd21466daa3d1490caec0253a0b87b89] the building or structure were brought into qualifying use, for the purposes of the allowance in relation to the contribution, on—
   - (i) the day on which R first brought the building or structure into qualifying use, or
   - (ii) if R is a public body, the earlier of the day mentioned in sub-paragraph (i) and the day on which R first brought the building or structure into non-residential use,
 - (c) for the purposes of section 270AA(2)(b), the day on which the qualifying expenditure is incurred were the day on which C made the contribution.
 
-(4)[^key-06f05a2be845f232acdccb543d052a4c] If, at any time in the period beginning with the day on which C made the contribution and ending with the day on which R first brought the building or structure into non-residential use, C did not have a relevant interest in the building or structure—
+(4)[^c-06f05a2be845f232acdccb543d052a4c] If, at any time in the period beginning with the day on which C made the contribution and ending with the day on which R first brought the building or structure into non-residential use, C did not have a relevant interest in the building or structure—
 
 - (a) C is to be treated for the purposes of allowances under Part 2A as having had a relevant interest in the building or structure when that period begins, and
 - (b) C is not to be treated for those purposes as ceasing to have that interest on any subsequent sale of R’s relevant interest in the building or structure.
@@ -47,14 +47,14 @@ summary: ''
 
 (6) In subsection (2), “public body” means the Crown or any government or public or local authority (whether in the United Kingdom or elsewhere).
 
-(7)[^key-c57b5567f25d7b4c9187ec3dc2136f5c] In determining, for the purposes of this section, the day on which R first brings a building or structure into non-residential use, ignore any use of the building or structure which is insignificant.
+(7)[^c-c57b5567f25d7b4c9187ec3dc2136f5c] In determining, for the purposes of this section, the day on which R first brings a building or structure into non-residential use, ignore any use of the building or structure which is insignificant.
 
 ## Annotations
 
-[^key-cc689b25e935bdcc7497e7638fc3efee]: Textual amendment: S. 538A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/11)
+[^c-cc689b25e935bdcc7497e7638fc3efee]: Textual amendment: S. 538A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/11)
 
-[^key-fd21466daa3d1490caec0253a0b87b89]: Textual amendment: S. 538A(3)(b) substituted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/3/2)
+[^c-fd21466daa3d1490caec0253a0b87b89]: Textual amendment: S. 538A(3)(b) substituted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/3/2)
 
-[^key-06f05a2be845f232acdccb543d052a4c]: Textual amendment: S. 538A(4) substituted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/3/3)
+[^c-06f05a2be845f232acdccb543d052a4c]: Textual amendment: S. 538A(4) substituted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/3/3)
 
-[^key-c57b5567f25d7b4c9187ec3dc2136f5c]: Textual amendment: S. 538A(7) inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/3/4)
+[^c-c57b5567f25d7b4c9187ec3dc2136f5c]: Textual amendment: S. 538A(7) inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/3/4)

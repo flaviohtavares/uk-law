@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(A1)[^key-6550e06e51867d4b891853e049d583da] This section applies if—
+(A1)[^c-6550e06e51867d4b891853e049d583da] This section applies if—
 
 - (a) in accordance with sections 78 and 78A above a determination as regards revenue support grant has been made for a financial year and specified in a report which has been laid before the House of Commons,
 - (b) the determination provides for grant to be paid to receiving authorities, and
 - (c) the report is approved by resolution of the House of Commons.
 
-(1) As soon as is reasonably practicable after the report has been approved[^key-28426c79b9bcdefaf96037c199219f72], the Secretary of State shall calculate what sum, if any, falls to be paid to each receiving authority by way of revenue support grant for the year in accordance with the basis of distribution specified in the report as so approved.
+(1) As soon as is reasonably practicable after the report has been approved[^c-28426c79b9bcdefaf96037c199219f72], the Secretary of State shall calculate what sum, if any, falls to be paid to each receiving authority by way of revenue support grant for the year in accordance with the basis of distribution specified in the report as so approved.
 
 (2) Subject to subsection (3) below, after making a calculation under subsection (1) above the Secretary of State may, at any time before the end of the financial year following the financial year concerned, make one further calculation of what sum, if any, falls to be paid to each receiving authority by way of revenue support grant for the year in accordance with the basis of distribution so specified.
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^c13071591]: Textual amendment: S. 82 substituted (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 104](https://www.legislation.gov.uk/ukpga/1992/14/section/104), [Sch. 10 Pt. II para.13](https://www.legislation.gov.uk/ukpga/1992/14/schedule/10/part/II/paragraph/13) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-6550e06e51867d4b891853e049d583da]: Textual amendment: [S. 82(A1)](https://www.legislation.gov.uk/ukpga/1988/41/section/82/A1) inserted (with effect in accordance with s. 2(2) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/2/paragraph/5/2)
+[^c-6550e06e51867d4b891853e049d583da]: Textual amendment: [S. 82(A1)](https://www.legislation.gov.uk/ukpga/1988/41/section/82/A1) inserted (with effect in accordance with s. 2(2) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/2/paragraph/5/2)
 
-[^key-28426c79b9bcdefaf96037c199219f72]: Textual amendment: Words in [s. 82(1)](https://www.legislation.gov.uk/ukpga/1988/41/section/82/1) substituted (with effect in accordance with s. 2(2) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/2/paragraph/5/3)
+[^c-28426c79b9bcdefaf96037c199219f72]: Textual amendment: Words in [s. 82(1)](https://www.legislation.gov.uk/ukpga/1988/41/section/82/1) substituted (with effect in accordance with s. 2(2) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/2/paragraph/5/3)

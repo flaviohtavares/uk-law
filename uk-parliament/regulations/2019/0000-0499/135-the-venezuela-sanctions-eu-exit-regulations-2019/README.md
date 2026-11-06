@@ -42,7 +42,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State [^c23542831], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii) and (d)(i) and (ii), 4, 5, 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 56 and 62(4) to (6) of, and paragraphs 2(b), 4(b) and (c), 5(a)(ii) and (b), 6(a)(ii) and (b), 11(a)(ii), 13(b), (h), (k), (l), (m) and (n), 14(a), (f) and (k), 17(a), 19(a), 20 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23542841], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-ca23aeddc22cf58497c1a05fe0b87dbc]
+The Secretary of State [^c23542831], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii) and (d)(i) and (ii), 4, 5, 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 56 and 62(4) to (6) of, and paragraphs 2(b), 4(b) and (c), 5(a)(ii) and (b), 6(a)(ii) and (b), 11(a)(ii), 13(b), (h), (k), (l), (m) and (n), 14(a), (f) and (k), 17(a), 19(a), 20 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23542841], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-ca23aeddc22cf58497c1a05fe0b87dbc]
 
 ## Contents
 
@@ -72,7 +72,7 @@ The Secretary of State [^c23542831], in exercise of the powers conferred by sect
 - [Section 15 — Making economic resources available for benefit of designated person](part-3/section-15.md)
 - [Section 16 — Circumventing etc prohibitions](part-3/section-16.md)
 
-### PART 3A — Director disqualification sanctions[^key-78826afb4ee0ba0253f51430876c082d]
+### PART 3A — Director disqualification sanctions[^c-78826afb4ee0ba0253f51430876c082d]
 
 - [Section 16A — Director disqualification sanctions](part-3a/section-16a.md)
 
@@ -103,7 +103,7 @@ The Secretary of State [^c23542831], in exercise of the powers conferred by sect
 
 - [Section 29 — Provision of interception and monitoring services](part-5/section-29.md)
 
-#### CHAPTER 4 — Military activities etc.[^key-e8a03c4c89968366038c92e38f10239e]
+#### CHAPTER 4 — Military activities etc.[^c-e8a03c4c89968366038c92e38f10239e]
 
 - [Section 30 — Provision of military-related services](part-5/section-30.md)
 
@@ -211,8 +211,8 @@ Council Regulation (EU) No 2063/2017 of 13 November 2017 concerning restrictive 
 
 [^c23542841]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-ca23aeddc22cf58497c1a05fe0b87dbc]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/590 and S.I. 2020/951 have come into force) by [The Venezuela (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1262)](https://www.legislation.gov.uk/uksi/2020/1262), [art. 2](https://www.legislation.gov.uk/uksi/2020/1262/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1262/schedule/1), [2](https://www.legislation.gov.uk/uksi/2020/1262/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/2))
+[^c-ca23aeddc22cf58497c1a05fe0b87dbc]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/590 and S.I. 2020/951 have come into force) by [The Venezuela (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1262)](https://www.legislation.gov.uk/uksi/2020/1262), [art. 2](https://www.legislation.gov.uk/uksi/2020/1262/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1262/schedule/1), [2](https://www.legislation.gov.uk/uksi/2020/1262/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/2))
 
-[^key-78826afb4ee0ba0253f51430876c082d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/135/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/4)
+[^c-78826afb4ee0ba0253f51430876c082d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/135/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/4)
 
-[^key-e8a03c4c89968366038c92e38f10239e]: Textual amendment: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2019/135/part/5/chapter/4) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/8); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-e8a03c4c89968366038c92e38f10239e]: Textual amendment: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2019/135/part/5/chapter/4) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/8); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

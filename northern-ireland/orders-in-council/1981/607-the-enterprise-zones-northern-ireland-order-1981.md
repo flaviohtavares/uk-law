@@ -27,7 +27,7 @@ summary: ''
 
 1981 No. 607 (N.I. 15)
 
-The Enterprise Zones (Northern Ireland) Order 1981[^key-52596d9ae75420a81bd2c8320a3c94f3]
+The Enterprise Zones (Northern Ireland) Order 1981[^c-52596d9ae75420a81bd2c8320a3c94f3]
 
 13th April 1981
 
@@ -143,7 +143,7 @@ whichever is the later.
 
 (1) Any person duly authorised in writing by the Department may at any reasonable time enter any land for the purpose of surveying the land in connection with the preparation or adoption of a scheme under this Order.
 
-(2)[^key-9472052f37f468a6dfabf60e1f9f4828] Sections 236(5) and 237 of the Planning Act (Northern Ireland) 2011 (giving notice, compensation for damage, etc. ) shall apply in relation to paragraph (1) as they apply in relation to section 236 of that Act
+(2)[^c-9472052f37f468a6dfabf60e1f9f4828] Sections 236(5) and 237 of the Planning Act (Northern Ireland) 2011 (giving notice, compensation for damage, etc. ) shall apply in relation to paragraph (1) as they apply in relation to section 236 of that Act
 
 ### Modification of scheme and order
 
@@ -204,8 +204,8 @@ whichever is the later.
 
 ## Annotations
 
-[^key-52596d9ae75420a81bd2c8320a3c94f3]: Modification: [Order](https://www.legislation.gov.uk/nisi/1981/607): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-52596d9ae75420a81bd2c8320a3c94f3]: Modification: [Order](https://www.legislation.gov.uk/nisi/1981/607): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5461851]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9472052f37f468a6dfabf60e1f9f4828]: Textual amendment: Art. 9(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/34) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))(as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-9472052f37f468a6dfabf60e1f9f4828]: Textual amendment: Art. 9(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/34) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))(as amended (16.3.2016) by S.R. 2016/159, art. 2)

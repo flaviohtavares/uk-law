@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Statutory schemes.[^key-a9d0dab16c897bfbc90eea2735b6be54][^c22572781]
+## 35. Statutory schemes.[^c-a9d0dab16c897bfbc90eea2735b6be54][^c22572781]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9d0dab16c897bfbc90eea2735b6be54]: Commencement: S. 35 in force at 7.8.2017 by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/810/article/2/b)
+[^c-a9d0dab16c897bfbc90eea2735b6be54]: Commencement: S. 35 in force at 7.8.2017 by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/810/article/2/b)
 
 [^c22572781]: Textual amendment: S. 35 repealed by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1)), the repeal coming into force in accordance with s. 8(2)(4)(a)(5) of the repealing Act. \[Note: the repeal is therefore wholly prospective as at the in-force date of the repealing Act, s. 35 not having been brought into force to any extent by that date\]; [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 35](https://www.legislation.gov.uk/ukpga/1999/8/section/35) is re-enacted as [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41), [s. 263](https://www.legislation.gov.uk/ukpga/2006/41/section/263), which re-enactment comes into force immediately after and to the extent that s. 35 comes into force, see [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41), [s. 277(4)](https://www.legislation.gov.uk/ukpga/2006/41/section/277/4). The commencement of this provision of the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) brings into force its re-enactment in the [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) and also its repeal by virtue of provision in section 6 of, and Schedule 4 to, the [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43)

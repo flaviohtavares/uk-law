@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32ZC. Enforcement of sections 32ZA and 32ZB by Certification Officer[^key-3c082490e74588a2b85c5abee9bdfc25]
+## 32ZC. Enforcement of sections 32ZA and 32ZB by Certification Officer[^c-3c082490e74588a2b85c5abee9bdfc25]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c082490e74588a2b85c5abee9bdfc25]: Textual amendment: S. 32ZC omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/81/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/10) (with [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/14))
+[^c-3c082490e74588a2b85c5abee9bdfc25]: Textual amendment: S. 32ZC omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/81/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/10) (with [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/14))

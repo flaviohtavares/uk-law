@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Arbitration and other dispute resolution[^key-ea1292b8afe01eea266146bcea03bff7]
+## 118. Arbitration and other dispute resolution[^c-ea1292b8afe01eea266146bcea03bff7]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea1292b8afe01eea266146bcea03bff7]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2016/18/section/118) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)
+[^c-ea1292b8afe01eea266146bcea03bff7]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2016/18/section/118) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)

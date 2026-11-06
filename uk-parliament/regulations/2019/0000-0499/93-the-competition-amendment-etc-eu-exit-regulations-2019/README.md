@@ -141,7 +141,7 @@ In accordance with paragraphs 1(1) and 12(1) of Schedule 7 to that Act, a draft 
 
 - [Section 61](part-5/section-61.md)
 
-### PART 6 — Amendment of assimilated law[^key-43afcf9398bc541508f6dde02869ce31]
+### PART 6 — Amendment of assimilated law[^c-43afcf9398bc541508f6dde02869ce31]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,4 +189,4 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23882651]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-43afcf9398bc541508f6dde02869ce31]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2019/93/part/6) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/2/a)
+[^c-43afcf9398bc541508f6dde02869ce31]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2019/93/part/6) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/2/a)

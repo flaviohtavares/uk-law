@@ -47,7 +47,7 @@ regulations 5, 8 and 10
 
 The Department of Health, Social Services and Public Safety in exercise of the powers conferred by sections 66(1), 68(1) and (1A), 69(1), 74A, 75(1), 76(1), 84 and 86 of the Agriculture Act 1970[^f00001] (as read with regulation 14 of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000[^f00002]) and of all other powers enabling it in that behalf, after consultation as required by section 84(1) of that Act and by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], and being a Department designated[^f00004] for the purposes of section 2(2) of the European Communities Act 1972[^f00005] in relation to measures in the veterinary and phytosanitary fields for the protection of public health, in exercise of the powers conferred on it by that last mentioned section (in so far as these Regulations cannot be made under the powers of the Agriculture Act 1970 specified above), hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-35dd8cf78b0117b1bee8d16a2065892b]
+## 1. Citation, commencement and interpretation[^c-35dd8cf78b0117b1bee8d16a2065892b]
 
 (1) These Regulations may be cited as the Feeding Stuffs (Amendment No. 2) Regulations (Northern Ireland) 2003.
 
@@ -55,11 +55,11 @@ The Department of Health, Social Services and Public Safety in exercise of the p
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendments to the Feeding Stuffs Regulations (Northern Ireland) 2001[^key-377cbaee9b0438e6fcdfc3e0a419ddf1]
+## 2. Amendments to the Feeding Stuffs Regulations (Northern Ireland) 2001[^c-377cbaee9b0438e6fcdfc3e0a419ddf1]
 
 The Feeding Stuffs Regulations (Northern Ireland) 2001[^f00007] shall be amended in accordance with regulations 3 to 10.
 
-## 3.[^key-daad11ce7f9bf3265e537241f77f6b86]
+## 3.[^c-daad11ce7f9bf3265e537241f77f6b86]
 
 In regulation 2 (interpretation) –
 
@@ -98,7 +98,7 @@ In regulation 2 (interpretation) –
 
   .
 
-## 4.[^key-5501c628d2493a42dae28e8e69d81635]
+## 4.[^c-5501c628d2493a42dae28e8e69d81635]
 
 For regulation 12 (control of feeding stuffs and feed materials containing undesirable substances) there shall be substituted the following regulation –
 
@@ -135,19 +135,19 @@ For regulation 12 (control of feeding stuffs and feed materials containing undes
 
 .
 
-## 5.[^key-c618ab3801fc5f5fc89fb292b00404a3]
+## 5.[^c-c618ab3801fc5f5fc89fb292b00404a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-b952309b5640db4ed78fb3f9368bc178]
+## 6.[^c-b952309b5640db4ed78fb3f9368bc178]
 
 In regulation 23 (modification of section 74A(3) of the Agriculture Act 1970), in paragraph (2), for “12(3), (4), (6), (7) and (9), 13(1), 15, 16(1), and 17(1)” there shall be substituted “12(1) to (4), 13(1), 15, 16(1), 17(1) and 17A”.
 
-## 7.[^key-98cbcc11c485df18ae1d1476b38a554a]
+## 7.[^c-98cbcc11c485df18ae1d1476b38a554a]
 
 In Schedule 3 (permitted additives and provisions relating to their use) for the list of European Community Regulations specified in Part IX of the Table (European Community Regulations by which additives are controlled) there shall be substituted the list of European Community Regulations specified in the Schedule.
 
-## 8.[^key-30cd006187a62aad508773ce4aab5e3f]
+## 8.[^c-30cd006187a62aad508773ce4aab5e3f]
 
 In Schedule 4 (contents of the statutory statement or other declaration (except for additives and premixtures not contained in feeding stuffs)) –
 
@@ -164,16 +164,16 @@ In Schedule 4 (contents of the statutory statement or other declaration (except 
     > - (d) the approval or registration number allocated in accordance with Article 5 or, as the case may be, 10, of the Establishments Directive to the establishment which manufactured the compound feeding stuff;
 
     ; and
-- (c)[^key-5ece53f9181d34bdc9ff9e9f94e0750d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5ece53f9181d34bdc9ff9e9f94e0750d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-ab8cd3cdc52afb53e1a07afa598be3f3]
+## 9.[^c-ab8cd3cdc52afb53e1a07afa598be3f3]
 
 In Schedule 7 (prescribed limits for undesirable substances) –
 
 - (a) in Part I (feeding stuffs), for the headings to columns 1 and 2 there shall be substituted the headings “Undesirable substances” and “Products intended for animal feed” respectively; and
 - (b) Part II (feed materials) shall be deleted.
 
-## 10.[^key-e3e6c8247e1d5954e0eecbbc06ff1934]
+## 10.[^c-e3e6c8247e1d5954e0eecbbc06ff1934]
 
 Part II of Schedule 10 (categories of feed materials for use in relation to compound feeding stuffs for animals other than pets) shall be deleted.
 
@@ -185,7 +185,7 @@ A Senior Officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE — Provisions substituted for Part IX of the Table to Schedule 3 to the Feeding Stuffs Regulations (Northern Ireland) 2001[^key-be8be593ace4f72249985949e7b0f507]
+## SCHEDULE — Provisions substituted for Part IX of the Table to Schedule 3 to the Feeding Stuffs Regulations (Northern Ireland) 2001[^c-be8be593ace4f72249985949e7b0f507]
 
 Regulation 7
 
@@ -271,33 +271,33 @@ These Regulations amend the 2001 Regulations by —
 
 [^f00005]: Footnote: S.I. [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-35dd8cf78b0117b1bee8d16a2065892b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/306/regulation/1) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-35dd8cf78b0117b1bee8d16a2065892b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/306/regulation/1) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-377cbaee9b0438e6fcdfc3e0a419ddf1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/306/regulation/2) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-377cbaee9b0438e6fcdfc3e0a419ddf1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/306/regulation/2) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 2001 No.47](https://www.legislation.gov.uk/nisr/2001/47), as amended by [S.R. 2001 Nos. 209](https://www.legislation.gov.uk/nisr/2001/209) and [428](https://www.legislation.gov.uk/nisr/2001/428), [S.R. 2002 No. 263](https://www.legislation.gov.uk/nisr/2002/263) and [S.R. 2003 No. 219](https://www.legislation.gov.uk/nisr/2003/219)
 
-[^key-daad11ce7f9bf3265e537241f77f6b86]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/306/regulation/3) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-daad11ce7f9bf3265e537241f77f6b86]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/306/regulation/3) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
-[^key-5501c628d2493a42dae28e8e69d81635]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/306/regulation/4) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-5501c628d2493a42dae28e8e69d81635]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/306/regulation/4) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
-[^key-c618ab3801fc5f5fc89fb292b00404a3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/306/regulation/5) revoked (17.11.2006) by [The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/427)](https://www.legislation.gov.uk/nisr/2006/427), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/427/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2006/427/regulation/3)
+[^c-c618ab3801fc5f5fc89fb292b00404a3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/306/regulation/5) revoked (17.11.2006) by [The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/427)](https://www.legislation.gov.uk/nisr/2006/427), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/427/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2006/427/regulation/3)
 
-[^key-b952309b5640db4ed78fb3f9368bc178]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/306/regulation/6) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-b952309b5640db4ed78fb3f9368bc178]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/306/regulation/6) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
-[^key-98cbcc11c485df18ae1d1476b38a554a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/306/regulation/7) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-98cbcc11c485df18ae1d1476b38a554a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/306/regulation/7) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
-[^key-30cd006187a62aad508773ce4aab5e3f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/306/regulation/8) in operation at 6.11.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-30cd006187a62aad508773ce4aab5e3f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/306/regulation/8) in operation at 6.11.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
-[^key-5ece53f9181d34bdc9ff9e9f94e0750d]: Textual amendment: [Reg. 8(c)](https://www.legislation.gov.uk/nisr/2003/306/regulation/8/c) revoked (17.11.2006) by [The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/427)](https://www.legislation.gov.uk/nisr/2006/427), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/427/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2006/427/regulation/3/b)
+[^c-5ece53f9181d34bdc9ff9e9f94e0750d]: Textual amendment: [Reg. 8(c)](https://www.legislation.gov.uk/nisr/2003/306/regulation/8/c) revoked (17.11.2006) by [The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/427)](https://www.legislation.gov.uk/nisr/2006/427), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/427/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2006/427/regulation/3/b)
 
-[^key-ab8cd3cdc52afb53e1a07afa598be3f3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/306/regulation/9) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-ab8cd3cdc52afb53e1a07afa598be3f3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/306/regulation/9) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
-[^key-e3e6c8247e1d5954e0eecbbc06ff1934]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/306/regulation/10) in operation at 6.11.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-e3e6c8247e1d5954e0eecbbc06ff1934]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/306/regulation/10) in operation at 6.11.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
-[^key-be8be593ace4f72249985949e7b0f507]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2003/306/schedule) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
+[^c-be8be593ace4f72249985949e7b0f507]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2003/306/schedule) in operation at 1.8.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/306/regulation/1/2)
 
 [^f01000]: Footnote: (1)
 

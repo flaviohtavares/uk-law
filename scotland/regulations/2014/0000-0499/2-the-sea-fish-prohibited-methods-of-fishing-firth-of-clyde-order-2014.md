@@ -34,7 +34,7 @@ Sea Fisheries
 
 Conservation Of Sea Fish
 
-The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2014 (revoked)[^key-713d5255ec36261d5ca3c4b383b77e1a]
+The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2014 (revoked)[^c-713d5255ec36261d5ca3c4b383b77e1a]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 14th February 2014
 
-[^key-713d5255ec36261d5ca3c4b383b77e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-713d5255ec36261d5ca3c4b383b77e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, cessation, effect and extent[^key-713d5255ec36261d5ca3c4b383b77e1a]
+## 1. Citation, commencement, cessation, effect and extent[^c-713d5255ec36261d5ca3c4b383b77e1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-713d5255ec36261d5ca3c4b383b77e1a]
+## 2. Interpretation[^c-713d5255ec36261d5ca3c4b383b77e1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibited methods of fishing[^key-713d5255ec36261d5ca3c4b383b77e1a]
+## 3. Prohibited methods of fishing[^c-713d5255ec36261d5ca3c4b383b77e1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of British sea-fishery officers in relation to fishing boats[^key-713d5255ec36261d5ca3c4b383b77e1a]
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^c-713d5255ec36261d5ca3c4b383b77e1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-713d5255ec36261d5ca3c4b383b77e1a]
+## 5. Revocation[^c-713d5255ec36261d5ca3c4b383b77e1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-713d5255ec36261d5ca3c4b383b77e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-713d5255ec36261d5ca3c4b383b77e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-713d5255ec36261d5ca3c4b383b77e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-713d5255ec36261d5ca3c4b383b77e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-713d5255ec36261d5ca3c4b383b77e1a]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/2) revoked (14.2.2016) by [The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2016 (S.S.I. 2016/12)](https://www.legislation.gov.uk/ssi/2016/12), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/12/article/1), [4](https://www.legislation.gov.uk/ssi/2016/12/article/4)
+[^c-713d5255ec36261d5ca3c4b383b77e1a]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/2) revoked (14.2.2016) by [The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2016 (S.S.I. 2016/12)](https://www.legislation.gov.uk/ssi/2016/12), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/12/article/1), [4](https://www.legislation.gov.uk/ssi/2016/12/article/4)

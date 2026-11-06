@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Market studies and market investigations: consultation and time-limits[^c2181320][^key-aef730e7f92c30909bdba23fbd39c0e7]
+## 38. Market studies and market investigations: consultation and time-limits[^c2181320][^c-aef730e7f92c30909bdba23fbd39c0e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 12 (which makes provision about consultation in relation to decisions w
 
 [^c2181320]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2013/24/section/38) partly in force; [s. 38](https://www.legislation.gov.uk/ukpga/2013/24/section/38) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-aef730e7f92c30909bdba23fbd39c0e7]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2013/24/section/38) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-aef730e7f92c30909bdba23fbd39c0e7]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2013/24/section/38) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

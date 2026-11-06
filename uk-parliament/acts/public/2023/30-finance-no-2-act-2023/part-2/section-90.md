@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Denatured alcohol[^M_I_36d5814b-250b-4da2-e229-1fbae7c2ce7f][^key-fc6f0209f4ae3e52dc5d3fe8e404b0ec]
+## 90. Denatured alcohol[^M_I_36d5814b-250b-4da2-e229-1fbae7c2ce7f][^c-fc6f0209f4ae3e52dc5d3fe8e404b0ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the duty is to be remitted.
 
 [^M_I_36d5814b-250b-4da2-e229-1fbae7c2ce7f]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-fc6f0209f4ae3e52dc5d3fe8e404b0ec]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2023/30/section/90) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-fc6f0209f4ae3e52dc5d3fe8e404b0ec]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2023/30/section/90) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

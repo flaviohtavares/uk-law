@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 97(3) and (4)
 
-### PART 1 — New Part 2 of Schedule 1 (Welsh versions of forms of words)[^key-0137feda2643897ef728142b8e66c83d]
+### PART 1 — New Part 2 of Schedule 1 (Welsh versions of forms of words)[^c-0137feda2643897ef728142b8e66c83d]
 
 > **PART 2 — Welsh version of questions to be put to voters**
 >
@@ -35,7 +35,7 @@ Regulation 97(3) and (4)
 > | 5 Person sy’n gwneud cais fel etholwr y mae cofnod ganddo ar y rhestr pleidleiswyr post | (za) Beth yw’ch enw?<br>(zb) Beth yw’ch cyfeiriad?<br>(a) A wnaethoch gais i bleidleisio drwy’r post?<br>(b) Pam nad ydych wedi pleidleisio drwy’r post? |
 > | 6 Person sy’n gwneud cais fel dirprwy y mae cofnod ganddo ar y rhestr dirprwyon sy’n pleidleisio drwy’r post | (za) Beth yw’ch enw?<br>(zb) Beth yw’ch cyfeiriad?<br>(a) A wnaethoch gais i bleidleisio drwy’r post fel dirprwy?<br>(b) Pam nad ydych wedi pleidleisio drwy’r post fel dirprwy? |
 
-### PART 2 — New Welsh and English Forms[^key-d43027cf208798b9d4b8f6f58ebad5fd]
+### PART 2 — New Welsh and English Forms[^c-d43027cf208798b9d4b8f6f58ebad5fd]
 
 **Form/Ffurflen 1: Proxy paper at particular PCC election/Papur pleidleisio drwy ddirprwy mewn etholiad penodol ar gyfer Comisiynydd yr Heddlu a Throseddu**
 
@@ -87,6 +87,6 @@ Regulation 97(3) and (4)
 
 ## Annotations
 
-[^key-0137feda2643897ef728142b8e66c83d]: Commencement: Sch. 14 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-0137feda2643897ef728142b8e66c83d]: Commencement: Sch. 14 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-d43027cf208798b9d4b8f6f58ebad5fd]: Commencement: Sch. 14 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-d43027cf208798b9d4b8f6f58ebad5fd]: Commencement: Sch. 14 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

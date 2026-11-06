@@ -32,7 +32,7 @@ summary: ''
 
 Government Trading Funds
 
-The Ordnance Survey Trading Fund (Maximum Borrowing) Order 2010 (revoked)[^key-1ab00347872855248270e4e750a11d6e]
+The Ordnance Survey Trading Fund (Maximum Borrowing) Order 2010 (revoked)[^c-1ab00347872855248270e4e750a11d6e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2010
 
-[^key-1ab00347872855248270e4e750a11d6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ab00347872855248270e4e750a11d6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1ab00347872855248270e4e750a11d6e]
+## 1. Citation and commencement[^c-1ab00347872855248270e4e750a11d6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of maximum amount[^key-1ab00347872855248270e4e750a11d6e]
+## 2. Amendment of maximum amount[^c-1ab00347872855248270e4e750a11d6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ab00347872855248270e4e750a11d6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ab00347872855248270e4e750a11d6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1ab00347872855248270e4e750a11d6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ab00347872855248270e4e750a11d6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ab00347872855248270e4e750a11d6e]: Textual amendment: Order revoked (31.3.2016) by [The Ordnance Survey Trading Fund (Revocation) Order 2016 (S.I. 2016/320)](https://www.legislation.gov.uk/uksi/2016/320), [arts. 1](https://www.legislation.gov.uk/uksi/2016/320/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/320/article/2/c)
+[^c-1ab00347872855248270e4e750a11d6e]: Textual amendment: Order revoked (31.3.2016) by [The Ordnance Survey Trading Fund (Revocation) Order 2016 (S.I. 2016/320)](https://www.legislation.gov.uk/uksi/2016/320), [arts. 1](https://www.legislation.gov.uk/uksi/2016/320/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/320/article/2/c)

@@ -44,13 +44,13 @@ To be laid before Parliament under paragraph 7(3) of the Schedule to the Norther
 
 The Office of the First Minister and deputy First Minister makes the following Regulations in exercise of the powers conferred by section 82(1), (3), (4) and (5) of the Equality Act 2006[^f00001]
 
-## 1. Citation and commencement[^key-a402d488d58c4c4ea29e05443c0c71c1]
+## 1. Citation and commencement[^c-a402d488d58c4c4ea29e05443c0c71c1]
 
 (1) These Regulations may be cited as the Equality Act (Sexual Orientation) Regulations (Northern Ireland) 2006.
 
 (2) These Regulations shall come into operation on the 1<sup>st</sup> of January 2007.
 
-## 2. Interpretation[^key-a2ab09ba15c6002624b8df77ffba5a20]
+## 2. Interpretation[^c-a2ab09ba15c6002624b8df77ffba5a20]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -76,7 +76,7 @@ and related expressions shall be construed accordingly.
 - “Commissioner” means a member of the Commission;
 - “the Department” means the Office of the First Minister and deputy First Minister;
 - “education” means any form of training or instruction;
-- “final” shall be construed in accordance with regulation 2(5).[^key-b48da771d9d3249d8ca7b743db5aa3f9]
+- “final” shall be construed in accordance with regulation 2(5).[^c-b48da771d9d3249d8ca7b743db5aa3f9]
 - “formal investigation” means an investigation under regulation 30;
 - “general notice”, in relation to any person, means a notice published by him at a time and in a manner appearing to him suitable for securing that the notice is seen within a reasonable time by persons likely to be affected by it;
 - “Minister of the Crown” includes the Treasury and Defence Council;
@@ -85,17 +85,17 @@ and related expressions shall be construed accordingly.
 - “Northern Ireland Minister” includes the First Minister and deputy First Minister acting jointly;
 - “notice” means a notice in writing;
 - “premises” includes land of any description;
-- “prescribed” means prescribed by regulations made by the Department.[^key-c7eaaf656e1db78847eca281567b8da8]
+- “prescribed” means prescribed by regulations made by the Department.[^c-c7eaaf656e1db78847eca281567b8da8]
 - “school” has the same meaning as in the Education and Libraries (Northern Ireland) Order 1986[^f00004].
 
-(5)[^key-936100b8b141de52c0d5092f96cb9350] For the purposes of these Regulations a non-discrimination notice or a finding by the court becomes final when —
+(5)[^c-936100b8b141de52c0d5092f96cb9350] For the purposes of these Regulations a non-discrimination notice or a finding by the court becomes final when —
 
 - (a) an appeal against the notice or finding is dismissed, withdrawn or abandoned; or
 - (b) the time for appealing expires without an appeal having been brought
 
 and for the purposes of subparagraph (a) an appeal against a non-discrimination notice shall be taken to be dismissed if, notwithstanding that a requirement of the notice is quashed on appeal, a direction is given in respect of it under regulation 38.
 
-## 3. Discrimination and harassment on grounds of sexual orientation[^key-0bbcf79a1ebe692fecc9583abc2e68dc]
+## 3. Discrimination and harassment on grounds of sexual orientation[^c-0bbcf79a1ebe692fecc9583abc2e68dc]
 
 (1) For the purposes of these Regulations, a person (“A”) discriminates against another person (“B”) if —
 
@@ -116,14 +116,14 @@ and for the purposes of subparagraph (a) an appeal against a non-discrimination 
 - (a) violating B’s dignity; or
 - (b) creating an intimidating, hostile, degrading, humiliating or offensive environment for B.
 
-(4) Conduct shall be regarded as having the effect specified in sub-paragraphs (a) and (b) of paragraph (3)[^key-bb2d20d93fbab03a7cf85125967c6492] only if, having regard to all the circumstances, including, in particular, the perception of B, it should reasonably be considered as having that effect.
+(4) Conduct shall be regarded as having the effect specified in sub-paragraphs (a) and (b) of paragraph (3)[^c-bb2d20d93fbab03a7cf85125967c6492] only if, having regard to all the circumstances, including, in particular, the perception of B, it should reasonably be considered as having that effect.
 
-## 4. Discrimination by way of victimisation[^key-d35f508b1886c02e89e5e3bd0532d620]
+## 4. Discrimination by way of victimisation[^c-d35f508b1886c02e89e5e3bd0532d620]
 
 (1) For the purposes of these Regulations, a person (“A”) discriminates against another person (“B”) if he treats B less favourably than he treats or would treat other persons in the same circumstances, and does so by reason that B has —
 
 - (a) brought proceedings against A or any other person under these Regulations;
-- (b) given evidence or information in connection with proceedings brought under these Regulations[^key-c3e2d021575312dec1292551f12a949b] brought by any person against A or any other person; or
+- (b) given evidence or information in connection with proceedings brought under these Regulations[^c-c3e2d021575312dec1292551f12a949b] brought by any person against A or any other person; or
 - (c) otherwise done anything under or by reference to these Regulations in relation to A or any other person; or
 - (d) alleged that A or any other person has committed an act which (whether or not the allegation so states) would amount to a contravention of these Regulations,
 
@@ -131,7 +131,7 @@ or by reason that A knows that B intends to do any of those things, or suspects 
 
 (2) Paragraph (1) does not apply to treatment of B by reason of any allegation made by him, or evidence or information given by him, if the allegation, evidence, or information was false and not made (or, as the case may be, given) in good faith.
 
-## 5. Goods, facilities or services[^key-f03d10f49228059694974ef09af8f208]
+## 5. Goods, facilities or services[^c-f03d10f49228059694974ef09af8f208]
 
 (1) It is unlawful for any person concerned with the provision (for payment or not) of goods, facilities or services to the public or a section of the public to discriminate against a person who seeks to obtain or use those goods, facilities or services —
 
@@ -155,7 +155,7 @@ or by reason that A knows that B intends to do any of those things, or suspects 
 
 (4) Nothing in these Regulations shall render unlawful any act done in affording persons of a particular sexual orientation access to goods, facilities or services to meet the specific and justified needs of persons of that group in regard to their education, welfare or any ancillary benefits.
 
-## 6. Disposal or management of premises[^key-cd731259f6d4eecdba938a9509b39d15]
+## 6. Disposal or management of premises[^c-cd731259f6d4eecdba938a9509b39d15]
 
 (1) It is unlawful for a person with power to dispose of any premises to discriminate against another —
 
@@ -199,7 +199,7 @@ and “disposal” shall be construed accordingly;
 
 (8) This regulation applies only in relation to premises in Northern Ireland.
 
-## 7. Exception from regulations 5 (1) and 6: small dwellings[^key-f42b35480710f58ef92d5d6749c645ea]
+## 7. Exception from regulations 5 (1) and 6: small dwellings[^c-f42b35480710f58ef92d5d6749c645ea]
 
 (1) Where the conditions mentioned in paragraph (2) are satisfied —
 
@@ -233,13 +233,13 @@ and “disposal” shall be construed accordingly;
 
 (7) For the purposes of this regulation “near relative” means a person’s spouse, civil partner, parent, child, grandparent, grandchild, or brother or sister (whether of full or half blood or by affinity).
 
-## 8. Further exceptions from regulations 5 and 6[^key-3e11ecbb1b91b47ca5b2cf32b0acb06b]
+## 8. Further exceptions from regulations 5 and 6[^c-3e11ecbb1b91b47ca5b2cf32b0acb06b]
 
 (1) Regulations 5 and 6 do not apply to discrimination or harassment which is rendered unlawful by regulation 9 and 10.
 
 (2) Regulation 5(1) does not apply to anything done by a person as a participant in arrangements under which he (for reward or not) takes into his home, and treats as if they were members of his family, children, elderly persons, or persons requiring a special degree of care and attention.
 
-## 9. Bodies in charge of education establishments[^key-e8f032cad86cf9e012fc37e6feb8c5d4]
+## 9. Bodies in charge of education establishments[^c-e8f032cad86cf9e012fc37e6feb8c5d4]
 
 (1) It is unlawful, in relation to an educational establishment falling within column 1 of the following table, for a person indicated in relation to the establishment in column 2 (the “responsible body”) to discriminate against a person —
 
@@ -267,7 +267,7 @@ and “disposal” shall be construed accordingly;
 
 (4) In this regulation “pupil” includes any person who receives an education at an establishment to which this regulation applies.
 
-## 10. Other discrimination or harassment by education and library boards[^key-eb3f2365925e9a6d9337e690098fc350]
+## 10. Other discrimination or harassment by education and library boards[^c-eb3f2365925e9a6d9337e690098fc350]
 
 It is unlawful for —
 
@@ -276,7 +276,7 @@ It is unlawful for —
 
 to do any act which constitutes discrimination or harassment on the grounds of sexual orientation.
 
-## 11. General duty in public sector of education[^key-e0b751b9cd0ab1bef112ea9c9acb5990]
+## 11. General duty in public sector of education[^c-e0b751b9cd0ab1bef112ea9c9acb5990]
 
 (1) Without prejudice to its obligation to comply with any other provision of these Regulations, a body to which this paragraph applies shall be under a general duty to secure that facilities for education provided by it and any ancillary benefits and services, are provided without discrimination on the grounds of sexual orientation.
 
@@ -289,7 +289,7 @@ to do any act which constitutes discrimination or harassment on the grounds of s
 - (a) an education and library board; and
 - (b) any other body which is a responsible body in relation to an establishment falling within paragraph 1, 4 or 5(b) of the table in regulation 9(1).
 
-## 12. Public authorities[^key-613d251b4df21a49e84c33fafef6357f]
+## 12. Public authorities[^c-613d251b4df21a49e84c33fafef6357f]
 
 (1) It is unlawful for a public authority —
 
@@ -330,7 +330,7 @@ which does not fall within regulation 5.
 - (a) is made unlawful by virtue of any other provision of these Regulations; or
 - (b) would be so made but for any provision made by or under these Regulations.
 
-## 13. Exceptions or further exceptions from regulation 12 for judicial and legislative acts etc.[^key-24e53bf978fe4e7e3425597554aaa1fe]
+## 13. Exceptions or further exceptions from regulation 12 for judicial and legislative acts etc.[^c-24e53bf978fe4e7e3425597554aaa1fe]
 
 (1) Regulation 12 does not apply to —
 
@@ -341,14 +341,14 @@ which does not fall within regulation 5.
 
 (3) Regulation 12 does not apply to any act of, or relating to, making or approving arrangements or imposing requirements or conditions, of a kind excepted by regulation 49.
 
-## 14. Further actions to which regulation 12 does not apply[^key-f0d807619b1cce56cb34f5bd467ad65e]
+## 14. Further actions to which regulation 12 does not apply[^c-f0d807619b1cce56cb34f5bd467ad65e]
 
 Regulation 12 does not apply to any action which —
 
 - (a) is unlawful by virtue of a provision of the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^f00006]; or
 - (b) would be unlawful by virtue of a provision of those Regulations but for an express exception.
 
-## 15. Exceptions from regulation 12 for decisions not to prosecute etc[^key-661e1ef927a615bc86f6d4fcb8403066]
+## 15. Exceptions from regulation 12 for decisions not to prosecute etc[^c-661e1ef927a615bc86f6d4fcb8403066]
 
 Regulation 12 does not apply to —
 
@@ -357,7 +357,7 @@ Regulation 12 does not apply to —
   - (i) any act done for the purpose of enabling the decision whether to continue the proceedings to be made; and
   - (ii) any act done for the purpose of securing that the proceedings are not continued.
 
-## 16. Organisations relating to religion or belief[^key-d34c98c9dee0c572271c09dc05eeb9d8]
+## 16. Organisations relating to religion or belief[^c-d34c98c9dee0c572271c09dc05eeb9d8]
 
 (1) Subject to paragraphs (2) and (8) this regulation applies to an organisation the purpose of which is —
 
@@ -390,13 +390,13 @@ in respect of a person on the ground of his sexual orientation.
 (5) Paragraphs (3) and (4) permit a restriction only if imposed —
 
 - (a) if it is necessary to comply with the doctrine of the organisation; or
-- (b) so as to avoid conflicting with the strongly held religious convictions of a significant number of the religions followers ;[^key-ce42442ed26c0b607aa325c12fca5f51]
-- (ba)[^key-b68ea20d4684d63c8895fe941bea6c73] in connection with the solemnisation of a marriage; or
+- (b) so as to avoid conflicting with the strongly held religious convictions of a significant number of the religions followers ;[^c-ce42442ed26c0b607aa325c12fca5f51]
+- (ba)[^c-b68ea20d4684d63c8895fe941bea6c73] in connection with the solemnisation of a marriage; or
 - (c) in connection with a ceremony or event to mark the solemnisation of a marriage or the formation of a civil partnership.
 
-(5A)[^key-4d5bbcbf4f5471d31d8fdf49f78d6cb2] Where an act done by a person—
+(5A)[^c-4d5bbcbf4f5471d31d8fdf49f78d6cb2] Where an act done by a person—
 
-- (a) would be unlawful but for paragraph (5)(ba) or (c)[^key-9bf14004fb4ec3629780a27c9d203e86], and
+- (a) would be unlawful but for paragraph (5)(ba) or (c)[^c-9bf14004fb4ec3629780a27c9d203e86], and
 - (b) is done by the person—
   - (i) in the course of the person’s employment, or
   - (ii) as agent for another person,
@@ -413,14 +413,14 @@ the employer or other person does not do anything unlawful under these Regulatio
 - (a) the estate in fee simple absolute in possession; or
 - (b) the entire estate in the premises in respect of which the organisation has power of disposal.
 
-(8) This regulation , so far as it relates to a restriction imposed as mentioned in paragraph (5)(a) or (b),[^key-bb6cab9949365cdd519e1a14a046b576] shall not apply where an organisation of the kind referred to in paragraph (1) or any person acting on its behalf or under its auspices —[^key-43648c4d37004353ea578964abd2411e]
+(8) This regulation , so far as it relates to a restriction imposed as mentioned in paragraph (5)(a) or (b),[^c-bb6cab9949365cdd519e1a14a046b576] shall not apply where an organisation of the kind referred to in paragraph (1) or any person acting on its behalf or under its auspices —[^c-43648c4d37004353ea578964abd2411e]
 
 - (a) makes provision of a kind referred to in regulation 5; or
 - (b) makes provision of a kind referred to in regulation 12,
 
-on behalf of a public authority under the terms of a contract for provision of that kind made between that authority and an organisation referred to in paragraph (1) or, if different, the person making that provision.[^key-be0ab386f76bee3f527d89e6bc0bc731]
+on behalf of a public authority under the terms of a contract for provision of that kind made between that authority and an organisation referred to in paragraph (1) or, if different, the person making that provision.[^c-be0ab386f76bee3f527d89e6bc0bc731]
 
-## 17. Discrimination: associations and private members clubs[^key-f58f9b4182b00cf438065d74898f0f1c]
+## 17. Discrimination: associations and private members clubs[^c-f58f9b4182b00cf438065d74898f0f1c]
 
 (1) This regulation applies to any association of persons (however described, whether corporate or unincorporated, and whether or not its activities are carried on for profit) if —
 
@@ -448,7 +448,7 @@ on behalf of a public authority under the terms of a contract for provision of t
 
 (6) In determining whether that is the main object of an association regard shall be had to the essential character of the association and to all relevant circumstances including, in particular, the extent to which the affairs of the association are so conducted that the persons primarily enjoying the benefits of membership are of the sexual orientation in question.
 
-## 18. Relationships which have come to an end[^key-f0e47b1c9cee9d8dc85a35f693236853]
+## 18. Relationships which have come to an end[^c-f0e47b1c9cee9d8dc85a35f693236853]
 
 (1) In this regulation a “relevant relationship” is a relationship during the course of which, by virtue of any provision of these Regulations, an act of discrimination or harassment by one party to the relationship (“the relevant party”) against another party to the relationship, on the ground of sexual orientation is unlawful.
 
@@ -463,7 +463,7 @@ where discrimination or harassment arises out of and is closely connected to tha
 
 (4) For the purposes of any proceedings in respect of an unlawful act under paragraph (2) that act shall be treated as falling within the circumstances relevant for the purposes of these Regulations as determine most closely the nature of the relevant relationship.
 
-## 19. Discriminatory practice[^key-a64dfd9b35e04de7d2b7ad1230ae81a1]
+## 19. Discriminatory practice[^c-a64dfd9b35e04de7d2b7ad1230ae81a1]
 
 (1) In this regulation “discriminatory practice” means —
 
@@ -477,7 +477,7 @@ where discrimination or harassment arises out of and is closely connected to tha
 
 (3) Proceedings in respect of a contravention of this regulation shall be brought only by the Commission in accordance with regulations 37 to 40.
 
-## 20. Discriminatory advertisements[^key-db2ce22888ab9c161fd70a370c716df3]
+## 20. Discriminatory advertisements[^c-db2ce22888ab9c161fd70a370c716df3]
 
 (1) It is unlawful to publish or cause to be published an advertisement which indicates, or might reasonably be understood as indicating, an intention by a person to do an act of discrimination, whether the doing of that act by him would be lawful, or by virtue of these Regulations, unlawful.
 
@@ -490,7 +490,7 @@ where discrimination or harassment arises out of and is closely connected to tha
 
 (4) a person who knowingly or recklessly makes a statement such as is mentioned in paragraph (3)(a) which in a material respect is false or misleading shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 21. Instructions to commit unlawful acts[^key-41ff560e0dce565ca8a2eacfdf773607]
+## 21. Instructions to commit unlawful acts[^c-41ff560e0dce565ca8a2eacfdf773607]
 
 It is unlawful for a person —
 
@@ -499,13 +499,13 @@ It is unlawful for a person —
 
 to instruct him to do any act which is unlawful by virtue of any provision contained within regulations 5 to 17 or procure or attempt to procure the doing by him of such an act.
 
-## 22. Pressure to commit unlawful acts[^key-4f88fee0c3480d3fdf480f8dfc2be4d2]
+## 22. Pressure to commit unlawful acts[^c-4f88fee0c3480d3fdf480f8dfc2be4d2]
 
 (1) It is unlawful to induce, or attempt to induce, a person to any act which contravenes any provision contained within regulations 5 to 17.
 
 (2) An attempted inducement is not prevented from falling with paragraph (1) because it is not made directly to the person in question, if it is made in such a way as he is likely to hear it.
 
-## 23. Liability of employers and principals[^key-3f72067857968bec86c246a248d8a1ad]
+## 23. Liability of employers and principals[^c-3f72067857968bec86c246a248d8a1ad]
 
 (1) Anything done by a person in the course of his employment shall be treated for the purposes of these Regulations as done by his employer as well as by him, whether or not it was done with the employer’s knowledge or approval.
 
@@ -523,7 +523,7 @@ to instruct him to do any act which is unlawful by virtue of any provision conta
 - (a) doing that act; or
 - (b) doing, in the course of his employment, acts of that description.
 
-## 24. Aiding unlawful acts[^key-955ccca3ab901830b9c9a12adca002bc]
+## 24. Aiding unlawful acts[^c-955ccca3ab901830b9c9a12adca002bc]
 
 (1) A person who knowingly aids another person to do an act made unlawful by these Regulations shall be treated for the purposes of these Regulations as himself doing the same kind of unlawful act.
 
@@ -536,7 +536,7 @@ to instruct him to do any act which is unlawful by virtue of any provision conta
 
 (4) A person who knowingly or recklessly makes a statement such as is mentioned in paragraph (3)(a) which in a material respect is false or misleading shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 25. Validity and revision of contracts[^key-8fd0cbc45ade87db1ef1e0f84d225465]
+## 25. Validity and revision of contracts[^c-8fd0cbc45ade87db1ef1e0f84d225465]
 
 (1) A term of a contract is void where —
 
@@ -557,7 +557,7 @@ to instruct him to do any act which is unlawful by virtue of any provision conta
 
 (6) An order under paragraph (5) may include provision in respect of a period before the making of the order.
 
-## 26. Charities[^key-c352856544e9f9c6003884aa29eda7c0]
+## 26. Charities[^c-c352856544e9f9c6003884aa29eda7c0]
 
 (1) Nothing in these Regulations shall make it unlawful for a person to provide benefits only to persons of a particular sexual orientation, if —
 
@@ -566,7 +566,7 @@ to instruct him to do any act which is unlawful by virtue of any provision conta
 
 (2) In this regulation “charitable instrument” means a statutory provision or other instrument (whenever taking effect) so far as it relates to purposes which are exclusively charitable according to the law of Northern Ireland.
 
-## 27. General duty of the Equality Commission for Northern Ireland[^key-0f4639f01405ab5e07164426998620d6]
+## 27. General duty of the Equality Commission for Northern Ireland[^c-0f4639f01405ab5e07164426998620d6]
 
 It shall be the duty of the Commission —
 
@@ -574,7 +574,7 @@ It shall be the duty of the Commission —
 - (b) to promote equality of opportunity between persons of differing sexual orientations; and
 - (c) to keep under review the working of these Regulations and, when it is so required by the Department or otherwise thinks it necessary, draw up and submit to the Department proposals for amending these Regulations.
 
-## 28. Research, education and assistance to organisations[^key-d13a4c7373c889964df0dbc350ca5fa4]
+## 28. Research, education and assistance to organisations[^c-d13a4c7373c889964df0dbc350ca5fa4]
 
 (1) The Commission may undertake or assist (financially or otherwise) the undertaking by other persons of any research, and any educational activities, which appear to the Commission necessary or expedient for the purposes of regulation 27.
 
@@ -584,14 +584,14 @@ It shall be the duty of the Commission —
 
 (4) The Commission shall not give any financial assistance under paragraph (3) out of money appropriated by Measure except with the approval of the Department given with the consent of the Department of Finance and Personnel.
 
-## 29. Codes of practice[^key-047a1918e363866fbdff501e64326b69]
+## 29. Codes of practice[^c-047a1918e363866fbdff501e64326b69]
 
 (1) The Commission may issue codes of practice containing such practical guidance as the Commission thinks fit for —
 
 - (a) the elimination of discrimination and harassment in the field of housing;
 - (b) the promotion of equality of opportunity in the field of housing between persons of different sexual orientations.
 
-(2) Without prejudice to the generality of paragraph (1), a code of practice issued under this regulation may include such practical guidance as the Commission thinks fit as to what steps it is reasonably practicable for providers of goods, facilities or services in respect of the field of housing[^key-5826e2b87f3e9a918a2292819e82e1f9] to take for the purpose of preventing acts made unlawful by these Regulations.
+(2) Without prejudice to the generality of paragraph (1), a code of practice issued under this regulation may include such practical guidance as the Commission thinks fit as to what steps it is reasonably practicable for providers of goods, facilities or services in respect of the field of housing[^c-5826e2b87f3e9a918a2292819e82e1f9] to take for the purpose of preventing acts made unlawful by these Regulations.
 
 (3) When the Commission proposes to issue a code of practice, it shall prepare and publish a draft of that code, shall consider any representations made to it about the draft and may modify the draft accordingly.
 
@@ -599,7 +599,7 @@ It shall be the duty of the Commission —
 
 (5) The Commission may from time to time revise the whole or any part of a code of practice issued under this regulation and issue that revised code, and paragraphs (3) and (4) shall apply (with appropriate modifications) to such a revised code as they apply to the first issue of a code.
 
-## 30. Power to conduct formal investigations[^key-7436b93b869f40a4d47d8683508a4b14]
+## 30. Power to conduct formal investigations[^c-7436b93b869f40a4d47d8683508a4b14]
 
 (1) Without prejudice to its general power to do anything requisite for the performance of its duties under regulation 27, the Commission may if it thinks fit, and shall if required by the Department, conduct a formal investigation for any purpose connected with the carrying out of those duties.
 
@@ -607,7 +607,7 @@ It shall be the duty of the Commission —
 
 (3) The Commission may nominate one or more Commissioners, with or without one or more additional Commissioners, to conduct a formal investigation on its behalf, and may delegate any of its functions in relation to the investigation to the persons so nominated.
 
-## 31. Terms of reference[^key-65cfcb98373758461046c1940313fed1]
+## 31. Terms of reference[^c-65cfcb98373758461046c1940313fed1]
 
 (1) The Commission shall not embark on a formal investigation unless the requirements of this regulation have been complied with.
 
@@ -627,7 +627,7 @@ It shall be the duty of the Commission —
 
 (6) The Commission or, if the Commission was required by the Department to conduct the investigation, the Department after consulting with the Commission may from time to time revise the terms of reference; and paragraphs (1) and (3) to (5) shall apply to the revised investigation and the terms of reference as they applied to the original.
 
-## 32. Power to obtain information[^key-b379c5c27be204d421b7fe854c9642d5]
+## 32. Power to obtain information[^c-b379c5c27be204d421b7fe854c9642d5]
 
 (1) For the purpose of a formal investigation the Commission, by notice in the prescribed form served on him in the prescribed manner —
 
@@ -663,7 +663,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (a) against any person at any place at which he has an office or other place of business;
 - (b) against an individual at any place where he resides, or at which he is for the time being.
 
-## 33. Recommendations and reports on formal investigations[^key-059f4be50cbb5c7ed3816a052a0835f2]
+## 33. Recommendations and reports on formal investigations[^c-059f4be50cbb5c7ed3816a052a0835f2]
 
 (1) If in the light of any of its findings in a formal investigation it appears to the Commission necessary or expedient, whether during the course of the investigation or after its conclusion —
 
@@ -692,7 +692,7 @@ and, unless required by the Department, the Commission shall not publish the rep
 
 (7) The Commission shall give a general notice of the place or places where, and the times when, reports may be inspected under paragraph (5).
 
-## 34. Restriction on disclosure of information[^key-de04b4b8c96f27f9975ebb192c6c4d0e]
+## 34. Restriction on disclosure of information[^c-de04b4b8c96f27f9975ebb192c6c4d0e]
 
 (1) No information given to the Commission by any person (“the informant”) in connection with a formal investigation shall be disclosed by the Commission, or by any person who is or has been a Commissioner, additional Commissioner of employee of the Commission, except —
 
@@ -707,13 +707,13 @@ and, unless required by the Department, the Commission shall not publish the rep
 
 (3) In preparing any report for publication or for inspection the Commission shall exclude, so far as is consistent with its duties and the object of the report, any matter which relates to the private affairs of any individual or the business interests of any person where the publication of that matter might, in the opinion of the Commission, prejudicially affect that individual or person.
 
-## 35. Restriction of proceedings for breach of Regulations[^key-d8bb8996ce6a7440f9e420f4300cd9c2]
+## 35. Restriction of proceedings for breach of Regulations[^c-d8bb8996ce6a7440f9e420f4300cd9c2]
 
 (1) Except as provided by these Regulations no proceedings, whether civil or criminal, shall lie against any person in respect of an act by reason that the act is unlawful by virtue of a provision of these Regulations.
 
 (2) Paragraph (1) does not preclude the making of an application for judicial review.
 
-## 36. Claims under regulations 5 to 17[^key-19426fbfeb556dbcfe89d895662592f9]
+## 36. Claims under regulations 5 to 17[^c-19426fbfeb556dbcfe89d895662592f9]
 
 (1) A claim by any person (“the claimant”) that another person (“the respondent”) —
 
@@ -749,7 +749,7 @@ may be made the subject of civil proceedings in like manner as any other claim i
 
 (9) A county court shall have jurisdiction to entertain proceedings under these Regulations with respect to an act done outside the United Kingdom where regulation 12 applies in relation to such an act by virtue of regulation 54(2).
 
-## 37. Issue of a non-discrimination notice[^key-a851f8840942c83b8b62f2fc97fa69d5]
+## 37. Issue of a non-discrimination notice[^c-a851f8840942c83b8b62f2fc97fa69d5]
 
 (1) This regulation applies to —
 
@@ -780,7 +780,7 @@ and so applies whether or not formal proceedings have been brought in respect of
 
 (7) Regulation 32(4) shall apply to requirements under paragraph (2)(b), (3) and (4) contained in a non-discrimination notice which has become final as it applies to requirements in a notice served under regulation 32(1).
 
-## 38. Appeal against non-discrimination notice[^key-835c36e08b436829045eed84f058c651]
+## 38. Appeal against non-discrimination notice[^c-835c36e08b436829045eed84f058c651]
 
 (1) Not later than 6 weeks after a non-discrimination notice is served on any person he may appeal against any requirement of the notice to a county court, so far as the requirement relates to acts which are within the jurisdiction of the court and are not within the jurisdiction of an industrial tribunal.
 
@@ -790,7 +790,7 @@ and so applies whether or not formal proceedings have been brought in respect of
 
 (4) Paragraph (1) does not apply to a requirement treated as included in a non-discrimination notice by virtue of a direction under paragraph (3).
 
-## 39. Investigation as to compliance with a non-discrimination notice[^key-d3267dba4ebd2856987b1cec04f469c4]
+## 39. Investigation as to compliance with a non-discrimination notice[^c-d3267dba4ebd2856987b1cec04f469c4]
 
 (1) If —
 
@@ -804,7 +804,7 @@ the Commission may within the period referred to in paragraph (2) serve notices 
 - (a) the date on which the period of 5 years mentioned in paragraph (1)(b) expires;
 - (b) the date of 2 years after the commencement date.
 
-## 40. Register of non-discrimination notices[^key-4adfaf55ba989969d1508b55aa50ce13]
+## 40. Register of non-discrimination notices[^c-4adfaf55ba989969d1508b55aa50ce13]
 
 (1) The Commission shall establish and maintain a register (“the register”) of non-discrimination notices which have become final.
 
@@ -817,7 +817,7 @@ the Commission may within the period referred to in paragraph (2) serve notices 
 
 (4) The Commission shall give general notice of the place or places where, and the times when, the register or a copy of it may be inspected.
 
-## 41. Persistent discrimination[^key-dbceb126f5f06a37594e11449017a658]
+## 41. Persistent discrimination[^c-dbceb126f5f06a37594e11449017a658]
 
 If, during the period of 5 years beginning on the date on which either of the following became final in the case of any person, namely —
 
@@ -826,7 +826,7 @@ If, during the period of 5 years beginning on the date on which either of the fo
 
 it appears to the Commission that unless restrained he is likely to do one or more acts falling within sub-paragraph (b), or contravening regulation 19, the Commission may apply to a county court for an injunction restraining him from doing so; and the court if satisfied that the application is well founded, may grant the injunction in the terms applied for or in more limited terms.
 
-## 42. Help for persons in obtaining information etc.[^key-a3080bcc59ee333fbad10adff8d583f3]
+## 42. Help for persons in obtaining information etc.[^c-a3080bcc59ee333fbad10adff8d583f3]
 
 (1) In accordance with this regulation, a person (“the person aggrieved”) who considers he may have been discriminated against, in contravention of these Regulations may serve on the respondent to a complaint presented under regulation 36 (Claims under regulations 5 to 17) questions in the form set out in Schedule 1 or forms to the like effect with such variation as the circumstances require; and the respondent may if he so wishes reply to such questions by way of the form set out in Schedule 2 or forms to the like effect with such variation as the circumstances require.
 
@@ -846,7 +846,7 @@ it appears to the Commission that unless restrained he is likely to do one or mo
 
 (6) In this regulation “respondent” includes a prospective respondent.
 
-## 43. Enforcement of regulations 19 to 22[^key-817e0ff2c2ec56112cd726fc7b61d68c]
+## 43. Enforcement of regulations 19 to 22[^c-817e0ff2c2ec56112cd726fc7b61d68c]
 
 (1) Proceedings in respect of a contravention of regulation 19, 20, 21 or 22 shall be brought only by the Commission in accordance with the following provisions of this regulation.
 
@@ -868,7 +868,7 @@ the Commission may apply to a county court for an injunction restraining him fro
 
 (5) In proceedings under paragraph (4) the Commission shall not allege that the person to whom the proceedings relate has done an act which is unlawful under these Regulations and within the jurisdiction of a county court unless a finding by a county court that he did that act has become final.
 
-## 44. Undertakings by persons contravening these Regulations[^key-f613533ead23f87cf2330da232135c9b]
+## 44. Undertakings by persons contravening these Regulations[^c-f613533ead23f87cf2330da232135c9b]
 
 (1) This regulation applies to —
 
@@ -895,7 +895,7 @@ and so applies whether or not proceedings have been brought in respect of the ac
 
 (5) Paragraph (2) does not apply to any act in respect of which the Department of Education could exercise powers conferred on it by regulation 11(2); but if the Commission becomes aware of any such act it shall give notice to the Department of Education.
 
-## 45. Assistance by the Commission[^key-55935deb77d5f3ea65cee34b4a9cdab5]
+## 45. Assistance by the Commission[^c-55935deb77d5f3ea65cee34b4a9cdab5]
 
 (1) Where, in relation to proceedings or prospective proceedings under these Regulations, an individual who is an actual or prospective complainant or claimant applies to the Commission for assistance under this regulation, the Commission shall consider the application and may grant if it thinks fit to do so —
 
@@ -935,7 +935,7 @@ paragraph (3) and regulation 46(2) shall have effect accordingly.
 
 (7) In this regulation “respondent” includes a prospective respondent and “rules or regulations” in relation to county court proceedings, means county court rules.
 
-## 46. Period within which proceedings to be brought[^key-11b416a68fe556f9bde548250e150fe6]
+## 46. Period within which proceedings to be brought[^c-11b416a68fe556f9bde548250e150fe6]
 
 (1) Subject to paragraph (2) a county court shall not consider a claim under these Regulations unless proceedings in respect of the claim are instituted before the end of —
 
@@ -961,7 +961,7 @@ paragraph (3) and regulation 46(2) shall have effect accordingly.
 - (a) when he does an act inconsistent with doing the omitted act; or
 - (b) if he has done no such inconsistent act, when the period expires within which he might reasonably have been expected to do the omitted act if it was to be done.
 
-## 47. Evidence[^key-845da2ac14503d2a3135bf00341d7867]
+## 47. Evidence[^c-845da2ac14503d2a3135bf00341d7867]
 
 (1) Any finding by a court under these Regulations in respect of any act shall, if it has become final, be treated as conclusive in any proceedings under these Regulations.
 
@@ -974,13 +974,13 @@ shall be conclusive evidence of the matters certified.
 
 (3) A document purporting to be a certificate such as is mentioned in paragraph (2) shall be received in evidence and, unless the contrary is proved, shall be deemed to be such a certificate.
 
-## 48. Indirect access to benefits etc.[^key-e3142d867833a51361ffa1aec6a9147d]
+## 48. Indirect access to benefits etc.[^c-e3142d867833a51361ffa1aec6a9147d]
 
 (1) References in these Regulations to the affording by any person of access to benefits are not limited to benefits provided by that person himself, but include any means by which it is in that person’s power to facilitate access to benefits provided by any other person (the “actual provider”).
 
 (2) Where by any regulation of these Regulations the affording by any person of access to benefits in a discriminatory way is in certain circumstances prevented from being unlawful, the effect of the regulation shall extend also to the liability under these Regulations of any actual provider.
 
-## 49. Acts done under statutory authority etc.[^key-bbd886a0b3ede07c5368f2a786b1565e]
+## 49. Acts done under statutory authority etc.[^c-bbd886a0b3ede07c5368f2a786b1565e]
 
 (1) Nothing in any provision of regulations 5 to 25 shall render unlawful any act of discrimination done —
 
@@ -996,14 +996,14 @@ shall be conclusive evidence of the matters certified.
 
 (3) This regulation applies whether the statutory provision, condition, requirement or arrangement in question was passed, made or imposed (as the case may be) before or after the making of these Regulations.
 
-## 50. Acts safeguarding national security etc.[^key-0ca15a0a9073b3b04ab757cd5990947a]
+## 50. Acts safeguarding national security etc.[^c-0ca15a0a9073b3b04ab757cd5990947a]
 
 No act done by any person shall be treated for the purposes of any provision of regulations 5 to 25 as unlawfully discriminating if —
 
 - (a) the act is done for the purpose of safeguarding national security or protecting public safety or public order; and
 - (b) the doing of that act is justified by that purpose.
 
-## 51. Effect of certificates by Secretary of State[^key-f2fa4809dacae20079433e3ab4c48944]
+## 51. Effect of certificates by Secretary of State[^c-f2fa4809dacae20079433e3ab4c48944]
 
 (1) This regulation applies where in any proceedings —
 
@@ -1035,21 +1035,21 @@ the certificate shall be conclusive evidence of the matters certified by it.
 - “claim” includes complaint; and
 - “claimant” includes complainant.
 
-## 52. Burden of proof: county court[^key-0de2856f2e2d41c60001d0f22962c727]
+## 52. Burden of proof: county court[^c-0de2856f2e2d41c60001d0f22962c727]
 
 (1) This regulation applies where a claim is brought under regulation 36 and the claim is that the respondent —
 
 - (a) has committed an act of discrimination, on the ground of sexual orientation which is unlawful by virtue of any provision of these Regulations; or
 - (b) has committed an act of harassment.
 
-(2) Where on hearing the claim, the claimant proves facts from which a court could, apart from this regulation, conclude in the absence of an adequate explanation that the respondent[^key-8958345c5c6bbd5e9265325b28f2df3f] —
+(2) Where on hearing the claim, the claimant proves facts from which a court could, apart from this regulation, conclude in the absence of an adequate explanation that the respondent[^c-8958345c5c6bbd5e9265325b28f2df3f] —
 
 - (a) has committed such an act of discrimination or harassment against the claimant; or
 - (b) is by virtue of regulation 23 or 24 to be treated as having committed such an act of discrimination or harassment against the claimant,
 
 the court shall uphold the claim unless the respondent proves that he did not commit or, as the case may be, is not to be treated as having committed that act.
 
-## 53. Application to Crown etc.[^key-a2f9b57beffa6c8b510f0ce29193db3e]
+## 53. Application to Crown etc.[^c-a2f9b57beffa6c8b510f0ce29193db3e]
 
 (1) These Regulations apply —
 
@@ -1080,7 +1080,7 @@ as they apply to employment by a private person, and shall so apply as if refere
 - “service for purposes of a Minister of the Crown, a Northern Ireland Minister or a government department” does not include service in any office mentioned in Schedule 2 (Ministerial offices) to the House of Commons Disqualification Act 1975[^f00010]; and
 - “statutory body” means a body set up in pursuance of a statutory provision, and “statutory office” means an office so set up.
 
-## 54. Extent[^key-58b6894c5389f3d5ed367404c67cf6ed]
+## 54. Extent[^c-58b6894c5389f3d5ed367404c67cf6ed]
 
 (1) Regulations 9 to 11 do not apply to benefits outside Northern Ireland except —
 
@@ -1109,9 +1109,9 @@ Gerry Mulligan
 
 A senior officer of the Office of the First Minister and deputy First Minister
 
-## SCHEDULE I[^key-39c4e8ca68fd73b5b41831a9a85ba91b]
+## SCHEDULE I[^c-39c4e8ca68fd73b5b41831a9a85ba91b]
 
-## SCHEDULE II[^key-dab421ad177e2557002e3675fbd74e6f]
+## SCHEDULE II[^c-dab421ad177e2557002e3675fbd74e6f]
 
 EXPLANATORY NOTE
 
@@ -1141,160 +1141,160 @@ A Regulatory Impact Assessment and an Equality Impact Assessment in relation to 
 
 [^f00001]: Footnote: [2006 c.3](https://www.legislation.gov.uk/ukpga/2006/3)
 
-[^key-a402d488d58c4c4ea29e05443c0c71c1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/439/regulation/1) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-a402d488d58c4c4ea29e05443c0c71c1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/439/regulation/1) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-a2ab09ba15c6002624b8df77ffba5a20]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/439/regulation/2) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-a2ab09ba15c6002624b8df77ffba5a20]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/439/regulation/2) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
 [^f00002]: Footnote: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00003]: Footnote: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47)
 
-[^key-b48da771d9d3249d8ca7b743db5aa3f9]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/439/regulation/2/4) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [2(1)](https://www.legislation.gov.uk/nisr/2007/261/regulation/2/1)
+[^c-b48da771d9d3249d8ca7b743db5aa3f9]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/439/regulation/2/4) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [2(1)](https://www.legislation.gov.uk/nisr/2007/261/regulation/2/1)
 
-[^key-c7eaaf656e1db78847eca281567b8da8]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/439/regulation/2/4) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/2/2)
+[^c-c7eaaf656e1db78847eca281567b8da8]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/439/regulation/2/4) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/2/2)
 
 [^f00004]: Footnote: [SI 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-936100b8b141de52c0d5092f96cb9350]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2006/439/regulation/2/5) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2007/261/regulation/3)
+[^c-936100b8b141de52c0d5092f96cb9350]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2006/439/regulation/2/5) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2007/261/regulation/3)
 
-[^key-0bbcf79a1ebe692fecc9583abc2e68dc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/439/regulation/3) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-0bbcf79a1ebe692fecc9583abc2e68dc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/439/regulation/3) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-bb2d20d93fbab03a7cf85125967c6492]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2006/439/regulation/3/4) substituted (1.1.2007) by [Equality Act (Sexual Orientation) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/466)](https://www.legislation.gov.uk/nisr/2006/466), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2006/466/section/1/2), [2](https://www.legislation.gov.uk/nisr/2006/466/section/2)
+[^c-bb2d20d93fbab03a7cf85125967c6492]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2006/439/regulation/3/4) substituted (1.1.2007) by [Equality Act (Sexual Orientation) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/466)](https://www.legislation.gov.uk/nisr/2006/466), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2006/466/section/1/2), [2](https://www.legislation.gov.uk/nisr/2006/466/section/2)
 
-[^key-d35f508b1886c02e89e5e3bd0532d620]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/439/regulation/4) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-d35f508b1886c02e89e5e3bd0532d620]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/439/regulation/4) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-c3e2d021575312dec1292551f12a949b]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2006/439/regulation/4/1/b) substituted (1.6.2007) by [The Equality Act (Sexual Orientation) (Amendment No 2) Regulations (Northern Ireland) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2007/261/regulation/4)
+[^c-c3e2d021575312dec1292551f12a949b]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2006/439/regulation/4/1/b) substituted (1.6.2007) by [The Equality Act (Sexual Orientation) (Amendment No 2) Regulations (Northern Ireland) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2007/261/regulation/4)
 
-[^key-f03d10f49228059694974ef09af8f208]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/439/regulation/5) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-f03d10f49228059694974ef09af8f208]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/439/regulation/5) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-cd731259f6d4eecdba938a9509b39d15]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/439/regulation/6) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-cd731259f6d4eecdba938a9509b39d15]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/439/regulation/6) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-f42b35480710f58ef92d5d6749c645ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/439/regulation/7) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-f42b35480710f58ef92d5d6749c645ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/439/regulation/7) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-3e11ecbb1b91b47ca5b2cf32b0acb06b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/439/regulation/8) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-3e11ecbb1b91b47ca5b2cf32b0acb06b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/439/regulation/8) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-e8f032cad86cf9e012fc37e6feb8c5d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/439/regulation/9) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-e8f032cad86cf9e012fc37e6feb8c5d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/439/regulation/9) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
 [^f00005]: Footnote: [SR 1997/1772 (N.I.15)](https://www.legislation.gov.uk/nisi/1997/1772)
 
-[^key-eb3f2365925e9a6d9337e690098fc350]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/439/regulation/10) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-eb3f2365925e9a6d9337e690098fc350]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/439/regulation/10) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-e0b751b9cd0ab1bef112ea9c9acb5990]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/439/regulation/11) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-e0b751b9cd0ab1bef112ea9c9acb5990]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/439/regulation/11) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-613d251b4df21a49e84c33fafef6357f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/439/regulation/12) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-613d251b4df21a49e84c33fafef6357f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/439/regulation/12) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-24e53bf978fe4e7e3425597554aaa1fe]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/439/regulation/13) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-24e53bf978fe4e7e3425597554aaa1fe]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/439/regulation/13) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-f0d807619b1cce56cb34f5bd467ad65e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/439/regulation/14) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-f0d807619b1cce56cb34f5bd467ad65e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/439/regulation/14) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
 [^f00006]: Footnote: [SR2003/497](https://www.legislation.gov.uk/nisr/2003/497)
 
-[^key-661e1ef927a615bc86f6d4fcb8403066]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/439/regulation/15) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-661e1ef927a615bc86f6d4fcb8403066]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/439/regulation/15) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-d34c98c9dee0c572271c09dc05eeb9d8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/439/regulation/16) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-d34c98c9dee0c572271c09dc05eeb9d8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/439/regulation/16) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-ce42442ed26c0b607aa325c12fca5f51]: Textual amendment: [Reg. 16(5)(c)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5/c) and word inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [163(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/163/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-ce42442ed26c0b607aa325c12fca5f51]: Textual amendment: [Reg. 16(5)(c)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5/c) and word inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [163(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/163/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-b68ea20d4684d63c8895fe941bea6c73]: Textual amendment: [Reg. 16(5)(ba)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5/ba) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/1/a)
+[^c-b68ea20d4684d63c8895fe941bea6c73]: Textual amendment: [Reg. 16(5)(ba)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5/ba) inserted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/1/a)
 
-[^key-4d5bbcbf4f5471d31d8fdf49f78d6cb2]: Textual amendment: [Reg. 16(5A)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [163(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/163/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4d5bbcbf4f5471d31d8fdf49f78d6cb2]: Textual amendment: [Reg. 16(5A)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [163(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/163/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-9bf14004fb4ec3629780a27c9d203e86]: Textual amendment: Words in [reg. 16(5A)(a)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5A/a) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/1/b)
+[^c-9bf14004fb4ec3629780a27c9d203e86]: Textual amendment: Words in [reg. 16(5A)(a)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/5A/a) substituted (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/1/b)
 
-[^key-bb6cab9949365cdd519e1a14a046b576]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/8) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [163(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/163/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-bb6cab9949365cdd519e1a14a046b576]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/8) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [163(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/163/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-43648c4d37004353ea578964abd2411e]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/8) inserted (1.6.2007) by [The Equality Act (Sexual Orientation) (Amendment No 2) Regulations (Northern Ireland) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [5(1)](https://www.legislation.gov.uk/nisr/2007/261/regulation/5/1)
+[^c-43648c4d37004353ea578964abd2411e]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/8) inserted (1.6.2007) by [The Equality Act (Sexual Orientation) (Amendment No 2) Regulations (Northern Ireland) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [5(1)](https://www.legislation.gov.uk/nisr/2007/261/regulation/5/1)
 
-[^key-be0ab386f76bee3f527d89e6bc0bc731]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/8) inserted (1.6.2007) by [The Equality Act (Sexual Orientation) (Amendment No 2) Regulations (Northern Ireland) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [5(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/5/2)
+[^c-be0ab386f76bee3f527d89e6bc0bc731]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/nisr/2006/439/regulation/16/8) inserted (1.6.2007) by [The Equality Act (Sexual Orientation) (Amendment No 2) Regulations (Northern Ireland) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [5(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/5/2)
 
-[^key-f58f9b4182b00cf438065d74898f0f1c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/439/regulation/17) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-f58f9b4182b00cf438065d74898f0f1c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/439/regulation/17) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-f0e47b1c9cee9d8dc85a35f693236853]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/439/regulation/18) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-f0e47b1c9cee9d8dc85a35f693236853]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/439/regulation/18) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-a64dfd9b35e04de7d2b7ad1230ae81a1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/439/regulation/19) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-a64dfd9b35e04de7d2b7ad1230ae81a1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/439/regulation/19) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-db2ce22888ab9c161fd70a370c716df3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/439/regulation/20) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-db2ce22888ab9c161fd70a370c716df3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/439/regulation/20) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-41ff560e0dce565ca8a2eacfdf773607]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/439/regulation/21) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-41ff560e0dce565ca8a2eacfdf773607]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/439/regulation/21) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-4f88fee0c3480d3fdf480f8dfc2be4d2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/439/regulation/22) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-4f88fee0c3480d3fdf480f8dfc2be4d2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/439/regulation/22) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-3f72067857968bec86c246a248d8a1ad]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/439/regulation/23) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-3f72067857968bec86c246a248d8a1ad]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/439/regulation/23) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-955ccca3ab901830b9c9a12adca002bc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/439/regulation/24) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-955ccca3ab901830b9c9a12adca002bc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/439/regulation/24) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-8fd0cbc45ade87db1ef1e0f84d225465]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/439/regulation/25) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-8fd0cbc45ade87db1ef1e0f84d225465]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/439/regulation/25) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-c352856544e9f9c6003884aa29eda7c0]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/439/regulation/26) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-c352856544e9f9c6003884aa29eda7c0]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/439/regulation/26) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-0f4639f01405ab5e07164426998620d6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/439/regulation/27) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-0f4639f01405ab5e07164426998620d6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/439/regulation/27) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-d13a4c7373c889964df0dbc350ca5fa4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/439/regulation/28) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-d13a4c7373c889964df0dbc350ca5fa4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/439/regulation/28) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-047a1918e363866fbdff501e64326b69]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/439/regulation/29) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-047a1918e363866fbdff501e64326b69]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/439/regulation/29) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-5826e2b87f3e9a918a2292819e82e1f9]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/29/2) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2007/261/regulation/6)
+[^c-5826e2b87f3e9a918a2292819e82e1f9]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/29/2) inserted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2007/261/regulation/6)
 
-[^key-7436b93b869f40a4d47d8683508a4b14]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/439/regulation/30) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-7436b93b869f40a4d47d8683508a4b14]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/439/regulation/30) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-65cfcb98373758461046c1940313fed1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/439/regulation/31) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-65cfcb98373758461046c1940313fed1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/439/regulation/31) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-b379c5c27be204d421b7fe854c9642d5]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/439/regulation/32) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-b379c5c27be204d421b7fe854c9642d5]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/439/regulation/32) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-059f4be50cbb5c7ed3816a052a0835f2]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/439/regulation/33) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-059f4be50cbb5c7ed3816a052a0835f2]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/439/regulation/33) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-de04b4b8c96f27f9975ebb192c6c4d0e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/439/regulation/34) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-de04b4b8c96f27f9975ebb192c6c4d0e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/439/regulation/34) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-d8bb8996ce6a7440f9e420f4300cd9c2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/439/regulation/35) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-d8bb8996ce6a7440f9e420f4300cd9c2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/439/regulation/35) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-19426fbfeb556dbcfe89d895662592f9]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/439/regulation/36) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-19426fbfeb556dbcfe89d895662592f9]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/439/regulation/36) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
 [^f00007]: Footnote: [SR 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)
 
-[^key-a851f8840942c83b8b62f2fc97fa69d5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/439/regulation/37) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-a851f8840942c83b8b62f2fc97fa69d5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/439/regulation/37) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-835c36e08b436829045eed84f058c651]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/439/regulation/38) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-835c36e08b436829045eed84f058c651]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/439/regulation/38) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-d3267dba4ebd2856987b1cec04f469c4]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/439/regulation/39) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-d3267dba4ebd2856987b1cec04f469c4]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/439/regulation/39) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-4adfaf55ba989969d1508b55aa50ce13]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/439/regulation/40) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-4adfaf55ba989969d1508b55aa50ce13]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/439/regulation/40) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-dbceb126f5f06a37594e11449017a658]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/439/regulation/41) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-dbceb126f5f06a37594e11449017a658]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/439/regulation/41) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-a3080bcc59ee333fbad10adff8d583f3]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/439/regulation/42) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-a3080bcc59ee333fbad10adff8d583f3]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/439/regulation/42) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-817e0ff2c2ec56112cd726fc7b61d68c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/439/regulation/43) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-817e0ff2c2ec56112cd726fc7b61d68c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/439/regulation/43) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-f613533ead23f87cf2330da232135c9b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/439/regulation/44) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-f613533ead23f87cf2330da232135c9b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/439/regulation/44) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-55935deb77d5f3ea65cee34b4a9cdab5]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/439/regulation/45) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-55935deb77d5f3ea65cee34b4a9cdab5]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/439/regulation/45) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
 [^f00008]: Footnote: [SR 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
-[^key-11b416a68fe556f9bde548250e150fe6]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/439/regulation/46) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-11b416a68fe556f9bde548250e150fe6]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/439/regulation/46) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-845da2ac14503d2a3135bf00341d7867]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/439/regulation/47) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-845da2ac14503d2a3135bf00341d7867]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/439/regulation/47) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-e3142d867833a51361ffa1aec6a9147d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2006/439/regulation/48) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-e3142d867833a51361ffa1aec6a9147d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2006/439/regulation/48) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-bbd886a0b3ede07c5368f2a786b1565e]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/439/regulation/49) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-bbd886a0b3ede07c5368f2a786b1565e]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/439/regulation/49) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-0ca15a0a9073b3b04ab757cd5990947a]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/439/regulation/50) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-0ca15a0a9073b3b04ab757cd5990947a]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/439/regulation/50) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-f2fa4809dacae20079433e3ab4c48944]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2006/439/regulation/51) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-f2fa4809dacae20079433e3ab4c48944]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2006/439/regulation/51) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-0de2856f2e2d41c60001d0f22962c727]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/439/regulation/52) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-0de2856f2e2d41c60001d0f22962c727]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/439/regulation/52) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-8958345c5c6bbd5e9265325b28f2df3f]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/52/2) substituted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2007/261/regulation/7)
+[^c-8958345c5c6bbd5e9265325b28f2df3f]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/52/2) substituted (1.6.2007) by [THE EQUALITY ACT (SEXUAL ORIENTATION) (AMENDMENT No 2) REGULATIONS (NORTHERN IRELAND) 2007 (S.R. 2007/261)](https://www.legislation.gov.uk/nisr/2007/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/261/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2007/261/regulation/7)
 
-[^key-a2f9b57beffa6c8b510f0ce29193db3e]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2006/439/regulation/53) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-a2f9b57beffa6c8b510f0ce29193db3e]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2006/439/regulation/53) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
 [^f00009]: Footnote: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44)
 
 [^f00010]: Footnote: [1975 c.24](https://www.legislation.gov.uk/ukpga/1975/24)
 
-[^key-58b6894c5389f3d5ed367404c67cf6ed]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2006/439/regulation/54) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-58b6894c5389f3d5ed367404c67cf6ed]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2006/439/regulation/54) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-39c4e8ca68fd73b5b41831a9a85ba91b]: Commencement: [Sch. I](https://www.legislation.gov.uk/nisr/2006/439/schedule/I) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-39c4e8ca68fd73b5b41831a9a85ba91b]: Commencement: [Sch. I](https://www.legislation.gov.uk/nisr/2006/439/schedule/I) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
 
-[^key-dab421ad177e2557002e3675fbd74e6f]: Commencement: [Sch. II](https://www.legislation.gov.uk/nisr/2006/439/schedule/II) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)
+[^c-dab421ad177e2557002e3675fbd74e6f]: Commencement: [Sch. II](https://www.legislation.gov.uk/nisr/2006/439/schedule/II) in operation at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/439/regulation/1/2)

@@ -29,9 +29,9 @@ summary: ''
 - (a) a Northern Ireland department;
 - (b) a department of the Government of the United Kingdom;
 - (c) a district council;
-- (d) a statutory undertaker (within the meaning of the Planning Act (Northern Ireland) 2011[^key-97057f7355274cc60f43cd1b948cb559]); or
+- (d) a statutory undertaker (within the meaning of the Planning Act (Northern Ireland) 2011[^c-97057f7355274cc60f43cd1b948cb559]); or
 - (e) any other body established or constituted under a statutory provision.
 
 ## Annotations
 
-[^key-97057f7355274cc60f43cd1b948cb559]: Textual amendment: Words in art. 38(3)(d) substituted (13.2.2015 for specified purposes) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 95](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/95) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2, Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/article/2)
+[^c-97057f7355274cc60f43cd1b948cb559]: Textual amendment: Words in art. 38(3)(d) substituted (13.2.2015 for specified purposes) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 95](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/95) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2, Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/article/2)

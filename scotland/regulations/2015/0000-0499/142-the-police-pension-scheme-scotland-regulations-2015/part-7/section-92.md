@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Entitlement to payment of ill-health pension[^key-ff3594565e60b1632c046c80554fc1ef]
+## 92. Entitlement to payment of ill-health pension[^c-ff3594565e60b1632c046c80554fc1ef]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3594565e60b1632c046c80554fc1ef]: Commencement: Reg. 92 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ff3594565e60b1632c046c80554fc1ef]: Commencement: Reg. 92 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

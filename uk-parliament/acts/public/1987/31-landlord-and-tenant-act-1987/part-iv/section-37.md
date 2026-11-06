@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this section, an application may be made to the appropriate tribunal[^key-2e8a8b934a5d935866316735c9fc76d8] in respect of two or more leases for an order varying each of those leases in such manner as is specified in the application.
+(1) Subject to the following provisions of this section, an application may be made to the appropriate tribunal[^c-2e8a8b934a5d935866316735c9fc76d8] in respect of two or more leases for an order varying each of those leases in such manner as is specified in the application.
 
 (2) Those leases must be long leases of flats under which the landlord is the same person, but they need not be leases of flats which are in the same building, nor leases which are drafted in identical terms.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8a8b934a5d935866316735c9fc76d8]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/1987/31/section/37/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/76) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-2e8a8b934a5d935866316735c9fc76d8]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/1987/31/section/37/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/76) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

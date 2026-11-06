@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Amendment of regulation 15[^key-53f7e0277e83c85698d83e7d58bff0f1]
+## 32. Amendment of regulation 15[^c-53f7e0277e83c85698d83e7d58bff0f1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 15 (under-provision of units of dental activity or units of orthod
 
 ## Annotations
 
-[^key-53f7e0277e83c85698d83e7d58bff0f1]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/364/regulation/32) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-53f7e0277e83c85698d83e7d58bff0f1]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/364/regulation/32) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

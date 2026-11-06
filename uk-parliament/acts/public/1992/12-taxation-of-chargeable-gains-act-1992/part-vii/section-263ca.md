@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263CA. Stock lending: insolvency etc of borrower[^key-8326ee60fc791dc0f48ef7dab5765d94]
+## 263CA. Stock lending: insolvency etc of borrower[^c-8326ee60fc791dc0f48ef7dab5765d94]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,8 +55,8 @@ summary: ''
 - (b) if an administration application (within the meaning of Schedule B1 to that Act) is made or a receiver or manager, or an administrative receiver, is appointed,
 - (c) on the commencement of a creditor's voluntary winding up (within the meaning of Part 4 of that Act) or a winding up by the court under Chapter 6 of that Part,
 - (d) if an individual voluntary arrangement takes effect under Part 8 of that Act,
-- (e) on bankruptcy application made or[^key-991123b15dab5827557ab52d47adadf2] the presentation of a bankruptcy petition (within the meaning of Part 9 of that Act),
-- (f) if a compromise or arrangement takes effect under Part 26 or 26A[^key-b12bd38adfe02db895eacdb5ed7fa93c] of the Companies Act 2006,
+- (e) on bankruptcy application made or[^c-991123b15dab5827557ab52d47adadf2] the presentation of a bankruptcy petition (within the meaning of Part 9 of that Act),
+- (f) if a compromise or arrangement takes effect under Part 26 or 26A[^c-b12bd38adfe02db895eacdb5ed7fa93c] of the Companies Act 2006,
 - (g) if a bank insolvency order takes effect under Part 2 of the Banking Act 2009,
 - (h) if a bank administration order takes effect under Part 3 of that Act, or
 - (i) on the occurrence of any corresponding event which has effect under or as a result of the law of Scotland or Northern Ireland or a country or territory outside the United Kingdom.
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8326ee60fc791dc0f48ef7dab5765d94]: Textual amendment: S. 263CA inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/3) (with [Sch. 13 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/4/3))
+[^c-8326ee60fc791dc0f48ef7dab5765d94]: Textual amendment: S. 263CA inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/3) (with [Sch. 13 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/13/paragraph/4/3))
 
-[^key-991123b15dab5827557ab52d47adadf2]: Textual amendment: Words in s. 263CA(9)(e) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/10)
+[^c-991123b15dab5827557ab52d47adadf2]: Textual amendment: Words in s. 263CA(9)(e) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/10)
 
-[^key-b12bd38adfe02db895eacdb5ed7fa93c]: Textual amendment: Words in [s. 263CA(9)(f)](https://www.legislation.gov.uk/ukpga/1992/12/section/263CA/9/f) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-b12bd38adfe02db895eacdb5ed7fa93c]: Textual amendment: Words in [s. 263CA(9)(f)](https://www.legislation.gov.uk/ukpga/1992/12/section/263CA/9/f) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -293,7 +293,7 @@ the regulator may serve a remediation notice on any other person who appears to 
 
 (2) For the purposes of this paragraph, the specific condition is that an application for a marine licence has been made in respect of that activity.
 
-##### 5. Ladders, scaffold towers and other similar apparatus[^key-820b11e39e4c0145551789b69b464d90]
+##### 5. Ladders, scaffold towers and other similar apparatus[^c-820b11e39e4c0145551789b69b464d90]
 
 (1) The erection and use of ladders, scaffold towers and other similar apparatus used for access, maintenance or repair[^M_F_dfa56206-e9eb-4353-cb82-ad5136e5d21d] (“equipment”).
 
@@ -310,7 +310,7 @@ the regulator may serve a remediation notice on any other person who appears to 
 (2) For the purposes of this paragraph, the specific conditions are—
 
 - (a) the crossing is entirely within the original profile of the existing structure,
-- (b) the regulator has not sent a notification to the landowner that the structure has been identified for removal or modification in order to achieve the environmental objectives in relation to a river basin district[^key-72e416a224132b6d57ce9c2b76352a1d],
+- (b) the regulator has not sent a notification to the landowner that the structure has been identified for removal or modification in order to achieve the environmental objectives in relation to a river basin district[^c-72e416a224132b6d57ce9c2b76352a1d],
 - (c) equipment associated with the works is not stored on the bed or banks of the main river, and
 - (d) no works are carried out from the main river or from the banks of the main river.
 
@@ -410,8 +410,8 @@ the regulator may serve a remediation notice on any other person who appears to 
 
 [^c23194131]: Marginal citation: These Directions were made on 9th September 2015 in exercise of powers in section 40(2) of the 1995 Act and are available at http://www.legislation.gov.uk/uksi/2015/1623/pdfs/uksiod\_20151623\_en.pdf. A copy may be obtained from the Flood Risk Management Team, the Department for Environment, Food and Rural Affairs, Area 3C, Nobel House, 17 Smith Square, London SW1P 3JR.
 
-[^key-820b11e39e4c0145551789b69b464d90]: Textual amendment: Sch. 25 Pt. 2 para. 5 heading substituted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(7)(a)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/7/a)
+[^c-820b11e39e4c0145551789b69b464d90]: Textual amendment: Sch. 25 Pt. 2 para. 5 heading substituted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(7)(a)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/7/a)
 
 [^M_F_dfa56206-e9eb-4353-cb82-ad5136e5d21d]: Textual amendment: Words in Sch. 25 Pt. 2 para. 5(1) substituted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/7/a)
 
-[^key-72e416a224132b6d57ce9c2b76352a1d]: Textual amendment: Words in [Sch. 25 Pt. 2 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25/part/2/paragraph/6/2/b) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(26)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72e416a224132b6d57ce9c2b76352a1d]: Textual amendment: Words in [Sch. 25 Pt. 2 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25/part/2/paragraph/6/2/b) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(26)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

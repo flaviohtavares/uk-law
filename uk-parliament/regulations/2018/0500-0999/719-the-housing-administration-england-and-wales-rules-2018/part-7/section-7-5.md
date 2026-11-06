@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.5. Prescribed format of documents[^key-e787f25bda0238f8313c42c705fb7034]
+## 7.5. Prescribed format of documents[^c-e787f25bda0238f8313c42c705fb7034]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e787f25bda0238f8313c42c705fb7034]: Commencement: Rule 7.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-e787f25bda0238f8313c42c705fb7034]: Commencement: Rule 7.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

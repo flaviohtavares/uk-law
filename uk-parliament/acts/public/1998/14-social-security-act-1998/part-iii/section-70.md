@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 70. Discretionary payments out of social fund[^key-b03244babf3c553965690bf3f8458ff3]
+## 70. Discretionary payments out of social fund[^c-b03244babf3c553965690bf3f8458ff3]
 
 (1) For subsection (1) of section 138 of the Contributions and Benefits Act (payments out of social fund) there shall be substituted the following subsection—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b03244babf3c553965690bf3f8458ff3]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/1998/14/section/70) in force at 5.4.1999 by [S.I. 1999/1055](https://www.legislation.gov.uk/uksi/1999/1055), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1055/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/1055/article/3))
+[^c-b03244babf3c553965690bf3f8458ff3]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/1998/14/section/70) in force at 5.4.1999 by [S.I. 1999/1055](https://www.legislation.gov.uk/uksi/1999/1055), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1055/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/1055/article/3))

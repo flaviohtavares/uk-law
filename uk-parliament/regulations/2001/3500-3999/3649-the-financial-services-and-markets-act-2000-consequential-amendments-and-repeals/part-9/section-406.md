@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 406. Investments Approved for the purposes of Part IV of the Local Government and Housing Act 1989[^key-b7d9d2e9635e69c981dbb1c74e301d77]
+## 406. Investments Approved for the purposes of Part IV of the Local Government and Housing Act 1989[^c-b7d9d2e9635e69c981dbb1c74e301d77]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7d9d2e9635e69c981dbb1c74e301d77]: Commencement: Art. 406 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b7d9d2e9635e69c981dbb1c74e301d77]: Commencement: Art. 406 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00294]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).

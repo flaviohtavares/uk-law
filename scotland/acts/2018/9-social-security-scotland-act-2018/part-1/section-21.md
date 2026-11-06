@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Scottish Commission on Social Security is established.
 
-(2)[^key-97d2e825e74a356d5c013f4f94545e33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-97d2e825e74a356d5c013f4f94545e33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Schedule 1 makes further provision about the Commission.
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^M_I_15ac8262-4e05-4996-ab50-1fd6f9ee70b4]: Commencement: S. 21 in force at 21.1.2019 by [S.S.I. 2018/393](https://www.legislation.gov.uk/ssi/2018/393), [reg. 2](https://www.legislation.gov.uk/ssi/2018/393/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/393/regulation/3)) (as amended (10.12.2019) by [S.S.I. 2019/406](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/3/2))
 
-[^key-97d2e825e74a356d5c013f4f94545e33]: Textual amendment: [S. 21(2)](https://www.legislation.gov.uk/asp/2018/9/section/21/2) repealed (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 21(2)](https://www.legislation.gov.uk/asp/2025/2/section/21/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-97d2e825e74a356d5c013f4f94545e33]: Textual amendment: [S. 21(2)](https://www.legislation.gov.uk/asp/2018/9/section/21/2) repealed (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 21(2)](https://www.legislation.gov.uk/asp/2025/2/section/21/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

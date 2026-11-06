@@ -253,7 +253,7 @@ Regulation (EC) No 469/2009 is amended as follows:
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-1b45352b95931323f7b5642740ab9c4d]...
+[^c-1b45352b95931323f7b5642740ab9c4d]...
 
 Done at Brussels, 20 May 2019.
 
@@ -322,4 +322,4 @@ The following Annexes are inserted:
 
 [^f00010]: Footnote: Commission Delegated Regulation (EU) 2016/161 of 2 October 2015 supplementing Directive 2001/83/EC of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use ([OJ L 32, 9.2.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.032.01.0001.01.ENG)).’;
 
-[^key-1b45352b95931323f7b5642740ab9c4d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/933/signature) omitted (31.12.2020) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/41/2)
+[^c-1b45352b95931323f7b5642740ab9c4d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/933/signature) omitted (31.12.2020) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/41/2)

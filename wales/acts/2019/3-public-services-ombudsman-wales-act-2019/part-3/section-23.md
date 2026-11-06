@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Reports of investigations[^key-9c6d609e378eca3b6da84eb5519eb1d7]
+## 23. Reports of investigations[^c-9c6d609e378eca3b6da84eb5519eb1d7]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ that information must not be included in a version of the report sent to a perso
 
 ## Annotations
 
-[^key-9c6d609e378eca3b6da84eb5519eb1d7]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2019/3/section/23) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-9c6d609e378eca3b6da84eb5519eb1d7]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2019/3/section/23) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

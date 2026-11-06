@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Exclusion of rights to return of contributions[^key-55637cde299e5a5753923b279f539330]
+## 47. Exclusion of rights to return of contributions[^c-55637cde299e5a5753923b279f539330]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55637cde299e5a5753923b279f539330]: Commencement: Reg. 47 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-55637cde299e5a5753923b279f539330]: Commencement: Reg. 47 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

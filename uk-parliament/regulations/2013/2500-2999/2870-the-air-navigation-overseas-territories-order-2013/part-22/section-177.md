@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Endangering safety of any person or property[^key-72de203eb0ea98ce7e8629c36a18083b]
+## 177. Endangering safety of any person or property[^c-72de203eb0ea98ce7e8629c36a18083b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not recklessly or negligently cause or permit an aircraft to endan
 
 ## Annotations
 
-[^key-72de203eb0ea98ce7e8629c36a18083b]: Commencement: [Art. 177](https://www.legislation.gov.uk/uksi/2013/2870/article/177) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-72de203eb0ea98ce7e8629c36a18083b]: Commencement: [Art. 177](https://www.legislation.gov.uk/uksi/2013/2870/article/177) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

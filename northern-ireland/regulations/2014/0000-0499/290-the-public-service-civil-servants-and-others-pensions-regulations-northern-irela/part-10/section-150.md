@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 150. Request for acceptance of a transfer payment[^key-6fb39d10bfa9c3569c8cbda5281e56dc]
+## 150. Request for acceptance of a transfer payment[^c-6fb39d10bfa9c3569c8cbda5281e56dc]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
   - (i) the pension scheme from which the transfer payment is requested to be made; and
   - (ii) the anticipated amount of the transfer payment;
 - (b) must meet any other conditions the scheme manager requires; and
-- (c) subject to paragraph (3), must be made during the period of 12 months beginning with the day on which P commences service in scheme employment[^key-84d82a39308cc91cd2a9744af1babf90] .
+- (c) subject to paragraph (3), must be made during the period of 12 months beginning with the day on which P commences service in scheme employment[^c-84d82a39308cc91cd2a9744af1babf90] .
 
 (3) A request that a transfer payment be accepted from the Northern Ireland Civil Service Additional Voluntary Contribution Scheme must be made—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fb39d10bfa9c3569c8cbda5281e56dc]: Commencement: [Reg. 150](https://www.legislation.gov.uk/nisr/2014/290/regulation/150) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-6fb39d10bfa9c3569c8cbda5281e56dc]: Commencement: [Reg. 150](https://www.legislation.gov.uk/nisr/2014/290/regulation/150) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-84d82a39308cc91cd2a9744af1babf90]: Textual amendment: Words in [reg. 150(2)(c)](https://www.legislation.gov.uk/nisr/2014/290/regulation/150/2/c) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(12)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/12)
+[^c-84d82a39308cc91cd2a9744af1babf90]: Textual amendment: Words in [reg. 150(2)(c)](https://www.legislation.gov.uk/nisr/2014/290/regulation/150/2/c) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(12)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/12)

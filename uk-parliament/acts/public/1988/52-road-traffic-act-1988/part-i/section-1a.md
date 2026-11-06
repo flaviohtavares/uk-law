@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Causing serious injury by dangerous driving[^key-ef75cef0575d8b7dfa71aecf62b5a888]
+## 1A. Causing serious injury by dangerous driving[^c-ef75cef0575d8b7dfa71aecf62b5a888]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef75cef0575d8b7dfa71aecf62b5a888]: Textual amendment: S. 1A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 143(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 143(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/4)); [S.I. 2012/2770](https://www.legislation.gov.uk/uksi/2012/2770), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2770/article/2/b)
+[^c-ef75cef0575d8b7dfa71aecf62b5a888]: Textual amendment: S. 1A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 143(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 143(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/4)); [S.I. 2012/2770](https://www.legislation.gov.uk/uksi/2012/2770), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2770/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Determination of destinations for small pots[^key-68eba3a4ae99dee2be66407c13289ced]
+## 23. Determination of destinations for small pots[^c-68eba3a4ae99dee2be66407c13289ced]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ In this subsection “**specified**” means specified in the proposal.
 
 ## Annotations
 
-[^key-68eba3a4ae99dee2be66407c13289ced]: Commencement: S. 23 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-68eba3a4ae99dee2be66407c13289ced]: Commencement: S. 23 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

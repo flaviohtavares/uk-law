@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-0ab9ceed4d3fe0a0f6e8be2874d62502] For the purposes of—
+(1)[^c-0ab9ceed4d3fe0a0f6e8be2874d62502] For the purposes of—
 
 - (a) any of their functions under this or any other enactment, or
 - (b) the benefit, improvement or development of their area,
@@ -41,7 +41,7 @@ a local authority may acquire by agreement any land, whether situated inside or 
 
 [^c9672671]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/1973/65/section/70) extended by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/1987/26/section/10/1), [335](https://www.legislation.gov.uk/ukpga/1987/26/section/335)
 
-[^key-0ab9ceed4d3fe0a0f6e8be2874d62502]: Modification: [S. 70(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/70/1) modified (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [ss. 101](https://www.legislation.gov.uk/asp/2016/20/section/101), [112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
+[^c-0ab9ceed4d3fe0a0f6e8be2874d62502]: Modification: [S. 70(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/70/1) modified (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [ss. 101](https://www.legislation.gov.uk/asp/2016/20/section/101), [112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
 
 [^c9672691]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.37. Application for an order under section 1 of the Police (Property) Act 1897[^key-2ccd8dd73c757ef6e8ea2b90dee5cee7]
+## 47.37. Application for an order under section 1 of the Police (Property) Act 1897[^c-2ccd8dd73c757ef6e8ea2b90dee5cee7]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ccd8dd73c757ef6e8ea2b90dee5cee7]: Commencement: Rule 47.37 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2ccd8dd73c757ef6e8ea2b90dee5cee7]: Commencement: Rule 47.37 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

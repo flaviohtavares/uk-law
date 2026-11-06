@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 410. Enforcement of the 1990 Regulations[^key-218dc80a3058194c917111126e7e7f02]
+## 410. Enforcement of the 1990 Regulations[^c-218dc80a3058194c917111126e7e7f02]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 11 of the Insurance Companies (Legal Expenses Insurance) Regulatio
 
 ## Annotations
 
-[^key-218dc80a3058194c917111126e7e7f02]: Commencement: Art. 410 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-218dc80a3058194c917111126e7e7f02]: Commencement: Art. 410 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

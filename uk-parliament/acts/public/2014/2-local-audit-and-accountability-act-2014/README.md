@@ -34,7 +34,7 @@ An Act to make provision for and in connection with the abolition of the Audit C
 
 \[30th January 2014\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-49a5a9ac0aaf300d5de9b54e055cfe43][^key-8d451fc2712dd31dc840ffd9ef432985][^key-e9386d6e95ada2afd451eefcc88fd85e][^key-01925f71bd02ff4335d2e2cd61c78b64][^key-4aae3e24213b852506f9ea671b144dd5][^key-2ea95327c36bc12688902a1fa37edc01][^key-4f6a5750b8d8c56dd6eefe262a7f64ae][^key-273bc9c919bb4e4f557aa2331bcc3e3f][^key-a30da808603741bf6fc1f1c879da736e][^key-b109dc5c1b1d19553e2a40923e1c38ce][^key-4d31af6d7ea3a2143bb6348a59135a55][^key-7aef35e08f2f326ac2d8ff11a8424f46][^key-7ab66fadd9d2418ae31d168eccdb224c]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-49a5a9ac0aaf300d5de9b54e055cfe43][^c-8d451fc2712dd31dc840ffd9ef432985][^c-e9386d6e95ada2afd451eefcc88fd85e][^c-01925f71bd02ff4335d2e2cd61c78b64][^c-4aae3e24213b852506f9ea671b144dd5][^c-2ea95327c36bc12688902a1fa37edc01][^c-4f6a5750b8d8c56dd6eefe262a7f64ae][^c-273bc9c919bb4e4f557aa2331bcc3e3f][^c-a30da808603741bf6fc1f1c879da736e][^c-b109dc5c1b1d19553e2a40923e1c38ce][^c-4d31af6d7ea3a2143bb6348a59135a55][^c-7aef35e08f2f326ac2d8ff11a8424f46][^c-7ab66fadd9d2418ae31d168eccdb224c]
 
 ## Contents
 
@@ -44,7 +44,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1 — Abolition of existing audit regime](part-1/section-1.md)
 
-### Part 1A — The Local Audit Office[^key-d689777b59ea230db37999d939f7cf9b]
+### Part 1A — The Local Audit Office[^c-d689777b59ea230db37999d939f7cf9b]
 
 - [Section 1A — Establishment and constitution](part-1a/section-1a.md)
 - [Section 1B — Main objective](part-1a/section-1b.md)
@@ -61,7 +61,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 5 — Modification of Act in relation to category 2 authorities](part-2/section-5.md)
 - [Section 6 — Meaning of “category 2 authority”](part-2/section-6.md)
 
-### Part 2A — Providers of audit services[^key-dce2fcccd23494fb76c982d335eb4e31]
+### Part 2A — Providers of audit services[^c-dce2fcccd23494fb76c982d335eb4e31]
 
 - [Section 6A — Local audit register](part-2a/section-6a.md)
 - [Section 6B — External registration bodies](part-2a/section-6b.md)
@@ -128,28 +128,28 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 32 — Accounts and audit regulations](part-5/section-32.md)
 
-### Part 5A — Local audit: further provision[^key-0620f9600952e1127bee5ffd462e0f76]
+### Part 5A — Local audit: further provision[^c-0620f9600952e1127bee5ffd462e0f76]
 
-#### Independence of auditors[^key-0620f9600952e1127bee5ffd462e0f76]
+#### Independence of auditors[^c-0620f9600952e1127bee5ffd462e0f76]
 
 - [Section 32B — Independence requirement](part-5a/section-32b.md)
 - [Section 32C — Lack of independence arising after appointment](part-5a/section-32c.md)
 
-#### Second audits[^key-0620f9600952e1127bee5ffd462e0f76]
+#### Second audits[^c-0620f9600952e1127bee5ffd462e0f76]
 
 - [Section 32D — Second audits where first auditor ineligible](part-5a/section-32d.md)
 
-#### Partnerships[^key-0620f9600952e1127bee5ffd462e0f76]
+#### Partnerships[^c-0620f9600952e1127bee5ffd462e0f76]
 
 - [Section 32E — Effect of appointing a partnership](part-5a/section-32e.md)
 
-#### Miscellaneous powers and duties[^key-0620f9600952e1127bee5ffd462e0f76]
+#### Miscellaneous powers and duties[^c-0620f9600952e1127bee5ffd462e0f76]
 
 - [Section 32F — Power of Local Audit Office to obtain information from relevant authorities](part-5a/section-32f.md)
 - [Section 32G — Inspection of accounts by persons exercising regulatory functions](part-5a/section-32g.md)
 - [Section 32H — Duty of Local Audit Office to publish summaries of inspections](part-5a/section-32h.md)
 
-#### Offences of deception etc[^key-0620f9600952e1127bee5ffd462e0f76]
+#### Offences of deception etc[^c-0620f9600952e1127bee5ffd462e0f76]
 
 - [Section 32I — False or misleading information](part-5a/section-32i.md)
 - [Section 32J — Wrongful holding out](part-5a/section-32j.md)
@@ -213,34 +213,34 @@ SCHEDULES
 
 ## Annotations
 
-[^key-49a5a9ac0aaf300d5de9b54e055cfe43]: Modification: Act applied (10.2.2015) by [The Local Audit (Appointing Person) Regulations 2015 (S.I. 2015/192)](https://www.legislation.gov.uk/uksi/2015/192), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2015/192/schedule/part/1), [2](https://www.legislation.gov.uk/uksi/2015/192/schedule/part/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/2))
+[^c-49a5a9ac0aaf300d5de9b54e055cfe43]: Modification: Act applied (10.2.2015) by [The Local Audit (Appointing Person) Regulations 2015 (S.I. 2015/192)](https://www.legislation.gov.uk/uksi/2015/192), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2015/192/schedule/part/1), [2](https://www.legislation.gov.uk/uksi/2015/192/schedule/part/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/2))
 
-[^key-8d451fc2712dd31dc840ffd9ef432985]: Modification: Act applied (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [art. 11](https://www.legislation.gov.uk/uksi/2017/558/article/11)
+[^c-8d451fc2712dd31dc840ffd9ef432985]: Modification: Act applied (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [art. 11](https://www.legislation.gov.uk/uksi/2017/558/article/11)
 
-[^key-e9386d6e95ada2afd451eefcc88fd85e]: Modification: Act modified (25.5.2018) by [The East Suffolk (Local Government Changes) Order 2018 (S.I. 2018/640)](https://www.legislation.gov.uk/uksi/2018/640), [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2018/640/article/17/2/a)
+[^c-e9386d6e95ada2afd451eefcc88fd85e]: Modification: Act modified (25.5.2018) by [The East Suffolk (Local Government Changes) Order 2018 (S.I. 2018/640)](https://www.legislation.gov.uk/uksi/2018/640), [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2018/640/article/17/2/a)
 
-[^key-01925f71bd02ff4335d2e2cd61c78b64]: Modification: Act modified (25.5.2018) by [The West Suffolk (Local Government Changes) Order 2018 (S.I. 2018/639)](https://www.legislation.gov.uk/uksi/2018/639), [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2018/639/article/17/2/a)
+[^c-01925f71bd02ff4335d2e2cd61c78b64]: Modification: Act modified (25.5.2018) by [The West Suffolk (Local Government Changes) Order 2018 (S.I. 2018/639)](https://www.legislation.gov.uk/uksi/2018/639), [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2018/639/article/17/2/a)
 
-[^key-4aae3e24213b852506f9ea671b144dd5]: Modification: Act modified (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [art. 36(2)(a)](https://www.legislation.gov.uk/uksi/2018/648/article/36/2/a)
+[^c-4aae3e24213b852506f9ea671b144dd5]: Modification: Act modified (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [art. 36(2)(a)](https://www.legislation.gov.uk/uksi/2018/648/article/36/2/a)
 
-[^key-2ea95327c36bc12688902a1fa37edc01]: Modification: Act modified (26.5.2018) by [The Somerset West and Taunton (Local Government Changes) Order 2018 (S.I. 2018/649)](https://www.legislation.gov.uk/uksi/2018/649), [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2018/649/article/17/2/a)
+[^c-2ea95327c36bc12688902a1fa37edc01]: Modification: Act modified (26.5.2018) by [The Somerset West and Taunton (Local Government Changes) Order 2018 (S.I. 2018/649)](https://www.legislation.gov.uk/uksi/2018/649), [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2018/649/article/17/2/a)
 
-[^key-4f6a5750b8d8c56dd6eefe262a7f64ae]: Modification: Act modified (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [art. 21(2)(a)](https://www.legislation.gov.uk/uksi/2018/648/article/21/2/a)
+[^c-4f6a5750b8d8c56dd6eefe262a7f64ae]: Modification: Act modified (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [art. 21(2)(a)](https://www.legislation.gov.uk/uksi/2018/648/article/21/2/a)
 
-[^key-273bc9c919bb4e4f557aa2331bcc3e3f]: Modification: Act modified (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/957/article/15/2)
+[^c-273bc9c919bb4e4f557aa2331bcc3e3f]: Modification: Act modified (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/957/article/15/2)
 
-[^key-a30da808603741bf6fc1f1c879da736e]: Modification: Act modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), arts. 1, [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/156/article/17/2/a)
+[^c-a30da808603741bf6fc1f1c879da736e]: Modification: Act modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), arts. 1, [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/156/article/17/2/a)
 
-[^key-b109dc5c1b1d19553e2a40923e1c38ce]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1/2), [Sch. 5 para. 37](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/37)
+[^c-b109dc5c1b1d19553e2a40923e1c38ce]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1/2), [Sch. 5 para. 37](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/37)
 
-[^key-4d31af6d7ea3a2143bb6348a59135a55]: Modification: Act applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2022/331/article/18/2/a)
+[^c-4d31af6d7ea3a2143bb6348a59135a55]: Modification: Act applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2022/331/article/18/2/a)
 
-[^key-7aef35e08f2f326ac2d8ff11a8424f46]: Modification: Act applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/37)
+[^c-7aef35e08f2f326ac2d8ff11a8424f46]: Modification: Act applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/37)
 
-[^key-7ab66fadd9d2418ae31d168eccdb224c]: Modification: Act modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2026/264/article/28/2/a), [40(2)(a)](https://www.legislation.gov.uk/uksi/2026/264/article/40/2/a)
+[^c-7ab66fadd9d2418ae31d168eccdb224c]: Modification: Act modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2026/264/article/28/2/a), [40(2)(a)](https://www.legislation.gov.uk/uksi/2026/264/article/40/2/a)
 
-[^key-d689777b59ea230db37999d939f7cf9b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/ukpga/2014/2/part/1A) inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/89/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/b)
+[^c-d689777b59ea230db37999d939f7cf9b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/ukpga/2014/2/part/1A) inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/89/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/b)
 
-[^key-dce2fcccd23494fb76c982d335eb4e31]: Textual amendment: Pt. 2A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/90/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-dce2fcccd23494fb76c982d335eb4e31]: Textual amendment: Pt. 2A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/90/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-0620f9600952e1127bee5ffd462e0f76]: Textual amendment: Pt. 5A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/21)
+[^c-0620f9600952e1127bee5ffd462e0f76]: Textual amendment: Pt. 5A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/21)

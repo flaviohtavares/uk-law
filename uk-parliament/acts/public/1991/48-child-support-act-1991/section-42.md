@@ -24,13 +24,13 @@ summary: ''
 
 (2) Those regulations may, for example, provide for the following to be special cases—
 
-- (a) each parent of a child is a non-resident parent[^key-485dc06a7a523b0448d6f9bba33653c3] in relation to the child;
+- (a) each parent of a child is a non-resident parent[^c-485dc06a7a523b0448d6f9bba33653c3] in relation to the child;
 - (b) there is more than one person who is a person with care in relation to the same child;
 - (c) there is more than one qualifying child in relation to the same non-resident parent but the person who is the person with care in relation to one of those children is not the person who is the person with care in relation to all of them;
 - (d) a person is a non-resident parent in relation to more than one child and the other parent of each of those children is not the same person;
 - (e) the person with care has care of more than one qualifying child and there is more than one non-resident parent in relation to those children;
 - (f) a qualifying child has his home in two or more separate households;
-- (g)[^key-01b536808b337f0e09484950d551d014] the same persons are the parents of two or more children and each parent is—
+- (g)[^c-01b536808b337f0e09484950d551d014] the same persons are the parents of two or more children and each parent is—
   - (i) a non-resident parent in relation to one or more of the children, and
   - (ii) a person with care in relation to one or more of the children.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-485dc06a7a523b0448d6f9bba33653c3]: Textual amendment: Words in Act substituted (31.1.2001 for specified purposes, 3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/3/paragraph/11/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2000/3354/article/2/1/b); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
+[^c-485dc06a7a523b0448d6f9bba33653c3]: Textual amendment: Words in Act substituted (31.1.2001 for specified purposes, 3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/3/paragraph/11/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2000/3354/article/2/1/b); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
 
-[^key-01b536808b337f0e09484950d551d014]: Textual amendment: [S. 42(2)(g)](https://www.legislation.gov.uk/ukpga/1991/48/section/42/2/g) inserted (8.10.2012) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/6/section/37), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/a)
+[^c-01b536808b337f0e09484950d551d014]: Textual amendment: [S. 42(2)(g)](https://www.legislation.gov.uk/ukpga/1991/48/section/42/2/g) inserted (8.10.2012) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/6/section/37), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/a)

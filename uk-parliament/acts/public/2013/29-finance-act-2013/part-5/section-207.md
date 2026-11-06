@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Meaning of “tax arrangements” and “abusive”[^key-512952119de832c3db73f8278c4f80b3][^key-09d7592ad45bc844679080b915f91632][^key-09d7592ad45bc844679080b915f91632]
+## 207. Meaning of “tax arrangements” and “abusive”[^c-512952119de832c3db73f8278c4f80b3][^c-09d7592ad45bc844679080b915f91632][^c-09d7592ad45bc844679080b915f91632]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ but in each case only if it is reasonable to assume that such a result was not t
 
 ## Annotations
 
-[^key-512952119de832c3db73f8278c4f80b3]: Modification: S. 207 modified (with effect in accordance with s. 10(7) of the amending Act) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/3) (with [s. 10(8)-(10)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/8))
+[^c-512952119de832c3db73f8278c4f80b3]: Modification: S. 207 modified (with effect in accordance with s. 10(7) of the amending Act) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/3) (with [s. 10(8)-(10)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/8))
 
-[^key-09d7592ad45bc844679080b915f91632]: Modification: Pt. 5 extended (with effect in accordance with s. 10(7) of the amending Act) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/1) (with [s. 10(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/7))
+[^c-09d7592ad45bc844679080b915f91632]: Modification: Pt. 5 extended (with effect in accordance with s. 10(7) of the amending Act) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/1) (with [s. 10(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/7))

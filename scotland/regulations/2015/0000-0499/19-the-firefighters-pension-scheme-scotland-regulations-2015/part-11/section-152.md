@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Notices etc[^key-e096f7535cc3783bdf1193c42f952d59]
+## 152. Notices etc[^c-e096f7535cc3783bdf1193c42f952d59]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any notice, information or document which an appellant (P) is entitled to receiv
 
 ## Annotations
 
-[^key-e096f7535cc3783bdf1193c42f952d59]: Commencement: [Reg. 152](https://www.legislation.gov.uk/ssi/2015/19/regulation/152) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-e096f7535cc3783bdf1193c42f952d59]: Commencement: [Reg. 152](https://www.legislation.gov.uk/ssi/2015/19/regulation/152) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.12. Preferential creditors[^key-21dff09fe135efe9d9ed039308b8a03c]
+## 11.12. Preferential creditors[^c-21dff09fe135efe9d9ed039308b8a03c]
 
 *Extent: E+W*
 
 (1) Subject as follows, the Rules in this Part apply with respect to any distribution made in the insolvency to preferential creditors, with such adaptations as are appropriate considering that such creditors are of a limited class.
 
-(2) The notice by the responsible insolvency practitioner under Rule 11.2, where a dividend is to be declared for preferential creditors, need only be given to those creditors in whose case he has reason to believe that their debts are preferential and public advertisement of the intended dividend need only be given if the insolvency practitioner thinks fit[^key-238604a4f1734865c40817de20f9deab].
+(2) The notice by the responsible insolvency practitioner under Rule 11.2, where a dividend is to be declared for preferential creditors, need only be given to those creditors in whose case he has reason to believe that their debts are preferential and public advertisement of the intended dividend need only be given if the insolvency practitioner thinks fit[^c-238604a4f1734865c40817de20f9deab].
 
 ## Annotations
 
-[^key-21dff09fe135efe9d9ed039308b8a03c]: Commencement: [Rule 11.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-21dff09fe135efe9d9ed039308b8a03c]: Commencement: [Rule 11.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-238604a4f1734865c40817de20f9deab]: Textual amendment: Words in [rule 11.12(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/11.12/2) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 140](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/140)
+[^c-238604a4f1734865c40817de20f9deab]: Textual amendment: Words in [rule 11.12(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/11.12/2) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 140](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/140)

@@ -45,10 +45,10 @@ summary: ''
 
 (6) For the purposes of this section, a member of a multinational group is a high tax member for an accounting period (“**the relevant period**”) if—
 
-- (a) the nominal tax rate that applies to the member[^key-cb1a5036fcf1317f17ec39a8d31f8c4d] is, or exceeds, 15% in the relevant period, and
-- (b) the effective tax rate of the standard members of that group in the territory in which the member is located[^key-74dab7010812904a9cfa5090a5c9740e] is, or exceeds, 15% in either, or both, of the accounting period that immediately preceded the relevant period and the accounting period immediately before that one.
+- (a) the nominal tax rate that applies to the member[^c-cb1a5036fcf1317f17ec39a8d31f8c4d] is, or exceeds, 15% in the relevant period, and
+- (b) the effective tax rate of the standard members of that group in the territory in which the member is located[^c-74dab7010812904a9cfa5090a5c9740e] is, or exceeds, 15% in either, or both, of the accounting period that immediately preceded the relevant period and the accounting period immediately before that one.
 
-(6A)[^key-8bb5b22df09620c2389c81cba82b7c15] But—
+(6A)[^c-8bb5b22df09620c2389c81cba82b7c15] But—
 
 - (a) for the purposes of subsection (6)(b), ignore any accounting period in which there was no standard member of the group in that territory to which the Pillar Two rules applied, and
 - (b) a standard member of a multinational group is always to be regarded as a high tax member for an accounting period if a transitional safe harbour election applies to it for that period.
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cb1a5036fcf1317f17ec39a8d31f8c4d]: Textual amendment: Words in [s. 150(6)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6/a) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/a/i)
+[^c-cb1a5036fcf1317f17ec39a8d31f8c4d]: Textual amendment: Words in [s. 150(6)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6/a) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/a/i)
 
-[^key-74dab7010812904a9cfa5090a5c9740e]: Textual amendment: Words in [s. 150(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6/b) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/a/ii)
+[^c-74dab7010812904a9cfa5090a5c9740e]: Textual amendment: Words in [s. 150(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6/b) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/a/ii)
 
-[^key-8bb5b22df09620c2389c81cba82b7c15]: Textual amendment: [S. 150(6A)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/b)
+[^c-8bb5b22df09620c2389c81cba82b7c15]: Textual amendment: [S. 150(6A)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/b)

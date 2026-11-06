@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Suppliers of fuel and fireplaces[^key-50362e300114d4f087e8e73331168aeb]
+## 15. Suppliers of fuel and fireplaces[^c-50362e300114d4f087e8e73331168aeb]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50362e300114d4f087e8e73331168aeb]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/20/section/15) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/b)
+[^c-50362e300114d4f087e8e73331168aeb]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/20/section/15) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/b)

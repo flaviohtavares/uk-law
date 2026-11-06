@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.22. Chair of the meeting[^key-766d0c21b2e17d4dd87ac426f879c27a]
+## 3.22. Chair of the meeting[^c-766d0c21b2e17d4dd87ac426f879c27a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The chair of a meeting of the members of the registered provider must be either 
 
 ## Annotations
 
-[^key-766d0c21b2e17d4dd87ac426f879c27a]: Commencement: Rule 3.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-766d0c21b2e17d4dd87ac426f879c27a]: Commencement: Rule 3.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

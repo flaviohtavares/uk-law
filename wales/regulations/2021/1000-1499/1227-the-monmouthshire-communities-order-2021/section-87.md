@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**87.**[^key-f6732468af7516f82a3bbe5d7c77caf9][^key-77c3310bf87ab86a836201fb1ea59dfe] The part of the community of Crucorney shown hatched on Map 67—
+**87.**[^c-f6732468af7516f82a3bbe5d7c77caf9][^c-77c3310bf87ab86a836201fb1ea59dfe] The part of the community of Crucorney shown hatched on Map 67—
 
 - (a) is transferred to the new community of Skenfrith;
 - (b) forms part of the new community ward of Llanvetherine;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6732468af7516f82a3bbe5d7c77caf9]: Commencement: Art. 87 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-f6732468af7516f82a3bbe5d7c77caf9]: Commencement: Art. 87 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-77c3310bf87ab86a836201fb1ea59dfe]: Commencement: [Art. 87](https://www.legislation.gov.uk/wsi/2021/1227/article/87) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-77c3310bf87ab86a836201fb1ea59dfe]: Commencement: [Art. 87](https://www.legislation.gov.uk/wsi/2021/1227/article/87) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

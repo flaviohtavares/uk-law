@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Examination for plating[^key-fcf27ceeac955a3f08f578a0e1ae5815]
+## 17. Examination for plating[^c-fcf27ceeac955a3f08f578a0e1ae5815]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcf27ceeac955a3f08f578a0e1ae5815]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/1478/regulation/17) omitted (5.3.1997) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/1997/263/regulation/9)
+[^c-fcf27ceeac955a3f08f578a0e1ae5815]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/1478/regulation/17) omitted (5.3.1997) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/1997/263/regulation/9)

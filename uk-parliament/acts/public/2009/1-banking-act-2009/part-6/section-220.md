@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Insolvency, &c.[^key-1e8ba7684339a9dbd85d23f7f2031ffd]
+## 220. Insolvency, &c.[^c-1e8ba7684339a9dbd85d23f7f2031ffd]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) The fact that an authorised bank is taken into temporary public ownership in accordance with section 13 does not itself prevent the bank from relying on section 213.
 
-(4A)[^key-3d065b4faacbfaff51a8f293f4bbd269] The fact that ownership of an authorised bank is transferred or otherwise changed as a result of a resolution instrument (or an instrument treated as a resolution instrument) does not itself prevent the bank from relying on section 213.
+(4A)[^c-3d065b4faacbfaff51a8f293f4bbd269] The fact that ownership of an authorised bank is transferred or otherwise changed as a result of a resolution instrument (or an instrument treated as a resolution instrument) does not itself prevent the bank from relying on section 213.
 
 (5) If an authorised bank enters insolvency (within the meaning of section 217(6)) it loses the right to rely on section 213.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e8ba7684339a9dbd85d23f7f2031ffd]: Commencement: S. 220 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-1e8ba7684339a9dbd85d23f7f2031ffd]: Commencement: S. 220 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
-[^key-3d065b4faacbfaff51a8f293f4bbd269]: Textual amendment: [S. 220(4A)](https://www.legislation.gov.uk/ukpga/2009/1/section/220/4A) inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/30); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-3d065b4faacbfaff51a8f293f4bbd269]: Textual amendment: [S. 220(4A)](https://www.legislation.gov.uk/ukpga/2009/1/section/220/4A) inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/30); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

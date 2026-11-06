@@ -42,7 +42,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Chapter 1 — General[^key-8d935ec7a1ff53265e1161dcd4885425][^key-86fc948abab3e4dac907a87fae0280d6][^key-e9e9663e40378c1575111269acab032f][^key-c1a605c00cdd22507318e840e2d86342][^key-65da506484a13290b813db566e1b8185][^key-56f30b92434ddf6d820ab31baf1969fb][^key-361a89d9a9ffc202affaf2d9e6b26785][^key-a8dee8af3ad2be04b5f66ceab4f70507][^key-cb9161416000981239a68ee9659fcf90][^key-b473cad868dfc5e1b004231e22893571][^key-96396265e555cef2018631befff89943][^key-c4e8158af0841c8a243df83312f08196][^key-4b7e64ac437c7d6ba3ab98113c4de111][^key-2a91ca5c7b3af245caf592d9d7b10948]
+#### Chapter 1 — General[^c-8d935ec7a1ff53265e1161dcd4885425][^c-86fc948abab3e4dac907a87fae0280d6][^c-e9e9663e40378c1575111269acab032f][^c-c1a605c00cdd22507318e840e2d86342][^c-65da506484a13290b813db566e1b8185][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-a8dee8af3ad2be04b5f66ceab4f70507][^c-cb9161416000981239a68ee9659fcf90][^c-b473cad868dfc5e1b004231e22893571][^c-96396265e555cef2018631befff89943][^c-c4e8158af0841c8a243df83312f08196][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948]
 
 *Extent: E+W*
 
@@ -51,11 +51,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 3 — Principal powers](part-1/section-3.md)
 - [Section 4 — Powers: general](part-1/section-4.md)
 
-#### Chapter 2 — Land and infrastructure[^key-8d935ec7a1ff53265e1161dcd4885425][^key-86fc948abab3e4dac907a87fae0280d6][^key-89818337b9032016576e7b8e4328f662][^key-c1a605c00cdd22507318e840e2d86342][^key-5c149ea65f9c5b03da015078377c92ed][^key-56f30b92434ddf6d820ab31baf1969fb][^key-361a89d9a9ffc202affaf2d9e6b26785][^key-6a8339de29a5dac5657b7afb030213cf][^key-cb9161416000981239a68ee9659fcf90][^key-b473cad868dfc5e1b004231e22893571][^key-96396265e555cef2018631befff89943][^key-c4e8158af0841c8a243df83312f08196][^key-4b7e64ac437c7d6ba3ab98113c4de111][^key-2a91ca5c7b3af245caf592d9d7b10948]
+#### Chapter 2 — Land and infrastructure[^c-8d935ec7a1ff53265e1161dcd4885425][^c-86fc948abab3e4dac907a87fae0280d6][^c-89818337b9032016576e7b8e4328f662][^c-c1a605c00cdd22507318e840e2d86342][^c-5c149ea65f9c5b03da015078377c92ed][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90][^c-b473cad868dfc5e1b004231e22893571][^c-96396265e555cef2018631befff89943][^c-c4e8158af0841c8a243df83312f08196][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948]
 
 *Extent: E+W*
 
-##### Exercise of functions by strategic authorities[^key-02c00282fae80967499e5e188dd16d41]
+##### Exercise of functions by strategic authorities[^c-02c00282fae80967499e5e188dd16d41]
 
 - [Section 4A — Purpose of exercise of functions](part-1/section-4a.md)
 
@@ -175,7 +175,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 57 — Interpretation: Part 1](part-1/section-57.md)
 - [Section 58 — Index of defined expressions: Part 1](part-1/section-58.md)
 
-### Part 2 — Regulation of Social Housing[^key-4cabd11e9d1a9afe227c4747ad209503]
+### Part 2 — Regulation of Social Housing[^c-4cabd11e9d1a9afe227c4747ad209503]
 
 *Extent: E+W*
 
@@ -215,11 +215,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 79 — English bodies](part-2/section-79.md)
 - [Section 80 — Provider of social housing](part-2/section-80.md)
 
-#### Chapter 2 — The Social Housing Regulator[^key-4cabd11e9d1a9afe227c4747ad209503]
+#### Chapter 2 — The Social Housing Regulator[^c-4cabd11e9d1a9afe227c4747ad209503]
 
 *Extent: E+W*
 
-##### The Regulator[^key-49fa9909ee7d3a6d6736112eded68ec2]
+##### The Regulator[^c-49fa9909ee7d3a6d6736112eded68ec2]
 
 *Extent: E+W*
 
@@ -246,7 +246,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 91 — Seal](part-2/section-91.md)
 - [Section 92 — Annual report](part-2/section-92.md)
 
-##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4f8834f358e9ca04b0aa88e1ba9ec88e]
+##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4f8834f358e9ca04b0aa88e1ba9ec88e]
 
 *Extent: E+W*
 
@@ -261,13 +261,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 92I — Exercise of functions](part-2/section-92i.md)
 - [Section 92J — Recommendations to HCA](part-2/section-92j.md)
 
-##### Fundamental objectives[^key-e6e1c198738e8c19302cef4d9b97373a]
+##### Fundamental objectives[^c-e6e1c198738e8c19302cef4d9b97373a]
 
 *Extent: E+W*
 
 - [Section 92K — Fundamental objectives](part-2/section-92k.md)
 
-##### Procedure etc.[^key-d165e536f7bc453754279ea503e4894d]
+##### Procedure etc.[^c-d165e536f7bc453754279ea503e4894d]
 
 *Extent: E+W*
 
@@ -301,12 +301,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 100D — Regulator’s annual report](part-2/section-100d.md)
 - [Section 100E — Financial year](part-2/section-100e.md)
 
-##### Relationship with the HCA[^key-c2f32c731aaf6dc75f5313058aea74c5]
+##### Relationship with the HCA[^c-c2f32c731aaf6dc75f5313058aea74c5]
 
 - [Section 100F — Cooperation with the HCA](part-2/section-100f.md)
 - [Section 100G — Direction to the HCA](part-2/section-100g.md)
 
-##### Relationship with housing ombudsman[^key-7c8e85c9edddffb85a08fe383c545ee8]
+##### Relationship with housing ombudsman[^c-7c8e85c9edddffb85a08fe383c545ee8]
 
 - [Section 100H — Relationship with housing ombudsman](part-2/section-100h.md)
 - [Section 101 — Assistance by Secretary of State](part-2/section-101.md)
@@ -366,7 +366,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 125 — Voluntary undertaking](part-2/section-125.md)
 - [Section 126 — Sustainable community strategies](part-2/section-126.md)
 
-##### Health and safety lead for registered provider[^key-3bf5adfa6c52bb2a275cd32bd1961ed5]
+##### Health and safety lead for registered provider[^c-3bf5adfa6c52bb2a275cd32bd1961ed5]
 
 - [Section 126A — Designation of health and safety lead](part-2/section-126a.md)
 - [Section 126B — Functions of the health and safety lead](part-2/section-126b.md)
@@ -434,7 +434,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 168 — Section 167: supplemental](part-2/section-168.md)
 - [Section 169 — Extension of sections 167 and 168](part-2/section-169.md)
 
-##### Notification of constitutional changes[^key-2860e877450d39a905f3f6c5ffa5edd2]
+##### Notification of constitutional changes[^c-2860e877450d39a905f3f6c5ffa5edd2]
 
 *Extent: E+W*
 
@@ -444,17 +444,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 169C — Companies: change of articles etc](part-2/section-169c.md)
 - [Section 169CA — Limited liability partnership: change of name etc](part-2/section-169ca.md)
 
-##### Notification of change of control[^key-68da01eb2270161e35d828bbd910df54]
+##### Notification of change of control[^c-68da01eb2270161e35d828bbd910df54]
 
 - [Section 169CB — Application of rules about notification of change of control](part-2/section-169cb.md)
 - [Section 169CC — Change in board members](part-2/section-169cc.md)
 - [Section 169CD — Change in subsidiary status](part-2/section-169cd.md)
 
-##### Directions about notifications[^key-2860e877450d39a905f3f6c5ffa5edd2]
+##### Directions about notifications[^c-2860e877450d39a905f3f6c5ffa5edd2]
 
 - [Section 169D — Directions about notifications](part-2/section-169d.md)
 
-#### Chapter 5 — Disposal of property by private registered providers[^key-4cabd11e9d1a9afe227c4747ad209503][^key-9e0fbe64d82f317a45918255a70e076d]
+#### Chapter 5 — Disposal of property by private registered providers[^c-4cabd11e9d1a9afe227c4747ad209503][^c-9e0fbe64d82f317a45918255a70e076d]
 
 *Extent: E+W*
 
@@ -463,7 +463,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 170 — Overview](part-2/section-170.md)
 - [Section 171 — Power to dispose](part-2/section-171.md)
 
-##### Notification of regulator[^key-36c144f611fe58a145cfb7d93bf15d35]
+##### Notification of regulator[^c-36c144f611fe58a145cfb7d93bf15d35]
 
 *Extent: E+W*
 
@@ -473,14 +473,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 175 — Disposal without consent](part-2/section-175.md)
 - [Section 176 — Notification where disposal consent not required](part-2/section-176.md)
 
-##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e4dedd6acd17b788ef70cc75d2d51710]
+##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e4dedd6acd17b788ef70cc75d2d51710]
 
 *Extent: E+W*
 
 - [Section 177 — Separate accounting](part-2/section-177.md)
 - [Section 178 — Use of proceeds](part-2/section-178.md)
 
-##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-91edf15b04b4897a3f7b0332e4acaf6d]
+##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-91edf15b04b4897a3f7b0332e4acaf6d]
 
 *Extent: E+W*
 
@@ -529,7 +529,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 198A — Failure to meet standard under section 193](part-2/section-198a.md)
 - [Section 198B — Failure to meet standard under section 194](part-2/section-198b.md)
 
-##### Performance information[^key-394008dedc9ed544bed06010b2227d8d]
+##### Performance information[^c-394008dedc9ed544bed06010b2227d8d]
 
 - [Section 198C — Directions about performance information](part-2/section-198c.md)
 
@@ -555,7 +555,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 210 — Extraordinary audit](part-2/section-210.md)
 - [Section 210A — Extraordinary audit: local authorities](part-2/section-210a.md)
 
-##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ca93d1e485826c7145e541046c029466]
+##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ca93d1e485826c7145e541046c029466]
 
 *Extent: E+W*
 
@@ -582,7 +582,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 218 — Exercise of enforcement powers](part-2/section-218.md)
 
-##### Performance improvement plans[^key-7b756bb637ae79ccc9f245ffa189b8d7]
+##### Performance improvement plans[^c-7b756bb637ae79ccc9f245ffa189b8d7]
 
 - [Section 218A — Performance improvement plan notice](part-2/section-218a.md)
 - [Section 218B — Performance improvement plans](part-2/section-218b.md)
@@ -599,7 +599,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 224 — Withdrawal](part-2/section-224.md)
 - [Section 225 — Sanction](part-2/section-225.md)
 
-##### Emergency remedial action[^key-cb5e61c73093969c8caa526632014f3f]
+##### Emergency remedial action[^c-cb5e61c73093969c8caa526632014f3f]
 
 - [Section 225A — Overview](part-2/section-225a.md)
 - [Section 225B — Power to take emergency remedial action](part-2/section-225b.md)
@@ -657,7 +657,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 254 — Section 253: supplemental](part-2/section-254.md)
 - [Section 255 — Amalgamation](part-2/section-255.md)
 
-##### Restrictions on dealings by ... registered providers[^key-2d65c27fe46ff8e523b8818cde476490][^key-159b2e98b6732e2de7ac28dd7b69a4e2]
+##### Restrictions on dealings by ... registered providers[^c-2d65c27fe46ff8e523b8818cde476490][^c-159b2e98b6732e2de7ac28dd7b69a4e2]
 
 *Extent: E+W*
 
@@ -665,7 +665,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 257 — Restrictions on dealings following inquiry](part-2/section-257.md)
 - [Section 258 — Restrictions on dealings: supplemental](part-2/section-258.md)
 
-##### Suspension and removal of officers of ... registered providers[^key-7b3dbd5894eca2f1916ba644c891f5c6][^key-9a35599e9d5a2010d5cdea1634845f1f]
+##### Suspension and removal of officers of ... registered providers[^c-7b3dbd5894eca2f1916ba644c891f5c6][^c-9a35599e9d5a2010d5cdea1634845f1f]
 
 *Extent: E+W*
 
@@ -681,7 +681,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 268 — Appeal against removal or suspension](part-2/section-268.md)
 - [Section 269 — Appointment of new officers](part-2/section-269.md)
 
-##### Censure of local authority employees[^key-af82478936b6e89a6a4cd8d4a6ee9196]
+##### Censure of local authority employees[^c-af82478936b6e89a6a4cd8d4a6ee9196]
 
 - [Section 269A — Local authorities: censure during or following inquiry](part-2/section-269a.md)
 - [Section 269B — Response to censure notice](part-2/section-269b.md)
@@ -839,84 +839,84 @@ SCHEDULES
 
 ## Annotations
 
-[^key-8d935ec7a1ff53265e1161dcd4885425]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2016/1267/article/8/5)[(6)](https://www.legislation.gov.uk/uksi/2016/1267/article/8/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1267/schedule/2)
+[^c-8d935ec7a1ff53265e1161dcd4885425]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2016/1267/article/8/5)[(6)](https://www.legislation.gov.uk/uksi/2016/1267/article/8/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1267/schedule/2)
 
-[^key-86fc948abab3e4dac907a87fae0280d6]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (9.2.2017) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/126/article/1/3), [21(5)](https://www.legislation.gov.uk/uksi/2017/126/article/21/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/126/schedule/4)
+[^c-86fc948abab3e4dac907a87fae0280d6]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (9.2.2017) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/126/article/1/3), [21(5)](https://www.legislation.gov.uk/uksi/2017/126/article/21/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/126/schedule/4)
 
-[^key-e9e9663e40378c1575111269acab032f]: Modification: Pt. 1 Ch. 1 applied (with modifications) (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2017/430/article/9/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2017/430/schedule/3/part/1)
+[^c-e9e9663e40378c1575111269acab032f]: Modification: Pt. 1 Ch. 1 applied (with modifications) (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2017/430/article/9/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2017/430/schedule/3/part/1)
 
-[^key-c1a605c00cdd22507318e840e2d86342]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2017/510/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/510/schedule/3)
+[^c-c1a605c00cdd22507318e840e2d86342]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2017/510/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/510/schedule/3)
 
-[^key-65da506484a13290b813db566e1b8185]: Modification: Pt. 1 Ch. 1 applied (with modifications) (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [14(5)](https://www.legislation.gov.uk/uksi/2018/1133/article/14/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1133/schedule/3) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
+[^c-65da506484a13290b813db566e1b8185]: Modification: Pt. 1 Ch. 1 applied (with modifications) (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [14(5)](https://www.legislation.gov.uk/uksi/2018/1133/article/14/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1133/schedule/3) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
 
-[^key-56f30b92434ddf6d820ab31baf1969fb]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications (28.7.2020) by [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [10(5)](https://www.legislation.gov.uk/uksi/2020/806/article/10/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2020/806/schedule/2/part/1)
+[^c-56f30b92434ddf6d820ab31baf1969fb]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications (28.7.2020) by [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [10(5)](https://www.legislation.gov.uk/uksi/2020/806/article/10/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2020/806/schedule/2/part/1)
 
-[^key-361a89d9a9ffc202affaf2d9e6b26785]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [13(5)](https://www.legislation.gov.uk/uksi/2021/112/article/13/5), [Sch. 2 Pts. 1](https://www.legislation.gov.uk/uksi/2021/112/schedule/2/part/1), [2](https://www.legislation.gov.uk/uksi/2021/112/schedule/2/part/2)
+[^c-361a89d9a9ffc202affaf2d9e6b26785]: Modification: Pt. 1 Chs. 1, 2 applied (with modifications) (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [13(5)](https://www.legislation.gov.uk/uksi/2021/112/article/13/5), [Sch. 2 Pts. 1](https://www.legislation.gov.uk/uksi/2021/112/schedule/2/part/1), [2](https://www.legislation.gov.uk/uksi/2021/112/schedule/2/part/2)
 
-[^key-a8dee8af3ad2be04b5f66ceab4f70507]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2023/1432/article/9/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1432/schedule/2/part/1)
+[^c-a8dee8af3ad2be04b5f66ceab4f70507]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2023/1432/article/9/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1432/schedule/2/part/1)
 
-[^key-cb9161416000981239a68ee9659fcf90]: Modification: [Pt. 1 Chs. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/10/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2024/232/schedule/2/part/1)
+[^c-cb9161416000981239a68ee9659fcf90]: Modification: [Pt. 1 Chs. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/10/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2024/232/schedule/2/part/1)
 
-[^key-b473cad868dfc5e1b004231e22893571]: Modification: [Pt. 1 Chs. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [36(4)](https://www.legislation.gov.uk/uksi/2024/402/article/36/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2024/402/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-b473cad868dfc5e1b004231e22893571]: Modification: [Pt. 1 Chs. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [36(4)](https://www.legislation.gov.uk/uksi/2024/402/article/36/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2024/402/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-96396265e555cef2018631befff89943]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/115/regulation/8/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2025/115/schedule/2/part/1)
+[^c-96396265e555cef2018631befff89943]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/115/regulation/8/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2025/115/schedule/2/part/1)
 
-[^key-c4e8158af0841c8a243df83312f08196]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/118/regulation/8/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2025/118/schedule/2/part/1)
+[^c-c4e8158af0841c8a243df83312f08196]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/118/regulation/8/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2025/118/schedule/2/part/1)
 
-[^key-4b7e64ac437c7d6ba3ab98113c4de111]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/117/regulation/9/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2025/117/schedule/2/part/1)
+[^c-4b7e64ac437c7d6ba3ab98113c4de111]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/117/regulation/9/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2025/117/schedule/2/part/1)
 
-[^key-2a91ca5c7b3af245caf592d9d7b10948]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2025/113/article/17/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2025/113/schedule/3/part/1)
+[^c-2a91ca5c7b3af245caf592d9d7b10948]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/1), [2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2025/113/article/17/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2025/113/schedule/3/part/1)
 
-[^key-89818337b9032016576e7b8e4328f662]: Modification: Pt. 1 Ch. 2 applied (with modifications) (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2017/430/article/9/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2017/430/schedule/3/part/1)
+[^c-89818337b9032016576e7b8e4328f662]: Modification: Pt. 1 Ch. 2 applied (with modifications) (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2017/430/article/9/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2017/430/schedule/3/part/1)
 
-[^key-5c149ea65f9c5b03da015078377c92ed]: Modification: Pt. 1 Ch. 2 applied (with modifications) (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [14(5)](https://www.legislation.gov.uk/uksi/2018/1133/article/14/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1133/schedule/3) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
+[^c-5c149ea65f9c5b03da015078377c92ed]: Modification: Pt. 1 Ch. 2 applied (with modifications) (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [14(5)](https://www.legislation.gov.uk/uksi/2018/1133/article/14/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1133/schedule/3) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
 
-[^key-6a8339de29a5dac5657b7afb030213cf]: Modification: [Pt. 1 Ch. 2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2023/1432/article/9/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1432/schedule/2/part/1)
+[^c-6a8339de29a5dac5657b7afb030213cf]: Modification: [Pt. 1 Ch. 2](https://www.legislation.gov.uk/ukpga/2008/17/part/1/chapter/2) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2023/1432/article/9/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1432/schedule/2/part/1)
 
-[^key-02c00282fae80967499e5e188dd16d41]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2008/17/section/4A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/18/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-02c00282fae80967499e5e188dd16d41]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2008/17/section/4A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/18/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-4cabd11e9d1a9afe227c4747ad209503]: Modification: Pt. 2 modified (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 69(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/69/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-4cabd11e9d1a9afe227c4747ad209503]: Modification: Pt. 2 modified (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 69(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/69/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-49fa9909ee7d3a6d6736112eded68ec2]: Textual amendment: Ss. 80A-80D and cross-heading inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/14) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-49fa9909ee7d3a6d6736112eded68ec2]: Textual amendment: Ss. 80A-80D and cross-heading inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/14) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-4f8834f358e9ca04b0aa88e1ba9ec88e]: Textual amendment: Ss. 92A-92J and cross-heading omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/15) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-4f8834f358e9ca04b0aa88e1ba9ec88e]: Textual amendment: Ss. 92A-92J and cross-heading omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/15) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-e6e1c198738e8c19302cef4d9b97373a]: Textual amendment: Ss. 92A-92K and cross-heading inserted (15.1.2012 for the insertion of ss. 92B(1), 92C, 92D, 92E, 92F, 92G, 92H, 92I, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/26) (with [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/69)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6) [7](https://www.legislation.gov.uk/uksi/2012/57/article/7) [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-e6e1c198738e8c19302cef4d9b97373a]: Textual amendment: Ss. 92A-92K and cross-heading inserted (15.1.2012 for the insertion of ss. 92B(1), 92C, 92D, 92E, 92F, 92G, 92H, 92I, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/26) (with [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/69)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6) [7](https://www.legislation.gov.uk/uksi/2012/57/article/7) [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-d165e536f7bc453754279ea503e4894d]: Textual amendment: Ss. 92L-92Q and cross-heading inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/16) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-d165e536f7bc453754279ea503e4894d]: Textual amendment: Ss. 92L-92Q and cross-heading inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/16) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-c2f32c731aaf6dc75f5313058aea74c5]: Textual amendment: Ss. 100A-100G inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/20) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-c2f32c731aaf6dc75f5313058aea74c5]: Textual amendment: Ss. 100A-100G inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/20) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-7c8e85c9edddffb85a08fe383c545ee8]: Textual amendment: [S. 100H](https://www.legislation.gov.uk/ukpga/2008/17/section/100H) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/5/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/d)
+[^c-7c8e85c9edddffb85a08fe383c545ee8]: Textual amendment: [S. 100H](https://www.legislation.gov.uk/ukpga/2008/17/section/100H) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/5/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/d)
 
-[^key-3bf5adfa6c52bb2a275cd32bd1961ed5]: Textual amendment: [Ss. 126A-126D](https://www.legislation.gov.uk/ukpga/2008/17/section/126A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)
+[^c-3bf5adfa6c52bb2a275cd32bd1961ed5]: Textual amendment: [Ss. 126A-126D](https://www.legislation.gov.uk/ukpga/2008/17/section/126A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)
 
-[^key-2860e877450d39a905f3f6c5ffa5edd2]: Textual amendment: Ss. 169A-169D and cross-headings inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/29); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
+[^c-2860e877450d39a905f3f6c5ffa5edd2]: Textual amendment: Ss. 169A-169D and cross-headings inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/29); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
 
-[^key-68da01eb2270161e35d828bbd910df54]: Textual amendment: [Ss. 169CB-169CD](https://www.legislation.gov.uk/ukpga/2008/17/section/169CB) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/20/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/m)
+[^c-68da01eb2270161e35d828bbd910df54]: Textual amendment: [Ss. 169CB-169CD](https://www.legislation.gov.uk/ukpga/2008/17/section/169CB) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/20/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/m)
 
-[^key-9e0fbe64d82f317a45918255a70e076d]: Textual amendment: Words in Pt. 2 Ch. 5 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/34)
+[^c-9e0fbe64d82f317a45918255a70e076d]: Textual amendment: Words in Pt. 2 Ch. 5 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/34)
 
-[^key-36c144f611fe58a145cfb7d93bf15d35]: Textual amendment: S. 172 cross-heading substituted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/14); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
+[^c-36c144f611fe58a145cfb7d93bf15d35]: Textual amendment: S. 172 cross-heading substituted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/14); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
 
-[^key-e4dedd6acd17b788ef70cc75d2d51710]: Textual amendment: S. 177 cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 33(b)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/33/b); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/75/regulation/7))
+[^c-e4dedd6acd17b788ef70cc75d2d51710]: Textual amendment: S. 177 cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 33(b)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/33/b); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/75/regulation/7))
 
-[^key-91edf15b04b4897a3f7b0332e4acaf6d]: Textual amendment: S. 179 and cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/17); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
+[^c-91edf15b04b4897a3f7b0332e4acaf6d]: Textual amendment: S. 179 and cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/17); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
 
-[^key-394008dedc9ed544bed06010b2227d8d]: Textual amendment: [S. 198C](https://www.legislation.gov.uk/ukpga/2008/17/section/198C) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/27/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/m)
+[^c-394008dedc9ed544bed06010b2227d8d]: Textual amendment: [S. 198C](https://www.legislation.gov.uk/ukpga/2008/17/section/198C) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/27/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/m)
 
-[^key-ca93d1e485826c7145e541046c029466]: Textual amendment: Ss. 211-214 and cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/31); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
+[^c-ca93d1e485826c7145e541046c029466]: Textual amendment: Ss. 211-214 and cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/31); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
 
-[^key-7b756bb637ae79ccc9f245ffa189b8d7]: Textual amendment: [Ss. 218A-218D](https://www.legislation.gov.uk/ukpga/2008/17/section/218A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/31/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/r)
+[^c-7b756bb637ae79ccc9f245ffa189b8d7]: Textual amendment: [Ss. 218A-218D](https://www.legislation.gov.uk/ukpga/2008/17/section/218A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/31/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/r)
 
-[^key-cb5e61c73093969c8caa526632014f3f]: Textual amendment: [Ss. 225A-225H](https://www.legislation.gov.uk/ukpga/2008/17/section/225A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 32](https://www.legislation.gov.uk/ukpga/2023/36/section/32), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/s)
+[^c-cb5e61c73093969c8caa526632014f3f]: Textual amendment: [Ss. 225A-225H](https://www.legislation.gov.uk/ukpga/2008/17/section/225A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 32](https://www.legislation.gov.uk/ukpga/2023/36/section/32), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/s)
 
-[^key-2d65c27fe46ff8e523b8818cde476490]: Textual amendment: Words in cross-heading before s. 256 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/72)
+[^c-2d65c27fe46ff8e523b8818cde476490]: Textual amendment: Words in cross-heading before s. 256 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/72)
 
-[^key-159b2e98b6732e2de7ac28dd7b69a4e2]: Textual amendment: Word in [s. 256](https://www.legislation.gov.uk/ukpga/2008/17/section/256) cross-heading omitted (1.4.2024) by virtue of [The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399)](https://www.legislation.gov.uk/uksi/2024/399), [reg. 1(7)](https://www.legislation.gov.uk/uksi/2024/399/regulation/1/7), [Sch. 1 para. 1(8)](https://www.legislation.gov.uk/uksi/2024/399/schedule/1/paragraph/1/8); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/y)
+[^c-159b2e98b6732e2de7ac28dd7b69a4e2]: Textual amendment: Word in [s. 256](https://www.legislation.gov.uk/ukpga/2008/17/section/256) cross-heading omitted (1.4.2024) by virtue of [The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399)](https://www.legislation.gov.uk/uksi/2024/399), [reg. 1(7)](https://www.legislation.gov.uk/uksi/2024/399/regulation/1/7), [Sch. 1 para. 1(8)](https://www.legislation.gov.uk/uksi/2024/399/schedule/1/paragraph/1/8); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/y)
 
-[^key-7b3dbd5894eca2f1916ba644c891f5c6]: Textual amendment: Words in cross-heading before s. 259 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 73](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/73)
+[^c-7b3dbd5894eca2f1916ba644c891f5c6]: Textual amendment: Words in cross-heading before s. 259 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 73](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/73)
 
-[^key-9a35599e9d5a2010d5cdea1634845f1f]: Textual amendment: Word in [s. 259 heading](https://www.legislation.gov.uk/ukpga/2008/17/part/2/chapter/7/crossheading/suspension-and-removal-of-officers) omitted (1.4.2024) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/36); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z)
+[^c-9a35599e9d5a2010d5cdea1634845f1f]: Textual amendment: Word in [s. 259 heading](https://www.legislation.gov.uk/ukpga/2008/17/part/2/chapter/7/crossheading/suspension-and-removal-of-officers) omitted (1.4.2024) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/36); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z)
 
-[^key-af82478936b6e89a6a4cd8d4a6ee9196]: Textual amendment: Ss. 269A, 269B and cross-heading inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/74)
+[^c-af82478936b6e89a6a4cd8d4a6ee9196]: Textual amendment: Ss. 269A, 269B and cross-heading inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/74)

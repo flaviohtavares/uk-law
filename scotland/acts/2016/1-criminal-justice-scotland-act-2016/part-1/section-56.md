@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Consequential modification[^key-ac17fda0d544c6f81bd36fac964d9120]
+## 56. Consequential modification[^c-ac17fda0d544c6f81bd36fac964d9120]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 contains repeals and other provisions consequential on this Part.
 
 ## Annotations
 
-[^key-ac17fda0d544c6f81bd36fac964d9120]: Commencement: S. 56 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-ac17fda0d544c6f81bd36fac964d9120]: Commencement: S. 56 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

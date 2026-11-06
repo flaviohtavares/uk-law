@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332. Restrictions on disclosure of information[^key-c4949b5020a1a87af2646f645958ee98]
+## 332. Restrictions on disclosure of information[^c-c4949b5020a1a87af2646f645958ee98]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4949b5020a1a87af2646f645958ee98]: Modification: Regs. 332-339 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
+[^c-c4949b5020a1a87af2646f645958ee98]: Modification: Regs. 332-339 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
 
 [^c21328891]: Marginal citation: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).

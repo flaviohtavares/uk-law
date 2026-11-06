@@ -42,7 +42,7 @@ An Act of Senedd Cymru to make provision about environmental principles and the 
 
 ## PART 1 — ENVIRONMENTAL OBJECTIVE AND PRINCIPLES
 
-### 1. Environmental objective[^key-c35b6ccf18767c9484c29a9068a7e1ca]
+### 1. Environmental objective[^c-c35b6ccf18767c9484c29a9068a7e1ca]
 
 (1) In this Part, the “environmental objective” is the attainment of a high level of environmental protection and an improvement of the environment, with a view, in particular to—
 
@@ -59,7 +59,7 @@ An Act of Senedd Cymru to make provision about environmental principles and the 
 - (d) the condition of ecosystems (including their structure and functioning);
 - (e) the adaptability of ecosystems.
 
-### 2. Environmental principles[^key-f06e8c2bd16e3b366861dec0498bcb05]
+### 2. Environmental principles[^c-f06e8c2bd16e3b366861dec0498bcb05]
 
 In this Part, the “environmental principles” are—
 
@@ -68,7 +68,7 @@ In this Part, the “environmental principles” are—
 - (c) the principle that environmental damage should as a priority be rectified at source;
 - (d) the polluter pays principle.
 
-### 3. Welsh Ministers’ duties when making policy[^key-c65dae122d87fde7dcb6e4ca9cf52e0d]
+### 3. Welsh Ministers’ duties when making policy[^c-c65dae122d87fde7dcb6e4ca9cf52e0d]
 
 **Not yet in force.**
 
@@ -87,7 +87,7 @@ In this Part, the “environmental principles” are—
 
 (4) The duty in subsection (1) does not apply where the policy in question would have no effect or a negligible effect on the environment.
 
-### 4. Natural Resources Wales’ duties when making policy[^key-3cb9f25f46a43cd909023e20f75bc2de]
+### 4. Natural Resources Wales’ duties when making policy[^c-3cb9f25f46a43cd909023e20f75bc2de]
 
 **Not yet in force.**
 
@@ -112,7 +112,7 @@ In this Part, the “environmental principles” are—
 > - (d) “**making policy**” includes developing, adopting or revising policies, and
 > - (e) “Wales includes, so far as policy relates to fishing, fisheries or fish health, the area of the Welsh zone beyond the seaward limit of the territorial sea.
 
-### 5. Environmental assessments: public authorities’ duties[^key-fa9e8df1d4b3860413a078d023a3c5ff]
+### 5. Environmental assessments: public authorities’ duties[^c-fa9e8df1d4b3860413a078d023a3c5ff]
 
 **Not yet in force.**
 
@@ -130,7 +130,7 @@ In this Part, the “environmental principles” are—
 - (a) a devolved Welsh authority within the meaning given by section 157A of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), or
 - (b) listed in paragraph 9(2) or (6) of Schedule 7B to that Act.
 
-### 6. Environmental principles and integrating environmental protection statement[^key-05656e177b7b17f7423a6cdf5add9934]
+### 6. Environmental principles and integrating environmental protection statement[^c-05656e177b7b17f7423a6cdf5add9934]
 
 (1) The Welsh Ministers must prepar‍e a document (“environmental principles and integrating environmental protection statement”) explaining—
 
@@ -158,61 +158,61 @@ In this Part, the “environmental principles” are—
 
 (4) The statement may also include any other matters the Welsh Ministers consider appropriate.‍
 
-### 7. Environmental principles and integrating environmental protection statement: procedural requirements[^key-6381cff89a84451a896b4e569b80f5b2][^key-10d12711814971643e2eb7057614cc3c]
+### 7. Environmental principles and integrating environmental protection statement: procedural requirements[^c-6381cff89a84451a896b4e569b80f5b2][^c-10d12711814971643e2eb7057614cc3c]
 
 (1) The Welsh Ministers must consult the following when preparing a draft of the environmental principles and integrating environmental protection statement—
 
-- (a)[^key-6381cff89a84451a896b4e569b80f5b2] Natural Resources Wales;
-- (b)[^key-6381cff89a84451a896b4e569b80f5b2] the Future Generations Commissioner for Wales;
+- (a)[^c-6381cff89a84451a896b4e569b80f5b2] Natural Resources Wales;
+- (b)[^c-6381cff89a84451a896b4e569b80f5b2] the Future Generations Commissioner for Wales;
 - (c) the OEGW;
-- (d)[^key-6381cff89a84451a896b4e569b80f5b2] such other persons as they consider appropriate.
+- (d)[^c-6381cff89a84451a896b4e569b80f5b2] such other persons as they consider appropriate.
 
-(2)[^key-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must lay before Senedd Cymru—
+(2)[^c-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must lay before Senedd Cymru—
 
 - (a) a copy of the draft environmental principles and integrating environmental protection statement‍, together with
 - (b) a document giving details of the consultation carried out under subsection (1) and summarising the representations received and the Welsh Ministers’ response to them.
 
-(3)[^key-6381cff89a84451a896b4e569b80f5b2] If, before the end of the 40-day period, Senedd Cymru makes recommendations in relation to the draft, the Welsh Ministers must lay before Senedd Cymru their response to the recommendations.
+(3)[^c-6381cff89a84451a896b4e569b80f5b2] If, before the end of the 40-day period, Senedd Cymru makes recommendations in relation to the draft, the Welsh Ministers must lay before Senedd Cymru their response to the recommendations.
 
-(4)[^key-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must prepare a final environmental principles and integrating environmental protection statement and lay it before Senedd Cymru.
+(4)[^c-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must prepare a final environmental principles and integrating environmental protection statement and lay it before Senedd Cymru.
 
-(5)[^key-6381cff89a84451a896b4e569b80f5b2] The final statement must not be laid before—
+(5)[^c-6381cff89a84451a896b4e569b80f5b2] The final statement must not be laid before—
 
 - (a) if subsection (3) applies, the day on which the Welsh Ministers lay their response, or
 - (b) otherwise, the end of the 40-day period.
 
-(6)[^key-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must publish the final statement when it is laid before Senedd Cymru.
+(6)[^c-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must publish the final statement when it is laid before Senedd Cymru.
 
-(7)[^key-6381cff89a84451a896b4e569b80f5b2] The final statement must be laid before Senedd Cymru no later than 31 March 2027.
+(7)[^c-6381cff89a84451a896b4e569b80f5b2] The final statement must be laid before Senedd Cymru no later than 31 March 2027.
 
-(8)[^key-6381cff89a84451a896b4e569b80f5b2] The “40-day period”—
+(8)[^c-6381cff89a84451a896b4e569b80f5b2] The “40-day period”—
 
 - (a) begins with the day on which the draft is laid before Senedd Cymru under subsection (2), and
 - (b) does not include any period during which Senedd Cymru is dissolved or is in recess for more than 4 days.
 
-(9)[^key-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must review the environmental principles and integrating environmental protection statement after each general election and may review it at any other time.
+(9)[^c-6381cff89a84451a896b4e569b80f5b2] The Welsh Ministers must review the environmental principles and integrating environmental protection statement after each general election and may review it at any other time.
 
-(10)[^key-6381cff89a84451a896b4e569b80f5b2] In subsection (9), “**general election**” means an ordinary general election or an extraordinary general election held under Part 1 of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+(10)[^c-6381cff89a84451a896b4e569b80f5b2] In subsection (9), “**general election**” means an ordinary general election or an extraordinary general election held under Part 1 of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-(11)[^key-6381cff89a84451a896b4e569b80f5b2] After reviewing the statement, the Welsh Ministers may prepare a revised environmental principles and integrating environmental protection statement; and subsections (1) to (6) and (8) to (10) apply in relation to any revised statement.
+(11)[^c-6381cff89a84451a896b4e569b80f5b2] After reviewing the statement, the Welsh Ministers may prepare a revised environmental principles and integrating environmental protection statement; and subsections (1) to (6) and (8) to (10) apply in relation to any revised statement.
 
-(12)[^key-6381cff89a84451a896b4e569b80f5b2] The requirement in subsection (1) may be met by consultation carried out before this section comes into force.
+(12)[^c-6381cff89a84451a896b4e569b80f5b2] The requirement in subsection (1) may be met by consultation carried out before this section comes into force.
 
 ## PART 2 — THE OFFICE OF ENVIRONMENTAL GOVERNANCE WALES
 
 ### The Office of Environmental Governance Wales
 
-#### 8. Establishment of the Office of Environmental Governance Wales[^key-539ec018dd6aed9187ae70fb6f09103f]
+#### 8. Establishment of the Office of Environmental Governance Wales[^c-539ec018dd6aed9187ae70fb6f09103f]
 
 (1) The Office of Environmental Governance Wales (“the OEGW”) is established as a body corporate.
 
 (2) Schedule 1 contains further provision about the OEGW.
 
-#### 9. Independence of the OEGW[^key-681abdd557396daeb1f260d7d1b4297a][^key-57af74f1444910a862f136929d5a5c6e]
+#### 9. Independence of the OEGW[^c-681abdd557396daeb1f260d7d1b4297a][^c-57af74f1444910a862f136929d5a5c6e]
 
 In exercising their functions in respect of the OEGW, the Welsh Ministers must have regard to the need to protect the OEGW’s independence.
 
-#### 10. General purpose etc.[^key-6a199dee376b11fff6c1881cbeefdeee]
+#### 10. General purpose etc.[^c-6a199dee376b11fff6c1881cbeefdeee]
 
 The OEGW must exercise its functions—
 
@@ -221,7 +221,7 @@ The OEGW must exercise its functions—
   - (ii) ensuring the effectiveness of environmental law and that it is complied with, implemented and applied;
 - (b) impartially, objectively, proportionately and transparently.
 
-#### 11. Duty to prepare and publish strategy[^key-e874923c85abe4bc8de54a437fc6e28a]
+#### 11. Duty to prepare and publish strategy[^c-e874923c85abe4bc8de54a437fc6e28a]
 
 **Not yet in force.**
 
@@ -240,7 +240,7 @@ The OEGW must exercise its functions—
 
 **Not yet in force.**
 
-#### 12. Monitoring and reporting[^key-b8d39a9d86b4343523d108b9f4e07a3e]
+#### 12. Monitoring and reporting[^c-b8d39a9d86b4343523d108b9f4e07a3e]
 
 (1) The OEGW must monitor—
 
@@ -257,7 +257,7 @@ The OEGW must exercise its functions—
 - (a) publish its reports under subsection (2), and
 - (b) lay copies of the reports before Senedd Cymru.
 
-#### 13. Advising the Welsh Ministers[^key-9d4826df50d8dd664589d9309d9c4879]
+#### 13. Advising the Welsh Ministers[^c-9d4826df50d8dd664589d9309d9c4879]
 
 (1) The OEGW may give advice to the Welsh Ministers about—
 
@@ -280,7 +280,7 @@ the OEGW must give the Welsh Ministers a statement of its reasons for so determi
 
 (6) In subsection (1), “**Wales**” includes, so far as the proposal or proposed change relates to fishing, fisheries or fish health, the area of the Welsh zone beyond the seaward limit of the territorial sea.
 
-#### 14. Advice, guidance and assistance on environmental law[^key-697646b81a8e278125b41c6f0793d6c6]
+#### 14. Advice, guidance and assistance on environmental law[^c-697646b81a8e278125b41c6f0793d6c6]
 
 (1) The OEGW may—
 
@@ -297,7 +297,7 @@ on any matter relating to environmental law.
 
 **Not yet in force.**
 
-#### 15. Information notices[^key-64b41610e2772ffd3f4b8b91a022397a]
+#### 15. Information notices[^c-64b41610e2772ffd3f4b8b91a022397a]
 
 (1) The OEGW may serve an information notice on a public authority.
 
@@ -330,7 +330,7 @@ on any matter relating to environmental law.
 
 **Not yet in force.**
 
-#### 16. Representations[^key-9efd50d5dff9693681bc3fcf9f16c6bb]
+#### 16. Representations[^c-9efd50d5dff9693681bc3fcf9f16c6bb]
 
 (1) A person may make representations to the OEGW about any matters relating to—
 
@@ -346,7 +346,7 @@ on any matter relating to environmental law.
 
 **Not yet in force.**
 
-#### 17. Investigations[^key-dfeffa57f4bb47f8884d96317394a175]
+#### 17. Investigations[^c-dfeffa57f4bb47f8884d96317394a175]
 
 (1) The OEGW may investigate any matter relating to—
 
@@ -360,7 +360,7 @@ on any matter relating to environmental law.
 
 **Not yet in force.**
 
-#### 18. Compliance notices[^key-d29b87cc24b3aa18a8d271c023ec7057]
+#### 18. Compliance notices[^c-d29b87cc24b3aa18a8d271c023ec7057]
 
 (1) The OEGW may serve a compliance notice on a public authority if it considers that the public authority—
 
@@ -394,7 +394,7 @@ on any matter relating to environmental law.
 
 (7) A compliance notice under subsection (1)(a) may not require any action to be taken in respect of an administrative decision taken by a public authority in relation to a particular person or case (for example, a decision on an application for planning permission, funding or a licence, or a decision on regulatory enforcement in a specific case).
 
-#### 19. Urgent compliance notices[^key-49e22e4f416a517b90c96565fbb1bc4b]
+#### 19. Urgent compliance notices[^c-49e22e4f416a517b90c96565fbb1bc4b]
 
 (1) Subsection (2) applies where the OEGW considers that each action specified in a compliance notice to be served under section 18(1)(a) needs to be taken urgently to prevent or mitigate an imminent risk of serious damage to the environment or to human health.
 
@@ -404,7 +404,7 @@ on any matter relating to environmental law.
 
 (4) Such a notice is referred to in this Part as an urgent compliance notice.
 
-#### 20. OEGW’s review of compliance notices[^key-87c1fd2c7ccaa346b449e4305974cd13]
+#### 20. OEGW’s review of compliance notices[^c-87c1fd2c7ccaa346b449e4305974cd13]
 
 (1) The OEGW must review a compliance notice if requested to do so by the public authority on whom the notice was served.
 
@@ -439,7 +439,7 @@ on any matter relating to environmental law.
 
 (13) For the purposes of subsection (12) the time the review committee takes to conduct the review begins with the day the public authority requests the review and ends with the day the review committee gives notice under subsection (8).
 
-#### 21. High Court review after failure to take specified action[^key-4f2cbde61b6e60a6bd05a2f9ffa5547a]
+#### 21. High Court review after failure to take specified action[^c-4f2cbde61b6e60a6bd05a2f9ffa5547a]
 
 (1) This section applies where the OEGW considers that a public authority has failed to take an action specified in a compliance notice in the period within which the action is required to be taken.
 
@@ -463,7 +463,7 @@ on any matter relating to environmental law.
 
 **Not yet in force.**
 
-#### 22. Improvement reports[^key-e899355dd5fb1605761ad9beecf2000b]
+#### 22. Improvement reports[^c-e899355dd5fb1605761ad9beecf2000b]
 
 (1) The OEGW may publish an improvement report if it considers that a public authority is failing or has at any time (whether before or after this Act receives Royal Assent) failed to—
 
@@ -481,7 +481,7 @@ on any matter relating to environmental law.
   - (ii) if the Welsh Ministers are not the public authority in relation to whose alleged failure the report is published, the Welsh Ministers, and
 - (b) lay a copy of the report before Senedd Cymru.
 
-#### 23. Improvement reports: content[^key-afbe25968873dc1cb204b56d1ed3b5b8]
+#### 23. Improvement reports: content[^c-afbe25968873dc1cb204b56d1ed3b5b8]
 
 (1) An improvement report must—
 
@@ -499,7 +499,7 @@ on any matter relating to environmental law.
 - (a) revoking or varying an administrative decision taken by a public authority in relation to a particular person or case, or
 - (b) requiring another public authority to revoke or vary such a decision.
 
-#### 24. Improvement plans[^key-a3170251fd4b846b9b28af628985770e]
+#### 24. Improvement plans[^c-a3170251fd4b846b9b28af628985770e]
 
 (1) Where the OEGW publishes an improvement report, the Welsh Ministers must respond by publishing an improvement plan.
 
@@ -522,7 +522,7 @@ on any matter relating to environmental law.
 
 **Not yet in force.**
 
-#### 25. Co-operation duties[^key-84157336f9fe21bfb5415f5805ce9f97]
+#### 25. Co-operation duties[^c-84157336f9fe21bfb5415f5805ce9f97]
 
 (1) A public authority must co-operate with the OEGW, and give it such reasonable assistance as it requests (including the provision of information), in connection with the exercise of the OEGW’s functions.
 
@@ -535,7 +535,7 @@ on any matter relating to environmental law.
 
 **Not yet in force.**
 
-#### 26. Disclosure of information to the OEGW[^key-1f82f052a0f051f6793deca7e8e58dfc]
+#### 26. Disclosure of information to the OEGW[^c-1f82f052a0f051f6793deca7e8e58dfc]
 
 (1) A public authority’s disclosure of information to the OEGW in accordance with a provision mentioned in subsection (3) does not breach—
 
@@ -555,7 +555,7 @@ on any matter relating to environmental law.
 - (a) that the authority would be entitled to refuse to provide in civil proceedings on the grounds of legal professional privilege, or
 - (b) that the authority would be entitled, or required by any rule of law, to refuse to provide in civil proceedings on the grounds of public interest immunit‍y.
 
-#### 27. Confidentiality requirements: the OEGW[^key-d18c6a7a99e9034b0ee6144ab64416bb]
+#### 27. Confidentiality requirements: the OEGW[^c-d18c6a7a99e9034b0ee6144ab64416bb]
 
 (1) The OEGW must not disclose—
 
@@ -579,7 +579,7 @@ on any matter relating to environmental law.
 - (f) a disclosure made in pursuance of an order of a court or tribunal;
 - (g) a disclosure made in accordance with an enactment requiring or permitting the disclosure.
 
-#### 28. Confidentiality requirements: public authorities[^key-ff270e54c5402a7de82175a1daec74d3]
+#### 28. Confidentiality requirements: public authorities[^c-ff270e54c5402a7de82175a1daec74d3]
 
 (1) A public authority must not disclose correspondence between the OEGW and that, or any other, public authority—
 
@@ -608,19 +608,19 @@ on any matter relating to environmental law.
 - (c) section 113 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), or
 - (d) section 183 of the Historic Environment (Wales) Act [2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3).
 
-#### 29. Application of Environmental Information Regulations 2004[^key-b31febb4909c5bd05a29ac91c2372fc6]
+#### 29. Application of Environmental Information Regulations 2004[^c-b31febb4909c5bd05a29ac91c2372fc6]
 
 If information or correspondence mentioned in section 27(1) and held by the OEGW, or mentioned in section 28(1) and held by a public authority, is environmental information for the purposes of the Environmental Information Regulations 2004 ([SI 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)), it is held by the OEGW or (as the case may be) the public authority, for the purposes of the application of those Regulations to that information, in connection with confidential proceedings.
 
 ### Staff transfer schemes
 
-#### 30. Staff transfer schemes[^key-49666c4fc07d5792b05a37be422cd5ee]
+#### 30. Staff transfer schemes[^c-49666c4fc07d5792b05a37be422cd5ee]
 
 Schedule 3 makes provision about schemes for the transfer of staff from the Welsh Government to the OEGW.
 
 ### Interpretation
 
-#### 31. Meaning of “environmental law”[^key-bb5de4539610a3de7304d9be6a3f833b]
+#### 31. Meaning of “environmental law”[^c-bb5de4539610a3de7304d9be6a3f833b]
 
 (1) In this Part, “**environmental law**” means any devolved provision to the extent that it—
 
@@ -643,18 +643,18 @@ Schedule 3 makes provision about schemes for the transfer of staff from the Wels
 - (a) the OEGW, and
 - (b) such other persons as they consider appropriate.
 
-#### 32. Meaning of “public authority”[^key-e1c6a2a3f381a8eb25655dbf0b5ce729]
+#### 32. Meaning of “public authority”[^c-e1c6a2a3f381a8eb25655dbf0b5ce729]
 
 In this Part, “**public authority**” means a person, other than the OEGW, who is—
 
 - (a) a devolved Welsh authority within the meaning given by section 157A of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), or
 - (b) listed in paragraph 9(2) or (6) of Schedule 7B to that Act.
 
-#### 33. Meaning of “effectiveness of environmental law”[^key-82e3f3baa783a11ea4ccfa406c67b45a]
+#### 33. Meaning of “effectiveness of environmental law”[^c-82e3f3baa783a11ea4ccfa406c67b45a]
 
 In this Part, references to the effectiveness of environmental law are references to its effectiveness in contributing to environmental protection.
 
-#### 34. Meaning of “failing to comply with environmental law”[^key-ae17f3c71ba240098f01b1147758bfcc]
+#### 34. Meaning of “failing to comply with environmental law”[^c-ae17f3c71ba240098f01b1147758bfcc]
 
 In this Part, references to a public authority failing to comply with environmental law are references to the authority—
 
@@ -663,7 +663,7 @@ In this Part, references to a public authority failing to comply with environmen
 
 ## PART 3 — BIODIVERSITY TARGETS, ETC.
 
-### 35. Biodiversity targets[^key-cea18b9b54f3ea64c84d6dafd6e6edba]
+### 35. Biodiversity targets[^c-cea18b9b54f3ea64c84d6dafd6e6edba]
 
 (1) After section 6A of the Environment Act (as inserted by section 39 of this Act), insert—
 
@@ -856,7 +856,7 @@ In this Part, references to a public authority failing to comply with environmen
 
 (3) In section 25(4) of the Environment Act, after “section 22(1)” insert “, or to revoke a target that has been set in regulations under section 6B and that has been met,”.
 
-### 36. Public authorities’ duties[^key-f75e1a1e7a66c6867df0ef41cf70ac22]
+### 36. Public authorities’ duties[^c-f75e1a1e7a66c6867df0ef41cf70ac22]
 
 (1) After section 6(2) of the Environment Act, insert—
 
@@ -873,7 +873,7 @@ In this Part, references to a public authority failing to comply with environmen
 > - (a) a devolved Welsh authority within the meaning given by section 157A of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), or
 > - (b) listed in paragraph 9(2) or (6) of Schedule 7B to that Act.
 
-### 37. Welsh Ministers’ plans under section 6 of the Environment Act[^key-672b71fd67f87dc7c683797c9d2780b2]
+### 37. Welsh Ministers’ plans under section 6 of the Environment Act[^c-672b71fd67f87dc7c683797c9d2780b2]
 
 After section 6(6) of the Environment Act, insert—
 
@@ -900,7 +900,7 @@ After section 6(6) of the Environment Act, insert—
 >
 > (6C) In subsection (6B)(a), the “Global Biodiversity Framework means the Kunming-Montreal Global Biodiversity Framework, adopted under the United Nations Convention on Biological Diversity referred to in subsection (4)(a) at the fifteenth meeting of the Conference of the Parties in December 2022.
 
-### 38. Reports under section 6 of the Environment Act[^key-80281b444add9994fdcc985f7db440c8]
+### 38. Reports under section 6 of the Environment Act[^c-80281b444add9994fdcc985f7db440c8]
 
 (1) In section 6(7) of the Environment Act, for “to comply with subsection (1)” substitute
 
@@ -919,7 +919,7 @@ After section 6(6) of the Environment Act, insert—
 >
 > (7C) Sending a copy of the report under subsection (7B) is to be treated as a request by the Welsh Ministers to the Office of Environmental Governance Wales for advice under section 13 of the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc xx).
 
-### 39. Evaluation report[^key-aa79a51397d483be03e85cd925f92ee3]
+### 39. Evaluation report[^c-aa79a51397d483be03e85cd925f92ee3]
 
 (1) After section 6 of the Environment Act, insert –
 
@@ -944,7 +944,7 @@ After section 6(6) of the Environment Act, insert—
   ;
 - (b) in subsection (3), after “subsection (1)”, insert “in relation to the documents mentioned in subsection (1)(a) or (b),”.
 
-### 40. Promoting awareness of biodiversity[^key-e03e71656f28319406fe537479e23d0b]
+### 40. Promoting awareness of biodiversity[^c-e03e71656f28319406fe537479e23d0b]
 
 (1) For the italic cross-heading preceding section 9 of the Environment Act, substitute—
 
@@ -960,7 +960,7 @@ After section 6(6) of the Environment Act, insert—
 
 ## PART 4 — GENERAL
 
-### 41. Power to make consequential etc. provision[^key-b7898752af73e46752d89e3874bda45a]
+### 41. Power to make consequential etc. provision[^c-b7898752af73e46752d89e3874bda45a]
 
 (1) If the Welsh Ministers consider it necessary or appropriate for the purposes of, in consequence of, or for giving full effect to any provision of this Act, they may by regulations make supplementary, incidental or consequential provision.
 
@@ -968,7 +968,7 @@ After section 6(6) of the Environment Act, insert—
 
 (3) In subsection (2) “**modify**” includes amend, revoke and repeal.
 
-### 42. Regulations[^key-2d50620d9ec51a0c159ac84fe837d934]
+### 42. Regulations[^c-2d50620d9ec51a0c159ac84fe837d934]
 
 (1) A power to make regulations under this Act is exercisable by Welsh statutory instrument.
 
@@ -996,7 +996,7 @@ After section 6(6) of the Environment Act, insert—
 - (b) an Assembly Measure;
 - (c) an Act of Parliament of the United Kingdom.
 
-### 43. Service of notices and other documents[^key-4bf92fed93442ffdc23d098b3f522e70]
+### 43. Service of notices and other documents[^c-4bf92fed93442ffdc23d098b3f522e70]
 
 (1) This section applies where a provision of this Act requires or authorises a notice, direction or other document to be given to a person (whether the provision uses the word “give”, “serve”, “send” or any other expression).
 
@@ -1021,7 +1021,7 @@ After section 6(6) of the Environment Act, insert—
 
 (6) Sections 231 and 233 of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) do not apply to documents to be given under this Act to or by a county council, a county borough council, a community council or a corporate joint committee.
 
-### 44. General interpretation[^key-5ef18918d28ce71fc80d413af5744c6a]
+### 44. General interpretation[^c-5ef18918d28ce71fc80d413af5744c6a]
 
 In this Act—
 
@@ -1051,11 +1051,11 @@ In this Act—
   - (b) in relation to Part 2, by section 32;
 - “**urgent compliance notice**” (“***hysbysiad cydymffurfio brys***”) has the meaning given by section 19(4).
 
-### 45. Consequential amendments[^key-77d73794af33e5a919a417062397f5cf][^key-4a3c18a03dc00f4f39dd84ea3f24e4ba]
+### 45. Consequential amendments[^c-77d73794af33e5a919a417062397f5cf][^c-4a3c18a03dc00f4f39dd84ea3f24e4ba]
 
 Schedule 4 makes provision in consequence of this Act.
 
-### 46. Coming into force[^key-5e6181f2199c09d01d8b86c7189d50f0]
+### 46. Coming into force[^c-5e6181f2199c09d01d8b86c7189d50f0]
 
 (1) This Part, apart from section 45, comes into force on the day after the day on which this Act receives Royal Assent.
 
@@ -1091,7 +1091,7 @@ Schedule 4 makes provision in consequence of this Act.
 
 (9) The period substituted in accordance with subsection (8) may not be longer than 48 months beginning with the day on which this Act receives Royal Assent.
 
-### 47. Short title[^key-d8a7ccfa472b20b131795b09e2f37362]
+### 47. Short title[^c-d8a7ccfa472b20b131795b09e2f37362]
 
 This Act may be referred to as—
 
@@ -1104,7 +1104,7 @@ This Act may be referred to as—
 
 ### PART 1 — STATUS
 
-#### 1. Status[^key-705efc175c37d6540f22aa044bf17cd7]
+#### 1. Status[^c-705efc175c37d6540f22aa044bf17cd7]
 
 (1) The OEGW is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
@@ -1112,7 +1112,7 @@ This Act may be referred to as—
 
 ### PART 2 — MEMBERSHIP
 
-#### 2. Members[^key-8231898e5278a246aacc5bb73f1efd1f]
+#### 2. Members[^c-8231898e5278a246aacc5bb73f1efd1f]
 
 (1) The members of the OEGW are—
 
@@ -1131,7 +1131,7 @@ This Act may be referred to as—
 - (b) the OEGW, and
 - (c) such other persons as they consider appropriate.
 
-#### 3. Disqualification[^key-90d4f7b462c7372da676753d685b0517]
+#### 3. Disqualification[^c-90d4f7b462c7372da676753d685b0517]
 
 (1) A person is disqualified from being a member of the OEGW if the person is—
 
@@ -1152,7 +1152,7 @@ This Act may be referred to as—
 
 (2) A person is also disqualified from being a non-executive member if the person is a member of the OEGW’s staff.
 
-#### 4. Terms of non-executive members[^key-0de71137ef787e3c7d0ee9478c2b0d1a]
+#### 4. Terms of non-executive members[^c-0de71137ef787e3c7d0ee9478c2b0d1a]
 
 (1) A non-executive member of the OEGW holds office for such a period, and on such terms and conditions, as may be specified in the terms of appointment, but this is subject to sub-paragraphs (2) and (3) and paragraph 5.
 
@@ -1167,7 +1167,7 @@ This Act may be referred to as—
 
 (5) The OEGW may, with the approval of the Welsh Ministers, pay its non-executive members such remuneration, expenses and allowances as the OEGW may determine.
 
-#### 5. Removal etc. of non-executive members[^key-db299a004805b93f65e0938067ddf3cf]
+#### 5. Removal etc. of non-executive members[^c-db299a004805b93f65e0938067ddf3cf]
 
 (1) The Welsh Ministers may, by giving notice to a person who is a non-executive member, remove the person from office if they are satisfied that—
 
@@ -1206,7 +1206,7 @@ This Act may be referred to as—
 
 ### PART 3 — STAFF
 
-#### 6. Chief executive[^key-5b99fb9a2387e60b0df05240732ce797]
+#### 6. Chief executive[^c-5b99fb9a2387e60b0df05240732ce797]
 
 (1) The OEGW must have a chief executive.
 
@@ -1218,7 +1218,7 @@ This Act may be referred to as—
 
 (5) The chief executive is a member of the OEGW’s staff.
 
-#### 7. Other staff[^key-87159c3107aa284103c2c29d1d5fc2c2]
+#### 7. Other staff[^c-87159c3107aa284103c2c29d1d5fc2c2]
 
 (1) The OEGW may appoint other members of staff.
 
@@ -1228,7 +1228,7 @@ This Act may be referred to as—
 
 ### PART 4 — APPOINTMENT REQUIREMENTS
 
-#### 8. Appointment requirements[^key-d5ebda1cdf56292569a0854e05cb699a]
+#### 8. Appointment requirements[^c-d5ebda1cdf56292569a0854e05cb699a]
 
 (1) In appointing a person as a non-executive member, the Welsh Ministers must have regard to the desirability of the OEGW’s members (between them) having experience of, and having shown capability in—
 
@@ -1260,7 +1260,7 @@ This Act may be referred to as—
 
 (8) In calculating the period of 21 days mentioned in sub-paragraph (7), no account is to be taken of any time during which Senedd Cymru is dissolved or is in recess for more than 4 days.
 
-#### 9. Disapplication of appointment requirements: interim members[^key-73a5f9cc272fc0c9f65305ad2b1ec058]
+#### 9. Disapplication of appointment requirements: interim members[^c-73a5f9cc272fc0c9f65305ad2b1ec058]
 
 (1) Paragraph 8(2) and (3) do not apply where the Welsh Ministers appoint a person as the OEGW’s chairperson or deputy chairperson for a period of 12 months or less in the circumstances set out in sub-paragraph (2).
 
@@ -1282,7 +1282,7 @@ This Act may be referred to as—
 
 ### PART 5 — COMMITTEES AND DELEGATION
 
-#### 10. Review committee[^key-59f56f1675e6eb1e5268721642187935]
+#### 10. Review committee[^c-59f56f1675e6eb1e5268721642187935]
 
 **Not yet in force.**
 
@@ -1308,7 +1308,7 @@ This Act may be referred to as—
 
 (7) The OEGW may pay such remuneration, expenses and allowances as it may determine to co-opted members.
 
-#### 11. Other committees and sub-committees[^key-89f1abb557ce2ad4a71aae8ae210d7e0]
+#### 11. Other committees and sub-committees[^c-89f1abb557ce2ad4a71aae8ae210d7e0]
 
 (1) The OEGW may establish committees and sub-committees (in addition to the review committee it is required to establish under paragraph 10).
 
@@ -1320,7 +1320,7 @@ This Act may be referred to as—
 
 (5) The OEGW may pay such remuneration, expenses and allowances as it may determine to co-opted members.
 
-#### 12. Joint committees[^key-985e0ae97b8490a787053620a8e33cd3]
+#### 12. Joint committees[^c-985e0ae97b8490a787053620a8e33cd3]
 
 (1) The OEGW may, in connection with the exercise of its functions, establish a committee jointly with any person.
 
@@ -1331,7 +1331,7 @@ This Act may be referred to as—
 - (a) is a member of a joint committee, but
 - (b) is not a member of the OEGW or a member of its staff.
 
-#### 13. Delegation[^key-a8629ad5cf76dded37c38c2801ca2c7a]
+#### 13. Delegation[^c-a8629ad5cf76dded37c38c2801ca2c7a]
 
 (1) The OEGW may delegate any of its functions to any one or more of its—
 
@@ -1372,7 +1372,7 @@ This Act may be referred to as—
 
 ### PART 6 — PROCEDURE ETC.
 
-#### 14. Procedure[^key-858282750e491230b34c9b14581c5c48]
+#### 14. Procedure[^c-858282750e491230b34c9b14581c5c48]
 
 (1) The OEGW must make rules to regulate its own procedure (including quorum).
 
@@ -1382,7 +1382,7 @@ This Act may be referred to as—
 
 (4) Rules made by the OEGW under sub-paragraph (3) may authorise its committees and sub-committees to determine their own procedure (including quorum).
 
-#### 15. Validity of proceedings and acts[^key-cfabd9a7df6b964a72f2ef6606a51743]
+#### 15. Validity of proceedings and acts[^c-cfabd9a7df6b964a72f2ef6606a51743]
 
 The validity of proceedings and acts of the OEGW (or of its committees or sub-committees, or of a joint committee) is not affected by—
 
@@ -1391,13 +1391,13 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 
 ### PART 7 — FINANCIAL MATTERS
 
-#### 16. Funding[^key-e1a0555c7f803c8bb2eb51a3adcf2ab3]
+#### 16. Funding[^c-e1a0555c7f803c8bb2eb51a3adcf2ab3]
 
 (1) The Welsh Ministers‍ must pay to the OEGW such sums as they consider to be sufficient to enable it to carry out its functions.
 
 (2) The Welsh Ministers’ payments to the OEGW may be made at such times and on such conditions as the Welsh Ministers may determine.
 
-#### 17. Accounting officer[^key-7d821c1520833d64a6d7c9f8066c5f28]
+#### 17. Accounting officer[^c-7d821c1520833d64a6d7c9f8066c5f28]
 
 (1) The chief executive of the OEGW is its accounting officer.
 
@@ -1414,7 +1414,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 - (c) responsibilities for the economy, efficiency and effectiveness with which the OEGW uses its resources;
 - (d) responsibilities owed to the Welsh Ministers, Senedd Cymru or its Public Accounts Committee.
 
-#### 18. Accounts[^key-3370deb13ffb788bc812245a8c9ca5b5]
+#### 18. Accounts[^c-3370deb13ffb788bc812245a8c9ca5b5]
 
 (1) The OEGW must, for each financial year—
 
@@ -1438,7 +1438,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 - (a) the period beginning with the day section 8 comes into force and ending with the second 31 March following that day, and
 - (b) subsequently, each successive period of 12 months.
 
-#### 19. Audit[^key-2a9440c6c294471503b2a5d164c1c08a]
+#### 19. Audit[^c-2a9440c6c294471503b2a5d164c1c08a]
 
 (1) This paragraph applies in relation to each statement of accounts submitted to the Auditor General for Wales by the OEGW under paragraph 18(3).
 
@@ -1456,7 +1456,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 
 (5) In complying with sub-paragraph (2), the Auditor General for Wales must examine and report on whether, in the opinion of the Auditor General for Wales, the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority that governs the expenditure.
 
-#### 20. Examination into use of resources[^key-7964bd2539d6e383309ad302ea058c51]
+#### 20. Examination into use of resources[^c-7964bd2539d6e383309ad302ea058c51]
 
 (1) The Auditor General for Wales may carry out examinations into the economy, efficiency and effectiveness with which resources have been used in the discharging of the OEGW’s functions.
 
@@ -1476,7 +1476,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 
 **Not yet in force.**
 
-#### 21. Annual report[^key-d1728e94ed006b71c3b078edffbbb5f8]
+#### 21. Annual report[^c-d1728e94ed006b71c3b078edffbbb5f8]
 
 (1) As soon as is reasonably practicable after the end of each financial year, the OEGW must—
 
@@ -1487,13 +1487,13 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 
 ### PART 9 — SUPPLEMENTARY PROVISIONS
 
-#### 22. Register of interests[^key-a29c649c1302b5734e761b0ec8405ac8]
+#### 22. Register of interests[^c-a29c649c1302b5734e761b0ec8405ac8]
 
 (1) The OEGW must establish and maintain a register of its members’ interests.
 
 (2) The OEGW must publish the entries recorded in the register of members’ interests.
 
-#### 23. Supplementary powers[^key-00cd41185ed57cde435cf576d6bff100]
+#### 23. Supplementary powers[^c-00cd41185ed57cde435cf576d6bff100]
 
 (1) The OEGW may do anything it considers—
 
@@ -1514,7 +1514,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 
 (introduced by section 11)
 
-### 1. Content[^key-9133c523e64d25fbe62be1d279ad320b]
+### 1. Content[^c-9133c523e64d25fbe62be1d279ad320b]
 
 (1) The strategy prepared and published under section 11(1) must set out how the OEGW intends to—
 
@@ -1562,7 +1562,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
   - (ii) whether to apply to the High Court for a review under section 21(1);
 - (e) how the OEGW intends to publish information relating to compliance notices, reviews of compliance notices, and improvement reports.
 
-### 2. Procedural requirements[^key-104d1b5290635f4ca39eae8832386bce]
+### 2. Procedural requirements[^c-104d1b5290635f4ca39eae8832386bce]
 
 (1) In preparing the strategy, the OEGW must consult—
 
@@ -1586,7 +1586,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 
 (introduced by section 30)
 
-### 1. Power to make staff transfer schemes[^key-f0741a5d064876673d7344a80b01f74e]
+### 1. Power to make staff transfer schemes[^c-f0741a5d064876673d7344a80b01f74e]
 
 (1) The Welsh Ministers may make one or more schemes providing for members of staff of the Welsh Government to become members of staff of the OEGW (a “staff transfer scheme”).
 
@@ -1599,7 +1599,7 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 - (e) provide for references to the Welsh Government in an instrument or other document to be treated as references to the OEGW;
 - (f) make consequential, supplementary, incidental or transitional provision.
 
-### 2. Modification of staff transfer schemes[^key-654639c894335ad8d4c928a81a57f3ce]
+### 2. Modification of staff transfer schemes[^c-654639c894335ad8d4c928a81a57f3ce]
 
 (1) The Welsh Ministers may modify a staff transfer scheme.
 
@@ -1607,11 +1607,11 @@ The validity of proceedings and acts of the OEGW (or of its committees or sub-co
 
 (3) A modification takes effect from the date when the original scheme came into effect or such later date as the Welsh Ministers may specify.
 
-### 3. Duty to lay staff transfer schemes before Senedd Cymru[^key-71de295f0fcca361b5dd3baf90f4a67e]
+### 3. Duty to lay staff transfer schemes before Senedd Cymru[^c-71de295f0fcca361b5dd3baf90f4a67e]
 
 The Welsh Ministers must lay a copy of a staff transfer scheme before Senedd Cymru.
 
-### 4. Interpretation[^key-284e3930228bd4bedafaf52f2a25ebf3]
+### 4. Interpretation[^c-284e3930228bd4bedafaf52f2a25ebf3]
 
 (1) For the purposes of this Schedule—
 
@@ -1624,7 +1624,7 @@ The Welsh Ministers must lay a copy of a staff transfer scheme before Senedd Cym
 
 (introduced by section 45)
 
-### 1. Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25)[^key-39cc2383b0e212a35ce4e42c8b644ad9]
+### 1. Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25)[^c-39cc2383b0e212a35ce4e42c8b644ad9]
 
 (1) The Environment Act 1995 is amended as follows.
 
@@ -1632,7 +1632,7 @@ The Welsh Ministers must lay a copy of a staff transfer scheme before Senedd Cym
 
 > (3A) Regulations under subsection (3) may not designate the Office of Environmental Governance Wales as a relevant Welsh public authority.
 
-### 2. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^key-061fe6e264840fc786c561280fdbd2f2]
+### 2. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^c-061fe6e264840fc786c561280fdbd2f2]
 
 In section 148 of the Government of Wales Act 2006 (meaning of “**Welsh public records**”), after subsection (2)(ka) insert—
 
@@ -1640,7 +1640,7 @@ In section 148 of the Government of Wales Act 2006 (meaning of “**Welsh public
 
 .
 
-### 3. Welsh Language (Wales) Measure [2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1)[^key-9f149d68f0e3b3bcc35e5ba8741a51d9]
+### 3. Welsh Language (Wales) Measure [2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1)[^c-9f149d68f0e3b3bcc35e5ba8741a51d9]
 
 In Schedule 6 to the Welsh Language (Wales) Measure 2011 (persons liable to be required to comply with standards: public bodies etc.), in the table, under the heading “General”, after the entry for the Office of Communications insert—
 
@@ -1648,7 +1648,7 @@ In Schedule 6 to the Welsh Language (Wales) Measure 2011 (persons liable to be r
 > | --- | --- |
 > | The Office of Environmental Governance Wales (*Swyddfa Llywodraethiant Amgylcheddol Cymru*) | Service delivery standardsPolicy making standardsOperational standardsRecord keeping standards |
 
-### 4. Active Travel (Wales) Act [2013 (anaw 7)](https://www.legislation.gov.uk/anaw/2013/7)[^key-9af4dbe8a8db79f321f0aa01153a3f2a]
+### 4. Active Travel (Wales) Act [2013 (anaw 7)](https://www.legislation.gov.uk/anaw/2013/7)[^c-9af4dbe8a8db79f321f0aa01153a3f2a]
 
 (1) The Active Travel (Wales) Act 2013 is amended as follows.
 
@@ -1656,7 +1656,7 @@ In Schedule 6 to the Welsh Language (Wales) Measure 2011 (persons liable to be r
 
 > (4A) Regulations under subsection (3) may not specify the Office of Environmental Governance Wales.
 
-### 5. Well-being of Future Generations (Wales) Act [2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2)[^key-897b9156c8bcbe4f9949a2d15cbbb8c5]
+### 5. Well-being of Future Generations (Wales) Act [2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2)[^c-897b9156c8bcbe4f9949a2d15cbbb8c5]
 
 **Not yet in force.**
 
@@ -1668,170 +1668,170 @@ In Schedule 6 to the Welsh Language (Wales) Measure 2011 (persons liable to be r
 
 ## Annotations
 
-[^key-c35b6ccf18767c9484c29a9068a7e1ca]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2026/4/section/1) in force at 27.6.2026, see [s. 46(2)(a)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/a)
+[^c-c35b6ccf18767c9484c29a9068a7e1ca]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2026/4/section/1) in force at 27.6.2026, see [s. 46(2)(a)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/a)
 
-[^key-f06e8c2bd16e3b366861dec0498bcb05]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2026/4/section/2) in force at 27.6.2026, see [s. 46(2)(a)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/a)
+[^c-f06e8c2bd16e3b366861dec0498bcb05]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2026/4/section/2) in force at 27.6.2026, see [s. 46(2)(a)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/a)
 
-[^key-c65dae122d87fde7dcb6e4ca9cf52e0d]: Commencement: S. 3 in force at 31.3.2027, see [s. 46(3)](https://www.legislation.gov.uk/asc/2026/4/section/46/3)
+[^c-c65dae122d87fde7dcb6e4ca9cf52e0d]: Commencement: S. 3 in force at 31.3.2027, see [s. 46(3)](https://www.legislation.gov.uk/asc/2026/4/section/46/3)
 
-[^key-3cb9f25f46a43cd909023e20f75bc2de]: Commencement: S. 4 in force at 31.3.2027, see [s. 46(3)](https://www.legislation.gov.uk/asc/2026/4/section/46/3)
+[^c-3cb9f25f46a43cd909023e20f75bc2de]: Commencement: S. 4 in force at 31.3.2027, see [s. 46(3)](https://www.legislation.gov.uk/asc/2026/4/section/46/3)
 
-[^key-fa9e8df1d4b3860413a078d023a3c5ff]: Commencement: S. 5 in force at 31.3.2027, see [s. 46(3)](https://www.legislation.gov.uk/asc/2026/4/section/46/3)
+[^c-fa9e8df1d4b3860413a078d023a3c5ff]: Commencement: S. 5 in force at 31.3.2027, see [s. 46(3)](https://www.legislation.gov.uk/asc/2026/4/section/46/3)
 
-[^key-05656e177b7b17f7423a6cdf5add9934]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2026/4/section/6) in force at 27.6.2026, see [s. 46(2)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/b)
+[^c-05656e177b7b17f7423a6cdf5add9934]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2026/4/section/6) in force at 27.6.2026, see [s. 46(2)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/b)
 
-[^key-6381cff89a84451a896b4e569b80f5b2]: Commencement: [S. 7(1)(a)](https://www.legislation.gov.uk/asc/2026/4/section/7/1/a)[(b)](https://www.legislation.gov.uk/asc/2026/4/section/7/1/b)[(d)](https://www.legislation.gov.uk/asc/2026/4/section/7/1/d), [(2)-(12)](https://www.legislation.gov.uk/asc/2026/4/section/7/2) in force at 27.6.2026, see [s. 46(2)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/b)
+[^c-6381cff89a84451a896b4e569b80f5b2]: Commencement: [S. 7(1)(a)](https://www.legislation.gov.uk/asc/2026/4/section/7/1/a)[(b)](https://www.legislation.gov.uk/asc/2026/4/section/7/1/b)[(d)](https://www.legislation.gov.uk/asc/2026/4/section/7/1/d), [(2)-(12)](https://www.legislation.gov.uk/asc/2026/4/section/7/2) in force at 27.6.2026, see [s. 46(2)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/b)
 
-[^key-10d12711814971643e2eb7057614cc3c]: Commencement: S. 7(1)(c) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(a)](https://www.legislation.gov.uk/asc/2026/4/section/46/6/a)
+[^c-10d12711814971643e2eb7057614cc3c]: Commencement: S. 7(1)(c) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(a)](https://www.legislation.gov.uk/asc/2026/4/section/46/6/a)
 
-[^key-539ec018dd6aed9187ae70fb6f09103f]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2026/4/section/8) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-539ec018dd6aed9187ae70fb6f09103f]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2026/4/section/8) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-681abdd557396daeb1f260d7d1b4297a]: Commencement: S. 9 not in force at Royal Assent, see [s. 46(4)](https://www.legislation.gov.uk/asc/2026/4/section/46/4)
+[^c-681abdd557396daeb1f260d7d1b4297a]: Commencement: S. 9 not in force at Royal Assent, see [s. 46(4)](https://www.legislation.gov.uk/asc/2026/4/section/46/4)
 
-[^key-57af74f1444910a862f136929d5a5c6e]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2026/4/section/9) in force at 5.10.2026 by [W.S.I. 2026/119](https://www.legislation.gov.uk/wsi/2026/119), [art. 2](https://www.legislation.gov.uk/wsi/2026/119/article/2)
+[^c-57af74f1444910a862f136929d5a5c6e]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2026/4/section/9) in force at 5.10.2026 by [W.S.I. 2026/119](https://www.legislation.gov.uk/wsi/2026/119), [art. 2](https://www.legislation.gov.uk/wsi/2026/119/article/2)
 
-[^key-6a199dee376b11fff6c1881cbeefdeee]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2026/4/section/10) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-6a199dee376b11fff6c1881cbeefdeee]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2026/4/section/10) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-e874923c85abe4bc8de54a437fc6e28a]: Commencement: S. 11 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-e874923c85abe4bc8de54a437fc6e28a]: Commencement: S. 11 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-b8d39a9d86b4343523d108b9f4e07a3e]: Commencement: S. 12 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-b8d39a9d86b4343523d108b9f4e07a3e]: Commencement: S. 12 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-9d4826df50d8dd664589d9309d9c4879]: Commencement: S. 13 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-9d4826df50d8dd664589d9309d9c4879]: Commencement: S. 13 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-697646b81a8e278125b41c6f0793d6c6]: Commencement: S. 14 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-697646b81a8e278125b41c6f0793d6c6]: Commencement: S. 14 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-64b41610e2772ffd3f4b8b91a022397a]: Commencement: S. 15 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-64b41610e2772ffd3f4b8b91a022397a]: Commencement: S. 15 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-9efd50d5dff9693681bc3fcf9f16c6bb]: Commencement: S. 16 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-9efd50d5dff9693681bc3fcf9f16c6bb]: Commencement: S. 16 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-dfeffa57f4bb47f8884d96317394a175]: Commencement: S. 17 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-dfeffa57f4bb47f8884d96317394a175]: Commencement: S. 17 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-d29b87cc24b3aa18a8d271c023ec7057]: Commencement: S. 18 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-d29b87cc24b3aa18a8d271c023ec7057]: Commencement: S. 18 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-49e22e4f416a517b90c96565fbb1bc4b]: Commencement: S. 19 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-49e22e4f416a517b90c96565fbb1bc4b]: Commencement: S. 19 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-87c1fd2c7ccaa346b449e4305974cd13]: Commencement: S. 20 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-87c1fd2c7ccaa346b449e4305974cd13]: Commencement: S. 20 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-4f2cbde61b6e60a6bd05a2f9ffa5547a]: Commencement: S. 21 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-4f2cbde61b6e60a6bd05a2f9ffa5547a]: Commencement: S. 21 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-e899355dd5fb1605761ad9beecf2000b]: Commencement: S. 22 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-e899355dd5fb1605761ad9beecf2000b]: Commencement: S. 22 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-afbe25968873dc1cb204b56d1ed3b5b8]: Commencement: S. 23 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-afbe25968873dc1cb204b56d1ed3b5b8]: Commencement: S. 23 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-a3170251fd4b846b9b28af628985770e]: Commencement: S. 24 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-a3170251fd4b846b9b28af628985770e]: Commencement: S. 24 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-84157336f9fe21bfb5415f5805ce9f97]: Commencement: S. 25 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-84157336f9fe21bfb5415f5805ce9f97]: Commencement: S. 25 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-1f82f052a0f051f6793deca7e8e58dfc]: Commencement: S. 26 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-1f82f052a0f051f6793deca7e8e58dfc]: Commencement: S. 26 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-d18c6a7a99e9034b0ee6144ab64416bb]: Commencement: S. 27 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-d18c6a7a99e9034b0ee6144ab64416bb]: Commencement: S. 27 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-ff270e54c5402a7de82175a1daec74d3]: Commencement: S. 28 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-ff270e54c5402a7de82175a1daec74d3]: Commencement: S. 28 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-b31febb4909c5bd05a29ac91c2372fc6]: Commencement: S. 29 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
+[^c-b31febb4909c5bd05a29ac91c2372fc6]: Commencement: S. 29 in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5)(6)(c)
 
-[^key-49666c4fc07d5792b05a37be422cd5ee]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2026/4/section/30) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
+[^c-49666c4fc07d5792b05a37be422cd5ee]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2026/4/section/30) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
 
-[^key-bb5de4539610a3de7304d9be6a3f833b]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2026/4/section/31) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
+[^c-bb5de4539610a3de7304d9be6a3f833b]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2026/4/section/31) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
 
-[^key-e1c6a2a3f381a8eb25655dbf0b5ce729]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2026/4/section/32) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
+[^c-e1c6a2a3f381a8eb25655dbf0b5ce729]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2026/4/section/32) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
 
-[^key-82e3f3baa783a11ea4ccfa406c67b45a]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2026/4/section/33) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
+[^c-82e3f3baa783a11ea4ccfa406c67b45a]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2026/4/section/33) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
 
-[^key-ae17f3c71ba240098f01b1147758bfcc]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2026/4/section/34) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
+[^c-ae17f3c71ba240098f01b1147758bfcc]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2026/4/section/34) in force at 27.6.2026, see [s. 46(2)(e)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/e)
 
-[^key-cea18b9b54f3ea64c84d6dafd6e6edba]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2026/4/section/35) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-cea18b9b54f3ea64c84d6dafd6e6edba]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2026/4/section/35) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-f75e1a1e7a66c6867df0ef41cf70ac22]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2026/4/section/36) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-f75e1a1e7a66c6867df0ef41cf70ac22]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2026/4/section/36) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-672b71fd67f87dc7c683797c9d2780b2]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2026/4/section/37) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-672b71fd67f87dc7c683797c9d2780b2]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2026/4/section/37) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-80281b444add9994fdcc985f7db440c8]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2026/4/section/38) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-80281b444add9994fdcc985f7db440c8]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2026/4/section/38) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-aa79a51397d483be03e85cd925f92ee3]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2026/4/section/39) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-aa79a51397d483be03e85cd925f92ee3]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2026/4/section/39) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-e03e71656f28319406fe537479e23d0b]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2026/4/section/40) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-e03e71656f28319406fe537479e23d0b]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2026/4/section/40) in force at 27.6.2026, see [s. 46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-b7898752af73e46752d89e3874bda45a]: Commencement: S. 41 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
+[^c-b7898752af73e46752d89e3874bda45a]: Commencement: S. 41 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
 
-[^key-2d50620d9ec51a0c159ac84fe837d934]: Commencement: S. 42 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
+[^c-2d50620d9ec51a0c159ac84fe837d934]: Commencement: S. 42 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
 
-[^key-4bf92fed93442ffdc23d098b3f522e70]: Commencement: S. 43 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
+[^c-4bf92fed93442ffdc23d098b3f522e70]: Commencement: S. 43 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
 
-[^key-5ef18918d28ce71fc80d413af5744c6a]: Commencement: S. 44 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
+[^c-5ef18918d28ce71fc80d413af5744c6a]: Commencement: S. 44 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
 
-[^key-77d73794af33e5a919a417062397f5cf]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2026/4/section/45) in force at 27.6.2026 for specified purposes, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
+[^c-77d73794af33e5a919a417062397f5cf]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2026/4/section/45) in force at 27.6.2026 for specified purposes, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
 
-[^key-4a3c18a03dc00f4f39dd84ea3f24e4ba]: Commencement: S. 45 in force at 27.4.2028 in so far as not already in force (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/6/d)
+[^c-4a3c18a03dc00f4f39dd84ea3f24e4ba]: Commencement: S. 45 in force at 27.4.2028 in so far as not already in force (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/6/d)
 
-[^key-5e6181f2199c09d01d8b86c7189d50f0]: Commencement: S. 46 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
+[^c-5e6181f2199c09d01d8b86c7189d50f0]: Commencement: S. 46 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
 
-[^key-d8a7ccfa472b20b131795b09e2f37362]: Commencement: S. 47 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
+[^c-d8a7ccfa472b20b131795b09e2f37362]: Commencement: S. 47 in force at 28.4.2026, see [s. 46(1)](https://www.legislation.gov.uk/asc/2026/4/section/46/1)
 
-[^key-705efc175c37d6540f22aa044bf17cd7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/1) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-705efc175c37d6540f22aa044bf17cd7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/1) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-8231898e5278a246aacc5bb73f1efd1f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/2) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-8231898e5278a246aacc5bb73f1efd1f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/2) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-90d4f7b462c7372da676753d685b0517]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/3) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-90d4f7b462c7372da676753d685b0517]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/3) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-0de71137ef787e3c7d0ee9478c2b0d1a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/4) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-0de71137ef787e3c7d0ee9478c2b0d1a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/4) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-db299a004805b93f65e0938067ddf3cf]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/5) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-db299a004805b93f65e0938067ddf3cf]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/5) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-5b99fb9a2387e60b0df05240732ce797]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/6) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-5b99fb9a2387e60b0df05240732ce797]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/6) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-87159c3107aa284103c2c29d1d5fc2c2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/7) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-87159c3107aa284103c2c29d1d5fc2c2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/7) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-d5ebda1cdf56292569a0854e05cb699a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/8) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-d5ebda1cdf56292569a0854e05cb699a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/8) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-73a5f9cc272fc0c9f65305ad2b1ec058]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/9) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-73a5f9cc272fc0c9f65305ad2b1ec058]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/9) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-59f56f1675e6eb1e5268721642187935]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/10) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/b)
+[^c-59f56f1675e6eb1e5268721642187935]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/10) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/b)
 
-[^key-89f1abb557ce2ad4a71aae8ae210d7e0]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/11) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-89f1abb557ce2ad4a71aae8ae210d7e0]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/11) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-985e0ae97b8490a787053620a8e33cd3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/12) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-985e0ae97b8490a787053620a8e33cd3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/12) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-a8629ad5cf76dded37c38c2801ca2c7a]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/13) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-a8629ad5cf76dded37c38c2801ca2c7a]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/13) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-858282750e491230b34c9b14581c5c48]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/14) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-858282750e491230b34c9b14581c5c48]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/14) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-cfabd9a7df6b964a72f2ef6606a51743]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/15) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-cfabd9a7df6b964a72f2ef6606a51743]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/15) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-e1a0555c7f803c8bb2eb51a3adcf2ab3]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/16) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-e1a0555c7f803c8bb2eb51a3adcf2ab3]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/16) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-7d821c1520833d64a6d7c9f8066c5f28]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/17) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-7d821c1520833d64a6d7c9f8066c5f28]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/17) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-3370deb13ffb788bc812245a8c9ca5b5]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/18) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-3370deb13ffb788bc812245a8c9ca5b5]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/18) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-2a9440c6c294471503b2a5d164c1c08a]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/19) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-2a9440c6c294471503b2a5d164c1c08a]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/19) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-7964bd2539d6e383309ad302ea058c51]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/20) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-7964bd2539d6e383309ad302ea058c51]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/20) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-d1728e94ed006b71c3b078edffbbb5f8]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/21) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/b)
+[^c-d1728e94ed006b71c3b078edffbbb5f8]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/21) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(b)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/b)
 
-[^key-a29c649c1302b5734e761b0ec8405ac8]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/22) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-a29c649c1302b5734e761b0ec8405ac8]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/22) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-00cd41185ed57cde435cf576d6bff100]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/23) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
+[^c-00cd41185ed57cde435cf576d6bff100]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2026/4/schedule/1/paragraph/23) in force at 27.6.2026, see [s. 46(2)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/c)
 
-[^key-9133c523e64d25fbe62be1d279ad320b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/2/paragraph/1) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/c)
+[^c-9133c523e64d25fbe62be1d279ad320b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/2/paragraph/1) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/c)
 
-[^key-104d1b5290635f4ca39eae8832386bce]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/2/paragraph/2) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/c)
+[^c-104d1b5290635f4ca39eae8832386bce]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/2/paragraph/2) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(c)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/c)
 
-[^key-f0741a5d064876673d7344a80b01f74e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/1) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
+[^c-f0741a5d064876673d7344a80b01f74e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/1) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
 
-[^key-654639c894335ad8d4c928a81a57f3ce]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/2) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
+[^c-654639c894335ad8d4c928a81a57f3ce]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/2) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
 
-[^key-71de295f0fcca361b5dd3baf90f4a67e]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/3) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
+[^c-71de295f0fcca361b5dd3baf90f4a67e]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/3) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
 
-[^key-284e3930228bd4bedafaf52f2a25ebf3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/4) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
+[^c-284e3930228bd4bedafaf52f2a25ebf3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2026/4/schedule/3/paragraph/4) in force at 27.6.2026, see [s. 46(2)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/d)
 
-[^key-39cc2383b0e212a35ce4e42c8b644ad9]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/1) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
+[^c-39cc2383b0e212a35ce4e42c8b644ad9]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/1) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
 
-[^key-061fe6e264840fc786c561280fdbd2f2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/2) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
+[^c-061fe6e264840fc786c561280fdbd2f2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/2) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
 
-[^key-9f149d68f0e3b3bcc35e5ba8741a51d9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/3) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
+[^c-9f149d68f0e3b3bcc35e5ba8741a51d9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/3) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
 
-[^key-9af4dbe8a8db79f321f0aa01153a3f2a]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/4) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
+[^c-9af4dbe8a8db79f321f0aa01153a3f2a]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/4) in force at 27.6.2026, see [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g)
 
-[^key-897b9156c8bcbe4f9949a2d15cbbb8c5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/5) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/d)
+[^c-897b9156c8bcbe4f9949a2d15cbbb8c5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/5) in force at 27.4.2028 (conditional on an earlier day not being appointed by Welsh Ministers), see [s. 46(4)(5)(6)(d)](https://www.legislation.gov.uk/asc/2026/4/section/46/4/5/6/d)

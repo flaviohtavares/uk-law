@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Further provision about Chief Inspector and other inspectors etc.[^key-e3b214ee4b5cbcd62bea0a46f8004573]
+## 115. Further provision about Chief Inspector and other inspectors etc.[^c-e3b214ee4b5cbcd62bea0a46f8004573]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 makes further provision about the Chief Inspector and persons acting
 
 ## Annotations
 
-[^key-e3b214ee4b5cbcd62bea0a46f8004573]: Commencement: S. 115 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(s)](https://www.legislation.gov.uk/uksi/2007/935/article/5/s)
+[^c-e3b214ee4b5cbcd62bea0a46f8004573]: Commencement: S. 115 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(s)](https://www.legislation.gov.uk/uksi/2007/935/article/5/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Station works at Tower Gateway[^key-f6367b6c5d21c2caa6d750dd1240fdd4]
+## 7. Station works at Tower Gateway[^c-f6367b6c5d21c2caa6d750dd1240fdd4]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6367b6c5d21c2caa6d750dd1240fdd4]: Commencement: Art. 7 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-f6367b6c5d21c2caa6d750dd1240fdd4]: Commencement: Art. 7 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

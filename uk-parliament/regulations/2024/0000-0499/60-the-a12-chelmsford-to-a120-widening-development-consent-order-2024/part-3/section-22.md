@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Clearways, prohibitions and restrictions[^key-10d6b2c9c8ae7ebefc9a6116e75df981]
+## 22. Clearways, prohibitions and restrictions[^c-10d6b2c9c8ae7ebefc9a6116e75df981]
 
 *Extent: E+W*
 
-(1) Except as provided in paragraph (6), on and after[^key-8a02e1c6991fbed390c014cc7bc5db6b] such day as the undertaker may determine, no person is to cause or permit any vehicle to stop on any part of the lengths of road described in column (2) of Part 8 (traffic regulation measures (clearways)) of Schedule 3 (classification of roads, etc.) and identified on the traffic regulation measures movement restrictions plans where it is identified in the corresponding row of column (3) of that Part that such lengths of road are to become a clearway, or that the stopping of vehicles is otherwise prohibited, except upon the direction of, or with the permission of, a uniformed constable or uniformed traffic officer.
+(1) Except as provided in paragraph (6), on and after[^c-8a02e1c6991fbed390c014cc7bc5db6b] such day as the undertaker may determine, no person is to cause or permit any vehicle to stop on any part of the lengths of road described in column (2) of Part 8 (traffic regulation measures (clearways)) of Schedule 3 (classification of roads, etc.) and identified on the traffic regulation measures movement restrictions plans where it is identified in the corresponding row of column (3) of that Part that such lengths of road are to become a clearway, or that the stopping of vehicles is otherwise prohibited, except upon the direction of, or with the permission of, a uniformed constable or uniformed traffic officer.
 
 (2) Except as provided in paragraph (10), on and after such day as the undertaker may determine, no person is to cause or permit any vehicle to proceed on any part of the lengths of road described in column (2) of Part 9 (traffic regulation measures (prohibitions)) of Schedule 3 and identified on the traffic regulation measures movement restrictions plans where it is identified in the corresponding row of column (3) of that Part that such lengths of road are to be subject to a width restriction, if the width of the vehicle exceeds the width specified in column (3) of that Part, except upon the direction of, or with the permission of, a uniformed constable or uniformed traffic officer.
 
@@ -41,7 +41,7 @@ summary: ''
   - (i) for police, ambulance, fire and rescue authority or traffic officer purposes,
   - (ii) in the service of a local authority, safety camera partnership or Driver and Vehicle Standards Agency in pursuance of statutory powers or duties;
   - (iii) in the service of a water or sewerage undertaker within the meaning of the Water Industry Act 1991[^f00055]; or
-  - (iv) by a universal service provider for the purposes of providing a universal postal service as defined in[^key-c9cca9da76566b81b699c122b0c56767] the Postal Services (Universal Postal Service) Order 2012[^f00056]; or
+  - (iv) by a universal service provider for the purposes of providing a universal postal service as defined in[^c-c9cca9da76566b81b699c122b0c56767] the Postal Services (Universal Postal Service) Order 2012[^f00056]; or
 - (c) in relation to a vehicle stopping or waiting when the person in control of it is—
   - (i) required by law to stop;
   - (ii) obliged to stop in order to avoid an accident; or
@@ -98,15 +98,15 @@ summary: ''
 
 ## Annotations
 
-[^key-10d6b2c9c8ae7ebefc9a6116e75df981]: Commencement: Art. 22 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-10d6b2c9c8ae7ebefc9a6116e75df981]: Commencement: Art. 22 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-8a02e1c6991fbed390c014cc7bc5db6b]: Textual amendment: Words in art. 22(1) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-8a02e1c6991fbed390c014cc7bc5db6b]: Textual amendment: Words in art. 22(1) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00054]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by section 4(2) of, and Schedule 1 to, the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
 [^f00055]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-c9cca9da76566b81b699c122b0c56767]: Textual amendment: Words in [art. 22(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/60/article/22/6/b/iv) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-c9cca9da76566b81b699c122b0c56767]: Textual amendment: Words in [art. 22(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/60/article/22/6/b/iv) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00056]: Footnote: [S.I. 2012/936](https://www.legislation.gov.uk/uksi/2012/936), amended by [S.I. 2013/3108](https://www.legislation.gov.uk/uksi/2013/3108) and [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643).
 

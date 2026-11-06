@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. New Schedules - scheme proprietor accounts etc, business strategy, business plan and promotion or marketing: unconnected multiple employer schemes[^key-99cfc3b94dc49bb8d4b484a3b576be02]
+## 23. New Schedules - scheme proprietor accounts etc, business strategy, business plan and promotion or marketing: unconnected multiple employer schemes[^c-99cfc3b94dc49bb8d4b484a3b576be02]
 
 *Extent: N.I.*
 
@@ -181,7 +181,7 @@ After Schedule 4 (money purchase benefits: Northern Ireland) insert—
 
 ## Annotations
 
-[^key-99cfc3b94dc49bb8d4b484a3b576be02]: Commencement: Reg. 23 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-99cfc3b94dc49bb8d4b484a3b576be02]: Commencement: Reg. 23 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 35 was substituted by Article 221 of the Pensions (Northern Ireland) Order 2005
 

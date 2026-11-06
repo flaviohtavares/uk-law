@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where in the case of any controlled or voluntary school which is eligible for grant‐maintained integrated status the result of a ballot held in accordance with Article 70 shows a simple majority of votes cast in the ballot by persons eligible to vote in the ballot (within the meaning of that Article) in favour of seeking grant‐maintained integrated status for the school, it shall be the duty of the Board of Governors of the school to submit a proposal for the acquisition of grant‐maintained integrated status for the school to the Authority[^key-f7642b99eef11a577d43899a4accd7fb] .
+(1) Where in the case of any controlled or voluntary school which is eligible for grant‐maintained integrated status the result of a ballot held in accordance with Article 70 shows a simple majority of votes cast in the ballot by persons eligible to vote in the ballot (within the meaning of that Article) in favour of seeking grant‐maintained integrated status for the school, it shall be the duty of the Board of Governors of the school to submit a proposal for the acquisition of grant‐maintained integrated status for the school to the Authority[^c-f7642b99eef11a577d43899a4accd7fb] .
 
 (2) Where—
 
@@ -36,7 +36,7 @@ he shall submit the proposal to the Authority .
 
 *Para. (4) rep. by 1996 NI 1*
 
-(5) A proposal submitted to the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] under paragraph (1) or (2) may not be withdrawn except with the consent of the Department and subject to such conditions as it may impose (which may, in particular, require a further proposal to be submitted under this Article within such period as it may specify).
+(5) A proposal submitted to the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] under paragraph (1) or (2) may not be withdrawn except with the consent of the Department and subject to such conditions as it may impose (which may, in particular, require a further proposal to be submitted under this Article within such period as it may specify).
 
 (6) The Authority shall, within 21 days of receiving a proposal under paragraph (1) or (2)—
 
@@ -59,7 +59,7 @@ he shall submit the proposal to the Authority .
 
 may approve the proposal and inform that Board of Governors or person accordingly.
 
-(8) The Department shall not approve a proposal under this Article in relation to a school unless it appears to the Department that, if the school were to become, or be established as, a grant‐maintained integrated school, the school would be likely to provide integrated education[^key-ce3fa9bb82d27ef354f9fd5085225f65].
+(8) The Department shall not approve a proposal under this Article in relation to a school unless it appears to the Department that, if the school were to become, or be established as, a grant‐maintained integrated school, the school would be likely to provide integrated education[^c-ce3fa9bb82d27ef354f9fd5085225f65].
 
 (9) The Department shall not approve a proposal under paragraph (1) in relation to a school unless the school was eligible for grant‐maintained integrated status on the date on which the proposal was submitted under that paragraph.
 
@@ -73,10 +73,10 @@ may approve the proposal and inform that Board of Governors or person accordingl
 
 ## Annotations
 
-[^key-f7642b99eef11a577d43899a4accd7fb]: Textual amendment: Word in art. 71 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-f7642b99eef11a577d43899a4accd7fb]: Textual amendment: Word in art. 71 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17609721]: Textual amendment: [1996 NI 1](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-ce3fa9bb82d27ef354f9fd5085225f65]: Textual amendment: Words in [art. 71(8)](https://www.legislation.gov.uk/nisi/1989/2406/article/71/8) substituted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 13(3)](https://www.legislation.gov.uk/nia/2022/15/section/13/3), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-ce3fa9bb82d27ef354f9fd5085225f65]: Textual amendment: Words in [art. 71(8)](https://www.legislation.gov.uk/nisi/1989/2406/article/71/8) substituted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 13(3)](https://www.legislation.gov.uk/nia/2022/15/section/13/3), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Assessment orders[^key-43221e2d6429736fc3078fb3a42c1754]
+## 11. Assessment orders[^c-43221e2d6429736fc3078fb3a42c1754]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ for the purposes set out in subsection (2).
 
 ## Annotations
 
-[^key-43221e2d6429736fc3078fb3a42c1754]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2007/10/section/11) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-43221e2d6429736fc3078fb3a42c1754]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2007/10/section/11) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

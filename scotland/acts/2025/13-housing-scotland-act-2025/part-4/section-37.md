@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Use of unclaimed tenancy deposits[^key-f160008a11075b909a781b5209486823]
+## 37. Use of unclaimed tenancy deposits[^c-f160008a11075b909a781b5209486823]
 
 *Extent: S*
 
@@ -144,4 +144,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f160008a11075b909a781b5209486823]: Commencement: S. 37 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-f160008a11075b909a781b5209486823]: Commencement: S. 37 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

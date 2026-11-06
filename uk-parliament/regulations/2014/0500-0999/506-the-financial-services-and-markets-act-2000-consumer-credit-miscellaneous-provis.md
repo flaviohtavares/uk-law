@@ -44,9 +44,9 @@ Coming into force in accordance with article 1
 
 The Treasury are a government department designated for the purpose of section 2(2) of the European Communities Act 1972[^f00001] in relation to financial services[^f00002].
 
-The Treasury make the following Order in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 38 and 426(1) of the Financial Services and Markets Act 2000[^f00003]:[^key-54bd5892238258ad114553496cf3c708]
+The Treasury make the following Order in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 38 and 426(1) of the Financial Services and Markets Act 2000[^f00003]:[^c-54bd5892238258ad114553496cf3c708]
 
-## 1. Citation and commencement[^key-d7a834373e5dbcd449552cf3975e8a41][^key-d7a834373e5dbcd449552cf3975e8a41]
+## 1. Citation and commencement[^c-d7a834373e5dbcd449552cf3975e8a41][^c-d7a834373e5dbcd449552cf3975e8a41]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014.
 
@@ -56,7 +56,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 (4) Article 2 comes into force on 1st April 2014 immediately after article 14(4) of the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^f00004] comes into force in accordance with article 1(6) of that Order, to the extent that it is not already in force.
 
-## 2. The Financial Services and Markets Act 2000 (Exemption) Order 2001[^key-dca11a51fe6eb04cdd509d6ff26cb576]
+## 2. The Financial Services and Markets Act 2000 (Exemption) Order 2001[^c-dca11a51fe6eb04cdd509d6ff26cb576]
 
 (1) Part 4 (persons exempt in respect of particular regulated activities) of the Schedule to the Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00005] is amended as follows.
 
@@ -145,7 +145,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 .
 
-## 3. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-cc70cb70832246a654eabcf58097219b]
+## 3. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-cc70cb70832246a654eabcf58097219b]
 
 (1) The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00012] is amended as follows.
 
@@ -159,7 +159,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 .
 
-## 4. The Money Laundering Regulations 2007[^key-6f5f583e95d4f0b83f6c6306f8931371]
+## 4. The Money Laundering Regulations 2007[^c-6f5f583e95d4f0b83f6c6306f8931371]
 
 In regulation 4 of the Money Laundering Regulations 2007[^f00016] (exclusions), after paragraph (1)(c) insert—
 
@@ -167,7 +167,7 @@ In regulation 4 of the Money Laundering Regulations 2007[^f00016] (exclusions), 
 
 .
 
-## 5. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^key-cc28c4af39ba71db69acd13d4174f860][^key-cc28c4af39ba71db69acd13d4174f860]
+## 5. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^c-cc28c4af39ba71db69acd13d4174f860][^c-cc28c4af39ba71db69acd13d4174f860]
 
 (1) The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^f00018] is amended as follows.
 
@@ -205,7 +205,7 @@ In regulation 4 of the Money Laundering Regulations 2007[^f00016] (exclusions), 
 
 .
 
-## 6. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014[^key-2ad251e1d6f2c80413d137ceca451116][^key-2ad251e1d6f2c80413d137ceca451116]
+## 6. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014[^c-2ad251e1d6f2c80413d137ceca451116][^c-2ad251e1d6f2c80413d137ceca451116]
 
 (1) The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014[^f00022] is amended as follows.
 
@@ -226,7 +226,7 @@ In regulation 4 of the Money Laundering Regulations 2007[^f00016] (exclusions), 
 - (b) renumber new paragraphs (5) and (6) as paragraphs (6) and (7) respectively;
 - (c) for “paragraph (6)”, in each place, substitute “paragraph (7)”.
 
-## 7. Complaints against the Office of Fair Trading[^key-00d160320b549db53f76828a58def53b]
+## 7. Complaints against the Office of Fair Trading[^c-00d160320b549db53f76828a58def53b]
 
 (1) Paragraph (3) applies to—
 
@@ -289,13 +289,13 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00003]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-54bd5892238258ad114553496cf3c708]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-54bd5892238258ad114553496cf3c708]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-d7a834373e5dbcd449552cf3975e8a41]: Commencement: Art. 1 in force at 30.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/506/article/1)
+[^c-d7a834373e5dbcd449552cf3975e8a41]: Commencement: Art. 1 in force at 30.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/506/article/1)
 
 [^f00004]: Footnote: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Article 1(6) of that Order brings that Order into force on 1st April 2014 to the extent that it is not already in force. Article 14(4) of that Order inserts paragraphs 52 to 54 into the Schedule to the Financial Services and Markets Act 2000 (Exemption) Order 2001.
 
-[^key-dca11a51fe6eb04cdd509d6ff26cb576]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/506/article/1/4)
+[^c-dca11a51fe6eb04cdd509d6ff26cb576]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/506/article/1/4)
 
 [^f00005]: Footnote: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201).
 
@@ -311,7 +311,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00011]: Footnote: Section 31 of the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8) defines “authorised person” as a person who is authorised for the purposes of that Act, including a person who has permission under Part 4A of that Act to carry on one or more regulated activities; Part 4A substituted by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11.
 
-[^key-cc70cb70832246a654eabcf58097219b]: Commencement: Art. 3 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
+[^c-cc70cb70832246a654eabcf58097219b]: Commencement: Art. 3 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
 
 [^f00012]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529).
 
@@ -321,13 +321,13 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00015]: Footnote: Article 72H of [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544) inserted by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
-[^key-6f5f583e95d4f0b83f6c6306f8931371]: Commencement: Art. 4 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
+[^c-6f5f583e95d4f0b83f6c6306f8931371]: Commencement: Art. 4 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
 
 [^f00016]: Footnote: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
 [^f00017]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); article 72G inserted by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
-[^key-cc28c4af39ba71db69acd13d4174f860]: Commencement: Art. 5 in force at 30.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2)
+[^c-cc28c4af39ba71db69acd13d4174f860]: Commencement: Art. 5 in force at 30.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2)
 
 [^f00018]: Footnote: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
@@ -337,13 +337,13 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00021]: Footnote: Inserted by the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), section 19; amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-2ad251e1d6f2c80413d137ceca451116]: Commencement: Art. 6 in force at 30.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2)
+[^c-2ad251e1d6f2c80413d137ceca451116]: Commencement: Art. 6 in force at 30.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2)
 
 [^f00022]: Footnote: [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
 [^f00023]: Footnote: Paragraph (5) inserted into article 58 of the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013, [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), by [S.I. 2014/208](https://www.legislation.gov.uk/uksi/2014/208).
 
-[^key-00d160320b549db53f76828a58def53b]: Commencement: Art. 7 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
+[^c-00d160320b549db53f76828a58def53b]: Commencement: Art. 7 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
 
 [^f00024]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 

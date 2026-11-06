@@ -26,8 +26,8 @@ summary: ''
 - (b) it is a debt on a security which is listed on a recognised stock exchange, or
 - (c) it is a debt on a debenture issued by the deposit-taker (see section 1022).
 
-(2)[^key-66d65ea97f554395a0916563b0728e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-66d65ea97f554395a0916563b0728e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66d65ea97f554395a0916563b0728e25]: Textual amendment: S. 870(2) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/15)
+[^c-66d65ea97f554395a0916563b0728e25]: Textual amendment: S. 870(2) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/15)

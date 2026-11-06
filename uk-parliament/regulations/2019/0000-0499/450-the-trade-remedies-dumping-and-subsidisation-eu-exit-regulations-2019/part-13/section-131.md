@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Modifications to Part 11[^key-95c3039406c88032242b3918ca6159c9]
+## 131. Modifications to Part 11[^c-95c3039406c88032242b3918ca6159c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ Regulation 90 (extension of the period of a provisional remedy in a dumping inve
 
 ## Annotations
 
-[^key-95c3039406c88032242b3918ca6159c9]: Commencement: Reg. 131 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-95c3039406c88032242b3918ca6159c9]: Commencement: Reg. 131 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

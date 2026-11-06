@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Exercise of partial retirement option[^key-21bccac5870da363bb1cfdeba8086010]
+## 49. Exercise of partial retirement option[^c-21bccac5870da363bb1cfdeba8086010]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ where—
 
 ## Annotations
 
-[^key-21bccac5870da363bb1cfdeba8086010]: Commencement: Reg. 49 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-21bccac5870da363bb1cfdeba8086010]: Commencement: Reg. 49 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

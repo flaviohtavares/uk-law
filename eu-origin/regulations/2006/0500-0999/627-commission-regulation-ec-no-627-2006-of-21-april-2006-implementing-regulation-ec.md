@@ -105,7 +105,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-79d74b93a81cb1801e5286653bba9361]...
+[^c-79d74b93a81cb1801e5286653bba9361]...
 
 Done at Brussels, 21 April 2006.
 
@@ -252,7 +252,7 @@ Minimum method quality criteria for analysing Polycyclic Aromatic Hydrocarbons (
 
 [^f00009]: Footnote: [OJ L 221, 17.8.2002, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.221.01.0008.01.ENG). Decision as last amended by Decision 2004/25/EC ([OJ L 6, 10.1.2004, p. 38](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.006.01.0038.01.ENG)).
 
-[^key-79d74b93a81cb1801e5286653bba9361]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/627/signature) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [35](https://www.legislation.gov.uk/uksi/2019/860/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79d74b93a81cb1801e5286653bba9361]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/627/signature) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [35](https://www.legislation.gov.uk/uksi/2019/860/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00010]: Footnote: ISO 5725-1: *Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions.* Geneva, 1994.
 

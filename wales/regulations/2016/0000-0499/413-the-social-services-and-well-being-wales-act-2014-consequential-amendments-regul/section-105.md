@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**105.**[^key-388c17ea5c4dffaf3886dac4d8901b77] For section 104A[^f00132] (regulations and orders made by the Welsh Ministers under Part 3 etc.) substitute—
+**105.**[^c-388c17ea5c4dffaf3886dac4d8901b77] For section 104A[^f00132] (regulations and orders made by the Welsh Ministers under Part 3 etc.) substitute—
 
 > **104A. Regulations made by the Welsh Ministers under section 31A or Part 7**
 >
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-388c17ea5c4dffaf3886dac4d8901b77]: Commencement: Reg. 105 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-388c17ea5c4dffaf3886dac4d8901b77]: Commencement: Reg. 105 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00132]: Footnote: Section 104A was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 26; and was amended by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 16(2).

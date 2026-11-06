@@ -48,22 +48,22 @@ Coming into force
 
 The Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009[^f00001], makes these Regulations in exercise of the powers conferred by sections 73 and 316(1) of that Act.
 
-In accordance with section 316(6)(b) and (7)(c) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.[^key-c468a99027d7b5f41669924cff4f9542]
+In accordance with section 316(6)(b) and (7)(c) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.[^c-c468a99027d7b5f41669924cff4f9542]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-64ff516e5745c7c5f65498b22def5ccd]
+### 1. Citation and commencement[^c-64ff516e5745c7c5f65498b22def5ccd]
 
 These Regulations—
 
 - (a) may be cited as the Marine Licensing (Licence Application Appeals) Regulations 2011, and
 - (b) come into force on 6th April 2011.
 
-### 2. Application[^key-8f332f93203f0ac427d34bfa1553b01b]
+### 2. Application[^c-8f332f93203f0ac427d34bfa1553b01b]
 
 These Regulations apply in relation to any area, and any licensable marine activity carried on in that area, for which the Secretary of State is the appropriate licensing authority under section 113 of the Act[^f00002].
 
-### 3. Interpretation[^key-06b7158bf04aa52459cb1918ea01f88b]
+### 3. Interpretation[^c-06b7158bf04aa52459cb1918ea01f88b]
 
 In these Regulations—
 
@@ -80,7 +80,7 @@ In these Regulations—
 
 ## PART 2 — Appeals – general
 
-### 4. Appeal against marine licensing decisions[^key-d32c7ae70c73f1b38216315826751996]
+### 4. Appeal against marine licensing decisions[^c-d32c7ae70c73f1b38216315826751996]
 
 (1) A person who has applied for a marine licence may by notice appeal against a decision taken under section 71(1)(b) or (c), (4) or (5) of the Act (refusal of licence or grant subject to conditions etc).
 
@@ -88,7 +88,7 @@ In these Regulations—
 
 (3) Any requirement in these Regulations for the Secretary of State to give or send any notice or other thing to the Authority, or for the Authority to give or send notice or other thing to the Secretary of State, does not apply where the Authority is the Secretary of State.
 
-### 5. Determination of appeal by appointed person[^key-8f1cd64e8b5168d68d3743ba88fa53a4]
+### 5. Determination of appeal by appointed person[^c-8f1cd64e8b5168d68d3743ba88fa53a4]
 
 (1) Any appeal under these Regulations must be determined by a person appointed for that purpose by the Secretary of State.
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 ## PART 3 — Starting the appeal
 
-### 6. Time limit for the notice of appeal[^key-71d03e17e043845d48eea7ff068feb18]
+### 6. Time limit for the notice of appeal[^c-71d03e17e043845d48eea7ff068feb18]
 
 (1) Notice of an appeal must be received by the Secretary of State within the period of 6 months beginning with the date of the decision to which the appeal relates.
 
@@ -117,7 +117,7 @@ In these Regulations—
 
 (3) In this regulation, “notice of appeal” means a notice of appeal complying with regulation 7(1) and accompanied by the documents specified in regulation 7(2).
 
-### 7. Contents of the notice of appeal[^key-8917060dde59dd231e6ea2db3d2b57f2]
+### 7. Contents of the notice of appeal[^c-8917060dde59dd231e6ea2db3d2b57f2]
 
 (1) A notice of appeal must include—
 
@@ -131,7 +131,7 @@ In these Regulations—
 - (a) a copy of the decision to which the appeal relates; and
 - (b) a copy of all documents upon which the appellant wishes to rely.
 
-### 8. Decision as to appeal procedure and start date[^key-da4f0af6bed5c28e311005d13da19634]
+### 8. Decision as to appeal procedure and start date[^c-da4f0af6bed5c28e311005d13da19634]
 
 (1) The Secretary of State must, as soon as practicable after receipt of a valid notice of appeal, decide whether the appeal is to be determined by means of written representations, a hearing or an inquiry.
 
@@ -158,7 +158,7 @@ In these Regulations—
 
 ## PART 4 — Action following the start date
 
-### 9. Notice to interested persons[^key-691e3e00cadae0c99139a15ba82e7f17]
+### 9. Notice to interested persons[^c-691e3e00cadae0c99139a15ba82e7f17]
 
 (1) The Authority must, within the period of 2 weeks beginning with the start date, give notice that an appeal has been lodged—
 
@@ -183,7 +183,7 @@ In these Regulations—
 - (a) a list of the persons to whom, and the dates on which, notice under paragraph (1) was given; and
 - (b) copies of all representations referred to in paragraph (1)(a).
 
-### 10. Representations and further comments[^key-8758827c792d27a97dec076cb9ebfc59]
+### 10. Representations and further comments[^c-8758827c792d27a97dec076cb9ebfc59]
 
 (1) Where an appeal is to be determined by way of written representations—
 
@@ -206,11 +206,11 @@ In these Regulations—
 
 ## PART 5 — Hearings and inquiries
 
-### 11. Scope[^key-54d2300c74f3ba0e890f7926f0108d08]
+### 11. Scope[^c-54d2300c74f3ba0e890f7926f0108d08]
 
 This Part applies if an appeal is to be determined by way of hearing or inquiry (but certain provisions apply only to hearings or only to inquiries).
 
-### 12. Establishing the hearing or inquiry[^key-263a4b01092f5c76fd2a106502648e32]
+### 12. Establishing the hearing or inquiry[^c-263a4b01092f5c76fd2a106502648e32]
 
 (1) The Secretary of State must set a date for the hearing or inquiry (“the relevant date”).
 
@@ -220,7 +220,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (4) If the relevant date is changed the procedure in paragraphs (2) and (3) must be repeated.
 
-### 13. Pre-inquiry meeting[^key-31d063c42ad706101efa828799c99b00]
+### 13. Pre-inquiry meeting[^c-31d063c42ad706101efa828799c99b00]
 
 (1) The appointed person may hold a pre-inquiry meeting to determine the matters to be addressed and the procedure to be followed at an inquiry.
 
@@ -232,13 +232,13 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (3) At the meeting, the appointed person may give directions to the appellant, the Authority and any other person wishing to appear at the inquiry about things to be done in preparation for the inquiry and the date by which they must be done.
 
-### 14. Statement of agreed facts – inquiries[^key-11c761cecae991bb95184f6c16288b15]
+### 14. Statement of agreed facts – inquiries[^c-11c761cecae991bb95184f6c16288b15]
 
 (1) The appellant and the Authority must together prepare a statement containing agreed factual information about the subject matter of the appeal.
 
 (2) The Authority must ensure that the appointed person receives that statement at least 4 weeks before the inquiry date.
 
-### 15. Proofs of evidence – inquiries[^key-605dcc331d104766158bb00ced4de7fb]
+### 15. Proofs of evidence – inquiries[^c-605dcc331d104766158bb00ced4de7fb]
 
 (1) This regulation applies where a person entitled to appear at an inquiry intends to give, or to call a witness to give, evidence at the inquiry.
 
@@ -261,7 +261,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (9) This regulation is subject to regulation 17.
 
-### 16. Procedure[^key-4d0c63b46cf5b964ec0ba282ddd303f4]
+### 16. Procedure[^c-4d0c63b46cf5b964ec0ba282ddd303f4]
 
 (1) Except as otherwise provided in these Regulations, the appointed person may determine the procedure to be followed at a hearing or an inquiry.
 
@@ -293,7 +293,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (13) This regulation is subject to regulation 17.
 
-### 17. Powers to exclude persons, evidence etc[^key-0c6d49f992d465054ecb59bfb931a0d2]
+### 17. Powers to exclude persons, evidence etc[^c-0c6d49f992d465054ecb59bfb931a0d2]
 
 (1) If, at any stage of a hearing or inquiry, the appointed person considers that any of the reasons referred to in paragraph (2) apply, the appointed person may prevent any person from—
 
@@ -316,7 +316,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (4) Where the appointed person refuses to permit a person to give oral evidence under paragraph (3), the person may submit to the appointed person any evidence or other matter in writing before the close of the hearing or inquiry (but this is subject to paragraph (1)).
 
-### 18. Additional provisions as to evidence and costs[^key-5dd27680487b7613f7cd42802a40927f]
+### 18. Additional provisions as to evidence and costs[^c-5dd27680487b7613f7cd42802a40927f]
 
 (1) Subsections (2) to (5) of section 250 of the Local Government Act 1972[^f00004] (local inquiries: evidence and costs) apply, with the modifications described in paragraph (2), to any hearing or inquiry under these Regulations as they apply to inquiries under that section.
 
@@ -331,7 +331,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (4) Subject to paragraphs (1) and (3), the costs of a hearing or an inquiry held under these Regulations must be defrayed by the Secretary of State.
 
-### 19. Concurrent or combined inquiries[^key-ea62b6cd3563fa52d8aedd7018c30297]
+### 19. Concurrent or combined inquiries[^c-ea62b6cd3563fa52d8aedd7018c30297]
 
 (1) Paragraph (2) applies where—
 
@@ -342,7 +342,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (3) In this regulation “the relevant authority or authorities” means the Secretary of State or, where causing the other inquiry to be held is the function of some other person, the Secretary of State and that other person acting jointly.
 
-### 20. National security – inquiries[^key-f54f1cc30b7ff44e1ec9d4d8f8fe8249]
+### 20. National security – inquiries[^c-f54f1cc30b7ff44e1ec9d4d8f8fe8249]
 
 (1) If, in the case of any particular appeal, the Secretary of State certifies that it would in the opinion of the Secretary of State be contrary to the interests of national security—
 
@@ -358,7 +358,7 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 ## PART 6 — Final determination of the appeal
 
-### 21. Determination of appeals determined by way of written representations[^key-5b7632766cc5dd5faf6ede8e72d66c66]
+### 21. Determination of appeals determined by way of written representations[^c-5b7632766cc5dd5faf6ede8e72d66c66]
 
 (1) This regulation applies if an appeal is to be determined by way of written representations.
 
@@ -368,7 +368,7 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 (4) The appointed person may determine an appeal taking into account only such representations as have been sent within the relevant time limits.
 
-### 22. Determining the appeal – general[^key-f628bb93909f63bcca87d08b3dd4b70c]
+### 22. Determining the appeal – general[^c-f628bb93909f63bcca87d08b3dd4b70c]
 
 (1) On determining an appeal against a decision, the appointed person may—
 
@@ -382,13 +382,13 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 ## PART 7 — Supplementary provisions
 
-### 23. Failure to take action[^key-d94b4828c786d58ab24b7d2d09484470]
+### 23. Failure to take action[^c-d94b4828c786d58ab24b7d2d09484470]
 
 (1) This regulation applies where the appellant or the Authority has failed, within the relevant time limits, to take any step or provide any information required under these Regulations.
 
 (2) The appointed person may, after giving the appellant and the Authority notice of intention to do so, determine an appeal even though that step has not been taken or that information has not been provided.
 
-### 24. Supply of documents etc[^key-0d2a85223343ad298ae265976cc60c6f]
+### 24. Supply of documents etc[^c-0d2a85223343ad298ae265976cc60c6f]
 
 (1) Anything required or permitted to be supplied (including any representations made) under these Regulations must be in writing.
 
@@ -410,7 +410,7 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 (6) If any document has already been supplied for the purposes of an appeal and is readily available to all parties, the appointed person may direct that it need not be supplied again.
 
-### 25. Extending deadlines and providing additional information or copies[^key-23dee7c5f5b27c0d290acc67baec5dc6]
+### 25. Extending deadlines and providing additional information or copies[^c-23dee7c5f5b27c0d290acc67baec5dc6]
 
 (1) The Secretary of State or the appointed person may, in exceptional circumstances, extend any deadline.
 
@@ -455,62 +455,62 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-c468a99027d7b5f41669924cff4f9542]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/934) modified (27.11.2025) by [The Cory Decarbonisation Project Order 2025 (S.I. 2025/1227)](https://www.legislation.gov.uk/uksi/2025/1227), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1), [42(2)](https://www.legislation.gov.uk/uksi/2025/1227/article/42/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1227/schedule/12))
+[^c-c468a99027d7b5f41669924cff4f9542]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/934) modified (27.11.2025) by [The Cory Decarbonisation Project Order 2025 (S.I. 2025/1227)](https://www.legislation.gov.uk/uksi/2025/1227), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1), [42(2)](https://www.legislation.gov.uk/uksi/2025/1227/article/42/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1227/schedule/12))
 
-[^key-64ff516e5745c7c5f65498b22def5ccd]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-64ff516e5745c7c5f65498b22def5ccd]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-8f332f93203f0ac427d34bfa1553b01b]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-8f332f93203f0ac427d34bfa1553b01b]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
 [^f00002]: Footnote: By virtue of section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, the Secretary of State is the appropriate licensing authority as respects anything done in the course of carrying on certain activities in the Scottish offshore region, Wales and the Welsh inshore region, Northern Ireland and the Northern Ireland inshore region, and in relation to any other area not mentioned in subsections (2), (4) or (6). See section 322(1) for definitions of those regions.
 
-[^key-06b7158bf04aa52459cb1918ea01f88b]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-06b7158bf04aa52459cb1918ea01f88b]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
 [^f00003]: Footnote: That person will either be the Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, or, where the function under section 71 of that Act is exercisable by a person by virtue of an Order made under section 98(1) of that Act, that person.
 
-[^key-d32c7ae70c73f1b38216315826751996]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-d32c7ae70c73f1b38216315826751996]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-8f1cd64e8b5168d68d3743ba88fa53a4]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-8f1cd64e8b5168d68d3743ba88fa53a4]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-71d03e17e043845d48eea7ff068feb18]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-71d03e17e043845d48eea7ff068feb18]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-8917060dde59dd231e6ea2db3d2b57f2]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-8917060dde59dd231e6ea2db3d2b57f2]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-da4f0af6bed5c28e311005d13da19634]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-da4f0af6bed5c28e311005d13da19634]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-691e3e00cadae0c99139a15ba82e7f17]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-691e3e00cadae0c99139a15ba82e7f17]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-8758827c792d27a97dec076cb9ebfc59]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-8758827c792d27a97dec076cb9ebfc59]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-54d2300c74f3ba0e890f7926f0108d08]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-54d2300c74f3ba0e890f7926f0108d08]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-263a4b01092f5c76fd2a106502648e32]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-263a4b01092f5c76fd2a106502648e32]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-31d063c42ad706101efa828799c99b00]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-31d063c42ad706101efa828799c99b00]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-11c761cecae991bb95184f6c16288b15]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-11c761cecae991bb95184f6c16288b15]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-605dcc331d104766158bb00ced4de7fb]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-605dcc331d104766158bb00ced4de7fb]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-4d0c63b46cf5b964ec0ba282ddd303f4]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-4d0c63b46cf5b964ec0ba282ddd303f4]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-0c6d49f992d465054ecb59bfb931a0d2]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-0c6d49f992d465054ecb59bfb931a0d2]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-5dd27680487b7613f7cd42802a40927f]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-5dd27680487b7613f7cd42802a40927f]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
 [^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 250 has been amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37, 38 and 46, by the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), section 49(2) and Schedule 12 and by the Statute Law (Repeals) Act [1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43).
 
 [^f00005]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 322A was inserted by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 30(1), and subsection (1A) of section 322A was inserted by the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 196(4) and Schedule 10, paragraphs 1 and 11.
 
-[^key-ea62b6cd3563fa52d8aedd7018c30297]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-ea62b6cd3563fa52d8aedd7018c30297]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-f54f1cc30b7ff44e1ec9d4d8f8fe8249]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-f54f1cc30b7ff44e1ec9d4d8f8fe8249]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-5b7632766cc5dd5faf6ede8e72d66c66]: Commencement: Reg. 21 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-5b7632766cc5dd5faf6ede8e72d66c66]: Commencement: Reg. 21 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-f628bb93909f63bcca87d08b3dd4b70c]: Commencement: Reg. 22 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-f628bb93909f63bcca87d08b3dd4b70c]: Commencement: Reg. 22 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-d94b4828c786d58ab24b7d2d09484470]: Commencement: Reg. 23 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-d94b4828c786d58ab24b7d2d09484470]: Commencement: Reg. 23 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-0d2a85223343ad298ae265976cc60c6f]: Commencement: Reg. 24 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-0d2a85223343ad298ae265976cc60c6f]: Commencement: Reg. 24 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
 
-[^key-23dee7c5f5b27c0d290acc67baec5dc6]: Commencement: Reg. 25 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+[^c-23dee7c5f5b27c0d290acc67baec5dc6]: Commencement: Reg. 25 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)

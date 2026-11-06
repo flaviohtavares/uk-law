@@ -24,15 +24,15 @@ Section 30
 
 ### PART 1 — Disclosures that are “permitted”
 
-#### 1. Introduction[^key-9c965fdcde45300cd1fa901db4b0a405][^key-81659b592843a3310fda37138fc90d45]
+#### 1. Introduction[^c-9c965fdcde45300cd1fa901db4b0a405][^c-81659b592843a3310fda37138fc90d45]
 
 Paragraphs 2 to 5 set out which disclosures of information are “**permitted**” for the purposes of section 30(3).
 
-#### 2. Disclosure of any information to the Secretary of State[^key-9bbfb7291fcb07eecd0caf6ce465d58d][^key-03621de83e9e6cbd38bd216731c00fff]
+#### 2. Disclosure of any information to the Secretary of State[^c-9bbfb7291fcb07eecd0caf6ce465d58d][^c-03621de83e9e6cbd38bd216731c00fff]
 
 A disclosure of any information by the ICRIR to the Secretary of State is permitted.
 
-#### 3. Disclosure of sensitive information to certain recipients[^key-8cc668c68a0bca13a40528ddf4b322cf][^key-b531f747222f7a59f04b791be7c1a32c]
+#### 3. Disclosure of sensitive information to certain recipients[^c-8cc668c68a0bca13a40528ddf4b322cf][^c-b531f747222f7a59f04b791be7c1a32c]
 
 (1) A disclosure of sensitive information by the ICRIR to a person listed in sub-paragraph (2) is permitted if—
 
@@ -61,7 +61,7 @@ A disclosure of any information by the ICRIR to the Secretary of State is permit
 - (b) Christmas Day or Good Friday, or
 - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
-#### 4. Disclosure of sensitive information notified in advance to the Secretary of State[^key-c3f23623c7b174d0a921e8ceb98bdba9][^key-582a23cfe27d4a0b8b8384f14f929841]
+#### 4. Disclosure of sensitive information notified in advance to the Secretary of State[^c-c3f23623c7b174d0a921e8ceb98bdba9][^c-582a23cfe27d4a0b8b8384f14f929841]
 
 (1) A disclosure of sensitive information by the ICRIR is permitted if—
 
@@ -80,7 +80,7 @@ A disclosure of any information by the ICRIR to the Secretary of State is permit
 - (a) the Secretary of State must consider whether reasons for prohibiting it can be given without disclosing information which would risk prejudicing, or would prejudice, the national security interests of the United Kingdom; and
 - (b) if they can be given, the Secretary of State must give those reasons to the Commissioner for Investigations.
 
-#### 5. Disclosure of protected international information notified in advance to the Secretary of State[^key-25320932f15e0f51558cf89b25e0c612][^key-f88ce2eef82ab88c8628d4813628df41]
+#### 5. Disclosure of protected international information notified in advance to the Secretary of State[^c-25320932f15e0f51558cf89b25e0c612][^c-f88ce2eef82ab88c8628d4813628df41]
 
 (1) A disclosure of protected international information by the ICRIR is permitted if—
 
@@ -94,7 +94,7 @@ A disclosure of any information by the ICRIR to the Secretary of State is permit
 
 (3) But the Secretary of State may notify the Commissioner for Investigations that the proposed disclosure is prohibited only if, in the Secretary of State’s view, the disclosure of the protected international information would, or would be likely to, damage international relations.
 
-#### 6. The “relevant decision period”[^key-a709db22b1f04c72daedbd8b90cf5f2b][^key-4065b24b08563b48c1877bc4bb3fc6c4]
+#### 6. The “relevant decision period”[^c-a709db22b1f04c72daedbd8b90cf5f2b][^c-4065b24b08563b48c1877bc4bb3fc6c4]
 
 (1) In paragraph 4 or 5 “**relevant decision period**” (in relation to a proposed disclosure notified to the Secretary of State) means—
 
@@ -110,7 +110,7 @@ A disclosure of any information by the ICRIR to the Secretary of State is permit
 
 ### PART 2 — Decisions to prohibit disclosures of sensitive information in final reports
 
-#### 7. Application of this Part[^key-3b36afd0f9768f1cf8b90e222c847b5f][^key-b753fe856f5cd6607d2a5ac252231558]
+#### 7. Application of this Part[^c-3b36afd0f9768f1cf8b90e222c847b5f][^c-b753fe856f5cd6607d2a5ac252231558]
 
 This Part of this Schedule applies if—
 
@@ -118,7 +118,7 @@ This Part of this Schedule applies if—
 - (b) the Commissioner for Investigations notified the Secretary of State of the proposed disclosure in accordance with paragraph 4(1)(a), and
 - (c) the Secretary of State decided to prohibit the proposed disclosure in the final report (the “affected report”).
 
-#### 8. Affected report to include statement of Secretary of State’s decision[^key-56a74221f088d8ca22e5f6943a9be1b3][^key-ad21fb9ba869780e62bcadab02b97f38]
+#### 8. Affected report to include statement of Secretary of State’s decision[^c-56a74221f088d8ca22e5f6943a9be1b3][^c-ad21fb9ba869780e62bcadab02b97f38]
 
 (1) The affected report must include a statement that the Secretary of State decided to prohibit the proposed disclosure.
 
@@ -132,7 +132,7 @@ This Part of this Schedule applies if—
 
 a new final report relating to the death or other Troubles-related circumstances must be produced in accordance with section 15.
 
-#### 9. Initial appeals[^key-b0126c8542c5c954206770847cb21545][^key-090784b26e7c38afe0dc983087837a4f]
+#### 9. Initial appeals[^c-b0126c8542c5c954206770847cb21545][^c-090784b26e7c38afe0dc983087837a4f]
 
 (1) In this Part of this Schedule “**initial appeal**” means an appeal to the relevant court against the Secretary of State’s decision not to permit the proposed disclosure in the affected report.
 
@@ -149,7 +149,7 @@ a new final report relating to the death or other Troubles-related circumstances
 
 (5) If the court does not exercise that power to quash the decision, it must dismiss the appeal.
 
-#### 10. Bringing an initial appeal[^key-82cb868ba11ad06a1f9c9ec9e4b9d90d][^key-b6bac4192b89d78876acb59dd9fa229a]
+#### 10. Bringing an initial appeal[^c-82cb868ba11ad06a1f9c9ec9e4b9d90d][^c-b6bac4192b89d78876acb59dd9fa229a]
 
 (1) An initial appeal may be brought by—
 
@@ -158,7 +158,7 @@ a new final report relating to the death or other Troubles-related circumstances
 
 (2) An initial appeal must be brought within the period of 28 days beginning with the day on which the affected report is published under section 17.
 
-#### 11. Further appeal against an initial appeal[^key-52776f2fa076b83db2cf736c7dea2f0b][^key-8f4b45920e0cbbb51b0d31120c1ebc77]
+#### 11. Further appeal against an initial appeal[^c-52776f2fa076b83db2cf736c7dea2f0b][^c-8f4b45920e0cbbb51b0d31120c1ebc77]
 
 (1) This paragraph applies if the relevant court has determined an initial appeal.
 
@@ -174,7 +174,7 @@ a new final report relating to the death or other Troubles-related circumstances
 - (a) the further appeal would raise some important point of principle or practice, or
 - (b) there is some other compelling reason for the further appeal to be heard.
 
-#### 12. Application of the Justice and Security Act 2013[^key-e5d592d6967f2e3ac2d0b715d6bb4dd4][^key-9adf1ac1a6b27c27e901ada157373079]
+#### 12. Application of the Justice and Security Act 2013[^c-e5d592d6967f2e3ac2d0b715d6bb4dd4][^c-9adf1ac1a6b27c27e901ada157373079]
 
 (1) Any proceedings on an initial appeal or a further appeal (including any proceedings before the Supreme Court) are to be treated as section 6 proceedings (within the meaning of the JSA 2013) for the purposes of sections 8 to 14 of the JSA 2013.
 
@@ -189,7 +189,7 @@ a new final report relating to the death or other Troubles-related circumstances
 - (b) another ICRIR officer nominated by the Commissioner for Investigations, or
 - (c) a legal representative of the ICRIR.
 
-#### 13. Interpretation[^key-ce5e32684930049a88663eff0f67a9bd][^key-2d7426c18fa90cb1cebe98d8b1be4187]
+#### 13. Interpretation[^c-ce5e32684930049a88663eff0f67a9bd][^c-2d7426c18fa90cb1cebe98d8b1be4187]
 
 (1) In this Part of this Schedule—
 
@@ -230,54 +230,54 @@ and, in determining whether the person would be entitled to make the request, th
 
 ## Annotations
 
-[^key-9c965fdcde45300cd1fa901db4b0a405]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-9c965fdcde45300cd1fa901db4b0a405]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-81659b592843a3310fda37138fc90d45]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/1) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-81659b592843a3310fda37138fc90d45]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/1) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-9bbfb7291fcb07eecd0caf6ce465d58d]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-9bbfb7291fcb07eecd0caf6ce465d58d]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-03621de83e9e6cbd38bd216731c00fff]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/2) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-03621de83e9e6cbd38bd216731c00fff]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/2) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-8cc668c68a0bca13a40528ddf4b322cf]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-8cc668c68a0bca13a40528ddf4b322cf]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-b531f747222f7a59f04b791be7c1a32c]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/3) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-b531f747222f7a59f04b791be7c1a32c]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/3) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-c3f23623c7b174d0a921e8ceb98bdba9]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-c3f23623c7b174d0a921e8ceb98bdba9]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-582a23cfe27d4a0b8b8384f14f929841]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/4) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-582a23cfe27d4a0b8b8384f14f929841]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/4) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-25320932f15e0f51558cf89b25e0c612]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-25320932f15e0f51558cf89b25e0c612]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-f88ce2eef82ab88c8628d4813628df41]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/5) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-f88ce2eef82ab88c8628d4813628df41]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/5) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-a709db22b1f04c72daedbd8b90cf5f2b]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-a709db22b1f04c72daedbd8b90cf5f2b]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-4065b24b08563b48c1877bc4bb3fc6c4]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/6) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-4065b24b08563b48c1877bc4bb3fc6c4]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/6) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-3b36afd0f9768f1cf8b90e222c847b5f]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-3b36afd0f9768f1cf8b90e222c847b5f]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-b753fe856f5cd6607d2a5ac252231558]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/7) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-b753fe856f5cd6607d2a5ac252231558]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/7) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-56a74221f088d8ca22e5f6943a9be1b3]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-56a74221f088d8ca22e5f6943a9be1b3]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-ad21fb9ba869780e62bcadab02b97f38]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/8) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-ad21fb9ba869780e62bcadab02b97f38]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/8) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-b0126c8542c5c954206770847cb21545]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-b0126c8542c5c954206770847cb21545]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-090784b26e7c38afe0dc983087837a4f]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/9) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-090784b26e7c38afe0dc983087837a4f]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/9) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-82cb868ba11ad06a1f9c9ec9e4b9d90d]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-82cb868ba11ad06a1f9c9ec9e4b9d90d]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-b6bac4192b89d78876acb59dd9fa229a]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/10) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-b6bac4192b89d78876acb59dd9fa229a]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/10) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-52776f2fa076b83db2cf736c7dea2f0b]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-52776f2fa076b83db2cf736c7dea2f0b]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-8f4b45920e0cbbb51b0d31120c1ebc77]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/11) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-8f4b45920e0cbbb51b0d31120c1ebc77]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/11) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-e5d592d6967f2e3ac2d0b715d6bb4dd4]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-e5d592d6967f2e3ac2d0b715d6bb4dd4]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-9adf1ac1a6b27c27e901ada157373079]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/12) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-9adf1ac1a6b27c27e901ada157373079]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/12) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-ce5e32684930049a88663eff0f67a9bd]: Commencement: Sch. 6 para. 13 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-ce5e32684930049a88663eff0f67a9bd]: Commencement: Sch. 6 para. 13 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-2d7426c18fa90cb1cebe98d8b1be4187]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/13) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-2d7426c18fa90cb1cebe98d8b1be4187]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/13) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

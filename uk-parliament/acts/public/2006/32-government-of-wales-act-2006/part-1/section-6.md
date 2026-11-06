@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Voting at general elections[^key-77063abb4a35afad1dc0c08dfbe8ad80]
+## 6. Voting at general elections[^c-77063abb4a35afad1dc0c08dfbe8ad80]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77063abb4a35afad1dc0c08dfbe8ad80]: Textual amendment: [Ss. 6-9](https://www.legislation.gov.uk/ukpga/2006/32/section/6) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 8](https://www.legislation.gov.uk/asc/2024/4/section/8), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-77063abb4a35afad1dc0c08dfbe8ad80]: Textual amendment: [Ss. 6-9](https://www.legislation.gov.uk/ukpga/2006/32/section/6) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 8](https://www.legislation.gov.uk/asc/2024/4/section/8), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))

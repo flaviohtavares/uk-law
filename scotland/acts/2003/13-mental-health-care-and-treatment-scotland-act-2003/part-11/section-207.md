@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 207. Responsible medical officer’s report following review of direction[^key-565cb2a46b267c0d679079e013bea9e1][^key-2f0c17799403ec713325e64e85c33d50]
+## 207. Responsible medical officer’s report following review of direction[^c-565cb2a46b267c0d679079e013bea9e1][^c-2f0c17799403ec713325e64e85c33d50]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ summary: ''
 - (a) is satisfied that the patient has a mental disorder; but
 - (b) is not satisfied—
   - (i) that, as a result of the patient’s mental disorder, it is necessary, in order to protect any other person from serious harm, for the patient to be detained in hospital, whether or not for medical treatment; and
-  - (ii)[^key-5ecafcc6e60946a00753ef8dc6b33894] either—
+  - (ii)[^c-5ecafcc6e60946a00753ef8dc6b33894] either—
     - (A) that the conditions mentioned in paragraph (b) and (c) of section 206(4) of this Act continue to apply in respect of the patient; or
     - (B) that it continues to be necessary for the patient to be subject to the direction,
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-565cb2a46b267c0d679079e013bea9e1]: Commencement: S. 207 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-565cb2a46b267c0d679079e013bea9e1]: Commencement: S. 207 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-2f0c17799403ec713325e64e85c33d50]: Modification: S. 207 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [40](https://www.legislation.gov.uk/ssi/2005/467/regulation/40) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-2f0c17799403ec713325e64e85c33d50]: Modification: S. 207 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [40](https://www.legislation.gov.uk/ssi/2005/467/regulation/40) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-5ecafcc6e60946a00753ef8dc6b33894]: Textual amendment: S. 207(5)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 70(1)](https://www.legislation.gov.uk/asp/2007/10/section/70/1), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
+[^c-5ecafcc6e60946a00753ef8dc6b33894]: Textual amendment: S. 207(5)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 70(1)](https://www.legislation.gov.uk/asp/2007/10/section/70/1), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)

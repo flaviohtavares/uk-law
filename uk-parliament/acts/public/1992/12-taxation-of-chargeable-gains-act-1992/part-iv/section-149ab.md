@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149AB. Shares in research institution spin-out companies[^key-381ad428114573e31146330b8aa4deb2]
+## 149AB. Shares in research institution spin-out companies[^c-381ad428114573e31146330b8aa4deb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-381ad428114573e31146330b8aa4deb2]: Textual amendment: S. 149AB inserted (with effect in accordance with s. 22(5) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/22/3)
+[^c-381ad428114573e31146330b8aa4deb2]: Textual amendment: S. 149AB inserted (with effect in accordance with s. 22(5) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/22/3)

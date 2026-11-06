@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 25(2)(a) of the Charities and Trustee Investment (Scotland) Act 2005[^f00001], and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-179785fdc6968944c4a0b2296c82ebeb]
+## 1. Citation and commencement[^c-179785fdc6968944c4a0b2296c82ebeb]
 
 This Order may be cited as the Charities (Disclosure of Information to Designated Bodies) (Scotland) Order 2020 and comes into force on 1 March 2021.
 
-## 2. Designated bodies[^key-47a838c4fb3afab734f6db661eac9b8d]
+## 2. Designated bodies[^c-47a838c4fb3afab734f6db661eac9b8d]
 
 The public bodies and office-holders listed in the schedule are designated for the purposes of section 25(1)(a) of the Charities and Trustee Investment (Scotland) Act 2005 (removal of restrictions on disclosure of certain information).
 
@@ -62,11 +62,11 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE — Designated public bodies and office-holders[^key-11549fe56e7ed824e056be3781432c2a]
+## SCHEDULE — Designated public bodies and office-holders[^c-11549fe56e7ed824e056be3781432c2a]
 
 Article 2
 
-### Police forces[^key-11549fe56e7ed824e056be3781432c2a]
+### Police forces[^c-11549fe56e7ed824e056be3781432c2a]
 
 The chief constable of the Police Service of Scotland
 
@@ -88,7 +88,7 @@ The Provost Marshal of the Royal Military Police
 
 The Provost Marshal of the Royal Air Force Police
 
-The Provost Marshal for serious crime[^key-cb734967f79c45075af4309b72cd73ea]
+The Provost Marshal for serious crime[^c-cb734967f79c45075af4309b72cd73ea]
 
 The chief constable of Avon and Somerset Constabulary
 
@@ -178,7 +178,7 @@ The chief constable of West Yorkshire Police
 
 The chief constable of Wiltshire Police
 
-### Prosecuting authorities[^key-11549fe56e7ed824e056be3781432c2a]
+### Prosecuting authorities[^c-11549fe56e7ed824e056be3781432c2a]
 
 The Crown Office and Procurator Fiscal Service
 
@@ -188,7 +188,7 @@ The Director of Public Prosecutions for Northern Ireland
 
 The Director of the Serious Fraud Office
 
-### Other public bodies and office holders[^key-11549fe56e7ed824e056be3781432c2a]
+### Other public bodies and office holders[^c-11549fe56e7ed824e056be3781432c2a]
 
 The Charity Commission for England and Wales
 
@@ -200,9 +200,9 @@ The Financial Conduct Authority
 
 Her Majesty’s Revenue and Customs
 
-The Information Commission[^key-4915c38309de817e6b9aeb97b7f64dc3]
+The Information Commission[^c-4915c38309de817e6b9aeb97b7f64dc3]
 
-[^key-f011edada0a2a923f937f8ebdc95ec39]...
+[^c-f011edada0a2a923f937f8ebdc95ec39]...
 
 The Director General of the National Crime Agency
 
@@ -224,14 +224,14 @@ The schedule of this Order lists the public bodies and office-holders which are 
 
 [^f00001]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-179785fdc6968944c4a0b2296c82ebeb]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1) in force at 1.3.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1)
+[^c-179785fdc6968944c4a0b2296c82ebeb]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1) in force at 1.3.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1)
 
-[^key-47a838c4fb3afab734f6db661eac9b8d]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2020/435/article/2) in force at 1.3.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1)
+[^c-47a838c4fb3afab734f6db661eac9b8d]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2020/435/article/2) in force at 1.3.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1)
 
-[^key-11549fe56e7ed824e056be3781432c2a]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) in force at 1.3.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1)
+[^c-11549fe56e7ed824e056be3781432c2a]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) in force at 1.3.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/435/article/1)
 
-[^key-cb734967f79c45075af4309b72cd73ea]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/20/2)
+[^c-cb734967f79c45075af4309b72cd73ea]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/20/2)
 
-[^key-4915c38309de817e6b9aeb97b7f64dc3]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 36(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/36/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-4915c38309de817e6b9aeb97b7f64dc3]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 36(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/36/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-f011edada0a2a923f937f8ebdc95ec39]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 36(2)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/36/2/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-f011edada0a2a923f937f8ebdc95ec39]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/435/schedule) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 36(2)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/36/2/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

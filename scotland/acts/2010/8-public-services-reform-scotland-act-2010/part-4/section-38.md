@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Advisory and other functions[^key-42af19548366fc0ea56d574745b14717]
+## 38. Advisory and other functions[^c-42af19548366fc0ea56d574745b14717]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42af19548366fc0ea56d574745b14717]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/8/section/38) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-42af19548366fc0ea56d574745b14717]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/8/section/38) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

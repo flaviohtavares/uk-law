@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Meaning of “deposit taker”[^key-ab5ea1a00f525d547916401d034a3e04][^key-2ee6cf94cf07fdde69592ec7e31bef08]
+## 25. Meaning of “deposit taker”[^c-ab5ea1a00f525d547916401d034a3e04][^c-2ee6cf94cf07fdde69592ec7e31bef08]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab5ea1a00f525d547916401d034a3e04]: Commencement: S. 25 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-ab5ea1a00f525d547916401d034a3e04]: Commencement: S. 25 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-2ee6cf94cf07fdde69592ec7e31bef08]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/23/section/25) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-2ee6cf94cf07fdde69592ec7e31bef08]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/23/section/25) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

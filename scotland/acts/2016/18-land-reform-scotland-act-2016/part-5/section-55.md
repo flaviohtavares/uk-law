@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Right to buy: application procedure[^key-456c7f2961cd657e8ea7857e3bd5572e]
+## 55. Right to buy: application procedure[^c-456c7f2961cd657e8ea7857e3bd5572e]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ and the Scottish Ministers are not required to comply with subsections (1) to (6
 
 ## Annotations
 
-[^key-456c7f2961cd657e8ea7857e3bd5572e]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2016/18/section/55) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-456c7f2961cd657e8ea7857e3bd5572e]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2016/18/section/55) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

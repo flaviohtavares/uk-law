@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Application and modification of legislation[^key-f2138d45f0c47654178a549b255d9a70]
+## 4. Application and modification of legislation[^c-f2138d45f0c47654178a549b255d9a70]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f2138d45f0c47654178a549b255d9a70]: Commencement: Art. 4 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-f2138d45f0c47654178a549b255d9a70]: Commencement: Art. 4 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00022]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948).

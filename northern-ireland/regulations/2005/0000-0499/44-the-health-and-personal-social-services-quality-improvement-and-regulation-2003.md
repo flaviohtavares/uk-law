@@ -37,7 +37,7 @@ Made
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred on it by Article 1(3) and 48(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-f7bc24322472288781713030b8b93fc4]
+## 1. Citation and interpretation[^c-f7bc24322472288781713030b8b93fc4]
 
 (1) This Order may be cited as the Health and Personal Social Services (Quality, Improvement and Regulation) (2003 Order) (Commencement No. 3 & Transitional Provisions) Order (Northern Ireland) 2005.
 
@@ -51,17 +51,17 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - “the 1971 Act” means the Nursing Homes and Nursing Agencies Act (Northern Ireland) 1971[^f00004];
 - “the 1995 Order” means the Children (Northern Ireland) Order 1995.
 
-## 2. Appointed day[^key-83441d149ddba5b1457b674d4318d109]
+## 2. Appointed day[^c-83441d149ddba5b1457b674d4318d109]
 
 Subject to the remaining provisions of this Order, 1st March 2005 is the appointed day for the coming into operation of the provisions of the 2003 Order specified in Schedule 2, for the purposes only of authorising the making of regulations.
 
-**3.**[^key-1bbef4d9c3c9e02cd8e99007d9b6ecd3] 1st April 2005 is the appointed day for the coming into operation of the provisions of the 2003 Order as described in Schedule 1, in so far as they are not already in operation.
+**3.**[^c-1bbef4d9c3c9e02cd8e99007d9b6ecd3] 1st April 2005 is the appointed day for the coming into operation of the provisions of the 2003 Order as described in Schedule 1, in so far as they are not already in operation.
 
-## 4. Deemed registration of certain establishments and agencies[^key-f62ad6fe6d314c49aa0f8ac4c196a645]
+## 4. Deemed registration of certain establishments and agencies[^c-f62ad6fe6d314c49aa0f8ac4c196a645]
 
 Where on the commencement date a person who carries on or manages an establishment or agency to which any of the paragraphs of Article 5 applies, that person is to be treated for all purposes as if he had been registered under Part III of the 2003 Order on that date.
 
-## 5. Persons who carry on or manage an establishment or agency are deemed to be registered[^key-11e01c726a24374d5d47f432aa8e1267]
+## 5. Persons who carry on or manage an establishment or agency are deemed to be registered[^c-11e01c726a24374d5d47f432aa8e1267]
 
 (1) This Article applies to:
 
@@ -77,14 +77,14 @@ Where on the commencement date a person who carries on or manages an establishme
 
 (3) This paragraph applies to a person carrying on a nursing agency in respect of which he was, immediately before the commencement date, the holder of a licence issued under the 1971 Act.
 
-## 6. Duration of Deeming[^key-ca809b3020e1e44d213061f11ba5e23f]
+## 6. Duration of Deeming[^c-ca809b3020e1e44d213061f11ba5e23f]
 
 Where a person is deemed to be registered under Article 4, registration shall cease to have effect –
 
 - (a) where the person carrying on or managing an establishment or agency has before 1st October 2005 made an application for registration under Article 13(1) of the 2003 Order, on 1st April 2006; or
 - (b) in any other case, on 1st October 2005.
 
-## 7. Certificates, Notices and Licences[^key-8f728192fafef3950ffe7875deaf7284]
+## 7. Certificates, Notices and Licences[^c-8f728192fafef3950ffe7875deaf7284]
 
 (1) Where a person who carries on or manages an establishment or agency is, by virtue of Article 4, to be treated as if he had been registered under the 2003 Order, and –
 
@@ -96,7 +96,7 @@ that certificate, notice or licence shall be treated for the purposes of the 200
 
 (2) Where no such certificate, notice or licence has been issued as specified in paragraph (1), Article 28 of the 2003 Order shall not apply to a person who carries on or manages an establishment or agency, until the Regulation and Improvement Authority has issued a certificate of registration under that Order.
 
-## 8. Continuation of existing conditions[^key-b2c6580207c14f9ffc4a9121ad0245d9]
+## 8. Continuation of existing conditions[^c-b2c6580207c14f9ffc4a9121ad0245d9]
 
 Where a person carrying on or managing an establishment or agency is treated as having been registered by virtue of Article 4, any conditions –
 
@@ -105,7 +105,7 @@ Where a person carrying on or managing an establishment or agency is treated as 
 
 as the case may be shall, so far as they are capable of being conditions to which registration under the 2003 Order is subject, have effect from the commencement date as if they were such conditions which had for the purposes of Article 20 of that Order been agreed in writing between the Regulation and Improvement Authority and the person who carries on or manages the establishment or agency.
 
-## 9. Notices of Cancellation, Variation or Additional Condition under the 1992 Order \[Residential Care Homes\][^key-b1dc11b99e01b330463ae87325922e8a]
+## 9. Notices of Cancellation, Variation or Additional Condition under the 1992 Order \[Residential Care Homes\][^c-b1dc11b99e01b330463ae87325922e8a]
 
 (1) This Article applies –
 
@@ -124,7 +124,7 @@ as the case may be shall, so far as they are capable of being conditions to whic
 
 (3) Where a person to whom paragraph (1)(a) applies, has before the commencement date, applied to the Board specified in paragraph (1)(b) under Article 7(4) of the 1992 Order to impose an additional condition or to vary an existing condition and the Board has not by that date given notice under Article 11(4)(b) of the 1992 Order, the application shall be treated as an application to the Regulation and Improvement Authority, made on that date in accordance with the requirements of Article 16 of the 2003 Order.
 
-## 10. Notices of Cancellation, Variation or Additional Condition under the 1992 Order \[Nursing Homes\][^key-59e54f2cb9d7cdd9d3e9bb9750426f4f]
+## 10. Notices of Cancellation, Variation or Additional Condition under the 1992 Order \[Nursing Homes\][^c-59e54f2cb9d7cdd9d3e9bb9750426f4f]
 
 (1) This Article applies where –
 
@@ -145,7 +145,7 @@ as the case may be shall, so far as they are capable of being conditions to whic
 
 (3) Where a person to whom paragraph (1)(a) applies has before the commencement date applied to the Board, specified in paragraph (1)(b) under Article 20(4) of the 1992 Order to impose an additional condition or to vary an existing condition and the Board has not by that date, given notice under Article 24 (4) of the 1992 Order, the application shall be treated as an application to the Regulation and Improvement Authority, made on that date in accordance with Article 16 of the 2003 Order.
 
-## 11. Notices of Cancellation, Variation or Additional Condition under the 1995 Order \[Children’s Homes\][^key-7ec6d2a81722e8fedb57b850979c0830]
+## 11. Notices of Cancellation, Variation or Additional Condition under the 1995 Order \[Children’s Homes\][^c-7ec6d2a81722e8fedb57b850979c0830]
 
 (1) This Article applies –
 
@@ -164,7 +164,7 @@ as the case may be shall, so far as they are capable of being conditions to whic
 
 (3) Where a person to whom paragraph (1)(a) applies has before the commencement date applied to the Board specified in paragraph (1)(b), under Article 81(2) or 97(2) of the 1995 Order, to impose an additional condition or to vary an existing condition and the Board has not by that date given notice under Article 83 or 99 of the 1995 Order, the application shall be treated as an application to the Regulation and Improvement Authority made on that date, in accordance with Article 16 of the 2003 Order.
 
-## 12. Proposals under the 1971 Act \[Nursing Agencies\][^key-44a07320676b4be3cf3c5df2a4ebb243]
+## 12. Proposals under the 1971 Act \[Nursing Agencies\][^c-44a07320676b4be3cf3c5df2a4ebb243]
 
 (1) This Article applies where –
 
@@ -178,7 +178,7 @@ before that date the period of 14 days referred to in Section 13(2) has not expi
 - (a) the 1971 Act shall continue in force for the purpose of determining whether the licence is to be revoked; and
 - (b) where the licence is so revoked, registration under the 2003 Order by virtue of Article 4 shall cease to have effect.
 
-## 13. Pre-commencement applications for registration[^key-9acf1450bf0c530593ab8202a7c2704b]
+## 13. Pre-commencement applications for registration[^c-9acf1450bf0c530593ab8202a7c2704b]
 
 (1) Where before the commencement date a person, other than a person to whom Article 5(1) or 7(1) applies, has made an application to –
 
@@ -214,7 +214,7 @@ Senior Officer of the
 
 Department of Health
 
-## SCHEDULE 1 — PROVISIONS OF THE ORDER COMING INTO OPERATION ON 1st APRIL 2005[^key-79be3f7627fc16f74fd6855441efabf0]
+## SCHEDULE 1 — PROVISIONS OF THE ORDER COMING INTO OPERATION ON 1st APRIL 2005[^c-79be3f7627fc16f74fd6855441efabf0]
 
 <table>
 <thead>
@@ -249,7 +249,7 @@ Department of Health
 
 [^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016]
 
-## SCHEDULE 2 — PROVISIONS OF THE ORDER COMING INTO OPERATION ON 1st MARCH 2005 FOR THE PURPOSES ONLY OF THE MAKING OF THE REGULATIONS.[^key-598e276deca1d30b8efbfb9783d4d564]
+## SCHEDULE 2 — PROVISIONS OF THE ORDER COMING INTO OPERATION ON 1st MARCH 2005 FOR THE PURPOSES ONLY OF THE MAKING OF THE REGULATIONS.[^c-598e276deca1d30b8efbfb9783d4d564]
 
 <table>
 <thead>
@@ -297,7 +297,7 @@ The following provisions of the Health and Personal Social Services (Quality, Im
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-f7bc24322472288781713030b8b93fc4]: Commencement: Art. 1 in operation at made date
+[^c-f7bc24322472288781713030b8b93fc4]: Commencement: Art. 1 in operation at made date
 
 [^f00002]: Footnote: S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
@@ -305,31 +305,31 @@ The following provisions of the Health and Personal Social Services (Quality, Im
 
 [^f00004]: Footnote: [1971 c. 32](https://www.legislation.gov.uk/apni/1971/32)
 
-[^key-83441d149ddba5b1457b674d4318d109]: Commencement: Art. 2 in operation at made date
+[^c-83441d149ddba5b1457b674d4318d109]: Commencement: Art. 2 in operation at made date
 
-[^key-1bbef4d9c3c9e02cd8e99007d9b6ecd3]: Commencement: Art. 3 in operation at made date
+[^c-1bbef4d9c3c9e02cd8e99007d9b6ecd3]: Commencement: Art. 3 in operation at made date
 
-[^key-f62ad6fe6d314c49aa0f8ac4c196a645]: Commencement: Art. 4 in operation at made date
+[^c-f62ad6fe6d314c49aa0f8ac4c196a645]: Commencement: Art. 4 in operation at made date
 
-[^key-11e01c726a24374d5d47f432aa8e1267]: Commencement: Art. 5 in operation at made date
+[^c-11e01c726a24374d5d47f432aa8e1267]: Commencement: Art. 5 in operation at made date
 
-[^key-ca809b3020e1e44d213061f11ba5e23f]: Commencement: Art. 6 in operation at made date
+[^c-ca809b3020e1e44d213061f11ba5e23f]: Commencement: Art. 6 in operation at made date
 
-[^key-8f728192fafef3950ffe7875deaf7284]: Commencement: Art. 7 in operation at made date
+[^c-8f728192fafef3950ffe7875deaf7284]: Commencement: Art. 7 in operation at made date
 
-[^key-b2c6580207c14f9ffc4a9121ad0245d9]: Commencement: Art. 8 in operation at made date
+[^c-b2c6580207c14f9ffc4a9121ad0245d9]: Commencement: Art. 8 in operation at made date
 
-[^key-b1dc11b99e01b330463ae87325922e8a]: Commencement: Art. 9 in operation at made date
+[^c-b1dc11b99e01b330463ae87325922e8a]: Commencement: Art. 9 in operation at made date
 
-[^key-59e54f2cb9d7cdd9d3e9bb9750426f4f]: Commencement: Art. 10 in operation at made date
+[^c-59e54f2cb9d7cdd9d3e9bb9750426f4f]: Commencement: Art. 10 in operation at made date
 
-[^key-7ec6d2a81722e8fedb57b850979c0830]: Commencement: Art. 11 in operation at made date
+[^c-7ec6d2a81722e8fedb57b850979c0830]: Commencement: Art. 11 in operation at made date
 
-[^key-44a07320676b4be3cf3c5df2a4ebb243]: Commencement: Art. 12 in operation at made date
+[^c-44a07320676b4be3cf3c5df2a4ebb243]: Commencement: Art. 12 in operation at made date
 
-[^key-9acf1450bf0c530593ab8202a7c2704b]: Commencement: Art. 13 in operation at made date
+[^c-9acf1450bf0c530593ab8202a7c2704b]: Commencement: Art. 13 in operation at made date
 
-[^key-79be3f7627fc16f74fd6855441efabf0]: Commencement: Sch. 1 in operation at made date
+[^c-79be3f7627fc16f74fd6855441efabf0]: Commencement: Sch. 1 in operation at made date
 
 [^f00005]: Footnote: [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
@@ -355,4 +355,4 @@ The following provisions of the Health and Personal Social Services (Quality, Im
 
 [^f00016]: Footnote: [1997 c. 24](https://www.legislation.gov.uk/ukpga/1997/24)
 
-[^key-598e276deca1d30b8efbfb9783d4d564]: Commencement: Sch. 2 in operation at made date
+[^c-598e276deca1d30b8efbfb9783d4d564]: Commencement: Sch. 2 in operation at made date

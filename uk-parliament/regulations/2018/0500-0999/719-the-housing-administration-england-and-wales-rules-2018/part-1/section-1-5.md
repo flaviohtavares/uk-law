@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.5. Review[^key-63bdb57ed34c010e8250ecd84212d77c]
+## 1.5. Review[^c-63bdb57ed34c010e8250ecd84212d77c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63bdb57ed34c010e8250ecd84212d77c]: Commencement: Rule 1.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-63bdb57ed34c010e8250ecd84212d77c]: Commencement: Rule 1.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Provisional amount of deferred pension[^key-340d4a509b74bc98601d2850c412a628]
+## 45. Provisional amount of deferred pension[^c-340d4a509b74bc98601d2850c412a628]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-340d4a509b74bc98601d2850c412a628]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2015/19/regulation/45) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-340d4a509b74bc98601d2850c412a628]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2015/19/regulation/45) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

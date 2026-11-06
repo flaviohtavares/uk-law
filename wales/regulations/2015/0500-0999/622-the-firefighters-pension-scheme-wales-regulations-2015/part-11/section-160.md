@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Employer cost cap[^key-f8cb87e999af18f2c5c981c0623303dd]
+## 160. Employer cost cap[^c-f8cb87e999af18f2c5c981c0623303dd]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8cb87e999af18f2c5c981c0623303dd]: Commencement: Reg. 160 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-f8cb87e999af18f2c5c981c0623303dd]: Commencement: Reg. 160 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00069]: Footnote: See regulation 3 of [S.I. 2014/575](https://www.legislation.gov.uk/uksi/2014/575).

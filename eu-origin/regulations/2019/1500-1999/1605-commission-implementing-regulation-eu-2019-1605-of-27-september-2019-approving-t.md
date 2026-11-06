@@ -35,30 +35,30 @@ approving the low-risk active substance *Bacillus subtilis* strain IAB/BS03, in 
 
 (Text with EEA relevance) (revoked)
 
-[^key-3d308ebd90ded2544e2145f2376e9cfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d308ebd90ded2544e2145f2376e9cfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Approval of the active substance[^key-3d308ebd90ded2544e2145f2376e9cfa]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-3d308ebd90ded2544e2145f2376e9cfa]
+## Article 1. Approval of the active substance[^c-3d308ebd90ded2544e2145f2376e9cfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-3d308ebd90ded2544e2145f2376e9cfa]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-3d308ebd90ded2544e2145f2376e9cfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d308ebd90ded2544e2145f2376e9cfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-3d308ebd90ded2544e2145f2376e9cfa]
+## Article 3. Entry into force[^c-3d308ebd90ded2544e2145f2376e9cfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-3d308ebd90ded2544e2145f2376e9cfa]
+[^c-3d308ebd90ded2544e2145f2376e9cfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-3d308ebd90ded2544e2145f2376e9cfa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-3d308ebd90ded2544e2145f2376e9cfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d308ebd90ded2544e2145f2376e9cfa]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/16)
+[^c-3d308ebd90ded2544e2145f2376e9cfa]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/16)

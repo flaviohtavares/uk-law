@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Application for leave under s 216(3) before passing of full payment resolution[^key-6c83fefd5f27fe85d86d61ba3992f405]
+## 182. Application for leave under s 216(3) before passing of full payment resolution[^c-6c83fefd5f27fe85d86d61ba3992f405]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where an application for leave under section 216 of the 1986 Act is made before 
 
 ## Annotations
 
-[^key-6c83fefd5f27fe85d86d61ba3992f405]: Commencement: Rule 182 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-6c83fefd5f27fe85d86d61ba3992f405]: Commencement: Rule 182 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

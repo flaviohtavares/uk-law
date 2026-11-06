@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Maximum holding of bonds[^key-97c06bc1294b8ad5b1bbd4116b292099]
+## 5. Maximum holding of bonds[^c-97c06bc1294b8ad5b1bbd4116b292099]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97c06bc1294b8ad5b1bbd4116b292099]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-97c06bc1294b8ad5b1bbd4116b292099]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

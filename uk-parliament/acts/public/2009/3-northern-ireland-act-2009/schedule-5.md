@@ -26,11 +26,11 @@ Section 2
 
 #### County Courts Act (Northern Ireland) 1959 (c. 25 (N.I.))
 
-**1.**[^key-8efae4fee3db7fb0065bf858deef6d60] For section 102(1) substitute—
+**1.**[^c-8efae4fee3db7fb0065bf858deef6d60] For section 102(1) substitute—
 
 > (1) Her Majesty may appoint a qualified person to be a judge.
 
-**2.**[^key-957045a3213045bdc1fcfb602ad600f8] For section 134 substitute—
+**2.**[^c-957045a3213045bdc1fcfb602ad600f8] For section 134 substitute—
 
 > **134. Evidence of health**
 >
@@ -38,11 +38,11 @@ Section 2
 
 #### Magistrates' Courts Act (Northern Ireland) 1964 (c. 21 (N.I.))
 
-**3.**[^key-663425d004c516583e614435d01d3d40] In section 9(1) omit “, on the recommendation of the Lord Chancellor,”.
+**3.**[^c-663425d004c516583e614435d01d3d40] In section 9(1) omit “, on the recommendation of the Lord Chancellor,”.
 
 #### Northern Ireland Act 1998 (c. 47)
 
-**4.**[^key-b6b0635a9b0d6cf2444f5b6e65869089] After paragraph 2 of Schedule 11 insert—
+**4.**[^c-b6b0635a9b0d6cf2444f5b6e65869089] After paragraph 2 of Schedule 11 insert—
 
 > **2A.** (1) The Lord Chancellor may only appoint persons to the Tribunal who have been selected by the Northern Ireland Judicial Appointments Commission as follows.
 >
@@ -56,17 +56,17 @@ Section 2
 
 #### Justice (Northern Ireland) Act 2004 (c. 4)
 
-**5.**[^key-a9f1baa17c0dc38cffcebb29779b8315] Omit sections 3 to 5 and paragraph 3 of Schedule 1.
+**5.**[^c-a9f1baa17c0dc38cffcebb29779b8315] Omit sections 3 to 5 and paragraph 3 of Schedule 1.
 
 #### Constitutional Reform Act 2005 (c. 4)
 
-**6.**[^key-a73b43f92fbd18b836367501a17d9845] (1) Amend Schedule 5 as follows.
+**6.**[^c-a73b43f92fbd18b836367501a17d9845] (1) Amend Schedule 5 as follows.
 
 (2) In paragraph 115(2) omit“8(7),”.
 
 (3) Omit paragraphs 116 and 123.
 
-**7.**[^key-52aeaea9cc7e8d6e062a2cda045bf1e3] (1) Amend paragraph 4 of Schedule 7 as follows.
+**7.**[^c-52aeaea9cc7e8d6e062a2cda045bf1e3] (1) Amend paragraph 4 of Schedule 7 as follows.
 
 (2) Omit the entries for the following—
 
@@ -92,22 +92,22 @@ Section 2
 
 (6) In the entries relating to the Justice (Northern Ireland) Act 2002 (c. 26) at the appropriate place insert “ Schedule 3, Part 1 ”.
 
-**8.**[^key-20f8a59a1743aba858fac66c94e0c81c] Omit paragraphs 36 to 39 of Schedule 17.
+**8.**[^c-20f8a59a1743aba858fac66c94e0c81c] Omit paragraphs 36 to 39 of Schedule 17.
 
 #### Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)
 
-**9.**[^key-7dd3d0406d0d23a9d686c1aabea2b322] Omit section 28.
+**9.**[^c-7dd3d0406d0d23a9d686c1aabea2b322] Omit section 28.
 
 ### Part 2 — Transitional provision
 
-**10.**[^key-2a590ef60db6fd6c19383247e1d3320c] (1) This paragraph applies if—
+**10.**[^c-2a590ef60db6fd6c19383247e1d3320c] (1) This paragraph applies if—
 
 - (a) before the coming into force of this paragraph the Prime Minister has selected a person for recommendation for appointment to the office of Lord Chief Justice or Lord Justice of Appeal under section 12 of the Judicature (Northern Ireland) Act 1978 (c. 23), but
 - (b) when this paragraph comes into force the person has not been appointed.
 
 (2) Section 12 of the 1978 Act applies in relation to the appointment of the person, ignoring its substitution by this Act.
 
-**11.**[^key-49ca127771301c7f3390772657fbd82e] (1) This paragraph applies if before the coming into force of this paragraph a tribunal is convened under section 135 of the Constitutional Reform Act 2005 (c. 4) in relation to a matter (“the relevant matter”) for the purposes of—
+**11.**[^c-49ca127771301c7f3390772657fbd82e] (1) This paragraph applies if before the coming into force of this paragraph a tribunal is convened under section 135 of the Constitutional Reform Act 2005 (c. 4) in relation to a matter (“the relevant matter”) for the purposes of—
 
 - (a) section 134 of that Act, or
 - (b) section 12B of the Judicature (Northern Ireland) Act 1978.
@@ -119,23 +119,23 @@ Section 2
 - (a) the repeal of section 135 by the Justice (Northern Ireland) Act 2002, and
 - (b) the substitution of section 12B by this Act.
 
-**12.**[^key-e28eb5fbb8e6e76028cddaff323e626c] (1) This paragraph applies if—
+**12.**[^c-e28eb5fbb8e6e76028cddaff323e626c] (1) This paragraph applies if—
 
 - (a) before the coming into force of this paragraph a notice under section 5(3) of the Justice (Northern Ireland) Act 2002 is given requiring the Northern Ireland Judicial Appointments Commission to select a person for appointment, or recommendation for appointment, to a listed judicial office (“the relevant requirement”), and
 - (b) at the time this paragraph comes into force, no appointment has been made.
 
 (2) Section 5 of the 2002 Act, and any other relevant provision made by or under an Act or Northern Ireland legislation, continues to apply in relation to the relevant requirement as it applied immediately before the coming into force of this paragraph and, accordingly, the appointment is to be made as it would have been made immediately before the coming into force of this paragraph.
 
-**13.**[^key-9005d5672aec50df14b2ba0e6665c024] Paragraph 8(2) of Schedule 3 to this Act has no effect in relation to maladministration alleged to have occurred before the coming into force of paragraph 8(2) (whether or not a complaint is made before then).
+**13.**[^c-9005d5672aec50df14b2ba0e6665c024] Paragraph 8(2) of Schedule 3 to this Act has no effect in relation to maladministration alleged to have occurred before the coming into force of paragraph 8(2) (whether or not a complaint is made before then).
 
-**14.**[^key-c763f3e21e4f1dc2279150a57035e122] Despite its repeal by paragraph 9 of Schedule 3 to this Act, section 9G of the Justice (Northern Ireland) Act 2002 (c. 26) continues to apply in relation to any matter arising before the coming into force of paragraph 9 (whether or not the matter is referred to the Ombudsman before then) and section 9H of the 2002 Act continues to apply accordingly, ignoring paragraph 10 of Schedule 3 to this Act.
+**14.**[^c-c763f3e21e4f1dc2279150a57035e122] Despite its repeal by paragraph 9 of Schedule 3 to this Act, section 9G of the Justice (Northern Ireland) Act 2002 (c. 26) continues to apply in relation to any matter arising before the coming into force of paragraph 9 (whether or not the matter is referred to the Ombudsman before then) and section 9H of the 2002 Act continues to apply accordingly, ignoring paragraph 10 of Schedule 3 to this Act.
 
-**15.**[^key-7ea3e3f2210fea16e2c93da89a6e41b0] In section 9I(2) of the Justice (Northern Ireland) Act 2002 (as amended by paragraph 11 of Schedule 3 to this Act)—
+**15.**[^c-7ea3e3f2210fea16e2c93da89a6e41b0] In section 9I(2) of the Justice (Northern Ireland) Act 2002 (as amended by paragraph 11 of Schedule 3 to this Act)—
 
 - (a) in paragraph (a) the reference to sections 12 to 12C of the Judicature (Northern Ireland) Act 1978 (c. 23) is to be read as including a reference to sections 12 and 12B of the 1978 Act before their substitution by this Act (including as applied by paragraph 10 or 11 of this Schedule);
 - (b) in paragraph (ba) the reference to Schedule 3 to the 2002 Act is to be read as including a reference to section 5 of the 2002 Act before its substitution by this Act (including as applied by paragraph 12 of this Schedule).
 
-**16.**[^key-2770d97c8aed8928e9ddd22d9fed8954] (1) This paragraph applies in relation to a function which, by virtue of Schedule 4 to this Act, is transferred from one person (“A”) to another person (“B”).
+**16.**[^c-2770d97c8aed8928e9ddd22d9fed8954] (1) This paragraph applies in relation to a function which, by virtue of Schedule 4 to this Act, is transferred from one person (“A”) to another person (“B”).
 
 This includes cases where a function is exercisable by B with the agreement of a third person (and references below to B are to be read accordingly as necessary or appropriate).
 
@@ -151,34 +151,34 @@ This includes cases where a function is exercisable by B with the agreement of a
 
 ## Annotations
 
-[^key-8efae4fee3db7fb0065bf858deef6d60]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/1) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-8efae4fee3db7fb0065bf858deef6d60]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/1) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-957045a3213045bdc1fcfb602ad600f8]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/2) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-957045a3213045bdc1fcfb602ad600f8]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/2) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-663425d004c516583e614435d01d3d40]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/3) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-663425d004c516583e614435d01d3d40]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/3) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-b6b0635a9b0d6cf2444f5b6e65869089]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/4) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-b6b0635a9b0d6cf2444f5b6e65869089]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/4) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-a9f1baa17c0dc38cffcebb29779b8315]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/5) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-a9f1baa17c0dc38cffcebb29779b8315]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/5) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-a73b43f92fbd18b836367501a17d9845]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-a73b43f92fbd18b836367501a17d9845]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-52aeaea9cc7e8d6e062a2cda045bf1e3]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/7) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-52aeaea9cc7e8d6e062a2cda045bf1e3]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/7) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-20f8a59a1743aba858fac66c94e0c81c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/8) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-20f8a59a1743aba858fac66c94e0c81c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/8) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-7dd3d0406d0d23a9d686c1aabea2b322]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/9) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-7dd3d0406d0d23a9d686c1aabea2b322]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/9) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-2a590ef60db6fd6c19383247e1d3320c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/10) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-2a590ef60db6fd6c19383247e1d3320c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/10) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-49ca127771301c7f3390772657fbd82e]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/11) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-49ca127771301c7f3390772657fbd82e]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/11) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-e28eb5fbb8e6e76028cddaff323e626c]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/12) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-e28eb5fbb8e6e76028cddaff323e626c]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/12) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-9005d5672aec50df14b2ba0e6665c024]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/13) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-9005d5672aec50df14b2ba0e6665c024]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/13) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-c763f3e21e4f1dc2279150a57035e122]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/14) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-c763f3e21e4f1dc2279150a57035e122]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/14) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-7ea3e3f2210fea16e2c93da89a6e41b0]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/15) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-7ea3e3f2210fea16e2c93da89a6e41b0]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/15) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-2770d97c8aed8928e9ddd22d9fed8954]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-2770d97c8aed8928e9ddd22d9fed8954]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

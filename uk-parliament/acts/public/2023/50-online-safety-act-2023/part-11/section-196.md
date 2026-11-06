@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Individuals providing regulated services: liability[^key-6e77d673ee3bc7ba2a66b725c9da74c8][^key-78506866e35c784da7d4eb1b735cb30b]
+## 196. Individuals providing regulated services: liability[^c-6e77d673ee3bc7ba2a66b725c9da74c8][^c-78506866e35c784da7d4eb1b735cb30b]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ but a separate notice may not be given to each of the individuals in respect of 
 
 ## Annotations
 
-[^key-6e77d673ee3bc7ba2a66b725c9da74c8]: Commencement: S. 196 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-6e77d673ee3bc7ba2a66b725c9da74c8]: Commencement: S. 196 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-78506866e35c784da7d4eb1b735cb30b]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2023/50/section/196) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)
+[^c-78506866e35c784da7d4eb1b735cb30b]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2023/50/section/196) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)

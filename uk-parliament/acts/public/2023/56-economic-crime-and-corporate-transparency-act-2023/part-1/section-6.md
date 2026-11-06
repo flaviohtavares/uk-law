@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Persons with initial significant control: disqualification[^key-47989f421b545b6a04eaa7760bf83daf]
+## 6. Persons with initial significant control: disqualification[^c-47989f421b545b6a04eaa7760bf83daf]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47989f421b545b6a04eaa7760bf83daf]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-47989f421b545b6a04eaa7760bf83daf]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

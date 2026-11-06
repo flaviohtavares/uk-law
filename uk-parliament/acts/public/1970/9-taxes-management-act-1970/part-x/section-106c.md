@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106C. Offence of failing to deliver return[^key-00265a0b7b54e7e27073172436dbcc81]
+## 106C. Offence of failing to deliver return[^c-00265a0b7b54e7e27073172436dbcc81]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00265a0b7b54e7e27073172436dbcc81]: Textual amendment: Ss. 106B-106H and cross-heading inserted (7.10.2017 in relation to the tax year commencing on 6.4.2017 and subsequent tax years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 166(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/166/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/166/2); [S.I. 2017/970](https://www.legislation.gov.uk/uksi/2017/970), [art. 2](https://www.legislation.gov.uk/uksi/2017/970/article/2)
+[^c-00265a0b7b54e7e27073172436dbcc81]: Textual amendment: Ss. 106B-106H and cross-heading inserted (7.10.2017 in relation to the tax year commencing on 6.4.2017 and subsequent tax years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 166(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/166/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/166/2); [S.I. 2017/970](https://www.legislation.gov.uk/uksi/2017/970), [art. 2](https://www.legislation.gov.uk/uksi/2017/970/article/2)

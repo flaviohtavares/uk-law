@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment of article 38[^key-89c008264bbb1b5a2fc13c3b5551c0ae]
+## 64. Amendment of article 38[^c-89c008264bbb1b5a2fc13c3b5551c0ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89c008264bbb1b5a2fc13c3b5551c0ae]: Commencement: Reg. 64 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-89c008264bbb1b5a2fc13c3b5551c0ae]: Commencement: Reg. 64 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00048]: Footnote: Article 38 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

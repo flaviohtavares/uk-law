@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — (This Schedule substantially reproduces the provisions of Annex VII to the High-Speed Directive and to the Conventional Directive)[^key-adbae295fdffc67d2bec56f123f909be]
+## SCHEDULE 10 — (This Schedule substantially reproduces the provisions of Annex VII to the High-Speed Directive and to the Conventional Directive)[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Reg 2(2)
 
-### MINIMUM CRITERIA WHICH MUST BE TAKEN INTO ACCOUNT BY THE MEMBER STATES WHEN NOTIFYING BODIES[^key-adbae295fdffc67d2bec56f123f909be]
+### MINIMUM CRITERIA WHICH MUST BE TAKEN INTO ACCOUNT BY THE MEMBER STATES WHEN NOTIFYING BODIES[^c-adbae295fdffc67d2bec56f123f909be]
 
-**1.**[^key-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-adbae295fdffc67d2bec56f123f909be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))
+[^c-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))

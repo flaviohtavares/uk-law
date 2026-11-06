@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. General financial duties.[^key-4c37f43def50459bcc4ce12ac23db4e5]
+## 44. General financial duties.[^c-4c37f43def50459bcc4ce12ac23db4e5]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ determine the financial duties of that new Agency; and different determinations 
 
 ## Annotations
 
-[^key-4c37f43def50459bcc4ce12ac23db4e5]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1995/25/section/44) functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [6](https://www.legislation.gov.uk/uksi/2013/1821/article/6) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-4c37f43def50459bcc4ce12ac23db4e5]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1995/25/section/44) functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [6](https://www.legislation.gov.uk/uksi/2013/1821/article/6) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
 [^c14537351]: Modification: S. 44(1): Treasury approval requirement continued (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 

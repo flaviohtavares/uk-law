@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Crown application[^key-26da7762ae5ecd00896e40dffbd65df4]
+## 100. Crown application[^c-26da7762ae5ecd00896e40dffbd65df4]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26da7762ae5ecd00896e40dffbd65df4]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2012/8/section/100) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))
+[^c-26da7762ae5ecd00896e40dffbd65df4]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2012/8/section/100) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))

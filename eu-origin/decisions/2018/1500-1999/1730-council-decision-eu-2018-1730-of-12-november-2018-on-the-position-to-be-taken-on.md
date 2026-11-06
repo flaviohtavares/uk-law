@@ -33,16 +33,16 @@ of 12 November 2018
 
 on the position to be taken on behalf of the European Union at the second meeting of the Conference of the Parties to the Minamata Convention on Mercury with regard to the adoption of guidelines on the environmentally sound interim storage of mercury, other than waste mercury, referred to in Article 10(2) and (3) of the Convention (revoked)
 
-[^key-b11fc41816f84df22941694175bf36d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b11fc41816f84df22941694175bf36d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-b11fc41816f84df22941694175bf36d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b11fc41816f84df22941694175bf36d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b11fc41816f84df22941694175bf36d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b11fc41816f84df22941694175bf36d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b11fc41816f84df22941694175bf36d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b11fc41816f84df22941694175bf36d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b11fc41816f84df22941694175bf36d1]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-b11fc41816f84df22941694175bf36d1]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

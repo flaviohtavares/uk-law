@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Regulation of radio selection services[^key-5a14098b0fc68edb8620a3f4c5ece479][^key-410c3e7f4d50c1a9d148f96f0853ab62]
+## 48. Regulation of radio selection services[^c-5a14098b0fc68edb8620a3f4c5ece479][^c-410c3e7f4d50c1a9d148f96f0853ab62]
 
 *Extent: E+W+S+N.I.*
 
@@ -778,6 +778,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a14098b0fc68edb8620a3f4c5ece479]: Commencement: S. 48 not in force at Royal Assent, see [s. 55(3)(f)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/f)
+[^c-5a14098b0fc68edb8620a3f4c5ece479]: Commencement: S. 48 not in force at Royal Assent, see [s. 55(3)(f)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/f)
 
-[^key-410c3e7f4d50c1a9d148f96f0853ab62]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2024/15/section/48) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/s)
+[^c-410c3e7f4d50c1a9d148f96f0853ab62]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2024/15/section/48) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/s)

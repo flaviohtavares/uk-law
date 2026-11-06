@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130.[^key-29e91af4ca8e903702e9bca8cd31fa39][^key-9e83a3ba3caaf010d80c6086b0f1b6ae]
+## 130.[^c-29e91af4ca8e903702e9bca8cd31fa39][^c-9e83a3ba3caaf010d80c6086b0f1b6ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29e91af4ca8e903702e9bca8cd31fa39]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-29e91af4ca8e903702e9bca8cd31fa39]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9e83a3ba3caaf010d80c6086b0f1b6ae]: Textual amendment: Reg. 130 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(44)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/44)
+[^c-9e83a3ba3caaf010d80c6086b0f1b6ae]: Textual amendment: Reg. 130 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(44)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/44)

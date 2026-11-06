@@ -32,7 +32,7 @@ Regulation 238
 - Glucagon injection
 - Glucose injection
 - Hydrocortisone injection
-- Naloxone products[^key-146a759d728635c7a292be51015a35e4]
+- Naloxone products[^c-146a759d728635c7a292be51015a35e4]
 - Pralidoxime chloride injection
 - Pralidoxime mesilate injection
 - Promethazine hydrochloride injection
@@ -43,4 +43,4 @@ Regulation 238
 
 ## Annotations
 
-[^key-146a759d728635c7a292be51015a35e4]: Textual amendment: Words in [Sch. 19](https://www.legislation.gov.uk/uksi/2012/1916/schedule/19) substituted (2.12.2024) by [The Human Medicines (Amendments Relating to Naloxone and Transfers of Functions) Regulations 2024 (S.I. 2024/1125)](https://www.legislation.gov.uk/uksi/2024/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1125/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/1125/regulation/12)
+[^c-146a759d728635c7a292be51015a35e4]: Textual amendment: Words in [Sch. 19](https://www.legislation.gov.uk/uksi/2012/1916/schedule/19) substituted (2.12.2024) by [The Human Medicines (Amendments Relating to Naloxone and Transfers of Functions) Regulations 2024 (S.I. 2024/1125)](https://www.legislation.gov.uk/uksi/2024/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1125/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/1125/regulation/12)

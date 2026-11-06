@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Enterprise Act 2002 (Turnover Test) (Amendment) Order 2020 (revoked)[^key-a4d51ba34907b48ae3c19f1c75bf7459]
+The Enterprise Act 2002 (Turnover Test) (Amendment) Order 2020 (revoked)[^c-a4d51ba34907b48ae3c19f1c75bf7459]
 
 Made
 
@@ -44,28 +44,28 @@ at 2.45 p.m. on 20th July 2020
 
 Coming into force in accordance with article 1(2)
 
-[^key-a4d51ba34907b48ae3c19f1c75bf7459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4d51ba34907b48ae3c19f1c75bf7459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-a4d51ba34907b48ae3c19f1c75bf7459]
+## 1. Citation, commencement and application[^c-a4d51ba34907b48ae3c19f1c75bf7459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Enterprise Act 2002[^key-a4d51ba34907b48ae3c19f1c75bf7459]
+## 2. Amendment of the Enterprise Act 2002[^c-a4d51ba34907b48ae3c19f1c75bf7459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment[^key-a4d51ba34907b48ae3c19f1c75bf7459]
+## 3. Consequential amendment[^c-a4d51ba34907b48ae3c19f1c75bf7459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4d51ba34907b48ae3c19f1c75bf7459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4d51ba34907b48ae3c19f1c75bf7459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4d51ba34907b48ae3c19f1c75bf7459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4d51ba34907b48ae3c19f1c75bf7459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4d51ba34907b48ae3c19f1c75bf7459]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/763) revoked (4.1.2022) by [National Security and Investment Act 2021 (c. 25)](https://www.legislation.gov.uk/ukpga/2021/25), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/66/3), [Sch. 2 para. 11(d)](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/11/d); [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-a4d51ba34907b48ae3c19f1c75bf7459]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/763) revoked (4.1.2022) by [National Security and Investment Act 2021 (c. 25)](https://www.legislation.gov.uk/ukpga/2021/25), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/66/3), [Sch. 2 para. 11(d)](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/11/d); [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))

@@ -88,7 +88,7 @@ subsection (9) shall apply.
 
 (13) If the whole or any part of a financial penalty is not paid within the period mentioned in subsection (12), then as from the end of that period the unpaid balance from time to time shall carry interest at the rate for the time being specified in section 17 of the [^c1528513]Judgments Act 1838.
 
-(14)[^key-dc2812593d022abc3341e9317732b07c] Where under this section one person (“**the debtor**”) becomes liable to pay a penalty to another person (“**the creditor**”)—
+(14)[^c-dc2812593d022abc3341e9317732b07c] Where under this section one person (“**the debtor**”) becomes liable to pay a penalty to another person (“**the creditor**”)—
 
 - (a) the penalty and any interest accrued under subsection (13) shall be recoverable by the Secretary of State from the debtor as a debt due to the creditor, and
 - (b) the debtor’s liability to pay shall not be affected by his licence ceasing to have effect.
@@ -101,4 +101,4 @@ subsection (9) shall apply.
 
 [^c1528513]: Marginal citation: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110).
 
-[^key-dc2812593d022abc3341e9317732b07c]: Textual amendment: S. 10A(14)(15) substituted for s. 10A(14) (8.7.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(6)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/6), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
+[^c-dc2812593d022abc3341e9317732b07c]: Textual amendment: S. 10A(14)(15) substituted for s. 10A(14) (8.7.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(6)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/6), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)

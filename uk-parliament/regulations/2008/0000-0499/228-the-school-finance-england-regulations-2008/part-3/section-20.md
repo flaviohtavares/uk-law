@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Minimum funding guarantee[^key-5a390c637a0ef3efcd370eb83c3a9660]
+## 20. Minimum funding guarantee[^c-5a390c637a0ef3efcd370eb83c3a9660]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a390c637a0ef3efcd370eb83c3a9660]: Commencement: Reg. 20 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-5a390c637a0ef3efcd370eb83c3a9660]: Commencement: Reg. 20 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

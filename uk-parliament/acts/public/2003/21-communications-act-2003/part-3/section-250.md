@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Licensing of radio licensable content services[^key-763df13f07573a753ce66d8f12d05ea0]
+## 250. Licensing of radio licensable content services[^c-763df13f07573a753ce66d8f12d05ea0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,13 +30,13 @@ summary: ''
 
 as OFCOM may determine.
 
-(3) Sections 109 to 111B[^key-88df1ecf657a23633897f1d66db107d7] of the 1990 Act (enforcement of licences) apply in relation to licences for radio licensable content services as they apply in relation to licences under Chapter 2 of Part 3 of the 1990 Act but with—
+(3) Sections 109 to 111B[^c-88df1ecf657a23633897f1d66db107d7] of the 1990 Act (enforcement of licences) apply in relation to licences for radio licensable content services as they apply in relation to licences under Chapter 2 of Part 3 of the 1990 Act but with—
 
 - (a) the substitution of the word “ or ” for paragraph (b) of subsection (1) of section 110 (power to shorten licence period); and
 - (b) the omission of “(b)” in subsection (4) of that section and of subsection (5) of that section (which refer to the power disapplied by paragraph (a) of this subsection).
 
 ## Annotations
 
-[^key-763df13f07573a753ce66d8f12d05ea0]: Commencement: S. 250 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-763df13f07573a753ce66d8f12d05ea0]: Commencement: S. 250 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-88df1ecf657a23633897f1d66db107d7]: Textual amendment: Word in [s. 250(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/250/3) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 91(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/91/3), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-88df1ecf657a23633897f1d66db107d7]: Textual amendment: Word in [s. 250(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/250/3) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 91(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/91/3), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Request for transfer value payment to be made[^key-d7c7138b8149b300011f205bfab3bd39]
+## 136. Request for transfer value payment to be made[^c-d7c7138b8149b300011f205bfab3bd39]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7c7138b8149b300011f205bfab3bd39]: Commencement: [Reg. 136](https://www.legislation.gov.uk/uksi/2015/182/regulation/136) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d7c7138b8149b300011f205bfab3bd39]: Commencement: [Reg. 136](https://www.legislation.gov.uk/uksi/2015/182/regulation/136) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -22,9 +22,9 @@ summary: ''
 
 Section 51
 
-**1.**[^key-a9504d0b5a2363225425f1f024144d88] The Bail Act 1976 (c. 63) has effect subject to the following amendments.
+**1.**[^c-a9504d0b5a2363225425f1f024144d88] The Bail Act 1976 (c. 63) has effect subject to the following amendments.
 
-**2.**[^key-525b804004d68108cd9b6c07621cb8d7] In section 3 (general provisions) for subsection (6ZAA) substitute—
+**2.**[^c-525b804004d68108cd9b6c07621cb8d7] In section 3 (general provisions) for subsection (6ZAA) substitute—
 
 > (6ZAA) The requirements which may be imposed under subsection (6) include electronic monitoring requirements.
 >
@@ -32,7 +32,7 @@ Section 51
 >
 > (6ZAB) In this section and sections 3AA to 3AC “**electronic monitoring requirements**” means requirements imposed for the purpose of securing the electronic monitoring of a person's compliance with any other requirement imposed on him as a condition of bail.
 
-**3.**[^key-787a990701d22416703685f5bf64ed62] (1) Section 3AA (electronic monitoring of compliance with bail conditions) is amended as follows.
+**3.**[^c-787a990701d22416703685f5bf64ed62] (1) Section 3AA (electronic monitoring of compliance with bail conditions) is amended as follows.
 
 (2) In the heading to the section, for “Electronic monitoring of compliance with bail conditions” substitute “ Conditions for the imposition of electronic monitoring requirements: children and young persons ”.
 
@@ -48,7 +48,7 @@ Section 51
 
 (6) Subsections (6) to (10) and (12) (which are superseded by section 3AC) are omitted.
 
-**4.**[^key-5dd5be4b0b3c19a456826c35ac03e32a] After section 3AA insert—
+**4.**[^c-5dd5be4b0b3c19a456826c35ac03e32a] After section 3AA insert—
 
 > **3AB. Conditions for the imposition of electronic monitoring requirements: other persons**
 >
@@ -83,10 +83,10 @@ Section 51
 
 ## Annotations
 
-[^key-a9504d0b5a2363225425f1f024144d88]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/1) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)
+[^c-a9504d0b5a2363225425f1f024144d88]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/1) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)
 
-[^key-525b804004d68108cd9b6c07621cb8d7]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/2) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)
+[^c-525b804004d68108cd9b6c07621cb8d7]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/2) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)
 
-[^key-787a990701d22416703685f5bf64ed62]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/3) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)
+[^c-787a990701d22416703685f5bf64ed62]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/3) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)
 
-[^key-5dd5be4b0b3c19a456826c35ac03e32a]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/4) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)
+[^c-5dd5be4b0b3c19a456826c35ac03e32a]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/11/paragraph/4) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/15)

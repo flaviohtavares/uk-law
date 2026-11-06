@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23B. Duties where interest-bearing shares have been issued[^key-9ad4fc6c33cd05ea138e2835c13d24a6]
+## 23B. Duties where interest-bearing shares have been issued[^c-9ad4fc6c33cd05ea138e2835c13d24a6]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad4fc6c33cd05ea138e2835c13d24a6]: Textual amendment: Art. 23A - Art. 23B inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 3(2)](https://www.legislation.gov.uk/nia/2016/16/section/3/2), [17](https://www.legislation.gov.uk/nia/2016/16/section/17)
+[^c-9ad4fc6c33cd05ea138e2835c13d24a6]: Textual amendment: Art. 23A - Art. 23B inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 3(2)](https://www.legislation.gov.uk/nia/2016/16/section/3/2), [17](https://www.legislation.gov.uk/nia/2016/16/section/17)

@@ -31,14 +31,14 @@ summary: ''
 (2) Members of the British Transport Police Force have in any police area the same powers and privileges as constables of the police force for that police area—
 
 - (a) in relation to persons whom they suspect on reasonable grounds of having committed, being in the course of committing or being about to commit an offence, or
-- (b) if they believe on reasonable grounds that they need those powers and privileges in order to save life or to prevent or minimise personal injury or damage to property *(Extent: E+W)*[^key-9df47741dea9766be17ab18cadd028ef] .
+- (b) if they believe on reasonable grounds that they need those powers and privileges in order to save life or to prevent or minimise personal injury or damage to property *(Extent: E+W)*[^c-9df47741dea9766be17ab18cadd028ef] .
 
 (3) But members of the British Transport Police Force have powers and privileges by virtue of subsection (2) only if—
 
-- (a) they are in uniform or have with them documentary evidence that they are members of that Force, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5c030fb2bc511ff3fe7fcf5261f397e]
+- (a) they are in uniform or have with them documentary evidence that they are members of that Force, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5c030fb2bc511ff3fe7fcf5261f397e]
 - (b) they believe on reasonable grounds that a power of a constable which they would not have apart from that subsection ought to be exercised and that, if it cannot be exercised until they secure the attendance of or a request under subsection (1) by a constable who has it, the purpose for which they believe it ought to be exercised will be frustrated or seriously prejudiced.
 
-(3A)[^key-1d4f9274dc057c4e9f11ccc899bf0d47] In the application of this section to Scotland—
+(3A)[^c-1d4f9274dc057c4e9f11ccc899bf0d47] In the application of this section to Scotland—
 
 - (a) references to a “police area” are references to Scotland; and
 - (b) references to the “police force” for a police area are references to the Police Service of Scotland.
@@ -56,11 +56,11 @@ summary: ''
 
 [^c19534061]: Textual amendment: S. 100(1)(c) substituted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 69](https://www.legislation.gov.uk/ukpga/2004/20/section/69), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 14 para. 10(3)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/14/paragraph/10/3); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1) Table
 
-[^key-9df47741dea9766be17ab18cadd028ef]: Textual amendment: Words in [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/100/2/b) inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/22/1/a), [57(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/3)
+[^c-9df47741dea9766be17ab18cadd028ef]: Textual amendment: Words in [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/100/2/b) inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/22/1/a), [57(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/3)
 
-[^key-b5c030fb2bc511ff3fe7fcf5261f397e]: Textual amendment: [S. 100(3)(a)](https://www.legislation.gov.uk/ukpga/2001/24/section/100/3/a) omitted (E.W.) (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/22/1/b), [57(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/3)
+[^c-b5c030fb2bc511ff3fe7fcf5261f397e]: Textual amendment: [S. 100(3)(a)](https://www.legislation.gov.uk/ukpga/2001/24/section/100/3/a) omitted (E.W.) (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/22/1/b), [57(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/3)
 
-[^key-1d4f9274dc057c4e9f11ccc899bf0d47]: Textual amendment: S. 100(3A) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 37(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/37/3)
+[^c-1d4f9274dc057c4e9f11ccc899bf0d47]: Textual amendment: S. 100(3A) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 37(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/37/3)
 
 [^c19518441]: Textual amendment: S. 100(4): definition of "British Transport Police Force" ceases to have effect (1.7.2004) by virtue of [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 73](https://www.legislation.gov.uk/ukpga/2003/20/section/73), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4) (with [s. 90](https://www.legislation.gov.uk/ukpga/2003/20/section/90)); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ddd)(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ddd/jjj)
 

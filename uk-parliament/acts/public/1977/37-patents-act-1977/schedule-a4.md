@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A4 — THE UNIFIED PATENT COURT[^key-24db9ec876b4b6e3c5121ed55c3c6c24]
+## SCHEDULE A4 — THE UNIFIED PATENT COURT[^c-24db9ec876b4b6e3c5121ed55c3c6c24]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,4 +149,4 @@ as if the decision or order had originally been made by the enforcing court.
 
 ## Annotations
 
-[^key-24db9ec876b4b6e3c5121ed55c3c6c24]: Textual amendment: Schs. A3, A4 inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/388/article/2/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
+[^c-24db9ec876b4b6e3c5121ed55c3c6c24]: Textual amendment: Schs. A3, A4 inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/388/article/2/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))

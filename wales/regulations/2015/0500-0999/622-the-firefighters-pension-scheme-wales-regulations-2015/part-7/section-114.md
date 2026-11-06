@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Entitlement to pension credit members’ pension[^key-e330dfd9e77e4a6035736d592d0ffddc]
+## 114. Entitlement to pension credit members’ pension[^c-e330dfd9e77e4a6035736d592d0ffddc]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e330dfd9e77e4a6035736d592d0ffddc]: Commencement: Reg. 114 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e330dfd9e77e4a6035736d592d0ffddc]: Commencement: Reg. 114 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

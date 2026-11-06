@@ -43,7 +43,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 2, 3(2), (5) and (6), 4(2) and (5) to (7) and 5 should not be referred to it[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-45084c8e57506383d5c1ca8dc73cac83]
+## 1. Citation, commencement and interpretation[^c-45084c8e57506383d5c1ca8dc73cac83]
 
 (1) These Regulations may be cited as the Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 and, subject to paragraph (2), shall come into operation on 1st June 2007.
 
@@ -51,7 +51,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-c03a61ada4eec78eeff9fad7a5a11456]
+## 2. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^c-c03a61ada4eec78eeff9fad7a5a11456]
 
 (1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00007] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -67,36 +67,13 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   - (ii) in head (ii) omit “has elapsed”; and
 - (b) paragraph (11), as added by regulation 4(5) of the Housing Benefit (State Pension Credit and Miscellaneous Amendments) Regulations (Northern Ireland) 2003[^f00010], is renumbered paragraph (12).
 
-## 3. Amendment of the Housing Benefit Regulations[^key-cd4791c6f6d8f90b31f376d08174e8d2][^key-001187cc133f87b65032fcc3a4f2cc80]
+## 3. Amendment of the Housing Benefit Regulations[^c-cd4791c6f6d8f90b31f376d08174e8d2][^c-001187cc133f87b65032fcc3a4f2cc80]
 
-(1)[^key-cd4791c6f6d8f90b31f376d08174e8d2] The Housing Benefit Regulations (Northern Ireland) 2006[^f00011] shall be amended in accordance with paragraphs (2) to (6).
+(1)[^c-cd4791c6f6d8f90b31f376d08174e8d2] The Housing Benefit Regulations (Northern Ireland) 2006[^f00011] shall be amended in accordance with paragraphs (2) to (6).
 
-(2)[^key-cd4791c6f6d8f90b31f376d08174e8d2] In regulation 9(1)(h) (circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling) after “the liability” insert “in respect of rent”.
+(2)[^c-cd4791c6f6d8f90b31f376d08174e8d2] In regulation 9(1)(h) (circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling) after “the liability” insert “in respect of rent”.
 
-(3)[^key-001187cc133f87b65032fcc3a4f2cc80] In regulation 13(2) (rent)—
-
-- (a) at the end of sub-paragraph (b) omit “and”; and
-- (b) after sub-paragraph (c) add—
-
-  > and
-  >
-  > - (d) payments by a person in respect of a dwelling where his partner is an owner of that dwelling.
-
-  .
-
-(4)[^key-003e3ad6c49120b42056909d77be1044] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(5)[^key-cd4791c6f6d8f90b31f376d08174e8d2] In Schedule 2 (decisions of rent payable) in paragraph 15 in the definition of “uncontrolled tenancy” for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006[^f00012]”.
-
-(6)[^key-cd4791c6f6d8f90b31f376d08174e8d2] In Schedule 3 (excluded tenancies) in paragraph 4 for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006”.
-
-## 4. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-cbd3789d13e9eebf393b8cdbdc2da762][^key-3f950fa55298fc5a25e75dcb1024f54c]
-
-(1)[^key-cbd3789d13e9eebf393b8cdbdc2da762] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00013] shall be amended in accordance with paragraphs (2) to (7).
-
-(2)[^key-cbd3789d13e9eebf393b8cdbdc2da762] In regulation 9(1)(h) (circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling) after “the liability” insert “in respect of rent”.
-
-(3)[^key-3f950fa55298fc5a25e75dcb1024f54c] In regulation 13(2) (rent)—
+(3)[^c-001187cc133f87b65032fcc3a4f2cc80] In regulation 13(2) (rent)—
 
 - (a) at the end of sub-paragraph (b) omit “and”; and
 - (b) after sub-paragraph (c) add—
@@ -107,15 +84,38 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
   .
 
-(4)[^key-2f1124c848df0298619b124914d75f2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-003e3ad6c49120b42056909d77be1044] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-cbd3789d13e9eebf393b8cdbdc2da762] In Schedule 2 (decisions of rent payable) in paragraph 15 in the definition of “uncontrolled tenancy” for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006”.
+(5)[^c-cd4791c6f6d8f90b31f376d08174e8d2] In Schedule 2 (decisions of rent payable) in paragraph 15 in the definition of “uncontrolled tenancy” for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006[^f00012]”.
 
-(6)[^key-cbd3789d13e9eebf393b8cdbdc2da762] In Schedule 3 (excluded tenancies) in paragraph 4 for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006”.
+(6)[^c-cd4791c6f6d8f90b31f376d08174e8d2] In Schedule 3 (excluded tenancies) in paragraph 4 for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006”.
 
-(7)[^key-cbd3789d13e9eebf393b8cdbdc2da762] In Schedule 9 (matters to be included in decision notice) in paragraph 14 omit “—(1)”.
+## 4. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-cbd3789d13e9eebf393b8cdbdc2da762][^c-3f950fa55298fc5a25e75dcb1024f54c]
 
-## 5. Revocations[^key-e1823f8ff5131a7ee26edd22e8aa5697]
+(1)[^c-cbd3789d13e9eebf393b8cdbdc2da762] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00013] shall be amended in accordance with paragraphs (2) to (7).
+
+(2)[^c-cbd3789d13e9eebf393b8cdbdc2da762] In regulation 9(1)(h) (circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling) after “the liability” insert “in respect of rent”.
+
+(3)[^c-3f950fa55298fc5a25e75dcb1024f54c] In regulation 13(2) (rent)—
+
+- (a) at the end of sub-paragraph (b) omit “and”; and
+- (b) after sub-paragraph (c) add—
+
+  > and
+  >
+  > - (d) payments by a person in respect of a dwelling where his partner is an owner of that dwelling.
+
+  .
+
+(4)[^c-2f1124c848df0298619b124914d75f2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c-cbd3789d13e9eebf393b8cdbdc2da762] In Schedule 2 (decisions of rent payable) in paragraph 15 in the definition of “uncontrolled tenancy” for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006”.
+
+(6)[^c-cbd3789d13e9eebf393b8cdbdc2da762] In Schedule 3 (excluded tenancies) in paragraph 4 for “protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978” substitute “controlled tenancy within the meaning of Article 40(4) of the Private Tenancies (Northern Ireland) Order 2006”.
+
+(7)[^c-cbd3789d13e9eebf393b8cdbdc2da762] In Schedule 9 (matters to be included in decision notice) in paragraph 14 omit “—(1)”.
+
+## 5. Revocations[^c-e1823f8ff5131a7ee26edd22e8aa5697]
 
 In the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 regulations 7(2A)[^f00014] (decisions superseding earlier decisions) and 8(11), as inserted by regulation 22(2) of the Housing Benefit (State Pension Credit) (Abolition of Benefit Periods Amendment) Regulations (Northern Ireland) 2003[^f00015], are revoked.
 
@@ -170,11 +170,11 @@ In so far as these Regulations are required, for the purposes of regulations 2, 
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-45084c8e57506383d5c1ca8dc73cac83]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/266/regulation/1) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
+[^c-45084c8e57506383d5c1ca8dc73cac83]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/266/regulation/1) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c03a61ada4eec78eeff9fad7a5a11456]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/266/regulation/2) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
+[^c-c03a61ada4eec78eeff9fad7a5a11456]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/266/regulation/2) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213); relevant amending Regulations are [S.R. 2003 No. 418](https://www.legislation.gov.uk/nisr/2003/418), [S.R. 2004 No. 144](https://www.legislation.gov.uk/nisr/2004/144), [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46) and [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)
 
@@ -184,25 +184,25 @@ In so far as these Regulations are required, for the purposes of regulations 2, 
 
 [^f00010]: Footnote: [S.R. 2003 No. 418](https://www.legislation.gov.uk/nisr/2003/418)
 
-[^key-cd4791c6f6d8f90b31f376d08174e8d2]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/2)[(5)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/5)[(6)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/6) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
+[^c-cd4791c6f6d8f90b31f376d08174e8d2]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/2)[(5)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/5)[(6)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/6) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
 
-[^key-001187cc133f87b65032fcc3a4f2cc80]: Commencement: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/4) in operation at 1.10.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/2)
+[^c-001187cc133f87b65032fcc3a4f2cc80]: Commencement: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/4) in operation at 1.10.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/2)
 
 [^f00011]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
-[^key-003e3ad6c49120b42056909d77be1044]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/4) revoked (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/101/regulation/3)
+[^c-003e3ad6c49120b42056909d77be1044]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/4) revoked (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/101/regulation/3)
 
 [^f00012]: Footnote: [S.I. 2006/1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459)
 
-[^key-cbd3789d13e9eebf393b8cdbdc2da762]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/1)[(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/5)[(6)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/6)[(7)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/7) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
+[^c-cbd3789d13e9eebf393b8cdbdc2da762]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/1)[(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/5)[(6)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/6)[(7)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/7) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
 
-[^key-3f950fa55298fc5a25e75dcb1024f54c]: Commencement: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/4) in operation at 1.10.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/2)
+[^c-3f950fa55298fc5a25e75dcb1024f54c]: Commencement: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/4) in operation at 1.10.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/2)
 
 [^f00013]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
-[^key-2f1124c848df0298619b124914d75f2c]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/4) revoked (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/102/regulation/3)
+[^c-2f1124c848df0298619b124914d75f2c]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/4) revoked (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/102/regulation/3)
 
-[^key-e1823f8ff5131a7ee26edd22e8aa5697]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/266/regulation/5) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
+[^c-e1823f8ff5131a7ee26edd22e8aa5697]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/266/regulation/5) in operation at 1.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1)
 
 [^f00014]: Footnote: Regulation 7(2A) was inserted by regulation 22(1) of [S.R. 2003 No. 294](https://www.legislation.gov.uk/nisr/2003/294); that regulation 22 was revoked by regulation 30 of [S.R. 2004 No. 144](https://www.legislation.gov.uk/nisr/2004/144)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Application of criminal law to spacecraft etc[^key-23f2d021a491170b344243e92ea1751b]
+## 51. Application of criminal law to spacecraft etc[^c-23f2d021a491170b344243e92ea1751b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ is treated as having been committed in any place in the United Kingdom (or in th
 
 ## Annotations
 
-[^key-23f2d021a491170b344243e92ea1751b]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2018/5/section/51) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 91](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/91) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-23f2d021a491170b344243e92ea1751b]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2018/5/section/51) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 91](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/91) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

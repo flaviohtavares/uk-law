@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Remuneration[^key-aec5d5a451bdcde45c00a99535ef8449]
+## 25. Remuneration[^c-aec5d5a451bdcde45c00a99535ef8449]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.30 of the 1986 Rules. Ignore paragraph (4).
 
 ## Annotations
 
-[^key-aec5d5a451bdcde45c00a99535ef8449]: Commencement: Rule 25 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-aec5d5a451bdcde45c00a99535ef8449]: Commencement: Rule 25 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

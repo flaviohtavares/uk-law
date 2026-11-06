@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Well-being duty on public bodies[^key-16bbaccb7be7ec67e25a75bf0a63039e]
+## 3. Well-being duty on public bodies[^c-16bbaccb7be7ec67e25a75bf0a63039e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16bbaccb7be7ec67e25a75bf0a63039e]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2015/2/section/3) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-16bbaccb7be7ec67e25a75bf0a63039e]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2015/2/section/3) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

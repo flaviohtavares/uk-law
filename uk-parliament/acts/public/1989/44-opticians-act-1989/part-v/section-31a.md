@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Rules[^key-a112e40d12afc79eb2eda300a9414474]
+## 31A. Rules[^c-a112e40d12afc79eb2eda300a9414474]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Any power to make rules under this Act may be exercised—
 
 ## Annotations
 
-[^key-a112e40d12afc79eb2eda300a9414474]: Textual amendment: S. 31A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2), [22](https://www.legislation.gov.uk/uksi/2005/848/article/22) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-a112e40d12afc79eb2eda300a9414474]: Textual amendment: S. 31A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2), [22](https://www.legislation.gov.uk/uksi/2005/848/article/22) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

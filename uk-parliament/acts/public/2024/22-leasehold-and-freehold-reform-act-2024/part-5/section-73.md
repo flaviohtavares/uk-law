@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Estate management charges: general limitations[^key-36763e8c74511c289fdb069f5d7991d5]
+## 73. Estate management charges: general limitations[^c-36763e8c74511c289fdb069f5d7991d5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36763e8c74511c289fdb069f5d7991d5]: Commencement: S. 73 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-36763e8c74511c289fdb069f5d7991d5]: Commencement: S. 73 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

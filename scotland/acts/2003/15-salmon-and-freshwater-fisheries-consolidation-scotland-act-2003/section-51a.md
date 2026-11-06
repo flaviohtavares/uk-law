@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51A. Freshwater fish conservation regulations[^key-965aa74b65cd233ddc91b3cf2e44dbf8]
+## 51A. Freshwater fish conservation regulations[^c-965aa74b65cd233ddc91b3cf2e44dbf8]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ regulations made under this section shall be guilty of an offence, and liable on
 
 ## Annotations
 
-[^key-965aa74b65cd233ddc91b3cf2e44dbf8]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/asp/2003/15/section/51A) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 24(1)](https://www.legislation.gov.uk/asp/2007/12/section/24/1), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-965aa74b65cd233ddc91b3cf2e44dbf8]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/asp/2003/15/section/51A) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 24(1)](https://www.legislation.gov.uk/asp/2007/12/section/24/1), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)

@@ -61,7 +61,7 @@ These Regulations may be cited as the Income-Related Benefits Amendment Regulati
 
 (2) In paragraph 29 of Schedule 2 (income other than earnings to be disregarded) after the words “where a contribution assessed)” there shall be inserted the words “, regulation 42A(2) (treatment of student loans)”.
 
-## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-7960e10e32335895133da3be686b1997]
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^c-7960e10e32335895133da3be686b1997]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,7 +105,7 @@ These Regulations further amend the Housing Benefit (General) Regulations 1987 a
 
 [^f00007]: Footnote: S.I. [1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); relevant amending instruments are [1990/574](https://www.legislation.gov.uk/uksi/1990/574) and [1549](https://www.legislation.gov.uk/uksi/1990/1549).
 
-[^key-7960e10e32335895133da3be686b1997]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/1657/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-7960e10e32335895133da3be686b1997]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/1657/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^f00016]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are S.I. [1989/1323](https://www.legislation.gov.uk/uksi/1989/1323) and [1990/1549](https://www.legislation.gov.uk/uksi/1990/1549).
 

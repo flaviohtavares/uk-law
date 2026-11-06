@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Effect of notices under the Insurance Companies Act after commencement[^key-98e1615477bba92d933987db13c4697a]
+## 18. Effect of notices under the Insurance Companies Act after commencement[^c-98e1615477bba92d933987db13c4697a]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98e1615477bba92d933987db13c4697a]: Commencement: Art. 18 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-98e1615477bba92d933987db13c4697a]: Commencement: Art. 18 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -31,11 +31,11 @@ Betting, Gaming and Lotteries Act 1963 (repealed)
 
 An Act to consolidate certain enactments relating to betting, gaming, lotteries and connected matters.
 
-\[28th February 1963\][^key-3e354a2f0fdd029aa30601328d372f29][^key-cb934a3822f750ff1fab745dbd575ee0][^key-aa1750f9a0cfe710de28ae83b0bcfd94]
+\[28th February 1963\][^c-3e354a2f0fdd029aa30601328d372f29][^c-cb934a3822f750ff1fab745dbd575ee0][^c-aa1750f9a0cfe710de28ae83b0bcfd94]
 
 ## Contents
 
-### Part I (affected by repeal, see note) — Betting (affected by repeal, see note)[^key-3e354a2f0fdd029aa30601328d372f29][^key-3e354a2f0fdd029aa30601328d372f29]
+### Part I (affected by repeal, see note) — Betting (affected by repeal, see note)[^c-3e354a2f0fdd029aa30601328d372f29][^c-3e354a2f0fdd029aa30601328d372f29]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ An Act to consolidate certain enactments relating to betting, gaming, lotteries 
 - [Section 10 — Conduct of licensed betting offices.](part-i/section-10.md)
 - [Section 10A — Cancellation of betting office licence](part-i/section-10a.md)
 
-#### Special provisions with respect to bookmaker’s and betting agency permits (affected by repeal, see note)[^key-3e354a2f0fdd029aa30601328d372f29]
+#### Special provisions with respect to bookmaker’s and betting agency permits (affected by repeal, see note)[^c-3e354a2f0fdd029aa30601328d372f29]
 
 - [Section 11 — Cancellation of and disqualification for bookmaker’s or betting agency permit.](part-i/section-11.md)
 
@@ -178,8 +178,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3e354a2f0fdd029aa30601328d372f29]: Textual amendment: Act repealed with savings (1.1.2007 for the repeal of Sch. 2 para. 10, 1.9.2007 in so far as not already in force) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 3](https://www.legislation.gov.uk/uksi/2006/3272/article/3) (as amended by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), [art. 4](https://www.legislation.gov.uk/uksi/2007/2169/article/4))
+[^c-3e354a2f0fdd029aa30601328d372f29]: Textual amendment: Act repealed with savings (1.1.2007 for the repeal of Sch. 2 para. 10, 1.9.2007 in so far as not already in force) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 3](https://www.legislation.gov.uk/uksi/2006/3272/article/3) (as amended by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), [art. 4](https://www.legislation.gov.uk/uksi/2007/2169/article/4))
 
-[^key-cb934a3822f750ff1fab745dbd575ee0]: Modification: Ss. 24-30 saved (1.9.2007) by [Gambling Act 2005 (Horserace Betting Levy) Order 2007 (S.I. 2007/2159)](https://www.legislation.gov.uk/uksi/2007/2159), [art. 2](https://www.legislation.gov.uk/uksi/2007/2159/article/2)
+[^c-cb934a3822f750ff1fab745dbd575ee0]: Modification: Ss. 24-30 saved (1.9.2007) by [Gambling Act 2005 (Horserace Betting Levy) Order 2007 (S.I. 2007/2159)](https://www.legislation.gov.uk/uksi/2007/2159), [art. 2](https://www.legislation.gov.uk/uksi/2007/2159/article/2)
 
-[^key-aa1750f9a0cfe710de28ae83b0bcfd94]: Modification: Ss. 12, 14, 15 saved (1.9.2007) by the [Gambling Act 2005 (Horserace Totalisator Board) Order 2007 (S.I. 2007/2102)](https://www.legislation.gov.uk/uksi/2007/2102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/2102/article/2)
+[^c-aa1750f9a0cfe710de28ae83b0bcfd94]: Modification: Ss. 12, 14, 15 saved (1.9.2007) by the [Gambling Act 2005 (Horserace Totalisator Board) Order 2007 (S.I. 2007/2102)](https://www.legislation.gov.uk/uksi/2007/2102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/2102/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 735. Abnormal dividends used for exemptions or reliefs (circumstance A)[^key-6b798114893c25da72160e5b653f3588]
+## 735. Abnormal dividends used for exemptions or reliefs (circumstance A)[^c-6b798114893c25da72160e5b653f3588]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b798114893c25da72160e5b653f3588]: Textual amendment: S. 735 omitted (with effect in accordance with Sch. 12 para. 15(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/10)
+[^c-6b798114893c25da72160e5b653f3588]: Textual amendment: S. 735 omitted (with effect in accordance with Sch. 12 para. 15(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/10)

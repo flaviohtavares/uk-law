@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Power to alter layout, etc. of streets[^key-68af2bf4e43d1aaeeefad9c955b856d1]
+## 12. Power to alter layout, etc. of streets[^c-68af2bf4e43d1aaeeefad9c955b856d1]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68af2bf4e43d1aaeeefad9c955b856d1]: Commencement: Art. 12 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-68af2bf4e43d1aaeeefad9c955b856d1]: Commencement: Art. 12 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

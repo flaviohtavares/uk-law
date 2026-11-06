@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement, extent, application and interpretation[^key-d3a787a9513caf4a5f4ad0152c4df983]
+## 1. Citation, commencement, extent, application and interpretation[^c-d3a787a9513caf4a5f4ad0152c4df983]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 - (b) paragraphs 14 to 23 of Schedule 3 and article 9 insofar as it relates to those paragraphs; and
 - (c) paragraphs 4(1), 5 and 15 of Schedule 4 and article 10 insofar as it relates to those paragraphs.
 
-(4) The amendment, revocation or modification of any provision by articles 8, 12 and 15 of, and Schedules 2, 5 and 6 to, this Order has the same extent and application as the provision being amended, revoked or modified except that the amendment made by paragraph 2 of Schedule 5 applies in relation to England only[^key-8d4bcb464e8663c874ff507861a4e6db].
+(4) The amendment, revocation or modification of any provision by articles 8, 12 and 15 of, and Schedules 2, 5 and 6 to, this Order has the same extent and application as the provision being amended, revoked or modified except that the amendment made by paragraph 2 of Schedule 5 applies in relation to England only[^c-8d4bcb464e8663c874ff507861a4e6db].
 
 (5) In this Order—
 
@@ -59,11 +59,11 @@ summary: ''
 
 ## Annotations
 
-[^key-d3a787a9513caf4a5f4ad0152c4df983]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/462/article/1) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-d3a787a9513caf4a5f4ad0152c4df983]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/462/article/1) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
 
 [^f00002]: Footnote: [1950 c.37](https://www.legislation.gov.uk/ukpga/1950/37).
 
-[^key-8d4bcb464e8663c874ff507861a4e6db]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4) inserted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Amendment Order 2009 (S.I. 2009/580)](https://www.legislation.gov.uk/uksi/2009/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/580/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/580/article/2/2)
+[^c-8d4bcb464e8663c874ff507861a4e6db]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4) inserted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Amendment Order 2009 (S.I. 2009/580)](https://www.legislation.gov.uk/uksi/2009/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/580/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/580/article/2/2)
 
 [^f00003]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
 

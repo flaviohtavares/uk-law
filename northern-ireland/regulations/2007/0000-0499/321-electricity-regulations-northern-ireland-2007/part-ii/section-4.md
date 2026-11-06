@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Interpretation[^key-cb59451518926b828e3305c2cb5b0d6b]
+## 4. Interpretation[^c-cb59451518926b828e3305c2cb5b0d6b]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ In Article 3 (Interpretation of Part II) —
 
 ## Annotations
 
-[^key-cb59451518926b828e3305c2cb5b0d6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/321/regulation/4) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-cb59451518926b828e3305c2cb5b0d6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/321/regulation/4) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)

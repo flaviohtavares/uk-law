@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — CONDITIONS RELATING TO CROPS FROM WHICH SEED IS TO BE HARVESTED[^key-f560b62a14f17cca38ddc48a94876bca]
+## SCHEDULE 3 — CONDITIONS RELATING TO CROPS FROM WHICH SEED IS TO BE HARVESTED[^c-f560b62a14f17cca38ddc48a94876bca]
 
 *Extent: N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulations 8(7)(a), 8(8) to (12), (14)(c) and (17)(a),(10)(3) and (4), 11(15)(a),and (b), 13(5), 14(1)(b),and paragraphs 2(3)(a), 5(3)(a), 9(3)(a), 12(3)(a),14(3)(a), 17(3)(a), 21(3)(a),24(3)(a) and 27(2)(a),and (3)(a) of Schedule 1.
 
-**1.**[^key-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f560b62a14f17cca38ddc48a94876bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f560b62a14f17cca38ddc48a94876bca]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(e)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/e)
+[^c-f560b62a14f17cca38ddc48a94876bca]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(e)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/e)

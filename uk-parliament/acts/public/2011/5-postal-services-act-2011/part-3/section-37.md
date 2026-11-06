@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Publication of information about performance[^key-b9f69cc9d26d832597bdebf54f7e0f92]
+## 37. Publication of information about performance[^c-b9f69cc9d26d832597bdebf54f7e0f92]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) An “**independent person**” means a person who is independent of both OFCOM and universal service providers.
 
-(4)[^key-66ec62d3e2330bf2e3ef74318f6cb31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-66ec62d3e2330bf2e3ef74318f6cb31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A designated USP condition may require the universal service provider concerned to meet the costs of the audit required as a result of subsection (1)(b).
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f69cc9d26d832597bdebf54f7e0f92]: Commencement: S. 37 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b9f69cc9d26d832597bdebf54f7e0f92]: Commencement: S. 37 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-66ec62d3e2330bf2e3ef74318f6cb31d]: Textual amendment: [S. 37(4)](https://www.legislation.gov.uk/ukpga/2011/5/section/37/4) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66ec62d3e2330bf2e3ef74318f6cb31d]: Textual amendment: [S. 37(4)](https://www.legislation.gov.uk/ukpga/2011/5/section/37/4) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

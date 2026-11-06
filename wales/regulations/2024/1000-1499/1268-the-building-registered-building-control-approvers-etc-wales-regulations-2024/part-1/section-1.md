@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, coming into force and application[^key-424f2ac4aba2c3353ffad3c9ef2084ac]
+## 1. Title, coming into force and application[^c-424f2ac4aba2c3353ffad3c9ef2084ac]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-424f2ac4aba2c3353ffad3c9ef2084ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-424f2ac4aba2c3353ffad3c9ef2084ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

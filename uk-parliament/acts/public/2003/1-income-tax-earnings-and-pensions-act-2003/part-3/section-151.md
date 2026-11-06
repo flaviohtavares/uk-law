@@ -24,13 +24,13 @@ summary: ''
 
 (2) Condition A is met if ...—
 
-- (a) in the tax year in question,[^key-f4a13468a863f1f7dd5012997ba516ca] the employee is required to make good to the person providing the fuel the whole of the expense incurred by that person in connection with the provision of the fuel for the employee’s private use, and
-- (b) the employee does make good that expense on or before 6 July following that tax year[^key-621c2e756813da56edb4e88d6f39c838] .
+- (a) in the tax year in question,[^c-f4a13468a863f1f7dd5012997ba516ca] the employee is required to make good to the person providing the fuel the whole of the expense incurred by that person in connection with the provision of the fuel for the employee’s private use, and
+- (b) the employee does make good that expense on or before 6 July following that tax year[^c-621c2e756813da56edb4e88d6f39c838] .
 
 (3) Condition B is met if in the tax year in question the fuel is made available only for business travel (see section 171(1)).
 
 ## Annotations
 
-[^key-f4a13468a863f1f7dd5012997ba516ca]: Textual amendment: Words in [s. 151(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/151/2/a) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(8)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/8/b)
+[^c-f4a13468a863f1f7dd5012997ba516ca]: Textual amendment: Words in [s. 151(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/151/2/a) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(8)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/8/b)
 
-[^key-621c2e756813da56edb4e88d6f39c838]: Textual amendment: Words in [s. 151(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/151/2/b) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/8/c)
+[^c-621c2e756813da56edb4e88d6f39c838]: Textual amendment: Words in [s. 151(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/151/2/b) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/8/c)

@@ -52,7 +52,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-7294f9fab7fbbbcd67b5e5f75222209e]
+### 1. Citation and commencement[^c-7294f9fab7fbbbcd67b5e5f75222209e]
 
 (1) These Regulations may be cited as the Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019.
 
@@ -60,7 +60,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (3) The remainder of these Regulations comes into force on exit day.
 
-### 2. Interpretation[^key-e5a40bbf83ef396800bd3a8b7534659b]
+### 2. Interpretation[^c-e5a40bbf83ef396800bd3a8b7534659b]
 
 (1) In these Regulations—
 
@@ -69,7 +69,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
   - (b) in relation to Scotland, the Scottish Ministers;
   - (c) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
 - “**the OIE**” means the World Organization for Animal Health;
-- “[^key-0ef28a81d672f2ea0ea59db5d052e66f]**third country**” means any country or territory other than the British Islands.
+- “[^c-0ef28a81d672f2ea0ea59db5d052e66f]**third country**” means any country or territory other than the British Islands.
 
 (2) In Part 2 of these Regulations—
 
@@ -81,7 +81,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 1 — Function of approval of third countries to be included in approved lists relating to veterinary checks of hay and straw
 
-#### 3. Power to amend the third country lists in Commission Regulation [(EC) No 136/2004](https://www.legislation.gov.uk/eur/2004/136)[^key-ab502750d3a1bf45e7cb1bad548b8835]
+#### 3. Power to amend the third country lists in Commission Regulation [(EC) No 136/2004](https://www.legislation.gov.uk/eur/2004/136)[^c-ab502750d3a1bf45e7cb1bad548b8835]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Regulation [(EC) No 136/2004](https://www.legislation.gov.uk/eur/2004/136), laying down procedures for veterinary checks at Community border inspection posts on products imported from third countries [^c23840801], to add a third country to the list in Annex 5 (“**the list**”) (third countries authorised for the purposes of the importation of hay or straw), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risk to animal health in the United Kingdom, taking into account—
 
@@ -99,7 +99,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 2 — Function of approval of third countries to be included in approved lists relating to bovine embryos
 
-#### 4. Power to amend the third country lists in Commission Decision [2006/168/EC](https://www.legislation.gov.uk/eudn/2006/168)[^key-1ccd0612721630f949265c95e3f7ae2e]
+#### 4. Power to amend the third country lists in Commission Decision [2006/168/EC](https://www.legislation.gov.uk/eudn/2006/168)[^c-1ccd0612721630f949265c95e3f7ae2e]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Decision [2006/168/EC](https://www.legislation.gov.uk/eudn/2006/168) establishing the animal health and veterinary certification requirements for imports of bovine embryos [^c23840811], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risk to animal health in the United Kingdom, taking into account—
 
@@ -114,11 +114,11 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (3) In the case of a third country which is not listed in the list or which is listed in the list only as regards part of its territory, the assessment must demonstrate that the relevant competent authority of the third country is able to provide appropriate assurances regarding compliance with relevant animal health requirements in the United Kingdom.
 
-### CHAPTER 3 — Function of approval of third countries for the importation of bivalve molluscs, echinoderms, tunicates, marine gastropods , fishery products, frogs' legs and snails[^key-2dd62cb865367280f74da7b7d2a9fbc9]
+### CHAPTER 3 — Function of approval of third countries for the importation of bivalve molluscs, echinoderms, tunicates, marine gastropods , fishery products, frogs' legs and snails[^c-2dd62cb865367280f74da7b7d2a9fbc9]
 
-#### 5. Power to amend the third country lists in Commission Implementing Regulation (EU) 2019/626[^key-881bfb82efd0fa7212d0f12ad249b999][^key-3be73351ea5a24846ee6059d06378758]
+#### 5. Power to amend the third country lists in Commission Implementing Regulation (EU) 2019/626[^c-881bfb82efd0fa7212d0f12ad249b999][^c-3be73351ea5a24846ee6059d06378758]
 
-(1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Implementing Regulation (EU) 2019/626, which, in particular, sets out[^key-c9a3c2ce936928b11be204099b577ca3] the lists of third countries and territories from which imports of bivalve molluscs, echinoderms, tunicates, marine gastropods , fishery products, frogs' legs and snails[^key-a626554dc995eb40d9c55189c6729b8c] are permitted [^c23840821], to add a third country to the list in Annex 1 , 2 or 3[^key-9d1861b240ead3eb8ea8691c07b1e3eb] (“the relevant list”), or remove or amend an entry in the relevant list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risk to public health in the United Kingdom, taking into account the public health criteria.
+(1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Implementing Regulation (EU) 2019/626, which, in particular, sets out[^c-c9a3c2ce936928b11be204099b577ca3] the lists of third countries and territories from which imports of bivalve molluscs, echinoderms, tunicates, marine gastropods , fishery products, frogs' legs and snails[^c-a626554dc995eb40d9c55189c6729b8c] are permitted [^c23840821], to add a third country to the list in Annex 1 , 2 or 3[^c-9d1861b240ead3eb8ea8691c07b1e3eb] (“the relevant list”), or remove or amend an entry in the relevant list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risk to public health in the United Kingdom, taking into account the public health criteria.
 
 (2) Any assessment which is relied on for the purposes of paragraph (1) must be appropriate to the circumstances and must have been approved by the Secretary of State and the appropriate authority.
 
@@ -126,7 +126,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 4 — Function of approval of third countries for the importation of certain meat products and treated stomachs, bladders and intestines for human consumption
 
-#### 6. Power to amend the third country lists in Commission Decision [2007/777/EC](https://www.legislation.gov.uk/eudn/2007/777)[^key-789e50eb460c7a111f31de01315621f4]
+#### 6. Power to amend the third country lists in Commission Decision [2007/777/EC](https://www.legislation.gov.uk/eudn/2007/777)[^c-789e50eb460c7a111f31de01315621f4]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Decision [2007/777/EC](https://www.legislation.gov.uk/eudn/2007/777) laying down the animal and public health conditions and model certificates for imports of certain meat products and treated stomachs, bladders and intestines for human consumption from third countries [^c23840831], to add a third country to the list in Annex 2 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risk to animal and public health in the United Kingdom, taking into account the animal health criteria and the public health criteria.
 
@@ -136,7 +136,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 5 — Function of approval of third countries to be included in approved lists relating to poultry, poultry products (including hatching eggs)
 
-#### 7. Power to amend the third country lists in Commission Regulation [(EC) No 798/2008](https://www.legislation.gov.uk/eur/2008/798)[^key-3d97e002ac5b006095a06cc2e6cc1011]
+#### 7. Power to amend the third country lists in Commission Regulation [(EC) No 798/2008](https://www.legislation.gov.uk/eur/2008/798)[^c-3d97e002ac5b006095a06cc2e6cc1011]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Regulation [(EC) No 798/2008](https://www.legislation.gov.uk/eur/2008/798) laying down a list of third countries, territories, zones or compartments from which poultry and poultry products may be imported into and transit through the Community and the veterinary certification requirements [^c23840841], to add a third country to the list in Part 1 of Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risk to animal or public health in the United Kingdom, taking into account the criteria and matters specified in paragraph (2).
 
@@ -151,7 +151,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 6 — Function of approval of third countries to be included in approved lists for the importation of meat of wild leporidae, wild land mammals and of farmed rabbits
 
-#### 8. Power to amend the third country lists in Commission Regulation [(EC) No 119/2009](https://www.legislation.gov.uk/eur/2009/119)[^key-c0721545f8499be3fcf1a756b151c5c0]
+#### 8. Power to amend the third country lists in Commission Regulation [(EC) No 119/2009](https://www.legislation.gov.uk/eur/2009/119)[^c-c0721545f8499be3fcf1a756b151c5c0]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Regulation [(EC) No 119/2009](https://www.legislation.gov.uk/eur/2009/119) laying down a list of third countries, or parts thereof, for imports of meat of wild leporidae, of certain wild land mammals and of farmed rabbits and the veterinary certification requirements [^c23840851], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, or a part of such a country, where the amendment is necessary or appropriate in the light of an assessment of the risks to animal and public health in the United Kingdom, taking into account the animal health criteria and the public health criteria.
 
@@ -161,7 +161,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 7 — Function of approval of third countries to be included in approved lists for the import of ungulates and fresh meat
 
-#### 9. Power to amend the third country lists in Commission Regulation (EU) No 206/2010[^key-1e9b58fefbab908e4bf69ca81f2ff71c]
+#### 9. Power to amend the third country lists in Commission Regulation (EU) No 206/2010[^c-1e9b58fefbab908e4bf69ca81f2ff71c]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Regulation (EU) No 206/2010 laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements [^c23840861], to add a third country to the list in Part 1 of Annex 1 (Ungulates) or Part 1 of Annex 2 (fresh meat) (“the relevant list”), or remove or amend an entry in the relevant list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risks to animal and human health in the United Kingdom, taking into account the public health criteria and the matters specified in paragraph (2).
 
@@ -184,7 +184,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 8 — Function of approval of third countries to be included in approved lists with regard to the importation of semen, ova and embryos of the ovine and caprine species
 
-#### 10. Power to amend the third country lists in Commission Decision [2010/472/EU](https://www.legislation.gov.uk/eudn/2010/472)[^key-60dfcb933933a82e738b79fa6a49f131]
+#### 10. Power to amend the third country lists in Commission Decision [2010/472/EU](https://www.legislation.gov.uk/eudn/2010/472)[^c-60dfcb933933a82e738b79fa6a49f131]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Decision [2010/472/EU](https://www.legislation.gov.uk/eudn/2010/472) on imports of semen, ova and embryos of animals of the ovine and caprine species into the Union [^c23840891], to add a third country to the list in Annex 1 (semen) or Annex 3 (ova and embryos) (“the relevant list”), or remove or amend an entry in the relevant list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risks to animal and human health in the United Kingdom, taking into account the following matters—
 
@@ -199,7 +199,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 9 — Function of approval of third countries to be included in approved lists with regard to the importation of raw milk, dairy products etc. intended for human consumption
 
-#### 11. Power to amend the third country lists in Commission Regulation (EU) 605/2010[^key-98a44ed5d773a10707ef00dfd1ff78e9]
+#### 11. Power to amend the third country lists in Commission Regulation (EU) 605/2010[^c-98a44ed5d773a10707ef00dfd1ff78e9]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Regulation (EU) 605/2010 laying down animal and public health and veterinary certification conditions for the introduction into the European Union of raw milk, dairy products, colostrum and colostrum-based products intended for human consumption [^c23840901], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risks to animal and human health in the United Kingdom, taking into account the animal health criteria and the public health criteria.
 
@@ -209,7 +209,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 10 — Function of approval of third countries to be included in approved lists that comply with veterinary residues
 
-#### 12. Power to amend the third country lists of approved residue control plans in Commission Decision [2011/163/EU](https://www.legislation.gov.uk/eudn/2011/163)[^key-8972ef925e89d3217a48a631bbdcd30f]
+#### 12. Power to amend the third country lists of approved residue control plans in Commission Decision [2011/163/EU](https://www.legislation.gov.uk/eudn/2011/163)[^c-8972ef925e89d3217a48a631bbdcd30f]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Decision [2011/163/EU](https://www.legislation.gov.uk/eudn/2011/163) on the approval of plans submitted by third countries [^c23840911] (which sets out the assurances which a third country offers as regards the monitoring of the groups of residues and substances), to add a third country to the list in the Annex (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risks to public health in the United Kingdom, taking into account matters specified in this regulation.
 
@@ -244,7 +244,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 11 — Function of approval of third countries to be included in approved lists for the importation of bovine semen
 
-#### 13. Power to amend the third country lists in Commission Implementing Decision [2011/630/EU](https://www.legislation.gov.uk/eudn/2011/630)[^key-b3a58855256743081a26310dbf006149]
+#### 13. Power to amend the third country lists in Commission Implementing Decision [2011/630/EU](https://www.legislation.gov.uk/eudn/2011/630)[^c-b3a58855256743081a26310dbf006149]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Implementing Decision [2011/630/EU](https://www.legislation.gov.uk/eudn/2011/630) on imports into the Union of semen of domestic animals of the bovine species [^c23840931], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risks to animal and public health in the United Kingdom in accordance with paragraph (2).
 
@@ -261,7 +261,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 12 — Function of approval of third countries to be included in approved lists with regard to the importation of porcine semen
 
-#### 14. Power to amend the third country lists in Commission Implementing Decision [2012/137/EU](https://www.legislation.gov.uk/eudn/2012/137)[^key-bcc091eb88078b42c676521ddef4f9ca]
+#### 14. Power to amend the third country lists in Commission Implementing Decision [2012/137/EU](https://www.legislation.gov.uk/eudn/2012/137)[^c-bcc091eb88078b42c676521ddef4f9ca]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Implementing Decision [2012/137/EU](https://www.legislation.gov.uk/eudn/2012/137) on imports into the Union of semen of domestic animals of the porcine species [^c23840941], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risk to animal health in the United Kingdom and the matters specified in paragraph (2).
 
@@ -278,7 +278,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 13 — Function of approval of third countries to be included in approved lists for the importation of birds
 
-#### 15. Power to amend the third country lists in Commission Implementing Regulation (EU) 139/2013[^key-882523c2501dea2b1bed5f3790cedf6d]
+#### 15. Power to amend the third country lists in Commission Implementing Regulation (EU) 139/2013[^c-882523c2501dea2b1bed5f3790cedf6d]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Implementing Regulation (EU) 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof [^c23840951], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of risks to animal health in the United Kingdom, taking into account the criteria and matters mentioned in regulation 7(2) so far as they relate to live poultry.
 
@@ -288,7 +288,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 14 — Function of approval of third countries to be included in approved lists for the importation of certain products of animal origin intended for human consumption (frogs' legs, snails, gelatine and collagen etc.)
 
-#### 16. Power to amend the third country lists in Commission Implementing Regulation (EU) 2016/759[^key-d4f50f6513841b8b323ab19b40e0b539]
+#### 16. Power to amend the third country lists in Commission Implementing Regulation (EU) 2016/759[^c-d4f50f6513841b8b323ab19b40e0b539]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Implementing Regulation (EU) 2016/759 drawing up lists of third countries, parts of third countries and territories from which Member States are to authorise the introduction into the Union of certain products of animal origin intended for human consumption [^c23840961], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risks to animal and plant health in the United Kingdom of importing frogs' legs, snails, gelatine or collagen, taking into account the animal health criteria and the public health criteria.
 
@@ -298,7 +298,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ### CHAPTER 15 — Function of approval of third countries to be included in approved lists for the importation of live equidae and semen, ova and embryos of equidae
 
-#### 17. Power to amend the third country lists in Commission Implementing Regulation (EU) 2018/659[^key-29550abf799893167aa284b3e097460e]
+#### 17. Power to amend the third country lists in Commission Implementing Regulation (EU) 2018/659[^c-29550abf799893167aa284b3e097460e]
 
 (1) The Secretary of State, with the consent of the appropriate authority, may by regulations amend Commission Implementing Regulation (EU) 2018/659 on the conditions for the entry into the Union of live equidae and of semen, ova and embryos of equidae [^c23840971], to add a third country to the list in Annex 1 (“**the list**”), or remove or amend an entry in the list in respect of a third country, where the amendment is necessary or appropriate in the light of an assessment of the risks to animal health in the United Kingdom, taking into account the matters specified in this regulation.
 
@@ -330,9 +330,9 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 3 — Regulations for the purposes of Part 2
 
-### 18. Regulations[^key-25731e30f867572da70689ea38c2b52e]
+### 18. Regulations[^c-25731e30f867572da70689ea38c2b52e]
 
-(1) The Secretary of State may only make regulations under Part 2 in relation to Great Britain[^key-2bacb1a4c57fb216969ac49ee7d0e51c].
+(1) The Secretary of State may only make regulations under Part 2 in relation to Great Britain[^c-2bacb1a4c57fb216969ac49ee7d0e51c].
 
 (2) Where the appropriate authority requests that the Secretary of State make regulations under Part 2, the Secretary of State must have regard to that request.
 
@@ -345,11 +345,11 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 - (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking any enactment (within the meaning given by section 20(1) of the European Union (Withdrawal) Act 2018));
 - (b) make different provision for different purposes.
 
-## PART 4 — Amendments to the Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019[^key-879e75c7d552faf0ef6ecfd387256f85]
+## PART 4 — Amendments to the Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019[^c-879e75c7d552faf0ef6ecfd387256f85]
 
 **No longer in force.**
 
-### 19. Amendments to the Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019[^key-879e75c7d552faf0ef6ecfd387256f85]
+### 19. Amendments to the Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019[^c-879e75c7d552faf0ef6ecfd387256f85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -357,7 +357,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 *Extent: E+W+N.I.*
 
-### 20. Amendment to Trade in Animals and Related Products Regulations 2011[^key-50abb8053a55ac5f3c331f4fa9d5a19c]
+### 20. Amendment to Trade in Animals and Related Products Regulations 2011[^c-50abb8053a55ac5f3c331f4fa9d5a19c]
 
 *Extent: E+W*
 
@@ -365,7 +365,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Amendment to the Trade in Animals and Related Products Regulations (Northern Ireland) 2011[^key-46fdc966b480ae091781aaee3a77b4ed]
+### 21. Amendment to the Trade in Animals and Related Products Regulations (Northern Ireland) 2011[^c-46fdc966b480ae091781aaee3a77b4ed]
 
 *Extent: N.I.*
 
@@ -399,7 +399,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 6 — Amendment to transitional provision for recognition of veterinary surgeon professional qualification
 
-### 22. Amendment to the Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019[^key-346d59994b15d41bfac7db9d25726373]
+### 22. Amendment to the Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019[^c-346d59994b15d41bfac7db9d25726373]
 
 In regulation 4(2)(a)(iii) of the Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019 [^c23841031], in paragraph (ii) of the substituted paragraph 5B(1)(d), of the Veterinary Surgeons Act 1966 [^c23841041], for “paragraph 43” substitute “ paragraph 44 ”.
 
@@ -413,43 +413,43 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 2(2)(a)
 
-**1.**[^key-523f0658e6ede6cf96258302ff16f53c] The legislation of the third country relevant to animal disease prevention and control.
+**1.**[^c-523f0658e6ede6cf96258302ff16f53c] The legislation of the third country relevant to animal disease prevention and control.
 
-**2.**[^key-b6672796e9648f727de7f1049fd69c7d] Whether the third country is capable of guaranteeing the implementation of its enacted legislation, and whether the organization of its veterinary and inspection services enables the country effectively to undertake or supervise such services.
+**2.**[^c-b6672796e9648f727de7f1049fd69c7d] Whether the third country is capable of guaranteeing the implementation of its enacted legislation, and whether the organization of its veterinary and inspection services enables the country effectively to undertake or supervise such services.
 
-**3.**[^key-f87029024f985e0842eec0e770d49271] The animal health requirements applying to the production, manufacture, handling, storage and dispatch of products of animal origin intended for the United Kingdom.
+**3.**[^c-f87029024f985e0842eec0e770d49271] The animal health requirements applying to the production, manufacture, handling, storage and dispatch of products of animal origin intended for the United Kingdom.
 
-**4.**[^key-755106a0d22c8a0d38f77c24b0db1652] The assurances which the competent veterinary authority of the third country can give regarding compliance or equivalence with the relevant animal health conditions.
+**4.**[^c-755106a0d22c8a0d38f77c24b0db1652] The assurances which the competent veterinary authority of the third country can give regarding compliance or equivalence with the relevant animal health conditions.
 
-**5.**[^key-da7334eb88b91fe534d650a56060f36d] Any experience of marketing the product from the third country and the results of any import controls carried out.
+**5.**[^c-da7334eb88b91fe534d650a56060f36d] Any experience of marketing the product from the third country and the results of any import controls carried out.
 
-**6.**[^key-d02f22be90a3dd8e132fb09730ad216a] The results of inspections or audits carried out in the third country, in particular the results of the assessment of the competent authorities or any report with regard to such inspections or audits.
+**6.**[^c-d02f22be90a3dd8e132fb09730ad216a] The results of inspections or audits carried out in the third country, in particular the results of the assessment of the competent authorities or any report with regard to such inspections or audits.
 
-**7.**[^key-aa932d355f53f9a7489fb2fc7b98b7c0] The health status of livestock, other domestic animals and wildlife and the environmental situation in the third country, with particular regard to exotic, notifiable or reportable animal diseases in the United Kingdom, and any aspects of the general animal health situation in the country which might pose a risk to the health and environmental situation of the United Kingdom.
+**7.**[^c-aa932d355f53f9a7489fb2fc7b98b7c0] The health status of livestock, other domestic animals and wildlife and the environmental situation in the third country, with particular regard to exotic, notifiable or reportable animal diseases in the United Kingdom, and any aspects of the general animal health situation in the country which might pose a risk to the health and environmental situation of the United Kingdom.
 
-**8.**[^key-a42dec1cd3068d0390758757b624ac40] The regularity, speed and accuracy with which the third country supplies information on the existence of infectious or contagious animal diseases in its territory, particularly the notifiable diseases listed by the OIE or, in the case of diseases of aquaculture animals, the notifiable diseases listed in the Aquatic Animal Health Code of the OIE which provides standards for the improvement of aquatic animal health worldwide that have been formally adopted by the World Assembly of OIE Delegates.
+**8.**[^c-a42dec1cd3068d0390758757b624ac40] The regularity, speed and accuracy with which the third country supplies information on the existence of infectious or contagious animal diseases in its territory, particularly the notifiable diseases listed by the OIE or, in the case of diseases of aquaculture animals, the notifiable diseases listed in the Aquatic Animal Health Code of the OIE which provides standards for the improvement of aquatic animal health worldwide that have been formally adopted by the World Assembly of OIE Delegates.
 
-**9.**[^key-e966abd5a97b51335cbc27a16bca87ff] The rules on the prevention and control of infectious or contagious animal diseases in force in the third country and their implementation, including rules on imports from other countries.
+**9.**[^c-e966abd5a97b51335cbc27a16bca87ff] The rules on the prevention and control of infectious or contagious animal diseases in force in the third country and their implementation, including rules on imports from other countries.
 
 ## SCHEDULE 2 — The public health criteria
 
 Regulation 2(2)(c)
 
-**1.**[^key-d4610cf32a614f2569a660602f3627bf] The existence and robustness in the third country of legislation covering—
+**1.**[^c-d4610cf32a614f2569a660602f3627bf] The existence and robustness in the third country of legislation covering—
 
 - (a) products of animal origin;
 - (b) the use of veterinary medicinal products, including rules on their prohibition or authorisation, their distribution, their placing on the market and the rules covering administration and inspection;
 - (c) the preparation and use of feedingstuffs, including the procedures for using additives and the preparation and use of medicated feedingstuffs, as well as the hygiene quality of the raw materials used for preparing feedingstuffs and of the final product.
 
-**2.**[^key-b09e00fcb4e7f8e17f675cf3e5bf3dea] The hygiene conditions of production, manufacture, handling, storage and dispatch applied to products of animal origin destined for the United Kingdom.
+**2.**[^c-b09e00fcb4e7f8e17f675cf3e5bf3dea] The hygiene conditions of production, manufacture, handling, storage and dispatch applied to products of animal origin destined for the United Kingdom.
 
-**3.**[^key-6d7aaa67cb8cedc5c47fb1dc30a787bc] Any experience of marketing of the product from the third country and the results of any import controls carried out.
+**3.**[^c-6d7aaa67cb8cedc5c47fb1dc30a787bc] Any experience of marketing of the product from the third country and the results of any import controls carried out.
 
-**4.**[^key-7cfea486d3c80e151f0554c1259e17e0] The results of official controls [^c23841051] carried out in the third country, in particular the results of the assessment of the competent authorities, and the action that competent authorities have taken in the light of any recommendations addressed to them.
+**4.**[^c-7cfea486d3c80e151f0554c1259e17e0] The results of official controls [^c23841051] carried out in the third country, in particular the results of the assessment of the competent authorities, and the action that competent authorities have taken in the light of any recommendations addressed to them.
 
-**5.**[^key-6a7dc5f48810fcec7b23f817b4d1dd2f] The existence, implementation and communication of an approved zoonoses control programme in the third country.
+**5.**[^c-6a7dc5f48810fcec7b23f817b4d1dd2f] The existence, implementation and communication of an approved zoonoses control programme in the third country.
 
-**6.**[^key-473c4d8536d306492c00003168cfeec0] The existence, implementation and communication of an approved residue control programme in the third country.
+**6.**[^c-473c4d8536d306492c00003168cfeec0] The existence, implementation and communication of an approved residue control programme in the third country.
 
 *(This note is not part of these Regulations)*
 
@@ -473,47 +473,47 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23840791]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-7294f9fab7fbbbcd67b5e5f75222209e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-7294f9fab7fbbbcd67b5e5f75222209e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-e5a40bbf83ef396800bd3a8b7534659b]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e5a40bbf83ef396800bd3a8b7534659b]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-0ef28a81d672f2ea0ea59db5d052e66f]: Textual amendment: Words in reg. 2 substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/2)
+[^c-0ef28a81d672f2ea0ea59db5d052e66f]: Textual amendment: Words in reg. 2 substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/2)
 
-[^key-ab502750d3a1bf45e7cb1bad548b8835]: Commencement: Reg. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-ab502750d3a1bf45e7cb1bad548b8835]: Commencement: Reg. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840801]: Marginal citation: Commission Regulation (EC) No 136/2004 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-1ccd0612721630f949265c95e3f7ae2e]: Commencement: Reg. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-1ccd0612721630f949265c95e3f7ae2e]: Commencement: Reg. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840811]: Marginal citation: Commission Decision 2006/168/EC is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-2dd62cb865367280f74da7b7d2a9fbc9]: Textual amendment: Words in Pt. 2 Ch. 3 heading substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/a)
+[^c-2dd62cb865367280f74da7b7d2a9fbc9]: Textual amendment: Words in Pt. 2 Ch. 3 heading substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/a)
 
-[^key-881bfb82efd0fa7212d0f12ad249b999]: Commencement: Reg. 5 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-881bfb82efd0fa7212d0f12ad249b999]: Commencement: Reg. 5 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-3be73351ea5a24846ee6059d06378758]: Textual amendment: Words in reg. 5 heading substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/i)
+[^c-3be73351ea5a24846ee6059d06378758]: Textual amendment: Words in reg. 5 heading substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/i)
 
-[^key-c9a3c2ce936928b11be204099b577ca3]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/ii/aa)
+[^c-c9a3c2ce936928b11be204099b577ca3]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/ii/aa)
 
-[^key-a626554dc995eb40d9c55189c6729b8c]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/ii/bb)
+[^c-a626554dc995eb40d9c55189c6729b8c]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/ii/bb)
 
 [^c23840821]: Marginal citation: Commission Decision 2006/766/EC is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-9d1861b240ead3eb8ea8691c07b1e3eb]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/ii/cc)
+[^c-9d1861b240ead3eb8ea8691c07b1e3eb]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(3)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/3/b/ii/cc)
 
-[^key-789e50eb460c7a111f31de01315621f4]: Commencement: Reg. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-789e50eb460c7a111f31de01315621f4]: Commencement: Reg. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840831]: Marginal citation: Commission Decision 2007/777/EC is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-3d97e002ac5b006095a06cc2e6cc1011]: Commencement: Reg. 7 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-3d97e002ac5b006095a06cc2e6cc1011]: Commencement: Reg. 7 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840841]: Marginal citation: Commission Regulation (EC) No 119/2009 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-c0721545f8499be3fcf1a756b151c5c0]: Commencement: Reg. 8 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-c0721545f8499be3fcf1a756b151c5c0]: Commencement: Reg. 8 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840851]: Marginal citation: Commission Regulation (EC) No 119/2009 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-1e9b58fefbab908e4bf69ca81f2ff71c]: Commencement: Reg. 9 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-1e9b58fefbab908e4bf69ca81f2ff71c]: Commencement: Reg. 9 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840861]: Marginal citation: Commission Regulation (EU) No 206/2010 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
@@ -521,86 +521,86 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23840881]: Marginal citation: OJ No. L 18, 23.1.2003, p.11, as last amended by Council Directive 2013/20/EU (OJ No. L 206, 2.8.2013, p.13).
 
-[^key-60dfcb933933a82e738b79fa6a49f131]: Commencement: Reg. 10 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-60dfcb933933a82e738b79fa6a49f131]: Commencement: Reg. 10 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23840891]: Marginal citation: Commission Decision 2010/472/EC is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-98a44ed5d773a10707ef00dfd1ff78e9]: Commencement: Reg. 11 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-98a44ed5d773a10707ef00dfd1ff78e9]: Commencement: Reg. 11 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840901]: Marginal citation: Commission Regulation (EU) 605/2010 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-8972ef925e89d3217a48a631bbdcd30f]: Commencement: Reg. 12 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8972ef925e89d3217a48a631bbdcd30f]: Commencement: Reg. 12 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23840911]: Marginal citation: Commission Decision 2011/163/EC is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
 [^c23840921]: Marginal citation: OJ No. L 125, 23.5.1996, p.10, as last amended by Council Directive 2013/20/EU (OJ No. L 158, 10.6.2013, p.234).
 
-[^key-b3a58855256743081a26310dbf006149]: Commencement: Reg. 13 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b3a58855256743081a26310dbf006149]: Commencement: Reg. 13 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23840931]: Marginal citation: Commission Implementing Decision 2011/630/EC is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795) and 2019/778.
 
-[^key-bcc091eb88078b42c676521ddef4f9ca]: Commencement: Reg. 14 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bcc091eb88078b42c676521ddef4f9ca]: Commencement: Reg. 14 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23840941]: Marginal citation: Commission Implementing Decision 2012/137/EC is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-882523c2501dea2b1bed5f3790cedf6d]: Commencement: Reg. 15 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-882523c2501dea2b1bed5f3790cedf6d]: Commencement: Reg. 15 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840951]: Marginal citation: Commission Implementing Regulation (EU) 139/2013 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-d4f50f6513841b8b323ab19b40e0b539]: Commencement: Reg. 16 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-d4f50f6513841b8b323ab19b40e0b539]: Commencement: Reg. 16 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840961]: Marginal citation: Commission Implementing Regulation 2016/759 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-29550abf799893167aa284b3e097460e]: Commencement: Reg. 17 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-29550abf799893167aa284b3e097460e]: Commencement: Reg. 17 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23840971]: Marginal citation: Commission Implementing Regulation 2018/659 is amended by [S.I. 2019/795](https://www.legislation.gov.uk/uksi/2019/795).
 
-[^key-25731e30f867572da70689ea38c2b52e]: Commencement: Reg. 18 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-25731e30f867572da70689ea38c2b52e]: Commencement: Reg. 18 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-2bacb1a4c57fb216969ac49ee7d0e51c]: Textual amendment: Words in reg. 18(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/4)
+[^c-2bacb1a4c57fb216969ac49ee7d0e51c]: Textual amendment: Words in reg. 18(1) substituted (31.12.2020 before IP completion day) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/4)
 
-[^key-879e75c7d552faf0ef6ecfd387256f85]: Textual amendment: Pt. 4 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(5)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/5)
+[^c-879e75c7d552faf0ef6ecfd387256f85]: Textual amendment: Pt. 4 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(5)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/5)
 
-[^key-50abb8053a55ac5f3c331f4fa9d5a19c]: Textual amendment: Reg. 20 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/6)
+[^c-50abb8053a55ac5f3c331f4fa9d5a19c]: Textual amendment: Reg. 20 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [38(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/38/6)
 
-[^key-46fdc966b480ae091781aaee3a77b4ed]: Commencement: Reg. 21 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-46fdc966b480ae091781aaee3a77b4ed]: Commencement: Reg. 21 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23841021]: Marginal citation: S.R. [2011 No. 438](https://www.legislation.gov.uk/ukcm/2011/438), amended by S.R. [2015 No. 196](https://www.legislation.gov.uk/ukcm/2015/196) and S.R. [2019 No. 811](https://www.legislation.gov.uk/ukcm/2019/811).
 
-[^key-346d59994b15d41bfac7db9d25726373]: Commencement: Reg. 22 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-346d59994b15d41bfac7db9d25726373]: Commencement: Reg. 22 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23841031]: Marginal citation: [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454).
 
 [^c23841041]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
-[^key-523f0658e6ede6cf96258302ff16f53c]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-523f0658e6ede6cf96258302ff16f53c]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-b6672796e9648f727de7f1049fd69c7d]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-b6672796e9648f727de7f1049fd69c7d]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-f87029024f985e0842eec0e770d49271]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-f87029024f985e0842eec0e770d49271]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-755106a0d22c8a0d38f77c24b0db1652]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-755106a0d22c8a0d38f77c24b0db1652]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-da7334eb88b91fe534d650a56060f36d]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-da7334eb88b91fe534d650a56060f36d]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-d02f22be90a3dd8e132fb09730ad216a]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-d02f22be90a3dd8e132fb09730ad216a]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-aa932d355f53f9a7489fb2fc7b98b7c0]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-aa932d355f53f9a7489fb2fc7b98b7c0]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-a42dec1cd3068d0390758757b624ac40]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-a42dec1cd3068d0390758757b624ac40]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-e966abd5a97b51335cbc27a16bca87ff]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-e966abd5a97b51335cbc27a16bca87ff]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-d4610cf32a614f2569a660602f3627bf]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-d4610cf32a614f2569a660602f3627bf]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-b09e00fcb4e7f8e17f675cf3e5bf3dea]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-b09e00fcb4e7f8e17f675cf3e5bf3dea]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-6d7aaa67cb8cedc5c47fb1dc30a787bc]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-6d7aaa67cb8cedc5c47fb1dc30a787bc]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-7cfea486d3c80e151f0554c1259e17e0]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-7cfea486d3c80e151f0554c1259e17e0]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
 [^c23841051]: Marginal citation: Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
 
-[^key-6a7dc5f48810fcec7b23f817b4d1dd2f]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-6a7dc5f48810fcec7b23f817b4d1dd2f]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-473c4d8536d306492c00003168cfeec0]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-473c4d8536d306492c00003168cfeec0]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)

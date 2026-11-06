@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.14. Video recordings[^key-a024993e5bf55e134167ded5e0dfd8f2]
+## 4.14. Video recordings[^c-a024993e5bf55e134167ded5e0dfd8f2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a024993e5bf55e134167ded5e0dfd8f2]: Commencement: [Rule 4.14](https://www.legislation.gov.uk/ssi/2017/103/rule/4.14) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-a024993e5bf55e134167ded5e0dfd8f2]: Commencement: [Rule 4.14](https://www.legislation.gov.uk/ssi/2017/103/rule/4.14) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

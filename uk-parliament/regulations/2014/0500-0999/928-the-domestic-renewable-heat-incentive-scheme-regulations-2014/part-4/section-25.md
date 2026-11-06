@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Authorisation[^key-dcd47402365eff13df9daec162b01a89]
+## 25. Authorisation[^c-dcd47402365eff13df9daec162b01a89]
 
 *Extent: E+W+S*
 
 (1) Where paragraph (2) applies, the Authority must—
 
 - (a) give authorisation for the metering arrangement; and
-- (b) notify the applicant , and where there is an assignment the NRI,[^key-640cf5137d444adc6057a7bef397e21b] that the authorisation application has been successful.
+- (b) notify the applicant , and where there is an assignment the NRI,[^c-640cf5137d444adc6057a7bef397e21b] that the authorisation application has been successful.
 
 (2) This paragraph applies if the Authority is satisfied that—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcd47402365eff13df9daec162b01a89]: Commencement: Reg. 25 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-dcd47402365eff13df9daec162b01a89]: Commencement: Reg. 25 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-640cf5137d444adc6057a7bef397e21b]: Textual amendment: Words in [reg. 25(1)(b)](https://www.legislation.gov.uk/uksi/2014/928/regulation/25/1/b) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/610/regulation/11)
+[^c-640cf5137d444adc6057a7bef397e21b]: Textual amendment: Words in [reg. 25(1)(b)](https://www.legislation.gov.uk/uksi/2014/928/regulation/25/1/b) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/610/regulation/11)

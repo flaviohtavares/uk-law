@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2003 (revoked)[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2003 (revoked)[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 Made
 
@@ -43,98 +43,98 @@ Coming into force
 
 11th June 2003
 
-[^key-f94b12aecb1f1305dbcb59aaae7dd88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f94b12aecb1f1305dbcb59aaae7dd88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, extent and extension of definitions[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 1. Title, commencement, extent and extension of definitions[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 2. Interpretation[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Cleansing and disinfection in relation to the transport of hoofed animals and poultry[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 3. Cleansing and disinfection in relation to the transport of hoofed animals and poultry[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Cleansing and disinfection in relation to the transport of other mammals and birds, and hoofed animals and poultry in certain circumstances[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 4. Cleansing and disinfection in relation to the transport of other mammals and birds, and hoofed animals and poultry in certain circumstances[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Drivers' cabs[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 5. Drivers' cabs[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Disposal of material after cleansing[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 6. Disposal of material after cleansing[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of inspectors, etc.[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 7. Powers of inspectors, etc.[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 8. Enforcement[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations and amendments[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## 9. Revocations and amendments[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f94b12aecb1f1305dbcb59aaae7dd88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f94b12aecb1f1305dbcb59aaae7dd88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — CIRCUMSTANCES IN WHICH ARTICLE 4 APPLIES TO ANIMALS SPECIFIED INARTICLE 3[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## SCHEDULE 1 — CIRCUMSTANCES IN WHICH ARTICLE 4 APPLIES TO ANIMALS SPECIFIED INARTICLE 3[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 Articles 3(2) and 4(1)
 
-### 1. Journey made within a single farming enterprise[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 1. Journey made within a single farming enterprise[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Transport of certain horses[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 2. Transport of certain horses[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Journeys between the same two points[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 3. Journeys between the same two points[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Journeys to and from livestock shows not in the course of a single day[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 4. Journeys to and from livestock shows not in the course of a single day[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Temporary unloading[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 5. Temporary unloading[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CLEANSING AND DISINFECTION OF MEANS OF TRANSPORT[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+## SCHEDULE 2 — CLEANSING AND DISINFECTION OF MEANS OF TRANSPORT[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 Articles 3(3), (4) and (5), 4(4), and 7(3) and (4)
 
-### 1. Level of cleansing and disinfection[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 1. Level of cleansing and disinfection[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Parts of the means of transport required to be cleansed[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 2. Parts of the means of transport required to be cleansed[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Method of cleansing[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 3. Method of cleansing[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Method of disinfection[^key-f94b12aecb1f1305dbcb59aaae7dd88e]
+### 4. Method of disinfection[^c-f94b12aecb1f1305dbcb59aaae7dd88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f94b12aecb1f1305dbcb59aaae7dd88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f94b12aecb1f1305dbcb59aaae7dd88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f94b12aecb1f1305dbcb59aaae7dd88e]: Textual amendment: Order revoked (1.8.2003) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) Order 2003 (S.I. 2003/1724)](https://www.legislation.gov.uk/uksi/2003/1724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1724/article/1/1), [11](https://www.legislation.gov.uk/uksi/2003/1724/article/11)
+[^c-f94b12aecb1f1305dbcb59aaae7dd88e]: Textual amendment: Order revoked (1.8.2003) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) Order 2003 (S.I. 2003/1724)](https://www.legislation.gov.uk/uksi/2003/1724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1724/article/1/1), [11](https://www.legislation.gov.uk/uksi/2003/1724/article/11)

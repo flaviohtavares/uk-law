@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Restriction on exercise of maritime enforcement powers[^c22719211][^key-3ada4560d69da0aa477ab549ad719035]
+## 85. Restriction on exercise of maritime enforcement powers[^c22719211][^c-3ada4560d69da0aa477ab549ad719035]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c22719211]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2017/3/section/85) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3ada4560d69da0aa477ab549ad719035]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2017/3/section/85) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-3ada4560d69da0aa477ab549ad719035]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2017/3/section/85) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 45. Land granted under Gifts for Churches Acts etc.[^key-a81acd45990484ddf8adfae9865ef826]
+## 45. Land granted under Gifts for Churches Acts etc.[^c-a81acd45990484ddf8adfae9865ef826]
 
 *Extent: E*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a81acd45990484ddf8adfae9865ef826]: Commencement: [S. 45](https://www.legislation.gov.uk/ukcm/2018/8/section/45) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-a81acd45990484ddf8adfae9865ef826]: Commencement: [S. 45](https://www.legislation.gov.uk/ukcm/2018/8/section/45) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

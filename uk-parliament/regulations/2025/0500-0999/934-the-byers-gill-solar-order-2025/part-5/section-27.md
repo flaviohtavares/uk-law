@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power to override easements and other rights[^key-6bca09d56873b3301fb0ac3fcb573538]
+## 27. Power to override easements and other rights[^c-6bca09d56873b3301fb0ac3fcb573538]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bca09d56873b3301fb0ac3fcb573538]: Commencement: Art. 27 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-6bca09d56873b3301fb0ac3fcb573538]: Commencement: Art. 27 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

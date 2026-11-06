@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Retention of proxies[^key-9d651b955dcd329f958bbcc144286a91]
+## 127. Retention of proxies[^c-9d651b955dcd329f958bbcc144286a91]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d651b955dcd329f958bbcc144286a91]: Commencement: [Rule 127](https://www.legislation.gov.uk/uksi/2011/1301/rule/127) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9d651b955dcd329f958bbcc144286a91]: Commencement: [Rule 127](https://www.legislation.gov.uk/uksi/2011/1301/rule/127) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

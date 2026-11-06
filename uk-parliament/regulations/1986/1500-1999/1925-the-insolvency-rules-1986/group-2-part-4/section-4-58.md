@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.58. Attendance at meetings of company's personnel[^key-f53ee184af54ea6a0aa567396602542c]
+## 4.58. Attendance at meetings of company's personnel[^c-f53ee184af54ea6a0aa567396602542c]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f53ee184af54ea6a0aa567396602542c]: Commencement: [Rule 4.58](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.58) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f53ee184af54ea6a0aa567396602542c]: Commencement: [Rule 4.58](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.58) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

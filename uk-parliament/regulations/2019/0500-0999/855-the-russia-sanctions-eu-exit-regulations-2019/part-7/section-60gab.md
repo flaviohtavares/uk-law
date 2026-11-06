@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60GAB. Trade: exception relating to ancillary services relating to acquisition when iron and steel products are in third countries[^key-83b5dde35382d4e5c07335a3d411aab0][^key-eed06886f28fa3411e905cff980365c4]
+## 60GAB. Trade: exception relating to ancillary services relating to acquisition when iron and steel products are in third countries[^c-83b5dde35382d4e5c07335a3d411aab0][^c-eed06886f28fa3411e905cff980365c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83b5dde35382d4e5c07335a3d411aab0]: Textual amendment: Regs. 60GAA, 60GAB inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2023/1364/regulation/13)
+[^c-83b5dde35382d4e5c07335a3d411aab0]: Textual amendment: Regs. 60GAA, 60GAB inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2023/1364/regulation/13)
 
-[^key-eed06886f28fa3411e905cff980365c4]: Textual amendment: Regs. 60GA, 60GB inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/440/regulation/11)
+[^c-eed06886f28fa3411e905cff980365c4]: Textual amendment: Regs. 60GA, 60GB inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/440/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — LAND NOT TO BE ACQUIRED COMPULSORILY[^key-d5bb957b6575d97589446d4c357f9cab]
+## SCHEDULE 6 — LAND NOT TO BE ACQUIRED COMPULSORILY[^c-d5bb957b6575d97589446d4c357f9cab]
 
 *Extent: E+W*
 
@@ -39,10 +39,10 @@ Article 29
 </tbody>
 </table>
 
-[^key-7bffe2ca1e3f03c8924d3d7503ca0c34]
+[^c-7bffe2ca1e3f03c8924d3d7503ca0c34]
 
 ## Annotations
 
-[^key-d5bb957b6575d97589446d4c357f9cab]: Commencement: Sch. 6 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-d5bb957b6575d97589446d4c357f9cab]: Commencement: Sch. 6 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-7bffe2ca1e3f03c8924d3d7503ca0c34]: Textual amendment: Word in Sch. 6 omitted (4.7.2011) by [The Nottingham Express Transit System (Amendment) Order 2011 (S.I. 2011/1491)](https://www.legislation.gov.uk/uksi/2011/1491), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1491/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1491/article/2/2)
+[^c-7bffe2ca1e3f03c8924d3d7503ca0c34]: Textual amendment: Word in Sch. 6 omitted (4.7.2011) by [The Nottingham Express Transit System (Amendment) Order 2011 (S.I. 2011/1491)](https://www.legislation.gov.uk/uksi/2011/1491), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1491/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1491/article/2/2)

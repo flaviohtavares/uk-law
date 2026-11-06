@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Jobholder's right to opt in[^c19537191][^key-5fd4650c9811b697bb05dcd5a2a7166e]
+## 7. Jobholder's right to opt in[^c19537191][^c-5fd4650c9811b697bb05dcd5a2a7166e]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) arrangements are required to be made under section 3 or 5 in respect of the jobholder, [^c21671571]. . .
 - (b) [^c21671571]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^c22576561][^c21679291][^key-90a43fdbcabea8426be372ddde138d0e] The jobholder may by notice require the employer to arrange for the jobholder to become an active member of an automatic enrolment scheme.
+(3)[^c22576561][^c21679291][^c-90a43fdbcabea8426be372ddde138d0e] The jobholder may by notice require the employer to arrange for the jobholder to become an active member of an automatic enrolment scheme.
 
 (4) The Secretary of State may by regulations make provision—
 
@@ -55,7 +55,7 @@ summary: ''
 
 [^c19537191]: Commencement: S. 7 wholly in force at 30.6.2012; s. 7 in force for certain purposes at Royal Assent see s. 149(2)(k); s. 7 in force so far as not already in force at 30.6.2012 by [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2012/1682/article/2/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1682/schedule/1)
 
-[^key-5fd4650c9811b697bb05dcd5a2a7166e]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2008/30/section/7) excluded by S.I. 2010/772, reg. 5E (as inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5))
+[^c-5fd4650c9811b697bb05dcd5a2a7166e]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2008/30/section/7) excluded by S.I. 2010/772, reg. 5E (as inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5))
 
 [^c21671571]: Textual amendment: S. 7(2)(b) and preceding word omitted (3.11.2011 for specified purposes otherwise 30.6.2012) by virtue of [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2011/19/section/6/5), [38(1)(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1/4); [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/b)
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^c21679291]: Modification: S. 7(3) excluded (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 (S.I. 2010/772)](https://www.legislation.gov.uk/uksi/2010/772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/1/1) (as amended by [S.I. 2012/1257](https://www.legislation.gov.uk/uksi/2012/1257), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/3/b)) and 5A (as inserted by [S.I. 2012/1477](https://www.legislation.gov.uk/uksi/2012/1477), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1477/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1477/regulation/2))
 
-[^key-90a43fdbcabea8426be372ddde138d0e]: Modification: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/7/3) modified by S.I. 2010/772 reg. 5B (as inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5))
+[^c-90a43fdbcabea8426be372ddde138d0e]: Modification: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/7/3) modified by S.I. 2010/772 reg. 5B (as inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5))

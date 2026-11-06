@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41K. Code of practice[^key-016d500f407927bfb33c704635923b84]
+## 41K. Code of practice[^c-016d500f407927bfb33c704635923b84]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-016d500f407927bfb33c704635923b84]: Textual amendment: [Art. 41K](https://www.legislation.gov.uk/nisi/1996/3159/article/41K) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(1)](https://www.legislation.gov.uk/nia/2021/7/section/41/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-016d500f407927bfb33c704635923b84]: Textual amendment: [Art. 41K](https://www.legislation.gov.uk/nisi/1996/3159/article/41K) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(1)](https://www.legislation.gov.uk/nia/2021/7/section/41/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

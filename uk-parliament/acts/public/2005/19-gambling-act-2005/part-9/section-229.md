@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Availability of notice[^key-10b7d0adf0fffda52bcffbb15053db3a]
+## 229. Availability of notice[^c-10b7d0adf0fffda52bcffbb15053db3a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b7d0adf0fffda52bcffbb15053db3a]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2005/19/section/229) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-10b7d0adf0fffda52bcffbb15053db3a]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2005/19/section/229) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

@@ -33,22 +33,22 @@ of 29 September 2015
 
 fixing the representative prices and additional import duties applicable to molasses in the sugar sector from 1 October 2015 (revoked)
 
-[^key-3326f9fc148f432ae12d5ca0f22cc466]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3326f9fc148f432ae12d5ca0f22cc466]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-3326f9fc148f432ae12d5ca0f22cc466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3326f9fc148f432ae12d5ca0f22cc466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3326f9fc148f432ae12d5ca0f22cc466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3326f9fc148f432ae12d5ca0f22cc466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3326f9fc148f432ae12d5ca0f22cc466]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3326f9fc148f432ae12d5ca0f22cc466]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Representative prices and additional import duties applicable to molasses in the sugar sector from 1 October 2015[^key-3326f9fc148f432ae12d5ca0f22cc466]
+## ANNEX — Representative prices and additional import duties applicable to molasses in the sugar sector from 1 October 2015[^c-3326f9fc148f432ae12d5ca0f22cc466]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3326f9fc148f432ae12d5ca0f22cc466]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-3326f9fc148f432ae12d5ca0f22cc466]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

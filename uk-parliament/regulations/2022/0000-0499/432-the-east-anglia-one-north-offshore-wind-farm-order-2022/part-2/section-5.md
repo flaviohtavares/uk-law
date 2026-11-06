@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Benefit of the Order[^key-bd225675dd5a0bbb86f783d978282ea3]
+## 5. Benefit of the Order[^c-bd225675dd5a0bbb86f783d978282ea3]
 
 *Extent: E+W+S*
 
@@ -38,11 +38,11 @@ except where paragraph (8) applies, in which case no consent of the Secretary of
 
 (4) The Secretary of State must consult the MMO before giving consent to the transfer or grant to another person of any or all of the benefit of the provisions of any of the deemed marine licences.
 
-(5) Where an agreement has been made in accordance with paragraphs (2) or (3)[^key-444621c94b1847140d4a555a8e08d927] references in this Order to the undertaker, except in paragraph (6), (7) or (9), include references to the transferee or lessee.
+(5) Where an agreement has been made in accordance with paragraphs (2) or (3)[^c-444621c94b1847140d4a555a8e08d927] references in this Order to the undertaker, except in paragraph (6), (7) or (9), include references to the transferee or lessee.
 
-(6) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under under paragraph (2)[^key-4c167f175d61e5a9f3dac109da994a8c] are subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
+(6) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under under paragraph (2)[^c-4c167f175d61e5a9f3dac109da994a8c] are subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
 
-(7) Where an agreement has been made in accordance with paragraph (2) or (3)[^key-8eb75431a35ff5e7c4266d2ae45f1a6e]—
+(7) Where an agreement has been made in accordance with paragraph (2) or (3)[^c-8eb75431a35ff5e7c4266d2ae45f1a6e]—
 
 - (a) the benefit (“the transferred benefit”) includes any rights that are conferred, and any obligations that are imposed by virtue of the provisions to which the benefit relates;
 - (b) the transferred benefit resides exclusively with the transferee or, as the case may be, the lessee and the transferred benefit is not enforceable against the undertaker save in the case of a deemed marine licence transferred or granted in respect of any breach of an obligation by the undertaker which occurs prior to such transfer or grant or which occurs as a result of any activity carried out by the undertaker on behalf of the transferee.
@@ -84,10 +84,10 @@ except where paragraph (8) applies, in which case no consent of the Secretary of
 
 ## Annotations
 
-[^key-bd225675dd5a0bbb86f783d978282ea3]: Commencement: Art. 5 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-bd225675dd5a0bbb86f783d978282ea3]: Commencement: Art. 5 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-444621c94b1847140d4a555a8e08d927]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2022/432/article/5/5) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-444621c94b1847140d4a555a8e08d927]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2022/432/article/5/5) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-4c167f175d61e5a9f3dac109da994a8c]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/uksi/2022/432/article/5/6) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-4c167f175d61e5a9f3dac109da994a8c]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/uksi/2022/432/article/5/6) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-8eb75431a35ff5e7c4266d2ae45f1a6e]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/uksi/2022/432/article/5/7) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-8eb75431a35ff5e7c4266d2ae45f1a6e]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/uksi/2022/432/article/5/7) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Aircraft mass schedule[^key-b0d762e499b77cc25a5f11645b6fb2fc]
+## 30. Aircraft mass schedule[^c-b0d762e499b77cc25a5f11645b6fb2fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0d762e499b77cc25a5f11645b6fb2fc]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2015/870/article/30) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-b0d762e499b77cc25a5f11645b6fb2fc]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2015/870/article/30) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

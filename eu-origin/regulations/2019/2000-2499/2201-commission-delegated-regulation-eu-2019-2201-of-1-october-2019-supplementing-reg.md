@@ -33,96 +33,96 @@ of 1 October 2019
 
 supplementing Regulation (EU) 2019/1241 of the European Parliament and of the Council with detailed rules for the implementation of real-time closures for Northern prawn fisheries in the Skagerrak (revoked)
 
-[^key-b9b36115274942c538dd7d26e7ac05db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9b36115274942c538dd7d26e7ac05db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 1. Subject matter[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 2. Definitions[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Catch trigger level[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 3. Catch trigger level[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Inspections[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 4. Inspections[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Trigger level notifications[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 5. Trigger level notifications[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Closure of fisheries[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 6. Closure of fisheries[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Geographical extent of the closed area[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 7. Geographical extent of the closed area[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Duration of the real time closure[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 8. Duration of the real time closure[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Neighbouring coastal states[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 9. Neighbouring coastal states[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Information[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 10. Information[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Demersal trawlers with Nordmøre grids[^key-b9b36115274942c538dd7d26e7ac05db]
+## Article 11. Demersal trawlers with Nordmøre grids[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-b9b36115274942c538dd7d26e7ac05db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-b9b36115274942c538dd7d26e7ac05db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b36115274942c538dd7d26e7ac05db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9b36115274942c538dd7d26e7ac05db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — SAMPLING METHODOLOGY[^key-b9b36115274942c538dd7d26e7ac05db]
+## ANNEX I — SAMPLING METHODOLOGY[^c-b9b36115274942c538dd7d26e7ac05db]
 
-[^key-b9b36115274942c538dd7d26e7ac05db]
+[^c-b9b36115274942c538dd7d26e7ac05db]
 
 Samples shall be taken and measured in accordance with following provisions.
 
-[^key-b9b36115274942c538dd7d26e7ac05db]1.
+[^c-b9b36115274942c538dd7d26e7ac05db]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b36115274942c538dd7d26e7ac05db]2.
+[^c-b9b36115274942c538dd7d26e7ac05db]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b36115274942c538dd7d26e7ac05db]3.
+[^c-b9b36115274942c538dd7d26e7ac05db]3.
 
 A sample shall be taken in accordance with following procedure:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b36115274942c538dd7d26e7ac05db]4.
+[^c-b9b36115274942c538dd7d26e7ac05db]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b36115274942c538dd7d26e7ac05db]5.
+[^c-b9b36115274942c538dd7d26e7ac05db]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-b9b36115274942c538dd7d26e7ac05db]
+## ANNEX II[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — SELECTIVE GRID IN THE FISHERY FOR PANDALUS TO BE ALLOWED IN THE RTC[^key-b9b36115274942c538dd7d26e7ac05db]
+## ANNEX III — SELECTIVE GRID IN THE FISHERY FOR PANDALUS TO BE ALLOWED IN THE RTC[^c-b9b36115274942c538dd7d26e7ac05db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9b36115274942c538dd7d26e7ac05db]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)
+[^c-b9b36115274942c538dd7d26e7ac05db]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)

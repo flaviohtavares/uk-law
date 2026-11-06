@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Remote attendance at meetings of creditors’ committee[^key-50a487b6e50f3030fb5d314ee8bd3b0f]
+## 79. Remote attendance at meetings of creditors’ committee[^c-50a487b6e50f3030fb5d314ee8bd3b0f]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50a487b6e50f3030fb5d314ee8bd3b0f]: Commencement: [Rule 79](https://www.legislation.gov.uk/nisr/2026/11/rule/79) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-50a487b6e50f3030fb5d314ee8bd3b0f]: Commencement: [Rule 79](https://www.legislation.gov.uk/nisr/2026/11/rule/79) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

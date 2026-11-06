@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Additional power to exempt foreign vehicles[^key-40095698a39c08fb911841b4d899387f]
+## 5A. Additional power to exempt foreign vehicles[^c-40095698a39c08fb911841b4d899387f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40095698a39c08fb911841b4d899387f]: Textual amendment: S. 5A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 27](https://www.legislation.gov.uk/ukpga/2024/3/section/27)
+[^c-40095698a39c08fb911841b4d899387f]: Textual amendment: S. 5A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 27](https://www.legislation.gov.uk/ukpga/2024/3/section/27)

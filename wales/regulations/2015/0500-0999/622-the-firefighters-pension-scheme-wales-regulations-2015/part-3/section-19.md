@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Interpretation of Chapter[^key-96c936bb88979752d9550045a3e96e4a]
+## 19. Interpretation of Chapter[^c-96c936bb88979752d9550045a3e96e4a]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-96c936bb88979752d9550045a3e96e4a]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-96c936bb88979752d9550045a3e96e4a]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00048]: Footnote: [S.I. 2010/772](https://www.legislation.gov.uk/uksi/2010/772). Regulation 12 was amended by [S.I. 2012/215](https://www.legislation.gov.uk/uksi/2012/215).

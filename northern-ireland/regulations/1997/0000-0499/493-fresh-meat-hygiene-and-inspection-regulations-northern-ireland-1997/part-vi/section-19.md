@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Duties of occupier[^key-9503e6fc4d5b7e3a88cb41bce004cee9]
+## 19. Duties of occupier[^c-9503e6fc4d5b7e3a88cb41bce004cee9]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9503e6fc4d5b7e3a88cb41bce004cee9]: Commencement: Reg. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-9503e6fc4d5b7e3a88cb41bce004cee9]: Commencement: Reg. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

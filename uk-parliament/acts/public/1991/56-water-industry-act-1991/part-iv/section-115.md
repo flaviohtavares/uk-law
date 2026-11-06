@@ -38,7 +38,7 @@ and a sewerage undertaker shall not unreasonably refuse to consent to the making
 
 (5) Any question arising under this section as to whether or not any authority or undertaker is acting unreasonably shall be referred to the Secretary of State, whose decision shall be final.
 
-(5A)[^key-1f91c50c9a83c50a55ff08d8952f8e6e] A sewerage undertaker must accept any use by a highway authority which is in accordance with a drainage system approved under Schedule 3 to the Flood and Water Management Act 2010.
+(5A)[^c-1f91c50c9a83c50a55ff08d8952f8e6e] A sewerage undertaker must accept any use by a highway authority which is in accordance with a drainage system approved under Schedule 3 to the Flood and Water Management Act 2010.
 
 (6) The powers by virtue of paragraph (a) of subsection (1) above of a relevant authority and a sewerage undertaker to enter into an agreement shall be exercisable by two relevant authorities as they would be exercisable if one of them were a sewerage undertaker.
 
@@ -52,7 +52,7 @@ and a sewerage undertaker shall not unreasonably refuse to consent to the making
 
 ## Annotations
 
-[^key-1f91c50c9a83c50a55ff08d8952f8e6e]: Textual amendment: [S. 115(5A)](https://www.legislation.gov.uk/ukpga/1991/56/section/115/5A) inserted (2.5.2018 for W. for specified purposes, 7.1.2019 for W. in so far as not already in force) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 3 para. 16(3)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/3/paragraph/16/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2018/557](https://www.legislation.gov.uk/wsi/2018/557), [arts. 2(b)](https://www.legislation.gov.uk/wsi/2018/557/article/2/b), [3(b)](https://www.legislation.gov.uk/wsi/2018/557/article/3/b)
+[^c-1f91c50c9a83c50a55ff08d8952f8e6e]: Textual amendment: [S. 115(5A)](https://www.legislation.gov.uk/ukpga/1991/56/section/115/5A) inserted (2.5.2018 for W. for specified purposes, 7.1.2019 for W. in so far as not already in force) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 3 para. 16(3)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/3/paragraph/16/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2018/557](https://www.legislation.gov.uk/wsi/2018/557), [arts. 2(b)](https://www.legislation.gov.uk/wsi/2018/557/article/2/b), [3(b)](https://www.legislation.gov.uk/wsi/2018/557/article/3/b)
 
 [^c13219701]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 

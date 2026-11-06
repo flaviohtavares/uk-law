@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Amendment of the Police and Crime Commissioner Elections (Welsh Forms) Order 2021[^key-67cf13947bfe5111e1147ba601fe74e5]
+## 97. Amendment of the Police and Crime Commissioner Elections (Welsh Forms) Order 2021[^c-67cf13947bfe5111e1147ba601fe74e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67cf13947bfe5111e1147ba601fe74e5]: Commencement: Reg. 97 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-67cf13947bfe5111e1147ba601fe74e5]: Commencement: Reg. 97 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00069]: Footnote: [S.I. 2021/291](https://www.legislation.gov.uk/uksi/2021/291).

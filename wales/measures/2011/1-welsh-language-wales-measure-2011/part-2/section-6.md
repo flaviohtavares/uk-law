@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. 5-year reports: supplementary[^key-6b9d37f1b0263d4b7c33931103d0d22b]
+## 6. 5-year reports: supplementary[^c-6b9d37f1b0263d4b7c33931103d0d22b]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b9d37f1b0263d4b7c33931103d0d22b]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/1/section/6) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/969/article/2/c)
+[^c-6b9d37f1b0263d4b7c33931103d0d22b]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/1/section/6) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/969/article/2/c)

@@ -43,7 +43,7 @@ summary: ''
 
 (7) Where at any time—
 
-- (a) the holder of an amusement permit dies or is adjudged bankrupt, or his business becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^key-0ad66ea2425338b7724859ca9ac7bc68]... or a receiver of his property or a committee or guardian is appointed with power to manage the business; or
+- (a) the holder of an amusement permit dies or is adjudged bankrupt, or his business becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^c-0ad66ea2425338b7724859ca9ac7bc68]... or a receiver of his property or a committee or guardian is appointed with power to manage the business; or
 - (b) in the case of a body corporate, a winding-up is commenced or a receiver is appointed as aforesaid;
 
 except for the purposes of the renewal of the amusement permit, the personal representative or, as the case requires, the assignees or trustee in bankruptcy, official assignee, [^M_F_cefd8a67-2d05-4903-c290-9d2c89aed739]... receiver, committee, guardian or liquidator shall be deemed to be the holder of the amusement permit and—
@@ -73,7 +73,7 @@ in which the premises in which the business authorised by the amusement permit i
 
 ## Annotations
 
-[^key-0ad66ea2425338b7724859ca9ac7bc68]: Textual amendment: Words in [art. 114(7)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/114/7/a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-0ad66ea2425338b7724859ca9ac7bc68]: Textual amendment: Words in [art. 114(7)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/114/7/a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^M_F_cefd8a67-2d05-4903-c290-9d2c89aed739]: Textual amendment: Words in art. 114(7) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 

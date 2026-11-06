@@ -22,7 +22,7 @@ summary: ''
 
 Nothing in these Regulations prevents the making available on the market of radio equipment which—
 
-- (a) is in conformity with the requirements of the Radio Equipment and Telecommunications Terminal Equipment Regulations 2000[^key-dc53d8ad8eaa498446b24d1af56eb8cc], and
+- (a) is in conformity with the requirements of the Radio Equipment and Telecommunications Terminal Equipment Regulations 2000[^c-dc53d8ad8eaa498446b24d1af56eb8cc], and
 - (b) is placed on the market on or before the commencement date.
 
 ## 77. Transitional provision[^M_E_2748b57d-a24e-4b23-b302-77f281169985]
@@ -38,7 +38,7 @@ Nothing in these Regulations prevents the making available on the market of radi
 
 [^M_E_ea7d4b28-120f-4274-91ab-d2c84e9ab6f3]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-dc53d8ad8eaa498446b24d1af56eb8cc]: Textual amendment: Words in [reg. 77(a)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77/a) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 43(2)](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/43/2) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc53d8ad8eaa498446b24d1af56eb8cc]: Textual amendment: Words in [reg. 77(a)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77/a) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 43(2)](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/43/2) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_2748b57d-a24e-4b23-b302-77f281169985]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

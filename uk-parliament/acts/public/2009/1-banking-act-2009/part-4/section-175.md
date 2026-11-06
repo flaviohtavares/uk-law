@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Rights in insolvency[^key-dc563e2e80bea5bce8bd956dbeab202b]
+## 175. Rights in insolvency[^c-dc563e2e80bea5bce8bd956dbeab202b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc563e2e80bea5bce8bd956dbeab202b]: Commencement: S. 175 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)
+[^c-dc563e2e80bea5bce8bd956dbeab202b]: Commencement: S. 175 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)

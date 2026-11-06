@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117B. Saving provision – information received before commencement day[^M_I_37b2fff4-7f6b-4585-951c-7ac101c23d18][^key-c78394c552a936a7565b772b6de6257a]
+## 117B. Saving provision – information received before commencement day[^M_I_37b2fff4-7f6b-4585-951c-7ac101c23d18][^c-c78394c552a936a7565b772b6de6257a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^M_I_37b2fff4-7f6b-4585-951c-7ac101c23d18]: Commencement: Reg. 117B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c78394c552a936a7565b772b6de6257a]: Textual amendment: Regs. 117A, 117B inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)
+[^c-c78394c552a936a7565b772b6de6257a]: Textual amendment: Regs. 117A, 117B inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)

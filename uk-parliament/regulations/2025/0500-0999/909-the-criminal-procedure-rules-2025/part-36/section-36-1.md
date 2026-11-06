@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.1. When this Part applies[^key-241bb6127cbd96497b8830607a7fbbd0]
+## 36.1. When this Part applies[^c-241bb6127cbd96497b8830607a7fbbd0]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-241bb6127cbd96497b8830607a7fbbd0]: Commencement: [Rule 36.1](https://www.legislation.gov.uk/uksi/2025/909/rule/36.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-241bb6127cbd96497b8830607a7fbbd0]: Commencement: [Rule 36.1](https://www.legislation.gov.uk/uksi/2025/909/rule/36.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00906]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54). The Act’s title was amended by section 59(5) of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. References by the Scottish Criminal Cases Review Commission[^key-32cbd4f5a9fd960d0843f14092029373]
+## 121. References by the Scottish Criminal Cases Review Commission[^c-32cbd4f5a9fd960d0843f14092029373]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32cbd4f5a9fd960d0843f14092029373]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2014/18/section/121) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-32cbd4f5a9fd960d0843f14092029373]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2014/18/section/121) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-The General Grant (Specified Bodies) Regulations (Northern Ireland) 2007 (revoked)[^key-1aff6b19e337d3608d4101c199f6667b]
+The General Grant (Specified Bodies) Regulations (Northern Ireland) 2007 (revoked)[^c-1aff6b19e337d3608d4101c199f6667b]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 12th March 2007
 
-[^key-1aff6b19e337d3608d4101c199f6667b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aff6b19e337d3608d4101c199f6667b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1aff6b19e337d3608d4101c199f6667b]
+## 1. Citation and commencement[^c-1aff6b19e337d3608d4101c199f6667b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specified bodies[^key-1aff6b19e337d3608d4101c199f6667b]
+## 2. Specified bodies[^c-1aff6b19e337d3608d4101c199f6667b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-1aff6b19e337d3608d4101c199f6667b]
+## 3. Revocation[^c-1aff6b19e337d3608d4101c199f6667b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1aff6b19e337d3608d4101c199f6667b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aff6b19e337d3608d4101c199f6667b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1aff6b19e337d3608d4101c199f6667b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aff6b19e337d3608d4101c199f6667b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1aff6b19e337d3608d4101c199f6667b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/85) revoked (1.4.2012) by [The Local Government (Specified Bodies) Regulations (Northern Ireland) 2012 (S.R. 2012/8)](https://www.legislation.gov.uk/nisr/2012/8), [reg. 3](https://www.legislation.gov.uk/nisr/2012/8/regulation/3)
+[^c-1aff6b19e337d3608d4101c199f6667b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/85) revoked (1.4.2012) by [The Local Government (Specified Bodies) Regulations (Northern Ireland) 2012 (S.R. 2012/8)](https://www.legislation.gov.uk/nisr/2012/8), [reg. 3](https://www.legislation.gov.uk/nisr/2012/8/regulation/3)

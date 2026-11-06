@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4F. Person unable to be registered under other provisions of this Act[^key-916470acf2beb9d58eb41842c93b59b8]
+## 4F. Person unable to be registered under other provisions of this Act[^c-916470acf2beb9d58eb41842c93b59b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) section 1(3),
   - (ii) section 3(2),
   - (iii) section 3(5),
-  - (iiia)[^key-6791c3ff5ed75d42725570bd465da5c5] section 4D,
+  - (iiia)[^c-6791c3ff5ed75d42725570bd465da5c5] section 4D,
   - (iv) paragraph 4 of Schedule 2, or
   - (v) paragraph 5 of Schedule 2,
 
@@ -48,6 +48,6 @@ insofar as they would be required by section 3(5)(c) (as read with section 3(6)(
 
 ## Annotations
 
-[^key-916470acf2beb9d58eb41842c93b59b8]: Textual amendment: Ss. 4E-4J inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)
+[^c-916470acf2beb9d58eb41842c93b59b8]: Textual amendment: Ss. 4E-4J inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)
 
-[^key-6791c3ff5ed75d42725570bd465da5c5]: Textual amendment: S. 4F(1)(b)(iiia) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/7/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/6)
+[^c-6791c3ff5ed75d42725570bd465da5c5]: Textual amendment: S. 4F(1)(b)(iiia) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/7/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/6)

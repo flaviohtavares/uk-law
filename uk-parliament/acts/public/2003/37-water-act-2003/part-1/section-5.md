@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Rights of navigation, harbour and conservancy authorities[^key-4075f7d99177ad73ab801fc5521a3559]
+## 5. Rights of navigation, harbour and conservancy authorities[^c-4075f7d99177ad73ab801fc5521a3559]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ For section 26 of the WRA (rights of navigation, harbour and conservancy authori
 
 ## Annotations
 
-[^key-4075f7d99177ad73ab801fc5521a3559]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2003/37/section/5) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/a)
+[^c-4075f7d99177ad73ab801fc5521a3559]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2003/37/section/5) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/a)

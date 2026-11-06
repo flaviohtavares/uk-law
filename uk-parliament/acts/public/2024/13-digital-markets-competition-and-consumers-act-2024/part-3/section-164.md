@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Undertakings under section 163: enhanced consumer measures[^key-9bed89f16c172a4d1b69e06daa72d21f][^key-7481ab355809d7b21bda27950f6d6a97]
+## 164. Undertakings under section 163: enhanced consumer measures[^c-9bed89f16c172a4d1b69e06daa72d21f][^c-7481ab355809d7b21bda27950f6d6a97]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bed89f16c172a4d1b69e06daa72d21f]: Commencement: S. 164 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9bed89f16c172a4d1b69e06daa72d21f]: Commencement: S. 164 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-7481ab355809d7b21bda27950f6d6a97]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2024/13/section/164) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-7481ab355809d7b21bda27950f6d6a97]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2024/13/section/164) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

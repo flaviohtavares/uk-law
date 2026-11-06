@@ -33,7 +33,7 @@ on the equivalence of the legal and supervisory framework in Australia applicabl
 
 (Text with EEA relevance)
 
-[^key-c5831d7021643d9a45273fb19f6bd71c]
+[^c-c5831d7021643d9a45273fb19f6bd71c]
 
 THE EUROPEAN COMMISSION,
 
@@ -161,7 +161,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** For the purposes of Article 23(1) of Regulation (EU) No 600/2014, the legal and supervisory framework in Australia applicable to financial markets authorised therein and set out in the Annex to this Decision shall be considered—[^key-236693c48f8081f3088ad0f3a1933128]
+**Article 1.** For the purposes of Article 23(1) of Regulation (EU) No 600/2014, the legal and supervisory framework in Australia applicable to financial markets authorised therein and set out in the Annex to this Decision shall be considered—[^c-236693c48f8081f3088ad0f3a1933128]
 
 - (a) to be equivalent to the requirements for UK regulated markets as defined in Regulation (EU) 600/2014, resulting from—
   - (i) Regulation (EU) 596/2014;
@@ -188,7 +188,7 @@ Financial markets:
 
 ## Annotations
 
-[^key-c5831d7021643d9a45273fb19f6bd71c]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-c5831d7021643d9a45273fb19f6bd71c]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 173, 12.6.2014, p. 349](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0349.01.ENG).
 
@@ -198,4 +198,4 @@ Financial markets:
 
 [^f00004]: Footnote: Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC ([OJ L 390, 31.12.2004, p. 38](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.390.01.0038.01.ENG)).
 
-[^key-236693c48f8081f3088ad0f3a1933128]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2017/2318/article/1) substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/3/a) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/29/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-236693c48f8081f3088ad0f3a1933128]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2017/2318/article/1) substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/3/a) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/29/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -80,7 +80,7 @@ After Article 33 of the principal Order there shall be inserted—
 
 (2) In Article 50(1)(a)(iii) of the principal Order (alteration in the valuation list by Commissioner) for the words from “of an aggregate amount” onwards there shall be substituted “under Article 40(4)”.
 
-## 7. Rating of hereditaments occupied for the purposes of water supply or sewerage services[^key-94dc1defb4171cdcc5461b3170b9026b]
+## 7. Rating of hereditaments occupied for the purposes of water supply or sewerage services[^c-94dc1defb4171cdcc5461b3170b9026b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,7 +117,7 @@ After Article 33 of the principal Order there shall be inserted—
 
 .
 
-## 9. Railways[^key-5eb459c99b7c5c148386059836b0d9b4]
+## 9. Railways[^c-5eb459c99b7c5c148386059836b0d9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,7 +202,7 @@ In Schedule 12 to the principal Order (basis of valuation)—
 - (b) in Part III (plant or machinery)—
   - (i) in paragraph 4 for the words from “paragraph 3” onwards there shall be substituted “this Part”;
   - (ii) paragraph 6 shall be omitted;
-- (c)[^key-98318a69e30923f9864efa36cd3ea15b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-98318a69e30923f9864efa36cd3ea15b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Article 13—Repeals*
 
@@ -216,10 +216,10 @@ In Schedule 12 to the principal Order (basis of valuation)—
 
 [^c19922351]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1996/3162/article/3) repealed (1.12.2006) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [41](https://www.legislation.gov.uk/nisi/2006/2954/article/41), [Sch. 3](https://www.legislation.gov.uk/nisi/2006/2954/schedule/3); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2) (with transitional provisions in [S.R. 2006/468](https://www.legislation.gov.uk/nisr/2006/468), [art. 3(1)](https://www.legislation.gov.uk/nisr/2006/468/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/468/schedule))
 
-[^key-94dc1defb4171cdcc5461b3170b9026b]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisi/1996/3162/article/7) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-94dc1defb4171cdcc5461b3170b9026b]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisi/1996/3162/article/7) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
 [^c21991931]: Textual amendment: prosp. rep. by [2004 NI 4](https://www.legislation.gov.uk/2004/ni4)
 
-[^key-5eb459c99b7c5c148386059836b0d9b4]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisi/1996/3162/article/9) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-5eb459c99b7c5c148386059836b0d9b4]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisi/1996/3162/article/9) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
-[^key-98318a69e30923f9864efa36cd3ea15b]: Textual amendment: [Art. 12(c)](https://www.legislation.gov.uk/nisi/1996/3162/article/12/c) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-98318a69e30923f9864efa36cd3ea15b]: Textual amendment: [Art. 12(c)](https://www.legislation.gov.uk/nisi/1996/3162/article/12/c) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)

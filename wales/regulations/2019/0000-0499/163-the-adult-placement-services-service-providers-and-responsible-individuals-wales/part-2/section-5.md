@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Requirements in relation to the responsible individual[^key-77971aa2e94d3c656a57c05941fd51eb]
+## 5. Requirements in relation to the responsible individual[^c-77971aa2e94d3c656a57c05941fd51eb]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77971aa2e94d3c656a57c05941fd51eb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/163/regulation/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-77971aa2e94d3c656a57c05941fd51eb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/163/regulation/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
 
 [^c23552331]: Marginal citation: As defined in section 21(1) of the Act.

@@ -27,9 +27,9 @@ Section 1.
 | *Name of police area* | *Extent* |
 | --- | --- |
 | Avon and Somerset | The county of Somerset and the non-metropolitan districts of Bath and North East Somerset, Bristol, North West Somerset and South Gloucestershire |
-| Bedfordshire | The non-metropolitan districts of Bedford, Central Bedfordshire and Luton[^key-7ca86b347514c53ece5bb619ad40a4e7] |
+| Bedfordshire | The non-metropolitan districts of Bedford, Central Bedfordshire and Luton[^c-7ca86b347514c53ece5bb619ad40a4e7] |
 | Cambridgeshire | The county of Cambridgeshire and the non-metropolitan district of Peterborough[^c16430741] |
-| Cheshire | The non-metropolitan districts of Cheshire East, Cheshire West and Chester, Halton and Warrington[^key-5101985c779432ef2a868d54ace6aa1e] |
+| Cheshire | The non-metropolitan districts of Cheshire East, Cheshire West and Chester, Halton and Warrington[^c-5101985c779432ef2a868d54ace6aa1e] |
 | Cleveland | The non-metropolitan districts of Hartlepool, Middlesbrough, Redcar and Cleveland and Stockton-on-Tees |
 | Cumbria | The county of Cumbria |
 | Derbyshire | The county of Derbyshire and the non-metropolitan district of Derby |
@@ -39,7 +39,7 @@ Section 1.
 | Essex | The county of Essex and the non-metropolitan districts of Southend-on-Sea and Thurrock[^c16430771] |
 | Gloucestershire | The county of Gloucestershire |
 | Greater Manchester | The metropolitan districts of Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside, Trafford and Wigan |
-| Hampshire and Isle of Wight[^key-396ff2dc3753f609cf3a8e1229f0067c] | The counties of Hampshire and Isle of Wight and the non-metropolitan districts of Portsmouth and Southampton |
+| Hampshire and Isle of Wight[^c-396ff2dc3753f609cf3a8e1229f0067c] | The counties of Hampshire and Isle of Wight and the non-metropolitan districts of Portsmouth and Southampton |
 | Hertfordshire | The county of Hertfordshire |
 | Humberside | The non-metropolitan districts of the East Riding of Yorkshire, Kingston upon Hull, North East Lincolnshire and North Lincolnshire |
 | Kent | The county of Kent and the non-metropolitan district of Medway Towns[^c16430781] |
@@ -75,17 +75,17 @@ Section 1.
 
 ## Annotations
 
-[^key-7ca86b347514c53ece5bb619ad40a4e7]: Textual amendment: Words in Sch. 1 substituted (1.4.2009) by [The Local Government (Structural Changes) (Areas and Membership of Public Bodies in Bedfordshire and Cheshire) Order 2009 (S.I. 2009/119)](https://www.legislation.gov.uk/uksi/2009/119), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/119/article/1/1), [3](https://www.legislation.gov.uk/uksi/2009/119/article/3)
+[^c-7ca86b347514c53ece5bb619ad40a4e7]: Textual amendment: Words in Sch. 1 substituted (1.4.2009) by [The Local Government (Structural Changes) (Areas and Membership of Public Bodies in Bedfordshire and Cheshire) Order 2009 (S.I. 2009/119)](https://www.legislation.gov.uk/uksi/2009/119), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/119/article/1/1), [3](https://www.legislation.gov.uk/uksi/2009/119/article/3)
 
 [^c16430741]: Textual amendment: Words in entry in Sch. 1 inserted (1.4.1998) by [S.I. 1997/1846](https://www.legislation.gov.uk/uksi/1997/1846), [art. 3](https://www.legislation.gov.uk/uksi/1997/1846/article/3)
 
-[^key-5101985c779432ef2a868d54ace6aa1e]: Textual amendment: Words in Sch. 1 substituted (1.4.2009) by [The Local Government (Structural Changes) (Areas and Membership of Public Bodies in Bedfordshire and Cheshire) Order 2009 (S.I. 2009/119)](https://www.legislation.gov.uk/uksi/2009/119), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/119/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/119/article/6)
+[^c-5101985c779432ef2a868d54ace6aa1e]: Textual amendment: Words in Sch. 1 substituted (1.4.2009) by [The Local Government (Structural Changes) (Areas and Membership of Public Bodies in Bedfordshire and Cheshire) Order 2009 (S.I. 2009/119)](https://www.legislation.gov.uk/uksi/2009/119), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/119/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/119/article/6)
 
 [^c16430761]: Textual amendment: Words in entry in Sch. 1 inserted (1.4.1998) by [S.I. 1997/1849](https://www.legislation.gov.uk/uksi/1997/1849), [art. 3](https://www.legislation.gov.uk/uksi/1997/1849/article/3)
 
 [^c16430771]: Textual amendment: Words in entry in Sch. 1 inserted (1.4.1998) by [S.I. 1997/1847](https://www.legislation.gov.uk/uksi/1997/1847), [art. 3](https://www.legislation.gov.uk/uksi/1997/1847/article/3)
 
-[^key-396ff2dc3753f609cf3a8e1229f0067c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1996/16/schedule/1) substituted (13.7.2022) by [The Police Act 1996 (Amendment and Consequential Amendments) Regulations 2022 (S.I. 2022/790)](https://www.legislation.gov.uk/uksi/2022/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/790/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/790/regulation/2)
+[^c-396ff2dc3753f609cf3a8e1229f0067c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1996/16/schedule/1) substituted (13.7.2022) by [The Police Act 1996 (Amendment and Consequential Amendments) Regulations 2022 (S.I. 2022/790)](https://www.legislation.gov.uk/uksi/2022/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/790/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/790/regulation/2)
 
 [^c16430781]: Textual amendment: Words in entry in Sch. 1 inserted (1.4.1998) by [S.I. 1997/1857](https://www.legislation.gov.uk/uksi/1997/1857), [art. 3](https://www.legislation.gov.uk/uksi/1997/1857/article/3)
 

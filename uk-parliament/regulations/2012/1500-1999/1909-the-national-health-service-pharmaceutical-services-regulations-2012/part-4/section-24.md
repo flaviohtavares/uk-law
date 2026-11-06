@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Relocations that do not result in significant change to pharmaceutical services provision[^key-81b85aa034d40da87d71a3093c19ff17]
+## 24. Relocations that do not result in significant change to pharmaceutical services provision[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81b85aa034d40da87d71a3093c19ff17]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/11/1/a) (with [Sch. 9](https://www.legislation.gov.uk/uksi/2013/349/schedule/9))
+[^c-81b85aa034d40da87d71a3093c19ff17]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/11/1/a) (with [Sch. 9](https://www.legislation.gov.uk/uksi/2013/349/schedule/9))

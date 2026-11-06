@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 348. Modification of disqualification provisions[^key-19205cb3e8ff8c1db8dd3beeadb13046]
+## 348. Modification of disqualification provisions[^c-19205cb3e8ff8c1db8dd3beeadb13046]
 
 *Extent: E+W+S+N.I.*
 
 (1) In Part 2 of Schedule 2 to the 1990 Act (disqualification from holding licences), paragraphs (a) and (b) of paragraph 1(1) (individuals and bodies from outside the member States) shall cease to have effect.
 
-(2)[^key-f884cec60405c694682e6837ba9ab859] In sub-paragraph (1) of paragraph 2 of that Part (disqualification of religious bodies etc.), for the words before paragraph (a) there shall be substituted—
+(2)[^c-f884cec60405c694682e6837ba9ab859] In sub-paragraph (1) of paragraph 2 of that Part (disqualification of religious bodies etc.), for the words before paragraph (a) there shall be substituted—
 
 > **2.**
 >
@@ -30,7 +30,7 @@ summary: ''
 
 .
 
-(3)[^key-f884cec60405c694682e6837ba9ab859] For sub-paragraphs (2) and (3) of that paragraph there shall be substituted—
+(3)[^c-f884cec60405c694682e6837ba9ab859] For sub-paragraphs (2) and (3) of that paragraph there shall be substituted—
 
 > (1A) A licence falls within this sub-paragraph if it is—
 >
@@ -62,17 +62,17 @@ summary: ''
 > - (ii) by a person falling within paragraph 3 above; or
 > - (iii) by two or more persons taken together each of whom falls within sub-paragraph (i) or (ii) (whether or not they all fall within the same sub-paragraph).
 
-(5)[^key-f884cec60405c694682e6837ba9ab859] The Secretary of State may by order make provision—
+(5)[^c-f884cec60405c694682e6837ba9ab859] The Secretary of State may by order make provision—
 
 - (a) for repealing paragraph 2 of Part 2 of Schedule 2 to the 1990 Act; or
 - (b) for making such other modifications of that paragraph and any enactment referring to it as he thinks fit.
 
-(6)[^key-f884cec60405c694682e6837ba9ab859] Before making an order under subsection (5) (other than one that is confined to giving effect to recommendations made by OFCOM in a report of a review under section 391), the Secretary of State must consult OFCOM.
+(6)[^c-f884cec60405c694682e6837ba9ab859] Before making an order under subsection (5) (other than one that is confined to giving effect to recommendations made by OFCOM in a report of a review under section 391), the Secretary of State must consult OFCOM.
 
-(7)[^key-f884cec60405c694682e6837ba9ab859] No order is to be made containing provision authorised by subsection (5) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
+(7)[^c-f884cec60405c694682e6837ba9ab859] No order is to be made containing provision authorised by subsection (5) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
 
 ## Annotations
 
-[^key-19205cb3e8ff8c1db8dd3beeadb13046]: Commencement: S. 348 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-19205cb3e8ff8c1db8dd3beeadb13046]: Commencement: S. 348 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f884cec60405c694682e6837ba9ab859]: Commencement: S. 348(2) (3) (5)-(7) in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))
+[^c-f884cec60405c694682e6837ba9ab859]: Commencement: S. 348(2) (3) (5)-(7) in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 254. Commencement[^key-4852db206ed1f04d5cac521de93d44f7]
+## 254. Commencement[^c-4852db206ed1f04d5cac521de93d44f7]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4852db206ed1f04d5cac521de93d44f7]: Modification: [S. 254](https://www.legislation.gov.uk/nia/2011/25/section/254): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-4852db206ed1f04d5cac521de93d44f7]: Modification: [S. 254](https://www.legislation.gov.uk/nia/2011/25/section/254): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c22430701]: Subordinate legislation: S. 254(1) power partly exercised: 1.12.2011 appointed for specified provisions by [S.R. 2011/386](https://www.legislation.gov.uk/nisr/2011/386), [art. 2](https://www.legislation.gov.uk/nisr/2011/386/article/2)

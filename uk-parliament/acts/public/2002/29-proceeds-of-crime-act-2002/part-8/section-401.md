@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401. Statements[^key-a67569819b9d5c23ae980fcdf43c4cd0][^key-fabf2f04524202b0929c4ca179a6502f][^key-bcb6de53253750b529e2ae899f9554fc]
+## 401. Statements[^c-a67569819b9d5c23ae980fcdf43c4cd0][^c-fabf2f04524202b0929c4ca179a6502f][^c-bcb6de53253750b529e2ae899f9554fc]
 
 *Extent: S*
 
@@ -37,8 +37,8 @@ by or on behalf of the financial institution in the proceedings arising out of t
 
 ## Annotations
 
-[^key-a67569819b9d5c23ae980fcdf43c4cd0]: Commencement: S. 401 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-a67569819b9d5c23ae980fcdf43c4cd0]: Commencement: S. 401 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-fabf2f04524202b0929c4ca179a6502f]: Modification: S. 401 applied (with modifications) (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2003/425/article/10/3), 20(3)
+[^c-fabf2f04524202b0929c4ca179a6502f]: Modification: S. 401 applied (with modifications) (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2003/425/article/10/3), 20(3)
 
-[^key-bcb6de53253750b529e2ae899f9554fc]: Modification: S. 401 applied (with modifications) (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [20(3)](https://www.legislation.gov.uk/uksi/2003/425/article/20/3)
+[^c-bcb6de53253750b529e2ae899f9554fc]: Modification: S. 401 applied (with modifications) (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [20(3)](https://www.legislation.gov.uk/uksi/2003/425/article/20/3)

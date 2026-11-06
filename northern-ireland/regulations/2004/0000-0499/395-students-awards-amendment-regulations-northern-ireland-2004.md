@@ -43,17 +43,17 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-9d0a9a1740022257962f62c8bd2761ec]
+### 1. Citation, commencement and interpretation[^c-9d0a9a1740022257962f62c8bd2761ec]
 
 These Regulations may be cited as the Students Awards (Amendment) Regulations (Northern Ireland) 2004 and shall come into operation on 1st November 2004 and shall have effect on and from 1st September 2004.
 
-**2.**[^key-bdf4cfafa8e0ced9c441aab7ea5a1e48] In these Regulations, “the principal Regulations” means the Students Awards Regulations (Northern Ireland) 2003[^f00005].
+**2.**[^c-bdf4cfafa8e0ced9c441aab7ea5a1e48] In these Regulations, “the principal Regulations” means the Students Awards Regulations (Northern Ireland) 2003[^f00005].
 
-### 3. Amendment of the principal Regulations[^key-7129715073e70c1de0c67ad66ed31722]
+### 3. Amendment of the principal Regulations[^c-7129715073e70c1de0c67ad66ed31722]
 
 The principal Regulations shall be amended as provided by regulations 4 to 7.
 
-**4.**[^key-934362be23685e452c71d545d2c4b36d] In regulation 2 –
+**4.**[^c-934362be23685e452c71d545d2c4b36d] In regulation 2 –
 
 - (a) for “Swiss Agreement” there shall be substituted “Switzerland Agreement”;
 - (b) after the definition of “Metropolitan Police District” there shall be inserted –
@@ -62,7 +62,7 @@ The principal Regulations shall be amended as provided by regulations 4 to 7.
   > - “new payment” means a payment made under these Regulations as amended by the Students Awards (Amendment) Regulations (Northern Ireland) 2004;
   > - “old payment” means a payment which would have been made under these Regulations if they had not been amended by the Students Awards (Amendment) (Northern Ireland) Regulations 2004.
 
-**5.**[^key-9ab0ea5db79b65914a539ac0b1357c87] In regulation 18 –
+**5.**[^c-9ab0ea5db79b65914a539ac0b1357c87] In regulation 18 –
 
 - (a) for paragraph (3) there shall be substituted –
 
@@ -71,11 +71,11 @@ The principal Regulations shall be amended as provided by regulations 4 to 7.
   ;
 - (b) paragraph (4) shall be omitted.
 
-**6.**[^key-d5f7e30d5e655685a1cc088fb667a7d3] For paragraph (iv) of Schedule 5, there shall be substituted –
+**6.**[^c-d5f7e30d5e655685a1cc088fb667a7d3] For paragraph (iv) of Schedule 5, there shall be substituted –
 
 > - (iv) in the case of a course at the University of Buckingham, four instalments of £676, in the case of a course at the Guildhall School of Music, a first and second instalment of £1,383 and a third instalment of £1,384; and in the case of a course at Heythrop College, a first and second instalment of £682 and a third instalment of £681.
 
-### 7.[^key-2598cc7dffc134e6a19da66b9f37e192]
+### 7.[^c-2598cc7dffc134e6a19da66b9f37e192]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,7 +87,7 @@ A senior officer of the
 
 Department for Employment and Learning
 
-## SCHEDULE[^key-45310013e913c3bde7f62ba46b9c258c]
+## SCHEDULE[^c-45310013e913c3bde7f62ba46b9c258c]
 
 **No longer in force.**
 
@@ -117,20 +117,20 @@ Regulation 6 specifies changes to the rates of fee awards in relation to courses
 
 [^f00004]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 5(b) and Schedule 3 Part II
 
-[^key-9d0a9a1740022257962f62c8bd2761ec]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
+[^c-9d0a9a1740022257962f62c8bd2761ec]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
 
-[^key-bdf4cfafa8e0ced9c441aab7ea5a1e48]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/395/regulation/2) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
+[^c-bdf4cfafa8e0ced9c441aab7ea5a1e48]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/395/regulation/2) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459)
 
-[^key-7129715073e70c1de0c67ad66ed31722]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/395/regulation/3) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
+[^c-7129715073e70c1de0c67ad66ed31722]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/395/regulation/3) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
 
-[^key-934362be23685e452c71d545d2c4b36d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/395/regulation/4) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
+[^c-934362be23685e452c71d545d2c4b36d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/395/regulation/4) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
 
-[^key-9ab0ea5db79b65914a539ac0b1357c87]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/395/regulation/5) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
+[^c-9ab0ea5db79b65914a539ac0b1357c87]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/395/regulation/5) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
 
-[^key-d5f7e30d5e655685a1cc088fb667a7d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/395/regulation/6) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
+[^c-d5f7e30d5e655685a1cc088fb667a7d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/395/regulation/6) in operation at 1.11.2004 with effect in accordance with, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/395/regulation/1)
 
-[^key-2598cc7dffc134e6a19da66b9f37e192]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/395/regulation/7) revoked (with effect in accordance with reg. 1 of the amending Rule) by [Students Awards (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/466)](https://www.legislation.gov.uk/nisr/2005/466), [regs. 1](https://www.legislation.gov.uk/nisr/2005/466/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2005/466/regulation/3/a)
+[^c-2598cc7dffc134e6a19da66b9f37e192]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/395/regulation/7) revoked (with effect in accordance with reg. 1 of the amending Rule) by [Students Awards (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/466)](https://www.legislation.gov.uk/nisr/2005/466), [regs. 1](https://www.legislation.gov.uk/nisr/2005/466/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2005/466/regulation/3/a)
 
-[^key-45310013e913c3bde7f62ba46b9c258c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/395/schedule) revoked (with effect in accordance with reg. 1 of the amending Rule) by [Students Awards (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/466)](https://www.legislation.gov.uk/nisr/2005/466), [regs. 1](https://www.legislation.gov.uk/nisr/2005/466/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2005/466/regulation/3/b)
+[^c-45310013e913c3bde7f62ba46b9c258c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/395/schedule) revoked (with effect in accordance with reg. 1 of the amending Rule) by [Students Awards (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/466)](https://www.legislation.gov.uk/nisr/2005/466), [regs. 1](https://www.legislation.gov.uk/nisr/2005/466/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2005/466/regulation/3/b)

@@ -130,8 +130,8 @@ In Article 4 of the principal Order (Building Regulations Advisory Committee), i
 
 In Article 5 of the principal Order (further provisions as to the making of building regulations, etc.)—
 
-- (a)[^key-45e9bca21b8e832d037a5ed08e7edb6b] in paragraph (1), sub-paragraph (b) ceases to have effect;
-- (b)[^key-9be36f2cad3bc2d96f4f4f246b182a6c] in paragraph (1), in sub-paragraph (c)—
+- (a)[^c-45e9bca21b8e832d037a5ed08e7edb6b] in paragraph (1), sub-paragraph (b) ceases to have effect;
+- (b)[^c-9be36f2cad3bc2d96f4f4f246b182a6c] in paragraph (1), in sub-paragraph (c)—
   - (i) for “a document” substitute “ guidance ”;
   - (ii) for the words from “by or on behalf of the Department or any other person” to the end of that sub-paragraph substitute “ by the Department in accordance with Article 5A; ”;
 - (c) in paragraph (5) for the words from “having regard to” to the end of that paragraph substitute
@@ -145,7 +145,7 @@ In Article 5 of the principal Order (further provisions as to the making of buil
 
   .
 
-## 5. Guidance documents[^key-382d910786f6ac2ef4e1d7f6e91c8f1e]
+## 5. Guidance documents[^c-382d910786f6ac2ef4e1d7f6e91c8f1e]
 
 (1) After Article 5 of the principal Order insert—
 
@@ -176,7 +176,7 @@ In Article 5 of the principal Order (further provisions as to the making of buil
 
 (2) In Article 21 (penalties), in paragraph (1), for “Any person” substitute “ Subject to Article 5A(7), any person ”.
 
-## 6. Type approval[^key-ec1158b1b6c9806153313c8dd500bcf3]
+## 6. Type approval[^c-ec1158b1b6c9806153313c8dd500bcf3]
 
 (1) In Article 8 of the principal Order (power of Department to approve types of building, etc.)—
 
@@ -217,7 +217,7 @@ In Article 5 of the principal Order (further provisions as to the making of buil
 
   .
 
-## 7. Power to require or carry out tests[^key-0d01d2ab890ffe8be4d2e5b50073372d]
+## 7. Power to require or carry out tests[^c-0d01d2ab890ffe8be4d2e5b50073372d]
 
 In Article 12 of the principal Order (power to require or carry out tests for conformity with building regulations)—
 
@@ -228,7 +228,7 @@ In Article 12 of the principal Order (power to require or carry out tests for co
 - (c) in paragraph (4)(a) for “such reasonable tests as may be” substitute “ any prescribed tests which are ”;
 - (d) in paragraph (6)(a) for “any test specified in a requirement” substitute “ any requirement ”.
 
-## 8. Contravention notices[^key-99d7b6651b967a13f050d4e95e229cf7]
+## 8. Contravention notices[^c-99d7b6651b967a13f050d4e95e229cf7]
 
 In Article 18 of the principal Order (contravention notices)—
 
@@ -282,7 +282,7 @@ In Article 21 of the principal Order (penalties) after paragraph (1) insert—
 
 .
 
-## 11. Application of building regulations to the Crown[^key-d0c8c1e8ed089c43246efc00911bee22]
+## 11. Application of building regulations to the Crown[^c-d0c8c1e8ed089c43246efc00911bee22]
 
 In Article 22 of the principal Order (application of building regulations to the Crown)—
 
@@ -299,11 +299,11 @@ In this Act—
 - “**the Department**” means the Department of Finance and Personnel;
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
 
-## 13. Minor amendment[^key-d28a4fec68134d825e6d31ffbecc76cc]
+## 13. Minor amendment[^c-d28a4fec68134d825e6d31ffbecc76cc]
 
 In Article 2 of the principal Order (interpretation), in paragraph (2), The definition of “rack rent” ceases to have effect.
 
-## 14. Repeals[^key-8d5adfc84fb496392a82206602cd1df9]
+## 14. Repeals[^c-8d5adfc84fb496392a82206602cd1df9]
 
 Subject to any transitional or saving provision made under section 15(4), the statutory provisions mentioned in the Schedule are repealed to the extent specified therein.
 
@@ -323,7 +323,7 @@ Subject to any transitional or saving provision made under section 15(4), the st
 
 This Act may be cited as the Building Regulations (Amendment) Act (Northern Ireland) 2009.
 
-## SCHEDULE — REPEALS[^key-d0e44a709d3809a5a13f1b1e7aac1149][^key-5df4286485829c9eca21f19f13e37989][^M_I_8f23a10b-0550-487f-c3e5-d1e9e2e11f0a]
+## SCHEDULE — REPEALS[^c-d0e44a709d3809a5a13f1b1e7aac1149][^c-5df4286485829c9eca21f19f13e37989][^M_I_8f23a10b-0550-487f-c3e5-d1e9e2e11f0a]
 
 Section 14.
 
@@ -335,28 +335,28 @@ Section 14.
 
 [^c21529131]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2009/4/section/4) partly in operation; [s. 4](https://www.legislation.gov.uk/nia/2009/4/section/4) not in operation at Royal Assent see [s. 15](https://www.legislation.gov.uk/nia/2009/4/section/15); [s. 4(c)](https://www.legislation.gov.uk/nia/2009/4/section/4/c) in operation at 31.8.2009 by [S.R. 2009/272](https://www.legislation.gov.uk/nisr/2009/272), [art. 2](https://www.legislation.gov.uk/nisr/2009/272/article/2)
 
-[^key-45e9bca21b8e832d037a5ed08e7edb6b]: Commencement: [S. 4(a)](https://www.legislation.gov.uk/nia/2009/4/section/4/a) in operation at 31.10.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 3](https://www.legislation.gov.uk/nisr/2012/186/article/3)
+[^c-45e9bca21b8e832d037a5ed08e7edb6b]: Commencement: [S. 4(a)](https://www.legislation.gov.uk/nia/2009/4/section/4/a) in operation at 31.10.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 3](https://www.legislation.gov.uk/nisr/2012/186/article/3)
 
-[^key-9be36f2cad3bc2d96f4f4f246b182a6c]: Commencement: [S. 4(b)](https://www.legislation.gov.uk/nia/2009/4/section/4/b) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
+[^c-9be36f2cad3bc2d96f4f4f246b182a6c]: Commencement: [S. 4(b)](https://www.legislation.gov.uk/nia/2009/4/section/4/b) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
 
-[^key-382d910786f6ac2ef4e1d7f6e91c8f1e]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2009/4/section/5) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
+[^c-382d910786f6ac2ef4e1d7f6e91c8f1e]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2009/4/section/5) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
 
-[^key-ec1158b1b6c9806153313c8dd500bcf3]: Commencement: S. 6 in operation at 15.5.2012 by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-ec1158b1b6c9806153313c8dd500bcf3]: Commencement: S. 6 in operation at 15.5.2012 by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-0d01d2ab890ffe8be4d2e5b50073372d]: Commencement: S. 7 in operation at 15.5.2012 by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
+[^c-0d01d2ab890ffe8be4d2e5b50073372d]: Commencement: S. 7 in operation at 15.5.2012 by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
 
-[^key-99d7b6651b967a13f050d4e95e229cf7]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2009/4/section/8) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
+[^c-99d7b6651b967a13f050d4e95e229cf7]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2009/4/section/8) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
 
-[^key-d0c8c1e8ed089c43246efc00911bee22]: Commencement: S. 11 in operation at 31.10.2012 by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3)
+[^c-d0c8c1e8ed089c43246efc00911bee22]: Commencement: S. 11 in operation at 31.10.2012 by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3)
 
-[^key-d28a4fec68134d825e6d31ffbecc76cc]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2009/4/section/13) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
+[^c-d28a4fec68134d825e6d31ffbecc76cc]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2009/4/section/13) in operation at 15.5.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2](https://www.legislation.gov.uk/nisr/2012/186/article/2)
 
-[^key-8d5adfc84fb496392a82206602cd1df9]: Commencement: S. 14 in operation at 31.10.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 3](https://www.legislation.gov.uk/nisr/2012/186/article/3) (The repeals schedule to which this governing section relates comes into operation for s. 6 and s. 13 repeals at the earlier date of 15.5.2012)
+[^c-8d5adfc84fb496392a82206602cd1df9]: Commencement: S. 14 in operation at 31.10.2012 by [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 3](https://www.legislation.gov.uk/nisr/2012/186/article/3) (The repeals schedule to which this governing section relates comes into operation for s. 6 and s. 13 repeals at the earlier date of 15.5.2012)
 
 [^c21529111]: Subordinate legislation: [S. 15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4) power partly exercised: 31.8.2009 appointed for specified provisions by [S.R. 2009/272](https://www.legislation.gov.uk/nisr/2009/272), [art. 2](https://www.legislation.gov.uk/nisr/2009/272/article/2)
 
-[^key-d0e44a709d3809a5a13f1b1e7aac1149]: Commencement: Sch. in operation at 15.5.2012 for specified purposes by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1) and S.R. 2012/187, art. 2
+[^c-d0e44a709d3809a5a13f1b1e7aac1149]: Commencement: Sch. in operation at 15.5.2012 for specified purposes by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [s. 15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1) and S.R. 2012/187, art. 2
 
-[^key-5df4286485829c9eca21f19f13e37989]: Commencement: Sch. in operation at 31.10.2012 for specified purposes by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [art. 15(3)](https://www.legislation.gov.uk/nia/2009/4/article/15/3) and S.R. 2012/187, art. 3
+[^c-5df4286485829c9eca21f19f13e37989]: Commencement: Sch. in operation at 31.10.2012 for specified purposes by [2009 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2009/4), [art. 15(3)](https://www.legislation.gov.uk/nia/2009/4/article/15/3) and S.R. 2012/187, art. 3
 
 [^M_I_8f23a10b-0550-487f-c3e5-d1e9e2e11f0a]: Commencement: Sch. in operation at 31.10.2012 by s. 14 of this Act and [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 3](https://www.legislation.gov.uk/nisr/2012/186/article/3)

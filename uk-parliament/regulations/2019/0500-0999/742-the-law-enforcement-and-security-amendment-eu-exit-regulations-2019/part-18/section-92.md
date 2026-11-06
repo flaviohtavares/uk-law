@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendment of the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) (No. 3) Order 2009[^key-84906b80eed0bd4cd67741ff7889afd8]
+## 92. Amendment of the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) (No. 3) Order 2009[^c-84906b80eed0bd4cd67741ff7889afd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84906b80eed0bd4cd67741ff7889afd8]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-84906b80eed0bd4cd67741ff7889afd8]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691921]: Marginal citation: [S.S.I. 2009/441](https://www.legislation.gov.uk/ssi/2009/441) as amended by [S.I. 2017/730](https://www.legislation.gov.uk/uksi/2017/730).

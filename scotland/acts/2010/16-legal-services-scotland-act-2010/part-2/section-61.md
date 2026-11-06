@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Listing and information[^key-c32edc731e6db07597c17f08b641b2ee]
+## 61. Listing and information[^c-c32edc731e6db07597c17f08b641b2ee]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c32edc731e6db07597c17f08b641b2ee]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2010/16/section/61) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-c32edc731e6db07597c17f08b641b2ee]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2010/16/section/61) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

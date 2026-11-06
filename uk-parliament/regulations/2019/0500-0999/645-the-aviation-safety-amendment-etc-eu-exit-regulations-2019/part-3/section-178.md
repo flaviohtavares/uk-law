@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Amendment of Annex VII to Regulation (EU) No 2018/1139[^key-74dfbd1e6c8b0d937868e9aa5eeb1f18]
+## 178. Amendment of Annex VII to Regulation (EU) No 2018/1139[^c-74dfbd1e6c8b0d937868e9aa5eeb1f18]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Annex VII (essential requirements for aerodromes)—
 
 ## Annotations
 
-[^key-74dfbd1e6c8b0d937868e9aa5eeb1f18]: Commencement: Reg. 178 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-74dfbd1e6c8b0d937868e9aa5eeb1f18]: Commencement: Reg. 178 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

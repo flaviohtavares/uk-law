@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Modification of rent-increase notice by parties[^key-602b0a46e9eef269aa485e87a6ed068e][^key-2bc65588672971aa04a87131ddd25e64]
+## 23. Modification of rent-increase notice by parties[^c-602b0a46e9eef269aa485e87a6ed068e][^c-2bc65588672971aa04a87131ddd25e64]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-602b0a46e9eef269aa485e87a6ed068e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/19/section/23) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-602b0a46e9eef269aa485e87a6ed068e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/19/section/23) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-2bc65588672971aa04a87131ddd25e64]: Modification: [S. 23](https://www.legislation.gov.uk/asp/2016/19/section/23) modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 1 para. 1(1)(7)](https://www.legislation.gov.uk/asp/2022/10/schedule/1/paragraph/1/7) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended: (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
+[^c-2bc65588672971aa04a87131ddd25e64]: Modification: [S. 23](https://www.legislation.gov.uk/asp/2016/19/section/23) modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 1 para. 1(1)(7)](https://www.legislation.gov.uk/asp/2022/10/schedule/1/paragraph/1/7) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended: (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))

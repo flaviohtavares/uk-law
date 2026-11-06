@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14.1. Conditions for disposal by written representations[^key-96d482ce5969b4e7566f79a2a88cbc87]
+## 14.1. Conditions for disposal by written representations[^c-96d482ce5969b4e7566f79a2a88cbc87]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96d482ce5969b4e7566f79a2a88cbc87]: Textual amendment: Rule 14.1 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2019/1184/rule/15) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3))
+[^c-96d482ce5969b4e7566f79a2a88cbc87]: Textual amendment: Rule 14.1 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2019/1184/rule/15) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3))

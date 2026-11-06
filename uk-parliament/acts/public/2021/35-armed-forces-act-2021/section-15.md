@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Driving disqualification[^key-0ee539202eca092583760cdb738cae4a][^key-33df4d42915e8f3b5c43959f97771cd8][^key-d975e3c4c4e11f4dd50ef29fdf33d2ea]
+## 15. Driving disqualification[^c-0ee539202eca092583760cdb738cae4a][^c-33df4d42915e8f3b5c43959f97771cd8][^c-d975e3c4c4e11f4dd50ef29fdf33d2ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -169,8 +169,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0ee539202eca092583760cdb738cae4a]: Commencement: S. 15 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-0ee539202eca092583760cdb738cae4a]: Commencement: S. 15 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-33df4d42915e8f3b5c43959f97771cd8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/35/section/15) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f)
+[^c-33df4d42915e8f3b5c43959f97771cd8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/35/section/15) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f)
 
-[^key-d975e3c4c4e11f4dd50ef29fdf33d2ea]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/35/section/15) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
+[^c-d975e3c4c4e11f4dd50ef29fdf33d2ea]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/35/section/15) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)

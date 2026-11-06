@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Producer responsibility for disposal costs[^key-ad44fcf14cc51fb40567da8196fd550f][^key-5285fa34c213db5a67e64132c530b3db]
+## 51. Producer responsibility for disposal costs[^c-ad44fcf14cc51fb40567da8196fd550f][^c-5285fa34c213db5a67e64132c530b3db]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad44fcf14cc51fb40567da8196fd550f]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/30/section/51) in force at 9.1.2022 for E.W.S., see [s. 147(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/a)
+[^c-ad44fcf14cc51fb40567da8196fd550f]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/30/section/51) in force at 9.1.2022 for E.W.S., see [s. 147(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/a)
 
-[^key-5285fa34c213db5a67e64132c530b3db]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/30/section/51) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/c)
+[^c-5285fa34c213db5a67e64132c530b3db]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/30/section/51) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/c)

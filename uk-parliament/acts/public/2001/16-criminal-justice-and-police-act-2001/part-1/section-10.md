@@ -33,15 +33,15 @@ summary: ''
 
 (5) The court may set aside a fine in the interests of justice.
 
-(6) Subject to any regulations made under subsection (7), if[^key-af5a79d12014562421d29e65070d6b90] the court does set a fine aside it must—
+(6) Subject to any regulations made under subsection (7), if[^c-af5a79d12014562421d29e65070d6b90] the court does set a fine aside it must—
 
 - (a) give such directions for further consideration of the case as it considers appropriate; or
 - (b) direct that no further action is to be taken in respect of the allegation that gave rise to the penalty notice concerned.
 
-(7)[^key-d58083af9a0faed1029857f97358a5df] The Secretary of State may by regulations make provision as to the directions that the court may, or must, give or the orders it may, or must, make if it sets aside a fine relating to a sum registered under section 8 on the basis that section 4(8) applies.
+(7)[^c-d58083af9a0faed1029857f97358a5df] The Secretary of State may by regulations make provision as to the directions that the court may, or must, give or the orders it may, or must, make if it sets aside a fine relating to a sum registered under section 8 on the basis that section 4(8) applies.
 
 ## Annotations
 
-[^key-af5a79d12014562421d29e65070d6b90]: Textual amendment: Words in s. 10(6) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 10(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/10/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-af5a79d12014562421d29e65070d6b90]: Textual amendment: Words in s. 10(6) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 10(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/10/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
 
-[^key-d58083af9a0faed1029857f97358a5df]: Textual amendment: S. 10(7) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 10(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/10/3); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-d58083af9a0faed1029857f97358a5df]: Textual amendment: S. 10(7) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 10(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/10/3); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)

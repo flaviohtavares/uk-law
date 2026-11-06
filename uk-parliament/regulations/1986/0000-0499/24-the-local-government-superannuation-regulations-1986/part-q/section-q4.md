@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Q4. Greater London Council housing staff transfers[^key-50ddd3a1cd9251bd1884ea4472549d77]
+## Q4. Greater London Council housing staff transfers[^c-50ddd3a1cd9251bd1884ea4472549d77]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50ddd3a1cd9251bd1884ea4472549d77]: Commencement: [Reg. Q4](https://www.legislation.gov.uk/uksi/1986/24/regulation/Q4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-50ddd3a1cd9251bd1884ea4472549d77]: Commencement: [Reg. Q4](https://www.legislation.gov.uk/uksi/1986/24/regulation/Q4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00083]: Footnote: [S.I. 1979/1737](https://www.legislation.gov.uk/uksi/1979/1737).

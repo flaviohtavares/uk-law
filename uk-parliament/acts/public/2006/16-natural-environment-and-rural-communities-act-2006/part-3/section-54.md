@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Application of Part 1 of 1981 Act to Crown[^key-9573926dfbff381dcc8cac4b6e88050d]
+## 54. Application of Part 1 of 1981 Act to Crown[^c-9573926dfbff381dcc8cac4b6e88050d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9573926dfbff381dcc8cac4b6e88050d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/16/section/54) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-9573926dfbff381dcc8cac4b6e88050d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/16/section/54) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

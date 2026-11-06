@@ -25,7 +25,7 @@ summary: ''
 - (a) an individual who has reached 18, or
 - (b) if the power relates only to P's property and affairs, either such an individual or a trust corporation.
 
-(2) An individual who is bankrupt or is a person in relation to whom a debt relief order is made[^key-b326df01301b805e49b9ef0d2b7c9bd2] may not be appointed as donee of a lasting power of attorney in relation to P's property and affairs.
+(2) An individual who is bankrupt or is a person in relation to whom a debt relief order is made[^c-b326df01301b805e49b9ef0d2b7c9bd2] may not be appointed as donee of a lasting power of attorney in relation to P's property and affairs.
 
 (3) Subsections (4) to (7) apply in relation to an instrument under which two or more persons are to act as donees of a lasting power of attorney.
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b326df01301b805e49b9ef0d2b7c9bd2]: Textual amendment: Words in s. 10(2) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 53(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/53/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-b326df01301b805e49b9ef0d2b7c9bd2]: Textual amendment: Words in s. 10(2) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 53(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/53/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))

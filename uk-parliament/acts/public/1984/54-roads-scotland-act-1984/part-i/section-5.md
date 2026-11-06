@@ -33,7 +33,7 @@ he may by order direct that the road shall become, or as the case may be shall c
 
 (4) Subject to subsection (7)(i) below, Parts I and III of Schedule 1 to this Act shall have effect in connection with the making of an order under this section, and Schedule 2 to this Act shall have effect in connection with the validity and date of operation of any such order.
 
-(5)[^key-31005696c38da589a0b561cf2712ad98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-31005696c38da589a0b561cf2712ad98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where an order under this section directs that a road shall cease to be a trunk road it may also direct that—
 
@@ -65,6 +65,6 @@ the power to make an order under this section directing that a road proposed to 
 
 [^c1610604]: Marginal citation: 9 & 10 Geo. 6 c. 30.
 
-[^key-31005696c38da589a0b561cf2712ad98]: Textual amendment: S. 5(5) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))
+[^c-31005696c38da589a0b561cf2712ad98]: Textual amendment: S. 5(5) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))
 
 [^c1610606]: Marginal citation: Edw. 8 & 1 Geo. 6 c.5.

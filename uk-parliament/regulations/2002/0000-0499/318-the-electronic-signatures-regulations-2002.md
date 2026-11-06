@@ -31,7 +31,7 @@ summary: ''
 
 ELECTRONIC COMMUNICATIONS
 
-The Electronic Signatures Regulations 2002 (revoked)[^key-1faa3429944cb5271bbcfd15cc874989]
+The Electronic Signatures Regulations 2002 (revoked)[^c-1faa3429944cb5271bbcfd15cc874989]
 
 Made
 
@@ -45,58 +45,58 @@ Coming into force
 
 8th March 2002
 
-[^key-1faa3429944cb5271bbcfd15cc874989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1faa3429944cb5271bbcfd15cc874989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1faa3429944cb5271bbcfd15cc874989]
+## 1. Citation and commencement[^c-1faa3429944cb5271bbcfd15cc874989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1faa3429944cb5271bbcfd15cc874989]
+## 2. Interpretation[^c-1faa3429944cb5271bbcfd15cc874989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supervision of certification-service-providers[^key-1faa3429944cb5271bbcfd15cc874989]
+## 3. Supervision of certification-service-providers[^c-1faa3429944cb5271bbcfd15cc874989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Liability of certification-service-providers[^key-1faa3429944cb5271bbcfd15cc874989]
+## 4. Liability of certification-service-providers[^c-1faa3429944cb5271bbcfd15cc874989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Data Protection[^key-1faa3429944cb5271bbcfd15cc874989]
+## 5. Data Protection[^c-1faa3429944cb5271bbcfd15cc874989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1faa3429944cb5271bbcfd15cc874989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1faa3429944cb5271bbcfd15cc874989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — (Annex I to the Directive)[^key-1faa3429944cb5271bbcfd15cc874989]
+## SCHEDULE 1 — (Annex I to the Directive)[^c-1faa3429944cb5271bbcfd15cc874989]
 
 (Regulation 2)
 
-### REQUIREMENTS FOR QUALIFIED CERTIFICATES[^key-1faa3429944cb5271bbcfd15cc874989]
+### REQUIREMENTS FOR QUALIFIED CERTIFICATES[^c-1faa3429944cb5271bbcfd15cc874989]
 
-[^key-1faa3429944cb5271bbcfd15cc874989]
+[^c-1faa3429944cb5271bbcfd15cc874989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — (Annex II to the Directive)[^key-1faa3429944cb5271bbcfd15cc874989]
+## SCHEDULE 2 — (Annex II to the Directive)[^c-1faa3429944cb5271bbcfd15cc874989]
 
 (Regulation 2)
 
-### REQUIREMENTS FOR CERTIFICATION-SERVICE-PROVIDERS ISSUING QUALIFIED CERTIFICATES[^key-1faa3429944cb5271bbcfd15cc874989]
+### REQUIREMENTS FOR CERTIFICATION-SERVICE-PROVIDERS ISSUING QUALIFIED CERTIFICATES[^c-1faa3429944cb5271bbcfd15cc874989]
 
-[^key-1faa3429944cb5271bbcfd15cc874989]
+[^c-1faa3429944cb5271bbcfd15cc874989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1faa3429944cb5271bbcfd15cc874989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1faa3429944cb5271bbcfd15cc874989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1faa3429944cb5271bbcfd15cc874989]: Textual amendment: Regulations revoked (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [regs. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/696/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/696/regulation/4/2))
+[^c-1faa3429944cb5271bbcfd15cc874989]: Textual amendment: Regulations revoked (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [regs. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/696/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/696/regulation/4/2))

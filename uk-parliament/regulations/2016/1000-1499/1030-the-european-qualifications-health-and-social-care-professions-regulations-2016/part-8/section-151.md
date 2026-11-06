@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Amendment of Schedule 3[^key-5d0fd2cde9ca913fa9681455e20234f0]
+## 151. Amendment of Schedule 3[^c-5d0fd2cde9ca913fa9681455e20234f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d0fd2cde9ca913fa9681455e20234f0]: Commencement: Reg. 151 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-5d0fd2cde9ca913fa9681455e20234f0]: Commencement: Reg. 151 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00103]: Footnote: Schedule 3 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

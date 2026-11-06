@@ -35,7 +35,7 @@ summary: ''
   - (b) such other person as may be determined in accordance with regulations made by the Board;
 - “**member**” means a member of Lloyd’s who is or has been an underwriting member;
 - “**members’ agent**”, in relation to a corporate member, means a person registered as a members’ agent at Lloyd’s who has been appointed by the corporate member to act as its members’ agent in respect of all or any part of its underwriting business;
-- “premium trust fund” means a trust fund into which premiums receivable by members are paid in compliance with a trust deed under[^c14456871] Rule 8.2.19 of the[^key-f30a0fec44a38b8023864f789e784d09][^key-e42c6cab2e0bba55f6140253e457b44f] Prudential Sourcebook for Insurers made by the Prudential Regulation Authority[^key-e0c58e05b22bca9c8b6a76e2b613f33d] under the Financial Services and Markets Act 2000;
+- “premium trust fund” means a trust fund into which premiums receivable by members are paid in compliance with a trust deed under[^c14456871] Rule 8.2.19 of the[^c-f30a0fec44a38b8023864f789e784d09][^c-e42c6cab2e0bba55f6140253e457b44f] Prudential Sourcebook for Insurers made by the Prudential Regulation Authority[^c-e0c58e05b22bca9c8b6a76e2b613f33d] under the Financial Services and Markets Act 2000;
 - “**prescribed**” means prescribed by regulations made by the Board;
 - “**profits**” includes gains;
 - “**regulating trustee**”, in relation to a corporate member, means a person designated as such by the terms of any trust deed by which a premiums trust fund of the corporate member is constituted;
@@ -67,11 +67,11 @@ summary: ''
 
 [^c14456871]: Textual amendment: S. 230(1): Definition of “premium trust fund” substituted (1.12.2001) by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [art. 85](https://www.legislation.gov.uk/uksi/2001/3629/article/85)
 
-[^key-f30a0fec44a38b8023864f789e784d09]: Textual amendment: Words in s. 230 substituted (31.12.2006) by [The Lloyds Sourcebook (Finance Act 1993 and Finance Act 1994) (Amendment) Order 2006 (S.I. 2006/3273)](https://www.legislation.gov.uk/uksi/2006/3273), [arts. 1](https://www.legislation.gov.uk/uksi/2006/3273/article/1), [3](https://www.legislation.gov.uk/uksi/2006/3273/article/3)
+[^c-f30a0fec44a38b8023864f789e784d09]: Textual amendment: Words in s. 230 substituted (31.12.2006) by [The Lloyds Sourcebook (Finance Act 1993 and Finance Act 1994) (Amendment) Order 2006 (S.I. 2006/3273)](https://www.legislation.gov.uk/uksi/2006/3273), [arts. 1](https://www.legislation.gov.uk/uksi/2006/3273/article/1), [3](https://www.legislation.gov.uk/uksi/2006/3273/article/3)
 
-[^key-e42c6cab2e0bba55f6140253e457b44f]: Textual amendment: Words in s. 230(1) substituted (1.7.2005) by [The Lloyds Sourcebook (Amendment of the Finance Act 1993 and the Finance Act 1994) Order 2005 (S.I. 2005/1538)](https://www.legislation.gov.uk/uksi/2005/1538), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1538/article/1), [3](https://www.legislation.gov.uk/uksi/2005/1538/article/3)
+[^c-e42c6cab2e0bba55f6140253e457b44f]: Textual amendment: Words in s. 230(1) substituted (1.7.2005) by [The Lloyds Sourcebook (Amendment of the Finance Act 1993 and the Finance Act 1994) Order 2005 (S.I. 2005/1538)](https://www.legislation.gov.uk/uksi/2005/1538), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1538/article/1), [3](https://www.legislation.gov.uk/uksi/2005/1538/article/3)
 
-[^key-e0c58e05b22bca9c8b6a76e2b613f33d]: Textual amendment: Words in s. 230(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/4)
+[^c-e0c58e05b22bca9c8b6a76e2b613f33d]: Textual amendment: Words in s. 230(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/4)
 
 [^c15996831]: Textual amendment: Words in s. 230(1) inserted (with effect as mentioned in [s. 86(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/86/2) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 86](https://www.legislation.gov.uk/ukpga/2002/23/section/86), [Sch. 32 para. 10](https://www.legislation.gov.uk/ukpga/2002/23/schedule/32/paragraph/10)
 

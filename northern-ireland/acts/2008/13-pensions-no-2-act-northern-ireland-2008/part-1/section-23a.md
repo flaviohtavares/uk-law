@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23A. Alternative quality requirements for UK defined benefits schemes[^key-4fcdebdf26c3779ac559fc2c2591f69c]
+## 23A. Alternative quality requirements for UK defined benefits schemes[^c-4fcdebdf26c3779ac559fc2c2591f69c]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fcdebdf26c3779ac559fc2c2591f69c]: Textual amendment: S. 23A inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 38(2)](https://www.legislation.gov.uk/nia/2015/5/section/38/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/d)
+[^c-4fcdebdf26c3779ac559fc2c2591f69c]: Textual amendment: S. 23A inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 38(2)](https://www.legislation.gov.uk/nia/2015/5/section/38/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/d)

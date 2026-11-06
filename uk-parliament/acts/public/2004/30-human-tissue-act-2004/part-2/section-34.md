@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Information about transplant operations[^key-6f9bf55b3d172af6b8cdcc8802c584e8][^key-285f054d5c36e196ec4e6f87dd74c616]
+## 34. Information about transplant operations[^c-6f9bf55b3d172af6b8cdcc8802c584e8][^c-285f054d5c36e196ec4e6f87dd74c616]
 
 *Extent: E+W+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f9bf55b3d172af6b8cdcc8802c584e8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/30/section/34) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-6f9bf55b3d172af6b8cdcc8802c584e8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/30/section/34) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-285f054d5c36e196ec4e6f87dd74c616]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/30/section/34) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-285f054d5c36e196ec4e6f87dd74c616]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/30/section/34) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendments to Commission Regulation (EU) No 1158/2010 on a common safety method for assessing conformity with the requirements for obtaining railway safety certificates[^key-3256e673655700cd99f31b733c163abc][^key-f750357ba78888bb8df288da47250526]
+## 12. Amendments to Commission Regulation (EU) No 1158/2010 on a common safety method for assessing conformity with the requirements for obtaining railway safety certificates[^c-3256e673655700cd99f31b733c163abc][^c-f750357ba78888bb8df288da47250526]
 
 *Extent: E+W+S*
 
@@ -103,9 +103,9 @@ summary: ''
 
 ## Annotations
 
-[^key-3256e673655700cd99f31b733c163abc]: Commencement: Reg. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3256e673655700cd99f31b733c163abc]: Commencement: Reg. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f750357ba78888bb8df288da47250526]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f750357ba78888bb8df288da47250526]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23831641]: Marginal citation: [S.I. 2013/407](https://www.legislation.gov.uk/uksi/2013/407).
 

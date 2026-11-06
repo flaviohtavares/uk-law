@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Temporary exceptions for individual pupils and children[^key-e2505835a26e05333bfc71cd6f3fccd0][^key-feb7153dcf965ba5aaecc247b2d3a6bf]
+## 42. Temporary exceptions for individual pupils and children[^c-e2505835a26e05333bfc71cd6f3fccd0][^c-feb7153dcf965ba5aaecc247b2d3a6bf]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2505835a26e05333bfc71cd6f3fccd0]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2021/4/section/42) in force at 14.6.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 3(a)](https://www.legislation.gov.uk/wsi/2022/652/article/3/a)
+[^c-e2505835a26e05333bfc71cd6f3fccd0]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2021/4/section/42) in force at 14.6.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 3(a)](https://www.legislation.gov.uk/wsi/2022/652/article/3/a)
 
-[^key-feb7153dcf965ba5aaecc247b2d3a6bf]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2021/4/section/42) in force at 1.9.2022 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(b)](https://www.legislation.gov.uk/wsi/2022/652/article/4/b)
+[^c-feb7153dcf965ba5aaecc247b2d3a6bf]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2021/4/section/42) in force at 1.9.2022 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(b)](https://www.legislation.gov.uk/wsi/2022/652/article/4/b)

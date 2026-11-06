@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Green deal installation apprenticeships[^key-6824516d6eebdd48dd386fb7b5854546]
+## 38. Green deal installation apprenticeships[^c-6824516d6eebdd48dd386fb7b5854546]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6824516d6eebdd48dd386fb7b5854546]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2011/16/section/38) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xiii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xiii)
+[^c-6824516d6eebdd48dd386fb7b5854546]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2011/16/section/38) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xiii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xiii)

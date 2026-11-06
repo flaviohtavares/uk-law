@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Collection and recovery[^key-4116bf65c9a554ea0c75f155ba58f414]
+## 37. Collection and recovery[^c-4116bf65c9a554ea0c75f155ba58f414]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 6 of the 1970 Act (collection and recovery) applies to repayments, interest
 
 ## Annotations
 
-[^key-4116bf65c9a554ea0c75f155ba58f414]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2009/470/regulation/37) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-4116bf65c9a554ea0c75f155ba58f414]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2009/470/regulation/37) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

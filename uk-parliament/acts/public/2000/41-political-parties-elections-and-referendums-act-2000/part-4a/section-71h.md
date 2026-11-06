@@ -29,9 +29,9 @@ summary: ''
 
 (3) In this Part, an authorised participant is a person who is a permissible donor within the meaning of section 54(2).
 
-(3A)[^key-93befc01db9eb920f58d557e89b3db63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-93befc01db9eb920f58d557e89b3db63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-93befc01db9eb920f58d557e89b3db63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-93befc01db9eb920f58d557e89b3db63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Secretary of State may, by order, specify circumstances or any description of circumstances in which a person who is not a permissible donor is to be treated as an authorised participant.
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c20271061]: Modification: S. 71H(2) modified (30.1.2009) by [The European Parliamentary Elections (Loans and Related Transactions and Miscellaneous Provisions) (United Kingdom and Gibraltar) Order 2009 (S.I. 2009/185)](https://www.legislation.gov.uk/uksi/2009/185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/185/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2009/185/article/2/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2009/185/schedule/paragraph/4/a)
 
-[^key-93befc01db9eb920f58d557e89b3db63]: Textual amendment: [S. 71H(3A)](https://www.legislation.gov.uk/ukpga/2000/41/section/71H/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2000/41/section/71H/3B) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-93befc01db9eb920f58d557e89b3db63]: Textual amendment: [S. 71H(3A)](https://www.legislation.gov.uk/ukpga/2000/41/section/71H/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2000/41/section/71H/3B) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -37,7 +37,7 @@ on support for rural development from the European Agricultural Guidance and Gua
 
 **May not be in force at this date. Check the source.**
 
-[^key-1accffdeb07e991174df810ac486a6f2][^key-dedd63e5babdc3cc6cb560afbeedf866][^key-f10fbb7fdfd2a4960909e23c13451610][^key-ebdf7f60327db1b0aaab71a6477cfef8][^key-11ddd8de4e64fd5b7b77268a17d10d41]
+[^c-1accffdeb07e991174df810ac486a6f2][^c-dedd63e5babdc3cc6cb560afbeedf866][^c-f10fbb7fdfd2a4960909e23c13451610][^c-ebdf7f60327db1b0aaab71a6477cfef8][^c-11ddd8de4e64fd5b7b77268a17d10d41]
 
 [^c000012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -297,14 +297,14 @@ on support for rural development from the European Agricultural Guidance and Gua
 
 ## Annotations
 
-[^key-1accffdeb07e991174df810ac486a6f2]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2020/21/section/16), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b/c/6)
+[^c-1accffdeb07e991174df810ac486a6f2]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2020/21/section/16), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b/c/6)
 
-[^key-dedd63e5babdc3cc6cb560afbeedf866]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/7)
+[^c-dedd63e5babdc3cc6cb560afbeedf866]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/7)
 
-[^key-f10fbb7fdfd2a4960909e23c13451610]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/6) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
+[^c-f10fbb7fdfd2a4960909e23c13451610]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/6) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
 
-[^key-ebdf7f60327db1b0aaab71a6477cfef8]: Modification: Regulation (so far as still in force) modified (31.12.2020) by [The Rural Development (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/764)](https://www.legislation.gov.uk/uksi/2019/764), [regs. 1](https://www.legislation.gov.uk/uksi/2019/764/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/764/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebdf7f60327db1b0aaab71a6477cfef8]: Modification: Regulation (so far as still in force) modified (31.12.2020) by [The Rural Development (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/764)](https://www.legislation.gov.uk/uksi/2019/764), [regs. 1](https://www.legislation.gov.uk/uksi/2019/764/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/764/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11ddd8de4e64fd5b7b77268a17d10d41]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 19](https://www.legislation.gov.uk/asc/2023/4/section/19), [56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c) (with [s. 20](https://www.legislation.gov.uk/asc/2023/4/section/20))
+[^c-11ddd8de4e64fd5b7b77268a17d10d41]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 19](https://www.legislation.gov.uk/asc/2023/4/section/19), [56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c) (with [s. 20](https://www.legislation.gov.uk/asc/2023/4/section/20))
 
 [^c000012]: Textual amendment: Regulation repealed (with savings) by [Council Regulation (EC) No 1698/2005 of 20 September 2005 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)](https://www.legislation.gov.uk/eur/2005/1698), Art. 93

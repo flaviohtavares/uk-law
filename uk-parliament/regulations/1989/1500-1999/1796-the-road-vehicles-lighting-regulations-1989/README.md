@@ -43,12 +43,12 @@ Coming into force
 
 1st November 1989
 
-The Secretary of State for Transport, in exercise of the powers conferred by–[^key-7ca6b8bcfcb4ed45e6dd1f198d6c8997]
+The Secretary of State for Transport, in exercise of the powers conferred by–[^c-7ca6b8bcfcb4ed45e6dd1f198d6c8997]
 
 - (a) section 81 of the Road Traffic Act 1988, in so far as these Regulations revoke enactments having effect as if they had been made under that section;
 - (b) section 41 as read with section 43 of that Act as regards all other provisions of these Regulations,
 
-and all other enabling powers, and after consultation with representative organisations in accordance with section 195 of that Act, hereby makes the following Regulations:–[^key-7ca6b8bcfcb4ed45e6dd1f198d6c8997]
+and all other enabling powers, and after consultation with representative organisations in accordance with section 195 of that Act, hereby makes the following Regulations:–[^c-7ca6b8bcfcb4ed45e6dd1f198d6c8997]
 
 ## Contents
 
@@ -152,4 +152,4 @@ Secretary of State for Transport
 
 ## Annotations
 
-[^key-7ca6b8bcfcb4ed45e6dd1f198d6c8997]: Modification: Regulations applied (31.5.2023) by [S.I. 2003/1998](https://www.legislation.gov.uk/uksi/2003/1998), [art. 58](https://www.legislation.gov.uk/uksi/2003/1998/article/58) (as inserted by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/524/article/4))
+[^c-7ca6b8bcfcb4ed45e6dd1f198d6c8997]: Modification: Regulations applied (31.5.2023) by [S.I. 2003/1998](https://www.legislation.gov.uk/uksi/2003/1998), [art. 58](https://www.legislation.gov.uk/uksi/2003/1998/article/58) (as inserted by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/524/article/4))

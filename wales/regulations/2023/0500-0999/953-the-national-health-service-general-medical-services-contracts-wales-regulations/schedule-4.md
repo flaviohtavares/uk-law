@@ -22,7 +22,7 @@ summary: ''
 
 Schedule 3 paragraph 84(1)
 
-### 1. Information to be included on a practice’s online resource and written practice leaflet[^key-af8f18e08d1a01038bcd4ea001eaa3f4]
+### 1. Information to be included on a practice’s online resource and written practice leaflet[^c-af8f18e08d1a01038bcd4ea001eaa3f4]
 
 A contractor’s online resource and written practice leaflet must include—
 
@@ -47,12 +47,12 @@ A contractor’s online resource and written practice leaflet must include—
 - (o) the criteria for home visits and the method of obtaining such a visit;
 - (p) the consultations available to patients under regulation 17 and Part 1 of Schedule 3;
 - (q) the arrangements for services in the out of hours period (whether or not provided by the contractor) and how the patient may contact such services;
-- (r) if the services in sub-paragraph (q) are not provided by the contractor, the fact that the Local Health Board referred to in sub-paragraph (bb)[^key-19bc37f0b7444a54fd207d264938432c] is responsible for commissioning the services;
+- (r) if the services in sub-paragraph (q) are not provided by the contractor, the fact that the Local Health Board referred to in sub-paragraph (bb)[^c-19bc37f0b7444a54fd207d264938432c] is responsible for commissioning the services;
 - (s) the name and address of any local walk-in centre;
 - (t) the telephone number of NHS 111 Wales and details of NHS 111 Wales online;
 - (u) the method by which patients are to obtain repeat prescriptions;
 - (v) if the contractor offers repeatable prescribing services, the arrangements for providing such services;
-- (w) if the contractor is a dispensing contractor, the arrangements for dispensing prescriptions subject to paragraph 60(2)(b) of Schedule 3[^key-c9b92d79921ebf57096d5155bc12993e];
+- (w) if the contractor is a dispensing contractor, the arrangements for dispensing prescriptions subject to paragraph 60(2)(b) of Schedule 3[^c-c9b92d79921ebf57096d5155bc12993e];
 - (x) how patients may notify a concern or complaint in accordance with the provisions of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011, or comment on the provision of the contractor’s services;
 - (y) the rights and responsibilities of the patient, including keeping appointments;
 - (z) the action that may be taken where a patient is violent or abusive to the contractor or his staff or other persons on the practice premises or in the place where treatment is provided under the contract or other persons specified in paragraph 30 of Schedule 3;
@@ -62,8 +62,8 @@ A contractor’s online resource and written practice leaflet must include—
 
 ## Annotations
 
-[^key-af8f18e08d1a01038bcd4ea001eaa3f4]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2023/953/schedule/4/paragraph/1) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-af8f18e08d1a01038bcd4ea001eaa3f4]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2023/953/schedule/4/paragraph/1) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
-[^key-19bc37f0b7444a54fd207d264938432c]: Textual amendment: Words in Sch. 4 para. 1(r) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [19(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/19/a)
+[^c-19bc37f0b7444a54fd207d264938432c]: Textual amendment: Words in Sch. 4 para. 1(r) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [19(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/19/a)
 
-[^key-c9b92d79921ebf57096d5155bc12993e]: Textual amendment: Words in Sch. 4 para. 1(w) inserted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [19(b)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/19/b)
+[^c-c9b92d79921ebf57096d5155bc12993e]: Textual amendment: Words in Sch. 4 para. 1(w) inserted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [19(b)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/19/b)

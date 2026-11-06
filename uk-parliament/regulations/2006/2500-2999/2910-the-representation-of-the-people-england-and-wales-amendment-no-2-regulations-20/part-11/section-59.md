@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Control of documents: supply of the marked register or lists[^key-11dd1414001c25bfd0996098eb77d7b4]
+## 59. Control of documents: supply of the marked register or lists[^c-11dd1414001c25bfd0996098eb77d7b4]
 
 *Extent: E+W*
 
@@ -148,4 +148,4 @@ After regulation 115 insert the following—
 
 ## Annotations
 
-[^key-11dd1414001c25bfd0996098eb77d7b4]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2006/2910/regulation/59) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-11dd1414001c25bfd0996098eb77d7b4]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2006/2910/regulation/59) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

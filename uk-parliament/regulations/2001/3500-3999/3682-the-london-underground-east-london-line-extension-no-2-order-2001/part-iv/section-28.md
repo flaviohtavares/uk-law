@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Power to transfer undertaking[^key-5fce268c3855a6e91f9f562cd1e3826e]
+## 28. Power to transfer undertaking[^c-5fce268c3855a6e91f9f562cd1e3826e]
 
 *Extent: E+W+S*
 
@@ -47,22 +47,22 @@ summary: ''
 
 (12) In this article, unless the context otherwise requires—
 
-- [^key-6d681afa2edb21a1c84647acd64ca31b]...
+- [^c-6d681afa2edb21a1c84647acd64ca31b]...
 - “the 1999 Act” means the Greater London Authority Act 1999[^f00024];
 - “functions” includes powers, duties and obligations;
-- “relevant enactment” means [^key-465964ab3326237b965e8ada2be368eb]... the 1999 Act;
-- “relevant authority” means [^key-aff48af026c109373d7498546bb52f36]... Transport for London, and if the context so requires the Mayor of London and the Greater London Authority;
+- “relevant enactment” means [^c-465964ab3326237b965e8ada2be368eb]... the 1999 Act;
+- “relevant authority” means [^c-aff48af026c109373d7498546bb52f36]... Transport for London, and if the context so requires the Mayor of London and the Greater London Authority;
 - “transferee” means a person to whom all or any of the property or functions of the Company have been transferred by virtue of a transfer agreement; and
 - “transfer agreement” means an agreement entered into under paragraph (1) above.
 
 ## Annotations
 
-[^key-5fce268c3855a6e91f9f562cd1e3826e]: Commencement: Art. 28 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-5fce268c3855a6e91f9f562cd1e3826e]: Commencement: Art. 28 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-6d681afa2edb21a1c84647acd64ca31b]: Textual amendment: Words in [art. 28(12)](https://www.legislation.gov.uk/uksi/2001/3682/article/28) omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 57(a)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/57/a)
+[^c-6d681afa2edb21a1c84647acd64ca31b]: Textual amendment: Words in [art. 28(12)](https://www.legislation.gov.uk/uksi/2001/3682/article/28) omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 57(a)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/57/a)
 
 [^f00024]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-465964ab3326237b965e8ada2be368eb]: Textual amendment: Words in [art. 28(12)](https://www.legislation.gov.uk/uksi/2001/3682/article/28) omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 57(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/57/b)
+[^c-465964ab3326237b965e8ada2be368eb]: Textual amendment: Words in [art. 28(12)](https://www.legislation.gov.uk/uksi/2001/3682/article/28) omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 57(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/57/b)
 
-[^key-aff48af026c109373d7498546bb52f36]: Textual amendment: Words in [art. 28(12)](https://www.legislation.gov.uk/uksi/2001/3682/article/28) omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 57(c)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/57/c)
+[^c-aff48af026c109373d7498546bb52f36]: Textual amendment: Words in [art. 28(12)](https://www.legislation.gov.uk/uksi/2001/3682/article/28) omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 57(c)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/57/c)

@@ -48,14 +48,14 @@ summary: ''
 
 (9) In relation to any function which, by virtue of subsection (1) or (3) above is exercisable to a specified extent, references in any other provision of this section to the exercise of that function are accordingly to its exercise to that extent.
 
-(10)[^key-364c1fe83ce1e03e234a639af5ea4bd2] The references in subsections (3) and (6)(a)(i) above to regulations under section 73(a) or (c) of this Act are references to those regulations only in so far as relating to support for persons—
+(10)[^c-364c1fe83ce1e03e234a639af5ea4bd2] The references in subsections (3) and (6)(a)(i) above to regulations under section 73(a) or (c) of this Act are references to those regulations only in so far as relating to support for persons—
 
 - (a) undertaking; or
 - (b) who have undertaken,
 
-courses of education provided by post-16 education[^key-f12d640fb8a3c23282be5894c7cd5c11] bodies.
+courses of education provided by post-16 education[^c-f12d640fb8a3c23282be5894c7cd5c11] bodies.
 
-(11) In subsection (10) above, “**post-16 education[^key-0d1f417b3cc3a6f6d3803ef117d07fe2] bodies**” shall be construed in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6).
+(11) In subsection (10) above, “**post-16 education[^c-0d1f417b3cc3a6f6d3803ef117d07fe2] bodies**” shall be construed in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6).
 
 ## Annotations
 
@@ -67,8 +67,8 @@ courses of education provided by post-16 education[^key-f12d640fb8a3c23282be5894
 
 [^M_F_f72d8f4a-cd50-4ffc-edd4-18915ef62391]: Textual amendment: Words in s. 73A(6)(a)(i) substituted (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), ss. 19(2)(b)(ii), 36(2); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-364c1fe83ce1e03e234a639af5ea4bd2]: Textual amendment: S. 73A(10)(11) added (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [ss. 19(2)(c)](https://www.legislation.gov.uk/asp/2005/6/section/19/2/c), [36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-364c1fe83ce1e03e234a639af5ea4bd2]: Textual amendment: S. 73A(10)(11) added (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [ss. 19(2)(c)](https://www.legislation.gov.uk/asp/2005/6/section/19/2/c), [36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-f12d640fb8a3c23282be5894c7cd5c11]: Textual amendment: Words in s. 73A(10) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(3)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/3/a); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-f12d640fb8a3c23282be5894c7cd5c11]: Textual amendment: Words in s. 73A(10) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(3)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/3/a); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-0d1f417b3cc3a6f6d3803ef117d07fe2]: Textual amendment: Words in s. 73A(11) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(3)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/3/b); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-0d1f417b3cc3a6f6d3803ef117d07fe2]: Textual amendment: Words in s. 73A(11) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(3)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/3/b); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Reminder of the need for an anonymous elector’s document: general[^key-29b0c15171ff1341618386a8013a0056]
+## 25. Reminder of the need for an anonymous elector’s document: general[^c-29b0c15171ff1341618386a8013a0056]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-29b0c15171ff1341618386a8013a0056]: Commencement: Reg. 25 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-29b0c15171ff1341618386a8013a0056]: Commencement: Reg. 25 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00051]: Footnote: Section 9B was inserted by section 10(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), and was amended by section 20(a) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14) and by paragraph 7 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6).
 

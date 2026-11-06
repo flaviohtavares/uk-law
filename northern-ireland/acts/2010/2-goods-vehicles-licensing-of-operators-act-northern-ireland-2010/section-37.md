@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. False statements[^key-11f9df2379fa625a74407c11104c2899]
+## 37. False statements[^c-11f9df2379fa625a74407c11104c2899]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-11f9df2379fa625a74407c11104c2899]: Commencement: S. 37 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-11f9df2379fa625a74407c11104c2899]: Commencement: S. 37 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

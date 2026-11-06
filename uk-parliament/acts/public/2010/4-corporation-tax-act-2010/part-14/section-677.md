@@ -27,11 +27,11 @@ summary: ''
 
 (2) Condition A is that after the change in ownership there is a significant increase in the amount of the company's capital (see sections 688 to 691).
 
-(3) Condition B is that within the period of 8[^key-bb251eabd60a1cb0b60dac2164af9ca0] years beginning 3 years before the change in ownership there is a major change in the nature or conduct of the business carried on by the company.
+(3) Condition B is that within the period of 8[^c-bb251eabd60a1cb0b60dac2164af9ca0] years beginning 3 years before the change in ownership there is a major change in the nature or conduct of the business carried on by the company.
 
 (4) Condition C is that the change in ownership occurs at any time after the scale of the activities in the business carried on by the company has become small or negligible and before any significant revival of the business.
 
-(5) In subsection (3) “**major change in the nature or conduct of a business**” includes a major change in the nature of the investments held by the company, even if the change is the result of a gradual process which began before the period of 8[^key-5558a8d75406c921c0cc69ccfa561d05] years mentioned in that subsection.
+(5) In subsection (3) “**major change in the nature or conduct of a business**” includes a major change in the nature of the investments held by the company, even if the change is the result of a gradual process which began before the period of 8[^c-5558a8d75406c921c0cc69ccfa561d05] years mentioned in that subsection.
 
 (6) In this Chapter—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb251eabd60a1cb0b60dac2164af9ca0]: Textual amendment: Word in [s. 677(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/677/3) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 80(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/2) (with [Sch. 4 para. 80(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/4))
+[^c-bb251eabd60a1cb0b60dac2164af9ca0]: Textual amendment: Word in [s. 677(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/677/3) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 80(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/2) (with [Sch. 4 para. 80(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/4))
 
-[^key-5558a8d75406c921c0cc69ccfa561d05]: Textual amendment: Word in [s. 677(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/677/5) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 80(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/3) (with [Sch. 4 para. 80(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/4))
+[^c-5558a8d75406c921c0cc69ccfa561d05]: Textual amendment: Word in [s. 677(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/677/5) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 80(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/3) (with [Sch. 4 para. 80(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/80/4))

@@ -39,22 +39,22 @@ concerning the placing on the market for essential use of biocidal products cont
 
 (2014/459/EU) (revoked)
 
-[^key-0234c7027e0d1c769d702ba21df8f898]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0234c7027e0d1c769d702ba21df8f898]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0234c7027e0d1c769d702ba21df8f898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0234c7027e0d1c769d702ba21df8f898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0234c7027e0d1c769d702ba21df8f898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0234c7027e0d1c769d702ba21df8f898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0234c7027e0d1c769d702ba21df8f898]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0234c7027e0d1c769d702ba21df8f898]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — USES WHICH THE MEMBER STATES LISTED HEREUNDER MAY ALLOW, SUBJECT TO COMPLIANCE WITH THE CONDITIONS OF ARTICLE 1[^key-0234c7027e0d1c769d702ba21df8f898]
+## ANNEX — USES WHICH THE MEMBER STATES LISTED HEREUNDER MAY ALLOW, SUBJECT TO COMPLIANCE WITH THE CONDITIONS OF ARTICLE 1[^c-0234c7027e0d1c769d702ba21df8f898]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0234c7027e0d1c769d702ba21df8f898]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-0234c7027e0d1c769d702ba21df8f898]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

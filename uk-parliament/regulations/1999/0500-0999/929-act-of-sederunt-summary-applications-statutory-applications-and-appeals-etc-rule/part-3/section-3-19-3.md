@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.19.3. Applications for release of detained cash or detained property[^key-11dda865ee3ea5bd922d881e17908272][^key-3f80f9ce2e194328e8afd6c8ee36efa2]
+## 3.19.3. Applications for release of detained cash or detained property[^c-11dda865ee3ea5bd922d881e17908272][^c-3f80f9ce2e194328e8afd6c8ee36efa2]
 
 *Extent: S*
 
-(1)[^key-5581b9061f7aa7a33091f1a2570a4348] An application to the sheriff under—
+(1)[^c-5581b9061f7aa7a33091f1a2570a4348] An application to the sheriff under—
 
 - (a) section 297(3) (application for release of detained cash) must be made—
   - (i) in the course of proceedings for an order under section 295(2); or
@@ -34,7 +34,7 @@ summary: ''
 - (d) section 303V (victims and other owners) must be made—
   - (i) in the course of proceedings for an order under section 303L(1)(b) or 303O(3) (forfeiture); or
   - (ii) where an order has been made under section 303L(1)(b) or 303O(3), by minute in the process of the application for that order;
-- (e)[^key-cb52989895ea204dd9b3a1e00bcb2a67] article 213S of the 2005 Order (victims and other owners) must be made—
+- (e)[^c-cb52989895ea204dd9b3a1e00bcb2a67] article 213S of the 2005 Order (victims and other owners) must be made—
   - (i) in the course of proceedings for an order under article 213L(1) (forfeiture); or
   - (ii) where an order has been made under article 213L(1), by minute in the process of the application for that order.
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-11dda865ee3ea5bd922d881e17908272]: Textual amendment: Ch. 3 Pt. 19 inserted (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/2)
+[^c-11dda865ee3ea5bd922d881e17908272]: Textual amendment: Ch. 3 Pt. 19 inserted (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/2)
 
-[^key-3f80f9ce2e194328e8afd6c8ee36efa2]: Textual amendment: Words in rule 3.19.3 heading inserted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(3)(d)(i)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/3/d/i)
+[^c-3f80f9ce2e194328e8afd6c8ee36efa2]: Textual amendment: Words in rule 3.19.3 heading inserted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(3)(d)(i)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/3/d/i)
 
-[^key-5581b9061f7aa7a33091f1a2570a4348]: Textual amendment: Rule 3.19.3(1) substituted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/3/d/ii)
+[^c-5581b9061f7aa7a33091f1a2570a4348]: Textual amendment: Rule 3.19.3(1) substituted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/3/d/ii)
 
-[^key-cb52989895ea204dd9b3a1e00bcb2a67]: Textual amendment: Rule 3.19.3(1)(e) inserted (28.12.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) (No. 2) 2019 (S.S.I. 2019/405)](https://www.legislation.gov.uk/ssi/2019/405), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/405/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/405/paragraph/3/3)
+[^c-cb52989895ea204dd9b3a1e00bcb2a67]: Textual amendment: Rule 3.19.3(1)(e) inserted (28.12.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) (No. 2) 2019 (S.S.I. 2019/405)](https://www.legislation.gov.uk/ssi/2019/405), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/405/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/405/paragraph/3/3)

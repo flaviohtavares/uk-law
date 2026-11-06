@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Modification of Act in relation to category 2 authorities[^key-bf5c1f4555a831c58a6f261636c473ff][^key-bf8eef4c956e215969b67250c41ce6dc][^key-7464582e4da6a2f7457c63def6295440]
+## 5. Modification of Act in relation to category 2 authorities[^c-bf5c1f4555a831c58a6f261636c473ff][^c-bf8eef4c956e215969b67250c41ce6dc][^c-7464582e4da6a2f7457c63def6295440]
 
 *Extent: E+W*
 
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bf5c1f4555a831c58a6f261636c473ff]: Commencement: S. 5 in force at 18.6.2014 for specified purposes by [S.I. 2014/1596](https://www.legislation.gov.uk/uksi/2014/1596), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1596/article/2/a)
+[^c-bf5c1f4555a831c58a6f261636c473ff]: Commencement: S. 5 in force at 18.6.2014 for specified purposes by [S.I. 2014/1596](https://www.legislation.gov.uk/uksi/2014/1596), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1596/article/2/a)
 
-[^key-bf8eef4c956e215969b67250c41ce6dc]: Commencement: S. 5 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/d)
+[^c-bf8eef4c956e215969b67250c41ce6dc]: Commencement: S. 5 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/d)
 
-[^key-7464582e4da6a2f7457c63def6295440]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/2014/2/section/5) substituted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 96(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/96/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/d)
+[^c-7464582e4da6a2f7457c63def6295440]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/2014/2/section/5) substituted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 96(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/96/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/d)

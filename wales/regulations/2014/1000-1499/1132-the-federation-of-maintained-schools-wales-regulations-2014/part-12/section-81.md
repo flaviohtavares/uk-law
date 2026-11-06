@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Decision to permit federated school to leave a federation[^key-21e67b91517f9f5d430e0c044b95a2f4]
+## 81. Decision to permit federated school to leave a federation[^c-21e67b91517f9f5d430e0c044b95a2f4]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21e67b91517f9f5d430e0c044b95a2f4]: Commencement: Reg. 81 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-21e67b91517f9f5d430e0c044b95a2f4]: Commencement: Reg. 81 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

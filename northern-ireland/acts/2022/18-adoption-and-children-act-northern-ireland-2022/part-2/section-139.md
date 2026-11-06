@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 139. Definition of privately fostered child[^key-c2029e0a8f24e19c1d78f3ee189e1361]
+## 139. Definition of privately fostered child[^c-c2029e0a8f24e19c1d78f3ee189e1361]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2029e0a8f24e19c1d78f3ee189e1361]: Commencement: S. 139 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c2029e0a8f24e19c1d78f3ee189e1361]: Commencement: S. 139 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

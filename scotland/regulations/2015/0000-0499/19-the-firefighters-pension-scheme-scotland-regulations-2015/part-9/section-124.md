@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Application for a statement of entitlement[^key-c008b4af1498cdfa821bad4aa49105d6]
+## 124. Application for a statement of entitlement[^c-c008b4af1498cdfa821bad4aa49105d6]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c008b4af1498cdfa821bad4aa49105d6]: Commencement: [Reg. 124](https://www.legislation.gov.uk/ssi/2015/19/regulation/124) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-c008b4af1498cdfa821bad4aa49105d6]: Commencement: [Reg. 124](https://www.legislation.gov.uk/ssi/2015/19/regulation/124) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

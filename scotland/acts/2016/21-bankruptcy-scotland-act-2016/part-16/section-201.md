@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 201. Performance of certain functions of Accountant in Bankruptcy[^key-e9032129b58441d3700c96efee7a603e]
+## 201. Performance of certain functions of Accountant in Bankruptcy[^c-e9032129b58441d3700c96efee7a603e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9032129b58441d3700c96efee7a603e]: Commencement: [S. 201](https://www.legislation.gov.uk/asp/2016/21/section/201) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e9032129b58441d3700c96efee7a603e]: Commencement: [S. 201](https://www.legislation.gov.uk/asp/2016/21/section/201) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

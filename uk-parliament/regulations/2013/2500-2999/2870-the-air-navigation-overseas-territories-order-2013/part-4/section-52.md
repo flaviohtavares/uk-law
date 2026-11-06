@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Maintenance of privileges of aircraft ratings in licences[^key-6e554e9b107d4dfcc9c235d77f7d023f]
+## 52. Maintenance of privileges of aircraft ratings in licences[^c-6e554e9b107d4dfcc9c235d77f7d023f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e554e9b107d4dfcc9c235d77f7d023f]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2013/2870/article/52) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-6e554e9b107d4dfcc9c235d77f7d023f]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2013/2870/article/52) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

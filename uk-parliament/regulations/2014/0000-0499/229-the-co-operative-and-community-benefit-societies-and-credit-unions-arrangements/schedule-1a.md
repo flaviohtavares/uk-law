@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Supplementary provision on moratoriums[^key-64084dd666cf3ef166f383b0dae67bb6]
+## SCHEDULE 1A — Supplementary provision on moratoriums[^c-64084dd666cf3ef166f383b0dae67bb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -750,4 +750,4 @@ In this Part of this Schedule “the Scottish Insolvency Rules” means the Inso
 
 ## Annotations
 
-[^key-64084dd666cf3ef166f383b0dae67bb6]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A) inserted (30.9.2021) by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1048/article/2/4)
+[^c-64084dd666cf3ef166f383b0dae67bb6]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A) inserted (30.9.2021) by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1048/article/2/4)

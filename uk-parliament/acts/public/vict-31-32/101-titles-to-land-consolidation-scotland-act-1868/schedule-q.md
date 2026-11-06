@@ -22,8 +22,8 @@ summary: ''
 
 ### Form of Petition of Special Service
 
-*[^key-7d5ce1f1d22de1216846bd25ed7d301c]...*
+*[^c-7d5ce1f1d22de1216846bd25ed7d301c]...*
 
 ## Annotations
 
-[^key-7d5ce1f1d22de1216846bd25ed7d301c]: Textual amendment: [Sch. (Q.)](https://www.legislation.gov.uk/ukpga/Vict/31-32/101/schedule) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 8(23)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/8/23), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-7d5ce1f1d22de1216846bd25ed7d301c]: Textual amendment: [Sch. (Q.)](https://www.legislation.gov.uk/ukpga/Vict/31-32/101/schedule) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 8(23)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/8/23), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

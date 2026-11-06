@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Power to acquire land[^key-fba387b814e628c467988dab4eed5bb3]
+## 24. Power to acquire land[^c-fba387b814e628c467988dab4eed5bb3]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ and may use any land so acquired for those purposes or for any other purposes an
 
 ## Annotations
 
-[^key-fba387b814e628c467988dab4eed5bb3]: Commencement: Art. 24 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-fba387b814e628c467988dab4eed5bb3]: Commencement: Art. 24 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.19. Striking out appeal notices and setting aside or imposing conditions on permission to appeal[^key-ed65b7f9d29d9c88b8dfa82a609e9e4d]
+## 42.19. Striking out appeal notices and setting aside or imposing conditions on permission to appeal[^c-ed65b7f9d29d9c88b8dfa82a609e9e4d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed65b7f9d29d9c88b8dfa82a609e9e4d]: Commencement: [Rule 42.19](https://www.legislation.gov.uk/uksi/2025/909/rule/42.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ed65b7f9d29d9c88b8dfa82a609e9e4d]: Commencement: [Rule 42.19](https://www.legislation.gov.uk/uksi/2025/909/rule/42.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

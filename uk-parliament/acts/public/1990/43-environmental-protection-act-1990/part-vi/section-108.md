@@ -58,7 +58,7 @@ and the regulations may make different provision for different cases and differe
 
 (10) In this section “**prescribed**” means prescribed by the Secretary of State in regulations under this section.
 
-(11)[^key-7e12056b0df31adb6e01d7b13016d8f8] In the application of this section to Scotland, the reference in subsection (7) to the Food Standards Agency is to be read as a reference to Food Standards Scotland.
+(11)[^c-7e12056b0df31adb6e01d7b13016d8f8] In the application of this section to Scotland, the reference in subsection (7) to the Food Standards Agency is to be read as a reference to Food Standards Scotland.
 
 ## Annotations
 
@@ -70,4 +70,4 @@ and the regulations may make different provision for different cases and differe
 
 [^c13747021]: Textual amendment: Words in s. 108(7) inserted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 18](https://www.legislation.gov.uk/ukpga/1999/28/section/18), [Sch. 3 Pt. III para. 17](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/part/III/paragraph/17) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-7e12056b0df31adb6e01d7b13016d8f8]: Textual amendment: [S. 108(11)](https://www.legislation.gov.uk/ukpga/1990/43/section/108/11) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 4(2)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/4/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-7e12056b0df31adb6e01d7b13016d8f8]: Textual amendment: [S. 108(11)](https://www.legislation.gov.uk/ukpga/1990/43/section/108/11) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 4(2)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/4/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

@@ -32,7 +32,7 @@ summary: ''
 
 CUSTOMS
 
-The Export Control (Iran) (Amendment) Order 2008 (revoked)[^key-fdefe06f383ef6d7474c4c4a29e6117e]
+The Export Control (Iran) (Amendment) Order 2008 (revoked)[^c-fdefe06f383ef6d7474c4c4a29e6117e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 27th November 2008
 
-[^key-fdefe06f383ef6d7474c4c4a29e6117e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdefe06f383ef6d7474c4c4a29e6117e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-fdefe06f383ef6d7474c4c4a29e6117e]
+## 1.[^c-fdefe06f383ef6d7474c4c4a29e6117e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-fdefe06f383ef6d7474c4c4a29e6117e]
+## 2.[^c-fdefe06f383ef6d7474c4c4a29e6117e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fdefe06f383ef6d7474c4c4a29e6117e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdefe06f383ef6d7474c4c4a29e6117e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fdefe06f383ef6d7474c4c4a29e6117e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdefe06f383ef6d7474c4c4a29e6117e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fdefe06f383ef6d7474c4c4a29e6117e]: Textual amendment: Order revoked (13.6.2011) by [The Export Control (Iran) Order 2011 (S.I. 2011/1297)](https://www.legislation.gov.uk/uksi/2011/1297), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1297/article/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/2011/1297/article/2/1/c) (with [arts. 4](https://www.legislation.gov.uk/uksi/2011/1297/article/4), [11](https://www.legislation.gov.uk/uksi/2011/1297/article/11))
+[^c-fdefe06f383ef6d7474c4c4a29e6117e]: Textual amendment: Order revoked (13.6.2011) by [The Export Control (Iran) Order 2011 (S.I. 2011/1297)](https://www.legislation.gov.uk/uksi/2011/1297), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1297/article/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/2011/1297/article/2/1/c) (with [arts. 4](https://www.legislation.gov.uk/uksi/2011/1297/article/4), [11](https://www.legislation.gov.uk/uksi/2011/1297/article/11))

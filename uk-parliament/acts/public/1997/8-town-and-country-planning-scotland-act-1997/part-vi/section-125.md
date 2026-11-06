@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 125. Power to require information about activities on land.[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]
+## 125. Power to require information about activities on land.[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]
 
 *Extent: S*
 
@@ -36,9 +36,9 @@ as may be specified in the notice.
 
 - (a) to state whether or not the land is being used for any purpose specified in the notice or any operations or activities specified in the notice are being or have been carried out on the land;
 - (b) to state when any use, operations or activities began;
-- (c) to give the name and postal[^key-e794ee71cca95beeaa18d1b522c33e8d] address of any person known to him to use or have used the land for any purpose or to be carrying out, or have carried out, any operations or activities on the land;
+- (c) to give the name and postal[^c-e794ee71cca95beeaa18d1b522c33e8d] address of any person known to him to use or have used the land for any purpose or to be carrying out, or have carried out, any operations or activities on the land;
 - (d) to give any information he holds as to any planning permission for any use or operations or any reason for planning permission not being required for any use or operation;
-- (e) to state the nature of his interest (if any) in the land and the name and postal[^key-b458f3255080b08b60b06a3b3d895e22] address of any other person known to him to have an interest in the land.
+- (e) to state the nature of his interest (if any) in the land and the name and postal[^c-b458f3255080b08b60b06a3b3d895e22] address of any other person known to him to have an interest in the land.
 
 (4) A planning contravention notice may give notice of a time and place at which—
 
@@ -60,8 +60,8 @@ will be considered by the authority, and the authority shall give him an opportu
 
 ## Annotations
 
-[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
-[^key-e794ee71cca95beeaa18d1b522c33e8d]: Textual amendment: Word in s. 125(3)(c) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2004/332/article/5/a)
+[^c-e794ee71cca95beeaa18d1b522c33e8d]: Textual amendment: Word in s. 125(3)(c) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2004/332/article/5/a)
 
-[^key-b458f3255080b08b60b06a3b3d895e22]: Textual amendment: Word in s. 125(3)(e) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2004/332/article/5/a)
+[^c-b458f3255080b08b60b06a3b3d895e22]: Textual amendment: Word in s. 125(3)(e) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2004/332/article/5/a)

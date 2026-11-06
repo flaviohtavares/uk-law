@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.5. Retention of application and related documents[^key-4e983ff16ef5f51b488a2bc4d2803415]
+## 4.5. Retention of application and related documents[^c-4e983ff16ef5f51b488a2bc4d2803415]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The sheriff clerk shall retain the letter of application under rule 4.2 together
 
 ## Annotations
 
-[^key-4e983ff16ef5f51b488a2bc4d2803415]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/uksi/1997/291/rule/4.5) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-4e983ff16ef5f51b488a2bc4d2803415]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/uksi/1997/291/rule/4.5) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

@@ -35,7 +35,7 @@ Prisons, England And Wales
 
 Young Offender Institutions, England And Wales
 
-The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2016 (revoked)[^key-c930bf0d755c5be777671dae1b9a94b9]
+The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2016 (revoked)[^c-c930bf0d755c5be777671dae1b9a94b9]
 
 Made
 
@@ -49,28 +49,28 @@ Coming into force
 
 17th October 2016
 
-[^key-c930bf0d755c5be777671dae1b9a94b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c930bf0d755c5be777671dae1b9a94b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c930bf0d755c5be777671dae1b9a94b9]
+## 1. Citation and commencement[^c-c930bf0d755c5be777671dae1b9a94b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Prison Rules 1999[^key-c930bf0d755c5be777671dae1b9a94b9]
+## 2. Amendment of the Prison Rules 1999[^c-c930bf0d755c5be777671dae1b9a94b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Young Offender Institution Rules 2000[^key-c930bf0d755c5be777671dae1b9a94b9]
+## 3. Amendment of the Young Offender Institution Rules 2000[^c-c930bf0d755c5be777671dae1b9a94b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c930bf0d755c5be777671dae1b9a94b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c930bf0d755c5be777671dae1b9a94b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c930bf0d755c5be777671dae1b9a94b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c930bf0d755c5be777671dae1b9a94b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c930bf0d755c5be777671dae1b9a94b9]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/945) revoked (8.12.2021) by [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/5/b), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-c930bf0d755c5be777671dae1b9a94b9]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/945) revoked (8.12.2021) by [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/5/b), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)

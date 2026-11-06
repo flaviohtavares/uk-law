@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Representatives[^key-1b5b767d8a6ff5ede77dba6a60d502e5]
+## 15. Representatives[^c-1b5b767d8a6ff5ede77dba6a60d502e5]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b5b767d8a6ff5ede77dba6a60d502e5]: Commencement: Reg. 15 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-1b5b767d8a6ff5ede77dba6a60d502e5]: Commencement: Reg. 15 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

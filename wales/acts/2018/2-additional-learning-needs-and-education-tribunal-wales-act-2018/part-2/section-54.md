@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Amendments to registration requirements for independent schools in Wales[^key-49beab82d94b8e69ecf862f0c193db2e][^key-e53ce918c0dd27f8e13b93c0c0b5063c]
+## 54. Amendments to registration requirements for independent schools in Wales[^c-49beab82d94b8e69ecf862f0c193db2e][^c-e53ce918c0dd27f8e13b93c0c0b5063c]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49beab82d94b8e69ecf862f0c193db2e]: Commencement: S. 54 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(e)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/e)
+[^c-49beab82d94b8e69ecf862f0c193db2e]: Commencement: S. 54 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(e)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/e)
 
-[^key-e53ce918c0dd27f8e13b93c0c0b5063c]: Commencement: S. 54 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(c)](https://www.legislation.gov.uk/wsi/2021/373/article/8/c)
+[^c-e53ce918c0dd27f8e13b93c0c0b5063c]: Commencement: S. 54 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(c)](https://www.legislation.gov.uk/wsi/2021/373/article/8/c)

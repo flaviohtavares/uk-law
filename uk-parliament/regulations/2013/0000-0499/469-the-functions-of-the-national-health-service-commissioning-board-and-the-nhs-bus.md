@@ -48,7 +48,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 The Secretary of State has consulted the Board in relation to the functions to be exercised by the Authority under these Regulations as required by section 7(1B)[^f00002] of the 2006 Act.
 
-## 1. Citation, commencement and interpretation[^key-f465a185735dffb57464bad59e0e2449]
+## 1. Citation, commencement and interpretation[^c-f465a185735dffb57464bad59e0e2449]
 
 (1) These Regulations may be cited as the Functions of the National Health Service Commissioning Board and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2013 and come into force on 1st April 2013.
 
@@ -57,23 +57,23 @@ The Secretary of State has consulted the Board in relation to the functions to b
 - “the 2006 Act” means the National Health Service Act 2006;
 - “the 2006 Regulations” means the Functions of Primary Care Trusts and Strategic Health Authorities and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2006[^f00003];
 - “the Authority” means the NHS Business Services Authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005[^f00004];
-- [^key-13e509ea097a47bddec268e5d79ac58b]...
-- “contractor” means a person, other than NHS England[^key-50c6e1d6a7ce3cb30e026ce4e1861c1b], who is a party to a GDS Contract or a PDS Agreement;
-- “Capitation and Quality Scheme 2 Agreement” has the meaning given in regulation 2 of the[^key-259ec1fbcf963171f5d756160ccf6cec] GDS Contracts Regulations (interpretation);
+- [^c-13e509ea097a47bddec268e5d79ac58b]...
+- “contractor” means a person, other than NHS England[^c-50c6e1d6a7ce3cb30e026ce4e1861c1b], who is a party to a GDS Contract or a PDS Agreement;
+- “Capitation and Quality Scheme 2 Agreement” has the meaning given in regulation 2 of the[^c-259ec1fbcf963171f5d756160ccf6cec] GDS Contracts Regulations (interpretation);
 - “dental practitioner” has the meaning given in paragraph 7 of Schedule 5 to the National Health Service Pension Scheme Regulations 2015 (membership gateways – medical practitioners and dental practitioners);
 - “GDS Contract” is a contract within the meaning of section 100 of the 2006 Act (general dental services contracts: introductory)[^f00006];
 - “GDS Contracts Regulations” means the National Health Service (General Dental Services Contracts) Regulations 2005[^f00007];
-- “[^key-01aa43bbf9da18156d449affe36d1095]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “[^c-01aa43bbf9da18156d449affe36d1095]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
 - “PDS Agreement” means an agreement within the meaning of section 107 of the 2006 Act (arrangements by NHS England for the provision of primary dental services)[^f00008];
 - “PDS Agreements Regulations” means the National Health Service (Personal Dental Services Agreements) Regulations 2005[^f00009];
 - “Primary Care Trust” means the body, which until the date section 34 (abolition of Primary Care Trusts) of the Health and Social Care Act 2012[^f00010] comes into force, is the Primary Care Trust which was a party to the GDS contract; and
-- “prototype agreement” has the meaning given in regulation 2 of the[^key-391dd23307a5dc05d7174eef833004c5] GDS Contracts Regulations (interpretation);
+- “prototype agreement” has the meaning given in regulation 2 of the[^c-391dd23307a5dc05d7174eef833004c5] GDS Contracts Regulations (interpretation);
 - “Relevant Body” means the body which, until the date sections 33 (abolition of Strategic Health Authorities) or 34 (abolition of Primary Care Trusts) of the Health and Social Care Act 2012 comes into force, is the Primary Care Trust, or the Strategic Health Authority, which was a party to the PDS Agreement;
-- “scheme manager” has the meaning given in Schedule 15 to the National Health Service Pension Scheme Regulations 2015 (definitions)[^key-9568638f0de0a43bc7de0908c1bd2fd6].
+- “scheme manager” has the meaning given in Schedule 15 to the National Health Service Pension Scheme Regulations 2015 (definitions)[^c-9568638f0de0a43bc7de0908c1bd2fd6].
 
-(3)[^key-7f97086fee97ef0d22d6d9c6d8d6d5ff] In these Regulations, any reference to a GDS Contract or a PDS Agreement includes a reference to such a contract or agreement that has been varied to be a Capitation and Quality Scheme 2 Agreement or a prototype agreement.
+(3)[^c-7f97086fee97ef0d22d6d9c6d8d6d5ff] In these Regulations, any reference to a GDS Contract or a PDS Agreement includes a reference to such a contract or agreement that has been varied to be a Capitation and Quality Scheme 2 Agreement or a prototype agreement.
 
-## 2. Functions of NHS England exercisable by the Authority[^key-637c6a0277365266d4069e394712b1c2]
+## 2. Functions of NHS England exercisable by the Authority[^c-637c6a0277365266d4069e394712b1c2]
 
 (1) The functions of NHS England relating to primary dental services in England under the provisions specified in column 1 of the Schedule in respect of the matters indicated in column 2 of that Schedule are to be exercised by the Authority.
 
@@ -100,11 +100,11 @@ NHS England may only itself exercise the function where the Authority is unable 
 
 (7) Where NHS England requests under the GDS Contract or PDS Agreement the contractor to send or give access to records, forms, documents or information under paragraph 35, 37 or 44 of Schedule 3 to the GDS Contracts Regulations, or paragraph 36, 38 or 44 of Schedule 3 to the PDS Agreements Regulations, the contractor must send or give access to such records, forms, documents or information to NHS England notwithstanding the fact that it may have provided that record, form, document or information to the Authority or may be under an obligation to do so.
 
-## 3. Transitional provision relating to continuity of the validity of forms[^key-971dd97cc89cad84e163b935e1d702ba]
+## 3. Transitional provision relating to continuity of the validity of forms[^c-971dd97cc89cad84e163b935e1d702ba]
 
 Any form supplied by a Primary Care Trust in the case of a GDS Contract, or a Relevant Body in the case of a PDS Agreement, continues to be a valid form in relation to NHS England until it is cancelled or withdrawn by NHS England.
 
-## 4. Transitional provision relating to functions exercisable by the Authority[^key-8561d0b6a5cab55028f63044af79badd]
+## 4. Transitional provision relating to functions exercisable by the Authority[^c-8561d0b6a5cab55028f63044af79badd]
 
 Where any matter under the 2006 Regulations is ongoing immediately before 1st April 2013, that matter is to be treated as ongoing under these Regulations—
 
@@ -112,7 +112,7 @@ Where any matter under the 2006 Regulations is ongoing immediately before 1st Ap
 - (b) NHS England is entitled to rely on any actions already undertaken by the Primary Care Trust in the case of a GDS Contract, or Relevant Body in the case of a PDS Agreement, in relation to that matter; and
 - (c) any action of the Authority exercising functions on behalf of the Primary Care Trust in the case of a GDS Contract, or Relevant Body in the case of a PDS Agreement, is to be treated as an action in relation to such functions taken by the Authority on behalf of NHS England.
 
-## 5. Revocations[^key-cb4cd13d6435d1f89063e674fbaf6da1]
+## 5. Revocations[^c-cb4cd13d6435d1f89063e674fbaf6da1]
 
 The following Regulations are revoked—
 
@@ -129,7 +129,7 @@ Department of Health
 
 1st March 2013
 
-## SCHEDULE — Functions of NHS England exercisable by the Authority[^key-72abee7cf06e67e0b7a3714a5b434fd6]
+## SCHEDULE — Functions of NHS England exercisable by the Authority[^c-72abee7cf06e67e0b7a3714a5b434fd6]
 
 Regulation 2(1) and (2)
 
@@ -188,7 +188,7 @@ Table 1
 </tbody>
 </table>
 
-[^f00012][^f00013][^f00014][^f00015][^f00016][^key-13f1bcf2c7a1dab68edbcf5fde4962f2]
+[^f00012][^f00013][^f00014][^f00015][^f00016][^c-13f1bcf2c7a1dab68edbcf5fde4962f2]
 
 EXPLANATORY NOTE
 
@@ -216,23 +216,23 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: Section 7(1) of the 2006 Act is amended by section 21(2) of the Health and Social Care Act 2012.
 
-[^key-f465a185735dffb57464bad59e0e2449]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/469/regulation/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
+[^c-f465a185735dffb57464bad59e0e2449]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/469/regulation/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2006/596](https://www.legislation.gov.uk/uksi/2006/596); as amended by [S.I. 2012/502](https://www.legislation.gov.uk/uksi/2012/502).
 
 [^f00004]: Footnote: [S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414); as amended by [S.I. 2006/632](https://www.legislation.gov.uk/uksi/2006/632) and [2007/1201](https://www.legislation.gov.uk/uksi/2007/1201).
 
-[^key-13e509ea097a47bddec268e5d79ac58b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [67(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/67/2/a)
+[^c-13e509ea097a47bddec268e5d79ac58b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [67(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/67/2/a)
 
-[^key-50c6e1d6a7ce3cb30e026ce4e1861c1b]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-50c6e1d6a7ce3cb30e026ce4e1861c1b]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-259ec1fbcf963171f5d756160ccf6cec]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(a)(i)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/a/i)
+[^c-259ec1fbcf963171f5d756160ccf6cec]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(a)(i)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/a/i)
 
 [^f00006]: Footnote: Section 100 is amended by section 55(1) of, and paragraph 43 of Schedule 4 to, the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
 [^f00007]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361); as amended by [S.I. 2006/563](https://www.legislation.gov.uk/uksi/2006/563), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/528](https://www.legislation.gov.uk/uksi/2008/528), [1514](https://www.legislation.gov.uk/uksi/2008/1514), and [1700](https://www.legislation.gov.uk/uksi/2008/1700), [2009/309](https://www.legislation.gov.uk/uksi/2009/309) and [462](https://www.legislation.gov.uk/uksi/2009/462), [2010/22](https://www.legislation.gov.uk/uksi/2010/22) and [1881](https://www.legislation.gov.uk/uksi/2010/1881), [2011/1182](https://www.legislation.gov.uk/uksi/2011/1182) and [2012/502](https://www.legislation.gov.uk/uksi/2012/502), [2273](https://www.legislation.gov.uk/uksi/2012/2273) and [2404](https://www.legislation.gov.uk/uksi/2012/2404).
 
-[^key-01aa43bbf9da18156d449affe36d1095]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [67(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/67/2/b)
+[^c-01aa43bbf9da18156d449affe36d1095]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [67(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/67/2/b)
 
 [^f00008]: Footnote: Section 107 is amended by section 55(1) of, and paragraph 48 of Schedule 4 to, the Health and Social Care Act 2012.
 
@@ -240,23 +240,23 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00010]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-391dd23307a5dc05d7174eef833004c5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/a/ii)
+[^c-391dd23307a5dc05d7174eef833004c5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/a/ii)
 
-[^key-9568638f0de0a43bc7de0908c1bd2fd6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(a)(iii)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/a/iii)
+[^c-9568638f0de0a43bc7de0908c1bd2fd6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/2) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(a)(iii)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/a/iii)
 
-[^key-7f97086fee97ef0d22d6d9c6d8d6d5ff]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/3) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/b)
+[^c-7f97086fee97ef0d22d6d9c6d8d6d5ff]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/3) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/28/b)
 
-[^key-637c6a0277365266d4069e394712b1c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/469/regulation/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
+[^c-637c6a0277365266d4069e394712b1c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/469/regulation/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
 
-[^key-971dd97cc89cad84e163b935e1d702ba]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/469/regulation/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
+[^c-971dd97cc89cad84e163b935e1d702ba]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/469/regulation/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
 
-[^key-8561d0b6a5cab55028f63044af79badd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/469/regulation/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
+[^c-8561d0b6a5cab55028f63044af79badd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/469/regulation/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
 
-[^key-cb4cd13d6435d1f89063e674fbaf6da1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/469/regulation/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
+[^c-cb4cd13d6435d1f89063e674fbaf6da1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/469/regulation/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2012/502](https://www.legislation.gov.uk/uksi/2012/502).
 
-[^key-72abee7cf06e67e0b7a3714a5b434fd6]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/469/schedule) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
+[^c-72abee7cf06e67e0b7a3714a5b434fd6]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/469/schedule) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477); as amended by [S.I. 2006/1837](https://www.legislation.gov.uk/uksi/2006/1837), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/547](https://www.legislation.gov.uk/uksi/2008/547), [2009/407](https://www.legislation.gov.uk/uksi/2009/407), [2011/519](https://www.legislation.gov.uk/uksi/2011/519) and [2012/502](https://www.legislation.gov.uk/uksi/2012/502).
 
@@ -268,4 +268,4 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00016]: Footnote: [S.I. 2000/619](https://www.legislation.gov.uk/uksi/2000/619); as amended by [S.I. 2001/1428](https://www.legislation.gov.uk/uksi/2001/1428) and [3649](https://www.legislation.gov.uk/uksi/2001/3649), [2002/610](https://www.legislation.gov.uk/uksi/2002/610), [2005/3074](https://www.legislation.gov.uk/uksi/2005/3074), [2006/600](https://www.legislation.gov.uk/uksi/2006/600), [2007/3280](https://www.legislation.gov.uk/uksi/2007/3280), [2008/655](https://www.legislation.gov.uk/uksi/2008/655), [2009/2446](https://www.legislation.gov.uk/uksi/2009/2446), [2010/492](https://www.legislation.gov.uk/uksi/2010/492), and [2011/ 2586](https://www.legislation.gov.uk/uksi/2011/2586).
 
-[^key-13f1bcf2c7a1dab68edbcf5fde4962f2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/469/schedule) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2015/1728/regulation/29)
+[^c-13f1bcf2c7a1dab68edbcf5fde4962f2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/469/schedule) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2015/1728/regulation/29)

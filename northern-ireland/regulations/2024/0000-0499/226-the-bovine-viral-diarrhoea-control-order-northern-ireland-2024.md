@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the following Order in exercise of the powers conferred by Articles 2(3), 19(e) (f) and (k) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00002].
 
-## 1. Citation and commencement[^key-866af38735bc2651dcd4e2124406112b]
+## 1. Citation and commencement[^c-866af38735bc2651dcd4e2124406112b]
 
 This Order may be cited as the Bovine Viral Diarrhoea Control Order (Northern Ireland) 2024 and comes into operation on 1<sup>st</sup> February 2025.
 
-## 2. Interpretation[^key-a9c1ee0188372e00ac88e5c22e787bfe]
+## 2. Interpretation[^c-a9c1ee0188372e00ac88e5c22e787bfe]
 
 In this Order—
 
@@ -66,11 +66,11 @@ In this Order—
 - “**NIFAIS**” means the Northern Ireland Food Animal Information System or its successor system operated by the Department;
 - “**Regulation (EU) 2016/429**” means [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health[^f00004].
 
-## 3. Movement of bovines to or from a member State[^key-497911adcab0c23b64e961629bd4a8e5]
+## 3. Movement of bovines to or from a member State[^c-497911adcab0c23b64e961629bd4a8e5]
 
 Nothing in this Order applies to the movement of a bovine to or from a member State where the requirements of Article 170(2)(a) of [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429), insofar as it relates to rules laid down in Chapter 3 of that Regulation, are met in relation to the bovine.
 
-## 4. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^key-88da33948a559e828ecb653a3a4be6b7]
+## 4. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^c-88da33948a559e828ecb653a3a4be6b7]
 
 Part 3 of Schedule 1[^f00005] to the Diseases of Animals (Northern Ireland) Order 1981 (Diseases of Animals) is modified by inserting after entry number 49 the following—
 
@@ -78,11 +78,11 @@ Part 3 of Schedule 1[^f00005] to the Diseases of Animals (Northern Ireland) Orde
 
 .
 
-## 5. Associated Herds[^key-f5bead3fbf51f101ba3f277259f2485c]
+## 5. Associated Herds[^c-f5bead3fbf51f101ba3f277259f2485c]
 
 Any reference in this Order to a herd includes an associated herd of that herd.
 
-## 6. Herds with one or more bovines which have tested positive[^key-fb807cf9c3c009fba132eebd5321b596]
+## 6. Herds with one or more bovines which have tested positive[^c-fb807cf9c3c009fba132eebd5321b596]
 
 (1) This Article applies to a herd where the keeper of the herd is in receipt of a positive test result, from a sample submitted to an approved laboratory for analysis for BVDV, for one or more bovines in the herd, as mentioned in paragraph 9 of the Schedule to the 2016 Order.
 
@@ -114,7 +114,7 @@ Any reference in this Order to a herd includes an associated herd of that herd.
 
 (7) Where paragraph (5)(a)(i) or (ii) applies and within the period of 28 days or 7 days (as the case may be) any bovine in the herd with a positive test result has been removed from the herd or re-tested negative, the restrictions referred to in paragraph (2) do not apply.
 
-## 7. Female bovines of breeding age[^key-62e98df40bce14f550bdf0396f544d9b]
+## 7. Female bovines of breeding age[^c-62e98df40bce14f550bdf0396f544d9b]
 
 (1) Where the conditions referred to in paragraph (2) are satisfied, this Article applies to a bovine in a herd—
 
@@ -155,7 +155,7 @@ Any reference in this Order to a herd includes an associated herd of that herd.
 
 (8) This Article only applies from 12 months after the day on which this Order comes into operation.
 
-## 8. Herds with one or more bovines with an inconclusive test result[^key-d08c932223ce0c6e38ad9c7d1218ffc8]
+## 8. Herds with one or more bovines with an inconclusive test result[^c-d08c932223ce0c6e38ad9c7d1218ffc8]
 
 (1) Subject to paragraphs (7) and (8), this Article applies to a herd where the keeper of the herd is in receipt of an inconclusive test result from an approved laboratory for one or more bovines in the herd.
 
@@ -195,7 +195,7 @@ Any reference in this Order to a herd includes an associated herd of that herd.
 
 (8) Where paragraph (5)(a)(i) or (ii) applies and within the period of 28 days or 7 days (as the case may be) any bovine in the herd with an inconclusive test result has been removed from the herd or re-tested negative, the restrictions referred to in paragraph (2) do not apply.
 
-## 9. Herds with one or more BVD unknown status bovines[^key-efdad14dc2e1e13b73d44a57c2af6f57]
+## 9. Herds with one or more BVD unknown status bovines[^c-efdad14dc2e1e13b73d44a57c2af6f57]
 
 (1) Subject to paragraphs (7) and (8), this Article applies to—
 
@@ -240,7 +240,7 @@ Any reference in this Order to a herd includes an associated herd of that herd.
   - (ii) Article 8 applies, and
   - (iii) the relevant period for the purposes of Article 8 begins in all cases immediately after the inconclusive test result is reported by an approved laboratory.
 
-## 10. Restrictions on movements of individual bovines[^key-89fe8727ff9fb89f94eaa9cea977b971]
+## 10. Restrictions on movements of individual bovines[^c-89fe8727ff9fb89f94eaa9cea977b971]
 
 (1) A bovine required to be sampled in accordance with paragraph 3, 4, 6 or 10 of the Schedule to the 2016 Order must not be moved from the holding on which it was born or moved to having come into the possession or control of the keeper unless a tissue or blood sample has been taken in accordance with one of the above-mentioned paragraphs and a negative test result for that sample has been obtained from an approved laboratory.
 
@@ -256,7 +256,7 @@ Any reference in this Order to a herd includes an associated herd of that herd.
 - (b) may be granted subject to conditions; and
 - (c) may be modified, suspended or revoked by notice in writing given to the keeper.
 
-## 11. Possession, control, sale or supply of bovine moved in contravention of this Order[^key-ddecf6ad3101a009b693d509e113200d]
+## 11. Possession, control, sale or supply of bovine moved in contravention of this Order[^c-ddecf6ad3101a009b693d509e113200d]
 
 A person must not—
 
@@ -266,7 +266,7 @@ A person must not—
 
 a bovine that has been moved in contravention of any provision of this Order.
 
-## 12. Notifications[^key-596141958455c74f67035ab2130691ef]
+## 12. Notifications[^c-596141958455c74f67035ab2130691ef]
 
 (1) Any notification given to a keeper by the Department under Article 9(2) must be given by sending it to the keeper by post at the keeper’s registered address.
 
@@ -298,32 +298,32 @@ A full regulatory impact assessment has been produced for this Statutory Rule.
 
 [^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115). Article 2(3) was amended by Article 19 of [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891), Article 19(e) was amended by Article 2 of [S.R. 2010/70](https://www.legislation.gov.uk/nisr/2010/70), Article 19(k) was amended by Article 17(3) of [S.R. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702), and Article 60(1) was amended by Article 23(1) of [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891).
 
-[^key-866af38735bc2651dcd4e2124406112b]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-866af38735bc2651dcd4e2124406112b]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-a9c1ee0188372e00ac88e5c22e787bfe]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/226/article/2) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-a9c1ee0188372e00ac88e5c22e787bfe]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/226/article/2) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
 [^f00003]: Footnote: [S.R. 2016/22](https://www.legislation.gov.uk/nisr/2016/22). Paragraphs 3 and 4 of the Schedule were amended and paragraph 14 of the Schedule was omitted by Article 2 of [S.R. 2024/225](https://www.legislation.gov.uk/nisr/2024/225).
 
 [^f00004]: Footnote: OJ L 84, 31.3.2016, p. 1-208.
 
-[^key-497911adcab0c23b64e961629bd4a8e5]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/226/article/3) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-497911adcab0c23b64e961629bd4a8e5]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/226/article/3) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-88da33948a559e828ecb653a3a4be6b7]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2024/226/article/4) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-88da33948a559e828ecb653a3a4be6b7]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2024/226/article/4) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
 [^f00005]: Footnote: As modified by [S.R. 1985 No. 64](https://www.legislation.gov.uk/nisr/1985/64), [S.R. 1988 No. 287](https://www.legislation.gov.uk/nisr/1988/287), [S.R. 1990 No.135](https://www.legislation.gov.uk/nisr/1990/135), [S.R. 1991 No. 250](https://www.legislation.gov.uk/nisr/1991/250), [S.R. 1991 No. 456](https://www.legislation.gov.uk/nisr/1991/456), [S.R. 1992 No. 552](https://www.legislation.gov.uk/nisr/1992/552), [S.R. 1993 No. 43](https://www.legislation.gov.uk/nisr/1993/43), [S.R. 1994 No. 11](https://www.legislation.gov.uk/nisr/1994/11), [S.R. 1995 No. 44](https://www.legislation.gov.uk/nisr/1995/44), [S.R. 1996 No. 273](https://www.legislation.gov.uk/nisr/1996/273), [S.R. 1999 No. 433](https://www.legislation.gov.uk/nisr/1999/433), [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434), [S.R. 2000 No. 293](https://www.legislation.gov.uk/nisr/2000/293) and [S.R. 2001 No. 286](https://www.legislation.gov.uk/nisr/2001/286).
 
-[^key-f5bead3fbf51f101ba3f277259f2485c]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2024/226/article/5) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-f5bead3fbf51f101ba3f277259f2485c]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2024/226/article/5) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-fb807cf9c3c009fba132eebd5321b596]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2024/226/article/6) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-fb807cf9c3c009fba132eebd5321b596]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2024/226/article/6) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-62e98df40bce14f550bdf0396f544d9b]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2024/226/article/7) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-62e98df40bce14f550bdf0396f544d9b]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2024/226/article/7) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-d08c932223ce0c6e38ad9c7d1218ffc8]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2024/226/article/8) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-d08c932223ce0c6e38ad9c7d1218ffc8]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2024/226/article/8) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-efdad14dc2e1e13b73d44a57c2af6f57]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2024/226/article/9) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-efdad14dc2e1e13b73d44a57c2af6f57]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2024/226/article/9) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-89fe8727ff9fb89f94eaa9cea977b971]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2024/226/article/10) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-89fe8727ff9fb89f94eaa9cea977b971]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2024/226/article/10) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-ddecf6ad3101a009b693d509e113200d]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2024/226/article/11) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-ddecf6ad3101a009b693d509e113200d]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2024/226/article/11) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
 
-[^key-596141958455c74f67035ab2130691ef]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2024/226/article/12) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)
+[^c-596141958455c74f67035ab2130691ef]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2024/226/article/12) in operation at 1.2.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1)

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 4A. Fossil derived bioliquid[^key-33bf393adcfd8f11650716d752d036f5]
+## 4A. Fossil derived bioliquid[^c-33bf393adcfd8f11650716d752d036f5]
 
 (1)  For the purposes of this Order, fossil derived bioliquid is to be treated as being in part composed of (or in part derived from) fossil fuel.
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33bf393adcfd8f11650716d752d036f5]: Textual amendment: Art. 4A inserted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [6](https://www.legislation.gov.uk/ssi/2011/225/article/6) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))
+[^c-33bf393adcfd8f11650716d752d036f5]: Textual amendment: Art. 4A inserted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [6](https://www.legislation.gov.uk/ssi/2011/225/article/6) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))

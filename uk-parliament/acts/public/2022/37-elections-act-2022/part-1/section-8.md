@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Undue influence[^key-081f3bfcadb1607e8bd9fb361d817f05][^key-593182da0785b32174dd866c8f53a8ba]
+## 8. Undue influence[^c-081f3bfcadb1607e8bd9fb361d817f05][^c-593182da0785b32174dd866c8f53a8ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-081f3bfcadb1607e8bd9fb361d817f05]: Commencement: S. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-081f3bfcadb1607e8bd9fb361d817f05]: Commencement: S. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-593182da0785b32174dd866c8f53a8ba]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/37/section/8) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/a)
+[^c-593182da0785b32174dd866c8f53a8ba]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/37/section/8) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/a)

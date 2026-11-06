@@ -53,7 +53,7 @@ This Order may be cited as the Control of Salmonella in Broiler Flocks Order 200
 In this Order—
 
 - “broiler flock” means a flock kept for the production of meat intended for human consumption;
-- “Commission Regulation ([^key-1548f321d3c99ef70b9211dad42f67c8]EU) No 200/2012” means Commission Regulation (EU) No 200/2012 concerning a Union target for the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of broilers, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160);
+- “Commission Regulation ([^c-1548f321d3c99ef70b9211dad42f67c8]EU) No 200/2012” means Commission Regulation (EU) No 200/2012 concerning a Union target for the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of broilers, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160);
 - “flock” means all chickens of the same health status kept on the same premises or in the same enclosure and constituting a single epidemiological unit and, in the case of housed chickens, includes all birds sharing the same airspace;
 - “holding” means any holding on which one or more broiler flocks of chickens are kept or are intended to be kept;
 - “occupier” means, in relation to any holding, the person in charge of the holding;
@@ -63,7 +63,7 @@ In this Order—
 
 The Secretary of State is the competent authority for the purposes of—
 
-- (a) Commission Regulation ([^key-b9fa8039524b03692cb11a5a94a6ee9f]EU) No 200/2012;and
+- (a) Commission Regulation ([^c-b9fa8039524b03692cb11a5a94a6ee9f]EU) No 200/2012;and
 - (b) Commission Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of salmonella in chickens[^f00003].
 
 ## 4. Notification of broiler flocks
@@ -85,7 +85,7 @@ The Secretary of State is the competent authority for the purposes of—
 
 ## 5. Sampling
 
-(1) The occupier must carry out sampling in accordance with points 1 and 2 of the Annex to Commission Regulation ([^key-6dc979bbce8e8b35e549a56a573197b1]EU) No 200/2012 and must despatch samples to an approved laboratory in accordance with point 2.2.4[^key-a516f51625b3dc7ba314acf743c92b62] of that Annex (and for the purposes of that point “express mail”[^key-f91832ccdb34f34bda6b4a331ea7fe89] includes first class post).
+(1) The occupier must carry out sampling in accordance with points 1 and 2 of the Annex to Commission Regulation ([^c-6dc979bbce8e8b35e549a56a573197b1]EU) No 200/2012 and must despatch samples to an approved laboratory in accordance with point 2.2.4[^c-a516f51625b3dc7ba314acf743c92b62] of that Annex (and for the purposes of that point “express mail”[^c-f91832ccdb34f34bda6b4a331ea7fe89] includes first class post).
 
 (2) In relation to each sample the occupier must provide the following information—
 
@@ -124,7 +124,7 @@ When birds are moved on to or off a holding the occupier must record for each fl
 
 ## 8. Duties of the person in charge of a laboratory
 
-Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Commission Regulation ([^key-63542389b38124ba9063ff84f612c5d5]EU) No 200/2012 .
+Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Commission Regulation ([^c-63542389b38124ba9063ff84f612c5d5]EU) No 200/2012 .
 
 ## 9. Prohibition on the use of antimicrobials
 
@@ -152,7 +152,7 @@ If any person fails to take any action required by this Order, an inspector may 
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that the Secretary of State will enforce this Order instead of the local authority.
 
-(3)[^key-ed560eb12f8fdf349bec1503d7b23c36] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-ed560eb12f8fdf349bec1503d7b23c36] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 Jane Kennedy
 
@@ -178,21 +178,21 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under the Animal Health Act 1981 on “the Ministers” (as defined in section 86 of that Act) were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). The functions of the Secretary of State under the Animal Health Act 1981 are, so far as are exercisable in relation to Wales, vested in the Welsh Ministers. Those functions were transferred to the National Assembly for Wales constituted by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) article 2; see the entry in Schedule 1 for the Animal Health Act [1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22). By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers immediately after the end of the initial period as defined by section 161(5) of that Act. The functions of the Secretary of State under the Animal Health Act [1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22) are, so far as they are exercisable in relation to Scotland, vested in the Scottish Ministers by section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-1548f321d3c99ef70b9211dad42f67c8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/260/article/2) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/a)
+[^c-1548f321d3c99ef70b9211dad42f67c8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/260/article/2) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/a)
 
-[^key-b9fa8039524b03692cb11a5a94a6ee9f]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/uksi/2009/260/article/3/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/b)
+[^c-b9fa8039524b03692cb11a5a94a6ee9f]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/uksi/2009/260/article/3/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/b)
 
 [^f00003]: Footnote: OJ No L 212, 2.8.2006, p 3.
 
-[^key-6dc979bbce8e8b35e549a56a573197b1]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/260/article/5/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(c)(i)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/c/i)
+[^c-6dc979bbce8e8b35e549a56a573197b1]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/260/article/5/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(c)(i)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/c/i)
 
-[^key-a516f51625b3dc7ba314acf743c92b62]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/260/article/5/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(c)(ii)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/c/ii)
+[^c-a516f51625b3dc7ba314acf743c92b62]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/260/article/5/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(c)(ii)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/c/ii)
 
-[^key-f91832ccdb34f34bda6b4a331ea7fe89]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/260/article/5/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(c)(iii)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/c/iii)
+[^c-f91832ccdb34f34bda6b4a331ea7fe89]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/260/article/5/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(c)(iii)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/c/iii)
 
-[^key-63542389b38124ba9063ff84f612c5d5]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/2009/260/article/8) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(d)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/d)
+[^c-63542389b38124ba9063ff84f612c5d5]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/2009/260/article/8) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(d)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/d)
 
-[^key-ed560eb12f8fdf349bec1503d7b23c36]: Textual amendment: Art. 14(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(e)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/e)
+[^c-ed560eb12f8fdf349bec1503d7b23c36]: Textual amendment: Art. 14(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [28(e)](https://www.legislation.gov.uk/uksi/2012/2897/article/28/e)
 
 [^f00004]: Footnote: OJ No L 151, 13.6.2007, p 21.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Initial meeting[^key-2658c3803921860c356cc4e3f2e115de]
+## 27. Initial meeting[^c-2658c3803921860c356cc4e3f2e115de]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2658c3803921860c356cc4e3f2e115de]: Commencement: [Rule 27](https://www.legislation.gov.uk/nisr/2026/11/rule/27) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-2658c3803921860c356cc4e3f2e115de]: Commencement: [Rule 27](https://www.legislation.gov.uk/nisr/2026/11/rule/27) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

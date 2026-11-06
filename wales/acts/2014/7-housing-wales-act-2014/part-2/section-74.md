@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Circumstances in which the duty in section 73 ends[^key-97e42f832a8b12165330157b8fb65618]
+## 74. Circumstances in which the duty in section 73 ends[^c-97e42f832a8b12165330157b8fb65618]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97e42f832a8b12165330157b8fb65618]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2014/7/section/74) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 25](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/25)
+[^c-97e42f832a8b12165330157b8fb65618]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2014/7/section/74) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 25](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/25)

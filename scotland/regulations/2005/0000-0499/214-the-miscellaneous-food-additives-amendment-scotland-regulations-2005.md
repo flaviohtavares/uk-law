@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Miscellaneous Food Additives Amendment (Scotland) Regulations 2005 (revoked)[^key-b331ae5bb1601eb8282d8ab9d7dd1f36]
+The Miscellaneous Food Additives Amendment (Scotland) Regulations 2005 (revoked)[^c-b331ae5bb1601eb8282d8ab9d7dd1f36]
 
 Made
 
@@ -45,46 +45,46 @@ Coming into force
 
 5th May 2005
 
-[^key-b331ae5bb1601eb8282d8ab9d7dd1f36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b331ae5bb1601eb8282d8ab9d7dd1f36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-b331ae5bb1601eb8282d8ab9d7dd1f36]
+## 1. Citation, commencement and extent[^c-b331ae5bb1601eb8282d8ab9d7dd1f36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Miscellaneous Food Additives Regulations 1995[^key-b331ae5bb1601eb8282d8ab9d7dd1f36]
+## 2. Amendment to the Miscellaneous Food Additives Regulations 1995[^c-b331ae5bb1601eb8282d8ab9d7dd1f36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b331ae5bb1601eb8282d8ab9d7dd1f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b331ae5bb1601eb8282d8ab9d7dd1f36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b331ae5bb1601eb8282d8ab9d7dd1f36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b331ae5bb1601eb8282d8ab9d7dd1f36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b331ae5bb1601eb8282d8ab9d7dd1f36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b331ae5bb1601eb8282d8ab9d7dd1f36]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/214) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
+[^c-b331ae5bb1601eb8282d8ab9d7dd1f36]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/214) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)

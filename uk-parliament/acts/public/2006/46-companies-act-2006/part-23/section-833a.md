@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 833A. Distributions by insurance companies authorised under the Solvency 2 Directive[^key-55cac165fd3d27ec48a0a2b14a02048b]
+## 833A. Distributions by insurance companies authorised under the Solvency 2 Directive[^c-55cac165fd3d27ec48a0a2b14a02048b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ and, in each case, the value is to be determined as at the date of the company�
 - (c) if the value of the assets held by the company in a ring-fenced fund exceeds the value of the liabilities incurred by the company in respect of that fund, the amount of that excess;
 - (d) the amount of any liability of the company in respect of deferred tax shown in the company’s balance sheet that relates to any asset within paragraph (a), (b) or (c);
 - (e) if—
-  - (i) the company has permission to disapply or modify its rules in accordance with section 138BA of the Financial Services and Markets Act 2000, such that the company may apply[^key-1b0d244aa46ba70ab73b031382665271] a matching adjustment to a relevant risk-free interest rate term structure to calculate the best estimate of a portfolio of the company’s life insurance or reinsurance obligations, and
+  - (i) the company has permission to disapply or modify its rules in accordance with section 138BA of the Financial Services and Markets Act 2000, such that the company may apply[^c-1b0d244aa46ba70ab73b031382665271] a matching adjustment to a relevant risk-free interest rate term structure to calculate the best estimate of a portfolio of the company’s life insurance or reinsurance obligations, and
   - (ii) the value of the portfolio of the company’s assets assigned by the company to cover the best estimate exceeds the value of the portfolio of the company’s life insurance or reinsurance obligations,
 
   the amount of that excess; and
@@ -56,7 +56,7 @@ and, in each case, the value is to be determined as at the date of the company�
 
 (7) The company’s assets and liabilities must be valued in accordance with—
 
-- (a)[^key-5c012dea7f181dbd0031f1ffec1d76c9] Part 2 of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023 (prudential requirements),
+- (a)[^c-5c012dea7f181dbd0031f1ffec1d76c9] Part 2 of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023 (prudential requirements),
 - (b) rules made by the Prudential Regulation Authority under Part 9A of the Financial Services and Markets Act 2000 in relation to the matching adjustment referred to in subsection (5)(e)(i),
 - (c) other rules made by the Authority under that Part implementing Articles 75 to 85 and 308b to 308e of the Solvency 2 Directive, and
 - (d) Articles 7 to 52 and 55 to 61 of Commission Delegated [Regulation (EU) 2015/35](https://www.legislation.gov.uk/european/regulation/2015/0035) supplementing that Directive.
@@ -70,7 +70,7 @@ and, in applying paragraph (a) or (b), such apportionments of amounts referable 
 
 (9) In this section—
 
-- “best estimate”, “paid-in ordinary share capital”, “paid-in preference shares”, “relevant risk-free interest rate term structure” and “ring-fenced fund” have the same meaning as in rules made by the Prudential Regulation Authority under Part 9A of the Financial Services and Markets Act 2000, as they have effect from time to time;[^key-4be3765b07355e5a0555ff9c52d5e7ba]
+- “best estimate”, “paid-in ordinary share capital”, “paid-in preference shares”, “relevant risk-free interest rate term structure” and “ring-fenced fund” have the same meaning as in rules made by the Prudential Regulation Authority under Part 9A of the Financial Services and Markets Act 2000, as they have effect from time to time;[^c-4be3765b07355e5a0555ff9c52d5e7ba]
 - “defined benefit pension scheme” means a pension scheme (as defined by section 1(5) of the Pension Schemes Act 1993) which is a defined benefits scheme within the meaning given by section 2 of the Pension Schemes Act 2015;
 - “long-term business” means business that consists of effecting or carrying out contracts of long-term insurance (and this definition must be read with section 22 of the Financial Services and Markets Act 2000, any relevant order under that section and Schedule 2 to that Act);
 - “qualifying investment subsidiary” means an undertaking in which the company holds a participation within the meaning given by Article 13(20) of the Solvency 2 Directive and which is not held by the company as part of its portfolio of investments;
@@ -78,10 +78,10 @@ and, in applying paragraph (a) or (b), such apportionments of amounts referable 
 
 ## Annotations
 
-[^key-55cac165fd3d27ec48a0a2b14a02048b]: Textual amendment: S. 833A inserted (30.12.2016) by [The Companies Act 2006 (Distributions of Insurance Companies) Regulations 2016 (S.I. 2016/1194)](https://www.legislation.gov.uk/uksi/2016/1194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/2/4)
+[^c-55cac165fd3d27ec48a0a2b14a02048b]: Textual amendment: S. 833A inserted (30.12.2016) by [The Companies Act 2006 (Distributions of Insurance Companies) Regulations 2016 (S.I. 2016/1194)](https://www.legislation.gov.uk/uksi/2016/1194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/2/4)
 
-[^key-1b0d244aa46ba70ab73b031382665271]: Textual amendment: Words in s. 833A(5)(e)(i) substituted (1.11.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/a), [11(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/11/a)
+[^c-1b0d244aa46ba70ab73b031382665271]: Textual amendment: Words in s. 833A(5)(e)(i) substituted (1.11.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/a), [11(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/11/a)
 
-[^key-5c012dea7f181dbd0031f1ffec1d76c9]: Textual amendment: S. 833A(7)(a)-(d) substituted for s. 833A(7)(a)(b) (1.11.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/a), [11(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/11/b)
+[^c-5c012dea7f181dbd0031f1ffec1d76c9]: Textual amendment: S. 833A(7)(a)-(d) substituted for s. 833A(7)(a)(b) (1.11.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/a), [11(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/11/b)
 
-[^key-4be3765b07355e5a0555ff9c52d5e7ba]: Textual amendment: Words in s. 833A(9) substituted (1.11.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/a), [11(c)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/11/c)
+[^c-4be3765b07355e5a0555ff9c52d5e7ba]: Textual amendment: Words in s. 833A(9) substituted (1.11.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/a), [11(c)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/11/c)

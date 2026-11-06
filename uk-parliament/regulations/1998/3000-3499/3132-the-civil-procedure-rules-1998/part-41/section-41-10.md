@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.10. Assignment or charge[^key-a24167cbf6b840a838d5cc005de4ef42]
+## 41.10. Assignment or charge[^c-a24167cbf6b840a838d5cc005de4ef42]
 
 *Extent: E+W*
 
-Where the court under section 2(6)(a) of the 1996 Act is satisfied that special circumstances make an assignment or charge of periodical payments necessary, it shall, in deciding whether or not to approve the assignment or charge, also have regard to the factors set out in Practice Direction 41B[^key-3e78b2e344d42b81feb5e24d577d7e06].
+Where the court under section 2(6)(a) of the 1996 Act is satisfied that special circumstances make an assignment or charge of periodical payments necessary, it shall, in deciding whether or not to approve the assignment or charge, also have regard to the factors set out in Practice Direction 41B[^c-3e78b2e344d42b81feb5e24d577d7e06].
 
 ## Annotations
 
-[^key-a24167cbf6b840a838d5cc005de4ef42]: Textual amendment: Pt. 41 Section 2 inserted (1.4.2005) by [The Civil Procedure (Amendment No. 3) Rules 2004 (S.I. 2004/3129)](https://www.legislation.gov.uk/uksi/2004/3129), [rule 1](https://www.legislation.gov.uk/uksi/2004/3129/rule/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/3129/schedule/1/part/2)
+[^c-a24167cbf6b840a838d5cc005de4ef42]: Textual amendment: Pt. 41 Section 2 inserted (1.4.2005) by [The Civil Procedure (Amendment No. 3) Rules 2004 (S.I. 2004/3129)](https://www.legislation.gov.uk/uksi/2004/3129), [rule 1](https://www.legislation.gov.uk/uksi/2004/3129/rule/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/3129/schedule/1/part/2)
 
-[^key-3e78b2e344d42b81feb5e24d577d7e06]: Textual amendment: Words in rule 41.10 substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [21](https://www.legislation.gov.uk/uksi/2009/3390/rule/21)
+[^c-3e78b2e344d42b81feb5e24d577d7e06]: Textual amendment: Words in rule 41.10 substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [21](https://www.legislation.gov.uk/uksi/2009/3390/rule/21)

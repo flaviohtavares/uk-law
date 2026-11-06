@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Access to works and temporary highways alterations[^key-8816dce17c651055f88428522c759dc5]
+## 10. Access to works and temporary highways alterations[^c-8816dce17c651055f88428522c759dc5]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The undertaker may, for the purposes of the authorised project,—
 
 ## Annotations
 
-[^key-8816dce17c651055f88428522c759dc5]: Commencement: Art. 10 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-8816dce17c651055f88428522c759dc5]: Commencement: Art. 10 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

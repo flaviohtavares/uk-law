@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Meaning of “contributories”[^key-adb89d2bad2fe2b9b33a9c43860f0945]
+## 40. Meaning of “contributories”[^c-adb89d2bad2fe2b9b33a9c43860f0945]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, “**contributories**” does not include the bor
 
 ## Annotations
 
-[^key-adb89d2bad2fe2b9b33a9c43860f0945]: Commencement: Rule 40 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-adb89d2bad2fe2b9b33a9c43860f0945]: Commencement: Rule 40 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

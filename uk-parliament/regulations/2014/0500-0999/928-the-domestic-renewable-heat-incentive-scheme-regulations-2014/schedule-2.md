@@ -22,12 +22,12 @@ summary: ''
 
 Regulation 4
 
-**1.**[^key-9c19c32add96c9ba45b81a5bf714a8b1] The requirements set out in this Schedule are that a document (an “RHI emissions certificate”)—
+**1.**[^c-9c19c32add96c9ba45b81a5bf714a8b1] The requirements set out in this Schedule are that a document (an “RHI emissions certificate”)—
 
 - (a) is issued by a testing laboratory which is accredited to EN ISO/IEC 17025:2005[^f00052] at the time of testing; and
 - (b) contains the information specified in paragraph 2.
 
-**2.**[^key-ae8736b44ae66cb4821f3b59eae8e66e] The information referred to in paragraph 1(b) is—
+**2.**[^c-ae8736b44ae66cb4821f3b59eae8e66e] The information referred to in paragraph 1(b) is—
 
 - (a) the name and address of the testing laboratory by which tests have been carried out;
 - (b) the name and signature of the person authorised by the testing laboratory to issue the certificate;
@@ -50,9 +50,9 @@ Regulation 4
 - (l) a statement indicating whether or not the plant tested was a manually stoked natural draught plant;
 - (m) a list of plants, other than the plant tested, in the type-testing range of plants for the certificate, if any.
 
-**3.**[^key-f046e755f236544aa279cdf52fc928f9] For the purposes of paragraph 2(g), the requirements set out in this paragraph are that testing is carried out in accordance with the provisions relevant to emissions of PM and NOx in EN 303-5:1999[^f00053] or EN 303-5:2012[^f00054], whichever standard is current at the time of testing.
+**3.**[^c-f046e755f236544aa279cdf52fc928f9] For the purposes of paragraph 2(g), the requirements set out in this paragraph are that testing is carried out in accordance with the provisions relevant to emissions of PM and NOx in EN 303-5:1999[^f00053] or EN 303-5:2012[^f00054], whichever standard is current at the time of testing.
 
-**4.**[^key-c41a0f7e71403fb6146a57a104c38759] For the purposes of paragraph 2(g), the requirements set out in this paragraph are that—
+**4.**[^c-c41a0f7e71403fb6146a57a104c38759] For the purposes of paragraph 2(g), the requirements set out in this paragraph are that—
 
 - (a) testing is carried out in accordance with—
   - (i) EN 14792:2005[^f00055] for NOx emissions, and
@@ -60,23 +60,23 @@ Regulation 4
 - (b) the emissions of PM represent the average of at least three measurements of emissions of PM, each of at least 30 minutes duration; and
 - (c) the value for NOx emissions is derived from the average of measurements made throughout the PM emission tests.
 
-**5.**[^key-e4d96d88cbe7f937c6fb519fbcaf1615] For the purposes of paragraph 2(h), “net heat input” means the rate of heat (expressed as the amount of heat over time) which is supplied to the plant by the fuel used, based on the net calorific value of that fuel.
+**5.**[^c-e4d96d88cbe7f937c6fb519fbcaf1615] For the purposes of paragraph 2(h), “net heat input” means the rate of heat (expressed as the amount of heat over time) which is supplied to the plant by the fuel used, based on the net calorific value of that fuel.
 
 ## Annotations
 
-[^key-9c19c32add96c9ba45b81a5bf714a8b1]: Commencement: Sch. 2 para. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-9c19c32add96c9ba45b81a5bf714a8b1]: Commencement: Sch. 2 para. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
 [^f00052]: Footnote: The ISBN for the English language version of this standard is ISBN 0 580 46330 3. Copies can be obtained from the British Standards Institute at www.bsigroup.com.
 
-[^key-ae8736b44ae66cb4821f3b59eae8e66e]: Commencement: Sch. 2 para. 2 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-ae8736b44ae66cb4821f3b59eae8e66e]: Commencement: Sch. 2 para. 2 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-f046e755f236544aa279cdf52fc928f9]: Commencement: Sch. 2 para. 3 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-f046e755f236544aa279cdf52fc928f9]: Commencement: Sch. 2 para. 3 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
 [^f00053]: Footnote: The ISBN for the English language version of this standard is ISBN 0 580 323560 0. Copies can be obtained from the British Standards Institution at www.bsigroup.com.
 
 [^f00054]: Footnote: The ISBN for the English language version of this standard is ISBN 978 0 580 71785 7. Copies can be obtained from the British Standards Institution at www.bsigroup.com.
 
-[^key-c41a0f7e71403fb6146a57a104c38759]: Commencement: Sch. 2 para. 4 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-c41a0f7e71403fb6146a57a104c38759]: Commencement: Sch. 2 para. 4 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
 [^f00055]: Footnote: The ISBN for the English language version of this standard is ISBN 0 580 46990 5. Copies can be obtained from the British Standards Institution at www.bsigroup.com.
 
@@ -84,4 +84,4 @@ Regulation 4
 
 [^f00057]: Footnote: ISBN 0 580 41276 8. Copies can be obtained from the British Standards Institution at www.bsigroup.com.
 
-[^key-e4d96d88cbe7f937c6fb519fbcaf1615]: Commencement: Sch. 2 para. 5 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-e4d96d88cbe7f937c6fb519fbcaf1615]: Commencement: Sch. 2 para. 5 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

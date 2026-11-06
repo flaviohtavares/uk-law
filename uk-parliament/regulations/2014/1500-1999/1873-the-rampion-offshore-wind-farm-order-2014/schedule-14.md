@@ -24,7 +24,7 @@ Article 11
 
 ### PART 1 — Licensed marine activities
 
-**1.**[^key-bc03b17c16264ec40a0b7ef2394df73f] (1) In this licence—
+**1.**[^c-bc03b17c16264ec40a0b7ef2394df73f] (1) In this licence—
 
 - “the 2009 Act” means the Marine and Coastal Access Act 2009;
 - “Annex 1 Habitat” means such habitat as defined under the EU Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the Conservation of Natural Habitats and of Wild Fauna and Flora;
@@ -179,7 +179,7 @@ Article 11
 
   Tel: 01224 266 550.
 
-#### 2. Details of licensed marine activities[^key-4358e6403f3a63d4e463c8503f92a52f]
+#### 2. Details of licensed marine activities[^c-4358e6403f3a63d4e463c8503f92a52f]
 
 (1) This licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities under section 66(1) of the 2009 Act, subject to the conditions—
 
@@ -208,7 +208,7 @@ and in connection with such Work No. 3A, works comprising—
 - (f) material extracted from within the Order limits seaward of MHWS during construction drilling or seabed preparation;
 - (g) marine coatings, other chemicals (where in accordance with condition 5(1)) and timber.
 
-**3.**[^key-42f894f3885b2382ca42b919a5452a33] The grid coordinates for the authorised scheme are specified below—
+**3.**[^c-42f894f3885b2382ca42b919a5452a33] The grid coordinates for the authorised scheme are specified below—
 
 Coordinates for the Order limits seaward of MHWS
 
@@ -233,15 +233,15 @@ Coordinates for the Order limits seaward of MHWS
 | 17 | 50° 45′ 11.46 N | 000° 14′ 39.33 W |
 | 18 | 50° 41′ 42.91 N | 000° 10′ 03.13 W |
 
-**4.**[^key-983b987bc933d9c4dd5b2921bab87117] This licence shall remain in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 of the 2004 Act, including any modification to the programme under section 108 of that Act, and the completion of such programme has been confirmed by the Secretary of State in writing.
+**4.**[^c-983b987bc933d9c4dd5b2921bab87117] This licence shall remain in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 of the 2004 Act, including any modification to the programme under section 108 of that Act, and the completion of such programme has been confirmed by the Secretary of State in writing.
 
-**5.**[^key-e97cd110d21ac0ebdd4a0680799f4e15] The provisions of Section 72 of the 2009 Act shall apply to this licence save that the provisions of Section 72(7) relating to the transfer of the licence shall only apply to a transfer not falling within article 7 of the Order (benefit of the Order).
+**5.**[^c-e97cd110d21ac0ebdd4a0680799f4e15] The provisions of Section 72 of the 2009 Act shall apply to this licence save that the provisions of Section 72(7) relating to the transfer of the licence shall only apply to a transfer not falling within article 7 of the Order (benefit of the Order).
 
-**6.**[^key-0c862339b0d649728c243764a7fae9a0] Where the words ‘unless otherwise agreed’ or ‘unless otherwise stated’ appear in the conditions in Part 2, any such agreement or statement may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of MMO that the subject matter of the approval or agreement sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
+**6.**[^c-0c862339b0d649728c243764a7fae9a0] Where the words ‘unless otherwise agreed’ or ‘unless otherwise stated’ appear in the conditions in Part 2, any such agreement or statement may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of MMO that the subject matter of the approval or agreement sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
 ### PART 2 — Conditions
 
-#### 1. Design parameters[^key-934c463e21a9724d642840febcc17e97]
+#### 1. Design parameters[^c-934c463e21a9724d642840febcc17e97]
 
 (1) The total length of the cables comprising Work No. 3A shall not exceed 92 kilometres.
 
@@ -256,7 +256,7 @@ Coordinates for the Order limits seaward of MHWS
 | 23 | 50° 43′ 59.56 N | 000° 17′ 23.22 W |
 | 24 | 50° 43′ 59.47 N | 000° 13′ 03.88 W |
 
-#### 2. Notifications and inspections[^key-e97c68da38662637ea27f79bd0e8e070]
+#### 2. Notifications and inspections[^c-e97c68da38662637ea27f79bd0e8e070]
 
 (1) The undertaker shall ensure that—
 
@@ -290,13 +290,13 @@ Coordinates for the Order limits seaward of MHWS
 - (a) the Hydrographic Office of both the commencement (within two weeks), progress and completion (within two weeks) of the authorised scheme in order that all necessary amendments to nautical charts are made; and
 - (b) the MMO, MCA and Trinity House within two weeks once the authorised scheme is completed and any required lighting or marking has been established.
 
-#### 3. Navigational practice, safety and emergency response[^key-ef12be66fc624e5a83ced246c256a0da]
+#### 3. Navigational practice, safety and emergency response[^c-ef12be66fc624e5a83ced246c256a0da]
 
 (1) No part of the authorised scheme shall commence until the Secretary of State, in consultation with the MCA, has confirmed in writing that the undertaker has taken into account and adequately addressed all MCA recommendations contained within MGN 371 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues” and its annexes including full details of the Emergency Co-operation Plans (ERCoP) for the construction, operation and decommissioning as appropriate to the authorised scheme.
 
 (2) The undertaker will prepare and implement a project-specific Active Safety Management System, taking account of safety and mitigation measures as referred to in the navigation risk assessment in the environmental statement.
 
-#### 4. Aids to navigation[^key-e3f21766922bcd2207c5b255fb213ddc]
+#### 4. Aids to navigation[^c-e3f21766922bcd2207c5b255fb213ddc]
 
 (1) The undertaker shall at or near the authorised scheme during the whole period of the construction, operation, alteration, replacement or decommissioning of the authorised scheme exhibit such lights, marks, sounds, signals and other aids to navigation, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct.
 
@@ -308,7 +308,7 @@ Coordinates for the Order limits seaward of MHWS
 
 (5) In case of injury to, or destruction or decay of, the authorised scheme or any part thereof the undertaker shall as soon as reasonably practicable notify Trinity House and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House may from time to time direct.
 
-#### 5. Chemicals, drilling and debris[^key-8715e03b1469a236c384c0b5ba26a93e]
+#### 5. Chemicals, drilling and debris[^c-8715e03b1469a236c384c0b5ba26a93e]
 
 (1) Unless otherwise agreed in writing by the MMO all chemicals used in the construction of the authorised scheme shall be selected from the List of Notified Chemicals approved for use by the offshore oil and gas industry under the Offshore Chemicals Regulations 2002.
 
@@ -344,13 +344,13 @@ any new obstructions that the MMO believes to be associated with the authorised 
 
 (11) The undertaker shall ensure that any oil, fuel or chemical spill within the marine environment is reported to the MMO, Marine Pollution Response Team.
 
-#### 6. Force majeure[^key-f19c372da853bc6923c246a71f02cf4c]
+#### 6. Force majeure[^c-f19c372da853bc6923c246a71f02cf4c]
 
 (1) If, due to stress of weather or any other cause the master of a vessel determines that it is necessary to deposit the authorised deposits outside of the Order limits because the safety of human life and/or of the vessel is threatened, within 48 hours full details of the circumstances of the deposit shall be notified to the MMO.
 
 (2) The unauthorised deposits shall be removed at the expense of the undertaker unless written approval is obtained from the MMO.
 
-#### 7. Pre-construction plans and documentation[^key-1b84cdda4d8239a6320c8ac322685e13]
+#### 7. Pre-construction plans and documentation[^c-1b84cdda4d8239a6320c8ac322685e13]
 
 (1) No part of the works at paragraph 2(2) of Part 1 (licensed marine activities) of this licence shall commence until the following (as relevant to that Part) have been submitted to and approved in writing by the MMO—
 
@@ -400,13 +400,13 @@ any new obstructions that the MMO believes to be associated with the authorised 
 
 (2) Before approving the design plan required to be submitted under paragraph (1)(a), the MMO must consult with Trinity House and the MCA.
 
-**8.**[^key-00831d296510f9f78d16e80ace174926] (1) Any archaeological reports produced in accordance with condition 7(1)(g)(iii) are to be agreed with English Heritage (and, if relevant West Sussex County Council).
+**8.**[^c-00831d296510f9f78d16e80ace174926] (1) Any archaeological reports produced in accordance with condition 7(1)(g)(iii) are to be agreed with English Heritage (and, if relevant West Sussex County Council).
 
 (2) Each programme, statement, plan, protocol or scheme required to be approved under condition 7 shall be submitted for approval at least four months prior to the intended start of construction, except where otherwise stated or unless otherwise agreed in writing by the MMO.
 
 (3) The licensed activities shall be carried out in accordance with the approved plans, protocols, statements, schemes and details approved under condition 7, unless otherwise agreed in writing by the MMO.
 
-#### 9. Reporting of engaged agents, contractors and vessels[^key-12aa9e8612954423b086fc7bccec7902]
+#### 9. Reporting of engaged agents, contractors and vessels[^c-12aa9e8612954423b086fc7bccec7902]
 
 (1) The undertaker shall provide the following information to the MMO—
 
@@ -415,7 +415,7 @@ any new obstructions that the MMO believes to be associated with the authorised 
 
 (2) Any changes to the supplied details shall be notified to the MMO in writing prior to the agent, contractor or vessel engaging in the licensed activities.
 
-#### 10. Equipment and operation of vessels engaged in licensed activities[^key-bd56ce211a2bce230537eb906b1a005e]
+#### 10. Equipment and operation of vessels engaged in licensed activities[^c-bd56ce211a2bce230537eb906b1a005e]
 
 (1) All vessels employed to perform the licensed activities shall be constructed and equipped to be capable of the proper performance of such activities in accordance with the conditions of this licence and (save in the case of remotely operated vehicles or vessels) shall comply with paragraphs (2) to (7) below.
 
@@ -436,7 +436,7 @@ any new obstructions that the MMO believes to be associated with the authorised 
 
 (7) No vessel shall engage in the licensed activities until all the equipment specified in paragraph (2) is fully operational.
 
-#### 11. Pre-construction monitoring and surveys[^key-247efd2c69eda6b77397c179db99a22d]
+#### 11. Pre-construction monitoring and surveys[^c-247efd2c69eda6b77397c179db99a22d]
 
 (1) The undertaker shall, in discharging condition 7(1)(b), submit details for written approval by the MMO in consultation with Natural England and JNCC of proposed pre-construction surveys, including methodologies and timings, and a proposed format and content for a pre-construction baseline report and—
 
@@ -453,13 +453,13 @@ any new obstructions that the MMO believes to be associated with the authorised 
 
 (3) The undertaker shall carry out the surveys agreed under paragraph (1) and provide the baseline report to the MMO in the agreed format in accordance with the agreed timetable, unless otherwise agreed in writing by the MMO in consultation with Natural England and JNCC.
 
-#### 12. Construction monitoring[^key-ff38d21be6c54bc99c43a544f5c0ec5b]
+#### 12. Construction monitoring[^c-ff38d21be6c54bc99c43a544f5c0ec5b]
 
 (1) Unless otherwise agreed, the undertaker shall, in discharging condition 7(1)(b), submit details for approval by the MMO in consultation with Natural England and JNCC of any proposed surveys or monitoring, including methodologies and timings, to be carried out during the construction of the authorised scheme, and the survey proposals shall specify each survey’s objectives.
 
 (2) The undertaker shall carry out the surveys approved under paragraph (1) and provide the agreed reports in the agreed format in accordance with the agreed timetable, unless otherwise agreed in writing with the MMO in consultation with Natural England and JNCC.
 
-#### 13. Post construction surveys[^key-807df0562ef384b67978016852a5e395]
+#### 13. Post construction surveys[^c-807df0562ef384b67978016852a5e395]
 
 (1) The undertaker shall, in discharging condition 7(1)(b), submit details for written approval by the MMO in consultation with Natural England and JNCC of proposed post-construction surveys, including methodologies and timings, and a proposed format, content and timings for providing reports on the results at least four months prior to the commencement of any survey works detailed within.
 
@@ -475,13 +475,13 @@ any new obstructions that the MMO believes to be associated with the authorised 
 
 (4) The undertaker shall carry out the surveys agreed under paragraph (1) for 3 years post-construction, which may be non-consecutive years, and provide the agreed reports in the agreed format in accordance with the agreed timetable, unless otherwise agreed in writing with the MMO in consultation with Natural England and JNCC.
 
-#### 14. Decommissioning[^key-1c3622e651a4a95c894a9f0659c8501d]
+#### 14. Decommissioning[^c-1c3622e651a4a95c894a9f0659c8501d]
 
 (1) This licence does not permit the decommissioning of the authorised scheme, and no authorised decommissioning activity shall commence until a decommissioning programme in accordance with an approved programme under Section 105(2) of the 2004 Act has been submitted to the Secretary of State for approval.
 
 (2) At least four months prior to carrying out any proposed decommissioning activity the undertaker shall notify the MMO of the works to establish whether a marine licence is required.
 
-#### 15. Monitoring of shoreline sediment morphology[^key-c98fc4ac406cb65e574cbbd016d61fb6]
+#### 15. Monitoring of shoreline sediment morphology[^c-c98fc4ac406cb65e574cbbd016d61fb6]
 
 (1) The undertaker shall carry out monitoring of shoreline sediment morphology during operation of the export cables, unless otherwise agreed with the MMO in consultation with Natural England and JNCC.
 
@@ -489,44 +489,44 @@ any new obstructions that the MMO believes to be associated with the authorised 
 
 ## Annotations
 
-[^key-bc03b17c16264ec40a0b7ef2394df73f]: Commencement: Sch. 14 Pt. 1 para. 1 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-bc03b17c16264ec40a0b7ef2394df73f]: Commencement: Sch. 14 Pt. 1 para. 1 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-4358e6403f3a63d4e463c8503f92a52f]: Commencement: Sch. 14 Pt. 1 para. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-4358e6403f3a63d4e463c8503f92a52f]: Commencement: Sch. 14 Pt. 1 para. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-42f894f3885b2382ca42b919a5452a33]: Commencement: Sch. 14 Pt. 1 para. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-42f894f3885b2382ca42b919a5452a33]: Commencement: Sch. 14 Pt. 1 para. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-983b987bc933d9c4dd5b2921bab87117]: Commencement: Sch. 14 Pt. 1 para. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-983b987bc933d9c4dd5b2921bab87117]: Commencement: Sch. 14 Pt. 1 para. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-e97cd110d21ac0ebdd4a0680799f4e15]: Commencement: Sch. 14 Pt. 1 para. 5 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-e97cd110d21ac0ebdd4a0680799f4e15]: Commencement: Sch. 14 Pt. 1 para. 5 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-0c862339b0d649728c243764a7fae9a0]: Commencement: Sch. 14 Pt. 1 para. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-0c862339b0d649728c243764a7fae9a0]: Commencement: Sch. 14 Pt. 1 para. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-934c463e21a9724d642840febcc17e97]: Commencement: Sch. 14 Pt. 2 para. 1 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-934c463e21a9724d642840febcc17e97]: Commencement: Sch. 14 Pt. 2 para. 1 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-e97c68da38662637ea27f79bd0e8e070]: Commencement: Sch. 14 Pt. 2 para. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-e97c68da38662637ea27f79bd0e8e070]: Commencement: Sch. 14 Pt. 2 para. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-ef12be66fc624e5a83ced246c256a0da]: Commencement: Sch. 14 Pt. 2 para. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-ef12be66fc624e5a83ced246c256a0da]: Commencement: Sch. 14 Pt. 2 para. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-e3f21766922bcd2207c5b255fb213ddc]: Commencement: Sch. 14 Pt. 2 para. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-e3f21766922bcd2207c5b255fb213ddc]: Commencement: Sch. 14 Pt. 2 para. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-8715e03b1469a236c384c0b5ba26a93e]: Commencement: Sch. 14 Pt. 2 para. 5 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-8715e03b1469a236c384c0b5ba26a93e]: Commencement: Sch. 14 Pt. 2 para. 5 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-f19c372da853bc6923c246a71f02cf4c]: Commencement: Sch. 14 Pt. 2 para. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-f19c372da853bc6923c246a71f02cf4c]: Commencement: Sch. 14 Pt. 2 para. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-1b84cdda4d8239a6320c8ac322685e13]: Commencement: Sch. 14 Pt. 2 para. 7 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-1b84cdda4d8239a6320c8ac322685e13]: Commencement: Sch. 14 Pt. 2 para. 7 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-00831d296510f9f78d16e80ace174926]: Commencement: Sch. 14 Pt. 2 para. 8 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-00831d296510f9f78d16e80ace174926]: Commencement: Sch. 14 Pt. 2 para. 8 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-12aa9e8612954423b086fc7bccec7902]: Commencement: Sch. 14 Pt. 2 para. 9 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-12aa9e8612954423b086fc7bccec7902]: Commencement: Sch. 14 Pt. 2 para. 9 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-bd56ce211a2bce230537eb906b1a005e]: Commencement: Sch. 14 Pt. 2 para. 10 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-bd56ce211a2bce230537eb906b1a005e]: Commencement: Sch. 14 Pt. 2 para. 10 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-247efd2c69eda6b77397c179db99a22d]: Commencement: Sch. 14 Pt. 2 para. 11 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-247efd2c69eda6b77397c179db99a22d]: Commencement: Sch. 14 Pt. 2 para. 11 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-ff38d21be6c54bc99c43a544f5c0ec5b]: Commencement: Sch. 14 Pt. 2 para. 12 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-ff38d21be6c54bc99c43a544f5c0ec5b]: Commencement: Sch. 14 Pt. 2 para. 12 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-807df0562ef384b67978016852a5e395]: Commencement: Sch. 14 Pt. 2 para. 13 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-807df0562ef384b67978016852a5e395]: Commencement: Sch. 14 Pt. 2 para. 13 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-1c3622e651a4a95c894a9f0659c8501d]: Commencement: Sch. 14 Pt. 2 para. 14 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-1c3622e651a4a95c894a9f0659c8501d]: Commencement: Sch. 14 Pt. 2 para. 14 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-c98fc4ac406cb65e574cbbd016d61fb6]: Commencement: Sch. 14 Pt. 2 para. 15 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-c98fc4ac406cb65e574cbbd016d61fb6]: Commencement: Sch. 14 Pt. 2 para. 15 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

@@ -44,21 +44,21 @@ Coming into force
 
 20th August 2008
 
-[^key-44364c1032eb814c33236ab0bd0f1920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44364c1032eb814c33236ab0bd0f1920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-44364c1032eb814c33236ab0bd0f1920]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment to the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-44364c1032eb814c33236ab0bd0f1920]
+## 1. Citation and commencement[^c-44364c1032eb814c33236ab0bd0f1920]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-44364c1032eb814c33236ab0bd0f1920]
+## 2. Amendment to the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-44364c1032eb814c33236ab0bd0f1920]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3.[^c-44364c1032eb814c33236ab0bd0f1920]
 
 **May not be in force at this date. Check the source.**
 
@@ -66,10 +66,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-44364c1032eb814c33236ab0bd0f1920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44364c1032eb814c33236ab0bd0f1920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44364c1032eb814c33236ab0bd0f1920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44364c1032eb814c33236ab0bd0f1920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44364c1032eb814c33236ab0bd0f1920]: Textual amendment: Instrument revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(i)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/i), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-44364c1032eb814c33236ab0bd0f1920]: Textual amendment: Instrument revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(i)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/i), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))

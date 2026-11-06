@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Disposal of land acquired under this Chapter[^key-4ff67130f02fbe2cf25dde1626f881b2][^key-273c7805fc942148b9b8ea2246c72498]
+## 54. Disposal of land acquired under this Chapter[^c-4ff67130f02fbe2cf25dde1626f881b2][^c-273c7805fc942148b9b8ea2246c72498]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ff67130f02fbe2cf25dde1626f881b2]: Commencement: S. 54 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4ff67130f02fbe2cf25dde1626f881b2]: Commencement: S. 54 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-273c7805fc942148b9b8ea2246c72498]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2023/3/section/54) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-273c7805fc942148b9b8ea2246c72498]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2023/3/section/54) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

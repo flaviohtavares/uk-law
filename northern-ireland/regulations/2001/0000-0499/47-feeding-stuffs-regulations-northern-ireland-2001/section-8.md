@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Assigned meanings[^key-16cf7c7774cbef239d710abd4f62f541]
+## 8. Assigned meanings[^c-16cf7c7774cbef239d710abd4f62f541]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ For the purposes of section 70, there shall be assigned to the expressions “co
 
 ## Annotations
 
-[^key-16cf7c7774cbef239d710abd4f62f541]: Commencement: Reg. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-16cf7c7774cbef239d710abd4f62f541]: Commencement: Reg. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

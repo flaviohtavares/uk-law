@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Abolition of the Competition Commission and the OFT[^key-e72ced2a46349c3cc1cbacee18bee6e0]
+## 26. Abolition of the Competition Commission and the OFT[^c-e72ced2a46349c3cc1cbacee18bee6e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e72ced2a46349c3cc1cbacee18bee6e0]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2013/24/section/26) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e72ced2a46349c3cc1cbacee18bee6e0]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2013/24/section/26) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.7. When judgment or order takes effect[^key-90fe7d3cfd6748d99ce69529a49ab0a0]
+## 40.7. When judgment or order takes effect[^c-90fe7d3cfd6748d99ce69529a49ab0a0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90fe7d3cfd6748d99ce69529a49ab0a0]: Commencement: [Rule 40.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-90fe7d3cfd6748d99ce69529a49ab0a0]: Commencement: [Rule 40.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

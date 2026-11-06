@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Mandatory licence conditions[^key-a4240536b936ba381197feeb3d1066c8][^key-ad612512033f960051139bfc6b2a93d8]
+## 20. Mandatory licence conditions[^c-a4240536b936ba381197feeb3d1066c8][^c-ad612512033f960051139bfc6b2a93d8]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Schedule 5—
 
 ## Annotations
 
-[^key-a4240536b936ba381197feeb3d1066c8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/21/section/20) in force at Royal Assent for specified purposes, see [s. 100(2)(c)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/c/g)
+[^c-a4240536b936ba381197feeb3d1066c8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/21/section/20) in force at Royal Assent for specified purposes, see [s. 100(2)(c)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/c/g)
 
-[^key-ad612512033f960051139bfc6b2a93d8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/21/section/20) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/vi)
+[^c-ad612512033f960051139bfc6b2a93d8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/21/section/20) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/vi)

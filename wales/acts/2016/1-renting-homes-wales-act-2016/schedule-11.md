@@ -24,7 +24,7 @@ summary: ''
 
 ### Introductory
 
-**1.**[^key-4c39be7b1e2d32bc32f220cb37109675] (1) This Schedule applies for the purposes of—
+**1.**[^c-4c39be7b1e2d32bc32f220cb37109675] (1) This Schedule applies for the purposes of—
 
 - (a) an order for possession under section 210 (estate management grounds), or
 - (b) an order under section 222(3)(b) (appeal following possession for abandonment).
@@ -33,7 +33,7 @@ summary: ''
 
 ### Estate management grounds: certificate of local housing authority
 
-**2.**[^key-e2e2764ea87365e09d1cec2b737b9929] (1) This paragraph applies if—
+**2.**[^c-e2e2764ea87365e09d1cec2b737b9929] (1) This paragraph applies if—
 
 - (a) this Schedule applies because of section 210, and
 - (b) the landlord under the existing contract is not a local housing authority.
@@ -42,7 +42,7 @@ summary: ''
 
 ### Suitable accommodation
 
-**3.**[^key-785929e0f525fce857e7334445070802] (1) This paragraph applies if—
+**3.**[^c-785929e0f525fce857e7334445070802] (1) This paragraph applies if—
 
 - (a) this Schedule applies because of section 210 and either—
   - (i) no certificate of the kind mentioned in paragraph 2(2) is produced to the court, or
@@ -58,7 +58,7 @@ summary: ''
 
 ### Needs of contract-holder and his or her family
 
-**4.**[^key-2ab92238d895ecb5924753f01bbd2fc6] (1) The court must determine whether accommodation is reasonably suitable in relation to the needs of the contract-holder and his or her family in accordance with this paragraph.
+**4.**[^c-2ab92238d895ecb5924753f01bbd2fc6] (1) The court must determine whether accommodation is reasonably suitable in relation to the needs of the contract-holder and his or her family in accordance with this paragraph.
 
 (2) The court must consider (among other things)—
 
@@ -87,25 +87,25 @@ is to be conclusive evidence of the facts so stated.
 
 ### Overcrowding
 
-**5.**[^key-914f484619cbdfff8971402cfb33e36c] Accommodation is not suitable to the needs of the contract-holder and his or her family if, as a result of their occupation of the accommodation, the accommodation would constitute an overcrowded dwelling for the purposes of Part 10 of the Housing Act 1985 (c. 68) (see section 324 of that Act).
+**5.**[^c-914f484619cbdfff8971402cfb33e36c] Accommodation is not suitable to the needs of the contract-holder and his or her family if, as a result of their occupation of the accommodation, the accommodation would constitute an overcrowded dwelling for the purposes of Part 10 of the Housing Act 1985 (c. 68) (see section 324 of that Act).
 
 ### Evidence of certificate of local housing authority
 
-**6.**[^key-202f1f09dc034ed35b654abbe1282f26] A document that purports to be a certificate of the local housing authority named in the certificate, issued for the purposes of this Schedule, and signed by the proper person on behalf of the authority—
+**6.**[^c-202f1f09dc034ed35b654abbe1282f26] A document that purports to be a certificate of the local housing authority named in the certificate, issued for the purposes of this Schedule, and signed by the proper person on behalf of the authority—
 
 - (a) is to be received in evidence, and
 - (b) unless the contrary is shown, is to be treated as such a certificate without further proof.
 
 ## Annotations
 
-[^key-4c39be7b1e2d32bc32f220cb37109675]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4c39be7b1e2d32bc32f220cb37109675]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-e2e2764ea87365e09d1cec2b737b9929]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-e2e2764ea87365e09d1cec2b737b9929]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-785929e0f525fce857e7334445070802]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-785929e0f525fce857e7334445070802]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-2ab92238d895ecb5924753f01bbd2fc6]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-2ab92238d895ecb5924753f01bbd2fc6]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-914f484619cbdfff8971402cfb33e36c]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-914f484619cbdfff8971402cfb33e36c]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-202f1f09dc034ed35b654abbe1282f26]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-202f1f09dc034ed35b654abbe1282f26]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/11/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

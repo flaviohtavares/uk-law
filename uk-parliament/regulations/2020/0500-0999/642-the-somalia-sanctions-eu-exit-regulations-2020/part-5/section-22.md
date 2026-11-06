@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Supply and delivery of goods[^key-cbcc1955769c0c74ffb340f9b3ae6f31]
+## 22. Supply and delivery of goods[^c-cbcc1955769c0c74ffb340f9b3ae6f31]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbcc1955769c0c74ffb340f9b3ae6f31]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-cbcc1955769c0c74ffb340f9b3ae6f31]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

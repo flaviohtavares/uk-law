@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60B. Coasting schools[^key-96d61c4e3ce05798c71ba3d248418441][^key-435d1eb0870123b9aacfef7a97258f8d][^key-8d5237453ed92ecbac2c6524d2f3e471][^key-5d763e131f61ba27abc360faab1df150]
+## 60B. Coasting schools[^c-96d61c4e3ce05798c71ba3d248418441][^c-435d1eb0870123b9aacfef7a97258f8d][^c-8d5237453ed92ecbac2c6524d2f3e471][^c-5d763e131f61ba27abc360faab1df150]
 
 *Extent: E+W*
 
@@ -31,10 +31,10 @@ summary: ''
 
 ## Annotations
 
-[^key-96d61c4e3ce05798c71ba3d248418441]: Modification: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) excluded (11.1.2017) by [The Coasting Schools (England) Regulations 2017 (S.I. 2017/9)](https://www.legislation.gov.uk/uksi/2017/9), [regs. 1](https://www.legislation.gov.uk/uksi/2017/9/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2017/9/regulation/3/1)
+[^c-96d61c4e3ce05798c71ba3d248418441]: Modification: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) excluded (11.1.2017) by [The Coasting Schools (England) Regulations 2017 (S.I. 2017/9)](https://www.legislation.gov.uk/uksi/2017/9), [regs. 1](https://www.legislation.gov.uk/uksi/2017/9/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2017/9/regulation/3/1)
 
-[^key-435d1eb0870123b9aacfef7a97258f8d]: Modification: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) excluded (1.9.2022) by [The Coasting Schools (England) Regulations 2022 (S.I. 2022/720)](https://www.legislation.gov.uk/uksi/2022/720), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/720/regulation/3)
+[^c-435d1eb0870123b9aacfef7a97258f8d]: Modification: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) excluded (1.9.2022) by [The Coasting Schools (England) Regulations 2022 (S.I. 2022/720)](https://www.legislation.gov.uk/uksi/2022/720), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/720/regulation/3)
 
-[^key-8d5237453ed92ecbac2c6524d2f3e471]: Modification: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) applied (with modifications) (1.9.2022) by S.I. 2007/2979, Sch. 1 para. 22A (as inserted by [The Coasting Schools (England) Regulations 2022 (S.I. 2022/720)](https://www.legislation.gov.uk/uksi/2022/720), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2022/720/regulation/6/2/a))
+[^c-8d5237453ed92ecbac2c6524d2f3e471]: Modification: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) applied (with modifications) (1.9.2022) by S.I. 2007/2979, Sch. 1 para. 22A (as inserted by [The Coasting Schools (England) Regulations 2022 (S.I. 2022/720)](https://www.legislation.gov.uk/uksi/2022/720), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2022/720/regulation/6/2/a))
 
-[^key-5d763e131f61ba27abc360faab1df150]: Textual amendment: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) inserted (5.9.2016 for specified purposes, 11.1.2017 in so far as not already in force) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2016/6/section/1/3), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/866](https://www.legislation.gov.uk/uksi/2016/866), [reg. 2](https://www.legislation.gov.uk/uksi/2016/866/regulation/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/a)
+[^c-5d763e131f61ba27abc360faab1df150]: Textual amendment: [S. 60B](https://www.legislation.gov.uk/ukpga/2006/40/section/60B) inserted (5.9.2016 for specified purposes, 11.1.2017 in so far as not already in force) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2016/6/section/1/3), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/866](https://www.legislation.gov.uk/uksi/2016/866), [reg. 2](https://www.legislation.gov.uk/uksi/2016/866/regulation/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/a)

@@ -32,7 +32,7 @@ summary: ''
 - “**advance information**” has the meaning given by rule 30(2);
 - “**bad character**” has the meaning given by section 98 of the 2003 Act;
 - “**civilian police force**” means a UK police force or a British overseas territory police force;
-- “the complainant”, in relation to any offence (or alleged offence), means a person against or in relation to whom the offence was (or is alleged to have been) committed;[^key-ba6c576492d69769230e9b765779e858]
+- “the complainant”, in relation to any offence (or alleged offence), means a person against or in relation to whom the offence was (or is alleged to have been) committed;[^c-ba6c576492d69769230e9b765779e858]
 - “**the court**” means the Service Civilian Court;
 - “**DX**” means document exchange;
 - “**detention and training order**” means an order under section 211;
@@ -55,4 +55,4 @@ summary: ''
 
 [^c19687701]: Marginal citation: [S.I. 2009/988](https://www.legislation.gov.uk/uksi/2009/988).
 
-[^key-ba6c576492d69769230e9b765779e858]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2009/1209/rule/3/2) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [14](https://www.legislation.gov.uk/uksi/2015/1812/rule/14)
+[^c-ba6c576492d69769230e9b765779e858]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2009/1209/rule/3/2) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [14](https://www.legislation.gov.uk/uksi/2015/1812/rule/14)

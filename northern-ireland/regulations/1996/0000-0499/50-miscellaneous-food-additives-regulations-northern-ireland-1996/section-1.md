@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-1c8ac78581d4aa393121895c39d00520]
+## 1. Citation and commencement[^c-1c8ac78581d4aa393121895c39d00520]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Miscellaneous Food Additives Regulations (
 
 ## Annotations
 
-[^key-1c8ac78581d4aa393121895c39d00520]: Commencement: Reg. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1c8ac78581d4aa393121895c39d00520]: Commencement: Reg. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

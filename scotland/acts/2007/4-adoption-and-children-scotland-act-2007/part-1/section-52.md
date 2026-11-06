@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Regulations about reviews of adoption support plans[^key-a2eb1112c996f06008fd6aa7f186810d]
+## 52. Regulations about reviews of adoption support plans[^c-a2eb1112c996f06008fd6aa7f186810d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations make provision for or in connection wi
 
 ## Annotations
 
-[^key-a2eb1112c996f06008fd6aa7f186810d]: Commencement: S. 52 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-a2eb1112c996f06008fd6aa7f186810d]: Commencement: S. 52 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

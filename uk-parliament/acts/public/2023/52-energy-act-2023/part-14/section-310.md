@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310. Publication of three-year strategy plan[^key-f068ed2bed2afd65357a2c0b24a001db][^key-bbff6e89c7986779e2acf38b543a7ae6]
+## 310. Publication of three-year strategy plan[^c-f068ed2bed2afd65357a2c0b24a001db][^c-bbff6e89c7986779e2acf38b543a7ae6]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f068ed2bed2afd65357a2c0b24a001db]: Commencement: S. 310 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-f068ed2bed2afd65357a2c0b24a001db]: Commencement: S. 310 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-bbff6e89c7986779e2acf38b543a7ae6]: Commencement: [S. 310](https://www.legislation.gov.uk/ukpga/2023/52/section/310) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/c)
+[^c-bbff6e89c7986779e2acf38b543a7ae6]: Commencement: [S. 310](https://www.legislation.gov.uk/ukpga/2023/52/section/310) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124ZB. Proceedings etc. of higher education corporations in England[^key-4ac7f6c3a1d1d67a5d2927c35c890a24]
+## 124ZB. Proceedings etc. of higher education corporations in England[^c-4ac7f6c3a1d1d67a5d2927c35c890a24]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac7f6c3a1d1d67a5d2927c35c890a24]: Textual amendment: SS. 124ZA, 124ZB inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/8); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)
+[^c-4ac7f6c3a1d1d67a5d2927c35c890a24]: Textual amendment: SS. 124ZA, 124ZB inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/8); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)

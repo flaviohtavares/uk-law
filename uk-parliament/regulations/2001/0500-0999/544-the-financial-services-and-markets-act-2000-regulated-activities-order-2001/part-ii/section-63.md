@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Administration pursuant to agreement with authorised person[^key-6661d9526e85421527acff4a93e700c4]
+## 63. Administration pursuant to agreement with authorised person[^c-6661d9526e85421527acff4a93e700c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who is not an authorised person does not carry on an activity of the ki
 
 ## Annotations
 
-[^key-6661d9526e85421527acff4a93e700c4]: Commencement: Art. 63 in force at 31.10.2004, see art. 1(2)(b) (as read with Treasury notice dated 9.7.2003)
+[^c-6661d9526e85421527acff4a93e700c4]: Commencement: Art. 63 in force at 31.10.2004, see art. 1(2)(b) (as read with Treasury notice dated 9.7.2003)

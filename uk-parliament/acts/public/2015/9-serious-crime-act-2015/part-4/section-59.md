@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Initial retention of seized substances[^key-ac0a2b5cc7a987e7446f194d3a4da654]
+## 59. Initial retention of seized substances[^c-ac0a2b5cc7a987e7446f194d3a4da654]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ it may be retained until the end of the 30th day after the period referred to in
 
 ## Annotations
 
-[^key-ac0a2b5cc7a987e7446f194d3a4da654]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/9/section/59) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-ac0a2b5cc7a987e7446f194d3a4da654]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/9/section/59) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

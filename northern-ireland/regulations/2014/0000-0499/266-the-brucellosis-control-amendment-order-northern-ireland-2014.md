@@ -31,7 +31,7 @@ summary: ''
 
 Animals
 
-The Brucellosis Control (Amendment) Order (Northern Ireland) 2014 (revoked)[^key-714c5e95b13f0187eae8da14d36e803e]
+The Brucellosis Control (Amendment) Order (Northern Ireland) 2014 (revoked)[^c-714c5e95b13f0187eae8da14d36e803e]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 3rd November 2014
 
-[^key-714c5e95b13f0187eae8da14d36e803e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-714c5e95b13f0187eae8da14d36e803e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-714c5e95b13f0187eae8da14d36e803e]
+## 1. Citation and commencement[^c-714c5e95b13f0187eae8da14d36e803e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Brucellosis Control Order (Northern Ireland) 2004[^key-714c5e95b13f0187eae8da14d36e803e]
+## 2. Amendment of the Brucellosis Control Order (Northern Ireland) 2004[^c-714c5e95b13f0187eae8da14d36e803e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-714c5e95b13f0187eae8da14d36e803e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-714c5e95b13f0187eae8da14d36e803e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-714c5e95b13f0187eae8da14d36e803e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-714c5e95b13f0187eae8da14d36e803e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-714c5e95b13f0187eae8da14d36e803e]: Textual amendment: Order revoked (28.9.2015) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/340)](https://www.legislation.gov.uk/nisr/2015/340), [arts. 1](https://www.legislation.gov.uk/nisr/2015/340/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/340/article/2/2)
+[^c-714c5e95b13f0187eae8da14d36e803e]: Textual amendment: Order revoked (28.9.2015) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/340)](https://www.legislation.gov.uk/nisr/2015/340), [arts. 1](https://www.legislation.gov.uk/nisr/2015/340/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/340/article/2/2)

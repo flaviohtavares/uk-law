@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**197.**[^key-0b09234eb704c8a1b596b24e27b0520c] In section 53 (modification of 1989 Act in relation to adoption)—
+**197.**[^c-0b09234eb704c8a1b596b24e27b0520c] In section 53 (modification of 1989 Act in relation to adoption)—
 
 - (a) in subsection (1) omit “of the 1989 Act”;
 - (b) for subsection (2) substitute—
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b09234eb704c8a1b596b24e27b0520c]: Commencement: Reg. 197 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0b09234eb704c8a1b596b24e27b0520c]: Commencement: Reg. 197 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

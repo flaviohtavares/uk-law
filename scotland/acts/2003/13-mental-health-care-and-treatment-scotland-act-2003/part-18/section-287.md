@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 287. Scottish Ministers' power to require responsible medical officer to provide certain information[^key-581e97a13f5f726e305c686cd45180db]
+## 287. Scottish Ministers' power to require responsible medical officer to provide certain information[^c-581e97a13f5f726e305c686cd45180db]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ in relation to a patient who has a responsible medical officer, require the pati
 
 ## Annotations
 
-[^key-581e97a13f5f726e305c686cd45180db]: Commencement: S. 287 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-581e97a13f5f726e305c686cd45180db]: Commencement: S. 287 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167. Resources for partnership arrangements[^key-6b2e3e6482ae564d623b20af2e71f34f]
+## 167. Resources for partnership arrangements[^c-6b2e3e6482ae564d623b20af2e71f34f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b2e3e6482ae564d623b20af2e71f34f]: Commencement: S. 167 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-6b2e3e6482ae564d623b20af2e71f34f]: Commencement: S. 167 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

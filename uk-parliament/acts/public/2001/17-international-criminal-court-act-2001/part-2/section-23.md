@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Provisions as to state or diplomatic immunity[^key-51d36e0c54dca45f97c5fd1b67b990ac]
+## 23. Provisions as to state or diplomatic immunity[^c-51d36e0c54dca45f97c5fd1b67b990ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ is conclusive evidence of that fact for the purposes of this Part.
 
 (4) The Secretary of State may in any particular case, after consultation with the ICC and the state concerned, direct that proceedings (or further proceedings) under this Part which, but for subsection (1) or (2), would be prevented by state or diplomatic immunity attaching to a person shall not be taken against that person.
 
-(5)[^c18072331][^key-8c28c5677d7f7d744577c54347c2f92d][^key-a5c796834072398b63a0dddc2ff43d80] The power conferred by section 1 of the United Nations Act 1946 (c. 45) (power to give effect by Order in Council to measures not involving the use of armed force) includes power to make in relation to any proceedings such provision corresponding to the provision made by this section in relation to the proceedings, but with the omission—
+(5)[^c18072331][^c-8c28c5677d7f7d744577c54347c2f92d][^c-a5c796834072398b63a0dddc2ff43d80] The power conferred by section 1 of the United Nations Act 1946 (c. 45) (power to give effect by Order in Council to measures not involving the use of armed force) includes power to make in relation to any proceedings such provision corresponding to the provision made by this section in relation to the proceedings, but with the omission—
 
 - (a) in subsection (1), of the words “by reason of a connection with a state party to the ICC Statute”, and
 - (b) of subsections (2) and (3),
@@ -53,10 +53,10 @@ as appears to Her Majesty to be necessary or expedient in consequence of such a 
 
 ## Annotations
 
-[^key-51d36e0c54dca45f97c5fd1b67b990ac]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/2001/17/section/23) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(1)](https://www.legislation.gov.uk/uksi/2018/187/article/33/1)[(2)](https://www.legislation.gov.uk/uksi/2018/187/article/33/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+[^c-51d36e0c54dca45f97c5fd1b67b990ac]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/2001/17/section/23) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(1)](https://www.legislation.gov.uk/uksi/2018/187/article/33/1)[(2)](https://www.legislation.gov.uk/uksi/2018/187/article/33/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
 
 [^c18072331]: Modification: S. 23(5) extended (IoM) (1.4.2004) by [S.I. 2004/714](https://www.legislation.gov.uk/uksi/2004/714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/714/article/2/a)
 
-[^key-8c28c5677d7f7d744577c54347c2f92d]: Modification: S. 23(5) extended (Jersey) (with modifications) (8.10.2014 coming into force in accordance with art. 1) by [The International Criminal Court Act 2001 (Jersey) Order 2014 (S.I. 2014/2706)](https://www.legislation.gov.uk/uksi/2014/2706), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2706/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/2706/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2014/2706/schedule)
+[^c-8c28c5677d7f7d744577c54347c2f92d]: Modification: S. 23(5) extended (Jersey) (with modifications) (8.10.2014 coming into force in accordance with art. 1) by [The International Criminal Court Act 2001 (Jersey) Order 2014 (S.I. 2014/2706)](https://www.legislation.gov.uk/uksi/2014/2706), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2706/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/2706/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2014/2706/schedule)
 
-[^key-a5c796834072398b63a0dddc2ff43d80]: Modification: [S. 23(5)](https://www.legislation.gov.uk/ukpga/2001/17/section/23/5) extended (Guernsey) (coming into force in accordance with art. 1 of the amending S.I.) by [The International Criminal Court Act 2001 (Guernsey) Order 2022 (S.I. 2022/865)](https://www.legislation.gov.uk/uksi/2022/865), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/865/article/2/1/a)
+[^c-a5c796834072398b63a0dddc2ff43d80]: Modification: [S. 23(5)](https://www.legislation.gov.uk/ukpga/2001/17/section/23/5) extended (Guernsey) (coming into force in accordance with art. 1 of the amending S.I.) by [The International Criminal Court Act 2001 (Guernsey) Order 2022 (S.I. 2022/865)](https://www.legislation.gov.uk/uksi/2022/865), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2022/865/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Calculation of deferrable amount[^key-ddb7c728206130c9fb26221035304dce]
+## 59. Calculation of deferrable amount[^c-ddb7c728206130c9fb26221035304dce]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ The deferrable amount in respect of a land transaction to which section 58(1) ap
 
 ## Annotations
 
-[^key-ddb7c728206130c9fb26221035304dce]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/1/section/59) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ddb7c728206130c9fb26221035304dce]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/1/section/59) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

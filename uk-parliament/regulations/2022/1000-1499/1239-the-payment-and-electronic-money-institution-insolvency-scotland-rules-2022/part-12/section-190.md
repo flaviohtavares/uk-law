@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 190. Confidentiality of documents — grounds for refusing inspection[^key-142244efa104337f9e6a62b6ec134d7c]
+## 190. Confidentiality of documents — grounds for refusing inspection[^c-142244efa104337f9e6a62b6ec134d7c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-142244efa104337f9e6a62b6ec134d7c]: Commencement: Rule 190 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-142244efa104337f9e6a62b6ec134d7c]: Commencement: Rule 190 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

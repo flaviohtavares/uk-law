@@ -31,7 +31,7 @@ summary: ''
 
 (4) The person whose duty it is to arrange for a report to be published may withhold material in the report from publication to such extent—
 
-- (a) as is required by any statutory provision, assimilated enforceable[^key-92567c86cde041847f5d7fd40b6bb8b3][^key-49123ce41dabeee7717c1f689920e059] obligation or rule of law, or
+- (a) as is required by any statutory provision, assimilated enforceable[^c-92567c86cde041847f5d7fd40b6bb8b3][^c-49123ce41dabeee7717c1f689920e059] obligation or rule of law, or
 - (b) as the person considers to be necessary in the public interest, having regard in particular to the matters mentioned in subsection (5).
 
 (5) Those matters are—
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92567c86cde041847f5d7fd40b6bb8b3]: Textual amendment: Words in [s. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2005/12/section/25/4/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/2/b)
+[^c-92567c86cde041847f5d7fd40b6bb8b3]: Textual amendment: Words in [s. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2005/12/section/25/4/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/2/b)
 
-[^key-49123ce41dabeee7717c1f689920e059]: Textual amendment: Words in s. 25(4)(a) substituted (31.12.2020) by [The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252)](https://www.legislation.gov.uk/uksi/2018/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-49123ce41dabeee7717c1f689920e059]: Textual amendment: Words in s. 25(4)(a) substituted (31.12.2020) by [The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252)](https://www.legislation.gov.uk/uksi/2018/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

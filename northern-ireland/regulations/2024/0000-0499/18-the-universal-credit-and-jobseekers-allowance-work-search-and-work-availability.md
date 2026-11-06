@@ -42,19 +42,19 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 2, 8D(4), 8E(3) and 36(1) and (2) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and Articles 22(4), 23(3) and 48(1) and (2) of the Welfare Reform (Northern Ireland) Order 2015[^f00004].
 
-## 1. Citation and commencement[^key-e5c43a36bfa3e62b1caeb433a046a9a3]
+## 1. Citation and commencement[^c-e5c43a36bfa3e62b1caeb433a046a9a3]
 
 These Regulations may be cited as the Universal Credit and Jobseeker’s Allowance (Work Search and Work Availability Requirements – limitations) (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 23rd February 2024.
 
-## 2. Amendment of the Universal Credit Regulations[^key-1b55aa7bb09f14af7fdcf2809e311808]
+## 2. Amendment of the Universal Credit Regulations[^c-1b55aa7bb09f14af7fdcf2809e311808]
 
 In regulation 95(5) of the Universal Credit Regulations (Northern Ireland) 2016[^f00005] (work search requirement and work availability requirement – limitations), for “3 months” substitute “4 weeks”.
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-a60d4d332482d1c319a3e4704639b915]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-a60d4d332482d1c319a3e4704639b915]
 
 In regulation 14(3)(b) of the Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^f00006] (work search requirement and work availability requirement – limitations), for “3 months” substitute “4 weeks”.
 
-## 4. Transitional provision[^key-8a62c584a5c7c53953c4fc8a3595938e]
+## 4. Transitional provision[^c-8a62c584a5c7c53953c4fc8a3595938e]
 
 Where, on the date that these Regulations come into operation, a work search requirement or work availability requirement is limited under regulation 95(4) of the Universal Credit Regulations (Northern Ireland) 2016 or regulation 14(3) of the Jobseeker’s Allowance Regulations (Northern Ireland) 2016, the limitation is to end on–
 
@@ -93,14 +93,14 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00004]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006). These powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020 ([S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927))
 
-[^key-e5c43a36bfa3e62b1caeb433a046a9a3]: Commencement: Reg. 1 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)
+[^c-e5c43a36bfa3e62b1caeb433a046a9a3]: Commencement: Reg. 1 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)
 
-[^key-1b55aa7bb09f14af7fdcf2809e311808]: Commencement: Reg. 2 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)
+[^c-1b55aa7bb09f14af7fdcf2809e311808]: Commencement: Reg. 2 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)
 
 [^f00005]: Footnote: [S.R 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-a60d4d332482d1c319a3e4704639b915]: Commencement: Reg. 3 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)
+[^c-a60d4d332482d1c319a3e4704639b915]: Commencement: Reg. 3 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)
 
 [^f00006]: Footnote: [S.R 2016 No. 218](https://www.legislation.gov.uk/nisr/2016/218)
 
-[^key-8a62c584a5c7c53953c4fc8a3595938e]: Commencement: Reg. 4 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)
+[^c-8a62c584a5c7c53953c4fc8a3595938e]: Commencement: Reg. 4 in operation at 23.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1)

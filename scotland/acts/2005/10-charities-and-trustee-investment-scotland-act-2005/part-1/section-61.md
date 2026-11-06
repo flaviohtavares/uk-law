@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Transfer of SCIO's undertaking[^key-709ef69d48a02ea0cb486bef888fc427]
+## 61. Transfer of SCIO's undertaking[^c-709ef69d48a02ea0cb486bef888fc427]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-709ef69d48a02ea0cb486bef888fc427]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2005/10/section/61) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(f)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/f)
+[^c-709ef69d48a02ea0cb486bef888fc427]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2005/10/section/61) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(f)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/f)

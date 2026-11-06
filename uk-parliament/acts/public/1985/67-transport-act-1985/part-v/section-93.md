@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Travel concession schemes.[^c19482861][^c10881141][^c10881151][^key-7a9e5cde7b253da2b646069be3b2092e][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 93. Travel concession schemes.[^c19482861][^c10881141][^c10881151][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ and may include particulars of any other arrangements for the time being adopted
 
 (7) The persons eligible to receive travel concessions under any such scheme are—
 
-- (a)[^c16921001][^key-6abdf8bc315a7580f3198458accfdb33][^c16920951] persons who have attained the age of sixty years;
+- (a)[^c16921001][^c-6abdf8bc315a7580f3198458accfdb33][^c16920951] persons who have attained the age of sixty years;
 - (b) persons whose age does not exceed sixteen years;
 - (c) persons whose age exceeds sixteen years but does not exceed eighteen years and who are undergoing full-time education;
 - (d)[^c10881171] persons who are blind;
@@ -68,13 +68,13 @@ and may include particulars of any other arrangements for the time being adopted
 (8) In this section “**local authority**”—
 
 - (a) means
-- (i)[^key-00772222382a9c3c8d78592a0e782b13] a county council in England,
+- (i)[^c-00772222382a9c3c8d78592a0e782b13] a county council in England,
 - (ii) a council of a non-metropolitan district in England comprised in an area for which there is no county council,
-- (iii) the council of a county or district in [^key-21c2776beeb2c8676e901c50d6c936ec]... Wales or
-- (iv)[^key-858d2b858ff9f1a5a25854fe50708981] a regional or islands council in Scotland; and
-- (b) includes also, in relation to England and Wales, an Integrated Transport Authority for an integrated transport area[^key-00c67ea9203f53f1471dc9ba08ca031d] , a combined authority and a combined county authority[^key-cc570136b1c283ec994d6b6adb3694f7].
+- (iii) the council of a county or district in [^c-21c2776beeb2c8676e901c50d6c936ec]... Wales or
+- (iv)[^c-858d2b858ff9f1a5a25854fe50708981] a regional or islands council in Scotland; and
+- (b) includes also, in relation to England and Wales, an Integrated Transport Authority for an integrated transport area[^c-00c67ea9203f53f1471dc9ba08ca031d] , a combined authority and a combined county authority[^c-cc570136b1c283ec994d6b6adb3694f7].
 
-(8A)[^key-8559e30902237c1b0b739bc33afcfd1d] A county council or a council of a non-metropolitan district is not a local authority for the purposes of this section where—
+(8A)[^c-8559e30902237c1b0b739bc33afcfd1d] A county council or a council of a non-metropolitan district is not a local authority for the purposes of this section where—
 
 - (a) the council is a constituent council of a combined authority or a combined county authority (and here “**constituent council**” has the meaning given by section 104(11) of the Local Democracy, Economic Development and Construction Act 2009 in relation to a combined authority and section 10(11) of the Levelling-Up and Regeneration Act 2023 in relation to a combined county authority), and
 - (b) the combined authority or combined county authority has completed its first full financial year.
@@ -82,11 +82,11 @@ and may include particulars of any other arrangements for the time being adopted
 (9) Unless the context otherwise requires, references in this section and in the provisions of this Part of this Act relating to schemes under this section to the authority or authorities responsible for administration of a scheme under this section are references—
 
 - (a) except in a case to which paragraph (b) below applies, to the authority concerned in establishing the scheme or, where two or more authorities are so concerned, to both or all those authorities acting jointly; or
-- (b) in relation to England and Wales, a metropolitan county passenger transport authority where the authority or one of the authorities concerned in establishing the scheme are an Integrated Transport Authority for an integrated transport area[^key-8487a266bbfa7b44e361ff977e22a4aa] in England and Wales, to the Passenger Transport Executive for that Authority’s area or (as the case may require) to that Executive and the other authority or authorities so concerned acting jointly; or
+- (b) in relation to England and Wales, a metropolitan county passenger transport authority where the authority or one of the authorities concerned in establishing the scheme are an Integrated Transport Authority for an integrated transport area[^c-8487a266bbfa7b44e361ff977e22a4aa] in England and Wales, to the Passenger Transport Executive for that Authority’s area or (as the case may require) to that Executive and the other authority or authorities so concerned acting jointly; or
 
-(10) Where an Integrated Transport Authority or[^key-66adc49a6216b92fefc5ccce405c65e4] a Passenger Transport Authority have established a scheme under this section, whether alone or jointly with any other authority or authorities, they shall notify the Passenger Transport Executive for their area of any proposal to vary the scheme, giving particulars of the proposed variation.
+(10) Where an Integrated Transport Authority or[^c-66adc49a6216b92fefc5ccce405c65e4] a Passenger Transport Authority have established a scheme under this section, whether alone or jointly with any other authority or authorities, they shall notify the Passenger Transport Executive for their area of any proposal to vary the scheme, giving particulars of the proposed variation.
 
-## 93 (Extent: E+W). Travel concession schemes. (Extent: E+W)[^c19472601][^c10881191][^c10881201][^key-7a9e5cde7b253da2b646069be3b2092e]
+## 93 (Extent: E+W). Travel concession schemes. (Extent: E+W)[^c19472601][^c10881191][^c10881201][^c-7a9e5cde7b253da2b646069be3b2092e]
 
 *Extent: S*
 
@@ -126,7 +126,7 @@ and may include particulars of any other arrangements for the time being adopted
 - (e (Extent: E+W)) persons suffering from any disability or injury which, in the opinion of the authority or any of the authorities responsible for administration of the scheme, seriously impairs their ability to walk; and *(Extent: E+W)*
 - (f (Extent: E+W)) such other classes of persons as the Secretary of State may by order specify. *(Extent: E+W)*
 
-(7A (Extent: E+W))[^key-fb1b82b1cdb84d8cb7dd576fbfc15b6f] Not later than 12 months after the Transport (Scotland) Act 2019 receives Royal Assent, the Scottish Ministers must publish a report setting out their assessment of the costs and benefits of extending travel concession schemes established under this section to— *(Extent: E+W)*
+(7A (Extent: E+W))[^c-fb1b82b1cdb84d8cb7dd576fbfc15b6f] Not later than 12 months after the Transport (Scotland) Act 2019 receives Royal Assent, the Scottish Ministers must publish a report setting out their assessment of the costs and benefits of extending travel concession schemes established under this section to— *(Extent: E+W)*
 
 - (a (Extent: E+W)) community bus services within the meaning of section 22(1) of this Act, and *(Extent: E+W)*
 - (b (Extent: E+W)) such other transport services as the Scottish Ministers consider appropriate. *(Extent: E+W)*
@@ -176,13 +176,13 @@ and may include particulars of any other arrangements for the time being adopted
 
 [^c10881151]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
+[^c-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
 [^c16921001]: Modification: S. 93(7)(a) : Power to amend conferred (1.4.2003) by [Travel Concessions (Eligibility) Act 2002 (c. 4)](https://www.legislation.gov.uk/ukpga/2002/4), [s. 1(1)(4)](https://www.legislation.gov.uk/ukpga/2002/4/section/1/1/4); [S.I. 2002/673](https://www.legislation.gov.uk/uksi/2002/673), [art. 2](https://www.legislation.gov.uk/uksi/2002/673/article/2); [S.I. 2002/3014](https://www.legislation.gov.uk/uksi/2002/3014), [art.2](https://www.legislation.gov.uk/uksi/2002/3014/article/2)
 
-[^key-6abdf8bc315a7580f3198458accfdb33]: Modification: S. 93(7)(a) modified (E.) (6.4.2010) by [The Travel Concessions (Eligibility) (England) Order 2010 (S.I. 2010/459)](https://www.legislation.gov.uk/uksi/2010/459), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/459/article/1/1), [2](https://www.legislation.gov.uk/uksi/2010/459/article/2)
+[^c-6abdf8bc315a7580f3198458accfdb33]: Modification: S. 93(7)(a) modified (E.) (6.4.2010) by [The Travel Concessions (Eligibility) (England) Order 2010 (S.I. 2010/459)](https://www.legislation.gov.uk/uksi/2010/459), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/459/article/1/1), [2](https://www.legislation.gov.uk/uksi/2010/459/article/2)
 
 [^c16920951]: Textual amendment: S. 93(7)(a) substituted (E.W.) (1.4.2003) by [Travel Concessions (Eligibility) Act 2002 (c. 4)](https://www.legislation.gov.uk/ukpga/2002/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2002/4/section/1/1); [S.I. 2002/673](https://www.legislation.gov.uk/uksi/2002/673), [art. 2](https://www.legislation.gov.uk/uksi/2002/673/article/2); [S.I. 2002/3014](https://www.legislation.gov.uk/uksi/2002/3014), [art. 2](https://www.legislation.gov.uk/uksi/2002/3014/article/2)
 
@@ -190,21 +190,21 @@ and may include particulars of any other arrangements for the time being adopted
 
 [^c10881181]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-00772222382a9c3c8d78592a0e782b13]: Textual amendment: Words in s. 93(8)(a) inserted (E.W.) (1.4.2011) by [The Concessionary Bus Travel Act 2007 (Variation of Reimbursement and Other Administrative Arrangements) Order 2010 (S.I. 2010/1179)](https://www.legislation.gov.uk/uksi/2010/1179), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/1/3/b), [4(a)](https://www.legislation.gov.uk/uksi/2010/1179/article/4/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/1179/article/5))
+[^c-00772222382a9c3c8d78592a0e782b13]: Textual amendment: Words in s. 93(8)(a) inserted (E.W.) (1.4.2011) by [The Concessionary Bus Travel Act 2007 (Variation of Reimbursement and Other Administrative Arrangements) Order 2010 (S.I. 2010/1179)](https://www.legislation.gov.uk/uksi/2010/1179), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/1/3/b), [4(a)](https://www.legislation.gov.uk/uksi/2010/1179/article/4/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/1179/article/5))
 
-[^key-21c2776beeb2c8676e901c50d6c936ec]: Textual amendment: Words in s. 93(8)(a) omitted (E.W.) (1.4.2011) by virtue of [The Concessionary Bus Travel Act 2007 (Variation of Reimbursement and Other Administrative Arrangements) Order 2010 (S.I. 2010/1179)](https://www.legislation.gov.uk/uksi/2010/1179), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/1/3/b), [4(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/1179/article/5))
+[^c-21c2776beeb2c8676e901c50d6c936ec]: Textual amendment: Words in s. 93(8)(a) omitted (E.W.) (1.4.2011) by virtue of [The Concessionary Bus Travel Act 2007 (Variation of Reimbursement and Other Administrative Arrangements) Order 2010 (S.I. 2010/1179)](https://www.legislation.gov.uk/uksi/2010/1179), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/1/3/b), [4(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/1179/article/5))
 
-[^key-858d2b858ff9f1a5a25854fe50708981]: Textual amendment: Word in s. 93(8)(a) inserted (E.W.) (1.4.2011) by [The Concessionary Bus Travel Act 2007 (Variation of Reimbursement and Other Administrative Arrangements) Order 2010 (S.I. 2010/1179)](https://www.legislation.gov.uk/uksi/2010/1179), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/1/3/b), [4(c)](https://www.legislation.gov.uk/uksi/2010/1179/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/1179/article/5))
+[^c-858d2b858ff9f1a5a25854fe50708981]: Textual amendment: Word in s. 93(8)(a) inserted (E.W.) (1.4.2011) by [The Concessionary Bus Travel Act 2007 (Variation of Reimbursement and Other Administrative Arrangements) Order 2010 (S.I. 2010/1179)](https://www.legislation.gov.uk/uksi/2010/1179), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/1179/article/1/3/b), [4(c)](https://www.legislation.gov.uk/uksi/2010/1179/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/1179/article/5))
 
-[^key-00c67ea9203f53f1471dc9ba08ca031d]: Textual amendment: Words in s. 93(8)(b) substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/32/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-00c67ea9203f53f1471dc9ba08ca031d]: Textual amendment: Words in s. 93(8)(b) substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/32/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-cc570136b1c283ec994d6b6adb3694f7]: Textual amendment: Words in s. 93(8)(b) substituted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 81](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/81) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-cc570136b1c283ec994d6b6adb3694f7]: Textual amendment: Words in s. 93(8)(b) substituted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 81](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/81) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-8559e30902237c1b0b739bc33afcfd1d]: Textual amendment: S. 93(8A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2026/23/schedule/12/paragraph/20) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-8559e30902237c1b0b739bc33afcfd1d]: Textual amendment: S. 93(8A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2026/23/schedule/12/paragraph/20) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-8487a266bbfa7b44e361ff977e22a4aa]: Textual amendment: Words in s. 93(9)(b) substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 32(3)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/32/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-8487a266bbfa7b44e361ff977e22a4aa]: Textual amendment: Words in s. 93(9)(b) substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 32(3)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/32/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-66adc49a6216b92fefc5ccce405c65e4]: Textual amendment: Words in s. 93(10) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 32(4)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/32/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-66adc49a6216b92fefc5ccce405c65e4]: Textual amendment: Words in s. 93(10) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 32(4)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/32/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c19472601]: Modification: Ss. 93-100: functions transferred (S.) (1.11.2006) by The Transfer of Functions to the [Shetland Transport Partnership Order 2006 (S.S.I. 2006/527)](https://www.legislation.gov.uk/ssi/2006/527), [art. 3](https://www.legislation.gov.uk/ssi/2006/527/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/527/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/527/article/5))
 
@@ -228,7 +228,7 @@ and may include particulars of any other arrangements for the time being adopted
 
 [^c19428821]: Textual amendment: S. 93(7)(a) substituted (S.) (1.4.2003) by Local Government in [Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 44(1)](https://www.legislation.gov.uk/asp/2003/1/section/44/1), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-fb1b82b1cdb84d8cb7dd576fbfc15b6f]: Textual amendment: S. 93(7A)-(7C) inserted (S.) (14.1.2021) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 49(2)](https://www.legislation.gov.uk/asp/2019/17/section/49/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/b)
+[^c-fb1b82b1cdb84d8cb7dd576fbfc15b6f]: Textual amendment: S. 93(7A)-(7C) inserted (S.) (14.1.2021) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 49(2)](https://www.legislation.gov.uk/asp/2019/17/section/49/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/b)
 
 [^M_F_d54ff44b-ac83-4952-e9f8-3c954299dda0]: Textual amendment: Words in s. 93(8)(a) repealed (S.) (1.4.1996) by [S.I. 1996/974](https://www.legislation.gov.uk/uksi/1996/974), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/974/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/974/schedule/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277B. Restrictions on onward disclosure of information[^key-05913b9bcb684d3010a11474a0241e45]
+## 277B. Restrictions on onward disclosure of information[^c-05913b9bcb684d3010a11474a0241e45]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05913b9bcb684d3010a11474a0241e45]: Textual amendment: [Pt. 9 Ch. 3](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/3) inserted (31.7.2022 but only for the insertion of ss. 277A (for specified purposes), 277B, 277C, 1.10.2022 but only for the insertion of s. 277A(6)) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 3](https://www.legislation.gov.uk/uksi/2022/734/regulation/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/b)
+[^c-05913b9bcb684d3010a11474a0241e45]: Textual amendment: [Pt. 9 Ch. 3](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/3) inserted (31.7.2022 but only for the insertion of ss. 277A (for specified purposes), 277B, 277C, 1.10.2022 but only for the insertion of s. 277A(6)) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 3](https://www.legislation.gov.uk/uksi/2022/734/regulation/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/b)

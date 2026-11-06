@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 694A. Deceased investors[^key-7d16d0c6c62954bb6f57675b8b8d8097]
+## 694A. Deceased investors[^c-7d16d0c6c62954bb6f57675b8b8d8097]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d16d0c6c62954bb6f57675b8b8d8097]: Textual amendment: S. 694A inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/27/1)
+[^c-7d16d0c6c62954bb6f57675b8b8d8097]: Textual amendment: S. 694A inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/27/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Deemed planning permission for scheme work[^key-62526a40cafd856ae0a0a640e2b6cc4c]
+## 65. Deemed planning permission for scheme work[^c-62526a40cafd856ae0a0a640e2b6cc4c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 57 of the Town and Country Planning (Scotland) Act 1997 (c. 8) (deeme
 
 ## Annotations
 
-[^key-62526a40cafd856ae0a0a640e2b6cc4c]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2009/6/section/65) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)
+[^c-62526a40cafd856ae0a0a640e2b6cc4c]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2009/6/section/65) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)

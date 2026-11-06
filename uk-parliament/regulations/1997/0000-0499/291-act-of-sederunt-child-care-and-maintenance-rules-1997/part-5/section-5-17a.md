@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.17A. Service of notice of proceedings on payer residing in USA[^key-9288348b0e1e0d1a712f4449fd68b293]
+## 5.17A. Service of notice of proceedings on payer residing in USA[^c-9288348b0e1e0d1a712f4449fd68b293]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where service of a document is executed in accordance with section 5(4)(a) of th
 
 ## Annotations
 
-[^key-9288348b0e1e0d1a712f4449fd68b293]: Textual amendment: Rule 5.17A inserted (2.3.2009) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment 2009 (S.S.I. 2009/29)](https://www.legislation.gov.uk/ssi/2009/29), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/2/5)
+[^c-9288348b0e1e0d1a712f4449fd68b293]: Textual amendment: Rule 5.17A inserted (2.3.2009) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment 2009 (S.S.I. 2009/29)](https://www.legislation.gov.uk/ssi/2009/29), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/2/5)

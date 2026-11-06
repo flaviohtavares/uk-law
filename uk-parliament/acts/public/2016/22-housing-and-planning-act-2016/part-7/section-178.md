@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Right to enter and survey or value Crown land[^key-1d39253999eee5a921ce1d4771eab1b3]
+## 178. Right to enter and survey or value Crown land[^c-1d39253999eee5a921ce1d4771eab1b3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d39253999eee5a921ce1d4771eab1b3]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2016/22/section/178) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h)
+[^c-1d39253999eee5a921ce1d4771eab1b3]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2016/22/section/178) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h)

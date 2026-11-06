@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1) This section applies in the case of proceedings (other than proceedings in a JP court)[^key-dd0e9220bce694beee391d59edaaf607] in respect of a sexual offence to which section 288C above applies.
+(1) This section applies in the case of proceedings (other than proceedings in a JP court)[^c-dd0e9220bce694beee391d59edaaf607] in respect of a sexual offence to which section 288C above applies.
 
 (2) Where the court ascertains that—
 
 - (a) the accused has not engaged a solicitor for the purposes of
-  - (i)[^key-7145dd7d72778526bed34829b93dba49] the conduct of his case at, or for the purposes of, any relevant hearing (within the meaning of section 288C(1A)) in the proceedings; or
+  - (i)[^c-7145dd7d72778526bed34829b93dba49] the conduct of his case at, or for the purposes of, any relevant hearing (within the meaning of section 288C(1A)) in the proceedings; or
   - (iii)[^c19850241] the conduct of his case at any commissioner proceedings; or
 - (b) having engaged a solicitor for those purposes, the accused has dismissed him; or
 - (c) the accused’s solicitor has withdrawn,
@@ -43,7 +43,7 @@ A solicitor so appointed is not susceptible to dismissal by the accused or oblig
 
 (5) In all other respects, a solicitor so appointed has, and may be made subject to, the same obligations and has, and may be given, the same authority as if engaged by the accused; and any employment of and instructions given to counsel by the solicitor shall proceed and be treated accordingly.
 
-(6) Where the court is satisfied that a solicitor so appointed is no longer able to act upon the instructions, or in the best interests, of the accused, the court may relieve that solicitor of his appointment and appoint another solicitor for the purposes referred to in subsection (2)(a) above.[^key-321eb5a9229bb2028cc00ea678d729fd]
+(6) Where the court is satisfied that a solicitor so appointed is no longer able to act upon the instructions, or in the best interests, of the accused, the court may relieve that solicitor of his appointment and appoint another solicitor for the purposes referred to in subsection (2)(a) above.[^c-321eb5a9229bb2028cc00ea678d729fd]
 
 (6A)[^c19850301] Where, in relation to commissioner proceedings, the commissioner is satisfied that a solicitor so appointed is no longer able to act upon the instructions, or in the best interests, of the accused, the commissioner is (for the purpose of the application of subsection (6) above) to refer the case to the court.
 
@@ -57,13 +57,13 @@ A solicitor so appointed is not susceptible to dismissal by the accused or oblig
 
 [^c16045411]: Textual amendment: S. 288D inserted (S.) (1.11.2002) by [Sexual Offences (Procedure and Evidence) (Scotland) Act 2002 (asp 9)](https://www.legislation.gov.uk/asp/2002/9), [s. 2(1)](https://www.legislation.gov.uk/asp/2002/9/section/2/1); [S.S.I. 2002/443](https://www.legislation.gov.uk/ssi/2002/443), [art. 3](https://www.legislation.gov.uk/ssi/2002/443/article/3) (with [art. 4(1)(2)](https://www.legislation.gov.uk/ssi/2002/443/article/4/1/2))
 
-[^key-dd0e9220bce694beee391d59edaaf607]: Textual amendment: Words in s. 288D(1) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/69/3/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-dd0e9220bce694beee391d59edaaf607]: Textual amendment: Words in s. 288D(1) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/69/3/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-7145dd7d72778526bed34829b93dba49]: Textual amendment: S. 288D(2)(a)(i) substituted for s. 288D(2)(a)(i)(ii) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(3)(b)](https://www.legislation.gov.uk/asp/2010/13/section/69/3/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-7145dd7d72778526bed34829b93dba49]: Textual amendment: S. 288D(2)(a)(i) substituted for s. 288D(2)(a)(i)(ii) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(3)(b)](https://www.legislation.gov.uk/asp/2010/13/section/69/3/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c19850241]: Textual amendment: S. 288D(2)(a)(iii) inserted (23.4.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 35(6)(a)](https://www.legislation.gov.uk/asp/2007/6/section/35/6/a), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/250/article/3/a)
 
-[^key-321eb5a9229bb2028cc00ea678d729fd]: Textual amendment: Words in s. 288D(6) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(3)(c)](https://www.legislation.gov.uk/asp/2010/13/section/69/3/c), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-321eb5a9229bb2028cc00ea678d729fd]: Textual amendment: Words in s. 288D(6) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(3)(c)](https://www.legislation.gov.uk/asp/2010/13/section/69/3/c), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c19850301]: Textual amendment: S. 288D(6A) inserted (23.4.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 35(6)(c)](https://www.legislation.gov.uk/asp/2007/6/section/35/6/c), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/250/article/3/a)
 

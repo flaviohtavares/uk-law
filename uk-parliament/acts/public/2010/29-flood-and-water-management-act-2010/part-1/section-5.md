@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. “Coastal erosion risk management function”[^key-88bceba20cfd9492a4693eb1cbcc3650]
+## 5. “Coastal erosion risk management function”[^c-88bceba20cfd9492a4693eb1cbcc3650]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88bceba20cfd9492a4693eb1cbcc3650]: Commencement: S. 5 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-88bceba20cfd9492a4693eb1cbcc3650]: Commencement: S. 5 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

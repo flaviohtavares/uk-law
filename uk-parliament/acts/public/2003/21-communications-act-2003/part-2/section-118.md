@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Compulsory acquisition of land etc.[^key-11e5a0cae399aa08a1dba024f88e59c3][^key-58499eecf98c502869525bfaac3e328b][^key-e872157b404878da471c1f33064df012]
+## 118. Compulsory acquisition of land etc.[^c-11e5a0cae399aa08a1dba024f88e59c3][^c-58499eecf98c502869525bfaac3e328b][^c-e872157b404878da471c1f33064df012]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 4 (which provides for compulsory acquisition of land by the provider of
 
 ## Annotations
 
-[^key-11e5a0cae399aa08a1dba024f88e59c3]: Commencement: S. 118 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-11e5a0cae399aa08a1dba024f88e59c3]: Commencement: S. 118 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-58499eecf98c502869525bfaac3e328b]: Commencement: S. 118 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-58499eecf98c502869525bfaac3e328b]: Commencement: S. 118 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)
+[^c-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)

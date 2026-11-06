@@ -93,7 +93,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 3.** Products shall be considered in relation to their end-use application, where relevant.
 
-**Article 4.**[^key-6c50d7729c42909f49d703c94b14cad7] This Decision is addressed to the Member States.
+**Article 4.**[^c-6c50d7729c42909f49d703c94b14cad7] This Decision is addressed to the Member States.
 
 ## ANNEX
 
@@ -273,7 +273,7 @@ Classes of reaction-to-fire performance of structural timber products [^f00019]
 
 [^f00004]: Footnote: [OJ L 50, 23.2.2000, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.050.01.0014.01.ENG).
 
-[^key-6c50d7729c42909f49d703c94b14cad7]: Modification: [Art. 4](https://www.legislation.gov.uk/eudn/2003/43/article/4) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/5) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(h)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/h)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c50d7729c42909f49d703c94b14cad7]: Modification: [Art. 4](https://www.legislation.gov.uk/eudn/2003/43/article/4) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/5) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(h)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/h)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Decision of 15 May 2007 amending Decision 2003/43/EC establishing the classes of reaction-to-fire performance for certain construction products as regards wood-based panels (notified under document number C(2007) 2045) (Text with EEA relevance) (2007/348/EC)](https://www.legislation.gov.uk/eudn/2007/348).
 

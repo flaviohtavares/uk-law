@@ -24,7 +24,7 @@ summary: ''
 
 - (a) in the case of a commercial air transport operation, a valid Part-CAT air operator certificate;
 - (b) in the case of a public transport flight, a valid national air operator's certificate or a valid Part-CAT air operator certificate; or
-- (c) in the case of an A to A commercial air transport aeroplane operation, a valid Part-CAT air operator certificate [^key-c65bf2cd9901e53d0e6012290548866d]...
+- (c) in the case of an A to A commercial air transport aeroplane operation, a valid Part-CAT air operator certificate [^c-c65bf2cd9901e53d0e6012290548866d]...
 
 (2) Paragraph (1) does not apply where—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c65bf2cd9901e53d0e6012290548866d]: Textual amendment: Words in [art. 104(1)(c)](https://www.legislation.gov.uk/uksi/2016/765/article/104/1/c) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/29) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c65bf2cd9901e53d0e6012290548866d]: Textual amendment: Words in [art. 104(1)(c)](https://www.legislation.gov.uk/uksi/2016/765/article/104/1/c) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/29) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

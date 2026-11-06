@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 240. Activities that may be prohibited[^key-78155ae5e2ef35e572fecda7e61a1737]
+## 240. Activities that may be prohibited[^c-78155ae5e2ef35e572fecda7e61a1737]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78155ae5e2ef35e572fecda7e61a1737]: Commencement: S. 240 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-78155ae5e2ef35e572fecda7e61a1737]: Commencement: S. 240 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

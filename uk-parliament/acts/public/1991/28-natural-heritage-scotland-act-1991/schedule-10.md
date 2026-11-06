@@ -117,7 +117,7 @@ Section 27.
 >
 > Regulations made under this Part of this Act may provide that any provision of this Part, except this section and sections 43 to 45, shall have effect with such modifications as may be prescribed for the purpose of enabling Her Majesty’s Government in the United Kingdom—
 >
-> - (a) to give effect to any EU[^key-1c2b6d743bdd3dabb165df6782e611bb] obligation or exercise any related right; or
+> - (a) to give effect to any EU[^c-1c2b6d743bdd3dabb165df6782e611bb] obligation or exercise any related right; or
 > - (b) to give effect to any obligation or exercise any related right under any international agreement to which the United Kingdom is for the time being a party,
 >
 > and “**related right**”, in relation to an obligation, includes any derogation or other right to make more onerous provisions available in respect of that obligation.
@@ -234,7 +234,7 @@ Section 27.
 
 [^c1044676]: Textual amendment: Sch. 10 para. 7(2) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-1c2b6d743bdd3dabb165df6782e611bb]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-1c2b6d743bdd3dabb165df6782e611bb]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c1044677]: Marginal citation: [1951 c. 66](https://www.legislation.gov.uk/ukpga/1951/66).
 

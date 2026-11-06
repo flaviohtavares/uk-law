@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Crown Rights[^key-2a0e3c998229c4ca1badd565d66ff1fb]
+## 44. Crown Rights[^c-2a0e3c998229c4ca1badd565d66ff1fb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a0e3c998229c4ca1badd565d66ff1fb]: Commencement: Art. 44 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-2a0e3c998229c4ca1badd565d66ff1fb]: Commencement: Art. 44 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

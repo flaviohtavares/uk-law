@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Duty to formulate and publish proposals for preservation and enhancement of conservation areas[^key-5f843f3a105e9eaff6fb3d8fb9a4e1d3][^key-27f078ecb9c300dcbf99782619e5d9dc]
+## 159. Duty to formulate and publish proposals for preservation and enhancement of conservation areas[^c-5f843f3a105e9eaff6fb3d8fb9a4e1d3][^c-27f078ecb9c300dcbf99782619e5d9dc]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f843f3a105e9eaff6fb3d8fb9a4e1d3]: Commencement: S. 159 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-5f843f3a105e9eaff6fb3d8fb9a4e1d3]: Commencement: S. 159 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-27f078ecb9c300dcbf99782619e5d9dc]: Commencement: [S. 159](https://www.legislation.gov.uk/asc/2023/3/section/159) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-27f078ecb9c300dcbf99782619e5d9dc]: Commencement: [S. 159](https://www.legislation.gov.uk/asc/2023/3/section/159) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

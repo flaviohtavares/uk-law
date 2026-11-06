@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 378. Disallowed tax-interest expense amounts carried forward[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 378. Disallowed tax-interest expense amounts carried forward[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (b) the tax-interest expense amount is disallowed in that accounting period, and
 - (c) in a subsequent accounting period (“the later accounting period”) the company ceases to carry on the trade, or the scale of the activities in the trade becomes small or negligible,
 
-the tax-interest expense amount is not carried forward to [^key-2f8a4ebf13f8472bd34f67099ccb6465]... accounting periods after the later accounting period.
+the tax-interest expense amount is not carried forward to [^c-2f8a4ebf13f8472bd34f67099ccb6465]... accounting periods after the later accounting period.
 
 (4) Where—
 
@@ -48,7 +48,7 @@ the tax-interest expense amount is not carried forward to the later accounting p
 - (b) the tax-interest expense amount is disallowed in that accounting period, and
 - (c) in a subsequent accounting period (“the later accounting period”) the company ceases to carry on the investment business, or the scale of the activities in the investment business becomes small or negligible,
 
-the tax-interest expense amount is not carried forward to [^key-0bbd3730b401bf7cb14cd34e4b4c8799]... accounting periods after the later accounting period.
+the tax-interest expense amount is not carried forward to [^c-0bbd3730b401bf7cb14cd34e4b4c8799]... accounting periods after the later accounting period.
 
 (7) Where a tax-interest expense amount—
 
@@ -60,8 +60,8 @@ it is not carried forward to accounting periods after the later accounting perio
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-2f8a4ebf13f8472bd34f67099ccb6465]: Textual amendment: Words in s. 378(3) omitted (retrospectively) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/18), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)
+[^c-2f8a4ebf13f8472bd34f67099ccb6465]: Textual amendment: Words in s. 378(3) omitted (retrospectively) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/18), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)
 
-[^key-0bbd3730b401bf7cb14cd34e4b4c8799]: Textual amendment: Words in s. 378(6) omitted (retrospectively) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/18), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)
+[^c-0bbd3730b401bf7cb14cd34e4b4c8799]: Textual amendment: Words in s. 378(6) omitted (retrospectively) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/18), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Aiding unlawful acts[^key-c66b01a9cfa51b1754d5158811eb7bfb]
+## 27. Aiding unlawful acts[^c-c66b01a9cfa51b1754d5158811eb7bfb]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c66b01a9cfa51b1754d5158811eb7bfb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/261/regulation/27) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-c66b01a9cfa51b1754d5158811eb7bfb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/261/regulation/27) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

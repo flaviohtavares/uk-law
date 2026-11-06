@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Conclusion of proceedings[^key-dd718b8e2405211ebc05d5e97f5cd6a1]
+## 52. Conclusion of proceedings[^c-dd718b8e2405211ebc05d5e97f5cd6a1]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd718b8e2405211ebc05d5e97f5cd6a1]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2013/7/section/52) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-dd718b8e2405211ebc05d5e97f5cd6a1]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2013/7/section/52) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

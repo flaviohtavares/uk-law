@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 51. Keeping of documents and other information[^key-44d30f163359a19490ae497b9e09a810]
+## Article 51. Keeping of documents and other information[^c-44d30f163359a19490ae497b9e09a810]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Where an appeal has been lodged or where court proceedings have begun, the docum
 
 ## Annotations
 
-[^key-44d30f163359a19490ae497b9e09a810]: Modification: [Art. 51](https://www.legislation.gov.uk/eur/2013/952/article/51) continued (31.12.2020) by [The Customs (Records) (EU Exit) Regulations 2019 (S.I. 2019/113)](https://www.legislation.gov.uk/uksi/2019/113), [regs. 1](https://www.legislation.gov.uk/uksi/2019/113/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/113/regulation/4); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-44d30f163359a19490ae497b9e09a810]: Modification: [Art. 51](https://www.legislation.gov.uk/eur/2013/952/article/51) continued (31.12.2020) by [The Customs (Records) (EU Exit) Regulations 2019 (S.I. 2019/113)](https://www.legislation.gov.uk/uksi/2019/113), [regs. 1](https://www.legislation.gov.uk/uksi/2019/113/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/113/regulation/4); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

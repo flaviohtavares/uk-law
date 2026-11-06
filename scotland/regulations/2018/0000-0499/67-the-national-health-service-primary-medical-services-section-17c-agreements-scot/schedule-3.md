@@ -58,11 +58,11 @@ The provider must—
 
 (3) An agreement which includes the provision of contraceptive services must provide that, for the purposes of paragraphs 11 to 14 of schedule 1, drugs includes contraceptive substances and appliances includes contraceptive appliances.
 
-### 4. Vaccinations and immunisations[^key-e3eba6a8a102941cfc4db75a97d5abc1]
+### 4. Vaccinations and immunisations[^c-e3eba6a8a102941cfc4db75a97d5abc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Childhood vaccinations and immunisations[^key-2127d67fb634608c489237b7aa0fb2b7]
+### 5. Childhood vaccinations and immunisations[^c-2127d67fb634608c489237b7aa0fb2b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,8 +105,8 @@ The provider must—
 
 ## Annotations
 
-[^key-e3eba6a8a102941cfc4db75a97d5abc1]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2018/67/schedule/3/paragraph/4) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [17](https://www.legislation.gov.uk/ssi/2021/302/regulation/17)
+[^c-e3eba6a8a102941cfc4db75a97d5abc1]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2018/67/schedule/3/paragraph/4) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [17](https://www.legislation.gov.uk/ssi/2021/302/regulation/17)
 
-[^key-2127d67fb634608c489237b7aa0fb2b7]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2018/67/schedule/3/paragraph/5) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [17](https://www.legislation.gov.uk/ssi/2021/302/regulation/17)
+[^c-2127d67fb634608c489237b7aa0fb2b7]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2018/67/schedule/3/paragraph/5) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [17](https://www.legislation.gov.uk/ssi/2021/302/regulation/17)
 
 [^f00122]: Footnote: David Hall and David Elliman, January 2003, Oxford University Press, ISBN 10: 01985188X, ISBN 13: 9780198515883.

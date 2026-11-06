@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Maternity pay period[^key-3f3b889962deecc836086d2ed432f072]
+## 18. Maternity pay period[^c-3f3b889962deecc836086d2ed432f072]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3b889962deecc836086d2ed432f072]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2002/22/section/18) repealed (1.10.2006) by [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2006/18/section/19/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2); [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/i/ii)
+[^c-3f3b889962deecc836086d2ed432f072]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2002/22/section/18) repealed (1.10.2006) by [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2006/18/section/19/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2); [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/i/ii)

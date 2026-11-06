@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 367. Transactions defrauding creditors[^key-a903c83c9314fd7e95f636bf6d94c51d]
+## 367. Transactions defrauding creditors[^c-a903c83c9314fd7e95f636bf6d94c51d]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a903c83c9314fd7e95f636bf6d94c51d]: Modification: [Art. 367](https://www.legislation.gov.uk/nisi/1989/2405/article/367) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-a903c83c9314fd7e95f636bf6d94c51d]: Modification: [Art. 367](https://www.legislation.gov.uk/nisi/1989/2405/article/367) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c17603591]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)

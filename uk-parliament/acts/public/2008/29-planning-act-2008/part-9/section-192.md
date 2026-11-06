@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Tree preservation orders[^key-775a6fd0b04407f375650cee6a71337e]
+## 192. Tree preservation orders[^c-775a6fd0b04407f375650cee6a71337e]
 
 *Extent: E+W+S+N.I.*
 
@@ -161,7 +161,7 @@ summary: ''
 >
 > (5) Tree preservation regulations may make provision about the procedure to be followed in connection with claiming any entitlement conferred by provision under subsection (1).
 >
-> (6) Tree preservation regulations may make provision for the determination of disputes about entitlement conferred by provision under subsection (1), including provision for and in connection with the referral of any such disputes to, and their determination by, [^key-9314935c961fdab603cece1ba66d88bf]...the First-tier Tribunal or the Upper Tribunal.
+> (6) Tree preservation regulations may make provision for the determination of disputes about entitlement conferred by provision under subsection (1), including provision for and in connection with the referral of any such disputes to, and their determination by, [^c-9314935c961fdab603cece1ba66d88bf]...the First-tier Tribunal or the Upper Tribunal.
 >
 > **202F. Tree preservation regulations: registers**
 >
@@ -184,6 +184,6 @@ summary: ''
 
 ## Annotations
 
-[^key-775a6fd0b04407f375650cee6a71337e]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2008/29/section/192) in force at 6.4.2012 for E. by [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/601/article/2/a)
+[^c-775a6fd0b04407f375650cee6a71337e]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2008/29/section/192) in force at 6.4.2012 for E. by [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/601/article/2/a)
 
-[^key-9314935c961fdab603cece1ba66d88bf]: Textual amendment: Words in s. 192(7) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 295](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/295) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-9314935c961fdab603cece1ba66d88bf]: Textual amendment: Words in s. 192(7) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 295](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/295) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

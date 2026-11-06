@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. “Member” of a company.[^key-fc0d966f67cca3eb1efff1cdff89f896]
+## 250. “Member” of a company.[^c-fc0d966f67cca3eb1efff1cdff89f896]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of any provision in this Group of Parts, a person who is not a 
 
 ## Annotations
 
-[^key-fc0d966f67cca3eb1efff1cdff89f896]: Modification: S. 250 excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2019/138/regulation/22) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-fc0d966f67cca3eb1efff1cdff89f896]: Modification: S. 250 excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2019/138/regulation/22) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))

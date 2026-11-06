@@ -23,10 +23,10 @@ summary: ''
 Investment bond arrangements are not—
 
 - (a) a unit trust scheme for the purposes of this Act, or
-- (b)[^key-39cd41ece8d3464d025358ed47b6e41e] an offshore fund for the purposes of section 354 of TIOPA 2010 so far as relating to capital gains tax.
+- (b)[^c-39cd41ece8d3464d025358ed47b6e41e] an offshore fund for the purposes of section 354 of TIOPA 2010 so far as relating to capital gains tax.
 
 ## Annotations
 
 [^M_F_841eeb5d-b63d-4992-b66c-0b2518d21e0f]: Textual amendment: S. 151W inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/43) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-39cd41ece8d3464d025358ed47b6e41e]: Modification: S. 151W(b) modified (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 9 para. 38](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/38) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-39cd41ece8d3464d025358ed47b6e41e]: Modification: S. 151W(b) modified (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 9 para. 38](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/38) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

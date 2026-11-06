@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Enforcement of power to require information from any person[^key-518d66dea99d3c5eb34fd6d0fb05f31b]
+## 116. Enforcement of power to require information from any person[^c-518d66dea99d3c5eb34fd6d0fb05f31b]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-518d66dea99d3c5eb34fd6d0fb05f31b]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2025/26/section/116) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-518d66dea99d3c5eb34fd6d0fb05f31b]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2025/26/section/116) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

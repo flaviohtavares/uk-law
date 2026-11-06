@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. The Scottish Land Court[^key-fced58c263d54b49b35c5d15076a2d21][^key-0f2840bd29d72fae6ee9b0e57a754ff0]
+## 56. The Scottish Land Court[^c-fced58c263d54b49b35c5d15076a2d21][^c-0f2840bd29d72fae6ee9b0e57a754ff0]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fced58c263d54b49b35c5d15076a2d21]: Commencement: S. 56 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-fced58c263d54b49b35c5d15076a2d21]: Commencement: S. 56 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-0f2840bd29d72fae6ee9b0e57a754ff0]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2026/17/section/56) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2](https://www.legislation.gov.uk/ssi/2026/283/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)
+[^c-0f2840bd29d72fae6ee9b0e57a754ff0]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2026/17/section/56) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2](https://www.legislation.gov.uk/ssi/2026/283/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)

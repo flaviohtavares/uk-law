@@ -277,7 +277,7 @@ Omit Schedules 3A and 3B.
 
 ## 16. Savings provision
 
-The[^key-ff25c3c1330abf3f3de35464c70bc47a] principal Order continues to have effect as it had effect before 1st December 2015 in relation to—
+The[^c-ff25c3c1330abf3f3de35464c70bc47a] principal Order continues to have effect as it had effect before 1st December 2015 in relation to—
 
 - (a) the issue and revocation of SROCs in respect of electricity generated before 1st December 2015, and anything which falls to be done or determined (whether by the Authority or some other person) in relation to such issue or revocation;
 - (b) any obligations or requirements imposed on any person in respect of the obligation period ending on 31st March 2016, and anything which falls to be done or determined in relation to any such obligation or requirement;
@@ -707,7 +707,7 @@ A full business and regulatory impact assessment of the effect this Order will h
 
 [^c22597931]: Marginal citation: Schedule A2 was inserted by [S.S.I. 2011/225](https://www.legislation.gov.uk/ssi/2011/225).
 
-[^key-ff25c3c1330abf3f3de35464c70bc47a]: Textual amendment: Words in [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16) substituted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [12](https://www.legislation.gov.uk/ssi/2017/432/article/12)
+[^c-ff25c3c1330abf3f3de35464c70bc47a]: Textual amendment: Words in [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16) substituted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [12](https://www.legislation.gov.uk/ssi/2017/432/article/12)
 
 [^c22597941]: Marginal citation: [S.I. 2000/3042](https://www.legislation.gov.uk/uksi/2000/3042) as amended by section 73(2) of the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), [S.I](https://www.legislation.gov.uk/ukpga/2000/37/section/I). 2001/3900 and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). The Regulations were revoked by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
 

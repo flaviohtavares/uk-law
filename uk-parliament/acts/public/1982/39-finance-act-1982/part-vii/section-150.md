@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Investment in gilt-edged unit trusts.[^key-7fcb954f8e4ee649aeb4ead14923eb1e]
+## 150. Investment in gilt-edged unit trusts.[^c-7fcb954f8e4ee649aeb4ead14923eb1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fcb954f8e4ee649aeb4ead14923eb1e]: Textual amendment: S. 150 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-7fcb954f8e4ee649aeb4ead14923eb1e]: Textual amendment: S. 150 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)

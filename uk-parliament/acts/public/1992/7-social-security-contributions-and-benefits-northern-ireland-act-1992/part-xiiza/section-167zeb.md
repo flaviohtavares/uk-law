@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167ZEB. Entitlement to additional statutory paternity pay: adoption[^key-26fe400e3315d03449340d8287463499]
+## 167ZEB. Entitlement to additional statutory paternity pay: adoption[^c-26fe400e3315d03449340d8287463499]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26fe400e3315d03449340d8287463499]: Textual amendment: [Ss. 167ZEA-167ZEE](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZEA) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 7](https://www.legislation.gov.uk/nia/2015/1/section/7), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/b)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-26fe400e3315d03449340d8287463499]: Textual amendment: [Ss. 167ZEA-167ZEE](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZEA) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 7](https://www.legislation.gov.uk/nia/2015/1/section/7), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/b)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. The Coal Mining Subsidence (Notices and Claims) Regulations 1991[^key-0a78295347bd2328cd71b244f4caa90f]
+## 9. The Coal Mining Subsidence (Notices and Claims) Regulations 1991[^c-0a78295347bd2328cd71b244f4caa90f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In Schedule 1 to the Coal Mining Subsidence (Notices and Claims) Regulations 199
 
 ## Annotations
 
-[^key-0a78295347bd2328cd71b244f4caa90f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/924/regulation/9) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-0a78295347bd2328cd71b244f4caa90f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/924/regulation/9) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 1991/2509](https://www.legislation.gov.uk/uksi/1991/2509).

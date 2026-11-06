@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Disclosing , or threatening to disclose, private sexual photographs and films with intent to cause distress[^key-d5b27c3d9a4daf7558cdc4a423bb0cc8]
+## 33. Disclosing , or threatening to disclose, private sexual photographs and films with intent to cause distress[^c-d5b27c3d9a4daf7558cdc4a423bb0cc8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b27c3d9a4daf7558cdc4a423bb0cc8]: Textual amendment: [Ss. 33-35](https://www.legislation.gov.uk/ukpga/2015/2/section/33) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 190](https://www.legislation.gov.uk/ukpga/2023/50/section/190), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-d5b27c3d9a4daf7558cdc4a423bb0cc8]: Textual amendment: [Ss. 33-35](https://www.legislation.gov.uk/ukpga/2015/2/section/33) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 190](https://www.legislation.gov.uk/ukpga/2023/50/section/190), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

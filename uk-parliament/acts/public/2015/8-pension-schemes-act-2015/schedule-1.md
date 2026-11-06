@@ -24,19 +24,19 @@ summary: ''
 
 Section 40
 
-**1.**[^key-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f18e46c419955791c4cda36ffa35eef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In Schedule 3 to that Act (revaluation methods), before paragraph 1 insert—
 
@@ -61,4 +61,4 @@ Section 40
 
 ## Annotations
 
-[^key-f18e46c419955791c4cda36ffa35eef8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2015/8/schedule/1) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/d), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)
+[^c-f18e46c419955791c4cda36ffa35eef8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2015/8/schedule/1) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/d), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)

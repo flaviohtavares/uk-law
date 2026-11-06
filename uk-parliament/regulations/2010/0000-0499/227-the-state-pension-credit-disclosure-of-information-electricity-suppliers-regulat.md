@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The State Pension Credit (Disclosure of Information) (Electricity Suppliers) Regulations 2010 (revoked)[^key-4224467f7bb3842a485014e71900a05f]
+The State Pension Credit (Disclosure of Information) (Electricity Suppliers) Regulations 2010 (revoked)[^c-4224467f7bb3842a485014e71900a05f]
 
 Made
 
@@ -42,48 +42,48 @@ Coming into force
 
 5th February 2010
 
-[^key-4224467f7bb3842a485014e71900a05f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4224467f7bb3842a485014e71900a05f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4224467f7bb3842a485014e71900a05f]
+## 1. Citation and commencement[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4224467f7bb3842a485014e71900a05f]
+## 2. Interpretation[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Electricity supplier[^key-4224467f7bb3842a485014e71900a05f]
+## 3. Electricity supplier[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relevant SPC claimants[^key-4224467f7bb3842a485014e71900a05f]
+## 4. Relevant SPC claimants[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Disclosure of information by the Secretary of State[^key-4224467f7bb3842a485014e71900a05f]
+## 5. Disclosure of information by the Secretary of State[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Disclosure of customer information by electricity suppliers[^key-4224467f7bb3842a485014e71900a05f]
+## 6. Disclosure of customer information by electricity suppliers[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-4224467f7bb3842a485014e71900a05f]
+## 7. Offences[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Liability of directors etc.[^key-4224467f7bb3842a485014e71900a05f]
+## 8. Liability of directors etc.[^c-4224467f7bb3842a485014e71900a05f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4224467f7bb3842a485014e71900a05f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4224467f7bb3842a485014e71900a05f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4224467f7bb3842a485014e71900a05f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4224467f7bb3842a485014e71900a05f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4224467f7bb3842a485014e71900a05f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/227) revoked (20.7.2011) by [The Disclosure of State Pension Credit Information (Warm Home Discount) Regulations 2011 (S.I. 2011/1830)](https://www.legislation.gov.uk/uksi/2011/1830), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1830/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2011/1830/regulation/8)
+[^c-4224467f7bb3842a485014e71900a05f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/227) revoked (20.7.2011) by [The Disclosure of State Pension Credit Information (Warm Home Discount) Regulations 2011 (S.I. 2011/1830)](https://www.legislation.gov.uk/uksi/2011/1830), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1830/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2011/1830/regulation/8)

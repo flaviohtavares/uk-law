@@ -24,21 +24,21 @@ Section 177A.
 
 ### Application and construction of Schedule
 
-**1.** (1) This Schedule shall have effect, in the case of a company which becomes[^key-ba01eee616c8de6fd1fe05ab55f2828d] a member of a group of companies (“**the relevant group**”), in relation to any pre-entry losses of that company, but this Schedule shall have no effect in any case where section 184A (restrictions on buying losses: tax avoidance schemes) has effect in relation to those losses[^key-320b32f1303f387adfb0ceeb67e62c5e].
+**1.** (1) This Schedule shall have effect, in the case of a company which becomes[^c-ba01eee616c8de6fd1fe05ab55f2828d] a member of a group of companies (“**the relevant group**”), in relation to any pre-entry losses of that company, but this Schedule shall have no effect in any case where section 184A (restrictions on buying losses: tax avoidance schemes) has effect in relation to those losses[^c-320b32f1303f387adfb0ceeb67e62c5e].
 
-(2)[^key-012c2f1ce502343377490b1cfc8aebc4] In this Schedule “**pre-entry loss**”, in relation to any company, means any allowable loss that accrued to that company at a time before it became a member of the relevant group.
+(2)[^c-012c2f1ce502343377490b1cfc8aebc4] In this Schedule “**pre-entry loss**”, in relation to any company, means any allowable loss that accrued to that company at a time before it became a member of the relevant group.
 
-(3)[^key-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a9791dc9c9040f5d4946030ec182af94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) If[^key-86c5aa12bb7212c2defa695d49246bed]—
+(6) If[^c-86c5aa12bb7212c2defa695d49246bed]—
 
-- (a) the principal company of a group of companies (“**the first group**”) has at any time become a member of another group (“**the second group**”) so that the two groups are treated as the same by virtue of subsection (10) or (10A)[^key-d2361cee248d4ea86e45bc7800cf1036] of section 170, and
+- (a) the principal company of a group of companies (“**the first group**”) has at any time become a member of another group (“**the second group**”) so that the two groups are treated as the same by virtue of subsection (10) or (10A)[^c-d2361cee248d4ea86e45bc7800cf1036] of section 170, and
 - (b) the second group, together in pursuance of that subsection with the first group, is the relevant group,
 
 then, except where sub-paragraph (7) below applies, the members of the first group shall be treated for the purposes of this Schedule as having become members of the relevant group at that time, and not by virtue of that subsection at the times when they became members of the first group.
@@ -50,7 +50,7 @@ then, except where sub-paragraph (7) below applies, the members of the first gro
   - (i) was not the principal company of any group immediately before that time; and
   - (ii) immediately after that time had assets consisting entirely, or almost entirely, of shares comprised in the issued share capital of the principal company of the first group.
 
-(8)[^key-a48703f319133d1dd864f835511b1d84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a48703f319133d1dd864f835511b1d84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In determining for the purposes of this Schedule whether any allowable loss accruing to a company under section 116(10)(b) is a loss that accrued before the company became a member of the relevant group, any loss so accruing shall be deemed to have accrued at the time of the relevant transaction within the meaning of section 116(2).
 
@@ -58,30 +58,30 @@ then, except where sub-paragraph (7) below applies, the members of the first gro
 
 ### Pre-entry proportion of losses on pre-entry assets
 
-**2.**[^key-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disposals of pooled assets
 
-**3.**[^key-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rule to prevent pre-entry losses on pooled assets being treated as post-entry losses
 
-**4.**[^key-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Alternative calculation by reference to market value
 
-**5.**[^key-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bab206fafe1c9cf82aa044377bab89bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restrictions on the deduction of pre-entry losses
 
 **6.** (1) In the calculation of the amount to be included in respect of chargeable gains in any company’s total profits for any accounting period—
 
 - (a) if in that period there is any chargeable gain from which the whole or any part of any pre-entry loss accruing in that period is deductible in accordance with paragraph 7 below, the loss or, as the case may be, that part of it shall be deducted from that gain;
-- (b) if, after all such deductions as may be made under paragraph (a) above have been made, there is in that period any chargeable gain from which the whole or any part of any pre-entry loss carried forward from a previous accounting period is deductible in accordance with paragraph 7 below, the loss or, as the case may be, that part of it shall be deducted from that gain (subject to sub-paragraphs (1A) to (1C)[^key-6a12ff5162f8ad65089fb5cbfd2bd18f];
-- (c) the total chargeable gains (if any) remaining after the making of all such deductions as may be made under paragraph (a) or (b) above shall be subject to deductions in accordance with section 2A(1)[^key-0672a40ccf054fbfa02baa649d612bb3] (subject to sub-paragraphs (1A) to (1C))[^key-48d2dca683694510fb5f32d6acdfdda8] in respect of any allowable losses that are not pre-entry losses; and
-- (d) any pre-entry loss which has not been the subject of a deduction under paragraph (a) or (b) above (as well as any other losses falling to be carried forward under section 2A(1)[^key-5a252102557698542c9e78b730d20fcd]) shall be carried forward to the following accounting period of that company.
+- (b) if, after all such deductions as may be made under paragraph (a) above have been made, there is in that period any chargeable gain from which the whole or any part of any pre-entry loss carried forward from a previous accounting period is deductible in accordance with paragraph 7 below, the loss or, as the case may be, that part of it shall be deducted from that gain (subject to sub-paragraphs (1A) to (1C)[^c-6a12ff5162f8ad65089fb5cbfd2bd18f];
+- (c) the total chargeable gains (if any) remaining after the making of all such deductions as may be made under paragraph (a) or (b) above shall be subject to deductions in accordance with section 2A(1)[^c-0672a40ccf054fbfa02baa649d612bb3] (subject to sub-paragraphs (1A) to (1C))[^c-48d2dca683694510fb5f32d6acdfdda8] in respect of any allowable losses that are not pre-entry losses; and
+- (d) any pre-entry loss which has not been the subject of a deduction under paragraph (a) or (b) above (as well as any other losses falling to be carried forward under section 2A(1)[^c-5a252102557698542c9e78b730d20fcd]) shall be carried forward to the following accounting period of that company.
 
-(1A)[^key-2eeba521fbf5770ea3b399d2a3b4255b] Sub-paragraph (1B) applies, in respect of an accounting period, if the amount of chargeable gains accruing to the company in the period exceeds the total of—
+(1A)[^c-2eeba521fbf5770ea3b399d2a3b4255b] Sub-paragraph (1B) applies, in respect of an accounting period, if the amount of chargeable gains accruing to the company in the period exceeds the total of—
 
 - (a) the amount of pre-entry losses accruing to the company in the period that are deductible under sub-paragraph (1)(a), and
 - (b) the amount of allowable losses, other than pre-entry losses, accruing to the company in the period.
@@ -99,15 +99,15 @@ then, except where sub-paragraph (7) below applies, the members of the first gro
 
 (2) Subject to sub-paragraph (1) above, any question as to which or what part of any pre-entry loss has been deducted from any particular chargeable gain shall be decided—
 
-- (a)[^key-febfc85d632acf80c7b9d000a99c0b4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-e3e6d6363c1aa6ddf7029f0308eb0e9e]... , in accordance with such elections as may be made by the company to which the loss accrued;
+- (a)[^c-febfc85d632acf80c7b9d000a99c0b4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-e3e6d6363c1aa6ddf7029f0308eb0e9e]... , in accordance with such elections as may be made by the company to which the loss accrued;
 
 and any question as to which or what part of any pre-entry loss has been carried forward from one accounting period to another shall be decided accordingly.
 
 (3) An election by any company under this paragraph shall be made by notice to the inspector given—
 
-- (a)[^key-331225e3423020275fbbb0e0cb67b475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-cc86e5aa2785ff6865fa91bb7400990e]... , before the end of the period of two years beginning with the end of the accounting period of that company in which the gain in question accrued.
+- (a)[^c-331225e3423020275fbbb0e0cb67b475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-cc86e5aa2785ff6865fa91bb7400990e]... , before the end of the period of two years beginning with the end of the accounting period of that company in which the gain in question accrued.
 
 (4) For the purposes of this Schedule where any matter falls to be determined under this paragraph by reference to an election but no election is made, it shall be assumed, so far as consistent with any elections that have been made—
 
@@ -120,9 +120,9 @@ and any question as to which or what part of any pre-entry loss has been carried
 
 - (a) on a disposal made by that company before the date on which it became a member of the relevant group (“**the entry date**”);
 - (b) on the disposal of an asset which was held by that company immediately before the entry date; or
-- (c)[^key-a8865f833fcc94a48e21ea91f2d2a3fb] on the disposal of any asset in respect of which the conditions in sub-paragraph (1A) are met.
+- (c)[^c-a8865f833fcc94a48e21ea91f2d2a3fb] on the disposal of any asset in respect of which the conditions in sub-paragraph (1A) are met.
 
-(1A)[^key-d735672544801d405340199523ad5499] The conditions referred to in sub-paragraph (1)(c) are—
+(1A)[^c-d735672544801d405340199523ad5499] The conditions referred to in sub-paragraph (1)(c) are—
 
 - (a) that the asset was acquired, on or after the entry date, by—
   - (i) the company to which the pre-entry loss accrued (“company A”), or
@@ -140,15 +140,15 @@ and any question as to which or what part of any pre-entry loss has been carried
 - (a) sub-paragraph (1) continues to have effect, in relation to any loss which accrued to the company before it became a member of the relevant group, by reference to the date on which it became such a member, and
 - (b) accordingly, that sub-paragraph does not apply separately in relation to the loss by reason of it also having accrued to the company before it became a member of the new group.
 
-(2)[^key-428e63cfb421763e8c0616ae8032c276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-428e63cfb421763e8c0616ae8032c276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where two or more companies become members of the relevant group at the same time and those companies were all members of the same group of companies immediately before they became members of the relevant group, then [^key-f88a5cc9d9bfd5fc927c43fcf2c146e1]... —
+(3) Where two or more companies become members of the relevant group at the same time and those companies were all members of the same group of companies immediately before they became members of the relevant group, then [^c-f88a5cc9d9bfd5fc927c43fcf2c146e1]... —
 
 - (a) an asset shall be treated for the purposes of sub-paragraph (1)(b) above as held, immediately before it became a member of the relevant group, by the company to which the pre-entry loss in question accrued if that company is one of those companies and the asset was in fact so held by another of those companies;
-- (b)[^key-6284b759ef763814e3e9c2cb495dfe33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; and
-- (c) the acquisition of an asset shall be treated for the purposes of sub-paragraph (1A)[^key-de45d16ee2db436372c91cf1589c9e6e] above as an acquisition by the company to which the pre-entry loss in question accrued if that company is one of those companies and the asset was in fact acquired (whether before or after they became members of the relevant group) by another of those companies.
+- (b)[^c-6284b759ef763814e3e9c2cb495dfe33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; and
+- (c) the acquisition of an asset shall be treated for the purposes of sub-paragraph (1A)[^c-de45d16ee2db436372c91cf1589c9e6e] above as an acquisition by the company to which the pre-entry loss in question accrued if that company is one of those companies and the asset was in fact acquired (whether before or after they became members of the relevant group) by another of those companies.
 
-(4)[^key-f32f9ac03eccfdd6d88533f53e2e849f] Sub-paragraphs (4A) and (4B) apply for determining for the purposes of this paragraph whether an asset on the disposal of which a chargeable gain accrues was an asset held by a company immediately before the entry date (a “pre-entry asset”).
+(4)[^c-f32f9ac03eccfdd6d88533f53e2e849f] Sub-paragraphs (4A) and (4B) apply for determining for the purposes of this paragraph whether an asset on the disposal of which a chargeable gain accrues was an asset held by a company immediately before the entry date (a “pre-entry asset”).
 
 (4A) Except as provided by sub-paragraph (4B), an asset is not a pre-entry asset if—
 
@@ -175,33 +175,33 @@ and paragraph (a) applies, in particular, where the second asset is a freehold a
 
 (5) Subject to sub-paragraph (6) below, where a gain accrues on the disposal of the whole or any part of—
 
-- (a) any asset treated as a single asset but comprising assets only some of which were held at the time mentioned in paragraph (b) of sub-paragraph (1) [^key-fbdd6038477818e48f1c31a247723b01]... above, or
+- (a) any asset treated as a single asset but comprising assets only some of which were held at the time mentioned in paragraph (b) of sub-paragraph (1) [^c-fbdd6038477818e48f1c31a247723b01]... above, or
 - (b) an asset which is treated as held at that time by virtue of a provision requiring an asset which was not held at that time to be treated as the same as an asset which was so held,
 
-a pre-entry loss shall be deductible by virtue of paragraph (b) of sub-paragraph (1) [^key-fbdd6038477818e48f1c31a247723b01]... above from the amount of that gain to the extent only of such proportion of that gain as is attributable to assets held at that time or, as the case may be, represents the gain that would have accrued on the asset so held.
+a pre-entry loss shall be deductible by virtue of paragraph (b) of sub-paragraph (1) [^c-fbdd6038477818e48f1c31a247723b01]... above from the amount of that gain to the extent only of such proportion of that gain as is attributable to assets held at that time or, as the case may be, represents the gain that would have accrued on the asset so held.
 
 (6) Where—
 
 - (a) a chargeable gain accrues by virtue of subsection (10) of section 116 on the disposal of a qualifying corporate bond,
-- (b) that bond was not held as required by paragraph (b) of sub-paragraph (1) [^key-123c86393ff19e2493cc8d63ee24a8cb]... above at the time mentioned in that paragraph, and
+- (b) that bond was not held as required by paragraph (b) of sub-paragraph (1) [^c-123c86393ff19e2493cc8d63ee24a8cb]... above at the time mentioned in that paragraph, and
 - (c) the whole or any part of the asset which is the old asset for the purposes of that section was so held,
 
 the question whether that gain is one accruing on the disposal of an asset the whole or any part of which was held by a particular company at that time shall be determined for the purposes of this paragraph as if the bond were deemed to have been so held to the same extent as the old asset.
 
 ### Change of a company’s nature
 
-**8.** (1)[^key-d2791e25a1476282c070c3c23ae35c5c] If—
+**8.** (1)[^c-d2791e25a1476282c070c3c23ae35c5c] If—
 
-- (a) within any period of three years, a company becomes a member of a group of companies and there is (either earlier or later in that period, or at the same time) a major change in the nature or conduct of a trade or business[^key-2b502f0700ee3b025c84f9db2a507f3e] which was carried on by that company immediately before it became a member of that group[^key-6986d0674ff27d34fa488944c491760d], or
+- (a) within any period of three years, a company becomes a member of a group of companies and there is (either earlier or later in that period, or at the same time) a major change in the nature or conduct of a trade or business[^c-2b502f0700ee3b025c84f9db2a507f3e] which was carried on by that company immediately before it became a member of that group[^c-6986d0674ff27d34fa488944c491760d], or
 - (b) at any time after the scale of the activities in a trade or business carried on by a company has become small or negligible, and before any considerable revival of the trade or business, that company becomes a member of a group of companies,
 
-the trade or business carried on before that change, or which has become small or negligible, shall be disregarded for the purposes of paragraph 7(1A)[^key-e5c9d03958a272c6bed1de2940f36e52] above in relation to any time before the company became a member of the group in question.
+the trade or business carried on before that change, or which has become small or negligible, shall be disregarded for the purposes of paragraph 7(1A)[^c-e5c9d03958a272c6bed1de2940f36e52] above in relation to any time before the company became a member of the group in question.
 
-(2)[^key-172368e5c04770336ca3e79efcf8a0bf] In sub-paragraph (1) “**a major change in the nature or conduct of a trade or business**” includes—
+(2)[^c-172368e5c04770336ca3e79efcf8a0bf] In sub-paragraph (1) “**a major change in the nature or conduct of a trade or business**” includes—
 
 - (a) a major change in the type of property dealt in, or services or facilities provided, in the trade or business,
 - (b) a major change in customers, markets or outlets of the trade or business, or
-- (c) in the case of a company with investment business (within the meaning of section 1218B[^key-308765c9f6005b796316f7b3f194bf71] of CTA 2009), a major change in the nature of the investments held;
+- (c) in the case of a company with investment business (within the meaning of section 1218B[^c-308765c9f6005b796316f7b3f194bf71] of CTA 2009), a major change in the nature of the investments held;
 
 and this paragraph applies even if the change is the result of a gradual process which began outside the period of three years mentioned in sub-paragraph (1)(a).
 
@@ -209,7 +209,7 @@ and this paragraph applies even if the change is the result of a gradual process
 
 ### Identification of “the relevant group" and application of Schedule to every connected group
 
-**9.**[^key-ff08fbd6b8ccb4193b7a082bfe8dc886] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ff08fbd6b8ccb4193b7a082bfe8dc886] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Appropriations to stock in trade
 
@@ -218,7 +218,7 @@ and this paragraph applies even if the change is the result of a gradual process
 - (a) the amount by which the market value of the asset may be treated as increased in pursuance of that election shall not include the amount of any pre-entry loss that would have accrued on that disposal; and
 - (b) this Schedule shall have effect as if the pre-entry loss of the last mentioned amount had accrued to that company at that time.
 
-**10A.**[^key-ec1825f91a607b3e46f65cb81620decb] Section 161(3ZB)(a) and (b) does not apply to a loss if, in the absence of an election under section 161(3ZA), the loss would have been a pre-entry loss.
+**10A.**[^c-ec1825f91a607b3e46f65cb81620decb] Section 161(3ZB)(a) and (b) does not apply to a loss if, in the absence of an election under section 161(3ZA), the loss would have been a pre-entry loss.
 
 ### Continuity provisions
 
@@ -235,8 +235,8 @@ and this paragraph applies even if the change is the result of a gradual process
 
 (3) For the purposes of this Schedule where a company became a member of the relevant group by virtue of the transfer by or under the transfer legislation of any shares in or other securities of that company or any other company—
 
-- (a) a loss that accrued to that company before it so became a member of that group shall not be a pre-entry loss in relation to that group; [^key-1555c7d73a896f7a0a5f6b520368cf3f]...
-- (b)[^key-1555c7d73a896f7a0a5f6b520368cf3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a loss that accrued to that company before it so became a member of that group shall not be a pre-entry loss in relation to that group; [^c-1555c7d73a896f7a0a5f6b520368cf3f]...
+- (b)[^c-1555c7d73a896f7a0a5f6b520368cf3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of this paragraph a company shall be regarded as wholly owned by the Crown if it is—
 
@@ -253,7 +253,7 @@ and this paragraph applies even if the change is the result of a gradual process
 **12.** For the purposes of this Schedule, and without prejudice to paragraph 11 above, where—
 
 - (a) a company which is a member of a group of companies becomes at any time a member of another group of companies as the result of a disposal of shares in or other securities of that company or any other company; and
-- (b) that disposal is one on which, by virtue of any of the no gain/no loss provisions[^key-2b4d3aa96668c27c012ad3b02c98eb6c], neither a gain nor a loss would accrue,
+- (b) that disposal is one on which, by virtue of any of the no gain/no loss provisions[^c-2b4d3aa96668c27c012ad3b02c98eb6c], neither a gain nor a loss would accrue,
 
 this Schedule shall have effect in relation to the losses that accrued to that company before that time and the assets held by that company at that time as if any time when it was a member of the first group were included in the period during which it is treated as having been a member of the second group.
 
@@ -261,78 +261,78 @@ this Schedule shall have effect in relation to the losses that accrued to that c
 
 [^c2187166]: Textual amendment: Sch. 7A inserted (27.7.1993 with effect as mentioned in [s. 88(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/88/3) of the amending Act) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), c. 88(2), Sch. 8
 
-[^key-ba01eee616c8de6fd1fe05ab55f2828d]: Textual amendment: Word in Sch. 7A para. 1(1) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/2)
+[^c-ba01eee616c8de6fd1fe05ab55f2828d]: Textual amendment: Word in Sch. 7A para. 1(1) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/2)
 
-[^key-320b32f1303f387adfb0ceeb67e62c5e]: Textual amendment: Words in Sch. 7A para. 1(1) inserted (with effect in accordance with s. 70(6)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/3) (with [s. 70(10)-(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/10))
+[^c-320b32f1303f387adfb0ceeb67e62c5e]: Textual amendment: Words in Sch. 7A para. 1(1) inserted (with effect in accordance with s. 70(6)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/3) (with [s. 70(10)-(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/10))
 
-[^key-012c2f1ce502343377490b1cfc8aebc4]: Textual amendment: Sch. 7A para. 1(2) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/3)
+[^c-012c2f1ce502343377490b1cfc8aebc4]: Textual amendment: Sch. 7A para. 1(2) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/3)
 
-[^key-a9791dc9c9040f5d4946030ec182af94]: Textual amendment: Sch. 7A para. 1(3)(3A)(4)(5) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/4)
+[^c-a9791dc9c9040f5d4946030ec182af94]: Textual amendment: Sch. 7A para. 1(3)(3A)(4)(5) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/4)
 
-[^key-86c5aa12bb7212c2defa695d49246bed]: Textual amendment: Word in Sch. 7A para. 1(6) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/5)
+[^c-86c5aa12bb7212c2defa695d49246bed]: Textual amendment: Word in Sch. 7A para. 1(6) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/5)
 
-[^key-d2361cee248d4ea86e45bc7800cf1036]: Textual amendment: Words in Sch. 7A para. 1(6)(a) inserted (with effect in accordance with s. 65(6) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 65(4)](https://www.legislation.gov.uk/ukpga/2005/22/section/65/4)
+[^c-d2361cee248d4ea86e45bc7800cf1036]: Textual amendment: Words in Sch. 7A para. 1(6)(a) inserted (with effect in accordance with s. 65(6) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 65(4)](https://www.legislation.gov.uk/ukpga/2005/22/section/65/4)
 
-[^key-a48703f319133d1dd864f835511b1d84]: Textual amendment: Sch. 7A para. 1(8) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(6)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/6)
+[^c-a48703f319133d1dd864f835511b1d84]: Textual amendment: Sch. 7A para. 1(8) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 3(6)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/3/6)
 
-[^key-bab206fafe1c9cf82aa044377bab89bb]: Textual amendment: Sch. 7A paras. 2-5 omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/4)
+[^c-bab206fafe1c9cf82aa044377bab89bb]: Textual amendment: Sch. 7A paras. 2-5 omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/4)
 
-[^key-6a12ff5162f8ad65089fb5cbfd2bd18f]: Textual amendment: Words in Sch. 7A para. 6(1)(b) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 18(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/18/2), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-6a12ff5162f8ad65089fb5cbfd2bd18f]: Textual amendment: Words in Sch. 7A para. 6(1)(b) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 18(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/18/2), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
 
-[^key-0672a40ccf054fbfa02baa649d612bb3]: Textual amendment: Words in Sch. 7A para. 6(1)(c) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/91)
+[^c-0672a40ccf054fbfa02baa649d612bb3]: Textual amendment: Words in Sch. 7A para. 6(1)(c) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/91)
 
-[^key-48d2dca683694510fb5f32d6acdfdda8]: Textual amendment: Words in Sch. 7A para. 6(1)(c) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 18(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/18/3), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-48d2dca683694510fb5f32d6acdfdda8]: Textual amendment: Words in Sch. 7A para. 6(1)(c) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 18(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/18/3), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
 
-[^key-5a252102557698542c9e78b730d20fcd]: Textual amendment: Words in Sch. 7A para. 6(1)(d) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/91)
+[^c-5a252102557698542c9e78b730d20fcd]: Textual amendment: Words in Sch. 7A para. 6(1)(d) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/91)
 
-[^key-2eeba521fbf5770ea3b399d2a3b4255b]: Textual amendment: Sch. 7A para. 6(1A)-(1C) inserted (with effect in accordance with Sch. 4 para. 42 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 para. 18(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/18/4) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-2eeba521fbf5770ea3b399d2a3b4255b]: Textual amendment: Sch. 7A para. 6(1A)-(1C) inserted (with effect in accordance with Sch. 4 para. 42 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 para. 18(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/18/4) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
 
-[^key-febfc85d632acf80c7b9d000a99c0b4d]: Textual amendment: Sch. 7A para. 6(2)(a) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/2/a)
+[^c-febfc85d632acf80c7b9d000a99c0b4d]: Textual amendment: Sch. 7A para. 6(2)(a) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/2/a)
 
-[^key-e3e6d6363c1aa6ddf7029f0308eb0e9e]: Textual amendment: Words in Sch. 7A para. 6(2)(b) omitted (with effect in accordance with paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/2/b)
+[^c-e3e6d6363c1aa6ddf7029f0308eb0e9e]: Textual amendment: Words in Sch. 7A para. 6(2)(b) omitted (with effect in accordance with paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/2/b)
 
-[^key-331225e3423020275fbbb0e0cb67b475]: Textual amendment: Sch. 7A para. 6(3)(a) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/3/a)
+[^c-331225e3423020275fbbb0e0cb67b475]: Textual amendment: Sch. 7A para. 6(3)(a) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/3/a)
 
-[^key-cc86e5aa2785ff6865fa91bb7400990e]: Textual amendment: Words in Sch. 7A para. 6(3)(b) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/3/b)
+[^c-cc86e5aa2785ff6865fa91bb7400990e]: Textual amendment: Words in Sch. 7A para. 6(3)(b) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/5/3/b)
 
-[^key-a8865f833fcc94a48e21ea91f2d2a3fb]: Textual amendment: Sch. 7A para. 7(1)(c) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/2)
+[^c-a8865f833fcc94a48e21ea91f2d2a3fb]: Textual amendment: Sch. 7A para. 7(1)(c) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/2)
 
-[^key-d735672544801d405340199523ad5499]: Textual amendment: Sch. 7A para. 7(1A)-(1C) inserted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/3)
+[^c-d735672544801d405340199523ad5499]: Textual amendment: Sch. 7A para. 7(1A)-(1C) inserted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/3)
 
-[^key-428e63cfb421763e8c0616ae8032c276]: Textual amendment: Sch. 7A para. 7(2) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/4)
+[^c-428e63cfb421763e8c0616ae8032c276]: Textual amendment: Sch. 7A para. 7(2) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/4)
 
-[^key-f88a5cc9d9bfd5fc927c43fcf2c146e1]: Textual amendment: Words in Sch. 7A para. 7(3) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/5/a)
+[^c-f88a5cc9d9bfd5fc927c43fcf2c146e1]: Textual amendment: Words in Sch. 7A para. 7(3) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/5/a)
 
-[^key-6284b759ef763814e3e9c2cb495dfe33]: Textual amendment: Sch. 7A para. 7(3)(b) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/5/b)
+[^c-6284b759ef763814e3e9c2cb495dfe33]: Textual amendment: Sch. 7A para. 7(3)(b) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/5/b)
 
-[^key-de45d16ee2db436372c91cf1589c9e6e]: Textual amendment: Words in Sch. 7A para. 7(3)(c) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(5)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/5/c)
+[^c-de45d16ee2db436372c91cf1589c9e6e]: Textual amendment: Words in Sch. 7A para. 7(3)(c) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(5)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/5/c)
 
-[^key-f32f9ac03eccfdd6d88533f53e2e849f]: Textual amendment: Sch. 7A para. 7(4)-(4C) substituted for Sch. 7A para. 7(4) (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(6)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/6)
+[^c-f32f9ac03eccfdd6d88533f53e2e849f]: Textual amendment: Sch. 7A para. 7(4)-(4C) substituted for Sch. 7A para. 7(4) (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(6)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/6)
 
-[^key-fbdd6038477818e48f1c31a247723b01]: Textual amendment: Words in Sch. 7A para. 7(5) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(7)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/7)
+[^c-fbdd6038477818e48f1c31a247723b01]: Textual amendment: Words in Sch. 7A para. 7(5) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(7)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/7)
 
-[^key-123c86393ff19e2493cc8d63ee24a8cb]: Textual amendment: Words in Sch. 7A para. 7(6)(b) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(8)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/8)
+[^c-123c86393ff19e2493cc8d63ee24a8cb]: Textual amendment: Words in Sch. 7A para. 7(6)(b) omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 6(8)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/6/8)
 
-[^key-d2791e25a1476282c070c3c23ae35c5c]: Modification: Sch. 7A para. 8(1) applied by 1988 c. 1, Sch. 28A para. 13 (as inserted (with effect in accordance with Sch. 26 para. 5 of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/1995/4/schedule/26/paragraph/3))
+[^c-d2791e25a1476282c070c3c23ae35c5c]: Modification: Sch. 7A para. 8(1) applied by 1988 c. 1, Sch. 28A para. 13 (as inserted (with effect in accordance with Sch. 26 para. 5 of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/1995/4/schedule/26/paragraph/3))
 
-[^key-2b502f0700ee3b025c84f9db2a507f3e]: Textual amendment: Words in Sch. 7A para. 8(1) inserted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/2/a)
+[^c-2b502f0700ee3b025c84f9db2a507f3e]: Textual amendment: Words in Sch. 7A para. 8(1) inserted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/2/a)
 
-[^key-6986d0674ff27d34fa488944c491760d]: Textual amendment: Words in Sch. 7A para. 8(1) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/2/b)
+[^c-6986d0674ff27d34fa488944c491760d]: Textual amendment: Words in Sch. 7A para. 8(1) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/2/b)
 
-[^key-e5c9d03958a272c6bed1de2940f36e52]: Textual amendment: Words in Sch. 7A para. 8(1) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/2/c)
+[^c-e5c9d03958a272c6bed1de2940f36e52]: Textual amendment: Words in Sch. 7A para. 8(1) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/2/c)
 
-[^key-172368e5c04770336ca3e79efcf8a0bf]: Textual amendment: Sch. 7A para. 8(2) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/3)
+[^c-172368e5c04770336ca3e79efcf8a0bf]: Textual amendment: Sch. 7A para. 8(2) substituted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/7/3)
 
-[^key-308765c9f6005b796316f7b3f194bf71]: Textual amendment: Words in [Sch. 7A para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A/paragraph/8/2/c) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 55(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/55/a)
+[^c-308765c9f6005b796316f7b3f194bf71]: Textual amendment: Words in [Sch. 7A para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A/paragraph/8/2/c) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 55(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/55/a)
 
-[^key-ff08fbd6b8ccb4193b7a082bfe8dc886]: Textual amendment: Sch. 7A para. 9 omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/8)
+[^c-ff08fbd6b8ccb4193b7a082bfe8dc886]: Textual amendment: Sch. 7A para. 9 omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/8)
 
-[^key-ec1825f91a607b3e46f65cb81620decb]: Textual amendment: Sch. 7A para. 10A inserted (with effect in accordance with Sch. 25 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/25/paragraph/17)
+[^c-ec1825f91a607b3e46f65cb81620decb]: Textual amendment: Sch. 7A para. 10A inserted (with effect in accordance with Sch. 25 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/25/paragraph/17)
 
-[^key-1555c7d73a896f7a0a5f6b520368cf3f]: Textual amendment: Sch. 7A para. 11(3)(b) and preceding word omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/9)
+[^c-1555c7d73a896f7a0a5f6b520368cf3f]: Textual amendment: Sch. 7A para. 11(3)(b) and preceding word omitted (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/9)
 
 [^c2138505]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^c2138506]: Marginal citation: [S.I. 1979/1573 (N.I. 13)](https://www.legislation.gov.uk/nisi/1979/1573).
 
-[^key-2b4d3aa96668c27c012ad3b02c98eb6c]: Textual amendment: Words in Sch. 7A para. 12(b) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/68)
+[^c-2b4d3aa96668c27c012ad3b02c98eb6c]: Textual amendment: Words in Sch. 7A para. 12(b) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/68)

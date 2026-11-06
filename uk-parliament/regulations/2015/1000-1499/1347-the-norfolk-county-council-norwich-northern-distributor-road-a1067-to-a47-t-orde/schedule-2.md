@@ -22,12 +22,12 @@ summary: ''
 
 Articles 2, 41 and 45
 
-### 1. Interpretation[^key-5a3fc4303c53db34dc1af45cef194377]
+### 1. Interpretation[^c-5a3fc4303c53db34dc1af45cef194377]
 
 (1) In this Schedule the following expressions have the following meanings—
 
 - “Design Manual for Roads and Bridges” means the document of that name published by Highways England;
-- “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^key-e22d7a7fcfd3099388600fe725f5c2eb];
+- “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^c-e22d7a7fcfd3099388600fe725f5c2eb];
 - “heavy goods vehicle” means a heavy goods vehicle of more than 7.5 tonnes gross vehicle weight;
 - “Marriott’s Way” means the land defined as the “Marriott’s Way open space land” in article 2 (interpretation);
 - “mitigation table” means the table describing the mitigation measures identified in the environmental statement for the authorised development called the “NDR mitigation table Revision 1” and dated 2nd December 2014;
@@ -36,15 +36,15 @@ Articles 2, 41 and 45
 
 (2) Nothing in this Schedule prevents the carrying out of environmental (including archaeological) investigations or site or soil surveys immediately upon this Order coming into force.
 
-### 2. Time limits[^key-d0f14f8e9a618cd05d237906ceab431c]
+### 2. Time limits[^c-d0f14f8e9a618cd05d237906ceab431c]
 
 The authorised development must not commence later than the expiration of 5 years beginning with the date that this Order comes into force.
 
-### 3. Commencement of the authorised development[^key-b22b8cdd9760beb736987210f3713628]
+### 3. Commencement of the authorised development[^c-b22b8cdd9760beb736987210f3713628]
 
 Notice of commencement of the authorised development must be given to the relevant planning authority in writing within 7 days of the date that the authorised development is commenced.
 
-### 4. Development to be carried out in accordance with plans[^key-3e33e803189a223950c23ddd6a7daddc]
+### 4. Development to be carried out in accordance with plans[^c-3e33e803189a223950c23ddd6a7daddc]
 
 (1) The authorised development must be carried out in accordance with the approved plans, such plans being subject to the limits of deviation, bearing references listed below and any other plans, drawings, documents, details, schemes, statements or strategies which have been approved in writing by the relevant planning authority under any requirement—
 
@@ -69,7 +69,7 @@ Notice of commencement of the authorised development must be given to the releva
 
 (2) The authorised development must be carried out in accordance with and incorporating the measures set out in the mitigation table.
 
-### 5. Landscape and ecology[^key-48ca3ba9d627877f968cfe200ef431db]
+### 5. Landscape and ecology[^c-48ca3ba9d627877f968cfe200ef431db]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a written landscape and ecological management plan covering the landscape and ecological and nature conservation elements forming part of the relevant work number has been submitted to and, following consultation with the relevant district authorities and Natural England, approved in writing by the relevant planning authority.
 
@@ -89,7 +89,7 @@ Notice of commencement of the authorised development must be given to the releva
 
 (7) A scheme for the protection of, and mitigation measures for, the relevant European protected species, must be agreed in writing with Natural England and implemented immediately.
 
-### 6. Existing trees and hedgerows and soil[^key-9351b89baa23229642c8b003086338e9]
+### 6. Existing trees and hedgerows and soil[^c-9351b89baa23229642c8b003086338e9]
 
 (1) All hedges and trees forming part of the boundary of the Order land or situated within it (unless shown to be removed in the environmental statement or in a landscape and ecological management plan approved under requirement 5 (landscape and ecology)) must be protected from any damage during the construction of the authorised development in accordance with British Standard BS5837 (2012) ‘Trees in relation to design, demolition and construction’.
 
@@ -99,7 +99,7 @@ Notice of commencement of the authorised development must be given to the releva
 
 (4) Any felling, lopping or removal of hedges or trees during the bird nesting season must be preceded by a written report by a suitably qualified ecologist, which must be supplied to the relevant planning authority. The recommendations of the ecologist as set out in the report must be complied with in relation to any relevant activity involving felling, lopping or removal of hedges or trees.
 
-### 7. Contamination[^key-0e8972d8a2b9bd65cc51c67ecb0cd9ec]
+### 7. Contamination[^c-0e8972d8a2b9bd65cc51c67ecb0cd9ec]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a written scheme applicable to that work, to deal with the contamination of any land, including water resources and in particular groundwater quality, within the Order limits which is likely to cause significant harm to persons or the environment has been submitted to and, following consultation with the relevant district authorities and the Environment Agency, approved in writing by the relevant planning authority.
 
@@ -113,7 +113,7 @@ Notice of commencement of the authorised development must be given to the releva
 
 (6) Remediation must be carried out in accordance with the scheme approved under this requirement. Following completion of remedial measures identified in the approved scheme a verification report must be prepared, which must be approved in writing by the relevant planning authority, in consultation with the relevant district authorities and the Environment Agency.
 
-### 8. Noise and vibration[^key-9bc0604561e26765c0539e447153669d]
+### 8. Noise and vibration[^c-9bc0604561e26765c0539e447153669d]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a written scheme for noise and vibration management during construction of that work has been submitted to and, following consultation with the relevant district authorities, approved in writing by the relevant planning authority.
 
@@ -127,7 +127,7 @@ Notice of commencement of the authorised development must be given to the releva
 
 (4) The construction works must be undertaken in accordance with the approved noise and vibration management scheme.
 
-### 9. Hours of working[^key-74915f8f161e194ca79073143b62517d]
+### 9. Hours of working[^c-74915f8f161e194ca79073143b62517d]
 
 (1) No construction works, or the delivery or removal of materials, is to take place outside the hours of—
 
@@ -139,13 +139,13 @@ Notice of commencement of the authorised development must be given to the releva
 - (a) the use of pumping equipment or the carrying out of essential on-site repairs to plant and machinery; and
 - (b) construction works, or the delivery or removal of materials, carried out with the prior written approval of the relevant planning authority.
 
-### 10. Construction workers travel plan[^key-f5c7a4f41b64f3bab9a7e0527e183305]
+### 10. Construction workers travel plan[^c-f5c7a4f41b64f3bab9a7e0527e183305]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a travel plan covering the construction of that numbered work, which must include details of the expected means of travel to and from the authorised development and any parking to be provided, has been submitted to and, following consultation with the relevant district authorities, approved in writing by the relevant planning authority.
 
 (2) The travel plan approved under sub-paragraph (1) must be implemented in full during the construction of the authorised development.
 
-### 11. Construction traffic management[^key-83ed4b82b409608e29f137edb1df1a1f]
+### 11. Construction traffic management[^c-83ed4b82b409608e29f137edb1df1a1f]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until the locations and details of the access points, routing and temporary signing for traffic associated with the construction of that numbered work from the public highway have been submitted to and, following consultation with the relevant district authorities and Breckland District Council, approved in writing by the relevant planning authority.
 
@@ -153,13 +153,13 @@ Notice of commencement of the authorised development must be given to the releva
 
 (3) All construction traffic must access the authorised development using routes and access points approved under sub-paragraph (1) at all times.
 
-### 12. Dust and mud on the highway during construction[^key-594d7ff923747fd2bd23d3edabca87cf]
+### 12. Dust and mud on the highway during construction[^c-594d7ff923747fd2bd23d3edabca87cf]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until wheel cleaning facilities have been installed to clean the wheels of all construction vehicles entering the public highway from the site of that numbered work, the design, specification and locations of which must first be approved in writing by the relevant planning authority.
 
 (2) The approved facilities must remain in position and be maintained in full working order and be used by all heavy goods vehicles throughout the construction of the authorised development to minimise the risk that dust, mud or other deleterious matter is transferred to the public highway by vehicles leaving the authorised development.
 
-### 13. Dust and mud during construction – air quality[^key-279efc0040b20434ebc05513d3205e15]
+### 13. Dust and mud during construction – air quality[^c-279efc0040b20434ebc05513d3205e15]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until measures relevant to the construction of that numbered work to minimise the risk of dust or windblown material being carried on to adjacent land have been submitted to and, following consultation with the relevant district authorities, approved in writing by the relevant planning authority.
 
@@ -167,7 +167,7 @@ Notice of commencement of the authorised development must be given to the releva
 
 (3) The loads of a heavy goods vehicles carrying material in to or out of the authorised development during the construction of the authorised development must be secured appropriately, having particular regard to granular material.
 
-### 14. Safeguarding of watercourses and drainage[^key-85f90a9c11173adc80369adb46322167]
+### 14. Safeguarding of watercourses and drainage[^c-85f90a9c11173adc80369adb46322167]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a written scheme for the provision and implementation of pollution control relevant to the construction of that numbered work has been submitted to and, following consultation with the relevant district authorities and the Environment Agency, approved in writing by the relevant planning authority.
 
@@ -179,7 +179,7 @@ Notice of commencement of the authorised development must be given to the releva
 
 (3) The approved scheme must be implemented in full.
 
-### 15. Archaeology[^key-41c6f10d59d21d175e81e93df143db27]
+### 15. Archaeology[^c-41c6f10d59d21d175e81e93df143db27]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a written scheme of archaeological investigation covering the relevant numbered work has been submitted to and, following consultation with the relevant district authorities, approved in writing by the relevant planning authority.
 
@@ -191,13 +191,13 @@ Notice of commencement of the authorised development must be given to the releva
 
 (5) If the relevant planning authority confirm to the undertaker during the 14 day period referred to in sub-paragraph (4) that the archaeological remains require further investigation, then no construction operations may take place within 10 metres of the remains until provision has been made for the investigation and recording of the remains in accordance with details first submitted to and approved in writing by the relevant planning authority.
 
-### 16. Site waste management plan[^key-3dd2878823188677e776f12563fa3c8d]
+### 16. Site waste management plan[^c-3dd2878823188677e776f12563fa3c8d]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a Site Waste Management Plan (“SWMP”) covering the relevant numbered work has been submitted to and, following consultation with the relevant district authorities and the Environment Agency, approved in writing by the relevant planning authority.
 
 (2) All construction works must be undertaken in accordance with the approved SWMP.
 
-### 17. Control of emissions during construction[^key-d6baf2d247c01339ba4173f255737a91]
+### 17. Control of emissions during construction[^c-d6baf2d247c01339ba4173f255737a91]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a written scheme covering the construction of that numbered work for the management and mitigation of emissions from the authorised development of—
 
@@ -209,7 +209,7 @@ has been submitted to and, following consultation with the relevant district aut
 
 (2) All construction works must be undertaken in accordance with the schemes approved under sub-paragraph (1).
 
-### 18. Construction environmental management plan[^key-c544cf58e48f160bad15866f91a69a4f]
+### 18. Construction environmental management plan[^c-c544cf58e48f160bad15866f91a69a4f]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a Construction Environment Management Plan (“CEMP”) covering the relevant numbered work has been submitted to and, following consultation with the relevant district authorities, the Environment Agency and Natural England, approved in writing by the relevant planning authority.
 
@@ -217,11 +217,11 @@ has been submitted to and, following consultation with the relevant district aut
 
 (3) All construction works must be undertaken in accordance with the approved CEMP.
 
-### 19. Construction of highway works affecting the Trunk Road network[^key-be38dead53905379711deaeba39ee27f]
+### 19. Construction of highway works affecting the Trunk Road network[^c-be38dead53905379711deaeba39ee27f]
 
 All highway works (including their construction) that directly affect the Trunk Road network, must comply in all respects with the relevant requirements of the Design Manual for Roads and Bridges, except where Highways England first approves otherwise in writing.
 
-### 20. Fencing and other means of enclosure[^key-3977edb1432f7dd3c164c56ef14f50a0]
+### 20. Fencing and other means of enclosure[^c-3977edb1432f7dd3c164c56ef14f50a0]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until written details of all proposed permanent and temporary fences, walls and other means of enclosure relevant to that numbered work have been submitted to and approved in writing by the relevant planning authority.
 
@@ -231,7 +231,7 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (4) The approved permanent fencing or enclosure must be erected in accordance with the details approved under sub-paragraph (1) prior to the relevant part of the authorised development being opened to the public for use.
 
-### 21. Operational noise attenuation measures and their on-going maintenance[^key-39af7069e8db176a18b012e8faf26a5d]
+### 21. Operational noise attenuation measures and their on-going maintenance[^c-39af7069e8db176a18b012e8faf26a5d]
 
 (1) No later than 6 months after commencement of the authorised development a written scheme detailing operational noise management and attenuation measures, and their ongoing maintenance, must be submitted to the relevant planning authority for its approval.
 
@@ -239,13 +239,13 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (3) The noise attenuation measures detailed in the scheme approved under sub-paragraph (2) must be installed during the course of the construction of the authorised development and the authorised development must be operated afterwards in accordance with the scheme approved under sub-paragraph (2).
 
-### 22. Public rights of way[^key-e83d0d3f8fb39b799b2e216d6808717e]
+### 22. Public rights of way[^c-e83d0d3f8fb39b799b2e216d6808717e]
 
 (1) No public right of way to be closed or diverted during the construction of or as part of the operation of the authorised development is to be closed or diverted before the relevant planning authority has given its approval in writing to the details of the relevant closure or diversion.
 
 (2) All public rights of way closures and diversions must be carried out in accordance with the details approved under sub-paragraph (1).
 
-### 23. Alternative route for Marriott’s Way[^key-3c49fff0f168d2600f1eb82f35eb2576]
+### 23. Alternative route for Marriott’s Way[^c-3c49fff0f168d2600f1eb82f35eb2576]
 
 (1) Prior to the closure of Marriott’s Way to the public the undertaker must provide a reasonable alternative route so as to permit the passage of pedestrians, cyclists and equestrians, between the two points at which Marriott’s Way is to be temporarily closed during construction of the authorised development, such alternative route to be first approved in writing by the relevant planning authority.
 
@@ -259,27 +259,27 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (4) The undertaker must seek to minimise the number and extent of closures under sub-paragraph 2(c).
 
-### 24. Surface water drainage[^key-6376972a8b13c311e5aeb8b78089b6c7]
+### 24. Surface water drainage[^c-6376972a8b13c311e5aeb8b78089b6c7]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a detailed surface water drainage strategy (including pollution control measures) relating to both the construction and operation of the authorised development for the relevant work numbers has been submitted to and, following consultation with the relevant district authorities and the Environment Agency, approved in writing by the relevant planning authority.
 
 (2) The authorised development must be constructed in accordance with the approved surface water drainage strategy, including any timetable or programme approved within it.
 
-### 25. A1067 and Weston Hall Road drainage[^key-3d6668f9b2bc25656f1e1414949877da]
+### 25. A1067 and Weston Hall Road drainage[^c-3d6668f9b2bc25656f1e1414949877da]
 
 (1) No part of any numbered work in Schedule 1 (authorised development) is to commence until a mitigation measures action plan (“MMAP”) for the A1067 at Attlebridge and Lenwade, and for Weston Hall Road, has been submitted to and, following consultation with Natural England and the Environment Agency, approved in writing by the relevant planning authority.
 
-(2) The MMAP must include measures for the prevention of sediment entering the River Wensum special area of conservation (as defined in regulation 3(1) of the Conservation of Habitats and Species Regulations 2017[^key-43897e9a15ad0744900611ed66040086]) and for monitoring their effectiveness.
+(2) The MMAP must include measures for the prevention of sediment entering the River Wensum special area of conservation (as defined in regulation 3(1) of the Conservation of Habitats and Species Regulations 2017[^c-43897e9a15ad0744900611ed66040086]) and for monitoring their effectiveness.
 
 (3) The approved MMAP must be implemented in full.
 
-### 26. Routeing to Norwich International Airport and Cromer[^key-0d58445eee02104899f25b70b3a0761b]
+### 26. Routeing to Norwich International Airport and Cromer[^c-0d58445eee02104899f25b70b3a0761b]
 
 (1) The NDR classified road must not open to traffic until details indicating the preferred routeing for vehicles travelling to and from the A47 (to the west of Norwich) to Norwich International Airport and Cromer have been submitted to and, following consultation with Highways England, Broadland District Council, Norwich City Council and Breckland District Council, approved in writing by the relevant planning authority.
 
 (2) Prior to the opening to traffic of the NDR classified road the signage for the approved routeing to and from the A47 to Norwich International Airport and Cromer must be displayed and afterwards maintained.
 
-### 27. Weston Longville and Hockering traffic[^key-f03a0f8723d6d8fb9199e98e6aa22219]
+### 27. Weston Longville and Hockering traffic[^c-f03a0f8723d6d8fb9199e98e6aa22219]
 
 (1) Prior to the NDR classified road being open to traffic a scheme of traffic management measures to minimise ‘rat-running’ for the villages of Weston Longville and Hockering must be submitted to and, following consultation with Broadland District Council and Breckland District Council, approved in writing by the relevant planning authority.
 
@@ -297,7 +297,7 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (5) The approved scheme must be implemented in full in accordance with the approved timetable.
 
-### 28. Ringland, Costessey, Taverham and Drayton traffic[^key-223a0e351107af070e0e268f0b6fee41]
+### 28. Ringland, Costessey, Taverham and Drayton traffic[^c-223a0e351107af070e0e268f0b6fee41]
 
 (1) Prior to the NDR classified road being open to traffic a scheme of measures to minimise ‘rat-running’ through Ringland, Costessey, Taverham and Drayton must be submitted to and, following consultation with Broadland District Council and South Norfolk District Council, approved in writing by the relevant planning authority.
 
@@ -310,7 +310,7 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (3) The approved scheme must be implemented in full in accordance with the approved timetable.
 
-### 29. Lyng traffic[^key-33b7b01aacfff72cf7c14632e55eafa2]
+### 29. Lyng traffic[^c-33b7b01aacfff72cf7c14632e55eafa2]
 
 (1) No later than 12 months after commencement of the authorised development a scheme showing the arrangements for the pre- and post-monitoring of traffic through the village of Lyng must be submitted to and, following consultation with Breckland District Council, approved in writing by the relevant planning authority.
 
@@ -322,13 +322,13 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (5) The scheme of traffic management measures approved under sub-paragraph (4) must be implemented in full in accordance with the approved timetable.
 
-### 30. Traffic monitoring generally[^key-2fa1219516e68331e8521d6001348dce]
+### 30. Traffic monitoring generally[^c-2fa1219516e68331e8521d6001348dce]
 
 (1) Prior to the NDR classified road being opened to traffic a scheme for the post-monitoring of traffic on the local highway network must be submitted to and, following consultation with Broadland District Council, South Norfolk District Council, Breckland District Council and Norwich City Council, approved in writing by the relevant planning authority.
 
 (2) The approved scheme must include the monitoring locations, the monitoring periods and the timetable and arrangements for reporting the results, and must be implemented in full.
 
-### 31. Complementary traffic measures[^key-20898e979c1b71136786c628c0ff49eb]
+### 31. Complementary traffic measures[^c-20898e979c1b71136786c628c0ff49eb]
 
 (1) The NDR classified road must not be fully opened to vehicular traffic until an action plan of complementary traffic measures has been submitted to and approved in writing by the relevant planning authority. The action plan must have regard to the Norwich Area Transportation Strategy Implementation Plan Update 2013 (published by Norfolk County Council) and include (but is not limited to)—
 
@@ -345,7 +345,7 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (5) In addition to the provisions of the action plan for the period to 2020/21 as referred to in sub-paragraphs (1) to (3), the action plan and its review under sub-paragraph (4), must contain a statement of the longer-term measures intended to be introduced in the period up to 2032, such as BRT1, BRT5 and orbital bus routes, and an explanation as to why they cannot reasonably be progressed earlier.
 
-### 32. Lighting of the authorised development[^key-c236a711e9aacb545d01dcb46527d20f]
+### 32. Lighting of the authorised development[^c-c236a711e9aacb545d01dcb46527d20f]
 
 (1) Regardless of the provisions of Class A of Part 13 of Schedule 2 to the Town and Country Planning (General Permitted Development) Order 1995, no part of the authorised development is to be lit other than—
 
@@ -354,7 +354,7 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (2) Nothing in this requirement restricts lighting of the authorised development during its construction or where temporarily required for maintenance.
 
-### 33. Surfacing of the carriageway of the authorised development[^key-b725b007d65e07482ca9ed4afe02dc6b]
+### 33. Surfacing of the carriageway of the authorised development[^c-b725b007d65e07482ca9ed4afe02dc6b]
 
 (1) No part of the authorised development is to commence until written details of the materials to be used for the surfacing of the carriageway for any new highway comprised in the authorised development have been submitted to and, following consultation with the relevant district authorities, approved in writing by the relevant planning authority.
 
@@ -364,13 +364,13 @@ All highway works (including their construction) that directly affect the Trunk 
 
 (4) When the surfacing of the carriageway for any new highway comprised in the authorised development is to be replaced, similar low noise road surfacing materials to those approved under sub-paragraph (1) must be used.
 
-### 34. Surfacing of bridleways[^key-a84aaae8fbb504c5e6e657d8ed35e18f]
+### 34. Surfacing of bridleways[^c-a84aaae8fbb504c5e6e657d8ed35e18f]
 
 (1) No part of any numbered work in schedule 1 (authorised development) is to commence until details of the proposed surfacing of bridleways relating to that numbered work have been submitted to and, following consultation with the relevant district authorities, approved in writing by the relevant planning authority.
 
 (2) The surfacing of bridleways must be carried out using the materials approved under sub-paragraph (1).
 
-### 35. Amendments to approved details[^key-8e25a6100fecccea97ca8b30f527c7d0]
+### 35. Amendments to approved details[^c-8e25a6100fecccea97ca8b30f527c7d0]
 
 (1) With respect to any requirement which requires the approval of any details, plans or schemes by the relevant planning authority, the undertaker may submit to the relevant planning authority for approval in writing any amendments to the approved details, plans or schemes (provided that they are not likely to give rise to any significant adverse environmental effects beyond those assessed in the environmental statement) and following any further approval by the relevant planning authority the approved details, plans or schemes include the amendments approved under this requirement.
 
@@ -378,78 +378,78 @@ All highway works (including their construction) that directly affect the Trunk 
 
 ## Annotations
 
-[^key-5a3fc4303c53db34dc1af45cef194377]: Commencement: Sch. 2 para. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-5a3fc4303c53db34dc1af45cef194377]: Commencement: Sch. 2 para. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-e22d7a7fcfd3099388600fe725f5c2eb]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2015/1347/schedule/2/paragraph/1/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 57(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/57/a)
+[^c-e22d7a7fcfd3099388600fe725f5c2eb]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2015/1347/schedule/2/paragraph/1/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 57(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/57/a)
 
 [^f00038]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-d0f14f8e9a618cd05d237906ceab431c]: Commencement: Sch. 2 para. 2 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-d0f14f8e9a618cd05d237906ceab431c]: Commencement: Sch. 2 para. 2 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-b22b8cdd9760beb736987210f3713628]: Commencement: Sch. 2 para. 3 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-b22b8cdd9760beb736987210f3713628]: Commencement: Sch. 2 para. 3 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-3e33e803189a223950c23ddd6a7daddc]: Commencement: Sch. 2 para. 4 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-3e33e803189a223950c23ddd6a7daddc]: Commencement: Sch. 2 para. 4 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-48ca3ba9d627877f968cfe200ef431db]: Commencement: Sch. 2 para. 5 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-48ca3ba9d627877f968cfe200ef431db]: Commencement: Sch. 2 para. 5 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-9351b89baa23229642c8b003086338e9]: Commencement: Sch. 2 para. 6 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-9351b89baa23229642c8b003086338e9]: Commencement: Sch. 2 para. 6 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-0e8972d8a2b9bd65cc51c67ecb0cd9ec]: Commencement: Sch. 2 para. 7 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-0e8972d8a2b9bd65cc51c67ecb0cd9ec]: Commencement: Sch. 2 para. 7 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-9bc0604561e26765c0539e447153669d]: Commencement: Sch. 2 para. 8 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-9bc0604561e26765c0539e447153669d]: Commencement: Sch. 2 para. 8 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-74915f8f161e194ca79073143b62517d]: Commencement: Sch. 2 para. 9 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-74915f8f161e194ca79073143b62517d]: Commencement: Sch. 2 para. 9 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-f5c7a4f41b64f3bab9a7e0527e183305]: Commencement: Sch. 2 para. 10 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-f5c7a4f41b64f3bab9a7e0527e183305]: Commencement: Sch. 2 para. 10 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-83ed4b82b409608e29f137edb1df1a1f]: Commencement: Sch. 2 para. 11 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-83ed4b82b409608e29f137edb1df1a1f]: Commencement: Sch. 2 para. 11 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-594d7ff923747fd2bd23d3edabca87cf]: Commencement: Sch. 2 para. 12 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-594d7ff923747fd2bd23d3edabca87cf]: Commencement: Sch. 2 para. 12 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-279efc0040b20434ebc05513d3205e15]: Commencement: Sch. 2 para. 13 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-279efc0040b20434ebc05513d3205e15]: Commencement: Sch. 2 para. 13 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-85f90a9c11173adc80369adb46322167]: Commencement: Sch. 2 para. 14 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-85f90a9c11173adc80369adb46322167]: Commencement: Sch. 2 para. 14 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-41c6f10d59d21d175e81e93df143db27]: Commencement: Sch. 2 para. 15 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-41c6f10d59d21d175e81e93df143db27]: Commencement: Sch. 2 para. 15 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-3dd2878823188677e776f12563fa3c8d]: Commencement: Sch. 2 para. 16 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-3dd2878823188677e776f12563fa3c8d]: Commencement: Sch. 2 para. 16 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-d6baf2d247c01339ba4173f255737a91]: Commencement: Sch. 2 para. 17 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-d6baf2d247c01339ba4173f255737a91]: Commencement: Sch. 2 para. 17 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-c544cf58e48f160bad15866f91a69a4f]: Commencement: Sch. 2 para. 18 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-c544cf58e48f160bad15866f91a69a4f]: Commencement: Sch. 2 para. 18 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-be38dead53905379711deaeba39ee27f]: Commencement: Sch. 2 para. 19 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-be38dead53905379711deaeba39ee27f]: Commencement: Sch. 2 para. 19 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-3977edb1432f7dd3c164c56ef14f50a0]: Commencement: Sch. 2 para. 20 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-3977edb1432f7dd3c164c56ef14f50a0]: Commencement: Sch. 2 para. 20 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-39af7069e8db176a18b012e8faf26a5d]: Commencement: Sch. 2 para. 21 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-39af7069e8db176a18b012e8faf26a5d]: Commencement: Sch. 2 para. 21 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-e83d0d3f8fb39b799b2e216d6808717e]: Commencement: Sch. 2 para. 22 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-e83d0d3f8fb39b799b2e216d6808717e]: Commencement: Sch. 2 para. 22 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-3c49fff0f168d2600f1eb82f35eb2576]: Commencement: Sch. 2 para. 23 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-3c49fff0f168d2600f1eb82f35eb2576]: Commencement: Sch. 2 para. 23 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-6376972a8b13c311e5aeb8b78089b6c7]: Commencement: Sch. 2 para. 24 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-6376972a8b13c311e5aeb8b78089b6c7]: Commencement: Sch. 2 para. 24 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-3d6668f9b2bc25656f1e1414949877da]: Commencement: Sch. 2 para. 25 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-3d6668f9b2bc25656f1e1414949877da]: Commencement: Sch. 2 para. 25 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-43897e9a15ad0744900611ed66040086]: Textual amendment: Words in [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/uksi/2015/1347/schedule/2/paragraph/25/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 57(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/57/b)
+[^c-43897e9a15ad0744900611ed66040086]: Textual amendment: Words in [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/uksi/2015/1347/schedule/2/paragraph/25/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 57(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/57/b)
 
-[^key-0d58445eee02104899f25b70b3a0761b]: Commencement: Sch. 2 para. 26 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-0d58445eee02104899f25b70b3a0761b]: Commencement: Sch. 2 para. 26 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-f03a0f8723d6d8fb9199e98e6aa22219]: Commencement: Sch. 2 para. 27 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-f03a0f8723d6d8fb9199e98e6aa22219]: Commencement: Sch. 2 para. 27 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-223a0e351107af070e0e268f0b6fee41]: Commencement: Sch. 2 para. 28 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-223a0e351107af070e0e268f0b6fee41]: Commencement: Sch. 2 para. 28 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-33b7b01aacfff72cf7c14632e55eafa2]: Commencement: Sch. 2 para. 29 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-33b7b01aacfff72cf7c14632e55eafa2]: Commencement: Sch. 2 para. 29 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-2fa1219516e68331e8521d6001348dce]: Commencement: Sch. 2 para. 30 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-2fa1219516e68331e8521d6001348dce]: Commencement: Sch. 2 para. 30 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-20898e979c1b71136786c628c0ff49eb]: Commencement: Sch. 2 para. 31 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-20898e979c1b71136786c628c0ff49eb]: Commencement: Sch. 2 para. 31 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-c236a711e9aacb545d01dcb46527d20f]: Commencement: Sch. 2 para. 32 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-c236a711e9aacb545d01dcb46527d20f]: Commencement: Sch. 2 para. 32 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-b725b007d65e07482ca9ed4afe02dc6b]: Commencement: Sch. 2 para. 33 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-b725b007d65e07482ca9ed4afe02dc6b]: Commencement: Sch. 2 para. 33 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-a84aaae8fbb504c5e6e657d8ed35e18f]: Commencement: Sch. 2 para. 34 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-a84aaae8fbb504c5e6e657d8ed35e18f]: Commencement: Sch. 2 para. 34 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-8e25a6100fecccea97ca8b30f527c7d0]: Commencement: Sch. 2 para. 35 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-8e25a6100fecccea97ca8b30f527c7d0]: Commencement: Sch. 2 para. 35 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

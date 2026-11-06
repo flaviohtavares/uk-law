@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Application for payment of benefits[^key-e2cf00624fa32a132eb60adee5adf4a9]
+## 159. Application for payment of benefits[^c-e2cf00624fa32a132eb60adee5adf4a9]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2cf00624fa32a132eb60adee5adf4a9]: Commencement: [Reg. 159](https://www.legislation.gov.uk/ssi/2014/292/regulation/159) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-e2cf00624fa32a132eb60adee5adf4a9]: Commencement: [Reg. 159](https://www.legislation.gov.uk/ssi/2014/292/regulation/159) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

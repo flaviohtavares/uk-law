@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275A. Rule if person starts to carry on business after 31 March[^key-7f644a4d6827ac1f3909ee2c096fefb7]
+## 275A. Rule if person starts to carry on business after 31 March[^c-7f644a4d6827ac1f3909ee2c096fefb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f644a4d6827ac1f3909ee2c096fefb7]: Textual amendment: [Ss. 275A-275C](https://www.legislation.gov.uk/ukpga/2005/5/section/275A) inserted (for the tax year 2023-24 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 8(3)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/8/3)
+[^c-7f644a4d6827ac1f3909ee2c096fefb7]: Textual amendment: [Ss. 275A-275C](https://www.legislation.gov.uk/ukpga/2005/5/section/275A) inserted (for the tax year 2023-24 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 8(3)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/8/3)

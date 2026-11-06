@@ -48,7 +48,7 @@ In accordance with section 100(7)(a) of that Act, the Secretary of State has obt
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-9be5ab4783901746678986642cffedf7]
+### 1. Citation, commencement and interpretation[^c-9be5ab4783901746678986642cffedf7]
 
 (1) These Regulations may be cited as the Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2015 and, except as provided in paragraph (2), come into force on 27th July 2015.
 
@@ -56,49 +56,49 @@ In accordance with section 100(7)(a) of that Act, the Secretary of State has obt
 
 ## PART 2 — Amendments to the Renewable Heat Incentive Scheme Regulations 2011
 
-### 2.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 2.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 3.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 4.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 5.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 6.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 7.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 8.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 9.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10.[^key-f712547c4561d3285c01a4589c84bbb8]
+### 10.[^c-f712547c4561d3285c01a4589c84bbb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendments to the Domestic Renewable Heat Incentive Scheme 2014
 
-### 11. Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014[^key-d3d78152efb6a89a2359291d267a2827]
+### 11. Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014[^c-d3d78152efb6a89a2359291d267a2827]
 
 The Domestic Renewable Heat Incentive Scheme Regulations 2014[^f00011] are amended in accordance with regulations 12 and 13.
 
-### 12. Amendment to regulation 2 (interpretation)[^key-698599fa86dd737388c72c913d73b64b]
+### 12. Amendment to regulation 2 (interpretation)[^c-698599fa86dd737388c72c913d73b64b]
 
 (1) Regulation 2 is amended as follows.
 
@@ -110,7 +110,7 @@ The Domestic Renewable Heat Incentive Scheme Regulations 2014[^f00011] are amend
 
 (3) In the definition of “seasonal performance factor” insert after “heat emitter guide” in paragraph (a) “or the SCOP calculator, whichever is required by the relevant installation standard”.
 
-### 13. Amendment to regulation 8 (certification requirements)[^key-234c6a9d6a318ca75bb4be34e9b3edd1]
+### 13. Amendment to regulation 8 (certification requirements)[^c-234c6a9d6a318ca75bb4be34e9b3edd1]
 
 (1) Regulation 8 is amended as follows.
 
@@ -185,19 +185,19 @@ The Explanatory Memorandum will be published alongside the instrument on www.leg
 
 [^f00001]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32); section 100 was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195) and section 51 of the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 51 also amended section 105 of the Energy Act 2008 (Parliamentary control of subordinate legislation) and inserted subsections (3A) to (3I) concerning provisions which require the affirmative resolution procedure. By virtue of subsections (3A) to (3I), these Regulations do not require the affirmative procedure.
 
-[^key-9be5ab4783901746678986642cffedf7]: Commencement: Reg. 1 in force at 27.7.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/1)
+[^c-9be5ab4783901746678986642cffedf7]: Commencement: Reg. 1 in force at 27.7.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/1)
 
-[^key-f712547c4561d3285c01a4589c84bbb8]: Textual amendment: [Regs. 2-10](https://www.legislation.gov.uk/uksi/2015/1459/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(h)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/h) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-f712547c4561d3285c01a4589c84bbb8]: Textual amendment: [Regs. 2-10](https://www.legislation.gov.uk/uksi/2015/1459/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(h)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/h) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
 
-[^key-d3d78152efb6a89a2359291d267a2827]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1459/regulation/11) in force at 26.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/2)
+[^c-d3d78152efb6a89a2359291d267a2827]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1459/regulation/11) in force at 26.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928), amended by [S.I. 2015/143](https://www.legislation.gov.uk/uksi/2015/143); there are other amending instruments but none is relevant.
 
-[^key-698599fa86dd737388c72c913d73b64b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1459/regulation/12) in force at 26.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/2)
+[^c-698599fa86dd737388c72c913d73b64b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1459/regulation/12) in force at 26.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/2)
 
 [^f00012]: Footnote: Published on www.microgenerationcertification.org.
 
-[^key-234c6a9d6a318ca75bb4be34e9b3edd1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1459/regulation/13) in force at 26.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/2)
+[^c-234c6a9d6a318ca75bb4be34e9b3edd1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1459/regulation/13) in force at 26.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1459/regulation/1/2)
 
 [^f00013]: Footnote: Published on www.microgenerationcertification.org.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## Schedule 2A — Converting membership from special membership to standard membership[^key-58f56492f22aa877d979e1c40b471379]
+## Schedule 2A — Converting membership from special membership to standard membership[^c-58f56492f22aa877d979e1c40b471379]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ Conversion factors for NFPS added 60ths
 
 ## Annotations
 
-[^key-58f56492f22aa877d979e1c40b471379]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2007/215/schedule/2A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/16)
+[^c-58f56492f22aa877d979e1c40b471379]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2007/215/schedule/2A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/16)

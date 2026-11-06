@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Meaning of “dual capacity member”[^key-7d3f61bef36ade8812306577ecdaa750]
+## 160. Meaning of “dual capacity member”[^c-7d3f61bef36ade8812306577ecdaa750]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d3f61bef36ade8812306577ecdaa750]: Commencement: [Reg. 160](https://www.legislation.gov.uk/nisr/2014/290/regulation/160) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-7d3f61bef36ade8812306577ecdaa750]: Commencement: [Reg. 160](https://www.legislation.gov.uk/nisr/2014/290/regulation/160) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00078]: Footnote: ()See regulation 64 (exercise of partial retirement option). A member who is partially retired may be both an active member and a pensioner member

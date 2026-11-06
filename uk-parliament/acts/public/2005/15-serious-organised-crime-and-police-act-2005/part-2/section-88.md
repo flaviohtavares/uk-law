@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Offences of disclosing information relating to persons assuming new identity[^key-e075d566049bcfce83b9796d5ca243b6][^key-dd4d91eb0e2cb2765dac4fe91aafe932]
+## 88. Offences of disclosing information relating to persons assuming new identity[^c-e075d566049bcfce83b9796d5ca243b6][^c-dd4d91eb0e2cb2765dac4fe91aafe932]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,14 +39,14 @@ summary: ''
 (3) A person who commits an offence under this section is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both;
-- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-ff2e5df2f8d50e97fac5e061500ddd5f], to a fine not exceeding the statutory maximum or to both.
+- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-ff2e5df2f8d50e97fac5e061500ddd5f], to a fine not exceeding the statutory maximum or to both.
 
 (4) In the application of this section to Scotland or Northern Ireland, the reference in subsection (3)(b) to 12 months is to be read as a reference to 6 months.
 
 ## Annotations
 
-[^key-e075d566049bcfce83b9796d5ca243b6]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2005/15/section/88) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-e075d566049bcfce83b9796d5ca243b6]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2005/15/section/88) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-dd4d91eb0e2cb2765dac4fe91aafe932]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2005/15/section/88) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
+[^c-dd4d91eb0e2cb2765dac4fe91aafe932]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2005/15/section/88) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
 
-[^key-ff2e5df2f8d50e97fac5e061500ddd5f]: Textual amendment: Words in [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/88/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-ff2e5df2f8d50e97fac5e061500ddd5f]: Textual amendment: Words in [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/88/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

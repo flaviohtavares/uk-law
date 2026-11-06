@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Time when modification takes effect[^key-8e9e22ec6bdfeb2435918a66f4bbf640]
+## 51. Time when modification takes effect[^c-8e9e22ec6bdfeb2435918a66f4bbf640]
 
 *Extent: E+W+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e9e22ec6bdfeb2435918a66f4bbf640]: Commencement: S. 51 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-8e9e22ec6bdfeb2435918a66f4bbf640]: Commencement: S. 51 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

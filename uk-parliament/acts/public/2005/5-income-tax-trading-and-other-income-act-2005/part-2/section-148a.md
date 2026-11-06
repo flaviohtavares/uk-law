@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Lessor under long funding finance lease: rental earnings[^key-9f00a34cffd1f0b6c67c67a7d7942395][^key-a80186f4ec15afcfd74e0ac1c97a08ec][^c19154671]
+## 148A. Lessor under long funding finance lease: rental earnings[^c-9f00a34cffd1f0b6c67c67a7d7942395][^c-a80186f4ec15afcfd74e0ac1c97a08ec][^c19154671]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9f00a34cffd1f0b6c67c67a7d7942395]: Modification: S. 148A excluded (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/2)
+[^c-9f00a34cffd1f0b6c67c67a7d7942395]: Modification: S. 148A excluded (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/2)
 
-[^key-a80186f4ec15afcfd74e0ac1c97a08ec]: Modification: S. 148A excluded (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/5) (with [Sch. 33 paras. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/4), [9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/9))
+[^c-a80186f4ec15afcfd74e0ac1c97a08ec]: Modification: S. 148A excluded (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/5) (with [Sch. 33 paras. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/4), [9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/9))
 
 [^c19154671]: Textual amendment: Pt. 2 Ch. 10A, (ss 148A-148J) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/13)

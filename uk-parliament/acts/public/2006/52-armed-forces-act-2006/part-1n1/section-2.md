@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Misconduct on operations[^key-3722dde6cbf2c0044d5f9b1871a116ed][^key-7a1fd3a393b40852dc56be2953a520f1][^key-89c8d0087dd349377ac69e72a60a9fbd]
+## 2. Misconduct on operations[^c-3722dde6cbf2c0044d5f9b1871a116ed][^c-7a1fd3a393b40852dc56be2953a520f1][^c-89c8d0087dd349377ac69e72a60a9fbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,8 +56,8 @@ and the communication is likely to cause that person to become despondent or ala
 
 ## Annotations
 
-[^key-3722dde6cbf2c0044d5f9b1871a116ed]: Commencement: S. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3722dde6cbf2c0044d5f9b1871a116ed]: Commencement: S. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-7a1fd3a393b40852dc56be2953a520f1]: Commencement: S. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7a1fd3a393b40852dc56be2953a520f1]: Commencement: S. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-89c8d0087dd349377ac69e72a60a9fbd]: Modification: S. 2 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/826/regulation/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-89c8d0087dd349377ac69e72a60a9fbd]: Modification: S. 2 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/826/regulation/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))

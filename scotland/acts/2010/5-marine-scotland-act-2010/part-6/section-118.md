@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Seal conservation areas[^key-aa911c16e5a92d6784e47dce67cc73ad]
+## 118. Seal conservation areas[^c-aa911c16e5a92d6784e47dce67cc73ad]
 
 *Extent: S*
 
 (1) The Scottish Ministers may designate an area as a “seal conservation area” where they consider it necessary to do so in order to ensure the proper conservation of seals.
 
-(2) The Scottish Ministers must consult United Kingdom Research and Innovation[^key-0d64e16ecbb07c4446fb660f3fa958c9] before designating a seal conservation area.
+(2) The Scottish Ministers must consult United Kingdom Research and Innovation[^c-0d64e16ecbb07c4446fb660f3fa958c9] before designating a seal conservation area.
 
 (3) The Scottish Ministers must—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa911c16e5a92d6784e47dce67cc73ad]: Commencement: S. 118 in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(c)](https://www.legislation.gov.uk/ssi/2010/230/article/4/c)
+[^c-aa911c16e5a92d6784e47dce67cc73ad]: Commencement: S. 118 in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(c)](https://www.legislation.gov.uk/ssi/2010/230/article/4/c)
 
-[^key-0d64e16ecbb07c4446fb660f3fa958c9]: Textual amendment: Words in [s. 118(2)](https://www.legislation.gov.uk/asp/2010/5/section/118/2) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/25); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-0d64e16ecbb07c4446fb660f3fa958c9]: Textual amendment: Words in [s. 118(2)](https://www.legislation.gov.uk/asp/2010/5/section/118/2) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/25); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)

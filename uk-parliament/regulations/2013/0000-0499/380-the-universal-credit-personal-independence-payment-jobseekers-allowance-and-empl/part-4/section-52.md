@@ -27,7 +27,7 @@ summary: ''
 - (a) paying any arrears of benefit; or
 - (b) making a payment in respect of a terminal period of an award or for any similar purpose.
 
-(2A)[^key-6fc2eb4f10495e64a0ec25ddbfbffc35] The Secretary of State may pay arrears of jobseeker’s allowance in instalments where—
+(2A)[^c-6fc2eb4f10495e64a0ec25ddbfbffc35] The Secretary of State may pay arrears of jobseeker’s allowance in instalments where—
 
 - (a) the Secretary of State considers it is necessary for protecting the interests of the claimant; and
 - (b) the claimant agrees that those arrears may be paid in instalments.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fc2eb4f10495e64a0ec25ddbfbffc35]: Textual amendment: [Reg. 52(2A)](https://www.legislation.gov.uk/uksi/2013/380/regulation/52/2A) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/3/5)
+[^c-6fc2eb4f10495e64a0ec25ddbfbffc35]: Textual amendment: [Reg. 52(2A)](https://www.legislation.gov.uk/uksi/2013/380/regulation/52/2A) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/3/5)

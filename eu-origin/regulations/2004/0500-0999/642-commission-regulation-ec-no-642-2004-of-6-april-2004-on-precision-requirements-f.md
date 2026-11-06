@@ -31,10 +31,10 @@ Commission Regulation (EC) No 642/2004
 
 of 6 April 2004 on precision requirements for data collected in accordance with Council Regulation (EC) No 1172/98 on statistical returns in respect of the carriage of goods by road (Text with EEA relevance) (revoked)
 
-[^key-f7cc80fb449c8c285d905f332b1ab2c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7cc80fb449c8c285d905f332b1ab2c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-f7cc80fb449c8c285d905f332b1ab2c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-f7cc80fb449c8c285d905f332b1ab2c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7cc80fb449c8c285d905f332b1ab2c5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7cc80fb449c8c285d905f332b1ab2c5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

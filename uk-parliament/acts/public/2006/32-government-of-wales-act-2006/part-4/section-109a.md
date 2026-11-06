@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109A. Legislative competence: restriction relating to retained EU law[^key-a4c377e1a1f37c08ee8c112068bf227d]
+## 109A. Legislative competence: restriction relating to retained EU law[^c-a4c377e1a1f37c08ee8c112068bf227d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4c377e1a1f37c08ee8c112068bf227d]: Textual amendment: [S. 109A](https://www.legislation.gov.uk/ukpga/2006/32/section/109A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/357/regulation/4/5)
+[^c-a4c377e1a1f37c08ee8c112068bf227d]: Textual amendment: [S. 109A](https://www.legislation.gov.uk/ukpga/2006/32/section/109A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/357/regulation/4/5)

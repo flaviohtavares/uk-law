@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Architects Registration Board: fees and discharge of functions by a committee[^key-86fa536262198694b97b4e8d8e6d96a1]
+## 159. Architects Registration Board: fees and discharge of functions by a committee[^c-86fa536262198694b97b4e8d8e6d96a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86fa536262198694b97b4e8d8e6d96a1]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2022/30/section/159) in force at 28.6.2022, see [s. 170(3)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/f)
+[^c-86fa536262198694b97b4e8d8e6d96a1]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2022/30/section/159) in force at 28.6.2022, see [s. 170(3)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Indemnity arrangements[^key-478b923ad8f25712ac3caecf52eec4de]
+## 12A. Indemnity arrangements[^c-478b923ad8f25712ac3caecf52eec4de]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) an arrangement made for the purposes of indemnifying a person;
 - (c) a combination of the two.
 
-(3) For the purposes of this article, “**appropriate cover**”, in relation to practice as a registered nurse, midwife or nursing associate[^key-ecfb408650ac8eaf91cf60c600a02bf6] , means cover against liabilities that may be incurred in practising as such which is appropriate, having regard to the nature and extent of the risks of practising as such.
+(3) For the purposes of this article, “**appropriate cover**”, in relation to practice as a registered nurse, midwife or nursing associate[^c-ecfb408650ac8eaf91cf60c600a02bf6] , means cover against liabilities that may be incurred in practising as such which is appropriate, having regard to the nature and extent of the risks of practising as such.
 
 (4) The Council may make rules in connection with the information to be provided to the Registrar—
 
@@ -45,7 +45,7 @@ summary: ''
 
 (7) The Council may also make rules requiring a registrant to provide the Registrar with such information as is necessary for the purpose of satisfying the Registrar that there is or will be in force in relation to that registrant appropriate cover provided under an indemnity arrangement by an employer.
 
-(7A)[^key-704ee675d3d29daa2ad47a5c16acbc98] For the purposes of verifying that information, the Registrar may disclose to any person information relating to a person’s indemnity arrangement which is provided to the Council by virtue of rules made under paragraph (4) or (7).
+(7A)[^c-704ee675d3d29daa2ad47a5c16acbc98] For the purposes of verifying that information, the Registrar may disclose to any person information relating to a person’s indemnity arrangement which is provided to the Council by virtue of rules made under paragraph (4) or (7).
 
 (8) If a registrant is in breach of paragraph (1)—
 
@@ -60,14 +60,14 @@ summary: ''
 
 (10) If a registrant breaches rules under paragraph (4)(b) or (c), that person's fitness to practise may be treated for the purposes of article 22(1)(a)(i) as being impaired by reason of misconduct, and the Registrar may accordingly refer the matter to persons appointed by it under article 22(5)(b)(i) (where rules under article 23 provide) or to a Practice Committee under article 22(5)(b)(ii) .
 
-(11)[^key-4a50d97305cff8a1c5dc647602bd4d0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-4a50d97305cff8a1c5dc647602bd4d0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-478b923ad8f25712ac3caecf52eec4de]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/uksi/2002/253/article/12A) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/26)
+[^c-478b923ad8f25712ac3caecf52eec4de]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/uksi/2002/253/article/12A) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/26)
 
-[^key-ecfb408650ac8eaf91cf60c600a02bf6]: Textual amendment: Words in [art. 12A(3)](https://www.legislation.gov.uk/uksi/2002/253/article/12A/3) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/10/a)
+[^c-ecfb408650ac8eaf91cf60c600a02bf6]: Textual amendment: Words in [art. 12A(3)](https://www.legislation.gov.uk/uksi/2002/253/article/12A/3) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/10/a)
 
-[^key-704ee675d3d29daa2ad47a5c16acbc98]: Textual amendment: [Art. 12A(7A)](https://www.legislation.gov.uk/uksi/2002/253/article/12A/7A) inserted (11.12.2014) by [The Nursing and Midwifery (Amendment) Order 2014 (S.I. 2014/3272)](https://www.legislation.gov.uk/uksi/2014/3272), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3272/article/1), [3](https://www.legislation.gov.uk/uksi/2014/3272/article/3)
+[^c-704ee675d3d29daa2ad47a5c16acbc98]: Textual amendment: [Art. 12A(7A)](https://www.legislation.gov.uk/uksi/2002/253/article/12A/7A) inserted (11.12.2014) by [The Nursing and Midwifery (Amendment) Order 2014 (S.I. 2014/3272)](https://www.legislation.gov.uk/uksi/2014/3272), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3272/article/1), [3](https://www.legislation.gov.uk/uksi/2014/3272/article/3)
 
-[^key-4a50d97305cff8a1c5dc647602bd4d0d]: Textual amendment: [Art. 12A(11)](https://www.legislation.gov.uk/uksi/2002/253/article/12A/11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/9) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a50d97305cff8a1c5dc647602bd4d0d]: Textual amendment: [Art. 12A(11)](https://www.legislation.gov.uk/uksi/2002/253/article/12A/11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/9) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -29,7 +29,7 @@ summary: ''
 
 and different dates may be appointed under this subsection for the purposes of its different paragraphs.
 
-(2)[^key-fd4b91b50a74d60137825b597058fbe2] As soon after the restructuring date as it appears to the Secretary of State that it is no longer necessary for the Corporation to continue to exist, he may by order dissolve the Corporation on a day specified in the order (“the dissolution date”).
+(2)[^c-fd4b91b50a74d60137825b597058fbe2] As soon after the restructuring date as it appears to the Secretary of State that it is no longer necessary for the Corporation to continue to exist, he may by order dissolve the Corporation on a day specified in the order (“the dissolution date”).
 
 (3) Where an order under subsection (2) above provides for the Corporation to be dissolved with effect from a time which would not, apart from this subsection, be the end of a financial year of the Corporation, the financial year of the Corporation which is current at that time shall be deemed to end at that time and that order may contain such provision as the Secretary of State thinks fit for modifying the effect of any enactment with respect to—
 
@@ -55,4 +55,4 @@ and different dates may be appointed under this subsection for the purposes of i
 
 [^c10937511]: Marginal citation: [1949 c. 53](https://www.legislation.gov.uk/ukpga/1949/53).
 
-[^key-fd4b91b50a74d60137825b597058fbe2]: Subordinate legislation: S. 23(2) power exercised: 27.3.2004 appointed as the dissolution date, see s. 68(3) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-fd4b91b50a74d60137825b597058fbe2]: Subordinate legislation: S. 23(2) power exercised: 27.3.2004 appointed as the dissolution date, see s. 68(3) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3

@@ -24,13 +24,13 @@ Section 80
 
 ### Part 1 — Amendments
 
-**1.**[^key-ef1d694e3d8146610059d6d5efe2bd02][^key-39d10a42a7e1926a4df474decb6d1a16] Part 3 of the Aviation Security Act 1982 (c. 36) (policing of aerodromes) has effect subject to the following amendments.
+**1.**[^c-ef1d694e3d8146610059d6d5efe2bd02][^c-39d10a42a7e1926a4df474decb6d1a16] Part 3 of the Aviation Security Act 1982 (c. 36) (policing of aerodromes) has effect subject to the following amendments.
 
-**2.**[^key-179d5b571574de06acadfaf10633b12d][^key-da0a013b85b0534a131a15fa6f0ce7ee] Omit section 25 (designated airports) and the cross-heading before it.
+**2.**[^c-179d5b571574de06acadfaf10633b12d][^c-da0a013b85b0534a131a15fa6f0ce7ee] Omit section 25 (designated airports) and the cross-heading before it.
 
-**3.**[^key-d5a7cf64c3b948904df218dd38f4735a][^key-6dfab6226343cb0dc4e440f221504a28] Omit section 25A (consultation about policing of designated airports).
+**3.**[^c-d5a7cf64c3b948904df218dd38f4735a][^c-6dfab6226343cb0dc4e440f221504a28] Omit section 25A (consultation about policing of designated airports).
 
-**4.**[^key-de43e8acafd7573329b02db30670efc2][^key-1d9ad3d080bb582ce2abb5e1095bee7f] Before section 25B (police services agreements) insert—
+**4.**[^c-de43e8acafd7573329b02db30670efc2][^c-1d9ad3d080bb582ce2abb5e1095bee7f] Before section 25B (police services agreements) insert—
 
 > **Policing of aerodromes to which Part 2A applies**
 >
@@ -44,7 +44,7 @@ Section 80
 >
 > (4) The power to make an order under this section is exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**5.**[^key-55523f61d28226f1225accd730bffdd6][^key-7b558c80493d61fe336158248fce515b] For section 25B substitute—
+**5.**[^c-55523f61d28226f1225accd730bffdd6][^c-7b558c80493d61fe336158248fce515b] For section 25B substitute—
 
 > **25B. Police services agreements**
 >
@@ -116,7 +116,7 @@ Section 80
 >
 > (4) In this section, “**policing measures**” has the same meaning as in section 25B.
 
-**6.**[^key-0e73dc2a74f64a8f33845fea73b90e97][^key-80ac17fca8c62350a23e5f4d87927b4d] (1) Section 26 (exercise of police functions) is amended as follows.
+**6.**[^c-0e73dc2a74f64a8f33845fea73b90e97][^c-80ac17fca8c62350a23e5f4d87927b4d] (1) Section 26 (exercise of police functions) is amended as follows.
 
 (2) In the heading for “at designated airports” substitute “ at relevant aerodromes ”.
 
@@ -143,13 +143,13 @@ Section 80
 
 > (2E) For the purposes of subsection (2A)(b) a measure is taken in relation to the aerodrome for security purposes if it is taken for a purpose to which Part 2 applies or otherwise for the purpose of preventing crime or preserving the peace at the aerodrome.
 
-**7.**[^key-3dbff97af5df7b9d9c4a0fa325395a98][^key-4e39872cced35d6b5d3dc6c39ccb75e2] (1) Section 27 (prevention of theft) is amended as follows.
+**7.**[^c-3dbff97af5df7b9d9c4a0fa325395a98][^c-4e39872cced35d6b5d3dc6c39ccb75e2] (1) Section 27 (prevention of theft) is amended as follows.
 
 (2) In the heading for “at designated airports” substitute “ at relevant aerodromes ”.
 
 (3) In subsection (2)(a) for “an aerodrome which is a designated airport” substitute “ a relevant aerodrome ”.
 
-**8.**[^key-a59bbb67933a2eb56d7ef2d8a58b70d1][^key-ececf70f88973990a6810a92d5219c18] (1) Section 28 (byelaws) is amended as follows.
+**8.**[^c-a59bbb67933a2eb56d7ef2d8a58b70d1][^c-ececf70f88973990a6810a92d5219c18] (1) Section 28 (byelaws) is amended as follows.
 
 (2) In the heading for “designated airports” substitute “ relevant aerodromes ”.
 
@@ -157,7 +157,7 @@ Section 80
 
 (4) In subsection (2) for “any aerodrome which is a designated airport” substitute “ any relevant aerodrome ”.
 
-**9.**[^key-38f64c142607e79890cfd5aa5d45cd9c][^key-4cb71d46145554a92bad81de89cc3e11] (1) Section 29 (control of road traffic) is amended as follows.
+**9.**[^c-38f64c142607e79890cfd5aa5d45cd9c][^c-4cb71d46145554a92bad81de89cc3e11] (1) Section 29 (control of road traffic) is amended as follows.
 
 (2) In the heading for “at designated airports” substitute “ at relevant aerodromes ”.
 
@@ -165,7 +165,7 @@ Section 80
 
 (4) In subsection (2) for “a designated airport” substitute “ a relevant aerodrome ”.
 
-**10.**[^key-67c13108c384571248f885ea2e58bbe3][^key-017c68aba33f3cd32e40f568f5b2c4f4] For sections 29A to 29D substitute—
+**10.**[^c-67c13108c384571248f885ea2e58bbe3][^c-017c68aba33f3cd32e40f568f5b2c4f4] For sections 29A to 29D substitute—
 
 > **29A. Power to refer disputes to Secretary of State**
 >
@@ -269,9 +269,9 @@ Section 80
 >
 > (3) In the application of this section to Scotland, references to the High Court are to be read as references to the Court of Session.
 
-**11.**[^key-040f1165d52952487d47e7df95b06c96][^key-b865487dce6721c0ade281096072d9f8] Omit section 30 (supplementary orders).
+**11.**[^c-040f1165d52952487d47e7df95b06c96][^c-b865487dce6721c0ade281096072d9f8] Omit section 30 (supplementary orders).
 
-**12.**[^key-59df95d07161d7f8413c7d5f4a85af42][^key-8eeacdc0d4aa961968b3d6d55ecb05f6] (1) Section 31 (interpretation etc.) is amended as follows.
+**12.**[^c-59df95d07161d7f8413c7d5f4a85af42][^c-8eeacdc0d4aa961968b3d6d55ecb05f6] (1) Section 31 (interpretation etc.) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -308,13 +308,13 @@ Section 80
 
 (5) In subsection (3)(a) for “the references in section 25(1) of this Act and” substitute “ the reference in ”.
 
-**13.**[^key-0667da67ea6723e692acb32e311bbc4c][^key-17fe33242ac397ec024885dbc964160b] In section 39 (extension of Act outside United Kingdom), in subsection (3), after “provisions of” (in the words in brackets) insert “ Part 2A or ”.
+**13.**[^c-0667da67ea6723e692acb32e311bbc4c][^c-17fe33242ac397ec024885dbc964160b] In section 39 (extension of Act outside United Kingdom), in subsection (3), after “provisions of” (in the words in brackets) insert “ Part 2A or ”.
 
 ### Part 2 — Transitional and saving provision
 
 #### Transitional provision for designated airports
 
-**14.**[^key-ac51049b2765127aec734e5357fa5b5e][^key-d7049b1295222f54897402876c5eab80] (1) This paragraph applies in relation to an aerodrome if, immediately before commencement, the aerodrome was a designated airport.
+**14.**[^c-ac51049b2765127aec734e5357fa5b5e][^c-d7049b1295222f54897402876c5eab80] (1) This paragraph applies in relation to an aerodrome if, immediately before commencement, the aerodrome was a designated airport.
 
 (2) In relation to any time before a police services agreement is required to be in force in relation to the aerodrome by virtue of the amendments made by paragraph 5 of this Schedule, section 25B(2) to (6) and (8) to (10) of the 1982 Act (as it had effect immediately before commencement) continues to apply in relation to the aerodrome as if it continued to be a designated airport.
 
@@ -338,7 +338,7 @@ Section 80
 
 #### Repeal of section 30 of the 1982 Act
 
-**15.**[^key-77dc8f16efc0ccb096179d009d86a19c][^key-ddbc592a084963a7214b2d5006c59771] (1) The repeal of section 30 of the 1982 Act by paragraph 11 of this Schedule does not affect—
+**15.**[^c-77dc8f16efc0ccb096179d009d86a19c][^c-ddbc592a084963a7214b2d5006c59771] (1) The repeal of section 30 of the 1982 Act by paragraph 11 of this Schedule does not affect—
 
 - (a) the validity of an order made under that section (“a section 30 order”) before commencement, or
 - (b) the operation of subsections (4) and (5) of that section in relation to such an order.
@@ -349,62 +349,62 @@ Section 80
 
 ## Annotations
 
-[^key-ef1d694e3d8146610059d6d5efe2bd02]: Commencement: Sch. 6 para. 1 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-ef1d694e3d8146610059d6d5efe2bd02]: Commencement: Sch. 6 para. 1 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-39d10a42a7e1926a4df474decb6d1a16]: Commencement: Sch. 6 para. 1 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-39d10a42a7e1926a4df474decb6d1a16]: Commencement: Sch. 6 para. 1 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-179d5b571574de06acadfaf10633b12d]: Commencement: Sch. 6 para. 2 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-179d5b571574de06acadfaf10633b12d]: Commencement: Sch. 6 para. 2 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-da0a013b85b0534a131a15fa6f0ce7ee]: Commencement: Sch. 6 para. 2 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-da0a013b85b0534a131a15fa6f0ce7ee]: Commencement: Sch. 6 para. 2 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-d5a7cf64c3b948904df218dd38f4735a]: Commencement: Sch. 6 para. 3 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-d5a7cf64c3b948904df218dd38f4735a]: Commencement: Sch. 6 para. 3 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-6dfab6226343cb0dc4e440f221504a28]: Commencement: Sch. 6 para. 3 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-6dfab6226343cb0dc4e440f221504a28]: Commencement: Sch. 6 para. 3 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-de43e8acafd7573329b02db30670efc2]: Commencement: Sch. 6 para. 4 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-de43e8acafd7573329b02db30670efc2]: Commencement: Sch. 6 para. 4 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-1d9ad3d080bb582ce2abb5e1095bee7f]: Commencement: Sch. 6 para. 4 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-1d9ad3d080bb582ce2abb5e1095bee7f]: Commencement: Sch. 6 para. 4 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-55523f61d28226f1225accd730bffdd6]: Commencement: Sch. 6 para. 5 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-55523f61d28226f1225accd730bffdd6]: Commencement: Sch. 6 para. 5 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-7b558c80493d61fe336158248fce515b]: Commencement: Sch. 6 para. 5 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-7b558c80493d61fe336158248fce515b]: Commencement: Sch. 6 para. 5 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-0e73dc2a74f64a8f33845fea73b90e97]: Commencement: Sch. 6 para. 6 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-0e73dc2a74f64a8f33845fea73b90e97]: Commencement: Sch. 6 para. 6 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-80ac17fca8c62350a23e5f4d87927b4d]: Commencement: Sch. 6 para. 6 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-80ac17fca8c62350a23e5f4d87927b4d]: Commencement: Sch. 6 para. 6 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-3dbff97af5df7b9d9c4a0fa325395a98]: Commencement: Sch. 6 para. 7 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-3dbff97af5df7b9d9c4a0fa325395a98]: Commencement: Sch. 6 para. 7 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-4e39872cced35d6b5d3dc6c39ccb75e2]: Commencement: Sch. 6 para. 7 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-4e39872cced35d6b5d3dc6c39ccb75e2]: Commencement: Sch. 6 para. 7 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-a59bbb67933a2eb56d7ef2d8a58b70d1]: Commencement: Sch. 6 para. 8 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-a59bbb67933a2eb56d7ef2d8a58b70d1]: Commencement: Sch. 6 para. 8 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-ececf70f88973990a6810a92d5219c18]: Commencement: Sch. 6 para. 8 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-ececf70f88973990a6810a92d5219c18]: Commencement: Sch. 6 para. 8 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-38f64c142607e79890cfd5aa5d45cd9c]: Commencement: Sch. 6 para. 9 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-38f64c142607e79890cfd5aa5d45cd9c]: Commencement: Sch. 6 para. 9 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-4cb71d46145554a92bad81de89cc3e11]: Commencement: Sch. 6 para. 9 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-4cb71d46145554a92bad81de89cc3e11]: Commencement: Sch. 6 para. 9 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-67c13108c384571248f885ea2e58bbe3]: Commencement: Sch. 6 para. 10 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-67c13108c384571248f885ea2e58bbe3]: Commencement: Sch. 6 para. 10 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-017c68aba33f3cd32e40f568f5b2c4f4]: Commencement: Sch. 6 para. 10 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-017c68aba33f3cd32e40f568f5b2c4f4]: Commencement: Sch. 6 para. 10 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-040f1165d52952487d47e7df95b06c96]: Commencement: Sch. 6 para. 11 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-040f1165d52952487d47e7df95b06c96]: Commencement: Sch. 6 para. 11 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-b865487dce6721c0ade281096072d9f8]: Commencement: Sch. 6 para. 11 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-b865487dce6721c0ade281096072d9f8]: Commencement: Sch. 6 para. 11 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-59df95d07161d7f8413c7d5f4a85af42]: Commencement: Sch. 6 para. 12 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-59df95d07161d7f8413c7d5f4a85af42]: Commencement: Sch. 6 para. 12 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-8eeacdc0d4aa961968b3d6d55ecb05f6]: Commencement: Sch. 6 para. 12 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-8eeacdc0d4aa961968b3d6d55ecb05f6]: Commencement: Sch. 6 para. 12 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-0667da67ea6723e692acb32e311bbc4c]: Commencement: Sch. 6 para. 13 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-0667da67ea6723e692acb32e311bbc4c]: Commencement: Sch. 6 para. 13 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-17fe33242ac397ec024885dbc964160b]: Commencement: Sch. 6 para. 13 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-17fe33242ac397ec024885dbc964160b]: Commencement: Sch. 6 para. 13 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-ac51049b2765127aec734e5357fa5b5e]: Commencement: Sch. 6 para. 14 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-ac51049b2765127aec734e5357fa5b5e]: Commencement: Sch. 6 para. 14 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-d7049b1295222f54897402876c5eab80]: Commencement: Sch. 6 para. 14 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-d7049b1295222f54897402876c5eab80]: Commencement: Sch. 6 para. 14 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
 
-[^key-77dc8f16efc0ccb096179d009d86a19c]: Commencement: Sch. 6 para. 15 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-77dc8f16efc0ccb096179d009d86a19c]: Commencement: Sch. 6 para. 15 in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-ddbc592a084963a7214b2d5006c59771]: Commencement: Sch. 6 para. 15 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-ddbc592a084963a7214b2d5006c59771]: Commencement: Sch. 6 para. 15 in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)

@@ -48,11 +48,11 @@ In accordance with section 57(6) of the 2003 Act, a draft of this Order has been
 
 The Scottish Ministers, with reference to section 57(2)(c) of the 2003 Act, consider that section 53(2) of the Education (Scotland) Act 1980[^f00002] prevents local authorities from exercising their power under section 20(1) of the 2003 Act.
 
-## 1. Citation and commencement[^key-7a00978ecf6b25d76aba546088efb1c1]
+## 1. Citation and commencement[^c-7a00978ecf6b25d76aba546088efb1c1]
 
 This Order may be cited as the Provision of School Lunches (Disapplication of the Requirement to Charge) (Scotland) Order 2008 and comes into force on 1st December 2008.
 
-## 2. Interpretation[^key-c107f41f44dbaac0e6155ed87768f327]
+## 2. Interpretation[^c-c107f41f44dbaac0e6155ed87768f327]
 
 In this Order–
 
@@ -64,11 +64,11 @@ In this Order–
 - “school lunch” has the same meaning as in section 53(5)[^f00003] of the 1980 Act; and
 - “council” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00004].
 
-## 3. Disapplication of section 53(2) of the 1980 Act[^key-714222f291fb5f2ad0b10905e54e9eb7]
+## 3. Disapplication of section 53(2) of the 1980 Act[^c-714222f291fb5f2ad0b10905e54e9eb7]
 
 Section 53(2) of the 1980 Act (duty to charge for school lunches) is disapplied in relation to councils to the extent necessary to enable them to provide, in pursuance of section 20(1) of the 2003 Act, school lunches free of charge to all pupils in Primary 1, Primary 2 and Primary 3 of primary education within schools under their management.
 
-## 4. Revocation[^key-bdc811e1e7e2b7b42e1c2959057a705c]
+## 4. Revocation[^c-bdc811e1e7e2b7b42e1c2959057a705c]
 
 The Provision of School Lunches (Disapplication of the Requirement to Charge) (Scotland) Order 2007[^f00005] is revoked.
 
@@ -98,16 +98,16 @@ Article 4 revokes the Provision of School Lunches (Disapplication of the Require
 
 [^f00002]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 53 was amended by: the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), section 77; the Immigration and Asylum Act , section 169(1), Schedule 14, paragraph 74; the [Education (School Meals) (Scotland) Act 2003 (asp 18)](https://www.legislation.gov.uk/asp/2003/18), section 1; and the [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), section 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act .
 
-[^key-7a00978ecf6b25d76aba546088efb1c1]: Commencement: Art. 1 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
+[^c-7a00978ecf6b25d76aba546088efb1c1]: Commencement: Art. 1 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
 
-[^key-c107f41f44dbaac0e6155ed87768f327]: Commencement: Art. 2 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
+[^c-c107f41f44dbaac0e6155ed87768f327]: Commencement: Art. 2 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
 
 [^f00003]: Footnote: Section 53(5) was inserted by section 6(5) of the [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (2007 asp 15)](https://www.legislation.gov.uk/asp/2007/15).
 
 [^f00004]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-714222f291fb5f2ad0b10905e54e9eb7]: Commencement: Art. 3 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
+[^c-714222f291fb5f2ad0b10905e54e9eb7]: Commencement: Art. 3 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
 
-[^key-bdc811e1e7e2b7b42e1c2959057a705c]: Commencement: Art. 4 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
+[^c-bdc811e1e7e2b7b42e1c2959057a705c]: Commencement: Art. 4 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/400/article/1)
 
 [^f00005]: Footnote: [S.S.I. 2007/451](https://www.legislation.gov.uk/ssi/2007/451).

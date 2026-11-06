@@ -44,43 +44,43 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 The Secretary of State, in exercise of the powers conferred by sections 75A(8), 75B(9), 75H(18), 80B(9) and 236(5) of the Employment Rights Act 1996[^f00002], makes the following Regulations.
 
-## 1. Citation, commencement and interpretation[^key-49863bc8a8f849aa4e8c522329d45d44]
+## 1. Citation, commencement and interpretation[^c-49863bc8a8f849aa4e8c522329d45d44]
 
 (1) These Regulations may be cited as the Employment Rights Act 1996 (Application of Sections 75A, 75B, 75G, 75H, 80A and 80B to Parental Order Cases) Regulations 2014 and come into force on 25th November 2014.
 
 (2) In these Regulations—
 
 - “the Act” means the Employment Rights Act 1996;
-- “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-731ebf263d1c032a41e2aeb3a5a93d55]
+- “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^c-731ebf263d1c032a41e2aeb3a5a93d55]
   - (a) applies, or intends to apply during the period of 6 months beginning with that day—
     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or
     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and
   - (b) expects the court to make such an order in respect of the child;
-- “[^key-639d32469f61d7af7ec42fd04282b371]**primary parental order parent**”, in relation to a child, means the person who elects to be the child’s primary carer—
+- “[^c-639d32469f61d7af7ec42fd04282b371]**primary parental order parent**”, in relation to a child, means the person who elects to be the child’s primary carer—
   - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child, or
   - (b) who applies, or intends to apply, during the period of 6 months beginning with the day of the child’s birth, with another person for such an order in respect of the child, and expects the court to make that order;
-- [^key-c12f867afd37e26336c2ac3b628be71f]...
-- [^key-2f6abb53303e04277f52cc9c57b6ff6f]...
-- “section 54 parental order parent” means a person—[^key-2c0502b3156f1fe5f61b17fd41b8b83b]
+- [^c-c12f867afd37e26336c2ac3b628be71f]...
+- [^c-2f6abb53303e04277f52cc9c57b6ff6f]...
+- “section 54 parental order parent” means a person—[^c-2c0502b3156f1fe5f61b17fd41b8b83b]
   - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
   - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
 - “section 54A parental order parent” means a person—
   - (a) on whose application the court has made an order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
   - (b) who is an intended parent of a child by reference to an application or intended application for such an order.
 
-(3)[^key-c22d631f64981d063469ad382843390d] For the purposes of the definition of “primary parental order parent” in paragraph (2), a person (“**A**”) elects to be a child’s primary carer if A and the person (“**B**”) with whom A has applied, or intends to apply, for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child agree that A, and not B, will be the child’s primary carer.
+(3)[^c-c22d631f64981d063469ad382843390d] For the purposes of the definition of “primary parental order parent” in paragraph (2), a person (“**A**”) elects to be a child’s primary carer if A and the person (“**B**”) with whom A has applied, or intends to apply, for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child agree that A, and not B, will be the child’s primary carer.
 
-## 2. Application of sections 75A and 75B of the Act to parental order parents[^key-0c745bd0cfec1320a8b4c8dc9b4041ed]
+## 2. Application of sections 75A and 75B of the Act to parental order parents[^c-0c745bd0cfec1320a8b4c8dc9b4041ed]
 
-Sections 75A and 75B of the Act have effect in relation to section 54 parental order parents and section 54A parental order parents[^key-622937e778500bb8486c80f737125288].
+Sections 75A and 75B of the Act have effect in relation to section 54 parental order parents and section 54A parental order parents[^c-622937e778500bb8486c80f737125288].
 
-## 3. Application of sections 75G and 75H of the Act to parental order parents[^key-5cbdfa670dc8771cf6c67168362d878d]
+## 3. Application of sections 75G and 75H of the Act to parental order parents[^c-5cbdfa670dc8771cf6c67168362d878d]
 
-Sections 75G and 75H of the Act[^f00003] have effect in relation to section 54 parental order parents[^key-c9097838f06426b9781ee498d9cd14e1] with the modifications specified in the second column of Schedule 1 to these Regulations.
+Sections 75G and 75H of the Act[^f00003] have effect in relation to section 54 parental order parents[^c-c9097838f06426b9781ee498d9cd14e1] with the modifications specified in the second column of Schedule 1 to these Regulations.
 
-## 4. Application of sections 80A and 80B of the Act to parental order parents[^key-afad9ea1b4b7bdbac045c80bbac88b8c]
+## 4. Application of sections 80A and 80B of the Act to parental order parents[^c-afad9ea1b4b7bdbac045c80bbac88b8c]
 
-Sections 80A[^f00004] and 80B of the Act have effect in relation to section 54 parental order parents[^key-eddda736665c4ec6d91319e042c8a355] and primary parental order parents[^key-b973157320e5298168d9b933f9c7ea1e] with the modifications specified in the second column of Schedule 2 to these Regulations.
+Sections 80A[^f00004] and 80B of the Act have effect in relation to section 54 parental order parents[^c-eddda736665c4ec6d91319e042c8a355] and primary parental order parents[^c-b973157320e5298168d9b933f9c7ea1e] with the modifications specified in the second column of Schedule 2 to these Regulations.
 
 Jo Swinson
 
@@ -90,7 +90,7 @@ Department for Business, Innovation and Skills
 
 24th November 2014
 
-## SCHEDULE 1[^key-05af10cf07fcdca4f8a02ee78c3a1571]
+## SCHEDULE 1[^c-05af10cf07fcdca4f8a02ee78c3a1571]
 
 Regulation 3
 
@@ -98,14 +98,14 @@ Regulation 3
 | --- | --- |
 | Section 75G | For paragraph (b) of subsection (1) substitute—<br>> - (b) as to being a person—<br>>   - (i) on whose application the court has made a parental order in respect of a child, or<br>>   - (ii) who is an intended parent of a child,<br>. |
 |  | For paragraph (b) of subsection (4) substitute—<br>> - (b) as to being a person—<br>>   - (i) on whose application the court has made a parental order in respect of a child, or<br>>   - (ii) who is an intended parent of a child,<br>> - (ba) as to relationship with the other person (“A”) on whose application the parental order was made or who is an intended parent of the child,<br>. |
-|  | After subsection (6) insert—<br>> (6A) In this section and section 75H—<br>><br>> - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-6b2457ca9d634114c911be7407d97f0e]<br>>   - (a) applies, or intends to apply during the period of 6 months beginning with that day—<br>>     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or<br>>     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and<br>>   - (b) expects the court to make such an order in respect of the child; and<br>> - “parental order” means an order under section 54 or 54A of the Human Fertilisation and Embryology Act 2008.<br>. |
+|  | After subsection (6) insert—<br>> (6A) In this section and section 75H—<br>><br>> - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^c-6b2457ca9d634114c911be7407d97f0e]<br>>   - (a) applies, or intends to apply during the period of 6 months beginning with that day—<br>>     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or<br>>     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and<br>>   - (b) expects the court to make such an order in respect of the child; and<br>> - “parental order” means an order under section 54 or 54A of the Human Fertilisation and Embryology Act 2008.<br>. |
 |  | Omit subsection (7). |
 |  | Omit subsection (8). |
 | Section 75H | In paragraph (a) of subsection (2), for “with whom the child is, or is expected to be placed for adoption” substitute “on whose application the court has made a parental order in respect of the child or who is an intended parent of the child”. |
 |  | In paragraph (b) of subsection (2), for “with whom the child is, or is expected to be placed for adoption” substitute “on whose application the court has made a parental order in respect of the child or who is an intended parent of the child”. |
 |  | In paragraph (b) of subsection (14), for “placed for adoption as part of the same arrangement” substitute “born as a result of the same pregnancy”. |
 
-## SCHEDULE 2[^key-ebf3f6476c0cf4c51455b3f783f210b8]
+## SCHEDULE 2[^c-ebf3f6476c0cf4c51455b3f783f210b8]
 
 Regulation 4
 
@@ -121,9 +121,9 @@ Regulation 4
 |  | For subsection (6) substitute—<br>> (6) Where more than one child is born as a result of the same pregnancy, the reference in subsection (4) to the date of the child’s birth shall be read as a reference to the date of birth of the first child born as a result of the pregnancy.<br>. |
 |  | Omit subsection (6A)[^f00006]. |
 |  | Omit subsection (6B)[^f00007]. |
-|  | For subsection (6C) substitute—[^key-bb3bcf5301a01c91263342a7db58d243]<br>> (6C) In relation to cases where the primary parental order parent of a child dies, this section has effect as if—<br>><br>> - (a) in subsection (1)(c), after “intended parent” there were inserted “or primary parental order parent”;<br>> - (b) after subsection (1) there were inserted—<br>><br>>   > (1A) But in a case where the primary parental order parent of a child dies and—<br>>   ><br>>   > - (a) the employee does not apply for an order under section 54 of the Human Fertilisation and Embryology Act 2008 within the time limit set by subsection (3) of that section,<br>>   > - (b) the employee’s application for an order under that section for the child is refused, withdrawn or otherwise terminated without the order being granted and any time for an appeal or a new application has expired, or<br>>   > - (c) the child dies,<br>>   ><br>>   > the regulations may provide that an employee who satisfies those conditions is entitled to leave under this section despite the fact that the leave cannot be taken for that purpose.<br>><br>>   . |
-|  | After subsection (7) insert—<br>> (7A) In this section—<br>><br>> - “intended parent” in relation to a child, means a person who, on the day of the child’s birth—[^key-4f7650f437fff0474e855f867a444d57]<br>>   - (a) applies, or intends to apply during the period of 6 months beginning with that day—<br>>     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or<br>>     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and<br>>   - (b) expects the court to make such an order in respect of the child; [^key-06cd4f369f4e08d9ea93326b118a31f2]...<br>> - “parental order” means an order under section 54 or 54A of the Human Fertilisation and Embryology Act 2008;[^key-1bf22451db9378c5ae554f4dee97e253]<br>> - “**primary parental order parent**”, in relation to a child, means the person who elects to be the child’s primary carer—<br>>   - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child, or<br>>   - (b) who applies, or intends to apply, during the period of 6 months beginning with the day of the child’s birth, with another person for such an order in respect of the child, and expects the court to make that order.<br>. |
-|  | After subsection (7A) insert—[^key-11699e3c8437ecb67bd3b8bda6984ca4]<br>> (7B) For the purposes of the definition of “primary parental order parent” in subsection (7A), a person (“**A**”) elects to be a child’s primary carer if A and the person (“**B**”) with whom A has applied, or intends to apply, for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child agree that A, and not B, will be the child’s primary carer. |
+|  | For subsection (6C) substitute—[^c-bb3bcf5301a01c91263342a7db58d243]<br>> (6C) In relation to cases where the primary parental order parent of a child dies, this section has effect as if—<br>><br>> - (a) in subsection (1)(c), after “intended parent” there were inserted “or primary parental order parent”;<br>> - (b) after subsection (1) there were inserted—<br>><br>>   > (1A) But in a case where the primary parental order parent of a child dies and—<br>>   ><br>>   > - (a) the employee does not apply for an order under section 54 of the Human Fertilisation and Embryology Act 2008 within the time limit set by subsection (3) of that section,<br>>   > - (b) the employee’s application for an order under that section for the child is refused, withdrawn or otherwise terminated without the order being granted and any time for an appeal or a new application has expired, or<br>>   > - (c) the child dies,<br>>   ><br>>   > the regulations may provide that an employee who satisfies those conditions is entitled to leave under this section despite the fact that the leave cannot be taken for that purpose.<br>><br>>   . |
+|  | After subsection (7) insert—<br>> (7A) In this section—<br>><br>> - “intended parent” in relation to a child, means a person who, on the day of the child’s birth—[^c-4f7650f437fff0474e855f867a444d57]<br>>   - (a) applies, or intends to apply during the period of 6 months beginning with that day—<br>>     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or<br>>     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and<br>>   - (b) expects the court to make such an order in respect of the child; [^c-06cd4f369f4e08d9ea93326b118a31f2]...<br>> - “parental order” means an order under section 54 or 54A of the Human Fertilisation and Embryology Act 2008;[^c-1bf22451db9378c5ae554f4dee97e253]<br>> - “**primary parental order parent**”, in relation to a child, means the person who elects to be the child’s primary carer—<br>>   - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child, or<br>>   - (b) who applies, or intends to apply, during the period of 6 months beginning with the day of the child’s birth, with another person for such an order in respect of the child, and expects the court to make that order.<br>. |
+|  | After subsection (7A) insert—[^c-11699e3c8437ecb67bd3b8bda6984ca4]<br>> (7B) For the purposes of the definition of “primary parental order parent” in subsection (7A), a person (“**A**”) elects to be a child’s primary carer if A and the person (“**B**”) with whom A has applied, or intends to apply, for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child agree that A, and not B, will be the child’s primary carer. |
 
 EXPLANATORY NOTE
 
@@ -143,43 +143,43 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00002]: Footnote: Section 75A was inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 3, and amended by the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraph 33, and the Children and Families Act 2014, sections 118(4), 121(1), and 122(1). Section 75B was inserted by the Employment Act 2002, section 3, and amended by the Work and Families Act 2006, Schedule 1, paragraph 34, and the Children and Families Act 2014, sections 118(5), 121(2), and 122(2). Section 75H was inserted by the Children and Families Act 2014, section 117. Section 80B was inserted by the Employment Act 2002, section 1, and amended by the Children and Families Act 2014, sections 118(7) and 122(4).
 
-[^key-49863bc8a8f849aa4e8c522329d45d44]: Commencement: Reg. 1 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
+[^c-49863bc8a8f849aa4e8c522329d45d44]: Commencement: Reg. 1 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
 
-[^key-731ebf263d1c032a41e2aeb3a5a93d55]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/a)
+[^c-731ebf263d1c032a41e2aeb3a5a93d55]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/a)
 
-[^key-639d32469f61d7af7ec42fd04282b371]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/2/a)
+[^c-639d32469f61d7af7ec42fd04282b371]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/2/a)
 
-[^key-c12f867afd37e26336c2ac3b628be71f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/b)
+[^c-c12f867afd37e26336c2ac3b628be71f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/b)
 
-[^key-2f6abb53303e04277f52cc9c57b6ff6f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/c)
+[^c-2f6abb53303e04277f52cc9c57b6ff6f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/c)
 
-[^key-2c0502b3156f1fe5f61b17fd41b8b83b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/d)
+[^c-2c0502b3156f1fe5f61b17fd41b8b83b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(2)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/2/d)
 
-[^key-c22d631f64981d063469ad382843390d]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/3) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/2/b)
+[^c-c22d631f64981d063469ad382843390d]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/3) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/2/b)
 
-[^key-0c745bd0cfec1320a8b4c8dc9b4041ed]: Commencement: Reg. 2 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
+[^c-0c745bd0cfec1320a8b4c8dc9b4041ed]: Commencement: Reg. 2 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
 
-[^key-622937e778500bb8486c80f737125288]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3095/regulation/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/3)
+[^c-622937e778500bb8486c80f737125288]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3095/regulation/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/3)
 
-[^key-5cbdfa670dc8771cf6c67168362d878d]: Commencement: Reg. 3 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
+[^c-5cbdfa670dc8771cf6c67168362d878d]: Commencement: Reg. 3 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
 
 [^f00003]: Footnote: Section 75G was inserted by the Children and Families Act 2014, section 117.
 
-[^key-c9097838f06426b9781ee498d9cd14e1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/3095/regulation/3) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/4)
+[^c-c9097838f06426b9781ee498d9cd14e1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/3095/regulation/3) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/4)
 
-[^key-afad9ea1b4b7bdbac045c80bbac88b8c]: Commencement: Reg. 4 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
+[^c-afad9ea1b4b7bdbac045c80bbac88b8c]: Commencement: Reg. 4 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
 
 [^f00004]: Footnote: Section 80A was inserted by the Employment Act 2002, section 1.
 
-[^key-eddda736665c4ec6d91319e042c8a355]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3095/regulation/4) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/5)
+[^c-eddda736665c4ec6d91319e042c8a355]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3095/regulation/4) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/5)
 
-[^key-b973157320e5298168d9b933f9c7ea1e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3095/regulation/4) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/3)
+[^c-b973157320e5298168d9b933f9c7ea1e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3095/regulation/4) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/3)
 
-[^key-05af10cf07fcdca4f8a02ee78c3a1571]: Commencement: Sch. 1 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
+[^c-05af10cf07fcdca4f8a02ee78c3a1571]: Commencement: Sch. 1 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
 
-[^key-6b2457ca9d634114c911be7407d97f0e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3095/schedule/1) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/6)
+[^c-6b2457ca9d634114c911be7407d97f0e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3095/schedule/1) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/6)
 
-[^key-ebf3f6476c0cf4c51455b3f783f210b8]: Commencement: Sch. 2 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
+[^c-ebf3f6476c0cf4c51455b3f783f210b8]: Commencement: Sch. 2 in force at 25.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1)
 
 [^f00005]: Footnote: Section 80B(5)(aa) was inserted by the Children and Families Act 2014, section 121(2)(a).
 
@@ -187,12 +187,12 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00007]: Footnote: Section 80B(6B) was inserted by the Children and Families Act 2014, section 121(2)(b).
 
-[^key-bb3bcf5301a01c91263342a7db58d243]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/a)
+[^c-bb3bcf5301a01c91263342a7db58d243]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/a)
 
-[^key-4f7650f437fff0474e855f867a444d57]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(7)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/7)
+[^c-4f7650f437fff0474e855f867a444d57]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8(7)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8/7)
 
-[^key-06cd4f369f4e08d9ea93326b118a31f2]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) omitted (10.3.2026) by virtue of [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/b/i)
+[^c-06cd4f369f4e08d9ea93326b118a31f2]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) omitted (10.3.2026) by virtue of [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/b/i)
 
-[^key-1bf22451db9378c5ae554f4dee97e253]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/b/ii)
+[^c-1bf22451db9378c5ae554f4dee97e253]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/b/ii)
 
-[^key-11699e3c8437ecb67bd3b8bda6984ca4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/c)
+[^c-11699e3c8437ecb67bd3b8bda6984ca4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3095/schedule/2) inserted (10.3.2026) by [The Employment Rights Act 1996 (Application of Section 80B to Parental Order Cases) (Amendment) Regulations 2026 (S.I. 2026/236)](https://www.legislation.gov.uk/uksi/2026/236), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/236/regulation/1/b), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/236/regulation/2/4/c)

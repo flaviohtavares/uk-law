@@ -24,7 +24,7 @@ summary: ''
 
 (2) The CAA is responsible for maintaining the register and may record in the register the information specified in article 27(2) in a legible or a non-legible form so long as the recording is capable of being reproduced in a legible form.
 
-(3) Subject to the provisions of this Chapter[^key-8d1248ab4a6eb81353d6eb74aa35acd0], an aircraft must not be registered or continue to be registered in the United Kingdom if it appears to the CAA that—
+(3) Subject to the provisions of this Chapter[^c-8d1248ab4a6eb81353d6eb74aa35acd0], an aircraft must not be registered or continue to be registered in the United Kingdom if it appears to the CAA that—
 
 - (a) the aircraft is registered outside the United Kingdom and that such registration does not cease by operation of law when the aircraft is registered in the United Kingdom;
 - (b) the aircraft could more suitably be registered in some other part of the Commonwealth or, in the case of an aircraft registered to an unqualified person, another Contracting State; or
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d1248ab4a6eb81353d6eb74aa35acd0]: Textual amendment: Word in [art. 25(3)](https://www.legislation.gov.uk/uksi/2016/765/article/25/3) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [9](https://www.legislation.gov.uk/uksi/2017/1112/article/9)
+[^c-8d1248ab4a6eb81353d6eb74aa35acd0]: Textual amendment: Word in [art. 25(3)](https://www.legislation.gov.uk/uksi/2016/765/article/25/3) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [9](https://www.legislation.gov.uk/uksi/2017/1112/article/9)

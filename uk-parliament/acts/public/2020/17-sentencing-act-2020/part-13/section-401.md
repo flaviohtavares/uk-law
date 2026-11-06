@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401. Meaning of “sentence”[^key-e3c03a58b28d7ee4da9db1bf81559b5f]
+## 401. Meaning of “sentence”[^c-e3c03a58b28d7ee4da9db1bf81559b5f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Code, except where otherwise provided, “**sentence**”, in relation t
 
 ## Annotations
 
-[^key-e3c03a58b28d7ee4da9db1bf81559b5f]: Commencement: S. 401 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e3c03a58b28d7ee4da9db1bf81559b5f]: Commencement: S. 401 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

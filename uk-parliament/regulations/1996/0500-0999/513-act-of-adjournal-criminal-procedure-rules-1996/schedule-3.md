@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — ACTS OF ADJOURNAL REVOKED[^key-1b49a13389b509976ef06da56fddbf47]
+## SCHEDULE 3 — ACTS OF ADJOURNAL REVOKED[^c-1b49a13389b509976ef06da56fddbf47]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ Paragraph 3
 
 ## Annotations
 
-[^key-1b49a13389b509976ef06da56fddbf47]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1996/513/schedule/3) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-1b49a13389b509976ef06da56fddbf47]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1996/513/schedule/3) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)

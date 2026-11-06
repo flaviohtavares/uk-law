@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — REAL TIME RETURNS[^key-03e044323756f41b299f215ea2ce6614]
+## SCHEDULE 3 — REAL TIME RETURNS[^c-03e044323756f41b299f215ea2ce6614]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulations 69, 73, 74, 75 and 76
 
-[^key-03e044323756f41b299f215ea2ce6614]
+[^c-03e044323756f41b299f215ea2ce6614]
 
-#### Information about the employer and employee[^key-03e044323756f41b299f215ea2ce6614]
+#### Information about the employer and employee[^c-03e044323756f41b299f215ea2ce6614]
 
-**1.**[^key-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-03e044323756f41b299f215ea2ce6614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03e044323756f41b299f215ea2ce6614]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2016/606/schedule/3) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/3)
+[^c-03e044323756f41b299f215ea2ce6614]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2016/606/schedule/3) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/3)

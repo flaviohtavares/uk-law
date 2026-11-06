@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Powers to make the appropriate supervisory body a drainage board.[^key-b88d630fa50e505aa1d491d21de50416]
+## 4. Powers to make the appropriate supervisory body a drainage board.[^c-b88d630fa50e505aa1d491d21de50416]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ and any expenses incurred by the Agency as the internal drainage board for such 
 
 ## Annotations
 
-[^key-b88d630fa50e505aa1d491d21de50416]: Textual amendment: Words in s. 4 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b88d630fa50e505aa1d491d21de50416]: Textual amendment: Words in s. 4 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415298]: Textual amendment: Words in s. 4 substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [para. 191](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/191)(with ss. 7(6), 115, 117); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)

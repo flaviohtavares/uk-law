@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137A. Use of substituted values[^key-114c8a132de978fb3335e3cbea925ab8]
+## 137A. Use of substituted values[^c-114c8a132de978fb3335e3cbea925ab8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ in each case, in accordance with the accounting standard used in determining the
 
 ## Annotations
 
-[^key-114c8a132de978fb3335e3cbea925ab8]: Textual amendment: S. 137A inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/12/1), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-114c8a132de978fb3335e3cbea925ab8]: Textual amendment: S. 137A inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/12/1), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

@@ -44,11 +44,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 These Regulations are made with the approval of the Department of Finance[^f00005] under section 9(1) of the Agriculture Act (Northern Ireland) 1949.
 
-## 1. Citation and commencement[^key-d06970420e60ff8a184453416e61fb76]
+## 1. Citation and commencement[^c-d06970420e60ff8a184453416e61fb76]
 
 These Regulations may be cited as the Bovine Genetics Genotyping Scheme Regulations (Northern Ireland) 2026 and come into operation on 1st September 2026.
 
-## 2. Interpretation[^key-f377a009610fd3d33bc3d39cc3d821ed]
+## 2. Interpretation[^c-f377a009610fd3d33bc3d39cc3d821ed]
 
 In these Regulations—
 
@@ -69,7 +69,7 @@ In these Regulations—
 - “**stock bull or potential to be**” means an entire male animal used for or intended for use in breeding and registered as “**B**” (bull) on NIFAIS;
 - “**tissue tag**” means a tissue sample tag supplied from an approved tag supplier.
 
-## 3. Genotyping Scheme Payment[^key-d43910d6ca867342968a1b6d6c17fe54]
+## 3. Genotyping Scheme Payment[^c-d43910d6ca867342968a1b6d6c17fe54]
 
 (1) Subject to paragraphs (2), (3) and (4), the Department may, in accordance with these Regulations, make a scheme payment of £13 per eligible genotype to an eligible farm business.
 
@@ -79,7 +79,7 @@ In these Regulations—
 
 (4) Payment shall be made to the eligible farm business which submits the sample to the approved laboratory.
 
-## 4. Specific requirements: animals and farm businesses[^key-f1e0f20aa801197f64e50d3fe2a79b50]
+## 4. Specific requirements: animals and farm businesses[^c-f1e0f20aa801197f64e50d3fe2a79b50]
 
 (1) The Department shall issue a payment in relation to an eligible bovine animal of the category set out in the second column of the Table.
 
@@ -103,7 +103,7 @@ Table
 
 (6) The tissue tag used by the applicant must be issued by an approved supplier.
 
-## 5. Live bovines[^key-44a331917b11327608cb6e9360deb54c]
+## 5. Live bovines[^c-44a331917b11327608cb6e9360deb54c]
 
 (1) The keeper of an existing eligible bovine shall ensure—
 
@@ -112,7 +112,7 @@ Table
 
 (2) In relation to new birth registrations, a sample shall be taken under paragraph (1) as soon as reasonably practicable but not later than 20 days after birth.
 
-## 6. Aborted bovine foetuses, stillborn bovine calves or bovine calves that have died before being tagged[^key-00081164608f954f5c9466867c30c0bc]
+## 6. Aborted bovine foetuses, stillborn bovine calves or bovine calves that have died before being tagged[^c-00081164608f954f5c9466867c30c0bc]
 
 The keeper of an aborted bovine foetus, stillborn bovine calf or bovine calf that has died before being tagged shall ensure that as soon as reasonably practicable, after the discovery of that bovine—
 
@@ -120,7 +120,7 @@ The keeper of an aborted bovine foetus, stillborn bovine calf or bovine calf tha
 - (b) that abortion, stillbirth or birth is notified to the Department; and
 - (c) the tissue sample is dispatched to an approved laboratory within 7 days of its taking.
 
-## 7. Inadequate tissue sample[^key-15adf1ea9a45b6b390ec4658ec5e033d]
+## 7. Inadequate tissue sample[^c-15adf1ea9a45b6b390ec4658ec5e033d]
 
 (1) Where the service provider is notified by an approved laboratory that a sample submitted in accordance with regulation 5 or 6 is not adequate to be subjected to analysis, the service provider shall by notice issued to the keeper require the keeper to submit a further sample up to and including 15 May 2028.
 
@@ -129,17 +129,17 @@ The keeper of an aborted bovine foetus, stillborn bovine calf or bovine calf tha
 - (a) a further tissue sample is taken from that bovine; and
 - (b) the sample is dispatched to an approved laboratory within 7 days of its taking.
 
-## 8. Tampering with a sample[^key-bc316223dcea54377f55f43e6c681807]
+## 8. Tampering with a sample[^c-bc316223dcea54377f55f43e6c681807]
 
 A person shall not tamper with a tissue sample or do any act or thing or attempt to do any act or thing or cause or permit any act or thing to be done that is likely to affect the result of any analysis required to be carried out in an approved laboratory.
 
-## 9. Use of NIFAIS information[^key-5f039adc0d623e43a7b8504b10778411]
+## 9. Use of NIFAIS information[^c-5f039adc0d623e43a7b8504b10778411]
 
 (1) The Department shall use the information recorded on NIFAIS along with information provided from the service provider to determine whether the requirements under regulation 4 are met.
 
 (2) The NIFAIS and service provider information shall be conclusive evidence unless otherwise rebutted or corrected to the satisfaction of the Department.
 
-## 10. Withholding and recovery of overpayments[^key-ea26a13c1678b443602dcfec4d6cdde9]
+## 10. Withholding and recovery of overpayments[^c-ea26a13c1678b443602dcfec4d6cdde9]
 
 (1) This regulation applies where payment has been approved by the Department and it becomes aware that the applicant—
 
@@ -161,7 +161,7 @@ A person shall not tamper with a tissue sample or do any act or thing or attempt
 - (b) afford the applicant the opportunity to make written representations within 14 days beginning with the date of the issue of the notice; and
 - (c) consider any representations made by or on behalf of the applicant.
 
-## 11. Powers of authorised persons[^key-bdfe9a82672e001a08417a303e35ba75]
+## 11. Powers of authorised persons[^c-bdfe9a82672e001a08417a303e35ba75]
 
 (1) An authorised person may exercise any of the powers specified in paragraphs (2) to (4) for the purposes of these Regulations.
 
@@ -183,7 +183,7 @@ A person shall not tamper with a tissue sample or do any act or thing or attempt
 
 (5) For the purposes of this regulation a computer includes any electronic device.
 
-## 12. Amendment of [Regulation (EU) No1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^key-c2b8a990ef7b66ff39037ecbddb4bb75]
+## 12. Amendment of [Regulation (EU) No1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^c-c2b8a990ef7b66ff39037ecbddb4bb75]
 
  In [Regulation (EU) No.1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council of 17 December 2013[^f00006], after Article 93, insert –
 
@@ -211,7 +211,7 @@ Maryann Smith
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — Eligible Bovine Breeds[^key-3609d5a9e28e7ce409e97d71d5a93a65]
+## SCHEDULE — Eligible Bovine Breeds[^c-3609d5a9e28e7ce409e97d71d5a93a65]
 
 Regulation 2
 
@@ -281,30 +281,30 @@ specifies eligible bovine breeds (Schedule).
 
 [^f00005]: Footnote: The “Ministry of Finance” is now the “Department of Finance”; see section 1(4) of the Departments Act (Northern Ireland) [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-d06970420e60ff8a184453416e61fb76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-d06970420e60ff8a184453416e61fb76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-f377a009610fd3d33bc3d39cc3d821ed]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/14/regulation/2) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-f377a009610fd3d33bc3d39cc3d821ed]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/14/regulation/2) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-d43910d6ca867342968a1b6d6c17fe54]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/14/regulation/3) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-d43910d6ca867342968a1b6d6c17fe54]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/14/regulation/3) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-f1e0f20aa801197f64e50d3fe2a79b50]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/14/regulation/4) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-f1e0f20aa801197f64e50d3fe2a79b50]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/14/regulation/4) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-44a331917b11327608cb6e9360deb54c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2026/14/regulation/5) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-44a331917b11327608cb6e9360deb54c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2026/14/regulation/5) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-00081164608f954f5c9466867c30c0bc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2026/14/regulation/6) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-00081164608f954f5c9466867c30c0bc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2026/14/regulation/6) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-15adf1ea9a45b6b390ec4658ec5e033d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2026/14/regulation/7) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-15adf1ea9a45b6b390ec4658ec5e033d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2026/14/regulation/7) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-bc316223dcea54377f55f43e6c681807]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2026/14/regulation/8) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-bc316223dcea54377f55f43e6c681807]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2026/14/regulation/8) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-5f039adc0d623e43a7b8504b10778411]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2026/14/regulation/9) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-5f039adc0d623e43a7b8504b10778411]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2026/14/regulation/9) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-ea26a13c1678b443602dcfec4d6cdde9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2026/14/regulation/10) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-ea26a13c1678b443602dcfec4d6cdde9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2026/14/regulation/10) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-bdfe9a82672e001a08417a303e35ba75]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2026/14/regulation/11) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-bdfe9a82672e001a08417a303e35ba75]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2026/14/regulation/11) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
-[^key-c2b8a990ef7b66ff39037ecbddb4bb75]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2026/14/regulation/12) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-c2b8a990ef7b66ff39037ecbddb4bb75]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2026/14/regulation/12) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
 
 [^f00006]: Footnote: [EUR 2013/1306](https://www.legislation.gov.uk/european/regulation/2013/1306)
 
-[^key-3609d5a9e28e7ce409e97d71d5a93a65]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/14/schedule) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)
+[^c-3609d5a9e28e7ce409e97d71d5a93a65]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/14/schedule) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/14/regulation/1)

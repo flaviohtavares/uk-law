@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Power of National Assembly for Wales to give financial assistance to charitable, benevolent or philanthropic institutions[^key-a0a027c2b9100241b9fb6a9639620822]
+## 71. Power of National Assembly for Wales to give financial assistance to charitable, benevolent or philanthropic institutions[^c-a0a027c2b9100241b9fb6a9639620822]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ but do not prevent the functions concerned from being exercised by the Assembly.
 
 ## Annotations
 
-[^key-a0a027c2b9100241b9fb6a9639620822]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2006/50/section/71) in force at 27.2.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-a0a027c2b9100241b9fb6a9639620822]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2006/50/section/71) in force at 27.2.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)

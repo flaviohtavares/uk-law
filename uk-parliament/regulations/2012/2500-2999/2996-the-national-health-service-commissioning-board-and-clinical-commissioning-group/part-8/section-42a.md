@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42A. Patient choice: primary medical services[^key-4a7da5451f736dd88a7c32d9e158e2b6]
+## 42A. Patient choice: primary medical services[^c-4a7da5451f736dd88a7c32d9e158e2b6]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a7da5451f736dd88a7c32d9e158e2b6]: Textual amendment: [Regs. 42A-42D](https://www.legislation.gov.uk/uksi/2012/2996/regulation/42A) inserted (1.1.2024) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1105)](https://www.legislation.gov.uk/uksi/2023/1105), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/2/4)
+[^c-4a7da5451f736dd88a7c32d9e158e2b6]: Textual amendment: [Regs. 42A-42D](https://www.legislation.gov.uk/uksi/2012/2996/regulation/42A) inserted (1.1.2024) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1105)](https://www.legislation.gov.uk/uksi/2023/1105), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/2/4)

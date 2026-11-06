@@ -43,61 +43,61 @@ Coming into force
 
 31st October 2000
 
-[^M_C_2f0d55a6-cf17-419d-8e83-860ca6ca71a3]The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to consumer protection, in exercise of the powers conferred on him by section 2(2) of that Act, hereby makes the following Regulations:—[^key-cfb59aef8d4cd30ba45f1ff403880274]
+[^M_C_2f0d55a6-cf17-419d-8e83-860ca6ca71a3]The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to consumer protection, in exercise of the powers conferred on him by section 2(2) of that Act, hereby makes the following Regulations:—[^c-cfb59aef8d4cd30ba45f1ff403880274]
 
-## 1. Title, commencement and extent[^key-652e7c6610f42aa5a698f8e02232b2e1]
+## 1. Title, commencement and extent[^c-652e7c6610f42aa5a698f8e02232b2e1]
 
 (1) These Regulations may be cited as the Consumer Protection (Distance Selling) Regulations 2000 and shall come into force on 31st October 2000.
 
 (2) These Regulations extend to Northern Ireland.
 
-## 2. Revocation[^key-83c5b689437b99f5789fe812466a92f8]
+## 2. Revocation[^c-83c5b689437b99f5789fe812466a92f8]
 
 The Mail Order Transactions (Information) Order 1976[^f00003] is hereby revoked.
 
-## 3. Interpretation[^key-9ce3c8207f79b15dc2d2773c5667c670]
+## 3. Interpretation[^c-9ce3c8207f79b15dc2d2773c5667c670]
 
 (1) In these Regulations—
 
-- “the 2000 Act” means the Financial Services and Markets Act 2000;[^key-b884ad0055a92b2edce8f94c45dcfd76]
+- “the 2000 Act” means the Financial Services and Markets Act 2000;[^c-b884ad0055a92b2edce8f94c45dcfd76]
 - “appointed representative” has the same meaning as in section 39(2) of the 2000 Act;
 - “authorised person” has the same meaning as in section 31(2) of the 2000 Act;
 - “breach” means contravention by a supplier of a prohibition in, or failure to comply with a requirement of, these Regulations;
 - “business” includes a trade or profession;
-- “[^key-73d7e64654473156bf9cb70f750080de]CMA” means Competition and Markets Authority;
+- “[^c-73d7e64654473156bf9cb70f750080de]CMA” means Competition and Markets Authority;
 - “consumer” means any natural person who, in contracts to which these Regulations apply, is acting for purposes which are outside his business;
 - “court” in relation to England and Wales and Northern Ireland means a county court or the High Court, and in relation to Scotland means the Sheriff Court or the Court of Session;
 - “credit” includes a cash loan and any other form of financial accommodation, and for this purpose “cash” includes money in any form;
-- [^key-c0caa12eb2a3c581e35c845b15e1c32e]...
+- [^c-c0caa12eb2a3c581e35c845b15e1c32e]...
 - “distance contract” means any contract concerning goods or services concluded between a supplier and a consumer under an organised distance sales or service provision scheme run by the supplier who, for the purpose of the contract, makes exclusive use of one or more means of distance communication up to and including the moment at which the contract is concluded;
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by the Protocol signed at Brussels on 17 March 1993[^f00004];
 - “enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament;
-- “enforcement authority” means [^key-105ce6a780eb6e9a8a5ad687b373bcec]... every weights and measures authority in Great Britain, and the Department of Enterprise, Trade and Investment in Northern Ireland;
+- “enforcement authority” means [^c-105ce6a780eb6e9a8a5ad687b373bcec]... every weights and measures authority in Great Britain, and the Department of Enterprise, Trade and Investment in Northern Ireland;
 - “excepted contract” means a contract such as is mentioned in regulation 5(1);
-- “financial service” means any service of a banking, credit, insurance, personal pension, investment or payment nature;[^key-e2e8914db18d83c761f6fec739a7e26d]
+- “financial service” means any service of a banking, credit, insurance, personal pension, investment or payment nature;[^c-e2e8914db18d83c761f6fec739a7e26d]
 - “means of distance communication” means any means which, without the simultaneous physical presence of the supplier and the consumer, may be used for the conclusion of a contract between those parties; and an indicative list of such means is contained in Schedule 1;
 - “Member State” means a State which is a contracting party to the EEA Agreement;
 - “operator of a means of communication” means any public or private person whose business involves making one or more means of distance communication available to suppliers;
 - “period for performance” has the meaning given by regulation 19(2);
 - “personal credit agreement” has the meaning given by regulation 14(8);
-- “regulated activity” has the same meaning as in section 22 of the 2000 Act;[^key-bc73c9c1d823feb0bb355217b529d10c]
+- “regulated activity” has the same meaning as in section 22 of the 2000 Act;[^c-bc73c9c1d823feb0bb355217b529d10c]
 - “related credit agreement” has the meaning given by regulation 15(5);
 - “supplier” means any person who, in contracts to which these Regulations apply, is acting in his commercial or professional capacity; and
 - “working days” means all days other than Saturdays, Sundays and public holidays.
 
 (2) In the application of these Regulations to Scotland, for references to an “injunction” or an “interim injunction” there shall be substituted references to an “interdict” or an “interim interdict” respectively.
 
-## 4. Contracts to which these Regulations apply[^key-683752ef388883135639548c8b6d7a76]
+## 4. Contracts to which these Regulations apply[^c-683752ef388883135639548c8b6d7a76]
 
 These Regulations apply, subject to regulation 6, to distance contracts other than excepted contracts.
 
-## 5. Excepted contracts[^key-01fe9c4a209c8862e07d090f323ec2d4]
+## 5. Excepted contracts[^c-01fe9c4a209c8862e07d090f323ec2d4]
 
 (1) The following are excepted contracts, namely any contract—
 
 - (a) for the sale or other disposition of an interest in land except for a rental agreement;
 - (b) for the construction of a building where the contract also provides for a sale or other disposition of an interest in land on which the building is constructed, except for a rental agreement;
-- (c) relating to financial services[^key-3a27bb5d28c8ee9bab498b324705c159]...;
+- (c) relating to financial services[^c-3a27bb5d28c8ee9bab498b324705c159]...;
 - (d) concluded by means of an automated vending machine or automated commercial premises;
 - (e) concluded with a telecommunications operator through the use of a public pay-phone;
 - (f) concluded at an auction.
@@ -110,9 +110,9 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 
 (3) Paragraph (2) shall not be taken to mean that a rental agreement in respect of land situated outside the United Kingdom is not capable of being a distance contract to which these Regulations apply.
 
-## 6. Contracts to which only part of these Regulations apply[^key-c7216676c3427e9a58cfb523ec4cdc30]
+## 6. Contracts to which only part of these Regulations apply[^c-c7216676c3427e9a58cfb523ec4cdc30]
 
-(1)[^key-b407f8c0900946822e37f2283c19cbb7] Regulations 7 to 20 shall not apply to a contract which is a regulated contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010.
+(1)[^c-b407f8c0900946822e37f2283c19cbb7] Regulations 7 to 20 shall not apply to a contract which is a regulated contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010.
 
 (2) Regulations 7 to 19(1) shall not apply to—
 
@@ -121,11 +121,11 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 
 (3) Regulations 19(2) to (8) and 20 do not apply to a contract for a “package” within the meaning of the Package Travel, Package Holidays and Package Tours Regulations 1992[^f00009] which is sold or offered for sale in the territory of the Member States.
 
-(4)[^key-9a5e94f532013edbfcb6747680faa424] Regulations 7 to 14, 17 to 20 and 25 do not apply to any contract which is made, and regulation 24 does not apply to any unsolicited services which are supplied, by an authorised person where the making or performance of that contract or the supply of those services, as the case may be, constitutes or is part of a regulated activity carried on by him.
+(4)[^c-9a5e94f532013edbfcb6747680faa424] Regulations 7 to 14, 17 to 20 and 25 do not apply to any contract which is made, and regulation 24 does not apply to any unsolicited services which are supplied, by an authorised person where the making or performance of that contract or the supply of those services, as the case may be, constitutes or is part of a regulated activity carried on by him.
 
 (5) Regulations 7 to 9, 17 to 20 and 25 do not apply to any contract which is made, and regulation 24 does not apply to any unsolicited services which are supplied, by an appointed representative where the making or performance of that contract or the supply of those services, as the case may be, constitutes or is part of a regulated activity carried on by him.
 
-## 7. Information required prior to the conclusion of the contract[^key-dc49fff5b881bc0fce0763f38d2d6d9a]
+## 7. Information required prior to the conclusion of the contract[^c-dc49fff5b881bc0fce0763f38d2d6d9a]
 
 (1) Subject to paragraph (4), in good time prior to the conclusion of the contract the supplier shall—
 
@@ -148,7 +148,7 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 
 (4) In the case of a telephone communication, the identity of the supplier and the commercial purpose of the call shall be made clear at the beginning of the conversation with the consumer.
 
-## 8. Written and additional information[^key-de6615ffbb2aedbe00eef40a1ee5902e]
+## 8. Written and additional information[^c-de6615ffbb2aedbe00eef40a1ee5902e]
 
 (1) Subject to regulation 9, the supplier shall provide to the consumer in writing, or in another durable medium which is available and accessible to the consumer, the information referred to in paragraph (2), either—
 
@@ -161,22 +161,22 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 
 - (a) the information set out in paragraphs (i) to (vi) of Regulation 7(1)(a);
 - (b) information about the conditions and procedures for exercising the right to cancel under regulation 10, including—
-  - (i) where a term of the contract requires (or the supplier intends that it will require) that the consumer shall return the goods to the supplier in the event of cancellation, notification of that requirement; [^key-baab7888dd93ca6bac53718c58ef7e8c]...
+  - (i) where a term of the contract requires (or the supplier intends that it will require) that the consumer shall return the goods to the supplier in the event of cancellation, notification of that requirement; [^c-baab7888dd93ca6bac53718c58ef7e8c]...
   - (ii) information as to whether the consumer or the supplier would be responsible under these Regulations for the cost of returning any goods to the supplier, or the cost of his recovering them, if the consumer cancels the contract under regulation 10;
-  - (iii)[^key-e36764dd6d034bcd9a26b92c5eff7e2d] in the case of a contract for the supply of services, information as to how the right to cancel may be affected by the consumer agreeing to performance of the services beginning before the end of the seven working day period referred to in regulation 12;
+  - (iii)[^c-e36764dd6d034bcd9a26b92c5eff7e2d] in the case of a contract for the supply of services, information as to how the right to cancel may be affected by the consumer agreeing to performance of the services beginning before the end of the seven working day period referred to in regulation 12;
 - (c) the geographical address of the place of business of the supplier to which the consumer may address any complaints;
 - (d) information about any after-sales services and guarantees; and
 - (e) the conditions for exercising any contractual right to cancel the contract, where the contract is of an unspecified duration or a duration exceeding one year.
 
-(3)[^key-b7f1066343a0e0ca24c046204970517f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b7f1066343a0e0ca24c046204970517f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Services performed through the use of a means of distance communication[^key-a0ac5433484a234971172f234551f298]
+## 9. Services performed through the use of a means of distance communication[^c-a0ac5433484a234971172f234551f298]
 
 (1) Regulation 8 shall not apply to a contract for the supply of services which are performed through the use of a means of distance communication, where those services are supplied on only one occasion and are invoiced by the operator of the means of distance communication.
 
 (2) But the supplier shall take all necessary steps to ensure that a consumer who is a party to a contract to which paragraph (1) applies is able to obtain the supplier’s geographical address and the place of business to which the consumer may address any complaints.
 
-## 10. Right to cancel[^key-cdecd4bf7a1cf604a5f2ec700150fb84]
+## 10. Right to cancel[^c-cdecd4bf7a1cf604a5f2ec700150fb84]
 
 (1) Subject to regulation 13, if within the cancellation period set out in regulations 11 and 12, the consumer gives a notice of cancellation to the supplier, or any other person previously notified by the supplier to the consumer as a person to whom notice of cancellation may be given, the notice of cancellation shall operate to cancel the contract.
 
@@ -196,7 +196,7 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 - (a) in the case of a body corporate, it is left at the address of, or sent to, the secretary or clerk of that body; or
 - (b) in the case of a partnership, it is left with or sent to a partner or a person having control or management of the partnership business.
 
-## 11. Cancellation period in the case of contracts for the supply of goods[^key-042f66dde87d30a613cefd1a183ed14f]
+## 11. Cancellation period in the case of contracts for the supply of goods[^c-042f66dde87d30a613cefd1a183ed14f]
 
 (1) For the purposes of regulation 10, the cancellation period in the case of contracts for the supply of goods begins with the day on which the contract is concluded and ends as provided in paragraphs (2) to (5).
 
@@ -208,26 +208,26 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 
 (5) In the case of contracts for goods for delivery to third parties, paragraphs (2) to (4) shall apply as if the consumer had received the goods on the day on which they were received by the third party.
 
-## 12. Cancellation period in the case of contracts for the supply of services[^key-541b9da9e57378f7fe60a352be37ab6c]
+## 12. Cancellation period in the case of contracts for the supply of services[^c-541b9da9e57378f7fe60a352be37ab6c]
 
 (1) For the purposes of regulation 10, the cancellation period in the case of contracts for the supply of services begins with the day on which the contract is concluded and ends as provided in paragraphs (2) to (4).
 
 (2) Where the supplier complies with regulation 8 on or before the day on which the contract is concluded, the cancellation period ends on the expiry of the period of seven working days beginning with the day after the day on which the contract is concluded.
 
-(3) Subject to paragraph (3A)[^key-2ec5f04852b90f7152e6774429d86649] where a supplier who has not complied with regulation 8 on or before the day on which the contract is concluded provides to the consumer the information referred to in regulation 8(2) [^key-ec3752b664808f3485404814f1558f9b]..., and does so in writing or in another durable medium available and accessible to the consumer, within the period of three months beginning with the day after the day on which the contract is concluded, the cancellation period ends on the expiry of the period of seven working days beginning with the day after the day on which the consumer receives the information.
+(3) Subject to paragraph (3A)[^c-2ec5f04852b90f7152e6774429d86649] where a supplier who has not complied with regulation 8 on or before the day on which the contract is concluded provides to the consumer the information referred to in regulation 8(2) [^c-ec3752b664808f3485404814f1558f9b]..., and does so in writing or in another durable medium available and accessible to the consumer, within the period of three months beginning with the day after the day on which the contract is concluded, the cancellation period ends on the expiry of the period of seven working days beginning with the day after the day on which the consumer receives the information.
 
-(3A)[^key-42d2773be0d38c799753c430bf6ca327] Where the performance of the contract has begun with the consumer’s agreement before the expiry of the period of seven working days beginning with the day after the day on which the contract was concluded and the supplier has not complied with regulation 8 on or before the day on which performance began, but provides to the consumer the information referred to in regulation 8(2) in good time during the performance of the contract, the cancellation period ends—
+(3A)[^c-42d2773be0d38c799753c430bf6ca327] Where the performance of the contract has begun with the consumer’s agreement before the expiry of the period of seven working days beginning with the day after the day on which the contract was concluded and the supplier has not complied with regulation 8 on or before the day on which performance began, but provides to the consumer the information referred to in regulation 8(2) in good time during the performance of the contract, the cancellation period ends—
 
 - (a) on the expiry of the period of seven working days beginning with the day after the day on which the consumer receives the information; or
 - (b) if the performance of the contract is completed before the expiry of the period referred to in sub-paragraph (a), on the day when the performance of the contract is completed.
 
-(4) Where none of paragraphs (2) to (3A) applies[^key-c83511d2f44cbe7c66fb91c49fb4b462], the cancellation period ends on the expiry of the period of three months and seven working days beginning with the day after the day on which the contract is concluded.
+(4) Where none of paragraphs (2) to (3A) applies[^c-c83511d2f44cbe7c66fb91c49fb4b462], the cancellation period ends on the expiry of the period of three months and seven working days beginning with the day after the day on which the contract is concluded.
 
-## 13. Exceptions to the right to cancel[^key-d52046bf3f7bf0013a08da7d53f09fec]
+## 13. Exceptions to the right to cancel[^c-d52046bf3f7bf0013a08da7d53f09fec]
 
 (1) Unless the parties have agreed otherwise, the consumer will not have the right to cancel the contract by giving notice of cancellation pursuant to regulation 10 in respect of contracts—
 
-- (a)[^key-3de11c37df8a55a5dc196c81d6d99fbf] for the supply of services if the performance of the contract has begun with the consumer’s agreement—
+- (a)[^c-3de11c37df8a55a5dc196c81d6d99fbf] for the supply of services if the performance of the contract has begun with the consumer’s agreement—
   - (i) before the end of the cancellation period applicable under regulation 12(2); and
   - (ii) after the supplier has provided the information referred to in regulation 8(2).
 - (b) for the supply of goods or services the price of which is dependent on fluctuations in the financial market which cannot be controlled by the supplier;
@@ -236,7 +236,7 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 - (e) for the supply of newspapers, periodicals or magazines; or
 - (f) for gaming, betting or lottery services.
 
-## 14. Recovery of sums paid by or on behalf of the consumer on cancellation, and return of security[^key-59d0d59fc44d394e56ac18048b0735ed]
+## 14. Recovery of sums paid by or on behalf of the consumer on cancellation, and return of security[^c-59d0d59fc44d394e56ac18048b0735ed]
 
 (1) On the cancellation of a contract under regulation 10, the supplier shall reimburse any sum paid by or on behalf of the consumer under or in relation to the contract to the person by whom it was made free of any charge, less any charge made in accordance with paragraph (5).
 
@@ -257,7 +257,7 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 
 (8) For the purposes of these Regulations, a personal credit agreement is an agreement between the consumer and any other person (“the creditor”) by which the creditor provides the consumer with credit of any amount.
 
-## 15. Automatic cancellation of a related credit agreement[^key-f3a442887d4e97b51abd6dfed7b320b7]
+## 15. Automatic cancellation of a related credit agreement[^c-f3a442887d4e97b51abd6dfed7b320b7]
 
 (1) Where a notice of cancellation is given under regulation 10 which has the effect of cancelling the contract, the giving of the notice shall also have the effect of cancelling any related credit agreement.
 
@@ -283,7 +283,7 @@ These Regulations apply, subject to regulation 6, to distance contracts other th
 - (c) “repayment” in relation to credit means repayment of money received by the consumer, and cognate expressions shall be construed accordingly; and
 - (d) “interest” means interest on money so received.
 
-## 16. Repayment of credit and interest after cancellation of a related credit agreement[^key-47c17b6b6b9007e649f501d4b5f219cc]
+## 16. Repayment of credit and interest after cancellation of a related credit agreement[^c-47c17b6b6b9007e649f501d4b5f219cc]
 
 (1) This regulation applies following the cancellation of a related credit agreement by virtue of regulation 15(1).
 
@@ -298,7 +298,7 @@ no interest shall be payable on the amount repaid.
 
 (4) Where any security has been provided under a related credit agreement the duty imposed on the consumer to repay credit and to pay interest shall not be enforceable before the creditor has discharged any duty imposed on him by regulation 15(4) to return any property lodged with him as security on cancellation.
 
-## 17. Restoration of goods by consumer after cancellation[^key-aa1f2abb1d7ef70b3503c5ba69c4bc21]
+## 17. Restoration of goods by consumer after cancellation[^c-aa1f2abb1d7ef70b3503c5ba69c4bc21]
 
 (1) This regulation applies where a contract is cancelled under regulation 10 after the consumer has acquired possession of any goods under the contract other than any goods mentioned in regulation 13(1)(b) to (e).
 
@@ -333,7 +333,7 @@ paragraph (7) shall apply as if for the period of 21 days there were substituted
 
 (10) Breach of a duty imposed by this regulation on a consumer is actionable as a breach of statutory duty.
 
-## 18. Goods given in part-exchange[^key-97d7f3e7d96c66d5b55658f28661eca8]
+## 18. Goods given in part-exchange[^c-97d7f3e7d96c66d5b55658f28661eca8]
 
 (1) This regulation applies on the cancellation of a contract under regulation 10 where the supplier agreed to take goods in part-exchange (the “part-exchange goods”) and those goods have been delivered to him.
 
@@ -343,7 +343,7 @@ paragraph (7) shall apply as if for the period of 21 days there were substituted
 
 (4) Where the consumer recovers from the supplier a sum equal to the part-exchange allowance, the title of the consumer to the part-exchange goods shall vest in the supplier (if it has not already done so) on recovery of that sum.
 
-## 19. Performance[^key-07f15f62eb3b9431786b22527849f0e3]
+## 19. Performance[^c-07f15f62eb3b9431786b22527849f0e3]
 
 (1) Unless the parties agree otherwise, the supplier shall perform the contract within a maximum of 30 days beginning with the day after the day the consumer sent his order to the supplier.
 
@@ -367,18 +367,18 @@ paragraph (7) shall apply as if for the period of 21 days there were substituted
 
 (8) In the case of outdoor leisure events which by their nature cannot be rescheduled, paragraph 2(b) shall not apply where the consumer and the supplier so agree.
 
-## 20. Effect of non-performance on related credit agreement[^key-3b1579aec55bd48df93723219ab27a9c]
+## 20. Effect of non-performance on related credit agreement[^c-3b1579aec55bd48df93723219ab27a9c]
 
 Where a supplier is unable to perform the contract within the period for performance—
 
 - (a) regulations 15 and 16 shall apply to any related credit agreement as if the consumer had given a valid notice of cancellation under regulation 10 on the expiry of the period for performance; and
 - (b) the reference in regulation 15(3)(a) to regulation 14(1) shall be read, for the purposes of this regulation, as a reference to regulation 19(2).
 
-## 21. Payment by card[^key-544b5d4deba6dcc771358a44181886e9][^key-fed06b5efe0d92ba3099c1ea3e036a8d]
+## 21. Payment by card[^c-544b5d4deba6dcc771358a44181886e9][^c-fed06b5efe0d92ba3099c1ea3e036a8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Amendments to the Unsolicited Goods and Services Act 1971[^key-a0ae813077d399049de29849e4115458]
+## 22. Amendments to the Unsolicited Goods and Services Act 1971[^c-a0ae813077d399049de29849e4115458]
 
 (1) The Unsolicited Goods and Services Act 1971[^f00012] is amended as follows.
 
@@ -388,7 +388,7 @@ Where a supplier is unable to perform the contract within the period for perform
 
 (4) The amendments made by this regulation apply only in relation to goods sent after the date on which it comes into force.
 
-## 23. Amendments to the Unsolicited Goods and Services (Northern Ireland) Order 1976[^key-3fc404b0d504683165434f7515640430]
+## 23. Amendments to the Unsolicited Goods and Services (Northern Ireland) Order 1976[^c-3fc404b0d504683165434f7515640430]
 
 (1) The Unsolicited Goods and Services (Northern Ireland) Order 1976[^f00013] is amended as follows.
 
@@ -398,7 +398,7 @@ Where a supplier is unable to perform the contract within the period for perform
 
 (4) The amendments made by this regulation apply only in relation to goods sent after the date on which it comes into force.
 
-## 24. Inertia Selling[^key-ac0a3fcba8ca0ced3ced9cebd041aacb]
+## 24. Inertia Selling[^c-ac0a3fcba8ca0ced3ced9cebd041aacb]
 
 (1) Paragraphs (2) and (3) apply if—
 
@@ -410,9 +410,9 @@ Where a supplier is unable to perform the contract within the period for perform
 
 (3) The rights of the sender to the goods are extinguished.
 
-(4)[^key-e168dcf1442ea094f9030f7236623720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e168dcf1442ea094f9030f7236623720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e168dcf1442ea094f9030f7236623720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e168dcf1442ea094f9030f7236623720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this regulation—
 
@@ -424,15 +424,15 @@ Where a supplier is unable to perform the contract within the period for perform
   - (c) any person who delivers the goods; and
 - “unsolicited” means, in relation to goods sent or services supplied to any person, that they are sent or supplied without any prior request made by or on behalf of the recipient.
 
-(7)[^key-f25264d6446241bb6a46b6ea7caf78c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f25264d6446241bb6a46b6ea7caf78c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f25264d6446241bb6a46b6ea7caf78c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f25264d6446241bb6a46b6ea7caf78c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-88d6b2ad9fab4a09054a24a34adb8a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-88d6b2ad9fab4a09054a24a34adb8a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) This regulation applies only to goods sent and services supplied after the date on which it comes into force.
 
-## 25. No contracting-out[^key-690076cbc14aa269d51e28cf8b878c10]
+## 25. No contracting-out[^c-690076cbc14aa269d51e28cf8b878c10]
 
 (1) A term contained in any contract to which these Regulations apply is void if, and to the extent that, it is inconsistent with a provision for the protection of the consumer contained in these Regulations.
 
@@ -444,55 +444,55 @@ Where a supplier is unable to perform the contract within the period for perform
 
 (5) These Regulations shall apply notwithstanding any contract term which applies or purports to apply the law of a non-Member State if the contract has a close connection with the territory of a Member State.
 
-## 26. Consideration of complaints[^key-48f6f37c3066eebd809836632d75c9a6]
+## 26. Consideration of complaints[^c-48f6f37c3066eebd809836632d75c9a6]
 
 (1) It shall be the duty of an enforcement authority to consider any complaint made to it about a breach unless—
 
-- (a) the complaint appears to the authority to be frivolous or vexatious; [^key-7d62f4895510b138d347df935838b91e]...
-- (b) another enforcement authority has notified the CMA[^key-bebca760b9699c8b0500d72a4a6a481f] that it agrees to consider the complaint; or[^key-79cc91cfd8173ea5a0a52752a29f5592]
-- (c) the CMA[^key-602f1d66af3b50605ea6908752fc028b] has agreed to consider the complaint.
+- (a) the complaint appears to the authority to be frivolous or vexatious; [^c-7d62f4895510b138d347df935838b91e]...
+- (b) another enforcement authority has notified the CMA[^c-bebca760b9699c8b0500d72a4a6a481f] that it agrees to consider the complaint; or[^c-79cc91cfd8173ea5a0a52752a29f5592]
+- (c) the CMA[^c-602f1d66af3b50605ea6908752fc028b] has agreed to consider the complaint.
 
-(2) If an enforcement authority notifies the CMA[^key-be52fb992c7f57643a965fc139dca2c1] that it agrees to consider a complaint made to another enforcement authority, the first mentioned authority shall be under a duty to consider the complaint.
+(2) If an enforcement authority notifies the CMA[^c-be52fb992c7f57643a965fc139dca2c1] that it agrees to consider a complaint made to another enforcement authority, the first mentioned authority shall be under a duty to consider the complaint.
 
 (3) An enforcement authority which is under a duty to consider a complaint shall give reasons for its decision to apply or not to apply, as the case may be, for an injunction under regulation 27.
 
 (4) In deciding whether or not to apply for an injunction in respect of a breach an enforcement authority may, if it considers it appropriate to do so, have regard to any undertaking given to it or another enforcement authority by or on behalf of any person as to compliance with these Regulations.
 
-## 26A. Complaints – consideration by the CMA[^key-3de443aca224513fd2e18d7d5b5ac8a9][^key-d358404f12f6bdf58198a23acf77a63e]
+## 26A. Complaints – consideration by the CMA[^c-3de443aca224513fd2e18d7d5b5ac8a9][^c-d358404f12f6bdf58198a23acf77a63e]
 
-(1) If the CMA[^key-0a23de0f1d57d2bf27461f74e3910435] agrees to consider a complaint made to it about a breach it shall be under a duty to consider that complaint.
+(1) If the CMA[^c-0a23de0f1d57d2bf27461f74e3910435] agrees to consider a complaint made to it about a breach it shall be under a duty to consider that complaint.
 
 (2) Paragraphs (3) and (4) of regulation 26 shall apply to the CMA when it is under a duty to consider a complaint as they apply to an enforcement authority.
 
-## 27. Injunctions to secure compliance with these Regulations[^key-8913af19f38c5c2f0ee25cd749cc49bb]
+## 27. Injunctions to secure compliance with these Regulations[^c-8913af19f38c5c2f0ee25cd749cc49bb]
 
-(1) The CMA[^key-1abaa16ca63f6f8f24744c70fef57f5f] or, subject to paragraph (2), an[^key-e7ef8623e4ad8a1c524c9969b3c050a3] enforcement authority may apply for an injunction (including an interim injunction) against any person who appears to the CMA or that authority to be responsible for a breach.
+(1) The CMA[^c-1abaa16ca63f6f8f24744c70fef57f5f] or, subject to paragraph (2), an[^c-e7ef8623e4ad8a1c524c9969b3c050a3] enforcement authority may apply for an injunction (including an interim injunction) against any person who appears to the CMA or that authority to be responsible for a breach.
 
-(2) An enforcement authority [^key-06913bbffe3dde53ba3051d7eede5102]... may apply for an injunction only where—
+(2) An enforcement authority [^c-06913bbffe3dde53ba3051d7eede5102]... may apply for an injunction only where—
 
 - (a) it has notified the CMA of its intention to apply at least fourteen days before the date on which the application is to be made, beginning with the date on which the notification was given; or
 - (b) the CMA consents to the application being made within a shorter period.
 
 (3) The court on an application under this regulation may grant an injunction on such terms as it thinks fit to secure compliance with these Regulations.
 
-## 28. Notification of undertakings and orders to the CMA[^key-44f5f657710db0daa8e11df6d27e2e48][^key-4c0f56b910decd35f8bae2cc3e1e9f02]
+## 28. Notification of undertakings and orders to the CMA[^c-44f5f657710db0daa8e11df6d27e2e48][^c-4c0f56b910decd35f8bae2cc3e1e9f02]
 
-An enforcement authority [^key-533dbe7b3d0b5fadd7ff941d13e5440e]... shall notify the CMA[^key-1b398874e24a60fb5da6f972e58edfea]—
+An enforcement authority [^c-533dbe7b3d0b5fadd7ff941d13e5440e]... shall notify the CMA[^c-1b398874e24a60fb5da6f972e58edfea]—
 
 - (a) of any undertaking given to it by or on behalf of any person who appears to it to be responsible for a breach;
 - (b) of the outcome of any application made by it under regulation 27 and of the terms of any undertaking given to or order made by the court;
 - (c) of the outcome of any application made by it to enforce a previous order of the court.
 
-## 29. Publication, information and advice[^key-986afe8ea3901e95fcce41dca34f0478]
+## 29. Publication, information and advice[^c-986afe8ea3901e95fcce41dca34f0478]
 
-(1) The CMA[^key-929f34c8cfd5e276fe2831f2eedca07f] shall arrange for the publication in such form and manner as it[^key-eacc6d9098373923546ab268a6e3e2c5] considers appropriate of—
+(1) The CMA[^c-929f34c8cfd5e276fe2831f2eedca07f] shall arrange for the publication in such form and manner as it[^c-eacc6d9098373923546ab268a6e3e2c5] considers appropriate of—
 
 - (a) details of any undertaking or order notified to him under regulation 28;
 - (b) details of any undertaking given to him by or on behalf of any person as to compliance with these Regulations;
 - (c) details of any application made by him under regulation 27, and of the terms of any undertaking given to, or order made by, the court;
 - (d) details of any application made by the CMA to enforce a previous order of the court.
 
-(2) The CMA or an enforcement authority[^key-3dea0db4ea7e5cad8d2ddbd4e04daa01] may arrange for the dissemination in such form and manner as it considers appropriate of such information and advice concerning the operation of these Regulations as it may appear to him to be expedient to give to the public and to all persons likely to be affected by these Regulations.
+(2) The CMA or an enforcement authority[^c-3dea0db4ea7e5cad8d2ddbd4e04daa01] may arrange for the dissemination in such form and manner as it considers appropriate of such information and advice concerning the operation of these Regulations as it may appear to him to be expedient to give to the public and to all persons likely to be affected by these Regulations.
 
 Helen Liddell
 
@@ -502,7 +502,7 @@ Department of Trade and Industry
 
 31st August 2000
 
-## SCHEDULE 1 — Indicative list of means of distance communication[^key-86bdae36c6d8c508f2625addcf78aac0]
+## SCHEDULE 1 — Indicative list of means of distance communication[^c-86bdae36c6d8c508f2625addcf78aac0]
 
 **Regulation 3**
 
@@ -532,19 +532,19 @@ Department of Trade and Industry
 
 **13.** Television (teleshopping).
 
-## SCHEDULE 2 — Non-exhaustive list of financial services[^key-a26363c1ccea2c04e00b3c80cdbf3657]
+## SCHEDULE 2 — Non-exhaustive list of financial services[^c-a26363c1ccea2c04e00b3c80cdbf3657]
 
 **No longer in force.**
 
 **Regulation 5(1)(c)**
 
-**1.**[^key-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a26363c1ccea2c04e00b3c80cdbf3657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations)
 
@@ -592,35 +592,35 @@ A Regulatory Impact Assessment is available, copies of which have been placed in
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-cfb59aef8d4cd30ba45f1ff403880274]: Modification: Regulations excluded (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+[^c-cfb59aef8d4cd30ba45f1ff403880274]: Modification: Regulations excluded (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
 
-[^key-652e7c6610f42aa5a698f8e02232b2e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-652e7c6610f42aa5a698f8e02232b2e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-83c5b689437b99f5789fe812466a92f8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2334/regulation/2) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-83c5b689437b99f5789fe812466a92f8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2334/regulation/2) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1976/1812](https://www.legislation.gov.uk/uksi/1976/1812).
 
-[^key-9ce3c8207f79b15dc2d2773c5667c670]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-9ce3c8207f79b15dc2d2773c5667c670]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-b884ad0055a92b2edce8f94c45dcfd76]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/2/a)
+[^c-b884ad0055a92b2edce8f94c45dcfd76]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/2/a)
 
-[^key-73d7e64654473156bf9cb70f750080de]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-73d7e64654473156bf9cb70f750080de]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-c0caa12eb2a3c581e35c845b15e1c32e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-c0caa12eb2a3c581e35c845b15e1c32e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
 [^f00004]: Footnote: Directive [97/7/EC](https://www.legislation.gov.uk/european/directive/1997/0007) was added to Annex XIX to the EEA Agreement by Decision No. 15/98 of the EEA joint Committee which came into force on 1 July 2000 (O.J. No L272, 8.10.98, p.99).
 
-[^key-105ce6a780eb6e9a8a5ad687b373bcec]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2013/783/article/11/2)
+[^c-105ce6a780eb6e9a8a5ad687b373bcec]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2013/783/article/11/2)
 
-[^key-e2e8914db18d83c761f6fec739a7e26d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/2/b)
+[^c-e2e8914db18d83c761f6fec739a7e26d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/2/b)
 
-[^key-bc73c9c1d823feb0bb355217b529d10c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(2)(c)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/2/c)
+[^c-bc73c9c1d823feb0bb355217b529d10c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/3/1) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(2)(c)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/2/c)
 
-[^key-683752ef388883135639548c8b6d7a76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2334/regulation/4) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-683752ef388883135639548c8b6d7a76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2334/regulation/4) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-01fe9c4a209c8862e07d090f323ec2d4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/2334/regulation/5) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-01fe9c4a209c8862e07d090f323ec2d4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/2334/regulation/5) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-3a27bb5d28c8ee9bab498b324705c159]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/5/1/c) omitted (31.10.2004) by virtue of [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(3)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/3)
+[^c-3a27bb5d28c8ee9bab498b324705c159]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/5/1/c) omitted (31.10.2004) by virtue of [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(3)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/3)
 
 [^f00005]: Footnote: [1989 c. 34](https://www.legislation.gov.uk/ukpga/1989/34).
 
@@ -628,126 +628,126 @@ A Regulatory Impact Assessment is available, copies of which have been placed in
 
 [^f00007]: Footnote: [1695 c. 12](https://www.legislation.gov.uk/aep/1695/12)(1).
 
-[^key-c7216676c3427e9a58cfb523ec4cdc30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/2334/regulation/6) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-c7216676c3427e9a58cfb523ec4cdc30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/2334/regulation/6) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-b407f8c0900946822e37f2283c19cbb7]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/6/1) substituted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/6) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
+[^c-b407f8c0900946822e37f2283c19cbb7]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/6/1) substituted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/6) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
 
 [^f00009]: Footnote: S.I. [1992/3288](https://www.legislation.gov.uk/uksi/1992/3288).
 
-[^key-9a5e94f532013edbfcb6747680faa424]: Textual amendment: Reg. 6(4)(5) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(4)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/4)
+[^c-9a5e94f532013edbfcb6747680faa424]: Textual amendment: Reg. 6(4)(5) inserted (31.10.2004) by [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(4)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/4)
 
-[^key-dc49fff5b881bc0fce0763f38d2d6d9a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/2334/regulation/7) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-dc49fff5b881bc0fce0763f38d2d6d9a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/2334/regulation/7) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-de6615ffbb2aedbe00eef40a1ee5902e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2000/2334/regulation/8) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-de6615ffbb2aedbe00eef40a1ee5902e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2000/2334/regulation/8) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-baab7888dd93ca6bac53718c58ef7e8c]: Textual amendment: Word in reg. 8(2)(b)(i) omitted (6.4.2005) by virtue of [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/1/2/a)
+[^c-baab7888dd93ca6bac53718c58ef7e8c]: Textual amendment: Word in reg. 8(2)(b)(i) omitted (6.4.2005) by virtue of [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/1/2/a)
 
-[^key-e36764dd6d034bcd9a26b92c5eff7e2d]: Textual amendment: Reg. 8(2)(b)(iii) inserted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/1/2/b)
+[^c-e36764dd6d034bcd9a26b92c5eff7e2d]: Textual amendment: Reg. 8(2)(b)(iii) inserted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/1/2/b)
 
-[^key-b7f1066343a0e0ca24c046204970517f]: Textual amendment: Reg. 8(3) omitted (6.4.2005) by virtue of [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/1/3)
+[^c-b7f1066343a0e0ca24c046204970517f]: Textual amendment: Reg. 8(3) omitted (6.4.2005) by virtue of [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/1/3)
 
-[^key-a0ac5433484a234971172f234551f298]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2000/2334/regulation/9) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-a0ac5433484a234971172f234551f298]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2000/2334/regulation/9) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-cdecd4bf7a1cf604a5f2ec700150fb84]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/2334/regulation/10) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-cdecd4bf7a1cf604a5f2ec700150fb84]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/2334/regulation/10) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-042f66dde87d30a613cefd1a183ed14f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/2334/regulation/11) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-042f66dde87d30a613cefd1a183ed14f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/2334/regulation/11) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-541b9da9e57378f7fe60a352be37ab6c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-541b9da9e57378f7fe60a352be37ab6c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-2ec5f04852b90f7152e6774429d86649]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12/3) inserted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/2/a)
+[^c-2ec5f04852b90f7152e6774429d86649]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12/3) inserted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/2/a)
 
-[^key-ec3752b664808f3485404814f1558f9b]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12/3) omitted (6.4.2005) by virtue of [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/2/b)
+[^c-ec3752b664808f3485404814f1558f9b]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12/3) omitted (6.4.2005) by virtue of [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/2/b)
 
-[^key-42d2773be0d38c799753c430bf6ca327]: Textual amendment: Reg. 12(3A) inserted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/3)
+[^c-42d2773be0d38c799753c430bf6ca327]: Textual amendment: Reg. 12(3A) inserted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/3)
 
-[^key-c83511d2f44cbe7c66fb91c49fb4b462]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12/4) substituted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/4)
+[^c-c83511d2f44cbe7c66fb91c49fb4b462]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/12/4) substituted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/2/4)
 
-[^key-d52046bf3f7bf0013a08da7d53f09fec]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/2334/regulation/13) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-d52046bf3f7bf0013a08da7d53f09fec]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/2334/regulation/13) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-3de11c37df8a55a5dc196c81d6d99fbf]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/13/1/a) substituted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/3/2)
+[^c-3de11c37df8a55a5dc196c81d6d99fbf]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/13/1/a) substituted (6.4.2005) by [The Consumer Protection (Distance Selling)(Amendment) Regulations 2005 (S.I. 2005/689)](https://www.legislation.gov.uk/uksi/2005/689), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/689/regulation/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2005/689/schedule/paragraph/3/2)
 
-[^key-59d0d59fc44d394e56ac18048b0735ed]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2000/2334/regulation/14) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-59d0d59fc44d394e56ac18048b0735ed]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2000/2334/regulation/14) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
 [^f00010]: Footnote: S.I. [1999/2083](https://www.legislation.gov.uk/uksi/1999/2083).
 
-[^key-f3a442887d4e97b51abd6dfed7b320b7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2000/2334/regulation/15) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-f3a442887d4e97b51abd6dfed7b320b7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2000/2334/regulation/15) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
 [^f00011]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-47c17b6b6b9007e649f501d4b5f219cc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2000/2334/regulation/16) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-47c17b6b6b9007e649f501d4b5f219cc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2000/2334/regulation/16) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-aa1f2abb1d7ef70b3503c5ba69c4bc21]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2000/2334/regulation/17) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-aa1f2abb1d7ef70b3503c5ba69c4bc21]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2000/2334/regulation/17) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-97d7f3e7d96c66d5b55658f28661eca8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2000/2334/regulation/18) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-97d7f3e7d96c66d5b55658f28661eca8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2000/2334/regulation/18) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-07f15f62eb3b9431786b22527849f0e3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2000/2334/regulation/19) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-07f15f62eb3b9431786b22527849f0e3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2000/2334/regulation/19) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-3b1579aec55bd48df93723219ab27a9c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2000/2334/regulation/20) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-3b1579aec55bd48df93723219ab27a9c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2000/2334/regulation/20) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-544b5d4deba6dcc771358a44181886e9]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2000/2334/regulation/21) revoked (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2009/209/schedule/6/paragraph/3)
+[^c-544b5d4deba6dcc771358a44181886e9]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2000/2334/regulation/21) revoked (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2009/209/schedule/6/paragraph/3)
 
-[^key-fed06b5efe0d92ba3099c1ea3e036a8d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2000/2334/regulation/21) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-fed06b5efe0d92ba3099c1ea3e036a8d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2000/2334/regulation/21) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-a0ae813077d399049de29849e4115458]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2000/2334/regulation/22) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-a0ae813077d399049de29849e4115458]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2000/2334/regulation/22) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
 [^f00012]: Footnote: [1971 c. 30](https://www.legislation.gov.uk/ukpga/1971/30).
 
-[^key-3fc404b0d504683165434f7515640430]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2000/2334/regulation/23) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-3fc404b0d504683165434f7515640430]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2000/2334/regulation/23) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
 [^f00013]: Footnote: S.I. [1976/57 (N.I.1)](https://www.legislation.gov.uk/nisi/1976/57).
 
-[^key-ac0a3fcba8ca0ced3ced9cebd041aacb]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2000/2334/regulation/24) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-ac0a3fcba8ca0ced3ced9cebd041aacb]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2000/2334/regulation/24) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-e168dcf1442ea094f9030f7236623720]: Textual amendment: Reg. 24(4)(5) revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/96), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-e168dcf1442ea094f9030f7236623720]: Textual amendment: Reg. 24(4)(5) revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/96), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-f25264d6446241bb6a46b6ea7caf78c1]: Textual amendment: Reg. 24(7)(8)(9) revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/96), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-f25264d6446241bb6a46b6ea7caf78c1]: Textual amendment: Reg. 24(7)(8)(9) revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/96), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-88d6b2ad9fab4a09054a24a34adb8a77]: Textual amendment: [Reg. 24(9)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/24/9) revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/96), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-88d6b2ad9fab4a09054a24a34adb8a77]: Textual amendment: [Reg. 24(9)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/24/9) revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/96), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-690076cbc14aa269d51e28cf8b878c10]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2000/2334/regulation/25) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-690076cbc14aa269d51e28cf8b878c10]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2000/2334/regulation/25) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-48f6f37c3066eebd809836632d75c9a6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-48f6f37c3066eebd809836632d75c9a6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-7d62f4895510b138d347df935838b91e]: Textual amendment: Word in reg. 26(1)(a) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2013/783/article/11/3/a)
+[^c-7d62f4895510b138d347df935838b91e]: Textual amendment: Word in reg. 26(1)(a) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2013/783/article/11/3/a)
 
-[^key-bebca760b9699c8b0500d72a4a6a481f]: Textual amendment: Word in [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26/1/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-bebca760b9699c8b0500d72a4a6a481f]: Textual amendment: Word in [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26/1/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-79cc91cfd8173ea5a0a52752a29f5592]: Textual amendment: Reg. 26(1)(c) and word inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2013/783/article/11/3/b)
+[^c-79cc91cfd8173ea5a0a52752a29f5592]: Textual amendment: Reg. 26(1)(c) and word inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2013/783/article/11/3/b)
 
-[^key-602f1d66af3b50605ea6908752fc028b]: Textual amendment: Word in [reg. 26(1)(c)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26/1/c) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-602f1d66af3b50605ea6908752fc028b]: Textual amendment: Word in [reg. 26(1)(c)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26/1/c) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-be52fb992c7f57643a965fc139dca2c1]: Textual amendment: Word in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-be52fb992c7f57643a965fc139dca2c1]: Textual amendment: Word in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-3de443aca224513fd2e18d7d5b5ac8a9]: Textual amendment: Reg. 26A inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2013/783/article/11/4)
+[^c-3de443aca224513fd2e18d7d5b5ac8a9]: Textual amendment: Reg. 26A inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2013/783/article/11/4)
 
-[^key-d358404f12f6bdf58198a23acf77a63e]: Textual amendment: Word in [reg. 26A](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26A) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-d358404f12f6bdf58198a23acf77a63e]: Textual amendment: Word in [reg. 26A](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26A) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-0a23de0f1d57d2bf27461f74e3910435]: Textual amendment: Word in [reg. 26A](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26A) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-0a23de0f1d57d2bf27461f74e3910435]: Textual amendment: Word in [reg. 26A](https://www.legislation.gov.uk/uksi/2000/2334/regulation/26A) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-8913af19f38c5c2f0ee25cd749cc49bb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-8913af19f38c5c2f0ee25cd749cc49bb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-1abaa16ca63f6f8f24744c70fef57f5f]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(5)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-1abaa16ca63f6f8f24744c70fef57f5f]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(5)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-e7ef8623e4ad8a1c524c9969b3c050a3]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27/1) substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2013/783/article/11/5/a)
+[^c-e7ef8623e4ad8a1c524c9969b3c050a3]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27/1) substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2013/783/article/11/5/a)
 
-[^key-06913bbffe3dde53ba3051d7eede5102]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27/2) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2013/783/article/11/5/b)
+[^c-06913bbffe3dde53ba3051d7eede5102]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/27/2) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2013/783/article/11/5/b)
 
-[^key-44f5f657710db0daa8e11df6d27e2e48]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-44f5f657710db0daa8e11df6d27e2e48]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-4c0f56b910decd35f8bae2cc3e1e9f02]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(6)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-4c0f56b910decd35f8bae2cc3e1e9f02]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(6)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-533dbe7b3d0b5fadd7ff941d13e5440e]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2013/783/article/11/6)
+[^c-533dbe7b3d0b5fadd7ff941d13e5440e]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) omitted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2013/783/article/11/6)
 
-[^key-1b398874e24a60fb5da6f972e58edfea]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(6)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-1b398874e24a60fb5da6f972e58edfea]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2000/2334/regulation/28) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(6)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-986afe8ea3901e95fcce41dca34f0478]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-986afe8ea3901e95fcce41dca34f0478]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29) in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-929f34c8cfd5e276fe2831f2eedca07f]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(7)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-929f34c8cfd5e276fe2831f2eedca07f]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(7)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-eacc6d9098373923546ab268a6e3e2c5]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(7)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-eacc6d9098373923546ab268a6e3e2c5]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 28(7)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/28/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-3dea0db4ea7e5cad8d2ddbd4e04daa01]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29/2) inserted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2013/783/article/11/7)
+[^c-3dea0db4ea7e5cad8d2ddbd4e04daa01]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/29/2) inserted (28.3.2013) by virtue of [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2013/783/article/11/7)
 
-[^key-86bdae36c6d8c508f2625addcf78aac0]: Commencement: Sch. 1 in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
+[^c-86bdae36c6d8c508f2625addcf78aac0]: Commencement: Sch. 1 in force at 31.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/1/1)
 
-[^key-a26363c1ccea2c04e00b3c80cdbf3657]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2334/schedule/2) omitted (31.10.2004) by virtue of [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(5)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/5)
+[^c-a26363c1ccea2c04e00b3c80cdbf3657]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2334/schedule/2) omitted (31.10.2004) by virtue of [The Financial Services (Distance Marketing) Regulations 2004 (S.I. 2004/2095)](https://www.legislation.gov.uk/uksi/2004/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2095/regulation/1), [25(5)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/25/5)

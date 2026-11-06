@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Medium-sized LLPs[^key-7fd0137d0ada7ce7b82995f895198a06]
+## 17. Medium-sized LLPs[^c-7fd0137d0ada7ce7b82995f895198a06]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fd0137d0ada7ce7b82995f895198a06]: Commencement: Reg. 17 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-7fd0137d0ada7ce7b82995f895198a06]: Commencement: Reg. 17 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

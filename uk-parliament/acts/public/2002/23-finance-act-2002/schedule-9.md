@@ -196,28 +196,28 @@ After Schedule 5A to the Taxation of Chargeable Gains Act 1992 insert—
 
 (2) In section 299 (disposal of shares)—
 
-- (a)[^key-35e83ea550d89c432a0f44da4d0eef1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-35e83ea550d89c432a0f44da4d0eef1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (4C), as that section applies to shares issued before 1st January 1994 (business expansion scheme),
 
 for “(whether or not by virtue of section 135(3) of that Act)" substitute “ (including a case where that section applies by virtue of any enactment relating to chargeable gains) ”, and for the words from “shall be construed" to the end substitute “ have the same meaning as in section 127 of the 1992 Act (or, as the case may be, that section as applied by virtue of the enactment concerned) ”.
 
-(3)[^key-1ba0e8236faa16af610a58ce14d421aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1ba0e8236faa16af610a58ce14d421aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5d43d9e7ccaa5dfebd81ccc4b889e1f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5d43d9e7ccaa5dfebd81ccc4b889e1f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-27b6f254e9c6534215e666c9bf64ff2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-27b6f254e9c6534215e666c9bf64ff2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-27b6f254e9c6534215e666c9bf64ff2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-27b6f254e9c6534215e666c9bf64ff2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-feffb3a8dddedb22b31709b2603e4b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-feffb3a8dddedb22b31709b2603e4b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 5. Taxation of Chargeable Gains Act 1992
 
 (1) The Taxation of Chargeable Gains Act 1992 (c. 12) is amended as follows.
 
-(2)[^key-9c82855cb0768176678fd4fd563f187d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9c82855cb0768176678fd4fd563f187d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9c82855cb0768176678fd4fd563f187d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9c82855cb0768176678fd4fd563f187d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 102 (collective investment schemes with property divided into separate parts), in subsection (3)(b) after “135" insert “ or 136 ”.
 
@@ -247,7 +247,7 @@ for “(whether or not by virtue of section 135(3) of that Act)" substitute “ 
 
 (10) In section 171(3) (transfers within a group) for “by virtue of sections 127 and 135" substitute “ by section 127 as it applies by virtue of section 135 ”.
 
-(11)[^key-a46e53205ce6bb712b3e8d0c54b68e76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-a46e53205ce6bb712b3e8d0c54b68e76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In section 251 (debts: general provisions)—
 
@@ -257,7 +257,7 @@ for “(whether or not by virtue of section 135(3) of that Act)" substitute “ 
   - (ii) for “either section 132 or 135" substitute “ section 132, 135 or 136 ”;
 - (c) in subsection (6)(b) for the words from “unaffected" to the end substitute “ to which section 135 applies and which is unaffected by section 137(1) ”.
 
-(13)[^key-e81999f05982cbc9c35f6214229d3105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-e81999f05982cbc9c35f6214229d3105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) In Schedule 6 (retirement relief: supplementary provisions), in paragraph 2(2) for “section 135(3)" substitute “ section 135 or 136 ”.
 
@@ -291,30 +291,30 @@ for “(whether or not by virtue of section 135(3) of that Act)" substitute “ 
 
 (1) Paragraph 4(2), (3) and (5) and paragraph 6(2), (4) and (5) have effect in relation to disposals on or after the commencement date.
 
-(2)[^key-a552799079dda1a0761be2306e4600e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a552799079dda1a0761be2306e4600e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Paragraph 4(6) has effect in relation to events occurring on or after the commencement date.
 
-(4)[^key-b4eb0d842b4327738d36c7de33e2e379] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b4eb0d842b4327738d36c7de33e2e379] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35e83ea550d89c432a0f44da4d0eef1b]: Textual amendment: Sch. 9 para. 4(2)(a) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-35e83ea550d89c432a0f44da4d0eef1b]: Textual amendment: Sch. 9 para. 4(2)(a) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-1ba0e8236faa16af610a58ce14d421aa]: Textual amendment: Sch. 9 para. 4(3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-1ba0e8236faa16af610a58ce14d421aa]: Textual amendment: Sch. 9 para. 4(3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-5d43d9e7ccaa5dfebd81ccc4b889e1f3]: Textual amendment: Sch. 9 para. 4(4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5d43d9e7ccaa5dfebd81ccc4b889e1f3]: Textual amendment: Sch. 9 para. 4(4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-27b6f254e9c6534215e666c9bf64ff2a]: Textual amendment: Sch. 9 para. 4(5)(6) repealed (with effect in accordance with reg. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
+[^c-27b6f254e9c6534215e666c9bf64ff2a]: Textual amendment: Sch. 9 para. 4(5)(6) repealed (with effect in accordance with reg. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
 
-[^key-feffb3a8dddedb22b31709b2603e4b5f]: Textual amendment: [Sch. 9 para. 4(7)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/4/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-feffb3a8dddedb22b31709b2603e4b5f]: Textual amendment: [Sch. 9 para. 4(7)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/4/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-9c82855cb0768176678fd4fd563f187d]: Textual amendment: [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/5/3) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/d)
+[^c-9c82855cb0768176678fd4fd563f187d]: Textual amendment: [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/5/3) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/d)
 
-[^key-a46e53205ce6bb712b3e8d0c54b68e76]: Textual amendment: Sch. 9 para. 5(11) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
+[^c-a46e53205ce6bb712b3e8d0c54b68e76]: Textual amendment: Sch. 9 para. 5(11) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
 
-[^key-e81999f05982cbc9c35f6214229d3105]: Textual amendment: Sch. 9 para. 5(13) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/ii)
+[^c-e81999f05982cbc9c35f6214229d3105]: Textual amendment: Sch. 9 para. 5(13) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/ii)
 
-[^key-a552799079dda1a0761be2306e4600e1]: Textual amendment: Sch. 9 para. 8(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a552799079dda1a0761be2306e4600e1]: Textual amendment: Sch. 9 para. 8(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b4eb0d842b4327738d36c7de33e2e379]: Textual amendment: [Sch. 9 para. 8(4)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/8/4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b4eb0d842b4327738d36c7de33e2e379]: Textual amendment: [Sch. 9 para. 8(4)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/8/4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Procedure rules[^key-41c72c7140af76402c6144bd52c9904b]
+## 97. Procedure rules[^c-41c72c7140af76402c6144bd52c9904b]
 
 *Extent: E+W+S*
 
-(1) The Lord Chancellor or (if subsection (2) applies) the Secretary of State[^key-30cf153514c78fe6523a3f35fcffb85e]... may make rules regulating the procedure to be followed in connection with the Examining authority's examination of the application.
+(1) The Lord Chancellor or (if subsection (2) applies) the Secretary of State[^c-30cf153514c78fe6523a3f35fcffb85e]... may make rules regulating the procedure to be followed in connection with the Examining authority's examination of the application.
 
 (2) This subsection applies if the development to which the application relates (or part of the development) is the construction (other than by a gas transporter) of an oil or gas cross-country pipe-line—
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) Power under this section to make rules includes power to make different provision for different purposes.
 
-(5A)[^key-3a459d360fbbcaccb9396238509722a5] Power under this section to make rules includes power to make transitional provision.
+(5A)[^c-3a459d360fbbcaccb9396238509722a5] Power under this section to make rules includes power to make transitional provision.
 
 (6) Power under this section to make rules is exercisable by statutory instrument.
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-41c72c7140af76402c6144bd52c9904b]: Commencement: S. 97 in force at 1.3.2010 in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-41c72c7140af76402c6144bd52c9904b]: Commencement: S. 97 in force at 1.3.2010 in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-30cf153514c78fe6523a3f35fcffb85e]: Textual amendment: Words in s. 97(1) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/40/b)
+[^c-30cf153514c78fe6523a3f35fcffb85e]: Textual amendment: Words in s. 97(1) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/40/b)
 
-[^key-3a459d360fbbcaccb9396238509722a5]: Textual amendment: S. 97(5A) inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/9/2), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/f)
+[^c-3a459d360fbbcaccb9396238509722a5]: Textual amendment: S. 97(5A) inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/9/2), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/f)

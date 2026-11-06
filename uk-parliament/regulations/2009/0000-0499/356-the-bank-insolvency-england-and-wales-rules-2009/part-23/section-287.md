@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 287. Notice to joint bank liquidators[^key-07375149f16dfadb8adcca26c8f9984e]
+## 287. Notice to joint bank liquidators[^c-07375149f16dfadb8adcca26c8f9984e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where 2 or more persons are acting jointly as the bank liquidator, delivery of a
 
 ## Annotations
 
-[^key-07375149f16dfadb8adcca26c8f9984e]: Commencement: Rule 287 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-07375149f16dfadb8adcca26c8f9984e]: Commencement: Rule 287 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

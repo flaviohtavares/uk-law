@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 47A and 138(7) of the School Standards and Framework Act 1998 [^c24102791], makes the following Regulations.
 
-## 1. Citation and commencement[^key-2d43e2ac84cc9e535996061c25198cf7][^key-8e33412cee579c1b3d1e23d05610592b]
+## 1. Citation and commencement[^c-2d43e2ac84cc9e535996061c25198cf7][^c-8e33412cee579c1b3d1e23d05610592b]
 
 (1) These Regulations may be cited as the Schools Forums (England) (Coronavirus) (Amendment) Regulations 2020.
 
-(2) They come into force on 18th June 2020 [^key-6266ef179cda020507c086c9e16cc51b]....
+(2) They come into force on 18th June 2020 [^c-6266ef179cda020507c086c9e16cc51b]....
 
-## 2. Amendment to the Schools Forums (England) Regulations 2012[^key-23f9850eea30c0240444db3e180ffcba][^key-8ec5402eda9834ffcfef931db7c12a2e]
+## 2. Amendment to the Schools Forums (England) Regulations 2012[^c-23f9850eea30c0240444db3e180ffcba][^c-8ec5402eda9834ffcfef931db7c12a2e]
 
 (1) The Schools Forums (England) Regulations 2012 [^c24102801] are amended as follows.
 
@@ -103,14 +103,14 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^c24102791]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31)
 
-[^key-2d43e2ac84cc9e535996061c25198cf7]: Commencement: Reg. 1 in force at 18.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2)
+[^c-2d43e2ac84cc9e535996061c25198cf7]: Commencement: Reg. 1 in force at 18.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2)
 
-[^key-8e33412cee579c1b3d1e23d05610592b]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2020/540/regulation/1) heading substituted (11.2.2021 with application in relation to the financial year beginning on 1.4.2021) by [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/2), [35(2)(a)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/a)
+[^c-8e33412cee579c1b3d1e23d05610592b]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2020/540/regulation/1) heading substituted (11.2.2021 with application in relation to the financial year beginning on 1.4.2021) by [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/2), [35(2)(a)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/a)
 
-[^key-6266ef179cda020507c086c9e16cc51b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2) omitted (11.2.2021 with application in relation to the financial year beginning on 1.4.2021) by virtue of [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/2), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b)
+[^c-6266ef179cda020507c086c9e16cc51b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2) omitted (11.2.2021 with application in relation to the financial year beginning on 1.4.2021) by virtue of [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/2), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b)
 
-[^key-23f9850eea30c0240444db3e180ffcba]: Commencement: Reg. 2 in force at 18.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2)
+[^c-23f9850eea30c0240444db3e180ffcba]: Commencement: Reg. 2 in force at 18.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2)
 
-[^key-8ec5402eda9834ffcfef931db7c12a2e]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2020/540/regulation/2) heading substituted (11.2.2021 with application in relation to the financial year beginning on 1.4.2021) by [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/3)
+[^c-8ec5402eda9834ffcfef931db7c12a2e]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2020/540/regulation/2) heading substituted (11.2.2021 with application in relation to the financial year beginning on 1.4.2021) by [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2021/59/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/3)
 
 [^c24102801]: Marginal citation: [S.I. 2012/2261](https://www.legislation.gov.uk/uksi/2012/2261)

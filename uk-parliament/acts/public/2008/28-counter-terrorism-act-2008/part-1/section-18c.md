@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18C. Destruction of copies[^key-71f3b462a93540ab1a3652a57cdef4b8]
+## 18C. Destruction of copies[^c-71f3b462a93540ab1a3652a57cdef4b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71f3b462a93540ab1a3652a57cdef4b8]: Textual amendment: Ss. 18-18E substituted for s. 18 (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)
+[^c-71f3b462a93540ab1a3652a57cdef4b8]: Textual amendment: Ss. 18-18E substituted for s. 18 (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)

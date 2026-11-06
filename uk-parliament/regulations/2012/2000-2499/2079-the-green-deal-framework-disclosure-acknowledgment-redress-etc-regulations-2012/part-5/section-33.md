@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Improvement-specific instalments – exceptions to fixed amount[^key-b3bdc349e9d4a801a6e12409fc9cb555]
+## 33. Improvement-specific instalments – exceptions to fixed amount[^c-b3bdc349e9d4a801a6e12409fc9cb555]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The energy plan must not provide for the amount of improvement-specific instalme
 
 ## Annotations
 
-[^key-b3bdc349e9d4a801a6e12409fc9cb555]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/2079/regulation/33) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-b3bdc349e9d4a801a6e12409fc9cb555]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/2079/regulation/33) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 95A. Information to be provided to rent officers[^key-7f1f3bb7b7b7246960e6773834d5360d]
+## 95A. Information to be provided to rent officers[^c-7f1f3bb7b7b7246960e6773834d5360d]
 
 (1) This paragraph applies to every claim for or award of housing benefit in the form of a rent allowance where the eligible rent has been, or is to be determined, in accordance with—
 
@@ -96,14 +96,14 @@ summary: ''
 - (e) when the tenancy began and, if appropriate, when it ended;
 - (h) the landlord’s or letting agent’s name;
 - (i) the landlord’s or letting agent’s business address;
-- (j) whether the landlord is a housing association , private registered provider of social housing[^key-5da70235a00664d3ee4d46272c656395] or registered social landlord; and
+- (j) whether the landlord is a housing association , private registered provider of social housing[^c-5da70235a00664d3ee4d46272c656395] or registered social landlord; and
 - (k) such other information as the rent officer may reasonably require to make a determination.
 
 (9) In relation to the claimant and the other occupiers of the dwelling to which the claim or award relates, the relevant authority shall provide the following information—
 
 - (a) such information regarding the relationship of the claimant to the occupiers and the occupiers to each other, as is necessary for the rent officer to make the determination;
 - (b) the age and sex of each occupier under 18;
-- (ba)[^key-ada987a75dba44747b60c9f5e57e81ac] whether any person mentioned in regulation 13D(3A)(a)[^key-df3e4eab874edefd9f0ecafff242e8a2] is a person who requires overnight care; and
+- (ba)[^c-ada987a75dba44747b60c9f5e57e81ac] whether any person mentioned in regulation 13D(3A)(a)[^c-df3e4eab874edefd9f0ecafff242e8a2] is a person who requires overnight care; and
 - (c) any other information that is relevant to the rent officer in making the determination, including visits to the dwelling.
 
 (10) Where a rent officer serves a notice under article 5 (insufficient information) of the Rent Officers Order the relevant authority shall supply the further information required under this regulation, or confirm whether information already supplied is correct and, if it is not, supply the correct information.
@@ -121,12 +121,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7f1f3bb7b7b7246960e6773834d5360d]: Textual amendment: Reg. 95A inserted (7.4.2008) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/3/2)
+[^c-7f1f3bb7b7b7246960e6773834d5360d]: Textual amendment: Reg. 95A inserted (7.4.2008) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/3/2)
 
 [^M_F_030c86e3-62a5-403d-e553-42325667ee97]: Textual amendment: Words substituted in reg. 95A(1)(b) (7.4.2008) by The Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008/586, regs. 1(2), 5(2)(b).
 
-[^key-5da70235a00664d3ee4d46272c656395]: Textual amendment: Words in reg. 95A(8)(j) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/59) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-5da70235a00664d3ee4d46272c656395]: Textual amendment: Words in reg. 95A(8)(j) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/59) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
-[^key-ada987a75dba44747b60c9f5e57e81ac]: Textual amendment: Reg. 95A(9)(ba) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/9)
+[^c-ada987a75dba44747b60c9f5e57e81ac]: Textual amendment: Reg. 95A(9)(ba) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/9)
 
-[^key-df3e4eab874edefd9f0ecafff242e8a2]: Textual amendment: Words in reg. 95A(9)(ba) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/213/regulation/5/4)
+[^c-df3e4eab874edefd9f0ecafff242e8a2]: Textual amendment: Words in reg. 95A(9)(ba) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/213/regulation/5/4)

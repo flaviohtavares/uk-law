@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107A. Power to provide for election of mayor[^key-9518dc89618b669f13bd5de1d131e90f]
+## 107A. Power to provide for election of mayor[^c-9518dc89618b669f13bd5de1d131e90f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9518dc89618b669f13bd5de1d131e90f]: Textual amendment: Ss. 107A, 107B and cross-heading inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/2/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-9518dc89618b669f13bd5de1d131e90f]: Textual amendment: Ss. 107A, 107B and cross-heading inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/2/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

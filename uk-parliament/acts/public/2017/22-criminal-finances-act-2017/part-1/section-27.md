@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Seized money: Northern Ireland[^key-936f3dcefd010505a85dfe015448721f][^c22725301]
+## 27. Seized money: Northern Ireland[^c-936f3dcefd010505a85dfe015448721f][^c22725301]
 
 *Extent: N.I.*
 
@@ -61,16 +61,16 @@ summary: ''
 > - (b) a person who—
 >   - (i) is specified, or is within a class of persons specified, by an order under section 38 of that Act (exemption orders), and
 >   - (ii) accepts deposits;
-> - (c)[^key-2f041e93cff2301afa6e896c18059b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-2f041e93cff2301afa6e896c18059b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (10) A reference in subsection (9) to a person [^key-82bc79cb695b94ebc0fe9cbfc7252836]... with permission to accept deposits does not include a person [^key-82bc79cb695b94ebc0fe9cbfc7252836]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
+> (10) A reference in subsection (9) to a person [^c-82bc79cb695b94ebc0fe9cbfc7252836]... with permission to accept deposits does not include a person [^c-82bc79cb695b94ebc0fe9cbfc7252836]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
 
 ## Annotations
 
-[^key-936f3dcefd010505a85dfe015448721f]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/22/section/27) in force at 28.6.2021 in so far as not already in force by [S.R. 2021/167](https://www.legislation.gov.uk/nisr/2021/167), [reg. 2(a)](https://www.legislation.gov.uk/nisr/2021/167/regulation/2/a)
+[^c-936f3dcefd010505a85dfe015448721f]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/22/section/27) in force at 28.6.2021 in so far as not already in force by [S.R. 2021/167](https://www.legislation.gov.uk/nisr/2021/167), [reg. 2(a)](https://www.legislation.gov.uk/nisr/2021/167/regulation/2/a)
 
 [^c22725301]: Commencement: S. 27 in force at Royal Assent for specified purposes, see s. 58
 
-[^key-2f041e93cff2301afa6e896c18059b24]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/ukpga/2017/22/section/27) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(4)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f041e93cff2301afa6e896c18059b24]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/ukpga/2017/22/section/27) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(4)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-82bc79cb695b94ebc0fe9cbfc7252836]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/ukpga/2017/22/section/27) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(4)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82bc79cb695b94ebc0fe9cbfc7252836]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/ukpga/2017/22/section/27) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(4)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

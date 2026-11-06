@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**15.**[^key-b7a68cc3c15d34e96eb3055003024e0a] In Part 30—
+**15.**[^c-b7a68cc3c15d34e96eb3055003024e0a] In Part 30—
 
 - (a) in the table of contents to this Part, in the entry for rule 30.2, for “between county courts and within” substitute “within the County Court and”;
 - (b) in rule 30.1, in paragraph (1), for “between county courts” substitute “within the County Court”;
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7a68cc3c15d34e96eb3055003024e0a]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2014/407/rule/15) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-b7a68cc3c15d34e96eb3055003024e0a]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2014/407/rule/15) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Prior permission of the court[^key-baa9251860283fc91acc5d6b818be043][^key-6a101523103c933d84300b69aa92f97d]
+## 42. Prior permission of the court[^c-baa9251860283fc91acc5d6b818be043][^c-6a101523103c933d84300b69aa92f97d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-baa9251860283fc91acc5d6b818be043]: Commencement: S. 42 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-baa9251860283fc91acc5d6b818be043]: Commencement: S. 42 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-6a101523103c933d84300b69aa92f97d]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/32/section/42) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-6a101523103c933d84300b69aa92f97d]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/32/section/42) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

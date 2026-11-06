@@ -37,7 +37,7 @@ An Act to dissolve the Sugar Board; to provide for increasing the amount which m
 
 ## Part I — Miscellaneous Provisions
 
-### 1. Dissolution of Sugar Board.[^key-3107b9d3069e7703017427fbb6ee3109]
+### 1. Dissolution of Sugar Board.[^c-3107b9d3069e7703017427fbb6ee3109]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -45,7 +45,7 @@ An Act to dissolve the Sugar Board; to provide for increasing the amount which m
 
 *Extent: E+W*
 
-### 3. Duties of Meat and Livestock Commission as regards consultation.[^key-86e52ef939a8ff8fe466e2e65ddf7050]
+### 3. Duties of Meat and Livestock Commission as regards consultation.[^c-86e52ef939a8ff8fe466e2e65ddf7050]
 
 *Extent: E+W+S*
 
@@ -59,7 +59,7 @@ An Act to dissolve the Sugar Board; to provide for increasing the amount which m
 
 - (a) devising, formulating and promoting proficiency tests in crafts related to agriculture in England and Wales, formulating standards for those tests, and revising those tests and standards from time to time;
 - (b) co-ordinating the activities of bodies carrying out such proficiency tests in England or Wales, and monitoring the methods and standards of such bodies in carrying out those tests; and
-- (c) making and maintaining arrangements for obtaining and evaluating data about the use and results of such proficiency tests in England and Wales [^key-67cc5db099c2ce7bdf686c07661cacc4]...
+- (c) making and maintaining arrangements for obtaining and evaluating data about the use and results of such proficiency tests in England and Wales [^c-67cc5db099c2ce7bdf686c07661cacc4]...
 
 (2) The Minister may with the approval of the Treasury make payments by way of grant to any body to which this section applies for use in or towards meeting expenditure incurred or to be incurred by the body for or in connection with any purpose mentioned in subsection (1) above.
 
@@ -117,7 +117,7 @@ and the Minister shall, before making the order, consider any objections duly ma
 
 (11) A person who intentionally obstructs a person acting in the exercise of powers conferred by subsection (7) or subsection (9) above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 6. Power to obtain agricultural statistics.[^M_F_e8336257-58c8-4138-8184-97063a01ada8][^key-3eb13f191f23634868ddb11d21c84d09]
+### 6. Power to obtain agricultural statistics.[^M_F_e8336257-58c8-4138-8184-97063a01ada8][^c-3eb13f191f23634868ddb11d21c84d09]
 
 *Extent: S*
 
@@ -147,7 +147,7 @@ and the Minister shall, before making the order, consider any objections duly ma
 
 (4) Before making any regulations under this section the authority proposing to do so shall consult such organisations as appear to the authority appropriate as representing any interests concerned.
 
-(4A (Extent: E))[^key-680401e0c93411a971e39e375b3ffce2] Subsection (4) does not apply to regulations which make amendments that apply only in relation to England. *(Extent: E)*
+(4A (Extent: E))[^c-680401e0c93411a971e39e375b3ffce2] Subsection (4) does not apply to regulations which make amendments that apply only in relation to England. *(Extent: E)*
 
 (5) Regulations under this section may contain such incidental, supplemental and consequential provisions as the authority making them considers expedient.
 
@@ -223,7 +223,7 @@ and any sums received by any Minister by virtue of this Act shall be paid into t
 
 ### 26. Interpretation and repeals.
 
-(1) In this Act [^key-bbcade6e904499114fad9c19caee91c3]... “**the Minister**” means the Minister of Agriculture, Fisheries and Food.
+(1) In this Act [^c-bbcade6e904499114fad9c19caee91c3]... “**the Minister**” means the Minister of Agriculture, Fisheries and Food.
 
 (2) Except where the context otherwise requires, any reference in this Act to an enactment is a reference to it as amended, and includes a reference to it as applied, by or under any other enactment, including this Act.
 
@@ -235,17 +235,17 @@ and any sums received by any Minister by virtue of this Act shall be paid into t
 
 (1) This Act may be cited as the Agriculture (Miscellaneous Provisions) Act 1976.
 
-(2)[^key-10b65266810dc177b6499df290384448][^c1106105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-10b65266810dc177b6499df290384448][^c1106105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-10b65266810dc177b6499df290384448][^c1106107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-10b65266810dc177b6499df290384448][^c1106107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-10b65266810dc177b6499df290384448][^c1106109] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-10b65266810dc177b6499df290384448][^c1106109] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Sections [^key-3f1ce21931e9383775bba55405b4ddd8]... 4, 5, . . . [^c1106110] . . . [^c1106111] of this Act do not extend to Scotland, [^key-3f1ce21931e9383775bba55405b4ddd8]...
+(5) Sections [^c-3f1ce21931e9383775bba55405b4ddd8]... 4, 5, . . . [^c1106110] . . . [^c1106111] of this Act do not extend to Scotland, [^c-3f1ce21931e9383775bba55405b4ddd8]...
 
 (6) Except for the following provisions, namely—
 
-- (a) sections [^key-20715e6bda6761bdc65a34097a706df2]... 15, 26(1) and (2) and this section;
+- (a) sections [^c-20715e6bda6761bdc65a34097a706df2]... 15, 26(1) and (2) and this section;
 - (b) section 7 and Schedule 3 so far as they relate to enactments (within the meaning of that section) that extend to Northern Ireland; and
 - (c) Part I of Schedule 4 and, so far as it relates to that Part, section 26(3),
 
@@ -253,7 +253,7 @@ this Act does not extend to Northern Ireland.
 
 SCHEDULES
 
-## SCHEDULE 1 — Amendments of Part I of the Agriculture Act 1967.[^key-219f80edca1b7646abdfb303eddad973]
+## SCHEDULE 1 — Amendments of Part I of the Agriculture Act 1967.[^c-219f80edca1b7646abdfb303eddad973]
 
 *Extent: E+W+S*
 
@@ -261,13 +261,13 @@ SCHEDULES
 
 Section 3.
 
-**1.**[^key-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-219f80edca1b7646abdfb303eddad973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Agriculture Act 1947 s. 78(1) and (1A) as they will have Effect from the Passing of this Act[^c1106114][^c1106115]
 
@@ -308,8 +308,8 @@ Section 7.
 |  |  | Section 26(3)(*a*). |
 |  |  | Section 33(2). |
 | 1921 c. 35. | Corn Sales Act 1921. | Section 5. |
-| [^key-63083d1da26fd88876f2594a6d4dc5f4]. . . | [^key-63083d1da26fd88876f2594a6d4dc5f4]. . . | [^key-63083d1da26fd88876f2594a6d4dc5f4]. . . |
-|  |  | [^key-63083d1da26fd88876f2594a6d4dc5f4]. . . |
+| [^c-63083d1da26fd88876f2594a6d4dc5f4]. . . | [^c-63083d1da26fd88876f2594a6d4dc5f4]. . . | [^c-63083d1da26fd88876f2594a6d4dc5f4]. . . |
+|  |  | [^c-63083d1da26fd88876f2594a6d4dc5f4]. . . |
 | 1930 c. 44. | Land Drainage Act 1930. | Section 29(1). |
 |  |  | In Part II of Schedule 3, paragraph 1(*a*), (*b*) and (*d*). |
 | . . . [^c1106132] | . . . [^c1106132] | . . . [^c1106132] |
@@ -394,19 +394,19 @@ Section 26.
 
 [^c1106060]: Modification: Act: transfer of functions (1.7.1999) by S.I 1999/672, art. 2, Sch. 1
 
-[^key-3107b9d3069e7703017427fbb6ee3109]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1976/55/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-3107b9d3069e7703017427fbb6ee3109]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1976/55/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1106074]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1976/55/section/2) repealed (25. 09. 1991) by [Agriculture and Forestry (Financial Provisions) Act 1991 (c. 33, SIF 2:2)](https://www.legislation.gov.uk/ukpga/1991/33), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1991/33/section/1/1), [Sch. Pt.I](https://www.legislation.gov.uk/ukpga/1991/33/schedule/part/I); [S.I. 1991/1937](https://www.legislation.gov.uk/uksi/1991/1937), [art. 2](https://www.legislation.gov.uk/uksi/1991/1937/article/2).
 
-[^key-86e52ef939a8ff8fe466e2e65ddf7050]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1976/55/section/3) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-86e52ef939a8ff8fe466e2e65ddf7050]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1976/55/section/3) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
-[^key-67cc5db099c2ce7bdf686c07661cacc4]: Textual amendment: Words in [s. 4(1)(c)](https://www.legislation.gov.uk/ukpga/1976/55/section/4/1/c) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
+[^c-67cc5db099c2ce7bdf686c07661cacc4]: Textual amendment: Words in [s. 4(1)(c)](https://www.legislation.gov.uk/ukpga/1976/55/section/4/1/c) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
 
 [^c1106080]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
 [^M_F_e8336257-58c8-4138-8184-97063a01ada8]: Textual amendment: S. 6 repealed (E.W.) by [Agricultural Statistics Act 1979 (c. 13)](https://www.legislation.gov.uk/ukpga/1979/13), [s. 7](https://www.legislation.gov.uk/ukpga/1979/13/section/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/13/schedule/2)
 
-[^key-3eb13f191f23634868ddb11d21c84d09]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1976/55/section/6) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-3eb13f191f23634868ddb11d21c84d09]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1976/55/section/6) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c1106085]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
@@ -418,7 +418,7 @@ Section 26.
 
 [^c1106089]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-680401e0c93411a971e39e375b3ffce2]: Textual amendment: S. 7(4A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/5)
+[^c-680401e0c93411a971e39e375b3ffce2]: Textual amendment: S. 7(4A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/5)
 
 [^c1106090]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1976/55/section/8) repealed by [Animal Health Act 1981 (c. 22, SIF 4:4)](https://www.legislation.gov.uk/ukpga/1981/22), [s. 10](https://www.legislation.gov.uk/ukpga/1981/22/section/10), [Sch. 6](https://www.legislation.gov.uk/ukpga/1981/22/schedule/6)
 
@@ -442,11 +442,11 @@ Section 26.
 
 [^c1106102]: Textual amendment: [Ss. 17–24](https://www.legislation.gov.uk/ukpga/1976/55/section/17) repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/11), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/I)
 
-[^key-bbcade6e904499114fad9c19caee91c3]: Textual amendment: Words in s. 26(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-bbcade6e904499114fad9c19caee91c3]: Textual amendment: Words in s. 26(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1106104]: Modification: The text of ss. 2(1), 3(2)(3), 26(3), Sch. 1, 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-10b65266810dc177b6499df290384448]: Textual amendment: [Ss. 27(2)-(4)](https://www.legislation.gov.uk/ukpga/1976/55/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-10b65266810dc177b6499df290384448]: Textual amendment: [Ss. 27(2)-(4)](https://www.legislation.gov.uk/ukpga/1976/55/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1106105]: Modification: S. 27(2): power of appointment conferred by s. 27(2) fully exercised: 1/2/1977 appointed by [S.I. 1977/39](https://www.legislation.gov.uk/uksi/1977/39), [art. 2](https://www.legislation.gov.uk/uksi/1977/39/article/2)
 
@@ -454,15 +454,15 @@ Section 26.
 
 [^c1106109]: Modification: S. 27(4): Order under s. 1 dissolving the Sugar Board came into operation on 15.2.1977: 1977/224
 
-[^key-3f1ce21931e9383775bba55405b4ddd8]: Textual amendment: Words in s. 27(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-3f1ce21931e9383775bba55405b4ddd8]: Textual amendment: Words in s. 27(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1106110]: Textual amendment: Words repealed by [Agricultural Holdings (Notices to Quit) Act 1977 (c. 12)](https://www.legislation.gov.uk/ukpga/1977/12), [s. 13](https://www.legislation.gov.uk/ukpga/1977/12/section/13), [Sch. 2](https://www.legislation.gov.uk/ukpga/1977/12/schedule/2) (subject to a saving in s. 14 in relation to notices to quit given before 7.4.1978)
 
 [^c1106111]: Textual amendment: Words repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/I)
 
-[^key-20715e6bda6761bdc65a34097a706df2]: Textual amendment: Word in [s. 27(6)(a)](https://www.legislation.gov.uk/ukpga/1976/55/section/27/6/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-20715e6bda6761bdc65a34097a706df2]: Textual amendment: Word in [s. 27(6)(a)](https://www.legislation.gov.uk/ukpga/1976/55/section/27/6/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-219f80edca1b7646abdfb303eddad973]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1976/55/schedule/1) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-219f80edca1b7646abdfb303eddad973]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1976/55/schedule/1) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c1106114]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/55/schedule/2) repealed (E.W.) by [Agricultural Statistics Act 1979 (c. 13, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1979/13), [ss. 1](https://www.legislation.gov.uk/ukpga/1979/13/section/1), [25](https://www.legislation.gov.uk/ukpga/1979/13/section/25), [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/13/schedule/2)
 
@@ -470,7 +470,7 @@ Section 26.
 
 [^c1106129]: Textual amendment: Entry relating to the Hop (Prevention of Frauds) Act 1866 repealed by [Statute Law (Repeals) Act 1981 (c. 19)](https://www.legislation.gov.uk/ukpga/1981/19), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1981/19/section/1/1), [Sch. 1 Pt. XII](https://www.legislation.gov.uk/ukpga/1981/19/schedule/1/part/XII)
 
-[^key-63083d1da26fd88876f2594a6d4dc5f4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/1976/55/schedule/3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/12); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-63083d1da26fd88876f2594a6d4dc5f4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/1976/55/schedule/3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/12); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c1106132]: Textual amendment: Entries relating to the Agriculture Act 1937 repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/II)
 

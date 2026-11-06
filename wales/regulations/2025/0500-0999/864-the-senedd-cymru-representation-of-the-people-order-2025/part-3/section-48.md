@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Individual candidates: limitation of election expenses[^key-6a3641a3cacf75720f95b5e027d51a26]
+## 48. Individual candidates: limitation of election expenses[^c-6a3641a3cacf75720f95b5e027d51a26]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a3641a3cacf75720f95b5e027d51a26]: Commencement: Art. 48 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-6a3641a3cacf75720f95b5e027d51a26]: Commencement: Art. 48 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

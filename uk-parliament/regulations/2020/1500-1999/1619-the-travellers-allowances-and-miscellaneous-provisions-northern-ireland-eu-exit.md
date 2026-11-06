@@ -50,17 +50,17 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 In accordance with section 51(1)(a) and (c) of the Taxation (Cross-border Trade) Act 2018, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU to make the provisions in these Regulations in relation to value added tax and excise duty.
 
-## 1. Citation and commencement[^key-cf6cea13368d79028f926da93821c654]
+## 1. Citation and commencement[^c-cf6cea13368d79028f926da93821c654]
 
 These Regulations may be cited as the Travellers’ Allowances and Miscellaneous Provisions (Northern Ireland) (EU Exit) Regulations 2020 and come into force on IP completion day.
 
-## 2. Savings and modifications to the Travellers’ Allowances Order 1994[^key-88e501f67449b57b9aa4042e9c6bba32]
+## 2. Savings and modifications to the Travellers’ Allowances Order 1994[^c-88e501f67449b57b9aa4042e9c6bba32]
 
 The Travellers’ Allowances Order 1994[^f00002] as it had effect immediately before IP completion day (“the 1994 Order”) applies in respect of persons entering Northern Ireland subject to the modifications in regulations 4 to 6.
 
-**3.**[^key-61051a71065071ef61dec790047ba770] The 1994 Order is modified as follows.
+**3.**[^c-61051a71065071ef61dec790047ba770] The 1994 Order is modified as follows.
 
-**4.**[^key-0c7620cd94fae109e70e715427ae41ae] In article 2—
+**4.**[^c-0c7620cd94fae109e70e715427ae41ae] In article 2—
 
 - (a) in paragraphs (1) and (2)(a) for “the United Kingdom” substitute “Northern Ireland”;
 - (b) in paragraph (2)(c)(ii) after “definition” insert “in the first indent of Article 3(2)” and at the end omit (“see both indents of Article 3(2) of that Directive)”;
@@ -71,9 +71,9 @@ The Travellers’ Allowances Order 1994[^f00002] as it had effect immediately be
 
   .
 
-**5.**[^key-161cc0a5fa0abc121c8bab6ccd92a21a] In article 3 after “are not imported” insert “into Northern Ireland”.
+**5.**[^c-161cc0a5fa0abc121c8bab6ccd92a21a] In article 3 after “are not imported” insert “into Northern Ireland”.
 
-**6.**[^key-f9d10f830beaa7e6b232e84f2967c467] In the Schedule—
+**6.**[^c-f9d10f830beaa7e6b232e84f2967c467] In the Schedule—
 
 - (a) before the table, insert—
 
@@ -91,37 +91,37 @@ The Travellers’ Allowances Order 1994[^f00002] as it had effect immediately be
   ;
 - (b) in the table, in the second column of the entry for “tobacco products”, after “250 grams of smoking tobacco” insert “or 200 sticks of tobacco for heating”.
 
-## 7. Savings and modifications to the Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^key-eea79d7838da023cee9e1209bdcdb165]
+## 7. Savings and modifications to the Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^c-eea79d7838da023cee9e1209bdcdb165]
 
 The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^f00003] as they had effect immediately before IP completion day (“the 1999 Regulations”) shall apply in relation to excise goods intended for sale by retail to persons carried in a ship or aircraft on journeys between Northern Ireland and an EU member state and to persons concerned in the shipping or import of such goods, subject to the savings and modifications in regulations 10 to 18.
 
-**8.**[^key-11a264413b8f9b3bfba45dacfc0b81a0] A person who was a registered mobile operator or a fiscal representative pursuant to the 1999 Regulations immediately before IP completion day shall be treated as such for the purposes of regulation 7.
+**8.**[^c-11a264413b8f9b3bfba45dacfc0b81a0] A person who was a registered mobile operator or a fiscal representative pursuant to the 1999 Regulations immediately before IP completion day shall be treated as such for the purposes of regulation 7.
 
-**9.**[^key-c400b13f60c00367b26a58d2893c9d46] The 1999 Regulations are modified as follows.
+**9.**[^c-c400b13f60c00367b26a58d2893c9d46] The 1999 Regulations are modified as follows.
 
-**10.**[^key-e0721d04dec51f42ca3af24c29c6f80a] In regulation 2(1) (interpretation) in the definition of “relevant period”—
+**10.**[^c-e0721d04dec51f42ca3af24c29c6f80a] In regulation 2(1) (interpretation) in the definition of “relevant period”—
 
 - (a) in paragraph (i) for “of importation prescribed by section 5(2)(a) of the Act” substitute “when the ship carrying the merchandise comes within the limits of a port in Northern Ireland”;
 - (b) in paragraph (ii)—
   - (i) for “above the United Kingdom” substitute “above Northern Ireland”;
   - (ii) for “the territorial sea of the United Kingdom” substitute “the territorial sea adjacent to Northern Ireland”.
 
-**11.**[^key-6384cf4990f54754fc680c64bd20e7c7] In the heading to Part 4, for “the United Kingdom” substitute “Northern Ireland”.
+**11.**[^c-6384cf4990f54754fc680c64bd20e7c7] In the heading to Part 4, for “the United Kingdom” substitute “Northern Ireland”.
 
-**12.**[^key-1952d13f73c3d2fc26cd2f5b9a4b61f7] In regulation 13(2) (application of Part 4) for “another” substitute “an EU”.
+**12.**[^c-1952d13f73c3d2fc26cd2f5b9a4b61f7] In regulation 13(2) (application of Part 4) for “another” substitute “an EU”.
 
-**13.**[^key-a489dd20ab71e0d7db60b2fb480319ad] In regulation 15 (stocktaking – exported merchandise) in paragraphs (2) and (3) for each occurrence of “the member State” substitute “the EU member state”.
+**13.**[^c-a489dd20ab71e0d7db60b2fb480319ad] In regulation 15 (stocktaking – exported merchandise) in paragraphs (2) and (3) for each occurrence of “the member State” substitute “the EU member state”.
 
-**14.**[^key-028f85ca99681a0f7ae1e8374b5e9338] In the heading to Part 5, for “the United Kingdom” substitute “Northern Ireland”.
+**14.**[^c-028f85ca99681a0f7ae1e8374b5e9338] In the heading to Part 5, for “the United Kingdom” substitute “Northern Ireland”.
 
-**15.**[^key-a5bdf37600efd0563fd2d6c434060f08] In regulation 17 (stocktaking-exported merchandise)—
+**15.**[^c-a5bdf37600efd0563fd2d6c434060f08] In regulation 17 (stocktaking-exported merchandise)—
 
 - (a) in paragraph (2) for “of importation prescribed by section 5(2)(a) of the Act” substitute “when the ship carrying the merchandise comes within the limits of a port in Northern Ireland”;
 - (b) in paragraph (3)—
   - (i) for “above the United Kingdom” substitute “above Northern Ireland”;
   - (ii) for “the territorial sea of the United Kingdom” substitute “the territorial sea adjacent to Northern Ireland”.
 
-**16.**[^key-555525f021e63538d4080b13c91c0396] In regulation 18 (excise duty points-merchandise)—
+**16.**[^c-555525f021e63538d4080b13c91c0396] In regulation 18 (excise duty points-merchandise)—
 
 - (a) in paragraph (1)—
   - (i) for “another” substitute “an EU”;
@@ -131,7 +131,7 @@ The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^f00003] a
   - (ii) in subparagraph (b) for “above the United Kingdom” substitute “above Northern Ireland”;
   - (iii) in subparagraph (b) for “the territorial sea of the United Kingdom” substitute “the territorial sea adjacent to Northern Ireland”.
 
-**17.**[^key-ee31748bae2b3eb04d44a7f197369182] In regulation 19(1) (excise duty points-stores)—
+**17.**[^c-ee31748bae2b3eb04d44a7f197369182] In regulation 19(1) (excise duty points-stores)—
 
 - (a) in subparagraph (a) for “another” substitute “an EU”;
 - (b) in subparagraph (b) for “of importation prescribed by section 5(2)(a) of the Act” substitute “when the ship carrying the merchandise comes within the limits of a port in Northern Ireland”;
@@ -139,7 +139,7 @@ The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^f00003] a
   - (i) for “above the United Kingdom” substitute “above Northern Ireland”;
   - (ii) for “the territorial sea of the United Kingdom” substitute “the territorial sea adjacent to Northern Ireland”.
 
-**18.**[^key-7ba9c1d922de7af7f2a37f970e60a37f] In regulation 22D(1)[^f00004] (unshipping of merchandise) for “the United Kingdom” substitute “Northern Ireland”.
+**18.**[^c-7ba9c1d922de7af7f2a37f970e60a37f] In regulation 22D(1)[^f00004] (unshipping of merchandise) for “the United Kingdom” substitute “Northern Ireland”.
 
 Michael Tomlinson
 
@@ -173,44 +173,44 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22); section 51(1)(a) and (c) permits “the appropriate Minister” to make provision relating to value added tax and any excise duty. Under section 51(4)(b) “the appropriate Minister” means the Treasury. “Excise duty” has the meaning given in section 53 of the Taxation (Cross-border Trade) Act 2018.
 
-[^key-cf6cea13368d79028f926da93821c654]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1619/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cf6cea13368d79028f926da93821c654]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1619/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-88e501f67449b57b9aa4042e9c6bba32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1619/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-88e501f67449b57b9aa4042e9c6bba32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1619/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1994/955](https://www.legislation.gov.uk/uksi/1994/955); amended by [S.I. 2008/3058](https://www.legislation.gov.uk/uksi/2008/3058), [2009/3172](https://www.legislation.gov.uk/uksi/2009/3172) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), to be amended by [S.I. 2019/1412](https://www.legislation.gov.uk/uksi/2019/1412) on IP completion day.
 
-[^key-61051a71065071ef61dec790047ba770]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1619/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-61051a71065071ef61dec790047ba770]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1619/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0c7620cd94fae109e70e715427ae41ae]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1619/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0c7620cd94fae109e70e715427ae41ae]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1619/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-161cc0a5fa0abc121c8bab6ccd92a21a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1619/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-161cc0a5fa0abc121c8bab6ccd92a21a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1619/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f9d10f830beaa7e6b232e84f2967c467]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1619/regulation/6) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/10/2)
+[^c-f9d10f830beaa7e6b232e84f2967c467]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1619/regulation/6) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/10/2)
 
-[^key-eea79d7838da023cee9e1209bdcdb165]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1619/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-eea79d7838da023cee9e1209bdcdb165]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1619/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1999/1565](https://www.legislation.gov.uk/uksi/1999/1565); amended by S.I [2010/592](https://www.legislation.gov.uk/uksi/2010/592), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [2015/368](https://www.legislation.gov.uk/uksi/2015/368), to be revoked by regulation 14 of [S.I. 2020/1412](https://www.legislation.gov.uk/uksi/2020/1412) on IP completion day.
 
-[^key-11a264413b8f9b3bfba45dacfc0b81a0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1619/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-11a264413b8f9b3bfba45dacfc0b81a0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1619/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c400b13f60c00367b26a58d2893c9d46]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1619/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s. 39(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1619/regulation/1)
+[^c-c400b13f60c00367b26a58d2893c9d46]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1619/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s. 39(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1619/regulation/1)
 
-[^key-e0721d04dec51f42ca3af24c29c6f80a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1619/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e0721d04dec51f42ca3af24c29c6f80a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1619/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6384cf4990f54754fc680c64bd20e7c7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1619/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6384cf4990f54754fc680c64bd20e7c7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1619/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1952d13f73c3d2fc26cd2f5b9a4b61f7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1619/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1952d13f73c3d2fc26cd2f5b9a4b61f7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1619/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a489dd20ab71e0d7db60b2fb480319ad]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1619/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a489dd20ab71e0d7db60b2fb480319ad]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1619/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-028f85ca99681a0f7ae1e8374b5e9338]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1619/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-028f85ca99681a0f7ae1e8374b5e9338]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1619/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a5bdf37600efd0563fd2d6c434060f08]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1619/regulation/15) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a5bdf37600efd0563fd2d6c434060f08]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1619/regulation/15) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-555525f021e63538d4080b13c91c0396]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1619/regulation/16) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-555525f021e63538d4080b13c91c0396]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1619/regulation/16) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ee31748bae2b3eb04d44a7f197369182]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1619/regulation/17) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ee31748bae2b3eb04d44a7f197369182]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1619/regulation/17) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7ba9c1d922de7af7f2a37f970e60a37f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1619/regulation/18) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7ba9c1d922de7af7f2a37f970e60a37f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1619/regulation/18) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^f00004]: Footnote: Regulation 22D was inserted by [S.I. 2010/592](https://www.legislation.gov.uk/uksi/2010/592).

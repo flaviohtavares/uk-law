@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Enforcement abroad[^key-ee65db6e974c4f0b4d294c07da9728b6][^key-e3634034bab4be7cd4cb838ceea63874][^key-e3634034bab4be7cd4cb838ceea63874]
+## 222. Enforcement abroad[^c-ee65db6e974c4f0b4d294c07da9728b6][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
 (1) This section applies if—
 
 - (a) any of the conditions in section 189 is satisfied,
-- (b) the prosecutor [^key-958321429f85717549bc6e6919c5de5d]... believes that realisable property is situated in a country or territory outside the United Kingdom (the receiving country), and
-- (c) the prosecutor [^key-74fc4b61fdb16625f9a5c5a861ded578]... sends a request for assistance to the Secretary of State with a view to it being forwarded under this section.
+- (b) the prosecutor [^c-958321429f85717549bc6e6919c5de5d]... believes that realisable property is situated in a country or territory outside the United Kingdom (the receiving country), and
+- (c) the prosecutor [^c-74fc4b61fdb16625f9a5c5a861ded578]... sends a request for assistance to the Secretary of State with a view to it being forwarded under this section.
 
 (2) In a case where no confiscation order has been made, a request for assistance is a request to the government of the receiving country to secure that any person is prohibited from dealing with realisable property.
 
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ee65db6e974c4f0b4d294c07da9728b6]: Commencement: S. 222 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2003/333/article/6), [10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-ee65db6e974c4f0b4d294c07da9728b6]: Commencement: S. 222 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2003/333/article/6), [10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
-[^key-958321429f85717549bc6e6919c5de5d]: Textual amendment: Words in s. 222(1)(b) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 68(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/68/a), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-958321429f85717549bc6e6919c5de5d]: Textual amendment: Words in s. 222(1)(b) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 68(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/68/a), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-74fc4b61fdb16625f9a5c5a861ded578]: Textual amendment: Words in s. 222(1)(c) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 68(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/68/b), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-74fc4b61fdb16625f9a5c5a861ded578]: Textual amendment: Words in s. 222(1)(c) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 68(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/68/b), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))

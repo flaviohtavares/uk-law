@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if under regulation 110 [^key-d5cc5ef31034c94089e8903d7497bc25]... the licensing authority revokes or suspends a certificate of registration.
+(1) This regulation applies if under regulation 110 [^c-d5cc5ef31034c94089e8903d7497bc25]... the licensing authority revokes or suspends a certificate of registration.
 
 (2) The licensing authority may give written notice to the person who is, or immediately before its revocation was, the holder of the certificate requiring the holder to comply with the following requirement.
 
@@ -35,4 +35,4 @@ within the time and for the period specified in the notice.
 
 ## Annotations
 
-[^key-d5cc5ef31034c94089e8903d7497bc25]: Textual amendment: Words in [reg. 112(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/112/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/775/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5cc5ef31034c94089e8903d7497bc25]: Textual amendment: Words in [reg. 112(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/112/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/775/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

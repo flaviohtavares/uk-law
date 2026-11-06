@@ -44,13 +44,13 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 1(3) and 9(1) and (2) of the Mesothelioma, etc., Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation, commencement and application[^key-705224e9c94f115f875b77887cf9bbaf]
+## 1. Citation, commencement and application[^c-705224e9c94f115f875b77887cf9bbaf]
 
 (1) These Regulations may be cited as the Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2026 and shall come into operation on 31st October 2026.
 
 (2) Regulation 2(2) applies only in relation to the dependant of a person who dies on or after 31st October 2026 and who, immediately before their death, had diffuse mesothelioma.
 
-## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^key-5dc00d0b9d21dd525d97cc944e2c8825]
+## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^c-5dc00d0b9d21dd525d97cc944e2c8825]
 
 (1) The Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations 2008[^f00002] are amended in accordance with paragraphs (2) and (3).
 
@@ -152,8 +152,8 @@ By virtue of regulation 1(2), the increased rates of lump sum payments for a dep
 
 [^f00001]: Footnote: [2008 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2008/9); *see* section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-705224e9c94f115f875b77887cf9bbaf]: Commencement: Reg. 1 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/169/regulation/1/1)
+[^c-705224e9c94f115f875b77887cf9bbaf]: Commencement: Reg. 1 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/169/regulation/1/1)
 
-[^key-5dc00d0b9d21dd525d97cc944e2c8825]: Commencement: Reg. 2 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/169/regulation/1/1)
+[^c-5dc00d0b9d21dd525d97cc944e2c8825]: Commencement: Reg. 2 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/169/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2008 No. 354](https://www.legislation.gov.uk/nisr/2008/354)

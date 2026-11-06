@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206AA. Service providers connected with a recognised payment system that uses digital settlement assets[^key-592eb79f7f785f69a68b0778902e6499]
+## 206AA. Service providers connected with a recognised payment system that uses digital settlement assets[^c-592eb79f7f785f69a68b0778902e6499]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the purposes of section 206A(3A), a person provides services connected with 
 
 ## Annotations
 
-[^key-592eb79f7f785f69a68b0778902e6499]: Textual amendment: [S. 206AA](https://www.legislation.gov.uk/ukpga/2009/1/section/206AA) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/38)
+[^c-592eb79f7f785f69a68b0778902e6499]: Textual amendment: [S. 206AA](https://www.legislation.gov.uk/ukpga/2009/1/section/206AA) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/38)

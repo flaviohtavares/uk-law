@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Orders, schemes and regulations made by OFCOM[^key-b7dca8ddda04bdcf49d821434b393547]
+## 63. Orders, schemes and regulations made by OFCOM[^c-b7dca8ddda04bdcf49d821434b393547]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 403 of the Communications Act 2003 (regulations and orders made by OFCOM
 
 ## Annotations
 
-[^key-b7dca8ddda04bdcf49d821434b393547]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/5/section/63) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b7dca8ddda04bdcf49d821434b393547]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/5/section/63) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

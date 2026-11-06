@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Accommodation for asylum-seekers etc[^key-a56dd5183b41a6adb0b69b2f76239345]
+## 13. Accommodation for asylum-seekers etc[^c-a56dd5183b41a6adb0b69b2f76239345]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6c7625041243fa8dd782576eb7a5b88e] In section 97 of the Immigration and Asylum Act 1999 (support for asylum-seekers: supplemental matters), after subsection (3) insert—
+(1)[^c-6c7625041243fa8dd782576eb7a5b88e] In section 97 of the Immigration and Asylum Act 1999 (support for asylum-seekers: supplemental matters), after subsection (3) insert—
 
 > (3A) When exercising the power under section 95 (support for asylum seekers) or section 4 (accommodation for failed asylum seekers) to provide or arrange for the provision of accommodation, the Secretary of State may decide to provide or arrange for the provision of different types of accommodation to persons supported under those sections on the basis of either or both of the following matters—
 >
@@ -46,7 +46,7 @@ summary: ''
 
     > - (iv) regulations made under section 30 of the Nationality, Immigration and Asylum Act 2002 (conditions of residence in accommodation centre).
 
-(3)[^key-6c7625041243fa8dd782576eb7a5b88e] In section 98 of that Act (temporary support for asylum-seekers etc), at the end insert—
+(3)[^c-6c7625041243fa8dd782576eb7a5b88e] In section 98 of that Act (temporary support for asylum-seekers etc), at the end insert—
 
 > (4) Subsection (3A) of section 97 applies to the power to provide, or arrange for the provision of, accommodation under this section as it applies to the power to do so under section 95.
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a56dd5183b41a6adb0b69b2f76239345]: Commencement: S. 13 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-a56dd5183b41a6adb0b69b2f76239345]: Commencement: S. 13 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-6c7625041243fa8dd782576eb7a5b88e]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/13/1)[(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/13/3) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/11)
+[^c-6c7625041243fa8dd782576eb7a5b88e]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/13/1)[(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/13/3) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/11)

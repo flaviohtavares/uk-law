@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. National security notices[^key-54272b5321c761e8b82e0fdf94f436a0]
+## 252. National security notices[^c-54272b5321c761e8b82e0fdf94f436a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the notice may require the taking of those steps only if such a warrant or autho
 
 ## Annotations
 
-[^key-54272b5321c761e8b82e0fdf94f436a0]: Commencement: S. 252 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/f)
+[^c-54272b5321c761e8b82e0fdf94f436a0]: Commencement: S. 252 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/f)

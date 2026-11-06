@@ -28,7 +28,7 @@ summary: ''
 (2) In this section—
 
 - “**child**” means a person who has not attained the age of 18;
-- “**periodical payments order**” means an order made by a magistrates’ court [^key-956ee726ba616dbbfc1d7546167909d9]... which requires the making of periodical payments,
+- “**periodical payments order**” means an order made by a magistrates’ court [^c-956ee726ba616dbbfc1d7546167909d9]... which requires the making of periodical payments,
 
 and any payments required under a periodical payments order to be made to a child shall for the purposes of subsection (1) above be treated as if they were required to be made to the person with whom the child has his home.
 
@@ -44,4 +44,4 @@ and any payments required under a periodical payments order to be made to a chil
 
 [^c18243951]: Textual amendment: Words added by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123(6)](https://www.legislation.gov.uk/ukpga/1988/33/section/123/6), [170(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/1), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 15 para. 63](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/63)
 
-[^key-956ee726ba616dbbfc1d7546167909d9]: Textual amendment: Words in s. 61(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 45](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/45); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-956ee726ba616dbbfc1d7546167909d9]: Textual amendment: Words in s. 61(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 45](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/45); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

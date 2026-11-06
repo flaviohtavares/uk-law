@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Child Support (Northern Ireland) Order 1991[^key-17b49eba169ec4310f099dcab360586f]
+## 64. Child Support (Northern Ireland) Order 1991[^c-17b49eba169ec4310f099dcab360586f]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-17b49eba169ec4310f099dcab360586f]: Commencement: Reg. 64 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-17b49eba169ec4310f099dcab360586f]: Commencement: Reg. 64 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00090]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628).
 

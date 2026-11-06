@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Removal of human remains[^key-f90cb7dc3deb89ed59e0332dae4ae1d1]
+## 52. Removal of human remains[^c-f90cb7dc3deb89ed59e0332dae4ae1d1]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ and in section 240(1) (provisions supplemental to sections 238 and 239) of the 1
 
 ## Annotations
 
-[^key-f90cb7dc3deb89ed59e0332dae4ae1d1]: Commencement: Art. 52 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-f90cb7dc3deb89ed59e0332dae4ae1d1]: Commencement: Art. 52 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00099]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1).
 

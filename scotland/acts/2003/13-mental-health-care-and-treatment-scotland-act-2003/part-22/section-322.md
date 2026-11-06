@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 322. Appeal to Court of Session against certain decisions of the Tribunal[^key-899db33415238cd6d6ae0761356fc4c3][^key-aaa73b89725f79af7bff140af09e84ee]
+## 322. Appeal to Court of Session against certain decisions of the Tribunal[^c-899db33415238cd6d6ae0761356fc4c3][^c-aaa73b89725f79af7bff140af09e84ee]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-899db33415238cd6d6ae0761356fc4c3]: Commencement: [S. 322](https://www.legislation.gov.uk/asp/2003/13/section/322) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-899db33415238cd6d6ae0761356fc4c3]: Commencement: [S. 322](https://www.legislation.gov.uk/asp/2003/13/section/322) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-aaa73b89725f79af7bff140af09e84ee]: Modification: [S. 322](https://www.legislation.gov.uk/asp/2003/13/section/322) applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2005/467/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-aaa73b89725f79af7bff140af09e84ee]: Modification: [S. 322](https://www.legislation.gov.uk/asp/2003/13/section/322) applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2005/467/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))

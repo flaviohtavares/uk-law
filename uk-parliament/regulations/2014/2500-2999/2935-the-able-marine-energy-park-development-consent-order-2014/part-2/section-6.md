@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Limits of deviation[^key-c5ad1863b2e1aa3b5d0468162e484e3d]
+## 6. Limits of deviation[^c-c5ad1863b2e1aa3b5d0468162e484e3d]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In carrying out the authorised development the undertaker may—
 
 ## Annotations
 
-[^key-c5ad1863b2e1aa3b5d0468162e484e3d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/2935/article/6) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-c5ad1863b2e1aa3b5d0468162e484e3d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/2935/article/6) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

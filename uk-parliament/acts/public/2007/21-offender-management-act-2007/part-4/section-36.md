@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Orders and regulations[^key-92287898c1377b62d651049cf2cabe66]
+## 36. Orders and regulations[^c-92287898c1377b62d651049cf2cabe66]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) A statutory instrument containing an order or regulations under—
 
 - (a) section 5(3)(c),
-- (aa)[^key-883c0e33a373e71c21ab8f351b5b556c] section 13A(8),
+- (aa)[^c-883c0e33a373e71c21ab8f351b5b556c] section 13A(8),
 - (b) section 14(2)(h) or (7),
 - (c) section 15, or
 - (d) section 38(2)(a),
@@ -43,6 +43,6 @@ may not be made unless a draft of it has been laid before and approved by a reso
 
 ## Annotations
 
-[^key-92287898c1377b62d651049cf2cabe66]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2007/21/section/36) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/m)
+[^c-92287898c1377b62d651049cf2cabe66]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2007/21/section/36) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/m)
 
-[^key-883c0e33a373e71c21ab8f351b5b556c]: Textual amendment: [S. 36(3)(aa)](https://www.legislation.gov.uk/ukpga/2007/21/section/36/3/aa) inserted (3.10.2022) by [Approved Premises (Substance Testing) Act 2022 (c. 27)](https://www.legislation.gov.uk/ukpga/2022/27), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2022/27/section/1/4), [2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2); [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)
+[^c-883c0e33a373e71c21ab8f351b5b556c]: Textual amendment: [S. 36(3)(aa)](https://www.legislation.gov.uk/ukpga/2007/21/section/36/3/aa) inserted (3.10.2022) by [Approved Premises (Substance Testing) Act 2022 (c. 27)](https://www.legislation.gov.uk/ukpga/2022/27), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2022/27/section/1/4), [2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2); [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)

@@ -39,9 +39,9 @@ This Act may be cited for all purposes as “**The Exchequer and Audit Departmen
 
 ## 2. Definition of terms.
 
-In this Act [^c564525]... “**principal accountants**” shall mean those who receive issues directly from the accounts of Her Majesty’s Exchequer at the Bank of England[^c564526]; [^key-de8a85f98b7d597b2830b1793637d091]...
+In this Act [^c564525]... “**principal accountants**” shall mean those who receive issues directly from the accounts of Her Majesty’s Exchequer at the Bank of England[^c564526]; [^c-de8a85f98b7d597b2830b1793637d091]...
 
-## 3. Power to Her Majesty to appoint “Comptroller and Auditor General” and “Assistant Comptroller and Auditor”, who shall not hold any other offices during pleasure, nor be members or peers of Parliament.[^key-fea489b83787c73c8a82b71db1becb9b]
+## 3. Power to Her Majesty to appoint “Comptroller and Auditor General” and “Assistant Comptroller and Auditor”, who shall not hold any other offices during pleasure, nor be members or peers of Parliament.[^c-fea489b83787c73c8a82b71db1becb9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -51,15 +51,15 @@ In this Act [^c564525]... “**principal accountants**” shall mean those who r
 
 [^c564535]... The person appointed to be Comptroller and Auditor General shall have and perform all the powers and duties conferred or imposed on the Comptroller General of the Exchequer and the Commissioners for auditing the Public Accounts respectively by any enactments relative to those authorities respectively, as far as the same are not repealed or altered by this Act or any other Act of the present session of Parliament. [^c564535]...
 
-## 6. On vacancy in office of Comptroller and Auditor General, &c., successor to be appointed.[^key-d4b5e7e351d665cc367c6b70a6cdf61f]
+## 6. On vacancy in office of Comptroller and Auditor General, &c., successor to be appointed.[^c-d4b5e7e351d665cc367c6b70a6cdf61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7—9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c564539]
 
-## 10. Gross revenues to be paid to Exchequer, and daily returns to be sent to Comptroller and Auditor General.[^c564560][^c564561][^c564562][^c564563][^c564564][^c564565][^c564566][^c564568][^c564567][^key-2b5c1acdcc2b9b4a44d5169ed482503a]
+## 10. Gross revenues to be paid to Exchequer, and daily returns to be sent to Comptroller and Auditor General.[^c564560][^c564561][^c564562][^c564563][^c564564][^c564565][^c564566][^c564568][^c564567][^c-2b5c1acdcc2b9b4a44d5169ed482503a]
 
-[^key-bf7a025cf2cbcd899cb5176d719f1d4e]...; All public moneys[^key-096bc17f0c441e7c2fde52f8060ee890] payable to the Exchequer shall be paid into the Consolidated Fund[^key-02ec07b84fe3431edc11ab62f29a4dc7]; and accounts of all such payments shall be rendered to the Comptroller and Auditor General daily, in such form as the Treasury may prescribe: [^key-a4d43d7f190090be2650a503c6b35b08]....
+[^c-bf7a025cf2cbcd899cb5176d719f1d4e]...; All public moneys[^c-096bc17f0c441e7c2fde52f8060ee890] payable to the Exchequer shall be paid into the Consolidated Fund[^c-02ec07b84fe3431edc11ab62f29a4dc7]; and accounts of all such payments shall be rendered to the Comptroller and Auditor General daily, in such form as the Treasury may prescribe: [^c-a4d43d7f190090be2650a503c6b35b08]....
 
 ## 11. Moneys to form one fund in the books of the Banks of England and Ireland applicable to Exchequer issues.
 
@@ -200,15 +200,15 @@ Nothing in this Act contained shall extend to abridge or alter the rights and po
 
 [^c564526]: Textual amendment: Words in s. 2 substituted (1.4.2001) by [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20), [s. 29](https://www.legislation.gov.uk/ukpga/2000/20/section/29), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/2); [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 3](https://www.legislation.gov.uk/uksi/2000/3349/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5))
 
-[^key-de8a85f98b7d597b2830b1793637d091]: Textual amendment: Words in s. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
+[^c-de8a85f98b7d597b2830b1793637d091]: Textual amendment: Words in s. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
 
-[^key-fea489b83787c73c8a82b71db1becb9b]: Textual amendment: S. 3 omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/2); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-fea489b83787c73c8a82b71db1becb9b]: Textual amendment: S. 3 omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/2); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c564534]: Textual amendment: S. 4 repealed by [Exchequer and Audit Departments Act 1950 (c. 3)](https://www.legislation.gov.uk/ukpga/1950/3), [s. 4(2)](https://www.legislation.gov.uk/ukpga/1950/3/section/4/2)
 
 [^c564535]: Textual amendment: Words repealed by [Statute Law Revision Act 1893 (c. 14)](https://www.legislation.gov.uk/ukpga/1893/14)
 
-[^key-d4b5e7e351d665cc367c6b70a6cdf61f]: Textual amendment: S. 6 omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/2); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-d4b5e7e351d665cc367c6b70a6cdf61f]: Textual amendment: S. 6 omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/2); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c564539]: Textual amendment: Ss. 7-9 repealed by [Exchequer and Audit Departments Act 1921 (c. 52)](https://www.legislation.gov.uk/ukpga/1921/52), [Sch. 2](https://www.legislation.gov.uk/ukpga/1921/52/schedule/2)
 
@@ -238,15 +238,15 @@ Nothing in this Act contained shall extend to abridge or alter the rights and po
 
     S. 10 amended (11.5.2001 with application as mentioned in Sch. 22 para. 32 of the amending Act and with effect for accounting period ending on or after 1.4.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 70(1)(2)](https://www.legislation.gov.uk/ukpga/2001/9/section/70), [Sch. 22 paras. 30](https://www.legislation.gov.uk/ukpga/2001/9/schedule/22/paragraph/30), [32](https://www.legislation.gov.uk/ukpga/2001/9/schedule/22/paragraph/32)
 
-[^key-2b5c1acdcc2b9b4a44d5169ed482503a]: Modification: S. 10 modified (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 115(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/115/4)
+[^c-2b5c1acdcc2b9b4a44d5169ed482503a]: Modification: S. 10 modified (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 115(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/115/4)
 
-[^key-bf7a025cf2cbcd899cb5176d719f1d4e]: Textual amendment: Words in s. 10 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/a), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-bf7a025cf2cbcd899cb5176d719f1d4e]: Textual amendment: Words in s. 10 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/a), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-096bc17f0c441e7c2fde52f8060ee890]: Textual amendment: Words in s. 10 substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/b); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-096bc17f0c441e7c2fde52f8060ee890]: Textual amendment: Words in s. 10 substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/b); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-02ec07b84fe3431edc11ab62f29a4dc7]: Textual amendment: Words in s. 10 substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/c); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-02ec07b84fe3431edc11ab62f29a4dc7]: Textual amendment: Words in s. 10 substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/c); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-a4d43d7f190090be2650a503c6b35b08]: Textual amendment: Words in s. 10 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-a4d43d7f190090be2650a503c6b35b08]: Textual amendment: Words in s. 10 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 3(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/3/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
 [^c564575]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/Vict/29-30/39/section/11) repealed (1.4.2001) by [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20), [s. 29](https://www.legislation.gov.uk/ukpga/2000/20/section/29), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/4/a), [Sch. 2](https://www.legislation.gov.uk/ukpga/2000/20/schedule/2); [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 3](https://www.legislation.gov.uk/uksi/2000/3349/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5))
 

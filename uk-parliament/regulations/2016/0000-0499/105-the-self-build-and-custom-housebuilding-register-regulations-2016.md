@@ -46,48 +46,48 @@ Coming into force
 
 1st April 2016
 
-[^key-d1afb05b8592aed7c2ac5083ba4ee403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1afb05b8592aed7c2ac5083ba4ee403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 1. Citation and commencement[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 2. Interpretation[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirements of a serviced plot of land[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 3. Requirements of a serviced plot of land[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Eligibility for entry in the register[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 4. Eligibility for entry in the register[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application for entry in the register[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 5. Application for entry in the register[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Determination of applications[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 6. Determination of applications[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Content of the register[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 7. Content of the register[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Removal of entry from the register[^key-d1afb05b8592aed7c2ac5083ba4ee403]
+## 8. Removal of entry from the register[^c-d1afb05b8592aed7c2ac5083ba4ee403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1afb05b8592aed7c2ac5083ba4ee403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1afb05b8592aed7c2ac5083ba4ee403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1afb05b8592aed7c2ac5083ba4ee403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1afb05b8592aed7c2ac5083ba4ee403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1afb05b8592aed7c2ac5083ba4ee403]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/105) revoked (31.10.2016) by [The Self-build and Custom Housebuilding Regulations 2016 (S.I. 2016/950)](https://www.legislation.gov.uk/uksi/2016/950), [reg. 12](https://www.legislation.gov.uk/uksi/2016/950/regulation/12)
+[^c-d1afb05b8592aed7c2ac5083ba4ee403]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/105) revoked (31.10.2016) by [The Self-build and Custom Housebuilding Regulations 2016 (S.I. 2016/950)](https://www.legislation.gov.uk/uksi/2016/950), [reg. 12](https://www.legislation.gov.uk/uksi/2016/950/regulation/12)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Further duties about terms of service[^key-cae097df043990044db155aee9a2c301]
+## 72. Further duties about terms of service[^c-cae097df043990044db155aee9a2c301]
 
 *Extent: E+W+S+N.I.*
 
 All services
 
-(1)[^key-7fea5b0faf5f6328d651d7abdef174cd] A provider of a regulated user-to-user service must include clear and accessible provisions in the terms of service informing users about their right to bring a claim for breach of contract if—
+(1)[^c-7fea5b0faf5f6328d651d7abdef174cd] A provider of a regulated user-to-user service must include clear and accessible provisions in the terms of service informing users about their right to bring a claim for breach of contract if—
 
 - (a) regulated user-generated content which they generate, upload or share is taken down, or access to it is restricted, in breach of the terms of service, or
 - (b) they are suspended or banned from using the service in breach of the terms of service.
@@ -71,14 +71,14 @@ Category 1 services
 
 Further provision
 
-(10)[^key-7fea5b0faf5f6328d651d7abdef174cd] If a person is the provider of more than one regulated user-to-user service or Category 1 service, the duties set out in this section apply in relation to each such service.
+(10)[^c-7fea5b0faf5f6328d651d7abdef174cd] If a person is the provider of more than one regulated user-to-user service or Category 1 service, the duties set out in this section apply in relation to each such service.
 
-(11)[^key-7fea5b0faf5f6328d651d7abdef174cd] The duties set out in this section extend only to the design, operation and use of a service in the United Kingdom, and references to users are to United Kingdom users of a service.
+(11)[^c-7fea5b0faf5f6328d651d7abdef174cd] The duties set out in this section extend only to the design, operation and use of a service in the United Kingdom, and references to users are to United Kingdom users of a service.
 
 (12) See also section 18 (duties to protect news publisher content).
 
 ## Annotations
 
-[^key-cae097df043990044db155aee9a2c301]: Commencement: S. 72 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-cae097df043990044db155aee9a2c301]: Commencement: S. 72 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7fea5b0faf5f6328d651d7abdef174cd]: Commencement: [S. 72(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/72/1)[(10)](https://www.legislation.gov.uk/ukpga/2023/50/section/72/10)[(11)](https://www.legislation.gov.uk/ukpga/2023/50/section/72/11) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/u)
+[^c-7fea5b0faf5f6328d651d7abdef174cd]: Commencement: [S. 72(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/72/1)[(10)](https://www.legislation.gov.uk/ukpga/2023/50/section/72/10)[(11)](https://www.legislation.gov.uk/ukpga/2023/50/section/72/11) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/u)

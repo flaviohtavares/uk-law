@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**28.**[^key-99626898b4c2784725ccf4da469f6501][^key-0d99b5dc807fe2b482bfb07415bb6949] The part of the Crick ward of the community of Caerwent shown hatched on Map 24—
+**28.**[^c-99626898b4c2784725ccf4da469f6501][^c-0d99b5dc807fe2b482bfb07415bb6949] The part of the Crick ward of the community of Caerwent shown hatched on Map 24—
 
 - (a) is transferred to the Dinham ward of the community of Caerwent;
 - (b) forms part of the electoral ward of Caerwent.
 
 ## Annotations
 
-[^key-99626898b4c2784725ccf4da469f6501]: Commencement: Art. 28 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-99626898b4c2784725ccf4da469f6501]: Commencement: Art. 28 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-0d99b5dc807fe2b482bfb07415bb6949]: Commencement: [Art. 28](https://www.legislation.gov.uk/wsi/2021/1227/article/28) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-0d99b5dc807fe2b482bfb07415bb6949]: Commencement: [Art. 28](https://www.legislation.gov.uk/wsi/2021/1227/article/28) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

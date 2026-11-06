@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Representations pending negotiation of contract.[^key-4e2f50ba1d8fca0af4a0acf9002b6de8]
+## 20. Representations pending negotiation of contract.[^c-4e2f50ba1d8fca0af4a0acf9002b6de8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e2f50ba1d8fca0af4a0acf9002b6de8]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/20) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/2), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/3), [22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))
+[^c-4e2f50ba1d8fca0af4a0acf9002b6de8]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/20) omitted (12.8.2016) by virtue of [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/2), [23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2) (with [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2015/4/section/21/3), [22(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/1))

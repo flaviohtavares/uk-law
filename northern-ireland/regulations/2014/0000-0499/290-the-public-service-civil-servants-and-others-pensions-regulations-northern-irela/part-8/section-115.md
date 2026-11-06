@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Annual rate of eligible child’s pension[^key-d91a65daff1c57f6c08ed42895dbf4a2]
+## 115. Annual rate of eligible child’s pension[^c-d91a65daff1c57f6c08ed42895dbf4a2]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d91a65daff1c57f6c08ed42895dbf4a2]: Commencement: [Reg. 115](https://www.legislation.gov.uk/nisr/2014/290/regulation/115) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-d91a65daff1c57f6c08ed42895dbf4a2]: Commencement: [Reg. 115](https://www.legislation.gov.uk/nisr/2014/290/regulation/115) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

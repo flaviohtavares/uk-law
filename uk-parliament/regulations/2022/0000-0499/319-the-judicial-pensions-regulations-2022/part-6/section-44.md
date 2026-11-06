@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Application of Part[^key-ae36c1f5fe1d68c87543690b34bf0ddd]
+## 44. Application of Part[^c-ae36c1f5fe1d68c87543690b34bf0ddd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part applies in relation to retirement benefits payable in respect of a con
 
 ## Annotations
 
-[^key-ae36c1f5fe1d68c87543690b34bf0ddd]: Commencement: Reg. 44 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-ae36c1f5fe1d68c87543690b34bf0ddd]: Commencement: Reg. 44 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

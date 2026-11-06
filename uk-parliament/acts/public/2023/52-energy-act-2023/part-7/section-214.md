@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Payment as alternative to complying with certain energy company obligations[^key-ad086af17aff317cd69b889dec6727eb]
+## 214. Payment as alternative to complying with certain energy company obligations[^c-ad086af17aff317cd69b889dec6727eb]
 
 *Extent: E+W+S*
 
@@ -150,4 +150,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad086af17aff317cd69b889dec6727eb]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/52/section/214) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-ad086af17aff317cd69b889dec6727eb]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/52/section/214) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)

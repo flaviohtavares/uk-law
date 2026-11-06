@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Data protection by design: children’s higher protection matters[^key-b6c07c3c1de49ee6d91d6c1db8563f6f][^key-e38267537636dd115311b94c5bd36620]
+## 81. Data protection by design: children’s higher protection matters[^c-b6c07c3c1de49ee6d91d6c1db8563f6f][^c-e38267537636dd115311b94c5bd36620]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6c07c3c1de49ee6d91d6c1db8563f6f]: Commencement: S. 81 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-b6c07c3c1de49ee6d91d6c1db8563f6f]: Commencement: S. 81 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-e38267537636dd115311b94c5bd36620]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2025/18/section/81) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/k)
+[^c-e38267537636dd115311b94c5bd36620]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2025/18/section/81) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/k)

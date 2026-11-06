@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79.29. Application by appropriate Minister for reconsideration of order, direction or judgment[^key-a1accc8b3c27de745fb74740b9e24225][^key-4ffef7825140b9066d7b4aa44435eb2c]
+## 79.29. Application by appropriate Minister for reconsideration of order, direction or judgment[^c-a1accc8b3c27de745fb74740b9e24225][^c-4ffef7825140b9066d7b4aa44435eb2c]
 
 *Extent: E+W*
 
-(1) This rule applies where the court proposes, in any proceedings to which Section 2 or 3 of[^key-02c9e00a396d64d47a8b957cc6c025dd] this Part applies, to serve on a party other than the appropriate Minister[^key-0ea8cc373405405148e388756285683c] —
+(1) This rule applies where the court proposes, in any proceedings to which Section 2 or 3 of[^c-02c9e00a396d64d47a8b957cc6c025dd] this Part applies, to serve on a party other than the appropriate Minister[^c-0ea8cc373405405148e388756285683c] —
 
 - (a) notice of any order or direction made or given in the absence of the appropriate Minister; or
 - (b) any written judgment.
 
 (2) Before the court serves any such notice or judgment on a party other than the appropriate Minister, it will first serve notice on the appropriate Minister of its intention to do so.
 
-(3) the appropriate Minister may, within 5 days of being served with notice under paragraph (2), apply to the court to reconsider the terms of the order or direction or to review the terms of the proposed judgment if the appropriate Minister considers[^key-7487fc4efff748fbc216f543f2a04f43]—
+(3) the appropriate Minister may, within 5 days of being served with notice under paragraph (2), apply to the court to reconsider the terms of the order or direction or to review the terms of the proposed judgment if the appropriate Minister considers[^c-7487fc4efff748fbc216f543f2a04f43]—
 
-- (a) the appropriate Minister’s[^key-6b71670575cc9d91c3e0ef7641f6aef6] compliance with the order or direction; or
+- (a) the appropriate Minister’s[^c-6b71670575cc9d91c3e0ef7641f6aef6] compliance with the order or direction; or
 - (b) the notification to another party of any matter contained in the judgment, order or direction,
 
 would cause information to be disclosed contrary to the public interest.
 
-(4) Where the appropriate Minister makes[^key-70175deb95b1c5198a3a8184e0d31734] an application under paragraph (3), the appropriate Minister[^key-0aa7f290bdff2b70f0a4018d2b673e2c] must at the same time serve on a special advocate, if one has been appointed—
+(4) Where the appropriate Minister makes[^c-70175deb95b1c5198a3a8184e0d31734] an application under paragraph (3), the appropriate Minister[^c-0aa7f290bdff2b70f0a4018d2b673e2c] must at the same time serve on a special advocate, if one has been appointed—
 
 - (a) a copy of the application;
 - (b) a copy of the relevant document referred to in paragraph (1)(a) or (b); and
@@ -46,18 +46,18 @@ would cause information to be disclosed contrary to the public interest.
 
 ## Annotations
 
-[^key-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
+[^c-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
 
-[^key-4ffef7825140b9066d7b4aa44435eb2c]: Textual amendment: Words in [rule 79.29 heading](https://www.legislation.gov.uk/uksi/1998/3132/part/79/crossheading/general-provisions) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(a)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/a)
+[^c-4ffef7825140b9066d7b4aa44435eb2c]: Textual amendment: Words in [rule 79.29 heading](https://www.legislation.gov.uk/uksi/1998/3132/part/79/crossheading/general-provisions) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(a)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/a)
 
-[^key-02c9e00a396d64d47a8b957cc6c025dd]: Textual amendment: Words in [rule 79.29(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/1) inserted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [18(i)](https://www.legislation.gov.uk/uksi/2009/2092/rule/18/i)
+[^c-02c9e00a396d64d47a8b957cc6c025dd]: Textual amendment: Words in [rule 79.29(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/1) inserted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [18(i)](https://www.legislation.gov.uk/uksi/2009/2092/rule/18/i)
 
-[^key-0ea8cc373405405148e388756285683c]: Textual amendment: Words in [rule 79.29](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(b)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/b)
+[^c-0ea8cc373405405148e388756285683c]: Textual amendment: Words in [rule 79.29](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(b)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/b)
 
-[^key-7487fc4efff748fbc216f543f2a04f43]: Textual amendment: Words in [rule 79.29(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/3) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(c)(i)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/c/i)
+[^c-7487fc4efff748fbc216f543f2a04f43]: Textual amendment: Words in [rule 79.29(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/3) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(c)(i)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/c/i)
 
-[^key-6b71670575cc9d91c3e0ef7641f6aef6]: Textual amendment: Words in [rule 79.29(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/3) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/c/ii)
+[^c-6b71670575cc9d91c3e0ef7641f6aef6]: Textual amendment: Words in [rule 79.29(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/3) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/c/ii)
 
-[^key-70175deb95b1c5198a3a8184e0d31734]: Textual amendment: Word in [rule 79.29(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/4) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(d)(i)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/d/i)
+[^c-70175deb95b1c5198a3a8184e0d31734]: Textual amendment: Word in [rule 79.29(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/4) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(d)(i)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/d/i)
 
-[^key-0aa7f290bdff2b70f0a4018d2b673e2c]: Textual amendment: Words in [rule 79.29(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/4) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/d/ii)
+[^c-0aa7f290bdff2b70f0a4018d2b673e2c]: Textual amendment: Words in [rule 79.29(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.29/4) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(21)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/21/d/ii)

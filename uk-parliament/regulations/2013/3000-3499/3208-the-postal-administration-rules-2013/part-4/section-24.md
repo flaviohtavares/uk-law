@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Creditors’ meeting for nomination of alternative liquidator[^key-8cd2859ed875b178af8fe6023317168a]
+## 24. Creditors’ meeting for nomination of alternative liquidator[^c-8cd2859ed875b178af8fe6023317168a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ but this paragraph does not apply if the requesting creditor’s debt is alone s
 
 ## Annotations
 
-[^key-8cd2859ed875b178af8fe6023317168a]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2013/3208/rule/24) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8cd2859ed875b178af8fe6023317168a]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2013/3208/rule/24) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

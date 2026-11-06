@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Regulation-making powers[^key-e90392dbd1104f4ffb6c8af078a3f532]
+## 26. Regulation-making powers[^c-e90392dbd1104f4ffb6c8af078a3f532]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e90392dbd1104f4ffb6c8af078a3f532]: Commencement: S. 26 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)
+[^c-e90392dbd1104f4ffb6c8af078a3f532]: Commencement: S. 26 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)

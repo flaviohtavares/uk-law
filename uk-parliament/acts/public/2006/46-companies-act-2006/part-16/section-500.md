@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 500. Auditor's right to information from overseas subsidiaries[^c20599001][^c20599071][^c20617871][^key-64e59957c328355f1031d968c70a6d9f][^c19903061][^c19902951][^c19902901]
+## 500. Auditor's right to information from overseas subsidiaries[^c20599001][^c20599071][^c20617871][^c-64e59957c328355f1031d968c70a6d9f][^c19903061][^c19902951][^c19902901]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 [^c20617871]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-64e59957c328355f1031d968c70a6d9f]: Modification: Ss. 498-501 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-64e59957c328355f1031d968c70a6d9f]: Modification: Ss. 498-501 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
 [^c19903061]: Modification: Ss. 499-501 applied (with modifications) (6.4.2008) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [Sch. 1 para. 16D](https://www.legislation.gov.uk/ukpga/1996/52/schedule/1/paragraph/16D) (as substituted by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1), [Sch. 1 para. 202(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/202/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12)))
 

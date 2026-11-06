@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Vehicles propelled by natural gas[^key-108700554efded524f682704c898bb55]
+## 56. Vehicles propelled by natural gas[^c-108700554efded524f682704c898bb55]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108700554efded524f682704c898bb55]: Commencement: Art. 56 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-108700554efded524f682704c898bb55]: Commencement: Art. 56 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

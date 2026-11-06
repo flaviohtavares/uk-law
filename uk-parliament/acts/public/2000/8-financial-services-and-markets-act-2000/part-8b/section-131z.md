@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131Z. Disciplinary measures[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]
+## 131Z. Disciplinary measures[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of enforcing a requirement imposed by or under this Part, Part 
 
 ## Annotations
 
-[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/ukpga/2000/8/part/8B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1)
+[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/ukpga/2000/8/part/8B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1)

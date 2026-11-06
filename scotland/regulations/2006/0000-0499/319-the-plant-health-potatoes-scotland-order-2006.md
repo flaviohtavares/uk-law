@@ -44,7 +44,7 @@ Coming into force in accordance with articles 1 (1 ) and (2)
 
 The Scottish Ministers, in exercise of the powers conferred by sections 3 and 4(1) of the Plant Health Act 1967[^f00001], as read with section 20 of the Agriculture (Miscellaneous Provisions) Act 1972[^f00002], and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and extent[^key-7fa60bc887e655ad4f07ea2028eeb825]
+## 1. Citation, commencement and extent[^c-7fa60bc887e655ad4f07ea2028eeb825]
 
 (1) This Order may be cited as the Plant Health (Potatoes) (Scotland) Order 2006 and, subject to paragraph (2), shall come into force on 1st July 2006.
 
@@ -52,7 +52,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3 and 4(
 
 (3) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-c43fb64b08f73ed7949e0fda7085d178]
+## 2. Interpretation[^c-c43fb64b08f73ed7949e0fda7085d178]
 
 (1) In this Order–
 
@@ -60,7 +60,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3 and 4(
 - “affected waste potato material” means waste potato material affected by potato blight;
 - “aphid” means an insect from the family Aphididae;
 - “crop origin” means the country of origin and crop identification number of the crop of seed potatoes or crop identification number of the crop of seed potatoes from which the potatoes derived;
-- “inspector” means a plant health inspector for the purposes of the Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019[^key-6f59f4fe7ade2810560b907d6091fc87];
+- “inspector” means a plant health inspector for the purposes of the Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019[^c-6f59f4fe7ade2810560b907d6091fc87];
 - “notifiable crop” means a single crop of potatoes planted over an area of 0.1 hectare or more;
 - “potato” means any tuber or part thereof or any plant or part thereof of *Solanum tuberosum* L. or other tuber-forming species or hybrids of *Solanum* L.;
 - “potato blight” means *Phytophthora infestans* L.;
@@ -73,7 +73,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3 and 4(
 - (a) any reference to a numbered article is a reference to the article in this Order so numbered; and
 - (b) any reference to a numbered paragraph is a reference to the paragraph so numbered in the article or in which that reference occurs.
 
-## 3. Notification of potatoes for planting[^key-4e7cd319b438f7acd14fddab2b3b93b9]
+## 3. Notification of potatoes for planting[^c-4e7cd319b438f7acd14fddab2b3b93b9]
 
 (1) A potato grower who plants a notifiable crop within Scotland s hall within 28 days of the commencement of planting notify the Scottish Ministers in such form and manner as they may require of the matters specified in paragraph (2).
 
@@ -87,21 +87,21 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3 and 4(
 - (f) the crop origin; and
 - (g) the variety of potatoes planted;
 
-## 4. Inspection and control of potato crop health[^key-8ce4295956eab176b4e79e852c2e9255]
+## 4. Inspection and control of potato crop health[^c-8ce4295956eab176b4e79e852c2e9255]
 
 (1) An inspector may at any reasonable time enter on to any premises on which potatoes have been planted or on which that inspector reasonably believes potatoes have been planted and carry out such investigations as the inspector considers necessary for the purpose of establishing whether a crop of potatoes is–
 
 - (a) a notifiable crop that has not been notified to the Scottish Ministers in accordance with article 3; or
 - (b) an affected crop which poses a risk of infection by aphid-borne viruses to other potato crops.
 
-(2)[^key-a6bf4b98c3fa2875df33c24f75abbab5] An inspector may take and remove samples of potato to confirm the existence or otherwise of infection for the purposes of paragraph (1)(b).
+(2)[^c-a6bf4b98c3fa2875df33c24f75abbab5] An inspector may take and remove samples of potato to confirm the existence or otherwise of infection for the purposes of paragraph (1)(b).
 
 (3) Where an inspector is satisfied that a crop of potatoes is of a type referred to in paragraph (1) then the inspector may serve a notice requiring the potato grower to–
 
 - (a) in the case of a notifiable crop, notify the Scottish Ministers within such period as is specified in the notice of the matters specified in article 3(2); and
 - (b) in the case of an affected crop, destroy the haulm of that crop within a period of 72 hours from the service or deemed service of the notice, and to take such other steps in such manner and within such time a s may be specified in the notice as appear to the inspector to be necessary to prevent the spread of infection of aphid-borne viruses to other potato crops.
 
-## 4A. Inspection and control of potato crop health Dickeya spp.[^key-00ddb172be62bbb6ab57c86b94d98488]
+## 4A. Inspection and control of potato crop health Dickeya spp.[^c-00ddb172be62bbb6ab57c86b94d98488]
 
 (1) An inspector may at any reasonable time enter on to any premises on which the inspector reasonably believes that potatoes have been planted, stored, processed or packed and carry out such investigations as the inspector considers necessary for the purpose of establishing whether any potatoes are infected with *Dickeya* spp..
 
@@ -109,13 +109,13 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3 and 4(
 
 (3) Where an inspector reasonably suspects that potatoes are infected with *Dickeya* spp. the inspector may serve a notice requiring the potato grower or occupier of the premises to take such steps, in such manner and within such time as may be specified in the notice, as appear to the inspector to be necessary to prevent the spread of *Dickeya* spp. to other potatoes.
 
-## 5. Inspection and control of waste potato material[^key-713941934f22169959685d30c0664b49]
+## 5. Inspection and control of waste potato material[^c-713941934f22169959685d30c0664b49]
 
 (1) An inspector may at any reasonable time enter on to any premises for the purpose of identifying any area where waste potato material is kept and may carry out such inspection of any such area for the purpose of establishing the existence or otherwise of potato blight.
 
 (2) A potato grower or occupier of the premises shall comply with a request by an inspector to identify where any waste potato material is kept.
 
-(3)[^key-d8e2596732c96b075beee5c42a82cd20] An inspector may take and remove samples of waste potato material for the purpose of confirming the existence or otherwise of potato blight.
+(3)[^c-d8e2596732c96b075beee5c42a82cd20] An inspector may take and remove samples of waste potato material for the purpose of confirming the existence or otherwise of potato blight.
 
 (4) Where an inspector is satisfied that an area identified under paragraph (1) or (2)–
 
@@ -124,9 +124,9 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3 and 4(
 
 the inspector may serve a notice requiring the potato grower or occupier of the premises to take such steps, within 72 hours of service or deemed service of the notice, as are specified in the notice and are in the opinion of the inspector necessary to remove the risk specified in sub-paragraph (b).
 
-## 6. Service of notices[^key-32d8efaa420b05db5c4d644ec444f9b4]
+## 6. Service of notices[^c-32d8efaa420b05db5c4d644ec444f9b4]
 
-(1)[^key-abccf03e6a01fb4d9288aac5b5aea5da] A notice under this Order may be given—
+(1)[^c-abccf03e6a01fb4d9288aac5b5aea5da] A notice under this Order may be given—
 
 - (a) in writing; or
 - (b) orally,
@@ -139,7 +139,7 @@ and shall if given orally be confirmed in writing as soon as practicable.
 - (b) by leaving it for that person at that person’s last known place of abode or business; or
 - (c) by sending it through the post addressed to that person at that person’s last known place of abode or business.
 
-(3)[^key-9c869e88e6636f9797a78f675d9211e4] Where a notice is to be served on—
+(3)[^c-9c869e88e6636f9797a78f675d9211e4] Where a notice is to be served on—
 
 - (a) a potato grower under article 4(3); or
 - (b) a potato grower or occupier of premises under article 4A(3) or 5(4),
@@ -154,30 +154,30 @@ and the last known place of abode or business of that person cannot be ascertain
 
 and for the purposes of this paragraph the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom shall be its principal office within the United Kingdom.
 
-## 7. Information as to compliance with notices[^key-f981114b1e1b6c35e73e5d5cf8fb8925]
+## 7. Information as to compliance with notices[^c-f981114b1e1b6c35e73e5d5cf8fb8925]
 
 A person on whom a notice has been served, or is deemed to have been served, under this Order must, if so required by an inspector, immediately inform the inspector whether the requirements of the notice have been complied with and, if they have been complied with, of the details of the steps taken in order to comply with those requirements.
 
-## 8. Failure to comply with notices[^key-f8d2998ca025cace2b8b265fa532fd86]
+## 8. Failure to comply with notices[^c-f8d2998ca025cace2b8b265fa532fd86]
 
-(1)[^key-7fc56571511183f1adfc303fff460524] If any person fails to comply with a notice served or deemed to be served on that person under this Order then, without prejudice to any proceedings consequent upon such failure, an inspector may, after giving the potato grower or occupier of the premises reasonable notice of the inspector’s intention and upon production of the inspector’s authority, enter the premises where the crop, potatoes, soil or waste material is located, or where documents or records pertaining to the crop, potatoes, soil or waste material are located, and take such steps as appear necessary to the inspector to ensure compliance with the requirements of the notice.
+(1)[^c-7fc56571511183f1adfc303fff460524] If any person fails to comply with a notice served or deemed to be served on that person under this Order then, without prejudice to any proceedings consequent upon such failure, an inspector may, after giving the potato grower or occupier of the premises reasonable notice of the inspector’s intention and upon production of the inspector’s authority, enter the premises where the crop, potatoes, soil or waste material is located, or where documents or records pertaining to the crop, potatoes, soil or waste material are located, and take such steps as appear necessary to the inspector to ensure compliance with the requirements of the notice.
 
 (1A) If it appears necessary to the inspector to inspect any document or record kept by means of a computer, then an inspector may have access to, inspect and check the operation of, any computer and any associated apparatus or material which is or is reasonably suspected to have been in use in connection with the record or document.
 
-(2) An inspector on entering premises under paragraph (1) may be accompanied by such persons and such equipment and vehicles as the inspector considers necessary for the purposes of facilitating the exercise of the inspector’s powers under that paragraph or paragraph (1A)[^key-24fe641cd65f185556332f326a94b3ec].
+(2) An inspector on entering premises under paragraph (1) may be accompanied by such persons and such equipment and vehicles as the inspector considers necessary for the purposes of facilitating the exercise of the inspector’s powers under that paragraph or paragraph (1A)[^c-24fe641cd65f185556332f326a94b3ec].
 
-(3) Any person who accompanies an inspector on to premises on which an crop, potatoes, soil or waste material[^key-f5d21276b8bf09573bb2f81755932914] is located in accordance with paragraph (2) may remain on the premises and from time to time return to the premises with any equipment or vehicles that person considers necessary, and carry out such work in such manner as the inspector may direct for the purpose of destroying or otherwise dealing with the crop, potatoes, soil or waste material.
+(3) Any person who accompanies an inspector on to premises on which an crop, potatoes, soil or waste material[^c-f5d21276b8bf09573bb2f81755932914] is located in accordance with paragraph (2) may remain on the premises and from time to time return to the premises with any equipment or vehicles that person considers necessary, and carry out such work in such manner as the inspector may direct for the purpose of destroying or otherwise dealing with the crop, potatoes, soil or waste material.
 
-(4) Where an inspector takes or directs any steps pursuant to paragraph (1), (1A), (2) or (3)[^key-e1e9df1bdfb24373ccd2d2533739f2f9], the Scottish Ministers may recover all reasonable costs of taking such steps as a debt from the person on whom notice was served.
+(4) Where an inspector takes or directs any steps pursuant to paragraph (1), (1A), (2) or (3)[^c-e1e9df1bdfb24373ccd2d2533739f2f9], the Scottish Ministers may recover all reasonable costs of taking such steps as a debt from the person on whom notice was served.
 
-## 9. Entry to dwellinghouses[^key-9e760ba8d8054d019726ed10bf7f2409][^key-bccf25236b2df278991d490e62a560be]
+## 9. Entry to dwellinghouses[^c-9e760ba8d8054d019726ed10bf7f2409][^c-bccf25236b2df278991d490e62a560be]
 
-(1)[^key-33c89284caf4ee98e49e1d1ebdab7d47] The power to enter premises conferred by articles 4(1), 4A(1), 5(1) and 8(1) may be exercised by an inspector to enter premises used wholly or mainly as a dwelling only if the inspector has been granted a warrant by a sheriff or a justice of the peace.
+(1)[^c-33c89284caf4ee98e49e1d1ebdab7d47] The power to enter premises conferred by articles 4(1), 4A(1), 5(1) and 8(1) may be exercised by an inspector to enter premises used wholly or mainly as a dwelling only if the inspector has been granted a warrant by a sheriff or a justice of the peace.
 
 (2) A sheriff or a justice of the peace may grant a warrant under paragraph (1) only if satisfied–
 
-- (a) that admission to any premises has been refused, or is likely to be refused, or that the case is one of urgency , or that a request for admission might prejudice the purpose of the entry[^key-278ef3d5d032d256a32bf1ef6a3250ae]; and
-- (b) that there are reasonable grounds to allow entry for the purpose of articles 4(1), 4A(1), 5(1) or 8(1)[^key-862ac073a84d88cd2bd02fab1fc39392] as the case may be.
+- (a) that admission to any premises has been refused, or is likely to be refused, or that the case is one of urgency , or that a request for admission might prejudice the purpose of the entry[^c-278ef3d5d032d256a32bf1ef6a3250ae]; and
+- (b) that there are reasonable grounds to allow entry for the purpose of articles 4(1), 4A(1), 5(1) or 8(1)[^c-862ac073a84d88cd2bd02fab1fc39392] as the case may be.
 
 (3) A warrant granted under paragraph (1) shall remain in force–
 
@@ -186,13 +186,13 @@ A person on whom a notice has been served, or is deemed to have been served, und
 
 whichever period is the shorter.
 
-## 10. Offences[^key-35d295f36fc62a68c03ce348bffd2e00]
+## 10. Offences[^c-35d295f36fc62a68c03ce348bffd2e00]
 
 (1) A person shall be guilty of an offence if without reasonable excuse, proof of which shall lie with that person–
 
 - (a) that person contravenes or fails to comply with–
   - (i) article 3;
-  - (ii) article 5(2)[^key-da43a01e69afc1c8527ee8951bcf0add] or
+  - (ii) article 5(2)[^c-da43a01e69afc1c8527ee8951bcf0add] or
   - (iii) a provision or condition of a notice served, or deemed to be served, on that person under this Order; or
 - (b) that person intentionally obstructs an inspector or any person acting under the direction of an inspector in exercise of the powers given by or under this Order.
 
@@ -214,13 +214,13 @@ that individual, as well as the body corporate, shall be guilty of the offence a
 
 (6) Where the commission by any person of an offence under this Order is due to the act or default of some other person, that other person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceeding s for the offence are taken against the first mentioned person.
 
-(7)[^key-57c06043aeeed7633ca70c9e1276dae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-57c06043aeeed7633ca70c9e1276dae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Penalties[^key-cce8c248b347f6901f6ce95d1a9c28c2]
+## 11. Penalties[^c-cce8c248b347f6901f6ce95d1a9c28c2]
 
 A person guilty of an offence under this Order shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 12. Written and electronic communication[^key-81c7c860b11d25f2c81e144861c853f3]
+## 12. Written and electronic communication[^c-81c7c860b11d25f2c81e144861c853f3]
 
 (1) All notices and requests to which this Order applies shall be made or followed up in writing.
 
@@ -265,60 +265,60 @@ No Regulatory Impact Assessment has been prepared in relation to this Order.
 
 [^f00002]: Footnote: [1972 c. 62](https://www.legislation.gov.uk/ukpga/1972/62).
 
-[^key-7fa60bc887e655ad4f07ea2028eeb825]: Commencement: Art. 1 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-7fa60bc887e655ad4f07ea2028eeb825]: Commencement: Art. 1 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-c43fb64b08f73ed7949e0fda7085d178]: Commencement: Art. 2 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-c43fb64b08f73ed7949e0fda7085d178]: Commencement: Art. 2 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-6f59f4fe7ade2810560b907d6091fc87]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/319/article/2/1) substituted (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/5)
+[^c-6f59f4fe7ade2810560b907d6091fc87]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/319/article/2/1) substituted (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/5)
 
-[^key-4e7cd319b438f7acd14fddab2b3b93b9]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2006/319/article/3) in force at 1.1.2007, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2006/319/article/1/2)
+[^c-4e7cd319b438f7acd14fddab2b3b93b9]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2006/319/article/3) in force at 1.1.2007, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2006/319/article/1/2)
 
-[^key-8ce4295956eab176b4e79e852c2e9255]: Commencement: Art. 4 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-8ce4295956eab176b4e79e852c2e9255]: Commencement: Art. 4 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-a6bf4b98c3fa2875df33c24f75abbab5]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/ssi/2006/319/article/4/2) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [3](https://www.legislation.gov.uk/ssi/2010/99/article/3)
+[^c-a6bf4b98c3fa2875df33c24f75abbab5]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/ssi/2006/319/article/4/2) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [3](https://www.legislation.gov.uk/ssi/2010/99/article/3)
 
-[^key-00ddb172be62bbb6ab57c86b94d98488]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/ssi/2006/319/article/4A) inserted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [4](https://www.legislation.gov.uk/ssi/2010/99/article/4)
+[^c-00ddb172be62bbb6ab57c86b94d98488]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/ssi/2006/319/article/4A) inserted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [4](https://www.legislation.gov.uk/ssi/2010/99/article/4)
 
-[^key-713941934f22169959685d30c0664b49]: Commencement: Art. 5 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-713941934f22169959685d30c0664b49]: Commencement: Art. 5 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-d8e2596732c96b075beee5c42a82cd20]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/ssi/2006/319/article/5/3) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [5](https://www.legislation.gov.uk/ssi/2010/99/article/5)
+[^c-d8e2596732c96b075beee5c42a82cd20]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/ssi/2006/319/article/5/3) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [5](https://www.legislation.gov.uk/ssi/2010/99/article/5)
 
-[^key-32d8efaa420b05db5c4d644ec444f9b4]: Commencement: Art. 6 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-32d8efaa420b05db5c4d644ec444f9b4]: Commencement: Art. 6 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-abccf03e6a01fb4d9288aac5b5aea5da]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/ssi/2006/319/article/6/1) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [6(a)](https://www.legislation.gov.uk/ssi/2010/99/article/6/a)
+[^c-abccf03e6a01fb4d9288aac5b5aea5da]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/ssi/2006/319/article/6/1) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [6(a)](https://www.legislation.gov.uk/ssi/2010/99/article/6/a)
 
-[^key-9c869e88e6636f9797a78f675d9211e4]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/ssi/2006/319/article/6/3) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [6(b)](https://www.legislation.gov.uk/ssi/2010/99/article/6/b)
+[^c-9c869e88e6636f9797a78f675d9211e4]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/ssi/2006/319/article/6/3) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [6(b)](https://www.legislation.gov.uk/ssi/2010/99/article/6/b)
 
-[^key-f981114b1e1b6c35e73e5d5cf8fb8925]: Commencement: Art. 7 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-f981114b1e1b6c35e73e5d5cf8fb8925]: Commencement: Art. 7 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-f8d2998ca025cace2b8b265fa532fd86]: Commencement: Art. 8 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-f8d2998ca025cace2b8b265fa532fd86]: Commencement: Art. 8 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-7fc56571511183f1adfc303fff460524]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/ssi/2006/319/article/8/1)[(1A)](https://www.legislation.gov.uk/ssi/2006/319/article/8/1A) substituted for [art. 8(1)](https://www.legislation.gov.uk/ssi/2006/319/article/8/1) (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(a)](https://www.legislation.gov.uk/ssi/2010/99/article/7/a)
+[^c-7fc56571511183f1adfc303fff460524]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/ssi/2006/319/article/8/1)[(1A)](https://www.legislation.gov.uk/ssi/2006/319/article/8/1A) substituted for [art. 8(1)](https://www.legislation.gov.uk/ssi/2006/319/article/8/1) (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(a)](https://www.legislation.gov.uk/ssi/2010/99/article/7/a)
 
-[^key-24fe641cd65f185556332f326a94b3ec]: Textual amendment: Words in [art. 8(2)](https://www.legislation.gov.uk/ssi/2006/319/article/8/2) inserted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(b)](https://www.legislation.gov.uk/ssi/2010/99/article/7/b)
+[^c-24fe641cd65f185556332f326a94b3ec]: Textual amendment: Words in [art. 8(2)](https://www.legislation.gov.uk/ssi/2006/319/article/8/2) inserted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(b)](https://www.legislation.gov.uk/ssi/2010/99/article/7/b)
 
-[^key-f5d21276b8bf09573bb2f81755932914]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/ssi/2006/319/article/8/3) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(c)](https://www.legislation.gov.uk/ssi/2010/99/article/7/c)
+[^c-f5d21276b8bf09573bb2f81755932914]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/ssi/2006/319/article/8/3) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(c)](https://www.legislation.gov.uk/ssi/2010/99/article/7/c)
 
-[^key-e1e9df1bdfb24373ccd2d2533739f2f9]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/ssi/2006/319/article/8/4) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(d)](https://www.legislation.gov.uk/ssi/2010/99/article/7/d)
+[^c-e1e9df1bdfb24373ccd2d2533739f2f9]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/ssi/2006/319/article/8/4) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [7(d)](https://www.legislation.gov.uk/ssi/2010/99/article/7/d)
 
-[^key-9e760ba8d8054d019726ed10bf7f2409]: Commencement: Art. 9 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-9e760ba8d8054d019726ed10bf7f2409]: Commencement: Art. 9 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-bccf25236b2df278991d490e62a560be]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/ssi/2006/319/article/9) heading substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(a)](https://www.legislation.gov.uk/ssi/2010/99/article/8/a)
+[^c-bccf25236b2df278991d490e62a560be]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/ssi/2006/319/article/9) heading substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(a)](https://www.legislation.gov.uk/ssi/2010/99/article/8/a)
 
-[^key-33c89284caf4ee98e49e1d1ebdab7d47]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/ssi/2006/319/article/9/1) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(b)](https://www.legislation.gov.uk/ssi/2010/99/article/8/b)
+[^c-33c89284caf4ee98e49e1d1ebdab7d47]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/ssi/2006/319/article/9/1) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(b)](https://www.legislation.gov.uk/ssi/2010/99/article/8/b)
 
-[^key-278ef3d5d032d256a32bf1ef6a3250ae]: Textual amendment: Words in [art. 9(2)(a)](https://www.legislation.gov.uk/ssi/2006/319/article/9/2/a) inserted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(c)](https://www.legislation.gov.uk/ssi/2010/99/article/8/c)
+[^c-278ef3d5d032d256a32bf1ef6a3250ae]: Textual amendment: Words in [art. 9(2)(a)](https://www.legislation.gov.uk/ssi/2006/319/article/9/2/a) inserted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(c)](https://www.legislation.gov.uk/ssi/2010/99/article/8/c)
 
-[^key-862ac073a84d88cd2bd02fab1fc39392]: Textual amendment: Words in [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2006/319/article/9/2/b) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(d)](https://www.legislation.gov.uk/ssi/2010/99/article/8/d)
+[^c-862ac073a84d88cd2bd02fab1fc39392]: Textual amendment: Words in [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2006/319/article/9/2/b) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [8(d)](https://www.legislation.gov.uk/ssi/2010/99/article/8/d)
 
-[^key-35d295f36fc62a68c03ce348bffd2e00]: Commencement: Art. 10 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-35d295f36fc62a68c03ce348bffd2e00]: Commencement: Art. 10 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-da43a01e69afc1c8527ee8951bcf0add]: Textual amendment: Words in [art. 10(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2006/319/article/10/1/a/ii) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [9(a)](https://www.legislation.gov.uk/ssi/2010/99/article/9/a)
+[^c-da43a01e69afc1c8527ee8951bcf0add]: Textual amendment: Words in [art. 10(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2006/319/article/10/1/a/ii) substituted (29.3.2010) by [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [9(a)](https://www.legislation.gov.uk/ssi/2010/99/article/9/a)
 
-[^key-57c06043aeeed7633ca70c9e1276dae4]: Textual amendment: [Art. 10(7)](https://www.legislation.gov.uk/ssi/2006/319/article/10/7) omitted (29.3.2010) by virtue of [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [9(b)](https://www.legislation.gov.uk/ssi/2010/99/article/9/b)
+[^c-57c06043aeeed7633ca70c9e1276dae4]: Textual amendment: [Art. 10(7)](https://www.legislation.gov.uk/ssi/2006/319/article/10/7) omitted (29.3.2010) by virtue of [The Plant Health (Potatoes) (Scotland) Amendment Order 2010 (S.S.I. 2010/99)](https://www.legislation.gov.uk/ssi/2010/99), [arts. 1](https://www.legislation.gov.uk/ssi/2010/99/article/1), [9(b)](https://www.legislation.gov.uk/ssi/2010/99/article/9/b)
 
-[^key-cce8c248b347f6901f6ce95d1a9c28c2]: Commencement: Art. 11 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-cce8c248b347f6901f6ce95d1a9c28c2]: Commencement: Art. 11 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
-[^key-81c7c860b11d25f2c81e144861c853f3]: Commencement: Art. 12 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
+[^c-81c7c860b11d25f2c81e144861c853f3]: Commencement: Art. 12 in force at 1.7.2006, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2006/319/article/1/1)
 
 [^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); the definition of “electronic communication” in section 15(1 ) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.

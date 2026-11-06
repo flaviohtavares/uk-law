@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. National policy statements[^key-d81d95e279de79d5b290b28bf5f6eaf9]
+## 130. National policy statements[^c-d81d95e279de79d5b290b28bf5f6eaf9]
 
 *Extent: E+W*
 
@@ -139,4 +139,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d81d95e279de79d5b290b28bf5f6eaf9]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2011/20/section/130) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-d81d95e279de79d5b290b28bf5f6eaf9]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2011/20/section/130) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

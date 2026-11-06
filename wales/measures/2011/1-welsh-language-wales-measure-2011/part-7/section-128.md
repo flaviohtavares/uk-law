@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Specially qualified advisers[^key-3652016c592e3f40e6c8c186a341b20d]
+## 128. Specially qualified advisers[^c-3652016c592e3f40e6c8c186a341b20d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3652016c592e3f40e6c8c186a341b20d]: Commencement: [S. 128](https://www.legislation.gov.uk/mwa/2011/1/section/128) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(h)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/h)
+[^c-3652016c592e3f40e6c8c186a341b20d]: Commencement: [S. 128](https://www.legislation.gov.uk/mwa/2011/1/section/128) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(h)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Defence of due diligence and innocent publication[^key-c8b0f61ca93b4785fa12a124b2200606][^key-fdefe6cddec1ade898ceaede055a14c6]
+## 238. Defence of due diligence and innocent publication[^c-c8b0f61ca93b4785fa12a124b2200606][^c-fdefe6cddec1ade898ceaede055a14c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8b0f61ca93b4785fa12a124b2200606]: Commencement: S. 238 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c8b0f61ca93b4785fa12a124b2200606]: Commencement: S. 238 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fdefe6cddec1ade898ceaede055a14c6]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2024/13/section/238) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-fdefe6cddec1ade898ceaede055a14c6]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2024/13/section/238) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

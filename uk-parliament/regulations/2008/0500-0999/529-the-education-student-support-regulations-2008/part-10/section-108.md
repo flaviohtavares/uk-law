@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Payment of fee loans and fee contribution loans[^key-753b6f1003882cabaaee934602456a40]
+## 108. Payment of fee loans and fee contribution loans[^c-753b6f1003882cabaaee934602456a40]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-753b6f1003882cabaaee934602456a40]: Commencement: Reg. 108 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-753b6f1003882cabaaee934602456a40]: Commencement: Reg. 108 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Sheriff court rules[^key-e37daa5ccd12dbbce545343bbd23fdd9]
+## 127. Sheriff court rules[^c-e37daa5ccd12dbbce545343bbd23fdd9]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ In the Sheriff Courts (Scotland) Act 1971—
 
 ## Annotations
 
-[^key-e37daa5ccd12dbbce545343bbd23fdd9]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2010/16/section/127) in force at 1.9.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 7](https://www.legislation.gov.uk/ssi/2011/180/article/7)
+[^c-e37daa5ccd12dbbce545343bbd23fdd9]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2010/16/section/127) in force at 1.9.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 7](https://www.legislation.gov.uk/ssi/2011/180/article/7)

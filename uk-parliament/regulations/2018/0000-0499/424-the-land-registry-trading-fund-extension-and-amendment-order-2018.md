@@ -32,7 +32,7 @@ summary: ''
 
 Government Trading Funds
 
-The Land Registry Trading Fund (Extension and Amendment) Order 2018 (revoked)[^key-3d120c366564452fd75820bbe0f75373]
+The Land Registry Trading Fund (Extension and Amendment) Order 2018 (revoked)[^c-3d120c366564452fd75820bbe0f75373]
 
 Made
 
@@ -40,48 +40,48 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-3d120c366564452fd75820bbe0f75373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d120c366564452fd75820bbe0f75373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3d120c366564452fd75820bbe0f75373]
+## 1. Citation and commencement[^c-3d120c366564452fd75820bbe0f75373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension and Amendment of the 1993 Order[^key-3d120c366564452fd75820bbe0f75373]
+## 2. Extension and Amendment of the 1993 Order[^c-3d120c366564452fd75820bbe0f75373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d120c366564452fd75820bbe0f75373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d120c366564452fd75820bbe0f75373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE 1 TO THE 1993 ORDER AS SUBSTITUTED BY THIS ORDER[^key-3d120c366564452fd75820bbe0f75373]
+## SCHEDULE — SCHEDULE 1 TO THE 1993 ORDER AS SUBSTITUTED BY THIS ORDER[^c-3d120c366564452fd75820bbe0f75373]
 
 Article 2
 
-> **SCHEDULE 1 — THE FUNDED OPERATIONS[^key-3d120c366564452fd75820bbe0f75373]**
+> **SCHEDULE 1 — THE FUNDED OPERATIONS[^c-3d120c366564452fd75820bbe0f75373]**
 >
 > Article 2
 >
-> **1.**[^key-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-3d120c366564452fd75820bbe0f75373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3d120c366564452fd75820bbe0f75373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d120c366564452fd75820bbe0f75373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d120c366564452fd75820bbe0f75373]: Textual amendment: Order revoked (1.4.2020) by [The Land Registry Trading Fund (Revocation) Order 2020 (S.I. 2020/118)](https://www.legislation.gov.uk/uksi/2020/118), [arts. 1](https://www.legislation.gov.uk/uksi/2020/118/article/1), [2(d)](https://www.legislation.gov.uk/uksi/2020/118/article/2/d)
+[^c-3d120c366564452fd75820bbe0f75373]: Textual amendment: Order revoked (1.4.2020) by [The Land Registry Trading Fund (Revocation) Order 2020 (S.I. 2020/118)](https://www.legislation.gov.uk/uksi/2020/118), [arts. 1](https://www.legislation.gov.uk/uksi/2020/118/article/1), [2(d)](https://www.legislation.gov.uk/uksi/2020/118/article/2/d)

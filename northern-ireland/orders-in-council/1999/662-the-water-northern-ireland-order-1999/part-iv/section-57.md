@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Water management programmes[^key-102865a9b1ae48d53517ec8467629015]
+## 57. Water management programmes[^c-102865a9b1ae48d53517ec8467629015]
 
 *Extent: N.I.*
 
-(1) The Department[^key-a1fbb0b4e9c7104cc9c8489e32fc2a3a] may by order adopt a water management programme with respect to the water resources of any area.
+(1) The Department[^c-a1fbb0b4e9c7104cc9c8489e32fc2a3a] may by order adopt a water management programme with respect to the water resources of any area.
 
 (2) A water management programme may contain—
 
@@ -36,12 +36,12 @@ summary: ''
 
 (5) The Department shall, at intervals which do not exceed 7 years, review any water management programme adopted under this Article.
 
-(6)[^key-c1adad0729bbe66ea43032b7224dd920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c1adad0729bbe66ea43032b7224dd920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-102865a9b1ae48d53517ec8467629015]: Modification: Art. 57: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-102865a9b1ae48d53517ec8467629015]: Modification: Art. 57: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-a1fbb0b4e9c7104cc9c8489e32fc2a3a]: Textual amendment: Word in [art. 57](https://www.legislation.gov.uk/nisi/1999/662/article/57) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 69(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/69/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-a1fbb0b4e9c7104cc9c8489e32fc2a3a]: Textual amendment: Word in [art. 57](https://www.legislation.gov.uk/nisi/1999/662/article/57) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 69(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/69/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-c1adad0729bbe66ea43032b7224dd920]: Textual amendment: [Art. 57(6)](https://www.legislation.gov.uk/nisi/1999/662/article/57/6) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 69(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/69/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-c1adad0729bbe66ea43032b7224dd920]: Textual amendment: [Art. 57(6)](https://www.legislation.gov.uk/nisi/1999/662/article/57/6) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 69(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/69/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

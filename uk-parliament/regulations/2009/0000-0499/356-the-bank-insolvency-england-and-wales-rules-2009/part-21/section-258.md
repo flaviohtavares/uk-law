@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 258. Preferential creditors[^key-071ec28a23d40f02fd46e31499a20114]
+## 258. Preferential creditors[^c-071ec28a23d40f02fd46e31499a20114]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 11.12 of the 1986 Rules[^f00085].
 
 ## Annotations
 
-[^key-071ec28a23d40f02fd46e31499a20114]: Commencement: Rule 258 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-071ec28a23d40f02fd46e31499a20114]: Commencement: Rule 258 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00085]: Footnote: Paragraph (2) was amended by [S.I.1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

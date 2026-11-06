@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Restrictions on payments to directors[^key-8f0cd00e642e3fb2b7537f9f9af28fed]
+## 80. Restrictions on payments to directors[^c-8f0cd00e642e3fb2b7537f9f9af28fed]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,4 +152,4 @@ After section 226 of the Companies Act 2006 insert—
 
 ## Annotations
 
-[^key-8f0cd00e642e3fb2b7537f9f9af28fed]: Commencement: S. 80 in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-8f0cd00e642e3fb2b7537f9f9af28fed]: Commencement: S. 80 in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)

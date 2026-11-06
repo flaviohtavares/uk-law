@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Guarantees in respect of payment of compensation[^key-e616dc3fd4c6eadf5cc1e18efe165340]
+## 23. Guarantees in respect of payment of compensation[^c-e616dc3fd4c6eadf5cc1e18efe165340]
 
 *Extent: E+W+S*
 
-(1) The undertaker must not exercise a power conferred by articles 24 to 27 or 32[^key-db4d6dbbfeb212561ee5fe98164f3bde] to 35 unless a guarantee or alternative form of security in respect of the liabilities of the undertaker to pay compensation under the power being exercised is first in place.
+(1) The undertaker must not exercise a power conferred by articles 24 to 27 or 32[^c-db4d6dbbfeb212561ee5fe98164f3bde] to 35 unless a guarantee or alternative form of security in respect of the liabilities of the undertaker to pay compensation under the power being exercised is first in place.
 
 (2) The form of guarantee or security referred to in paragraph (1), and the amount guaranteed or secured, must be approved by the relevant planning authority; but such approval must not be unreasonably withheld or delayed.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e616dc3fd4c6eadf5cc1e18efe165340]: Commencement: Art. 23 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-e616dc3fd4c6eadf5cc1e18efe165340]: Commencement: Art. 23 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-db4d6dbbfeb212561ee5fe98164f3bde]: Textual amendment: Word in [art. 23(1)](https://www.legislation.gov.uk/uksi/2019/1358/article/23/1) substituted (7.10.2020) by [The Northampton Gateway Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1670)](https://www.legislation.gov.uk/uksi/2020/1670), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1670/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1670/article/2/2)
+[^c-db4d6dbbfeb212561ee5fe98164f3bde]: Textual amendment: Word in [art. 23(1)](https://www.legislation.gov.uk/uksi/2019/1358/article/23/1) substituted (7.10.2020) by [The Northampton Gateway Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1670)](https://www.legislation.gov.uk/uksi/2020/1670), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1670/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1670/article/2/2)

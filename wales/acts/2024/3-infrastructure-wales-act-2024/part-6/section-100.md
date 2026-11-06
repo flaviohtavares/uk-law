@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Nuisance: statutory authority[^key-d12e074e34d129f57da16351fe2ff348][^key-abfafb14590e1e8626aa62c0d3262084]
+## 100. Nuisance: statutory authority[^c-d12e074e34d129f57da16351fe2ff348][^c-abfafb14590e1e8626aa62c0d3262084]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d12e074e34d129f57da16351fe2ff348]: Commencement: S. 100 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-d12e074e34d129f57da16351fe2ff348]: Commencement: S. 100 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-abfafb14590e1e8626aa62c0d3262084]: Commencement: [S. 100](https://www.legislation.gov.uk/asc/2024/3/section/100) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-abfafb14590e1e8626aa62c0d3262084]: Commencement: [S. 100](https://www.legislation.gov.uk/asc/2024/3/section/100) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

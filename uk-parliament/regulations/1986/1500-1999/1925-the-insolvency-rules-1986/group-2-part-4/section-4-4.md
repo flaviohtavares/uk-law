@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.4. Preliminary[^key-3352516fe30951ee3ee9dd7d403070ff]
+## 4.4. Preliminary[^c-3352516fe30951ee3ee9dd7d403070ff]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3352516fe30951ee3ee9dd7d403070ff]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3352516fe30951ee3ee9dd7d403070ff]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

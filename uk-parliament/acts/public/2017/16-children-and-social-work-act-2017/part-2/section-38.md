@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Advisers[^key-c940966cb5a8b0d43a70a17fc1ecb565]
+## 38. Advisers[^c-c940966cb5a8b0d43a70a17fc1ecb565]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c940966cb5a8b0d43a70a17fc1ecb565]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/16/section/38) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/i)
+[^c-c940966cb5a8b0d43a70a17fc1ecb565]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/16/section/38) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/i)

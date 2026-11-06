@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Amendment of Article 28 of Regulation (EU) No 2018/1139[^key-f2e566c449de3a5c0e0e308f24177ea8]
+## 107. Amendment of Article 28 of Regulation (EU) No 2018/1139[^c-f2e566c449de3a5c0e0e308f24177ea8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 28 (delegated powers), for the words from “the Commission” to “
 
 ## Annotations
 
-[^key-f2e566c449de3a5c0e0e308f24177ea8]: Commencement: Reg. 107 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f2e566c449de3a5c0e0e308f24177ea8]: Commencement: Reg. 107 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Biodiversity lists and action (Wales)[^key-397192392a05d06b6e241b28a737558f]
+## 42. Biodiversity lists and action (Wales)[^c-397192392a05d06b6e241b28a737558f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-397192392a05d06b6e241b28a737558f]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/2006/16/section/42) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/9/3)
+[^c-397192392a05d06b6e241b28a737558f]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/2006/16/section/42) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/9/3)

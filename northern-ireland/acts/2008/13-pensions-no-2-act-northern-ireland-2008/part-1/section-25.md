@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Quality requirement: non-UK occupational pension schemes[^c19557971][^key-295e4dd8d1f46032118beafb1e305989]
+## 25. Quality requirement: non-UK occupational pension schemes[^c19557971][^c-295e4dd8d1f46032118beafb1e305989]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Department may by regulations make provision as to the quality requirement t
 
 [^c19557971]: Commencement: S. 25 partly in force; s. 25 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
+[^c-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))

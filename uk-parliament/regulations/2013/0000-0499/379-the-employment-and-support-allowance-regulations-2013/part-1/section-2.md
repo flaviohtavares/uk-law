@@ -24,7 +24,7 @@ In these Regulations—
 
 - “**the Act**” means the Welfare Reform Act 2007;
 - “**advanced education**” means education for the purposes of—
-  - (a) a course in preparation for a degree, a diploma of higher education, a higher national diploma, a higher national diploma of the Business and Technology Education Council or Qualifications Scotland[^key-f36ead9936844bec12b0db95d22db854], or a teaching qualification; or
+  - (a) a course in preparation for a degree, a diploma of higher education, a higher national diploma, a higher national diploma of the Business and Technology Education Council or Qualifications Scotland[^c-f36ead9936844bec12b0db95d22db854], or a teaching qualification; or
   - (b) any other course which is of a standard above ordinary national diploma, a diploma of the Business and Technology Education Council or a higher or advanced higher national certificate of Qualifications Scotland or a general certificate of education (advanced level);
 - “**benefit week**” means a period of seven days ending on such day as the Secretary of State may direct, but for the purposes of calculating any payment of income “**benefit week**” means the period of seven days ending on—
   - (a) the day before the first day of the first period of seven days which—
@@ -32,7 +32,7 @@ In these Regulations—
     - (ii) follows the date of claim for an employment and support allowance; or
   - (b) the last day on which an employment and support allowance is paid if it is in payment for less than a week;
 - “**carer's allowance**” means an allowance under section 70 of the Contributions and Benefits Act [^c21660721];
-- “[^key-8def2816902a3950d0b1b06569945ed3]**carer support payment**” means the carer support payment component of carer support[^key-ed59868b1205d83677ae3e617cbd0ba9] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- “[^c-8def2816902a3950d0b1b06569945ed3]**carer support payment**” means the carer support payment component of carer support[^c-ed59868b1205d83677ae3e617cbd0ba9] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
 - “**child**” means a person under the age of 16;
 - “**Claims and Payments Regulations 2013**” means the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 [^c21660731];
 - “**close relative**” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister or, if any of the preceding persons is one member of a couple, the other member of that couple;
@@ -50,9 +50,9 @@ In these Regulations—
   - (c) in Scotland, an allowance or remuneration under or by virtue of—
     - (i) a scheme made by virtue of section 18 of the Local Government and Housing Act 1989; or
     - (ii) section 11 of the Local Governance (Scotland) Act 2004 [^c21660781];
-- “couple” means—[^key-bdd2c619e6cb4d1fd0f506ec5bf32aa3][^key-c66617082f7aed633d425ae11af8d495]
+- “couple” means—[^c-bdd2c619e6cb4d1fd0f506ec5bf32aa3][^c-c66617082f7aed633d425ae11af8d495]
   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
-  - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^key-b4c50b8a96b953ec6cc0ffdf01c1aff3];
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^c-b4c50b8a96b953ec6cc0ffdf01c1aff3];
 - “**Decisions and Appeals Regulations 1999**” means the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c21660791];
 - “**Decisions and Appeals Regulations 2013**” means the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 [^c21660801];
 - “**descriptor**” means, in relation to an activity specified in column (1) of Schedule 2, a descriptor in column (2) of that Schedule which describes a person's ability to perform that activity;
@@ -80,7 +80,7 @@ In these Regulations—
   - (b) a member of an establishment or organisation specified in Part 1 of that Schedule,
 
   but does not include any such person while absent on desertion;
-- “member of the work-related activity group” means a claimant who has or is treated as having limited capability for work under either—[^key-7643e570a56dbe9c8894a77e1f353d9e]
+- “member of the work-related activity group” means a claimant who has or is treated as having limited capability for work under either—[^c-7643e570a56dbe9c8894a77e1f353d9e]
   - (a) Part 5 of the Employment and Support Allowance Regulations 2008 other than by virtue of regulation 30 of those Regulations; or
   - (b) Part 4 of these Regulations other than by virtue of regulation 26;
 - “**National Minimum Wage**” means the rate of the national minimum wage specified in regulation 11 of the National Minimum Wage Regulations 1999 [^c21660891] (rate of the national minimum wage);
@@ -107,12 +107,12 @@ In these Regulations—
 - “**self-employed earner**” is to be construed in accordance with section 2(1)(b) of the Contributions and Benefits Act;
 - “**state pension credit**” means a state pension credit under the State Pension Credit Act 2002 [^c21660951];
 - “**Tax Credits Act**” means the Tax Credits Act 2002 [^c21660961];
-- “**terminally ill**”, in relation to a claimant, means the claimant is suffering from a progressive disease and death in consequence of that disease can reasonably be expected within 12 months[^key-c72b27f78cd7ef33fd5193865bfc7ae6];
+- “**terminally ill**”, in relation to a claimant, means the claimant is suffering from a progressive disease and death in consequence of that disease can reasonably be expected within 12 months[^c-c72b27f78cd7ef33fd5193865bfc7ae6];
 - “**training**” means—
   - (a) training in pursuance of arrangements made under section 2(1) of the Employment and Training Act 1973 [^c21660971] or section 2(3) of the Enterprise and New Towns (Scotland) Act 1990 [^c21660981]; or
   - (b) any training received on a course which a person attends for 16 hours or more a week, the primary purpose of which is the teaching of occupational or vocational skills;
 - “**training allowance**” means an allowance (whether by way of periodical grants or otherwise) payable—
-  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise [^key-455bb51592a2a770de6ef7a1e00ad715]... or the Welsh Ministers;
+  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise [^c-455bb51592a2a770de6ef7a1e00ad715]... or the Welsh Ministers;
   - (b) to a person for that person's maintenance or in respect of a member of that person's family; and
   - (c) for the period, or part of the period, during which the person is following a course of training or instruction provided by, or in pursuance of arrangements made with, that department or approved by that department in relation to that person or provided or approved by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise, or the Welsh Ministers,
 
@@ -124,13 +124,13 @@ In these Regulations—
 
 ## Annotations
 
-[^key-f36ead9936844bec12b0db95d22db854]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/14/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-f36ead9936844bec12b0db95d22db854]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/14/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
 [^c21660721]: Marginal citation: Section 70 was amended by S.I.s 1994/2556, 2002/1457 and 2011/2426.
 
-[^key-8def2816902a3950d0b1b06569945ed3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/2)
+[^c-8def2816902a3950d0b1b06569945ed3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/2)
 
-[^key-ed59868b1205d83677ae3e617cbd0ba9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2026/246/article/27/2)
+[^c-ed59868b1205d83677ae3e617cbd0ba9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2026/246/article/27/2)
 
 [^c21660731]: Marginal citation: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
 
@@ -144,11 +144,11 @@ In these Regulations—
 
 [^c21660781]: Marginal citation: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9).
 
-[^key-bdd2c619e6cb4d1fd0f506ec5bf32aa3]: Textual amendment: Words in reg. 2 substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/34)
+[^c-bdd2c619e6cb4d1fd0f506ec5bf32aa3]: Textual amendment: Words in reg. 2 substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/34)
 
-[^key-c66617082f7aed633d425ae11af8d495]: Textual amendment: Words in reg. 2 substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/55)
+[^c-c66617082f7aed633d425ae11af8d495]: Textual amendment: Words in reg. 2 substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/55)
 
-[^key-b4c50b8a96b953ec6cc0ffdf01c1aff3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 98](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/98)
+[^c-b4c50b8a96b953ec6cc0ffdf01c1aff3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 98](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/98)
 
 [^c21660791]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -170,7 +170,7 @@ In these Regulations—
 
 [^c21660881]: Marginal citation: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615).
 
-[^key-7643e570a56dbe9c8894a77e1f353d9e]: Textual amendment: Words in reg. 2(1) inserted (3.4.2017) by [The Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017 (S.I. 2017/204)](https://www.legislation.gov.uk/uksi/2017/204), [regs. 1](https://www.legislation.gov.uk/uksi/2017/204/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/204/regulation/3/2) (with [Sch. 2 paras. 1-7](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1))
+[^c-7643e570a56dbe9c8894a77e1f353d9e]: Textual amendment: Words in reg. 2(1) inserted (3.4.2017) by [The Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017 (S.I. 2017/204)](https://www.legislation.gov.uk/uksi/2017/204), [regs. 1](https://www.legislation.gov.uk/uksi/2017/204/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/204/regulation/3/2) (with [Sch. 2 paras. 1-7](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1))
 
 [^c21660891]: Marginal citation: [S.I. 1999/584](https://www.legislation.gov.uk/uksi/1999/584). Relevant amendments were made by [S.I. 2012/2397](https://www.legislation.gov.uk/uksi/2012/2397).
 
@@ -188,12 +188,12 @@ In these Regulations—
 
 [^c21660961]: Marginal citation: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-c72b27f78cd7ef33fd5193865bfc7ae6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (4.4.2022) by [The Universal Credit and Employment and Support Allowance (Terminal Illness) (Amendment) Regulations 2022 (S.I. 2022/260)](https://www.legislation.gov.uk/uksi/2022/260), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/260/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/260/regulation/2/3)
+[^c-c72b27f78cd7ef33fd5193865bfc7ae6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/379/regulation/2) substituted (4.4.2022) by [The Universal Credit and Employment and Support Allowance (Terminal Illness) (Amendment) Regulations 2022 (S.I. 2022/260)](https://www.legislation.gov.uk/uksi/2022/260), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/260/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/260/regulation/2/3)
 
 [^c21660971]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25 of the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19).
 
 [^c21660981]: Marginal citation: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35). Section 2(3) was amended by section 47 of, and Schedule 10 to, the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19).
 
-[^key-455bb51592a2a770de6ef7a1e00ad715]: Textual amendment: Words in reg. 2 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/26)
+[^c-455bb51592a2a770de6ef7a1e00ad715]: Textual amendment: Words in reg. 2 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/26)
 
 [^c21660991]: Marginal citation: [2000 c.35](https://www.legislation.gov.uk/ukpga/2000/35). Section 6 was amended by Schedule 7 to the Welfare Reform Act 2009.

@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs makes these Regulations in exercise of the powers conferred by sections 11 and 22 of and Part 1C of Schedule 2 and paragraphs 8F and 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-d29c0d09145d11e59345438b4eda6400]
+## 1. Citation, commencement and interpretation[^c-d29c0d09145d11e59345438b4eda6400]
 
 (1) These Regulations may be cited as the Equine Identification (Amendment) Regulations (Northern Ireland) 2022 and come into operation on 31<sup>st</sup> August 2022.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] applies to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendments to the Equine Identification Regulations (Northern Ireland) 2019[^key-7b8bd85c4754e7b7a0ebbaf532b74906]
+## 2. Amendments to the Equine Identification Regulations (Northern Ireland) 2019[^c-7b8bd85c4754e7b7a0ebbaf532b74906]
 
 (1) The Equine Identification Regulations (Northern Ireland) 2019[^f00003] are amended as follows.
 
@@ -120,10 +120,10 @@ No Impact Assessments were produced in relation to these regulations as no, or n
 
 [^f00001]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-d29c0d09145d11e59345438b4eda6400]: Commencement: Reg. 1 in operation at 31.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1)
+[^c-d29c0d09145d11e59345438b4eda6400]: Commencement: Reg. 1 in operation at 31.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/ukpga/1954/33).
 
-[^key-7b8bd85c4754e7b7a0ebbaf532b74906]: Commencement: Reg. 2 in operation at 31.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1)
+[^c-7b8bd85c4754e7b7a0ebbaf532b74906]: Commencement: Reg. 2 in operation at 31.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2019 No. 67](https://www.legislation.gov.uk/nisr/2019/67).

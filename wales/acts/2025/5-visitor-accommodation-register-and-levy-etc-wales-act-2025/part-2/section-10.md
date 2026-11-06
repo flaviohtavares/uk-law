@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Penalties for failure to notify WRA of changes and inaccuracies[^key-5ce0402994b31312374ba0fd63626076]
+## 10. Penalties for failure to notify WRA of changes and inaccuracies[^c-5ce0402994b31312374ba0fd63626076]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ remains liable to the penalty.
 
 ## Annotations
 
-[^key-5ce0402994b31312374ba0fd63626076]: Commencement: S. 10 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-5ce0402994b31312374ba0fd63626076]: Commencement: S. 10 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

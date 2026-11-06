@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Motor Vehicles (Approval) (Fees) (Amendment) Regulations 2008 (revoked)[^key-00c0568e8befdf1100bf554987e843a4]
+The Motor Vehicles (Approval) (Fees) (Amendment) Regulations 2008 (revoked)[^c-00c0568e8befdf1100bf554987e843a4]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 13th July 2008
 
-[^key-00c0568e8befdf1100bf554987e843a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00c0568e8befdf1100bf554987e843a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-00c0568e8befdf1100bf554987e843a4]
+## 1. Citation and commencement[^c-00c0568e8befdf1100bf554987e843a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Preliminary[^key-00c0568e8befdf1100bf554987e843a4]
+## 2. Preliminary[^c-00c0568e8befdf1100bf554987e843a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase in fees[^key-00c0568e8befdf1100bf554987e843a4]
+## 3. Increase in fees[^c-00c0568e8befdf1100bf554987e843a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 4 (fees - application for Minister’s approval certificate)[^key-00c0568e8befdf1100bf554987e843a4]
+## 4. Amendment of regulation 4 (fees - application for Minister’s approval certificate)[^c-00c0568e8befdf1100bf554987e843a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00c0568e8befdf1100bf554987e843a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00c0568e8befdf1100bf554987e843a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00c0568e8befdf1100bf554987e843a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00c0568e8befdf1100bf554987e843a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00c0568e8befdf1100bf554987e843a4]: Textual amendment: Regulations revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-00c0568e8befdf1100bf554987e843a4]: Textual amendment: Regulations revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))

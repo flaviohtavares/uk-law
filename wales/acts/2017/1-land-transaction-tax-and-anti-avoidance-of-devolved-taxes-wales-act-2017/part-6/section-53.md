@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Declaration[^key-a31d5a59207ba844053409426369542c]
+## 53. Declaration[^c-a31d5a59207ba844053409426369542c]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ the requirement in subsection (1) is deemed to be met.
 
 ## Annotations
 
-[^key-a31d5a59207ba844053409426369542c]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2017/1/section/53) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a31d5a59207ba844053409426369542c]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2017/1/section/53) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

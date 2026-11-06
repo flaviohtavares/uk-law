@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Technology testing defence: meaning of “relevant offence”[^key-2c10db0d3a371f707cc1ded5f23e9799]
+## 112. Technology testing defence: meaning of “relevant offence”[^c-2c10db0d3a371f707cc1ded5f23e9799]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c10db0d3a371f707cc1ded5f23e9799]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2026/20/section/112) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-2c10db0d3a371f707cc1ded5f23e9799]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2026/20/section/112) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)

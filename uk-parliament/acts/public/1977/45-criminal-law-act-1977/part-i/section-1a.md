@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Conspiracy to commit offences outside England and Wales .[^c4763941][^key-4a90881f3394589ed5c1f4371d4b5246]
+## 1A. Conspiracy to commit offences outside England and Wales .[^c4763941][^c-4a90881f3394589ed5c1f4371d4b5246]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) an act by one or more of the parties, or
 - (b) the happening of some other event,
 
-intended to take place in a country or territory outside England and Wales[^key-a8bf4de756f9370018081173f9218c20] .
+intended to take place in a country or territory outside England and Wales[^c-a8bf4de756f9370018081173f9218c20] .
 
 (3) The second condition is that that act or other event constitutes an offence under the law in force in that country or territory.
 
@@ -62,7 +62,7 @@ intended to take place in a country or territory outside England and Wales[^key-
 
 (13) References in any enactment, instrument or document (except those in this Part of this Act) to an offence of conspiracy to commit an offence include an offence triable in England and Wales as such a conspiracy by virtue of this section (without prejudice to subsection (6) above).
 
-(14)[^key-d30eae139062a429d7bd80f9c9ba8990] Nothing in this section applies to an agreement entered into before 4 September 1998.
+(14)[^c-d30eae139062a429d7bd80f9c9ba8990] Nothing in this section applies to an agreement entered into before 4 September 1998.
 
 (15) In relation to an agreement entered into during the period beginning with that date and ending with the commencement of section 72(1) of the Coroners and Justice Act 2009, this section applies as if in subsection (2) for “England and Wales” there were substituted “ the United Kingdom ”.
 
@@ -72,12 +72,12 @@ intended to take place in a country or territory outside England and Wales[^key-
 
 [^c4763941]: Textual amendment: S. 1A inserted (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 5(1)](https://www.legislation.gov.uk/ukpga/1998/40/section/5/1).
 
-[^key-4a90881f3394589ed5c1f4371d4b5246]: Textual amendment: Words in s. 1A title substituted (1.2.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 72(1)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/72/1/a), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/5)
+[^c-4a90881f3394589ed5c1f4371d4b5246]: Textual amendment: Words in s. 1A title substituted (1.2.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 72(1)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/72/1/a), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/5)
 
-[^key-a8bf4de756f9370018081173f9218c20]: Textual amendment: Words in s. 1A(2) substituted (1.2.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 72(1)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/72/1/a), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/5)
+[^c-a8bf4de756f9370018081173f9218c20]: Textual amendment: Words in s. 1A(2) substituted (1.2.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 72(1)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/72/1/a), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/5)
 
 [^c4764161]: Marginal citation: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38).
 
 [^c4764171]: Marginal citation: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 
-[^key-d30eae139062a429d7bd80f9c9ba8990]: Textual amendment: S. 1A(14)-(16) substituted for s. 1A(14) (1.2.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 72(1)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/72/1/b), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/5)
+[^c-d30eae139062a429d7bd80f9c9ba8990]: Textual amendment: S. 1A(14)-(16) substituted for s. 1A(14) (1.2.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 72(1)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/72/1/b), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1A — Local Audit Office: constitution, proceedings etc[^key-1421e1d9af7ed19c01e510070345ef94]
+## Schedule 1A — Local Audit Office: constitution, proceedings etc[^c-1421e1d9af7ed19c01e510070345ef94]
 
 *Extent: E+W*
 
@@ -220,4 +220,4 @@ The Local Audit Office may do anything it thinks appropriate for the purposes of
 
 ## Annotations
 
-[^key-1421e1d9af7ed19c01e510070345ef94]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1A) inserted (15.7.2026 except the insertion of Sch. 1A paras. 13(1)(b)(2)-(4), 14, 15) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 34 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/1) (with [Sch. 34 Pt. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/part/2)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/3)
+[^c-1421e1d9af7ed19c01e510070345ef94]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1A) inserted (15.7.2026 except the insertion of Sch. 1A paras. 13(1)(b)(2)-(4), 14, 15) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 34 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/1) (with [Sch. 34 Pt. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/part/2)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/3)

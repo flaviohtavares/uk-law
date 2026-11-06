@@ -35,52 +35,52 @@ laying down implementing technical standards with regard to templates for the pr
 
 (Text with EEA relevance) (revoked)
 
-[^key-5660bc966ef89212825ae9b259411409]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5660bc966ef89212825ae9b259411409]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Templates for STS notification[^key-5660bc966ef89212825ae9b259411409]
+## Article 1. Templates for STS notification[^c-5660bc966ef89212825ae9b259411409]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-5660bc966ef89212825ae9b259411409]
+## Article 2. Entry into force[^c-5660bc966ef89212825ae9b259411409]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5660bc966ef89212825ae9b259411409]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5660bc966ef89212825ae9b259411409]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-5660bc966ef89212825ae9b259411409]
+## ANNEX I[^c-5660bc966ef89212825ae9b259411409]
 
-[^key-5660bc966ef89212825ae9b259411409]**Field formats to be applied to the STS notification form**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-5660bc966ef89212825ae9b259411409]**STS notification form for non-ABCP securitisations**
+[^c-5660bc966ef89212825ae9b259411409]**Field formats to be applied to the STS notification form**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-5660bc966ef89212825ae9b259411409]
-
-[^key-5660bc966ef89212825ae9b259411409]**Field formats to be applied to the STS notification form**
+[^c-5660bc966ef89212825ae9b259411409]**STS notification form for non-ABCP securitisations**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5660bc966ef89212825ae9b259411409]**STS notification form for ABCP securitisations**
+## ANNEX II[^c-5660bc966ef89212825ae9b259411409]
+
+[^c-5660bc966ef89212825ae9b259411409]**Field formats to be applied to the STS notification form**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-5660bc966ef89212825ae9b259411409]
-
-[^key-5660bc966ef89212825ae9b259411409]**Field formats to be applied to the STS notification form**
+[^c-5660bc966ef89212825ae9b259411409]**STS notification form for ABCP securitisations**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5660bc966ef89212825ae9b259411409]**STS notification form for ABCP Programme**
+## ANNEX III[^c-5660bc966ef89212825ae9b259411409]
+
+[^c-5660bc966ef89212825ae9b259411409]**Field formats to be applied to the STS notification form**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5660bc966ef89212825ae9b259411409]**STS notification form for ABCP Programme**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5660bc966ef89212825ae9b259411409]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/vii)
+[^c-5660bc966ef89212825ae9b259411409]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/vii)

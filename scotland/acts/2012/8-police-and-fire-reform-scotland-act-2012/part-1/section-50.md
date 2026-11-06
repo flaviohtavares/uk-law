@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Conditions of service[^key-6dc3160acdc563559838c3571e250dac]
+## 50. Conditions of service[^c-6dc3160acdc563559838c3571e250dac]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc3160acdc563559838c3571e250dac]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2012/8/section/50) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-6dc3160acdc563559838c3571e250dac]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2012/8/section/50) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

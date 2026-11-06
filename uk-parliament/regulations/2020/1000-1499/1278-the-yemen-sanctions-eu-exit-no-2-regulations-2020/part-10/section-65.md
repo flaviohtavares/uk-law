@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Trade: overlapping offences[^key-b9f29f59d68137439eab89b8dc44cf65][^key-2625a20756ad502cdc012fb18e527083]
+## 65. Trade: overlapping offences[^c-b9f29f59d68137439eab89b8dc44cf65][^c-2625a20756ad502cdc012fb18e527083]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ A person is not to be taken to commit an offence under the Export Control Order 
 
 ## Annotations
 
-[^key-b9f29f59d68137439eab89b8dc44cf65]: Commencement: Reg. 65 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-b9f29f59d68137439eab89b8dc44cf65]: Commencement: Reg. 65 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-2625a20756ad502cdc012fb18e527083]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2020/1278/regulation/65) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-2625a20756ad502cdc012fb18e527083]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2020/1278/regulation/65) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
 
 [^c24335021]: Marginal citation: [Articles 37](https://www.legislation.gov.uk/uksi/2020/1278/article/37) and 38 are prospectively amended by [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137). Article 37 has been amended by [S.I. 2012/1910](https://www.legislation.gov.uk/uksi/2012/1910). Article 38 has been amended by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85).

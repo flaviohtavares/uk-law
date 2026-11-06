@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Designating areas of special architectural or historic interest as conservation areas[^key-293341c3326ad3504696c74a2548c2a1][^key-fe02a8203b458680b5d51597323c9517]
+## 158. Designating areas of special architectural or historic interest as conservation areas[^c-293341c3326ad3504696c74a2548c2a1][^c-fe02a8203b458680b5d51597323c9517]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-293341c3326ad3504696c74a2548c2a1]: Commencement: S. 158 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-293341c3326ad3504696c74a2548c2a1]: Commencement: S. 158 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-fe02a8203b458680b5d51597323c9517]: Commencement: [S. 158](https://www.legislation.gov.uk/asc/2023/3/section/158) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-fe02a8203b458680b5d51597323c9517]: Commencement: [S. 158](https://www.legislation.gov.uk/asc/2023/3/section/158) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

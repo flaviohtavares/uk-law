@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Petroleum and geothermal energy: right to use deep-level land[^key-f5d87ef47531c94f8373823329e60840]
+## 43. Petroleum and geothermal energy: right to use deep-level land[^c-f5d87ef47531c94f8373823329e60840]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5d87ef47531c94f8373823329e60840]: Commencement: S. 43 in force at 12.4.2015, see s. 57(7)(b)
+[^c-f5d87ef47531c94f8373823329e60840]: Commencement: S. 43 in force at 12.4.2015, see s. 57(7)(b)

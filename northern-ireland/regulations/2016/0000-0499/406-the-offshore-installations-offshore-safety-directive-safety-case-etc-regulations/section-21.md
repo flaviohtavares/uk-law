@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Notification of well operations[^key-2db9a7dab1bd1cf4eaa8a7fec664fe20]
+## 21. Notification of well operations[^c-2db9a7dab1bd1cf4eaa8a7fec664fe20]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2db9a7dab1bd1cf4eaa8a7fec664fe20]: Commencement: Reg. 21 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-2db9a7dab1bd1cf4eaa8a7fec664fe20]: Commencement: Reg. 21 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

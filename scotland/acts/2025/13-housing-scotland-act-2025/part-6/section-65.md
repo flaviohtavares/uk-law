@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Revocation of registration: where property factor no longer exists[^key-b90ace55c3ddfe1f8343666726c20a93][^key-ef6a9188031cef29983ce59a6a55cecf]
+## 65. Revocation of registration: where property factor no longer exists[^c-b90ace55c3ddfe1f8343666726c20a93][^c-ef6a9188031cef29983ce59a6a55cecf]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b90ace55c3ddfe1f8343666726c20a93]: Commencement: S. 65 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-b90ace55c3ddfe1f8343666726c20a93]: Commencement: S. 65 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-ef6a9188031cef29983ce59a6a55cecf]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2025/13/section/65) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-ef6a9188031cef29983ce59a6a55cecf]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2025/13/section/65) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Financial arrangements for the Board[^key-43d0a6249696b4540c654a01802135f6][^key-5656dbe5f76a7bb3349f784ea1eb4ee8][^c2191279]
+## 24. Financial arrangements for the Board[^c-43d0a6249696b4540c654a01802135f6][^c-5656dbe5f76a7bb3349f784ea1eb4ee8][^c2191279]
 
 *Extent: E+W*
 
@@ -114,8 +114,8 @@ Before the cross-heading preceding section 224 of the National Health Service Ac
 
 ## Annotations
 
-[^key-43d0a6249696b4540c654a01802135f6]: Commencement: S. 24 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-43d0a6249696b4540c654a01802135f6]: Commencement: S. 24 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-5656dbe5f76a7bb3349f784ea1eb4ee8]: Commencement: S. 24 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-5656dbe5f76a7bb3349f784ea1eb4ee8]: Commencement: S. 24 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191279]: Commencement: S. 24 partly in force; s. 24 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

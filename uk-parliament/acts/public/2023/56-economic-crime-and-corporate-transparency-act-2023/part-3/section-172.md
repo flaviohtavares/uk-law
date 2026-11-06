@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. General false statement offences[^key-08d9c4b4b9d2c49e376313b20e0fe6be][^key-0ee8e749bb5655a19580952ffac265d1]
+## 172. General false statement offences[^c-08d9c4b4b9d2c49e376313b20e0fe6be][^c-0ee8e749bb5655a19580952ffac265d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ For section 32 of the Economic Crime (Transparency and Enforcement) Act 2022 sub
 
 ## Annotations
 
-[^key-08d9c4b4b9d2c49e376313b20e0fe6be]: Commencement: S. 172 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-08d9c4b4b9d2c49e376313b20e0fe6be]: Commencement: S. 172 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-0ee8e749bb5655a19580952ffac265d1]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2023/56/section/172) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z56)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z56)
+[^c-0ee8e749bb5655a19580952ffac265d1]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2023/56/section/172) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z56)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z56)

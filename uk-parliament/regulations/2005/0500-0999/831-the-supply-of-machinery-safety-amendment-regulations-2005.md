@@ -32,7 +32,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Supply of Machinery (Safety) (Amendment) Regulations 2005 (revoked)[^key-4f5910c766a351be4b89e4325380074e]
+The Supply of Machinery (Safety) (Amendment) Regulations 2005 (revoked)[^c-4f5910c766a351be4b89e4325380074e]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st May 2005
 
-[^key-4f5910c766a351be4b89e4325380074e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f5910c766a351be4b89e4325380074e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4f5910c766a351be4b89e4325380074e]
+## 1. Citation and commencement[^c-4f5910c766a351be4b89e4325380074e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of, and supplementary provisions relating to, the Supply of Machinery (Safety) Regulations 1992[^key-4f5910c766a351be4b89e4325380074e]
+## 2. Amendment of, and supplementary provisions relating to, the Supply of Machinery (Safety) Regulations 1992[^c-4f5910c766a351be4b89e4325380074e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential Amendments[^key-4f5910c766a351be4b89e4325380074e]
+## 3. Consequential Amendments[^c-4f5910c766a351be4b89e4325380074e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-4f5910c766a351be4b89e4325380074e]
+## 4.[^c-4f5910c766a351be4b89e4325380074e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-4f5910c766a351be4b89e4325380074e]
+## 5.[^c-4f5910c766a351be4b89e4325380074e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f5910c766a351be4b89e4325380074e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f5910c766a351be4b89e4325380074e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4f5910c766a351be4b89e4325380074e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f5910c766a351be4b89e4325380074e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f5910c766a351be4b89e4325380074e]: Textual amendment: Regulations revoked (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1597/schedule/1) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
+[^c-4f5910c766a351be4b89e4325380074e]: Textual amendment: Regulations revoked (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1597/schedule/1) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))

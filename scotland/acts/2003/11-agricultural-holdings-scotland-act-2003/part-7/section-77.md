@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Resolution of disputes by Land Court[^key-f7700ee45df34a1b7383505ea2ef894b]
+## 77. Resolution of disputes by Land Court[^c-f7700ee45df34a1b7383505ea2ef894b]
 
 *Extent: S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 - (a) whether—
   - (i) a short limited duration tenancy;
-  - (ii) a limited duration tenancy; [^key-a8c7a8e929bb298ac4fe49625f6c6a77]...
-  - (iia)[^key-8e99bd760b50b9e8a1a673b785140e8c] a modern limited duration tenancy, or
+  - (ii) a limited duration tenancy; [^c-a8c7a8e929bb298ac4fe49625f6c6a77]...
+  - (iia)[^c-8e99bd760b50b9e8a1a673b785140e8c] a modern limited duration tenancy, or
   - (iib) a repairing tenancy,
   - (iii) a tenancy to which section 3 applies,
 
@@ -50,7 +50,7 @@ summary: ''
   of any interest under the lease constituting the tenancy; or
 - (c) whether any such transfer is in the best interests of the estate of a deceased person.
 
-(4) The Land Court also has jurisdiction to hear and determine any question or difference, between the tenant under a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-5ae394208d80dd2cd39c7b43913905b5] and any person with whom the tenant has in pursuance of section 7(1) or, as the case may be, 7B(1), 7D(1) or 7D(7)[^key-624d2707e2cb23bff19dd40eb5df28ea] entered into a contract assigning the tenant’s interest under the lease constituting the tenancy, which arises out of or in connection with the assignation.
+(4) The Land Court also has jurisdiction to hear and determine any question or difference, between the tenant under a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^c-5ae394208d80dd2cd39c7b43913905b5] and any person with whom the tenant has in pursuance of section 7(1) or, as the case may be, 7B(1), 7D(1) or 7D(7)[^c-624d2707e2cb23bff19dd40eb5df28ea] entered into a contract assigning the tenant’s interest under the lease constituting the tenancy, which arises out of or in connection with the assignation.
 
 (5) Any application to the Land Court for a matter to be determined by the Court by virtue of this Act may be made by either party or by them jointly.
 
@@ -60,12 +60,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f7700ee45df34a1b7383505ea2ef894b]: Commencement: S. 77 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-f7700ee45df34a1b7383505ea2ef894b]: Commencement: S. 77 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-a8c7a8e929bb298ac4fe49625f6c6a77]: Textual amendment: Word in s. 77(2)(a) repealed (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(a)(i)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/a/i) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
+[^c-a8c7a8e929bb298ac4fe49625f6c6a77]: Textual amendment: Word in s. 77(2)(a) repealed (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(a)(i)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/a/i) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
 
-[^key-8e99bd760b50b9e8a1a673b785140e8c]: Textual amendment: S. 77(2)(a)(iia)(iib) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(a)(ii)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/a/ii) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
+[^c-8e99bd760b50b9e8a1a673b785140e8c]: Textual amendment: S. 77(2)(a)(iia)(iib) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(a)(ii)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/a/ii) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
 
-[^key-5ae394208d80dd2cd39c7b43913905b5]: Textual amendment: Words in s. 77(4) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(b)(i)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/b/i) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
+[^c-5ae394208d80dd2cd39c7b43913905b5]: Textual amendment: Words in s. 77(4) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(b)(i)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/b/i) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
 
-[^key-624d2707e2cb23bff19dd40eb5df28ea]: Textual amendment: Words in s. 77(4) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(b)(ii)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/b/ii) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
+[^c-624d2707e2cb23bff19dd40eb5df28ea]: Textual amendment: Words in s. 77(4) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(27)(b)(ii)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/27/b/ii) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))

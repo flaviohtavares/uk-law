@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Dropped footway parking prohibition[^key-38a27809e5e1319ccbb0b0fe0fc9d632]
+## 56. Dropped footway parking prohibition[^c-38a27809e5e1319ccbb0b0fe0fc9d632]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a27809e5e1319ccbb0b0fe0fc9d632]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2019/17/section/56) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-38a27809e5e1319ccbb0b0fe0fc9d632]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2019/17/section/56) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

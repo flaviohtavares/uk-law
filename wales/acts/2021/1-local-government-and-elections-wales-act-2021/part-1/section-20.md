@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Disqualification for election and being a member of a local authority[^key-c93e2f6f33031cea149a8c7006023844]
+## 20. Disqualification for election and being a member of a local authority[^c-c93e2f6f33031cea149a8c7006023844]
 
 *Extent: E+W*
 
@@ -89,4 +89,4 @@ After section 80 of the 1972 Act insert—
 
 ## Annotations
 
-[^key-c93e2f6f33031cea149a8c7006023844]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2021/1/section/20) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))
+[^c-c93e2f6f33031cea149a8c7006023844]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2021/1/section/20) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))

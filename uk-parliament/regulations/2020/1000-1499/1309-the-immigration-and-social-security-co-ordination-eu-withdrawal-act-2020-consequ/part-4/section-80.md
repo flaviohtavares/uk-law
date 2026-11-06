@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Amendment and saving of the British Nationality (General) Regulations 2003[^key-e1b0e7f2b4e6ff62f8414380b96c4304][^M_I_8888f9ca-2f4b-44c2-9e3d-ab7d9a617138]
+## 80. Amendment and saving of the British Nationality (General) Regulations 2003[^c-e1b0e7f2b4e6ff62f8414380b96c4304][^M_I_8888f9ca-2f4b-44c2-9e3d-ab7d9a617138]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e1b0e7f2b4e6ff62f8414380b96c4304]: Commencement: Reg. 80 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-e1b0e7f2b4e6ff62f8414380b96c4304]: Commencement: Reg. 80 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_8888f9ca-2f4b-44c2-9e3d-ab7d9a617138]: Commencement: Reg. 80 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

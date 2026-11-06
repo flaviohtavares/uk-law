@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69.[^key-dd94b90287ddd44f8a39d2a46648633a]
+## 69.[^c-dd94b90287ddd44f8a39d2a46648633a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 5(11)(j) (the competent authority: sanctioning powers) [^c23587151
 
 ## Annotations
 
-[^key-dd94b90287ddd44f8a39d2a46648633a]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-dd94b90287ddd44f8a39d2a46648633a]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587151]: Marginal citation: Paragraph (11)(j) was amended by regulation 14(2) of the [Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516).

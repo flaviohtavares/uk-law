@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Creditors’ claim that remuneration is excessive[^key-c3dde0c2c1cafea4ecf674269df830f2]
+## 104. Creditors’ claim that remuneration is excessive[^c-c3dde0c2c1cafea4ecf674269df830f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.131 of the 1986 Rules.
 
 ## Annotations
 
-[^key-c3dde0c2c1cafea4ecf674269df830f2]: Commencement: Rule 104 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c3dde0c2c1cafea4ecf674269df830f2]: Commencement: Rule 104 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

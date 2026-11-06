@@ -44,11 +44,11 @@ In accordance with section 109(2) of that Act, the Secretary of State has consul
 
 In accordance with section 109(5) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-27613bb9a77c66d046344c60ad97288e]
+## 1. Citation and commencement[^c-27613bb9a77c66d046344c60ad97288e]
 
 This Order may be cited as the Economic Growth (Regulatory Functions) Order 2017 and comes into force on the twenty first day after the day on which they are made.
 
-## 2. Regulatory functions[^key-464dc96677785c0f021240174baf09ca]
+## 2. Regulatory functions[^c-464dc96677785c0f021240174baf09ca]
 
 (1) Section 108 of the Deregulation Act 2015 (exercise of regulatory functions: economic growth) applies to the regulatory functions specified in the Schedule.
 
@@ -60,7 +60,7 @@ This Order may be cited as the Economic Growth (Regulatory Functions) Order 2017
 - (b) so far as exercisable in Northern Ireland, if or to the extent that the function relate to matters which are transferred matters; or
 - (c) so far as exercisable in Wales, if or to the extent that the function relates to matters which are devolved Welsh matters.
 
-## 3. Sunset in relation to Part 1 of the Schedule: certain functions of the Office of Communications[^key-4f8458208edb9cda592374592bb5b56d]
+## 3. Sunset in relation to Part 1 of the Schedule: certain functions of the Office of Communications[^c-4f8458208edb9cda592374592bb5b56d]
 
 In Part 1 of the Schedule, in relation to the Office of Communications, the words “any regulatory function which is an online safety function within the meaning of section 235 of the Online Safety Act 2023” cease to have effect from the end of 5th April 2026.
 
@@ -74,13 +74,13 @@ Department for Business, Energy and Industrial Strategy
 
 Article 2(1)
 
-### PART 1[^key-7460e5edabe6860c76b73aa07e9a4755]
+### PART 1[^c-7460e5edabe6860c76b73aa07e9a4755]
 
 All the regulatory functions exercisable by—
 
 British Hallmarking Council[^f00002]
 
-The Building Safety Regulator[^key-f3d6df616af96d7473349764dd3f00f8]
+The Building Safety Regulator[^c-f3d6df616af96d7473349764dd3f00f8]
 
 Care Quality Commission[^f00003]
 
@@ -100,7 +100,7 @@ Commissioners of Irish Lights
 
 Comptroller-General of Patents, Designs and Trade Marks[^f00012]
 
-[^key-42acb081cb6c1a5eb484f0820af474e1]...
+[^c-42acb081cb6c1a5eb484f0820af474e1]...
 
 Environment Agency[^f00014]
 
@@ -115,9 +115,9 @@ Gambling Commission[^f00018] other than any regulatory function under—
 - the National Lottery etc. Act 1993[^f00019]
 - Part 3 (National Lottery: Olympic Lotteries) of the Horserace Betting and Olympic Lottery Act 2004 [^f00020]
 
-[^key-4dc18447f15a02d5893064aacb5638b3]...
+[^c-4dc18447f15a02d5893064aacb5638b3]...
 
-Gas and Electricity Markets Authority other than any regulatory function which is exercisable concurrently with the Competition and Markets Authority by virtue of—[^key-f1090199323696c3ae7ed188eb5317df]
+Gas and Electricity Markets Authority other than any regulatory function which is exercisable concurrently with the Competition and Markets Authority by virtue of—[^c-f1090199323696c3ae7ed188eb5317df]
 
 - section 36A of the Gas Act 1986
 - section 43 of the Electricity Act 1989
@@ -132,9 +132,9 @@ Health and Safety Executive[^f00025]
 
 Her Majesty’s Land Registry[^f00026]
 
-Her Majesty’s Revenue and Customs[^f00027] under or by virtue of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-425804c9760fa93b5e2bd7d1edcebb31]
+Her Majesty’s Revenue and Customs[^f00027] under or by virtue of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-425804c9760fa93b5e2bd7d1edcebb31]
 
-[^key-42acb081cb6c1a5eb484f0820af474e1]...
+[^c-42acb081cb6c1a5eb484f0820af474e1]...
 
 Historic Buildings and Monuments Commission for England[^f00030]
 
@@ -146,7 +146,7 @@ Human Tissue Authority[^f00033]
 
 Incorporation of Goldsmiths of the City of Edinburgh (the Edinburgh Assay Office)[^f00034]
 
-Information Commission[^key-1a308a1c2e00a3bd31b856c1ee8827dd][^f00035] other than any regulatory function under the Freedom of Information Act 2000[^f00036]
+Information Commission[^c-1a308a1c2e00a3bd31b856c1ee8827dd][^f00035] other than any regulatory function under the Freedom of Information Act 2000[^f00036]
 
 Marine Management Organisation[^f00037]
 
@@ -158,9 +158,9 @@ Office for Nuclear Regulation[^f00039]
 
 Office for Standards in Education, Children’s Services and Skills[^f00040]
 
-Office for Students[^key-327600bfd322ec3f27dd171bb55bdb64]
+Office for Students[^c-327600bfd322ec3f27dd171bb55bdb64]
 
-Office of Communications other than any regulatory function—[^key-6c4ad995396d26596938b658dd3c31d3]
+Office of Communications other than any regulatory function—[^c-6c4ad995396d26596938b658dd3c31d3]
 
 - under Part 3 of the Enterprise Act 2002
 - which is exercisable concurrently with the Competition and Markets Authority by virtue of section 370 or 371 of the Communications Act 2003
@@ -186,15 +186,15 @@ Sports Grounds Safety Authority[^f00051]
 
 Traffic Commissioners[^f00052]
 
-The Secretary of State under or by virtue of the labour market legislation listed in Part 1 of Schedule 7 to the Employment Rights Act 2025[^key-80e47fb4ac395a8526043501f6208289]
+The Secretary of State under or by virtue of the labour market legislation listed in Part 1 of Schedule 7 to the Employment Rights Act 2025[^c-80e47fb4ac395a8526043501f6208289]
 
 The Trinity House (as defined in section 223(1) of the Merchant Shipping Act 1995)[^f00053]
 
 Wardens and Commonalty of the Mystery of Goldsmiths of the City of London (the London Assay Office)[^f00054]
 
-Water Services Regulation Authority other than any regulatory function which is exercisable concurrently with the Competition and Markets Authority by virtue of section 31 of the Water Industry Act 1991[^key-1e7db1fb3d1c2acacbc921fc47c8bf2e]
+Water Services Regulation Authority other than any regulatory function which is exercisable concurrently with the Competition and Markets Authority by virtue of section 31 of the Water Industry Act 1991[^c-1e7db1fb3d1c2acacbc921fc47c8bf2e]
 
-### PART 2[^key-772135535b032fd5da801785b0908ccf]
+### PART 2[^c-772135535b032fd5da801785b0908ccf]
 
 All the regulatory functions exercisable by—
 
@@ -204,7 +204,7 @@ a body designated by the Secretary of State under section 1252 of the Companies 
 
 a person authorised by the Secretary of State under section 457 of the Companies Act 2006[^f00057]
 
-### PART 3[^key-97bce065502c607ce355e05534b0db81]
+### PART 3[^c-97bce065502c607ce355e05534b0db81]
 
 All the regulatory functions, other than a regulatory function exercisable in relation to a general customs matter within the meaning of section 1(2) of the Borders, Citizenship and Immigration Act 2009 (general customs functions of the Secretary of State)[^f00058], exercisable by a Minister of the Crown pursuant to the following EU instruments or under or by virtue of the following enactments (including any regulatory function conferred by subordinate legislation made under these enactments)—
 
@@ -230,7 +230,7 @@ Beef and Pig Carcase Classification (England) Regulations 2010[^f00067]
 
 Beef and Veal Labelling Regulations 2010[^f00068]
 
-Conservation of Habitats and Species Regulations 2017[^key-542a51c448ffa3a0a565707c2c10609a]
+Conservation of Habitats and Species Regulations 2017[^c-542a51c448ffa3a0a565707c2c10609a]
 
 Environmental Permitting (England & Wales) Regulations 2010[^f00070]
 
@@ -294,7 +294,7 @@ Commission Regulation EC No 617/2008 laying down detailed rules for implementing
 
 #### Claims Management Services
 
-Part 2 of the Financial Guidance and Claims Act 2018 (Claims Management Services)[^key-eeb496d5e94c2c64ab6f9f2f583469fc]
+Part 2 of the Financial Guidance and Claims Act 2018 (Claims Management Services)[^c-eeb496d5e94c2c64ab6f9f2f583469fc]
 
 #### Companies and other businesses
 
@@ -370,9 +370,9 @@ Fishing Vessels (Certification of Deck Officers and Engineer Officers) Regulatio
 
 Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995[^f00129]
 
-[^key-0b857047af47e41c4453b3bb1307cdcd]...
+[^c-0b857047af47e41c4453b3bb1307cdcd]...
 
-Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024[^key-85934d50dd6853b889d95d18c587d86c]
+Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024[^c-85934d50dd6853b889d95d18c587d86c]
 
 Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00132]
 
@@ -380,7 +380,7 @@ Merchant Shipping (Minimum Standards of Safety Communications) Regulations 1997[
 
 Fishing Vessels (EC Directive on Harmonised Safety Regime) Regulations 1999[^f00134]
 
-the Merchant Shipping (Marine Equipment) Regulations 2025[^key-4d3f474786a1462c97d2b7881fee7871]
+the Merchant Shipping (Marine Equipment) Regulations 2025[^c-4d3f474786a1462c97d2b7881fee7871]
 
 Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^f00136]
 
@@ -426,9 +426,9 @@ Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation
 
 Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/european/regulation/2006/1901) of the European Parliament and of the Council on medicinal products for paediatric use and amending Regulation [(EEC) No 1768/92](https://www.legislation.gov.uk/european/regulation/1992/1768), [Directive 2001/20/EC](https://www.legislation.gov.uk/european/directive/2001/0020), [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) and Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726)[^f00156]
 
-Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending[^key-855f429f7d71855ba4c8765983c0ee06] [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042)
+Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending[^c-855f429f7d71855ba4c8765983c0ee06] [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042)
 
-[Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^key-224d31fe9eea0db064f9bebc080f143c] of the European Parliament and of the Council of 5 April 2017 on *in vitro* diagnostic medical devices and repealing [Directive 98/79/EC](https://www.legislation.gov.uk/european/directive/1998/0079) and Commission [Decision 2010/227/EU](https://www.legislation.gov.uk/european/decision/2010/0227)
+[Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^c-224d31fe9eea0db064f9bebc080f143c] of the European Parliament and of the Council of 5 April 2017 on *in vitro* diagnostic medical devices and repealing [Directive 98/79/EC](https://www.legislation.gov.uk/european/directive/1998/0079) and Commission [Decision 2010/227/EU](https://www.legislation.gov.uk/european/decision/2010/0227)
 
 Medical Devices (Northern Ireland Protocol) Regulations 2021
 
@@ -450,7 +450,7 @@ Marketing of Ornamental Plant Propagating Material Regulations 1999[^f00162]
 
 Potatoes Originating in Egypt (England) Regulations 2004[^f00163]
 
-Marketing of Fruit Plant and Propagating Material (England) Regulations 2017[^key-31732cae1face6a551f698be5f98e626]
+Marketing of Fruit Plant and Propagating Material (England) Regulations 2017[^c-31732cae1face6a551f698be5f98e626]
 
 Seed Marketing Regulations 2011[^f00165]
 
@@ -498,7 +498,7 @@ Vehicle Drivers (Certificates of Professional Competence) Regulations 2007[^f001
 
 Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00186]
 
-Road Vehicles (Approval) Regulations 2020[^key-759378e12dbacf86fcab697db683f7f6]
+Road Vehicles (Approval) Regulations 2020[^c-759378e12dbacf86fcab697db683f7f6]
 
 Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles
 
@@ -514,13 +514,13 @@ Endangered Species (Import and Export) Act 1976[^f00190]
 
 Birds (Registration Charges) Act 1997[^f00191]
 
-[^key-656484b29636c873902c7a7b61982caf]...
+[^c-656484b29636c873902c7a7b61982caf]...
 
 Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00193]
 
 [Commission Regulation (EC) No 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865) laying down detailed rules concerning the implementation of Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00194]
 
-Control of Trade in Endangered Species Regulations 2018[^key-58134dade88200edfe2ad42f93d23b25]
+Control of Trade in Endangered Species Regulations 2018[^c-58134dade88200edfe2ad42f93d23b25]
 
 #### Miscellaneous
 
@@ -542,17 +542,17 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2015 c.20](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-27613bb9a77c66d046344c60ad97288e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+[^c-27613bb9a77c66d046344c60ad97288e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
 
-[^key-464dc96677785c0f021240174baf09ca]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/267/article/2) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+[^c-464dc96677785c0f021240174baf09ca]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/267/article/2) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
 
-[^key-4f8458208edb9cda592374592bb5b56d]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/267/article/3) inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/587/article/2/2)
+[^c-4f8458208edb9cda592374592bb5b56d]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/267/article/3) inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/587/article/2/2)
 
-[^key-7460e5edabe6860c76b73aa07e9a4755]: Commencement: Sch. Pt. 1 in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+[^c-7460e5edabe6860c76b73aa07e9a4755]: Commencement: Sch. Pt. 1 in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
 
 [^f00002]: Footnote: See section 13 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
 
-[^key-f3d6df616af96d7473349764dd3f00f8]: Textual amendment: Words in Sch. Pt. 1 inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/23) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-f3d6df616af96d7473349764dd3f00f8]: Textual amendment: Words in Sch. Pt. 1 inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/23) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
 [^f00003]: Footnote: See section 1 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
@@ -574,7 +574,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: See section 63 of the Patents and Designs Act [1907 (c.29)](https://www.legislation.gov.uk/ukpga/1907/29).
 
-[^key-42acb081cb6c1a5eb484f0820af474e1]: Textual amendment: Words in Sch. Pt. 1 omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [39(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/39/a)
+[^c-42acb081cb6c1a5eb484f0820af474e1]: Textual amendment: Words in Sch. Pt. 1 omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [39(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/39/a)
 
 [^f00014]: Footnote: See section 1 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -590,9 +590,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00020]: Footnote: [2004 c.25](https://www.legislation.gov.uk/ukpga/2004/25).
 
-[^key-4dc18447f15a02d5893064aacb5638b3]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/10/2/a)
+[^c-4dc18447f15a02d5893064aacb5638b3]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/10/2/a)
 
-[^key-f1090199323696c3ae7ed188eb5317df]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/a)
+[^c-f1090199323696c3ae7ed188eb5317df]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/a)
 
 [^f00022]: Footnote: See section 1 of the Groceries Code Adjudicator Act [2013 (c.19)](https://www.legislation.gov.uk/ukpga/2013/19).
 
@@ -606,7 +606,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00027]: Footnote: See section 4 of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-425804c9760fa93b5e2bd7d1edcebb31]: Textual amendment: Words in Sch. Pt. 1 substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 35](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/35) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-425804c9760fa93b5e2bd7d1edcebb31]: Textual amendment: Words in Sch. Pt. 1 substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 35](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/35) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
 [^f00030]: Footnote: See section 32 of the National Heritage Act [1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47).
 
@@ -618,7 +618,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00034]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
 
-[^key-1a308a1c2e00a3bd31b856c1ee8827dd]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/20); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-1a308a1c2e00a3bd31b856c1ee8827dd]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/20); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^f00035]: Footnote: See section 18 of the Freedom of Information Act [2000 (c.36)](https://www.legislation.gov.uk/ukpga/2000/36).
 
@@ -632,9 +632,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00040]: Footnote: See section 112 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-327600bfd322ec3f27dd171bb55bdb64]: Textual amendment: Words in Sch. Pt. 1 inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [39(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/39/b)
+[^c-327600bfd322ec3f27dd171bb55bdb64]: Textual amendment: Words in Sch. Pt. 1 inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [39(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/39/b)
 
-[^key-6c4ad995396d26596938b658dd3c31d3]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/b)
+[^c-6c4ad995396d26596938b658dd3c31d3]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/b)
 
 [^f00041]: Footnote: See section 127 of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22).
 
@@ -660,15 +660,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00052]: Footnote: See section 4 of the Public Passenger Vehicles Act [1981 (c.14)](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-80e47fb4ac395a8526043501f6208289]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) inserted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/10/2/b)
+[^c-80e47fb4ac395a8526043501f6208289]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) inserted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/10/2/b)
 
 [^f00053]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
 [^f00054]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
 
-[^key-1e7db1fb3d1c2acacbc921fc47c8bf2e]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/c)
+[^c-1e7db1fb3d1c2acacbc921fc47c8bf2e]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/c)
 
-[^key-772135535b032fd5da801785b0908ccf]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/2) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+[^c-772135535b032fd5da801785b0908ccf]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/2) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
 
 [^f00055]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56); section 86 was amended by the Water Act [2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21), schedule 7, paragraph 75.
 
@@ -676,7 +676,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00057]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46), section 457 was amended by [S.I. 2013/1970](https://www.legislation.gov.uk/uksi/2013/1970), schedule, paragraphs 1 and 15.
 
-[^key-97bce065502c607ce355e05534b0db81]: Commencement: Sch. Pt. 3 in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+[^c-97bce065502c607ce355e05534b0db81]: Commencement: Sch. Pt. 3 in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
 
 [^f00058]: Footnote: [2009 c.11](https://www.legislation.gov.uk/ukpga/2009/11).
 
@@ -700,7 +700,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00068]: Footnote: [S.I. 2010/983](https://www.legislation.gov.uk/uksi/2010/983).
 
-[^key-542a51c448ffa3a0a565707c2c10609a]: Textual amendment: Words in Sch. Pt. 3 substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 74](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/74)
+[^c-542a51c448ffa3a0a565707c2c10609a]: Textual amendment: Words in Sch. Pt. 3 substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 74](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/74)
 
 [^f00070]: Footnote: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675).
 
@@ -760,7 +760,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00098]: Footnote: OJ No L 334, 12.12.2008, p. 7.
 
-[^key-eeb496d5e94c2c64ab6f9f2f583469fc]: Textual amendment: Words in Sch. Pt. 3 substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [104](https://www.legislation.gov.uk/uksi/2018/1253/article/104)
+[^c-eeb496d5e94c2c64ab6f9f2f583469fc]: Textual amendment: Words in Sch. Pt. 3 substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [104](https://www.legislation.gov.uk/uksi/2018/1253/article/104)
 
 [^f00100]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -822,9 +822,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00129]: Footnote: [S.I. 1995/1802](https://www.legislation.gov.uk/uksi/1995/1802).
 
-[^key-0b857047af47e41c4453b3bb1307cdcd]: Textual amendment: Words in Sch. Pt. 3 omitted (11.6.2024) by virtue of [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-0b857047af47e41c4453b3bb1307cdcd]: Textual amendment: Words in Sch. Pt. 3 omitted (11.6.2024) by virtue of [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
-[^key-85934d50dd6853b889d95d18c587d86c]: Textual amendment: Words in Sch. Pt. 3 substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-85934d50dd6853b889d95d18c587d86c]: Textual amendment: Words in Sch. Pt. 3 substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
 [^f00132]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962).
 
@@ -832,7 +832,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00134]: Footnote: [S.I. 1999/2998](https://www.legislation.gov.uk/uksi/1999/2998).
 
-[^key-4d3f474786a1462c97d2b7881fee7871]: Textual amendment: Words in Sch. Pt. 3 substituted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-4d3f474786a1462c97d2b7881fee7871]: Textual amendment: Words in Sch. Pt. 3 substituted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
 [^f00136]: Footnote: [S.I. 2001/3209](https://www.legislation.gov.uk/uksi/2001/3209).
 
@@ -876,9 +876,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00156]: Footnote: OJ No L 378, 27.12.2006, p. 1.
 
-[^key-855f429f7d71855ba4c8765983c0ee06]: Textual amendment: Words in Sch. Pt. 3 inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2021/905/regulation/42)
+[^c-855f429f7d71855ba4c8765983c0ee06]: Textual amendment: Words in Sch. Pt. 3 inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2021/905/regulation/42)
 
-[^key-224d31fe9eea0db064f9bebc080f143c]: Textual amendment: Words in Sch. Pt. 3 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2024/221/regulation/25)
+[^c-224d31fe9eea0db064f9bebc080f143c]: Textual amendment: Words in Sch. Pt. 3 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2024/221/regulation/25)
 
 [^f00157]: Footnote: [1986 c.38](https://www.legislation.gov.uk/ukpga/1986/38).
 
@@ -894,7 +894,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00163]: Footnote: [S.I. 2004/1165](https://www.legislation.gov.uk/uksi/2004/1165).
 
-[^key-31732cae1face6a551f698be5f98e626]: Textual amendment: Words in Sch. Pt. 3 substituted (1.6.2017) by [The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 (S.I. 2017/595)](https://www.legislation.gov.uk/uksi/2017/595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/595/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2017/595/regulation/29/2)
+[^c-31732cae1face6a551f698be5f98e626]: Textual amendment: Words in Sch. Pt. 3 substituted (1.6.2017) by [The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 (S.I. 2017/595)](https://www.legislation.gov.uk/uksi/2017/595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/595/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2017/595/regulation/29/2)
 
 [^f00165]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463).
 
@@ -940,7 +940,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00186]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348).
 
-[^key-759378e12dbacf86fcab697db683f7f6]: Textual amendment: Words in Sch. Pt. 3 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 33(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/33/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-759378e12dbacf86fcab697db683f7f6]: Textual amendment: Words in Sch. Pt. 3 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 33(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/33/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^f00188]: Footnote: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72).
 
@@ -950,12 +950,12 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00191]: Footnote: [1997 c.55](https://www.legislation.gov.uk/ukpga/1997/55).
 
-[^key-656484b29636c873902c7a7b61982caf]: Textual amendment: Words in Sch. Pt. 3 omitted (6.11.2019) by virtue of [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/7/a)
+[^c-656484b29636c873902c7a7b61982caf]: Textual amendment: Words in Sch. Pt. 3 omitted (6.11.2019) by virtue of [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/7/a)
 
 [^f00193]: Footnote: OJ No L 61, 3.3.1997, p. 1.
 
 [^f00194]: Footnote: OJ No L 166, 19.6.2006, p. 1.
 
-[^key-58134dade88200edfe2ad42f93d23b25]: Textual amendment: Words in Sch. Pt. 3 inserted (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/7/b)
+[^c-58134dade88200edfe2ad42f93d23b25]: Textual amendment: Words in Sch. Pt. 3 inserted (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/7/b)
 
 [^f00195]: Footnote: [S.I. 2012/3032](https://www.legislation.gov.uk/uksi/2012/3032).

@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations (Northern Ireland) 2006 (revoked)[^key-e461706380f30a48813692735dc4cb4f]
+The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations (Northern Ireland) 2006 (revoked)[^c-e461706380f30a48813692735dc4cb4f]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st September 2006
 
-[^key-e461706380f30a48813692735dc4cb4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e461706380f30a48813692735dc4cb4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e461706380f30a48813692735dc4cb4f]
+## 1. Citation and commencement[^c-e461706380f30a48813692735dc4cb4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2000[^key-e461706380f30a48813692735dc4cb4f]
+## 2. Amendment of the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2000[^c-e461706380f30a48813692735dc4cb4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e461706380f30a48813692735dc4cb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e461706380f30a48813692735dc4cb4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e461706380f30a48813692735dc4cb4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e461706380f30a48813692735dc4cb4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e461706380f30a48813692735dc4cb4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e461706380f30a48813692735dc4cb4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/331) revoked (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 (S.R. 2009/128)](https://www.legislation.gov.uk/nisr/2009/128), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/128/schedule)
+[^c-e461706380f30a48813692735dc4cb4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/331) revoked (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 (S.R. 2009/128)](https://www.legislation.gov.uk/nisr/2009/128), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/128/schedule)

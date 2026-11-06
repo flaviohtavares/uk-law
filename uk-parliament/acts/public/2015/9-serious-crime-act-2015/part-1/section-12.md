@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Continuation of restraint order after quashed conviction[^key-7268cae9144750755f55fdf3abcf0d99]
+## 12. Continuation of restraint order after quashed conviction[^c-7268cae9144750755f55fdf3abcf0d99]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ In section 42 of the Proceeds of Crime Act 2002 (application, discharge and vari
 
 ## Annotations
 
-[^key-7268cae9144750755f55fdf3abcf0d99]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2015/9/section/12) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/i)
+[^c-7268cae9144750755f55fdf3abcf0d99]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2015/9/section/12) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/i)

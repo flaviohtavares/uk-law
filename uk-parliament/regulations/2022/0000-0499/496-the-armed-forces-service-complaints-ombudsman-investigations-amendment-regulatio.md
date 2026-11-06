@@ -32,7 +32,7 @@ summary: ''
 
 Defence
 
-The Armed Forces (Service Complaints Ombudsman Investigations) (Amendment) Regulations 2022 (revoked)[^key-5c77d0d9fb41d6e88b3b4618ef0e6ed3]
+The Armed Forces (Service Complaints Ombudsman Investigations) (Amendment) Regulations 2022 (revoked)[^c-5c77d0d9fb41d6e88b3b4618ef0e6ed3]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 15th June 2022
 
-[^key-5c77d0d9fb41d6e88b3b4618ef0e6ed3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c77d0d9fb41d6e88b3b4618ef0e6ed3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-5c77d0d9fb41d6e88b3b4618ef0e6ed3]
+## 1. Citation, commencement and extent[^c-5c77d0d9fb41d6e88b3b4618ef0e6ed3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Armed Forces (Service Complaints Ombudsman Investigations) Regulations 2015[^key-5c77d0d9fb41d6e88b3b4618ef0e6ed3]
+## 2. Amendment of the Armed Forces (Service Complaints Ombudsman Investigations) Regulations 2015[^c-5c77d0d9fb41d6e88b3b4618ef0e6ed3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c77d0d9fb41d6e88b3b4618ef0e6ed3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c77d0d9fb41d6e88b3b4618ef0e6ed3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c77d0d9fb41d6e88b3b4618ef0e6ed3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c77d0d9fb41d6e88b3b4618ef0e6ed3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c77d0d9fb41d6e88b3b4618ef0e6ed3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/496) revoked (1.4.2026) by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/24/regulation/13) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11))
+[^c-5c77d0d9fb41d6e88b3b4618ef0e6ed3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/496) revoked (1.4.2026) by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/24/regulation/13) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Designation of other providers of tertiary education[^key-44927cbfad63965b1281c87b6187f473][^key-e0c0eb3955b626b1187656e1ad01a303][^key-0114b1afb2eea8285d34cfdc8730b3bf]
+## 83. Designation of other providers of tertiary education[^c-44927cbfad63965b1281c87b6187f473][^c-e0c0eb3955b626b1187656e1ad01a303][^c-0114b1afb2eea8285d34cfdc8730b3bf]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-44927cbfad63965b1281c87b6187f473]: Commencement: S. 83 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-44927cbfad63965b1281c87b6187f473]: Commencement: S. 83 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-e0c0eb3955b626b1187656e1ad01a303]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2022/1/section/83) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(cc)](https://www.legislation.gov.uk/wsi/2023/919/article/3/cc)
+[^c-e0c0eb3955b626b1187656e1ad01a303]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2022/1/section/83) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(cc)](https://www.legislation.gov.uk/wsi/2023/919/article/3/cc)
 
-[^key-0114b1afb2eea8285d34cfdc8730b3bf]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2022/1/section/83) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ee)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ee)
+[^c-0114b1afb2eea8285d34cfdc8730b3bf]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2022/1/section/83) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ee)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ee)

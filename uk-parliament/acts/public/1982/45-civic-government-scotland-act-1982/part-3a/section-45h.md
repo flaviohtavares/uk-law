@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45H. General functions of a civic licensing standards officer[^key-3322b65a66e4bc2ce5dccf8a8f98a839]
+## 45H. General functions of a civic licensing standards officer[^c-3322b65a66e4bc2ce5dccf8a8f98a839]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3322b65a66e4bc2ce5dccf8a8f98a839]: Textual amendment: Pt. 3A inserted (1.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 82](https://www.legislation.gov.uk/asp/2015/10/section/82), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-3322b65a66e4bc2ce5dccf8a8f98a839]: Textual amendment: Pt. 3A inserted (1.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 82](https://www.legislation.gov.uk/asp/2015/10/section/82), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39K. Activities carried on by members of the legal profession etc[^key-2dea9dd874719157875e450ec5fba497][^key-17d5017841c99d8e2e20b44565cb7975]
+## 39K. Activities carried on by members of the legal profession etc[^c-2dea9dd874719157875e450ec5fba497][^c-17d5017841c99d8e2e20b44565cb7975]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2dea9dd874719157875e450ec5fba497]: Textual amendment: Art. 39K substituted (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/853/article/3/3)
+[^c-2dea9dd874719157875e450ec5fba497]: Textual amendment: Art. 39K substituted (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/853/article/3/3)
 
-[^key-17d5017841c99d8e2e20b44565cb7975]: Textual amendment: Pt. II Ch. 7B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [5](https://www.legislation.gov.uk/uksi/2013/1881/article/5)
+[^c-17d5017841c99d8e2e20b44565cb7975]: Textual amendment: Pt. II Ch. 7B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [5](https://www.legislation.gov.uk/uksi/2013/1881/article/5)

@@ -33,7 +33,7 @@ An Act to consolidate in relation to Scotland certain enactments relating to ren
 
 \[31st October 1984\]
 
-[^c980431][^c980441][^c980451][^c980461][^c980471]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b7ca474a1adb1f29c538e711ade030ea][^key-1a1aae708fb9af7b83517d17ef61b185][^key-562e0e9b6c5ab735d50b5e8f546889cc]
+[^c980431][^c980441][^c980451][^c980461][^c980471]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b7ca474a1adb1f29c538e711ade030ea][^c-1a1aae708fb9af7b83517d17ef61b185][^c-562e0e9b6c5ab735d50b5e8f546889cc]
 
 ## Contents
 
@@ -54,7 +54,7 @@ An Act to consolidate in relation to Scotland certain enactments relating to ren
 - [Section 9 — Short tenancies.](part-i/section-9.md)
 - [Section 10 — Premises with business use.](part-i/section-10.md)
 
-### Part II — Security of Tenure[^key-0fdc34e3c58d90769314feac5e50ecca]
+### Part II — Security of Tenure[^c-0fdc34e3c58d90769314feac5e50ecca]
 
 *Extent: S*
 
@@ -71,7 +71,7 @@ An Act to consolidate in relation to Scotland certain enactments relating to ren
 - [Section 20 — Effect on furnished sub-tenancy of determination of superior unfurnished tenancy.](part-ii/section-20.md)
 - [Section 21 — Compensation for misrepresentation or concealment in Cases 7 and 8.](part-ii/section-21.md)
 
-### Part III — Protection against Harassment and Eviction without due process of Law[^key-0fdc34e3c58d90769314feac5e50ecca]
+### Part III — Protection against Harassment and Eviction without due process of Law[^c-0fdc34e3c58d90769314feac5e50ecca]
 
 - [Section 22 — Unlawful eviction and harassment of occupier.](part-iii/section-22.md)
 - [Section 23 — Prohibition of eviction without due process of law.](part-iii/section-23.md)
@@ -236,13 +236,13 @@ SCHEDULES
 
 [^c980471]: Modification: Act: definition of "statutory tenant" applied (30.11.1991) by [Coal Mining Subsidence Act 1991 (c. 45, SIF 86)](https://www.legislation.gov.uk/ukpga/1991/45), [s. 22(1)](https://www.legislation.gov.uk/ukpga/1991/45/section/22/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1) (4)(c) (with s. 37(4), Sch. 7); [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-b7ca474a1adb1f29c538e711ade030ea]: Modification: Act restricted (3.9.2007) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 38(10)](https://www.legislation.gov.uk/asp/2006/1/section/38/10), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2007/270](https://www.legislation.gov.uk/ssi/2007/270), [art. 3](https://www.legislation.gov.uk/ssi/2007/270/article/3)
+[^c-b7ca474a1adb1f29c538e711ade030ea]: Modification: Act restricted (3.9.2007) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 38(10)](https://www.legislation.gov.uk/asp/2006/1/section/38/10), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2007/270](https://www.legislation.gov.uk/ssi/2007/270), [art. 3](https://www.legislation.gov.uk/ssi/2007/270/article/3)
 
-[^key-1a1aae708fb9af7b83517d17ef61b185]: Modification: Act restricted (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 5 para. 3(10)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/10) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-1a1aae708fb9af7b83517d17ef61b185]: Modification: Act restricted (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 5 para. 3(10)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/10) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-562e0e9b6c5ab735d50b5e8f546889cc]: Modification: Act modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/6) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2)); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
+[^c-562e0e9b6c5ab735d50b5e8f546889cc]: Modification: Act modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/6) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2)); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
 
-[^key-0fdc34e3c58d90769314feac5e50ecca]: Modification: Pts. II, III excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)); S.I. 2018/78, reg. 3(l)
+[^c-0fdc34e3c58d90769314feac5e50ecca]: Modification: Pts. II, III excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)); S.I. 2018/78, reg. 3(l)
 
 [^c13167821]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/1984/58/part/VII) (ss. 62-81) excluded by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 55(4)](https://www.legislation.gov.uk/ukpga/1987/26/section/55/4), [335](https://www.legislation.gov.uk/ukpga/1987/26/section/335)
 

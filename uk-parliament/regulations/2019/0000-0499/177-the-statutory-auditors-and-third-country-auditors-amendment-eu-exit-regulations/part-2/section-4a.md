@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A.[^key-232d0fd8440f5608127310bc1734525f]
+## 4A.[^c-232d0fd8440f5608127310bc1734525f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 479C(2) (subsidiary companies audit exemption: parent undertaking dec
 
 ## Annotations
 
-[^key-232d0fd8440f5608127310bc1734525f]: Textual amendment: Regs. 4, 4A substituted for reg. 4 (31.12.2020 immediately before IP completion day) by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1392/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-232d0fd8440f5608127310bc1734525f]: Textual amendment: Regs. 4, 4A substituted for reg. 4 (31.12.2020 immediately before IP completion day) by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1392/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

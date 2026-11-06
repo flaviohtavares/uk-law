@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Stabilisation and Association Agreement) (Republic of Albania) Order 2007 (revoked)[^key-fed608f1608dd4e7d68bf0a955613b46]
+The European Communities (Definition of Treaties) (Stabilisation and Association Agreement) (Republic of Albania) Order 2007 (revoked)[^c-fed608f1608dd4e7d68bf0a955613b46]
 
 Made
 
@@ -46,26 +46,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-fed608f1608dd4e7d68bf0a955613b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed608f1608dd4e7d68bf0a955613b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-fed608f1608dd4e7d68bf0a955613b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fed608f1608dd4e7d68bf0a955613b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fed608f1608dd4e7d68bf0a955613b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fed608f1608dd4e7d68bf0a955613b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fed608f1608dd4e7d68bf0a955613b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fed608f1608dd4e7d68bf0a955613b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fed608f1608dd4e7d68bf0a955613b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed608f1608dd4e7d68bf0a955613b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-fed608f1608dd4e7d68bf0a955613b46]
+## SCHEDULE[^c-fed608f1608dd4e7d68bf0a955613b46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fed608f1608dd4e7d68bf0a955613b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed608f1608dd4e7d68bf0a955613b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fed608f1608dd4e7d68bf0a955613b46]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/2137) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fed608f1608dd4e7d68bf0a955613b46]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/2137) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

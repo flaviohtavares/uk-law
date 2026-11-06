@@ -63,10 +63,10 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 1.** This Regulation lays down detailed rules implementing the conditions necessary for adding species to Annex IV to Regulation (EC) No 708/2007 and regarding the development of a specific information system concerning the permits for the introductions and translocations of alien and locally absent species in aquaculture.
 
-**Article 2.** For the purposes of Article 24(3)[^key-36641236c4729204261d9010bf575685] of Regulation (EC) No 708/2007:
+**Article 2.** For the purposes of Article 24(3)[^c-36641236c4729204261d9010bf575685] of Regulation (EC) No 708/2007:
 
 - ((a)) *‘long time (with reference to its life cycle)’* shall mean a minimum period of 10 years following the completion of two production cycles;
-- ((b)) *‘adverse effect’* shall mean a case where scientific evidence shows that an aquatic species, after its introduction in Great Britain[^key-21e800e9babd3eab468b8ed6687d0226], cause *inter alia*, significant:
+- ((b)) *‘adverse effect’* shall mean a case where scientific evidence shows that an aquatic species, after its introduction in Great Britain[^c-21e800e9babd3eab468b8ed6687d0226], cause *inter alia*, significant:
   - ((i)) habitat degradation;
   - ((ii)) competition with native species for spawning habitat;
   - ((iii)) hybridisation with native species threatening species integrity;
@@ -74,7 +74,7 @@ HAS ADOPTED THIS REGULATION:
   - ((v)) depletion of native food resources;
   - ((vi)) spread of disease and novel pathogens in wild aquatic organisms and ecosystems.
 
-## Article 2a. Interpretation[^key-4db6bb46f95c3b0a68e5ea36c889bb2d]
+## Article 2a. Interpretation[^c-4db6bb46f95c3b0a68e5ea36c889bb2d]
 
 In this Regulation, “the appropriate authority” means—
 
@@ -87,17 +87,17 @@ but the appropriate authority is the Secretary of State if consent is given—
 - (a) in respect of the functions exercisable in relation to Wales, by the Welsh Ministers;
 - (b) in respect of the functions exercisable in relation to Scotland, by the Scottish Ministers.
 
-**Article 3.**[^key-3ac0bfef1f0b471bc5440f6f0c032eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-3ac0bfef1f0b471bc5440f6f0c032eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.** 1. The appropriate authority[^key-0cbac60bdb9eb23cef0b03bae349d586] shall establish and keep up to date an information system containing details of all requests for permits to introduce an alien species or to translocate a locally absent species. The appropriate authority shall fill in for each request for a permit an information sheet setting out the data indicated in the Annex to this Regulation and in accordance with the format set out therein.
+**Article 4.** 1. The appropriate authority[^c-0cbac60bdb9eb23cef0b03bae349d586] shall establish and keep up to date an information system containing details of all requests for permits to introduce an alien species or to translocate a locally absent species. The appropriate authority shall fill in for each request for a permit an information sheet setting out the data indicated in the Annex to this Regulation and in accordance with the format set out therein.
 
-2.[^key-27d61eb01c0c7a3ce095d758ad3fdcae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-27d61eb01c0c7a3ce095d758ad3fdcae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-d036c6c5aa8fd93f44490e9da60eb21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-d036c6c5aa8fd93f44490e9da60eb21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-766f9abd3d85a8434453390d971d9157] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-766f9abd3d85a8434453390d971d9157] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dddc9f650e7129ed23c0a960cc548c]...
+[^c-c2dddc9f650e7129ed23c0a960cc548c]...
 
 Done at Brussels, 13 June 2008.
 
@@ -287,7 +287,7 @@ High
 
 2.1.2.2.
 
-Summary report of the overall environment risk assessment (some lines and a PDF document) [^key-d333783ef5bfcdd5cba17c5dd9acca33]...
+Summary report of the overall environment risk assessment (some lines and a PDF document) [^c-d333783ef5bfcdd5cba17c5dd9acca33]...
 
 2.1.2.3.
 
@@ -339,7 +339,7 @@ Monitoring
 
 3.2.
 
-Summary of the results of the evaluation of the monitoring programme (some lines and a PDF document) [^key-cd8dadb76acab6a74ba5baa2eba2a345]...
+Summary of the results of the evaluation of the monitoring programme (some lines and a PDF document) [^c-cd8dadb76acab6a74ba5baa2eba2a345]...
 
 3.3.
 
@@ -365,36 +365,36 @@ If YES: Temporarily/permanently
 
 3.4.3.
 
-Reasons for the withdrawal (some lines) [^key-2af3965fc284fff1115ab671df13460b]...:
+Reasons for the withdrawal (some lines) [^c-2af3965fc284fff1115ab671df13460b]...:
 
 ## Annotations
 
 [^f00001]: Footnote: [OJ L 168, 28.6.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.168.01.0001.01.ENG).
 
-[^key-36641236c4729204261d9010bf575685]: Textual amendment: Words in Art. 2 substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/2/a) (as substituted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36641236c4729204261d9010bf575685]: Textual amendment: Words in Art. 2 substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/2/a) (as substituted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21e800e9babd3eab468b8ed6687d0226]: Textual amendment: Words in Art. 2(b) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/2/b) (as substituted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21e800e9babd3eab468b8ed6687d0226]: Textual amendment: Words in Art. 2(b) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/2/b) (as substituted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4db6bb46f95c3b0a68e5ea36c889bb2d]: Textual amendment: Art. 2a inserted by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/3) (as substituted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4db6bb46f95c3b0a68e5ea36c889bb2d]: Textual amendment: Art. 2a inserted by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/3) (as substituted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ac0bfef1f0b471bc5440f6f0c032eb9]: Textual amendment: Art. 3 omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ac0bfef1f0b471bc5440f6f0c032eb9]: Textual amendment: Art. 3 omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0cbac60bdb9eb23cef0b03bae349d586]: Textual amendment: Words in Art. 4(1) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cbac60bdb9eb23cef0b03bae349d586]: Textual amendment: Words in Art. 4(1) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27d61eb01c0c7a3ce095d758ad3fdcae]: Textual amendment: Art. 4(2) omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27d61eb01c0c7a3ce095d758ad3fdcae]: Textual amendment: Art. 4(2) omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d036c6c5aa8fd93f44490e9da60eb21f]: Textual amendment: Art. 4(3) omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d036c6c5aa8fd93f44490e9da60eb21f]: Textual amendment: Art. 4(3) omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-766f9abd3d85a8434453390d971d9157]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-766f9abd3d85a8434453390d971d9157]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2dddc9f650e7129ed23c0a960cc548c]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(7)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2dddc9f650e7129ed23c0a960cc548c]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(7)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: Applications may be submitted for multiple movements to take place over a period of not longer than seven years (Article 6(1) of Regulation (EC) No 708/2007).
 
 [^f00003]: Footnote: As defined in Article 3(2) and (3) of Regulation (EC) No 708/2007.
 
-[^key-d333783ef5bfcdd5cba17c5dd9acca33]: Textual amendment: Words in Annex point 2.1.2.2. omitted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/8) (as inserted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d333783ef5bfcdd5cba17c5dd9acca33]: Textual amendment: Words in Annex point 2.1.2.2. omitted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/8) (as inserted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd8dadb76acab6a74ba5baa2eba2a345]: Textual amendment: Words in Annex point 3.2 omitted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/8) (as inserted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd8dadb76acab6a74ba5baa2eba2a345]: Textual amendment: Words in Annex point 3.2 omitted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/8) (as inserted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2af3965fc284fff1115ab671df13460b]: Textual amendment: Words in Annex point 3.4.3 omitted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/8) (as inserted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2af3965fc284fff1115ab671df13460b]: Textual amendment: Words in Annex point 3.4.3 omitted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/451)](https://www.legislation.gov.uk/uksi/2019/451), [regs. 1](https://www.legislation.gov.uk/uksi/2019/451/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2019/451/regulation/10/8) (as inserted by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/2/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

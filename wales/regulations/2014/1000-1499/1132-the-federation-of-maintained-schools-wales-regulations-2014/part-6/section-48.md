@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. School Council Regulations[^key-5ce103d305a47eae82dcbe522177da28]
+## 48. School Council Regulations[^c-5ce103d305a47eae82dcbe522177da28]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The School Council Regulations apply to the governing body of a federation and i
 
 ## Annotations
 
-[^key-5ce103d305a47eae82dcbe522177da28]: Commencement: Reg. 48 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-5ce103d305a47eae82dcbe522177da28]: Commencement: Reg. 48 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

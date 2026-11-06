@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Combining needs assessments for a carer and a cared for person[^key-98b3a75d0d54d3b30872a1ee3880d6f9]
+## 28. Combining needs assessments for a carer and a cared for person[^c-98b3a75d0d54d3b30872a1ee3880d6f9]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ but this is subject to subsections (2) to (4).
 
 ## Annotations
 
-[^key-98b3a75d0d54d3b30872a1ee3880d6f9]: Commencement: S. 28 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-98b3a75d0d54d3b30872a1ee3880d6f9]: Commencement: S. 28 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

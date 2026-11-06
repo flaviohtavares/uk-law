@@ -35,40 +35,40 @@ setting the Union-wide performance targets for the air traffic management networ
 
 (Text with EEA relevance) (revoked)
 
-[^key-ee31e1beb06ad71ca20bda7f12fd7f73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee31e1beb06ad71ca20bda7f12fd7f73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope[^key-ee31e1beb06ad71ca20bda7f12fd7f73]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Union-wide performance targets in the key performance area of safety[^key-ee31e1beb06ad71ca20bda7f12fd7f73]
+## Article 1. Scope[^c-ee31e1beb06ad71ca20bda7f12fd7f73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Union-wide performance targets in the key performance area of environment[^key-ee31e1beb06ad71ca20bda7f12fd7f73]
+## Article 2. Union-wide performance targets in the key performance area of safety[^c-ee31e1beb06ad71ca20bda7f12fd7f73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Union-wide performance targets in the key performance area of capacity[^key-ee31e1beb06ad71ca20bda7f12fd7f73]
+## Article 3. Union-wide performance targets in the key performance area of environment[^c-ee31e1beb06ad71ca20bda7f12fd7f73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Union-wide performance targets in the key performance area of cost-efficiency[^key-ee31e1beb06ad71ca20bda7f12fd7f73]
+## Article 4. Union-wide performance targets in the key performance area of capacity[^c-ee31e1beb06ad71ca20bda7f12fd7f73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Alert thresholds[^key-ee31e1beb06ad71ca20bda7f12fd7f73]
+## Article 5. Union-wide performance targets in the key performance area of cost-efficiency[^c-ee31e1beb06ad71ca20bda7f12fd7f73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Comparator Groups[^key-ee31e1beb06ad71ca20bda7f12fd7f73]
+## Article 6. Alert thresholds[^c-ee31e1beb06ad71ca20bda7f12fd7f73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-ee31e1beb06ad71ca20bda7f12fd7f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Comparator Groups[^c-ee31e1beb06ad71ca20bda7f12fd7f73]
 
-[^key-ee31e1beb06ad71ca20bda7f12fd7f73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 8.**[^c-ee31e1beb06ad71ca20bda7f12fd7f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ee31e1beb06ad71ca20bda7f12fd7f73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee31e1beb06ad71ca20bda7f12fd7f73]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2020/694/regulation/54)
+[^c-ee31e1beb06ad71ca20bda7f12fd7f73]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2020/694/regulation/54)

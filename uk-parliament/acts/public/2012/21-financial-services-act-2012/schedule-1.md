@@ -22,7 +22,7 @@ summary: ''
 
 Section 4
 
-### PART 1 — Schedule to be inserted as Schedule 2A to Bank of England Act 1998[^key-e32f173ba2deb26eab3367f02a5f174b][^key-067ade1309f5406d81be9ab780d158fc]
+### PART 1 — Schedule to be inserted as Schedule 2A to Bank of England Act 1998[^c-e32f173ba2deb26eab3367f02a5f174b][^c-067ade1309f5406d81be9ab780d158fc]
 
 **Not yet in force.**
 
@@ -126,40 +126,40 @@ This is the Schedule to be inserted in the Bank of England Act 1998 after Schedu
 
 #### Bank of England Act 1998 (c. 11)
 
-**1.**[^key-89e7ce729db56fb28c0b20f35f565cb8] In section 4 of the Bank of England Act 1998 (annual report by Bank), in subsection (2), for the “and” at the end of paragraph (a) substitute—
+**1.**[^c-89e7ce729db56fb28c0b20f35f565cb8] In section 4 of the Bank of England Act 1998 (annual report by Bank), in subsection (2), for the “and” at the end of paragraph (a) substitute—
 
 > - (aa) a report by the court of directors on the activities of the Financial Policy Committee of the Bank, and
 
 .
 
-**2.**[^key-c910fd780756dfcc5f974d079bdefa7a] In section 15 of the Bank of England Act 1998 (publication of minutes of meetings of Monetary Policy Committee) after subsection (4) insert—
+**2.**[^c-c910fd780756dfcc5f974d079bdefa7a] In section 15 of the Bank of England Act 1998 (publication of minutes of meetings of Monetary Policy Committee) after subsection (4) insert—
 
 > (4A) The Bank shall exclude from minutes published under this section information which relates to proceedings of the Financial Policy Committee if the Bank considers that publication of that information would be against the public interest.
 
-**3.**[^key-37c39475633957aba341efe7dc60dfda] In section 40 of the Bank of England Act 1998 (orders), after subsection (4) insert—
+**3.**[^c-37c39475633957aba341efe7dc60dfda] In section 40 of the Bank of England Act 1998 (orders), after subsection (4) insert—
 
 > (4A) Section 9N contains its own provisions about parliamentary procedure in relation to an order under section 9L.
 
 #### House of Commons Disqualification Act 1975 (c. 24)
 
-**4.**[^key-a863d1ab7d1dae239227d2e4bfe21792] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert— “ Member of the Financial Policy Committee of the Bank of England appointed under section 9B(1)(d) or (e) of the Bank of England Act 1998. ”
+**4.**[^c-a863d1ab7d1dae239227d2e4bfe21792] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert— “ Member of the Financial Policy Committee of the Bank of England appointed under section 9B(1)(d) or (e) of the Bank of England Act 1998. ”
 
 #### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
-**5.**[^key-35111f1608637ebd74686c3c09e59920] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert— “ Member of the Financial Policy Committee of the Bank of England appointed under section 9B(1)(d) or (e) of the Bank of England Act 1998. ”
+**5.**[^c-35111f1608637ebd74686c3c09e59920] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert— “ Member of the Financial Policy Committee of the Bank of England appointed under section 9B(1)(d) or (e) of the Bank of England Act 1998. ”
 
 ## Annotations
 
-[^key-e32f173ba2deb26eab3367f02a5f174b]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/part/1) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-e32f173ba2deb26eab3367f02a5f174b]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/part/1) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-067ade1309f5406d81be9ab780d158fc]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/part/1) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-067ade1309f5406d81be9ab780d158fc]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/part/1) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-89e7ce729db56fb28c0b20f35f565cb8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/1) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-89e7ce729db56fb28c0b20f35f565cb8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/1) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-c910fd780756dfcc5f974d079bdefa7a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/2) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c910fd780756dfcc5f974d079bdefa7a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/2) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-37c39475633957aba341efe7dc60dfda]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-37c39475633957aba341efe7dc60dfda]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-a863d1ab7d1dae239227d2e4bfe21792]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-a863d1ab7d1dae239227d2e4bfe21792]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-35111f1608637ebd74686c3c09e59920]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/5) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-35111f1608637ebd74686c3c09e59920]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/1/paragraph/5) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

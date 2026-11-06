@@ -30,7 +30,7 @@ summary: ''
 
 RACE RELATIONS
 
-Race Relations (Complaints to Industrial Tribunals) (Armed Forces) Regulations (Northern Ireland) 1998 (revoked)[^key-fa273abbac018b598c1abcfb65ed24e7]
+Race Relations (Complaints to Industrial Tribunals) (Armed Forces) Regulations (Northern Ireland) 1998 (revoked)[^c-fa273abbac018b598c1abcfb65ed24e7]
 
 Made
 
@@ -42,20 +42,20 @@ Coming into operation
 
 17th April 1998
 
-[^key-fa273abbac018b598c1abcfb65ed24e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa273abbac018b598c1abcfb65ed24e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-fa273abbac018b598c1abcfb65ed24e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fa273abbac018b598c1abcfb65ed24e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fa273abbac018b598c1abcfb65ed24e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fa273abbac018b598c1abcfb65ed24e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa273abbac018b598c1abcfb65ed24e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa273abbac018b598c1abcfb65ed24e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa273abbac018b598c1abcfb65ed24e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa273abbac018b598c1abcfb65ed24e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa273abbac018b598c1abcfb65ed24e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/104) revoked (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/17)
+[^c-fa273abbac018b598c1abcfb65ed24e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/104) revoked (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/17)

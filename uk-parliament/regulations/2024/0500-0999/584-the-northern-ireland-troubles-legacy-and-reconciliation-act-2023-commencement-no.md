@@ -37,11 +37,11 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 63(4) and (5) of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023[^f00001].
 
-## 1. Citation[^key-16d8cfde376951ecd3bf9b0b279f34b6]
+## 1. Citation[^c-16d8cfde376951ecd3bf9b0b279f34b6]
 
 These Regulations may be cited as the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2024.
 
-## 2. Provisions coming into force on 1st May 2024[^key-10e1c1ceb1861263f855ffe7d5cbc899]
+## 2. Provisions coming into force on 1st May 2024[^c-10e1c1ceb1861263f855ffe7d5cbc899]
 
 The following provisions of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 come into force on 1st May 2024—
 
@@ -74,16 +74,16 @@ The following provisions of the Northern Ireland Troubles (Legacy and Reconcilia
 - (aa) Part 4 (memorialising the Troubles), insofar as it is not already in force;
 - (bb) section 58(1) (consequential provision) and Schedule 13 (amendments), insofar as they are not already in force.
 
-## 3. Transitional provision in relation to criminal investigations[^key-1edb1f4bbbf0178ed67f1c28aa51f1bd]
+## 3. Transitional provision in relation to criminal investigations[^c-1edb1f4bbbf0178ed67f1c28aa51f1bd]
 
 (1) This regulation applies in relation to a criminal investigation of a Troubles-related offence[^f00002] which was initiated before 1st May 2024 if, on that date, all that remains to be carried out by the investigating body is the preparation or completion of the investigation report or something subsequent to that.
 
 (2) Where this regulation applies, the investigating body may prepare or complete the investigation report or do anything subsequent to that—
 
 - (a) on or after 1st May 2024, but
-- (b) no later than 31st October 2026[^key-a251e28f4f4a392579f81cd6cb4fbca1].
+- (b) no later than 31st October 2026[^c-a251e28f4f4a392579f81cd6cb4fbca1].
 
-## 4. Transitional provision in relation to criminal enforcement action[^key-a1ea38f39bbd3de42af1c98e068a3a46]
+## 4. Transitional provision in relation to criminal enforcement action[^c-a1ea38f39bbd3de42af1c98e068a3a46]
 
 (1) This regulation applies where—
 
@@ -143,14 +143,14 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00001]: Footnote: [2023 c. 41](https://www.legislation.gov.uk/ukpga/2023/41). The Secretary of State is a ‘national authority’ for the purposes of section 63(5); see section 58(3).
 
-[^key-16d8cfde376951ecd3bf9b0b279f34b6]: Commencement: Reg. 1 in force at made date
+[^c-16d8cfde376951ecd3bf9b0b279f34b6]: Commencement: Reg. 1 in force at made date
 
-[^key-10e1c1ceb1861263f855ffe7d5cbc899]: Commencement: Reg. 2 in force at made date
+[^c-10e1c1ceb1861263f855ffe7d5cbc899]: Commencement: Reg. 2 in force at made date
 
-[^key-1edb1f4bbbf0178ed67f1c28aa51f1bd]: Commencement: Reg. 3 in force at made date
+[^c-1edb1f4bbbf0178ed67f1c28aa51f1bd]: Commencement: Reg. 3 in force at made date
 
 [^f00002]: Footnote: See section 1 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
 
-[^key-a251e28f4f4a392579f81cd6cb4fbca1]: Textual amendment: Words in reg. 3(2) substituted (30.4.2026) by [The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/483)](https://www.legislation.gov.uk/uksi/2026/483), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/483/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/483/regulation/2)
+[^c-a251e28f4f4a392579f81cd6cb4fbca1]: Textual amendment: Words in reg. 3(2) substituted (30.4.2026) by [The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/483)](https://www.legislation.gov.uk/uksi/2026/483), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/483/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/483/regulation/2)
 
-[^key-a1ea38f39bbd3de42af1c98e068a3a46]: Commencement: Reg. 4 in force at made date
+[^c-a1ea38f39bbd3de42af1c98e068a3a46]: Commencement: Reg. 4 in force at made date

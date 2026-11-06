@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Introduction[^key-ade43be041586f7685396543ec968349]
+## 96. Introduction[^c-ade43be041586f7685396543ec968349]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 6 [^c23658721] to the Act (threshold conditions) is amended as follows.
 
 ## Annotations
 
-[^key-ade43be041586f7685396543ec968349]: Commencement: Reg. 96 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ade43be041586f7685396543ec968349]: Commencement: Reg. 96 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658721]: Marginal citation: Schedule 6 was substituted by [S.I. 2013/555](https://www.legislation.gov.uk/uksi/2013/555).

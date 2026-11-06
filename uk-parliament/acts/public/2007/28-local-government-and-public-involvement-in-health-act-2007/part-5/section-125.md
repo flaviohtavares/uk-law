@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Guidance[^key-48b66783f6a8d7e731d1e28f216d297f]
+## 125. Guidance[^c-48b66783f6a8d7e731d1e28f216d297f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 21 of the Local Government Act 2000 (overview and scrutiny committees
 
 ## Annotations
 
-[^key-48b66783f6a8d7e731d1e28f216d297f]: Commencement: S. 125 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/b)
+[^c-48b66783f6a8d7e731d1e28f216d297f]: Commencement: S. 125 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/b)

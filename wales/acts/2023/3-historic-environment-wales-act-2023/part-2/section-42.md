@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Injunction to restrain unauthorised works or failure to comply with condition of consent[^key-b8149b687968682c5e5aa44fcc221986][^key-85c9a754920d13bf6e5e3087aac914e5]
+## 42. Injunction to restrain unauthorised works or failure to comply with condition of consent[^c-b8149b687968682c5e5aa44fcc221986][^c-85c9a754920d13bf6e5e3087aac914e5]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8149b687968682c5e5aa44fcc221986]: Commencement: S. 42 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b8149b687968682c5e5aa44fcc221986]: Commencement: S. 42 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-85c9a754920d13bf6e5e3087aac914e5]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2023/3/section/42) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-85c9a754920d13bf6e5e3087aac914e5]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2023/3/section/42) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Profits attributable to permanent establishments for purposes of section 42(2)[^key-ab90131e881a65d20dbb2b87e65c97bf]
+## 43. Profits attributable to permanent establishments for purposes of section 42(2)[^c-ab90131e881a65d20dbb2b87e65c97bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 (6) Subsections (3)(b) to (5) prevail over any allotment of equity or loan capital to the permanent establishment made by the company.
 
-(7) If the company is an insurance company [^key-54f06dcc9b3c9d3dd8d7084b00e7c94a]... , in applying subsection (2) assume that the permanent establishment has such free assets as it would have in the circumstances described in that subsection.
+(7) If the company is an insurance company [^c-54f06dcc9b3c9d3dd8d7084b00e7c94a]... , in applying subsection (2) assume that the permanent establishment has such free assets as it would have in the circumstances described in that subsection.
 
 (8) The Commissioners for Her Majesty's Revenue and Customs may by regulations make provision as to the meaning of “free assets” in subsection (7).
 
 ## Annotations
 
-[^key-ab90131e881a65d20dbb2b87e65c97bf]: Textual amendment: S. 43 substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 27](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/27), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31), [37](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/37)
+[^c-ab90131e881a65d20dbb2b87e65c97bf]: Textual amendment: S. 43 substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 27](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/27), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31), [37](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/37)
 
-[^key-54f06dcc9b3c9d3dd8d7084b00e7c94a]: Textual amendment: Words in s. 43(7) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 233](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/233)
+[^c-54f06dcc9b3c9d3dd8d7084b00e7c94a]: Textual amendment: Words in s. 43(7) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 233](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/233)

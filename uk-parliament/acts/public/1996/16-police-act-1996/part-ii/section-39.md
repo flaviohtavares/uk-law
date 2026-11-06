@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Codes of practice.[^key-252f0984fdd8bc6c0500ddb364b58637]
+## 39. Codes of practice.[^c-252f0984fdd8bc6c0500ddb364b58637]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-252f0984fdd8bc6c0500ddb364b58637]: Textual amendment: S. 39 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 81(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/81/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 9(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/1)[(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/2))
+[^c-252f0984fdd8bc6c0500ddb364b58637]: Textual amendment: S. 39 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 81(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/81/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 9(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/1)[(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/2))

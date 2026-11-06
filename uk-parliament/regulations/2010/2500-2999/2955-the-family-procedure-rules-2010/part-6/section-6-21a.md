@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.21A. Notification of failure of email service by the court[^key-1c67558dc8178c500b2398739f100cc1]
+## 6.21A. Notification of failure of email service by the court[^c-1c67558dc8178c500b2398739f100cc1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the court officer will send notification to the applicant that the application w
 
 ## Annotations
 
-[^key-1c67558dc8178c500b2398739f100cc1]: Textual amendment: [Rule 6.21A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.21A) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [20](https://www.legislation.gov.uk/uksi/2022/44/rule/20) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-1c67558dc8178c500b2398739f100cc1]: Textual amendment: [Rule 6.21A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.21A) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [20](https://www.legislation.gov.uk/uksi/2022/44/rule/20) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

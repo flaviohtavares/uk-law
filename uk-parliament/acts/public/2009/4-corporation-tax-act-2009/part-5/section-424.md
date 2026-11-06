@@ -32,11 +32,11 @@ summary: ''
 
 (2) For the purposes of this Part such debits and credits are to be brought into account as would be brought into account if the reorganisation were a disposal of the asset representing the loan relationship for consideration of an amount equal to its notional carrying value.
 
-(3) For the purposes of this section, the notional carrying value of that asset is the amount which would have been its tax-adjusted carrying value based on[^key-b3d2e38c567b286d65b3178d9b6558cc] the accounts of the original holder if a period of account had ended immediately before the date when the reorganisation occurred.
+(3) For the purposes of this section, the notional carrying value of that asset is the amount which would have been its tax-adjusted carrying value based on[^c-b3d2e38c567b286d65b3178d9b6558cc] the accounts of the original holder if a period of account had ended immediately before the date when the reorganisation occurred.
 
 (4) In this section—
 
-- [^key-0469d5d3ee80488219bf36c40340bdd1]...
+- [^c-0469d5d3ee80488219bf36c40340bdd1]...
 - “**original holder**” means a person holding the original shares immediately before the reorganisation,
 - “**original shares**” has the meaning given by section 126(1) of TCGA 1992 (application of sections 126 to 131 of that Act), and
 - “**reorganisation**” includes anything to which sections 127 to 130 of that Act apply as if it were a reorganisation.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3d2e38c567b286d65b3178d9b6558cc]: Textual amendment: Words in s. 424(3) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 42(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/42/2)
+[^c-b3d2e38c567b286d65b3178d9b6558cc]: Textual amendment: Words in s. 424(3) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 42(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/42/2)
 
-[^key-0469d5d3ee80488219bf36c40340bdd1]: Textual amendment: Words in s. 424(4) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 42(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/42/3)
+[^c-0469d5d3ee80488219bf36c40340bdd1]: Textual amendment: Words in s. 424(4) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 42(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/42/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Modification of Part 1 of the 1965 Act[^key-bd0894f8e8159d9e4dcc4202f83af489]
+## 32. Modification of Part 1 of the 1965 Act[^c-bd0894f8e8159d9e4dcc4202f83af489]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0894f8e8159d9e4dcc4202f83af489]: Commencement: Art. 32 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-bd0894f8e8159d9e4dcc4202f83af489]: Commencement: Art. 32 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

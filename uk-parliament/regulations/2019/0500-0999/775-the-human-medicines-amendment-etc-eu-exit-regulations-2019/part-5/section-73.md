@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Insertion of new Schedule 10A (variations to a UK marketing authorisation)[^key-ef74f16a1e0a33428440418c2c0181b6]
+## 73. Insertion of new Schedule 10A (variations to a UK marketing authorisation)[^c-ef74f16a1e0a33428440418c2c0181b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 inserts a new Schedule 10A after Schedule 10.
 
 ## Annotations
 
-[^key-ef74f16a1e0a33428440418c2c0181b6]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ef74f16a1e0a33428440418c2c0181b6]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

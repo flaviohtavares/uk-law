@@ -28,13 +28,13 @@ summary: ''
 
 - (a) a warrant to arrest a person in connection with an offence;
 - (b)[^c20644771][^c20644781] a warrant under section 313, 314 or 317 of the Armed Forces Act 2006;
-- (c)[^key-ef24140be8c52465c793575a27e89a2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ef24140be8c52465c793575a27e89a2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a warrant under section 47(8) of the [^c18258101]Family Law Act 1996 (failure to comply with occupation order or non-molestation order);
 - (e) a warrant under paragraph 4 of Schedule 3 to the [^c18258111]Crime and Disorder Act 1998 (unwilling witnesses);
-- (f) a warrant under paragraph 3(2) of Schedule 4 to the Sentencing Code[^key-707b6532257c9c8a1171d82b625f583d] (offenders referred to court by youth offender panel); and
+- (f) a warrant under paragraph 3(2) of Schedule 4 to the Sentencing Code[^c-707b6532257c9c8a1171d82b625f583d] (offenders referred to court by youth offender panel); and
 - (g) a warrant under section 55, 76, 93, 97 or 97A above.
 
-(4) Where by virtue of this section a warrant is executed by a person not in possession of it, it shall, on the demand of the person arrested, committed or detained or , in the case of a warrant of control, against whom the warrant is issued[^key-0d51cfb1bf66c6c168b4974e6a0266a4] , be shown to him as soon as practicable.
+(4) Where by virtue of this section a warrant is executed by a person not in possession of it, it shall, on the demand of the person arrested, committed or detained or , in the case of a warrant of control, against whom the warrant is issued[^c-0d51cfb1bf66c6c168b4974e6a0266a4] , be shown to him as soon as practicable.
 
 ## Annotations
 
@@ -46,12 +46,12 @@ summary: ''
 
 [^c20644781]: Textual amendment: S. 125D(3)(b) substituted (28.3.2009 for certain purposes and 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 89](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/89); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ef24140be8c52465c793575a27e89a2f]: Textual amendment: S. 125D(3)(c) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 61(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/61/2), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-ef24140be8c52465c793575a27e89a2f]: Textual amendment: S. 125D(3)(c) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 61(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/61/2), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c18258101]: Marginal citation: [1996 c.27](https://www.legislation.gov.uk/ukpga/1996/27).
 
 [^c18258111]: Marginal citation: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-707b6532257c9c8a1171d82b625f583d]: Textual amendment: Words in s. 125D(3)(f) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 57](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/57) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-707b6532257c9c8a1171d82b625f583d]: Textual amendment: Words in s. 125D(3)(f) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 57](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/57) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0d51cfb1bf66c6c168b4974e6a0266a4]: Textual amendment: Words in s. 125D(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 61(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/61/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-0d51cfb1bf66c6c168b4974e6a0266a4]: Textual amendment: Words in s. 125D(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 61(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/61/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

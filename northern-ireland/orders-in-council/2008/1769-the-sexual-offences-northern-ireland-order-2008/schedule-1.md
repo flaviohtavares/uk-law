@@ -129,7 +129,7 @@ Article 81
 - (e) in the entry relating to attempts to commit an offence against a child or young person, omit the words “the Punishment of Incest Act 1908 or Article 122 or 123 of the Mental Health (Northern Ireland) Order 1986”;
 - (f) omit the entry for the Criminal Justice (Northern Ireland) Order 1980;
 - (g) omit the entry for the Criminal Justice (Northern Ireland) Order 2003;
-- (h)[^key-0436d0b736b3c2446d3035a50be1ee2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-0436d0b736b3c2446d3035a50be1ee2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) at the end insert—
 
   > Any offence against a child or young person under the Sexual Offences (Northern Ireland) Order 2008 or any attempt to commit such an offence
@@ -472,4 +472,4 @@ Article 81
 
 ## Annotations
 
-[^key-0436d0b736b3c2446d3035a50be1ee2c]: Textual amendment: [Sch. 1 para. 12(4)(h)](https://www.legislation.gov.uk/nisi/2008/1769/schedule/1/paragraph/12/4/h) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-0436d0b736b3c2446d3035a50be1ee2c]: Textual amendment: [Sch. 1 para. 12(4)(h)](https://www.legislation.gov.uk/nisi/2008/1769/schedule/1/paragraph/12/4/h) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)

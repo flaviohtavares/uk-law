@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Department may give directions of a general or specific nature to—
 
-- (a)[^key-ea039c289dfca40aec8804b704393b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ea039c289dfca40aec8804b704393b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Regional Agency, and
 - (c) RBSO,
 
@@ -46,4 +46,4 @@ as to the carrying out by that body of any of its functions.
 
 ## Annotations
 
-[^key-ea039c289dfca40aec8804b704393b77]: Textual amendment: [S. 6(1)(a)](https://www.legislation.gov.uk/nia/2009/1/section/6/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 231](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/231); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ea039c289dfca40aec8804b704393b77]: Textual amendment: [S. 6(1)(a)](https://www.legislation.gov.uk/nia/2009/1/section/6/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 231](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/231); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

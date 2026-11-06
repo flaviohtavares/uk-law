@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Offences relating to applications for postal and proxy votes[^key-d76f0d54a761a6bf6df7ba6bf7429158]
+## 27. Offences relating to applications for postal and proxy votes[^c-d76f0d54a761a6bf6df7ba6bf7429158]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d76f0d54a761a6bf6df7ba6bf7429158]: Commencement: [Art. 27](https://www.legislation.gov.uk/ssi/2015/425/article/27) in force at 16.12.2015 in accordance with art. 1(1)
+[^c-d76f0d54a761a6bf6df7ba6bf7429158]: Commencement: [Art. 27](https://www.legislation.gov.uk/ssi/2015/425/article/27) in force at 16.12.2015 in accordance with art. 1(1)

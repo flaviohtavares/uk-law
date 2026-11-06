@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. General powers of the liquidator[^key-4ec9d7bdec7b14c9023203e12e26c1cf]
+## 142. General powers of the liquidator[^c-4ec9d7bdec7b14c9023203e12e26c1cf]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.184 of the 1986 Rules[^f00058]. In paragraph (1) leave out “secti
 
 ## Annotations
 
-[^key-4ec9d7bdec7b14c9023203e12e26c1cf]: Commencement: Rule 142 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-4ec9d7bdec7b14c9023203e12e26c1cf]: Commencement: Rule 142 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00058]: Footnote: Paragraph (1) was amended by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

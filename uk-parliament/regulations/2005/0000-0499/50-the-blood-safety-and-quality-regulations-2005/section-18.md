@@ -27,7 +27,7 @@ summary: ''
 - (c) regulation 9;
 - (d) regulation 13;
 - (e) regulation 23(2),
-- (f)[^key-4fda321fb0318e632f16b840ea0095d4] regulation 12A, and
+- (f)[^c-4fda321fb0318e632f16b840ea0095d4] regulation 12A, and
 - (g) regulation 12B,
 
 shall be guilty of an offence.
@@ -55,7 +55,7 @@ shall be guilty of an offence
 
 shall be guilty of an offence.
 
-(7) Subject to paragraph (8)[^key-47c81410e26c51554d0305970ca23940] —
+(7) Subject to paragraph (8)[^c-47c81410e26c51554d0305970ca23940] —
 
 - (a) any person who—
   - (i) intentionally obstructs an inspector, or;
@@ -64,12 +64,12 @@ shall be guilty of an offence.
 
 shall be guilty of an offence.
 
-(8) Nothing in paragraph (7)(a)(ii) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him or, in the case of a person who is married or a civil partner, his spouse or civil partner[^key-0c887a2f35077c54d0b02938690fc486].
+(8) Nothing in paragraph (7)(a)(ii) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him or, in the case of a person who is married or a civil partner, his spouse or civil partner[^c-0c887a2f35077c54d0b02938690fc486].
 
 ## Annotations
 
-[^key-4fda321fb0318e632f16b840ea0095d4]: Textual amendment: Reg. 18(1)(f)(g) inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2006/2013/regulation/13)
+[^c-4fda321fb0318e632f16b840ea0095d4]: Textual amendment: Reg. 18(1)(f)(g) inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2006/2013/regulation/13)
 
-[^key-47c81410e26c51554d0305970ca23940]: Textual amendment: Words in reg. 18(7) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/1098/regulation/7)
+[^c-47c81410e26c51554d0305970ca23940]: Textual amendment: Words in reg. 18(7) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/1098/regulation/7)
 
-[^key-0c887a2f35077c54d0b02938690fc486]: Textual amendment: Words in reg. 18(8) substituted (8.11.2005) by [The Blood Safety and Quality (Amendment) (No. 2) Regulations 2005 (S.I. 2005/2898)](https://www.legislation.gov.uk/uksi/2005/2898), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2898/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2005/2898/regulation/5)
+[^c-0c887a2f35077c54d0b02938690fc486]: Textual amendment: Words in reg. 18(8) substituted (8.11.2005) by [The Blood Safety and Quality (Amendment) (No. 2) Regulations 2005 (S.I. 2005/2898)](https://www.legislation.gov.uk/uksi/2005/2898), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2898/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2005/2898/regulation/5)

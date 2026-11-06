@@ -27,7 +27,7 @@ summary: ''
 - (c) a body with power to issue a levy (by virtue of regulations under section 74 of the Local Government Finance Act 1988),
 - (d) a body with power to issue a special levy (by virtue of regulations under section 75 of that Act),
 - (e) a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies,
-- (ea)[^key-3e39477662528d155682f663a9376a04] a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1),
+- (ea)[^c-3e39477662528d155682f663a9376a04] a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1),
 - (f) an authority with power to make or determine a rate, or
 - (g) a residuary body established by order under section 22(1) of the Local Government Act 1992.
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e39477662528d155682f663a9376a04]: Textual amendment: [S. 1130(1)(ea)](https://www.legislation.gov.uk/ukpga/2010/4/section/1130/1/ea) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [5](https://www.legislation.gov.uk/uksi/2023/402/article/5)
+[^c-3e39477662528d155682f663a9376a04]: Textual amendment: [S. 1130(1)(ea)](https://www.legislation.gov.uk/ukpga/2010/4/section/1130/1/ea) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [5](https://www.legislation.gov.uk/uksi/2023/402/article/5)

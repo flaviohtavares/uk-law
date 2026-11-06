@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Interpretation, translation and communication through an intermediary[^key-b43256872023764df7695c377d7ddd4d]
+## 22. Interpretation, translation and communication through an intermediary[^c-b43256872023764df7695c377d7ddd4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ and references to interpretation shall be construed accordingly.
 
 ## Annotations
 
-[^key-b43256872023764df7695c377d7ddd4d]: Textual amendment: Rule 22 substituted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [16](https://www.legislation.gov.uk/uksi/2013/2527/article/16)
+[^c-b43256872023764df7695c377d7ddd4d]: Textual amendment: Rule 22 substituted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [16](https://www.legislation.gov.uk/uksi/2013/2527/article/16)

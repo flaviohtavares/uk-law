@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Determinations[^key-2af1e8e32fa544a6650a49acfd471495]
+## 19. Determinations[^c-2af1e8e32fa544a6650a49acfd471495]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2af1e8e32fa544a6650a49acfd471495]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/3098/part/2) revoked (15.5.2020) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2020 (S.I. 2020/439)](https://www.legislation.gov.uk/uksi/2020/439), [regs. 1](https://www.legislation.gov.uk/uksi/2020/439/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/439/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/439/regulation/9))
+[^c-2af1e8e32fa544a6650a49acfd471495]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/3098/part/2) revoked (15.5.2020) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2020 (S.I. 2020/439)](https://www.legislation.gov.uk/uksi/2020/439), [regs. 1](https://www.legislation.gov.uk/uksi/2020/439/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/439/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/439/regulation/9))

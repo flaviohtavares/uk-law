@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. The Scottish Government[^key-a6de5fa33c09f43d876a7c059aba2a9a]
+## 12. The Scottish Government[^c-a6de5fa33c09f43d876a7c059aba2a9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6de5fa33c09f43d876a7c059aba2a9a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2012/11/section/12) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-a6de5fa33c09f43d876a7c059aba2a9a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2012/11/section/12) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)

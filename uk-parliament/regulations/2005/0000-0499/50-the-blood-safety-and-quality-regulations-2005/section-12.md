@@ -25,7 +25,7 @@ summary: ''
 - (a) objects to any suspension or revocation of authorisation, or to any notice served pursuant to regulation 4(8), 5 or 11; or
 - (b) objects to the refusal of authorisation or the imposition of any condition pursuant to regulation 4(5),
 
-may notify the Secretary of State of its desire to make written representations to, or to[^key-b57daa3e6e245778d7589fbb263a950c] appear before and be heard by, a person appointed by the Secretary of State for that purpose.
+may notify the Secretary of State of its desire to make written representations to, or to[^c-b57daa3e6e245778d7589fbb263a950c] appear before and be heard by, a person appointed by the Secretary of State for that purpose.
 
 (2) Any notification of an objection pursuant to paragraph 1 shall be made within 14 days of service on the blood establishment or the person responsible for the management of the hospital blood bank of the notice to which the notification pursuant to paragraph (1) relates.
 
@@ -41,7 +41,7 @@ may notify the Secretary of State of its desire to make written representations 
 
 (8) Within 14 days of receipt of any recommendation made pursuant to paragraph (5), the Secretary of State shall inform the blood establishment or the person responsible for the management of the hospital blood bank whether he accepts the recommendation and, if he does not accept it, of the reasons for his decision.
 
-(9) Subject to paragraph (11),[^key-53d78195b4338a0764aa162f193c0c0c] where the Secretary of State is notified of an objection pursuant to paragraph (1)(a) before the date upon which the suspension or revocation or the notice is due to take effect, the suspension or revocation or notice in respect of which the objection is made shall not take effect until—
+(9) Subject to paragraph (11),[^c-53d78195b4338a0764aa162f193c0c0c] where the Secretary of State is notified of an objection pursuant to paragraph (1)(a) before the date upon which the suspension or revocation or the notice is due to take effect, the suspension or revocation or notice in respect of which the objection is made shall not take effect until—
 
 - (a) the person appointed pursuant to regulation (3) has considered the matter in accordance with the provisions of this regulation and made a recommendation; and
 - (b) the Secretary of State has informed the blood establishment or the person responsible for the management of the hospital blood bank concerned of his decision with regard to the recommendation pursuant to paragraph (8),.
@@ -51,15 +51,15 @@ may notify the Secretary of State of its desire to make written representations 
 - (a) the person appointed pursuant to regulation (3) has considered the matter in accordance with the provisions of this regulation and made a recommendation; and
 - (b) the Secretary of State has informed the blood establishment or the person responsible for the management of the hospital blood bank concerned of his decision with regard to the recommendation pursuant to paragraph (8).
 
-(11) Paragraphs (9) and (10)[^key-15127ff45ec4450062ce6325343f71b7] shall not apply—
+(11) Paragraphs (9) and (10)[^c-15127ff45ec4450062ce6325343f71b7] shall not apply—
 
 - (a) in relation to a suspension or revocation, or a notice served pursuant to regulation 11, which takes immediate effect in accordance with regulation 5(3) or 11(3); or
 - (b) in any other case, where the Secretary of State determines that it is necessary in the interests of public safety for the suspension, revocation or notice to take effect on the date originally specified, and serves a notice in writing to that effect on the blood establishment or person responsible for management of the hospital blood bank concerned.
 
 ## Annotations
 
-[^key-b57daa3e6e245778d7589fbb263a950c]: Textual amendment: Words in reg. 12(1) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/4/a)
+[^c-b57daa3e6e245778d7589fbb263a950c]: Textual amendment: Words in reg. 12(1) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/4/a)
 
-[^key-53d78195b4338a0764aa162f193c0c0c]: Textual amendment: Words in reg. 12(9) inserted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/4/b)
+[^c-53d78195b4338a0764aa162f193c0c0c]: Textual amendment: Words in reg. 12(9) inserted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/4/b)
 
-[^key-15127ff45ec4450062ce6325343f71b7]: Textual amendment: Words in reg. 12(11) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/4/c)
+[^c-15127ff45ec4450062ce6325343f71b7]: Textual amendment: Words in reg. 12(11) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/4/c)

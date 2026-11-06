@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Offences under Part 2 of the Serious Crime Act 2007[^key-f7016a8978cb71497372be5e8e60ca34][^key-be657ca3e7f25d6d038c05ef835b865a]
+## 30. Offences under Part 2 of the Serious Crime Act 2007[^c-f7016a8978cb71497372be5e8e60ca34][^c-be657ca3e7f25d6d038c05ef835b865a]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7016a8978cb71497372be5e8e60ca34]: Commencement: S. 30 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-f7016a8978cb71497372be5e8e60ca34]: Commencement: S. 30 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-be657ca3e7f25d6d038c05ef835b865a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/32/section/30) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-be657ca3e7f25d6d038c05ef835b865a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/32/section/30) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

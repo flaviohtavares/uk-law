@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Regulator's power to petition for winding up[^key-61417e416b340826a14ef00a69508088]
+## 105. Regulator's power to petition for winding up[^c-61417e416b340826a14ef00a69508088]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61417e416b340826a14ef00a69508088]: Textual amendment: S. 105 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(13)](https://www.legislation.gov.uk/asp/2018/13/section/6/13), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-61417e416b340826a14ef00a69508088]: Textual amendment: S. 105 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(13)](https://www.legislation.gov.uk/asp/2018/13/section/6/13), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

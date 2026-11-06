@@ -30,12 +30,12 @@ summary: ''
 - (a) Part I,
 - (aa)[^c16334751] in Part V, sections[^c16944391] 43M,[^c20029731] 45A, 47C and 47D, and sections 48 and 49 so far as relating to those sections[^c16944411],
 - (ab)[^c16334761] section 47C,
-- (ac)[^key-5627a1607357703bd7493ad131248816] Part 5B,
+- (ac)[^c-5627a1607357703bd7493ad131248816] Part 5B,
 - (b) in Part VI, sections 55 to 57B[^c16334771],
 - (c) Parts VII and VIII,
-- (ca)[^key-9011019088875052d3c91dcc4909d1f2] Part 8B,
+- (ca)[^c-9011019088875052d3c91dcc4909d1f2] Part 8B,
 - (d) in Part IX, sections 92 and 93,
-- (e) Part X, apart from sections 98B(2) and (3),[^c20029761] 100 to 103 , 104C[^c16944491] , 108(5)[^key-cc40e67f9c2a8b78afb155344ab792ea] and 134, and
+- (e) Part X, apart from sections 98B(2) and (3),[^c20029761] 100 to 103 , 104C[^c16944491] , 108(5)[^c-cc40e67f9c2a8b78afb155344ab792ea] and 134, and
 - (f) this Part and Parts XIV and XV.
 
 (3) Her Majesty may by Order in Council—
@@ -82,17 +82,17 @@ but no provision contained in Part II may be added to the provisions for the tim
 
 [^c16334761]: Textual amendment: S. 192(2)(ab) inserted (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 9](https://www.legislation.gov.uk/ukpga/1999/26/section/9), [Sch. 4 Pt. III para. 31(a)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/III/paragraph/31/a); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II) (with [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10), [11](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/11))
 
-[^key-5627a1607357703bd7493ad131248816]: Textual amendment: [S. 192(2)(ac)](https://www.legislation.gov.uk/ukpga/1996/18/section/192/2/ac) inserted (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/17/section/1/4), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
+[^c-5627a1607357703bd7493ad131248816]: Textual amendment: [S. 192(2)(ac)](https://www.legislation.gov.uk/ukpga/1996/18/section/192/2/ac) inserted (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/17/section/1/4), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
 
 [^c16334771]: Textual amendment: Words in s. 192(2)(b) substituted (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 9 Sch. 4 Pt. III para. 31(b)](https://www.legislation.gov.uk/ukpga/1999/26/section/9/schedule/4/part/III/paragraph/31/b); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II) (with [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10), [11](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/11))
 
-[^key-9011019088875052d3c91dcc4909d1f2]: Textual amendment: [S. 192(2)(ca)](https://www.legislation.gov.uk/ukpga/1996/18/section/192/2/ca) inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/10); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
+[^c-9011019088875052d3c91dcc4909d1f2]: Textual amendment: [S. 192(2)(ca)](https://www.legislation.gov.uk/ukpga/1996/18/section/192/2/ca) inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/10); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
 
 [^c20029761]: Textual amendment: Words in s. 192(2)(e) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 35(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/35/b); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [arts. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [5](https://www.legislation.gov.uk/uksi/2005/872/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (subject to [arts. 6-12](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
 [^c16944491]: Textual amendment: Words in s. 192(2)(e) inserted (6.4.2003) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 53](https://www.legislation.gov.uk/ukpga/2002/22/section/53), [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2002/22/schedule/7/paragraph/42); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3)
 
-[^key-cc40e67f9c2a8b78afb155344ab792ea]: Textual amendment: Word in s. 192(2)(e) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/48/3), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/d)
+[^c-cc40e67f9c2a8b78afb155344ab792ea]: Textual amendment: Word in s. 192(2)(e) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/48/3), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/d)
 
 [^c20379231]: Modification: S. 192(4) modified (24.4.2009) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 196(1)(f)](https://www.legislation.gov.uk/uksi/2009/1059/article/196/1/f)
 

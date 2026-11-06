@@ -41,7 +41,7 @@ An Act for reducing the Rate of Interest on the National Debt.
 
 (1) The new stock shall consist of a capital stock of perpetual annuities, which shall . . . [^c573810] yield dividends at the rate of two pounds 50p[^c573811] per cent. per annum.
 
-(2)[^key-56df37fe810c7a2d3c8af4c7725471f8] The new stock . . . [^c573812] shall be redeemable by Parliament on such notice, at such time or times, and either in one sum or in such sums or proportions, and in such order and manner as Parliament may direct, at the rate of one hundred pounds sterling for every one hundred pounds of the capital sums in respect of which the annuities constituting the stock are payable, together with the payment of all arrears of those annuities, including the proportionate part accrued since the last date for payment of dividends.
+(2)[^c-56df37fe810c7a2d3c8af4c7725471f8] The new stock . . . [^c573812] shall be redeemable by Parliament on such notice, at such time or times, and either in one sum or in such sums or proportions, and in such order and manner as Parliament may direct, at the rate of one hundred pounds sterling for every one hundred pounds of the capital sums in respect of which the annuities constituting the stock are payable, together with the payment of all arrears of those annuities, including the proportionate part accrued since the last date for payment of dividends.
 
 (3) The new stock shall form part of the National Debt, and the annuities constituting the same shall be payable by equal quarterly dividends on the fifth day of January, the fifth day of April, the fifth day of July, and the fifth day of October in every year . . . [^c573810]
 
@@ -99,7 +99,7 @@ This Act may be cited as the National Debt (Conversion) Act 1888.
 
 [^c573811]: Textual amendment: Words substituted by virtue of [Decimal Currency Act 1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1969/19/section/10/1)
 
-[^key-56df37fe810c7a2d3c8af4c7725471f8]: Modification: [S. 2(2)](https://www.legislation.gov.uk/ukpga/Vict/51-52/2/section/2/2) excluded (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(4)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/4/c)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
+[^c-56df37fe810c7a2d3c8af4c7725471f8]: Modification: [S. 2(2)](https://www.legislation.gov.uk/ukpga/Vict/51-52/2/section/2/2) excluded (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(4)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/4/c)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
 
 [^c573812]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/III)
 

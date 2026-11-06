@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77B. Liability for redress payment where offer on redetermination rejected[^key-d9463e64425f7ef90117babe8799576c]
+## 77B. Liability for redress payment where offer on redetermination rejected[^c-d9463e64425f7ef90117babe8799576c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9463e64425f7ef90117babe8799576c]: Textual amendment: [Ss. 77A](https://www.legislation.gov.uk/asp/2021/15/section/77A), [77B](https://www.legislation.gov.uk/asp/2021/15/section/77B) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [27](https://www.legislation.gov.uk/ssi/2022/44/regulation/27)
+[^c-d9463e64425f7ef90117babe8799576c]: Textual amendment: [Ss. 77A](https://www.legislation.gov.uk/asp/2021/15/section/77A), [77B](https://www.legislation.gov.uk/asp/2021/15/section/77B) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [27](https://www.legislation.gov.uk/ssi/2022/44/regulation/27)

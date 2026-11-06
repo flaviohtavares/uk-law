@@ -24,7 +24,7 @@ summary: ''
 
 (2) The following provisions extend to England and Wales only—
 
-- (a) sections 42(1) to (10) and 43, and *(affected by repeal, see note)*[^key-6de1c5f2611bf88694fb1d2fa84df767]
+- (a) sections 42(1) to (10) and 43, and *(affected by repeal, see note)*[^c-6de1c5f2611bf88694fb1d2fa84df767]
 - (b) paragraphs 6, 11(2) and 16 of Schedule 3.
 
 (3) Paragraphs 1, 2, 4, 11(3), 14 and 22 of Schedule 3 extend to Scotland only.
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6de1c5f2611bf88694fb1d2fa84df767]: Textual amendment: S. 69(2)(a) repealed (2.7.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 133(6)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/133/6/b), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1651](https://www.legislation.gov.uk/uksi/2012/1651), [art. 2](https://www.legislation.gov.uk/uksi/2012/1651/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/1651/article/3))
+[^c-6de1c5f2611bf88694fb1d2fa84df767]: Textual amendment: S. 69(2)(a) repealed (2.7.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 133(6)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/133/6/b), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1651](https://www.legislation.gov.uk/uksi/2012/1651), [art. 2](https://www.legislation.gov.uk/uksi/2012/1651/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/1651/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Changes to timing or location[^key-b40a4c32cd9e704e6035295a83ee4b53]
+## 127. Changes to timing or location[^c-b40a4c32cd9e704e6035295a83ee4b53]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b40a4c32cd9e704e6035295a83ee4b53]: Commencement: Reg. 127 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-b40a4c32cd9e704e6035295a83ee4b53]: Commencement: Reg. 127 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

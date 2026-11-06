@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Planning legislation[^key-165037f2d0078f6114065d685ec99a99]
+## 23. Planning legislation[^c-165037f2d0078f6114065d685ec99a99]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-165037f2d0078f6114065d685ec99a99]: Commencement: Art. 23 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-165037f2d0078f6114065d685ec99a99]: Commencement: Art. 23 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00043]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).

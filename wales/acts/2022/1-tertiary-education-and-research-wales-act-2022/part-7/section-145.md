@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Power to provide for the Open University to be treated as a tertiary education provider in Wales[^key-7593c6f5d2d51ffd33ab64032a103738]
+## 145. Power to provide for the Open University to be treated as a tertiary education provider in Wales[^c-7593c6f5d2d51ffd33ab64032a103738]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7593c6f5d2d51ffd33ab64032a103738]: Commencement: S. 145 in force at 9.9.2022, see [s. 148(1)(a)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/a)
+[^c-7593c6f5d2d51ffd33ab64032a103738]: Commencement: S. 145 in force at 9.9.2022, see [s. 148(1)(a)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/a)

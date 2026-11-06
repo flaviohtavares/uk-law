@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Regulation (EU) No 231/2013[^key-ad1ee790acadeabc280a2a52a2531903]
+## 73. Regulation (EU) No 231/2013[^c-ad1ee790acadeabc280a2a52a2531903]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After Article 1 of Commission Delegated Regulation (EU) No 231/2013 of 19 Decemb
 
 ## Annotations
 
-[^key-ad1ee790acadeabc280a2a52a2531903]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2020/1385/regulation/73) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
+[^c-ad1ee790acadeabc280a2a52a2531903]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2020/1385/regulation/73) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 57. Notification of and consultation with competent authorities prior to registration[^key-2e6df0139f12c9879a3920cc95bc899c]
+## Article 57. Notification of and consultation with competent authorities prior to registration[^c-2e6df0139f12c9879a3920cc95bc899c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e6df0139f12c9879a3920cc95bc899c]: Textual amendment: [Art. 57](https://www.legislation.gov.uk/eur/2012/648/article/57) omitted (31.12.2020) by virtue of [The Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018 (S.I. 2018/1318)](https://www.legislation.gov.uk/uksi/2018/1318), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1318/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2018/1318/regulation/2/4) (with [regs. 14-19](https://www.legislation.gov.uk/uksi/2018/1318/regulation/14)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/56/regulation/9) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e6df0139f12c9879a3920cc95bc899c]: Textual amendment: [Art. 57](https://www.legislation.gov.uk/eur/2012/648/article/57) omitted (31.12.2020) by virtue of [The Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018 (S.I. 2018/1318)](https://www.legislation.gov.uk/uksi/2018/1318), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1318/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2018/1318/regulation/2/4) (with [regs. 14-19](https://www.legislation.gov.uk/uksi/2018/1318/regulation/14)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/56/regulation/9) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

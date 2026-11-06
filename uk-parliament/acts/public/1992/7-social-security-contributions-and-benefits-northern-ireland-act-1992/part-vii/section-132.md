@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-5f79b6431def03bfe4c9b424bb164c87][^key-1498d69dd4c2b654b8f2bdc377340341] Where a person claiming an income-related benefit is a member of a family, the income and capital of any member of that family shall, except in prescribed circumstances, be treated as the income and capital of that person.
+(1)[^c-5f79b6431def03bfe4c9b424bb164c87][^c-1498d69dd4c2b654b8f2bdc377340341] Where a person claiming an income-related benefit is a member of a family, the income and capital of any member of that family shall, except in prescribed circumstances, be treated as the income and capital of that person.
 
 (2) Regulations may provide that capital not exceeding the amount prescribed under section 130(1) above but exceeding a prescribed lower amount shall be treated, to a prescribed extent, as if it were income of a prescribed amount.
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^c16394911]: Modification: S. 132: certain functions transferred (5.10.1999) by [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1999/10/section/2/1/a), [20(2)](https://www.legislation.gov.uk/ukpga/1999/10/section/20/2), [Sch. 2 para. 3(g)](https://www.legislation.gov.uk/ukpga/1999/10/schedule/2/paragraph/3/g)
 
-[^key-5f79b6431def03bfe4c9b424bb164c87]: Modification: [S. 132(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/132/1) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2007/204/regulation/18)
+[^c-5f79b6431def03bfe4c9b424bb164c87]: Modification: [S. 132(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/132/1) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2007/204/regulation/18)
 
-[^key-1498d69dd4c2b654b8f2bdc377340341]: Modification: [S. 132(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/132/1) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2007/203/regulation/18)
+[^c-1498d69dd4c2b654b8f2bdc377340341]: Modification: [S. 132(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/132/1) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2007/203/regulation/18)

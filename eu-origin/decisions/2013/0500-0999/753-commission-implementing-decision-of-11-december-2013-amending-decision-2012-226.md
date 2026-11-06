@@ -39,18 +39,18 @@ amending Decision 2012/226/EU on the second set of common safety targets for the
 
 (2013/753/EU) (revoked)
 
-[^key-390a85143ed5d2187764f41fa0d2d5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-390a85143ed5d2187764f41fa0d2d5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-390a85143ed5d2187764f41fa0d2d5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-390a85143ed5d2187764f41fa0d2d5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-390a85143ed5d2187764f41fa0d2d5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-390a85143ed5d2187764f41fa0d2d5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-390a85143ed5d2187764f41fa0d2d5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-390a85143ed5d2187764f41fa0d2d5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-390a85143ed5d2187764f41fa0d2d5a2]
+## ANNEX[^c-390a85143ed5d2187764f41fa0d2d5a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-390a85143ed5d2187764f41fa0d2d5a2]: Textual amendment: Decision revoked (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/837/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-390a85143ed5d2187764f41fa0d2d5a2]: Textual amendment: Decision revoked (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/837/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

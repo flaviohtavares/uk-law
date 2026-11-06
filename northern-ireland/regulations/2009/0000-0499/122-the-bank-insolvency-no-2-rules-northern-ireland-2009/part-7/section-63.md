@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. New bank liquidator appointed[^key-4f61a13d46772081a86218fd93a77a18]
+## 63. New bank liquidator appointed[^c-4f61a13d46772081a86218fd93a77a18]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.087 of the 1991 Rules.
 
 ## Annotations
 
-[^key-4f61a13d46772081a86218fd93a77a18]: Commencement: Rule 63 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4f61a13d46772081a86218fd93a77a18]: Commencement: Rule 63 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

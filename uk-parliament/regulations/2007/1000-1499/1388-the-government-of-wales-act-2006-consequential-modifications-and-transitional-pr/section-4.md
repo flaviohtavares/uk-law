@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transitional Provisions[^key-3726625bc7cb1d6f19b4628ea14a7eea][^key-3726625bc7cb1d6f19b4628ea14a7eea]
+## 4. Transitional Provisions[^c-3726625bc7cb1d6f19b4628ea14a7eea][^c-3726625bc7cb1d6f19b4628ea14a7eea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 to this Order (transitional provisions) shall have effect.
 
 ## Annotations
 
-[^key-3726625bc7cb1d6f19b4628ea14a7eea]: Commencement: Art. 4 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
+[^c-3726625bc7cb1d6f19b4628ea14a7eea]: Commencement: Art. 4 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)

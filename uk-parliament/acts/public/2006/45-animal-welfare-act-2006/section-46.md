@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Effect in Scotland of disqualification under section 34[^key-ce43261b912770506451af205d449be3]
+## 46. Effect in Scotland of disqualification under section 34[^c-ce43261b912770506451af205d449be3]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ or to both.
 
 ## Annotations
 
-[^key-ce43261b912770506451af205d449be3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/45/section/46) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)
+[^c-ce43261b912770506451af205d449be3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/45/section/46) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)

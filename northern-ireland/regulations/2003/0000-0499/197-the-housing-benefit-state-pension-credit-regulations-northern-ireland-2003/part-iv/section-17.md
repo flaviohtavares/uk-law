@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Amendments relating to recovery of overpaid housing benefit[^key-86a03db0539403f8f11f3fa1be00c427]
+## 17. Amendments relating to recovery of overpaid housing benefit[^c-86a03db0539403f8f11f3fa1be00c427]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 105(1)[^f00091] of the Housing Benefit Regulations (recovery of ov
 
 ## Annotations
 
-[^key-86a03db0539403f8f11f3fa1be00c427]: Commencement: Reg. 17 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-86a03db0539403f8f11f3fa1be00c427]: Commencement: Reg. 17 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00091]: Footnote: Paragraph (1) was amended by regulation 16 of [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424), regulation 11(3)(a) and (b) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6) and regulation 18 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)

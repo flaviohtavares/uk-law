@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### 1. Interpretation[^key-776e3cbbe5c32d267d3963bd5b8f9bdd][^key-3ef9151c3c07c8a7aa29462b67df5f55]
+### 1. Interpretation[^c-776e3cbbe5c32d267d3963bd5b8f9bdd][^c-3ef9151c3c07c8a7aa29462b67df5f55]
 
 In this Schedule—
 
@@ -45,32 +45,32 @@ In this Schedule—
 - “Transfer” means the transfer of qualifying accrued rights to the RMSPS under article 5 and the transfer of assets of the RMPP under article 5 of the Assets Order; and
 - “Trustee” means Royal Mail Pensions Trustees Limited, or any other person(s) who is the trustee or trustees of the RMPP at the time that is applicable under any provision of this Schedule.
 
-### 2. Amendments to Security Agreements[^key-ed7241269306fb74214d1aaa23c64684][^key-17499a9040e0268597203e1bfe8ae545]
+### 2. Amendments to Security Agreements[^c-ed7241269306fb74214d1aaa23c64684][^c-17499a9040e0268597203e1bfe8ae545]
 
 The Security Agreements are amended such that the Security is released immediately upon the Transfer taking effect.
 
-**3.**[^key-8553ed1f9f4620d7fcb63f6aee05cb2a][^key-05afccae95b38630e267d6b6f9a8bf0b] The Trustee, RMH, RMES and RMG shall be required as soon as reasonably practicable following the Transfer taking effect to take all such steps as may be required promptly to give effect to the release of the Security.
+**3.**[^c-8553ed1f9f4620d7fcb63f6aee05cb2a][^c-05afccae95b38630e267d6b6f9a8bf0b] The Trustee, RMH, RMES and RMG shall be required as soon as reasonably practicable following the Transfer taking effect to take all such steps as may be required promptly to give effect to the release of the Security.
 
-### 4. RMH Escrow Reserve[^key-fc00ee54b828f795699a25efec3f7762][^key-b61f631eed7e8e8d1c950ba034b425fc]
+### 4. RMH Escrow Reserve[^c-fc00ee54b828f795699a25efec3f7762][^c-b61f631eed7e8e8d1c950ba034b425fc]
 
 As soon as reasonably practicable after the Security Assets are released from the Security, RMH shall credit to the RMH Escrow Reserve an amount equal to the value of the RMH Security Assets, as at the date they are released.
 
 ## Annotations
 
-[^key-776e3cbbe5c32d267d3963bd5b8f9bdd]: Commencement: Sch. 5 para. 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-776e3cbbe5c32d267d3963bd5b8f9bdd]: Commencement: Sch. 5 para. 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-3ef9151c3c07c8a7aa29462b67df5f55]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-3ef9151c3c07c8a7aa29462b67df5f55]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00067]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).
 
-[^key-ed7241269306fb74214d1aaa23c64684]: Commencement: Sch. 5 para. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-ed7241269306fb74214d1aaa23c64684]: Commencement: Sch. 5 para. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-17499a9040e0268597203e1bfe8ae545]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-17499a9040e0268597203e1bfe8ae545]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-8553ed1f9f4620d7fcb63f6aee05cb2a]: Commencement: Sch. 5 para. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-8553ed1f9f4620d7fcb63f6aee05cb2a]: Commencement: Sch. 5 para. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-05afccae95b38630e267d6b6f9a8bf0b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-05afccae95b38630e267d6b6f9a8bf0b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-fc00ee54b828f795699a25efec3f7762]: Commencement: Sch. 5 para. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-fc00ee54b828f795699a25efec3f7762]: Commencement: Sch. 5 para. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-b61f631eed7e8e8d1c950ba034b425fc]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-b61f631eed7e8e8d1c950ba034b425fc]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/5/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

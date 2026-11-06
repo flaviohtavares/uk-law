@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Provision purporting to limit liability for, or indemnify for, breach of fiduciary duty[^key-70704035057f4dcf5374ecef9cb7c28e]
+## 34. Provision purporting to limit liability for, or indemnify for, breach of fiduciary duty[^c-70704035057f4dcf5374ecef9cb7c28e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the trustee’s breach of a fiduciary duty, the provision is of no effect.
 
 ## Annotations
 
-[^key-70704035057f4dcf5374ecef9cb7c28e]: Commencement: S. 34 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-70704035057f4dcf5374ecef9cb7c28e]: Commencement: S. 34 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

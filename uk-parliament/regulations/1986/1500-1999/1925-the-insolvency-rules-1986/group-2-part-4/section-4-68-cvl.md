@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.68-CVL. Chairman's discretion to allow vote[^key-a1e4aff81848511882e60c3d7f0c4d17]
+## 4.68-CVL. Chairman's discretion to allow vote[^c-a1e4aff81848511882e60c3d7f0c4d17]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ At a creditors' meeting, the chairman may allow a creditor to vote, notwithstand
 
 ## Annotations
 
-[^key-a1e4aff81848511882e60c3d7f0c4d17]: Commencement: [Rule 4.68CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.68CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a1e4aff81848511882e60c3d7f0c4d17]: Commencement: [Rule 4.68CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.68CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

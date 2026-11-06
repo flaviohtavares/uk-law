@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Obstruction and contravention of directions and compliance notices[^key-0a731b4935fa318a3f1e985c878bacb5]
+## 43. Obstruction and contravention of directions and compliance notices[^c-0a731b4935fa318a3f1e985c878bacb5]
 
 *Extent: E+W*
 
@@ -26,13 +26,13 @@ summary: ''
 
 - (a) contravenes a direction given—
   - (i) by an enforcement officer under Part 7, or
-  - (ii)[^key-98e7b6017df36fa7f5eda5fe3bee1944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-98e7b6017df36fa7f5eda5fe3bee1944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) fails to comply with a compliance notice given by an enforcement officer under regulation 27(1),
 
 commits an offence.
 
 ## Annotations
 
-[^key-0a731b4935fa318a3f1e985c878bacb5]: Commencement: Reg. 43 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-0a731b4935fa318a3f1e985c878bacb5]: Commencement: Reg. 43 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
-[^key-98e7b6017df36fa7f5eda5fe3bee1944]: Textual amendment: [Reg. 43(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/43/2/a/ii) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(17)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/17) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-98e7b6017df36fa7f5eda5fe3bee1944]: Textual amendment: [Reg. 43(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/43/2/a/ii) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(17)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/17) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))

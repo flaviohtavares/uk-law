@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Asylum claims by EU nationals: inadmissibility[^key-95af86c0c5d57be502379a028fb6df94][^key-e9484f4938171e8615febdcf86433e6b]
+## 15. Asylum claims by EU nationals: inadmissibility[^c-95af86c0c5d57be502379a028fb6df94][^c-e9484f4938171e8615febdcf86433e6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95af86c0c5d57be502379a028fb6df94]: Commencement: S. 15 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-95af86c0c5d57be502379a028fb6df94]: Commencement: S. 15 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-e9484f4938171e8615febdcf86433e6b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/36/section/15) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/14) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/3))
+[^c-e9484f4938171e8615febdcf86433e6b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/36/section/15) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/14) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Short title[^key-e5f50de8b4e5647f1660d55187143eb1]
+## 100. Short title[^c-e5f50de8b4e5647f1660d55187143eb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Automated Vehicles Act 2024.
 
 ## Annotations
 
-[^key-e5f50de8b4e5647f1660d55187143eb1]: Commencement: S. 100 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)
+[^c-e5f50de8b4e5647f1660d55187143eb1]: Commencement: S. 100 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)

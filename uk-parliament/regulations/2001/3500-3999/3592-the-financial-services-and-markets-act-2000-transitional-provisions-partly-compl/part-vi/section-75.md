@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Withdrawal of approval of registered person or individual[^key-c2ea1ee789aeedbdcb82a07cb7421c6a]
+## 75. Withdrawal of approval of registered person or individual[^c-c2ea1ee789aeedbdcb82a07cb7421c6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2ea1ee789aeedbdcb82a07cb7421c6a]: Commencement: Art. 75 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c2ea1ee789aeedbdcb82a07cb7421c6a]: Commencement: Art. 75 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

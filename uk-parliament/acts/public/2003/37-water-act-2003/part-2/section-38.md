@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-d8b3f0e9103a01f4ec1047a36ecb11c3] Before section 193 of the WIA there is inserted—
+(1)[^c-d8b3f0e9103a01f4ec1047a36ecb11c3] Before section 193 of the WIA there is inserted—
 
 > **192A. Forward work programmes**
 >
@@ -73,12 +73,12 @@ summary: ''
 >
 > (8) In making or preparing any report under this section the Authority shall have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where publication of that matter would or might, in the opinion of the Authority, seriously and prejudicially affect the interests of that individual or body.
 
-(2)[^key-db593aa00006ad5f71ebf9e8e06f27de][^key-403da412f240b5acb9fdba7d80a404b6] Sections 193 and 194 of the WIA (which make provision about annual and other reports by the Director General of Water Services and customer service committees) shall cease to have effect.
+(2)[^c-db593aa00006ad5f71ebf9e8e06f27de][^c-403da412f240b5acb9fdba7d80a404b6] Sections 193 and 194 of the WIA (which make provision about annual and other reports by the Director General of Water Services and customer service committees) shall cease to have effect.
 
 ## Annotations
 
-[^key-d8b3f0e9103a01f4ec1047a36ecb11c3]: Commencement: [S. 38(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/38/1) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/d) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/2)[3](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/3)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-d8b3f0e9103a01f4ec1047a36ecb11c3]: Commencement: [S. 38(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/38/1) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/d) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/2)[3](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/3)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-db593aa00006ad5f71ebf9e8e06f27de]: Commencement: [S. 38(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/38/2) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-db593aa00006ad5f71ebf9e8e06f27de]: Commencement: [S. 38(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/38/2) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-403da412f240b5acb9fdba7d80a404b6]: Commencement: [S. 38(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/38/2) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-403da412f240b5acb9fdba7d80a404b6]: Commencement: [S. 38(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/38/2) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

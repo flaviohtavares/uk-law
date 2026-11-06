@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21ZA. Scrutiny officers[^key-eace3989998fed5194ec7badaebc78f7]
+## 21ZA. Scrutiny officers[^c-eace3989998fed5194ec7badaebc78f7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eace3989998fed5194ec7badaebc78f7]: Textual amendment: [S. 21ZA](https://www.legislation.gov.uk/ukpga/2000/22/section/21ZA) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/20), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
+[^c-eace3989998fed5194ec7badaebc78f7]: Textual amendment: [S. 21ZA](https://www.legislation.gov.uk/ukpga/2000/22/section/21ZA) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/20), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)

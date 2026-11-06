@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Lead children’s services planning bodies[^key-064719ad9b20c845d36518162311593c]
+## 60. Lead children’s services planning bodies[^c-064719ad9b20c845d36518162311593c]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In section 7 (introductory provision for Part 3 (children’s services planning))—
 
-- (a)[^key-600df0a8c985cf0fa98cc48f969b6b8f] in subsection (1)—
+- (a)[^c-600df0a8c985cf0fa98cc48f969b6b8f] in subsection (1)—
   - (i) at the appropriate places in alphabetical order insert—
 
     > - “**lead children’s services planning bodies**” means, in relation to the area of a local authority—
@@ -136,6 +136,6 @@ summary: ''
 
 ## Annotations
 
-[^key-064719ad9b20c845d36518162311593c]: Commencement: S. 60 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-064719ad9b20c845d36518162311593c]: Commencement: S. 60 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-600df0a8c985cf0fa98cc48f969b6b8f]: Commencement: [S. 60(2)(a)](https://www.legislation.gov.uk/asp/2026/16/section/60/2/a) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-600df0a8c985cf0fa98cc48f969b6b8f]: Commencement: [S. 60(2)(a)](https://www.legislation.gov.uk/asp/2026/16/section/60/2/a) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

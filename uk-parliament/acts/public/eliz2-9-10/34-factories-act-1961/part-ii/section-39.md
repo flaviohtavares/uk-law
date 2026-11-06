@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Precautions as respects water-sealed gasholders.[^key-20c8ec397b37bddbd2f844dd568a15ac]
+## 39. Precautions as respects water-sealed gasholders.[^c-20c8ec397b37bddbd2f844dd568a15ac]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20c8ec397b37bddbd2f844dd568a15ac]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/39) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-20c8ec397b37bddbd2f844dd568a15ac]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/39) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1

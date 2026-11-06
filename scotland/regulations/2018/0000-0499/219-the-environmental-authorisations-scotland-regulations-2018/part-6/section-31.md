@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Revocation of permits and registrations[^key-fb77ecc230f943c8fe0a7fb43f964a7c]
+## 31. Revocation of permits and registrations[^c-fb77ecc230f943c8fe0a7fb43f964a7c]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb77ecc230f943c8fe0a7fb43f964a7c]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/ssi/2018/219/regulation/31) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [17](https://www.legislation.gov.uk/ssi/2025/165/regulation/17) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-fb77ecc230f943c8fe0a7fb43f964a7c]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/ssi/2018/219/regulation/31) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [17](https://www.legislation.gov.uk/ssi/2025/165/regulation/17) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Appointment of trustee by Department[^key-109b53113cf98dc461ab5aa5997f9bc2]
+## 77. Appointment of trustee by Department[^c-109b53113cf98dc461ab5aa5997f9bc2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 269(5) (appointment of trustee by Department), for sub-paragraphs (a)
 
 ## Annotations
 
-[^key-109b53113cf98dc461ab5aa5997f9bc2]: Commencement: S. 77 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-109b53113cf98dc461ab5aa5997f9bc2]: Commencement: S. 77 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

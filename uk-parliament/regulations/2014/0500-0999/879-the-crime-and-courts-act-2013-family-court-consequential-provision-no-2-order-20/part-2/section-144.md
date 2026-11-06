@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**144.**[^key-921626ec9c32c3fe0f1e030f5f17cb87] In paragraph 10, for “section 93 of the 1980 Act” substitute “paragraph 3(2) of this Schedule”.
+**144.**[^c-921626ec9c32c3fe0f1e030f5f17cb87] In paragraph 10, for “section 93 of the 1980 Act” substitute “paragraph 3(2) of this Schedule”.
 
 ## Annotations
 
-[^key-921626ec9c32c3fe0f1e030f5f17cb87]: Commencement: Art. 144 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-921626ec9c32c3fe0f1e030f5f17cb87]: Commencement: Art. 144 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

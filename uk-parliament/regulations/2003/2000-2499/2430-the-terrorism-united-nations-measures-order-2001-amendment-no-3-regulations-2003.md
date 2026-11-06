@@ -31,7 +31,7 @@ summary: ''
 
 UNITED NATIONS
 
-The Terrorism (United Nations Measures) Order 2001 (Amendment No. 3) Regulations 2003 (revoked)[^key-a9b27331451312c5c7714e583f30b611]
+The Terrorism (United Nations Measures) Order 2001 (Amendment No. 3) Regulations 2003 (revoked)[^c-a9b27331451312c5c7714e583f30b611]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 20th September 2003
 
-[^key-a9b27331451312c5c7714e583f30b611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9b27331451312c5c7714e583f30b611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a9b27331451312c5c7714e583f30b611]
+## 1. Citation and commencement[^c-a9b27331451312c5c7714e583f30b611]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-a9b27331451312c5c7714e583f30b611]
+## 2. Revocation[^c-a9b27331451312c5c7714e583f30b611]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Terrorism (United Nations Measures) Order 2001[^key-a9b27331451312c5c7714e583f30b611]
+## 3. Amendment to the Terrorism (United Nations Measures) Order 2001[^c-a9b27331451312c5c7714e583f30b611]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9b27331451312c5c7714e583f30b611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9b27331451312c5c7714e583f30b611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a9b27331451312c5c7714e583f30b611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9b27331451312c5c7714e583f30b611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9b27331451312c5c7714e583f30b611]: Textual amendment: Regulations revoked (28.9.2004) by [The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2004 (S.I. 2004/2309)](https://www.legislation.gov.uk/uksi/2004/2309), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2309/regulation/1), [2](https://www.legislation.gov.uk/uksi/2004/2309/regulation/2)
+[^c-a9b27331451312c5c7714e583f30b611]: Textual amendment: Regulations revoked (28.9.2004) by [The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2004 (S.I. 2004/2309)](https://www.legislation.gov.uk/uksi/2004/2309), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2309/regulation/1), [2](https://www.legislation.gov.uk/uksi/2004/2309/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. OFCOM’s guidance about duties set out in section 81[^key-0e3bc09dc00a2f74dbd6816d865c2763]
+## 82. OFCOM’s guidance about duties set out in section 81[^c-0e3bc09dc00a2f74dbd6816d865c2763]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 - (b) persons who appear to OFCOM to represent providers of internet services within section 80(2),
 - (c) persons who appear to OFCOM to represent adult users of internet services within section 80(2),
 - (d) persons who appear to OFCOM to represent the interests of children (generally or with particular reference to online safety matters),
-- (e) the Information Commission[^key-eab41df9dddb86aaf4e56d448d26b7fb],
+- (e) the Information Commission[^c-eab41df9dddb86aaf4e56d448d26b7fb],
 - (f) persons whom OFCOM consider to have expertise in innovation, or emerging technology, that is relevant to online safety matters, and
 - (g) such other persons as OFCOM consider appropriate.
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e3bc09dc00a2f74dbd6816d865c2763]: Commencement: S. 82 in force at Royal Assent, see [s. 240(4)(m)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/m)
+[^c-0e3bc09dc00a2f74dbd6816d865c2763]: Commencement: S. 82 in force at Royal Assent, see [s. 240(4)(m)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/m)
 
-[^key-eab41df9dddb86aaf4e56d448d26b7fb]: Textual amendment: Words in [s. 82(5)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/82/5/e) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/e); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-eab41df9dddb86aaf4e56d448d26b7fb]: Textual amendment: Words in [s. 82(5)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/82/5/e) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/e); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

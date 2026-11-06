@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Notification and advertisement of appointment of joint administrator[^key-e30027cbf7d80b46797277f40bb3cb59]
+## 140. Notification and advertisement of appointment of joint administrator[^c-e30027cbf7d80b46797277f40bb3cb59]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to rule 141, where a person is to be appointed in accordance with paragr
 
 ## Annotations
 
-[^key-e30027cbf7d80b46797277f40bb3cb59]: Commencement: Rule 140 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-e30027cbf7d80b46797277f40bb3cb59]: Commencement: Rule 140 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

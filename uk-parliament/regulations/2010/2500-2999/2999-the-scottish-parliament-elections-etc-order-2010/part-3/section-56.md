@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Publication of time and place of inspection of returns and declarations[^key-a5eb7e9e47103d8cd50088b63d528871]
+## 56. Publication of time and place of inspection of returns and declarations[^c-a5eb7e9e47103d8cd50088b63d528871]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5eb7e9e47103d8cd50088b63d528871]: Commencement: Art. 56 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a5eb7e9e47103d8cd50088b63d528871]: Commencement: Art. 56 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

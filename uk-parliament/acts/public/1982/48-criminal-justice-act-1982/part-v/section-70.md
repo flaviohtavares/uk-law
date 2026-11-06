@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Vagrancy offences.[^key-e6ae73cc370e8474b588782862a499f2]
+## 70. Vagrancy offences.[^c-e6ae73cc370e8474b588782862a499f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6ae73cc370e8474b588782862a499f2]: Textual amendment: S. 70 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/d/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-e6ae73cc370e8474b588782862a499f2]: Textual amendment: S. 70 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/d/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)

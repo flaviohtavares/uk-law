@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Children in England living away from home or receiving social care[^key-93f781ddb845b65a90de60d3d5a924f6]
+## 8A. Children in England living away from home or receiving social care[^c-93f781ddb845b65a90de60d3d5a924f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f781ddb845b65a90de60d3d5a924f6]: Textual amendment: S. 8A inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 114](https://www.legislation.gov.uk/ukpga/2014/6/section/114), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-93f781ddb845b65a90de60d3d5a924f6]: Textual amendment: S. 8A inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 114](https://www.legislation.gov.uk/ukpga/2014/6/section/114), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

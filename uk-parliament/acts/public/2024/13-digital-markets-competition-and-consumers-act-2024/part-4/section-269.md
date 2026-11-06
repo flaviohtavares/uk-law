@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Defence of due diligence[^key-2c1b2409789f518b37a6dfa055245ca7]
+## 269. Defence of due diligence[^c-2c1b2409789f518b37a6dfa055245ca7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c1b2409789f518b37a6dfa055245ca7]: Commencement: S. 269 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2c1b2409789f518b37a6dfa055245ca7]: Commencement: S. 269 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

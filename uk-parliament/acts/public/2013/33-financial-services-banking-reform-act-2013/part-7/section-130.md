@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Competition as a secondary objective of the PRA[^key-26d92a244019111b0cdb909d40f871de]
+## 130. Competition as a secondary objective of the PRA[^c-26d92a244019111b0cdb909d40f871de]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26d92a244019111b0cdb909d40f871de]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2013/33/section/130) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-26d92a244019111b0cdb909d40f871de]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2013/33/section/130) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

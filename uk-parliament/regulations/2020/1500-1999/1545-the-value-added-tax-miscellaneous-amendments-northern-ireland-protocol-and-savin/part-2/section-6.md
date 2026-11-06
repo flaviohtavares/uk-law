@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.[^key-f328a67337f5529c9301659e4bc0a5c9]
+## 6.[^c-f328a67337f5529c9301659e4bc0a5c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ In article 4—
 
 ## Annotations
 
-[^key-f328a67337f5529c9301659e4bc0a5c9]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f328a67337f5529c9301659e4bc0a5c9]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24394841]: Marginal citation: Schedule 9ZA to VATA was inserted by paragraph 2 of Schedule 2 to TPTPA.

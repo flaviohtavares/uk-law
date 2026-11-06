@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4(2)(*a*)(ii), and (11) and 7(1)(*e*)
 
-**1.**[^key-cc5b2ac5ef9ba932968812e429d95cc9] In addition to the general requirements contained in Schedule 1 all cutting premises shall have—
+**1.**[^c-cc5b2ac5ef9ba932968812e429d95cc9] In addition to the general requirements contained in Schedule 1 all cutting premises shall have—
 
 - (a) suitable and sufficient refrigerated rooms, provided with a recording thermometer or recording telethermometer for each room for—
   - (i) the storage of fresh meat; and
@@ -36,4 +36,4 @@ Regulations 4(2)(*a*)(ii), and (11) and 7(1)(*e*)
 
 ## Annotations
 
-[^key-cc5b2ac5ef9ba932968812e429d95cc9]: Commencement: Sch. 3 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-cc5b2ac5ef9ba932968812e429d95cc9]: Commencement: Sch. 3 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

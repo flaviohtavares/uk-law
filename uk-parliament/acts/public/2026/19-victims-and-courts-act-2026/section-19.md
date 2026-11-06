@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Short title[^key-2e4a4b78d228cfb4a79a3a7822ce218f]
+## 19. Short title[^c-2e4a4b78d228cfb4a79a3a7822ce218f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Victims and Courts Act 2026.
 
 ## Annotations
 
-[^key-2e4a4b78d228cfb4a79a3a7822ce218f]: Commencement: S. 19 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)
+[^c-2e4a4b78d228cfb4a79a3a7822ce218f]: Commencement: S. 19 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)

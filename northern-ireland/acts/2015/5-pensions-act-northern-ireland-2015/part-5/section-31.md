@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Bereavement support payment: prisoners[^key-cce3117de5762b31b291ea0cc163529d][^key-6d913d541bcdb67c9b2e1df250090e7d]
+## 31. Bereavement support payment: prisoners[^c-cce3117de5762b31b291ea0cc163529d][^c-6d913d541bcdb67c9b2e1df250090e7d]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cce3117de5762b31b291ea0cc163529d]: Commencement: S. 31 in operation at 10.3.2017 for specified purposes by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/a)
+[^c-cce3117de5762b31b291ea0cc163529d]: Commencement: S. 31 in operation at 10.3.2017 for specified purposes by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/a)
 
-[^key-6d913d541bcdb67c9b2e1df250090e7d]: Commencement: S. 31 in operation at 6.4.2017 in so far as not already in operation by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/b)
+[^c-6d913d541bcdb67c9b2e1df250090e7d]: Commencement: S. 31 in operation at 6.4.2017 in so far as not already in operation by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/b)

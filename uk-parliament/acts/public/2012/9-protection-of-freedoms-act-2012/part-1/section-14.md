@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Destruction of samples[^key-2178af0f1746d0962c61ded50b854ab0]
+## 14. Destruction of samples[^c-2178af0f1746d0962c61ded50b854ab0]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ After section 63Q of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-2178af0f1746d0962c61ded50b854ab0]: Commencement: S. 14 in force at 31.10.2013 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/c) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-2178af0f1746d0962c61ded50b854ab0]: Commencement: S. 14 in force at 31.10.2013 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/c) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

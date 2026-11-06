@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 13(3) and 15(3)
 
-### PART 1 — Grant, variation, transfer and surrender of environmental permits[^key-0c9a3a3041a141ba534aabecd681c563]
+### PART 1 — Grant, variation, transfer and surrender of environmental permits[^c-0c9a3a3041a141ba534aabecd681c563]
 
 #### 1. Interpretation
 
@@ -81,7 +81,7 @@ In this Part—
 - (e) a stand-alone flood risk activity—
   - (i) which is not likely to have a significant adverse effect on the environment, or
   - (ii) in respect of which public consultation has been carried out under another statutory requirement where that consultation addresses the potential environmental impact of the flood risk activity.
-- (f)[^key-080efc5fd5176826a368e10cd8624a4a] a medium combustion plant or a specified generator, unless the regulator determines that the operation of the medium combustion plant or specified generator may have significant negative effects on human beings or the environment
+- (f)[^c-080efc5fd5176826a368e10cd8624a4a] a medium combustion plant or a specified generator, unless the regulator determines that the operation of the medium combustion plant or specified generator may have significant negative effects on human beings or the environment
 
 (2) Paragraph 6 applies to every application for the variation of an environmental permit if—
 
@@ -113,7 +113,7 @@ In this Part—
 
 (6) When assessing whether a change in operation of a Part B installation has significant effects on the environment, the regulator must consider only its emissions to air.
 
-(7)[^key-a7542d0e2d577e3bf778639733d69d2b] When assessing whether the operation of a medium combustion plant or a specified generator may have significant negative effects on human beings or the environment, the regulator must consider only its emissions to air.
+(7)[^c-a7542d0e2d577e3bf778639733d69d2b] When assessing whether the operation of a medium combustion plant or a specified generator may have significant negative effects on human beings or the environment, the regulator must consider only its emissions to air.
 
 #### 6. Public participation in relation to certain applications
 
@@ -187,39 +187,39 @@ In this Part—
 
 but does not include a mortgagee not in possession.
 
-#### 10. Consultation with ... member States[^key-2e159c266cb980fb07b0cd51c4f9083f]
+#### 10. Consultation with ... member States[^c-2e159c266cb980fb07b0cd51c4f9083f]
 
 (1) This paragraph applies if—
 
-- (a) an appropriate authority is aware that the grant of a relevant application or regulator-initiated variation is likely to have significant negative effects on the environment of a[^key-f7c5ff174e0aa0dcec58f2e1cf895d55] member State, or
-- (b) a[^key-5503b8204008e9ae430cd5c0e9d919e2] member State requests information about a relevant application or about a proposal for a regulator-initiated variation.
+- (a) an appropriate authority is aware that the grant of a relevant application or regulator-initiated variation is likely to have significant negative effects on the environment of a[^c-f7c5ff174e0aa0dcec58f2e1cf895d55] member State, or
+- (b) a[^c-5503b8204008e9ae430cd5c0e9d919e2] member State requests information about a relevant application or about a proposal for a regulator-initiated variation.
 
 (2) As soon as is reasonably practicable the appropriate authority must—
 
-- (a) send the particulars of the relevant application or regulator-initiated variation to that member State [^key-ddde70557b5933bf3987b3f324dfc025]... ,
-- (b) inform that member State of the relevant information, [^key-c7e06c786e60b7fe8b8ae634a0a5c572]...
-- (c) notify the operator and the regulator that it has complied with paragraphs (a) and (b)[^M_F_f9e5dce1-6cf6-477c-8237-0c08334222bc] , and[^key-fb45e50e96ab6c8ed76214651ff86be2]
-- (d)[^key-445b0bef01a59cf2a566999fa5bf06f3] comply with sub-paragraph (2A).
+- (a) send the particulars of the relevant application or regulator-initiated variation to that member State [^c-ddde70557b5933bf3987b3f324dfc025]... ,
+- (b) inform that member State of the relevant information, [^c-c7e06c786e60b7fe8b8ae634a0a5c572]...
+- (c) notify the operator and the regulator that it has complied with paragraphs (a) and (b)[^M_F_f9e5dce1-6cf6-477c-8237-0c08334222bc] , and[^c-fb45e50e96ab6c8ed76214651ff86be2]
+- (d)[^c-445b0bef01a59cf2a566999fa5bf06f3] comply with sub-paragraph (2A).
 
-(2A)[^key-a4a4c4e532515f667cc375d6ba2eebe8] The appropriate authority must—
+(2A)[^c-a4a4c4e532515f667cc375d6ba2eebe8] The appropriate authority must—
 
 - (a) consult the authorities of that member State, and
 - (b) allow such reasonable period as may have been agreed with those authorities for them to ensure that the authorities and the public concerned in that member State are given an opportunity to forward their representations on the relevant information supplied.
 
 (3) If a regulator receives notification under sub-paragraph (2)(c), it must not determine the application or make the regulator-initiated variation until the appropriate authority has—
 
-- (a) notified it that the consultation described in sub-paragraph (2A)(a) has[^key-40d258d2085e9016d17cccc1bf22eb6f] been completed, and
-- (aa)[^key-d8a0a32c0599729afbd9c91b410b9fea] notified it that the period described in sub-paragraph (2A)(b) has ended, and
+- (a) notified it that the consultation described in sub-paragraph (2A)(a) has[^c-40d258d2085e9016d17cccc1bf22eb6f] been completed, and
+- (aa)[^c-d8a0a32c0599729afbd9c91b410b9fea] notified it that the period described in sub-paragraph (2A)(b) has ended, and
 - (b) sent it any representations made by the member State.
 
 (4) In this paragraph—
 
 - “**member State**” includes Iceland, Liechtenstein and Norway but only to the extent that there is a relevant application or regulator-initiated variation which relates to the carrying on at an installation of an activity listed in Annex I to the Industrial Emissions Directive;
 - “**relevant application**” means an application for the grant or variation of an environmental permit in relation to an installation described in sub-paragraph (5) or a Category A mining waste facility;
-- [^key-4e7ea5259ef5713c2481a282c5b1b5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-4e7ea5259ef5713c2481a282c5b1b5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**relevant information**” means—
   - (a) where the relevant application or regulator-initiated variation relates to an installation described in sub-paragraph (5), a matter in paragraph 1 of Annex IV to the Industrial Emissions Directive;
-  - (b) where it relates to a Category A mining waste facility, the information described in Article 7(2)[^key-1e1d40b7d075a2436fffb71e9ef3228e] of the Mining Waste Directive.
+  - (b) where it relates to a Category A mining waste facility, the information described in Article 7(2)[^c-1e1d40b7d075a2436fffb71e9ef3228e] of the Mining Waste Directive.
 
 (5) The description in this sub-paragraph is an installation where an activity listed in Annex 1 to the Industrial Emissions Directive is carried on.
 
@@ -315,7 +315,7 @@ or in any case, a longer period than the period in paragraphs (a) to (d), if it 
 
 #### 17. Notification of a determination or decision
 
-(1) As soon as is reasonably practicable after it determines an application or decides to make a regulator-initiated variation, the regulator must comply with sub-paragraphs (2) and (2A)[^key-1aa80e499e76cf73c607f1ba1965fab1].
+(1) As soon as is reasonably practicable after it determines an application or decides to make a regulator-initiated variation, the regulator must comply with sub-paragraphs (2) and (2A)[^c-1aa80e499e76cf73c607f1ba1965fab1].
 
 (2) The regulator must—
 
@@ -325,7 +325,7 @@ or in any case, a longer period than the period in paragraphs (a) to (d), if it 
   - (iii) the requirements relating to the exercise of those rights in paragraphs 2 and 3 of Schedule 6, and
 - (b) if paragraph 10 applies, notify the appropriate authority of the determination or decision.
 
-(2A)[^key-e9d8d569887d8147583eb4c36e6161fa] Where paragraph 10 applies to an application or regulator-initiated variation relating to an installation described in paragraph 10(5), the regulator must—
+(2A)[^c-e9d8d569887d8147583eb4c36e6161fa] Where paragraph 10 applies to an application or regulator-initiated variation relating to an installation described in paragraph 10(5), the regulator must—
 
 - (a) notify the authorities of the member State consulted in accordance with paragraph 10(2A)(a) of the determination or decision, and
 - (b) provide those authorities with the information described in Article 24(2) of the Industrial Emission Directive.
@@ -489,43 +489,43 @@ and must, in either case, be applied by the mortgagee as if it were proceeds of 
 
 ## Annotations
 
-[^key-0c9a3a3041a141ba534aabecd681c563]: Modification: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [6(1)(b)](https://www.legislation.gov.uk/uksi/2022/1067/article/6/1/b)
+[^c-0c9a3a3041a141ba534aabecd681c563]: Modification: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [6(1)(b)](https://www.legislation.gov.uk/uksi/2022/1067/article/6/1/b)
 
 [^c23193471]: Marginal citation: Section 41 was amended by paragraph 39 of Schedule 4 to the [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), and by [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), 1806 (W. 138), 2006/937, 2007/1711, 3106, 2008/3087, 2009/890, 3381, 2011/988, 1043, 2911, 2012/1659, 2788, 2013/755 (W. 90), 1821 and 2014/861.
 
-[^key-080efc5fd5176826a368e10cd8624a4a]: Textual amendment: Sch. 5 Pt. 1 para. 5(1)(f) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2018/110/regulation/13/a)
+[^c-080efc5fd5176826a368e10cd8624a4a]: Textual amendment: Sch. 5 Pt. 1 para. 5(1)(f) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2018/110/regulation/13/a)
 
-[^key-a7542d0e2d577e3bf778639733d69d2b]: Textual amendment: Sch. 5 Pt. 1 para. 5(7) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2018/110/regulation/13/b)
+[^c-a7542d0e2d577e3bf778639733d69d2b]: Textual amendment: Sch. 5 Pt. 1 para. 5(7) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2018/110/regulation/13/b)
 
-[^key-2e159c266cb980fb07b0cd51c4f9083f]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10) heading omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e159c266cb980fb07b0cd51c4f9083f]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10) heading omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7c5ff174e0aa0dcec58f2e1cf895d55]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/1/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7c5ff174e0aa0dcec58f2e1cf895d55]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/1/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5503b8204008e9ae430cd5c0e9d919e2]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(1)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/1/b) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5503b8204008e9ae430cd5c0e9d919e2]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(1)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/1/b) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ddde70557b5933bf3987b3f324dfc025]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/a) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddde70557b5933bf3987b3f324dfc025]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/a) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7e06c786e60b7fe8b8ae634a0a5c572]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/b) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7e06c786e60b7fe8b8ae634a0a5c572]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/b) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_f9e5dce1-6cf6-477c-8237-0c08334222bc]: Textual amendment: Words in Sch. 5 Pt. 1 para. 10(2)(c) substituted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(4)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/4)
 
-[^key-fb45e50e96ab6c8ed76214651ff86be2]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/c) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb45e50e96ab6c8ed76214651ff86be2]: Textual amendment: Word in [Sch. 5 Pt. 1 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/c) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-445b0bef01a59cf2a566999fa5bf06f3]: Textual amendment: [Sch. 5 Pt. 1 para. 10(2)(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/d) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(dd)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/dd); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-445b0bef01a59cf2a566999fa5bf06f3]: Textual amendment: [Sch. 5 Pt. 1 para. 10(2)(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2/d) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iii)(dd)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iii/dd); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4a4c4e532515f667cc375d6ba2eebe8]: Textual amendment: [Sch. 5 Pt. 1 para. 10(2A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2A) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4a4c4e532515f667cc375d6ba2eebe8]: Textual amendment: [Sch. 5 Pt. 1 para. 10(2A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/2A) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40d258d2085e9016d17cccc1bf22eb6f]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/3/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(v)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/v/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40d258d2085e9016d17cccc1bf22eb6f]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/3/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(v)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/v/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8a0a32c0599729afbd9c91b410b9fea]: Textual amendment: [Sch. 5 Pt. 1 para. 10(3)(aa)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/3/aa) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(v)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/v/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8a0a32c0599729afbd9c91b410b9fea]: Textual amendment: [Sch. 5 Pt. 1 para. 10(3)(aa)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/3/aa) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(v)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/v/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e7ea5259ef5713c2481a282c5b1b5d3]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/4) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(vi)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/vi/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e7ea5259ef5713c2481a282c5b1b5d3]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/4) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(vi)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/vi/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e1d40b7d075a2436fffb71e9ef3228e]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/4) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(vi)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/vi/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e1d40b7d075a2436fffb71e9ef3228e]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 10(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/10/4) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(a)(vi)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/a/vi/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1aa80e499e76cf73c607f1ba1965fab1]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 17(1)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/17/1) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1aa80e499e76cf73c607f1ba1965fab1]: Textual amendment: Words in [Sch. 5 Pt. 1 para. 17(1)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/17/1) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e9d8d569887d8147583eb4c36e6161fa]: Textual amendment: [Sch. 5 Pt. 1 para. 17(2A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/17/2A) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9d8d569887d8147583eb4c36e6161fa]: Textual amendment: [Sch. 5 Pt. 1 para. 17(2A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/5/part/1/paragraph/17/2A) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/10/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23193481]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 

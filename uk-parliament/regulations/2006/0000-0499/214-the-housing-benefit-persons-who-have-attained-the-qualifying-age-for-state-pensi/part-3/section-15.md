@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 15. Applications to the rent officer for redeterminations[^key-01d3acad0e14953e365a698901934a06]
+## 15. Applications to the rent officer for redeterminations[^c-01d3acad0e14953e365a698901934a06]
 
 (1) Subject to paragraph (2) and regulation 16 (application for redetermination by rent officer), where a relevant authority has obtained from a rent officer either or both of the following—
 
@@ -27,4 +27,4 @@ the authority may apply to the rent officer for a redetermination of any determi
 
 ## Annotations
 
-[^key-01d3acad0e14953e365a698901934a06]: Textual amendment: Regs. 15-18 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2007/2869/regulation/9)
+[^c-01d3acad0e14953e365a698901934a06]: Textual amendment: Regs. 15-18 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2007/2869/regulation/9)

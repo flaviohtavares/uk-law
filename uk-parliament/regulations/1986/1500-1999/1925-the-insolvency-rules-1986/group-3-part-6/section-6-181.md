@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.181. Duty to keep court informed[^key-c6df6e47fdcd3e1e8bab3d773022f593]
+## 6.181. Duty to keep court informed[^c-c6df6e47fdcd3e1e8bab3d773022f593]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The trustee shall notify the court from time to time as to the persons to whom h
 
 ## Annotations
 
-[^key-c6df6e47fdcd3e1e8bab3d773022f593]: Commencement: [Rule 6.181](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.181) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c6df6e47fdcd3e1e8bab3d773022f593]: Commencement: [Rule 6.181](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.181) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

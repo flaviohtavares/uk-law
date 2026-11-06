@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Changes to boundaries of a CCA’s area[^key-756f5768bff824f7a93b72769942d250]
+## 25. Changes to boundaries of a CCA’s area[^c-756f5768bff824f7a93b72769942d250]
 
 *Extent: E+W*
 
@@ -45,15 +45,15 @@ summary: ''
 
 (5) Regulations may be made under subsection (1) only if the area to be created by the regulations meets conditions A and B in section 9.
 
-(6)[^key-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-4d8abf28f5ce68806f855b7dd537daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Subsection (12) applies if a CCA has made provision about its constitution under regulations under section 10(1).
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-756f5768bff824f7a93b72769942d250]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/55/section/25) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-756f5768bff824f7a93b72769942d250]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/55/section/25) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-4d8abf28f5ce68806f855b7dd537daeb]: Textual amendment: S. 25(6)-(10) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/32) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-4d8abf28f5ce68806f855b7dd537daeb]: Textual amendment: S. 25(6)-(10) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/32) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Notices under the Insurance Companies Act[^key-eba73d1cdc690184beaffbadf2161a14]
+## 17. Notices under the Insurance Companies Act[^c-eba73d1cdc690184beaffbadf2161a14]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ the notice has effect after commencement as if it stated that the Authority prop
 
 ## Annotations
 
-[^key-eba73d1cdc690184beaffbadf2161a14]: Commencement: Art. 17 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-eba73d1cdc690184beaffbadf2161a14]: Commencement: Art. 17 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00013]: Footnote: Section 12A was inserted by the 3ID Regulations and has been amended by S.I. [1997/2781](https://www.legislation.gov.uk/uksi/1997/2781).

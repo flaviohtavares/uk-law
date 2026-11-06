@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P2. Management of superannuation fund[^key-26e23e6da28f651b339a7edd8fe67cd2]
+## P2. Management of superannuation fund[^c-26e23e6da28f651b339a7edd8fe67cd2]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Every administering authority shall in each year carry and credit to their super
 
 ## Annotations
 
-[^key-26e23e6da28f651b339a7edd8fe67cd2]: Commencement: [Reg. P2](https://www.legislation.gov.uk/uksi/1986/24/regulation/P2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-26e23e6da28f651b339a7edd8fe67cd2]: Commencement: [Reg. P2](https://www.legislation.gov.uk/uksi/1986/24/regulation/P2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

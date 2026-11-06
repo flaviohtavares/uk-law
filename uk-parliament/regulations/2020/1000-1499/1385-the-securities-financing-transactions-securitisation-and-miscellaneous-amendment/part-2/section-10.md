@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Cessation following a determination by the FCA[^key-65ef706d4d153f11e62b1643ce719093]
+## 10. Cessation following a determination by the FCA[^c-65ef706d4d153f11e62b1643ce719093]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65ef706d4d153f11e62b1643ce719093]: Commencement: Reg. 10 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-65ef706d4d153f11e62b1643ce719093]: Commencement: Reg. 10 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate authority[^key-d314eada5099addfaed1bbb24a9f230e] may by regulations make provision for written records of decisions made or action taken by a member of a local authority, in exercise of a function of the authority by virtue of arrangements made under section 236 of the Local Government and Public Involvement in Health Act 2007 or under section 56 of the Local Government (Wales) Measure 2011[^key-6537fbbeeda976d6142f80f7119701d5], to be made and provided to the authority by the member.
+(1) The appropriate authority[^c-d314eada5099addfaed1bbb24a9f230e] may by regulations make provision for written records of decisions made or action taken by a member of a local authority, in exercise of a function of the authority by virtue of arrangements made under section 236 of the Local Government and Public Involvement in Health Act 2007 or under section 56 of the Local Government (Wales) Measure 2011[^c-6537fbbeeda976d6142f80f7119701d5], to be made and provided to the authority by the member.
 
 (2) Any written record provided to the authority under regulations under subsection (1) shall be open to inspection by members of the public at the offices of the authority for the period of six years beginning with the date on which the decision was made or action was taken.
 
-(2A)[^key-518d714af4cdb4e99dc5d2ada6af9d39] In this section “**appropriate authority**” means—
+(2A)[^c-518d714af4cdb4e99dc5d2ada6af9d39] In this section “**appropriate authority**” means—
 
 - (a) in relation to local authorities in England, the Secretary of State;
 - (b) in relation to local authorities in Wales, the Welsh Ministers.
@@ -38,8 +38,8 @@ summary: ''
 
 [^c15100081]: Textual amendment: Pt. VA (ss. 100A–100K) inserted by [Local Government (Access to Information) Act 1985 (c. 43, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1985/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1985/43/section/1/1)
 
-[^key-d314eada5099addfaed1bbb24a9f230e]: Textual amendment: Words in s. 100EA(1) substituted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 57(1)(a)(i)](https://www.legislation.gov.uk/mwa/2011/4/section/57/1/a/i), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
+[^c-d314eada5099addfaed1bbb24a9f230e]: Textual amendment: Words in s. 100EA(1) substituted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 57(1)(a)(i)](https://www.legislation.gov.uk/mwa/2011/4/section/57/1/a/i), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
 
-[^key-6537fbbeeda976d6142f80f7119701d5]: Textual amendment: Words in s. 100EA(1) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 57(1)(a)(ii)](https://www.legislation.gov.uk/mwa/2011/4/section/57/1/a/ii), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
+[^c-6537fbbeeda976d6142f80f7119701d5]: Textual amendment: Words in s. 100EA(1) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 57(1)(a)(ii)](https://www.legislation.gov.uk/mwa/2011/4/section/57/1/a/ii), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
 
-[^key-518d714af4cdb4e99dc5d2ada6af9d39]: Textual amendment: S. 100EA(2A) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 57(1)(b)](https://www.legislation.gov.uk/mwa/2011/4/section/57/1/b), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
+[^c-518d714af4cdb4e99dc5d2ada6af9d39]: Textual amendment: S. 100EA(2A) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 57(1)(b)](https://www.legislation.gov.uk/mwa/2011/4/section/57/1/b), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)

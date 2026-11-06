@@ -76,7 +76,7 @@ In Schedule 5 (purity criteria) the entries relating to the miscellaneous additi
 
 (1) In so far as any Instrument listed in regulation 14(1) of the Miscellaneous Food Additives (Amendment) Regulations 1999 [^c15865181] extends to England, that provision shall cease to have effect in relation to that instrument.
 
-(2)[^key-9638a451449c2bdcf1b5c63f1f99ccaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9638a451449c2bdcf1b5c63f1f99ccaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Health.
 
@@ -170,4 +170,4 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^c15865181]: Marginal citation: [S.I. 1999/1136](https://www.legislation.gov.uk/uksi/1999/1136).
 
-[^key-9638a451449c2bdcf1b5c63f1f99ccaf]: Textual amendment: Reg. 6(2) omitted (15.1.2002) by virtue of [The Miscellaneous Food Additives (Amendment) (England) (No. 2) Regulations 2001 (S.I. 2001/3775)](https://www.legislation.gov.uk/uksi/2001/3775), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3775/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2001/3775/regulation/9/1)
+[^c-9638a451449c2bdcf1b5c63f1f99ccaf]: Textual amendment: Reg. 6(2) omitted (15.1.2002) by virtue of [The Miscellaneous Food Additives (Amendment) (England) (No. 2) Regulations 2001 (S.I. 2001/3775)](https://www.legislation.gov.uk/uksi/2001/3775), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3775/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2001/3775/regulation/9/1)

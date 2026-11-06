@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Duties on residents and owners[^key-fe0edc84ad366c601b02163f96ada4c4][^key-e11e9c5254a22e5f288b80ad36b28b2b]
+## 95. Duties on residents and owners[^c-fe0edc84ad366c601b02163f96ada4c4][^c-e11e9c5254a22e5f288b80ad36b28b2b]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe0edc84ad366c601b02163f96ada4c4]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-fe0edc84ad366c601b02163f96ada4c4]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-e11e9c5254a22e5f288b80ad36b28b2b]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2022/30/section/95) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/p)
+[^c-e11e9c5254a22e5f288b80ad36b28b2b]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2022/30/section/95) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/p)

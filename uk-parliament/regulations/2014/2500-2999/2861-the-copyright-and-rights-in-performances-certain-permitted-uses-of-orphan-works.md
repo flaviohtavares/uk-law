@@ -46,15 +46,15 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act, a draft of this ins
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
 
-## 1. Citation and commencement[^key-4ccd76f0a226c78e711c59fba23e9a47]
+## 1. Citation and commencement[^c-4ccd76f0a226c78e711c59fba23e9a47]
 
 These Regulations may be cited as the Copyright and Rights in Performances (Certain Permitted Uses of Orphan Works) Regulations 2014 and come into force on 29th October 2014.
 
-## 2. Interpretation[^key-02d8299410d3a1addef9128eda232880]
+## 2. Interpretation[^c-02d8299410d3a1addef9128eda232880]
 
 In these Regulations “the Act” means the Copyright, Designs and Patents Act 1988[^f00003].
 
-## 3. Amendments to the Act[^key-bb824a516344c27016c77de168bd4905]
+## 3. Amendments to the Act[^c-bb824a516344c27016c77de168bd4905]
 
 (1) After section 44A of the Act[^f00004] insert—
 
@@ -108,7 +108,7 @@ Department for Business, Innovation and Skills
 
 Regulation 3(5)
 
-**1.**[^key-8f89db573728ebff7e9785b7ea8d7494] Before Schedule A1 to the Act insert—
+**1.**[^c-8f89db573728ebff7e9785b7ea8d7494] Before Schedule A1 to the Act insert—
 
 > **SCHEDULE ZA1 — CERTAIN PERMITTED USES OF ORPHAN WORKS**
 >
@@ -273,13 +273,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 1992/707](https://www.legislation.gov.uk/uksi/1992/707) and [1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-4ccd76f0a226c78e711c59fba23e9a47]: Commencement: Reg. 1 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
+[^c-4ccd76f0a226c78e711c59fba23e9a47]: Commencement: Reg. 1 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
 
-[^key-02d8299410d3a1addef9128eda232880]: Commencement: Reg. 2 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
+[^c-02d8299410d3a1addef9128eda232880]: Commencement: Reg. 2 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
 
 [^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-bb824a516344c27016c77de168bd4905]: Commencement: Reg. 3 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
+[^c-bb824a516344c27016c77de168bd4905]: Commencement: Reg. 3 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
 
 [^f00004]: Footnote: Section 44A was inserted by the Legal Deposit Libraries Act [2003 (c.28)](https://www.legislation.gov.uk/ukpga/2003/28), section 8(1).
 
@@ -289,7 +289,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: Schedule A1 was inserted by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), section 77(4) and Schedule 22, Part 1 paragraph 1.
 
-[^key-8f89db573728ebff7e9785b7ea8d7494]: Commencement: Sch. para. 1 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
+[^c-8f89db573728ebff7e9785b7ea8d7494]: Commencement: Sch. para. 1 in force at 29.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1)
 
 [^f00008]: Footnote: Chapter 2 of Part 2 has been amended in the following ways: section 182 was substituted by, and sections 182A to 182D were inserted by, [S.I 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) and amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18) and [S.I 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782); section 183 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498); section 185 was amended by [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18); sections 186 and 187 were amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498); section 189 was amended by [S.I 2006/18](https://www.legislation.gov.uk/uksi/2006/18); section 190 was amended by [S.I 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) and [S.I 2006/18](https://www.legislation.gov.uk/uksi/2006/18); section 191 was substituted by S.I [1995/3297](https://www.legislation.gov.uk/uksi/1995/3297) and amended by [S.I 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I 2006/18](https://www.legislation.gov.uk/uksi/2006/18) and [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782); sections 191A to 191M were inserted by [S.I 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) and sections 191A, 191C, 191Dand 191I were amended by [S.I 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498) and [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18); sections 191HA and 191HB were inserted by [S.I 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782); sections 192A and 192B were substituted by [S.I 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) and amended by [S.I 2006/18](https://www.legislation.gov.uk/uksi/2006/18) and [2013/1782](https://www.legislation.gov.uk/uksi/2013/1782); and sections 192 and 193 were amended by [S.I 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) and [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 222. Formal defects[^key-f07541b307402a465ca08ad60c29222c]
+## 222. Formal defects[^c-f07541b307402a465ca08ad60c29222c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No special administration proceedings shall be invalidated by any formal defect 
 
 ## Annotations
 
-[^key-f07541b307402a465ca08ad60c29222c]: Commencement: Rule 222 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-f07541b307402a465ca08ad60c29222c]: Commencement: Rule 222 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

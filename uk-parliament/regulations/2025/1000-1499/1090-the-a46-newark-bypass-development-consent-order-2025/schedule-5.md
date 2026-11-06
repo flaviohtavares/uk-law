@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS AND RESTRICTIVE COVENANTS ETC. MAY BE ACQUIRED[^key-7d6aaf9cf710e5b49ac5719810bf98e3]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS AND RESTRICTIVE COVENANTS ETC. MAY BE ACQUIRED[^c-7d6aaf9cf710e5b49ac5719810bf98e3]
 
 *Extent: E+W*
 
@@ -159,4 +159,4 @@ Article 29
 
 ## Annotations
 
-[^key-7d6aaf9cf710e5b49ac5719810bf98e3]: Commencement: Sch. 5 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-7d6aaf9cf710e5b49ac5719810bf98e3]: Commencement: Sch. 5 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

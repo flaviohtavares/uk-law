@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Penalties[^key-b5c3dabf5c9091295fb1c4cb490667f3]
+## 40. Penalties[^c-b5c3dabf5c9091295fb1c4cb490667f3]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The maximum penalty for an offence consisting of a contravention of a requiremen
 
 ## Annotations
 
-[^key-b5c3dabf5c9091295fb1c4cb490667f3]: Commencement: Reg. 40 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-b5c3dabf5c9091295fb1c4cb490667f3]: Commencement: Reg. 40 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

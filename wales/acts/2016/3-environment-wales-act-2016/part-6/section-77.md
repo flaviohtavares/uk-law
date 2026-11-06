@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Fees for monitoring, variation etc. of marine licences[^key-de3b64ceae0bd6a786951d982ca65fcf][^key-e6527fa7ace0e4e3da4f8d3b5d937b0e]
+## 77. Fees for monitoring, variation etc. of marine licences[^c-de3b64ceae0bd6a786951d982ca65fcf][^c-e6527fa7ace0e4e3da4f8d3b5d937b0e]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de3b64ceae0bd6a786951d982ca65fcf]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2016/3/section/77) in force at 24.2.2017 for specified purposes by [S.I. 2017/152](https://www.legislation.gov.uk/wsi/2017/152), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/152/article/2/a)
+[^c-de3b64ceae0bd6a786951d982ca65fcf]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2016/3/section/77) in force at 24.2.2017 for specified purposes by [S.I. 2017/152](https://www.legislation.gov.uk/wsi/2017/152), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/152/article/2/a)
 
-[^key-e6527fa7ace0e4e3da4f8d3b5d937b0e]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2016/3/section/77) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)
+[^c-e6527fa7ace0e4e3da4f8d3b5d937b0e]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2016/3/section/77) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)

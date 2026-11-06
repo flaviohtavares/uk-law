@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.3. Security for expenses by bond of caution[^key-3ad299760b4591aa1971582f62cf5797]
+## 3.11.3. Security for expenses by bond of caution[^c-3ad299760b4591aa1971582f62cf5797]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad299760b4591aa1971582f62cf5797]: Commencement: Rule 3.11.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-3ad299760b4591aa1971582f62cf5797]: Commencement: Rule 3.11.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

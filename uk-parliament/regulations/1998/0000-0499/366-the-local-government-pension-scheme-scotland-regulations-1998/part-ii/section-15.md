@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Inland Revenue limits on contributions[^key-7a83aa2f986e487208868fb51816e038]
+## 15. Inland Revenue limits on contributions[^c-7a83aa2f986e487208868fb51816e038]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a83aa2f986e487208868fb51816e038]: Commencement: Reg. 15 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-7a83aa2f986e487208868fb51816e038]: Commencement: Reg. 15 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

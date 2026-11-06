@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.1. Calculation of time periods[^key-febced96294914b6948b96e2a796657a]
+## 7.1. Calculation of time periods[^c-febced96294914b6948b96e2a796657a]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-febced96294914b6948b96e2a796657a]: Commencement: Rule 7.1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-febced96294914b6948b96e2a796657a]: Commencement: Rule 7.1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00036]: Footnote: Rule 2.8 is amended by [S.I. 2009/3390](https://www.legislation.gov.uk/uksi/2009/3390).
 

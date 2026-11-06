@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 89. Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes[^key-0cd76796583294bd639119007d3f30bf]
+## Article 89. Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes[^c-0cd76796583294bd639119007d3f30bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cd76796583294bd639119007d3f30bf]: Textual amendment: Art. 89 omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-0cd76796583294bd639119007d3f30bf]: Textual amendment: Art. 89 omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)

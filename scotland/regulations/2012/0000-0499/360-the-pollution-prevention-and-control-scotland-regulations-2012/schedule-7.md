@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — VARIATION OF PERMITS[^key-3e4eded244085ee8c17d89062bc5bc5f]
+## SCHEDULE 7 — VARIATION OF PERMITS[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 *Extent: S*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Regulations 46 and 58
 
-### PART 1 — APPLICATIONS FOR VARIATION[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART 1 — APPLICATIONS FOR VARIATION[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
-**1.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — DETERMINATION OF VARIATIONS[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART 2 — DETERMINATION OF VARIATIONS[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
-**4.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — NATIONAL SECURITY AND CONFIDENTIAL INFORMATION[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART 3 — NATIONAL SECURITY AND CONFIDENTIAL INFORMATION[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
-**17.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e4eded244085ee8c17d89062bc5bc5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/360) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3e4eded244085ee8c17d89062bc5bc5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/360) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

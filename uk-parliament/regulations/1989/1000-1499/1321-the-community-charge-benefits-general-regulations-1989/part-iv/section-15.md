@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Average weekly income other than earnings[^key-08bf4d77ee6ae8756f56cc4117cfda24]
+## 15. Average weekly income other than earnings[^c-08bf4d77ee6ae8756f56cc4117cfda24]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08bf4d77ee6ae8756f56cc4117cfda24]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/1321/regulation/15) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-08bf4d77ee6ae8756f56cc4117cfda24]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/1321/regulation/15) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Public notice of community meeting[^key-1cde13aead95e2f0a1d7e4b4bc6fa310]
+## 92. Public notice of community meeting[^c-1cde13aead95e2f0a1d7e4b4bc6fa310]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ After paragraph 30D of Schedule 12 to the Local Government Act 1972 insert the f
 
 ## Annotations
 
-[^key-1cde13aead95e2f0a1d7e4b4bc6fa310]: Commencement: [S. 92](https://www.legislation.gov.uk/mwa/2011/4/section/92) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)
+[^c-1cde13aead95e2f0a1d7e4b4bc6fa310]: Commencement: [S. 92](https://www.legislation.gov.uk/mwa/2011/4/section/92) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)

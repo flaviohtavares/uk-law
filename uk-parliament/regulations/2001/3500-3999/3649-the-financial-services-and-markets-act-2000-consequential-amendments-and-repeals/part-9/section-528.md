@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 528. Relevant occupational pension schemes[^key-2e3bceb07f8f8ea0939a91d87f6af675]
+## 528. Relevant occupational pension schemes[^c-2e3bceb07f8f8ea0939a91d87f6af675]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In paragraph (3) of regulation 3 of the Occupational Pension Schemes (Scheme Adm
 
 ## Annotations
 
-[^key-2e3bceb07f8f8ea0939a91d87f6af675]: Commencement: Art. 528 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2e3bceb07f8f8ea0939a91d87f6af675]: Commencement: Art. 528 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00339]: Footnote: [S.I. 2001/1177](https://www.legislation.gov.uk/uksi/2001/1177).

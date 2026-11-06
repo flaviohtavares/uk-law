@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 193. Powers of Assembly to make proposals to secure regional provision[^key-20488a2a55b1240a49bf92169d0a8a65]
+## 193. Powers of Assembly to make proposals to secure regional provision[^c-20488a2a55b1240a49bf92169d0a8a65]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20488a2a55b1240a49bf92169d0a8a65]: Textual amendment: [Ss. 191-193](https://www.legislation.gov.uk/ukpga/2002/32/section/191) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(10)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/10); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-20488a2a55b1240a49bf92169d0a8a65]: Textual amendment: [Ss. 191-193](https://www.legislation.gov.uk/ukpga/2002/32/section/191) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(10)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/10); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

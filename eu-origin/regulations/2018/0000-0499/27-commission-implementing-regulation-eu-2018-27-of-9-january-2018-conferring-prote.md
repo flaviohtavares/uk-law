@@ -33,14 +33,14 @@ of 9 January 2018
 
 conferring protection under Article 99 of Regulation (EU) No 1308/2013 of the European Parliament and of the Council on the name ‘Ribeiras do Morrazo’ (PGI) (revoked)
 
-[^key-51445e600f0582bd17aa2b012fd7621b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51445e600f0582bd17aa2b012fd7621b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-51445e600f0582bd17aa2b012fd7621b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-51445e600f0582bd17aa2b012fd7621b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-51445e600f0582bd17aa2b012fd7621b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-51445e600f0582bd17aa2b012fd7621b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51445e600f0582bd17aa2b012fd7621b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51445e600f0582bd17aa2b012fd7621b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51445e600f0582bd17aa2b012fd7621b]: Textual amendment: Regulation revoked (31.12.2020) by The Common Organisation of the Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [116(h)](https://www.legislation.gov.uk/uksi/2019/821/regulation/116/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51445e600f0582bd17aa2b012fd7621b]: Textual amendment: Regulation revoked (31.12.2020) by The Common Organisation of the Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [116(h)](https://www.legislation.gov.uk/uksi/2019/821/regulation/116/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

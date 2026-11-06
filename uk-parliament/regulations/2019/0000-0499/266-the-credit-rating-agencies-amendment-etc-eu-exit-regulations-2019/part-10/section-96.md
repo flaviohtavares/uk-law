@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96.[^key-33086649dcded03776a89f186eac3cb9][^key-1d5e171876b6c2bea5b13507ae1e50ec]
+## 96.[^c-33086649dcded03776a89f186eac3cb9][^c-1d5e171876b6c2bea5b13507ae1e50ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33086649dcded03776a89f186eac3cb9]: Commencement: Reg. 96 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-33086649dcded03776a89f186eac3cb9]: Commencement: Reg. 96 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-1d5e171876b6c2bea5b13507ae1e50ec]: Textual amendment: Reg. 96 substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3), [9(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/9/4) (as amended by [S.I. 2020/1055](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [14(a)(b)(c)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/14/a/b/c))
+[^c-1d5e171876b6c2bea5b13507ae1e50ec]: Textual amendment: Reg. 96 substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3), [9(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/9/4) (as amended by [S.I. 2020/1055](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [14(a)(b)(c)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/14/a/b/c))

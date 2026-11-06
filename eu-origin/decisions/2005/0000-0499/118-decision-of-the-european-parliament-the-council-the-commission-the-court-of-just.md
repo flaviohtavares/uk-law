@@ -35,34 +35,34 @@ setting up a European Administrative School
 
 (2005/118/EC) (revoked)
 
-[^key-0f48534bf6961f7bc7f27230da5f46cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f48534bf6961f7bc7f27230da5f46cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Establishment of an European Administrative School[^key-0f48534bf6961f7bc7f27230da5f46cd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Duties[^key-0f48534bf6961f7bc7f27230da5f46cd]
+## Article 1. Establishment of an European Administrative School[^c-0f48534bf6961f7bc7f27230da5f46cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Requests, complaints and appeals[^key-0f48534bf6961f7bc7f27230da5f46cd]
+## Article 2. Duties[^c-0f48534bf6961f7bc7f27230da5f46cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Attachment[^key-0f48534bf6961f7bc7f27230da5f46cd]
+## Article 3. Requests, complaints and appeals[^c-0f48534bf6961f7bc7f27230da5f46cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Implementation[^key-0f48534bf6961f7bc7f27230da5f46cd]
+## Article 4. Attachment[^c-0f48534bf6961f7bc7f27230da5f46cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Effective date[^key-0f48534bf6961f7bc7f27230da5f46cd]
+## Article 5. Implementation[^c-0f48534bf6961f7bc7f27230da5f46cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f48534bf6961f7bc7f27230da5f46cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 6. Effective date[^c-0f48534bf6961f7bc7f27230da5f46cd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0f48534bf6961f7bc7f27230da5f46cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f48534bf6961f7bc7f27230da5f46cd]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f48534bf6961f7bc7f27230da5f46cd]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

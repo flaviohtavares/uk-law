@@ -33,30 +33,30 @@ of 17 July 2020
 
 amending Decision (EU) 2015/32 concerning derogations that may be granted under Regulation (EU) No 1073/2013 (ECB/2020/33) (revoked)
 
-[^key-4cd4f47ca979cc192e3a17a576e78b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cd4f47ca979cc192e3a17a576e78b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendment[^key-4cd4f47ca979cc192e3a17a576e78b4a]
+## Article 1. Amendment[^c-4cd4f47ca979cc192e3a17a576e78b4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Taking effect[^key-4cd4f47ca979cc192e3a17a576e78b4a]
+## Article 2. Taking effect[^c-4cd4f47ca979cc192e3a17a576e78b4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressees[^key-4cd4f47ca979cc192e3a17a576e78b4a]
+## Article 3. Addressees[^c-4cd4f47ca979cc192e3a17a576e78b4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cd4f47ca979cc192e3a17a576e78b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cd4f47ca979cc192e3a17a576e78b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-4cd4f47ca979cc192e3a17a576e78b4a]
+## ANNEX[^c-4cd4f47ca979cc192e3a17a576e78b4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4cd4f47ca979cc192e3a17a576e78b4a]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 130](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/130)
+[^c-4cd4f47ca979cc192e3a17a576e78b4a]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 130](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/130)

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
-## 7A. Limitation of savings credit for certain mixed-age couples[^key-471de24b2a61f207af11ec98eb041760]
+## 7A. Limitation of savings credit for certain mixed-age couples[^c-471de24b2a61f207af11ec98eb041760]
 
 A person who is a member of a mixed-age couple, is not entitled to a savings credit unless one of the members of the couple—
 
@@ -23,4 +23,4 @@ A person who is a member of a mixed-age couple, is not entitled to a savings cre
 
 ## Annotations
 
-[^key-471de24b2a61f207af11ec98eb041760]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/1792/regulation/7A) inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations 2015 (S.I. 2015/1529)](https://www.legislation.gov.uk/uksi/2015/1529), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1529/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1529/regulation/2/2)
+[^c-471de24b2a61f207af11ec98eb041760]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/1792/regulation/7A) inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations 2015 (S.I. 2015/1529)](https://www.legislation.gov.uk/uksi/2015/1529), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1529/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1529/regulation/2/2)

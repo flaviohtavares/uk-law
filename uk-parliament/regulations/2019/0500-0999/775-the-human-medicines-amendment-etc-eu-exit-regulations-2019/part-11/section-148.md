@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Amendment of regulation 188 (reporting obligations on holders)[^key-234fa3cfc9c96d48195e9b6d5de01fd9]
+## 148. Amendment of regulation 188 (reporting obligations on holders)[^c-234fa3cfc9c96d48195e9b6d5de01fd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,14 +26,14 @@ summary: ''
 
 (3) In paragraph (1)—
 
-- (za)[^key-423764a2634545e1ca03254d3e973ba1] for “Subject to paragraph (2), the holder” substitute “The holder of a UK marketing authorisation, traditional herbal registration or Article 126a authorisation”;
+- (za)[^c-423764a2634545e1ca03254d3e973ba1] for “Subject to paragraph (2), the holder” substitute “The holder of a UK marketing authorisation, traditional herbal registration or Article 126a authorisation”;
 - (a) in sub-paragraph (a)—
   - (i) for “EEA” substitute “ United Kingdom ”, and
   - (ii) for “third countries” substitute “ countries other than the United Kingdom ”;
 - (b) in sub-paragraph (b), for “EEA” substitute “ United Kingdom ”;
 - (c) in sub-paragraph (e), for “EMA and the competent authorities of the EEA States” substitute “ licensing authority ”.
 
-(3A)[^key-f4058181b4c1e327e940350d8ac3588b] After paragraph (1) insert—
+(3A)[^c-f4058181b4c1e327e940350d8ac3588b] After paragraph (1) insert—
 
 > (1A) The holder of a UKMA(UK), a UKMA(NI), a THR(UK), a THR(NI) or an Article 126a authorisation must, in relation to the product—
 >
@@ -44,7 +44,7 @@ summary: ''
 
 .
 
-(4)[^key-628739e670c1935e3a969e37ea8746d5] In paragraph (2)—
+(4)[^c-628739e670c1935e3a969e37ea8746d5] In paragraph (2)—
 
 - (a) after “holder” insert “of a UKMA(NI), a UKMA(UK), a THR(NI), a THR(UK) or an Article 126a authorisation”;
 - (b) for “paragraph (1)(a) or (b)” substitute “paragraph (1A)(a) or (b)”; and
@@ -54,7 +54,7 @@ summary: ''
 
 (5) In paragraph (4)(a), omit “other than monitored publications”.
 
-(5A)[^key-2344541b44ac1eb63dcb69a1f569c59e] After paragraph (4) insert—
+(5A)[^c-2344541b44ac1eb63dcb69a1f569c59e] After paragraph (4) insert—
 
 > (4A) The holder of a UKMA(NI), a UKMA(UK), a THR(NI), a THR(UK) or an Article 126a authorisation must—
 >
@@ -69,12 +69,12 @@ summary: ''
 
 ## Annotations
 
-[^key-234fa3cfc9c96d48195e9b6d5de01fd9]: Commencement: Reg. 148 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-234fa3cfc9c96d48195e9b6d5de01fd9]: Commencement: Reg. 148 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-423764a2634545e1ca03254d3e973ba1]: Textual amendment: Reg. 148(3)(za) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/a)
+[^c-423764a2634545e1ca03254d3e973ba1]: Textual amendment: Reg. 148(3)(za) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/a)
 
-[^key-f4058181b4c1e327e940350d8ac3588b]: Textual amendment: Reg. 148(3A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/b)
+[^c-f4058181b4c1e327e940350d8ac3588b]: Textual amendment: Reg. 148(3A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/b)
 
-[^key-628739e670c1935e3a969e37ea8746d5]: Textual amendment: Reg. 148(4)(4A) substituted for reg. 148(4) (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/c)
+[^c-628739e670c1935e3a969e37ea8746d5]: Textual amendment: Reg. 148(4)(4A) substituted for reg. 148(4) (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/c)
 
-[^key-2344541b44ac1eb63dcb69a1f569c59e]: Textual amendment: Reg. 148(5A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/d)
+[^c-2344541b44ac1eb63dcb69a1f569c59e]: Textual amendment: Reg. 148(5A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 115(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/115/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Publication of information[^c24459241][^key-5c1561a0511f3ba65743385a7eed23c6]
+## 46. Publication of information[^c24459241][^c-5c1561a0511f3ba65743385a7eed23c6]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c24459241]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2021/1/section/46) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-5c1561a0511f3ba65743385a7eed23c6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2021/1/section/46) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-5c1561a0511f3ba65743385a7eed23c6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2021/1/section/46) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

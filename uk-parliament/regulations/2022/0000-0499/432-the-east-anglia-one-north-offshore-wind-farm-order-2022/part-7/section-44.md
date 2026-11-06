@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Offshore ornithology compensation provisions[^key-cf62de0404ec9b86add1c774e9ba88ca]
+## 44. Offshore ornithology compensation provisions[^c-cf62de0404ec9b86add1c774e9ba88ca]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 18 (offshore ornithology compensation measures) has effect.
 
 ## Annotations
 
-[^key-cf62de0404ec9b86add1c774e9ba88ca]: Commencement: Art. 44 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-cf62de0404ec9b86add1c774e9ba88ca]: Commencement: Art. 44 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

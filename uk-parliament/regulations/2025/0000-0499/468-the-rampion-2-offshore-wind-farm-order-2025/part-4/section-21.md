@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Temporary suspension of public access to access land[^key-85c17b31a72c067fb38ee68fb3aa1925]
+## 21. Temporary suspension of public access to access land[^c-85c17b31a72c067fb38ee68fb3aa1925]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85c17b31a72c067fb38ee68fb3aa1925]: Commencement: Art. 21 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-85c17b31a72c067fb38ee68fb3aa1925]: Commencement: Art. 21 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

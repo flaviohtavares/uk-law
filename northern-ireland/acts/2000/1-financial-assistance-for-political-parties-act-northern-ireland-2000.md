@@ -35,9 +35,9 @@ An Act to provide for the making of payments to political parties for the purpos
 
 ## 1. Financial assistance for political parties
 
-(1)[^key-a73ce7167a202b901427d38ff33a9034] The Northern Ireland Assembly Commission (in this Act referred to as “the Commission”) may, in accordance with a scheme in force under section 2, make payments to political parties for the purpose of assisting members of the Assembly who are connected with such parties to perform their Assembly duties.
+(1)[^c-a73ce7167a202b901427d38ff33a9034] The Northern Ireland Assembly Commission (in this Act referred to as “the Commission”) may, in accordance with a scheme in force under section 2, make payments to political parties for the purpose of assisting members of the Assembly who are connected with such parties to perform their Assembly duties.
 
-(2)[^key-ef16ce383ebd8f950328215bf577abae] If there is an Assembly Opposition (within the meaning of the Assembly and Executive Reform (Assembly Opposition) Act (Northern Ireland) 2016), the scheme shall provide for additional payments to be made to political parties in the Opposition.
+(2)[^c-ef16ce383ebd8f950328215bf577abae] If there is an Assembly Opposition (within the meaning of the Assembly and Executive Reform (Assembly Opposition) Act (Northern Ireland) 2016), the scheme shall provide for additional payments to be made to political parties in the Opposition.
 
 ## 2. The scheme
 
@@ -74,6 +74,6 @@ This Act may be cited as the Financial Assistance for Political Parties Act (Nor
 
 ## Annotations
 
-[^key-a73ce7167a202b901427d38ff33a9034]: Textual amendment: [S. 1](https://www.legislation.gov.uk/nia/2000/1/section/1/1): renumbered as s. 1(1) (24.3.2016) by [Assembly and Executive Reform (Assembly Opposition) Act (NorthernIreland) 2016 (c. 10)](https://www.legislation.gov.uk/nia/2016/10), [ss. 11(1)](https://www.legislation.gov.uk/nia/2016/10/section/11/1), [17](https://www.legislation.gov.uk/nia/2016/10/section/17)
+[^c-a73ce7167a202b901427d38ff33a9034]: Textual amendment: [S. 1](https://www.legislation.gov.uk/nia/2000/1/section/1/1): renumbered as s. 1(1) (24.3.2016) by [Assembly and Executive Reform (Assembly Opposition) Act (NorthernIreland) 2016 (c. 10)](https://www.legislation.gov.uk/nia/2016/10), [ss. 11(1)](https://www.legislation.gov.uk/nia/2016/10/section/11/1), [17](https://www.legislation.gov.uk/nia/2016/10/section/17)
 
-[^key-ef16ce383ebd8f950328215bf577abae]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/nia/2000/1/section/1/2) inserted (24.3.2016) by [Assembly and Executive Reform (Assembly Opposition) Act (NorthernIreland) 2016 (c. 10)](https://www.legislation.gov.uk/nia/2016/10), [ss. 11(2)](https://www.legislation.gov.uk/nia/2016/10/section/11/2), [17](https://www.legislation.gov.uk/nia/2016/10/section/17)
+[^c-ef16ce383ebd8f950328215bf577abae]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/nia/2000/1/section/1/2) inserted (24.3.2016) by [Assembly and Executive Reform (Assembly Opposition) Act (NorthernIreland) 2016 (c. 10)](https://www.legislation.gov.uk/nia/2016/10), [ss. 11(2)](https://www.legislation.gov.uk/nia/2016/10/section/11/2), [17](https://www.legislation.gov.uk/nia/2016/10/section/17)

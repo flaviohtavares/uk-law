@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Transfers of prisoners and others to hospital: conditions[^key-1370257a03bf854fcd827e755cbcd222]
+## 36. Transfers of prisoners and others to hospital: conditions[^c-1370257a03bf854fcd827e755cbcd222]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1370257a03bf854fcd827e755cbcd222] The Mental Health Act 1983 is amended as follows.
+(1)[^c-1370257a03bf854fcd827e755cbcd222] The Mental Health Act 1983 is amended as follows.
 
 (2) In section 47 (removal to hospital of persons serving sentences of imprisonment etc) for subsection (1)(c) substitute—
 
@@ -35,7 +35,7 @@ summary: ''
   > - (c) appropriate medical treatment can be given for the relevant disorder from which the person is suffering;
 
   ;
-- (b)[^key-1370257a03bf854fcd827e755cbcd222] in subsection (2), for paragraph (d) substitute—
+- (b)[^c-1370257a03bf854fcd827e755cbcd222] in subsection (2), for paragraph (d) substitute—
 
   > - (d) persons detained under—
   >   - (i) the Immigration Act 1971,
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1370257a03bf854fcd827e755cbcd222]: Commencement: [S. 36(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/36/1)[(3)(b)](https://www.legislation.gov.uk/ukpga/2025/33/section/36/3/b) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)
+[^c-1370257a03bf854fcd827e755cbcd222]: Commencement: [S. 36(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/36/1)[(3)(b)](https://www.legislation.gov.uk/ukpga/2025/33/section/36/3/b) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)

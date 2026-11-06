@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4(2)(*a*)(i), and (11) 7(1)(*e*), and 14(1)
 
-**1.**[^key-5ac851d105b908262124e4af3aaa6ef8] In addition to the general requirements contained in Schedule 1 each slaughterhouse shall have—
+**1.**[^c-5ac851d105b908262124e4af3aaa6ef8] In addition to the general requirements contained in Schedule 1 each slaughterhouse shall have—
 
 - (a) a means of controlling access to, and exit from, the premises;
 - (b) a suitable and sufficient lairage which—
@@ -56,13 +56,13 @@ Regulations 4(2)(*a*)(i), and (11) 7(1)(*e*), and 14(1)
 - (t) a suitable and separate place (which may be situated outside the boundary of the slaughterhouse) and adequate equipment, for cleaning and disinfecting vehicles used for the transport of animals; and
 - (u) a suitable and separate place (which may be situated outside the boundary of the slaughterhouse) and adequate equipment, for cleaning and disinfecting vehicles used for the transport of fresh meat.
 
-**2.**[^key-1004e5fc3e62124a95b50c95557d173e] In the case of a slaughterhouse where swine and other animals are slaughtered, and a separate room for the slaughter and dressing of swine does not exist,
+**2.**[^c-1004e5fc3e62124a95b50c95557d173e] In the case of a slaughterhouse where swine and other animals are slaughtered, and a separate room for the slaughter and dressing of swine does not exist,
 
 - (a) the slaughterhouse shall, where this takes place, contain suitable and sufficient accommodation for the scalding, depilation, scraping and singeing of swine;
 - (b) such operations shall be performed at a different time from the slaughter and dressing of other animals or in a place which is separated from the slaughterline for other species either by an open space of at least 5 metres or by a partition at least 3 metres high; and
 - (c) similar separation shall be required between the sections of any slaughterline for swine in the event of any bends in that line bringing subsequent operations into the vicinity of the section used for scalding, depilation, scraping and singeing.
 
-**3.**[^key-0a629177a75e056182deea3b6cfba249] The room and facilities referred to in sub-paragraph 1(*i*) shall not be required in any slaughterhouse in which the emptying and cleaning of stomachs and intestines is carried out in the slaughterhouse by means of closed circuit mechanical equipment which has a suitable system of ventilation and which satisfies the following requirements, that is to say—
+**3.**[^c-0a629177a75e056182deea3b6cfba249] The room and facilities referred to in sub-paragraph 1(*i*) shall not be required in any slaughterhouse in which the emptying and cleaning of stomachs and intestines is carried out in the slaughterhouse by means of closed circuit mechanical equipment which has a suitable system of ventilation and which satisfies the following requirements, that is to say—
 
 - (a) the equipment is installed and arranged in such a manner that operations for separating intestines from the stomach and for the emptying and cleaning of stomachs can be carried out hygienically and the equipment is located in a special place which is clearly separated from any exposed fresh meat by a partition stretching from the floor to a height of at least three metres and surrounding the area where these operations are carried out;
 - (b) the design and operation of the equipment effectively prevents any contamination of fresh meat;
@@ -74,8 +74,8 @@ Regulations 4(2)(*a*)(i), and (11) 7(1)(*e*), and 14(1)
 
 ## Annotations
 
-[^key-5ac851d105b908262124e4af3aaa6ef8]: Commencement: Sch. 2 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-5ac851d105b908262124e4af3aaa6ef8]: Commencement: Sch. 2 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-1004e5fc3e62124a95b50c95557d173e]: Commencement: Sch. 2 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-1004e5fc3e62124a95b50c95557d173e]: Commencement: Sch. 2 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-0a629177a75e056182deea3b6cfba249]: Commencement: Sch. 2 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-0a629177a75e056182deea3b6cfba249]: Commencement: Sch. 2 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

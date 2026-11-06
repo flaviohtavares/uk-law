@@ -28,7 +28,7 @@ summary: ''
 
 - (a) explains why the extension is sought;
 - (b) contains sufficient details of the decision to which the application relates to enable it to be identified; and
-- (c) is made within 12[^key-a79a6bb10ed499b14ae768c92a5ee0fb] months of the latest date by which the application for revision should have been received by the Secretary of State in accordance with regulation 5(1)(b)(i) to (iii).
+- (c) is made within 12[^c-a79a6bb10ed499b14ae768c92a5ee0fb] months of the latest date by which the application for revision should have been received by the Secretary of State in accordance with regulation 5(1)(b)(i) to (iii).
 
 (4) The third condition is that the Secretary of State is satisfied that it is reasonable to grant the extension.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a79a6bb10ed499b14ae768c92a5ee0fb]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/381/regulation/6/3) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2017/1015/regulation/16)
+[^c-a79a6bb10ed499b14ae768c92a5ee0fb]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/381/regulation/6/3) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2017/1015/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Stop notices[^key-6ba65c487a147902b1896f89364ff272]
+## 73. Stop notices[^c-6ba65c487a147902b1896f89364ff272]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ba65c487a147902b1896f89364ff272]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2011/9/section/73) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-6ba65c487a147902b1896f89364ff272]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2011/9/section/73) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

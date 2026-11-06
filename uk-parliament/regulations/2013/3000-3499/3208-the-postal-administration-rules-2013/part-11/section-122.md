@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Costs and expenses of witnesses[^key-3fc9c1f4dcf8f6c55cccc3e0701bd2a6]
+## 122. Costs and expenses of witnesses[^c-3fc9c1f4dcf8f6c55cccc3e0701bd2a6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc9c1f4dcf8f6c55cccc3e0701bd2a6]: Commencement: [Rule 122](https://www.legislation.gov.uk/uksi/2013/3208/rule/122) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-3fc9c1f4dcf8f6c55cccc3e0701bd2a6]: Commencement: [Rule 122](https://www.legislation.gov.uk/uksi/2013/3208/rule/122) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

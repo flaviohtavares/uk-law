@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Control schemes[^key-a0a91fd32bf7046b1c75f423d91e9d50]
+## 18. Control schemes[^c-a0a91fd32bf7046b1c75f423d91e9d50]
 
 *Extent: S*
 
@@ -185,4 +185,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a91fd32bf7046b1c75f423d91e9d50]: Commencement: S. 18 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-a0a91fd32bf7046b1c75f423d91e9d50]: Commencement: S. 18 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

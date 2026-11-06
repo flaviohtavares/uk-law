@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2021 (revoked)[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]
+The Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2021 (revoked)[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]
 
 Sift requirements satisfied
 
@@ -50,26 +50,26 @@ Coming into force
 
 1st June 2021
 
-[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]
+## 1. Citation, commencement and interpretation[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Capital Requirements Regulation[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]
+## 2. Amendment of the Capital Requirements Regulation[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2018[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]
+## 3. Amendment of the Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2018[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6bfdf32ece2105a6fc6f4b24bbe7a668]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/558) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-6bfdf32ece2105a6fc6f4b24bbe7a668]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/558) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

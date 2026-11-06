@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Determination of question whether a substance is a drug[^key-83a0c90185b3981bf27cf24eded1b8ec]
+## 34. Determination of question whether a substance is a drug[^c-83a0c90185b3981bf27cf24eded1b8ec]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ that appeal shall continue to be dealt with as if regulation 36 of the 1992 Regu
 
 ## Annotations
 
-[^key-83a0c90185b3981bf27cf24eded1b8ec]: Commencement: Art. 34 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-83a0c90185b3981bf27cf24eded1b8ec]: Commencement: Art. 34 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00041]: Footnote: Regulation 36(7) was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

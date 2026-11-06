@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Applications: types of abstraction licence[^key-fcf6d790e4ba579964ab1793e2188abd]
+## 13. Applications: types of abstraction licence[^c-fcf6d790e4ba579964ab1793e2188abd]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcf6d790e4ba579964ab1793e2188abd]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2003/37/section/13) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/984/article/2/h) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/7))
+[^c-fcf6d790e4ba579964ab1793e2188abd]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2003/37/section/13) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/984/article/2/h) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/7))

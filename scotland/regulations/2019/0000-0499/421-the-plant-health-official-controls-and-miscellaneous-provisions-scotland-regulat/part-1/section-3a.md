@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3A. Measures adopted pursuant to Article 30(1) of the EU Plant Health Regulation[^key-263b176c08ec8faf3aea81971ed99f94]
+## 3A. Measures adopted pursuant to Article 30(1) of the EU Plant Health Regulation[^c-263b176c08ec8faf3aea81971ed99f94]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-263b176c08ec8faf3aea81971ed99f94]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/ssi/2019/421/regulation/3A) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [12(3)](https://www.legislation.gov.uk/ssi/2020/466/regulation/12/3) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-263b176c08ec8faf3aea81971ed99f94]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/ssi/2019/421/regulation/3A) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [12(3)](https://www.legislation.gov.uk/ssi/2020/466/regulation/12/3) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

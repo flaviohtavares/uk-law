@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Electronic communications: emergency works[^key-e18ebd3431e3fa08ef018dc3e782ee6a]
+## 87. Electronic communications: emergency works[^c-e18ebd3431e3fa08ef018dc3e782ee6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e18ebd3431e3fa08ef018dc3e782ee6a]: Commencement: S. 87 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-e18ebd3431e3fa08ef018dc3e782ee6a]: Commencement: S. 87 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

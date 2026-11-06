@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Power to gather information[^key-ed394258e187b5f33efdc3b04e3c835a]
+## 15. Power to gather information[^c-ed394258e187b5f33efdc3b04e3c835a]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed394258e187b5f33efdc3b04e3c835a]: Commencement: S. 15 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-ed394258e187b5f33efdc3b04e3c835a]: Commencement: S. 15 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

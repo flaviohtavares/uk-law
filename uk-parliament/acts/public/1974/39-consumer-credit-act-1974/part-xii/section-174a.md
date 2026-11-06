@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174A. Powers to require provision of information or documents etc.[^key-980b54745f769ed36fd68f023991526a][^c18854291]
+## 174A. Powers to require provision of information or documents etc.[^c-980b54745f769ed36fd68f023991526a][^c18854291]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,12 +46,12 @@ any information or document which the other person would be entitled to refuse t
 - (a) communications between a professional legal adviser and his client;
 - (b) communications made in connection with or in contemplation of legal proceedings and for the purposes of those proceedings.
 
-(5)[^key-8acf5c6decf4e60aa1242bdcdda84501] In this section, “relevant authority” means an enforcement authority or an officer of an enforcement authority.
+(5)[^c-8acf5c6decf4e60aa1242bdcdda84501] In this section, “relevant authority” means an enforcement authority or an officer of an enforcement authority.
 
 ## Annotations
 
-[^key-980b54745f769ed36fd68f023991526a]: Modification: S. 174A applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/8/6)
+[^c-980b54745f769ed36fd68f023991526a]: Modification: S. 174A applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/8/6)
 
 [^c18854291]: Textual amendment: S. 174A inserted (6.4.2008) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {51(5)}, 71(2); [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
 
-[^key-8acf5c6decf4e60aa1242bdcdda84501]: Textual amendment: S. 174A(5) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(54)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/54)
+[^c-8acf5c6decf4e60aa1242bdcdda84501]: Textual amendment: S. 174A(5) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(54)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/54)

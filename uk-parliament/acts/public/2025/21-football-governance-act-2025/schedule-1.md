@@ -24,7 +24,7 @@ Section 3
 
 ### Part 1 — Conditions for being an owner
 
-#### 1. Conditions for being an owner[^key-d4264867b879a0599f5f0a79297b0b21]
+#### 1. Conditions for being an owner[^c-d4264867b879a0599f5f0a79297b0b21]
 
 (1) For the purposes of this Act, a person is an “owner” of a club if—
 
@@ -33,7 +33,7 @@ Section 3
 
 (2) In the case of a club that is a registered society, if there is no individual in relation to whom one or more of the conditions in paragraph 2 are met, the registered society itself is the owner of the club.
 
-**2.**[^key-1b7c47993c5cc62bde6152b9083824b6] (1) Condition 1 is that the person has the right to exercise, or actually exercises, significant influence or control over the activities of the club (in whole or in part).
+**2.**[^c-1b7c47993c5cc62bde6152b9083824b6] (1) Condition 1 is that the person has the right to exercise, or actually exercises, significant influence or control over the activities of the club (in whole or in part).
 
 (2) Condition 2 is that the person holds, directly or indirectly, more than 25% of the shares in the club.
 
@@ -48,15 +48,15 @@ Section 3
 
 ### Part 2 — Interpretation
 
-#### 3. Interpretation[^key-89583b161d2ba9e4ba50183c7d2b7c51]
+#### 3. Interpretation[^c-89583b161d2ba9e4ba50183c7d2b7c51]
 
 This Part makes provision about the interpretation of this Schedule.
 
-#### 4. Joint interests[^key-36aec50cb6c308b33b0eeb8163bd700b]
+#### 4. Joint interests[^c-36aec50cb6c308b33b0eeb8163bd700b]
 
 If a person holds a share or right jointly with another person (whether or not the other person is an individual or a registered society), each of those persons is to be taken to hold that share or right.
 
-#### 5. Joint arrangements[^key-1184298ace30a7ec02471aede6fc977b]
+#### 5. Joint arrangements[^c-1184298ace30a7ec02471aede6fc977b]
 
 (1) If shares or rights held by a person and shares or rights held by another person (whether or not the other person is an individual or a registered society) are the subject of a joint arrangement between those persons, each of those persons is to be taken to hold the combined shares or rights of both persons.
 
@@ -64,7 +64,7 @@ If a person holds a share or right jointly with another person (whether or not t
 
 (3) For the meaning of “arrangement”, see paragraph 12.
 
-#### 6. Calculating shareholdings[^key-7ffed75662f51292d2363cbc1f4a2a39]
+#### 6. Calculating shareholdings[^c-7ffed75662f51292d2363cbc1f4a2a39]
 
 (1) In relation to a club that has a share capital, a reference to holding more than 25% of the shares in the club is to holding shares comprised in the issued share capital of the club of a nominal value exceeding (in aggregate) 25% of that share capital.
 
@@ -73,7 +73,7 @@ If a person holds a share or right jointly with another person (whether or not t
 - (a) a reference to holding shares in the club is to be read as a reference to holding a right to share in the capital or, as the case may be, profits of the club;
 - (b) a reference to holding more than 25% of the shares in the club is to be read as a reference to holding a right or rights to share in more than 25% of the capital or, as the case may be, profits of the club.
 
-#### 7. Voting rights[^key-39be66d25074953dce242ccc43d3e3c2]
+#### 7. Voting rights[^c-39be66d25074953dce242ccc43d3e3c2]
 
 (1) A reference to the voting rights in a person is to the rights conferred on shareholders in respect of their shares (or, in the case of a person not having a share capital, on members) to vote at general meetings of the person on all or substantially all matters.
 
@@ -82,9 +82,9 @@ If a person holds a share or right jointly with another person (whether or not t
 - (a) a reference to holding voting rights in the person is to be read as a reference to holding rights in relation to the person that are equivalent to those of a person entitled to exercise voting rights in a company;
 - (b) a reference to holding more than 25% of the voting rights in the person is to be read as a reference to holding the rights under the constitution of the person to block changes to the overall policy of the person or to the terms of its constitution.
 
-**8.**[^key-fbecc625b0facc006ca0a587543b6e92] In applying this Schedule, voting rights in a person held by the person itself are to be disregarded.
+**8.**[^c-fbecc625b0facc006ca0a587543b6e92] In applying this Schedule, voting rights in a person held by the person itself are to be disregarded.
 
-#### 9. Shares or rights held “indirectly”[^key-ab67b2dccd07c69c7dbdbb1a75ba225e]
+#### 9. Shares or rights held “indirectly”[^c-ab67b2dccd07c69c7dbdbb1a75ba225e]
 
 (1) A person (“**A**”) holds a share “indirectly” if A has a majority stake in a person (“**B**”) and B—
 
@@ -107,11 +107,11 @@ If a person holds a share or right jointly with another person (whether or not t
 - (c) is a member of B and controls alone, or pursuant to an agreement with other shareholders or members, a majority of the voting rights in B, or
 - (d) has the right to exercise, or actually exercises, dominant influence or control over B.
 
-#### 10. Shares held by nominees[^key-7609bd39e3b2a178e56051e887750bf6]
+#### 10. Shares held by nominees[^c-7609bd39e3b2a178e56051e887750bf6]
 
 A share held by a person as a nominee for another is to be treated as held by the other (and not by the nominee).
 
-#### 11. Rights treated as held by person who controls their exercise[^key-3ea4b6044801c34f56bc34636de6f78b]
+#### 11. Rights treated as held by person who controls their exercise[^c-3ea4b6044801c34f56bc34636de6f78b]
 
 (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
@@ -121,14 +121,14 @@ A share held by a person as a nominee for another is to be treated as held by th
 - (b) in accordance with that person’s directions or instructions, or
 - (c) with that person’s consent or concurrence.
 
-**12.**[^key-3a40d474e95fe0c7a3f1772c6626b400] (1) For the purposes of this Schedule “**arrangement**” includes—
+**12.**[^c-3a40d474e95fe0c7a3f1772c6626b400] (1) For the purposes of this Schedule “**arrangement**” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
 
 (2) But something does not count as an arrangement unless there is at least some degree of stability about it (whether by its nature or terms, the time it has been in existence or otherwise).
 
-#### 13. Rights exercisable only in certain circumstances etc[^key-72e71cd516eb4c07d42888e26d6a99a4]
+#### 13. Rights exercisable only in certain circumstances etc[^c-72e71cd516eb4c07d42888e26d6a99a4]
 
 (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
 
@@ -145,14 +145,14 @@ A share held by a person as a nominee for another is to be treated as held by th
 
 (4) Rights that are normally exercisable but are temporarily incapable of exercise are to continue to be taken into account.
 
-#### 14. Rights attached to shares held by way of security[^key-5dd67edb406ff5638fc8ef06f1d9355f]
+#### 14. Rights attached to shares held by way of security[^c-5dd67edb406ff5638fc8ef06f1d9355f]
 
 Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
 
 - (a) where apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in accordance with that person’s instructions, and
 - (b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in that person’s interests.
 
-#### 15. Significant influence or control over the activities of a club, trust or other body[^key-6b748dbffe57560f90c04992b19652a9]
+#### 15. Significant influence or control over the activities of a club, trust or other body[^c-6b748dbffe57560f90c04992b19652a9]
 
 (1) The Secretary of State must prepare and publish guidance about the meaning of significant influence or control for the purposes of this Schedule.
 
@@ -177,7 +177,7 @@ Rights attached to shares held by way of security provided by a person are to be
 
 ### Part 3 — Power to amend thresholds etc
 
-**16.**[^key-b722303a43275305de32d74427234f14] (1) The Secretary of State may by regulations amend this Schedule for a permitted purpose.
+**16.**[^c-b722303a43275305de32d74427234f14] (1) The Secretary of State may by regulations amend this Schedule for a permitted purpose.
 
 (2) The permitted purposes are—
 
@@ -189,34 +189,34 @@ Rights attached to shares held by way of security provided by a person are to be
 
 ## Annotations
 
-[^key-d4264867b879a0599f5f0a79297b0b21]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-d4264867b879a0599f5f0a79297b0b21]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-1b7c47993c5cc62bde6152b9083824b6]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-1b7c47993c5cc62bde6152b9083824b6]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-89583b161d2ba9e4ba50183c7d2b7c51]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-89583b161d2ba9e4ba50183c7d2b7c51]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-36aec50cb6c308b33b0eeb8163bd700b]: Commencement: Sch. 1 para. 4 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-36aec50cb6c308b33b0eeb8163bd700b]: Commencement: Sch. 1 para. 4 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-1184298ace30a7ec02471aede6fc977b]: Commencement: Sch. 1 para. 5 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-1184298ace30a7ec02471aede6fc977b]: Commencement: Sch. 1 para. 5 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-7ffed75662f51292d2363cbc1f4a2a39]: Commencement: Sch. 1 para. 6 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-7ffed75662f51292d2363cbc1f4a2a39]: Commencement: Sch. 1 para. 6 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-39be66d25074953dce242ccc43d3e3c2]: Commencement: Sch. 1 para. 7 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-39be66d25074953dce242ccc43d3e3c2]: Commencement: Sch. 1 para. 7 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-fbecc625b0facc006ca0a587543b6e92]: Commencement: Sch. 1 para. 8 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-fbecc625b0facc006ca0a587543b6e92]: Commencement: Sch. 1 para. 8 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-ab67b2dccd07c69c7dbdbb1a75ba225e]: Commencement: Sch. 1 para. 9 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-ab67b2dccd07c69c7dbdbb1a75ba225e]: Commencement: Sch. 1 para. 9 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-7609bd39e3b2a178e56051e887750bf6]: Commencement: Sch. 1 para. 10 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-7609bd39e3b2a178e56051e887750bf6]: Commencement: Sch. 1 para. 10 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-3ea4b6044801c34f56bc34636de6f78b]: Commencement: Sch. 1 para. 11 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-3ea4b6044801c34f56bc34636de6f78b]: Commencement: Sch. 1 para. 11 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-3a40d474e95fe0c7a3f1772c6626b400]: Commencement: Sch. 1 para. 12 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-3a40d474e95fe0c7a3f1772c6626b400]: Commencement: Sch. 1 para. 12 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-72e71cd516eb4c07d42888e26d6a99a4]: Commencement: Sch. 1 para. 13 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-72e71cd516eb4c07d42888e26d6a99a4]: Commencement: Sch. 1 para. 13 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-5dd67edb406ff5638fc8ef06f1d9355f]: Commencement: Sch. 1 para. 14 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-5dd67edb406ff5638fc8ef06f1d9355f]: Commencement: Sch. 1 para. 14 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-6b748dbffe57560f90c04992b19652a9]: Commencement: Sch. 1 para. 15 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-6b748dbffe57560f90c04992b19652a9]: Commencement: Sch. 1 para. 15 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
 
-[^key-b722303a43275305de32d74427234f14]: Commencement: Sch. 1 para. 16 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-b722303a43275305de32d74427234f14]: Commencement: Sch. 1 para. 16 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Anti-avoidance[^key-1da7b701001b528673d830f4be35da22]
+## 46A. Anti-avoidance[^c-1da7b701001b528673d830f4be35da22]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1da7b701001b528673d830f4be35da22]: Textual amendment: S. 46A and cross-heading inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 16(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/5)[(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/11)
+[^c-1da7b701001b528673d830f4be35da22]: Textual amendment: S. 46A and cross-heading inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 16(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/5)[(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/11)

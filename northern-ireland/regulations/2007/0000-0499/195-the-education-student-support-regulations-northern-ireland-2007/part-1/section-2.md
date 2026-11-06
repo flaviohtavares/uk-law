@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-992345dabfe117b217727c74030643c2]
+## 2. Interpretation[^c-992345dabfe117b217727c74030643c2]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ summary: ''
 - “**contribution**” means an eligible student’s contribution calculated pursuant to regulation 90 and Schedule 5;
 - “**course for the initial training of teachers**” includes such a course leading to a first degree unless otherwise indicated but excludes an employment-based teacher training scheme;
 - “**current course**” means the designated course in respect of which a person is applying for support;
-- “current distance learning course” means the designated distance learning course in respect of which a person is applying for support;[^key-f116928109d1baf3c6852196807fa970]
+- “current distance learning course” means the designated distance learning course in respect of which a person is applying for support;[^c-f116928109d1baf3c6852196807fa970]
 - “**current part-time course**” means the designated part-time course in respect of which a person is applying for support;
 - “**current postgraduate course**” means the designated postgraduate course in respect of which a person is applying for support;
 - “**current system student**” means an eligible student who—
@@ -65,10 +65,10 @@ summary: ''
     - (ii) begins the current course on or after 1<sup>st</sup> September 2007;
 - “Department” means the Department for Employment and Learning;
 - “**designated course**” means a course designated by regulation 6 or by the Department under regulation 6(6);
-- “designated distance learning course” means a course designated by the Department under regulation 107C;[^key-672911ef3a43c76ddb25f8ed48d40566]
+- “designated distance learning course” means a course designated by the Department under regulation 107C;[^c-672911ef3a43c76ddb25f8ed48d40566]
 - “**designated part-time course**” means a course designated by regulation 110 or by the Department under regulation 110(5);
 - “**designated postgraduate course**” means a course designated by regulation 127 or by the Department under regulation 127(4);
-- “disabled distance learning students’ allowance” means the grant payable under regulation 107H;[^key-63a40ed3cc4b02718aa3d1087889ac06]
+- “disabled distance learning students’ allowance” means the grant payable under regulation 107H;[^c-63a40ed3cc4b02718aa3d1087889ac06]
 - “**disabled part-time students’ allowance**” means the grant payable under regulation 116;
 - “**disabled students’ allowance**” means the grant payable under regulation 41;
 - “Directive 2004/38” means Directive 2004/38 of the European Parliament and of the Council of 29<sup>th</sup> April 2004[^f00019] on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States;
@@ -76,7 +76,7 @@ summary: ''
 - “electronic signature” is so much of anything in electronic form as—
   - (a) is incorporated into or otherwise logically associated with any electronic communication or electronic data; and
   - (b) purports to be so incorporated or associated for the purpose of being used in establishing the authenticity of the communication or data, the integrity of the communication or data, or both;
-- “eligible distance learning student” has the meaning given in regulation 107A;[^key-513e7230f35c1782c8df4e861b14759d]
+- “eligible distance learning student” has the meaning given in regulation 107A;[^c-513e7230f35c1782c8df4e861b14759d]
 - “**eligible part-time student**” has the meaning given in regulation 108;
 - “**eligible postgraduate student**” has the meaning given in regulation 125;
 - “**eligible student**” has the meaning given in paragraph (2);
@@ -131,7 +131,7 @@ summary: ''
     - (ii) before 1st September 2007 and in relation to which he was a gap year student; or
   - (f) began the current course on or after 1st September 2006 at a relevant institution of higher education in the Republic of Ireland;
 - “**ordinary duration**” means, in relation to a designated course, the number of academic years that a standard student would take to complete the designated course excluding any academic years of the course that are bursary years or Erasmus years;
-- “**period of eligibility**” has the meaning given respectively in regulation 7 in relation to an eligible student, in regulation 107D in relation to an eligible distance learning student,[^key-5037d3647f3c2e9dc86d81bdc15fdc76] in regulation 111 in relation to an eligible part-time student and in regulation 128 in relation to an eligible postgraduate student;
+- “**period of eligibility**” has the meaning given respectively in regulation 7 in relation to an eligible student, in regulation 107D in relation to an eligible distance learning student,[^c-5037d3647f3c2e9dc86d81bdc15fdc76] in regulation 111 in relation to an eligible part-time student and in regulation 128 in relation to an eligible postgraduate student;
 - “**periods of work experience**” means—
   - (a) periods of industrial, professional or commercial experience associated with full-time study at an institution, but at a place outside that institution;
   - (b) periods during which a student is employed and residing in a country whose language is one that he is studying for his course (provided that the period of residence in that country is a requirement of his course and the study of one or more modern languages accounts for not less than one half of the total time spent studying on the course);
@@ -182,7 +182,7 @@ summary: ''
 - “**student loans legislation**” means the Education (Student Loans) (Northern Ireland) Order 1990[^f00031], the Education (Student Loans) Act 1990[^f00032], the Education (Scotland) Act 1980 and regulations made thereunder, the Order and regulations made thereunder and the 1998 Act, and regulations made thereunder;
 - “**support**” means financial support by way of grant or loan made by the Department pursuant to regulations made under Article 3 of the Order;
 - “**transitional award**” means an award made under the Education (Students Awards) Regulations (Northern Ireland) 1998, other than an old award;
-- “Turkish worker” means a Turkish national who—[^key-e62c3ad5bc81965f1851f289d3d49237]
+- “Turkish worker” means a Turkish national who—[^c-e62c3ad5bc81965f1851f289d3d49237]
   - (a) is ordinarily resident in the United Kingdom and Islands; and
   - (b) is, or has been, lawfully employed in the United Kingdom;
 - “**type 1 teacher training student**” means a current system student on a course for the initial training of teachers (other than a course for a first degree) whose periods of full-time attendance (including attendance for the purpose of teaching practice) in the academic year in respect of which he is applying for support are in aggregate at least 6 weeks but less than 10 weeks; and
@@ -230,7 +230,7 @@ summary: ''
 
 ## Annotations
 
-[^key-992345dabfe117b217727c74030643c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-992345dabfe117b217727c74030643c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00004]: Footnote: [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
@@ -262,15 +262,15 @@ summary: ''
 
 [^f00018]: Footnote: [S.R. 2006 No. 312](https://www.legislation.gov.uk/nisr/2006/312), as amended by [S.R. 2006 No. 383](https://www.legislation.gov.uk/nisr/2006/383)
 
-[^key-f116928109d1baf3c6852196807fa970]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/a)
+[^c-f116928109d1baf3c6852196807fa970]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/a)
 
-[^key-672911ef3a43c76ddb25f8ed48d40566]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/b)
+[^c-672911ef3a43c76ddb25f8ed48d40566]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/b)
 
-[^key-63a40ed3cc4b02718aa3d1087889ac06]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/c)
+[^c-63a40ed3cc4b02718aa3d1087889ac06]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/c)
 
 [^f00019]: Footnote: OJ L158, 30.4.2004, p77-123
 
-[^key-513e7230f35c1782c8df4e861b14759d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(d)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/d)
+[^c-513e7230f35c1782c8df4e861b14759d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(d)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/d)
 
 [^f00020]: Footnote: ERASMUS is part of the European Community action programme SOCRATES; OJ No L28, 3.2.2000, p1.
 
@@ -286,7 +286,7 @@ summary: ''
 
 [^f00026]: Footnote: College of Agriculture, Food and Rural Enterprise is an integral part of the Department of Agriculture and Rural Development, and consists of campuses at Enniskillen, Greenmount and Loughry
 
-[^key-5037d3647f3c2e9dc86d81bdc15fdc76]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(e)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/e)
+[^c-5037d3647f3c2e9dc86d81bdc15fdc76]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/195/regulation/2) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [4(e)](https://www.legislation.gov.uk/nisr/2007/363/regulation/4/e)
 
 [^f00027]: Footnote: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the [Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c.19](https://www.legislation.gov.uk/ukpga/2004/19), Schedules 2 and 4) and the Immigration, Asylum and Nationality Act [2006 (c.13)](https://www.legislation.gov.uk/ukpga/2006/13), section 9
 
@@ -300,4 +300,4 @@ summary: ''
 
 [^f00032]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6); repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 4.
 
-[^key-e62c3ad5bc81965f1851f289d3d49237]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/195/regulation/2/1) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [16](https://www.legislation.gov.uk/nisr/2007/293/regulation/16)
+[^c-e62c3ad5bc81965f1851f289d3d49237]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/195/regulation/2/1) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [16](https://www.legislation.gov.uk/nisr/2007/293/regulation/16)

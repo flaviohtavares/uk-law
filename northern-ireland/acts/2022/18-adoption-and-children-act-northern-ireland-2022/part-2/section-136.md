@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Persons authorised to act as children’s court guardian[^key-e3c6a46e5495cea6fa02c036db44a985]
+## 136. Persons authorised to act as children’s court guardian[^c-e3c6a46e5495cea6fa02c036db44a985]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3c6a46e5495cea6fa02c036db44a985]: Commencement: S. 136 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e3c6a46e5495cea6fa02c036db44a985]: Commencement: S. 136 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

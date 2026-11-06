@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18.2. Giving notice of withdrawal to the Court[^key-6d8bc56d3dc04037b636c40a3978d850]
+## 18.2. Giving notice of withdrawal to the Court[^c-6d8bc56d3dc04037b636c40a3978d850]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d8bc56d3dc04037b636c40a3978d850]: Commencement: Para. 18.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6d8bc56d3dc04037b636c40a3978d850]: Commencement: Para. 18.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

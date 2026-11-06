@@ -40,9 +40,9 @@ summary: ''
 
 - (a) by a person registered under Part 2 of the Children and Families (Wales) Measure 2010 [^c2165938];
 - (b) in circumstances in which, but for article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010 [^c2165939], the care would be day care for the purposes of Part 2 of the Children and Families (Wales) Measure 2010;
-- (c) by a childcare provider approved in accordance with a scheme made by the National Assembly for Wales under section 12(5) of the Tax Credits Act 2002 [^c2165940]or made by the Welsh Ministers under section 60 (promotion etc. of well-being) of the Government of Wales Act 2006[^key-f14d50cd081c828085b56edc744958cb];
+- (c) by a childcare provider approved in accordance with a scheme made by the National Assembly for Wales under section 12(5) of the Tax Credits Act 2002 [^c2165940]or made by the Welsh Ministers under section 60 (promotion etc. of well-being) of the Government of Wales Act 2006[^c-f14d50cd081c828085b56edc744958cb];
 - (d)[^c2190934] out of school hours, by a school on school premises or by a local authority;
-- (e)[^key-c02b9224c32091b33dcad53f81dfd974] by a person who is employed, or engaged under a contract for services, to provide care and support by the provider of a domiciliary support service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016; or
+- (e)[^c-c02b9224c32091b33dcad53f81dfd974] by a person who is employed, or engaged under a contract for services, to provide care and support by the provider of a domiciliary support service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016; or
 - (f) by a foster parent in relation to the child (other than one whom the foster parent is fostering) in circumstances in which the care would be child minding or day care for the purposes of Part 2 of the Children and Families (Wales) Measure 2010 but for the fact that the child is over the age of the children to whom that Measure applies.
 
 (5) Care provided anywhere outside Great Britain by a childcare provider approved by an organisation accredited by the Secretary of State.
@@ -89,11 +89,11 @@ summary: ''
 
 [^c2165940]: Marginal citation: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-f14d50cd081c828085b56edc744958cb]: Textual amendment: Words in reg. 35(4)(c) inserted (25.3.2021) by [The Universal Credit (Childcare in Wales) (Amendment) Regulations 2021 (S.I. 2021/228)](https://www.legislation.gov.uk/uksi/2021/228), [regs. 1](https://www.legislation.gov.uk/uksi/2021/228/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/228/regulation/2)
+[^c-f14d50cd081c828085b56edc744958cb]: Textual amendment: Words in reg. 35(4)(c) inserted (25.3.2021) by [The Universal Credit (Childcare in Wales) (Amendment) Regulations 2021 (S.I. 2021/228)](https://www.legislation.gov.uk/uksi/2021/228), [regs. 1](https://www.legislation.gov.uk/uksi/2021/228/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/228/regulation/2)
 
 [^c2190934]: Textual amendment: Reg. 35(4)(d) substituted (29.7.2013) by The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 ([S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [3(6)(f)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/3/6/f)
 
-[^key-c02b9224c32091b33dcad53f81dfd974]: Textual amendment: Reg. 35(4)(e) substituted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/2)
+[^c-c02b9224c32091b33dcad53f81dfd974]: Textual amendment: Reg. 35(4)(e) substituted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/2)
 
 [^c2190936]: Textual amendment: Reg. 35(5A) inserted (29.7.2013) by The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 ([S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [3(6)(g)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/3/6/g)
 

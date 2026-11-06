@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Discharge of water[^key-bcf710dd8dfe42ddbbd3e93617f6e8a5]
+## 19. Discharge of water[^c-bcf710dd8dfe42ddbbd3e93617f6e8a5]
 
 *Extent: E+W+S*
 
@@ -44,11 +44,11 @@ summary: ''
 - (a) “**public sewer or drain**” means a sewer or drain which belongs to Homes England, the Environment Agency, a harbour authority within the meaning of section 57 (interpretation) of the Harbours Act 1964 [^f00050], an internal drainage board, a joint planning board, a local authority, the highway authority, a National Park Authority, a sewerage undertaker or an urban development corporation; and
 - (b) other expressions, excluding watercourse, used both in this article and in the Water Resources Act 1991[^f00051] have the same meaning as in that Act.
 
-(10)[^key-b3dda70791e125771492758c16a25d9f] In relation to any works executed
+(10)[^c-b3dda70791e125771492758c16a25d9f] In relation to any works executed
 
 ## Annotations
 
-[^key-bcf710dd8dfe42ddbbd3e93617f6e8a5]: Commencement: Art. 19 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-bcf710dd8dfe42ddbbd3e93617f6e8a5]: Commencement: Art. 19 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00049]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 35(1) and (8) and 43(2) of the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and section 49 of, and paragraph 16(1) of Schedule 3 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^f00051]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-b3dda70791e125771492758c16a25d9f]: Textual amendment: Art. 19(10) substituted (12.6.2024) by virtue of [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-b3dda70791e125771492758c16a25d9f]: Textual amendment: Art. 19(10) substituted (12.6.2024) by virtue of [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)

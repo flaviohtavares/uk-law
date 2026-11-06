@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Timescales for EHC plans[^key-d73c780bc138193f6a24222684622b8d]
+## 13. Timescales for EHC plans[^c-d73c780bc138193f6a24222684622b8d]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) require the local authority to arrange a meeting between them and an officer of the local authority at which the draft plan can be discussed; and
 - (b) advise them where they can find information about the schools and colleges that are available for the child or young person to attend.
 
-(2)[^key-c3b4185efc389f877108906d78a840f7] A local authority must send the finalised EHC plan to—
+(2)[^c-c3b4185efc389f877108906d78a840f7] A local authority must send the finalised EHC plan to—
 
 - (a) the child's parent or to the young person;
 - (b) the governing body, proprietor or principal of any school, other institution or provider of relevant early years education named in the EHC plan; and
@@ -39,6 +39,6 @@ as soon as practicable, and in any event within 20 weeks of the local authority 
 
 ## Annotations
 
-[^key-d73c780bc138193f6a24222684622b8d]: Modification: Reg. 13 applied (with modifications) (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2014/2270/article/21/3) (as amended (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1619/article/1), [3](https://www.legislation.gov.uk/uksi/2015/1619/article/3))
+[^c-d73c780bc138193f6a24222684622b8d]: Modification: Reg. 13 applied (with modifications) (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2014/2270/article/21/3) (as amended (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1619/article/1), [3](https://www.legislation.gov.uk/uksi/2015/1619/article/3))
 
-[^key-c3b4185efc389f877108906d78a840f7]: Modification: Reg. 13(2) excluded (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [7(12)](https://www.legislation.gov.uk/uksi/2014/2270/article/7/12)
+[^c-c3b4185efc389f877108906d78a840f7]: Modification: Reg. 13(2) excluded (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [7(12)](https://www.legislation.gov.uk/uksi/2014/2270/article/7/12)

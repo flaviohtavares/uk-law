@@ -32,8 +32,8 @@ summary: ''
 - (b) due to a trade dispute; or
 - (c) with permission from the member's Scheme employer.
 
-(5)[^key-6dad035853848ab3fca351327f020f9d] An active member, who is absent from work with permission from the member’s Scheme employer (otherwise than by reason of illness or injury) for a continuous period of less than 31 days and is receiving reduced or no pay, must pay contributions on the pensionable pay the member would have received during that period but for the absence.
+(5)[^c-6dad035853848ab3fca351327f020f9d] An active member, who is absent from work with permission from the member’s Scheme employer (otherwise than by reason of illness or injury) for a continuous period of less than 31 days and is receiving reduced or no pay, must pay contributions on the pensionable pay the member would have received during that period but for the absence.
 
 ## Annotations
 
-[^key-6dad035853848ab3fca351327f020f9d]: Textual amendment: Reg. 11(5) inserted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/8)
+[^c-6dad035853848ab3fca351327f020f9d]: Textual amendment: Reg. 11(5) inserted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/8)

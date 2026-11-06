@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Signatures of Treasury Commissioners[^key-78872c0597094240334937318873c4eb]
+## 71. Signatures of Treasury Commissioners[^c-78872c0597094240334937318873c4eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78872c0597094240334937318873c4eb]: Textual amendment: S. 71 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/g)
+[^c-78872c0597094240334937318873c4eb]: Textual amendment: S. 71 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/g)

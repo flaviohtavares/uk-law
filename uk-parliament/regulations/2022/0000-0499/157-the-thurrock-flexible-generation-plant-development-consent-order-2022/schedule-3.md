@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — TRAFFIC REGULATION SUSPENSION OF EXISTING TRAFFIC REGULATION ORDERS[^key-63eba130e2bbd13a9dacaaa0f787bac1]
+## SCHEDULE 3 — TRAFFIC REGULATION SUSPENSION OF EXISTING TRAFFIC REGULATION ORDERS[^c-63eba130e2bbd13a9dacaaa0f787bac1]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 15
 
 ## Annotations
 
-[^key-63eba130e2bbd13a9dacaaa0f787bac1]: Commencement: Sch. 3 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-63eba130e2bbd13a9dacaaa0f787bac1]: Commencement: Sch. 3 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

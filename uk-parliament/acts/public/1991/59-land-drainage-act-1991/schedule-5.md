@@ -26,10 +26,10 @@ Section 66.
 
 **1.** (1) An internal drainage board shall, at least one month before they apply for the confirmation of any byelaw—
 
-- (a) cause a notice of their intention to make the application to be published [^key-9d933cfb178ed952dda862bb34f1f252]...
+- (a) cause a notice of their intention to make the application to be published [^c-9d933cfb178ed952dda862bb34f1f252]...
 - (b) cause copies of the notice to be served on any public authorities who appear to them to be concerned.
 
-(1A)[^key-28ffa4bdb882e531f24c0a7e5a23f85a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-28ffa4bdb882e531f24c0a7e5a23f85a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For at least one month before an application is made for the confirmation of any byelaw, a copy of it shall be deposited at the offices of the relevant drainage board.
 
@@ -84,6 +84,6 @@ shall be prima facie evidence of the facts stated in the certificate and without
 
 ## Annotations
 
-[^key-9d933cfb178ed952dda862bb34f1f252]: Textual amendment: Words in Sch. 5 para. 1(1)(a) repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/8/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
+[^c-9d933cfb178ed952dda862bb34f1f252]: Textual amendment: Words in Sch. 5 para. 1(1)(a) repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/8/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
 
-[^key-28ffa4bdb882e531f24c0a7e5a23f85a]: Textual amendment: Sch. 5 para. 1(1A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)
+[^c-28ffa4bdb882e531f24c0a7e5a23f85a]: Textual amendment: Sch. 5 para. 1(1A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Revocations[^key-e024b63c2e7a43e59f4ea69d6866d92d]
+## 4. Revocations[^c-e024b63c2e7a43e59f4ea69d6866d92d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Orders described in Schedule 2 are hereby revoked.
 
 ## Annotations
 
-[^key-e024b63c2e7a43e59f4ea69d6866d92d]: Commencement: Art. 4 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
+[^c-e024b63c2e7a43e59f4ea69d6866d92d]: Commencement: Art. 4 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)

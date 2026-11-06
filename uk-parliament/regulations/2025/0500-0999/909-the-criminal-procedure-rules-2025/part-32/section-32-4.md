@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.4. Procedure on application by responsible officer or supervisor[^key-c3bf4753dcd87b57a8ec6bc6f48989df]
+## 32.4. Procedure on application by responsible officer or supervisor[^c-c3bf4753dcd87b57a8ec6bc6f48989df]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3bf4753dcd87b57a8ec6bc6f48989df]: Commencement: [Rule 32.4](https://www.legislation.gov.uk/uksi/2025/909/rule/32.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c3bf4753dcd87b57a8ec6bc6f48989df]: Commencement: [Rule 32.4](https://www.legislation.gov.uk/uksi/2025/909/rule/32.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

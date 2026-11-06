@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**53.**[^key-e86bf4e60d10abf946ffee82329800fa] After regulation 55 insert—
+**53.**[^c-e86bf4e60d10abf946ffee82329800fa] After regulation 55 insert—
 
 > **PART A8**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e86bf4e60d10abf946ffee82329800fa]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-e86bf4e60d10abf946ffee82329800fa]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A relevant authority may not make regulations under section 28 after 29 April 2022[^key-a70a3b31755a526f1ec19ef4ffc62138].
+(1) A relevant authority may not make regulations under section 28 after 29 April 2022[^c-a70a3b31755a526f1ec19ef4ffc62138].
 
 (2) Where regulations under section 28 are in force on the date specified in subsection (1), that subsection does not—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a70a3b31755a526f1ec19ef4ffc62138]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/32/1) substituted (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Change of Expiry Date in section 32(1)) Regulations (Northern Ireland) 2021 (S.R. 2021/104)](https://www.legislation.gov.uk/nisr/2021/104), [regs. 1](https://www.legislation.gov.uk/nisr/2021/104/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/104/regulation/2)
+[^c-a70a3b31755a526f1ec19ef4ffc62138]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/32/1) substituted (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Change of Expiry Date in section 32(1)) Regulations (Northern Ireland) 2021 (S.R. 2021/104)](https://www.legislation.gov.uk/nisr/2021/104), [regs. 1](https://www.legislation.gov.uk/nisr/2021/104/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/104/regulation/2)

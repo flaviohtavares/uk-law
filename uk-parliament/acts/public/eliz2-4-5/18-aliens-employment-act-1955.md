@@ -39,7 +39,7 @@ An Act to provide for the employment of aliens and British protected persons in 
 
 - (a) if he is appointed in any country or territory outside the United Kingdom, the Channel Islands and the Isle of Man and employed in any such country or territory in service of a class or description which appears to the responsible Minister to be appropriate for the employment of aliens; or
 - (b)[^c1614946] if a certificate in respect of his employment, issued by the responsible Minister with the consent of the Treasury, is for the time being in force under this section; or[^c1614947]
-- (c)[^key-37c97e8552455b5dacecf81e9b3dbbb7] if he is a relevant European and he is not employed in a reserved post;
+- (c)[^c-37c97e8552455b5dacecf81e9b3dbbb7] if he is a relevant European and he is not employed in a reserved post;
 
 and so much of the said section three as imposes disability for employment in any such capacity shall cease to have effect in relation to British protected persons.
 
@@ -52,7 +52,7 @@ and so much of the said section three as imposes disability for employment in an
 
 (4)[^c1614946] The Treasury shall lay before each House of Parliament in every financial year a list containing particulars of all certificates in force under this section during the previous financial year, including the numbers of aliens employed during that year in pursuance of such certificates.
 
-(5)[^key-0411c35deca05f75e0749a37ebb2871f][^key-94a13b5e284708d44764540aacaff5d1][^key-0a37bac49ec3ab519bcd534e40fa7b35] In subsection (1)(c) a “**relevant European**” means—
+(5)[^c-0411c35deca05f75e0749a37ebb2871f][^c-94a13b5e284708d44764540aacaff5d1][^c-0a37bac49ec3ab519bcd534e40fa7b35] In subsection (1)(c) a “**relevant European**” means—
 
 - (a) a person who has leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules;
 - (b) a person who—
@@ -90,7 +90,7 @@ and so much of the said section three as imposes disability for employment in an
 
 (7) The posts falling within this subsection are—
 
-- (a) a post in Her Majesty’s Diplomatic Service and posts in the Foreign, Commonwealth and Development Office[^key-19f4384988be5023a51fcd4130b6f8e4]; and
+- (a) a post in Her Majesty’s Diplomatic Service and posts in the Foreign, Commonwealth and Development Office[^c-19f4384988be5023a51fcd4130b6f8e4]; and
 - (b) posts in the Defence Intelligence Staff.
 
 (8) The posts falling within this subsection are posts whose functions are concerned with—
@@ -134,15 +134,15 @@ This Act may be cited as the Aliens’ Employment Act, 1955.
 
 [^c1614947]: Textual amendment: S. 1(1)(c) and preceding word inserted by [European Communities (Employment in the Civil Service) Order 1991 (S.I. 1991/1221)](https://www.legislation.gov.uk/uksi/1991/1221), [art. 2](https://www.legislation.gov.uk/uksi/1991/1221/article/2)
 
-[^key-37c97e8552455b5dacecf81e9b3dbbb7]: Textual amendment: S. 1(1)(c) substituted (7.3.2007) by [European Communities (Employment in the Civil Service) Order 2007 (S.I. 2007/617)](https://www.legislation.gov.uk/uksi/2007/617), [arts. 1](https://www.legislation.gov.uk/uksi/2007/617/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/617/article/2/2)
+[^c-37c97e8552455b5dacecf81e9b3dbbb7]: Textual amendment: S. 1(1)(c) substituted (7.3.2007) by [European Communities (Employment in the Civil Service) Order 2007 (S.I. 2007/617)](https://www.legislation.gov.uk/uksi/2007/617), [arts. 1](https://www.legislation.gov.uk/uksi/2007/617/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/617/article/2/2)
 
-[^key-0411c35deca05f75e0749a37ebb2871f]: Modification: S. 1(5) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(a)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/a)
+[^c-0411c35deca05f75e0749a37ebb2871f]: Modification: S. 1(5) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(a)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/a)
 
-[^key-94a13b5e284708d44764540aacaff5d1]: Textual amendment: S. 1(5)-(5B) substituted for s. 1(5) (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/4/2)
+[^c-94a13b5e284708d44764540aacaff5d1]: Textual amendment: S. 1(5)-(5B) substituted for s. 1(5) (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/4/2)
 
-[^key-0a37bac49ec3ab519bcd534e40fa7b35]: Textual amendment: S. 1(5)-(9) inserted (7.3.2007) by [European Communities (Employment in the Civil Service) Order 2007 (S.I. 2007/617)](https://www.legislation.gov.uk/uksi/2007/617), [arts. 1](https://www.legislation.gov.uk/uksi/2007/617/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/617/article/2/3)
+[^c-0a37bac49ec3ab519bcd534e40fa7b35]: Textual amendment: S. 1(5)-(9) inserted (7.3.2007) by [European Communities (Employment in the Civil Service) Order 2007 (S.I. 2007/617)](https://www.legislation.gov.uk/uksi/2007/617), [arts. 1](https://www.legislation.gov.uk/uksi/2007/617/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/617/article/2/3)
 
-[^key-19f4384988be5023a51fcd4130b6f8e4]: Textual amendment: Words in s. 1(7)(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/3)
+[^c-19f4384988be5023a51fcd4130b6f8e4]: Textual amendment: Words in s. 1(7)(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/3)
 
 [^c1614952]: Modification: Functions of Board of Trade now exercisable by Secretary of State concurrently with Board of Trade: [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537) except the civil aviation and shipping functions of the Board of Trade which, by virtue of [S.I. 1983/1127](https://www.legislation.gov.uk/uksi/1983/1127), [art. 2](https://www.legislation.gov.uk/uksi/1983/1127/article/2) (4), have ceased to be exercisable by the Board of Trade
 

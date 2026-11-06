@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Enforcement of directions under s. 132[^key-2925bf1895239d5d5de63affde6af229][^key-4e28728d921b413849570ab11fb469c6]
+## 133. Enforcement of directions under s. 132[^c-2925bf1895239d5d5de63affde6af229][^c-4e28728d921b413849570ab11fb469c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,14 +43,14 @@ summary: ''
 
 (5) In proceedings brought against a person by virtue of subsection (4)(a) it shall be a defence for that person to show that he took all reasonable steps and exercised all due diligence to avoid contravening the condition in question.
 
-(6) Sections 96A[^key-ea8eda6694e4c5a1ad66c5c83c4e5969] to 99 apply in relation to a contravention of conditions imposed by a direction under section 132 as they apply in relation to a contravention of conditions set under section 45 , other than[^key-b57d6b5bbd32ad9e1c9fc8a4fdb28b3f] SMP apparatus conditions .
+(6) Sections 96A[^c-ea8eda6694e4c5a1ad66c5c83c4e5969] to 99 apply in relation to a contravention of conditions imposed by a direction under section 132 as they apply in relation to a contravention of conditions set under section 45 , other than[^c-b57d6b5bbd32ad9e1c9fc8a4fdb28b3f] SMP apparatus conditions .
 
 ## Annotations
 
-[^key-2925bf1895239d5d5de63affde6af229]: Commencement: S. 133 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-2925bf1895239d5d5de63affde6af229]: Commencement: S. 133 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-4e28728d921b413849570ab11fb469c6]: Commencement: S. 133 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4e28728d921b413849570ab11fb469c6]: Commencement: S. 133 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-ea8eda6694e4c5a1ad66c5c83c4e5969]: Textual amendment: Word in s. 133(6) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/78) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [17](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/17))
+[^c-ea8eda6694e4c5a1ad66c5c83c4e5969]: Textual amendment: Word in s. 133(6) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/78) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [17](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/17))
 
-[^key-b57d6b5bbd32ad9e1c9fc8a4fdb28b3f]: Textual amendment: Words in s. 133(6) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/78) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [17](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/17))
+[^c-b57d6b5bbd32ad9e1c9fc8a4fdb28b3f]: Textual amendment: Words in s. 133(6) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/78) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [17](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/17))

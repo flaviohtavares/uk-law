@@ -35,82 +35,82 @@ supplementing Regulation (EU) No 648/2012 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-b9c9ebdc85fd81d259d89fb7cc496102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9c9ebdc85fd81d259d89fb7cc496102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — GENERAL PROVISIONS[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+## CHAPTER I — GENERAL PROVISIONS[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
-### Article 1. Subject matter[^key-b9c9ebdc85fd81d259d89fb7cc496102]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Recovery of supervisory costs in full[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 1. Subject matter[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Applicable turnover[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 2. Recovery of supervisory costs in full[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Adjustment of fees[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 3. Applicable turnover[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — FEES[^key-b9c9ebdc85fd81d259d89fb7cc496102]
-
-### Article 5. Types of fees[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 4. Adjustment of fees[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Registration fee[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+## CHAPTER II — FEES[^c-b9c9ebdc85fd81d259d89fb7cc496102]
+
+### Article 5. Types of fees[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Annual supervisory fee for registered trade repositories[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 6. Registration fee[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Fee for recognition of third country trade repositories[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 7. Annual supervisory fee for registered trade repositories[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — PAYMENT AND REIMBURSEMENT CONDITIONS[^key-b9c9ebdc85fd81d259d89fb7cc496102]
-
-### Article 9. General payment modalities[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 8. Fee for recognition of third country trade repositories[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Payment of registration fees[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+## CHAPTER III — PAYMENT AND REIMBURSEMENT CONDITIONS[^c-b9c9ebdc85fd81d259d89fb7cc496102]
+
+### Article 9. General payment modalities[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Payment of annual supervisory fees[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 10. Payment of registration fees[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Payment of recognition fees[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 11. Payment of annual supervisory fees[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Reimbursement of competent authorities[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 12. Payment of recognition fees[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — TRANSITIONAL AND FINAL PROVISIONS[^key-b9c9ebdc85fd81d259d89fb7cc496102]
-
-### Article 14. Fees in 2013[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 13. Reimbursement of competent authorities[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Annual supervisory fee for 2014 for trade repositories registered in 2013[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+## CHAPTER IV — TRANSITIONAL AND FINAL PROVISIONS[^c-b9c9ebdc85fd81d259d89fb7cc496102]
+
+### Article 14. Fees in 2013[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Entry into force[^key-b9c9ebdc85fd81d259d89fb7cc496102]
+### Article 15. Annual supervisory fee for 2014 for trade repositories registered in 2013[^c-b9c9ebdc85fd81d259d89fb7cc496102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9c9ebdc85fd81d259d89fb7cc496102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 16. Entry into force[^c-b9c9ebdc85fd81d259d89fb7cc496102]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b9c9ebdc85fd81d259d89fb7cc496102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9c9ebdc85fd81d259d89fb7cc496102]: Textual amendment: Regulation revoked (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2019/335/regulation/62) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9c9ebdc85fd81d259d89fb7cc496102]: Textual amendment: Regulation revoked (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2019/335/regulation/62) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Admission and rejection of proofs for dividend[^key-1b81618c2f70f80600dbfade53182c03]
+## 123. Admission and rejection of proofs for dividend[^c-1b81618c2f70f80600dbfade53182c03]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b81618c2f70f80600dbfade53182c03]: Commencement: [Rule 123](https://www.legislation.gov.uk/nisr/2026/11/rule/123) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-1b81618c2f70f80600dbfade53182c03]: Commencement: [Rule 123](https://www.legislation.gov.uk/nisr/2026/11/rule/123) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

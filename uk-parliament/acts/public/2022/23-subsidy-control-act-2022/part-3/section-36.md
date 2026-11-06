@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Minimal financial assistance[^key-8aa0153836170d62cd4db27479a15202][^key-f8e1d384054959080a6c4cf1a072d13e]
+## 36. Minimal financial assistance[^c-8aa0153836170d62cd4db27479a15202][^c-f8e1d384054959080a6c4cf1a072d13e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa0153836170d62cd4db27479a15202]: Commencement: S. 36 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-8aa0153836170d62cd4db27479a15202]: Commencement: S. 36 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-f8e1d384054959080a6c4cf1a072d13e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/23/section/36) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-f8e1d384054959080a6c4cf1a072d13e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/23/section/36) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

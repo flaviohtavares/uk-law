@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32LC. Onshore wind generating stations: closure of renewables obligation[^key-757c67276c2582a0a4016ba0c712c80c]
+## 32LC. Onshore wind generating stations: closure of renewables obligation[^c-757c67276c2582a0a4016ba0c712c80c]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-757c67276c2582a0a4016ba0c712c80c]: Textual amendment: [S. 32LC](https://www.legislation.gov.uk/ukpga/1989/29/section/32LC) inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/79/1), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
+[^c-757c67276c2582a0a4016ba0c712c80c]: Textual amendment: [S. 32LC](https://www.legislation.gov.uk/ukpga/1989/29/section/32LC) inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/79/1), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)

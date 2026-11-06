@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**53.**[^key-75dccc19712987721be34b43d5dd4f77] In section 8—
+**53.**[^c-75dccc19712987721be34b43d5dd4f77] In section 8—
 
 - (a) in subsection (3)—
   - (i) for “a registered order” substitute “an order registered in a court in Northern Ireland”; and
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75dccc19712987721be34b43d5dd4f77]: Commencement: Art. 53 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-75dccc19712987721be34b43d5dd4f77]: Commencement: Art. 53 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

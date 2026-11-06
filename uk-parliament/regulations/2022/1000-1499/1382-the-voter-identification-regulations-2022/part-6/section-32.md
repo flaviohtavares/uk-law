@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Inspection etc. of the completed ballot paper refusal list or signing sheet refusal list[^key-87afefa96413a27b95a220c35b795370]
+## 32. Inspection etc. of the completed ballot paper refusal list or signing sheet refusal list[^c-87afefa96413a27b95a220c35b795370]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87afefa96413a27b95a220c35b795370]: Commencement: Reg. 32 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-87afefa96413a27b95a220c35b795370]: Commencement: Reg. 32 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

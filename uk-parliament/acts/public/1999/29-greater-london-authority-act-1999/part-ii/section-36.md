@@ -44,8 +44,8 @@ by whom functions of the Authority are exercisable pursuant to arrangements unde
 
 (8) The Assembly, after consultation with the Mayor, may at any time vary or revoke any standing orders of the Authority.
 
-(9)[^key-a2ff40e2323e1532707b825ece57bd26] Neither section 38 below nor section 54 below shall apply in relation to the functions of the Mayor or the Assembly under this section.
+(9)[^c-a2ff40e2323e1532707b825ece57bd26] Neither section 38 below nor section 54 below shall apply in relation to the functions of the Mayor or the Assembly under this section.
 
 ## Annotations
 
-[^key-a2ff40e2323e1532707b825ece57bd26]: Modification: S. 36(9) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-a2ff40e2323e1532707b825ece57bd26]: Modification: S. 36(9) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))

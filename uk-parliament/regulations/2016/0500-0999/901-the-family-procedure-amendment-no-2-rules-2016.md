@@ -50,15 +50,15 @@ Coming into force
 
 The Family Procedure Rule Committee makes the following rules in exercise of the powers conferred by section 17(2) of the Senior Courts Act 1981[^f00001] and sections 75 and 76 of the Courts Act 2003[^f00002].
 
-## 1. Citation and commencement[^key-c2a8c78152a7c014c8689b274e8a7c80]
+## 1. Citation and commencement[^c-c2a8c78152a7c014c8689b274e8a7c80]
 
 These Rules may be cited as the Family Procedure (Amendment No. 2) Rules 2016 and come into force on 3rd October 2016.
 
-## 2. Amendments to the Family Procedure Rules[^key-53c381672c88db69ce13b9594071edb2]
+## 2. Amendments to the Family Procedure Rules[^c-53c381672c88db69ce13b9594071edb2]
 
 The Family Procedure Rules 2010[^f00003] are amended in accordance with rules 3 to 8.
 
-## 3. Amendment of rule 8.20[^key-24a378497f6be3e7889eac010b0ac3d6]
+## 3. Amendment of rule 8.20[^c-24a378497f6be3e7889eac010b0ac3d6]
 
 In rule 8.20 (who the parties are)—
 
@@ -71,7 +71,7 @@ In rule 8.20 (who the parties are)—
 
   .
 
-## 4. Insertion of new rule 9.9A[^key-d6004169cfefeba5885bf59337c5200b]
+## 4. Insertion of new rule 9.9A[^c-d6004169cfefeba5885bf59337c5200b]
 
 After rule 9.9 (application for periodical payments order at same rate as an order for maintenance pending outcome of proceedings) insert—
 
@@ -96,7 +96,7 @@ After rule 9.9 (application for periodical payments order at same rate as an ord
 
 .
 
-## 5. Amendment of rule 16.4[^key-8aae3cc03d204c2a1d3fa65dcc913dd9]
+## 5. Amendment of rule 16.4[^c-8aae3cc03d204c2a1d3fa65dcc913dd9]
 
 In rule 16.4 (appointment of a children’s guardian in proceedings not being specified proceedings or proceedings to which Part 14 applies)—
 
@@ -111,7 +111,7 @@ In rule 16.4 (appointment of a children’s guardian in proceedings not being sp
   ; and
 - (c) in paragraph (2), after “paragraph (1)” insert “or paragraph (1A)”.
 
-## 6. Amendment of rule 16.5[^key-4bfa7a8e842157436c1ebe72acbd6a0d]
+## 6. Amendment of rule 16.5[^c-4bfa7a8e842157436c1ebe72acbd6a0d]
 
 In rule 16.5 (requirement for a litigation friend)—
 
@@ -128,7 +128,7 @@ In rule 16.5 (requirement for a litigation friend)—
   ; and
 - (c) in paragraph (2), after “paragraph (1)” insert “or paragraph (1A)”.
 
-## 7. Amendment of rule 16.6[^key-6c91546b890edca0bf121192e1abd5ef]
+## 7. Amendment of rule 16.6[^c-6c91546b890edca0bf121192e1abd5ef]
 
 In rule 16.6, in paragraph (1) (circumstances in which a child does not need a children’s guardian or litigation friend—
 
@@ -140,7 +140,7 @@ In rule 16.6, in paragraph (1) (circumstances in which a child does not need a c
 
   .
 
-## 8. Amendment of rule 28.3[^key-86d2a33d228033e7d45d8b78e7a5eee5]
+## 8. Amendment of rule 28.3[^c-86d2a33d228033e7d45d8b78e7a5eee5]
 
 In rule 28.3 (costs in financial remedy proceedings), after paragraph (8) insert—
 
@@ -148,7 +148,7 @@ In rule 28.3 (costs in financial remedy proceedings), after paragraph (8) insert
 
 .
 
-## 9. Transitional provision[^key-bafb2399be5590e570ba294e2f648bb1]
+## 9. Transitional provision[^c-bafb2399be5590e570ba294e2f648bb1]
 
 The amendments made by rules 3, 5, 6 and 7 apply only to proceedings commenced on or after 3rd October 2016.
 
@@ -202,26 +202,26 @@ No impact assessment has been produced for this instrument because no, or no sig
 
 [^f00002]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39). Section 75 was amended by paragraph 338 of Schedule 4 and Part 2 of Schedule 18 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and by paragraph 91 of Schedule 10 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 76 was amended by section 62(7) of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31), paragraph 172 of Schedule 2 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 29 of Schedule 1 to the Constitutional Reform Act 2005 and paragraph 92 of Schedule 10 to the Crime and Courts Act 2013.
 
-[^key-c2a8c78152a7c014c8689b274e8a7c80]: Commencement: Rule 1 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-c2a8c78152a7c014c8689b274e8a7c80]: Commencement: Rule 1 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
-[^key-53c381672c88db69ce13b9594071edb2]: Commencement: Rule 2 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-53c381672c88db69ce13b9594071edb2]: Commencement: Rule 2 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
 [^f00003]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955). Relevant amending instruments are [S.I. 2012/679](https://www.legislation.gov.uk/uksi/2012/679) and [2013/530](https://www.legislation.gov.uk/uksi/2013/530) and 1472.
 
-[^key-24a378497f6be3e7889eac010b0ac3d6]: Commencement: Rule 3 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-24a378497f6be3e7889eac010b0ac3d6]: Commencement: Rule 3 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
-[^key-d6004169cfefeba5885bf59337c5200b]: Commencement: Rule 4 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-d6004169cfefeba5885bf59337c5200b]: Commencement: Rule 4 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
 [^f00004]: Footnote: [1984 c. 42](https://www.legislation.gov.uk/ukpga/1984/42). Section 31F was inserted by paragraph 1 of Schedule 10 to the Crime and Courts Act 2013.
 
-[^key-8aae3cc03d204c2a1d3fa65dcc913dd9]: Commencement: Rule 5 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-8aae3cc03d204c2a1d3fa65dcc913dd9]: Commencement: Rule 5 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
 [^f00005]: Footnote: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55). Section 55A was inserted by section 83 of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) and was amended by paragraph 97 of Schedule 11 to the Crime and Courts Act 2013.
 
-[^key-4bfa7a8e842157436c1ebe72acbd6a0d]: Commencement: Rule 6 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-4bfa7a8e842157436c1ebe72acbd6a0d]: Commencement: Rule 6 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
-[^key-6c91546b890edca0bf121192e1abd5ef]: Commencement: Rule 7 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-6c91546b890edca0bf121192e1abd5ef]: Commencement: Rule 7 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
-[^key-86d2a33d228033e7d45d8b78e7a5eee5]: Commencement: Rule 8 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-86d2a33d228033e7d45d8b78e7a5eee5]: Commencement: Rule 8 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
 
-[^key-bafb2399be5590e570ba294e2f648bb1]: Commencement: Rule 9 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)
+[^c-bafb2399be5590e570ba294e2f648bb1]: Commencement: Rule 9 in force at 3.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1)

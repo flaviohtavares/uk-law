@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Manner in which service of petition is to be effected[^key-bc90628f0be1ad00a20104e3aff2a4b0]
+## 10. Manner in which service of petition is to be effected[^c-bc90628f0be1ad00a20104e3aff2a4b0]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ the proper address is the address of an office of that person where, to the know
 
 ## Annotations
 
-[^key-bc90628f0be1ad00a20104e3aff2a4b0]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2007/3141/rule/10) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-bc90628f0be1ad00a20104e3aff2a4b0]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2007/3141/rule/10) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00012]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 

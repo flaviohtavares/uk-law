@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Application of other insolvency law[^key-1412fb71cd145a1fc7663fb84d900659]
+## 7. Application of other insolvency law[^c-1412fb71cd145a1fc7663fb84d900659]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1412fb71cd145a1fc7663fb84d900659]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/19/section/7) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-1412fb71cd145a1fc7663fb84d900659]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/19/section/7) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

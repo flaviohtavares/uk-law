@@ -45,14 +45,14 @@ summary: ''
 
 (7) In this section—
 
-- [^key-5a7aa24189782a3fe49f4b001b1e08e4]...
+- [^c-5a7aa24189782a3fe49f4b001b1e08e4]...
 - “**occupier**” (“***meddiannydd***”) , in relation to a mobile home and a site, means a person who is entitled—
   - (a) to station the mobile home on the site, and
   - (b) to occupy the mobile home as the person's only or main residence; and
-- [^key-5a7aa24189782a3fe49f4b001b1e08e4]...
+- [^c-5a7aa24189782a3fe49f4b001b1e08e4]...
 
 (8) The disclosure by a local authority to the public of a list of members of a qualifying residents' association which has been lodged with the local authority is to be treated for the purposes of section 41(1) of the Freedom of Information Act 2000 as a breach of confidence actionable by the members of the association; but nothing in this subsection applies to the disclosure of details of the chairman, secretary or treasurer.
 
 ## Annotations
 
-[^key-5a7aa24189782a3fe49f4b001b1e08e4]: Textual amendment: Words in s. 61(7) omitted (1.12.2014) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(67)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/67); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-5a7aa24189782a3fe49f4b001b1e08e4]: Textual amendment: Words in s. 61(7) omitted (1.12.2014) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(67)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/67); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

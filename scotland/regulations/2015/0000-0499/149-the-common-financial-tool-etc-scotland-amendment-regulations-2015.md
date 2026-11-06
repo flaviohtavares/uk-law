@@ -36,7 +36,7 @@ Bankruptcy
 
 Debt
 
-The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (revoked)[^key-c9bde71c13f0d865626275e6ef8c8849]
+The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (revoked)[^c-c9bde71c13f0d865626275e6ef8c8849]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 1st April 2015
 
-[^key-c9bde71c13f0d865626275e6ef8c8849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9bde71c13f0d865626275e6ef8c8849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c9bde71c13f0d865626275e6ef8c8849]
+## 1. Citation and commencement[^c-c9bde71c13f0d865626275e6ef8c8849]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Common Financial Tool etc. (Scotland) Regulations 2014[^key-c9bde71c13f0d865626275e6ef8c8849]
+## 2. Amendment of the Common Financial Tool etc. (Scotland) Regulations 2014[^c-c9bde71c13f0d865626275e6ef8c8849]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Contingency allowance etc.[^key-c9bde71c13f0d865626275e6ef8c8849]
+## 3. Contingency allowance etc.[^c-c9bde71c13f0d865626275e6ef8c8849]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Minor amendments[^key-c9bde71c13f0d865626275e6ef8c8849]
+## 4. Minor amendments[^c-c9bde71c13f0d865626275e6ef8c8849]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9bde71c13f0d865626275e6ef8c8849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9bde71c13f0d865626275e6ef8c8849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Trustee’s statement of status of a protected trust deed – Form 4[^key-c9bde71c13f0d865626275e6ef8c8849]
+## SCHEDULE — Trustee’s statement of status of a protected trust deed – Form 4[^c-c9bde71c13f0d865626275e6ef8c8849]
 
 Regulation 4(8)(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-c9bde71c13f0d865626275e6ef8c8849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9bde71c13f0d865626275e6ef8c8849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c9bde71c13f0d865626275e6ef8c8849]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/149) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+[^c-c9bde71c13f0d865626275e6ef8c8849]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/149) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)

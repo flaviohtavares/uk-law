@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Offence of immobilising etc. vehicles[^key-9b4dbf059218132b5f5b9a27eb723d1f]
+## 54. Offence of immobilising etc. vehicles[^c-9b4dbf059218132b5f5b9a27eb723d1f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ intending to prevent or inhibit the removal of the vehicle by a person otherwise
 
 ## Annotations
 
-[^key-9b4dbf059218132b5f5b9a27eb723d1f]: Commencement: S. 54 in force at 1.10.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/a)
+[^c-9b4dbf059218132b5f5b9a27eb723d1f]: Commencement: S. 54 in force at 1.10.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/a)

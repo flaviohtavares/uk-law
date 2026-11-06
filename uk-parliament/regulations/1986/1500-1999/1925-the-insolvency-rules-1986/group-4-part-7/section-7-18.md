@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.18. Cost of shorthand note[^key-4fdd76617ac875e6bfe07b8cb161c938]
+## 7.18. Cost of shorthand note[^c-4fdd76617ac875e6bfe07b8cb161c938]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in insolvency proceedings the court appoints a shorthand writer on the app
 
 ## Annotations
 
-[^key-4fdd76617ac875e6bfe07b8cb161c938]: Commencement: [Rule 7.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4fdd76617ac875e6bfe07b8cb161c938]: Commencement: [Rule 7.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

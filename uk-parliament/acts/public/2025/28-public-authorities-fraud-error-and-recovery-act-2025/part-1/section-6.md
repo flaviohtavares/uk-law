@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Amendment of the Investigatory Powers Act 2016[^key-b64fbe91173064ba5a199528b37e5ae9][^key-a079d789774534d6f4b26fef9578a72c]
+## 6. Amendment of the Investigatory Powers Act 2016[^c-b64fbe91173064ba5a199528b37e5ae9][^c-a079d789774534d6f4b26fef9578a72c]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In the Investigatory Powers Act 2016, in Schedule 4 (relevant public authorities
 
 ## Annotations
 
-[^key-b64fbe91173064ba5a199528b37e5ae9]: Commencement: S. 6 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-b64fbe91173064ba5a199528b37e5ae9]: Commencement: S. 6 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-a079d789774534d6f4b26fef9578a72c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/28/section/6) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-a079d789774534d6f4b26fef9578a72c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/28/section/6) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

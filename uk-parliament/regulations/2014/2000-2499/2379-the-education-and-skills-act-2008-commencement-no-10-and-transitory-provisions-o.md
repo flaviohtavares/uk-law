@@ -37,7 +37,7 @@ Made
 
 The Secretary of State for Education makes the following Order in exercise of the powers conferred by section 173(4) and (8) of the Education and Skills Act 2008[^f00001].
 
-## 1. Citation and interpretation[^key-f63b6f79ca6507579d7204c45e4d4f4c]
+## 1. Citation and interpretation[^c-f63b6f79ca6507579d7204c45e4d4f4c]
 
 (1) This Order may be cited as the Education and Skills Act 2008 (Commencement No. 10 and Transitory Provisions) Order 2014.
 
@@ -47,7 +47,7 @@ The Secretary of State for Education makes the following Order in exercise of th
 - “the 2008 Act” means the Education and Skills Act 2008; and
 - “registration authority” has the meaning given to it in section 171 of the 2002 Act.
 
-## 2. Provisions coming into force on 8th September 2014[^key-7699e5e50faa8b9d2844b3cd8dd48293]
+## 2. Provisions coming into force on 8th September 2014[^c-7699e5e50faa8b9d2844b3cd8dd48293]
 
 The following provisions of the 2008 Act come into force on 8th September 2014—
 
@@ -60,7 +60,7 @@ The following provisions of the 2008 Act come into force on 8th September 2014�
 - (g) section 138(1) (interpretation of Chapter 1 of Part 4) so far as not already in force and so far as necessary for the interpretation of provisions brought into force by this article or made under such provisions; and
 - (h) paragraph 12 of Schedule 1 (minor and consequential amendments) and section 169(1) so far as it relates to that amendment.
 
-## 3. Transitory provisions in connection with the commencement of sections 106 and 128 of the 2008 Act[^key-88002afe2018e1b7e9895e594ef4aa59]
+## 3. Transitory provisions in connection with the commencement of sections 106 and 128 of the 2008 Act[^c-88002afe2018e1b7e9895e594ef4aa59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -188,10 +188,10 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
 
-[^key-f63b6f79ca6507579d7204c45e4d4f4c]: Commencement: Art. 1 in force at made date
+[^c-f63b6f79ca6507579d7204c45e4d4f4c]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-7699e5e50faa8b9d2844b3cd8dd48293]: Commencement: Art. 2 in force at made date
+[^c-7699e5e50faa8b9d2844b3cd8dd48293]: Commencement: Art. 2 in force at made date
 
-[^key-88002afe2018e1b7e9895e594ef4aa59]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2379/article/3) revoked (22.12.2014) by [The Education and Skills Act 2008 (Commencement No. 11 and Saving and Transitory Provisions) Order 2014 (S.I. 2014/3364)](https://www.legislation.gov.uk/uksi/2014/3364), [Sch.](https://www.legislation.gov.uk/uksi/2014/3364/schedule)
+[^c-88002afe2018e1b7e9895e594ef4aa59]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2379/article/3) revoked (22.12.2014) by [The Education and Skills Act 2008 (Commencement No. 11 and Saving and Transitory Provisions) Order 2014 (S.I. 2014/3364)](https://www.legislation.gov.uk/uksi/2014/3364), [Sch.](https://www.legislation.gov.uk/uksi/2014/3364/schedule)

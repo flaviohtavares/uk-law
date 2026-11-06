@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Determination of whether recall petition successful[^key-924274bc05a1d70ff1d06ae03f9d9335]
+## 14. Determination of whether recall petition successful[^c-924274bc05a1d70ff1d06ae03f9d9335]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ does not have effect for the purposes of subsection (3) if it results from a lat
 
 ## Annotations
 
-[^key-924274bc05a1d70ff1d06ae03f9d9335]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2015/25/section/14) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-924274bc05a1d70ff1d06ae03f9d9335]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2015/25/section/14) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

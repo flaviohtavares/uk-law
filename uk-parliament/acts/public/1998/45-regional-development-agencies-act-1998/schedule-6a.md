@@ -16,72 +16,72 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6A — Promotion of Bills in Parliament by the London Development Agency[^key-3556b54a0d61b67a8cef7fe09b782681]
+## Schedule 6A — Promotion of Bills in Parliament by the London Development Agency[^c-3556b54a0d61b67a8cef7fe09b782681]
 
 *Extent: E+W+S+N.I.*
 
 **Not yet in force.**
 
-### Preliminary requirements[^key-3556b54a0d61b67a8cef7fe09b782681]
+### Preliminary requirements[^c-3556b54a0d61b67a8cef7fe09b782681]
 
-**1.**[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consultation on draft Bill[^key-3556b54a0d61b67a8cef7fe09b782681]
+### Consultation on draft Bill[^c-3556b54a0d61b67a8cef7fe09b782681]
 
-**2.**[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Publicity for, and exposure of, the draft Bill[^key-3556b54a0d61b67a8cef7fe09b782681]
+### Publicity for, and exposure of, the draft Bill[^c-3556b54a0d61b67a8cef7fe09b782681]
 
-**3.**[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Deposition of the Bill in Parliament[^key-3556b54a0d61b67a8cef7fe09b782681]
+### Deposition of the Bill in Parliament[^c-3556b54a0d61b67a8cef7fe09b782681]
 
-**4.**[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Bills affecting statutory functions of London local authorities[^key-3556b54a0d61b67a8cef7fe09b782681]
+### Bills affecting statutory functions of London local authorities[^c-3556b54a0d61b67a8cef7fe09b782681]
 
-**5.**[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Publicity for the deposited Bill[^key-3556b54a0d61b67a8cef7fe09b782681]
+### Publicity for the deposited Bill[^c-3556b54a0d61b67a8cef7fe09b782681]
 
-**6.**[^key-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3556b54a0d61b67a8cef7fe09b782681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3556b54a0d61b67a8cef7fe09b782681]: Textual amendment: Sch. 6A repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-3556b54a0d61b67a8cef7fe09b782681]: Textual amendment: Sch. 6A repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)

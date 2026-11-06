@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 
-## 10C. Assessable income : universal credit paid to or in respect of the parent concerned[^key-6e6019980c5c0a57bbc95da87da02585]
+## 10C. Assessable income : universal credit paid to or in respect of the parent concerned[^c-6e6019980c5c0a57bbc95da87da02585]
 
 (1) The circumstances prescribed for the purpose of the reference to universal credit in sub-paragraph (4) of paragraph 5 of Schedule 1 to the Child Support Act 1991 (as that paragraph has effect apart from section 1 of the Child Support, Pensions and Social Security Act 2000) are where the universal credit that is paid to or in respect of the parent concerned is calculated on the basis that the parent has no earned income.
 
@@ -22,4 +22,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e6019980c5c0a57bbc95da87da02585]: Textual amendment: Reg. 10C inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [41(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/41/3)
+[^c-6e6019980c5c0a57bbc95da87da02585]: Textual amendment: Reg. 10C inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [41(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/41/3)

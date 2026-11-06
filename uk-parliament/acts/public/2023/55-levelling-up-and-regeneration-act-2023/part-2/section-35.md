@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Section 34 regulations: procedure[^key-efcfaa179987239067c027974daae75c]
+## 35. Section 34 regulations: procedure[^c-efcfaa179987239067c027974daae75c]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efcfaa179987239067c027974daae75c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/55/section/35) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-efcfaa179987239067c027974daae75c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/55/section/35) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

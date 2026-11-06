@@ -54,15 +54,15 @@ In accordance with section 52A(6), and in so far as these Regulations relate to 
 
 In accordance with section 63(3)[^f00004] of that Act, and in so far as these Regulations relate to matters other than those mentioned in sections 50(2ZC) and 52A(1), the Secretary of State has supplied the Police Advisory Board for England and Wales with a draft of these Regulations , and has taken into consideration any representations made by that Board.
 
-## 1. Citation and commencement[^key-a7aa64516390554bb3ae82e18fe0660f]
+## 1. Citation and commencement[^c-a7aa64516390554bb3ae82e18fe0660f]
 
 These Regulations may be cited as the Police (Amendment) Regulations 2015 and come into force on 1st April 2015.
 
-## 2. Amendments to the Police Regulations 2003[^key-5c61040c507387b0e0c1df608fb886cc]
+## 2. Amendments to the Police Regulations 2003[^c-5c61040c507387b0e0c1df608fb886cc]
 
 The Police Regulations 2003[^f00005] are amended as follows.
 
-**3.**[^key-6ffc28e22a45e52faa7e856d37fcd9fb] In Regulation 19[^f00006]—
+**3.**[^c-6ffc28e22a45e52faa7e856d37fcd9fb] In Regulation 19[^f00006]—
 
 - (a) for paragraph (1), substitute—
 
@@ -83,7 +83,7 @@ The Police Regulations 2003[^f00005] are amended as follows.
   ;
 - (d) omit paragraph (5).
 
-**4.**[^key-2ba944baad0318165fdbff0f0fc5c3d5] In regulation 22[^f00009]—
+**4.**[^c-2ba944baad0318165fdbff0f0fc5c3d5] In regulation 22[^f00009]—
 
 - (a) in paragraph (1), insert after paragraph (g)—
 
@@ -100,7 +100,7 @@ The Police Regulations 2003[^f00005] are amended as follows.
 
   .
 
-**5.**[^key-fa5ea9886c165221364be3d593e0b1e6] After regulation 28, insert—
+**5.**[^c-fa5ea9886c165221364be3d593e0b1e6] After regulation 28, insert—
 
 > **28A.** Entitlement to pay when on adjusted duties
 >
@@ -108,7 +108,7 @@ The Police Regulations 2003[^f00005] are amended as follows.
 
 .
 
-**6.**[^key-2859552d1fb5d9edac680f52715490fc] In regulation 46, for paragraph 1 substitute—
+**6.**[^c-2859552d1fb5d9edac680f52715490fc] In regulation 46, for paragraph 1 substitute—
 
 > (1) Before making a determination under any provision of these Regulations relating to matters mentioned in section 50(2ZC) of the Act, the Secretary of State must obtain the approval of the College of Policing.
 >
@@ -168,13 +168,13 @@ Regulation 6 amends regulation 46 of the 2003 Regulations in order to update it 
 
 [^f00004]: Footnote: Section 63(3) was amended by section 59 of, and paragraphs 68 and 78(1) and (3) of Schedule 4 to, the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15); section 1(3) of, and Schedule 1, Part 7, paragraphs 61, and 68(1) and (3) to, the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48); section 126(1) of, and paragraphs 1 and 6(1) and (2) of Schedule 22 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4); section 10(3)(a) and (b) of the Policing and Crime Act 2009; section 15(3) of, and Schedule 8, Part 2, paragraphs 38 and 43 to, the Crime and Courts Act [2013 (c. 26)](https://www.legislation.gov.uk/ukpga/2013/26); and sections 123(4) and 133(2) of the Anti-Social Behaviour, Crime and Policing Act 2014. Other amendments have been made to this section that are not relevant.
 
-[^key-a7aa64516390554bb3ae82e18fe0660f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
+[^c-a7aa64516390554bb3ae82e18fe0660f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
 
-[^key-5c61040c507387b0e0c1df608fb886cc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/455/regulation/2) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
+[^c-5c61040c507387b0e0c1df608fb886cc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/455/regulation/2) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527).
 
-[^key-6ffc28e22a45e52faa7e856d37fcd9fb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/455/regulation/3) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
+[^c-6ffc28e22a45e52faa7e856d37fcd9fb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/455/regulation/3) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
 
 [^f00006]: Footnote: Regulation 19 was amended by [S.I. 2012/680](https://www.legislation.gov.uk/uksi/2012/680) and [S.I. 2012/1960](https://www.legislation.gov.uk/uksi/2012/1960).
 
@@ -182,10 +182,10 @@ Regulation 6 amends regulation 46 of the 2003 Regulations in order to update it 
 
 [^f00008]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-2ba944baad0318165fdbff0f0fc5c3d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/455/regulation/4) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
+[^c-2ba944baad0318165fdbff0f0fc5c3d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/455/regulation/4) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
 
 [^f00009]: Footnote: Regulation 22 was amended by [S.I. 2006/3449](https://www.legislation.gov.uk/uksi/2006/3449) and other amendments have been made that are not relevant to these Regulations.
 
-[^key-fa5ea9886c165221364be3d593e0b1e6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/455/regulation/5) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
+[^c-fa5ea9886c165221364be3d593e0b1e6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/455/regulation/5) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
 
-[^key-2859552d1fb5d9edac680f52715490fc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/455/regulation/6) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)
+[^c-2859552d1fb5d9edac680f52715490fc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/455/regulation/6) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1)

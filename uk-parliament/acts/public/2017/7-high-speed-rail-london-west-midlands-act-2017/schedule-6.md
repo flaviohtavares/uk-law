@@ -32,7 +32,7 @@ Section 4(5)
 
 (2) Omit section 4 (time for exercise of compulsory purchase powers).
 
-(3)[^key-4fcbe08cc8f095f131d1f16068a4d1fb] In section 11(1B) (power to enter on and take possession of land the subject of a notice to treat after giving the specified notice)—
+(3)[^c-4fcbe08cc8f095f131d1f16068a4d1fb] In section 11(1B) (power to enter on and take possession of land the subject of a notice to treat after giving the specified notice)—
 
 - (a) in a case where the notice to treat relates only to one or more of the following—
   - (i) the acquisition of subsoil or under-surface of land, where the subsoil or under-surface lies more than 9 metres below the surface;
@@ -42,7 +42,7 @@ Section 4(5)
   for ““3 months”” substitute “ 1 month ”, and
 - (b) after ““11A(4)”” insert “ or (6) and (7) ”.
 
-(3A)[^key-644ece8e341438553b26613ec0c3ce30] In section 11A (powers of entry: further notices of entry)—
+(3A)[^c-644ece8e341438553b26613ec0c3ce30] In section 11A (powers of entry: further notices of entry)—
 
 - (a) in subsection (1)(a), after ““land”” insert “ under that provision ”,
 - (b) in subsection (2), after ““land”” insert “ under that provision, to the extent that the newly identified person is the owner, lessee or occupier of the land, ”,
@@ -65,7 +65,7 @@ Section 4(5)
 
 (4) In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase), for ““section 4 of this Act”” substitute “ section 10(1) of the High Speed Rail (London - West Midlands) Act 2017 ”.
 
-(4A)[^key-2523b4821e612a48fc09bfa740c50ae7] In Schedule 2A (proposal to acquire part only of a house, building or factory)—
+(4A)[^c-2523b4821e612a48fc09bfa740c50ae7] In Schedule 2A (proposal to acquire part only of a house, building or factory)—
 
 - (a) omit paragraphs 1(2) and 14(2), and
 - (b) at the end insert—
@@ -74,11 +74,11 @@ Section 4(5)
   >
   > **30.** In this Schedule, references to entering on and taking possession of land do not include doing so under Schedule 16 to the High Speed Rail (London - West Midlands) Act 2017 (temporary possession and use of land).
 
-(5)[^key-3eff6e9b73485a2d765d03343eb637ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3eff6e9b73485a2d765d03343eb637ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
 
-**3.**[^key-234b97626b1fdfb55c49e74fe961344a] In its application by virtue of section 4(4), the Compulsory Purchase (Vesting Declarations) Act 1981 has effect as if—
+**3.**[^c-234b97626b1fdfb55c49e74fe961344a] In its application by virtue of section 4(4), the Compulsory Purchase (Vesting Declarations) Act 1981 has effect as if—
 
 - (a) before section 4 there were inserted section 3A (as set out in paragraph 7 of Schedule 14),
 - (b) sections 5 and 5A (which respectively set out the earliest date, and the time limit, for the execution of a general vesting declaration) were omitted,
@@ -100,12 +100,12 @@ Section 4(5)
 
 ## Annotations
 
-[^key-4fcbe08cc8f095f131d1f16068a4d1fb]: Textual amendment: [Sch. 6 para. 2(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/3) substituted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/2); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-4fcbe08cc8f095f131d1f16068a4d1fb]: Textual amendment: [Sch. 6 para. 2(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/3) substituted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/2); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-644ece8e341438553b26613ec0c3ce30]: Textual amendment: [Sch. 6 para. 2(3A)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/3A) inserted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/3); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-644ece8e341438553b26613ec0c3ce30]: Textual amendment: [Sch. 6 para. 2(3A)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/3A) inserted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/3); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-2523b4821e612a48fc09bfa740c50ae7]: Textual amendment: [Sch. 6 para. 2(4A)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/4A) inserted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(4)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/4); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-2523b4821e612a48fc09bfa740c50ae7]: Textual amendment: [Sch. 6 para. 2(4A)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/4A) inserted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(4)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/4); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-3eff6e9b73485a2d765d03343eb637ec]: Textual amendment: [Sch. 6 para. 2(5)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/5) omitted (24.2.2017) by virtue of [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(5)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/5); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-3eff6e9b73485a2d765d03343eb637ec]: Textual amendment: [Sch. 6 para. 2(5)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/2/5) omitted (24.2.2017) by virtue of [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 5(5)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5/5); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-234b97626b1fdfb55c49e74fe961344a]: Textual amendment: Sch. 6 para. 3 substituted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/6) (with [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/7)); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-234b97626b1fdfb55c49e74fe961344a]: Textual amendment: Sch. 6 para. 3 substituted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/6) (with [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/7)); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Dissolution of Scottish Arts Council[^key-6ab1baafab714dc832397efc5852c7c4]
+## 41. Dissolution of Scottish Arts Council[^c-6ab1baafab714dc832397efc5852c7c4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ab1baafab714dc832397efc5852c7c4]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/8/section/41) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-6ab1baafab714dc832397efc5852c7c4]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/8/section/41) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

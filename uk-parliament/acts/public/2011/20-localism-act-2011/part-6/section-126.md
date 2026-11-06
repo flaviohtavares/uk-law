@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Planning offences: time limits and penalties[^key-d7f03403f6807a6b45f5792edfa3092f]
+## 126. Planning offences: time limits and penalties[^c-d7f03403f6807a6b45f5792edfa3092f]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f03403f6807a6b45f5792edfa3092f]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2011/20/section/126) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-d7f03403f6807a6b45f5792edfa3092f]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2011/20/section/126) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

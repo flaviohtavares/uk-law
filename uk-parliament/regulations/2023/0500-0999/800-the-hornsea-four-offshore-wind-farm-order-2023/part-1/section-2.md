@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-ff3081ad7f3d0ce1ab18fb688f4eea53]
+## 2. Interpretation[^c-ff3081ad7f3d0ce1ab18fb688f4eea53]
 
 *Extent: E+W+S*
 
@@ -34,9 +34,9 @@ summary: ''
 - “**the 2004 Act**” means the Energy Act 2004[^f00020];
 - “**the 2008 Act**” means the Planning Act 2008[^f00021];
 - “**the 2009 Act**” means the Marine and Coastal Access Act 2009[^f00022];
-- “**the 2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016[^f00023];[^key-2e770cc3c452edf4ea4f662e22aa1d8d]
+- “**the 2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016[^f00023];[^c-2e770cc3c452edf4ea4f662e22aa1d8d]
 - “**access land**” has the same meaning as in section 1(1) (principal definitions for Part I) of the 2000 Act;
-- “**access to or from[^key-616df977282c2f0b2204c44a75fc3a6e] works plan**” means the plan or plans certified as the access to works plan or plans by the Secretary of State for the purposes of this Order under article 38 (certification of plans and documents, etc.);
+- “**access to or from[^c-616df977282c2f0b2204c44a75fc3a6e] works plan**” means the plan or plans certified as the access to works plan or plans by the Secretary of State for the purposes of this Order under article 38 (certification of plans and documents, etc.);
 - “**ancillary works**” means the ancillary works described in Part 2 of Schedule 1 (ancillary works) and any other works authorised by this Order and which are not development within the meaning of section 32 of the 2008 Act;
 - “**authorised development**” means the development and associated development described in Part 1 of Schedule 1 (authorised development) and any other development authorised by this Order that is development within the meaning of section 32 of the 2008 Act;
 - “**authorised project**” means the authorised development and the ancillary works authorised by this Order;
@@ -63,7 +63,7 @@ summary: ''
 - “**environmental statement**” means the document certified as the environmental statement by the Secretary of State for the purposes of this Order under article 38 (certification of plans and documents, etc.);
 - “**gravity base structure**” means a structure principally of steel, concrete, or steel and concrete with a base which tapers as it rises which rests on the seabed due to its own weight with or without added ballast or additional skirts and associated equipment including J-tubes, corrosion protection systems and access platform(s) and equipment;
 - “**HAT**” means highest astronomical tide;
-- “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act[^f00024];[^key-aff42da489e6bd999833d7c27d75df00]
+- “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act[^f00024];[^c-aff42da489e6bd999833d7c27d75df00]
 - “**Historic England**” means the Historic Buildings and Monuments Commission for England;
 - “**horizontal directional drilling**” means a trenchless boring technique for installing cables, cable ducts and other associated apparatus involving drilling in an arc between two points;
 - “**HVAC**” means high voltage alternating current;
@@ -80,7 +80,7 @@ summary: ''
 - “**lead local flood authority**” has the meaning in section 6(7) of the Flood and Water Management Act 2010[^f00025];
 - “**link box**” means the underground metal box placed within a plastic or concrete pit where the metal sheaths between adjacent export cable sections are connected and earthed installed within a ground level manhole or inspection chamber to allow access to the link box for regular maintenance or fault-finding purposes;
 - “**logistics compound**” means a construction site associated with the connection works including portable offices, welfare facilities, parking and storage for construction of the authorised project;
-- “**maintain**” includes inspect, upkeep, repair, adjust, and alter and further includes remove, reconstruct and replace (but only in relation to any of the ancillary works in Part 2 of Schedule 1 (ancillary works)), any cable, any component part of any wind turbine generator, offshore electrical substation, offshore accommodation platform, meteorological mast, and the onshore transmission works described in Part 1 of Schedule 1 (authorised development) not including the[^key-d0536c44c085887c8db3355d954bb415] removal, reconstruction or replacement of foundations and buildings associated with the onshore project substation ,[^key-2f0116b083551ba8ccb7e21d23970769] to the extent assessed in the environmental statement and any derivative of maintain must be construed accordingly;
+- “**maintain**” includes inspect, upkeep, repair, adjust, and alter and further includes remove, reconstruct and replace (but only in relation to any of the ancillary works in Part 2 of Schedule 1 (ancillary works)), any cable, any component part of any wind turbine generator, offshore electrical substation, offshore accommodation platform, meteorological mast, and the onshore transmission works described in Part 1 of Schedule 1 (authorised development) not including the[^c-d0536c44c085887c8db3355d954bb415] removal, reconstruction or replacement of foundations and buildings associated with the onshore project substation ,[^c-2f0116b083551ba8ccb7e21d23970769] to the extent assessed in the environmental statement and any derivative of maintain must be construed accordingly;
 - “Marine Management Organisation” or “**MMO**” means the Marine Management Organisation, Lancaster House, Hampshire Court, Newcastle upon Tyne, NE4 7YH who is the body created under the 2009 Act and who is responsible for the monitoring and enforcement of the deemed marine licences;
 - “mean high water springs” or “**MHWS**” means the highest level which spring tides reach on average over a period of time;
 - “mean low water springs” or “**MLWS**” means the lowest level which spring tides reach on average over a period of time;
@@ -160,7 +160,7 @@ summary: ''
 
 (3) All distances, directions, capacities, volumes and lengths referred to in this Order are approximate save in respect of the parameters referred to in—
 
-- (a) requirements 2 to 5 in Part 3 of Schedule 1 (requirements)[^key-a4877e385857ec1c83b315682ea93b9b] ;
+- (a) requirements 2 to 5 in Part 3 of Schedule 1 (requirements)[^c-a4877e385857ec1c83b315682ea93b9b] ;
 - (b) conditions 1 to 3 in Part 2 of Schedule 11 (conditions); and
 - (c) conditions 1 to 3 in Part 2 of Schedule 12 (conditions).
 
@@ -174,7 +174,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3081ad7f3d0ce1ab18fb688f4eea53]: Commencement: Art. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-ff3081ad7f3d0ce1ab18fb688f4eea53]: Commencement: Art. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
 [^f00011]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -202,19 +202,19 @@ summary: ''
 
 [^f00023]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
-[^key-2e770cc3c452edf4ea4f662e22aa1d8d]: Textual amendment: Art. 2(1): semicolon substituted for colon (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-2e770cc3c452edf4ea4f662e22aa1d8d]: Textual amendment: Art. 2(1): semicolon substituted for colon (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-616df977282c2f0b2204c44a75fc3a6e]: Textual amendment: Words in art. 2(1) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-616df977282c2f0b2204c44a75fc3a6e]: Textual amendment: Words in art. 2(1) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
 [^f00024]: Footnote: “highway” is defined in section 328(1), “highway authority” is described in section 1. Section 1 was amended by sections 8 and 102 and Schedules 4, paragraph 1 and Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), by section 21 of the 1991 Act and by section 1(6) and Schedule 1, paragraphs 1 to 4 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). There are other amendments which are not relevant to this Order.
 
-[^key-aff42da489e6bd999833d7c27d75df00]: Textual amendment: Art. 2(1): semicolon inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-aff42da489e6bd999833d7c27d75df00]: Textual amendment: Art. 2(1): semicolon inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
 [^f00025]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-d0536c44c085887c8db3355d954bb415]: Textual amendment: Word in art. 2(1) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-d0536c44c085887c8db3355d954bb415]: Textual amendment: Word in art. 2(1) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-2f0116b083551ba8ccb7e21d23970769]: Textual amendment: Art. 2(1): comma inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-2f0116b083551ba8ccb7e21d23970769]: Textual amendment: Art. 2(1): comma inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
 [^f00026]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
@@ -224,4 +224,4 @@ summary: ''
 
 [^f00029]: Footnote: “street authority” is defined in section 49, which was amended by paragraph 117 of Schedule 1 to the Infrastructure Act (c. 7).
 
-[^key-a4877e385857ec1c83b315682ea93b9b]: Textual amendment: Word in art. 2(3)(a) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-a4877e385857ec1c83b315682ea93b9b]: Textual amendment: Word in art. 2(3)(a) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Tribunal investigations: suspension from office[^key-65446e82ced2e6853d5b7281d5b64b15]
+## 22. Tribunal investigations: suspension from office[^c-65446e82ced2e6853d5b7281d5b64b15]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65446e82ced2e6853d5b7281d5b64b15]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/18/section/22) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-65446e82ced2e6853d5b7281d5b64b15]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/18/section/22) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

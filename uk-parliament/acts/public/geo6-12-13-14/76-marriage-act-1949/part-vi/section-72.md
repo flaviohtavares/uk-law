@@ -26,10 +26,10 @@ summary: ''
 
 (3) Where any marriage has been solemnized by virtue of the said provisions it shall not be necessary in support of the marriage to give any proof of the actual enrolment of the parties or of one of them on the church electoral roll of the area in which the parish church or authorised chapel in which the marriage was solemnized was situated, nor shall any evidence be given to prove the contrary in any proceedings touching the validity of the marriage.
 
-(4)[^c6285931] In this section the expression “**church electoral roll**” means a church electoral roll provision for which is made in the Church Representation Rules *(Extent: E)*[^key-b29bfc1a16ee7683625da6d14ff4fa7b].
+(4)[^c6285931] In this section the expression “**church electoral roll**” means a church electoral roll provision for which is made in the Church Representation Rules *(Extent: E)*[^c-b29bfc1a16ee7683625da6d14ff4fa7b].
 
 ## Annotations
 
 [^c6285931]: Modification: S. 72(4) amended by [Marriage (Wales and Monmouthshire) Act 1962 (c. 32)](https://www.legislation.gov.uk/ukpga/1962/32), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1962/32/section/1/2)
 
-[^key-b29bfc1a16ee7683625da6d14ff4fa7b]: Textual amendment: Words in s. 72(4) substituted (E.) (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/7); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-b29bfc1a16ee7683625da6d14ff4fa7b]: Textual amendment: Words in s. 72(4) substituted (E.) (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/7); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Action by the Commissioner in relation to an investigation report under regulation 56[^key-c98c8ec27a3da656f5604b731f2edfd7]
+## 57. Action by the Commissioner in relation to an investigation report under regulation 56[^c-c98c8ec27a3da656f5604b731f2edfd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c98c8ec27a3da656f5604b731f2edfd7]: Commencement: Reg. 57 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-c98c8ec27a3da656f5604b731f2edfd7]: Commencement: Reg. 57 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

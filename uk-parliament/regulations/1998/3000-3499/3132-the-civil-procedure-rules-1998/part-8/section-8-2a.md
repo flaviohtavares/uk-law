@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.2A. Issue of claim form without naming defendants[^key-067aa2a9c2ab6664e12a6ea922758e5f]
+## 8.2A. Issue of claim form without naming defendants[^c-067aa2a9c2ab6664e12a6ea922758e5f]
 
 *Extent: E+W*
 
-(1)[^key-c18c21c07b1dd0a5763744beee9828f6] A practice direction may set out the circumstances in which a claim form may be issued under this Part without naming a defendant.
+(1)[^c-c18c21c07b1dd0a5763744beee9828f6] A practice direction may set out the circumstances in which a claim form may be issued under this Part without naming a defendant.
 
 (2) The practice direction may set out those cases in which an application for permission must be made by application notice before the claim form is issued.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-067aa2a9c2ab6664e12a6ea922758e5f]: Textual amendment: [Rule 8.2A](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.2A) inserted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rules 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [5](https://www.legislation.gov.uk/uksi/2000/221/rule/5)
+[^c-067aa2a9c2ab6664e12a6ea922758e5f]: Textual amendment: [Rule 8.2A](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.2A) inserted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rules 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [5](https://www.legislation.gov.uk/uksi/2000/221/rule/5)
 
-[^key-c18c21c07b1dd0a5763744beee9828f6]: Textual amendment: [Rule 8.2A(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.2A/1)[(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.2A/2) substituted (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [5](https://www.legislation.gov.uk/uksi/2001/256/rule/5)
+[^c-c18c21c07b1dd0a5763744beee9828f6]: Textual amendment: [Rule 8.2A(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.2A/1)[(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.2A/2) substituted (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [5](https://www.legislation.gov.uk/uksi/2001/256/rule/5)

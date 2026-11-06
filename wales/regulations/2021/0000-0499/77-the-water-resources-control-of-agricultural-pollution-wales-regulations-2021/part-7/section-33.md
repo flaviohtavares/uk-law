@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Recording the size of the holding[^key-040ebb3626a8120443de392723d63a12]
+## 33. Recording the size of the holding[^c-040ebb3626a8120443de392723d63a12]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-040ebb3626a8120443de392723d63a12]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2021/77/regulation/33) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-040ebb3626a8120443de392723d63a12]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2021/77/regulation/33) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

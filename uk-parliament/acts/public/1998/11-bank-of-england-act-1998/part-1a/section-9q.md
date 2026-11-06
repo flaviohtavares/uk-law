@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9Q. Recommendations to FCA and PRA[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+## 9Q. Recommendations to FCA and PRA[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,20 +31,20 @@ summary: ''
 
 (4) The recommendations, and any notification under subsection (3)(b), must be made or confirmed in writing.
 
-(4A)[^key-eb2e1b01ff0e052c30c6f0311f02efdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-eb2e1b01ff0e052c30c6f0311f02efdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4B)[^key-de809cb1481eb439df83bc87761ab147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4B)[^c-de809cb1481eb439df83bc87761ab147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C)[^key-4aec482aebccca50ffde35e8f2e2c0c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4C)[^c-4aec482aebccca50ffde35e8f2e2c0c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) “ **Regulated person** ” has the same meaning as in section 9H.
 
 ## Annotations
 
-[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.
+[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.
 
-[^key-eb2e1b01ff0e052c30c6f0311f02efdb]: Textual amendment: S. 9Q(4A) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb2e1b01ff0e052c30c6f0311f02efdb]: Textual amendment: S. 9Q(4A) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de809cb1481eb439df83bc87761ab147]: Textual amendment: S. 9Q(4B) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de809cb1481eb439df83bc87761ab147]: Textual amendment: S. 9Q(4B) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4aec482aebccca50ffde35e8f2e2c0c1]: Textual amendment: S. 9Q(4C) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4aec482aebccca50ffde35e8f2e2c0c1]: Textual amendment: S. 9Q(4C) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

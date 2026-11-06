@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Statutory meeting[^key-21f45fad26166506f468c6b05619432e]
+## 43. Statutory meeting[^c-21f45fad26166506f468c6b05619432e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A meeting of creditors called under section 44 is referred to in this Act as “
 
 ## Annotations
 
-[^key-21f45fad26166506f468c6b05619432e]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/21/section/43) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-21f45fad26166506f468c6b05619432e]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/21/section/43) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Re-employed pensioners[^key-0d1f4d8800222a1ef9d3e6837b60d841]
+## 28. Re-employed pensioners[^c-0d1f4d8800222a1ef9d3e6837b60d841]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d1f4d8800222a1ef9d3e6837b60d841]: Commencement: Reg. 28 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-0d1f4d8800222a1ef9d3e6837b60d841]: Commencement: Reg. 28 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00016]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).

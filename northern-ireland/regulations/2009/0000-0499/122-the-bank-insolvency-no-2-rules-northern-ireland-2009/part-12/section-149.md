@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 149. Application by interested party under Article 152(4)[^key-bb268bd51cea4ce10d4827c0f02e5e85]
+## 149. Application by interested party under Article 152(4)[^c-bb268bd51cea4ce10d4827c0f02e5e85]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.201 of the 1991 Rules.
 
 ## Annotations
 
-[^key-bb268bd51cea4ce10d4827c0f02e5e85]: Commencement: Rule 149 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-bb268bd51cea4ce10d4827c0f02e5e85]: Commencement: Rule 149 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

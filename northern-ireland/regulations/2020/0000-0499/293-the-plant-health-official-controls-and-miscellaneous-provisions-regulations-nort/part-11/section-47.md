@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Defence: lawful disclosure[^key-07f32f1a3edb4e77b363122b1183f4fd]
+## 47. Defence: lawful disclosure[^c-07f32f1a3edb4e77b363122b1183f4fd]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ It is a defence for a person charged with an offence under regulation 46 to prov
 
 ## Annotations
 
-[^key-07f32f1a3edb4e77b363122b1183f4fd]: Commencement: Reg. 47 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-07f32f1a3edb4e77b363122b1183f4fd]: Commencement: Reg. 47 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

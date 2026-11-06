@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2a9bd635490b2480f31e685957787671] An amount payable to a tenant or local housing authority under a rent repayment order is recoverable as a debt.
+(1)[^c-2a9bd635490b2480f31e685957787671] An amount payable to a tenant or local housing authority under a rent repayment order is recoverable as a debt.
 
-(2)[^key-2a9bd635490b2480f31e685957787671] An amount payable to a local housing authority under a rent repayment order does not, when recovered by the authority, constitute an amount of universal credit recovered by the authority.
+(2)[^c-2a9bd635490b2480f31e685957787671] An amount payable to a local housing authority under a rent repayment order does not, when recovered by the authority, constitute an amount of universal credit recovered by the authority.
 
-(3)[^key-c6632a50eca4736bb4d8b5574c3b2932] The Secretary of State may by regulations make provision about how local housing authorities are to deal with amounts recovered under rent repayment orders.
+(3)[^c-c6632a50eca4736bb4d8b5574c3b2932] The Secretary of State may by regulations make provision about how local housing authorities are to deal with amounts recovered under rent repayment orders.
 
 ## Annotations
 
-[^key-2a9bd635490b2480f31e685957787671]: Commencement: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/47/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/47/2) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)
+[^c-2a9bd635490b2480f31e685957787671]: Commencement: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/47/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/47/2) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)
 
-[^key-c6632a50eca4736bb4d8b5574c3b2932]: Commencement: [S. 47(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/47/3) in force at 10.3.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/a)
+[^c-c6632a50eca4736bb4d8b5574c3b2932]: Commencement: [S. 47(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/47/3) in force at 10.3.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/a)

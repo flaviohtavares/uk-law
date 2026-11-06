@@ -65,7 +65,7 @@ A person in respect of whom one or more of the following orders has effect—
 
 A person who is incapable of being elected to the House of Commons having been reported personally guilty or convicted of a corrupt or illegal practice under the [Representation of the People Act 1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
-#### 5A.[^key-8564c24603a0a2d1ae565e95736efa6e]
+#### 5A.[^c-8564c24603a0a2d1ae565e95736efa6e]
 
 A person who is incapable of being elected to or holding elective office in a district council in Northern Ireland under Part 10 of the Electoral Law Act (Northern Ireland) [1962 (c. 14)](https://www.legislation.gov.uk/ukpga/1962/14) having been reported guilty or convicted of a corrupt or illegal practice.
 
@@ -78,7 +78,7 @@ A person who is incapable of being elected to or holding elective office in a di
 - (a) detained anywhere in the United Kingdom, the Channel Islands, the Isle of Man, or elsewhere in the European Union, in pursuance of the sentence or order, or
 - (b) unlawfully at large at a time when the person would otherwise be so detained.
 
-#### 6A. Persons subject to a disqualification order[^key-7e9113230bea52c5a2686ebe862c638f]
+#### 6A. Persons subject to a disqualification order[^c-7e9113230bea52c5a2686ebe862c638f]
 
 A person subject to a disqualification order under section 30 of the Elections Act 2022 (disqualification of offenders for holding elective office etc).
 
@@ -86,11 +86,11 @@ A person subject to a disqualification order under section 30 of the Elections A
 
 A person subject to—
 
-(a)[^key-617d4b72f0265faa275360b09e0f4590] the notification requirements of, or an order under, Part 2 of the [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42) or[^key-e6e64368081ce871178a34ca5bf9359e]
+(a)[^c-617d4b72f0265faa275360b09e0f4590] the notification requirements of, or an order under, Part 2 of the [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42) or[^c-e6e64368081ce871178a34ca5bf9359e]
 
 (b) an order under Chapter 2 of Part 11 of the Sentencing Code.
 
-#### 8. Persons not registered in electoral register at an address in Wales[^key-ff8ea6f7a58d6787c8bfa0b0e12ef9a7]
+#### 8. Persons not registered in electoral register at an address in Wales[^c-ff8ea6f7a58d6787c8bfa0b0e12ef9a7]
 
 A person who is not registered in the register of local government electors at an address within a Senedd constituency.
 
@@ -115,15 +115,15 @@ TABLE
 | Future Generations Commissioner for Wales or Comisiynydd Cenedlaethau’r Dyfodol Cymru | The Commissioner |
 | Her Majesty‘s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru | The Chief Inspector |
 | Independent Remuneration Board of the Senedd or Bwrdd Taliadau Annibynnol y Senedd | The members of the Board |
-| [^key-1aeb15df909c9c985e06fa69324d3e55]... | [^key-1aeb15df909c9c985e06fa69324d3e55]... |
+| [^c-1aeb15df909c9c985e06fa69324d3e55]... | [^c-1aeb15df909c9c985e06fa69324d3e55]... |
 | Judicial offices | The following judicial offices—<br>- (a) Judge of the Supreme Court;<br>- (b) Judge of the High Court or Court of Appeal in England and Wales;<br>- (c) Judge of the Court of Session or Temporary Judge in Scotland;<br>- (d) Judge of the High Court or Court of Appeal in Northern Ireland;<br>- (e) Judge of the Court Martial Appeal Court;<br>- (f) Chairman of the Scottish Land Court;<br>- (g) Circuit Judge in England and Wales;<br>- (h) Sheriff principal, sheriff, summary sheriff, temporary sheriff principal, part-time sheriff or part-time summary sheriff in Scotland;<br>- (i) County Court Judge or deputy County Court Judge in Northern Ireland;<br>- (j) District Judge (Magistrates’ Courts) (but not Deputy District Judge (Magistrates’ Courts)) in England and Wales;<br>- (k) District judge (magistrates’ courts) or deputy district judge (magistrates’ courts) in Northern Ireland;<br>- (l) President of Welsh Tribunals or Llywydd Tribiwnlysoedd Cymru;<br>- (m) Judge of the Upper Tribunal;<br>- (n) legal member of the Upper Tribunal for Scotland;<br>- (o) Chief or other Child Support Commissioner for Northern Ireland or deputy Child Support Commissioner for Northern Ireland;<br>- (p) Chief or other Social Security Commissioner for Northern Ireland or deputy Social Security Commissioner for Northern Ireland |
 | Legislatures | Members of the legislature of any country or territory outside the United Kingdom |
 | Lieutenancies | Lord-lieutenant or lieutenant of any area in Wales |
-| [^key-8571fbfb9bbc0260b78a969e0ebe21d2]. . . | [^key-8571fbfb9bbc0260b78a969e0ebe21d2]. . . |
+| [^c-8571fbfb9bbc0260b78a969e0ebe21d2]. . . | [^c-8571fbfb9bbc0260b78a969e0ebe21d2]. . . |
 | Parliamentary Commissioner for Administration | The Commissioner |
 | Police forces | Members of any police force maintained by—<br>- (a) a local policing body (within the meaning given by section 101 of the [Police Act 1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16)),<br>- (b) the Scottish Police Authority, or<br>- (c) the Northern Ireland Policing Board,<br>and “member” in relation to a police force means a person holding office as a constable of that force |
 | Public Services Ombudsman for Wales or Ombwdsmon Gwasanaethau Cyhoeddus Cymru | The Ombudsman |
-| Returning officers for Senedd elections | The returning officer for any Senedd constituency [^key-93f77636044ab680561cfedce947eb77]... |
+| Returning officers for Senedd elections | The returning officer for any Senedd constituency [^c-93f77636044ab680561cfedce947eb77]... |
 | Senedd Commission | Members of the staff of the Senedd |
 | Senedd Commissioner for Standards or Comisiynydd Safonau y Senedd | The Commissioner |
 | Sheriffs | The high sheriff of any area in Wales |
@@ -133,20 +133,20 @@ TABLE
 
 [^M_F_6a4bcdf9-3706-47c7-91b9-8ee4df364f5e]: Textual amendment: Sch. 1A inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(1)(c)](https://www.legislation.gov.uk/anaw/2020/1/section/42/1/c), [Sch. 3](https://www.legislation.gov.uk/anaw/2020/1/schedule/3)
 
-[^key-8564c24603a0a2d1ae565e95736efa6e]: Textual amendment: [Sch. 1A para. 5A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/paragraph/5A) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 63](https://www.legislation.gov.uk/asc/2024/5/section/63), [72(2)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/d)
+[^c-8564c24603a0a2d1ae565e95736efa6e]: Textual amendment: [Sch. 1A para. 5A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/paragraph/5A) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 63](https://www.legislation.gov.uk/asc/2024/5/section/63), [72(2)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/d)
 
-[^key-7e9113230bea52c5a2686ebe862c638f]: Textual amendment: Sch. 1A para. 6A inserted (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/7/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-7e9113230bea52c5a2686ebe862c638f]: Textual amendment: Sch. 1A para. 6A inserted (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/7/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
 
-[^key-617d4b72f0265faa275360b09e0f4590]: Textual amendment: Words in Sch. 1A para. 7 renumbered as Sch. 1A para. 7(a) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 256(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/256/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-617d4b72f0265faa275360b09e0f4590]: Textual amendment: Words in Sch. 1A para. 7 renumbered as Sch. 1A para. 7(a) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 256(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/256/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e6e64368081ce871178a34ca5bf9359e]: Textual amendment: Sch. 1A para. 7(b) and word inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 256(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/256/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e6e64368081ce871178a34ca5bf9359e]: Textual amendment: Sch. 1A para. 7(b) and word inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 256(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/256/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ff8ea6f7a58d6787c8bfa0b0e12ef9a7]: Textual amendment: [Sch. 1A para. 8](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/paragraph/8) inserted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 6](https://www.legislation.gov.uk/asc/2024/4/section/6), [25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a) (with [s. 24(2)](https://www.legislation.gov.uk/asc/2024/4/section/24/2))
+[^c-ff8ea6f7a58d6787c8bfa0b0e12ef9a7]: Textual amendment: [Sch. 1A para. 8](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/paragraph/8) inserted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 6](https://www.legislation.gov.uk/asc/2024/4/section/6), [25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a) (with [s. 24(2)](https://www.legislation.gov.uk/asc/2024/4/section/24/2))
 
 [^M_F_ee535afe-33ca-4182-fd41-f3d689308ddf]: Textual amendment: Words in Sch. 1A Pt. 2 Table inserted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 16(3)](https://www.legislation.gov.uk/asc/2024/4/section/16/3), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
 
-[^key-1aeb15df909c9c985e06fa69324d3e55]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/part/2) Table omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/12); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/uksi/2024/1337/article/3/e)
+[^c-1aeb15df909c9c985e06fa69324d3e55]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/part/2) Table omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/12); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/uksi/2024/1337/article/3/e)
 
-[^key-8571fbfb9bbc0260b78a969e0ebe21d2]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/part/2) Table omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 41](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/41)
+[^c-8571fbfb9bbc0260b78a969e0ebe21d2]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/part/2) Table omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 41](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/41)
 
-[^key-93f77636044ab680561cfedce947eb77]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/part/2) Table omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(8)](https://www.legislation.gov.uk/asc/2024/4/section/10/8), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-93f77636044ab680561cfedce947eb77]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/2006/32/schedule/1A/part/2) Table omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(8)](https://www.legislation.gov.uk/asc/2024/4/section/10/8), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))

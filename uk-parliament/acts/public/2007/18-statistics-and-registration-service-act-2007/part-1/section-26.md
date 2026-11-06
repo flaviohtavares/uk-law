@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Ancillary powers[^key-bfc9c29a1a5464a1f58672b76690cad6]
+## 26. Ancillary powers[^c-bfc9c29a1a5464a1f58672b76690cad6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc9c29a1a5464a1f58672b76690cad6]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2007/18/section/26) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/d)
+[^c-bfc9c29a1a5464a1f58672b76690cad6]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2007/18/section/26) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/d)

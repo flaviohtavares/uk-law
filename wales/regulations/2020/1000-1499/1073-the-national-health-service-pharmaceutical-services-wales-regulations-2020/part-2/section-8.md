@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Matters for consideration when making assessments[^key-67498a0a3e8ad1dc4b8cb5a9e39f5da2]
+## 8. Matters for consideration when making assessments[^c-67498a0a3e8ad1dc4b8cb5a9e39f5da2]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67498a0a3e8ad1dc4b8cb5a9e39f5da2]: Commencement: Reg. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-67498a0a3e8ad1dc4b8cb5a9e39f5da2]: Commencement: Reg. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

@@ -46,11 +46,11 @@ In accordance with section 78(5) they have consulted such persons or groups of p
 
 In accordance with section 104(2) of that Act a draft of the instrument has been laid before, and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-b72fd1624c8f3fb7d74ff67edb3f665d]
+## 1. Citation and commencement[^c-b72fd1624c8f3fb7d74ff67edb3f665d]
 
 These Regulations may be cited as the Social Care and Social Work Improvement Scotland (Requirements for Care Services) Regulations 2011 and come into force on 1st April 2011.
 
-## 2. Interpretation[^key-b68e163030ab45263abcc68371bf174f]
+## 2. Interpretation[^c-b68e163030ab45263abcc68371bf174f]
 
 (1) In these Regulations—
 
@@ -64,11 +64,11 @@ These Regulations may be cited as the Social Care and Social Work Improvement Sc
 
 (3) In the case of a care service which is a child care agency, nurse agency or adult placement service[^f00003], any reference to a person employed includes reference to a person who is introduced to the service user by the provider and associated expressions referring to employment are to be construed accordingly.
 
-## 3. Principles[^key-498223d77fc85a8976a03fa4e36a37d5]
+## 3. Principles[^c-498223d77fc85a8976a03fa4e36a37d5]
 
 A provider of a care service shall provide the service in a manner which promotes quality and safety and respects the independence of service users, and affords them choice in the way in which the service is provided to them.
 
-## 4. Welfare of users[^key-c1697c0f9cb3bc31713599759dc9ea7b]
+## 4. Welfare of users[^c-c1697c0f9cb3bc31713599759dc9ea7b]
 
 (1) A provider must—
 
@@ -88,12 +88,12 @@ A provider of a care service shall provide the service in a manner which promote
 - (c) a registered pharmacist as defined in section 108(1) of the National Health Service (Scotland) Act 1978[^f00006];
 - (d) an ophthalmic optician, as defined in section 108(1) of the National Health Service (Scotland) Act 1978 but excluding a body corporate enrolled in the list kept under section 9 of the Opticians Act 1989[^f00007];
 - (e) a registered nurse, midwife or health visitor (being a person registered in the register maintained under article 5 of the Nursing and Midwifery Order 2001[^f00008];
-- (f) a person who is registered as a member of a profession to which the Health Professions Order 2001[^key-a3c60617ebd6b664cf800e7fdbdf8c1a] extends;
-- (g) a registered chiropractor as defined in section 43 of the Chiropractors Act 1994[^f00010]; [^key-5f7293ef20241cd7bda41c2f5697b6b1]...
-- (h) a registered osteopath as defined in section 41 of the Osteopaths Act 1993[^f00011] ; or[^key-3a213ff5524510237020d59a1a308fc9]
+- (f) a person who is registered as a member of a profession to which the Health Professions Order 2001[^c-a3c60617ebd6b664cf800e7fdbdf8c1a] extends;
+- (g) a registered chiropractor as defined in section 43 of the Chiropractors Act 1994[^f00010]; [^c-5f7293ef20241cd7bda41c2f5697b6b1]...
+- (h) a registered osteopath as defined in section 41 of the Osteopaths Act 1993[^f00011] ; or[^c-3a213ff5524510237020d59a1a308fc9]
 - (i) a person registered under the Anaesthesia Associates and Physician Associates Order 2024.
 
-## 5. Personal plans[^key-127a01c9935b595930bb589f7837d2a4]
+## 5. Personal plans[^c-127a01c9935b595930bb589f7837d2a4]
 
 (1) Subject to paragraph (3) a provider must, after consultation with each service user and, where it appears to the provider to be appropriate, any representative of the service user, within 28 days of the date on which the service user first received the service prepare a written plan (“the personal plan”) which sets out how the service user’s health, welfare and safety needs are to be met.
 
@@ -119,7 +119,7 @@ and where the provider is a local authority any plan prepared in accordance with
 
 (4) In this regulation “representative” includes any person appearing to the provider to act on behalf of the service user or who has an interest in the welfare of the service user.
 
-## 6. Fitness of providers[^key-5d1d0af95b4e8ff9cc0539a3185bb692]
+## 6. Fitness of providers[^c-5d1d0af95b4e8ff9cc0539a3185bb692]
 
 (1) A person must not provide a care service unless the person is fit to do so.
 
@@ -127,10 +127,10 @@ and where the provider is a local authority any plan prepared in accordance with
 
 - (a) a person who is not of integrity and good character;
 - (b) a person who has been convicted whether in the United Kingdom or elsewhere of any offence which is punishable by a period of imprisonment of not less than 3 months and has been sentenced to imprisonment (whether or not suspended or deferred) for any period without the option of a fine and who, in the reasonable opinion of SCSWIS is unsuitable to be a provider of a care service;
-- (c)[^key-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-353cdfe62c4c468c1df0d0df72cacdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) a person who has been—
   - (i) removed under section 34 of the Charities and Trustee Investment (Scotland) Act 2005[^f00015] (powers of the Court of Session) from being concerned in the management or control of any body; or
   - (ii) removed from the office of charity trustee or trustee for a charity by an order made by the Charity Commission for England and Wales or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity for which the person was responsible or to which the person was privy, or which the person by that person’s conduct contributed to or facilitated;
@@ -139,11 +139,11 @@ and where the provider is a local authority any plan prepared in accordance with
 
 (3) For the purposes of paragraph (2)(b) any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom is to be disregarded.
 
-(4) Paragraph (2)(g)[^key-6b910080f1568d18a5cfac123fe4b353] to (i) is to be disregarded if the provider is seeking to provide a child minding service.
+(4) Paragraph (2)(g)[^c-6b910080f1568d18a5cfac123fe4b353] to (i) is to be disregarded if the provider is seeking to provide a child minding service.
 
 (5) A provider must inform SCSWIS immediately in writing where the provider becomes a person who is not fit to provide a care service in terms of this regulation.
 
-## 6A. Notification of insolvency event: companies[^key-4d7ead6379ef28b28a6c6b8b72764cae]
+## 6A. Notification of insolvency event: companies[^c-4d7ead6379ef28b28a6c6b8b72764cae]
 
 (1) A company (or any person appointed or nominated to act on behalf of that company at the time of an insolvency event) who is a provider of a care service must notify SCSWIS immediately of any insolvency event.
 
@@ -169,7 +169,7 @@ and where the provider is a local authority any plan prepared in accordance with
 
 - (a) the provider is adjudged bankrupt or sequestration of the provider’s estate has been awarded;
 - (b) the nominee in relation to a proposal for a voluntary arrangement under Part 8 of the Insolvency Act 1986 submits a report to the court under section 256(1) or 256A(3) of that Act which states that in the nominee’s opinion a meeting of the provider’s creditors should be summoned to consider the debtor’s proposal;
-- (c)[^key-c39ff1cd58d7506364f7b19aa972a020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c39ff1cd58d7506364f7b19aa972a020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the provider executes a trust deed for the provider’s creditors or enters into a composition contract.
 
 (3) This regulation does not apply where the individual is the provider of a child minding service.
@@ -186,7 +186,7 @@ and where the provider is a local authority any plan prepared in accordance with
 - (d) the members of the partnership lodge with the court documents and statements in accordance with paragraph 7(1) of Schedule A1 (moratorium where directors propose voluntary arrangement) to the 1986 Act (as applied by an order under section 420 of that Act);
 - (e) the partnership enters administration within the meaning of paragraph 1(2)(b) of Schedule B1 to the 1986 Act (as applied by an order under section 420 of that Act).
 
-## 7. Fitness of managers[^key-88c88e44b9f9ac3c9509b1979531e0a5]
+## 7. Fitness of managers[^c-88c88e44b9f9ac3c9509b1979531e0a5]
 
 (1) A person must not act as a manager in relation to a care service unless the person is fit to do so.
 
@@ -197,7 +197,7 @@ and where the provider is a local authority any plan prepared in accordance with
 - (c) a person who does not have the skills, knowledge and experience necessary for managing the care service; and
 - (d) a person who, in order to perform the duties for which the person is employed in the care service, is required by any enactment to be registered with any person or body and is not so registered.
 
-## 8. Notification of unfitness of manager[^key-64babe72621289053d45f2533da28be0]
+## 8. Notification of unfitness of manager[^c-64babe72621289053d45f2533da28be0]
 
 (1) Where a provider of a care service is or becomes aware that a person acting as a manager in relation to the care service has been convicted of any criminal offence, whether in the United Kingdom or elsewhere, the provider must immediately give notice to SCSWIS of—
 
@@ -207,7 +207,7 @@ and where the provider is a local authority any plan prepared in accordance with
 
 (2) Where a provider of a care service is or becomes aware that a person acting as manager in relation to that service is unfit to do so in terms of regulation 7, the provider must immediately notify SCSWIS in writing of that fact.
 
-## 9. Fitness of employees[^key-c0362cf8ee254bdfa5539947592f452a]
+## 9. Fitness of employees[^c-c0362cf8ee254bdfa5539947592f452a]
 
 (1) A provider must not employ any person in the provision of a care service unless that person is fit to be so employed.
 
@@ -217,7 +217,7 @@ and where the provider is a local authority any plan prepared in accordance with
 - (b) a person who does not have the qualifications, skills and experience necessary for the work that the person is to perform; and
 - (c) any person to whom regulations 6(2)(a) or 7(2)(d) apply.
 
-## 10. Fitness of premises[^key-84faf21fbd83a0f8fc4401fc88b3047a][^key-f812ab41a72171adeeb358b9196c03a7]
+## 10. Fitness of premises[^c-84faf21fbd83a0f8fc4401fc88b3047a][^c-f812ab41a72171adeeb358b9196c03a7]
 
 (1) A provider must not use premises for the provision of a care service unless they are fit to be so used.
 
@@ -230,13 +230,13 @@ and where the provider is a local authority any plan prepared in accordance with
 
 (3) Accommodation must not be provided and used for the purpose of restricting the liberty of children in any residential premises where care services are provided unless such provision and use have been approved by the Scottish Ministers.
 
-## 11. Fitness in relation to adult placement services[^key-c955cecdc9a83a91e3ef7b9a3a0fc5aa]
+## 11. Fitness in relation to adult placement services[^c-c955cecdc9a83a91e3ef7b9a3a0fc5aa]
 
 (1) A provider of an adult placement service must not place any service user in premises in which there is any person living who is unfit to be in the proximity of the service user.
 
 (2) Without prejudice to the generality of paragraph (1), a person who is unfit to be in the proximity of a service user includes a person who is listed in the adults’ list in the Protection of Vulnerable Groups (Scotland) Act 2007[^f00018].
 
-## 12. Child minding[^key-139660bf8c8d5d58d9cc2aa4792080a4]
+## 12. Child minding[^c-139660bf8c8d5d58d9cc2aa4792080a4]
 
 (1) A provider of child minding must not permit any person who is unfit to be in the proximity of children to live at the premises which are used for the provision of the service.
 
@@ -250,13 +250,13 @@ and where the provider is a local authority any plan prepared in accordance with
 
 (4) Without prejudice to the generality of paragraph 1, a person who is unfit to be in the proximity of children includes a person who is listed in the children’s list in the Protection of Vulnerable Groups (Scotland) Act 2007.
 
-## 13. Protection of vulnerable groups listings[^key-5bf1837300432f9c4c1afcb3c12613e3]
+## 13. Protection of vulnerable groups listings[^c-5bf1837300432f9c4c1afcb3c12613e3]
 
 (1) A person who is listed in the children’s list in the Protection of Vulnerable Groups (Scotland) Act 2007 must not provide, manage or be employed in a care service for children.
 
 (2) A person who is listed in the adults’ list in the Protection of Vulnerable Groups (Scotland) Act 2007 must not provide, manage or be employed in a care service for adults.
 
-## 14. Facilities in care homes[^key-29f319b11bfebec322f4f9f5acf1b9a9]
+## 14. Facilities in care homes[^c-29f319b11bfebec322f4f9f5acf1b9a9]
 
 A provider of a care home service must, having regard to the size of the service, the statement of aims and objectives and the number and needs of service users—
 
@@ -266,15 +266,15 @@ A provider of a care home service must, having regard to the size of the service
 - (d) ensure that there are provided at appropriate places in the premises from which the service is provided sufficient numbers of lavatories, and of wash-basins, baths and showers fitted with a hot and cold water supply; and
 - (e) provide a place where the money and valuables of service users may be deposited for safe keeping, and make arrangements for service users to acknowledge deposit and return to them of any money or valuables so deposited, at the request of the service user or the service user’s representative.
 
-## 15. Staffing[^key-872afb292886e8422aa52d0b2a406ebf]
+## 15. Staffing[^c-872afb292886e8422aa52d0b2a406ebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Medical practitioners in care homes[^key-4923e2d13063012a9e90e30923efbdc7]
+## 16. Medical practitioners in care homes[^c-4923e2d13063012a9e90e30923efbdc7]
 
 A person having a financial interest in a care home service must not act as a medical practitioner for any user of that service.
 
-## 17. Appointment of manager[^key-142adff46991e4498bdb43afa1dd0c89]
+## 17. Appointment of manager[^c-142adff46991e4498bdb43afa1dd0c89]
 
 (1) A provider who—
 
@@ -284,12 +284,12 @@ A person having a financial interest in a care home service must not act as a me
 
 must appoint an individual to be the manager of the care service.
 
-(2)[^key-eb63f9cad192e458c12c7bcd3a4c37b8] Where a provider appoints a person to manage the care service, the provider must immediately give notice to SCSWIS of—
+(2)[^c-eb63f9cad192e458c12c7bcd3a4c37b8] Where a provider appoints a person to manage the care service, the provider must immediately give notice to SCSWIS of—
 
 - (a) the name of the person so appointed; and
 - (b) the date on which the appointment is to take effect.
 
-## 18. Complaints[^key-205e5abe3676b2f7295f425f828e7ce5]
+## 18. Complaints[^c-205e5abe3676b2f7295f425f828e7ce5]
 
 (1) A provider must establish a procedure (“the complaints procedure”) for considering complaints made to the provider.
 
@@ -310,7 +310,7 @@ must appoint an individual to be the manager of the care service.
 
 (8) In this regulation, “address” includes both a postal address and where available an electronic mail address but an electronic mail address may not be substituted for a postal address.
 
-## 19. Offences[^key-73dc39a43605321dc1c818d10934a437]
+## 19. Offences[^c-73dc39a43605321dc1c818d10934a437]
 
 (1) Subject to paragraph 2 it is an offence to contravene or fail to comply with regulations 4(3), 6(1), 7(1), 9(1) and 16.
 
@@ -344,17 +344,17 @@ Regulation 17 makes provision as to the appointment of a manager of a care serv
 
 [^f00001]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-b72fd1624c8f3fb7d74ff67edb3f665d]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-b72fd1624c8f3fb7d74ff67edb3f665d]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-b68e163030ab45263abcc68371bf174f]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-b68e163030ab45263abcc68371bf174f]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
 [^f00002]: Footnote: Section 47 of the Act defines a care service.
 
 [^f00003]: Footnote: “Child care agency”, “nurse agency” and “adult placement service” are defined in paragraphs 5, 4 and 11 respectively of schedule 12 to the Act.
 
-[^key-498223d77fc85a8976a03fa4e36a37d5]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-498223d77fc85a8976a03fa4e36a37d5]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-c1697c0f9cb3bc31713599759dc9ea7b]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-c1697c0f9cb3bc31713599759dc9ea7b]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
 [^f00004]: Footnote: “Care home service” is defined in paragraph 2 of schedule 12 to the Act.
 
@@ -366,23 +366,23 @@ Regulation 17 makes provision as to the appointment of a manager of a care serv
 
 [^f00008]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), as amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-a3c60617ebd6b664cf800e7fdbdf8c1a]: Textual amendment: Words in [reg. 4(4)(f)](https://www.legislation.gov.uk/ssi/2011/210/regulation/4/4/f) substituted (2.12.2019) by virtue of [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/29); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-a3c60617ebd6b664cf800e7fdbdf8c1a]: Textual amendment: Words in [reg. 4(4)(f)](https://www.legislation.gov.uk/ssi/2011/210/regulation/4/4/f) substituted (2.12.2019) by virtue of [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/29); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^f00010]: Footnote: [1994 c.17](https://www.legislation.gov.uk/ukpga/1994/17).
 
-[^key-5f7293ef20241cd7bda41c2f5697b6b1]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2011/210/regulation/4/4) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/18/a)
+[^c-5f7293ef20241cd7bda41c2f5697b6b1]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2011/210/regulation/4/4) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/18/a)
 
 [^f00011]: Footnote: [1993 c.21](https://www.legislation.gov.uk/ukpga/1993/21).
 
-[^key-3a213ff5524510237020d59a1a308fc9]: Textual amendment: [Reg. 4(4)(i)](https://www.legislation.gov.uk/ssi/2011/210/regulation/4/4/i) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 18(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/18/b)
+[^c-3a213ff5524510237020d59a1a308fc9]: Textual amendment: [Reg. 4(4)(i)](https://www.legislation.gov.uk/ssi/2011/210/regulation/4/4/i) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 18(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/18/b)
 
-[^key-127a01c9935b595930bb589f7837d2a4]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-127a01c9935b595930bb589f7837d2a4]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
 [^f00012]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
 
-[^key-5d1d0af95b4e8ff9cc0539a3185bb692]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-5d1d0af95b4e8ff9cc0539a3185bb692]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-353cdfe62c4c468c1df0d0df72cacdbf]: Textual amendment: [Reg. 6(2)(c)-(f)](https://www.legislation.gov.uk/ssi/2011/210/regulation/6/2/c) omitted (1.4.2013) by virtue of [The Social Care and Social Work Improvement Scotland (Requirements for Care Services) Amendment Regulations 2013 (S.S.I. 2013/110)](https://www.legislation.gov.uk/ssi/2013/110), [regs. 1](https://www.legislation.gov.uk/ssi/2013/110/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2013/110/regulation/2/a)
+[^c-353cdfe62c4c468c1df0d0df72cacdbf]: Textual amendment: [Reg. 6(2)(c)-(f)](https://www.legislation.gov.uk/ssi/2011/210/regulation/6/2/c) omitted (1.4.2013) by virtue of [The Social Care and Social Work Improvement Scotland (Requirements for Care Services) Amendment Regulations 2013 (S.S.I. 2013/110)](https://www.legislation.gov.uk/ssi/2013/110), [regs. 1](https://www.legislation.gov.uk/ssi/2013/110/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2013/110/regulation/2/a)
 
 [^f00015]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -390,40 +390,40 @@ Regulation 17 makes provision as to the appointment of a manager of a care serv
 
 [^f00017]: Footnote: [S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-6b910080f1568d18a5cfac123fe4b353]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2011/210/regulation/6/4) substituted (1.4.2013) by [The Social Care and Social Work Improvement Scotland (Requirements for Care Services) Amendment Regulations 2013 (S.S.I. 2013/110)](https://www.legislation.gov.uk/ssi/2013/110), [regs. 1](https://www.legislation.gov.uk/ssi/2013/110/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2013/110/regulation/2/b)
+[^c-6b910080f1568d18a5cfac123fe4b353]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2011/210/regulation/6/4) substituted (1.4.2013) by [The Social Care and Social Work Improvement Scotland (Requirements for Care Services) Amendment Regulations 2013 (S.S.I. 2013/110)](https://www.legislation.gov.uk/ssi/2013/110), [regs. 1](https://www.legislation.gov.uk/ssi/2013/110/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2013/110/regulation/2/b)
 
-[^key-4d7ead6379ef28b28a6c6b8b72764cae]: Textual amendment: [Regs. 6A-6C](https://www.legislation.gov.uk/ssi/2011/210/regulation/6A) inserted (1.4.2013) by [The Social Care and Social Work Improvement Scotland (Requirements for Care Services) Amendment Regulations 2013 (S.S.I. 2013/110)](https://www.legislation.gov.uk/ssi/2013/110), [regs. 1](https://www.legislation.gov.uk/ssi/2013/110/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2013/110/regulation/2/c)
+[^c-4d7ead6379ef28b28a6c6b8b72764cae]: Textual amendment: [Regs. 6A-6C](https://www.legislation.gov.uk/ssi/2011/210/regulation/6A) inserted (1.4.2013) by [The Social Care and Social Work Improvement Scotland (Requirements for Care Services) Amendment Regulations 2013 (S.S.I. 2013/110)](https://www.legislation.gov.uk/ssi/2013/110), [regs. 1](https://www.legislation.gov.uk/ssi/2013/110/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2013/110/regulation/2/c)
 
-[^key-c39ff1cd58d7506364f7b19aa972a020]: Textual amendment: [Reg. 6B(2)(c)](https://www.legislation.gov.uk/ssi/2011/210/regulation/6B/2/c) omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(11)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
+[^c-c39ff1cd58d7506364f7b19aa972a020]: Textual amendment: [Reg. 6B(2)(c)](https://www.legislation.gov.uk/ssi/2011/210/regulation/6B/2/c) omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(11)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
 
-[^key-88c88e44b9f9ac3c9509b1979531e0a5]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-88c88e44b9f9ac3c9509b1979531e0a5]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-64babe72621289053d45f2533da28be0]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-64babe72621289053d45f2533da28be0]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-c0362cf8ee254bdfa5539947592f452a]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-c0362cf8ee254bdfa5539947592f452a]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-84faf21fbd83a0f8fc4401fc88b3047a]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-84faf21fbd83a0f8fc4401fc88b3047a]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-f812ab41a72171adeeb358b9196c03a7]: Modification: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/210/regulation/10) modified (temp.) (20.11.2025 for specified purposes and 1.4.2027 in so far as not already in force) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2/3), [3(6)](https://www.legislation.gov.uk/ssi/2025/356/article/3/6)
+[^c-f812ab41a72171adeeb358b9196c03a7]: Modification: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/210/regulation/10) modified (temp.) (20.11.2025 for specified purposes and 1.4.2027 in so far as not already in force) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2/3), [3(6)](https://www.legislation.gov.uk/ssi/2025/356/article/3/6)
 
-[^key-c955cecdc9a83a91e3ef7b9a3a0fc5aa]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-c955cecdc9a83a91e3ef7b9a3a0fc5aa]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
 [^f00018]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14). Section 1 defines children’s and adults’ list.
 
-[^key-139660bf8c8d5d58d9cc2aa4792080a4]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-139660bf8c8d5d58d9cc2aa4792080a4]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-5bf1837300432f9c4c1afcb3c12613e3]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-5bf1837300432f9c4c1afcb3c12613e3]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-29f319b11bfebec322f4f9f5acf1b9a9]: Commencement: Reg. 14 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-29f319b11bfebec322f4f9f5acf1b9a9]: Commencement: Reg. 14 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-872afb292886e8422aa52d0b2a406ebf]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2011/210/regulation/15) revoked (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 13(2)](https://www.legislation.gov.uk/asp/2019/6/section/13/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-872afb292886e8422aa52d0b2a406ebf]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2011/210/regulation/15) revoked (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 13(2)](https://www.legislation.gov.uk/asp/2019/6/section/13/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-4923e2d13063012a9e90e30923efbdc7]: Commencement: Reg. 16 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-4923e2d13063012a9e90e30923efbdc7]: Commencement: Reg. 16 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-142adff46991e4498bdb43afa1dd0c89]: Commencement: Reg. 17 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-142adff46991e4498bdb43afa1dd0c89]: Commencement: Reg. 17 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-eb63f9cad192e458c12c7bcd3a4c37b8]: Modification: [Reg. 17(2)](https://www.legislation.gov.uk/ssi/2011/210/regulation/17/2) excluded (temp.) (20.11.2025 for specified purposes and 1.4.2027 in so far as not already in force) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
+[^c-eb63f9cad192e458c12c7bcd3a4c37b8]: Modification: [Reg. 17(2)](https://www.legislation.gov.uk/ssi/2011/210/regulation/17/2) excluded (temp.) (20.11.2025 for specified purposes and 1.4.2027 in so far as not already in force) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
 
-[^key-205e5abe3676b2f7295f425f828e7ce5]: Commencement: Reg. 18 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-205e5abe3676b2f7295f425f828e7ce5]: Commencement: Reg. 18 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
 
-[^key-73dc39a43605321dc1c818d10934a437]: Commencement: Reg. 19 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)
+[^c-73dc39a43605321dc1c818d10934a437]: Commencement: Reg. 19 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/210/regulation/1)

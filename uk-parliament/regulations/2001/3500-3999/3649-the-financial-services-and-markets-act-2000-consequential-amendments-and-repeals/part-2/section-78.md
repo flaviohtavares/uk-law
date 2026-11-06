@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Exercise of powers in relation to Northern Ireland[^key-a5af413dcba18dcfedc0ec8f74b13610]
+## 78. Exercise of powers in relation to Northern Ireland[^c-a5af413dcba18dcfedc0ec8f74b13610]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 88 of the Companies Act 1989 (exercise of powers in relation to North
 
 ## Annotations
 
-[^key-a5af413dcba18dcfedc0ec8f74b13610]: Commencement: Art. 78 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a5af413dcba18dcfedc0ec8f74b13610]: Commencement: Art. 78 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

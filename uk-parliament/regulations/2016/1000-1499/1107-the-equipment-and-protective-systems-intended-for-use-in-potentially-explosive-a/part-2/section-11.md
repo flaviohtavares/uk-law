@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Labelling and packaging of products[^key-64c3827f68e05c45806b911140e5e8cb]
+## 11. Labelling and packaging of products[^c-64c3827f68e05c45806b911140e5e8cb]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64c3827f68e05c45806b911140e5e8cb]: Commencement: Reg. 11 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-64c3827f68e05c45806b911140e5e8cb]: Commencement: Reg. 11 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

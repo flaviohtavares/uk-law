@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. NHS Constitution[^key-64b07e2d3d9c3d0026ba7162fd46aa05]
+## 1. NHS Constitution[^c-64b07e2d3d9c3d0026ba7162fd46aa05]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64b07e2d3d9c3d0026ba7162fd46aa05]: Commencement: S. 1 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)
+[^c-64b07e2d3d9c3d0026ba7162fd46aa05]: Commencement: S. 1 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)

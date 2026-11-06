@@ -22,15 +22,15 @@ summary: ''
 
 Section 167
 
-**1.**[^key-aaf2351e9fd8d99ae84c418388bba47b] Part 6 of the Local Government and Housing Act 1989 (housing finance) is amended as follows.
+**1.**[^c-aaf2351e9fd8d99ae84c418388bba47b] Part 6 of the Local Government and Housing Act 1989 (housing finance) is amended as follows.
 
-**2.**[^key-fe692339d35c062971c50ba7026e5775] (1) Section 79 (Housing Revenue Account subsidy) is amended as follows.
+**2.**[^c-fe692339d35c062971c50ba7026e5775] (1) Section 79 (Housing Revenue Account subsidy) is amended as follows.
 
 (2) In subsection (1) after “local housing authorities” insert “ in Wales ”.
 
 (3) In subsection (2) for “appropriate person” in both places substitute “ Welsh Ministers ”.
 
-**3.**[^key-1ad29acbf454da094144b256b97828cf] (1) Section 80 (calculation of Housing Revenue Account Subsidy) is amended as follows.
+**3.**[^c-1ad29acbf454da094144b256b97828cf] (1) Section 80 (calculation of Housing Revenue Account Subsidy) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -72,7 +72,7 @@ Section 167
 - (b) for “him” substitute “ them ”, and
 - (c) for “he thinks” substitute “ they think ”.
 
-**4.**[^key-026dc4a88431e245d4bc9bcfc3c738ca] (1) Section 80ZA (negative amounts of subsidy payable to appropriate person) is amended as follows.
+**4.**[^c-026dc4a88431e245d4bc9bcfc3c738ca] (1) Section 80ZA (negative amounts of subsidy payable to appropriate person) is amended as follows.
 
 (2) In the heading for “appropriate person” substitute “ Welsh Ministers ”.
 
@@ -97,7 +97,7 @@ Section 167
 - (a) for “appropriate person” substitute “ Welsh Ministers ”, and
 - (b) for “him” in both places substitute “ the Welsh Ministers ”.
 
-**5.**[^key-b46df54f1709aabfd99d550e19651a37] (1) Section 80A (final decision on amount of Housing Revenue Account subsidy) is amended as follows.
+**5.**[^c-b46df54f1709aabfd99d550e19651a37] (1) Section 80A (final decision on amount of Housing Revenue Account subsidy) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -125,7 +125,7 @@ Section 167
 
 (8) In subsection (5) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**6.**[^key-b840c1e7d42882cf86e44c93f13cb645] (1) Section 80B (agreements to exclude certain authorities or property) is amended as follows.
+**6.**[^c-b840c1e7d42882cf86e44c93f13cb645] (1) Section 80B (agreements to exclude certain authorities or property) is amended as follows.
 
 (2) In subsection (1) for “appropriate person” substitute “ Welsh Ministers ”.
 
@@ -136,9 +136,9 @@ Section 167
 
 (4) In subsection (4) for “appropriate person” substitute “ Welsh Ministers ”.
 
-**7.**[^key-087bcb7806b5750bb9eb51d4605604c1] Omit sections 82 to 84 (residual debt subsidy and housing subsidy for year 1989-90).
+**7.**[^c-087bcb7806b5750bb9eb51d4605604c1] Omit sections 82 to 84 (residual debt subsidy and housing subsidy for year 1989-90).
 
-**8.**[^key-1b5ee9f1342f5fc4e0ba68b6dbc40e4f] (1) Section 85 (power to obtain information) is amended as follows.
+**8.**[^c-1b5ee9f1342f5fc4e0ba68b6dbc40e4f] (1) Section 85 (power to obtain information) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -162,14 +162,14 @@ Section 167
 - (d) omit “or 83”, and
 - (e) for “he sees” substitute “ they see ”.
 
-**9.**[^key-7e1712c5d70cf4f82b66d37727cfa9c9] In section 86(1) (recoupment of subsidy in certain cases)—
+**9.**[^c-7e1712c5d70cf4f82b66d37727cfa9c9] In section 86(1) (recoupment of subsidy in certain cases)—
 
 - (a) omit “or residual debt subsidy”,
 - (b) for “Secretary of State” substitute “ Welsh Ministers ”,
 - (c) for “him” substitute “ them ”, and
 - (d) for “he” in each place substitute “ they ”.
 
-**10.**[^key-4b4cae4ff3462ab13b96d03079a1dd3a] (1) Section 88 (construction and application of Part 6) is amended as follows.
+**10.**[^c-4b4cae4ff3462ab13b96d03079a1dd3a] (1) Section 88 (construction and application of Part 6) is amended as follows.
 
 (2) Omit subsection (2).
 
@@ -177,7 +177,7 @@ Section 167
 
 (4) Omit subsections (4) and (5).
 
-**11.**[^key-9449755edf81feb361dfc43ce42e613a] (1) Schedule 4 (the keeping of the Housing Revenue Account) is amended as follows.
+**11.**[^c-9449755edf81feb361dfc43ce42e613a] (1) Schedule 4 (the keeping of the Housing Revenue Account) is amended as follows.
 
 (2) In Part 2 (debits to the account) in Item 5 (sums payable under section 80ZA) for “the Secretary of State, or the National Assembly for Wales,” substitute “ the Welsh Ministers ”.
 
@@ -185,24 +185,24 @@ Section 167
 
 ## Annotations
 
-[^key-aaf2351e9fd8d99ae84c418388bba47b]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/1) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-aaf2351e9fd8d99ae84c418388bba47b]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/1) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-fe692339d35c062971c50ba7026e5775]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/2) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-fe692339d35c062971c50ba7026e5775]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/2) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-1ad29acbf454da094144b256b97828cf]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/3) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-1ad29acbf454da094144b256b97828cf]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/3) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-026dc4a88431e245d4bc9bcfc3c738ca]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/4) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-026dc4a88431e245d4bc9bcfc3c738ca]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/4) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-b46df54f1709aabfd99d550e19651a37]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/5) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-b46df54f1709aabfd99d550e19651a37]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/5) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-b840c1e7d42882cf86e44c93f13cb645]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/6) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-b840c1e7d42882cf86e44c93f13cb645]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/6) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-087bcb7806b5750bb9eb51d4605604c1]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/7) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-087bcb7806b5750bb9eb51d4605604c1]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/7) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-1b5ee9f1342f5fc4e0ba68b6dbc40e4f]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/8) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-1b5ee9f1342f5fc4e0ba68b6dbc40e4f]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/8) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-7e1712c5d70cf4f82b66d37727cfa9c9]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/9) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-7e1712c5d70cf4f82b66d37727cfa9c9]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/9) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-4b4cae4ff3462ab13b96d03079a1dd3a]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/10) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-4b4cae4ff3462ab13b96d03079a1dd3a]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/10) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
 
-[^key-9449755edf81feb361dfc43ce42e613a]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/11) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-9449755edf81feb361dfc43ce42e613a]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/11) in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)

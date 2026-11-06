@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Duties of public authorities etc. in relation to care experience[^key-b9dc92d4bc8fcffb0e3c9881a52bf993]
+## 10. Duties of public authorities etc. in relation to care experience[^c-b9dc92d4bc8fcffb0e3c9881a52bf993]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 (5) But a public authority exercising functions which relate to a particular description of care-experienced person specified in an enactment need comply with subsections (3) and (4) only to the extent that the public authority considers doing so is consistent with the proper exercise of those functions.
 
-(6)[^key-b57fe4fc84d511ffdd4764f4ca28d8dc] The following persons are care-experienced for the purposes of this section—
+(6)[^c-b57fe4fc84d511ffdd4764f4ca28d8dc] The following persons are care-experienced for the purposes of this section—
 
 - (a) a child who is or has at any time been—
   - (i) looked after,
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9dc92d4bc8fcffb0e3c9881a52bf993]: Commencement: S. 10 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-b9dc92d4bc8fcffb0e3c9881a52bf993]: Commencement: S. 10 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-b57fe4fc84d511ffdd4764f4ca28d8dc]: Commencement: [S. 10(6)](https://www.legislation.gov.uk/asp/2026/16/section/10/6) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-b57fe4fc84d511ffdd4764f4ca28d8dc]: Commencement: [S. 10(6)](https://www.legislation.gov.uk/asp/2026/16/section/10/6) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

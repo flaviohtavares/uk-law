@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38C. Charges in connection with exercise of functions under Part 4[^key-e69f754036c8f3263be8783c8b7f485c]
+## 38C. Charges in connection with exercise of functions under Part 4[^c-e69f754036c8f3263be8783c8b7f485c]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e69f754036c8f3263be8783c8b7f485c]: Textual amendment: [S. 38C](https://www.legislation.gov.uk/ukpga/1998/17/section/38C) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 299(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/299/1), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/ii)
+[^c-e69f754036c8f3263be8783c8b7f485c]: Textual amendment: [S. 38C](https://www.legislation.gov.uk/ukpga/1998/17/section/38C) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 299(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/299/1), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/ii)

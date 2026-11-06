@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — SUCCESS FEE AGREEMENTS
 
-### 1. Success fee agreements[^key-a1daa4fe2ba8c9dff0cc3cdb2a0c7661]
+### 1. Success fee agreements[^c-a1daa4fe2ba8c9dff0cc3cdb2a0c7661]
 
 (1) In this Part, a “success fee agreement” is an agreement between a person providing relevant services (the “provider”) and the recipient of those services (the “recipient”) under which the recipient—
 
@@ -66,13 +66,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “relevant services”,
 - “success fee”.
 
-### 2. Enforceability[^key-2b3dcc19dc4c8de468d8f4ffbf1d212b]
+### 2. Enforceability[^c-2b3dcc19dc4c8de468d8f4ffbf1d212b]
 
 (1) A success fee agreement is not unenforceable by reason only that it is a pactum de quota litis (that is, an agreement for a share of the litigation).
 
 (2) Subsection (1) does not affect any other ground on which a success fee agreement may be unenforceable.
 
-### 3. Expenses in the event of success[^key-6b4eb55c491b12c34807dd0a50d90f74]
+### 3. Expenses in the event of success[^c-6b4eb55c491b12c34807dd0a50d90f74]
 
 (1) This section applies where the recipient of relevant services under a success fee agreement—
 
@@ -88,20 +88,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 4. Power to cap success fees
 
-(1)[^key-9f3f23bd48af3bc7153a34de0bfc59e8] The Scottish Ministers may by regulations make provision for or about the maximum amounts of success fees that may be provided for under success fee agreements.
+(1)[^c-9f3f23bd48af3bc7153a34de0bfc59e8] The Scottish Ministers may by regulations make provision for or about the maximum amounts of success fees that may be provided for under success fee agreements.
 
-(2)[^key-9f3f23bd48af3bc7153a34de0bfc59e8] Regulations under subsection (1) may specify maximum amounts or provide for them to be determined in accordance with the regulations.
+(2)[^c-9f3f23bd48af3bc7153a34de0bfc59e8] Regulations under subsection (1) may specify maximum amounts or provide for them to be determined in accordance with the regulations.
 
-(3)[^key-6492a64cb73ff431b81b39659424a216] Subsection (4) applies where the maximum amount of the success fee that may be provided for under a success fee agreement is restricted—
+(3)[^c-6492a64cb73ff431b81b39659424a216] Subsection (4) applies where the maximum amount of the success fee that may be provided for under a success fee agreement is restricted—
 
 - (a) by provision made in regulations under subsection (1), and
 - (b) by, or in accordance with, another enactment.
 
-(4)[^key-6492a64cb73ff431b81b39659424a216] The maximum amount of the success fee that may be paid under the agreement is the lower of the amounts allowed for by, or in accordance with, the enactments mentioned in subsection (3)(a) and (b).
+(4)[^c-6492a64cb73ff431b81b39659424a216] The maximum amount of the success fee that may be paid under the agreement is the lower of the amounts allowed for by, or in accordance with, the enactments mentioned in subsection (3)(a) and (b).
 
-(5)[^key-6492a64cb73ff431b81b39659424a216] A success fee agreement is unenforceable to the extent that it provides for a success fee of an amount that is higher than the maximum amount allowed for by virtue of this section.
+(5)[^c-6492a64cb73ff431b81b39659424a216] A success fee agreement is unenforceable to the extent that it provides for a success fee of an amount that is higher than the maximum amount allowed for by virtue of this section.
 
-### 5. Exclusion for certain matters[^key-de00a33f82ed24eb58643a57e64cee4b]
+### 5. Exclusion for certain matters[^c-de00a33f82ed24eb58643a57e64cee4b]
 
 (1) A success fee agreement must not be entered into in connection with a matter which may be the subject of civil proceedings of a description specified by the Scottish Ministers in regulations.
 
@@ -137,7 +137,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (7) The agreement is unenforceable to the extent that it makes provision contrary to subsection (2) or (4).
 
-(8)[^key-e22761d5f82d0f485eae12512297ebb3] The Scottish Ministers may by regulations substitute another sum for the sum for the time being specified in subsection (5)(a) and (b).
+(8)[^c-e22761d5f82d0f485eae12512297ebb3] The Scottish Ministers may by regulations substitute another sum for the sum for the time being specified in subsection (5)(a) and (b).
 
 (9) In subsection (1), “personal injuries” include any disease and any impairment of a person's physical or mental condition.
 
@@ -145,11 +145,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 7. Form, content etc.
 
-(1)[^key-d5df7d2f1cba7164b05610809b68d26f] A success fee agreement must be in writing.
+(1)[^c-d5df7d2f1cba7164b05610809b68d26f] A success fee agreement must be in writing.
 
-(2)[^key-d5df7d2f1cba7164b05610809b68d26f] A success fee agreement must specify the basis on which the amount of the success fee is to be determined.
+(2)[^c-d5df7d2f1cba7164b05610809b68d26f] A success fee agreement must specify the basis on which the amount of the success fee is to be determined.
 
-(3)[^key-42d49dbc21f0bf247a06dc5dd7911099] The Scottish Ministers may by regulations make further provision about success fee agreements including in particular provision about—
+(3)[^c-42d49dbc21f0bf247a06dc5dd7911099] The Scottish Ministers may by regulations make further provision about success fee agreements including in particular provision about—
 
 - (a) their form and content (including their terms),
 - (b) the manner in which they may be entered into,
@@ -158,14 +158,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (e) the consequences of failure to comply with the requirements of subsection (1) or (2) or the regulations,
 - (f) the application of this Part, or any provision made under it, where a recipient receives relevant services from more than one provider in connection with the same matter.
 
-(4)[^key-42d49dbc21f0bf247a06dc5dd7911099] Regulations under subsection (3) may modify this section so as to—
+(4)[^c-42d49dbc21f0bf247a06dc5dd7911099] Regulations under subsection (3) may modify this section so as to—
 
 - (a) add text to it,
 - (b) modify any text added under paragraph (a).
 
 ## PART 2 — EXPENSES IN CIVIL LITIGATION
 
-### 8. Restriction on pursuer's liability for expenses in personal injury claims[^key-10db2f6df3d1601d3a38072c9bdbe269]
+### 8. Restriction on pursuer's liability for expenses in personal injury claims[^c-10db2f6df3d1601d3a38072c9bdbe269]
 
 (1) This section applies in civil proceedings where—
 
@@ -268,21 +268,21 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 12. Minor and consequential modifications of the Courts Reform (Scotland) Act 2014
 
-(1)[^key-99b92ab3d22d0a0eed616667b8f45d4c] The Courts Reform (Scotland) Act 2014 is amended as follows.
+(1)[^c-99b92ab3d22d0a0eed616667b8f45d4c] The Courts Reform (Scotland) Act 2014 is amended as follows.
 
-(2)[^key-a09a139893055a9e9194a4c586606a3e] In section 81(5)(b) (expenses in simple procedure cases), for “unreasonably” substitute “ in a manner which is manifestly unreasonable ”.
+(2)[^c-a09a139893055a9e9194a4c586606a3e] In section 81(5)(b) (expenses in simple procedure cases), for “unreasonably” substitute “ in a manner which is manifestly unreasonable ”.
 
-(3)[^key-99b92ab3d22d0a0eed616667b8f45d4c] In section 103(2) (examples of how the power to regulate procedure and practice in the Court of Session may be exercised)—
-
-- (a) in paragraph (j), for “to parties to” substitute “ in ”,
-- (b) in paragraph (k), after “parties” insert “ or persons representing such parties ”.
-
-(4)[^key-99b92ab3d22d0a0eed616667b8f45d4c] In section 104(2) (examples of how the power to regulate procedure and practice in the sheriff court and Sheriff Appeal Court may be exercised)—
+(3)[^c-99b92ab3d22d0a0eed616667b8f45d4c] In section 103(2) (examples of how the power to regulate procedure and practice in the Court of Session may be exercised)—
 
 - (a) in paragraph (j), for “to parties to” substitute “ in ”,
 - (b) in paragraph (k), after “parties” insert “ or persons representing such parties ”.
 
-### 13. Meaning of “legal representative”[^key-48eab0a05c05065e9edbc4d7440a5a14]
+(4)[^c-99b92ab3d22d0a0eed616667b8f45d4c] In section 104(2) (examples of how the power to regulate procedure and practice in the sheriff court and Sheriff Appeal Court may be exercised)—
+
+- (a) in paragraph (j), for “to parties to” substitute “ in ”,
+- (b) in paragraph (k), after “parties” insert “ or persons representing such parties ”.
+
+### 13. Meaning of “legal representative”[^c-48eab0a05c05065e9edbc4d7440a5a14]
 
 In this Part, “**legal representative**” means—
 
@@ -292,7 +292,7 @@ In this Part, “**legal representative**” means—
 
 ## PART 3 — AUDITORS OF COURT
 
-### 14. Auditors of court[^key-432511375542c89818189ea19d1c52b5]
+### 14. Auditors of court[^c-432511375542c89818189ea19d1c52b5]
 
 (1) There is to continue to be—
 
@@ -317,7 +317,7 @@ as the SCTS may determine.
 
 (7) The schedule modifies enactments in relation to the auditors of court.
 
-### 15. Temporary Auditor of the Court of Session[^key-cf108aa7e568d7456cda398f704cf984]
+### 15. Temporary Auditor of the Court of Session[^c-cf108aa7e568d7456cda398f704cf984]
 
 (1) Subsection (2) applies during any period when—
 
@@ -331,7 +331,7 @@ as the SCTS may determine.
 - (a) is to be appointed on such terms and conditions as the Lord President determines,
 - (b) while acting as the Auditor of the Court of Session, is to be treated for all purposes, other than those of sections 14(4), (5) and (6) and 18(1) and (6), as the Auditor of the Court of Session.
 
-### 16. Auditors' functions[^key-8fe9eb273ef51537087e621abc705beb]
+### 16. Auditors' functions[^c-8fe9eb273ef51537087e621abc705beb]
 
 (1) An auditor of court—
 
@@ -345,7 +345,7 @@ as the SCTS may determine.
 - (a) tax an account of expenses remitted to any auditor of the sheriff court by a court or tribunal,
 - (b) exercise the functions of that office in any sheriffdom.
 
-### 17. Auditors unable to tax account[^key-d9e4a1646ae649350813674fbc194663]
+### 17. Auditors unable to tax account[^c-d9e4a1646ae649350813674fbc194663]
 
 (1) Where an account of expenses remitted by a court or tribunal for taxation cannot be taxed by an auditor of court—
 
@@ -359,7 +359,7 @@ as the SCTS may determine.
   - (i) remuneration in respect of the taxation,
   - (ii) reimbursement of expenses reasonably incurred by the person in connection with the taxation.
 
-### 18. Guidance[^key-cc7e777d00547468ccecd4172fbeb597]
+### 18. Guidance[^c-cc7e777d00547468ccecd4172fbeb597]
 
 (1) The Auditor of the Court of Session must issue guidance to the auditors of court about the exercise of their functions.
 
@@ -376,7 +376,7 @@ as the SCTS may determine.
 
 (6) The Auditor of the Court of Session may, from time to time, issue revised guidance (and the references to guidance in subsections (2) to (5) include references to any revised guidance).
 
-### 19. Reports[^key-49b934868b0febebd96bc4c9b3d64920]
+### 19. Reports[^c-49b934868b0febebd96bc4c9b3d64920]
 
 (1) The Scottish Courts and Tribunals Service (“the SCTS”) must publish, for each financial year, a report setting out the information mentioned in subsection (2) in relation to—
 
@@ -402,46 +402,46 @@ as the SCTS may determine.
 
 ### 20. Group proceedings
 
-(1)[^key-aca00670bd6d402b95d4b1c6778a6fbd] There is to be a form of procedure in the Court of Session known as “group procedure”, and proceedings subject to that procedure are to be known as “**group proceedings**”.
+(1)[^c-aca00670bd6d402b95d4b1c6778a6fbd] There is to be a form of procedure in the Court of Session known as “group procedure”, and proceedings subject to that procedure are to be known as “**group proceedings**”.
 
-(2)[^key-aca00670bd6d402b95d4b1c6778a6fbd] A person (a “representative party”) may bring group proceedings on behalf of two or more persons (a “group”) each of whom has a separate claim which may be the subject of civil proceedings.
+(2)[^c-aca00670bd6d402b95d4b1c6778a6fbd] A person (a “representative party”) may bring group proceedings on behalf of two or more persons (a “group”) each of whom has a separate claim which may be the subject of civil proceedings.
 
-(3)[^key-aca00670bd6d402b95d4b1c6778a6fbd] A person may be a representative party in group proceedings—
+(3)[^c-aca00670bd6d402b95d4b1c6778a6fbd] A person may be a representative party in group proceedings—
 
 - (a) whether or not the person is a member of the group on whose behalf the proceedings are brought,
 - (b) only if so authorised by the Court.
 
-(4)[^key-aca00670bd6d402b95d4b1c6778a6fbd] There is to be no more than one representative party in group proceedings.
+(4)[^c-aca00670bd6d402b95d4b1c6778a6fbd] There is to be no more than one representative party in group proceedings.
 
-(5)[^key-aca00670bd6d402b95d4b1c6778a6fbd] Group proceedings may be brought only with the permission of the Court.
+(5)[^c-aca00670bd6d402b95d4b1c6778a6fbd] Group proceedings may be brought only with the permission of the Court.
 
-(6)[^key-aca00670bd6d402b95d4b1c6778a6fbd] The Court may give permission—
+(6)[^c-aca00670bd6d402b95d4b1c6778a6fbd] The Court may give permission—
 
 - (a) only if it considers that all of the claims made in the proceedings raise issues (whether of fact or law) which are the same as, or similar or related to, each other,
 - (b) only if it is satisfied that the representative party has made all reasonable efforts to identify and notify all potential members of the group about the proceedings, and
 - (c) in accordance with provision made in an act of sederunt under section 21(1).
 
-(7)[^key-dbc8b92c89bfa41eb4d17b6c13793a03] An act of sederunt under section 21(1) may provide for group proceedings to be brought as—
+(7)[^c-dbc8b92c89bfa41eb4d17b6c13793a03] An act of sederunt under section 21(1) may provide for group proceedings to be brought as—
 
 - (a) opt-in proceedings,
 - (b) opt-out proceedings, or
 - (c) either opt-in proceedings or opt-out proceedings.
 
-(8)[^key-dbc8b92c89bfa41eb4d17b6c13793a03] In subsection (7)—
+(8)[^c-dbc8b92c89bfa41eb4d17b6c13793a03] In subsection (7)—
 
 - (a) “opt-in proceedings” are group proceedings which are brought with the express consent of each member of the group on whose behalf they are brought,
 - (b) “opt-out proceedings” are group proceedings which are brought on behalf of a group, each member of which has a claim which is of a description specified by the Court as being eligible to be brought in the proceedings and—
   - (i) is domiciled in Scotland and has not given notice that the member does not consent to the claim being brought in the proceedings, or
   - (ii) is not domiciled in Scotland and has given express consent to the claim being brought in the proceedings.
 
-(9)[^key-aca00670bd6d402b95d4b1c6778a6fbd] In group proceedings, the representative party may—
+(9)[^c-aca00670bd6d402b95d4b1c6778a6fbd] In group proceedings, the representative party may—
 
 - (a) make claims on behalf of the members of the group,
 - (b) subject to provision made in an act of sederunt under section 21(1), do anything else in relation to those claims that the members would have been able to do had the members made the claims in other civil proceedings.
 
-(10)[^key-aca00670bd6d402b95d4b1c6778a6fbd] Section 11 of the Court of Session Act 1988 (jury actions) does not apply to group proceedings.
+(10)[^c-aca00670bd6d402b95d4b1c6778a6fbd] Section 11 of the Court of Session Act 1988 (jury actions) does not apply to group proceedings.
 
-### 21. Group procedure: rules[^key-e95a5aec24ba77ef550e4b0e7d5f6514]
+### 21. Group procedure: rules[^c-e95a5aec24ba77ef550e4b0e7d5f6514]
 
 (1) The Court of Session may make provision by act of sederunt about group procedure.
 
@@ -476,7 +476,7 @@ as the SCTS may determine.
 
 (6) In subsection (2), “**representative party**” is to be construed in accordance with section 20(2).
 
-### 22. Group proceedings: further provision[^key-c17a8698901c899f420b464bcb155dc1]
+### 22. Group proceedings: further provision[^c-c17a8698901c899f420b464bcb155dc1]
 
 (1) The Scottish Ministers may by regulations make further provision in connection with group proceedings.
 
@@ -566,11 +566,11 @@ The short title of this Act is the Civil Litigation (Expenses and Group Proceedi
 
 ### Court of Session Act 1821
 
-**1.**[^key-90031ebeef38b3db8adbac2054c23f53] The Court of Session Act 1821 is repealed.
+**1.**[^c-90031ebeef38b3db8adbac2054c23f53] The Court of Session Act 1821 is repealed.
 
 ### Courts of Law Fees (Scotland) Act 1895
 
-**2.**[^key-0566e9b912bf68c464dd735e649affc8] (1) The Courts of Law Fees (Scotland) Act 1895 is amended in accordance with this paragraph.
+**2.**[^c-0566e9b912bf68c464dd735e649affc8] (1) The Courts of Law Fees (Scotland) Act 1895 is amended in accordance with this paragraph.
 
 (2) In section 3 (taxation of accounts in High Court of Justiciary)—
 
@@ -601,7 +601,7 @@ The short title of this Act is the Civil Litigation (Expenses and Group Proceedi
 
 ### Administration of Justice (Scotland) Act 1933
 
-**3.**[^key-f5e93b9d13114ebe472b69a3349ce4e9] The following provisions of the Administration of Justice (Scotland) Act 1933 are repealed—
+**3.**[^c-f5e93b9d13114ebe472b69a3349ce4e9] The following provisions of the Administration of Justice (Scotland) Act 1933 are repealed—
 
 - (a) section 25(2),
 - (b) section 26,
@@ -610,7 +610,7 @@ The short title of this Act is the Civil Litigation (Expenses and Group Proceedi
 
 ### Solicitors (Scotland) Act 1980
 
-**4.**[^key-61a138b54d666867a9250a55e736caaf] In the Solicitors (Scotland) Act 1980, in section 51(3) (complaints to the Scottish Solicitors' Discipline Tribunal), after paragraph (c) insert—
+**4.**[^c-61a138b54d666867a9250a55e736caaf] In the Solicitors (Scotland) Act 1980, in section 51(3) (complaints to the Scottish Solicitors' Discipline Tribunal), after paragraph (c) insert—
 
 > - (ca) the auditor of the Sheriff Appeal Court,
 
@@ -618,11 +618,11 @@ The short title of this Act is the Civil Litigation (Expenses and Group Proceedi
 
 ### Law Reform (Miscellaneous Provisions) (Scotland) Act 1990
 
-**5.**[^key-5161d90351ccb402741057507c99c9bb] In the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990, section 36(4) is repealed.
+**5.**[^c-5161d90351ccb402741057507c99c9bb] In the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990, section 36(4) is repealed.
 
 ### Legal Profession and Legal Aid (Scotland) Act 2007
 
-**6.**[^key-ac2b918339ca108f22b30066ca8a4ad5] In the Legal Profession and Legal Aid (Scotland) Act 2007, in section 2(2)(b) (receipt of complaints by Scottish Legal Complaints Commission: preliminary steps), after sub-paragraph (v) insert—
+**6.**[^c-ac2b918339ca108f22b30066ca8a4ad5] In the Legal Profession and Legal Aid (Scotland) Act 2007, in section 2(2)(b) (receipt of complaints by Scottish Legal Complaints Commission: preliminary steps), after sub-paragraph (v) insert—
 
 > - (va) the auditor of the Sheriff Appeal Court,
 
@@ -630,62 +630,62 @@ The short title of this Act is the Civil Litigation (Expenses and Group Proceedi
 
 ## Annotations
 
-[^key-a1daa4fe2ba8c9dff0cc3cdb2a0c7661]: Commencement: S. 1 in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
+[^c-a1daa4fe2ba8c9dff0cc3cdb2a0c7661]: Commencement: S. 1 in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
 
-[^key-2b3dcc19dc4c8de468d8f4ffbf1d212b]: Commencement: S. 2 in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
+[^c-2b3dcc19dc4c8de468d8f4ffbf1d212b]: Commencement: S. 2 in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
 
-[^key-6b4eb55c491b12c34807dd0a50d90f74]: Commencement: S. 3 in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
+[^c-6b4eb55c491b12c34807dd0a50d90f74]: Commencement: S. 3 in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
 
-[^key-9f3f23bd48af3bc7153a34de0bfc59e8]: Commencement: S. 4(1)(2) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/a)
+[^c-9f3f23bd48af3bc7153a34de0bfc59e8]: Commencement: S. 4(1)(2) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/a)
 
-[^key-6492a64cb73ff431b81b39659424a216]: Commencement: S. 4(3)-(5) in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
+[^c-6492a64cb73ff431b81b39659424a216]: Commencement: S. 4(3)-(5) in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
 
-[^key-de00a33f82ed24eb58643a57e64cee4b]: Commencement: S. 5 in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/b)
+[^c-de00a33f82ed24eb58643a57e64cee4b]: Commencement: S. 5 in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/b)
 
 [^M_I_1a490726-de91-4388-c865-0ad50ed3fdcb]: Commencement: S. 6(1)-(7)(9)(10) in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
 
-[^key-e22761d5f82d0f485eae12512297ebb3]: Commencement: S. 6(8) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/c)
+[^c-e22761d5f82d0f485eae12512297ebb3]: Commencement: S. 6(8) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/c)
 
-[^key-d5df7d2f1cba7164b05610809b68d26f]: Commencement: S. 7(1)(2) in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
+[^c-d5df7d2f1cba7164b05610809b68d26f]: Commencement: S. 7(1)(2) in force at 27.4.2020 by [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23), [reg. 2](https://www.legislation.gov.uk/ssi/2020/23/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/23/regulation/3))
 
-[^key-42d49dbc21f0bf247a06dc5dd7911099]: Commencement: S. 7(3)(4) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/d)
+[^c-42d49dbc21f0bf247a06dc5dd7911099]: Commencement: S. 7(3)(4) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/d)
 
-[^key-10db2f6df3d1601d3a38072c9bdbe269]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/10/section/8) in force at 30.6.2021 by [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))
+[^c-10db2f6df3d1601d3a38072c9bdbe269]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/10/section/8) in force at 30.6.2021 by [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))
 
-[^key-99b92ab3d22d0a0eed616667b8f45d4c]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/asp/2018/10/section/12/1)[(3)](https://www.legislation.gov.uk/asp/2018/10/section/12/3)[(4)](https://www.legislation.gov.uk/asp/2018/10/section/12/4) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/e)
+[^c-99b92ab3d22d0a0eed616667b8f45d4c]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/asp/2018/10/section/12/1)[(3)](https://www.legislation.gov.uk/asp/2018/10/section/12/3)[(4)](https://www.legislation.gov.uk/asp/2018/10/section/12/4) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/e)
 
-[^key-a09a139893055a9e9194a4c586606a3e]: Commencement: [S. 12(2)](https://www.legislation.gov.uk/asp/2018/10/section/12/2) in force at 30.6.2021 by [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))
+[^c-a09a139893055a9e9194a4c586606a3e]: Commencement: [S. 12(2)](https://www.legislation.gov.uk/asp/2018/10/section/12/2) in force at 30.6.2021 by [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))
 
-[^key-48eab0a05c05065e9edbc4d7440a5a14]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/10/section/13) in force at 30.6.2021 by [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))
+[^c-48eab0a05c05065e9edbc4d7440a5a14]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/10/section/13) in force at 30.6.2021 by [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))
 
-[^key-432511375542c89818189ea19d1c52b5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/10/section/14) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/f) (with [regs. 3(3)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/3), [4](https://www.legislation.gov.uk/ssi/2018/368/regulation/4), [5](https://www.legislation.gov.uk/ssi/2018/368/regulation/5))
+[^c-432511375542c89818189ea19d1c52b5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/10/section/14) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/f) (with [regs. 3(3)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/3), [4](https://www.legislation.gov.uk/ssi/2018/368/regulation/4), [5](https://www.legislation.gov.uk/ssi/2018/368/regulation/5))
 
-[^key-cf108aa7e568d7456cda398f704cf984]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2018/10/section/15) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/g) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/3))
+[^c-cf108aa7e568d7456cda398f704cf984]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2018/10/section/15) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/g) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/3))
 
-[^key-8fe9eb273ef51537087e621abc705beb]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/10/section/16) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/h)
+[^c-8fe9eb273ef51537087e621abc705beb]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/10/section/16) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/h)
 
-[^key-d9e4a1646ae649350813674fbc194663]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2018/10/section/17) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/i)
+[^c-d9e4a1646ae649350813674fbc194663]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2018/10/section/17) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/i)
 
-[^key-cc7e777d00547468ccecd4172fbeb597]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2018/10/section/18) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/j)
+[^c-cc7e777d00547468ccecd4172fbeb597]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2018/10/section/18) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/j)
 
-[^key-49b934868b0febebd96bc4c9b3d64920]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2018/10/section/19) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/k) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/368/regulation/6))
+[^c-49b934868b0febebd96bc4c9b3d64920]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2018/10/section/19) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/k) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/368/regulation/6))
 
-[^key-aca00670bd6d402b95d4b1c6778a6fbd]: Commencement: S. 20(1)-(6)(9)(10) in force at 31.7.2020 by [S.S.I. 2020/167](https://www.legislation.gov.uk/ssi/2020/167), [reg. 2](https://www.legislation.gov.uk/ssi/2020/167/regulation/2)
+[^c-aca00670bd6d402b95d4b1c6778a6fbd]: Commencement: S. 20(1)-(6)(9)(10) in force at 31.7.2020 by [S.S.I. 2020/167](https://www.legislation.gov.uk/ssi/2020/167), [reg. 2](https://www.legislation.gov.uk/ssi/2020/167/regulation/2)
 
-[^key-dbc8b92c89bfa41eb4d17b6c13793a03]: Commencement: S. 20(7)(8) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/l)
+[^c-dbc8b92c89bfa41eb4d17b6c13793a03]: Commencement: S. 20(7)(8) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/l)
 
-[^key-e95a5aec24ba77ef550e4b0e7d5f6514]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2018/10/section/21) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/m)
+[^c-e95a5aec24ba77ef550e4b0e7d5f6514]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2018/10/section/21) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/m)
 
-[^key-c17a8698901c899f420b464bcb155dc1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2018/10/section/22) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/n)
+[^c-c17a8698901c899f420b464bcb155dc1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2018/10/section/22) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/n)
 
-[^key-90031ebeef38b3db8adbac2054c23f53]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/1) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/2))
+[^c-90031ebeef38b3db8adbac2054c23f53]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/1) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/2))
 
-[^key-0566e9b912bf68c464dd735e649affc8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/2) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
+[^c-0566e9b912bf68c464dd735e649affc8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/2) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
 
-[^key-f5e93b9d13114ebe472b69a3349ce4e9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/3) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/2))
+[^c-f5e93b9d13114ebe472b69a3349ce4e9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/3) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2018/368/regulation/3/2))
 
-[^key-61a138b54d666867a9250a55e736caaf]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/4) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
+[^c-61a138b54d666867a9250a55e736caaf]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/4) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
 
-[^key-5161d90351ccb402741057507c99c9bb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/5) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
+[^c-5161d90351ccb402741057507c99c9bb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/5) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
 
-[^key-ac2b918339ca108f22b30066ca8a4ad5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/6) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
+[^c-ac2b918339ca108f22b30066ca8a4ad5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/6) in force at 30.1.2019 by [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)

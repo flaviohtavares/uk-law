@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Changes to, and revocation of, development consent orders[^key-506fdab41a041387bd5b12be0334913f]
+## 12. Changes to, and revocation of, development consent orders[^c-506fdab41a041387bd5b12be0334913f]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-506fdab41a041387bd5b12be0334913f]: Commencement: S. 12 not in force at Royal Assent, see [s. 118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e)
+[^c-506fdab41a041387bd5b12be0334913f]: Commencement: S. 12 not in force at Royal Assent, see [s. 118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e)

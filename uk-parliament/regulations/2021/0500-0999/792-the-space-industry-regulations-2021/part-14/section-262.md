@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Disclosure required under legislation[^key-44219e3e2b766badda69aaa6223534b1]
+## 262. Disclosure required under legislation[^c-44219e3e2b766badda69aaa6223534b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ Regulation 255 does not prohibit a disclosure of protected information which is 
 
 ## Annotations
 
-[^key-44219e3e2b766badda69aaa6223534b1]: Commencement: Reg. 262 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-44219e3e2b766badda69aaa6223534b1]: Commencement: Reg. 262 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00070]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 

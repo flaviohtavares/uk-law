@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368. Parenting order where parent or guardian of offender fails to attend meetings of youth offender panel[^key-61039ba3525eb155fda3a31344ec43e5]
+## 368. Parenting order where parent or guardian of offender fails to attend meetings of youth offender panel[^c-61039ba3525eb155fda3a31344ec43e5]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the court may provide in the order that a counselling or guidance programme whic
 
 ## Annotations
 
-[^key-61039ba3525eb155fda3a31344ec43e5]: Commencement: [S. 368](https://www.legislation.gov.uk/ukpga/2020/17/section/368) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-61039ba3525eb155fda3a31344ec43e5]: Commencement: [S. 368](https://www.legislation.gov.uk/ukpga/2020/17/section/368) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

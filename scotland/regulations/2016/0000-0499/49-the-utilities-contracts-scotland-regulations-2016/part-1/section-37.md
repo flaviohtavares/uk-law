@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Confidentiality[^key-b9568aead3fcb45cdd8ddcd6ab17e3be]
+## 37. Confidentiality[^c-b9568aead3fcb45cdd8ddcd6ab17e3be]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b9568aead3fcb45cdd8ddcd6ab17e3be]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2016/49/regulation/37) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-b9568aead3fcb45cdd8ddcd6ab17e3be]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2016/49/regulation/37) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00036]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
 

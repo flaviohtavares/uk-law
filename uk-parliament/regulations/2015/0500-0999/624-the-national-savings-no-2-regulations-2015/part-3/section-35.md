@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Application by holders of stock to be described in register as trustees[^key-2c9d249fabc07b403b9c9150fb3c2057]
+## 35. Application by holders of stock to be described in register as trustees[^c-2c9d249fabc07b403b9c9150fb3c2057]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ by reason of an entry in the register in relation to any stock or any holder, or
 
 ## Annotations
 
-[^key-2c9d249fabc07b403b9c9150fb3c2057]: Commencement: Reg. 35 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-2c9d249fabc07b403b9c9150fb3c2057]: Commencement: Reg. 35 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

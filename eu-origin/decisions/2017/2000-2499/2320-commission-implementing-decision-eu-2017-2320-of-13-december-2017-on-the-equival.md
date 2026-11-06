@@ -33,7 +33,7 @@ on the equivalence of the legal and supervisory framework of the United States o
 
 (Text with EEA relevance)
 
-[^key-76e7ed7ece9614356cbf1ccf4c6321de]
+[^c-76e7ed7ece9614356cbf1ccf4c6321de]
 
 THE EUROPEAN COMMISSION,
 
@@ -185,7 +185,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** For the purposes of Article 23(1) of Regulation (EU) No 600/2014 the legal and supervisory framework in the United States of America applicable to national securities exchanges and alternative trading systems registered with the Securities and Exchange Commission as set out in the Annex to this Decision shall be considered—[^key-fe531e08984a9149a9b85e95c78ce81e]
+**Article 1.** For the purposes of Article 23(1) of Regulation (EU) No 600/2014 the legal and supervisory framework in the United States of America applicable to national securities exchanges and alternative trading systems registered with the Securities and Exchange Commission as set out in the Annex to this Decision shall be considered—[^c-fe531e08984a9149a9b85e95c78ce81e]
 
 - (a) to be equivalent to the requirements for UK regulated markets as defined in Regulation (EU) 600/2014, resulting from—
   - (i) Regulation (EU) 596/2014;
@@ -205,7 +205,7 @@ Jean-Claude Juncker
 
 ## ANNEX
 
-National securities exchanges registered with the US Securities and Exchange Commission and considered equivalent to UK regulated markets as defined in Regulation (EU) 600/2014[^key-c4e55d0fffc011ca7115dd1bd15fd934]:
+National securities exchanges registered with the US Securities and Exchange Commission and considered equivalent to UK regulated markets as defined in Regulation (EU) 600/2014[^c-c4e55d0fffc011ca7115dd1bd15fd934]:
 
 - ((a)) BOX Options Exchange LLC
 - ((b)) Cboe BYX Exchange, Inc. (formerly Bats BYX Exchange, Inc.; BATS Y-Exchange, Inc.)
@@ -267,7 +267,7 @@ Alternative trading systems registered with the US Securities and Exchange Commi
 
 ## Annotations
 
-[^key-76e7ed7ece9614356cbf1ccf4c6321de]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-76e7ed7ece9614356cbf1ccf4c6321de]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 173 12.6.2014, p. 349](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0349.01.ENG)
 
@@ -277,6 +277,6 @@ Alternative trading systems registered with the US Securities and Exchange Commi
 
 [^f00004]: Footnote: Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC ([OJ L 390, 31.12.2004, p. 38](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.390.01.0038.01.ENG)).
 
-[^key-fe531e08984a9149a9b85e95c78ce81e]: Textual amendment: Words in Art. 1 substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/1/a) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 29(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/29/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe531e08984a9149a9b85e95c78ce81e]: Textual amendment: Words in Art. 1 substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/1/a) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 29(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/29/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4e55d0fffc011ca7115dd1bd15fd934]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2017/2320/annex) substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4e55d0fffc011ca7115dd1bd15fd934]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2017/2320/annex) substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/2/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

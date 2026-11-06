@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Information to be given on taking of material[^key-8d7f42e7ef318ec656b85625a0a28234]
+## 4. Information to be given on taking of material[^c-8d7f42e7ef318ec656b85625a0a28234]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7f42e7ef318ec656b85625a0a28234]: Commencement: S. 4 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-8d7f42e7ef318ec656b85625a0a28234]: Commencement: S. 4 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)

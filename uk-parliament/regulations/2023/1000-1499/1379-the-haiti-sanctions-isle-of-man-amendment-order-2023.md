@@ -31,7 +31,7 @@ summary: ''
 
 Sanctions
 
-The Haiti (Sanctions) (Isle of Man) (Amendment) Order 2023 (revoked)[^key-cb8c8d08e8f409f323a5b548e4f07a37]
+The Haiti (Sanctions) (Isle of Man) (Amendment) Order 2023 (revoked)[^c-cb8c8d08e8f409f323a5b548e4f07a37]
 
 Made
 
@@ -47,40 +47,40 @@ Present,
 
 The King’s Most Excellent Majesty in Council
 
-[^key-cb8c8d08e8f409f323a5b548e4f07a37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb8c8d08e8f409f323a5b548e4f07a37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-cb8c8d08e8f409f323a5b548e4f07a37]
+## 1. Citation, commencement and extent[^c-cb8c8d08e8f409f323a5b548e4f07a37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Haiti (Sanctions) (Isle of Man) Order 2022[^key-cb8c8d08e8f409f323a5b548e4f07a37]
+## 2. Amendment of the Haiti (Sanctions) (Isle of Man) Order 2022[^c-cb8c8d08e8f409f323a5b548e4f07a37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-cb8c8d08e8f409f323a5b548e4f07a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb8c8d08e8f409f323a5b548e4f07a37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb8c8d08e8f409f323a5b548e4f07a37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cb8c8d08e8f409f323a5b548e4f07a37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb8c8d08e8f409f323a5b548e4f07a37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb8c8d08e8f409f323a5b548e4f07a37]: Textual amendment: Order revoked (3.10.2024) by [The Sanctions (Isle of Man) (Revocations) Order 2024 (S.I. 2024/985)](https://www.legislation.gov.uk/uksi/2024/985), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/985/article/1/1), [2(f)](https://www.legislation.gov.uk/uksi/2024/985/article/2/f)
+[^c-cb8c8d08e8f409f323a5b548e4f07a37]: Textual amendment: Order revoked (3.10.2024) by [The Sanctions (Isle of Man) (Revocations) Order 2024 (S.I. 2024/985)](https://www.legislation.gov.uk/uksi/2024/985), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/985/article/1/1), [2(f)](https://www.legislation.gov.uk/uksi/2024/985/article/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. The signing sheet[^key-43880c1cd7d04c4782ef52abeba5dee9]
+## 10. The signing sheet[^c-43880c1cd7d04c4782ef52abeba5dee9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43880c1cd7d04c4782ef52abeba5dee9]: Commencement: Reg. 10 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-43880c1cd7d04c4782ef52abeba5dee9]: Commencement: Reg. 10 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

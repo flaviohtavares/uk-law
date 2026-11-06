@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Exercise by Special Health Authority of functions under section 46(1)(b)[^key-fa28aab7188a3cd0f3dc29130e472390]
+## 47. Exercise by Special Health Authority of functions under section 46(1)(b)[^c-fa28aab7188a3cd0f3dc29130e472390]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa28aab7188a3cd0f3dc29130e472390]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2017/16/section/47) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/g)
+[^c-fa28aab7188a3cd0f3dc29130e472390]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2017/16/section/47) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/g)

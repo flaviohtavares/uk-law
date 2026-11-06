@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 220. Principal court rules and practice to apply[^key-a5bf97793e0654a41366fb12ebac74eb]
+## 220. Principal court rules and practice to apply[^c-a5bf97793e0654a41366fb12ebac74eb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5bf97793e0654a41366fb12ebac74eb]: Commencement: Rule 220 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-a5bf97793e0654a41366fb12ebac74eb]: Commencement: Rule 220 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

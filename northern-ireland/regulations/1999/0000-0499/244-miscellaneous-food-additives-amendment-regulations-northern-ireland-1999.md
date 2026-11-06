@@ -40,17 +40,17 @@ Coming into operation
 
 The Department of Health and Social Services and the Department of Agriculture being the Departments concerned[^f00001] in exercise of the powers conferred on them by Articles 15(1)(a), 16(1), 25(1) and (3), 26(3) and 47(2) of, and paragraph 1 of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling them in that behalf, hereby make the following Regulations, after consultation in accordance with Article 47(3) of the said Order with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations:
 
-## 1. Citation, commencement and interpretation[^key-92248ed2bfffd70bbe6a8aaf08972f2d]
+## 1. Citation, commencement and interpretation[^c-92248ed2bfffd70bbe6a8aaf08972f2d]
 
 (1) These Regulations may be cited as the Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 13th July 1999.
 
 (2) In these Regulations “the principal Regulations” means the Miscellaneous Food Additives Regulations (Northern Ireland) 1996[^f00003].
 
-## 2. Amendment of the principal Regulations[^key-c2445fc0e413ed91acfd9d9370082fd2]
+## 2. Amendment of the principal Regulations[^c-c2445fc0e413ed91acfd9d9370082fd2]
 
 The principal Regulations shall be amended in accordance with regulations 3 to 13.
 
-**3.**[^key-d9137f3c91edbd91b47f1756144ff15f] In regulation 2(1) (interpretation)—
+**3.**[^c-d9137f3c91edbd91b47f1756144ff15f] In regulation 2(1) (interpretation)—
 
 - (a) in the definition of “Directive [95/2/EC](https://www.legislation.gov.uk/european/directive/1995/0002)” there shall be inserted at the end “and European Parliament and Council Directive [98/72/EC](https://www.legislation.gov.uk/european/directive/1998/0072)[^f00004]”;
 - (b) in the definition of “Directive [96/77/EC](https://www.legislation.gov.uk/european/directive/1996/0077)” there shall be inserted at the end “, as amended by Commission Directive [98/86/EC](https://www.legislation.gov.uk/european/directive/1998/0086)[^f00005]”;
@@ -63,9 +63,9 @@ The principal Regulations shall be amended in accordance with regulations 3 to 1
   - (i) after “flavour enhancer”, there shall be inserted “flour treatment agent,”;
   - (ii) there shall be inserted at the end “or any enzyme except invertase or lysozyme”.
 
-**4.**[^key-4d1fd6a57a8da4c82349467089cfe6c9] In regulation 3(4) (use of miscellaneous additives) for “Notes 1 and 3” there shall be substituted “Notes 1, 3 and 4”.
+**4.**[^c-4d1fd6a57a8da4c82349467089cfe6c9] In regulation 3(4) (use of miscellaneous additives) for “Notes 1 and 3” there shall be substituted “Notes 1, 3 and 4”.
 
-**5.**[^key-a73e411c71f06ecc5d10abb8688b317b] In regulation 11 (transitional provisions and exemptions) there shall be inserted after paragraph (1A) the following paragraph—
+**5.**[^c-a73e411c71f06ecc5d10abb8688b317b] In regulation 11 (transitional provisions and exemptions) there shall be inserted after paragraph (1A) the following paragraph—
 
 > (1B) In any proceedings for an offence against these Regulations in respect of any food additive or food, it shall be a defence to prove that—
 >
@@ -74,7 +74,7 @@ The principal Regulations shall be amended in accordance with regulations 3 to 1
 
 .
 
-**6.**[^key-261a2384d724e0fc335c62ae8ce9580c] In Schedule 1 (miscellaneous additives generally permitted for use in foods not referred to in Schedule 6, 7 or 8)—
+**6.**[^c-261a2384d724e0fc335c62ae8ce9580c] In Schedule 1 (miscellaneous additives generally permitted for use in foods not referred to in Schedule 6, 7 or 8)—
 
 - (a) after note (3) there shall be inserted—
 
@@ -107,7 +107,7 @@ The principal Regulations shall be amended in accordance with regulations 3 to 1
 
   .
 
-**7.**[^key-09ba293d0f7f328f78fc7801042c9762] In Schedule 2 (conditionally permitted preservatives and antioxidants)—
+**7.**[^c-09ba293d0f7f328f78fc7801042c9762] In Schedule 2 (conditionally permitted preservatives and antioxidants)—
 
 - (a) in Part A (sorbates, benzoates and p-hydroxybenzoates) in the second table—
   - (i) there shall be substituted for the entry relating to olives and olive-based preparations the following entry—
@@ -212,9 +212,9 @@ The principal Regulations shall be amended in accordance with regulations 3 to 1
     ;
 - (d) in Part D (other antioxidants) in the table there shall be substituted in column 3 for “De-hydrated granulated potatoes” the words “Dehydrated potatoes”.
 
-**8.**[^key-25a60fb848b3ed490b167b29ba802a8f] There shall be substituted for Schedule 3 (other permitted miscellaneous additives) Schedule 1 to these Regulations.
+**8.**[^c-25a60fb848b3ed490b167b29ba802a8f] There shall be substituted for Schedule 3 (other permitted miscellaneous additives) Schedule 1 to these Regulations.
 
-**9.**[^key-085fe6a0638e19faa4a19e45b106fb13] In Schedule 4 (permitted carriers and carrier solvents) in the table there shall be inserted at the end the following entries—
+**9.**[^c-085fe6a0638e19faa4a19e45b106fb13] In Schedule 4 (permitted carriers and carrier solvents) in the table there shall be inserted at the end the following entries—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -228,19 +228,19 @@ The principal Regulations shall be amended in accordance with regulations 3 to 1
 
 .
 
-**10.**[^key-e9e30fa8412056b9ab0118bb00650111] In Schedule 5 (purity criteria)—
+**10.**[^c-e9e30fa8412056b9ab0118bb00650111] In Schedule 5 (purity criteria)—
 
 - (a) the entries relating to the miscellaneous additives listed in Schedule 2 to these Regulations shall be omitted;
 - (b) in the entry relating to Propane-1,2-diol (propylene glycol) there shall be substituted for “Directive [78/663/EEC](https://www.legislation.gov.uk/european/directive/1978/0663)” the words “Directive [78/664/EEC](https://www.legislation.gov.uk/european/directive/1978/0664)[^f00008]”.
 
-**11.**[^key-19bee77f404b6284fa6690bece83ebbf] In Schedule 6 (foods in which miscellaneous additives listed in Schedule 1 are generally prohibited)—
+**11.**[^c-19bee77f404b6284fa6690bece83ebbf] In Schedule 6 (foods in which miscellaneous additives listed in Schedule 1 are generally prohibited)—
 
 - (a) there shall be substituted for the words from “Pasteurised and sterilised” to the words “and semi-skimmed)” the words “Pasteurised and sterilised (including UHT) milk (including plain, skimmed and semi-skimmed) and plain pasteurised cream”;
 - (b) after the words “Dry pasta” there shall be inserted the words, “, excluding gluten-free pasta or pasta intended for hypoproteic diets, in accordance with Directive [89/398/EEC](https://www.legislation.gov.uk/european/directive/1989/0398)[^f00009]”.
 
-**12.**[^key-7a0bbe72499276e90d107c418b254e0c] There shall be substituted for Schedule 7 (foods in which a limited number of miscellaneous additives listed in Schedule 1 may be used) Schedule 3 to these Regulations.
+**12.**[^c-7a0bbe72499276e90d107c418b254e0c] There shall be substituted for Schedule 7 (foods in which a limited number of miscellaneous additives listed in Schedule 1 may be used) Schedule 3 to these Regulations.
 
-**13.**[^key-62a1f3e7888d5afb8434e0fcbab796b0] In Schedule 8 (miscellaneous additives permitted in foods for infants and young children)—
+**13.**[^c-62a1f3e7888d5afb8434e0fcbab796b0] In Schedule 8 (miscellaneous additives permitted in foods for infants and young children)—
 
 - (a) there shall be substituted for the first introductory note the following introductory notes—
 
@@ -322,20 +322,20 @@ The principal Regulations shall be amended in accordance with regulations 3 to 1
 
   .
 
-## 14. Consequential amendments[^key-8e175ab3447c118ee2a90ad66e198ae8]
+## 14. Consequential amendments[^c-8e175ab3447c118ee2a90ad66e198ae8]
 
 (1) In the following Regulations references to the Miscellaneous Food Additives Regulations (Northern Ireland) 1996 shall be construed as references to those Regulations as amended by the Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 1997[^f00012] and these Regulations:
 
 - the Mineral Hydrocarbons in Food Regulations (Northern Ireland) 1966[^f00013];
-- [^key-f28c17c1a309d389f4f59455b7226ce7]...
-- [^key-e985a757d867f6c27c50592f25834172]...
+- [^c-f28c17c1a309d389f4f59455b7226ce7]...
+- [^c-e985a757d867f6c27c50592f25834172]...
 - the Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 1977[^f00016];
-- [^key-f59e7b8af280543b8384497a716056a6]...
+- [^c-f59e7b8af280543b8384497a716056a6]...
 - the Coffee and Coffee Products Regulations (Northern Ireland) 1979[^f00018];
 - the Jam and Similar Products Regulations (Northern Ireland) 1982[^f00019];
 - the Meat Products and Spreadable Fish Products Regulations (Northern Ireland) 1984[^f00020];
 - the Food Additives Labelling Regulations (Northern Ireland) 1992[^f00021];
-- [^key-bed0733ada5c68dd4b5ec179346e9a3a]...
+- [^c-bed0733ada5c68dd4b5ec179346e9a3a]...
 
 (2) In the Food Additives Labelling Regulations (Northern Ireland) 1992—
 
@@ -350,7 +350,7 @@ The principal Regulations shall be amended in accordance with regulations 3 to 1
   - (i) paragraph (s) shall be omitted; and
   - (ii) in paragraph (t) there shall be inserted at the beginning the words ““flour treatment agent”,” and there shall be inserted after the words “used as a” the words “flour treatment agent,”.
 
-(3)[^key-55974493d7af777de23c906e59321ae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-55974493d7af777de23c906e59321ae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the Bread and Flour Regulations (Northern Ireland) 1998[^f00023]—
 
@@ -377,7 +377,7 @@ Assistant Secretary
 
 25th May 1999.
 
-## SCHEDULE 1 — Containing new Schedule 3 to the principal Regulations[^key-d9b7ca01fd0c1966c1257a9da597e164]
+## SCHEDULE 1 — Containing new Schedule 3 to the principal Regulations[^c-d9b7ca01fd0c1966c1257a9da597e164]
 
 Regulation 8
 
@@ -745,7 +745,7 @@ Regulation 8
 >
 > [^f00024][^f01005][^f00025][^f01006][^f01007][^f01008][^f01008][^f01009][^f01010][^f01010][^f01011][^f01011]
 
-## SCHEDULE 2 — Miscellaneous Additives for which specific purity criteria specified or referred to in Schedule 5 to the Principal Regulations are omitted[^key-2a81dfe672ce031734c520a34d734adb]
+## SCHEDULE 2 — Miscellaneous Additives for which specific purity criteria specified or referred to in Schedule 5 to the Principal Regulations are omitted[^c-2a81dfe672ce031734c520a34d734adb]
 
 Regulation 10(a)
 
@@ -814,7 +814,7 @@ Regulation 10(a)
 | E 495 | Sorbitan monopalmitate |
 | E 508 | Potassium chloride |
 
-## SCHEDULE 3 — Containing new Schedule 7 to the Principal Regulations[^key-77f21b2075d02ca4082c7a81ce252c50]
+## SCHEDULE 3 — Containing new Schedule 7 to the Principal Regulations[^c-77f21b2075d02ca4082c7a81ce252c50]
 
 Regulation 12
 
@@ -1075,27 +1075,27 @@ The Regulations also make consequential amendments to other legislation (regulat
 
 [^f00002]: Footnote: [S.I. 1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
 
-[^key-92248ed2bfffd70bbe6a8aaf08972f2d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/244/regulation/1) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-92248ed2bfffd70bbe6a8aaf08972f2d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/244/regulation/1) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 50](https://www.legislation.gov.uk/nisr/1996/50) as amended by [S.R. 1997 No. 340](https://www.legislation.gov.uk/nisr/1997/340)
 
-[^key-c2445fc0e413ed91acfd9d9370082fd2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/244/regulation/2) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-c2445fc0e413ed91acfd9d9370082fd2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/244/regulation/2) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
-[^key-d9137f3c91edbd91b47f1756144ff15f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/244/regulation/3) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-d9137f3c91edbd91b47f1756144ff15f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/244/regulation/3) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00004]: Footnote: O.J. No. L295, 4.11.98, p. 18
 
 [^f00005]: Footnote: O.J. No. L334, 9.12.98, p. 1
 
-[^key-4d1fd6a57a8da4c82349467089cfe6c9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/244/regulation/4) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-4d1fd6a57a8da4c82349467089cfe6c9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/244/regulation/4) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
-[^key-a73e411c71f06ecc5d10abb8688b317b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/244/regulation/5) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-a73e411c71f06ecc5d10abb8688b317b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/244/regulation/5) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1998 No. 24](https://www.legislation.gov.uk/nisr/1998/24)
 
-[^key-261a2384d724e0fc335c62ae8ce9580c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/244/regulation/6) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-261a2384d724e0fc335c62ae8ce9580c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/244/regulation/6) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
-[^key-09ba293d0f7f328f78fc7801042c9762]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/244/regulation/7) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-09ba293d0f7f328f78fc7801042c9762]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/244/regulation/7) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f01000]: Footnote: (\*)
 
@@ -1115,21 +1115,21 @@ The Regulations also make consequential amendments to other legislation (regulat
 
     Propionic acid and its salts may be present in certain fermented products resulting from the fermentation process following good manufacturing practice.
 
-[^key-25a60fb848b3ed490b167b29ba802a8f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/244/regulation/8) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-25a60fb848b3ed490b167b29ba802a8f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/244/regulation/8) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
-[^key-085fe6a0638e19faa4a19e45b106fb13]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1999/244/regulation/9) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-085fe6a0638e19faa4a19e45b106fb13]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1999/244/regulation/9) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
-[^key-e9e30fa8412056b9ab0118bb00650111]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1999/244/regulation/10) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-e9e30fa8412056b9ab0118bb00650111]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1999/244/regulation/10) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00008]: Footnote: O.J. No. L223, 14.8.78, p. 30
 
-[^key-19bee77f404b6284fa6690bece83ebbf]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1999/244/regulation/11) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-19bee77f404b6284fa6690bece83ebbf]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1999/244/regulation/11) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00009]: Footnote: O.J. No. L186, 30.6.89, p. 27
 
-[^key-7a0bbe72499276e90d107c418b254e0c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1999/244/regulation/12) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-7a0bbe72499276e90d107c418b254e0c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1999/244/regulation/12) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
-[^key-62a1f3e7888d5afb8434e0fcbab796b0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1999/244/regulation/13) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-62a1f3e7888d5afb8434e0fcbab796b0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1999/244/regulation/13) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00010]: Footnote: O.J. No. L175, 4.7.91, p. 35
 
@@ -1139,19 +1139,19 @@ The Regulations also make consequential amendments to other legislation (regulat
 
     The note in Part IV does not apply.
 
-[^key-8e175ab3447c118ee2a90ad66e198ae8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1999/244/regulation/14) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-8e175ab3447c118ee2a90ad66e198ae8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1999/244/regulation/14) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1997 No. 340](https://www.legislation.gov.uk/nisr/1997/340)
 
 [^f00013]: Footnote: [S.R. & O. (N.I.) 1966 No. 200](https://www.legislation.gov.uk/nisro/1966/200); the relevant amending regulations are [S.R. 1996 No. 50](https://www.legislation.gov.uk/nisr/1996/50)
 
-[^key-f28c17c1a309d389f4f59455b7226ce7]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) entry omitted (21.7.2003) by virtue of [Specified Sugar Products Regulations (Northern Ireland) 2003 (S.R. 2003/301)](https://www.legislation.gov.uk/nisr/2003/301), [regs. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1), [10(3)(f)](https://www.legislation.gov.uk/nisr/2003/301/regulation/10/3/f)
+[^c-f28c17c1a309d389f4f59455b7226ce7]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) entry omitted (21.7.2003) by virtue of [Specified Sugar Products Regulations (Northern Ireland) 2003 (S.R. 2003/301)](https://www.legislation.gov.uk/nisr/2003/301), [regs. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1), [10(3)(f)](https://www.legislation.gov.uk/nisr/2003/301/regulation/10/3/f)
 
-[^key-e985a757d867f6c27c50592f25834172]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) entry omitted (3.8.2003) by virtue of [Cocoa and Chocolate Products Regulations (Northern Ireland) 2003 (S.R. 2003/313)](https://www.legislation.gov.uk/nisr/2003/313), [regs. 1](https://www.legislation.gov.uk/nisr/2003/313/regulation/1), [11(2)(g)](https://www.legislation.gov.uk/nisr/2003/313/regulation/11/2/g) (with [reg. 12](https://www.legislation.gov.uk/nisr/2003/313/regulation/12))
+[^c-e985a757d867f6c27c50592f25834172]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) entry omitted (3.8.2003) by virtue of [Cocoa and Chocolate Products Regulations (Northern Ireland) 2003 (S.R. 2003/313)](https://www.legislation.gov.uk/nisr/2003/313), [regs. 1](https://www.legislation.gov.uk/nisr/2003/313/regulation/1), [11(2)(g)](https://www.legislation.gov.uk/nisr/2003/313/regulation/11/2/g) (with [reg. 12](https://www.legislation.gov.uk/nisr/2003/313/regulation/12))
 
 [^f00016]: Footnote: [S.R. 1977 No. 182](https://www.legislation.gov.uk/nisr/1977/182); the relevant amending regulations are [S.R. 1996 No. 50](https://www.legislation.gov.uk/nisr/1996/50)
 
-[^key-f59e7b8af280543b8384497a716056a6]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) entry omitted (21.7.2003) by virtue of [Condensed Milk and Dried Milk Regulations (Northern Ireland) 2003 (S.R. 2003/300)](https://www.legislation.gov.uk/nisr/2003/300), [regs. 1](https://www.legislation.gov.uk/nisr/2003/300/regulation/1), [10(2)(f)](https://www.legislation.gov.uk/nisr/2003/300/regulation/10/2/f)
+[^c-f59e7b8af280543b8384497a716056a6]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) entry omitted (21.7.2003) by virtue of [Condensed Milk and Dried Milk Regulations (Northern Ireland) 2003 (S.R. 2003/300)](https://www.legislation.gov.uk/nisr/2003/300), [regs. 1](https://www.legislation.gov.uk/nisr/2003/300/regulation/1), [10(2)(f)](https://www.legislation.gov.uk/nisr/2003/300/regulation/10/2/f)
 
 [^f00018]: Footnote: [S.R. 1979 No. 51](https://www.legislation.gov.uk/nisr/1979/51); the relevant amending regulations are [S.R. 1996 No. 50](https://www.legislation.gov.uk/nisr/1996/50)
 
@@ -1161,13 +1161,13 @@ The Regulations also make consequential amendments to other legislation (regulat
 
 [^f00021]: Footnote: [S.R. 1992 No. 417](https://www.legislation.gov.uk/nisr/1992/417); the relevant amending regulations are [S.R. 1996 No. 50](https://www.legislation.gov.uk/nisr/1996/50)
 
-[^key-bed0733ada5c68dd4b5ec179346e9a3a]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/5)
+[^c-bed0733ada5c68dd4b5ec179346e9a3a]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/1) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/5)
 
-[^key-55974493d7af777de23c906e59321ae8]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/3) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/5)
+[^c-55974493d7af777de23c906e59321ae8]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/3) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/5)
 
 [^f00023]: Footnote: [S.R. 1998 No. 24](https://www.legislation.gov.uk/nisr/1998/24)
 
-[^key-d9b7ca01fd0c1966c1257a9da597e164]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/244/schedule/1) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-d9b7ca01fd0c1966c1257a9da597e164]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/244/schedule/1) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00024]: Footnote: O.J. No. L316, 9.12.94, p. 2
 
@@ -1201,9 +1201,9 @@ The Regulations also make consequential amendments to other legislation (regulat
 
     If E 950, E 957 and E 959 are used in combination in chewing gum, the maximum level for each is reduced proportionally
 
-[^key-2a81dfe672ce031734c520a34d734adb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/244/schedule/2) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-2a81dfe672ce031734c520a34d734adb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/244/schedule/2) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
-[^key-77f21b2075d02ca4082c7a81ce252c50]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/1999/244/schedule/3) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
+[^c-77f21b2075d02ca4082c7a81ce252c50]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/1999/244/schedule/3) in operation at 13.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1)
 
 [^f00026]: Footnote: O.J. No. L244, 30.9.93, p. 23
 

@@ -68,7 +68,7 @@ and section 25 of the [^c253163]Burial Act 1857 (which prohibits the removal of 
 
 (9) Nothing in this section shall be construed as authorising any act or omission on the part of any person which is actionable at the suit of any person on any grounds other than contravention of any such obligation, restriction or enactment as is mentioned in subsection (1) or subsection (4).
 
-(10)[^key-fec9f8e3ab2e733ae26a5e34253e2304] Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.
+(10)[^c-fec9f8e3ab2e733ae26a5e34253e2304] Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.
 
 (11) In this section—
 
@@ -79,4 +79,4 @@ and section 25 of the [^c253163]Burial Act 1857 (which prohibits the removal of 
 
 [^c253163]: Marginal citation: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81).
 
-[^key-fec9f8e3ab2e733ae26a5e34253e2304]: Textual amendment: S. 20(10) substituted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/5); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
+[^c-fec9f8e3ab2e733ae26a5e34253e2304]: Textual amendment: S. 20(10) substituted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/5); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)

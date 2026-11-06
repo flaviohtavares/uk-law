@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 170. Gaming and wagering contracts void[^key-80ef8a3f6d504ccf120c7fb133d6349c]
+## 170. Gaming and wagering contracts void[^c-80ef8a3f6d504ccf120c7fb133d6349c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80ef8a3f6d504ccf120c7fb133d6349c]: Textual amendment: [Art. 170](https://www.legislation.gov.uk/nisi/1985/1204/article/170) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 14(1)(a)](https://www.legislation.gov.uk/nia/2022/14/section/14/1/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-80ef8a3f6d504ccf120c7fb133d6349c]: Textual amendment: [Art. 170](https://www.legislation.gov.uk/nisi/1985/1204/article/170) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 14(1)(a)](https://www.legislation.gov.uk/nia/2022/14/section/14/1/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

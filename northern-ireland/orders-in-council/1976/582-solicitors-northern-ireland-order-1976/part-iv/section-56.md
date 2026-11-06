@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Grants in case of loss[^key-343e6a4a41b53675c76b5ff1401ebee5]
+## 56. Grants in case of loss[^c-343e6a4a41b53675c76b5ff1401ebee5]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Where the Council, on an application for a grant being made to the Society, are 
 
 ## Annotations
 
-[^key-343e6a4a41b53675c76b5ff1401ebee5]: Modification: [Art. 56](https://www.legislation.gov.uk/nisi/1976/582/article/56) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(jj)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/jj)
+[^c-343e6a4a41b53675c76b5ff1401ebee5]: Modification: [Art. 56](https://www.legislation.gov.uk/nisi/1976/582/article/56) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(jj)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/jj)
 
 [^c17115081]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

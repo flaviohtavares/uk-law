@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.2. The indictment: general rules[^key-f3ade4d15fa1f7440d6e493f40a1a9ff]
+## 10.2. The indictment: general rules[^c-f3ade4d15fa1f7440d6e493f40a1a9ff]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ade4d15fa1f7440d6e493f40a1a9ff]: Commencement: [Rule 10.2](https://www.legislation.gov.uk/uksi/2025/909/rule/10.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f3ade4d15fa1f7440d6e493f40a1a9ff]: Commencement: [Rule 10.2](https://www.legislation.gov.uk/uksi/2025/909/rule/10.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

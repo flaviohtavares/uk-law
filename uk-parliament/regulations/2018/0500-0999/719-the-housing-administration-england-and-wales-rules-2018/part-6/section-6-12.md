@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.12. Remuneration of former housing administrator[^key-c32d1bcf9ed1572210c324e9562013fc]
+## 6.12. Remuneration of former housing administrator[^c-c32d1bcf9ed1572210c324e9562013fc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a housing administrator has ceased to act as such for any reason, the housing
 
 ## Annotations
 
-[^key-c32d1bcf9ed1572210c324e9562013fc]: Commencement: Rule 6.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-c32d1bcf9ed1572210c324e9562013fc]: Commencement: Rule 6.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

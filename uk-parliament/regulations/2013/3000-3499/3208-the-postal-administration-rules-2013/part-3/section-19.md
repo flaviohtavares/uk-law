@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Expenses of statement of affairs[^key-81462cd270620583fa0927a2ecc838ba]
+## 19. Expenses of statement of affairs[^c-81462cd270620583fa0927a2ecc838ba]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81462cd270620583fa0927a2ecc838ba]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2013/3208/rule/19) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-81462cd270620583fa0927a2ecc838ba]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2013/3208/rule/19) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

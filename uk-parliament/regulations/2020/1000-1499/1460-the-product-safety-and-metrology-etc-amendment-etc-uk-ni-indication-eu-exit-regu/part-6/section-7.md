@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-86ff4f86ad6b968a014fbd8d28753e89]
+## 7.[^c-86ff4f86ad6b968a014fbd8d28753e89]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 makes amendment to the Product Safety and Metrology (Amendment) (EU E
 
 ## Annotations
 
-[^key-86ff4f86ad6b968a014fbd8d28753e89]: Commencement: Reg. 7 in force at 31.12.2020 immediately before the coming into force of regulation 2(1) of the Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020, see reg. 1(3)
+[^c-86ff4f86ad6b968a014fbd8d28753e89]: Commencement: Reg. 7 in force at 31.12.2020 immediately before the coming into force of regulation 2(1) of the Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020, see reg. 1(3)

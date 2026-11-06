@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z1. Designated vendor directions[^key-33735bd1e2b0afc09fc7bcac61746aa6]
+## 105Z1. Designated vendor directions[^c-33735bd1e2b0afc09fc7bcac61746aa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33735bd1e2b0afc09fc7bcac61746aa6]: Textual amendment: [Ss. 105Z1-105Z7](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z1) and cross-heading inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/15/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-33735bd1e2b0afc09fc7bcac61746aa6]: Textual amendment: [Ss. 105Z1-105Z7](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z1) and cross-heading inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/15/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

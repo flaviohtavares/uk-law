@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Seed Potatoes (Tuber and Label Fees) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-8713726650b5792810dbf4f1fcb6a90c]
+Seed Potatoes (Tuber and Label Fees) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-8713726650b5792810dbf4f1fcb6a90c]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st September 2004
 
-[^key-8713726650b5792810dbf4f1fcb6a90c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8713726650b5792810dbf4f1fcb6a90c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8713726650b5792810dbf4f1fcb6a90c]
+## 1. Citation and commencement[^c-8713726650b5792810dbf4f1fcb6a90c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Seed Potatoes (Tuber and Label Fees) Regulations (Northern Ireland) 1982[^key-8713726650b5792810dbf4f1fcb6a90c]
+## 2. Amendment of the Seed Potatoes (Tuber and Label Fees) Regulations (Northern Ireland) 1982[^c-8713726650b5792810dbf4f1fcb6a90c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-8713726650b5792810dbf4f1fcb6a90c]
+## 3. Revocation[^c-8713726650b5792810dbf4f1fcb6a90c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8713726650b5792810dbf4f1fcb6a90c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8713726650b5792810dbf4f1fcb6a90c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8713726650b5792810dbf4f1fcb6a90c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8713726650b5792810dbf4f1fcb6a90c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8713726650b5792810dbf4f1fcb6a90c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/207) revoked (1.9.2005) by [Seed Potatoes (Tuber and Label Fees) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/370)](https://www.legislation.gov.uk/nisr/2005/370), [regs. 1](https://www.legislation.gov.uk/nisr/2005/370/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/370/regulation/3)
+[^c-8713726650b5792810dbf4f1fcb6a90c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/207) revoked (1.9.2005) by [Seed Potatoes (Tuber and Label Fees) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/370)](https://www.legislation.gov.uk/nisr/2005/370), [regs. 1](https://www.legislation.gov.uk/nisr/2005/370/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/370/regulation/3)

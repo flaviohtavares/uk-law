@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Income subject to retrospective tax provision — information to employee[^key-849cbdc02e11d76434d0d63fef369dd8]
+## 36A. Income subject to retrospective tax provision — information to employee[^c-849cbdc02e11d76434d0d63fef369dd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-849cbdc02e11d76434d0d63fef369dd8]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/1077/regulation/4)
+[^c-849cbdc02e11d76434d0d63fef369dd8]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/1077/regulation/4)

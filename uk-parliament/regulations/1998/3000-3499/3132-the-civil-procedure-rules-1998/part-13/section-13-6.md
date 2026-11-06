@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.6. Abandoned claim restored where default judgment set aside[^key-31b3e4177d633c8b1d59a4293fc5de5a]
+## 13.6. Abandoned claim restored where default judgment set aside[^c-31b3e4177d633c8b1d59a4293fc5de5a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ the abandoned claim is restored when the default judgment is set aside.
 
 ## Annotations
 
-[^key-31b3e4177d633c8b1d59a4293fc5de5a]: Commencement: [Rule 13.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/13.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-31b3e4177d633c8b1d59a4293fc5de5a]: Commencement: [Rule 13.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/13.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

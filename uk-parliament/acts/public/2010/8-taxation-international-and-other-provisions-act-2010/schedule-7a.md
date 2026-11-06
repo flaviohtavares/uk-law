@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7A — Interest restriction returns[^key-843bef66b18963198267badbe1b828f6]
+## SCHEDULE 7A — Interest restriction returns[^c-843bef66b18963198267badbe1b828f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 374
 
 #### Appointment by a worldwide group of a reporting company
 
-**1.**[^key-d2e8237c1d6dbfa8c7f863a7076bb89a] (1) An interest restriction return for a period of account of a worldwide group is of no effect unless it is submitted to an officer of Revenue and Customs by the reporting company of the group for that period.
+**1.**[^c-d2e8237c1d6dbfa8c7f863a7076bb89a] (1) An interest restriction return for a period of account of a worldwide group is of no effect unless it is submitted to an officer of Revenue and Customs by the reporting company of the group for that period.
 
 (2) A member of a worldwide group may appoint a company to be the group’s reporting company for a period of account.
 
@@ -40,7 +40,7 @@ Section 374
 - (a) was a UK group company at a time during the period of account, and
 - (b) was not dormant throughout that period.
 
-#### Appointment of company where purported return submitted[^key-44260a149e284fa4362fc6e787c97338]
+#### Appointment of company where purported return submitted[^c-44260a149e284fa4362fc6e787c97338]
 
 **1A.** (1) This paragraph applies where a company has purported to submit to an officer of Revenue and Customs a return for a period of account of a worldwide group despite the fact it had not been appointed for the period of account at the time at which it purported to submit the return.
 
@@ -58,7 +58,7 @@ Section 374
 
 #### Revocation by worldwide group of appointment under paragraph 1
 
-**2.**[^key-daee3e261380fe46ee75aad245972b50] (1) A member of a worldwide group may revoke an appointment previously made under paragraph 1 in relation to a period of account.
+**2.**[^c-daee3e261380fe46ee75aad245972b50] (1) A member of a worldwide group may revoke an appointment previously made under paragraph 1 in relation to a period of account.
 
 (2) The revocation is of no effect for the period of account unless it is authorised by more than half of the eligible companies for that period.
 
@@ -81,24 +81,24 @@ Section 374
 
 #### Appointment of reporting company by Revenue and Customs
 
-**4.** (1)[^key-7dfede2226d55e1b13d3f0ec81d12dec] This paragraph applies where no interest restriction return in relation to a period of account of a worldwide group (“the relevant period of account”) has been submitted to an officer of Revenue and Customs before the end of the period of 18 months beginning with the end of the relevant period of account.
+**4.** (1)[^c-7dfede2226d55e1b13d3f0ec81d12dec] This paragraph applies where no interest restriction return in relation to a period of account of a worldwide group (“the relevant period of account”) has been submitted to an officer of Revenue and Customs before the end of the period of 18 months beginning with the end of the relevant period of account.
 
 (2) An officer of Revenue and Customs may, by notice to an eligible company, appoint it to be the group's reporting company.
 
 (3) The notice must specify the relevant period of account (whether by specifying the dates on which it begins and ends or, if the officer does not have that information, by reference to a date or dates).
 
-(4) The appointment has effect in relation to the relevant period of account and supersedes any appointment of a reporting company in relation to that period made under paragraph 1[^key-a157b8e348a637a563927c4377164618].
+(4) The appointment has effect in relation to the relevant period of account and supersedes any appointment of a reporting company in relation to that period made under paragraph 1[^c-a157b8e348a637a563927c4377164618].
 
 (5) The appointment may be made—
 
-- (a) at any time before the end of the period of 4 years[^key-53c91060b6648c692ba6d3af3cbc2abd] beginning with the end of the relevant period of account, or
+- (a) at any time before the end of the period of 4 years[^c-53c91060b6648c692ba6d3af3cbc2abd] beginning with the end of the relevant period of account, or
 - (b) at any time after the end of that period if, at that time, an amount stated in the company tax return of a UK group company for a relevant accounting period can be altered,
 
-But the time limits provided by paragraph (a) or (b) do not apply where sub-paragraph (6A) applies.[^key-b9074169e6e66d115b7d1a7fbbf58fc0]
+But the time limits provided by paragraph (a) or (b) do not apply where sub-paragraph (6A) applies.[^c-b9074169e6e66d115b7d1a7fbbf58fc0]
 
 (6) Paragraph 88(3) to (5) of Schedule 18 to FA 1998 (meaning of “can no longer be altered”) applies for the purposes of this paragraph.
 
-(6A)[^key-ef546257e4cd91a4ac09b66e549c6c9c] If—
+(6A)[^c-ef546257e4cd91a4ac09b66e549c6c9c] If—
 
 - (a) a company has purported to submit to an officer of Revenue and Customs a return for the relevant period of account despite the fact it had not been appointed for that period at the time at which it purported to submit the return, and
 - (b) no appointment of the company as the group’s reporting company for that period has been made by a member of the group in reliance on paragraph 1A,
@@ -141,8 +141,8 @@ an officer of Revenue and Customs may, by notice to the company, appoint it to b
 (6) Where the power in sub-paragraph (4) is exercised—
 
 - (a) the appointment that is revoked ceases to have effect in relation to—
-  - (i) the relevant period of account, [^key-ebf9bcdf481d8027ae1f7a347765db22]...
-  - (ii)[^key-ebf9bcdf481d8027ae1f7a347765db22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) the relevant period of account, [^c-ebf9bcdf481d8027ae1f7a347765db22]...
+  - (ii)[^c-ebf9bcdf481d8027ae1f7a347765db22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the appointment of the replacement has effect in relation to the relevant period of account.
 
 (7) For the purposes of this paragraph a company is “eligible” if and only if the company —
@@ -154,11 +154,11 @@ an officer of Revenue and Customs may, by notice to the company, appoint it to b
 
 **6.** (1) This paragraph applies where the appointment of a reporting company has effect in relation to a period of account of a worldwide group (“the relevant period of account”).
 
-(2) The reporting company must, as soon as reasonably practicable after the appointment is made[^key-a5bc93dd11ee1639e4a2bd3dcc2490f1], notify each relevant company that it is the group's reporting company in relation to the relevant period of account.
+(2) The reporting company must, as soon as reasonably practicable after the appointment is made[^c-a5bc93dd11ee1639e4a2bd3dcc2490f1], notify each relevant company that it is the group's reporting company in relation to the relevant period of account.
 
-(3)[^key-015e3596cd6a879deb64b22891e7604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-015e3596cd6a879deb64b22891e7604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-04a856ada272193759b828aa134990d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-04a856ada272193759b828aa134990d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The duty to comply with sub-paragraph (2) is enforceable by the company required to be notified under that sub-paragraph.
 
@@ -171,9 +171,9 @@ an officer of Revenue and Customs may, by notice to the company, appoint it to b
 
 (8) Condition B is that the company is the ultimate parent of the worldwide group.
 
-#### Submission of interest restriction returns by reporting companies[^key-f7c3b27ee59e8f8910da23a974048a78]
+#### Submission of interest restriction returns by reporting companies[^c-f7c3b27ee59e8f8910da23a974048a78]
 
-**7.** (1)[^key-9d0b4d1738510e2bc8745b2f41f87537] A reporting company appointed under paragraph 1 in relation to a period of account may submit a return for that period to an officer of Revenue and Customs.
+**7.** (1)[^c-9d0b4d1738510e2bc8745b2f41f87537] A reporting company appointed under paragraph 1 in relation to a period of account may submit a return for that period to an officer of Revenue and Customs.
 
 (2) A reporting company appointed under paragraph 4 in relation to a period of account must submit a return for that period to an officer of Revenue and Customs.
 
@@ -184,22 +184,22 @@ an officer of Revenue and Customs may, by notice to the company, appoint it to b
 (5) In this Part of this Act “**the filing date**”, in relation to a period of account of a worldwide group, means—
 
 - (a) the end of the period of 12 months beginning with the end of the period of account, or
-- (b)[^key-60e94cc64104ba567727923101783a28] if an appointment of a reporting company under paragraph 4 or 5 has effect in relation to the period of account, the end of the period of 3 months beginning with the day on which the appointment was made,
+- (b)[^c-60e94cc64104ba567727923101783a28] if an appointment of a reporting company under paragraph 4 or 5 has effect in relation to the period of account, the end of the period of 3 months beginning with the day on which the appointment was made,
 
-whichever is the later[^key-44c8685d032a0f347310dec75b2ca8fd].
+whichever is the later[^c-44c8685d032a0f347310dec75b2ca8fd].
 
-(5A)[^key-b84c6a8703ad0ca3dca1581d8ae94746] For an extension of the filing date in the case of a takeover, see paragraph 7A.
+(5A)[^c-b84c6a8703ad0ca3dca1581d8ae94746] For an extension of the filing date in the case of a takeover, see paragraph 7A.
 
 (6) A return submitted under this paragraph is of no effect unless it is received by an officer of Revenue and Customs before—
 
 - (a) the end of the period of 36 months beginning with the end of the period of account, or
-- (b)[^key-7f7a32f32806a615248986d3d4cba242] if the reporting company was appointed under paragraph 4 or 5, the later of—
+- (b)[^c-7f7a32f32806a615248986d3d4cba242] if the reporting company was appointed under paragraph 4 or 5, the later of—
   - (i) the period mentioned in paragraph (a), and
   - (ii) the end of the period of 3 months beginning with the day on which it was appointed.
 
 This is subject to paragraph 57.
 
-**7A.**[^key-3d72098d857df25c3a94e5af08fb29f4] (1) This paragraph applies if—
+**7A.**[^c-3d72098d857df25c3a94e5af08fb29f4] (1) This paragraph applies if—
 
 - (a) a period of account (“the affected period”) of a worldwide group (“the old group”) ends solely as a result of the ultimate parent of the old group becoming a member of a different worldwide group, and
 - (b) the time at which that happens is within 12 months of the beginning of the affected period.
@@ -221,15 +221,15 @@ This is subject to paragraph 57.
 (3) A revised interest restriction return submitted under sub-paragraph (2) is of no effect unless it is received by an officer of Revenue and Customs before—
 
 - (a) the end of the period of 36 months beginning with the end of the period of account, or
-- (b)[^key-231c710e2e52433b73af3c2ac4be53c6] if the reporting company was appointed under paragraph 4 or 5, the later of—
+- (b)[^c-231c710e2e52433b73af3c2ac4be53c6] if the reporting company was appointed under paragraph 4 or 5, the later of—
   - (i) the period mentioned in paragraph (a), and
   - (ii) the end of the period of 3 months beginning with the day on which it was appointed.
 
 This is subject to paragraphs 9 and 57.
 
-(4)[^key-1457fa45216aad437acda8087e666d17] Where any of the figures contained in the previous interest restriction return have become incorrect (whether or not as a result of a member of the group amending, or being treated as amending, its company tax return), the reporting company must submit a revised interest restriction return (for the purpose of correcting those figures) to an officer of Revenue and Customs.
+(4)[^c-1457fa45216aad437acda8087e666d17] Where any of the figures contained in the previous interest restriction return have become incorrect (whether or not as a result of a member of the group amending, or being treated as amending, its company tax return), the reporting company must submit a revised interest restriction return (for the purpose of correcting those figures) to an officer of Revenue and Customs.
 
-(5)[^key-5951147a711d375032bb6b45c394a1ba] A revised interest restriction return submitted under sub-paragraph (4) is of no effect unless it is received by an officer of Revenue and Customs before the end of—
+(5)[^c-5951147a711d375032bb6b45c394a1ba] A revised interest restriction return submitted under sub-paragraph (4) is of no effect unless it is received by an officer of Revenue and Customs before the end of—
 
 - (a) the period of 3 months beginning with the relevant day, or
 - (b) in a case where sub-paragraph (5B) applies, such longer period as an officer of Revenue and Customs may allow.
@@ -248,14 +248,14 @@ This is subject to paragraphs 9 and 57.
 - (a) must indicate the respects in which it differs from the previous return, and
 - (b) supersedes the previous return.
 
-#### Extended period for submission of full return for period where no restriction[^key-854c194224daed6884a08b4beb2d2f24]
+#### Extended period for submission of full return for period where no restriction[^c-854c194224daed6884a08b4beb2d2f24]
 
 **9.** (1) This paragraph applies where—
 
-- (a) a reporting company has submitted an [^key-3ff532425d34f97e717a084b67235d4d]... interest restriction return for a period of account of a worldwide group in accordance with this Schedule, and
+- (a) a reporting company has submitted an [^c-3ff532425d34f97e717a084b67235d4d]... interest restriction return for a period of account of a worldwide group in accordance with this Schedule, and
 - (b) the worldwide group is not subject to interest restrictions in the return period.
 
-(2) Despite the passing of the time limit in paragraph 8(3), an interest restriction return[^key-31571257c8f92bc47177530a00a50a6e] for the period of account submitted under paragraph 8 which is a full interest restriction return[^key-e551c3b57f13fccc5e7b53717ac607d6] has effect if it is received before the end of the period of 60 months beginning with the end of the period of account.
+(2) Despite the passing of the time limit in paragraph 8(3), an interest restriction return[^c-31571257c8f92bc47177530a00a50a6e] for the period of account submitted under paragraph 8 which is a full interest restriction return[^c-e551c3b57f13fccc5e7b53717ac607d6] has effect if it is received before the end of the period of 60 months beginning with the end of the period of account.
 
 #### Meaning of “consenting company” and “non-consenting company”
 
@@ -263,18 +263,18 @@ This is subject to paragraphs 9 and 57.
 
 (2) The company is a “**consenting company**” in relation to the return if, before the return is submitted—
 
-- (a) it has notified the reporting company in relation to the period of account[^key-cd11ba4c227abd960d3cf7806f65ee86] that it wishes to be a consenting company in relation to interest restriction returns submitted by the reporting company, and
-- (b) it has not notified the reporting company[^key-e65b99cc6b361e31ab6482df963b11bc] that it no longer wishes to be a consenting company in relation to such returns.
+- (a) it has notified the reporting company in relation to the period of account[^c-cd11ba4c227abd960d3cf7806f65ee86] that it wishes to be a consenting company in relation to interest restriction returns submitted by the reporting company, and
+- (b) it has not notified the reporting company[^c-e65b99cc6b361e31ab6482df963b11bc] that it no longer wishes to be a consenting company in relation to such returns.
 
-(3)[^key-a0fd519fe0204733708ec1c20bde44b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a0fd519fe0204733708ec1c20bde44b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The company is a “**non-consenting company**”, in relation to the return, if it is not a consenting company in relation to the return.
 
-#### ...[^key-e3a873117de39661d278a3105878a2b1]
+#### ...[^c-e3a873117de39661d278a3105878a2b1]
 
-**11.**[^key-e3a873117de39661d278a3105878a2b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e3a873117de39661d278a3105878a2b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Penalty for submission of return where no reporting company appointed[^key-be48445e83a5021f37382b6d423f2b6c]
+#### Penalty for submission of return where no reporting company appointed[^c-be48445e83a5021f37382b6d423f2b6c]
 
 **11A.** (1) A company is liable to a penalty if the company has purported to submit to an officer of Revenue and Customs a return for a period of account of a worldwide group in circumstances where it had not been appointed for the period of account at the time at which it submitted the return.
 
@@ -314,7 +314,7 @@ This is subject to paragraphs 9 and 57.
 
 **12.** (1) An election to which this paragraph applies must be made in an interest restriction return for the period of account (or, as the case may be, the first period of account) to which the election relates.
 
-(2)[^key-37fa3631fa7d15b764f3f045b89c9761] If an election to which this paragraph applies is capable of being revoked, the revocation must be made in an interest restriction return for the period of account (or, as the case may be, the first period of account) to which the revocation relates.
+(2)[^c-37fa3631fa7d15b764f3f045b89c9761] If an election to which this paragraph applies is capable of being revoked, the revocation must be made in an interest restriction return for the period of account (or, as the case may be, the first period of account) to which the revocation relates.
 
 (3) This paragraph applies to the following elections—
 
@@ -470,11 +470,11 @@ This is subject to paragraphs 9 and 57.
 
 (3) The interest restriction return must—
 
-- (za)[^key-7314b7869b3a2f51d4bb54781688e6d5] state the name and (where it has one) the Unique Taxpayer Reference of the reporting company,
+- (za)[^c-7314b7869b3a2f51d4bb54781688e6d5] state the name and (where it has one) the Unique Taxpayer Reference of the reporting company,
 - (a) state the name and (where it has one) the Unique Taxpayer Reference of the ultimate parent of the worldwide group;
 - (b) specify the return period;
-- (c) state the names and Unique Taxpayer References (where they have them) of the companies that were UK group companies at any time during the return period, specifying in relation to each whether it is a consenting or a non-consenting company in relation to the return and whether it authorised the appointment of the reporting company for the period of account[^key-b647ab7dbc876a622f5fd619e1f44415];
-- (ca)[^key-9d6f95fe0e7aff398c42b90006374ba2] contain a statement that each of the companies authorising the appointment of the reporting company was an eligible company and that they together constituted more than half of the eligible companies,
+- (c) state the names and Unique Taxpayer References (where they have them) of the companies that were UK group companies at any time during the return period, specifying in relation to each whether it is a consenting or a non-consenting company in relation to the return and whether it authorised the appointment of the reporting company for the period of account[^c-b647ab7dbc876a622f5fd619e1f44415];
+- (ca)[^c-9d6f95fe0e7aff398c42b90006374ba2] contain a statement that each of the companies authorising the appointment of the reporting company was an eligible company and that they together constituted more than half of the eligible companies,
 - (d) contain a statement of calculations (see paragraph 21);
 - (e) if the group is subject to interest restrictions in the return period—
   - (i) contain a statement of that fact,
@@ -494,9 +494,9 @@ This is subject to paragraphs 9 and 57.
 (5) The interest restriction return must—
 
 - (a) state that the group is not subject to interest restrictions in the return period, and
-- (b) comply with paragraphs (za) to (ca)[^key-514f2cea3315d3607fbfe666dfe3ba93] and (g) of sub-paragraph (3).
+- (b) comply with paragraphs (za) to (ca)[^c-514f2cea3315d3607fbfe666dfe3ba93] and (g) of sub-paragraph (3).
 
-(5A)[^key-ab87b62b0d6ee3f4388b00f9742b59c6] In addition to the matters required to be included in an interest restriction return in accordance with sub-paragraph (3) or (5), the return must include such other specified information as may reasonably be required for the purposes of this Part of this Act.
+(5A)[^c-ab87b62b0d6ee3f4388b00f9742b59c6] In addition to the matters required to be included in an interest restriction return in accordance with sub-paragraph (3) or (5), the return must include such other specified information as may reasonably be required for the purposes of this Part of this Act.
 
 (5B) In sub-paragraph (5A) “specified” means specified in a notice published by Her Majesty’s Revenue and Customs (and different information may be specified for different purposes).
 
@@ -739,10 +739,10 @@ the reporting company must give a notice to an officer of Revenue and Customs wi
 
 **29.** (1) A company is liable to a penalty if the company—
 
-- (a) submits or[^key-930a93b69802c4dd8f930a761d9e5bab] is required to submit an interest restriction return under paragraph 7 , or a revised interest restriction return under paragraph 8(4),[^key-473dbfd4c23d142880ef297a992bc643] for a period of account of a worldwide group, and
-- (b) fails to do so by the filing date in relation to the period [^key-aeb827b0ebef3fa7eeb50c88b9c0928f]....
+- (a) submits or[^c-930a93b69802c4dd8f930a761d9e5bab] is required to submit an interest restriction return under paragraph 7 , or a revised interest restriction return under paragraph 8(4),[^c-473dbfd4c23d142880ef297a992bc643] for a period of account of a worldwide group, and
+- (b) fails to do so by the filing date in relation to the period [^c-aeb827b0ebef3fa7eeb50c88b9c0928f]....
 
-(1A)[^key-075680457a7722fa3213a896994e6b2c] In subsection (1)(b), the reference to the “**filing date**” in relation to a period of account is—
+(1A)[^c-075680457a7722fa3213a896994e6b2c] In subsection (1)(b), the reference to the “**filing date**” in relation to a period of account is—
 
 - (a) in relation to an interest restriction return under paragraph 7, a reference to the filing date for the purposes of that paragraph (see paragraph 7(5) and (5A));
 - (b) in relation to a revised interest restriction return under paragraph 8(4), a reference to the end of the period within which the return may have effect (see paragraph 8(5)).
@@ -757,7 +757,7 @@ the reporting company must give a notice to an officer of Revenue and Customs wi
 - (a) assess the penalty, and
 - (b) notify the company.
 
-(4)[^key-9ab40c854d647899c2ad8940315f7d7e] The assessment must be made—
+(4)[^c-9ab40c854d647899c2ad8940315f7d7e] The assessment must be made—
 
 - (a) within the period of 12 months beginning with the day on which the return was received by an officer of Revenue and Customs, or
 - (b) if no return is received by an officer of Revenue and Customs, the period of 12 months beginning with the filing date mentioned in sub-paragraph (1)(b).
@@ -1001,8 +1001,8 @@ subject to any conditions or exceptions specified in writing by an officer of Re
 (2) Notice of enquiry may be given at any time before whichever is the latest of—
 
 - (a) the end of the period of 39 months beginning with the end of the period of account;
-- (b) [^key-c57c4cbe876d93d0df1eb6822c33c3cf]... and
-- (c) the end of 31 January, 30 April, 31 July or 31 October next following the first anniversary of the day on which an officer of Revenue and Customs receives the return or[^key-0a64e8e001a7b62e5ef2d266b9b12411] revised return.
+- (b) [^c-c57c4cbe876d93d0df1eb6822c33c3cf]... and
+- (c) the end of 31 January, 30 April, 31 July or 31 October next following the first anniversary of the day on which an officer of Revenue and Customs receives the return or[^c-0a64e8e001a7b62e5ef2d266b9b12411] revised return.
 
 (3) If—
 
@@ -1078,7 +1078,7 @@ the enquiry into the revised return extends only to matters arising as a result 
 
 **44.** (1) If it appears to an officer of Revenue and Customs that the period of account for which an interest restriction return has been submitted is or may be the wrong period, the power to enquire into the return includes power to enquire into the period for which the return ought to have been made.
 
-(1A)[^key-5fb9b945ba0c49bb06cfcc2c2d80c251] Sub-paragraph (1) applies even if the company submitting the return had not been appointed as a reporting company for the period of account for which the return was submitted; and references to a reporting company in paragraph 40, and elsewhere in this Schedule where the context is an enquiry into the return, are to the company who submitted the return.
+(1A)[^c-5fb9b945ba0c49bb06cfcc2c2d80c251] Sub-paragraph (1) applies even if the company submitting the return had not been appointed as a reporting company for the period of account for which the return was submitted; and references to a reporting company in paragraph 40, and elsewhere in this Schedule where the context is an enquiry into the return, are to the company who submitted the return.
 
 (2) If sub-paragraph (1) applies, paragraph 41 (normal time limits for opening enquiry) has effect as if the return were one that had been submitted for the correct period of account.
 
@@ -1340,16 +1340,16 @@ the company may appeal against the statement.
 **56.** (1) This paragraph applies where—
 
 - (a) an officer of Revenue and Customs considers that a worldwide group was subject to interest restrictions in a period of account of the group (“the relevant period of account”),
-- (b) the filing date in relation to the relevant period of account has passed (see paragraph 7(5)),[^key-6d5a03cd5332fd37c1195ff053ed4f3c] and
-- (c) condition [^key-e8dbdbd026a31f4df2b87773e426e5a6]... B , C or D[^key-dbcb22965b67c426f4fc1bfffb21ef75] is met.
+- (b) the filing date in relation to the relevant period of account has passed (see paragraph 7(5)),[^c-6d5a03cd5332fd37c1195ff053ed4f3c] and
+- (c) condition [^c-e8dbdbd026a31f4df2b87773e426e5a6]... B , C or D[^c-dbcb22965b67c426f4fc1bfffb21ef75] is met.
 
-(2)[^key-5e32b0cf756b87ab6d9659bc06e28c18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5e32b0cf756b87ab6d9659bc06e28c18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-769ce38da61d14265b9906fe8793df36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-769ce38da61d14265b9906fe8793df36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Condition B is that—
 
-- (a) the appointment of a reporting company has effect under paragraph 4 or 5[^key-08accaf9e7c00435081a886555cee701] in relation to the relevant period of account, and
+- (a) the appointment of a reporting company has effect under paragraph 4 or 5[^c-08accaf9e7c00435081a886555cee701] in relation to the relevant period of account, and
 - (b) no interest restriction return has been submitted for the period.
 
 (5) Condition C is that—
@@ -1358,7 +1358,7 @@ the company may appeal against the statement.
 - (b) an interest restriction return has been submitted for the period, and
 - (c) the return does not comply with the requirements of paragraph 20(3) (for example by including inaccurate figures).
 
-(5A)[^key-3725fd715f5a95ebb75206c19feb5334] Condition D is that—
+(5A)[^c-3725fd715f5a95ebb75206c19feb5334] Condition D is that—
 
 - (a) the appointment of a reporting company has effect in relation to the relevant period of account,
 - (b) the reporting company is required to submit a revised interest restriction return for the period under paragraph 8(4), and
@@ -1373,10 +1373,10 @@ the company may appeal against the statement.
 
 (8) A notice of determination under this paragraph must be given to the company, and to the reporting company, stating the date on which the determination is made.
 
-(9) No determination under this paragraph may be made—[^key-f97d721573c3a51c69b99abb346433d6]
+(9) No determination under this paragraph may be made—[^c-f97d721573c3a51c69b99abb346433d6]
 
 - (a) in a case where Condition D is met, after the end of the period of 12 months beginning with the expiry of the time limit mentioned in paragraph 8(5), and
-- (b) in any other case, after the end of the period of 3 years beginning with the filing date referred to in sub-paragraph (1)(b)[^key-af29f27cb981ef0a54a10422479aae96].
+- (b) in any other case, after the end of the period of 3 years beginning with the filing date referred to in sub-paragraph (1)(b)[^c-af29f27cb981ef0a54a10422479aae96].
 
 #### Time limit: interest restriction return following determination under paragraph 56
 
@@ -1453,7 +1453,7 @@ the company may appeal against the statement.
 
 **61.** (1) This paragraph applies where condition A or B is met in relation to a period of account of a worldwide group.
 
-(2)[^key-3689c8be61ee08a056c702256f3d5a8e] Condition A is that no appointment of a reporting company in relation to the period of account has been made before the end of the period of 12 months beginning with the end of the period of account.
+(2)[^c-3689c8be61ee08a056c702256f3d5a8e] Condition A is that no appointment of a reporting company in relation to the period of account has been made before the end of the period of 12 months beginning with the end of the period of account.
 
 (3) Condition B is that—
 
@@ -1632,9 +1632,9 @@ the company must amend its company tax return to take account of the requirement
 - (a) a company has delivered a company tax return for an accounting period, but
 - (b) as a result of the submission of an interest restriction return, information contained in the company tax return is incorrect (for example, there is a change in the amount of profits on which corporation tax is chargeable),
 
-the company must amend[^key-5cb9d00c12f6fa5dbd97b73931de88fe] its company tax return for the accounting period so as to correct the information.
+the company must amend[^c-5cb9d00c12f6fa5dbd97b73931de88fe] its company tax return for the accounting period so as to correct the information.
 
-(1A)[^key-e3277e249b21cc70117e6d6d9b3fb858] The amendment must be made before whichever is the later of—
+(1A)[^c-e3277e249b21cc70117e6d6d9b3fb858] The amendment must be made before whichever is the later of—
 
 - (a) the end of the period of 3 months beginning with the day on which the interest restriction return was submitted, or
 - (b) the time limit given by paragraph 15(4) of Schedule 18 to FA 1998.
@@ -1646,7 +1646,7 @@ the company must amend[^key-5cb9d00c12f6fa5dbd97b73931de88fe] its company tax re
 
 the company is treated as having amended its company tax return to take account of the determination.
 
-#### Failure to comply with a requirement to amend company tax return[^key-ef4a8d89249556a111200d430c928270]
+#### Failure to comply with a requirement to amend company tax return[^c-ef4a8d89249556a111200d430c928270]
 
 **70A.** (1) This paragraph applies if a company—
 
@@ -1665,11 +1665,11 @@ the company is treated as having amended its company tax return to take account 
 
 (7) In this paragraph “**the amendment deadline**” means the end of the period for the making of the amendment given by paragraph 69(2), (4) or (6) or 70(1A).
 
-#### Regulations for purposes of paragraph 70(2) etc[^key-cfc279c673bb111ceda552cd17f63756]
+#### Regulations for purposes of paragraph 70(2) etc[^c-cfc279c673bb111ceda552cd17f63756]
 
 **71.** (1) The Commissioners may by regulations—
 
-- (a) make provision generally for the purposes of paragraph 70(2)[^key-102d8c4b3853756a60170c368da5ee49], and
+- (a) make provision generally for the purposes of paragraph 70(2)[^c-102d8c4b3853756a60170c368da5ee49], and
 - (b) make provision for other cases where a company is to be treated as having amended its company tax return.
 
 (2) The provision that may be made by the regulations includes provision—
@@ -1682,7 +1682,7 @@ the company is treated as having amended its company tax return to take account 
 
 **72.** (1) This paragraph applies if—
 
-- (a) a company amends, or is treated as amending, its company tax return for an accounting period in consequence of a closure notice given in respect of an interest restriction return under paragraph 47 or a notice of determination given to the company under paragraph [^key-51d5e5d1d9f38185024f292351fb4b32]... 58, and
+- (a) a company amends, or is treated as amending, its company tax return for an accounting period in consequence of a closure notice given in respect of an interest restriction return under paragraph 47 or a notice of determination given to the company under paragraph [^c-51d5e5d1d9f38185024f292351fb4b32]... 58, and
 - (b) the amendment has the effect of increasing the amount of corporation tax payable by the company for the accounting period.
 
 (2) Any qualifying claim may be made or given within the period of one year beginning with the day on which the company receives a copy of the closure notice under paragraph 60(5) or the notice of determination.
@@ -1746,130 +1746,130 @@ the company is treated as having amended its company tax return to take account 
 
 ## Annotations
 
-[^key-843bef66b18963198267badbe1b828f6]: Textual amendment: Sch. 7A inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/2) (with [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/28))
+[^c-843bef66b18963198267badbe1b828f6]: Textual amendment: Sch. 7A inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/2) (with [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/28))
 
-[^key-d2e8237c1d6dbfa8c7f863a7076bb89a]: Textual amendment: [Sch. 7A para. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/1) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(2)(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/2/21)
+[^c-d2e8237c1d6dbfa8c7f863a7076bb89a]: Textual amendment: [Sch. 7A para. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/1) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(2)(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/2/21)
 
-[^key-44260a149e284fa4362fc6e787c97338]: Textual amendment: [Sch. 7A para. 1A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/1A) and cross-heading inserted (with effect in accordance with s. 61(19) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/3)[(19)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/19)
+[^c-44260a149e284fa4362fc6e787c97338]: Textual amendment: [Sch. 7A para. 1A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/1A) and cross-heading inserted (with effect in accordance with s. 61(19) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/3)[(19)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/19)
 
-[^key-daee3e261380fe46ee75aad245972b50]: Textual amendment: [Sch. 7A para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/2) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/4)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-daee3e261380fe46ee75aad245972b50]: Textual amendment: [Sch. 7A para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/2) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/4)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-7dfede2226d55e1b13d3f0ec81d12dec]: Textual amendment: [Sch. 7A para. 4(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/1) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-7dfede2226d55e1b13d3f0ec81d12dec]: Textual amendment: [Sch. 7A para. 4(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/1) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-a157b8e348a637a563927c4377164618]: Textual amendment: Words in [Sch. 7A para. 4(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/4) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-a157b8e348a637a563927c4377164618]: Textual amendment: Words in [Sch. 7A para. 4(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/4) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-53c91060b6648c692ba6d3af3cbc2abd]: Textual amendment: Words in [Sch. 7A para. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/5/a) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/20)
+[^c-53c91060b6648c692ba6d3af3cbc2abd]: Textual amendment: Words in [Sch. 7A para. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/5/a) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/20)
 
-[^key-b9074169e6e66d115b7d1a7fbbf58fc0]: Textual amendment: Words in [Sch. 7A para. 4(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/5) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/c)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-b9074169e6e66d115b7d1a7fbbf58fc0]: Textual amendment: Words in [Sch. 7A para. 4(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/5) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/c)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-ef546257e4cd91a4ac09b66e549c6c9c]: Textual amendment: [Sch. 7A para. 4(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/6A) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/d)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-ef546257e4cd91a4ac09b66e549c6c9c]: Textual amendment: [Sch. 7A para. 4(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/4/6A) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(5)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/5/d)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-ebf9bcdf481d8027ae1f7a347765db22]: Textual amendment: [Sch. 7A para. 5(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/5/6/a/ii) and word omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/6)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-ebf9bcdf481d8027ae1f7a347765db22]: Textual amendment: [Sch. 7A para. 5(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/5/6/a/ii) and word omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/6)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-a5bc93dd11ee1639e4a2bd3dcc2490f1]: Textual amendment: Words in [Sch. 7A para. 6(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/6/2) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(7)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/7/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-a5bc93dd11ee1639e4a2bd3dcc2490f1]: Textual amendment: Words in [Sch. 7A para. 6(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/6/2) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(7)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/7/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-015e3596cd6a879deb64b22891e7604e]: Textual amendment: [Sch. 7A para. 6(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/6/3) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/7/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-015e3596cd6a879deb64b22891e7604e]: Textual amendment: [Sch. 7A para. 6(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/6/3) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/7/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-04a856ada272193759b828aa134990d9]: Textual amendment: [Sch. 7A para. 6(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/6/4) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/7/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-04a856ada272193759b828aa134990d9]: Textual amendment: [Sch. 7A para. 6(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/6/4) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/7/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-f7c3b27ee59e8f8910da23a974048a78]: Textual amendment: [Sch. 7A para. 7 cross-heading](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/part/1/crossheading/obligation-of-reporting-company-to-submit-interest-restriction-return) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/9)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-f7c3b27ee59e8f8910da23a974048a78]: Textual amendment: [Sch. 7A para. 7 cross-heading](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/part/1/crossheading/obligation-of-reporting-company-to-submit-interest-restriction-return) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/9)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-9d0b4d1738510e2bc8745b2f41f87537]: Textual amendment: [Sch. 7A para. 7(1)-(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/1) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(8)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/8/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-9d0b4d1738510e2bc8745b2f41f87537]: Textual amendment: [Sch. 7A para. 7(1)-(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/1) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(8)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/8/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-60e94cc64104ba567727923101783a28]: Textual amendment: [Sch. 7A para. 7(5)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/5/b) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 16(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/16/a)
+[^c-60e94cc64104ba567727923101783a28]: Textual amendment: [Sch. 7A para. 7(5)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/5/b) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 16(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/16/a)
 
-[^key-44c8685d032a0f347310dec75b2ca8fd]: Textual amendment: Words in [Sch. 7A para. 7(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/5) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 16(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/16/b)
+[^c-44c8685d032a0f347310dec75b2ca8fd]: Textual amendment: Words in [Sch. 7A para. 7(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/5) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 16(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/16/b)
 
-[^key-b84c6a8703ad0ca3dca1581d8ae94746]: Textual amendment: [Sch. 7A para. 7(5A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/5A) inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 17(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/17/1)
+[^c-b84c6a8703ad0ca3dca1581d8ae94746]: Textual amendment: [Sch. 7A para. 7(5A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/5A) inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 17(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/17/1)
 
-[^key-7f7a32f32806a615248986d3d4cba242]: Textual amendment: [Sch. 7A para. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/6/b) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(8)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/8/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-7f7a32f32806a615248986d3d4cba242]: Textual amendment: [Sch. 7A para. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7/6/b) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(8)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/8/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-3d72098d857df25c3a94e5af08fb29f4]: Textual amendment: [Sch. 7A para. 7A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7A) inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 17(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/17/2)
+[^c-3d72098d857df25c3a94e5af08fb29f4]: Textual amendment: [Sch. 7A para. 7A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/7A) inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 17(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/17/2)
 
-[^key-231c710e2e52433b73af3c2ac4be53c6]: Textual amendment: [Sch. 7A para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/3/b) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(10)(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/10/21)
+[^c-231c710e2e52433b73af3c2ac4be53c6]: Textual amendment: [Sch. 7A para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/3/b) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(10)(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/10/21)
 
-[^key-1457fa45216aad437acda8087e666d17]: Textual amendment: [Sch. 7A para. 8(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/4) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/21/2)
+[^c-1457fa45216aad437acda8087e666d17]: Textual amendment: [Sch. 7A para. 8(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/4) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/21/2)
 
-[^key-5951147a711d375032bb6b45c394a1ba]: Textual amendment: [Sch. 7A para. 8(5)-(5C)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/5) substituted for [Sch. 7A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A) [para. 8(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/5) (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/21/3)
+[^c-5951147a711d375032bb6b45c394a1ba]: Textual amendment: [Sch. 7A para. 8(5)-(5C)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/5) substituted for [Sch. 7A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A) [para. 8(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/8/5) (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/21/3)
 
-[^key-854c194224daed6884a08b4beb2d2f24]: Textual amendment: Words in Sch. 7A para. 9 cross-heading substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/4)
+[^c-854c194224daed6884a08b4beb2d2f24]: Textual amendment: Words in Sch. 7A para. 9 cross-heading substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/4)
 
-[^key-3ff532425d34f97e717a084b67235d4d]: Textual amendment: Word in Sch. 7A para. 9(1)(a) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/2)
+[^c-3ff532425d34f97e717a084b67235d4d]: Textual amendment: Word in Sch. 7A para. 9(1)(a) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/2)
 
-[^key-31571257c8f92bc47177530a00a50a6e]: Textual amendment: Words in Sch. 7A para. 9(2) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/3/a)
+[^c-31571257c8f92bc47177530a00a50a6e]: Textual amendment: Words in Sch. 7A para. 9(2) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/3/a)
 
-[^key-e551c3b57f13fccc5e7b53717ac607d6]: Textual amendment: Words in Sch. 7A para. 9(2) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/3/b)
+[^c-e551c3b57f13fccc5e7b53717ac607d6]: Textual amendment: Words in Sch. 7A para. 9(2) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/14/3/b)
 
-[^key-cd11ba4c227abd960d3cf7806f65ee86]: Textual amendment: Words in [Sch. 7A para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/10/2/a) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(11)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/11/a/i)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-cd11ba4c227abd960d3cf7806f65ee86]: Textual amendment: Words in [Sch. 7A para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/10/2/a) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(11)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/11/a/i)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-e65b99cc6b361e31ab6482df963b11bc]: Textual amendment: Words in [Sch. 7A para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/10/2/b) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(11)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/11/a/ii)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-e65b99cc6b361e31ab6482df963b11bc]: Textual amendment: Words in [Sch. 7A para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/10/2/b) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(11)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/11/a/ii)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-a0fd519fe0204733708ec1c20bde44b9]: Textual amendment: [Sch. 7A para. 10(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/10/3) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(11)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/11/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-a0fd519fe0204733708ec1c20bde44b9]: Textual amendment: [Sch. 7A para. 10(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/10/3) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(11)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/11/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-e3a873117de39661d278a3105878a2b1]: Textual amendment: [Sch. 7A para. 11 and cross-heading](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/part/1/crossheading/company-authorising-reporting-company-appointment-treated-as-consenting-company) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(12)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/12)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-e3a873117de39661d278a3105878a2b1]: Textual amendment: [Sch. 7A para. 11 and cross-heading](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/part/1/crossheading/company-authorising-reporting-company-appointment-treated-as-consenting-company) omitted (with effect in relation to periods of account ending on or after 31.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(12)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/12)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-be48445e83a5021f37382b6d423f2b6c]: Textual amendment: [Sch. 7A paras. 11A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/11A), [11B](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/11B) and cross-heading inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(13)(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/13/21)
+[^c-be48445e83a5021f37382b6d423f2b6c]: Textual amendment: [Sch. 7A paras. 11A](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/11A), [11B](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/11B) and cross-heading inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(13)(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/13/21)
 
-[^key-37fa3631fa7d15b764f3f045b89c9761]: Modification: Sch. 7A para. 12(2) applied (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 23(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/3)
+[^c-37fa3631fa7d15b764f3f045b89c9761]: Modification: Sch. 7A para. 12(2) applied (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 23(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/3)
 
-[^key-7314b7869b3a2f51d4bb54781688e6d5]: Textual amendment: [Sch. 7A para. 20(3)(za)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/3/za) inserted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/a/i)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
+[^c-7314b7869b3a2f51d4bb54781688e6d5]: Textual amendment: [Sch. 7A para. 20(3)(za)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/3/za) inserted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/a/i)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
 
-[^key-b647ab7dbc876a622f5fd619e1f44415]: Textual amendment: Words in [Sch. 7A para. 20(3)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/3/c) inserted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/a/ii)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
+[^c-b647ab7dbc876a622f5fd619e1f44415]: Textual amendment: Words in [Sch. 7A para. 20(3)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/3/c) inserted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/a/ii)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
 
-[^key-9d6f95fe0e7aff398c42b90006374ba2]: Textual amendment: [Sch. 7A para. 20(3)(ca)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/3/ca) inserted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/a/iii)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
+[^c-9d6f95fe0e7aff398c42b90006374ba2]: Textual amendment: [Sch. 7A para. 20(3)(ca)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/3/ca) inserted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/a/iii)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
 
-[^key-514f2cea3315d3607fbfe666dfe3ba93]: Textual amendment: Words in [Sch. 7A para. 20(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/5) substituted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/b)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
+[^c-514f2cea3315d3607fbfe666dfe3ba93]: Textual amendment: Words in [Sch. 7A para. 20(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/20/5) substituted (with effect in accordance with s. 61(20) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(14)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/14/b)[(20)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/20)
 
-[^key-ab87b62b0d6ee3f4388b00f9742b59c6]: Textual amendment: Sch. 7A para. 20(5A)(5B) inserted (with effect in accordance with Sch. 11 para. 26 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 18](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/18)
+[^c-ab87b62b0d6ee3f4388b00f9742b59c6]: Textual amendment: Sch. 7A para. 20(5A)(5B) inserted (with effect in accordance with Sch. 11 para. 26 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 18](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/18)
 
-[^key-930a93b69802c4dd8f930a761d9e5bab]: Textual amendment: Words in [Sch. 7A para. 29(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1/a) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(15)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/15/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-930a93b69802c4dd8f930a761d9e5bab]: Textual amendment: Words in [Sch. 7A para. 29(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1/a) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(15)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/15/a)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-473dbfd4c23d142880ef297a992bc643]: Textual amendment: Words in [Sch. 7A para. 29(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1/a) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/22/2/a)
+[^c-473dbfd4c23d142880ef297a992bc643]: Textual amendment: Words in [Sch. 7A para. 29(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1/a) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/22/2/a)
 
-[^key-aeb827b0ebef3fa7eeb50c88b9c0928f]: Textual amendment: Words in [Sch. 7A para. 29(1)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1/b) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/22/2/b)
+[^c-aeb827b0ebef3fa7eeb50c88b9c0928f]: Textual amendment: Words in [Sch. 7A para. 29(1)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1/b) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/22/2/b)
 
-[^key-075680457a7722fa3213a896994e6b2c]: Textual amendment: [Sch. 7A para. 29(1A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/22/3)
+[^c-075680457a7722fa3213a896994e6b2c]: Textual amendment: [Sch. 7A para. 29(1A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/1A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/22/3)
 
-[^key-9ab40c854d647899c2ad8940315f7d7e]: Textual amendment: [Sch. 7A para. 29(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/4) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(15)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/15/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-9ab40c854d647899c2ad8940315f7d7e]: Textual amendment: [Sch. 7A para. 29(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/29/4) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(15)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/15/b)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
 [^M_F_317783bd-260c-4691-cfc9-2ad6d4af25e1]: Textual amendment: Sch. 7A para. 29A inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2021/26/section/38/4)[(5)](https://www.legislation.gov.uk/ukpga/2021/26/section/38/5)
 
-[^key-c57c4cbe876d93d0df1eb6822c33c3cf]: Textual amendment: [Sch. 7A para. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/41/2/b) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/23/a)
+[^c-c57c4cbe876d93d0df1eb6822c33c3cf]: Textual amendment: [Sch. 7A para. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/41/2/b) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/23/a)
 
-[^key-0a64e8e001a7b62e5ef2d266b9b12411]: Textual amendment: Words in [Sch. 7A para. 41(2)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/41/2/c) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/23/b)
+[^c-0a64e8e001a7b62e5ef2d266b9b12411]: Textual amendment: Words in [Sch. 7A para. 41(2)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/41/2/c) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/23/b)
 
-[^key-5fb9b945ba0c49bb06cfcc2c2d80c251]: Textual amendment: [Sch. 7A para. 44(1A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/44/1A) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(16)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/16)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-5fb9b945ba0c49bb06cfcc2c2d80c251]: Textual amendment: [Sch. 7A para. 44(1A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/44/1A) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(16)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/16)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-6d5a03cd5332fd37c1195ff053ed4f3c]: Textual amendment: [Sch. 7A para. 56(1)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/1/b) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/2)
+[^c-6d5a03cd5332fd37c1195ff053ed4f3c]: Textual amendment: [Sch. 7A para. 56(1)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/1/b) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/2)
 
-[^key-e8dbdbd026a31f4df2b87773e426e5a6]: Textual amendment: Word in [Sch. 7A para. 56(1)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/1/c) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/3/a)
+[^c-e8dbdbd026a31f4df2b87773e426e5a6]: Textual amendment: Word in [Sch. 7A para. 56(1)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/1/c) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/3/a)
 
-[^key-dbcb22965b67c426f4fc1bfffb21ef75]: Textual amendment: Words in [Sch. 7A para. 56(1)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/1/c) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/3/b)
+[^c-dbcb22965b67c426f4fc1bfffb21ef75]: Textual amendment: Words in [Sch. 7A para. 56(1)(c)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/1/c) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/3/b)
 
-[^key-5e32b0cf756b87ab6d9659bc06e28c18]: Textual amendment: [Sch. 7A para. 56(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/2) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/4)
+[^c-5e32b0cf756b87ab6d9659bc06e28c18]: Textual amendment: [Sch. 7A para. 56(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/2) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/4)
 
-[^key-769ce38da61d14265b9906fe8793df36]: Textual amendment: [Sch. 7A para. 56(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/3) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/4)
+[^c-769ce38da61d14265b9906fe8793df36]: Textual amendment: [Sch. 7A para. 56(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/3) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/4)
 
-[^key-08accaf9e7c00435081a886555cee701]: Textual amendment: Words in [Sch. 7A para. 56(4)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/4/a) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(17)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/17)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-08accaf9e7c00435081a886555cee701]: Textual amendment: Words in [Sch. 7A para. 56(4)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/4/a) inserted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(17)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/17)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
-[^key-3725fd715f5a95ebb75206c19feb5334]: Textual amendment: [Sch. 7A para. 56(5A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/5A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/5)
+[^c-3725fd715f5a95ebb75206c19feb5334]: Textual amendment: [Sch. 7A para. 56(5A)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/5A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/5)
 
-[^key-f97d721573c3a51c69b99abb346433d6]: Textual amendment: [Sch. 7A para. 56(9)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/9/a)[(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/9/b) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(6)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/6/a)
+[^c-f97d721573c3a51c69b99abb346433d6]: Textual amendment: [Sch. 7A para. 56(9)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/9/a)[(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/9/b) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(6)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/6/a)
 
-[^key-af29f27cb981ef0a54a10422479aae96]: Textual amendment: Words in [Sch. 7A para. 56(9)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/9) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/6/b)
+[^c-af29f27cb981ef0a54a10422479aae96]: Textual amendment: Words in [Sch. 7A para. 56(9)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/56/9) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 24(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/24/6/b)
 
-[^key-3689c8be61ee08a056c702256f3d5a8e]: Textual amendment: [Sch. 7A para. 61(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/61/2) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(18)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/18)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
+[^c-3689c8be61ee08a056c702256f3d5a8e]: Textual amendment: [Sch. 7A para. 61(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/61/2) substituted (with effect in relation to periods of account ending on or after 31.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 61(18)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/18)[(21)](https://www.legislation.gov.uk/ukpga/2026/11/section/61/21)
 
 [^M_F_4e493022-bb95-43bd-cdd5-573381f6916f]: Textual amendment: Sch. 7A para. 70 cross-heading substituted (with effect in accordance with Sch. 8 para. 25 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 15(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/16)
 
-[^key-5cb9d00c12f6fa5dbd97b73931de88fe]: Textual amendment: Words in Sch. 7A para. 70(1) substituted (with effect in accordance with Sch. 8 para. 25 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 15(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/15/2)
+[^c-5cb9d00c12f6fa5dbd97b73931de88fe]: Textual amendment: Words in Sch. 7A para. 70(1) substituted (with effect in accordance with Sch. 8 para. 25 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 15(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/15/2)
 
-[^key-e3277e249b21cc70117e6d6d9b3fb858]: Textual amendment: Sch. 7A para. 70(1A) inserted (with effect in accordance with Sch. 8 para. 25 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 15(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/15/3)
+[^c-e3277e249b21cc70117e6d6d9b3fb858]: Textual amendment: Sch. 7A para. 70(1A) inserted (with effect in accordance with Sch. 8 para. 25 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 15(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/15/3)
 
-[^key-ef4a8d89249556a111200d430c928270]: Textual amendment: Sch. 7A para. 70A and cross-heading inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/16) (with [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/26))
+[^c-ef4a8d89249556a111200d430c928270]: Textual amendment: Sch. 7A para. 70A and cross-heading inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/16) (with [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/26))
 
-[^key-cfc279c673bb111ceda552cd17f63756]: Textual amendment: Words in Sch. 7A para. 71 cross-heading substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 17(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/17/3)
+[^c-cfc279c673bb111ceda552cd17f63756]: Textual amendment: Words in Sch. 7A para. 71 cross-heading substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 17(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/17/3)
 
-[^key-102d8c4b3853756a60170c368da5ee49]: Textual amendment: Words in Sch. 7A para. 71(1)(a) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 17(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/17/2)
+[^c-102d8c4b3853756a60170c368da5ee49]: Textual amendment: Words in Sch. 7A para. 71(1)(a) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 17(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/17/2)
 
-[^key-51d5e5d1d9f38185024f292351fb4b32]: Textual amendment: Words in [Sch. 7A para. 72(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/72/1/a) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/25)
+[^c-51d5e5d1d9f38185024f292351fb4b32]: Textual amendment: Words in [Sch. 7A para. 72(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7A/paragraph/72/1/a) omitted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Consignments not correctly presented for official controls[^key-67a042fdb7f2d476521cf2948567975b]
+## 9. Consignments not correctly presented for official controls[^c-67a042fdb7f2d476521cf2948567975b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a plant health inspector suspects or is aware that a controlled consignmen
 
 ## Annotations
 
-[^key-67a042fdb7f2d476521cf2948567975b]: Commencement: Reg. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-67a042fdb7f2d476521cf2948567975b]: Commencement: Reg. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

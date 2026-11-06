@@ -72,19 +72,19 @@ At the end of the list of treaties in section 1(2) of the European Communities A
 
 (6) In an Act or instrument made under an Act a reference to all or any of the Communities shall, in the application of the enactment or instrument after the passing of this Act, be treated as being or including (as the context requires) a reference to the EU.
 
-## 4. Increase of powers of European Parliament[^key-cef335b4f31a080d9de9fb8743e699d0]
+## 4. Increase of powers of European Parliament[^c-cef335b4f31a080d9de9fb8743e699d0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Euratom Treaty[^key-cef335b4f31a080d9de9fb8743e699d0]
+## 5. Amendment of Euratom Treaty[^c-cef335b4f31a080d9de9fb8743e699d0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Parliamentary control of decisions[^key-358d41bd060163f09d01c34026ed26ea]
+## 6. Parliamentary control of decisions[^c-358d41bd060163f09d01c34026ed26ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -170,8 +170,8 @@ Section 3
 
 ## Annotations
 
-[^key-cef335b4f31a080d9de9fb8743e699d0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2008/7) repealed (4.7.2018 for the repeal of ss. 4, 5) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i) (with [regs. 6](https://www.legislation.gov.uk/uksi/2018/808/regulation/6), [7](https://www.legislation.gov.uk/uksi/2018/808/regulation/7))
+[^c-cef335b4f31a080d9de9fb8743e699d0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2008/7) repealed (4.7.2018 for the repeal of ss. 4, 5) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i) (with [regs. 6](https://www.legislation.gov.uk/uksi/2018/808/regulation/6), [7](https://www.legislation.gov.uk/uksi/2018/808/regulation/7))
 
-[^key-358d41bd060163f09d01c34026ed26ea]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2008/7/section/6) repealed (19.8.2011) by [European Union Act 2011 (c. 12)](https://www.legislation.gov.uk/ukpga/2011/12), [ss. 14(3)(d)](https://www.legislation.gov.uk/ukpga/2011/12/section/14/3/d), [21](https://www.legislation.gov.uk/ukpga/2011/12/section/21); [S.I. 2011/1984](https://www.legislation.gov.uk/uksi/2011/1984), [art. 2](https://www.legislation.gov.uk/uksi/2011/1984/article/2)
+[^c-358d41bd060163f09d01c34026ed26ea]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2008/7/section/6) repealed (19.8.2011) by [European Union Act 2011 (c. 12)](https://www.legislation.gov.uk/ukpga/2011/12), [ss. 14(3)(d)](https://www.legislation.gov.uk/ukpga/2011/12/section/14/3/d), [21](https://www.legislation.gov.uk/ukpga/2011/12/section/21); [S.I. 2011/1984](https://www.legislation.gov.uk/uksi/2011/1984), [art. 2](https://www.legislation.gov.uk/uksi/2011/1984/article/2)
 
 [^c2034513]: Subordinate legislation: [S. 8(1)(2)](https://www.legislation.gov.uk/ukpga/2008/7/section/8/1/2) power fully exercised: 1.12.2009 appointed for specified provisions by {[S.I. 2009/3143](https://www.legislation.gov.uk/uksi/2009/3143)}, art. 2

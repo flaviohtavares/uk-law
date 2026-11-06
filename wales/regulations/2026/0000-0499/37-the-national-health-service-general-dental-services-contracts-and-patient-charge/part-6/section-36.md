@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Mandatory services proportions[^key-6c2948b176234287dc1d2946d186ce93]
+## 36. Mandatory services proportions[^c-6c2948b176234287dc1d2946d186ce93]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c2948b176234287dc1d2946d186ce93]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2026/37/regulation/36) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-6c2948b176234287dc1d2946d186ce93]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2026/37/regulation/36) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

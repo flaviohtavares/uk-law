@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Earnings of employed earners[^key-f78d1cdd3eacfa69e0715dfbff413bc2]
+## 18. Earnings of employed earners[^c-f78d1cdd3eacfa69e0715dfbff413bc2]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f78d1cdd3eacfa69e0715dfbff413bc2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1988/1890/regulation/18) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-f78d1cdd3eacfa69e0715dfbff413bc2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1988/1890/regulation/18) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00041]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); section 68(2) was amended by section 21 and Schedule 3 paragraph 21 of the Employment Act [1982 (c. 46)](https://www.legislation.gov.uk/ukpga/1982/46); section 71(2) was amended by sections 5 and 21, Schedule 3 paragraph 22 and Schedule 4 of the Employment Act 1982.
 

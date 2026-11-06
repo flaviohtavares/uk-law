@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An authorisation order may be revoked by an order made by the FCA[^key-225f639a0482e6aafade78ac497b5cbc] if it appears to the FCA that—
+(1) An authorisation order may be revoked by an order made by the FCA[^c-225f639a0482e6aafade78ac497b5cbc] if it appears to the FCA that—
 
 - (a)[^c1709534] one or more of the requirements for the making of the order are no longer satisfied;
 - (b) the manager or trustee of the scheme concerned has contravened a requirement imposed on him by or under this Act;
@@ -43,7 +43,7 @@ summary: ''
 
 [^c1709533]: Modification: S. 254 applied (with modifications) (1.12.2001) by [S.I. 2001/3592](https://www.legislation.gov.uk/uksi/2001/3592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2), [46(4)(5)](https://www.legislation.gov.uk/uksi/2001/3592/article/46/4/5) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/23/2))
 
-[^key-225f639a0482e6aafade78ac497b5cbc]: Textual amendment: Word in ss. 254-262 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-225f639a0482e6aafade78ac497b5cbc]: Textual amendment: Word in ss. 254-262 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c1709534]: Modification: S. 254(1)(a) modified (1.12.2001) by [S.I. 2001/2636](https://www.legislation.gov.uk/uksi/2001/2636), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b), [65(2)](https://www.legislation.gov.uk/uksi/2001/2636/article/65/2); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 

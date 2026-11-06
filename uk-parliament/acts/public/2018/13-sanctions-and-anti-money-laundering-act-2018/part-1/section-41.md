@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Procedure for dealing with goods etc seized from ships[^key-7031f09ee8f971eafc28444771d29ce2][^key-c586c72b2628e63a17ba496d6d5a231d]
+## 41. Procedure for dealing with goods etc seized from ships[^c-7031f09ee8f971eafc28444771d29ce2][^c-c586c72b2628e63a17ba496d6d5a231d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7031f09ee8f971eafc28444771d29ce2]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2018/13/section/41) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-7031f09ee8f971eafc28444771d29ce2]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2018/13/section/41) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
 
-[^key-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

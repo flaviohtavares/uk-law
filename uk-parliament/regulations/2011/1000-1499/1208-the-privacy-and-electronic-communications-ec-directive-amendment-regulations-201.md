@@ -46,24 +46,24 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in respect of matters relating to electronic communications, in exercise of the powers conferred by that section makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6726a97e62d03e9015d87791ccee9cb3]
+## 1. Citation, commencement and interpretation[^c-6726a97e62d03e9015d87791ccee9cb3]
 
 (1) These Regulations may be cited as the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 and shall come into force on 26th May 2011.
 
 (2) In these Regulations “the 2003 Regulations” means the Privacy and Electronic Communications (EC Directive) Regulations 2003[^f00003].
 
-## 2. Amendment of the 2003 Regulations[^key-b39258af5bf005cdfa7a224e3beb3db7]
+## 2. Amendment of the 2003 Regulations[^c-b39258af5bf005cdfa7a224e3beb3db7]
 
 The 2003 Regulations are amended as set out in the following regulations.
 
-## 3.[^key-06bf144dcacc1360e5750383f7a912ec]
+## 3.[^c-06bf144dcacc1360e5750383f7a912ec]
 
 In regulation 2—
 
 - (a) in the definition of “location data” after “electronic communications network” insert “or by an electronic communications service”;
 - (b) after the definition of “OFCOM”, insert ““personal data breach” means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed in connection with the provision of a public electronic communications service;”.
 
-## 4.[^key-2b9f313fe45b7650a713bca2fa3bfd0b]
+## 4.[^c-2b9f313fe45b7650a713bca2fa3bfd0b]
 
 (1) In regulation 5, after paragraph (1) insert—
 
@@ -79,7 +79,7 @@ In regulation 2—
 
 .
 
-## 5.[^key-9de919b3796ec3206bfb10d002bb45ff]
+## 5.[^c-9de919b3796ec3206bfb10d002bb45ff]
 
 After regulation 5, insert—
 
@@ -164,7 +164,7 @@ After regulation 5, insert—
 >
 > (11) In Scotland, the penalty may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
-## 6.[^key-dc26bd1a62483728330660d272e5c934]
+## 6.[^c-dc26bd1a62483728330660d272e5c934]
 
 (1) In regulation 6—
 
@@ -178,15 +178,15 @@ After regulation 5, insert—
 
 (5) In paragraph (4)(a) omit “or facilitating”.
 
-## 7.[^key-b8d89b8c2c8bdfce81e46e842290f860]
+## 7.[^c-b8d89b8c2c8bdfce81e46e842290f860]
 
 In regulation 7(3)(b) for “given his consent” substitute “previously notified the provider that he consents”.
 
-## 8.[^key-bf6d99354dfcfd865a3ee1e18ffbdae9]
+## 8.[^c-bf6d99354dfcfd865a3ee1e18ffbdae9]
 
 In regulation 19(1) after “automated calling” insert “or communication”.
 
-## 9.[^key-5125fc4606749302e356adc5db3d8063]
+## 9.[^c-5125fc4606749302e356adc5db3d8063]
 
 (1) In regulation 23, at the end of paragraph (a) omit “or”.
 
@@ -195,7 +195,7 @@ In regulation 19(1) after “automated calling” insert “or communication”.
 > - (c) where that electronic mail would contravene regulation 7 of the Electronic Commerce (EC Directive) Regulations 2002[^f00004]; or
 > - (d) where that electronic mail encourages recipients to visit websites which contravene that regulation.
 
-## 10.[^key-8db85cfaa687e94cfcf2b96106d1a65c]
+## 10.[^c-8db85cfaa687e94cfcf2b96106d1a65c]
 
 After regulation 29 insert—
 
@@ -208,14 +208,14 @@ After regulation 29 insert—
 > - (c) the legal justification for the request; and
 > - (d) the communications provider’s response.
 
-## 11.[^key-bd66b3339ef7353b238ea3abc17b8974]
+## 11.[^c-bd66b3339ef7353b238ea3abc17b8974]
 
 In regulation 31—
 
 - (a) in paragraph (1) after “provisions of Part V” insert “and sections 55A to 55E”.
 - (b) at the end of paragraph (2) insert “and the functions set out in regulations 31A and 31B”.
 
-## 12.[^key-58a0e5fcfb79dbab3829650eabf8a756]
+## 12.[^c-58a0e5fcfb79dbab3829650eabf8a756]
 
 After regulation 31 insert—
 
@@ -256,7 +256,7 @@ After regulation 31 insert—
 >
 > (2) Appeals shall be determined in accordance with section 49 of and Schedule 6 to the Data Protection Act 1998 as modified by Schedule 1 to these Regulations.
 
-## 13.[^key-2e47d98ddb469a980f50fe78be87c49e]
+## 13.[^c-2e47d98ddb469a980f50fe78be87c49e]
 
 After regulation 36 insert—
 
@@ -283,7 +283,7 @@ After regulation 36 insert—
 >
 > (5) If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to being with the day on which that report is published.
 
-## 14.[^key-84217ce6d9ddf70501de889c452a3e3c]
+## 14.[^c-84217ce6d9ddf70501de889c452a3e3c]
 
 Schedule 1 to the 2003 Regulations is amended as follows—
 
@@ -336,14 +336,14 @@ Schedule 1 to the 2003 Regulations is amended as follows—
 
   > **10A.** In paragraph 2(1A) of Schedule 9 for “assessment notice” there shall be substituted “audit notice”.
 
-## 15. Amendment of the Telecommunications (Lawful Business Practice) (Interception of Communications) Regulations 2000[^key-0deeec2de0d199aa9b388a54cbcc1ac5]
+## 15. Amendment of the Telecommunications (Lawful Business Practice) (Interception of Communications) Regulations 2000[^c-0deeec2de0d199aa9b388a54cbcc1ac5]
 
 The Telecommunications (Lawful Business Practice) (Interception of Communications) Regulations 2000[^f00005] are amended as follows—
 
 - (a) in regulation 3(1) omit “or implied”;
 - (b) at the end of regulation 3(3) insert “as amended by Directive [2009/136/EC](https://www.legislation.gov.uk/european/directive/2009/0136) of the European Parliament and of the Council of 25 November 2009 amending Directive [2002/22/EC](https://www.legislation.gov.uk/european/directive/2002/0022) on universal service and users’ rights relating to electronic communications networks and services, Directive [2002/58/EC](https://www.legislation.gov.uk/european/directive/2002/0058) concerning the processing of personal data and the protection of privacy in the electronic communications sector and Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/european/regulation/2004/2006) on cooperation between national authorities responsible for the enforcement of consumer protection laws[^f00006].”.
 
-## 16. Amendment of the Enterprise Act 2002[^key-dce1be327056d5de659de373334d19dd]
+## 16. Amendment of the Enterprise Act 2002[^c-dce1be327056d5de659de373334d19dd]
 
 The Enterprise Act 2002[^f00007] is amended as follows—
 
@@ -354,7 +354,7 @@ The Enterprise Act 2002[^f00007] is amended as follows—
 
   .
 
-## 17. Amendment of the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^key-7bcc8ef6fc6e3b0939e14b6a9a47280e]
+## 17. Amendment of the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^c-7bcc8ef6fc6e3b0939e14b6a9a47280e]
 
 At the end of the Schedule to the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^f00008] insert—
 
@@ -416,48 +416,48 @@ A transposition and a full impact assessment of the effect that this instrument 
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-6726a97e62d03e9015d87791ccee9cb3]: Commencement: Reg. 1 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-6726a97e62d03e9015d87791ccee9cb3]: Commencement: Reg. 1 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426); which have been amended, but those amendments are not relevant to these regulations.
 
-[^key-b39258af5bf005cdfa7a224e3beb3db7]: Commencement: Reg. 2 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-b39258af5bf005cdfa7a224e3beb3db7]: Commencement: Reg. 2 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-06bf144dcacc1360e5750383f7a912ec]: Commencement: Reg. 3 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-06bf144dcacc1360e5750383f7a912ec]: Commencement: Reg. 3 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-2b9f313fe45b7650a713bca2fa3bfd0b]: Commencement: Reg. 4 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-2b9f313fe45b7650a713bca2fa3bfd0b]: Commencement: Reg. 4 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-9de919b3796ec3206bfb10d002bb45ff]: Commencement: Reg. 5 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-9de919b3796ec3206bfb10d002bb45ff]: Commencement: Reg. 5 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-dc26bd1a62483728330660d272e5c934]: Commencement: Reg. 6 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-dc26bd1a62483728330660d272e5c934]: Commencement: Reg. 6 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-b8d89b8c2c8bdfce81e46e842290f860]: Commencement: Reg. 7 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-b8d89b8c2c8bdfce81e46e842290f860]: Commencement: Reg. 7 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-bf6d99354dfcfd865a3ee1e18ffbdae9]: Commencement: Reg. 8 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-bf6d99354dfcfd865a3ee1e18ffbdae9]: Commencement: Reg. 8 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-5125fc4606749302e356adc5db3d8063]: Commencement: Reg. 9 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-5125fc4606749302e356adc5db3d8063]: Commencement: Reg. 9 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013); which has been amended but those amendments are not relevant.
 
-[^key-8db85cfaa687e94cfcf2b96106d1a65c]: Commencement: Reg. 10 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-8db85cfaa687e94cfcf2b96106d1a65c]: Commencement: Reg. 10 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-bd66b3339ef7353b238ea3abc17b8974]: Commencement: Reg. 11 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-bd66b3339ef7353b238ea3abc17b8974]: Commencement: Reg. 11 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-58a0e5fcfb79dbab3829650eabf8a756]: Commencement: Reg. 12 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-58a0e5fcfb79dbab3829650eabf8a756]: Commencement: Reg. 12 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-2e47d98ddb469a980f50fe78be87c49e]: Commencement: Reg. 13 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-2e47d98ddb469a980f50fe78be87c49e]: Commencement: Reg. 13 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-84217ce6d9ddf70501de889c452a3e3c]: Commencement: Reg. 14 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-84217ce6d9ddf70501de889c452a3e3c]: Commencement: Reg. 14 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
-[^key-0deeec2de0d199aa9b388a54cbcc1ac5]: Commencement: Reg. 15 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-0deeec2de0d199aa9b388a54cbcc1ac5]: Commencement: Reg. 15 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2000/2699](https://www.legislation.gov.uk/uksi/2000/2699); which was amended by [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426).
 
 [^f00006]: Footnote: O.J. L 337, 18.12.2009, p.11.
 
-[^key-dce1be327056d5de659de373334d19dd]: Commencement: Reg. 16 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-dce1be327056d5de659de373334d19dd]: Commencement: Reg. 16 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
 [^f00007]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40). Section 213(5A) was inserted by [S.I. 2006/3363](https://www.legislation.gov.uk/uksi/2006/3363). Schedule 13 has been amended by [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095), [2006/3363](https://www.legislation.gov.uk/uksi/2006/3363), [2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), [2009/2999](https://www.legislation.gov.uk/uksi/2009/2999) and [2010/2960](https://www.legislation.gov.uk/uksi/2010/2960).
 
-[^key-7bcc8ef6fc6e3b0939e14b6a9a47280e]: Commencement: Reg. 17 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
+[^c-7bcc8ef6fc6e3b0939e14b6a9a47280e]: Commencement: Reg. 17 in force at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1208/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2003/1374](https://www.legislation.gov.uk/uksi/2003/1374); which has been amended but those amendments are not relevant.

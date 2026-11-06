@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1038B. Employee shareholder shares[^key-6f1b0d4fbadbe680535a8257e1cc9b81]
+## 1038B. Employee shareholder shares[^c-6f1b0d4fbadbe680535a8257e1cc9b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f1b0d4fbadbe680535a8257e1cc9b81]: Textual amendment: S. 1038B omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(g)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/g)
+[^c-6f1b0d4fbadbe680535a8257e1cc9b81]: Textual amendment: S. 1038B omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(g)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/g)

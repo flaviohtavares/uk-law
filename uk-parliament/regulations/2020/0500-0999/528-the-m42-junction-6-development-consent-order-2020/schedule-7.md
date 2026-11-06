@@ -22,7 +22,7 @@ summary: ''
 
 Article 19
 
-### PART 1 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-8011ba4c6f9e4bd66ad2e3394f6d0a7f]
+### PART 1 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-8011ba4c6f9e4bd66ad2e3394f6d0a7f]
 
 | *(1)*<br>*Road name, number and length* | *(2)*<br>*Measures* |
 | --- | --- |
@@ -43,7 +43,7 @@ Article 19
 | M42 Northbound to A45 Westbound | Prohibition of entry onto the free flow link from the M42 northbound to the A45 Westbound, as shown on Sheet 5 of Traffic Regulation Measures (Clearways & Weight Limits) Plans |
 | East Way Roundabout | Prohibition of entry from the relocated East Way Roundabout (Work No. 30(b)) to the southbound diverge off M42 (Work No. 28), as shown on Sheet 5 of Traffic Regulation Measures (Clearways & Weight Limits) Plans |
 
-### PART 2 — TRAFFIC REGULATION MEASURES (WEIGHT RESTRICTIONS)[^key-e807159461346416f5c0b5700fcc915b]
+### PART 2 — TRAFFIC REGULATION MEASURES (WEIGHT RESTRICTIONS)[^c-e807159461346416f5c0b5700fcc915b]
 
 | *(1)*<br>*Road name, number and length* | *(2)*<br>*Measures* |
 | --- | --- |
@@ -52,6 +52,6 @@ Article 19
 
 ## Annotations
 
-[^key-8011ba4c6f9e4bd66ad2e3394f6d0a7f]: Commencement: Sch. 7 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-8011ba4c6f9e4bd66ad2e3394f6d0a7f]: Commencement: Sch. 7 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-e807159461346416f5c0b5700fcc915b]: Commencement: Sch. 7 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-e807159461346416f5c0b5700fcc915b]: Commencement: Sch. 7 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

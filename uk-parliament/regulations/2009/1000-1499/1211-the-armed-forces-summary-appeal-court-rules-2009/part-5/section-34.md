@@ -26,8 +26,8 @@ summary: ''
 
 (3) This rule applies to ancillary proceedings.
 
-(4)[^key-64581b7085ffdebd2e322663cc44489f] This rule applies to variation proceedings if a direction is given under rule 88E.
+(4)[^c-64581b7085ffdebd2e322663cc44489f] This rule applies to variation proceedings if a direction is given under rule 88E.
 
 ## Annotations
 
-[^key-64581b7085ffdebd2e322663cc44489f]: Textual amendment: [Rule 34(4)](https://www.legislation.gov.uk/uksi/2009/1211/rule/34/4) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [8](https://www.legislation.gov.uk/uksi/2023/1097/rule/8)
+[^c-64581b7085ffdebd2e322663cc44489f]: Textual amendment: [Rule 34(4)](https://www.legislation.gov.uk/uksi/2009/1211/rule/34/4) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [8](https://www.legislation.gov.uk/uksi/2023/1097/rule/8)

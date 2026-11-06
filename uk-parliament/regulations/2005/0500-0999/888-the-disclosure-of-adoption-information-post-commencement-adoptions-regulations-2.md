@@ -50,7 +50,7 @@ The Secretary of State in the exercise of the powers conferred on her by section
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and application[^key-e6e01dfcce8d9af1b9344dca29b09047]
+### 1. Citation, commencement and application[^c-e6e01dfcce8d9af1b9344dca29b09047]
 
 (1) These Regulations may be cited as the Disclosure of Adoption Information (Post-Commencement Adoptions) Regulations 2005 and shall come into force on 30th December 2005.
 
@@ -58,30 +58,30 @@ The Secretary of State in the exercise of the powers conferred on her by section
 
 (3) These Regulations apply only in relation to adoptions on or after 30th December 2005.
 
-### 2. Interpretation[^key-1638fec82f3f16915fd37c1f62fd15cb]
+### 2. Interpretation[^c-1638fec82f3f16915fd37c1f62fd15cb]
 
 In these Regulations—
 
 - “the Act” means the Adoption and Children Act 2002;
 - “appropriate adoption agency” has the same meaning as in section 65(1) of the Act;
 - “independent review panel” means a panel constituted under section 12 of Act;
-- “registered adoption support agency” means an adoption support agency which is—[^key-3805c7d371eedf2f95a887a17cf9dcb4]
+- “registered adoption support agency” means an adoption support agency which is—[^c-3805c7d371eedf2f95a887a17cf9dcb4]
   - (a) in relation to England, an adoption support agency in respect of which a person is registered under Part 2 of the Care Standards Act 2000, or
   - (b) registered as a provider in Wales of an adoption service under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
-- “the registration authority” means Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^key-a98e4c411c327910ae35d18d1063ab50];
-- “relative” in relation to an adopted person means a person who, but for the adoption, would be related to him by blood (including half-blood) , marriage, civil partnership,[^key-e53942303dffcca1688641f5ee076996] or by virtue of sections 27 to 29 of the Human Fertilisation and Embryology Act 1990 or sections 33 to 47 of the Human Fertilisation and Embryology Act 2008[^key-e09d7098e1090e939c6ef166ec43fc7b];
+- “the registration authority” means Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^c-a98e4c411c327910ae35d18d1063ab50];
+- “relative” in relation to an adopted person means a person who, but for the adoption, would be related to him by blood (including half-blood) , marriage, civil partnership,[^c-e53942303dffcca1688641f5ee076996] or by virtue of sections 27 to 29 of the Human Fertilisation and Embryology Act 1990 or sections 33 to 47 of the Human Fertilisation and Embryology Act 2008[^c-e09d7098e1090e939c6ef166ec43fc7b];
 - “section 56 information” means the information prescribed by regulation 4.
 
 ## PART 2 — KEEPING OF INFORMATION ABOUT ADOPTIONS
 
-### 3. Application of this Part[^key-14bb77858c4b54e89bf885387ee0895f]
+### 3. Application of this Part[^c-14bb77858c4b54e89bf885387ee0895f]
 
 The requirements of this Part in relation to the keeping of information about a person’s adoption apply—
 
 - (a) to the adoption agency that placed the person for adoption; or
 - (b) to an adoption agency to which the case record in respect of the adopted person (or any information mentioned in regulation 4(3)) has been transferred.
 
-### 4. Information to be kept about a person’s adoption[^key-b668f90922c5338d04ac8aff3e133fe0]
+### 4. Information to be kept about a person’s adoption[^c-b668f90922c5338d04ac8aff3e133fe0]
 
 (1) Paragraphs (2) and (3) prescribe, for the purposes of section 56 of the Act, the information that an adoption agency must keep in relation to a person’s adoption (“section 56 information”).
 
@@ -102,15 +102,15 @@ The requirements of this Part in relation to the keeping of information about a 
 - (a) that it would be prejudicial to the adopted person’s welfare to keep it; or
 - (b) that it would not be reasonably practicable to keep it.
 
-### 5. Storage and manner of keeping of section 56 information[^key-93220665499e1e6b1f0f92de44611918]
+### 5. Storage and manner of keeping of section 56 information[^c-93220665499e1e6b1f0f92de44611918]
 
 The adoption agency must ensure that section 56 information in relation to a person’s adoption is at all times kept in secure conditions and in particular that all appropriate measures are taken to prevent theft, unauthorised disclosure, damage, loss or destruction.
 
-### 6. Preservation of section 56 information[^key-71a6eafaa8699084aadd33fb408967c2]
+### 6. Preservation of section 56 information[^c-71a6eafaa8699084aadd33fb408967c2]
 
 The adoption agency must keep section 56 information in relation to a person’s adoption for at least 100 years from the date of the adoption order.
 
-### 7. Transfer of section 56 information[^key-1aaa6357a441f399087f3ef422cf17a0]
+### 7. Transfer of section 56 information[^c-1aaa6357a441f399087f3ef422cf17a0]
 
 (1) Where a registered adoption society[^f00008] intends to cease to act or exist as such, it must transfer any section 56 information which it holds in relation to a person’s adoption—
 
@@ -124,30 +124,30 @@ The adoption agency must keep section 56 information in relation to a person’s
 
 ## PART 3 — DISCLOSURE OF INFORMATION - GENERAL
 
-### 8. Disclosure for purposes of agency’s functions or for research[^key-baf6098733e3bf1e94647639c8f1ef9b]
+### 8. Disclosure for purposes of agency’s functions or for research[^c-baf6098733e3bf1e94647639c8f1ef9b]
 
 (1) An adoption agency may disclose section 56 information that is not protected information[^f00009] as it thinks fit for the purposes of carrying out its functions as an adoption agency.
 
 (2) An adoption agency may disclose section 56 information (including protected information) to—
 
-- (a) a registered adoption support agency or another adoption agency which provides services to the adoption agency in connection with any of its functions under section 61 or 62 of the Act (disclosing protected information about adults or about children); [^key-c4e2e3fff2c39c7fce45350707ed3f9b]...
-- (b) a person who is authorised in writing by the Secretary of State to obtain information for the purposes of research; or[^key-a06bbc95cd760f33355afb9d578fa59c]
+- (a) a registered adoption support agency or another adoption agency which provides services to the adoption agency in connection with any of its functions under section 61 or 62 of the Act (disclosing protected information about adults or about children); [^c-c4e2e3fff2c39c7fce45350707ed3f9b]...
+- (b) a person who is authorised in writing by the Secretary of State to obtain information for the purposes of research; or[^c-a06bbc95cd760f33355afb9d578fa59c]
 - (c) another adoption agency as it thinks fit for purposes related to its functions or the receiving agency’s functions as an adoption agency.
 
-### 9. Disclosure required for purposes of inquiries, inspection etc.[^key-be7939a3b55e0a5a4be4a494cbf47478]
+### 9. Disclosure required for purposes of inquiries, inspection etc.[^c-be7939a3b55e0a5a4be4a494cbf47478]
 
 An adoption agency must disclose section 56 information (including protected information) as may be required—
 
-- (a) to those holding an inquiry under sections 3 and 4 of the Children Act 2004 (inquiries held by the Children’s Commissioner) or under the Inquiries Act 2005[^key-1a2313500e794bebdb82f8e1e1032496] for the purposes of such an inquiry;
+- (a) to those holding an inquiry under sections 3 and 4 of the Children Act 2004 (inquiries held by the Children’s Commissioner) or under the Inquiries Act 2005[^c-1a2313500e794bebdb82f8e1e1032496] for the purposes of such an inquiry;
 - (b) to the Secretary of State;
 - (c) to the registration authority;
 - (d) subject to the provisions of section 29(7) and 32(3) of the Local Government Act 1974[^f00011] (investigations and disclosure), to the Commission for Local Administration in England, for the purposes of any investigation conducted in accordance with Part 3 of that Act;
 - (e) to any person appointed by the adoption agency for the purposes of the consideration by the agency of any representations (including complaints);
 - (f) to a panel constituted under section 12 of the Act to consider a qualifying determination in relation to the disclosure of section 56 information;
 - (g) to a court having power to make an order under the Act or under the Children Act 1989;
-- (h)[^key-c884b41561758c4c54e6dd524f37f5f3] to the Public Services Ombudsman for Wales for the purposes of an inquiry held by him under section 2 of the Public Services Ombudsman (Wales) Act 2005.
+- (h)[^c-c884b41561758c4c54e6dd524f37f5f3] to the Public Services Ombudsman for Wales for the purposes of an inquiry held by him under section 2 of the Public Services Ombudsman (Wales) Act 2005.
 
-### 10. Requirements relating to disclosure[^key-2121a8b565c796614f8e83971dafa4a3]
+### 10. Requirements relating to disclosure[^c-2121a8b565c796614f8e83971dafa4a3]
 
 The adoption agency must make a written record of any disclosure made under regulation 8 or 9, which must include—
 
@@ -156,7 +156,7 @@ The adoption agency must make a written record of any disclosure made under regu
 - (c) the person to whom the information is disclosed;
 - (d) the reason for disclosure.
 
-### 11. Agreements for the disclosure of protected information[^key-686800917be0153037653e8c6969ef45]
+### 11. Agreements for the disclosure of protected information[^c-686800917be0153037653e8c6969ef45]
 
 (1) A prescribed agreement for the purposes of section 57(5) of the Act is—
 
@@ -175,22 +175,22 @@ The adoption agency must make a written record of any disclosure made under regu
 
 ## PART 4 — APPLICATIONS FOR DISCLOSURE OF PROTECTED INFORMATION
 
-### 12. Manner of application[^key-6c9654561e1f843c3f4ce9b3887929e7]
+### 12. Manner of application[^c-6c9654561e1f843c3f4ce9b3887929e7]
 
 An application to an adoption agency for the disclosure of protected information under section 61 or 62 of the Act must be in writing and must state the reasons for the application.
 
-### 13. Duties of agency on receipt of application[^key-809433b48ecb2432528d79a66ca80d04]
+### 13. Duties of agency on receipt of application[^c-809433b48ecb2432528d79a66ca80d04]
 
 On receipt of an application for the disclosure of protected information under section 61 or 62 of the Act an adoption agency must take reasonable steps to confirm—
 
 - (a) the identity of the applicant or of any person acting on his behalf; and
 - (b) that any person acting on behalf of the applicant is authorised to do so.
 
-### 14. Record of views[^key-d15658334f4e87dcaf3893d179a17cc0]
+### 14. Record of views[^c-d15658334f4e87dcaf3893d179a17cc0]
 
 An adoption agency must ensure that any views obtained under section 61(3) or 62(3) or (4) of the Act are recorded in writing.
 
-### 15. Independent review[^key-58bbe3780621b34d59e04ebcf7e04b2a]
+### 15. Independent review[^c-58bbe3780621b34d59e04ebcf7e04b2a]
 
 (1) The following determinations by the appropriate adoption agency in relation to an application under section 61 of the Act are qualifying determinations for the purposes of section 12 of the Act (independent review of determinations)—
 
@@ -229,7 +229,7 @@ An adoption agency must ensure that any views obtained under section 61(3) or 62
 
 ## PART 5 — COUNSELLING
 
-### 16. Information about the availability of counselling[^key-71de9d70a8154282a040275dfb1ec9e4]
+### 16. Information about the availability of counselling[^c-71de9d70a8154282a040275dfb1ec9e4]
 
 (1) An adoption agency must provide written information about the availability of counselling to any person—
 
@@ -239,7 +239,7 @@ An adoption agency must ensure that any views obtained under section 61(3) or 62
 
 (2) The information provided under paragraph (1) must include information about the fees that may be charged by persons providing counselling.
 
-### 17. Duty to secure counselling[^key-377868ff76e19144e89155d50b1c262b]
+### 17. Duty to secure counselling[^c-377868ff76e19144e89155d50b1c262b]
 
 (1) Where a person mentioned in regulation 16(1) requests that counselling be provided for him, the adoption agency must make arrangements to secure counselling for that person.
 
@@ -252,7 +252,7 @@ An adoption agency must ensure that any views obtained under section 61(3) or 62
 
 (3) In this regulation “Board” means a Health and Social Services Board established under Article 16 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00014] or, where the functions of a Board are exercisable by a Health and Social Services Trust, that Trust.
 
-### 18. Disclosure of information for the purposes of counselling[^key-29138e2cb336132fad8bbdad536000cf]
+### 18. Disclosure of information for the purposes of counselling[^c-29138e2cb336132fad8bbdad536000cf]
 
 (1) An adoption agency may disclose any information (which may include protected information) which is required for the purposes of providing counselling to any person with whom it has made arrangements to provide counselling.
 
@@ -260,7 +260,7 @@ An adoption agency must ensure that any views obtained under section 61(3) or 62
 
 ## PART 6 — THE REGISTRAR GENERAL
 
-### 19. Seeking information from the Registrar General[^key-c89b88271128407a8e2a902dc27a7232]
+### 19. Seeking information from the Registrar General[^c-c89b88271128407a8e2a902dc27a7232]
 
 (1) Where—
 
@@ -275,7 +275,7 @@ the agency must seek that information from the Registrar General.
 - (b) the names of that person’s adoptive father and mother;
 - (c) the date of the adoption order.
 
-### 20. Registrar General to disclose information regarding the appropriate adoption agency and the Adoption Contact Register[^key-162c8a0b75473caf6c2ff7ff981228fd]
+### 20. Registrar General to disclose information regarding the appropriate adoption agency and the Adoption Contact Register[^c-162c8a0b75473caf6c2ff7ff981228fd]
 
 (1) The Registrar General must—
 
@@ -286,11 +286,11 @@ the agency must seek that information from the Registrar General.
 
 ## PART 7 — MISCELLANEOUS
 
-### 21. Offence[^key-f136b05b7d548e08ad006a8e5d3c472f]
+### 21. Offence[^c-f136b05b7d548e08ad006a8e5d3c472f]
 
 A registered adoption society which discloses any information in contravention of section 57 of the Act (restrictions on disclosure etc. of information) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 22. Fees charged by adoption agencies[^key-42bfea15f862b524002625802ed984fd]
+### 22. Fees charged by adoption agencies[^c-42bfea15f862b524002625802ed984fd]
 
 (1) Subject to paragraph (2) an adoption agency may charge a fee which it determines to be a reasonable fee—
 
@@ -336,78 +336,78 @@ A Regulatory Impact Assessment has been carried out for these Regulations and a 
 
 [^f00003]: Footnote: The approval of the Chancellor of the Exchequer is required for regulation 20(2) by virtue of section 65(4) of the Act.
 
-[^key-e6e01dfcce8d9af1b9344dca29b09047]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/888/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-e6e01dfcce8d9af1b9344dca29b09047]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/888/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-1638fec82f3f16915fd37c1f62fd15cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-1638fec82f3f16915fd37c1f62fd15cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-3805c7d371eedf2f95a887a17cf9dcb4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/8/2)
+[^c-3805c7d371eedf2f95a887a17cf9dcb4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/8/2)
 
-[^key-a98e4c411c327910ae35d18d1063ab50]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [13](https://www.legislation.gov.uk/uksi/2007/603/regulation/13)
+[^c-a98e4c411c327910ae35d18d1063ab50]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [13](https://www.legislation.gov.uk/uksi/2007/603/regulation/13)
 
-[^key-e53942303dffcca1688641f5ee076996]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/73)
+[^c-e53942303dffcca1688641f5ee076996]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/73)
 
-[^key-e09d7098e1090e939c6ef166ec43fc7b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) inserted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-e09d7098e1090e939c6ef166ec43fc7b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/888/regulation/2) inserted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
 
-[^key-14bb77858c4b54e89bf885387ee0895f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/888/regulation/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-14bb77858c4b54e89bf885387ee0895f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/888/regulation/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-b668f90922c5338d04ac8aff3e133fe0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/888/regulation/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-b668f90922c5338d04ac8aff3e133fe0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/888/regulation/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [2005/389](https://www.legislation.gov.uk/uksi/2005/389).
 
 [^f00007]: Footnote: S.I. [1983/1964](https://www.legislation.gov.uk/uksi/1983/1964).
 
-[^key-93220665499e1e6b1f0f92de44611918]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/888/regulation/5) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-93220665499e1e6b1f0f92de44611918]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/888/regulation/5) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-71a6eafaa8699084aadd33fb408967c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/888/regulation/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-71a6eafaa8699084aadd33fb408967c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/888/regulation/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-1aaa6357a441f399087f3ef422cf17a0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/888/regulation/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-1aaa6357a441f399087f3ef422cf17a0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/888/regulation/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
 [^f00008]: Footnote: See section 2(2) of the Act.
 
-[^key-baf6098733e3bf1e94647639c8f1ef9b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/888/regulation/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-baf6098733e3bf1e94647639c8f1ef9b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/888/regulation/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
 [^f00009]: Footnote: See section 57(3) of the Act for the meaning of “protected information”.
 
-[^key-c4e2e3fff2c39c7fce45350707ed3f9b]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2005/888/regulation/8/2/a) omitted (5.3.2018) by virtue of [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/152/regulation/2/a)
+[^c-c4e2e3fff2c39c7fce45350707ed3f9b]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2005/888/regulation/8/2/a) omitted (5.3.2018) by virtue of [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/152/regulation/2/a)
 
-[^key-a06bbc95cd760f33355afb9d578fa59c]: Textual amendment: [Reg. 8(2)(c)](https://www.legislation.gov.uk/uksi/2005/888/regulation/8/2/c) and word inserted (5.3.2018) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/152/regulation/2/b)
+[^c-a06bbc95cd760f33355afb9d578fa59c]: Textual amendment: [Reg. 8(2)(c)](https://www.legislation.gov.uk/uksi/2005/888/regulation/8/2/c) and word inserted (5.3.2018) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/152/regulation/2/b)
 
-[^key-be7939a3b55e0a5a4be4a494cbf47478]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/888/regulation/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-be7939a3b55e0a5a4be4a494cbf47478]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/888/regulation/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-1a2313500e794bebdb82f8e1e1032496]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2005/888/regulation/9/a) substituted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/8/a)
+[^c-1a2313500e794bebdb82f8e1e1032496]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2005/888/regulation/9/a) substituted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/8/a)
 
 [^f00011]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-c884b41561758c4c54e6dd524f37f5f3]: Textual amendment: [Reg. 9(h)](https://www.legislation.gov.uk/uksi/2005/888/regulation/9/h) inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/8/b)
+[^c-c884b41561758c4c54e6dd524f37f5f3]: Textual amendment: [Reg. 9(h)](https://www.legislation.gov.uk/uksi/2005/888/regulation/9/h) inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/8/b)
 
-[^key-2121a8b565c796614f8e83971dafa4a3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/888/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-2121a8b565c796614f8e83971dafa4a3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/888/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-686800917be0153037653e8c6969ef45]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/888/regulation/11) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-686800917be0153037653e8c6969ef45]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/888/regulation/11) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-6c9654561e1f843c3f4ce9b3887929e7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/888/regulation/12) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-6c9654561e1f843c3f4ce9b3887929e7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/888/regulation/12) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-809433b48ecb2432528d79a66ca80d04]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/888/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-809433b48ecb2432528d79a66ca80d04]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/888/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-d15658334f4e87dcaf3893d179a17cc0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/888/regulation/14) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-d15658334f4e87dcaf3893d179a17cc0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/888/regulation/14) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-58bbe3780621b34d59e04ebcf7e04b2a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2005/888/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-58bbe3780621b34d59e04ebcf7e04b2a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2005/888/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
 [^f00012]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-71de9d70a8154282a040275dfb1ec9e4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2005/888/regulation/16) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-71de9d70a8154282a040275dfb1ec9e4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2005/888/regulation/16) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-377868ff76e19144e89155d50b1c262b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2005/888/regulation/17) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-377868ff76e19144e89155d50b1c262b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2005/888/regulation/17) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
 [^f00013]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
 [^f00014]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
-[^key-29138e2cb336132fad8bbdad536000cf]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/888/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-29138e2cb336132fad8bbdad536000cf]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/888/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-c89b88271128407a8e2a902dc27a7232]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/888/regulation/19) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-c89b88271128407a8e2a902dc27a7232]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/888/regulation/19) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-162c8a0b75473caf6c2ff7ff981228fd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/888/regulation/20) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-162c8a0b75473caf6c2ff7ff981228fd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/888/regulation/20) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-f136b05b7d548e08ad006a8e5d3c472f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/888/regulation/21) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-f136b05b7d548e08ad006a8e5d3c472f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/888/regulation/21) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
 
-[^key-42bfea15f862b524002625802ed984fd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2005/888/regulation/22) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)
+[^c-42bfea15f862b524002625802ed984fd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2005/888/regulation/22) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/888/regulation/1/1)

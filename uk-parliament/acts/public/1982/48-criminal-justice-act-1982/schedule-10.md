@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Amendments of Schedule 3 to Immigration Act 1971[^key-d15741b2b9051fd74dd85b555a619861][^c19341381]
+## SCHEDULE 10 — Amendments of Schedule 3 to Immigration Act 1971[^c-d15741b2b9051fd74dd85b555a619861][^c19341381]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,6 +119,6 @@ Section 64.
 
 ## Annotations
 
-[^key-d15741b2b9051fd74dd85b555a619861]: Modification: [Sch. 10](https://www.legislation.gov.uk/ukpga/1982/48/schedule/10) extended (Isle of Man) (13.3.2008 for specified purposes, 1.5.2008 in so far as not already in force) by [The Immigration (Isle of Man) Order 2008 (S.I. 2008/680)](https://www.legislation.gov.uk/uksi/2008/680), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2), [9](https://www.legislation.gov.uk/uksi/2008/680/article/9) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/680/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/680/schedule/2))
+[^c-d15741b2b9051fd74dd85b555a619861]: Modification: [Sch. 10](https://www.legislation.gov.uk/ukpga/1982/48/schedule/10) extended (Isle of Man) (13.3.2008 for specified purposes, 1.5.2008 in so far as not already in force) by [The Immigration (Isle of Man) Order 2008 (S.I. 2008/680)](https://www.legislation.gov.uk/uksi/2008/680), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2), [9](https://www.legislation.gov.uk/uksi/2008/680/article/9) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/680/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/680/schedule/2))
 
 [^c19341381]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).

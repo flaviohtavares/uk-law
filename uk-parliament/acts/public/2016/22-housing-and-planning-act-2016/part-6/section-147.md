@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Default powers exercisable by Mayor of London or combined authority[^key-21f07d5727898e0c403c827d42c5799c]
+## 147. Default powers exercisable by Mayor of London or combined authority[^c-21f07d5727898e0c403c827d42c5799c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21f07d5727898e0c403c827d42c5799c]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2016/22/section/147) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/e)
+[^c-21f07d5727898e0c403c827d42c5799c]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2016/22/section/147) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/e)

@@ -24,7 +24,7 @@ Section 48
 
 ### Part 1 — Constitution
 
-#### 1. Membership[^key-fa2f9626e2409845620ab21342161768]
+#### 1. Membership[^c-fa2f9626e2409845620ab21342161768]
 
 (1) The IBCA is to consist of—
 
@@ -37,7 +37,7 @@ Section 48
 
 (3) A person exercising a power of appointment in accordance with those paragraphs must when doing so ensure, so far as practicable, that the number of non-executive members is at all times greater than the number of executive members.
 
-#### 2. Appointment of non-executive members[^key-d7aed92f5613e991af17cf369eb3e02e]
+#### 2. Appointment of non-executive members[^c-d7aed92f5613e991af17cf369eb3e02e]
 
 (1) The Chair is to be appointed by the Secretary of State or the Minister for the Cabinet Office.
 
@@ -45,19 +45,19 @@ Section 48
 
 (3) A person may not be appointed as a non-executive member if the person is a member of the IBCA’s staff.
 
-#### 3. Appointment of executive members[^key-58cf31266b9732d6d43cb043bd45b775]
+#### 3. Appointment of executive members[^c-58cf31266b9732d6d43cb043bd45b775]
 
 (1) The chief executive and the other executive members are to be appointed by the Chair.
 
 (2) The executive members are to be members of the IBCA’s staff.
 
-#### 4. Appointments of members: eligibility[^key-33ddcf0bfa82dd0ec42ea11a26ecde19]
+#### 4. Appointments of members: eligibility[^c-33ddcf0bfa82dd0ec42ea11a26ecde19]
 
 (1) The Secretary of State or the Minister for the Cabinet Office may by regulations make provision about criteria which must be met by persons in order to be appointed as members of the IBCA.
 
 (2) The regulations may make provision for a person to cease to be a member of the IBCA if the person no longer meets those criteria.
 
-#### 5. Terms of membership[^key-bf16961d805f50fd8d869cfb1c73dedb]
+#### 5. Terms of membership[^c-bf16961d805f50fd8d869cfb1c73dedb]
 
 (1) A member of the IBCA holds and vacates office in accordance with the terms of the member’s appointment (subject to this Schedule).
 
@@ -78,7 +78,7 @@ Section 48
 - (a) in the case of the Chair, the Secretary of State or the Minister for the Cabinet Office;
 - (b) in the case of any other member of the IBCA, the Chair.
 
-#### 6. Non-executive members: payments[^key-599acc247f17313f463519dcdbaaf148]
+#### 6. Non-executive members: payments[^c-599acc247f17313f463519dcdbaaf148]
 
 (1) The IBCA must pay, or make provision for the payment of, such remuneration, pensions, allowances or gratuities as the Secretary of State or the Minister for the Cabinet Office determines to or in respect of a person who is or has been—
 
@@ -101,7 +101,7 @@ Section 48
 
 (6) Where this sub-paragraph applies, the IBCA must pay the person compensation of such amount as the Chair may determine.
 
-#### 7. Staffing[^key-b709d0d25b5048f4294065716bf017c8]
+#### 7. Staffing[^c-b709d0d25b5048f4294065716bf017c8]
 
 (1) The IBCA may—
 
@@ -121,7 +121,7 @@ Section 48
 
 (6) Before making a determination as to remuneration, pensions, allowances, gratuities or compensation for the purposes of sub-paragraph (2) or (3), the IBCA must obtain the approval of the Secretary of State or the Minister for the Cabinet Office as to its policy on that matter.
 
-#### 8. Interim chief executive[^key-3c7e35d183e28ae6f954f25c3fcce64a]
+#### 8. Interim chief executive[^c-3c7e35d183e28ae6f954f25c3fcce64a]
 
 (1) The Secretary of State or the Minister for the Cabinet Office may appoint a person as an executive member to act as chief executive of the IBCA (“an interim chief executive”) until the appointment of the first chief executive by the Chair under paragraph 3(1).
 
@@ -131,7 +131,7 @@ Section 48
 
 (4) Paragraphs 3, 5 and 7 do not apply to an interim chief executive.
 
-#### 9. Committees and sub-committees[^key-1dfa0108b5929d1a337aeb8c34d1545c]
+#### 9. Committees and sub-committees[^c-1dfa0108b5929d1a337aeb8c34d1545c]
 
 (1) The IBCA may appoint such committees and sub-committees as it considers appropriate.
 
@@ -144,13 +144,13 @@ Section 48
 
 whether or not that person is a non-executive member of the IBCA.
 
-#### 10. Procedure[^key-7484e5ac9c064be3039ddace4d361080]
+#### 10. Procedure[^c-7484e5ac9c064be3039ddace4d361080]
 
 (1) The IBCA may determine its own procedure and the procedure of any of its committees or sub-committees.
 
 (2) The validity of any proceedings of the IBCA, or any committee or sub-committee of the IBCA, is not affected by any vacancy among its members or by any defect in the appointment of such a member.
 
-#### 11. Exercise of functions[^key-44e63814863d6c993b5f856ba21ae7c0]
+#### 11. Exercise of functions[^c-44e63814863d6c993b5f856ba21ae7c0]
 
 (1) The IBCA must have regard to the need to exercise its functions effectively, efficiently and economically.
 
@@ -162,7 +162,7 @@ whether or not that person is a non-executive member of the IBCA.
 
 (3) A function may be delegated to the extent and on the terms that the IBCA determines.
 
-#### 12. Funding[^key-d351342fd27646398501926188f4aa76]
+#### 12. Funding[^c-d351342fd27646398501926188f4aa76]
 
 (1) The Secretary of State or the Minister for the Cabinet Office must pay to the IBCA—
 
@@ -173,7 +173,7 @@ whether or not that person is a non-executive member of the IBCA.
 
 (3) The Secretary of State or the Minister for the Cabinet Office may by regulations make provision about what the IBCA must do with any sums repaid to it by virtue of section 50(5) (which may include provision requiring the sums to be paid to the Secretary of State or the Minister for the Cabinet Office).
 
-#### 13. Annual report[^key-957e4c10eabbc0d191631e9481fb15ec]
+#### 13. Annual report[^c-957e4c10eabbc0d191631e9481fb15ec]
 
 (1) As soon as reasonably practicable after the end of each financial year the IBCA must prepare a report on the exercise of its functions during that financial year.
 
@@ -181,7 +181,7 @@ whether or not that person is a non-executive member of the IBCA.
 
 (3) The Secretary of State or the Minister for the Cabinet Office must lay the report before Parliament.
 
-#### 14. Accounts and audit[^key-99788e9a757b80dbefa1f95e86c15474]
+#### 14. Accounts and audit[^c-99788e9a757b80dbefa1f95e86c15474]
 
 (1) The IBCA must—
 
@@ -197,18 +197,18 @@ whether or not that person is a non-executive member of the IBCA.
 
 (4) The Secretary of State or the Minister for the Cabinet Office must lay before Parliament a copy of each such report and certified statement.
 
-#### 15. Meaning of “financial year”[^key-5efe2cfafcf932a7349d787255eb2cac]
+#### 15. Meaning of “financial year”[^c-5efe2cfafcf932a7349d787255eb2cac]
 
 In this Schedule “**financial year**” means—
 
 - (a) the period beginning with the date on which the IBCA is established and ending with 31 March following that date, and
 - (b) each successive period of 12 months.
 
-#### 16. Provision of information[^key-dba89efe6f3126a80fb6aee42ffbc2a5]
+#### 16. Provision of information[^c-dba89efe6f3126a80fb6aee42ffbc2a5]
 
 The IBCA must provide to the Secretary of State or the Minister for the Cabinet Office such information relating to the IBCA’s functions as they may request.
 
-#### 17. Status[^key-2cb9d47e1043f6adf1154912d40666c0]
+#### 17. Status[^c-2cb9d47e1043f6adf1154912d40666c0]
 
 (1) The IBCA is not to be regarded—
 
@@ -219,7 +219,7 @@ The IBCA must provide to the Secretary of State or the Minister for the Cabinet 
 
 (3) Service as a member, or a member of staff, of the IBCA is not service in the civil service of the State.
 
-#### 18. Seal and evidence[^key-76fc40f1a82346a4b733cbd4bbba4367]
+#### 18. Seal and evidence[^c-76fc40f1a82346a4b733cbd4bbba4367]
 
 (1) The application of the IBCA’s seal must be authenticated by a signature of—
 
@@ -233,13 +233,13 @@ The IBCA must provide to the Secretary of State or the Minister for the Cabinet 
 
 (3) But this paragraph does not apply in relation to any document which is, or is to be, signed in accordance with the law of Scotland.
 
-#### 19. Supplementary powers[^key-3746c0aa50e02e6bd8b392d4d48e9957]
+#### 19. Supplementary powers[^c-3746c0aa50e02e6bd8b392d4d48e9957]
 
 The IBCA may do anything it thinks appropriate for the purposes of, or in connection with, its functions.
 
 ### Part 2 — Transfer schemes
 
-#### 20. Power to make transfer schemes[^key-ec2ee8facc67f879424ee49d2e43bda8]
+#### 20. Power to make transfer schemes[^c-ec2ee8facc67f879424ee49d2e43bda8]
 
 (1) The Secretary of State or the Minister for the Cabinet Office may make one or more schemes (“transfer schemes”) for the purpose of transferring to the IBCA such property, rights and liabilities of a relevant person as the Secretary of State or Minister considers appropriate for the purposes of enabling the IBCA to carry out its functions under or by virtue of this Act.
 
@@ -293,7 +293,7 @@ The IBCA may do anything it thinks appropriate for the purposes of, or in connec
 - (a) an individual who holds employment in the civil service is to be treated as employed by virtue of a contract of employment, and
 - (b) the terms of the individual’s employment in the civil service of the State are to be regarded as constituting the terms of the contract of employment.
 
-#### 21. Tax treatment of transfer schemes[^key-f8e5ea1d6a440af1256262ea8df78fce]
+#### 21. Tax treatment of transfer schemes[^c-f8e5ea1d6a440af1256262ea8df78fce]
 
 (1) The Treasury may by regulations make provision varying the way in which a relevant tax has effect in relation to—
 
@@ -321,13 +321,13 @@ The IBCA may do anything it thinks appropriate for the purposes of, or in connec
 
 ### Part 3 — Amendments
 
-#### 22. Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)[^key-97512648edc6f4a90296f4706a6b27ac]
+#### 22. Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)[^c-97512648edc6f4a90296f4706a6b27ac]
 
 In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (establishments and organisations whose records are public records), at the appropriate place insert—
 
 > - The Infected Blood Compensation Authority.
 
-#### 23. Public Bodies (Admission to Meetings) Act [1960 (c. 67)](https://www.legislation.gov.uk/ukpga/1960/67)[^key-1d78e39b23dddfd6aa266f6713685849]
+#### 23. Public Bodies (Admission to Meetings) Act [1960 (c. 67)](https://www.legislation.gov.uk/ukpga/1960/67)[^c-1d78e39b23dddfd6aa266f6713685849]
 
 In the Schedule to the Public Bodies (Admission to Meetings) Act 1960—
 
@@ -340,31 +340,31 @@ In the Schedule to the Public Bodies (Admission to Meetings) Act 1960—
 
   > - (g) the Infected Blood Compensation Authority.
 
-#### 24. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^key-fc536f034d121caaaef6a970039b6a10]
+#### 24. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^c-fc536f034d121caaaef6a970039b6a10]
 
 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
 
 > - The Infected Blood Compensation Authority.
 
-#### 25. [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24)[^key-02df83c0d2384a2fc767ec62bdf4aa42]
+#### 25. [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24)[^c-02df83c0d2384a2fc767ec62bdf4aa42]
 
 In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies all members of which are disqualified), at the appropriate place insert—
 
 > - The Infected Blood Compensation Authority.
 
-#### 26. Northern Ireland Assembly Disqualification Act [1975 (c. 25)](https://www.legislation.gov.uk/ukpga/1975/25)[^key-680734b4153b2ac9d8ed7ad809d9c988]
+#### 26. Northern Ireland Assembly Disqualification Act [1975 (c. 25)](https://www.legislation.gov.uk/ukpga/1975/25)[^c-680734b4153b2ac9d8ed7ad809d9c988]
 
 In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies all members of which are disqualified), at the appropriate place insert—
 
 > - The Infected Blood Compensation Authority.
 
-#### 27. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^key-fc6f33f122d4126953ec417530da5792]
+#### 27. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^c-fc6f33f122d4126953ec417530da5792]
 
 In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies), at the appropriate place insert—
 
 > - The Infected Blood Compensation Authority.
 
-#### 28. Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15)[^key-0ddfbee882e06767e238c7ea4bf406f2]
+#### 28. Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15)[^c-0ddfbee882e06767e238c7ea4bf406f2]
 
 In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), under the heading “Health, social care and social security”, at the appropriate place insert—
 
@@ -372,58 +372,58 @@ In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the pu
 
 ## Annotations
 
-[^key-fa2f9626e2409845620ab21342161768]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-fa2f9626e2409845620ab21342161768]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-d7aed92f5613e991af17cf369eb3e02e]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-d7aed92f5613e991af17cf369eb3e02e]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-58cf31266b9732d6d43cb043bd45b775]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-58cf31266b9732d6d43cb043bd45b775]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-33ddcf0bfa82dd0ec42ea11a26ecde19]: Commencement: Sch. 1 para. 4 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-33ddcf0bfa82dd0ec42ea11a26ecde19]: Commencement: Sch. 1 para. 4 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-bf16961d805f50fd8d869cfb1c73dedb]: Commencement: Sch. 1 para. 5 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-bf16961d805f50fd8d869cfb1c73dedb]: Commencement: Sch. 1 para. 5 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-599acc247f17313f463519dcdbaaf148]: Commencement: Sch. 1 para. 6 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-599acc247f17313f463519dcdbaaf148]: Commencement: Sch. 1 para. 6 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-b709d0d25b5048f4294065716bf017c8]: Commencement: Sch. 1 para. 7 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-b709d0d25b5048f4294065716bf017c8]: Commencement: Sch. 1 para. 7 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-3c7e35d183e28ae6f954f25c3fcce64a]: Commencement: Sch. 1 para. 8 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-3c7e35d183e28ae6f954f25c3fcce64a]: Commencement: Sch. 1 para. 8 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-1dfa0108b5929d1a337aeb8c34d1545c]: Commencement: Sch. 1 para. 9 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-1dfa0108b5929d1a337aeb8c34d1545c]: Commencement: Sch. 1 para. 9 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-7484e5ac9c064be3039ddace4d361080]: Commencement: Sch. 1 para. 10 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-7484e5ac9c064be3039ddace4d361080]: Commencement: Sch. 1 para. 10 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-44e63814863d6c993b5f856ba21ae7c0]: Commencement: Sch. 1 para. 11 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-44e63814863d6c993b5f856ba21ae7c0]: Commencement: Sch. 1 para. 11 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-d351342fd27646398501926188f4aa76]: Commencement: Sch. 1 para. 12 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-d351342fd27646398501926188f4aa76]: Commencement: Sch. 1 para. 12 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-957e4c10eabbc0d191631e9481fb15ec]: Commencement: Sch. 1 para. 13 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-957e4c10eabbc0d191631e9481fb15ec]: Commencement: Sch. 1 para. 13 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-99788e9a757b80dbefa1f95e86c15474]: Commencement: Sch. 1 para. 14 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-99788e9a757b80dbefa1f95e86c15474]: Commencement: Sch. 1 para. 14 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-5efe2cfafcf932a7349d787255eb2cac]: Commencement: Sch. 1 para. 15 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-5efe2cfafcf932a7349d787255eb2cac]: Commencement: Sch. 1 para. 15 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-dba89efe6f3126a80fb6aee42ffbc2a5]: Commencement: Sch. 1 para. 16 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-dba89efe6f3126a80fb6aee42ffbc2a5]: Commencement: Sch. 1 para. 16 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-2cb9d47e1043f6adf1154912d40666c0]: Commencement: Sch. 1 para. 17 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-2cb9d47e1043f6adf1154912d40666c0]: Commencement: Sch. 1 para. 17 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-76fc40f1a82346a4b733cbd4bbba4367]: Commencement: Sch. 1 para. 18 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-76fc40f1a82346a4b733cbd4bbba4367]: Commencement: Sch. 1 para. 18 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-3746c0aa50e02e6bd8b392d4d48e9957]: Commencement: Sch. 1 para. 19 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-3746c0aa50e02e6bd8b392d4d48e9957]: Commencement: Sch. 1 para. 19 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-ec2ee8facc67f879424ee49d2e43bda8]: Commencement: Sch. 1 para. 20 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-ec2ee8facc67f879424ee49d2e43bda8]: Commencement: Sch. 1 para. 20 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-f8e5ea1d6a440af1256262ea8df78fce]: Commencement: Sch. 1 para. 21 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-f8e5ea1d6a440af1256262ea8df78fce]: Commencement: Sch. 1 para. 21 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-97512648edc6f4a90296f4706a6b27ac]: Commencement: Sch. 1 para. 22 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-97512648edc6f4a90296f4706a6b27ac]: Commencement: Sch. 1 para. 22 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-1d78e39b23dddfd6aa266f6713685849]: Commencement: Sch. 1 para. 23 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-1d78e39b23dddfd6aa266f6713685849]: Commencement: Sch. 1 para. 23 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-fc536f034d121caaaef6a970039b6a10]: Commencement: Sch. 1 para. 24 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-fc536f034d121caaaef6a970039b6a10]: Commencement: Sch. 1 para. 24 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-02df83c0d2384a2fc767ec62bdf4aa42]: Commencement: Sch. 1 para. 25 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-02df83c0d2384a2fc767ec62bdf4aa42]: Commencement: Sch. 1 para. 25 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-680734b4153b2ac9d8ed7ad809d9c988]: Commencement: Sch. 1 para. 26 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-680734b4153b2ac9d8ed7ad809d9c988]: Commencement: Sch. 1 para. 26 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-fc6f33f122d4126953ec417530da5792]: Commencement: Sch. 1 para. 27 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-fc6f33f122d4126953ec417530da5792]: Commencement: Sch. 1 para. 27 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
 
-[^key-0ddfbee882e06767e238c7ea4bf406f2]: Commencement: Sch. 1 para. 28 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-0ddfbee882e06767e238c7ea4bf406f2]: Commencement: Sch. 1 para. 28 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)

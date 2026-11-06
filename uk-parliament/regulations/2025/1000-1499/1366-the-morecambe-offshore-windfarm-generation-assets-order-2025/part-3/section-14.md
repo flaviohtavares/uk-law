@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Requirements, appeals, etc.[^key-a9b45f9276f6f207e1c6e5ae4761ee14]
+## 14. Requirements, appeals, etc.[^c-a9b45f9276f6f207e1c6e5ae4761ee14]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 4 (approval of matters specified in requirements) has effect in relatio
 
 ## Annotations
 
-[^key-a9b45f9276f6f207e1c6e5ae4761ee14]: Commencement: Art. 14 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-a9b45f9276f6f207e1c6e5ae4761ee14]: Commencement: Art. 14 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

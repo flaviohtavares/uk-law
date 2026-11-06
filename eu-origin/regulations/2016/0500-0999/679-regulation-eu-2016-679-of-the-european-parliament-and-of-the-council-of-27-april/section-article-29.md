@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by domestic law[^key-0eadcdbc51b4a1c3d2998135310bebe1].
+The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by domestic law[^c-0eadcdbc51b4a1c3d2998135310bebe1].
 
 ## Annotations
 
-[^key-0eadcdbc51b4a1c3d2998135310bebe1]: Textual amendment: Words in [Art. 29](https://www.legislation.gov.uk/eur/2016/679/article/29) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/23) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0eadcdbc51b4a1c3d2998135310bebe1]: Textual amendment: Words in [Art. 29](https://www.legislation.gov.uk/eur/2016/679/article/29) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/23) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

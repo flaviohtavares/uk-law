@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 10 — Drugs and other Substances not to be Prescribed for supply under Pharmaceutical Services[^key-53fcd9183408f0876fa0dfad21c22329]
+## SCHEDULE 10 — Drugs and other Substances not to be Prescribed for supply under Pharmaceutical Services[^c-53fcd9183408f0876fa0dfad21c22329]
 
 *Extent: N.I.*
 
@@ -3189,4 +3189,4 @@ Regulation 3(2), Schedule 2 paragraph 49(1)
 
 ## Annotations
 
-[^key-53fcd9183408f0876fa0dfad21c22329]: Commencement: Sch. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-53fcd9183408f0876fa0dfad21c22329]: Commencement: Sch. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

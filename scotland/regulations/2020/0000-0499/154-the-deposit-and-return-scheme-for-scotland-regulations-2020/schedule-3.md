@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 11(1)(h)
 
-**1.**[^key-dbdf79aa4ea52707d780c14e74e59e51][^key-5047cbc9d1049b7547460d63985faab3] The minimum collection targets which a scheme administrator must meet in respect of scheme packaging containing a scheme article in each calendar year are as follows—
+**1.**[^c-dbdf79aa4ea52707d780c14e74e59e51][^c-5047cbc9d1049b7547460d63985faab3] The minimum collection targets which a scheme administrator must meet in respect of scheme packaging containing a scheme article in each calendar year are as follows—
 
 - (a) for the calendar year beginning 1 January 2028 and ending 31 December 2028, 70% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of retail sale in Scotland by registered producers in that calendar year,
 - (b) for the calendar year beginning 1 January 2029 and ending 31 December 2029, 80% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of retail sale in Scotland by registered producers in that calendar year,
@@ -35,6 +35,6 @@ Regulation 11(1)(h)
 
 ## Annotations
 
-[^key-dbdf79aa4ea52707d780c14e74e59e51]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2020/154/schedule/3/paragraph/1) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4)
+[^c-dbdf79aa4ea52707d780c14e74e59e51]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2020/154/schedule/3/paragraph/1) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4)
 
-[^key-5047cbc9d1049b7547460d63985faab3]: Textual amendment: Sch. 3 paras. 1, 2 substituted for sch. 3 para. 1 (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [32](https://www.legislation.gov.uk/ssi/2025/188/regulation/32)
+[^c-5047cbc9d1049b7547460d63985faab3]: Textual amendment: Sch. 3 paras. 1, 2 substituted for sch. 3 para. 1 (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [32](https://www.legislation.gov.uk/ssi/2025/188/regulation/32)

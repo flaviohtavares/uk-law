@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Rules of conduct[^key-aeff6ec58781e28dc2f910d276f20812]
+## 24. Rules of conduct[^c-aeff6ec58781e28dc2f910d276f20812]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeff6ec58781e28dc2f910d276f20812]: Commencement: S. 24 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/r)
+[^c-aeff6ec58781e28dc2f910d276f20812]: Commencement: S. 24 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/r)

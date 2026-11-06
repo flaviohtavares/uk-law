@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Enforcement of minimum standards[^key-2523f54d11856a9c54315fe87875eb70]
+## 71. Enforcement of minimum standards[^c-2523f54d11856a9c54315fe87875eb70]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2523f54d11856a9c54315fe87875eb70]: Commencement: S. 71 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2523f54d11856a9c54315fe87875eb70]: Commencement: S. 71 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Private residential tenancies: discretionary eviction grounds[^key-0ad5e0b6bb2653601ca6f08a5203ce54]
+## 43. Private residential tenancies: discretionary eviction grounds[^c-0ad5e0b6bb2653601ca6f08a5203ce54]
 
 *Extent: S*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ad5e0b6bb2653601ca6f08a5203ce54]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2022/8/section/43) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-0ad5e0b6bb2653601ca6f08a5203ce54]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2022/8/section/43) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

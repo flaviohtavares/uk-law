@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Manner of supply of information[^key-3ae2be23c59d9add5f85ca03d8885d3c]
+## 90. Manner of supply of information[^c-3ae2be23c59d9add5f85ca03d8885d3c]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ the time for the supply of the relevant information shall be extended to a perio
 
 ## Annotations
 
-[^key-3ae2be23c59d9add5f85ca03d8885d3c]: Commencement: [Reg. 90](https://www.legislation.gov.uk/nisr/2006/406/regulation/90) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-3ae2be23c59d9add5f85ca03d8885d3c]: Commencement: [Reg. 90](https://www.legislation.gov.uk/nisr/2006/406/regulation/90) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

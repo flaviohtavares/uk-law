@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18B. Inspections: warrants[^key-4d84d76a86783d1bdc2a2b43677dc396]
+## 18B. Inspections: warrants[^c-4d84d76a86783d1bdc2a2b43677dc396]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d84d76a86783d1bdc2a2b43677dc396]: Textual amendment: [Ss. 18A-18F](https://www.legislation.gov.uk/asp/2005/12/section/18A) inserted (1.4.2024) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 110(2)](https://www.legislation.gov.uk/asp/2019/17/section/110/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-4d84d76a86783d1bdc2a2b43677dc396]: Textual amendment: [Ss. 18A-18F](https://www.legislation.gov.uk/asp/2005/12/section/18A) inserted (1.4.2024) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 110(2)](https://www.legislation.gov.uk/asp/2019/17/section/110/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

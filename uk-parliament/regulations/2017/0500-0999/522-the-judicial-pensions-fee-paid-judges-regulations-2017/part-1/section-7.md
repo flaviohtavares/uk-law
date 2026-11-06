@@ -33,14 +33,14 @@ where—
     - (aa) where P takes partial retirement in relation to the relevant judicial office, the day on which P takes partial retirement,
     - (bb) otherwise, the day on which P retires, or
   - (ii) the daily fee in relation to the period referred to in paragraph (i) which has been determined by an employment tribunal or accepted by the appropriate Minister to be payable to a holder of that office; and
-- N is the annual divisor for that office specified in column 2 of the appropriate table in Schedule 1[^key-4e80acc0e151d06224746b4d5257c57f].
+- N is the annual divisor for that office specified in column 2 of the appropriate table in Schedule 1[^c-4e80acc0e151d06224746b4d5257c57f].
 
-(3) Where the relevant judicial office is a salaried judicial office and benefits are to be calculated under the post-1995 provisions[^key-9a0c5ad0bd1b497dc2b990e8153eb31b], the references are to the highest salary payable to P in respect of any continuous period of 12 months falling within the period of 3 years ending with—
+(3) Where the relevant judicial office is a salaried judicial office and benefits are to be calculated under the post-1995 provisions[^c-9a0c5ad0bd1b497dc2b990e8153eb31b], the references are to the highest salary payable to P in respect of any continuous period of 12 months falling within the period of 3 years ending with—
 
 - (a) where P takes partial retirement in relation to the relevant judicial office, the day on which P takes partial retirement,
 - (b) otherwise, the day on which P retires.
 
-(3A)[^key-7cd28b12fd43452a9a9d26210a6be1f3] Where the relevant judicial office is a salaried judicial office and benefits are to be calculated under the pre-1995 provisions, the references are to the last annual salary as that expression applies for the purposes of the Judicial Pensions Act 1981.
+(3A)[^c-7cd28b12fd43452a9a9d26210a6be1f3] Where the relevant judicial office is a salaried judicial office and benefits are to be calculated under the pre-1995 provisions, the references are to the last annual salary as that expression applies for the purposes of the Judicial Pensions Act 1981.
 
 (4) In determining the highest daily fee payable to the holder of a judicial office, no account is to be taken of—
 
@@ -54,8 +54,8 @@ where—
 
 ## Annotations
 
-[^key-4e80acc0e151d06224746b4d5257c57f]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/7/2/b) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/8/a)
+[^c-4e80acc0e151d06224746b4d5257c57f]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/7/2/b) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/8/a)
 
-[^key-9a0c5ad0bd1b497dc2b990e8153eb31b]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/7/3) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/8/b)
+[^c-9a0c5ad0bd1b497dc2b990e8153eb31b]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/7/3) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/8/b)
 
-[^key-7cd28b12fd43452a9a9d26210a6be1f3]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/7/3A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2023/403/regulation/8/c)
+[^c-7cd28b12fd43452a9a9d26210a6be1f3]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/7/3A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2023/403/regulation/8/c)

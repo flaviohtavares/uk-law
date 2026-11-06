@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (Wales) (Imports of Captive Birds) Regulations 2007 (revoked)[^key-d61663e6abd508fcb5ef6c10a21d9834]
+The Animals and Animal Products (Import and Export) (Wales) (Imports of Captive Birds) Regulations 2007 (revoked)[^c-d61663e6abd508fcb5ef6c10a21d9834]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 1 April 2007
 
-[^key-d61663e6abd508fcb5ef6c10a21d9834]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d61663e6abd508fcb5ef6c10a21d9834]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d61663e6abd508fcb5ef6c10a21d9834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d61663e6abd508fcb5ef6c10a21d9834]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d61663e6abd508fcb5ef6c10a21d9834]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d61663e6abd508fcb5ef6c10a21d9834]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d61663e6abd508fcb5ef6c10a21d9834]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d61663e6abd508fcb5ef6c10a21d9834]: Textual amendment: Regulations revoked (1.7.2007) by [The Animals and Animal Products (Import and Export) (Wales) (Laboratories, Circuses and Avian Quarantine) Regulations 2007 (S.I. 2007/1627)](https://www.legislation.gov.uk/uksi/2007/1627), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1627/regulation/1), [18](https://www.legislation.gov.uk/uksi/2007/1627/regulation/18)
+[^c-d61663e6abd508fcb5ef6c10a21d9834]: Textual amendment: Regulations revoked (1.7.2007) by [The Animals and Animal Products (Import and Export) (Wales) (Laboratories, Circuses and Avian Quarantine) Regulations 2007 (S.I. 2007/1627)](https://www.legislation.gov.uk/uksi/2007/1627), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1627/regulation/1), [18](https://www.legislation.gov.uk/uksi/2007/1627/regulation/18)

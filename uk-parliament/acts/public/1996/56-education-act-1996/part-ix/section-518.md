@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], for the purpose of enabling persons to take advantage of any educational facilities available to them, may in such circumstances as may be specified in or determined in accordance with regulations—
+(1) A local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], for the purpose of enabling persons to take advantage of any educational facilities available to them, may in such circumstances as may be specified in or determined in accordance with regulations—
 
 - (a) pay such expenses of children attending community, foundation, voluntary or special schools as may be necessary to enable them to take part in any school activities,
 - (b) grant scholarships, exhibitions, bursaries and other allowances in respect of persons over compulsory school age.
@@ -37,4 +37,4 @@ summary: ''
 
 [^c17957911]: Textual amendment: S. 518 substituted (1.2.1999) by 1998. c. 31, s. 129 (with ss. 138(9), 144(6)) (subject to savings indicated in [S.I. 1999/120](https://www.legislation.gov.uk/uksi/1999/120), [art. 3(2)](https://www.legislation.gov.uk/uksi/1999/120/article/3/2)); [S.I. 1999/120](https://www.legislation.gov.uk/uksi/1999/120), [art. 2](https://www.legislation.gov.uk/uksi/1999/120/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/120/schedule/1)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

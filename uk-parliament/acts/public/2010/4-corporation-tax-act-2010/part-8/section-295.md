@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295. Amounts excluded from section 293(1)[^key-daab898bf50ba8f224df4110695c808a]
+## 295. Amounts excluded from section 293(1)[^c-daab898bf50ba8f224df4110695c808a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daab898bf50ba8f224df4110695c808a]: Textual amendment: Ss. 294, 295 omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/19)
+[^c-daab898bf50ba8f224df4110695c808a]: Textual amendment: Ss. 294, 295 omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/19)

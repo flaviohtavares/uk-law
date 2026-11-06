@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Provision of biometric information with citizenship applications[^key-2cfa1db9402da47f1a9d517295f25e54]
+## 10. Provision of biometric information with citizenship applications[^c-2cfa1db9402da47f1a9d517295f25e54]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cfa1db9402da47f1a9d517295f25e54]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/22/section/10) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i)
+[^c-2cfa1db9402da47f1a9d517295f25e54]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/22/section/10) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i)

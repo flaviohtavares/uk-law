@@ -22,7 +22,7 @@ summary: ''
 
 Article 3(1)
 
-### 1. Amendment of section 1[^key-83048c9cf4c2eee399072abda8eebded][^key-5d4f3183df2c27d7e97f98e879bfe4da]
+### 1. Amendment of section 1[^c-83048c9cf4c2eee399072abda8eebded][^c-5d4f3183df2c27d7e97f98e879bfe4da]
 
 In section 1[^f00019] (constitution and general duties of the Council)—
 
@@ -36,7 +36,7 @@ In section 1[^f00019] (constitution and general duties of the Council)—
   ; and
 - (b) omit subsection (2B).
 
-### 2. Amendment of section 2[^key-8e135de0e0c8b4cd9c8c1d98291b8b76]
+### 2. Amendment of section 2[^c-8e135de0e0c8b4cd9c8c1d98291b8b76]
 
 In section 2[^f00020] (committees of the Council)—
 
@@ -48,14 +48,14 @@ In section 2[^f00020] (committees of the Council)—
   ; and
 - (c) omit subsections (7) and (8).
 
-### 3. Amendment of section 2A[^key-57d92cdd07abd531123f0744db778142]
+### 3. Amendment of section 2A[^c-57d92cdd07abd531123f0744db778142]
 
 In section 2A[^f00021] (the Council’s duty to co-operate), in subsection (2)—
 
 - (a) in paragraph (d), for “the services provided by the professions regulated under this Act” substitute “the provision, supervision or management of national health services”; and
 - (b) in paragraph (e), omit sub-paragraph (ii) and the “or” at the end of sub-paragraph (i).
 
-### 4. Substitution of section 2B[^key-72943847ecdc1fe6582b0955b84cd9df]
+### 4. Substitution of section 2B[^c-72943847ecdc1fe6582b0955b84cd9df]
 
 For section 2B[^f00022] (annual and other reports) substitute the following section—
 
@@ -69,11 +69,11 @@ For section 2B[^f00022] (annual and other reports) substitute the following sect
 >
 > (2) The Council shall submit copies of the reports and the plan published under subsection (1) to the Privy Council and the Privy Council shall lay copies of the reports and the plan before each House of Parliament and before the Scottish Parliament.
 
-### 5. Amendment of section 2C[^key-6503ea399dc2c55ed68d5849911d6bf4]
+### 5. Amendment of section 2C[^c-6503ea399dc2c55ed68d5849911d6bf4]
 
 In section 2C[^f00024] (accounts), in subsection (4)(b), for “Privy Council and the Comptroller and Auditor General” substitute “Privy Council, the Comptroller and Auditor General and the Auditor General for Scotland”.
 
-### 6. New section 2E[^key-c7cfbdfcd1a208135027d7b0f5757477]
+### 6. New section 2E[^c-c7cfbdfcd1a208135027d7b0f5757477]
 
 After section 2D[^f00025], insert the following section—
 
@@ -83,29 +83,29 @@ After section 2D[^f00025], insert the following section—
 >
 > (2) The Council must publish entries recorded in the register of members’ private interests.
 
-### 7. Amendment of section 27[^key-4c27f0d41df98844bca05d8c275cbb6c]
+### 7. Amendment of section 27[^c-4c27f0d41df98844bca05d8c275cbb6c]
 
 In section 27[^f00026] (which relates to allegations against registered dentists), in subsection (2), omit “or” at the end of paragraph (f) and after paragraph (g) insert—
 
 > - (h) the Independent Barring Board including the person in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00027] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00028]); or
 > - (i) the Scottish Ministers including the person in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00029]).
 
-### 8. Amendment of section 36N[^key-fd6107d3a0945930459ce32df73a1a5c]
+### 8. Amendment of section 36N[^c-fd6107d3a0945930459ce32df73a1a5c]
 
 In section 36N[^f00030] (which relates to allegations against registered dental care professionals), in subsection (2), omit “or” at the end of paragraph (f) and after paragraph (g) insert—
 
 > - (h) the Independent Barring Board including the person in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007); or
 > - (i) the Scottish Ministers including the person in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007).
 
-### 9. Amendment of section 41[^key-0cfdca897ee9e67988889f2377782af0]
+### 9. Amendment of section 41[^c-0cfdca897ee9e67988889f2377782af0]
 
 In section 41 (restriction on individuals), in subsection (2A)[^f00031], for “paragraph (a), (d), (e), (f) or (g)” substitute “paragraphs (a) and (d) to (i)”.
 
-### 10. Amendment of section 50C[^key-c7349e9f4df1e4bbada641bd0ab586a9]
+### 10. Amendment of section 50C[^c-c7349e9f4df1e4bbada641bd0ab586a9]
 
 In section 50C[^f00032] (rules), in the final entry in the list in subsection (2), for “paragraphs 4(2) and 8(1)(a) and (b)” substitute “paragraph 8(1)(b)”.
 
-### 11. Amendment of section 51[^key-5c7b9b3188601bf871e0bebcbe02f0cf]
+### 11. Amendment of section 51[^c-5c7b9b3188601bf871e0bebcbe02f0cf]
 
 In section 51[^f00033] (exercise of powers conferred on Privy Council)—
 
@@ -131,11 +131,11 @@ In section 51[^f00033] (exercise of powers conferred on Privy Council)—
   > - (a) approves regulations under section 36A(2) that specify a profession complementary to dentistry, or a class of members of a profession complementary to dentistry, which immediately before the revocation of the Dental Auxiliaries Regulations 1986 did not constitute a class of dental auxiliaries regulated by those Regulations; or
   > - (b) approves rules that apply to such a profession or such a class of members of such a profession.
 
-### 12. Amendment of section 53[^key-0adf7c1a468c5b8348d2135af91a1cb0]
+### 12. Amendment of section 53[^c-0adf7c1a468c5b8348d2135af91a1cb0]
 
 In section 53 (interpretation), in subsection (3)[^f00039], after “the provision” (at both places) insert “, supervision or management”.
 
-### 13. Amendment of Schedule 1[^key-7d853094539fd8b44f81883987470cff]
+### 13. Amendment of Schedule 1[^c-7d853094539fd8b44f81883987470cff]
 
 (1) Schedule 1[^f00040](the Council and Committees of the Council: supplementary provisions) is amended in accordance with this paragraph.
 
@@ -211,35 +211,35 @@ In section 53 (interpretation), in subsection (3)[^f00039], after “the provisi
 
 ## Annotations
 
-[^key-83048c9cf4c2eee399072abda8eebded]: Commencement: Sch. 1 para. 1(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-83048c9cf4c2eee399072abda8eebded]: Commencement: Sch. 1 para. 1(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-5d4f3183df2c27d7e97f98e879bfe4da]: Commencement: Sch. 1 para. 1(b) comes into force in accordance with art. 1(3)(9)
+[^c-5d4f3183df2c27d7e97f98e879bfe4da]: Commencement: Sch. 1 para. 1(b) comes into force in accordance with art. 1(3)(9)
 
 [^f00019]: Footnote: Section 1 has been amended by [S.I. 2001/3926](https://www.legislation.gov.uk/uksi/2001/3926).
 
-[^key-8e135de0e0c8b4cd9c8c1d98291b8b76]: Commencement: Sch. 1 para. 2 comes into force in accordance with art. 1(3)(9)
+[^c-8e135de0e0c8b4cd9c8c1d98291b8b76]: Commencement: Sch. 1 para. 2 comes into force in accordance with art. 1(3)(9)
 
 [^f00020]: Footnote: Section 2 has been amended by [S.I. 2001/3926](https://www.legislation.gov.uk/uksi/2001/3926) and [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-57d92cdd07abd531123f0744db778142]: Commencement: Sch. 1 para. 3 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-57d92cdd07abd531123f0744db778142]: Commencement: Sch. 1 para. 3 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00021]: Footnote: Section 2A was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-72943847ecdc1fe6582b0955b84cd9df]: Commencement: Sch. 1 para. 4 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-72943847ecdc1fe6582b0955b84cd9df]: Commencement: Sch. 1 para. 4 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00022]: Footnote: Section 2B was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
 [^f00023]: Footnote: [2006 c.3](https://www.legislation.gov.uk/ukpga/2006/3).
 
-[^key-6503ea399dc2c55ed68d5849911d6bf4]: Commencement: Sch. 1 para. 5 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-6503ea399dc2c55ed68d5849911d6bf4]: Commencement: Sch. 1 para. 5 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00024]: Footnote: Section 2C was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-c7cfbdfcd1a208135027d7b0f5757477]: Commencement: Sch. 1 para. 6 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-c7cfbdfcd1a208135027d7b0f5757477]: Commencement: Sch. 1 para. 6 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00025]: Footnote: Section 2D was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-4c27f0d41df98844bca05d8c275cbb6c]: Commencement: Sch. 1 para. 7 comes into force in accordance with art. 1(3)(6)
+[^c-4c27f0d41df98844bca05d8c275cbb6c]: Commencement: Sch. 1 para. 7 comes into force in accordance with art. 1(3)(6)
 
 [^f00026]: Footnote: Section 27 was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
@@ -249,19 +249,19 @@ In section 53 (interpretation), in subsection (3)[^f00039], after “the provisi
 
 [^f00029]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-fd6107d3a0945930459ce32df73a1a5c]: Commencement: Sch. 1 para. 8 comes into force in accordance with art. 1(3)(6)
+[^c-fd6107d3a0945930459ce32df73a1a5c]: Commencement: Sch. 1 para. 8 comes into force in accordance with art. 1(3)(6)
 
 [^f00030]: Footnote: Section 36N was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-0cfdca897ee9e67988889f2377782af0]: Commencement: Sch. 1 para. 9 comes into force in accordance with art. 1(3)(6)
+[^c-0cfdca897ee9e67988889f2377782af0]: Commencement: Sch. 1 para. 9 comes into force in accordance with art. 1(3)(6)
 
 [^f00031]: Footnote: Subsection (2A) was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-c7349e9f4df1e4bbada641bd0ab586a9]: Commencement: Sch. 1 para. 10 comes into force in accordance with art. 1(3)(9)
+[^c-c7349e9f4df1e4bbada641bd0ab586a9]: Commencement: Sch. 1 para. 10 comes into force in accordance with art. 1(3)(9)
 
 [^f00032]: Footnote: Section 50C was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-5c7b9b3188601bf871e0bebcbe02f0cf]: Commencement: Sch. 1 para. 11 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-5c7b9b3188601bf871e0bebcbe02f0cf]: Commencement: Sch. 1 para. 11 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00033]: Footnote: Section 51 has been amended by the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedule 9, Part 2, and by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
@@ -275,11 +275,11 @@ In section 53 (interpretation), in subsection (3)[^f00039], after “the provisi
 
 [^f00038]: Footnote: Schedule 4A was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-0adf7c1a468c5b8348d2135af91a1cb0]: Commencement: Sch. 1 para. 12 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-0adf7c1a468c5b8348d2135af91a1cb0]: Commencement: Sch. 1 para. 12 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00039]: Footnote: Subsection (3) has been amended by the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, paragraph 62, and the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 80 and 82.
 
-[^key-7d853094539fd8b44f81883987470cff]: Commencement: Sch. 1 para. 13 comes into force in accordance with art. 1(3)(9)
+[^c-7d853094539fd8b44f81883987470cff]: Commencement: Sch. 1 para. 13 comes into force in accordance with art. 1(3)(9)
 
 [^f00040]: Footnote: Schedule 1 has been amended by: the Health and Social Care (Community Health and Standards Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedule 12, paragraph 3; the Health Act [2006 (c.28)](https://www.legislation.gov.uk/ukpga/2006/28), Schedule 8, paragraph 27; and by [S.I. 20013926](https://www.legislation.gov.uk/uksi/2001/3926) and [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 

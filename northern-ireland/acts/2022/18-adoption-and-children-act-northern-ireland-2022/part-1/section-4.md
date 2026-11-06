@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. The Adoption Service[^key-d0c98fa730fde98a6515064e259742c7]
+## 4. The Adoption Service[^c-d0c98fa730fde98a6515064e259742c7]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ and for that purpose must provide the requisite facilities.
 
 ## Annotations
 
-[^key-d0c98fa730fde98a6515064e259742c7]: Commencement: S. 4 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d0c98fa730fde98a6515064e259742c7]: Commencement: S. 4 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Necessity of application for health in pregnancy grant[^key-1a220c37740b9d3ddb512611c5d41b95]
+## 12A. Necessity of application for health in pregnancy grant[^c-1a220c37740b9d3ddb512611c5d41b95]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a220c37740b9d3ddb512611c5d41b95]: Textual amendment: S. 12A and cross-heading inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 132(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/132/3), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-1a220c37740b9d3ddb512611c5d41b95]: Textual amendment: S. 12A and cross-heading inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 132(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/132/3), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

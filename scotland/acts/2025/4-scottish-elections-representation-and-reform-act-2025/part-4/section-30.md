@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Choice of new First Minister after changed election date[^key-2550784373be6a7c1250df9e0ca8f8b8][^key-f9753f0be31bb08e43d049ec6ac678af]
+## 30. Choice of new First Minister after changed election date[^c-2550784373be6a7c1250df9e0ca8f8b8][^c-f9753f0be31bb08e43d049ec6ac678af]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2550784373be6a7c1250df9e0ca8f8b8]: Commencement: S. 30 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-2550784373be6a7c1250df9e0ca8f8b8]: Commencement: S. 30 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-f9753f0be31bb08e43d049ec6ac678af]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2025/4/section/30) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-f9753f0be31bb08e43d049ec6ac678af]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2025/4/section/30) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Notice of liability to income tax.[^key-2af3b6231e78f1ff6813bae65976cdac]
+## 120. Notice of liability to income tax.[^c-2af3b6231e78f1ff6813bae65976cdac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2af3b6231e78f1ff6813bae65976cdac]: Textual amendment: [S. 120](https://www.legislation.gov.uk/ukpga/1988/39/section/120) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-2af3b6231e78f1ff6813bae65976cdac]: Textual amendment: [S. 120](https://www.legislation.gov.uk/ukpga/1988/39/section/120) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

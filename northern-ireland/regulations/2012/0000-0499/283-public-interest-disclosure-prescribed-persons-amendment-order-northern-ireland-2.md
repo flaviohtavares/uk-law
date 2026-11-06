@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2012 (revoked)[^key-aa6ab92bc69378cc45c9aceda2380f65]
+Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2012 (revoked)[^c-aa6ab92bc69378cc45c9aceda2380f65]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 1st October 2012
 
-[^key-aa6ab92bc69378cc45c9aceda2380f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa6ab92bc69378cc45c9aceda2380f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aa6ab92bc69378cc45c9aceda2380f65]
+## 1. Citation and commencement[^c-aa6ab92bc69378cc45c9aceda2380f65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-aa6ab92bc69378cc45c9aceda2380f65]
+## 2. Amendment[^c-aa6ab92bc69378cc45c9aceda2380f65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-aa6ab92bc69378cc45c9aceda2380f65]
+## 3. Revocation[^c-aa6ab92bc69378cc45c9aceda2380f65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa6ab92bc69378cc45c9aceda2380f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa6ab92bc69378cc45c9aceda2380f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-aa6ab92bc69378cc45c9aceda2380f65]
+## SCHEDULE[^c-aa6ab92bc69378cc45c9aceda2380f65]
 
 Article 2
 
@@ -70,8 +70,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-aa6ab92bc69378cc45c9aceda2380f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa6ab92bc69378cc45c9aceda2380f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa6ab92bc69378cc45c9aceda2380f65]: Textual amendment: Order revoked (6.4.2014) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/48)](https://www.legislation.gov.uk/nisr/2014/48), [arts. 1](https://www.legislation.gov.uk/nisr/2014/48/article/1), [3](https://www.legislation.gov.uk/nisr/2014/48/article/3)
+[^c-aa6ab92bc69378cc45c9aceda2380f65]: Textual amendment: Order revoked (6.4.2014) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/48)](https://www.legislation.gov.uk/nisr/2014/48), [arts. 1](https://www.legislation.gov.uk/nisr/2014/48/article/1), [3](https://www.legislation.gov.uk/nisr/2014/48/article/3)

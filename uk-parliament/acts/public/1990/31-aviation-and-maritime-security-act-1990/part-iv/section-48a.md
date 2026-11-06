@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48A. Application of Act to medium-range rockets[^key-4691a63b2406f55d9b932488d774eb16]
+## 48A. Application of Act to medium-range rockets[^c-4691a63b2406f55d9b932488d774eb16]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4691a63b2406f55d9b932488d774eb16]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/1990/31/section/48A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/16); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-4691a63b2406f55d9b932488d774eb16]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/1990/31/section/48A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/16); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

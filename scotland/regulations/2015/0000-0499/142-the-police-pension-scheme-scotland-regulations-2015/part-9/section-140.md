@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Adjustment of benefits to comply with FA 2004 where members die over 75[^key-bdc744605ac9ae4f095d208df6d8678f]
+## 140. Adjustment of benefits to comply with FA 2004 where members die over 75[^c-bdc744605ac9ae4f095d208df6d8678f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdc744605ac9ae4f095d208df6d8678f]: Commencement: Reg. 140 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-bdc744605ac9ae4f095d208df6d8678f]: Commencement: Reg. 140 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

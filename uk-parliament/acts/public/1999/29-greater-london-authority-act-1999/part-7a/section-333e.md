@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333E. Interpretation of Part 7A[^key-6b2ecc6e91af59f8058c6c3c29ee638d]
+## 333E. Interpretation of Part 7A[^c-6b2ecc6e91af59f8058c6c3c29ee638d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In this Part—
 
 ## Annotations
 
-[^key-6b2ecc6e91af59f8058c6c3c29ee638d]: Textual amendment: S. 333E and cross-heading inserted (15.1.2012 for specified purposes, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); S.I. 2012/628, art. 6(e) (with arts. 9, 11, 14, 15, 17)
+[^c-6b2ecc6e91af59f8058c6c3c29ee638d]: Textual amendment: S. 333E and cross-heading inserted (15.1.2012 for specified purposes, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); S.I. 2012/628, art. 6(e) (with arts. 9, 11, 14, 15, 17)

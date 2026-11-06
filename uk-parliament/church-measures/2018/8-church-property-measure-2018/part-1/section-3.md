@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 3. Consent to dealing under section 1 or 2[^key-36f2bc6462fdcac8a33a5b51db357549]
+## 3. Consent to dealing under section 1 or 2[^c-36f2bc6462fdcac8a33a5b51db357549]
 
 *Extent: E*
 
@@ -45,15 +45,15 @@ summary: ''
 
 (7) The condition in this subsection is that the person entitled to exercise the power—
 
-- (a) has obtained a written report on the proposed transaction from a designated adviser[^key-d2f338c29ea1a7077c6ac2e6bc314307] instructed by and acting exclusively for him or her, and
+- (a) has obtained a written report on the proposed transaction from a designated adviser[^c-d2f338c29ea1a7077c6ac2e6bc314307] instructed by and acting exclusively for him or her, and
 - (b) having considered the report, is satisfied that the terms of the proposed transaction are the best that can be reasonably obtained for the benefice.
 
-(8) The condition in this subsection is that the person entitled to exercise the power has advertised the proposed transaction for the period and in the manner advised by the designated adviser[^key-5c02455eb25c880ade33b4df1a2f504f] in the report, unless the designated adviser has advised in the report that advertising the proposed transaction would not be in the best interests of the benefice.
+(8) The condition in this subsection is that the person entitled to exercise the power has advertised the proposed transaction for the period and in the manner advised by the designated adviser[^c-5c02455eb25c880ade33b4df1a2f504f] in the report, unless the designated adviser has advised in the report that advertising the proposed transaction would not be in the best interests of the benefice.
 
 ## Annotations
 
-[^key-36f2bc6462fdcac8a33a5b51db357549]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/8/section/3) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-36f2bc6462fdcac8a33a5b51db357549]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/8/section/3) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-d2f338c29ea1a7077c6ac2e6bc314307]: Textual amendment: Words in [s. 3(7)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/3/7/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-d2f338c29ea1a7077c6ac2e6bc314307]: Textual amendment: Words in [s. 3(7)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/3/7/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-5c02455eb25c880ade33b4df1a2f504f]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/3/8) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/5), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-5c02455eb25c880ade33b4df1a2f504f]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/3/8) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/5), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

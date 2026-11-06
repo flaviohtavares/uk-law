@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Appeal on point of law.[^c833523][^c2085245][^c2085671][^c2085777][^c2086252][^key-e1c5d4c099d9f98379ca93dd5a251060]
+## 69. Appeal on point of law.[^c833523][^c2085245][^c2085671][^c2085777][^c2086252][^c-e1c5d4c099d9f98379ca93dd5a251060]
 
 *Extent: E+W+N.I.*
 
@@ -71,4 +71,4 @@ But no such appeal lies without the leave of the court which shall not be given 
 
 [^c2086252]: Modification: S. 69 applied (with modifications) (N.I.) (21.5.2006) by [The Labour Relations Agency (Flexible Working) Arbitration Scheme Order (Northern Ireland) 2006 (S.R. 2006/206)](https://www.legislation.gov.uk/nisr/2006/206), [arts. 2](https://www.legislation.gov.uk/nisr/2006/206/article/2), [3](https://www.legislation.gov.uk/nisr/2006/206/article/3), [Sch. para. 115](https://www.legislation.gov.uk/nisr/2006/206/schedule/paragraph/115)
 
-[^key-e1c5d4c099d9f98379ca93dd5a251060]: Modification: S. 69 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 112](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/112)
+[^c-e1c5d4c099d9f98379ca93dd5a251060]: Modification: S. 69 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 112](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/112)

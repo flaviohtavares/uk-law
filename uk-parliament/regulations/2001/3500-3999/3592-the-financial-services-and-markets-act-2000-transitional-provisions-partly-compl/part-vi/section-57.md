@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Application of this Chapter[^key-fbe25b5ccc38c7d9671588ffc2a1d512]
+## 57. Application of this Chapter[^c-fbe25b5ccc38c7d9671588ffc2a1d512]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ This Chapter applies only where the person in discipline is—
 
 ## Annotations
 
-[^key-fbe25b5ccc38c7d9671588ffc2a1d512]: Commencement: Art. 57 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-fbe25b5ccc38c7d9671588ffc2a1d512]: Commencement: Art. 57 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

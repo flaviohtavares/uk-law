@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 300. Right to acquire freehold: abolition of low rent test[^key-d1fd3ba5086deab9e33169df773038ce]
+## 300. Right to acquire freehold: abolition of low rent test[^c-d1fd3ba5086deab9e33169df773038ce]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1fd3ba5086deab9e33169df773038ce]: Commencement: [S. 300](https://www.legislation.gov.uk/ukpga/2008/17/section/300) in force at 7.9.2009 for E. by [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))
+[^c-d1fd3ba5086deab9e33169df773038ce]: Commencement: [S. 300](https://www.legislation.gov.uk/ukpga/2008/17/section/300) in force at 7.9.2009 for E. by [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))

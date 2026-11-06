@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Ability for creditors to opt not to receive certain notices: individual insolvency[^key-651db57b49808e174de092f6f5f28144][^key-c77659442216a659ff3fe8d12c7871e7]
+## 125. Ability for creditors to opt not to receive certain notices: individual insolvency[^c-651db57b49808e174de092f6f5f28144][^c-c77659442216a659ff3fe8d12c7871e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-651db57b49808e174de092f6f5f28144]: Commencement: S. 125 in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
+[^c-651db57b49808e174de092f6f5f28144]: Commencement: S. 125 in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
 
-[^key-c77659442216a659ff3fe8d12c7871e7]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2015/26/section/125) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/d)
+[^c-c77659442216a659ff3fe8d12c7871e7]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2015/26/section/125) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Establishment of the Civil Service Commission[^key-5a1ae9b44e70b8153a661e47309c311e]
+## 2. Establishment of the Civil Service Commission[^c-5a1ae9b44e70b8153a661e47309c311e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a1ae9b44e70b8153a661e47309c311e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/25/section/2) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-5a1ae9b44e70b8153a661e47309c311e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/25/section/2) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

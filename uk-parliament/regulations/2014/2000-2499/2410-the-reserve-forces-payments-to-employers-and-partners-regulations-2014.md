@@ -51,13 +51,13 @@ In accordance with section 84A(3) of the Act, the Secretary of State is satisfie
 - (a) to employ, or continue to employ, members of the reserve forces; or
 - (b) to carry on business, or continue to carry on business, in partnership with members of the reserve forces.
 
-The Secretary of State has consulted in accordance with section 85(3)[^f00002] of the Act.[^key-0dd72e039e0b3a0289f752ae624affc4]
+The Secretary of State has consulted in accordance with section 85(3)[^f00002] of the Act.[^c-0dd72e039e0b3a0289f752ae624affc4]
 
-## 1. Citation and commencement[^key-02778ab193f1f448cff000025a3fabf1]
+## 1. Citation and commencement[^c-02778ab193f1f448cff000025a3fabf1]
 
 These Regulations may be cited as the Reserve Forces (Payments to Employers and Partners) Regulations 2014 and come into force on 1st October 2014.
 
-## 2. Interpretation[^key-5cdf4d8d1ec3ff02c71b02cc9bfa0079]
+## 2. Interpretation[^c-5cdf4d8d1ec3ff02c71b02cc9bfa0079]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ These Regulations may be cited as the Reserve Forces (Payments to Employers and 
 
 (2) Where a person is performing relevant service and the date on which that person is entitled to be released or discharged has been postponed under section 53(3), (7) or (11), 55(3), (7) or (11), 57(3) or (7) or 61 (as the case may be) of the 1996 Act, the date of the termination of relevant service means the date on which the reservist actually ceases the relevant service after the period of extension, and not the date on which the reservist would otherwise have been entitled to be released or discharged from the service.
 
-## 3. Employer’s payment[^key-d0bad1fd94a907e00815501cdef76482]
+## 3. Employer’s payment[^c-d0bad1fd94a907e00815501cdef76482]
 
 (1) Subject to fulfilment to an adjudication officer’s satisfaction of the requirement to provide information or documentation under regulation 7, an employer is entitled to claim an employer’s payment in respect of such part of the relevant period as the reservist is an employee of the employer.
 
@@ -126,7 +126,7 @@ where—
 
 (6) The employer’s payment is paid in monthly instalments paid monthly in arrears to the employer on the last working day of every calendar month.
 
-## 4. Partner’s payment[^key-f535c17107eef942b092f3e0a699ce8e]
+## 4. Partner’s payment[^c-f535c17107eef942b092f3e0a699ce8e]
 
 (1) Subject to fulfilment to an adjudication officer’s satisfaction of the requirement to provide information or documentation under regulation 7, a partner is entitled to claim a partner’s payment in respect of such part of the relevant period as the reservist is carrying on business in partnership with the partner, but see paragraph (7).
 
@@ -155,17 +155,17 @@ where—
 
 (7) A partner is not entitled to claim a partner’s payment in respect of any part of a relevant period for which a payment has been made under this regulation to the partner or to another partner of the reservist.
 
-## 5. Time limits for making a claim[^key-73382ff746ee7ccbca34fdc6d89809a9]
+## 5. Time limits for making a claim[^c-73382ff746ee7ccbca34fdc6d89809a9]
 
 (1) A claim under these Regulations may not be made before the relevant date.
 
 (2) A claim under these Regulations may not be made more than 4 weeks after the end of the relevant period, unless an adjudication officer agrees to an extended period.
 
-## 6. Person to whom claims must be made[^key-65c867e7387314c3ea27989da7b30bed]
+## 6. Person to whom claims must be made[^c-65c867e7387314c3ea27989da7b30bed]
 
 A claim must be made to a person specified in Schedule 3 for determination by that person.
 
-## 7. Information and documentation to be provided in relation to claims[^key-b4276db7c8e874b9437bfc599e75c0fd]
+## 7. Information and documentation to be provided in relation to claims[^c-b4276db7c8e874b9437bfc599e75c0fd]
 
 (1) When making a claim under regulation 3 or 4, an employer or partner must provide the information specified in Schedule 2 to an adjudication officer.
 
@@ -178,7 +178,7 @@ A claim must be made to a person specified in Schedule 3 for determination by th
 
 which might materially affect the claim, no later than 14 days after the inaccuracy, change or event comes to the claimant’s attention. The provision of such information will entitle an adjudication officer to review the original determination in accordance with paragraph (1)(d) of regulation 10.
 
-## 8. Determination and payment of claims[^key-91caf2167dc614b02da5072d95d558ba]
+## 8. Determination and payment of claims[^c-91caf2167dc614b02da5072d95d558ba]
 
 (1) An adjudication officer must consider and determine a claim promptly and in accordance with the relevant provisions of these Regulations.
 
@@ -188,14 +188,14 @@ which might materially affect the claim, no later than 14 days after the inaccur
 - (b) showing how any payment has been calculated;
 - (c) that the claimant may, if he or she is dissatisfied with the determination of his or her claim, appeal against the determination to a reserve forces appeal tribunal, and giving the address to which such an appeal should be sent.
 
-## 9. Rejection of claims for non-compliance with the Regulations[^key-50810d6bf6e2d7ba0b15355afa288a69]
+## 9. Rejection of claims for non-compliance with the Regulations[^c-50810d6bf6e2d7ba0b15355afa288a69]
 
 An adjudication officer may reject a claim if the claimant has failed without reasonable excuse to comply with—
 
 - (a) any requirement under regulation 7 to provide information or documentation;
 - (b) the time limit prescribed in regulation 5.
 
-## 10. Additional powers of adjudication officers[^key-22e8b4911d630a8911a49212e7fdfa26]
+## 10. Additional powers of adjudication officers[^c-22e8b4911d630a8911a49212e7fdfa26]
 
 (1) An adjudication officer may—
 
@@ -207,11 +207,11 @@ An adjudication officer may reject a claim if the claimant has failed without re
 
 (2) If an adjudication officer proposes to exercise the power under paragraph (1)(d), the adjudication officer must provide written notice of his or her intention to do so to the claimant as soon as reasonably practicable.
 
-## 11. Withdrawal of a claim[^key-469bb8df3b66b9fdcfe74672c93a0a43]
+## 11. Withdrawal of a claim[^c-469bb8df3b66b9fdcfe74672c93a0a43]
 
 A claimant may withdraw a claim, or any part of a claim, at any time by providing written notice of withdrawal to an adjudication officer.
 
-## 12. Transitional arrangements[^key-04117fb3b32d14642c330b24e0303c1f]
+## 12. Transitional arrangements[^c-04117fb3b32d14642c330b24e0303c1f]
 
 In respect of a period of relevant service which begins before these Regulations come into force and continues after these Regulations come into force, for the purposes of these Regulations “relevant date” means the date on which these Regulations come into force.
 
@@ -227,19 +227,19 @@ Ministry of Defence
 
 Regulation 2(1) (“relevant undertaking”)
 
-**1.**[^key-214ad77bdabda2074cce3489c8ee6e61] The qualifying conditions are met by an undertaking if it satisfies both of the following requirements—
+**1.**[^c-214ad77bdabda2074cce3489c8ee6e61] The qualifying conditions are met by an undertaking if it satisfies both of the following requirements—
 
 - (a) its annual turnover is not more than £25.9 million;
 - (b) the number of its employees and any partners is not more than 250 on the date provided for in paragraph 4.
 
-**2.**[^key-0529faa816758e906cfcadc4e3feb047] For the purposes of paragraph 1, the annual turnover of an undertaking is—
+**2.**[^c-0529faa816758e906cfcadc4e3feb047] For the purposes of paragraph 1, the annual turnover of an undertaking is—
 
 - (a) the undertaking’s turnover for the 12 months immediately preceding the date provided for in paragraph 4; or
 - (b) where that undertaking was established for a period of less than 12 months before that date, the undertaking’s turnover for that period increased proportionately to provide a figure for a period of 12 months.
 
-**3.**[^key-f9ad894bbbc11a9f02d1f231389243f9] In this Schedule “turnover” has the meaning given in section 474(1) of the Companies Act 2006[^f00006] with the modification that for “company” there is substituted “undertaking”.
+**3.**[^c-f9ad894bbbc11a9f02d1f231389243f9] In this Schedule “turnover” has the meaning given in section 474(1) of the Companies Act 2006[^f00006] with the modification that for “company” there is substituted “undertaking”.
 
-**4.**[^key-ae2fb9860c4d4fb6c6adcb37fbbbf26b] The date is—
+**4.**[^c-ae2fb9860c4d4fb6c6adcb37fbbbf26b] The date is—
 
 - (a) for the purposes of a claim under regulation 3, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is an employee of the employer making the claim; and
 - (b) for the purposes of a claim under regulation 4, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is carrying on business in partnership with the partner making the claim.
@@ -248,7 +248,7 @@ Regulation 2(1) (“relevant undertaking”)
 
 Regulations 3, 4, 7(1)
 
-**1.**[^key-bd7c9c6967f7f01e59042ea316c6be29] On making a claim under regulation 3 or 4 an employer or partner must provide to an adjudication officer the following information—
+**1.**[^c-bd7c9c6967f7f01e59042ea316c6be29] On making a claim under regulation 3 or 4 an employer or partner must provide to an adjudication officer the following information—
 
 - (a) his or her full name;
 - (b) the name of the undertaking in which he or she employs, or is carrying on business in partnership with, the reservist in connection with whom the claim is made;
@@ -260,16 +260,16 @@ Regulations 3, 4, 7(1)
 - (h) confirmation that the turnover of the undertaking in which he or she employs, or is carrying on business in partnership with, the reservist is, for the 12-month period immediately preceding the date provided for in paragraph 2, not more than £25.9 million or, where that undertaking was established for a period of less than 12 months before that date, confirmation that, when the turnover of the undertaking for that period is increased proportionately to provide a figure for a period of 12 months, that figure is not more than £25.9 million;
 - (i) confirmation that the total number of employees and any persons carrying on business in partnership in the undertaking on the date provided for in paragraph 2 was not more than 250.
 
-**2.**[^key-554e79aa1232366bc064885406e433da] The date is—
+**2.**[^c-554e79aa1232366bc064885406e433da] The date is—
 
 - (a) for the purposes of a claim under regulation 3, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is an employee of the employer making the claim; and
 - (b) for the purposes of a claim under regulation 4, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is carrying on business in partnership with the partner making the claim.
 
-## SCHEDULE 3 — Person to whom claims must be made[^key-c70bbda874b085548287d2ad0f4bb519]
+## SCHEDULE 3 — Person to whom claims must be made[^c-c70bbda874b085548287d2ad0f4bb519]
 
 Regulation 6
 
-[^key-c70bbda874b085548287d2ad0f4bb519]
+[^c-c70bbda874b085548287d2ad0f4bb519]
 
 Any claim under these Regulations must be made to an adjudication officer appointed for the service or reserve force in which the reservist is performing relevant service, either by e-mail or by post to the address specified below—
 
@@ -305,11 +305,11 @@ Regulation 12 makes transitional provision with respect to reservists who are in
 
 [^f00002]: Footnote: Section 85(3) was amended by section 46 of, and paragraph 4(4) of Schedule 7 to, the Defence Reform Act 2014 to apply that subsection to regulations made under section 84A.
 
-[^key-0dd72e039e0b3a0289f752ae624affc4]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2410) applied (Isle of Man) (with modifications) (2.10.2018) by [The Reserve Forces (Payments to Employers and Partners) (Isle of Man) Regulations 2018 (S.I. 2018/992)](https://www.legislation.gov.uk/uksi/2018/992), [reg. 2](https://www.legislation.gov.uk/uksi/2018/992/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/992/schedule)
+[^c-0dd72e039e0b3a0289f752ae624affc4]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2410) applied (Isle of Man) (with modifications) (2.10.2018) by [The Reserve Forces (Payments to Employers and Partners) (Isle of Man) Regulations 2018 (S.I. 2018/992)](https://www.legislation.gov.uk/uksi/2018/992), [reg. 2](https://www.legislation.gov.uk/uksi/2018/992/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/992/schedule)
 
-[^key-02778ab193f1f448cff000025a3fabf1]: Commencement: Reg. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-02778ab193f1f448cff000025a3fabf1]: Commencement: Reg. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-5cdf4d8d1ec3ff02c71b02cc9bfa0079]: Commencement: Reg. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-5cdf4d8d1ec3ff02c71b02cc9bfa0079]: Commencement: Reg. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
 [^f00003]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
@@ -317,38 +317,38 @@ Regulation 12 makes transitional provision with respect to reservists who are in
 
 [^f00005]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-d0bad1fd94a907e00815501cdef76482]: Commencement: Reg. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-d0bad1fd94a907e00815501cdef76482]: Commencement: Reg. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-f535c17107eef942b092f3e0a699ce8e]: Commencement: Reg. 4 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-f535c17107eef942b092f3e0a699ce8e]: Commencement: Reg. 4 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-73382ff746ee7ccbca34fdc6d89809a9]: Commencement: Reg. 5 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-73382ff746ee7ccbca34fdc6d89809a9]: Commencement: Reg. 5 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-65c867e7387314c3ea27989da7b30bed]: Commencement: Reg. 6 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-65c867e7387314c3ea27989da7b30bed]: Commencement: Reg. 6 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-b4276db7c8e874b9437bfc599e75c0fd]: Commencement: Reg. 7 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-b4276db7c8e874b9437bfc599e75c0fd]: Commencement: Reg. 7 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-91caf2167dc614b02da5072d95d558ba]: Commencement: Reg. 8 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-91caf2167dc614b02da5072d95d558ba]: Commencement: Reg. 8 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-50810d6bf6e2d7ba0b15355afa288a69]: Commencement: Reg. 9 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-50810d6bf6e2d7ba0b15355afa288a69]: Commencement: Reg. 9 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-22e8b4911d630a8911a49212e7fdfa26]: Commencement: Reg. 10 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-22e8b4911d630a8911a49212e7fdfa26]: Commencement: Reg. 10 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-469bb8df3b66b9fdcfe74672c93a0a43]: Commencement: Reg. 11 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-469bb8df3b66b9fdcfe74672c93a0a43]: Commencement: Reg. 11 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-04117fb3b32d14642c330b24e0303c1f]: Commencement: Reg. 12 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-04117fb3b32d14642c330b24e0303c1f]: Commencement: Reg. 12 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-214ad77bdabda2074cce3489c8ee6e61]: Commencement: Sch. 1 para. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-214ad77bdabda2074cce3489c8ee6e61]: Commencement: Sch. 1 para. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-0529faa816758e906cfcadc4e3feb047]: Commencement: Sch. 1 para. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-0529faa816758e906cfcadc4e3feb047]: Commencement: Sch. 1 para. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-f9ad894bbbc11a9f02d1f231389243f9]: Commencement: Sch. 1 para. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-f9ad894bbbc11a9f02d1f231389243f9]: Commencement: Sch. 1 para. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
 [^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations.
 
-[^key-ae2fb9860c4d4fb6c6adcb37fbbbf26b]: Commencement: Sch. 1 para. 4 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-ae2fb9860c4d4fb6c6adcb37fbbbf26b]: Commencement: Sch. 1 para. 4 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-bd7c9c6967f7f01e59042ea316c6be29]: Commencement: Sch. 2 para. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-bd7c9c6967f7f01e59042ea316c6be29]: Commencement: Sch. 2 para. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-554e79aa1232366bc064885406e433da]: Commencement: Sch. 2 para. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-554e79aa1232366bc064885406e433da]: Commencement: Sch. 2 para. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
 
-[^key-c70bbda874b085548287d2ad0f4bb519]: Commencement: Sch. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+[^c-c70bbda874b085548287d2ad0f4bb519]: Commencement: Sch. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)

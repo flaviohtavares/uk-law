@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 64. Application of remainder of proceeds of sales and other disposals[^key-05975d0b7a46418c2ecc23f1399c4f11]
+## 64. Application of remainder of proceeds of sales and other disposals[^c-05975d0b7a46418c2ecc23f1399c4f11]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05975d0b7a46418c2ecc23f1399c4f11]: Commencement: S. 64 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-05975d0b7a46418c2ecc23f1399c4f11]: Commencement: S. 64 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A8. Progress reports[^key-a52c496d93f1e82bf1b4a38119f43b9c]
+## A8. Progress reports[^c-a52c496d93f1e82bf1b4a38119f43b9c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52c496d93f1e82bf1b4a38119f43b9c]: Textual amendment: S. A8 repealed (31.3.2021) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/2/3), [36(2)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/b)
+[^c-a52c496d93f1e82bf1b4a38119f43b9c]: Textual amendment: S. A8 repealed (31.3.2021) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/2/3), [36(2)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/b)

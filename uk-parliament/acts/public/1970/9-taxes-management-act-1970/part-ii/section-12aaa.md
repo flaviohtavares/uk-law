@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12AAA. Withdrawal by HMRC of notice under section 12AA[^key-6da1803a4be3d8fadfff851aaeea1e63]
+## 12AAA. Withdrawal by HMRC of notice under section 12AA[^c-6da1803a4be3d8fadfff851aaeea1e63]
 
 *Extent: E+W+S+N.I.*
 
-[^key-ba7ef8e5103359a508757112823db135][^key-245985e79becf8d645b2f0608b6bd803]
+[^c-ba7ef8e5103359a508757112823db135][^c-245985e79becf8d645b2f0608b6bd803]
 
 (1) This section applies to a partner who is required by a notice under section 12AA to deliver a return.
 
@@ -42,16 +42,16 @@ summary: ''
 
 (8) References in subsections (2) to (6) to the partner include references to a successor of the partner (see section 12AA(11)).
 
-(9)[^key-7dc1dcc87e1458ac1754066d9564e72b] See paragraph 17B of Schedule 55 to FA 2009 as to the cancellation of liability to a penalty under any paragraph of that Schedule by including provision in a notice under this section. *(affected by repeal, see note)*[^key-7dc1dcc87e1458ac1754066d9564e72b]
+(9)[^c-7dc1dcc87e1458ac1754066d9564e72b] See paragraph 17B of Schedule 55 to FA 2009 as to the cancellation of liability to a penalty under any paragraph of that Schedule by including provision in a notice under this section. *(affected by repeal, see note)*[^c-7dc1dcc87e1458ac1754066d9564e72b]
 
 (9) See paragraph 21 of Schedule 24 and paragraph 16 of Schedule 25 to the Finance Act 2021 as to the cancellation of liabilities under those Schedules by including provision in a notice under this section.
 
 ## Annotations
 
-[^key-6da1803a4be3d8fadfff851aaeea1e63]: Textual amendment: S. 12AAA inserted (with effect in accordance with Sch. 51 para. 9 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 51 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/51/paragraph/4)
+[^c-6da1803a4be3d8fadfff851aaeea1e63]: Textual amendment: S. 12AAA inserted (with effect in accordance with Sch. 51 para. 9 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 51 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/51/paragraph/4)
 
-[^key-ba7ef8e5103359a508757112823db135]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/7/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/377/regulation/10) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))
+[^c-ba7ef8e5103359a508757112823db135]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/7/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/377/regulation/10) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))
 
-[^key-245985e79becf8d645b2f0608b6bd803]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/4/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/377/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))
+[^c-245985e79becf8d645b2f0608b6bd803]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/4/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/377/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))
 
-[^key-7dc1dcc87e1458ac1754066d9564e72b]: Textual amendment: S. 12AAA(9) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/3); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-7dc1dcc87e1458ac1754066d9564e72b]: Textual amendment: S. 12AAA(9) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/3); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)

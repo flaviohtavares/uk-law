@@ -45,13 +45,13 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred on him by sections 30(1), (2)(a), (b), (c) and (d) and (2A) and 41(4) of the Employment Tribunals Act 1996[^f00001] and of all other powers enabling him in that behalf, and after consultation with the Lord President of the Court of Session, hereby makes the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-56c05bbd4b37204509f579e8b9963f23]
+## 1. Citation, commencement and interpretation[^c-56c05bbd4b37204509f579e8b9963f23]
 
-(1) These Rules may be cited as the Employment Appeal Tribunal (Amendment) Rules 2001 and shall come into force on 16th July 2001[^key-92245630154d50f992622ca967ca23cc].
+(1) These Rules may be cited as the Employment Appeal Tribunal (Amendment) Rules 2001 and shall come into force on 16th July 2001[^c-92245630154d50f992622ca967ca23cc].
 
 (2) In these Rules, any reference to a rule or to the Schedule is a reference to a rule in, or to the Schedule to, the Employment Appeal Tribunal Rules 1993[^f00002].
 
-## 2. Amendment of rules[^key-2331cee87e4d579b7e702f36c6b7e1da]
+## 2. Amendment of rules[^c-2331cee87e4d579b7e702f36c6b7e1da]
 
 For rule 2 substitute—
 
@@ -81,7 +81,7 @@ For rule 2 substitute—
 >
 > (3) Any reference in these Rules to a person who was the applicant or, as the case may be, the respondent in the proceedings before an employment tribunal includes, where those proceedings are still continuing, a reference to a person who is the applicant or, as the case may be, is the respondent in those proceedings.
 
-## 3.[^key-04f3bdca29f73a3e2e9640c88a1414e3]
+## 3.[^c-04f3bdca29f73a3e2e9640c88a1414e3]
 
 For rule 3, substitute—
 
@@ -127,7 +127,7 @@ For rule 3, substitute—
 
 .
 
-## 4.[^key-46fab18893fe2799f3afd2e0c552a34e]
+## 4.[^c-46fab18893fe2799f3afd2e0c552a34e]
 
 In rule 4—
 
@@ -149,7 +149,7 @@ In rule 4—
 
   .
 
-## 5.[^key-53257b4a466292bcd884d931f9499bfc]
+## 5.[^c-53257b4a466292bcd884d931f9499bfc]
 
 In rule 5—
 
@@ -161,7 +161,7 @@ In rule 5—
 
   .
 
-## 6.[^key-5458c9a9d3471fc073f57b0d9a184afd]
+## 6.[^c-5458c9a9d3471fc073f57b0d9a184afd]
 
 In rule 6—
 
@@ -191,7 +191,7 @@ In rule 6—
   >
   > (11) Any document provided under paragraph (8) or (9)(b) shall be treated by the Registrar in accordance with rule 4(3), as though it were a document received under rule 3(6)(a) or (b).
 
-## 7.[^key-3c1a765767869ac5d786eceff43b6d25]
+## 7.[^c-3c1a765767869ac5d786eceff43b6d25]
 
 In rule 7(1)—
 
@@ -204,11 +204,11 @@ In rule 7(1)—
 
   .
 
-## 8.[^key-ae5a002d348e56c1aa582664d34afd01]
+## 8.[^c-ae5a002d348e56c1aa582664d34afd01]
 
 In rule 13, for the words “section 136A”, substitute the words “section 33 of the 1996 Act”.
 
-## 9.[^key-58bb7a535d4d194017f4744264ccec86]
+## 9.[^c-58bb7a535d4d194017f4744264ccec86]
 
 After rule 16 insert—
 
@@ -226,49 +226,49 @@ After rule 16 insert—
 >
 > **16D.** On receipt of the notice of appearance under rule 16C the Registrar shall serve a copy of it on the applicant.
 
-## 10.[^key-f8d97fac11723890862e3ee7b0943b71]
+## 10.[^c-f8d97fac11723890862e3ee7b0943b71]
 
 In rule 17, for the words “or rule 13”, substitute the words “,13 or 16A”.
 
-## 11.[^key-3c914f38cc4215914b4be27ce8362c63]
+## 11.[^c-3c914f38cc4215914b4be27ce8362c63]
 
 In rule 20—
 
 - (a) in paragraphs (2) and (3), for the words “paragraph 16(1) and (2) of Schedule 11”, substitute the words “section 28 of the 1996 Act”; and
 - (b) omit paragraph (4).
 
-## 12.[^key-9ed417b79c44438fd335cfff787dd98a]
+## 12.[^c-9ed417b79c44438fd335cfff787dd98a]
 
 In rule 21(1)—
 
 - (a) omit the words “(subject to rule 22(2))”; and
 - (b) for the words “paragraph 16(1) and (2) of Schedule 11”, substitute the words “section 28 of the 1996 Act”.
 
-## 13.[^key-c405b9f22c08d5b84f7773b3de94c30b]
+## 13.[^c-c405b9f22c08d5b84f7773b3de94c30b]
 
 In rule 22—
 
 - (a) in paragraph (1), for the words “rule 30”, substitute the words “any direction of a Minister of the Crown under rule 30A(1) or order of the Appeal Tribunal under rule 30A(2)(a) read with rule 30A(1),”; and
 - (b) omit paragraph (2).
 
-## 14.[^key-f889606d528ca6b4868c90d11af652e6]
+## 14.[^c-f889606d528ca6b4868c90d11af652e6]
 
 In rule 23—
 
 - (a) in paragraph (1), for the words “paragraph 18A of Schedule 11”, substitute the words “section 31 of the 1996 Act”; and
 - (b) in paragraph (6), for the words “rule 30”, substitute the words “any direction of a Minister of the Crown under rule 30A(1) or order of the Appeal Tribunal under rule 30A(2)(a) read with rule 30A(1),”.
 
-## 15.[^key-ccd062eb8f04b961d838683784084ced]
+## 15.[^c-ccd062eb8f04b961d838683784084ced]
 
 In rule 23A(1), for the words “Employment Tribunals Act 1996”, substitute the words “1996 Act”.
 
-## 16.[^key-1910b7e9f6e29e6f7c040a04cdb19b17]
+## 16.[^c-1910b7e9f6e29e6f7c040a04cdb19b17]
 
 In rule 26, for the words “or section 136A”, substitute the words—
 
 - “, section 33 of the 1996 Act or regulation 20 or 21 of the 1999 Regulations”. .
 
-## 17.[^key-44eda70fb4fd3710ccbe4203e7e1d779]
+## 17.[^c-44eda70fb4fd3710ccbe4203e7e1d779]
 
 In rule 27, after paragraph (1) insert—
 
@@ -279,7 +279,7 @@ In rule 27, after paragraph (1) insert—
 
 .
 
-## 18.[^key-2bdbec787cb249e06cea4de9f0d461f0]
+## 18.[^c-2bdbec787cb249e06cea4de9f0d461f0]
 
 In rule 29—
 
@@ -296,7 +296,7 @@ In rule 29—
 
   .
 
-## 19.[^key-4a3ef1aec4be762030eb793633de37f3]
+## 19.[^c-4a3ef1aec4be762030eb793633de37f3]
 
 For rule 30, substitute—
 
@@ -359,7 +359,7 @@ For rule 30, substitute—
 
 .
 
-## 20.[^key-1ea588ddf28d13c73f272801c7dab8b2]
+## 20.[^c-1ea588ddf28d13c73f272801c7dab8b2]
 
 In rule 31—
 
@@ -373,7 +373,7 @@ In rule 31—
   ; and
 - (d) at the beginning of paragraph (2), insert the words “Subject to rule 31A,”.
 
-## 21.[^key-49d734f080ee574760e06331aef4e480]
+## 21.[^c-49d734f080ee574760e06331aef4e480]
 
 After rule 31, insert—
 
@@ -401,11 +401,11 @@ After rule 31, insert—
 
 .
 
-## 22.[^key-cbb125d6ceb15e59430e3e0f191bfc65]
+## 22.[^c-cbb125d6ceb15e59430e3e0f191bfc65]
 
 In rule 34(2), for the words “taxing officer” substitute the words “costs officer”.
 
-## 23.[^key-5bd51a366a1ec2245b37dcd667024884]
+## 23.[^c-5bd51a366a1ec2245b37dcd667024884]
 
 At the end of rule 37, insert—
 
@@ -413,7 +413,7 @@ At the end of rule 37, insert—
 
 .
 
-## 24.[^key-7d6e861f2b91c602acbb24828ff3baf2]
+## 24.[^c-7d6e861f2b91c602acbb24828ff3baf2]
 
 In the Schedule, after Form 1, insert—
 
@@ -427,7 +427,7 @@ In the Schedule, after Form 1, insert—
 
 .
 
-## 25.[^key-40d8754ba016af63af2b0bf3aefcb4a0]
+## 25.[^c-40d8754ba016af63af2b0bf3aefcb4a0]
 
 In the Schedule after Form 4 insert—
 
@@ -441,7 +441,7 @@ In the Schedule after Form 4 insert—
 
 .
 
-## 26.[^key-19a57a4ee030b615ace55d5fae7f8e9b]
+## 26.[^c-19a57a4ee030b615ace55d5fae7f8e9b]
 
 In the Schedule, after Form 5, insert—
 
@@ -455,11 +455,11 @@ In the Schedule, after Form 5, insert—
 
 .
 
-## 27.[^key-a39a43b6ca84427a43197976d9fa531c]
+## 27.[^c-a39a43b6ca84427a43197976d9fa531c]
 
 In the Schedule in Forms 6 and 7, for the words “section 136A of the Employment Protection (Consolidation) Act 1978”, substitute the words “section 33 of the 1996 Act”.
 
-## 28. Transitional provision[^key-e2dd7794f24710de802297c170829e94]
+## 28. Transitional provision[^c-e2dd7794f24710de802297c170829e94]
 
 The amendments to the Employment Appeal Tribunal Rules 1993 made by these Rules shall apply in relation to all proceedings to which they relate, irrespective of when those proceedings were commenced.
 
@@ -485,13 +485,13 @@ The rules contain a transitional provision at rule 28, to the effect that the am
 
 [^f00001]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17). Section 30(2)(b) was amended by regulation 35(4) of the Transnational Information and Consultation of Employees Regulations 1999 ([S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323)). Section 30(2)(d) was amended, and section 30(2A) was inserted, by paragraph 5(2) and (3) of Schedule 8 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26). By virtue of section 1 of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) industrial tribunals were renamed employment tribunals and references to “industrial tribunal” and “industrial tribunals” in any enactment were substituted with “employment tribunal” and “employment tribunals”.
 
-[^key-56c05bbd4b37204509f579e8b9963f23]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2001/1128/rule/1) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-56c05bbd4b37204509f579e8b9963f23]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2001/1128/rule/1) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-92245630154d50f992622ca967ca23cc]: Textual amendment: Words in [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1) substituted (16.4.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1476)](https://www.legislation.gov.uk/uksi/2001/1476), [rules 1](https://www.legislation.gov.uk/uksi/2001/1476/article/1), [2](https://www.legislation.gov.uk/uksi/2001/1476/article/2)
+[^c-92245630154d50f992622ca967ca23cc]: Textual amendment: Words in [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1) substituted (16.4.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1476)](https://www.legislation.gov.uk/uksi/2001/1476), [rules 1](https://www.legislation.gov.uk/uksi/2001/1476/article/1), [2](https://www.legislation.gov.uk/uksi/2001/1476/article/2)
 
 [^f00002]: Footnote: [S.I. 1993/2854](https://www.legislation.gov.uk/uksi/1993/2854), to which there are amendments not relevant to these Rules.
 
-[^key-2331cee87e4d579b7e702f36c6b7e1da]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2001/1128/rule/2) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-2331cee87e4d579b7e702f36c6b7e1da]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2001/1128/rule/2) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
 [^f00003]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
@@ -503,60 +503,60 @@ The rules contain a transitional provision at rule 28, to the effect that the am
 
 [^f00007]: Footnote: [S.I. 2001/1170](https://www.legislation.gov.uk/uksi/2001/1170).
 
-[^key-04f3bdca29f73a3e2e9640c88a1414e3]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2001/1128/rule/3) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-04f3bdca29f73a3e2e9640c88a1414e3]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2001/1128/rule/3) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-46fab18893fe2799f3afd2e0c552a34e]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2001/1128/rule/4) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-46fab18893fe2799f3afd2e0c552a34e]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2001/1128/rule/4) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
 [^f00008]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-53257b4a466292bcd884d931f9499bfc]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2001/1128/rule/5) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-53257b4a466292bcd884d931f9499bfc]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2001/1128/rule/5) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-5458c9a9d3471fc073f57b0d9a184afd]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2001/1128/rule/6) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-5458c9a9d3471fc073f57b0d9a184afd]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2001/1128/rule/6) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-3c1a765767869ac5d786eceff43b6d25]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2001/1128/rule/7) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-3c1a765767869ac5d786eceff43b6d25]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2001/1128/rule/7) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-ae5a002d348e56c1aa582664d34afd01]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2001/1128/rule/8) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-ae5a002d348e56c1aa582664d34afd01]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2001/1128/rule/8) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-58bb7a535d4d194017f4744264ccec86]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2001/1128/rule/9) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-58bb7a535d4d194017f4744264ccec86]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2001/1128/rule/9) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-f8d97fac11723890862e3ee7b0943b71]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2001/1128/rule/10) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-f8d97fac11723890862e3ee7b0943b71]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2001/1128/rule/10) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-3c914f38cc4215914b4be27ce8362c63]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2001/1128/rule/11) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-3c914f38cc4215914b4be27ce8362c63]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2001/1128/rule/11) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-9ed417b79c44438fd335cfff787dd98a]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2001/1128/rule/12) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-9ed417b79c44438fd335cfff787dd98a]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2001/1128/rule/12) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-c405b9f22c08d5b84f7773b3de94c30b]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2001/1128/rule/13) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-c405b9f22c08d5b84f7773b3de94c30b]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2001/1128/rule/13) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-f889606d528ca6b4868c90d11af652e6]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2001/1128/rule/14) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-f889606d528ca6b4868c90d11af652e6]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2001/1128/rule/14) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-ccd062eb8f04b961d838683784084ced]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2001/1128/rule/15) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-ccd062eb8f04b961d838683784084ced]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2001/1128/rule/15) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-1910b7e9f6e29e6f7c040a04cdb19b17]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2001/1128/rule/16) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-1910b7e9f6e29e6f7c040a04cdb19b17]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2001/1128/rule/16) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-44eda70fb4fd3710ccbe4203e7e1d779]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2001/1128/rule/17) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-44eda70fb4fd3710ccbe4203e7e1d779]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2001/1128/rule/17) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-2bdbec787cb249e06cea4de9f0d461f0]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2001/1128/rule/18) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-2bdbec787cb249e06cea4de9f0d461f0]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2001/1128/rule/18) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-4a3ef1aec4be762030eb793633de37f3]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2001/1128/rule/19) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-4a3ef1aec4be762030eb793633de37f3]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2001/1128/rule/19) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
 [^f00009]: Footnote: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
 [^f00010]: Footnote: [1980 c. 46](https://www.legislation.gov.uk/ukpga/1980/46).
 
-[^key-1ea588ddf28d13c73f272801c7dab8b2]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2001/1128/rule/20) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-1ea588ddf28d13c73f272801c7dab8b2]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2001/1128/rule/20) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-49d734f080ee574760e06331aef4e480]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2001/1128/rule/21) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-49d734f080ee574760e06331aef4e480]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2001/1128/rule/21) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-cbb125d6ceb15e59430e3e0f191bfc65]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2001/1128/rule/22) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-cbb125d6ceb15e59430e3e0f191bfc65]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2001/1128/rule/22) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-5bd51a366a1ec2245b37dcd667024884]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2001/1128/rule/23) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-5bd51a366a1ec2245b37dcd667024884]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2001/1128/rule/23) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-7d6e861f2b91c602acbb24828ff3baf2]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2001/1128/rule/24) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-7d6e861f2b91c602acbb24828ff3baf2]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2001/1128/rule/24) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-40d8754ba016af63af2b0bf3aefcb4a0]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2001/1128/rule/25) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-40d8754ba016af63af2b0bf3aefcb4a0]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2001/1128/rule/25) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-19a57a4ee030b615ace55d5fae7f8e9b]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2001/1128/rule/26) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-19a57a4ee030b615ace55d5fae7f8e9b]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2001/1128/rule/26) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-a39a43b6ca84427a43197976d9fa531c]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2001/1128/rule/27) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-a39a43b6ca84427a43197976d9fa531c]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2001/1128/rule/27) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
 
-[^key-e2dd7794f24710de802297c170829e94]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)
+[^c-e2dd7794f24710de802297c170829e94]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28) in force at 16.7.2001 (as amended by S.I. 2001/1476, rule 2), see [rule 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1)

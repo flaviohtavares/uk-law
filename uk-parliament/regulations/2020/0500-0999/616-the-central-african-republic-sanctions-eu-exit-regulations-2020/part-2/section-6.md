@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation criteria: meaning of “involved person”[^key-b00a506b80d66ab5bc107b46c54d3ed4][^key-19dab318e993894dfec4daed559ebadb]
+## 6. Designation criteria: meaning of “involved person”[^c-b00a506b80d66ab5bc107b46c54d3ed4][^c-19dab318e993894dfec4daed559ebadb]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-7cb6bcc7a5fe11431e8a69adf4789700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7cb6bcc7a5fe11431e8a69adf4789700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^key-a2e2318c9f7bb5483881baea5765746d] an “**involved person**” means a person who—
+(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^c-a2e2318c9f7bb5483881baea5765746d] an “**involved person**” means a person who—
 
 - (a) is or has been involved in a relevant activity,
 - (b) is owned or controlled directly or indirectly (within the meaning of regulation 7) by a person who is or has been so involved,
@@ -67,7 +67,7 @@ summary: ''
 
 - (a) any provision of Part 3 (Finance) or Part 5 (Trade);
 - (b) any provision of the law of a country other than the United Kingdom made for purposes corresponding to a purpose of any provision of Part 3 or Part 5;
-- (c) any provision of resolutions 2127, 2134, 2196, 2262, 2339, 2399, 2454, 2488 , 2507, 2536, 2588, 2648, 2693, 2745 and 2789[^key-af4862d486947e6b6bf3ceaa1b4c2a63].
+- (c) any provision of resolutions 2127, 2134, 2196, 2262, 2339, 2399, 2454, 2488 , 2507, 2536, 2588, 2648, 2693, 2745 and 2789[^c-af4862d486947e6b6bf3ceaa1b4c2a63].
 
 (6) Nothing in any sub-paragraph of paragraph (3) or (4) is to be taken to limit the meaning of any of the other sub-paragraphs of those paragraphs.
 
@@ -75,14 +75,14 @@ summary: ''
 
 ## Annotations
 
-[^key-b00a506b80d66ab5bc107b46c54d3ed4]: Commencement: Reg. 6 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/1)
+[^c-b00a506b80d66ab5bc107b46c54d3ed4]: Commencement: Reg. 6 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/1)
 
-[^key-19dab318e993894dfec4daed559ebadb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/616/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [19(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/19/4/a)
+[^c-19dab318e993894dfec4daed559ebadb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/616/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [19(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/19/4/a)
 
-[^key-7cb6bcc7a5fe11431e8a69adf4789700]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/616/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [19(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/19/4/b)
+[^c-7cb6bcc7a5fe11431e8a69adf4789700]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/616/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [19(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/19/4/b)
 
-[^key-a2e2318c9f7bb5483881baea5765746d]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/616/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [19(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/19/4/c)
+[^c-a2e2318c9f7bb5483881baea5765746d]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/616/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [19(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/19/4/c)
 
 [^c24162881]: Marginal citation: Resolution 2387 (2017) adopted by the Security Council on 15 November 2017.
 
-[^key-af4862d486947e6b6bf3ceaa1b4c2a63]: Textual amendment: Words in [reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/2020/616/regulation/6/5/c) substituted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/4)
+[^c-af4862d486947e6b6bf3ceaa1b4c2a63]: Textual amendment: Words in [reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/2020/616/regulation/6/5/c) substituted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/4)

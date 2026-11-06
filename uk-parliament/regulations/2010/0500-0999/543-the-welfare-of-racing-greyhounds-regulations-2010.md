@@ -48,7 +48,7 @@ In accordance with section 61(2) of that Act, a draft of this instrument has bee
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-980fd29719d532f56e0dc3247a1222c5]
+### 1. Title, commencement and application[^c-980fd29719d532f56e0dc3247a1222c5]
 
 These Regulations—
 
@@ -56,7 +56,7 @@ These Regulations—
 - (b) come into force on 6th April 2010;
 - (c) apply in England.
 
-### 2. Interpretation[^key-00b99e03173c26ed6984f5b96a263c21]
+### 2. Interpretation[^c-00b99e03173c26ed6984f5b96a263c21]
 
 In these Regulations—
 
@@ -77,7 +77,7 @@ In these Regulations—
 - “track” means premises where a race, trial or sales trial occurs; and
 - “trial” means the timing of a greyhound as it runs for the purpose of determining its position, or race category, in relation to any subsequent race.
 
-### 3. Licensing of operators[^key-98612921a80ae97acff2118a3b4b748f]
+### 3. Licensing of operators[^c-98612921a80ae97acff2118a3b4b748f]
 
 (1) Managing a track is an activity for the purposes of section 13(1) of the Animal Welfare Act 2006.
 
@@ -88,7 +88,7 @@ In these Regulations—
 
 ## PART 2 — Issuing of licences
 
-### 4. Granting and renewing of licence[^key-fc8c2ced05979bece483268a3aa4a7b9]
+### 4. Granting and renewing of licence[^c-fc8c2ced05979bece483268a3aa4a7b9]
 
 (1) A local authority—
 
@@ -100,7 +100,7 @@ In these Regulations—
 
 (3) All licences granted under paragraph (1) are subject to the licensing conditions.
 
-### 5. People who may not apply for a licence[^key-1f62f36400a0f906c65922ebdf235614]
+### 5. People who may not apply for a licence[^c-1f62f36400a0f906c65922ebdf235614]
 
 No person may apply for a licence if they are disqualified under—
 
@@ -114,13 +114,13 @@ No person may apply for a licence if they are disqualified under—
 
 and any licence issued to a person so disqualified is invalid.
 
-### 6. Death of a licence holder[^key-e83b9532889a4733556cc105dd4388c6]
+### 6. Death of a licence holder[^c-e83b9532889a4733556cc105dd4388c6]
 
 (1) In the event of the death of the operator who has been issued with a licence, that licence is deemed to have been granted to personal representatives of the licensed operator in respect of that track and remains in force for a period of three months beginning with the death, but remains subject to the provisions in Part 3.
 
 (2) The personal representatives must notify the local authority which issued the licence that they are now the operators of the track within 4 weeks of the death of the licensed operator.
 
-### 7. Fees[^key-2ddd5cd5982885d181893304e78aac99]
+### 7. Fees[^c-2ddd5cd5982885d181893304e78aac99]
 
 (1) A local authority may charge such fees as it considers necessary—
 
@@ -133,15 +133,15 @@ and any licence issued to a person so disqualified is invalid.
 
 ## PART 3 — Suspension and revocation of a licence
 
-### 8. Grounds for suspension[^key-62c7cd853befb1829f934647bc185b5f]
+### 8. Grounds for suspension[^c-62c7cd853befb1829f934647bc185b5f]
 
 A local authority may suspend a licence at any time on being satisfied that the licensing conditions have not been complied with.
 
-### 9. Procedure for suspension[^key-7e2afc2936a5fe9047b0abe97669bf94]
+### 9. Procedure for suspension[^c-7e2afc2936a5fe9047b0abe97669bf94]
 
 If a licence is suspended the local authority must notify the holder in writing without undue delay, by way of a notice of suspension in accordance with regulation 10 and, unless the local authority directs otherwise, the suspension has immediate effect*,* and continues in effect unless the licence is reinstated.
 
-### 10. Notice of suspension[^key-5226e4a83d2ec320811286f6f2e97819]
+### 10. Notice of suspension[^c-5226e4a83d2ec320811286f6f2e97819]
 
 A notice of suspension must—
 
@@ -150,13 +150,13 @@ A notice of suspension must—
 - (c) set out the right of appeal to a magistrates’ court; and
 - (d) set out the period within which such an appeal may be brought.
 
-### 11. Reinstatement of licence[^key-ef55f72282b3cac1823a531c3139bbf1]
+### 11. Reinstatement of licence[^c-ef55f72282b3cac1823a531c3139bbf1]
 
 (1) A local authority must reinstate a suspended licence by way of notice once it is satisfied that the licensing conditions have been or will be complied with.
 
 (2) Where a licence is reinstated under paragraph (1) the period for which it is issued may be varied.
 
-### 12. Revocation of licence[^key-dc726bb8fb54f48c97973aad4752aee3]
+### 12. Revocation of licence[^c-dc726bb8fb54f48c97973aad4752aee3]
 
 (1) The local authority may revoke a licence that has been suspended for more than 28 days unless there is an outstanding appeal to the magistrates’ court, and may publicise a revocation in such manner as the local authority sees fit.
 
@@ -164,7 +164,7 @@ A notice of suspension must—
 
 (3) Where an operator is disqualified under any of the enactments listed in Regulation 5 their licence is automatically revoked when the time limit for any appeal against that disqualification expires or, if an appeal is made, when that appeal is refused.
 
-### 13. Appeals[^key-3dfa82da1f60fd970075cb4a5c3e3964]
+### 13. Appeals[^c-3dfa82da1f60fd970075cb4a5c3e3964]
 
 (1) Any person who is aggrieved by the refusal to grant or renew, or the decision to suspend or revoke a licence may appeal to a magistrates’ court.
 
@@ -188,7 +188,7 @@ Regulation 4
 
 ### PART 1 — Conditions for the licensee
 
-#### 1. Condition 1: Attendance of a veterinary surgeon[^key-3a778b830d6fa091689f2a89248d59a5]
+#### 1. Condition 1: Attendance of a veterinary surgeon[^c-3a778b830d6fa091689f2a89248d59a5]
 
 (1) A veterinary surgeon must be in attendance throughout the duration of a race, trial or sales trial and before a race, trial or sales trial in order to undertake the inspections required under sub-paragraph (2).
 
@@ -206,7 +206,7 @@ Regulation 4
 
 (5) The information referred to in sub-paragraphs (3) and (4) must be kept for at least 3 years from the date of the race, trial or sales trial.
 
-#### 2. Condition 2: Facilities for the attending veterinary surgeon[^key-8ffb47917fc3bbf8b0c4d68688590c04]
+#### 2. Condition 2: Facilities for the attending veterinary surgeon[^c-8ffb47917fc3bbf8b0c4d68688590c04]
 
 (1) The attending veterinary surgeon must have access to—
 
@@ -228,7 +228,7 @@ Regulation 4
 - (a) at all times, in the case of a room; or
 - (b) whenever the veterinary surgeon’s attendance is required under condition 1, in the case of a mobile facility, freezer and kennel.
 
-#### 3. Condition 3: Kennels[^key-13a21d7b7f8df7a83e4bb923003b3912]
+#### 3. Condition 3: Kennels[^c-13a21d7b7f8df7a83e4bb923003b3912]
 
 (1) On and after 6th April 2013 kennels must be provided for at least 20% of the total number of greyhounds which are present at the track at any one time for the purpose of taking part in a race or trial.
 
@@ -246,7 +246,7 @@ Regulation 4
 - (j) have an ambient temperature suitable for dogs just raced; and
 - (k) be disinfected and dried between days on which races, trials or sales trials take place.
 
-#### 4. Condition 4: Identification of greyhounds taking part in races or trials[^key-d88c43d78fcca18559e856ac2d2d8e01]
+#### 4. Condition 4: Identification of greyhounds taking part in races or trials[^c-d88c43d78fcca18559e856ac2d2d8e01]
 
 (1) An operator may only permit a greyhound to enter a race or a trial if it has been checked to ensure that—
 
@@ -258,14 +258,14 @@ Regulation 4
 - (a) be a tattoo of a unique number located on the inside of the ear pinnae; and
 - (b) be registered on a database which the operator reasonably believes meets the requirements set out in Part 2 of this Schedule.
 
-(3)[^key-52493d9331b417ef69dae5d8870e12cd] The microchip referred to in sub-paragraph (1)(b) must—
+(3)[^c-52493d9331b417ef69dae5d8870e12cd] The microchip referred to in sub-paragraph (1)(b) must—
 
 - (a) have a unique number which includes the manufacturer’s code;
 - (b) be compliant with ISO standard 11784:1996 of the International Standards Organisation standards for microchips;
 - (c) be compliant with all of ISO standard 11785:1996 of the International Standards Organisation’s standards for microchips apart from Annex A; and
 - (d) respond to a transponder which operates at 134.2 kilohertz and conforms with the FDXB protocol set out in ISO standards 11784:1996 and 11785:1996.
 
-#### 5. Condition 5: Record of greyhounds taking part in races or trials[^key-34b60923b61488c99af887d50cef6b3f]
+#### 5. Condition 5: Record of greyhounds taking part in races or trials[^c-34b60923b61488c99af887d50cef6b3f]
 
 (1) An operator must ensure that the following details are recorded in relation to all greyhounds entering a race or a trial at the track—
 
@@ -285,7 +285,7 @@ and must require trainers to produce a photographic means of identification as p
 
 (4) The copies of means of identification referred to in sub-paragraph (2) must be kept for at least the duration of the operator’s licence.
 
-#### 6. Condition 6: Injury records in relation to races, trials and sales trials[^key-a9edd96087fa13f4b5fed0cabc32f782]
+#### 6. Condition 6: Injury records in relation to races, trials and sales trials[^c-a9edd96087fa13f4b5fed0cabc32f782]
 
 (1) When a greyhound is injured when participating in a race, trial or sales trial the attending veterinary surgeon must make a record which the operator must keep at the track, setting out—
 
@@ -299,7 +299,7 @@ and must require trainers to produce a photographic means of identification as p
 
 ### PART 2 — Databases
 
-#### 7. Contents of database[^key-8f3106c483777c03e5f32f889ba5763d]
+#### 7. Contents of database[^c-8f3106c483777c03e5f32f889ba5763d]
 
 (1) The database must contain the following information in relation to each greyhound registered—
 
@@ -316,11 +316,11 @@ and must require trainers to produce a photographic means of identification as p
 
 (3) For the purposes of paragraphs 7 and 9, “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which in England is a bank holiday under the Banking and Financial Dealings Act 1971[^f00014].
 
-#### 8. Accuracy[^key-b9e0a6c30b64983d573797e20b952b01]
+#### 8. Accuracy[^c-b9e0a6c30b64983d573797e20b952b01]
 
 The database operator must have in place a checking system to ensure that any information inputted is accurate.
 
-#### 9. Access to information[^key-6b3853dde9b678a3094d7b1e3bc7d21a]
+#### 9. Access to information[^c-6b3853dde9b678a3094d7b1e3bc7d21a]
 
 (1) The database operator must use their best endeavours to ensure that they—
 
@@ -336,14 +336,14 @@ The database operator must have in place a checking system to ensure that any in
 - (b) any representative of the Secretary of State; or
 - (c) any representative of the local authority.
 
-#### 10. Provision of information for owners registered on database[^key-e14289933bd56b41a93d6332a443780d]
+#### 10. Provision of information for owners registered on database[^c-e14289933bd56b41a93d6332a443780d]
 
 The following must be provided by a database operator to an owner who has a greyhound registered on the database—
 
 - (a) full and up-to-date telephone, address and e-mail contact details of the database; and
 - (b) information on the procedure the owner should follow if their greyhound goes missing.
 
-#### 11. Contingency provisions[^key-0880ff32fcda65611ec703fb82c8b2df]
+#### 11. Contingency provisions[^c-0880ff32fcda65611ec703fb82c8b2df]
 
 The database operator must—
 
@@ -375,13 +375,13 @@ An Impact Assessment has been prepared and placed in the library of each House o
 
 [^f00001]: Footnote: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45). The appropriate national authority is defined in section 62(1) of the Act.
 
-[^key-980fd29719d532f56e0dc3247a1222c5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/543/regulation/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-980fd29719d532f56e0dc3247a1222c5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/543/regulation/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-00b99e03173c26ed6984f5b96a263c21]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/543/regulation/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-00b99e03173c26ed6984f5b96a263c21]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/543/regulation/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
 [^f00002]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867) to which there are amendments not relevant to this Order.
 
-[^key-98612921a80ae97acff2118a3b4b748f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/543/regulation/3) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-98612921a80ae97acff2118a3b4b748f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/543/regulation/3) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
 [^f00003]: Footnote: The EA multi-lateral agreement can be found at http://www.european-accreditation.org/n1/doc/EA-1-06.pdf. A list of signatories to this Agreement can be found at: http://www.european-accreditation.org/content/mla/scopes.htm.
 
@@ -389,9 +389,9 @@ An Impact Assessment has been prepared and placed in the library of each House o
 
 [^f00005]: Footnote: ISO Central Secretariat, International Organization for Standardization (ISO), 1 rue de Varembé, Case postale 56, CH-1211, Geneva 20, Switzerland.
 
-[^key-fc8c2ced05979bece483268a3aa4a7b9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/543/regulation/4) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-fc8c2ced05979bece483268a3aa4a7b9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/543/regulation/4) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-1f62f36400a0f906c65922ebdf235614]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/543/regulation/5) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-1f62f36400a0f906c65922ebdf235614]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/543/regulation/5) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
 [^f00006]: Footnote: [1963 c. 43](https://www.legislation.gov.uk/ukpga/1963/43); section 3(3) was amended by Schedule 3, paragraph 5(2) of the Animal Welfare Act 2006.
 
@@ -405,46 +405,46 @@ An Impact Assessment has been prepared and placed in the library of each House o
 
 [^f00011]: Footnote: [1911 c. 27](https://www.legislation.gov.uk/ukpga/1911/27) this Act was repealed by Schedule 4 of the Animal Welfare Act 2006.
 
-[^key-e83b9532889a4733556cc105dd4388c6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/543/regulation/6) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-e83b9532889a4733556cc105dd4388c6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/543/regulation/6) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-2ddd5cd5982885d181893304e78aac99]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/543/regulation/7) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-2ddd5cd5982885d181893304e78aac99]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/543/regulation/7) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-62c7cd853befb1829f934647bc185b5f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/543/regulation/8) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-62c7cd853befb1829f934647bc185b5f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/543/regulation/8) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-7e2afc2936a5fe9047b0abe97669bf94]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/543/regulation/9) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-7e2afc2936a5fe9047b0abe97669bf94]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/543/regulation/9) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-5226e4a83d2ec320811286f6f2e97819]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/543/regulation/10) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-5226e4a83d2ec320811286f6f2e97819]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/543/regulation/10) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-ef55f72282b3cac1823a531c3139bbf1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/543/regulation/11) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-ef55f72282b3cac1823a531c3139bbf1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/543/regulation/11) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-dc726bb8fb54f48c97973aad4752aee3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/543/regulation/12) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-dc726bb8fb54f48c97973aad4752aee3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/543/regulation/12) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-3dfa82da1f60fd970075cb4a5c3e3964]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/543/regulation/13) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-3dfa82da1f60fd970075cb4a5c3e3964]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/543/regulation/13) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
 [^f00012]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-3a778b830d6fa091689f2a89248d59a5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-3a778b830d6fa091689f2a89248d59a5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-8ffb47917fc3bbf8b0c4d68688590c04]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-8ffb47917fc3bbf8b0c4d68688590c04]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-13a21d7b7f8df7a83e4bb923003b3912]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/3) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-13a21d7b7f8df7a83e4bb923003b3912]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/3) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-d88c43d78fcca18559e856ac2d2d8e01]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/4) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-d88c43d78fcca18559e856ac2d2d8e01]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/4) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-52493d9331b417ef69dae5d8870e12cd]: Textual amendment: [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/4/3) substituted (24.2.2015) by [The Microchipping of Dogs (England) Regulations 2015 (S.I. 2015/108)](https://www.legislation.gov.uk/uksi/2015/108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/108/regulation/1/b), [17](https://www.legislation.gov.uk/uksi/2015/108/regulation/17)
+[^c-52493d9331b417ef69dae5d8870e12cd]: Textual amendment: [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/4/3) substituted (24.2.2015) by [The Microchipping of Dogs (England) Regulations 2015 (S.I. 2015/108)](https://www.legislation.gov.uk/uksi/2015/108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/108/regulation/1/b), [17](https://www.legislation.gov.uk/uksi/2015/108/regulation/17)
 
-[^key-34b60923b61488c99af887d50cef6b3f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/5) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-34b60923b61488c99af887d50cef6b3f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/5) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-a9edd96087fa13f4b5fed0cabc32f782]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/6) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-a9edd96087fa13f4b5fed0cabc32f782]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/6) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-8f3106c483777c03e5f32f889ba5763d]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/7) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-8f3106c483777c03e5f32f889ba5763d]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/7) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
 [^f00014]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b9e0a6c30b64983d573797e20b952b01]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/8) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-b9e0a6c30b64983d573797e20b952b01]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/8) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-6b3853dde9b678a3094d7b1e3bc7d21a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/9) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-6b3853dde9b678a3094d7b1e3bc7d21a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/9) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-e14289933bd56b41a93d6332a443780d]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/10) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-e14289933bd56b41a93d6332a443780d]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/10) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
 
-[^key-0880ff32fcda65611ec703fb82c8b2df]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/11) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)
+[^c-0880ff32fcda65611ec703fb82c8b2df]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/543/schedule/paragraph/11) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/543/regulation/1/b)

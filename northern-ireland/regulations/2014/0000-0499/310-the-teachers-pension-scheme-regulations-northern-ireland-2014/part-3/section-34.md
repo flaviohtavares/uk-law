@@ -26,13 +26,13 @@ summary: ''
 
 - (a) all salary and allowances paid for the performance of P's contractual duties in accordance with a determination;
 - (b) the amount of any payment in respect of overtime;
-- (c) any salary or statutory pay paid while P is on sick leave, maternity leave, paternity leave, [^key-448764dbf4a6f04fc3886c1df515fb07]... parental leave shared parental leave[^M_F_dd34c5f7-f440-4349-80aa-fb2ffccce477] or adoption leave;
+- (c) any salary or statutory pay paid while P is on sick leave, maternity leave, paternity leave, [^c-448764dbf4a6f04fc3886c1df515fb07]... parental leave shared parental leave[^M_F_dd34c5f7-f440-4349-80aa-fb2ffccce477] or adoption leave;
 - (d) an amount equal to any part of P's salary which P has given up the right to receive under a salary sacrifice arrangement.
 
 (3) P's pensionable earnings do not include any amounts mentioned in regulation 36.
 
 ## Annotations
 
-[^key-448764dbf4a6f04fc3886c1df515fb07]: Textual amendment: Words in [reg. 34(2)(c)](https://www.legislation.gov.uk/nisr/2014/310/regulation/34/2/c) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(5)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/5/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+[^c-448764dbf4a6f04fc3886c1df515fb07]: Textual amendment: Words in [reg. 34(2)(c)](https://www.legislation.gov.uk/nisr/2014/310/regulation/34/2/c) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(5)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/5/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
 
 [^M_F_dd34c5f7-f440-4349-80aa-fb2ffccce477]: Textual amendment: Words in reg. 34(2)(c) inserted (15.3.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [23(5)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/23/5/b)

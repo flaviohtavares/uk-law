@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Prohibitions in relation to documents and records[^key-b3469b54f5630d569bd4af0fb923c27e]
+## 146. Prohibitions in relation to documents and records[^c-b3469b54f5630d569bd4af0fb923c27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3469b54f5630d569bd4af0fb923c27e]: Commencement: [Art. 146](https://www.legislation.gov.uk/uksi/2015/870/article/146) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-b3469b54f5630d569bd4af0fb923c27e]: Commencement: [Art. 146](https://www.legislation.gov.uk/uksi/2015/870/article/146) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

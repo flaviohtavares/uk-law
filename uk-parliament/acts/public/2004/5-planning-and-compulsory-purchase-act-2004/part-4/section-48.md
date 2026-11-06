@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Planning contribution: Wales[^key-6747b8a89c8408c2133221726e1a665c]
+## 48. Planning contribution: Wales[^c-6747b8a89c8408c2133221726e1a665c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6747b8a89c8408c2133221726e1a665c]: Textual amendment: Ss. 46-48 repealed (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 225(1)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/225/1/a), [241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6), [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))
+[^c-6747b8a89c8408c2133221726e1a665c]: Textual amendment: Ss. 46-48 repealed (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 225(1)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/225/1/a), [241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6), [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))

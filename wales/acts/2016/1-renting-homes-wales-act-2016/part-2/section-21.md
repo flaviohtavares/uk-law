@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Effect of non-incorporation and modification of fundamental provisions[^key-4365ef93e07e2ea68877f08109fd50ff]
+## 21. Effect of non-incorporation and modification of fundamental provisions[^c-4365ef93e07e2ea68877f08109fd50ff]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4365ef93e07e2ea68877f08109fd50ff]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2016/1/section/21) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4365ef93e07e2ea68877f08109fd50ff]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2016/1/section/21) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

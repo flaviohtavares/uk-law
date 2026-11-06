@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Sums received by Director[^key-a7306440c31aa46154300a57ffbde7b6]
+## 205. Sums received by Director[^c-a7306440c31aa46154300a57ffbde7b6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7306440c31aa46154300a57ffbde7b6]: Textual amendment: S. 205 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 58](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/58), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-a7306440c31aa46154300a57ffbde7b6]: Textual amendment: S. 205 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 58](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/58), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))

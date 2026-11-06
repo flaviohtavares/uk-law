@@ -38,7 +38,7 @@ summary: ''
 
 (6) Every decree of divorce shall in the first instance be a decree nisi and shall not be made absolute before the expiration of six weeks from its grant unless in any particular case the court by order fixes a shorter period.
 
-(7)[^key-90e18baeb7c4afaee2b7264a05b8bf76] Only conduct between the respondent and a person of the opposite sex may constitute adultery for the purposes of this Article.
+(7)[^c-90e18baeb7c4afaee2b7264a05b8bf76] Only conduct between the respondent and a person of the opposite sex may constitute adultery for the purposes of this Article.
 
 ## Annotations
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c16974731]: Textual amendment: [1989 NI 4](https://www.legislation.gov.uk/1989/ni4)
 
-[^key-90e18baeb7c4afaee2b7264a05b8bf76]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/nisi/1978/1045/article/3/7) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/35/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-90e18baeb7c4afaee2b7264a05b8bf76]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/nisi/1978/1045/article/3/7) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/35/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

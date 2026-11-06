@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Duty to have regard to river basin management plans and sub-basin plans[^key-c3a749b4a1818762f67f4712c20c077e]
+## 16. Duty to have regard to river basin management plans and sub-basin plans[^c-c3a749b4a1818762f67f4712c20c077e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The Scottish Ministers and every public body and office-holder must, in exercisi
 
 ## Annotations
 
-[^key-c3a749b4a1818762f67f4712c20c077e]: Commencement: S. 16 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/530/article/2/b)
+[^c-c3a749b4a1818762f67f4712c20c077e]: Commencement: S. 16 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/530/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Benefit of the Order[^key-ea4266592476147fa2c9b7ad0e7a251b]
+## 5. Benefit of the Order[^c-ea4266592476147fa2c9b7ad0e7a251b]
 
 *Extent: E+W+S*
 
@@ -34,17 +34,17 @@ except where paragraph (8) applies, in which case the consent of the Secretary o
 - (a) Where an agreement has been made in accordance with paragraph (2)(a), transfer to the transferee the whole of any of the deemed marine licences and such related statutory rights as may be agreed between the undertaker and the transferee; or
 - (b) Where an agreement has been made in accordance with paragraph (2)(b), grant to the lessee for the duration of the period mentioned in paragraph (2)(b), the whole of any of the deemed marine licences and such related statutory rights as may be so agreed.
 
-(4) Where an agreement has been made in accordance with paragraph (2)[^key-8f7d718fe4019b7b325c141bd1bf97ac] or (3),[^key-2b5eef86ef861a2f291349774ebe8ea8] references in this Order to the undertaker, except in paragraphs (7), (9), (12) and the first reference in paragraph (13) include references to the transferee or lessee.
+(4) Where an agreement has been made in accordance with paragraph (2)[^c-8f7d718fe4019b7b325c141bd1bf97ac] or (3),[^c-2b5eef86ef861a2f291349774ebe8ea8] references in this Order to the undertaker, except in paragraphs (7), (9), (12) and the first reference in paragraph (13) include references to the transferee or lessee.
 
 (5) The undertaker must consult the Secretary of State before making an application for consent under this article by giving notice in writing of the proposed application.
 
 (6) The Secretary of State must consult the MMO before giving consent to the transfer or grant to another person of the benefit of the provisions of the deemed marine licences.
 
-(7) Where the undertaker has transferred any benefit, or for the duration of any period during which the undertaker has granted any benefit, under paragraphs (2)[^key-d015ce76af64b9d74b0a02936790423c] or (3)—
+(7) Where the undertaker has transferred any benefit, or for the duration of any period during which the undertaker has granted any benefit, under paragraphs (2)[^c-d015ce76af64b9d74b0a02936790423c] or (3)—
 
 - (a) the benefit transferred or granted (“the transferred benefit”) includes any rights that are conferred, and any obligations that are imposed, by virtue of the provisions to which the benefit relates;
 - (b) the transferred benefit resides exclusively with the transferee or, as the case may be, the lessee and the transferred benefit is not enforceable against the undertaker save in the case of a deemed marine licence transferred or granted in respect of any breach of an obligation by the undertaker which occurs prior to such transfer or grant or which occurs as a result of any activity carried out by the undertaker on behalf of the transferee; and
-- (c) the exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (2)[^key-2640c605272499981b62c6b8a0fb95dc] or (3) is subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
+- (c) the exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (2)[^c-2640c605272499981b62c6b8a0fb95dc] or (3) is subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
 
 (8) The consent of the Secretary of State is required for the exercise of powers under paragraphs (2) or (3) except where—
 
@@ -78,12 +78,12 @@ except where paragraph (8) applies, in which case the consent of the Secretary o
 
 ## Annotations
 
-[^key-ea4266592476147fa2c9b7ad0e7a251b]: Commencement: Art. 5 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-ea4266592476147fa2c9b7ad0e7a251b]: Commencement: Art. 5 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-8f7d718fe4019b7b325c141bd1bf97ac]: Textual amendment: Word in art. 5(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-8f7d718fe4019b7b325c141bd1bf97ac]: Textual amendment: Word in art. 5(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-2b5eef86ef861a2f291349774ebe8ea8]: Textual amendment: Art. 5(4): comma inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-2b5eef86ef861a2f291349774ebe8ea8]: Textual amendment: Art. 5(4): comma inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-d015ce76af64b9d74b0a02936790423c]: Textual amendment: Word in art. 5(7) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-d015ce76af64b9d74b0a02936790423c]: Textual amendment: Word in art. 5(7) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-2640c605272499981b62c6b8a0fb95dc]: Textual amendment: Word in art. 5(7)(c) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-2640c605272499981b62c6b8a0fb95dc]: Textual amendment: Word in art. 5(7)(c) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]
+[^c-3da51a7ccee498b45f10d3dca8d46bed]
 
 (1) The following provisions apply for the interpretation of this Part.
 
-(1A)[^key-bf89cd594252a1703f5f6f4996805fb1] “Waste Framework Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-0e74b173a3ec3d13109485c3d199b5ee] , and read in accordance with section 75A[^key-34eb45fe202fc9d93ba0291dd30ead87].
+(1A)[^c-bf89cd594252a1703f5f6f4996805fb1] “Waste Framework Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-0e74b173a3ec3d13109485c3d199b5ee] , and read in accordance with section 75A[^c-34eb45fe202fc9d93ba0291dd30ead87].
 
-(2)[^key-b28f63f2d5978b8fe87e15483327078a] “Waste” means anything that is waste within the meaning of Article 3(1) of the Waste Framework Directive[^key-62a4dbb43e30cda6c0a4722210bea6cc] .
+(2)[^c-b28f63f2d5978b8fe87e15483327078a] “Waste” means anything that is waste within the meaning of Article 3(1) of the Waste Framework Directive[^c-62a4dbb43e30cda6c0a4722210bea6cc] .
 
 (3)[^c18902001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,7 +57,7 @@ summary: ''
 
 (8) Regulations made by the Secretary of State may provide that waste of a description prescribed in the regulations shall be treated for the purposes of provisions of this Part prescribed in the regulations as being or not being household waste or industrial waste or commercial waste; [^c19299401]. . . and references to waste in subsection (7) above and this subsection do not include sewage (including matter in or from a privy) except so far as the regulations provide otherwise.
 
-(8A)[^key-7b5740b30917a5aad206d30297435340] In the application of this Part to England, “**hazardous waste**” means—
+(8A)[^c-7b5740b30917a5aad206d30297435340] In the application of this Part to England, “**hazardous waste**” means—
 
 - (a) any waste identified as hazardous waste in—
   - (i) the waste list as it applies in relation to England, or
@@ -79,11 +79,11 @@ summary: ''
 
 (9)[^c18901501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-0c674ec316542758ff77fd07b924604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-0c674ec316542758ff77fd07b924604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-0c674ec316542758ff77fd07b924604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-0c674ec316542758ff77fd07b924604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-0c674ec316542758ff77fd07b924604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-0c674ec316542758ff77fd07b924604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 75. Meaning of “waste” and household, commercial and industrial waste and special waste.[^c13739461][^c18515732]
 
@@ -93,13 +93,13 @@ summary: ''
 
 (1A) “Waste Framework Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851 , and read in accordance with section 75A.
 
-(2)[^key-e78be630597c0049de0d6b44b6a7c5de] “Waste” means—
+(2)[^c-e78be630597c0049de0d6b44b6a7c5de] “Waste” means—
 
-- (a) anything that is waste within the meaning of Article 3(1) of the Waste Framework Directive[^key-e158f96b5a3aee3b9cf01ca3a414cc03], as read with Articles 5 and 6, and which is not excluded from the scope of that Directive by Article 2(1), (2) or (3);
-- (b)[^key-5f28ea314083016edd1077ab9c75b311] radioactive waste, as defined in paragraph 5 of schedule 8 of the Environmental Authorisations (Scotland) Regulations 2018, the disposal of which falls within one of the activities specified in column 1 of Part 1 of schedule 9 of those Regulations and can be carried on in accordance with the rules specified for that activity;
+- (a) anything that is waste within the meaning of Article 3(1) of the Waste Framework Directive[^c-e158f96b5a3aee3b9cf01ca3a414cc03], as read with Articles 5 and 6, and which is not excluded from the scope of that Directive by Article 2(1), (2) or (3);
+- (b)[^c-5f28ea314083016edd1077ab9c75b311] radioactive waste, as defined in paragraph 5 of schedule 8 of the Environmental Authorisations (Scotland) Regulations 2018, the disposal of which falls within one of the activities specified in column 1 of Part 1 of schedule 9 of those Regulations and can be carried on in accordance with the rules specified for that activity;
 - (c) where land is undergoing on-site remediation of contamination, that land including unexcavated contaminated soil and any contaminated buildings permanently connected with that land.
 
-(2A)[^key-188b9b49b85359c095ca82c6d921740f] “Broker” means any undertaking arranging the recovery or disposal of waste on behalf of others, whether or not such arrangements involve the broker taking physical possession of the waste; and “dealer” means any undertaking which acts in the role of principal to purchase and subsequently sell waste, whether or not this involves the dealer taking physical possession of the waste.
+(2A)[^c-188b9b49b85359c095ca82c6d921740f] “Broker” means any undertaking arranging the recovery or disposal of waste on behalf of others, whether or not such arrangements involve the broker taking physical possession of the waste; and “dealer” means any undertaking which acts in the role of principal to purchase and subsequently sell waste, whether or not this involves the dealer taking physical possession of the waste.
 
 (3) [^c18902001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -128,7 +128,7 @@ summary: ''
 - (c) [^c18900641]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) waste of any other description prescribed by regulations made by the Secretary of State for the purposes of this paragraph.
 
-(7A)[^key-6525ed5f924143e93732839264d404a7] “Dry recyclable waste” means controlled waste that is—
+(7A)[^c-6525ed5f924143e93732839264d404a7] “Dry recyclable waste” means controlled waste that is—
 
 - (a) glass;
 - (b) metals;
@@ -144,9 +144,9 @@ and dry recyclable waste of the same type (such as glass) is referred to as a �
 
 (9) “**Special waste**” means controlled waste as respects which regulations are in force under section 62 above.
 
-(10)[^key-14aee0aa27746db8ea989f7c0effd246] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-14aee0aa27746db8ea989f7c0effd246] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-65c6af8637ff42f5827f5b1a64f0d09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-65c6af8637ff42f5827f5b1a64f0d09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -156,17 +156,17 @@ and dry recyclable waste of the same type (such as glass) is referred to as a �
 
 [^c18901401]: Textual amendment: Words in s. 75 heading substituted (E.W.) (16.7.2005) by [The Hazardous Waste (England and Wales) Regulations 2005 (S.I. 2005/894)](https://www.legislation.gov.uk/uksi/2005/894), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/1/1), [74(a)](https://www.legislation.gov.uk/uksi/2005/894/regulation/74/a) (with [reg. 75](https://www.legislation.gov.uk/uksi/2005/894/regulation/75))
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
+[^c-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
 
-[^key-bf89cd594252a1703f5f6f4996805fb1]: Textual amendment: S. 75(1A) inserted (20.3.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/a)
+[^c-bf89cd594252a1703f5f6f4996805fb1]: Textual amendment: S. 75(1A) inserted (20.3.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/a)
 
-[^key-0e74b173a3ec3d13109485c3d199b5ee]: Textual amendment: Words in s. 75(1A) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/904/regulation/3)
+[^c-0e74b173a3ec3d13109485c3d199b5ee]: Textual amendment: Words in s. 75(1A) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/904/regulation/3)
 
-[^key-34eb45fe202fc9d93ba0291dd30ead87]: Textual amendment: Words in [s. 75(1A)](https://www.legislation.gov.uk/ukpga/1990/43/section/75/1A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34eb45fe202fc9d93ba0291dd30ead87]: Textual amendment: Words in [s. 75(1A)](https://www.legislation.gov.uk/ukpga/1990/43/section/75/1A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b28f63f2d5978b8fe87e15483327078a]: Textual amendment: S. 75(2) substituted (E.W.) (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 3(8)(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/3/8/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-b28f63f2d5978b8fe87e15483327078a]: Textual amendment: S. 75(2) substituted (E.W.) (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 3(8)(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/3/8/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-62a4dbb43e30cda6c0a4722210bea6cc]: Textual amendment: Words in s. 75(2) substituted (E.W.) (20.3.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/b/i)
+[^c-62a4dbb43e30cda6c0a4722210bea6cc]: Textual amendment: Words in s. 75(2) substituted (E.W.) (20.3.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/b/i)
 
 [^c18902001]: Textual amendment: S. 75(3) repealed (1.4.2003 for S. for certain purposes, 1.1.2005 otherwise for S. and 15.5.2006 for E.W.) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3), [Sch. 22 para. 88(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/88/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.S.I. 2003/206](https://www.legislation.gov.uk/ssi/2003/206), [art. 2](https://www.legislation.gov.uk/ssi/2003/206/article/2); [S.S.I. 2004/541](https://www.legislation.gov.uk/ssi/2004/541), [art. 2](https://www.legislation.gov.uk/ssi/2004/541/article/2); [S.I. 2006/934](https://www.legislation.gov.uk/uksi/2006/934), [art. 2](https://www.legislation.gov.uk/uksi/2006/934/article/2)
 
@@ -184,23 +184,23 @@ and dry recyclable waste of the same type (such as glass) is referred to as a �
 
 [^c19299401]: Textual amendment: Words in s. 75(8) omitted (E.W.) (15.5.2006) by virtue of [The Waste Management (England and Wales) Regulations 2006 (S.I. 2006/937)](https://www.legislation.gov.uk/uksi/2006/937), [reg. 2(6)(e)](https://www.legislation.gov.uk/uksi/2006/937/regulation/2/6/e)
 
-[^key-7b5740b30917a5aad206d30297435340]: Textual amendment: S. 75(8A)-(8C) substituted for s. 75(8A)(8B) (24.1.2022 for E., 7.3.2022 for W.) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 60(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/60/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/j); [S.I. 2022/223](https://www.legislation.gov.uk/uksi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/223/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/223/regulation/2/b)
+[^c-7b5740b30917a5aad206d30297435340]: Textual amendment: S. 75(8A)-(8C) substituted for s. 75(8A)(8B) (24.1.2022 for E., 7.3.2022 for W.) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 60(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/60/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/j); [S.I. 2022/223](https://www.legislation.gov.uk/uksi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/223/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/223/regulation/2/b)
 
 [^c18901501]: Textual amendment: S. 75(9) omitted (E.W.) (16.7.2005) by virtue of [The Hazardous Waste (England and Wales) Regulations 2005 (S.I. 2005/894)](https://www.legislation.gov.uk/uksi/2005/894), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/1/1), [74(c)](https://www.legislation.gov.uk/uksi/2005/894/regulation/74/c) (with [reg. 75](https://www.legislation.gov.uk/uksi/2005/894/regulation/75))
 
-[^key-0c674ec316542758ff77fd07b924604e]: Textual amendment: S. 75(10)-(12) omitted (E.W.) (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 3(8)(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/3/8/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-0c674ec316542758ff77fd07b924604e]: Textual amendment: S. 75(10)-(12) omitted (E.W.) (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 3(8)(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/3/8/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c13739461]: Commencement: S. 75 wholly in force at 31.5.1991 see s. 164(3) and [S.I. 1991/1319](https://www.legislation.gov.uk/uksi/1991/1319), [art. 2](https://www.legislation.gov.uk/uksi/1991/1319/article/2)
 
 [^c18515732]: Extent: This version of this provision has been created for Scotland only; a separate version has been created for England and Wales only
 
-[^key-e78be630597c0049de0d6b44b6a7c5de]: Textual amendment: S. 75(2) substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/12/a)
+[^c-e78be630597c0049de0d6b44b6a7c5de]: Textual amendment: S. 75(2) substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/12/a)
 
-[^key-e158f96b5a3aee3b9cf01ca3a414cc03]: Textual amendment: Words in s. 75(2)(a) substituted (S.) (20.3.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/b/ii)
+[^c-e158f96b5a3aee3b9cf01ca3a414cc03]: Textual amendment: Words in s. 75(2)(a) substituted (S.) (20.3.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/b/ii)
 
-[^key-5f28ea314083016edd1077ab9c75b311]: Textual amendment: S. 75(2)(b) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 2(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/2/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-5f28ea314083016edd1077ab9c75b311]: Textual amendment: S. 75(2)(b) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 2(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/2/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
-[^key-188b9b49b85359c095ca82c6d921740f]: Textual amendment: S. 75(2A) inserted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/12/b)
+[^c-188b9b49b85359c095ca82c6d921740f]: Textual amendment: S. 75(2A) inserted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/12/b)
 
 [^c13739491]: Marginal citation: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
 
@@ -218,10 +218,10 @@ and dry recyclable waste of the same type (such as glass) is referred to as a �
 
 [^c18900641]: Textual amendment: S. 75(7)(c) repealed (S.) (21.1.2005) by [The Waste (Scotland) Regulations 2005 (S.S.I. 2005/22)](https://www.legislation.gov.uk/ssi/2005/22), [regs. 1](https://www.legislation.gov.uk/ssi/2005/22/regulation/1), [3(4)(e)](https://www.legislation.gov.uk/ssi/2005/22/regulation/3/4/e)
 
-[^key-6525ed5f924143e93732839264d404a7]: Textual amendment: S. 75(7A)(7B) inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/7)
+[^c-6525ed5f924143e93732839264d404a7]: Textual amendment: S. 75(7A)(7B) inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/7)
 
 [^c18900781]: Textual amendment: Words in s. 75(8) omitted (S.) (21.1.2005) by virtue of [The Waste (Scotland) Regulations 2005 (S.S.I. 2005/22)](https://www.legislation.gov.uk/ssi/2005/22), [regs. 1](https://www.legislation.gov.uk/ssi/2005/22/regulation/1), [3(4)(f)](https://www.legislation.gov.uk/ssi/2005/22/regulation/3/4/f)
 
-[^key-14aee0aa27746db8ea989f7c0effd246]: Textual amendment: S. 75(10) repealed (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [2(12)(c)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/12/c)
+[^c-14aee0aa27746db8ea989f7c0effd246]: Textual amendment: S. 75(10) repealed (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [2(12)(c)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/12/c)
 
-[^key-65c6af8637ff42f5827f5b1a64f0d09c]: Textual amendment: S. 75(12) omitted (S.) (20.3.2019) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/c)
+[^c-65c6af8637ff42f5827f5b1a64f0d09c]: Textual amendment: S. 75(12) omitted (S.) (20.3.2019) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/a), [2(6)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/2/6/c)

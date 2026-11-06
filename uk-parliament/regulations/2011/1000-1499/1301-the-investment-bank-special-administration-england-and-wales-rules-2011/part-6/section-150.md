@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Supplementary provisions as to dividend[^key-b757c08d41d7bcb1b9598b73466c10c2]
+## 150. Supplementary provisions as to dividend[^c-b757c08d41d7bcb1b9598b73466c10c2]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b757c08d41d7bcb1b9598b73466c10c2]: Commencement: [Rule 150](https://www.legislation.gov.uk/uksi/2011/1301/rule/150) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b757c08d41d7bcb1b9598b73466c10c2]: Commencement: [Rule 150](https://www.legislation.gov.uk/uksi/2011/1301/rule/150) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00016]: Footnote: [1838 c.110 1 and 2 Victoria](https://www.legislation.gov.uk/ukpga/1838/110): section 17 was amended by the Statute Law Revision (No. 2) Act 1888 (55 and 56 Victoria), by the Civil Procedure Acts Repeal Act [1879 (c. 59)](https://www.legislation.gov.uk/ukpga/1879/59) section 2, Schedule, Part 1 and by [S.I. 1993/565](https://www.legislation.gov.uk/uksi/1993/565) and [S.I.1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).

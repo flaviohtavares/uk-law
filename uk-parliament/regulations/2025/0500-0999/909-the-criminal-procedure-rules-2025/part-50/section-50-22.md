@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.22. Renewing an application for permission to appeal, restoring excluded grounds, etc.[^key-f5eaf453ad3d4985a5764198ff9a4f0f]
+## 50.22. Renewing an application for permission to appeal, restoring excluded grounds, etc.[^c-f5eaf453ad3d4985a5764198ff9a4f0f]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ before any hearing at which that ground will be considered by the court.
 
 ## Annotations
 
-[^key-f5eaf453ad3d4985a5764198ff9a4f0f]: Commencement: [Rule 50.22](https://www.legislation.gov.uk/uksi/2025/909/rule/50.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f5eaf453ad3d4985a5764198ff9a4f0f]: Commencement: [Rule 50.22](https://www.legislation.gov.uk/uksi/2025/909/rule/50.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

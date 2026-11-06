@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. Invalidity of assignments and bankruptcy[^key-d6e06a55d4f04ca56a98ce9d7061790c]
+## 69A. Invalidity of assignments and bankruptcy[^c-d6e06a55d4f04ca56a98ce9d7061790c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6e06a55d4f04ca56a98ce9d7061790c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/uksi/2011/517/part/8A) inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [8](https://www.legislation.gov.uk/uksi/2018/293/article/8)
+[^c-d6e06a55d4f04ca56a98ce9d7061790c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/uksi/2011/517/part/8A) inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [8](https://www.legislation.gov.uk/uksi/2018/293/article/8)

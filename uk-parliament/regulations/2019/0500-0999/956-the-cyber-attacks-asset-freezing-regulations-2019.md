@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Cyber-Attacks (Asset-Freezing) Regulations 2019 (revoked)[^key-8d4853b2b10258669a269c803e386e3a]
+The Cyber-Attacks (Asset-Freezing) Regulations 2019 (revoked)[^c-8d4853b2b10258669a269c803e386e3a]
 
 Made
 
@@ -46,124 +46,124 @@ Coming into force
 
 11th June 2019
 
-[^key-8d4853b2b10258669a269c803e386e3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d4853b2b10258669a269c803e386e3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-8d4853b2b10258669a269c803e386e3a]
+## PART 1 — General[^c-8d4853b2b10258669a269c803e386e3a]
 
-### 1. Citation, commencement and application[^key-8d4853b2b10258669a269c803e386e3a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-8d4853b2b10258669a269c803e386e3a]
+### 1. Citation, commencement and application[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Funds and economic resources[^key-8d4853b2b10258669a269c803e386e3a]
-
-### 3. Freezing of funds and economic resources[^key-8d4853b2b10258669a269c803e386e3a]
+### 2. Interpretation[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Making funds available to a designated person[^key-8d4853b2b10258669a269c803e386e3a]
+## PART 2 — Funds and economic resources[^c-8d4853b2b10258669a269c803e386e3a]
+
+### 3. Freezing of funds and economic resources[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Making funds available for the benefit of a designated person[^key-8d4853b2b10258669a269c803e386e3a]
+### 4. Making funds available to a designated person[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Making economic resources available to a designated person[^key-8d4853b2b10258669a269c803e386e3a]
+### 5. Making funds available for the benefit of a designated person[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Making economic resources available for the benefit of a designated person[^key-8d4853b2b10258669a269c803e386e3a]
+### 6. Making economic resources available to a designated person[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Credits to a frozen account[^key-8d4853b2b10258669a269c803e386e3a]
+### 7. Making economic resources available for the benefit of a designated person[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Licences[^key-8d4853b2b10258669a269c803e386e3a]
+### 8. Credits to a frozen account[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Offences[^key-8d4853b2b10258669a269c803e386e3a]
-
-### 10. Contravention and circumvention of prohibitions[^key-8d4853b2b10258669a269c803e386e3a]
+### 9. Licences[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Officers of a body corporate etc[^key-8d4853b2b10258669a269c803e386e3a]
+## PART 3 — Offences[^c-8d4853b2b10258669a269c803e386e3a]
+
+### 10. Contravention and circumvention of prohibitions[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Penalties[^key-8d4853b2b10258669a269c803e386e3a]
+### 11. Officers of a body corporate etc[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Proceedings[^key-8d4853b2b10258669a269c803e386e3a]
+### 12. Penalties[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Consent to prosecution[^key-8d4853b2b10258669a269c803e386e3a]
+### 13. Proceedings[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous[^key-8d4853b2b10258669a269c803e386e3a]
-
-### 15. Information provisions[^key-8d4853b2b10258669a269c803e386e3a]
+### 14. Consent to prosecution[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Notices[^key-8d4853b2b10258669a269c803e386e3a]
+## PART 4 — Miscellaneous[^c-8d4853b2b10258669a269c803e386e3a]
+
+### 15. Information provisions[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. The Crown[^key-8d4853b2b10258669a269c803e386e3a]
+### 16. Notices[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d4853b2b10258669a269c803e386e3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 17. The Crown[^c-8d4853b2b10258669a269c803e386e3a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8d4853b2b10258669a269c803e386e3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8d4853b2b10258669a269c803e386e3a]
+## SCHEDULE[^c-8d4853b2b10258669a269c803e386e3a]
 
 Regulation 15
 
-### INFORMATION PROVISIONS[^key-8d4853b2b10258669a269c803e386e3a]
+### INFORMATION PROVISIONS[^c-8d4853b2b10258669a269c803e386e3a]
 
-#### 1. Reporting obligations of relevant institutions and others[^key-8d4853b2b10258669a269c803e386e3a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Powers to request information[^key-8d4853b2b10258669a269c803e386e3a]
+#### 1. Reporting obligations of relevant institutions and others[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Production of documents[^key-8d4853b2b10258669a269c803e386e3a]
+#### 2. Powers to request information[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Failure to comply with request for information[^key-8d4853b2b10258669a269c803e386e3a]
+#### 3. Production of documents[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. General power to disclose information[^key-8d4853b2b10258669a269c803e386e3a]
+#### 4. Failure to comply with request for information[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Application of provisions[^key-8d4853b2b10258669a269c803e386e3a]
+#### 5. General power to disclose information[^c-8d4853b2b10258669a269c803e386e3a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Application of provisions[^c-8d4853b2b10258669a269c803e386e3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d4853b2b10258669a269c803e386e3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d4853b2b10258669a269c803e386e3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d4853b2b10258669a269c803e386e3a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/956) revoked (31.12.2020) by [The Cyber (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/597)](https://www.legislation.gov.uk/uksi/2020/597), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/597/regulation/1/2), [37(2)](https://www.legislation.gov.uk/uksi/2020/597/regulation/37/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/6/2)
+[^c-8d4853b2b10258669a269c803e386e3a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/956) revoked (31.12.2020) by [The Cyber (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/597)](https://www.legislation.gov.uk/uksi/2020/597), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/597/regulation/1/2), [37(2)](https://www.legislation.gov.uk/uksi/2020/597/regulation/37/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/6/2)

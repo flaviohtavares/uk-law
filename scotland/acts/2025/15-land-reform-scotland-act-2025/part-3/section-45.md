@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Regulation-making powers[^key-6a261cf1e882e8ce4cd9818d2065cdd8]
+## 45. Regulation-making powers[^c-6a261cf1e882e8ce4cd9818d2065cdd8]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a261cf1e882e8ce4cd9818d2065cdd8]: Commencement: S. 45 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)
+[^c-6a261cf1e882e8ce4cd9818d2065cdd8]: Commencement: S. 45 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Leasehold sales information requests[^key-bd7cf813173a24140745d385969ae2eb]
+## 67. Leasehold sales information requests[^c-bd7cf813173a24140745d385969ae2eb]
 
 *Extent: E+W*
 
@@ -182,4 +182,4 @@ In the LTA 1985, after section 30J (as inserted by section 63) insert—
 
 ## Annotations
 
-[^key-bd7cf813173a24140745d385969ae2eb]: Commencement: S. 67 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bd7cf813173a24140745d385969ae2eb]: Commencement: S. 67 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

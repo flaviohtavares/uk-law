@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Amendment of regulation 146 (obligation in relation to product information)[^M_I_78228c6a-f93a-4ff1-c544-47c1e08a9f8f][^key-6afbafb65ec9254cf6e8837cf2e3a060]
+## 129. Amendment of regulation 146 (obligation in relation to product information)[^M_I_78228c6a-f93a-4ff1-c544-47c1e08a9f8f][^c-6afbafb65ec9254cf6e8837cf2e3a060]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ For regulation 146(2), substitute—
 
 [^M_I_78228c6a-f93a-4ff1-c544-47c1e08a9f8f]: Commencement: Reg. 129 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6afbafb65ec9254cf6e8837cf2e3a060]: Textual amendment: Reg. 129 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 97](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/97)
+[^c-6afbafb65ec9254cf6e8837cf2e3a060]: Textual amendment: Reg. 129 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 97](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/97)

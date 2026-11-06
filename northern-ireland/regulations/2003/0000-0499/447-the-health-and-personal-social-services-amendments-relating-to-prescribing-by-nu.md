@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 56, 63(1), (2), (2A) to (2D), 64, 98, 106(b) and 107(6) and Schedule 15 to the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, and in conjunction with the Department of Finance and Personnel and after consultation with such organisations as appear to the Department of Health, Social Services and Public Safety to be representative of the medical and pharmaceutical professions as required by Articles 56(5) and 63(3) of that Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-18dcc30aa2e8beea059033e0cee83b1f]
+## 1. Citation, commencement and interpretation[^c-18dcc30aa2e8beea059033e0cee83b1f]
 
 (1) These Regulations may be cited as the Health and Personal Social Services (Amendments Relating to Prescribing by Nurses and Pharmacists etc.) Regulations (Northern Ireland) 2003 and shall come into operation on 5th November 2003.
 
@@ -51,7 +51,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 - (b) “the General Medical Services Regulations” means the General Medical Services Regulations (Northern Ireland) 1997[^f00004];
 - (c) “the Charges for Drugs and Appliances Regulations” means the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^f00005].
 
-## 2. Amendment of the Pharmaceutical Services Regulations (Northern Ireland) 1997[^key-f2c93dc0efed2d0a5c24547ede898e03]
+## 2. Amendment of the Pharmaceutical Services Regulations (Northern Ireland) 1997[^c-f2c93dc0efed2d0a5c24547ede898e03]
 
 (1) The Pharmaceutical Services Regulations (Northern Ireland) 1997 are amended as follows.
 
@@ -99,11 +99,11 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 - (b) in paragraph 7(2) for “or by a nurse prescriber” substitute “, or by a supplementary prescriber or an independent nurse prescriber,”; and
 - (c) in paragraphs 14(1), (2) and 14A, before “a nurse prescriber” at each place where it occurs, insert “supplementary prescriber or an independent”.
 
-## 3. Amendment of the General Medical Services Regulations (Northern Ireland) 1997[^key-c7737a2e577966cf1abbf58b365a99cf]
+## 3. Amendment of the General Medical Services Regulations (Northern Ireland) 1997[^c-c7737a2e577966cf1abbf58b365a99cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^key-20de3dc5b9807a19f00214bb64b0a89f]
+## 4. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^c-20de3dc5b9807a19f00214bb64b0a89f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,7 +139,7 @@ Regulation 4 makes changes to the Charges for Drugs and Appliances Regulations (
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) relevant amending instruments are [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907) Article 14; [S.I. 1986/2023 (N.I. 20)](https://www.legislation.gov.uk/nisi/1986/2023) Articles 5(1) and (2); [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Articles 31(1) and (2); [S.I. 1992/2671 (N.I. 18)](https://www.legislation.gov.uk/nisi/1992/2671) Article 3; [S.I. 1997/1177(N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177) Article 29 and [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3) section 48
 
-[^key-18dcc30aa2e8beea059033e0cee83b1f]: Commencement: Reg. 1 in operation at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/447/regulation/1/1)
+[^c-18dcc30aa2e8beea059033e0cee83b1f]: Commencement: Reg. 1 in operation at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/447/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 381](https://www.legislation.gov.uk/nisr/1997/381) relevant amending instruments are [S.R. 1999 No. 254](https://www.legislation.gov.uk/nisr/1999/254); [S.R. 2001 No. 222](https://www.legislation.gov.uk/nisr/2001/222); [S.R. 2002 No. 92](https://www.legislation.gov.uk/nisr/2002/92) and [S.R. 2002 No. 397](https://www.legislation.gov.uk/nisr/2002/397)
 
@@ -147,7 +147,7 @@ Regulation 4 makes changes to the Charges for Drugs and Appliances Regulations (
 
 [^f00005]: Footnote: [S.R. 1997 No. 382](https://www.legislation.gov.uk/nisr/1997/382); relevant amending instruments are [S.R. 1999 No. 166](https://www.legislation.gov.uk/nisr/1999/166), [S.R. 2000 No. 57](https://www.legislation.gov.uk/nisr/2000/57) and [S.R. 2002 No. 397](https://www.legislation.gov.uk/nisr/2002/397)
 
-[^key-f2c93dc0efed2d0a5c24547ede898e03]: Commencement: Reg. 2 in operation at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/447/regulation/1/1)
+[^c-f2c93dc0efed2d0a5c24547ede898e03]: Commencement: Reg. 2 in operation at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/447/regulation/1/1)
 
 [^f00006]: Footnote: Approved by [S.I. 1983/873](https://www.legislation.gov.uk/uksi/1983/873), to which there are amendments not relevant to these Regulations
 
@@ -157,6 +157,6 @@ Regulation 4 makes changes to the Charges for Drugs and Appliances Regulations (
 
 [^f00009]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213)
 
-[^key-c7737a2e577966cf1abbf58b365a99cf]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/447/regulation/3) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
+[^c-c7737a2e577966cf1abbf58b365a99cf]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/447/regulation/3) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
 
-[^key-20de3dc5b9807a19f00214bb64b0a89f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/447/regulation/4) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [reg. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-20de3dc5b9807a19f00214bb64b0a89f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/447/regulation/4) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [reg. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)

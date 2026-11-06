@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 330. Effect of objection where no reference is made to Upper Tribunal[^key-f146e590e617d28abaf357df67be8edc]
+## 330. Effect of objection where no reference is made to Upper Tribunal[^c-f146e590e617d28abaf357df67be8edc]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f146e590e617d28abaf357df67be8edc]: Commencement: S. 330 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f146e590e617d28abaf357df67be8edc]: Commencement: S. 330 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

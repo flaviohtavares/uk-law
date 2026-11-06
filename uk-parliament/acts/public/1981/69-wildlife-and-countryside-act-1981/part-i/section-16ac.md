@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16AC. Section 16AA Licence: code of practice[^key-6c50c1680e39c8bc16be4911c86fb9fe]
+## 16AC. Section 16AA Licence: code of practice[^c-6c50c1680e39c8bc16be4911c86fb9fe]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c50c1680e39c8bc16be4911c86fb9fe]: Textual amendment: Ss. 16AA-16AF inserted (S.) (1.7.2024 for the insertion of ss. 16AC and 16AD, 22.7.2024 in so far as not already in force) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 10(2)](https://www.legislation.gov.uk/asp/2024/4/section/10/2), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/168](https://www.legislation.gov.uk/ssi/2024/168), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/2)
+[^c-6c50c1680e39c8bc16be4911c86fb9fe]: Textual amendment: Ss. 16AA-16AF inserted (S.) (1.7.2024 for the insertion of ss. 16AC and 16AD, 22.7.2024 in so far as not already in force) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 10(2)](https://www.legislation.gov.uk/asp/2024/4/section/10/2), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/168](https://www.legislation.gov.uk/ssi/2024/168), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 201. Local authority functions concerning school lunches, milk etc.[^c415700][^key-168e05fb7361da96812ab2531a3e4c38][^key-379c0a8ab791aad4cda0b42dbea5f020]
+## 201. Local authority functions concerning school lunches, milk etc.[^c415700][^c-168e05fb7361da96812ab2531a3e4c38][^c-379c0a8ab791aad4cda0b42dbea5f020]
 
 *Extent: E+W*
 
-(1)[^key-2a9c435cf51775dd04366e6d1878e46e] For section 512 of the Education Act 1996 (provision of meals etc. at schools maintained by local authorities[^key-0b83dc4852763b67d3e91bf8700f3c44]) there is substituted—
+(1)[^c-2a9c435cf51775dd04366e6d1878e46e] For section 512 of the Education Act 1996 (provision of meals etc. at schools maintained by local authorities[^c-0b83dc4852763b67d3e91bf8700f3c44]) there is substituted—
 
 > **512. Local authority functions concerning provision of meals, etc.**
 >
@@ -99,7 +99,7 @@ summary: ''
 >
 > (5) In this section “**prescribed**” and “**school lunch**” have the same meaning as in section 512.
 
-(2)[^key-33a0caa0c4a0ebecd190753e3209a1ad] In section 512A of that Act (transfer of functions under section 512 to governing bodies)—
+(2)[^c-33a0caa0c4a0ebecd190753e3209a1ad] In section 512A of that Act (transfer of functions under section 512 to governing bodies)—
 
 - (a) in subsection (2)—
   - (i) in paragraph (a) for “section 512(1A) and (1B)” there is substituted “ section 512(3) and (4) ”,
@@ -107,7 +107,7 @@ summary: ''
   - (iii) in paragraph (c) for “section 512(3)(b)” there is substituted “ section 512ZB(3) ”, and
 - (b) in subsection (6) for “section 512(2)(b)” there is substituted “ section 512ZA(2) ”.
 
-(3)[^key-33a0caa0c4a0ebecd190753e3209a1ad] In section 114 of the School Standards and Framework Act 1998 (c. 31) (nutritional standards for school lunches for pupils at schools maintained by local authorities)—
+(3)[^c-33a0caa0c4a0ebecd190753e3209a1ad] In section 114 of the School Standards and Framework Act 1998 (c. 31) (nutritional standards for school lunches for pupils at schools maintained by local authorities)—
 
 - (a) in subsection (1), after “lunches for” there is inserted “ (a) ” and after “authorities” there is inserted
 
@@ -123,12 +123,12 @@ summary: ''
 
 [^c415700]: Commencement: S. 201 partly in force; s. 201 not in force at Royal Assent, see s. 216; s. 201(1) in force for certain purposes and s. 201(2)(3) in force for W. at 31.3.2003 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
 
-[^key-168e05fb7361da96812ab2531a3e4c38]: Commencement: S. 201 in force at 6.4.2003 for specified purposes except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 5](https://www.legislation.gov.uk/uksi/2003/124/article/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/124/article/6))
+[^c-168e05fb7361da96812ab2531a3e4c38]: Commencement: S. 201 in force at 6.4.2003 for specified purposes except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 5](https://www.legislation.gov.uk/uksi/2003/124/article/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/124/article/6))
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-2a9c435cf51775dd04366e6d1878e46e]: Commencement: S. 201(1) in force at 31.3.2003 for specified purposes for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
+[^c-2a9c435cf51775dd04366e6d1878e46e]: Commencement: S. 201(1) in force at 31.3.2003 for specified purposes for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
 
-[^key-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
+[^c-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
 
-[^key-33a0caa0c4a0ebecd190753e3209a1ad]: Commencement: S. 201(2)(3) in force at 31.3.2003 for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
+[^c-33a0caa0c4a0ebecd190753e3209a1ad]: Commencement: S. 201(2)(3) in force at 31.3.2003 for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)

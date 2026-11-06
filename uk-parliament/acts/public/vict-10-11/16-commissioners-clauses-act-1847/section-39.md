@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Quorum of commissioners.[^key-c932cb2e4a669a8a1e5790c03ad24649]
+## 39. Quorum of commissioners.[^c-c932cb2e4a669a8a1e5790c03ad24649]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ All powers vested in the commissioners under this or the special Act may be exer
 
 ## Annotations
 
-[^key-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

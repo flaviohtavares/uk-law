@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Regulator's consent[^key-d17be4b14153de1352cc7a78076ddfaa]
+## 116. Regulator's consent[^c-d17be4b14153de1352cc7a78076ddfaa]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d17be4b14153de1352cc7a78076ddfaa]: Textual amendment: Ss. 116-119 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(6)](https://www.legislation.gov.uk/asp/2018/13/section/4/6), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-d17be4b14153de1352cc7a78076ddfaa]: Textual amendment: Ss. 116-119 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(6)](https://www.legislation.gov.uk/asp/2018/13/section/4/6), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

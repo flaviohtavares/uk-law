@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 24
 
-**1.**[^key-30986ca950b00dd5ab9fed1084e6521e] The contractor may demand or accept a fee or other remuneration—
+**1.**[^c-30986ca950b00dd5ab9fed1084e6521e] The contractor may demand or accept a fee or other remuneration—
 
 - (a) from any statutory body for services rendered for the purposes of that body’s statutory functions;
 - (b) from any body, employer or school for a routine medical examination of persons for whose welfare the body, employer or school is responsible, or an examination of such persons for the purpose of advising the body, employer or school of any administrative action they might take;
@@ -50,7 +50,7 @@ Regulation 24
 
 ## Annotations
 
-[^key-30986ca950b00dd5ab9fed1084e6521e]: Commencement: Sch. 4 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-30986ca950b00dd5ab9fed1084e6521e]: Commencement: Sch. 4 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00075]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 57 was substituted by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 7 and amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), Schedule 9, paragraph 19.
 

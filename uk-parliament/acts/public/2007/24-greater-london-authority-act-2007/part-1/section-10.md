@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Chief finance officer[^key-031f0ad4678182f8a6da0ca2493e44c2]
+## 10. Chief finance officer[^c-031f0ad4678182f8a6da0ca2493e44c2]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-031f0ad4678182f8a6da0ca2493e44c2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/24/section/10) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-031f0ad4678182f8a6da0ca2493e44c2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/24/section/10) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

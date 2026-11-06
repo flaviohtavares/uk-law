@@ -39,7 +39,7 @@ Coming into force
 
 in accordance with regulation 1(1)
 
-The National Assembly for Wales, in exercise of the powers conferred on it by sections 19(2) and (3), 20(2) and (3), 21(3), 23, 210(7) and 214 (1) and (2) of the Education Act 2002[^f00001], makes the following regulations—[^key-b924d34f48becef2ac84b2e00976cfe1][^key-298932c6578a6c7c1918560770ea3b20]
+The National Assembly for Wales, in exercise of the powers conferred on it by sections 19(2) and (3), 20(2) and (3), 21(3), 23, 210(7) and 214 (1) and (2) of the Education Act 2002[^f00001], makes the following regulations—[^c-b924d34f48becef2ac84b2e00976cfe1][^c-298932c6578a6c7c1918560770ea3b20]
 
 ## Contents
 
@@ -113,7 +113,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 
 - [Section 38 — Transitional provision](part-6/section-38.md)
 
-### PART 7 — Appointment, functions and removal of officers[^key-0fc97f70d4ae64706491ad8153d04660]
+### PART 7 — Appointment, functions and removal of officers[^c-0fc97f70d4ae64706491ad8153d04660]
 
 *Extent: E+W*
 
@@ -123,7 +123,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 - [Section 42 — Appointment and removal of the clerk to the governing body](part-7/section-42.md)
 - [Section 43 — Functions of the clerk to the governing body](part-7/section-43.md)
 
-### PART 8 — Meetings and proceedings of governing bodies[^key-8cfac9661aad4a73365ca5b43620390d]
+### PART 8 — Meetings and proceedings of governing bodies[^c-8cfac9661aad4a73365ca5b43620390d]
 
 *Extent: E+W*
 
@@ -138,7 +138,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 - [Section 51 — Restrictions on delegation and specified committees](part-8/section-51.md)
 - [Section 52 — Reporting to the governing body following the exercise of delegated functions](part-8/section-52.md)
 
-### PART 9 — Committees of governing bodies[^key-9b6cda0efd29373068c0839c6d369f16]
+### PART 9 — Committees of governing bodies[^c-9b6cda0efd29373068c0839c6d369f16]
 
 *Extent: E+W*
 
@@ -153,7 +153,7 @@ The National Assembly for Wales, in exercise of the powers conferred on it by se
 - [Section 61 — Minutes of meetings of committees](part-9/section-61.md)
 - [Section 62 — Publication of minutes and papers](part-9/section-62.md)
 
-### PART 10[^key-0876520cd10434adcbde2c04df249d6e]
+### PART 10[^c-0876520cd10434adcbde2c04df249d6e]
 
 *Extent: E+W*
 
@@ -227,16 +227,16 @@ A regulatory appraisal of these Regulations has been prepared and can be viewed 
 
 [^f00001]: Footnote: [2002 C.32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-b924d34f48becef2ac84b2e00976cfe1]: Modification: Regulations applied (with modifications) (31.10.2005) by [S.I. 2001/2678](https://www.legislation.gov.uk/uksi/2001/2678), [reg. 12](https://www.legislation.gov.uk/uksi/2001/2678/regulation/12), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/2678/schedule/3) (as substituted by [The Change of Category of Maintained Schools (Wales) (Amendment) Regulations 2005 (S.I. 2005/2916)](https://www.legislation.gov.uk/uksi/2005/2916), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2916/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/2916/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2005/2916/schedule))
+[^c-b924d34f48becef2ac84b2e00976cfe1]: Modification: Regulations applied (with modifications) (31.10.2005) by [S.I. 2001/2678](https://www.legislation.gov.uk/uksi/2001/2678), [reg. 12](https://www.legislation.gov.uk/uksi/2001/2678/regulation/12), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/2678/schedule/3) (as substituted by [The Change of Category of Maintained Schools (Wales) (Amendment) Regulations 2005 (S.I. 2005/2916)](https://www.legislation.gov.uk/uksi/2005/2916), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2916/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/2916/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2005/2916/schedule))
 
-[^key-298932c6578a6c7c1918560770ea3b20]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2005/2914) applied (with modifications) (1.9.2012) by [The School Governance (Transition from an Interim Executive Board) (Wales) Regulations 2012 (S.I. 2012/1643)](https://www.legislation.gov.uk/wsi/2012/1643), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/1643/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2012/1643/regulation/4), [6-8](https://www.legislation.gov.uk/wsi/2012/1643/regulation/6) (with [reg. 5(3)](https://www.legislation.gov.uk/wsi/2012/1643/regulation/5/3))
+[^c-298932c6578a6c7c1918560770ea3b20]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2005/2914) applied (with modifications) (1.9.2012) by [The School Governance (Transition from an Interim Executive Board) (Wales) Regulations 2012 (S.I. 2012/1643)](https://www.legislation.gov.uk/wsi/2012/1643), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/1643/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2012/1643/regulation/4), [6-8](https://www.legislation.gov.uk/wsi/2012/1643/regulation/6) (with [reg. 5(3)](https://www.legislation.gov.uk/wsi/2012/1643/regulation/5/3))
 
-[^key-0fc97f70d4ae64706491ad8153d04660]: Modification: [Pt. 7](https://www.legislation.gov.uk/wsi/2005/2914/part/7) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2005/2912/regulation/37) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [38](https://www.legislation.gov.uk/wsi/2005/2912/regulation/38), [39](https://www.legislation.gov.uk/wsi/2005/2912/regulation/39))
+[^c-0fc97f70d4ae64706491ad8153d04660]: Modification: [Pt. 7](https://www.legislation.gov.uk/wsi/2005/2914/part/7) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2005/2912/regulation/37) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [38](https://www.legislation.gov.uk/wsi/2005/2912/regulation/38), [39](https://www.legislation.gov.uk/wsi/2005/2912/regulation/39))
 
-[^key-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))
+[^c-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))
 
-[^key-9b6cda0efd29373068c0839c6d369f16]: Modification: Pt. 9 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [41(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [41(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/2))
+[^c-9b6cda0efd29373068c0839c6d369f16]: Modification: Pt. 9 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [41(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [41(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/2))
 
-[^key-0876520cd10434adcbde2c04df249d6e]: Modification: [Pt. 10](https://www.legislation.gov.uk/wsi/2005/2914/part/10) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [42](https://www.legislation.gov.uk/wsi/2005/2912/regulation/42) (with [reg. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3))
+[^c-0876520cd10434adcbde2c04df249d6e]: Modification: [Pt. 10](https://www.legislation.gov.uk/wsi/2005/2914/part/10) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [42](https://www.legislation.gov.uk/wsi/2005/2912/regulation/42) (with [reg. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3))
 
 [^f00023]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

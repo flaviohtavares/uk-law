@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65A. Right of appeal from a rent assessment committee[^M_C_bc0189f8-d5dd-4bcb-f976-62319bb7300b][^key-974e633e5f62ef0685754a931a210dc4]
+## 65A. Right of appeal from a rent assessment committee[^M_C_bc0189f8-d5dd-4bcb-f976-62319bb7300b][^c-974e633e5f62ef0685754a931a210dc4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^M_C_bc0189f8-d5dd-4bcb-f976-62319bb7300b]: Modification: S. 65A excluded (1.7.2013) by [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34), [s. 231(04)](https://www.legislation.gov.uk/ukpga/2004/34/section/231/04) (as substituted by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), art. 1, Sch. 1 para. 175 (with Sch. 3))
 
-[^key-974e633e5f62ef0685754a931a210dc4]: Textual amendment: S. 65A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/14) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-974e633e5f62ef0685754a931a210dc4]: Textual amendment: S. 65A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/14) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

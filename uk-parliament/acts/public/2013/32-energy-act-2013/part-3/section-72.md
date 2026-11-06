@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Nuclear safeguards purposes[^key-3a6084c874b6a1121a08eb807d16f50d][^key-fc6ca3bef9a0999fe5b65cc44624b6e4]
+## 72. Nuclear safeguards purposes[^c-3a6084c874b6a1121a08eb807d16f50d][^c-fc6ca3bef9a0999fe5b65cc44624b6e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In this Part, the “**nuclear safeguards purposes**” means the purposes of—
 
 ## Annotations
 
-[^key-3a6084c874b6a1121a08eb807d16f50d]: Commencement: S. 72 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-3a6084c874b6a1121a08eb807d16f50d]: Commencement: S. 72 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-fc6ca3bef9a0999fe5b65cc44624b6e4]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/2013/32/section/72) substituted (31.12.2020) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/1), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/a)
+[^c-fc6ca3bef9a0999fe5b65cc44624b6e4]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/2013/32/section/72) substituted (31.12.2020) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/1), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/a)

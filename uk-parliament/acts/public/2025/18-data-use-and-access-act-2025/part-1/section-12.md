@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Levy[^key-2a5770a71e2be27932c20c785cf3f79f][^key-8bb5a02e9ba0febabcb6cf72fa2aaf5c]
+## 12. Levy[^c-2a5770a71e2be27932c20c785cf3f79f][^c-8bb5a02e9ba0febabcb6cf72fa2aaf5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a5770a71e2be27932c20c785cf3f79f]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-2a5770a71e2be27932c20c785cf3f79f]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-8bb5a02e9ba0febabcb6cf72fa2aaf5c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/18/section/12) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-8bb5a02e9ba0febabcb6cf72fa2aaf5c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/18/section/12) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

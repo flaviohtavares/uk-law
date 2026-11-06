@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 449. Provision for security of information obtained.[^key-03bf2084978505df83d0eec9260f6337][^c17415461][^c17415471][^c17415481][^c19415511][^c19403901]
+## 449. Provision for security of information obtained.[^c-03bf2084978505df83d0eec9260f6337][^c17415461][^c17415471][^c17415481][^c19415511][^c19403901]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,11 +57,11 @@ summary: ''
 
 (10) For the purposes of this section, information obtained by an investigator in consequence of the exercise of his powers under section 453A includes information obtained by a person accompanying the investigator in pursuance of subsection (4) of that section in consequence of that person’s accompanying the investigator.
 
-(11) Nothing in this section authorises the making of a disclosure in contravention of the data protection legislation[^key-b5529be1eab6d545a93e58f123bb236b].
+(11) Nothing in this section authorises the making of a disclosure in contravention of the data protection legislation[^c-b5529be1eab6d545a93e58f123bb236b].
 
 ## Annotations
 
-[^key-03bf2084978505df83d0eec9260f6337]: Modification: S. 449 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-03bf2084978505df83d0eec9260f6337]: Modification: S. 449 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17415461]: Modification: S. 449 extended (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [regs. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [21](https://www.legislation.gov.uk/uksi/1989/638/regulation/21), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1989/638/schedule/4/paragraph/11)
 
@@ -79,4 +79,4 @@ summary: ''
 
 [^c19415631]: Textual amendment: S. 449(7) repealed (1.10.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1124](https://www.legislation.gov.uk/ukpga/2006/46/section/1124), [1295](https://www.legislation.gov.uk/ukpga/2006/46/section/1295), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/ukpga/2006/46/schedule/3/paragraph/3/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16) (with [s. 1133](https://www.legislation.gov.uk/ukpga/2006/46/section/1133)); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [arts. 2(1)(k)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/k), [8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48) and subject to [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/1))
 
-[^key-b5529be1eab6d545a93e58f123bb236b]: Textual amendment: Words in s. 449(11) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 33](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/33) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-b5529be1eab6d545a93e58f123bb236b]: Textual amendment: Words in s. 449(11) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 33](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/33) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

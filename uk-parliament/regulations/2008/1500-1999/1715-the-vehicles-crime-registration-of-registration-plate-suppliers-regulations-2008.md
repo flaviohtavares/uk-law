@@ -56,14 +56,14 @@ These Regulations may be cited as the Vehicles Crime (Registration of Registrati
 
 - “**the Act**” means the Vehicles (Crime) Act 2001;
 - “**company**” means a body corporate but does not include a limited liability partnership or a Scottish partnership;
-- “**fixed**” in relation to a registration plate, means fixed in accordance with regulations made under section 22(2) or 23(2) of the 1994 Act or section 15(3) of the 2018 Act[^key-284707d92c86c9ebf368e1f395beaea1];
+- “**fixed**” in relation to a registration plate, means fixed in accordance with regulations made under section 22(2) or 23(2) of the 1994 Act or section 15(3) of the 2018 Act[^c-284707d92c86c9ebf368e1f395beaea1];
 - “**insurer**” means a person who is an “authorised insurer” within the meaning of Part VI of the Road Traffic Act 1988 [^c19313651];
 - “**limited liability partnership**” has the same meaning as that expression bears in the Limited Liability Partnerships Act 2000 [^c19313661]or the Limited Liability Partnerships Act (Northern Ireland) 2002 [^c19313671], as appropriate;
 - “**limited partnership**” has the same meaning as that expression bears in the Limited Partnerships Act 1907 [^c19313681];
 - “**partnership**” includes a partnership under the Partnership Act 1890 [^c19313691] and a limited partnership registered in England and Wales but does not include a limited liability partnership or a Scottish partnership;
 - “**the register**” means the register maintained by the Secretary of State under section 18 of the Act;
-- “[^key-ce6f6f32393651706a84727a84b2a3a1]**registration certificate**” means the document issued in accordance with EU law which certifies that a vehicle is registered in a member State;
-- “**registration document**” means a registration certificate issued in accordance with regulations under section 22(1) of the 1994 Act or a registration document issued in accordance with regulations made under section 13(1) of the 2018 Act[^key-3173c9bc46e7a2ea39b334fa29c2da2b];
+- “[^c-ce6f6f32393651706a84727a84b2a3a1]**registration certificate**” means the document issued in accordance with EU law which certifies that a vehicle is registered in a member State;
+- “**registration document**” means a registration certificate issued in accordance with regulations under section 22(1) of the 1994 Act or a registration document issued in accordance with regulations made under section 13(1) of the 2018 Act[^c-3173c9bc46e7a2ea39b334fa29c2da2b];
 - “**relevant policy**” means an insurance policy issued by an insurer in respect of a vehicle which has sustained damage;
 - “**relevant repairer**” means a person carrying on the business of a vehicle repairer who, in respect of the sale of a registration plate, is acting under the instruction or direction of an insurer;
 - “**Scottish partnership**” means a firm within the meaning of section 4(2) of the Partnership Act 1890 or, where a firm is registered in Scotland, within the meaning of section 3 of the Limited Partnerships Act 1907;
@@ -204,7 +204,7 @@ Regulation 6
 
 - (a) a driving licence (whether or not issued in the United Kingdom),
 - (b) a passport (whether or not issued in the United Kingdom,
-- (c) a national identity card (whether or not issued in the United Kingdom)[^key-85f19262623802e291c2db2f2d2687c4],
+- (c) a national identity card (whether or not issued in the United Kingdom)[^c-85f19262623802e291c2db2f2d2687c4],
 - (d) a debit card or a credit card issued by a bank or a building society,
 
   a police warrant card, or
@@ -226,8 +226,8 @@ Regulation 6
 - (c) Form V778 (retention document relating to a right of retention in a registration mark);
 - (d) Form V11 (vehicle licensing reminder issued to a registered keeper);
 - (e) Form V379 (temporary registration certificate);
-- (f) Form V948 (authorisation to purchase a number plate); [^key-5acc9a2ccd4a9d201b67efa6635ed960]...
-- (g) an authorisation to purchase the number plate, issued by a company owning more than one vehicle, stating that it holds the registration document or the registration certificate and giving the reference number of that document or certificate; or[^key-0945552b1811c36c800c45869cbd2dc9]
+- (f) Form V948 (authorisation to purchase a number plate); [^c-5acc9a2ccd4a9d201b67efa6635ed960]...
+- (g) an authorisation to purchase the number plate, issued by a company owning more than one vehicle, stating that it holds the registration document or the registration certificate and giving the reference number of that document or certificate; or[^c-0945552b1811c36c800c45869cbd2dc9]
 - (h) a notice of registration issued by the Secretary of State in accordance with regulations made under section 13(1) of the 2018 Act.
 
 *(This note is not part of the Regulations)*
@@ -249,7 +249,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c19313641]: Marginal citation: [2001 c.3](https://www.legislation.gov.uk/ukpga/2001/3); Part 2 of the Act (sections 17 to 31) was amended by sections 44 to 46 of the [Road Safety Act 2006 (c.49)](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-284707d92c86c9ebf368e1f395beaea1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/2/1) inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/2/a)
+[^c-284707d92c86c9ebf368e1f395beaea1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/2/1) inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/2/a)
 
 [^c19313651]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -261,9 +261,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c19313691]: Marginal citation: [1890 c.39](https://www.legislation.gov.uk/ukpga/1890/39).
 
-[^key-ce6f6f32393651706a84727a84b2a3a1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1715/regulation/2) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce6f6f32393651706a84727a84b2a3a1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1715/regulation/2) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3173c9bc46e7a2ea39b334fa29c2da2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/2/1) inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/2/b)
+[^c-3173c9bc46e7a2ea39b334fa29c2da2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/2/1) inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/2/b)
 
 [^c19313711]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -273,8 +273,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c19313741]: Marginal citation: [S.I. 2005/2981](https://www.legislation.gov.uk/uksi/2005/2981).
 
-[^key-85f19262623802e291c2db2f2d2687c4]: Textual amendment: Words in [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2008/1715/schedule/paragraph/2/c) substituted (27.4.2010) by [The Vehicles Regulations (Amendment) Order 2010 (S.I. 2010/1111)](https://www.legislation.gov.uk/uksi/2010/1111), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1111/article/1/1), [5](https://www.legislation.gov.uk/uksi/2010/1111/article/5)
+[^c-85f19262623802e291c2db2f2d2687c4]: Textual amendment: Words in [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2008/1715/schedule/paragraph/2/c) substituted (27.4.2010) by [The Vehicles Regulations (Amendment) Order 2010 (S.I. 2010/1111)](https://www.legislation.gov.uk/uksi/2010/1111), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1111/article/1/1), [5](https://www.legislation.gov.uk/uksi/2010/1111/article/5)
 
-[^key-5acc9a2ccd4a9d201b67efa6635ed960]: Textual amendment: Word in Sch. para. 4(f) omitted (21.11.2018) by virtue of [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/3/a)
+[^c-5acc9a2ccd4a9d201b67efa6635ed960]: Textual amendment: Word in Sch. para. 4(f) omitted (21.11.2018) by virtue of [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/3/a)
 
-[^key-0945552b1811c36c800c45869cbd2dc9]: Textual amendment: Sch. para. 4(h) and word inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/3/b)
+[^c-0945552b1811c36c800c45869cbd2dc9]: Textual amendment: Sch. para. 4(h) and word inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/2/3/b)

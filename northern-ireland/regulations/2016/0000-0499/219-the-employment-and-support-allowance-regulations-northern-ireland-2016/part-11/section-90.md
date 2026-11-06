@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Absence to receive medical treatment[^key-0e2e297c6ede40ee442c1e6a16fe1d54]
+## 90. Absence to receive medical treatment[^c-0e2e297c6ede40ee442c1e6a16fe1d54]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e2e297c6ede40ee442c1e6a16fe1d54]: Commencement: [Reg. 90](https://www.legislation.gov.uk/nisr/2016/219/regulation/90) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-0e2e297c6ede40ee442c1e6a16fe1d54]: Commencement: [Reg. 90](https://www.legislation.gov.uk/nisr/2016/219/regulation/90) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

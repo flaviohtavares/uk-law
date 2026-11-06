@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Financial Services and Markets Act 2000[^key-5faa100bd05a3c63875c86d77f5cf893]
+## 38. Financial Services and Markets Act 2000[^c-5faa100bd05a3c63875c86d77f5cf893]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5faa100bd05a3c63875c86d77f5cf893]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1385/regulation/38) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-5faa100bd05a3c63875c86d77f5cf893]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1385/regulation/38) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00011]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 

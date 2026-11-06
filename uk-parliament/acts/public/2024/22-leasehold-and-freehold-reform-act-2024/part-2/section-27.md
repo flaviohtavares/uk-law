@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Removal of qualifying period before enfranchisement and extension claims[^key-c5603ef5464071e26489e63c0f70abaf][^key-df284602300a17da5053047528607726]
+## 27. Removal of qualifying period before enfranchisement and extension claims[^c-c5603ef5464071e26489e63c0f70abaf][^c-df284602300a17da5053047528607726]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5603ef5464071e26489e63c0f70abaf]: Commencement: S. 27 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c5603ef5464071e26489e63c0f70abaf]: Commencement: S. 27 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-df284602300a17da5053047528607726]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/22/section/27) in force at 31.1.2025 by [S.I. 2025/57](https://www.legislation.gov.uk/uksi/2025/57), [reg. 2](https://www.legislation.gov.uk/uksi/2025/57/regulation/2)
+[^c-df284602300a17da5053047528607726]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/22/section/27) in force at 31.1.2025 by [S.I. 2025/57](https://www.legislation.gov.uk/uksi/2025/57), [reg. 2](https://www.legislation.gov.uk/uksi/2025/57/regulation/2)

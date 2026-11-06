@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**81.**[^key-12ec8d43a2782eabc2c97b8bff600421] In section 24[^f00093] (persons qualifying for advice and assistance)—
+**81.**[^c-12ec8d43a2782eabc2c97b8bff600421] In section 24[^f00093] (persons qualifying for advice and assistance)—
 
 - (a) in subsection (2)(a)[^f00094] at the end insert “(without subsequently being looked after by a local authority in Wales)”;
 - (b) in subsection (2)(d)(ii)[^f00095] at the end insert “, or by a local authority in Wales in the exercise of education functions”;
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-12ec8d43a2782eabc2c97b8bff600421]: Commencement: Reg. 81 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-12ec8d43a2782eabc2c97b8bff600421]: Commencement: Reg. 81 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00093]: Footnote: Section 24 was substituted, together with sections 24A to 24C, for section 24, as originally enacted, by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 4(1), and section 24(1) to (1B) was substituted for section 24(1) by the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), Schedule 3, paragraphs 54 and 60(a).
 

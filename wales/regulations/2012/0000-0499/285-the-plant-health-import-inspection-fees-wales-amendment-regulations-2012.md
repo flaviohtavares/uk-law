@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2012 (revoked)[^key-8dfbac4273d260e5a16efdbab13e0f16]
+The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2012 (revoked)[^c-8dfbac4273d260e5a16efdbab13e0f16]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 29 February 2012
 
-[^key-8dfbac4273d260e5a16efdbab13e0f16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dfbac4273d260e5a16efdbab13e0f16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title application and commencement[^key-8dfbac4273d260e5a16efdbab13e0f16]
+## 1. Title application and commencement[^c-8dfbac4273d260e5a16efdbab13e0f16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Import Inspection Fees) (Wales) Regulations 2010[^key-8dfbac4273d260e5a16efdbab13e0f16]
+## 2. Amendment of the Plant Health (Import Inspection Fees) (Wales) Regulations 2010[^c-8dfbac4273d260e5a16efdbab13e0f16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dfbac4273d260e5a16efdbab13e0f16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dfbac4273d260e5a16efdbab13e0f16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8dfbac4273d260e5a16efdbab13e0f16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dfbac4273d260e5a16efdbab13e0f16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8dfbac4273d260e5a16efdbab13e0f16]: Textual amendment: Regulations revoked (6.7.2012) by [The Plant Health (Fees) (Wales) Regulations 2012 (S.I. 2012/1493)](https://www.legislation.gov.uk/wsi/2012/1493), [reg. 7(f)](https://www.legislation.gov.uk/wsi/2012/1493/regulation/7/f)
+[^c-8dfbac4273d260e5a16efdbab13e0f16]: Textual amendment: Regulations revoked (6.7.2012) by [The Plant Health (Fees) (Wales) Regulations 2012 (S.I. 2012/1493)](https://www.legislation.gov.uk/wsi/2012/1493), [reg. 7(f)](https://www.legislation.gov.uk/wsi/2012/1493/regulation/7/f)

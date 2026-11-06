@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Amendment of regulation 213 (interpretation of Part 12)[^key-48edcc0e58087b8646625e88205370d6]
+## 179. Amendment of regulation 213 (interpretation of Part 12)[^c-48edcc0e58087b8646625e88205370d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ In regulation 213(1) [^c23885161]—
 
 ## Annotations
 
-[^key-48edcc0e58087b8646625e88205370d6]: Commencement: Reg. 179 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-48edcc0e58087b8646625e88205370d6]: Commencement: Reg. 179 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885161]: Marginal citation: Regulation 213 was amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235) and 2014/490 and 1878.
 

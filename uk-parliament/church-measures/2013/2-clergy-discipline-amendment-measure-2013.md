@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 \[26th March 2013\]
 
-## 1. Misconduct[^key-f9a983bbb24689fdd2092c9579e66736]
+## 1. Misconduct[^c-f9a983bbb24689fdd2092c9579e66736]
 
 (1) Section 8 of the Clergy Discipline Measure 2003 (in this Measure referred to as “**the Measure**”) is amended as follows.
 
@@ -59,7 +59,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 (4) This section shall not have effect in relation to any misconduct which occurred before the date of the coming into force of this section.
 
-## 2. Penalty by consent[^key-93d0390b6e88e4631947176d4db04e58]
+## 2. Penalty by consent[^c-93d0390b6e88e4631947176d4db04e58]
 
 (1) Section 16 of the Measure is amended as follows.
 
@@ -69,7 +69,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 .
 
-## 3. Right of appeal[^key-53f243e5b7682b8e72d04753c4991f96]
+## 3. Right of appeal[^c-53f243e5b7682b8e72d04753c4991f96]
 
 (1) Section 20 of the Measure is amended as follows.
 
@@ -108,7 +108,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 (6) Immediately before the coming into force of subsection (4) above the appointment of any judge under section 3(2)(b) or (c) of the Ecclesiastical Jurisdiction Measure 1963 shall cease to have effect.
 
-## 4. Convictions for criminal offences and matrimonial orders, etc.: priests and deacons[^key-a4ce81e0032e5fa75c2a8651334e13a0]
+## 4. Convictions for criminal offences and matrimonial orders, etc.: priests and deacons[^c-a4ce81e0032e5fa75c2a8651334e13a0]
 
 (1) Section 30 of the Measure is amended as follows.
 
@@ -148,7 +148,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 (8) Subsection (2)(a) above, so far as it relates to section 30(1)(a)(ii), shall not have effect in relation to any conviction occurring before the date of the coming into force of that provision.
 
-## 5. Convictions for criminal offences and matrimonial orders, etc.: bishops and archbishops[^key-0bcc42d5bb2362e426d324da92832f37]
+## 5. Convictions for criminal offences and matrimonial orders, etc.: bishops and archbishops[^c-0bcc42d5bb2362e426d324da92832f37]
 
 (1) Section 31 of the Measure is amended as follows.
 
@@ -174,7 +174,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 (6) Subsection (2)(a) above shall not have effect in relation to any offence mentioned in section 30(1)(a)(ii) if the conviction occurred before the date of the coming into force of subsection (2)(a).
 
-## 6. Suspension of priest or deacon[^key-ea80460a6095e150021d44c56e6df9e9]
+## 6. Suspension of priest or deacon[^c-ea80460a6095e150021d44c56e6df9e9]
 
 (1) Section 36 of the Measure is amended as follows.
 
@@ -195,7 +195,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 (5) In the heading to section 36, the words after the word “deacon” are omitted.
 
-## 7. Suspension of bishop or archbishop[^key-54dee78f6dfa7407f0a6db856f1cb2c6]
+## 7. Suspension of bishop or archbishop[^c-54dee78f6dfa7407f0a6db856f1cb2c6]
 
 (1) Section 37 of the Measure is amended as follows.
 
@@ -214,7 +214,7 @@ A Measure passed by the General Synod of the Church of England to amend the Cler
 
 (4) In the heading to section 37, the words after the word “archbishop” are omitted.
 
-## 8. Archbishops' list[^key-d396d1e35d90ae5ca102a8f77fa2880b]
+## 8. Archbishops' list[^c-d396d1e35d90ae5ca102a8f77fa2880b]
 
 (1) Section 38 of the Measure is amended as follows.
 
@@ -237,9 +237,9 @@ and the word “or” shall be inserted immediately before paragraph (e).
 
 ## 9. Amendments and repeals
 
-(1)[^key-1cad2f3a5488b180f05e9e10a301f586][^key-901a49d727ea87109ff0d1784d24a58b] The minor amendments to the Measure set out in the Schedule have effect.
+(1)[^c-1cad2f3a5488b180f05e9e10a301f586][^c-901a49d727ea87109ff0d1784d24a58b] The minor amendments to the Measure set out in the Schedule have effect.
 
-(2)[^key-3ad0d59bef2c6273ecaedc57fafdaf75] Section 3 of the Ecclesiastical Jurisdiction Measure 1963 is amended in accordance with subsections (3) to (6) below.
+(2)[^c-3ad0d59bef2c6273ecaedc57fafdaf75] Section 3 of the Ecclesiastical Jurisdiction Measure 1963 is amended in accordance with subsections (3) to (6) below.
 
 (3) For subsection (2)(b) and (c) there is substituted the following paragraph—
 
@@ -247,15 +247,15 @@ and the word “or” shall be inserted immediately before paragraph (e).
 
 .
 
-(4)[^key-c57b2b2185f595bb2b7fbbcc0d8be4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c57b2b2185f595bb2b7fbbcc0d8be4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c57b2b2185f595bb2b7fbbcc0d8be4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c57b2b2185f595bb2b7fbbcc0d8be4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (7), for the words “(b) or (c)” there is substituted the letter “ (b) ”.
 
 (7) In section 7(2)(a) of the Ecclesiastical Jurisdiction Measure 1963, after the words “in a disciplinary case,” there are inserted the words “ with the leave of the court in accordance with section 20(1A) and (1B) of the Clergy Discipline Measure 2003, ”.
 
-(8)[^key-9b1820088f0b5c0aa817c362a59de301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9b1820088f0b5c0aa817c362a59de301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 10. Citation, commencement and extent
 
@@ -269,19 +269,19 @@ and the word “or” shall be inserted immediately before paragraph (e).
 
 Section 9
 
-**1.**[^key-9fb4ebfcb6a5ea3951663fc40d17708f] The Clergy Discipline Measure 2003 is amended as follows.
+**1.**[^c-9fb4ebfcb6a5ea3951663fc40d17708f] The Clergy Discipline Measure 2003 is amended as follows.
 
-**2.**[^key-26dd136447a8e97644bf1603746e3427] At the beginning of section 4(3) there are inserted the words “Subject to subsection (4) below,”.
+**2.**[^c-26dd136447a8e97644bf1603746e3427] At the beginning of section 4(3) there are inserted the words “Subject to subsection (4) below,”.
 
-**3.**[^key-147bc503f5ccb0e77cbf5e346a5e2ac9] After section 4(3) there is inserted the following subsection—
+**3.**[^c-147bc503f5ccb0e77cbf5e346a5e2ac9] After section 4(3) there is inserted the following subsection—
 
 > (4) The president or deputy president of tribunals may select any person who may be appointed as the chairman of a disciplinary tribunal under section 22(1) below to act in his place when he is absent or unable or unwilling to act.
 
 .
 
-**4.**[^key-37cea4bac368e374beb9d62ec11b5dad] In section 21(4), for the words “No person” there are substituted the words “ No lay person ”.
+**4.**[^c-37cea4bac368e374beb9d62ec11b5dad] In section 21(4), for the words “No person” there are substituted the words “ No lay person ”.
 
-**5.**[^key-872592d3c7f1ce217ed6ce6e2ac8c980] Section 23 is amended as follows—
+**5.**[^c-872592d3c7f1ce217ed6ce6e2ac8c980] Section 23 is amended as follows—
 
 - (a) in subsection (1)(a), after the word “respondent” there are inserted the words “ or he is otherwise unable to act ” and for the words “relevant provincial panel of the province other than that in which the bishop serves” there are substituted the words “ provincial panel of either province ”;
 - (b) for subsection (1)(b) there shall be substituted the following paragraph—
@@ -296,7 +296,7 @@ Section 9
 
   .
 
-**6.**[^key-5cc4f4d054e65fdf54f3a16e3b20ff16] For section 34 there is substituted the following section—
+**6.**[^c-5cc4f4d054e65fdf54f3a16e3b20ff16] For section 34 there is substituted the following section—
 
 > **34. Duty to disclose details of divorce and separation orders**
 >
@@ -313,7 +313,7 @@ Section 9
 
 .
 
-**7.**[^key-d56d1bbaaa1a9b21d84c924852272773] After section 34 there is inserted the following section—
+**7.**[^c-d56d1bbaaa1a9b21d84c924852272773] After section 34 there is inserted the following section—
 
 > **34A. Duty to disclose inclusion in a barred list**
 >
@@ -329,11 +329,11 @@ Section 9
 
 .
 
-**8.**[^key-1134e7239786031af9403538e28de965] In section 36(1)(b), after the word “arrested” there are inserted the words “ (whether in England or elsewhere) ”.
+**8.**[^c-1134e7239786031af9403538e28de965] In section 36(1)(b), after the word “arrested” there are inserted the words “ (whether in England or elsewhere) ”.
 
-**9.**[^key-728b6bb2631e8d2b33e0d0a5876a8f3e] In section 37(1)(b), after the word “arrested” there are inserted the words “ (whether in England or elsewhere) ”.
+**9.**[^c-728b6bb2631e8d2b33e0d0a5876a8f3e] In section 37(1)(b), after the word “arrested” there are inserted the words “ (whether in England or elsewhere) ”.
 
-**10.**[^key-11c744159e043bf5b45110eb0c9bc487] In section 39, for subsection (3) there are substituted the following subsections—
+**10.**[^c-11c744159e043bf5b45110eb0c9bc487] In section 39, for subsection (3) there are substituted the following subsections—
 
 > (3) A Code of Practice shall be laid in draft before the General Synod and, if it is approved by the General Synod without amendment, the Code shall be issued by the Clergy Discipline Commission.
 >
@@ -348,69 +348,69 @@ Section 9
 
 .
 
-**11.**[^key-9efef83fdcb84e6fd859075d3fdb2c2a] In section 43(1), after the definition of “the 1963 Measure”, there is inserted the following definition—
+**11.**[^c-9efef83fdcb84e6fd859075d3fdb2c2a] In section 43(1), after the definition of “the 1963 Measure”, there is inserted the following definition—
 
 > “**barred list**” has the meaning assigned to it by section 30(1A) above;
 
 .
 
-**12.**[^key-1fcb422ef2c0cd3e91b184b90b1f0df7] In section 44—
+**12.**[^c-1fcb422ef2c0cd3e91b184b90b1f0df7] In section 44—
 
 - (a) subsection (1) is repealed; and
 - (b) in subsection (4), for the words “provincial registrar” there are substituted the words “ provincial registrars ”.
 
-**13.**[^key-ac137cd6b465bb3c10ff4bd139407a6a] In section 45(2)(a), for the words “Measure 1990” there are substituted the words “ Measures 1990 and 1994 ”.
+**13.**[^c-ac137cd6b465bb3c10ff4bd139407a6a] In section 45(2)(a), for the words “Measure 1990” there are substituted the words “ Measures 1990 and 1994 ”.
 
 ## Annotations
 
-[^key-f9a983bbb24689fdd2092c9579e66736]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2013/2/section/1) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-f9a983bbb24689fdd2092c9579e66736]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2013/2/section/1) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-93d0390b6e88e4631947176d4db04e58]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2013/2/section/2) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-93d0390b6e88e4631947176d4db04e58]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2013/2/section/2) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-53f243e5b7682b8e72d04753c4991f96]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2013/2/section/3) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-53f243e5b7682b8e72d04753c4991f96]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2013/2/section/3) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-a4ce81e0032e5fa75c2a8651334e13a0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2013/2/section/4) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-a4ce81e0032e5fa75c2a8651334e13a0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2013/2/section/4) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-0bcc42d5bb2362e426d324da92832f37]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2013/2/section/5) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-0bcc42d5bb2362e426d324da92832f37]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2013/2/section/5) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-ea80460a6095e150021d44c56e6df9e9]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2013/2/section/6) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-ea80460a6095e150021d44c56e6df9e9]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2013/2/section/6) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-54dee78f6dfa7407f0a6db856f1cb2c6]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2013/2/section/7) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-54dee78f6dfa7407f0a6db856f1cb2c6]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2013/2/section/7) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-d396d1e35d90ae5ca102a8f77fa2880b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2013/2/section/8) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-d396d1e35d90ae5ca102a8f77fa2880b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2013/2/section/8) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-1cad2f3a5488b180f05e9e10a301f586]: Commencement: S. 9(1) in force at 1.7.2013 for specified purposes by [S.I. 2013/2](https://www.legislation.gov.uk/ukci/2013/2), [art. 2](https://www.legislation.gov.uk/ukci/2013/2/article/2)
+[^c-1cad2f3a5488b180f05e9e10a301f586]: Commencement: S. 9(1) in force at 1.7.2013 for specified purposes by [S.I. 2013/2](https://www.legislation.gov.uk/ukci/2013/2), [art. 2](https://www.legislation.gov.uk/ukci/2013/2/article/2)
 
-[^key-901a49d727ea87109ff0d1784d24a58b]: Commencement: S. 9(1) in force at 1.2.2014 in so far as not already in force by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-901a49d727ea87109ff0d1784d24a58b]: Commencement: S. 9(1) in force at 1.2.2014 in so far as not already in force by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-3ad0d59bef2c6273ecaedc57fafdaf75]: Commencement: S. 9(2) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-3ad0d59bef2c6273ecaedc57fafdaf75]: Commencement: S. 9(2) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-c57b2b2185f595bb2b7fbbcc0d8be4b3]: Textual amendment: [S. 9(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/9/4)[(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/9/5) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c57b2b2185f595bb2b7fbbcc0d8be4b3]: Textual amendment: [S. 9(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/9/4)[(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/9/5) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-9b1820088f0b5c0aa817c362a59de301]: Textual amendment: [S. 9(8)](https://www.legislation.gov.uk/ukcm/2013/2/section/9/8) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-9b1820088f0b5c0aa817c362a59de301]: Textual amendment: [S. 9(8)](https://www.legislation.gov.uk/ukcm/2013/2/section/9/8) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-9fb4ebfcb6a5ea3951663fc40d17708f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/1) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-9fb4ebfcb6a5ea3951663fc40d17708f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/1) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-26dd136447a8e97644bf1603746e3427]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/2) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-26dd136447a8e97644bf1603746e3427]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/2) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-147bc503f5ccb0e77cbf5e346a5e2ac9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/3) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-147bc503f5ccb0e77cbf5e346a5e2ac9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/3) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-37cea4bac368e374beb9d62ec11b5dad]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/4) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-37cea4bac368e374beb9d62ec11b5dad]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/4) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-872592d3c7f1ce217ed6ce6e2ac8c980]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-872592d3c7f1ce217ed6ce6e2ac8c980]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-5cc4f4d054e65fdf54f3a16e3b20ff16]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/6) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-5cc4f4d054e65fdf54f3a16e3b20ff16]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/6) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-d56d1bbaaa1a9b21d84c924852272773]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/7) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-d56d1bbaaa1a9b21d84c924852272773]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/7) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-1134e7239786031af9403538e28de965]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/8) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-1134e7239786031af9403538e28de965]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/8) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-728b6bb2631e8d2b33e0d0a5876a8f3e]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/9) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-728b6bb2631e8d2b33e0d0a5876a8f3e]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/9) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-11c744159e043bf5b45110eb0c9bc487]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/10) in force at 1.7.2013 by [S.I. 2013/2](https://www.legislation.gov.uk/ukci/2013/2), [art. 2](https://www.legislation.gov.uk/ukci/2013/2/article/2)
+[^c-11c744159e043bf5b45110eb0c9bc487]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/10) in force at 1.7.2013 by [S.I. 2013/2](https://www.legislation.gov.uk/ukci/2013/2), [art. 2](https://www.legislation.gov.uk/ukci/2013/2/article/2)
 
-[^key-9efef83fdcb84e6fd859075d3fdb2c2a]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/11) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-9efef83fdcb84e6fd859075d3fdb2c2a]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/11) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-1fcb422ef2c0cd3e91b184b90b1f0df7]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/12) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-1fcb422ef2c0cd3e91b184b90b1f0df7]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/12) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-ac137cd6b465bb3c10ff4bd139407a6a]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/13) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-ac137cd6b465bb3c10ff4bd139407a6a]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/13) in force at 1.2.2014 by [S.I. 2014/1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)

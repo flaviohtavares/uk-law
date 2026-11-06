@@ -54,14 +54,14 @@ These Regulations may be cited as the Kimberley Process (Fees) Regulations 2014 
 
 (1) In these Regulations—
 
-- “**Department**” means the Foreign, Commonwealth and Development Office[^key-b97f4cb8ef65dd455a3b813c20459309], and
+- “**Department**” means the Foreign, Commonwealth and Development Office[^c-b97f4cb8ef65dd455a3b813c20459309], and
 - “**Principal Regulation**” means Council Regulation [(EC) No. 2368/2002](https://www.legislation.gov.uk/eur/2002/2368) adopted by the Council of the European Union on 20th December 2002 [^c22151621] as amended from time to time.
 
 (2) Unless the context otherwise requires, expressions used in the Regulations, and which are also used in the Principal Regulation, shall have the meaning they bear in that Regulation.
 
 ## 3. Prescription of fees
 
-The fee specified in the Schedule to these Regulations is prescribed as the fee payable in connection with the service provided by the Department in pursuance of [^key-7a8f41426f9c33410233cb8e0ad2cde5]... Article 12 of the Principal Regulation.
+The fee specified in the Schedule to these Regulations is prescribed as the fee payable in connection with the service provided by the Department in pursuance of [^c-7a8f41426f9c33410233cb8e0ad2cde5]... Article 12 of the Principal Regulation.
 
 ## 4. Payment of fees
 
@@ -95,7 +95,7 @@ Regulation 3
 
 | *Description of Service* | *Fee* |
 | --- | --- |
-| Issue of a United Kingdom certificate[^key-7648f3024b0cc75fcd29f628606d0089] accompanying a shipment | £37 per certificate |
+| Issue of a United Kingdom certificate[^c-7648f3024b0cc75fcd29f628606d0089] accompanying a shipment | £37 per certificate |
 
 *(This note is not part of the Regulations)*
 
@@ -109,12 +109,12 @@ A Regulatory Triage Assessment has been prepared in respect of these Regulations
 
 [^c22151611]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-b97f4cb8ef65dd455a3b813c20459309]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1684/regulation/2/1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/20)
+[^c-b97f4cb8ef65dd455a3b813c20459309]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1684/regulation/2/1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/20)
 
 [^c22151621]: Marginal citation: O.J. L. 358 31.12.2002, p.28.
 
-[^key-7a8f41426f9c33410233cb8e0ad2cde5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/1684/regulation/3) omitted (31.12.2020) by virtue of [The Kimberley Process Certification Scheme (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/844)](https://www.legislation.gov.uk/uksi/2019/844), [regs. 1](https://www.legislation.gov.uk/uksi/2019/844/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/844/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a8f41426f9c33410233cb8e0ad2cde5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/1684/regulation/3) omitted (31.12.2020) by virtue of [The Kimberley Process Certification Scheme (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/844)](https://www.legislation.gov.uk/uksi/2019/844), [regs. 1](https://www.legislation.gov.uk/uksi/2019/844/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/844/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22151631]: Marginal citation: [S.I. 2004/686](https://www.legislation.gov.uk/uksi/2004/686).
 
-[^key-7648f3024b0cc75fcd29f628606d0089]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1684/schedule) substituted (31.12.2020) by [The Kimberley Process Certification Scheme (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/844)](https://www.legislation.gov.uk/uksi/2019/844), [regs. 1](https://www.legislation.gov.uk/uksi/2019/844/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/844/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7648f3024b0cc75fcd29f628606d0089]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1684/schedule) substituted (31.12.2020) by [The Kimberley Process Certification Scheme (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/844)](https://www.legislation.gov.uk/uksi/2019/844), [regs. 1](https://www.legislation.gov.uk/uksi/2019/844/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/844/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Regulated companies: modifications to Part 1A[^key-efa3fbe75296a7d6980ffabcf13f2dc7]
+## 13. Regulated companies: modifications to Part 1A[^c-efa3fbe75296a7d6980ffabcf13f2dc7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 13H (regulated companies: modifications to Part 1A), in paragraphs (4
 
 ## Annotations
 
-[^key-efa3fbe75296a7d6980ffabcf13f2dc7]: Commencement: S. 13 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-efa3fbe75296a7d6980ffabcf13f2dc7]: Commencement: S. 13 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21B. Solicitor practising within the moratorium period which follows the making of a debt relief order[^key-73888843c2a3702b371f38c3195b1d8e]
+## 21B. Solicitor practising within the moratorium period which follows the making of a debt relief order[^c-73888843c2a3702b371f38c3195b1d8e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ he shall be guilty of an offence and shall be liable, on conviction on indictmen
 
 ## Annotations
 
-[^key-73888843c2a3702b371f38c3195b1d8e]: Textual amendment: [Art. 21B](https://www.legislation.gov.uk/nisi/1976/582/article/21B) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 7(7)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/7/7)
+[^c-73888843c2a3702b371f38c3195b1d8e]: Textual amendment: [Art. 21B](https://www.legislation.gov.uk/nisi/1976/582/article/21B) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 7(7)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/7/7)

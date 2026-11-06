@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Felling or lopping of trees and removal of hedgerows[^key-319cd467df4fc8f5c11df212621de4c0]
+## 36. Felling or lopping of trees and removal of hedgerows[^c-319cd467df4fc8f5c11df212621de4c0]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-319cd467df4fc8f5c11df212621de4c0]: Commencement: Art. 36 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-319cd467df4fc8f5c11df212621de4c0]: Commencement: Art. 36 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00072]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 

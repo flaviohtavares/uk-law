@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Revision of decisions[^key-8b27b68a52c9f14549591529d49e3a27][^c18822091]
+## 18. Revision of decisions[^c-8b27b68a52c9f14549591529d49e3a27][^c18822091]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ and regulations may prescribe the procedure by which a decision of the Departmen
 (1A)[^c20972251] This paragraph applies to—
 
 - (a) a decision of the Department under Article 13, 14 or 19;
-- (b)[^key-a7265efbd28d5210f0a5aeb069e9449f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a7265efbd28d5210f0a5aeb069e9449f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a decision of an appeal tribunal on a referral under Article 28D(1)(b).
 
 (1B) Where the Department revises a decision under Article 14(1)—
@@ -50,7 +50,7 @@ and regulations may prescribe the procedure by which a decision of the Departmen
 
 ## Annotations
 
-[^key-8b27b68a52c9f14549591529d49e3a27]: Modification: [Art. 18](https://www.legislation.gov.uk/nisi/1991/2628/article/18) applied by The Social Security and Child Support (Decisions and Appeals) Regulations ([S.R. 1999/162](https://www.legislation.gov.uk/nisr/1999/162)), reg. 3A(7)(8) (as added (27.10.2008) by [S.R. 2008/409](https://www.legislation.gov.uk/nisr/2008/409), [regs. 1](https://www.legislation.gov.uk/nisr/2008/409/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/409/regulation/4))
+[^c-8b27b68a52c9f14549591529d49e3a27]: Modification: [Art. 18](https://www.legislation.gov.uk/nisi/1991/2628/article/18) applied by The Social Security and Child Support (Decisions and Appeals) Regulations ([S.R. 1999/162](https://www.legislation.gov.uk/nisr/1999/162)), reg. 3A(7)(8) (as added (27.10.2008) by [S.R. 2008/409](https://www.legislation.gov.uk/nisr/2008/409), [regs. 1](https://www.legislation.gov.uk/nisr/2008/409/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/409/regulation/4))
 
 [^c18822091]: Textual amendment: [Art. 18](https://www.legislation.gov.uk/nisi/1991/2628/article/18) substituted by [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), [art. 40](https://www.legislation.gov.uk/nisi/1998/1506/article/40); [S.R. 1998/395](https://www.legislation.gov.uk/nisr/1998/395), [art. 2](https://www.legislation.gov.uk/nisr/1998/395/article/2) (subject to saving in [art. 3(3)](https://www.legislation.gov.uk/nisr/1998/395/article/3/3)) (which art. 3(3) is revoked by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 23](https://www.legislation.gov.uk/nia/2000/4/section/23))
 
@@ -58,4 +58,4 @@ and regulations may prescribe the procedure by which a decision of the Departmen
 
 [^c20972251]: Textual amendment: [Art. 18(1A)(1B)](https://www.legislation.gov.uk/nisi/1991/2628/article/18/1A/1B) inserted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 8(3)](https://www.legislation.gov.uk/nia/2000/4/section/8/3), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)
 
-[^key-a7265efbd28d5210f0a5aeb069e9449f]: Textual amendment: [Art. 18(1A)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/18/1A/b) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
+[^c-a7265efbd28d5210f0a5aeb069e9449f]: Textual amendment: [Art. 18(1A)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/18/1A/b) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)

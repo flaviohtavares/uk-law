@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187A. Deemed disposal under section 185: ATED-related gains and losses[^key-d9150fbe4606abcffdd1920ae5f93959]
+## 187A. Deemed disposal under section 185: ATED-related gains and losses[^c-d9150fbe4606abcffdd1920ae5f93959]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9150fbe4606abcffdd1920ae5f93959]: Textual amendment: S. 187A omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 66](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/66)
+[^c-d9150fbe4606abcffdd1920ae5f93959]: Textual amendment: S. 187A omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 66](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/66)

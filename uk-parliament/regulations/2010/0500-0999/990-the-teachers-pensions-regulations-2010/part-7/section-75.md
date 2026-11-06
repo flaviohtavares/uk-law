@@ -53,7 +53,7 @@ paragraph (2) does not apply to an AP election accepted before P became a person
 
 (9) The annual rate of the pension is the amount with which P is credited under Schedule 4 in respect of the AP election multiplied by the factor mentioned in paragraph (10) if that factor is greater than 1 and by the factor mentioned in paragraph (11).
 
-(10)[^key-f948de22835071ddabac8f00132844f9] The factor is—
+(10)[^c-f948de22835071ddabac8f00132844f9] The factor is—
 
 - (a) in relation to an election made under paragraph 2 of Schedule 4 on or before 22nd June 2010, (RPI1/RPI2)/X, where—
   - (i) RPI1 is the retail prices index for the penultimate month before the month which includes the day before the entitlement day,
@@ -79,7 +79,7 @@ paragraph (2) does not apply to an AP election accepted before P became a person
 
 (12) In this regulation—
 
-- “AP credited amount” means the amount with which P is credited under Schedule 4 in respect of the AP election;[^key-db221ac348d8c5fb621f02e305259d33]
+- “AP credited amount” means the amount with which P is credited under Schedule 4 in respect of the AP election;[^c-db221ac348d8c5fb621f02e305259d33]
 - “AP deemed date” means the day on which the additional pension is deemed to begin for the purposes of PIA 1971 (see section 8(2) of that Act);
 - “**AP election**” means an election accepted by the Secretary of State under Schedule 4 (contributions for additional pensions);
 - “**AP beneficiary**” has the same meaning as in Schedule 4;
@@ -87,6 +87,6 @@ paragraph (2) does not apply to an AP election accepted before P became a person
 
 ## Annotations
 
-[^key-f948de22835071ddabac8f00132844f9]: Textual amendment: [Reg. 75(10)](https://www.legislation.gov.uk/uksi/2010/990/regulation/75/10) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/7/2)
+[^c-f948de22835071ddabac8f00132844f9]: Textual amendment: [Reg. 75(10)](https://www.legislation.gov.uk/uksi/2010/990/regulation/75/10) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/7/2)
 
-[^key-db221ac348d8c5fb621f02e305259d33]: Textual amendment: Words in [reg. 75(12)](https://www.legislation.gov.uk/uksi/2010/990/regulation/75/12) inserted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/7/3)
+[^c-db221ac348d8c5fb621f02e305259d33]: Textual amendment: Words in [reg. 75(12)](https://www.legislation.gov.uk/uksi/2010/990/regulation/75/12) inserted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/7/3)

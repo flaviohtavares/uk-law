@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. First instance determinations: ill-health[^key-e37b26f90115f8297b39e0979983379c]
+## 56. First instance determinations: ill-health[^c-e37b26f90115f8297b39e0979983379c]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ and he must include a statement to that effect in his certificate.
 
 ## Annotations
 
-[^key-e37b26f90115f8297b39e0979983379c]: Commencement: Reg. 56 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-e37b26f90115f8297b39e0979983379c]: Commencement: Reg. 56 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

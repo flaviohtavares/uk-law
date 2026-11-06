@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Power to obtain information, documents and assistance: offence[^key-b97dbb12acd4a70d60004ba59edac070]
+## 47. Power to obtain information, documents and assistance: offence[^c-b97dbb12acd4a70d60004ba59edac070]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-b97dbb12acd4a70d60004ba59edac070]: Commencement: S. 47 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-b97dbb12acd4a70d60004ba59edac070]: Commencement: S. 47 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

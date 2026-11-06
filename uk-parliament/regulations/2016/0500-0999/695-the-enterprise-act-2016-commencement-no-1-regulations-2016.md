@@ -41,20 +41,20 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 44(5) and (6) of the Enterprise Act 2016[^f00001], makes the following Regulations.
 
-## 1. Citation and interpretation[^key-f449f8d2a0856f2551c1070d2e964595]
+## 1. Citation and interpretation[^c-f449f8d2a0856f2551c1070d2e964595]
 
 (1) These Regulations may be cited as the Enterprise Act 2016 (Commencement No. 1) Regulations 2016.
 
 (2) In these Regulations, “the Act” means the Enterprise Act 2016.
 
-## 2. Provisions coming into force on 4th July 2016[^key-dda808d6d727cb4b0fd0bccf74e5b3b2]
+## 2. Provisions coming into force on 4th July 2016[^c-dda808d6d727cb4b0fd0bccf74e5b3b2]
 
 The following provisions of the Act come into force on 4th July 2016—
 
 - (a) section 26 (apprenticeships: information sharing); and
 - (b) section 27 (apprenticeship funding).
 
-## 3. Provisions coming into force on 1st October 2016[^key-de0815c6ce639a6759ac7c793a59d1b0]
+## 3. Provisions coming into force on 1st October 2016[^c-de0815c6ce639a6759ac7c793a59d1b0]
 
 The following provisions of the Act come into force on 1st October 2016—
 
@@ -62,7 +62,7 @@ The following provisions of the Act come into force on 1st October 2016—
 - (b) section 19 (secondary legislation: duty to review); and
 - (c) section 21 (devolved Welsh matters).
 
-## 4. Provisions coming into force on the day after the day on which the Pubs Code etc. Regulations 2016 are made[^key-f476eab9e88d0a157e4ede290d5758cd]
+## 4. Provisions coming into force on the day after the day on which the Pubs Code etc. Regulations 2016 are made[^c-f476eab9e88d0a157e4ede290d5758cd]
 
 The following provisions of the Act come into force on the day after the day on which the Pubs Code etc. Regulations 2016[^f00002] are made—
 
@@ -99,12 +99,12 @@ Regulation 4 commences provisions in the Act on the day after the day on which t
 
 [^f00001]: Footnote: [2016 c.12](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-f449f8d2a0856f2551c1070d2e964595]: Commencement: Reg. 1 in force at made date
+[^c-f449f8d2a0856f2551c1070d2e964595]: Commencement: Reg. 1 in force at made date
 
-[^key-dda808d6d727cb4b0fd0bccf74e5b3b2]: Commencement: Reg. 2 in force at made date
+[^c-dda808d6d727cb4b0fd0bccf74e5b3b2]: Commencement: Reg. 2 in force at made date
 
-[^key-de0815c6ce639a6759ac7c793a59d1b0]: Commencement: Reg. 3 in force at made date
+[^c-de0815c6ce639a6759ac7c793a59d1b0]: Commencement: Reg. 3 in force at made date
 
-[^key-f476eab9e88d0a157e4ede290d5758cd]: Commencement: Reg. 4 in force at made date
+[^c-f476eab9e88d0a157e4ede290d5758cd]: Commencement: Reg. 4 in force at made date
 
 [^f00002]: Footnote: Draft regulations laid before Parliament on 13th June 2016.

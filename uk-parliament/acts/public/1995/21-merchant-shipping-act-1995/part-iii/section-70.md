@@ -31,8 +31,8 @@ summary: ''
 
 (4) In the application of this section to Scotland for the references to special damages there shall be substituted references to damage in respect of specific expense incurred or loss sustained.
 
-(5)[^key-e546e24c0e56a59e1a6e674614380ab2] Subsection (3) does not apply in respect of an agreement to reimburse repatriation costs.
+(5)[^c-e546e24c0e56a59e1a6e674614380ab2] Subsection (3) does not apply in respect of an agreement to reimburse repatriation costs.
 
 ## Annotations
 
-[^key-e546e24c0e56a59e1a6e674614380ab2]: Textual amendment: [S. 70(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/70/5) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/2/5)
+[^c-e546e24c0e56a59e1a6e674614380ab2]: Textual amendment: [S. 70(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/70/5) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/2/5)

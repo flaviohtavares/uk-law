@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Rules of conduct[^key-62d1a8dc933248ebd8aed5a24997b601]
+## 30. Rules of conduct[^c-62d1a8dc933248ebd8aed5a24997b601]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5dd504624a1144dd25ac506d20e3085b] Part 5 of FSMA 2000 (performance of regulated activities) is amended as follows.
+(1)[^c-5dd504624a1144dd25ac506d20e3085b] Part 5 of FSMA 2000 (performance of regulated activities) is amended as follows.
 
-(2)[^key-5dd504624a1144dd25ac506d20e3085b] Omit sections 64 and 65 (and the italic cross-heading preceding them).
+(2)[^c-5dd504624a1144dd25ac506d20e3085b] Omit sections 64 and 65 (and the italic cross-heading preceding them).
 
-(3)[^key-3bbfdb8fd689814942b672033ba85548] Before section 66 insert—
+(3)[^c-3bbfdb8fd689814942b672033ba85548] Before section 66 insert—
 
 > **Conduct of approved persons and others**
 >
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-62d1a8dc933248ebd8aed5a24997b601]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2013/33/section/30) in force at 25.7.2014 for specified purposes by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/c)
+[^c-62d1a8dc933248ebd8aed5a24997b601]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2013/33/section/30) in force at 25.7.2014 for specified purposes by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/c)
 
-[^key-5dd504624a1144dd25ac506d20e3085b]: Commencement: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/2) in force at 7.3.2016 in so far as not already in force by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (as amended by S.I. 2015/2055, art. 2(2) and with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-5dd504624a1144dd25ac506d20e3085b]: Commencement: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/2) in force at 7.3.2016 in so far as not already in force by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (as amended by S.I. 2015/2055, art. 2(2) and with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
 
-[^key-3bbfdb8fd689814942b672033ba85548]: Commencement: [S. 30(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/3) in force at 7.3.2017 for specified purposes by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/d) (as inserted by S.I. 2015/2055, art. 2(4) and with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-3bbfdb8fd689814942b672033ba85548]: Commencement: [S. 30(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/3) in force at 7.3.2017 for specified purposes by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/d) (as inserted by S.I. 2015/2055, art. 2(4) and with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

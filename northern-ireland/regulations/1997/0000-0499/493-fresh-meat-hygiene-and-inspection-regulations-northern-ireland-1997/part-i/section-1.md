@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-c754f99fec4fd43b379518fe3fd22bb6]
+## 1. Citation and commencement[^c-c754f99fec4fd43b379518fe3fd22bb6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Fresh Meat (Hygiene and Inspection) Regula
 
 ## Annotations
 
-[^key-c754f99fec4fd43b379518fe3fd22bb6]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-c754f99fec4fd43b379518fe3fd22bb6]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

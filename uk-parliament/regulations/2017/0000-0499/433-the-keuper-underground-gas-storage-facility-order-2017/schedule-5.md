@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — STREETS AND RIGHT OF WAY TO BE TEMPORARILY STOPPED UP[^key-0f0ca66a9b398031266b6d7e0ecb55e4]
+## SCHEDULE 5 — STREETS AND RIGHT OF WAY TO BE TEMPORARILY STOPPED UP[^c-0f0ca66a9b398031266b6d7e0ecb55e4]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ Article 13
 
 ## Annotations
 
-[^key-0f0ca66a9b398031266b6d7e0ecb55e4]: Commencement: Sch. 5 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-0f0ca66a9b398031266b6d7e0ecb55e4]: Commencement: Sch. 5 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

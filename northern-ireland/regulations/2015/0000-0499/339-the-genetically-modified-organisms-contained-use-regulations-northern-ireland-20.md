@@ -48,11 +48,11 @@ The Regulations give effect without modifications to proposals submitted to the 
 
 ## PART 1 — Interpretation and General
 
-### 1. Citation and commencement[^key-10a308b6f94bc5f5d3c3bdb6cdcdc495]
+### 1. Citation and commencement[^c-10a308b6f94bc5f5d3c3bdb6cdcdc495]
 
 These Regulations may be cited as the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 and shall come into operation on 23rd October 2015.
 
-### 2. Interpretation[^key-d86ff335d0de38a70f66375ed0367536]
+### 2. Interpretation[^c-d86ff335d0de38a70f66375ed0367536]
 
 (1) In these Regulations—
 
@@ -101,7 +101,7 @@ These Regulations may be cited as the Genetically Modified Organisms (Contained 
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00013] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 3. Application[^key-8d174f366a3cd2f52233a5291940e0d8]
+### 3. Application[^c-8d174f366a3cd2f52233a5291940e0d8]
 
 (1) These Regulations (except regulation 18) shall not apply to the genetic modification of organisms solely by any of the techniques referred to in Part 3 of Schedule 2 nor to any organisms so modified.
 
@@ -117,12 +117,12 @@ These Regulations may be cited as the Genetically Modified Organisms (Contained 
 
   and, in each case, that activity is conducted in accordance with any conditions or limitations attached to that consent;
 - (b) genetically modified organisms are cultured, stored, transported, destroyed, disposed of or used, where such organisms are, or are contained in—
-  - (i) a medicinal product for human or veterinary use marketed in accordance with Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726) of the European Parliament and the Council laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency[^f00017]; or[^key-8e97b4422f50131b36577ceb48248544]
-  - (ii) food or feed authorised in accordance with the provisions of Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and the Council on genetically modified food and feed[^f00018][^key-9ecb0e9842295d952b2e6867dfae8960]...
-  - (iii)[^key-fb9314f2eef84adc73205637979c92dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) a medicinal product for human or veterinary use marketed in accordance with Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726) of the European Parliament and the Council laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency[^f00017]; or[^c-8e97b4422f50131b36577ceb48248544]
+  - (ii) food or feed authorised in accordance with the provisions of Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and the Council on genetically modified food and feed[^f00018][^c-9ecb0e9842295d952b2e6867dfae8960]...
+  - (iii)[^c-fb9314f2eef84adc73205637979c92dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ; or[^key-474cff48e798aa9c02fa77a9970e3370]
-  - (iv) a medicinal product for human use marketed in accordance with the Human Medicines Regulations 2012 ; or[^key-46027962f368f08143d3cf4235a2f90b]
+    ; or[^c-474cff48e798aa9c02fa77a9970e3370]
+  - (iv) a medicinal product for human use marketed in accordance with the Human Medicines Regulations 2012 ; or[^c-46027962f368f08143d3cf4235a2f90b]
   - (v) a medicinal product for veterinary use marketed in accordance with the Veterinary Medicines Regulations 2013;
 - (c) genetically modified organisms are released or marketed in cases or circumstances in which—
   - (i) the consent of any of the following is required under section 111(1) of the Environmental Protection Act 1990—
@@ -137,7 +137,7 @@ These Regulations may be cited as the Genetically Modified Organisms (Contained 
 
 (5) In this regulation, “product” means a product consisting of, or containing, a genetically modified organism or a combination of genetically modified organisms.
 
-### 4. Meaning of “work” and “at work” and modification of the 1978 Order[^key-032975770646e06f0eba7c645aca662c]
+### 4. Meaning of “work” and “at work” and modification of the 1978 Order[^c-032975770646e06f0eba7c645aca662c]
 
 (1) For the purpose of these Regulations and Part I of the 1978 Order, the meaning of “work” shall be extended to include any contained use and the meaning of “at work” shall be extended accordingly.
 
@@ -159,19 +159,19 @@ These Regulations may be cited as the Genetically Modified Organisms (Contained 
 
 ## PART 2 — Risk Assessment and Notification of Contained Use
 
-### 5. Risk assessment of contained use involving micro-organisms[^key-e51b0915d5f41ee049d11bb43610e7f8]
+### 5. Risk assessment of contained use involving micro-organisms[^c-e51b0915d5f41ee049d11bb43610e7f8]
 
 (1) Before any contained use involving micro-organisms is commenced, a person responsible for the contained use shall ensure that a suitable and sufficient assessment of the risks to human health and the environment created by the contained use is carried out.
 
 (2) The assessment required by paragraph (1) shall take into account the matters set out in Part 1, and include the steps set out in Part 2, of Schedule 3.
 
-### 6. Risk assessment of contained use involving larger GMOs[^key-cea5a75770c1523199740a917eff3e82]
+### 6. Risk assessment of contained use involving larger GMOs[^c-cea5a75770c1523199740a917eff3e82]
 
 (1) Before any contained use involving larger GMOs is commenced, a person responsible for the contained use shall ensure that a suitable and sufficient assessment of the risks to human health created by the contained use is carried out.
 
 (2) The assessment required by paragraph (1) shall take into account the matters set out in Part 1, and include the steps set out in Part 2, of Schedule 4.
 
-### 7. Review and recording of risk assessments[^key-ee6501500c79ea461d35d88cdb0f00d1]
+### 7. Review and recording of risk assessments[^c-ee6501500c79ea461d35d88cdb0f00d1]
 
 (1) A person responsible for contained use shall ensure that the risk assessment is reviewed immediately where—
 
@@ -183,7 +183,7 @@ These Regulations may be cited as the Genetically Modified Organisms (Contained 
 - (a) keep a record of the risk assessment and any review of the risk assessment, for at least 10 years from the date the contained use stops; and
 - (b) make the record available to the competent authority when requested to do so.
 
-### 8. Advice from a genetic modification safety committee[^key-40f1e75f04cc53216a256ebccd34904b]
+### 8. Advice from a genetic modification safety committee[^c-40f1e75f04cc53216a256ebccd34904b]
 
 (1) Subject to paragraph (2), a person responsible for contained use shall obtain advice on a risk assessment from either—
 
@@ -194,7 +194,7 @@ with expertise in risk assessment relating to contained use.
 
 (2) Where the risk assessment indicates that the contained use is classified as class 2 or above the advice shall be obtained from a genetic modification safety committee.
 
-### 9. Notification of premises to be used for contained use[^key-70c9fe2b6aa2ed1c92f2a470e7689e9e]
+### 9. Notification of premises to be used for contained use[^c-70c9fe2b6aa2ed1c92f2a470e7689e9e]
 
 (1) A user shall not use premises for contained use unless the premises have been notified to the competent authority in accordance with this regulation.
 
@@ -209,7 +209,7 @@ with expertise in risk assessment relating to contained use.
 
 (5) The notifier shall nominate one address which is to be the principal address for the purposes of a notification under paragraph (4).
 
-### 10. Notification of class 2 contained use[^key-62d6fe54c66ac66dedccd73fd6458232]
+### 10. Notification of class 2 contained use[^c-62d6fe54c66ac66dedccd73fd6458232]
 
 (1) A user shall not undertake a contained use involving micro-organisms classified as class 2 unless the provisions of this regulation have been complied with.
 
@@ -233,7 +233,7 @@ a user may undertake the class 2 contained use if the notifier has received the 
 
 (7) The competent authority shall make a decision and, if they agree, provide the written agreement requested under paragraph (6), within 45 days of the date on which the acknowledgement of receipt was sent to the notifier.
 
-### 11. Notification of class 3 or class 4 contained use[^key-46f8d93ed028ce3bb27a9732bb391346]
+### 11. Notification of class 3 or class 4 contained use[^c-46f8d93ed028ce3bb27a9732bb391346]
 
 (1) A user shall not undertake a contained use involving micro-organisms classified as class 3 or class 4 unless written consent for that contained use has been granted by the competent authority.
 
@@ -251,7 +251,7 @@ a user may undertake the class 2 contained use if the notifier has received the 
 
 (8) A consent granted under this regulation may be granted subject to conditions.
 
-### 12. Notification of contained use involving larger GMOs[^key-1f559dfd1c373438219b6feffa13bdb9]
+### 12. Notification of contained use involving larger GMOs[^c-1f559dfd1c373438219b6feffa13bdb9]
 
 (1) A user shall not undertake a contained use involving larger GMOs unless the provisions of this regulation have been complied with.
 
@@ -266,7 +266,7 @@ a user may undertake the class 2 contained use if the notifier has received the 
 
 (5) This regulation shall not apply to a contained use which results in a larger GMO that poses no greater risk to humans than its unmodified parental organism.
 
-### 13. Single notifications for connected programmes of work[^key-7f8b075de2e08b3e9189b4609f3e46cd]
+### 13. Single notifications for connected programmes of work[^c-7f8b075de2e08b3e9189b4609f3e46cd]
 
 (1) The competent authority may accept a single notification submitted under regulation 10(2), 11(2) or 12(2) in respect of a connected programme of work undertaken at—
 
@@ -279,7 +279,7 @@ a user may undertake the class 2 contained use if the notifier has received the 
 
 - “connected programme of work” means a series of activities involving contained use which form a coherent and integrated programme.
 
-### 14. Changes of circumstances relating to notifications[^key-e2373f7e541bc8b3acc5f7d5a3ebb43f]
+### 14. Changes of circumstances relating to notifications[^c-e2373f7e541bc8b3acc5f7d5a3ebb43f]
 
 (1) Full details in writing shall be sent immediately to the competent authority of—
 
@@ -313,7 +313,7 @@ the provision of that information will be treated as notification of those premi
 - “notifier” means the person who sends the details required by paragraph (1) to the competent authority; and
 - “original notifier” means the person who submitted the notification of the premises under regulation 9(2) or the contained use under regulation 10(2), 11(2) or 12(2).
 
-### 15. Duty to notify significant changes affecting risks[^key-532f907338e02f40db4d9a4ccaa10ca4]
+### 15. Duty to notify significant changes affecting risks[^c-532f907338e02f40db4d9a4ccaa10ca4]
 
 (1) Where, after submitting a notification, a notifier—
 
@@ -324,7 +324,7 @@ the notifier shall immediately send to the competent authority full details in w
 
 (2) As long as the change or new information does not affect the class of the contained use, the notifier need not submit a further notification under regulation 10(2), 11(2) or 12(2), and the change or new information will be treated as a modification of the original notification.
 
-### 16. Action of notifier and user on receipt of request for additional information[^key-9f31c4106c44fcba820ff8714b9906e6]
+### 16. Action of notifier and user on receipt of request for additional information[^c-9f31c4106c44fcba820ff8714b9906e6]
 
 (1) If additional information relating to a notification is requested by the Executive under regulation 24(1), a user shall not commence the contained use that is the subject of the notification until the competent authority has given its approval in writing.
 
@@ -334,7 +334,7 @@ the notifier shall immediately send to the competent authority full details in w
 
 (4) Subject to any instructions, the notifier or user may continue the contained use only to the extent necessary to store or destroy all genetically modified organisms resulting from the contained use.
 
-### 17. Withdrawal of notification[^key-3aca5aacd7c17fcb18ed94eef071ca33]
+### 17. Withdrawal of notification[^c-3aca5aacd7c17fcb18ed94eef071ca33]
 
 A notifier may withdraw a notification by giving written notice to the competent authority, provided that the contained use to which the notification related has not commenced.
 
@@ -342,7 +342,7 @@ A notifier may withdraw a notification by giving written notice to the competent
 
 ### Conduct of Contained Use
 
-#### 18. Principles of occupational and environmental safety[^key-9ec8030097434c15e7d8db0178c043ff]
+#### 18. Principles of occupational and environmental safety[^c-9ec8030097434c15e7d8db0178c043ff]
 
 (1) A user who undertakes a contained use involving micro-organisms shall ensure that the risks to human health and the environment arising from the contained use are reduced to the lowest level that is reasonably practicable.
 
@@ -352,7 +352,7 @@ A notifier may withdraw a notification by giving written notice to the competent
 
 (4) For contained use involving larger GMOs, the general principles set out in Schedule 7 shall be applied to the extent that they are appropriate.
 
-#### 19. Containment and control measures for contained use involving micro-organisms[^key-87dc139f4120fcf7c516e259c3042ef7]
+#### 19. Containment and control measures for contained use involving micro-organisms[^c-87dc139f4120fcf7c516e259c3042ef7]
 
 (1) A user who undertakes a contained use involving micro-organisms shall apply the containment measures set out in the applicable table in Part 2 of Schedule 8, where and to the extent required in the column of the appropriate containment level.
 
@@ -370,7 +370,7 @@ A notifier may withdraw a notification by giving written notice to the competent
   - (ii) the class assigned to the contained use in the risk assessment is no longer appropriate; or
   - (iii) in the light of new scientific or technical knowledge, the risk assessment is no longer valid.
 
-#### 20. Containment and control measures for contained use involving larger GMOs[^key-6bb201b6b79cf832b35fadf702f82b1b]
+#### 20. Containment and control measures for contained use involving larger GMOs[^c-6bb201b6b79cf832b35fadf702f82b1b]
 
 (1) A user who undertakes a contained use involving larger GMOs shall apply the containment measures selected in the risk assessment for the contained use.
 
@@ -381,7 +381,7 @@ A notifier may withdraw a notification by giving written notice to the competent
   - (i) the containment measures are no longer adequate; or
   - (ii) in the light of new scientific or technical knowledge, the risk assessment is no longer valid.
 
-#### 21. Emergency plans[^key-a902c78895b0f8815d0027c24d08dfd3]
+#### 21. Emergency plans[^c-a902c78895b0f8815d0027c24d08dfd3]
 
 (1) Where an assessment carried out under regulation 5(1) shows that, as a result of any reasonably foreseeable accident—
 
@@ -402,7 +402,7 @@ a person responsible for the contained use shall ensure that, before the contain
 - (a) inform the emergency services, and any body or authority liable to be affected by an accident to which the plan relates, of the contents of the plan and of any relevant revisions; and
 - (b) make information about the plan and any such revisions publicly available.
 
-#### 22. Information relating to accidents[^key-59e44757adc4ed1415a49eecd63bdbdc]
+#### 22. Information relating to accidents[^c-59e44757adc4ed1415a49eecd63bdbdc]
 
 If an accident occurs, a person responsible for the contained use shall immediately inform the competent authority of the accident and shall provide the following information—
 
@@ -413,7 +413,7 @@ If an accident occurs, a person responsible for the contained use shall immediat
 
 ## PART 4 — Duties and Powers of the Competent Authority
 
-### 23. Duties of competent authority on receiving a notification[^key-a998597190f2601804ad86309dd76243]
+### 23. Duties of competent authority on receiving a notification[^c-a998597190f2601804ad86309dd76243]
 
 The competent authority shall examine a notification and accompanying documentation submitted under regulation 9(2), 10(2), 11(2), or 12(2) for—
 
@@ -424,7 +424,7 @@ The competent authority shall examine a notification and accompanying documentat
 - (e) in the case of a notification submitted under regulation 10(2) or 11(2), the correctness of the class assigned to the contained use; and
 - (f) the inclusion of an emergency plan where the risk assessment indicates that such a plan is necessary.
 
-### 24. Requests for additional information[^key-277ed180cf355dce9f9b0bba7253b2d4]
+### 24. Requests for additional information[^c-277ed180cf355dce9f9b0bba7253b2d4]
 
 (1) For the purpose of carrying out an examination of a notification in accordance with regulation 23 the Executive may, on behalf of the competent authority, request the notifier to provide such additional information relating to the notification as it may specify.
 
@@ -443,7 +443,7 @@ The competent authority shall examine a notification and accompanying documentat
   - (i) contained use has not commenced at the premises to which a notification made under regulation 9(2) relates; or
   - (ii) the contained use referred to in the notification has not commenced.
 
-### 25. Powers of competent authority in relation to contained use[^key-7818ed6b9d4d55a18b4d7f31c3d07e54]
+### 25. Powers of competent authority in relation to contained use[^c-7818ed6b9d4d55a18b4d7f31c3d07e54]
 
 The competent authority may at any time by notice in writing to a notifier—
 
@@ -453,7 +453,7 @@ The competent authority may at any time by notice in writing to a notifier—
 
 and the notifier and any user undertaking the contained use shall comply with that notice.
 
-### 26. Exemption certificates[^key-df0bef024d9519ac3d3c28b2d916d0a7]
+### 26. Exemption certificates[^c-df0bef024d9519ac3d3c28b2d916d0a7]
 
 (1) The competent authority may, by a certificate in writing, exempt—
 
@@ -476,16 +476,16 @@ it is satisfied about the matters referred to in paragraph (4).
 - (a) that the health or safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it; and
 - (b) where the exemption relates to a contained use involving a micro-organism, that the environment will not be prejudiced in consequence of the exemption.
 
-### 27. Duties of competent authority on receipt of information about accidents[^key-02deb78f95dbb9c81c19a21f4f16069d]
+### 27. Duties of competent authority on receipt of information about accidents[^c-02deb78f95dbb9c81c19a21f4f16069d]
 
 Where the competent authority is informed of an accident in accordance with regulation 22, it shall—
 
-- (a) ensure that any necessary measures are taken; and[^key-f23352a898f9ca8ade038fe331bb53a8]
-- (b)[^key-9d6c17bebfcace9cc02072d05a79d3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) collect, where possible, the information necessary for a full analysis of the accident and, where appropriate, make recommendations to avoid similar accidents in the future and to limit their effects[^key-1380f9ac80dffd269369640a07a057fc]...
-- (d)[^key-12003376f5acb41f9da81bffaa35263d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) ensure that any necessary measures are taken; and[^c-f23352a898f9ca8ade038fe331bb53a8]
+- (b)[^c-9d6c17bebfcace9cc02072d05a79d3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) collect, where possible, the information necessary for a full analysis of the accident and, where appropriate, make recommendations to avoid similar accidents in the future and to limit their effects[^c-1380f9ac80dffd269369640a07a057fc]...
+- (d)[^c-12003376f5acb41f9da81bffaa35263d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Register of notifications[^key-c89e0da30655146d3990a4c7bce20fef]
+### 28. Register of notifications[^c-c89e0da30655146d3990a4c7bce20fef]
 
 (1) This regulation is subject to regulation 29.
 
@@ -529,7 +529,7 @@ Where the competent authority is informed of an accident in accordance with regu
 
 (8) A copy of the register shall be made available for inspection to members of the public by the Executive, by such means as it considers appropriate, which may include publication on its website.
 
-### 29. Information not to be included in the register[^key-4b9aacc8b6fef6d5edbfd14ef2fb6290]
+### 29. Information not to be included in the register[^c-4b9aacc8b6fef6d5edbfd14ef2fb6290]
 
 (1) No information shall be included in the register if and so long as, in the opinion of the Department of Enterprise, Trade and Investment, the inclusion in the register of that information, or information of that description, would be a breach of confidentiality.
 
@@ -550,7 +550,7 @@ Where the competent authority is informed of an accident in accordance with regu
 
 ## PART 5 — Miscellaneous and General
 
-### 30. Enforcement and civil liability[^key-cc968e70f8cac26c68c4bf062a78ec8c]
+### 30. Enforcement and civil liability[^c-cc968e70f8cac26c68c4bf062a78ec8c]
 
 (1) This regulation applies to the extent that any part of these Regulations are not health and safety regulations within the meaning of Article 17 of the 1978 Order.
 
@@ -565,7 +565,7 @@ Where the competent authority is informed of an accident in accordance with regu
 
 (5) Despite regulation 4 of the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^f00022], the enforcing authority for these Regulations shall be the Executive.
 
-### 31. Appeals[^key-3af23182a822d1e30867e40d11217c8c]
+### 31. Appeals[^c-3af23182a822d1e30867e40d11217c8c]
 
 (1) A person responsible for contained use who is aggrieved by any of the following may appeal to the Department of Enterprise, Trade and Investment—
 
@@ -592,11 +592,11 @@ Where the competent authority is informed of an accident in accordance with regu
 
 (4) The period of time beginning with the date on which an appeal is lodged and ending with the date on which that appeal is determined will not be taken into account in calculating the period of days referred to in regulation 10(4), 10(7), 11(4), 11(5) or 12(4).
 
-### 32. Competent authority address[^key-a5e734d6f02cc7081f17b77e7bfe12d2]
+### 32. Competent authority address[^c-a5e734d6f02cc7081f17b77e7bfe12d2]
 
 Anything required to be submitted or sent to the competent authority under these Regulations shall be sent to the Executive at the address published for this purpose on its website which may be, or include, an address for submission by electronic means.
 
-### 33. Saving and transitional provisions[^key-c54e6825f0a211cafc2b801dd84bc0df]
+### 33. Saving and transitional provisions[^c-c54e6825f0a211cafc2b801dd84bc0df]
 
 (1) Subject to paragraph (3) the following continue to have effect and will be deemed to have been made, granted or imposed under these Regulations—
 
@@ -633,7 +633,7 @@ Anything required to be submitted or sent to the competent authority under these
 
 - “specified period” means the 90 days beginning with the date on which these Regulations come into operation.
 
-### 34. Consequential Amendments[^key-5efb8bc3c5104fb0d5ab45c8e7db983a]
+### 34. Consequential Amendments[^c-5efb8bc3c5104fb0d5ab45c8e7db983a]
 
 (1) The Health and Safety (Fees) Regulations (Northern Ireland) 2012[^f00024] shall be amended as follows.
 
@@ -668,11 +668,11 @@ Anything required to be submitted or sent to the competent authority under these
   - (x) for paragraph (j) substitute “Notification of a change or new information affecting risks under regulation 15(1)”;
   - (xi) in paragraph (k) for “18(2)” substitute “19(2)” and for “9(1), 10(1), 11(1) or 12(1)” substitute “9(2), 10(2), 11(2) or 12(2)”.
 
-**35.**[^key-2ee85566001bba3c1f11500d848c025b] (1) The REACH Enforcement Regulations 2008[^f00025] shall be amended as follows.
+**35.**[^c-2ee85566001bba3c1f11500d848c025b] (1) The REACH Enforcement Regulations 2008[^f00025] shall be amended as follows.
 
 (2) In Schedule 3, Part 3, paragraph 1(j) for the words “the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001” substitute “the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015”.
 
-### 36. Revocations[^key-80d12474043ed3dda42ea1b5706e1f9d]
+### 36. Revocations[^c-80d12474043ed3dda42ea1b5706e1f9d]
 
 The following shall be revoked—
 
@@ -686,7 +686,7 @@ J Kerr
 
 A senior officer of the Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — Classes of contained use[^key-42a4c2ef57aabf6d127378ec5760a1f1]
+## SCHEDULE 1 — Classes of contained use[^c-42a4c2ef57aabf6d127378ec5760a1f1]
 
 Regulation 2(1)
 
@@ -703,7 +703,7 @@ Regulation 2(1) and 3(1)
 
 ### PART 1 — Techniques constituting genetic modification
 
-**1.**[^key-9b58e16a00d943caca2c18a1824795a5] The techniques which constitute genetic modification referred to in sub-paragraph (a) of the definition of “genetic modification” in regulation 2(1) are—
+**1.**[^c-9b58e16a00d943caca2c18a1824795a5] The techniques which constitute genetic modification referred to in sub-paragraph (a) of the definition of “genetic modification” in regulation 2(1) are—
 
 - (a) recombinant nucleic acid techniques involving the formation of new combinations of genetic material by the insertion of nucleic acid molecules, produced by whatever means outside an organism, into any virus, bacterial plasmid or other vector system and their incorporation into a host organism in which they do not naturally occur but in which they are capable of continued propagation;
 - (b) techniques involving the direct introduction into an organism of heritable genetic material prepared outside the organism, including micro-injection, macro-injection and micro-encapsulation;
@@ -711,7 +711,7 @@ Regulation 2(1) and 3(1)
 
 ### PART 2 — Techniques which are not considered to result in genetic modification
 
-**2.**[^key-7bc25fa3a71deedd4621990ab4d437ab] The following techniques are not considered to result in genetic modification provided that they do not involve the use of recombinant nucleic acid molecules or of genetically modified organisms made by techniques other than those listed in Part 3—
+**2.**[^c-7bc25fa3a71deedd4621990ab4d437ab] The following techniques are not considered to result in genetic modification provided that they do not involve the use of recombinant nucleic acid molecules or of genetically modified organisms made by techniques other than those listed in Part 3—
 
 - (a) in vitro fertilisation;
 - (b) natural processes including conjugation, transduction or transformation;
@@ -719,14 +719,14 @@ Regulation 2(1) and 3(1)
 
 ### PART 3 — Techniques to which these Regulations do not apply
 
-**3.**[^key-76f7f46c3ed14c435e972cc28c3b85c0] These Regulations (except regulation 18) shall not apply to the following techniques of genetic modification, provided that they do not involve the use of recombinant nucleic acid molecules or of genetically modified organisms other than those made by one or more of the following techniques—
+**3.**[^c-76f7f46c3ed14c435e972cc28c3b85c0] These Regulations (except regulation 18) shall not apply to the following techniques of genetic modification, provided that they do not involve the use of recombinant nucleic acid molecules or of genetically modified organisms other than those made by one or more of the following techniques—
 
 - (a) mutagenesis;
 - (b) cell fusion (including protoplast fusion) of prokaryotic species which can exchange genetic material through homologous recombination;
 - (c) cell fusion (including protoplast fusion) of cells of any eukaryotic species, including production of hybridomas and plant cell fusions;
 - (d) self-cloning, where the resulting organism is unlikely to cause disease or harm to humans, animals or plants.
 
-**4.**[^key-60ddbb43efdddd97b1ad2554c90cb489] In paragraph 3—
+**4.**[^c-60ddbb43efdddd97b1ad2554c90cb489] In paragraph 3—
 
 - (a) “self-cloning” means the removal of nucleic acid sequences from a cell of an organism which may or may not be followed by reinsertion of all or part of that nucleic acid (or a synthetic equivalent), whether or not altered by enzymic or mechanical processes, into cells of the same species or into cells of phylogenetically closely related species which can exchange genetic material by homologous recombination; and
 - (b) self-cloning may include the use of recombinant vectors, with an extended history of safe use in the particular organism, to manipulate and reinsert the nucleic acid sequences, but the vectors shall not consist of any genetic elements other than those designed for vector structure, vector replication, vector maintenance or marker genes.
@@ -737,7 +737,7 @@ Regulations 2(3), 3(4) and 5
 
 ### PART 1 — Matters to be taken into account in carrying out an assessment for the purposes of regulation 5
 
-**1.**[^key-26f003c9170dbb40cc85d2a444be9808] The following matters shall be taken into account in carrying out an assessment for the purposes of regulation 5—
+**1.**[^c-26f003c9170dbb40cc85d2a444be9808] The following matters shall be taken into account in carrying out an assessment for the purposes of regulation 5—
 
 - (a) any potentially harmful effects, in particular those associated with—
   - (i) the recipient micro-organism;
@@ -750,7 +750,7 @@ Regulations 2(3), 3(4) and 5
 - (d) the likelihood of the potentially harmful effects being realised;
 - (e) the disposal of waste and effluents.
 
-**2.**[^key-45001aa5e181b312e5c4cfabd554f2b2] In paragraph 1, “potentially harmful effects” includes—
+**2.**[^c-45001aa5e181b312e5c4cfabd554f2b2] In paragraph 1, “potentially harmful effects” includes—
 
 - (a) disease to humans including allergenic or toxic effects;
 - (b) disease to animals or plants;
@@ -761,7 +761,7 @@ Regulations 2(3), 3(4) and 5
 
 ### PART 2 — Steps to be included when carrying out an assessment for the purposes of regulation 5
 
-**3.**[^key-bd5d063a384c96fee3c5cdfc64f2cf0c] An assessment carried out for the purposes of regulation 5 shall include—
+**3.**[^c-bd5d063a384c96fee3c5cdfc64f2cf0c] An assessment carried out for the purposes of regulation 5 shall include—
 
 - (a) identification of any harmful properties of the recipient and, where appropriate, the donor micro-organism;
 - (b) identification of any harmful properties associated with the vector or inserted material, including any alteration in the existing properties of the recipient;
@@ -770,7 +770,7 @@ Regulations 2(3), 3(4) and 5
   - (ii) the nature of the vector and the insert is such that they do not endow the genetically modified micro-organism with a phenotype likely to cause disease to humans, animals or plants, or likely to cause deleterious effects on the environment; and
   - (iii) the genetically modified micro-organism is unlikely to cause disease to humans, animals or plants and is unlikely to have deleterious effects on the environment;
 - (d) consideration of relevant EU legislation, including Directive [(EC) No 2000/54](https://www.legislation.gov.uk/european/regulation/1954/2000) of the European Parliament and the Council on the protection of workers from risks related to exposure to biological agents at work[^f00028], other classification schemes referring to plant and animal pathogens, and other international and national classification schemes for genetically modified micro-organisms;
-- (dd)[^key-760d40a782ec51829c9febb130e8d50c] consideration of relevant legislation, including legislation on the protection of workers from risks related to exposure to biological agents at work, other classification schemes referring to plant and animal pathogens, and other international and national classification schemes for genetically modified micro-organisms;
+- (dd)[^c-760d40a782ec51829c9febb130e8d50c] consideration of relevant legislation, including legislation on the protection of workers from risks related to exposure to biological agents at work, other classification schemes referring to plant and animal pathogens, and other international and national classification schemes for genetically modified micro-organisms;
 - (e) identification of the provisional level of risk associated with the genetically modified micro-organism;
 - (f) consideration of—
   - (i) the characteristics of the environment likely to be exposed;
@@ -782,13 +782,13 @@ Regulations 2(3), 3(4) and 5
 - (j) classification of the contained use in the class of the same number as that of the appropriate containment level;
 - (k) review and reconsideration of that classification in the light of the completed risk assessment.
 
-**4.**[^key-7cf7815f761c4536451a07d93a3e8855] To assign a contained use to the appropriate containment level for the purposes of paragraph 3(i), the person carrying out the risk assessment shall—
+**4.**[^c-7cf7815f761c4536451a07d93a3e8855] To assign a contained use to the appropriate containment level for the purposes of paragraph 3(i), the person carrying out the risk assessment shall—
 
 - (a) first identify for each selected containment measure the column in the applicable table in Schedule 8 having the lowest number in which that selected containment measure is shown as being required, regardless of whether or not such requirement is subject to any qualification;
 - (b) then select the highest number of all the columns identified in accordance with sub-paragraph (a); and
 - (c) then assign the contained use to the containment level of that highest number.
 
-**5.**[^key-77ee17ebaf18ec34ac1d9b39eafa739e] In paragraph 4, “selected containment measure” means an appropriate containment measure selected in accordance with paragraph 3(h).
+**5.**[^c-77ee17ebaf18ec34ac1d9b39eafa739e] In paragraph 4, “selected containment measure” means an appropriate containment measure selected in accordance with paragraph 3(h).
 
 ## SCHEDULE 4
 
@@ -796,7 +796,7 @@ Regulation 6
 
 ### PART 1 — Matters to be taken into account in carrying out an assessment for the purposes of regulation 6
 
-**1.**[^key-871a21598ac03fff8bc63a4ed799b92a] The following matters shall be taken into account in carrying out an assessment for the purposes of regulation 6—
+**1.**[^c-871a21598ac03fff8bc63a4ed799b92a] The following matters shall be taken into account in carrying out an assessment for the purposes of regulation 6—
 
 - (a) any potentially harmful effects, in particular those associated with—
   - (i) the recipient organism;
@@ -808,7 +808,7 @@ Regulation 6
 - (c) the severity of the potentially harmful effects;
 - (d) the likelihood of the potentially harmful effects being realised.
 
-**2.**[^key-26ae17edd7c5833006102fde25796620] In paragraph 1, “potentially harmful effects” includes—
+**2.**[^c-26ae17edd7c5833006102fde25796620] In paragraph 1, “potentially harmful effects” includes—
 
 - (a) disease to humans including allergenic or toxic effects;
 - (b) acting as a human disease vector or reservoir;
@@ -817,7 +817,7 @@ Regulation 6
 
 ### PART 2 — Steps to be included when carrying out an assessment for the purposes of regulation 6
 
-**3.**[^key-b7cf444d2d3eefb947fde976cc6343f4] An assessment carried out for the purposes of regulation 6 shall include—
+**3.**[^c-b7cf444d2d3eefb947fde976cc6343f4] An assessment carried out for the purposes of regulation 6 shall include—
 
 - (a) identification of any harmful properties of the recipient and, where appropriate, the donor organism;
 - (b) identification of any harmful properties associated with the vector or inserted material, including any alteration in the existing properties of the recipient;
@@ -828,11 +828,11 @@ Regulation 6
 - (e) adjustment of the level of risk in the light of the matters referred to in sub-paragraph (d);
 - (f) review and reconsideration of the containment and other protective measures in the light of the steps required by sub-paragraphs (a) to (e).
 
-## SCHEDULE 5 — Information required for a notification under regulation 9(2)[^key-d53be0c0efa4f33be9e4bc9a1d6fcf1d]
+## SCHEDULE 5 — Information required for a notification under regulation 9(2)[^c-d53be0c0efa4f33be9e4bc9a1d6fcf1d]
 
 Regulations 9(2), 14(1) and 28(3)
 
-[^key-d53be0c0efa4f33be9e4bc9a1d6fcf1d]A notification required for the purposes of regulation 9(2) shall contain the following information—
+[^c-d53be0c0efa4f33be9e4bc9a1d6fcf1d]A notification required for the purposes of regulation 9(2) shall contain the following information—
 
 - (a) the name, address and telephone number and any fax number and any e-mail address of the notifier;
 - (b) the name of the person with specific responsibility for the supervision and safety of contained use;
@@ -850,11 +850,11 @@ Regulations 9(2), 14(1) and 28(3)
   - (i) a copy of the risk assessment; and
   - (ii) confirmation that the emergency services, and any body or authority liable to be affected by an accident to which any emergency plan relates, will be informed of the contents of the emergency plan and of any relevant revisions.
 
-## SCHEDULE 6 — Information required for a notification under regulations 10(2), 11(2) or 12(2)[^key-67563cb1a736fcbe5645a3bac34abdff]
+## SCHEDULE 6 — Information required for a notification under regulations 10(2), 11(2) or 12(2)[^c-67563cb1a736fcbe5645a3bac34abdff]
 
 Regulations 10(2), 11(2), 12(2), 14(1), 28(3) and 33(6)
 
-[^key-67563cb1a736fcbe5645a3bac34abdff]A notification required for the purposes of regulation 10(2), 11(2) or 12(2) shall contain the following information except where it is required only for a specified regulation—
+[^c-67563cb1a736fcbe5645a3bac34abdff]A notification required for the purposes of regulation 10(2), 11(2) or 12(2) shall contain the following information except where it is required only for a specified regulation—
 
 - (a) the name, address and telephone number and any fax number and any e-mail address of the notifier;
 - (b) any centre number allocated by the competent authority in respect of the premises at which the contained use is to be undertaken and the date of the notification required by regulation 9(2) relating to those premises;
@@ -887,11 +887,11 @@ Regulations 10(2), 11(2), 12(2), 14(1), 28(3) and 33(6)
 - (r) for regulation 11(2) a description of the parts of the installation;
 - (s) for regulation 11(2) whether the genetically modified organism is likely to be subject to transboundary movement.
 
-## SCHEDULE 7 — General principles of good microbiological practice and of good occupational safety and hygiene[^key-c508504dcae4bcdf81f5a870e85764bb]
+## SCHEDULE 7 — General principles of good microbiological practice and of good occupational safety and hygiene[^c-c508504dcae4bcdf81f5a870e85764bb]
 
 Regulation 18
 
-[^key-c508504dcae4bcdf81f5a870e85764bb]The general principles of good microbiological practice and of good occupational safety and hygiene are as follows—
+[^c-c508504dcae4bcdf81f5a870e85764bb]The general principles of good microbiological practice and of good occupational safety and hygiene are as follows—
 
 - (a) keeping workplace and environmental exposure to any genetically modified micro-organism to the lowest reasonably practicable level;
 - (b) exercising engineering control measures at source and supplementing these with appropriate personal protective clothing and equipment where necessary;
@@ -915,26 +915,26 @@ Regulations 2(2) and 19(1)
 
 ### PART 1 — General
 
-**1.**[^key-9edca79787762bcf927a6c65b7c5072e] In this Schedule—
+**1.**[^c-9edca79787762bcf927a6c65b7c5072e] In this Schedule—
 
 - “GMMs” means genetically modified micro-organisms;
 - “HEPA” means High Efficiency Particulate Air;
 - “inactivation” means the complete or partial destruction of GMMs so as to ensure that any contact between the GMMs and humans or the environment is limited to an extent commensurate with the risks identified in the risk assessment and to provide a high level of protection for humans and the environment;
 - “plant growth facilities” means a structure, whether permanent or impermanent, designed and used principally for growing plants in a controlled and protected environment.
 
-**2.**[^key-cc5a768bb788c8dc0dd36d39ccb7bb5d] For the purposes of this Schedule where in the final column of Table 1b or 1c, a measure is specified as—
+**2.**[^c-cc5a768bb788c8dc0dd36d39ccb7bb5d] For the purposes of this Schedule where in the final column of Table 1b or 1c, a measure is specified as—
 
 - (a) a modification, it is to be read in substitution for the relevant measure in Table 1a;
 - (b) additional, it is to be read as an addition to the measures in Table 1a, and any measure which has been substituted for a measure in Table 1a, in accordance with paragraph 2(a).
 
-**3.**[^key-43d7aaf9c6e336b926ce02063386b107] For the purposes of this Schedule—
+**3.**[^c-43d7aaf9c6e336b926ce02063386b107] For the purposes of this Schedule—
 
 - (a) Table 1a describes containment measures applicable to contained use involving micro-organisms in laboratories;
 - (b) Table 1a, read with Table 1b, describes containment measures applicable to contained use involving micro-organisms in plant growth facilities;
 - (c) Table 1a, read with Table 1c, describes containment measures applicable to contained use involving micro-organisms in animal units;
 - (d) Table 2 describes containment measures applicable to contained use involving micro-organisms in premises other than those referred to in Tables 1a, 1b and 1c.
 
-### PART 2 — Containment measures[^key-90bdbd10835c4379fee9807380c9aeab]
+### PART 2 — Containment measures[^c-90bdbd10835c4379fee9807380c9aeab]
 
 Table 1a
 
@@ -1138,9 +1138,9 @@ EXPLANATORY NOTE
 
 [^f00008]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18 and the Health Protection Agency Act [2004 (c.17)](https://www.legislation.gov.uk/ukpga/2004/17), section 11 and Schedule 3 paragraph 10
 
-[^key-10a308b6f94bc5f5d3c3bdb6cdcdc495]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-10a308b6f94bc5f5d3c3bdb6cdcdc495]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-d86ff335d0de38a70f66375ed0367536]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/339/regulation/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-d86ff335d0de38a70f66375ed0367536]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/339/regulation/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2001 No.295](https://www.legislation.gov.uk/nisr/2001/295). The 2001 Regulations and all amending instruments are revoked by these Regulations (see regulation 36).
 
@@ -1152,7 +1152,7 @@ EXPLANATORY NOTE
 
 [^f00013]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8d174f366a3cd2f52233a5291940e0d8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/339/regulation/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-8d174f366a3cd2f52233a5291940e0d8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/339/regulation/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00014]: Footnote: [1990 c 43](https://www.legislation.gov.uk/ukpga/1990/43). The functions of the Secretary of State under section 111(1) are exercisable in relation to Scotland by the Scottish Ministers, by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The functions of the Secretary of State under section 111(1) are exercisable in relation to Wales by the Welsh Ministers. Those functions were originally conferred on the National Assembly for Wales under [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), which was an Order in Council made under section 22 of the Government of Wales Act 1998 (c .38). Functions which had been conferred on the Assembly under an Order in Council under section 22 were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006 (c .32).
 
@@ -1162,81 +1162,81 @@ EXPLANATORY NOTE
 
 [^f00017]: Footnote: OJ No L 136, 30.4.2004, p. 1 as amended by Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/european/regulation/2006/1901) (OJ No L378 27.12.2006 p. 1), Regulation [(EC) No 1394/2007](https://www.legislation.gov.uk/european/regulation/2007/1394) (OJ No L 324 , 10.12.2007 , p. 121), Regulation [(EC) No 219/2009](https://www.legislation.gov.uk/european/regulation/2009/0219) (OJ No L87 31.3.2009, p. 109), Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/european/regulation/2009/0470) (OJ No L 152, 16.6.2009, p. 11), Regulation (EU) No 1235/2010 (OJ No L348, 31.12.2010, p 1) (which was corrected by Corrigendum, OJ No L 201, 27.7.2012, p 138) and Regulation (EU) No 1027/2012 (OJ No L 316, 14.11.2012, p38).
 
-[^key-8e97b4422f50131b36577ceb48248544]: Textual amendment: Word in [reg. 3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/i) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/2/a)
+[^c-8e97b4422f50131b36577ceb48248544]: Textual amendment: Word in [reg. 3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/i) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/2/a)
 
 [^f00018]: Footnote: OJ No L268 18.10.2003, p 1 as amended by Regulation [(EC) No 1981/2006](https://www.legislation.gov.uk/european/regulation/2006/1981) (OJ No L368, 23.12.2006 p 99) and Regulation [(EC) No 298/2008](https://www.legislation.gov.uk/european/regulation/2008/0298) (OJ No L 97 9.4.2008, p 64).
 
-[^key-9ecb0e9842295d952b2e6867dfae8960]: Textual amendment: Words in [reg. 3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/ii) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/2/b)
+[^c-9ecb0e9842295d952b2e6867dfae8960]: Textual amendment: Words in [reg. 3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/ii) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/2/b)
 
-[^key-fb9314f2eef84adc73205637979c92dd]: Textual amendment: [Reg. 3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/iii) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/2/c)
+[^c-fb9314f2eef84adc73205637979c92dd]: Textual amendment: [Reg. 3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/iii) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/2/c)
 
-[^key-474cff48e798aa9c02fa77a9970e3370]: Textual amendment: [Reg. 3(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/iv) and word inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-474cff48e798aa9c02fa77a9970e3370]: Textual amendment: [Reg. 3(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/iv) and word inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-46027962f368f08143d3cf4235a2f90b]: Textual amendment: [Reg. 3(2)(b)(v)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/v) and word inserted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/9/regulation/3/2)
+[^c-46027962f368f08143d3cf4235a2f90b]: Textual amendment: [Reg. 3(2)(b)(v)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2/b/v) and word inserted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/9/regulation/3/2)
 
-[^key-032975770646e06f0eba7c645aca662c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/339/regulation/4) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-032975770646e06f0eba7c645aca662c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/339/regulation/4) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-e51b0915d5f41ee049d11bb43610e7f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/339/regulation/5) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-e51b0915d5f41ee049d11bb43610e7f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/339/regulation/5) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-cea5a75770c1523199740a917eff3e82]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/339/regulation/6) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-cea5a75770c1523199740a917eff3e82]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/339/regulation/6) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-ee6501500c79ea461d35d88cdb0f00d1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/339/regulation/7) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-ee6501500c79ea461d35d88cdb0f00d1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/339/regulation/7) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-40f1e75f04cc53216a256ebccd34904b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/339/regulation/8) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-40f1e75f04cc53216a256ebccd34904b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/339/regulation/8) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-70c9fe2b6aa2ed1c92f2a470e7689e9e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/339/regulation/9) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-70c9fe2b6aa2ed1c92f2a470e7689e9e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/339/regulation/9) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-62d6fe54c66ac66dedccd73fd6458232]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/339/regulation/10) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-62d6fe54c66ac66dedccd73fd6458232]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/339/regulation/10) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-46f8d93ed028ce3bb27a9732bb391346]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/339/regulation/11) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-46f8d93ed028ce3bb27a9732bb391346]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/339/regulation/11) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-1f559dfd1c373438219b6feffa13bdb9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/339/regulation/12) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-1f559dfd1c373438219b6feffa13bdb9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/339/regulation/12) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-7f8b075de2e08b3e9189b4609f3e46cd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/339/regulation/13) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-7f8b075de2e08b3e9189b4609f3e46cd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/339/regulation/13) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-e2373f7e541bc8b3acc5f7d5a3ebb43f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/339/regulation/14) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-e2373f7e541bc8b3acc5f7d5a3ebb43f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/339/regulation/14) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-532f907338e02f40db4d9a4ccaa10ca4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/339/regulation/15) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-532f907338e02f40db4d9a4ccaa10ca4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/339/regulation/15) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-9f31c4106c44fcba820ff8714b9906e6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/339/regulation/16) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-9f31c4106c44fcba820ff8714b9906e6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/339/regulation/16) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-3aca5aacd7c17fcb18ed94eef071ca33]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/339/regulation/17) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-3aca5aacd7c17fcb18ed94eef071ca33]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/339/regulation/17) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-9ec8030097434c15e7d8db0178c043ff]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/339/regulation/18) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-9ec8030097434c15e7d8db0178c043ff]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/339/regulation/18) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-87dc139f4120fcf7c516e259c3042ef7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/339/regulation/19) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-87dc139f4120fcf7c516e259c3042ef7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/339/regulation/19) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-6bb201b6b79cf832b35fadf702f82b1b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/339/regulation/20) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-6bb201b6b79cf832b35fadf702f82b1b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/339/regulation/20) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-a902c78895b0f8815d0027c24d08dfd3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/339/regulation/21) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-a902c78895b0f8815d0027c24d08dfd3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/339/regulation/21) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-59e44757adc4ed1415a49eecd63bdbdc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2015/339/regulation/22) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-59e44757adc4ed1415a49eecd63bdbdc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2015/339/regulation/22) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-a998597190f2601804ad86309dd76243]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/339/regulation/23) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-a998597190f2601804ad86309dd76243]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/339/regulation/23) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-277ed180cf355dce9f9b0bba7253b2d4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/339/regulation/24) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-277ed180cf355dce9f9b0bba7253b2d4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/339/regulation/24) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-7818ed6b9d4d55a18b4d7f31c3d07e54]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2015/339/regulation/25) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-7818ed6b9d4d55a18b4d7f31c3d07e54]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2015/339/regulation/25) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-df0bef024d9519ac3d3c28b2d916d0a7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2015/339/regulation/26) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-df0bef024d9519ac3d3c28b2d916d0a7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2015/339/regulation/26) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-02deb78f95dbb9c81c19a21f4f16069d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2015/339/regulation/27) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-02deb78f95dbb9c81c19a21f4f16069d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2015/339/regulation/27) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-f23352a898f9ca8ade038fe331bb53a8]: Textual amendment: Word in [reg. 27(a)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/a) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/a)
+[^c-f23352a898f9ca8ade038fe331bb53a8]: Textual amendment: Word in [reg. 27(a)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/a) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/a)
 
-[^key-9d6c17bebfcace9cc02072d05a79d3a7]: Textual amendment: [Reg. 27(b)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/b) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(b)(i)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/b/i)
+[^c-9d6c17bebfcace9cc02072d05a79d3a7]: Textual amendment: [Reg. 27(b)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/b) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(b)(i)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/b/i)
 
-[^key-1380f9ac80dffd269369640a07a057fc]: Textual amendment: Word in [reg. 27(c)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/c) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/b/ii)
+[^c-1380f9ac80dffd269369640a07a057fc]: Textual amendment: Word in [reg. 27(c)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/c) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/b/ii)
 
-[^key-12003376f5acb41f9da81bffaa35263d]: Textual amendment: [Reg. 27(d)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/d) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(b)(iii)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/b/iii)
+[^c-12003376f5acb41f9da81bffaa35263d]: Textual amendment: [Reg. 27(d)](https://www.legislation.gov.uk/nisr/2015/339/regulation/27/d) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [10(3)(b)(iii)](https://www.legislation.gov.uk/nisr/2020/330/regulation/10/3/b/iii)
 
-[^key-c89e0da30655146d3990a4c7bce20fef]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2015/339/regulation/28) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-c89e0da30655146d3990a4c7bce20fef]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2015/339/regulation/28) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)
 
-[^key-4b9aacc8b6fef6d5edbfd14ef2fb6290]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/339/regulation/29) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-4b9aacc8b6fef6d5edbfd14ef2fb6290]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/339/regulation/29) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-cc968e70f8cac26c68c4bf062a78ec8c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2015/339/regulation/30) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-cc968e70f8cac26c68c4bf062a78ec8c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2015/339/regulation/30) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00020]: Footnote: [S.I.1978/1039 (N.I.9)](https://www.legislation.gov.uk/nisi/1978/1039); Articles 18 to 20 and 31 were amended by, and Article 34A was inserted by, [S.I. 1998/2795 (N.I..18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1
 
@@ -1244,71 +1244,71 @@ EXPLANATORY NOTE
 
 [^f00022]: Footnote: [S.R. 1999 No.90](https://www.legislation.gov.uk/nisr/1999/90)
 
-[^key-3af23182a822d1e30867e40d11217c8c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2015/339/regulation/31) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-3af23182a822d1e30867e40d11217c8c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2015/339/regulation/31) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00023]: Footnote: [S.R. 1997 No.269](https://www.legislation.gov.uk/nisr/1997/269)
 
-[^key-a5e734d6f02cc7081f17b77e7bfe12d2]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2015/339/regulation/32) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-a5e734d6f02cc7081f17b77e7bfe12d2]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2015/339/regulation/32) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-c54e6825f0a211cafc2b801dd84bc0df]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2015/339/regulation/33) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-c54e6825f0a211cafc2b801dd84bc0df]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2015/339/regulation/33) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-5efb8bc3c5104fb0d5ab45c8e7db983a]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2015/339/regulation/34) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-5efb8bc3c5104fb0d5ab45c8e7db983a]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2015/339/regulation/34) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00024]: Footnote: [S.R. 2012 No.255](https://www.legislation.gov.uk/nisr/2012/255)
 
-[^key-2ee85566001bba3c1f11500d848c025b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2015/339/regulation/35) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-2ee85566001bba3c1f11500d848c025b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2015/339/regulation/35) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852)
 
-[^key-80d12474043ed3dda42ea1b5706e1f9d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2015/339/regulation/36) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-80d12474043ed3dda42ea1b5706e1f9d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2015/339/regulation/36) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00026]: Footnote: [S.R. 2006 No.524](https://www.legislation.gov.uk/nisr/2006/524)
 
 [^f00027]: Footnote: [S.R. 2010 No.343](https://www.legislation.gov.uk/nisr/2010/343)
 
-[^key-42a4c2ef57aabf6d127378ec5760a1f1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-42a4c2ef57aabf6d127378ec5760a1f1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-9b58e16a00d943caca2c18a1824795a5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-9b58e16a00d943caca2c18a1824795a5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-7bc25fa3a71deedd4621990ab4d437ab]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-7bc25fa3a71deedd4621990ab4d437ab]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-76f7f46c3ed14c435e972cc28c3b85c0]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-76f7f46c3ed14c435e972cc28c3b85c0]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-60ddbb43efdddd97b1ad2554c90cb489]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/4) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-60ddbb43efdddd97b1ad2554c90cb489]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2015/339/schedule/2/paragraph/4) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-26f003c9170dbb40cc85d2a444be9808]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-26f003c9170dbb40cc85d2a444be9808]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-45001aa5e181b312e5c4cfabd554f2b2]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-45001aa5e181b312e5c4cfabd554f2b2]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-bd5d063a384c96fee3c5cdfc64f2cf0c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-bd5d063a384c96fee3c5cdfc64f2cf0c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f00028]: Footnote: OJ No L262, 17.10.2000, p21
 
-[^key-760d40a782ec51829c9febb130e8d50c]: Textual amendment: [Sch. 3 para. 3(dd)](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/3/dd) inserted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2026/9/regulation/3/3)
+[^c-760d40a782ec51829c9febb130e8d50c]: Textual amendment: [Sch. 3 para. 3(dd)](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/3/dd) inserted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2026/9/regulation/3/3)
 
-[^key-7cf7815f761c4536451a07d93a3e8855]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/4) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-7cf7815f761c4536451a07d93a3e8855]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/4) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-77ee17ebaf18ec34ac1d9b39eafa739e]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/5) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-77ee17ebaf18ec34ac1d9b39eafa739e]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2015/339/schedule/3/paragraph/5) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-871a21598ac03fff8bc63a4ed799b92a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/4/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-871a21598ac03fff8bc63a4ed799b92a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/4/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-26ae17edd7c5833006102fde25796620]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/4/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-26ae17edd7c5833006102fde25796620]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/4/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-b7cf444d2d3eefb947fde976cc6343f4]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/4/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-b7cf444d2d3eefb947fde976cc6343f4]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/4/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-d53be0c0efa4f33be9e4bc9a1d6fcf1d]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2015/339/schedule/5) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-d53be0c0efa4f33be9e4bc9a1d6fcf1d]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2015/339/schedule/5) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-67563cb1a736fcbe5645a3bac34abdff]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2015/339/schedule/6) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-67563cb1a736fcbe5645a3bac34abdff]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2015/339/schedule/6) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-c508504dcae4bcdf81f5a870e85764bb]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2015/339/schedule/7) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-c508504dcae4bcdf81f5a870e85764bb]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2015/339/schedule/7) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-9edca79787762bcf927a6c65b7c5072e]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-9edca79787762bcf927a6c65b7c5072e]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/paragraph/1) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-cc5a768bb788c8dc0dd36d39ccb7bb5d]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-cc5a768bb788c8dc0dd36d39ccb7bb5d]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/paragraph/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-43d7aaf9c6e336b926ce02063386b107]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-43d7aaf9c6e336b926ce02063386b107]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/paragraph/3) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
-[^key-90bdbd10835c4379fee9807380c9aeab]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/part/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
+[^c-90bdbd10835c4379fee9807380c9aeab]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nisr/2015/339/schedule/8/part/2) in operation at 23.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1)
 
 [^f01000]: Footnote: (1)
 

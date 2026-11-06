@@ -37,7 +37,7 @@ The provisions described in this Schedule are shown on the rights of way and acc
 - (d) New private means of access which are to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 3 of this Schedule, are shown by black line hatching (as shown in the key on the rights of way and access plans) and are given a reference label in a square (a capital C followed by a number).
 - (e) Private means of access which are to be altered are included in column (2) of Part 5 of this Schedule, are shown by purple line hatching (as shown in the key on the rights of way and access plans) and are given a reference label in a square (a capital C followed by a number).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-592b38a5ccefa61f81b635423ee43e06]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-592b38a5ccefa61f81b635423ee43e06]
 
 <table>
 <thead>
@@ -60,7 +60,7 @@ The provisions described in this Schedule are shown on the rights of way and acc
 </tbody>
 </table>
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-0b6ecb4a36f649647ef6c3d68a1f17c0]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-0b6ecb4a36f649647ef6c3d68a1f17c0]
 
 <table>
 <thead>
@@ -81,7 +81,7 @@ The provisions described in this Schedule are shown on the rights of way and acc
 </tbody>
 </table>
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-cbe04f67b21cda4f6b8447c94a1dddba]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-cbe04f67b21cda4f6b8447c94a1dddba]
 
 <table>
 <thead>
@@ -108,7 +108,7 @@ The provisions described in this Schedule are shown on the rights of way and acc
 </tbody>
 </table>
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-ff83185c1d9b9b3390bb587a4b673a90]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-ff83185c1d9b9b3390bb587a4b673a90]
 
 <table>
 <thead>
@@ -131,7 +131,7 @@ The provisions described in this Schedule are shown on the rights of way and acc
 </tbody>
 </table>
 
-### PART 5 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^key-3e6dd4a4916d812d8ba9342d14841c05]
+### PART 5 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^c-3e6dd4a4916d812d8ba9342d14841c05]
 
 <table>
 <thead>
@@ -146,12 +146,12 @@ The provisions described in this Schedule are shown on the rights of way and acc
 
 ## Annotations
 
-[^key-592b38a5ccefa61f81b635423ee43e06]: Commencement: Sch. 4 Pt. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-592b38a5ccefa61f81b635423ee43e06]: Commencement: Sch. 4 Pt. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-0b6ecb4a36f649647ef6c3d68a1f17c0]: Commencement: Sch. 4 Pt. 2 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-0b6ecb4a36f649647ef6c3d68a1f17c0]: Commencement: Sch. 4 Pt. 2 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-cbe04f67b21cda4f6b8447c94a1dddba]: Commencement: Sch. 4 Pt. 3 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-cbe04f67b21cda4f6b8447c94a1dddba]: Commencement: Sch. 4 Pt. 3 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-ff83185c1d9b9b3390bb587a4b673a90]: Commencement: Sch. 4 Pt. 4 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-ff83185c1d9b9b3390bb587a4b673a90]: Commencement: Sch. 4 Pt. 4 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-3e6dd4a4916d812d8ba9342d14841c05]: Commencement: Sch. 4 Pt. 5 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-3e6dd4a4916d812d8ba9342d14841c05]: Commencement: Sch. 4 Pt. 5 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

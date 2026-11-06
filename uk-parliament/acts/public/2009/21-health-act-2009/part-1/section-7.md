@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Regulations under section 3 or 4[^key-c4bb83221c52ba08bbd0828e46d1c034]
+## 7. Regulations under section 3 or 4[^c-c4bb83221c52ba08bbd0828e46d1c034]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4bb83221c52ba08bbd0828e46d1c034]: Commencement: S. 7 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)
+[^c-c4bb83221c52ba08bbd0828e46d1c034]: Commencement: S. 7 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)

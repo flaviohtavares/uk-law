@@ -24,26 +24,26 @@ Section 83.
 
 ### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
 
-**1.**[^key-7afdd83e75f3caeef478e0726463e269] The Contributions and Benefits Act is amended as follows.
+**1.**[^c-7afdd83e75f3caeef478e0726463e269] The Contributions and Benefits Act is amended as follows.
 
-**2.**[^key-a95c8b450243e60b6cfa55b4ff79cc0e] In section 21(5A)(c) (contribution conditions) after “5(2)(b) and (4)(a)” insert “ , 5A(3)(a) ”.
+**2.**[^c-a95c8b450243e60b6cfa55b4ff79cc0e] In section 21(5A)(c) (contribution conditions) after “5(2)(b) and (4)(a)” insert “ , 5A(3)(a) ”.
 
-**3.**[^key-f1687f7169c5ad1eaddc8e96a674359a] In section 39(1) (rate of widowed mother's allowance and widow's pension) for “46(2)” substitute “ 46 ”.
+**3.**[^c-f1687f7169c5ad1eaddc8e96a674359a] In section 39(1) (rate of widowed mother's allowance and widow's pension) for “46(2)” substitute “ 46 ”.
 
-**4.** (1)[^key-53523d175126122cce5b82201e29b008] Section 39C (rate of widowed parent's allowance and bereavement allowance) is amended as follows.
+**4.** (1)[^c-53523d175126122cce5b82201e29b008] Section 39C (rate of widowed parent's allowance and bereavement allowance) is amended as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-0e3c700b77f3d95cebae9847cbee3d95] for “45” substitute “ 45AA ”;
-- (b)[^key-d71463aac3c72c4c1184a437bb1cc572][^key-a9d92d6590da7bce17ce4dce65173b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-0e3c700b77f3d95cebae9847cbee3d95] for “46(2) and (4)” substitute “ 46 ”.
+- (a)[^c-0e3c700b77f3d95cebae9847cbee3d95] for “45” substitute “ 45AA ”;
+- (b)[^c-d71463aac3c72c4c1184a437bb1cc572][^c-a9d92d6590da7bce17ce4dce65173b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0e3c700b77f3d95cebae9847cbee3d95] for “46(2) and (4)” substitute “ 46 ”.
 
 (3) In subsections (3) and (4)—
 
-- (a)[^key-0e3c700b77f3d95cebae9847cbee3d95] for “45” substitute “ 45AA ”;
-- (b)[^key-772f9ecbcebcf2af8c3ba3c4b47c3e0c][^key-a9d92d6590da7bce17ce4dce65173b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0e3c700b77f3d95cebae9847cbee3d95] for “45” substitute “ 45AA ”;
+- (b)[^c-772f9ecbcebcf2af8c3ba3c4b47c3e0c][^c-a9d92d6590da7bce17ce4dce65173b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-abd88ff32a66c4bcd89a2cb9cb113acb] (1) After section 45 (additional pension in Category A retirement pension) insert—
+**5.**[^c-abd88ff32a66c4bcd89a2cb9cb113acb] (1) After section 45 (additional pension in Category A retirement pension) insert—
 
 > **45AA. Effect of working families' tax credit and disabled person's tax credit on earnings factor**
 >
@@ -87,43 +87,43 @@ Section 83.
 - (a) the pensioner attains pensionable age after 5th April 1999, and
 - (b) the pensioner's spouse has not attained pensionable age on or before that date.
 
-**6.** (1)[^key-a8d529daa09984b9beb79116cff2b4a8] Section 46 (modifications of section 45 for calculating the additional pension in certain benefits) is amended as follows.
+**6.** (1)[^c-a8d529daa09984b9beb79116cff2b4a8] Section 46 (modifications of section 45 for calculating the additional pension in certain benefits) is amended as follows.
 
-(2)[^key-eaa063a6dd2419e6fa3a3770c3d93225] In subsection (2) for “, 48B(2) or 48BB(5)” substitute “ or 48B(2) ”.
+(2)[^c-eaa063a6dd2419e6fa3a3770c3d93225] In subsection (2) for “, 48B(2) or 48BB(5)” substitute “ or 48B(2) ”.
 
-(3)[^key-b4541ac733d657df256275aafdc25fc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b4541ac733d657df256275aafdc25fc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In section 48A(4) (Category B retirement pension for married person)—
 
-- (a)[^key-779e04915be55786b0c957873ea5a479] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-b45cd371a3bf54ea851e1078e136e2d0] for “46(2)” substitute “ 46 ”.
+- (a)[^c-779e04915be55786b0c957873ea5a479] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b45cd371a3bf54ea851e1078e136e2d0] for “46(2)” substitute “ 46 ”.
 
 **8.** In section 48B(2) (Category B retirement pension for widows and widowers)—
 
-- (a)[^key-7abed22a088ad39f4d494709537db5d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-aa6c02bbe395eda8063146ee7026db71] for “46(2)” substitute “ 46 ”.
+- (a)[^c-7abed22a088ad39f4d494709537db5d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aa6c02bbe395eda8063146ee7026db71] for “46(2)” substitute “ 46 ”.
 
-**9.** (1)[^key-b878da319bf33dfa3a5544d71200a8ea] Section 48BB (Category B retirement pension: entitlement by reference to benefits under section 39A or 39B) is amended as follows.
+**9.** (1)[^c-b878da319bf33dfa3a5544d71200a8ea] Section 48BB (Category B retirement pension: entitlement by reference to benefits under section 39A or 39B) is amended as follows.
 
 (2) In subsection (5)—
 
-- (a)[^key-3273d4721fc57cb67dad3b967a5da7b4] for “45” substitute “ 45AA ”;
-- (b)[^key-3273d4721fc57cb67dad3b967a5da7b4] after “45AA” (inserted by paragraph (a)) insert “ and 45B ”;
-- (c)[^key-fa85fd4ca99af0c03b5f48b5dc671392] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-3273d4721fc57cb67dad3b967a5da7b4] for “46(3)” substitute “ 46 ”.
+- (a)[^c-3273d4721fc57cb67dad3b967a5da7b4] for “45” substitute “ 45AA ”;
+- (b)[^c-3273d4721fc57cb67dad3b967a5da7b4] after “45AA” (inserted by paragraph (a)) insert “ and 45B ”;
+- (c)[^c-fa85fd4ca99af0c03b5f48b5dc671392] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3273d4721fc57cb67dad3b967a5da7b4] for “46(3)” substitute “ 46 ”.
 
-(3)[^key-3273d4721fc57cb67dad3b967a5da7b4] In subsection (6)—
+(3)[^c-3273d4721fc57cb67dad3b967a5da7b4] In subsection (6)—
 
 - (a) for “45” substitute “ 45AA ”;
 - (b) after “45AA” (inserted by paragraph (a)) insert “ and 45B ”.
 
 **Not yet in force.**
 
-**10.**[^key-970ec3f0966ae3bf7410d91afec5e879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-970ec3f0966ae3bf7410d91afec5e879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-6eba9550614577d69e26f110d76f3010] In section 51(2) and (3) (Category B retirement pension for widowers) for “45” substitute “ 45AA ”.
+**11.**[^c-6eba9550614577d69e26f110d76f3010] In section 51(2) and (3) (Category B retirement pension for widowers) for “45” substitute “ 45AA ”.
 
-**12.**[^key-6602e93c70744b5a11ed5451b346dbed] (1) Schedule 4B (additional pension: accrual rates for purposes of section 45(2)(d)) is amended as follows.
+**12.**[^c-6602e93c70744b5a11ed5451b346dbed] (1) Schedule 4B (additional pension: accrual rates for purposes of section 45(2)(d)) is amended as follows.
 
 (2) In paragraph 2 (application of Part 2 of Schedule)—
 
@@ -188,92 +188,92 @@ and, accordingly, in the heading before paragraph 9 for “*surplus*” substitu
 
 **Not yet in force.**
 
-**13.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
 
 **Not yet in force.**
 
-**14.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
 
 **Not yet in force.**
 
-**15.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**16.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**17.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**18.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**19.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**20.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**21.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**22.**[^key-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-701cdf0b81753385fe9cebcdab4a1164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7afdd83e75f3caeef478e0726463e269]: Commencement: Sch. 3 para. 1 in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(i)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/i)
+[^c-7afdd83e75f3caeef478e0726463e269]: Commencement: Sch. 3 para. 1 in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(i)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/i)
 
-[^key-a95c8b450243e60b6cfa55b4ff79cc0e]: Commencement: Sch. 3 para. 2 in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/ii)
+[^c-a95c8b450243e60b6cfa55b4ff79cc0e]: Commencement: Sch. 3 para. 2 in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/ii)
 
-[^key-f1687f7169c5ad1eaddc8e96a674359a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/3) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/ii)
+[^c-f1687f7169c5ad1eaddc8e96a674359a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/3) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/ii)
 
-[^key-53523d175126122cce5b82201e29b008]: Commencement: Sch. 3 para. 4(1) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(iii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/iii)
+[^c-53523d175126122cce5b82201e29b008]: Commencement: Sch. 3 para. 4(1) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(iii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/iii)
 
-[^key-0e3c700b77f3d95cebae9847cbee3d95]: Commencement: Sch. 3 para. 4(2)(a)(c) (3)(a) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(iv)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/iv)
+[^c-0e3c700b77f3d95cebae9847cbee3d95]: Commencement: Sch. 3 para. 4(2)(a)(c) (3)(a) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(iv)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/iv)
 
-[^key-d71463aac3c72c4c1184a437bb1cc572]: Textual amendment: [Sch. 3 para. 4(2)(b)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/4/2/b) repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-d71463aac3c72c4c1184a437bb1cc572]: Textual amendment: [Sch. 3 para. 4(2)(b)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/4/2/b) repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
 
-[^key-a9d92d6590da7bce17ce4dce65173b0d]: Commencement: Sch. 3 para. 4(2)(b) (3)(b) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(iv)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/iv)
+[^c-a9d92d6590da7bce17ce4dce65173b0d]: Commencement: Sch. 3 para. 4(2)(b) (3)(b) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(iv)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/iv)
 
-[^key-772f9ecbcebcf2af8c3ba3c4b47c3e0c]: Textual amendment: [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/4/3/b) repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-772f9ecbcebcf2af8c3ba3c4b47c3e0c]: Textual amendment: [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/4/3/b) repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
 
-[^key-abd88ff32a66c4bcd89a2cb9cb113acb]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/5) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(v)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/v)
+[^c-abd88ff32a66c4bcd89a2cb9cb113acb]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/5) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(v)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/v)
 
-[^key-a8d529daa09984b9beb79116cff2b4a8]: Commencement: Sch. 3 para. 6(1) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(vi)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/vi)
+[^c-a8d529daa09984b9beb79116cff2b4a8]: Commencement: Sch. 3 para. 6(1) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(vi)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/vi)
 
-[^key-eaa063a6dd2419e6fa3a3770c3d93225]: Commencement: Sch. 3 para. 6(2) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(vii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/vii)
+[^c-eaa063a6dd2419e6fa3a3770c3d93225]: Commencement: Sch. 3 para. 6(2) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(vii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/vii)
 
-[^key-b4541ac733d657df256275aafdc25fc4]: Textual amendment: Sch. 3 para. 6(3) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-b4541ac733d657df256275aafdc25fc4]: Textual amendment: Sch. 3 para. 6(3) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
 
-[^key-779e04915be55786b0c957873ea5a479]: Textual amendment: [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/7/a) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-779e04915be55786b0c957873ea5a479]: Textual amendment: [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/7/a) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
 
-[^key-b45cd371a3bf54ea851e1078e136e2d0]: Commencement: Sch. 3 para. 7(b) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(viii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/viii)
+[^c-b45cd371a3bf54ea851e1078e136e2d0]: Commencement: Sch. 3 para. 7(b) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(viii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/viii)
 
-[^key-7abed22a088ad39f4d494709537db5d5]: Textual amendment: [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/8/a) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-7abed22a088ad39f4d494709537db5d5]: Textual amendment: [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/8/a) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
 
-[^key-aa6c02bbe395eda8063146ee7026db71]: Commencement: Sch. 3 para. 8(b) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(ix)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/ix)
+[^c-aa6c02bbe395eda8063146ee7026db71]: Commencement: Sch. 3 para. 8(b) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(ix)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/ix)
 
-[^key-b878da319bf33dfa3a5544d71200a8ea]: Commencement: Sch. 3 para. 9(1) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(x)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/x)
+[^c-b878da319bf33dfa3a5544d71200a8ea]: Commencement: Sch. 3 para. 9(1) in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(x)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/x)
 
-[^key-3273d4721fc57cb67dad3b967a5da7b4]: Commencement: Sch. 3 para. 9(2)(a)(b)(d) (3) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(xi)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/xi)
+[^c-3273d4721fc57cb67dad3b967a5da7b4]: Commencement: Sch. 3 para. 9(2)(a)(b)(d) (3) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(xi)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/xi)
 
-[^key-fa85fd4ca99af0c03b5f48b5dc671392]: Textual amendment: [Sch. 3 para. 9(2)(c)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/9/2/c) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-fa85fd4ca99af0c03b5f48b5dc671392]: Textual amendment: [Sch. 3 para. 9(2)(c)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/9/2/c) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
 
-[^key-970ec3f0966ae3bf7410d91afec5e879]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/10) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-970ec3f0966ae3bf7410d91afec5e879]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/10) never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
 
-[^key-6eba9550614577d69e26f110d76f3010]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/11) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(xii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/xii)
+[^c-6eba9550614577d69e26f110d76f3010]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/11) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(xii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/xii)
 
-[^key-6602e93c70744b5a11ed5451b346dbed]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/12) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(xii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/xii)
+[^c-6602e93c70744b5a11ed5451b346dbed]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/12) in operation at 3.1.2012 by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(xii)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/xii)
 
-[^key-701cdf0b81753385fe9cebcdab4a1164]: Textual amendment: Sch. 3 paras. 13-22 never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)
+[^c-701cdf0b81753385fe9cebcdab4a1164]: Textual amendment: Sch. 3 paras. 13-22 never in operation, repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 81(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/81/c); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/k)

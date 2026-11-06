@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Power to disapply this Act in relation to procurement by NHS in England[^key-e3ac2fe58b773413f77357301d01f831]
+## 120. Power to disapply this Act in relation to procurement by NHS in England[^c-e3ac2fe58b773413f77357301d01f831]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3ac2fe58b773413f77357301d01f831]: Commencement: S. 120 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-e3ac2fe58b773413f77357301d01f831]: Commencement: S. 120 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)

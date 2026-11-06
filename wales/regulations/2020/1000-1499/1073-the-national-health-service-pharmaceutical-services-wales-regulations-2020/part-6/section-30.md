@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Outline consent and premises approval[^key-b0af52958925575ae85b62ca6ac14f72]
+## 30. Outline consent and premises approval[^c-b0af52958925575ae85b62ca6ac14f72]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0af52958925575ae85b62ca6ac14f72]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2020/1073/regulation/30) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-b0af52958925575ae85b62ca6ac14f72]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2020/1073/regulation/30) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

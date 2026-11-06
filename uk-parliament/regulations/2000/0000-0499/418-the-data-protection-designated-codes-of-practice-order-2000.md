@@ -31,7 +31,7 @@ summary: ''
 
 DATA PROTECTION
 
-The Data Protection (Designated Codes of Practice) Order 2000 (revoked)[^key-47f952023ae266d06de54e7ec56b49ad]
+The Data Protection (Designated Codes of Practice) Order 2000 (revoked)[^c-47f952023ae266d06de54e7ec56b49ad]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 1st March 2000
 
-[^key-47f952023ae266d06de54e7ec56b49ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47f952023ae266d06de54e7ec56b49ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47f952023ae266d06de54e7ec56b49ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47f952023ae266d06de54e7ec56b49ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — DESIGNATED CODES OF PRACTICE[^key-47f952023ae266d06de54e7ec56b49ad]
+## SCHEDULE — DESIGNATED CODES OF PRACTICE[^c-47f952023ae266d06de54e7ec56b49ad]
 
 Article 2
 
-**1.**[^key-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-47f952023ae266d06de54e7ec56b49ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-47f952023ae266d06de54e7ec56b49ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47f952023ae266d06de54e7ec56b49ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47f952023ae266d06de54e7ec56b49ad]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/418) revoked (27.7.2000) by [The Data Protection (Designated Codes of Practice) (No. 2) Order 2000 (S.I. 2000/1864)](https://www.legislation.gov.uk/uksi/2000/1864), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1864/article/1), [3](https://www.legislation.gov.uk/uksi/2000/1864/article/3)
+[^c-47f952023ae266d06de54e7ec56b49ad]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/418) revoked (27.7.2000) by [The Data Protection (Designated Codes of Practice) (No. 2) Order 2000 (S.I. 2000/1864)](https://www.legislation.gov.uk/uksi/2000/1864), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1864/article/1), [3](https://www.legislation.gov.uk/uksi/2000/1864/article/3)

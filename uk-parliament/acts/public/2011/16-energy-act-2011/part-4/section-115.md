@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Additional powers of the Coal Authority: England and Wales[^key-13aa2a24f3db01872f8010fcc96bdd8a]
+## 115. Additional powers of the Coal Authority: England and Wales[^c-13aa2a24f3db01872f8010fcc96bdd8a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13aa2a24f3db01872f8010fcc96bdd8a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2011/16/section/115) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-13aa2a24f3db01872f8010fcc96bdd8a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2011/16/section/115) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

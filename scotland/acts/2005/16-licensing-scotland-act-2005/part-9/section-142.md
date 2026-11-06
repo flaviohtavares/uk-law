@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Guidance[^key-77b47e4713f283ea29a8e4d232ca08fb]
+## 142. Guidance[^c-77b47e4713f283ea29a8e4d232ca08fb]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77b47e4713f283ea29a8e4d232ca08fb]: Commencement: S. 142 in force at 19.3.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 2](https://www.legislation.gov.uk/ssi/2007/129/article/2)
+[^c-77b47e4713f283ea29a8e4d232ca08fb]: Commencement: S. 142 in force at 19.3.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 2](https://www.legislation.gov.uk/ssi/2007/129/article/2)

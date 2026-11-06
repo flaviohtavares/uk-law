@@ -74,67 +74,67 @@ Section 40
 
 ### Sex Discrimination Act 1975 (c. 65)
 
-**6.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Race Relations Act 1976 (c. 74)
 
-**21.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-177ad4d33a8cb3230cd5a4a56b065d93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Estate Agents Act 1979 (c. 38)
 
@@ -195,37 +195,37 @@ Section 40
 
 ### Disability Discrimination Act 1995 (c. 50)
 
-**41.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**55.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-5607b566abfcf7f3fe03d6ad26c9317a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment Tribunals Act 1996 (c. 17)
 
@@ -276,6 +276,6 @@ Section 40
 
 ## Annotations
 
-[^key-177ad4d33a8cb3230cd5a4a56b065d93]: Textual amendment: [Sch. 3 paras. 6-35](https://www.legislation.gov.uk/ukpga/2006/3/schedule/3/paragraph/6) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 85](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/85), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(xi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/xi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)
+[^c-177ad4d33a8cb3230cd5a4a56b065d93]: Textual amendment: [Sch. 3 paras. 6-35](https://www.legislation.gov.uk/ukpga/2006/3/schedule/3/paragraph/6) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 85](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/85), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(xi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/xi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)
 
-[^key-5607b566abfcf7f3fe03d6ad26c9317a]: Textual amendment: [Sch. 3 paras. 41-56](https://www.legislation.gov.uk/ukpga/2006/3/schedule/3/paragraph/41) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 85](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/85), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(xi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/xi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)
+[^c-5607b566abfcf7f3fe03d6ad26c9317a]: Textual amendment: [Sch. 3 paras. 41-56](https://www.legislation.gov.uk/ukpga/2006/3/schedule/3/paragraph/41) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 85](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/85), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(xi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/xi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)

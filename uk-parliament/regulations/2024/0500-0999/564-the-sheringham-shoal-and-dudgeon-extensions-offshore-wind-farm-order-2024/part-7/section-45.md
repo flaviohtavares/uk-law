@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Compensation[^key-9f57d1404801af0698649aeb96d7f91f]
+## 45. Compensation[^c-9f57d1404801af0698649aeb96d7f91f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 17 (compensation measures) has effect.
 
 ## Annotations
 
-[^key-9f57d1404801af0698649aeb96d7f91f]: Commencement: Art. 45 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-9f57d1404801af0698649aeb96d7f91f]: Commencement: Art. 45 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

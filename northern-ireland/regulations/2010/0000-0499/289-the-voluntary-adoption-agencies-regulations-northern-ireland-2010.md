@@ -43,11 +43,11 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-4cde1cd4045273f36e08b943aecbd59a]
+### 1. Citation and commencement[^c-4cde1cd4045273f36e08b943aecbd59a]
 
 (1) These Regulations may be cited as the Voluntary Adoption Agencies Regulations (Northern Ireland) 2010 and shall come into operation on the 29<sup>th</sup> October 2010.
 
-### 2. Interpretation[^key-d4b1048ad681ea702b83ceb8aaecf9ab]
+### 2. Interpretation[^c-d4b1048ad681ea702b83ceb8aaecf9ab]
 
 (1) In these Regulations—
 
@@ -63,11 +63,11 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (2) In these Regulations, references to employing a person include employing a person whether or not for payment, and whether under a contract of service or a contract for services, and allowing a person to work as a volunteer, and references to an employee or to a person being employed shall be construed accordingly.
 
-### 3. Application for registration under Part III of the Order[^key-179feb60a392cecf58953ea38d3aca18]
+### 3. Application for registration under Part III of the Order[^c-179feb60a392cecf58953ea38d3aca18]
 
 No application for registration under Part III of the Order shall be made in respect of an agency which is an unincorporated body.
 
-### 4. Statement of Purpose[^key-d926f47b3d9d12a17b141d92d6245fc3]
+### 4. Statement of Purpose[^c-d926f47b3d9d12a17b141d92d6245fc3]
 
 (1) The registered provider and the manager shall compile in relation to the agency a written statement (in these regulations referred to as “the statement of purpose”) which shall consist of a statement as to the matters listed in Schedule 1.
 
@@ -88,13 +88,13 @@ No application for registration under Part III of the Order shall be made in res
 - (a) any other provision of these Regulations;
 - (b) any conditions for the time being in force in relation to the registration of the registered provider under Part III of the Order.
 
-### 5. Review of statement of purpose[^key-fa63040a7d77efdb9e41d4c427a74138]
+### 5. Review of statement of purpose[^c-fa63040a7d77efdb9e41d4c427a74138]
 
 The registered provider and the manager shall keep under review and, where appropriate, revise the statement of purpose and notify the RQIA of any such revision within 28 days.
 
 ## PART II — REGISTERED PROVIDERS, RESPONSIBLE INDIVIDUALS AND MANAGERS
 
-### 6. Fitness of registered provider[^key-2568d920c459c6e72057f790c25ad793]
+### 6. Fitness of registered provider[^c-2568d920c459c6e72057f790c25ad793]
 
 (1) An organisation shall not carry on an agency unless it is fit to do so.
 
@@ -109,7 +109,7 @@ The registered provider and the manager shall keep under review and, where appro
 - (b) he is physically and mentally fit to carry on the agency; and
 - (c) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
 
-### 7. Appointment of manager[^key-22053209c555da8f6d27b34d67a0a9d1]
+### 7. Appointment of manager[^c-22053209c555da8f6d27b34d67a0a9d1]
 
 (1) The registered provider shall appoint—
 
@@ -120,7 +120,7 @@ The registered provider and the manager shall keep under review and, where appro
 - (a) the name of any person appointed in accordance with this regulation; and
 - (b) the date on which the appointment is to take effect.
 
-### 8. Fitness of manager[^key-cb89aa8e3958237173304b7168547b10]
+### 8. Fitness of manager[^c-cb89aa8e3958237173304b7168547b10]
 
 (1) The registered provider shall not allow a person to manage the agency unless he is fit to do so.
 
@@ -132,7 +132,7 @@ The registered provider and the manager shall keep under review and, where appro
   - (ii) he is physically and mentally fit to manage the agency; and
 - (c) full and satisfactory information is available in relation to him in respect of each of the matters listed in Schedule 2.
 
-### 9. Registered provider and manager – general requirements[^key-3443d19d0ef9a15250b35b6790ffdbdf]
+### 9. Registered provider and manager – general requirements[^c-3443d19d0ef9a15250b35b6790ffdbdf]
 
 (1) The registered provider and the manager shall, having regard to—
 
@@ -145,7 +145,7 @@ The registered provider and the manager shall keep under review and, where appro
 
 (3) The registered provider shall ensure that the manager undertakes from time to time such training as is appropriate to ensure that he has the experience and skills necessary for managing the agency.
 
-### 10. Notification of offences[^key-86b1bd50270d439ad70ddd26d2b54884]
+### 10. Notification of offences[^c-86b1bd50270d439ad70ddd26d2b54884]
 
 Where the registered provider, responsible individual or manager is convicted of any criminal offence, or there are prosecutions pending, whether in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the RQIA.
 
@@ -156,7 +156,7 @@ Where the registered provider, responsible individual or manager is convicted of
 
 ## PART III — CONDUCT OF AGENCIES
 
-### 11. Arrangements for the protection of children[^key-2f18ed779bed53811cb1d68a4fa968ba]
+### 11. Arrangements for the protection of children[^c-2f18ed779bed53811cb1d68a4fa968ba]
 
 (1) The registered provider and the manager shall prepare and implement a written policy which—
 
@@ -179,7 +179,7 @@ Where the registered provider, responsible individual or manager is convicted of
 
 (3) In this regulation “child protection enquiries” means any enquiries carried out by a HSC Trust in the exercise of any of its functions conferred by or under the Children (Northern Ireland) Order 1995[^f00005].
 
-### 12. Complaints[^key-1db2fe21dd4a82c10f27bbb5647a060a]
+### 12. Complaints[^c-1db2fe21dd4a82c10f27bbb5647a060a]
 
 (1) The registered provider and the manager shall establish a written procedure for considering complaints (referred to in these Regulations as “the complaints procedure”) made by or on behalf of—
 
@@ -201,7 +201,7 @@ Where the registered provider, responsible individual or manager is convicted of
 - (a) the name, address and telephone number of the RQIA; and
 - (b) details of the procedure (if any) which has been notified to the registered provider by the RQIA for the making of complaints to the RQIA that relate to the agency.
 
-### 13. Complaints – further requirements[^key-3a80d5f150d7ccdb4d0b1797f3d7f77b]
+### 13. Complaints – further requirements[^c-3a80d5f150d7ccdb4d0b1797f3d7f77b]
 
 (1) The registered provider and the manager shall ensure that any complaint made under the complaints procedure is fully investigated.
 
@@ -216,7 +216,7 @@ Where the registered provider, responsible individual or manager is convicted of
 
 (5) The registered provider shall supply to the RQIA at its request a statement containing a summary of any complaints made in accordance with the complaints procedure during the preceding 12 months and any action taken in consequence.
 
-### 14. Staffing of agency[^key-f083b0bc6960c8a9f97336d15e9b58cc]
+### 14. Staffing of agency[^c-f083b0bc6960c8a9f97336d15e9b58cc]
 
 The registered provider and the manager shall ensure that there is, having regard to—
 
@@ -227,7 +227,7 @@ The registered provider and the manager shall ensure that there is, having regar
 
 - a sufficient number of suitably qualified, competent, and experienced persons working for the purposes of the agency.
 
-### 15. Fitness of workers[^key-b814669ad8fd9a03f3897b11eeedb69b]
+### 15. Fitness of workers[^c-b814669ad8fd9a03f3897b11eeedb69b]
 
 (1) The registered provider and the manager shall not—
 
@@ -245,7 +245,7 @@ The registered provider and the manager shall ensure that there is, having regar
 
 (4) The registered provider and the manager shall take reasonable steps to ensure that any person working for the agency who is not employed by the agency and to whom paragraph (2) does not apply is appropriately supervised while carrying out his duties.
 
-### 16. Employment of staff[^key-87f0fd4a6bc1a880790f026da8fa1e09]
+### 16. Employment of staff[^c-87f0fd4a6bc1a880790f026da8fa1e09]
 
 (1) The registered provider and the manager shall—
 
@@ -257,7 +257,7 @@ The registered provider and the manager shall ensure that there is, having regar
 - (a) receive appropriate training, supervision and appraisal; and
 - (b) are enabled from time to time to obtain further qualifications appropriate to the work they perform.
 
-### 17. Staff disciplinary procedure[^key-1baff1eca8b543aa21e7e9811b1b53c7]
+### 17. Staff disciplinary procedure[^c-1baff1eca8b543aa21e7e9811b1b53c7]
 
 (1) The registered provider and the manager shall operate a disciplinary procedure which, in particular—
 
@@ -273,13 +273,13 @@ The registered provider and the manager shall ensure that there is, having regar
 - (e) an officer of a HSC Trust in whose area the agency is situated; or
 - (f) an officer of a HSC Trust in whose area the child placed for adoption is living.
 
-### 18. Records with respect to staff[^key-eee3d8ecf6fd0d8d17ab0de7f119abc7]
+### 18. Records with respect to staff[^c-eee3d8ecf6fd0d8d17ab0de7f119abc7]
 
 (1) The registered provider and the manager shall maintain and keep up to date the records specified in Schedule 3.
 
 (2) The records referred to in paragraph (1) shall be retained for at least 15 years from the date of the last entry.
 
-### 19. Fitness of premises[^key-dd370fb3563084295b590777dbfbb066]
+### 19. Fitness of premises[^c-dd370fb3563084295b590777dbfbb066]
 
 (1) The registered provider shall not use premises for the purposes of the agency unless the premises are suitable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -290,7 +290,7 @@ The registered provider and the manager shall ensure that there is, having regar
 
 ## PART IV — MISCELLANEOUS
 
-### 20. Notifiable events[^key-984c9852912d2b03da3b0cc3cc67c358]
+### 20. Notifiable events[^c-984c9852912d2b03da3b0cc3cc67c358]
 
 (1) If, in relation to an agency, any of the events listed in column 1 of the table in Schedule 4 takes place, the registered provider and the manager shall without delay notify the person indicated in that table.
 
@@ -301,7 +301,7 @@ The registered provider and the manager shall ensure that there is, having regar
 - “approved by the agency” means approved by the agency as suitable to be an adoptive parent in accordance with the Adoption Agencies Regulations (Northern Ireland) 1989;
 - “placing agency” means the adoption agency that placed the child for adoption with the prospective adopter;
 
-### 21. Financial position[^key-4a925a33feefaa64807da0033d07e26b]
+### 21. Financial position[^c-4a925a33feefaa64807da0033d07e26b]
 
 (1) The registered provider shall carry on the agency in such a manner as is likely to ensure that it will be financially viable for the purpose of achieving the aims and objectives set out in its statement of purpose.
 
@@ -310,7 +310,7 @@ The registered provider and the manager shall ensure that there is, having regar
 - (a) the annual accounts of the agency certified by an accountant; and
 - (b) a certificate of insurance for the registered provider in respect of liability which may be incurred by him in relation to the agency in respect of death, injury, public liability, damage or other loss.
 
-### 22. Notice of absence[^key-23784c51c6fbcf76305daee6edbedc9d]
+### 22. Notice of absence[^c-23784c51c6fbcf76305daee6edbedc9d]
 
 (1) Where the manager proposes to be absent from the agency for a continuous period of 28 days or more, the registered provider and the manager shall give notice in writing to the RQIA of the proposed absence.
 
@@ -328,7 +328,7 @@ The registered provider and the manager shall ensure that there is, having regar
 
 (5) The registered provider and the manager shall notify the RQIA of the return to duty of the manager not later than 7 days after the date of his return.
 
-### 23. Notice of changes[^key-b9cdd4f69e2f0544a54c6dd90dab54e4]
+### 23. Notice of changes[^c-b9cdd4f69e2f0544a54c6dd90dab54e4]
 
 (1) The registered provider and the manager shall give notice in writing to the RQIA as soon as it is practicable to do so if any of the following events takes place or is proposed to take place—
 
@@ -342,7 +342,7 @@ The registered provider and the manager shall ensure that there is, having regar
 
 (2) The registered provider shall notify the RQIA in writing and without delay of the death of the responsible individual or the manager.
 
-### 24. Appointment of liquidators etc.[^key-d58415860a012a1bed6267478666d976]
+### 24. Appointment of liquidators etc.[^c-d58415860a012a1bed6267478666d976]
 
 (1) Any person to whom paragraph (2) applies shall —
 
@@ -355,7 +355,7 @@ The registered provider and the manager shall ensure that there is, having regar
 - (a) the receiver or manager of the property of a registered provider;
 - (b) the liquidator or provisional liquidator of a registered provider.
 
-### 25. Transfer of case records.[^key-fe8b44184df364f91693098538f81901]
+### 25. Transfer of case records.[^c-fe8b44184df364f91693098538f81901]
 
 (1) Where an agency intends to cease to act or exist as such it shall transfer its case records having first obtained the RQIA’s approval for such transfer to either —
 
@@ -363,11 +363,11 @@ The registered provider and the manager shall ensure that there is, having regar
 - (b) the HSC Trust in whose area the agency’s principal office is situated; or
 - (c) in the case of an agency that amalgamates with another to form a new voluntary adoption agency, to the new agency.
 
-### 26. Compliance with regulations[^key-7a43f0e6b2baadd966bf4329d10a87b4]
+### 26. Compliance with regulations[^c-7a43f0e6b2baadd966bf4329d10a87b4]
 
 Where anything is required under these Regulations to be done by more than one person, it shall, if done by one of those persons, not be required to be done by the other person or, as the case may be, persons.
 
-### 27. Amendment of the Adoption Agencies Regulations (Northern Ireland) 1989[^key-44563481dc42f8479a241608426e94af]
+### 27. Amendment of the Adoption Agencies Regulations (Northern Ireland) 1989[^c-44563481dc42f8479a241608426e94af]
 
 (1) The Adoption Agencies Regulations (Northern Ireland) 1989[^f00007] are amended in accordance with the following paragraphs.
 
@@ -387,7 +387,7 @@ Where anything is required under these Regulations to be done by more than one p
 
 .
 
-### 28. Revocation[^key-fea9b1e98b58d4b1e8af8dbd286a7599]
+### 28. Revocation[^c-fea9b1e98b58d4b1e8af8dbd286a7599]
 
 Regulations 2 and 3 of the Adoption Agencies Regulations (Northern Ireland) 1989 are revoked.
 
@@ -403,80 +403,80 @@ Department of Health Social Services and Public Safety
 
 Regulation 4 (1)
 
-**1.**[^key-5fbcc9382e218724d90dd43a3ffe0b3e] A statement of the overall aims and objectives of the agency
+**1.**[^c-5fbcc9382e218724d90dd43a3ffe0b3e] A statement of the overall aims and objectives of the agency
 
-**2.**[^key-297bb07553f6c93ae583755227704f86] The name and address of the registered provider, the responsible individual and the manager.
+**2.**[^c-297bb07553f6c93ae583755227704f86] The name and address of the registered provider, the responsible individual and the manager.
 
-**3.**[^key-21b5030735dd7461502bc4f09b35a194] Any conditions for the time being in force in relation to the registration of the registered person under Part III of the Order.
+**3.**[^c-21b5030735dd7461502bc4f09b35a194] Any conditions for the time being in force in relation to the registration of the registered person under Part III of the Order.
 
-**4.**[^key-81d8aaf5cfd1f1025635af0c61e904d2] The relevant qualifications and experience of the manager.
+**4.**[^c-81d8aaf5cfd1f1025635af0c61e904d2] The relevant qualifications and experience of the manager.
 
-**5.**[^key-0f8d5257f11a3fff55502cb017df9022] The relevant qualifications and experience of the staff working for the purpose of the agency, including details of registration with any relevant professional regulatory body.
+**5.**[^c-0f8d5257f11a3fff55502cb017df9022] The relevant qualifications and experience of the staff working for the purpose of the agency, including details of registration with any relevant professional regulatory body.
 
-**6.**[^key-3e91d44aee2523a5ed43ee68230ef3fa] The organisational structure of the agency.
+**6.**[^c-3e91d44aee2523a5ed43ee68230ef3fa] The organisational structure of the agency.
 
-**7.**[^key-0cc9218ab0dcae84420f7dbec728b525] The system in place to monitor and evaluate the provision of services to ensure that the services provided by the agency are effective and the quality of those services is of an appropriate standard.
+**7.**[^c-0cc9218ab0dcae84420f7dbec728b525] The system in place to monitor and evaluate the provision of services to ensure that the services provided by the agency are effective and the quality of those services is of an appropriate standard.
 
-**8.**[^key-7506971a0f907ea2b93c7af894470699] The procedures for recruiting, preparing, assessing and approving prospective adopters.
+**8.**[^c-7506971a0f907ea2b93c7af894470699] The procedures for recruiting, preparing, assessing and approving prospective adopters.
 
-**9.**[^key-388b3353abf5bdcec4dfbd05dd0bfa94] The arrangements for dealing with complaints.
+**9.**[^c-388b3353abf5bdcec4dfbd05dd0bfa94] The arrangements for dealing with complaints.
 
-**10.**[^key-a2e19918972e797e2c78f8d5f2abd3f3] The name, address and telephone number of the RQIA.
+**10.**[^c-a2e19918972e797e2c78f8d5f2abd3f3] The name, address and telephone number of the RQIA.
 
 ## SCHEDULE 2 — INFORMATION REQUIRED IN RESPECT OF THE RESPONSIBLE INDIVIDUAL OR PERSONS SEEKING TO MANAGE OR WORK FOR THE PURPOSES OF AN AGENCY
 
 Regulations 6(3)(c), 8(2)(c) and 15(3)(d)
 
-**1.**[^key-916c3bb84ff61e1c68c710cef8efd432] Proof of identity including a recent photograph.
+**1.**[^c-916c3bb84ff61e1c68c710cef8efd432] Proof of identity including a recent photograph.
 
-**2.**[^key-48f996eb362c8c906245b86b71a2320d] Either —
+**2.**[^c-48f996eb362c8c906245b86b71a2320d] Either —
 
 where the certificate is required for a position that falls within regulation 9 of the Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008 [^f00010], an enhanced criminal record certificate within the meaning of section 113B [^f00011] of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA (2) of that Act); or
 
 in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
 
-**3.**[^key-594bc53332be8da7f7b7dfbb6cc7dfa3] Two written references, including a reference from the person’s most recent employer, if any.
+**3.**[^c-594bc53332be8da7f7b7dfbb6cc7dfa3] Two written references, including a reference from the person’s most recent employer, if any.
 
-**4.**[^key-7bed0c454f36abf2a06b46712034936e] Where a person has previously worked in a position whose duties included work with children or vulnerable adults, so far as reasonably practicable, verification of the reason why the employment or position ended.
+**4.**[^c-7bed0c454f36abf2a06b46712034936e] Where a person has previously worked in a position whose duties included work with children or vulnerable adults, so far as reasonably practicable, verification of the reason why the employment or position ended.
 
-**5.**[^key-b6096280e241464bcb5746d29d61f38d] Dates and documentary evidence of any relevant qualifications or accredited training of the person and if applicable, registration with an appropriate professional regulatory body.
+**5.**[^c-b6096280e241464bcb5746d29d61f38d] Dates and documentary evidence of any relevant qualifications or accredited training of the person and if applicable, registration with an appropriate professional regulatory body.
 
-**6.**[^key-eaeea2250fb3dea4ca62d32bc2dd37be] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**6.**[^c-eaeea2250fb3dea4ca62d32bc2dd37be] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**7.**[^key-c73872f54736d631247fc7946f4bb0a0] Evidence that the person is physically and mentally fit for the purposes of the work which he is to perform or where it is unavailable for the person to obtain such evidence, a declaration signed by the person that he is fit.
+**7.**[^c-c73872f54736d631247fc7946f4bb0a0] Evidence that the person is physically and mentally fit for the purposes of the work which he is to perform or where it is unavailable for the person to obtain such evidence, a declaration signed by the person that he is fit.
 
 ## SCHEDULE 3 — RECORDS TO BE KEPT IN RELATION TO EACH PERSON WORKING FOR THE PURPOSES OF THE AGENCY
 
 Regulation 18(1)
 
-**1.**[^key-861fd1b87ce4907923b88e406bcea349] Proof of the persons identity including a recent photograph.
+**1.**[^c-861fd1b87ce4907923b88e406bcea349] Proof of the persons identity including a recent photograph.
 
-**2.**[^key-6775461ec79ae68514e12a08e1b5d953] In respect of each person working for the purposes of the agency, a record including, full name, sex, date of birth and home address.
+**2.**[^c-6775461ec79ae68514e12a08e1b5d953] In respect of each person working for the purposes of the agency, a record including, full name, sex, date of birth and home address.
 
-**3.**[^key-96db501ad7e2967b1d97f958b7cdbffa] Two written references relating to the person, including a reference from the persons present or recent employer if any.
+**3.**[^c-96db501ad7e2967b1d97f958b7cdbffa] Two written references relating to the person, including a reference from the persons present or recent employer if any.
 
-**4.**[^key-43ed6daefeb11c52c8044a618104decb] Dates and documentary evidence of qualifications relevant to, and experience of work involving children.
+**4.**[^c-43ed6daefeb11c52c8044a618104decb] Dates and documentary evidence of qualifications relevant to, and experience of work involving children.
 
-**5.**[^key-e58ee1f027079ecad6c98dbadbe06fca] The dates on which he commences and ceases to be so employed.
+**5.**[^c-e58ee1f027079ecad6c98dbadbe06fca] The dates on which he commences and ceases to be so employed.
 
-**6.**[^key-4a50861600e36b5dbfadfe8aec05cf82] Whether he is employed by the registered provider under a contract of service or a contract for services, or is employed by someone other than the registered provider.
+**6.**[^c-4a50861600e36b5dbfadfe8aec05cf82] Whether he is employed by the registered provider under a contract of service or a contract for services, or is employed by someone other than the registered provider.
 
-**7.**[^key-3c95424fe3d04e645349fe77e6a645c1] His job description and whether he works full-time or part-time and the number of hours for which he is employed by or contracted to work for, the registered provider each week.
+**7.**[^c-3c95424fe3d04e645349fe77e6a645c1] His job description and whether he works full-time or part-time and the number of hours for which he is employed by or contracted to work for, the registered provider each week.
 
-**8.**[^key-670fdecc0576e1665ee074c177bd5f43] Training undertaken by him, supervision, appraisal, disciplinary action (if any) taken against him, complaints (if any) made against or concerning him and the outcome of such complaints and any other matters in relation to his employment for the purposes of the agency.
+**8.**[^c-670fdecc0576e1665ee074c177bd5f43] Training undertaken by him, supervision, appraisal, disciplinary action (if any) taken against him, complaints (if any) made against or concerning him and the outcome of such complaints and any other matters in relation to his employment for the purposes of the agency.
 
-## SCHEDULE 4 — EVENTS AND NOTIFICATIONS[^key-10a80934f279cfff47c26457d978a9e6]
+## SCHEDULE 4 — EVENTS AND NOTIFICATIONS[^c-10a80934f279cfff47c26457d978a9e6]
 
 Regulations 20 (1)
 
 | Event | To be notified to |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| *Column 1* | *Column 2* | [^key-975f5a1a121460714f9498a15dc97197]. . . | *Column 4* | *Column 5* | *Column 6* | *Column 7* | *Column 8* |
-|  | *RQIA* | [^key-975f5a1a121460714f9498a15dc97197]. . . | *Placing Authority* | *Regional Board* | *HSC Trust on behalf of whom the Agency is acting* | *HSC Trust in area child is placed* | *Director of Public Health for Northern Ireland* [^f00012] |
+| *Column 1* | *Column 2* | [^c-975f5a1a121460714f9498a15dc97197]. . . | *Column 4* | *Column 5* | *Column 6* | *Column 7* | *Column 8* |
+|  | *RQIA* | [^c-975f5a1a121460714f9498a15dc97197]. . . | *Placing Authority* | *Regional Board* | *HSC Trust on behalf of whom the Agency is acting* | *HSC Trust in area child is placed* | *Director of Public Health for Northern Ireland* [^f00012] |
 |  |  |  |  |  |  |  |  |
 | Death of child placed for adoption by the agency *or in the care of that agency pending placement* | Yes |  |  | Yes | Yes | Yes | Yes |
 | Referral to the Independent Safeguarding Authority [^f00013] pursuant to Article 37 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 [^f00014]of an individual working for the agency. | Yes |  |  |  |  |  |  |
-| Serious illness of, or serious accident sustained by, a child placed for adoption by the agency *or in the care of that agency pending placement* | Yes | [^key-975f5a1a121460714f9498a15dc97197]. . . |  | Yes |  | Yes | Yes |
+| Serious illness of, or serious accident sustained by, a child placed for adoption by the agency *or in the care of that agency pending placement* | Yes | [^c-975f5a1a121460714f9498a15dc97197]. . . |  | Yes |  | Yes | Yes |
 | Any serious complaint about a prospective adopter approved by the agency where no child is placed for adoption with that prospective adopter | Yes |  |  |  |  |  |  |
 | Any serious complaint about a prospective adopter approved by the agency where a child is placed for adoption with that prospective adopter by the agency | Yes |  |  | Yes | Yes |  |  |
 | Any serious complaint about a prospective adopter approved by the agency where a child is placed for adoption with that prospective adopter by another agency | Yes |  | Yes |  | Yes | Yes |  |
@@ -506,67 +506,67 @@ Regulations 27 and 28 provide for amendments and revocations of the Adoption Age
 
 [^f00002]: Footnote: [S.I. 2003 No 431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-4cde1cd4045273f36e08b943aecbd59a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/289/regulation/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-4cde1cd4045273f36e08b943aecbd59a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/289/regulation/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-d4b1048ad681ea702b83ceb8aaecf9ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/289/regulation/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-d4b1048ad681ea702b83ceb8aaecf9ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/289/regulation/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
 [^f00003]: Footnote: Renamed under the [Health and Social Care Reform Act (Northern Ireland) 2009 (c.1.(N.I))](https://www.legislation.gov.uk/nia/2009/1)
 
-[^key-179feb60a392cecf58953ea38d3aca18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/289/regulation/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-179feb60a392cecf58953ea38d3aca18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/289/regulation/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-d926f47b3d9d12a17b141d92d6245fc3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/289/regulation/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-d926f47b3d9d12a17b141d92d6245fc3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/289/regulation/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-fa63040a7d77efdb9e41d4c427a74138]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/289/regulation/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-fa63040a7d77efdb9e41d4c427a74138]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/289/regulation/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-2568d920c459c6e72057f790c25ad793]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/289/regulation/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-2568d920c459c6e72057f790c25ad793]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/289/regulation/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-22053209c555da8f6d27b34d67a0a9d1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/289/regulation/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-22053209c555da8f6d27b34d67a0a9d1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/289/regulation/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-cb89aa8e3958237173304b7168547b10]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/289/regulation/8) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-cb89aa8e3958237173304b7168547b10]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/289/regulation/8) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-3443d19d0ef9a15250b35b6790ffdbdf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/289/regulation/9) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-3443d19d0ef9a15250b35b6790ffdbdf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/289/regulation/9) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-86b1bd50270d439ad70ddd26d2b54884]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/289/regulation/10) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-86b1bd50270d439ad70ddd26d2b54884]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/289/regulation/10) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-2f18ed779bed53811cb1d68a4fa968ba]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/289/regulation/11) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-2f18ed779bed53811cb1d68a4fa968ba]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/289/regulation/11) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253)
 
 [^f00005]: Footnote: [S.I.1995 No.755 (N.I.2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-1db2fe21dd4a82c10f27bbb5647a060a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/289/regulation/12) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-1db2fe21dd4a82c10f27bbb5647a060a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/289/regulation/12) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-3a80d5f150d7ccdb4d0b1797f3d7f77b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/289/regulation/13) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-3a80d5f150d7ccdb4d0b1797f3d7f77b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/289/regulation/13) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-f083b0bc6960c8a9f97336d15e9b58cc]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/289/regulation/14) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-f083b0bc6960c8a9f97336d15e9b58cc]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/289/regulation/14) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1989 No.253](https://www.legislation.gov.uk/nisr/1989/253)
 
-[^key-b814669ad8fd9a03f3897b11eeedb69b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/289/regulation/15) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-b814669ad8fd9a03f3897b11eeedb69b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/289/regulation/15) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-87f0fd4a6bc1a880790f026da8fa1e09]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/289/regulation/16) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-87f0fd4a6bc1a880790f026da8fa1e09]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/289/regulation/16) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-1baff1eca8b543aa21e7e9811b1b53c7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/289/regulation/17) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-1baff1eca8b543aa21e7e9811b1b53c7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/289/regulation/17) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-eee3d8ecf6fd0d8d17ab0de7f119abc7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/289/regulation/18) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-eee3d8ecf6fd0d8d17ab0de7f119abc7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/289/regulation/18) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-dd370fb3563084295b590777dbfbb066]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/289/regulation/19) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-dd370fb3563084295b590777dbfbb066]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/289/regulation/19) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-984c9852912d2b03da3b0cc3cc67c358]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/289/regulation/20) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-984c9852912d2b03da3b0cc3cc67c358]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/289/regulation/20) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-4a925a33feefaa64807da0033d07e26b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/289/regulation/21) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-4a925a33feefaa64807da0033d07e26b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/289/regulation/21) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-23784c51c6fbcf76305daee6edbedc9d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/289/regulation/22) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-23784c51c6fbcf76305daee6edbedc9d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/289/regulation/22) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-b9cdd4f69e2f0544a54c6dd90dab54e4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/289/regulation/23) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-b9cdd4f69e2f0544a54c6dd90dab54e4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/289/regulation/23) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-d58415860a012a1bed6267478666d976]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/289/regulation/24) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-d58415860a012a1bed6267478666d976]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/289/regulation/24) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-fe8b44184df364f91693098538f81901]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/289/regulation/25) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-fe8b44184df364f91693098538f81901]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/289/regulation/25) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-7a43f0e6b2baadd966bf4329d10a87b4]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/289/regulation/26) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-7a43f0e6b2baadd966bf4329d10a87b4]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/289/regulation/26) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-44563481dc42f8479a241608426e94af]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2010/289/regulation/27) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-44563481dc42f8479a241608426e94af]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2010/289/regulation/27) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
 [^f00007]: Footnote: [S.R 1989 No.253](https://www.legislation.gov.uk/nisr/1989/253)
 
@@ -574,65 +574,65 @@ Regulations 27 and 28 provide for amendments and revocations of the Adoption Age
 
 [^f00009]: Footnote: Definition inserted by Schedule 4 of [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-fea9b1e98b58d4b1e8af8dbd286a7599]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2010/289/regulation/28) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-fea9b1e98b58d4b1e8af8dbd286a7599]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2010/289/regulation/28) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-5fbcc9382e218724d90dd43a3ffe0b3e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-5fbcc9382e218724d90dd43a3ffe0b3e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-297bb07553f6c93ae583755227704f86]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-297bb07553f6c93ae583755227704f86]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-21b5030735dd7461502bc4f09b35a194]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-21b5030735dd7461502bc4f09b35a194]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-81d8aaf5cfd1f1025635af0c61e904d2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-81d8aaf5cfd1f1025635af0c61e904d2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-0f8d5257f11a3fff55502cb017df9022]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-0f8d5257f11a3fff55502cb017df9022]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-3e91d44aee2523a5ed43ee68230ef3fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-3e91d44aee2523a5ed43ee68230ef3fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-0cc9218ab0dcae84420f7dbec728b525]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-0cc9218ab0dcae84420f7dbec728b525]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-7506971a0f907ea2b93c7af894470699]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/8) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-7506971a0f907ea2b93c7af894470699]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/8) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-388b3353abf5bdcec4dfbd05dd0bfa94]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/9) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-388b3353abf5bdcec4dfbd05dd0bfa94]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/9) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-a2e19918972e797e2c78f8d5f2abd3f3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/10) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-a2e19918972e797e2c78f8d5f2abd3f3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2010/289/schedule/1/paragraph/10) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-916c3bb84ff61e1c68c710cef8efd432]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-916c3bb84ff61e1c68c710cef8efd432]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-48f996eb362c8c906245b86b71a2320d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-48f996eb362c8c906245b86b71a2320d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2008/542](https://www.legislation.gov.uk/uksi/2008/542), the relevant amending instrument is [S.I.2009/2495](https://www.legislation.gov.uk/uksi/2009/2495)
 
 [^f00011]: Footnote: [1997 (C.50)](https://www.legislation.gov.uk/ukpga/1997/50). Sections 113A and 113B were inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by section 63(1) of, and paragraph 14 of Schedule 9 to the Safeguarding and Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47). Section 113BA was inserted by section 63(1) of, and paragraph 14 of Schedule 9 to the Safeguarding and Vulnerable Groups Act 2006.
 
-[^key-594bc53332be8da7f7b7dfbb6cc7dfa3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-594bc53332be8da7f7b7dfbb6cc7dfa3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-7bed0c454f36abf2a06b46712034936e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-7bed0c454f36abf2a06b46712034936e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-b6096280e241464bcb5746d29d61f38d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-b6096280e241464bcb5746d29d61f38d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-eaeea2250fb3dea4ca62d32bc2dd37be]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-eaeea2250fb3dea4ca62d32bc2dd37be]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-c73872f54736d631247fc7946f4bb0a0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-c73872f54736d631247fc7946f4bb0a0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2010/289/schedule/2/paragraph/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-861fd1b87ce4907923b88e406bcea349]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-861fd1b87ce4907923b88e406bcea349]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-6775461ec79ae68514e12a08e1b5d953]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-6775461ec79ae68514e12a08e1b5d953]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-96db501ad7e2967b1d97f958b7cdbffa]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-96db501ad7e2967b1d97f958b7cdbffa]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-43ed6daefeb11c52c8044a618104decb]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-43ed6daefeb11c52c8044a618104decb]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-e58ee1f027079ecad6c98dbadbe06fca]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-e58ee1f027079ecad6c98dbadbe06fca]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/5) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-4a50861600e36b5dbfadfe8aec05cf82]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-4a50861600e36b5dbfadfe8aec05cf82]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/6) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-3c95424fe3d04e645349fe77e6a645c1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-3c95424fe3d04e645349fe77e6a645c1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/7) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-670fdecc0576e1665ee074c177bd5f43]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/8) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-670fdecc0576e1665ee074c177bd5f43]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2010/289/schedule/3/paragraph/8) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-10a80934f279cfff47c26457d978a9e6]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
+[^c-10a80934f279cfff47c26457d978a9e6]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/4) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/289/regulation/1/1)
 
-[^key-975f5a1a121460714f9498a15dc97197]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/4) omitted (1.4.2022) by virtue of [The Children’s Social Care (Consequential Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/161)](https://www.legislation.gov.uk/nisr/2022/161), [regs. 1](https://www.legislation.gov.uk/nisr/2022/161/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/161/regulation/4/2)
+[^c-975f5a1a121460714f9498a15dc97197]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2010/289/schedule/4) omitted (1.4.2022) by virtue of [The Children’s Social Care (Consequential Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/161)](https://www.legislation.gov.uk/nisr/2022/161), [regs. 1](https://www.legislation.gov.uk/nisr/2022/161/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/161/regulation/4/2)
 
 [^f00012]: Footnote: Article 32 of the Health and Personal Social Services (NI) Order 1991 ([S.I. 1991/194 (N.I.1)](https://www.legislation.gov.uk/nisi/1991/194) as substituted by Schedule 6 of the [Health and Social Care (Reform) Act 2009 (C.1)](https://www.legislation.gov.uk/ukpga/2009/1).
 

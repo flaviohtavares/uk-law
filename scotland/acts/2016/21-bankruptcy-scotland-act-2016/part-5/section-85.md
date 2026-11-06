@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Vesting of income received by debtor after sequestration[^key-062eb50364012eae06f8c61308ff5a44]
+## 85. Vesting of income received by debtor after sequestration[^c-062eb50364012eae06f8c61308ff5a44]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-062eb50364012eae06f8c61308ff5a44]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2016/21/section/85) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-062eb50364012eae06f8c61308ff5a44]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2016/21/section/85) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

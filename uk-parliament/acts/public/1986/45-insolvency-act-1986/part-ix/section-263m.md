@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263M. Making of bankruptcy order[^key-73e3d93eee3d37e67841e2c527526acb]
+## 263M. Making of bankruptcy order[^c-73e3d93eee3d37e67841e2c527526acb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e3d93eee3d37e67841e2c527526acb]: Textual amendment: Pt. 9 Ch. A1 inserted (25.4.2013 for specified purposes, 6.4.2016 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/18); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
+[^c-73e3d93eee3d37e67841e2c527526acb]: Textual amendment: Pt. 9 Ch. A1 inserted (25.4.2013 for specified purposes, 6.4.2016 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/18); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)

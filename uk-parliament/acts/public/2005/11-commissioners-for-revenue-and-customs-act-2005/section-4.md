@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. “Her Majesty’s Revenue and Customs”[^key-726a37b1aa01a23d443672194bafc60e]
+## 4. “Her Majesty’s Revenue and Customs”[^c-726a37b1aa01a23d443672194bafc60e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-726a37b1aa01a23d443672194bafc60e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2005/11/section/4) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-726a37b1aa01a23d443672194bafc60e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2005/11/section/4) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

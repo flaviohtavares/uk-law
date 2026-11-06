@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Amendments consequential on sections 153 to 157[^key-fd3a256b09476fc96441dbffa1f0f3b9]
+## 158. Amendments consequential on sections 153 to 157[^c-fd3a256b09476fc96441dbffa1f0f3b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 19 contains amendments consequential on sections 153 to 157.
 
 ## Annotations
 
-[^key-fd3a256b09476fc96441dbffa1f0f3b9]: Commencement: S. 158 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-fd3a256b09476fc96441dbffa1f0f3b9]: Commencement: S. 158 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)

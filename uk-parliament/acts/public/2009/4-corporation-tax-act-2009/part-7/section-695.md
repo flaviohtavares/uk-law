@@ -52,7 +52,7 @@ summary: ''
 
 (9) But A and B are not taken to be controlled by the same person just because they have been under the control of—
 
-- (za)[^key-f481e7b8da150eac1b2429440b3ebe81] the Crown,
+- (za)[^c-f481e7b8da150eac1b2429440b3ebe81] the Crown,
 - (a) a Minister of the Crown,
 - (b) a government department,
 - (c) a Northern Ireland department,
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f481e7b8da150eac1b2429440b3ebe81]: Textual amendment: S. 695(9)(za) inserted (1.4.2009 retrospective) by [Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2009/2860/article/6/6)
+[^c-f481e7b8da150eac1b2429440b3ebe81]: Textual amendment: S. 695(9)(za) inserted (1.4.2009 retrospective) by [Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2009/2860/article/6/6)

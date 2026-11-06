@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. General powers[^key-6d16c072ab4259e122f8e6ce477fb125]
+## 7. General powers[^c-6d16c072ab4259e122f8e6ce477fb125]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d16c072ab4259e122f8e6ce477fb125]: Commencement: S. 7 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6d16c072ab4259e122f8e6ce477fb125]: Commencement: S. 7 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

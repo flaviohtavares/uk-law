@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13YB. Directions in respect of functions relating to provision of services[^key-70d2f9c3403451f3e8aa91932cc412bc][^key-c17c605fbd7569f0644650e6ed66435c]
+## 13YB. Directions in respect of functions relating to provision of services[^c-70d2f9c3403451f3e8aa91932cc412bc][^c-c17c605fbd7569f0644650e6ed66435c]
 
 *Extent: E+W*
 
-(1)[^key-aa78b767973339b3051623eb7cba2a29] NHS England may by direction provide for any of its relevant functions to be exercised by one or more integrated care boards.
+(1)[^c-aa78b767973339b3051623eb7cba2a29] NHS England may by direction provide for any of its relevant functions to be exercised by one or more integrated care boards.
 
 (2) In this section “**relevant function**” means—
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-70d2f9c3403451f3e8aa91932cc412bc]: Textual amendment: [S. 13YB](https://www.legislation.gov.uk/ukpga/2006/41/section/13YB) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/13/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/a)
+[^c-70d2f9c3403451f3e8aa91932cc412bc]: Textual amendment: [S. 13YB](https://www.legislation.gov.uk/ukpga/2006/41/section/13YB) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/13/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/a)
 
-[^key-c17c605fbd7569f0644650e6ed66435c]: Textual amendment: Pt. 2 Ch. A1 inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/23/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1831/article/4)); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c17c605fbd7569f0644650e6ed66435c]: Textual amendment: Pt. 2 Ch. A1 inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/23/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1831/article/4)); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-aa78b767973339b3051623eb7cba2a29]: Modification: [S. 13YB(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/13YB/1) restricted (29.9.2023) by [The National Health Service (Disapplication of NHS England’s Powers of Direction) (England) Regulations 2023 (S.I. 2023/945)](https://www.legislation.gov.uk/uksi/2023/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/945/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/945/regulation/3)
+[^c-aa78b767973339b3051623eb7cba2a29]: Modification: [S. 13YB(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/13YB/1) restricted (29.9.2023) by [The National Health Service (Disapplication of NHS England’s Powers of Direction) (England) Regulations 2023 (S.I. 2023/945)](https://www.legislation.gov.uk/uksi/2023/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/945/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/945/regulation/3)

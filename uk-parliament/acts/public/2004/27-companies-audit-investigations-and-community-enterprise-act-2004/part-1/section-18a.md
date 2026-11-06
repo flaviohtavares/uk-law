@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Power to confer exemption from liability[^key-43fbd036c64db2adba14e9a6855d096e]
+## 18A. Power to confer exemption from liability[^c-43fbd036c64db2adba14e9a6855d096e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43fbd036c64db2adba14e9a6855d096e]: Textual amendment: S. 18A inserted (1.1.2016 for specified purposes, 1.6.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/38/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/3/a); S.I. 2016/532, reg. 4(1)
+[^c-43fbd036c64db2adba14e9a6855d096e]: Textual amendment: S. 18A inserted (1.1.2016 for specified purposes, 1.6.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/38/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/3/a); S.I. 2016/532, reg. 4(1)

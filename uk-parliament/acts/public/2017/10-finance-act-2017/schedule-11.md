@@ -24,7 +24,7 @@ Section 56
 
 ### HMRC powers to obtain information etc.
 
-**1.**[^key-b04f54f245beeb8e5a8e7515ffc22a6c] (1) Schedule 36 to FA 2008 (powers to obtain information etc.) is amended as follows.
+**1.**[^c-b04f54f245beeb8e5a8e7515ffc22a6c] (1) Schedule 36 to FA 2008 (powers to obtain information etc.) is amended as follows.
 
 (2) In paragraph 10 (power to inspect business premises etc.), at the end insert—
 
@@ -38,7 +38,7 @@ Section 56
 
 ### Penalties: failure to notify etc.
 
-**2.**[^key-fff4e82e102e339caac23177ac3f4d45] (1) Schedule 41 to FA 2008 (penalties: failure to notify etc.) is amended as follows.
+**2.**[^c-fff4e82e102e339caac23177ac3f4d45] (1) Schedule 41 to FA 2008 (penalties: failure to notify etc.) is amended as follows.
 
 (2) In the Table in paragraph 1, after the entries relating to insurance premium tax, insert—
 
@@ -77,13 +77,13 @@ Section 56
 
 ### Penalties: failure to comply with requirements relating to returns
 
-**3.**[^key-db4adaa754e49988b6f2b1e3fdc7e82c] In Schedule 24 to FA 2007 (penalties for errors), in the Table in paragraph 1, after the entry relating to the statement under section 1(1)(a) of the Petroleum Revenue Tax Act 1980, insert—
+**3.**[^c-db4adaa754e49988b6f2b1e3fdc7e82c] In Schedule 24 to FA 2007 (penalties for errors), in the Table in paragraph 1, after the entry relating to the statement under section 1(1)(a) of the Petroleum Revenue Tax Act 1980, insert—
 
 > |  |  |
 > | --- | --- |
 > | Soft drinks industry levy | Return under regulations under section 52 of FA 2017 |
 
-**4.**[^key-a0dffc1129611c660df4ed8cff8f4de2] (1) Schedule 55 to FA 2009 (penalty for failure to make returns etc) is amended in accordance with this paragraph.
+**4.**[^c-a0dffc1129611c660df4ed8cff8f4de2] (1) Schedule 55 to FA 2009 (penalty for failure to make returns etc) is amended in accordance with this paragraph.
 
 (2) In paragraph 1(4), in the definition of “penalty date”, for “13” substitute “ 13A ”.
 
@@ -95,7 +95,7 @@ Section 56
 
 (4) In subsections (2) and (4) of section 106 of FA 2009 (penalties for failure to make returns: commencement) references to Schedule 55 to that Act have effect as references to that Schedule as amended by this paragraph.
 
-**5.**[^key-f580076bc917942c8bd1128af7f37f80] (1) Schedule 56 to FA 2009 (penalty for failure to make payments on time) is amended in accordance with this paragraph.
+**5.**[^c-f580076bc917942c8bd1128af7f37f80] (1) Schedule 56 to FA 2009 (penalty for failure to make payments on time) is amended in accordance with this paragraph.
 
 (2) In the Table in paragraph 1, after item 11 insert—
 
@@ -129,7 +129,7 @@ Section 56
 
 ### Interest
 
-**7.**[^key-cf29aea6649f218aad5d72f61292658c] In Schedule 53 to FA 2009 (late payment interest) after paragraph 11B insert—
+**7.**[^c-cf29aea6649f218aad5d72f61292658c] In Schedule 53 to FA 2009 (late payment interest) after paragraph 11B insert—
 
 > **Soft drinks industry levy due from unregistered persons**
 >
@@ -139,14 +139,14 @@ Section 56
 
 ## Annotations
 
-[^key-b04f54f245beeb8e5a8e7515ffc22a6c]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/1) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-b04f54f245beeb8e5a8e7515ffc22a6c]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/1) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
 
-[^key-fff4e82e102e339caac23177ac3f4d45]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/2) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-fff4e82e102e339caac23177ac3f4d45]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/2) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
 
-[^key-db4adaa754e49988b6f2b1e3fdc7e82c]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/3) in force at 6.4.2018 by [S.I. 2018/467](https://www.legislation.gov.uk/uksi/2018/467), [reg. 2](https://www.legislation.gov.uk/uksi/2018/467/regulation/2)
+[^c-db4adaa754e49988b6f2b1e3fdc7e82c]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/3) in force at 6.4.2018 by [S.I. 2018/467](https://www.legislation.gov.uk/uksi/2018/467), [reg. 2](https://www.legislation.gov.uk/uksi/2018/467/regulation/2)
 
-[^key-a0dffc1129611c660df4ed8cff8f4de2]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/4) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-a0dffc1129611c660df4ed8cff8f4de2]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/4) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
 
-[^key-f580076bc917942c8bd1128af7f37f80]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/5) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-f580076bc917942c8bd1128af7f37f80]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/5) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
 
-[^key-cf29aea6649f218aad5d72f61292658c]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/7) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-cf29aea6649f218aad5d72f61292658c]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2017/10/schedule/11/paragraph/7) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

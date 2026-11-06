@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Conditions for a licence[^key-e54734ee88940cbac31c4cb521e988ac]
+## 16. Conditions for a licence[^c-e54734ee88940cbac31c4cb521e988ac]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ The applicant must—
 
 ## Annotations
 
-[^key-e54734ee88940cbac31c4cb521e988ac]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2014/951/regulation/16) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-e54734ee88940cbac31c4cb521e988ac]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2014/951/regulation/16) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

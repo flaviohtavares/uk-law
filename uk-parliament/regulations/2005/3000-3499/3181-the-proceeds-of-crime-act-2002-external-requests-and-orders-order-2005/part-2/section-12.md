@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Seizure in pursuance of restraint order[^key-cec320ac9c6f5afa5d6b0d793cf10587]
+## 12. Seizure in pursuance of restraint order[^c-cec320ac9c6f5afa5d6b0d793cf10587]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cec320ac9c6f5afa5d6b0d793cf10587]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2005/3181/article/12) omitted (30.11.2015) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [10](https://www.legislation.gov.uk/uksi/2015/1750/article/10)
+[^c-cec320ac9c6f5afa5d6b0d793cf10587]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2005/3181/article/12) omitted (30.11.2015) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [10](https://www.legislation.gov.uk/uksi/2015/1750/article/10)

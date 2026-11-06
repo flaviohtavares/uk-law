@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Amendment of regulation Q2[^key-694f1b66458c3a87d983263d45d12342]
+## 46. Amendment of regulation Q2[^c-694f1b66458c3a87d983263d45d12342]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In paragraph (1)[^f00022] of regulation Q2 (right to buy an unreduced retirement
 
 ## Annotations
 
-[^key-694f1b66458c3a87d983263d45d12342]: Commencement: Reg. 46 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-694f1b66458c3a87d983263d45d12342]: Commencement: Reg. 46 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00022]: Footnote: Paragraph (1) was amended by [S.I.2005/3074](https://www.legislation.gov.uk/uksi/2005/3074).

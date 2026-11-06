@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Employer additional contribution: ill-health award[^key-9fa7e12ca3ce1f0294db6a66459e54a3]
+## 118. Employer additional contribution: ill-health award[^c-9fa7e12ca3ce1f0294db6a66459e54a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fa7e12ca3ce1f0294db6a66459e54a3]: Commencement: [Reg. 118](https://www.legislation.gov.uk/uksi/2014/2848/regulation/118) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-9fa7e12ca3ce1f0294db6a66459e54a3]: Commencement: [Reg. 118](https://www.legislation.gov.uk/uksi/2014/2848/regulation/118) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Effect of allocation[^key-3617f06f5186f281f7c529cc4033bcca]
+## 74. Effect of allocation[^c-3617f06f5186f281f7c529cc4033bcca]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ the scheme manager must pay to the pensioner (distinguishing it from any other p
 
 ## Annotations
 
-[^key-3617f06f5186f281f7c529cc4033bcca]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2015/19/regulation/74) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-3617f06f5186f281f7c529cc4033bcca]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2015/19/regulation/74) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

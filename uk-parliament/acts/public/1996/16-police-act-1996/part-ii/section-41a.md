@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Power to give directions as to action plans[^key-e463d33b99e92b92d8db3d2b02cd0898]
+## 41A. Power to give directions as to action plans[^c-e463d33b99e92b92d8db3d2b02cd0898]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e463d33b99e92b92d8db3d2b02cd0898]: Textual amendment: S. 41A repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/29), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)(r)(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c/r/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-e463d33b99e92b92d8db3d2b02cd0898]: Textual amendment: S. 41A repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/29), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)(r)(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c/r/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))

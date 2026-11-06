@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — AMENDMENT OF THE SOCIAL SECURITY (PAYMENTS ON ACCOUNT, OVERPAYMENTS AND RECOVERY) REGULATIONS 1988[^key-579c621f70c02a523cf13ce9c6e06fe0]
+## SCHEDULE 9 — AMENDMENT OF THE SOCIAL SECURITY (PAYMENTS ON ACCOUNT, OVERPAYMENTS AND RECOVERY) REGULATIONS 1988[^c-579c621f70c02a523cf13ce9c6e06fe0]
 
 *Extent: E+W+S*
 
@@ -73,7 +73,7 @@ Article 3(9)
 
 ## Annotations
 
-[^key-579c621f70c02a523cf13ce9c6e06fe0]: Modification: Sch. 9 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-579c621f70c02a523cf13ce9c6e06fe0]: Modification: Sch. 9 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c16476941]: Marginal citation: Regulation 1(2) was amended by [S.I. 1988/1725](https://www.legislation.gov.uk/uksi/1988/1725), 1989/136, 1991/2742, 1995/829 and 1996/1345.
 

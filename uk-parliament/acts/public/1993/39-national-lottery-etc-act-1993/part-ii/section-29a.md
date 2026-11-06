@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Reallocation of funds[^key-8a6d22a2792072d055c6664434797a7d]
+## 29A. Reallocation of funds[^c-8a6d22a2792072d055c6664434797a7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a6d22a2792072d055c6664434797a7d]: Textual amendment: S. 29A inserted (1.10.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/8/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/b)
+[^c-8a6d22a2792072d055c6664434797a7d]: Textual amendment: S. 29A inserted (1.10.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/8/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/b)

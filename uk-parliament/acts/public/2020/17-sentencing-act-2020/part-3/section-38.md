@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Derogatory assertion order and restriction on reporting of assertions[^key-a54a1265780dbfedfe4ad9aeebe9e9d5]
+## 38. Derogatory assertion order and restriction on reporting of assertions[^c-a54a1265780dbfedfe4ad9aeebe9e9d5]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a54a1265780dbfedfe4ad9aeebe9e9d5]: Commencement: S. 38 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a54a1265780dbfedfe4ad9aeebe9e9d5]: Commencement: S. 38 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

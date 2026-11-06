@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Procedure for first regulations under section 39: consultation[^key-9f181e7d9f94e660c0ad7d3b746d57bc]
+## 41. Procedure for first regulations under section 39: consultation[^c-9f181e7d9f94e660c0ad7d3b746d57bc]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f181e7d9f94e660c0ad7d3b746d57bc]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/18/section/41) in force at 17.5.2018 by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 2](https://www.legislation.gov.uk/ssi/2018/138/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2018/138/schedule/1)
+[^c-9f181e7d9f94e660c0ad7d3b746d57bc]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/18/section/41) in force at 17.5.2018 by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 2](https://www.legislation.gov.uk/ssi/2018/138/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2018/138/schedule/1)

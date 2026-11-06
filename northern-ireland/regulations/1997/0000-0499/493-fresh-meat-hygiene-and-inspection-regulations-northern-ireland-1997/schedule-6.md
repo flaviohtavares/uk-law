@@ -24,7 +24,7 @@ Regulations 4(2)(*a*)(iv) and (v) and (11), 7(1)(*e*), 14(4), and 17(3)
 
 ### Part I — General Requirements Applicable to Farmed Game Handling Facilities
 
-**1.**[^key-f11c31f6a6f6c170fa34d42be58267e6] The occupier of every farmed game handling facility shall ensure that—
+**1.**[^c-f11c31f6a6f6c170fa34d42be58267e6] The occupier of every farmed game handling facility shall ensure that—
 
 - (a) farmed game intended for slaughter there undergoes adequate veterinary inspection;
 - (b) the Department is informed at least 72 hours in advance of the date and time on which farmed game is to be slaughtered in such premises;
@@ -39,7 +39,7 @@ Regulations 4(2)(*a*)(iv) and (v) and (11), 7(1)(*e*), 14(4), and 17(3)
 
 ### Part II — General Requirements applicable to Farmed Game Processing Facilities
 
-**1.**[^key-b20f589fa4c13c86cda47a298e684ee9] The farmed game processing facility shall have—
+**1.**[^c-b20f589fa4c13c86cda47a298e684ee9] The farmed game processing facility shall have—
 
 - (a) a clearly defined boundary with means of controlling access to and from the premises;
 - (b) at places readily accessible to the work stations and sanitary conveniences, suitable facilities, that is to say—
@@ -90,7 +90,7 @@ Regulations 4(2)(*a*)(iv) and (v) and (11), 7(1)(*e*), 14(4), and 17(3)
 - (ee) a clear separation between the soiled and clean working areas of the building so as to protect the clean areas from contamination; and
 - (ff) a room suitably equipped for carrying out an examination for trichinellosis where such examination is carried out in the premises.
 
-**2.**[^key-28342b718d1f22252a2f802a63696e85] Every room in which farmed game meat is produced, worked on, handled or stored and any area through which farmed game meat is transported shall have—
+**2.**[^c-28342b718d1f22252a2f802a63696e85] Every room in which farmed game meat is produced, worked on, handled or stored and any area through which farmed game meat is transported shall have—
 
 - (a) floors and floor surfaces of impermeable, rot proof non-slip and durable material, which shall be so constructed and kept in such good order, repair and condition as to enable them to be thoroughly cleaned and disinfected; (such floors shall be laid in such a way as to facilitate the drainage of waste water);
 - (b) interior wall surfaces faced with a smooth, durable, impermeable and washable material (which shall be of a light colour) to the following heights—
@@ -104,11 +104,11 @@ Regulations 4(2)(*a*)(iv) and (v) and (11), 7(1)(*e*), 14(4), and 17(3)
 - (g) suitable and sufficient means of ventilation to the external air (except in the case of a humidity-controlled or temperature controlled chamber) including, where necessary, adequate means of steam extraction; (all ventilation systems shall at all times be kept in good working order); and
 - (h) adequate artificial lighting throughout the workrooms (which lighting shall not distort colours and shall be of an overall intensity of not less than 220 lux; save that at places where inspection of farmed game meat is normally carried out the overall intensity shall be not less than 540 lux).
 
-**3.**[^key-3862f432131db70d67afecdacf54773e] The occupier of every farmed game processing facility shall ensure that the requirements of Schedule 7 are observed.
+**3.**[^c-3862f432131db70d67afecdacf54773e] The occupier of every farmed game processing facility shall ensure that the requirements of Schedule 7 are observed.
 
 ### Part III — General Requirements applicable to Low Throughput Farmed Game Processing Facilities
 
-**1.**[^key-f3e7c251da0e40136398a4e360fcc0f8] All low throughput farmed game processing facilities shall have—
+**1.**[^c-f3e7c251da0e40136398a4e360fcc0f8] All low throughput farmed game processing facilities shall have—
 
 - (a) a clearly defined boundary;
 - (b) at places readily accessible to the work stations and sanitary conveniences, suitable facilities, that is to say—
@@ -147,9 +147,9 @@ Regulations 4(2)(*a*)(iv) and (v) and (11), 7(1)(*e*), 14(4), and 17(3)
 - (w) suitable and sufficient room or rooms for the storage of antlers, hooves, fat and other waste material unless these are to be collected and taken away daily; save that where a facility is provided in accordance with sub-paragraph (*v*) for the storage of hides and skins, that facility shall also be regarded as suitable and sufficient for the storage of antlers, hooves, fat and other waste material;
 - (x) OVS facilities.
 
-**2.**[^key-2f9eb3bfd5ea693f14abcb6cb52358f4] The equipment and rooms referred to in sub-paragraphs 1(*g*) and (*h*) shall not be required where fresh meat is removed from any low throughput farmed game processing facility within 24 hours of slaughter for delivery to cutting premises or butchers shops and such transportation can be completed within one hour.
+**2.**[^c-2f9eb3bfd5ea693f14abcb6cb52358f4] The equipment and rooms referred to in sub-paragraphs 1(*g*) and (*h*) shall not be required where fresh meat is removed from any low throughput farmed game processing facility within 24 hours of slaughter for delivery to cutting premises or butchers shops and such transportation can be completed within one hour.
 
-**3.**[^key-b91aeac3ddc72962e3cf77650062ca3d] Every room in which farmed game meat is produced, worked on, handled or stored and any area through which farmed game meat is transported shall have—
+**3.**[^c-b91aeac3ddc72962e3cf77650062ca3d] Every room in which farmed game meat is produced, worked on, handled or stored and any area through which farmed game meat is transported shall have—
 
 - (a) floors and floor surfaces of impermeable, rotproof non-slip and durable material, which shall be so constructed and kept in such good order, repair and condition as to enable them to be thoroughly cleaned and disinfected; (such floors shall be laid in such a way as to facilitate the drainage of water);
 - (b) interior wall surfaces faced with a smooth, durable, impermeable and washable material (which shall be of a light colour) to the following heights—
@@ -162,22 +162,22 @@ Regulations 4(2)(*a*)(iv) and (v) and (11), 7(1)(*e*), 14(4), and 17(3)
 - (f) suitable and sufficient means of ventilation to the external air (except in the case of a humidity-controlled or temperature controlled chamber) including, where necessary, adequate means of steam extraction; (all ventilation systems to be kept at all times in good working order); and
 - (g) adequate artificial lighting throughout the workrooms which lighting shall not distort colours and shall be of an overall intensity of not less than 220 lux; save that at places where inspection of farmed game meat is normally carried out the overall intensity shall be not less than 540 lux).
 
-**4.**[^key-8bd225b58270866cfb13ddb6b857967e] The occupier of every low throughput farmed game processing facility shall ensure that the requirements of Schedule 7 are observed.
+**4.**[^c-8bd225b58270866cfb13ddb6b857967e] The occupier of every low throughput farmed game processing facility shall ensure that the requirements of Schedule 7 are observed.
 
 ## Annotations
 
-[^key-f11c31f6a6f6c170fa34d42be58267e6]: Commencement: Sch. 6 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-f11c31f6a6f6c170fa34d42be58267e6]: Commencement: Sch. 6 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-b20f589fa4c13c86cda47a298e684ee9]: Commencement: Sch. 6 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-b20f589fa4c13c86cda47a298e684ee9]: Commencement: Sch. 6 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-28342b718d1f22252a2f802a63696e85]: Commencement: Sch. 6 Pt. II para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-28342b718d1f22252a2f802a63696e85]: Commencement: Sch. 6 Pt. II para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-3862f432131db70d67afecdacf54773e]: Commencement: Sch. 6 Pt. II para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-3862f432131db70d67afecdacf54773e]: Commencement: Sch. 6 Pt. II para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-f3e7c251da0e40136398a4e360fcc0f8]: Commencement: Sch. 6 Pt. III para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-f3e7c251da0e40136398a4e360fcc0f8]: Commencement: Sch. 6 Pt. III para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-2f9eb3bfd5ea693f14abcb6cb52358f4]: Commencement: Sch. 6 Pt. III para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-2f9eb3bfd5ea693f14abcb6cb52358f4]: Commencement: Sch. 6 Pt. III para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-b91aeac3ddc72962e3cf77650062ca3d]: Commencement: Sch. 6 Pt. III para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-b91aeac3ddc72962e3cf77650062ca3d]: Commencement: Sch. 6 Pt. III para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-8bd225b58270866cfb13ddb6b857967e]: Commencement: Sch. 6 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-8bd225b58270866cfb13ddb6b857967e]: Commencement: Sch. 6 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

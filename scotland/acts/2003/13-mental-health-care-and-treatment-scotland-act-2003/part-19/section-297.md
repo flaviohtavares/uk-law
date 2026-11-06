@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 297. Removal from public place[^key-fe4418fd6c4e0ba7315d5f1cf32ce67c]
+## 297. Removal from public place[^c-fe4418fd6c4e0ba7315d5f1cf32ce67c]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ a constable may, at any time during the period mentioned in subsection (2) above
 
 ## Annotations
 
-[^key-fe4418fd6c4e0ba7315d5f1cf32ce67c]: Commencement: S. 297 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-fe4418fd6c4e0ba7315d5f1cf32ce67c]: Commencement: S. 297 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

@@ -28,7 +28,7 @@ summary: ''
 (1A) The Lord Chief Justice may, after consulting the Lord Chancellor, appoint one of the following persons as mentioned in subsection (1)(a)—
 
 - (a) a judge of the Court of Appeal;
-- (b)[^key-972c6733128ee4bbe43ea79a4f3ca0a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-972c6733128ee4bbe43ea79a4f3ca0a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) one of Her Majesty's Counsel.
 
 (1B) An appointment under this section is—
@@ -52,7 +52,7 @@ as the Lord Chief Justice determines, after consulting the Lord Chancellor.
 
 [^c20838071]: Textual amendment: [S. 10(1)-(1B)](https://www.legislation.gov.uk/ukpga/1970/31/section/10/1) substituted for s. 10(1) (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/1), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 66(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/66/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-972c6733128ee4bbe43ea79a4f3ca0a9]: Textual amendment: [S. 10(1A)(b)](https://www.legislation.gov.uk/ukpga/1970/31/section/10/1A/b) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/2/1) (with [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/2/2)); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+[^c-972c6733128ee4bbe43ea79a4f3ca0a9]: Textual amendment: [S. 10(1A)(b)](https://www.legislation.gov.uk/ukpga/1970/31/section/10/1A/b) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/2/1) (with [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/2/2)); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
 
 [^c9991851]: Textual amendment: Word substituted by [Patents Act 1977 (c. 37)](https://www.legislation.gov.uk/ukpga/1977/37), [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/ukpga/1977/37/schedule/5/paragraph/5/1)
 

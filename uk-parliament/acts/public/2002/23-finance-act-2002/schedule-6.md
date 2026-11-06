@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Minor amendments to Schedule E charge[^key-affd30e8709d932066fea883bca34703]
+## SCHEDULE 6 — Minor amendments to Schedule E charge[^c-affd30e8709d932066fea883bca34703]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Section 37
 
-### 1. Share options[^key-affd30e8709d932066fea883bca34703]
+### 1. Share options[^c-affd30e8709d932066fea883bca34703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Credit-tokens and non-cash vouchers[^key-affd30e8709d932066fea883bca34703]
+### 2. Credit-tokens and non-cash vouchers[^c-affd30e8709d932066fea883bca34703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-affd30e8709d932066fea883bca34703] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-affd30e8709d932066fea883bca34703] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Taxation of benefit where income received free of tax[^key-affd30e8709d932066fea883bca34703]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Benefits in connection with termination of employment or change in duties or emoluments[^key-affd30e8709d932066fea883bca34703]
+### 4. Taxation of benefit where income received free of tax[^c-affd30e8709d932066fea883bca34703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Priority between charges under sections 148 and 595 of the Taxes Act 1988[^key-affd30e8709d932066fea883bca34703]
+### 5. Benefits in connection with termination of employment or change in duties or emoluments[^c-affd30e8709d932066fea883bca34703]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Priority between charges under sections 148 and 595 of the Taxes Act 1988[^c-affd30e8709d932066fea883bca34703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-affd30e8709d932066fea883bca34703]: Textual amendment: Sch. 6 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-affd30e8709d932066fea883bca34703]: Textual amendment: Sch. 6 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

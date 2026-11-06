@@ -44,7 +44,7 @@ The Secretary of State for Work and Pensions has made an Order[^f00003] under se
 
 Accordingly the Department for Communities makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-1fa1c84c4d4db0073c8b70881d3aa1d1][^key-969a16e5653ede0f68c42ee5c369d7cf][^key-85b979f0bc9b88943c2dbb32de07a392]
+## 1. Citation, commencement and interpretation[^c-1fa1c84c4d4db0073c8b70881d3aa1d1][^c-969a16e5653ede0f68c42ee5c369d7cf][^c-85b979f0bc9b88943c2dbb32de07a392]
 
 (1) This Order may be cited as the State Pension Revaluation for Transitional Pensions Order (Northern Ireland) 2022 and shall come into operation on—
 
@@ -53,7 +53,7 @@ Accordingly the Department for Communities makes the following Order.
 
 (2) In this Article “**a state pension**” means a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00007].
 
-## 2. Revaluing percentage for transitional pensions[^key-66b8c9fd84652145fbedb625093ffffd][^key-6ada57e9a77e88ef0fc25304e74fc817][^key-3d4037c71de625a256bd2ab6ed958c9b]
+## 2. Revaluing percentage for transitional pensions[^c-66b8c9fd84652145fbedb625093ffffd][^c-6ada57e9a77e88ef0fc25304e74fc817][^c-3d4037c71de625a256bd2ab6ed958c9b]
 
 For the purposes of section 130AC(2) of the Social Security Administration (Northern Ireland) Act 1992 (revaluation for transitional pensions under Pensions Act (Northern Ireland 2015), the percentage specified is 23.5 per cent.
 
@@ -87,11 +87,11 @@ Article 2 of this Order specifies the revaluing percentage as 23.5 per cent.
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
-[^key-1fa1c84c4d4db0073c8b70881d3aa1d1]: Commencement: Art. 1 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1)
+[^c-1fa1c84c4d4db0073c8b70881d3aa1d1]: Commencement: Art. 1 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1)
 
-[^key-969a16e5653ede0f68c42ee5c369d7cf]: Commencement: Art. 1 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/a)
+[^c-969a16e5653ede0f68c42ee5c369d7cf]: Commencement: Art. 1 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/a)
 
-[^key-85b979f0bc9b88943c2dbb32de07a392]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/298/article/1) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/b)
+[^c-85b979f0bc9b88943c2dbb32de07a392]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/298/article/1) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/b)
 
 [^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 15(1) was amended by regulation 2(6) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299) and Article 9(7)(a) of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411)
 
@@ -99,8 +99,8 @@ Article 2 of this Order specifies the revaluing percentage as 23.5 per cent.
 
 [^f00007]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5)
 
-[^key-66b8c9fd84652145fbedb625093ffffd]: Commencement: Art. 2 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1)
+[^c-66b8c9fd84652145fbedb625093ffffd]: Commencement: Art. 2 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1)
 
-[^key-6ada57e9a77e88ef0fc25304e74fc817]: Commencement: Art. 2 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/a)
+[^c-6ada57e9a77e88ef0fc25304e74fc817]: Commencement: Art. 2 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/a)
 
-[^key-3d4037c71de625a256bd2ab6ed958c9b]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/298/article/2) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/b)
+[^c-3d4037c71de625a256bd2ab6ed958c9b]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/298/article/2) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/298/article/1/1/b)

@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The School Teachers’ Pay and Conditions (No. 2) (Wales) Order 2023 (revoked)[^key-dc6c313ac618d6d4b0a9af68da55fd8f]
+The School Teachers’ Pay and Conditions (No. 2) (Wales) Order 2023 (revoked)[^c-dc6c313ac618d6d4b0a9af68da55fd8f]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 28 October 2023
 
-[^key-dc6c313ac618d6d4b0a9af68da55fd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc6c313ac618d6d4b0a9af68da55fd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-dc6c313ac618d6d4b0a9af68da55fd8f]
+## 1. Title, commencement, application and interpretation[^c-dc6c313ac618d6d4b0a9af68da55fd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The 2022 Document and the 2023 Document[^key-dc6c313ac618d6d4b0a9af68da55fd8f]
+## 2. The 2022 Document and the 2023 Document[^c-dc6c313ac618d6d4b0a9af68da55fd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-dc6c313ac618d6d4b0a9af68da55fd8f]
+## 3. Revocation[^c-dc6c313ac618d6d4b0a9af68da55fd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc6c313ac618d6d4b0a9af68da55fd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc6c313ac618d6d4b0a9af68da55fd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dc6c313ac618d6d4b0a9af68da55fd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc6c313ac618d6d4b0a9af68da55fd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc6c313ac618d6d4b0a9af68da55fd8f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2023/1067) revoked (29.11.2024) by [The School Teachers’ Pay and Conditions (Wales) Order 2024 (S.I. 2024/1119)](https://www.legislation.gov.uk/wsi/2024/1119), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/1119/article/1/2), [3](https://www.legislation.gov.uk/wsi/2024/1119/article/3)
+[^c-dc6c313ac618d6d4b0a9af68da55fd8f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2023/1067) revoked (29.11.2024) by [The School Teachers’ Pay and Conditions (Wales) Order 2024 (S.I. 2024/1119)](https://www.legislation.gov.uk/wsi/2024/1119), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/1119/article/1/2), [3](https://www.legislation.gov.uk/wsi/2024/1119/article/3)

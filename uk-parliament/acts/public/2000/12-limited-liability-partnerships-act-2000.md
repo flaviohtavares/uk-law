@@ -33,7 +33,7 @@ An Act to make provision for limited liability partnerships.
 
 \[20th July 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c98cb14324c5c5573df9066e11d514c6]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c98cb14324c5c5573df9066e11d514c6]
 
 ## Introductory
 
@@ -67,25 +67,25 @@ references to a limited liability partnership are to such a body corporate.
 (1) For a limited liability partnership to be incorporated—
 
 - (a) two or more persons associated for carrying on a lawful business with a view to profit must have subscribed their names to an incorporation document,
-- (b)[^key-f91876a6879c6a725b178f3c6612b983] the incorporation document or a copy of it must have been delivered to the registrar, and
-- (c) there must have been so delivered a statement [^key-0beafae4ea1883a46bed9114c03b526b]... made by either a solicitor engaged in the formation of the limited liability partnership or anyone who subscribed his name to the incorporation document, that the requirement imposed by paragraph (a) has been complied with.
+- (b)[^c-f91876a6879c6a725b178f3c6612b983] the incorporation document or a copy of it must have been delivered to the registrar, and
+- (c) there must have been so delivered a statement [^c-0beafae4ea1883a46bed9114c03b526b]... made by either a solicitor engaged in the formation of the limited liability partnership or anyone who subscribed his name to the incorporation document, that the requirement imposed by paragraph (a) has been complied with.
 
 (2) The incorporation document must—
 
-- (a)[^key-ee8d3e11eb88f83e042efa04074a0450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ee8d3e11eb88f83e042efa04074a0450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) state the name of the limited liability partnership,
-- (c) state whether the registered office of the limited liability partnership is to be situated in England and Wales, in Wales , in Scotland or in Northern Ireland[^key-565e98789cf878a1213c405ca4c91b8b],
-- (d) state the address of that registered office, which must be an appropriate address,[^key-df86351b9bdc56db5ce6b1444ec40a4e]
-- (da)[^key-ba5be09661bcfe2386ae245fcb1d2ec0] state the intended registered email address of the limited liability partnership, which must be an appropriate email address,
-- (e)[^key-a160b6e57a37073a0a7664ada50156f6] give the required information about[^key-ec2b2b2e87d24a792eaec6967d1c88bf] each of the persons who are to be members of the limited liability partnership on incorporation, and *(affected by repeal, see note)*[^key-8f2ebff495308c33dc0dc5b9a881dd13]
-- (ea)[^key-ef38d732c1ddb87f82f746dbf8d7796e] in the case of each individual named as a member, state that the individual’s identity is verified within the meaning of section 1110A of the Companies Act 2006 (meaning of “**identity is verified**”),
-- (eb)[^key-affe1ef427b68981dab47d039bac0d21] state that no person who is named as a member is disqualified under the directors disqualification legislation,
-- (f) either specify which of those persons are to be designated members or state that every person who from time to time is a member of the limited liability partnership is a designated member and[^key-6d7758f51c4e2495fcb660914c417518].
-- (g)[^key-2bde814428b32390081b15e0f7c32807] include a statement of initial significant control.
+- (c) state whether the registered office of the limited liability partnership is to be situated in England and Wales, in Wales , in Scotland or in Northern Ireland[^c-565e98789cf878a1213c405ca4c91b8b],
+- (d) state the address of that registered office, which must be an appropriate address,[^c-df86351b9bdc56db5ce6b1444ec40a4e]
+- (da)[^c-ba5be09661bcfe2386ae245fcb1d2ec0] state the intended registered email address of the limited liability partnership, which must be an appropriate email address,
+- (e)[^c-a160b6e57a37073a0a7664ada50156f6] give the required information about[^c-ec2b2b2e87d24a792eaec6967d1c88bf] each of the persons who are to be members of the limited liability partnership on incorporation, and *(affected by repeal, see note)*[^c-8f2ebff495308c33dc0dc5b9a881dd13]
+- (ea)[^c-ef38d732c1ddb87f82f746dbf8d7796e] in the case of each individual named as a member, state that the individual’s identity is verified within the meaning of section 1110A of the Companies Act 2006 (meaning of “**identity is verified**”),
+- (eb)[^c-affe1ef427b68981dab47d039bac0d21] state that no person who is named as a member is disqualified under the directors disqualification legislation,
+- (f) either specify which of those persons are to be designated members or state that every person who from time to time is a member of the limited liability partnership is a designated member and[^c-6d7758f51c4e2495fcb660914c417518].
+- (g)[^c-2bde814428b32390081b15e0f7c32807] include a statement of initial significant control.
 
-(2ZA)[^key-0210a1e9c4c4dd82a5edf1c93bb8d2a3] The required information mentioned in subsection (2)(e) is the information mentioned in sections 167J and 167K of the Companies Act 2006 as applied to limited liability partnerships by regulation 17A of the 2009 Regulations.
+(2ZA)[^c-0210a1e9c4c4dd82a5edf1c93bb8d2a3] The required information mentioned in subsection (2)(e) is the information mentioned in sections 167J and 167K of the Companies Act 2006 as applied to limited liability partnerships by regulation 17A of the 2009 Regulations.
 
-(2ZB)[^key-898da993bdf3b2975f26dcc5856a3ec5] Where any of the persons named as members would be disqualified under the directors disqualification legislation but for the permission of a court to act, the incorporation document must include a statement to that effect, in respect of each of them, specifying—
+(2ZB)[^c-898da993bdf3b2975f26dcc5856a3ec5] Where any of the persons named as members would be disqualified under the directors disqualification legislation but for the permission of a court to act, the incorporation document must include a statement to that effect, in respect of each of them, specifying—
 
 - (a) the person’s name,
 - (b) the court by which permission is given, and
@@ -96,9 +96,9 @@ references to a limited liability partnership are to such a body corporate.
 - (a) the person’s name, and
 - (b) the date on which the licence was issued and by whom it was issued.
 
-(2A)[^key-d6c1cc02e952cef2ea097e6d17c97dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-d6c1cc02e952cef2ea097e6d17c97dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2B)[^key-d6c1cc02e952cef2ea097e6d17c97dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-d6c1cc02e952cef2ea097e6d17c97dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If a person makes a false statement under subsection (1)(c) which he—
 
@@ -112,18 +112,18 @@ he commits an offence.
 - (a) on summary conviction, to imprisonment for a period not exceeding six months or a fine not exceeding the statutory maximum, or to both, or
 - (b) on conviction on indictment, to imprisonment for a period not exceeding two years or a fine, or to both.
 
-(5)[^key-d1a0d2a93d759aa9b9bcdda6095585b9] In this section—
+(5)[^c-d1a0d2a93d759aa9b9bcdda6095585b9] In this section—
 
 - “**appropriate address**” means an address at which, in the ordinary course of events—
   - (a) a document addressed to the limited liability partnership, and delivered there by hand or by post, would be expected to come to the attention of a person acting on behalf of the limited liability partnership, and
   - (b) the delivery of documents there is capable of being recorded by the obtaining of an acknowledgement of delivery;
 - “**appropriate email address**” means an email address to which, in the ordinary course of events, emails sent by the registrar would be expected to come to the attention of a person acting on behalf of the limited liability partnership
-- “[^key-c78d650c4f7b49c7ec716952dcbd54b4]**disqualified under the directors disqualification legislation**” has the meaning given in section 159A(2) of the Companies Act 2006, as applied to limited liability partnerships by regulation 17ZC of the 2009 Regulations;
+- “[^c-c78d650c4f7b49c7ec716952dcbd54b4]**disqualified under the directors disqualification legislation**” has the meaning given in section 159A(2) of the Companies Act 2006, as applied to limited liability partnerships by regulation 17ZC of the 2009 Regulations;
 - “**permission of the court to act**” means permission of a court under provision mentioned in column 2 of the table in section 159A(2) of that Act, as so applied.
 
 ### 3. Incorporation by registration.
 
-(1)[^key-2ae24184da5cdb3d01983a880ff26346] The registrar, if satisfied that the requirements of section 2 are complied with, shall—
+(1)[^c-2ae24184da5cdb3d01983a880ff26346] The registrar, if satisfied that the requirements of section 2 are complied with, shall—
 
 - (a) register the documents delivered under that section, and
 - (b) give a certificate that the limited liability partnership is incorporated.
@@ -150,13 +150,13 @@ he commits an offence.
 
 (2) Any other person may become a member of a limited liability partnership by and in accordance with an agreement with the existing members.
 
-(2A)[^key-6cad849f0669888aa00c0e11e762eb16] Subsections (1) and (2) are subject to section 159A(1) of the Companies Act 2006, as applied to limited liability partnerships by regulation 17ZC of the 2009 Regulations.
+(2A)[^c-6cad849f0669888aa00c0e11e762eb16] Subsections (1) and (2) are subject to section 159A(1) of the Companies Act 2006, as applied to limited liability partnerships by regulation 17ZC of the 2009 Regulations.
 
 (3) A person may cease to be a member of a limited liability partnership (as well as by death or dissolution) in accordance with an agreement with the other members or, in the absence of agreement with the other members as to cessation of membership, by giving reasonable notice to the other members.
 
-(4)[^key-97c80b5c77070e709e77d08a4d992ef0][^key-a732ab646de00e2ed32c4cbbbc60a9fb] A member of a limited liability partnership shall not be regarded for any purpose as employed by the limited liability partnership unless, if he and the other members were partners in a partnership, he would be regarded for that purpose as employed by the partnership.
+(4)[^c-97c80b5c77070e709e77d08a4d992ef0][^c-a732ab646de00e2ed32c4cbbbc60a9fb] A member of a limited liability partnership shall not be regarded for any purpose as employed by the limited liability partnership unless, if he and the other members were partners in a partnership, he would be regarded for that purpose as employed by the partnership.
 
-### 4A. Minimum membership for carrying on business[^key-5dec8b976383f68fe8d7e45990435e98]
+### 4A. Minimum membership for carrying on business[^c-5dec8b976383f68fe8d7e45990435e98]
 
 (1) This section applies where a limited liability partnership carries on business without having at least two members, and does so for more than 6 months.
 
@@ -204,7 +204,7 @@ is liable (jointly and severally with the limited liability partnership) for the
 (2) In such an event the former member or—
 
 - (a) his personal representative,
-- (b) his trustee in bankruptcy , the trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of the former member’s estate or the former member’s[^key-00ac440a2f9ccff11f354729e5484c85] liquidator,
+- (b) his trustee in bankruptcy , the trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of the former member’s estate or the former member’s[^c-00ac440a2f9ccff11f354729e5484c85] liquidator,
 - (c) his trustee under the trust deed for the benefit of his creditors, or
 - (d) his assignee,
 
@@ -232,11 +232,11 @@ and a member may cease to be a designated member in accordance with an agreement
 
 and, once it is delivered, subsection (1) (apart from paragraph (a)) and subsection (2), or subsection (3), shall have effect as if that were stated in the incorporation document.
 
-(5)[^key-d88ddab8e017abfdd5ff5daa371518f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d88ddab8e017abfdd5ff5daa371518f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) A person ceases to be a designated member if he ceases to be a member.
 
-### 9. Registration of membership changes.[^key-f9de677fddf50f4bffb143d758a7c395]
+### 9. Registration of membership changes.[^c-f9de677fddf50f4bffb143d758a7c395]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -244,9 +244,9 @@ and, once it is delivered, subsection (1) (apart from paragraph (a)) and subsect
 
 ### 10. Income tax and chargeable gains.
 
-(1)[^key-ac30937e6efbde3e895ed4e44ac7ae21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ac30937e6efbde3e895ed4e44ac7ae21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-d11c4d3723fbc2a8ff2792c64b47d626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d11c4d3723fbc2a8ff2792c64b47d626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the [^c9548871]Taxation of Chargeable Gains Act 1992, after section 59 insert—
 
@@ -329,17 +329,17 @@ In section 15 of the [^c9548901]Social Security Contributions and Benefits Act 1
 
 ### 14. Insolvency and winding up.
 
-(1)[^M_C_3f484458-416f-4b68-8e73-82b5669eff85][^M_C_d535afc2-2c15-47d6-9c70-9de4eb752094] Regulations shall make provision about the insolvency and winding up of limited liability partnerships by applying or incorporating, with such modifications as appear appropriate —[^key-acc10aa363c81c8995e6199ec46f57e4]
+(1)[^M_C_3f484458-416f-4b68-8e73-82b5669eff85][^M_C_d535afc2-2c15-47d6-9c70-9de4eb752094] Regulations shall make provision about the insolvency and winding up of limited liability partnerships by applying or incorporating, with such modifications as appear appropriate —[^c-acc10aa363c81c8995e6199ec46f57e4]
 
 - (a) in relation to a limited liability partnership registered in Great Britain, Parts A1[^M_F_4b3fceb7-ac3e-4f9c-9bee-f505d42024f6] to 4, 6 and 7 of the Insolvency Act 1986;
 - (b) in relation to a limited liability partnership registered in Northern Ireland, Parts 1A[^M_F_e5f4802d-9a18-45d1-d7cc-4a1f07497fd5] to 5 and 7 of the Insolvency (Northern Ireland) Order 1989, and so much of Part 1 of that Order as applies for the purposes of those Parts.
 
 (2) Regulations may make other provision about the insolvency and winding up of limited liability partnerships, and provision about the insolvency and winding up of oversea limited liability partnerships, by—
 
-- (a)[^key-da3cc550c22c350d88ca770cefd92d5f][^key-8fc1af85a670a2ee0cd847395d7f033d] applying or incorporating, with such modifications as appear appropriate, any law relating to the insolvency or winding up of companies or other corporations which would not otherwise have effect in relation to them, or
+- (a)[^c-da3cc550c22c350d88ca770cefd92d5f][^c-8fc1af85a670a2ee0cd847395d7f033d] applying or incorporating, with such modifications as appear appropriate, any law relating to the insolvency or winding up of companies or other corporations which would not otherwise have effect in relation to them, or
 - (b) providing for any law relating to the insolvency or winding up of companies or other corporations which would otherwise have effect in relation to them not to apply to them or to apply to them with such modifications as appear appropriate.
 
-(3) In this Act “**oversea limited liability partnership**” means a body incorporated or otherwise established outside the United Kingdom[^key-90b00ad2bdd64d73a9e52c793595c2da] and having such connection with the United Kingdom, and such other features, as regulations may prescribe.
+(3) In this Act “**oversea limited liability partnership**” means a body incorporated or otherwise established outside the United Kingdom[^c-90b00ad2bdd64d73a9e52c793595c2da] and having such connection with the United Kingdom, and such other features, as regulations may prescribe.
 
 ### 15. Application of company law etc.
 
@@ -349,7 +349,7 @@ Regulations may make provision about limited liability partnerships and oversea 
 - (b) providing for any law relating to companies or other corporations which would otherwise have effect in relation to them not to apply to them or to apply to them with such modifications as appear appropriate, or
 - (c) applying or incorporating, with such modifications as appear appropriate, any law relating to partnerships.
 
-### 16. Consequential amendments.[^key-da3cc550c22c350d88ca770cefd92d5f][^key-8fc1af85a670a2ee0cd847395d7f033d]
+### 16. Consequential amendments.[^c-da3cc550c22c350d88ca770cefd92d5f][^c-8fc1af85a670a2ee0cd847395d7f033d]
 
 (1)[^M_C_bd27ddbe-4e02-4ea3-e90a-7d3e56a3b0ba] Regulations may make in any enactment such amendments or repeals as appear appropriate in consequence of this Act or regulations made under it.
 
@@ -357,25 +357,25 @@ Regulations may make provision about limited liability partnerships and oversea 
 
 ### 17. General.
 
-(1)[^key-da3cc550c22c350d88ca770cefd92d5f][^key-82d196cfee95b9e9e6942d0a970bdc26][^key-8fc1af85a670a2ee0cd847395d7f033d] In this Act “**regulations**” means regulations made by the Secretary of State by statutory instrument.
+(1)[^c-da3cc550c22c350d88ca770cefd92d5f][^c-82d196cfee95b9e9e6942d0a970bdc26][^c-8fc1af85a670a2ee0cd847395d7f033d] In this Act “**regulations**” means regulations made by the Secretary of State by statutory instrument.
 
-(2)[^key-da3cc550c22c350d88ca770cefd92d5f][^key-8fc1af85a670a2ee0cd847395d7f033d] Regulations under this Act may in particular—
+(2)[^c-da3cc550c22c350d88ca770cefd92d5f][^c-8fc1af85a670a2ee0cd847395d7f033d] Regulations under this Act may in particular—
 
 - (a) make provision for dealing with non-compliance with any of the regulations (including the creation of criminal offences),
 - (b) impose fees (which shall be paid into the Consolidated Fund), and
 - (c) provide for the exercise of functions by persons prescribed by the regulations.
 
-(3)[^key-da3cc550c22c350d88ca770cefd92d5f][^key-8fc1af85a670a2ee0cd847395d7f033d] Regulations under this Act may—
+(3)[^c-da3cc550c22c350d88ca770cefd92d5f][^c-8fc1af85a670a2ee0cd847395d7f033d] Regulations under this Act may—
 
 - (a) contain any appropriate consequential, incidental, supplementary or transitional provisions or savings, and
 - (b) make different provision for different purposes.
 
-(4)[^key-82d196cfee95b9e9e6942d0a970bdc26] No regulations to which this subsection applies shall be made unless a draft of the statutory instrument containing the regulations (whether or not together with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+(4)[^c-82d196cfee95b9e9e6942d0a970bdc26] No regulations to which this subsection applies shall be made unless a draft of the statutory instrument containing the regulations (whether or not together with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
 
 (5) Subsection (4) applies to—
 
-- (a) regulations under section 14(2) not consisting entirely of the application or incorporation (with or without modifications) of provisions contained in or made under the [^c9548931]Insolvency Act 1986 or the Insolvency (Northern Ireland) Order 1989[^key-c0aaa9692a70dbb2b6309830c4789fa3],
-- (b)[^key-802657fc5c57f12ade8b93525a39459e] regulations under section 15 not consisting entirely of the application or incorporation (with or without modifications) of provisions contained in or made under the following provisions of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46)—
+- (a) regulations under section 14(2) not consisting entirely of the application or incorporation (with or without modifications) of provisions contained in or made under the [^c9548931]Insolvency Act 1986 or the Insolvency (Northern Ireland) Order 1989[^c-c0aaa9692a70dbb2b6309830c4789fa3],
+- (b)[^c-802657fc5c57f12ade8b93525a39459e] regulations under section 15 not consisting entirely of the application or incorporation (with or without modifications) of provisions contained in or made under the following provisions of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46)—
   - Part 4 (a company’s capacity and related matters);
   - Part 5 (a company’s name);
   - Part 6 (a company’s registered office);
@@ -398,7 +398,7 @@ Regulations may make provision about limited liability partnerships and oversea 
 - (c) regulations under section 14 or 15 making provision about oversea limited liability partnerships, and
 - (d) regulations under section 16.
 
-(6)[^key-82d196cfee95b9e9e6942d0a970bdc26] A statutory instrument containing regulations under this Act shall (unless a draft of it has been approved by a resolution of each House of Parliament) be subject to annulment in pursuance of a resolution of either House of Parliament.
+(6)[^c-82d196cfee95b9e9e6942d0a970bdc26] A statutory instrument containing regulations under this Act shall (unless a draft of it has been approved by a resolution of each House of Parliament) be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Supplementary
 
@@ -408,7 +408,7 @@ Regulations may make provision about limited liability partnerships and oversea 
 
 In this Act—
 
-- [^key-cef4f3bec1796ea1d775742e35615796]...
+- [^c-cef4f3bec1796ea1d775742e35615796]...
 - “**business**” includes every trade, profession and occupation,
 - “**designated member**” shall be construed in accordance with section 8,
 - “**enactment**” includes subordinate legislation (within the meaning of the [^c9548951]Interpretation Act 1978),
@@ -420,12 +420,12 @@ In this Act—
   - (a) if an individual, his forename and surname (or, in the case of a peer or other person usually known by a title, his title instead of or in addition to either or both his forename and surname), and
   - (b) if a corporation or Scottish firm, its corporate or firm name,
 - “**oversea limited liability partnership**” has the meaning given by section 14(3),
-- “the registrar” means—[^key-165180e6654cee6b2cb485dda6712f19]
+- “the registrar” means—[^c-165180e6654cee6b2cb485dda6712f19]
   - (a) if the registered office of the limited liability partnership is, or is to be, in England and Wales (or Wales), the registrar of companies for England and Wales,
   - (b) if the registered office of the limited liability partnership is, or is to be, in Scotland, the registrar of companies for Scotland, and
   - (c) if the registered office of the limited liability partnership is, or is to be, in Northern Ireland, the registrar of companies for Northern Ireland;
 - “**regulations**” has the meaning given by section 17(1).
-- “[^key-900e64ee192802dff7b13b9d1f7f2074]**the 2009 Regulations**” means the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 ([S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804)).
+- “[^c-900e64ee192802dff7b13b9d1f7f2074]**the 2009 Regulations**” means the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 ([S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804)).
 
 ### 19. Commencement, extent and short title.
 
@@ -435,7 +435,7 @@ In this Act—
 
 (3) For the purposes of the [^c9548981]Scotland Act 1998 this Act shall be taken to be a pre-commencement enactment within the meaning of that Act.
 
-(4)[^key-3b06440bc4c08f4fa793732b920735e4] This Act extends to the whole of the United Kingdom.
+(4)[^c-3b06440bc4c08f4fa793732b920735e4] This Act extends to the whole of the United Kingdom.
 
 (5) This Act may be cited as the Limited Liability Partnerships Act 2000.
 
@@ -443,13 +443,13 @@ In this Act—
 
 SCHEDULE
 
-## Names ...[^key-b25d2140f7b931182c4b2393712374a5]
+## Names ...[^c-b25d2140f7b931182c4b2393712374a5]
 
 ### Part I — Names
 
 #### Index of names
 
-**1.**[^key-349be03f6d6576329821a2d7f49f7f18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-349be03f6d6576329821a2d7f49f7f18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Name to indicate status
 
@@ -465,30 +465,30 @@ SCHEDULE
 
 #### Registration of names
 
-**3.**[^key-cf9d1a1151007f2af5b5a6dc7886dccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf9d1a1151007f2af5b5a6dc7886dccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Change of name
 
 **4.** (1) A limited liability partnership may change its name at any time.
 
-(2)[^key-25c1683babe54e726b0d82049a2e6660] The name of a limited liability partnership may also be changed—
+(2)[^c-25c1683babe54e726b0d82049a2e6660] The name of a limited liability partnership may also be changed—
 
-- (a) on the determination of a new name by a company names adjudicator under section 73 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) as applied to limited liability partnerships by Part 3 of the 2009 Regulations[^key-d18b8ea2e78040ce4dc8b8006f5576c6] (powers of adjudicator on upholding objection to name);
+- (a) on the determination of a new name by a company names adjudicator under section 73 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) as applied to limited liability partnerships by Part 3 of the 2009 Regulations[^c-d18b8ea2e78040ce4dc8b8006f5576c6] (powers of adjudicator on upholding objection to name);
 - (b) on the determination of a new name by the court under section 74 of the Companies Act 2006 as so applied (appeal against decision of company names adjudicator);
-- (ba)[^key-d66edd949b90a9338c62c9e2712e963a] on the determination of a new name by the registrar under section 76C or 76D of the Companies Act 2006 as so applied (names containing computer code or failure to comply with direction);
+- (ba)[^c-d66edd949b90a9338c62c9e2712e963a] on the determination of a new name by the registrar under section 76C or 76D of the Companies Act 2006 as so applied (names containing computer code or failure to comply with direction);
 - (c) under section 1033 as so applied (name on restoration to the register).
 
 #### Notification of change of name
 
 **5.** (1) Where a limited liability partnership changes its name it shall deliver notice of the change to the registrar.
 
-(2)[^key-4a52cc09e648198851880fb11c78dbfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4a52cc09e648198851880fb11c78dbfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6415dcd661b245ae7369101052a085fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6415dcd661b245ae7369101052a085fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7b0214f9a46e0a222c3a392f9ad8f2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7b0214f9a46e0a222c3a392f9ad8f2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Registration of a change of name[^key-7df54893889d5de3581cb8dd7d0d150e]
+#### Registration of a change of name[^c-7df54893889d5de3581cb8dd7d0d150e]
 
 **5A.** (1) This paragraph applies where—
 
@@ -524,81 +524,81 @@ that person, unless a limited liability partnership or oversea limited liability
 
 #### Similarity of names
 
-**8.**[^key-4eec51a85751fed4317cecb42fee723d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4eec51a85751fed4317cecb42fee723d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Registered offices[^key-fd103a6e86bad208f8a16b1ef4e308fb]
+### Part II — Registered offices[^c-fd103a6e86bad208f8a16b1ef4e308fb]
 
-#### Situation of registered office[^key-fd103a6e86bad208f8a16b1ef4e308fb]
-
-**No longer in force.**
-
-**9.**[^key-fd103a6e86bad208f8a16b1ef4e308fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Change of registered office[^key-fd103a6e86bad208f8a16b1ef4e308fb]
+#### Situation of registered office[^c-fd103a6e86bad208f8a16b1ef4e308fb]
 
 **No longer in force.**
 
-**10.**[^key-fd103a6e86bad208f8a16b1ef4e308fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-fd103a6e86bad208f8a16b1ef4e308fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Change of registered office[^c-fd103a6e86bad208f8a16b1ef4e308fb]
+
+**No longer in force.**
+
+**10.**[^c-fd103a6e86bad208f8a16b1ef4e308fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c98cb14324c5c5573df9066e11d514c6]: Modification: Act extended (Northern Ireland) (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1286(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1286/1), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-c98cb14324c5c5573df9066e11d514c6]: Modification: Act extended (Northern Ireland) (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1286(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1286/1), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
 
-[^key-f91876a6879c6a725b178f3c6612b983]: Textual amendment: S. 2(1)(b) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-f91876a6879c6a725b178f3c6612b983]: Textual amendment: S. 2(1)(b) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-0beafae4ea1883a46bed9114c03b526b]: Textual amendment: Words in s. 2(1)(c) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-0beafae4ea1883a46bed9114c03b526b]: Textual amendment: Words in s. 2(1)(c) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-ee8d3e11eb88f83e042efa04074a0450]: Textual amendment: S. 2(2)(a) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/4/a) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-ee8d3e11eb88f83e042efa04074a0450]: Textual amendment: S. 2(2)(a) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/4/a) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-565e98789cf878a1213c405ca4c91b8b]: Textual amendment: Words in s. 2(2)(c) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/4/b) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-565e98789cf878a1213c405ca4c91b8b]: Textual amendment: Words in s. 2(2)(c) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/4/b) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-df86351b9bdc56db5ce6b1444ec40a4e]: Textual amendment: Words in [s. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/d) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/3/2/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-df86351b9bdc56db5ce6b1444ec40a4e]: Textual amendment: Words in [s. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/d) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/3/2/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-ba5be09661bcfe2386ae245fcb1d2ec0]: Textual amendment: [S. 2(2)(da)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/da) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/3/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-ba5be09661bcfe2386ae245fcb1d2ec0]: Textual amendment: [S. 2(2)(da)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/da) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/3/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-a160b6e57a37073a0a7664ada50156f6]: Textual amendment: S. 2(2)(e) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(4)(c)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/4/c) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-a160b6e57a37073a0a7664ada50156f6]: Textual amendment: S. 2(2)(e) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(4)(c)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/4/c) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-ec2b2b2e87d24a792eaec6967d1c88bf]: Textual amendment: Words in [s. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/e) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/a/i) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-ec2b2b2e87d24a792eaec6967d1c88bf]: Textual amendment: Words in [s. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/e) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/a/i) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-8f2ebff495308c33dc0dc5b9a881dd13]: Textual amendment: Word in [s. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/e) omitted (E.W.S.) (30.6.2016) by virtue of [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1/a)
+[^c-8f2ebff495308c33dc0dc5b9a881dd13]: Textual amendment: Word in [s. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/e) omitted (E.W.S.) (30.6.2016) by virtue of [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1/a)
 
-[^key-ef38d732c1ddb87f82f746dbf8d7796e]: Textual amendment: [S. 2(2)(ea)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/ea) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/a/ii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-ef38d732c1ddb87f82f746dbf8d7796e]: Textual amendment: [S. 2(2)(ea)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/ea) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/a/ii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-affe1ef427b68981dab47d039bac0d21]: Textual amendment: [S. 2(2)(eb)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/eb) inserted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/a), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/a/iii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
+[^c-affe1ef427b68981dab47d039bac0d21]: Textual amendment: [S. 2(2)(eb)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/eb) inserted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/a), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/a/iii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
 
-[^key-6d7758f51c4e2495fcb660914c417518]: Textual amendment: Word in [s. 2(2)(f)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/f) inserted (E.W.S.) (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1/a)
+[^c-6d7758f51c4e2495fcb660914c417518]: Textual amendment: Word in [s. 2(2)(f)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/f) inserted (E.W.S.) (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1/a)
 
-[^key-2bde814428b32390081b15e0f7c32807]: Textual amendment: [S. 2(2)(g)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/g) inserted (E.W.S.) (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1/b)
+[^c-2bde814428b32390081b15e0f7c32807]: Textual amendment: [S. 2(2)(g)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2/g) inserted (E.W.S.) (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1/b)
 
-[^key-0210a1e9c4c4dd82a5edf1c93bb8d2a3]: Textual amendment: [S. 2(2ZA)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2ZA) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/b) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-0210a1e9c4c4dd82a5edf1c93bb8d2a3]: Textual amendment: [S. 2(2ZA)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2ZA) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/b) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-898da993bdf3b2975f26dcc5856a3ec5]: Textual amendment: [S. 2(2ZB)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2ZB)[(2ZC)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2ZC) inserted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/c) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
+[^c-898da993bdf3b2975f26dcc5856a3ec5]: Textual amendment: [S. 2(2ZB)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2ZB)[(2ZC)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/2ZC) inserted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/c) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
 
-[^key-d6c1cc02e952cef2ea097e6d17c97dbb]: Textual amendment: S. 2(2A)(2B) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(6)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/6) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-d6c1cc02e952cef2ea097e6d17c97dbb]: Textual amendment: S. 2(2A)(2B) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 1(6)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/1/6) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-d1a0d2a93d759aa9b9bcdda6095585b9]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/5) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/3/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d1a0d2a93d759aa9b9bcdda6095585b9]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/5) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/3/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-c78d650c4f7b49c7ec716952dcbd54b4]: Textual amendment: Words in [s. 2(5)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/5) inserted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/c), [3(2)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/d) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
+[^c-c78d650c4f7b49c7ec716952dcbd54b4]: Textual amendment: Words in [s. 2(5)](https://www.legislation.gov.uk/ukpga/2000/12/section/2/5) inserted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/c), [3(2)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/2/d) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
 
-[^key-2ae24184da5cdb3d01983a880ff26346]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/3/1)[(1A)](https://www.legislation.gov.uk/ukpga/2000/12/section/3/1A) substituted for [s. 3(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/3/1) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-2ae24184da5cdb3d01983a880ff26346]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/3/1)[(1A)](https://www.legislation.gov.uk/ukpga/2000/12/section/3/1A) substituted for [s. 3(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/3/1) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-6cad849f0669888aa00c0e11e762eb16]: Textual amendment: [S. 4(2A)](https://www.legislation.gov.uk/ukpga/2000/12/section/4/2A) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/3) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-6cad849f0669888aa00c0e11e762eb16]: Textual amendment: [S. 4(2A)](https://www.legislation.gov.uk/ukpga/2000/12/section/4/2A) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/3) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-97c80b5c77070e709e77d08a4d992ef0]: Modification: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/4/4) restricted by 1992 c. 4, s. 4AA(6) (as inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(6)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/6))
+[^c-97c80b5c77070e709e77d08a4d992ef0]: Modification: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/4/4) restricted by 1992 c. 4, s. 4AA(6) (as inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(6)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/6))
 
-[^key-a732ab646de00e2ed32c4cbbbc60a9fb]: Modification: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/4/4) restricted by 1992 c. 4, s. 4AA(6) (as inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/2))
+[^c-a732ab646de00e2ed32c4cbbbc60a9fb]: Modification: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/4/4) restricted by 1992 c. 4, s. 4AA(6) (as inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/2))
 
-[^key-5dec8b976383f68fe8d7e45990435e98]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2000/12/section/4A) inserted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-5dec8b976383f68fe8d7e45990435e98]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2000/12/section/4A) inserted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-00ac440a2f9ccff11f354729e5484c85]: Textual amendment: Words in s. 7(2)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/22)
+[^c-00ac440a2f9ccff11f354729e5484c85]: Textual amendment: Words in s. 7(2)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/22)
 
-[^key-d88ddab8e017abfdd5ff5daa371518f6]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/ukpga/2000/12/section/8/5) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/4) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-d88ddab8e017abfdd5ff5daa371518f6]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/ukpga/2000/12/section/8/5) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/4) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-f9de677fddf50f4bffb143d758a7c395]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2000/12/section/9) omitted (18.11.2025) by virtue of [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-f9de677fddf50f4bffb143d758a7c395]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2000/12/section/9) omitted (18.11.2025) by virtue of [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-ac30937e6efbde3e895ed4e44ac7ae21]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/10/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ac30937e6efbde3e895ed4e44ac7ae21]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/10/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d11c4d3723fbc2a8ff2792c64b47d626]: Textual amendment: S. 10(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d11c4d3723fbc2a8ff2792c64b47d626]: Textual amendment: S. 10(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c9548871]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
@@ -614,66 +614,66 @@ that person, unless a limited liability partnership or oversea limited liability
 
 [^M_C_d535afc2-2c15-47d6-9c70-9de4eb752094]: Modification: S. 14(1) extended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (2020 c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 8 para. 55](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/55) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-acc10aa363c81c8995e6199ec46f57e4]: Textual amendment: Words in s. 14(1) substituted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/6/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-acc10aa363c81c8995e6199ec46f57e4]: Textual amendment: Words in s. 14(1) substituted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/6/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
 [^M_F_4b3fceb7-ac3e-4f9c-9bee-f505d42024f6]: Textual amendment: Words in s. 14(1)(a) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (2020 c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/36) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_F_e5f4802d-9a18-45d1-d7cc-4a1f07497fd5]: Textual amendment: Words in s. 14(1)(b) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (2020 c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/31) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-da3cc550c22c350d88ca770cefd92d5f]: Modification: Ss. 14(2)(a), 16, 17(1)(2)(3) functions exercisable concurrently (E.W.S.) (9.2.2018) by [The Scotland Act 1998 (Insolvency Functions) Order 2018 (S.I. 2018/174)](https://www.legislation.gov.uk/uksi/2018/174), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/174/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2018/174/article/5/1)[(3)(c)](https://www.legislation.gov.uk/uksi/2018/174/article/5/3/c)[(5)](https://www.legislation.gov.uk/uksi/2018/174/article/5/5) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2018/174/article/6/2))
+[^c-da3cc550c22c350d88ca770cefd92d5f]: Modification: Ss. 14(2)(a), 16, 17(1)(2)(3) functions exercisable concurrently (E.W.S.) (9.2.2018) by [The Scotland Act 1998 (Insolvency Functions) Order 2018 (S.I. 2018/174)](https://www.legislation.gov.uk/uksi/2018/174), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/174/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2018/174/article/5/1)[(3)(c)](https://www.legislation.gov.uk/uksi/2018/174/article/5/3/c)[(5)](https://www.legislation.gov.uk/uksi/2018/174/article/5/5) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2018/174/article/6/2))
 
-[^key-8fc1af85a670a2ee0cd847395d7f033d]: Modification: Ss. 14(2)(a), 16, 17(1)(2)(3) functions exercisable concurrently (E.W.S.) (9.2.2018) by [The Scotland Act 1998 (Insolvency Functions) Order 2018 (S.I. 2018/174)](https://www.legislation.gov.uk/uksi/2018/174), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/174/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2018/174/article/2/1)[(3)(c)](https://www.legislation.gov.uk/uksi/2018/174/article/2/3/c)[(5)](https://www.legislation.gov.uk/uksi/2018/174/article/2/5) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2018/174/article/6/1))
+[^c-8fc1af85a670a2ee0cd847395d7f033d]: Modification: Ss. 14(2)(a), 16, 17(1)(2)(3) functions exercisable concurrently (E.W.S.) (9.2.2018) by [The Scotland Act 1998 (Insolvency Functions) Order 2018 (S.I. 2018/174)](https://www.legislation.gov.uk/uksi/2018/174), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/174/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2018/174/article/2/1)[(3)(c)](https://www.legislation.gov.uk/uksi/2018/174/article/2/3/c)[(5)](https://www.legislation.gov.uk/uksi/2018/174/article/2/5) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2018/174/article/6/1))
 
-[^key-90b00ad2bdd64d73a9e52c793595c2da]: Textual amendment: Words in s. 14(3) substituted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/6/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-90b00ad2bdd64d73a9e52c793595c2da]: Textual amendment: Words in s. 14(3) substituted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/6/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
 [^M_C_bd27ddbe-4e02-4ea3-e90a-7d3e56a3b0ba]: Modification: S. 16(1) extended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (2020 c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 37](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/37) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-82d196cfee95b9e9e6942d0a970bdc26]: Modification: S. 17(1)(4)(6) excluded (E.W.S.) (9.2.2018) by [The Scotland Act 1998 (Insolvency Functions) Order 2018 (S.I. 2018/174)](https://www.legislation.gov.uk/uksi/2018/174), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/174/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2018/174/article/4/4)
+[^c-82d196cfee95b9e9e6942d0a970bdc26]: Modification: S. 17(1)(4)(6) excluded (E.W.S.) (9.2.2018) by [The Scotland Act 1998 (Insolvency Functions) Order 2018 (S.I. 2018/174)](https://www.legislation.gov.uk/uksi/2018/174), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/174/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2018/174/article/4/4)
 
 [^c9548931]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-c0aaa9692a70dbb2b6309830c4789fa3]: Textual amendment: Words in s. 17(5)(a) inserted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/7/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-c0aaa9692a70dbb2b6309830c4789fa3]: Textual amendment: Words in s. 17(5)(a) inserted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/7/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-802657fc5c57f12ade8b93525a39459e]: Textual amendment: S. 17(5)(b) substituted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/7/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-802657fc5c57f12ade8b93525a39459e]: Textual amendment: S. 17(5)(b) substituted (9.7.2009 for specified purposes, 1.10.2009 in so far as not already in force) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/7/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
 [^M_F_1bd20b6f-ac47-4456-b71a-b5a6946b43bc]: Textual amendment: Word in s. 17(5)(b) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (2020 c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 21(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/21/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_F_5d1a4540-d634-484f-bf99-d5798dfe4723]: Textual amendment: Words in s. 17(5)(b) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (2020 c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 21(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/21/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-cef4f3bec1796ea1d775742e35615796]: Textual amendment: Words in s. 18 omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/8/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-cef4f3bec1796ea1d775742e35615796]: Textual amendment: Words in s. 18 omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/8/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
 [^c9548951]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-165180e6654cee6b2cb485dda6712f19]: Textual amendment: Words in s. 18 substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/8/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-165180e6654cee6b2cb485dda6712f19]: Textual amendment: Words in s. 18 substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/8/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-900e64ee192802dff7b13b9d1f7f2074]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/2000/12/section/18) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/5) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-900e64ee192802dff7b13b9d1f7f2074]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/2000/12/section/18) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/5) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
 [^c9548971]: Subordinate legislation: S. 19(1) power fully exercised (18.12.2000); 6.4.2001 appointed by [S.I. 2000/3316](https://www.legislation.gov.uk/uksi/2000/3316), [art. 2](https://www.legislation.gov.uk/uksi/2000/3316/article/2)
 
 [^c9548981]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3b06440bc4c08f4fa793732b920735e4]: Textual amendment: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/19/4) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/9) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-3b06440bc4c08f4fa793732b920735e4]: Textual amendment: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/19/4) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/9) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-b25d2140f7b931182c4b2393712374a5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ukpga/2000/12/schedule) heading omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-b25d2140f7b931182c4b2393712374a5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ukpga/2000/12/schedule) heading omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-349be03f6d6576329821a2d7f49f7f18]: Textual amendment: Sch. para. 1 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-349be03f6d6576329821a2d7f49f7f18]: Textual amendment: Sch. para. 1 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
-[^key-cf9d1a1151007f2af5b5a6dc7886dccd]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/3) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-cf9d1a1151007f2af5b5a6dc7886dccd]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/3) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/2) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-25c1683babe54e726b0d82049a2e6660]: Textual amendment: Sch. para. 4(2) substituted for Sch. para. 4(2)-(9) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-25c1683babe54e726b0d82049a2e6660]: Textual amendment: Sch. para. 4(2) substituted for Sch. para. 4(2)-(9) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/3) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-d18b8ea2e78040ce4dc8b8006f5576c6]: Textual amendment: Words in [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/4/2/a) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/6) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-d18b8ea2e78040ce4dc8b8006f5576c6]: Textual amendment: Words in [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/4/2/a) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/3/6) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-d66edd949b90a9338c62c9e2712e963a]: Textual amendment: [Sch. para. 4(2)(ba)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/4/2/ba) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d66edd949b90a9338c62c9e2712e963a]: Textual amendment: [Sch. para. 4(2)(ba)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/4/2/ba) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-4a52cc09e648198851880fb11c78dbfa]: Textual amendment: [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5/2) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/4/a) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-4a52cc09e648198851880fb11c78dbfa]: Textual amendment: [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5/2) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/4/a) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-6415dcd661b245ae7369101052a085fc]: Textual amendment: [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5/3) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-6415dcd661b245ae7369101052a085fc]: Textual amendment: [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5/3) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-7b0214f9a46e0a222c3a392f9ad8f2de]: Textual amendment: [Sch. para. 5(4)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5/4) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-7b0214f9a46e0a222c3a392f9ad8f2de]: Textual amendment: [Sch. para. 5(4)](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5/4) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-7df54893889d5de3581cb8dd7d0d150e]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5A) and cross-heading inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-7df54893889d5de3581cb8dd7d0d150e]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/5A) and cross-heading inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2024/234/regulation/4/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-4eec51a85751fed4317cecb42fee723d]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/8) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/5) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-4eec51a85751fed4317cecb42fee723d]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2000/12/schedule/paragraph/8) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/5) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
 
-[^key-fd103a6e86bad208f8a16b1ef4e308fb]: Textual amendment: [Sch. Pt. II](https://www.legislation.gov.uk/ukpga/2000/12/schedule/part/II) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/6) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))
+[^c-fd103a6e86bad208f8a16b1ef4e308fb]: Textual amendment: [Sch. Pt. II](https://www.legislation.gov.uk/ukpga/2000/12/schedule/part/II) omitted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/10/6) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/11))

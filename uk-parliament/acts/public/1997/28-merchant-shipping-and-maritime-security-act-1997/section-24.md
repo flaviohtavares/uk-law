@@ -45,7 +45,7 @@ summary: ''
   - (ii) a person who under the [^c8633751]British Nationality Act 1981 is a British subject,
   - (iii) a British National (Overseas) (within the meaning of that Act),
   - (iv) a British protected person (within the meaning of that Act), or
-  - (v)[^key-1d95a8912aae8fb804967400174cc4c5] a company registered under the Companies Act 2006.
+  - (v)[^c-1d95a8912aae8fb804967400174cc4c5] a company registered under the Companies Act 2006.
 
 (4) In subsection (3), “ **United Kingdom ship**” means a ship which—
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^c8633751]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-1d95a8912aae8fb804967400174cc4c5]: Textual amendment: [S. 24(3)(b)(v)](https://www.legislation.gov.uk/ukpga/1997/28/section/24/3/b/v) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 168](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/168) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-1d95a8912aae8fb804967400174cc4c5]: Textual amendment: [S. 24(3)(b)(v)](https://www.legislation.gov.uk/ukpga/1997/28/section/24/3/b/v) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 168](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/168) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

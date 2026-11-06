@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Substitution of regulation 52 (applications relating to certain medicinal products that do not qualify as generic etc)[^M_I_cf5d7bb4-cbc2-40a6-b09e-cfa60a8de70b][^key-f044d08c245aa15b448cb8df360fd9cc]
+## 57. Substitution of regulation 52 (applications relating to certain medicinal products that do not qualify as generic etc)[^M_I_cf5d7bb4-cbc2-40a6-b09e-cfa60a8de70b][^c-f044d08c245aa15b448cb8df360fd9cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ For regulation 52 substitute—
 
 [^M_I_cf5d7bb4-cbc2-40a6-b09e-cfa60a8de70b]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f044d08c245aa15b448cb8df360fd9cc]: Textual amendment: Reg. 57 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/42)
+[^c-f044d08c245aa15b448cb8df360fd9cc]: Textual amendment: Reg. 57 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/42)

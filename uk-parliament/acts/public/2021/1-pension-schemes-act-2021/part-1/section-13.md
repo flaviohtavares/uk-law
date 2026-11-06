@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Viability report[^c24458181][^key-93571f85c7005d4d7532eb102eba3499]
+## 13. Viability report[^c24458181][^c-93571f85c7005d4d7532eb102eba3499]
 
 *Extent: E+W+S*
 
@@ -58,7 +58,7 @@ summary: ''
 - (b) the most recent viability certificate;
 - (c) any additional information or documents specified or described in regulations under subsection (3)(e).
 
-(7A)[^key-9b4f918922bc54af8e93d13e57c50692] Before providing a viability report to the Pensions Regulator in accordance with subsection (6)(a) the trustees of an unconnected multiple employer scheme must obtain the approval of the report by the scheme proprietor (see section 14B).
+(7A)[^c-9b4f918922bc54af8e93d13e57c50692] Before providing a viability report to the Pensions Regulator in accordance with subsection (6)(a) the trustees of an unconnected multiple employer scheme must obtain the approval of the report by the scheme proprietor (see section 14B).
 
 (7B) The trustees of an unconnected multiple employer scheme must provide the scheme proprietor with any revised viability report—
 
@@ -71,6 +71,6 @@ summary: ''
 
 [^c24458181]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/1/section/13) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-93571f85c7005d4d7532eb102eba3499]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/1/section/13) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-93571f85c7005d4d7532eb102eba3499]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/1/section/13) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-9b4f918922bc54af8e93d13e57c50692]: Textual amendment: [S. 13(7A)](https://www.legislation.gov.uk/ukpga/2021/1/section/13/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2021/1/section/13/7B) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2025/1313/regulation/8)
+[^c-9b4f918922bc54af8e93d13e57c50692]: Textual amendment: [S. 13(7A)](https://www.legislation.gov.uk/ukpga/2021/1/section/13/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2021/1/section/13/7B) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2025/1313/regulation/8)

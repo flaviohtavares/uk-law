@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Remedial action: powers of Secretary of State etc to enter and survey or investigate land[^key-c9022b4fbecc6790190995373e475f1e][^key-35ef6c51c6ee6b1d74d8ee49e3853fee]
+## 88. Remedial action: powers of Secretary of State etc to enter and survey or investigate land[^c-c9022b4fbecc6790190995373e475f1e][^c-35ef6c51c6ee6b1d74d8ee49e3853fee]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9022b4fbecc6790190995373e475f1e]: Commencement: S. 88 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-c9022b4fbecc6790190995373e475f1e]: Commencement: S. 88 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-35ef6c51c6ee6b1d74d8ee49e3853fee]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2025/34/section/88) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-35ef6c51c6ee6b1d74d8ee49e3853fee]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2025/34/section/88) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

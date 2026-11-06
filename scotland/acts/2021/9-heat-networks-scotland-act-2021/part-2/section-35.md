@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Regulations about decisions under Part 2[^key-f9e4246a3a3164cd27127c82bf2b4850]
+## 35. Regulations about decisions under Part 2[^c-f9e4246a3a3164cd27127c82bf2b4850]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9e4246a3a3164cd27127c82bf2b4850]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/9/section/35) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-f9e4246a3a3164cd27127c82bf2b4850]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/9/section/35) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

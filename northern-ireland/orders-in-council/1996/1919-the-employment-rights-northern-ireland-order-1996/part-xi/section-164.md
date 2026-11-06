@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-613c4c4aa71da4d13dab31c6554d43f1] This Article applies where, on hearing an employee’s application for interim relief, it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find—
+(1)[^c-613c4c4aa71da4d13dab31c6554d43f1] This Article applies where, on hearing an employee’s application for interim relief, it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find—
 
 - (a) that the reason (or, if more than one, the principal reason) for the dismissal is one of those specified in—
   - (i) Article 132(1)(a) and (b), 132A(1)(d), 133(1), 134, 134A or 136(1), or
@@ -66,4 +66,4 @@ the tribunal shall make an order for the continuation of the employee's contract
 
 [^c20517821]: Modification: Arts. 163-167 applied (1.10.2006) by [Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [51](https://www.legislation.gov.uk/nisr/2006/261/regulation/51), [Sch. 5 para. 13(6)](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/13/6) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
 
-[^key-613c4c4aa71da4d13dab31c6554d43f1]: Textual amendment: [Art. 164(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/164/1) substituted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(10)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/10)
+[^c-613c4c4aa71da4d13dab31c6554d43f1]: Textual amendment: [Art. 164(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/164/1) substituted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(10)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/10)

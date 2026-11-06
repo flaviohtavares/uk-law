@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Meaning of “protected material” and related terms[^key-1001c65c19fc3c1ac67240eb72383f46]
+## 62. Meaning of “protected material” and related terms[^c-1001c65c19fc3c1ac67240eb72383f46]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1001c65c19fc3c1ac67240eb72383f46]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2016/20/section/62) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-1001c65c19fc3c1ac67240eb72383f46]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2016/20/section/62) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

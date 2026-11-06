@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Insurance companies[^key-4a6770ab1f80e1f7e37d8f20a0e929b0]
+## 78. Insurance companies[^c-4a6770ab1f80e1f7e37d8f20a0e929b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 168(7) (insurance companies)[^f00091] for the words from “any insur
 
 ## Annotations
 
-[^key-4a6770ab1f80e1f7e37d8f20a0e929b0]: Commencement: Art. 78 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-4a6770ab1f80e1f7e37d8f20a0e929b0]: Commencement: Art. 78 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00091]: Footnote: Section 168(7) was amended by section 52(2) of the Finance Act 1995.

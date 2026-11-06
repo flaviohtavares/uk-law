@@ -46,11 +46,11 @@ Coming into force in accordance with article 1
 
 This Lord Chancellor, considering that the use of electronic communications for any purpose is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases, in exercise of the powers conferred by sections 8 and 9 of the Electronic Communications Act 2000[^f00001], makes the following Order:
 
-## 1. Citation and Commencement[^key-2b554b6540e5b3707c0f531f0774e0a4]
+## 1. Citation and Commencement[^c-2b554b6540e5b3707c0f531f0774e0a4]
 
 This Order may be cited as the Wills Act 1837 (Electronic Communications) (Amendment) (Coronavirus) Order 2020 and comes into force on the 21st day following the day on which it is laid.
 
-## 2. Amendment of the Wills Act 1837[^key-c4ac8b477f747a80599f8c0f7b1af429]
+## 2. Amendment of the Wills Act 1837[^c-c4ac8b477f747a80599f8c0f7b1af429]
 
 (1) Section 9 of the Wills Act 1837[^f00002] is amended as follows.
 
@@ -62,7 +62,7 @@ This Order may be cited as the Wills Act 1837 (Electronic Communications) (Amend
 
 .
 
-## 3. Saving Provision[^key-672a14d34194810131ff963e22504ff6]
+## 3. Saving Provision[^c-672a14d34194810131ff963e22504ff6]
 
 Nothing in this Order affects—
 
@@ -89,10 +89,10 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00001]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-2b554b6540e5b3707c0f531f0774e0a4]: Commencement: Art. 1 in force at 28.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/952/article/1)
+[^c-2b554b6540e5b3707c0f531f0774e0a4]: Commencement: Art. 1 in force at 28.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/952/article/1)
 
-[^key-c4ac8b477f747a80599f8c0f7b1af429]: Commencement: Art. 2 in force at 28.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/952/article/1)
+[^c-c4ac8b477f747a80599f8c0f7b1af429]: Commencement: Art. 2 in force at 28.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/952/article/1)
 
 [^f00002]: Footnote: [1837 c.26](https://www.legislation.gov.uk/ukpga/1837/26). Section 9 was substituted, in relation to England and Wales, by the Administration of Justice Act [1982 (c.53)](https://www.legislation.gov.uk/ukpga/1982/53), section 17, and repealed, in relation to Northern Ireland, by [S.I. 1994/1899](https://www.legislation.gov.uk/uksi/1994/1899).
 
-[^key-672a14d34194810131ff963e22504ff6]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/952/article/3) substituted (1.2.2022) by [The Wills Act 1837 (Electronic Communications) (Amendment) Order 2022 (S.I. 2022/18)](https://www.legislation.gov.uk/uksi/2022/18), [arts. 1](https://www.legislation.gov.uk/uksi/2022/18/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/18/article/3/2)
+[^c-672a14d34194810131ff963e22504ff6]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/952/article/3) substituted (1.2.2022) by [The Wills Act 1837 (Electronic Communications) (Amendment) Order 2022 (S.I. 2022/18)](https://www.legislation.gov.uk/uksi/2022/18), [arts. 1](https://www.legislation.gov.uk/uksi/2022/18/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/18/article/3/2)

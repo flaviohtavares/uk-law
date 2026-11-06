@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 258. Electronic delivery by administrator[^key-1b422c8332623939a0a100b8b4e4d1c4]
+## 258. Electronic delivery by administrator[^c-1b422c8332623939a0a100b8b4e4d1c4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b422c8332623939a0a100b8b4e4d1c4]: Commencement: Rule 258 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-1b422c8332623939a0a100b8b4e4d1c4]: Commencement: Rule 258 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

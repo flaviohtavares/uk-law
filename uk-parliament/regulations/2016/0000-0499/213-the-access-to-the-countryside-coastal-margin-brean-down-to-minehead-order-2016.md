@@ -37,11 +37,11 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 3A(10) of the Countryside and Rights of Way Act 2000[^f00001], makes the following Order.
 
-## 1. Citation[^key-294565511d22af0aca181a65163d94c4]
+## 1. Citation[^c-294565511d22af0aca181a65163d94c4]
 
 This Order may be cited as the Access to the Countryside (Coastal Margin) (Brean Down to Minehead) Order 2016.
 
-## 2. End of access preparation period[^key-d546b3322c4b04df56a88cf6ac47f47f]
+## 2. End of access preparation period[^c-d546b3322c4b04df56a88cf6ac47f47f]
 
 (1) In relation to land which is coastal margin as a result of the relevant approvals, the day appointed as the day on which the access preparation period[^f00002] ends is 14th March 2016.
 
@@ -75,9 +75,9 @@ An impact assessment has not been prepared in respect of this Order because the 
 
 [^f00001]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37); section 3A was inserted by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), section 303(5).
 
-[^key-294565511d22af0aca181a65163d94c4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/213/article/1) in force at made date
+[^c-294565511d22af0aca181a65163d94c4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/213/article/1) in force at made date
 
-[^key-d546b3322c4b04df56a88cf6ac47f47f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/213/article/2) in force at made date
+[^c-d546b3322c4b04df56a88cf6ac47f47f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/213/article/2) in force at made date
 
 [^f00002]: Footnote: The term “access preparation period” is defined in section 3A(10) of the Countryside and Rights of Way Act 2000.
 

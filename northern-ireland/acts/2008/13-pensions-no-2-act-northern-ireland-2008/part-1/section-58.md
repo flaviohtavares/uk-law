@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Restrictions on agreements to limit operation of this Part[^c19558321][^key-ed6565d3d3c47f4fb8f8424ec64d16d8]
+## 58. Restrictions on agreements to limit operation of this Part[^c19558321][^c-ed6565d3d3c47f4fb8f8424ec64d16d8]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The fact that an agreement is to any extent void under subsection (1) does not entitle the employer to recover any property transferred, or the value of any benefit conferred, as an inducement to enter into, or otherwise in connection with, the agreement.
 
-(3) Subsection (1) does not apply to any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of Articles 20A to 20C[^key-e68daf045c9cda19292b5b10b32637f9] of the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) (conciliation).
+(3) Subsection (1) does not apply to any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of Articles 20A to 20C[^c-e68daf045c9cda19292b5b10b32637f9] of the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) (conciliation).
 
 (4) Subsection (1) does not apply to any agreement to refrain from instituting or continuing before an industrial tribunal any proceedings within Article 20(1)(r) of the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) (proceedings under this Act where conciliation is available) if the conditions regulating compromise agreements under this Act are satisfied in relation to the agreement.
 
@@ -70,6 +70,6 @@ and “associated employer” is to be read accordingly.
 
 [^c19558321]: Commencement: S. 58 partly in force; s. 58 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-ed6565d3d3c47f4fb8f8424ec64d16d8]: Commencement: S. 58 in operation at 30.6.2012 in so far as not already in force by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-ed6565d3d3c47f4fb8f8424ec64d16d8]: Commencement: S. 58 in operation at 30.6.2012 in so far as not already in force by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
 
-[^key-e68daf045c9cda19292b5b10b32637f9]: Textual amendment: Words in [s. 58(3)](https://www.legislation.gov.uk/nia/2008/13/section/58/3) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/6); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-e68daf045c9cda19292b5b10b32637f9]: Textual amendment: Words in [s. 58(3)](https://www.legislation.gov.uk/nia/2008/13/section/58/3) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/6); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)

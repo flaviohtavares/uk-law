@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Reference of disagreement for reconsideration by appropriate administering authority[^key-4a9a2c1ffaaeb01c909bee5b77ec3d4d]
+## 60. Reference of disagreement for reconsideration by appropriate administering authority[^c-4a9a2c1ffaaeb01c909bee5b77ec3d4d]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a9a2c1ffaaeb01c909bee5b77ec3d4d]: Commencement: Reg. 60 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-4a9a2c1ffaaeb01c909bee5b77ec3d4d]: Commencement: Reg. 60 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

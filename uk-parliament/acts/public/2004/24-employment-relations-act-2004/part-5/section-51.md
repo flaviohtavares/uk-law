@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Restriction of grounds of appeal from Certification Officer[^key-7915fa7d98f2f0da3676a6c5465c2983]
+## 51. Restriction of grounds of appeal from Certification Officer[^c-7915fa7d98f2f0da3676a6c5465c2983]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7915fa7d98f2f0da3676a6c5465c2983]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2004/24/section/51) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 19(1)](https://www.legislation.gov.uk/uksi/2005/872/article/19/1))
+[^c-7915fa7d98f2f0da3676a6c5465c2983]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2004/24/section/51) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 19(1)](https://www.legislation.gov.uk/uksi/2005/872/article/19/1))

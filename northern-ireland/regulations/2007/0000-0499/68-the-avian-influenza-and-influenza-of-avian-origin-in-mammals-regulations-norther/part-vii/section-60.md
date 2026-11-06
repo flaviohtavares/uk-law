@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Movements off the premises[^key-22edbd4a1851742ad991f890087b02f2]
+## 60. Movements off the premises[^c-22edbd4a1851742ad991f890087b02f2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22edbd4a1851742ad991f890087b02f2]: Commencement: Reg. 60 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-22edbd4a1851742ad991f890087b02f2]: Commencement: Reg. 60 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -47,7 +47,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 24(1) and 78(1) of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 [^c24297981].
 
-## 1. Title, commencement and interpretation[^key-a6b380738243ff754a7c507bc6e2c76f]
+## 1. Title, commencement and interpretation[^c-a6b380738243ff754a7c507bc6e2c76f]
 
 (1) The title of these Regulations is the Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020.
 
@@ -57,12 +57,12 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (4) Words and expressions used in these Regulations have the same meaning as they have in the LTT Act.
 
-## 2. Application[^key-610261bcd5aaf994a614bd7781db363c]
+## 2. Application[^c-610261bcd5aaf994a614bd7781db363c]
 
 (1) These Regulations have effect in relation to any chargeable transaction that—
 
 - (a) is a residential property transaction, and
-- (b) has an effective date on or after 27 July 2020, but before 1 July 2021[^key-ee2d7ffea29e541b0742834bba0a26ce] [^c24297991].
+- (b) has an effective date on or after 27 July 2020, but before 1 July 2021[^c-ee2d7ffea29e541b0742834bba0a26ce] [^c24297991].
 
 (2) Paragraph (3) applies where—
 
@@ -71,11 +71,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) Where this paragraph applies, section 10(5)(b) of the LTT Act does not apply in relation to that transfer if the sole reason that (but for this regulation) it would have applied is that the modifications made by these Regulations have no effect in relation to that transfer.
 
-## 3. Tax bands and percentage tax rates[^key-6b01d3f39f60f2c2ba07752e68c7449b]
+## 3. Tax bands and percentage tax rates[^c-6b01d3f39f60f2c2ba07752e68c7449b]
 
 The Schedule to these Regulations specifies the tax bands and percentage tax rates for residential property transactions to which these Regulations apply for the purposes of section 24(1) of the LTT Act.
 
-## 4. Amendment of the Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018[^key-5000901c17ab6a089e9b609b139b46cf]
+## 4. Amendment of the Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018[^c-5000901c17ab6a089e9b609b139b46cf]
 
 (1) The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018 [^c24298001] are amended as follows.
 
@@ -91,7 +91,7 @@ Rebecca Evans
 
 Minister for Finance and Trefnydd, one of the Welsh Ministers
 
-## SCHEDULE[^key-aff15206aa15e8f7282eacef4898b117]
+## SCHEDULE[^c-aff15206aa15e8f7282eacef4898b117]
 
 Regulation 3
 
@@ -128,18 +128,18 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24297981]: Marginal citation: 2017 anaw 1. See also section 40 of the Legislation (Wales) Act 2019 (anaw 4) for provision about the procedure that applies to this instrument.
 
-[^key-a6b380738243ff754a7c507bc6e2c76f]: Commencement: Reg. 1 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
+[^c-a6b380738243ff754a7c507bc6e2c76f]: Commencement: Reg. 1 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
 
-[^key-610261bcd5aaf994a614bd7781db363c]: Commencement: Reg. 2 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
+[^c-610261bcd5aaf994a614bd7781db363c]: Commencement: Reg. 2 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
 
-[^key-ee2d7ffea29e541b0742834bba0a26ce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2) substituted (1.4.2021) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) (Amendment) Regulations 2021 (S.I. 2021/238)](https://www.legislation.gov.uk/wsi/2021/238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/238/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/238/regulation/2)
+[^c-ee2d7ffea29e541b0742834bba0a26ce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2) substituted (1.4.2021) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) (Amendment) Regulations 2021 (S.I. 2021/238)](https://www.legislation.gov.uk/wsi/2021/238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/238/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/238/regulation/2)
 
 [^c24297991]: Marginal citation: See the Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018 ([S.I. 2018/128](https://www.legislation.gov.uk/uksi/2018/128) (W. 32)) as to the application of rates and bands to residential property transactions with an effective date before 27 July 2020 or on or after 1 July 2021 .
 
-[^key-6b01d3f39f60f2c2ba07752e68c7449b]: Commencement: Reg. 3 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
+[^c-6b01d3f39f60f2c2ba07752e68c7449b]: Commencement: Reg. 3 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
 
-[^key-5000901c17ab6a089e9b609b139b46cf]: Commencement: Reg. 4 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
+[^c-5000901c17ab6a089e9b609b139b46cf]: Commencement: Reg. 4 in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
 
 [^c24298001]: Marginal citation: [S.I. 2018/128](https://www.legislation.gov.uk/uksi/2018/128) (W. 32).
 
-[^key-aff15206aa15e8f7282eacef4898b117]: Commencement: Sch. in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)
+[^c-aff15206aa15e8f7282eacef4898b117]: Commencement: Sch. in force at 27.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2)

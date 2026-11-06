@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Option to defer payment of added pension[^key-208189ce5d308d721af3b0071411bc91]
+## 83. Option to defer payment of added pension[^c-208189ce5d308d721af3b0071411bc91]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-208189ce5d308d721af3b0071411bc91]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2014/290/regulation/83) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-208189ce5d308d721af3b0071411bc91]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2014/290/regulation/83) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

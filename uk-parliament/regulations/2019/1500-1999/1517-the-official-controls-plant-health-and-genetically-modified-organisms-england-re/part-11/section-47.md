@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Offences by partnerships and unincorporated associations[^key-74070aec511e32a3f1a0c3ed9240ee95]
+## 47. Offences by partnerships and unincorporated associations[^c-74070aec511e32a3f1a0c3ed9240ee95]
 
 *Extent: E+W*
 
-(1) Proceedings for an offence under this Part or paragraph 22 of Schedule 4A (failure to comply with a stop notice)[^key-fde57ef764c84dc48519275ba9bc155b] alleged to have been committed by a partnership or an unincorporated association must be brought against the partnership or association in the name of the partnership or association.
+(1) Proceedings for an offence under this Part or paragraph 22 of Schedule 4A (failure to comply with a stop notice)[^c-fde57ef764c84dc48519275ba9bc155b] alleged to have been committed by a partnership or an unincorporated association must be brought against the partnership or association in the name of the partnership or association.
 
 (2) For the purposes of such proceedings—
 
@@ -52,9 +52,9 @@ the officer, as well as the association, is guilty of the offence and liable to 
 
 ## Annotations
 
-[^key-74070aec511e32a3f1a0c3ed9240ee95]: Commencement: Reg. 47 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-74070aec511e32a3f1a0c3ed9240ee95]: Commencement: Reg. 47 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
-[^key-fde57ef764c84dc48519275ba9bc155b]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/47/1) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/7)
+[^c-fde57ef764c84dc48519275ba9bc155b]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/47/1) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/7)
 
 [^c23956301]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86); section 33 was repealed in part by Schedule 6 to the [Magistrates Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), and amended by paragraph 19 of Schedule 8 to the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) and paragraph 71 of Schedule 8, and Schedule 10, to the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) (subject to savings specified in [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066)).
 

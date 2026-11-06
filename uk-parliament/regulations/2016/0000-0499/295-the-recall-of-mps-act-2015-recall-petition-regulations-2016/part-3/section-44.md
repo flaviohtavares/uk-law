@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Delivery of documents to the registration officer: England and Wales and Northern Ireland[^key-374b1c7fe2e1bd417b8973d94106c140]
+## 44. Delivery of documents to the registration officer: England and Wales and Northern Ireland[^c-374b1c7fe2e1bd417b8973d94106c140]
 
 *Extent: E+W+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the daily signing sheet accounts, the final signing sheet accounts, the statement of rejected signing sheets and the verification of the signing sheets accounts,
 - (c) the tendered signing lists, the lists of persons with disabilities assisted by the petition clerk, and the list of alterations to the register,
 - (d) the packets of the completed corresponding number lists,
-- (da)[^key-abb848bc142f3a3fc0f46ce3ade6a1be] in the case of a petition held in England or Wales, the packet containing the completed signing sheet refusal list,
+- (da)[^c-abb848bc142f3a3fc0f46ce3ade6a1be] in the case of a petition held in England or Wales, the packet containing the completed signing sheet refusal list,
 - (e) the packets of certificates as to employment on duty during the signing period,
 - (f) the packets containing marked copies of the register (including any marked copy notices issued under section 13BC(6) of the 1983 Act) and of the postal signers list, of lists of proxies and of the proxy postal signers list,
 - (g) such other documents relating to the petition as the petition officer considers appropriate,
@@ -51,6 +51,6 @@ a description of its contents, the dates of the signing period of the petition t
 
 ## Annotations
 
-[^key-374b1c7fe2e1bd417b8973d94106c140]: Commencement: Reg. 44 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-374b1c7fe2e1bd417b8973d94106c140]: Commencement: Reg. 44 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-abb848bc142f3a3fc0f46ce3ade6a1be]: Textual amendment: Reg. 44(1)(da) inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [83](https://www.legislation.gov.uk/uksi/2022/1382/regulation/83) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-abb848bc142f3a3fc0f46ce3ade6a1be]: Textual amendment: Reg. 44(1)(da) inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [83](https://www.legislation.gov.uk/uksi/2022/1382/regulation/83) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

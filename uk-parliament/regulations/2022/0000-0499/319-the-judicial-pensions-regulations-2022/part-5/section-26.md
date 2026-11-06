@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Establishment of pension accounts: general[^key-f09c7bedac48d5d8633d27fd7e9d8d38]
+## 26. Establishment of pension accounts: general[^c-f09c7bedac48d5d8633d27fd7e9d8d38]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f09c7bedac48d5d8633d27fd7e9d8d38]: Commencement: Reg. 26 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-f09c7bedac48d5d8633d27fd7e9d8d38]: Commencement: Reg. 26 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

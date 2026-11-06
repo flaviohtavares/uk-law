@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.3. Power to dispense with service on child[^key-1dd883e3f46cb09b9dcdb95bbba79387]
+## 3.3. Power to dispense with service on child[^c-1dd883e3f46cb09b9dcdb95bbba79387]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the sheriff is satisfied, so far as practicable and taking account of the 
 
 ## Annotations
 
-[^key-1dd883e3f46cb09b9dcdb95bbba79387]: Textual amendment: Rules 3.3, 3.3A substituted for rule 3.3 (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/5) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-1dd883e3f46cb09b9dcdb95bbba79387]: Textual amendment: Rules 3.3, 3.3A substituted for rule 3.3 (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/5) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

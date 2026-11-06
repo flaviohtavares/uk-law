@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. The Regulator's membership[^key-c67c8544bd88c174ac6cc0da0d2b2be3]
+## 8. The Regulator's membership[^c-c67c8544bd88c174ac6cc0da0d2b2be3]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c67c8544bd88c174ac6cc0da0d2b2be3]: Commencement: S. 8 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-c67c8544bd88c174ac6cc0da0d2b2be3]: Commencement: S. 8 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

@@ -43,7 +43,7 @@ Whereas a draft of the following Regulations has been approved by resolution of 
 
 Now, therefore, the Secretary of State, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the legal protection of designs, in exercise of the powers conferred on her by the said section 2(2) hereby makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-221bb05bfef8dc6b645fc78d02e4b276]
+## 1. Citation, commencement and extent[^c-221bb05bfef8dc6b645fc78d02e4b276]
 
 (1) These Regulations may be cited as the Registered Designs Regulations 2001 and shall come into force on the day after the day on which they are made.
 
@@ -51,7 +51,7 @@ Now, therefore, the Secretary of State, being designated[^f00001] for the purpos
 
 (3) The amendments made by these Regulations to the Chartered Associations (Protection of Names and Uniforms) Act 1926 do not extend to Northern Ireland.
 
-## 2. Designs registrable under the 1949 Act[^key-fe3bd19f8e49a035200d1f862702b5a2]
+## 2. Designs registrable under the 1949 Act[^c-fe3bd19f8e49a035200d1f862702b5a2]
 
 For section 1 of the Registered Designs Act 1949[^f00003] (designs registrable under Act) there shall be substituted—
 
@@ -125,7 +125,7 @@ For section 1 of the Registered Designs Act 1949[^f00003] (designs registrable u
 >
 > A right in a registered design shall not subsist in a design which is contrary to public policy or to accepted principles of morality.
 
-## 3. Designs registrable under the 1949 Act: emblems etc.[^key-251e4b45c5858a0d6b75c90d942c2726]
+## 3. Designs registrable under the 1949 Act: emblems etc.[^c-251e4b45c5858a0d6b75c90d942c2726]
 
 Before Schedule 1 to the Registered Designs Act 1949 there shall be inserted—
 
@@ -225,7 +225,7 @@ Before Schedule 1 to the Registered Designs Act 1949 there shall be inserted—
 > - “a Paris Convention country” means a country, other than the United Kingdom, which is a party to the Paris Convention; and
 > - “the Paris Convention” means the Paris Convention for the Protection of Industrial Property of 20th March 1883.
 
-## 4. Registration of designs: general[^key-0f5543b277e781e064b929d242470119]
+## 4. Registration of designs: general[^c-0f5543b277e781e064b929d242470119]
 
 For section 3 of the Registered Designs Act 1949[^f00004] (proceedings for registration) there shall be substituted—
 
@@ -289,7 +289,7 @@ For section 3 of the Registered Designs Act 1949[^f00004] (proceedings for regis
 >
 > An appeal lies from any decision of the registrar under section 3A or 3B of this Act.
 
-## 5. Right given by registration under the 1949 Act[^key-aac637fe54e13c1addbd55d7fe4c4afb]
+## 5. Right given by registration under the 1949 Act[^c-aac637fe54e13c1addbd55d7fe4c4afb]
 
 For section 7 of the Registered Designs Act 1949[^f00005] (right given by registration) there shall be substituted—
 
@@ -330,7 +330,7 @@ For section 7 of the Registered Designs Act 1949[^f00005] (right given by regist
 >
 > (6) No proceedings shall be taken in respect of an infringement of the right in a registered design committed before the date on which the certificate of registration of the design under this Act is granted.
 
-## 6. Removal of compulsory licence regimes[^key-8c30c44547dd115417d68fda84569f8b]
+## 6. Removal of compulsory licence regimes[^c-8c30c44547dd115417d68fda84569f8b]
 
 (1) Section 10 of the Registered Designs Act 1949 (compulsory licence in respect of registered design) shall be omitted.
 
@@ -339,7 +339,7 @@ For section 7 of the Registered Designs Act 1949[^f00005] (right given by regist
 - (a) paragraph (b) and the word “or” immediately preceding it shall be omitted; and
 - (b) the words from “or may, instead” to the end of the subsection shall be omitted.
 
-## 7. Cancellation and invalidation of registration[^key-7a10e1aca961a2fcd5ef0966265ae7c4]
+## 7. Cancellation and invalidation of registration[^c-7a10e1aca961a2fcd5ef0966265ae7c4]
 
 For section 11 of the Registered Designs Act 1949[^f00007] (cancellation of registration) there shall be substituted—
 
@@ -415,7 +415,7 @@ For section 11 of the Registered Designs Act 1949[^f00007] (cancellation of regi
 >
 > An appeal lies from any decision of the registrar under section 11 to 11ZE of this Act.
 
-## 8. Rectification of register[^key-aa61bb5d04ca27b0aa99486942243205]
+## 8. Rectification of register[^c-aa61bb5d04ca27b0aa99486942243205]
 
 (1) Section 20 of the Registered Designs Act 1949[^f00008] (rectification of register) shall be amended as follows.
 
@@ -436,13 +436,13 @@ For section 11 of the Registered Designs Act 1949[^f00007] (cancellation of regi
 
 > (6) Orders which may be made by the court under this section include, in particular, declarations of partial invalidity.
 
-## 9. Other modifications of enactments[^key-6621598ef1f79bbdcfb242d24aeaae19]
+## 9. Other modifications of enactments[^c-6621598ef1f79bbdcfb242d24aeaae19]
 
 (1) The amendments specified in Schedule 1 (consequential amendments) shall have effect.
 
 (2) The repeals specified in Schedule 2 shall have effect.
 
-## 10. Transitional provisions: pending applications[^key-fc63ae9967cae12dbaf9062dade5af12]
+## 10. Transitional provisions: pending applications[^c-fc63ae9967cae12dbaf9062dade5af12]
 
 (1) This Regulation applies to applications for registration under the Registered Designs Act 1949 which have been made but not finally determined before the coming into force of these Regulations (“pending applications”).
 
@@ -450,7 +450,7 @@ For section 11 of the Registered Designs Act 1949[^f00007] (cancellation of regi
 
 (3) Accordingly the amendments and repeals made by these Regulations shall not apply in relation to the determination of such applications.
 
-## 11. Transitional provisions: transitional registrations[^key-18e38fb35e05d339b5cec070acfc010a]
+## 11. Transitional provisions: transitional registrations[^c-18e38fb35e05d339b5cec070acfc010a]
 
 (1) This Regulation applies to any registration under the Registered Designs Act 1949 which results from the determination of a pending application (within the meaning of Regulation 10).
 
@@ -475,7 +475,7 @@ the difference between the two dates shall be added to the first period of five 
 
 (9) The repeal by these Regulations of the proviso in section 4(1) of the Act of 1949 and of the reference to it in section 8 of that Act shall not apply to the right in a design to which a transitional registration applies.
 
-## 12. Transitional provisions: post-1989 registrations[^key-af1c3b341e8b2939bf0efea485fb2dda]
+## 12. Transitional provisions: post-1989 registrations[^c-af1c3b341e8b2939bf0efea485fb2dda]
 
 (1) This Regulation applies to—
 
@@ -508,7 +508,7 @@ the difference between the two dates shall be added to any period of five years 
 
 (9) The repeal by these Regulations of the proviso in section 4(1) of the Act of 1949 and the reference to it in section 8 of that Act shall not apply to the right in a design to which a post-1989 registration applies.
 
-## 13. Transitional provisions: pre-1989 registrations[^key-00153e49924c4dd6cc0af76885a1e382]
+## 13. Transitional provisions: pre-1989 registrations[^c-00153e49924c4dd6cc0af76885a1e382]
 
 (1) This Regulation applies to—
 
@@ -551,7 +551,7 @@ the difference between the two dates shall be added to any period of five years 
 
 (12) The repeal by these Regulations of the proviso in section 4(1) of the Act of 1949 shall not apply to the right in a design to which a pre-1989 registration applies.
 
-## 14. Other transitional provisions[^key-8307eaa1db7aac8fd00a3d9585659f37]
+## 14. Other transitional provisions[^c-8307eaa1db7aac8fd00a3d9585659f37]
 
 (1) Any licence which—
 
@@ -601,7 +601,7 @@ Department of Trade and Industry
 
 *Extent: E+W+S*
 
-**1.**[^key-fef944cb06c9282744a8fea47c265b97] In section 3 of the Chartered Associations (Protection of Names and Uniforms) Act 1926 (savings)—
+**1.**[^c-fef944cb06c9282744a8fea47c265b97] In section 3 of the Chartered Associations (Protection of Names and Uniforms) Act 1926 (savings)—
 
 - (a) for the word “article”, in the first place where it appears, there shall be substituted “product”;
 - (b) for the words from “in respect of ” to “1907”, there shall be substituted “where a design is applied to, or incorporated in, the product and the design is protected by virtue of registration under the Registered Designs Act 1949”;
@@ -610,17 +610,17 @@ Department of Trade and Industry
 
 ### Registered Designs Act 1949
 
-**2.**[^key-372c1c5d524c3ec929f3d78e9719acf0] In section 8B(6) of the Registered Designs Act 1949[^f00009] (effect of order for restoration of right)—
+**2.**[^c-372c1c5d524c3ec929f3d78e9719acf0] In section 8B(6) of the Registered Designs Act 1949[^f00009] (effect of order for restoration of right)—
 
 - (a) for the words “an article” there shall be substituted “a product”; and
 - (b) for the words “the article” there shall be substituted “the product”.
 
-**3.**[^key-0ca7269f9f8de994a6d331b09913ecc0] In section 9(1) of that Act[^f00010] (exemption of innocent infringer from liability for damages)—
+**3.**[^c-0ca7269f9f8de994a6d331b09913ecc0] In section 9(1) of that Act[^f00010] (exemption of innocent infringer from liability for damages)—
 
 - (a) for the words “an article” there shall be substituted “a product”; and
 - (b) for the words “the article” there shall be substituted “, or incorporated in, the product”.
 
-**4.**[^key-97f304e01bad88938063e9563d361c93] (1) Section 14 of that Act[^f00011] (registration of design where application for protection in convention country has been made) shall be amended as follows.
+**4.**[^c-97f304e01bad88938063e9563d361c93] (1) Section 14 of that Act[^f00011] (registration of design where application for protection in convention country has been made) shall be amended as follows.
 
 (2) In subsection (2)—
 
@@ -629,20 +629,20 @@ Department of Trade and Industry
 
 (3) In subsection (3) for the words “section 3(4)” there shall be substituted “section 3B(2) or (3)”.
 
-**5.**[^key-5498484b07a0a115d789ee35b4b73af6] In section 15(2) of that Act (extension of time for applications under section 14 in certain cases)—
+**5.**[^c-5498484b07a0a115d789ee35b4b73af6] In section 15(2) of that Act (extension of time for applications under section 14 in certain cases)—
 
 - (a) in paragraph (a), for the word “articles” there shall be substituted “products”; and
 - (b) in paragraph (e)—
   - (i) for the word “articles” there shall be substituted “products”; and
   - (ii) after the word “applied” there shall be inserted “or in which it is incorporated”.
 
-**6.**[^key-33c9472e17451ab0fd99ca15dc55933a] (1) Section 19 (registration of assignments etc.)[^f00012] of that Act shall be amended as follows.
+**6.**[^c-33c9472e17451ab0fd99ca15dc55933a] (1) Section 19 (registration of assignments etc.)[^f00012] of that Act shall be amended as follows.
 
 (2) In subsection (3A) for the words “design right”, in both places where they appear, there shall be substituted “national unregistered design right”.
 
 (3) In subsection (3B) for the words “design right”, in the first and third places where they appear, there shall be substituted “national unregistered design right”.
 
-**7.**[^key-913fd32cd854f395711ccd3206b38ccc] (1) Section 22 of that Act[^f00013] (inspection of registered designs) shall be amended as follows.
+**7.**[^c-913fd32cd854f395711ccd3206b38ccc] (1) Section 22 of that Act[^f00013] (inspection of registered designs) shall be amended as follows.
 
 (2) In subsection (2) for the words from the beginning to “no” there shall be substituted—
 
@@ -662,15 +662,15 @@ Department of Trade and Industry
 
 (4) In subsection (3) for the words from “design” to “class” there shall be substituted “registered design and a specified product which falls within any class”.
 
-**8.**[^key-c928dfb76f9afb41b92b7afc6f3a5b6a] (1) Section 25 of that Act[^f00014] (certificate of contested validity of registration) shall be amended as follows.
+**8.**[^c-c928dfb76f9afb41b92b7afc6f3a5b6a] (1) Section 25 of that Act[^f00014] (certificate of contested validity of registration) shall be amended as follows.
 
 (2) In subsection (1) after the words “the design is” there shall be inserted “, to any extent,”.
 
 (3) In subsection (2) for the word “cancellation” there shall be substituted “invalidation”.
 
-**9.**[^key-9562fd8aa731a2781a552505764068eb] In section 30(3)(a) of that Act[^f00015] (costs and security for costs) for the word “cancellation” there shall be substituted “invalidation”.
+**9.**[^c-9562fd8aa731a2781a552505764068eb] In section 30(3)(a) of that Act[^f00015] (costs and security for costs) for the word “cancellation” there shall be substituted “invalidation”.
 
-**10.**[^key-0c009bb55e2cb6c64ef315fbd75b059c] (1) Section 35 of that Act[^f00016] (fine for falsely representing a design as registered) shall be amended as follows.
+**10.**[^c-0c009bb55e2cb6c64ef315fbd75b059c] (1) Section 35 of that Act[^f00016] (fine for falsely representing a design as registered) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -686,7 +686,7 @@ Department of Trade and Industry
 - (b) after the word “applied” there shall be inserted “or in which it has been incorporated”; and
 - (c) for the words “such article” there shall be substituted “such product”.
 
-**11.**[^key-3fb066ab81c716d6c6f04f5608f6ac0a] In section 36(1A) of that Act[^f00017] (general power of Secretary of State to make rules etc.), after paragraph (a), there shall be inserted—
+**11.**[^c-3fb066ab81c716d6c6f04f5608f6ac0a] In section 36(1A) of that Act[^f00017] (general power of Secretary of State to make rules etc.), after paragraph (a), there shall be inserted—
 
 > - (ab) requiring applications for registration of designs to specify—
 >   - (i) the products to which the designs are intended to be applied or in which they are intended to be incorporated;
@@ -694,11 +694,11 @@ Department of Trade and Industry
 
 .
 
-**12.**[^key-85d9d7439bc624a3169615092a587357] In section 37(2) of that Act for the words from “section”, where it first appears, to “Act”, where it first appears, there shall be substituted “section 15 of this Act”.
+**12.**[^c-85d9d7439bc624a3169615092a587357] In section 37(2) of that Act for the words from “section”, where it first appears, to “Act”, where it first appears, there shall be substituted “section 15 of this Act”.
 
-**13.**[^key-f647fe94e067e568d1dcaa7056680495] In section 43(2) of that Act (savings) for the word “articles” there shall be substituted “products”.
+**13.**[^c-f647fe94e067e568d1dcaa7056680495] In section 43(2) of that Act (savings) for the word “articles” there shall be substituted “products”.
 
-**14.**[^key-86c9e2904cc34fbdf3522c804cb83e5a] (1) Section 44 of that Act (interpretation) shall be amended as follows.
+**14.**[^c-86c9e2904cc34fbdf3522c804cb83e5a] (1) Section 44 of that Act (interpretation) shall be amended as follows.
 
 (2) In subsection (1), in the definition of “design”[^f00018] for the words “section 1(1)” there shall be substituted “section 1(2)”.
 
@@ -718,7 +718,7 @@ Department of Trade and Industry
 
 (4) In subsection (4) for the words from “section”, where it first appears, to “Act” there shall be substituted “section 14 of this Act”.
 
-**15.**[^key-92d4131808a252ad6c80ad3b6d389b61] (1) Schedule 1 to that Act (use of registered designs for the services of the Crown) shall be amended as follows.
+**15.**[^c-92d4131808a252ad6c80ad3b6d389b61] (1) Schedule 1 to that Act (use of registered designs for the services of the Crown) shall be amended as follows.
 
 (2) In paragraph 1(6)[^f00019] and (7), for the word “articles”, in each place where it appears, there shall be substituted “products”.
 
@@ -742,9 +742,9 @@ Department of Trade and Industry
 
 ### Copyright, Designs and Patents Act 1988
 
-**16.**[^key-7f25922fc5f4ea46ffa28ac96b8561ea] In section 53(1)(b) of the Copyright, Designs and Patents Act 1988[^f00022] (things done in reliance on registration of design) after the word “cancellation” there shall be inserted “or invalidation”.
+**16.**[^c-7f25922fc5f4ea46ffa28ac96b8561ea] In section 53(1)(b) of the Copyright, Designs and Patents Act 1988[^f00022] (things done in reliance on registration of design) after the word “cancellation” there shall be inserted “or invalidation”.
 
-## SCHEDULE 2 — REPEALS[^key-eb85bb4fa6464bb3df84b8c5a84604e4]
+## SCHEDULE 2 — REPEALS[^c-eb85bb4fa6464bb3df84b8c5a84604e4]
 
 | *Chapter* | *Short title* | *Extent of repeal* |
 | --- | --- | --- |
@@ -785,95 +785,95 @@ A regulatory impact assessment is available, copies of which have been placed in
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-221bb05bfef8dc6b645fc78d02e4b276]: Commencement: Reg. 1 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-221bb05bfef8dc6b645fc78d02e4b276]: Commencement: Reg. 1 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-fe3bd19f8e49a035200d1f862702b5a2]: Commencement: Reg. 2 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-fe3bd19f8e49a035200d1f862702b5a2]: Commencement: Reg. 2 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00003]: Footnote: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88). Section 1 as originally enacted was substituted by section 265 of the Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48) (“the 1988 Act”) but not in relation to applications for registration made before 1st August 1989. Subsection (6) was added by section 13(1) of the Olympic Symbol etc. (Protection) Act [1995 (c. 32)](https://www.legislation.gov.uk/ukpga/1995/32) in relation to applications for registration made on or after 20th September 1995.
 
-[^key-251e4b45c5858a0d6b75c90d942c2726]: Commencement: Reg. 3 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-251e4b45c5858a0d6b75c90d942c2726]: Commencement: Reg. 3 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-0f5543b277e781e064b929d242470119]: Commencement: Reg. 4 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-0f5543b277e781e064b929d242470119]: Commencement: Reg. 4 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00004]: Footnote: Section 3(2) to (7) was substituted by section 272 of, and paragraph 1 of Schedule 3 to, the 1988 Act.
 
-[^key-aac637fe54e13c1addbd55d7fe4c4afb]: Commencement: Reg. 5 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-aac637fe54e13c1addbd55d7fe4c4afb]: Commencement: Reg. 5 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00005]: Footnote: Section 7 as originally enacted was substituted by section 268 of the 1988 Act but not in relation to a design registered in pursuance of an application made before 1st August 1989.
 
-[^key-8c30c44547dd115417d68fda84569f8b]: Commencement: Reg. 6 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-8c30c44547dd115417d68fda84569f8b]: Commencement: Reg. 6 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00006]: Footnote: Section 11A was inserted by section 270 of the 1988 Act.
 
-[^key-7a10e1aca961a2fcd5ef0966265ae7c4]: Commencement: Reg. 7 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-7a10e1aca961a2fcd5ef0966265ae7c4]: Commencement: Reg. 7 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00007]: Footnote: Words in subsection (2) of section 11 were repealed by section 303(2) of, and Schedule 8 to, the 1988 Act. Subsections (3) to (5) of section 11 were substituted for subsection (2A) of that section (as inserted by section 44(3) of the Copyright Act [1956 (c. 74)](https://www.legislation.gov.uk/ukpga/1956/74)) by section 272 of, and paragraph 6 of Schedule 3 to, the 1988 Act.
 
-[^key-aa61bb5d04ca27b0aa99486942243205]: Commencement: Reg. 8 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-aa61bb5d04ca27b0aa99486942243205]: Commencement: Reg. 8 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00008]: Footnote: Section 20(5) was added by section 272 of, and paragraph 11 of Schedule 3 to, the 1988 Act.
 
-[^key-6621598ef1f79bbdcfb242d24aeaae19]: Commencement: Reg. 9 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-6621598ef1f79bbdcfb242d24aeaae19]: Commencement: Reg. 9 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-fc63ae9967cae12dbaf9062dade5af12]: Commencement: Reg. 10 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-fc63ae9967cae12dbaf9062dade5af12]: Commencement: Reg. 10 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-18e38fb35e05d339b5cec070acfc010a]: Commencement: Reg. 11 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-18e38fb35e05d339b5cec070acfc010a]: Commencement: Reg. 11 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-af1c3b341e8b2939bf0efea485fb2dda]: Commencement: Reg. 12 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-af1c3b341e8b2939bf0efea485fb2dda]: Commencement: Reg. 12 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-00153e49924c4dd6cc0af76885a1e382]: Commencement: Reg. 13 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-00153e49924c4dd6cc0af76885a1e382]: Commencement: Reg. 13 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-8307eaa1db7aac8fd00a3d9585659f37]: Commencement: Reg. 14 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-8307eaa1db7aac8fd00a3d9585659f37]: Commencement: Reg. 14 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-fef944cb06c9282744a8fea47c265b97]: Commencement: Sch. 1 para. 1 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-fef944cb06c9282744a8fea47c265b97]: Commencement: Sch. 1 para. 1 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-372c1c5d524c3ec929f3d78e9719acf0]: Commencement: Sch. 1 para. 2 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-372c1c5d524c3ec929f3d78e9719acf0]: Commencement: Sch. 1 para. 2 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00009]: Footnote: Section 8B was inserted by section 269 of the 1988 Act.
 
-[^key-0ca7269f9f8de994a6d331b09913ecc0]: Commencement: Sch. 1 para. 3 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-0ca7269f9f8de994a6d331b09913ecc0]: Commencement: Sch. 1 para. 3 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00010]: Footnote: Section 9 was amended by section 272 of, and paragraph 5 of Schedule 3 to, the 1988 Act.
 
-[^key-97f304e01bad88938063e9563d361c93]: Commencement: Sch. 1 para. 4 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-97f304e01bad88938063e9563d361c93]: Commencement: Sch. 1 para. 4 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00011]: Footnote: Section 14(2) and (3) were substituted by section 272 of, and paragraph 7 of Schedule 3 to, the 1988 Act.
 
-[^key-5498484b07a0a115d789ee35b4b73af6]: Commencement: Sch. 1 para. 5 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-5498484b07a0a115d789ee35b4b73af6]: Commencement: Sch. 1 para. 5 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-33c9472e17451ab0fd99ca15dc55933a]: Commencement: Sch. 1 para. 6 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-33c9472e17451ab0fd99ca15dc55933a]: Commencement: Sch. 1 para. 6 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00012]: Footnote: Section 19(3A) and (3B) were inserted by section 272 of, and paragraph 10 of Schedule 3 to, the 1988 Act.
 
-[^key-913fd32cd854f395711ccd3206b38ccc]: Commencement: Sch. 1 para. 7 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-913fd32cd854f395711ccd3206b38ccc]: Commencement: Sch. 1 para. 7 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00013]: Footnote: Section 22(2) and (3) were amended by section 272 of, and paragraph 12 of Schedule 3 to, the 1988 Act.
 
-[^key-c928dfb76f9afb41b92b7afc6f3a5b6a]: Commencement: Sch. 1 para. 8 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-c928dfb76f9afb41b92b7afc6f3a5b6a]: Commencement: Sch. 1 para. 8 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00014]: Footnote: Section 25(2) was amended by section 272 of, and paragraph 14 of Schedule 3 to, the 1988 Act.
 
-[^key-9562fd8aa731a2781a552505764068eb]: Commencement: Sch. 1 para. 9 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-9562fd8aa731a2781a552505764068eb]: Commencement: Sch. 1 para. 9 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00015]: Footnote: Section 30 was substituted by section 272 of, and paragraph 19 of Schedule 3 to, the 1988 Act.
 
-[^key-0c009bb55e2cb6c64ef315fbd75b059c]: Commencement: Sch. 1 para. 10 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-0c009bb55e2cb6c64ef315fbd75b059c]: Commencement: Sch. 1 para. 10 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00016]: Footnote: Section 35 was amended by section 272 of, and paragraph 24 of Schedule 3 to, the 1988 Act but not, in the case of the amendment to section 35(1), in relation to offences committed before 1st August 1989.
 
-[^key-3fb066ab81c716d6c6f04f5608f6ac0a]: Commencement: Sch. 1 para. 11 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-3fb066ab81c716d6c6f04f5608f6ac0a]: Commencement: Sch. 1 para. 11 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00017]: Footnote: Section 36 was amended by section 272 of, and paragraph 26 of Schedule 3 to, the 1988 Act.
 
-[^key-85d9d7439bc624a3169615092a587357]: Commencement: Sch. 1 para. 12 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-85d9d7439bc624a3169615092a587357]: Commencement: Sch. 1 para. 12 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-f647fe94e067e568d1dcaa7056680495]: Commencement: Sch. 1 para. 13 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-f647fe94e067e568d1dcaa7056680495]: Commencement: Sch. 1 para. 13 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
-[^key-86c9e2904cc34fbdf3522c804cb83e5a]: Commencement: Sch. 1 para. 14 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-86c9e2904cc34fbdf3522c804cb83e5a]: Commencement: Sch. 1 para. 14 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00018]: Footnote: The definition of “design” was amended by section 272 of, and paragraph 31(7) of Schedule 3 to, the 1988 Act.
 
-[^key-92d4131808a252ad6c80ad3b6d389b61]: Commencement: Sch. 1 para. 15 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-92d4131808a252ad6c80ad3b6d389b61]: Commencement: Sch. 1 para. 15 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00019]: Footnote: Paragraph 1(6) was substituted by section 1(1) and (4) of the Defence Contracts Act [1958 (c. 38)](https://www.legislation.gov.uk/ukpga/1958/38).
 
@@ -881,8 +881,8 @@ A regulatory impact assessment is available, copies of which have been placed in
 
 [^f00021]: Footnote: Paragraph 2A was inserted by section 271 of the 1988 Act in relation to any Crown use of a registered design after 1st August 1989 even if the terms for such use were settled before that date.
 
-[^key-7f25922fc5f4ea46ffa28ac96b8561ea]: Commencement: Sch. 1 para. 16 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-7f25922fc5f4ea46ffa28ac96b8561ea]: Commencement: Sch. 1 para. 16 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
 
 [^f00022]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-eb85bb4fa6464bb3df84b8c5a84604e4]: Commencement: Sch. 2 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)
+[^c-eb85bb4fa6464bb3df84b8c5a84604e4]: Commencement: Sch. 2 in force at 9.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/1/1)

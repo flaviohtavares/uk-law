@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Definition of certain expressions[^key-e913eefaca604bb976f949ca7ba8f2c5]
+## 108. Definition of certain expressions[^c-e913eefaca604bb976f949ca7ba8f2c5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e913eefaca604bb976f949ca7ba8f2c5]: Textual amendment: S. 108 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 29(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/29/2); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/f)
+[^c-e913eefaca604bb976f949ca7ba8f2c5]: Textual amendment: S. 108 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 29(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/29/2); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/f)

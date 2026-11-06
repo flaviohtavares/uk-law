@@ -23,14 +23,14 @@ summary: ''
 (1) Except where the context otherwise requires, in this Part of this Act the following expressions have the following meanings—
 
 - “**authorisation**” means an authorisation required by section 14;
-- “carbon dioxide storage site” means a facility—[^key-c18c4320a354163758d9528f0b927ecc]
+- “carbon dioxide storage site” means a facility—[^c-c18c4320a354163758d9528f0b927ecc]
   - (a) for the storage of carbon dioxide (with a view to its permanent disposal, or as an interim measure prior to its permanent disposal); and
   - (b) in respect of the use of which a person is required to have a licence under section 18 of the Energy Act 2008;
 - “**construction**”, in relation to a pipeline, includes placing, and cognate expressions shall be construed accordingly;
 - “controlled carbon dioxide pipeline” means any controlled pipeline or one of a network of controlled pipelines—
   - (a) which is used to convey carbon dioxide to a carbon dioxide storage site, or
   - (b) which is not being used for any purpose but which is intended to be used to convey carbon dioxide to such a site;
-- “controlled petroleum pipeline” means any controlled pipeline or one of a network of controlled pipelines—[^key-34a7751bcee1e3ff4078444d8a6806d5]
+- “controlled petroleum pipeline” means any controlled pipeline or one of a network of controlled pipelines—[^c-34a7751bcee1e3ff4078444d8a6806d5]
   - (a) which is operated or constructed as part of a petroleum production project and is not a controlled carbon dioxide pipeline; or
   - (b) which is used to convey petroleum from the site of one or more such projects—
     - (i) directly to premises, in order for that petroleum to be used at those premises for power generation or for an industrial process;
@@ -41,15 +41,15 @@ summary: ''
 - “downstream gas pipeline” means a controlled pipeline, other than a controlled petroleum pipeline, which is used to convey gas to or from a place outside Great Britain;[^c12434001]
   - “**enactment**” includes an enactment of the Parliament of Northern Ireland or of the Northern Ireland Assembly;
 - “gas” means any substance which consists wholly or mainly of—[^c12434011]
-  - (a) methane, ethane, propane, butane, hydrogen, carbon monoxide or a substance designated under paragraph (e) of the definition of “gas” in section 2(4) of the Energy Act 2008[^key-3c2e0be3bdd2a02477be3dd670f3cf98];
-  - (b) a mixture of two or more of those substances[^key-adcb6940da87599835e085cb07851d05] ; or
-  - (c) a combustible mixture of one or more of those substances[^key-cf730515c321a044046f6c4fe0982f9b] and air;
+  - (a) methane, ethane, propane, butane, hydrogen, carbon monoxide or a substance designated under paragraph (e) of the definition of “gas” in section 2(4) of the Energy Act 2008[^c-3c2e0be3bdd2a02477be3dd670f3cf98];
+  - (b) a mixture of two or more of those substances[^c-adcb6940da87599835e085cb07851d05] ; or
+  - (c) a combustible mixture of one or more of those substances[^c-cf730515c321a044046f6c4fe0982f9b] and air;
 - “gas processing facility” means any facility in Great Britain operated otherwise than by a public gas transporter which carries out gas processing operations;
 - “gas processing operation” means any of the following operations, namely—
   - (a) purifying, blending, odorising or compressing gas for the purpose of enabling it to be introduced into a pipeline system operated by a public gas transporter or to be conveyed to an electricity generating station, a gas storage facility or any place outside Great Britain;
-  - (b) removing from gas for that purpose any of its constituent gases, or separating from gas for that purpose any oil or water; [^key-f84651d17b03bbed2c807a7e4d2b51b4]...
+  - (b) removing from gas for that purpose any of its constituent gases, or separating from gas for that purpose any oil or water; [^c-f84651d17b03bbed2c807a7e4d2b51b4]...
   - (c) determining the quantity or quality of gas which is or is to be so introduced, or so conveyed, whether generally or by or on behalf of a particular person;
-  - (d) separating, purifying, blending, odorising or compressing gas, for the purpose of—[^key-17d389dab36cada3917ecc5bc7013295]
+  - (d) separating, purifying, blending, odorising or compressing gas, for the purpose of—[^c-17d389dab36cada3917ecc5bc7013295]
     - (i) converting it into a form in which a purchaser is willing to accept delivery from a seller, or
     - (ii) enabling it to be loaded for conveyance to another place (whether inside or outside Great Britain); and
   - (e) loading gas—
@@ -57,11 +57,11 @@ summary: ''
     - (ii) piped from such a facility,
 
   for the purpose of enabling the gas to be conveyed to another place (whether inside or outside Great Britain);
-- “[^key-7e1120e1fa355a4cd372b8ca94954b9d]**heard**” means—
+- “[^c-7e1120e1fa355a4cd372b8ca94954b9d]**heard**” means—
   - (a) in relation to section 27, heard on behalf of the Secretary of State by a person appointed by the Secretary of State for the purpose, and
   - (b) otherwise, heard on behalf of the OGA by a person appointed by the OGA for the purpose.
 - “**holder**”, in relation to an authorisation, means the person to whom the authorisation was issued;
-- “new facility” means—[^key-7c3293606a89f990ba78fb16f9e50832]
+- “new facility” means—[^c-7c3293606a89f990ba78fb16f9e50832]
   - (a) an offshore gas storage facility the construction of which is or is to be completed after 3rd August 2003; or
   - (b) an offshore gas storage facility the modification of which to provide for a significant increase in capacity is or is to be completed after 3rd August 2003
 - “**notice**” means notice in writing;
@@ -70,7 +70,7 @@ summary: ''
   - (a) initial blending and such other treatment of petroleum as may be required to produce stabilised crude oil and other hydrocarbon liquids to the point at which a seller could reasonably make a delivery to a purchaser of such oil and liquids;
   - (b) receiving stabilised crude oil and other hydrocarbon liquids piped from an oil processing facility carrying out operations of a kind mentioned in paragraph (a), or storing oil or other hydrocarbon liquids so received, prior to their conveyance to another place (whether inside or outside Great Britain);
   - (c) loading stabilised crude oil and other hydrocarbon liquids piped from a facility carrying out operations of a kind mentioned in paragraph (a) or (b) for conveyance to another place (whether inside or outside Great Britain);
-- “offshore gas storage facility” means a facility for the storage of gas in controlled waters other than the territorial sea of the United Kingdom adjacent to Northern Ireland;[^key-8097cc99ee573658c78348d95283367c] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c3310dd61d236401be91393d34b88058]
+- “offshore gas storage facility” means a facility for the storage of gas in controlled waters other than the territorial sea of the United Kingdom adjacent to Northern Ireland;[^c-8097cc99ee573658c78348d95283367c] *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c3310dd61d236401be91393d34b88058]
 - “petroleum” has the same meaning as in Part I of this Act, and includes petroleum which has undergone any processing;[^c12434041]
 - [^c12434041]“petroleum production project” means a project carried out by virtue of a licence granted under section 3, or an equivalent project in a foreign sector of the continental shelf, and includes such a project which is used for the storage of gas;
   - “**pipeline**”, in relation to an application for a works authorisation, means the proposed pipeline in respect of which the application is made;
@@ -78,7 +78,7 @@ summary: ''
 - “public gas transporter” means a public gas transporter within the meaning of Part I of the Gas Act 1986;[^c12434071]
 - [^c12434071]“terminal” includes—
   - (a) onshore facilities in the United Kingdom for such initial blending and other treatment as may be required to produce stabilised crude oil and other hydrocarbon liquids to the point at which a seller could reasonably make a delivery to a purchaser of such oil and liquids;
-  - (aa) oil processing facilities[^key-26b55804fcde8b949839f18e0596df4a]
+  - (aa) oil processing facilities[^c-26b55804fcde8b949839f18e0596df4a]
   - (b) gas processing facilities; and
   - (c) a facility for the reception of gas prior to its conveyance to a place outside Great Britain;
 - “**works authorisation**” means an authorisation—
@@ -106,39 +106,39 @@ summary: ''
 
 ## Annotations
 
-[^key-c18c4320a354163758d9528f0b927ecc]: Textual amendment: Words in s. 28(1) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/11/a)
+[^c-c18c4320a354163758d9528f0b927ecc]: Textual amendment: Words in s. 28(1) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/11/a)
 
-[^key-34a7751bcee1e3ff4078444d8a6806d5]: Textual amendment: Words in s. 28(1) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/11/b)
+[^c-34a7751bcee1e3ff4078444d8a6806d5]: Textual amendment: Words in s. 28(1) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/11/b)
 
 [^c12434001]: Textual amendment: S. 28(1): definition of “downstream gas pipeline” inserted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/4), [Sch. 4 para. 9(b)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/4/paragraph/9/b)
 
 [^c12434011]: Textual amendment: S. 28(1): definitions of “gas”, “gas processing facility”and “gas processing operation” inserted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/4), [Sch. 4 para. 9(c)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/4/paragraph/9/c)
 
-[^key-3c2e0be3bdd2a02477be3dd670f3cf98]: Textual amendment: Words in s. 28(1) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/9/a); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-3c2e0be3bdd2a02477be3dd670f3cf98]: Textual amendment: Words in s. 28(1) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/9/a); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-adcb6940da87599835e085cb07851d05]: Textual amendment: Word in s. 28(1) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/9/b); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-adcb6940da87599835e085cb07851d05]: Textual amendment: Word in s. 28(1) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/9/b); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-cf730515c321a044046f6c4fe0982f9b]: Textual amendment: Word in s. 28(1) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/9/c); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-cf730515c321a044046f6c4fe0982f9b]: Textual amendment: Word in s. 28(1) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/9/c); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-f84651d17b03bbed2c807a7e4d2b51b4]: Textual amendment: Word in s. 28(1) repealed (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/78/4/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c/d/ii)[(dd)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c/dd)
+[^c-f84651d17b03bbed2c807a7e4d2b51b4]: Textual amendment: Word in s. 28(1) repealed (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/78/4/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c/d/ii)[(dd)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c/dd)
 
-[^key-17d389dab36cada3917ecc5bc7013295]: Textual amendment: Words in s. 28(1) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/78/4/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c)
+[^c-17d389dab36cada3917ecc5bc7013295]: Textual amendment: Words in s. 28(1) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/78/4/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c)
 
-[^key-7e1120e1fa355a4cd372b8ca94954b9d]: Textual amendment: Words in s. 28(1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/27); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-7e1120e1fa355a4cd372b8ca94954b9d]: Textual amendment: Words in s. 28(1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/27); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-7c3293606a89f990ba78fb16f9e50832]: Textual amendment: Words in s. 28(1) inserted (26.8.2004) by [Gas (Third Party Access) Regulations 2004 (S.I. 2004/2043)](https://www.legislation.gov.uk/uksi/2004/2043), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2043/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2004/2043/schedule/3/paragraph/3)
+[^c-7c3293606a89f990ba78fb16f9e50832]: Textual amendment: Words in s. 28(1) inserted (26.8.2004) by [Gas (Third Party Access) Regulations 2004 (S.I. 2004/2043)](https://www.legislation.gov.uk/uksi/2004/2043), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2043/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2004/2043/schedule/3/paragraph/3)
 
 [^M_F_1963cb59-bd08-4418-e17f-6a32cae057d9]: Textual amendment: Words in s. 28(1) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), ss. 78(4)(b), 110(2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 4(c)
 
-[^key-8097cc99ee573658c78348d95283367c]: Textual amendment: Words in s. 28(1) substituted (26.8.2004) by [Gas (Third Party Access) Regulations 2004 (S.I. 2004/2043)](https://www.legislation.gov.uk/uksi/2004/2043), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2043/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2004/2043/schedule/3/paragraph/3)
+[^c-8097cc99ee573658c78348d95283367c]: Textual amendment: Words in s. 28(1) substituted (26.8.2004) by [Gas (Third Party Access) Regulations 2004 (S.I. 2004/2043)](https://www.legislation.gov.uk/uksi/2004/2043), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2043/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2004/2043/schedule/3/paragraph/3)
 
-[^key-c3310dd61d236401be91393d34b88058]: Textual amendment: Words in s. 28(1) omitted (E.W.S.) (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/16/6)
+[^c-c3310dd61d236401be91393d34b88058]: Textual amendment: Words in s. 28(1) omitted (E.W.S.) (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/16/6)
 
 [^c12434041]: Textual amendment: S. 28(1): definitions of “offshore gas storage facility”, “petroleum” and “petroleum production project” inserted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/4), [Sch. 4 para. 9(d)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/4/paragraph/9/d)
 
 [^c12434071]: Textual amendment: S. 28(1): definitions of “public gas transporter” and “terminal” inserted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/4), [Sch. 4 para. 9(e)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/4/paragraph/9/e)
 
-[^key-26b55804fcde8b949839f18e0596df4a]: Textual amendment: Words in s. 28(1) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), ss. 78(4)(b), 110(2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 4(c)
+[^c-26b55804fcde8b949839f18e0596df4a]: Textual amendment: Words in s. 28(1) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), ss. 78(4)(b), 110(2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 4(c)
 
 [^c12434091]: Marginal citation: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).
 

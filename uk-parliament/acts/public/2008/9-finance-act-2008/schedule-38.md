@@ -26,7 +26,7 @@ Section 116
 
 **1.** Part 7 of FA 2004 (disclosure of tax avoidance schemes) is amended as follows.
 
-**2.**[^key-15abca01677cb31f0415941da4c8a3f5][^key-864e7766d9719d3760096a8abee33e74] (1) Section 308 (duties of promoter) is amended as follows.
+**2.**[^c-15abca01677cb31f0415941da4c8a3f5][^c-864e7766d9719d3760096a8abee33e74] (1) Section 308 (duties of promoter) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -62,7 +62,7 @@ Section 116
 > - (a) the person who complied with subsection (3) has notified the identity and address of the other person to HMRC or the other person holds the reference number allocated to the notifiable arrangements under section 311, and
 > - (b) the other person holds the information provided to HMRC in compliance with subsection (3).
 
-**3.**[^key-eb51ffecce58e5efac76d83d95a52829][^key-4224b59775472deb9e08d8d1718ed186] In section 311(1) (arrangements to be given reference number)—
+**3.**[^c-eb51ffecce58e5efac76d83d95a52829][^c-4224b59775472deb9e08d8d1718ed186] In section 311(1) (arrangements to be given reference number)—
 
 - (a) after “complies” insert “ or purports to comply ”,
 - (b) omit “may within 30 days”,
@@ -74,7 +74,7 @@ Section 116
   > - (i) who is a promoter in relation to the notifiable proposal (or arrangements implementing the notifiable proposal) or the notifiable arrangements (or proposal implemented by the notifiable arrangements), and
   > - (ii) whose identity and address has been notified to HMRC by the person.
 
-**4.**[^key-32e6741cd51d9bd4d9d95d21d61bc682][^key-529ff7d3716e3d5c10201e07689f9006] For section 312 substitute—
+**4.**[^c-32e6741cd51d9bd4d9d95d21d61bc682][^c-529ff7d3716e3d5c10201e07689f9006] For section 312 substitute—
 
 > **312. Duty of promoter to notify client of number**
 >
@@ -115,7 +115,7 @@ Section 116
 >
 > (5) The duty under subsection (2) does not apply in prescribed circumstances.
 
-**5.**[^key-3691b4ebb3053a502b2fc6aecfc036d7][^key-c6ab92d8169ec028def2d21f20c2d92c] (1) Section 313 (duty of parties to notifiable arrangements to notify HMRC of number etc) is amended as follows.
+**5.**[^c-3691b4ebb3053a502b2fc6aecfc036d7][^c-c6ab92d8169ec028def2d21f20c2d92c] (1) Section 313 (duty of parties to notifiable arrangements to notify HMRC of number etc) is amended as follows.
 
 (2) In subsection (1)(a), omit “under section 311 by the Board or under section 312 by the promoter”.
 
@@ -129,7 +129,7 @@ Section 116
 
 > (5) HMRC may give notice that, in relation to notifiable arrangements specified in the notice, persons are not under the duty under subsection (1) after the date specified in the notice.
 
-**6.**[^key-146cc89a0ccb7854e7d394e34cdb8b30][^key-9f86c3335d4ce15d558a7b7df7d3a726] For section 316 substitute—
+**6.**[^c-146cc89a0ccb7854e7d394e34cdb8b30][^c-9f86c3335d4ce15d558a7b7df7d3a726] For section 316 substitute—
 
 > **316. Information to be provided in form and manner specified by HMRC**
 >
@@ -139,7 +139,7 @@ Section 116
 
 ### Amendments of TMA 1970
 
-**7.**[^key-61175f3d80b2fdc40b915c3b29383e08][^key-c8099cc786c72318aefc60ff75283f80] (1) Section 98C of TMA 1970 (penalties for failure to comply with duties under Part 7 of FA 2004) is amended as follows.
+**7.**[^c-61175f3d80b2fdc40b915c3b29383e08][^c-c8099cc786c72318aefc60ff75283f80] (1) Section 98C of TMA 1970 (penalties for failure to comply with duties under Part 7 of FA 2004) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -159,26 +159,26 @@ Section 116
 
 ## Annotations
 
-[^key-15abca01677cb31f0415941da4c8a3f5]: Commencement: [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/2) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
+[^c-15abca01677cb31f0415941da4c8a3f5]: Commencement: [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/2) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
 
-[^key-864e7766d9719d3760096a8abee33e74]: Commencement: [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/2) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
+[^c-864e7766d9719d3760096a8abee33e74]: Commencement: [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/2) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
 
-[^key-eb51ffecce58e5efac76d83d95a52829]: Commencement: [Sch. 38 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/3) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
+[^c-eb51ffecce58e5efac76d83d95a52829]: Commencement: [Sch. 38 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/3) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
 
-[^key-4224b59775472deb9e08d8d1718ed186]: Commencement: [Sch. 38 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/3) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
+[^c-4224b59775472deb9e08d8d1718ed186]: Commencement: [Sch. 38 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/3) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
 
-[^key-32e6741cd51d9bd4d9d95d21d61bc682]: Commencement: [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/4) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
+[^c-32e6741cd51d9bd4d9d95d21d61bc682]: Commencement: [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/4) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
 
-[^key-529ff7d3716e3d5c10201e07689f9006]: Commencement: [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/4) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
+[^c-529ff7d3716e3d5c10201e07689f9006]: Commencement: [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/4) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
 
-[^key-3691b4ebb3053a502b2fc6aecfc036d7]: Commencement: [Sch. 38 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/5) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
+[^c-3691b4ebb3053a502b2fc6aecfc036d7]: Commencement: [Sch. 38 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/5) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
 
-[^key-c6ab92d8169ec028def2d21f20c2d92c]: Commencement: [Sch. 38 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/5) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
+[^c-c6ab92d8169ec028def2d21f20c2d92c]: Commencement: [Sch. 38 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/5) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
 
-[^key-146cc89a0ccb7854e7d394e34cdb8b30]: Commencement: [Sch. 38 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/6) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
+[^c-146cc89a0ccb7854e7d394e34cdb8b30]: Commencement: [Sch. 38 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/6) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
 
-[^key-9f86c3335d4ce15d558a7b7df7d3a726]: Commencement: [Sch. 38 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/6) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
+[^c-9f86c3335d4ce15d558a7b7df7d3a726]: Commencement: [Sch. 38 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/6) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
 
-[^key-61175f3d80b2fdc40b915c3b29383e08]: Commencement: [Sch. 38 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/7) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
+[^c-61175f3d80b2fdc40b915c3b29383e08]: Commencement: [Sch. 38 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/7) in force at 1.11.2008 for the purposes of the amendments made by that paragraph (but not for the purposes of Stamp Duty Land Tax) by [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2))
 
-[^key-c8099cc786c72318aefc60ff75283f80]: Commencement: [Sch. 38 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/7) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
+[^c-c8099cc786c72318aefc60ff75283f80]: Commencement: [Sch. 38 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/7) in force at 1.4.2010 for the purposes of Stamp Duty Land Tax by [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)

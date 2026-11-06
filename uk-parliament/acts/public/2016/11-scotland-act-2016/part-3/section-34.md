@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Information-sharing[^key-557ef496b1a6534585f79a44eb9fbb77][^key-664219f639be1020673cbad179742046][^key-1f8f46029dbf71d78ed68574f3e6ee88]
+## 34. Information-sharing[^c-557ef496b1a6534585f79a44eb9fbb77][^c-664219f639be1020673cbad179742046][^c-1f8f46029dbf71d78ed68574f3e6ee88]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-557ef496b1a6534585f79a44eb9fbb77]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2016/11/section/34) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/k)
+[^c-557ef496b1a6534585f79a44eb9fbb77]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2016/11/section/34) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/k)
 
-[^key-664219f639be1020673cbad179742046]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2016/11/section/34) modified (28.6.2022) by [Social Security (Additional Payments) Act 2022 (c. 38)](https://www.legislation.gov.uk/ukpga/2022/38), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2022/38/section/7/4), [11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-664219f639be1020673cbad179742046]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2016/11/section/34) modified (28.6.2022) by [Social Security (Additional Payments) Act 2022 (c. 38)](https://www.legislation.gov.uk/ukpga/2022/38), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2022/38/section/7/4), [11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-1f8f46029dbf71d78ed68574f3e6ee88]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2016/11/section/34) modified (23.3.2023) by [Social Security (Additional Payments) Act 2023 (c. 7)](https://www.legislation.gov.uk/ukpga/2023/7), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2023/7/section/7/4), [12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+[^c-1f8f46029dbf71d78ed68574f3e6ee88]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2016/11/section/34) modified (23.3.2023) by [Social Security (Additional Payments) Act 2023 (c. 7)](https://www.legislation.gov.uk/ukpga/2023/7), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2023/7/section/7/4), [12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)

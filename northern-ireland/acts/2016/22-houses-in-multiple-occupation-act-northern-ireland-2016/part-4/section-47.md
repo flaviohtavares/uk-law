@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Requirement not to permit new residents[^key-6756e618c2c84af438a6285bbe989c3b]
+## 47. Requirement not to permit new residents[^c-6756e618c2c84af438a6285bbe989c3b]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6756e618c2c84af438a6285bbe989c3b]: Commencement: [S. 47](https://www.legislation.gov.uk/nia/2016/22/section/47) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-6756e618c2c84af438a6285bbe989c3b]: Commencement: [S. 47](https://www.legislation.gov.uk/nia/2016/22/section/47) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

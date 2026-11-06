@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Rules about applications for registration or renewal[^key-85c4f4e0f9f77857248a0e2b5cf8b912]
+## 88. Rules about applications for registration or renewal[^c-85c4f4e0f9f77857248a0e2b5cf8b912]
 
 *Extent: E+W*
 
@@ -41,10 +41,10 @@ summary: ''
 - (e) circumstances in which the registrar may determine that an application has not been successful on the grounds that the person who made the application has failed to provide information required by the registrar within a period specified by the registrar;
 - (f) circumstances in which a fee for registration and, if relevant, renewal will be charged and circumstances in which such a fee may be reduced or waived.
 
-(5)[^key-879eb245ad42db09517dc45c882a0f91] But the power to make rules under subsections (1) and (3)(a) is subject to the provision made by sections 85B and 88A in relation to applications for registration made by specified state applicants.
+(5)[^c-879eb245ad42db09517dc45c882a0f91] But the power to make rules under subsections (1) and (3)(a) is subject to the provision made by sections 85B and 88A in relation to applications for registration made by specified state applicants.
 
 ## Annotations
 
-[^key-85c4f4e0f9f77857248a0e2b5cf8b912]: Commencement: S. 88 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-85c4f4e0f9f77857248a0e2b5cf8b912]: Commencement: S. 88 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-879eb245ad42db09517dc45c882a0f91]: Textual amendment: S. 88(5) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [10](https://www.legislation.gov.uk/wsi/2026/24/regulation/10)
+[^c-879eb245ad42db09517dc45c882a0f91]: Textual amendment: S. 88(5) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [10](https://www.legislation.gov.uk/wsi/2026/24/regulation/10)

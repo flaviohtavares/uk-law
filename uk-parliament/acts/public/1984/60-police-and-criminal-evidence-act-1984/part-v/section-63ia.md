@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63IA. Retention of material: persons convicted of an offence outside England and Wales after taking of section 63D material[^key-81336b9774f486d2864c53ca3ce9746e]
+## 63IA. Retention of material: persons convicted of an offence outside England and Wales after taking of section 63D material[^c-81336b9774f486d2864c53ca3ce9746e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81336b9774f486d2864c53ca3ce9746e]: Textual amendment: S. 63IA inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 70(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/70/6), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/20) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/399/regulation/6))
+[^c-81336b9774f486d2864c53ca3ce9746e]: Textual amendment: S. 63IA inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 70(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/70/6), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/20) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/399/regulation/6))

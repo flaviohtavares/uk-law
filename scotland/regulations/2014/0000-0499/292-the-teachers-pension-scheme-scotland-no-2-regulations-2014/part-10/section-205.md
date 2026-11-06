@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 205. Payment of a club transfer value[^key-185cc72e4e67c40eac133c2acb676a05]
+## 205. Payment of a club transfer value[^c-185cc72e4e67c40eac133c2acb676a05]
 
 *Extent: S*
 
-(1) On receipt of the application, the scheme manager must[^key-e457b43742ce9e7a8ad8248f81f07824] pay a club transfer value in respect of P.
+(1) On receipt of the application, the scheme manager must[^c-e457b43742ce9e7a8ad8248f81f07824] pay a club transfer value in respect of P.
 
 (2) A transfer value payment in respect of any pension credit rights or pension credit benefits must not be made under this regulation.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-185cc72e4e67c40eac133c2acb676a05]: Commencement: [Reg. 205](https://www.legislation.gov.uk/ssi/2014/292/regulation/205) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-185cc72e4e67c40eac133c2acb676a05]: Commencement: [Reg. 205](https://www.legislation.gov.uk/ssi/2014/292/regulation/205) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-e457b43742ce9e7a8ad8248f81f07824]: Textual amendment: Word in [reg. 205(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/205/1) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [24](https://www.legislation.gov.uk/ssi/2015/97/regulation/24)
+[^c-e457b43742ce9e7a8ad8248f81f07824]: Textual amendment: Word in [reg. 205(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/205/1) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [24](https://www.legislation.gov.uk/ssi/2015/97/regulation/24)

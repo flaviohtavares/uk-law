@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8S. Independence of storage facilities and duty to allow others to use them: exemptions for minor facilities[^key-e750790928227f2c3eda546028b0bbde]
+## 8S. Independence of storage facilities and duty to allow others to use them: exemptions for minor facilities[^c-e750790928227f2c3eda546028b0bbde]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e750790928227f2c3eda546028b0bbde]: Textual amendment: Ss. 8R, 8S and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2704/regulation/6)
+[^c-e750790928227f2c3eda546028b0bbde]: Textual amendment: Ss. 8R, 8S and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2704/regulation/6)

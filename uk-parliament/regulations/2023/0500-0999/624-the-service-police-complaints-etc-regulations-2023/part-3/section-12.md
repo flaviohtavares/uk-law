@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Initial handling and recording of complaints[^key-26237b7df6db4d813c7f2be52499e1bd]
+## 12. Initial handling and recording of complaints[^c-26237b7df6db4d813c7f2be52499e1bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ the appropriate authority must contact the complainant and seek the complainantâ
 
 ## Annotations
 
-[^key-26237b7df6db4d813c7f2be52499e1bd]: Commencement: Reg. 12 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-26237b7df6db4d813c7f2be52499e1bd]: Commencement: Reg. 12 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

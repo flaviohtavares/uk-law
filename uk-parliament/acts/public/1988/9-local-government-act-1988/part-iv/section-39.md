@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Control of stray dogs.[^key-1e874f7b080c21dd70f3d82c7b9b4ec4]
+## 39. Control of stray dogs.[^c-1e874f7b080c21dd70f3d82c7b9b4ec4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e874f7b080c21dd70f3d82c7b9b4ec4]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/1988/9/section/39) repealed (6.4.2008) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/3), [Sch. 5 Pt. 6](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/6); [S.I. 2008/956](https://www.legislation.gov.uk/uksi/2008/956), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/956/article/2/b)
+[^c-1e874f7b080c21dd70f3d82c7b9b4ec4]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/1988/9/section/39) repealed (6.4.2008) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/3), [Sch. 5 Pt. 6](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/6); [S.I. 2008/956](https://www.legislation.gov.uk/uksi/2008/956), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/956/article/2/b)

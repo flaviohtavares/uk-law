@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Authority to dispose of property[^key-85536c47d32127542e01dc5b88974e94]
+## 34. Authority to dispose of property[^c-85536c47d32127542e01dc5b88974e94]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85536c47d32127542e01dc5b88974e94]: Commencement: Rule 34 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-85536c47d32127542e01dc5b88974e94]: Commencement: Rule 34 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

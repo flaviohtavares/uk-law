@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29G. Effective exercise of core functions[^key-2c1b4a377ddc789286657de40662c0a6]
+## 29G. Effective exercise of core functions[^c-2c1b4a377ddc789286657de40662c0a6]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ For the purposes of sections 29C(5) and 29F(1), Scottish Water is to be taken to
 
 ## Annotations
 
-[^key-2c1b4a377ddc789286657de40662c0a6]: Textual amendment: Ss. 29-29G substituted for s. 29 (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(1)](https://www.legislation.gov.uk/asp/2005/3/section/21/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-2c1b4a377ddc789286657de40662c0a6]: Textual amendment: Ss. 29-29G substituted for s. 29 (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(1)](https://www.legislation.gov.uk/asp/2005/3/section/21/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

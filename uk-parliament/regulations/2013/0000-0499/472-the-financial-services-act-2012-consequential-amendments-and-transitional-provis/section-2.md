@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Revocations[^key-faecec3bb66ebb6eeb37c54b1dd84ddf]
+## 2. Revocations[^c-faecec3bb66ebb6eeb37c54b1dd84ddf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The subordinate legislation specified in the first column of the table in Schedu
 
 ## Annotations
 
-[^key-faecec3bb66ebb6eeb37c54b1dd84ddf]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-faecec3bb66ebb6eeb37c54b1dd84ddf]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)

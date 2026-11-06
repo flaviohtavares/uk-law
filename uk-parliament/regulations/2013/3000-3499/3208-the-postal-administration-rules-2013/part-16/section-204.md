@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 204. “Authorised deposit-taker and former authorised deposit-taker”[^key-3071c3bd7c51f257547ad159b3acb847]
+## 204. “Authorised deposit-taker and former authorised deposit-taker”[^c-3071c3bd7c51f257547ad159b3acb847]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3071c3bd7c51f257547ad159b3acb847]: Commencement: [Rule 204](https://www.legislation.gov.uk/uksi/2013/3208/rule/204) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-3071c3bd7c51f257547ad159b3acb847]: Commencement: [Rule 204](https://www.legislation.gov.uk/uksi/2013/3208/rule/204) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00019]: Footnote: Part 4A of the Financial Services and Markets Act 2000 was substituted for Part 4 of that Act by section 11(2) of the Financial Services Act [2012 c. 21](https://www.legislation.gov.uk/ukpga/2012/21).
 

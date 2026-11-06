@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Immobilisation of vehicles illegally parked[^key-f34de0da11b6e97a41fa8798092bd353]
+## 24. Immobilisation of vehicles illegally parked[^c-f34de0da11b6e97a41fa8798092bd353]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f34de0da11b6e97a41fa8798092bd353]: Commencement: Art. 24 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-f34de0da11b6e97a41fa8798092bd353]: Commencement: Art. 24 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
 
 [^f00012]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).

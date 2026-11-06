@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Dispositions depending on date of birth[^key-93d3bf9a9f8d6dede1950ce81fba5625]
+## 70. Dispositions depending on date of birth[^c-93d3bf9a9f8d6dede1950ce81fba5625]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93d3bf9a9f8d6dede1950ce81fba5625]: Commencement: S. 70 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-93d3bf9a9f8d6dede1950ce81fba5625]: Commencement: S. 70 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

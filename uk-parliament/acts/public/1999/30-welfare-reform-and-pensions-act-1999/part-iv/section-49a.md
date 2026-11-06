@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Creation of debits and credits: transferor in new state pension system and sharing activated on or after 6 April 2016[^key-cf1b600df9a634669df00df4cafea924]
+## 49A. Creation of debits and credits: transferor in new state pension system and sharing activated on or after 6 April 2016[^c-cf1b600df9a634669df00df4cafea924]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf1b600df9a634669df00df4cafea924]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1999/30/section/49A) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/13)
+[^c-cf1b600df9a634669df00df4cafea924]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1999/30/section/49A) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/13)

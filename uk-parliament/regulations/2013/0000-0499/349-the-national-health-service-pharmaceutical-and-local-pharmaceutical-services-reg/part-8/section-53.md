@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Once NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] has determined an application for outline consent or premises approval, as soon as is practicable, it must give notice of that decision to—
+(1) Once NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] has determined an application for outline consent or premises approval, as soon as is practicable, it must give notice of that decision to—
 
 - (a) the applicant; and
-- (b) any person notified by it under regulation 52(1) to (3) in relation to the application , or any person who would have been so notified but for regulation 52(12)[^key-7c6ed2fa11e79ed5dd34c343d102f874].
+- (b) any person notified by it under regulation 52(1) to (3) in relation to the application , or any person who would have been so notified but for regulation 52(12)[^c-7c6ed2fa11e79ed5dd34c343d102f874].
 
 (2) Each notification under paragraph (1) must include a statement of the reasons for the decision and, if the person notified is a person with rights of appeal in relation to the decision under regulation 63(1)(c) or (d), an explanation of how those rights may be exercised.
 
@@ -44,11 +44,11 @@ summary: ''
   - (i) for inclusion in a pharmaceutical list (not necessarily that of the relevant HWB), or
   - (ii) from a person included in a pharmaceutical list—
     - (aa) to relocate to different premises in the area of the relevant HWB, or
-    - (bb) to open, within the area of that HWB, additional premises at or[^key-1a4543200ef4b5da1c49233778f7940b] from which to provide pharmaceutical services,
+    - (bb) to open, within the area of that HWB, additional premises at or[^c-1a4543200ef4b5da1c49233778f7940b] from which to provide pharmaceutical services,
 
   where the applicant is seeking the listing of pharmacy premises other than distance selling premises; or
 - (b) circumstances where an application of the type mentioned in paragraph (a) has been granted, and—
-  - (i) the provision of pharmaceutical services at or[^key-cc29e831d003f48f3799b446c79149d9] from the premises for which listing was sought has not yet commenced, and
+  - (i) the provision of pharmaceutical services at or[^c-cc29e831d003f48f3799b446c79149d9] from the premises for which listing was sought has not yet commenced, and
   - (ii) the grant has not yet lapsed.
 
 (8) In a case where outline consent is not to take effect on the date on which it is granted, NHS England must give the dispensing doctor to whom outline consent was granted (D) written details of—
@@ -63,7 +63,7 @@ summary: ''
 
 (10) NHS England may at any time before the provisional date determine that the provisional date be changed to a later date, but only to a date which is not more than 3 months after the date originally determined in accordance with paragraph (8).
 
-(11) Outline consent lapses if, before the provisional date, pharmaceutical services are provided at or from[^key-cd3b2d950d957aaba069b0ef90905931] the pharmacy premises to which the outstanding pharmacy application relates.
+(11) Outline consent lapses if, before the provisional date, pharmaceutical services are provided at or from[^c-cd3b2d950d957aaba069b0ef90905931] the pharmacy premises to which the outstanding pharmacy application relates.
 
 (12) On or as soon as is reasonably practicable after the provisional date, NHS England must notify D that D may within 3 months of the provisional date request in writing that NHS England determine whether the outline consent is to come into effect.
 
@@ -71,7 +71,7 @@ summary: ''
 
 - (a) unless paragraph (b) applies, that the outline consent is to come into immediate effect; or
 - (b) that the outline consent has lapsed—
-  - (i) where on the date of the determination (which must be a day from Monday to Friday, except Good Friday, Christmas Day or a bank holiday) primary medical services are not being provided at or from[^key-501b9baf67cbcd62086d36384b51a12f] the relevant practice premises, or
+  - (i) where on the date of the determination (which must be a day from Monday to Friday, except Good Friday, Christmas Day or a bank holiday) primary medical services are not being provided at or from[^c-501b9baf67cbcd62086d36384b51a12f] the relevant practice premises, or
   - (ii) by virtue of paragraph (11),
 
 and it must inform D accordingly.
@@ -83,14 +83,14 @@ and it must inform D accordingly.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-7c6ed2fa11e79ed5dd34c343d102f874]: Textual amendment: Words in reg. 53(1)(b) inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/5/2)
+[^c-7c6ed2fa11e79ed5dd34c343d102f874]: Textual amendment: Words in reg. 53(1)(b) inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/5/2)
 
-[^key-1a4543200ef4b5da1c49233778f7940b]: Textual amendment: Words in reg. 53(7)(a)(ii)(bb) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/2/a)
+[^c-1a4543200ef4b5da1c49233778f7940b]: Textual amendment: Words in reg. 53(7)(a)(ii)(bb) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/2/a)
 
-[^key-cc29e831d003f48f3799b446c79149d9]: Textual amendment: Words in reg. 53(7)(b)(i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/2/b)
+[^c-cc29e831d003f48f3799b446c79149d9]: Textual amendment: Words in reg. 53(7)(b)(i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/2/b)
 
-[^key-cd3b2d950d957aaba069b0ef90905931]: Textual amendment: Words in reg. 53(11) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/3)
+[^c-cd3b2d950d957aaba069b0ef90905931]: Textual amendment: Words in reg. 53(11) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/3)
 
-[^key-501b9baf67cbcd62086d36384b51a12f]: Textual amendment: Words in reg. 53(13)(b)(i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/4)
+[^c-501b9baf67cbcd62086d36384b51a12f]: Textual amendment: Words in reg. 53(13)(b)(i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2025/989/regulation/33/4)

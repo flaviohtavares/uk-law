@@ -45,8 +45,8 @@ summary: ''
   - (i) section 34(3) and (4),
   - (ii) paragraphs 10 to 16 and 18 of Schedule 3, and
   - (iii) section 36 so far as relating to those paragraphs,
-- (b)[^key-50a9644422b8c3629f4b084120d35228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-86a7d682df2186d692c971488162cf84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-50a9644422b8c3629f4b084120d35228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-86a7d682df2186d692c971488162cf84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The following provisions, so far as not brought into force by subsection (1)(b) or (c), come into force on such day as DAERA may by regulations made by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 appoint—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50a9644422b8c3629f4b084120d35228]: Textual amendment: S. 57(3)(b) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/8); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-50a9644422b8c3629f4b084120d35228]: Textual amendment: S. 57(3)(b) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/8); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
 
-[^key-86a7d682df2186d692c971488162cf84]: Textual amendment: S. 57(3)(c) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/8); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-86a7d682df2186d692c971488162cf84]: Textual amendment: S. 57(3)(c) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/8); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Duty of pub-owning business where tenant intends to assign the tenancy[^key-0220641641ac9fdcca985f376d4b9d4a]
+## 12. Duty of pub-owning business where tenant intends to assign the tenancy[^c-0220641641ac9fdcca985f376d4b9d4a]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0220641641ac9fdcca985f376d4b9d4a]: Commencement: Reg. 12 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-0220641641ac9fdcca985f376d4b9d4a]: Commencement: Reg. 12 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00013]: Footnote: Section 43(2) of SBEEA 2015 defines “market rent only option”.

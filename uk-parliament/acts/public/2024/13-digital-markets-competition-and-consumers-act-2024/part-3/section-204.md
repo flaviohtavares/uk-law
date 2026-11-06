@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Determination of turnover[^key-d3b8f97aaf5002313990024b76066e68][^key-cf0d085c2c53333234ccfcadbfb61ba5]
+## 204. Determination of turnover[^c-d3b8f97aaf5002313990024b76066e68][^c-cf0d085c2c53333234ccfcadbfb61ba5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b8f97aaf5002313990024b76066e68]: Commencement: S. 204 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-d3b8f97aaf5002313990024b76066e68]: Commencement: S. 204 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-cf0d085c2c53333234ccfcadbfb61ba5]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2024/13/section/204) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-cf0d085c2c53333234ccfcadbfb61ba5]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2024/13/section/204) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

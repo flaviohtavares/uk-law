@@ -64,13 +64,13 @@ In accordance with paragraph 19(1) of that Schedule[^f00010], Ministers have co
 
 In accordance with paragraph 19(2) of that Schedule[^f00011], Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the Order.
 
-## 1. Citation and commencement[^key-8d22267ddab4ed261e5fb40c6640ae6c]
+## 1. Citation and commencement[^c-8d22267ddab4ed261e5fb40c6640ae6c]
 
 (1) This Order may be cited as the Caledonian Maritime Assets (Kennacraig) Harbour Revision Order 2011 and comes into force on the day after the day on which it is made.
 
 (2) The Caledonian MacBrayne Limited (Kennacraig) Harbour Empowerment Order 2005[^f00012] and this Order may be cited together as the Kennacraig Orders 2005 to 2011.
 
-## 2. Interpretation[^key-90269946738e111ce2932ded1f4769c8]
+## 2. Interpretation[^c-90269946738e111ce2932ded1f4769c8]
 
 (1) In this Order—
 
@@ -88,7 +88,7 @@ In accordance with paragraph 19(2) of that Schedule[^f00011], Ministers have de
 
 (3) Any reference in this Order to a work identified by the number of such work shall be construed as a reference to the work of that number authorised by this Order.
 
-## 3. Power to construct works[^key-c7c132f441c6be2b3c149ba1225dd097]
+## 3. Power to construct works[^c-c7c132f441c6be2b3c149ba1225dd097]
 
 (1) CMAL may in the lines and situations and upon the lands delineated on the deposited plans, sections and elevations and within the limits of deviation and according to the levels shown on the deposited plans, sections and elevations, construct and maintain the following works—
 
@@ -105,21 +105,21 @@ In accordance with paragraph 19(2) of that Schedule[^f00011], Ministers have de
 
 (3) CMAL may, within the limits of deviation, reconstruct, extend, enlarge, replace or relay the works authorised by paragraph (1) and may maintain and operate those works as reconstructed, extended, enlarged, replaced or relaid.
 
-## 4. Power to deviate[^key-fecf50b0aaccdf86351d7d901e1d41ee]
+## 4. Power to deviate[^c-fecf50b0aaccdf86351d7d901e1d41ee]
 
 In carrying out the works authorised by article 3 (power to construct works) CMAL may deviate laterally from the lines or situations as shown on the deposited plans, sections and elevations to any extent not exceeding the limits of deviation and may deviate vertically from the levels of the works as shown on the deposited plans, sections and elevations to any extent not exceeding 3 metres upwards and to such extent downwards as may be found necessary or convenient.
 
-## 5. Subsidiary works[^key-a01a7e00da75e6181ea8017bd3f9811f]
+## 5. Subsidiary works[^c-a01a7e00da75e6181ea8017bd3f9811f]
 
 CMAL may from time to time within the limits of deviation construct, maintain and operate, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes, or in connection with or in consequence, of the construction, maintenance or use of the works; including works for the accommodation or convenience of vessels or for the loading and unloading of goods and the embarking and landing of passengers.
 
-## 6. Power to dredge[^key-eb4f5045be3e4365a98982d69457cd77]
+## 6. Power to dredge[^c-eb4f5045be3e4365a98982d69457cd77]
 
 (1) CMAL may, for the purposes of constructing and maintaining the works and of affording access to the harbour by vessels from time to time deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the sea as lie within the harbour limits and within the approaches and the channels leading to those limits and may use, appropriate or dispose of the materials (other than wreck within the meaning of section 255 of the Merchant Shipping Act 1995 (interpretation) [^f00013]), from time to time dredged by it.
 
 (2) No such materials shall be laid down or deposited in any place below the level of high water otherwise than in such position and under such conditions and restrictions as may be approved or prescribed by the Scottish Ministers.
 
-## 7. Obstruction of works[^key-a916636a09cbcf9e5530e2033815718f]
+## 7. Obstruction of works[^c-a916636a09cbcf9e5530e2033815718f]
 
 Any person who—
 
@@ -128,7 +128,7 @@ Any person who—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 8. Tidal works not to be executed without approval of the Scottish Ministers[^key-46542952d9102a10577550e6cc12802e]
+## 8. Tidal works not to be executed without approval of the Scottish Ministers[^c-46542952d9102a10577550e6cc12802e]
 
 (1) A tidal work shall not be demolished, constructed, renewed, reconstructed or altered except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun or while work is still in progress.
 
@@ -143,17 +143,17 @@ and any expenditure incurred by the Scottish Ministers in so doing shall be reco
 
 (4) Subject to paragraph (3), the works referred to in paragraph (1) shall be deemed to be “harbour works” within the meaning, and for the purposes of the Marine Works (Environmental Impact Assessment) Regulations 2007[^f00014].
 
-## 9. Survey of tidal works[^key-54aa9dd99117375149ecfd4524df49fc]
+## 9. Survey of tidal works[^c-54aa9dd99117375149ecfd4524df49fc]
 
 The Scottish Ministers may at any time if they deem it expedient order a survey and examination of a tidal work or a site upon which it is proposed to construct the work and any expense incurred by them in such a survey and examination shall be recoverable from CMAL as a debt.
 
-## 10. Provision against danger to navigation[^key-6728c6e8ba9974b256170aeed71f5017]
+## 10. Provision against danger to navigation[^c-6728c6e8ba9974b256170aeed71f5017]
 
 (1) In the case of injury to or destruction or decay of a tidal work or any part of it, CMAL shall as soon as reasonably practicable notify the Commissioners of Northern Lighthouses and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If CMAL fails to comply in any respect with the provisions of this article, it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-## 11. Abatement of works abandoned or decayed[^key-1c681f0a09bc5c82dfb26a320d7fb438]
+## 11. Abatement of works abandoned or decayed[^c-1c681f0a09bc5c82dfb26a320d7fb438]
 
 (1) Where a tidal work is abandoned or has fallen into decay the Scottish Ministers may by notice in writing require CMAL at its own expense either to repair and restore the work or any part of it, or to remove the work and restore the site of the tidal work to its former condition, to such an extent and within such limits as the Scottish Ministers think proper.
 
@@ -161,19 +161,19 @@ The Scottish Ministers may at any time if they deem it expedient order a survey 
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon CMAL it has failed to comply with the requirements of the notice, the Scottish Ministers may execute the works specified in the notice and any expenditure incurred by them in so doing shall be recoverable from CMAL as a debt.
 
-## 12. Lights on tidal works during construction[^key-c97fcaab110b17bd15341e817263c63e]
+## 12. Lights on tidal works during construction[^c-c97fcaab110b17bd15341e817263c63e]
 
 (1) During the whole time of the demolition, construction, renewal, reconstruction or alteration of a tidal work CMAL shall at the outer extremity of that work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If CMAL fails to comply in any respect with a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-## 13. Permanent lights on tidal works[^key-5506f08501ec8f2a0367e29b5fd40e6c]
+## 13. Permanent lights on tidal works[^c-5506f08501ec8f2a0367e29b5fd40e6c]
 
 (1) After completion of a tidal work CMAL shall at the outer extremity of that work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If CMAL fails to comply in any respect with a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-## 14. Period for completion of works[^key-a14a29be9855ac41c71f3c6bf4427973]
+## 14. Period for completion of works[^c-a14a29be9855ac41c71f3c6bf4427973]
 
 (1) If the works authorised by paragraphs (1) and (2) of article 3 (power to construct works) are not completed within five years from the date of the coming into force of this Order or such extended time as the Scottish Ministers may on the application of CMAL allow by consent given in writing, then on the expiration of that period or such extended time (as the case may be) the powers by this Order granted to CMAL for making and maintaining those works shall cease except as to so much of those works as is then substantially commenced.
 
@@ -185,14 +185,14 @@ The Scottish Ministers may at any time if they deem it expedient order a survey 
 
 (5) The works shall be deemed to have been substantially commenced for the purposes of paragraph (1) where so much of Work No. 1 has been constructed as will enable other works to be constructed, maintained and managed together with that part of Work No. 1 for the efficient and economic transport of goods or passengers by sea.
 
-## 15. Operational land and land within area of Argyll and Bute Council[^key-6b325ed5fc4eca45312f247ee5b8066d]
+## 15. Operational land and land within area of Argyll and Bute Council[^c-6b325ed5fc4eca45312f247ee5b8066d]
 
 The land situated within the harbour limits shall—
 
 - (a) to the extent that it is not already operational land, be deemed to be operational land within the meaning and for the purposes of the Town and Country Planning (Scotland) Act 1997[^f00015]; and
 - (b) to the extent that it lies outwith the area of the Argyll and Bute Council, be deemed to be part of that area.
 
-## 16. Harbour limits[^key-56f887015f8c1b02b66de915f60636fe]
+## 16. Harbour limits[^c-56f887015f8c1b02b66de915f60636fe]
 
 (1) The harbour limits within which CMAL shall exercise jurisdiction as the harbour authority and within which the powers of the harbour master shall be exercisable shall be the area bounded by an imaginary straight line commencing at a point at 181953E, 662747N, then extending in an imaginary straight line in a north-westerly direction to a point at 181678E, 663164N, then extending in an imaginary straight line in a south-westerly direction to a point at 181230E, 662626N, then extending in an imaginary straight line in a south-easterly direction to a point at 181495E, 662199N, then following the level of high water to a point at 182130E, 662396N, then extending in an imaginary straight line to a point at 182145E, 662448N, then continuing and following the level of high water to a point at 182082E, 662735N then extending in an imaginary straight line in a westerly direction to the point of commencement.
 
@@ -200,7 +200,7 @@ The land situated within the harbour limits shall—
 
 (3) The reference points specified in paragraph (1) of this article shall be construed as a reference to Ordnance Survey National Grid reference points and all directions specified in that paragraph shall be construed as if the words “or thereby” were inserted after each such direction.
 
-## 17. Moorings[^key-c7fb532753b6f36349303d1437d7c00d]
+## 17. Moorings[^c-c7fb532753b6f36349303d1437d7c00d]
 
 (1) CMAL may provide, place, lay down, maintain, renew, use or remove such moorings, buoys and similar apparatus within the harbour as it considers necessary or desirable for the convenience of vessels.
 
@@ -212,11 +212,11 @@ The land situated within the harbour limits shall—
 
 (5) CMAL may charge a reasonable fee for the grant of a licence under this article.
 
-## 18. Lighting requirements for harbour[^key-5913f5f84754ead852e2598bf6a77a9a]
+## 18. Lighting requirements for harbour[^c-5913f5f84754ead852e2598bf6a77a9a]
 
 Subject to CMAL complying with any statutory requirements as to health and safety for the time being applicable to its functions as the harbour authority for the harbour, CMAL shall as soon as reasonably practicable install and maintain in the harbour a lighting system which shall be designed to minimise so far as reasonably practicable light pollution occurring outwith the harbour limits and affecting the owners or occupiers of properties situated in the vicinity of the harbour.
 
-## 19. Defence of due diligence[^key-95442afa444e68e46cfe77c7b70cacea]
+## 19. Defence of due diligence[^c-95442afa444e68e46cfe77c7b70cacea]
 
 (1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for CMAL to prove that it took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
 
@@ -228,27 +228,27 @@ Subject to CMAL complying with any statutory requirements as to health and safet
 
 (3) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, CMAL shall not, without leave of the court, be entitled to rely on that defence unless, within a period of 7 clear days before the hearing, it has served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in its possession.
 
-## 20. Saving for Commissioners of Northern Lighthouses[^key-e6cad13c2b9d6e3d9cc6cdddf38cd29b]
+## 20. Saving for Commissioners of Northern Lighthouses[^c-e6cad13c2b9d6e3d9cc6cdddf38cd29b]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
-## 21. Saving for other consents etc.[^key-a7a552a7d1981bff1864354c4f536dd6]
+## 21. Saving for other consents etc.[^c-a7a552a7d1981bff1864354c4f536dd6]
 
 The carrying out of any works or operations pursuant to this Order is subject to CMAL obtaining any consent, permission or licence required under any other enactment.
 
-## 22. Crown rights[^key-35ccb2c458c218bc28519c1820d1bc84]
+## 22. Crown rights[^c-35ccb2c458c218bc28519c1820d1bc84]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality, nothing in this Order authorises CMAL or any licensee to take, use, enter upon or in any manner interfere with any land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
 - (a) belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, without the consent in writing of the Crown Estate Commissioners; or
-- (b) belonging to Her Majesty in right of the Crown and not forming part of the Crown Estate, without the consent in writing of the government department having the management of that land or (as the case may be) the relevant person[^key-9696ecc3881d3e42e61eea1bfab01b9e]; or
+- (b) belonging to Her Majesty in right of the Crown and not forming part of the Crown Estate, without the consent in writing of the government department having the management of that land or (as the case may be) the relevant person[^c-9696ecc3881d3e42e61eea1bfab01b9e]; or
 - (c) belonging to a government department or held in trust for Her Majesty for the purposes of a government department without the consent in writing of that government department.
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions and shall be deemed to have been given in writing where it is sent electronically.
 
-(3) In this article, “government department” includes any part of, or any member of the staff of, the Scottish Administration which shall have the same meaning as in section 126(6) of the Scotland Act 1998[^f00016] and “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests[^key-fee688610c20124135b8ec5090b303f3].
+(3) In this article, “government department” includes any part of, or any member of the staff of, the Scottish Administration which shall have the same meaning as in section 126(6) of the Scotland Act 1998[^f00016] and “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests[^c-fee688610c20124135b8ec5090b303f3].
 
-## 23. Revocations[^key-db0dfc2dd2b14d592047430cc998515c]
+## 23. Revocations[^c-db0dfc2dd2b14d592047430cc998515c]
 
 The following provisions of the Caledonian MacBrayne Limited (Kennacraig) Harbour Empowerment Order 2005[^f00017] are revoked, namely the definitions of “the deposited plan” and “the harbour map” in article 2, and articles 4, 7 to 11 and 16 to 19.
 
@@ -314,64 +314,64 @@ Article 23 revokes certain provisions of the Caledonian McBrayne Limited (Kennac
 
 [^f00011]: Footnote: Paragraph 19(2) of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
 
-[^key-8d22267ddab4ed261e5fb40c6640ae6c]: Commencement: Art. 1 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-8d22267ddab4ed261e5fb40c6640ae6c]: Commencement: Art. 1 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
 [^f00012]: Footnote: [S.S.I. 2005/353](https://www.legislation.gov.uk/ssi/2005/353).
 
-[^key-90269946738e111ce2932ded1f4769c8]: Commencement: Art. 2 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-90269946738e111ce2932ded1f4769c8]: Commencement: Art. 2 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-c7c132f441c6be2b3c149ba1225dd097]: Commencement: Art. 3 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-c7c132f441c6be2b3c149ba1225dd097]: Commencement: Art. 3 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-fecf50b0aaccdf86351d7d901e1d41ee]: Commencement: Art. 4 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-fecf50b0aaccdf86351d7d901e1d41ee]: Commencement: Art. 4 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-a01a7e00da75e6181ea8017bd3f9811f]: Commencement: Art. 5 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-a01a7e00da75e6181ea8017bd3f9811f]: Commencement: Art. 5 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-eb4f5045be3e4365a98982d69457cd77]: Commencement: Art. 6 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-eb4f5045be3e4365a98982d69457cd77]: Commencement: Art. 6 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
 [^f00013]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-a916636a09cbcf9e5530e2033815718f]: Commencement: Art. 7 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-a916636a09cbcf9e5530e2033815718f]: Commencement: Art. 7 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-46542952d9102a10577550e6cc12802e]: Commencement: Art. 8 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-46542952d9102a10577550e6cc12802e]: Commencement: Art. 8 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
 [^f00014]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518); “harbour works” is defined in regulation 2(1).
 
-[^key-54aa9dd99117375149ecfd4524df49fc]: Commencement: Art. 9 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-54aa9dd99117375149ecfd4524df49fc]: Commencement: Art. 9 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-6728c6e8ba9974b256170aeed71f5017]: Commencement: Art. 10 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-6728c6e8ba9974b256170aeed71f5017]: Commencement: Art. 10 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-1c681f0a09bc5c82dfb26a320d7fb438]: Commencement: Art. 11 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-1c681f0a09bc5c82dfb26a320d7fb438]: Commencement: Art. 11 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-c97fcaab110b17bd15341e817263c63e]: Commencement: Art. 12 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-c97fcaab110b17bd15341e817263c63e]: Commencement: Art. 12 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-5506f08501ec8f2a0367e29b5fd40e6c]: Commencement: Art. 13 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-5506f08501ec8f2a0367e29b5fd40e6c]: Commencement: Art. 13 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-a14a29be9855ac41c71f3c6bf4427973]: Commencement: Art. 14 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-a14a29be9855ac41c71f3c6bf4427973]: Commencement: Art. 14 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-6b325ed5fc4eca45312f247ee5b8066d]: Commencement: Art. 15 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-6b325ed5fc4eca45312f247ee5b8066d]: Commencement: Art. 15 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
 [^f00015]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8); “operational land” is defined in section 215, to which there are amendments not relevant to this Order, which section is subject to section 216.
 
-[^key-56f887015f8c1b02b66de915f60636fe]: Commencement: Art. 16 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-56f887015f8c1b02b66de915f60636fe]: Commencement: Art. 16 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-c7fb532753b6f36349303d1437d7c00d]: Commencement: Art. 17 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-c7fb532753b6f36349303d1437d7c00d]: Commencement: Art. 17 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-5913f5f84754ead852e2598bf6a77a9a]: Commencement: Art. 18 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-5913f5f84754ead852e2598bf6a77a9a]: Commencement: Art. 18 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-95442afa444e68e46cfe77c7b70cacea]: Commencement: Art. 19 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-95442afa444e68e46cfe77c7b70cacea]: Commencement: Art. 19 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-e6cad13c2b9d6e3d9cc6cdddf38cd29b]: Commencement: Art. 20 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-e6cad13c2b9d6e3d9cc6cdddf38cd29b]: Commencement: Art. 20 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-a7a552a7d1981bff1864354c4f536dd6]: Commencement: Art. 21 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-a7a552a7d1981bff1864354c4f536dd6]: Commencement: Art. 21 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-35ccb2c458c218bc28519c1820d1bc84]: Commencement: Art. 22 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-35ccb2c458c218bc28519c1820d1bc84]: Commencement: Art. 22 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
-[^key-9696ecc3881d3e42e61eea1bfab01b9e]: Textual amendment: Words in [art. 22(1)(b)](https://www.legislation.gov.uk/ssi/2011/347/article/22/1/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 120(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/120/a)
+[^c-9696ecc3881d3e42e61eea1bfab01b9e]: Textual amendment: Words in [art. 22(1)(b)](https://www.legislation.gov.uk/ssi/2011/347/article/22/1/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 120(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/120/a)
 
 [^f00016]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-fee688610c20124135b8ec5090b303f3]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/ssi/2011/347/article/22/3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 120(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/120/b)
+[^c-fee688610c20124135b8ec5090b303f3]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/ssi/2011/347/article/22/3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 120(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/120/b)
 
-[^key-db0dfc2dd2b14d592047430cc998515c]: Commencement: Art. 23 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
+[^c-db0dfc2dd2b14d592047430cc998515c]: Commencement: Art. 23 in force at 27.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/347/article/1/1)
 
 [^f00017]: Footnote: [S.S.I. 2005/353](https://www.legislation.gov.uk/ssi/2005/353).

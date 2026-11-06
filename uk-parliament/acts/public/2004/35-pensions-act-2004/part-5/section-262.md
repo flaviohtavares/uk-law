@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Modification of subsisting rights[^key-445947dd67d0a441ebd19031151f7cbb]
+## 262. Modification of subsisting rights[^c-445947dd67d0a441ebd19031151f7cbb]
 
 *Extent: E+W+S*
 
@@ -364,4 +364,4 @@ For section 67 of the Pensions Act 1995 (c. 26) substitute—
 
 ## Annotations
 
-[^key-445947dd67d0a441ebd19031151f7cbb]: Commencement: [S. 262](https://www.legislation.gov.uk/ukpga/2004/35/section/262) in force at 6.4.2006 in so far as not already in force by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)
+[^c-445947dd67d0a441ebd19031151f7cbb]: Commencement: [S. 262](https://www.legislation.gov.uk/ukpga/2004/35/section/262) in force at 6.4.2006 in so far as not already in force by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)

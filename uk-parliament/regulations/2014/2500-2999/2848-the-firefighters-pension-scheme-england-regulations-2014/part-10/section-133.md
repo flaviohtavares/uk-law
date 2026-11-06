@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Transfer payments made to other schemes or pension arrangements[^key-b3102c77eabea72f509dccee78f83f19]
+## 133. Transfer payments made to other schemes or pension arrangements[^c-b3102c77eabea72f509dccee78f83f19]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3102c77eabea72f509dccee78f83f19]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2014/2848/regulation/133) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b3102c77eabea72f509dccee78f83f19]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2014/2848/regulation/133) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

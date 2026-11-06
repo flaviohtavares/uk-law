@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.4. Case management in the magistrates’ court and duty of court officer[^key-defb6b8730694df5e33c1089931a92e5]
+## 50.4. Case management in the magistrates’ court and duty of court officer[^c-defb6b8730694df5e33c1089931a92e5]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-defb6b8730694df5e33c1089931a92e5]: Commencement: [Rule 50.4](https://www.legislation.gov.uk/uksi/2025/909/rule/50.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-defb6b8730694df5e33c1089931a92e5]: Commencement: [Rule 50.4](https://www.legislation.gov.uk/uksi/2025/909/rule/50.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01333]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 21B was inserted by section 159 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Temporary use of land for maintaining the authorised development[^key-d4ef61c6163b4a6817e0992e4928834e]
+## 27. Temporary use of land for maintaining the authorised development[^c-d4ef61c6163b4a6817e0992e4928834e]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4ef61c6163b4a6817e0992e4928834e]: Commencement: Art. 27 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-d4ef61c6163b4a6817e0992e4928834e]: Commencement: Art. 27 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

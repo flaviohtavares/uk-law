@@ -34,28 +34,28 @@ of 14 August 2012
 
 on the protection of certain stocks in the Celtic Sea (revoked)
 
-[^key-fe656fd8c1b8e1f1111ae01d11db21b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe656fd8c1b8e1f1111ae01d11db21b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-fe656fd8c1b8e1f1111ae01d11db21b6]
+## Article 1. Scope[^c-fe656fd8c1b8e1f1111ae01d11db21b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Technical measures[^key-fe656fd8c1b8e1f1111ae01d11db21b6]
+## Article 2. Technical measures[^c-fe656fd8c1b8e1f1111ae01d11db21b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Onboard observer programme[^key-fe656fd8c1b8e1f1111ae01d11db21b6]
+## Article 3. Onboard observer programme[^c-fe656fd8c1b8e1f1111ae01d11db21b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force and application[^key-fe656fd8c1b8e1f1111ae01d11db21b6]
+## Article 4. Entry into force and application[^c-fe656fd8c1b8e1f1111ae01d11db21b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe656fd8c1b8e1f1111ae01d11db21b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe656fd8c1b8e1f1111ae01d11db21b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe656fd8c1b8e1f1111ae01d11db21b6]: Textual amendment: Regulation revoked (5.9.2021) by [The Sea Fisheries (Amendment etc.) Regulations 2021 (S.I. 2021/698)](https://www.legislation.gov.uk/uksi/2021/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/698/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2021/698/regulation/4)
+[^c-fe656fd8c1b8e1f1111ae01d11db21b6]: Textual amendment: Regulation revoked (5.9.2021) by [The Sea Fisheries (Amendment etc.) Regulations 2021 (S.I. 2021/698)](https://www.legislation.gov.uk/uksi/2021/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/698/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2021/698/regulation/4)

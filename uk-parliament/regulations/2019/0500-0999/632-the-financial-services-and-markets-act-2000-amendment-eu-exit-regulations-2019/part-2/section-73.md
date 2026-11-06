@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Introduction[^key-d90a67c169f7f20dbaf5c2e70889dd3c]
+## 73. Introduction[^c-d90a67c169f7f20dbaf5c2e70889dd3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 26 of the Act (notices) is amended as follows.
 
 ## Annotations
 
-[^key-d90a67c169f7f20dbaf5c2e70889dd3c]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d90a67c169f7f20dbaf5c2e70889dd3c]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

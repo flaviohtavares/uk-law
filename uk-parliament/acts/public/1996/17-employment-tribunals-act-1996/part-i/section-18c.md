@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18C. Conciliation after institution of proceedings[^key-6f04ddedd6112763a2e84a236e6e97c8]
+## 18C. Conciliation after institution of proceedings[^c-6f04ddedd6112763a2e84a236e6e97c8]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f04ddedd6112763a2e84a236e6e97c8]: Textual amendment: S. 18C inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/6); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
+[^c-6f04ddedd6112763a2e84a236e6e97c8]: Textual amendment: S. 18C inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/6); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)

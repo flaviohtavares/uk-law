@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79A. Requirements of return of postal voting documents form[^key-cc1e0aa6dae79c8bac7dfd26cf3aefef]
+## 79A. Requirements of return of postal voting documents form[^c-cc1e0aa6dae79c8bac7dfd26cf3aefef]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc1e0aa6dae79c8bac7dfd26cf3aefef]: Textual amendment: [Regs. 79A-79D](https://www.legislation.gov.uk/uksi/2001/497/regulation/79A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/3/6)
+[^c-cc1e0aa6dae79c8bac7dfd26cf3aefef]: Textual amendment: [Regs. 79A-79D](https://www.legislation.gov.uk/uksi/2001/497/regulation/79A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/3/6)

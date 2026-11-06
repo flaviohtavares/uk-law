@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15E. Interpretation[^key-59cf4b4d784fe6deb5c8fcaeb9468fc7]
+## 15E. Interpretation[^c-59cf4b4d784fe6deb5c8fcaeb9468fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-59cf4b4d784fe6deb5c8fcaeb9468fc7]: Textual amendment: [Ss. 15A-15E](https://www.legislation.gov.uk/ukpga/1982/27/section/15A) and cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59cf4b4d784fe6deb5c8fcaeb9468fc7]: Textual amendment: [Ss. 15A-15E](https://www.legislation.gov.uk/ukpga/1982/27/section/15A) and cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_1382047e-ad40-4929-cfae-d07d29227a33]: Textual amendment: Words in [s. 15E(2)(a)](https://www.legislation.gov.uk/ukpga/1982/27/section/15E/2/a) substituted in earlier amending provision S.I. 2019/479, reg. 26 (31.12.2020) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/b/ii)
 

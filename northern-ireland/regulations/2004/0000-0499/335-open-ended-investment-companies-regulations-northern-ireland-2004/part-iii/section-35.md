@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Directors to have regard to interests of employees[^key-70ab288277659bf055633e1d79e2943a]
+## 35. Directors to have regard to interests of employees[^c-70ab288277659bf055633e1d79e2943a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70ab288277659bf055633e1d79e2943a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2004/335/regulation/35) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-70ab288277659bf055633e1d79e2943a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2004/335/regulation/35) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

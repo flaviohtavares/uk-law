@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — References to the Secretary of State[^key-97786389af60ef69098414ac83cc8a10]
+## SCHEDULE 4A — References to the Secretary of State[^c-97786389af60ef69098414ac83cc8a10]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,4 +152,4 @@ Sections 25B and 25C
 
 ## Annotations
 
-[^key-97786389af60ef69098414ac83cc8a10]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2008/13/schedule/4A) substituted (4.5.2016 for specified purposes, 1.10.2017 in so far as not already in force) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/c), [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/3); [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)
+[^c-97786389af60ef69098414ac83cc8a10]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2008/13/schedule/4A) substituted (4.5.2016 for specified purposes, 1.10.2017 in so far as not already in force) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/c), [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/3); [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)

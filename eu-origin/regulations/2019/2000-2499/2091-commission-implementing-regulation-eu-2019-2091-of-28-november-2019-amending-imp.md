@@ -35,142 +35,142 @@ amending Implementing Regulation (EU) 2015/2197 with regard to closely correlate
 
 (Text with EEA relevance) (revoked)
 
-[^key-a25b93c111c9b8afecfd8bc54173b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a25b93c111c9b8afecfd8bc54173b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a25b93c111c9b8afecfd8bc54173b375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a25b93c111c9b8afecfd8bc54173b375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a25b93c111c9b8afecfd8bc54173b375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a25b93c111c9b8afecfd8bc54173b375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a25b93c111c9b8afecfd8bc54173b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a25b93c111c9b8afecfd8bc54173b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-a25b93c111c9b8afecfd8bc54173b375]
+## ANNEX[^c-a25b93c111c9b8afecfd8bc54173b375]
 
-[^key-a25b93c111c9b8afecfd8bc54173b375]The Annex to Commission Implementing Regulation (EU) 2015/2197 is replaced with the following:
+[^c-a25b93c111c9b8afecfd8bc54173b375]The Annex to Commission Implementing Regulation (EU) 2015/2197 is replaced with the following:
 
-[^key-a25b93c111c9b8afecfd8bc54173b375]‘
+[^c-a25b93c111c9b8afecfd8bc54173b375]‘
 
-[^key-a25b93c111c9b8afecfd8bc54173b375]ANNEX
+[^c-a25b93c111c9b8afecfd8bc54173b375]ANNEX
 
 **List of closely correlated currencies**
 
-### Part 1- List of closely correlated currencies against the Euro (EUR)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 1- List of closely correlated currencies against the Euro (EUR)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2- List of closely correlated currencies against the Arab Emirates Dirham (AED)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 2- List of closely correlated currencies against the Arab Emirates Dirham (AED)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 3- List of closely correlated currencies against the Albanian Lek (ALL)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 3- List of closely correlated currencies against the Albanian Lek (ALL)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 4- List of closely correlated currencies against the Bosnia and Herzegovina Mark (BAM)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 4- List of closely correlated currencies against the Bosnia and Herzegovina Mark (BAM)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 5- List of closely correlated currencies against the Bulgarian Lev (BGN)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 5- List of closely correlated currencies against the Bulgarian Lev (BGN)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 6- List of closely correlated currencies against the Swiss Franc (CHF)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 6- List of closely correlated currencies against the Swiss Franc (CHF)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 7- List of closely correlated currencies against the Chinese Yuan (CNY)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 7- List of closely correlated currencies against the Chinese Yuan (CNY)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 8- List of closely correlated currencies against the Czech Koruna (CZK)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 8- List of closely correlated currencies against the Czech Koruna (CZK)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 9- List of closely correlated currencies against the Danish Krone (DKK)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 9- List of closely correlated currencies against the Danish Krone (DKK)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 10- List of closely correlated currencies against the Hong Kong Dollar (HKD)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 10- List of closely correlated currencies against the Hong Kong Dollar (HKD)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 11- List of closely correlated currencies against the Croatian Kuna (HRK)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 11- List of closely correlated currencies against the Croatian Kuna (HRK)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 12- List of closely correlated currencies against the Hungarian Forint (HUF)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 12- List of closely correlated currencies against the Hungarian Forint (HUF)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 13- List of closely correlated currencies against the Israeli New Shekel (ILS)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 13- List of closely correlated currencies against the Israeli New Shekel (ILS)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 14- List of closely correlated currencies against the Indian Rupee (INR)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 14- List of closely correlated currencies against the Indian Rupee (INR)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 15- List of closely correlated currencies against the South Korean Won (KRW)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 15- List of closely correlated currencies against the South Korean Won (KRW)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 16- List of closely correlated currencies against the Lebanese Pound (LBP)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 16- List of closely correlated currencies against the Lebanese Pound (LBP)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 17- List of closely correlated currencies against the Moroccan Dirham (MAD)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 17- List of closely correlated currencies against the Moroccan Dirham (MAD)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 18- List of closely correlated currencies against the North Macedonian Denar (MKD)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 18- List of closely correlated currencies against the North Macedonian Denar (MKD)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 19- List of closely correlated currencies against the Macau Pataca (MOP)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 19- List of closely correlated currencies against the Macau Pataca (MOP)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 20- List of closely correlated currencies against the Philippine Peso (PHP)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 20- List of closely correlated currencies against the Philippine Peso (PHP)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 21- List of closely correlated currencies against the Polish Zloty (PLN)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 21- List of closely correlated currencies against the Polish Zloty (PLN)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 22- List of closely correlated currencies against the Romanian Leu (RON)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 22- List of closely correlated currencies against the Romanian Leu (RON)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 23- List of closely correlated currencies against the Serbian Dinar (RSD)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 23- List of closely correlated currencies against the Serbian Dinar (RSD)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 24- List of closely correlated currencies against the Swedish Krona (SEK)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 24- List of closely correlated currencies against the Swedish Krona (SEK)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 25- List of closely correlated currencies against the Singapore Dollar (SGD)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 25- List of closely correlated currencies against the Singapore Dollar (SGD)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 26- List of closely correlated currencies against the Thai Baht (THB)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 26- List of closely correlated currencies against the Thai Baht (THB)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 27- List of closely correlated currencies against the Taiwanese Dollar (TWD)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 27- List of closely correlated currencies against the Taiwanese Dollar (TWD)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 28- List of closely correlated currencies against the US Dollar (USD)[^key-a25b93c111c9b8afecfd8bc54173b375]
+### Part 28- List of closely correlated currencies against the US Dollar (USD)[^c-a25b93c111c9b8afecfd8bc54173b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a25b93c111c9b8afecfd8bc54173b375]’
+[^c-a25b93c111c9b8afecfd8bc54173b375]’
 
 ## Annotations
 
-[^key-a25b93c111c9b8afecfd8bc54173b375]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)
+[^c-a25b93c111c9b8afecfd8bc54173b375]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)

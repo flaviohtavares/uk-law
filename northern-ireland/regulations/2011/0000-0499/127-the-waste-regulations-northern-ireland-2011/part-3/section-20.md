@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Duty in relation to collected waste by private operators[^key-b352c721935454de1039d97469668f9f]
+## 20. Duty in relation to collected waste by private operators[^c-b352c721935454de1039d97469668f9f]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The duties under regulations 18 and 19 shall apply equally to a person required 
 
 ## Annotations
 
-[^key-b352c721935454de1039d97469668f9f]: Commencement: Reg. 20 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-b352c721935454de1039d97469668f9f]: Commencement: Reg. 20 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1999 No. 362](https://www.legislation.gov.uk/nisr/1999/362)

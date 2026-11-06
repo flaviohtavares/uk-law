@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Procedure for making, amending and remaking the Scheme[^key-b747eac1ca745afff529137251e9c8d5]
+## 15. Procedure for making, amending and remaking the Scheme[^c-b747eac1ca745afff529137251e9c8d5]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ until the proposal has been laid before the Scottish Parliament.
 
 ## Annotations
 
-[^key-b747eac1ca745afff529137251e9c8d5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/1/section/15) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-b747eac1ca745afff529137251e9c8d5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/1/section/15) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

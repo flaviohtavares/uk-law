@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Deemed marine licence under Marine and Coastal Access Act 2009[^key-283b0c0e291893a8ad84b96eed43d038]
+## 31. Deemed marine licence under Marine and Coastal Access Act 2009[^c-283b0c0e291893a8ad84b96eed43d038]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The marine licence set out in Schedule 9 is deemed to have been issued under Par
 
 ## Annotations
 
-[^key-283b0c0e291893a8ad84b96eed43d038]: Commencement: Art. 31 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-283b0c0e291893a8ad84b96eed43d038]: Commencement: Art. 31 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

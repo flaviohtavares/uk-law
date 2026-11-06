@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.2. Form of response[^key-5b0c9ba20fe606b5c037bdf8229d2318]
+## 6.2. Form of response[^c-5b0c9ba20fe606b5c037bdf8229d2318]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A response under section 28(1)(a) (compliance with sheriff’s recommendations: 
 
 ## Annotations
 
-[^key-5b0c9ba20fe606b5c037bdf8229d2318]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/ssi/2017/103/rule/6.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-5b0c9ba20fe606b5c037bdf8229d2318]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/ssi/2017/103/rule/6.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

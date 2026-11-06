@@ -29,7 +29,7 @@ summary: ''
 
 means the person who under section 51A of the Health and Safety at Work etc. Act 1974 is to be treated as his employer for the purposes of Part 1 of that Act.
 
-(3)[^c20083311] Subsection (1) does not apply to the holding of the office of constable by a member of a police force on secondment to the National Crime Agency[^key-ea7f53f7a33fe2617eedcc7d388e8e5f].
+(3)[^c20083311] Subsection (1) does not apply to the holding of the office of constable by a member of a police force on secondment to the National Crime Agency[^c-ea7f53f7a33fe2617eedcc7d388e8e5f].
 
 ## Annotations
 
@@ -39,4 +39,4 @@ means the person who under section 51A of the Health and Safety at Work etc. Act
 
 [^c20083311]: Textual amendment: S. 134A(3) added (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 87](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/87); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/378/schedule) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-ea7f53f7a33fe2617eedcc7d388e8e5f]: Textual amendment: Words in s. 134A(3) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/51); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-ea7f53f7a33fe2617eedcc7d388e8e5f]: Textual amendment: Words in s. 134A(3) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/51); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

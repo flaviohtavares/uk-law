@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Power to acquire land[^key-c921c576df52dcbfc16107fd1b853f6c]
+## 23. Power to acquire land[^c-c921c576df52dcbfc16107fd1b853f6c]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ but must not acquire land required for Work No. 1A and land required for Work No
 
 ## Annotations
 
-[^key-c921c576df52dcbfc16107fd1b853f6c]: Commencement: Art. 23 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-c921c576df52dcbfc16107fd1b853f6c]: Commencement: Art. 23 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

@@ -47,17 +47,17 @@ summary: ''
 
 (6) An authorised person shall not be entitled to rely on the defence provided by subsection (3)(c) as respects any action taken at any time unless he notified the agriculture Minister as soon as reasonably practicable after that time that he had taken the action.
 
-## 4. Further exceptions to s. 1[^c19408581][^key-ca1c3db7743668af806a32a8d1dcb1f9]
+## 4. Further exceptions to s. 1[^c19408581][^c-ca1c3db7743668af806a32a8d1dcb1f9]
 
 *Extent: S*
 
-(1) Nothing in section 1 [^key-b61a709fe26c70879c49aac605481320]... shall make unlawful—
+(1) Nothing in section 1 [^c-b61a709fe26c70879c49aac605481320]... shall make unlawful—
 
 - (a) anything done in pursuance of a requirement by the Minister of Agriculture, Fisheries and Food or the Secretary of State under section 98 of the [^c4938981]Agriculture Act 1947, or by the Secretary of State under section 39 of the [^c4938991]Agriculture (Scotland) Act 1948;
 - (b) anything done under, or in pursuance of an order made under, section 21 or 22 of the [^c4939001]Animal Health Act 1981; or
 - (c) except in the case of a wild bird included in Schedule 1 or the nest or egg of such a bird, anything done under, or in pursuance of an order made under, any other provision of the said Act of 1981.
 
-(2) Notwithstanding anything in the provisions of section 1 [^key-52fab1559156c593cd8d0f784fc838c3]..., a person shall not be guilty of an offence by reason of—
+(2) Notwithstanding anything in the provisions of section 1 [^c-52fab1559156c593cd8d0f784fc838c3]..., a person shall not be guilty of an offence by reason of—
 
 - (a) the taking of any wild bird if he shows that the bird had been disabled otherwise than by his unlawful act and was taken solely for the purpose of tending it and releasing it when no longer disabled;
 - (b) the killing of any wild bird if he shows that the bird had been so seriously disabled otherwise than by his unlawful act that there was no reasonable chance of its recovering; or
@@ -71,7 +71,7 @@ summary: ''
   - (ii) did not foresee, and could not reasonably have foreseen, that the unlawful act would be an incidental result of the carrying out of the lawful operation or other activity; and
 - (c) that the person who carried out the unlawful act took, immediately upon the consequence of that act becoming apparent to the person, such steps as were reasonably practicable in the circumstances to minimise the damage or disturbance to the wild bird, nest or, as the case may be, egg in relation to which the unlawful act was carried out.
 
-(3) Notwithstanding anything in the provisions of section 1 [^key-130a992683356cee91cb3974a24bea64]..., an authorised person shall not be guilty of an offence by reason of the killing or injuring of any wild bird, other than a bird included in Schedule 1, if he shows that his action was necessary for the purpose of—
+(3) Notwithstanding anything in the provisions of section 1 [^c-130a992683356cee91cb3974a24bea64]..., an authorised person shall not be guilty of an offence by reason of the killing or injuring of any wild bird, other than a bird included in Schedule 1, if he shows that his action was necessary for the purpose of—
 
 - (a) preserving public health or public or air safety;
 - (b) preventing the spread of disease; or
@@ -104,17 +104,17 @@ summary: ''
 
 [^c19408581]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-ca1c3db7743668af806a32a8d1dcb1f9]: Textual amendment: S. 4 heading substituted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(a)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
+[^c-ca1c3db7743668af806a32a8d1dcb1f9]: Textual amendment: S. 4 heading substituted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(a)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
 
-[^key-b61a709fe26c70879c49aac605481320]: Textual amendment: Words in s. 4(1) repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(b)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
+[^c-b61a709fe26c70879c49aac605481320]: Textual amendment: Words in s. 4(1) repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(b)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
 
-[^key-52fab1559156c593cd8d0f784fc838c3]: Textual amendment: Words in s. 4(2) repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(c)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
+[^c-52fab1559156c593cd8d0f784fc838c3]: Textual amendment: Words in s. 4(2) repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(c)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
 
 [^c19408461]: Textual amendment: Words in s. 4(2)(c) substituted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/5/2); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
 [^c19408481]: Textual amendment: S. 4(2A) inserted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/5/3); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
-[^key-130a992683356cee91cb3974a24bea64]: Textual amendment: Words in s. 4(3) repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(c)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
+[^c-130a992683356cee91cb3974a24bea64]: Textual amendment: Words in s. 4(3) repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(3)(c)](https://www.legislation.gov.uk/asp/2011/6/section/4/3/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
 
 [^c19408501]: Textual amendment: Words in s. 4(4) substituted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 5(4)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/5/4); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Modification of enactments[^key-8d5bd2ac4f0fba53c384d1b030cc8933]
+## 4. Modification of enactments[^c-8d5bd2ac4f0fba53c384d1b030cc8933]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d5bd2ac4f0fba53c384d1b030cc8933]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/2935/article/4) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-8d5bd2ac4f0fba53c384d1b030cc8933]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/2935/article/4) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00015]: Footnote: [1852 c. cxxx](https://www.legislation.gov.uk/ukla/1852/130).
 

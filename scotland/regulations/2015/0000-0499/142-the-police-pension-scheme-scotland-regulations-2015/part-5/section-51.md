@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Closure and re-establishment of active member’s account[^key-ef8e50bc05fc307c1fc852caac75d5f7]
+## 51. Closure and re-establishment of active member’s account[^c-ef8e50bc05fc307c1fc852caac75d5f7]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8e50bc05fc307c1fc852caac75d5f7]: Commencement: Reg. 51 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ef8e50bc05fc307c1fc852caac75d5f7]: Commencement: Reg. 51 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

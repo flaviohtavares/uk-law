@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Offences by bodies corporate[^key-36adc2a00c679bd67d40630f659db488][^key-6b3b7cd2a7402b971a9326cfe22a8069]
+## 57. Offences by bodies corporate[^c-36adc2a00c679bd67d40630f659db488][^c-6b3b7cd2a7402b971a9326cfe22a8069]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ he (as well as the body corporate) commits the offence and shall be liable to be
 
 ## Annotations
 
-[^key-36adc2a00c679bd67d40630f659db488]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/45/section/57) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/h)
+[^c-36adc2a00c679bd67d40630f659db488]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/45/section/57) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/h)
 
-[^key-6b3b7cd2a7402b971a9326cfe22a8069]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/45/section/57) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/j)
+[^c-6b3b7cd2a7402b971a9326cfe22a8069]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/45/section/57) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/j)

@@ -23,7 +23,7 @@ summary: ''
 (1) Her Majesty may, by order signified under the hand of the Secretary of State, make orders with respect to—
 
 - (a) the government and discipline of any reserve force; and
-- (b) all other matters and things relating to that force (except pay, bounty and allowances)[^key-0ecbc3b10f1e582dce62ca3f799062d4],
+- (b) all other matters and things relating to that force (except pay, bounty and allowances)[^c-0ecbc3b10f1e582dce62ca3f799062d4],
 
 and including any matter authorised to be prescribed by any provision of this Act or expressed to be subject to orders or regulations under this section.
 
@@ -37,4 +37,4 @@ and including any matter authorised to be prescribed by any provision of this Ac
 
 ## Annotations
 
-[^key-0ecbc3b10f1e582dce62ca3f799062d4]: Textual amendment: Words in s. 4(1)(b) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/26); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0ecbc3b10f1e582dce62ca3f799062d4]: Textual amendment: Words in s. 4(1)(b) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/26); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

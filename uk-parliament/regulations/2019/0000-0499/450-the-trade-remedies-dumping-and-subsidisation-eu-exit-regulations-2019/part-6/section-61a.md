@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Alternative options for final affirmative determination[^key-7fd824ea99ae30f61959b8b640f529eb]
+## 61A. Alternative options for final affirmative determination[^c-7fd824ea99ae30f61959b8b640f529eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The TRA must consider giving two or more options as part of its recommendation t
 
 ## Annotations
 
-[^key-7fd824ea99ae30f61959b8b640f529eb]: Textual amendment: [Reg. 61A](https://www.legislation.gov.uk/uksi/2019/450/regulation/61A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/545/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-7fd824ea99ae30f61959b8b640f529eb]: Textual amendment: [Reg. 61A](https://www.legislation.gov.uk/uksi/2019/450/regulation/61A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/545/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

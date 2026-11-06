@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies in relation to a member of this scheme—
 
-- (za)[^key-3499648949ac91efd2dd2f96a48c9629] who dies as an active member;
+- (za)[^c-3499648949ac91efd2dd2f96a48c9629] who dies as an active member;
 - (a) who dies as a deferred member or pensioner member of this scheme if the death results from an injury received in the execution of duty; or
 - (b) who dies as a pensioner member of this scheme if the member dies within 2 years after becoming a pensioner member.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3499648949ac91efd2dd2f96a48c9629]: Textual amendment: Reg. 166(1)(za) inserted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [35(1)](https://www.legislation.gov.uk/uksi/2018/997/regulation/35/1)
+[^c-3499648949ac91efd2dd2f96a48c9629]: Textual amendment: Reg. 166(1)(za) inserted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [35(1)](https://www.legislation.gov.uk/uksi/2018/997/regulation/35/1)

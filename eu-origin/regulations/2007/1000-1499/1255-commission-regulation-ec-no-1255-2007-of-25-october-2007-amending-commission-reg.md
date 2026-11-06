@@ -35,156 +35,156 @@ amending Commission Regulation (EC) No 874/2004 laying down public policy rules 
 
 (Text with EEA relevance) (revoked)
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f54aeb62ef68c6ef53951af50ee7952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9f54aeb62ef68c6ef53951af50ee7952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9f54aeb62ef68c6ef53951af50ee7952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9f54aeb62ef68c6ef53951af50ee7952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9f54aeb62ef68c6ef53951af50ee7952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f54aeb62ef68c6ef53951af50ee7952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-9f54aeb62ef68c6ef53951af50ee7952]
+## ANNEX[^c-9f54aeb62ef68c6ef53951af50ee7952]
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]1.
+[^c-9f54aeb62ef68c6ef53951af50ee7952]1.
 
 List of names per country and the countries that can register them
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]AUSTRIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]BELGIUM
+[^c-9f54aeb62ef68c6ef53951af50ee7952]BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]BULGARIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]CYPRUS
+[^c-9f54aeb62ef68c6ef53951af50ee7952]CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]CZECH REPUBLIC
+[^c-9f54aeb62ef68c6ef53951af50ee7952]CZECH REPUBLIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]DENMARK
+[^c-9f54aeb62ef68c6ef53951af50ee7952]DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]ESTONIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]FINLAND
+[^c-9f54aeb62ef68c6ef53951af50ee7952]FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]FRANCE
+[^c-9f54aeb62ef68c6ef53951af50ee7952]FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]GERMANY
+[^c-9f54aeb62ef68c6ef53951af50ee7952]GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]GREECE
+[^c-9f54aeb62ef68c6ef53951af50ee7952]GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]HUNGARY
+[^c-9f54aeb62ef68c6ef53951af50ee7952]HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]IRELAND
+[^c-9f54aeb62ef68c6ef53951af50ee7952]IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]ITALY
+[^c-9f54aeb62ef68c6ef53951af50ee7952]ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]LATVIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]LATVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]LITHUANIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]LITHUANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]LUXEMBOURG
+[^c-9f54aeb62ef68c6ef53951af50ee7952]LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]MALTA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]NETHERLANDS
+[^c-9f54aeb62ef68c6ef53951af50ee7952]NETHERLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]POLAND
+[^c-9f54aeb62ef68c6ef53951af50ee7952]POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]PORTUGAL
+[^c-9f54aeb62ef68c6ef53951af50ee7952]PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]ROMANIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]SLOVAKIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]SLOVENIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]SPAIN
+[^c-9f54aeb62ef68c6ef53951af50ee7952]SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]SWEDEN
+[^c-9f54aeb62ef68c6ef53951af50ee7952]SWEDEN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]UNITED KINGDOM
+[^c-9f54aeb62ef68c6ef53951af50ee7952]UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]2.
+[^c-9f54aeb62ef68c6ef53951af50ee7952]2.
 
 List of names per country and the countries that can reserve them
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]CROATIA
+[^c-9f54aeb62ef68c6ef53951af50ee7952]CROATIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]ICELAND
+[^c-9f54aeb62ef68c6ef53951af50ee7952]ICELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]LIECHTENSTEIN
+[^c-9f54aeb62ef68c6ef53951af50ee7952]LIECHTENSTEIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]NORWAY
+[^c-9f54aeb62ef68c6ef53951af50ee7952]NORWAY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]TURKEY
+[^c-9f54aeb62ef68c6ef53951af50ee7952]TURKEY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f54aeb62ef68c6ef53951af50ee7952]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [reg. 7(d)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f54aeb62ef68c6ef53951af50ee7952]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [reg. 7(d)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

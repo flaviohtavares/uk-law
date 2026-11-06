@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 204. Conduct of proceedings in the sheriff court[^key-2444df1edf14d6caad5546606744f5cf]
+## 204. Conduct of proceedings in the sheriff court[^c-2444df1edf14d6caad5546606744f5cf]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2444df1edf14d6caad5546606744f5cf]: Commencement: [S. 204](https://www.legislation.gov.uk/asp/2016/21/section/204) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-2444df1edf14d6caad5546606744f5cf]: Commencement: [S. 204](https://www.legislation.gov.uk/asp/2016/21/section/204) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

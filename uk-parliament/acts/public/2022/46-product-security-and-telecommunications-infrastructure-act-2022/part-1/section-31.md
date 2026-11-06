@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Power to vary or revoke enforcement notices[^key-103d88db4f67099153133fb1bce57680][^key-26d4cbe54967fd6f0f1783fbc6b632f0]
+## 31. Power to vary or revoke enforcement notices[^c-103d88db4f67099153133fb1bce57680][^c-26d4cbe54967fd6f0f1783fbc6b632f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-103d88db4f67099153133fb1bce57680]: Commencement: S. 31 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-103d88db4f67099153133fb1bce57680]: Commencement: S. 31 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-26d4cbe54967fd6f0f1783fbc6b632f0]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/46/section/31) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-26d4cbe54967fd6f0f1783fbc6b632f0]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/46/section/31) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

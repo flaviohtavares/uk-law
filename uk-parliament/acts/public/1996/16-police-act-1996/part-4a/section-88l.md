@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88L. Removal from police advisory list[^key-788bd446afeb9896408477357c2c27f9]
+## 88L. Removal from police advisory list[^c-788bd446afeb9896408477357c2c27f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,8 +41,8 @@ summary: ''
 
 (7) The Secretary of State must by regulations make provision in connection with the removal from the police advisory list (otherwise than under subsection (4) or (5)) of
 
-- (a)[^key-69d0e57a294890fb4d859a5a9310c64f] a person who, immediately before resigning or retiring, was a civilian police employee;
-- (b)[^key-9248607aa0a3ce3bd3fd67c208c207d9] a person who was designated as a community support volunteer or a policing support volunteer under section 38 of the Police Reform Act 2002.
+- (a)[^c-69d0e57a294890fb4d859a5a9310c64f] a person who, immediately before resigning or retiring, was a civilian police employee;
+- (b)[^c-9248607aa0a3ce3bd3fd67c208c207d9] a person who was designated as a community support volunteer or a policing support volunteer under section 38 of the Police Reform Act 2002.
 
 (8) Regulations under subsection (6) or (7) may confer functions on the College of Policing including functions which involve the exercise of a discretion.
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-788bd446afeb9896408477357c2c27f9]: Textual amendment: Pt. 4A inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/8); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/c) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-788bd446afeb9896408477357c2c27f9]: Textual amendment: Pt. 4A inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/8); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/c) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
-[^key-69d0e57a294890fb4d859a5a9310c64f]: Textual amendment: Words in s. 88L(7) renumbered as s. 88L(7)(a) (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 42(5)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/42/5/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/h) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-69d0e57a294890fb4d859a5a9310c64f]: Textual amendment: Words in s. 88L(7) renumbered as s. 88L(7)(a) (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 42(5)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/42/5/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/h) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
-[^key-9248607aa0a3ce3bd3fd67c208c207d9]: Textual amendment: S. 88L(7)(b) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 42(5)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/42/5/b), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/h) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-9248607aa0a3ce3bd3fd67c208c207d9]: Textual amendment: S. 88L(7)(b) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 42(5)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/42/5/b), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/h) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))

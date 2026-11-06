@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Regulations: consultation[^key-a8f03805a09595aab17bc96919ee35e0]
+## 19. Regulations: consultation[^c-a8f03805a09595aab17bc96919ee35e0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8f03805a09595aab17bc96919ee35e0]: Commencement: S. 19 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-a8f03805a09595aab17bc96919ee35e0]: Commencement: S. 19 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

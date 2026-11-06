@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Medical unfitness[^key-e9e2e6195b7d0325968c2dd34f41e926]
+## 64. Medical unfitness[^c-e9e2e6195b7d0325968c2dd34f41e926]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-e9e2e6195b7d0325968c2dd34f41e926]: Commencement: Reg. 64 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e9e2e6195b7d0325968c2dd34f41e926]: Commencement: Reg. 64 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

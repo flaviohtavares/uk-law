@@ -27,7 +27,7 @@ summary: ''
 
 1990 No. 246 (N.I. 2)
 
-The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990[^key-464483cb440f4f03f7975255847d9a5d]
+The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990[^c-464483cb440f4f03f7975255847d9a5d]
 
 14th February 1990
 
@@ -78,10 +78,10 @@ shall be of no eﬀect in so far as it imposes a requirement to do an act which 
 - (b) Part IV (discrimination as respects education, etc.) so far as it applies to vocational training; and
 - (c) Part V (other unlawful acts) so far as it has eﬀect in relation to the provisions mentioned in sub‐paragraphs (a) and (b).
 
-(3) Where in any legal proceedings (of whatever nature) there falls to be determined the question whether paragraph (1) operates to negative the eﬀect of any provision in so far as it requires the application by any person of a provision, criterion or practice[^c11631751] falling within Article 3A(2)(b)[^key-fbbf5b904de126a96ee99704f433b5ee] or 5(1)(b)(i) of the 1976 Order (indirect discrimination on grounds of sex or marital status)—
+(3) Where in any legal proceedings (of whatever nature) there falls to be determined the question whether paragraph (1) operates to negative the eﬀect of any provision in so far as it requires the application by any person of a provision, criterion or practice[^c11631751] falling within Article 3A(2)(b)[^c-fbbf5b904de126a96ee99704f433b5ee] or 5(1)(b)(i) of the 1976 Order (indirect discrimination on grounds of sex or marital status)—
 
-- (a) it shall be for any party to the proceedings who claims that paragraph (1) does not so operate in relation to that provision to show the provision, criterion or practice in question to be proportionate as mentioned in Article 3A(2)(d) or 5(1)(b)(iii)[^key-1e795787562f7c971f066c9bca68795c] of that Order; and
-- (b) the said Article 3A(2)(d) or 5(1)(b)(iii)[^key-63bf49386de85bb236ac85e81e4f07f5] shall accordingly have eﬀect in relation to the provision, criterion or practice as if the reference to the person applying it were a reference to any such party to the proceedings.
+- (a) it shall be for any party to the proceedings who claims that paragraph (1) does not so operate in relation to that provision to show the provision, criterion or practice in question to be proportionate as mentioned in Article 3A(2)(d) or 5(1)(b)(iii)[^c-1e795787562f7c971f066c9bca68795c] of that Order; and
+- (b) the said Article 3A(2)(d) or 5(1)(b)(iii)[^c-63bf49386de85bb236ac85e81e4f07f5] shall accordingly have eﬀect in relation to the provision, criterion or practice as if the reference to the person applying it were a reference to any such party to the proceedings.
 
 (4) Where an enactment enacted after the 1976 Order, whether before or after this Order, re‐enacts (with or without modiﬁcation) a provision of an enactment enacted before the 1976 Order, that provision as re‐enacted shall be treated for the purposes of paragraph (1) as if it continued to be contained in an enactment enacted before the 1976 Order.
 
@@ -228,9 +228,9 @@ The following Article shall be substituted for Article 17 of the 1976 Order—
 
 .
 
-### 10. Power to exempt discrimination in favour of lone parents in connection with training[^c11631921][^key-f74594591216803b507b59bb1d5bec7f]
+### 10. Power to exempt discrimination in favour of lone parents in connection with training[^c11631921][^c-f74594591216803b507b59bb1d5bec7f]
 
-(1) The Department for Communities or the Department for the Economy[^key-6197e9bc9df7093315e218f5b615b565] may by order provide with respect to—
+(1) The Department for Communities or the Department for the Economy[^c-6197e9bc9df7093315e218f5b615b565] may by order provide with respect to—
 
 - (a) any speciﬁed arrangements made under section 1 of the Employment and Training Act (Northern Ireland) 1950[^c11631931] (functions of the Department for Communities or the Department for the Economy as respects employment and training); or
 - (b) any speciﬁed class or description of training for employment provided otherwise than in pursuance of that section; or
@@ -243,15 +243,15 @@ that this Article shall apply to such special treatment aﬀorded to or in respe
 (3) An order under paragraph (1) may specify or refer to special treatment aﬀorded as mentioned in that paragraph—
 
 - (a) whether it is aﬀorded by the making of any payment or by the ﬁxing of special conditions for participation in the arrangements, training or scheme in question, or otherwise; and
-- (b) whether it is aﬀorded by the Department for Communities or the Department for the Economy[^key-40116a975ead6e7daec17d990f731242] or by some other person;
+- (b) whether it is aﬀorded by the Department for Communities or the Department for the Economy[^c-40116a975ead6e7daec17d990f731242] or by some other person;
 
 and, without prejudice to the generality of sub‐paragraph (b) of that paragraph, any class or description of training for employment speciﬁed in such an order by virtue of that sub‐paragraph may be framed by reference to the person, or the class or description of persons, by whom the training is provided.
 
 (4) In this Article—
 
-- (za)[^key-991f88f561350a1d01ff72901dacb6a5] “couple” has the meaning given by Article 45(1) of the Welfare Reform (Northern Ireland) Order 2015
+- (za)[^c-991f88f561350a1d01ff72901dacb6a5] “couple” has the meaning given by Article 45(1) of the Welfare Reform (Northern Ireland) Order 2015
 - (a) “employment” has the same meaning as in the Industrial Training (Northern Ireland) Order 1984;
-- (b)[^key-fa99defbac8923d96c4dc22e2caedd39] “lone parent” means a person who—
+- (b)[^c-fa99defbac8923d96c4dc22e2caedd39] “lone parent” means a person who—
   - (i) is not a member of a couple, and
   - (ii) is responsible for, and a member of the same household, as a child;
 - (c) “training” includes any education with a view to employment.
@@ -313,13 +313,13 @@ as a reference to so much of that provision as relates to the employment of pers
 - “school‐leaving age” means the upper limit of compulsory school age for the purposes of the Education and Libraries (Northern Ireland) Order 1986[^c11632031]; and
 - “statutory provision” has the meaning assigned to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954[^c11632041].
 
-### 13. Exemption of Sikhs from requirements as to wearing of safety helmets at workplaces[^key-fee828bc1dcc4568afe3b3eff243a92a]
+### 13. Exemption of Sikhs from requirements as to wearing of safety helmets at workplaces[^c-fee828bc1dcc4568afe3b3eff243a92a]
 
-(1) Any requirement to wear a safety helmet which (apart from this Article) would, by virtue of any statutory provision or rule of law, be imposed on a Sikh who is at a workplace[^key-e90b1d8fbfa073af9b33a98faff53c9c] shall not apply to him at any time when he is wearing a turban.
+(1) Any requirement to wear a safety helmet which (apart from this Article) would, by virtue of any statutory provision or rule of law, be imposed on a Sikh who is at a workplace[^c-e90b1d8fbfa073af9b33a98faff53c9c] shall not apply to him at any time when he is wearing a turban.
 
 (2) Accordingly, where—
 
-- (a) a Sikh who is at a workplace[^key-91d973e480fa59efb1cc811956a292e7] is for the time being wearing a turban; and
+- (a) a Sikh who is at a workplace[^c-91d973e480fa59efb1cc811956a292e7] is for the time being wearing a turban; and
 - (b) (apart from this Article) any associated requirement would, by virtue of any statutory provision or rule of law, be imposed—
   - (i) on the Sikh; or
   - (ii) on any other person,
@@ -332,7 +332,7 @@ that requirement shall not apply to the Sikh or (as the case may be) to that oth
 
 (4) It is hereby declared that, where a person does not comply with any requirement, being a requirement which for the time being does not apply to him by virtue of paragraph (1) or (2), he shall not be liable in tort to any person in respect of any injury, loss or damage caused by his failure to comply with that requirement.
 
-(5) If a Sikh who is at a workplace[^key-960750b6cf5262af94d254619d26ad9f] —
+(5) If a Sikh who is at a workplace[^c-960750b6cf5262af94d254619d26ad9f] —
 
 - (a) does not comply with any requirement to wear a safety helmet, being a requirement which for the time being does not apply to him by virtue of paragraph (1); and
 - (b) in consequence of any act or omission of some other person sustains any injury, loss or damage which is to any extent attributable to the fact that he is not wearing a safety helmet in compliance with the requirement,
@@ -346,7 +346,7 @@ that other person shall, if liable to the Sikh in tort, be so liable only to the
 
 the amount of any damages which, by virtue of that paragraph, are recoverable in tort in respect of that injury shall not exceed the amount of any damages which would (apart from that paragraph) be so recoverable in respect of the Sikh's death.
 
-(6A)[^key-aabf9338edc00bfb2bd65ea0a30e3ed3] This Article does not apply to a Sikh who—
+(6A)[^c-aabf9338edc00bfb2bd65ea0a30e3ed3] This Article does not apply to a Sikh who—
 
 - (a) works, or is training to work, in an occupation that involves (to any extent) providing an urgent response to fire, riot or other hazardous situations, and
 - (b) is at the workplace—
@@ -362,13 +362,13 @@ the amount of any damages which, by virtue of that paragraph, are recoverable in
 
 (7) In this Article—
 
-- [^key-0e06db7fc6cfe3f9ed01e5f8357139da]...
-- [^key-0e06db7fc6cfe3f9ed01e5f8357139da]...
-- “[^key-f373c05fe5f54b7ddba12fb3640f9f2d]**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006;
+- [^c-0e06db7fc6cfe3f9ed01e5f8357139da]...
+- [^c-0e06db7fc6cfe3f9ed01e5f8357139da]...
+- “[^c-f373c05fe5f54b7ddba12fb3640f9f2d]**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006;
 - “injury” includes loss of life, any impairment of a person's physical or mental condition and any disease;
 - “safety helmet” means any form of protective headgear;
 - “statutory provision” has the meaning assigned to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954[^c11632061].
-- “[^key-dade1b76600bedc0e3772b1dbcc71635]**workplace**” means any premises where work is being undertaken, including premises occupied or normally occupied as a private dwelling; and “**premises**” includes any place and, in particular, includes—
+- “[^c-dade1b76600bedc0e3772b1dbcc71635]**workplace**” means any premises where work is being undertaken, including premises occupied or normally occupied as a private dwelling; and “**premises**” includes any place and, in particular, includes—
   - (a) any vehicle, vessel, aircraft or hovercraft,
   - (b) any installation (including a floating installation or one resting on the seabed or its subsoil or on other land covered with water or its subsoil), and
   - (c) any tent or moveable structure.
@@ -376,20 +376,20 @@ the amount of any damages which, by virtue of that paragraph, are recoverable in
 (8) In this Article—
 
 - (a) any reference to a Sikh is a reference to a follower of the Sikh religion; and
-- (b) any reference to a Sikh being at a workplace[^key-ee021d9c1ffe80c8f9b13c28801b550f] is a reference to his being there whether while at work or otherwise.
+- (b) any reference to a Sikh being at a workplace[^c-ee021d9c1ffe80c8f9b13c28801b550f] is a reference to his being there whether while at work or otherwise.
 
 ### 13A. Protection of Sikhs from racial discrimination in connection with requirements as to wearing of safety helmets.[^c11631971]
 
 (1) Where—
 
-- (a) any person applies to a Sikh any provision, criterion or practice[^c11632071] relating to the wearing by him of a safety helmet while he is at a workplace[^key-d4ff4867039941b799cb279b8aa4155c] ; and
-- (b) at the time when he so applies the provision, criterion or practice that person has no reasonable grounds for believing that the Sikh would not wear a turban at all times when at such a workplace[^key-bcd5dd470b529a13311413133b3b0e41] ,
+- (a) any person applies to a Sikh any provision, criterion or practice[^c11632071] relating to the wearing by him of a safety helmet while he is at a workplace[^c-d4ff4867039941b799cb279b8aa4155c] ; and
+- (b) at the time when he so applies the provision, criterion or practice that person has no reasonable grounds for believing that the Sikh would not wear a turban at all times when at such a workplace[^c-bcd5dd470b529a13311413133b3b0e41] ,
 
 then, for the purpose of determining whether the application of the provision, criterion or practice to the Sikh constitutes an act of discrimination falling within Article 3(1)(b) or Article 3(1A) of the Race Relations (Northern Ireland) Order 1997 (indirect racial discrimination), the provision, criterion or practice shall be taken to be one which cannot be shown to be justifiable as mentioned in Article 3(1)(b)(ii), or to be a proportionate means of achieving a legitimate aim as mentioned in Article 3(1A)(c) of, of that Order.
 
 (2) Any special treatment afforded to a Sikh in consequence of Article 13(1) or (2) shall not be regarded for the purposes of the Race Relations (Northern Ireland) Order 1997 as giving rise, in relation to any other person, to any discrimination falling within Article 3 of that Order.
 
-(3) Paragraphs (6A) to (8)[^key-406b741770dfc6708644e0dcf3a67b07] of Article 13 shall apply for the purposes of this Article as they apply for the purposes of that Article.
+(3) Paragraphs (6A) to (8)[^c-406b741770dfc6708644e0dcf3a67b07] of Article 13 shall apply for the purposes of this Article as they apply for the purposes of that Article.
 
 *Arts. 14—17 rep. by 1996 NI 16*
 
@@ -446,7 +446,7 @@ Regulation 1 of the Indiarubber Regulations 1922[^c11632261].
 
 Regulation 5(2) of the Electric Accumulator Special Regulations (Northern Ireland) 1945[^c11632271].
 
-[^key-5d843b752e169aa41fedae5edcb60dba]...
+[^c-5d843b752e169aa41fedae5edcb60dba]...
 
 Article 20(8) of the Air Navigation Order 1985[^c11632281] so far as relating to pregnancy.
 
@@ -484,7 +484,7 @@ Article 19(4).
 
 ## Annotations
 
-[^key-464483cb440f4f03f7975255847d9a5d]: Modification: [Order](https://www.legislation.gov.uk/nisi/1990/246): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-464483cb440f4f03f7975255847d9a5d]: Modification: [Order](https://www.legislation.gov.uk/nisi/1990/246): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c11631701]: Textual amendment: fully exercised by SRs 1990/277; 1997/385 (C.23)
 
@@ -496,11 +496,11 @@ Article 19(4).
 
 [^c11631751]: Textual amendment: SR 2001/282
 
-[^key-fbbf5b904de126a96ee99704f433b5ee]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/nisi/1990/246/article/3/3) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [21(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/21/a)
+[^c-fbbf5b904de126a96ee99704f433b5ee]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/nisi/1990/246/article/3/3) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [21(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/21/a)
 
-[^key-1e795787562f7c971f066c9bca68795c]: Textual amendment: Words in [art. 3(3)(a)](https://www.legislation.gov.uk/nisi/1990/246/article/3/3/a) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/21/b)
+[^c-1e795787562f7c971f066c9bca68795c]: Textual amendment: Words in [art. 3(3)(a)](https://www.legislation.gov.uk/nisi/1990/246/article/3/3/a) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/21/b)
 
-[^key-63bf49386de85bb236ac85e81e4f07f5]: Textual amendment: Words in [art. 3(3)(b)](https://www.legislation.gov.uk/nisi/1990/246/article/3/3/b) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [21(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/21/c)
+[^c-63bf49386de85bb236ac85e81e4f07f5]: Textual amendment: Words in [art. 3(3)(b)](https://www.legislation.gov.uk/nisi/1990/246/article/3/3/b) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [21(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/21/c)
 
 [^c11631871]: Textual amendment: functions transf. by SR 1999/481
 
@@ -514,19 +514,19 @@ Article 19(4).
 
 [^c11631921]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-f74594591216803b507b59bb1d5bec7f]: Modification: Art. 10: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f74594591216803b507b59bb1d5bec7f]: Modification: Art. 10: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-6197e9bc9df7093315e218f5b615b565]: Textual amendment: Words in art. 10(1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 37(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/37/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6197e9bc9df7093315e218f5b615b565]: Textual amendment: Words in art. 10(1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 37(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/37/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c11631931]: Textual amendment: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29)
 
 [^c11631941]: Textual amendment: [1978 c. 6](https://www.legislation.gov.uk/ukpga/1978/6)
 
-[^key-40116a975ead6e7daec17d990f731242]: Textual amendment: Words in art. 10(3)(b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 37(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/37/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-40116a975ead6e7daec17d990f731242]: Textual amendment: Words in art. 10(3)(b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 37(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/37/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-991f88f561350a1d01ff72901dacb6a5]: Textual amendment: Art. 10(4)(za) inserted (coming into force in accordance with reg. 1(1) of the amending Regulation) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/3/a)
+[^c-991f88f561350a1d01ff72901dacb6a5]: Textual amendment: Art. 10(4)(za) inserted (coming into force in accordance with reg. 1(1) of the amending Regulation) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/3/a)
 
-[^key-fa99defbac8923d96c4dc22e2caedd39]: Textual amendment: Art. 10(4)(b) substituted (coming into force in accordance with reg. 1(1) of the amending Regulation) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/3/b)
+[^c-fa99defbac8923d96c4dc22e2caedd39]: Textual amendment: Art. 10(4)(b) substituted (coming into force in accordance with reg. 1(1) of the amending Regulation) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/3/b)
 
 [^c11631991]: Textual amendment: [1965 c. 20 (N.I.)](https://www.legislation.gov.uk/apni/1965/20)
 
@@ -540,35 +540,35 @@ Article 19(4).
 
 [^c11632041]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fee828bc1dcc4568afe3b3eff243a92a]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/nisi/1990/246/article/13) heading substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(8)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/8), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-fee828bc1dcc4568afe3b3eff243a92a]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/nisi/1990/246/article/13) heading substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(8)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/8), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
-[^key-e90b1d8fbfa073af9b33a98faff53c9c]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/nisi/1990/246/article/13/1) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-e90b1d8fbfa073af9b33a98faff53c9c]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/nisi/1990/246/article/13/1) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
-[^key-91d973e480fa59efb1cc811956a292e7]: Textual amendment: Words in [art. 13(2)(a)](https://www.legislation.gov.uk/nisi/1990/246/article/13/2/a) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-91d973e480fa59efb1cc811956a292e7]: Textual amendment: Words in [art. 13(2)(a)](https://www.legislation.gov.uk/nisi/1990/246/article/13/2/a) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
-[^key-960750b6cf5262af94d254619d26ad9f]: Textual amendment: Words in [art. 13(5)](https://www.legislation.gov.uk/nisi/1990/246/article/13/5) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/4), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-960750b6cf5262af94d254619d26ad9f]: Textual amendment: Words in [art. 13(5)](https://www.legislation.gov.uk/nisi/1990/246/article/13/5) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/4), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
-[^key-aabf9338edc00bfb2bd65ea0a30e3ed3]: Textual amendment: [Art. 13(6A)](https://www.legislation.gov.uk/nisi/1990/246/article/13/6A)[(6B)](https://www.legislation.gov.uk/nisi/1990/246/article/13/6B) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/5), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-aabf9338edc00bfb2bd65ea0a30e3ed3]: Textual amendment: [Art. 13(6A)](https://www.legislation.gov.uk/nisi/1990/246/article/13/6A)[(6B)](https://www.legislation.gov.uk/nisi/1990/246/article/13/6B) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/5), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
-[^key-0e06db7fc6cfe3f9ed01e5f8357139da]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/1990/246/article/13/7) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/6/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-0e06db7fc6cfe3f9ed01e5f8357139da]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/1990/246/article/13/7) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/6/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
-[^key-f373c05fe5f54b7ddba12fb3640f9f2d]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/1990/246/article/13/7) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/6/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-f373c05fe5f54b7ddba12fb3640f9f2d]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/1990/246/article/13/7) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/6/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
 [^c11632061]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-dade1b76600bedc0e3772b1dbcc71635]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/1990/246/article/13/7) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(6)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/6/c), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-dade1b76600bedc0e3772b1dbcc71635]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/1990/246/article/13/7) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(6)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/6/c), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
-[^key-ee021d9c1ffe80c8f9b13c28801b550f]: Textual amendment: Words in [art. 13(8)(b)](https://www.legislation.gov.uk/nisi/1990/246/article/13/8/b) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/7), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
+[^c-ee021d9c1ffe80c8f9b13c28801b550f]: Textual amendment: Words in [art. 13(8)(b)](https://www.legislation.gov.uk/nisi/1990/246/article/13/8/b) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/7), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(1)](https://www.legislation.gov.uk/uksi/2015/994/article/12/1))
 
 [^c11631971]: Textual amendment: [1997 NI 6](https://www.legislation.gov.uk/nisi/1997)
 
 [^c11632071]: Textual amendment: SR 2003/341
 
-[^key-d4ff4867039941b799cb279b8aa4155c]: Textual amendment: Words in [art. 13A(1)(a)](https://www.legislation.gov.uk/nisi/1990/246/article/13A/1/a) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(10)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/10/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(2)](https://www.legislation.gov.uk/uksi/2015/994/article/12/2))
+[^c-d4ff4867039941b799cb279b8aa4155c]: Textual amendment: Words in [art. 13A(1)(a)](https://www.legislation.gov.uk/nisi/1990/246/article/13A/1/a) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(10)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/10/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(2)](https://www.legislation.gov.uk/uksi/2015/994/article/12/2))
 
-[^key-bcd5dd470b529a13311413133b3b0e41]: Textual amendment: Words in [art. 13A(1)(b)](https://www.legislation.gov.uk/nisi/1990/246/article/13A/1/b) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(10)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/10/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(2)](https://www.legislation.gov.uk/uksi/2015/994/article/12/2))
+[^c-bcd5dd470b529a13311413133b3b0e41]: Textual amendment: Words in [art. 13A(1)(b)](https://www.legislation.gov.uk/nisi/1990/246/article/13A/1/b) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(10)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/10/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(2)](https://www.legislation.gov.uk/uksi/2015/994/article/12/2))
 
-[^key-406b741770dfc6708644e0dcf3a67b07]: Textual amendment: Words in [art. 13A(3)](https://www.legislation.gov.uk/nisi/1990/246/article/13A/3) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(11)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/11), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(2)](https://www.legislation.gov.uk/uksi/2015/994/article/12/2))
+[^c-406b741770dfc6708644e0dcf3a67b07]: Textual amendment: Words in [art. 13A(3)](https://www.legislation.gov.uk/nisi/1990/246/article/13A/3) substituted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 7(11)](https://www.legislation.gov.uk/ukpga/2015/20/section/7/11), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(c)](https://www.legislation.gov.uk/uksi/2015/994/article/11/c) (with [art. 12(2)](https://www.legislation.gov.uk/uksi/2015/994/article/12/2))
 
 [^c11632191]: Textual amendment: functions transf. by SR 1999/481
 
@@ -584,7 +584,7 @@ Article 19(4).
 
 [^c11632271]: Textual amendment: S.R. & O. (N.I.) [1945 No. 41](https://www.legislation.gov.uk/ukcm/1945/41)
 
-[^key-5d843b752e169aa41fedae5edcb60dba]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1990/246/schedule/1) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/1) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
+[^c-5d843b752e169aa41fedae5edcb60dba]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1990/246/schedule/1) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/1) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
 
 [^c11632281]: Textual amendment: [S.I. 1985/1643](https://www.legislation.gov.uk/uksi/1985/1643)
 

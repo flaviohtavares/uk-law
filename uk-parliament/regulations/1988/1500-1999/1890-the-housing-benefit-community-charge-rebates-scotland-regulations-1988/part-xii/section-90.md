@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Exchange of information[^key-9ecfea850431bab2ab4038bd583ffec3]
+## 90. Exchange of information[^c-9ecfea850431bab2ab4038bd583ffec3]
 
 *Extent: E+W+S*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) References in those Regulations to an “authority” or “authorities” include a levying authority within the meaning of paragraph 1 of Schedule 2 to the 1987 Act.
 
-(3) In addition to any information which may be supplied by the Secretary of State in accordance with paragraph (1), the Secretary of State may supply to a levying authority the name, date of birth.[^key-ab4933c6944fe15144d7603c90125abf] and address of any person who is in receipt of income support and of any partner he may have.
+(3) In addition to any information which may be supplied by the Secretary of State in accordance with paragraph (1), the Secretary of State may supply to a levying authority the name, date of birth.[^c-ab4933c6944fe15144d7603c90125abf] and address of any person who is in receipt of income support and of any partner he may have.
 
 ## Annotations
 
-[^key-9ecfea850431bab2ab4038bd583ffec3]: Commencement: Reg. 90 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-9ecfea850431bab2ab4038bd583ffec3]: Commencement: Reg. 90 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00064]: Footnote: S.I. [1988/662](https://www.legislation.gov.uk/uksi/1988/662).
 
-[^key-ab4933c6944fe15144d7603c90125abf]: Textual amendment: Words in [reg. 90(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/90/3) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [15](https://www.legislation.gov.uk/uksi/1989/361/regulation/15)
+[^c-ab4933c6944fe15144d7603c90125abf]: Textual amendment: Words in [reg. 90(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/90/3) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [15](https://www.legislation.gov.uk/uksi/1989/361/regulation/15)

@@ -41,11 +41,11 @@ Coming into force
 
 The Office for Students, in exercise of the powers conferred by section 42(1) of the Higher Education and Research Act 2017[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-9cd519f44542469814f0ee40a76ac0f0]
+## 1. Citation and commencement[^c-9cd519f44542469814f0ee40a76ac0f0]
 
 This Order may be cited as the Power to Award Degrees etc. (The London Interdisciplinary School Ltd) Order 2020 and shall come into force on 27th September 2021.
 
-## 2. Competence to grant awards[^key-fe36c01f86b1ab4725a5b50905fee049]
+## 2. Competence to grant awards[^c-fe36c01f86b1ab4725a5b50905fee049]
 
 The London Interdisciplinary School Ltd (registered company number 11082840) shall be competent to grant the following specified taught awards of the kind mentioned in section 42(2)(b) of the said Act:
 
@@ -69,9 +69,9 @@ The London Interdisciplinary School Ltd (registered company number 11082840) sha
 
 (10) PGCert in Interdisciplinary Problems and Methods.
 
-**3.**[^key-71dd78dbe800e483bdd1b961bc225a6a] The London Interdisciplinary School Ltd shall only be competent to grant the specified taught awards[^key-8b1c3bccdeb63815f74363e7b8b0ad83] mentioned in article[^key-21e466445f09ec13d40d8f4e36965b19] 2 of this Order for a fixed term beginning on 27th September 2021 and expiring on 31st December 2024.
+**3.**[^c-71dd78dbe800e483bdd1b961bc225a6a] The London Interdisciplinary School Ltd shall only be competent to grant the specified taught awards[^c-8b1c3bccdeb63815f74363e7b8b0ad83] mentioned in article[^c-21e466445f09ec13d40d8f4e36965b19] 2 of this Order for a fixed term beginning on 27th September 2021 and expiring on 31st December 2024.
 
-**4.**[^key-2d594dc6ffeaf6ff242752a53160f3d5] The London Interdisciplinary School Ltd shall only grant the awards[^key-faa99501c55917d1a27b5f6b02a573e2] specified in article[^key-64806fe93e6ddd6512261dc2d77ecde0] 2 of this Order to persons enrolled with it at the time they complete the course of study for which the award is granted.
+**4.**[^c-2d594dc6ffeaf6ff242752a53160f3d5] The London Interdisciplinary School Ltd shall only grant the awards[^c-faa99501c55917d1a27b5f6b02a573e2] specified in article[^c-64806fe93e6ddd6512261dc2d77ecde0] 2 of this Order to persons enrolled with it at the time they complete the course of study for which the award is granted.
 
 Susan Lapworth
 
@@ -91,18 +91,18 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2017 c.29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-9cd519f44542469814f0ee40a76ac0f0]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1) in force at 27.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1)
+[^c-9cd519f44542469814f0ee40a76ac0f0]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1) in force at 27.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1)
 
-[^key-fe36c01f86b1ab4725a5b50905fee049]: Textual amendment: Art. 2 substituted (26.9.2023) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2023 (S.I. 2023/893)](https://www.legislation.gov.uk/uksi/2023/893), [arts. 1](https://www.legislation.gov.uk/uksi/2023/893/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/893/article/2/2)
+[^c-fe36c01f86b1ab4725a5b50905fee049]: Textual amendment: Art. 2 substituted (26.9.2023) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2023 (S.I. 2023/893)](https://www.legislation.gov.uk/uksi/2023/893), [arts. 1](https://www.legislation.gov.uk/uksi/2023/893/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/893/article/2/2)
 
-[^key-71dd78dbe800e483bdd1b961bc225a6a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1615/article/3) in force at 27.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1)
+[^c-71dd78dbe800e483bdd1b961bc225a6a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1615/article/3) in force at 27.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1)
 
-[^key-8b1c3bccdeb63815f74363e7b8b0ad83]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2020/1615/article/3) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/3)
+[^c-8b1c3bccdeb63815f74363e7b8b0ad83]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2020/1615/article/3) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/3)
 
-[^key-21e466445f09ec13d40d8f4e36965b19]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2020/1615/article/3) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/5)
+[^c-21e466445f09ec13d40d8f4e36965b19]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2020/1615/article/3) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/5)
 
-[^key-2d594dc6ffeaf6ff242752a53160f3d5]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1615/article/4) in force at 27.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1)
+[^c-2d594dc6ffeaf6ff242752a53160f3d5]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1615/article/4) in force at 27.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1615/article/1)
 
-[^key-faa99501c55917d1a27b5f6b02a573e2]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2020/1615/article/4) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/4)
+[^c-faa99501c55917d1a27b5f6b02a573e2]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2020/1615/article/4) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/4)
 
-[^key-64806fe93e6ddd6512261dc2d77ecde0]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2020/1615/article/4) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/5)
+[^c-64806fe93e6ddd6512261dc2d77ecde0]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2020/1615/article/4) substituted (1.1.2022) by [The Power to Award Degrees etc. (The London Interdisciplinary School Ltd) (Amendment) Order 2021 (S.I. 2021/1439)](https://www.legislation.gov.uk/uksi/2021/1439), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1439/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1439/article/2/5)

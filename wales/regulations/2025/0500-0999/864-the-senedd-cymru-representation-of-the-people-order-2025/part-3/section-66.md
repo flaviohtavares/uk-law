@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Property, goods, services etc. provided free of charge or at a discount[^key-abc9f771e318c4a0076c37b7bf673f33]
+## 66. Property, goods, services etc. provided free of charge or at a discount[^c-abc9f771e318c4a0076c37b7bf673f33]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ that is reasonably attributable to the use made of the property, goods, services
 
 ## Annotations
 
-[^key-abc9f771e318c4a0076c37b7bf673f33]: Commencement: Art. 66 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-abc9f771e318c4a0076c37b7bf673f33]: Commencement: Art. 66 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

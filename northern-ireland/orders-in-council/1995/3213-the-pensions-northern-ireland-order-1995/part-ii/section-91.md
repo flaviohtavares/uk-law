@@ -24,7 +24,7 @@ summary: ''
 
 (2) A person's entitlement right may be forfeited by reason of paragraph (1) to the extent only that it does not exceed the amount of the monetary obligation in question, or (if less) the value (determined in the prescribed manner) of the person's entitlement or right.
 
-(3) Such forfeiture as is mentioned in paragraph (1) must not take effect where a dispute has arisen[^key-a6e3b8bfc34d19d632c840c7c570b96a] as to the amount of the monetary obligation in question, unless —[^key-eaf92b1470ee21c83e5fd9c99c6b6755]
+(3) Such forfeiture as is mentioned in paragraph (1) must not take effect where a dispute has arisen[^c-a6e3b8bfc34d19d632c840c7c570b96a] as to the amount of the monetary obligation in question, unless —[^c-eaf92b1470ee21c83e5fd9c99c6b6755]
 
 - (a) the dispute has been resolved by the parties to it,
 - (b) the Pensions Ombudsman has made a determination under [Part 10](https://www.legislation.gov.uk/ukpga/1993/49/part/10) of the [Pension Schemes (Northern Ireland) Act 1993](https://www.legislation.gov.uk/ukpga/1993/49/contents) or [Part 10](https://www.legislation.gov.uk/ukpga/1993/48/part/10) of the [Pension Schemes Act 1993](https://www.legislation.gov.uk/ukpga/1993/48/contents) (investigations) as to the amount of the monetary obligation in question, or
@@ -40,6 +40,6 @@ summary: ''
 
 [^c17252441]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-a6e3b8bfc34d19d632c840c7c570b96a]: Textual amendment: Words in [art. 91(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/91/3) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(6)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/6/a), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
+[^c-a6e3b8bfc34d19d632c840c7c570b96a]: Textual amendment: Words in [art. 91(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/91/3) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(6)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/6/a), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
 
-[^key-eaf92b1470ee21c83e5fd9c99c6b6755]: Textual amendment: [Art. 91(3)(a)-(c)](https://www.legislation.gov.uk/nisi/1995/3213/article/91/3/a) substituted for words (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(6)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/6/b), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
+[^c-eaf92b1470ee21c83e5fd9c99c6b6755]: Textual amendment: [Art. 91(3)(a)-(c)](https://www.legislation.gov.uk/nisi/1995/3213/article/91/3/a) substituted for words (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(6)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/6/b), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)

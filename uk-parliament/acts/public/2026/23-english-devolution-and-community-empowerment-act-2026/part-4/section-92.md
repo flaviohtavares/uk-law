@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Audit providers to nominate lead partner[^key-5b79ed4b7e270d24125ec72ec6e7bb75]
+## 92. Audit providers to nominate lead partner[^c-5b79ed4b7e270d24125ec72ec6e7bb75]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ In the Local Audit and Accountability Act 2014, before section 20 insert—
 
 ## Annotations
 
-[^key-5b79ed4b7e270d24125ec72ec6e7bb75]: Commencement: S. 92 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-5b79ed4b7e270d24125ec72ec6e7bb75]: Commencement: S. 92 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

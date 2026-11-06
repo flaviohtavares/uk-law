@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Right to dredge[^key-94b162a3f7ee36b4297f6179fcaa9d60]
+## 62. Right to dredge[^c-94b162a3f7ee36b4297f6179fcaa9d60]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94b162a3f7ee36b4297f6179fcaa9d60]: Commencement: Art. 62 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-94b162a3f7ee36b4297f6179fcaa9d60]: Commencement: Art. 62 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
 [^f00027]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Section 232(2) was amended by section 29(1) of, and paragraph 14 of Schedule 6 to, the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28); section 233 was amended by section 21, and section 240 by section 22, of the 1997 Act.

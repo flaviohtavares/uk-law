@@ -53,10 +53,10 @@ summary: ''
 
 (9) The power conferred by section 157(2)(c) of the Copyright, Designs and Patents Act 1988 (power to extend to British overseas territories) is exercisable in relation to any amendment made by this Act to Part 1 of that Act.
 
-(10)[^key-3d418fa99074d8ae72c7f7a88cea567e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-3d418fa99074d8ae72c7f7a88cea567e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-3d418fa99074d8ae72c7f7a88cea567e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-3d418fa99074d8ae72c7f7a88cea567e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d418fa99074d8ae72c7f7a88cea567e]: Textual amendment: [S. 119(10)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/10)[(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/11) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(2)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/2/b), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-3d418fa99074d8ae72c7f7a88cea567e]: Textual amendment: [S. 119(10)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/10)[(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/11) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(2)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/2/b), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)

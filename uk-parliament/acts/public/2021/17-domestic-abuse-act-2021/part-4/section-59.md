@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Annual reports[^key-3526a4254a10f0559984c3eaf79743ec]
+## 59. Annual reports[^c-3526a4254a10f0559984c3eaf79743ec]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3526a4254a10f0559984c3eaf79743ec]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/17/section/59) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)
+[^c-3526a4254a10f0559984c3eaf79743ec]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/17/section/59) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)

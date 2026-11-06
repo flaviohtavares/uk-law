@@ -22,16 +22,16 @@ summary: ''
 
 (1)[^c12829811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-5ae790fe4fc8c9e89a4bad452f266880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5ae790fe4fc8c9e89a4bad452f266880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c12829811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-30919bb6236eeb5b215d6205e361e1e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-30919bb6236eeb5b215d6205e361e1e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c12829811]: Textual amendment: S. 27(1)(3) repealed*(for accounting periods beginning on or after 19.03.1991)* by [Finance Act 1991 (c. 31, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1991/31), [s. 123](https://www.legislation.gov.uk/ukpga/1991/31/section/123), [Sch. 19 Pt.V](https://www.legislation.gov.uk/ukpga/1991/31/schedule/19/part/V) Note 5.
 
-[^key-5ae790fe4fc8c9e89a4bad452f266880]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1990/29/section/27/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5ae790fe4fc8c9e89a4bad452f266880]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1990/29/section/27/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-30919bb6236eeb5b215d6205e361e1e5]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/1990/29/section/27/4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-30919bb6236eeb5b215d6205e361e1e5]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/1990/29/section/27/4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

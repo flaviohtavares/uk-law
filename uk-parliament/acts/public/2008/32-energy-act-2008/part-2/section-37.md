@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. The renewables obligation[^c1952842][^key-60030e2a47d65b9921cabef0604a9768]
+## 37. The renewables obligation[^c1952842][^c-60030e2a47d65b9921cabef0604a9768]
 
 *Extent: E+W+S+N.I.*
 
@@ -226,7 +226,7 @@ For sections 32 to 32C of the Electricity Act 1989 (c. 29) substitute—
 > - (c) the effect of paragraph 19 of Schedule 6 to the Finance Act 2000 (c. 17) (supplies of electricity from renewable sources exempted from climate change levy) in relation to electricity generated from each of those sources;
 > - (d) the desirability of securing the long term growth, and economic viability, of the industries associated with the generation of electricity from renewable sources;
 > - (e) the likely effect of the proposed banding provision on the number of renewables obligation certificates issued by the Authority, and the impact this will have on the market for such certificates and on consumers;
-> - (f) the potential contribution of electricity generated from each renewable source to the attainment of any target which relates to the generation of electricity or the production of energy and is imposed by, or results from or arises out of, an EU[^key-78d9af63571cd493e6db395c43fa57dd] obligation.
+> - (f) the potential contribution of electricity generated from each renewable source to the attainment of any target which relates to the generation of electricity or the production of energy and is imposed by, or results from or arises out of, an EU[^c-78d9af63571cd493e6db395c43fa57dd] obligation.
 >
 > (5) For the purposes of subsection (4)(a), the costs associated with generating electricity from a renewable source include any costs associated with the production or supply of heat produced in connection with that generation.
 >
@@ -493,6 +493,6 @@ For sections 32 to 32C of the Electricity Act 1989 (c. 29) substitute—
 
 [^c1952842]: Commencement: S. 37 partly in force; s. 37 in force for certain purposes at Royal Assent, see s. 110(1)(a)
 
-[^key-60030e2a47d65b9921cabef0604a9768]: Commencement: S. 37 in force at 1.4.2009 in so far as not already in force by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/45/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/45/article/5))
+[^c-60030e2a47d65b9921cabef0604a9768]: Commencement: S. 37 in force at 1.4.2009 in so far as not already in force by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/45/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/45/article/5))
 
-[^key-78d9af63571cd493e6db395c43fa57dd]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[, 4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-78d9af63571cd493e6db395c43fa57dd]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[, 4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

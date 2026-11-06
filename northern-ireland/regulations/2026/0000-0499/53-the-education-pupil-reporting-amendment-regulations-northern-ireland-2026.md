@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of Education[^f00001], in exercise of the powers conferred by Articles 24(1) to (3) and (5) and 43(5) of the Education (Northern Ireland) Order 2006[^f00002], and after consulting as required by Article 24(4) of that Order, makes the following Regulations:
 
-## 1. Citation and commencement[^key-820eb790591155d9d192bc6d52fd41a6]
+## 1. Citation and commencement[^c-820eb790591155d9d192bc6d52fd41a6]
 
 These Regulations may be cited as the Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 30th March 2026.
 
-## 2. Interpretation[^key-354c92f219747d0c263667ce227399c0]
+## 2. Interpretation[^c-354c92f219747d0c263667ce227399c0]
 
 In these Regulations—
 
 - “**the 2009 Regulations**” means the Education (Pupil Reporting) Regulations (Northern Ireland) 2009[^f00003].
 
-## 3. Amendment of the 2009 Regulations[^key-7159d2a7a5b06fde68aed1620557d0e4]
+## 3. Amendment of the 2009 Regulations[^c-7159d2a7a5b06fde68aed1620557d0e4]
 
 (1) The 2009 Regulations are amended in accordance with paragraphs (2) to (4).
 
@@ -82,10 +82,10 @@ These Regulations amend the Education (Pupil Reporting) Regulations (Northern Ir
 
 [^f00002]: Footnote: [S.I. 2006/1915 (N.I. 11)](https://www.legislation.gov.uk/nisi/2006/1915)
 
-[^key-820eb790591155d9d192bc6d52fd41a6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1) in operation at 30.3.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1)
+[^c-820eb790591155d9d192bc6d52fd41a6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1) in operation at 30.3.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1)
 
-[^key-354c92f219747d0c263667ce227399c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/53/regulation/2) in operation at 30.3.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1)
+[^c-354c92f219747d0c263667ce227399c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/53/regulation/2) in operation at 30.3.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2009 No. 231](https://www.legislation.gov.uk/nisr/2009/231)
 
-[^key-7159d2a7a5b06fde68aed1620557d0e4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/53/regulation/3) in operation at 30.3.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1)
+[^c-7159d2a7a5b06fde68aed1620557d0e4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/53/regulation/3) in operation at 30.3.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1)

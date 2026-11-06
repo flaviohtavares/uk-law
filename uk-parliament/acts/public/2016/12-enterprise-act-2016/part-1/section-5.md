@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Enquiry into, consideration and determination of complaints[^c22567791][^key-23b68184d81016ea91cebacac3772f7e]
+## 5. Enquiry into, consideration and determination of complaints[^c22567791][^c-23b68184d81016ea91cebacac3772f7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22567791]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/12/section/5) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
 
-[^key-23b68184d81016ea91cebacac3772f7e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/12/section/5) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+[^c-23b68184d81016ea91cebacac3772f7e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/12/section/5) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

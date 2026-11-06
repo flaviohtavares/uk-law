@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.84. Withdrawal or variation of proof[^key-96defb8f6cdf53dd74c7d7561b740504]
+## 4.84. Withdrawal or variation of proof[^c-96defb8f6cdf53dd74c7d7561b740504]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor's proof may at any time, by agreement between himself and the liquida
 
 ## Annotations
 
-[^key-96defb8f6cdf53dd74c7d7561b740504]: Commencement: [Rule 4.84](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.84) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-96defb8f6cdf53dd74c7d7561b740504]: Commencement: [Rule 4.84](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.84) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -202,7 +202,7 @@ The Agency shall have power—
 
 (1) Subject to subsection (4) below, for or in connection with the performance of any of their functions under this Act, the Agency may, in accordance with arrangements made with the Secretary of State—
 
-- (a) by agreement acquire land, whether by way of purchase, feu, *(affected by repeal, see note)*[^key-7a76bf4401c2aa73b9356473019ea3dc] lease or excambion;
+- (a) by agreement acquire land, whether by way of purchase, feu, *(affected by repeal, see note)*[^c-7a76bf4401c2aa73b9356473019ea3dc] lease or excambion;
 - (b) acquire land compulsorily;
 - (c) hold and manage land acquired by them and dispose of, or otherwise deal with, such land.
 
@@ -250,7 +250,7 @@ In this subsection “**appropriate Minister**” and “**statutory undertakers
 
 *Extent: N.I.*
 
-(1) For the purpose of enabling the Secretary of State or the Agency to make an order or serve any notice or other document which, by any of the provisions of this Act, he or they are authorised or required to make or serve, the Secretary of State or the Agency may require the occupier of any premises, and any person who, either directly or indirectly, receives rent in respect of any premises, to state in writing the nature of his interest therein, and the name and address of any other person known to him as having an interest therein, whether as superior, *(affected by repeal, see note)*[^key-e7e2be3cceda09b08b3b011c7c027fa0] owner, heritable creditor, lessee or otherwise.
+(1) For the purpose of enabling the Secretary of State or the Agency to make an order or serve any notice or other document which, by any of the provisions of this Act, he or they are authorised or required to make or serve, the Secretary of State or the Agency may require the occupier of any premises, and any person who, either directly or indirectly, receives rent in respect of any premises, to state in writing the nature of his interest therein, and the name and address of any other person known to him as having an interest therein, whether as superior, *(affected by repeal, see note)*[^c-e7e2be3cceda09b08b3b011c7c027fa0] owner, heritable creditor, lessee or otherwise.
 
 (2) Any person who, having been required in pursuance of this section to give any information, refuses or fails without reasonable cause to give that information shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c928638].
 
@@ -390,7 +390,7 @@ Section 9 of the [^c928674]Industry Act 1975 as amended by the Cable and Broadca
 
 ## Powers of the Secretary of State
 
-### 20. Scottish Industrial Development Advisory Board.[^key-a05610e306f208794fd79c24390e440a]
+### 20. Scottish Industrial Development Advisory Board.[^c-a05610e306f208794fd79c24390e440a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -432,7 +432,7 @@ In this section, “**Crown land**” means land an interest in which belongs to
 
 - “ **financial year** ” means the period beginning with the commencement of this Act and ending with 31st March 1976, and each subsequent period of twelve months ending with 31st March;
 - “ **industry** ” includes any description of commercial activity, and any section of an industry, and “ **industrial** ” shall be construed accordingly;
-- “[^key-64b9c0e09f46df17cdad415fa9002218] **land** ” includes—
+- “[^c-64b9c0e09f46df17cdad415fa9002218] **land** ” includes—
   - the foreshore and other land covered with water;
   - any interest in, or right over, land; and
   - any other heritable property;
@@ -900,7 +900,7 @@ Section 27(2).
 
 [^c928613]: Textual amendment: Act except ss. 1, 20, 28, and paras. 1 to 6, 11 to 14, 16 and 17 of Sch. 1 repealed (E.W.S.) (1.4.1991) by [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/1990/35/section/22/1), [23(4)](https://www.legislation.gov.uk/ukpga/1990/35/section/23/4), [38(2)](https://www.legislation.gov.uk/ukpga/1990/35/section/38/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1990/35/schedule/3), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1990/35/schedule/5/part/II); Enterprise and New Towns (Scotland) Act 1990 Transfer Dates Order dated 1.3.1991.
 
-[^key-7a76bf4401c2aa73b9356473019ea3dc]: Textual amendment: Word in [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1975/69/section/9/1/a) ceases to have effect (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 37(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/37/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-7a76bf4401c2aa73b9356473019ea3dc]: Textual amendment: Word in [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1975/69/section/9/1/a) ceases to have effect (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 37(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/37/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c928614]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19)
 
@@ -926,7 +926,7 @@ Section 27(2).
 
 [^c928637]: Textual amendment: Act except ss. 1, 20, 28, and paras. 1 to 6, 11 to 14, 16 and 17 of Sch. 1 repealed (E.W.S.) (1.4.1991) by [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/1990/35/section/22/1), [23(4)](https://www.legislation.gov.uk/ukpga/1990/35/section/23/4), [38(2)](https://www.legislation.gov.uk/ukpga/1990/35/section/38/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1990/35/schedule/3), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1990/35/schedule/5/part/II); Enterprise and New Towns (Scotland) Act 1990 Transfer Dates Order dated 1.3.1991.
 
-[^key-e7e2be3cceda09b08b3b011c7c027fa0]: Textual amendment: Word in [s. 11(1)](https://www.legislation.gov.uk/ukpga/1975/69/section/11/1) ceases to have effect (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 37(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/37/3), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-e7e2be3cceda09b08b3b011c7c027fa0]: Textual amendment: Word in [s. 11(1)](https://www.legislation.gov.uk/ukpga/1975/69/section/11/1) ceases to have effect (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 37(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/37/3), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c928638]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
@@ -980,7 +980,7 @@ Section 27(2).
 
 [^c928680]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1975/69/section/19) ceased to have effect (E.W.S.) (26.7.1990 with effect as mentioned in Sch. 3 para. 5 of amending Act) by virtue of [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/1990/35/section/23/4), [39(3)(a)](https://www.legislation.gov.uk/ukpga/1990/35/section/39/3/a), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1990/35/schedule/3/paragraph/5).
 
-[^key-a05610e306f208794fd79c24390e440a]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/1975/69/section/20) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 5(2)](https://www.legislation.gov.uk/asp/2010/8/section/5/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a05610e306f208794fd79c24390e440a]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/1975/69/section/20) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 5(2)](https://www.legislation.gov.uk/asp/2010/8/section/5/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c928687]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1975/69/section/21) repealed by [Highlands and Islands Air Services (Scotland) Act 1980 (c. 19, SIF 64)](https://www.legislation.gov.uk/ukpga/1980/19), [s. 4](https://www.legislation.gov.uk/ukpga/1980/19/section/4)
 
@@ -996,7 +996,7 @@ Section 27(2).
 
 [^c928702]: Textual amendment: Act except ss. 1, 20, 28, and paras. 1 to 6, 11 to 14, 16 and 17 of Sch. 1 repealed (E.W.S.) (1.4.1991) by [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/1990/35/section/22/1), [23(4)](https://www.legislation.gov.uk/ukpga/1990/35/section/23/4), [38(2)](https://www.legislation.gov.uk/ukpga/1990/35/section/38/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1990/35/schedule/3), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1990/35/schedule/5/part/II); Enterprise and New Towns (Scotland) Act 1990 Transfer Dates Order dated 1.3.1991.
 
-[^key-64b9c0e09f46df17cdad415fa9002218]: Textual amendment: Words in s. 25(1) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 37(4)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/37/4) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-64b9c0e09f46df17cdad415fa9002218]: Textual amendment: Words in s. 25(1) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 37(4)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/37/4) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c928703]: Textual amendment: Words substituted by [Companies Consolidation (Consequential Provisions) Act 1985 (c. 9, SIF 27)](https://www.legislation.gov.uk/ukpga/1985/9), [s. 30](https://www.legislation.gov.uk/ukpga/1985/9/section/30), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2)
 

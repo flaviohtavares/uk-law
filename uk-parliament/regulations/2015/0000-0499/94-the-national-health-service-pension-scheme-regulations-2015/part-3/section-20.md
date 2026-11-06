@@ -33,7 +33,7 @@ summary: ''
   - (i) in determining M's entitlement to the pension in payment or, as the case may be, the deferred pension; or
   - (ii) in calculating the amount of the pension;
 - (c) a period of service in which the Secretary of State's liability to provide benefits is discharged—
-  - (i) by the payment of a contributions equivalent premium under section 55(2) of the 1993 Act [^c22361351] or article 3 of the 2016 Order[^key-b3f586b1a82070984939fedbcd54024c];
+  - (i) by the payment of a contributions equivalent premium under section 55(2) of the 1993 Act [^c22361351] or article 3 of the 2016 Order[^c-b3f586b1a82070984939fedbcd54024c];
   - (ii) under regulation 42 (effect of refund); or
   - (iii) by the payment of a transfer value payment on transfer out under Part 7 (transfers).
 
@@ -64,4 +64,4 @@ paragraph (2)(b) applies only to so much of M's pensionable service as is mentio
 
 [^c22361351]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Section 55(2) was substituted by section 141(1) of the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26) and amended by section 18 of, and paragraph 7 of Schedule 2 to, the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and sections 15 and 27 of, and paragraphs 1 and 26 of Schedule 4 and Part 6 of Schedule 7 to, the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22).
 
-[^key-b3f586b1a82070984939fedbcd54024c]: Textual amendment: Words in [reg. 20(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/94/regulation/20/2/c/i) inserted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2019/418/regulation/77)
+[^c-b3f586b1a82070984939fedbcd54024c]: Textual amendment: Words in [reg. 20(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/94/regulation/20/2/c/i) inserted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2019/418/regulation/77)

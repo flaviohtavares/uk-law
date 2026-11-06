@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Modification of contracts during their term[^key-132b98a7c702b2a75ac964c9f8c51930]
+## 86. Modification of contracts during their term[^c-132b98a7c702b2a75ac964c9f8c51930]
 
 *Extent: S*
 
@@ -35,9 +35,9 @@ summary: ''
 - (e) where the modifications, irrespective of their value, are not substantial (as defined in paragraph (7)); or
 - (f) where paragraph (4) applies.
 
-(2) A utility which has modified a contract or framework agreement in either of the cases described in paragraph (1)(b) or (c) must submit[^key-3333cd3885402cbf433ab36d297cd7dc] a notice to that effect for publication in accordance with regulation 69 (publication on the UK e-notification service[^key-f191af46c1b8170122382b69565ea076]).
+(2) A utility which has modified a contract or framework agreement in either of the cases described in paragraph (1)(b) or (c) must submit[^c-3333cd3885402cbf433ab36d297cd7dc] a notice to that effect for publication in accordance with regulation 69 (publication on the UK e-notification service[^c-f191af46c1b8170122382b69565ea076]).
 
-(3) The notice referred to in paragraph (2) must contain the information set out in Annex XVI to the Utilities Contracts Directive , but as if paragraph 10 (financing by EU funds) were omitted[^key-bb82f59bee363782b9ad56bfb9dca964].
+(3) The notice referred to in paragraph (2) must contain the information set out in Annex XVI to the Utilities Contracts Directive , but as if paragraph 10 (financing by EU funds) were omitted[^c-bb82f59bee363782b9ad56bfb9dca964].
 
 (4) This paragraph applies where the value of the modification is below both of the following values—
 
@@ -65,10 +65,10 @@ provided that the modification does not alter the overall nature of the contract
 
 ## Annotations
 
-[^key-132b98a7c702b2a75ac964c9f8c51930]: Commencement: [Reg. 86](https://www.legislation.gov.uk/ssi/2016/49/regulation/86) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-132b98a7c702b2a75ac964c9f8c51930]: Commencement: [Reg. 86](https://www.legislation.gov.uk/ssi/2016/49/regulation/86) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-3333cd3885402cbf433ab36d297cd7dc]: Textual amendment: Word in [reg. 86(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/86/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(49)(a)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/49/a/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-3333cd3885402cbf433ab36d297cd7dc]: Textual amendment: Word in [reg. 86(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/86/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(49)(a)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/49/a/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-f191af46c1b8170122382b69565ea076]: Textual amendment: Words in [reg. 86(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/86/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(49)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/49/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-f191af46c1b8170122382b69565ea076]: Textual amendment: Words in [reg. 86(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/86/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(49)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/49/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-bb82f59bee363782b9ad56bfb9dca964]: Textual amendment: Words in [reg. 86(3)](https://www.legislation.gov.uk/ssi/2016/49/regulation/86/3) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(49)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/49/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-bb82f59bee363782b9ad56bfb9dca964]: Textual amendment: Words in [reg. 86(3)](https://www.legislation.gov.uk/ssi/2016/49/regulation/86/3) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(49)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/49/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

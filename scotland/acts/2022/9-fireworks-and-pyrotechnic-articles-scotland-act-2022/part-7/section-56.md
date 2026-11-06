@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Commencement[^key-12b4036129d4742c1241563a7c541b2c]
+## 56. Commencement[^c-12b4036129d4742c1241563a7c541b2c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12b4036129d4742c1241563a7c541b2c]: Commencement: S. 56 in force at 11.8.2022, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-12b4036129d4742c1241563a7c541b2c]: Commencement: S. 56 in force at 11.8.2022, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

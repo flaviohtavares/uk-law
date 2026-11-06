@@ -34,7 +34,7 @@ Exiting The European Union
 
 Value Added Tax
 
-The Value Added Tax (Postal Packets and Amendment) (EU Exit) Regulations 2018 (revoked)[^key-3496582f96d821965a8e252f3090a0e3]
+The Value Added Tax (Postal Packets and Amendment) (EU Exit) Regulations 2018 (revoked)[^c-3496582f96d821965a8e252f3090a0e3]
 
 Made
 
@@ -46,164 +46,164 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-3496582f96d821965a8e252f3090a0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3496582f96d821965a8e252f3090a0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-3496582f96d821965a8e252f3090a0e3]
+[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — PRELIMINARY[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 1 — PRELIMINARY[^c-3496582f96d821965a8e252f3090a0e3]
 
-### 1. Citation and commencement[^key-3496582f96d821965a8e252f3090a0e3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Definitions[^key-3496582f96d821965a8e252f3090a0e3]
+### 1. Citation and commencement[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Qualifying importations and excepted importations[^key-3496582f96d821965a8e252f3090a0e3]
+### 2. Definitions[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Requirement, direction, demand, notice or permission[^key-3496582f96d821965a8e252f3090a0e3]
+### 3. Qualifying importations and excepted importations[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — LIABILITY FOR IMPORT VAT[^key-3496582f96d821965a8e252f3090a0e3]
-
-### 5. Disapplication of VATA 1994 and TCTA 2018[^key-3496582f96d821965a8e252f3090a0e3]
+### 4. Requirement, direction, demand, notice or permission[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Liability for qualifying importations[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 2 — LIABILITY FOR IMPORT VAT[^c-3496582f96d821965a8e252f3090a0e3]
+
+### 5. Disapplication of VATA 1994 and TCTA 2018[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — REGISTRATION[^key-3496582f96d821965a8e252f3090a0e3]
-
-### 7. The register[^key-3496582f96d821965a8e252f3090a0e3]
+### 6. Liability for qualifying importations[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Requirement to register[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 3 — REGISTRATION[^c-3496582f96d821965a8e252f3090a0e3]
+
+### 7. The register[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Notification of requirement to register[^key-3496582f96d821965a8e252f3090a0e3]
+### 8. Requirement to register[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Application to be registered[^key-3496582f96d821965a8e252f3090a0e3]
+### 9. Notification of requirement to register[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Refusal to register supplier[^key-3496582f96d821965a8e252f3090a0e3]
+### 10. Application to be registered[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Notification or application for registration generally[^key-3496582f96d821965a8e252f3090a0e3]
+### 11. Refusal to register supplier[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Cancellation of registration[^key-3496582f96d821965a8e252f3090a0e3]
+### 12. Notification or application for registration generally[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — PENALTY[^key-3496582f96d821965a8e252f3090a0e3]
-
-### 14. Penalty for failure to register[^key-3496582f96d821965a8e252f3090a0e3]
+### 13. Cancellation of registration[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Reasonable excuse[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 4 — PENALTY[^c-3496582f96d821965a8e252f3090a0e3]
+
+### 14. Penalty for failure to register[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Assessment of penalties[^key-3496582f96d821965a8e252f3090a0e3]
+### 15. Reasonable excuse[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Enforcement of penalties[^key-3496582f96d821965a8e252f3090a0e3]
+### 16. Assessment of penalties[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — UNIQUE REGISTRATION IDENTIFIER[^key-3496582f96d821965a8e252f3090a0e3]
-
-### 18. Requirement to display unique registration identifier[^key-3496582f96d821965a8e252f3090a0e3]
+### 17. Enforcement of penalties[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — RETURNS AND PAYMENTS[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 5 — UNIQUE REGISTRATION IDENTIFIER[^c-3496582f96d821965a8e252f3090a0e3]
 
-### 19. Obligation to submit postal packet returns[^key-3496582f96d821965a8e252f3090a0e3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 20. Payments[^key-3496582f96d821965a8e252f3090a0e3]
+### 18. Requirement to display unique registration identifier[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Correction of errors[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 6 — RETURNS AND PAYMENTS[^c-3496582f96d821965a8e252f3090a0e3]
+
+### 19. Obligation to submit postal packet returns[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Record keeping[^key-3496582f96d821965a8e252f3090a0e3]
+### 20. Payments[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Assessments[^key-3496582f96d821965a8e252f3090a0e3]
+### 21. Correction of errors[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — JOINT AND SEVERAL LIABILITY[^key-3496582f96d821965a8e252f3090a0e3]
-
-### 24. Joint and several liability of marketplace operators of online marketplaces[^key-3496582f96d821965a8e252f3090a0e3]
+### 22. Record keeping[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Assessments under regulation 24[^key-3496582f96d821965a8e252f3090a0e3]
+### 23. Assessments[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Interest[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 7 — JOINT AND SEVERAL LIABILITY[^c-3496582f96d821965a8e252f3090a0e3]
+
+### 24. Joint and several liability of marketplace operators of online marketplaces[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 8 — DISCLOSURE OF REGISTRATION DETAILS[^key-3496582f96d821965a8e252f3090a0e3]
-
-### 27. Disclosure of specified information[^key-3496582f96d821965a8e252f3090a0e3]
+### 25. Assessments under regulation 24[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Specified information[^key-3496582f96d821965a8e252f3090a0e3]
+### 26. Interest[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 9 — APPEALS[^key-3496582f96d821965a8e252f3090a0e3]
+## PART 8 — DISCLOSURE OF REGISTRATION DETAILS[^c-3496582f96d821965a8e252f3090a0e3]
 
-### 29. Right of appeal[^key-3496582f96d821965a8e252f3090a0e3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 10 — AMENDMENTS[^key-3496582f96d821965a8e252f3090a0e3]
-
-### 30. Amendment of the Value Added Tax (Imported Goods) Relief Order 1984[^key-3496582f96d821965a8e252f3090a0e3]
+### 27. Disclosure of specified information[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31.[^key-3496582f96d821965a8e252f3090a0e3]
+### 28. Specified information[^c-3496582f96d821965a8e252f3090a0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3496582f96d821965a8e252f3090a0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 9 — APPEALS[^c-3496582f96d821965a8e252f3090a0e3]
+
+### 29. Right of appeal[^c-3496582f96d821965a8e252f3090a0e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 10 — AMENDMENTS[^c-3496582f96d821965a8e252f3090a0e3]
+
+### 30. Amendment of the Value Added Tax (Imported Goods) Relief Order 1984[^c-3496582f96d821965a8e252f3090a0e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31.[^c-3496582f96d821965a8e252f3090a0e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3496582f96d821965a8e252f3090a0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3496582f96d821965a8e252f3090a0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3496582f96d821965a8e252f3090a0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3496582f96d821965a8e252f3090a0e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1376) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [26(a)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/26/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3496582f96d821965a8e252f3090a0e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1376) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [26(a)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/26/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

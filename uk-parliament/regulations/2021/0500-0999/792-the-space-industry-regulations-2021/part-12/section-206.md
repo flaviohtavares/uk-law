@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Details to be included in the consent form[^key-34afb1fe672f0921432bfdd1fbc795e5]
+## 206. Details to be included in the consent form[^c-34afb1fe672f0921432bfdd1fbc795e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34afb1fe672f0921432bfdd1fbc795e5]: Commencement: Reg. 206 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-34afb1fe672f0921432bfdd1fbc795e5]: Commencement: Reg. 206 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

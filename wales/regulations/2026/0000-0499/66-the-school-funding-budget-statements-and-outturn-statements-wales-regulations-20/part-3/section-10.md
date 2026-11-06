@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Formula for determination of schools’ budget shares[^key-1ea67c3a47d99bdc4dc0f5a6714260e9]
+## 10. Formula for determination of schools’ budget shares[^c-1ea67c3a47d99bdc4dc0f5a6714260e9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ea67c3a47d99bdc4dc0f5a6714260e9]: Commencement: Reg. 10 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-1ea67c3a47d99bdc4dc0f5a6714260e9]: Commencement: Reg. 10 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

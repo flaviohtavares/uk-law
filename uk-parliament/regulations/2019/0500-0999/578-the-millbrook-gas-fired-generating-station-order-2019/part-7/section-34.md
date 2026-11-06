@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Cases in which land is to be treated as not being operational land[^key-a08c3f6cb0ae97563acea8ad113837cf]
+## 34. Cases in which land is to be treated as not being operational land[^c-a08c3f6cb0ae97563acea8ad113837cf]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order is to be treated as specific planning 
 
 ## Annotations
 
-[^key-a08c3f6cb0ae97563acea8ad113837cf]: Commencement: Art. 34 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-a08c3f6cb0ae97563acea8ad113837cf]: Commencement: Art. 34 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

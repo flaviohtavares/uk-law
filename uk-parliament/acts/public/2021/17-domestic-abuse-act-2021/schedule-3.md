@@ -226,7 +226,7 @@ Section 74
 
 #### Protection from Harassment (Northern Ireland) Order 1997 (S.I. 1997/1180 (N.I. 9))
 
-**7.**[^key-1b6a143bc17907cc589791cb899d64af] In the Protection from Harassment (Northern Ireland) Order 1997, after Article 6 insert—
+**7.**[^c-1b6a143bc17907cc589791cb899d64af] In the Protection from Harassment (Northern Ireland) Order 1997, after Article 6 insert—
 
 > **Offences under Article 6 committed outside the United Kingdom**
 >
@@ -248,7 +248,7 @@ Section 74
 
 #### Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))
 
-**8.**[^key-5868d78f355299f0f9e728afdc5f8153] In Article 76 of the Sexual Offences (Northern Ireland) Order 2008 (offences outside the United Kingdom)—
+**8.**[^c-5868d78f355299f0f9e728afdc5f8153] In Article 76 of the Sexual Offences (Northern Ireland) Order 2008 (offences outside the United Kingdom)—
 
 - (a) in paragraphs (1)(b) and (2)(c), for “Article” substitute “ paragraph ”;
 - (b) in paragraph (3)(c), for “Article” substitute “ paragraph ”;
@@ -262,6 +262,6 @@ Section 74
 
 ## Annotations
 
-[^key-1b6a143bc17907cc589791cb899d64af]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/7) in force at 21.2.2022 by [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/52/article/2/c)
+[^c-1b6a143bc17907cc589791cb899d64af]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/7) in force at 21.2.2022 by [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/52/article/2/c)
 
-[^key-5868d78f355299f0f9e728afdc5f8153]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/8) in force at 21.2.2022 by [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/52/article/2/c)
+[^c-5868d78f355299f0f9e728afdc5f8153]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/8) in force at 21.2.2022 by [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/52/article/2/c)

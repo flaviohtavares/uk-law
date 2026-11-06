@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Power incidental to carrying on business[^key-d3d7a378a4ff18eb625ade3f3be1428e]
+## 53. Power incidental to carrying on business[^c-d3d7a378a4ff18eb625ade3f3be1428e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An open-ended investment company has power to do all such things as are incident
 
 ## Annotations
 
-[^key-d3d7a378a4ff18eb625ade3f3be1428e]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2004/335/regulation/53) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-d3d7a378a4ff18eb625ade3f3be1428e]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2004/335/regulation/53) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

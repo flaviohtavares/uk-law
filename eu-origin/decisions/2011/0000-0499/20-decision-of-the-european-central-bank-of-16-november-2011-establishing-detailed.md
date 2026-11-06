@@ -36,7 +36,7 @@ establishing detailed rules and procedures for implementing the eligibility crit
 
 (2011/789/EU)
 
-[^key-5cc4bb7b65735548b04d313692f813e7]
+[^c-5cc4bb7b65735548b04d313692f813e7]
 
 THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,
 
@@ -223,7 +223,7 @@ Where a CSD with access to T2S services no longer complies with one of the five 
 
 ## Annotations
 
-[^key-5cc4bb7b65735548b04d313692f813e7]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-5cc4bb7b65735548b04d313692f813e7]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 166, 11.6.1998, p. 45](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.166.01.0045.01.ENG).
 

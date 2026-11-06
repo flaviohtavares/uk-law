@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1140A. Groups[^key-7fee368f9bbe5b6e0d96cb3ab8ddb5af]
+## 1140A. Groups[^c-7fee368f9bbe5b6e0d96cb3ab8ddb5af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, a company is in the same group as another company
 
 ## Annotations
 
-[^key-7fee368f9bbe5b6e0d96cb3ab8ddb5af]: Textual amendment: [S. 1140A](https://www.legislation.gov.uk/ukpga/2009/4/section/1140A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(13)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/13), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-7fee368f9bbe5b6e0d96cb3ab8ddb5af]: Textual amendment: [S. 1140A](https://www.legislation.gov.uk/ukpga/2009/4/section/1140A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(13)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/13), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

@@ -40,7 +40,7 @@ as it considers appropriate for the general purposes, or any particular purposes
 - (a) the repeals and revocations in Part 1 of Schedule 6;
 - (b) the repeals in Part 2 of that Schedule other than those falling within subsection (3).
 
-(5) The repeals and revocations in Part 6 of that Schedule have effect on 6 April 2012[^key-6a841770af9f954ac6887a6e74a242fd] .
+(5) The repeals and revocations in Part 6 of that Schedule have effect on 6 April 2012[^c-6a841770af9f954ac6887a6e74a242fd] .
 
 (6) The other repeals contained in that Schedule have effect on the date on which they come into operation by virtue of an order made under section 21.
 
@@ -50,4 +50,4 @@ as it considers appropriate for the general purposes, or any particular purposes
 
 ## Annotations
 
-[^key-6a841770af9f954ac6887a6e74a242fd]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 77](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/77)
+[^c-6a841770af9f954ac6887a6e74a242fd]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 77](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/77)

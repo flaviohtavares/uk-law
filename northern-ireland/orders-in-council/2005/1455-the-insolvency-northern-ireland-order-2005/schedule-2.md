@@ -31,11 +31,11 @@ Article 3(3)
 
 ### ...[^M_F_c297a4e6-7d15-4813-bbb1-38235f459fa2]
 
-**2.**[^key-3d8f5e9e941bfbcf606410a2e4faa17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3d8f5e9e941bfbcf606410a2e4faa17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3d8f5e9e941bfbcf606410a2e4faa17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3d8f5e9e941bfbcf606410a2e4faa17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3d8f5e9e941bfbcf606410a2e4faa17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3d8f5e9e941bfbcf606410a2e4faa17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Criminal Justice Act (Northern Ireland) 1945 (c. 15)
 
@@ -47,9 +47,9 @@ Article 3(3)
 
 **7.**[^c20289931] In section 7(1A)(b)(ii) (conditions of road service licences) after “liquidation” insert “ or enters administration ”.
 
-**8.**[^key-7f5324d48ef9e5caecb6c4140f27136a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7f5324d48ef9e5caecb6c4140f27136a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7f5324d48ef9e5caecb6c4140f27136a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7f5324d48ef9e5caecb6c4140f27136a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Solicitors (Northern Ireland) Order 1976 (NI 12)
 
@@ -313,7 +313,7 @@ Article 3(3)
 
 **44.**[^c20290291] In Article 368(1)(a) (application for order in relation to transaction defrauding creditor) for “in relation to which an administration order is in force” substitute “ is in administration ”.
 
-**45.**[^key-755ffa239c3814f87fdd403eb7a5eab3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-755ffa239c3814f87fdd403eb7a5eab3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **46.**[^c20290311] (1) Schedule 5 (scope of insolvency rules) shall be amended as follows.
 
@@ -547,7 +547,7 @@ Article 3(3)
 
 .
 
-**64.**[^key-9a30916c9b56e8c4258a9f997e9ce23b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-9a30916c9b56e8c4258a9f997e9ce23b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **65.**[^M_F_9c653634-1235-4a59-d770-7d1dab7fdc27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -557,7 +557,7 @@ Article 3(3)
 
 [^M_F_c297a4e6-7d15-4813-bbb1-38235f459fa2]: Textual amendment: Cross heading preceding Sch. 2 para. 2 repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-3d8f5e9e941bfbcf606410a2e4faa17a]: Textual amendment: Sch. 2 paras. 2-4 repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-3d8f5e9e941bfbcf606410a2e4faa17a]: Textual amendment: Sch. 2 paras. 2-4 repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
 [^c20289911]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2) (except para. 25) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
@@ -565,7 +565,7 @@ Article 3(3)
 
 [^c20289931]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2) (except para. 25) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
-[^key-7f5324d48ef9e5caecb6c4140f27136a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/9) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-7f5324d48ef9e5caecb6c4140f27136a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/9) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
 [^c20289961]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2) (except para. 25) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
@@ -637,7 +637,7 @@ Article 3(3)
 
 [^c20290291]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2) (except para. 25) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
-[^key-755ffa239c3814f87fdd403eb7a5eab3]: Textual amendment: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/45) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/38) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-755ffa239c3814f87fdd403eb7a5eab3]: Textual amendment: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/45) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/38) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c20290311]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2) (except para. 25) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
@@ -675,6 +675,6 @@ Article 3(3)
 
 [^c20290481]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2) (except para. 25) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
-[^key-9a30916c9b56e8c4258a9f997e9ce23b]: Textual amendment: [Sch. 2 para. 64](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/64) omitted (6.4.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/5/5); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/c) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/3) [4](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/4))
+[^c-9a30916c9b56e8c4258a9f997e9ce23b]: Textual amendment: [Sch. 2 para. 64](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/64) omitted (6.4.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/5/5); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/c) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/3) [4](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/4))
 
 [^M_F_9c653634-1235-4a59-d770-7d1dab7fdc27]: Textual amendment: Sch. 2 para. 65 omitted (1.10.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/10); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)

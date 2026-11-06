@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Duty of local authority to carry out a financial assessment of a short-term resident as if the resident is receiving care and support otherwise than the provision of accommodation in a care home[^key-92e5954dba5810be541dd1dea09d2f6f]
+## 10. Duty of local authority to carry out a financial assessment of a short-term resident as if the resident is receiving care and support otherwise than the provision of accommodation in a care home[^c-92e5954dba5810be541dd1dea09d2f6f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where A is a short-term resident, a local authority must carry out an assessment
 
 ## Annotations
 
-[^key-92e5954dba5810be541dd1dea09d2f6f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1844/regulation/10) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-92e5954dba5810be541dd1dea09d2f6f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1844/regulation/10) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

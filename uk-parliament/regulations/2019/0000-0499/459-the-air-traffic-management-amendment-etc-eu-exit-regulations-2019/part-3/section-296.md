@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296. Article 2 of Commission Implementing Regulation (EU) No 923/2012[^key-5fe53f1e9e17f29c33014eb20061c005]
+## 296. Article 2 of Commission Implementing Regulation (EU) No 923/2012[^c-5fe53f1e9e17f29c33014eb20061c005]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In Article 2 (definitions) for point 55 substitute—
 
 ## Annotations
 
-[^key-5fe53f1e9e17f29c33014eb20061c005]: Commencement: Reg. 296 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5fe53f1e9e17f29c33014eb20061c005]: Commencement: Reg. 296 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

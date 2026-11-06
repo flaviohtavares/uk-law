@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67BD. Employees paid advance payments[^key-54f139226f3cff1615621673ea12533a][^key-08b6e8f9f8eba33d4316dc76fb9ec396]
+## 67BD. Employees paid advance payments[^c-54f139226f3cff1615621673ea12533a][^c-08b6e8f9f8eba33d4316dc76fb9ec396]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54f139226f3cff1615621673ea12533a]: Textual amendment: [Reg. 67BD](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67BD) inserted (6.4.2024) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2024 (S.I. 2024/305)](https://www.legislation.gov.uk/uksi/2024/305), [regs. 1](https://www.legislation.gov.uk/uksi/2024/305/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/305/regulation/2/2)
+[^c-54f139226f3cff1615621673ea12533a]: Textual amendment: [Reg. 67BD](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67BD) inserted (6.4.2024) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2024 (S.I. 2024/305)](https://www.legislation.gov.uk/uksi/2024/305), [regs. 1](https://www.legislation.gov.uk/uksi/2024/305/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/305/regulation/2/2)
 
-[^key-08b6e8f9f8eba33d4316dc76fb9ec396]: Textual amendment: Regs. 67B-67H and cross-headings inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/b) (with [regs. 54-57](https://www.legislation.gov.uk/uksi/2012/822/regulation/54))
+[^c-08b6e8f9f8eba33d4316dc76fb9ec396]: Textual amendment: Regs. 67B-67H and cross-headings inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/b) (with [regs. 54-57](https://www.legislation.gov.uk/uksi/2012/822/regulation/54))

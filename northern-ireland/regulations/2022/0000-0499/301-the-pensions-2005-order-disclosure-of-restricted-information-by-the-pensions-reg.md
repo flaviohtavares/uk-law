@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 In accordance with Article 81(2) of that Order it has consulted with the Pensions Regulator.
 
-## 1. Citation and commencement[^key-32b4b480f3a8d46b0fe4a14d68b58d46]
+## 1. Citation and commencement[^c-32b4b480f3a8d46b0fe4a14d68b58d46]
 
 This Order may be cited as the Pensions (2005 Order) (Disclosure of Restricted Information by the Pensions Regulator) (Amendment of Specified Persons) Order (Northern Ireland) 2022 and shall come into operation on 28th December 2022.
 
-## 2. Amendment of Schedule 3 to the Pensions (Northern Ireland) Order 2005[^key-17d842842862984b38c8001335e8f4b5]
+## 2. Amendment of Schedule 3 to the Pensions (Northern Ireland) Order 2005[^c-17d842842862984b38c8001335e8f4b5]
 
 In Schedule 3 to the Pensions (Northern Ireland) Order 2005 (restricted information held by the Regulator: certain permitted disclosure to facilitate exercise of functions) after the entry relating to “The Charity Commission for Northern Ireland”[^f00003] add—
 
@@ -85,9 +85,9 @@ The functions exercised by MaPS include setting standards on matters such as con
 
 [^f00002]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-32b4b480f3a8d46b0fe4a14d68b58d46]: Commencement: Art. 1 in operation at 28.12.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/301/article/1)
+[^c-32b4b480f3a8d46b0fe4a14d68b58d46]: Commencement: Art. 1 in operation at 28.12.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/301/article/1)
 
-[^key-17d842842862984b38c8001335e8f4b5]: Commencement: Art. 2 in operation at 28.12.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/301/article/1)
+[^c-17d842842862984b38c8001335e8f4b5]: Commencement: Art. 2 in operation at 28.12.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/301/article/1)
 
 [^f00003]: Footnote: The entry relating to “The Charity Commission for Northern Ireland” was added by paragraph 12(b) of Schedule 8 to the Charities Act (Northern Ireland) [2008 (c. 12 (N.I.))](https://www.legislation.gov.uk/nia/2008/12)
 

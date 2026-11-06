@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Amendment of Commission Implementing Decision (EU) 2015/690[^key-4e32c9a4156c3c40acd58ee5db696ec0]
+## 240. Amendment of Commission Implementing Decision (EU) 2015/690[^c-4e32c9a4156c3c40acd58ee5db696ec0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2015/690 authorising the placing on the ma
 
 ## Annotations
 
-[^key-4e32c9a4156c3c40acd58ee5db696ec0]: Commencement: Reg. 240 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4e32c9a4156c3c40acd58ee5db696ec0]: Commencement: Reg. 240 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Reasonable excuses to travel outside the United Kingdom[^key-63574b350c0e5642d8b8f0b5715d9698]
+## SCHEDULE 5 — Reasonable excuses to travel outside the United Kingdom[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulation 8
 
-**1.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-63574b350c0e5642d8b8f0b5715d9698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))
+[^c-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))

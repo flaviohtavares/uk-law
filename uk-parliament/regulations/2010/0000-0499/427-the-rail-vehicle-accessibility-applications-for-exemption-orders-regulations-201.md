@@ -48,9 +48,9 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 47(2) of the Disability Discrimination Act 1995[^f00001].
 
-In accordance with section 46(11) of that Act the Secretary of State has consulted the Disabled Persons Transport Advisory Committee [^f00002], and such other representative organisations as the Secretary of State thinks fit.[^key-635a97b4ccbc3fc98b353417fd2d9da9]
+In accordance with section 46(11) of that Act the Secretary of State has consulted the Disabled Persons Transport Advisory Committee [^f00002], and such other representative organisations as the Secretary of State thinks fit.[^c-635a97b4ccbc3fc98b353417fd2d9da9]
 
-## 1. Citation, commencement and extent[^key-3765e0460318166e33bcbc1c8723a484]
+## 1. Citation, commencement and extent[^c-3765e0460318166e33bcbc1c8723a484]
 
 These Regulations—
 
@@ -58,7 +58,7 @@ These Regulations—
 - (b) come into force on 6th April 2010; and
 - (c) do not extend to Northern Ireland.
 
-## 2. Interpretation[^key-3e04c1d139ed7734f90f04795382a3cb]
+## 2. Interpretation[^c-3e04c1d139ed7734f90f04795382a3cb]
 
 In these Regulations—
 
@@ -79,7 +79,7 @@ In these Regulations—
 - “1995 Act from time to time">RVAR” means any rail vehicle accessibility regulations made under section 46 of the 1995 Act from time to time;
 - “tramway” has the same meaning as in section 67(1) of the Transport and Works Act 1992.
 
-## 3. Applications for exemption orders for rail vehicles[^key-6dba0a0c8a2c02c7d563611fd26c8b1c]
+## 3. Applications for exemption orders for rail vehicles[^c-6dba0a0c8a2c02c7d563611fd26c8b1c]
 
 (1) Subject to paragraph (2), an application for an exemption order in respect of a rail vehicle—
 
@@ -92,7 +92,7 @@ In these Regulations—
 
 (2) Before making an application under paragraph (1) the owner or relevant lessee of the rail vehicle must consult the operator of the vehicle, if a different person.
 
-## 4. Applications for network exemption orders[^key-ee0ac54183750f1a082d0652fa6415e7]
+## 4. Applications for network exemption orders[^c-ee0ac54183750f1a082d0652fa6415e7]
 
 An application for a network exemption order—
 
@@ -100,7 +100,7 @@ An application for a network exemption order—
 - (b) must be submitted to the Secretary of State in writing; and
 - (c) must contain the particulars specified in Schedule 2.
 
-## 5. Revocation[^key-958d1c10edf2091e5e8ef45c94b3fc34]
+## 5. Revocation[^c-958d1c10edf2091e5e8ef45c94b3fc34]
 
 The Rail Vehicle (Exemption Applications) Regulations 1998[^f00008] are revoked.
 
@@ -114,11 +114,11 @@ Department for Transport
 
 23rd February 2010
 
-## SCHEDULE 1 — PARTICULARS TO BE PROVIDED WITH APPLICATIONS FOR EXEMPTION ORDERS FOR RAIL VEHICLES[^key-eff47375823a72fbdca8cfef6b817f1f]
+## SCHEDULE 1 — PARTICULARS TO BE PROVIDED WITH APPLICATIONS FOR EXEMPTION ORDERS FOR RAIL VEHICLES[^c-eff47375823a72fbdca8cfef6b817f1f]
 
 Regulation 3 (1) (c)
 
-[^key-eff47375823a72fbdca8cfef6b817f1f]
+[^c-eff47375823a72fbdca8cfef6b817f1f]
 
 The particulars referred to in regulation 3 (1) (c) are—
 
@@ -143,11 +143,11 @@ The particulars referred to in regulation 3 (1) (c) are—
   - (i) whether to make the exemption order and on what terms, and if so
   - (ii) what, if any, restrictions or conditions to specify.
 
-## SCHEDULE 2 — PARTICULARS TO BE PROVIDED WITH APPLICATIONS FOR NETWORK EXEMPTION ORDERS[^key-a40b638ef1f3aef6cd7f9be51dde86a3]
+## SCHEDULE 2 — PARTICULARS TO BE PROVIDED WITH APPLICATIONS FOR NETWORK EXEMPTION ORDERS[^c-a40b638ef1f3aef6cd7f9be51dde86a3]
 
 Regulation 4 (c)
 
-[^key-a40b638ef1f3aef6cd7f9be51dde86a3]
+[^c-a40b638ef1f3aef6cd7f9be51dde86a3]
 
 The particulars referred to in regulation 4 (c) are—
 
@@ -183,11 +183,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: The Disabled Persons Transport Advisory Committee was established under section 125 of the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) and has a statutory duty to provide the Secretary of State with advice on the public passenger transport needs of disabled people.
 
-[^key-635a97b4ccbc3fc98b353417fd2d9da9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/427) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+[^c-635a97b4ccbc3fc98b353417fd2d9da9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/427) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
 
-[^key-3765e0460318166e33bcbc1c8723a484]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/427/regulation/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
+[^c-3765e0460318166e33bcbc1c8723a484]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/427/regulation/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
 
-[^key-3e04c1d139ed7734f90f04795382a3cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/427/regulation/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
+[^c-3e04c1d139ed7734f90f04795382a3cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/427/regulation/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
 
 [^f00003]: Footnote: The definition of “rail vehicle” in section 46(6) was substituted by section 6(2)(b) of the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13), as inserted by [S.I. 2008/1746](https://www.legislation.gov.uk/uksi/2008/1746).
 
@@ -199,14 +199,14 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00007]: Footnote: The “relevant bodies” so listed are London Regional Transport, Transport for London and any subsidiary of London Regional Transport or Transport for London.
 
-[^key-6dba0a0c8a2c02c7d563611fd26c8b1c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/427/regulation/3) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
+[^c-6dba0a0c8a2c02c7d563611fd26c8b1c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/427/regulation/3) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
 
-[^key-ee0ac54183750f1a082d0652fa6415e7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/427/regulation/4) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
+[^c-ee0ac54183750f1a082d0652fa6415e7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/427/regulation/4) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
 
-[^key-958d1c10edf2091e5e8ef45c94b3fc34]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/427/regulation/5) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
+[^c-958d1c10edf2091e5e8ef45c94b3fc34]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/427/regulation/5) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
 
 [^f00008]: Footnote: [S.I. 1998/2457](https://www.legislation.gov.uk/uksi/1998/2457).
 
-[^key-eff47375823a72fbdca8cfef6b817f1f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/427/schedule/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
+[^c-eff47375823a72fbdca8cfef6b817f1f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/427/schedule/1) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
 
-[^key-a40b638ef1f3aef6cd7f9be51dde86a3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/427/schedule/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)
+[^c-a40b638ef1f3aef6cd7f9be51dde86a3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/427/schedule/2) in force at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/427/regulation/1/b)

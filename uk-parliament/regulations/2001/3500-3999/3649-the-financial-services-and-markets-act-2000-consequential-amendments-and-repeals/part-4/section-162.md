@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Repeal of spent provisions relating to transfer of functions from the Bank to the Authority etc[^key-495c1669f5577f6579897638d5dbcf05]
+## 162. Repeal of spent provisions relating to transfer of functions from the Bank to the Authority etc[^c-495c1669f5577f6579897638d5dbcf05]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ The following provisions of the Bank of England Act 1998 (which are spent or unn
 
 ## Annotations
 
-[^key-495c1669f5577f6579897638d5dbcf05]: Commencement: Art. 162 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-495c1669f5577f6579897638d5dbcf05]: Commencement: Art. 162 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

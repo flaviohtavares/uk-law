@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Certified training organisation: production of records[^key-b7be84c671dd9f0b4528d7651fcd23b0]
+## 197. Certified training organisation: production of records[^c-b7be84c671dd9f0b4528d7651fcd23b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7be84c671dd9f0b4528d7651fcd23b0]: Textual amendment: [Arts. 189-197](https://www.legislation.gov.uk/uksi/2016/765/article/189) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [36](https://www.legislation.gov.uk/uksi/2017/1112/article/36)
+[^c-b7be84c671dd9f0b4528d7651fcd23b0]: Textual amendment: [Arts. 189-197](https://www.legislation.gov.uk/uksi/2016/765/article/189) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [36](https://www.legislation.gov.uk/uksi/2017/1112/article/36)

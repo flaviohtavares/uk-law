@@ -84,7 +84,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-b262ed6c38d90f5edd001e71047066a1]This Regulation shall be binding in its entirety and directly applicable in all Member States.
+[^c-b262ed6c38d90f5edd001e71047066a1]This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Done at Brussels, 30 October 2013.
 
@@ -98,4 +98,4 @@ José Manuel Barroso
 
 [^f00001]: Footnote: [OJ L 88, 4.4.2011, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.088.01.0005.01.ENG).
 
-[^key-b262ed6c38d90f5edd001e71047066a1]: Modification: [Signature](https://www.legislation.gov.uk/eur/2014/157/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/7) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(j)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b262ed6c38d90f5edd001e71047066a1]: Modification: [Signature](https://www.legislation.gov.uk/eur/2014/157/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/7) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(j)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

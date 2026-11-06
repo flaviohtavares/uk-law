@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Application of the Order prior to the establishment of a particular combined county authority[^key-292336f44ce9c502a937e2f92c7e9401]
+## 10. Application of the Order prior to the establishment of a particular combined county authority[^c-292336f44ce9c502a937e2f92c7e9401]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-292336f44ce9c502a937e2f92c7e9401]: Textual amendment: Art. 10 inserted (7.2.2024) by virtue of [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2024/131/regulation/10)
+[^c-292336f44ce9c502a937e2f92c7e9401]: Textual amendment: Art. 10 inserted (7.2.2024) by virtue of [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2024/131/regulation/10)

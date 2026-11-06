@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Section 38: procedural requirements[^key-7e75e166adc50457f6e048535708afd6][^key-120fb024f2692c29b1176ddf4e6161b4]
+## 39. Section 38: procedural requirements[^c-7e75e166adc50457f6e048535708afd6][^c-120fb024f2692c29b1176ddf4e6161b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e75e166adc50457f6e048535708afd6]: Commencement: S. 39 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-7e75e166adc50457f6e048535708afd6]: Commencement: S. 39 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-120fb024f2692c29b1176ddf4e6161b4]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/23/section/39) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-120fb024f2692c29b1176ddf4e6161b4]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/23/section/39) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

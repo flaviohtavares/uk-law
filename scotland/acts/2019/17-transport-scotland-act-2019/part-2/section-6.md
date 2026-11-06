@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Restriction on driving within a zone[^key-eed6657100cfe4bf2efe7776b8ae89c9]
+## 6. Restriction on driving within a zone[^c-eed6657100cfe4bf2efe7776b8ae89c9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ only one penalty charge is payable in respect of the contraventions.
 
 ## Annotations
 
-[^key-eed6657100cfe4bf2efe7776b8ae89c9]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/17/section/6) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-eed6657100cfe4bf2efe7776b8ae89c9]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/17/section/6) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

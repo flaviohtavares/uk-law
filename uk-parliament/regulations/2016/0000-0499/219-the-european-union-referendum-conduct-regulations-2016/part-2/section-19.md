@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Appointment of presiding officers and clerks[^key-f87f51313701dfe2f3e6427dd1e79cd5]
+## 19. Appointment of presiding officers and clerks[^c-f87f51313701dfe2f3e6427dd1e79cd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ The provisions of this Part relating to a presiding officer apply to a counting 
 
 ## Annotations
 
-[^key-f87f51313701dfe2f3e6427dd1e79cd5]: Commencement: Reg. 19 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-f87f51313701dfe2f3e6427dd1e79cd5]: Commencement: Reg. 19 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

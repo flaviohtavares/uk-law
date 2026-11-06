@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Redress schemes: voluntary jurisdiction[^key-2ca9c4521eb5903845d89aac872d617e]
+## 101. Redress schemes: voluntary jurisdiction[^c-2ca9c4521eb5903845d89aac872d617e]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ca9c4521eb5903845d89aac872d617e]: Commencement: S. 101 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-2ca9c4521eb5903845d89aac872d617e]: Commencement: S. 101 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

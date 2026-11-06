@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Calculation of RHI payments where metering is not required[^key-0f48d939cca08bf03597741d17a88503]
+## 27. Calculation of RHI payments where metering is not required[^c-0f48d939cca08bf03597741d17a88503]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ where—
 
 ## Annotations
 
-[^key-0f48d939cca08bf03597741d17a88503]: Commencement: Reg. 27 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-0f48d939cca08bf03597741d17a88503]: Commencement: Reg. 27 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

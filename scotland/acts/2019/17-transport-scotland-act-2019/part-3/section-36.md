@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Procedures for partnership plans and schemes[^key-348a450bf9065a992f14491e964d80b5]
+## 36. Procedures for partnership plans and schemes[^c-348a450bf9065a992f14491e964d80b5]
 
 *Extent: S*
 
@@ -361,4 +361,4 @@ summary: ''
 
 ## Annotations
 
-[^key-348a450bf9065a992f14491e964d80b5]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2019/17/section/36) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-348a450bf9065a992f14491e964d80b5]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2019/17/section/36) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

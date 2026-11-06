@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Removal of requirement to report loss or theft of licence etc to police[^key-43bda22cc572bdadc93817e5064d52e5]
+## 72. Removal of requirement to report loss or theft of licence etc to police[^c-43bda22cc572bdadc93817e5064d52e5]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In the Licensing Act 2003, omit the following provisions (which impose requireme
 
 ## Annotations
 
-[^key-43bda22cc572bdadc93817e5064d52e5]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2015/20/section/72) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(j)](https://www.legislation.gov.uk/uksi/2015/994/article/6/j)
+[^c-43bda22cc572bdadc93817e5064d52e5]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2015/20/section/72) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(j)](https://www.legislation.gov.uk/uksi/2015/994/article/6/j)

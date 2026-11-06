@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 16 — Healthcare Improvement Scotland: establishment etc.[^key-01d644ff447bf579453835baad63b908][^key-b777cd2a70006d63a582d7de7d625478][^key-f3693aa736747f3b8a1768e397c24e6c]
+## SCHEDULE 16 — Healthcare Improvement Scotland: establishment etc.[^c-01d644ff447bf579453835baad63b908][^c-b777cd2a70006d63a582d7de7d625478][^c-f3693aa736747f3b8a1768e397c24e6c]
 
 *Extent: S*
 
@@ -206,8 +206,8 @@ After Schedule 5 to the National Health Service (Scotland) Act 1978 (c. 29) ther
 
 ## Annotations
 
-[^key-01d644ff447bf579453835baad63b908]: Commencement: Sch. 16 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-01d644ff447bf579453835baad63b908]: Commencement: Sch. 16 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-b777cd2a70006d63a582d7de7d625478]: Commencement: Sch. 16 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-b777cd2a70006d63a582d7de7d625478]: Commencement: Sch. 16 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-f3693aa736747f3b8a1768e397c24e6c]: Commencement: Sch. 16 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-f3693aa736747f3b8a1768e397c24e6c]: Commencement: Sch. 16 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

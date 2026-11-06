@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Approved bodies[^M_E_c80c0d2f-3eb0-48b3-a0d0-e39baf649f88][^key-819bc0dbe42933501fb9b560b0fdcea2]
+## 53. Approved bodies[^M_E_c80c0d2f-3eb0-48b3-a0d0-e39baf649f88][^c-819bc0dbe42933501fb9b560b0fdcea2]
 
 *Extent: E+W+S*
 
@@ -38,15 +38,15 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This Part applies to the notification to the Commission and other relevant[^key-38d02369256b6f8d8a4016e36b3c33f0] states of the bodies authorised to carry out conformity assessment procedures in the United Kingdom in relation to measuring instruments.
+(1) This Part applies to the notification to the Commission and other relevant[^c-38d02369256b6f8d8a4016e36b3c33f0] states of the bodies authorised to carry out conformity assessment procedures in the United Kingdom in relation to measuring instruments.
 
 (2) For the purposes of this Part, a notified body is a conformity assessment body—
 
 - (a) which has been notified to the Commission and to other relevant states under regulation 55 (notification); and
-- (b) in respect of which no objections , other than an immaterial objection,[^key-a990a2134df842994102be29c46faa6f] are raised by the Commission or other relevant states—
+- (b) in respect of which no objections , other than an immaterial objection,[^c-a990a2134df842994102be29c46faa6f] are raised by the Commission or other relevant states—
   - (i) within 2 weeks of a notification, where an accreditation certificate is used; or
-  - (ii) within 2 months of a notification, where accreditation is not used;[^key-6cdac70855a9db36227e0507ff8c8e3f]
-- (c)[^key-5372e39377c0ceaaf8cebd559dd2f816] in sub-paragraph (b), an “immaterial objection” is an objection on the grounds that—
+  - (ii) within 2 months of a notification, where accreditation is not used;[^c-6cdac70855a9db36227e0507ff8c8e3f]
+- (c)[^c-5372e39377c0ceaaf8cebd559dd2f816] in sub-paragraph (b), an “immaterial objection” is an objection on the grounds that—
   - (i) the conformity assessment body is established in the United Kingdom; or
   - (ii) the accreditation certificate was issued by the United Kingdom Accreditation Service.
 
@@ -56,14 +56,14 @@ summary: ''
 
 [^M_E_c80c0d2f-3eb0-48b3-a0d0-e39baf649f88]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_61c6010a-693f-43ec-ca78-05e830db67c0]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-38d02369256b6f8d8a4016e36b3c33f0]: Textual amendment: Word in [reg. 53](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/a)
+[^c-38d02369256b6f8d8a4016e36b3c33f0]: Textual amendment: Word in [reg. 53](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/a)
 
-[^key-a990a2134df842994102be29c46faa6f]: Textual amendment: Words in [reg. 53(2)(b)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53/2/b) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/b/i)
+[^c-a990a2134df842994102be29c46faa6f]: Textual amendment: Words in [reg. 53(2)(b)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53/2/b) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/b/i)
 
-[^key-6cdac70855a9db36227e0507ff8c8e3f]: Textual amendment: Word in [reg. 53(2)(b)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53/2/b) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/b/ii)
+[^c-6cdac70855a9db36227e0507ff8c8e3f]: Textual amendment: Word in [reg. 53(2)(b)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53/2/b) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/b/ii)
 
-[^key-5372e39377c0ceaaf8cebd559dd2f816]: Textual amendment: [Reg. 53(2)(c)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53/2/c) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(c)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/c)
+[^c-5372e39377c0ceaaf8cebd559dd2f816]: Textual amendment: [Reg. 53(2)(c)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/53/2/c) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(1)(c)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/1/c)

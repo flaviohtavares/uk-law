@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49C. Constituency rules[^key-f14967f4e7e783795db23833bc6fb250]
+## 49C. Constituency rules[^c-f14967f4e7e783795db23833bc6fb250]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ for the purposes of paragraph (a), a local government elector is a person regist
 
 ## Annotations
 
-[^key-f14967f4e7e783795db23833bc6fb250]: Textual amendment: Pt. 3A inserted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/1) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/3))
+[^c-f14967f4e7e783795db23833bc6fb250]: Textual amendment: Pt. 3A inserted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/1) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/3))

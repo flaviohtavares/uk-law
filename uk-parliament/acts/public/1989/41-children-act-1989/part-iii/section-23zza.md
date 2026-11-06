@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23ZZA. Information and advice for promoting educational achievement[^key-3f7d087bbf7c915cfcb16ce871ef997f]
+## 23ZZA. Information and advice for promoting educational achievement[^c-3f7d087bbf7c915cfcb16ce871ef997f]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f7d087bbf7c915cfcb16ce871ef997f]: Textual amendment: [S. 23ZZA](https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA) and cross-heading inserted (1.9.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/16/section/4), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
+[^c-3f7d087bbf7c915cfcb16ce871ef997f]: Textual amendment: [S. 23ZZA](https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA) and cross-heading inserted (1.9.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/16/section/4), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)

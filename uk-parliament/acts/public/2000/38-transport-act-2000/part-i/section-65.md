@@ -33,7 +33,7 @@ summary: ''
 - (i) transferee;
 - (j) transferor.
 
-(2) “**Company**” means a company as defined in section 1(1) of the Companies Act 2006[^key-aa4a0b48971ac1d5d8d91a3f351ef471].
+(2) “**Company**” means a company as defined in section 1(1) of the Companies Act 2006[^c-aa4a0b48971ac1d5d8d91a3f351ef471].
 
 (3) A company is wholly owned by the Crown at any time when all its shares are held by the Crown.
 
@@ -53,7 +53,7 @@ summary: ''
 
 (7) A company which wholly owns another company is a company of which the other is a wholly owned subsidiary.
 
-(8) The expressions “**subsidiary**” and “**wholly owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^key-2bbf5f2a652d84f34053b72f3ecf4088].
+(8) The expressions “**subsidiary**” and “**wholly owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^c-2bbf5f2a652d84f34053b72f3ecf4088].
 
 (9) “**Securities**” has the same meaning as in section 142 of the [^c14879621]Financial Services Act 1986.
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aa4a0b48971ac1d5d8d91a3f351ef471]: Textual amendment: Words in s. 65(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(6)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-aa4a0b48971ac1d5d8d91a3f351ef471]: Textual amendment: Words in s. 65(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(6)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-2bbf5f2a652d84f34053b72f3ecf4088]: Textual amendment: Words in s. 65(8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(6)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-2bbf5f2a652d84f34053b72f3ecf4088]: Textual amendment: Words in s. 65(8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(6)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14879621]: Marginal citation: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).

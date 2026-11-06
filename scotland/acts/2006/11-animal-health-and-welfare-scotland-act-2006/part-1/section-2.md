@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Slaughter of treated animals[^key-9af8b551d81c73c5d4b24e0098083421]
+## 2. Slaughter of treated animals[^c-9af8b551d81c73c5d4b24e0098083421]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ After section 16A of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-9af8b551d81c73c5d4b24e0098083421]: Commencement: S. 2 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-9af8b551d81c73c5d4b24e0098083421]: Commencement: S. 2 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

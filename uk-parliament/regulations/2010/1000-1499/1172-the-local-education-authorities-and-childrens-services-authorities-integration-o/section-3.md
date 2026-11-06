@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Amendment of education subordinate legislation[^key-44d1f18d0e4195d474d8aa5b663d130e]
+## 3. Amendment of education subordinate legislation[^c-44d1f18d0e4195d474d8aa5b663d130e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44d1f18d0e4195d474d8aa5b663d130e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1172/article/3) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)
+[^c-44d1f18d0e4195d474d8aa5b663d130e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1172/article/3) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)

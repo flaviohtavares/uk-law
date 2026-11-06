@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Light touch contracts[^key-f6da47085d0191490e6e1f25d6b7e6a1][^key-d686bba229f35b04be6be7a89b8ac8c2]
+## 9. Light touch contracts[^c-f6da47085d0191490e6e1f25d6b7e6a1][^c-d686bba229f35b04be6be7a89b8ac8c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6da47085d0191490e6e1f25d6b7e6a1]: Commencement: S. 9 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-f6da47085d0191490e6e1f25d6b7e6a1]: Commencement: S. 9 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-d686bba229f35b04be6be7a89b8ac8c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/54/section/9) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/c)
+[^c-d686bba229f35b04be6be7a89b8ac8c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/54/section/9) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/c)

@@ -29,9 +29,9 @@ summary: ''
 
 (3) Where the calculation is for the purposes of Article 84, the calculation date is the day of the appointment.
 
-(3A)[^key-c3c5d6772f542a81c49db6768aedf01d] Where the calculation is for the purposes of Article 85ZF, the calculation date is the day of the appointment.
+(3A)[^c-c3c5d6772f542a81c49db6768aedf01d] Where the calculation is for the purposes of Article 85ZF, the calculation date is the day of the appointment.
 
-(3B)[^key-85e4285475dd35405aaa4c7bf2629d7a] Where the calculation is for the purposes of Article 85ZK or 85ZM, the calculation date is the day of the appointment.
+(3B)[^c-85e4285475dd35405aaa4c7bf2629d7a] Where the calculation is for the purposes of Article 85ZK or 85ZM, the calculation date is the day of the appointment.
 
 (4) Where the calculation is for the purposes of Article 90, the calculation date is the day on which the time off was taken or on which it is alleged the time off should have been permitted.
 
@@ -52,9 +52,9 @@ summary: ''
 
 [^c20262181]: Modification: Arts. 16-24 applied (6.4.2006) by [Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [reg. 16(4)](https://www.legislation.gov.uk/nisr/2006/177/regulation/16/4)
 
-[^key-c3c5d6772f542a81c49db6768aedf01d]: Textual amendment: Art. 21(3A) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(3)](https://www.legislation.gov.uk/nia/2015/1/section/15/3), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
+[^c-c3c5d6772f542a81c49db6768aedf01d]: Textual amendment: Art. 21(3A) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(3)](https://www.legislation.gov.uk/nia/2015/1/section/15/3), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
 
-[^key-85e4285475dd35405aaa4c7bf2629d7a]: Textual amendment: [Art. 21(3B)](https://www.legislation.gov.uk/nisi/1996/1919/article/21/3B) inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(3)](https://www.legislation.gov.uk/nia/2015/1/section/17/3), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
+[^c-85e4285475dd35405aaa4c7bf2629d7a]: Textual amendment: [Art. 21(3B)](https://www.legislation.gov.uk/nisi/1996/1919/article/21/3B) inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(3)](https://www.legislation.gov.uk/nia/2015/1/section/17/3), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
 
 [^c17621161]: Textual amendment: [1998 NI 15](https://www.legislation.gov.uk/nisi/1998)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109.[^key-3374fbae0f5e91b1d158181f6f3c43e0]
+## 109.[^c-3374fbae0f5e91b1d158181f6f3c43e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 53 (publicising an application) has effect as if—
 
 ## Annotations
 
-[^key-3374fbae0f5e91b1d158181f6f3c43e0]: Commencement: Reg. 109 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-3374fbae0f5e91b1d158181f6f3c43e0]: Commencement: Reg. 109 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

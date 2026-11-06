@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.52. After service[^key-fe589970343ba157e4f46d596d14d251]
+## 6.52. After service[^c-fe589970343ba157e4f46d596d14d251]
 
 *Extent: E+W*
 
@@ -29,13 +29,13 @@ summary: ''
 
 (2) The Senior Master will send to the person who requested service—
 
-- (a) a certificate, sealed with the seal of the Senior Courts[^key-9441148982096fd91301ac73b57dd0fc] for use out of the jurisdiction, stating—
+- (a) a certificate, sealed with the seal of the Senior Courts[^c-9441148982096fd91301ac73b57dd0fc] for use out of the jurisdiction, stating—
   - (i) when and how the document was served or the reason why it has not been served; and
   - (ii) where appropriate, an amount certified by a costs judge to be the costs of serving or attempting to serve the document; and
 - (b) a copy of the document.
 
 ## Annotations
 
-[^key-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
+[^c-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
 
-[^key-9441148982096fd91301ac73b57dd0fc]: Textual amendment: Words in [rule 6.52(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.52/2/a) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2009/2092/rule/3/c)
+[^c-9441148982096fd91301ac73b57dd0fc]: Textual amendment: Words in [rule 6.52(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.52/2/a) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2009/2092/rule/3/c)

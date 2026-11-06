@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Aircraft licences[^key-df36ea8fe9d7305b1b94ef834e7e1aae]
+## 33A. Aircraft licences[^c-df36ea8fe9d7305b1b94ef834e7e1aae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibition in regulation 29A(A1) (prohibition on overflight or landing) doe
 
 ## Annotations
 
-[^key-df36ea8fe9d7305b1b94ef834e7e1aae]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2019/600/regulation/33A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2022/748/regulation/36)
+[^c-df36ea8fe9d7305b1b94ef834e7e1aae]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2019/600/regulation/33A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2022/748/regulation/36)

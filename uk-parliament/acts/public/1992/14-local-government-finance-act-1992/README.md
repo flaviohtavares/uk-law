@@ -33,11 +33,11 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 
 \[6th March 1992\]
 
-[^c18834791][^c12072731]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_ccf3642e-0bd4-4cf7-be86-39c845ac2eb2][^key-f3b251f34737258edc80844bd051ed4e][^key-7d989ecfc2fe850855c8677a450c17b1]
+[^c18834791][^c12072731]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_ccf3642e-0bd4-4cf7-be86-39c845ac2eb2][^c-f3b251f34737258edc80844bd051ed4e][^c-7d989ecfc2fe850855c8677a450c17b1]
 
 ## Contents
 
-### Part I — Council Tax: England and Wales[^c12072771][^c12072781][^c12072791][^key-8d3a5cc104e8bb2fea7476f4d74a6994][^key-90cd387516e88f9820eea0caf466e4ea]
+### Part I — Council Tax: England and Wales[^c12072771][^c12072781][^c12072791][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea]
 
 *Extent: E+W*
 
@@ -130,7 +130,7 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 - [Section 28 — Information about lists.](part-i/section-28.md)
 - [Section 29 — Information about proposals and appeals.](part-i/section-29.md)
 
-#### Chapter III — Setting of Council Tax[^c12073601][^key-d30cde167c3ee543daa6002c19d333b3][^key-b3a5ebab528d6e892e4ab019568a5cda][^key-8d3a5cc104e8bb2fea7476f4d74a6994][^key-90cd387516e88f9820eea0caf466e4ea][^key-fb8d2eb3c6f27527a75b3d59c992cb1e][^key-1304ad51e0298e9c29d2496b54843766]
+#### Chapter III — Setting of Council Tax[^c12073601][^c-d30cde167c3ee543daa6002c19d333b3][^c-b3a5ebab528d6e892e4ab019568a5cda][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c-fb8d2eb3c6f27527a75b3d59c992cb1e][^c-1304ad51e0298e9c29d2496b54843766]
 
 *Extent: E+W*
 
@@ -157,7 +157,7 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 
 - [Section 38 — Information for purposes of Chapter III.](part-i/section-38.md)
 
-#### Chapter IV — Precepts[^c12076751][^key-bb7f6b996e608a693d568e2b4cc6cc54][^key-72294a4a9a039d94c791af624e46de74][^key-01267f34dda8d89fcdb641f13434ed4b]
+#### Chapter IV — Precepts[^c12076751][^c-bb7f6b996e608a693d568e2b4cc6cc54][^c-72294a4a9a039d94c791af624e46de74][^c-01267f34dda8d89fcdb641f13434ed4b]
 
 *Extent: E+W*
 
@@ -194,29 +194,29 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 
 - [Section 52 — Information for purposes of Chapter IV.](part-i/section-52.md)
 
-#### CHAPTER IVZA — Referendums relating to council tax increases[^key-92e8115527ff13b77001988cfd8f99f7][^key-bb7f6b996e608a693d568e2b4cc6cc54][^key-72294a4a9a039d94c791af624e46de74][^key-bb87d70d5a131d782099172c2abb0316][^key-6e7ef88ffa521f0c646645ea0a191527]
+#### CHAPTER IVZA — Referendums relating to council tax increases[^c-92e8115527ff13b77001988cfd8f99f7][^c-bb7f6b996e608a693d568e2b4cc6cc54][^c-72294a4a9a039d94c791af624e46de74][^c-bb87d70d5a131d782099172c2abb0316][^c-6e7ef88ffa521f0c646645ea0a191527]
 
 *Extent: E+W*
 
-##### Interpretation of Chapter[^key-6e7ef88ffa521f0c646645ea0a191527]
+##### Interpretation of Chapter[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 - [Section 52ZA — Interpretation of Chapter](part-i/section-52za.md)
 
-##### Determination of whether increase excessive[^key-6e7ef88ffa521f0c646645ea0a191527]
+##### Determination of whether increase excessive[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 - [Section 52ZB — Duty to determine whether council tax excessive](part-i/section-52zb.md)
 - [Section 52ZC — Determination of whether increase is excessive](part-i/section-52zc.md)
 - [Section 52ZD — Approval of principles](part-i/section-52zd.md)
 - [Section 52ZE — Alternative notional amounts](part-i/section-52ze.md)
 
-##### Excessive increase in council tax by billing authority[^key-6e7ef88ffa521f0c646645ea0a191527]
+##### Excessive increase in council tax by billing authority[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 - [Section 52ZF — Billing authority's duty to make substitute calculations](part-i/section-52zf.md)
 - [Section 52ZG — Arrangements for referendum](part-i/section-52zg.md)
 - [Section 52ZH — Effect of referendum](part-i/section-52zh.md)
 - [Section 52ZI — Failure to hold referendum](part-i/section-52zi.md)
 
-##### Excessive increase in council tax by precepting authority[^key-6e7ef88ffa521f0c646645ea0a191527]
+##### Excessive increase in council tax by precepting authority[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 - [Section 52ZJ — Major precepting authority's duty to make substitute calculations](part-i/section-52zj.md)
 - [Section 52ZK — Major precepting authority's duty to notify appropriate billing authorities](part-i/section-52zk.md)
@@ -226,11 +226,11 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 - [Section 52ZO — Effect of referendum](part-i/section-52zo.md)
 - [Section 52ZP — Failure to hold referendum](part-i/section-52zp.md)
 
-##### Regulations about referendums[^key-6e7ef88ffa521f0c646645ea0a191527]
+##### Regulations about referendums[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 - [Section 52ZQ — Regulations about referendums](part-i/section-52zq.md)
 
-##### Directions that referendum provisions are not to apply[^key-6e7ef88ffa521f0c646645ea0a191527]
+##### Directions that referendum provisions are not to apply[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 - [Section 52ZR — Direction that referendum provisions are not to apply](part-i/section-52zr.md)
 - [Section 52ZS — Directions to billing authorities](part-i/section-52zs.md)
@@ -239,12 +239,12 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 - [Section 52ZV — Directions to local precepting authorities](part-i/section-52zv.md)
 - [Section 52ZW — Further provisions about directions](part-i/section-52zw.md)
 
-##### Meaning of basic amount of council tax[^key-6e7ef88ffa521f0c646645ea0a191527]
+##### Meaning of basic amount of council tax[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 - [Section 52ZX — Meaning of relevant basic amount of council tax](part-i/section-52zx.md)
 - [Section 52ZY — Information for purposes of Chapter 4ZA](part-i/section-52zy.md)
 
-#### CHAPTER IVA — LIMITATION OF COUNCIL TAX AND PRECEPTS[^key-8d3a5cc104e8bb2fea7476f4d74a6994][^key-90cd387516e88f9820eea0caf466e4ea][^c12078881]
+#### CHAPTER IVA — LIMITATION OF COUNCIL TAX AND PRECEPTS[^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c12078881]
 
 ##### Introduction[^c12078881]
 
@@ -343,7 +343,7 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 - [Section 63 — Separate administration in England and Wales.](part-i/section-63.md)
 - [Section 64 — Information for purposes of Chapter V.](part-i/section-64.md)
 
-#### Chapter VI — Miscellaneous and Supplemental[^key-8d3a5cc104e8bb2fea7476f4d74a6994][^key-90cd387516e88f9820eea0caf466e4ea][^key-00cf63f5b82c6aee0eebf96a1d23451f]
+#### Chapter VI — Miscellaneous and Supplemental[^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c-00cf63f5b82c6aee0eebf96a1d23451f]
 
 *Extent: E+W*
 
@@ -502,9 +502,9 @@ SCHEDULES
 
 [^M_C_ccf3642e-0bd4-4cf7-be86-39c845ac2eb2]: Modification: Act applied (with modifications) (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [reg. 15](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2) (as amended (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2012/20/regulation/6), [10](https://www.legislation.gov.uk/uksi/2012/20/regulation/10), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/20/schedule/1) and as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [reg. 9](https://www.legislation.gov.uk/uksi/2018/1296/regulation/9))
 
-[^key-f3b251f34737258edc80844bd051ed4e]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-f3b251f34737258edc80844bd051ed4e]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
-[^key-7d989ecfc2fe850855c8677a450c17b1]: Modification: Act modified (E.W.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-7d989ecfc2fe850855c8677a450c17b1]: Modification: Act modified (E.W.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
 [^c12072771]: Modification: Pt. I (ss. 1-69) modified (6.3.1992) by [Local Government Act 1992 (c. 19)](https://www.legislation.gov.uk/ukpga/1992/19), [s. 18(1)(a)(b)](https://www.legislation.gov.uk/ukpga/1992/19/section/18/1/a/b).
 
@@ -514,9 +514,9 @@ SCHEDULES
 
     Pt. I (ss. 1-69) modified (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 3](https://www.legislation.gov.uk/uksi/1994/2825/regulation/3)
 
-[^key-8d3a5cc104e8bb2fea7476f4d74a6994]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8)
+[^c-8d3a5cc104e8bb2fea7476f4d74a6994]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8)
 
-[^key-90cd387516e88f9820eea0caf466e4ea]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2008/3022/regulation/7)
+[^c-90cd387516e88f9820eea0caf466e4ea]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2008/3022/regulation/7)
 
 [^c12072801]: Modification: Pt. I Chapter I amended (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [regs. 44](https://www.legislation.gov.uk/uksi/1994/2825/regulation/44), [49](https://www.legislation.gov.uk/uksi/1994/2825/regulation/49)
 
@@ -534,13 +534,13 @@ SCHEDULES
 
     Pt. 1 Ch. 3 modified (W.) (2.5.2002) by [The Bridgend (Cynffig, Cornelly and Pyle Communities) (Electoral Changes) Order 2002 (S.I. 2002/1129)](https://www.legislation.gov.uk/uksi/2002/1129), [art. 5(4)](https://www.legislation.gov.uk/uksi/2002/1129/article/5/4)
 
-[^key-d30cde167c3ee543daa6002c19d333b3]: Modification: Pt. 1 Ch. 3 modified (W.) (3.3.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Powys (Communities) Order 2008 (S.I. 2008/584)](https://www.legislation.gov.uk/uksi/2008/584), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/584/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/584/article/1/3), [20(4)](https://www.legislation.gov.uk/uksi/2008/584/article/20/4)
+[^c-d30cde167c3ee543daa6002c19d333b3]: Modification: Pt. 1 Ch. 3 modified (W.) (3.3.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Powys (Communities) Order 2008 (S.I. 2008/584)](https://www.legislation.gov.uk/uksi/2008/584), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/584/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/584/article/1/3), [20(4)](https://www.legislation.gov.uk/uksi/2008/584/article/20/4)
 
-[^key-b3a5ebab528d6e892e4ab019568a5cda]: Modification: Pt. 1 Ch. 3 modified (E.) (8.4.2008) by [Local Government Finance (New Parishes) (England) Regulations 2008 (S.I. 2008/626)](https://www.legislation.gov.uk/uksi/2008/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2008/626/regulation/4)
+[^c-b3a5ebab528d6e892e4ab019568a5cda]: Modification: Pt. 1 Ch. 3 modified (E.) (8.4.2008) by [Local Government Finance (New Parishes) (England) Regulations 2008 (S.I. 2008/626)](https://www.legislation.gov.uk/uksi/2008/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2008/626/regulation/4)
 
-[^key-fb8d2eb3c6f27527a75b3d59c992cb1e]: Modification: Pt. 1 Ch. 3 applied (with modifications) (1.4.2011) by [The Pembrokeshire (Communities) Order 2011 (S.I. 2011/683)](https://www.legislation.gov.uk/uksi/2011/683), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2011/683/article/1/3), [21(4)](https://www.legislation.gov.uk/uksi/2011/683/article/21/4)
+[^c-fb8d2eb3c6f27527a75b3d59c992cb1e]: Modification: Pt. 1 Ch. 3 applied (with modifications) (1.4.2011) by [The Pembrokeshire (Communities) Order 2011 (S.I. 2011/683)](https://www.legislation.gov.uk/uksi/2011/683), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2011/683/article/1/3), [21(4)](https://www.legislation.gov.uk/uksi/2011/683/article/21/4)
 
-[^key-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
+[^c-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
 
 [^c12076751]: Modification: Pt. I Chs. III-IV (ss. 30-52) modified (E.) (1.2.1993) by [S.I. 1993/22](https://www.legislation.gov.uk/uksi/1993/22), [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/22/article/4/2)
 
@@ -556,20 +556,20 @@ SCHEDULES
 
     Pt. I Ch. IV (ss. 39-52) restricted (12.7.1995) by [S.I. 1995/1774](https://www.legislation.gov.uk/uksi/1995/1774), [art. 4(3)(b)(i)](https://www.legislation.gov.uk/uksi/1995/1774/article/4/3/b/i)
 
-[^key-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
+[^c-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
 
-[^key-72294a4a9a039d94c791af624e46de74]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA) applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)(2)(a)](https://www.legislation.gov.uk/uksi/2017/611/article/4/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule) (as amended (17.5.2024) by [S.I. 2024/652](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/1), [3(a)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a))
+[^c-72294a4a9a039d94c791af624e46de74]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA) applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)(2)(a)](https://www.legislation.gov.uk/uksi/2017/611/article/4/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule) (as amended (17.5.2024) by [S.I. 2024/652](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/1), [3(a)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a))
 
-[^key-01267f34dda8d89fcdb641f13434ed4b]: Modification: [Pt. 1 Ch. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/I/chapter/IV): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/3), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-01267f34dda8d89fcdb641f13434ed4b]: Modification: [Pt. 1 Ch. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/I/chapter/IV): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/3), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-92e8115527ff13b77001988cfd8f99f7]: Modification: Pt. 1 Ch. 4ZA modified by S.I. 2008/3022, reg. 15A, Sch. 3 (as inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/20/regulation/7), [11](https://www.legislation.gov.uk/uksi/2012/20/regulation/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/20/schedule/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10), [12](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12))
+[^c-92e8115527ff13b77001988cfd8f99f7]: Modification: Pt. 1 Ch. 4ZA modified by S.I. 2008/3022, reg. 15A, Sch. 3 (as inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/20/regulation/7), [11](https://www.legislation.gov.uk/uksi/2012/20/regulation/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/20/schedule/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10), [12](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12))
 
-[^key-bb87d70d5a131d782099172c2abb0316]: Modification: [Pt. 1 Ch. 4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/3), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-bb87d70d5a131d782099172c2abb0316]: Modification: [Pt. 1 Ch. 4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/3), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
+[^c-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
 
 [^c12078881]: Textual amendment: Chapter 4A (ss. 52A-52Z) inserted (27.7.1999 with effect as mentioned in [s. 30(2)](https://www.legislation.gov.uk/ukpga/1999/27/section/30/2) of the amending Act.) by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [s. 30(1)](https://www.legislation.gov.uk/ukpga/1999/27/section/30/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1999/27/schedule/1/paragraph/1)
 
 [^c12079231]: Textual amendment: Pt. I Ch. V (ss. 53-64) repealed (27.7.1999 with application in relation to the limitation of council tax and precepts as regards the financial year beginning with 1.4.2000 and subsequent financial years) by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [ss. 30](https://www.legislation.gov.uk/ukpga/1999/27/section/30), [34](https://www.legislation.gov.uk/ukpga/1999/27/section/34), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1999/27/schedule/1/paragraph/5), [Sch. 2(2)](https://www.legislation.gov.uk/ukpga/1999/27/schedule/2/2); and s. 54(4) in so far as still in force is expressed to be modified (W.) (2.5.2002) by [S.I. 2002/1129](https://www.legislation.gov.uk/uksi/2002/1129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/1129/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1129/article/1/3), [5(3)(c)](https://www.legislation.gov.uk/uksi/2002/1129/article/5/3/c)[(6)](https://www.legislation.gov.uk/uksi/2002/1129/article/5/6) and (W.) (1.4.2008) by [S.I. 2008/584](https://www.legislation.gov.uk/uksi/2008/584), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/584/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/584/article/1/3), [20(3)(c)](https://www.legislation.gov.uk/uksi/2008/584/article/20/3/c)[(6)](https://www.legislation.gov.uk/uksi/2008/584/article/20/6)
 
-[^key-00cf63f5b82c6aee0eebf96a1d23451f]: Modification: Pt. 1 Ch. 6 modified by S.I. 2008/3022, reg. 15A, Sch. 3 (as inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/20/regulation/7), [11](https://www.legislation.gov.uk/uksi/2012/20/regulation/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/20/schedule/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10), [12](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12))
+[^c-00cf63f5b82c6aee0eebf96a1d23451f]: Modification: Pt. 1 Ch. 6 modified by S.I. 2008/3022, reg. 15A, Sch. 3 (as inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/20/regulation/7), [11](https://www.legislation.gov.uk/uksi/2012/20/regulation/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/20/schedule/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10), [12](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12))

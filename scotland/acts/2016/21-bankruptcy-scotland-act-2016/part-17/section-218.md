@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 218. General offences by debtor etc.[^key-110beded528e4a8ee1e6a92d88416f9a]
+## 218. General offences by debtor etc.[^c-110beded528e4a8ee1e6a92d88416f9a]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ without giving the person from whom the credit is obtained the relevant informat
 
 ## Annotations
 
-[^key-110beded528e4a8ee1e6a92d88416f9a]: Commencement: S. 218 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-110beded528e4a8ee1e6a92d88416f9a]: Commencement: S. 218 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

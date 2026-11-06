@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Final costs certificate[^key-eb1f71d19e4b55a5b16795cd82b5662d]
+## 123. Final costs certificate[^c-eb1f71d19e4b55a5b16795cd82b5662d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1f71d19e4b55a5b16795cd82b5662d]: Commencement: [Rule 123](https://www.legislation.gov.uk/uksi/2013/3208/rule/123) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-eb1f71d19e4b55a5b16795cd82b5662d]: Commencement: [Rule 123](https://www.legislation.gov.uk/uksi/2013/3208/rule/123) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

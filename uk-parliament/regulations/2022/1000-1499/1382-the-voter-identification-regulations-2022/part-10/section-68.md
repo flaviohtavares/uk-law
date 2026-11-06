@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendment of the 2016 Regulations[^key-b9710f172dbc2d1a217d746faa9eba21]
+## 68. Amendment of the 2016 Regulations[^c-b9710f172dbc2d1a217d746faa9eba21]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The 2016 Regulations are amended in accordance with regulations 69 to 92.
 
 ## Annotations
 
-[^key-b9710f172dbc2d1a217d746faa9eba21]: Commencement: Reg. 68 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-b9710f172dbc2d1a217d746faa9eba21]: Commencement: Reg. 68 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

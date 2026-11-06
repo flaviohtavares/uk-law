@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Clerks to committees[^key-760137292a23c3e7450abcdc6a991031]
+## 70. Clerks to committees[^c-760137292a23c3e7450abcdc6a991031]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-760137292a23c3e7450abcdc6a991031]: Commencement: Reg. 70 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-760137292a23c3e7450abcdc6a991031]: Commencement: Reg. 70 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

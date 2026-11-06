@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) This section applies where a person uses a motor vehicle in circumstances such that under section 143 of this Act there is required to be in force in relation to his use of it such a policy of insurance [^key-f5e4b690938d848ca1498721a5064d13]... as complies with the requirements of this Part of this Act.
+(1) This section applies where a person uses a motor vehicle in circumstances such that under section 143 of this Act there is required to be in force in relation to his use of it such a policy of insurance [^c-f5e4b690938d848ca1498721a5064d13]... as complies with the requirements of this Part of this Act.
 
 (2) If any other person is carried in or upon the vehicle while the user is so using it, any antecedent agreement or understanding between them (whether intended to be legally binding or not) shall be of no effect so far as it purports or might be held—
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c13992161]: Modification: S. 149 excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 8(1)(b)(2)(b)](https://www.legislation.gov.uk/uksi/1999/1736/article/8/1/b/2/b)
 
-[^key-f5e4b690938d848ca1498721a5064d13]: Textual amendment: Words in s. 149(1) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/12) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-f5e4b690938d848ca1498721a5064d13]: Textual amendment: Words in s. 149(1) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/12) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))

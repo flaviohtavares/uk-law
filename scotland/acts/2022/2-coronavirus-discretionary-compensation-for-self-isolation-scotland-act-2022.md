@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to temporarily modify sections of the Public H
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 9th February 2022 and received Royal Assent on 23rd March 2022
 
-## 1. Discretionary compensation for self-isolation[^key-fb4d63026d0163efb3d2a703a2abe0f0]
+## 1. Discretionary compensation for self-isolation[^c-fb4d63026d0163efb3d2a703a2abe0f0]
 
 (1) The Public Health etc. (Scotland) Act 2008 applies in accordance with the modifications in subsections (2) and (3).
 
@@ -66,7 +66,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-## 2. Expiry of section 1[^key-19248585bd131ce9c4c901d251301000]
+## 2. Expiry of section 1[^c-19248585bd131ce9c4c901d251301000]
 
 (1) Section 1 expires at the end of 31 October 2022.
 
@@ -76,7 +76,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Regulations under this section are subject to the negative procedure.
 
-## 3. Power to alter expiry date[^key-8cd3e538d334fdf1947f07dcf5e1a1b7]
+## 3. Power to alter expiry date[^c-8cd3e538d334fdf1947f07dcf5e1a1b7]
 
 (1) The Scottish Ministers may by regulations provide that section 1—
 
@@ -97,7 +97,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) In this section, references to the time when section 1 would otherwise expire or would otherwise have expired are references to the time when that would occur or would have occurred whether under section 2 or previous regulations under subsection (1) or (2).
 
-## 4. Procedure for regulations under section 3[^key-9daef3ef1268d47ad94a13667bb62519]
+## 4. Procedure for regulations under section 3[^c-9daef3ef1268d47ad94a13667bb62519]
 
 (1) Regulations under section 3(1) are subject to the negative procedure.
 
@@ -129,7 +129,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) affect anything previously done by reference to the regulations,
 - (b) prevent new emergency regulations being made to the same or similar effect.
 
-## 5. Coronavirus Act 2020: expiry of paragraph 46 of schedule 21[^key-78f9b61e969494bf02444f83881c92c9]
+## 5. Coronavirus Act 2020: expiry of paragraph 46 of schedule 21[^c-78f9b61e969494bf02444f83881c92c9]
 
 (1) If and in so far as it has not already expired, paragraph 46 of schedule 21 of the Coronavirus Act 2020 (modification of Public Health etc. (Scotland) Act 2008) expires on the date on which this Act comes into force.
 
@@ -139,26 +139,26 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Regulations under this section are subject to the negative procedure.
 
-## 6. Commencement[^key-c8334548f1fd3bc086d5ace4e36612a5]
+## 6. Commencement[^c-c8334548f1fd3bc086d5ace4e36612a5]
 
 This Act comes into force on the day after Royal Assent.
 
-## 7. Short title[^key-5888a57a006f61e72b1880798858fe94]
+## 7. Short title[^c-5888a57a006f61e72b1880798858fe94]
 
 The short title of this Act is the Coronavirus (Discretionary Compensation for Self-isolation) (Scotland) Act 2022.
 
 ## Annotations
 
-[^key-fb4d63026d0163efb3d2a703a2abe0f0]: Commencement: S. 1 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
+[^c-fb4d63026d0163efb3d2a703a2abe0f0]: Commencement: S. 1 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
 
-[^key-19248585bd131ce9c4c901d251301000]: Commencement: S. 2 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
+[^c-19248585bd131ce9c4c901d251301000]: Commencement: S. 2 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
 
-[^key-8cd3e538d334fdf1947f07dcf5e1a1b7]: Commencement: S. 3 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
+[^c-8cd3e538d334fdf1947f07dcf5e1a1b7]: Commencement: S. 3 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
 
-[^key-9daef3ef1268d47ad94a13667bb62519]: Commencement: S. 4 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
+[^c-9daef3ef1268d47ad94a13667bb62519]: Commencement: S. 4 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
 
-[^key-78f9b61e969494bf02444f83881c92c9]: Commencement: S. 5 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
+[^c-78f9b61e969494bf02444f83881c92c9]: Commencement: S. 5 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
 
-[^key-c8334548f1fd3bc086d5ace4e36612a5]: Commencement: S. 6 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
+[^c-c8334548f1fd3bc086d5ace4e36612a5]: Commencement: S. 6 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
 
-[^key-5888a57a006f61e72b1880798858fe94]: Commencement: S. 7 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)
+[^c-5888a57a006f61e72b1880798858fe94]: Commencement: S. 7 in force at 24.3.2022, see [s. 6](https://www.legislation.gov.uk/asp/2022/2/section/6)

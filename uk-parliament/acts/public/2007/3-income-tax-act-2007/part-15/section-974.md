@@ -22,7 +22,7 @@ summary: ''
 
 (1) Regulations under section 973 may, in particular—
 
-- (a) require a company to deduct sums representing income tax at the property basic rate[^key-af3c774536d0a8dde9d1859239becebd] before payment of distributions,
+- (a) require a company to deduct sums representing income tax at the property basic rate[^c-af3c774536d0a8dde9d1859239becebd] before payment of distributions,
 - (b) specify classes of shareholder to whom distributions may be made without deduction of such sums,
 - (c) make provision about the calculation of the sums to be deducted by a company,
 - (d) require a company to account for income tax equal to the sums deducted,
@@ -33,7 +33,7 @@ summary: ''
 - (i) make provision about the making of claims and determinations in respect of over-payment or under-payment (which may include provision for appeals),
 - (j) include provision requiring the payment of interest in respect of late payments of income tax (which may—
   - (i) provide for payment without deduction of sums representing income tax,
-  - (ii) allow interest paid as a deduction from profits of the company's property rental business[^key-e27664e15dd7f852b0e66f0fddfd9203]),
+  - (ii) allow interest paid as a deduction from profits of the company's property rental business[^c-e27664e15dd7f852b0e66f0fddfd9203]),
 - (k) require a company to provide a shareholder with a statement in writing containing specified information,
 - (l) make provision about the repayment to a shareholder of sums deducted and paid to the Commissioners for Her Majesty's Revenue and Customs in respect of income tax,
 - (m) make provision for the payment of interest in respect of repayments under paragraph (l),
@@ -41,9 +41,9 @@ summary: ''
 - (o) require a company to make returns, and
 - (p) require a company to make records available to the Commissioners for Her Majesty's Revenue and Customs for inspection.
 
-(2) A reference in subsection (1) to a distribution in respect of profits of property rental business[^key-60498663348f5ed7f798ca0b7006bcbb] includes a distribution made after the company or group (as the case may be) has ceased to be a UK REIT[^key-1a38a99f13c3cf63027086007d8f3b13].
+(2) A reference in subsection (1) to a distribution in respect of profits of property rental business[^c-60498663348f5ed7f798ca0b7006bcbb] includes a distribution made after the company or group (as the case may be) has ceased to be a UK REIT[^c-1a38a99f13c3cf63027086007d8f3b13].
 
-(3) A distribution which is treated as having been made by virtue of section 530(6) of CTA 2010[^key-93477a6bbc1f739760c0db4262683a38] is also to be treated as having been made for the purposes of regulations under section 973.
+(3) A distribution which is treated as having been made by virtue of section 530(6) of CTA 2010[^c-93477a6bbc1f739760c0db4262683a38] is also to be treated as having been made for the purposes of regulations under section 973.
 
 (4) Regulations under section 973—
 
@@ -53,25 +53,25 @@ summary: ''
 
 (5) In subsections (1) and (2), so far as they apply to cases within section 973(1)(a), “**profits**” includes gains (including chargeable gains).
 
-(6)[^key-c8ebdeded174047744426001ce271f11] In this section—
+(6)[^c-c8ebdeded174047744426001ce271f11] In this section—
 
 - property rental business” has the same meaning as in Part 12 of CTA 2010 (see section 519 of that Act), and
 - “**UK REIT**” has the same meaning as in Part 12 of CTA 2010 (see section 518(4) of that Act).
 
-(7)[^key-814539d7cd3fd5e086d58a6201c03832] In relation to references to profits of property rental business, see section 549A of CTA 2010.
+(7)[^c-814539d7cd3fd5e086d58a6201c03832] In relation to references to profits of property rental business, see section 549A of CTA 2010.
 
 ## Annotations
 
-[^key-af3c774536d0a8dde9d1859239becebd]: Textual amendment: Words in s. 974(1)(a) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/33)
+[^c-af3c774536d0a8dde9d1859239becebd]: Textual amendment: Words in s. 974(1)(a) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/33)
 
-[^key-e27664e15dd7f852b0e66f0fddfd9203]: Textual amendment: Words in s. 974(1)(j)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e27664e15dd7f852b0e66f0fddfd9203]: Textual amendment: Words in s. 974(1)(j)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-60498663348f5ed7f798ca0b7006bcbb]: Textual amendment: Words in s. 974(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-60498663348f5ed7f798ca0b7006bcbb]: Textual amendment: Words in s. 974(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-1a38a99f13c3cf63027086007d8f3b13]: Textual amendment: Words in s. 974(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1a38a99f13c3cf63027086007d8f3b13]: Textual amendment: Words in s. 974(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-93477a6bbc1f739760c0db4262683a38]: Textual amendment: Words in s. 974(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-93477a6bbc1f739760c0db4262683a38]: Textual amendment: Words in s. 974(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-c8ebdeded174047744426001ce271f11]: Textual amendment: S. 974(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c8ebdeded174047744426001ce271f11]: Textual amendment: S. 974(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 561(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/561/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-814539d7cd3fd5e086d58a6201c03832]: Textual amendment: S. 974(7) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/12)
+[^c-814539d7cd3fd5e086d58a6201c03832]: Textual amendment: S. 974(7) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/12)

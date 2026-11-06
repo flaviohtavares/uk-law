@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114A. Requirements for food and drink provided on school premises etc[^key-01c1b8f855d5da7633499e2cb1b4969c]
+## 114A. Requirements for food and drink provided on school premises etc[^c-01c1b8f855d5da7633499e2cb1b4969c]
 
 *Extent: E+W*
 
 (1) Regulations may prescribe requirements which, subject to such exceptions as may be provided for by or under the regulations, are to be complied with in connection with—
 
-- (a) food or drink provided on the premises of any school maintained by a local authority[^key-5177265949adaa73e26402711f36dc2e] in England *(Extent: W)*[^key-2c727250557310eecd22cd773ae5e871], or
-- (b) food or drink provided at a place other than school premises by a local authority in England *(Extent: W)*[^key-204b0499fa03b4eabdbfd9e8fbb52123] or the governing body of a school maintained by such an authority to any registered pupil at the school.
+- (a) food or drink provided on the premises of any school maintained by a local authority[^c-5177265949adaa73e26402711f36dc2e] in England *(Extent: W)*[^c-2c727250557310eecd22cd773ae5e871], or
+- (b) food or drink provided at a place other than school premises by a local authority in England *(Extent: W)*[^c-204b0499fa03b4eabdbfd9e8fbb52123] or the governing body of a school maintained by such an authority to any registered pupil at the school.
 
 (2) Regulations under this section may in particular—
 
@@ -64,10 +64,10 @@ that authority or, as the case may be, that governing body must secure that any 
 
 ## Annotations
 
-[^key-01c1b8f855d5da7633499e2cb1b4969c]: Textual amendment: S. 114A and cross-heading substituted for s. 114 and cross-heading (8.11.2006) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/86/1), [188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1) (with [s. 86(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/86/3))
+[^c-01c1b8f855d5da7633499e2cb1b4969c]: Textual amendment: S. 114A and cross-heading substituted for s. 114 and cross-heading (8.11.2006) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 86(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/86/1), [188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1) (with [s. 86(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/86/3))
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
-[^key-2c727250557310eecd22cd773ae5e871]: Textual amendment: Words in [s. 114A(1)(a)](https://www.legislation.gov.uk/ukpga/1998/31/section/114A/1/a) inserted (W.) (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 8(1)(a)](https://www.legislation.gov.uk/mwa/2009/3/section/8/1/a), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-2c727250557310eecd22cd773ae5e871]: Textual amendment: Words in [s. 114A(1)(a)](https://www.legislation.gov.uk/ukpga/1998/31/section/114A/1/a) inserted (W.) (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 8(1)(a)](https://www.legislation.gov.uk/mwa/2009/3/section/8/1/a), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-204b0499fa03b4eabdbfd9e8fbb52123]: Textual amendment: Words in [s. 114A(1)(b)](https://www.legislation.gov.uk/ukpga/1998/31/section/114A/1/b) inserted (W.) (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 8(1)(b)](https://www.legislation.gov.uk/mwa/2009/3/section/8/1/b), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-204b0499fa03b4eabdbfd9e8fbb52123]: Textual amendment: Words in [s. 114A(1)(b)](https://www.legislation.gov.uk/ukpga/1998/31/section/114A/1/b) inserted (W.) (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 8(1)(b)](https://www.legislation.gov.uk/mwa/2009/3/section/8/1/b), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)

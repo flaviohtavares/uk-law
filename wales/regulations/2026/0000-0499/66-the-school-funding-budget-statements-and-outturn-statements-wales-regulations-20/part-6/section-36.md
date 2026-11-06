@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Information for outturn statements[^key-d6016856215830fc5e798a7b5a5aece8]
+## 36. Information for outturn statements[^c-d6016856215830fc5e798a7b5a5aece8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ A local authority must include in an outturn statement for each school maintaine
 
 ## Annotations
 
-[^key-d6016856215830fc5e798a7b5a5aece8]: Commencement: Reg. 36 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-d6016856215830fc5e798a7b5a5aece8]: Commencement: Reg. 36 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

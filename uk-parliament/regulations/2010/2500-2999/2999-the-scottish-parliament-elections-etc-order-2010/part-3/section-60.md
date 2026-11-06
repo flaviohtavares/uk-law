@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Property, goods, services etc provided free of charge or at a discount[^key-36592960f6016eafb5358516a98d5445]
+## 60. Property, goods, services etc provided free of charge or at a discount[^c-36592960f6016eafb5358516a98d5445]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ as is reasonably attributable to the use made of the property, goods, services o
 
 ## Annotations
 
-[^key-36592960f6016eafb5358516a98d5445]: Commencement: Art. 60 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-36592960f6016eafb5358516a98d5445]: Commencement: Art. 60 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8B. Restriction on grant of exclusive licence[^key-d1f75766f0459d5b607c43baec632a5e]
+## 8B. Restriction on grant of exclusive licence[^c-d1f75766f0459d5b607c43baec632a5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1f75766f0459d5b607c43baec632a5e]: Textual amendment: Ss. 8A-8C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/5) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-d1f75766f0459d5b607c43baec632a5e]: Textual amendment: Ss. 8A-8C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/5) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

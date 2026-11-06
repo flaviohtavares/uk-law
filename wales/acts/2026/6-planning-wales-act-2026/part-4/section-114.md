@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Power of planning authority to serve enforcement investigation notice[^key-d594794830d8a3124395f4c9390a7b2f]
+## 114. Power of planning authority to serve enforcement investigation notice[^c-d594794830d8a3124395f4c9390a7b2f]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d594794830d8a3124395f4c9390a7b2f]: Commencement: S. 114 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d594794830d8a3124395f4c9390a7b2f]: Commencement: S. 114 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

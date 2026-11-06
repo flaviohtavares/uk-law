@@ -54,15 +54,15 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (3) In these Regulations—
 
-- “16 to 19 provider” means—[^key-9303bd14a797fb5d6a8593c2e040dbd0]
+- “16 to 19 provider” means—[^c-9303bd14a797fb5d6a8593c2e040dbd0]
   - (a) an institution within the further education sector, or
-  - (b) an educational institution other than one referred to in subparagraph (a) that is principally concerned with providing further education suitable for persons over compulsory school age who have special educational needs [^key-01aea7712c7c4fd3c91377b9d63dce22]...,
+  - (b) an educational institution other than one referred to in subparagraph (a) that is principally concerned with providing further education suitable for persons over compulsory school age who have special educational needs [^c-01aea7712c7c4fd3c91377b9d63dce22]...,
 
   where 20% or more of the students at the institution reside in the authority’s area;.
 
 - “**the Act**” means the School Standards and Framework Act 1998;
 - “**Academies member**” means a member who represents the proprietors of the Academies situated in the authority's area;
-- “alternative provision Academy” means an educational institution which meets the requirements of section 1C of the Academies Act 2010;[^key-f37bc84396e190b1d5920a8dee805bab]
+- “alternative provision Academy” means an educational institution which meets the requirements of section 1C of the Academies Act 2010;[^c-f37bc84396e190b1d5920a8dee805bab]
 - “**authority**” means the local authority in whose area the schools forum is established;
 - “**early years providers**” means—
   - (a) persons who are registered as early years childminders or other early years providers under Chapter 2 of Part 3 of the Childcare Act 2006 [^c21365561] (which provides for the compulsory registration of persons providing early years provision) or are exempt from compulsory registration by order of the Secretary of State under section 33(2) or 34(3) of that Act,
@@ -74,10 +74,10 @@ who provide early years provision;
 - “**early years provision**” has the meaning given by section 20 of the Childcare Act 2006;
 - “**executive member**” means any elected member of the authority appointed to the executive of that authority;
 - “**governor**” includes any interim executive member of an interim executive board constituted in accordance with paragraph 2 of Schedule 6 to the Education and Inspections Act 2006 [^c21365571];
-- “mainstream Academy” means an educational institution which meets the requirements of section 1A(1) of the Academies Act 2010;[^key-096f06b7349a9049dc984beaafc5eac6]
+- “mainstream Academy” means an educational institution which meets the requirements of section 1A(1) of the Academies Act 2010;[^c-096f06b7349a9049dc984beaafc5eac6]
 - “**nursery school**” means a nursery school maintained by the authority;
 - “**primary school**” means a primary school maintained by the authority;
-- “**representative**” means either a head teacher or a senior member of staff representing a head teacher or a governor of a school maintained by the authority, save for in regulation 7(1)(a) and[^key-5b57ac868adfd15053506c72685c0acc] regulation 8 where it means a representative of the positions mentioned in that regulation;
+- “**representative**” means either a head teacher or a senior member of staff representing a head teacher or a governor of a school maintained by the authority, save for in regulation 7(1)(a) and[^c-5b57ac868adfd15053506c72685c0acc] regulation 8 where it means a representative of the positions mentioned in that regulation;
 -
 - “**school**” means a school maintained by the authority;
 - “**school category**” means one of the following categories of school—
@@ -90,7 +90,7 @@ as described in Chapter 1 of Part 2 of the Act;
 
 - “**secondary school**” means a secondary school maintained by the authority;
 - “**senior member of staff**” means a principal, deputy head teacher, bursar or other person responsible for the financial management of the school;
-- “special Academy” means an educational institution which meets the requirements of section 1A(2) of the Academies Act 2010;[^key-c2e167bc18d047b3f87489364ddd5d3b]
+- “special Academy” means an educational institution which meets the requirements of section 1A(2) of the Academies Act 2010;[^c-c2e167bc18d047b3f87489364ddd5d3b]
 - “**special school**” means a community special school or a foundation special school.
 
 (4) In these Regulations, a reference to a governing body does not include a reference to the temporary governing body of a new school and a reference to a governor does not include a reference to a member of the temporary governing body of a new school, where “**new school**” has the meaning given by section 72(3) of the Act [^c21365581].
@@ -110,16 +110,16 @@ Every authority must ensure that the schools forum for their area is constituted
 (2) A forum must comprise—
 
 - (a) schools members elected in accordance with regulation 5;
-- (b) [^key-e48ade18859dff2c6ea1838ebd9f6720]... at least one Academies member elected or selected in accordance with regulation 6; and
-- (c) non-schools members appointed or elected[^key-376d05a000f664ecffb5908ef787230f] in accordance with regulation 7.
+- (b) [^c-e48ade18859dff2c6ea1838ebd9f6720]... at least one Academies member elected or selected in accordance with regulation 6; and
+- (c) non-schools members appointed or elected[^c-376d05a000f664ecffb5908ef787230f] in accordance with regulation 7.
 
-(3)[^key-4ff0b3fda57d94187f9fc3c29da2fdcf] If, for any reason, an election for a schools member under regulation 5(1), an Academies member under regulation 6(1), or person to represent 16 to 19 providers under regulation 7(1)(a) either does not take place by the date (if any) set by an authority or results in a tie between two or more candidates, the authority must appoint the schools member, Academies member or person to represent 16 to 19 providers to their schools forum instead.
+(3)[^c-4ff0b3fda57d94187f9fc3c29da2fdcf] If, for any reason, an election for a schools member under regulation 5(1), an Academies member under regulation 6(1), or person to represent 16 to 19 providers under regulation 7(1)(a) either does not take place by the date (if any) set by an authority or results in a tie between two or more candidates, the authority must appoint the schools member, Academies member or person to represent 16 to 19 providers to their schools forum instead.
 
 (4) Schools members and Academies members must together comprise at least two thirds of the membership of the forum.
 
 (5) At least one member must be a representative of the governing bodies of maintained schools and at least one member must be a representative of the head teachers of such schools.
 
-(6) Subject to paragraphs (7) to (10C)[^key-e269159891886889f74ee60c06c37ed0], primary schools, secondary schools and Academies must be broadly proportionately represented on the forum, having regard to the total number of pupils registered at them.
+(6) Subject to paragraphs (7) to (10C)[^c-e269159891886889f74ee60c06c37ed0], primary schools, secondary schools and Academies must be broadly proportionately represented on the forum, having regard to the total number of pupils registered at them.
 
 (7) Where the authority maintain one or more secondary schools, at least one schools member must be a representative of a secondary school.
 
@@ -129,7 +129,7 @@ Every authority must ensure that the schools forum for their area is constituted
 
 (10) Where the authority maintain one or more pupil referral units, at least one schools member must be a representative of a pupil referral unit[^c21365601].
 
-(10A)[^key-a7f8a2c8e04dde27e3dc254e0436dd45] At least one Academies member must be a representative of a mainstream Academy.
+(10A)[^c-a7f8a2c8e04dde27e3dc254e0436dd45] At least one Academies member must be a representative of a mainstream Academy.
 
 (10B) If there are any special Academies in the authority’s area, at least one Academies member must be a representative of a special Academy.
 
@@ -175,7 +175,7 @@ Every authority must ensure that the schools forum for their area is constituted
 - (b) governors; or
 - (c) head teachers or head teachers' representatives and governors.
 
-## 6. Academies members[^key-5ee6d0e6c461d40200063406c93dc18f]
+## 6. Academies members[^c-5ee6d0e6c461d40200063406c93dc18f]
 
 (1) Academies members representing mainstream Academies must be elected to the schools forum by the proprietors of mainstream Academies in the authority’s area.
 
@@ -191,7 +191,7 @@ Every authority must ensure that the schools forum for their area is constituted
 
 ## 7. Non-schools members
 
-(1)[^key-8738d6f17efb0a98a85a59bcc9a6029d] The schools forum must include—
+(1)[^c-8738d6f17efb0a98a85a59bcc9a6029d] The schools forum must include—
 
 - (a) where there is at least one 16 to 19 provider, at least one person to represent 16 to 19 providers, that person to be elected by representatives of the 16 to 19 providers, or if there is only one 16 to 19 provider, by the representatives of that provider; and
 - (b) one or more persons appointed by the authority to represent early years providers.
@@ -251,13 +251,13 @@ Every authority must ensure that the schools forum for their area is constituted
 
 (8) The authority must make arrangements to enable substitutes to attend and vote at meetings of the forum on behalf of schools members, Academies members and non-schools members, in consultation with members of the forum.
 
-(9) Apart from as provided for by paragraphs (9A) to (10)[^key-019e001efb8eba225960f9684fbbfe0c] all members are entitled to vote on all matters put to a vote.
+(9) Apart from as provided for by paragraphs (9A) to (10)[^c-019e001efb8eba225960f9684fbbfe0c] all members are entitled to vote on all matters put to a vote.
 
-(9A)[^M_F_22ec9edd-2704-4774-cf8b-c5af64e77099] Only the schools members of the schools forum who are representatives of primary schools may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(d) of the School and Early Years Finance (England) Regulations 2026[^key-4c7dfcb11cc85f0b827f143a2946d951] where they relate to primary schools.
+(9A)[^M_F_22ec9edd-2704-4774-cf8b-c5af64e77099] Only the schools members of the schools forum who are representatives of primary schools may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(d) of the School and Early Years Finance (England) Regulations 2026[^c-4c7dfcb11cc85f0b827f143a2946d951] where they relate to primary schools.
 
-(9B) Only the schools members of the schools forum who are representatives of secondary schools may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(d) of the School and Early Years Finance (England) Regulations 2026[^key-28652034160d350c7645cf207a86aa8e] where they relate to secondary schools.
+(9B) Only the schools members of the schools forum who are representatives of secondary schools may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(d) of the School and Early Years Finance (England) Regulations 2026[^c-28652034160d350c7645cf207a86aa8e] where they relate to secondary schools.
 
-(9C) Only the schools members of the schools forum who are listed in regulation 5(2)(b) to (e) may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(e) of the School and Early Years Finance (England) Regulations 2026[^key-d76f6791a00516be4d6b648de9c9bf0a].
+(9C) Only the schools members of the schools forum who are listed in regulation 5(2)(b) to (e) may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(e) of the School and Early Years Finance (England) Regulations 2026[^c-d76f6791a00516be4d6b648de9c9bf0a].
 
 (10) Non-schools members, other than those who represent early years providers, must not vote on matters relating to the formulae to be used by the local authority to determine the amounts to be allocated to schools and early years providers in accordance with regulations made under sections 47 and 47ZA of the Act.
 
@@ -275,16 +275,16 @@ Every authority must ensure that the schools forum for their area is constituted
 
 ## 9. Consultation on contracts
 
-The authority must consult the schools forum on the terms of any proposed contract for supplies or services (being a contract paid or to be paid out of the authority's schools budget[^c21365631]) where the estimated value of the proposed contract is not less than the threshold which applies to the authority for that proposed contract pursuant to section 3 of, and Schedule 1 to, the Procurement Act 2023[^key-18fd59fdcf6e378f5b538cf13e62ffd7] at least one month prior to the issue of invitations to tender.
+The authority must consult the schools forum on the terms of any proposed contract for supplies or services (being a contract paid or to be paid out of the authority's schools budget[^c21365631]) where the estimated value of the proposed contract is not less than the threshold which applies to the authority for that proposed contract pursuant to section 3 of, and Schedule 1 to, the Procurement Act 2023[^c-18fd59fdcf6e378f5b538cf13e62ffd7] at least one month prior to the issue of invitations to tender.
 
 ## 10. Consultation on financial issues
 
 (1) The authority must consult the schools forum annually in respect of the authority's functions relating to the schools budget, in connection with the following—
 
-- (a) arrangements for the education of pupils with special educational needs , and in particular—[^key-6f1753863fb6f1ba8ef81e2fb8633741]
+- (a) arrangements for the education of pupils with special educational needs , and in particular—[^c-6f1753863fb6f1ba8ef81e2fb8633741]
   - (i) the places to be commissioned by the local authority in different schools and other institutions, and
   - (ii) the arrangements for paying top-up funding to schools and other institutions;
-- (b) arrangements for the use of pupil referral units and the education of children otherwise than at school , and in particular—[^key-5469dec1997c927c45c357dde4753a97]
+- (b) arrangements for the use of pupil referral units and the education of children otherwise than at school , and in particular—[^c-5469dec1997c927c45c357dde4753a97]
   - (i) the places to be commissioned by the authority and by schools in pupil referral units and other providers of alternative provision, and
   - (ii) the arrangements for paying top-up funding to pupil referral units and other providers of alternative provision;
 - (c) arrangements for early years provision;
@@ -326,41 +326,41 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c21365551]: Marginal citation: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 47A was inserted by section 43 of the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32) and has been amended by paragraph 7 of Schedule 16 to the [Education Act 2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18); [paragraphs 2(1)](https://www.legislation.gov.uk/uksi/2012/2261/paragraph/2/1), (3) and (4) of Schedule 5 and Part 6 of Schedule 18 to the [Education and Inspections Act 2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40); [section 165](https://www.legislation.gov.uk/uksi/2012/2261/section/165) of and Schedule 2 to the [Education and Skills Act 2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), [section 194](https://www.legislation.gov.uk/ukpga/2008/25/section/194) of the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). For the meaning of “prescribed” and “regulations” see [section 142(1)](https://www.legislation.gov.uk/uksi/2010/1158/section/142/1) of the School Standards and Framework Act 1998.
 
-[^key-9303bd14a797fb5d6a8593c2e040dbd0]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/2)
+[^c-9303bd14a797fb5d6a8593c2e040dbd0]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/2)
 
-[^key-01aea7712c7c4fd3c91377b9d63dce22]: Textual amendment: Words in reg. 1(3) revoked (1.9.2014) by virtue of [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [41](https://www.legislation.gov.uk/uksi/2014/2103/article/41)
+[^c-01aea7712c7c4fd3c91377b9d63dce22]: Textual amendment: Words in reg. 1(3) revoked (1.9.2014) by virtue of [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [41](https://www.legislation.gov.uk/uksi/2014/2103/article/41)
 
-[^key-f37bc84396e190b1d5920a8dee805bab]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/a)
+[^c-f37bc84396e190b1d5920a8dee805bab]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/a)
 
 [^c21365561]: Marginal citation: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
 
 [^c21365571]: Marginal citation: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-096f06b7349a9049dc984beaafc5eac6]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/b)
+[^c-096f06b7349a9049dc984beaafc5eac6]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/b)
 
-[^key-5b57ac868adfd15053506c72685c0acc]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/3)
+[^c-5b57ac868adfd15053506c72685c0acc]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/3)
 
-[^key-c2e167bc18d047b3f87489364ddd5d3b]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/c)
+[^c-c2e167bc18d047b3f87489364ddd5d3b]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/c)
 
 [^c21365581]: Marginal citation: Section 72(3) was amended by section 215(1) of, and paragraph 106 of Schedule 21 to, the Education Act 2002.
 
 [^c21365591]: Marginal citation: [S.I. 2010/344](https://www.legislation.gov.uk/uksi/2010/344), amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 
-[^key-e48ade18859dff2c6ea1838ebd9f6720]: Textual amendment: Words in reg. 4(2)(b) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/3)
+[^c-e48ade18859dff2c6ea1838ebd9f6720]: Textual amendment: Words in reg. 4(2)(b) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/3)
 
-[^key-376d05a000f664ecffb5908ef787230f]: Textual amendment: Words in reg. 4(2)(c) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/4)
+[^c-376d05a000f664ecffb5908ef787230f]: Textual amendment: Words in reg. 4(2)(c) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/4)
 
-[^key-4ff0b3fda57d94187f9fc3c29da2fdcf]: Textual amendment: Reg. 4(3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/5)
+[^c-4ff0b3fda57d94187f9fc3c29da2fdcf]: Textual amendment: Reg. 4(3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/5)
 
-[^key-e269159891886889f74ee60c06c37ed0]: Textual amendment: Word in reg. 4(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/4)
+[^c-e269159891886889f74ee60c06c37ed0]: Textual amendment: Word in reg. 4(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/4)
 
 [^c21365601]: Marginal citation: “**Pupil referral units**” has the meaning given in section 19(2B) of the Education Act 1996.
 
-[^key-a7f8a2c8e04dde27e3dc254e0436dd45]: Textual amendment: Reg. 4(10A)-(10C) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/5)
+[^c-a7f8a2c8e04dde27e3dc254e0436dd45]: Textual amendment: Reg. 4(10A)-(10C) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/5)
 
-[^key-5ee6d0e6c461d40200063406c93dc18f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2261/regulation/6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/6)
+[^c-5ee6d0e6c461d40200063406c93dc18f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2261/regulation/6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/6)
 
-[^key-8738d6f17efb0a98a85a59bcc9a6029d]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/7/1) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/6)
+[^c-8738d6f17efb0a98a85a59bcc9a6029d]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/7/1) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/6)
 
 [^c21365621]: Marginal citation: Section 69(3) also applies to independent schools (which includes Academies) by virtue of section 124B, which was inserted by regulations 2 and 3 of [S.I. 2003/2037](https://www.legislation.gov.uk/uksi/2003/2037).
 
@@ -370,22 +370,22 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^M_F_e9b519fe-d9b8-45a0-83f3-8dfea704281d]: Textual amendment: Reg. 8(3A)(3B) inserted (18.6.2020) by virtue of [The Schools Forums (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/540)](https://www.legislation.gov.uk/uksi/2020/540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/540/regulation/2/4) (as amended (11.2.2021) by [S.I. 2021/59](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1](https://www.legislation.gov.uk/uksi/2021/59/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b))
 
-[^key-019e001efb8eba225960f9684fbbfe0c]: Textual amendment: Words in reg. 8(9) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2012 (S.I. 2012/2991)](https://www.legislation.gov.uk/uksi/2012/2991), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2991/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2012/2991/regulation/3/2/a)
+[^c-019e001efb8eba225960f9684fbbfe0c]: Textual amendment: Words in reg. 8(9) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2012 (S.I. 2012/2991)](https://www.legislation.gov.uk/uksi/2012/2991), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2991/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2012/2991/regulation/3/2/a)
 
 [^M_F_22ec9edd-2704-4774-cf8b-c5af64e77099]: Textual amendment: Reg. 8(9A)-(9C) substituted for reg. 8(9A)(9B) (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2017 (S.I. 2017/44)](https://www.legislation.gov.uk/uksi/2017/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/44/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/44/regulation/3)
 
-[^key-4c7dfcb11cc85f0b827f143a2946d951]: Textual amendment: Words in [reg. 8(9A)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9A) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/a)
+[^c-4c7dfcb11cc85f0b827f143a2946d951]: Textual amendment: Words in [reg. 8(9A)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9A) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/a)
 
-[^key-28652034160d350c7645cf207a86aa8e]: Textual amendment: Words in [reg. 8(9B)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9B) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/a)
+[^c-28652034160d350c7645cf207a86aa8e]: Textual amendment: Words in [reg. 8(9B)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9B) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/a)
 
-[^key-d76f6791a00516be4d6b648de9c9bf0a]: Textual amendment: Words in [reg. 8(9C)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9C) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/b)
+[^c-d76f6791a00516be4d6b648de9c9bf0a]: Textual amendment: Words in [reg. 8(9C)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9C) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/b)
 
 [^M_F_dbc944d0-d872-4e15-a8a2-4ab294889248]: Textual amendment: Reg. 8(14) inserted (18.6.2020) by virtue of [The Schools Forums (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/540)](https://www.legislation.gov.uk/uksi/2020/540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/540/regulation/2/5) (as amended (11.2.2021) by [S.I. 2021/59](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1](https://www.legislation.gov.uk/uksi/2021/59/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b))
 
 [^c21365631]: Marginal citation: “**Schools budget**” has the meaning given in section 45A(2) of the Schools Standards and Framework Act 1998.
 
-[^key-18fd59fdcf6e378f5b538cf13e62ffd7]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2012/2261/regulation/9) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/16/2)
+[^c-18fd59fdcf6e378f5b538cf13e62ffd7]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2012/2261/regulation/9) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/16/2)
 
-[^key-6f1753863fb6f1ba8ef81e2fb8633741]: Textual amendment: Words in reg. 10(1)(a) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/7)
+[^c-6f1753863fb6f1ba8ef81e2fb8633741]: Textual amendment: Words in reg. 10(1)(a) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/7)
 
-[^key-5469dec1997c927c45c357dde4753a97]: Textual amendment: Words in reg. 10(1)(b) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/8)
+[^c-5469dec1997c927c45c357dde4753a97]: Textual amendment: Words in reg. 10(1)(b) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/8)

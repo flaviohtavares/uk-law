@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Duties in relation to wild bird habitat[^key-6dc403b1af15266f6c7789324c01e87b]
+## 10. Duties in relation to wild bird habitat[^c-6dc403b1af15266f6c7789324c01e87b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 (7) In considering which measures may be appropriate for the purpose of securing or contributing to the objective in paragraph (3), appropriate account must be taken of economic and recreational requirements.
 
-(8) So far as lies within its powers, a competent authority in exercising any function in or in relation to the United Kingdom must use all reasonable endeavours to avoid any pollution or deterioration of habitats of wild birds (except habitats beyond the outer limits of the seaward limits of the offshore marine area (as defined in regulation 4(2)[^key-a72a16f0a07597eee62028f262767f8d]).
+(8) So far as lies within its powers, a competent authority in exercising any function in or in relation to the United Kingdom must use all reasonable endeavours to avoid any pollution or deterioration of habitats of wild birds (except habitats beyond the outer limits of the seaward limits of the offshore marine area (as defined in regulation 4(2)[^c-a72a16f0a07597eee62028f262767f8d]).
 
 (9) The appropriate authority must take any steps it considers necessary to facilitate or co-ordinate arrangements to secure the taking of steps under paragraphs (1) and (2) by the bodies mentioned in those paragraphs.
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc403b1af15266f6c7789324c01e87b]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/1012/regulation/10): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-6dc403b1af15266f6c7789324c01e87b]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/1012/regulation/10): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
 [^c23343421]: Marginal citation: See section 1(1) of the [Forestry Act 1967 (c. 10)](https://www.legislation.gov.uk/ukpga/1967/10).
 
@@ -91,4 +91,4 @@ summary: ''
 
 [^c23343491]: Marginal citation: [Section 123(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/section/123/3/a) applies in relation to the “UK marine area”, which is defined in section 42 of the Marine Act in terms which include the area comprised in the marine area as defined in these Regulations.
 
-[^key-a72a16f0a07597eee62028f262767f8d]: Textual amendment: Words in [reg. 10(8)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/10/8) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/579/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a72a16f0a07597eee62028f262767f8d]: Textual amendment: Words in [reg. 10(8)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/10/8) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/579/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

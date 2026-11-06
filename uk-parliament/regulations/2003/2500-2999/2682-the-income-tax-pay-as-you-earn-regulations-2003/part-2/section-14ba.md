@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14BA. Determination of code in respect of winter fuel payment charge[^key-d83be38daf4531a2fad96f207cefa2f7]
+## 14BA. Determination of code in respect of winter fuel payment charge[^c-d83be38daf4531a2fad96f207cefa2f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ HMRC may determine a code, if and to the extent that the payee does not object, 
 
 ## Annotations
 
-[^key-d83be38daf4531a2fad96f207cefa2f7]: Textual amendment: [Reg. 14BA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14BA) inserted (7.7.2026) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2026 (S.I. 2026/610)](https://www.legislation.gov.uk/uksi/2026/610), [regs. 1](https://www.legislation.gov.uk/uksi/2026/610/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/610/regulation/2/2)
+[^c-d83be38daf4531a2fad96f207cefa2f7]: Textual amendment: [Reg. 14BA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14BA) inserted (7.7.2026) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2026 (S.I. 2026/610)](https://www.legislation.gov.uk/uksi/2026/610), [regs. 1](https://www.legislation.gov.uk/uksi/2026/610/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/610/regulation/2/2)

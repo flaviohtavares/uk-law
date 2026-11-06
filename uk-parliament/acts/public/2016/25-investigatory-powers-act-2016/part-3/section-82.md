@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Offence of making unauthorised disclosure[^key-d6f22975c7aa49cb6775d6e8ea9bafa0]
+## 82. Offence of making unauthorised disclosure[^c-d6f22975c7aa49cb6775d6e8ea9bafa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) A person guilty of an offence under this section is liable—
 
 - (a) on summary conviction in England and Wales—
-  - (i) to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-c6a3ca6907a911a444d23a33a29cfc25] (or 6 months, if the offence was committed before 2 May 2022[^key-ebd5fe8c1ca213d1fb657eb44fedcc0f]), or
+  - (i) to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-c6a3ca6907a911a444d23a33a29cfc25] (or 6 months, if the offence was committed before 2 May 2022[^c-ebd5fe8c1ca213d1fb657eb44fedcc0f]), or
   - (ii) to a fine,
 
   or to both;
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d6f22975c7aa49cb6775d6e8ea9bafa0]: Commencement: S. 82 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-d6f22975c7aa49cb6775d6e8ea9bafa0]: Commencement: S. 82 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
 
-[^key-c6a3ca6907a911a444d23a33a29cfc25]: Textual amendment: Words in [s. 82(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/82/3/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-c6a3ca6907a911a444d23a33a29cfc25]: Textual amendment: Words in [s. 82(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/82/3/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-ebd5fe8c1ca213d1fb657eb44fedcc0f]: Textual amendment: Words in [s. 82(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/82/3/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-ebd5fe8c1ca213d1fb657eb44fedcc0f]: Textual amendment: Words in [s. 82(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/82/3/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

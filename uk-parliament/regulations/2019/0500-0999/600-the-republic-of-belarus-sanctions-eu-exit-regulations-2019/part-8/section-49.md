@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Liability of officers of bodies corporate etc[^key-292b709047f1ba6051de86adda2873a0][^key-6c7067a849ccef0d4dbd6af7947c96dd]
+## 49. Liability of officers of bodies corporate etc[^c-292b709047f1ba6051de86adda2873a0][^c-6c7067a849ccef0d4dbd6af7947c96dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 ## Annotations
 
-[^key-292b709047f1ba6051de86adda2873a0]: Commencement: Reg. 49 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-292b709047f1ba6051de86adda2873a0]: Commencement: Reg. 49 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-6c7067a849ccef0d4dbd6af7947c96dd]: Commencement: Reg. 49 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c7067a849ccef0d4dbd6af7947c96dd]: Commencement: Reg. 49 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

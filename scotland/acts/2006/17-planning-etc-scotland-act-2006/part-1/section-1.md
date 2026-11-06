@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. National Planning Framework[^key-0569a05d95ba2b71dfd2a1d2e2a09fac]
+## 1. National Planning Framework[^c-0569a05d95ba2b71dfd2a1d2e2a09fac]
 
 *Extent: S*
 
@@ -106,4 +106,4 @@ After Part 1 of the principal Act insert—
 
 ## Annotations
 
-[^key-0569a05d95ba2b71dfd2a1d2e2a09fac]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2006/17/section/1) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-0569a05d95ba2b71dfd2a1d2e2a09fac]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2006/17/section/1) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

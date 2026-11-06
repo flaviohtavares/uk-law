@@ -42,7 +42,7 @@ Section 62(5).
 
 **6.** If the Secretary of State is satisfied that a member of the trust (including the chairman or deputy chairman)—
 
-- (a) has become bankrupt or made an arrangement with his creditors or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him[^key-9463187e60f6b648a2bea17125bd317d], or
+- (a) has become bankrupt or made an arrangement with his creditors or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him[^c-9463187e60f6b648a2bea17125bd317d], or
 - (b) has been absent from meetings of the trust for a period longer than three consecutive months without the permission of the trust, or
 - (c) is otherwise unable or unfit to discharge the functions of a member, or is unsuitable to continue as a member,
 
@@ -98,7 +98,7 @@ the Secretary of State may remove him from his office.
 
 ## Annotations
 
-[^key-9463187e60f6b648a2bea17125bd317d]: Textual amendment: Words in [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/7/paragraph/6/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/25) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-9463187e60f6b648a2bea17125bd317d]: Textual amendment: Words in [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/7/paragraph/6/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/25) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c12876391]: Textual amendment: Words in [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/1988/50/schedule/7/paragraph/8) repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 222](https://www.legislation.gov.uk/ukpga/1996/52/section/222), [227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 18 Pt. IV para. 22(1)(e)(3)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/18/part/IV/paragraph/22/1/e/3), [Sch. 19 Pt. XIII](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/XIII); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule))
 

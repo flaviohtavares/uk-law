@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Guidance to public service pension scheme managers on investment decisions[^key-387e6a1ef8d46e3a02527db43fa1f632][^key-7aafbd2792aaaf74b1f46a1fd2817133]
+## 100. Guidance to public service pension scheme managers on investment decisions[^c-387e6a1ef8d46e3a02527db43fa1f632][^c-7aafbd2792aaaf74b1f46a1fd2817133]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-387e6a1ef8d46e3a02527db43fa1f632]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-387e6a1ef8d46e3a02527db43fa1f632]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-7aafbd2792aaaf74b1f46a1fd2817133]: Commencement: S. 100 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-7aafbd2792aaaf74b1f46a1fd2817133]: Commencement: S. 100 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

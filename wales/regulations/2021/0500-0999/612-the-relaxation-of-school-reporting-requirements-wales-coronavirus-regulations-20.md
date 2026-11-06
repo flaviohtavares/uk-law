@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 29(3) and (5), 408(1), 537(1), (4) and (7), 537A(1), (2) and (3) and 569(4) of the Education Act 1996[^f00001] and sections 19(1) and 54(3) of the Education Act 1997 [^f00002], and now vested in them[^f00003], and in exercise of the powers conferred on the National Assembly for Wales by sections 30(1) and 210(7) of the Education Act 2002 and now vested in them[^f00004], and after consulting with those persons with whom consultation appeared to the Welsh Ministers to be desirable pursuant to section 408(5) of the Education Act 1996, make the following Regulations:
 
-## 1. Title and coming into force[^key-9114c4c4810c1b8f1abca5460a484600]
+## 1. Title and coming into force[^c-9114c4c4810c1b8f1abca5460a484600]
 
 (1) The title of these Regulations is the Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2021.
 
 (2) These Regulations come into force on 18 June 2021.
 
-## 2. Amendment of the School Governors’ Annual Reports (Wales) Regulations 2011[^key-21b4b666a975384c23747a312b0c5c15]
+## 2. Amendment of the School Governors’ Annual Reports (Wales) Regulations 2011[^c-21b4b666a975384c23747a312b0c5c15]
 
 (1) The School Governors’ Annual Reports (Wales) Regulations 2011[^f00005] are amended as follows.
 
@@ -63,7 +63,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 (3) In regulation 5(2)(a), after “Schedule 2” insert “(unless such information is not required by virtue of regulation 1B)”.
 
-## 3. Amendment of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-3fd1ba2dba49f2292c7b3ad014df506d]
+## 3. Amendment of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^c-3fd1ba2dba49f2292c7b3ad014df506d]
 
 After regulation 1A of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00007] insert—
 
@@ -71,7 +71,7 @@ After regulation 1A of the Head Teacher’s Report to Parents and Adult Pupils (
 >
 > The duty imposed on a head teacher by regulation 3(3) in respect of the 2020-2021 school year[^f00008]is to be treated as discharged if the head teacher has used reasonable endeavours to discharge the duty.
 
-## 4. Amendment of the School Information (Wales) Regulations 2011[^key-217bf92fa36fc55cddd21e1567cd635f]
+## 4. Amendment of the School Information (Wales) Regulations 2011[^c-217bf92fa36fc55cddd21e1567cd635f]
 
 After regulation 1A of the School Information (Wales) Regulations 2011[^f00009] insert—
 
@@ -79,7 +79,7 @@ After regulation 1A of the School Information (Wales) Regulations 2011[^f00009] 
 >
 > The information specified in paragraph 30 of Schedule 3 and relating to the 2020-2021 school year[^f00010] must not be included in any school prospectus.
 
-## 5. Amendment of the School Performance Information (Wales) Regulations 2011[^key-f8bb64c1063540baa8bd1ebe7a2c61e7]
+## 5. Amendment of the School Performance Information (Wales) Regulations 2011[^c-f8bb64c1063540baa8bd1ebe7a2c61e7]
 
 After regulation 1A of the School Performance Information (Wales) Regulations 2011[^f00011] insert—
 
@@ -125,27 +125,27 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Subsections (1), (2) and (3) of section 30 were amended by section 103(1)(a) and (b) of the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18). Subsection (7) of section 210 was amended by section 21(1) and (3)(c)(i) of the Learner Travel (Wales) Measure [2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2). There are other amendments which are not relevant to these Regulations. The functions of the National Assembly for Wales under section 30 of the Education Act 2002 were transferred to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act 2006. For the definitions of “prescribed” and “regulations” see section 212(1) of the Education Act 2002.
 
-[^key-9114c4c4810c1b8f1abca5460a484600]: Commencement: Reg. 1 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
+[^c-9114c4c4810c1b8f1abca5460a484600]: Commencement: Reg. 1 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
 
-[^key-21b4b666a975384c23747a312b0c5c15]: Commencement: Reg. 2 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
+[^c-21b4b666a975384c23747a312b0c5c15]: Commencement: Reg. 2 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2011/1939 (W. 207)](https://www.legislation.gov.uk/wsi/2011/1939), amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2013/1561 (W. 142)](https://www.legislation.gov.uk/wsi/2013/1561), [S.I. 2014/2677 (W. 265)](https://www.legislation.gov.uk/wsi/2014/2677), [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766) and [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729).
 
 [^f00006]: Footnote: For the definition of “school year” see section 579 of the Education Act 1996. The definition was inserted by paragraph 43 of Schedule 7 to the Education Act 1997.
 
-[^key-3fd1ba2dba49f2292c7b3ad014df506d]: Commencement: Reg. 3 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
+[^c-3fd1ba2dba49f2292c7b3ad014df506d]: Commencement: Reg. 3 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943), amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2014/1998 (W. 199)](https://www.legislation.gov.uk/wsi/2014/1998), [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837), [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766) and [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729).
 
 [^f00008]: Footnote: For the definition of “school year” see section 579 of the Education Act 1996. The definition was inserted by paragraph 43 of Schedule 7 to the Education Act 1997.
 
-[^key-217bf92fa36fc55cddd21e1567cd635f]: Commencement: Reg. 4 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
+[^c-217bf92fa36fc55cddd21e1567cd635f]: Commencement: Reg. 4 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2011/1944 (W. 211)](https://www.legislation.gov.uk/wsi/2011/1944), amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211), [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766) and [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729).
 
 [^f00010]: Footnote: For the definition of “school year” see section 579 of the Education Act 1996. The definition was inserted by paragraph 43 of Schedule 7 to the Education Act 1997.
 
-[^key-f8bb64c1063540baa8bd1ebe7a2c61e7]: Commencement: Reg. 5 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
+[^c-f8bb64c1063540baa8bd1ebe7a2c61e7]: Commencement: Reg. 5 in force at 18.6.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2011/1963 (W. 217)](https://www.legislation.gov.uk/wsi/2011/1963), amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837) and [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729).
 

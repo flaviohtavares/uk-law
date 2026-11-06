@@ -32,7 +32,7 @@ summary: ''
 
 ELECTRICITY
 
-Energy (Amendment) Order (Northern Ireland) 2004 (revoked)[^key-0a4c087b8927123f91883df31ef7cd5b]
+Energy (Amendment) Order (Northern Ireland) 2004 (revoked)[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 Made
 
@@ -44,44 +44,44 @@ Coming into operation
 
 8th February 2005
 
-[^key-0a4c087b8927123f91883df31ef7cd5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a4c087b8927123f91883df31ef7cd5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0a4c087b8927123f91883df31ef7cd5b]
+## 1. Citation and commencement[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Energy (Northern Ireland) Order 2003[^key-0a4c087b8927123f91883df31ef7cd5b]
+## 2. Amendment of the Energy (Northern Ireland) Order 2003[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Obligation in connection with electricity from renewable sources[^key-0a4c087b8927123f91883df31ef7cd5b]
+## 3. Obligation in connection with electricity from renewable sources[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Orders under Article 52: supplementary[^key-0a4c087b8927123f91883df31ef7cd5b]
+## 4. Orders under Article 52: supplementary[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Green certificates[^key-0a4c087b8927123f91883df31ef7cd5b]
+## 5. Green certificates[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Use of green certificates issued in Great Britain[^key-0a4c087b8927123f91883df31ef7cd5b]
+## 6. Use of green certificates issued in Great Britain[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payment as alternative to complying with order under Article 52[^key-0a4c087b8927123f91883df31ef7cd5b]
+## 7. Payment as alternative to complying with order under Article 52[^c-0a4c087b8927123f91883df31ef7cd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a4c087b8927123f91883df31ef7cd5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a4c087b8927123f91883df31ef7cd5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a4c087b8927123f91883df31ef7cd5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a4c087b8927123f91883df31ef7cd5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a4c087b8927123f91883df31ef7cd5b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/524) revoked (1.2.2009) by [Energy (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/35)](https://www.legislation.gov.uk/nisr/2009/35), [arts. 1](https://www.legislation.gov.uk/nisr/2009/35/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2009/35/article/3/a)
+[^c-0a4c087b8927123f91883df31ef7cd5b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/524) revoked (1.2.2009) by [Energy (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/35)](https://www.legislation.gov.uk/nisr/2009/35), [arts. 1](https://www.legislation.gov.uk/nisr/2009/35/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2009/35/article/3/a)

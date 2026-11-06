@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Section 91 of Pensions Act 1995 and section 356 of Armed Forces Act 2006[^key-3bb6665ef268395ab9b85c134dbdbbef][^key-38b9e7645d8c3b84a55c5c24bbd187cd]
+## 105. Section 91 of Pensions Act 1995 and section 356 of Armed Forces Act 2006[^c-3bb6665ef268395ab9b85c134dbdbbef][^c-38b9e7645d8c3b84a55c5c24bbd187cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bb6665ef268395ab9b85c134dbdbbef]: Commencement: S. 105 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-3bb6665ef268395ab9b85c134dbdbbef]: Commencement: S. 105 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-38b9e7645d8c3b84a55c5c24bbd187cd]: Commencement: S. 105 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-38b9e7645d8c3b84a55c5c24bbd187cd]: Commencement: S. 105 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

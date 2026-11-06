@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 92. Power of bishop to remove legal effects of consecration[^key-84aca5b3637756918af4f4c192f48374]
+## 92. Power of bishop to remove legal effects of consecration[^c-84aca5b3637756918af4f4c192f48374]
 
 *Extent: E*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84aca5b3637756918af4f4c192f48374]: Commencement: [S. 92](https://www.legislation.gov.uk/ukcm/2018/3/section/92) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-84aca5b3637756918af4f4c192f48374]: Commencement: [S. 92](https://www.legislation.gov.uk/ukcm/2018/3/section/92) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

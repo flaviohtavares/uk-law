@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220B. Sale or supply of items dispensed by a pharmacist who is absent or treated as absent[^key-590f4ed31ea5a22c73805e3c0442c0ab]
+## 220B. Sale or supply of items dispensed by a pharmacist who is absent or treated as absent[^c-590f4ed31ea5a22c73805e3c0442c0ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-590f4ed31ea5a22c73805e3c0442c0ab]: Textual amendment: [Reg. 220B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/220B) inserted (7.1.2026) by [The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (S.I. 2025/1249)](https://www.legislation.gov.uk/uksi/2025/1249), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2)[(5)(a)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/5/a), [7(4)](https://www.legislation.gov.uk/uksi/2025/1249/article/7/4)
+[^c-590f4ed31ea5a22c73805e3c0442c0ab]: Textual amendment: [Reg. 220B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/220B) inserted (7.1.2026) by [The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (S.I. 2025/1249)](https://www.legislation.gov.uk/uksi/2025/1249), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2)[(5)(a)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/5/a), [7(4)](https://www.legislation.gov.uk/uksi/2025/1249/article/7/4)

@@ -26,7 +26,7 @@ The hedgerow reference numbers in the tables below are taken from the Hedgerow S
 
 The location of the hedgerows is shown on the Retained and Removed Vegetation Plans, on the Figures at Annex A of the Hedgerow Survey Report (Sheets 1 to 27), on Figure 1 at Appendix A of the Supplementary Hedgerow Survey Report, and on Figure 2 at Appendix A of the Supplementary Botanical Survey Report.
 
-### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^key-f53c6dde4891741ad4751d7517c38eac]
+### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^c-f53c6dde4891741ad4751d7517c38eac]
 
 <table>
 <thead>
@@ -155,9 +155,9 @@ The location of the hedgerows is shown on the Retained and Removed Vegetation Pl
 </tbody>
 </table>
 
-[^key-d6e200d523c24789ab0ee7d1ca415059][^key-1aa51e1c93df403089cbdf2e1e10d813][^key-e8c144865fa9292237c3ff3678bb7722]
+[^c-d6e200d523c24789ab0ee7d1ca415059][^c-1aa51e1c93df403089cbdf2e1e10d813][^c-e8c144865fa9292237c3ff3678bb7722]
 
-### PART 2 — REMOVAL OF OTHER HEDGEROWS[^key-b44f9670402cc50320c4e70a18e5cb7f]
+### PART 2 — REMOVAL OF OTHER HEDGEROWS[^c-b44f9670402cc50320c4e70a18e5cb7f]
 
 <table>
 <thead>
@@ -203,11 +203,11 @@ The location of the hedgerows is shown on the Retained and Removed Vegetation Pl
 </tbody>
 </table>
 
-[^key-2d4e64c9f68918ac641e643dd6c31dcb][^key-7ac183de6d7302620b35367dbb41f278]
+[^c-2d4e64c9f68918ac641e643dd6c31dcb][^c-7ac183de6d7302620b35367dbb41f278]
 
 The location of the trees subject to Tree Preservation Orders is shown on the Retained and Removed Vegetation Plans.
 
-### PART 3 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-805091f7e664c12a2962ff1a07daa75c]
+### PART 3 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-805091f7e664c12a2962ff1a07daa75c]
 
 <table>
 <thead>
@@ -226,18 +226,18 @@ The location of the trees subject to Tree Preservation Orders is shown on the Re
 
 ## Annotations
 
-[^key-f53c6dde4891741ad4751d7517c38eac]: Commencement: Sch. 9 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-f53c6dde4891741ad4751d7517c38eac]: Commencement: Sch. 9 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-d6e200d523c24789ab0ee7d1ca415059]: Textual amendment: Words in Sch. 9 Pt. 1 Table section substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-d6e200d523c24789ab0ee7d1ca415059]: Textual amendment: Words in Sch. 9 Pt. 1 Table section substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-1aa51e1c93df403089cbdf2e1e10d813]: Textual amendment: Word in Sch. 9 Pt. 1 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-1aa51e1c93df403089cbdf2e1e10d813]: Textual amendment: Word in Sch. 9 Pt. 1 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-e8c144865fa9292237c3ff3678bb7722]: Textual amendment: Words in Sch. 9 Pt. 1 Table substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-e8c144865fa9292237c3ff3678bb7722]: Textual amendment: Words in Sch. 9 Pt. 1 Table substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-b44f9670402cc50320c4e70a18e5cb7f]: Commencement: Sch. 9 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-b44f9670402cc50320c4e70a18e5cb7f]: Commencement: Sch. 9 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-2d4e64c9f68918ac641e643dd6c31dcb]: Textual amendment: Words in Sch. 9 Pt. 2 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-2d4e64c9f68918ac641e643dd6c31dcb]: Textual amendment: Words in Sch. 9 Pt. 2 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-7ac183de6d7302620b35367dbb41f278]: Textual amendment: Words in Sch. 9 Pt. 2 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-7ac183de6d7302620b35367dbb41f278]: Textual amendment: Words in Sch. 9 Pt. 2 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-805091f7e664c12a2962ff1a07daa75c]: Commencement: Sch. 9 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-805091f7e664c12a2962ff1a07daa75c]: Commencement: Sch. 9 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

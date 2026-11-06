@@ -22,7 +22,7 @@ summary: ''
 
 Section 58
 
-### 1. Taking of fingerprints and samples: England, Wales and Northern Ireland[^key-526120936385c90e674f7e77d6cb6392][^key-e1010a87c56ed024c91159b00c0961dd]
+### 1. Taking of fingerprints and samples: England, Wales and Northern Ireland[^c-526120936385c90e674f7e77d6cb6392][^c-e1010a87c56ed024c91159b00c0961dd]
 
 (1) This paragraph applies at any time when a Part 2 notice is in force in respect of an individual in England, Wales or Northern Ireland.
 
@@ -48,7 +48,7 @@ Section 58
 
 (7) Where a sample of hair other than pubic hair is to be taken under this paragraph, the sample may be taken either by cutting hairs or by plucking hairs with their roots so long as no more are plucked than the person taking the sample reasonably considers to be necessary for a sufficient sample.
 
-**2.**[^key-a31c4e0f62ea675ff9b4d94b1b7a93b1][^key-4045981d733d14116b96683d655995d6] (1) A constable may exercise the power under paragraph 1 to take fingerprints or a non-intimate sample from an individual only if at the time when the power is to be exercised—
+**2.**[^c-a31c4e0f62ea675ff9b4d94b1b7a93b1][^c-4045981d733d14116b96683d655995d6] (1) A constable may exercise the power under paragraph 1 to take fingerprints or a non-intimate sample from an individual only if at the time when the power is to be exercised—
 
 - (a) in the case of fingerprints, the condition in sub-paragraph (2) is met;
 - (b) in the case of a sample, the condition in sub-paragraph (3) is met.
@@ -67,7 +67,7 @@ Section 58
 
 (4) In this paragraph “the present Part 2 notice” means the Part 2 notice in force at the time when it is proposed to exercise the power to take the fingerprints or sample.
 
-**3.**[^key-15d1af394a1296ce1e07739fcf151d30][^key-f455de1f62499682b383ce8c95257887] (1) A constable may—
+**3.**[^c-15d1af394a1296ce1e07739fcf151d30][^c-f455de1f62499682b383ce8c95257887] (1) A constable may—
 
 - (a) require an individual to attend a police station for the purposes of taking fingerprints or a non-intimate sample from the individual under paragraph 1, and
 - (b) arrest without warrant an individual who fails to comply with such a requirement.
@@ -93,7 +93,7 @@ must be recorded as soon as practicable after it has been given.
 
 (6) If the constable who gives a requirement to an individual under this paragraph and the individual agree, it may be varied so as to specify any period within which, or date or time at which, the individual must attend; but a variation does not have effect unless confirmed by the constable in writing.
 
-### 4. Taking of relevant physical data and samples: Scotland[^key-68c435dfb58972ca38c83a667f00436e][^key-5a8c276a3a2c0744e809b64fa427ce94]
+### 4. Taking of relevant physical data and samples: Scotland[^c-68c435dfb58972ca38c83a667f00436e][^c-5a8c276a3a2c0744e809b64fa427ce94]
 
 (1) This paragraph applies at any time when a Part 2 notice is in force in respect of an individual in Scotland.
 
@@ -125,7 +125,7 @@ must be recorded as soon as practicable after it has been given.
 
 (8) In this paragraph “**police custody and security officer**” has the same meaning as in Part 1 of the [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) (see section 99 of that Act).
 
-### 5. Checking of fingerprints, samples etc[^key-18a38a2e31a728e2a433936fed742abf][^key-42c645baaa685624ad0d9c780d9c61be]
+### 5. Checking of fingerprints, samples etc[^c-18a38a2e31a728e2a433936fed742abf][^c-42c645baaa685624ad0d9c780d9c61be]
 
 Any fingerprints, data or samples obtained under paragraph 1 or 4, or information derived from such samples, may be checked against—
 
@@ -140,7 +140,7 @@ Any fingerprints, data or samples obtained under paragraph 1 or 4, or informatio
 - (i) any of the fingerprints, data or samples obtained under paragraph 1 or 4 of Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011, or information derived from such samples;
 - (j) any fingerprints or samples taken under paragraph 34 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 or any information derived from such samples.
 
-### 6. Requirement to destroy material[^key-188325ef13931b5d25364f546853a039][^key-e1ec38c4f7b43911c745ce5470628842]
+### 6. Requirement to destroy material[^c-188325ef13931b5d25364f546853a039][^c-e1ec38c4f7b43911c745ce5470628842]
 
 (1) This paragraph applies to—
 
@@ -157,11 +157,11 @@ Any fingerprints, data or samples obtained under paragraph 1 or 4, or informatio
 
 (5) Nothing in this paragraph prevents a relevant search from being carried out, in relation to paragraph 6 material, within such time as may reasonably be required for the search if the responsible chief officer of police considers the search to be desirable.
 
-**7.**[^key-4d799dcc4e75cc16529c4fe622dcb3b8][^key-5125976d18bf966a608cde67d06c56b1] (1) If fingerprints or relevant physical data are required by paragraph 6 to be destroyed, any copies of the fingerprints or data held by a police force must also be destroyed.
+**7.**[^c-4d799dcc4e75cc16529c4fe622dcb3b8][^c-5125976d18bf966a608cde67d06c56b1] (1) If fingerprints or relevant physical data are required by paragraph 6 to be destroyed, any copies of the fingerprints or data held by a police force must also be destroyed.
 
 (2) If a DNA profile is required by that paragraph to be destroyed, no copy may be retained by a police force except in a form which does not include information which identifies the individual to whom the DNA profile relates.
 
-### 8. Retention of paragraph 6 material[^key-ead3d855f1cdd343c936d0f0614ec0cb][^key-adb603524bdc59ccf176d36ca0a3c5a9]
+### 8. Retention of paragraph 6 material[^c-ead3d855f1cdd343c936d0f0614ec0cb][^c-adb603524bdc59ccf176d36ca0a3c5a9]
 
 (1) This paragraph applies to paragraph 6 material taken from, or provided by, an individual who has no previous convictions or (in the case of England and Wales or Northern Ireland) only one exempt conviction.
 
@@ -181,14 +181,14 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 
 (5) In determining whether there is no further possibility of an appeal against a decision of the kind mentioned in sub-paragraph (3), any power to extend the time for giving notice of application for leave to appeal, or for applying for leave to appeal, must be ignored.
 
-**9.**[^key-be12cde3d19ce10a2f62da6a08ae77db][^key-bc8c1745153e11b39f383c205a1374b0] (1) This paragraph applies to paragraph 6 material taken from, or provided by, an individual—
+**9.**[^c-be12cde3d19ce10a2f62da6a08ae77db][^c-bc8c1745153e11b39f383c205a1374b0] (1) This paragraph applies to paragraph 6 material taken from, or provided by, an individual—
 
 - (a) who has been convicted of a recordable offence (other than a single exempt conviction) or of an offence in Scotland which is punishable by imprisonment, or
 - (b) who is so convicted before the end of the period within which the material may be retained by virtue of paragraph 8.
 
 (2) The material may be retained indefinitely.
 
-**10.**[^key-6aad357e022a020cd2a82b36c9bbbe52][^key-1ab4dcb66439bb602473c2706f95c0f5] (1) For the purposes of paragraphs 8 and 9 an individual is to be treated as having been convicted of an offence if—
+**10.**[^c-6aad357e022a020cd2a82b36c9bbbe52][^c-1ab4dcb66439bb602473c2706f95c0f5] (1) For the purposes of paragraphs 8 and 9 an individual is to be treated as having been convicted of an offence if—
 
 - (a) in relation to a recordable offence in England and Wales or Northern Ireland—
   - (i) the individual has been given a caution or youth caution in respect of the offence which, at the time of the caution, the individual has admitted,
@@ -244,7 +244,7 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 
 (8) If an individual is convicted of more than one offence arising out of a single course of action, those convictions are to be treated as a single conviction for the purposes of calculating under paragraph 8 or 9 whether the individual has been convicted of one offence.
 
-**11.**[^key-ff814e3e4d3844a6828f57043b911c3c][^key-7240a3b9c3d7a5a84e4e7d9cba486331] (1) Paragraph 6 material may be retained for as long as a national security determination made by a chief officer of police has effect in relation to it.
+**11.**[^c-ff814e3e4d3844a6828f57043b911c3c][^c-7240a3b9c3d7a5a84e4e7d9cba486331] (1) Paragraph 6 material may be retained for as long as a national security determination made by a chief officer of police has effect in relation to it.
 
 (2) A national security determination is made if a chief officer of police determines that it is necessary for any paragraph 6 material to be retained for the purposes of national security.
 
@@ -263,7 +263,7 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 - (e) the Chief Constable of the British Transport Police Force, or
 - (f) the Director General of the National Crime Agency.
 
-**12.**[^key-0f90e1b8fda86bee57db7848d3128c66][^key-8dc650f99e8a8555d1c458c109a89ea1] (1) This paragraph applies where paragraph 6 material is or includes a person’s fingerprints (“the original fingerprints”).
+**12.**[^c-0f90e1b8fda86bee57db7848d3128c66][^c-8dc650f99e8a8555d1c458c109a89ea1] (1) This paragraph applies where paragraph 6 material is or includes a person’s fingerprints (“the original fingerprints”).
 
 (2) A constable may make a determination under this paragraph in respect of any further fingerprints taken from, or provided by, the same person (“the further fingerprints”) if conditions 1 and 2 are met.
 
@@ -299,7 +299,7 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 - (b) Scotland, or
 - (c) Northern Ireland.
 
-### 13. Requirement to destroy samples[^key-d4657f5207deaf46b24abb685b0ba7ec][^key-bcbfb63853fb880b1413ba749571b21b]
+### 13. Requirement to destroy samples[^c-d4657f5207deaf46b24abb685b0ba7ec][^c-bcbfb63853fb880b1413ba749571b21b]
 
 (1) This paragraph applies to—
 
@@ -319,7 +319,7 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 
 (6) Nothing in this paragraph prevents a relevant search, in relation to samples to which this paragraph applies, from being carried out within such time as may reasonably be required for the search if the responsible chief officer of police considers the search to be desirable.
 
-### 14. Use of retained material[^key-d54816fd655f4be4c422ef3baf0c5367][^key-bb643f2a4edad88a83e257bcc35e1742]
+### 14. Use of retained material[^c-d54816fd655f4be4c422ef3baf0c5367][^c-bb643f2a4edad88a83e257bcc35e1742]
 
 (1) Any material to which paragraph 6 or 13 applies must not be used other than—
 
@@ -342,7 +342,7 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
   - (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences, and
 - (c) the references to an investigation and to a prosecution include references, respectively, to any investigation outside the United Kingdom of any crime or suspected crime and to a prosecution brought in respect of any crime in a country or territory outside the United Kingdom.
 
-### 15. Interpretation[^key-17899b2c490f587c828d8410b84982b5][^key-484f32c331cdd73e4c78a27e5b947d86]
+### 15. Interpretation[^c-17899b2c490f587c828d8410b84982b5][^c-484f32c331cdd73e4c78a27e5b947d86]
 
 (1) In this Schedule—
 
@@ -383,62 +383,62 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 
 ## Annotations
 
-[^key-526120936385c90e674f7e77d6cb6392]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see 100(1)
+[^c-526120936385c90e674f7e77d6cb6392]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-e1010a87c56ed024c91159b00c0961dd]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-e1010a87c56ed024c91159b00c0961dd]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-a31c4e0f62ea675ff9b4d94b1b7a93b1]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see 100(1)
+[^c-a31c4e0f62ea675ff9b4d94b1b7a93b1]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-4045981d733d14116b96683d655995d6]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-4045981d733d14116b96683d655995d6]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-15d1af394a1296ce1e07739fcf151d30]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see 100(1)
+[^c-15d1af394a1296ce1e07739fcf151d30]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-f455de1f62499682b383ce8c95257887]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-f455de1f62499682b383ce8c95257887]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-68c435dfb58972ca38c83a667f00436e]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see 100(1)
+[^c-68c435dfb58972ca38c83a667f00436e]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-5a8c276a3a2c0744e809b64fa427ce94]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-5a8c276a3a2c0744e809b64fa427ce94]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-18a38a2e31a728e2a433936fed742abf]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see 100(1)
+[^c-18a38a2e31a728e2a433936fed742abf]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see 100(1)
 
-[^key-42c645baaa685624ad0d9c780d9c61be]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-42c645baaa685624ad0d9c780d9c61be]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-188325ef13931b5d25364f546853a039]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see 100(1)
+[^c-188325ef13931b5d25364f546853a039]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see 100(1)
 
-[^key-e1ec38c4f7b43911c745ce5470628842]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-e1ec38c4f7b43911c745ce5470628842]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-4d799dcc4e75cc16529c4fe622dcb3b8]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see 100(1)
+[^c-4d799dcc4e75cc16529c4fe622dcb3b8]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see 100(1)
 
-[^key-5125976d18bf966a608cde67d06c56b1]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-5125976d18bf966a608cde67d06c56b1]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-ead3d855f1cdd343c936d0f0614ec0cb]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see 100(1)
+[^c-ead3d855f1cdd343c936d0f0614ec0cb]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see 100(1)
 
-[^key-adb603524bdc59ccf176d36ca0a3c5a9]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-adb603524bdc59ccf176d36ca0a3c5a9]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-be12cde3d19ce10a2f62da6a08ae77db]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see 100(1)
+[^c-be12cde3d19ce10a2f62da6a08ae77db]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see 100(1)
 
-[^key-bc8c1745153e11b39f383c205a1374b0]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-bc8c1745153e11b39f383c205a1374b0]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-6aad357e022a020cd2a82b36c9bbbe52]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see 100(1)
+[^c-6aad357e022a020cd2a82b36c9bbbe52]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see 100(1)
 
-[^key-1ab4dcb66439bb602473c2706f95c0f5]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-1ab4dcb66439bb602473c2706f95c0f5]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-ff814e3e4d3844a6828f57043b911c3c]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see 100(1)
+[^c-ff814e3e4d3844a6828f57043b911c3c]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see 100(1)
 
-[^key-7240a3b9c3d7a5a84e4e7d9cba486331]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-7240a3b9c3d7a5a84e4e7d9cba486331]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-0f90e1b8fda86bee57db7848d3128c66]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see 100(1)
+[^c-0f90e1b8fda86bee57db7848d3128c66]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see 100(1)
 
-[^key-8dc650f99e8a8555d1c458c109a89ea1]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-8dc650f99e8a8555d1c458c109a89ea1]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-d4657f5207deaf46b24abb685b0ba7ec]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see 100(1)
+[^c-d4657f5207deaf46b24abb685b0ba7ec]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see 100(1)
 
-[^key-bcbfb63853fb880b1413ba749571b21b]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/13) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-bcbfb63853fb880b1413ba749571b21b]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/13) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-d54816fd655f4be4c422ef3baf0c5367]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see 100(1)
+[^c-d54816fd655f4be4c422ef3baf0c5367]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see 100(1)
 
-[^key-bb643f2a4edad88a83e257bcc35e1742]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/14) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-bb643f2a4edad88a83e257bcc35e1742]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/14) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-17899b2c490f587c828d8410b84982b5]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see 100(1)
+[^c-17899b2c490f587c828d8410b84982b5]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see 100(1)
 
-[^key-484f32c331cdd73e4c78a27e5b947d86]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-484f32c331cdd73e4c78a27e5b947d86]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

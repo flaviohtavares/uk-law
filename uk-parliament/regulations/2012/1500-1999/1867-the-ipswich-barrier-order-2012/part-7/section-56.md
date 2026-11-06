@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Service of notices[^key-fe7a2bb221748e124a84a255b71025ee]
+## 56. Service of notices[^c-fe7a2bb221748e124a84a255b71025ee]
 
 *Extent: E+W+S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe7a2bb221748e124a84a255b71025ee]: Commencement: Art. 56 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-fe7a2bb221748e124a84a255b71025ee]: Commencement: Art. 56 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
 [^f00025]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Efficiency studies[^key-52d8260fa903ad0b8bed319f751f7978]
+## 15. Efficiency studies[^c-52d8260fa903ad0b8bed319f751f7978]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 as the person may reasonably require for the purposes of the studies.
 
-(3)[^key-6ee0980a9b61bb317c1b15154b373375] A study under subsection (1) may include consideration of the extent to which the needs and interests of students are being met.
+(3)[^c-6ee0980a9b61bb317c1b15154b373375] A study under subsection (1) may include consideration of the extent to which the needs and interests of students are being met.
 
 (4) A study under subsection (1) may include consideration of the extent to which the needs and interests of staff are being met, including in relation to fair work principles.
 
@@ -41,6 +41,6 @@ as the person may reasonably require for the purposes of the studies.
 
 ## Annotations
 
-[^key-52d8260fa903ad0b8bed319f751f7978]: Commencement: S. 15 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-52d8260fa903ad0b8bed319f751f7978]: Commencement: S. 15 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-6ee0980a9b61bb317c1b15154b373375]: Textual amendment: [S. 15(3)-(7)](https://www.legislation.gov.uk/asp/2005/6/section/15/3) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 17(2)](https://www.legislation.gov.uk/asp/2026/5/section/17/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-6ee0980a9b61bb317c1b15154b373375]: Textual amendment: [S. 15(3)-(7)](https://www.legislation.gov.uk/asp/2005/6/section/15/3) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 17(2)](https://www.legislation.gov.uk/asp/2026/5/section/17/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

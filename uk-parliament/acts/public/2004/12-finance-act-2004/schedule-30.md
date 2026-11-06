@@ -26,7 +26,7 @@ Section 179
 
 #### Charge of adequate value
 
-**1.**[^key-afc500117827a025590697c92ec56642] (1) A charge is of adequate value if it meets conditions A, B and C.
+**1.**[^c-afc500117827a025590697c92ec56642] (1) A charge is of adequate value if it meets conditions A, B and C.
 
 (2) Condition A is that, at the time the charge is given, the market value of the assets subject to the charge—
 
@@ -39,13 +39,13 @@ Section 179
 
 #### Loan repayment date
 
-**2.**[^key-7c3fe4ce227bd295c203ca4e2620ae5e] (1) “**Loan repayment date**” means the date by which the total amount owing (including interest) must be paid.
+**2.**[^c-7c3fe4ce227bd295c203ca4e2620ae5e] (1) “**Loan repayment date**” means the date by which the total amount owing (including interest) must be paid.
 
 (2) A standard loan repayment date is a loan repayment date before the end of the period of five years beginning with the date on which the loan is made.
 
 #### Loan year
 
-**3.**[^key-896f34797800bd62c9f767cd95019087] (1) “**Loan year**” means—
+**3.**[^c-896f34797800bd62c9f767cd95019087] (1) “**Loan year**” means—
 
 - (a) the period of 12 months beginning with the date on which the loan is made, and
 - (b) each succeeding period of 12 months.
@@ -54,7 +54,7 @@ Section 179
 
 #### Required amount
 
-**4.**[^key-74999e170004f9d116388121bd3b7a5a] “**The required amount**”, in relation to a period beginning with the date on which the loan is made and ending with the last day of a loan year, is—
+**4.**[^c-74999e170004f9d116388121bd3b7a5a] “**The required amount**”, in relation to a period beginning with the date on which the loan is made and ending with the last day of a loan year, is—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2004/12)
 
@@ -72,17 +72,17 @@ NLY is the number of loan years in the period.
 
 #### Loan does not comply with section 179(1) when made
 
-**5.**[^key-edbf222933cb8bc8c99c14fdae2dfc85] (1) If a loan does not comply with section 179 (1) (authorised employer loan) when it is made, there is an unauthorised payment of an amount equal to the largest of such of amounts 1, 2, A, B, and C as arise in relation to the loan.
+**5.**[^c-edbf222933cb8bc8c99c14fdae2dfc85] (1) If a loan does not comply with section 179 (1) (authorised employer loan) when it is made, there is an unauthorised payment of an amount equal to the largest of such of amounts 1, 2, A, B, and C as arise in relation to the loan.
 
 (2) Paragraphs 12 to 16 explain amounts 1, 2, A, B and C.
 
 #### Loan ceases to be secured by charge of adequate value
 
-**6.**[^key-a0a6344c07a937201062155befc9e2f0] If at any time after a loan is made the loan ceases to be secured by a charge of adequate value, there is an unauthorised payment equal to amount 2 (see paragraph 13).
+**6.**[^c-a0a6344c07a937201062155befc9e2f0] If at any time after a loan is made the loan ceases to be secured by a charge of adequate value, there is an unauthorised payment equal to amount 2 (see paragraph 13).
 
 #### Further reduction in value of charge which is not of adequate value
 
-**7.**[^key-c40244d1e4f780d2110f49ebc60d5751] (1) If at any time after a loan is made—
+**7.**[^c-c40244d1e4f780d2110f49ebc60d5751] (1) If at any time after a loan is made—
 
 - (a) the loan is secured by a charge which is not of adequate value, and
 - (b) an event mentioned in sub-paragraph (2) occurs,
@@ -110,7 +110,7 @@ ABE is amount 2 (see paragraph 13) calculated before the event.
 
 #### Loan ceases to comply with repayment terms
 
-**8.**[^key-877469bf693f353219062078956a9ec5] (1) If at any time after a loan is made—
+**8.**[^c-877469bf693f353219062078956a9ec5] (1) If at any time after a loan is made—
 
 - (a) there is an alteration in the repayment terms, and
 - (b) as a result the repayment terms cease to comply with one or more paragraphs of section 179(2) (authorised repayment terms),
@@ -119,7 +119,7 @@ there is an unauthorised payment of an amount equal to the larger of such of amo
 
 #### Increase in extent to which loan does not comply with repayment terms
 
-**9.**[^key-0077d66da47318c15157e6c0dd3e4e46] (1) If at any time after a loan is made—
+**9.**[^c-0077d66da47318c15157e6c0dd3e4e46] (1) If at any time after a loan is made—
 
 - (a) there is an alteration in the repayment terms, and
 - (b) as a result the deterioration condition is met in relation to one or more paragraphs of section 179(2) (authorised repayment terms) which were not complied with before the alteration,
@@ -143,7 +143,7 @@ there is an unauthorised payment of an amount calculated in accordance with sub-
 
 #### Prevention of double charging
 
-**10.**[^key-dc46f7bc466ae20a982fd1d631e978c5] (1) This paragraph applies if on any date there is an unauthorised payment under more than one of paragraphs 6 to 9.
+**10.**[^c-dc46f7bc466ae20a982fd1d631e978c5] (1) This paragraph applies if on any date there is an unauthorised payment under more than one of paragraphs 6 to 9.
 
 (2) There is a single unauthorised payment.
 
@@ -151,11 +151,11 @@ there is an unauthorised payment of an amount calculated in accordance with sub-
 
 #### Total unauthorised payments not to exceed amount of loan
 
-**11.**[^key-8920903a29cf62c11cc7dfed17e0990e] If the aggregate amount of the unauthorised payments in relation to a loan under paragraphs 5 to 10 exceeds the amount of the loan when it was made, the excess is to be treated as not being an unauthorised payment.
+**11.**[^c-8920903a29cf62c11cc7dfed17e0990e] If the aggregate amount of the unauthorised payments in relation to a loan under paragraphs 5 to 10 exceeds the amount of the loan when it was made, the excess is to be treated as not being an unauthorised payment.
 
 #### Amount 1
 
-**12.**[^key-431beacaeb7226a7af66244327d75624] (1) Amount 1 arises if paragraph (a) of section 179 (1) (amount of loan must not exceed 50% of pension scheme assets) is not complied with.
+**12.**[^c-431beacaeb7226a7af66244327d75624] (1) Amount 1 arises if paragraph (a) of section 179 (1) (amount of loan must not exceed 50% of pension scheme assets) is not complied with.
 
 (2) Amount 1 is—
 
@@ -168,7 +168,7 @@ where—
 
 #### Amount 2
 
-**13.**[^key-cc95c043efce3df41e53f94903b78782] (1) Amount 2 arises if paragraph (b) of section 179 (1) (loan must be secured by charge of adequate value) is not complied with.
+**13.**[^c-cc95c043efce3df41e53f94903b78782] (1) Amount 2 arises if paragraph (b) of section 179 (1) (loan must be secured by charge of adequate value) is not complied with.
 
 (2) Amount 2 is—
 
@@ -182,7 +182,7 @@ VA is the market value at that time of the assets charged but if the loan is not
 
 #### Amount A
 
-**14.**[^key-a79aa6e298c7abd5938f310e4d64fa0e] (1) Amount A arises if paragraph (a) of section 179(2) (interest rate to be not less than prescribed amount) is not complied with.
+**14.**[^c-a79aa6e298c7abd5938f310e4d64fa0e] (1) Amount A arises if paragraph (a) of section 179(2) (interest rate to be not less than prescribed amount) is not complied with.
 
 (2) Amount A is—
 
@@ -196,7 +196,7 @@ where—
 
 #### Amount B
 
-**15.**[^key-0cb9d236c85f41ba7c031a6e8d37593e] (1) Amount B arises if paragraph (b) of section 179(2) (loan repayment date to be within five years unless postponed) is not complied with.
+**15.**[^c-0cb9d236c85f41ba7c031a6e8d37593e] (1) Amount B arises if paragraph (b) of section 179(2) (loan repayment date to be within five years unless postponed) is not complied with.
 
 (2) Amount B is—
 
@@ -214,7 +214,7 @@ where—
 
 #### Amount C
 
-**16.**[^key-ef73ace4ce9b4386a4a24ec88cb67cf9] (1) Amount C arises if paragraph (c) of section 179(2) (amount payable for a period to be not less than required amount) is not complied with and is calculated as follows.
+**16.**[^c-ef73ace4ce9b4386a4a24ec88cb67cf9] (1) Amount C arises if paragraph (c) of section 179(2) (amount payable for a period to be not less than required amount) is not complied with and is calculated as follows.
 
 (2) In relation to each period beginning with the date on which the loan is made and ending with the last day of a loan year, calculate—
 
@@ -232,34 +232,34 @@ AP is the amount payable during that period.
 
 ## Annotations
 
-[^key-afc500117827a025590697c92ec56642]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-afc500117827a025590697c92ec56642]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-7c3fe4ce227bd295c203ca4e2620ae5e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-7c3fe4ce227bd295c203ca4e2620ae5e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-896f34797800bd62c9f767cd95019087]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-896f34797800bd62c9f767cd95019087]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-74999e170004f9d116388121bd3b7a5a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-74999e170004f9d116388121bd3b7a5a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-edbf222933cb8bc8c99c14fdae2dfc85]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-edbf222933cb8bc8c99c14fdae2dfc85]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-a0a6344c07a937201062155befc9e2f0]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-a0a6344c07a937201062155befc9e2f0]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-c40244d1e4f780d2110f49ebc60d5751]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-c40244d1e4f780d2110f49ebc60d5751]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-877469bf693f353219062078956a9ec5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-877469bf693f353219062078956a9ec5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-0077d66da47318c15157e6c0dd3e4e46]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-0077d66da47318c15157e6c0dd3e4e46]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-dc46f7bc466ae20a982fd1d631e978c5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-dc46f7bc466ae20a982fd1d631e978c5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-8920903a29cf62c11cc7dfed17e0990e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-8920903a29cf62c11cc7dfed17e0990e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-431beacaeb7226a7af66244327d75624]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-431beacaeb7226a7af66244327d75624]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-cc95c043efce3df41e53f94903b78782]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-cc95c043efce3df41e53f94903b78782]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-a79aa6e298c7abd5938f310e4d64fa0e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-a79aa6e298c7abd5938f310e4d64fa0e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-0cb9d236c85f41ba7c031a6e8d37593e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-0cb9d236c85f41ba7c031a6e8d37593e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-ef73ace4ce9b4386a4a24ec88cb67cf9]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-ef73ace4ce9b4386a4a24ec88cb67cf9]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284

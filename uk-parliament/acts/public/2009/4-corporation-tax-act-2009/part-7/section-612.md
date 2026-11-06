@@ -24,7 +24,7 @@ summary: ''
 
 (2) In particular, it—
 
-- (a) provides for adjustments on a change of accounting basis[^key-7aa714d883bd010714b51986c055b98c] (see sections 613 to 615),
+- (a) provides for adjustments on a change of accounting basis[^c-7aa714d883bd010714b51986c055b98c] (see sections 613 to 615),
 - (b) makes provision in relation to certain embedded derivatives (see sections 616 to 618),
 - (c) makes provision about partnerships involving companies (see sections 619 to 621),
 - (d) makes provision about contracts ceasing to be derivative contracts (see section 622), and
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7aa714d883bd010714b51986c055b98c]: Textual amendment: Word in s. 612(2)(a) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 73](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/73)
+[^c-7aa714d883bd010714b51986c055b98c]: Textual amendment: Word in s. 612(2)(a) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 73](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/73)

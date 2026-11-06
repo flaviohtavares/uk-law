@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33G. Death[^key-cf14aba62169bd52be89eed2a9d524bd]
+## 33G. Death[^c-cf14aba62169bd52be89eed2a9d524bd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf14aba62169bd52be89eed2a9d524bd]: Textual amendment: Ss. 33E-33K inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 109](https://www.legislation.gov.uk/ukpga/2004/5/section/109); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-cf14aba62169bd52be89eed2a9d524bd]: Textual amendment: Ss. 33E-33K inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 109](https://www.legislation.gov.uk/ukpga/2004/5/section/109); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

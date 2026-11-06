@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Tracing of poultry and eggs[^key-6695c275e4acda065ad8d90c7357674e]
+## 52. Tracing of poultry and eggs[^c-6695c275e4acda065ad8d90c7357674e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6695c275e4acda065ad8d90c7357674e]: Commencement: Reg. 52 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-6695c275e4acda065ad8d90c7357674e]: Commencement: Reg. 52 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

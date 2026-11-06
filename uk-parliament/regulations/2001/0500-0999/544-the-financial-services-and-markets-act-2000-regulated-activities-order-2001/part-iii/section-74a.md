@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Electronic money[^key-25110765d4223a5406a7e5cecfcec966]
+## 74A. Electronic money[^c-25110765d4223a5406a7e5cecfcec966]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Electronic money.
 
 ## Annotations
 
-[^key-25110765d4223a5406a7e5cecfcec966]: Textual amendment: Art. 74A inserted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [6](https://www.legislation.gov.uk/uksi/2002/682/article/6)
+[^c-25110765d4223a5406a7e5cecfcec966]: Textual amendment: Art. 74A inserted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [6](https://www.legislation.gov.uk/uksi/2002/682/article/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Eligible students[^key-81684241517f3879ca954dfd3abdfbab]
+## 4. Eligible students[^c-81684241517f3879ca954dfd3abdfbab]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,6 +100,6 @@ A’s status as an eligible or qualifying student terminates immediately before 
 
 ## Annotations
 
-[^key-81684241517f3879ca954dfd3abdfbab]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-81684241517f3879ca954dfd3abdfbab]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00040]: Footnote: [S.S.I. 2007/151](https://www.legislation.gov.uk/ssi/2007/151), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503).

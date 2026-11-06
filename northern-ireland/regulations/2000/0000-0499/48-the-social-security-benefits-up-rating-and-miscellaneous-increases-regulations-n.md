@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security Benefits Up-rating and Miscellaneous Increases Regulations (Northern Ireland) 2000 (revoked)[^key-b7f6d6900e6127c9808c299471847eb5]
+The Social Security Benefits Up-rating and Miscellaneous Increases Regulations (Northern Ireland) 2000 (revoked)[^c-b7f6d6900e6127c9808c299471847eb5]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 10th April 2000
 
-[^key-b7f6d6900e6127c9808c299471847eb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7f6d6900e6127c9808c299471847eb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b7f6d6900e6127c9808c299471847eb5]
+## 1. Citation and commencement[^c-b7f6d6900e6127c9808c299471847eb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-b7f6d6900e6127c9808c299471847eb5]
+## 2. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-b7f6d6900e6127c9808c299471847eb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b7f6d6900e6127c9808c299471847eb5]
+## 3. Revocation[^c-b7f6d6900e6127c9808c299471847eb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7f6d6900e6127c9808c299471847eb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7f6d6900e6127c9808c299471847eb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7f6d6900e6127c9808c299471847eb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7f6d6900e6127c9808c299471847eb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7f6d6900e6127c9808c299471847eb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/48) revoked (2.10.2000) by [The Social Security (Therapeutic Earnings Limits) (Amendment) Regulations (Northern Ireland) 2000 (revoked) 2000 (S.R. 2000/251)](https://www.legislation.gov.uk/nisr/2000/251), [5](https://www.legislation.gov.uk/nisr/2000/251/regulation/5)
+[^c-b7f6d6900e6127c9808c299471847eb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/48) revoked (2.10.2000) by [The Social Security (Therapeutic Earnings Limits) (Amendment) Regulations (Northern Ireland) 2000 (revoked) 2000 (S.R. 2000/251)](https://www.legislation.gov.uk/nisr/2000/251), [5](https://www.legislation.gov.uk/nisr/2000/251/regulation/5)

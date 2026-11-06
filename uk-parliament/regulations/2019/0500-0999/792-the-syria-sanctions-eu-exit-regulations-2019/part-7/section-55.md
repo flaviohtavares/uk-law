@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Asset-freeze etc: exceptions from prohibitions[^key-2da5f5232e756d2b1a96391f9cc0ac27]
+## 55. Asset-freeze etc: exceptions from prohibitions[^c-2da5f5232e756d2b1a96391f9cc0ac27]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,16 +50,16 @@ summary: ''
 
 (8) The definition of “relevant institution” in paragraph (7) is to be read with section 22 of the Financial Services and Markets Act 2000, any relevant order under that section and Schedule 2 to that Act.
 
-(9)[^key-7e30149b7e3dbc66789e6d1ef4f34c64] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
+(9)[^c-7e30149b7e3dbc66789e6d1ef4f34c64] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
 
 (10) When determining for the purposes of paragraph (5) when a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**D**”) became a designated person, C is to be treated as having become a designated person at the same time as D.
 
 ## Annotations
 
-[^key-2da5f5232e756d2b1a96391f9cc0ac27]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2da5f5232e756d2b1a96391f9cc0ac27]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23698121]: Marginal citation: Section 142D was inserted by the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [section 4(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/4/1).
 
 [^c23698131]: Marginal citation: Section 142A was inserted by the Financial Services (Banking Reform) Act 2013, section 4(1).
 
-[^key-7e30149b7e3dbc66789e6d1ef4f34c64]: Textual amendment: [Reg. 55(9)](https://www.legislation.gov.uk/uksi/2019/792/regulation/55/9)[(10)](https://www.legislation.gov.uk/uksi/2019/792/regulation/55/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/4)
+[^c-7e30149b7e3dbc66789e6d1ef4f34c64]: Textual amendment: [Reg. 55(9)](https://www.legislation.gov.uk/uksi/2019/792/regulation/55/9)[(10)](https://www.legislation.gov.uk/uksi/2019/792/regulation/55/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/4)

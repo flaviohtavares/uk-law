@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Service of documents[^key-b438709256893d0eb56b95d1d339f11f]
+## SCHEDULE 4 — Service of documents[^c-b438709256893d0eb56b95d1d339f11f]
 
 *Extent: E+W*
 
 Rule 1.2(2)
 
-**1.**[^key-d6d01a4b10829063ae8b9e1c92178ca7][^M_C_3ea0a469-c547-45df-b7ac-5999ff31b64a] (1) This Schedule sets out the requirements for service where a document is required to be served.
+**1.**[^c-d6d01a4b10829063ae8b9e1c92178ca7][^M_C_3ea0a469-c547-45df-b7ac-5999ff31b64a] (1) This Schedule sets out the requirements for service where a document is required to be served.
 
 (2) Service is to be carried out in accordance with Part 6 of the CPR [^c23177811] as that Part applies to either a “claim form” or a “document other than the claim form” except where this Schedule provides otherwise or the court otherwise approves or directs.
 
@@ -40,7 +40,7 @@ Rule 1.2(2)
 
 ### 2. Service of winding-up petitions
 
-[^key-b438709256893d0eb56b95d1d339f11f]
+[^c-b438709256893d0eb56b95d1d339f11f]
 
 (1) A winding-up petition must be served at a company's registered office by handing it to a person at that address who—
 
@@ -63,7 +63,7 @@ Rule 1.2(2)
 
 ### 3. Service of administration application (paragraph 12 of Schedule B1)
 
-[^key-b438709256893d0eb56b95d1d339f11f]
+[^c-b438709256893d0eb56b95d1d339f11f]
 
 (1) An application to the court for an administration order must be served by delivering the documents as follows—
 
@@ -84,15 +84,15 @@ Rule 1.2(2)
 - (b) where the applicant doesn't know of any such office, the registered office; or
 - (c) if there is no such registered office the usual or last known address.
 
-### 4. Service on joint office-holders[^key-3ee0a2a167a22265bae8387c467a8e12][^key-eca01ebecaf3d8be5e634dbe75b393cc]
+### 4. Service on joint office-holders[^c-3ee0a2a167a22265bae8387c467a8e12][^c-eca01ebecaf3d8be5e634dbe75b393cc]
 
-[^key-b438709256893d0eb56b95d1d339f11f]
+[^c-b438709256893d0eb56b95d1d339f11f]
 
 Service of a document on one of joint office-holders is to be treated as service on all of them.
 
-### 5. Service of orders staying proceedings[^key-876ee1d57ea4e5db643a5dafe6695e59][^key-ad8d8a40bda98d6c81b745a296447cfc]
+### 5. Service of orders staying proceedings[^c-876ee1d57ea4e5db643a5dafe6695e59][^c-ad8d8a40bda98d6c81b745a296447cfc]
 
-[^key-b438709256893d0eb56b95d1d339f11f]
+[^c-b438709256893d0eb56b95d1d339f11f]
 
 (1) This paragraph applies where the court makes an order staying an action, execution or other legal process against—
 
@@ -104,9 +104,9 @@ Service of a document on one of joint office-holders is to be treated as service
 - (a) the claimant; or
 - (b) another party having the carriage of the proceedings to be stayed.
 
-### 6. Certificate of service[^key-bb55ec952fd14364e94dd66e99271766][^key-7fb2457688c4fb722e26aaac960dab0c]
+### 6. Certificate of service[^c-bb55ec952fd14364e94dd66e99271766][^c-7fb2457688c4fb722e26aaac960dab0c]
 
-[^key-b438709256893d0eb56b95d1d339f11f]
+[^c-b438709256893d0eb56b95d1d339f11f]
 
 (1) The service of an application or petition must be verified by a certificate of service.
 
@@ -124,15 +124,15 @@ Service of a document on one of joint office-holders is to be treated as service
   - (v) the manner of service and the date of service; and
 - (f) be verified by a statement of truth.
 
-(3)[^key-44d4a48450eb5e572a59ccc5306f14ef] Where the court has directed that service be effected in a particular manner, the certificate must be accompanied by a sealed copy of the order directing such manner of service.
+(3)[^c-44d4a48450eb5e572a59ccc5306f14ef] Where the court has directed that service be effected in a particular manner, the certificate must be accompanied by a sealed copy of the order directing such manner of service.
 
 ### Table of requirements for service
 
-[^key-b438709256893d0eb56b95d1d339f11f]
+[^c-b438709256893d0eb56b95d1d339f11f]
 
 | *Rule (or section)* | *Document* | *Whether treated as claim form or other document* | *Modifications to Part 6 of the CPR which apply unless the court directs otherwise* |
 | --- | --- | --- | --- |
-| 1A.28(a) and 1A.30 (& section A21)[^key-d95a5b8139a1abfa3b88c88fdaf4a256] | Application for permission of the court under section A21 to take enforcement action or to bring legal proceedings against the company during a moratorium | Claim form | The applicant must serve the application. |
+| 1A.28(a) and 1A.30 (& section A21)[^c-d95a5b8139a1abfa3b88c88fdaf4a256] | Application for permission of the court under section A21 to take enforcement action or to bring legal proceedings against the company during a moratorium | Claim form | The applicant must serve the application. |
 | 1A.28(b) and 1A.30 (& section A31) | Application for permission of the court under section A31 to dispose of charged property free from charge during a moratorium | Claim form | The applicant must serve the application. |
 | 1A.28(c) and 1A.30 (& section A32) | Application for permission of the court under section A32 to dispose of hire-purchase property during a moratorium | Claim form | The applicant must serve the application. |
 | 1A.28(d) and 1A.30 (& section A37) | Application by monitor for directions | Claim form | The applicant must serve the application. |
@@ -171,29 +171,29 @@ Service of a document on one of joint office-holders is to be treated as service
 
 ## Annotations
 
-[^key-b438709256893d0eb56b95d1d339f11f]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/d) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-b438709256893d0eb56b95d1d339f11f]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/d) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-d6d01a4b10829063ae8b9e1c92178ca7]: Modification: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/1) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-d6d01a4b10829063ae8b9e1c92178ca7]: Modification: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/1) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
 [^M_C_3ea0a469-c547-45df-b7ac-5999ff31b64a]: Modification: Sch. 4 para. 1 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
 [^c23177811]: Marginal citation: Part 6 is amended by S.I.s 2000/221, 2005/2292, 2008/2178, 2009/2092, 2009/3131, 2009/3390, 2011/88, 2011/1979 and 2014/2948 and Official Journals No. L 351, 20.12.2012, p.1 and No. L 299, 16.11.2005, p.62.
 
-[^key-3ee0a2a167a22265bae8387c467a8e12]: Modification: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/4) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-3ee0a2a167a22265bae8387c467a8e12]: Modification: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/4) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-eca01ebecaf3d8be5e634dbe75b393cc]: Modification: Sch. 4 para. 4 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-eca01ebecaf3d8be5e634dbe75b393cc]: Modification: Sch. 4 para. 4 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-876ee1d57ea4e5db643a5dafe6695e59]: Modification: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/5) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-876ee1d57ea4e5db643a5dafe6695e59]: Modification: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/5) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-ad8d8a40bda98d6c81b745a296447cfc]: Modification: Sch. 4 para. 5 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-ad8d8a40bda98d6c81b745a296447cfc]: Modification: Sch. 4 para. 5 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-bb55ec952fd14364e94dd66e99271766]: Modification: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/6) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-bb55ec952fd14364e94dd66e99271766]: Modification: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/6) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-7fb2457688c4fb722e26aaac960dab0c]: Modification: Sch. 4 para. 6 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-7fb2457688c4fb722e26aaac960dab0c]: Modification: Sch. 4 para. 6 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-44d4a48450eb5e572a59ccc5306f14ef]: Textual amendment: [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/6/3) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1115/rule/14)
+[^c-44d4a48450eb5e572a59ccc5306f14ef]: Textual amendment: [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4/paragraph/6/3) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1115/rule/14)
 
-[^key-d95a5b8139a1abfa3b88c88fdaf4a256]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4) table inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [79](https://www.legislation.gov.uk/uksi/2021/1028/rule/79) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-d95a5b8139a1abfa3b88c88fdaf4a256]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1024/schedule/4) table inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [79](https://www.legislation.gov.uk/uksi/2021/1028/rule/79) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
 [^M_F_6b16a42e-9d75-4e40-828d-e8cdb32e78a1]: Textual amendment: Words in Sch. 4 para. 6 table substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [50](https://www.legislation.gov.uk/uksi/2017/366/rule/50)
 

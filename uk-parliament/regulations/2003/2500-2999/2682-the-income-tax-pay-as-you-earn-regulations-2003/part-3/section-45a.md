@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Application of regulations 46 to 49E: Real Time Information employers and non-Real Time Information employers[^key-36aa4cde2b16772d35e9fb0ce2128731]
+## 45A. Application of regulations 46 to 49E: Real Time Information employers and non-Real Time Information employers[^c-36aa4cde2b16772d35e9fb0ce2128731]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36aa4cde2b16772d35e9fb0ce2128731]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/45A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2012/822/regulation/12)
+[^c-36aa4cde2b16772d35e9fb0ce2128731]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/45A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2012/822/regulation/12)

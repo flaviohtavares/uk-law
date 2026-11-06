@@ -39,25 +39,25 @@ Coming into operation
 
 1st January 2005
 
-The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1), 16(2), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and, being a Department designated[^f00003] for the purposes of section 2(2) of the European Communities Act 1972[^f00004] in relation to measures relating to food (including drink) including the primary production of food, in exercise (as respects regulations 8 to 17 of the following Regulations) of the powers conferred on it by the said section 2(2), after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00005] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, hereby makes the following Regulations:[^key-db9f45f4780aeb12e3c2c9a52f782e80]
+The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1), 16(2), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and, being a Department designated[^f00003] for the purposes of section 2(2) of the European Communities Act 1972[^f00004] in relation to measures relating to food (including drink) including the primary production of food, in exercise (as respects regulations 8 to 17 of the following Regulations) of the powers conferred on it by the said section 2(2), after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00005] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, hereby makes the following Regulations:[^c-db9f45f4780aeb12e3c2c9a52f782e80]
 
-## 1. Citation and commencement[^key-98b1918ba4d8404be0d12626457d298d]
+## 1. Citation and commencement[^c-98b1918ba4d8404be0d12626457d298d]
 
 These Regulations may be cited as the General Food Regulations (Northern Ireland) 2004, and come into operation on 1st January 2005.
 
-## 2. Interpretation[^key-7d855ebec3bb0f4bc9bcf0594b8a8456]
+## 2. Interpretation[^c-7d855ebec3bb0f4bc9bcf0594b8a8456]
 
 (1) In these Regulations –
 
 - “the Agency” means the Food Standards Agency;
 - “the Order” means the Food Safety (Northern Ireland) Order 1991;
-- “Regulation (EC) 178/2002” means Regulation (EC) No 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, as last amended by Regulation (EU) 2017/745 of the European Parliament and of the Council.[^key-9d64959e2a76d5fea16905b337c830b4]
+- “Regulation (EC) 178/2002” means Regulation (EC) No 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, as last amended by Regulation (EU) 2017/745 of the European Parliament and of the Council.[^c-9d64959e2a76d5fea16905b337c830b4]
 
 (2) Expressions used both in these Regulations and in Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) have the same meaning in these Regulations as they have in that Regulation.
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Competent authorities for the purposes of Regulation 178/2002[^key-ffa14a7947e250de3cd40d8f9cdcc6ed]
+## 3. Competent authorities for the purposes of Regulation 178/2002[^c-ffa14a7947e250de3cd40d8f9cdcc6ed]
 
 (1) The following bodies are designated as the competent authorities for the purposes of the provisions of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) specified in paragraph (2) –
 
@@ -70,17 +70,17 @@ These Regulations may be cited as the General Food Regulations (Northern Ireland
 - (b) Article 18(2) and (3) (competent authorities to whom food business operators must make information available on demand as to the traceability of food);
 - (c) Article 19 (food business operators to inform and collaborate with competent authorities to avoid or reduce risks posed by a food).
 
-## 4. Requirements under Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178): offences[^key-8d0a08d76dc4225440678d88b716e881]
+## 4. Requirements under Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178): offences[^c-8d0a08d76dc4225440678d88b716e881]
 
 Any person who contravenes any of the following provisions of Regulation (EC) No. 178/2002 shall be guilty of an offence—
 
-- (a) Article 12 (food and feed exported from the European Union[^key-b7f7a014ef5e70973c9e7a152043bba2]) in so far as it relates to food;
+- (a) Article 12 (food and feed exported from the European Union[^c-b7f7a014ef5e70973c9e7a152043bba2]) in so far as it relates to food;
 - (b) Article 14(1) (food safety requirements);
 - (c) Article 16 (presentation) in so far as it relates to food;
 - (d) Article 18(2) or (3) (traceability) in so far as it relates to food business operators;
 - (e) Article 19 (responsibilities for food : food business operators).
 
-## 5. Punishment of offences[^key-47e69eabd45dff7e1e64df8024d66395]
+## 5. Punishment of offences[^c-47e69eabd45dff7e1e64df8024d66395]
 
 (1) A person guilty of an offence under regulation 4 shall be liable –
 
@@ -89,12 +89,12 @@ Any person who contravenes any of the following provisions of Regulation (EC) No
 
 (2) In paragraph (1) “the relevant amount” means –
 
-- (a)[^key-36f682b6fc9d1c680df6f1fcc728236b] in the case of an offence under regulation 4(b), £20,000;
+- (a)[^c-36f682b6fc9d1c680df6f1fcc728236b] in the case of an offence under regulation 4(b), £20,000;
 - (b) in any other case, the statutory maximum.
 
-## 6. Enforcement[^key-1c61aee308e6619883ccc65972dc516f]
+## 6. Enforcement[^c-1c61aee308e6619883ccc65972dc516f]
 
-(1)[^key-f6cc3012e8bdd73acb4b3c0fa2691823] Subject to paragraph (2), each district council shall enforce and execute the following provisions of Regulation (EC) No. 178/2002 and these Regulations in its district—
+(1)[^c-f6cc3012e8bdd73acb4b3c0fa2691823] Subject to paragraph (2), each district council shall enforce and execute the following provisions of Regulation (EC) No. 178/2002 and these Regulations in its district—
 
 - (a) Article 12 in so far as it relates to food;
 - (b) Article 14;
@@ -102,11 +102,11 @@ Any person who contravenes any of the following provisions of Regulation (EC) No
 - (d) Article 18 in so far as it relates to food business operators; and
 - (e) Article 19.
 
-(2) The Agency shall also enforce and execute Articles 14 , Article 18 in so far as it relates to food business operators[^key-4da4f27f1d1a0bff05f68f3f95629582] and 19 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and these Regulations in so far as they relate to those Articles as regards relevant food.
+(2) The Agency shall also enforce and execute Articles 14 , Article 18 in so far as it relates to food business operators[^c-4da4f27f1d1a0bff05f68f3f95629582] and 19 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and these Regulations in so far as they relate to those Articles as regards relevant food.
 
 (3) In paragraph (2) “relevant food” means food in respect of which the Agency is specified in regulations made pursuant to Article 26(3) of the Order or made under the European Communities Act 1972 as being the enforcement authority.
 
-## 6A. Defence for exports[^key-af2e8fd504c6add9454a682b22f9510e]
+## 6A. Defence for exports[^c-af2e8fd504c6add9454a682b22f9510e]
 
 In any proceedings for an offence of contravening food law it shall be a defence for the accused to prove that—
 
@@ -115,7 +115,7 @@ In any proceedings for an offence of contravening food law it shall be a defence
   - (i) the legislation applicable to that item in that member State is compatible with the applicable provisions of food law (except in so far as it relates to feed produced for or fed to food producing animals) at Community level, and
   - (ii) the item complies with that legislation.
 
-## 7. Application of various provisions of the Order[^key-5c62beaa3143601227699aa05035e2b6]
+## 7. Application of various provisions of the Order[^c-5c62beaa3143601227699aa05035e2b6]
 
 (1) The following provisions of the Order shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Order or Part thereof shall be construed as a reference to these Regulations –
 
@@ -136,11 +136,11 @@ In any proceedings for an offence of contravening food law it shall be a defence
 
 (4) Article 35 of the Order (time limit for prosecutions) shall apply to offences under regulation 4 as it applies to offences punishable under Article 36(2) of the Order.
 
-## 8. Amendment of the Order[^key-8f51c7fbec52c983a328de8d93807d34]
+## 8. Amendment of the Order[^c-8f51c7fbec52c983a328de8d93807d34]
 
 The Order shall be amended in accordance with regulations 9 to 16.
 
-## 9.[^key-c96e16e4c67dd557ac230c778bb4c860]
+## 9.[^c-c96e16e4c67dd557ac230c778bb4c860]
 
 In Article 5 (interpretation) –
 
@@ -153,7 +153,7 @@ In Article 5 (interpretation) –
 
   .
 
-## 10.[^key-cd43037f2886bb6ab8cd323754dde2aa]
+## 10.[^c-cd43037f2886bb6ab8cd323754dde2aa]
 
 Article 6 (rendering food injurious to health) shall be renumbered as paragraph (1) of that Article and after paragraph (1) there shall be inserted the following paragraph –
 
@@ -161,11 +161,11 @@ Article 6 (rendering food injurious to health) shall be renumbered as paragraph 
 
 .
 
-## 11.[^key-d7f906ae7e3b5157334adea540adedeb]
+## 11.[^c-d7f906ae7e3b5157334adea540adedeb]
 
 Article 7 (selling food not complying with food safety requirements) shall be omitted.
 
-## 12.[^key-021f335c4a13d3bb1940160480ac8092]
+## 12.[^c-021f335c4a13d3bb1940160480ac8092]
 
 (1) In Article 8 (inspection and seizure of suspected food) in paragraph (1) –
 
@@ -180,7 +180,7 @@ Article 7 (selling food not complying with food safety requirements) shall be om
 
 (2) In paragraph (5) there shall be substituted for the words “or 7” the words “or regulation 4(a) of the General Food Regulations (Northern Ireland) 2004”.
 
-## 13.[^key-f35afc7d3e4b96f99b1d6779625debcb]
+## 13.[^c-f35afc7d3e4b96f99b1d6779625debcb]
 
 In Article 10 (prohibition orders) there shall be inserted after paragraph (2) –
 
@@ -188,15 +188,15 @@ In Article 10 (prohibition orders) there shall be inserted after paragraph (2) �
 
 .
 
-## 14.[^key-c7ed6a0b636baf1cc1767d055ea32c68]
+## 14.[^c-c7ed6a0b636baf1cc1767d055ea32c68]
 
 In Article 20(2) (defence of due diligence) there shall be substituted for the words “Article 7, 13 or 14” the words “Article 13 or 14”.
 
-## 15.[^key-d004320efbdba245309958f069b1bc6a]
+## 15.[^c-d004320efbdba245309958f069b1bc6a]
 
 In Article 36(3) (a) (punishment of offences) there shall be substituted for the words “Article 6, 7 or 13” the words “Article 6 or 13”.
 
-## 16.[^key-9ffa31d2757fa35a9cc08a323025e109]
+## 16.[^c-9ffa31d2757fa35a9cc08a323025e109]
 
 In Article 2 (interpretation) –
 
@@ -212,7 +212,7 @@ In Article 2 (interpretation) –
   ; and
 - (c) in paragraph (7) the entry for “injury to health and injurious to health” shall be omitted.
 
-## 17. Consequential amendment of Regulations[^key-f15401afa24b8c981501f42048f2f65e]
+## 17. Consequential amendment of Regulations[^c-f15401afa24b8c981501f42048f2f65e]
 
 (1) This regulation applies to any provision of any Regulations by virtue of which immediately before the coming into operation of these Regulations Article 7(2) of the Order applies where any requirements of those Regulations or any requirements referred to in those Regulations are contravened in respect of any food.
 
@@ -258,52 +258,52 @@ In the EC Regulation, “food”, “food business operator” and associated ex
 
 [^f00005]: Footnote: O.J. No. L31, 1.2.2002, p. 1. That Regulation was last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L245, 29.9.2003, p. 4)
 
-[^key-db9f45f4780aeb12e3c2c9a52f782e80]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-db9f45f4780aeb12e3c2c9a52f782e80]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-98b1918ba4d8404be0d12626457d298d]: Commencement: Reg. 1 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-98b1918ba4d8404be0d12626457d298d]: Commencement: Reg. 1 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-7d855ebec3bb0f4bc9bcf0594b8a8456]: Commencement: Reg. 2 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-7d855ebec3bb0f4bc9bcf0594b8a8456]: Commencement: Reg. 2 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-9d64959e2a76d5fea16905b337c830b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/505/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2019/5/regulation/11)
+[^c-9d64959e2a76d5fea16905b337c830b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/505/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2019/5/regulation/11)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ffa14a7947e250de3cd40d8f9cdcc6ed]: Commencement: Reg. 3 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-ffa14a7947e250de3cd40d8f9cdcc6ed]: Commencement: Reg. 3 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-8d0a08d76dc4225440678d88b716e881]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/505/regulation/4) substituted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(2)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/2)
+[^c-8d0a08d76dc4225440678d88b716e881]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/505/regulation/4) substituted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(2)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/2)
 
-[^key-b7f7a014ef5e70973c9e7a152043bba2]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-b7f7a014ef5e70973c9e7a152043bba2]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
-[^key-47e69eabd45dff7e1e64df8024d66395]: Commencement: Reg. 5 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-47e69eabd45dff7e1e64df8024d66395]: Commencement: Reg. 5 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-36f682b6fc9d1c680df6f1fcc728236b]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/nisr/2004/505/regulation/5/2/a) substituted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(3)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/3)
+[^c-36f682b6fc9d1c680df6f1fcc728236b]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/nisr/2004/505/regulation/5/2/a) substituted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(3)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/3)
 
-[^key-1c61aee308e6619883ccc65972dc516f]: Commencement: Reg. 6 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-1c61aee308e6619883ccc65972dc516f]: Commencement: Reg. 6 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-f6cc3012e8bdd73acb4b3c0fa2691823]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2004/505/regulation/6/1) substituted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(4)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/4)
+[^c-f6cc3012e8bdd73acb4b3c0fa2691823]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2004/505/regulation/6/1) substituted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(4)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/4)
 
-[^key-4da4f27f1d1a0bff05f68f3f95629582]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2004/505/regulation/6/2) inserted (31.12.2013) by [The Food Safety, Food Hygiene and Official Controls (Sprouting Seeds and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/291)](https://www.legislation.gov.uk/nisr/2013/291), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/291/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2013/291/regulation/2/3)
+[^c-4da4f27f1d1a0bff05f68f3f95629582]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2004/505/regulation/6/2) inserted (31.12.2013) by [The Food Safety, Food Hygiene and Official Controls (Sprouting Seeds and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/291)](https://www.legislation.gov.uk/nisr/2013/291), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/291/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2013/291/regulation/2/3)
 
-[^key-af2e8fd504c6add9454a682b22f9510e]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2004/505/regulation/6A) inserted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(5)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/5)
+[^c-af2e8fd504c6add9454a682b22f9510e]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2004/505/regulation/6A) inserted (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [41(5)](https://www.legislation.gov.uk/nisr/2005/574/regulation/41/5)
 
-[^key-5c62beaa3143601227699aa05035e2b6]: Commencement: Reg. 7 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-5c62beaa3143601227699aa05035e2b6]: Commencement: Reg. 7 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-8f51c7fbec52c983a328de8d93807d34]: Commencement: Reg. 8 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-8f51c7fbec52c983a328de8d93807d34]: Commencement: Reg. 8 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-c96e16e4c67dd557ac230c778bb4c860]: Commencement: Reg. 9 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-c96e16e4c67dd557ac230c778bb4c860]: Commencement: Reg. 9 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-cd43037f2886bb6ab8cd323754dde2aa]: Commencement: Reg. 10 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-cd43037f2886bb6ab8cd323754dde2aa]: Commencement: Reg. 10 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-d7f906ae7e3b5157334adea540adedeb]: Commencement: Reg. 11 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-d7f906ae7e3b5157334adea540adedeb]: Commencement: Reg. 11 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-021f335c4a13d3bb1940160480ac8092]: Commencement: Reg. 12 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-021f335c4a13d3bb1940160480ac8092]: Commencement: Reg. 12 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-f35afc7d3e4b96f99b1d6779625debcb]: Commencement: Reg. 13 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-f35afc7d3e4b96f99b1d6779625debcb]: Commencement: Reg. 13 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-c7ed6a0b636baf1cc1767d055ea32c68]: Commencement: Reg. 14 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-c7ed6a0b636baf1cc1767d055ea32c68]: Commencement: Reg. 14 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-d004320efbdba245309958f069b1bc6a]: Commencement: Reg. 15 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-d004320efbdba245309958f069b1bc6a]: Commencement: Reg. 15 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-9ffa31d2757fa35a9cc08a323025e109]: Commencement: Reg. 16 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-9ffa31d2757fa35a9cc08a323025e109]: Commencement: Reg. 16 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
 
-[^key-f15401afa24b8c981501f42048f2f65e]: Commencement: Reg. 17 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)
+[^c-f15401afa24b8c981501f42048f2f65e]: Commencement: Reg. 17 in operation at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/505/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Regulations by the Governor[^key-4f7240664786cbb072d09ab3df961392]
+## 4. Regulations by the Governor[^c-4f7240664786cbb072d09ab3df961392]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f7240664786cbb072d09ab3df961392]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2870/article/4) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-4f7240664786cbb072d09ab3df961392]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2870/article/4) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

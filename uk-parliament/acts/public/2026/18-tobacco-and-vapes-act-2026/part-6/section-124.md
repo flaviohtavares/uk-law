@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Exceptions for internet service providers (conduits, caching and hosting)[^key-d1104d0a7145e6d452cea65748d2edfa]
+## 124. Exceptions for internet service providers (conduits, caching and hosting)[^c-d1104d0a7145e6d452cea65748d2edfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1104d0a7145e6d452cea65748d2edfa]: Commencement: S. 124 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-d1104d0a7145e6d452cea65748d2edfa]: Commencement: S. 124 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

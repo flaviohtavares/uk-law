@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4[^key-3909c920f8e32d4275629f6a7811b26d]
+## SCHEDULE 4[^c-3909c920f8e32d4275629f6a7811b26d]
 
 *Extent: E+W*
 
 ## Annotations
 
-[^key-3909c920f8e32d4275629f6a7811b26d]: Textual amendment: Sch. 4 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [22](https://www.legislation.gov.uk/wsi/2020/1628/regulation/22)
+[^c-3909c920f8e32d4275629f6a7811b26d]: Textual amendment: Sch. 4 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [22](https://www.legislation.gov.uk/wsi/2020/1628/regulation/22)

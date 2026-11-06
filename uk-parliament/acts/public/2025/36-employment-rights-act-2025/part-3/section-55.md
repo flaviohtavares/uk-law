@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Interpretation of this Chapter[^key-b79d14468ba7e04de551d8ad3fd303be][^key-f05b0d819bb5e36a195abb4d2d7379e6]
+## 55. Interpretation of this Chapter[^c-b79d14468ba7e04de551d8ad3fd303be][^c-f05b0d819bb5e36a195abb4d2d7379e6]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b79d14468ba7e04de551d8ad3fd303be]: Commencement: S. 55 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b79d14468ba7e04de551d8ad3fd303be]: Commencement: S. 55 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f05b0d819bb5e36a195abb4d2d7379e6]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/36/section/55) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(25)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/25)
+[^c-f05b0d819bb5e36a195abb4d2d7379e6]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/36/section/55) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(25)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/25)

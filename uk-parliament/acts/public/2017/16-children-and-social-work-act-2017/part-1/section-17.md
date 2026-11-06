@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Local child safeguarding practice reviews[^key-f173469e7b61c5ccc0f204619bf31ac0][^key-90225f5e8c97a95c5a78ba80da6e979c]
+## 17. Local child safeguarding practice reviews[^c-f173469e7b61c5ccc0f204619bf31ac0][^c-90225f5e8c97a95c5a78ba80da6e979c]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ After section 16E of the Children Act 2004 (inserted by section 16 of this Act) 
 
 ## Annotations
 
-[^key-f173469e7b61c5ccc0f204619bf31ac0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/16/section/17) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/c)
+[^c-f173469e7b61c5ccc0f204619bf31ac0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/16/section/17) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/c)
 
-[^key-90225f5e8c97a95c5a78ba80da6e979c]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/16/section/17) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/f)
+[^c-90225f5e8c97a95c5a78ba80da6e979c]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/16/section/17) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/f)

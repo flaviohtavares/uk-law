@@ -164,11 +164,11 @@ Section 5
 
 (4) In subsection (2A), for “savings rate” substitute “ basic rate ”.
 
-**23.**[^key-9c342d6110879a1a111bea50dbd968d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-9c342d6110879a1a111bea50dbd968d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** In section 745(1) (rates of tax applicable to income charged under sections 720 and 727 etc), for “savings rate” substitute “ starting rate for savings ”.
 
-**25.**[^key-fd950cc937909afef7723e3eaeda12c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-fd950cc937909afef7723e3eaeda12c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **26.** In section 874(2) (deduction from payments of yearly interest), for “savings rate” substitute “ basic rate ”.
 
@@ -237,13 +237,13 @@ Section 5
 
 **40.** ICTA is amended as follows.
 
-**41.**[^key-8f0a018b1091a85039f608b594700ef3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-8f0a018b1091a85039f608b594700ef3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-8f0a018b1091a85039f608b594700ef3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-8f0a018b1091a85039f608b594700ef3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **43.** In section 552(5)(f)(i) (information: duty of insurers), for “savings rate” substitute “ basic rate ”.
 
-**44.**[^key-335cb4de8f892b37e13e3ef2a47ae26c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-335cb4de8f892b37e13e3ef2a47ae26c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **45.** In section 701(3A) (estates of deceased persons in administration), omit—
 
@@ -259,7 +259,7 @@ Section 5
 
 #### TCGA 1992
 
-**48.**[^key-d9f28901e5a370d3534428d0280b1c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-d9f28901e5a370d3534428d0280b1c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### FA 1996
 
@@ -296,7 +296,7 @@ Section 5
 - (b) in Step 3, for “2” substitute “ 1 ” and omit “other”, and
 - (c) in Step 5, omit the sentence relating to Step 2.
 
-**59.**[^key-a02fa7b7a7b893c79f8fbfe2bd6a02d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-a02fa7b7a7b893c79f8fbfe2bd6a02d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **60.** In section 679(3) (income from which basic amounts are treated as paid), omit paragraph (b) (apart from the “and” at the end).
 
@@ -350,14 +350,14 @@ Section 5
 
 ## Annotations
 
-[^key-9c342d6110879a1a111bea50dbd968d5]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/23) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [41(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/41/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-9c342d6110879a1a111bea50dbd968d5]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/23) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [41(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/41/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
 
-[^key-fd950cc937909afef7723e3eaeda12c0]: Textual amendment: Sch. 1 para. 25 omitted (with effect in accordance with [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/28) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/b)
+[^c-fd950cc937909afef7723e3eaeda12c0]: Textual amendment: Sch. 1 para. 25 omitted (with effect in accordance with [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/28) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/b)
 
-[^key-8f0a018b1091a85039f608b594700ef3]: Textual amendment: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/42) repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8f0a018b1091a85039f608b594700ef3]: Textual amendment: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/42) repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-335cb4de8f892b37e13e3ef2a47ae26c]: Textual amendment: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/44) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-335cb4de8f892b37e13e3ef2a47ae26c]: Textual amendment: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/44) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-d9f28901e5a370d3534428d0280b1c8d]: Textual amendment: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/48) repealed (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/28)
+[^c-d9f28901e5a370d3534428d0280b1c8d]: Textual amendment: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/48) repealed (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/28)
 
-[^key-a02fa7b7a7b893c79f8fbfe2bd6a02d1]: Textual amendment: [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/59) omitted (with effect in accordance with s. 4(18) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(14)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/14/b)
+[^c-a02fa7b7a7b893c79f8fbfe2bd6a02d1]: Textual amendment: [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/59) omitted (with effect in accordance with s. 4(18) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(14)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/14/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Aims and purposes of deer management[^key-02285c4475a96f913da47564b8ec0fcd][^key-063e308e9c3d64469e717edcadebb0b0]
+## 11. Aims and purposes of deer management[^c-02285c4475a96f913da47564b8ec0fcd][^c-063e308e9c3d64469e717edcadebb0b0]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02285c4475a96f913da47564b8ec0fcd]: Commencement: S. 11 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-02285c4475a96f913da47564b8ec0fcd]: Commencement: S. 11 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-063e308e9c3d64469e717edcadebb0b0]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/6/section/11) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)
+[^c-063e308e9c3d64469e717edcadebb0b0]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/6/section/11) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/i)

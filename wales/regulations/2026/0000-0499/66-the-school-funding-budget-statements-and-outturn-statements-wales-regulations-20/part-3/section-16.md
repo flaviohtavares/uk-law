@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Further requirements relating to the funding of pupils[^key-85f5061c5f279d860556122d75e82e7a]
+## 16. Further requirements relating to the funding of pupils[^c-85f5061c5f279d860556122d75e82e7a]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85f5061c5f279d860556122d75e82e7a]: Commencement: Reg. 16 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-85f5061c5f279d860556122d75e82e7a]: Commencement: Reg. 16 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00046]: Footnote: Section 140 was amended by the Higher Education (Wales) Act [2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), Schedule, paragraph 6 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 140 was also amended by the Tertiary Education and Research (Wales) Act 2022, Schedule 4, paragraph 15(4) but at the date of the making of these Regulations those amendments are not yet in force.

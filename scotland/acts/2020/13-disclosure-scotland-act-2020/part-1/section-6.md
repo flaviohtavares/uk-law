@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Review of accuracy of information by the Scottish Ministers[^key-5e3f503475002b2bd7ed7ee984cc1c66]
+## 6. Review of accuracy of information by the Scottish Ministers[^c-5e3f503475002b2bd7ed7ee984cc1c66]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e3f503475002b2bd7ed7ee984cc1c66]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/13/section/6) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-5e3f503475002b2bd7ed7ee984cc1c66]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/13/section/6) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

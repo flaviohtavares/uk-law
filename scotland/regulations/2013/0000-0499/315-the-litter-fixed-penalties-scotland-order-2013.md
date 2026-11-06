@@ -46,24 +46,24 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 33A(10) and 88(7) of the Environmental Protection Act 1990[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-e80b1fa8530b256b26db9a92892f4d2f]
+## 1. Citation, commencement and extent[^c-e80b1fa8530b256b26db9a92892f4d2f]
 
 (1) This Order may be cited as the Litter (Fixed Penalties) (Scotland) Order 2013 and comes into force on 1st April 2014.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-dd4e163d12bdd717574a5dcf21767aa3]
+## 2. Interpretation[^c-dd4e163d12bdd717574a5dcf21767aa3]
 
 In this Order, the “1990 Act” means the Environmental Protection Act 1990.
 
-## 3. Amount of fixed penalties[^key-bb88dcff0fba96b799adc76e115e3948]
+## 3. Amount of fixed penalties[^c-bb88dcff0fba96b799adc76e115e3948]
 
 For the amount of £50 specified as the amount of fixed penalty in—
 
-- (a)[^key-2b223b3bb76134f134b9104ba58f60ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2b223b3bb76134f134b9104ba58f60ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 88(6) of the 1990 Act[^f00002], there is substituted the amount of £80.
 
-## 4. Revocation[^key-0a22384387cd490f4b7ac48891b391b8]
+## 4. Revocation[^c-0a22384387cd490f4b7ac48891b391b8]
 
 The Litter (Fixed Penalty) (Scotland) Order 2003[^f00003] is revoked.
 
@@ -91,16 +91,16 @@ A business and regulatory impact assessment has not been prepared for this Order
 
 [^f00001]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 33A was inserted by section 55 of the Antisocial Behaviour etc. (Scotland) Act [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8) (the “2004 Act”). Section 88 has been relevantly amended by section 56 of the 2004 Act, and by [S.S.I. 2003/268](https://www.legislation.gov.uk/ssi/2003/268). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e80b1fa8530b256b26db9a92892f4d2f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/315/article/1) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
+[^c-e80b1fa8530b256b26db9a92892f4d2f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/315/article/1) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
 
-[^key-dd4e163d12bdd717574a5dcf21767aa3]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/315/article/2) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
+[^c-dd4e163d12bdd717574a5dcf21767aa3]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/315/article/2) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
 
-[^key-bb88dcff0fba96b799adc76e115e3948]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2013/315/article/3) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
+[^c-bb88dcff0fba96b799adc76e115e3948]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2013/315/article/3) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
 
-[^key-2b223b3bb76134f134b9104ba58f60ba]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/ssi/2013/315/article/3/a) omitted (1.1.2024) by virtue of [The Fly-tipping (Fixed Penalty) (Scotland) Order 2023 (S.S.I. 2023/335)](https://www.legislation.gov.uk/ssi/2023/335), [arts. 1](https://www.legislation.gov.uk/ssi/2023/335/article/1), [3](https://www.legislation.gov.uk/ssi/2023/335/article/3)
+[^c-2b223b3bb76134f134b9104ba58f60ba]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/ssi/2013/315/article/3/a) omitted (1.1.2024) by virtue of [The Fly-tipping (Fixed Penalty) (Scotland) Order 2023 (S.S.I. 2023/335)](https://www.legislation.gov.uk/ssi/2023/335), [arts. 1](https://www.legislation.gov.uk/ssi/2023/335/article/1), [3](https://www.legislation.gov.uk/ssi/2023/335/article/3)
 
 [^f00002]: Footnote: The amount of fixed penalty specified in section 88(6) was increased from £10 to £25 by [S.I. 1996/3055](https://www.legislation.gov.uk/uksi/1996/3055), and from £25 to £50 by [S.S.I. 2003/268](https://www.legislation.gov.uk/ssi/2003/268).
 
-[^key-0a22384387cd490f4b7ac48891b391b8]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2013/315/article/4) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
+[^c-0a22384387cd490f4b7ac48891b391b8]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2013/315/article/4) in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1)
 
 [^f00003]: Footnote: [S.S.I. 2003/268](https://www.legislation.gov.uk/ssi/2003/268).

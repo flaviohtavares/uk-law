@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 399. Service of documents on persons having an interest in land or occupying land[^key-3f62775b22c9fe41d6a0a1236a255a83]
+## 399. Service of documents on persons having an interest in land or occupying land[^c-3f62775b22c9fe41d6a0a1236a255a83]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f62775b22c9fe41d6a0a1236a255a83]: Commencement: S. 399 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3f62775b22c9fe41d6a0a1236a255a83]: Commencement: S. 399 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 241. Order for examination, etc[^key-3b00b2644affcdf151cd6023cb1b34d3]
+## 241. Order for examination, etc[^c-3b00b2644affcdf151cd6023cb1b34d3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 9.3 of the 1991 Rules.
 
 ## Annotations
 
-[^key-3b00b2644affcdf151cd6023cb1b34d3]: Commencement: Rule 241 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3b00b2644affcdf151cd6023cb1b34d3]: Commencement: Rule 241 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

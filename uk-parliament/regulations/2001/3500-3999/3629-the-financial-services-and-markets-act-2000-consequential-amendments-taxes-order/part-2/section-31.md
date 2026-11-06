@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Capital redemption business[^key-ff051999a1577f987cc6ed04fd0c0c4d]
+## 31. Capital redemption business[^c-ff051999a1577f987cc6ed04fd0c0c4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In section 458(3) (capital redemption business)[^f00035] for paragraphs (a) and 
 
 ## Annotations
 
-[^key-ff051999a1577f987cc6ed04fd0c0c4d]: Commencement: Art. 31 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-ff051999a1577f987cc6ed04fd0c0c4d]: Commencement: Art. 31 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00035]: Footnote: Section 458(3) was amended by paragraph 2 of Schedule 33 to the Finance Act 1996.

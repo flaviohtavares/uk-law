@@ -24,10 +24,10 @@ summary: ''
 
 (2) Schedule 16 to this Act (which makes consequential amendments) has effect.
 
-(3)[^key-ae076a264cf94c2d2841f91ba4c74175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ae076a264cf94c2d2841f91ba4c74175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subject to that, Schedules 15 and 16 apply in relation to shares issued on or after 1st April 2000 but before 1st April 2010.
 
 ## Annotations
 
-[^key-ae076a264cf94c2d2841f91ba4c74175]: Textual amendment: [S. 63(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/63/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ae076a264cf94c2d2841f91ba4c74175]: Textual amendment: [S. 63(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/63/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

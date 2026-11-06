@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 35. Payment of pension where person lacks capacity[^key-dc361949f45bd174ca1eede6bdf04365]
+## 35. Payment of pension where person lacks capacity[^c-dc361949f45bd174ca1eede6bdf04365]
 
 *Extent: E*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc361949f45bd174ca1eede6bdf04365]: Commencement: [S. 35](https://www.legislation.gov.uk/ukcm/2018/9/section/35) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-dc361949f45bd174ca1eede6bdf04365]: Commencement: [S. 35](https://www.legislation.gov.uk/ukcm/2018/9/section/35) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

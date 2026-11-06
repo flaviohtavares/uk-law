@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Giving notices etc. to persons occupying or with an interest in land[^key-fac525f694029aa6258ac4fceaa56b68]
+## 137. Giving notices etc. to persons occupying or with an interest in land[^c-fac525f694029aa6258ac4fceaa56b68]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fac525f694029aa6258ac4fceaa56b68]: Commencement: S. 137 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-fac525f694029aa6258ac4fceaa56b68]: Commencement: S. 137 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

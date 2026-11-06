@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 The Pensions Regulator consents to the making of this Order as required by Article 87(2) of the Pensions (Northern Ireland) Order 2005.
 
-## 1. Citation and commencement[^key-9605a6cbfe032171970af903e0d05ede]
+## 1. Citation and commencement[^c-9605a6cbfe032171970af903e0d05ede]
 
 This Order may be cited as the Pensions (2005 Order) (Codes of Practice) (Revocation) Order (Northern Ireland) 2024 and shall come into operation on 5th July 2024.
 
-## 2. Revocation of codes of practice[^key-4e19016e3dd2a90b9c498663e9e38ab9]
+## 2. Revocation of codes of practice[^c-4e19016e3dd2a90b9c498663e9e38ab9]
 
 The following Codes of Practice are revoked—
 
@@ -95,9 +95,9 @@ The General code of practice is available on the Pensions Regulator’s website:
 
 [^f00002]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 87 was amended by paragraph 16 of Schedule 4 to the Public Service Pensions Act (Northern Ireland) [2014 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-9605a6cbfe032171970af903e0d05ede]: Commencement: Art. 1 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/131/article/1)
+[^c-9605a6cbfe032171970af903e0d05ede]: Commencement: Art. 1 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/131/article/1)
 
-[^key-4e19016e3dd2a90b9c498663e9e38ab9]: Commencement: Art. 2 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/131/article/1)
+[^c-4e19016e3dd2a90b9c498663e9e38ab9]: Commencement: Art. 2 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/131/article/1)
 
 [^f00003]: Footnote: *See* Article 2 of [S.R. 2005 No. 192 (C. 14)](https://www.legislation.gov.uk/nisr/2005/192)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Student partners[^key-d7fb010d0475f4ab7ddd40c9d3a8a132]
+## 55. Student partners[^c-d7fb010d0475f4ab7ddd40c9d3a8a132]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a claimant is not, but his partner is, a student, the provisions of regula
 
 ## Annotations
 
-[^key-d7fb010d0475f4ab7ddd40c9d3a8a132]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2006/405/regulation/55) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-d7fb010d0475f4ab7ddd40c9d3a8a132]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2006/405/regulation/55) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

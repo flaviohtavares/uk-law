@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Property in respect of which receivership or administration order is made[^key-ede3e8b49bd3c5b4e7d962e5117d269f]
+## 82. Property in respect of which receivership or administration order is made[^c-ede3e8b49bd3c5b4e7d962e5117d269f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ede3e8b49bd3c5b4e7d962e5117d269f]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2016/21/section/82) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-ede3e8b49bd3c5b4e7d962e5117d269f]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2016/21/section/82) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

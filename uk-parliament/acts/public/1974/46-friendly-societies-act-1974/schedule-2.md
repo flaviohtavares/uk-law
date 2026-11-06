@@ -40,7 +40,7 @@ Section 7(2).
 
 **6.** The investment of the funds, the keeping of the accounts and the audit of the accounts at least once a year.
 
-**7.**[^c1073720] Annual returns to the FCA[^key-87767309d7b3bb3a4ff09ecc63d455c4] relating to the affairs and numbers of members of the society.
+**7.**[^c1073720] Annual returns to the FCA[^c-87767309d7b3bb3a4ff09ecc63d455c4] relating to the affairs and numbers of members of the society.
 
 **8.** The inspection of the books of the society by every person having an interest in the funds of the society.
 
@@ -68,7 +68,7 @@ Section 7(2).
 
 **14.** The voluntary dissolution of the society [^c1073726]. . ..
 
-**15.**[^c1073728] The right of one-fifth of the total number of members, or of 100 members in the case of a society of not less than 1,000 members and not more than 10,000, or of 500 members in the case of a society of more than 10,000 members, to apply to the FCA[^key-6a36efdb2d78202f2eedfe54aa38353d], for an investigation of the affairs of the society or for winding it up.
+**15.**[^c1073728] The right of one-fifth of the total number of members, or of 100 members in the case of a society of not less than 1,000 members and not more than 10,000, or of 500 members in the case of a society of more than 10,000 members, to apply to the FCA[^c-6a36efdb2d78202f2eedfe54aa38353d], for an investigation of the affairs of the society or for winding it up.
 
 ## Annotations
 
@@ -82,7 +82,7 @@ Section 7(2).
 
 [^c1073720]: Modification: By [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [s. 95](https://www.legislation.gov.uk/ukpga/1992/40/section/95), [Sch. 16 para. 51(2)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/51/2) (with ss. 7(5) and 93(4)); [S.I. 1993/2213](https://www.legislation.gov.uk/uksi/1993/2213), [art. 2](https://www.legislation.gov.uk/uksi/1993/2213/article/2), [Sch. 6](https://www.legislation.gov.uk/uksi/1993/2213/schedule/6), it is provided that paras. 7, 12 and 15 shall cease to have effect (1.1.1994) in relation to registered friendly societies.
 
-[^key-87767309d7b3bb3a4ff09ecc63d455c4]: Textual amendment: Words in Sch. 2 para. 7 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(x)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/x) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-87767309d7b3bb3a4ff09ecc63d455c4]: Textual amendment: Words in Sch. 2 para. 7 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(x)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/x) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c1073723]: Textual amendment: Words in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/ukpga/1974/46/schedule/2/paragraph/11/2) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [art. 190(1)(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/190/1/2)
 
@@ -94,4 +94,4 @@ Section 7(2).
 
 [^c1073728]: Modification: By [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [s. 95](https://www.legislation.gov.uk/ukpga/1992/40/section/95), [Sch. 16 para. 51(2)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/51/2) (with ss. 7(5) and 93(4)); [S.I. 1993/2213](https://www.legislation.gov.uk/uksi/1993/2213), [art. 2](https://www.legislation.gov.uk/uksi/1993/2213/article/2), [Sch. 6](https://www.legislation.gov.uk/uksi/1993/2213/schedule/6), it is provided that paras. 7, 12 and 15 shall cease to have effect (1.1.1994) in relation to registered friendly societies.
 
-[^key-6a36efdb2d78202f2eedfe54aa38353d]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1974/46/schedule/2/paragraph/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(x)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/x) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-6a36efdb2d78202f2eedfe54aa38353d]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1974/46/schedule/2/paragraph/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(x)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/x) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

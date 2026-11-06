@@ -32,10 +32,10 @@ Regulation (EEC) No 706/73 of the Council
 
 of 12 March 1973 concerning the Community arrangements applicable to the Channel Islands and the Isle of Man for trade in agricultural products (revoked)
 
-[^key-4931c3f1c196c5f37850ed7868300c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4931c3f1c196c5f37850ed7868300c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-4931c3f1c196c5f37850ed7868300c0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-4931c3f1c196c5f37850ed7868300c0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4931c3f1c196c5f37850ed7868300c0a]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-4931c3f1c196c5f37850ed7868300c0a]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

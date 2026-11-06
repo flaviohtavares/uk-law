@@ -32,7 +32,7 @@ summary: ''
 
 trade descriptions
 
-The Textile Products (Indications of Fibre Content) (Amendment) Regulations 2008 (revoked)[^key-2fcb31f41529cda0823e589897a9d866]
+The Textile Products (Indications of Fibre Content) (Amendment) Regulations 2008 (revoked)[^c-2fcb31f41529cda0823e589897a9d866]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 2nd February 2008
 
-[^key-2fcb31f41529cda0823e589897a9d866]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fcb31f41529cda0823e589897a9d866]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation commencement and revocation[^key-2fcb31f41529cda0823e589897a9d866]
+## 1. Citation commencement and revocation[^c-2fcb31f41529cda0823e589897a9d866]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Textile Products (Indications of Fibre Content) Regulations 1986[^key-2fcb31f41529cda0823e589897a9d866]
+## 2. Amendment of the Textile Products (Indications of Fibre Content) Regulations 1986[^c-2fcb31f41529cda0823e589897a9d866]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fcb31f41529cda0823e589897a9d866]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fcb31f41529cda0823e589897a9d866]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2fcb31f41529cda0823e589897a9d866]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fcb31f41529cda0823e589897a9d866]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2fcb31f41529cda0823e589897a9d866]: Textual amendment: Regulations revoked (8.5.2012) by [The Textile Products (Labelling and Fibre Composition) Regulations 2012 (S.I. 2012/1102)](https://www.legislation.gov.uk/uksi/2012/1102), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1102/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1102/schedule/1)
+[^c-2fcb31f41529cda0823e589897a9d866]: Textual amendment: Regulations revoked (8.5.2012) by [The Textile Products (Labelling and Fibre Composition) Regulations 2012 (S.I. 2012/1102)](https://www.legislation.gov.uk/uksi/2012/1102), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1102/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1102/schedule/1)

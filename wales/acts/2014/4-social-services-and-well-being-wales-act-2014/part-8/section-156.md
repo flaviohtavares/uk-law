@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Power to direct exercise of other social services functions[^key-77f48ced82b9c1b00742ca519aaa26f4]
+## 156. Power to direct exercise of other social services functions[^c-77f48ced82b9c1b00742ca519aaa26f4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77f48ced82b9c1b00742ca519aaa26f4]: Commencement: S. 156 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-77f48ced82b9c1b00742ca519aaa26f4]: Commencement: S. 156 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

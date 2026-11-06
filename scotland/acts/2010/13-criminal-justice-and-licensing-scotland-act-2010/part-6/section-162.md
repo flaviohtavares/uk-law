@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Confidentiality of disclosed information[^key-d84d699b5d5600e2f3458df9b1bb11b1]
+## 162. Confidentiality of disclosed information[^c-d84d699b5d5600e2f3458df9b1bb11b1]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ summary: ''
 - (b) a petition to the *nobile officium*,
 - (c) proceedings in the European Court of Human Rights.
 
-(8)[^key-05f977fe5b784ebed844f8c38d26e453] In this section—
+(8)[^c-05f977fe5b784ebed844f8c38d26e453] In this section—
 
 - “ **accused** ” includes—
   - (a) where information is disclosed by virtue of section 133(2)(b), 134(2)(b), 135(3)(b), 136(2), 137(2) or 138(2), the appellant or, as the case may be, person to whom the prosecutor is required to disclose the information, and
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d84d699b5d5600e2f3458df9b1bb11b1]: Commencement: S. 162 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-d84d699b5d5600e2f3458df9b1bb11b1]: Commencement: S. 162 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-05f977fe5b784ebed844f8c38d26e453]: Textual amendment: S. 162(8) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 32](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/32); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-05f977fe5b784ebed844f8c38d26e453]: Textual amendment: S. 162(8) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 32](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/32); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Supply of information[^key-2fc056b9291ee33a995970941d38c8bc][^key-46adcc5b07e5a8d56f9057c62cd9f973]
+## 57. Supply of information[^c-2fc056b9291ee33a995970941d38c8bc][^c-46adcc5b07e5a8d56f9057c62cd9f973]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fc056b9291ee33a995970941d38c8bc]: Commencement: S. 57 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-2fc056b9291ee33a995970941d38c8bc]: Commencement: S. 57 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-46adcc5b07e5a8d56f9057c62cd9f973]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2025/4/section/57) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-46adcc5b07e5a8d56f9057c62cd9f973]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2025/4/section/57) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

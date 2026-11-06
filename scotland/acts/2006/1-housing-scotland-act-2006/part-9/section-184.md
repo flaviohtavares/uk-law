@@ -37,7 +37,7 @@ summary: ''
 - (a) the situation is urgent, or
 - (b) the person entitled to exercise the power considers that giving such notice would defeat the object of the proposed entry.
 
-(4A)[^key-f36718057cb377fb6e7e22616b24e426] In relation to the exercise of the right conferred by section 181(1A), the reference to occupants in subsection (4) is to be read as including the tenant, the landlord and any known agent of the landlord.
+(4A)[^c-f36718057cb377fb6e7e22616b24e426] In relation to the exercise of the right conferred by section 181(1A), the reference to occupants in subsection (4) is to be read as including the tenant, the landlord and any known agent of the landlord.
 
 (5) A person authorised to exercise any right conferred by or under this Part must, if required to do so, produce written evidence of that authorisation.
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f36718057cb377fb6e7e22616b24e426]: Textual amendment: S. 184(4A) inserted (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 25(8)](https://www.legislation.gov.uk/asp/2014/14/section/25/8), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/349](https://www.legislation.gov.uk/ssi/2015/349), [art. 3](https://www.legislation.gov.uk/ssi/2015/349/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/349/schedule)
+[^c-f36718057cb377fb6e7e22616b24e426]: Textual amendment: S. 184(4A) inserted (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 25(8)](https://www.legislation.gov.uk/asp/2014/14/section/25/8), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/349](https://www.legislation.gov.uk/ssi/2015/349), [art. 3](https://www.legislation.gov.uk/ssi/2015/349/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/349/schedule)

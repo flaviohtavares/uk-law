@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Contracting out of certain removal centres.[^c11434631][^c17545641][^key-df1c82b0a112888a0760a7763777e290]
+## 149. Contracting out of certain removal centres.[^c11434631][^c17545641][^c-df1c82b0a112888a0760a7763777e290]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (c) section 19(1), (2) and (3) of the [^c11434661]Landlord and Tenant Act 1927 and the [^c11434671]Landlord and Tenant Act 1988 (covenants not to assign etc.);
 - (d) the [^c11434681]Agricultural Holdings Act 1986;
 - (e) sections 4 to 7 of the [^c11434691]Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (irritancy clauses);
-- (f) the [^c11434701]Agricultural Holdings (Scotland) Act 1991 and the Agricultural Holdings (Scotland) Act 2003 (asp 11)[^key-0d18b80e6d13674470dadfa1b3615670];
+- (f) the [^c11434701]Agricultural Holdings (Scotland) Act 1991 and the Agricultural Holdings (Scotland) Act 2003 (asp 11)[^c-0d18b80e6d13674470dadfa1b3615670];
 - (g) section 14 of the [^c11434711]Conveyancing Act 1881;
 - (h) the [^c11434721]Conveyancing and Law of Property Act 1892;
 - (i) the [^c11434731]Business Tenancies (Northern Ireland) Order 1996.
@@ -65,7 +65,7 @@ summary: ''
 
 [^c17545641]: Modification: S. 149 extended (4.11.2002) by [The Immigration (Short-term Holding Facilities) Regulations 2002 (S.I. 2002/2538)](https://www.legislation.gov.uk/uksi/2002/2538), [art. 2](https://www.legislation.gov.uk/uksi/2002/2538/article/2)
 
-[^key-df1c82b0a112888a0760a7763777e290]: Textual amendment: Words in ss. 149, 150 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(c)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/c), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-df1c82b0a112888a0760a7763777e290]: Textual amendment: Words in ss. 149, 150 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(c)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/c), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
 
 [^c11434641]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 
@@ -81,7 +81,7 @@ summary: ''
 
 [^c11434701]: Marginal citation: [1991 c. 55](https://www.legislation.gov.uk/ukpga/1991/55).
 
-[^key-0d18b80e6d13674470dadfa1b3615670]: Textual amendment: Words in s. 149(3)(f) inserted (S.) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [sch. para. 52](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/52) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-0d18b80e6d13674470dadfa1b3615670]: Textual amendment: Words in s. 149(3)(f) inserted (S.) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [sch. para. 52](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/52) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
 [^c11434711]: Marginal citation: [1881 c. 41](https://www.legislation.gov.uk/ukpga/1881/41).
 

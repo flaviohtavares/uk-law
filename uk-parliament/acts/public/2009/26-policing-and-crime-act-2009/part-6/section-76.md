@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Dealing with person for other offences[^key-70f11f93ffc1308f1d375d6dde59485d]
+## 76. Dealing with person for other offences[^c-70f11f93ffc1308f1d375d6dde59485d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70f11f93ffc1308f1d375d6dde59485d]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2009/26/section/76) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(s)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/s) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/2))
+[^c-70f11f93ffc1308f1d375d6dde59485d]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2009/26/section/76) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(s)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/s) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/2))

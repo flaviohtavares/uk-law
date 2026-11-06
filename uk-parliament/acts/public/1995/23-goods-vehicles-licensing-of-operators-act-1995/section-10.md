@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A traffic commissioner shall publish in the prescribed manner notice of any application for an operator’s licence which is received[^key-5310f0b770dff796bdf23760e0dd17df] .
+(1) A traffic commissioner shall publish in the prescribed manner notice of any application for an operator’s licence which is received[^c-5310f0b770dff796bdf23760e0dd17df] .
 
 (2) The notice shall state—
 
@@ -31,4 +31,4 @@ any objection to, or representations against, the grant of the application is or
 
 ## Annotations
 
-[^key-5310f0b770dff796bdf23760e0dd17df]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/23/section/10/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-5310f0b770dff796bdf23760e0dd17df]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/23/section/10/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

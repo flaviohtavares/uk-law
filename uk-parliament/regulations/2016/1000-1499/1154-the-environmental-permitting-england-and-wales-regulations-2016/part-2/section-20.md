@@ -38,7 +38,7 @@ summary: ''
 
 - (a) the regulated facility is a standard facility,
 - (b) the regulator, on its own initiative, varies an environmental permit, or any condition of a permit, in order to comply with—
-  - (i) an obligation under[^key-e70564f865974abd345d9f8d196c0033] assimilated[^key-dd7886f82839dfd0b9969b4d592a873e] law, or
+  - (i) an obligation under[^c-e70564f865974abd345d9f8d196c0033] assimilated[^c-dd7886f82839dfd0b9969b4d592a873e] law, or
   - (ii) a direction given by the appropriate authority under regulation 62, or
 - (c) the regulator, on its own initiative, varies an environmental permit, or any condition of a permit, in consequence of a transfer or partial transfer of an environmental permit under regulation 21.
 
@@ -51,15 +51,15 @@ summary: ''
 
 (8) Paragraph (7) does not apply if the regulator, of its own initiative, varies an environmental permit, or any condition of a permit, in order to comply with—
 
-- (a) an obligation under[^key-f23fc74e16e9f4be82858ae6852a6bd6] assimilated[^key-17b7916503eba00faa2b16830e2f3093] law, or
+- (a) an obligation under[^c-f23fc74e16e9f4be82858ae6852a6bd6] assimilated[^c-17b7916503eba00faa2b16830e2f3093] law, or
 - (b) a direction given by the appropriate authority under regulation 62.
 
 ## Annotations
 
-[^key-e70564f865974abd345d9f8d196c0033]: Textual amendment: Words in [reg. 20(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/5/b/i) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e70564f865974abd345d9f8d196c0033]: Textual amendment: Words in [reg. 20(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/5/b/i) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd7886f82839dfd0b9969b4d592a873e]: Textual amendment: Word in [reg. 20(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/5/b/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 38(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/38/a)
+[^c-dd7886f82839dfd0b9969b4d592a873e]: Textual amendment: Word in [reg. 20(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/5/b/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 38(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/38/a)
 
-[^key-f23fc74e16e9f4be82858ae6852a6bd6]: Textual amendment: Words in [reg. 20(8)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/8/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f23fc74e16e9f4be82858ae6852a6bd6]: Textual amendment: Words in [reg. 20(8)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/8/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-17b7916503eba00faa2b16830e2f3093]: Textual amendment: Word in [reg. 20(8)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/8/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 38(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/38/a)
+[^c-17b7916503eba00faa2b16830e2f3093]: Textual amendment: Word in [reg. 20(8)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/20/8/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 38(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/38/a)

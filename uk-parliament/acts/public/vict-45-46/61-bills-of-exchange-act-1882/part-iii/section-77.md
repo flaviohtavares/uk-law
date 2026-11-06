@@ -30,7 +30,7 @@ summary: ''
 
 (5)[^c580866] Where a cheque is crossed specially, the banker to whom it is crossed may again cross it specially to another banker for collection.
 
-(6)[^key-dd849d3681ec3c53c7707c9e7d0716ba][^key-f248c103b3837b64b2321c976fa60055] Where an uncrossed cheque, or a cheque crossed generally, is sent to a banker for collection, he may cross it specially to himself.
+(6)[^c-dd849d3681ec3c53c7707c9e7d0716ba][^c-f248c103b3837b64b2321c976fa60055] Where an uncrossed cheque, or a cheque crossed generally, is sent to a banker for collection, he may cross it specially to himself.
 
 ## Annotations
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c580866]: Modification: S. 77(1)(3)-(5) and, so far as it relates to crossed cheques, (6) extended by [S.I. 1972/641](https://www.legislation.gov.uk/uksi/1972/641), 764, 765
 
-[^key-dd849d3681ec3c53c7707c9e7d0716ba]: Modification: [S. 77(6)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/77/6) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
+[^c-dd849d3681ec3c53c7707c9e7d0716ba]: Modification: [S. 77(6)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/77/6) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
 
-[^key-f248c103b3837b64b2321c976fa60055]: Modification: [S. 77(6)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/77/6) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)
+[^c-f248c103b3837b64b2321c976fa60055]: Modification: [S. 77(6)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/77/6) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)

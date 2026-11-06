@@ -28,13 +28,13 @@ summary: ''
 (2) The conditions are that—
 
 - (a) the ship is not an offshore installation,
-- (b)[^key-be44e5cc3fe6b6982e0f70b7a4d2cfb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-be44e5cc3fe6b6982e0f70b7a4d2cfb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the primary use to which ships of the same kind are put by their owners (or, if their use is made available to others, those others) is a use otherwise than for sport or recreation.
 
-(3)[^key-201f0ab92f411fd5465693b92e17a2ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-201f0ab92f411fd5465693b92e17a2ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be44e5cc3fe6b6982e0f70b7a4d2cfb5]: Textual amendment: S. 94(2)(b) repealed (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/8) , [42 Pt. 2(19)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/19)
+[^c-be44e5cc3fe6b6982e0f70b7a4d2cfb5]: Textual amendment: S. 94(2)(b) repealed (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/8) , [42 Pt. 2(19)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/19)
 
-[^key-201f0ab92f411fd5465693b92e17a2ab]: Textual amendment: S. 94(3) repealed (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/8) , [42 Pt. 2(19)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/19)
+[^c-201f0ab92f411fd5465693b92e17a2ab]: Textual amendment: S. 94(3) repealed (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/8) , [42 Pt. 2(19)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/19)

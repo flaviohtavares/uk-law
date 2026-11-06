@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-5504699eda9f98597225f635f7b0079d] Competent authorities may designate—
+1.[^c-5504699eda9f98597225f635f7b0079d] Competent authorities may designate—
 
 - (a) official laboratories, which may be in any part of the United Kingdom; and
 - (b) official plant health officers, where the requirements of paragraphs 1A and 1B are met,
@@ -47,10 +47,10 @@ to carry out the analyses, tests and diagnoses on samples taken during official 
 - (a) the official plant health officer does not comply with conditions specified under paragraph 1A(b);
 - (b) the official plant health officer no longer complies with the conditions in paragraph 1B.
 
-2. Competent authorities may designate as an official laboratory a laboratory located in a third country[^key-5ddc19a0795be44f8de85817b61415a3], subject to compliance with the following conditions:
+2. Competent authorities may designate as an official laboratory a laboratory located in a third country[^c-5ddc19a0795be44f8de85817b61415a3], subject to compliance with the following conditions:
 
-- (a) appropriate arrangements are in place under which the competent authorities are enabled to perform the audits and inspections referred to in Article 39(1)[^key-500e4a8cb87906721109f86d641b80bf]...; and
-- (b) that laboratory is already designated as an official laboratory by the competent authorities of the country[^key-8ca3ea3f5748b90509fc9ddea65424be] on whose territory it is located.
+- (a) appropriate arrangements are in place under which the competent authorities are enabled to perform the audits and inspections referred to in Article 39(1)[^c-500e4a8cb87906721109f86d641b80bf]...; and
+- (b) that laboratory is already designated as an official laboratory by the competent authorities of the country[^c-8ca3ea3f5748b90509fc9ddea65424be] on whose territory it is located.
 
 3. The designation of an official laboratory shall be in writing and shall include a detailed description of:
 
@@ -72,16 +72,16 @@ to carry out the analyses, tests and diagnoses on samples taken during official 
 - (b) may comprise one or more methods of laboratory analysis, test or diagnosis or groups of methods;
 - (c) may be defined in a flexible manner, so as to allow the scope of accreditation to include modified versions of the methods used by the official laboratory when the accreditation was granted or new methods in addition to those methods, on the basis of the laboratory’s own validations without a specific assessment by the national accreditation body prior to the use of those modified or new methods.
 
-6. Where no official laboratory designated in the United Kingdom or in a third country,[^key-7f956e40064bab1845626a16b3f1229d] has the expertise, equipment, infrastructure and staff necessary to perform new or particularly uncommon laboratory analyses, tests or diagnoses, the competent authorities may request a laboratory or diagnostic centre which does not comply with one or more of the requirements set out in paragraphs 3 and 4 to carry out those analyses, tests and diagnoses.
+6. Where no official laboratory designated in the United Kingdom or in a third country,[^c-7f956e40064bab1845626a16b3f1229d] has the expertise, equipment, infrastructure and staff necessary to perform new or particularly uncommon laboratory analyses, tests or diagnoses, the competent authorities may request a laboratory or diagnostic centre which does not comply with one or more of the requirements set out in paragraphs 3 and 4 to carry out those analyses, tests and diagnoses.
 
 ## Annotations
 
-[^key-5504699eda9f98597225f635f7b0079d]: Textual amendment: [Art. 37(1)-(1D)](https://www.legislation.gov.uk/eur/2017/625/article/37/1) substituted for [Art. 37(1)](https://www.legislation.gov.uk/eur/2017/625/article/37/1) (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [6](https://www.legislation.gov.uk/uksi/2025/102/regulation/6)
+[^c-5504699eda9f98597225f635f7b0079d]: Textual amendment: [Art. 37(1)-(1D)](https://www.legislation.gov.uk/eur/2017/625/article/37/1) substituted for [Art. 37(1)](https://www.legislation.gov.uk/eur/2017/625/article/37/1) (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [6](https://www.legislation.gov.uk/uksi/2025/102/regulation/6)
 
-[^key-5ddc19a0795be44f8de85817b61415a3]: Textual amendment: Words in [Art. 37(2)](https://www.legislation.gov.uk/eur/2017/625/article/37/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/c/i) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-5ddc19a0795be44f8de85817b61415a3]: Textual amendment: Words in [Art. 37(2)](https://www.legislation.gov.uk/eur/2017/625/article/37/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/c/i) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-500e4a8cb87906721109f86d641b80bf]: Textual amendment: Words in [Art. 37(2)(a)](https://www.legislation.gov.uk/eur/2017/625/article/37/2/a) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/c/ii) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-500e4a8cb87906721109f86d641b80bf]: Textual amendment: Words in [Art. 37(2)(a)](https://www.legislation.gov.uk/eur/2017/625/article/37/2/a) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/c/ii) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-8ca3ea3f5748b90509fc9ddea65424be]: Textual amendment: Word in [Art. 37(2)(b)](https://www.legislation.gov.uk/eur/2017/625/article/37/2/b) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/c/iii) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-8ca3ea3f5748b90509fc9ddea65424be]: Textual amendment: Word in [Art. 37(2)(b)](https://www.legislation.gov.uk/eur/2017/625/article/37/2/b) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/c/iii) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-7f956e40064bab1845626a16b3f1229d]: Textual amendment: Words in [Art. 37(6)](https://www.legislation.gov.uk/eur/2017/625/article/37/6) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/d) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-7f956e40064bab1845626a16b3f1229d]: Textual amendment: Words in [Art. 37(6)](https://www.legislation.gov.uk/eur/2017/625/article/37/6) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/3/d) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

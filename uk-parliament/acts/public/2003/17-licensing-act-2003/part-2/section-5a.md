@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 5A. Cumulative impact assessments[^key-ba8edd0dd68c67c739d1a60c61239170]
+## 5A. Cumulative impact assessments[^c-ba8edd0dd68c67c739d1a60c61239170]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba8edd0dd68c67c739d1a60c61239170]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/2003/17/section/5A) inserted (31.1.2017 for specified purposes, 6.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 141(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/141/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 2](https://www.legislation.gov.uk/uksi/2018/456/regulation/2)
+[^c-ba8edd0dd68c67c739d1a60c61239170]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/2003/17/section/5A) inserted (31.1.2017 for specified purposes, 6.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 141(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/141/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 2](https://www.legislation.gov.uk/uksi/2018/456/regulation/2)

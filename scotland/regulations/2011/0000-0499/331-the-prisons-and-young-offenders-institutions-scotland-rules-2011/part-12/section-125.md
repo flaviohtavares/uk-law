@@ -30,8 +30,8 @@ summary: ''
 - (a) supplies of any form specified in a direction made under paragraph (1);
 - (b) assistance in the completion of any such form;
 - (c) assistance in making a written complaint under rules 122 to 124; and
-- (d) assistance in referring a complaint to the Scottish Public Services Ombudsman[^key-8a6d440e75d5a0ab5d0f2a0028c26c42] under rule 123(10) or 124(6).
+- (d) assistance in referring a complaint to the Scottish Public Services Ombudsman[^c-8a6d440e75d5a0ab5d0f2a0028c26c42] under rule 123(10) or 124(6).
 
 ## Annotations
 
-[^key-8a6d440e75d5a0ab5d0f2a0028c26c42]: Textual amendment: Words in rule 125(2)(d) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(12)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/12)
+[^c-8a6d440e75d5a0ab5d0f2a0028c26c42]: Textual amendment: Words in rule 125(2)(d) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(12)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/12)

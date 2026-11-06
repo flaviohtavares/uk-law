@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. General duties of the Mayor with respect to his strategies[^key-0fd0d232eb765fd50bb82f1eb1b2e952]
+## 24. General duties of the Mayor with respect to his strategies[^c-0fd0d232eb765fd50bb82f1eb1b2e952]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd0d232eb765fd50bb82f1eb1b2e952]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2007/24/section/24) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-0fd0d232eb765fd50bb82f1eb1b2e952]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2007/24/section/24) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)

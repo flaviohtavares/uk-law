@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Keeping of information by operators[^key-70468c5f8c6d350866ba904ede6d60a0]
+## 16. Keeping of information by operators[^c-70468c5f8c6d350866ba904ede6d60a0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The operator of any vehicle which is used for the carriage of dangerous goods sh
 
 ## Annotations
 
-[^key-70468c5f8c6d350866ba904ede6d60a0]: Commencement: Reg. 16 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-70468c5f8c6d350866ba904ede6d60a0]: Commencement: Reg. 16 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

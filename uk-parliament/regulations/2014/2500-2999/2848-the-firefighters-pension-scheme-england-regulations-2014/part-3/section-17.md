@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Pensionable pay[^key-8d010e349ac6fd78c898c834bee1283b]
+## 17. Pensionable pay[^c-8d010e349ac6fd78c898c834bee1283b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d010e349ac6fd78c898c834bee1283b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2848/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-8d010e349ac6fd78c898c834bee1283b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2848/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

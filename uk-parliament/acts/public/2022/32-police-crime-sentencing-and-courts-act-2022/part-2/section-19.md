@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Guidance[^key-9430c7cafaaeedf01b2717ad3e56bff3][^key-7b2b9f12030999f72c5576216ac0b7cb]
+## 19. Guidance[^c-9430c7cafaaeedf01b2717ad3e56bff3][^c-7b2b9f12030999f72c5576216ac0b7cb]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9430c7cafaaeedf01b2717ad3e56bff3]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 208(4)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/e)
+[^c-9430c7cafaaeedf01b2717ad3e56bff3]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 208(4)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/e)
 
-[^key-7b2b9f12030999f72c5576216ac0b7cb]: Commencement: S. 19 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/k)
+[^c-7b2b9f12030999f72c5576216ac0b7cb]: Commencement: S. 19 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Compulsory acquisition of rights and the imposition of restrictive covenants[^key-18121dcd19b6fbfd75703194a331ea31]
+## 20. Compulsory acquisition of rights and the imposition of restrictive covenants[^c-18121dcd19b6fbfd75703194a331ea31]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18121dcd19b6fbfd75703194a331ea31]: Commencement: Art. 20 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-18121dcd19b6fbfd75703194a331ea31]: Commencement: Art. 20 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

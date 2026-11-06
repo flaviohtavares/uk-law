@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Definitions relating to procurement arrangements[^key-07dafee6194eff46b08ef7a2f98326a6][^key-408a863c26ce087a2701668444d78265]
+## 114. Definitions relating to procurement arrangements[^c-07dafee6194eff46b08ef7a2f98326a6][^c-408a863c26ce087a2701668444d78265]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07dafee6194eff46b08ef7a2f98326a6]: Commencement: S. 114 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-07dafee6194eff46b08ef7a2f98326a6]: Commencement: S. 114 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-408a863c26ce087a2701668444d78265]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2023/54/section/114) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/o)
+[^c-408a863c26ce087a2701668444d78265]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2023/54/section/114) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/o)

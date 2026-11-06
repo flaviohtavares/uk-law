@@ -25,9 +25,9 @@ summary: ''
 (2) In this Article “lone parent” means a parent who—
 
 - (a) has no spouse or civil partner[^c17082311] or is not living with his spouse or civil partner; and
-- (b) is not living with any other person as if spouses of each other[^key-f5dc577cdfc1a23932ba02d73f4697c2] .
+- (b) is not living with any other person as if spouses of each other[^c-f5dc577cdfc1a23932ba02d73f4697c2] .
 
-(3)[^key-c15fd2160bcf5a137294a57180c9fd60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c15fd2160bcf5a137294a57180c9fd60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -35,6 +35,6 @@ summary: ''
 
 [^c17082311]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-f5dc577cdfc1a23932ba02d73f4697c2]: Textual amendment: Words in [art. 68(2)(b)](https://www.legislation.gov.uk/nisi/1998/1506/article/68/2/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [70(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/70/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-f5dc577cdfc1a23932ba02d73f4697c2]: Textual amendment: Words in [art. 68(2)(b)](https://www.legislation.gov.uk/nisi/1998/1506/article/68/2/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [70(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/70/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-c15fd2160bcf5a137294a57180c9fd60]: Textual amendment: [Art. 68(3)](https://www.legislation.gov.uk/nisi/1998/1506/article/68/3) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [70(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/70/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c15fd2160bcf5a137294a57180c9fd60]: Textual amendment: [Art. 68(3)](https://www.legislation.gov.uk/nisi/1998/1506/article/68/3) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [70(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/70/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

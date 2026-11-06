@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Use of fixed penalty receipts[^key-6b4453ff62b02808aa8a02c57dfc9c72]
+## 131. Use of fixed penalty receipts[^c-6b4453ff62b02808aa8a02c57dfc9c72]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ After section 237C of the Local Government Act 1972 (as inserted by section 130)
 
 ## Annotations
 
-[^key-6b4453ff62b02808aa8a02c57dfc9c72]: Commencement: S. 131 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/112/article/2/c)
+[^c-6b4453ff62b02808aa8a02c57dfc9c72]: Commencement: S. 131 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/112/article/2/c)

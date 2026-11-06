@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1(6) and 1B of the Ancient Monuments and Archaeological Areas Act 1979[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement, interpretation and extent[^key-5e7a932476a3f1e5bcf74783af5a40f8]
+## 1. Citation, commencement, interpretation and extent[^c-5e7a932476a3f1e5bcf74783af5a40f8]
 
 (1) These Regulations may be cited as the Scheduled Monuments (Notification and Publication) (Scotland) Regulations 2015 and come into force on 1st October 2015.
 
@@ -54,7 +54,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) In these Regulations “the Act” means the Ancient Monuments and Archaeological Areas Act 1979.
 
-## 2. Application[^key-36e28e216c3ca2512804a762bc70ed43]
+## 2. Application[^c-36e28e216c3ca2512804a762bc70ed43]
 
 (1) These Regulations apply to any—
 
@@ -64,7 +64,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 made on after 1st October 2015.
 
-## 3. Notification of inclusion in, amendment to or exclusion from the Schedule[^key-6df04c5b600636d3e4b954d0e0754235]
+## 3. Notification of inclusion in, amendment to or exclusion from the Schedule[^c-6df04c5b600636d3e4b954d0e0754235]
 
 (1) The notice for the purpose of section 1(6) of the Act of the—
 
@@ -80,14 +80,14 @@ is to be given in accordance with this regulation and regulation 4.
 - (b) the occupier of the monument; and
 - (c) the local authority in whose area the monument is situated.
 
-(3) Notice under section 1(6) of the Act is to be given as soon as is reasonably practicable after the inclusion in of a monument in the Schedule or the exclusion[^key-3c74a0e26e8d42722aacf18c3eae3f36] of a monument from the Schedule or the amendment of an entry in the Schedule relating to a monument, as the case may be.
+(3) Notice under section 1(6) of the Act is to be given as soon as is reasonably practicable after the inclusion in of a monument in the Schedule or the exclusion[^c-3c74a0e26e8d42722aacf18c3eae3f36] of a monument from the Schedule or the amendment of an entry in the Schedule relating to a monument, as the case may be.
 
 (4) The notice must—
 
 - (a) describe the location of the monument including, where applicable, a postal address; and
 - (b) where a monument is included in the Schedule or an entry in the Schedule relating to a monument is amended, include a copy of the entry in the Schedule relating to the monument.
 
-## 4. Service of notices[^key-052540b92bb7e6e38452837de0500c95]
+## 4. Service of notices[^c-052540b92bb7e6e38452837de0500c95]
 
 (1) Notice under section 1(6) of the Act may be served on or given to a person—
 
@@ -128,7 +128,7 @@ of a person to be notified, the notice is taken to be served if the requirements
 - “legible in all material respects” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served or given by means of a notice in printed form; and
 - “sent” includes served, submitted or given and cognate expressions are to be construed accordingly.
 
-## 5. Publication of the Schedule[^key-58772f261e81aa177e28ea324b1ada16]
+## 5. Publication of the Schedule[^c-58772f261e81aa177e28ea324b1ada16]
 
 (1) The Schedule is to be published and made available for public inspection in accordance with this regulation.
 
@@ -156,18 +156,18 @@ These Regulations make provision in respect of the notification and publication 
 
 [^f00001]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46). Section 1(6) was substituted by, and section 1B was inserted by the Historic Environment Scotland Act [2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), schedule 2, paragraphs 2(e) and 3. The functions of the Secretary of State transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-5e7a932476a3f1e5bcf74783af5a40f8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/230/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
+[^c-5e7a932476a3f1e5bcf74783af5a40f8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/230/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
 
-[^key-36e28e216c3ca2512804a762bc70ed43]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/230/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
+[^c-36e28e216c3ca2512804a762bc70ed43]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/230/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
 
-[^key-6df04c5b600636d3e4b954d0e0754235]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/230/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
+[^c-6df04c5b600636d3e4b954d0e0754235]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/230/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
 
-[^key-3c74a0e26e8d42722aacf18c3eae3f36]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2015/230/regulation/3/3) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/6/2)
+[^c-3c74a0e26e8d42722aacf18c3eae3f36]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2015/230/regulation/3/3) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/6/2)
 
-[^key-052540b92bb7e6e38452837de0500c95]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/230/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
+[^c-052540b92bb7e6e38452837de0500c95]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/230/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
 
 [^f00002]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).
 
 [^f00003]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-58772f261e81aa177e28ea324b1ada16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/230/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)
+[^c-58772f261e81aa177e28ea324b1ada16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/230/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/230/regulation/1/1)

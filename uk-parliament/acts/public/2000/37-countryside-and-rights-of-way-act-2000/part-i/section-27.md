@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Before giving a direction under section 24, 25 , 25A *(Extent: E)*[^key-e986716f40fc139f12a13079d2f63f2a] or 26 in relation to land in an area for which there is a local access forum so as to exclude or restrict access to the land—
+(1) Before giving a direction under section 24, 25 , 25A *(Extent: E)*[^c-e986716f40fc139f12a13079d2f63f2a] or 26 in relation to land in an area for which there is a local access forum so as to exclude or restrict access to the land—
 
 - (a) indefinitely, or
 - (b) during a period which exceeds, or may exceed, six months,
@@ -51,12 +51,12 @@ the authority shall review the direction not later than the fifth anniversary of
 
 *Extent: E*
 
-(7)[^key-fd66930798719ab2f112060009f457f5] Subsection (1) does not apply if the direction is made in accordance with section 55F(2) of the National Parks and Access to the Countryside Act 1949 (directions set out in report approving proposals for English coastal route).
+(7)[^c-fd66930798719ab2f112060009f457f5] Subsection (1) does not apply if the direction is made in accordance with section 55F(2) of the National Parks and Access to the Countryside Act 1949 (directions set out in report approving proposals for English coastal route).
 
 (8 (Extent: E)) Nothing in subsection (5) or (6) has effect in relation to a direction ceasing to have effect by virtue of section 3A(7) (pre-existing directions ceasing to have effect at end of access preparation period for coastal margin). *(Extent: E)*
 
 ## Annotations
 
-[^key-e986716f40fc139f12a13079d2f63f2a]: Textual amendment: Words in s. 27(1)-(3) inserted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/22/2)
+[^c-e986716f40fc139f12a13079d2f63f2a]: Textual amendment: Words in s. 27(1)-(3) inserted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/22/2)
 
-[^key-fd66930798719ab2f112060009f457f5]: Textual amendment: S. 27(7)(8) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/22/3)
+[^c-fd66930798719ab2f112060009f457f5]: Textual amendment: S. 27(7)(8) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/22/3)

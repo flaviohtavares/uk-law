@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Hearsay evidence in restraint proceedings[^key-fb877ff1e626dd5fef98ce1281b66a65]
+## 13. Hearsay evidence in restraint proceedings[^c-fb877ff1e626dd5fef98ce1281b66a65]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb877ff1e626dd5fef98ce1281b66a65]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2005/3181/article/13) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-fb877ff1e626dd5fef98ce1281b66a65]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2005/3181/article/13) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00013]: Footnote: [1995 c. 38](https://www.legislation.gov.uk/ukpga/1995/38).

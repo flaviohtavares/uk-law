@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The period prescribed for the purposes of section 16(1) is eighteen months beginning immediately after[^key-3d84201551f9fed307c6afd63a165814]—
+(1) The period prescribed for the purposes of section 16(1) is eighteen months beginning immediately after[^c-3d84201551f9fed307c6afd63a165814]—
 
 - (a) where there is no declared priority date, the date of filing of the application; or
 - (b) where there is a declared priority date, that date.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d84201551f9fed307c6afd63a165814]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2007/3291/rule/26/1) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-3d84201551f9fed307c6afd63a165814]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2007/3291/rule/26/1) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Appeals against traffic regulation conditions.[^M_M_c37719dd-257c-4b23-9ebe-254f0e58e150][^M_C_005ff0c1-d969-477f-d5fa-e159f5f75c76][^key-28711a4097679fd646c35e578df27f95]
+## 9. Appeals against traffic regulation conditions.[^M_M_c37719dd-257c-4b23-9ebe-254f0e58e150][^M_C_005ff0c1-d969-477f-d5fa-e159f5f75c76][^c-28711a4097679fd646c35e578df27f95]
 
 *Extent: E+W*
 
-(1) Any person to whom subsection (2) below applies may appeal to the Upper Tribunal[^key-962dd8564a2e9b99d0b530f51b022c84] against—
+(1) Any person to whom subsection (2) below applies may appeal to the Upper Tribunal[^c-962dd8564a2e9b99d0b530f51b022c84] against—
 
 - (a) the determination, variation or revocation of any traffic regulation conditions under section 7 of this Act; or
 - (b) the refusal by a traffic commissioner to comply with a request duly made under that section to determine, vary or revoke any such conditions.
@@ -32,24 +32,24 @@ summary: ''
   - (ii) any traffic authority aggrieved by the decision in question; and
 - (b) in relation to any refusal to comply with a request, the person making the request.
 
-(3)[^key-76bafafc5725b4b76b55737d719e8fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-76bafafc5725b4b76b55737d719e8fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-76bafafc5725b4b76b55737d719e8fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-76bafafc5725b4b76b55737d719e8fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3c6c276beae5656aa36729bcc1bf4f24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3c6c276beae5656aa36729bcc1bf4f24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) For the purposes of section 13(2) of the Tribunals, Courts and Enforcement Act 2007 (appeals to Court of Appeal[^key-85bc3f6d7d141e4f23a862c7701bcc53] etc. against decisions of the Upper Tribunal) the following persons are to be treated as parties to a case—
+(6) For the purposes of section 13(2) of the Tribunals, Courts and Enforcement Act 2007 (appeals to Court of Appeal[^c-85bc3f6d7d141e4f23a862c7701bcc53] etc. against decisions of the Upper Tribunal) the following persons are to be treated as parties to a case—
 
-- (a) the person who appealed to the tribunal[^key-b5511df6515079831773dc27d168670b];
+- (a) the person who appealed to the tribunal[^c-b5511df6515079831773dc27d168670b];
 - (b) any person who had a right to appeal to the tribunal against the relevant decision of the traffic commissioner but did not exercise that right;
 - (c) any traffic authority aggrieved by the decision; and
-- (d)[^key-496c5a9cfd068ddb481e27898fc775a8] a traffic commissioner.
+- (d)[^c-496c5a9cfd068ddb481e27898fc775a8] a traffic commissioner.
 
-(7)[^key-954d7778a83b62742ae822ec1f42df4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-954d7778a83b62742ae822ec1f42df4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-954d7778a83b62742ae822ec1f42df4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-954d7778a83b62742ae822ec1f42df4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-954d7778a83b62742ae822ec1f42df4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-954d7778a83b62742ae822ec1f42df4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section “**traffic authority**” has the same meaning as in section 7 of this Act.
 
@@ -103,21 +103,21 @@ summary: ''
 
     Ss. 6-9: power to modify conferred (E.W.) (1.8.2001 for E. and 26.10.2001 for W.) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 134(2)(a)](https://www.legislation.gov.uk/ukpga/2000/38/section/134/2/a); [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/2); [S.I. 2001/3342](https://www.legislation.gov.uk/uksi/2001/3342), [art. 2](https://www.legislation.gov.uk/uksi/2001/3342/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3342/schedule)
 
-[^key-28711a4097679fd646c35e578df27f95]: Modification: Ss. 6-9 excluded by 2000 c. 38, s. 123J(2) (as inserted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/21/section/4), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)) (with transitional provisions (24.4.2018) in [S.I. 2018/406](https://www.legislation.gov.uk/uksi/2018/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/406/regulation/1/2), [4-8](https://www.legislation.gov.uk/uksi/2018/406/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/406/regulation/1/3)))
+[^c-28711a4097679fd646c35e578df27f95]: Modification: Ss. 6-9 excluded by 2000 c. 38, s. 123J(2) (as inserted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/21/section/4), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)) (with transitional provisions (24.4.2018) in [S.I. 2018/406](https://www.legislation.gov.uk/uksi/2018/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/406/regulation/1/2), [4-8](https://www.legislation.gov.uk/uksi/2018/406/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/406/regulation/1/3)))
 
-[^key-962dd8564a2e9b99d0b530f51b022c84]: Textual amendment: Words in s. 9(1) substituted (E.W.) (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/7/a)
+[^c-962dd8564a2e9b99d0b530f51b022c84]: Textual amendment: Words in s. 9(1) substituted (E.W.) (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/7/a)
 
-[^key-76bafafc5725b4b76b55737d719e8fe3]: Textual amendment: S. 9(3)(4) repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2008/26/section/51/3), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
+[^c-76bafafc5725b4b76b55737d719e8fe3]: Textual amendment: S. 9(3)(4) repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2008/26/section/51/3), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
 
-[^key-3c6c276beae5656aa36729bcc1bf4f24]: Textual amendment: S. 9(5) omitted (E.W.) (1.9.2009) by virtue of [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/7/b)
+[^c-3c6c276beae5656aa36729bcc1bf4f24]: Textual amendment: S. 9(5) omitted (E.W.) (1.9.2009) by virtue of [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/7/b)
 
-[^key-85bc3f6d7d141e4f23a862c7701bcc53]: Textual amendment: Words in s. 9(6) substituted (E.W.) (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/7/c)
+[^c-85bc3f6d7d141e4f23a862c7701bcc53]: Textual amendment: Words in s. 9(6) substituted (E.W.) (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/7/c)
 
-[^key-b5511df6515079831773dc27d168670b]: Textual amendment: Words in s. 9(6) substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 51(5)(b)](https://www.legislation.gov.uk/ukpga/2008/26/section/51/5/b), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
+[^c-b5511df6515079831773dc27d168670b]: Textual amendment: Words in s. 9(6) substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 51(5)(b)](https://www.legislation.gov.uk/ukpga/2008/26/section/51/5/b), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
 
-[^key-496c5a9cfd068ddb481e27898fc775a8]: Textual amendment: S. 9(6)(d) substituted (E.W.) (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-496c5a9cfd068ddb481e27898fc775a8]: Textual amendment: S. 9(6)(d) substituted (E.W.) (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-954d7778a83b62742ae822ec1f42df4f]: Textual amendment: S. 9(7)-(9) repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 51(6)](https://www.legislation.gov.uk/ukpga/2008/26/section/51/6), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
+[^c-954d7778a83b62742ae822ec1f42df4f]: Textual amendment: S. 9(7)-(9) repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 51(6)](https://www.legislation.gov.uk/ukpga/2008/26/section/51/6), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/1))
 
 [^M_M_df2c4593-03fc-4341-f65c-8ccce71a73da]: Marginal citation: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

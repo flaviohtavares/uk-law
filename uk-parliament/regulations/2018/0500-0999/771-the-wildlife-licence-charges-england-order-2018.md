@@ -35,7 +35,7 @@ Fees And Charges, England
 
 Wildlife, England
 
-The Wildlife Licence Charges (England) Order 2018 (revoked)[^key-9d5ef0014a33f42435c658a5991228b7]
+The Wildlife Licence Charges (England) Order 2018 (revoked)[^c-9d5ef0014a33f42435c658a5991228b7]
 
 Made
 
@@ -49,31 +49,31 @@ Coming into force
 
 1st October 2018
 
-[^key-9d5ef0014a33f42435c658a5991228b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d5ef0014a33f42435c658a5991228b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9d5ef0014a33f42435c658a5991228b7]
+## 1. Citation and commencement[^c-9d5ef0014a33f42435c658a5991228b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9d5ef0014a33f42435c658a5991228b7]
+## 2. Interpretation[^c-9d5ef0014a33f42435c658a5991228b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Licence charges[^key-9d5ef0014a33f42435c658a5991228b7]
+## 3. Licence charges[^c-9d5ef0014a33f42435c658a5991228b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemptions, reductions and remissions[^key-9d5ef0014a33f42435c658a5991228b7]
+## 4. Exemptions, reductions and remissions[^c-9d5ef0014a33f42435c658a5991228b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d5ef0014a33f42435c658a5991228b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d5ef0014a33f42435c658a5991228b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Licence charges[^key-9d5ef0014a33f42435c658a5991228b7]
+## SCHEDULE — Licence charges[^c-9d5ef0014a33f42435c658a5991228b7]
 
 Article 3
 
@@ -81,8 +81,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-9d5ef0014a33f42435c658a5991228b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d5ef0014a33f42435c658a5991228b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d5ef0014a33f42435c658a5991228b7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/771) revoked (28.3.2025) by [The Wildlife Licence Charges (England) Order 2025 (S.I. 2025/236)](https://www.legislation.gov.uk/uksi/2025/236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/236/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2025/236/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2025/236/article/5/2))
+[^c-9d5ef0014a33f42435c658a5991228b7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/771) revoked (28.3.2025) by [The Wildlife Licence Charges (England) Order 2025 (S.I. 2025/236)](https://www.legislation.gov.uk/uksi/2025/236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/236/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2025/236/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2025/236/article/5/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement, transitional and saving provisions[^key-517e8a24d14b358ad926f8420e266ff8]
+## 1. Citation, commencement, transitional and saving provisions[^c-517e8a24d14b358ad926f8420e266ff8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-517e8a24d14b358ad926f8420e266ff8]: Commencement: Art. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-517e8a24d14b358ad926f8420e266ff8]: Commencement: Art. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

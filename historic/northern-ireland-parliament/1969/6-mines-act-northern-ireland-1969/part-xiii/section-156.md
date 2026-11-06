@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 156. Meaning of “mine”[^key-e4bd2d7f99c3866ee6805520f83dce62]
+## 156. Meaning of “mine”[^c-e4bd2d7f99c3866ee6805520f83dce62]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4bd2d7f99c3866ee6805520f83dce62]: Textual amendment: S. 156 substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 1(a)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/1/a)
+[^c-e4bd2d7f99c3866ee6805520f83dce62]: Textual amendment: S. 156 substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 1(a)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/1/a)

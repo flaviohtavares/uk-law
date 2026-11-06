@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Accounting principles and rules[^key-c32d69964e378e3338f688ec6384d435]
+## 7. Accounting principles and rules[^c-c32d69964e378e3338f688ec6384d435]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Each society shall prepare its annual accounts in accordance with the accounting
 
 ## Annotations
 
-[^key-c32d69964e378e3338f688ec6384d435]: Commencement: Reg. 7 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-c32d69964e378e3338f688ec6384d435]: Commencement: Reg. 7 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)

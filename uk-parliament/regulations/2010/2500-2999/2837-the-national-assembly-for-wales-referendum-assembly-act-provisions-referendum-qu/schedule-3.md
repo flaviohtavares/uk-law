@@ -230,7 +230,7 @@ Retention and public inspection of documents
 
 ### PART 1 — Time
 
-#### 1. Timetable[^key-6111ce5ef4e4593d883c5499d8d8a479]
+#### 1. Timetable[^c-6111ce5ef4e4593d883c5499d8d8a479]
 
 The proceedings in the referendum are to be conducted in accordance with the following Table —
 
@@ -244,7 +244,7 @@ The proceedings in the referendum are to be conducted in accordance with the fol
 | Notice of designation of a designated counting agent | At the same time as notice of appointment of the counting agent | Rule 17(6) and (8) |
 | Polling | Between the hours of 7a.m. in the morning and 10p.m. at night | Rule 4 |
 
-#### 2. Computation of time[^key-d9be72ff405682fbe59b221bf0d57df9]
+#### 2. Computation of time[^c-d9be72ff405682fbe59b221bf0d57df9]
 
 In calculating any period of time for the purposes of these Rules, the following days are to be disregarded —
 
@@ -257,7 +257,7 @@ nor is a counting officer obliged to proceed with the counting of votes on such 
 
 ### PART 2 — General Provisions
 
-#### 3. Notice of the referendum[^key-bbebacd3fa7ceaab7be6a94414785a45]
+#### 3. Notice of the referendum[^c-bbebacd3fa7ceaab7be6a94414785a45]
 
 (1) The counting officer must give public notice of the referendum not later than the twenty-fifth day before the date of the poll at the referendum.
 
@@ -271,15 +271,15 @@ nor is a counting officer obliged to proceed with the counting of votes on such 
   - (i) applications to vote by post or by proxy; and
   - (ii) other applications and notices about postal or proxy voting.
 
-#### 4. Hours of polling[^key-7cbc83c893c18304e4dd575c9be82ddd]
+#### 4. Hours of polling[^c-7cbc83c893c18304e4dd575c9be82ddd]
 
 The hours of polling are between 7a.m. and 10p.m. on the day of the poll at the referendum.
 
-#### 5. Poll to be taken by ballot[^key-eb4c5fb01a76d924456158af0041f42b]
+#### 5. Poll to be taken by ballot[^c-eb4c5fb01a76d924456158af0041f42b]
 
 The votes in the referendum are to be given by ballot.
 
-#### 6. The ballot paper[^key-254df11f4e1bb420f50d8ed69c59f6ec]
+#### 6. The ballot paper[^c-254df11f4e1bb420f50d8ed69c59f6ec]
 
 (1) The ballot of every voter is to consist of a ballot paper.
 
@@ -291,7 +291,7 @@ The votes in the referendum are to be given by ballot.
 - (b) be capable of being folded up; and
 - (c) have a number and other unique identifying mark printed on the back.
 
-#### 7. The corresponding number list[^key-4bb70a74a5f16488eb370f56eef4d678]
+#### 7. The corresponding number list[^c-4bb70a74a5f16488eb370f56eef4d678]
 
 (1) The counting officer must prepare a list (in this Order referred to as “the corresponding number list”) containing the numbers and other unique identifying marks of all ballot papers to be—
 
@@ -300,7 +300,7 @@ The votes in the referendum are to be given by ballot.
 
 (2) The corresponding number list must be in the form E set out in Schedule 6.
 
-#### 8. The official mark[^key-edccda093784fcb98e1c86a0f9c08f30]
+#### 8. The official mark[^c-edccda093784fcb98e1c86a0f9c08f30]
 
 (1) Every ballot paper must contain an appropriate security marking (in these Rules referred to as “the official mark”).
 
@@ -308,11 +308,11 @@ The votes in the referendum are to be given by ballot.
 
 (3) The counting officer may use a different official mark for different purposes.
 
-#### 9. Prohibition of disclosure of vote[^key-eb0d32dfe5ef70836c0a0052483ec98c]
+#### 9. Prohibition of disclosure of vote[^c-eb0d32dfe5ef70836c0a0052483ec98c]
 
 A person who has voted in the referendum may not be required, in any legal proceedings to question the referendum, to state for which answer that person has voted.
 
-#### 10. Use of schools and public rooms for polling[^key-c594a67f0f3e5a32e0125133518de0ba]
+#### 10. Use of schools and public rooms for polling[^c-c594a67f0f3e5a32e0125133518de0ba]
 
 (1) The counting officer may use, free of charge, for the purpose of taking the poll —
 
@@ -325,7 +325,7 @@ A person who has voted in the referendum may not be required, in any legal proce
 
 ### PART 3 — Action to be taken before the poll
 
-#### 11. Notice of poll[^key-582afe2ef5e9bc3c35fa54828811a36f]
+#### 11. Notice of poll[^c-582afe2ef5e9bc3c35fa54828811a36f]
 
 (1) The counting officer must give public notice of the poll not later than the sixteenth day before the date of the poll at the referendum.
 
@@ -342,7 +342,7 @@ A person who has voted in the referendum may not be required, in any legal proce
 
 (3) As soon as practicable after giving the notice under paragraph (2), the counting officer must give a copy of it to each of the referendum agents appointed for the officer’s area.
 
-#### 12. Postal ballot papers[^key-95fbbd07e5832910a9aaca1c6f6b60ce]
+#### 12. Postal ballot papers[^c-95fbbd07e5832910a9aaca1c6f6b60ce]
 
 (1) The counting officer must in accordance with Schedule 2 issue to those entitled to vote by post —
 
@@ -360,7 +360,7 @@ together with the envelopes for their return (in accordance with paragraph 8 of 
 
 (3) In the case of a ballot paper issued to a person at an address in the United Kingdom, the counting officer must ensure that the return of the ballot paper and postal voting statement is free of charge to the voter.
 
-#### 13. Provision of polling stations[^key-aeed930a08e7ce7d1651271bbc4816b7]
+#### 13. Provision of polling stations[^c-aeed930a08e7ce7d1651271bbc4816b7]
 
 (1) The counting officer must —
 
@@ -373,7 +373,7 @@ together with the envelopes for their return (in accordance with paragraph 8 of 
 
 (4) The counting officer must provide each polling station with such number of compartments as may be necessary in which the voters can mark their votes screened from observation.
 
-#### 14. Appointment of presiding officers and clerks[^key-a7a186c6ab006ef85456adfb3e09577a]
+#### 14. Appointment of presiding officers and clerks[^c-a7a186c6ab006ef85456adfb3e09577a]
 
 (1) The counting officer must appoint and pay —
 
@@ -388,7 +388,7 @@ together with the envelopes for their return (in accordance with paragraph 8 of 
 
 (5) A presiding officer may authorise a clerk appointed in accordance with this rule to do any act (including the asking of questions) which the presiding officer is required or authorised by these Rules to do at a polling station, except ordering the arrest, exclusion or removal of any person from the polling station.
 
-#### 15. Issue of official poll cards[^key-991e0475aef34734ae9344fb64647ce1]
+#### 15. Issue of official poll cards[^c-991e0475aef34734ae9344fb64647ce1]
 
 (1) The counting officer must as soon as practicable after the publication of notice of the referendum, send to voters an official poll card in accordance with this rule.
 
@@ -420,7 +420,7 @@ together with the envelopes for their return (in accordance with paragraph 8 of 
 
 (10) In paragraph (9) the reference to a person who is so registered includes a person then shown in that register as below voting age if (but only if) it appears from the register that that person will be of voting age on the day fixed for the poll.
 
-#### 16. Equipment of polling stations[^key-0db988cf9e7a79690af66aa0cfa03b69]
+#### 16. Equipment of polling stations[^c-0db988cf9e7a79690af66aa0cfa03b69]
 
 (1) The counting officer must provide each presiding officer with such number of ballot boxes and ballot papers as the counting officer considers necessary.
 
@@ -473,7 +473,7 @@ together with the envelopes for their return (in accordance with paragraph 8 of 
 >
 > Peidiwch â rhoi unrhyw farc arall ar y papur pleidleisio, neu fe all na chaiff eich pleidlais ei chyfrif.
 
-#### 17. Appointment of polling and counting agents[^key-9fc9141728a463cad965d183556504bc]
+#### 17. Appointment of polling and counting agents[^c-9fc9141728a463cad965d183556504bc]
 
 (1) A referendum agent may, before the commencement of the poll, appoint—
 
@@ -513,7 +513,7 @@ together with the envelopes for their return (in accordance with paragraph 8 of 
 
 (13) Where by these rules anything is required or authorised to be done in the presence of the polling or counting agents, the non-attendance of any agent or agents at the time and place appointed for the purpose does not invalidate the thing (if the thing is otherwise duly done).
 
-#### 18. Notification of requirement of secrecy[^key-83dbe82670b3d4dbc4c245350d9f981f]
+#### 18. Notification of requirement of secrecy[^c-83dbe82670b3d4dbc4c245350d9f981f]
 
 (1) The counting officer must make such arrangements as the counting officer thinks fit to ensure that —
 
@@ -527,7 +527,7 @@ together with the envelopes for their return (in accordance with paragraph 8 of 
 - (c) a companion of a voter with disabilities;
 - (d) a constable on duty at a polling station or at the count.
 
-#### 19. Return of postal ballot papers[^key-33bd061cdb970327feb83e6fd886a152]
+#### 19. Return of postal ballot papers[^c-33bd061cdb970327feb83e6fd886a152]
 
 (1) Where —
 
@@ -540,7 +540,7 @@ the counting officer must mark the appropriate list accordingly.
 
 ### PART 4 — The poll
 
-#### 20. Admission to polling station[^key-b12239bec26da47407ad294c3fb35ebc]
+#### 20. Admission to polling station[^c-b12239bec26da47407ad294c3fb35ebc]
 
 (1) The presiding officer must exclude all persons from the polling station except —
 
@@ -572,7 +572,7 @@ the counting officer must mark the appropriate list accordingly.
 
 (7) A certificate surrendered under paragraph (5) must be immediately cancelled.
 
-#### 21. Keeping of order in polling station[^key-c13a26978c3f62cdf98f78eec5cee9d3]
+#### 21. Keeping of order in polling station[^c-c13a26978c3f62cdf98f78eec5cee9d3]
 
 (1) The presiding officer must keep order at the polling station.
 
@@ -593,7 +593,7 @@ the presiding officer may order the person to be removed immediately from the po
 
 (5) The power to remove a person from the polling station may not be exercised so as to prevent a voter who is otherwise entitled to vote at a polling station from having the opportunity to vote at that station.
 
-#### 22. Sealing of ballot boxes[^key-87af2f2a5567208179ce32fd80a42490]
+#### 22. Sealing of ballot boxes[^c-87af2f2a5567208179ce32fd80a42490]
 
 (1) Immediately before the commencement of the poll, the presiding officer must show each ballot box proposed to be used for the purposes of the poll to such persons (if any) who are present in the polling station so that they may see that each box is empty.
 
@@ -603,7 +603,7 @@ the presiding officer may order the person to be removed immediately from the po
 - (b) place each box in the presiding officer’s view for receipt of ballot papers, and
 - (c) keep each box sealed.
 
-#### 23. Questions to be put to voters[^key-afd6c39c274e22e09c6dce5c7a835e77]
+#### 23. Questions to be put to voters[^c-afd6c39c274e22e09c6dce5c7a835e77]
 
 (1) At the time a person described in an entry in column 1 of the Table in paragraph (3) (“the Table”) applies for a ballot paper (but not afterwards), the presiding officer —
 
@@ -642,7 +642,7 @@ the presiding officer may order the person to be removed immediately from the po
 
 (6) Except as authorised by this rule, no enquiry is permitted as to the right of any person to vote.
 
-#### 24. Challenge of voter[^key-4720ab71a0c4c971b324b5ac3b2238b0]
+#### 24. Challenge of voter[^c-4720ab71a0c4c971b324b5ac3b2238b0]
 
 A person is not to be prevented from voting by reason only that —
 
@@ -651,7 +651,7 @@ A person is not to be prevented from voting by reason only that —
   - (ii) that agent makes a declaration to that effect, or
 - (b) the person is arrested on the grounds of being suspected of committing or of being about to commit such an offence.
 
-#### 25. Voting procedure[^key-6477699957ff7535f61fd7243a606f5a]
+#### 25. Voting procedure[^c-6477699957ff7535f61fd7243a606f5a]
 
 (1) Subject to any provision of these rules to the contrary, a ballot paper must be delivered to a voter who applies for one, and immediately before delivery —
 
@@ -674,7 +674,7 @@ A person is not to be prevented from voting by reason only that —
 
 (5) The voter must leave the polling station as soon as the voter has put the ballot paper into the ballot box.
 
-#### 26. Votes marked by presiding officer[^key-251ed510da24bb296e038d31c19562ba]
+#### 26. Votes marked by presiding officer[^c-251ed510da24bb296e038d31c19562ba]
 
 (1) The presiding officer on the application of a voter —
 
@@ -689,7 +689,7 @@ must, in the presence of the polling agents (if any), cause the voter’s vote t
 
 (4) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, the reference in paragraph (2) to the voter’s number on the register is to be read as a reference to the number relating to the voter on the notice.
 
-#### 27. Voting by persons with disabilities[^key-f5d4a80eda29ea2a69b5db99ab58a9a3]
+#### 27. Voting by persons with disabilities[^c-f5d4a80eda29ea2a69b5db99ab58a9a3]
 
 (1) If a voter makes an application to the presiding officer to be allowed, on the ground of—
 
@@ -728,7 +728,7 @@ the presiding officer must grant the application.
   - (i) a person who is entitled to vote as an elector in the referendum; or
   - (ii) the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of the voter with disabilities and has attained the age of 18 years.
 
-#### 28. Tendered ballot papers[^key-11122fdc8938be94e0a8c4f5b0c2ce43]
+#### 28. Tendered ballot papers[^c-11122fdc8938be94e0a8c4f5b0c2ce43]
 
 (1) Paragraph (6) applies if any of the situations A to D in this rule exist.
 
@@ -784,7 +784,7 @@ applies for a ballot paper after another person has voted in person either as th
 - (a) references in this rule to a person named on the register are to be read as references to a person in respect of whom such a notice has been issued; and
 - (b) the references in paragraphs (7)(b) and (8) to the voter’s number on the register are to be read as references to the number relating to the voter on the notice.
 
-#### 29. Spoilt ballot papers[^key-b37a185febc936be1a34a4eb584bafe1]
+#### 29. Spoilt ballot papers[^c-b37a185febc936be1a34a4eb584bafe1]
 
 (1) A voter who has inadvertently dealt with a ballot paper in such a manner that it cannot be conveniently used as a ballot paper may —
 
@@ -795,11 +795,11 @@ obtain another ballot paper (in these Rules referred to as “the replacement ba
 
 (2) The spoilt ballot paper must be immediately cancelled.
 
-#### 30. Correction of errors on the day of the poll[^key-00a4279d8668f9b6ddc8eeb8e6ccdcca]
+#### 30. Correction of errors on the day of the poll[^c-00a4279d8668f9b6ddc8eeb8e6ccdcca]
 
 The presiding officer must keep a list (in these Rules referred to as “the polling day alterations list”) of persons to whom ballot papers are delivered in consequence of an alteration to the register made by virtue of section 13B(3B) or (3D) of the 1983 Act which takes effect on the day of the poll at the referendum.
 
-#### 31. Adjournment of poll in case of riot[^key-05c339ee6d94b3e7fec08bb18ad11e02]
+#### 31. Adjournment of poll in case of riot[^c-05c339ee6d94b3e7fec08bb18ad11e02]
 
 (1) Where the proceedings at any polling station are interrupted or obstructed by riot or open violence, the presiding officer must adjourn the proceedings to the following day and must forthwith inform the counting officer.
 
@@ -808,7 +808,7 @@ The presiding officer must keep a list (in these Rules referred to as “the pol
 - (a) the hours of polling on the day to which it is adjourned must be the same as for the original day; and
 - (b) references in these Rules to the close of the poll are to be construed accordingly.
 
-#### 32. Procedure on close of poll[^key-1bc046edd2f0bcef3dc3854932b45b4b]
+#### 32. Procedure on close of poll[^c-1bc046edd2f0bcef3dc3854932b45b4b]
 
 (1) As soon as practicable after the close of the poll, the presiding officer must in the presence of any polling agents, make up into separate packets, sealed with the presiding officer’s own seal and the seals (if any) of such polling agents as desire to affix their seals —
 
@@ -838,7 +838,7 @@ to the counting officer to be taken charge of by the counting officer.
 
 ### PART 5 — The count
 
-#### 33. Time of, and attendance at, the count[^key-fc81933e745d39deb734d45acb353cc9]
+#### 33. Time of, and attendance at, the count[^c-fc81933e745d39deb734d45acb353cc9]
 
 (1) The counting officer must —
 
@@ -876,7 +876,7 @@ may be present at the proceedings under rule 34(1) or at the counting of the vot
 
 (8) In particular, where the votes are counted by sorting the ballot papers according to the answer for which the vote is given and then counting the number of ballot papers for each answer, the counting agents are entitled to satisfy themselves that the ballot papers are correctly sorted.
 
-#### 34. The count[^key-be05e7244a7a46ab6441ad648c151b76]
+#### 34. The count[^c-be05e7244a7a46ab6441ad648c151b76]
 
 (1) The counting officer must —
 
@@ -927,7 +927,7 @@ may be present at the proceedings under rule 34(1) or at the counting of the vot
 
 (15) As soon as practicable after completion of the statement (or as the case may be each statement) under paragraph (11), the counting officer must inform the Chief Counting Officer of its contents.
 
-#### 35. Rejected ballot papers[^key-482df4a15851ac313ffcf1efe65e05a8]
+#### 35. Rejected ballot papers[^c-482df4a15851ac313ffcf1efe65e05a8]
 
 (1) Any ballot paper —
 
@@ -957,11 +957,11 @@ is not for such a reason to be deemed void if an intention that the vote is for 
 
 (5) As soon as practicable after completion of the statement under paragraph (4), the counting officer must inform the Chief Counting Officer of its contents.
 
-#### 36. Decisions on ballot papers[^key-bf8970220b76ab9752d4b8e17bfdb120]
+#### 36. Decisions on ballot papers[^c-bf8970220b76ab9752d4b8e17bfdb120]
 
 The decision of the counting officer on any question arising in respect of a ballot paper is, subject to review in accordance with paragraph 12 of Schedule 6 to the 2006 Act, final.
 
-#### 37. Counting officer’s re-count[^key-79c6bea6ff76524526f440a2759bcb2a]
+#### 37. Counting officer’s re-count[^c-79c6bea6ff76524526f440a2759bcb2a]
 
 (1) A person within paragraph (2) who is present at the completion of the counting (including any re-count) of the votes in a voting area may require the counting officer to have the votes re-counted (including again re-counted), but the counting officer may refuse to do so if in the counting officer’s opinion the request is unreasonable.
 
@@ -974,7 +974,7 @@ The decision of the counting officer on any question arising in respect of a bal
 
 (4) A counting officer must not conduct a re-count under this rule once a direction has been given by the Chief Counting Officer under rule 39(1).
 
-#### 38. Chief Counting Officer’s re-count[^key-9d0a84e68b2761375f3ea4d09932445b]
+#### 38. Chief Counting Officer’s re-count[^c-9d0a84e68b2761375f3ea4d09932445b]
 
 (1) As soon as practicable after the conclusion of the count (which includes any re-count under rule 37 or any re-count directed under this rule), the counting officer must draw up a statement showing —
 
@@ -997,7 +997,7 @@ the Chief Counting Officer may direct that counting officer to re-count (or agai
 
 ### PART 6 — Final proceedings
 
-#### 39. Counting officer’s certification and declaration[^key-b358866cfad4b0d3349fd2ce26468d6c]
+#### 39. Counting officer’s certification and declaration[^c-b358866cfad4b0d3349fd2ce26468d6c]
 
 (1) When the Chief Counting Officer has determined that it is appropriate to do so, the Chief Counting Officer must direct a counting officer to —
 
@@ -1018,7 +1018,7 @@ the Chief Counting Officer may direct that counting officer to re-count (or agai
 
 (4) A counting officer may not make the certification under section 128(5) of the 2000 Act until directed to do so under paragraph (1)(a).
 
-#### 40. Chief Counting Officer’s certification and declaration of result of referendum[^key-7e076ff291db9c163232ed74ebcd23fd]
+#### 40. Chief Counting Officer’s certification and declaration of result of referendum[^c-7e076ff291db9c163232ed74ebcd23fd]
 
 (1) The Chief Counting Officer, having made the certification for the referendum under section 128(6) of the 2000 Act in the form O set out in Schedule 6, must —
 
@@ -1032,7 +1032,7 @@ the Chief Counting Officer may direct that counting officer to re-count (or agai
 
 ### PART 7 — Disposal of documents
 
-#### 41. Sealing up of ballot papers[^key-187ab602d50673a8ff53ccd7cdb9895d]
+#### 41. Sealing up of ballot papers[^c-187ab602d50673a8ff53ccd7cdb9895d]
 
 (1) As soon as reasonably practicable after the Chief Counting Officer has directed a counting officer under rule 39(1), the counting officer must seal up in separate packets —
 
@@ -1046,7 +1046,7 @@ the Chief Counting Officer may direct that counting officer to re-count (or agai
 - (c) the certificates as to employment on duty on the day of the poll; or
 - (d) marked copies of the register (including any marked copy notices issued under section 13B(3B) or (3D) of the 1983 Act) and list of proxies.
 
-#### 42. Delivery of documents to relevant registration officer[^key-a16d94d58ee3abd62e552957f5775917]
+#### 42. Delivery of documents to relevant registration officer[^c-a16d94d58ee3abd62e552957f5775917]
 
 (1) After sealing the papers in accordance with rule 41, the counting officer must send the documents mentioned in paragraph (2) to the relevant registration officer endorsing on each packet —
 
@@ -1065,7 +1065,7 @@ the Chief Counting Officer may direct that counting officer to re-count (or agai
 
 (3) In this rule, references to the relevant registration officer are to the registration officer of the council of the county or, as the case may be, county borough in which the votes counted by the counting officer have been cast.
 
-#### 43. Orders for production of documents[^key-b8b4cc5d926e06871b0d40a052e5edf9]
+#### 43. Orders for production of documents[^c-b8b4cc5d926e06871b0d40a052e5edf9]
 
 (1) An order —
 
@@ -1107,7 +1107,7 @@ is prima facie evidence that the elector whose vote was given by that ballot pap
 
 (8) Except in accordance with this rule, no person may inspect any rejected or counted ballot papers in the possession of the relevant registration officer or open any sealed packets of the completed corresponding number lists or of the certificates as to employment on duty on the date of the referendum.
 
-#### 44. Retention and public inspection of documents[^key-182164725618dca19fa52c30a26ee2d1]
+#### 44. Retention and public inspection of documents[^c-182164725618dca19fa52c30a26ee2d1]
 
 (1) The relevant registration officer must retain for one year all documents relating to the referendum forwarded to that officer by virtue of rule 42 and then, unless directed by order of the High Court, the Crown Court or a magistrates’ court, must cause them to be destroyed.
 
@@ -1128,100 +1128,100 @@ is prima facie evidence that the elector whose vote was given by that ballot pap
 
 ## Annotations
 
-[^key-6111ce5ef4e4593d883c5499d8d8a479]: Commencement: Sch. 3 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6111ce5ef4e4593d883c5499d8d8a479]: Commencement: Sch. 3 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-d9be72ff405682fbe59b221bf0d57df9]: Commencement: Sch. 3 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-d9be72ff405682fbe59b221bf0d57df9]: Commencement: Sch. 3 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00043]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-bbebacd3fa7ceaab7be6a94414785a45]: Commencement: Sch. 3 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-bbebacd3fa7ceaab7be6a94414785a45]: Commencement: Sch. 3 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-7cbc83c893c18304e4dd575c9be82ddd]: Commencement: Sch. 3 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-7cbc83c893c18304e4dd575c9be82ddd]: Commencement: Sch. 3 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-eb4c5fb01a76d924456158af0041f42b]: Commencement: Sch. 3 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-eb4c5fb01a76d924456158af0041f42b]: Commencement: Sch. 3 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-254df11f4e1bb420f50d8ed69c59f6ec]: Commencement: Sch. 3 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-254df11f4e1bb420f50d8ed69c59f6ec]: Commencement: Sch. 3 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-4bb70a74a5f16488eb370f56eef4d678]: Commencement: Sch. 3 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-4bb70a74a5f16488eb370f56eef4d678]: Commencement: Sch. 3 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-edccda093784fcb98e1c86a0f9c08f30]: Commencement: Sch. 3 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-edccda093784fcb98e1c86a0f9c08f30]: Commencement: Sch. 3 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-eb0d32dfe5ef70836c0a0052483ec98c]: Commencement: Sch. 3 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-eb0d32dfe5ef70836c0a0052483ec98c]: Commencement: Sch. 3 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-c594a67f0f3e5a32e0125133518de0ba]: Commencement: Sch. 3 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-c594a67f0f3e5a32e0125133518de0ba]: Commencement: Sch. 3 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-582afe2ef5e9bc3c35fa54828811a36f]: Commencement: Sch. 3 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-582afe2ef5e9bc3c35fa54828811a36f]: Commencement: Sch. 3 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-95fbbd07e5832910a9aaca1c6f6b60ce]: Commencement: Sch. 3 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-95fbbd07e5832910a9aaca1c6f6b60ce]: Commencement: Sch. 3 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-aeed930a08e7ce7d1651271bbc4816b7]: Commencement: Sch. 3 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-aeed930a08e7ce7d1651271bbc4816b7]: Commencement: Sch. 3 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00044]: Footnote: *See* article 6 for further provisions about polling districts and polling stations.
 
-[^key-a7a186c6ab006ef85456adfb3e09577a]: Commencement: Sch. 3 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-a7a186c6ab006ef85456adfb3e09577a]: Commencement: Sch. 3 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-991e0475aef34734ae9344fb64647ce1]: Commencement: Sch. 3 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-991e0475aef34734ae9344fb64647ce1]: Commencement: Sch. 3 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-0db988cf9e7a79690af66aa0cfa03b69]: Commencement: Sch. 3 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-0db988cf9e7a79690af66aa0cfa03b69]: Commencement: Sch. 3 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00045]: Footnote: *See* rule 27 as to the meaning of “companion”.
 
-[^key-9fc9141728a463cad965d183556504bc]: Commencement: Sch. 3 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-9fc9141728a463cad965d183556504bc]: Commencement: Sch. 3 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-83dbe82670b3d4dbc4c245350d9f981f]: Commencement: Sch. 3 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-83dbe82670b3d4dbc4c245350d9f981f]: Commencement: Sch. 3 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-33bd061cdb970327feb83e6fd886a152]: Commencement: Sch. 3 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-33bd061cdb970327feb83e6fd886a152]: Commencement: Sch. 3 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-b12239bec26da47407ad294c3fb35ebc]: Commencement: Sch. 3 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b12239bec26da47407ad294c3fb35ebc]: Commencement: Sch. 3 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00046]: Footnote: *See* rule 13.
 
-[^key-c13a26978c3f62cdf98f78eec5cee9d3]: Commencement: Sch. 3 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-c13a26978c3f62cdf98f78eec5cee9d3]: Commencement: Sch. 3 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-87af2f2a5567208179ce32fd80a42490]: Commencement: Sch. 3 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-87af2f2a5567208179ce32fd80a42490]: Commencement: Sch. 3 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-afd6c39c274e22e09c6dce5c7a835e77]: Commencement: Sch. 3 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-afd6c39c274e22e09c6dce5c7a835e77]: Commencement: Sch. 3 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-4720ab71a0c4c971b324b5ac3b2238b0]: Commencement: Sch. 3 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-4720ab71a0c4c971b324b5ac3b2238b0]: Commencement: Sch. 3 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00047]: Footnote: *See* paragraph 2 of Schedule 4 for the offence of personation.
 
-[^key-6477699957ff7535f61fd7243a606f5a]: Commencement: Sch. 3 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6477699957ff7535f61fd7243a606f5a]: Commencement: Sch. 3 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-251ed510da24bb296e038d31c19562ba]: Commencement: Sch. 3 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-251ed510da24bb296e038d31c19562ba]: Commencement: Sch. 3 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-f5d4a80eda29ea2a69b5db99ab58a9a3]: Commencement: Sch. 3 para. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-f5d4a80eda29ea2a69b5db99ab58a9a3]: Commencement: Sch. 3 para. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-11122fdc8938be94e0a8c4f5b0c2ce43]: Commencement: Sch. 3 para. 28 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-11122fdc8938be94e0a8c4f5b0c2ce43]: Commencement: Sch. 3 para. 28 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-b37a185febc936be1a34a4eb584bafe1]: Commencement: Sch. 3 para. 29 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b37a185febc936be1a34a4eb584bafe1]: Commencement: Sch. 3 para. 29 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-00a4279d8668f9b6ddc8eeb8e6ccdcca]: Commencement: Sch. 3 para. 30 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-00a4279d8668f9b6ddc8eeb8e6ccdcca]: Commencement: Sch. 3 para. 30 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-05c339ee6d94b3e7fec08bb18ad11e02]: Commencement: Sch. 3 para. 31 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-05c339ee6d94b3e7fec08bb18ad11e02]: Commencement: Sch. 3 para. 31 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-1bc046edd2f0bcef3dc3854932b45b4b]: Commencement: Sch. 3 para. 32 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-1bc046edd2f0bcef3dc3854932b45b4b]: Commencement: Sch. 3 para. 32 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-fc81933e745d39deb734d45acb353cc9]: Commencement: Sch. 3 para. 33 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-fc81933e745d39deb734d45acb353cc9]: Commencement: Sch. 3 para. 33 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-be05e7244a7a46ab6441ad648c151b76]: Commencement: Sch. 3 para. 34 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-be05e7244a7a46ab6441ad648c151b76]: Commencement: Sch. 3 para. 34 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-482df4a15851ac313ffcf1efe65e05a8]: Commencement: Sch. 3 para. 35 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-482df4a15851ac313ffcf1efe65e05a8]: Commencement: Sch. 3 para. 35 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-bf8970220b76ab9752d4b8e17bfdb120]: Commencement: Sch. 3 para. 36 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-bf8970220b76ab9752d4b8e17bfdb120]: Commencement: Sch. 3 para. 36 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-79c6bea6ff76524526f440a2759bcb2a]: Commencement: Sch. 3 para. 37 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-79c6bea6ff76524526f440a2759bcb2a]: Commencement: Sch. 3 para. 37 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-9d0a84e68b2761375f3ea4d09932445b]: Commencement: Sch. 3 para. 38 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-9d0a84e68b2761375f3ea4d09932445b]: Commencement: Sch. 3 para. 38 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-b358866cfad4b0d3349fd2ce26468d6c]: Commencement: Sch. 3 para. 39 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b358866cfad4b0d3349fd2ce26468d6c]: Commencement: Sch. 3 para. 39 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-7e076ff291db9c163232ed74ebcd23fd]: Commencement: Sch. 3 para. 40 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-7e076ff291db9c163232ed74ebcd23fd]: Commencement: Sch. 3 para. 40 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-187ab602d50673a8ff53ccd7cdb9895d]: Commencement: Sch. 3 para. 41 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-187ab602d50673a8ff53ccd7cdb9895d]: Commencement: Sch. 3 para. 41 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-a16d94d58ee3abd62e552957f5775917]: Commencement: Sch. 3 para. 42 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-a16d94d58ee3abd62e552957f5775917]: Commencement: Sch. 3 para. 42 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-b8b4cc5d926e06871b0d40a052e5edf9]: Commencement: Sch. 3 para. 43 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b8b4cc5d926e06871b0d40a052e5edf9]: Commencement: Sch. 3 para. 43 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-182164725618dca19fa52c30a26ee2d1]: Commencement: Sch. 3 para. 44 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-182164725618dca19fa52c30a26ee2d1]: Commencement: Sch. 3 para. 44 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

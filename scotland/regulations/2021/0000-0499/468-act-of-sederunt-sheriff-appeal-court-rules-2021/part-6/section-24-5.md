@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24.5. Form of intervention[^key-2d4c6291d6046909e259614eec46d5c8]
+## 24.5. Form of intervention[^c-2d4c6291d6046909e259614eec46d5c8]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d4c6291d6046909e259614eec46d5c8]: Commencement: Para. 24.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-2d4c6291d6046909e259614eec46d5c8]: Commencement: Para. 24.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

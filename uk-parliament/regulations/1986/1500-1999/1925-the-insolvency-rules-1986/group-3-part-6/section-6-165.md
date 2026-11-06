@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.165. Dealings by committee-members and others[^key-1cfe1a3173142f62b108af211bd57355]
+## 6.165. Dealings by committee-members and others[^c-1cfe1a3173142f62b108af211bd57355]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cfe1a3173142f62b108af211bd57355]: Commencement: [Rule 6.165](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.165) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1cfe1a3173142f62b108af211bd57355]: Commencement: [Rule 6.165](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.165) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

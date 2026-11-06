@@ -31,32 +31,32 @@ Naval and Military War Pensions &c. Act 1915 (repealed)
 
 1915 c.83
 
-[^key-e3b7d63723fc7345084333864d03a257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3b7d63723fc7345084333864d03a257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[10th November 1915\]
 
 **No longer in force.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e3b7d63723fc7345084333864d03a257][^key-e3b7d63723fc7345084333864d03a257]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e3b7d63723fc7345084333864d03a257][^c-e3b7d63723fc7345084333864d03a257]
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e3b7d63723fc7345084333864d03a257][^key-e3b7d63723fc7345084333864d03a257]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e3b7d63723fc7345084333864d03a257][^c-e3b7d63723fc7345084333864d03a257]
 
-## 3. Functions of Statutory Committee.[^key-e3b7d63723fc7345084333864d03a257][^key-e3b7d63723fc7345084333864d03a257]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e3b7d63723fc7345084333864d03a257][^key-e3b7d63723fc7345084333864d03a257]
-
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e3b7d63723fc7345084333864d03a257][^key-e3b7d63723fc7345084333864d03a257]
-
-## 6. Provisions as to Corporation.[^key-e3b7d63723fc7345084333864d03a257][^key-e3b7d63723fc7345084333864d03a257]
+## 3. Functions of Statutory Committee.[^c-e3b7d63723fc7345084333864d03a257][^c-e3b7d63723fc7345084333864d03a257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Short title.[^key-e3b7d63723fc7345084333864d03a257][^key-e3b7d63723fc7345084333864d03a257]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e3b7d63723fc7345084333864d03a257][^c-e3b7d63723fc7345084333864d03a257]
+
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e3b7d63723fc7345084333864d03a257][^c-e3b7d63723fc7345084333864d03a257]
+
+## 6. Provisions as to Corporation.[^c-e3b7d63723fc7345084333864d03a257][^c-e3b7d63723fc7345084333864d03a257]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Short title.[^c-e3b7d63723fc7345084333864d03a257][^c-e3b7d63723fc7345084333864d03a257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3b7d63723fc7345084333864d03a257]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/5-6/83) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-e3b7d63723fc7345084333864d03a257]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/5-6/83) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4

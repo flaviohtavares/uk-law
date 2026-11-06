@@ -43,12 +43,12 @@ Regulation 24
 
 (4) The contractor shall only refuse to provide services under the contract to a person if it has reasonable grounds for doing so which do not relate to—
 
-- (a)[^key-37342b05df8a49a2d3d691b57f54b255] a person’s age, sex (reassigned or otherwise), religion or belief, sexual orientation, race, cultural and linguistic background, any disability they may have, or medical or dental condition; or
+- (a)[^c-37342b05df8a49a2d3d691b57f54b255] a person’s age, sex (reassigned or otherwise), religion or belief, sexual orientation, race, cultural and linguistic background, any disability they may have, or medical or dental condition; or
 - (b) a person's decision or intended decision to accept or refuse private services in respect of himself or a family member.
 
 (5) Sub-paragraph (1) does not apply—
 
-- (a) where the contractor is providing mandatory or additional services in a secure and detained estate[^key-965b4d1b39581eadad502de39cba294f]; or
+- (a) where the contractor is providing mandatory or additional services in a secure and detained estate[^c-965b4d1b39581eadad502de39cba294f]; or
 - (b) in any event to dental public health services.
 
 #### 2. Patient preference of practitioner
@@ -65,7 +65,7 @@ Regulation 24
 
 (3) This paragraph does not apply—
 
-- (a) where the contractor is providing mandatory or additional services in a secure and detained estate[^key-74c8ec3f68603681a9c2a56ca13aed61]; or
+- (a) where the contractor is providing mandatory or additional services in a secure and detained estate[^c-74c8ec3f68603681a9c2a56ca13aed61]; or
 - (b) in any event to dental public health services.
 
 #### 3. Violent patients
@@ -75,14 +75,14 @@ Regulation 24
 - (a) a patient of the contractor has committed an act of violence or behaved in such a way against any of the persons specified in sub-paragraph (2) as a consequence of which that person has feared for his safety; and
 - (b) the contractor has reported the incident to the police,
 
-the contractor may notify NHS England[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660] that it will no longer provide services to that patient under the contract.
+the contractor may notify NHS England[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660] that it will no longer provide services to that patient under the contract.
 
 (2) The reference to persons in sub-paragraph (1) means—
 
 - (a) the contractor where it is an individual dental practitioner;
 - (b) in the case of a contract with two or more individuals practising in partnership, a partner in that partnership;
 - (c) in the case of a contract with a dental corporation, a director, chief executive, secretary or member of, or a legal and beneficial owner of shares in, that corporation;
-- (ca)[^key-3d19ca5271d8f4f617fd5fdab726c9a0] in the case of a contract with a limited liability partnership, a member of that partnership;
+- (ca)[^c-3d19ca5271d8f4f617fd5fdab726c9a0] in the case of a contract with a limited liability partnership, a member of that partnership;
 - (d) a member of the contractor's staff;
 - (e) a person engaged by the contractor to perform or assist in the performance of services under the contract; or
 - (f) any other person present—
@@ -116,7 +116,7 @@ Where—
 
 the contractor may notify NHS England that it will no longer provide services to that patient under the contract.
 
-#### 5A. Friends and Family Test[^key-013ae562733e8202ef39df4579f93534]
+#### 5A. Friends and Family Test[^c-013ae562733e8202ef39df4579f93534]
 
 (1) The contractor must give all patients who use the contractor’s practice the opportunity to provide feedback about the service received from the practice through the Friends and Family Test.
 
@@ -135,22 +135,22 @@ in the manner approved by NHS England.
 
 (1) Except in the case of orthodontic services and dental public health services, the contractor shall provide mandatory and additional services to a patient by providing to that patient a course of treatment.
 
-(2) The contractor shall use its best endeavours to ensure that a course of treatment that is not a complex care pathway[^key-2a6efc048093da2bdbe2389987aa3745] is completed within a reasonable time from the date on which—
+(2) The contractor shall use its best endeavours to ensure that a course of treatment that is not a complex care pathway[^c-2a6efc048093da2bdbe2389987aa3745] is completed within a reasonable time from the date on which—
 
 - (a) the treatment plan was written in accordance with paragraph 7(1); or
 - (b) where a treatment plan is not required pursuant to that paragraph, the initial examination and assessment of the patient took place.
 
-(2A)[^key-f346f8d055fc3c7794b78b3341312df5] The contractor shall complete a course of treatment that is a complex care pathway in accordance with the time frame specified in the appropriate row in Table C in Schedule 2, unless the period for completion of the complex care pathway is extended in accordance with sub-paragraph (2B).
+(2A)[^c-f346f8d055fc3c7794b78b3341312df5] The contractor shall complete a course of treatment that is a complex care pathway in accordance with the time frame specified in the appropriate row in Table C in Schedule 2, unless the period for completion of the complex care pathway is extended in accordance with sub-paragraph (2B).
 
 (2B) The period for completion of a course of treatment that is a complex care pathway may be extended beyond the period specified in the appropriate row in Table C in Schedule 2 where there has been a suspension in accordance with paragraph 38C, for the period of that suspension.
 
-(3) Where a contractor provides urgent treatment to a patient, the urgent treatment provided shall constitute a course of treatment and no other services shall be provided during that course of treatment , unless the other services are provided as part of a complex care pathway and the urgent treatment is for an intra-oral injury which—[^key-898b620fcac8432b342d84ffb3a67e43]
+(3) Where a contractor provides urgent treatment to a patient, the urgent treatment provided shall constitute a course of treatment and no other services shall be provided during that course of treatment , unless the other services are provided as part of a complex care pathway and the urgent treatment is for an intra-oral injury which—[^c-898b620fcac8432b342d84ffb3a67e43]
 
 - (a) occurs suddenly;
 - (b) is not related to caries or disease that is identified for the purposes of establishing eligibility for the complex care pathway; and
 - (c) is clinically assessed as requiring reparative care within 7 days.
 
-(3A)[^key-c5130b8bbfe7071c84ebc1c26ed709dc] Where a contractor provides a standalone fluoride varnish treatment to a patient during, or within three months of, another banded course of treatment, the standalone fluoride varnish treatment is to be regarded as part of that other banded course of treatment , unless that other banded course of treatment is urgent treatment[^key-193681ac00c670835917d6d60cfd8f9e].
+(3A)[^c-c5130b8bbfe7071c84ebc1c26ed709dc] Where a contractor provides a standalone fluoride varnish treatment to a patient during, or within three months of, another banded course of treatment, the standalone fluoride varnish treatment is to be regarded as part of that other banded course of treatment , unless that other banded course of treatment is urgent treatment[^c-193681ac00c670835917d6d60cfd8f9e].
 
 (4) If a course of treatment is—
 
@@ -165,8 +165,8 @@ any further services to be provided to that patient under the contract must be p
   - (i) when the circumstances referred to in paragraph 3(1) of this Schedule (violent patients) occur and notice that it will no longer provide services has been given to NHS England;
   - (ii) where the patient has refused to pay a charge in the circumstances referred to in paragraph 4 of this Schedule (refusal to pay NHS Charges during treatment); or
   - (iii) where, in the reasonable opinion of the contractor, there has been an irrevocable breakdown in the relationship between the patient and the contractor and notice of such a breakdown has been given to the patient and NHS England;
-- (b) the patient; [^key-8e972cea703fa063f7cecf6660e8c4de]...
-- (c) a person specified in paragraph 1(2) of this Schedule acting on the patient's behalf ; or[^key-9d2b9f9f69fd903826a7c81ad22cd3d2]
+- (b) the patient; [^c-8e972cea703fa063f7cecf6660e8c4de]...
+- (c) a person specified in paragraph 1(2) of this Schedule acting on the patient's behalf ; or[^c-9d2b9f9f69fd903826a7c81ad22cd3d2]
 - (d) NHS England, where declarations for complex care pathways have been suspended for three months or more.
 
 (6) If the contractor is unable to complete the course of the treatment which has been commenced for reasons beyond its control, it shall give notice to NHS England of the extent of the treatment so provided and the reason for its inability to complete the remainder.
@@ -198,7 +198,7 @@ any further services to be provided to that patient under the contract must be p
 
 (7) The summary referred to in sub-paragraph (6) shall be supplied to the patient on a form supplied for that purpose by NHS England within 28 days of that request.
 
-(8)[^key-33db8439331b3d0b4f758e72d8cb202c] Where, by virtue of this paragraph, a person is required to include anything in a treatment plan or a summary, or to ensure a patient signs a treatment plan, but as a consequence of a disease being, or in anticipation of a disease being imminently—
+(8)[^c-33db8439331b3d0b4f758e72d8cb202c] Where, by virtue of this paragraph, a person is required to include anything in a treatment plan or a summary, or to ensure a patient signs a treatment plan, but as a consequence of a disease being, or in anticipation of a disease being imminently—
 
 - (a) pandemic; and
 - (b) a serious risk or potentially a serious risk to human health,
@@ -211,9 +211,9 @@ the Secretary of State has made an announcement to the effect that, in order to 
 
 #### 8. Completion of courses of treatment
 
-(1) The contractor shall indicate on the form supplied by NHS England pursuant to paragraphs 38, 38B(4), 38C(6) or 38E(3)[^key-9df2bfb0328221fb0ced50226a1f31c1] whether the course of treatment was completed, and if the course of treatment was not completed, provide the reason for the failure to complete the course of treatment.
+(1) The contractor shall indicate on the form supplied by NHS England pursuant to paragraphs 38, 38B(4), 38C(6) or 38E(3)[^c-9df2bfb0328221fb0ced50226a1f31c1] whether the course of treatment was completed, and if the course of treatment was not completed, provide the reason for the failure to complete the course of treatment.
 
-(2) If NHS England having considered the form mentioned in sub-paragraph (1) or the relevant declaration in the case of a complex care pathway[^key-2d1bb0a4031bf714690f8eea8d38efee]—
+(2) If NHS England having considered the form mentioned in sub-paragraph (1) or the relevant declaration in the case of a complex care pathway[^c-2d1bb0a4031bf714690f8eea8d38efee]—
 
 - (a) determines that the number of courses of treatment provided by the contractor which have not being completed is excessive; and
 - (b) does not consider that the reasons given by the contractor for the failure to complete the courses of treatment are satisfactory,
@@ -236,7 +236,7 @@ it shall be entitled to exercise its powers under paragraph 59(2) on the grounds
 
 #### 10. Mixing of services provided under the contract with private services
 
-(1) Subject to sub-paragraphs (2) and (2A)[^key-b6000adb8d02d0b53875ac2d15546829] and the requirements in paragraphs 2 (referral services) and 6 (orthodontic treatment plans) of Schedule 1 and paragraph 7(1)(g) of this Schedule, a contractor may, with the consent of the patient, provide privately any part of a course of treatment or orthodontic course of treatment for that patient, including in circumstances where that patient has been referred to the contractor for a referral service.
+(1) Subject to sub-paragraphs (2) and (2A)[^c-b6000adb8d02d0b53875ac2d15546829] and the requirements in paragraphs 2 (referral services) and 6 (orthodontic treatment plans) of Schedule 1 and paragraph 7(1)(g) of this Schedule, a contractor may, with the consent of the patient, provide privately any part of a course of treatment or orthodontic course of treatment for that patient, including in circumstances where that patient has been referred to the contractor for a referral service.
 
 (2) A contractor may—
 
@@ -245,7 +245,7 @@ it shall be entitled to exercise its powers under paragraph 59(2) on the grounds
   - (i) the case assessment wholly privately or wholly under the contract; and
   - (ii) the orthodontic treatment wholly privately or wholly under the contract.
 
-(2A)[^key-8d838a8835f915c199bae7f02c1091d9] A contractor who is providing to a patient a complex care pathway—
+(2A)[^c-8d838a8835f915c199bae7f02c1091d9] A contractor who is providing to a patient a complex care pathway—
 
 - (a) may not provide privately any periodontal treatment; and
 - (b) may provide privately any other part of the course of treatment, provided that the contractor provides treatment under the contract to at least five carious teeth.
@@ -265,7 +265,7 @@ it shall be entitled to exercise its powers under paragraph 59(2) on the grounds
 
 (3) The repair or replacement of a restoration specified in sub-paragraph (2) is a banded course of treatment for the purposes of calculating the number of units of dental activity and paragraph 1 of Schedule 2 shall apply notwithstanding that no charge is made or recovered in accordance with the NHS Charges Regulations.
 
-(4) The band in which a restoration specified in sub-paragraph (2) falls shall be determined in accordance with the NHS Charges Regulations and, if such restoration falls within a Band 2 course of treatment, the applicable sub-band for the purpose of calculating the appropriate number of units of dental activity shall be determined in accordance with Parts 1 and 1A of Schedule 2[^key-a6a582a9c717df9f4e7e7c607983b9af].
+(4) The band in which a restoration specified in sub-paragraph (2) falls shall be determined in accordance with the NHS Charges Regulations and, if such restoration falls within a Band 2 course of treatment, the applicable sub-band for the purpose of calculating the appropriate number of units of dental activity shall be determined in accordance with Parts 1 and 1A of Schedule 2[^c-a6a582a9c717df9f4e7e7c607983b9af].
 
 (5) Sub-paragraph (1) shall not apply where—
 
@@ -278,7 +278,7 @@ it shall be entitled to exercise its powers under paragraph 59(2) on the grounds
 
 (6) In this paragraph, “**the relevant period**” means the 12 month period beginning on the date on which the restoration was provided, and ceasing twelve months after that date.
 
-#### 12. Premises, facilities and equipment[^key-cf3403ed9c983226a48324c17de55511]
+#### 12. Premises, facilities and equipment[^c-cf3403ed9c983226a48324c17de55511]
 
 (1) The contractor shall ensure that the practice premises used for the provision of services under the contract are—
 
@@ -326,7 +326,7 @@ The contractor shall ensure that any prescription form for listed drugs, medicin
 
 (2) A prescriber may personally administer to a patient any drug or medicine required for the treatment of that patient.
 
-#### 19. Issue of prescription forms[^key-92ada1739b31bd594c26d508fd85454d]
+#### 19. Issue of prescription forms[^c-92ada1739b31bd594c26d508fd85454d]
 
 (1) A prescriber shall order listed drugs, medicines or appliances (other than those supplied under paragraph 18) as are required for the treatment of any patient to whom it is providing services under the contract by issuing to the patient a prescription form.
 
@@ -370,7 +370,7 @@ A prescriber shall not prescribe drugs, medicines or appliances whose cost or qu
 
 ### PART 4 — PERSONS WHO PERFORM SERVICES
 
-#### 21. Dental practitioners[^key-3b2e8e0e41f7e702ebf7b80df3c34a6c]
+#### 21. Dental practitioners[^c-3b2e8e0e41f7e702ebf7b80df3c34a6c]
 
 A dental practitioner may perform dental services under the contract provided—
 
@@ -404,7 +404,7 @@ may perform dental services under the contract provided—
 (2) Where—
 
 - (a) the registration of a dental practitioner, dental care professional or other health care professional; or
-- (b) a dental practitioner's inclusion in the dental performers list held by[^key-4e5eaca8223a20109e1518eab587224d] NHS England,
+- (b) a dental practitioner's inclusion in the dental performers list held by[^c-4e5eaca8223a20109e1518eab587224d] NHS England,
 
 is subject to conditions, the contractor shall ensure compliance with those conditions in so far as they are relevant to the contract.
 
@@ -412,7 +412,7 @@ is subject to conditions, the contractor shall ensure compliance with those cond
 
 #### 24. Conditions for employment and engagement: dental practitioners performing dental services
 
-(1)[^key-e5cbae7d1857ed4a62f60500c01447ed] A contractor must not employ or engage a dental practitioner to perform dental services under the contract unless the contractor has checked that the practitioner meets the requirements in paragraph 21.
+(1)[^c-e5cbae7d1857ed4a62f60500c01447ed] A contractor must not employ or engage a dental practitioner to perform dental services under the contract unless the contractor has checked that the practitioner meets the requirements in paragraph 21.
 
 (2) Where the employment or engagement of a dental practitioner is urgently needed and it is not possible to check the matters referred to in paragraph 21 in accordance with sub-paragraph (1)(b) before employing or engaging him he may be employed or engaged on a temporary basis for a single period of up to 7 days whilst such checks are undertaken.
 
@@ -470,7 +470,7 @@ arrangements are in place for the purpose of maintaining and updating his skills
 
 The contractor shall carry out its obligations under the contract with reasonable care and skill.
 
-#### 30. Appraisal and assessment[^key-b6b8bfe9d2fe2adf4282f3935e87a942]
+#### 30. Appraisal and assessment[^c-b6b8bfe9d2fe2adf4282f3935e87a942]
 
 The contractor shall ensure that any dental practitioner performing services under the agreement—
 
@@ -509,9 +509,9 @@ The contractor shall ensure that any dental practitioner performing services und
 - (b) all radiographs, photographs and study casts taken or obtained by it as part of the services provided to that patient;
 - (c) where an orthodontic course of treatment has been provided to a patient, a copy of the orthodontic treatment plan;
 - (d) where information is to be submitted to NHS England in accordance with paragraph 38 and that information is submitted electronically—
-  - (i) the written declaration form in respect of exemption under paragraph 1(1) of Schedule 12ZA to the Act duly made and completed in accordance with[^key-8c0e75e202b03fea525749a6cf7ea586] regulations made under section 79 of, and paragraph 7(a) to, Schedule 12ZA to that Act; and
-  - (ii) a note of the evidence in support of that declaration; [^key-aefb36ee4078274211f7ef1710e119ff]...
-- (da)[^key-9af9190ba1f398d54bfa8bffae0790d4] where a declaration is to be submitted to NHS England in accordance with paragraphs 38A to 38E, a copy of the declaration; and
+  - (i) the written declaration form in respect of exemption under paragraph 1(1) of Schedule 12ZA to the Act duly made and completed in accordance with[^c-8c0e75e202b03fea525749a6cf7ea586] regulations made under section 79 of, and paragraph 7(a) to, Schedule 12ZA to that Act; and
+  - (ii) a note of the evidence in support of that declaration; [^c-aefb36ee4078274211f7ef1710e119ff]...
+- (da)[^c-9af9190ba1f398d54bfa8bffae0790d4] where a declaration is to be submitted to NHS England in accordance with paragraphs 38A to 38E, a copy of the declaration; and
 - (e) the statement concerning any custom-made devices provided by any person as a consequence of regulation 15 of the Medical Devices Regulations 2002 [^c12418211] (procedures for custom-made devices) in respect of services being provided to that patient.
 
 (4) The patient record and the items referred to in sub-paragraph (3) shall be retained for a period of 2 years beginning with—
@@ -541,9 +541,9 @@ The contractor shall nominate a person with responsibility for practices and pro
 - (b) review its patient information leaflet at least once in every period of 12 months and make any amendments necessary to maintain its accuracy; and
 - (c) make available a copy of the leaflet, and any subsequent updates, to its patients and prospective patients.
 
-(3) The requirements in sub-paragraph (2) do not apply to any contractor to the extent that it provides services to persons detained in a secure and detained estate[^key-d5a3fa92b48b98d09ae45892f7d68dc7].
+(3) The requirements in sub-paragraph (2) do not apply to any contractor to the extent that it provides services to persons detained in a secure and detained estate[^c-d5a3fa92b48b98d09ae45892f7d68dc7].
 
-#### 34A. Information about the contractor’s practice[^key-6355c9220ec045fb7d2288e4e941a84f]
+#### 34A. Information about the contractor’s practice[^c-6355c9220ec045fb7d2288e4e941a84f]
 
 (1) The contractor must ensure that a comprehensive and accurate profile in respect of its practice is provided to NHS England for the purpose of display on the NHS.uk website.
 
@@ -567,7 +567,7 @@ the information specified in paragraph (2).
 
 and includes the contractor's patient records.
 
-#### 36. Requests for information from Patients' Forums[^key-8ccd584944bde299b4b3e8d464736875]
+#### 36. Requests for information from Patients' Forums[^c-8ccd584944bde299b4b3e8d464736875]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -600,27 +600,27 @@ appointed in either case by NHS England to assist it in the exercise of its func
 - (e) a course of treatment in respect of mandatory services or additional services or orthodontic course of treatment is terminated; or
 - (f) in respect of courses not falling within sub-paragraph (d) or (e), no more services can be provided by virtue of paragraph 5(4)(b) of Schedule 1 (orthodontic course of treatment) or paragraph 6(4)(b) of this Schedule,
 
-subject to sub-paragraph (4), send to[^key-2a49ea0022c501011493aa39335d976f] NHS England by means of electronic submission, the information specified in sub-paragraph (2).
+subject to sub-paragraph (4), send to[^c-2a49ea0022c501011493aa39335d976f] NHS England by means of electronic submission, the information specified in sub-paragraph (2).
 
 (2) The information referred to in sub-paragraph (1) comprise of—
 
 - (a) details of the patient to whom it provides services;
 - (b) details of the services provided (including any appliances provided) to that patient;
 - (c) details of any NHS Charge payable (and paid) by that patient; and
-- (d)[^key-74c1dad8337b41e01a9f868cb74bb9f3] in the case of a patient who is exempt from NHS Charges, the information required under sub-paragraph (3).
+- (d)[^c-74c1dad8337b41e01a9f868cb74bb9f3] in the case of a patient who is exempt from NHS Charges, the information required under sub-paragraph (3).
 
-(3)[^key-8f8c9d74ebc66b5054229ef7480dad69] In the case of a patient who is exempt from NHS Charges, the contractor must provide NHS England (or a person authorised on NHS England's behalf) with—
+(3)[^c-8f8c9d74ebc66b5054229ef7480dad69] In the case of a patient who is exempt from NHS Charges, the contractor must provide NHS England (or a person authorised on NHS England's behalf) with—
 
 - (a) such details of that exemption as NHS England may reasonably request; and
 - (b) the written declaration.
 
 (4) NHS England may accept submission of the information mentioned in sub-paragraph (2) in paper form in such exceptional circumstances as NHS England may reasonably determine.
 
-(4A)[^key-b9235e91b1d7d16139283e7b3d620817] This paragraph does not apply to a course of treatment that is a complex care pathway.
+(4A)[^c-b9235e91b1d7d16139283e7b3d620817] This paragraph does not apply to a course of treatment that is a complex care pathway.
 
-(5)[^key-824be6d894ffee2127686e8719f31dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-824be6d894ffee2127686e8719f31dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 38A. Complex care pathway initial declaration[^key-a43ab6c770ff11fea8dd002e431027d0]
+#### 38A. Complex care pathway initial declaration[^c-a43ab6c770ff11fea8dd002e431027d0]
 
 (1) The contractor must, within two months of the date of commencement of a complex care pathway, as described in regulation 17B(9), submit an initial declaration to NHS England by means of electronic submission containing the information specified in sub-paragraph (2).
 
@@ -753,7 +753,7 @@ the complex care pathway will be declared incomplete and terminated.
 
 #### 39. Annual report and review
 
-(1) NHS England shall provide to the contractor an annual report relating to the contract which shall contain the same categories of information for all persons who hold contracts with[^key-bd6ee49cc3bcd3742a14a6b103e51dea] NHS England.
+(1) NHS England shall provide to the contractor an annual report relating to the contract which shall contain the same categories of information for all persons who hold contracts with[^c-bd6ee49cc3bcd3742a14a6b103e51dea] NHS England.
 
 (2) Once NHS England has provided the report referred to in sub-paragraph (1), NHS England shall arrange with the contractor an annual review of its performance in relation to the contract.
 
@@ -800,7 +800,7 @@ A contractor which is a dental corporation shall give notice in writing to NHS E
 - (c) confirm that the new partner meets the conditions imposed by regulation 4 (general conditions relating to all contracts); and
 - (d) state whether the new partner is a general or a limited partner.
 
-#### 42B. Notice provisions specific to a contract with a limited liability partnership[^key-8dce37712fb186845b935bf519bc8365]
+#### 42B. Notice provisions specific to a contract with a limited liability partnership[^c-8dce37712fb186845b935bf519bc8365]
 
 (1) Where a limited liability partnership is a party to a contract it shall give notice to NHS England forthwith when—
 
@@ -819,9 +819,9 @@ A contractor which is a dental corporation shall give notice in writing to NHS E
 
 Where the contract is varied in accordance with Part 9 of this Schedule and, as a result of that variation there is to be a change in the range of services provided by the contractor, the contractor shall ensure that there is displayed in a prominent position in its practice premises, in a part to which patients have access, written details of that change.
 
-#### 43A. Notification provisions specific to prototype agreements[^key-f9225aff344567335f371bc93a559e1b]
+#### 43A. Notification provisions specific to prototype agreements[^c-f9225aff344567335f371bc93a559e1b]
 
-Where the contractor has elected to enter into a prototype agreement, apart from CDS prototype contractors, the contractor shall[^key-a19c43ace27d07392a878cc384127aba]—
+Where the contractor has elected to enter into a prototype agreement, apart from CDS prototype contractors, the contractor shall[^c-a19c43ace27d07392a878cc384127aba]—
 
 - (a) send to NHS England details of any private treatment provided to a capitated patient attending the practice, in electronic form, whether or not this treatment is associated with services that are provided under the prototype agreement; and
 - (b) provide all patients attending for treatment at its practice with a privacy notice in a form approved by NHS England notifying them of the obligation referred to in sub-paragraph (a).
@@ -841,44 +841,44 @@ the contractor shall allow persons authorised in writing by NHS England to enter
 - (b) written evidence of the authority of the person seeking entry is produced to the contractor on request; and
 - (c) entry is not made to any premises or part of the premises used as residential accommodation without the consent of the resident.
 
-(3) Where the contractor is providing services under the contract in a secure and detained estate[^key-4f3f4feff777f7221dd9c9336b6f20dc], the contractor shall not be obliged to comply with sub-paragraph (1), or paragraph[^key-c92104834a24b7b9abb1dbc60d2cc896]... 46, if—
+(3) Where the contractor is providing services under the contract in a secure and detained estate[^c-4f3f4feff777f7221dd9c9336b6f20dc], the contractor shall not be obliged to comply with sub-paragraph (1), or paragraph[^c-c92104834a24b7b9abb1dbc60d2cc896]... 46, if—
 
-- (a) the contractor has used its best endeavours to allow NHS England [^key-195c1102e3eed7e5a1ec0c3e9ca562f7]...or the Care Quality Commission[^key-18319c0898d1ad7b5139ba0acdc44060] (as the case may be) to enter and inspect the practice premises; but
-- (b) entry and inspection has been prevented by the [^key-54800a707d0e6a72b9f06325ad5938f9]... authorities for the secure and detained estate[^key-0f14b3fdeaace1a36d117598f191b2f6] despite the contractor's best endeavours.
+- (a) the contractor has used its best endeavours to allow NHS England [^c-195c1102e3eed7e5a1ec0c3e9ca562f7]...or the Care Quality Commission[^c-18319c0898d1ad7b5139ba0acdc44060] (as the case may be) to enter and inspect the practice premises; but
+- (b) entry and inspection has been prevented by the [^c-54800a707d0e6a72b9f06325ad5938f9]... authorities for the secure and detained estate[^c-0f14b3fdeaace1a36d117598f191b2f6] despite the contractor's best endeavours.
 
 (4) In this paragraph “**practice premises**” includes a mobile surgery.
 
-#### 45. Entry and inspection by members of Patients' Forums[^key-821211ace9cad954ca100b30abb6d106]
+#### 45. Entry and inspection by members of Patients' Forums[^c-821211ace9cad954ca100b30abb6d106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46. Entry and inspection by the Care Quality Commission[^key-599ea60500eb48b1ebe35b31537c8110]
+#### 46. Entry and inspection by the Care Quality Commission[^c-599ea60500eb48b1ebe35b31537c8110]
 
-Subject to paragraph 44(3), the contractor shall allow persons authorised by the Care Quality Commission to enter and inspect the premises in accordance with section 62 of the Health and Social Care Act 2008 (entry and inspection).[^key-b4d9bbbefd3d64cdf0c71f97b5ef6909]
+Subject to paragraph 44(3), the contractor shall allow persons authorised by the Care Quality Commission to enter and inspect the premises in accordance with section 62 of the Health and Social Care Act 2008 (entry and inspection).[^c-b4d9bbbefd3d64cdf0c71f97b5ef6909]
 
-#### 46A. Entry and viewing by Local Healthwatch organisations[^key-a0268fb2ed0772d07b4a3e5ecd055ce3]
+#### 46A. Entry and viewing by Local Healthwatch organisations[^c-a0268fb2ed0772d07b4a3e5ecd055ce3]
 
 The contractor must comply with the requirement to allow an authorised representative to enter and view premises and observe the carrying-on of activities on those premises in accordance with regulations made under section 225 (duties of services- providers to allow entry by Local Healthwatch organisations or contractors) of the Local Government and Public Involvement Health Act 2007.
 
-### PART 5A — Complaints received on or after 1st April 2009[^key-bd14a0a9d771ea9e9762430f00fd405c]
+### PART 5A — Complaints received on or after 1st April 2009[^c-bd14a0a9d771ea9e9762430f00fd405c]
 
 **46B.** As regards complaints relating to any matter reasonably connected with the provision of services under the contract which are received on or after 1st April 2009, the contractor must have in place a complaints procedure which meets the requirements of the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009.
 
 ### PART 6 — COMPLAINTS
 
-#### 47. Complaints procedure[^key-a852e49ae52900b86dd34b221dcf4e38]
+#### 47. Complaints procedure[^c-a852e49ae52900b86dd34b221dcf4e38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 48. Making of complaints[^key-a852e49ae52900b86dd34b221dcf4e38]
+#### 48. Making of complaints[^c-a852e49ae52900b86dd34b221dcf4e38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 49. Period for making complaints[^key-2715c416d17e2765dcf1c3ddea291cee]
+#### 49. Period for making complaints[^c-2715c416d17e2765dcf1c3ddea291cee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 50. Further requirements for complaints procedures[^key-2715c416d17e2765dcf1c3ddea291cee]
+#### 50. Further requirements for complaints procedures[^c-2715c416d17e2765dcf1c3ddea291cee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -893,12 +893,12 @@ The contractor must comply with the requirement to allow an authorised represent
 
 (2) In sub-paragraph (1)—
 
-- “**NHS body**” means NHS England, an NHS trust, an NHS foundation trust, [^key-a2270539af7864b56d6c72afc6ee3a30]... a Local Health Board, a Health Board, a Health and Social Services Board, a Health and Social Services Trust or, a Health Board or Special Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978 [^c12418281];
+- “**NHS body**” means NHS England, an NHS trust, an NHS foundation trust, [^c-a2270539af7864b56d6c72afc6ee3a30]... a Local Health Board, a Health Board, a Health and Social Services Board, a Health and Social Services Trust or, a Health Board or Special Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978 [^c12418281];
 - “**local authority**” means—
   - (a) any of the bodies listed in section 1 of the Local Authority Social Services Act 1970 [^c12418291] (local authorities);
-  - (b) the Council of the Isles of Scilly; [^key-9440de8e4efd00208e09a165c3b68c9e]...
-  - (c) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c12418301] (constitution of councils); or[^key-5d61b697a570ea27d67058af51d07fac]
-  - (d) a council of a county or county borough in Wales;[^key-fbb34c891153f2ad2e9eb37375841e38]
+  - (b) the Council of the Isles of Scilly; [^c-9440de8e4efd00208e09a165c3b68c9e]...
+  - (c) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c12418301] (constitution of councils); or[^c-5d61b697a570ea27d67058af51d07fac]
+  - (d) a council of a county or county borough in Wales;[^c-fbb34c891153f2ad2e9eb37375841e38]
 - “Health Service Commissioner” means the person appointed Health Service Commissioner for England in accordance with section 1 of, and Schedule 1 to, the Health Service Commissioners Act 1993[^M_F_7a91d998-2f4b-4b34-883e-936eed79de58].
 
 (3) The co-operation required by sub-paragraph (1) includes—
@@ -909,7 +909,7 @@ The contractor must comply with the requirement to allow an authorised represent
 
 #### 52. Provision of information
 
-The contractor shall inform NHS England, at such intervals as NHS England requires, of the number of complaints it has received under the procedure established in accordance with the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009[^key-0b43ccd6748fc18409a2a6867527026f].
+The contractor shall inform NHS England, at such intervals as NHS England requires, of the number of complaints it has received under the procedure established in accordance with the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009[^c-0b43ccd6748fc18409a2a6867527026f].
 
 ### PART 7 — DISPUTE RESOLUTION
 
@@ -919,7 +919,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 #### 54. Dispute resolution: non-NHS contracts
 
-(1)[^key-0f8ee9184669bee7bfe10462924e9f29] In the case of a contract that is not an NHS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the complaints procedure pursuant to Part 6, may be referred for consideration and determination to the Secretary of State—
+(1)[^c-0f8ee9184669bee7bfe10462924e9f29] In the case of a contract that is not an NHS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the complaints procedure pursuant to Part 6, may be referred for consideration and determination to the Secretary of State—
 
 - (a) if it relates to a period when the contractor was a health service body, by the contractor or by NHS England; or
 - (b) in any other case, by the contractor or, if the contractor agrees in writing, by NHS England.
@@ -996,34 +996,34 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 (1) This paragraph and paragraph 59 apply where services are to be provided under the contract from 1st April in any financial year.
 
-(2) In this paragraph and paragraph 59, references to requirements to provide units of dental activity , urgent treatments[^key-c6b01902f601d002f32b01375cdb8dcd] or orthodontic activity are to such requirements under the terms of the contract giving effect to regulation 17 (units of dental activity) , 17A (required number of urgent treatments) or 18 (units of orthodontic activity).
+(2) In this paragraph and paragraph 59, references to requirements to provide units of dental activity , urgent treatments[^c-c6b01902f601d002f32b01375cdb8dcd] or orthodontic activity are to such requirements under the terms of the contract giving effect to regulation 17 (units of dental activity) , 17A (required number of urgent treatments) or 18 (units of orthodontic activity).
 
 (3) NHS England shall, by 31st October in each financial year, determine the number of—
 
-- (a) units of dental activity; [^key-cc150895f3dd5dd69bc4b35a2a883a82]...
-- (b) units of orthodontic activity; or[^key-a1739ca46831fbb387d0b986cea94445]
-- (c)[^key-615f1386f04858fa193aae34b3eb4fde] the required number of urgent treatments,
+- (a) units of dental activity; [^c-cc150895f3dd5dd69bc4b35a2a883a82]...
+- (b) units of orthodontic activity; or[^c-a1739ca46831fbb387d0b986cea94445]
+- (c)[^c-615f1386f04858fa193aae34b3eb4fde] the required number of urgent treatments,
 
 that the contractor has provided between 1st April and 30th September of that financial year based on the data provided to it by virtue of paragraph 38.
 
 (4) Where NHS England determines under sub-paragraph (3) that the contractor has, between 1st April and 30th September, provided less than 30 per cent of the total number of—
 
-- (a) units of dental activity; [^key-b6acaaf82563ff86f5526b08eed0ec1c]...
-- (b) units of orthodontic activity; or[^key-6b1ce356a7cc40c60e4ce6fb8f6020a9]
-- (c)[^key-eed3d2ebde44ee5441caba61ed2f71de] urgent treatments,
+- (a) units of dental activity; [^c-b6acaaf82563ff86f5526b08eed0ec1c]...
+- (b) units of orthodontic activity; or[^c-6b1ce356a7cc40c60e4ce6fb8f6020a9]
+- (c)[^c-eed3d2ebde44ee5441caba61ed2f71de] urgent treatments,
 
 that it is required to provide in that financial year, sub**-**paragraph (5) shall apply.
 
 (5) Where this sub-paragraph applies, NHS England may—
 
 - (a) notify the contractor that it is concerned about the level of activity provided under the contract in the first half of the financial year, setting out—
-  - (i) the number of units of dental activity , units of orthodontic activity or urgent treatments[^key-860829a2c1ec88b6a627f23cc1764699] (as the case may be) that it has determined that the contractor has provided; and
+  - (i) the number of units of dental activity , units of orthodontic activity or urgent treatments[^c-860829a2c1ec88b6a627f23cc1764699] (as the case may be) that it has determined that the contractor has provided; and
   - (ii) the percentage of the total number of units of dental activity , units of orthodontic activity or urgent treatments (as the case may be) required to be provided during the financial year that the number in sub-paragraph (i) represents; and
 - (b) require in that notification that the contractor participate in a mid-year review of its performance in relation to the contract with NHS England.
 
 (6) Where a mid-year review is required by NHS England pursuant to sub-paragraph (5), NHS England and the contractor shall discuss at that review—
 
-- (a) any written evidence the contractor puts forward to demonstrate that it has performed a greater number of units of dental activity , units of orthodontic activity or urgent treatments[^key-5df9be78ebc893cef9ef44834723572e] during the first half of the financial year than those notified to it under sub-paragraph (5)(a)(i); and
+- (a) any written evidence the contractor puts forward to demonstrate that it has performed a greater number of units of dental activity , units of orthodontic activity or urgent treatments[^c-5df9be78ebc893cef9ef44834723572e] during the first half of the financial year than those notified to it under sub-paragraph (5)(a)(i); and
 - (b) any reasons that the contractor puts forward for the level of activity in the first half of the financial year.
 
 (7) NHS England shall prepare a draft record of the mid-year review for comment by the contractor and, having regard to such comments, shall produce a final written record of the review.
@@ -1034,21 +1034,21 @@ that it is required to provide in that financial year, sub**-**paragraph (5) sha
 
 (1) Where, following the mid-year review and the sending of the final record of that review to the contractor, NHS England, having taken account of any evidence or reasons put forward by the contractor at that review, nevertheless has serious concerns that the contractor is unlikely to provide the number of—
 
-- (a) units of dental activity; [^key-e9125c1e008916b05b61fc402988b055]...
-- (b) units of orthodontic activity; or[^key-80030ea8ba6f7275821c486ab541f638]
-- (c)[^key-98d912785396d4bb651d3e0e2ae1f1f3] urgent treatments,
+- (a) units of dental activity; [^c-e9125c1e008916b05b61fc402988b055]...
+- (b) units of orthodontic activity; or[^c-80030ea8ba6f7275821c486ab541f638]
+- (c)[^c-98d912785396d4bb651d3e0e2ae1f1f3] urgent treatments,
 
 that it is required to provide by the end of the financial year, NHS England shall be entitled to take either or both of the steps specified in sub-paragraph (2).
 
 (2) NHS England may—
 
-- (a) require the contractor to comply with a written plan drawn up by NHS England to ensure that the level of activity during the remainder of the financial year is such that the contractor will provide the number of units of dental activity , units of orthodontic activity or urgent treatments[^key-cb90a6e7bc51293b2cdb6956d8bb90ee] it is required to provide; or
+- (a) require the contractor to comply with a written plan drawn up by NHS England to ensure that the level of activity during the remainder of the financial year is such that the contractor will provide the number of units of dental activity , units of orthodontic activity or urgent treatments[^c-cb90a6e7bc51293b2cdb6956d8bb90ee] it is required to provide; or
 - (b) withhold monies payable under the contract.
 
 (3) The maximum amount that may be withheld pursuant to sub-paragraph (2)(b) is—
 
-- (a) the amount that is payable under the contract in respect of the number of units of dental activity , units of orthodontic activity or urgent treatments[^key-f8f269358a047c70e41aaaccfd538ea8] required to be provided in a financial year, less
-- (b) the amount that would be payable under the contract as a relevant proportion of that amount if the contractor provided in the whole of the financial year only twice the number of units of dental activity , units of orthodontic activity or urgent treatments[^key-4c4b4fe6141dd809b3c25646eebd0e30] that he provided between 1st April and 30th September.
+- (a) the amount that is payable under the contract in respect of the number of units of dental activity , units of orthodontic activity or urgent treatments[^c-f8f269358a047c70e41aaaccfd538ea8] required to be provided in a financial year, less
+- (b) the amount that would be payable under the contract as a relevant proportion of that amount if the contractor provided in the whole of the financial year only twice the number of units of dental activity , units of orthodontic activity or urgent treatments[^c-4c4b4fe6141dd809b3c25646eebd0e30] that he provided between 1st April and 30th September.
 
 (4) Nothing in this paragraph shall prevent NHS England and the contractor agreeing to vary the contract in accordance with paragraph 61 to adjust—
 
@@ -1057,7 +1057,7 @@ that it is required to provide by the end of the financial year, NHS England sha
 
 (5) Where NHS England withholds monies under to paragraph (2), it shall ensure that it pays the withheld monies to the contractor as soon as possible following the end of the financial year where the contractor has—
 
-- (a) provided the number of units of dental activity , units of orthodontic activity or urgent treatments[^key-52f2bc00cf4e6707e4be1f6788a03ab0] required to be provided; or
+- (a) provided the number of units of dental activity , units of orthodontic activity or urgent treatments[^c-52f2bc00cf4e6707e4be1f6788a03ab0] required to be provided; or
 - (b) failed to provide that number of units of dental activity , units of orthodontic activity or urgent treatments, but that failure amounts to 4 per cent or less of the total number of units of dental activity or , units of orthodontic activity or urgent treatments that ought to have been provided during that financial year (and therefore regulation 19 applies).
 
 ### PART 9 — VARIATION AND TERMINATION OF CONTRACTS
@@ -1066,7 +1066,7 @@ that it is required to provide by the end of the financial year, NHS England sha
 
 (1) Subject to paragraph 31(3), no amendment or variation shall have effect unless it is in writing and signed by or on behalf of NHS England and the contractor.
 
-(2) In addition to the specific provision made in paragraphs 61A,[^key-06a3ea32d822a7b13e64ba1c0ed686be] 62(6), 63(6) and 75, NHS England may vary the contract without the contractor's consent where it—
+(2) In addition to the specific provision made in paragraphs 61A,[^c-06a3ea32d822a7b13e64ba1c0ed686be] 62(6), 63(6) and 75, NHS England may vary the contract without the contractor's consent where it—
 
 - (a) is reasonably satisfied that it is necessary to vary the contract so as to comply with the Act, any regulations made pursuant to the Act, or any direction given by the Secretary of State pursuant to the Act; and
 - (b) notifies the contractor in writing of the wording of the proposed variation and the date upon which that variation is to take effect,
@@ -1091,7 +1091,7 @@ to be provided under the contract, sub-paragraphs (2) and (3) shall apply.
 
 and any related variations to the contract, including to the monies to be paid to the contractor under the contract, and shall where appropriate effect the variation in accordance with paragraph 60.
 
-#### 61A. Variation of a contract: rebasing for persistent under performance[^key-31b8e9f0cf00533b20b3bc4834a112b2]
+#### 61A. Variation of a contract: rebasing for persistent under performance[^c-31b8e9f0cf00533b20b3bc4834a112b2]
 
 (1) In this paragraph—
 
@@ -1123,7 +1123,7 @@ but the rebasing must not result in the contracted activity being reduced to les
 (4) If NHS England decides to rebase a contract—
 
 - (a) it must serve a rebasing notice on the contractor and allow a minimum of 28 days, starting with the day the rebasing notice is served on the contractor, before taking any action pursuant to that notice, and
-- (b) it must specify in the rebasing notice a rebasing date it considers appropriate, which must be no earlier than 1st April in the financial year immediately following the financial year in which the rebasing notice is served on the contractor.[^key-710e7d581fafb4c0664d4fad17c8abc2]
+- (b) it must specify in the rebasing notice a rebasing date it considers appropriate, which must be no earlier than 1st April in the financial year immediately following the financial year in which the rebasing notice is served on the contractor.[^c-710e7d581fafb4c0664d4fad17c8abc2]
 
 #### 62. Variation provisions specific to a contract with an individual dental practitioner
 
@@ -1187,12 +1187,12 @@ NHS England and the contractor may agree in writing to terminate the contract, a
 
 #### 65. Termination on the death of an individual dental practitioner
 
-(1) Where the contract is with an individual dental practitioner and that practitioner dies, the contract shall terminate at the end of the period of 28 days[^key-d93ea8468598f10c0fef9fc4c5bfd2e8] after the date of his death unless, before the end of that period—
+(1) Where the contract is with an individual dental practitioner and that practitioner dies, the contract shall terminate at the end of the period of 28 days[^c-d93ea8468598f10c0fef9fc4c5bfd2e8] after the date of his death unless, before the end of that period—
 
-- (a) subject to sub-paragraph (2), NHS England has agreed in writing with the contractor's personal representatives that the contract should continue for a further period, not exceeding 6 months[^key-3ca29becdaec1a9d94e8c114c975ee83] after the end of the period of 28 days; and
+- (a) subject to sub-paragraph (2), NHS England has agreed in writing with the contractor's personal representatives that the contract should continue for a further period, not exceeding 6 months[^c-3ca29becdaec1a9d94e8c114c975ee83] after the end of the period of 28 days; and
 - (b) the contractor's personal representatives have confirmed in writing to NHS England that they are employing or engaging one or more dental practitioners to assist in the provision of dental services under the contract throughout the period for which it continues.
 
-(2) Where NHS England is of the opinion that another contractor may wish to enter into a contract in respect of the mandatory services which were provided by the deceased dental practitioner, the 6 month period[^key-f759321f64ceb3295deda61a7ed974b4] referred to in sub-paragraph (1)(a) may be extended by a period not exceeding six months as may be agreed.
+(2) Where NHS England is of the opinion that another contractor may wish to enter into a contract in respect of the mandatory services which were provided by the deceased dental practitioner, the 6 month period[^c-f759321f64ceb3295deda61a7ed974b4] referred to in sub-paragraph (1)(a) may be extended by a period not exceeding six months as may be agreed.
 
 (3) Sub-paragraph (1) does not affect any other rights to terminate the agreement which NHS England may have under paragraphs 69 to 74.
 
@@ -1247,7 +1247,7 @@ NHS England may only terminate the contract in accordance with the provisions in
 
 (5) Where the contract was entered into pursuant to section 28M(1)(b) of the Act, but the contractor ceases to be a dental corporation, NHS England shall serve notice in writing on the contractor terminating the contract forthwith.
 
-(5A)[^key-fd7403652be4905952a74bde625a7a92] Where the contract was entered into pursuant to section 102(1)(d) of the 2006 Act, and the contractor ceases to—
+(5A)[^c-fd7403652be4905952a74bde625a7a92] Where the contract was entered into pursuant to section 102(1)(d) of the 2006 Act, and the contractor ceases to—
 
 - (a) be a limited liability partnership; or
 - (b) satisfy the conditions in section 102(2A) of that Act;
@@ -1284,11 +1284,11 @@ in relation to the conditions set out in regulation 4 or 5 (and compliance with 
 (1) NHS England may serve notice in writing on the contractor terminating the contract forthwith, or from such date as may be specified in the notice if—
 
 - (a) in the case of a contract with a dental practitioner, that dental practitioner;
-- (b) in the case of a contract with two or more individuals practising in partnership, any individual or the partnership; [^key-57ae7f105c5f832b34b5cfefcc87ee6d]...
+- (b) in the case of a contract with two or more individuals practising in partnership, any individual or the partnership; [^c-57ae7f105c5f832b34b5cfefcc87ee6d]...
 - (c) in the case of a contract with a dental corporation—
   - (i) the corporation; or
-  - (ii) any director, chief executive or the secretary of the corporation; and[^key-6ff0aed918c3cd8a9004f74f829565d2]
-- (d)[^key-6cff401fd4eff37865a427182d546e49] in the case of a contract with a limited liability partnership—
+  - (ii) any director, chief executive or the secretary of the corporation; and[^c-6ff0aed918c3cd8a9004f74f829565d2]
+- (d)[^c-6cff401fd4eff37865a427182d546e49] in the case of a contract with a limited liability partnership—
   - (i) the limited liability partnership; or
   - (ii) any member of the limited liability partnership,
 
@@ -1308,8 +1308,8 @@ falls within sub-paragraph (2) during the existence of the contract or, if later
   - (ii) committed on or after 14th December 2001, which would if committed in England and Wales, constitute a criminal offence other than murder, and been sentenced to a term of imprisonment of over six months;
 - (g) he has been convicted of an offence referred to in Schedule 1 to the Children and Young Persons Act 1933 [^c12418351] (offences against children and young persons with respect to which special provisions apply) or Schedule 1 to the Criminal Procedure (Scotland) Act 1995 [^c12418361] (offences against children under the age of 17 years to which special provisions apply);
 - (h) he or it has—
-  - (i) been made[^key-b952b31f86f90086f1caac6b640cd5f4] bankrupt or had sequestration of his estate awarded or is a person in relation to whom a moratorium period under a debt relief order (under Part 7A of the Insolvency Act 1986) applies[^key-9c6135b58f74e4d1e91e627200d197da] unless [^key-c3aae192b4fe22f953f4fa16377304b0]... he has been discharged from the bankruptcy or the sequestration[^key-b2e3023be75278646964f88eb7952f83] or the bankruptcy order has been annulled;
-  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB,[^key-9b94c62074d24c7113fc443837254b67] to the Insolvency Act 1986 [^c12418371], unless that order has ceased to have effect or has been annulled;
+  - (i) been made[^c-b952b31f86f90086f1caac6b640cd5f4] bankrupt or had sequestration of his estate awarded or is a person in relation to whom a moratorium period under a debt relief order (under Part 7A of the Insolvency Act 1986) applies[^c-9c6135b58f74e4d1e91e627200d197da] unless [^c-c3aae192b4fe22f953f4fa16377304b0]... he has been discharged from the bankruptcy or the sequestration[^c-b2e3023be75278646964f88eb7952f83] or the bankruptcy order has been annulled;
+  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB,[^c-9b94c62074d24c7113fc443837254b67] to the Insolvency Act 1986 [^c12418371], unless that order has ceased to have effect or has been annulled;
   - (iii) made a composition or arrangement with, or granted a trust deed for, his or its creditors unless he or it has been discharged in respect of it; or
   - (iv) been wound up under Part IV of the Insolvency Act 1986;
 - (i) there is—
@@ -1320,16 +1320,16 @@ falls within sub-paragraph (2) during the existence of the contract or, if later
   - (ii) an event happens that makes it unlawful for the business of the partnership to continue, or for members of the partnership to carry on in partnership;
 - (k) he has been—
   - (i) removed from the office of charity trustee or trustee for a charity by an order made by the Charity Commissioners or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated; or
-  - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 [^c12418391] (powers of the Court of Session to deal with management of charities) or under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 (powers of Court of Session)[^key-5d8b3c56dd8c246e3a8cd388e3db3caa], from being concerned in the management or control of any body;
+  - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 [^c12418391] (powers of the Court of Session to deal with management of charities) or under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 (powers of Court of Session)[^c-5d8b3c56dd8c246e3a8cd388e3db3caa], from being concerned in the management or control of any body;
 - (l) he is subject to a disqualification order under the Company Directors Disqualification Act 1986 [^c12418401], the Companies (Northern Ireland) Order 1986 [^c12418411] or to an order made under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order); or
-- (m) he has refused to comply with a request by NHS England for him to be medically examined on the grounds that it is concerned that he is incapable of adequately providing services under the contract and, in a case where the contract is with two or more individuals practising in partnership, with a dental corporation or a limited liability partnership[^key-381017bb68d3ae31d0d46e7effa7f308] NHS England is not satisfied that the contractor is taking adequate steps to deal with the matter.
+- (m) he has refused to comply with a request by NHS England for him to be medically examined on the grounds that it is concerned that he is incapable of adequately providing services under the contract and, in a case where the contract is with two or more individuals practising in partnership, with a dental corporation or a limited liability partnership[^c-381017bb68d3ae31d0d46e7effa7f308] NHS England is not satisfied that the contractor is taking adequate steps to deal with the matter.
 
 (3) NHS England shall not terminate the contract pursuant to sub-paragraph (2)(b) where NHS England is satisfied that the disqualification or suspension imposed by a licensing body outside the United Kingdom does not make the person unsuitable to be—
 
 - (a) a contractor;
-- (b) a partner, in the case of a contract with two or more individuals practising in partnership; [^key-8af357ea9622e66b5eecc90560388938]...
-- (c) in the case of a contract with a dental corporation, a director, chief executive or secretary of the corporation ; or[^key-460c4a37ffc5540ff0cc8f662d8d7e2e]
-- (d)[^key-7bfe7abb1094c5ec8914799f65e82058] in the case of a contract with a limited liability partnership, a member of that limited liability partnership.
+- (b) a partner, in the case of a contract with two or more individuals practising in partnership; [^c-8af357ea9622e66b5eecc90560388938]...
+- (c) in the case of a contract with a dental corporation, a director, chief executive or secretary of the corporation ; or[^c-460c4a37ffc5540ff0cc8f662d8d7e2e]
+- (d)[^c-7bfe7abb1094c5ec8914799f65e82058] in the case of a contract with a limited liability partnership, a member of that limited liability partnership.
 
 (4) NHS England shall not terminate the contract pursuant to sub-paragraph (2)—
 
@@ -1341,9 +1341,9 @@ and NHS England may only terminate the contract at the end of the period specifi
 (5) NHS England shall not terminate the contract pursuant to sub-paragraph (2)(f) where NHS England is satisfied that the conviction does not make the person unsuitable to be—
 
 - (a) a contractor;
-- (b) a partner, in the case of a contract with two or more individuals practising in partnership; [^key-46adb5b889da1d56c11382286af201aa]...
-- (c) in the case of a contract with a dental corporation, a director, chief executive or secretary of the corporation ; or[^key-33a347fc6a5beaa835fb94adbe253ed7]
-- (d)[^key-63887d69960d8b73a633fc9b6534b543] in the case of a contract with a limited liability partnership, a member of that limited liability partnership.
+- (b) a partner, in the case of a contract with two or more individuals practising in partnership; [^c-46adb5b889da1d56c11382286af201aa]...
+- (c) in the case of a contract with a dental corporation, a director, chief executive or secretary of the corporation ; or[^c-33a347fc6a5beaa835fb94adbe253ed7]
+- (d)[^c-63887d69960d8b73a633fc9b6534b543] in the case of a contract with a limited liability partnership, a member of that limited liability partnership.
 
 #### 72. Termination by NHS England: patient safety and material financial loss
 
@@ -1406,7 +1406,7 @@ NHS England may, by written notice, terminate the contract if it considers that 
 - (a) the date upon which the contract is to be terminated; and
 - (b) NHS England’s reasons for considering that the change in the membership of the partnership is likely to have a serious adverse impact on the ability of the contractor or the Primary Care Trust to perform its obligations under the contract.
 
-(5)[^key-98946142c2a42ef32c30d22853c81c65] Where the contractor is a limited liability partnership, NHS England shall be entitled to terminate the contract by notice in writing on such date as may be specified in that notice where one or more members have left the practice during the existence of the contract if, in its reasonable opinion, NHS England considers that the change in membership of the limited liability partnership is likely to have a serious adverse impact on the ability of the contractor or NHS England to perform its obligations under the contract.
+(5)[^c-98946142c2a42ef32c30d22853c81c65] Where the contractor is a limited liability partnership, NHS England shall be entitled to terminate the contract by notice in writing on such date as may be specified in that notice where one or more members have left the practice during the existence of the contract if, in its reasonable opinion, NHS England considers that the change in membership of the limited liability partnership is likely to have a serious adverse impact on the ability of the contractor or NHS England to perform its obligations under the contract.
 
 (6) A notice given to the contractor pursuant to sub-paragraph (5) shall specify—
 
@@ -1500,9 +1500,9 @@ sub-paragraphs (3) and (4) shall not apply and NHS England shall be entitled to 
 
 (3) In this paragraph, “**clinical governance arrangements**” means arrangements through which the contractor endeavours to continuously improve the quality of its services and safeguard high standards of care by creating an environment in which clinical excellence can flourish.
 
-#### 79A. Duty as to education and training[^key-917f8c881523cc6d60e6f2026e80207a]
+#### 79A. Duty as to education and training[^c-917f8c881523cc6d60e6f2026e80207a]
 
-The contractor must co-operate with the Secretary of State in the discharge of the Secretary of State’s duty under section 1F of the 2006 Act (duty as to education and training), or, co-operate with NHS England[^key-1368937bed2261f12d8a0249b3743329] where NHS England is discharging that duty by virtue of section 97 of the Care Act 2014[^key-9b0a30847fe501498a676e4f981c687e].
+The contractor must co-operate with the Secretary of State in the discharge of the Secretary of State’s duty under section 1F of the 2006 Act (duty as to education and training), or, co-operate with NHS England[^c-1368937bed2261f12d8a0249b3743329] where NHS England is discharging that duty by virtue of section 97 of the Care Act 2014[^c-9b0a30847fe501498a676e4f981c687e].
 
 #### 80. Quality assurance system
 
@@ -1524,21 +1524,21 @@ The contractor must co-operate with the Secretary of State in the discharge of t
 
 #### 81. Insurance: negligent performance
 
-(1) The contractor shall at all times have in force in relation to it an indemnity arrangement which provides appropriate cover[^key-8a1b858216d3a2f1645998f5b3f045ce].
+(1) The contractor shall at all times have in force in relation to it an indemnity arrangement which provides appropriate cover[^c-8a1b858216d3a2f1645998f5b3f045ce].
 
-(2) The contractor shall not sub-contract its obligations to provide clinical services under the contract unless it has satisfied itself that the sub-contractor has in force in relation to it an indemnity arrangement which provides appropriate cover[^key-5376dcd759607f14d36b52cef1a15763].
+(2) The contractor shall not sub-contract its obligations to provide clinical services under the contract unless it has satisfied itself that the sub-contractor has in force in relation to it an indemnity arrangement which provides appropriate cover[^c-5376dcd759607f14d36b52cef1a15763].
 
 (3) In this paragraph—
 
-- (a) “[^key-a3ca8edadcd8d60270998f74bf97d68b]**indemnity arrangement**” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor;
-- (aa)[^key-ac07f94fc6114ccc45f6821bfb07de11] “**appropriate cover**” means cover against liabilities that may be incurred by the contractor in the performance of clinical services under the contract, which is appropriate, having regard to the nature and extent of the risks in the performance of such services; and
-- (b) a contractor or sub-contractor shall be regarded as having in force in relation to it an indemnity arrangement if there is an indemnity arrangement in force in relation to[^key-6db030f068a3efa4fb443bada9fddee9] an employee of its in connection with clinical services which that employee provides under the contract or, as the case may be, sub-contract.
+- (a) “[^c-a3ca8edadcd8d60270998f74bf97d68b]**indemnity arrangement**” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor;
+- (aa)[^c-ac07f94fc6114ccc45f6821bfb07de11] “**appropriate cover**” means cover against liabilities that may be incurred by the contractor in the performance of clinical services under the contract, which is appropriate, having regard to the nature and extent of the risks in the performance of such services; and
+- (b) a contractor or sub-contractor shall be regarded as having in force in relation to it an indemnity arrangement if there is an indemnity arrangement in force in relation to[^c-6db030f068a3efa4fb443bada9fddee9] an employee of its in connection with clinical services which that employee provides under the contract or, as the case may be, sub-contract.
 
 #### 82. Public liability insurance
 
-(1) The contractor shall at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the contract which are not covered by an indemnity arrangement[^key-9be87e333a94900fa01c109b95861e15] referred to in paragraph 81(1).
+(1) The contractor shall at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the contract which are not covered by an indemnity arrangement[^c-9be87e333a94900fa01c109b95861e15] referred to in paragraph 81(1).
 
-(2) In this paragraph, “**indemnity arrangement[^key-7d3404add915780386c42db4a21d7526]**” has the same meaning as in paragraph 81.
+(2) In this paragraph, “**indemnity arrangement[^c-7d3404add915780386c42db4a21d7526]**” has the same meaning as in paragraph 81.
 
 #### 83. Gifts
 
@@ -1554,7 +1554,7 @@ and have, in its reasonable opinion, an individual value of more than £100.00.
 
 - (a) the contractor;
 - (b) where the contract is with two or more individuals practising in partnership, any partner;
-- (ba) where the contract is with a limited liability partnership, a member of that limited liability partnership;[^key-7a6c5e30e7af985d2a176a4698bc1a5d]
+- (ba) where the contract is with a limited liability partnership, a member of that limited liability partnership;[^c-7a6c5e30e7af985d2a176a4698bc1a5d]
 - (c) where the contract is with a dental corporation a director, chief executive or secretary of the corporation;
 - (d) any person employed by the contractor for the purposes of the contract;
 - (e) any dental practitioner engaged by the contractor for the purposes of the contract;
@@ -1585,7 +1585,7 @@ and have, in its reasonable opinion, an individual value of more than £100.00.
 The contractor shall—
 
 - (a) comply with all relevant legislation; and
-- (b)[^key-0fac7be257b20a30e011937723f9661f] have regard to all relevant guidance issued by NHS England and the Secretary of State.
+- (b)[^c-0fac7be257b20a30e011937723f9661f] have regard to all relevant guidance issued by NHS England and the Secretary of State.
 
 #### 85. Third party rights
 
@@ -1608,53 +1608,53 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^c12418141]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-37342b05df8a49a2d3d691b57f54b255]: Textual amendment: Sch. 3 para. 1(4)(a) substituted (1.6.2011) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1182)](https://www.legislation.gov.uk/uksi/2011/1182), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1182/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/1182/regulation/8/2)
+[^c-37342b05df8a49a2d3d691b57f54b255]: Textual amendment: Sch. 3 para. 1(4)(a) substituted (1.6.2011) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1182)](https://www.legislation.gov.uk/uksi/2011/1182), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1182/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/1182/regulation/8/2)
 
-[^key-965b4d1b39581eadad502de39cba294f]: Textual amendment: Words in [Sch. 3 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/1/5/a) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/2/c/i)
+[^c-965b4d1b39581eadad502de39cba294f]: Textual amendment: Words in [Sch. 3 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/1/5/a) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/2/c/i)
 
-[^key-74c8ec3f68603681a9c2a56ca13aed61]: Textual amendment: Words in [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/2/3/a) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/2/c/ii)
+[^c-74c8ec3f68603681a9c2a56ca13aed61]: Textual amendment: Words in [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/2/3/a) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/2/c/ii)
 
-[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-3d19ca5271d8f4f617fd5fdab726c9a0]: Textual amendment: Sch. 3 para. 3(2)(ca) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/2/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-3d19ca5271d8f4f617fd5fdab726c9a0]: Textual amendment: Sch. 3 para. 3(2)(ca) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/2/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-013ae562733e8202ef39df4579f93534]: Textual amendment: [Sch. 3 para. 5A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/5A) inserted (1.4.2015) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Miscellaneous Amendments and Transitional Provision) Regulations 2015 (S.I. 2015/416)](https://www.legislation.gov.uk/uksi/2015/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/416/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/416/regulation/4)
+[^c-013ae562733e8202ef39df4579f93534]: Textual amendment: [Sch. 3 para. 5A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/5A) inserted (1.4.2015) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Miscellaneous Amendments and Transitional Provision) Regulations 2015 (S.I. 2015/416)](https://www.legislation.gov.uk/uksi/2015/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/416/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/416/regulation/4)
 
-[^key-2a6efc048093da2bdbe2389987aa3745]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/2) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/2)
+[^c-2a6efc048093da2bdbe2389987aa3745]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/2) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/2)
 
-[^key-f346f8d055fc3c7794b78b3341312df5]: Textual amendment: [Sch. 3 para. 6(2A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/2A)[(2B)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/2B) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/3)
+[^c-f346f8d055fc3c7794b78b3341312df5]: Textual amendment: [Sch. 3 para. 6(2A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/2A)[(2B)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/2B) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/3)
 
-[^key-898b620fcac8432b342d84ffb3a67e43]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/3) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/4)
+[^c-898b620fcac8432b342d84ffb3a67e43]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/3) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/4)
 
-[^key-c5130b8bbfe7071c84ebc1c26ed709dc]: Textual amendment: [Sch. 3 para. 6(3A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/3A) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/2)
+[^c-c5130b8bbfe7071c84ebc1c26ed709dc]: Textual amendment: [Sch. 3 para. 6(3A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/3A) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/2)
 
-[^key-193681ac00c670835917d6d60cfd8f9e]: Textual amendment: Words in [Sch. 3 para. 6(3A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/3A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/5)
+[^c-193681ac00c670835917d6d60cfd8f9e]: Textual amendment: Words in [Sch. 3 para. 6(3A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/3A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/5)
 
-[^key-8e972cea703fa063f7cecf6660e8c4de]: Textual amendment: Word in [Sch. 3 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/5/b) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(6)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/6/a)
+[^c-8e972cea703fa063f7cecf6660e8c4de]: Textual amendment: Word in [Sch. 3 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/5/b) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(6)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/6/a)
 
-[^key-9d2b9f9f69fd903826a7c81ad22cd3d2]: Textual amendment: [Sch. 3 para. 6(5)(d)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/5/d) and word inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(6)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/6/b)
+[^c-9d2b9f9f69fd903826a7c81ad22cd3d2]: Textual amendment: [Sch. 3 para. 6(5)(d)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/6/5/d) and word inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(6)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/6/b)
 
-[^key-33db8439331b3d0b4f758e72d8cb202c]: Textual amendment: [Sch. 3 para. 7(8)-(10)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/7/8) inserted (14.9.2020) by [The National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/885)](https://www.legislation.gov.uk/uksi/2020/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/9/2)
+[^c-33db8439331b3d0b4f758e72d8cb202c]: Textual amendment: [Sch. 3 para. 7(8)-(10)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/7/8) inserted (14.9.2020) by [The National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/885)](https://www.legislation.gov.uk/uksi/2020/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/9/2)
 
-[^key-9df2bfb0328221fb0ced50226a1f31c1]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/8/1) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/7/a)
+[^c-9df2bfb0328221fb0ced50226a1f31c1]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/8/1) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/7/a)
 
-[^key-2d1bb0a4031bf714690f8eea8d38efee]: Textual amendment: Words in [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/8/2) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/7/b)
+[^c-2d1bb0a4031bf714690f8eea8d38efee]: Textual amendment: Words in [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/8/2) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/7/b)
 
-[^key-b6000adb8d02d0b53875ac2d15546829]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/10/1) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(8)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/8/a)
+[^c-b6000adb8d02d0b53875ac2d15546829]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/10/1) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(8)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/8/a)
 
-[^key-8d838a8835f915c199bae7f02c1091d9]: Textual amendment: [Sch. 3 para. 10(2A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/10/2A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(8)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/8/b)
+[^c-8d838a8835f915c199bae7f02c1091d9]: Textual amendment: [Sch. 3 para. 10(2A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/10/2A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(8)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/8/b)
 
-[^key-a6a582a9c717df9f4e7e7c607983b9af]: Textual amendment: Words in [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/11/4) inserted (25.11.2022) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2022 (S.I. 2022/1132)](https://www.legislation.gov.uk/uksi/2022/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1132/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1132/regulation/2/3)
+[^c-a6a582a9c717df9f4e7e7c607983b9af]: Textual amendment: Words in [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/11/4) inserted (25.11.2022) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2022 (S.I. 2022/1132)](https://www.legislation.gov.uk/uksi/2022/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1132/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1132/regulation/2/3)
 
-[^key-cf3403ed9c983226a48324c17de55511]: Modification: Sch. 3 para. 12 modified (3.1.2006) by [The General Dental Services and Personal Dental Services Transitional Provisions Order 2005 (S.I. 2005/3435)](https://www.legislation.gov.uk/uksi/2005/3435), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3435/article/1/1), [12](https://www.legislation.gov.uk/uksi/2005/3435/article/12)
+[^c-cf3403ed9c983226a48324c17de55511]: Modification: Sch. 3 para. 12 modified (3.1.2006) by [The General Dental Services and Personal Dental Services Transitional Provisions Order 2005 (S.I. 2005/3435)](https://www.legislation.gov.uk/uksi/2005/3435), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3435/article/1/1), [12](https://www.legislation.gov.uk/uksi/2005/3435/article/12)
 
 [^c12418151]: Marginal citation: The National Institute for Clinical Excellence is established as a Special Health Authority under section 11 of the Act ([S.I. 1999/220](https://www.legislation.gov.uk/uksi/1999/220), as amended by [S.I. 1999/2219](https://www.legislation.gov.uk/uksi/1999/2219), 2002/1760 and 2005/497).
 
 [^c12418161]: Marginal citation: This guidance is available from NICE's website, www.nice.org.uk.
 
-[^key-92ada1739b31bd594c26d508fd85454d]: Textual amendment: [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/19) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(9)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/9)
+[^c-92ada1739b31bd594c26d508fd85454d]: Textual amendment: [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/19) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(9)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/9)
 
-[^key-3b2e8e0e41f7e702ebf7b80df3c34a6c]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/21) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(9)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/9) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-3b2e8e0e41f7e702ebf7b80df3c34a6c]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/21) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(9)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/9) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^c12418181]: Marginal citation: Section 36A was prospectively inserted into the Dentists Act by article 29 of the Dentists Act Order.
 
@@ -1662,155 +1662,155 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^c12418201]: Marginal citation: Section 36B was prospectively inserted into the Dentists Act by article 29 of the Dentists Act Order.
 
-[^key-4e5eaca8223a20109e1518eab587224d]: Textual amendment: Words in [Sch. 3 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/23/2/b) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(10)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/10) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-4e5eaca8223a20109e1518eab587224d]: Textual amendment: Words in [Sch. 3 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/23/2/b) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(10)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/10) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-e5cbae7d1857ed4a62f60500c01447ed]: Textual amendment: [Sch. 3 para. 24(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/24/1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(11)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/11) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-e5cbae7d1857ed4a62f60500c01447ed]: Textual amendment: [Sch. 3 para. 24(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/24/1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(11)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/11) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-b6b8bfe9d2fe2adf4282f3935e87a942]: Textual amendment: Sch. 3 para. 30 substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(12)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/12) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-b6b8bfe9d2fe2adf4282f3935e87a942]: Textual amendment: Sch. 3 para. 30 substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(12)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/12) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-8c0e75e202b03fea525749a6cf7ea586]: Textual amendment: Word in Sch. 3 para. 32(3)(d)(i) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(14)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/14/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-8c0e75e202b03fea525749a6cf7ea586]: Textual amendment: Word in Sch. 3 para. 32(3)(d)(i) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(14)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/14/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-aefb36ee4078274211f7ef1710e119ff]: Textual amendment: Word in [Sch. 3 para. 32(3)(d)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/32/3/d) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(10)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/10/a)
+[^c-aefb36ee4078274211f7ef1710e119ff]: Textual amendment: Word in [Sch. 3 para. 32(3)(d)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/32/3/d) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(10)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/10/a)
 
-[^key-9af9190ba1f398d54bfa8bffae0790d4]: Textual amendment: [Sch. 3 para. 32(3)(da)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/32/3/da) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(10)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/10/b)
+[^c-9af9190ba1f398d54bfa8bffae0790d4]: Textual amendment: [Sch. 3 para. 32(3)(da)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/32/3/da) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(10)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/10/b)
 
 [^c12418211]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
 
-[^key-d5a3fa92b48b98d09ae45892f7d68dc7]: Textual amendment: Words in [Sch. 3 para. 34(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/34/3) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/3)
+[^c-d5a3fa92b48b98d09ae45892f7d68dc7]: Textual amendment: Words in [Sch. 3 para. 34(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/34/3) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/3)
 
-[^key-6355c9220ec045fb7d2288e4e941a84f]: Textual amendment: [Sch. 3 para. 34A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/34A) inserted (25.11.2022) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2022 (S.I. 2022/1132)](https://www.legislation.gov.uk/uksi/2022/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1132/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1132/regulation/3)
+[^c-6355c9220ec045fb7d2288e4e941a84f]: Textual amendment: [Sch. 3 para. 34A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/34A) inserted (25.11.2022) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2022 (S.I. 2022/1132)](https://www.legislation.gov.uk/uksi/2022/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1132/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1132/regulation/3)
 
-[^key-8ccd584944bde299b4b3e8d464736875]: Textual amendment: Sch. 3 para. 36 omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/a)
+[^c-8ccd584944bde299b4b3e8d464736875]: Textual amendment: Sch. 3 para. 36 omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/a)
 
-[^key-2a49ea0022c501011493aa39335d976f]: Textual amendment: Words in Sch. 3 para. 38(1) substituted (1.5.2019) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Amendment) Regulations 2017 (S.I. 2017/1056)](https://www.legislation.gov.uk/uksi/2017/1056), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1056/regulation/3))
+[^c-2a49ea0022c501011493aa39335d976f]: Textual amendment: Words in Sch. 3 para. 38(1) substituted (1.5.2019) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Amendment) Regulations 2017 (S.I. 2017/1056)](https://www.legislation.gov.uk/uksi/2017/1056), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1056/regulation/3))
 
-[^key-74c1dad8337b41e01a9f868cb74bb9f3]: Textual amendment: Sch. 3 para. 38(2)(d) substituted (1.5.2019) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Amendment) Regulations 2017 (S.I. 2017/1056)](https://www.legislation.gov.uk/uksi/2017/1056), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1056/regulation/3))
+[^c-74c1dad8337b41e01a9f868cb74bb9f3]: Textual amendment: Sch. 3 para. 38(2)(d) substituted (1.5.2019) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Amendment) Regulations 2017 (S.I. 2017/1056)](https://www.legislation.gov.uk/uksi/2017/1056), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1056/regulation/3))
 
-[^key-8f8c9d74ebc66b5054229ef7480dad69]: Textual amendment: Sch. 3 para. 38(3)-(5) inserted (1.5.2019) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Amendment) Regulations 2017 (S.I. 2017/1056)](https://www.legislation.gov.uk/uksi/2017/1056), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/2/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1056/regulation/3))
+[^c-8f8c9d74ebc66b5054229ef7480dad69]: Textual amendment: Sch. 3 para. 38(3)-(5) inserted (1.5.2019) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Amendment) Regulations 2017 (S.I. 2017/1056)](https://www.legislation.gov.uk/uksi/2017/1056), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/1056/regulation/2/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1056/regulation/3))
 
-[^key-b9235e91b1d7d16139283e7b3d620817]: Textual amendment: [Sch. 3 para. 38(4A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/38/4A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(11)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/11/a)
+[^c-b9235e91b1d7d16139283e7b3d620817]: Textual amendment: [Sch. 3 para. 38(4A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/38/4A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(11)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/11/a)
 
-[^key-824be6d894ffee2127686e8719f31dbb]: Textual amendment: [Sch. 3 para. 38(5)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/38/5) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(11)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/11/b)
+[^c-824be6d894ffee2127686e8719f31dbb]: Textual amendment: [Sch. 3 para. 38(5)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/38/5) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(11)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/11/b)
 
-[^key-a43ab6c770ff11fea8dd002e431027d0]: Textual amendment: [Sch. 3 paras. 38A-38E](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/38A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(12)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/12)
+[^c-a43ab6c770ff11fea8dd002e431027d0]: Textual amendment: [Sch. 3 paras. 38A-38E](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/38A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [10(12)](https://www.legislation.gov.uk/uksi/2026/554/regulation/10/12)
 
-[^key-bd6ee49cc3bcd3742a14a6b103e51dea]: Textual amendment: Words in Sch. 3 para. 39(1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/19/a/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-bd6ee49cc3bcd3742a14a6b103e51dea]: Textual amendment: Words in Sch. 3 para. 39(1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/19/a/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^c12418221]: Marginal citation: Section 16CA was inserted into the Act by section 170 of the 2003 Act.
 
 [^c12418231]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-8dce37712fb186845b935bf519bc8365]: Textual amendment: Sch. 3 para. 42B inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(23)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/23) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-8dce37712fb186845b935bf519bc8365]: Textual amendment: Sch. 3 para. 42B inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(23)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/23) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-f9225aff344567335f371bc93a559e1b]: Textual amendment: Sch. 3 para. 43A inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/1728/regulation/9)
+[^c-f9225aff344567335f371bc93a559e1b]: Textual amendment: Sch. 3 para. 43A inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/1728/regulation/9)
 
-[^key-a19c43ace27d07392a878cc384127aba]: Textual amendment: Words in [Sch. 3 para. 43A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/43A) substituted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2016/298/regulation/13)
+[^c-a19c43ace27d07392a878cc384127aba]: Textual amendment: Words in [Sch. 3 para. 43A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/43A) substituted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2016/298/regulation/13)
 
-[^key-4f3f4feff777f7221dd9c9336b6f20dc]: Textual amendment: Words in [Sch. 3 para. 44(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/44/3) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/2/c/iii)
+[^c-4f3f4feff777f7221dd9c9336b6f20dc]: Textual amendment: Words in [Sch. 3 para. 44(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/44/3) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/2/c/iii)
 
-[^key-c92104834a24b7b9abb1dbc60d2cc896]: Textual amendment: Words in Sch. 3 para. 44(3) omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/b/i)
+[^c-c92104834a24b7b9abb1dbc60d2cc896]: Textual amendment: Words in Sch. 3 para. 44(3) omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/b/i)
 
-[^key-195c1102e3eed7e5a1ec0c3e9ca562f7]: Textual amendment: Words in Sch. 3 para. 44(3)(a) omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/b/ii)
+[^c-195c1102e3eed7e5a1ec0c3e9ca562f7]: Textual amendment: Words in Sch. 3 para. 44(3)(a) omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/b/ii)
 
-[^key-18319c0898d1ad7b5139ba0acdc44060]: Textual amendment: Words in Sch. 3 para. 44(3)(a) substituted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/17/a)
+[^c-18319c0898d1ad7b5139ba0acdc44060]: Textual amendment: Words in Sch. 3 para. 44(3)(a) substituted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/17/a)
 
-[^key-54800a707d0e6a72b9f06325ad5938f9]: Textual amendment: Word in [Sch. 3 para. 44(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/44/3/b) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/4/a)
+[^c-54800a707d0e6a72b9f06325ad5938f9]: Textual amendment: Word in [Sch. 3 para. 44(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/44/3/b) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/4/a)
 
-[^key-0f14b3fdeaace1a36d117598f191b2f6]: Textual amendment: Words in [Sch. 3 para. 44(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/44/3/b) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/4/b)
+[^c-0f14b3fdeaace1a36d117598f191b2f6]: Textual amendment: Words in [Sch. 3 para. 44(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/44/3/b) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/4/4/b)
 
-[^key-821211ace9cad954ca100b30abb6d106]: Textual amendment: Sch. 3 para. 45 omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/c)
+[^c-821211ace9cad954ca100b30abb6d106]: Textual amendment: Sch. 3 para. 45 omitted (1.4.2008) by virtue of [The Local Involvement Networks Regulations 2008 (S.I. 2008/528)](https://www.legislation.gov.uk/uksi/2008/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2008/528/schedule/paragraph/9/c)
 
-[^key-599ea60500eb48b1ebe35b31537c8110]: Textual amendment: Sch. 3 para. 46 and heading substituted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/17/b)
+[^c-599ea60500eb48b1ebe35b31537c8110]: Textual amendment: Sch. 3 para. 46 and heading substituted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/17/b)
 
-[^key-b4d9bbbefd3d64cdf0c71f97b5ef6909]: Textual amendment: Sch. 3 para. 46 substituted (1.10.2010) by [The Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 (S.I. 2010/1881)](https://www.legislation.gov.uk/uksi/2010/1881), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1), [18](https://www.legislation.gov.uk/uksi/2010/1881/article/18)
+[^c-b4d9bbbefd3d64cdf0c71f97b5ef6909]: Textual amendment: Sch. 3 para. 46 substituted (1.10.2010) by [The Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 (S.I. 2010/1881)](https://www.legislation.gov.uk/uksi/2010/1881), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1), [18](https://www.legislation.gov.uk/uksi/2010/1881/article/18)
 
-[^key-a0268fb2ed0772d07b4a3e5ecd055ce3]: Textual amendment: Sch. 3 para. 46A substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(25)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/25) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-a0268fb2ed0772d07b4a3e5ecd055ce3]: Textual amendment: Sch. 3 para. 46A substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(25)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/25) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-bd14a0a9d771ea9e9762430f00fd405c]: Textual amendment: Sch. 3 Pt. 5A inserted (1.4.2009) by [The Local Authority Social Services and National Health Service Complaints (England) Regulations 2009 (S.I. 2009/309)](https://www.legislation.gov.uk/uksi/2009/309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/5/2) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/8))
+[^c-bd14a0a9d771ea9e9762430f00fd405c]: Textual amendment: Sch. 3 Pt. 5A inserted (1.4.2009) by [The Local Authority Social Services and National Health Service Complaints (England) Regulations 2009 (S.I. 2009/309)](https://www.legislation.gov.uk/uksi/2009/309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/5/2) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/8))
 
-[^key-a852e49ae52900b86dd34b221dcf4e38]: Textual amendment: Sch. 3 paras. 47, 48 omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(26)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/26) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-a852e49ae52900b86dd34b221dcf4e38]: Textual amendment: Sch. 3 paras. 47, 48 omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(26)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/26) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-2715c416d17e2765dcf1c3ddea291cee]: Textual amendment: Sch. 3 paras. 49, 50 omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(26)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/26) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-2715c416d17e2765dcf1c3ddea291cee]: Textual amendment: Sch. 3 paras. 49, 50 omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(26)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/26) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^M_F_0fd39fb9-d2e9-41b6-b31c-ebbfc000f82d]: Textual amendment: Words in Sch. 3 para. 51(1)(a)(ii) substituted (1.4.2009) by [The Local Authority Social Services and National Health Service Complaints (England) Regulations 2009 (S.I. 2009/309)](https://www.legislation.gov.uk/uksi/2009/309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2), [Sch. para. 5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/5/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/8))
 
-[^key-a2270539af7864b56d6c72afc6ee3a30]: Textual amendment: Words in Sch. 3 para. 51(2) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/27/b/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-a2270539af7864b56d6c72afc6ee3a30]: Textual amendment: Words in Sch. 3 para. 51(2) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/27/b/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^c12418281]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
 [^c12418291]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42); section 1 was amended by the [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [section 195](https://www.legislation.gov.uk/ukpga/1972/70/section/195) and by the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), [Schedule 10](https://www.legislation.gov.uk/ukpga/1994/19/schedule/10), [paragraph 7](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/7).
 
-[^key-9440de8e4efd00208e09a165c3b68c9e]: Textual amendment: Word in Sch. 3 para. 51(2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 66(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/66/a)
+[^c-9440de8e4efd00208e09a165c3b68c9e]: Textual amendment: Word in Sch. 3 para. 51(2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 66(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/66/a)
 
 [^c12418301]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-5d61b697a570ea27d67058af51d07fac]: Textual amendment: Word in Sch. 3 para. 51(2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 66(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/66/b)
+[^c-5d61b697a570ea27d67058af51d07fac]: Textual amendment: Word in Sch. 3 para. 51(2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 66(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/66/b)
 
-[^key-fbb34c891153f2ad2e9eb37375841e38]: Textual amendment: Words in Sch. 3 para. 51(2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 66(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/66/c)
+[^c-fbb34c891153f2ad2e9eb37375841e38]: Textual amendment: Words in Sch. 3 para. 51(2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 66(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/66/c)
 
 [^M_F_7a91d998-2f4b-4b34-883e-936eed79de58]: Textual amendment: Words in Sch. 3 para. 51(2) inserted (1.4.2009) by [The Local Authority Social Services and National Health Service Complaints (England) Regulations 2009 (S.I. 2009/309)](https://www.legislation.gov.uk/uksi/2009/309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2), [Sch. para. 5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/5/3/b/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/8))
 
-[^key-0b43ccd6748fc18409a2a6867527026f]: Textual amendment: Words in Sch. 3 para. 52 substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(28)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/28/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-0b43ccd6748fc18409a2a6867527026f]: Textual amendment: Words in Sch. 3 para. 52 substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(28)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/28/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-0f8ee9184669bee7bfe10462924e9f29]: Textual amendment: [Sch. 3 para. 54(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/54/1) substituted (1.7.2015) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Miscellaneous Amendments and Transitional Provision) Regulations 2015 (S.I. 2015/416)](https://www.legislation.gov.uk/uksi/2015/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/416/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/416/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2015/416/regulation/12))
+[^c-0f8ee9184669bee7bfe10462924e9f29]: Textual amendment: [Sch. 3 para. 54(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/54/1) substituted (1.7.2015) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Miscellaneous Amendments and Transitional Provision) Regulations 2015 (S.I. 2015/416)](https://www.legislation.gov.uk/uksi/2015/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/416/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/416/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2015/416/regulation/12))
 
 [^c12418311]: Marginal citation: Where the dispute relates to a contract which is an NHS contract, section 4(5) of the 1990 Act applies.
 
 [^c12418321]: Marginal citation: Section 28P was inserted into the Act by section 175(1) of the 2003 Act.
 
-[^key-c6b01902f601d002f32b01375cdb8dcd]: Textual amendment: Words in [Sch. 3 para. 58(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/2) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/a)
+[^c-c6b01902f601d002f32b01375cdb8dcd]: Textual amendment: Words in [Sch. 3 para. 58(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/2) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/a)
 
-[^key-cc150895f3dd5dd69bc4b35a2a883a82]: Textual amendment: Word in [Sch. 3 para. 58(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/3) omitted (1.4.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/b)
+[^c-cc150895f3dd5dd69bc4b35a2a883a82]: Textual amendment: Word in [Sch. 3 para. 58(3)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/3) omitted (1.4.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/b)
 
-[^key-a1739ca46831fbb387d0b986cea94445]: Textual amendment: Words in [Sch. 3 para. 58(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/3/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/c)
+[^c-a1739ca46831fbb387d0b986cea94445]: Textual amendment: Words in [Sch. 3 para. 58(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/3/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/c)
 
-[^key-615f1386f04858fa193aae34b3eb4fde]: Textual amendment: [Sch. 3 para. 58(3)(c)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/3/c) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/d)
+[^c-615f1386f04858fa193aae34b3eb4fde]: Textual amendment: [Sch. 3 para. 58(3)(c)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/3/c) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/d)
 
-[^key-b6acaaf82563ff86f5526b08eed0ec1c]: Textual amendment: Word in [Sch. 3 para. 58(4)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/4) omitted (1.4.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(e)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/e)
+[^c-b6acaaf82563ff86f5526b08eed0ec1c]: Textual amendment: Word in [Sch. 3 para. 58(4)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/4) omitted (1.4.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(e)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/e)
 
-[^key-6b1ce356a7cc40c60e4ce6fb8f6020a9]: Textual amendment: Words in [Sch. 3 para. 58(4)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/4/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(f)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/f)
+[^c-6b1ce356a7cc40c60e4ce6fb8f6020a9]: Textual amendment: Words in [Sch. 3 para. 58(4)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/4/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(f)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/f)
 
-[^key-eed3d2ebde44ee5441caba61ed2f71de]: Textual amendment: [Sch. 3 para. 58(4)(c)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/4/c) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(g)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/g)
+[^c-eed3d2ebde44ee5441caba61ed2f71de]: Textual amendment: [Sch. 3 para. 58(4)(c)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/4/c) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(g)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/g)
 
-[^key-860829a2c1ec88b6a627f23cc1764699]: Textual amendment: Words in [Sch. 3 para. 58(5)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/5/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(h)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/h)
+[^c-860829a2c1ec88b6a627f23cc1764699]: Textual amendment: Words in [Sch. 3 para. 58(5)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/5/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(h)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/h)
 
-[^key-5df9be78ebc893cef9ef44834723572e]: Textual amendment: Words in [Sch. 3 para. 58(6)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/6/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(h)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/h)
+[^c-5df9be78ebc893cef9ef44834723572e]: Textual amendment: Words in [Sch. 3 para. 58(6)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/58/6/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(3)(h)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/3/h)
 
-[^key-e9125c1e008916b05b61fc402988b055]: Textual amendment: Word in [Sch. 3 para. 59(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/1) omitted (1.4.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/a)
+[^c-e9125c1e008916b05b61fc402988b055]: Textual amendment: Word in [Sch. 3 para. 59(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/1) omitted (1.4.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/a)
 
-[^key-80030ea8ba6f7275821c486ab541f638]: Textual amendment: Words in [Sch. 3 para. 59(1)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/1/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/b)
+[^c-80030ea8ba6f7275821c486ab541f638]: Textual amendment: Words in [Sch. 3 para. 59(1)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/1/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/b)
 
-[^key-98d912785396d4bb651d3e0e2ae1f1f3]: Textual amendment: [Sch. 3 para. 59(1)(c)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/1/c) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/c)
+[^c-98d912785396d4bb651d3e0e2ae1f1f3]: Textual amendment: [Sch. 3 para. 59(1)(c)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/1/c) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/c)
 
-[^key-cb90a6e7bc51293b2cdb6956d8bb90ee]: Textual amendment: Words in [Sch. 3 para. 59(2)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/2/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/d)
+[^c-cb90a6e7bc51293b2cdb6956d8bb90ee]: Textual amendment: Words in [Sch. 3 para. 59(2)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/2/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/d)
 
-[^key-f8f269358a047c70e41aaaccfd538ea8]: Textual amendment: Words in [Sch. 3 para. 59(3)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/3/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/d)
+[^c-f8f269358a047c70e41aaaccfd538ea8]: Textual amendment: Words in [Sch. 3 para. 59(3)(a)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/3/a) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/d)
 
-[^key-4c4b4fe6141dd809b3c25646eebd0e30]: Textual amendment: Words in [Sch. 3 para. 59(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/3/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(e)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/e)
+[^c-4c4b4fe6141dd809b3c25646eebd0e30]: Textual amendment: Words in [Sch. 3 para. 59(3)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/3/b) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(e)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/e)
 
-[^key-52f2bc00cf4e6707e4be1f6788a03ab0]: Textual amendment: Words in [Sch. 3 para. 59(5)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/5) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/d)
+[^c-52f2bc00cf4e6707e4be1f6788a03ab0]: Textual amendment: Words in [Sch. 3 para. 59(5)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/59/5) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [7(4)(d)](https://www.legislation.gov.uk/uksi/2026/265/regulation/7/4/d)
 
-[^key-06a3ea32d822a7b13e64ba1c0ed686be]: Textual amendment: Word in [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/60/2) inserted (12.6.2023) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2023 (S.I. 2023/554)](https://www.legislation.gov.uk/uksi/2023/554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/554/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/554/regulation/2/2/a)
+[^c-06a3ea32d822a7b13e64ba1c0ed686be]: Textual amendment: Word in [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/60/2) inserted (12.6.2023) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2023 (S.I. 2023/554)](https://www.legislation.gov.uk/uksi/2023/554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/554/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/554/regulation/2/2/a)
 
-[^key-31b8e9f0cf00533b20b3bc4834a112b2]: Textual amendment: [Sch. 3 para. 61A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/61A) inserted (12.6.2023) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2023 (S.I. 2023/554)](https://www.legislation.gov.uk/uksi/2023/554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/554/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/554/regulation/2/2/b)
+[^c-31b8e9f0cf00533b20b3bc4834a112b2]: Textual amendment: [Sch. 3 para. 61A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/61A) inserted (12.6.2023) by [The National Health Service (Primary Dental Services) (Amendment) Regulations 2023 (S.I. 2023/554)](https://www.legislation.gov.uk/uksi/2023/554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/554/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/554/regulation/2/2/b)
 
-[^key-710e7d581fafb4c0664d4fad17c8abc2]: Textual amendment: Words in [Sch. 3 para. 61A(4)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/61A/4/b) substituted (1.4.2024) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2024 (S.I. 2024/271)](https://www.legislation.gov.uk/uksi/2024/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/271/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/271/regulation/2/2)
+[^c-710e7d581fafb4c0664d4fad17c8abc2]: Textual amendment: Words in [Sch. 3 para. 61A(4)(b)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/61A/4/b) substituted (1.4.2024) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2024 (S.I. 2024/271)](https://www.legislation.gov.uk/uksi/2024/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/271/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/271/regulation/2/2)
 
 [^c12418331]: Marginal citation: Section 28M was inserted into the Act by section 175(1) of the 2003 Act.
 
-[^key-d93ea8468598f10c0fef9fc4c5bfd2e8]: Textual amendment: Words in Sch. 3 para. 65(1) substituted (1.6.2011) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1182)](https://www.legislation.gov.uk/uksi/2011/1182), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1182/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2011/1182/regulation/8/3/a)
+[^c-d93ea8468598f10c0fef9fc4c5bfd2e8]: Textual amendment: Words in Sch. 3 para. 65(1) substituted (1.6.2011) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1182)](https://www.legislation.gov.uk/uksi/2011/1182), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1182/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2011/1182/regulation/8/3/a)
 
-[^key-3ca29becdaec1a9d94e8c114c975ee83]: Textual amendment: Words in Sch. 3 para. 65(1)(a) substituted (1.6.2011) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1182)](https://www.legislation.gov.uk/uksi/2011/1182), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1182/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2011/1182/regulation/8/3/b)
+[^c-3ca29becdaec1a9d94e8c114c975ee83]: Textual amendment: Words in Sch. 3 para. 65(1)(a) substituted (1.6.2011) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1182)](https://www.legislation.gov.uk/uksi/2011/1182), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1182/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2011/1182/regulation/8/3/b)
 
-[^key-f759321f64ceb3295deda61a7ed974b4]: Textual amendment: Words in Sch. 3 para. 65(2) substituted (1.4.2012) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/502)](https://www.legislation.gov.uk/uksi/2012/502), [regs. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/502/regulation/2/4)
+[^c-f759321f64ceb3295deda61a7ed974b4]: Textual amendment: Words in Sch. 3 para. 65(2) substituted (1.4.2012) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/502)](https://www.legislation.gov.uk/uksi/2012/502), [regs. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/502/regulation/2/4)
 
-[^key-fd7403652be4905952a74bde625a7a92]: Textual amendment: [Sch. 3 para. 69(5A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/69/5A) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(42)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/42/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-fd7403652be4905952a74bde625a7a92]: Textual amendment: [Sch. 3 para. 69(5A)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/69/5A) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(42)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/42/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-57ae7f105c5f832b34b5cfefcc87ee6d]: Textual amendment: Word in Sch. 3 para. 71(1)(b) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(c)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/c) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-57ae7f105c5f832b34b5cfefcc87ee6d]: Textual amendment: Word in Sch. 3 para. 71(1)(b) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(c)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/c) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-6ff0aed918c3cd8a9004f74f829565d2]: Textual amendment: Words in Sch. 3 para. 71(1)(c)(ii) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(d)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-6ff0aed918c3cd8a9004f74f829565d2]: Textual amendment: Words in Sch. 3 para. 71(1)(c)(ii) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(d)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-6cff401fd4eff37865a427182d546e49]: Textual amendment: Sch. 3 para. 71(1)(d) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(e)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/e) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-6cff401fd4eff37865a427182d546e49]: Textual amendment: Sch. 3 para. 71(1)(d) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(e)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/e) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^c12418341]: Marginal citation: Section 49F was inserted into the Act by section 25 of the 2001 Act and amended by the 2002 Act, Schedule 3, paragraph 21 and the 2003 Act, Schedule 14, Part 2.
 
@@ -1818,15 +1818,15 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^c12418361]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-b952b31f86f90086f1caac6b640cd5f4]: Textual amendment: Word in [Sch. 3 para. 71(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/71/2/h/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-b952b31f86f90086f1caac6b640cd5f4]: Textual amendment: Word in [Sch. 3 para. 71(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/71/2/h/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
-[^key-9c6135b58f74e4d1e91e627200d197da]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/a/i) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-9c6135b58f74e4d1e91e627200d197da]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/a/i) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-c3aae192b4fe22f953f4fa16377304b0]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(i) omitted (1.10.2012) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/a/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-c3aae192b4fe22f953f4fa16377304b0]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(i) omitted (1.10.2012) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/a/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-b2e3023be75278646964f88eb7952f83]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/a/iii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-b2e3023be75278646964f88eb7952f83]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/a/iii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-9b94c62074d24c7113fc443837254b67]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(ii) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(b)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7), [8](https://www.legislation.gov.uk/uksi/2012/2404/article/8))
+[^c-9b94c62074d24c7113fc443837254b67]: Textual amendment: Words in Sch. 3 para. 71(2)(h)(ii) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 47(3)(b)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/47/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7), [8](https://www.legislation.gov.uk/uksi/2012/2404/article/8))
 
 [^c12418371]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257 of, and Schedule 3 to, the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
@@ -1834,25 +1834,25 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^c12418391]: Marginal citation: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40).
 
-[^key-5d8b3c56dd8c246e3a8cd388e3db3caa]: Textual amendment: Words in Sch. 3 para. 71(2)(k)(ii) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(f)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-5d8b3c56dd8c246e3a8cd388e3db3caa]: Textual amendment: Words in Sch. 3 para. 71(2)(k)(ii) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(f)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^c12418401]: Marginal citation: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46) as amended by the [Insolvency Act 2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39).
 
 [^c12418411]: Marginal citation: [S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-381017bb68d3ae31d0d46e7effa7f308]: Textual amendment: Words in Sch. 3 para. 71(2)(m) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(g)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/g) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-381017bb68d3ae31d0d46e7effa7f308]: Textual amendment: Words in Sch. 3 para. 71(2)(m) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(g)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/g) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-8af357ea9622e66b5eecc90560388938]: Textual amendment: Word in Sch. 3 para. 71(3)(b) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(h)(i)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/h/i) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-8af357ea9622e66b5eecc90560388938]: Textual amendment: Word in Sch. 3 para. 71(3)(b) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(h)(i)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/h/i) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-460c4a37ffc5540ff0cc8f662d8d7e2e]: Textual amendment: Word in Sch. 3 para. 71(3)(c) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(h)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/h/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-460c4a37ffc5540ff0cc8f662d8d7e2e]: Textual amendment: Word in Sch. 3 para. 71(3)(c) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(h)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/h/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-7bfe7abb1094c5ec8914799f65e82058]: Textual amendment: Sch. 3 para. 71(3)(d) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(h)(iii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/h/iii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-7bfe7abb1094c5ec8914799f65e82058]: Textual amendment: Sch. 3 para. 71(3)(d) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(h)(iii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/h/iii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-46adb5b889da1d56c11382286af201aa]: Textual amendment: Word in Sch. 3 para. 71(5)(b) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(i)(i)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/i/i) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-46adb5b889da1d56c11382286af201aa]: Textual amendment: Word in Sch. 3 para. 71(5)(b) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(i)(i)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/i/i) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-33a347fc6a5beaa835fb94adbe253ed7]: Textual amendment: Word in Sch. 3 para. 71(5)(c) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(i)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/i/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-33a347fc6a5beaa835fb94adbe253ed7]: Textual amendment: Word in Sch. 3 para. 71(5)(c) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(i)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/i/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-63887d69960d8b73a633fc9b6534b543]: Textual amendment: Sch. 3 para. 71(5)(d) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(i)(iii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/i/iii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-63887d69960d8b73a633fc9b6534b543]: Textual amendment: Sch. 3 para. 71(5)(d) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(44)(i)(iii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/44/i/iii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^M_F_de32385c-f751-4a8f-d44e-3ab2a2debdf2]: Textual amendment: [Sch. 3 para. 74](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/74/5) heading substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(47)(c)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/47/b/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
@@ -1860,30 +1860,30 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^c12418431]: Marginal citation: Section 43B was inserted into, and section 44 is substituted by, the Dentists Act Amendment Order, article 39.
 
-[^key-98946142c2a42ef32c30d22853c81c65]: Textual amendment: [Sch. 3 para. 74(5)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/74/5)[(6)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/74/6) added (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(47)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/47/b/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-98946142c2a42ef32c30d22853c81c65]: Textual amendment: [Sch. 3 para. 74(5)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/74/5)[(6)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/74/6) added (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(47)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/47/b/ii) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
 [^c12418441]: Marginal citation: Section 12ZA is inserted into the Act by section 183(2) of the 2003 Act.
 
-[^key-917f8c881523cc6d60e6f2026e80207a]: Textual amendment: Sch. 3 para. 79A inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(52)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/52) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-917f8c881523cc6d60e6f2026e80207a]: Textual amendment: Sch. 3 para. 79A inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(52)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/52) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-1368937bed2261f12d8a0249b3743329]: Textual amendment: Words in [Sch. 3 para. 79A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/79A) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-1368937bed2261f12d8a0249b3743329]: Textual amendment: Words in [Sch. 3 para. 79A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/79A) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-9b0a30847fe501498a676e4f981c687e]: Textual amendment: Words in [Sch. 3 para. 79A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/79A) substituted (1.4.2015) by [The Care Act 2014 (Health Education England and the Health Research Authority) (Consequential Amendments and Revocations) Order 2015 (S.I. 2015/137)](https://www.legislation.gov.uk/uksi/2015/137), [art. 1](https://www.legislation.gov.uk/uksi/2015/137/article/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2015/137/schedule/2/paragraph/17)
+[^c-9b0a30847fe501498a676e4f981c687e]: Textual amendment: Words in [Sch. 3 para. 79A](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/79A) substituted (1.4.2015) by [The Care Act 2014 (Health Education England and the Health Research Authority) (Consequential Amendments and Revocations) Order 2015 (S.I. 2015/137)](https://www.legislation.gov.uk/uksi/2015/137), [art. 1](https://www.legislation.gov.uk/uksi/2015/137/article/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2015/137/schedule/2/paragraph/17)
 
-[^key-8a1b858216d3a2f1645998f5b3f045ce]: Textual amendment: Words in Sch. 3 para. 81(1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/a)
+[^c-8a1b858216d3a2f1645998f5b3f045ce]: Textual amendment: Words in Sch. 3 para. 81(1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/a)
 
-[^key-5376dcd759607f14d36b52cef1a15763]: Textual amendment: Words in Sch. 3 para. 81(2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/b)
+[^c-5376dcd759607f14d36b52cef1a15763]: Textual amendment: Words in Sch. 3 para. 81(2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/b)
 
-[^key-a3ca8edadcd8d60270998f74bf97d68b]: Textual amendment: Words in Sch. 3 para. 81(3)(a) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(c)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/c)
+[^c-a3ca8edadcd8d60270998f74bf97d68b]: Textual amendment: Words in Sch. 3 para. 81(3)(a) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(c)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/c)
 
-[^key-ac07f94fc6114ccc45f6821bfb07de11]: Textual amendment: Sch. 3 para. 81(3)(aa) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(d)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/d)
+[^c-ac07f94fc6114ccc45f6821bfb07de11]: Textual amendment: Sch. 3 para. 81(3)(aa) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(d)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/d)
 
-[^key-6db030f068a3efa4fb443bada9fddee9]: Textual amendment: Words in Sch. 3 para. 81(3)(b) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(e)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/e)
+[^c-6db030f068a3efa4fb443bada9fddee9]: Textual amendment: Words in Sch. 3 para. 81(3)(b) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(e)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/e)
 
-[^key-9be87e333a94900fa01c109b95861e15]: Textual amendment: Words in [Sch. 3 para. 82(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/82/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(f)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/f)
+[^c-9be87e333a94900fa01c109b95861e15]: Textual amendment: Words in [Sch. 3 para. 82(1)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/82/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(f)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/f)
 
-[^key-7d3404add915780386c42db4a21d7526]: Textual amendment: Words in [Sch. 3 para. 82(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/82/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(g)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/g)
+[^c-7d3404add915780386c42db4a21d7526]: Textual amendment: Words in [Sch. 3 para. 82(2)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/82/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 8(g)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/8/g)
 
-[^key-7a6c5e30e7af985d2a176a4698bc1a5d]: Textual amendment: [Sch. 3 para. 83(2)(ba)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/83/2/ba) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(53)(a)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/53/a) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-7a6c5e30e7af985d2a176a4698bc1a5d]: Textual amendment: [Sch. 3 para. 83(2)(ba)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/3/paragraph/83/2/ba) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(53)(a)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/53/a) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
 
-[^key-0fac7be257b20a30e011937723f9661f]: Textual amendment: Sch. 3 para. 84(b) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(54)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/54) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-0fac7be257b20a30e011937723f9661f]: Textual amendment: Sch. 3 para. 84(b) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [19(54)](https://www.legislation.gov.uk/uksi/2013/364/regulation/19/54) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))

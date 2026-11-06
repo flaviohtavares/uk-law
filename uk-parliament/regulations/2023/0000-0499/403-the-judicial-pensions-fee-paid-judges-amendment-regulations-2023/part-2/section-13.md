@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Insertion of new regulation 11Z1[^key-ac8560f79dd0b9ce273f2e64090e06f9]
+## 13. Insertion of new regulation 11Z1[^c-ac8560f79dd0b9ce273f2e64090e06f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In Part 3, in the Part-heading preceding regulation 12, at the end insert “: P
 
 ## Annotations
 
-[^key-ac8560f79dd0b9ce273f2e64090e06f9]: Commencement: Reg. 13 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-ac8560f79dd0b9ce273f2e64090e06f9]: Commencement: Reg. 13 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

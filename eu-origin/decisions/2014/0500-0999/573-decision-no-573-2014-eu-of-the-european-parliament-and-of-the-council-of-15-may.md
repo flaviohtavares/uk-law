@@ -35,66 +35,66 @@ on enhanced cooperation between Public Employment Services (PES)
 
 (Text with EEA relevance) (revoked)
 
-[^key-142dc689e4dae99c24525eafed6975da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-142dc689e4dae99c24525eafed6975da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Establishment of the Network[^key-142dc689e4dae99c24525eafed6975da]
+## Article 1. Establishment of the Network[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definition of benchlearning[^key-142dc689e4dae99c24525eafed6975da]
+## Article 2. Definition of benchlearning[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Objectives[^key-142dc689e4dae99c24525eafed6975da]
+## Article 3. Objectives[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Initiatives of the Network[^key-142dc689e4dae99c24525eafed6975da]
+## Article 4. Initiatives of the Network[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Cooperation[^key-142dc689e4dae99c24525eafed6975da]
+## Article 5. Cooperation[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Functioning of the Network[^key-142dc689e4dae99c24525eafed6975da]
+## Article 6. Functioning of the Network[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Financial support for this incentive measure[^key-142dc689e4dae99c24525eafed6975da]
+## Article 7. Financial support for this incentive measure[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Amendment of the Annex on benchmarking indicators[^key-142dc689e4dae99c24525eafed6975da]
+## Article 8. Amendment of the Annex on benchmarking indicators[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Exercise of the delegation[^key-142dc689e4dae99c24525eafed6975da]
+## Article 9. Exercise of the delegation[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Review[^key-142dc689e4dae99c24525eafed6975da]
+## Article 10. Review[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-142dc689e4dae99c24525eafed6975da]
+## Article 11. Entry into force[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Addressees[^key-142dc689e4dae99c24525eafed6975da]
+## Article 12. Addressees[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-142dc689e4dae99c24525eafed6975da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-142dc689e4dae99c24525eafed6975da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — BENCHMARKING INDICATORS[^key-142dc689e4dae99c24525eafed6975da]
+## ANNEX — BENCHMARKING INDICATORS[^c-142dc689e4dae99c24525eafed6975da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-142dc689e4dae99c24525eafed6975da]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-142dc689e4dae99c24525eafed6975da]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

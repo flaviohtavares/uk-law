@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Representations to be taken into account[^key-0d65dbd90a83e5a2a307bacee27dddcc]
+## 12. Representations to be taken into account[^c-0d65dbd90a83e5a2a307bacee27dddcc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In deciding an appeal the Welsh Ministers or the appointed person as the case ma
 
 ## Annotations
 
-[^key-0d65dbd90a83e5a2a307bacee27dddcc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2017/544/regulation/12) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-0d65dbd90a83e5a2a307bacee27dddcc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2017/544/regulation/12) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

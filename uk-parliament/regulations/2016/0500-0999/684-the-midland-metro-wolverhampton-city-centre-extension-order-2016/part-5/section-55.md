@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. For protection of the Canal and River Trust[^key-32234b79acf85c18d18f126e4708bed7]
+## 55. For protection of the Canal and River Trust[^c-32234b79acf85c18d18f126e4708bed7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 10 (for the protection of the Canal and River Trust) 
 
 ## Annotations
 
-[^key-32234b79acf85c18d18f126e4708bed7]: Commencement: Art. 55 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-32234b79acf85c18d18f126e4708bed7]: Commencement: Art. 55 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

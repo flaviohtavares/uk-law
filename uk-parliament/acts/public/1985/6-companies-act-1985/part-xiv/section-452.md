@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 452. Privileged information.[^c17416481][^c17416491][^key-1c53795286fe0471376096ce7b7f4e8e]
+## 452. Privileged information.[^c17416481][^c17416491][^c-1c53795286fe0471376096ce7b7f4e8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ unless one of the conditions in subsection (4) is met.
 
 [^c17416491]: Modification: S. 452 applied (with modifications) (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 4](https://www.legislation.gov.uk/uksi/2001/1090/regulation/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/1090/schedule/2/part/I)
 
-[^key-1c53795286fe0471376096ce7b7f4e8e]: Modification: S. 452 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-1c53795286fe0471376096ce7b7f4e8e]: Modification: S. 452 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c19376901]: Textual amendment: S. 452(1) substituted (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [ss. 25](https://www.legislation.gov.uk/ukpga/2004/27/section/25), [65](https://www.legislation.gov.uk/ukpga/2004/27/section/65), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2/paragraph/21/a); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/uksi/2004/3322/article/3))
 

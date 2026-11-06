@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 17. Supervision of investment firms waived from the application of own funds requirements on a consolidated basis[^key-7b7fd0ad78e3c9ea7e3adb241d184d64]
+## Article 17. Supervision of investment firms waived from the application of own funds requirements on a consolidated basis[^c-7b7fd0ad78e3c9ea7e3adb241d184d64]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-7b7fd0ad78e3c9ea7e3adb241d184d64]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2013/575/article/17) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/8); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))
+[^c-7b7fd0ad78e3c9ea7e3adb241d184d64]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2013/575/article/17) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/8); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))

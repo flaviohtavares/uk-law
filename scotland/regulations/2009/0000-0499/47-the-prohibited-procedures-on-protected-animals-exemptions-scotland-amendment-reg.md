@@ -32,7 +32,7 @@ summary: ''
 
 ANIMALS
 
-The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2009 (revoked)[^key-2165db1c2c55b0f5a4e5e40fbbb15bc5]
+The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2009 (revoked)[^c-2165db1c2c55b0f5a4e5e40fbbb15bc5]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-2165db1c2c55b0f5a4e5e40fbbb15bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2165db1c2c55b0f5a4e5e40fbbb15bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2165db1c2c55b0f5a4e5e40fbbb15bc5]
+## 1. Citation and commencement[^c-2165db1c2c55b0f5a4e5e40fbbb15bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2007[^key-2165db1c2c55b0f5a4e5e40fbbb15bc5]
+## 2. Amendment of the Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2007[^c-2165db1c2c55b0f5a4e5e40fbbb15bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2165db1c2c55b0f5a4e5e40fbbb15bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2165db1c2c55b0f5a4e5e40fbbb15bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2165db1c2c55b0f5a4e5e40fbbb15bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2165db1c2c55b0f5a4e5e40fbbb15bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2165db1c2c55b0f5a4e5e40fbbb15bc5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/47) revoked (5.11.2010) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2010 (S.S.I. 2010/387)](https://www.legislation.gov.uk/ssi/2010/387), [regs. 1](https://www.legislation.gov.uk/ssi/2010/387/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2010/387/regulation/4/b)
+[^c-2165db1c2c55b0f5a4e5e40fbbb15bc5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/47) revoked (5.11.2010) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2010 (S.S.I. 2010/387)](https://www.legislation.gov.uk/ssi/2010/387), [regs. 1](https://www.legislation.gov.uk/ssi/2010/387/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2010/387/regulation/4/b)

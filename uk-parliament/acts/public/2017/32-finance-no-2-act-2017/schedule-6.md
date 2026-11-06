@@ -723,7 +723,7 @@ Section 21
 
 #### CAA 2001
 
-**7.**[^key-68d008cc59ead15d1b1d7a77846b5b33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-68d008cc59ead15d1b1d7a77846b5b33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### FA 2007
 
@@ -1041,7 +1041,7 @@ Section 21
 
 [^c22797801]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/6) in force at Royal Assent for specified purposes, see [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/20)
 
-[^key-68d008cc59ead15d1b1d7a77846b5b33]: Textual amendment: Sch. 6 para. 7 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/b)[(c)(xiii)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xiii)
+[^c-68d008cc59ead15d1b1d7a77846b5b33]: Textual amendment: Sch. 6 para. 7 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/b)[(c)(xiii)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xiii)
 
 [^c22797821]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/8) in force at Royal Assent for specified purposes, see [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/20)
 

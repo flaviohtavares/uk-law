@@ -31,7 +31,7 @@ summary: ''
 
 HIGHER AND FURTHER EDUCATION, TRAINING AND EMPLOYMENT
 
-Education (Listed Bodies) Order (Northern Ireland) 2000 (revoked)[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
+Education (Listed Bodies) Order (Northern Ireland) 2000 (revoked)[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into operation
 
 15th January 2001
 
-[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
+## 1. Citation, commencement and interpretation[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Listed bodies[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
+## 2. Listed bodies[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
+## 3. Revocation[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
+## SCHEDULE[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
 
 Article 2
 
-### Part I — Providers of Courses leading to a Degree[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
+### Part I — Providers of Courses leading to a Degree[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Institutions of a University[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
+### Part II — Institutions of a University[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf7b7b6bad86fe1ee4ddaeb2639db7f1]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/385) revoked (30.12.2003) by [Education (Listed Bodies) Order (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/481)](https://www.legislation.gov.uk/nisr/2003/481), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2003/481/article/1/1), [3](https://www.legislation.gov.uk/nisr/2003/481/article/3)
+[^c-bf7b7b6bad86fe1ee4ddaeb2639db7f1]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/385) revoked (30.12.2003) by [Education (Listed Bodies) Order (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/481)](https://www.legislation.gov.uk/nisr/2003/481), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2003/481/article/1/1), [3](https://www.legislation.gov.uk/nisr/2003/481/article/3)

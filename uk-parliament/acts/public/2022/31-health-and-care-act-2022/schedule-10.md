@@ -22,11 +22,11 @@ summary: ''
 
 Section 77
 
-**1.**[^key-cb91780b6d7a859c36577a57f8faef1f][^key-75e0ee524cf7bf837d4a243153327124][^key-a741c71dc21401b3ba1037b05eaa808a] The Health and Social Care Act 2012 is amended as follows.
+**1.**[^c-cb91780b6d7a859c36577a57f8faef1f][^c-75e0ee524cf7bf837d4a243153327124][^c-a741c71dc21401b3ba1037b05eaa808a] The Health and Social Care Act 2012 is amended as follows.
 
-**2.**[^key-045af04682763e4a9f3c14efc6b7a55e][^key-9d38b3c3e05040876d3c964af0b1e434][^key-b11858834a9e379d6a6b5438c0dbc092] In section 97 (conditions of licences for health care service providers), in subsection (1)(g), for “the national tariff (see section 116)” substitute “the NHS payment scheme (see section 114A)”.
+**2.**[^c-045af04682763e4a9f3c14efc6b7a55e][^c-9d38b3c3e05040876d3c964af0b1e434][^c-b11858834a9e379d6a6b5438c0dbc092] In section 97 (conditions of licences for health care service providers), in subsection (1)(g), for “the national tariff (see section 116)” substitute “the NHS payment scheme (see section 114A)”.
 
-**3.**[^key-8341c12f6ce015e95dfda3b538d6ed0d][^key-24ef567025e9ce42e7f3b9baadcec222][^key-dc1cab3068f4ac0f51d519e161257925] In Part 3, for Chapter 4 substitute—
+**3.**[^c-8341c12f6ce015e95dfda3b538d6ed0d][^c-24ef567025e9ce42e7f3b9baadcec222][^c-dc1cab3068f4ac0f51d519e161257925] In Part 3, for Chapter 4 substitute—
 
 > **CHAPTER 4 — The NHS payment scheme**
 >
@@ -179,7 +179,7 @@ Section 77
 > - “**the NHS payment scheme**” means the document published under section 114A(1);
 > - “**relevant provider**” has the meaning given by section 114C(8).
 
-**4.**[^key-4a8f4baab55b06babbdc0bd2d79f244b][^key-471e1e4779c71f169440b19053fc34cc][^key-71d936cee94d29ec021394a4c05331b2] In section 304 (regulations, orders and directions), in subsection (5), for paragraph (g) substitute—
+**4.**[^c-4a8f4baab55b06babbdc0bd2d79f244b][^c-471e1e4779c71f169440b19053fc34cc][^c-71d936cee94d29ec021394a4c05331b2] In section 304 (regulations, orders and directions), in subsection (5), for paragraph (g) substitute—
 
 > - (g) regulations under section 114D(1)(b)(i) or (ii) (percentage to be prescribed in cases of objections to proposals for NHS payment scheme);
 
@@ -187,26 +187,26 @@ Section 77
 
 ## Annotations
 
-[^key-cb91780b6d7a859c36577a57f8faef1f]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-cb91780b6d7a859c36577a57f8faef1f]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-75e0ee524cf7bf837d4a243153327124]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/1) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-75e0ee524cf7bf837d4a243153327124]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/1) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-a741c71dc21401b3ba1037b05eaa808a]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/1) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
+[^c-a741c71dc21401b3ba1037b05eaa808a]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/1) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
 
-[^key-045af04682763e4a9f3c14efc6b7a55e]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-045af04682763e4a9f3c14efc6b7a55e]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-9d38b3c3e05040876d3c964af0b1e434]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/2) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-9d38b3c3e05040876d3c964af0b1e434]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/2) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-b11858834a9e379d6a6b5438c0dbc092]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/2) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
+[^c-b11858834a9e379d6a6b5438c0dbc092]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/2) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
 
-[^key-8341c12f6ce015e95dfda3b538d6ed0d]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-8341c12f6ce015e95dfda3b538d6ed0d]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-24ef567025e9ce42e7f3b9baadcec222]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/3) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-24ef567025e9ce42e7f3b9baadcec222]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/3) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-dc1cab3068f4ac0f51d519e161257925]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/3) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
+[^c-dc1cab3068f4ac0f51d519e161257925]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/3) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
 
-[^key-4a8f4baab55b06babbdc0bd2d79f244b]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-4a8f4baab55b06babbdc0bd2d79f244b]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-471e1e4779c71f169440b19053fc34cc]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/4) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-471e1e4779c71f169440b19053fc34cc]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/4) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-71d936cee94d29ec021394a4c05331b2]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/4) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
+[^c-71d936cee94d29ec021394a4c05331b2]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/4) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)

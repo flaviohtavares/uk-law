@@ -50,7 +50,7 @@ section 45(4) of the Children and Young Persons Act 1933[^f00003] with the concu
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-29e84f00b34ce6886fea6df8ba5f755a]
+### 1. Citation and commencement[^c-29e84f00b34ce6886fea6df8ba5f755a]
 
 (1) These Rules may be cited as the Justices of the Peace Rules 2016.
 
@@ -69,7 +69,7 @@ section 45(4) of the Children and Young Persons Act 1933[^f00003] with the concu
 - (b) Part 4, Chapter 3 (FTAAAC), other than Rule 27, and
 - (c) Part 4, Chapter 4 (provisions relating to both JTAAACs and FTAAACs).
 
-### 2. Revocations and transitional provisions[^key-e37b83ef3bf5d58dfe78ec8d5757e78d]
+### 2. Revocations and transitional provisions[^c-e37b83ef3bf5d58dfe78ec8d5757e78d]
 
 (1) Subject to paragraph (2)—
 
@@ -89,7 +89,7 @@ are revoked.
 
 (6) The term of any appointment under the TDC Rules 2007 is counted when determining whether a justice is eligible for re-election under Rule 28.
 
-### 3. Interpretation[^key-bbfec2e5a7714a2125dd9a77123c8714]
+### 3. Interpretation[^c-bbfec2e5a7714a2125dd9a77123c8714]
 
 In these Rules—
 
@@ -105,18 +105,18 @@ In these Rules—
 - “JTAAAC area” means the area specified by or on behalf of the Lord Chief Justice as the area for which a JTAAAC operates;
 - “JTAAAC selection panel” means the selection panel for each JTAAAC area, elected to appoint the members of the relevant JTAAAC;
 - “justice” means a justice of the peace who is not a District Judge (Magistrates’ Court) and, in relation to a local justice area, means a justice who is assigned to that area;
-- “justices' legal adviser” means a person nominated by the Lord Chancellor who is authorised to exercise functions under section 28(1) of the Courts Act 2003;[^key-7ed1b04a264cf1fa209fb033d8e5b33a]
+- “justices' legal adviser” means a person nominated by the Lord Chancellor who is authorised to exercise functions under section 28(1) of the Courts Act 2003;[^c-7ed1b04a264cf1fa209fb033d8e5b33a]
 - “justice member” has the meaning given in Rule 22(1)(a);
 - “magistrates’ court” means any court in which a justice is authorised to sit, other than a family court or a Crown Court, and
 - “youth justice” means a justice who is authorised by or on behalf of the Lord Chief Justice to sit as a member of a youth court.
 
 ## PART 2 — Composition of magistrates’ courts
 
-### 4. Size of bench[^key-3fd32f74f0e470becc95eab9aea5e08f]
+### 4. Size of bench[^c-3fd32f74f0e470becc95eab9aea5e08f]
 
 The number of justices sitting to deal with a case as a magistrates’ court must not be greater than three.
 
-### 5. Presiding justices[^key-34087109797cf9ab9022596e13870ece]
+### 5. Presiding justices[^c-34087109797cf9ab9022596e13870ece]
 
 (1) This Rule does not apply to any justice sitting in a magistrates’ court in accordance with section 16A of the Magistrates’ Courts Act 1980[^f00008].
 
@@ -137,50 +137,50 @@ The number of justices sitting to deal with a case as a magistrates’ court mus
 
 ### CHAPTER 1 — Procedure
 
-#### 6. General provision[^key-f770f5ad9b997294d6b45b2bda001ad5]
+#### 6. General provision[^c-f770f5ad9b997294d6b45b2bda001ad5]
 
 This Part sets out the election procedure for —
 
 - (a) the offices of chairman and deputy chairman for each local justice area, and
 - (b) membership of the FTAAAC and JTAAAC selection panels for each FTAAAC and JTAAAC area.
 
-#### 7. Eligibility of justices and family justices[^key-94ee249e7a1c3b27bf3ac033bfb754fc]
+#### 7. Eligibility of justices and family justices[^c-94ee249e7a1c3b27bf3ac033bfb754fc]
 
 (1) A justice is eligible to stand for election and to vote in an election for the offices of chairman and deputy chairman, and membership of a JTAAAC selection panel if, on the relevant date, that justice is assigned to a local justice area to which the election relates.
 
 (2) A family justice is eligible to stand for election and to vote in an election for membership of an FTAAAC selection panel if, on the relevant date, that justice is assigned to a local justice area to which the election relates.
 
-(3) The relevant date in paragraphs (1) and (2) is the day on which the justices' legal adviser[^key-0e6b07141f0587dfa2c32a174cbc5d98] informs the eligible justices under Rule 10(2).
+(3) The relevant date in paragraphs (1) and (2) is the day on which the justices' legal adviser[^c-0e6b07141f0587dfa2c32a174cbc5d98] informs the eligible justices under Rule 10(2).
 
-#### 8. Procedure for elections[^key-415ba0f23101566c76f6dbdc6811f498]
+#### 8. Procedure for elections[^c-415ba0f23101566c76f6dbdc6811f498]
 
 (1) The election procedure consists of a notice of candidacy procedure, and, except as provided in paragraph (2), a secret ballot.
 
 (2) A secret ballot is not required where the justices required to fill the available vacancies are elected under Rule 10(6)(a) or (b).
 
-(3) The timetable for the election procedure must be determined by the justices' legal adviser[^key-a6b18794c690bf89f9bb6dace7536466] and published before or at the start of the procedure.
+(3) The timetable for the election procedure must be determined by the justices' legal adviser[^c-a6b18794c690bf89f9bb6dace7536466] and published before or at the start of the procedure.
 
 (4) Any timetable must allow sufficient time for receipt of notices of candidacy and a secret ballot where required.
 
-#### 9. Deputy chairmen[^key-e7ea88c733b6e8e2aefee7e5a25509c5]
+#### 9. Deputy chairmen[^c-e7ea88c733b6e8e2aefee7e5a25509c5]
 
 (1) The election procedure in respect of a deputy chairman must commence after the election of the chairman has been completed and the result declared.
 
 (2) The number of deputy chairmen is determined by the justice elected as chairman for the duration of the term in which the deputy chairman or chairmen will serve.
 
-#### 10. Notice of candidacy procedure[^key-0373d935f6e3bd61034184eefda6ad92]
+#### 10. Notice of candidacy procedure[^c-0373d935f6e3bd61034184eefda6ad92]
 
 (1) Eligible justices who want to be elected in respect of a vacancy must complete a notice of candidacy.
 
-(2) The justices' legal adviser[^key-fb3cfcc0045eb94f64bab6d416a4d240] must inform eligible justices that they may submit a notice of candidacy, in accordance with paragraph (3).
+(2) The justices' legal adviser[^c-fb3cfcc0045eb94f64bab6d416a4d240] must inform eligible justices that they may submit a notice of candidacy, in accordance with paragraph (3).
 
-(3) The justices' legal adviser[^key-7bb264e7f0432e7b8bf24ca6578cd0c9] must determine and specify:
+(3) The justices' legal adviser[^c-7bb264e7f0432e7b8bf24ca6578cd0c9] must determine and specify:
 
 - (a) the manner in which notices are to be submitted;
 - (b) the means by which notices can be submitted, and
 - (c) a closing date for receipt of notices.
 
-(4) The justices' legal adviser[^key-0f9ccd3d17d899c0b5d03ca4b12744c8], or anyone nominated to act on their behalf, must be satisfied that each notice has been submitted in accordance with the specifications made under paragraph (3).
+(4) The justices' legal adviser[^c-0f9ccd3d17d899c0b5d03ca4b12744c8], or anyone nominated to act on their behalf, must be satisfied that each notice has been submitted in accordance with the specifications made under paragraph (3).
 
 (5) A notice that has not been submitted in accordance with the specifications in paragraph (3) must not be treated as a valid notice.
 
@@ -189,17 +189,17 @@ This Part sets out the election procedure for —
 - (a) a single valid notice of candidacy is received for a vacancy, the candidate who submitted that notice is elected;
 - (b) the number of valid notices of candidacy received is less than or equal to the number of vacancies, those candidates are elected.
 
-(7) As soon as practicable after an election under paragraph (6), the justices' legal adviser[^key-a84e5720c9890f5d013eb2c07871f924] must notify the candidates as to the result.
+(7) As soon as practicable after an election under paragraph (6), the justices' legal adviser[^c-a84e5720c9890f5d013eb2c07871f924] must notify the candidates as to the result.
 
-(8) As soon as practicable after notifying the candidates under paragraph (7), the justices' legal adviser[^key-94199de929625185bf98197a80948abb] must notify the eligible justices as to the result.
+(8) As soon as practicable after notifying the candidates under paragraph (7), the justices' legal adviser[^c-94199de929625185bf98197a80948abb] must notify the eligible justices as to the result.
 
-#### 11. Secret ballot[^key-f4f4b28655e12c624b8eb888ff1dc6cc]
+#### 11. Secret ballot[^c-f4f4b28655e12c624b8eb888ff1dc6cc]
 
-(1) Where the valid notices of candidacy exceed the number of vacancies, the justices' legal adviser[^key-be61dda1eaf63a6ffa9ebc97a88eae2a] must arrange a secret ballot.
+(1) Where the valid notices of candidacy exceed the number of vacancies, the justices' legal adviser[^c-be61dda1eaf63a6ffa9ebc97a88eae2a] must arrange a secret ballot.
 
-(2) The justices' legal adviser[^key-ed8f0bf5c87eaca3f2f67042bad40658] must inform the eligible justices that they may vote in the secret ballot in accordance with paragraph (3).
+(2) The justices' legal adviser[^c-ed8f0bf5c87eaca3f2f67042bad40658] must inform the eligible justices that they may vote in the secret ballot in accordance with paragraph (3).
 
-(3) The justices' legal adviser[^key-fb01e6eddd882d42610f7a46db77b195] must —
+(3) The justices' legal adviser[^c-fb01e6eddd882d42610f7a46db77b195] must —
 
 - (a) determine and specify the procedure to be followed for the ballot;
 - (b) inform eligible justices of the names of the candidates and the means by which votes may be cast, and
@@ -209,7 +209,7 @@ This Part sets out the election procedure for —
 
 (5) Where the election is for more than one vacancy, each eligible justice may cast one vote per vacancy (up to but not exceeding the number of vacancies) in accordance with the specified procedure.
 
-#### 12. Determining result of secret ballot[^key-6ded0379b93094c3efbdb443a93d310f]
+#### 12. Determining result of secret ballot[^c-6ded0379b93094c3efbdb443a93d310f]
 
 (1) Where there is a single vacancy, the candidate who receives the highest number of votes cast is elected.
 
@@ -222,42 +222,42 @@ This Part sets out the election procedure for —
   - (i) the election of one or more of the tied candidates is necessary to make up the requisite number, but
   - (ii) the election of all of the tied candidates would exceed the requisite number,
 
-the justices' legal adviser[^key-19acd9eba33fed42d1f62c65a5742a6c] must decide between them by lot, and paragraph (4) applies.
+the justices' legal adviser[^c-19acd9eba33fed42d1f62c65a5742a6c] must decide between them by lot, and paragraph (4) applies.
 
 (4) Where this paragraph applies, the candidate or candidates (as applicable) on whom the lot falls is elected.
 
-(5) As soon as practicable after an election under this Rule, the justices' legal adviser[^key-acaea888236aebc29af659e0f29a94d0] must notify the candidates, as to—
+(5) As soon as practicable after an election under this Rule, the justices' legal adviser[^c-acaea888236aebc29af659e0f29a94d0] must notify the candidates, as to—
 
 - (a) the result;
 - (b) the number of votes cast for each candidate, and
 - (c) where relevant, if a lot was required.
 
-(6) As soon as practicable after notifying the candidates under paragraph (5), the justices' legal adviser[^key-ac259166002cf4f1584bc0a8006c6754] must notify the eligible justices as to—
+(6) As soon as practicable after notifying the candidates under paragraph (5), the justices' legal adviser[^c-ac259166002cf4f1584bc0a8006c6754] must notify the eligible justices as to—
 
 - (a) the result;
 - (b) the number of votes cast for each candidate, and
 - (c) where relevant, if a lot was required.
 
-#### 13. Miscellaneous provisions about secret ballots[^key-eb915d0586baca7b2c1735c993c11deb]
+#### 13. Miscellaneous provisions about secret ballots[^c-eb915d0586baca7b2c1735c993c11deb]
 
-(1) Unless otherwise determined in accordance with Rule 16, the justices' legal adviser[^key-7bc7dad833e3f5223e8ff60b4f351805] must not treat a ballot as invalidated by reason of—
+(1) Unless otherwise determined in accordance with Rule 16, the justices' legal adviser[^c-7bc7dad833e3f5223e8ff60b4f351805] must not treat a ballot as invalidated by reason of—
 
 - (a) information sent by the justices' legal adviser in accordance with the election procedure not being received by a justice,
 - (b) a vote not being received by the justices' legal adviser.
 
 (2) Where an eligible justice does not follow the specified procedure, any vote by that eligible justice must not be taken into account when the votes are counted.
 
-(3) The justices' legal adviser[^key-15db873ae46c946b77d051d2c8a9690a] and any other person carrying out the ballot procedure must not disclose how any justice voted in any ballot.
+(3) The justices' legal adviser[^c-15db873ae46c946b77d051d2c8a9690a] and any other person carrying out the ballot procedure must not disclose how any justice voted in any ballot.
 
-#### 14. Withdrawal of notices of candidacy[^key-9b24b8c6585ae8f1b8367cd73b540dce]
+#### 14. Withdrawal of notices of candidacy[^c-9b24b8c6585ae8f1b8367cd73b540dce]
 
 (1) A candidate may withdraw their notice of candidacy—
 
 - (a) before the closing date for receipt of notices;
-- (b) where, after the closing date, there is (or otherwise would be) a need for a ballot, before the justices' legal adviser[^key-eab0c99b4b6d96d5c670a9fa113e9837] has provided to the eligible justices the information under Rule 11 (3)(b), or
+- (b) where, after the closing date, there is (or otherwise would be) a need for a ballot, before the justices' legal adviser[^c-eab0c99b4b6d96d5c670a9fa113e9837] has provided to the eligible justices the information under Rule 11 (3)(b), or
 - (c) where there has been a ballot and an equality of votes requires the drawing of lots, before the lots are drawn.
 
-(2) Where a candidate has withdrawn their notice of candidacy after the closing date for receipt of notices but before the justices' legal adviser[^key-9b2d4cbf6e9ffa241630a5b6c10ee5a9] has provided to the eligible justices the information under Rule 11(3)(b), the name of that candidate must be omitted from the ballot, save that—
+(2) Where a candidate has withdrawn their notice of candidacy after the closing date for receipt of notices but before the justices' legal adviser[^c-9b2d4cbf6e9ffa241630a5b6c10ee5a9] has provided to the eligible justices the information under Rule 11(3)(b), the name of that candidate must be omitted from the ballot, save that—
 
 - (a) where (after the withdrawal of the notice) there is only one candidate for a single vacancy, that candidate is elected, and
 - (b) where (after the withdrawal of the notice) the number of candidates equals or is less than the number of vacancies, those candidates are elected.
@@ -267,13 +267,13 @@ the justices' legal adviser[^key-19acd9eba33fed42d1f62c65a5742a6c] must decide b
 - (a) where (after the withdrawal of the notice) there remains only one candidate for a single vacancy, that candidate is elected;
 - (b) where (after the withdrawal of the notice) the number of candidates for the relevant vacancy equals or is less than the number of vacancies, those candidates are elected.
 
-#### 15. Absence or insufficiency of notices of candidacy[^key-58068062401c74c816567b4b27999e3b]
+#### 15. Absence or insufficiency of notices of candidacy[^c-58068062401c74c816567b4b27999e3b]
 
-(1) Where no notices of candidacy have been received within the relevant timetable, or all notices submitted are withdrawn, the justices' legal adviser[^key-b21d6d94c59d87709a9ad0e1659ddc96] must inform the eligible justices of that fact and inform them that they may further submit notices by a date specified by the justices' legal adviser.
+(1) Where no notices of candidacy have been received within the relevant timetable, or all notices submitted are withdrawn, the justices' legal adviser[^c-b21d6d94c59d87709a9ad0e1659ddc96] must inform the eligible justices of that fact and inform them that they may further submit notices by a date specified by the justices' legal adviser.
 
 (2) Where notices are received in accordance with paragraph (1), the procedure set out at Rule 8 must be followed.
 
-(3) If no notices are received in accordance with paragraph (1) for the office of chairman, the justices' legal adviser[^key-4f4eea60a1196622f4a85d8f9069c833] must arrange a secret ballot, following the procedure in Rules 11, 12 and 13.
+(3) If no notices are received in accordance with paragraph (1) for the office of chairman, the justices' legal adviser[^c-4f4eea60a1196622f4a85d8f9069c833] must arrange a secret ballot, following the procedure in Rules 11, 12 and 13.
 
 (4) For the purposes of the secret ballot under paragraph (3), all eligible justices must be treated as candidates and their names presented in alphabetical order for the vote.
 
@@ -293,31 +293,31 @@ the chairman of that local justice area must select the requisite number of just
 
 the justice with the leadership role in relation to family justices in the area must select the requisite number of justices to act in that regard.
 
-#### 16. Material irregularity in election procedure[^key-41720711109fa69e1c548fcc782d7c09]
+#### 16. Material irregularity in election procedure[^c-41720711109fa69e1c548fcc782d7c09]
 
-(1) Where the justices' legal adviser[^key-c4c663aa58ac7481aee7559cdf84577d] is satisfied (either of their own motion or following representation from an eligible justice) that a material irregularity has occurred in the election procedure, the justices' legal adviser may revoke the result of the election and repeat the election procedure, or a part of it, in respect of the relevant vacancy or vacancies.
+(1) Where the justices' legal adviser[^c-c4c663aa58ac7481aee7559cdf84577d] is satisfied (either of their own motion or following representation from an eligible justice) that a material irregularity has occurred in the election procedure, the justices' legal adviser may revoke the result of the election and repeat the election procedure, or a part of it, in respect of the relevant vacancy or vacancies.
 
-(2) An eligible justice must make a representation as to any material irregularity to the justices' legal adviser[^key-33a6a05903f02967eba490482b5454b2] within 14 days of the notification of the result of the election under Rule 10(8) or 12(6).
+(2) An eligible justice must make a representation as to any material irregularity to the justices' legal adviser[^c-33a6a05903f02967eba490482b5454b2] within 14 days of the notification of the result of the election under Rule 10(8) or 12(6).
 
-(3) The justices' legal adviser[^key-255479283eca4124ae243d791d81557a] must notify the eligible justice who made the representation of their decision within 14 days.
+(3) The justices' legal adviser[^c-255479283eca4124ae243d791d81557a] must notify the eligible justice who made the representation of their decision within 14 days.
 
-(4) If the justices' legal adviser[^key-fcb56211073412e6c4950e382083e806] does not repeat the election procedure, an eligible justice may, within 14 days of notice of such decision, request a judicial office holder, nominated for this purpose by the Lord Chief Justice, to revoke the result of the election and repeat the election procedure, or a part of it.
+(4) If the justices' legal adviser[^c-fcb56211073412e6c4950e382083e806] does not repeat the election procedure, an eligible justice may, within 14 days of notice of such decision, request a judicial office holder, nominated for this purpose by the Lord Chief Justice, to revoke the result of the election and repeat the election procedure, or a part of it.
 
 (5) The eligible justice making a request under paragraph (4) must—
 
-- (a) make the request in writing to the justices' legal adviser[^key-efce8f58206eedaeed926fa22256ee1c]; and
+- (a) make the request in writing to the justices' legal adviser[^c-efce8f58206eedaeed926fa22256ee1c]; and
 - (b) specify the grounds on which the request is made.
 
 (6) The nominated judicial office holder may—
 
 - (a) confirm the result of the election, or
-- (b) if satisfied that a material irregularity has occurred in the election procedure, revoke the result of the election and direct the justices' legal adviser[^key-64b7d2e15b91f6982f4046e0c0685733] to repeat the election procedure, or a part of it.
+- (b) if satisfied that a material irregularity has occurred in the election procedure, revoke the result of the election and direct the justices' legal adviser[^c-64b7d2e15b91f6982f4046e0c0685733] to repeat the election procedure, or a part of it.
 
-(7) The justices' legal adviser[^key-18975298edfadbae3050ffafce76fce1] or nominated judicial office holder must give candidates and any eligible justice who has made representations under paragraph (2), the opportunity to make representations before determining whether to repeat the election procedure, or any part of it.
+(7) The justices' legal adviser[^c-18975298edfadbae3050ffafce76fce1] or nominated judicial office holder must give candidates and any eligible justice who has made representations under paragraph (2), the opportunity to make representations before determining whether to repeat the election procedure, or any part of it.
 
 ### CHAPTER 2 — Provisions specific to chairman and deputy chairmen
 
-#### 17. Duration of term in office and vacancies[^key-00d42991acce98fb0ec895ca897e839d]
+#### 17. Duration of term in office and vacancies[^c-00d42991acce98fb0ec895ca897e839d]
 
 (1) Subject to paragraphs (2), (5) and (6), a chairman and deputy chairman elected under Rules 8 to 15 inclusive will serve a term of one year commencing on 1st April following their election and ending on 31st March of the following year (the “normal term”).
 
@@ -326,20 +326,20 @@ the justice with the leadership role in relation to family justices in the area 
 - (a) the chairman or deputy chairman ceases to act as such, whether by ceasing to be a justice, resignation or for any other reason, in which case the term finishes on the date the person ceases to act, or
 - (b) the relevant local justice area ceases to exist, in which case the term finishes on the date the local justice area ceases to exist.
 
-(3) Where a vacancy arises during the normal term under paragraph (2), the justices' legal adviser[^key-bbd26584f0e4a1d37c87105ccfecad2a] must, as soon as possible, commence the election procedure in respect of the vacancy.
+(3) Where a vacancy arises during the normal term under paragraph (2), the justices' legal adviser[^c-bbd26584f0e4a1d37c87105ccfecad2a] must, as soon as possible, commence the election procedure in respect of the vacancy.
 
 (4) Paragraph (3) does not apply if the vacancy is that of a deputy chairman and the chairman determines that the vacancy should not be filled.
 
 (5) The term may commence on a date other than 1st April if—
 
-- (a) there has been an election under paragraph (3), in which case the term commences on the date of the election or such other date as may have been specified by or on behalf of the justices' legal adviser[^key-085126f8425181e22b7e5d7e03e06abb], or
+- (a) there has been an election under paragraph (3), in which case the term commences on the date of the election or such other date as may have been specified by or on behalf of the justices' legal adviser[^c-085126f8425181e22b7e5d7e03e06abb], or
 - (b) a new local justice area is created, in which case a new term commences on the date that the new local justice area comes into existence.
 
 (6) Subject to paragraph (7), in respect of a justice elected to a vacancy under paragraph (5), the term is until the end date of the normal term.
 
 (7) If a justice is elected under paragraph (5) in respect of a term commencing on a date between 1st January and 31st March in any given year, the term continues until 31st March of the following year.
 
-#### 18. Eligibility for re-election[^key-333470b2afd4af5315b5d56e3d716af7]
+#### 18. Eligibility for re-election[^c-333470b2afd4af5315b5d56e3d716af7]
 
 (1) A justice is not eligible to be elected as chairman for a local justice area for more than three terms in that local justice area, unless at least six years have elapsed since the justice last filled that vacancy.
 
@@ -351,7 +351,7 @@ the justice with the leadership role in relation to family justices in the area 
 
 ### CHAPTER 1 — Compulsory Training
 
-#### 19. Training provision for justices[^key-fd2f86656f625fdb1873fbfd74ab50ea]
+#### 19. Training provision for justices[^c-fd2f86656f625fdb1873fbfd74ab50ea]
 
 A justice must not perform any of the following functions unless that justice has completed a training course approved by the Lord Chief Justice in respect of that function—
 
@@ -364,7 +364,7 @@ A justice must not perform any of the following functions unless that justice ha
 
 ### CHAPTER 2 — JTAAAC
 
-#### 20. Formation of JTAAAC[^key-4f2a0e475a2ceeddad6dda989dcd5399]
+#### 20. Formation of JTAAAC[^c-4f2a0e475a2ceeddad6dda989dcd5399]
 
 (1) There must be one JTAAAC for each JTAAAC area.
 
@@ -373,7 +373,7 @@ A justice must not perform any of the following functions unless that justice ha
 - (a) specify the area that will form the new JTAAAC area, and
 - (b) determine the membership of the JTAAAC for the area and the duration of the term of its members, having regard, as far as practicable, to the requirements of Rules 22 and 28.
 
-#### 21. Functions of JTAAAC[^key-01bda2d036f367238f811700f13ff0c3]
+#### 21. Functions of JTAAAC[^c-01bda2d036f367238f811700f13ff0c3]
 
 (1) Each JTAAAC must, as appropriate—
 
@@ -399,13 +399,13 @@ A justice must not perform any of the following functions unless that justice ha
 - (e) the budget for justices’ training in the area, and
 - (f) any requirements of the Lord Chief Justice to report on justices’ training.
 
-#### 22. Membership of JTAAAC[^key-142333d2f1098549f1f104f5edf9a9ce]
+#### 22. Membership of JTAAAC[^c-142333d2f1098549f1f104f5edf9a9ce]
 
 (1) Each JTAAAC must consist of:
 
 - (a) between 6 and 24 justices from the relevant local justice areas appointed in accordance with Rule 23 (the “justice members”);
 - (b) one justice nominated by the Magistrates’ Association, and
-- (c)[^key-5f3f8ecabd63880df61c43c71ff09f93] the justices' legal adviser or an assistant nominated by them who is also a person authorised to exercise functions under section 28(1) of the Courts Act 2003.
+- (c)[^c-5f3f8ecabd63880df61c43c71ff09f93] the justices' legal adviser or an assistant nominated by them who is also a person authorised to exercise functions under section 28(1) of the Courts Act 2003.
 
 (2) The following justices must not be members of a JTAAAC —
 
@@ -424,7 +424,7 @@ A justice must not perform any of the following functions unless that justice ha
 
 (4) The individuals referred to in paragraph (3) must not attend any part of a meeting at which the JTAAAC considers matters relating to individual justices.
 
-#### 23. JTAAAC selection panel[^key-3768290ef0d2ec2e1498bd7c64dd10be]
+#### 23. JTAAAC selection panel[^c-3768290ef0d2ec2e1498bd7c64dd10be]
 
 (1) A JTAAAC selection panel must appoint the justice members.
 
@@ -459,7 +459,7 @@ A justice must not perform any of the following functions unless that justice ha
 
 ### CHAPTER 3 — FTAAAC
 
-#### 24. Formation of FTAAAC[^key-5391bf8156e2147d4a70908e36250aff]
+#### 24. Formation of FTAAAC[^c-5391bf8156e2147d4a70908e36250aff]
 
 (1) There must be one FTAAAC in each FTAAAC area.
 
@@ -468,7 +468,7 @@ A justice must not perform any of the following functions unless that justice ha
 - (a) specify the area that will form the new FTAAAC area, and
 - (b) determine the membership of the FTAAAC for the area and the duration of the term of its members, having regard, as far as practicable, to the requirements of Rules 26 and 28.
 
-#### 25. Functions of FTAAAC[^key-f64df7a97e1f5221a0a5bfede4c75cd2]
+#### 25. Functions of FTAAAC[^c-f64df7a97e1f5221a0a5bfede4c75cd2]
 
 (1) Each FTAAAC must—
 
@@ -494,13 +494,13 @@ A justice must not perform any of the following functions unless that justice ha
 - (e) the budget for justices’ training in the area, and
 - (f) any requirements of the Lord Chief Justice to report on justices’ training.
 
-#### 26. Membership of FTAAAC[^key-14b88962b65741a5788c45f1e0f844aa]
+#### 26. Membership of FTAAAC[^c-14b88962b65741a5788c45f1e0f844aa]
 
 (1) Each FTAAAC must consist of—
 
 - (a) between 6 and 24 family justices from the relevant local justice areas appointed in accordance with Rule 27 (the “family justice members”);
 - (b) one justice nominated by the Magistrates’ Association, and
-- (c) the justices' legal adviser or an assistant nominated by them who is also a person authorised to exercise functions under section 28(1) of the Courts Act 2003[^key-01279bf85c9efa0265e2eadf4af5a31e].
+- (c) the justices' legal adviser or an assistant nominated by them who is also a person authorised to exercise functions under section 28(1) of the Courts Act 2003[^c-01279bf85c9efa0265e2eadf4af5a31e].
 
 (2) The following justices must not be members of an FTAAAC —
 
@@ -519,7 +519,7 @@ A justice must not perform any of the following functions unless that justice ha
 
 (4) The individuals referred to in Rule 26(3)(a), (b) and (c) must not attend any part of a meeting at which the committee considers matters relating to individual justices.
 
-#### 27. FTAAAC selection panel[^key-86183c0fe35edd421b7017564219056d]
+#### 27. FTAAAC selection panel[^c-86183c0fe35edd421b7017564219056d]
 
 (1) A selection panel must appoint the family justice members of the FTAAAC.
 
@@ -550,7 +550,7 @@ A justice must not perform any of the following functions unless that justice ha
 
 ### CHAPTER 4 — Provisions relevant to both JTAAACs and FTAAACs
 
-#### 28. Miscellaneous provisions[^key-286500c0e12d9db3631dcf1aa0b7176e]
+#### 28. Miscellaneous provisions[^c-286500c0e12d9db3631dcf1aa0b7176e]
 
 (1) A justice member or family justice member (as the case may be)—
 
@@ -569,7 +569,7 @@ A justice must not perform any of the following functions unless that justice ha
 
 (4) The justice chosen must not serve as chairman of the JTAAAC or FTAAAC for more than three years in total.
 
-#### 29. JTAAAC and FTAAAC decisions[^key-f2d085434a999ae916d489014331f655]
+#### 29. JTAAAC and FTAAAC decisions[^c-f2d085434a999ae916d489014331f655]
 
 (1) A JTAAAC or FTAAAC may make decisions about individual justices with the participation of at least three of its members.
 
@@ -582,9 +582,9 @@ A justice must not perform any of the following functions unless that justice ha
 
 the meeting is quorate in relation to that discussion and any subsequent decision relating to that discussion.
 
-(4) When a JTAAAC or FTAAAC considers matters relating to approvals, authorisations or competences of individual justices, the justices' legal adviser[^key-3d1bdf986e7a762bdc600bea45492de0] (or nominated assistant) may act in an advisory capacity only.
+(4) When a JTAAAC or FTAAAC considers matters relating to approvals, authorisations or competences of individual justices, the justices' legal adviser[^c-3d1bdf986e7a762bdc600bea45492de0] (or nominated assistant) may act in an advisory capacity only.
 
-#### 30. Grant of approval or authorisation[^key-6957d87a9e387340283b0e2f7cdb66df]
+#### 30. Grant of approval or authorisation[^c-6957d87a9e387340283b0e2f7cdb66df]
 
 (1) In order to approve justices to preside in court or to authorise justices to sit as youth or family justices, a JTAAAC or FTAAAC must be satisfied that—
 
@@ -594,9 +594,9 @@ the meeting is quorate in relation to that discussion and any subsequent decisio
   - (i) has completed training courses approved by the Lord Chief Justice for that function, and
   - (ii) has been appraised as competent in that role in accordance with the appraisal scheme.
 
-(2) Additional justices may not be authorised to sit as youth or family justices or approved to preside in court unless the justices' legal adviser[^key-33b0d019af29ac22cbf67347685ce016] advises the JTAAAC or FTAAAC (as the case may be) that additional justices for that role are required in the relevant local justice area.
+(2) Additional justices may not be authorised to sit as youth or family justices or approved to preside in court unless the justices' legal adviser[^c-33b0d019af29ac22cbf67347685ce016] advises the JTAAAC or FTAAAC (as the case may be) that additional justices for that role are required in the relevant local justice area.
 
-#### 31. Review of competence[^key-215e7ff6a042d8924c0830de2d41ac48]
+#### 31. Review of competence[^c-215e7ff6a042d8924c0830de2d41ac48]
 
 (1) This Rule applies to justices in respect of their competence to sit in the adult court (other than their competence to preside in court).
 
@@ -606,7 +606,7 @@ the meeting is quorate in relation to that discussion and any subsequent decisio
 - (b) if the justice has not completed, within a reasonable time, one or more training requirements designated as essential pursuant to Rule 21(2)(c);
 - (c) following any appraisal or series of appraisals carried out in accordance with this Rule or with the appraisals scheme;
 - (d) where, following a complaint about a justices’ performance, the JTAAAC is satisfied that the justice has failed to demonstrate the necessary competence, or
-- (e) where, following a referral in relation to a complaint considered under rules made under regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2014 or regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2023[^key-dc88a2d27bf9984af736232fad0c9c50], the JTAAAC is satisfied that the justice has failed to demonstrate the necessary competence.
+- (e) where, following a referral in relation to a complaint considered under rules made under regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2014 or regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2023[^c-dc88a2d27bf9984af736232fad0c9c50], the JTAAAC is satisfied that the justice has failed to demonstrate the necessary competence.
 
 (3) A JTAAAC may review the competence of any justice returning from absence of six months or more.
 
@@ -615,9 +615,9 @@ the meeting is quorate in relation to that discussion and any subsequent decisio
 - (a) confirming that it is satisfied as to the competence of the justice;
 - (b) requiring the justice to undertake training or further training;
 - (c) requiring the justice to undertake one or more appraisal or further appraisals;
-- (d) where satisfied that a justice has failed over a period of time to reach the required standard, instructing the justices' legal adviser[^key-0f2dc7604ab2cfc0f0a409d8800dd573] to report the matter to the appropriate advisory committee.
+- (d) where satisfied that a justice has failed over a period of time to reach the required standard, instructing the justices' legal adviser[^c-0f2dc7604ab2cfc0f0a409d8800dd573] to report the matter to the appropriate advisory committee.
 
-#### 32. Review of approvals and authorisations[^key-7b10f50aa3ba0683aa08e4c1d869c019]
+#### 32. Review of approvals and authorisations[^c-7b10f50aa3ba0683aa08e4c1d869c019]
 
 (1) This Rule applies to justices in respect of—
 
@@ -634,7 +634,7 @@ the meeting is quorate in relation to that discussion and any subsequent decisio
 - (f) if the justice has not completed, within a reasonable time, one or more training requirements designated as essential pursuant to Rule 21(2)(c) or 25(2)(c);
 - (g) following an appraisal or series of appraisals carried out in accordance with this Rule or the appraisal scheme;
 - (h) where, following a complaint about a justices’ performance or suitability to perform a particular function, the JTAAAC or FTAAAC is satisfied that the justice has failed to demonstrate the necessary competence in the role to which the approval or authorisation relates, or
-- (i) where, following a referral in relation to a complaint considered under rules made under regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2014 or regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2023[^key-726a42d0ac0984741898f3c20d545316], the JTAAAC or FTAAAC is satisfied that the justice has failed to demonstrate the necessary competence in the role to which the approval or authorisation relates.
+- (i) where, following a referral in relation to a complaint considered under rules made under regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2014 or regulation 7 of the Judicial Discipline (Prescribed Procedures) Regulations 2023[^c-726a42d0ac0984741898f3c20d545316], the JTAAAC or FTAAAC is satisfied that the justice has failed to demonstrate the necessary competence in the role to which the approval or authorisation relates.
 
 (3) A JTAAAC or FTAAAC may review the approval or authorisation of any justice returning from absence of six months or more.
 
@@ -647,9 +647,9 @@ the meeting is quorate in relation to that discussion and any subsequent decisio
 - (c) requiring the justice to undertake one or more appraisal or further appraisals;
 - (d) revoking the approval to preside in court (either generally or in a specific role);
 - (e) recommending the revocation of an authorisation to sit as a youth justice or family justice;
-- (f) where satisfied that a justice has failed over a period of time to reach the required standard, instructing the justices' legal adviser[^key-3bfa7f4e40d1c72cb8253296cf0cf929] to report the matter to the appropriate Lord Chancellor’s advisory committee on Justices of the Peace.
+- (f) where satisfied that a justice has failed over a period of time to reach the required standard, instructing the justices' legal adviser[^c-3bfa7f4e40d1c72cb8253296cf0cf929] to report the matter to the appropriate Lord Chancellor’s advisory committee on Justices of the Peace.
 
-#### 33. Revocation of approvals and authorisations[^key-1370c4343195418154e936bcac1cbed7]
+#### 33. Revocation of approvals and authorisations[^c-1370c4343195418154e936bcac1cbed7]
 
 A JTAAAC or FTAAAC (as appropriate) may revoke an approval of a justice to preside in court, or recommend to the Lord Chief Justice to revoke the authorisation to sit as a family justice or youth justice, as follows—
 
@@ -661,7 +661,7 @@ A JTAAAC or FTAAAC (as appropriate) may revoke an approval of a justice to presi
 - (f) where the JTAAAC or FTAAAC is satisfied that the justice is no longer suitable to sit in the role to which the authorisation relates, or
 - (g) where the JTAAAC or FTAAAC is satisfied that the justice fails to demonstrate the necessary competence in the role to which the approval or authorisation relates.
 
-#### 34. Reconsideration and review procedure[^key-db8ed37f85e9a00c16882950992ad651]
+#### 34. Reconsideration and review procedure[^c-db8ed37f85e9a00c16882950992ad651]
 
 (1) This Rule applies where a justice is dissatisfied with a decision made by a JTAAAC or FTAAAC—
 
@@ -679,16 +679,16 @@ A JTAAAC or FTAAAC (as appropriate) may revoke an approval of a justice to presi
 - (a) confirm the JTAAAC’s or FTAAAC’s decision, or
 - (b) direct the JTAAAC or FTAAAC to reconsider its decision.
 
-#### 35. Review of excess authorisations[^key-be908f0e147e62d11f0afa5aee977e59]
+#### 35. Review of excess authorisations[^c-be908f0e147e62d11f0afa5aee977e59]
 
-(1) Where a JTAAAC or FTAAAC (as appropriate) is advised by the justices' legal adviser[^key-4056655ccf1fcdffd19e3bc57d3f8c77] that the number of justices required to sit as a family or youth justice is excessive, to the extent that justices cannot sit sufficiently often to meet their minimum sitting requirements, it may—
+(1) Where a JTAAAC or FTAAAC (as appropriate) is advised by the justices' legal adviser[^c-4056655ccf1fcdffd19e3bc57d3f8c77] that the number of justices required to sit as a family or youth justice is excessive, to the extent that justices cannot sit sufficiently often to meet their minimum sitting requirements, it may—
 
 - (a) invite authorised justices to resign their authorisation, or
 - (b) recommend that the Lord Chief Justice revokes any authorisation.
 
 (2) Any recommendation to revoke any authorisation under this Rule must be decided by lot in such a way as to retain a sufficient number of justices approved to preside to enable them to carry out their functions.
 
-#### 36. Consequential provision[^key-aec5534c1c1a117f675ba994a513a0ab]
+#### 36. Consequential provision[^c-aec5534c1c1a117f675ba994a513a0ab]
 
 (1) The Family Court (Composition and Distribution of Business) Rules 2014[^f00011] are amended as follows.
 
@@ -746,9 +746,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12). Section 45 was substituted by the Courts Act 2003, section 50(1) and amended by the Constitutional Reform Act 2005, Schedule 4, paragraph 20.
 
-[^key-29e84f00b34ce6886fea6df8ba5f755a]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2016/709/article/1) in force at 31.7.2016, see [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/a)
+[^c-29e84f00b34ce6886fea6df8ba5f755a]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2016/709/article/1) in force at 31.7.2016, see [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/a)
 
-[^key-e37b83ef3bf5d58dfe78ec8d5757e78d]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2016/709/article/2) in force at 31.7.2016, see [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/a)
+[^c-e37b83ef3bf5d58dfe78ec8d5757e78d]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2016/709/article/2) in force at 31.7.2016, see [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/a)
 
 [^f00004]: Footnote: [S.I. 2005/553](https://www.legislation.gov.uk/uksi/2005/553), as amended by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879).
 
@@ -758,150 +758,150 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: [S.I. 2007/1609](https://www.legislation.gov.uk/uksi/2007/1609), as amended by [S.I. 2011/1493](https://www.legislation.gov.uk/uksi/2011/1493) and [2014/879](https://www.legislation.gov.uk/uksi/2014/879).
 
-[^key-bbfec2e5a7714a2125dd9a77123c8714]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2016/709/article/3) in force at 31.7.2016, see [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/a)
+[^c-bbfec2e5a7714a2125dd9a77123c8714]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2016/709/article/3) in force at 31.7.2016, see [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/a)
 
-[^key-7ed1b04a264cf1fa209fb033d8e5b33a]: Textual amendment: Words in [rule 3](https://www.legislation.gov.uk/uksi/2016/709/rule/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(2)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-7ed1b04a264cf1fa209fb033d8e5b33a]: Textual amendment: Words in [rule 3](https://www.legislation.gov.uk/uksi/2016/709/rule/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(2)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-3fd32f74f0e470becc95eab9aea5e08f]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2016/709/article/4) in force at 31.7.2016, see [rule 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/b)
+[^c-3fd32f74f0e470becc95eab9aea5e08f]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2016/709/article/4) in force at 31.7.2016, see [rule 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/b)
 
-[^key-34087109797cf9ab9022596e13870ece]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2016/709/article/5) in force at 31.7.2016, see [rule 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/b)
+[^c-34087109797cf9ab9022596e13870ece]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2016/709/article/5) in force at 31.7.2016, see [rule 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/b)
 
 [^f00008]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 16A was inserted by section 48 Criminal Justice and Courts Act [2015 c. 2](https://www.legislation.gov.uk/ukpga/2015/2).
 
-[^key-f770f5ad9b997294d6b45b2bda001ad5]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2016/709/article/6) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-f770f5ad9b997294d6b45b2bda001ad5]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2016/709/article/6) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-94ee249e7a1c3b27bf3ac033bfb754fc]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2016/709/article/7) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-94ee249e7a1c3b27bf3ac033bfb754fc]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2016/709/article/7) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-0e6b07141f0587dfa2c32a174cbc5d98]: Textual amendment: Words in [rule 7(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/7/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(a)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-0e6b07141f0587dfa2c32a174cbc5d98]: Textual amendment: Words in [rule 7(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/7/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(a)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-415ba0f23101566c76f6dbdc6811f498]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2016/709/article/8) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-415ba0f23101566c76f6dbdc6811f498]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2016/709/article/8) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-a6b18794c690bf89f9bb6dace7536466]: Textual amendment: Words in [rule 8(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/8/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-a6b18794c690bf89f9bb6dace7536466]: Textual amendment: Words in [rule 8(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/8/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-e7ea88c733b6e8e2aefee7e5a25509c5]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2016/709/article/9) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-e7ea88c733b6e8e2aefee7e5a25509c5]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2016/709/article/9) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-0373d935f6e3bd61034184eefda6ad92]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2016/709/article/10) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-0373d935f6e3bd61034184eefda6ad92]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2016/709/article/10) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-fb3cfcc0045eb94f64bab6d416a4d240]: Textual amendment: Words in [rule 10(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-fb3cfcc0045eb94f64bab6d416a4d240]: Textual amendment: Words in [rule 10(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-7bb264e7f0432e7b8bf24ca6578cd0c9]: Textual amendment: Words in [rule 10(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-7bb264e7f0432e7b8bf24ca6578cd0c9]: Textual amendment: Words in [rule 10(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-0f9ccd3d17d899c0b5d03ca4b12744c8]: Textual amendment: Words in [rule 10(4)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/4) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-0f9ccd3d17d899c0b5d03ca4b12744c8]: Textual amendment: Words in [rule 10(4)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/4) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-a84e5720c9890f5d013eb2c07871f924]: Textual amendment: Words in [rule 10(7)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/7) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-a84e5720c9890f5d013eb2c07871f924]: Textual amendment: Words in [rule 10(7)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/7) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-94199de929625185bf98197a80948abb]: Textual amendment: Words in [rule 10(8)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/8) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-94199de929625185bf98197a80948abb]: Textual amendment: Words in [rule 10(8)](https://www.legislation.gov.uk/uksi/2016/709/rule/10/8) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-f4f4b28655e12c624b8eb888ff1dc6cc]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2016/709/article/11) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-f4f4b28655e12c624b8eb888ff1dc6cc]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2016/709/article/11) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-be61dda1eaf63a6ffa9ebc97a88eae2a]: Textual amendment: Words in [rule 11(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/11/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-be61dda1eaf63a6ffa9ebc97a88eae2a]: Textual amendment: Words in [rule 11(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/11/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-ed8f0bf5c87eaca3f2f67042bad40658]: Textual amendment: Words in [rule 11(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/11/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-ed8f0bf5c87eaca3f2f67042bad40658]: Textual amendment: Words in [rule 11(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/11/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-fb01e6eddd882d42610f7a46db77b195]: Textual amendment: Words in [rule 11(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/11/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-fb01e6eddd882d42610f7a46db77b195]: Textual amendment: Words in [rule 11(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/11/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-6ded0379b93094c3efbdb443a93d310f]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2016/709/article/12) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-6ded0379b93094c3efbdb443a93d310f]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2016/709/article/12) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-19acd9eba33fed42d1f62c65a5742a6c]: Textual amendment: Words in [rule 12(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/12/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-19acd9eba33fed42d1f62c65a5742a6c]: Textual amendment: Words in [rule 12(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/12/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-acaea888236aebc29af659e0f29a94d0]: Textual amendment: Words in [rule 12(5)](https://www.legislation.gov.uk/uksi/2016/709/rule/12/5) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-acaea888236aebc29af659e0f29a94d0]: Textual amendment: Words in [rule 12(5)](https://www.legislation.gov.uk/uksi/2016/709/rule/12/5) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-ac259166002cf4f1584bc0a8006c6754]: Textual amendment: Words in [rule 12(6)](https://www.legislation.gov.uk/uksi/2016/709/rule/12/6) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-ac259166002cf4f1584bc0a8006c6754]: Textual amendment: Words in [rule 12(6)](https://www.legislation.gov.uk/uksi/2016/709/rule/12/6) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-eb915d0586baca7b2c1735c993c11deb]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2016/709/article/13) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-eb915d0586baca7b2c1735c993c11deb]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2016/709/article/13) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-7bc7dad833e3f5223e8ff60b4f351805]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/13/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(f)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-7bc7dad833e3f5223e8ff60b4f351805]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/13/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(f)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-15db873ae46c946b77d051d2c8a9690a]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/13/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(f)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-15db873ae46c946b77d051d2c8a9690a]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/13/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(f)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-9b24b8c6585ae8f1b8367cd73b540dce]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2016/709/article/14) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-9b24b8c6585ae8f1b8367cd73b540dce]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2016/709/article/14) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-eab0c99b4b6d96d5c670a9fa113e9837]: Textual amendment: Words in [rule 14(1)(b)](https://www.legislation.gov.uk/uksi/2016/709/rule/14/1/b) substituted (6.4.2020) by virtue of [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(g)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-eab0c99b4b6d96d5c670a9fa113e9837]: Textual amendment: Words in [rule 14(1)(b)](https://www.legislation.gov.uk/uksi/2016/709/rule/14/1/b) substituted (6.4.2020) by virtue of [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(g)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-9b2d4cbf6e9ffa241630a5b6c10ee5a9]: Textual amendment: Words in [rule 14(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/14/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(g)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-9b2d4cbf6e9ffa241630a5b6c10ee5a9]: Textual amendment: Words in [rule 14(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/14/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(g)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-58068062401c74c816567b4b27999e3b]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2016/709/article/15) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-58068062401c74c816567b4b27999e3b]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2016/709/article/15) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-b21d6d94c59d87709a9ad0e1659ddc96]: Textual amendment: Words in [rule 15(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/15/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(h)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-b21d6d94c59d87709a9ad0e1659ddc96]: Textual amendment: Words in [rule 15(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/15/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(h)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-4f4eea60a1196622f4a85d8f9069c833]: Textual amendment: Words in [rule 15(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/15/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(h)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-4f4eea60a1196622f4a85d8f9069c833]: Textual amendment: Words in [rule 15(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/15/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(h)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-41720711109fa69e1c548fcc782d7c09]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2016/709/article/16) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-41720711109fa69e1c548fcc782d7c09]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2016/709/article/16) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-c4c663aa58ac7481aee7559cdf84577d]: Textual amendment: Words in [rule 16(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-c4c663aa58ac7481aee7559cdf84577d]: Textual amendment: Words in [rule 16(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-33a6a05903f02967eba490482b5454b2]: Textual amendment: Words in [rule 16(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-33a6a05903f02967eba490482b5454b2]: Textual amendment: Words in [rule 16(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-255479283eca4124ae243d791d81557a]: Textual amendment: Words in [rule 16(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-255479283eca4124ae243d791d81557a]: Textual amendment: Words in [rule 16(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-fcb56211073412e6c4950e382083e806]: Textual amendment: Words in [rule 16(4)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/4) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-fcb56211073412e6c4950e382083e806]: Textual amendment: Words in [rule 16(4)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/4) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-efce8f58206eedaeed926fa22256ee1c]: Textual amendment: Words in [rule 16(5)(a)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/5/a) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-efce8f58206eedaeed926fa22256ee1c]: Textual amendment: Words in [rule 16(5)(a)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/5/a) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-64b7d2e15b91f6982f4046e0c0685733]: Textual amendment: Words in [rule 16(6)(b)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/6/b) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-64b7d2e15b91f6982f4046e0c0685733]: Textual amendment: Words in [rule 16(6)(b)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/6/b) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-18975298edfadbae3050ffafce76fce1]: Textual amendment: Words in [rule 16(7)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/7) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-18975298edfadbae3050ffafce76fce1]: Textual amendment: Words in [rule 16(7)](https://www.legislation.gov.uk/uksi/2016/709/rule/16/7) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(i)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-00d42991acce98fb0ec895ca897e839d]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2016/709/article/17) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-00d42991acce98fb0ec895ca897e839d]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2016/709/article/17) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-bbd26584f0e4a1d37c87105ccfecad2a]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/17/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(j)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/j) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-bbd26584f0e4a1d37c87105ccfecad2a]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2016/709/rule/17/3) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(j)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/j) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-085126f8425181e22b7e5d7e03e06abb]: Textual amendment: Words in [rule 17(5)(a)](https://www.legislation.gov.uk/uksi/2016/709/rule/17/5/a) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(j)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/j) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-085126f8425181e22b7e5d7e03e06abb]: Textual amendment: Words in [rule 17(5)(a)](https://www.legislation.gov.uk/uksi/2016/709/rule/17/5/a) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(3)(j)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/3/j) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-333470b2afd4af5315b5d56e3d716af7]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2016/709/article/18) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
+[^c-333470b2afd4af5315b5d56e3d716af7]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2016/709/article/18) in force at 31.7.2016, see [rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/c)
 
-[^key-fd2f86656f625fdb1873fbfd74ab50ea]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2016/709/article/19) in force at 31.7.2016, see [rule 1(2)(d)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/d)
+[^c-fd2f86656f625fdb1873fbfd74ab50ea]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2016/709/article/19) in force at 31.7.2016, see [rule 1(2)(d)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/d)
 
-[^key-4f2a0e475a2ceeddad6dda989dcd5399]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2016/709/article/20) in force at 1.4.2017, see [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/a)
+[^c-4f2a0e475a2ceeddad6dda989dcd5399]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2016/709/article/20) in force at 1.4.2017, see [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/a)
 
-[^key-01bda2d036f367238f811700f13ff0c3]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2016/709/article/21) in force at 1.4.2017, see [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/a)
+[^c-01bda2d036f367238f811700f13ff0c3]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2016/709/article/21) in force at 1.4.2017, see [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/a)
 
-[^key-142333d2f1098549f1f104f5edf9a9ce]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2016/709/article/22) in force at 1.4.2017, see [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/a)
+[^c-142333d2f1098549f1f104f5edf9a9ce]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2016/709/article/22) in force at 1.4.2017, see [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/a)
 
-[^key-5f3f8ecabd63880df61c43c71ff09f93]: Textual amendment: [Rule 22(1)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/22/1/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(4)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-5f3f8ecabd63880df61c43c71ff09f93]: Textual amendment: [Rule 22(1)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/22/1/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(4)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-3768290ef0d2ec2e1498bd7c64dd10be]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2016/709/article/23) in force at 31.7.2016, see [rule 1(2)(e)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/e)
+[^c-3768290ef0d2ec2e1498bd7c64dd10be]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2016/709/article/23) in force at 31.7.2016, see [rule 1(2)(e)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/e)
 
-[^key-5391bf8156e2147d4a70908e36250aff]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2016/709/article/24) in force at 1.4.2017, see [rule 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/b)
+[^c-5391bf8156e2147d4a70908e36250aff]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2016/709/article/24) in force at 1.4.2017, see [rule 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/b)
 
-[^key-f64df7a97e1f5221a0a5bfede4c75cd2]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2016/709/article/25) in force at 1.4.2017, see [rule 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/b)
+[^c-f64df7a97e1f5221a0a5bfede4c75cd2]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2016/709/article/25) in force at 1.4.2017, see [rule 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/b)
 
-[^key-14b88962b65741a5788c45f1e0f844aa]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2016/709/article/26) in force at 1.4.2017, see [rule 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/b)
+[^c-14b88962b65741a5788c45f1e0f844aa]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2016/709/article/26) in force at 1.4.2017, see [rule 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/b)
 
-[^key-01279bf85c9efa0265e2eadf4af5a31e]: Textual amendment: [Rule 26(1)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/26/1/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(5)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-01279bf85c9efa0265e2eadf4af5a31e]: Textual amendment: [Rule 26(1)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/26/1/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(5)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-86183c0fe35edd421b7017564219056d]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2016/709/article/27) in force at 31.7.2016, see [rule 1(2)(f)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/f)
+[^c-86183c0fe35edd421b7017564219056d]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2016/709/article/27) in force at 31.7.2016, see [rule 1(2)(f)](https://www.legislation.gov.uk/uksi/2016/709/article/1/2/f)
 
-[^key-286500c0e12d9db3631dcf1aa0b7176e]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2016/709/article/28) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-286500c0e12d9db3631dcf1aa0b7176e]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2016/709/article/28) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-f2d085434a999ae916d489014331f655]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2016/709/article/29) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-f2d085434a999ae916d489014331f655]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2016/709/article/29) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-3d1bdf986e7a762bdc600bea45492de0]: Textual amendment: Words in [rule 29(4)](https://www.legislation.gov.uk/uksi/2016/709/rule/29/4) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(a)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-3d1bdf986e7a762bdc600bea45492de0]: Textual amendment: Words in [rule 29(4)](https://www.legislation.gov.uk/uksi/2016/709/rule/29/4) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(a)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-6957d87a9e387340283b0e2f7cdb66df]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2016/709/article/30) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-6957d87a9e387340283b0e2f7cdb66df]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2016/709/article/30) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-33b0d019af29ac22cbf67347685ce016]: Textual amendment: Words in [rule 30(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/30/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(b)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-33b0d019af29ac22cbf67347685ce016]: Textual amendment: Words in [rule 30(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/30/2) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(b)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-215e7ff6a042d8924c0830de2d41ac48]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2016/709/article/31) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-215e7ff6a042d8924c0830de2d41ac48]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2016/709/article/31) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-dc88a2d27bf9984af736232fad0c9c50]: Textual amendment: Words in [rule 31(2)(e)](https://www.legislation.gov.uk/uksi/2016/709/rule/31/2/e) substituted (13.10.2023) by [The Judicial Discipline (Prescribed Procedures) Regulations 2023 (S.I. 2023/1005)](https://www.legislation.gov.uk/uksi/2023/1005), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1005/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2023/1005/regulation/23/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1005/regulation/3))
+[^c-dc88a2d27bf9984af736232fad0c9c50]: Textual amendment: Words in [rule 31(2)(e)](https://www.legislation.gov.uk/uksi/2016/709/rule/31/2/e) substituted (13.10.2023) by [The Judicial Discipline (Prescribed Procedures) Regulations 2023 (S.I. 2023/1005)](https://www.legislation.gov.uk/uksi/2023/1005), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1005/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2023/1005/regulation/23/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1005/regulation/3))
 
-[^key-0f2dc7604ab2cfc0f0a409d8800dd573]: Textual amendment: Words in [rule 31(4)(d)](https://www.legislation.gov.uk/uksi/2016/709/rule/31/4/d) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-0f2dc7604ab2cfc0f0a409d8800dd573]: Textual amendment: Words in [rule 31(4)(d)](https://www.legislation.gov.uk/uksi/2016/709/rule/31/4/d) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(c)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-7b10f50aa3ba0683aa08e4c1d869c019]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2016/709/article/32) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-7b10f50aa3ba0683aa08e4c1d869c019]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2016/709/article/32) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-726a42d0ac0984741898f3c20d545316]: Textual amendment: Words in [rule 32(2)(i)](https://www.legislation.gov.uk/uksi/2016/709/rule/32/2/i) substituted (13.10.2023) by [The Judicial Discipline (Prescribed Procedures) Regulations 2023 (S.I. 2023/1005)](https://www.legislation.gov.uk/uksi/2023/1005), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1005/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2023/1005/regulation/23/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1005/regulation/3))
+[^c-726a42d0ac0984741898f3c20d545316]: Textual amendment: Words in [rule 32(2)(i)](https://www.legislation.gov.uk/uksi/2016/709/rule/32/2/i) substituted (13.10.2023) by [The Judicial Discipline (Prescribed Procedures) Regulations 2023 (S.I. 2023/1005)](https://www.legislation.gov.uk/uksi/2023/1005), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1005/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2023/1005/regulation/23/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1005/regulation/3))
 
-[^key-3bfa7f4e40d1c72cb8253296cf0cf929]: Textual amendment: Words in [rule 32(5)(f)](https://www.legislation.gov.uk/uksi/2016/709/rule/32/5/f) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-3bfa7f4e40d1c72cb8253296cf0cf929]: Textual amendment: Words in [rule 32(5)(f)](https://www.legislation.gov.uk/uksi/2016/709/rule/32/5/f) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(d)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-1370c4343195418154e936bcac1cbed7]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2016/709/article/33) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-1370c4343195418154e936bcac1cbed7]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2016/709/article/33) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-db8ed37f85e9a00c16882950992ad651]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2016/709/article/34) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-db8ed37f85e9a00c16882950992ad651]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2016/709/article/34) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-be908f0e147e62d11f0afa5aee977e59]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2016/709/article/35) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-be908f0e147e62d11f0afa5aee977e59]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2016/709/article/35) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
-[^key-4056655ccf1fcdffd19e3bc57d3f8c77]: Textual amendment: Words in [rule 35(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/35/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-4056655ccf1fcdffd19e3bc57d3f8c77]: Textual amendment: Words in [rule 35(1)](https://www.legislation.gov.uk/uksi/2016/709/rule/35/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 19(6)(e)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/19/6/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-aec5534c1c1a117f675ba994a513a0ab]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2016/709/article/36) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
+[^c-aec5534c1c1a117f675ba994a513a0ab]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2016/709/article/36) in force at 1.4.2017, see [rule 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/article/1/3/c)
 
 [^f00011]: Footnote: [S.I. 2014/840](https://www.legislation.gov.uk/uksi/2014/840), as amended by [S.I. 2014/3297](https://www.legislation.gov.uk/uksi/2014/3297).

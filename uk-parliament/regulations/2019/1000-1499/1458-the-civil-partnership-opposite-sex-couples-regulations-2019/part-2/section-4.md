@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Formation of civil partnerships by opposite-sex couples in England and Wales[^key-1d4c705c1a3380e10fe4430f3e8cf0eb]
+## 4. Formation of civil partnerships by opposite-sex couples in England and Wales[^c-1d4c705c1a3380e10fe4430f3e8cf0eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 3(1) of the Civil Partnership Act 2004, omit paragraph (a).
 
 ## Annotations
 
-[^key-1d4c705c1a3380e10fe4430f3e8cf0eb]: Commencement: Reg. 4 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-1d4c705c1a3380e10fe4430f3e8cf0eb]: Commencement: Reg. 4 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)

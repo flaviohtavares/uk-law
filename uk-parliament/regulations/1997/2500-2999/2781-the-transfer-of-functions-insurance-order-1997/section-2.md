@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Transfer of functions to the Treasury[^key-c3fa0f779310cb9544a37f6417a2db64]
+## 2. Transfer of functions to the Treasury[^c-c3fa0f779310cb9544a37f6417a2db64]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ are hereby transferred to the Treasury.
 
 ## Annotations
 
-[^key-c3fa0f779310cb9544a37f6417a2db64]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1997/2781/article/2) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-c3fa0f779310cb9544a37f6417a2db64]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1997/2781/article/2) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
 
 [^f00003]: Footnote: [1975 c. 75](https://www.legislation.gov.uk/ukpga/1975/75).
 

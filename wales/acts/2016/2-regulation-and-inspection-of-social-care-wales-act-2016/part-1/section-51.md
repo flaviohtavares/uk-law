@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Penalties upon conviction[^key-dca967894a32e208f7ff996afc806ff5]
+## 51. Penalties upon conviction[^c-dca967894a32e208f7ff996afc806ff5]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dca967894a32e208f7ff996afc806ff5]: Commencement: S. 51 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-dca967894a32e208f7ff996afc806ff5]: Commencement: S. 51 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)

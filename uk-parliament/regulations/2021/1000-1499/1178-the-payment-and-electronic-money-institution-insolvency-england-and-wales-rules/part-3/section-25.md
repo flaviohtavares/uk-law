@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Submission of accounts[^key-8d85e1a0d9a0d10d28e2719d5b45ac4a]
+## 25. Submission of accounts[^c-8d85e1a0d9a0d10d28e2719d5b45ac4a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d85e1a0d9a0d10d28e2719d5b45ac4a]: Commencement: Rule 25 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-8d85e1a0d9a0d10d28e2719d5b45ac4a]: Commencement: Rule 25 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

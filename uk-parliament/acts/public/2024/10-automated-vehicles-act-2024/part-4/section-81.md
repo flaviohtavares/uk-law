@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Interpretation and supplementary provision[^key-ec9e152ee5bc2d8a7258cd0f30568520]
+## 81. Interpretation and supplementary provision[^c-ec9e152ee5bc2d8a7258cd0f30568520]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec9e152ee5bc2d8a7258cd0f30568520]: Commencement: S. 81 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-ec9e152ee5bc2d8a7258cd0f30568520]: Commencement: S. 81 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

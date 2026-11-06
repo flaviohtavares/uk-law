@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Reports: preparation[^key-e1b24be7a0dddfd9ab88a0d70f00588a]
+## 66. Reports: preparation[^c-e1b24be7a0dddfd9ab88a0d70f00588a]
 
 *Extent: N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
 
 (4) Nothing in this regulation or in regulation 67 prejudices the generality of regulation 6(1).
 
-(5) In this regulation any reference to annual and half yearly accounting periods of a company is a reference to those periods as determined in relation to that company in accordance with FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f].
+(5) In this regulation any reference to annual and half yearly accounting periods of a company is a reference to those periods as determined in relation to that company in accordance with FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f].
 
 ## Annotations
 
-[^key-e1b24be7a0dddfd9ab88a0d70f00588a]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2004/335/regulation/66) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-e1b24be7a0dddfd9ab88a0d70f00588a]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2004/335/regulation/66) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

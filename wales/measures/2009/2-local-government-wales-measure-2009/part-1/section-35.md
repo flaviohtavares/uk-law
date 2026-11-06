@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Part 1: interpretation[^key-18a6ab28a4dc5969f05e70a857016e6d]
+## 35. Part 1: interpretation[^c-18a6ab28a4dc5969f05e70a857016e6d]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18a6ab28a4dc5969f05e70a857016e6d]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2009/2/section/35) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(m)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/m)
+[^c-18a6ab28a4dc5969f05e70a857016e6d]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2009/2/section/35) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(m)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/m)

@@ -60,7 +60,7 @@ Section 6.
   > - (b) in Northern Ireland, means a bookmaker’s licence as defined in Article 2(2) of the said Order of 1985;
 
   ;
-- (b)[^key-3b0264f5007eed7de9bcdcabf93c2635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3b0264f5007eed7de9bcdcabf93c2635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the words from “and ”betting office licence”’to the end shall be omitted.
 
 #### Bingo duty
@@ -99,12 +99,12 @@ Section 6.
 
 #### Administration of betting duties
 
-**11.** (1) In Schedule 1 (betting duties) [^key-89e650eeb713edd3fa694c715fc1f2cc]....
+**11.** (1) In Schedule 1 (betting duties) [^c-89e650eeb713edd3fa694c715fc1f2cc]....
 
 (2) In paragraph 15 of that Schedule—
 
-- (a)[^key-21959c8472c43be94a40c5f042402fa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-21959c8472c43be94a40c5f042402fa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-21959c8472c43be94a40c5f042402fa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-21959c8472c43be94a40c5f042402fa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after that sub-paragraph there shall be inserted the following sub-paragraphs—
 
   > (5) Subject to sub-paragraph (6) below, where under sub-paragraph (1) above a court orders that a betting office licence held by a person in respect of premises in Northern Ireland shall be forfeited and cancelled, no court of summary jurisdiction shall entertain an application by that person for the grant (or provisional grant) of a new betting office licence in respect of those premises or any other premises situated in the same petty sessions district as those premises made less than twelve months after that forfeiture and cancellation.
@@ -196,7 +196,7 @@ any reference to the sub-divisional commander of the police sub-division shall b
 - (a) that Act extended to Northern Ireland at the time when the regulations were made, and
 - (b) the regulations were made in relation to Northern Ireland as well as to Great Britain.
 
-(2)[^key-8646217b5dcf999fd37d39859563cba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8646217b5dcf999fd37d39859563cba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -204,15 +204,15 @@ any reference to the sub-divisional commander of the police sub-division shall b
 
 [^c13534461]: Textual amendment: [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/2/2) repealed (1.2.1994) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 213](https://www.legislation.gov.uk/ukpga/1993/34/section/213), [Sch. 23 Pt. I](https://www.legislation.gov.uk/ukpga/1993/34/schedule/23/part/I); [S.I. 1993/2842](https://www.legislation.gov.uk/uksi/1993/2842), [art. 3(3)](https://www.legislation.gov.uk/uksi/1993/2842/article/3/3).
 
-[^key-3b0264f5007eed7de9bcdcabf93c2635]: Textual amendment: [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/4/b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
+[^c-3b0264f5007eed7de9bcdcabf93c2635]: Textual amendment: [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/4/b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
 
 [^c13534471]: Textual amendment: [Sch. 4 Pt I para. 8](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/8) repealed (1.7.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. V(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/V/2); [S.I. 1997/1433](https://www.legislation.gov.uk/uksi/1997/1433), [art. 2](https://www.legislation.gov.uk/uksi/1997/1433/article/2)
 
 [^c13534481]: Textual amendment: [Sch. 4 Pt. I para. 9](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/part/I/paragraph/9) repealed (1.7.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. V(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/V/2); [S.I. 1997/1433](https://www.legislation.gov.uk/uksi/1997/1433), [art. 2](https://www.legislation.gov.uk/uksi/1997/1433/article/2)
 
-[^key-89e650eeb713edd3fa694c715fc1f2cc]: Textual amendment: Words in [Sch. 4 para. 11(1)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/11/1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
+[^c-89e650eeb713edd3fa694c715fc1f2cc]: Textual amendment: Words in [Sch. 4 para. 11(1)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/11/1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
 
-[^key-21959c8472c43be94a40c5f042402fa6]: Textual amendment: [Sch. 4 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/11/2/a)[(b)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/11/2/b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
+[^c-21959c8472c43be94a40c5f042402fa6]: Textual amendment: [Sch. 4 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/11/2/a)[(b)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/4/paragraph/11/2/b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
 
 [^c13534491]: Marginal citation: [1960 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1960/22)
 
@@ -222,4 +222,4 @@ any reference to the sub-divisional commander of the police sub-division shall b
 
 [^c13534521]: Marginal citation: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63).
 
-[^key-8646217b5dcf999fd37d39859563cba1]: Textual amendment: Sch. 4 para. 16(2) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 4(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/4/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-8646217b5dcf999fd37d39859563cba1]: Textual amendment: Sch. 4 para. 16(2) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 4(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/4/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

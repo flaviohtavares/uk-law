@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Prohibition of paid canvassers[^key-ced16f98c88510df6558505cb20f73bd]
+## 79. Prohibition of paid canvassers[^c-ced16f98c88510df6558505cb20f73bd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If, either before, during or after a Senedd election, a person (“**P**”) is 
 
 ## Annotations
 
-[^key-ced16f98c88510df6558505cb20f73bd]: Commencement: Art. 79 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ced16f98c88510df6558505cb20f73bd]: Commencement: Art. 79 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

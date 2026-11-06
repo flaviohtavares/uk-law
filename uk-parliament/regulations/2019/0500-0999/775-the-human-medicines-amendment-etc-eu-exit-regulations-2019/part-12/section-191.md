@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Amendment of regulation 233 (exemption for supply etc under a PGD by a person conducting a retail pharmacy business)[^M_I_fd6ed0a5-9b8b-463a-e5c3-9d43ebec5164][^key-b807b4dbd7752eba06001018ecfe6a9d]
+## 191. Amendment of regulation 233 (exemption for supply etc under a PGD by a person conducting a retail pharmacy business)[^M_I_fd6ed0a5-9b8b-463a-e5c3-9d43ebec5164][^c-b807b4dbd7752eba06001018ecfe6a9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ For regulation 233(7) substitute—
 
 [^M_I_fd6ed0a5-9b8b-463a-e5c3-9d43ebec5164]: Commencement: Reg. 191 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b807b4dbd7752eba06001018ecfe6a9d]: Textual amendment: Reg. 191 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/145)
+[^c-b807b4dbd7752eba06001018ecfe6a9d]: Textual amendment: Reg. 191 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/145)

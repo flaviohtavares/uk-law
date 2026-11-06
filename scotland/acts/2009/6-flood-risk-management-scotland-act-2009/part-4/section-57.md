@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Limits of general power[^key-187da5274856e2af07869dd82036eef6]
+## 57. Limits of general power[^c-187da5274856e2af07869dd82036eef6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-187da5274856e2af07869dd82036eef6]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2009/6/section/57) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/401/article/3/a)
+[^c-187da5274856e2af07869dd82036eef6]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2009/6/section/57) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/401/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 333. Effect on powers of compulsory acquisition where no intention to acquire[^key-58c41bf006c88bba88e14a225f15c41d]
+## 333. Effect on powers of compulsory acquisition where no intention to acquire[^c-58c41bf006c88bba88e14a225f15c41d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58c41bf006c88bba88e14a225f15c41d]: Commencement: S. 333 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-58c41bf006c88bba88e14a225f15c41d]: Commencement: S. 333 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

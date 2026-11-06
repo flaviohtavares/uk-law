@@ -42,14 +42,14 @@ An Act to make provision, by the creation of an offence and the conferring of po
 - (a) without reasonable excuse, he remains unlawfully at large at any time after becoming so at large by virtue of the expiry of the period for which he was temporarily released; or
 - (b) knowing or believing an order recalling him to have been made and while unlawfully at large by virtue of such an order, he fails, without reasonable excuse, to take all necessary steps for complying as soon as reasonably practicable with that order.
 
-(1A)[^key-86cb7d031265cb394b344dad4436842f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-86cb7d031265cb394b344dad4436842f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Subsection (1) above shall not apply in the case of a person temporarily released from a secure training centre or secure college[^key-241d4bc44579f7e5740849407d920422].
+(2) Subsection (1) above shall not apply in the case of a person temporarily released from a secure training centre or secure college[^c-241d4bc44579f7e5740849407d920422].
 
-(3)[^key-e286b396c6ab2765bde50e448cd804b2] A person guilty of an offence under this section is liable—
+(3)[^c-e286b396c6ab2765bde50e448cd804b2] A person guilty of an offence under this section is liable—
 
 - (a) on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine (or both), and
-- (b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-5ea5fd8fe9ac7964ebaafdf47ec1a404] or a fine (or both).
+- (b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-5ea5fd8fe9ac7964ebaafdf47ec1a404] or a fine (or both).
 
 (4) An offence under this section shall be taken to be committed at the place where the offender was required to be detained immediately before being temporarily released.
 
@@ -57,7 +57,7 @@ An Act to make provision, by the creation of an offence and the conferring of po
 
 (6) This section shall not apply where the period of temporary release expired, or the order of recall was made, before the commencement of this section.
 
-(7)[^key-3a369e3743947843d5c8e269fe675c5c] In relation to an offence committed before 2 May 2022[^key-338744fb76dc9ef2cf27012b38080ade], the reference in subsection (3)(b) to the general limit in a magistrates’ court[^key-aef8a315f57925bb66253db6cd20f235] is to be read as a reference to 6 months.
+(7)[^c-3a369e3743947843d5c8e269fe675c5c] In relation to an offence committed before 2 May 2022[^c-338744fb76dc9ef2cf27012b38080ade], the reference in subsection (3)(b) to the general limit in a magistrates’ court[^c-aef8a315f57925bb66253db6cd20f235] is to be read as a reference to 6 months.
 
 (8) In relation to an offence committed before section 85 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 comes into force, the reference in subsection (3)(b) to a fine is to be read as a reference to a fine not exceeding the statutory maximum.
 
@@ -72,7 +72,7 @@ An Act to make provision, by the creation of an offence and the conferring of po
 
 and in paragraph (d) of that subsection, for “a person” there shall be substituted “ any person whatever ”.
 
-(2)[^key-c074776a2442a079029606f9e33c25ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c074776a2442a079029606f9e33c25ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Short title, commencement and extent.
 
@@ -88,24 +88,24 @@ and in paragraph (d) of that subsection, for “a person” there shall be subst
 
 [^c830645]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
-[^key-86cb7d031265cb394b344dad4436842f]: Textual amendment: S. 1(1A) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/7); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-86cb7d031265cb394b344dad4436842f]: Textual amendment: S. 1(1A) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/7); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
-[^key-241d4bc44579f7e5740849407d920422]: Textual amendment: Words in s. 1(2) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/11); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-241d4bc44579f7e5740849407d920422]: Textual amendment: Words in s. 1(2) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/11); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-e286b396c6ab2765bde50e448cd804b2]: Textual amendment: S. 1(3) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/13/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/13/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/9)
+[^c-e286b396c6ab2765bde50e448cd804b2]: Textual amendment: S. 1(3) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/13/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/13/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/9)
 
-[^key-5ea5fd8fe9ac7964ebaafdf47ec1a404]: Textual amendment: Words in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1995/16/section/1/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-5ea5fd8fe9ac7964ebaafdf47ec1a404]: Textual amendment: Words in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1995/16/section/1/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
 [^c830646]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
-[^key-3a369e3743947843d5c8e269fe675c5c]: Textual amendment: S. 1(7)(8) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/13/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/9)
+[^c-3a369e3743947843d5c8e269fe675c5c]: Textual amendment: S. 1(7)(8) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/13/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/9)
 
-[^key-338744fb76dc9ef2cf27012b38080ade]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1995/16/section/1/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-338744fb76dc9ef2cf27012b38080ade]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1995/16/section/1/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-aef8a315f57925bb66253db6cd20f235]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1995/16/section/1/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-aef8a315f57925bb66253db6cd20f235]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1995/16/section/1/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
 [^c830647]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-c074776a2442a079029606f9e33c25ae]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1995/16/section/2/2) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/u)[(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-c074776a2442a079029606f9e33c25ae]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1995/16/section/2/2) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/u)[(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
 [^c830649]: Subordinate legislation: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1995/16/section/3/2) power fully exercised (28.7.1995): 5.9.1995 appointed day by [S.I. 1995/2021](https://www.legislation.gov.uk/uksi/1995/2021), [art. 2](https://www.legislation.gov.uk/uksi/1995/2021/article/2)

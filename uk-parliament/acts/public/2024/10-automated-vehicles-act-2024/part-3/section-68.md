@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Report of findings[^key-e32883f6469f9ac2e47119a5941f7099]
+## 68. Report of findings[^c-e32883f6469f9ac2e47119a5941f7099]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e32883f6469f9ac2e47119a5941f7099]: Commencement: S. 68 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-e32883f6469f9ac2e47119a5941f7099]: Commencement: S. 68 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

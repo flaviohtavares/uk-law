@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-fd572dde8c3854c6ed002bf8ab5212dd][^key-8ae4ff8027d0f095103252d9a44c9a26] In Part 1 of the Fire and Rescue Services Act 2004 (fire and rescue authorities) after section 5 insert—
+(1)[^c-fd572dde8c3854c6ed002bf8ab5212dd][^c-8ae4ff8027d0f095103252d9a44c9a26] In Part 1 of the Fire and Rescue Services Act 2004 (fire and rescue authorities) after section 5 insert—
 
 > **5A. Powers of certain fire and rescue authorities**
 >
@@ -302,11 +302,11 @@ summary: ''
 >
 > In calculating any period of days for the purposes of sections 5G to 5K, no account is to be taken of any time during which the National Assembly for Wales is dissolved or during which the Assembly is in recess for more than four days.
 
-(2)[^key-c0a2dacf74902ff4e5de7a4122d78012][^key-b64e201286a38761932dfb1997162243] Omit section 5 of the Fire and Rescue Services Act 2004 (power of combined fire and rescue authorities corresponding to the power under section 111 of the Local Government Act 1972).
+(2)[^c-c0a2dacf74902ff4e5de7a4122d78012][^c-b64e201286a38761932dfb1997162243] Omit section 5 of the Fire and Rescue Services Act 2004 (power of combined fire and rescue authorities corresponding to the power under section 111 of the Local Government Act 1972).
 
-(3)[^key-3782b91dbecbc28b13cc80de52fc129e] In section 60(1) of the Fire and Rescue Services Act 2004 (meaning of “subordinate legislation”) for “by the Secretary of State under this Act” substitute “ under this Act by the Secretary of State or the Welsh Ministers ”.
+(3)[^c-3782b91dbecbc28b13cc80de52fc129e] In section 60(1) of the Fire and Rescue Services Act 2004 (meaning of “subordinate legislation”) for “by the Secretary of State under this Act” substitute “ under this Act by the Secretary of State or the Welsh Ministers ”.
 
-(4)[^key-f63c133bf87990491413bb41a5d500e9] In section 60(4) of the Fire and Rescue Services Act 2004 (orders and regulations subject to affirmative procedure) for “subordinate legislation which amends or repeals any Act or provision of an Act may” substitute
+(4)[^c-f63c133bf87990491413bb41a5d500e9] In section 60(4) of the Fire and Rescue Services Act 2004 (orders and regulations subject to affirmative procedure) for “subordinate legislation which amends or repeals any Act or provision of an Act may” substitute
 
 > —
 >
@@ -321,7 +321,7 @@ summary: ''
 
 .
 
-(5)[^key-f63c133bf87990491413bb41a5d500e9] In section 60(5) of the Fire and Rescue Services Act 2004 (orders and regulations subject to negative procedure) for “legislation, apart from an order under section 30 or 61, is” substitute
+(5)[^c-f63c133bf87990491413bb41a5d500e9] In section 60(5) of the Fire and Rescue Services Act 2004 (orders and regulations subject to negative procedure) for “legislation, apart from an order under section 30 or 61, is” substitute
 
 > legislation made by the Secretary of State, apart from—
 >
@@ -335,7 +335,7 @@ summary: ''
 
 .
 
-(6)[^key-3782b91dbecbc28b13cc80de52fc129e] In section 60 of the Fire and Rescue Services Act 2004 (orders and regulations) after subsection (5) insert—
+(6)[^c-3782b91dbecbc28b13cc80de52fc129e] In section 60 of the Fire and Rescue Services Act 2004 (orders and regulations) after subsection (5) insert—
 
 > (6) A statutory instrument containing (alone or with other provisions)—
 >
@@ -358,8 +358,8 @@ summary: ''
 
 (7) In section 62 of the Fire and Rescue Services Act 2004 (application of Act in Wales)—
 
-- (a)[^key-3782b91dbecbc28b13cc80de52fc129e] in subsection (1)(b) (references to Secretary of State in sections 60 and 61) for “sections 60 and” substitute “ section ”,
-- (b)[^key-1e4b4522adad1630b37dec55c45402c0][^key-eced273821e25a224c397b79a39d8da8] after subsection (1) insert—
+- (a)[^c-3782b91dbecbc28b13cc80de52fc129e] in subsection (1)(b) (references to Secretary of State in sections 60 and 61) for “sections 60 and” substitute “ section ”,
+- (b)[^c-1e4b4522adad1630b37dec55c45402c0][^c-eced273821e25a224c397b79a39d8da8] after subsection (1) insert—
 
   > (1A) The reference in subsection (1)(a) to Parts 1 to 6 does not include—
   >
@@ -369,9 +369,9 @@ summary: ''
   > - (d) sections 5F to 5L.
 
   , and
-- (c)[^key-3782b91dbecbc28b13cc80de52fc129e] omit subsection (3) (disapplication of section 60(4) and (5)).
+- (c)[^c-3782b91dbecbc28b13cc80de52fc129e] omit subsection (3) (disapplication of section 60(4) and (5)).
 
-(8)[^key-f63c133bf87990491413bb41a5d500e9] In section 146A of the Local Government Act 1972 (application of provisions to certain joint and other authorities)—
+(8)[^c-f63c133bf87990491413bb41a5d500e9] In section 146A of the Local Government Act 1972 (application of provisions to certain joint and other authorities)—
 
 - (a) in subsection (1) after “Subject to subsections (1ZA), (1ZB)” insert “ , (1ZC) ”, and
 - (b) after subsection (1ZB) insert—
@@ -380,18 +380,18 @@ summary: ''
 
 ## Annotations
 
-[^key-fd572dde8c3854c6ed002bf8ab5212dd]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
+[^c-fd572dde8c3854c6ed002bf8ab5212dd]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
 
-[^key-8ae4ff8027d0f095103252d9a44c9a26]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)
+[^c-8ae4ff8027d0f095103252d9a44c9a26]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)
 
-[^key-c0a2dacf74902ff4e5de7a4122d78012]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/2) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
+[^c-c0a2dacf74902ff4e5de7a4122d78012]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/2) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
 
-[^key-b64e201286a38761932dfb1997162243]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/2) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/887/article/2/b)
+[^c-b64e201286a38761932dfb1997162243]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/2) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/887/article/2/b)
 
-[^key-3782b91dbecbc28b13cc80de52fc129e]: Commencement: [S. 9(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/3)[(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/6)[(7)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/a)[(7)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/c) in force at 1.4.2012 by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/887/article/2/c)
+[^c-3782b91dbecbc28b13cc80de52fc129e]: Commencement: [S. 9(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/3)[(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/6)[(7)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/a)[(7)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/c) in force at 1.4.2012 by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/887/article/2/c)
 
-[^key-f63c133bf87990491413bb41a5d500e9]: Commencement: [S. 9(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/4)[(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/5)[(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/8) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
+[^c-f63c133bf87990491413bb41a5d500e9]: Commencement: [S. 9(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/4)[(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/5)[(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/8) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
 
-[^key-1e4b4522adad1630b37dec55c45402c0]: Commencement: [S. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/b) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
+[^c-1e4b4522adad1630b37dec55c45402c0]: Commencement: [S. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/b) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c)
 
-[^key-eced273821e25a224c397b79a39d8da8]: Commencement: [S. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/b) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(d)(e)](https://www.legislation.gov.uk/wsi/2012/887/article/2/d/e)
+[^c-eced273821e25a224c397b79a39d8da8]: Commencement: [S. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/7/b) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(d)(e)](https://www.legislation.gov.uk/wsi/2012/887/article/2/d/e)

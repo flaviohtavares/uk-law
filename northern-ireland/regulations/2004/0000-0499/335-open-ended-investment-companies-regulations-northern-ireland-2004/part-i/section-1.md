@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-fe4bd60f73e12e369d67d900a9e90ea2]
+## 1. Citation, commencement and extent[^c-fe4bd60f73e12e369d67d900a9e90ea2]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe4bd60f73e12e369d67d900a9e90ea2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/335/regulation/1) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-fe4bd60f73e12e369d67d900a9e90ea2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/335/regulation/1) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

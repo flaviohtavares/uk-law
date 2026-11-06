@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84A. Cryptoassets etc[^key-c3509009e7fd8a7e3838d2f0011a2f6b]
+## 84A. Cryptoassets etc[^c-c3509009e7fd8a7e3838d2f0011a2f6b]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ in such a way as to ensure, or to make it virtually certain, that it will not be
 
 ## Annotations
 
-[^key-c3509009e7fd8a7e3838d2f0011a2f6b]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2002/29/section/84A) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
+[^c-c3509009e7fd8a7e3838d2f0011a2f6b]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2002/29/section/84A) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)

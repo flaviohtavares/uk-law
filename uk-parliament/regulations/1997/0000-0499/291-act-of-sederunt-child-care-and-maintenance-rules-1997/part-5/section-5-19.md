@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.19. Evidence adduced prior to confirmation of provisional order[^key-726c8ea5dd2e9538c9d53028e8ad066e]
+## 5.19. Evidence adduced prior to confirmation of provisional order[^c-726c8ea5dd2e9538c9d53028e8ad066e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-726c8ea5dd2e9538c9d53028e8ad066e]: Commencement: Rule 5.19 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-726c8ea5dd2e9538c9d53028e8ad066e]: Commencement: Rule 5.19 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

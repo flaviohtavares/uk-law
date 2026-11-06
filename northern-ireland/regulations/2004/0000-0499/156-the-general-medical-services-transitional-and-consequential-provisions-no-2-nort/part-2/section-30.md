@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Patients not seen within three years[^key-679ba1cb5dc3d9db9518e66f7d3c2c80]
+## 30. Patients not seen within three years[^c-679ba1cb5dc3d9db9518e66f7d3c2c80]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The term of a general medical services contract which gives effect to paragraph 
 
 ## Annotations
 
-[^key-679ba1cb5dc3d9db9518e66f7d3c2c80]: Commencement: Art. 30 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-679ba1cb5dc3d9db9518e66f7d3c2c80]: Commencement: Art. 30 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

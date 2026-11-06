@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Compliance with notices and directions[^key-665095872451bb62fd583340b31fdafb]
+## 53. Compliance with notices and directions[^c-665095872451bb62fd583340b31fdafb]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-665095872451bb62fd583340b31fdafb]: Commencement: Reg. 53 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-665095872451bb62fd583340b31fdafb]: Commencement: Reg. 53 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

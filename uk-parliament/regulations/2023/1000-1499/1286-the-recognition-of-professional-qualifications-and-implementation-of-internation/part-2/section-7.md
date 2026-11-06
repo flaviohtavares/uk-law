@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Recognition of professional qualifications[^key-050d7368b0204b674a8cd48b5de54acd]
+## 7. Recognition of professional qualifications[^c-050d7368b0204b674a8cd48b5de54acd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-050d7368b0204b674a8cd48b5de54acd]: Commencement: Reg. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-050d7368b0204b674a8cd48b5de54acd]: Commencement: Reg. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

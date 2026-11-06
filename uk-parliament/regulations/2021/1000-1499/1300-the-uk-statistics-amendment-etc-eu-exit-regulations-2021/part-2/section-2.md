@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Data Protection Act 2018[^key-1a13d0141d6d7ead24d37ceebb5af387]
+## 2. Amendment of the Data Protection Act 2018[^c-1a13d0141d6d7ead24d37ceebb5af387]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 1(3) of Schedule 1 to the Data Protection Act 2018[^f00003], in the
 
 ## Annotations
 
-[^key-1a13d0141d6d7ead24d37ceebb5af387]: Commencement: Reg. 2 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)
+[^c-1a13d0141d6d7ead24d37ceebb5af387]: Commencement: Reg. 2 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)
 
 [^f00003]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Paragraph 1(3) of Schedule 1 was amended by [S.I. 2019/489](https://www.legislation.gov.uk/uksi/2019/489).

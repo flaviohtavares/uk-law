@@ -50,7 +50,7 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement and extent[^key-c6ccd3515dbd70dc571bccc3eda73c1f]
+### 1. Citation and commencement and extent[^c-c6ccd3515dbd70dc571bccc3eda73c1f]
 
 (1) These Regulations may be cited as the Victims' Payments Regulations 2020.
 
@@ -72,7 +72,7 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 
 (7) Any other amendment made by these Regulations has the same extent as the provision it amends.
 
-### 2. Interpretation[^key-1fcad102a8950500f3163b5c2da1e708]
+### 2. Interpretation[^c-1fcad102a8950500f3163b5c2da1e708]
 
 (1) In these Regulations—
 
@@ -100,8 +100,8 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 - “**panel**” means a panel appointed by the President of the Board (other than an appeal panel);
 - “**permanent**”, in relation to disablement, means where, following appropriate clinical management of adequate duration, an injury has reached a steady or stable state at maximum medical improvement;
 - “**personal data**” means data within the meaning of section 3(2) of the Data Protection Act 2018 except that it also includes data relating to a deceased individual where the data would be personal data within the meaning of that section if it related to a living individual;
-- “**relevant incident**” means a Troubles-related incident determined by a panel under regulation 12(3)(b) or[^key-718284e7fabbdc0b847f62eea9baa90b] 12(3)(c) to be an incident in relation to which the applicant is entitled to victims' payments;
-- “**review panel**” means a panel appointed by the President of the Board under regulation 43(3)[^key-eaf38ade4f0df5e56497c319f2fdd418].
+- “**relevant incident**” means a Troubles-related incident determined by a panel under regulation 12(3)(b) or[^c-718284e7fabbdc0b847f62eea9baa90b] 12(3)(c) to be an incident in relation to which the applicant is entitled to victims' payments;
+- “**review panel**” means a panel appointed by the President of the Board under regulation 43(3)[^c-eaf38ade4f0df5e56497c319f2fdd418].
 
 (2) The Scheme established by these Regulations is to be known as the Troubles Permanent Disablement Payment Scheme.
 
@@ -109,13 +109,13 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 
 *Extent: N.I.*
 
-### 3. The Board[^key-1d0538e90abeb8a6ebf48ed26087f530]
+### 3. The Board[^c-1d0538e90abeb8a6ebf48ed26087f530]
 
 (1) The Victims' Payments Board is established.
 
 (2) Schedule 1 makes further provision about the Board.
 
-### 4. Principles[^key-7916796bacb08b90f7a6634862994f15]
+### 4. Principles[^c-7916796bacb08b90f7a6634862994f15]
 
 (1) When exercising functions under these Regulations, the Board must have regard to—
 
@@ -131,7 +131,7 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 
 *Extent: N.I.*
 
-### 5. Entitlement to victims' payments[^key-77104dc52926ca58fa9c2fc79818c895]
+### 5. Entitlement to victims' payments[^c-77104dc52926ca58fa9c2fc79818c895]
 
 (1) A person is entitled to victims' payments in respect of injury caused by a Troubles-related incident if—
 
@@ -149,7 +149,7 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 
 (2) But this entitlement is subject to regulation 6.
 
-(3) Paragraph (1)(a) does not apply to a person during an interim period specified under regulation 14(1)(c)(i) or (5)(c)(i)[^key-30dc95e88139f58c68bc35fbdf5082aa].
+(3) Paragraph (1)(a) does not apply to a person during an interim period specified under regulation 14(1)(c)(i) or (5)(c)(i)[^c-30dc95e88139f58c68bc35fbdf5082aa].
 
 (4) For the purpose of paragraph (1)(c)(ii)(dd)—
 
@@ -166,7 +166,7 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 - (a) acknowledge the harm suffered by those injured in the Troubles, and
 - (b) promote reconciliation between people in connection with Northern Ireland's troubled past.
 
-### 6. Convictions[^key-d0b3daaea54f70a6e2a73efbd36c8945]
+### 6. Convictions[^c-d0b3daaea54f70a6e2a73efbd36c8945]
 
 (1) A person is not entitled to victims' payments in relation to a particular Troubles-related incident where the person—
 
@@ -189,7 +189,7 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 
 (7) Until section 17 of the Management of Offenders (Scotland) Act 2019 [^c23972231] is in force, the reference in paragraph (6)(b) to an excluded sentence is be read as a reference to a sentence which is excluded from rehabilitation.
 
-### 7. Causation of injury[^key-04022d0f5189c05c6bab80a304204140]
+### 7. Causation of injury[^c-04022d0f5189c05c6bab80a304204140]
 
 (1) For the purpose of these Regulations, a person's injury may only be considered to be caused by a Troubles-related incident if it is suffered by that person when—
 
@@ -204,9 +204,9 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 - “**loved one**” means another person with whom a person has a close relationship of love and affection, and such a relationship will be presumed to exist between—
   - (a) two people who are married to each other, or are civil partners, or live together as husband and wife or as if they were civil partners, and
   - (b) a parent and child;
-- “**responding, in the course of employment, to a Troubles-related incident[^key-0f429704b31b716c518b11250be58f79]**” includes preventing, mitigating, or otherwise addressing the incident.
+- “**responding, in the course of employment, to a Troubles-related incident[^c-0f429704b31b716c518b11250be58f79]**” includes preventing, mitigating, or otherwise addressing the incident.
 
-### 8. Making of applications[^key-1dd321a601aff0876cb0d5285e7dbc67]
+### 8. Making of applications[^c-1dd321a601aff0876cb0d5285e7dbc67]
 
 (1) An application for victims' payments must—
 
@@ -226,14 +226,14 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 - (a) where there has been a material change of circumstance, or
 - (b) where the President considers that, having regard to the exceptional circumstances of the case, it is equitable to allow an application to be made.
 
-(4) For the purpose of paragraph (3) there has been a material change of circumstance[^key-0967aa9cc7eb1d2a39196ed07e7e4df5] where, in particular—
+(4) For the purpose of paragraph (3) there has been a material change of circumstance[^c-0967aa9cc7eb1d2a39196ed07e7e4df5] where, in particular—
 
 - (a) significant evidence relevant to the application has come to light, or
 - (b) the applicant reasonably considered that they were not entitled to victims' payments pursuant to regulation 6 but the applicant no longer has a conviction to which regulation 6(1)(b) applies or a relevant conviction.
 
 (5) In this regulation “**relevant conviction**” has the same meaning as in regulation 6.
 
-### 9. Transfer of entitlement on death[^key-cff4c7652e31a5e41f369bc0728fc797]
+### 9. Transfer of entitlement on death[^c-cff4c7652e31a5e41f369bc0728fc797]
 
 (1) On the death of a person entitled to victims' payments, a nominated person is entitled to such payments for the period of 10 years beginning with the date of death.
 
@@ -255,7 +255,7 @@ The Secretary of State has had regard to advice given by the Commission for Vict
 
 (7) In this regulation, “**carer's allowance**” means a carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 [^c23972241] or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23972251].
 
-### 10. Posthumous applications[^key-daba8a1015e3b6d5e916700c02ed2c22]
+### 10. Posthumous applications[^c-daba8a1015e3b6d5e916700c02ed2c22]
 
 (1) This regulation applies on the death of a person (“**the deceased**”) who would have been, before death, entitled to victims' payments if an application had been made in accordance with regulation 8.
 
@@ -284,7 +284,7 @@ a panel appointed for this purpose by the President of the Board must determine 
 
 (8) Paragraph (7)(a) does not apply in the case of a spouse or civil partner who was estranged from the deceased.
 
-(9) After making a determination under paragraph (4)[^key-c59adf935aac3d43fc6145bc60a011e3], the Board must as soon as reasonably practicable notify in writing the persons referred to in paragraph (4) of—
+(9) After making a determination under paragraph (4)[^c-c59adf935aac3d43fc6145bc60a011e3], the Board must as soon as reasonably practicable notify in writing the persons referred to in paragraph (4) of—
 
 - (a) the determination and the reason for it, and
 - (b) the right to appeal.
@@ -298,7 +298,7 @@ a panel appointed for this purpose by the President of the Board must determine 
 
 *Extent: N.I.*
 
-### 11. Priority of applications[^key-bd7c5784900de8eb7107d425067b9a62]
+### 11. Priority of applications[^c-bd7c5784900de8eb7107d425067b9a62]
 
 (1) The Board may decide the order of priority in which applications for victims' payments are to be determined.
 
@@ -313,7 +313,7 @@ a panel appointed for this purpose by the President of the Board must determine 
 - (a) are terminally ill, and
 - (b) disclose that fact to the Board.
 
-### 12. Determination by the Board[^key-2bd116236f53590895dd30f393885e4a]
+### 12. Determination by the Board[^c-2bd116236f53590895dd30f393885e4a]
 
 (1) This regulation applies on receipt by the Board of an application made in accordance with regulation 8.
 
@@ -329,7 +329,7 @@ a panel appointed for this purpose by the President of the Board must determine 
 
 (5) In making determinations under paragraph (3)(b) and (c) a panel (other than an appeal panel) is bound by the assessment by a health care professional of the degree of relevant disablement of the applicant.
 
-### 13. Assessment of degree of relevant disablement[^key-ff5a6b04a568ff3f7be4bca9cef11e3b]
+### 13. Assessment of degree of relevant disablement[^c-ff5a6b04a568ff3f7be4bca9cef11e3b]
 
 (1) If the determination of the panel is (subject to assessment by a health care professional of the degree of relevant disablement of the applicant) that the applicant is entitled to victims' payments, the Board must arrange for the applicant to be assessed by a health care professional.
 
@@ -342,7 +342,7 @@ a panel appointed for this purpose by the President of the Board must determine 
   - (i) specifying the assessed degree of relevant disablement, and
   - (ii) reporting the reason for the assessment.
 
-### 14. Interim assessments[^key-f987168493827bc687167d90cff181dd]
+### 14. Interim assessments[^c-f987168493827bc687167d90cff181dd]
 
 (1) Where the condition of the applicant does not allow the degree of permanent disablement to be assessed, the health care professional must—
 
@@ -352,7 +352,7 @@ a panel appointed for this purpose by the President of the Board must determine 
   - (i) specifying the interim period and the interim assessment, and
   - (ii) reporting the reasons for the assessments.
 
-(2) The interim period is to be a maximum of 2 years (but this is subject to paragraphs (5) and (6))[^key-3a23cfe7712d37950e931dcd57519714].
+(2) The interim period is to be a maximum of 2 years (but this is subject to paragraphs (5) and (6))[^c-3a23cfe7712d37950e931dcd57519714].
 
 (3) The Board must make arrangements for the applicant to be reassessed by a health care professional before the end of the interim period.
 
@@ -380,42 +380,42 @@ a panel appointed for this purpose by the President of the Board must determine 
 - (a) assess the degree of permanent disablement so far as it is possible, and
 - (b) make a report to the Board of the assessed degree of permanent disablement and the reason for that assessment.
 
-### 15. Assessment by a health care professional[^key-0419de5f530df528936928c78deeed2b][^key-a033a1c036a0aba1594da746ce0459c4][^key-6daf20f94502dd59b0281ed81d5f6fa2]
+### 15. Assessment by a health care professional[^c-0419de5f530df528936928c78deeed2b][^c-a033a1c036a0aba1594da746ce0459c4][^c-6daf20f94502dd59b0281ed81d5f6fa2]
 
-(1)[^key-0419de5f530df528936928c78deeed2b] Where an assessment is to be carried out by a health care professional, the Board must provide that health care professional with any relevant information obtained under regulation 29 or otherwise in the possession of the Board.
+(1)[^c-0419de5f530df528936928c78deeed2b] Where an assessment is to be carried out by a health care professional, the Board must provide that health care professional with any relevant information obtained under regulation 29 or otherwise in the possession of the Board.
 
-(2)[^key-0419de5f530df528936928c78deeed2b] A health care professional must assess the degree of relevant disablement by doing one or more of the following—
+(2)[^c-0419de5f530df528936928c78deeed2b] A health care professional must assess the degree of relevant disablement by doing one or more of the following—
 
 - (a) considering any relevant information provided by the applicant or the Board;
 - (b) carrying out an examination of the applicant;
 - (c) considering the report of another health care professional who has considered any relevant information or carried out an examination of the applicant.
 
-(3)[^key-0419de5f530df528936928c78deeed2b] Where a health care professional considers that an examination is necessary for the purpose of assessing the degree of relevant disablement, the health care professional may request that the applicant attends for, or submits to, an examination.
+(3)[^c-0419de5f530df528936928c78deeed2b] Where a health care professional considers that an examination is necessary for the purpose of assessing the degree of relevant disablement, the health care professional may request that the applicant attends for, or submits to, an examination.
 
-(4)[^key-0419de5f530df528936928c78deeed2b] Paragraph (5) applies where—
+(4)[^c-0419de5f530df528936928c78deeed2b] Paragraph (5) applies where—
 
 - (a) a health care professional has made a request under paragraph (3), and
 - (b) the applicant has unreasonably refused to comply with the request.
 
-(5)[^key-0419de5f530df528936928c78deeed2b] Any issue for which an examination is necessary for that issue to be proven is deemed not to be proven.
+(5)[^c-0419de5f530df528936928c78deeed2b] Any issue for which an examination is necessary for that issue to be proven is deemed not to be proven.
 
-(6)[^key-0419de5f530df528936928c78deeed2b] The Board must make arrangements to ensure that only health care professionals with—
+(6)[^c-0419de5f530df528936928c78deeed2b] The Board must make arrangements to ensure that only health care professionals with—
 
 - (a) experience and training in disability assessment medicine, and
 - (b) such other experience and training as the Board considers appropriate,
 
 carry out assessments under these Regulations.
 
-(7)[^key-0419de5f530df528936928c78deeed2b] In this regulation, “**relevant information**” means information relevant to the decisions the health care professional is required to make.
+(7)[^c-0419de5f530df528936928c78deeed2b] In this regulation, “**relevant information**” means information relevant to the decisions the health care professional is required to make.
 
-(8)[^key-a033a1c036a0aba1594da746ce0459c4][^key-6daf20f94502dd59b0281ed81d5f6fa2] Schedule 2 makes further provision regarding the assessment of the degree of relevant disablement.
+(8)[^c-a033a1c036a0aba1594da746ce0459c4][^c-6daf20f94502dd59b0281ed81d5f6fa2] Schedule 2 makes further provision regarding the assessment of the degree of relevant disablement.
 
-### 16. Assessment of degree of disablement: posthumous applications[^key-2f898fa52a61ad4f6627074a3a2eb7ef]
+### 16. Assessment of degree of disablement: posthumous applications[^c-2f898fa52a61ad4f6627074a3a2eb7ef]
 
 (1) This regulation applies where—
 
 - (a) an application has been made in a case where regulation 10 applies, and
-- (b) the determination of the panel is (subject to assessment by a health care professional of the degree of relevant disablement of the deceased) [^key-eac7cd03a1b1cc6ec5b88d840f55e5b5]... that the applicant is entitled to victims' payments.
+- (b) the determination of the panel is (subject to assessment by a health care professional of the degree of relevant disablement of the deceased) [^c-eac7cd03a1b1cc6ec5b88d840f55e5b5]... that the applicant is entitled to victims' payments.
 
 (2) The Board must—
 
@@ -433,7 +433,7 @@ carry out assessments under these Regulations.
 
 (4) In this regulation, “**relevant information**” means information relevant to the decisions the health care professional is required to make.
 
-### 17. Notification to the applicant[^key-b32ae07364be37604f2fdbb48c3812e3]
+### 17. Notification to the applicant[^c-b32ae07364be37604f2fdbb48c3812e3]
 
 Following determination of eligibility for victims' payments, the Board must as soon as reasonably practicable notify the applicant in writing of the following matters—
 
@@ -446,7 +446,7 @@ Following determination of eligibility for victims' payments, the Board must as 
 
 ## PART 5 — Payments
 
-### 18. Determination of amount of victims' payments[^key-10420fe77dcb0b4a0ebbd8ba4506c44a]
+### 18. Determination of amount of victims' payments[^c-10420fe77dcb0b4a0ebbd8ba4506c44a]
 
 *Extent: N.I.*
 
@@ -462,7 +462,7 @@ Following determination of eligibility for victims' payments, the Board must as 
 
 (6) Subject to regulation 21, a person is entitled to victims' payments from the date the Board determines the applicant is entitled to victims' payments.
 
-### 19. Adjustment in respect of other payments[^key-b159a88b313a8819e9f170591a8ecf59]
+### 19. Adjustment in respect of other payments[^c-b159a88b313a8819e9f170591a8ecf59]
 
 *Extent: N.I.*
 
@@ -488,7 +488,7 @@ Following determination of eligibility for victims' payments, the Board must as 
 - (k) any payment made under the National Health Service (Scotland) (Injury Benefits) Regulations 1998 [^c23972341], the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001 [^c23972351] or the National Health Service (Injury Benefits) Regulations 1995 [^c23972361];
 - (l) any benefit that is equivalent or substantially similar to those listed in sub-paragraphs (a)-(k) above (including benefits awarded under the legislation of another country or dependent territory).
 
-### 20. Adjustment in respect of past compensation[^key-ff516eeec1169d903a740f3513b215e9]
+### 20. Adjustment in respect of past compensation[^c-ff516eeec1169d903a740f3513b215e9]
 
 *Extent: N.I.*
 
@@ -504,7 +504,7 @@ Following determination of eligibility for victims' payments, the Board must as 
 - (b) in settlement of a claim (whether or not proceedings on the claim were brought before a court), or
 - (c) under a scheme established under a statutory provision.
 
-(3) The Board may, to the extent it[^key-237e405663220a766189adc33410c52c] considers appropriate, adjust the amount of victims' payments payable to the person in respect of the amount compensation mentioned in paragraph (1)(b) which is in excess of the amount of exempted compensation.
+(3) The Board may, to the extent it[^c-237e405663220a766189adc33410c52c] considers appropriate, adjust the amount of victims' payments payable to the person in respect of the amount compensation mentioned in paragraph (1)(b) which is in excess of the amount of exempted compensation.
 
 (4) In considering whether, and to what extent, to exercise the power in paragraph (3), the Board must have regard in particular to —
 
@@ -538,7 +538,7 @@ Following determination of eligibility for victims' payments, the Board must as 
 - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
 - (b) where an order under section 19 of the Bank of England Act 1998 [^c23972371] is in force, any equivalent rate determined by the Treasury under that section.
 
-### 21. Backdating[^key-4c4b075d330bd081b668601308dff99c]
+### 21. Backdating[^c-4c4b075d330bd081b668601308dff99c]
 
 *Extent: N.I.*
 
@@ -556,7 +556,7 @@ Following determination of eligibility for victims' payments, the Board must as 
 
 (4) For the purpose of determining the amount of victims' payments payable in respect of a past period, the reference in regulation 18 to a rate specified from time to time is a reference to the rate specified at the time the amount of victims' payments is determined.
 
-### 22. Notification to the applicant[^key-c61b195d0cd3050b3ff09edc0a8b8b0d]
+### 22. Notification to the applicant[^c-c61b195d0cd3050b3ff09edc0a8b8b0d]
 
 *Extent: N.I.*
 
@@ -566,7 +566,7 @@ After making a determination of the amount of victims' payments payable to an ap
 - (b) a summary of the reason for the determination, and
 - (c) the right to appeal.
 
-### 23. Making of payments[^key-3f10f08bc2834319f6156d22daf8778e]
+### 23. Making of payments[^c-3f10f08bc2834319f6156d22daf8778e]
 
 *Extent: N.I.*
 
@@ -576,7 +576,7 @@ After making a determination of the amount of victims' payments payable to an ap
 
 (3) The Board may make payments by whatever means the Board considers appropriate.
 
-### 24. Lump sums[^key-67cf1f061cd9daa63d4e2f3adf7ec41f]
+### 24. Lump sums[^c-67cf1f061cd9daa63d4e2f3adf7ec41f]
 
 *Extent: N.I.*
 
@@ -597,7 +597,7 @@ After making a determination of the amount of victims' payments payable to an ap
 - (a) at the same time as an application for victims' payments;
 - (b) whether or not the person is over the age of 60 at the time of the application.
 
-(4)[^key-7b89028ef4393ce21b6121d0659d6a85] Subject to paragraph (5), in the case of a person to whom paragraph (1)(a) or (b) applies, the lump sum is the amount of victims’ payments that would be payable to the person in the period of ten years beginning with the date of the application to receive a lump sum.
+(4)[^c-7b89028ef4393ce21b6121d0659d6a85] Subject to paragraph (5), in the case of a person to whom paragraph (1)(a) or (b) applies, the lump sum is the amount of victims’ payments that would be payable to the person in the period of ten years beginning with the date of the application to receive a lump sum.
 
 (5) Where an application to receive a lump sum is made at the same time as an application for victims' payments, the lump sum must include any amount of victims' payments payable in accordance with regulation 21.
 
@@ -612,7 +612,7 @@ After making a determination of the amount of victims' payments payable to an ap
 - (a) has no further entitlement to victims' payments (and accordingly regulation 23(1) does not apply), and
 - (b) may not bring an appeal.
 
-### 25. Overpayments[^key-6567d975802e5cb9a8a2e71c2651d7b0]
+### 25. Overpayments[^c-6567d975802e5cb9a8a2e71c2651d7b0]
 
 *Extent: N.I.*
 
@@ -633,7 +633,7 @@ After making a determination of the amount of victims' payments payable to an ap
 - (a) the amount the Board is seeking to recover;
 - (b) the reason the Board considers that a payment has been made in excess of entitlement.
 
-### 26. Disregard of payments and lump sums for certain purposes[^key-506fb225598c36a73bbc56c102df2a3b]
+### 26. Disregard of payments and lump sums for certain purposes[^c-506fb225598c36a73bbc56c102df2a3b]
 
 (1) A payment of victims' payments or a lump sum is to be disregarded—
 
@@ -664,7 +664,7 @@ After making a determination of the amount of victims' payments payable to an ap
     - (i) Part 1 of the Welfare Reform Act 2012, or
     - (ii) Part 2 of the Welfare Reform (Northern Ireland) Order 2015.
 
-### 27. Exclusion of payments from benefit recovery schemes[^key-ad934dccf9ed58aed4f70172c9887e05]
+### 27. Exclusion of payments from benefit recovery schemes[^c-ad934dccf9ed58aed4f70172c9887e05]
 
 *Extent: N.I.*
 
@@ -692,7 +692,7 @@ After making a determination of the amount of victims' payments payable to an ap
 
 .
 
-### 28. Invalidity of assignment and bankruptcy[^key-def7dd7733dee7b3816d443598db074a]
+### 28. Invalidity of assignment and bankruptcy[^c-def7dd7733dee7b3816d443598db074a]
 
 (1) Subject to regulation 9, any assignment or charge, and any agreement to assign or charge, any payment to which a person is entitled under this Scheme is void.
 
@@ -700,7 +700,7 @@ After making a determination of the amount of victims' payments payable to an ap
 
 ## PART 6 — Information and disclosure
 
-### 29. Power to require information by notice[^key-5bc3c1bbcdba23c7777567832aecc0d8]
+### 29. Power to require information by notice[^c-5bc3c1bbcdba23c7777567832aecc0d8]
 
 (1) The Board may, by notice in writing, require any person to provide the Board with any specified records, documents or other information for the purpose of—
 
@@ -713,14 +713,14 @@ After making a determination of the amount of victims' payments payable to an ap
 
 (2) A notice under paragraph (1) may specify the date before which the notice must be complied with.
 
-(2A)[^key-84fc619d8cc3daa6d5279e2684e1fc6a] A person to whom a notice under this paragraph is given may make a claim to the Board that—
+(2A)[^c-84fc619d8cc3daa6d5279e2684e1fc6a] A person to whom a notice under this paragraph is given may make a claim to the Board that—
 
 - (a) the person is unable to comply with the notice, or
 - (b) it is not reasonable in all the circumstances to require the person to comply with the notice.
 
-(3) A claim under paragraph (2A)[^key-e8072c502b62397c6679aa0e0c38f612] must be considered on behalf of the Board by a panel appointed for this purpose.
+(3) A claim under paragraph (2A)[^c-e8072c502b62397c6679aa0e0c38f612] must be considered on behalf of the Board by a panel appointed for this purpose.
 
-(4) On considering a claim under paragraph (2A)[^key-e1d07729f6382654fba07b57c43d1eca], the panel may confirm, revoke or vary the notice.
+(4) On considering a claim under paragraph (2A)[^c-e1d07729f6382654fba07b57c43d1eca], the panel may confirm, revoke or vary the notice.
 
 (5) A person who is required by a notice under this regulation to provide records or documents must, if doing so would disclose information about another person which is irrelevant to the determination of the application under this Part and the disclosure of which would breach an obligation of confidence, provide the records or documents in a redacted form.
 
@@ -733,7 +733,7 @@ After making a determination of the amount of victims' payments payable to an ap
 
 (8) The duty to comply with a notice given under paragraph (1) is enforceable by civil proceedings by the President of the Board for an injunction or any other appropriate relief.
 
-### 30. Use of personal data by the Board[^key-2475f73be923a431de3e8c06a27091c9]
+### 30. Use of personal data by the Board[^c-2475f73be923a431de3e8c06a27091c9]
 
 *Extent: N.I.*
 
@@ -772,7 +772,7 @@ After making a determination of the amount of victims' payments payable to an ap
   - (d) the Department for Communities in Northern Ireland (in the case of a disclosure of social security information held, when disclosed to the Board under paragraph (1), for the purposes of the functions of a Northern Ireland department);
   - (e) the Commissioners or an officer of Revenue and Customs (in the case of a disclosure or further disclosure of HMRC information).
 
-### 31. Confidentiality of personal data[^key-bf2c736b1a7dd8c7ea05527ac61272dc]
+### 31. Confidentiality of personal data[^c-bf2c736b1a7dd8c7ea05527ac61272dc]
 
 (1) Personal data provided to the Board by an applicant, or disclosed pursuant to a notice under regulation 29, may not be disclosed—
 
@@ -808,7 +808,7 @@ After making a determination of the amount of victims' payments payable to an ap
 
 *Extent: N.I.*
 
-### 32. Finality of decisions[^key-1e622f6c5aebfcb56ab42d904619d121]
+### 32. Finality of decisions[^c-1e622f6c5aebfcb56ab42d904619d121]
 
 Where the Board determines—
 
@@ -817,7 +817,7 @@ Where the Board determines—
 
 subject to regulations 33, 34 and 43 the determination is final.
 
-### 33. Further assessment where disablement worsens[^key-6fcd57708f69c63f8902b024ed23605a]
+### 33. Further assessment where disablement worsens[^c-6fcd57708f69c63f8902b024ed23605a]
 
 (1) A person may apply to have their degree of permanent disablement assessed again where—
 
@@ -860,7 +860,7 @@ subject to regulations 33, 34 and 43 the determination is final.
 
 (7) A person may make an application under this regulation only once.
 
-### 34. Appeals[^key-626e86dde06a17a67828224c3c42d2a9]
+### 34. Appeals[^c-626e86dde06a17a67828224c3c42d2a9]
 
 (1) A person may appeal to the Board against—
 
@@ -870,7 +870,7 @@ subject to regulations 33, 34 and 43 the determination is final.
 - (d) an assessment of the degree of relevant disablement under regulations 13(3), 16(3) or 33(4);
 - (e) an interim assessment under regulation 14(1)(b);
 - (f) a determination of the amount of victims' payments payable to a person;
-- (g)[^key-4461227ef90243c806aa5a638e3a3f04] a determination made or varied under regulation 43(6)(b).
+- (g)[^c-4461227ef90243c806aa5a638e3a3f04] a determination made or varied under regulation 43(6)(b).
 
 (2) An appeal must be brought before the end of—
 
@@ -886,9 +886,9 @@ subject to regulations 33, 34 and 43 the determination is final.
 - (e) include such information as the President of the Board may from time to time determine, and
 - (f) specify the grounds on which the application is made.
 
-(4) A person may appeal to the Board against a determination notwithstanding that the determination has been reviewed by the Board under regulation 43, and in such a case the period mentioned in paragraph (2)(a)[^key-579d736068b05aad35f4eb6b592a6baf] begins with the date on which the result of the review was notified to the appellant.
+(4) A person may appeal to the Board against a determination notwithstanding that the determination has been reviewed by the Board under regulation 43, and in such a case the period mentioned in paragraph (2)(a)[^c-579d736068b05aad35f4eb6b592a6baf] begins with the date on which the result of the review was notified to the appellant.
 
-### 35. Appeal Panels[^key-ce89c4850b35ae594ba051398dad6090]
+### 35. Appeal Panels[^c-ce89c4850b35ae594ba051398dad6090]
 
 (1) An appeal is to be determined on behalf of the Board by a panel appointed by the President for that purpose.
 
@@ -899,19 +899,19 @@ subject to regulations 33, 34 and 43 the determination is final.
 
 (3) An appeal panel may not consider a determination made by a panel which included any member of the appeal panel.
 
-### 36. Determination of appeals[^key-67f8e45886103a0d424a27e8ee067522]
+### 36. Determination of appeals[^c-67f8e45886103a0d424a27e8ee067522]
 
-(1) An appeal under regulation 34(1)(a) to (f)[^key-3d1e563e7eb708c0b1e482c7b936745a] is by way of reconsideration of the determination or assessment against which the appeal is brought, and accordingly—
+(1) An appeal under regulation 34(1)(a) to (f)[^c-3d1e563e7eb708c0b1e482c7b936745a] is by way of reconsideration of the determination or assessment against which the appeal is brought, and accordingly—
 
 - (a) on an appeal under regulation 34(1)(a), paragraphs (5) to (9) of regulation 10 apply as they do to a determination under regulation 10(4);
 - (b) on an appeal under regulation 34(1)(b), the appeal panel must determine whether the appellant is entitled to victims' payments;
 - (c) on an appeal under regulation 34(1)(c), the appeal panel must determine the Troubles-related incident or incidents in relation to which the applicant is entitled to victims' payments;
-- (d) on an appeal[^key-d77b0a6fe087100f5d67c837b7fb2d8f] under regulation 34(1)(d) or (e), the appeal panel must consider whether the assessed degree of disablement provides a reasonable assessment of the degree of disablement resulting from the relevant incident;
-- (e) on an appeal[^key-9b2a1b7cf9cfa9f9618641fb6414bbd9] under regulation 34(1)(f)—
+- (d) on an appeal[^c-d77b0a6fe087100f5d67c837b7fb2d8f] under regulation 34(1)(d) or (e), the appeal panel must consider whether the assessed degree of disablement provides a reasonable assessment of the degree of disablement resulting from the relevant incident;
+- (e) on an appeal[^c-9b2a1b7cf9cfa9f9618641fb6414bbd9] under regulation 34(1)(f)—
   - (i) the appeal panel must determine the amount of victims' payments payable to the appellant, and
   - (ii) regulations 18(2) to (5) and 19 to 21 apply as they do to a determination under regulation 18(1), but with references to the applicant read as references to the appellant.
 
-(1A)[^key-9a18840db7627f1b413aa4ca6e85d37e] On an appeal under regulation 34(1)(g), where the determination reviewed under regulation 43 was a determination—
+(1A)[^c-9a18840db7627f1b413aa4ca6e85d37e] On an appeal under regulation 34(1)(g), where the determination reviewed under regulation 43 was a determination—
 
 - (a) under regulation 10(4), the appeal is, for the purposes of paragraph (1), to be treated as an appeal under paragraph 34(1)(a);
 - (b) under regulation 12(3)(b), the appeal is, for the purposes of paragraph (1), to be treated as an appeal under regulation 34(1)(b);
@@ -927,7 +927,7 @@ subject to regulations 33, 34 and 43 the determination is final.
 - (e) any advice from an advisor appointed under paragraph 13(1) of Schedule 1, and
 - (f) any other material which the panel considers relevant.
 
-### 37. Medical assessment on appeal[^key-ff2ea0b26f0b5ac95f68f87e2254e4fb]
+### 37. Medical assessment on appeal[^c-ff2ea0b26f0b5ac95f68f87e2254e4fb]
 
 (1) The appeal panel may, for the purpose of determining the appeal, require that the appellant is assessed by a health care professional.
 
@@ -942,14 +942,14 @@ subject to regulations 33, 34 and 43 the determination is final.
 
 (4) The appeal panel may, if it considers it appropriate, direct that the assessment under paragraph (2) is carried out, or not carried out, by a particular health care professional.
 
-### 38. Remedies[^key-f523c98e9e31c4f843372cf629942c01]
+### 38. Remedies[^c-f523c98e9e31c4f843372cf629942c01]
 
 (1) On determining an appeal, the appeal panel may—
 
 - (a) confirm a determination;
 - (b) make a new determination or vary a determination;
 - (c) increase, decrease or confirm an assessment of the degree of relevant disablement;
-- (d) exercise any function of a panel appointed by the President for any purpose under these Regulations[^key-899546abd68602d01cbe4a016ad7c3bc].
+- (d) exercise any function of a panel appointed by the President for any purpose under these Regulations[^c-899546abd68602d01cbe4a016ad7c3bc].
 
 (2) Following the determination of an appeal, the Board must as soon as reasonably practicable notify the appellant in writing of the following matters—
 
@@ -959,7 +959,7 @@ subject to regulations 33, 34 and 43 the determination is final.
 - (d) if the assessment of the degree of relevant disablement was changed, the new assessment, and
 - (e) a summary of the reasons for the matters in sub-paragraph (a) to (d).
 
-### 39. Hearings[^key-40c2500e381919c5bdc9a697ccb1bc3c]
+### 39. Hearings[^c-40c2500e381919c5bdc9a697ccb1bc3c]
 
 (1) An appeal panel may direct that an oral hearing is to be held if—
 
@@ -974,20 +974,20 @@ subject to regulations 33, 34 and 43 the determination is final.
 
 (5) The Board may, by notice in writing, require any person to attend a hearing convened by the panel and to give oral evidence on oath to the appeal panel.
 
-(6) A notice under paragraph (5)[^key-d063c40c1c0668efb2a17d694785ab1b] must specify one or more dates on which the person must attend, the earliest of which must be at least 21 days after the date of the notice.
+(6) A notice under paragraph (5)[^c-d063c40c1c0668efb2a17d694785ab1b] must specify one or more dates on which the person must attend, the earliest of which must be at least 21 days after the date of the notice.
 
-(7) A person to whom a notice under paragraph (5)[^key-fa542726494eceb9306f1c4cd01de930] is given may make a claim to the appeal panel that—
+(7) A person to whom a notice under paragraph (5)[^c-fa542726494eceb9306f1c4cd01de930] is given may make a claim to the appeal panel that—
 
 - (a) the person is unable to comply with the notice, or
 - (b) it is not reasonable in all the circumstances to require the person to comply with the notice.
 
-(8) On considering a claim[^key-a668d376dfed941a243645ded4af5e1a] under paragraph (7), the panel may confirm, revoke or vary the notice.
+(8) On considering a claim[^c-a668d376dfed941a243645ded4af5e1a] under paragraph (7), the panel may confirm, revoke or vary the notice.
 
-### 40. Representation[^key-561f5c216138488bc3aa16da24c6858e]
+### 40. Representation[^c-561f5c216138488bc3aa16da24c6858e]
 
 The appellant may appear in person at an oral hearing and may be represented by any person appointed for that purpose.
 
-### 41. Case management[^key-55f32594713c4e6aa6676832b472b14e]
+### 41. Case management[^c-55f32594713c4e6aa6676832b472b14e]
 
 An appeals panel may—
 
@@ -995,11 +995,11 @@ An appeals panel may—
 - (b) transfer the appeal to a different appeals panel, and
 - (c) give whatever other directions, and may take whatever other steps, it considers necessary for managing the appeal and securing its efficient determination.
 
-### 42. Exercise of functions by the chair[^key-b7313be4b09a59fc36568a904853501b]
+### 42. Exercise of functions by the chair[^c-b7313be4b09a59fc36568a904853501b]
 
 The powers under regulations 39(1) to (5) and 41 may be exercised by the chair of the panel acting alone.
 
-### 43. Review[^key-28c2d35e62c9b835befddfc4f14b74ab]
+### 43. Review[^c-28c2d35e62c9b835befddfc4f14b74ab]
 
 (1) The Board may at any time review a determination made by the Board if the Board is satisfied that—
 
@@ -1018,7 +1018,7 @@ The powers under regulations 39(1) to (5) and 41 may be exercised by the chair o
 
 (4) A review panel must consist of three members and include—
 
-- (a) in any case where the determination of the review[^key-8b6e3a47f6d3d519300e937850d8cdcd] requires the review panel to consider an assessment by a health care professional, one legal member, one medical member and one ordinary member, and
+- (a) in any case where the determination of the review[^c-8b6e3a47f6d3d519300e937850d8cdcd] requires the review panel to consider an assessment by a health care professional, one legal member, one medical member and one ordinary member, and
 - (b) in any other case, one legal member, one ordinary member and one other member the President considers appropriate.
 
 (5) A review panel may not review a determination made by a panel which included any member of the review panel.
@@ -1028,7 +1028,7 @@ The powers under regulations 39(1) to (5) and 41 may be exercised by the chair o
 - (a) confirm a determination, or
 - (b) make a new determination or vary a determination;
 
-(7) Following the review of a determination[^key-b41a2c9bef15b2790f2fc4fb4cf22ce0], the Board must as soon as reasonably practicable notify the appellant in writing of the following matters—
+(7) Following the review of a determination[^c-b41a2c9bef15b2790f2fc4fb4cf22ce0], the Board must as soon as reasonably practicable notify the appellant in writing of the following matters—
 
 - (a) whether a determination was confirmed;
 - (b) if a new determination was made, the new determination;
@@ -1040,19 +1040,19 @@ The powers under regulations 39(1) to (5) and 41 may be exercised by the chair o
 
 *Extent: N.I.*
 
-### 44. Burden of proof[^key-108fc2f39a1579f960f318a8e15f9670]
+### 44. Burden of proof[^c-108fc2f39a1579f960f318a8e15f9670]
 
 The burden of proving any issue in relation to an application or appeal is on the applicant or, as the case may be, the appellant.
 
-### 45. Standard of proof[^key-772358e2919b95afafb29df5518e1998]
+### 45. Standard of proof[^c-772358e2919b95afafb29df5518e1998]
 
 The standard of proof applicable in any determination or other decision which is required to be made under these Regulations is the balance of probabilities.
 
-### 46. Time of applications and appeals[^key-a6d39599244a27f18838dc912346149d]
+### 46. Time of applications and appeals[^c-a6d39599244a27f18838dc912346149d]
 
 For the purpose of these Regulations, the date on which an application or an appeal is made is the date on which the application is received by the Board.
 
-### 47. Withdrawal of applications and appeals[^key-f240a06753a41b038b40dc99abb56d3c]
+### 47. Withdrawal of applications and appeals[^c-f240a06753a41b038b40dc99abb56d3c]
 
 (1) An applicant or appellant may withdraw an application or appeal at any time before the applicant or appellant is notified of the determination of the application or appeal.
 
@@ -1060,7 +1060,7 @@ For the purpose of these Regulations, the date on which an application or an app
 
 (3) Where an application or appeal is withdrawn it may be reinstated by giving notice in writing to the Board.
 
-### 48. Applicants under 18[^key-ee6b03a228a2f9d5edacd354cdf0824a]
+### 48. Applicants under 18[^c-ee6b03a228a2f9d5edacd354cdf0824a]
 
 (1) An application may be made on behalf of a child by the child's parents or a person having legal responsibility for the child.
 
@@ -1086,7 +1086,7 @@ For the purpose of these Regulations, the date on which an application or an app
 
 (8) In this regulation, a “**child**” means a person under the age of 18.
 
-### 49. Duty to notify the Public Guardian[^key-e87b8b49a2be082b4587ef73a539a520]
+### 49. Duty to notify the Public Guardian[^c-e87b8b49a2be082b4587ef73a539a520]
 
 (1) Where a health care professional, after carrying out an assessment of a person, is satisfied—
 
@@ -1103,7 +1103,7 @@ For the purpose of these Regulations, the date on which an application or an app
 
 > (1) Where a health care professional, after carrying out an assessment of a person, is satisfied—
 >
-> - (a) that the person by reason of mental disorder, is incapable[^key-e5b74e48846c5e2667580326cc2065cb] of managing and administering their property and affairs;
+> - (a) that the person by reason of mental disorder, is incapable[^c-e5b74e48846c5e2667580326cc2065cb] of managing and administering their property and affairs;
 > - (b) that any of the powers of the court under Article 98 or 99 of the Mental Health (Northern Ireland) Order 1986 [^c23972621] ought to be exercised with respect to the property or affairs of that person;
 > - (a) that arrangements in that behalf have not been made and are not being made, it is the duty of the health care professional to notify the Office of Care and Protection of those matters.
 >
@@ -1114,18 +1114,18 @@ For the purpose of these Regulations, the date on which an application or an app
 
 .
 
-### 50. Provision of advice[^key-24ba8523e5dbf12a988d172dc9e426d0]
+### 50. Provision of advice[^c-24ba8523e5dbf12a988d172dc9e426d0]
 
 The Board must make arrangements for facilitating access to—
 
 - (a) advice and support for any person making an application, or considering whether to make an application, under this Scheme, and
 - (b) advice on the financial management of payments for a person entitled to payments under this Scheme.
 
-### 51. Expenses[^key-a2ad5165502415b37b4172c952c48448]
+### 51. Expenses[^c-a2ad5165502415b37b4172c952c48448]
 
 The Board may reimburse the expenses of travel, subsistence and accommodation reasonably incurred by a person in making an application or bringing an appeal under these Regulations.
 
-### 52. Review of the Scheme[^key-ceee0c21b6d64dd0cc374b7886d3dee8]
+### 52. Review of the Scheme[^c-ceee0c21b6d64dd0cc374b7886d3dee8]
 
 (1) The Secretary of State must, within the period of 12 months beginning with the end of the initial period, prepare a report on the operation of the Scheme.
 
@@ -1140,7 +1140,7 @@ The Board may reimburse the expenses of travel, subsistence and accommodation re
 
 (4) The Secretary of State must publish the report prepared under paragraph (1).
 
-### 53. Consequential amendments[^key-e8a02e98b80e0c0363b4a1a3461d6662][^key-f7411e79501bd61e83b377e35af09dde]
+### 53. Consequential amendments[^c-e8a02e98b80e0c0363b4a1a3461d6662][^c-f7411e79501bd61e83b377e35af09dde]
 
 Schedule 3 (which contains consequential amendments) has effect.
 
@@ -1158,7 +1158,7 @@ SCHEDULES
 
 Regulation 3(2)
 
-### 1. Status of the Board[^key-f665d2268d6e4df21d7923bb50917f16]
+### 1. Status of the Board[^c-f665d2268d6e4df21d7923bb50917f16]
 
 (1) The Board is a body corporate.
 
@@ -1169,7 +1169,7 @@ Regulation 3(2)
 
 (3) Section 19 of the Interpretation Act (Northern Ireland) 1954 [^c23972631], except for subsection (1)(a)(iv) and (vi), applies to the Board, subject to the provisions of this Act; and, for the purposes of that section, the Board is to be treated as if it were established by an Act of the Northern Ireland Assembly.
 
-### 2. Administrative functions exercisable by the Department[^key-01ead2429ef2ec2eb5144886a996422a]
+### 2. Administrative functions exercisable by the Department[^c-01ead2429ef2ec2eb5144886a996422a]
 
 (1) The Executive Office must in writing designate a Northern Ireland Department to exercise the administrative functions of the Board on the Board's behalf.
 
@@ -1179,7 +1179,7 @@ Regulation 3(2)
 
 (4) The power under sub-paragraph (2) does not include a power to borrow money.
 
-### 3. Members[^key-88dd2660915e7566520190695ef1ea29]
+### 3. Members[^c-88dd2660915e7566520190695ef1ea29]
 
 (1) The Northern Ireland Judicial Appointments Commission must appoint—
 
@@ -1193,7 +1193,7 @@ Regulation 3(2)
 
 (4) A person may be appointed as an ordinary member of the Board only if it appears to the Department that the person has appropriate knowledge or experience.
 
-### 4. The President of the Board[^key-d4d55e816d35376ef97a28850b50c7f5]
+### 4. The President of the Board[^c-d4d55e816d35376ef97a28850b50c7f5]
 
 (1) The Lord Chief Justice of Northern Ireland is to appoint a person as the President of the Board.
 
@@ -1208,7 +1208,7 @@ Regulation 3(2)
 
 (5) Any function of the President may be exercised by a legal member of the Board who has been authorised (whether generally or specifically) by the President for that purpose.
 
-### 5. Terms of appointment[^key-b1188894f59f64603672f899df7ca000]
+### 5. Terms of appointment[^c-b1188894f59f64603672f899df7ca000]
 
 (1) A member and the President holds and vacates office in accordance with the terms and conditions of their appointment.
 
@@ -1218,17 +1218,17 @@ Regulation 3(2)
 
 (4) A previous appointment as a member of the Board does not affect a person's eligibility for re-appointment as a member of the Board.
 
-(5) A person shall not hold office as a member of the Board after reaching the age of 75[^key-cf50eca084dddf7e29328caea89ab522].
+(5) A person shall not hold office as a member of the Board after reaching the age of 75[^c-cf50eca084dddf7e29328caea89ab522].
 
-(6)[^key-9a63c0c166e0e9a2fbef7ba5728264c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9a63c0c166e0e9a2fbef7ba5728264c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Remuneration and expenses[^key-9fefa23ab9a4d4a6159959bec88f568f]
+### 6. Remuneration and expenses[^c-9fefa23ab9a4d4a6159959bec88f568f]
 
 (1) The Department must pay to or in respect of the President and each member of the Board such remuneration, such allowances, and such sums for the provision of a pension as the Department may determine.
 
 (2) The Department may reimburse the President and each member of the Board for such expenses as the member reasonably incurs in acting as such.
 
-### 7. Staff and accommodation[^key-b562fbd44fe6751526a757270fef83f2]
+### 7. Staff and accommodation[^c-b562fbd44fe6751526a757270fef83f2]
 
 (1) The staff required for the Board are, with the approval of the Executive Office as to numbers, to be provided by the Department.
 
@@ -1238,11 +1238,11 @@ Regulation 3(2)
 
 (4) The office accommodation and equipment required for the Board are to be provided by the Department.
 
-### 8. Expenses[^key-471d93e6aa5e99f2ca950b31cfbd2597]
+### 8. Expenses[^c-471d93e6aa5e99f2ca950b31cfbd2597]
 
 The Department may defray the expenses of the Board to such amount as the Department may determine.
 
-### 9. Funding[^key-fd572bb84a77694bad6806e8b3af7190]
+### 9. Funding[^c-fd572bb84a77694bad6806e8b3af7190]
 
 (1) The Executive Office may make to the Department grants of such amounts as the Executive Office determines for the purpose of funding—
 
@@ -1256,29 +1256,29 @@ The Department may defray the expenses of the Board to such amount as the Depart
 
 (4) Any sums received by the Executive Office under this paragraph must be paid into the Consolidated Fund of Northern Ireland.
 
-### 10. Seal[^key-12130f984145345f6773ad443ecbc78e]
+### 10. Seal[^c-12130f984145345f6773ad443ecbc78e]
 
 The application of the seal of the Board must be authenticated—
 
 - (a) by the signature of the President, or
-- (b) by the signature of a person who is authorised under sub-paragraph 4(5)[^key-a773e7dd0982e19d3176470ee3eb08a8] for that purpose.
+- (b) by the signature of a person who is authorised under sub-paragraph 4(5)[^c-a773e7dd0982e19d3176470ee3eb08a8] for that purpose.
 
-### 11. Evidence[^key-7738f05d097f9f9da611e38248841ef6]
+### 11. Evidence[^c-7738f05d097f9f9da611e38248841ef6]
 
 (1) A document purporting to be an instrument issued by the Board and to be duly executed under the Board's seal or signed by or on behalf of the Board is to be received in evidence and, unless the contrary is proved, taken to be such an instrument.
 
 (2) The Board may administer oaths for the purposes of these Regulations.
 
-### 12. Panels[^key-98aedb667cc206650660ea8ecbffd347]
+### 12. Panels[^c-98aedb667cc206650660ea8ecbffd347]
 
 (1) A panel other than an appeal panel or a review panel must be constituted to consist of—
 
 - (a) one legal member, or
 - (b) three members, including at least one legal member and one ordinary member.
 
-(2) A panel must be constituted in accordance with sub-paragraph (1)(b)[^key-45969c38f15b95d136253f47c3e27621] if the panel is to make a decision or determination under regulations 5(5), 6(2) or (3), 9(4)(b), 10(4) or 20(3).
+(2) A panel must be constituted in accordance with sub-paragraph (1)(b)[^c-45969c38f15b95d136253f47c3e27621] if the panel is to make a decision or determination under regulations 5(5), 6(2) or (3), 9(4)(b), 10(4) or 20(3).
 
-(3) Where a panel has been constituted in accordance with sub-paragraph (1)(a)[^key-cd3233ba815ef85368759a7990698f5e], the President may appoint further members such that the panel is constituted in accordance with sub-paragraph (1)(b)[^key-bfb9b27e3e7e23c30e52ec7e409ffde9].
+(3) Where a panel has been constituted in accordance with sub-paragraph (1)(a)[^c-cd3233ba815ef85368759a7990698f5e], the President may appoint further members such that the panel is constituted in accordance with sub-paragraph (1)(b)[^c-bfb9b27e3e7e23c30e52ec7e409ffde9].
 
 (4) Where a panel consists of one legal member, that member is chair.
 
@@ -1291,7 +1291,7 @@ The application of the seal of the Board must be authenticated—
 
 (7) The functions of a panel consisting of one legal member may, where and to the extent the President considers it appropriate, be exercised by a member of staff provided under paragraph 7.
 
-### 13. Advisors[^key-da9871132288031f0c23f9d29f2fef14]
+### 13. Advisors[^c-da9871132288031f0c23f9d29f2fef14]
 
 (1) The Board may appoint one or more persons to act as advisors to the Board.
 
@@ -1299,7 +1299,7 @@ The application of the seal of the Board must be authenticated—
 
 (3) The Board may at any time terminate the appointment of an advisor.
 
-### 14. Annual report[^key-c2de61516e1bb60789cff9d881303a7e]
+### 14. Annual report[^c-c2de61516e1bb60789cff9d881303a7e]
 
 (1) The Board must, as soon as practicable after the end of each financial year, send to the Executive Office a report on the exercise of the Board's functions during that year.
 
@@ -1307,14 +1307,14 @@ The application of the seal of the Board must be authenticated—
 
 (3) In this paragraph, “**financial year**” means—
 
-- (a) the period beginning with the day on which the Board is established under regulation 3(1)[^key-79bc92201e02bd2a06b5fdcd1ecf67c7] and ending with the next 31 March following that date, and
+- (a) the period beginning with the day on which the Board is established under regulation 3(1)[^c-79bc92201e02bd2a06b5fdcd1ecf67c7] and ending with the next 31 March following that date, and
 - (b) each successive period of twelve months ending with 31 March.
 
 ## SCHEDULE 2 — Assessment of disablement
 
 Regulation 15(8)
 
-### 1. Assessment of degree of disablement[^key-cc9ff84197b8afbdc14ee8f45b588da4]
+### 1. Assessment of degree of disablement[^c-cc9ff84197b8afbdc14ee8f45b588da4]
 
 (1) The degree of the disablement caused by a relevant incident is assessed by making a comparison between the condition of—
 
@@ -1330,13 +1330,13 @@ Regulation 15(8)
 
 (4) Subject to sub-paragraph (5), where the sole injury which an applicant suffers as a result of the relevant incident is one specified in column 1 of Schedule 2 to the Social Security (General Benefit) Regulations 1982 (prescribed degrees of disablement), whether or not such injury incorporates one or more other injuries so specified, the assessed degree of disablement suffered by the applicant as a result of that injury is the degree of disablement specified in column 2 of that Schedule.
 
-(5) The degree of disablement assessed in accordance with sub-paragraph (4)[^key-e27809449b5b9affa176edc299982594] is subject to such increase or reduction of that degree of disablement as may be reasonable in the circumstances of the case where that degree of disablement does not provide a reasonable assessment of the degree of disablement resulting from the relevant incident.
+(5) The degree of disablement assessed in accordance with sub-paragraph (4)[^c-e27809449b5b9affa176edc299982594] is subject to such increase or reduction of that degree of disablement as may be reasonable in the circumstances of the case where that degree of disablement does not provide a reasonable assessment of the degree of disablement resulting from the relevant incident.
 
-(6) Where the assessed degree of disablement is increased or decreased in accordance with sub-paragraph (5)[^key-032a06116eb866dcb4c8d7bf937440c8], the health care professional conducting the assessment must make a record of the reason for the increase or decrease.
+(6) Where the assessed degree of disablement is increased or decreased in accordance with sub-paragraph (5)[^c-032a06116eb866dcb4c8d7bf937440c8], the health care professional conducting the assessment must make a record of the reason for the increase or decrease.
 
 (7) For the purpose of assessing the degree of disablement resulting from an injury not specified in Column 1 of Schedule 2 to the Social Security (General Benefit) Regulations 1982, the health care professional may have such regard as the health care professional considers appropriate, to the prescribed degrees of disablement set against injuries specified in that Schedule.
 
-### 2. Disablement with other causes[^key-7ba9cc998132fc31e25b8d743ff4a4eb]
+### 2. Disablement with other causes[^c-7ba9cc998132fc31e25b8d743ff4a4eb]
 
 (1) This regulation applies where disablement is caused by a relevant incident but also has a cause (“the other cause”) other than a relevant incident.
 
@@ -1347,28 +1347,28 @@ Regulation 15(8)
 - (a) all such disablement to the extent to which the applicant would have been subject to that disablement if the other cause had not arisen, and
 - (b) where the extent of disablement would be assessed at not less than 11 percent if that other cause had not arisen, the assessment must also take account of any disablement to which the applicant may be subject as a result of that other cause except to the extent to which the applicant would have been subject to that disablement had the relevant incident not occurred.
 
-### 3. Expression of degree of disablement[^key-7d8605f286c7ec457a42d4f9d6dbd284]
+### 3. Expression of degree of disablement[^c-7d8605f286c7ec457a42d4f9d6dbd284]
 
 (1) The assessed degree of disablement must be expressed as a percentage.
 
-(2) Subject to sub-paragraph (3)[^key-c4397c5f5519f1b2cac2d355033b3970], if the assessed degree of disablement is a percentage between 0 and 100 which is not a multiple of 10, it is to be treated—
+(2) Subject to sub-paragraph (3)[^c-c4397c5f5519f1b2cac2d355033b3970], if the assessed degree of disablement is a percentage between 0 and 100 which is not a multiple of 10, it is to be treated—
 
 - (a) if it is a multiple of 5, as being the next higher percentage which is a multiple of 10, and
 - (b) if it is not a multiple of 5, as being the nearest percentage which is a multiple of 10.
 
 (3) Where the assessed degree of disablement is less than 20 percent, but not less than 14 percent, it is to be treated as 20 percent.
 
-### 4. Guidance[^key-777e530297105d13db628866ee272e1b][^key-56ec7166e1b8d1d5f105ec28bc7c9f6a]
+### 4. Guidance[^c-777e530297105d13db628866ee272e1b][^c-56ec7166e1b8d1d5f105ec28bc7c9f6a]
 
-(1)[^key-777e530297105d13db628866ee272e1b] The Board must make arrangements for guidance to be issued to health care professionals regarding the assessment of the degree of relevant disablement.
+(1)[^c-777e530297105d13db628866ee272e1b] The Board must make arrangements for guidance to be issued to health care professionals regarding the assessment of the degree of relevant disablement.
 
-(2)[^key-56ec7166e1b8d1d5f105ec28bc7c9f6a] A health care professional must have regard to any guidance issued under sub-paragraph (1)[^key-fa9e4d9c1ad3de89da69f1348a984f50] when assessing the degree of relevant disablement.
+(2)[^c-56ec7166e1b8d1d5f105ec28bc7c9f6a] A health care professional must have regard to any guidance issued under sub-paragraph (1)[^c-fa9e4d9c1ad3de89da69f1348a984f50] when assessing the degree of relevant disablement.
 
 ## SCHEDULE 3 — Consequential amendments
 
 Regulation 53
 
-### 1. Northern Ireland Assembly Disqualification Act 1975[^key-c7c1718dbe4070040a6fdc67762a5af2]
+### 1. Northern Ireland Assembly Disqualification Act 1975[^c-c7c1718dbe4070040a6fdc67762a5af2]
 
 In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 [^c23972641] (disqualifying offices: bodies of which all members are disqualified), at the appropriate place, insert—
 
@@ -1376,7 +1376,7 @@ In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 19
 
 .
 
-### 2. The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-71e854c575e1f5de5f0a2401b8518ec1]
+### 2. The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-71e854c575e1f5de5f0a2401b8518ec1]
 
 (1) The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 [^c23972651] is amended as follows.
 
@@ -1400,7 +1400,7 @@ In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 19
 
 .
 
-### 3. The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^key-0aaa56470e414ec910fd043be30ff325]
+### 3. The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^c-0aaa56470e414ec910fd043be30ff325]
 
 (1) The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979 [^c23972681] is amended as follows.
 
@@ -1417,13 +1417,13 @@ In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 19
 
 > **27.** Proceedings to determine whether regulation 6(1) (convictions) of the Victims' Payment Regulations 2020 excludes a person from entitlement to payments under those regulations.
 
-### 4. Freedom of Information Act 2000[^key-316109bf7c963289b3d562da7b04ad82]
+### 4. Freedom of Information Act 2000[^c-316109bf7c963289b3d562da7b04ad82]
 
 In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies in Northern Ireland which are public authorities for the purposes of the Act), at the appropriate place, insert—
 
 > The Victims' Payments Board, in relation to its administrative functions.
 
-### 5. Amendment to Justice (Northern Ireland) Act 2002[^key-6a7fd79059fdf179f104117037adaf44]
+### 5. Amendment to Justice (Northern Ireland) Act 2002[^c-6a7fd79059fdf179f104117037adaf44]
 
 In Schedule 1 to the Justice (Northern Ireland) Act 2002 [^c23972711] (listed offices), at the end insert—
 
@@ -1433,7 +1433,7 @@ In Schedule 1 to the Justice (Northern Ireland) Act 2002 [^c23972711] (listed of
 
 .
 
-### 6. The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-40302bf890a271115ec0585e41fdc164]
+### 6. The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^c-40302bf890a271115ec0585e41fdc164]
 
 (1) The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 [^c23972721] is amended as follows.
 
@@ -1483,9 +1483,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972171]: Marginal citation: [2019 c. 22](https://www.legislation.gov.uk/ukpga/2019/22).
 
-[^key-c6ccd3515dbd70dc571bccc3eda73c1f]: Commencement: Reg. 1 in force at 24.2.2020, see reg. 1(2)(a)
+[^c-c6ccd3515dbd70dc571bccc3eda73c1f]: Commencement: Reg. 1 in force at 24.2.2020, see reg. 1(2)(a)
 
-[^key-1fcad102a8950500f3163b5c2da1e708]: Commencement: Reg. 2 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-1fcad102a8950500f3163b5c2da1e708]: Commencement: Reg. 2 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
 [^c23972181]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12); section 3 is amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
@@ -1493,19 +1493,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972201]: Marginal citation: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17); relevant amendments to section 25(3) were made by paragraph 17(2) and (3) of Schedule 10 to the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), paragraph 56(b) of Schedule 15 to the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) and [SI 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-718284e7fabbdc0b847f62eea9baa90b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/103/regulation/2/1) inserted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/2/a)
+[^c-718284e7fabbdc0b847f62eea9baa90b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/103/regulation/2/1) inserted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/2/a)
 
-[^key-eaf38ade4f0df5e56497c319f2fdd418]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/103/regulation/2/1) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/2/b)
+[^c-eaf38ade4f0df5e56497c319f2fdd418]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/103/regulation/2/1) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/2/b)
 
-[^key-1d0538e90abeb8a6ebf48ed26087f530]: Commencement: Reg. 3 in force at 24.2.2020, see reg. 1(2)(b)
+[^c-1d0538e90abeb8a6ebf48ed26087f530]: Commencement: Reg. 3 in force at 24.2.2020, see reg. 1(2)(b)
 
-[^key-7916796bacb08b90f7a6634862994f15]: Commencement: Reg. 4 in force at 29.5.2020, see reg. 1(3)
+[^c-7916796bacb08b90f7a6634862994f15]: Commencement: Reg. 4 in force at 29.5.2020, see reg. 1(3)
 
-[^key-77104dc52926ca58fa9c2fc79818c895]: Commencement: Reg. 5 in force at 29.5.2020, see reg. 1(3)
+[^c-77104dc52926ca58fa9c2fc79818c895]: Commencement: Reg. 5 in force at 29.5.2020, see reg. 1(3)
 
-[^key-30dc95e88139f58c68bc35fbdf5082aa]: Textual amendment: Words in reg. 5(3) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/2)
+[^c-30dc95e88139f58c68bc35fbdf5082aa]: Textual amendment: Words in reg. 5(3) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/2)
 
-[^key-d0b3daaea54f70a6e2a73efbd36c8945]: Commencement: Reg. 6 in force at 29.5.2020, see reg. 1(3)
+[^c-d0b3daaea54f70a6e2a73efbd36c8945]: Commencement: Reg. 6 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972211]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
@@ -1513,51 +1513,51 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972231]: Marginal citation: [2019 asp 14](https://www.legislation.gov.uk/asp/2019/14).
 
-[^key-04022d0f5189c05c6bab80a304204140]: Commencement: Reg. 7 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-04022d0f5189c05c6bab80a304204140]: Commencement: Reg. 7 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-0f429704b31b716c518b11250be58f79]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/103/regulation/7/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/3)
+[^c-0f429704b31b716c518b11250be58f79]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/103/regulation/7/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/3)
 
-[^key-1dd321a601aff0876cb0d5285e7dbc67]: Commencement: Reg. 8 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-1dd321a601aff0876cb0d5285e7dbc67]: Commencement: Reg. 8 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-0967aa9cc7eb1d2a39196ed07e7e4df5]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/8/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/4)
+[^c-0967aa9cc7eb1d2a39196ed07e7e4df5]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/8/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/4)
 
-[^key-cff4c7652e31a5e41f369bc0728fc797]: Commencement: Reg. 9 in force at 29.5.2020, see reg. 1(3)
+[^c-cff4c7652e31a5e41f369bc0728fc797]: Commencement: Reg. 9 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972241]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); amended by [S.I 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457), [2011/2426](https://www.legislation.gov.uk/uksi/2011/2426), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [2015/1754](https://www.legislation.gov.uk/uksi/2015/1754).
 
 [^c23972251]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); relevant amending instruments are: S.R. [1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370), S.R. [2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321), S.R. [2011 No. 356](https://www.legislation.gov.uk/nisr/2011/356), S.R. [2016 No. 228](https://www.legislation.gov.uk/nisr/2016/228).
 
-[^key-daba8a1015e3b6d5e916700c02ed2c22]: Commencement: Reg. 10 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-daba8a1015e3b6d5e916700c02ed2c22]: Commencement: Reg. 10 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-c59adf935aac3d43fc6145bc60a011e3]: Textual amendment: Words in [reg. 10(9)](https://www.legislation.gov.uk/uksi/2020/103/regulation/10/9) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/5)
+[^c-c59adf935aac3d43fc6145bc60a011e3]: Textual amendment: Words in [reg. 10(9)](https://www.legislation.gov.uk/uksi/2020/103/regulation/10/9) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/5)
 
-[^key-bd7c5784900de8eb7107d425067b9a62]: Commencement: Reg. 11 in force at 29.5.2020, see reg. 1(3)
+[^c-bd7c5784900de8eb7107d425067b9a62]: Commencement: Reg. 11 in force at 29.5.2020, see reg. 1(3)
 
-[^key-2bd116236f53590895dd30f393885e4a]: Commencement: Reg. 12 in force at 29.5.2020, see reg. 1(3)
+[^c-2bd116236f53590895dd30f393885e4a]: Commencement: Reg. 12 in force at 29.5.2020, see reg. 1(3)
 
-[^key-ff5a6b04a568ff3f7be4bca9cef11e3b]: Commencement: Reg. 13 in force at 29.5.2020, see reg. 1(3)
+[^c-ff5a6b04a568ff3f7be4bca9cef11e3b]: Commencement: Reg. 13 in force at 29.5.2020, see reg. 1(3)
 
-[^key-f987168493827bc687167d90cff181dd]: Commencement: Reg. 14 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-f987168493827bc687167d90cff181dd]: Commencement: Reg. 14 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-3a23cfe7712d37950e931dcd57519714]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/103/regulation/14/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/6)
+[^c-3a23cfe7712d37950e931dcd57519714]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/103/regulation/14/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/6)
 
-[^key-0419de5f530df528936928c78deeed2b]: Commencement: Reg. 15(1)-(7) in force at 29.5.2020, see reg. 1(3)
+[^c-0419de5f530df528936928c78deeed2b]: Commencement: Reg. 15(1)-(7) in force at 29.5.2020, see reg. 1(3)
 
-[^key-a033a1c036a0aba1594da746ce0459c4]: Commencement: Reg. 15(8) in force at 24.2.2020 for specified purposes, see reg. 1(2)(d)
+[^c-a033a1c036a0aba1594da746ce0459c4]: Commencement: Reg. 15(8) in force at 24.2.2020 for specified purposes, see reg. 1(2)(d)
 
-[^key-6daf20f94502dd59b0281ed81d5f6fa2]: Commencement: Reg. 15(8) in force at 29.5.2020 in so far as not already in force, see reg. 1(3)
+[^c-6daf20f94502dd59b0281ed81d5f6fa2]: Commencement: Reg. 15(8) in force at 29.5.2020 in so far as not already in force, see reg. 1(3)
 
-[^key-2f898fa52a61ad4f6627074a3a2eb7ef]: Commencement: Reg. 16 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-2f898fa52a61ad4f6627074a3a2eb7ef]: Commencement: Reg. 16 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-eac7cd03a1b1cc6ec5b88d840f55e5b5]: Textual amendment: Word in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2020/103/regulation/16/1/b) omitted (25.7.2023) by virtue of [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/7)
+[^c-eac7cd03a1b1cc6ec5b88d840f55e5b5]: Textual amendment: Word in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2020/103/regulation/16/1/b) omitted (25.7.2023) by virtue of [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/7)
 
-[^key-b32ae07364be37604f2fdbb48c3812e3]: Commencement: Reg. 17 in force at 29.5.2020, see reg. 1(3)
+[^c-b32ae07364be37604f2fdbb48c3812e3]: Commencement: Reg. 17 in force at 29.5.2020, see reg. 1(3)
 
-[^key-10420fe77dcb0b4a0ebbd8ba4506c44a]: Commencement: Reg. 18 in force at 29.5.2020, see reg. 1(3)
+[^c-10420fe77dcb0b4a0ebbd8ba4506c44a]: Commencement: Reg. 18 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972261]: Marginal citation: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).
 
-[^key-b159a88b313a8819e9f170591a8ecf59]: Commencement: Reg. 19 in force at 29.5.2020, see reg. 1(3)
+[^c-b159a88b313a8819e9f170591a8ecf59]: Commencement: Reg. 19 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972271]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); Section 103 was amended by section 64(1)(b) of the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -1579,25 +1579,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972361]: Marginal citation: [S.I. 1995/866](https://www.legislation.gov.uk/uksi/1995/866).
 
-[^key-ff516eeec1169d903a740f3513b215e9]: Commencement: Reg. 20 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-ff516eeec1169d903a740f3513b215e9]: Commencement: Reg. 20 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-237e405663220a766189adc33410c52c]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/20/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/8)
+[^c-237e405663220a766189adc33410c52c]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/20/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/8)
 
 [^c23972371]: Marginal citation: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-4c4b075d330bd081b668601308dff99c]: Commencement: Reg. 21 in force at 29.5.2020, see reg. 1(3)
+[^c-4c4b075d330bd081b668601308dff99c]: Commencement: Reg. 21 in force at 29.5.2020, see reg. 1(3)
 
-[^key-c61b195d0cd3050b3ff09edc0a8b8b0d]: Commencement: Reg. 22 in force at 29.5.2020, see reg. 1(3)
+[^c-c61b195d0cd3050b3ff09edc0a8b8b0d]: Commencement: Reg. 22 in force at 29.5.2020, see reg. 1(3)
 
-[^key-3f10f08bc2834319f6156d22daf8778e]: Commencement: Reg. 23 in force at 29.5.2020, see reg. 1(3)
+[^c-3f10f08bc2834319f6156d22daf8778e]: Commencement: Reg. 23 in force at 29.5.2020, see reg. 1(3)
 
-[^key-67cf1f061cd9daa63d4e2f3adf7ec41f]: Commencement: Reg. 24 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-67cf1f061cd9daa63d4e2f3adf7ec41f]: Commencement: Reg. 24 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-7b89028ef4393ce21b6121d0659d6a85]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/24/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/9)
+[^c-7b89028ef4393ce21b6121d0659d6a85]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/24/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/9)
 
-[^key-6567d975802e5cb9a8a2e71c2651d7b0]: Commencement: Reg. 25 in force at 29.5.2020, see reg. 1(3)
+[^c-6567d975802e5cb9a8a2e71c2651d7b0]: Commencement: Reg. 25 in force at 29.5.2020, see reg. 1(3)
 
-[^key-506fb225598c36a73bbc56c102df2a3b]: Commencement: Reg. 26 in force at 29.5.2020, see reg. 1(3)
+[^c-506fb225598c36a73bbc56c102df2a3b]: Commencement: Reg. 26 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972381]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265). Article 99 was substituted by [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194).
 
@@ -1625,7 +1625,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972501]: Marginal citation: [2002 c.14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14).
 
-[^key-ad934dccf9ed58aed4f70172c9887e05]: Commencement: Reg. 27 in force at 29.5.2020, see reg. 1(3)
+[^c-ad934dccf9ed58aed4f70172c9887e05]: Commencement: Reg. 27 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972511]: Marginal citation: [S.I. 1997/2205](https://www.legislation.gov.uk/uksi/1997/2205). Sub-paragraph (p) was inserted by [S.I. 2017/870](https://www.legislation.gov.uk/uksi/2017/870).
 
@@ -1635,17 +1635,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972541]: Marginal citation: S.R. [2008 No. 355](https://www.legislation.gov.uk/nisr/2008/355). Sub-paragraph (n) was inserted by S.R. [2017 No. 219](https://www.legislation.gov.uk/nisr/2017/219).
 
-[^key-def7dd7733dee7b3816d443598db074a]: Commencement: Reg. 28 in force at 29.5.2020, see reg. 1(3)
+[^c-def7dd7733dee7b3816d443598db074a]: Commencement: Reg. 28 in force at 29.5.2020, see reg. 1(3)
 
-[^key-5bc3c1bbcdba23c7777567832aecc0d8]: Commencement: Reg. 29 in force at 29.5.2020, see reg. 1(3)
+[^c-5bc3c1bbcdba23c7777567832aecc0d8]: Commencement: Reg. 29 in force at 29.5.2020, see reg. 1(3)
 
-[^key-84fc619d8cc3daa6d5279e2684e1fc6a]: Textual amendment: Reg. 29(2A) substituted for reg. 29(2)(a)-(c) (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/a)
+[^c-84fc619d8cc3daa6d5279e2684e1fc6a]: Textual amendment: Reg. 29(2A) substituted for reg. 29(2)(a)-(c) (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/a)
 
-[^key-e8072c502b62397c6679aa0e0c38f612]: Textual amendment: Word in reg. 29(3) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/b)
+[^c-e8072c502b62397c6679aa0e0c38f612]: Textual amendment: Word in reg. 29(3) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/b)
 
-[^key-e1d07729f6382654fba07b57c43d1eca]: Textual amendment: Word in reg. 29(4) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/b)
+[^c-e1d07729f6382654fba07b57c43d1eca]: Textual amendment: Word in reg. 29(4) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/b)
 
-[^key-2475f73be923a431de3e8c06a27091c9]: Commencement: Reg. 30 in force at 29.5.2020, see reg. 1(3)
+[^c-2475f73be923a431de3e8c06a27091c9]: Commencement: Reg. 30 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972551]: Marginal citation: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
 
@@ -1655,155 +1655,155 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972581]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 
-[^key-bf2c736b1a7dd8c7ea05527ac61272dc]: Commencement: Reg. 31 in force at 29.5.2020, see reg. 1(3)
+[^c-bf2c736b1a7dd8c7ea05527ac61272dc]: Commencement: Reg. 31 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972591]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
 [^c23972601]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
 
-[^key-1e622f6c5aebfcb56ab42d904619d121]: Commencement: Reg. 32 in force at 29.5.2020, see reg. 1(3)
+[^c-1e622f6c5aebfcb56ab42d904619d121]: Commencement: Reg. 32 in force at 29.5.2020, see reg. 1(3)
 
-[^key-6fcd57708f69c63f8902b024ed23605a]: Commencement: Reg. 33 in force at 29.5.2020, see reg. 1(3)
+[^c-6fcd57708f69c63f8902b024ed23605a]: Commencement: Reg. 33 in force at 29.5.2020, see reg. 1(3)
 
-[^key-626e86dde06a17a67828224c3c42d2a9]: Commencement: Reg. 34 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-626e86dde06a17a67828224c3c42d2a9]: Commencement: Reg. 34 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-4461227ef90243c806aa5a638e3a3f04]: Textual amendment: Reg. 34(1)(g) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/4)
+[^c-4461227ef90243c806aa5a638e3a3f04]: Textual amendment: Reg. 34(1)(g) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/4)
 
-[^key-579d736068b05aad35f4eb6b592a6baf]: Textual amendment: Words in [reg. 34(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/34/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/10)
+[^c-579d736068b05aad35f4eb6b592a6baf]: Textual amendment: Words in [reg. 34(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/34/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/10)
 
-[^key-ce89c4850b35ae594ba051398dad6090]: Commencement: Reg. 35 in force at 29.5.2020, see reg. 1(3)
+[^c-ce89c4850b35ae594ba051398dad6090]: Commencement: Reg. 35 in force at 29.5.2020, see reg. 1(3)
 
-[^key-67f8e45886103a0d424a27e8ee067522]: Commencement: Reg. 36 in force at 29.5.2020, see reg. 1(3)
+[^c-67f8e45886103a0d424a27e8ee067522]: Commencement: Reg. 36 in force at 29.5.2020, see reg. 1(3)
 
-[^key-3d1e563e7eb708c0b1e482c7b936745a]: Textual amendment: Words in reg. 36(1) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/i)
+[^c-3d1e563e7eb708c0b1e482c7b936745a]: Textual amendment: Words in reg. 36(1) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/i)
 
-[^key-d77b0a6fe087100f5d67c837b7fb2d8f]: Textual amendment: Word in reg. 36(1)(d) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/ii)
+[^c-d77b0a6fe087100f5d67c837b7fb2d8f]: Textual amendment: Word in reg. 36(1)(d) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/ii)
 
-[^key-9b2a1b7cf9cfa9f9618641fb6414bbd9]: Textual amendment: Word in reg. 36(1)(e) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/ii)
+[^c-9b2a1b7cf9cfa9f9618641fb6414bbd9]: Textual amendment: Word in reg. 36(1)(e) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/ii)
 
-[^key-9a18840db7627f1b413aa4ca6e85d37e]: Textual amendment: Reg. 36(1A) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/b)
+[^c-9a18840db7627f1b413aa4ca6e85d37e]: Textual amendment: Reg. 36(1A) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/b)
 
-[^key-ff2ea0b26f0b5ac95f68f87e2254e4fb]: Commencement: Reg. 37 in force at 29.5.2020, see reg. 1(3)
+[^c-ff2ea0b26f0b5ac95f68f87e2254e4fb]: Commencement: Reg. 37 in force at 29.5.2020, see reg. 1(3)
 
-[^key-f523c98e9e31c4f843372cf629942c01]: Commencement: Reg. 38 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-f523c98e9e31c4f843372cf629942c01]: Commencement: Reg. 38 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-899546abd68602d01cbe4a016ad7c3bc]: Textual amendment: Word in [reg. 38(1)(d)](https://www.legislation.gov.uk/uksi/2020/103/regulation/38/1/d) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/11)
+[^c-899546abd68602d01cbe4a016ad7c3bc]: Textual amendment: Word in [reg. 38(1)(d)](https://www.legislation.gov.uk/uksi/2020/103/regulation/38/1/d) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/11)
 
-[^key-40c2500e381919c5bdc9a697ccb1bc3c]: Commencement: Reg. 39 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-40c2500e381919c5bdc9a697ccb1bc3c]: Commencement: Reg. 39 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-d063c40c1c0668efb2a17d694785ab1b]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/6) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/a)
+[^c-d063c40c1c0668efb2a17d694785ab1b]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/6) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/a)
 
-[^key-fa542726494eceb9306f1c4cd01de930]: Textual amendment: Words in [reg. 39(7)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/7) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/b)
+[^c-fa542726494eceb9306f1c4cd01de930]: Textual amendment: Words in [reg. 39(7)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/7) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/b)
 
-[^key-a668d376dfed941a243645ded4af5e1a]: Textual amendment: Word in [reg. 39(8)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/8) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(c)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/c)
+[^c-a668d376dfed941a243645ded4af5e1a]: Textual amendment: Word in [reg. 39(8)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/8) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(c)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/c)
 
-[^key-561f5c216138488bc3aa16da24c6858e]: Commencement: Reg. 40 in force at 29.5.2020, see reg. 1(3)
+[^c-561f5c216138488bc3aa16da24c6858e]: Commencement: Reg. 40 in force at 29.5.2020, see reg. 1(3)
 
-[^key-55f32594713c4e6aa6676832b472b14e]: Commencement: Reg. 41 in force at 29.5.2020, see reg. 1(3)
+[^c-55f32594713c4e6aa6676832b472b14e]: Commencement: Reg. 41 in force at 29.5.2020, see reg. 1(3)
 
-[^key-b7313be4b09a59fc36568a904853501b]: Commencement: Reg. 42 in force at 29.5.2020, see reg. 1(3)
+[^c-b7313be4b09a59fc36568a904853501b]: Commencement: Reg. 42 in force at 29.5.2020, see reg. 1(3)
 
-[^key-28c2d35e62c9b835befddfc4f14b74ab]: Commencement: Reg. 43 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-28c2d35e62c9b835befddfc4f14b74ab]: Commencement: Reg. 43 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-8b6e3a47f6d3d519300e937850d8cdcd]: Textual amendment: Word in [reg. 43(4)(a)](https://www.legislation.gov.uk/uksi/2020/103/regulation/43/4/a) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/13)
+[^c-8b6e3a47f6d3d519300e937850d8cdcd]: Textual amendment: Word in [reg. 43(4)(a)](https://www.legislation.gov.uk/uksi/2020/103/regulation/43/4/a) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/13)
 
-[^key-b41a2c9bef15b2790f2fc4fb4cf22ce0]: Textual amendment: Words in reg. 43(7) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/6)
+[^c-b41a2c9bef15b2790f2fc4fb4cf22ce0]: Textual amendment: Words in reg. 43(7) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/6)
 
-[^key-108fc2f39a1579f960f318a8e15f9670]: Commencement: Reg. 44 in force at 29.5.2020, see reg. 1(3)
+[^c-108fc2f39a1579f960f318a8e15f9670]: Commencement: Reg. 44 in force at 29.5.2020, see reg. 1(3)
 
-[^key-772358e2919b95afafb29df5518e1998]: Commencement: Reg. 45 in force at 29.5.2020, see reg. 1(3)
+[^c-772358e2919b95afafb29df5518e1998]: Commencement: Reg. 45 in force at 29.5.2020, see reg. 1(3)
 
-[^key-a6d39599244a27f18838dc912346149d]: Commencement: Reg. 46 in force at 29.5.2020, see reg. 1(3)
+[^c-a6d39599244a27f18838dc912346149d]: Commencement: Reg. 46 in force at 29.5.2020, see reg. 1(3)
 
-[^key-f240a06753a41b038b40dc99abb56d3c]: Commencement: Reg. 47 in force at 29.5.2020, see reg. 1(3)
+[^c-f240a06753a41b038b40dc99abb56d3c]: Commencement: Reg. 47 in force at 29.5.2020, see reg. 1(3)
 
-[^key-ee6b03a228a2f9d5edacd354cdf0824a]: Commencement: Reg. 48 in force at 29.5.2020, see reg. 1(3)
+[^c-ee6b03a228a2f9d5edacd354cdf0824a]: Commencement: Reg. 48 in force at 29.5.2020, see reg. 1(3)
 
-[^key-e87b8b49a2be082b4587ef73a539a520]: Commencement: Reg. 49 in force at 29.5.2020, see reg. 1(3)
+[^c-e87b8b49a2be082b4587ef73a539a520]: Commencement: Reg. 49 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972611]: Marginal citation: [2016 c. 18](https://www.legislation.gov.uk/ukpga/2016/18); section 113 is not yet in force.
 
-[^key-e5b74e48846c5e2667580326cc2065cb]: Textual amendment: Words in reg. 49(3) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/7)
+[^c-e5b74e48846c5e2667580326cc2065cb]: Textual amendment: Words in reg. 49(3) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/7)
 
 [^c23972621]: Marginal citation: S.I. [1986 No. 595](https://www.legislation.gov.uk/nisi/1986/595) (N.I. 4); article 99 was amended by sections 59(5) and 148(1) of, and paragraph 6 of Schedule 11 to, the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-24ba8523e5dbf12a988d172dc9e426d0]: Commencement: Reg. 50 in force at 29.5.2020, see reg. 1(3)
+[^c-24ba8523e5dbf12a988d172dc9e426d0]: Commencement: Reg. 50 in force at 29.5.2020, see reg. 1(3)
 
-[^key-a2ad5165502415b37b4172c952c48448]: Commencement: Reg. 51 in force at 29.5.2020, see reg. 1(3)
+[^c-a2ad5165502415b37b4172c952c48448]: Commencement: Reg. 51 in force at 29.5.2020, see reg. 1(3)
 
-[^key-ceee0c21b6d64dd0cc374b7886d3dee8]: Commencement: Reg. 52 in force at 29.5.2020, see reg. 1(3)
+[^c-ceee0c21b6d64dd0cc374b7886d3dee8]: Commencement: Reg. 52 in force at 29.5.2020, see reg. 1(3)
 
-[^key-e8a02e98b80e0c0363b4a1a3461d6662]: Commencement: Reg. 53 in force at 24.2.2020 for specified purposes, see reg. 1(2)(e)
+[^c-e8a02e98b80e0c0363b4a1a3461d6662]: Commencement: Reg. 53 in force at 24.2.2020 for specified purposes, see reg. 1(2)(e)
 
-[^key-f7411e79501bd61e83b377e35af09dde]: Commencement: Reg. 53 in force at 29.5.2020 in so far as not already in force, see reg. 1(3)
+[^c-f7411e79501bd61e83b377e35af09dde]: Commencement: Reg. 53 in force at 29.5.2020 in so far as not already in force, see reg. 1(3)
 
-[^key-f665d2268d6e4df21d7923bb50917f16]: Commencement: Sch. 1 para. 1 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-f665d2268d6e4df21d7923bb50917f16]: Commencement: Sch. 1 para. 1 in force at 24.2.2020, see reg. 1(2)(c)
 
 [^c23972631]: Marginal citation: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33); section 19 is amended by the [Mortmain (Repeals) Act (Northern Ireland) 1960 (c. 20)](https://www.legislation.gov.uk/apni/1960/20).
 
-[^key-01ead2429ef2ec2eb5144886a996422a]: Commencement: Sch. 1 para. 2 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-01ead2429ef2ec2eb5144886a996422a]: Commencement: Sch. 1 para. 2 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-88dd2660915e7566520190695ef1ea29]: Commencement: Sch. 1 para. 3 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-88dd2660915e7566520190695ef1ea29]: Commencement: Sch. 1 para. 3 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-d4d55e816d35376ef97a28850b50c7f5]: Commencement: Sch. 1 para. 4 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-d4d55e816d35376ef97a28850b50c7f5]: Commencement: Sch. 1 para. 4 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-b1188894f59f64603672f899df7ca000]: Commencement: Sch. 1 para. 5 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+[^c-b1188894f59f64603672f899df7ca000]: Commencement: Sch. 1 para. 5 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
 
-[^key-cf50eca084dddf7e29328caea89ab522]: Textual amendment: Word in [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/5/5) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 42(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/42/2) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-cf50eca084dddf7e29328caea89ab522]: Textual amendment: Word in [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/5/5) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 42(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/42/2) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-9a63c0c166e0e9a2fbef7ba5728264c8]: Textual amendment: [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/5/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 42(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/42/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-9a63c0c166e0e9a2fbef7ba5728264c8]: Textual amendment: [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/5/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 42(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/42/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-9fefa23ab9a4d4a6159959bec88f568f]: Commencement: Sch. 1 para. 6 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-9fefa23ab9a4d4a6159959bec88f568f]: Commencement: Sch. 1 para. 6 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-b562fbd44fe6751526a757270fef83f2]: Commencement: Sch. 1 para. 7 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-b562fbd44fe6751526a757270fef83f2]: Commencement: Sch. 1 para. 7 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-471d93e6aa5e99f2ca950b31cfbd2597]: Commencement: Sch. 1 para. 8 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-471d93e6aa5e99f2ca950b31cfbd2597]: Commencement: Sch. 1 para. 8 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-fd572bb84a77694bad6806e8b3af7190]: Commencement: Sch. 1 para. 9 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-fd572bb84a77694bad6806e8b3af7190]: Commencement: Sch. 1 para. 9 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-12130f984145345f6773ad443ecbc78e]: Commencement: Sch. 1 para. 10 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+[^c-12130f984145345f6773ad443ecbc78e]: Commencement: Sch. 1 para. 10 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
 
-[^key-a773e7dd0982e19d3176470ee3eb08a8]: Textual amendment: Words in [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/10/b) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/a)
+[^c-a773e7dd0982e19d3176470ee3eb08a8]: Textual amendment: Words in [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/10/b) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/a)
 
-[^key-7738f05d097f9f9da611e38248841ef6]: Commencement: Sch. 1 para. 11 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-7738f05d097f9f9da611e38248841ef6]: Commencement: Sch. 1 para. 11 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-98aedb667cc206650660ea8ecbffd347]: Commencement: Sch. 1 para. 12 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+[^c-98aedb667cc206650660ea8ecbffd347]: Commencement: Sch. 1 para. 12 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
 
-[^key-45969c38f15b95d136253f47c3e27621]: Textual amendment: Words in [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/b)
+[^c-45969c38f15b95d136253f47c3e27621]: Textual amendment: Words in [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/b)
 
-[^key-cd3233ba815ef85368759a7990698f5e]: Textual amendment: Words in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(c)(i)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/c/i)
+[^c-cd3233ba815ef85368759a7990698f5e]: Textual amendment: Words in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(c)(i)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/c/i)
 
-[^key-bfb9b27e3e7e23c30e52ec7e409ffde9]: Textual amendment: Words in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/c/ii)
+[^c-bfb9b27e3e7e23c30e52ec7e409ffde9]: Textual amendment: Words in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/c/ii)
 
-[^key-da9871132288031f0c23f9d29f2fef14]: Commencement: Sch. 1 para. 13 in force at 24.2.2020, see reg. 1(2)(c)
+[^c-da9871132288031f0c23f9d29f2fef14]: Commencement: Sch. 1 para. 13 in force at 24.2.2020, see reg. 1(2)(c)
 
-[^key-c2de61516e1bb60789cff9d881303a7e]: Commencement: Sch. 1 para. 14 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+[^c-c2de61516e1bb60789cff9d881303a7e]: Commencement: Sch. 1 para. 14 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
 
-[^key-79bc92201e02bd2a06b5fdcd1ecf67c7]: Textual amendment: Words in [Sch. 1 para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/14/3/a) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(d)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/d)
+[^c-79bc92201e02bd2a06b5fdcd1ecf67c7]: Textual amendment: Words in [Sch. 1 para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/14/3/a) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(d)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/d)
 
-[^key-cc9ff84197b8afbdc14ee8f45b588da4]: Commencement: Sch. 2 para. 1 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-cc9ff84197b8afbdc14ee8f45b588da4]: Commencement: Sch. 2 para. 1 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-e27809449b5b9affa176edc299982594]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/1/5) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/a)
+[^c-e27809449b5b9affa176edc299982594]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/1/5) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/a)
 
-[^key-032a06116eb866dcb4c8d7bf937440c8]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/1/6) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/b)
+[^c-032a06116eb866dcb4c8d7bf937440c8]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/1/6) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/b)
 
-[^key-7ba9cc998132fc31e25b8d743ff4a4eb]: Commencement: Sch. 2 para. 2 in force at 29.5.2020, see reg. 1(3)
+[^c-7ba9cc998132fc31e25b8d743ff4a4eb]: Commencement: Sch. 2 para. 2 in force at 29.5.2020, see reg. 1(3)
 
-[^key-7d8605f286c7ec457a42d4f9d6dbd284]: Commencement: Sch. 2 para. 3 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-7d8605f286c7ec457a42d4f9d6dbd284]: Commencement: Sch. 2 para. 3 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-c4397c5f5519f1b2cac2d355033b3970]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/3/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(c)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/c)
+[^c-c4397c5f5519f1b2cac2d355033b3970]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/3/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(c)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/c)
 
-[^key-777e530297105d13db628866ee272e1b]: Commencement: Sch. 2 para. 4(1) in force at 24.2.2020, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/d)
+[^c-777e530297105d13db628866ee272e1b]: Commencement: Sch. 2 para. 4(1) in force at 24.2.2020, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/d)
 
-[^key-56ec7166e1b8d1d5f105ec28bc7c9f6a]: Commencement: Sch. 2 para. 4(2) in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+[^c-56ec7166e1b8d1d5f105ec28bc7c9f6a]: Commencement: Sch. 2 para. 4(2) in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
 
-[^key-fa9e4d9c1ad3de89da69f1348a984f50]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/4/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(d)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/d)
+[^c-fa9e4d9c1ad3de89da69f1348a984f50]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/4/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(d)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/d)
 
-[^key-c7c1718dbe4070040a6fdc67762a5af2]: Commencement: Sch. 3 para. 1 in force at 24.2.2020, see reg. 1(2)(e)
+[^c-c7c1718dbe4070040a6fdc67762a5af2]: Commencement: Sch. 3 para. 1 in force at 24.2.2020, see reg. 1(2)(e)
 
 [^c23972641]: Marginal citation: [1975 c. 25](https://www.legislation.gov.uk/ukpga/1975/25); there are amendments to Part 2 of Schedule 1 not relevant to these Regulation.
 
-[^key-71e854c575e1f5de5f0a2401b8518ec1]: Commencement: Sch. 3 para. 2 in force at 29.5.2020, see reg. 1(3)
+[^c-71e854c575e1f5de5f0a2401b8518ec1]: Commencement: Sch. 3 para. 2 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972651]: Marginal citation: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023). The Order was revoked in relation to Scotland by [S.S.I. 2003/231](https://www.legislation.gov.uk/ssi/2003/231).
 
@@ -1811,7 +1811,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972671]: Marginal citation: Paragraph 24 was inserted by [S.I. 2019/1051](https://www.legislation.gov.uk/uksi/2019/1051).
 
-[^key-0aaa56470e414ec910fd043be30ff325]: Commencement: Sch. 3 para. 3 in force at 29.5.2020, see reg. 1(3)
+[^c-0aaa56470e414ec910fd043be30ff325]: Commencement: Sch. 3 para. 3 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972681]: Marginal citation: S.R. [1979 No. 195](https://www.legislation.gov.uk/nisr/1979/195).
 
@@ -1819,13 +1819,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23972701]: Marginal citation: Paragraph 26 was inserted by S.R. [2014 No. 224](https://www.legislation.gov.uk/nisr/2014/224).
 
-[^key-316109bf7c963289b3d562da7b04ad82]: Commencement: Sch. 3 para. 4 in force at 24.2.2020, see reg. 1(2)(e)
+[^c-316109bf7c963289b3d562da7b04ad82]: Commencement: Sch. 3 para. 4 in force at 24.2.2020, see reg. 1(2)(e)
 
-[^key-6a7fd79059fdf179f104117037adaf44]: Commencement: Sch. 3 para. 5 in force at 24.2.2020, see reg. 1(2)(e)
+[^c-6a7fd79059fdf179f104117037adaf44]: Commencement: Sch. 3 para. 5 in force at 24.2.2020, see reg. 1(2)(e)
 
 [^c23972711]: Marginal citation: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26). There are amendments to Schedule 1 not relevant to these Regulations.
 
-[^key-40302bf890a271115ec0585e41fdc164]: Commencement: Sch. 3 para. 6 in force at 29.5.2020, see reg. 1(3)
+[^c-40302bf890a271115ec0585e41fdc164]: Commencement: Sch. 3 para. 6 in force at 29.5.2020, see reg. 1(3)
 
 [^c23972721]: Marginal citation: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206A. Modification of basic rule where allowances restricted for certain expenditure[^key-34dce7c68b07462c37634cd2a68c5108]
+## 206A. Modification of basic rule where allowances restricted for certain expenditure[^c-34dce7c68b07462c37634cd2a68c5108]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34dce7c68b07462c37634cd2a68c5108]: Textual amendment: S. 206A inserted (with effect in accordance with Sch. 32 para. 16 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/14)
+[^c-34dce7c68b07462c37634cd2a68c5108]: Textual amendment: S. 206A inserted (with effect in accordance with Sch. 32 para. 16 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/14)

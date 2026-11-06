@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 8 — Restrictions on placing on the market and export[^key-98834ffb26298673be328a7c80ecba98]
+## SCHEDULE 8 — Restrictions on placing on the market and export[^c-98834ffb26298673be328a7c80ecba98]
 
 *Extent: E+W+S+NI*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 5(g)
 
-### 1. Placing on the market or export to third countries of bovine products[^key-98834ffb26298673be328a7c80ecba98]
+### 1. Placing on the market or export to third countries of bovine products[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Placing on the market or export to third countries of bovine animals[^key-98834ffb26298673be328a7c80ecba98]
+### 2. Placing on the market or export to third countries of bovine animals[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Export to member States of heads and un-split carcases[^key-98834ffb26298673be328a7c80ecba98]
+### 3. Export to member States of heads and un-split carcases[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Export to third countries of products containing specified risk material[^key-98834ffb26298673be328a7c80ecba98]
+### 4. Export to third countries of products containing specified risk material[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Further offences relating to placing on the market and export[^key-98834ffb26298673be328a7c80ecba98]
+### 5. Further offences relating to placing on the market and export[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98834ffb26298673be328a7c80ecba98]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2018/731/regulation/23))
+[^c-98834ffb26298673be328a7c80ecba98]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2018/731/regulation/23))

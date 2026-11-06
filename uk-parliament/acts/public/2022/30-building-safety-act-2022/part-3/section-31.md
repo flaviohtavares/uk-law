@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Higher-risk buildings etc[^key-a959b99f827e58fe3bebb5ab492aae89][^key-823d6d634ffdbf9163c4057187c597df][^key-a636b3eb48222ef8dba078d8f1767b55]
+## 31. Higher-risk buildings etc[^c-a959b99f827e58fe3bebb5ab492aae89][^c-823d6d634ffdbf9163c4057187c597df][^c-a636b3eb48222ef8dba078d8f1767b55]
 
 *Extent: E+W*
 
@@ -164,8 +164,8 @@ In the Building Act 1984 after section 120C (inserted by Schedule 5) insert—
 
 ## Annotations
 
-[^key-a959b99f827e58fe3bebb5ab492aae89]: Commencement: S. 31 not in force at Royal Assent, see [s. 170(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/a)(i)(c)
+[^c-a959b99f827e58fe3bebb5ab492aae89]: Commencement: S. 31 not in force at Royal Assent, see [s. 170(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/a)(i)(c)
 
-[^key-823d6d634ffdbf9163c4057187c597df]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/30/section/31) in force at 28.6.2022 for specified purposes by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/d)
+[^c-823d6d634ffdbf9163c4057187c597df]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/30/section/31) in force at 28.6.2022 for specified purposes by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/d)
 
-[^key-a636b3eb48222ef8dba078d8f1767b55]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/30/section/31) in force at 9.12.2022 for specified purposes by [S.I. 2022/1287](https://www.legislation.gov.uk/wsi/2022/1287), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2022/1287/regulation/2/a)
+[^c-a636b3eb48222ef8dba078d8f1767b55]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/30/section/31) in force at 9.12.2022 for specified purposes by [S.I. 2022/1287](https://www.legislation.gov.uk/wsi/2022/1287), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2022/1287/regulation/2/a)

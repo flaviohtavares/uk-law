@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of the Environment in exercise of the powers conferred by Section 36 of the Local Government Act (Northern Ireland) 1972[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby makes the following regulations:—
 
-## 1. Citation and commencement[^key-5f93526546b54f53414bb7d9dc73422f]
+## 1. Citation and commencement[^c-5f93526546b54f53414bb7d9dc73422f]
 
 These regulations which may be cited as the Councillors (Travelling and Subsistence Allowances) (Amendment) Regulations (Northern Ireland) 1997 shall come into operation on 4th November 1997 and shall have effect from 1st April 1994.
 
-## 2. Revocation[^key-f1d4e59a07aedf1f913decef1aa7f59a]
+## 2. Revocation[^c-f1d4e59a07aedf1f913decef1aa7f59a]
 
 Regulation 4 of the Local Government (Travelling and Subsistence Allowances) (Amendment) Regulations (Northern Ireland) 1979[^f00003] is hereby revoked.
 
-## 3. Rules with respect to payment of travelling allowances[^key-7772387179219ca10363dc05e64e6ec9]
+## 3. Rules with respect to payment of travelling allowances[^c-7772387179219ca10363dc05e64e6ec9]
 
 For paragraph 6 of Schedule 1 to the Local Government (Travelling and Subsistence Allowances to Councillors) (No. 2) Regulations (Northern Ireland) 1973[^f00004] there shall be substituted:—
 
@@ -75,7 +75,7 @@ For paragraph 6 of Schedule 1 to the Local Government (Travelling and Subsistenc
 >
 > (4) For the purpose of this regulation a councillor’s “private vehicle” includes a vehicle belonging to a member of his family or otherwise provided for his use.
 
-## 4. Rules with respect to payment of subsistence allowances[^key-8e878dc6ecc1ccafd6887aca46d97435]
+## 4. Rules with respect to payment of subsistence allowances[^c-8e878dc6ecc1ccafd6887aca46d97435]
 
 For Schedule 2 to the Local Government (Travelling and Subsistence Allowances to Councillors) (No. 2) Regulations (Northern Ireland) 1973 there shall be substituted the Schedule to these regulations.
 
@@ -87,7 +87,7 @@ Assistant Secretary
 
 23rd September 1997.
 
-## SCHEDULE[^key-580a18f37e84f32d8881e1a5f8f69639]
+## SCHEDULE[^c-580a18f37e84f32d8881e1a5f8f69639]
 
 Regulation 4
 
@@ -130,16 +130,16 @@ The regulations have, by virtue of section 18 of the Administrative and Financia
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Art. 7(1); and [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424) Art. 3
 
-[^key-5f93526546b54f53414bb7d9dc73422f]: Commencement: Reg. 1 in operation at 4.11.1997 with effect in accordance with reg. 1
+[^c-5f93526546b54f53414bb7d9dc73422f]: Commencement: Reg. 1 in operation at 4.11.1997 with effect in accordance with reg. 1
 
-[^key-f1d4e59a07aedf1f913decef1aa7f59a]: Commencement: Reg. 2 in operation at 4.11.1997 with effect in accordance with reg. 1
+[^c-f1d4e59a07aedf1f913decef1aa7f59a]: Commencement: Reg. 2 in operation at 4.11.1997 with effect in accordance with reg. 1
 
 [^f00003]: Footnote: [S.R. 1979 No. 25](https://www.legislation.gov.uk/nisr/1979/25)
 
-[^key-7772387179219ca10363dc05e64e6ec9]: Commencement: Reg. 3 in operation at 4.11.1997 with effect in accordance with reg. 1
+[^c-7772387179219ca10363dc05e64e6ec9]: Commencement: Reg. 3 in operation at 4.11.1997 with effect in accordance with reg. 1
 
 [^f00004]: Footnote: [S.R. & O. (N.I.) 1973 No. 366](https://www.legislation.gov.uk/nisro/1973/366) as amended by [S.R. 1979 No. 25](https://www.legislation.gov.uk/nisr/1979/25) and [S.R. 1981 No. 114](https://www.legislation.gov.uk/nisr/1981/114)
 
-[^key-8e878dc6ecc1ccafd6887aca46d97435]: Commencement: Reg. 4 in operation at 4.11.1997 with effect in accordance with reg. 1
+[^c-8e878dc6ecc1ccafd6887aca46d97435]: Commencement: Reg. 4 in operation at 4.11.1997 with effect in accordance with reg. 1
 
-[^key-580a18f37e84f32d8881e1a5f8f69639]: Commencement: Sch. in operation at 4.11.1997 with effect in accordance with reg. 1
+[^c-580a18f37e84f32d8881e1a5f8f69639]: Commencement: Sch. in operation at 4.11.1997 with effect in accordance with reg. 1

@@ -50,7 +50,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and application[^key-04507b37264fb49a09cf547d4978036b]
+### 1. Citation, commencement and application[^c-04507b37264fb49a09cf547d4978036b]
 
 (1) This Order may be cited as the Export Control (Democratic Republic of Congo Sanctions and Miscellaneous Amendments and Revocations) Order 2015 and comes into force on 11th August 2015.
 
@@ -59,11 +59,11 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 - (a) in the United Kingdom by any person;
 - (b) elsewhere by any person who is a United Kingdom person within the meaning of section 11 of the Export Control Act 2002[^f00004].
 
-### 2. Revocations[^key-9635e05b83bf6d7dea69f1e562da9033]
+### 2. Revocations[^c-9635e05b83bf6d7dea69f1e562da9033]
 
 The Orders specified in the Schedule to this Order are revoked.
 
-### 3. Interpretation[^key-825ae0c0df9546ea16745a09589de133]
+### 3. Interpretation[^c-825ae0c0df9546ea16745a09589de133]
 
 (1) In this Order—
 
@@ -75,33 +75,33 @@ The Orders specified in the Schedule to this Order are revoked.
 
 ## PART 2 — Offences in relation to prohibitions in the Democratic Republic of Congo Regulation
 
-### 4. Offences in relation to prohibitions in the Democratic Republic of Congo Regulation[^key-c5fb2f0216b519a31ca871d1760f9cfd]
+### 4. Offences in relation to prohibitions in the Democratic Republic of Congo Regulation[^c-c5fb2f0216b519a31ca871d1760f9cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Supplementary provisions as to offences
 
-### 5. Circumvention of prohibitions[^key-c5fb2f0216b519a31ca871d1760f9cfd]
+### 5. Circumvention of prohibitions[^c-c5fb2f0216b519a31ca871d1760f9cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences related to EU authorisation[^key-c5fb2f0216b519a31ca871d1760f9cfd]
+### 6. Offences related to EU authorisation[^c-c5fb2f0216b519a31ca871d1760f9cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Enforcement and penalties
 
-### 7. Penalties[^key-c5fb2f0216b519a31ca871d1760f9cfd]
+### 7. Penalties[^c-c5fb2f0216b519a31ca871d1760f9cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Application of the 1979 Act[^key-c5fb2f0216b519a31ca871d1760f9cfd]
+### 8. Application of the 1979 Act[^c-c5fb2f0216b519a31ca871d1760f9cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — General
 
-### 9. Amendment to the Export Control (Sudan, South Sudan and Central African Republic Sanctions) Regulations 2014[^key-40acb79a205dca920aab37c113c845bb]
+### 9. Amendment to the Export Control (Sudan, South Sudan and Central African Republic Sanctions) Regulations 2014[^c-40acb79a205dca920aab37c113c845bb]
 
 The Export Control (Sudan, South Sudan and Central African Republic Sanctions) Regulations 2014[^f00020] are amended as follows—
 
@@ -114,7 +114,7 @@ The Export Control (Sudan, South Sudan and Central African Republic Sanctions) R
   - (i) in paragraph (a), for “Article 2(a)”, substitute “Article 2(1)”;
   - (ii) in paragraph (b), for “Article 2(b)”, substitute “Article 2(2)”.
 
-### 10. Amendment to the Export Control Order 2008[^key-04a14bff09c3e7e74fb76c3f0b7c0b2f]
+### 10. Amendment to the Export Control Order 2008[^c-04a14bff09c3e7e74fb76c3f0b7c0b2f]
 
 The Export Control Order 2008[^f00022] is amended as follows—
 
@@ -124,11 +124,11 @@ The Export Control Order 2008[^f00022] is amended as follows—
   - (i) after “Ghana”, insert “Guinea”;
   - (ii) after “Serbia”, insert “Sierra Leone”.
 
-### 11. Amendment to the Export Control (Syria Sanctions) Order 2013[^key-f0582fb73caeb76f17aaad8098349f11]
+### 11. Amendment to the Export Control (Syria Sanctions) Order 2013[^c-f0582fb73caeb76f17aaad8098349f11]
 
 In article 3(1) of the Export Control (Syria Sanctions) Order 2013, in the definition of “the Syria Regulation”, for the words “as last amended by Council Regulation (EU) No 1323/2014”, substitute “as last amended by Council Regulation (EU) No 827/2015[^f00023]”.
 
-### 12. Review[^key-3dc94a0e2cd77e15eadfce5e51ee403b]
+### 12. Review[^c-3dc94a0e2cd77e15eadfce5e51ee403b]
 
 (1) The Secretary of State must from time to time—
 
@@ -154,7 +154,7 @@ Minister of State for Small Business, Industry and Enterprise
 
 Department for Business, Innovation and Skills
 
-## SCHEDULE — Revocations[^key-67124a2217af6f5136a30b1cf14a488d]
+## SCHEDULE — Revocations[^c-67124a2217af6f5136a30b1cf14a488d]
 
 Article 2
 
@@ -208,13 +208,13 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^f00003]: Footnote: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28).
 
-[^key-04507b37264fb49a09cf547d4978036b]: Commencement: Art. 1 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-04507b37264fb49a09cf547d4978036b]: Commencement: Art. 1 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
 
 [^f00004]: Footnote: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28).
 
-[^key-9635e05b83bf6d7dea69f1e562da9033]: Commencement: Art. 2 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-9635e05b83bf6d7dea69f1e562da9033]: Commencement: Art. 2 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
 
-[^key-825ae0c0df9546ea16745a09589de133]: Commencement: Art. 3 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-825ae0c0df9546ea16745a09589de133]: Commencement: Art. 3 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
 
 [^f00005]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -222,22 +222,22 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^f00007]: Footnote: OJ No L 102, 21.4.2015, p3.
 
-[^key-c5fb2f0216b519a31ca871d1760f9cfd]: Textual amendment: [Arts. 4-8](https://www.legislation.gov.uk/uksi/2015/1546/article/4) omitted (31.12.2020) by virtue of [The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/433)](https://www.legislation.gov.uk/uksi/2019/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2), [68(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/68/2); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5fb2f0216b519a31ca871d1760f9cfd]: Textual amendment: [Arts. 4-8](https://www.legislation.gov.uk/uksi/2015/1546/article/4) omitted (31.12.2020) by virtue of [The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/433)](https://www.legislation.gov.uk/uksi/2019/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2), [68(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/68/2); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40acb79a205dca920aab37c113c845bb]: Commencement: Art. 9 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-40acb79a205dca920aab37c113c845bb]: Commencement: Art. 9 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
 
 [^f00020]: Footnote: [S.I. 2014/3258](https://www.legislation.gov.uk/uksi/2014/3258).
 
 [^f00021]: Footnote: OJ No L 117, 8.5.2015, p13.
 
-[^key-04a14bff09c3e7e74fb76c3f0b7c0b2f]: Commencement: Art. 10 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-04a14bff09c3e7e74fb76c3f0b7c0b2f]: Commencement: Art. 10 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
 
 [^f00022]: Footnote: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231), to which there are amendments not relelvant to these Regulations.
 
-[^key-f0582fb73caeb76f17aaad8098349f11]: Commencement: Art. 11 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-f0582fb73caeb76f17aaad8098349f11]: Commencement: Art. 11 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
 
 [^f00023]: Footnote: OJ No L 132, 29.5.2015, p1.
 
-[^key-3dc94a0e2cd77e15eadfce5e51ee403b]: Commencement: Art. 12 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-3dc94a0e2cd77e15eadfce5e51ee403b]: Commencement: Art. 12 in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
 
-[^key-67124a2217af6f5136a30b1cf14a488d]: Commencement: Sch. in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)
+[^c-67124a2217af6f5136a30b1cf14a488d]: Commencement: Sch. in force at 11.8.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1)

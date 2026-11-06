@@ -137,18 +137,18 @@ Section 39
 
 **21.** In the heading to Part 9, after “companies” there is inserted “ and unincorporated associations ”.
 
-**22.**[^key-23c9ee6c9332068a7c15a920efc7e8ed] In section 145 (function of Commission with respect to compliance with controls imposed by 2000 Act etc), in subsection (7) (definitions), for “and sections 146 and 148” there is substituted “ , section 148 and Schedule 19B ”.
+**22.**[^c-23c9ee6c9332068a7c15a920efc7e8ed] In section 145 (function of Commission with respect to compliance with controls imposed by 2000 Act etc), in subsection (7) (definitions), for “and sections 146 and 148” there is substituted “ , section 148 and Schedule 19B ”.
 
-**23.**[^key-d1a4f7f5c6afbbf7d116b1701d45e909] In section 148 (general offences), in subsection (1) (offence of tampering with or hiding documents etc), for the words after paragraph (b) there is substituted “ any book, record or other document which is or is liable to be required to be produced for inspection under paragraph 1 or 3 of Schedule 19B, and does so with the intention of falsifying the document or enabling any person to evade any of the provisions of this Act. ”
+**23.**[^c-d1a4f7f5c6afbbf7d116b1701d45e909] In section 148 (general offences), in subsection (1) (offence of tampering with or hiding documents etc), for the words after paragraph (b) there is substituted “ any book, record or other document which is or is liable to be required to be produced for inspection under paragraph 1 or 3 of Schedule 19B, and does so with the intention of falsifying the document or enabling any person to evade any of the provisions of this Act. ”
 
-**24.**[^key-710e9016a615c55329a2d1182831a19b] In section 149 (inspection of Commission's registers etc), in subsection (1), after paragraph (d) there is inserted—
+**24.**[^c-710e9016a615c55329a2d1182831a19b] In section 149 (inspection of Commission's registers etc), in subsection (1), after paragraph (d) there is inserted—
 
 > - (e) paragraph 19 of Schedule 7;
 > - (f) paragraph 7 of Schedule 19A.
 
-**25.**[^key-2f946712baa4fcedba9f34330ec789e5] In section 156 (orders and regulations), in subsection (2), for “subsections (3) and (4)” there is substituted “ subsections (3) to (4A) ”.
+**25.**[^c-2f946712baa4fcedba9f34330ec789e5] In section 156 (orders and regulations), in subsection (2), for “subsections (3) and (4)” there is substituted “ subsections (3) to (4A) ”.
 
-**26.**[^key-405112979d10191214b6b9e9c0eb3f25] In section 160 (general interpretation), in subsection (1) (definitions), at the appropriate places there are inserted—
+**26.**[^c-405112979d10191214b6b9e9c0eb3f25] In section 160 (general interpretation), in subsection (1) (definitions), at the appropriate places there are inserted—
 
 > “**contravention**” includes a failure to comply, and cognate expressions shall be construed accordingly;
 
@@ -229,12 +229,12 @@ Section 39
 
 [^c2034510]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/8) wholly in force at 4.9.2009; [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/8) not in force at Royal Assent see [s. 43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1); [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/8) in force at 4.9.2009 by [S.I. 2009/2395](https://www.legislation.gov.uk/uksi/2009/2395), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/2395/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/2395/article/3))
 
-[^key-23c9ee6c9332068a7c15a920efc7e8ed]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/22) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)
+[^c-23c9ee6c9332068a7c15a920efc7e8ed]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/22) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)
 
-[^key-d1a4f7f5c6afbbf7d116b1701d45e909]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/23) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)
+[^c-d1a4f7f5c6afbbf7d116b1701d45e909]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/23) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)
 
-[^key-710e9016a615c55329a2d1182831a19b]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/24) in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(j)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/j)
+[^c-710e9016a615c55329a2d1182831a19b]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/24) in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(j)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/j)
 
-[^key-2f946712baa4fcedba9f34330ec789e5]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/25) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)
+[^c-2f946712baa4fcedba9f34330ec789e5]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/25) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)
 
-[^key-405112979d10191214b6b9e9c0eb3f25]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/26) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)
+[^c-405112979d10191214b6b9e9c0eb3f25]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/26) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/g)

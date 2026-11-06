@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Provision of information to Audit Commission[^key-65424b7c8ff415d5cb102f6965d4a8d0]
+## 57. Provision of information to Audit Commission[^c-65424b7c8ff415d5cb102f6965d4a8d0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65424b7c8ff415d5cb102f6965d4a8d0]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/2004/23/section/57) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 61](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/61); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-65424b7c8ff415d5cb102f6965d4a8d0]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/2004/23/section/57) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 61](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/61); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

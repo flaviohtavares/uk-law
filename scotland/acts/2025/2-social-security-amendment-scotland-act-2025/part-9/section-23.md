@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Duty on Commission to publish annual report[^key-bacc37368caff0c6458e7646f812433f][^key-8c36aad601440dd9f7b3806d768581d6]
+## 23. Duty on Commission to publish annual report[^c-bacc37368caff0c6458e7646f812433f][^c-8c36aad601440dd9f7b3806d768581d6]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bacc37368caff0c6458e7646f812433f]: Commencement: S. 23 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-bacc37368caff0c6458e7646f812433f]: Commencement: S. 23 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-8c36aad601440dd9f7b3806d768581d6]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/2/section/23) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/119/regulation/6))
+[^c-8c36aad601440dd9f7b3806d768581d6]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/2/section/23) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/119/regulation/6))

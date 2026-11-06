@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 107. Citation and commencement[^key-6f6094b1051fc83a2b460cfe3dd9fde1]
+## 107. Citation and commencement[^c-6f6094b1051fc83a2b460cfe3dd9fde1]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f6094b1051fc83a2b460cfe3dd9fde1]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2005/2022/rule/107) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-6f6094b1051fc83a2b460cfe3dd9fde1]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2005/2022/rule/107) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

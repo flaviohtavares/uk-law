@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 268. Development and use of land held for planning purposes[^key-0ef0ed6824d7343bf04da7dfa1de18ae]
+## 268. Development and use of land held for planning purposes[^c-0ef0ed6824d7343bf04da7dfa1de18ae]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ef0ed6824d7343bf04da7dfa1de18ae]: Commencement: S. 268 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0ef0ed6824d7343bf04da7dfa1de18ae]: Commencement: S. 268 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

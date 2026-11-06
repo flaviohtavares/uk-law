@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 282. Third excepted case[^key-80b0a4dc0d6589db4bfaaf20bcdc0f04]
+## 282. Third excepted case[^c-80b0a4dc0d6589db4bfaaf20bcdc0f04]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The court’s permission under section 216(3) is not required where the investme
 
 ## Annotations
 
-[^key-80b0a4dc0d6589db4bfaaf20bcdc0f04]: Commencement: [Rule 282](https://www.legislation.gov.uk/uksi/2011/1301/rule/282) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-80b0a4dc0d6589db4bfaaf20bcdc0f04]: Commencement: [Rule 282](https://www.legislation.gov.uk/uksi/2011/1301/rule/282) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

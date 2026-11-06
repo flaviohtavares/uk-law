@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Incorporation of governing body of a school leaving a federation[^key-16b7025c70579da7680a5958460a69fe]
+## 90. Incorporation of governing body of a school leaving a federation[^c-16b7025c70579da7680a5958460a69fe]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On the date of dissolution the temporary governing body of each federated school
 
 ## Annotations
 
-[^key-16b7025c70579da7680a5958460a69fe]: Commencement: Reg. 90 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-16b7025c70579da7680a5958460a69fe]: Commencement: Reg. 90 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

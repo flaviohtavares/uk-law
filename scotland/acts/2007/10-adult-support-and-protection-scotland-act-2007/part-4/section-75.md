@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Assessment orders: amendment of Criminal Procedure (Scotland) Act 1995[^key-4c7177c0c00e0eba260975be7947d4da]
+## 75. Assessment orders: amendment of Criminal Procedure (Scotland) Act 1995[^c-4c7177c0c00e0eba260975be7947d4da]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ The Criminal Procedure (Scotland) Act 1995 (c. 46) is amended as follows—
 
 ## Annotations
 
-[^key-4c7177c0c00e0eba260975be7947d4da]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2007/10/section/75) in force at 30.6.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)
+[^c-4c7177c0c00e0eba260975be7947d4da]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2007/10/section/75) in force at 30.6.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)

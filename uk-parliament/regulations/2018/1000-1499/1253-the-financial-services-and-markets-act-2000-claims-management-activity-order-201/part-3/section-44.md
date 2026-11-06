@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Variation of authorisation by the Regulator: appeal of decision[^key-e98cfd2e925a8f86b3c5279887ec34e2][^key-6ec78d6a2a36a685b3496abd07cdde74]
+## 44. Variation of authorisation by the Regulator: appeal of decision[^c-e98cfd2e925a8f86b3c5279887ec34e2][^c-6ec78d6a2a36a685b3496abd07cdde74]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e98cfd2e925a8f86b3c5279887ec34e2]: Commencement: Art. 44 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-e98cfd2e925a8f86b3c5279887ec34e2]: Commencement: Art. 44 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-6ec78d6a2a36a685b3496abd07cdde74]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2018/1253/article/44) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-6ec78d6a2a36a685b3496abd07cdde74]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2018/1253/article/44) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

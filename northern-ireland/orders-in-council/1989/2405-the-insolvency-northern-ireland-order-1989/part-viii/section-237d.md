@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 237D. Approval of voluntary arrangement[^key-c7ffc9c492ce2affb474a8172f39c255][^c20138741]
+## 237D. Approval of voluntary arrangement[^c-c7ffc9c492ce2affb474a8172f39c255][^c20138741]
 
 *Extent: N.I.*
 
@@ -38,14 +38,14 @@ summary: ''
 
 (5) The High Court may give such directions about the conduct of the bankruptcy and the administration of the bankrupt's estate as it thinks appropriate for facilitating the implementation of the approved voluntary arrangement.
 
-(6)[^key-189acc371d5a5cc21457722ad8c1981c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-189acc371d5a5cc21457722ad8c1981c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A reference in this Order or another statutory provision to a voluntary arrangement approved under this Part includes a reference to a voluntary arrangement which has effect by virtue of this Article.
 
 ## Annotations
 
-[^key-c7ffc9c492ce2affb474a8172f39c255]: Modification: [Art. 237D](https://www.legislation.gov.uk/nisi/1989/2405/article/237D) excluded (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(2)(c)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/2/c)
+[^c-c7ffc9c492ce2affb474a8172f39c255]: Modification: [Art. 237D](https://www.legislation.gov.uk/nisi/1989/2405/article/237D) excluded (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(2)(c)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/2/c)
 
 [^c20138741]: Textual amendment: [Arts. 237A](https://www.legislation.gov.uk/nisi/1989/2405/article/237A) - 237G and preceding cross - heading inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [21](https://www.legislation.gov.uk/nisi/2005/1455/article/21), [Sch. 7 para. 2](https://www.legislation.gov.uk/nisi/2005/1455/schedule/7/paragraph/2) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2) - 7)
 
-[^key-189acc371d5a5cc21457722ad8c1981c]: Textual amendment: [Art. 237D(6)](https://www.legislation.gov.uk/nisi/1989/2405/article/237D/6) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-189acc371d5a5cc21457722ad8c1981c]: Textual amendment: [Art. 237D(6)](https://www.legislation.gov.uk/nisi/1989/2405/article/237D/6) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

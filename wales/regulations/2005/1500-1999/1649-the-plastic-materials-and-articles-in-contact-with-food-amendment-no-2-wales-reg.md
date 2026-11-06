@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Plastic Materials and Articles in Contact with Food (Amendment) (No. 2) (Wales) Regulations 2005 (revoked)[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+The Plastic Materials and Articles in Contact with Food (Amendment) (No. 2) (Wales) Regulations 2005 (revoked)[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 Made
 
@@ -41,109 +41,109 @@ Coming into force
 
 24 June 2005
 
-[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 1. Title, application and commencement[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 3.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 4.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 5.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 6.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 7.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 8.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 9.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 10.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 11.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 12.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 13.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 14.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 15.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## 16.[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — (ENTRIES TO BE INSERTED IN SECTION A OF PART I OF SCHEDULE 1)[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## SCHEDULE 1 — (ENTRIES TO BE INSERTED IN SECTION A OF PART I OF SCHEDULE 1)[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 Regulation 9(a)(i)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — (ENTRIES TO BE SUBSTITUTED FOR ENTRIES IN SECTION A OF PART I OF SCHEDULE 1)[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## SCHEDULE 2 — (ENTRIES TO BE SUBSTITUTED FOR ENTRIES IN SECTION A OF PART I OF SCHEDULE 1)[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 Regulation 9(a)(ii)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — (ENTRIES TO BE INSERTED IN PART I OF SCHEDULE 2)[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## SCHEDULE 3 — (ENTRIES TO BE INSERTED IN PART I OF SCHEDULE 2)[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 Regulation 11(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — (ENTRIES TO BE SUBSTITUTED FOR THE ENTRIES IN PART I OF SCHEDULE 2)[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## SCHEDULE 4 — (ENTRIES TO BE SUBSTITUTED FOR THE ENTRIES IN PART I OF SCHEDULE 2)[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 Regulation 11(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — (ENTRIES TO BE INSERTED IN PART II OF SCHEDULE 2)[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## SCHEDULE 5 — (ENTRIES TO BE INSERTED IN PART II OF SCHEDULE 2)[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 Regulation 12(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — (TABLE TO BE SUBSTITUTED FOR TABLE IN SCHEDULE 2B)[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]
+## SCHEDULE 6 — (TABLE TO BE SUBSTITUTED FOR TABLE IN SCHEDULE 2B)[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]
 
 Regulation 15
 
@@ -151,8 +151,8 @@ Regulation 15
 
 **May not be in force at this date. Check the source.**
 
-[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dcf342ae3ebd1c3a2b0ad563f02455c]: Textual amendment: Regulations revoked (19.11.2006) by [The Plastic Materials and Articles in Contact with Food (Wales) Regulations 2006 (S.I. 2006/2982)](https://www.legislation.gov.uk/uksi/2006/2982), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2982/regulation/1), [25(f)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/25/f) (with [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/18/1))
+[^c-2dcf342ae3ebd1c3a2b0ad563f02455c]: Textual amendment: Regulations revoked (19.11.2006) by [The Plastic Materials and Articles in Contact with Food (Wales) Regulations 2006 (S.I. 2006/2982)](https://www.legislation.gov.uk/uksi/2006/2982), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2982/regulation/1), [25(f)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/25/f) (with [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/18/1))

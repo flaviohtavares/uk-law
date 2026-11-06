@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Enterprise Act 2002 (Part 8 EU Infringements) Order 2014 (revoked)[^key-ab26b7a796c9cd83038d23a7c6fde315]
+The Enterprise Act 2002 (Part 8 EU Infringements) Order 2014 (revoked)[^c-ab26b7a796c9cd83038d23a7c6fde315]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 27th November 2014
 
-[^key-ab26b7a796c9cd83038d23a7c6fde315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab26b7a796c9cd83038d23a7c6fde315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ab26b7a796c9cd83038d23a7c6fde315]
+## 1. Citation and commencement[^c-ab26b7a796c9cd83038d23a7c6fde315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of the Enterprise Act 2002 (Part 8 EU Infringements) Order 2013[^key-ab26b7a796c9cd83038d23a7c6fde315]
+## 2. Revocation of the Enterprise Act 2002 (Part 8 EU Infringements) Order 2013[^c-ab26b7a796c9cd83038d23a7c6fde315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Listed Directive and Specified Law[^key-ab26b7a796c9cd83038d23a7c6fde315]
+## 3. Listed Directive and Specified Law[^c-ab26b7a796c9cd83038d23a7c6fde315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-ab26b7a796c9cd83038d23a7c6fde315]
+## 4.[^c-ab26b7a796c9cd83038d23a7c6fde315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab26b7a796c9cd83038d23a7c6fde315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab26b7a796c9cd83038d23a7c6fde315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — LISTED DIRECTIVES[^key-ab26b7a796c9cd83038d23a7c6fde315]
+## SCHEDULE — LISTED DIRECTIVES[^c-ab26b7a796c9cd83038d23a7c6fde315]
 
 Article 4
 
@@ -78,8 +78,8 @@ Article 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-ab26b7a796c9cd83038d23a7c6fde315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab26b7a796c9cd83038d23a7c6fde315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab26b7a796c9cd83038d23a7c6fde315]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2908) revoked (31.12.2020) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/203)](https://www.legislation.gov.uk/uksi/2019/203), [reg. 7(d)](https://www.legislation.gov.uk/uksi/2019/203/regulation/7/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/203/regulation/9)) (as amended by [S.I. 2020/1347](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab26b7a796c9cd83038d23a7c6fde315]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2908) revoked (31.12.2020) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/203)](https://www.legislation.gov.uk/uksi/2019/203), [reg. 7(d)](https://www.legislation.gov.uk/uksi/2019/203/regulation/7/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/203/regulation/9)) (as amended by [S.I. 2020/1347](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

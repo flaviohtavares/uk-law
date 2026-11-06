@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to section 261ZA, section 260(3)[^key-dfa24ac12f0a6dcd49601bcb23bcb3df] shall not apply where the transferee is not resident[^key-77ea815fdfe062bdc924175bcb2b6771] in the United Kingdom.
+(1) Subject to section 261ZA, section 260(3)[^c-dfa24ac12f0a6dcd49601bcb23bcb3df] shall not apply where the transferee is not resident[^c-77ea815fdfe062bdc924175bcb2b6771] in the United Kingdom.
 
 (2) Section 260(3) shall not apply where the transferee is an individual who—
 
-- (a) though resident [^key-0a121d84107c3085cc4cde38d2f63f7b]... in the United Kingdom, is regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom, and
+- (a) though resident [^c-0a121d84107c3085cc4cde38d2f63f7b]... in the United Kingdom, is regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom, and
 - (b) by virtue of the arrangements would not be liable in the United Kingdom to tax on a gain arising on a disposal of the asset occurring immediately after its acquisition.
 
 ## Annotations
 
-[^key-dfa24ac12f0a6dcd49601bcb23bcb3df]: Textual amendment: Words in s. 261(1) substituted (with effect in accordance with Sch. 7 para. 60 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2015/11/schedule/7/paragraph/32)
+[^c-dfa24ac12f0a6dcd49601bcb23bcb3df]: Textual amendment: Words in s. 261(1) substituted (with effect in accordance with Sch. 7 para. 60 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2015/11/schedule/7/paragraph/32)
 
-[^key-77ea815fdfe062bdc924175bcb2b6771]: Textual amendment: Words in s. 261(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 104(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/104/2)
+[^c-77ea815fdfe062bdc924175bcb2b6771]: Textual amendment: Words in s. 261(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 104(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/104/2)
 
-[^key-0a121d84107c3085cc4cde38d2f63f7b]: Textual amendment: Words in s. 261(2)(a) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 104(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/104/3)
+[^c-0a121d84107c3085cc4cde38d2f63f7b]: Textual amendment: Words in s. 261(2)(a) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 104(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/104/3)

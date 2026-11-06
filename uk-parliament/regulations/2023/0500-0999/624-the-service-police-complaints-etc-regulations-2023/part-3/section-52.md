@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Special procedure: duty to provide information to appropriate authority[^key-b00665fcec6a9ca36f47f2b95a7dac6c]
+## 52. Special procedure: duty to provide information to appropriate authority[^c-b00665fcec6a9ca36f47f2b95a7dac6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b00665fcec6a9ca36f47f2b95a7dac6c]: Commencement: Reg. 52 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-b00665fcec6a9ca36f47f2b95a7dac6c]: Commencement: Reg. 52 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

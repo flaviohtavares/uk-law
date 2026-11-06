@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Disclosure by cryptoasset businesses[^key-a3f3623f7bd411e9273a8de9ca1576dc]
+## 60A. Disclosure by cryptoasset businesses[^c-a3f3623f7bd411e9273a8de9ca1576dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a3f3623f7bd411e9273a8de9ca1576dc]: Textual amendment: Pt. 6 Ch. 3 inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(17)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/17)
+[^c-a3f3623f7bd411e9273a8de9ca1576dc]: Textual amendment: Pt. 6 Ch. 3 inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(17)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/17)
 
 [^c23048501]: Marginal citation: Section 226 was amended by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), section 39 and Schedule 11 and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209), [2011/99](https://www.legislation.gov.uk/uksi/2011/99), [2017/692](https://www.legislation.gov.uk/uksi/2017/692) and [2017/752](https://www.legislation.gov.uk/uksi/2017/752). Section 227 was amended by the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), section 61; the Financial Services Act 2012, section 39 and Schedule 11 and by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 

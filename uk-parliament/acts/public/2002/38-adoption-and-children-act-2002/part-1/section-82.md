@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Interpretation[^key-5c9b88910ffede51241eb28d73eb7467][^key-054b39fad949d3cbb87d3d3655b4896c]
+## 82. Interpretation[^c-5c9b88910ffede51241eb28d73eb7467][^c-054b39fad949d3cbb87d3d3655b4896c]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c9b88910ffede51241eb28d73eb7467]: Commencement: S. 82 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-5c9b88910ffede51241eb28d73eb7467]: Commencement: S. 82 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-054b39fad949d3cbb87d3d3655b4896c]: Modification: S. 82 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-054b39fad949d3cbb87d3d3655b4896c]: Modification: S. 82 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)

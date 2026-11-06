@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Principal Reporter's duty to prepare statement of grounds[^key-28ba6f91a702c9380168c40401cb0235]
+## 89. Principal Reporter's duty to prepare statement of grounds[^c-28ba6f91a702c9380168c40401cb0235]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28ba6f91a702c9380168c40401cb0235]: Commencement: S. 89 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-28ba6f91a702c9380168c40401cb0235]: Commencement: S. 89 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Local development plans[^key-845bb8d6ef0af2d1a0c9bee60d125e18][^key-d0aea2dab0bbfab6bc17d4223e37fb77]
+## 7. Local development plans[^c-845bb8d6ef0af2d1a0c9bee60d125e18][^c-d0aea2dab0bbfab6bc17d4223e37fb77]
 
 *Extent: S*
 
@@ -57,7 +57,7 @@ summary: ''
     ,
   - (vi) in paragraph (d), for “and systems for the supply of water and energy” substitute “ , systems for the supply of water and energy, and health care and education facilities ”,
   - (vii) the “and” immediately following paragraph (e) is repealed,
-  - (viii)[^key-45c5fc7d8b39d33a2a9512e6f4aa44c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii)[^c-45c5fc7d8b39d33a2a9512e6f4aa44c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (5) insert—
 
@@ -361,8 +361,8 @@ summary: ''
 
 ## Annotations
 
-[^key-845bb8d6ef0af2d1a0c9bee60d125e18]: Commencement: S. 7 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), sch.
+[^c-845bb8d6ef0af2d1a0c9bee60d125e18]: Commencement: S. 7 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), sch.
 
-[^key-d0aea2dab0bbfab6bc17d4223e37fb77]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/13/section/7) in force at 19.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
+[^c-d0aea2dab0bbfab6bc17d4223e37fb77]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/13/section/7) in force at 19.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
 
-[^key-45c5fc7d8b39d33a2a9512e6f4aa44c8]: Textual amendment: [S. 7(2)(e)(viii)](https://www.legislation.gov.uk/asp/2019/13/section/7/2/e/viii) omitted (18.12.2019) by virtue of [The Planning (Scotland) Act 2019 (Ancillary Provision) Regulations 2019 (S.S.I. 2019/424)](https://www.legislation.gov.uk/ssi/2019/424), [regs. 1](https://www.legislation.gov.uk/ssi/2019/424/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/424/regulation/2/2)
+[^c-45c5fc7d8b39d33a2a9512e6f4aa44c8]: Textual amendment: [S. 7(2)(e)(viii)](https://www.legislation.gov.uk/asp/2019/13/section/7/2/e/viii) omitted (18.12.2019) by virtue of [The Planning (Scotland) Act 2019 (Ancillary Provision) Regulations 2019 (S.S.I. 2019/424)](https://www.legislation.gov.uk/ssi/2019/424), [regs. 1](https://www.legislation.gov.uk/ssi/2019/424/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/424/regulation/2/2)

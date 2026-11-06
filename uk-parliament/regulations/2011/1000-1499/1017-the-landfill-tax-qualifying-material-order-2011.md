@@ -60,31 +60,31 @@ The Treasury has now set criteria to be considered in determining from time to t
 
 Accordingly, the Treasury, having regard to the criteria published by the Commissioners under section 42(5) of Finance Act 1996 and to the other factors they consider relevant, make the following Order in exercise of the powers conferred by sections 42(3) and 63(5) of the Finance Act 1996.
 
-## 1. Citation and Commencement[^key-09742b9eb796ef5b11487b7589997580]
+## 1. Citation and Commencement[^c-09742b9eb796ef5b11487b7589997580]
 
 This Order may be cited as the Landfill Tax (Qualifying Material) Order 2011 and comes into force on 1st April 2011 and has effect in relation to disposals made or treated as made on or after that day.
 
-## 2. Revocation[^key-398b86c5dd1a2653a3aaf41cf869a4e8]
+## 2. Revocation[^c-398b86c5dd1a2653a3aaf41cf869a4e8]
 
 The Landfill Tax (Qualifying Material) Order 1996[^f00003] is revoked.
 
-## 3. Qualifying Materials[^key-11533a0d70ca2c68e23f602e8f95d9de]
+## 3. Qualifying Materials[^c-11533a0d70ca2c68e23f602e8f95d9de]
 
 Subject to articles 4 to 6, the material listed in column 2 of the Schedule to this Order (“the Schedule”) is qualifying material for the purpose of section 42 of the Finance Act 1996.
 
-**4.**[^key-529c48aced2db799e8dfda906381eff6] The Schedule shall be construed in accordance with the notes contained in it.
+**4.**[^c-529c48aced2db799e8dfda906381eff6] The Schedule shall be construed in accordance with the notes contained in it.
 
-**5.**[^key-1c9853b0123e483023f95ea68050b914] The material listed in column 2 of the Schedule must not be treated as qualifying material unless any condition set out alongside the description of the material in column 3 of the Schedule is met.
+**5.**[^c-1c9853b0123e483023f95ea68050b914] The material listed in column 2 of the Schedule must not be treated as qualifying material unless any condition set out alongside the description of the material in column 3 of the Schedule is met.
 
-**6.**[^key-de8f40ba88025f9c56cbdc8f3caf52f1] Where the owner of the material immediately prior to the disposal and the operator of the landfill site at which the disposal is made are not the same person, material must not be treated as qualifying material unless it meets the relevant condition.
+**6.**[^c-de8f40ba88025f9c56cbdc8f3caf52f1] Where the owner of the material immediately prior to the disposal and the operator of the landfill site at which the disposal is made are not the same person, material must not be treated as qualifying material unless it meets the relevant condition.
 
-**7.**[^key-a5011d35fe5cf86c2dcaa6d299a94391] The relevant condition is that a transfer note includes in relation to each type of material of which the disposal consists a description of the material which—
+**7.**[^c-a5011d35fe5cf86c2dcaa6d299a94391] The relevant condition is that a transfer note includes in relation to each type of material of which the disposal consists a description of the material which—
 
 - (a) accords with its description in column 2 of the Schedule;
 - (b) accords with a description listed in a note to the Schedule (other than by way of exclusion); or
 - (c) is some other accurate description.
 
-**8.**[^key-98d5670e90ae3f527db1140864024d6c] In article 7 above “transfer note” means a transfer note within the meaning of—
+**8.**[^c-98d5670e90ae3f527db1140864024d6c] In article 7 above “transfer note” means a transfer note within the meaning of—
 
 - (a) the Environmental Protection (Duty of Care) Regulations 1991[^f00004] in relation to a disposal at a landfill site in Great Britain, or
 - (b) the Controlled Waste (Duty of Care) Regulations (Northern Ireland) 2002[^f00005] in relation to a disposal at a landfill site in Northern Ireland.
@@ -97,7 +97,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 31st March 2011
 
-## SCHEDULE[^key-0c73d2345db9782a78b8bb4ac43e2691]
+## SCHEDULE[^c-0c73d2345db9782a78b8bb4ac43e2691]
 
 Article 2
 
@@ -121,7 +121,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-019faf2f5e7bb0719b2ab15f13512f88]
+[^c-019faf2f5e7bb0719b2ab15f13512f88]
 
 EXPLANATORY NOTE
 
@@ -143,28 +143,28 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00002]: Footnote: Landfill tax was under the care and management of the Commissioners of Customs and Excise under section 39(2) of the Finance Act 1996. The functions of the Commissioners for Customs and Excise were transferred to the Commissioners for Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that, in so far as is appropriate in consequence of section 5, a reference to the Commissioners of Her Majesty’s Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-09742b9eb796ef5b11487b7589997580]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-09742b9eb796ef5b11487b7589997580]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
-[^key-398b86c5dd1a2653a3aaf41cf869a4e8]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-398b86c5dd1a2653a3aaf41cf869a4e8]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
 [^f00003]: Footnote: [S.I. 1996/1528](https://www.legislation.gov.uk/uksi/1996/1528).
 
-[^key-11533a0d70ca2c68e23f602e8f95d9de]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-11533a0d70ca2c68e23f602e8f95d9de]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
-[^key-529c48aced2db799e8dfda906381eff6]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-529c48aced2db799e8dfda906381eff6]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
-[^key-1c9853b0123e483023f95ea68050b914]: Commencement: Art. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-1c9853b0123e483023f95ea68050b914]: Commencement: Art. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
-[^key-de8f40ba88025f9c56cbdc8f3caf52f1]: Commencement: Art. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-de8f40ba88025f9c56cbdc8f3caf52f1]: Commencement: Art. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
-[^key-a5011d35fe5cf86c2dcaa6d299a94391]: Commencement: Art. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-a5011d35fe5cf86c2dcaa6d299a94391]: Commencement: Art. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
-[^key-98d5670e90ae3f527db1140864024d6c]: Commencement: Art. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-98d5670e90ae3f527db1140864024d6c]: Commencement: Art. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
 [^f00004]: Footnote: [S.I. 1991/2839](https://www.legislation.gov.uk/uksi/1991/2839). This Regulation has been amended, but none of the amendments are relevant.
 
 [^f00005]: Footnote: [S.I. 2002/271](https://www.legislation.gov.uk/uksi/2002/271). This Regulation has been amended, but none of the amendments are relevant.
 
-[^key-0c73d2345db9782a78b8bb4ac43e2691]: Commencement: Sch. in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
+[^c-0c73d2345db9782a78b8bb4ac43e2691]: Commencement: Sch. in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1017/article/1)
 
-[^key-019faf2f5e7bb0719b2ab15f13512f88]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2011/1017/schedule) Note (7) substituted (with effect in relation to disposals made or treated as made on or after 1.4.2012) by [The Landfill Tax (Qualifying Material) (Amendment) Order 2012 (S.I. 2012/940)](https://www.legislation.gov.uk/uksi/2012/940), [arts. 1](https://www.legislation.gov.uk/uksi/2012/940/article/1), [2](https://www.legislation.gov.uk/uksi/2012/940/article/2)
+[^c-019faf2f5e7bb0719b2ab15f13512f88]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2011/1017/schedule) Note (7) substituted (with effect in relation to disposals made or treated as made on or after 1.4.2012) by [The Landfill Tax (Qualifying Material) (Amendment) Order 2012 (S.I. 2012/940)](https://www.legislation.gov.uk/uksi/2012/940), [arts. 1](https://www.legislation.gov.uk/uksi/2012/940/article/1), [2](https://www.legislation.gov.uk/uksi/2012/940/article/2)

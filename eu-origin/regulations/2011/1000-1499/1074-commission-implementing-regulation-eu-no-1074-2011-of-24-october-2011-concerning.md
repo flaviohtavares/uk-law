@@ -35,18 +35,18 @@ concerning the authorisation of *Saccharomyces cerevisiae* NCYC R-625 as a feed 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f4d965539e4e5698b9e3c0978b601df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4d965539e4e5698b9e3c0978b601df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f4d965539e4e5698b9e3c0978b601df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f4d965539e4e5698b9e3c0978b601df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f4d965539e4e5698b9e3c0978b601df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f4d965539e4e5698b9e3c0978b601df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4d965539e4e5698b9e3c0978b601df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4d965539e4e5698b9e3c0978b601df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f4d965539e4e5698b9e3c0978b601df8]
+## ANNEX[^c-f4d965539e4e5698b9e3c0978b601df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4d965539e4e5698b9e3c0978b601df8]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 67](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/67) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-f4d965539e4e5698b9e3c0978b601df8]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 67](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/67) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

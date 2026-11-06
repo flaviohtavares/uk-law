@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. The non-liability condition[^key-ce814b020027014ce37f5700abb760d6]
+## 34. The non-liability condition[^c-ce814b020027014ce37f5700abb760d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce814b020027014ce37f5700abb760d6]: Textual amendment: Regs. 34-46 revoked (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2007/794/regulation/8/c)
+[^c-ce814b020027014ce37f5700abb760d6]: Textual amendment: Regs. 34-46 revoked (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2007/794/regulation/8/c)

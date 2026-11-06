@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Records and lists kept under this Part[^key-06c61bc603b2d69dbd2bd7f031575c62]
+## 80. Records and lists kept under this Part[^c-06c61bc603b2d69dbd2bd7f031575c62]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ other than for a permitted purpose specified in paragraph (8).
 
 ## Annotations
 
-[^key-06c61bc603b2d69dbd2bd7f031575c62]: Commencement: Reg. 80 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-06c61bc603b2d69dbd2bd7f031575c62]: Commencement: Reg. 80 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

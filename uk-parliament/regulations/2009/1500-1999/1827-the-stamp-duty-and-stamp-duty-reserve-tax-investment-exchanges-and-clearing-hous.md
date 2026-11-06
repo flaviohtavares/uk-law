@@ -34,7 +34,7 @@ Stamp Duty
 
 Stamp Duty Reserve Tax
 
-The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 8) 2009 (revoked)[^key-29c2fda293f4a170ee0bfb46a8daa4c2]
+The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 8) 2009 (revoked)[^c-29c2fda293f4a170ee0bfb46a8daa4c2]
 
 Made
 
@@ -48,40 +48,40 @@ Coming into force
 
 4th August 2009
 
-[^key-29c2fda293f4a170ee0bfb46a8daa4c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29c2fda293f4a170ee0bfb46a8daa4c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-29c2fda293f4a170ee0bfb46a8daa4c2]
+## 1. Citation and commencement[^c-29c2fda293f4a170ee0bfb46a8daa4c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-29c2fda293f4a170ee0bfb46a8daa4c2]
+## 2. Interpretation[^c-29c2fda293f4a170ee0bfb46a8daa4c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescription of recognised investment exchange and recognised clearing houses[^key-29c2fda293f4a170ee0bfb46a8daa4c2]
+## 3. Prescription of recognised investment exchange and recognised clearing houses[^c-29c2fda293f4a170ee0bfb46a8daa4c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed circumstances for the purposes of sections 116 and 117[^key-29c2fda293f4a170ee0bfb46a8daa4c2]
+## 4. Prescribed circumstances for the purposes of sections 116 and 117[^c-29c2fda293f4a170ee0bfb46a8daa4c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential provision[^key-29c2fda293f4a170ee0bfb46a8daa4c2]
+## 5. Consequential provision[^c-29c2fda293f4a170ee0bfb46a8daa4c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of the Stamp and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (European Central Counterparty Limited and the Turquoise Multilateral Trading Facility) Regulations 2008 ([SI 2008/1814](https://www.legislation.gov.uk/uksi/2008/1814))[^key-29c2fda293f4a170ee0bfb46a8daa4c2]
+## 6. Revocation of the Stamp and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (European Central Counterparty Limited and the Turquoise Multilateral Trading Facility) Regulations 2008 ([SI 2008/1814](https://www.legislation.gov.uk/uksi/2008/1814))[^c-29c2fda293f4a170ee0bfb46a8daa4c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-29c2fda293f4a170ee0bfb46a8daa4c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29c2fda293f4a170ee0bfb46a8daa4c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-29c2fda293f4a170ee0bfb46a8daa4c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29c2fda293f4a170ee0bfb46a8daa4c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-29c2fda293f4a170ee0bfb46a8daa4c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1827) revoked (10.8.2010) by [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations 2010 (S.I. 2010/1818)](https://www.legislation.gov.uk/uksi/2010/1818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1818/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/1818/regulation/5)
+[^c-29c2fda293f4a170ee0bfb46a8daa4c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1827) revoked (10.8.2010) by [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations 2010 (S.I. 2010/1818)](https://www.legislation.gov.uk/uksi/2010/1818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1818/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/1818/regulation/5)

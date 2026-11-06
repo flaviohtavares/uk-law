@@ -31,18 +31,18 @@ Horserace Totalisator Board Act 1997 (repealed)
 
 1997 c. 1
 
-[^key-6b5019801c3f746d0407e5e2f3f0c096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b5019801c3f746d0407e5e2f3f0c096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. New corporate powers for the Horserace Totalisator Board[^key-6b5019801c3f746d0407e5e2f3f0c096][^key-6b5019801c3f746d0407e5e2f3f0c096]
+## 1. New corporate powers for the Horserace Totalisator Board[^c-6b5019801c3f746d0407e5e2f3f0c096][^c-6b5019801c3f746d0407e5e2f3f0c096]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and extent.[^key-6b5019801c3f746d0407e5e2f3f0c096][^key-6b5019801c3f746d0407e5e2f3f0c096]
+## 2. Short title and extent.[^c-6b5019801c3f746d0407e5e2f3f0c096][^c-6b5019801c3f746d0407e5e2f3f0c096]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b5019801c3f746d0407e5e2f3f0c096]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1997/1) repealed (13.7.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [s. 40](https://www.legislation.gov.uk/ukpga/2004/25/section/40), [Sch. 6](https://www.legislation.gov.uk/ukpga/2004/25/schedule/6); [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-6b5019801c3f746d0407e5e2f3f0c096]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1997/1) repealed (13.7.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [s. 40](https://www.legislation.gov.uk/ukpga/2004/25/section/40), [Sch. 6](https://www.legislation.gov.uk/ukpga/2004/25/schedule/6); [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)

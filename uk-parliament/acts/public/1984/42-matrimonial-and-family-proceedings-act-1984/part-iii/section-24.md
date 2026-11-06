@@ -33,8 +33,8 @@ the court may make such order as it thinks fit for restraining the other party f
 - (a) the reference to defeating a claim for financial relief shall be construed in accordance with subsection (1) of section 23 above (omitting the reference to any order which has been made); and
 - (b) subsections (7) and (8) of section 23 above shall apply as they apply for the purposes of an application under that section.
 
-(3) The preceding provisions of this section are without prejudice to any power of the High Court to grant injunctions under section 37 of the Senior Courts Act 1981[^key-ffa8c217eb4d3a2bb6f08bb6452d9163].
+(3) The preceding provisions of this section are without prejudice to any power of the High Court to grant injunctions under section 37 of the Senior Courts Act 1981[^c-ffa8c217eb4d3a2bb6f08bb6452d9163].
 
 ## Annotations
 
-[^key-ffa8c217eb4d3a2bb6f08bb6452d9163]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-ffa8c217eb4d3a2bb6f08bb6452d9163]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

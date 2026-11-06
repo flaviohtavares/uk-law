@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 200. Postal administrator’s security[^key-e99f6bb1bf73edff2716b2a18b6933e4]
+## 200. Postal administrator’s security[^c-e99f6bb1bf73edff2716b2a18b6933e4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e99f6bb1bf73edff2716b2a18b6933e4]: Commencement: [Rule 200](https://www.legislation.gov.uk/uksi/2013/3208/rule/200) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e99f6bb1bf73edff2716b2a18b6933e4]: Commencement: [Rule 200](https://www.legislation.gov.uk/uksi/2013/3208/rule/200) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

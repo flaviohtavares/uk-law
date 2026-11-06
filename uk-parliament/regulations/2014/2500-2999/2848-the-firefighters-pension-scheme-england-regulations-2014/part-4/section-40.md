@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Account to specify opening balance and PIA index adjustment[^key-6559a8d9381ed23ff906b8de8540388b]
+## 40. Account to specify opening balance and PIA index adjustment[^c-6559a8d9381ed23ff906b8de8540388b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6559a8d9381ed23ff906b8de8540388b]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/2848/regulation/40) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-6559a8d9381ed23ff906b8de8540388b]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/2848/regulation/40) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

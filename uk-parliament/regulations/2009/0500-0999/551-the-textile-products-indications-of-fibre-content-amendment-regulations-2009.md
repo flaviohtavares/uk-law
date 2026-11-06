@@ -32,7 +32,7 @@ summary: ''
 
 Trade Descriptions
 
-The Textile Products (Indications of Fibre Content) (Amendment) Regulations 2009 (revoked)[^key-1a797f59d9262ff63476d09a62f7663e]
+The Textile Products (Indications of Fibre Content) (Amendment) Regulations 2009 (revoked)[^c-1a797f59d9262ff63476d09a62f7663e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2009
 
-[^key-1a797f59d9262ff63476d09a62f7663e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a797f59d9262ff63476d09a62f7663e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1a797f59d9262ff63476d09a62f7663e]
+## 1. Citation and commencement[^c-1a797f59d9262ff63476d09a62f7663e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Textile Products (Indications of Fibre Content) Regulations 1986[^key-1a797f59d9262ff63476d09a62f7663e]
+## 2. Amendment of the Textile Products (Indications of Fibre Content) Regulations 1986[^c-1a797f59d9262ff63476d09a62f7663e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a797f59d9262ff63476d09a62f7663e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a797f59d9262ff63476d09a62f7663e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a797f59d9262ff63476d09a62f7663e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a797f59d9262ff63476d09a62f7663e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a797f59d9262ff63476d09a62f7663e]: Textual amendment: Regulations revoked (25.5.2009) by [The Textile Products (Indications of Fibre Content) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/1034)](https://www.legislation.gov.uk/uksi/2009/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1034/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1034/regulation/2)
+[^c-1a797f59d9262ff63476d09a62f7663e]: Textual amendment: Regulations revoked (25.5.2009) by [The Textile Products (Indications of Fibre Content) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/1034)](https://www.legislation.gov.uk/uksi/2009/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1034/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1034/regulation/2)

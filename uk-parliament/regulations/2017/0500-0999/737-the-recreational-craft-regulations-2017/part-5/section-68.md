@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Evaluation of a product presenting a risk[^key-e271d0b5e165d5acbf1f61ce4b15d823]
+## 68. Evaluation of a product presenting a risk[^c-e271d0b5e165d5acbf1f61ce4b15d823]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e271d0b5e165d5acbf1f61ce4b15d823]: Commencement: Reg. 68 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-e271d0b5e165d5acbf1f61ce4b15d823]: Commencement: Reg. 68 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

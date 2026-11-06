@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f3b55db3cd1371315ce9be6423543012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f3b55db3cd1371315ce9be6423543012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 369 of that Act (deduction at source of mortgage interest relief), in subsection (1A) (percentage of interest deductible), for paragraph (a) there shall be substituted—
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c13266611]: Textual amendment: S. 15 repealed (27.7.1999 with effect as mentioned in [s. 38(3)(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/38/3/4) of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(7)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/7) Note 4
 
-[^key-f3b55db3cd1371315ce9be6423543012]: Textual amendment: [S. 15(1)](https://www.legislation.gov.uk/ukpga/1997/58/section/15/1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-f3b55db3cd1371315ce9be6423543012]: Textual amendment: [S. 15(1)](https://www.legislation.gov.uk/ukpga/1997/58/section/15/1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 338. Extent[^key-b8d11ace1c6460460bb1d9f7e242f9b5]
+## 338. Extent[^c-b8d11ace1c6460460bb1d9f7e242f9b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d11ace1c6460460bb1d9f7e242f9b5]: Commencement: S. 338 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-b8d11ace1c6460460bb1d9f7e242f9b5]: Commencement: S. 338 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 240. Effect of conclusions of review[^key-e86438d2dabf9e8e44e653f9b4d95882][^key-a481a9df499a0ea452d298fbf76d5acb]
+## 240. Effect of conclusions of review[^c-e86438d2dabf9e8e44e653f9b4d95882][^c-a481a9df499a0ea452d298fbf76d5acb]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e86438d2dabf9e8e44e653f9b4d95882]: Commencement: [S. 240](https://www.legislation.gov.uk/asp/2014/16/section/240) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-e86438d2dabf9e8e44e653f9b4d95882]: Commencement: [S. 240](https://www.legislation.gov.uk/asp/2014/16/section/240) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-a481a9df499a0ea452d298fbf76d5acb]: Commencement: [S. 240](https://www.legislation.gov.uk/asp/2014/16/section/240) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-a481a9df499a0ea452d298fbf76d5acb]: Commencement: [S. 240](https://www.legislation.gov.uk/asp/2014/16/section/240) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

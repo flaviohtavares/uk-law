@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65B. Use of statements in prosecution: Article 22(2) inspections[^key-311a89697ae30578bade96a826dd7cbb]
+## 65B. Use of statements in prosecution: Article 22(2) inspections[^c-311a89697ae30578bade96a826dd7cbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-311a89697ae30578bade96a826dd7cbb]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1998/41/part/II) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2019/93/regulation/24) (with [Sch. 4 paras. 8C-12](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/8C)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-311a89697ae30578bade96a826dd7cbb]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1998/41/part/II) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2019/93/regulation/24) (with [Sch. 4 paras. 8C-12](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/8C)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

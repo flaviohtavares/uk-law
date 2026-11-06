@@ -39,7 +39,7 @@ An Act to repeal and re-enact with amendments the Protection of Birds Acts 1954 
 
 *Extent: E+W+S+N.I.*
 
-#### Protection of birds and prevention of poaching (Extent: S)[^key-7a7df5425eb7895ff1d1f075425dc07e]
+#### Protection of birds and prevention of poaching (Extent: S)[^c-7a7df5425eb7895ff1d1f075425dc07e]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ An Act to repeal and re-enact with amendments the Protection of Birds Acts 1954 
 - [Section 7 — Registration etc. of certain captive birds.](part-i/section-7.md)
 - [Section 8 — Protection of captive birds.](part-i/section-8.md)
 
-#### Protection of other animals and prevention of poaching (Extent: S)[^key-eebfc5c21d4ae59c696c25661032fc83]
+#### Protection of other animals and prevention of poaching (Extent: S)[^c-eebfc5c21d4ae59c696c25661032fc83]
 
 *Extent: E+W+S*
 
@@ -312,9 +312,9 @@ SCHEDULES
 
     Act: certain functions transferred (E.W.) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 69(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/69/1), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-7a7df5425eb7895ff1d1f075425dc07e]: Textual amendment: Words in Pt. I cross-heading added (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 3(2)](https://www.legislation.gov.uk/asp/2011/6/section/3/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/b)
+[^c-7a7df5425eb7895ff1d1f075425dc07e]: Textual amendment: Words in Pt. I cross-heading added (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 3(2)](https://www.legislation.gov.uk/asp/2011/6/section/3/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/b)
 
-[^key-eebfc5c21d4ae59c696c25661032fc83]: Textual amendment: Words in Pt. I cross-heading added (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 7(2)](https://www.legislation.gov.uk/asp/2011/6/section/7/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/e)
+[^c-eebfc5c21d4ae59c696c25661032fc83]: Textual amendment: Words in Pt. I cross-heading added (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 7(2)](https://www.legislation.gov.uk/asp/2011/6/section/7/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/e)
 
 [^c19493331]: Editorial: S. 27A and preceding heading repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1/2), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 77](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/77), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) and new s. 27AA and preceding heading inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 78](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/78); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Advice and assistance in relation to marine licensing[^key-1ce29aed14768fbcdf453b28c27be041]
+## 76. Advice and assistance in relation to marine licensing[^c-1ce29aed14768fbcdf453b28c27be041]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In the Marine and Coastal Access Act 2009 (c. 23), after section 67 insert—
 
 ## Annotations
 
-[^key-1ce29aed14768fbcdf453b28c27be041]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2016/3/section/76) in force at 1.4.2017 by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)
+[^c-1ce29aed14768fbcdf453b28c27be041]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2016/3/section/76) in force at 1.4.2017 by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)

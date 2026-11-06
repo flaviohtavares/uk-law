@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Non-attendance[^key-26664b05b80a6a9873467f2948ece103]
+## 47. Non-attendance[^c-26664b05b80a6a9873467f2948ece103]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If a party fails to attend or to be represented at a hearing, the Tribunal may d
 
 ## Annotations
 
-[^key-26664b05b80a6a9873467f2948ece103]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2024/1155/rule/47) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-26664b05b80a6a9873467f2948ece103]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2024/1155/rule/47) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

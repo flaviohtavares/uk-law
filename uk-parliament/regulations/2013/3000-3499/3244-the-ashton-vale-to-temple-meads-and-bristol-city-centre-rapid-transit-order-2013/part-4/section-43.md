@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Power to make byelaws[^key-ba45a7448aa48acafd7178038cfe5deb]
+## 43. Power to make byelaws[^c-ba45a7448aa48acafd7178038cfe5deb]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ is rebuttable evidence of the facts stated in the certificate.
 
 ## Annotations
 
-[^key-ba45a7448aa48acafd7178038cfe5deb]: Commencement: Art. 43 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-ba45a7448aa48acafd7178038cfe5deb]: Commencement: Art. 43 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

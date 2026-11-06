@@ -24,7 +24,7 @@ Regulation 124
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-cc98ca250755aba535ec6184b8496148]
+#### 1. Interpretation[^c-cc98ca250755aba535ec6184b8496148]
 
 In this Schedule—
 
@@ -37,7 +37,7 @@ In this Schedule—
 - “the relevant day” (“*y diwrnod perthnasol*”) means the day on which the lump sum is received by the scheme manager;
 - “the relevant scheme year” (“*y flwyddyn gynllun berthnasol*”) means the scheme year in which the relevant day falls.
 
-#### 2. Meaning of “overall limit of extra pension”[^key-74aa97b38c4be6367d83572134fa4313]
+#### 2. Meaning of “overall limit of extra pension”[^c-74aa97b38c4be6367d83572134fa4313]
 
 (1) The overall limit of extra pension is—
 
@@ -51,11 +51,11 @@ In this Schedule—
 - (a) that pension were eligible to be so increased; and
 - (b) the beginning date for that pension were the first day of the previous scheme year.
 
-#### 3. Limit on elections[^key-f08ed927aed5ba983e38c51e30c03c9e]
+#### 3. Limit on elections[^c-f08ed927aed5ba983e38c51e30c03c9e]
 
 An added pension election may not be exercised by an active member if the amount of extra pension would exceed the overall limit of extra pension if that election were made.
 
-#### 4. Amount of accrued added pension may not exceed overall limit of extra pension[^key-74157c4fa17f9b94b8fdb1a6c2d8451a]
+#### 4. Amount of accrued added pension may not exceed overall limit of extra pension[^c-74157c4fa17f9b94b8fdb1a6c2d8451a]
 
 (1) At any given time, the total amount of accrued added pension in a member’s added pension account may not exceed the overall limit of extra pension.
 
@@ -67,7 +67,7 @@ An added pension election may not be exercised by an active member if the amount
 
 #### CHAPTER 1 — Exercising the added pension election
 
-##### 5. Added pension election exercisable by member[^key-5adae83ee7327fe5c039a2db47d4a3c1]
+##### 5. Added pension election exercisable by member[^c-5adae83ee7327fe5c039a2db47d4a3c1]
 
 (1) An active member of this scheme may elect to make added pension payments to this scheme to increase the member’s retirement benefits and death benefits.
 
@@ -83,17 +83,17 @@ An added pension election may not be exercised by an active member if the amount
 - (b) whether the member has an added pension account with another employer; and
 - (c) whether the member is making an added pension election in connection with another scheme employment.
 
-(5)[^key-c7fd4e4a08d52135fb30e6327f18bfad] An election to pay added pension payments by a lump sum payment may only be made if the member gives notice to the scheme manager not later than 12 months after the date on which the person last became employed by that scheme employer as a firefighter.
+(5)[^c-c7fd4e4a08d52135fb30e6327f18bfad] An election to pay added pension payments by a lump sum payment may only be made if the member gives notice to the scheme manager not later than 12 months after the date on which the person last became employed by that scheme employer as a firefighter.
 
 (6) An election to pay added pension payments by periodical payments may only be made at least two years before the member’s normal pension age and cannot be made once the scheme manager has agreed that the member will leave the scheme employment with entitlement to a pension or an ill-health award.
 
 #### CHAPTER 2 — Periodical payments for added pension
 
-##### 6. Application of Chapter[^key-a77c5fd4bfdad60524b38b13a67f3982]
+##### 6. Application of Chapter[^c-a77c5fd4bfdad60524b38b13a67f3982]
 
 This Chapter applies in relation to an active member of this scheme who elects to make periodical payments for added pension.
 
-##### 7. Member’s election to make periodical payments for added pension[^key-3e2f228945d67d5f5a84bb4fc50ced01]
+##### 7. Member’s election to make periodical payments for added pension[^c-3e2f228945d67d5f5a84bb4fc50ced01]
 
 (1) The notice of election must specify—
 
@@ -107,7 +107,7 @@ This Chapter applies in relation to an active member of this scheme who elects t
 
 (3) The amount of the periodical payment must not be less than any minimum amount determined by the scheme manager.
 
-##### 8. Periodical payments[^key-7d6badb9069a961d1565c81a8bf6e5c9]
+##### 8. Periodical payments[^c-7d6badb9069a961d1565c81a8bf6e5c9]
 
 (1) The periodical payments may be payable by deduction by the member’s employer from the member’s pensionable pay during the periodical payment period.
 
@@ -122,11 +122,11 @@ This Chapter applies in relation to an active member of this scheme who elects t
 
 (3) If the member does not want to pay the periodical payments by deduction from pensionable pay, the scheme manager may agree another method of payment.
 
-##### 9. Discontinuance of periodical payments[^key-5199007b7571bfd823825065b3b8e82c]
+##### 9. Discontinuance of periodical payments[^c-5199007b7571bfd823825065b3b8e82c]
 
 If a member wishes to discontinue the payment of periodical payments, the member must give written notice to the scheme manager.
 
-##### 10. Periodical payments during periods of assumed pensionable pay[^key-43ac46aa1651833af63f6603fdcf9f26]
+##### 10. Periodical payments during periods of assumed pensionable pay[^c-43ac46aa1651833af63f6603fdcf9f26]
 
 (1) The periodical payments are payable by deduction from the member’s pensionable pay during the periodical payments period and whilst the member is treated as receiving assumed pensionable pay, reduced pay or no pay, the member may—
 
@@ -144,7 +144,7 @@ If a member wishes to discontinue the payment of periodical payments, the member
 
 (5) Notice under sub-paragraph (4) must be given to the scheme manager not later than one month after the end of the period of assumed pensionable pay or reduced pay.
 
-##### 11. Amount of added pension for a scheme year[^key-a69d28253e7a690beaa4446e1ac61cdf]
+##### 11. Amount of added pension for a scheme year[^c-a69d28253e7a690beaa4446e1ac61cdf]
 
 (1) This paragraph applies for each scheme year during which a member makes periodical payments to increase both the member’s retirement benefits and death benefits.
 
@@ -154,17 +154,17 @@ If a member wishes to discontinue the payment of periodical payments, the member
 
 #### CHAPTER 3 — Lump sum payments for added pension
 
-##### 12. Application of Chapter[^key-32dc84fd8f7cdc554e80d227705eee0b]
+##### 12. Application of Chapter[^c-32dc84fd8f7cdc554e80d227705eee0b]
 
 This Chapter applies in relation to an active member of this scheme who has elected to make a lump sum payment for added pension.
 
-##### 13. Member’s election to make a lump sum payment for added pension[^key-d181da98b6074c832fbd67ec4ebc585e]
+##### 13. Member’s election to make a lump sum payment for added pension[^c-d181da98b6074c832fbd67ec4ebc585e]
 
 (1) The notice of election must specify the amount of lump sum which must not be less than any minimum amount determined by the scheme manager.
 
 (2) If the lump sum is not paid within three months after the date on which the notice of election was given, then the notice of election is void.
 
-##### 14. Amount of added pension to be credited to added pension account[^key-d209f66896dfd4ecd19da8957757ea46]
+##### 14. Amount of added pension to be credited to added pension account[^c-d209f66896dfd4ecd19da8957757ea46]
 
 (1) This paragraph applies if a member elects to pay a lump sum to increase the member’s retirement benefits and death benefits.
 
@@ -174,32 +174,32 @@ This Chapter applies in relation to an active member of this scheme who has elec
 
 ## Annotations
 
-[^key-cc98ca250755aba535ec6184b8496148]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-cc98ca250755aba535ec6184b8496148]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-74aa97b38c4be6367d83572134fa4313]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-74aa97b38c4be6367d83572134fa4313]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-f08ed927aed5ba983e38c51e30c03c9e]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-f08ed927aed5ba983e38c51e30c03c9e]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-74157c4fa17f9b94b8fdb1a6c2d8451a]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-74157c4fa17f9b94b8fdb1a6c2d8451a]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-5adae83ee7327fe5c039a2db47d4a3c1]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5adae83ee7327fe5c039a2db47d4a3c1]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-c7fd4e4a08d52135fb30e6327f18bfad]: Modification: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/wsi/2015/622/schedule/1/paragraph/5/5) excluded (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Wales) Regulations 2023 (S.I. 2023/961)](https://www.legislation.gov.uk/wsi/2023/961), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/961/regulation/1/3), [33](https://www.legislation.gov.uk/wsi/2023/961/regulation/33)
+[^c-c7fd4e4a08d52135fb30e6327f18bfad]: Modification: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/wsi/2015/622/schedule/1/paragraph/5/5) excluded (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Wales) Regulations 2023 (S.I. 2023/961)](https://www.legislation.gov.uk/wsi/2023/961), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/961/regulation/1/3), [33](https://www.legislation.gov.uk/wsi/2023/961/regulation/33)
 
-[^key-a77c5fd4bfdad60524b38b13a67f3982]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-a77c5fd4bfdad60524b38b13a67f3982]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-3e2f228945d67d5f5a84bb4fc50ced01]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-3e2f228945d67d5f5a84bb4fc50ced01]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-7d6badb9069a961d1565c81a8bf6e5c9]: Commencement: Sch. 1 para. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-7d6badb9069a961d1565c81a8bf6e5c9]: Commencement: Sch. 1 para. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-5199007b7571bfd823825065b3b8e82c]: Commencement: Sch. 1 para. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5199007b7571bfd823825065b3b8e82c]: Commencement: Sch. 1 para. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-43ac46aa1651833af63f6603fdcf9f26]: Commencement: Sch. 1 para. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-43ac46aa1651833af63f6603fdcf9f26]: Commencement: Sch. 1 para. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-a69d28253e7a690beaa4446e1ac61cdf]: Commencement: Sch. 1 para. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-a69d28253e7a690beaa4446e1ac61cdf]: Commencement: Sch. 1 para. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-32dc84fd8f7cdc554e80d227705eee0b]: Commencement: Sch. 1 para. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-32dc84fd8f7cdc554e80d227705eee0b]: Commencement: Sch. 1 para. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-d181da98b6074c832fbd67ec4ebc585e]: Commencement: Sch. 1 para. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-d181da98b6074c832fbd67ec4ebc585e]: Commencement: Sch. 1 para. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-d209f66896dfd4ecd19da8957757ea46]: Commencement: Sch. 1 para. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-d209f66896dfd4ecd19da8957757ea46]: Commencement: Sch. 1 para. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

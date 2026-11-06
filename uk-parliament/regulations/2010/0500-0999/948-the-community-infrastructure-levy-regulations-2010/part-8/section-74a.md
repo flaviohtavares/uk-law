@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74A. Abatement : section 73 applications[^key-ec896ade5147dafc56d1ea19b471d459][^key-92ba4b37a4b3b8eddc347de2e308501c]
+## 74A. Abatement : section 73 applications[^c-ec896ade5147dafc56d1ea19b471d459][^c-92ba4b37a4b3b8eddc347de2e308501c]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec896ade5147dafc56d1ea19b471d459]: Textual amendment: [Reg. 74A](https://www.legislation.gov.uk/uksi/2010/948/regulation/74A) inserted (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/8/3) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/1))
+[^c-ec896ade5147dafc56d1ea19b471d459]: Textual amendment: [Reg. 74A](https://www.legislation.gov.uk/uksi/2010/948/regulation/74A) inserted (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/8/3) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/1))
 
-[^key-92ba4b37a4b3b8eddc347de2e308501c]: Textual amendment: Words in [reg. 74A](https://www.legislation.gov.uk/uksi/2010/948/regulation/74A) heading inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/8)
+[^c-92ba4b37a4b3b8eddc347de2e308501c]: Textual amendment: Words in [reg. 74A](https://www.legislation.gov.uk/uksi/2010/948/regulation/74A) heading inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/8)

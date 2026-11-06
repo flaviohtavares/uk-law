@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Non-business use of business property[^key-f21eab6468b51f98c67d961274ac05e9]
+## 22. Non-business use of business property[^c-f21eab6468b51f98c67d961274ac05e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f21eab6468b51f98c67d961274ac05e9]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2003/14/section/22) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/1)
+[^c-f21eab6468b51f98c67d961274ac05e9]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2003/14/section/22) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/1)

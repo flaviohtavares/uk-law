@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if—
 
 - (a) a company issues, or has issued, any share capital (“the bonus share capital”) as paid up otherwise than by the receipt of new consideration, and
-- (b) an amount paid up as mentioned in paragraph (a) does not fall to be treated as a [^key-666d4025095df3be5d9bd5e53d6bbc4c]... distribution.
+- (b) an amount paid up as mentioned in paragraph (a) does not fall to be treated as a [^c-666d4025095df3be5d9bd5e53d6bbc4c]... distribution.
 
 (2) Distributions made afterwards by the company in respect of shares representing the bonus share capital are not treated as repayments of share capital for the purposes of this Chapter.
 
@@ -43,4 +43,4 @@ But this is subject to section 1027 and any other contrary provision in the Corp
 
 ## Annotations
 
-[^key-666d4025095df3be5d9bd5e53d6bbc4c]: Textual amendment: Word in [s. 1026(1)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1026/1/b) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/36)
+[^c-666d4025095df3be5d9bd5e53d6bbc4c]: Textual amendment: Word in [s. 1026(1)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1026/1/b) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/36)

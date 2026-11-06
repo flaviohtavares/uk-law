@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendments of subordinate legislation relating to judicial pensions[^key-a2b686f8f07820d0d57088b7b300f97c]
+## 92. Amendments of subordinate legislation relating to judicial pensions[^c-a2b686f8f07820d0d57088b7b300f97c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 amends subordinate legislation made pursuant to the County Courts Act
 
 ## Annotations
 
-[^key-a2b686f8f07820d0d57088b7b300f97c]: Commencement: Art. 92 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-a2b686f8f07820d0d57088b7b300f97c]: Commencement: Art. 92 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

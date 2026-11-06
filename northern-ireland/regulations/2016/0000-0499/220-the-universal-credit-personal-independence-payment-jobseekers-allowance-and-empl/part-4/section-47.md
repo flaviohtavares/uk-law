@@ -35,11 +35,11 @@ summary: ''
 
 (6) For the purposes of paragraph (4) “**benefit week**” means a period of 7 days ending with a day determined in accordance with the definition of that term in regulation 2(2) of the Jobseeker's Allowance Regulations (general interpretation).
 
-(7)[^key-951b4e791ea2756a3234317a4c4f6296] The Department may pay arrears of jobseeker’s allowance in instalments where—
+(7)[^c-951b4e791ea2756a3234317a4c4f6296] The Department may pay arrears of jobseeker’s allowance in instalments where—
 
 - (a) the department considers it is necessary for protecting the interests of the claimant; and
 - (b) the claimant agrees that those arrears may be paid in instalments.
 
 ## Annotations
 
-[^key-951b4e791ea2756a3234317a4c4f6296]: Textual amendment: [Reg. 47(7)](https://www.legislation.gov.uk/nisr/2016/220/regulation/47/7) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/267)](https://www.legislation.gov.uk/nisr/2021/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/267/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2021/267/regulation/3/5)
+[^c-951b4e791ea2756a3234317a4c4f6296]: Textual amendment: [Reg. 47(7)](https://www.legislation.gov.uk/nisr/2016/220/regulation/47/7) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/267)](https://www.legislation.gov.uk/nisr/2021/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/267/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2021/267/regulation/3/5)

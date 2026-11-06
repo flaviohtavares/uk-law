@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Assistance by British Transport Police Force to Police Service of Scotland[^key-0ecf04cc21bc6e4eb378b36db00ff837]
+## 5. Assistance by British Transport Police Force to Police Service of Scotland[^c-0ecf04cc21bc6e4eb378b36db00ff837]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ecf04cc21bc6e4eb378b36db00ff837]: Commencement: Art. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-0ecf04cc21bc6e4eb378b36db00ff837]: Commencement: Art. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

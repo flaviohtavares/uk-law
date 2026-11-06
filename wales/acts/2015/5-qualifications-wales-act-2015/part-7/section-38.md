@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Power to impose monetary penalties[^key-9edecdca33ba3c72f9e979a3efa4f35d]
+## 38. Power to impose monetary penalties[^c-9edecdca33ba3c72f9e979a3efa4f35d]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9edecdca33ba3c72f9e979a3efa4f35d]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2015/5/section/38) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-9edecdca33ba3c72f9e979a3efa4f35d]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2015/5/section/38) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Confidential information in certain cases where designation power used[^key-4f04ff97e0f80e776d9881bbe5cba125][^key-ef00ca6dd4cfe44ed32d2e3ab5f9c6a9]
+## 9. Confidential information in certain cases where designation power used[^c-4f04ff97e0f80e776d9881bbe5cba125][^c-ef00ca6dd4cfe44ed32d2e3ab5f9c6a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ grant an injunction (in Scotland, an interdict) to prevent a breach of the prohi
 
 ## Annotations
 
-[^key-4f04ff97e0f80e776d9881bbe5cba125]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-4f04ff97e0f80e776d9881bbe5cba125]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-ef00ca6dd4cfe44ed32d2e3ab5f9c6a9]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef00ca6dd4cfe44ed32d2e3ab5f9c6a9]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

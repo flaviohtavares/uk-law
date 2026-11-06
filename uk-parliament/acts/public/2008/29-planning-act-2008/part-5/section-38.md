@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Model provisions[^key-2a3f4c9b2cfd8d87dff07769d8a43a35]
+## 38. Model provisions[^c-2a3f4c9b2cfd8d87dff07769d8a43a35]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a3f4c9b2cfd8d87dff07769d8a43a35]: Textual amendment: S. 38 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/6), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-2a3f4c9b2cfd8d87dff07769d8a43a35]: Textual amendment: S. 38 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/6), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

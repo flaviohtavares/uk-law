@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Director disqualification[^key-5cbe5b080b14d85286f6a11444573efb][^key-efb6220d4b7311eafc52d967b37aff7f]
+## 99. Director disqualification[^c-5cbe5b080b14d85286f6a11444573efb][^c-efb6220d4b7311eafc52d967b37aff7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5cbe5b080b14d85286f6a11444573efb]: Commencement: S. 99 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5cbe5b080b14d85286f6a11444573efb]: Commencement: S. 99 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-efb6220d4b7311eafc52d967b37aff7f]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2024/13/section/99) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-efb6220d4b7311eafc52d967b37aff7f]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2024/13/section/99) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

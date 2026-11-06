@@ -45,11 +45,11 @@ The National Assembly for Wales has been designated[^f00002] for the purposes of
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation of the following Regulations.
 
-## 1. Title and commencement[^key-b100cb13417a9aaf94b7b60267b5e985]
+## 1. Title and commencement[^c-b100cb13417a9aaf94b7b60267b5e985]
 
 The title of these Regulations is the Food Hygiene (Wales) (Amendment) Regulations 2007 and they come into force on 14 February 2007.
 
-## 2. Amendments to the Food Hygiene (Wales) Regulations 2006[^key-1b9cd011fea867042c7c70a7f7228d75]
+## 2. Amendments to the Food Hygiene (Wales) Regulations 2006[^c-1b9cd011fea867042c7c70a7f7228d75]
 
 (1) The Food Hygiene (Wales) Regulations 2006[^f00004] are amended in accordance with paragraphs (2) and (3).
 
@@ -69,7 +69,7 @@ The Presiding Officer of the National Assembly
 
 13 February 2007
 
-## SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 1 TO THE FOOD HYGIENE (WALES) REGULATIONS 2006[^key-63710172da79315e8844ac8018675983]
+## SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 1 TO THE FOOD HYGIENE (WALES) REGULATIONS 2006[^c-63710172da79315e8844ac8018675983]
 
 Regulation 2(3)
 
@@ -113,15 +113,15 @@ Regulation 2(3)
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
 
-[^key-b100cb13417a9aaf94b7b60267b5e985]: Commencement: Reg. 1 in force at 14.2.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/373/regulation/1)
+[^c-b100cb13417a9aaf94b7b60267b5e985]: Commencement: Reg. 1 in force at 14.2.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/373/regulation/1)
 
-[^key-1b9cd011fea867042c7c70a7f7228d75]: Commencement: Reg. 2 in force at 14.2.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/373/regulation/1)
+[^c-1b9cd011fea867042c7c70a7f7228d75]: Commencement: Reg. 2 in force at 14.2.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/373/regulation/1)
 
 [^f00004]: Footnote: S.I. [2006/31 (W.5)](https://www.legislation.gov.uk/wsi/2006/31) as amended by S.I. [2006/1534 (W.151)](https://www.legislation.gov.uk/wsi/2006/1534).
 
 [^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-63710172da79315e8844ac8018675983]: Commencement: Sch. in force at 14.2.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/373/regulation/1)
+[^c-63710172da79315e8844ac8018675983]: Commencement: Sch. in force at 14.2.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/373/regulation/1)
 
 [^f00006]: Footnote: OJ No. L157, 30.4.2004, p.33. The revised text of Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) is now set out in a Corrigendum (OJ No. L195, 2.6.2004, p.12).
 

@@ -46,13 +46,13 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, the Secretary of State for Health and the Secretary of State for Wales, acting jointly, in relation to England and Wales, and the Secretary of State for Scotland in relation to Scotland, in exercise of the powers conferred on them by sections 6(4), 16(1)(a), (b), (e) and (f), 17(1) and 48(1) of the Food Safety Act 1990[^f00001], and of all other powers enabling them in that behalf, after consultation in accordance with section 48(4) of the said Act with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations, hereby make the following Regulations:
 
-## 1. Title, commencement and interpretation[^key-d17e6c39a6a9642df3b16f53ead2385e]
+## 1. Title, commencement and interpretation[^c-d17e6c39a6a9642df3b16f53ead2385e]
 
 (1) These Regulations may be cited as the Infant Formula and Follow-on Formula (Amendment) Regulations 1997 and shall come into force on 31st March 1997.
 
 (2) In these Regulations “the principal Regulations” means the Infant Formula and Follow-on Formula Regulations 1995[^f00002].
 
-## 2. Amendment of the principal Regulations[^key-762ff28099f538a7f4dffae99fe3017a]
+## 2. Amendment of the principal Regulations[^c-762ff28099f538a7f4dffae99fe3017a]
 
 The principal Regulations shall be amended as follows—
 
@@ -293,7 +293,7 @@ The principal Regulations shall be amended as follows—
   > </tbody>
   > </table>
 
-## 3. Transitional provision[^key-d5071748d7ff1263ca4f2bed593c0c23]
+## 3. Transitional provision[^c-d5071748d7ff1263ca4f2bed593c0c23]
 
 In any proceedings in respect of any sale or export before 31st March 1999 which is alleged to constitute a contravention of regulation 2, 3, 5, 6 or 7 of the principal Regulations the defendant shall not be convicted of an offence under regulation 22 of the principal Regulations if that sale or export would not have been a contravention of regulation 2, 3, 5, 6 or 7, as appropriate, of the principal Regulations before amendment by these Regulations.
 
@@ -345,11 +345,11 @@ A Compliance Cost Assessment in relation to these Regulations has been placed in
 
 [^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); “the Ministers” is defined in section 4(1) of the Act.
 
-[^key-d17e6c39a6a9642df3b16f53ead2385e]: Commencement: Reg. 1 in force at 31.3.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/451/regulation/1/1)
+[^c-d17e6c39a6a9642df3b16f53ead2385e]: Commencement: Reg. 1 in force at 31.3.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/451/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1995/77](https://www.legislation.gov.uk/uksi/1995/77); to which there is an amendment not relevant to these Regulations.
 
-[^key-762ff28099f538a7f4dffae99fe3017a]: Commencement: Reg. 2 in force at 31.3.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/451/regulation/1/1)
+[^c-762ff28099f538a7f4dffae99fe3017a]: Commencement: Reg. 2 in force at 31.3.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/451/regulation/1/1)
 
 [^f01000]: Footnote: \*
 
@@ -359,4 +359,4 @@ A Compliance Cost Assessment in relation to these Regulations has been placed in
 
     The total concentration of nucleotides shall not exceed 1.2 mg/100 kJ (5 mg/100 kcal).
 
-[^key-d5071748d7ff1263ca4f2bed593c0c23]: Commencement: Reg. 3 in force at 31.3.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/451/regulation/1/1)
+[^c-d5071748d7ff1263ca4f2bed593c0c23]: Commencement: Reg. 3 in force at 31.3.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/451/regulation/1/1)

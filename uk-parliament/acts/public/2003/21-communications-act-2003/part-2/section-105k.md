@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105K. Duty to inform OFCOM of security compromise[^key-572ca1ffbcac036500322f1a6ef40e8f]
+## 105K. Duty to inform OFCOM of security compromise[^c-572ca1ffbcac036500322f1a6ef40e8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-572ca1ffbcac036500322f1a6ef40e8f]: Textual amendment: [Ss. 105J-105L](https://www.legislation.gov.uk/ukpga/2003/21/section/105J) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/4/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-572ca1ffbcac036500322f1a6ef40e8f]: Textual amendment: [Ss. 105J-105L](https://www.legislation.gov.uk/ukpga/2003/21/section/105J) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/4/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)

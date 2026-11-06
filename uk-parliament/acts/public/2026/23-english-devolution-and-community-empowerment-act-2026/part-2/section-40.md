@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Assessment of economic conditions[^key-a0b3c72d441d0450c8574731f5be480a]
+## 40. Assessment of economic conditions[^c-a0b3c72d441d0450c8574731f5be480a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 21 confers on combined authorities and CCAs functions in relation to th
 
 ## Annotations
 
-[^key-a0b3c72d441d0450c8574731f5be480a]: Commencement: S. 40 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-a0b3c72d441d0450c8574731f5be480a]: Commencement: S. 40 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

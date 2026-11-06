@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75D. Effect of redetermination: offer made where no previous offer or previous offer not accepted[^key-5672d977a722a92ed43fddbe01d25107]
+## 75D. Effect of redetermination: offer made where no previous offer or previous offer not accepted[^c-5672d977a722a92ed43fddbe01d25107]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5672d977a722a92ed43fddbe01d25107]: Textual amendment: [Ss. 75A-75E](https://www.legislation.gov.uk/asp/2021/15/section/75A) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [25](https://www.legislation.gov.uk/ssi/2022/44/regulation/25)
+[^c-5672d977a722a92ed43fddbe01d25107]: Textual amendment: [Ss. 75A-75E](https://www.legislation.gov.uk/asp/2021/15/section/75A) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [25](https://www.legislation.gov.uk/ssi/2022/44/regulation/25)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) On the occasion when a person becomes absolutely entitled to any settled property as against the trustee all the assets forming part of the settled property to which he becomes so entitled shall be deemed to have been disposed of by the trustee, and immediately reacquired by him in his capacity as a trustee within section 60(1), for a consideration equal to their market value.
 
-(2)[^key-1e400b2b8bdfb22e5eeef8cb98a8c72c] Where, in any case in which a person (“**the beneficiary**”) becomes absolutely entitled to any settled property as against the trustee, an allowable loss would (apart from this subsection) have accrued to the trustee on the deemed disposal under subsection (1) above of an asset comprised in that property—
+(2)[^c-1e400b2b8bdfb22e5eeef8cb98a8c72c] Where, in any case in which a person (“**the beneficiary**”) becomes absolutely entitled to any settled property as against the trustee, an allowable loss would (apart from this subsection) have accrued to the trustee on the deemed disposal under subsection (1) above of an asset comprised in that property—
 
 - (a) that loss shall be treated, to the extent only that it cannot be deducted from pre-entitlement gains of the trustee, as an allowable loss accruing to the beneficiary (instead of to the trustee); but
 - (b) any allowable loss treated as accruing to the beneficiary under this subsection shall be deductible under this Act from chargeable gains accruing to the beneficiary to the extent only that it can be deducted from gains accruing to the beneficiary on the disposal by him of—
@@ -61,4 +61,4 @@ the value of the relevant asset is wholly or partly derived (through one or more
 
 [^c2138197]: Modification: S. 71 excluded (27.7.1993) by [1993 c. 37](https://www.legislation.gov.uk/ukpga/1993/37), [s. 12](https://www.legislation.gov.uk/ukpga/1993/37/section/12), [Sch. 2 Pt. I para. 21(2)(d)](https://www.legislation.gov.uk/ukpga/1993/37/schedule/2/part/I/paragraph/21/2/d)
 
-[^key-1e400b2b8bdfb22e5eeef8cb98a8c72c]: Textual amendment: S. 71(2)-(2D) substituted for s. 71(2) (with application in accordance with s. 75(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 75(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/75/1)
+[^c-1e400b2b8bdfb22e5eeef8cb98a8c72c]: Textual amendment: S. 71(2)-(2D) substituted for s. 71(2) (with application in accordance with s. 75(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 75(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/75/1)

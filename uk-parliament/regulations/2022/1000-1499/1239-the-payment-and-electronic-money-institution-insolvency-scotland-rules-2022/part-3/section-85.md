@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Content of progress report[^key-aadd2140f6fcd7832fc037bdb44eff02]
+## 85. Content of progress report[^c-aadd2140f6fcd7832fc037bdb44eff02]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ summary: ''
   - (ii) where the administrator has ceased to act, receipts and payments during the period from the end of the last accounting period to the time when the administrator ceased to act (or, where the administrator has made no previous progress report, receipts and payments in the period since the administrator’s appointment), or
 - (b) where—
   - (i) no claim for outlays and remuneration is submitted under rule 129, or
-  - (ii) a claim for outlays and remuneration is submitted under rule[^key-e036b01931fff09be4f734f55c9a985f] 129 but no determination fixing the amount of outlays and remuneration in accordance with rule 129(8) has been made in respect of such a claim—
+  - (ii) a claim for outlays and remuneration is submitted under rule[^c-e036b01931fff09be4f734f55c9a985f] 129 but no determination fixing the amount of outlays and remuneration in accordance with rule 129(8) has been made in respect of such a claim—
     - (aa) a receipts and payments account which meets the requirements of paragraph (2)(a),
     - (bb) an estimate of the remuneration due to the administrator during the accounting period together with the basis or bases set out in rule 129(2) on which the estimate is based,
     - (cc) where remuneration due is not yet determined from the immediately preceding accounting period, an estimate of the remuneration due during that period,
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aadd2140f6fcd7832fc037bdb44eff02]: Commencement: Rule 85 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-aadd2140f6fcd7832fc037bdb44eff02]: Commencement: Rule 85 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
-[^key-e036b01931fff09be4f734f55c9a985f]: Textual amendment: Word in [rule 85(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1239/rule/85/2/b/ii) inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(8)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/8)
+[^c-e036b01931fff09be4f734f55c9a985f]: Textual amendment: Word in [rule 85(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1239/rule/85/2/b/ii) inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(8)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/8)

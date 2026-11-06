@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Power to suspend or prohibit trading on a trading facility[^key-40077a29ea4a623b3d09a64859194709]
+## 37. Power to suspend or prohibit trading on a trading facility[^c-40077a29ea4a623b3d09a64859194709]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the FCA may require the operator of the facility to suspend trading in the secur
 
 ## Annotations
 
-[^key-40077a29ea4a623b3d09a64859194709]: Commencement: Reg. 37 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-40077a29ea4a623b3d09a64859194709]: Commencement: Reg. 37 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

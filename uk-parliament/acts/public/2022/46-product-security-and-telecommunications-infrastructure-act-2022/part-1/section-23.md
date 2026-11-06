@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Duty not to supply products where compliance failure by manufacturer[^key-c3a0321ecb5fa01ff87c083d7bd1a1f5][^key-4976baea7ae21b45e4b324bf295797ef]
+## 23. Duty not to supply products where compliance failure by manufacturer[^c-c3a0321ecb5fa01ff87c083d7bd1a1f5][^c-4976baea7ae21b45e4b324bf295797ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3a0321ecb5fa01ff87c083d7bd1a1f5]: Commencement: S. 23 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-c3a0321ecb5fa01ff87c083d7bd1a1f5]: Commencement: S. 23 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-4976baea7ae21b45e4b324bf295797ef]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/46/section/23) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-4976baea7ae21b45e4b324bf295797ef]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/46/section/23) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

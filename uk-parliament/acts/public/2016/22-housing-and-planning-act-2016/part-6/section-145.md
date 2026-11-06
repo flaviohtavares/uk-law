@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-f55c84b5ee2b104076d34ab808843fff] In section 21 of the Planning and Compulsory Purchase Act 2004 (intervention by Secretary of State), in subsection (3), after “if” insert “ or to the extent that ”.
+(1)[^c-f55c84b5ee2b104076d34ab808843fff] In section 21 of the Planning and Compulsory Purchase Act 2004 (intervention by Secretary of State), in subsection (3), after “if” insert “ or to the extent that ”.
 
-(2)[^key-f55c84b5ee2b104076d34ab808843fff] In subsection (5) of that section—
+(2)[^c-f55c84b5ee2b104076d34ab808843fff] In subsection (5) of that section—
 
 - (a) in paragraph (a), after “until the Secretary of State gives his decision” insert “ , or withdraws the direction ”;
 - (b) for paragraph (b) substitute—
@@ -35,7 +35,7 @@ summary: ''
 
   > - (d) the document has no effect unless the document or (as the case may be) the relevant part of it has been approved by the Secretary of State, or the direction is withdrawn.
 
-(3)[^key-f55c84b5ee2b104076d34ab808843fff] After that subsection insert—
+(3)[^c-f55c84b5ee2b104076d34ab808843fff] After that subsection insert—
 
 > (5A) Subsections (4) to (7C) of section 20 apply to an examination held under subsection (5)(b), the reference to the local planning authority in subsection (7C) of that section being read as a reference to the Secretary of State.
 >
@@ -44,11 +44,11 @@ summary: ''
 > - (a) is covered by a direction under subsection (4) which refers to only part of the document, or
 > - (b) continues to be covered by a direction under subsection (4) following the partial withdrawal of the direction.
 
-(4)[^key-f55c84b5ee2b104076d34ab808843fff] At the end of that section insert—
+(4)[^c-f55c84b5ee2b104076d34ab808843fff] At the end of that section insert—
 
 > (11) The local planning authority must reimburse the Secretary of State for any expenditure incurred by the Secretary of State under this section that is specified in a notice given to the authority by the Secretary of State.
 
-(5)[^key-cabb99ed72ba7e0c9304ccc10c83749d] After that section insert—
+(5)[^c-cabb99ed72ba7e0c9304ccc10c83749d] After that section insert—
 
 > **21A. Temporary direction pending possible use of intervention powers**
 >
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f55c84b5ee2b104076d34ab808843fff]: Commencement: [S. 145(1)-(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/145/1) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/c)
+[^c-f55c84b5ee2b104076d34ab808843fff]: Commencement: [S. 145(1)-(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/145/1) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/c)
 
-[^key-cabb99ed72ba7e0c9304ccc10c83749d]: Commencement: [S. 145(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/145/5) in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)
+[^c-cabb99ed72ba7e0c9304ccc10c83749d]: Commencement: [S. 145(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/145/5) in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Effect of requirement for infrastructure consent[^key-e7e881e8efb872b5e005317ee3590e0d][^key-e5bd0d203c2ea5d6f6bb3f9041fce4fc]
+## 20. Effect of requirement for infrastructure consent[^c-e7e881e8efb872b5e005317ee3590e0d][^c-e5bd0d203c2ea5d6f6bb3f9041fce4fc]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7e881e8efb872b5e005317ee3590e0d]: Commencement: S. 20 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-e7e881e8efb872b5e005317ee3590e0d]: Commencement: S. 20 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-e5bd0d203c2ea5d6f6bb3f9041fce4fc]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2024/3/section/20) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-e5bd0d203c2ea5d6f6bb3f9041fce4fc]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2024/3/section/20) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

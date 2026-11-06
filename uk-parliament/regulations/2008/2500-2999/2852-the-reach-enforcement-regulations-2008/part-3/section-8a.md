@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Placing asbestos-containing articles on the market[^key-9ba8221bdb2cbcb79be63a5e94927ef3]
+## 8A. Placing asbestos-containing articles on the market[^c-9ba8221bdb2cbcb79be63a5e94927ef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ba8221bdb2cbcb79be63a5e94927ef3]: Textual amendment: Reg. 8A inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2013/2919/regulation/5)
+[^c-9ba8221bdb2cbcb79be63a5e94927ef3]: Textual amendment: Reg. 8A inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2013/2919/regulation/5)

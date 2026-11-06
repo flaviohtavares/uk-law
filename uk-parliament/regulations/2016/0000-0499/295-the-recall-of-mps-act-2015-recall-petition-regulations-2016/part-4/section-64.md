@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Additional requirements for applications for a proxy signature for a definite or an indefinite period on grounds of blindness or other disability: England and Wales and Scotland[^key-18312d02368874a2829cfada56ae32bb]
+## 64. Additional requirements for applications for a proxy signature for a definite or an indefinite period on grounds of blindness or other disability: England and Wales and Scotland[^c-18312d02368874a2829cfada56ae32bb]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (f) a registered osteopath as defined by section 41 of the Osteopaths Act 1993[^f00025];
 - (g) a registered chiropractor as defined by section 43 of the Chiropractors Act 1994[^f00026];
 - (h) a Christian Science practitioner;
-- (i) a person registered as a member of a profession to which the Health Professions Order 2001[^key-1f51f5ee5c3797fb85395092921c097c] extends;
+- (i) a person registered as a member of a profession to which the Health Professions Order 2001[^c-1f51f5ee5c3797fb85395092921c097c] extends;
 - (j) the person registered—
   - (i) in England and Wales, as carrying on a care home registered under Part 2 of the Care Standards Act 2000[^f00028], or
   - (ii) in Scotland, as managing a care home service registered under Part 5 of the Public Services Reform (Scotland) Act 2010[^f00029],
@@ -45,7 +45,7 @@ summary: ''
 
   or a person authorised to act on behalf of such a manager for these purposes;
 - (m) a person registered in the register of social workers maintained—
-  - (i) in England, under section 39(1) of the Children and Social Work Act 2017[^key-e0fcb3c06a8d436931660ca3144b32b6];
+  - (i) in England, under section 39(1) of the Children and Social Work Act 2017[^c-e0fcb3c06a8d436931660ca3144b32b6];
   - (ii) in Wales, in accordance with section 56 of the Care Standards Act 2000, or
   - (iii) in Scotland, in accordance with section 44 of the Regulation of Care (Scotland) Act 2001[^f00032].
 
@@ -80,11 +80,11 @@ summary: ''
   - (iii) in Scotland, the applicant is registered as a blind person by the local authority which is specified in the application; or
 - (b) the applicant is in receipt of—
   - (i) the higher rate of the mobility component of a disability living allowance (payable under section 73 of the Social Security Contributions and Benefits Act 1992)[^f00035],
-  - (ii) the enhanced rate of the mobility component of personal independence payment (payable under section 79(2) of the Welfare Reform Act 2012)[^f00036], [^key-bd39189e27195630470c46ca0620e89a]...
-  - (iii) the armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00037], [^key-d0803585e6d1a8668bfd5ab1b309bdec]...
-  - (iv)[^key-62f5a741c77ada6fafefaa2b7b802e91] the higher rate of the mobility component of disability assistance for children and young people (payable in accordance with regulations made under section 31 of the 2018 Act), [^key-22a83d08c9e8982b4a8d313c24c01919]...[^key-bbf68f206535e21cdd747f56b65315b2]
-  - (v) the enhanced rate of the mobility component of disability assistance for working age people (payable in accordance with regulations made under section 31 of the 2018 Act), or[^key-49685b3126bef66df860d15c6e2f5448]
-  - (vi)[^key-359d7d10d89a57c2ff4ffbf394074641] the higher rate of the mobility component of a Scottish adult disability living allowance (payable in accordance with regulations made under section 31 of the 2018 Act),
+  - (ii) the enhanced rate of the mobility component of personal independence payment (payable under section 79(2) of the Welfare Reform Act 2012)[^f00036], [^c-bd39189e27195630470c46ca0620e89a]...
+  - (iii) the armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00037], [^c-d0803585e6d1a8668bfd5ab1b309bdec]...
+  - (iv)[^c-62f5a741c77ada6fafefaa2b7b802e91] the higher rate of the mobility component of disability assistance for children and young people (payable in accordance with regulations made under section 31 of the 2018 Act), [^c-22a83d08c9e8982b4a8d313c24c01919]...[^c-bbf68f206535e21cdd747f56b65315b2]
+  - (v) the enhanced rate of the mobility component of disability assistance for working age people (payable in accordance with regulations made under section 31 of the 2018 Act), or[^c-49685b3126bef66df860d15c6e2f5448]
+  - (vi)[^c-359d7d10d89a57c2ff4ffbf394074641] the higher rate of the mobility component of a Scottish adult disability living allowance (payable in accordance with regulations made under section 31 of the 2018 Act),
 
   because of the disability specified in the application.
 
@@ -99,7 +99,7 @@ summary: ''
 
 ## Annotations
 
-[^key-18312d02368874a2829cfada56ae32bb]: Commencement: Reg. 64 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-18312d02368874a2829cfada56ae32bb]: Commencement: Reg. 64 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00020]: Footnote: A registered medical practitioner means a fully registered person within the meaning of the Medical Act [1983 (c. 54)](https://www.legislation.gov.uk/ukpga/1983/54) who holds a licence to practise under that Act; see Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -115,7 +115,7 @@ summary: ''
 
 [^f00026]: Footnote: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17).
 
-[^key-1f51f5ee5c3797fb85395092921c097c]: Textual amendment: Words in reg. 64(2)(i) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 39(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/39/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-1f51f5ee5c3797fb85395092921c097c]: Textual amendment: Words in reg. 64(2)(i) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 39(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/39/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^f00028]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
 
@@ -125,7 +125,7 @@ summary: ''
 
 [^f00031]: Footnote: [2003 asp. 13](https://www.legislation.gov.uk/asp/2003/13).
 
-[^key-e0fcb3c06a8d436931660ca3144b32b6]: Textual amendment: Words in reg. 64(2)(m)(i) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 39(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/39/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-e0fcb3c06a8d436931660ca3144b32b6]: Textual amendment: Words in reg. 64(2)(m)(i) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 39(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/39/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^f00032]: Footnote: [2001 asp. 8](https://www.legislation.gov.uk/asp/2001/8).
 
@@ -137,18 +137,18 @@ summary: ''
 
 [^f00036]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-bd39189e27195630470c46ca0620e89a]: Textual amendment: Word in reg. 64(5)(b)(ii) omitted (22.11.2021) by virtue of [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/3/a)
+[^c-bd39189e27195630470c46ca0620e89a]: Textual amendment: Word in reg. 64(5)(b)(ii) omitted (22.11.2021) by virtue of [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/3/a)
 
 [^f00037]: Footnote: [S.I. 2011/2552](https://www.legislation.gov.uk/uksi/2011/2552).
 
-[^key-d0803585e6d1a8668bfd5ab1b309bdec]: Textual amendment: Word in reg. 64(5)(b)(iii) omitted (21.3.2022) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/9/2/a)
+[^c-d0803585e6d1a8668bfd5ab1b309bdec]: Textual amendment: Word in reg. 64(5)(b)(iii) omitted (21.3.2022) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/9/2/a)
 
-[^key-62f5a741c77ada6fafefaa2b7b802e91]: Textual amendment: Reg. 64(5)(b)(iv) inserted (22.11.2021) by [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/3/c)
+[^c-62f5a741c77ada6fafefaa2b7b802e91]: Textual amendment: Reg. 64(5)(b)(iv) inserted (22.11.2021) by [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/3/c)
 
-[^key-22a83d08c9e8982b4a8d313c24c01919]: Textual amendment: Word in reg. 64(5)(b)(iv) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Amendments) (No. 2) Order 2025 (S.I. 2025/229)](https://www.legislation.gov.uk/uksi/2025/229), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/229/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2025/229/article/5/a)
+[^c-22a83d08c9e8982b4a8d313c24c01919]: Textual amendment: Word in reg. 64(5)(b)(iv) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Amendments) (No. 2) Order 2025 (S.I. 2025/229)](https://www.legislation.gov.uk/uksi/2025/229), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/229/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2025/229/article/5/a)
 
-[^key-bbf68f206535e21cdd747f56b65315b2]: Textual amendment: Reg. 64(5)(b)(v) and word inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/9/2/b)
+[^c-bbf68f206535e21cdd747f56b65315b2]: Textual amendment: Reg. 64(5)(b)(v) and word inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/9/2/b)
 
-[^key-49685b3126bef66df860d15c6e2f5448]: Textual amendment: Word in reg. 64(5)(b)(v) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Amendments) (No. 2) Order 2025 (S.I. 2025/229)](https://www.legislation.gov.uk/uksi/2025/229), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/229/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/229/article/5/b)
+[^c-49685b3126bef66df860d15c6e2f5448]: Textual amendment: Word in reg. 64(5)(b)(v) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Amendments) (No. 2) Order 2025 (S.I. 2025/229)](https://www.legislation.gov.uk/uksi/2025/229), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/229/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/229/article/5/b)
 
-[^key-359d7d10d89a57c2ff4ffbf394074641]: Textual amendment: Reg. 64(5)(b)(vi) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Amendments) (No. 2) Order 2025 (S.I. 2025/229)](https://www.legislation.gov.uk/uksi/2025/229), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/229/article/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2025/229/article/5/c)
+[^c-359d7d10d89a57c2ff4ffbf394074641]: Textual amendment: Reg. 64(5)(b)(vi) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Amendments) (No. 2) Order 2025 (S.I. 2025/229)](https://www.legislation.gov.uk/uksi/2025/229), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/229/article/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2025/229/article/5/c)

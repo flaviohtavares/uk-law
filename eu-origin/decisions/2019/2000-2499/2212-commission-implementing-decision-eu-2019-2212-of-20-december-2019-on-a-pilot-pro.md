@@ -35,38 +35,38 @@ on a pilot project to implement certain administrative cooperation provisions se
 
 (Text with EEA relevance) (revoked)
 
-[^key-44446ec34343d0516c2b484f4afbe913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44446ec34343d0516c2b484f4afbe913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. The pilot project[^key-44446ec34343d0516c2b484f4afbe913]
+## Article 1. The pilot project[^c-44446ec34343d0516c2b484f4afbe913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Competent authorities and other IMI actors[^key-44446ec34343d0516c2b484f4afbe913]
+## Article 2. Competent authorities and other IMI actors[^c-44446ec34343d0516c2b484f4afbe913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Administrative cooperation[^key-44446ec34343d0516c2b484f4afbe913]
+## Article 3. Administrative cooperation[^c-44446ec34343d0516c2b484f4afbe913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Access to IMI functionality[^key-44446ec34343d0516c2b484f4afbe913]
+## Article 4. Access to IMI functionality[^c-44446ec34343d0516c2b484f4afbe913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Retention of data[^key-44446ec34343d0516c2b484f4afbe913]
+## Article 5. Retention of data[^c-44446ec34343d0516c2b484f4afbe913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Evaluation[^key-44446ec34343d0516c2b484f4afbe913]
+## Article 6. Evaluation[^c-44446ec34343d0516c2b484f4afbe913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-44446ec34343d0516c2b484f4afbe913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-44446ec34343d0516c2b484f4afbe913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44446ec34343d0516c2b484f4afbe913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44446ec34343d0516c2b484f4afbe913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44446ec34343d0516c2b484f4afbe913]: Textual amendment: Decision revoked (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/4/4)
+[^c-44446ec34343d0516c2b484f4afbe913]: Textual amendment: Decision revoked (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/4/4)

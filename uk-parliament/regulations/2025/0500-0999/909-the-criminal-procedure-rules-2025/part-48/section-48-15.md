@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.15. Credibility and consistency of maker of written witness statement or other hearsay[^key-27f2cdf75c29627f00117d397918ccf7]
+## 48.15. Credibility and consistency of maker of written witness statement or other hearsay[^c-27f2cdf75c29627f00117d397918ccf7]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-27f2cdf75c29627f00117d397918ccf7]: Commencement: [Rule 48.15](https://www.legislation.gov.uk/uksi/2025/909/rule/48.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-27f2cdf75c29627f00117d397918ccf7]: Commencement: [Rule 48.15](https://www.legislation.gov.uk/uksi/2025/909/rule/48.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01310]: Footnote: [1995 c. 38](https://www.legislation.gov.uk/ukpga/1995/38).
 

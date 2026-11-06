@@ -27,7 +27,7 @@ summary: ''
 - (a) the registered proprietor of a registered estate or registered charge,
 - (b) the registered beneficiary of a unilateral notice,
 - (c) a cautioner named in an individual caution register,
-- (d)[^key-25dcafd3e1fdac34d7692d04b2d58ede] a person named in—
+- (d)[^c-25dcafd3e1fdac34d7692d04b2d58ede] a person named in—
   - (i) a standard form of restriction set out in Schedule 4, whose address is required by that restriction, or
   - (ii) any other restriction, whose consent or certificate is required, or to whom notice is required to be given by the registrar or another person,
 
@@ -53,7 +53,7 @@ summary: ''
 - (b) one of his addresses for service must be a postal address, whether or not in the United Kingdom, and
 - (c) all of his addresses for service must be such addresses as are mentioned in paragraph (4).
 
-(6A)[^key-e6fa5707439bacc4c1154e399fdb464a] Where a cautioner who is shown in the register of title as having been entered in that register in respect of a caution against dealings under section 54 of the Land Registration Act 1925 has died, his personal representative may apply to the registrar for the entry of a replacement or additional address for service provided that—
+(6A)[^c-e6fa5707439bacc4c1154e399fdb464a] Where a cautioner who is shown in the register of title as having been entered in that register in respect of a caution against dealings under section 54 of the Land Registration Act 1925 has died, his personal representative may apply to the registrar for the entry of a replacement or additional address for service provided that—
 
 - (a) there may not be more than three addresses for service,
 - (b) one of the addresses for service must be a postal address, whether or not in the United Kingdom,
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25dcafd3e1fdac34d7692d04b2d58ede]: Textual amendment: Rule 198(2)(d) substituted (24.10.2005) by [The Land Registration (Amendment) Rules 2005 (S.I. 2005/1766)](https://www.legislation.gov.uk/uksi/2005/1766), [rules 1](https://www.legislation.gov.uk/uksi/2005/1766/rule/1), [8](https://www.legislation.gov.uk/uksi/2005/1766/rule/8)
+[^c-25dcafd3e1fdac34d7692d04b2d58ede]: Textual amendment: Rule 198(2)(d) substituted (24.10.2005) by [The Land Registration (Amendment) Rules 2005 (S.I. 2005/1766)](https://www.legislation.gov.uk/uksi/2005/1766), [rules 1](https://www.legislation.gov.uk/uksi/2005/1766/rule/1), [8](https://www.legislation.gov.uk/uksi/2005/1766/rule/8)
 
-[^key-e6fa5707439bacc4c1154e399fdb464a]: Textual amendment: Rule 198(6A) inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/64) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-e6fa5707439bacc4c1154e399fdb464a]: Textual amendment: Rule 198(6A) inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/64) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

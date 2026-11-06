@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19. Acquisition and appropriation[^key-7b6c723a5884b6693cb119573c9344b9]
+## 19. Acquisition and appropriation[^c-7b6c723a5884b6693cb119573c9344b9]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b6c723a5884b6693cb119573c9344b9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2018/8/section/19) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-7b6c723a5884b6693cb119573c9344b9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2018/8/section/19) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

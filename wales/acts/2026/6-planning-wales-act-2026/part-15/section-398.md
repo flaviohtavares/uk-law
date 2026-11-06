@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 398. Service of notices and other documents: general[^key-0d7068f3c606070c3fab498a2fd02d99]
+## 398. Service of notices and other documents: general[^c-0d7068f3c606070c3fab498a2fd02d99]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d7068f3c606070c3fab498a2fd02d99]: Commencement: S. 398 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0d7068f3c606070c3fab498a2fd02d99]: Commencement: S. 398 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Publication of time and place of inspection of returns and declarations[^key-961b4fa12db84a75de46dbd4865167c2]
+## 63. Publication of time and place of inspection of returns and declarations[^c-961b4fa12db84a75de46dbd4865167c2]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ a notice of the time and place at which the returns and declarations, including 
 
 ## Annotations
 
-[^key-961b4fa12db84a75de46dbd4865167c2]: Commencement: Art. 63 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-961b4fa12db84a75de46dbd4865167c2]: Commencement: Art. 63 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

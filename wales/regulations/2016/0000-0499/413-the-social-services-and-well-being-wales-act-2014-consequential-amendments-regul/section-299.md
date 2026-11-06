@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**299.**[^key-bc7aef50745d3cbf3e764790a5a33804] In section 76 (accommodation for children without parents or who are lost or abandoned etc) after subsection (2) insert—
+**299.**[^c-bc7aef50745d3cbf3e764790a5a33804] In section 76 (accommodation for children without parents or who are lost or abandoned etc) after subsection (2) insert—
 
 > (2A) Where a local authority in England provides accommodation under section 20(1) of the Children Act 1989 (provision of accommodation for children: general) for a child who is ordinarily resident in the area of a local authority in Wales, that local authority in Wales may take over the provision of accommodation for the child within—
 >
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc7aef50745d3cbf3e764790a5a33804]: Commencement: Reg. 299 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-bc7aef50745d3cbf3e764790a5a33804]: Commencement: Reg. 299 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

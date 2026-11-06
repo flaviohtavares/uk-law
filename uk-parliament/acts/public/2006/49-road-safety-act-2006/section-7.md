@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Public passenger vehicle licensing[^key-65cc5f647bd6aa9fe61015d511d2c3ea]
+## 7. Public passenger vehicle licensing[^c-65cc5f647bd6aa9fe61015d511d2c3ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65cc5f647bd6aa9fe61015d511d2c3ea]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/49/section/7) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/c)
+[^c-65cc5f647bd6aa9fe61015d511d2c3ea]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/49/section/7) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/c)
